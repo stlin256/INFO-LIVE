@@ -9,6 +9,9 @@
  */
 import { getBeijingTime } from './fetcher.mjs';
 import { translateForeignTitle } from './translations.mjs';
+import { runHarness } from './ai-harness.mjs';
+import { buildContextPack } from './context-pack.mjs';
+import { getAgent, validateAgentResult } from './ai-agents.mjs';
 
 export { translateForeignTitle };
 
@@ -124,8 +127,8 @@ export function inferDimensionAndStance(item) {
 /**
  * 权威高水准全篇全量中文深度编译引擎（450-800字地道中文，杜绝生硬外文残留）
  */
-function compileArticleLocally(it, timeInfo) {
-  const pubTime = it.pubTimeFormatted || timeInfo.hourOnly;
+function compileArticleLocally(it, _timeInfo) {
+  const pubTime = it.pubTimeFormatted || '发布时间未知';
   const originalTitle = it.title;
   const translatedTitle = translateForeignTitle(originalTitle, it.sourceLang || 'en');
   const { dimension, dimensionLabel, stance } = inferDimensionAndStance(it);
@@ -162,8 +165,12 @@ function compileArticleLocally(it, timeInfo) {
     tags: tags,
     source: it.sourceName,
     sourceSlug: it.sourceSlug,
+    sourceLang: it.sourceLang || 'en',
     url: it.link,
     pubTime: pubTime,
+    publishedAt: it.pubDate || null,
+    snippet: it.snippet || '',
+    fullContent: it.fullContent || it.snippet || '',
     imageUrl: it.imageUrl || null,
     fullTranslation: fullTranslation,
     keyTakeaways: keyTakeaways
@@ -234,7 +241,7 @@ function partitionAndEnsureDesks(rawItems, timeInfo) {
 
   // 快讯流 (Ticker) 全量翻译，保留原文，并附带 1-2 句精炼事实速览
   const ticker = rawItems.slice(0, 36).map((it) => {
-    const timeStr = it.pubTimeFormatted ? it.pubTimeFormatted.split(' ')[1] || it.pubTimeFormatted : timeInfo.hourOnly;
+    const timeStr = it.pubTimeFormatted ? it.pubTimeFormatted.split(' ')[1] || it.pubTimeFormatted : '发布时间未知';
     const { dimensionLabel, stance } = inferDimensionAndStance(it);
     const trans = translateForeignTitle(it.title, it.sourceLang || 'en');
 
@@ -268,6 +275,127 @@ function partitionAndEnsureDesks(rawItems, timeInfo) {
     trendStories: compiledTrends,
     ticker: ticker
   };
+}
+
+
+function normalizeAgentValue(value) {
+  if (Array.isArray(value)) return { items: value };
+  if (value && typeof value === 'object') return value;
+  return {};
+}
+
+function articleForAgent(story) {
+  return {
+    id: story.id,
+    title: story.originalTitle || story.title,
+    originalTitle: story.originalTitle || story.title,
+    source: story.source,
+    sourceName: story.source,
+    sourceLang: story.sourceLang || 'en',
+    publishedAt: story.publishedAt || null,
+    publishedAtDisplay: story.pubTime || null,
+    url: story.url,
+    link: story.url,
+    snippet: story.snippet || story.fullTranslation || '',
+    fullContent: story.fullContent || story.fullTranslation || story.snippet || '',
+    imageUrl: story.imageUrl || null,
+  };
+}
+
+function buildAgentPrompt(role, pack) {
+  const evidence = JSON.stringify(pack);
+  const prompts = {
+    'fact-extractor': `你是事实核验编辑。只根据下面这一篇文章的原始证据提取事实，不得补写未提供的内容。将可验证事实、实体、数字、未证实说法和证据片段分开。严格输出 JSON：{"facts":[{"claim":"","status":"reported|confirmed|inferred","source":""}],"entities":[],"unverified":[],"evidence":[{"quote":"","url":""}]}\n证据包：${evidence}`,
+    translator: `你是专业通讯社译者。将下面文章完整翻译为目标语言中文，保留原始标题，不得只翻译标题或摘要，不得编造缺失事实。正文应保留原文段落顺序；若原文只有摘要，明确按所给内容翻译。严格输出 JSON：{"translatedTitle":"","originalTitle":"","fullTranslation":"","notes":[]}\n证据包：${evidence}`,
+    'source-positioner': `你是多信源立场分析编辑。严格区分文章事实与来源叙事框架，不把媒体标签当作事实。输出来源角色、报道重点、利益相关方、共识、分歧和盲区。严格输出 JSON：{"sourceRole":"","narrativeFocus":"","stakeholders":[],"consensus":[],"disagreements":[],"blindSpots":[]}\n证据包：${evidence}`,
+    'topic-classifier': `你是全球事件分类编辑。允许创建原有频道之外的新维度，但必须基于文章证据。输出维度、标签、候选专题 slug 和 0-100 优先级。严格输出 JSON：{"dimensions":[],"tags":[],"candidateTopicSlugs":[],"priority":0}\n证据包：${evidence}`,
+  };
+  return prompts[role] || `请依据以下结构化证据输出角色 ${role} 所需 JSON，不得添加未提供事实：${evidence}`;
+}
+
+function createArticleAgentTasks(stories, runId, apiConfig) {
+  const roles = ['fact-extractor', 'translator', 'source-positioner', 'topic-classifier'];
+  const tasks = [];
+  for (const [index, story] of stories.entries()) {
+    for (const role of roles) {
+      const agent = getAgent(role);
+      const pack = buildContextPack({
+        runId,
+        taskId: `article-${index}-${role}`,
+        role,
+        targetLanguage: 'zh',
+        article: articleForAgent(story),
+        citations: [{ source: story.source, url: story.url, publishedAt: story.publishedAt || null }],
+        lineage: { sourceItemIds: [story.id || story.url] },
+      }, {
+        maxInputChars: agent.budget.maxInputChars,
+        maxOutputChars: agent.budget.maxOutputChars,
+      });
+      tasks.push({
+        id: `article-${index}-${role}`,
+        role,
+        optional: true,
+        inputKeys: ['pack'],
+        timeoutMs: agent.budget.timeoutMs,
+        run: async (input) => {
+          const result = await requestJsonWithFallback({
+            ...apiConfig,
+            prompt: buildAgentPrompt(role, input.pack),
+            timeoutMs: agent.budget.timeoutMs,
+          });
+          const value = normalizeAgentValue(result.value);
+          const validation = validateAgentResult(role, value);
+          if (!validation.valid) throw new Error(`${role} output invalid: ${validation.errors.join('; ')}`);
+          return { ...value, _model: result.model };
+        },
+      });
+      tasks[tasks.length - 1].input = { pack };
+    }
+  }
+  return tasks;
+}
+
+function buildBoundedOverviewPack(items, runId, role, maxInputChars) {
+  return buildContextPack({
+    runId,
+    taskId: role,
+    role,
+    targetLanguage: 'zh',
+    relatedArticles: items.slice(0, 12).map((item) => ({
+      id: item.id || item.url,
+      title: item.originalTitle || item.title,
+      source: item.source,
+      sourceLang: item.sourceLang,
+      publishedAt: item.publishedAt || null,
+      url: item.url,
+      excerpt: item.snippet || item.fullTranslation || '',
+      sourceWeight: item.weight || 0,
+    })),
+    lineage: { sourceItemIds: items.slice(0, 12).map((item) => item.id || item.url) },
+  }, { maxInputChars });
+}
+
+function createOverviewTasks(items, runId, apiConfig) {
+  const hourlyPack = buildBoundedOverviewPack(items, runId, 'hourly-editor', 20000);
+  const dailyPack = buildBoundedOverviewPack(items, runId, 'daily-analyst', 20000);
+  const socialPack = buildBoundedOverviewPack(items.filter((item) => item.category === 'community'), runId, 'social-trends', 16000);
+  return [
+    {
+      id: 'hourly-editor', role: 'hourly-editor', optional: true, input: { pack: hourlyPack }, inputKeys: ['pack'],
+      timeoutMs: getAgent('hourly-editor').budget.timeoutMs,
+      run: async (input) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('hourly-editor').budget.timeoutMs, prompt: `你是本小时主编，只根据下面有限的结构化文章目录输出 JSON。不要声称未提供的事实。输出 hourlyBriefing、perspectiveMatrix、specialTopics、socialTrends 四个字段；不需要全文。证据包：${JSON.stringify(input.pack)}` })).value,
+    },
+    {
+      id: 'daily-analyst', role: 'daily-analyst', optional: true, input: { pack: dailyPack }, inputKeys: ['pack'],
+      timeoutMs: getAgent('daily-analyst').budget.timeoutMs,
+      run: async (input) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('daily-analyst').budget.timeoutMs, prompt: `你是日尺度分析师，根据下列最近文章目录输出 JSON：{"title":"","lead":"","themes":[{"name":"","analysis":""}]}。不得编造证据。证据包：${JSON.stringify(input.pack)}` })).value,
+    },
+    {
+      id: 'social-trends', role: 'social-trends', optional: true, input: { pack: socialPack }, inputKeys: ['pack'],
+      timeoutMs: getAgent('social-trends').budget.timeoutMs,
+      run: async (input) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('social-trends').budget.timeoutMs, prompt: `你是社会热点编辑，只根据下列社区文章目录输出 JSON：{"radar":[],"debates":[]}。没有证据的热点不要补写。证据包：${JSON.stringify(input.pack)}` })).value,
+    },
+  ];
 }
 
 export async function summarizeWithAI(items) {
@@ -444,80 +572,95 @@ export async function summarizeWithAI(items) {
   }
 
   // -------------------------------------------------------------
-  // 若配置了 AI API Key，启动分阶段微批次（Micro-batching）高级编译管道
+  // 配置 AI API Key 后，交给局部 Harness 执行专家 DAG。
+  // 每个 Agent 只接收自己的 Context Pack；宏观 Agent 只接收标题/摘要目录。
   // -------------------------------------------------------------
-  console.log(`[AI] Starting multi-stage micro-batched LLM synthesis with model: ${model}`);
+  console.log(`[AI] Starting bounded expert-agent DAG with model: ${model}`);
+  const runId = `feed-${timeInfo.iso.replace(/[^0-9A-Za-z]/g, '').slice(0, 20)}-${Math.random().toString(36).slice(2, 8)}`;
+  const apiConfig = {
+    apiBase,
+    apiKey,
+    primaryModel: model,
+    fallbackModel,
+  };
+  const articleLimit = Math.max(1, Number(process.env.AI_ARTICLE_LIMIT || 8));
+  const storiesToEnhance = deskData.topStories.slice(0, articleLimit);
+  const expertTasks = createArticleAgentTasks(storiesToEnhance, runId, apiConfig);
+  const overviewTasks = createOverviewTasks(items, runId, apiConfig);
+  const mergeDependencies = expertTasks.map((task) => task.id);
+  const tasks = [
+    ...expertTasks.map((task) => ({ ...task, inputKeys: ['pack'] })),
+    ...overviewTasks,
+    {
+      id: 'evidence-merger',
+      role: 'evidence-merger',
+      optional: true,
+      dependsOn: mergeDependencies,
+      run: (input) => {
+        const merged = {};
+        for (const [taskId, dependency] of Object.entries(input.dependencies || {})) {
+          if (dependency.status === 'succeeded' && dependency.output) merged[taskId] = dependency.output;
+        }
+        return { articles: merged, runId };
+      },
+    },
+  ];
 
-  try {
-    const macroPrompt = `你是一个世界级多极化战略智库的主笔。请根据过去一小时全球大国通讯社（新华社、俄新社、法新社、CNN、FOX、BBC、半岛、WSJ等）采集的动态，输出一份高水准中文战略研判。
-严格输出 JSON：
-{
-  "hourlyBriefing": { "title": "本小时全球战略情报速报", "lead": "150-200字速报", "signals": ["信号1", "信号2", "信号3"] },
-  "dailyBriefing": { "title": "24小时全球宏观大势与主线脉络", "lead": "250-350字宏观剖析", "themes": [{ "name": "主线名", "analysis": "深度解析" }] },
-  "perspectiveMatrix": [...2个重大全球分歧焦点立场解构],
-  "specialTopics": [...2个AI深度追踪专题],
-  "socialTrends": { "radar": [...4个公众热点], "debates": [...4个社区争鸣] }
-}`;
-
-    const macroResult = await requestJsonWithFallback({
-      apiBase,
-      apiKey,
-      primaryModel: model,
+  const harnessResult = await runHarness({
+    runId,
+    tasks,
+    context: {
+      model,
       fallbackModel,
-      prompt: macroPrompt,
-      timeoutMs: 30000,
-    });
-    const parsed = macroResult.value;
-    if (parsed.hourlyBriefing) baseSynthesis.hourlyBriefing = parsed.hourlyBriefing;
-    if (parsed.dailyBriefing) baseSynthesis.dailyBriefing = parsed.dailyBriefing;
-    if (parsed.perspectiveMatrix) baseSynthesis.perspectiveMatrix = parsed.perspectiveMatrix;
-    if (parsed.specialTopics) baseSynthesis.specialTopics = parsed.specialTopics;
-    if (parsed.socialTrends) baseSynthesis.socialTrends = parsed.socialTrends;
-    console.log(`[AI] Stage 1 Macro synthesis completed successfully with ${macroResult.model}.`);
-  } catch (err) {
-    console.warn('[AI] Stage 1 Macro LLM call failed, smoothly degraded to base synthesis:', err.message);
-  }
+      pack: null,
+    },
+    maxConcurrency: Number(process.env.AI_MAX_CONCURRENCY || 4),
+    roleConcurrency: { translator: 2, 'fact-extractor': 2, 'source-positioner': 2, 'topic-classifier': 2 },
+  });
+  console.log(`[AI] Harness completed: ${harnessResult.metrics.succeeded}/${harnessResult.metrics.totalTasks} tasks succeeded; degraded=${harnessResult.degraded}`);
 
-  // Stage 2: 微批次（Micro-batching）深度编译重点核心文章（每批 2 篇，避免一次性过载喂给 LLM）
-  if (deskData.topStories && deskData.topStories.length > 0) {
-    const storiesToEnhance = deskData.topStories.slice(0, 4);
-    for (let i = 0; i < storiesToEnhance.length; i += 2) {
-      const batch = storiesToEnhance.slice(i, i + 2);
-      try {
-        const batchPrompt = `请将以下 2 篇权威外文电讯进行全篇高质量中文深度编译（包含事实原委、地缘/行业背景、各方表态、后续观察，每篇 450-700 字，地道专业情报风格，严禁残留生硬外文）：
-${batch.map((b, idx) => `[${idx + 1}] 信源：${b.source}，原始标题：${b.originalTitle}，线索：${b.fullTranslation.slice(0, 260)}`).join('\n\n')}
-
-请严格输出 JSON 数组：
-[
-  { "index": 1, "translatedTitle": "中文主标题", "fullArticle": "450-700字中文全篇编译", "takeaways": ["核心研判1", "核心研判2"] },
-  { "index": 2, "translatedTitle": "中文主标题", "fullArticle": "450-700字中文全篇编译", "takeaways": ["核心研判1", "核心研判2"] }
-]`;
-
-        const batchResult = await requestJsonWithFallback({
-          apiBase,
-          apiKey,
-          primaryModel: model,
-          fallbackModel,
-          prompt: batchPrompt,
-          timeoutMs: 25000,
-        });
-        const bParsed = batchResult.value;
-        const arr = Array.isArray(bParsed) ? bParsed : (bParsed.articles || bParsed.items || []);
-        arr.forEach((enh, idx) => {
-          if (batch[idx] && enh.translatedTitle && enh.fullArticle) {
-            batch[idx].title = enh.translatedTitle;
-            batch[idx].fullTranslation = enh.fullArticle;
-            if (enh.takeaways && enh.takeaways.length > 0) {
-              batch[idx].keyTakeaways = enh.takeaways;
-            }
-          }
-        });
-        console.log(`[AI] Stage 2 Micro-batch ${i / 2 + 1} compiled successfully with ${batchResult.model}.`);
-      } catch (err) {
-        console.warn(`[AI] Micro-batch ${i / 2 + 1} skipped, using high-fidelity local compilation:`, err.message);
-      }
+  for (const [index, story] of storiesToEnhance.entries()) {
+    const translator = harnessResult.outputs[`article-${index}-translator`];
+    const facts = harnessResult.outputs[`article-${index}-fact-extractor`];
+    const position = harnessResult.outputs[`article-${index}-source-positioner`];
+    const classifier = harnessResult.outputs[`article-${index}-topic-classifier`];
+    if (translator?.translatedTitle && translator?.fullTranslation) {
+      story.title = translator.translatedTitle;
+      story.originalTitle = translator.originalTitle || story.originalTitle;
+      story.fullTranslation = translator.fullTranslation;
+      story.translationModel = translator._model;
+    }
+    story.agentEvidence = {
+      facts: facts || null,
+      position: position || null,
+      classification: classifier || null,
+      citations: [{ source: story.source, sourceLang: story.sourceLang, publishedAt: story.publishedAt || null, url: story.url }],
+      runId,
+    };
+    if (facts?.facts?.length || position || classifier) {
+      story.keyTakeaways = [
+        ...(facts?.facts || []).slice(0, 2).map((fact) => typeof fact === 'string' ? fact : fact.claim).filter(Boolean),
+        ...(position?.narrativeFocus ? [`来源叙事重点：${position.narrativeFocus}`] : []),
+      ].slice(0, 4);
     }
   }
+
+  const hourlyResult = harnessResult.outputs['hourly-editor'];
+  const dailyResult = harnessResult.outputs['daily-analyst'];
+  const socialResult = harnessResult.outputs['social-trends'];
+  if (hourlyResult?.hourlyBriefing) baseSynthesis.hourlyBriefing = hourlyResult.hourlyBriefing;
+  if (hourlyResult?.perspectiveMatrix) baseSynthesis.perspectiveMatrix = hourlyResult.perspectiveMatrix;
+  if (hourlyResult?.specialTopics) baseSynthesis.specialTopics = hourlyResult.specialTopics;
+  if (hourlyResult?.socialTrends) baseSynthesis.socialTrends = hourlyResult.socialTrends;
+  if (dailyResult?.title || dailyResult?.lead || dailyResult?.themes) baseSynthesis.dailyBriefing = dailyResult;
+  if (socialResult?.radar || socialResult?.debates) baseSynthesis.socialTrends = socialResult;
+  baseSynthesis.orchestration = {
+    runId,
+    degraded: harnessResult.degraded,
+    degradedTasks: harnessResult.degradedTasks,
+    metrics: harnessResult.metrics,
+  };
+
 
   return {
     ...baseSynthesis,

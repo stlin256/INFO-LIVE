@@ -17,6 +17,7 @@
    - **重大事件脉络追踪（Timeline）**：结构化呈现跨周期的事件最新进展、背景脉络与后续研判。
    - **全景要闻深度拆解（Cards）**：150~200 字背景深度还原 + 核心研判要点 + 真实来源追溯。
    - **秒级快讯流（Ticker）**：一目了然的时间轴滚动速览。
+   - **局部 Harness + 专家 Agent DAG**：事实抽取、全文翻译、来源立场、主题分类、小时编辑、日尺度分析与社会热点按最小上下文分工；独立任务受并发/超时/重试/备用模型控制，单个角色失败不会拖垮整轮。
 
 3. **🎨 精致预制媒体品牌徽标（SVG Vector Badges）**
    - 为 42 个世界媒体、国际组织与政策机构手工打造矢量 SVG 徽标，并在渲染引擎中智能规范化对齐，保证视觉呈现极致专业。
@@ -45,7 +46,7 @@
 
 - **核心驱动**：[OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2)（Astro + TypeScript + Vite + Sharp）
 - **InfoLive 品牌系统**：独立项目 Logo、雷达式 favicon、42 个信源徽标，以及支持宽色域 HDR 高光的页脚 Logo。主题色采用非蓝色的暖陶土红（`#C65A3A`），搭配信号青绿与琥珀橙。
-- **AI 智能中枢**：可配置主模型 + `gpt-5.6-luna` 自动故障转移（OpenAI-compatible protocol）
+- **AI 智能中枢**：局部 Harness 编排专家 Agent DAG；可配置主模型 + `gpt-5.6-luna` 自动故障转移（OpenAI-compatible protocol），使用有预算的 Context Pack，避免一次性向 LLM 投喂全量文章与历史。
 - **多源数据管线**：Node.js 24 + Undici + RSS-Parser + 智能容错并发队列
 - **CI/CD & 托管**：GitHub Actions + GitHub Pages
 

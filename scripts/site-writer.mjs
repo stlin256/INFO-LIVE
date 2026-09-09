@@ -300,13 +300,19 @@ export function renderLiveWireStream(ticker = [], topStories = []) {
 export function writeSiteData(data, rawItems = []) {
   const pagesDir = path.resolve('data/pages/zh');
   const timeInfo = getBeijingTime();
+  const orchestration = data.orchestration || {};
 
   if (!fs.existsSync(pagesDir)) {
     fs.mkdirSync(pagesDir, { recursive: true });
   }
 
   // 跨 Actions 话题生命周期演进（开始、更新、迭代、归档）
-  const activeTopics = evolveTopics(data.specialTopics || [], rawItems, timeInfo);
+  const topicRunMeta = orchestration.runId ? {
+    runId: orchestration.runId,
+    previousRunIds: orchestration.previousRunIds || [],
+    archiveAfterRuns: 3,
+  } : {};
+  const activeTopics = evolveTopics(data.specialTopics || [], rawItems, timeInfo, topicRunMeta);
 
   const hourly = data.hourlyBriefing || {};
   const daily = data.dailyBriefing || {};
@@ -337,22 +343,60 @@ export function writeSiteData(data, rawItems = []) {
     }
   }
 
+  const articleSnapshots = topStories.slice(0, 14).map((s) => ({
+    id: s.id,
+    title: s.title,
+    originalTitle: s.originalTitle,
+    source: s.source,
+    sourceSlug: s.sourceSlug,
+    sourceLang: s.sourceLang,
+    publishedAt: s.publishedAt || null,
+    pubTime: s.pubTime || '发布时间未知',
+    url: s.url,
+    imageUrl: s.imageUrl || null,
+    fullTranslation: s.fullTranslation || s.snippet || '',
+    keyTakeaways: s.keyTakeaways || [],
+    citations: s.agentEvidence?.citations || [{ source: s.source, url: s.url, publishedAt: s.publishedAt || null }],
+  }));
+
   const currentSnapshot = {
     timestamp: timeInfo.timestamp,
     timeDisplay: timeInfo.display,
     date: timeInfo.dateOnly,
+    runId: orchestration.runId || null,
+    generatedAt: timeInfo.iso,
     hourlyBriefing: hourly,
     dailyBriefing: daily,
     storiesCount: topStories.length,
-    topStories: topStories.slice(0, 10).map((s) => ({
-      title: s.title,
-      originalTitle: s.originalTitle,
-      source: s.source,
-      pubTime: s.pubTime,
-      url: s.url
-    }))
+    taskMetrics: orchestration.metrics || null,
+    degradedRoles: orchestration.degradedTasks || [],
+    topStories: articleSnapshots,
+    articleSnapshots,
   };
 
+  if (orchestration.runId) {
+    const runsDir = path.resolve('.cache/ai-runs');
+    if (!fs.existsSync(runsDir)) fs.mkdirSync(runsDir, { recursive: true });
+    const runFile = path.join(runsDir, `${orchestration.runId}.json`);
+    const tempFile = `${runFile}.${process.pid}.${Date.now()}.tmp`;
+    try {
+      fs.writeFileSync(tempFile, JSON.stringify({
+        schemaVersion: 1,
+        runId: orchestration.runId,
+        generatedAt: timeInfo.iso,
+        orchestration,
+        articleSnapshots,
+        topicSlugs: (data.specialTopics || []).map((topic) => topic.slug).filter(Boolean),
+      }, null, 2), 'utf8');
+      fs.renameSync(tempFile, runFile);
+    } finally {
+      if (fs.existsSync(tempFile)) {
+        try { fs.unlinkSync(tempFile); } catch { /* preserve original write error */ }
+      }
+    }
+  }
+
+  if (orchestration.runId) archive = archive.filter((snapshot) => snapshot.runId !== orchestration.runId);
   archive.unshift(currentSnapshot);
   fs.writeFileSync(archiveFile, JSON.stringify(archive, null, 2), 'utf8');
 
@@ -365,6 +409,7 @@ export function writeSiteData(data, rawItems = []) {
       dailyData = [];
     }
   }
+  if (orchestration.runId) dailyData = dailyData.filter((snapshot) => snapshot.runId !== orchestration.runId);
   dailyData.unshift(currentSnapshot);
   fs.writeFileSync(todayFile, JSON.stringify(dailyData, null, 2), 'utf8');
 
