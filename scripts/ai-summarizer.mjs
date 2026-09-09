@@ -583,7 +583,8 @@ export async function summarizeWithAI(items) {
     primaryModel: model,
     fallbackModel,
   };
-  const articleLimit = Math.max(1, Number(process.env.AI_ARTICLE_LIMIT || 8));
+  const configuredArticleLimit = Number.parseInt(process.env.AI_ARTICLE_LIMIT || '8', 10);
+  const articleLimit = Number.isInteger(configuredArticleLimit) && configuredArticleLimit > 0 ? configuredArticleLimit : 8;
   const storiesToEnhance = deskData.topStories.slice(0, articleLimit);
   const expertTasks = createArticleAgentTasks(storiesToEnhance, runId, apiConfig);
   const overviewTasks = createOverviewTasks(items, runId, apiConfig);
@@ -614,7 +615,10 @@ export async function summarizeWithAI(items) {
       fallbackModel,
       pack: null,
     },
-    maxConcurrency: Number(process.env.AI_MAX_CONCURRENCY || 4),
+    maxConcurrency: (() => {
+      const configuredConcurrency = Number.parseInt(process.env.AI_MAX_CONCURRENCY || '4', 10);
+      return Number.isInteger(configuredConcurrency) && configuredConcurrency > 0 ? configuredConcurrency : 4;
+    })(),
     roleConcurrency: { translator: 2, 'fact-extractor': 2, 'source-positioner': 2, 'topic-classifier': 2 },
   });
   console.log(`[AI] Harness completed: ${harnessResult.metrics.succeeded}/${harnessResult.metrics.totalTasks} tasks succeeded; degraded=${harnessResult.degraded}`);
