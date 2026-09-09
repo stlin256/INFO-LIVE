@@ -12,44 +12,44 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>  <span class="news-meta-time">21:18</span>
+<span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>  <span class="news-meta-time">21:44</span>
 
-### [苹果新任CEO首秀：2000美元折叠旗舰iPhone Duo颠覆产品线](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
+### [Anthropic资深研究员辞职吹哨：超人类AI灭绝人类风险已超10%](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans)
 
-约翰·特努斯（John Ternus）接替蒂姆·库克执掌苹果帅印后，迎来首场秋季发布会。彭博社披露，苹果筹备多年的首款折叠屏手机被命名为'iPhone Duo'，起售价高达2000美元。此举不仅是对iPhone产品线最高产品层级的技术重塑，也是特努斯时代为拉动硬件营收与稳固超高端统治力打下的第一记重拳。
-
->  **核心研判**：
-> - 2000美元超高定价策略将考验全球高端消费电子黏性，若超预期或将打开整个折叠供应链估值天花板。
-> - 这是特努斯确立个人领导权威的关键战役，折叠屏生态交互也将深刻影响iOS下一代多模态系统路线。
-
-[查阅出处原文 ](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
-:::
-
-:::cell
-<span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>  <span class="news-meta-time">21:15</span>
-
-### [Anthropic资深研究员辞职揭露黑幕：超级AI本世纪末或具10%灭绝风险](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans)
-
-AI独角兽Anthropic高级安全研究员公开发出预警，称本十年结束前AI毁灭全人类的概率超过10%；此前数小时，其同事因担忧各实验室陷入构建无法控制的'超人类系统'恶性军备竞赛而愤然辞职。这一内部安全裂痕凸显出商业变现焦虑正压制基础对齐研究，促使立法者对超级智能研发设立刚性安全底线。
+Anthropic内部安全裂痕彻底公开化。一名核心安全研究员辞职并公开谴责AI军备竞赛正盲目滑向失控边缘，其资深同事随后警告称，本十年底前不可控AI灭绝全人类的概率超过10%。该事件揭示出在模型能力逼近自主数学与科学突破的背景下，前沿实验室的商业利益正强行碾压既有安全对齐框架，全球安全监管窗口正在快速关闭。
 
 >  **核心研判**：
-> - 核心安全人员出走与吹哨，预示着顶尖AI实验室的'安全vs速度'内部治理结构已趋于破裂边缘。
-> - 各主权监管机构料将针对AGI前沿模型训练部署强制性'断路器'（Kill-switch）及第三方审计机制。
+> - 头部AI巨头内部安全派与加速派决裂加剧，对齐技术严重滞后于模型推理能力的跃迁。
+> - 此事件将直接推动美欧立法机构启动针对具备自主推理能力大模型的强制熔断监管机制。
 
 [查阅出处原文 ](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans)
 :::
 
 :::cell
-<span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>  <span class="news-meta-time">21:05</span>
+<span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>  <span class="news-meta-time">21:44</span>
 
-### [破解90年悬案？OpenAI声称攻克纳维-斯托克斯方程引发学界震荡](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
+### [苹果迎新帅约翰·特努斯首秀：折叠屏iPhone Duo被指售价两千美元](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
 
-OpenAI发布重磅博文宣称其前沿AI模型成功推导出困扰物理与数学界近90年的'纳维-斯托克斯方程'（Navier-Stokes）求解路径，该问题是千禧年七大数学难题之一。这一声明在学术界引发轩然大波，虽存在验证与严格性争议，但若被证实，不仅标志着AI具备解决复杂非线性物理系统的高阶推演能力，更将颠覆流体力学与航天工程底层研究范式。
+9月9日苹果秋季发布会成为约翰·特努斯（John Ternus）接替库克出任CEO后的关键执政首秀。彭博社披露，代号为iPhone Duo的首款折叠屏手机将在此次发布会上正式亮相，起售价高达2000美元。这标志着苹果在长期观望后正式切入超高端折叠屏赛道，试图通过全新硬件形态与端侧AI协同，重新激活高净值智能手机存量换机市场。
 
 >  **核心研判**：
-> - AI从单纯的数据归纳跃升至具有自主形式化证明能力的科学研究主力，AI for Science迎来分水岭。
-> - 学术界对商业AI公司宣称的重大科学突破启动极度严苛的同行评审，公信力博弈进入白热化。
+> - iPhone Duo的高定价策略意在稳固苹果超高端硬件利润率，并建立折叠形态的生态标准。
+> - 特努斯的技术背景预示苹果未来产品将更加注重底层硬件工程架构与端侧边缘算力的极限压榨。
 
-[查阅出处原文 ](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
+[查阅出处原文 ](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
+:::
+
+:::cell
+<span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>  <span class="news-meta-time">21:44</span>
+
+### [OECD重磅教育报告揭示：过度依赖生成式AI致使学生学业水平普遍滑坡](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa)
+
+经合组织（OECD）最新发布的PISA教育调查报告揭示了一个反常识现象：频繁依赖生成式AI辅助日常学业的学生，其最终学业评估得分整体显著落后于不依赖AI的同行。报告指出，缺乏批判性引导的AI使用极易导致认知外包与深度思考能力退化。这一全球量化证据将对各国基础教育的数字化战略与大模型进课堂政策产生深刻纠偏作用。
+
+>  **核心研判**：
+> - 生成式AI工具若缺乏教育脚手架设计，将加速学生核心逻辑与复杂问题解决能力的退化。
+> - 全球基础教育系统面临从简单引入AI终端转向构建防范思维惰性的新型评估标准的严峻转型。
+
+[查阅出处原文 ](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa)
 :::
 ::::
