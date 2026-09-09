@@ -26,6 +26,13 @@ export default defineConfig({
         // v8 插桩不跨进程，计入统计只会恒为 0
         'scripts/sync-version.mjs',
         'scripts/generate-og-images.ts',
+        // InfoLive 多源数据流与 AI 总结引擎，由 hourly-feed 工作流驱动
+        'scripts/feed-engine.mjs',
+        'scripts/fetcher.mjs',
+        'scripts/ai-summarizer.mjs',
+        'scripts/site-writer.mjs',
+        'scripts/sources.mjs',
+        'scripts/generate-source-icons.mjs',
       ],
       reporter: ['text', 'json-summary'],
     },

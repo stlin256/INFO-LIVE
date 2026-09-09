@@ -32,10 +32,8 @@ jobs:
       - name: 类型检查 / Type check (astro check)
         run: npm run check
 
-      # data/ 是私有数据且被 git 忽略，CI 检出后不存在；tests/search.test.ts 等
-      # 用例依赖该目录，按 deploy.yml 示例模式用 data.example/ 兜底播种
-      - name: 准备示例数据 / Seed example data (data.example → data)
-        run: test -d data || cp -r data.example data
+      - name: 准备示例测试数据 / Seed example test data (data.example → data)
+        run: rm -rf data && cp -r data.example data
 
       - name: 单元测试 + 覆盖率门槛 / Unit tests with coverage thresholds (vitest run --coverage)
         run: npm run test:coverage
@@ -53,8 +51,8 @@ jobs:
 
       - run: npm ci
 
-      - name: 准备示例数据 / Seed example data (data.example → data)
-        run: test -d data || cp -r data.example data
+      - name: 准备示例测试数据 / Seed example test data (data.example → data)
+        run: rm -rf data && cp -r data.example data
 
       # 轻量构建：冒烟不依赖 OG 图与图片/CSS 优化；ASTRO_BASE='/' 固定根 base，
       # 避免 GITHUB_ACTIONS 下自动取仓库名作 base 导致预览路径漂移
