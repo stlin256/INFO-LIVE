@@ -44,7 +44,7 @@
 ## 🛠️ 技术栈与架构
 
 - **核心驱动**：[OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2)（Astro + TypeScript + Vite + Sharp）
-- **InfoLive 品牌系统**：独立项目 Logo、雷达式 favicon、42 个信源徽标，以及支持宽色域 HDR 高光的页脚 Logo。
+- **InfoLive 品牌系统**：独立项目 Logo、雷达式 favicon、42 个信源徽标，以及支持宽色域 HDR 高光的页脚 Logo。主题色采用非蓝色的暖陶土红（`#C65A3A`），搭配信号青绿与琥珀橙。
 - **AI 智能中枢**：可配置主模型 + `gpt-5.6-luna` 自动故障转移（OpenAI-compatible protocol）
 - **多源数据管线**：Node.js 24 + Undici + RSS-Parser + 智能容错并发队列
 - **CI/CD & 托管**：GitHub Actions + GitHub Pages

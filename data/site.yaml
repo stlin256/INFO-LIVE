@@ -34,7 +34,7 @@ profile:
     - label: GitHub 仓库
       url: https://github.com/stlin256/INFO-LIVE
 theme:
-  accent: '#2563EB'
+  accent: '#C65A3A'
   default_mode: system
   background: '#f8f7f2'
   background_dark: '#0f172a'
