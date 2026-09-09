@@ -1,0 +1,1683 @@
+/* 主页功能区块与动效：GitHub/RSS/流式区块、图片灯箱、滚动显现等（拆自 global.css） */
+/* ==================== M4b：主页功能区块与动效 ==================== */
+
+/* 区块标题与通用小字 */
+.block-title,
+.markdown-body .block-title {
+  margin: 0 0 1.5rem;
+  font-size: 1.4rem;
+  letter-spacing: -0.01em;
+}
+.block-empty,
+.markdown-body .block-empty {
+  margin: 0;
+  padding: 1rem 1.25rem;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius-md);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+.data-age {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  opacity: 0.8;
+  font-weight: 400;
+}
+
+/* ---- GitHub 区块：贡献热力图（对齐 github.com：坐标轴/计数行/图例/自定义滚动条） ---- */
+.heatmap-wrap {
+  margin-bottom: 1.5rem;
+}
+/* 顶部计数行：第一行原版式 "2,467 contributions in the last year"，第二行带 GitHub 变体 */
+.heat-total,
+.markdown-body .heat-total {
+  margin: 0 0 0.15rem;
+  font-size: 0.95rem;
+}
+.heat-total-alt,
+.markdown-body .heat-total-alt {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 0.6rem;
+}
+/* 横向滚动容器：滚动条样式由全局自定义滚动条规则统一提供。 */
+.heatmap-scroll {
+  overflow-x: auto;
+  padding-bottom: 0.35rem;
+  /* 容器只有 heatmap-inner 一个子节点：rtl 使初始滚动位置停靠在右侧（最新数据），
+     子节点内恢复 ltr，格子/月份/图例排布不受影响 */
+  direction: rtl;
+}
+
+.heatmap-inner {
+  display: inline-flex;
+  flex-direction: column;
+  min-width: 100%;
+  /* 抵消滚动容器的 rtl（见 .heatmap-scroll）：内容仍按从左到右排布 */
+  direction: ltr;
+}
+.heat-main {
+  display: flex;
+  gap: 6px;
+}
+/* 星期标签列（左）：与格子同 pitch（10px + 3px gap），只显示 Mon/Wed/Fri（一/三/五） */
+.heat-weekdays {
+  display: grid;
+  grid-template-rows: repeat(7, 12px);
+  gap: 3px;
+  flex: none;
+  font-size: 9px;
+  line-height: 12px;
+  color: var(--text-muted);
+  user-select: none;
+}
+.heat-right {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+/* 月份标签行（顶）：绝对定位在对应周列上方（--w × 13px pitch，见下方 .heatmap） */
+.heat-months {
+  position: relative;
+  height: 12px;
+  margin-bottom: 4px;
+  font-size: 9px;
+  line-height: 1;
+  color: var(--text-muted);
+  user-select: none;
+}
+.heat-months span {
+  position: absolute;
+  left: calc(15px * var(--w));
+  white-space: nowrap;
+}
+.heatmap {
+  display: flex;
+  gap: 3px;
+}
+.heat-week {
+  display: grid;
+  grid-template-rows: repeat(7, 12px);
+  gap: 3px;
+  flex: none;
+}
+.heat-cell {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+  background: var(--heat-0);
+}
+.heat-cell[data-level='1'] { background: var(--heat-1); }
+.heat-cell[data-level='2'] { background: var(--heat-2); }
+.heat-cell[data-level='3'] { background: var(--heat-3); }
+.heat-cell[data-level='4'] { background: var(--heat-4); }
+.heat-cell[data-tip] {
+  cursor: default;
+}
+.heat-empty {
+  background: transparent;
+}
+/* Less → More 图例：热力图底部右侧（与 GitHub 一致） */
+.heat-legend {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 3px;
+  margin: 6px 0 0;
+  font-size: 9px;
+  color: var(--text-muted);
+  user-select: none;
+}
+.heat-legend span:not(.heat-cell) {
+  padding: 0 2px;
+}
+/* 桌面端：贡献图方块横向铺满容器宽度（移动端保持固定 12px + 横向滚动） */
+@media (min-width: 769px) {
+  .heat-right {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    flex: 1;
+  }
+  .heat-main {
+    display: flex;
+    gap: 6px;
+    align-items: stretch;
+    flex: 1;
+  }
+  .heatmap {
+    display: flex;
+    gap: 3px;
+    width: 100%;
+    flex: 1;
+  }
+  .heat-week {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    flex: 1;
+    min-width: 0;
+  }
+  /* 只对热力图格子做流式铺满，图例格子保持固定尺寸 */
+  .heatmap .heat-cell {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+    flex: none;
+  }
+  .heat-weekdays {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    flex: none;
+    line-height: 1;
+  }
+  .heat-weekdays span {
+    flex: 1;
+    display: flex;
+    align-items: center;
+  }
+  .heat-months span {
+    left: calc(100% * var(--w) / var(--weeks));
+  }
+}
+
+/* 格子按周交错淡入（stagger 20ms，animation-delay 内联在格子上）；
+   仅 JS 环境下先隐藏，区块滚动进入视口（.revealed）后播放；图例格不参与 */
+html.js .block-github .heatmap .heat-cell:not(.heat-empty) {
+  opacity: 0;
+}
+html.js .block-github.revealed .heatmap .heat-cell:not(.heat-empty) {
+  animation: heat-in 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+@keyframes heat-in {
+  from {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+/* 格子 tooltip（src/scripts/heatmap.ts）：GitHub 风反色小气泡，fixed 定位不溢出容器 */
+.heat-tooltip {
+  position: fixed;
+  z-index: 90;
+  max-width: 16rem;
+  padding: 4px 8px;
+  opacity: 0;
+  transform: translateY(4px) scale(0.98);
+  transition:
+    opacity 0.12s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.12s cubic-bezier(0.22, 1, 0.36, 1);
+  border-radius: 6px;
+  background: var(--text);
+  color: var(--bg);
+  font-size: 12px;
+  line-height: 1.4;
+  white-space: nowrap;
+  pointer-events: none;
+  box-shadow: 0 4px 14px rgb(0 0 0 / 0.18);
+}
+.heat-tooltip.is-visible {
+  opacity: 1;
+  transform: none;
+}
+.heat-tooltip.is-hiding {
+  opacity: 0;
+  transform: translateY(4px) scale(0.98);
+}
+.heat-footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  align-items: baseline;
+  margin: 0.5rem 0 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+/* pinned 仓库卡片：1:1 复刻 github.com 仓库卡（octicon 图标/语言色点/topic pill），
+   统一等高（grid 默认同行拉伸），hover 浮起 */
+.gh-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 1rem;
+  align-items: stretch;
+}
+.gh-repo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.6rem;
+  background: var(--bg);
+  color: var(--text);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+.gh-octicon {
+  width: 0.95em;
+  height: 0.95em;
+  flex: none;
+}
+.gh-repo-head {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: var(--text-muted);
+  min-width: 0;
+}
+.gh-repo-link {
+  display: inline-flex;
+  align-items: baseline;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.gh-repo-owner {
+  color: var(--text-muted);
+  font-weight: 400;
+}
+.gh-repo-sep {
+  color: var(--text-muted);
+  margin: 0 0.15em;
+}
+.gh-repo-name {
+  font-weight: 600;
+  color: var(--accent);
+}
+.gh-repo-link:hover .gh-repo-name {
+  text-decoration: underline;
+}
+.gh-repo-desc {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+/* topic pill：GitHub 风蓝底小胶囊（accent 10% 底 + accent 字） */
+.gh-repo-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+.gh-topic {
+  padding: 0.05em 0.6em;
+  border-radius: 2em;
+  font-size: 0.75rem;
+  line-height: 1.6;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+.gh-topic:hover {
+  background: var(--accent);
+  color: var(--accent-contrast);
+  text-decoration: none;
+}
+.gh-repo-meta {
+  margin-top: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.9rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+.gh-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+.gh-lang-dot {
+  width: 0.7em;
+  height: 0.7em;
+  border-radius: 50%;
+  flex: none;
+}
+
+/* 卡片 hover 浮起 + 主题色描边（spec 09：纯 CSS） */
+.gh-repo:hover,
+.rss-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--accent);
+  box-shadow: 0 10px 28px rgb(0 0 0 / 0.1);
+}
+.rss-card:hover {
+  text-decoration: none;
+}
+
+/* ---- RSS 区块 ---- */
+.rss-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+  gap: 2rem;
+}
+.rss-source,
+.markdown-body .rss-source {
+  margin: 0 0 0.9rem;
+  font-size: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.75rem;
+  align-items: baseline;
+}
+.rss-cards {
+  display: grid;
+  gap: 0.9rem;
+}
+.rss-card {
+  position: relative;
+  display: flex;
+  gap: 0.9rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--card);
+  color: var(--text);
+  transition:
+    transform 0.3s cubic-bezier(0.22, 1, 0.36, 1),
+    box-shadow 0.3s ease,
+    border-color 0.3s ease;
+}
+.rss-card:hover,
+.rss-card:focus-visible {
+  transform: translateY(-4px);
+  border-color: var(--accent);
+  box-shadow: var(--shadow-soft);
+}
+.rss-cover {
+  flex: none;
+  width: 5.5rem;
+  height: 5.5rem;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--bg-subtle);
+}
+.rss-cover:empty {
+  display: none;
+}
+.rss-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition:
+    opacity 0.18s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.5s ease;
+}
+.rss-cover.cover-failed {
+  display: none !important;
+}
+.rss-card:hover .rss-cover img {
+  transform: scale(1.06);
+}
+.rss-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  min-width: 0;
+  flex: 1 1 auto;
+}
+.rss-title,
+.markdown-body .rss-title {
+  margin: 0;
+  font-weight: 600;
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.rss-meta {
+  display: flex;
+  gap: 0.6rem;
+  align-items: baseline;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+.rss-source-tag {
+  color: var(--text-muted);
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.05em 0.5em;
+  border-radius: 0.35em;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+}
+.rss-summary,
+.markdown-body .rss-summary {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.rss-note,
+.markdown-body .rss-note {
+  margin: 0;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--accent);
+}
+
+/* ---- 流式区块 ---- */
+.stream-block {
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--accent);
+  background: var(--card);
+  padding: 1.35rem 1.5rem;
+  box-shadow: var(--shadow-soft);
+}
+.stream-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+.stream-title,
+.markdown-body .stream-title {
+  margin: 0;
+  padding-left: 0.7rem;
+  border-left: 3px solid var(--accent);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+.stream-head:has(.stream-title) {
+  margin-bottom: 0.25rem;
+}
+.stream-replay {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.9rem;
+  height: 1.9rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  cursor: pointer;
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.stream-replay svg {
+  width: 1rem;
+  height: 1rem;
+}
+.stream-replay:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  transform: rotate(-40deg);
+}
+.stream-block .stream-content {
+  margin-top: 1rem;
+  overflow: hidden;
+  transition: height 0.12s ease-out;
+}
+/* 播放中光标：主题色闪烁方块，跟随插入点 */
+.stream-cursor {
+  display: inline-block;
+  width: 0.55em;
+  height: 1.05em;
+  margin-left: 0.05em;
+  vertical-align: -0.15em;
+  background: var(--accent);
+  border-radius: 1px;
+  animation: cursor-blink 0.8s steps(1) infinite;
+}
+@keyframes cursor-blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+/* ::ghcard 指令卡片与 pinned 卡片共用 .gh-repo 样式；
+   markdown 正文里的 gh-card 保持块间距 */
+.markdown-body .gh-repo {
+  margin: 1.5em 0;
+  max-width: 26rem;
+}
+
+/* ---- 图片灯箱（spec 03 §5） ---- */
+.markdown-body img {
+  cursor: zoom-in;
+  /* 配合构建期写入的 width/height 属性：加载前即按原图宽高比显示同尺寸矩形占位 */
+  background: var(--bg-subtle);
+  border-radius: var(--radius-sm);
+}
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 220;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  background: rgba(0, 0, 0, 0.88);
+  backdrop-filter: blur(12px);
+  opacity: 0;
+  transition: opacity 0.25s cubic-bezier(0.22, 1, 0.36, 1);
+  user-select: none;
+}
+.lightbox[hidden] {
+  display: none;
+}
+.lightbox.open {
+  opacity: 1;
+}
+
+.lightbox-toolbar {
+  position: absolute;
+  top: 1.25rem;
+  left: 1.5rem;
+  right: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.lightbox-counter {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.8);
+  background: rgba(0, 0, 0, 0.45);
+  padding: 0.25rem 0.65rem;
+  border-radius: var(--radius-full, 9999px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  letter-spacing: 0.05em;
+  pointer-events: auto;
+}
+.lightbox-counter[hidden] {
+  display: none;
+}
+
+.lightbox-close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.15s ease;
+  pointer-events: auto;
+}
+.lightbox-close:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.05);
+}
+.lightbox-close svg {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  cursor: pointer;
+  z-index: 10;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(4px);
+}
+.lightbox-nav[hidden] {
+  display: none;
+}
+.lightbox-nav:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-50%) scale(1.08);
+}
+.lightbox-prev {
+  left: 1.25rem;
+}
+.lightbox-next {
+  right: 1.25rem;
+}
+
+.lightbox-figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 90vw;
+  max-height: 85vh;
+  margin: 0;
+  padding: 0;
+}
+
+.lightbox-spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 3px solid rgba(255, 255, 255, 0.2);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: lightbox-spin 0.75s linear infinite;
+  z-index: 5;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+}
+.lightbox.is-loading .lightbox-spinner {
+  opacity: 1;
+  visibility: visible;
+}
+@keyframes lightbox-spin {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+.lightbox-img {
+  max-width: min(88vw, 100%);
+  max-height: 76vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: var(--radius-sm);
+  transform: scale(0.92);
+  transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.2s ease;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+  cursor: default;
+}
+.lightbox.open .lightbox-img {
+  transform: scale(1);
+}
+.lightbox.is-loading .lightbox-img {
+  opacity: 0;
+}
+
+.lightbox-caption {
+  margin: 0.75rem 0 0;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.82);
+  text-align: center;
+  max-width: min(80vw, 600px);
+  line-height: 1.5;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
+}
+.lightbox-caption[hidden] {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .lightbox {
+    padding: 1rem 0.5rem;
+  }
+  .lightbox-nav {
+    width: 2.25rem;
+    height: 2.25rem;
+  }
+  .lightbox-prev {
+    left: 0.5rem;
+  }
+  .lightbox-next {
+    right: 0.5rem;
+  }
+  .lightbox-img {
+    max-width: 96vw;
+    max-height: 70vh;
+  }
+}
+
+/* ---- 动效：滚动显现 ---- */
+html.js .reveal {
+  transition:
+    opacity 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+/* 初始可见是首屏基线；JS 首帧前只标记视口外内容，避免 LCP 等延迟模块。 */
+html.js .reveal.reveal-pending {
+  opacity: 0;
+  transform: translateY(16px);
+}
+html.js .reveal.revealed {
+  opacity: 1;
+  transform: none;
+}
+
+
+/* ---- 客户端内容交换：加载遮罩 + 主内容淡入淡出 ---- */
+.site-main {
+  transition:
+    opacity 0.2s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.22s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.page-loading {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: color-mix(in srgb, var(--bg) 72%, transparent);
+  backdrop-filter: blur(2px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+}
+.page-loading.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+.page-loading-spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: page-loading-spin 0.7s linear infinite;
+}
+@keyframes page-loading-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* beasties:include start */
+/* ---- 全局降级（spec 09 §2）：仅 transform/opacity；reduced-motion 只留简单淡入 ---- */
+@media (prefers-reduced-motion: reduce) {
+  .notice-banner {
+    animation: none;
+    transition: opacity 0.15s ease;
+  }
+  .notice-banner.dismissing {
+    transform: none;
+    transition: opacity 0.15s ease;
+  }
+  html.js .reveal.reveal-pending {
+    transform: none;
+    transition: opacity 0.2s ease;
+  }
+  .lang-menu {
+    transform: none;
+    transition:
+      opacity 0.15s ease,
+      visibility 0s linear 0.15s;
+  }
+  html.js img[data-image-fade='pending'],
+  html.js img[data-image-fade='loaded'],
+  .rss-cover img {
+    opacity: 1;
+    animation: none;
+    transition: none;
+  }
+  .theme-toggle .icon,
+  .heat-tooltip {
+    transform: none;
+  }
+  .theme-toggle .icon {
+    transition: opacity 0.12s ease;
+  }
+  .heat-tooltip {
+    transition: opacity 0.1s ease;
+  }
+  .site-title,
+  .site-nav ul,
+  .site-footer {
+    transform: none;
+    transition: opacity 0.12s ease;
+  }
+  .site-nav ul a.active {
+    animation: none !important;
+  }
+  .chrome-fade-out {
+    transform: none;
+  }
+  .site-main {
+    transform: none;
+    transition: opacity 0.15s ease;
+  }
+  .lang-switcher:hover .lang-menu,
+  .lang-menu.open {
+    transform: none;
+    transition:
+      opacity 0.15s ease,
+      visibility 0s;
+  }
+  html.js .block-github .heat-cell:not(.heat-empty) {
+    opacity: 1;
+    animation: none;
+  }
+  .stream-cursor {
+    animation: none;
+  }
+  .stream-block .stream-content {
+    transition: none;
+  }
+  .stream-replay,
+  .gh-repo,
+  .rss-card {
+    transition: none;
+  }
+  .gh-repo:hover,
+  .rss-card:hover {
+    transform: none;
+  }
+  /* 灯箱：去掉缩放，只留简单淡入淡出 */
+  .lightbox-img {
+    transform: none;
+    transition: opacity 0.15s ease;
+  }
+  .lightbox-spinner {
+    animation-duration: 1.5s;
+  }
+  .lightbox {
+    transition: opacity 0.15s ease;
+  }
+}
+/* beasties:include end */
+/* ---- :::audio self-rendered players（A 默认紧凑卡，B 封面卡） ---- */
+.markdown-body audio,
+.markdown-body .audio-native {
+  display: none;
+}
+.markdown-body .audio-player {
+  position: relative;
+  overflow: hidden;
+  margin: 1.5em 0;
+  padding: 1rem 1.1rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-sizing: border-box;
+  transition:
+    border-color 0.25s ease,
+    box-shadow 0.25s ease,
+    opacity 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.markdown-body .audio-player.is-playing {
+  border-color: var(--accent);
+  box-shadow: var(--shadow-soft);
+}
+.markdown-body .audio-player::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 6% 50%, color-mix(in srgb, var(--accent) 14%, transparent), transparent 62%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+.markdown-body .audio-player.is-playing::before { opacity: 1; }
+
+.markdown-body .audio-user {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  min-width: 0;
+}
+.markdown-body .btn-toggle {
+  flex: none;
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: var(--subtle, var(--bg-subtle));
+  color: var(--accent);
+  cursor: pointer;
+  transition: transform 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+}
+.markdown-body .btn-toggle:hover { border-color: var(--accent); color: var(--text); }
+.markdown-body .btn-toggle:active { transform: scale(0.94); }
+.markdown-body .audio-player.is-playing .btn-toggle { border-color: var(--accent); }
+.markdown-body .icon-play,
+.markdown-body .icon-pause {
+  width: 17px;
+  height: 17px;
+  display: block;
+}
+.markdown-body .icon-pause { display: none; }
+.markdown-body .audio-player.is-playing .icon-play { display: none; }
+.markdown-body .audio-player.is-playing .icon-pause { display: block; }
+
+.markdown-body .audio-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-width: 0;
+  flex: 1;
+}
+
+.markdown-body .audio-scroll {
+  display: block;
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.markdown-body .audio-scroll-text {
+  display: inline-block;
+  white-space: nowrap;
+  will-change: transform;
+}
+.markdown-body .audio-scroll.scrolling .audio-scroll-text {
+  animation: audio-marquee 11s cubic-bezier(0.45, 0.05, 0.55, 0.95) infinite;
+}
+@keyframes audio-marquee {
+  0%, 12% { transform: translateX(0); }
+  50%, 60% { transform: translateX(calc(-1 * var(--shift, 0px))); }
+  98%, 100% { transform: translateX(0); }
+}
+
+.markdown-body .audio-title { font-weight: 600; font-size: 0.95rem; }
+.markdown-body .audio-desc { color: var(--text-muted); font-size: 0.82rem; }
+
+.markdown-body .audio-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 0.45rem;
+}
+.markdown-body .audio-time {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.markdown-body .audio-bars-mini {
+  display: inline-flex;
+  gap: 2px;
+  align-items: flex-end;
+  height: 14px;
+}
+.markdown-body .audio-bars-mini span {
+  width: 2px;
+  height: 100%;
+  background: var(--border);
+  transition: background 0.2s ease;
+}
+.markdown-body .audio-bars-mini span:nth-child(1) { height: 40%; }
+.markdown-body .audio-bars-mini span:nth-child(2) { height: 75%; }
+.markdown-body .audio-bars-mini span:nth-child(3) { height: 100%; }
+.markdown-body .audio-bars-mini span:nth-child(4) { height: 60%; }
+.markdown-body .audio-bars-mini span:nth-child(5) { height: 35%; }
+.markdown-body .audio-player.is-playing .audio-bars-mini span { background: var(--accent); }
+
+.markdown-body .audio-track {
+  height: 4px;
+  margin-top: 0.65rem;
+  border-radius: 999px;
+  background: var(--border);
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+}
+.markdown-body .audio-fill {
+  position: absolute;
+  inset: 0;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: 0 50%;
+  transition: transform 0.12s linear;
+}
+
+/* B 封面卡片模式 */
+.markdown-body .audio-card {
+  display: grid;
+  grid-template-columns: 88px minmax(0, 1fr);
+  column-gap: 1.1rem;
+  align-items: center;
+}
+.markdown-body .audio-cover {
+  width: 88px;
+  height: 88px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.markdown-body .audio-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.markdown-body .audio-player.is-playing .audio-cover img { transform: scale(1.05); }
+.markdown-body .audio-card .audio-content { display: flex; flex-direction: column; min-width: 0; }
+.markdown-body .audio-card .audio-bottom { margin-top: 0.35rem; }
+.markdown-body .audio-card .btn-toggle { width: 34px; height: 34px; }
+.markdown-body .audio-card .icon-play,
+.markdown-body .audio-card .icon-pause { width: 14px; height: 14px; }
+
+@media (max-width: 720px) {
+  .markdown-body .audio-player { padding: 0.9rem 1rem; }
+  .markdown-body .audio-user { gap: 0.75rem; }
+  .markdown-body .audio-card { grid-template-columns: 60px minmax(0, 1fr); column-gap: 0.8rem; }
+  .markdown-body .audio-cover { width: 60px; height: 60px; }
+  .markdown-body .audio-card .btn-toggle { width: 30px; height: 30px; }
+  .markdown-body .audio-card .icon-play,
+  .markdown-body .audio-card .icon-pause { width: 13px; height: 13px; }
+  .markdown-body .audio-desc { font-size: 0.78rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .markdown-body .audio-player,
+  .markdown-body .audio-cover img,
+  .markdown-body .btn-toggle,
+  .markdown-body .audio-fill { transition: none; }
+  .markdown-body .audio-scroll.scrolling .audio-scroll-text { animation: none; transform: none; }
+}
+
+
+/* ==========================================================================
+   自渲染视频播放器（:::video 杂志卡片整合式 Scheme B）
+   采用 GPU 复合属性（scaleX / opacity / translate3d）驱动动效，避免高频快滑卡顿
+   ========================================================================== */
+.markdown-body .video-player {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 1.5em 0;
+  background: #0d0e0c;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-sizing: border-box;
+  box-shadow: var(--shadow-soft);
+  user-select: none;
+  contain: layout paint;
+  outline: none;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.markdown-body .video-player:focus-visible {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent);
+}
+
+.markdown-body .video-player.is-playing {
+  border-color: var(--accent);
+}
+
+/* 画幅层：与播放器同尺寸，标题栏和控件都覆盖在画面上 */
+.markdown-body .video-stage {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #0d0e0c;
+}
+
+/* 核心原生 video */
+.markdown-body .video-element {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  object-fit: cover;
+  display: block;
+  background: #000000;
+  cursor: pointer;
+}
+
+/* 背景渐隐蒙版（提升控件文字对比度） */
+.markdown-body .video-scrim {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.72) 0%,
+    rgba(0, 0, 0, 0.22) 28%,
+    transparent 55%
+  );
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+.markdown-body .video-player.is-playing.is-idle .video-scrim {
+  opacity: 0;
+}
+
+/* 顶部信息条覆盖在画幅上方（不在画幅外单独占位） */
+.markdown-body .video-topbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0.85rem 1.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  background: linear-gradient(to bottom, rgba(14, 15, 13, 0.78) 0%, transparent 100%);
+  color: #ffffff;
+  z-index: 12;
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+  transition: opacity 0.35s cubic-bezier(0.16, 1, 0.3, 1), transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  pointer-events: auto;
+  will-change: opacity, transform;
+}
+
+.markdown-body .video-player.is-playing .video-topbar {
+  opacity: 0;
+  transform: translate3d(0, -8px, 0);
+  pointer-events: none;
+}
+
+.markdown-body .video-top-title-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.markdown-body .video-top-badge {
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0.15rem 0.45rem;
+  border-radius: var(--radius-sm);
+  background: var(--accent);
+  color: #ffffff;
+  letter-spacing: 0.05em;
+  flex-shrink: 0;
+}
+
+.markdown-body .video-top-title {
+  font-size: 0.88rem;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.55);
+}
+
+/* 居中大播放按钮（数学与视知觉光学居中） */
+.markdown-body .video-big-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: rgba(20, 22, 19, 0.7);
+  border: 1.5px solid rgba(255, 255, 255, 0.28);
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;
+  margin: 0;
+  padding: 0;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
+  transition: transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1),
+              background 0.2s ease,
+              opacity 0.25s ease,
+              border-color 0.2s ease;
+  will-change: transform, opacity;
+}
+
+.markdown-body .video-big-play:hover {
+  transform: translate(-50%, -50%) scale(1.08);
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.markdown-body .video-big-play:active {
+  transform: translate(-50%, -50%) scale(0.95);
+}
+
+.markdown-body .video-big-play svg {
+  width: 26px;
+  height: 26px;
+  display: block;
+  margin: 0;
+  padding: 0;
+  fill: currentColor;
+}
+
+.markdown-body .video-player.is-playing .video-big-play {
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(-50%, -50%) scale(0.75);
+}
+
+/* 缓冲转圈 */
+.markdown-body .video-spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgba(255, 255, 255, 0.2);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: videoSpin 0.75s linear infinite;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 11;
+}
+
+.markdown-body .video-player.is-buffering .video-spinner {
+  opacity: 1;
+}
+
+@keyframes videoSpin {
+  to { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+/* 底部控制栏（平铺不挡字幕，闲置时自动下收） */
+.markdown-body .video-controls {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  padding: 0.45rem 1rem 0.65rem;
+  background: linear-gradient(to top, rgba(14, 15, 13, 0.94) 0%, rgba(14, 15, 13, 0.6) 72%, transparent 100%);
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+  transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+
+.markdown-body .video-player.is-playing.is-idle .video-controls {
+  opacity: 0;
+  transform: translate3d(0, 8px, 0);
+  pointer-events: none;
+}
+
+/* 进度条轨道 */
+.markdown-body .video-progress-wrap {
+  position: relative;
+  width: 100%;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  touch-action: none;
+  margin-bottom: 0.35rem;
+}
+
+.markdown-body .video-progress-tooltip {
+  position: absolute;
+  bottom: 22px;
+  left: 0;
+  transform: translateX(-50%);
+  background: rgba(18, 19, 17, 0.92);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  padding: 0.18rem 0.45rem;
+  border-radius: var(--radius-sm);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  white-space: nowrap;
+  z-index: 30;
+}
+
+.markdown-body .video-progress-wrap:hover .video-progress-tooltip,
+.markdown-body .video-progress-wrap.is-dragging .video-progress-tooltip {
+  opacity: 1;
+}
+
+.markdown-body .video-progress-rail {
+  position: relative;
+  width: 100%;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.24);
+  border-radius: var(--radius-pill);
+  overflow: visible;
+  transition: height 0.18s ease;
+}
+
+.markdown-body .video-progress-wrap:hover .video-progress-rail,
+.markdown-body .video-progress-wrap.is-dragging .video-progress-rail {
+  height: 6px;
+}
+
+.markdown-body .video-progress-buffer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: var(--radius-pill);
+  transform-origin: 0 50%;
+  transform: scaleX(0);
+}
+
+.markdown-body .video-progress-played {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: var(--accent);
+  border-radius: var(--radius-pill);
+  transform-origin: 0 50%;
+  transform: scaleX(0);
+  will-change: transform;
+}
+
+.markdown-body .video-progress-thumb {
+  position: absolute;
+  right: -6px;
+  top: 50%;
+  transform: translateY(-50%) scale(0);
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 2px solid var(--accent);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+  transition: transform 0.18s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.markdown-body .video-progress-wrap:hover .video-progress-thumb,
+.markdown-body .video-progress-wrap.is-dragging .video-progress-thumb {
+  transform: translateY(-50%) scale(1);
+}
+
+/* 控制按钮行 */
+.markdown-body .video-ctrl-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.markdown-body .video-ctrl-group {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.markdown-body .video-btn {
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  border: none;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.88);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  position: relative;
+  transition: background-color 0.18s ease, color 0.18s ease, transform 0.12s ease;
+  flex-shrink: 0;
+}
+
+.markdown-body .video-btn:hover {
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.markdown-body .video-btn:active {
+  transform: scale(0.92);
+}
+
+.markdown-body .video-btn svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+  pointer-events: none;
+}
+
+.markdown-body .btn-play-pause .icon-pause {
+  display: none;
+}
+
+.markdown-body .btn-play-pause .icon-replay {
+  display: none;
+}
+
+/* 时间显示 */
+.markdown-body .video-time {
+  font-size: 0.8rem;
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  color: rgba(255, 255, 255, 0.9);
+  padding: 0 0.4rem;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.markdown-body .video-time .sep {
+  color: rgba(255, 255, 255, 0.4);
+  margin: 0 0.15rem;
+}
+
+.markdown-body .video-time-dur {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+/* 音量滑动条 */
+.markdown-body .video-volume-wrap {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.markdown-body .video-volume-box {
+  width: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: width 0.22s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.18s ease;
+  display: flex;
+  align-items: center;
+}
+
+.markdown-body .video-volume-wrap:hover .video-volume-box,
+.markdown-body .video-volume-wrap:focus-within .video-volume-box {
+  width: 60px;
+  opacity: 1;
+  margin-left: 0.25rem;
+}
+
+.markdown-body .video-volume-rail {
+  position: relative;
+  width: 56px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.26);
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+}
+
+.markdown-body .video-volume-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: #ffffff;
+  border-radius: var(--radius-pill);
+  transform-origin: 0 50%;
+  transform: scaleX(1);
+}
+
+.markdown-body .btn-volume .icon-vol-low,
+.markdown-body .btn-volume .icon-vol-mute {
+  display: none;
+}
+
+/* 倍速菜单 */
+.markdown-body .video-speed-wrap {
+  position: relative;
+}
+
+.markdown-body .btn-speed {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 600;
+  min-width: 44px;
+  height: 32px;
+  padding: 0 0.4rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgba(0, 0, 0, 0.25);
+  color: #ffffff;
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+
+.markdown-body .btn-speed:hover {
+  border-color: var(--accent);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.markdown-body .video-speed-menu {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%) translateY(6px);
+  background: rgba(24, 26, 23, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: var(--radius-sm);
+  padding: 0.35rem 0;
+  min-width: 88px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.45);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  z-index: 40;
+}
+
+.markdown-body .video-speed-menu.show {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateX(-50%) translateY(0);
+}
+
+.markdown-body .video-speed-menu .speed-item {
+  padding: 0.32rem 0.75rem;
+  font-size: 0.8rem;
+  font-family: var(--font-mono);
+  color: rgba(255, 255, 255, 0.75);
+  cursor: pointer;
+  text-align: center;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.markdown-body .video-speed-menu .speed-item:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.markdown-body .video-speed-menu .speed-item.active {
+  color: var(--accent);
+  font-weight: 700;
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+}
+
+.markdown-body .btn-fullscreen .icon-fs-exit {
+  display: none;
+}
+
+/* 移动端与减弱动效适配 */
+@media (max-width: 768px) {
+  .markdown-body .video-topbar { padding: 0.65rem 0.85rem; }
+  .markdown-body .video-controls { padding: 0.35rem 0.75rem 0.55rem; }
+  .markdown-body .video-volume-box { display: none; }
+  .markdown-body .video-btn { width: 38px; height: 38px; }
+  .markdown-body .video-progress-wrap { height: 22px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .markdown-body .video-player,
+  .markdown-body .video-topbar,
+  .markdown-body .video-big-play,
+  .markdown-body .video-controls,
+  .markdown-body .video-progress-thumb,
+  .markdown-body .video-speed-menu {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/* ---- InfoLive Media Badges & Ticker ---- */
+.source-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.18rem 0.6rem;
+  border-radius: 9999px;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text);
+  vertical-align: middle;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+.source-badge:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+.source-icon {
+  width: 1.1rem;
+  height: 1.1rem;
+  border-radius: 3px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+.news-meta-time {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-family: var(--font-mono, monospace);
+  margin-left: 0.3rem;
+}
+.ticker-time {
+  display: inline-block;
+  color: var(--accent);
+  font-family: var(--font-mono, monospace);
+  font-size: 0.85rem;
+  font-weight: 700;
+  margin-right: 0.4rem;
+}

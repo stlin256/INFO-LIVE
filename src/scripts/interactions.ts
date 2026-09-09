@@ -1,0 +1,1090 @@
+/**
+ * 前端交互入口：首屏加载 + 客户端内容交换后初始化。
+ *
+ * 导航策略：拦截站内链接点击 → 显示加载遮罩 → fetch 目标页 →
+ * 替换 <main> 内容 → 遮罩结束后再初始化动效/交互。
+ * URL 同步更新、header/audio/nav 不动 → BGM 连续播放、刷新/前进后退状态一致。
+ */
+import { initStreamBlocks } from './stream-player.ts';
+import { initMotion } from './motion.ts';
+import { initThemeToggle } from './theme.ts';
+import { initBgm } from './bgm.ts';
+import { initHeatmapTooltips } from './heatmap.ts';
+import { initAudioPlayers } from './audio-player.ts';
+import { initVideoPlayers } from './video-player.ts';
+import { initImageFade } from './image-fade.ts';
+import { initSearch } from './search.ts';
+import { initToc } from './toc.ts';
+import { initFootnotes } from './footnotes.ts';
+import { scheduleTabPrefetch } from './tab-prefetch.ts';
+import { fetchPageHtml } from './page-cache.ts';
+import { initMermaidBlocks } from './mermaid.ts';
+import { localizedPathname, normalizeSiteLanguage, type SiteLanguage } from '../lib/language.ts';
+import './lightbox.ts';
+import { getUiLabels } from '../lib/ui-i18n.ts';
+
+const LANGUAGE_STORAGE_KEY = 'oh-language';
+/** 语言切换可见遮罩的最短时长：给 FLIP 动画足够的呈现窗口。 */
+const LANGUAGE_OVERLAY_MS = 420;
+
+/**
+ * Beasties swaps the full stylesheet from preload to stylesheet on load.
+ * Client-side content exchange waits for that swap so a very early click never
+ * renders a new route with only the initial critical CSS.
+ */
+const cssReady = Promise.all(
+  [...document.querySelectorAll<HTMLLinkElement>('link[as="style"]')].map((link) =>
+    new Promise<void>((resolve) => {
+      if (link.rel === 'stylesheet' || link.sheet) return resolve();
+      const done = () => resolve();
+      link.addEventListener('load', done, { once: true });
+      link.addEventListener('error', done, { once: true });
+    }),
+  ),
+);
+
+/** 站点实际语言列表（构建期由 <html data-site-langs> 注入；语言目录扫描结果，支持任意语言） */
+function siteLanguages(): string[] {
+  return (document.documentElement.dataset.siteLangs ?? '').split(',').filter(Boolean);
+}
+
+const normalizeLanguage = (value: string | null | undefined): SiteLanguage | null =>
+  normalizeSiteLanguage(value, siteLanguages());
+
+function readPreferredLanguage(): SiteLanguage | null {
+  try {
+    return normalizeLanguage(localStorage.getItem(LANGUAGE_STORAGE_KEY));
+  } catch {
+    return null;
+  }
+}
+
+function writePreferredLanguage(lang: SiteLanguage): void {
+  try {
+    localStorage.setItem(LANGUAGE_STORAGE_KEY, lang);
+  } catch {
+    /* 存储不可用时仅保持当前页面状态 */
+  }
+}
+
+function browserLanguage(): SiteLanguage | null {
+  return normalizeLanguage(navigator.language);
+}
+
+function currentRouteLanguage(): SiteLanguage | null {
+  return normalizeLanguage(document.documentElement.dataset.routeLang ?? document.documentElement.lang);
+}
+
+function languagePath(lang: SiteLanguage): string {
+  const defaultLang = normalizeLanguage(document.documentElement.dataset.defaultLang) ?? siteLanguages()[0] ?? 'zh';
+  return (
+    localizedPathname(lang, location.pathname, currentRouteLanguage(), defaultLang) +
+    location.search +
+    location.hash
+  );
+}
+
+// ---- 加载遮罩 ----
+
+function ensureLoadingOverlay(): HTMLElement {
+  let el = document.querySelector<HTMLElement>('.page-loading');
+  if (!el) {
+    el = document.createElement('div');
+    el.className = 'page-loading';
+    el.setAttribute('aria-hidden', 'true');
+    el.innerHTML = '<div class="page-loading-spinner"></div>';
+    document.body.append(el);
+  }
+  return el;
+}
+
+function showLoading(): void {
+  ensureLoadingOverlay().classList.add('visible');
+}
+
+function hideLoading(): void {
+  document.querySelector('.page-loading')?.classList.remove('visible');
+}
+
+/** 等待两帧（淡出起始帧 + 一帧过渡）；无 rAF 环境退化为短延时。 */
+function scrollToTop(): void {
+  window.scrollTo({
+    top: 0,
+    behavior: prefersReducedMotion() ? 'auto' : 'smooth',
+  });
+}
+
+/**
+ * 锚点精确滚动（消除移动端折叠 TOC 与顶部固定控件带来的坐标误差）：
+ * 1. 动态判断上方是否有处于展开状态的 TOC 折叠面板，若是则扣除收起后的高度差；
+ * 2. 依据元素计算样式 scrollMarginTop 或响应式顶部安全距离（桌面 80px / 移动 72px）精确定位。
+ */
+export function scrollToAnchor(target: HTMLElement, smooth = true): void {
+  const targetRect = target.getBoundingClientRect();
+  const currentScrollY = window.scrollY || window.pageYOffset || 0;
+  let targetTop = targetRect.top + currentScrollY;
+
+  const openCollapsible = document.querySelector<HTMLDetailsElement>('.toc-collapsible[open]');
+  if (openCollapsible && (openCollapsible.compareDocumentPosition(target) & Node.DOCUMENT_POSITION_FOLLOWING)) {
+    const body =
+      openCollapsible.querySelector<HTMLElement>('.toc-collapsible-body') ??
+      openCollapsible.querySelector<HTMLElement>('.toc') ??
+      openCollapsible.querySelector<HTMLElement>('div');
+    const collapsingHeight = body ? body.getBoundingClientRect().height : 0;
+    targetTop -= collapsingHeight;
+  }
+
+  const computedMargin = typeof window.getComputedStyle === 'function'
+    ? parseFloat(window.getComputedStyle(target).scrollMarginTop)
+    : NaN;
+  const headerOffset = !isNaN(computedMargin) && computedMargin > 0
+    ? computedMargin
+    : (window.innerWidth <= 768 ? 72 : 80);
+
+  const finalScrollY = Math.max(0, targetTop - headerOffset);
+  window.scrollTo({
+    top: finalScrollY,
+    behavior: !smooth || prefersReducedMotion() ? 'auto' : 'smooth',
+  });
+}
+
+function nextPaint(): Promise<void> {
+  return new Promise((resolve) => {
+    if (typeof requestAnimationFrame === 'function') {
+      requestAnimationFrame(() => requestAnimationFrame(() => resolve()));
+    } else {
+      setTimeout(resolve, 32);
+    }
+  });
+}
+
+// ---- 初始化 ----
+
+function initNavToggle(): void {
+  const btn = document.querySelector<HTMLElement>('.nav-toggle');
+  if (!btn || btn.dataset.navInit) return;
+  btn.dataset.navInit = '1';
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const open = document.body.classList.toggle('nav-open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+
+  document.addEventListener('click', (e) => {
+    if (!document.body.classList.contains('nav-open')) return;
+    const target = e.target as HTMLElement | null;
+    if (target && !target.closest('.site-nav') && !target.closest('.nav-toggle')) {
+      document.body.classList.remove('nav-open');
+      btn.setAttribute('aria-expanded', 'false');
+    }
+  });
+}
+
+function activateEmbedPlayer(container: HTMLElement): void {
+  if (container.querySelector('iframe')) return;
+  const src = container.dataset.embedSrc;
+  const title = container.dataset.embedTitle || 'Video player';
+  if (!src) return;
+
+  const iframe = document.createElement('iframe');
+  iframe.src = src;
+  iframe.title = title;
+  iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+  iframe.allowFullscreen = true;
+  iframe.loading = 'eager';
+
+  container.replaceChildren(iframe);
+  container.classList.add('is-active');
+}
+
+function initEmbedPlayers(): void {
+  for (const container of document.querySelectorAll<HTMLElement>('.embed-player[data-embed-src]')) {
+    if (container.dataset.embedInit === '1') continue;
+    container.dataset.embedInit = '1';
+
+    container.addEventListener('click', () => {
+      if (container.classList.contains('is-active')) return;
+      activateEmbedPlayer(container);
+    });
+
+    container.addEventListener('keydown', (e) => {
+      if (container.classList.contains('is-active')) return;
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        activateEmbedPlayer(container);
+      }
+    });
+  }
+}
+
+/** 嵌入式媒体与自渲染播放器初始化（原生视频避免首屏调用 load 抢占解码，按需绑定互斥） */
+function initEmbeddedMedia(): void {
+  initAudioPlayers();
+  initEmbedPlayers();
+  initVideoPlayers();
+}
+
+
+const CODE_LANG_MAP: Record<string, string> = {
+  js: "JavaScript",
+  javascript: "JavaScript",
+  mjs: "JavaScript",
+  cjs: "JavaScript",
+  jsx: "JSX",
+  ts: "TypeScript",
+  typescript: "TypeScript",
+  tsx: "TSX",
+  py: "Python",
+  python: "Python",
+  sh: "Bash",
+  bash: "Bash",
+  zsh: "Zsh",
+  shell: "Shell",
+  html: "HTML",
+  htm: "HTML",
+  css: "CSS",
+  scss: "SCSS",
+  sass: "Sass",
+  less: "Less",
+  json: "JSON",
+  json5: "JSON5",
+  jsonc: "JSONC",
+  yaml: "YAML",
+  yml: "YAML",
+  md: "Markdown",
+  markdown: "Markdown",
+  mdx: "MDX",
+  rs: "Rust",
+  rust: "Rust",
+  go: "Go",
+  golang: "Go",
+  cpp: "C++",
+  c: "C",
+  cs: "C#",
+  csharp: "C#",
+  java: "Java",
+  sql: "SQL",
+  latex: "LaTeX",
+  tex: "TeX",
+  toml: "TOML",
+  docker: "Docker",
+  dockerfile: "Dockerfile",
+  astro: "Astro",
+  xml: "XML",
+  svg: "SVG",
+  vue: "Vue",
+  svelte: "Svelte",
+  ruby: "Ruby",
+  rb: "Ruby",
+  php: "PHP",
+  swift: "Swift",
+  kotlin: "Kotlin",
+  kt: "Kotlin",
+  r: "R",
+  dart: "Dart",
+  lua: "Lua",
+  powershell: "PowerShell",
+  ps: "PowerShell",
+  ps1: "PowerShell",
+  diff: "Diff",
+  graphql: "GraphQL",
+  gql: "GraphQL",
+  ini: "INI",
+  wasm: "WebAssembly",
+};
+
+export function formatCodeLanguage(lang: string): string {
+  const clean = (lang || "").toLowerCase().trim();
+  if (!clean) return "Code";
+  return CODE_LANG_MAP[clean] || (clean.length <= 4 ? clean.toUpperCase() : clean.charAt(0).toUpperCase() + clean.slice(1));
+}
+
+export function initCodeBlocks(): void {
+  const currentLang = document.documentElement.dataset.routeLang || "zh";
+  const labels = getUiLabels(currentLang).code;
+
+  document.querySelectorAll<HTMLElement>(".markdown-body pre, .page-content pre").forEach((pre) => {
+    if (
+      pre.closest(".code-block-wrapper") ||
+      pre.closest(".mermaid-block") ||
+      pre.closest(".publication-bibtex") ||
+      pre.closest(".publication-item") ||
+      pre.dataset.codeEnhanced === "true" ||
+      pre.id?.startsWith("bibtex-")
+    ) {
+      return;
+    }
+    pre.dataset.codeEnhanced = "true";
+
+    let lang = "";
+    const classList = Array.from(pre.classList);
+    const codeEl = pre.querySelector("code");
+    if (codeEl) classList.push(...Array.from(codeEl.classList));
+
+    for (const cls of classList) {
+      if (cls.startsWith("language-")) {
+        lang = cls.replace("language-", "");
+        break;
+      }
+      if (cls.startsWith("lang-")) {
+        lang = cls.replace("lang-", "");
+        break;
+      }
+    }
+    if (!lang && pre.dataset.language) {
+      lang = pre.dataset.language;
+    }
+    if (!lang && codeEl?.dataset.language) {
+      lang = codeEl.dataset.language;
+    }
+    if (!lang && pre.dataset.lang) {
+      lang = pre.dataset.lang;
+    }
+    if (!lang && codeEl?.dataset.lang) {
+      lang = codeEl.dataset.lang;
+    }
+
+    const displayLang = formatCodeLanguage(lang);
+
+    const wrapper = document.createElement("div");
+    wrapper.className = "code-block-wrapper";
+
+    const header = document.createElement("div");
+    header.className = "code-header";
+
+    const langSpan = document.createElement("span");
+    langSpan.className = "code-lang";
+    langSpan.textContent = displayLang;
+
+    const copyBtn = document.createElement("button");
+    copyBtn.type = "button";
+    copyBtn.className = "code-copy-btn";
+    copyBtn.setAttribute("aria-label", labels.copy);
+    copyBtn.setAttribute("title", labels.copy);
+    copyBtn.innerHTML = `
+      <svg class="icon-copy" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+        <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+      </svg>
+      <svg class="icon-check" viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <polyline points="20 6 9 17 4 12"></polyline>
+      </svg>
+      <span class="code-copy-text">${labels.copy}</span>
+    `;
+
+    copyBtn.addEventListener("click", async () => {
+      const codeText = (codeEl ? codeEl.textContent : pre.textContent) ?? "";
+      try {
+        await navigator.clipboard.writeText(codeText.replace(/\n+$/, ""));
+      } catch {
+        const textarea = document.createElement("textarea");
+        textarea.value = codeText.replace(/\n+$/, "");
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand("copy");
+        textarea.remove();
+      }
+
+      copyBtn.classList.add("copied");
+      const textSpan = copyBtn.querySelector(".code-copy-text");
+      if (textSpan) textSpan.textContent = labels.copied;
+      copyBtn.setAttribute("aria-label", labels.copied);
+
+      setTimeout(() => {
+        copyBtn.classList.remove("copied");
+        if (textSpan) textSpan.textContent = labels.copy;
+        copyBtn.setAttribute("aria-label", labels.copy);
+      }, 2000);
+    });
+
+    header.appendChild(langSpan);
+    header.appendChild(copyBtn);
+
+    pre.parentNode?.insertBefore(wrapper, pre);
+    wrapper.appendChild(header);
+    wrapper.appendChild(pre);
+  });
+}
+
+function initNoticeBanners(): void {
+  for (const banner of document.querySelectorAll<HTMLElement>(".notice-banner")) {
+    if (banner.dataset.bannerInit === "1") continue;
+    banner.dataset.bannerInit = "1";
+    const delay = Number(banner.dataset.delay || "500");
+    setTimeout(() => {
+      if (banner.parentElement && !banner.classList.contains("dismissing")) {
+        banner.classList.add("visible");
+      }
+    }, Math.max(0, delay));
+  }
+}
+
+function prefersReducedMotion(): boolean {
+  return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+}
+
+function langForMenuItem(item: Element): string | null {
+  return item.querySelector('a[hreflang]')?.getAttribute('hreflang') ?? null;
+}
+
+function sameLanguageSet(a: Element, b: Element): boolean {
+  const left = new Set([...a.querySelectorAll('a[hreflang]')].map((link) => link.getAttribute('hreflang')));
+  const right = new Set([...b.querySelectorAll('a[hreflang]')].map((link) => link.getAttribute('hreflang')));
+  if (left.size !== right.size) return false;
+  for (const lang of left) {
+    if (!right.has(lang)) return false;
+  }
+  return true;
+}
+
+/**
+ * Language menu option A: FLIP float-and-settle.
+ * Record old positions, move the selected language to the top immediately, then
+ * animate it back from its old position while sibling rows stagger downward.
+ */
+function animateLangMenuSelection(link: HTMLAnchorElement): boolean {
+  const menu = link.closest('.lang-menu');
+  const selectedItem = link.closest('li');
+  const selectedLang = link.getAttribute('hreflang');
+  if (!menu || !selectedItem || !selectedLang) return false;
+
+  const items = [...menu.children].filter((item): item is HTMLElement => item instanceof HTMLElement);
+  const before = new Map<string, DOMRect>();
+  for (const item of items) {
+    const lang = langForMenuItem(item);
+    if (lang) before.set(lang, item.getBoundingClientRect());
+  }
+
+  // Match build-time orderLangMenu: selected language first, others in site order.
+  const menuLangs = items.map(langForMenuItem).filter((lang): lang is string => Boolean(lang));
+  const baseLangs = siteLanguages().filter((lang) => menuLangs.includes(lang));
+  const extraLangs = menuLangs.filter((lang) => !baseLangs.includes(lang));
+  const byLang = new Map(items.map((item) => [langForMenuItem(item), item] as const));
+  const orderedLangs = [
+    selectedLang,
+    ...baseLangs.filter((lang) => lang !== selectedLang),
+    ...extraLangs.filter((lang) => lang !== selectedLang),
+  ];
+  for (const lang of orderedLangs) {
+    const item = byLang.get(lang);
+    if (item) menu.append(item);
+  }
+
+  for (const item of menu.querySelectorAll('li')) {
+    const itemLink = item.querySelector('a[hreflang]');
+    if (!itemLink) continue;
+    const active = itemLink === link;
+    itemLink.classList.toggle('active', active);
+    if (active) itemLink.setAttribute('aria-current', 'true');
+    else itemLink.removeAttribute('aria-current');
+  }
+
+  if (prefersReducedMotion()) return true;
+
+  for (const [index, item] of [...menu.children].entries()) {
+    if (!(item instanceof HTMLElement)) continue;
+    const lang = langForMenuItem(item);
+    if (!lang) continue;
+    const oldRect = before.get(lang);
+    const delta = oldRect ? oldRect.top - item.getBoundingClientRect().top : 0;
+    if (delta === 0 || typeof item.animate !== 'function') continue;
+
+    if (item === selectedItem) {
+      // 比初版 A 方案更明确：右侧轻微避让 -> 上浮 -> 左侧轻微回弹，
+      // 避免只有一行位移时被用户感知成瞬时换序。
+      item.animate(
+        [
+          {
+            transform: `translateY(${delta}px) translateX(12px) scale(0.96)`,
+            opacity: '0.58',
+            offset: 0,
+          },
+          {
+            transform: `translateY(${delta * 0.45}px) translateX(-4px) scale(1.025)`,
+            opacity: '1',
+            offset: 0.58,
+          },
+          { transform: 'translateY(0px) translateX(0px) scale(1)', opacity: '1' },
+        ],
+        { duration: 560, easing: 'cubic-bezier(0.2, 1.12, 0.24, 1)' },
+      );
+    } else {
+      item.animate(
+        [
+          { transform: `translateY(${delta}px)`, opacity: '0.62' },
+          { transform: `translateY(${delta * 0.52}px)`, opacity: '0.96', offset: 0.55 },
+          { transform: 'translateY(0px)', opacity: '1' },
+        ],
+        {
+          duration: 470,
+          delay: 25 + index * 35,
+          easing: 'cubic-bezier(0.24, 0.86, 0.18, 1)',
+          fill: 'backwards',
+        },
+      );
+    }
+  }
+
+  return true;
+}
+
+function siteTitleEqual(oldTitleContainer: Element | null, newTitleLink: Element | null): boolean {
+  if (!oldTitleContainer || !newTitleLink) return !oldTitleContainer && !newTitleLink;
+  const oldLink = oldTitleContainer.querySelector<HTMLAnchorElement>("a");
+  if (!oldLink) return false;
+  if (oldLink.getAttribute("href") !== newTitleLink.getAttribute("href")) return false;
+  if (oldLink.textContent?.trim() !== newTitleLink.textContent?.trim()) return false;
+  return true;
+}
+
+function navLinksEqual(a: Element | null, b: Element | null): boolean {
+  if (!a || !b) return a === b;
+  const linksA = a.querySelectorAll<HTMLAnchorElement>("a");
+  const linksB = b.querySelectorAll<HTMLAnchorElement>("a");
+  if (linksA.length !== linksB.length) return false;
+  for (let i = 0; i < linksA.length; i++) {
+    const la = linksA[i];
+    const lb = linksB[i];
+    if (la.getAttribute("href") !== lb.getAttribute("href")) return false;
+    if (la.textContent?.trim() !== lb.textContent?.trim()) return false;
+  }
+  return true;
+}
+
+const CHROME_FADE_OUT_MS = 90;
+
+function childNodesChanged(container: Element, nodes: Node[]): boolean {
+  const current = Array.from(container.childNodes);
+  return (
+    current.length !== nodes.length ||
+    nodes.some((node, index) => !node.isEqualNode(current[index] ?? null))
+  );
+}
+
+/**
+ * SPA 语言/页面交换时同步 header 与页脚：先短暂淡出旧 chrome，
+ * 再替换节点并利用基础 transition 淡入。内容不变时不触发动画。
+ */
+async function replaceChildrenWithFade(container: Element, buildNodes: () => Node[]): Promise<void> {
+  const nodes = buildNodes();
+  if (!childNodesChanged(container, nodes)) return;
+  container.classList.add('chrome-fade-out');
+  await new Promise((resolve) => setTimeout(resolve, CHROME_FADE_OUT_MS));
+  container.replaceChildren(...nodes);
+  container.classList.remove('chrome-fade-out');
+}
+
+async function removeWithFade(element: Element): Promise<void> {
+  element.classList.add('chrome-fade-out');
+  await new Promise((resolve) => setTimeout(resolve, CHROME_FADE_OUT_MS));
+  element.remove();
+}
+
+function updateNavActive(path: string): void {
+  const current = new URL(path, location.href).pathname.replace(/\/+$/, '') || '/';
+  for (const a of document.querySelectorAll<HTMLAnchorElement>('.site-nav a')) {
+    const href = (a.getAttribute('href') ?? '').replace(/\/+$/, '') || '/';
+    const active = href === current;
+    a.classList.toggle('active', active);
+    if (active) a.setAttribute('aria-current', 'page');
+    else a.removeAttribute('aria-current');
+  }
+}
+
+function initExternalLinks(): void {
+  const links = document.querySelectorAll<HTMLAnchorElement>(
+    '.markdown-body a[href^="http://"], .markdown-body a[href^="https://"], .markdown-body a[href^="//"], .page-content a[href^="http://"], .page-content a[href^="https://"], .page-content a[href^="//"]'
+  );
+  for (const link of links) {
+    if (!link.getAttribute('target')) link.setAttribute('target', '_blank');
+    const rel = link.getAttribute('rel');
+    if (!rel) link.setAttribute('rel', 'noopener noreferrer');
+    else if (!rel.includes('noopener')) link.setAttribute('rel', 'noopener noreferrer');
+    if (!link.classList.contains('external-link')) link.classList.add('external-link');
+  }
+}
+
+function initAll(): void {
+  initThemeToggle();
+  initNavToggle();
+  initStreamBlocks();
+  initMotion();
+  initBgm();
+  initEmbeddedMedia();
+  initHeatmapTooltips();
+  initImageFade();
+  initNoticeBanners();
+  initSearch();
+  initToc();
+  initFootnotes();
+  initCodeBlocks();
+  void initMermaidBlocks();
+  initExternalLinks();
+  scheduleTabPrefetch();
+}
+
+// ---- 客户端内容交换 ----
+
+let swapping = false;
+
+async function swapContent(
+  path: string,
+  { push = true, minOverlayMs = 0, preserveLangMenu = false }: { push?: boolean; minOverlayMs?: number; preserveLangMenu?: boolean } = {},
+): Promise<void> {
+  if (swapping) return;
+  swapping = true;
+  // 预取/缓存命中时交换几乎瞬时完成；遮罩延迟出现，避免快速切换时闪烁。
+  // minOverlayMs > 0 时（如语言切换）遮罩立即出现并至少停留该时长。
+  // 遮罩自身完全透明，只作为切换期间的输入门；新页组件延迟到遮罩结束后初始化。
+  let loadingTimer: ReturnType<typeof setTimeout> | null = null;
+  let overlayShownAt = 0;
+  if (minOverlayMs > 0) {
+    showLoading();
+    overlayShownAt = Date.now();
+  } else {
+    loadingTimer = setTimeout(() => {
+      showLoading();
+    }, 150);
+  }
+  let activatePage: (() => void) | null = null;
+  try {
+    const html = await fetchPageHtml(path);
+    await cssReady;
+    if (html === null) {
+      location.href = path;
+      return;
+    }
+    const doc = new DOMParser().parseFromString(html, 'text/html');
+    const newMain = doc.querySelector('main.site-main');
+    const newFooter = doc.querySelector('footer.site-footer');
+    const oldMain = document.querySelector<HTMLElement>('main.site-main');
+    const oldFooter = document.querySelector<HTMLElement>('footer.site-footer');
+    if (!newMain || !oldMain) {
+      location.href = path;
+      return;
+    }
+    // 淡出旧内容（两帧即可，不等完整过渡）
+    oldMain.style.opacity = '0';
+    oldMain.style.transform = 'translateY(-8px)';
+    await nextPaint();
+    // 替换内容；新内容先停在下方位移，遮罩结束后再上移淡入。
+    oldMain.replaceChildren(...newMain.children);
+    oldMain.style.opacity = '0';
+    oldMain.style.transform = 'translateY(12px)';
+    const newNav = doc.querySelector('nav.site-nav');
+    const oldNav = document.querySelector<HTMLElement>('nav.site-nav');
+    const newTitle = newNav?.querySelector('.site-title a');
+    const oldTitle = oldNav?.querySelector('.site-title');
+    const newList = newNav?.querySelector('ul');
+    const oldList = oldNav?.querySelector('ul');
+
+    const chromeSwaps: Promise<void>[] = [];
+    if (oldTitle && newTitle && !siteTitleEqual(oldTitle, newTitle)) {
+      chromeSwaps.push(
+        replaceChildrenWithFade(oldTitle, () => [newTitle.cloneNode(true)]),
+      );
+    } else if (oldTitle && !newTitle) {
+      chromeSwaps.push(removeWithFade(oldTitle));
+    }
+    if (oldList && newList && !navLinksEqual(oldList, newList)) {
+      chromeSwaps.push(
+        replaceChildrenWithFade(oldList, () => Array.from(newList.children, (node) => node.cloneNode(true))),
+      );
+    }
+    if (newFooter && oldFooter) {
+      chromeSwaps.push(
+        replaceChildrenWithFade(oldFooter, () => Array.from(newFooter.childNodes, (node) => node.cloneNode(true))),
+      );
+    } else if (!newFooter && oldFooter) {
+      chromeSwaps.push(removeWithFade(oldFooter));
+    }
+    await Promise.all(chromeSwaps);
+
+    if (newFooter && !oldFooter) {
+      const addedFooter = newFooter.cloneNode(true);
+      oldMain.after(addedFooter);
+    }
+    replaceReadingProgress(doc);
+    replaceContactCard(doc);
+    syncGlobalChromeI18n(doc);
+    updateNavActive(path);
+    // header 的站点标题、导航列表与页脚已在上方按需淡入淡出替换。
+    const newLangMenu = doc.querySelector('.lang-menu');
+    const oldLangMenu = document.querySelector('.lang-menu');
+    // The click-time FLIP pass already owns menu order; preserving equal nodes
+    // prevents replacement from cutting the motion halfway. Normal swaps still sync it.
+    if (
+      newLangMenu &&
+      oldLangMenu &&
+      !(preserveLangMenu && sameLanguageSet(newLangMenu, oldLangMenu))
+    ) {
+      oldLangMenu.replaceChildren(
+        ...Array.from(newLangMenu.children, (node) => node.cloneNode(true)),
+      );
+    }
+    // 更新 URL 语言与实际内容语言（回退页两者可以不同）
+    document.title = doc.title;
+    const nextLanguage = normalizeLanguage(doc.documentElement.dataset.routeLang);
+    const nextContentLanguage = normalizeLanguage(doc.documentElement.getAttribute('lang'));
+    if (nextLanguage) document.documentElement.dataset.routeLang = nextLanguage;
+    if (nextContentLanguage) document.documentElement.setAttribute('lang', nextContentLanguage);
+    if (nextLanguage) {
+      writePreferredLanguage(nextLanguage);
+      if (push) history.pushState(null, '', path);
+    }
+    document.body.classList.remove('nav-open');
+    document.querySelector('.nav-toggle')?.setAttribute('aria-expanded', 'false');
+    // 新内容先保持透明，等可见遮罩完全结束再恢复并启动组件计时/动画。
+    activatePage = () => {
+      oldMain.style.opacity = '';
+      oldMain.style.transform = '';
+      // 重新初始化（动效、流式、灯箱等）
+      initAll();
+      // 客户端内容交换等价于一次页面加载；联系卡等全局组件依赖此事件重绑。
+      window.dispatchEvent(new Event('astro:page-load'));
+      if (location.hash) {
+        const hashId = decodeURIComponent(location.hash.slice(1));
+        const hashTarget = document.getElementById(hashId) ?? document.getElementsByName(hashId)[0];
+        if (hashTarget instanceof HTMLElement) {
+          scrollToAnchor(hashTarget, false);
+        } else {
+          scrollToTop();
+        }
+      } else {
+        scrollToTop();
+      }
+    };
+  } catch {
+    location.href = path;
+  } finally {
+    if (loadingTimer !== null) clearTimeout(loadingTimer);
+    if (overlayShownAt > 0) {
+      const remaining = minOverlayMs - (Date.now() - overlayShownAt);
+      if (remaining > 0) await new Promise((resolve) => setTimeout(resolve, remaining));
+    }
+    hideLoading();
+    // 先让移除遮罩 class 与新内容初始位移提交到下一帧，再启动进入动画和组件计时。
+    await nextPaint();
+    activatePage?.();
+    swapping = false;
+  }
+}
+
+/**
+ * SPA 内容交换保留 header/dialog 等全局节点以维持音频、搜索、主题等运行状态。
+ * 这些节点不随 main 一起替换，因此语言切换后必须把新文档中的本地化 aria/text
+ * 同步到现有节点；否则 BGM 播放列表、导航、主题与灯箱等会停留在旧语言。
+ */
+const GLOBAL_I18N_ATTRIBUTES: Array<[string, string]> = [
+  ['.nav-toggle', 'aria-label'],
+  ['.site-nav', 'aria-label'],
+  ['.search-dialog', 'aria-label'],
+  ['.bgm-toggle', 'aria-label'],
+  ['.bgm-toggle', 'aria-haspopup'],
+  ['audio.bgm-audio', 'data-artist-fallback'],
+  ['.bgm-drawer', 'aria-label'],
+  ['.bgm-prev-btn', 'aria-label'],
+  ['.bgm-play-btn', 'aria-label'],
+  ['.bgm-next-btn', 'aria-label'],
+  ['.bgm-volume-slider', 'aria-label'],
+  ['.lang-toggle', 'aria-label'],
+  ['.theme-toggle', 'aria-label'],
+  ['.lightbox', 'aria-label'],
+  ['.lightbox-close', 'aria-label'],
+  ['.footnote-popover-close', 'aria-label'],
+  ['.footnote-drawer', 'aria-label'],
+  ['.footnote-drawer-close', 'aria-label'],
+];
+
+const GLOBAL_I18N_TEXT_SELECTORS = [
+  '.bgm-drawer-title',
+  '.search-hint-nav',
+  '.search-hint-select',
+  '.search-hint-close',
+  '.search-status',
+  '.footnote-popover-label',
+  '.footnote-drawer-title',
+  '.footnote-drawer-jump-btn span',
+];
+
+function syncAttribute(selector: string, attribute: string, doc: Document): void {
+  const current = document.querySelector(selector);
+  const next = doc.querySelector(selector);
+  if (!current || !next) return;
+  const value = next.getAttribute(attribute);
+  if (value === null) current.removeAttribute(attribute);
+  else current.setAttribute(attribute, value);
+}
+
+function syncText(selector: string, doc: Document): void {
+  const current = document.querySelector(selector);
+  const next = doc.querySelector(selector);
+  if (current && next) current.textContent = next.textContent;
+}
+
+function syncBgmTracklist(doc: Document): void {
+  const currentItems = Array.from(document.querySelectorAll('.bgm-track-item'));
+  const nextItems = Array.from(doc.querySelectorAll('.bgm-track-item'));
+  if (currentItems.length !== nextItems.length) return;
+
+  currentItems.forEach((item, index) => {
+    const nextName = nextItems[index]?.querySelector('.bgm-track-name');
+    const currentName = item.querySelector('.bgm-track-name');
+    if (currentName && nextName) currentName.textContent = nextName.textContent;
+
+    const nextBy = nextItems[index]?.querySelector('.bgm-track-by');
+    const currentBy = item.querySelector('.bgm-track-by');
+    if (currentBy && nextBy) currentBy.textContent = nextBy.textContent;
+  });
+
+  // 新文档渲染的是第 1 首曲目；只有当前确实选中第 1 首时才同步标题/艺人，
+  // 避免用户已切到其他曲目时被第 1 首信息覆盖。
+  const activeItem = document.querySelector<HTMLElement>('.bgm-track-item.active');
+  if (activeItem?.dataset.trackIndex === '0') {
+    const nextTitle = doc.querySelector('.bgm-current-title');
+    const currentTitle = document.querySelector('.bgm-current-title');
+    if (currentTitle && nextTitle) currentTitle.textContent = nextTitle.textContent;
+    const nextArtist = doc.querySelector('.bgm-current-artist');
+    const currentArtist = document.querySelector('.bgm-current-artist');
+    if (currentArtist && nextArtist) currentArtist.textContent = nextArtist.textContent;
+  }
+}
+
+function syncGlobalChromeI18n(doc: Document): void {
+  for (const [selector, attribute] of GLOBAL_I18N_ATTRIBUTES) syncAttribute(selector, attribute, doc);
+  for (const selector of GLOBAL_I18N_TEXT_SELECTORS) syncText(selector, doc);
+  syncBgmTracklist(doc);
+}
+
+function replaceReadingProgress(doc: Document): void {
+  const nextProgress = doc.querySelector('.reading-progress');
+  const currentProgress = document.querySelector<HTMLElement>('.reading-progress');
+
+  if (nextProgress) {
+    if (currentProgress) {
+      currentProgress.style.transform = 'scaleX(0)';
+    } else {
+      const cloned = nextProgress.cloneNode(true) as HTMLElement;
+      cloned.style.transform = 'scaleX(0)';
+      const header = document.querySelector('.site-header');
+      if (header) {
+        header.before(cloned);
+      } else {
+        document.body.prepend(cloned);
+      }
+    }
+  } else {
+    currentProgress?.remove();
+  }
+}
+
+function replaceContactCard(doc: Document): void {
+  const nextCard = doc.querySelector('.intro-card');
+  const currentCard = document.querySelector('.intro-card');
+  const nextModal = doc.querySelector('dialog.qr-modal');
+  const currentModal = document.querySelector('dialog.qr-modal');
+
+  if (nextCard) {
+    const card = nextCard.cloneNode(true);
+    if (currentCard) currentCard.replaceWith(card);
+    else document.body.insertBefore(card, document.querySelector('.lightbox'));
+  } else {
+    currentCard?.remove();
+  }
+
+  if (nextModal) {
+    const modal = nextModal.cloneNode(true);
+    if (currentModal) currentModal.replaceWith(modal);
+    else document.querySelector('.intro-card')?.after(modal);
+  } else {
+    currentModal?.remove();
+  }
+}
+
+function isEditMode(): boolean {
+  try {
+    return (
+      document.documentElement.classList.contains('oh-edit') ||
+      document.documentElement.classList.contains('oh-editing') ||
+      sessionStorage.getItem('oh-edit') === '1'
+    );
+  } catch {
+    return (
+      document.documentElement.classList.contains('oh-edit') ||
+      document.documentElement.classList.contains('oh-editing')
+    );
+  }
+}
+
+function isInternalLink(href: string): boolean {
+  if (!href.startsWith('/') || href.startsWith('//')) return false;
+  return true;
+}
+
+
+// ---- 页面通知横幅关闭 ----
+
+document.addEventListener("click", (e) => {
+  const btn = e.target instanceof Element ? e.target.closest<HTMLButtonElement>(".notice-banner-close") : null;
+  if (!btn) return;
+  const banner = btn.closest<HTMLElement>(".notice-banner");
+  if (!banner || banner.classList.contains("dismissing")) return;
+  banner.classList.add("dismissing");
+  banner.classList.remove("visible");
+  banner.addEventListener(
+    "transitionend",
+    () => {
+      banner.remove();
+    },
+    { once: true }
+  );
+  setTimeout(() => {
+    if (banner.parentElement) banner.remove();
+  }, 350);
+});
+
+// ---- 导航拦截 ----
+
+document.addEventListener('click', (e) => {
+  const link = e.target instanceof Element ? e.target.closest('a') : null;
+  if (!link) return;
+  // overlay 自身控件（如 ←后台 链接）不拦截
+  if (
+    link.closest(
+      '.oh-topbar, .oh-toolbar, .oh-textedit, .oh-cfgedit, .oh-drawer, .oh-drawer-mask, .oh-inspector, .oh-inspector-mask, .oh-streamedit-mask'
+    )
+  ) {
+    return;
+  }
+  if (isEditMode()) {
+    // 编辑模式下阻止任何页面超链接的默认跳转 / SPA 内容交换，避免破坏编辑状态或意外跳出
+    e.preventDefault();
+    return;
+  }
+  const href = link.getAttribute('href') ?? '';
+  const selectedLanguage = normalizeLanguage(link.getAttribute('hreflang'));
+  // 语言切换器也走内容交换（保留当前页面）
+  // 同页锚点保持 SPA 行为并平滑滚动；跨页锚点交给浏览器完整导航。
+  if (href.includes('#')) {
+    const url = new URL(href, location.href);
+    if (
+      url.origin === location.origin &&
+      url.pathname === location.pathname &&
+      url.search === location.search
+    ) {
+      const id = decodeURIComponent(url.hash.slice(1));
+      const target = document.getElementById(id) ?? document.getElementsByName(id)[0];
+      if (target instanceof HTMLElement) {
+        e.preventDefault();
+        history.pushState(null, '', `${url.pathname}${url.search}${url.hash}`);
+        scrollToAnchor(target, true);
+      }
+    }
+    return;
+  }
+  // 外链不动
+  if (!isInternalLink(href)) return;
+  // 修饰键点击不动
+  if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  e.preventDefault();
+  if (link.closest(".site-nav")) {
+    updateNavActive(href);
+  }
+  if (selectedLanguage) {
+    // hover 打开的菜单没有 .open 状态；点击语言项时显式锁定打开，
+    // 保证鼠标稍微移动或页面滚动时 FLIP 动画不会被 hover 断掉。
+    link.closest('.lang-menu')?.classList.add('open');
+    link
+      .closest('.lang-switcher')
+      ?.querySelector('.lang-toggle')
+      ?.setAttribute('aria-expanded', 'true');
+  }
+  const langMenuAnimated = selectedLanguage ? animateLangMenuSelection(link) : false;
+  if (selectedLanguage) writePreferredLanguage(selectedLanguage);
+  // 语言切换保留 0.42s 可见遮罩，并延迟组件计时/动画；
+  // 菜单 FLIP 与内容交换并行，遮罩不遮挡右上语言菜单。
+  void swapContent(href, {
+    minOverlayMs: selectedLanguage ? LANGUAGE_OVERLAY_MS : 0,
+    preserveLangMenu: langMenuAnimated,
+  });
+});
+
+// ---- 语言切换器菜单 ----
+
+function setLangMenu(menu: Element, open: boolean): void {
+  menu.classList.toggle('open', open);
+  menu
+    .closest('.lang-switcher')
+    ?.querySelector('.lang-toggle')
+    ?.setAttribute('aria-expanded', open ? 'true' : 'false');
+}
+document.addEventListener('click', (e) => {
+  // 点击语言项本身时保持菜单打开：FLIP 换序动画需要菜单继续可见。
+  if (e.target instanceof Element && e.target.closest('.lang-menu')) return;
+  const toggle = e.target instanceof Element ? e.target.closest('.lang-toggle') : null;
+  const ownMenu = toggle?.closest('.lang-switcher')?.querySelector('.lang-menu');
+  for (const menu of document.querySelectorAll('.lang-menu.open')) {
+    if (menu !== ownMenu) setLangMenu(menu, false);
+  }
+  if (ownMenu) setLangMenu(ownMenu, !ownMenu.classList.contains('open'));
+});
+document.addEventListener('keydown', (e) => {
+  if (e.key !== 'Escape') return;
+  for (const menu of document.querySelectorAll('.lang-menu.open')) setLangMenu(menu, false);
+});
+
+// ---- P0 论文 BibTeX 复制（渐进增强；无 JS 时 pre 内文本仍可手动复制） ----
+document.addEventListener('click', async (e) => {
+  const btn = e.target instanceof Element ? e.target.closest<HTMLButtonElement>('[data-copy-bibtex]') : null;
+  if (!btn) return;
+  const source = document.getElementById(btn.dataset.copyBibtex ?? '');
+  if (!source) return;
+  const text = source.textContent ?? '';
+  const isZh = (document.documentElement.dataset.routeLang || 'zh').startsWith('zh');
+  const original = btn.textContent;
+  try {
+    await navigator.clipboard.writeText(text);
+    btn.textContent = isZh ? '已复制' : 'Copied';
+  } catch {
+    source.focus();
+    btn.textContent = isZh ? '按 Ctrl/Cmd+C 复制' : 'Press Ctrl/Cmd+C';
+  }
+  btn.setAttribute('aria-live', 'polite');
+  window.setTimeout(() => {
+    btn.textContent = original || (isZh ? '复制 BibTeX' : 'Copy BibTeX');
+  }, 1800);
+});
+// ---- RSS 封面加载失败 ----
+
+document.addEventListener(
+  'error',
+  (e) => {
+    if (e.target instanceof HTMLImageElement) {
+      const cover = e.target.closest<HTMLElement>('.rss-cover');
+      // 外链加载失败前端隐藏图位（spec 05：无图/失败回退纯文字卡片）
+      if (cover) {
+        cover.classList.add('cover-failed');
+        cover.style.display = 'none';
+      }
+    }
+  },
+  true
+);
+
+async function bootstrapLanguage(): Promise<void> {
+  if (isEditMode()) return;
+  const current = currentRouteLanguage();
+  const preferred = readPreferredLanguage() ?? browserLanguage() ?? current;
+  if (!preferred) return;
+  if (!readPreferredLanguage()) writePreferredLanguage(preferred);
+  if (current === preferred) return;
+  await swapContent(languagePath(preferred));
+}
+
+// 兜底：内联引导脚本不可用时，语言偏好不匹配仍在遮罩下切换。
+initAll();
+void bootstrapLanguage();
+
+window.addEventListener('popstate', () => {
+  void swapContent(location.pathname + location.search, { push: false });
+});

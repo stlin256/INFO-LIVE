@@ -1,0 +1,318 @@
+---
+/**
+ * GitHub 区块：贡献热力图（对齐 github.com 首页：顶部计数行×2、月份/星期坐标轴、
+ * 格子 tooltip、Less→More 图例、自定义横向滚动条）+ pinned 仓库卡（1:1 官网样式）。
+ * 数据全部来自构建侧视图模型（src/lib/github-block.ts）。
+ * - stale（error 且有旧数据）→ 照常渲染 + 小字"数据更新于 {fetched_at}"；
+ * - 本地无 PAT 的贡献图占位块 → "本地预览不可用"提示；
+ * - view 为 null（.cache 缺失）→ 空态提示（报错闸口在 prefetch，见 spec 07 §4）。
+ */
+import type { GithubView } from '../../lib/github-block.ts';
+import {
+  buildHeatScales,
+  formatTimestamp,
+  repoCardHtml,
+  formatCount,
+  heatTooltip,
+  monthLabels,
+  weekdayLabels,
+} from '../../lib/github-block.ts';
+import type { AccentTheme } from '../../lib/theme.ts';
+
+interface Props {
+  view: GithubView | null;
+  lang: string;
+  accent: AccentTheme;
+  showContributions: boolean;
+  /** 可视化编辑（M12d）：首页配置区块坐标值（github）；仅 OH_EDIT 下由路由层传入 */
+  cfgBlock?: string;
+}
+
+const { view, lang, accent, showContributions, cfgBlock } = Astro.props;
+
+const LABELS = {
+  zh: {
+    total: (n: string) => `过去一年 ${n} 次贡献`,
+    totalAlt: (n: string) => `过去一年 ${n} 次 GitHub 贡献`,
+    updated: '数据更新于',
+    placeholder: '本地预览不可用（未配置 GH_PAT；CI 部署将展示真实贡献数据）',
+    empty: 'GitHub 数据未预取：请先运行 npm run prefetch',
+    heatLabel: 'GitHub 贡献热力图',
+    less: '少',
+    more: '多',
+  },
+  en: {
+    total: (n: string) => `${n} contributions in the last year`,
+    totalAlt: (n: string) => `${n} GitHub contributions in the last year`,
+    updated: 'Data updated',
+    placeholder: 'Unavailable in local preview (no GH_PAT; CI builds show real data)',
+    empty: 'GitHub data not prefetched: run npm run prefetch first',
+    heatLabel: 'GitHub contribution heatmap',
+    less: 'Less',
+    more: 'More',
+  },
+  ja: {
+    total: (n: string) => `過去 1 年間で ${n} 件のコントリビューション`,
+    totalAlt: (n: string) => `過去 1 年間で ${n} 件の GitHub コントリビューション`,
+    updated: '最終更新',
+    placeholder: 'ローカルプレビューでは利用できません（GH_PAT 未設定。CI ビルドでは実データを表示）',
+    empty: 'GitHub データが未取得です：先に npm run prefetch を実行してください',
+    heatLabel: 'GitHub コントリビューションヒートマップ',
+    less: '少',
+    more: '多',
+  },
+  fr: {
+    total: (n: string) => `${n} contributions au cours de l’année écoulée`,
+    totalAlt: (n: string) => `${n} contributions GitHub au cours de l’année écoulée`,
+    updated: 'Données mises à jour le',
+    placeholder: 'Indisponible en aperçu local (pas de GH_PAT ; les builds CI affichent les données réelles)',
+    empty: 'Données GitHub non préchargées : exécutez d’abord npm run prefetch',
+    heatLabel: 'Carte de chaleur des contributions GitHub',
+    less: 'Moins',
+    more: 'Plus',
+  },
+  de: {
+    total: (n: string) => `${n} Beiträge im letzten Jahr`,
+    totalAlt: (n: string) => `${n} GitHub-Beiträge im letzten Jahr`,
+    updated: 'Daten aktualisiert am',
+    placeholder: 'Lokale Vorschau nicht verfügbar (kein GH_PAT; CI-Builds zeigen echte Daten)',
+    empty: 'GitHub-Daten nicht abgerufen: zuerst npm run prefetch ausführen',
+    heatLabel: 'GitHub-Beitrags-Heatmap',
+    less: 'Weniger',
+    more: 'Mehr',
+  },
+  es: {
+    total: (n: string) => `${n} contribuciones en el último año`,
+    totalAlt: (n: string) => `${n} contribuciones de GitHub en el último año`,
+    updated: 'Datos actualizados el',
+    placeholder: 'No disponible en vista previa local (sin GH_PAT; los builds de CI muestran datos reales)',
+    empty: 'Datos de GitHub no precargados: ejecuta primero npm run prefetch',
+    heatLabel: 'Mapa de calor de contribuciones de GitHub',
+    less: 'Menos',
+    more: 'Más',
+  },
+  ko: {
+    total: (n: string) => `지난 1년간 ${n}회 기여`,
+    totalAlt: (n: string) => `지난 1년간 ${n}회 GitHub 기여`,
+    updated: '데이터 업데이트',
+    placeholder: '로컬 미리보기에서 사용할 수 없음 (GH_PAT 없음; CI 빌드는 실제 데이터 표시)',
+    empty: 'GitHub 데이터 미가져옴: 먼저 npm run prefetch 실행',
+    heatLabel: 'GitHub 기여 히트맵',
+    less: '적음',
+    more: '많음',
+  },
+  pt: {
+    total: (n: string) => `${n} contribuições no último ano`,
+    totalAlt: (n: string) => `${n} contribuições do GitHub no último ano`,
+    updated: 'Dados atualizados em',
+    placeholder: 'Indisponível na pré-visualização local (sem GH_PAT; builds de CI mostram dados reais)',
+    empty: 'Dados do GitHub não pré-carregados: execute npm run prefetch primeiro',
+    heatLabel: 'Mapa de calor de contribuições do GitHub',
+    less: 'Menos',
+    more: 'Mais',
+  },
+  ru: {
+    total: (n: string) => `${n} вкладов за последний год`,
+    totalAlt: (n: string) => `${n} вкладов GitHub за последний год`,
+    updated: 'Данные обновлены',
+    placeholder: 'Недоступно в локальном предпросмотре (нет GH_PAT; сборки CI показывают реальные данные)',
+    empty: 'Данные GitHub не загружены: сначала запустите npm run prefetch',
+    heatLabel: 'Тепловая карта вкладов GitHub',
+    less: 'Меньше',
+    more: 'Больше',
+  },
+  it: {
+    total: (n: string) => `${n} contributi nell'ultimo anno`,
+    totalAlt: (n: string) => `${n} contributi GitHub nell'ultimo anno`,
+    updated: 'Dati aggiornati il',
+    placeholder: 'Non disponibile in anteprima locale (nessun GH_PAT; i build CI mostrano i dati reali)',
+    empty: 'Dati GitHub non precaricati: esegui prima npm run prefetch',
+    heatLabel: 'Mappa di calore dei contributi GitHub',
+    less: 'Meno',
+    more: 'Più',
+  },
+  nl: {
+    total: (n: string) => `${n} bijdragen in het afgelopen jaar`,
+    totalAlt: (n: string) => `${n} GitHub-bijdragen in het afgelopen jaar`,
+    updated: 'Gegevens bijgewerkt op',
+    placeholder: 'Niet beschikbaar in lokale voorvertoning (geen GH_PAT; CI-builds tonen echte gegevens)',
+    empty: 'GitHub-gegevens niet vooraf geladen: voer eerst npm run prefetch uit',
+    heatLabel: 'GitHub-bijdragen heatmap',
+    less: 'Minder',
+    more: 'Meer',
+  },
+  tr: {
+    total: (n: string) => `Son yılda ${n} katkı`,
+    totalAlt: (n: string) => `Son yılda ${n} GitHub katkısı`,
+    updated: 'Veriler güncellendi',
+    placeholder: 'Yerel önizlemede kullanılamaz (GH_PAT yok; CI yapıları gerçek verileri gösterir)',
+    empty: 'GitHub verileri önceden yüklenmedi: önce npm run prefetch çalıştırın',
+    heatLabel: 'GitHub katkı ısı haritası',
+    less: 'Az',
+    more: 'Çok',
+  },
+  vi: {
+    total: (n: string) => `${n} đóng góp trong năm qua`,
+    totalAlt: (n: string) => `${n} đóng góp GitHub trong năm qua`,
+    updated: 'Dữ liệu cập nhật',
+    placeholder: 'Không có trong xem trước cục bộ (không có GH_PAT; bản CI hiển thị dữ liệu thực)',
+    empty: 'Dữ liệu GitHub chưa tải: chạy npm run prefetch trước',
+    heatLabel: 'Bản đồ nhiệt đóng góp GitHub',
+    less: 'Ít',
+    more: 'Nhiều',
+  },
+  th: {
+    total: (n: string) => `${n} การสนับสนุนในปีที่แล้ว`,
+    totalAlt: (n: string) => `${n} การสนับสนุน GitHub ในปีที่แล้ว`,
+    updated: 'อัปเดตข้อมูล',
+    placeholder: 'ไม่พร้อมใช้งานในตัวอย่างภายในเครื่อง (ไม่มี GH_PAT; บิลด์ CI แสดงข้อมูลจริง)',
+    empty: 'ข้อมูล GitHub ยังไม่ถูกดึง: รัน npm run prefetch ก่อน',
+    heatLabel: 'แผนที่ความร้อนการสนับสนุน GitHub',
+    less: 'น้อย',
+    more: 'มาก',
+  },
+  id: {
+    total: (n: string) => `${n} kontribusi dalam setahun terakhir`,
+    totalAlt: (n: string) => `${n} kontribusi GitHub dalam setahun terakhir`,
+    updated: 'Data diperbarui',
+    placeholder: 'Tidak tersedia di pratinjau lokal (tanpa GH_PAT; build CI menampilkan data asli)',
+    empty: 'Data GitHub belum dimuat: jalankan npm run prefetch terlebih dahulu',
+    heatLabel: 'Peta panas kontribusi GitHub',
+    less: 'Sedikit',
+    more: 'Banyak',
+  },
+  ar: {
+    total: (n: string) => `${n} مساهمة في العام الماضي`,
+    totalAlt: (n: string) => `${n} مساهمة GitHub في العام الماضي`,
+    updated: 'تحديث البيانات',
+    placeholder: 'غير متاح في المعاينة المحلية (لا GH_PAT؛ بناءات CI تعرض البيانات الحقيقية)',
+    empty: 'لم يتم تحميل بيانات GitHub: شغّل npm run prefetch أولاً',
+    heatLabel: 'خريطة حرارية مساهمات GitHub',
+    less: 'أقل',
+    more: 'أكثر',
+  },
+  hi: {
+    total: (n: string) => `पिछले वर्ष ${n} योगदान`,
+    totalAlt: (n: string) => `पिछले वर्ष ${n} GitHub योगदान`,
+    updated: 'डेटा अपडेट',
+    placeholder: 'स्थानीय पूर्वावलोकन में अनुपलब्ध (कोई GH_PAT नहीं; CI बिल्ड वास्तविक डेटा दिखाते हैं)',
+    empty: 'GitHub डेटा प्रीलोड नहीं: पहले npm run prefetch चलाएं',
+    heatLabel: 'GitHub योगदान हीटमैप',
+    less: 'कम',
+    more: 'अधिक',
+  },
+} as const;
+const L2 = lang in LABELS ? lang : 'en';
+type GithubBlockLabels = {
+  total: (n: string) => string;
+  totalAlt: (n: string) => string;
+  updated: string;
+  placeholder: string;
+  empty: string;
+  heatLabel: string;
+  less: string;
+  more: string;
+};
+const L = (LABELS as Record<string, GithubBlockLabels>)[L2];
+
+const scales = buildHeatScales(accent.light.accent, accent.dark.accent);
+// 色阶只挂在区块根上；define:vars 会把同一组变量复制到所有 scoped 后代节点。
+const heatScaleVars = [
+  ...scales.light.map((color, index) => `--heat-light-${index}:${color}`),
+  ...scales.dark.map((color, index) => `--heat-dark-${index}:${color}`),
+].join(';');
+
+const contributions = view?.contributions ?? { kind: 'hidden' };
+const pinned = view?.pinned ?? null;
+
+// 坐标轴（纯函数，src/lib/github-block.ts）：月份只标新月起始列；星期只显示 一/三/五
+const months = contributions.kind === 'ok' ? monthLabels(contributions.weeks, L2) : [];
+const weekdays = weekdayLabels(L2);
+const totalFmt = contributions.kind === 'ok' ? formatCount(contributions.total) : '';
+---
+
+<section
+  class="home-block block-github reveal"
+  style={heatScaleVars}
+  {...(cfgBlock ? { 'data-oh-cfg-block': cfgBlock } : {})}
+>
+  {view === null && <p class="block-empty">{L.empty}</p>}
+
+  {showContributions && contributions.kind === 'placeholder' && (
+    <p class="block-empty heat-placeholder">{L.placeholder}</p>
+  )}
+
+  {showContributions && contributions.kind === 'ok' && (
+    <div class="heatmap-wrap">
+      <p class="heat-total">{L.totalAlt(totalFmt)}</p>
+      <div class="heatmap-scroll">
+        <div class="heatmap-inner">
+            <div class="heat-right">
+              <div class="heat-months" aria-hidden="true" style={`--weeks:${contributions.weeks.length}`}>
+                {months.map((m) => <span style={`--w:${m.weekIndex}`}>{m.label}</span>)}
+              </div>
+              <div class="heat-main">
+                <div class="heat-weekdays" aria-hidden="true">
+                  {weekdays.map((w) => <span>{w ?? ''}</span>)}
+                </div>
+                <div class="heatmap" role="img" aria-label={L.heatLabel}>
+                  {contributions.weeks.map((week, wi) => (
+                    <div class="heat-week">
+                      {week.days.map((day) =>
+                        day ? (
+                          <span
+                            class="heat-cell"
+                            data-level={day.level}
+                            data-tip={heatTooltip(day.date, day.count, L2)}
+                            style={`animation-delay:${wi * 20}ms`}
+                          />
+                        ) : (
+                          <span class="heat-cell heat-empty" />
+                        ),
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          <p class="heat-legend" aria-hidden="true">
+            <span>{L.less}</span>
+            {[0, 1, 2, 3, 4].map((i) => <span class="heat-cell heat-legend-cell" data-level={i} />)}
+            <span>{L.more}</span>
+          </p>
+        </div>
+      </div>
+      {contributions.stale && contributions.fetchedAt !== null && (
+        <p class="heat-footer">
+          <span class="data-age">{L.updated} {formatTimestamp(contributions.fetchedAt)}</span>
+        </p>
+      )}
+    </div>
+  )}
+
+  {pinned && (
+    <div class="gh-grid">
+      {pinned.repos.map((repo) => <Fragment set:html={repoCardHtml(repo, { lang: L2 })} />)}
+    </div>
+  )}
+  {pinned?.stale && pinned.fetchedAt !== null && (
+    <p class="data-age">{L.updated} {formatTimestamp(pinned.fetchedAt)}</p>
+  )}
+</section>
+
+<style>
+  .block-github {
+    --heat-0: var(--heat-light-0);
+    --heat-1: var(--heat-light-1);
+    --heat-2: var(--heat-light-2);
+    --heat-3: var(--heat-light-3);
+    --heat-4: var(--heat-light-4);
+  }
+  html[data-theme='dark'] .block-github {
+    --heat-0: var(--heat-dark-0);
+    --heat-1: var(--heat-dark-1);
+    --heat-2: var(--heat-dark-2);
+    --heat-3: var(--heat-dark-3);
+    --heat-4: var(--heat-dark-4);
+  }
+</style>

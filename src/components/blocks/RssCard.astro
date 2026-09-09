@@ -1,0 +1,35 @@
+---
+/**
+ * 单张 RSS 卡片（spec 05）：卡片本身是外链 <a>，点击直达原文。
+ * （hover 预览浮层已按用户要求移除。）
+ */
+import type { RssCardView } from '../../lib/rss-block.ts';
+import { withBase } from '../../lib/base-url.ts';
+
+interface Props {
+  card: RssCardView;
+}
+
+const { card } = Astro.props;
+---
+
+<a class="rss-card" href={card.link} target="_blank" rel="noopener">
+  {card.cover && (
+    <span class="rss-cover">
+      <img src={withBase(card.cover)} alt="" loading="lazy" />
+    </span>
+  )}
+  <span class="rss-card-body">
+    <span class="rss-title">{card.title}</span>
+    <span class="rss-meta">
+      <span class="rss-source-tag">{card.source}</span>
+      {card.day && (
+        <time datetime={card.published ?? undefined} title={card.published ?? undefined}>
+          {card.day}
+        </time>
+      )}
+    </span>
+    {card.summary && <span class="rss-summary">{card.summary}</span>}
+    {card.note && <span class="rss-note">{card.note}</span>}
+  </span>
+</a>

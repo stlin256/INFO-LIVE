@@ -1,0 +1,77 @@
+# InfoLive (全球情报矩阵)
+
+> **InfoLive** 是一个全自动、AI 驱动的全球全源信息流与实时要闻矩阵平台。
+> 底层前端框架由 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动，遵循极简、优雅的静态杂志化设计美学。
+
+---
+
+## 🌟 项目亮点
+
+1. **⚡ 全球全源超大信息量实时抓取**
+   - 涵盖 30+ 全球多领域权威信源：主流通讯社（BBC、路透社、美联社、彭博社）、前沿科技与 AI 顶级社区（Hacker News、The Verge、TechCrunch、OpenAI、DeepMind、Hugging Face、MIT Tech Review）、全球政经时事（半岛电视台、德国之声、联合早报、纽约时报、财新）、商业金融（WSJ、CNBC）、开发者与思想论坛（Reddit r/technology、r/worldnews、Lobste.rs）以及前沿科学顶刊（Nature、Science、NASA、Phys.org）。
+   - 兼收并蓄，包容一切立场与多元视角，提供真正的全球全景洞察。
+
+2. **🧠 纯正 AI 内化深度总结（非简单外链聚合）**
+   - 接入 Gemini 3.8 Flash 旗舰级多模态认知模型，执行中文内化翻译与情报提炼。
+   - **每小时要闻速报**：提炼当前小时全球核心宏观信号与关键动态。
+   - **重大事件脉络追踪（Timeline）**：结构化呈现跨周期的事件最新进展、背景脉络与后续研判。
+   - **全景要闻深度拆解（Cards）**：150~200 字背景深度还原 + 核心研判要点 + 真实来源追溯。
+   - **秒级快讯流（Ticker）**：一目了然的时间轴滚动速览。
+
+3. **🎨 精致预制媒体品牌徽标（SVG Vector Badges）**
+   - 为 27+ 家世界顶级媒体手工打造矢量 SVG 徽标，并在渲染引擎中智能规范化对齐，保证视觉呈现极致专业。
+
+4. **🔄 GitHub Actions 24/7 全自动小时级闭环**
+   - 每小时定时触发（`0 * * * *`），自动化完成：信源并发拉取 -> AI 提炼与页面重写 -> Git 增量安全提交 -> 静态编译与资源压缩 -> 部署至 GitHub Pages。
+   - 纯静态生成（Astro SSG），加载极快，零运维成本，天然抵御高并发流量。
+
+5. **🔐 极客级凭据安全体系**
+   - AI 密钥严禁写入仓库代码，全部安全托管于 GitHub Repository Secrets（`AI_API_KEY`, `AI_API_BASE`, `AI_MODEL`）。
+
+---
+
+## 🗺️ 矩阵板块规划
+
+- **主页 / 全球情报矩阵**：当前小时全球宏观速报、跨领域重大事件追踪、核心全景深度卡片、快讯流。
+- **AI与前沿科技**：聚焦前沿大模型范式、智能体架构、开源生态与顶会论文。
+- **全球政经与时事**：国际地缘博弈、全球大选与宏观政经风云。
+- **商业金融**：全球资本流动、汇率异动、大宗商品与半导体供应链监控。
+- **信源矩阵**：全透明列出监控的全球 30+ 信源分布、分类与品牌徽标注册表。
+- **关于项目**：InfoLive 架构设计原理与技术说明。
+
+---
+
+## 🛠️ 技术栈与架构
+
+- **核心驱动**：[OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2)（Astro 5 + TypeScript + Vite + Sharp）
+- **AI 智能中枢**：Gemini 3.8 Flash (OpenAI-compatible protocol)
+- **多源数据管线**：Node.js 24 + Undici + RSS-Parser + 智能容错并发队列
+- **CI/CD & 托管**：GitHub Actions + GitHub Pages
+
+---
+
+## 🚀 本地运行与开发
+
+```bash
+# 安装依赖
+npm install
+
+# 本地抓取并执行 AI 深度分析（需要设置环境变量）
+export AI_API_KEY="your_api_key"
+export AI_API_BASE="https://axon2.ystone.top/v1"
+export AI_MODEL="gemini-3.8-flash"
+npm run feed
+
+# 启动本地实时预览
+npm run dev
+
+# 静态打包编译
+npm run build
+```
+
+---
+
+## 📄 版权与致谢
+
+- 本项目由 **InfoLive** 架构团队自主研发与改写。
+- 页面底层杂志化排版布局前端框架由 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动，特此致谢。

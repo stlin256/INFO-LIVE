@@ -1,0 +1,513 @@
+/**
+ * rehype 内容装饰插件群：资产路径归一化与远程媒体本地化、图片懒加载、表格横向滚动包裹、
+ * 脚注/外链/callout/timeline 装饰、publications 区块渲染、标题 slug、iframe 域名白名单过滤、
+ * 站内链接本地化。rehypeContentDecorations 的装饰逻辑按节点类型拆分为扁平的 decorate* handler。
+ */
+
+import { visit, SKIP } from 'unist-util-visit';
+import type { Root as HastRoot, Element, ElementContent } from 'hast';
+import { localizeInternalHref } from '../routes.ts';
+import { withBase } from '../base-url.ts';
+import { localizeRemoteAsset } from '../remote-assets.ts';
+import { renderPublications, type PublicationsConfig, type PublicationQuery } from '../publications.ts';
+import { generateHeadingSlug } from '../toc.ts';
+import { getUiLabels } from '../ui-i18n.ts';
+import { hEl, hTxt, hastText, classesOf } from './utils.ts';
+import { CALLOUT_ICON_PATHS, safeTimelineUrl, timelineRangeText } from './directives.ts';
+import { IFRAME_SRC_ALLOWLIST } from './sanitize.ts';
+import { wrapFragmentForEdit } from './edit-spans.ts';
+import type { MarkdownOptions } from './types.ts';
+
+export function rehypeNormalizeAssetPaths(baseUrl?: string) {
+  return (tree: HastRoot) => {
+    visit(tree, 'element', (node: Element) => {
+      const tag = node.tagName;
+      if (tag !== 'img' && tag !== 'video' && tag !== 'audio' && tag !== 'source') return;
+      for (const attr of ['src', 'poster'] as const) {
+        const v = node.properties?.[attr];
+        if (typeof v === 'string') {
+          if (v.startsWith('assets/')) {
+            node.properties[attr] = withBase(`/${v}`, baseUrl);
+          } else if (v.startsWith('/assets/')) {
+            node.properties[attr] = withBase(v, baseUrl);
+          }
+        }
+      }
+    });
+  };
+}
+
+/**
+ * 远程媒体本地化：img/video/audio/source 的 http(s) src/poster 下载到
+ * data/assets/remote/ 并改写为带 base 前缀的本地路径；下载失败保留原 URL。
+ * 在 rehypeNormalizeAssetPaths 之后运行（本地路径已归一，这里只处理远程）。
+ */
+export function rehypeLocalizeRemoteAssets(
+  baseUrl: string,
+  opts: NonNullable<MarkdownOptions['localizeAssets']>,
+) {
+  return async (tree: HastRoot) => {
+    const jobs: Promise<void>[] = [];
+    visit(tree, 'element', (node: Element) => {
+      const tag = node.tagName;
+      if (tag !== 'img' && tag !== 'video' && tag !== 'audio' && tag !== 'source') return;
+      for (const attr of ['src', 'poster'] as const) {
+        const v = node.properties?.[attr];
+        if (typeof v !== 'string' || !/^https?:\/\//i.test(v)) continue;
+        jobs.push(
+          localizeRemoteAsset(v, opts).then((local) => {
+            if (local && node.properties) node.properties[attr] = withBase(`/${local}`, baseUrl);
+          }),
+        );
+      }
+    });
+    await Promise.all(jobs);
+  };
+}
+
+export function rehypeLazyImages() {
+  return (tree: HastRoot) => {
+    visit(tree, 'element', (node: Element) => {
+      if (node.tagName === 'img' && node.properties && node.properties.loading == null) {
+        node.properties.loading = 'lazy';
+      }
+    });
+  };
+}
+
+/** 从 code 元素判断语言是否为 mermaid（兼容 language-mermaid 与 data-language） */
+function mermaidCodeLanguage(code: Element): boolean {
+  const className = classesOf(code).find((cls) => cls.startsWith('language-'));
+  if (className?.replace('language-', '').toLowerCase() === 'mermaid') return true;
+  const dataLanguage = code.properties?.dataLanguage ?? code.properties?.dataLang;
+  return typeof dataLanguage === 'string' && dataLanguage.toLowerCase() === 'mermaid';
+}
+
+/**
+ * 将 ```mermaid 代码块改写为 .mermaid-block 源码块，交给客户端 mermaid 渲染。
+ * 必须在 Shiki 之前运行，避免 mermaid 被当作普通高亮代码处理。
+ */
+export function rehypeMermaidBlocks() {
+  return (tree: HastRoot) => {
+    visit(tree, 'element', (node: Element, index, parent) => {
+      if (node.tagName !== 'pre' || parent == null || index == null) return;
+      const code = node.children.find(
+        (child): child is Element => child.type === 'element' && child.tagName === 'code',
+      );
+      if (!code || !mermaidCodeLanguage(code)) return;
+
+      const source = hastText(code);
+      const block: Element = {
+        type: 'element',
+        tagName: 'div',
+        properties: { className: ['mermaid-block'], dataMermaid: 'true' },
+        children: [
+          {
+            type: 'element',
+            tagName: 'pre',
+            properties: { className: ['mermaid-source'] },
+            children: [
+              {
+                type: 'element',
+                tagName: 'code',
+                properties: {},
+                children: [{ type: 'text', value: source }],
+              },
+            ],
+          },
+        ],
+      };
+      parent.children[index] = block;
+    });
+  };
+}
+
+/**
+ * 表格横向滚动包裹：将 <table> 包进 <div class="md-table-wrap">（overflow-x: auto），
+ * 防止移动端窄屏下表格被过度压缩或溢出视口；桌面端表格宽度仍自适应容器。
+ */
+export function rehypeWrapTables() {
+  return (tree: HastRoot) => {
+    visit(tree, 'element', (node: Element, index, parent) => {
+      if (node.tagName !== 'table' || parent == null || index == null) return;
+      // 已在表格包裹容器内则跳过（避免重复嵌套）
+      if (parent.type === 'element' && (parent as Element).tagName === 'div' &&
+        classesOf(parent as Element).includes('md-table-wrap')) return;
+      const wrapper: Element = {
+        type: 'element',
+        tagName: 'div',
+        properties: { className: ['md-table-wrap'] },
+        children: [node],
+      };
+      parent.children[index] = wrapper;
+    });
+  };
+}
+
+function calloutHeader(node: Element): void {
+  const type = classesOf(node).find((c) => c.startsWith('callout-'))?.slice('callout-'.length);
+  if (!type) return;
+  const title = String(node.properties?.dataCalloutTitle ?? '');
+  const source = String(node.properties?.dataCalloutSource ?? '');
+  const icon = hEl('span', { className: ['callout-icon'], ariaHidden: 'true' }, [
+    hEl('svg', { viewBox: '0 0 24 24', fill: 'currentColor', ariaHidden: 'true' }, [
+      hEl('path', { d: CALLOUT_ICON_PATHS[type] ?? CALLOUT_ICON_PATHS.note }),
+    ]),
+  ]);
+  const heading = hEl('p', { className: ['callout-title'] }, [hTxt(title)]);
+  node.children.unshift(hEl('div', { className: ['callout-header'] }, [icon, heading]));
+  if (source) node.children.push(hEl('p', { className: ['callout-source'] }, [hTxt(source)]));
+  delete node.properties?.dataCalloutTitle;
+  delete node.properties?.dataCalloutSource;
+}
+/** 脚注回链箭头图标（替换默认 ↩ 文本） */
+function footnoteBackrefIcon(): ElementContent {
+  return hEl(
+    'svg',
+    {
+      className: ['footnote-backref-icon'],
+      viewBox: '0 0 24 24',
+      width: '13',
+      height: '13',
+      fill: 'none',
+      stroke: 'currentColor',
+      strokeWidth: '2.2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round',
+      ariaHidden: 'true',
+    },
+    [
+      hEl('path', { d: 'M9 14 4 9l5-5' }),
+      hEl('path', { d: 'M20 20v-7a4 4 0 0 0-4-4H4' }),
+    ],
+  );
+}
+
+/** 外链箭头图标（外链 <a> 与 timeline 条目标题共用） */
+function externalLinkIcon(): ElementContent {
+  return hEl(
+    'svg',
+    {
+      className: ['external-link-icon'],
+      viewBox: '0 0 24 24',
+      width: '12',
+      height: '12',
+      fill: 'none',
+      stroke: 'currentColor',
+      strokeWidth: '2',
+      strokeLinecap: 'round',
+      strokeLinejoin: 'round',
+      ariaHidden: 'true',
+    },
+    [
+      hEl('path', { d: 'M7 17 17 7' }),
+      hEl('path', { d: 'M7 7h10v10' }),
+    ],
+  );
+}
+
+function isExternalHref(href: string): boolean {
+  return /^https?:\/\//i.test(href) || /^\/\//i.test(href);
+}
+
+function isFootnoteBackref(node: Element): boolean {
+  return (
+    'dataFootnoteBackref' in node.properties ||
+    'data-footnote-backref' in node.properties ||
+    classesOf(node).includes('data-footnote-backref') ||
+    classesOf(node).includes('footnote-backref')
+  );
+}
+
+/** 脚注回链 <a>：补 class，并用箭头图标替换 ↩ 文本（保留上标序号等其余子节点） */
+function decorateFootnoteBackref(node: Element): void {
+  const cls = classesOf(node);
+  if (!cls.includes('data-footnote-backref')) {
+    node.properties.className = [...cls, 'data-footnote-backref'];
+  }
+  const subIndexChildren = node.children.filter(
+    (c) => c.type !== 'text' || (c.value !== '↩' && c.value.trim() !== '↩')
+  );
+  node.children = [footnoteBackrefIcon(), ...subIndexChildren];
+}
+
+function isFootnoteRef(node: Element): boolean {
+  return 'dataFootnoteRef' in node.properties || 'data-footnote-ref' in node.properties;
+}
+
+function decorateFootnoteRef(node: Element): void {
+  const cls = classesOf(node);
+  if (!cls.includes('footnote-ref')) {
+    node.properties.className = [...cls, 'footnote-ref'];
+  }
+}
+
+/** 外链 <a>：新窗口打开 + noopener/noreferrer + class，追加箭头图标（纯媒体链接与已有图标跳过） */
+function decorateExternalLink(node: Element): void {
+  const href = String(node.properties.href).trim();
+  if (!isExternalHref(href)) return;
+  node.properties.target = '_blank';
+  node.properties.rel = ['noopener', 'noreferrer'];
+  const cls = classesOf(node);
+  if (!cls.includes('external-link')) {
+    node.properties.className = [...cls, 'external-link'];
+  }
+  const isImageOnly =
+    node.children.length > 0 &&
+    node.children.every(
+      (c) =>
+        (c.type === 'element' && (c.tagName === 'img' || c.tagName === 'video' || c.tagName === 'audio')) ||
+        (c.type === 'text' && !c.value.trim()),
+    );
+  const hasExternalIcon = node.children.some(
+    (c) =>
+      c.type === 'element' &&
+      (c.tagName === 'svg' || c.tagName === 'span') &&
+      classesOf(c).some(
+        (cn) => cn.includes('external-link-icon') || cn.includes('footnote-backref-icon'),
+      ),
+  );
+  if (!isImageOnly && !hasExternalIcon) {
+    node.children.push(externalLinkIcon());
+  }
+}
+
+function isFootnotesSection(node: Element): boolean {
+  return (
+    classesOf(node).includes('footnotes') ||
+    node.properties?.dataFootnotes != null ||
+    ('data-footnotes' in (node.properties || {}))
+  );
+}
+
+/** footnotes <section>：reveal 动画 + 标题/列表/条目 class 归一（单次遍历） */
+function decorateFootnotesSection(node: Element): void {
+  const cls = classesOf(node);
+  if (!cls.includes('reveal')) {
+    node.properties.className = [...cls, 'reveal'];
+  }
+  node.properties.style = '--delay:120ms';
+  for (const child of node.children) {
+    if (child.type !== 'element') continue;
+    if (child.tagName === 'h2' || child.tagName === 'h3' || child.properties?.id === 'footnote-label') {
+      child.properties.className = ['footnotes-title'];
+    }
+    if (child.tagName === 'ol') {
+      child.properties.className = ['footnotes-list'];
+      for (const item of child.children) {
+        if (item.type === 'element' && item.tagName === 'li') {
+          item.properties.className = ['footnote-item'];
+        }
+      }
+    }
+  }
+}
+
+function isTimelineSection(node: Element): boolean {
+  return node.properties?.dataTimeline === 'true' || classesOf(node).includes('timeline');
+}
+
+/** timeline 条目标题：有 URL 用 <a>（外链补图标与新窗口属性），否则 <h3> */
+function timelineItemHeading(url: string | null | undefined, itemTitle: string): ElementContent {
+  if (!url) {
+    return hEl('h3', { className: ['timeline-item-title'] }, itemTitle ? [hTxt(itemTitle)] : []);
+  }
+  const isExt = isExternalHref(url);
+  return hEl(
+    'a',
+    {
+      className: isExt ? ['timeline-item-title', 'external-link'] : ['timeline-item-title'],
+      href: url,
+      ...(isExt ? { target: '_blank', rel: ['noopener', 'noreferrer'] } : {}),
+    },
+    itemTitle
+      ? isExt
+        ? [hTxt(itemTitle), externalLinkIcon()]
+        : [hTxt(itemTitle)]
+      : [],
+  );
+}
+
+/** 单个 timeline 条目：div → li，子内容重排为 range / meta(标题+机构) / body 三段结构 */
+function buildTimelineItem(item: Element, index: number, lang: string | undefined, defaultLang?: string): void {
+  item.tagName = 'li';
+  item.properties.className = ['timeline-item', 'reveal'];
+  item.properties.style = "--delay:" + (index * 90) + "ms";
+  delete item.properties.dataTimelineItem;
+  const start = String(item.properties?.dataStart ?? '');
+  const end = item.properties?.dataEnd == null ? undefined : String(item.properties.dataEnd);
+  const range = hEl('p', { className: ['timeline-range'] }, [hTxt(timelineRangeText(start, end, lang, defaultLang))]);
+  const itemTitle = String(item.properties?.dataTimelineTitle ?? '');
+  const org = String(item.properties?.dataOrg ?? '');
+  const url = safeTimelineUrl(item.properties?.dataUrl == null ? undefined : String(item.properties.dataUrl));
+  const meta = hEl('div', { className: ['timeline-item-meta'] }, [
+    timelineItemHeading(url, itemTitle),
+    ...(org ? [hEl('p', { className: ['timeline-org'] }, [hTxt(org)])] : []),
+  ]);
+  const content = hEl('div', { className: ['timeline-item-body'] }, item.children);
+  item.children = [range, meta, content];
+  delete item.properties?.dataStart;
+  delete item.properties?.dataEnd;
+  delete item.properties?.dataTimelineTitle;
+  delete item.properties?.dataOrg;
+  delete item.properties?.dataUrl;
+}
+
+/** timeline <section>：标题上提为 h2，条目 div 收集重排为 <ol class="timeline-items"> */
+function decorateTimeline(node: Element, lang: string | undefined, defaultLang?: string): void {
+  node.properties.className = ['timeline', 'reveal'];
+  delete node.properties.dataTimeline;
+  const title = String(node.properties?.dataTimelineTitle ?? '');
+  if (title) node.children.unshift(hEl('h2', { className: ['timeline-title'] }, [hTxt(title)]));
+  delete node.properties?.dataTimelineTitle;
+  const items = node.children.filter((child): child is Element =>
+    child.type === 'element' && child.tagName === 'div' && (child.properties?.dataTimelineItem === 'true' || classesOf(child).includes('timeline-item'))
+  );
+  if (items.length === 0) return;
+  for (let i = 0; i < items.length; i++) {
+    buildTimelineItem(items[i], i, lang, defaultLang);
+  }
+  node.children = node.children.filter((child) => !items.includes(child as Element));
+  node.children.push(hEl('ol', { className: ['timeline-items'] }, items));
+}
+
+export function rehypeContentDecorations(lang: string | undefined, defaultLang?: string) {
+  return (tree: HastRoot) => {
+    visit(tree, 'element', (node) => {
+      if (node.tagName === 'a' && node.properties) {
+        if (isFootnoteBackref(node)) decorateFootnoteBackref(node);
+        if (isFootnoteRef(node)) {
+          decorateFootnoteRef(node);
+        } else if (node.properties.href) {
+          decorateExternalLink(node);
+        }
+      }
+      if (node.tagName === 'section' && isFootnotesSection(node)) {
+        decorateFootnotesSection(node);
+      }
+      if (node.tagName === 'aside' && classesOf(node).includes('callout')) {
+        calloutHeader(node);
+        return;
+      }
+      if (node.tagName === 'section' && isTimelineSection(node)) {
+        decorateTimeline(node, lang, defaultLang);
+      }
+    });
+  };
+}
+
+function publicationQueryOf(node: Element): PublicationQuery {
+  const value = (key: string): string | undefined => {
+    const v = node.properties?.[key];
+    return typeof v === 'string' && v ? v : undefined;
+  };
+  const group = value('dataGroup');
+  const sort = value('dataSort');
+  const limit = Number(value('dataLimit'));
+  return {
+    tag: value('dataTag'),
+    type: value('dataType'),
+    year: value('dataYear'),
+    group: group === 'none' || group === 'type' ? group : 'year',
+    sort: sort === 'date-asc' || sort === 'venue' || sort === 'order' ? sort : 'date-desc',
+    limit: Number.isInteger(limit) && limit > 0 ? limit : undefined,
+  };
+}
+export function rehypePublications(ctx: PublicationsConfig, lang?: string, defaultLang?: string, baseUrl?: string) {
+  return (tree: HastRoot) => {
+    visit(tree, 'element', (node: Element, index, parent) => {
+      if (node.properties?.dataPublications !== 'true' || parent == null || index == null) return;
+      const html = renderPublications(
+        ctx.items,
+        { lang, defaultLang, baseUrl, highlightAuthors: ctx.highlight_authors },
+        publicationQueryOf(node),
+      );
+      parent.children[index] = {
+        type: 'raw',
+        value: wrapFragmentForEdit(node, html) ?? html,
+      } as unknown as ElementContent;
+      return [SKIP, index];
+    });
+  };
+}
+
+function hastToText(node: ElementContent): string {
+  if (node.type === 'text') return node.value;
+  if ('children' in node && Array.isArray(node.children)) {
+    return node.children.map(hastToText).join('');
+  }
+  return '';
+}
+
+export function rehypeHeadingSlugs() {
+  return (tree: HastRoot) => {
+    const existing = new Set<string>();
+    let index = 1;
+    visit(tree, 'element', (node: Element) => {
+      if (!['h2', 'h3', 'h4'].includes(node.tagName)) return;
+      if (node.properties?.id) {
+        existing.add(String(node.properties.id));
+        return;
+      }
+      const text = hastToText(node);
+      const slug = generateHeadingSlug(text, existing, index++);
+      node.properties = node.properties || {};
+      node.properties.id = slug;
+    });
+  };
+}
+
+/** 标题锚点：给已有 id 的 h2/h3/h4 末尾追加一个 # 锚点链接（悬停/聚焦显现） */
+export function rehypeHeadingAnchors(lang?: string) {
+  const label = getUiLabels(lang).headings.anchorLabel;
+  return (tree: HastRoot) => {
+    visit(tree, 'element', (node: Element) => {
+      if (!['h2', 'h3', 'h4'].includes(node.tagName)) return;
+      const id = node.properties?.id;
+      if (typeof id !== 'string' || !id) return;
+      // 脚注标题等生成性标题不追加锚点
+      if (classesOf(node).includes('footnotes-title') || id === 'footnote-label') return;
+      // 幂等：编辑模式或重复处理时避免追加第二个锚点
+      if (node.children.some((child) => child.type === 'element' && classesOf(child as Element).includes('heading-anchor'))) {
+        return;
+      }
+      node.children.push(
+        hEl(
+          'a',
+          { className: ['heading-anchor'], href: `#${id}`, ariaLabel: label },
+          [hEl('span', { ariaHidden: 'true' }, [hTxt('#')])],
+        ),
+      );
+    });
+  };
+}
+
+export function rehypeFilterIframes() {
+  return (tree: HastRoot) => {
+    visit(tree, 'element', (node: Element, index, parent) => {
+      if (node.tagName !== 'iframe' || parent == null || index == null) return;
+      const src = String(node.properties?.src ?? '');
+      if (!IFRAME_SRC_ALLOWLIST.some((re) => re.test(src))) {
+        parent.children.splice(index, 1);
+        return [SKIP, index];
+      }
+    });
+  };
+}
+
+export function rehypeLocalizeHrefs(options: NonNullable<MarkdownOptions['localizeHrefs']>) {
+  const slugs = new Set(options.slugs);
+  const base = options.baseUrl ?? '/';
+  return (tree: HastRoot) => {
+    visit(tree, 'element', (node: Element) => {
+      if (node.tagName !== 'a' || typeof node.properties?.href !== 'string') return;
+      const localized = localizeInternalHref(
+        node.properties.href,
+        options.lang,
+        options.defaultLang,
+        slugs
+      );
+      node.properties.href = withBase(localized, base);
+    });
+  };
+}

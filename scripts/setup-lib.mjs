@@ -1,0 +1,350 @@
+/**
+ * setup 向导核心逻辑（docs/specs/15-setup-wizard.md）。
+ * 所有函数路径注入、不读 process.*，纯 Node + js-yaml，可被 vitest 直接 import。
+ */
+import { cpSync, existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
+import path from 'node:path';
+import { load as loadYaml, dump as dumpYaml } from 'js-yaml';
+
+/** 站点支持的语言（pages/<lang>/ 目录名） */
+export const KNOWN_LANGS = ['zh', 'en', 'ja', 'fr'];
+
+// 场景化预设的单一数据源在 scripts/scene-presets.mjs（admin 新手向导共用，见 spec 22 §3）；
+// 此处原样 re-export，保持 setup-lib 对外 API 不变
+export { LANG_PRESETS, SCENE_PRESETS, SCENE_PRESET_KEYS, resolveScenePreset, langPresetKeyFor } from './scene-presets.mjs';
+
+/** 语言目录名 → site.language 取值 */
+export const LANG_TO_SITE_LANGUAGE = { zh: 'zh-CN', en: 'en', ja: 'ja', fr: 'fr' };
+
+/** github.username 为 site.yaml 必填字段，用户留空时的占位值 */
+export const GITHUB_USERNAME_PLACEHOLDER = 'octocat';
+
+/** 可勾选的功能模块 */
+export const MODULE_KEYS = ['publications', 'github', 'rss', 'bgm', 'contact'];
+
+/** GitHub API 预填的超时时间（AbortController） */
+export const GITHUB_API_TIMEOUT_MS = 5000;
+
+/**
+ * fetch 替身签名：宽松结构（参数/返回值均为 any），测试可注入部分实现的假 Response。
+ * @typedef {(url: string, init?: any) => Promise<any>} FetchLike
+ */
+
+/**
+ * 拉取 GitHub 公开资料用于快速向导预填（纯逻辑，fetch 可注入替身）。
+ * 请求 https://api.github.com/users/<username>，带 User-Agent 头与 5 秒超时。
+ * 任何失败（网络错误 / 非 200 / 超时 / JSON 异常 / 无 fetch）均静默返回 null，绝不抛出。
+ * 成功返回 { name, bio, blog, avatarUrl }（缺失字段为空字符串）。
+ * @param {string} username
+ * @param {{ fetchImpl?: FetchLike | null, timeoutMs?: number }} [options]
+ */
+export async function fetchGithubProfile(username, { fetchImpl = globalThis.fetch, timeoutMs = GITHUB_API_TIMEOUT_MS } = {}) {
+  const user = username?.trim();
+  if (!user || typeof fetchImpl !== 'function') return null;
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const res = await fetchImpl(`https://api.github.com/users/${encodeURIComponent(user)}`, {
+      headers: { 'User-Agent': 'openhomepage-v2-setup', Accept: 'application/vnd.github+json' },
+      signal: controller.signal,
+    });
+    if (!res?.ok) return null;
+    const data = await res.json();
+    return {
+      name: typeof data?.name === 'string' ? data.name.trim() : '',
+      bio: typeof data?.bio === 'string' ? data.bio.trim() : '',
+      blog: typeof data?.blog === 'string' ? data.blog.trim() : '',
+      avatarUrl: typeof data?.avatar_url === 'string' ? data.avatar_url.trim() : '',
+    };
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+/** 头像下载的体积 sanity 上限（超过即放弃） */
+export const GITHUB_AVATAR_MAX_BYTES = 10 * 1024 * 1024;
+
+/** 按 magic bytes 嗅探图片格式：PNG → 'png'，JPEG → 'jpg'，其余返回 null */
+function sniffImageExt(buf) {
+  if (buf.length >= 4 && buf[0] === 0x89 && buf[1] === 0x50 && buf[2] === 0x4e && buf[3] === 0x47) return 'png';
+  if (buf.length >= 2 && buf[0] === 0xff && buf[1] === 0xd8) return 'jpg';
+  return null;
+}
+
+/**
+ * 下载 GitHub 头像（纯逻辑，fetch 可注入替身）。
+ * GET avatar_url，带 User-Agent 头与 5 秒超时；Content-Length 或实际体积超过
+ * GITHUB_AVATAR_MAX_BYTES 即放弃。按 magic bytes 嗅探扩展名（png/jpg）。
+ * 任何失败（网络错误 / 非 200 / 超时 / 超限 / 无法识别的格式）均静默返回 null，绝不抛出。
+ * 成功返回 { buffer: Buffer, ext: 'png' | 'jpg' }。
+ * @param {string} avatarUrl
+ * @param {{ fetchImpl?: FetchLike | null, timeoutMs?: number }} [options]
+ */
+export async function downloadGithubAvatar(avatarUrl, { fetchImpl = globalThis.fetch, timeoutMs = GITHUB_API_TIMEOUT_MS } = {}) {
+  const url = avatarUrl?.trim();
+  if (!url || typeof fetchImpl !== 'function') return null;
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const res = await fetchImpl(url, {
+      headers: { 'User-Agent': 'openhomepage-v2-setup' },
+      signal: controller.signal,
+    });
+    if (!res?.ok) return null;
+    const contentLength = Number(res.headers?.get?.('content-length') ?? 0);
+    if (contentLength > GITHUB_AVATAR_MAX_BYTES) return null;
+    const buffer = Buffer.from(await res.arrayBuffer());
+    if (buffer.length === 0 || buffer.length > GITHUB_AVATAR_MAX_BYTES) return null;
+    const ext = sniffImageExt(buffer);
+    if (!ext) return null;
+    return { buffer, ext };
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+/**
+ * 解析命令行参数（纯函数）。
+ * --example 完整示例；--blank 纯净空白；--yes 非交互默认（完整示例）。
+ */
+export function parseCliArgs(argv) {
+  return {
+    example: argv.includes('--example'),
+    blank: argv.includes('--blank'),
+    yes: argv.includes('--yes'),
+  };
+}
+
+/** 非交互判定（纯函数）：管道/重定向、CI、或显式参数 */
+export function isNonInteractive({ isTTY, env, args }) {
+  if (args.example || args.blank || args.yes) return true;
+  if (!isTTY) return true;
+  if (String(env.CI ?? '').toLowerCase() === 'true') return true;
+  return false;
+}
+
+/** 判断对象是否为「多语言映射」：plain object 且所有 key 均为已知语言码 */
+function isLangMap(obj) {
+  if (obj === null || typeof obj !== 'object' || Array.isArray(obj)) return false;
+  const keys = Object.keys(obj);
+  return keys.length > 0 && keys.every((k) => KNOWN_LANGS.includes(k));
+}
+
+/**
+ * 递归裁剪多语言映射：只保留选中语言的 key。
+ * 裁剪后为空（如选了 en 但该映射只有 ja/fr）时保留首个可用语言兜底，避免空字符串。
+ * 返回新对象，不改入参。
+ */
+export function trimLangMaps(node, langs) {
+  if (Array.isArray(node)) return node.map((item) => trimLangMaps(item, langs));
+  if (node === null || typeof node !== 'object') return node;
+  if (isLangMap(node)) {
+    const kept = Object.fromEntries(Object.entries(node).filter(([k]) => langs.includes(k)));
+    if (Object.keys(kept).length > 0) return kept;
+    const fallback = KNOWN_LANGS.find((k) => k in node);
+    return fallback ? { [fallback]: node[fallback] } : {};
+  }
+  return Object.fromEntries(Object.entries(node).map(([k, v]) => [k, trimLangMaps(v, langs)]));
+}
+
+/**
+ * 按向导选项变换 site.yaml 配置对象（纯函数）。
+ * options: { nameZh, nameEn, taglineZh, taglineEn, githubUser, website, avatar, langs, modules }
+ * modules: { publications, github, rss, bgm, contact }（布尔，true=保留）
+ * avatar: 相对 data/ 根的头像路径（如 assets/avatar.png），非空时覆盖 profile.avatar
+ */
+export function transformSiteConfig(cfg, options) {
+  const { langs, modules } = options;
+  const out = trimLangMaps(cfg, langs);
+
+  // 个性化写入（仅写选中语言里存在的 key，避免造出被裁掉的语言）
+  if (options.nameZh && langs.includes('zh')) {
+    out.site.title.zh = options.nameZh;
+    out.profile.name.zh = options.nameZh;
+  }
+  if (options.nameEn && langs.includes('en')) {
+    out.site.title.en = options.nameEn;
+    out.profile.name.en = options.nameEn;
+  }
+  if (options.taglineZh && langs.includes('zh') && out.profile.tagline) {
+    out.profile.tagline.zh = options.taglineZh;
+  }
+  if (options.taglineEn && langs.includes('en') && out.profile.tagline) {
+    out.profile.tagline.en = options.taglineEn;
+  }
+  // 个人网站（GitHub 预填 blog 或手填）：去重后置入 profile.links 首位
+  if (options.website && Array.isArray(out.profile?.links)) {
+    const url = options.website.trim();
+    if (url && !out.profile.links.some((link) => link?.url === url)) {
+      out.profile.links.unshift({ label: 'Website', url });
+    }
+  }
+  // 头像（GitHub 预填下载）：非空路径覆盖 profile.avatar；缺省保留示例默认
+  if (typeof options.avatar === 'string' && options.avatar.trim()) {
+    out.profile.avatar = options.avatar.trim();
+  }
+
+  out.site.language = LANG_TO_SITE_LANGUAGE[langs[0]] ?? langs[0];
+  out.github.username = options.githubUser?.trim() || GITHUB_USERNAME_PLACEHOLDER;
+
+  // 模块裁剪（github 段因 validateSiteConfig 必填 username，只收缩不删除）
+  if (!modules.github) out.github = { username: out.github.username };
+  if (!modules.rss) delete out.rss;
+  if (!modules.bgm) delete out.bgm;
+  if (!modules.contact) delete out.contact;
+
+  // home.layout 移除被关闭模块的区块
+  if (Array.isArray(out.home?.layout)) {
+    const removed = new Set();
+    if (!modules.github) removed.add('github');
+    if (!modules.rss) removed.add('rss');
+    if (removed.size > 0) {
+      out.home.layout = out.home.layout.filter((item) => !removed.has(item?.block));
+    }
+  }
+  return out;
+}
+
+/**
+ * 从 Markdown 文本剥离指定叶子指令行（如 :::ghcard{...} / ::publications{...}）。
+ * 只匹配独立成行的叶子指令，不动容器围栏。
+ */
+export function stripModuleDirectives(markdown, names) {
+  const re = new RegExp(`^\\s*:{2,4}(?:${names.join('|')})(?:\\{[^\\n]*\\})?\\s*$`);
+  return markdown
+    .split('\n')
+    .filter((line) => !re.test(line))
+    .join('\n');
+}
+
+/** 完整示例模式：等同旧行为的逐字节全量复制 */
+export function copyExampleData(exampleDir, destDir) {
+  cpSync(exampleDir, destDir, { recursive: true });
+}
+
+/** 删除目录（存在才删） */
+function rmIfExists(target) {
+  if (existsSync(target)) rmSync(target, { recursive: true, force: true });
+}
+
+/**
+ * 快速向导模式：以 data.example 为基底生成裁剪后的个性化 data/。
+ * options 同 transformSiteConfig，另支持 avatarFile: { buffer, ext }（GitHub 头像下载结果）——
+ * 存在时写入 assets/avatar.<ext> 并把 site.yaml 的 profile.avatar 指向它；缺省保留示例默认头像。
+ */
+export function generateQuickData(options, { exampleDir, destDir }) {
+  copyExampleData(exampleDir, destDir);
+  const { langs, modules } = options;
+
+  // GitHub 头像落盘（下载结果由 CLI 层注入；失败/拒绝时本字段为空，静默保留示例默认）
+  let avatar = '';
+  if (options.avatarFile?.buffer?.length && options.avatarFile?.ext) {
+    mkdirSync(path.join(destDir, 'assets'), { recursive: true });
+    const file = `avatar.${options.avatarFile.ext}`;
+    writeFileSync(path.join(destDir, 'assets', file), options.avatarFile.buffer);
+    avatar = `assets/${file}`;
+  }
+
+  // 语言裁剪：pages/ 与 streaming/ 的语言子目录
+  for (const top of ['pages', 'streaming']) {
+    const topDir = path.join(destDir, top);
+    if (!existsSync(topDir)) continue;
+    for (const lang of readdirSync(topDir)) {
+      if (!langs.includes(lang)) rmIfExists(path.join(topDir, lang));
+    }
+  }
+
+  // 模块裁剪：文件与页面指令
+  if (!modules.publications) {
+    rmIfExists(path.join(destDir, 'publications.yaml'));
+    rmIfExists(path.join(destDir, 'publications.bib'));
+  }
+  if (!modules.rss) rmIfExists(path.join(destDir, 'rss.yaml'));
+  const strippedNames = [
+    ...(modules.publications ? [] : ['publications']),
+    ...(modules.github ? [] : ['ghcard']),
+  ];
+  if (strippedNames.length > 0) {
+    for (const lang of langs) {
+      const langDir = path.join(destDir, 'pages', lang);
+      if (!existsSync(langDir)) continue;
+      for (const file of readdirSync(langDir)) {
+        if (!file.endsWith('.md')) continue;
+        const filePath = path.join(langDir, file);
+        writeFileSync(filePath, stripModuleDirectives(readFileSync(filePath, 'utf8'), strippedNames));
+      }
+    }
+  }
+
+  // site.yaml 变换重写（注释不保留，见 spec 15 §6）
+  const sitePath = path.join(destDir, 'site.yaml');
+  const cfg = loadYaml(readFileSync(sitePath, 'utf8'));
+  writeFileSync(sitePath, dumpYaml(transformSiteConfig(cfg, { ...options, avatar }), { lineWidth: 120, noRefs: true }));
+}
+
+/**
+ * 纯净空白模式：最小骨架（不依赖 data.example）。
+ * lang 缺省 zh；site.yaml 只含校验必填字段，github.username 用占位符。
+ * @param {string} destDir
+ * @param {{ lang?: string, name?: string, githubUser?: string }} [options]
+ */
+export function generateBlankData(destDir, { lang = 'zh', name, githubUser } = {}) {
+  const displayName = name?.trim() || (lang === 'zh' ? '我的主页' : 'My Homepage');
+  const siteYaml = dumpYaml(
+    {
+      site: {
+        title: { [lang]: displayName },
+        language: LANG_TO_SITE_LANGUAGE[lang] ?? lang,
+      },
+      profile: {
+        name: { [lang]: displayName },
+      },
+      github: { username: githubUser?.trim() || GITHUB_USERNAME_PLACEHOLDER },
+    },
+    { lineWidth: 120 },
+  );
+  const indexMd = `---\ntitle: "${displayName}"\nnav: true\norder: 0\n---\n\n${
+    lang === 'zh' ? '欢迎使用 OpenHomepage-V2，编辑此页开始你的主页。' : 'Welcome to OpenHomepage-V2 — edit this page to start your homepage.'
+  }\n`;
+  mkdirSync(path.join(destDir, 'pages', lang), { recursive: true });
+  writeFileSync(path.join(destDir, 'site.yaml'), siteYaml);
+  writeFileSync(path.join(destDir, 'pages', lang, 'index.md'), indexMd);
+}
+
+/**
+ * 编排入口：跳过判断 → 参数/非交互分流 → 交互时调用注入的 ask。
+ * ask 仅在交互且无参数时调用，签名 ask() → Promise<{ mode: 'quick'|'example'|'blank', options? }>。
+ * 返回 { mode: 'skipped' | 'example' | 'blank' | 'quick' }。
+ * @param {{ rootDir: string, argv?: string[], env?: Record<string, string | undefined>, isTTY?: boolean, ask?: () => Promise<{ mode: 'quick' | 'example' | 'blank', options?: any }> }} [options]
+ */
+export async function runSetup({ rootDir, argv = [], env = {}, isTTY = false, ask } = {}) {
+  const exampleDir = path.join(rootDir, 'data.example');
+  const destDir = path.join(rootDir, 'data');
+
+  if (existsSync(destDir)) return { mode: 'skipped' };
+
+  const args = parseCliArgs(argv);
+  if (isNonInteractive({ isTTY, env, args })) {
+    if (args.blank) {
+      generateBlankData(destDir);
+      return { mode: 'blank' };
+    }
+    // 非交互默认（无参数 / --yes / --example）回退旧行为：复制完整示例
+    copyExampleData(exampleDir, destDir);
+    return { mode: 'example' };
+  }
+
+  const choice = await ask();
+  if (choice.mode === 'blank') {
+    generateBlankData(destDir, { lang: choice.options?.lang, name: choice.options?.nameZh || choice.options?.nameEn, githubUser: choice.options?.githubUser });
+  } else if (choice.mode === 'quick') {
+    generateQuickData(choice.options, { exampleDir, destDir });
+  } else {
+    copyExampleData(exampleDir, destDir);
+  }
+  return { mode: choice.mode };
+}

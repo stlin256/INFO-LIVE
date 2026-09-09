@@ -1,0 +1,547 @@
+---
+/**
+ * 站点外壳：<head>（meta / 字体 / KaTeX / hreflang / 主题初始化脚本）、
+ * 桌面左上竖排 tab 导航 + 移动端汉堡抽屉、语言切换器、主题切换按钮。
+ * 所有数据经 props 传入（路由层在 getStaticPaths 算好），本组件不含配置读取逻辑。
+ *
+ * 决策：KaTeX CSS 全站加载（katex.min.css，字体按需下载），避免逐页检测公式的复杂度。
+ * 页脚：site.yaml footer 段（默认开启，显式 false 关闭；内联链接见 src/lib/footer.ts）。
+ */
+import '@fontsource-variable/jetbrains-mono';
+import '@fontsource-variable/newsreader';
+import '@fontsource-variable/newsreader/opsz-italic.css';
+import 'katex/dist/katex.min.css';
+import '../styles/fonts.css';
+import '../styles/global.css';
+import '../styles/editorial.css';
+import '../styles/markdown-body.css';
+import '../styles/home-blocks.css';
+import '../styles/overlays.css';
+import '../styles/footnotes.css';
+import type { AccentTheme } from '../lib/theme.ts';
+import type { BackgroundTheme } from '../lib/theme.ts';
+import type { ResolvedIntroCard } from '../lib/config.ts';
+import type { ResolvedBgmPlaylist } from '../lib/bgm-playlist.ts';
+import ContactCard from '../components/ContactCard.astro';
+import type { NavItem } from '../lib/routes.ts';
+import { withBase, getBaseUrl } from '../lib/base-url.ts';
+import { editCfgAttr } from '../lib/edit-cfg.ts';
+import { languageDisplayName, orderLangMenu } from '../lib/language.ts';
+import { speculationRulesFor } from '../lib/speculation-rules.ts';
+import { getSearchI18n } from '../lib/search.ts';
+import { getUiLabels } from '../lib/ui-i18n.ts';
+
+interface Props {
+  /** 页面标题（<title> 为 `${title} · ${siteTitle}`） */
+  title: string;
+  siteTitle: string;
+  description?: string;
+  /** 实际内容语言（回退时为内容语言，非 URL 语言） */
+  htmlLang: string;
+  /** 当前 URL 语言（语言切换器高亮用） */
+  lang: string;
+  defaultLang: string;
+  accent: AccentTheme;
+  background: BackgroundTheme;
+  defaultMode: 'system' | 'light' | 'dark';
+  nav: NavItem[];
+  currentPath: string;
+  i18n: boolean;
+  alternates: { lang: string; path: string }[];
+  /** 站点全部语言（页面目录扫描；data-site-langs 供客户端语言偏好校验） */
+  langs: string[];
+  /** 背景音乐多曲目播放列表（P1） */
+  bgmPlaylist?: ResolvedBgmPlaylist | null;
+  /** 背景音乐（向后兼容） */
+  bgm?: { src: string; volume: number; autoplay: boolean };
+  /** favicon URL（路由层已决定：配置的文件存在时为 /assets/...，否则内置默认 /favicon.svg） */
+  favicon: string;
+  /** 页脚 HTML（路由层 resolveFooter + footerTextToHtml 渲染；null = 关闭） */
+  footer?: string | null;
+  introCard?: ResolvedIntroCard | null;
+  /** 原创内容 Feed 链接（P0） */
+  feedLinks?: { type: 'rss' | 'atom' | 'json'; href: string }[];
+  /** 社交分享卡片元数据（P1） */
+  ogMeta?: { title: string; description?: string; imageUrl?: string };
+  /** 是否启用顶部细线阅读进度指示（P1） */
+  readingProgress?: boolean;
+  /** 可视化编辑（M12b）：当前页正文的 data/ 相对路径，注入 bootstrap 供 overlay 定位插入目标（空页面无块坐标时必需） */
+  editPageSource?: string;
+  /** 结构化数据 JSON-LD（spec 24） */
+  jsonLd?: string | null;
+}
+
+const {
+  title,
+  siteTitle,
+  description,
+  htmlLang,
+  lang,
+  defaultLang,
+  accent,
+  background,
+  defaultMode,
+  nav,
+  currentPath,
+  i18n,
+  alternates,
+  langs,
+  bgmPlaylist,
+  bgm,
+  favicon,
+  footer,
+  introCard,
+  feedLinks,
+  ogMeta,
+  readingProgress,
+  editPageSource,
+  jsonLd,
+} = Astro.props;
+
+const baseUrl = getBaseUrl();
+// 语言切换器显示名：Intl.DisplayNames 自称名（覆盖任意语言，见 src/lib/language.ts）
+const langLabel = languageDisplayName;
+// 可视化编辑（M12a）：仅 admin 拉起的 dev server（OH_EDIT=1 且注入 OH_ADMIN_ORIGIN）
+// 输出编辑 bootstrap；生产构建/外部 dev server 无此环境变量，整段不输出、零开销
+const editAdminOrigin = process.env.OH_EDIT === '1' ? (process.env.OH_ADMIN_ORIGIN ?? '') : '';
+const xDefault = alternates.find((a) => a.lang === defaultLang) ?? alternates[0];
+// 语言菜单：当前语言置顶，其余保持站点语言顺序（仅菜单显示顺序，hreflang 不受影响）
+const menuAlternates = orderLangMenu(alternates, lang);
+const searchI18n = getSearchI18n(lang);
+const ui = getUiLabels(lang);
+// Chromium 预热 HTML 缓存；Firefox/Safari 会忽略该 type，不产生兼容分支。
+const speculationRules =
+  import.meta.env.PROD && !editAdminOrigin
+    ? speculationRulesFor(`${baseUrl.replace(/\/+$/, '')}/*`)
+    : null;
+/** 构建期注入的 accent 变量（global.css 中 --accent 引用这四个值） */
+const themeVars = `--accent-light:${accent.light.accent};--accent-light-contrast:${accent.light.contrast};--accent-dark:${accent.dark.accent};--accent-dark-contrast:${accent.dark.contrast};--site-bg-light:${background.light};--site-bg-dark:${background.dark};`;
+const FAVICON_MIME: Record<string, string> = {
+  '.svg': 'image/svg+xml',
+  '.png': 'image/png',
+  '.ico': 'image/x-icon',
+};
+const faviconType = FAVICON_MIME[favicon.slice(favicon.lastIndexOf('.')).toLowerCase()];
+const homeHref = withBase(nav.find((item) => item.slug === '/')?.path ?? '/');
+
+// BGM 归一化：bgmPlaylist 优先，其次 bgm 兜底
+const activePlaylist: ResolvedBgmPlaylist | null = bgmPlaylist ?? (bgm ? {
+  tracks: [{ title: 'BGM', artist: '', src: bgm.src }],
+  volume: bgm.volume,
+  autoplay: bgm.autoplay,
+  resume: 'state',
+  showPanel: false,
+} : null);
+---
+
+<html
+  lang={htmlLang}
+  data-route-lang={lang}
+  data-theme="light"
+  data-default-mode={defaultMode}
+  data-default-lang={defaultLang}
+  data-site-langs={langs.join(',')}
+  data-pagefind-lang={htmlLang}
+  data-base={baseUrl}
+  style={themeVars}
+>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{`${title} · ${siteTitle}`}</title>
+    <link rel="icon" href={withBase(favicon)} type={faviconType} />
+    {description && <meta name="description" content={description} />}
+    {speculationRules && <script type="speculationrules" set:html={speculationRules} />}
+
+    <!-- P1 OG & Twitter 卡片 -->
+    <meta property="og:type" content={currentPath === '/' ? 'website' : 'article'} />
+    <meta property="og:title" content={ogMeta?.title ?? `${title} · ${siteTitle}`} />
+    {ogMeta?.description && <meta property="og:description" content={ogMeta.description} />}
+    <meta property="og:url" content={new URL(withBase(currentPath), Astro.site)} />
+    {ogMeta?.imageUrl && (
+      <>
+        <meta property="og:image" content={new URL(ogMeta.imageUrl, Astro.site)} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={ogMeta.title} />
+        {ogMeta.description && <meta name="twitter:description" content={ogMeta.description} />}
+        <meta name="twitter:image" content={new URL(ogMeta.imageUrl, Astro.site)} />
+      </>
+    )}
+
+    <!-- P0 原创内容 Feed alternate -->
+    {feedLinks?.map((f) => (
+      <link
+        rel="alternate"
+        type={f.type === 'rss' ? 'application/rss+xml' : f.type === 'atom' ? 'application/atom+xml' : 'application/feed+json'}
+        title={`${siteTitle} (${f.type.toUpperCase()})`}
+        href={new URL(f.href, Astro.site)}
+      />
+    ))}
+
+    {jsonLd && <script type="application/ld+json" is:inline set:html={jsonLd} />}
+
+    <script is:inline define:vars={{ defaultMode }}>
+      // 首帧绘制前确定主题，避免闪烁：sessionStorage 用户选择 > site.yaml default_mode > 跟随系统。
+      // 与 src/scripts/theme.ts 的 currentTheme 同一套规则（is:inline 无法 import，此处内联镜像）。
+      // html.js 标记：滚动显现等动效的初始隐藏态只在有 JS 时生效（无 JS 不隐藏内容）
+      (function () {
+        document.documentElement.classList.add('js');
+        let saved = null;
+        try {
+          saved = sessionStorage.getItem('theme');
+        } catch { /* 存储不可用时按未设置处理 */ }
+        const theme =
+          saved === 'light' || saved === 'dark'
+            ? saved
+            : defaultMode === 'light' || defaultMode === 'dark'
+              ? defaultMode
+              : window.matchMedia('(prefers-color-scheme: dark)').matches
+                ? 'dark'
+                : 'light';
+        document.documentElement.dataset.theme = theme;
+      })();
+    </script>
+    {i18n && (
+      <script is:inline define:vars={{ defaultLang, baseUrl }}>
+        // 语言偏好在首帧绘制前解析：已保存选择 > 浏览器语言。URL 语言不一致时直接
+        // replace 到目标路由，避免先渲染默认语言再被模块脚本换内容造成闪动。
+        // normalize 与 src/lib/language.ts normalizeSiteLanguage 同一套规则（is:inline 无法 import，此处内联镜像）：
+        // 归一化主语言子标签 + 对照 data-site-langs 校验是本站语言（支持任意语言目录，不写死语言列表）。
+        (function () {
+          const siteLangs = (document.documentElement.dataset.siteLangs || '').split(',').filter(Boolean);
+          const normalize = function (value) {
+            const lang = (value || '').toLowerCase().split(/[-_]/)[0];
+            if (!/^[a-z]{2,3}$/.test(lang)) return null;
+            return siteLangs.length === 0 || siteLangs.indexOf(lang) !== -1 ? lang : null;
+          };
+          let preferred = null;
+          try {
+            preferred = normalize(localStorage.getItem('oh-language'));
+          } catch { /* 存储不可用时按未设置处理 */ }
+          if (!preferred) preferred = normalize(navigator.language);
+          const current = document.documentElement.dataset.routeLang
+            ? normalize(document.documentElement.dataset.routeLang)
+            : null;
+          if (!preferred || !current || preferred === current) return;
+
+          const cleanBase = (baseUrl || '/').replace(/\/+$/, '');
+          const fullPath = location.pathname || '/';
+          let unbased = fullPath;
+          if (cleanBase && (fullPath === cleanBase || fullPath.indexOf(cleanBase + '/') === 0)) {
+            unbased = fullPath.slice(cleanBase.length) || '/';
+          }
+          let rest = unbased;
+          const prefix = '/' + current;
+          if (rest === prefix || rest.indexOf(prefix + '/') === 0) {
+            rest = rest.slice(prefix.length) || '/';
+          }
+          const targetPath = preferred === defaultLang
+            ? (rest || '/')
+            : (rest === '/' ? '/' + preferred + '/' : '/' + preferred + rest);
+          const newPath = (cleanBase ? cleanBase : '') + (targetPath.charAt(0) === '/' ? targetPath : '/' + targetPath);
+          location.replace(newPath + location.search + location.hash);
+        })();
+      </script>
+    )}
+    {alternates.map((a) => <link rel="alternate" hreflang={a.lang} href={new URL(withBase(a.path), Astro.site)} />)}
+    {i18n && xDefault && <link rel="alternate" hreflang="x-default" href={new URL(withBase(xDefault.path), Astro.site)} />}
+  </head>
+  <body>
+    {readingProgress && <div class="reading-progress" style="transform: scaleX(0)" aria-hidden="true" />}
+    <header class="site-header">
+      <button class="nav-toggle" type="button" aria-label={ui.header.navToggle} aria-expanded="false" aria-controls="site-nav">
+        <span class="bar" aria-hidden="true"></span>
+        <span class="bar" aria-hidden="true"></span>
+        <span class="bar" aria-hidden="true"></span>
+      </button>
+      <nav class="site-nav" id="site-nav" aria-label={ui.header.siteNav}>
+        {/* 可视化编辑（M12d）：站点标题挂 data-oh-cfg 坐标（site.title@内容语言，仅 OH_EDIT 注入） */}
+        <p class="site-title" {...editCfgAttr('site.title', htmlLang)}><a href={homeHref}>{siteTitle}</a></p>
+        <ul>
+          {nav.map((item) => (
+            <li>
+              <a
+                href={withBase(item.path)}
+                class:list={[{ active: item.path === currentPath }]}
+                aria-current={item.path === currentPath ? 'page' : undefined}
+                title={item.title}
+              >
+                {item.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+      <div class="header-tools">
+        <!-- P1 静态全局搜索快捷按钮 -->
+        <button class="search-toggle icon-btn" type="button" aria-label={ui.header.search} aria-keyshortcuts="Control+K Meta+K" data-pagefind-ignore>
+          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </button>
+        {activePlaylist && (
+          <div class="bgm-switcher">
+                      <button class="bgm-toggle icon-btn" type="button" aria-pressed="false" aria-expanded="false" aria-label={ui.header.bgmToggle} aria-haspopup={activePlaylist.showPanel ? 'dialog' : undefined}>
+            <svg class="icon icon-play" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M11 5 6 9H2v6h4l5 4V5z" />
+            </svg>
+            <svg class="icon icon-pause" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M11 5 6 9H2v6h4l5 4V5z" />
+              <path d="M15.5 8.5a5 5 0 0 1 0 7" />
+              <path d="M18.5 5.5a9.5 9.5 0 0 1 0 13" />
+            </svg>
+          </button>
+            {activePlaylist.showPanel && (
+          <div class="bgm-drawer" role="dialog" aria-label="BGM Playlist" data-pagefind-ignore>
+            <div class="bgm-drawer-header">
+              <p class="bgm-drawer-title">{ui.bgm.drawerTitle}</p>
+            </div>
+            <div class="bgm-current-info">
+              {activePlaylist.tracks[0]?.cover ? (
+                <img class="bgm-current-cover" src={withBase(activePlaylist.tracks[0].cover)} alt="" width="48" height="48" loading="lazy" />
+              ) : (
+                <span class="bgm-current-cover bgm-cover-placeholder" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M12 3v10.55A4 4 0 1 0 14 17V7h4V3h-6z"/></svg>
+                </span>
+              )}
+              <div class="bgm-current-text">
+                <p class="bgm-current-title">{activePlaylist.tracks[0]?.title ?? ui.bgm.trackFallback}</p>
+                <p class="bgm-current-artist">{activePlaylist.tracks[0]?.artist || siteTitle}</p>
+              </div>
+            </div>
+            <div class="bgm-drawer-controls">
+              <button class="bgm-ctrl-btn bgm-prev-btn" type="button" aria-label={ui.bgm.prev}>
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg>
+              </button>
+              <button class="bgm-ctrl-btn play-btn bgm-play-btn" type="button" aria-label={ui.bgm.playPause}>
+                <svg class="icon-play" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+                <svg class="icon-pause" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true" style="display:none;"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+              </button>
+              <button class="bgm-ctrl-btn bgm-next-btn" type="button" aria-label={ui.bgm.next}>
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="m6 18 8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>
+              </button>
+            </div>
+            <div class="bgm-volume-bar">
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true" style="color:var(--text-muted);"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg>
+              <input type="range" class="bgm-volume-slider" min="0" max="1" step="0.05" value={activePlaylist.volume} aria-label={ui.bgm.volume} />
+            </div>
+            <ul class="bgm-tracklist">
+              {activePlaylist.tracks.map((t, idx) => (
+                <li class:list={['bgm-track-item', { active: idx === 0 }]} data-track-index={idx}>
+                  <span class="bgm-track-name">{t.title}</span>
+                  {t.artist && <span class="bgm-track-by" style="font-size:0.72rem; color:var(--text-muted);">{t.artist}</span>}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+            <div class="bgm-backdrop" data-pagefind-ignore></div>
+          </div>
+        )}
+        {i18n && alternates.length > 1 && (
+          <div class="lang-switcher">
+            <button class="lang-toggle icon-btn" type="button" aria-haspopup="menu" aria-expanded="false" aria-label={ui.header.langSwitch}>
+              {/* Material translate 图标（fill，与主题按钮同款小方块风格） */}
+              <svg class="icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                <path d="M12.87 15.07l-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z" />
+              </svg>
+            </button>
+            <ul class="lang-menu" role="menu">
+              {menuAlternates.map((a) => (
+                <li role="none">
+                  <a
+                    href={withBase(a.path)}
+                    hreflang={a.lang}
+                    role="menuitem"
+                    class:list={[{ active: a.lang === lang }]}
+                    aria-current={a.lang === lang ? 'true' : undefined}
+                  >
+                    {langLabel(a.lang)}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        <button class="theme-toggle icon-btn" type="button" aria-label={ui.header.themeToggle}>
+          <svg class="icon icon-light" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4" />
+            <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4" />
+          </svg>
+          <svg class="icon icon-dark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z" />
+          </svg>
+        </button>
+      </div>
+    </header>
+    <main class="site-main" data-pagefind-body>
+      <slot />
+    </main>
+    {/* 页脚（默认开启，site.yaml footer.enabled:false 关闭；文本支持内联链接，见 src/lib/footer.ts）。
+        M12d：data-oh-cfg 坐标挂在包裹元素上（footer 内部是经 footerTextToHtml 渲染的链接 HTML，
+        就地改字编辑的是 yaml 原文而非渲染后的 textContent） */}
+    {footer && <footer class="site-footer" {...editCfgAttr('footer.text', htmlLang)} set:html={footer} />}
+
+    {/* 背景音乐与播放列表抽屉 */}
+    {activePlaylist && (
+      <>
+        <audio
+          class="bgm-audio"
+          src={withBase(activePlaylist.tracks[0]?.src ?? '')}
+          loop={activePlaylist.tracks.length === 1}
+          preload="none"
+          data-volume={activePlaylist.volume}
+          data-autoplay={activePlaylist.autoplay ? 'true' : 'false'}
+          data-resume={activePlaylist.resume}
+          data-artist-fallback={siteTitle}
+          data-tracks={JSON.stringify(activePlaylist.tracks.map((t) => ({ ...t, src: withBase(t.src), cover: t.cover ? withBase(t.cover) : undefined })))}
+        />
+      </>
+    )}
+
+    <!-- P1 搜索模态框 -->
+    <dialog class="search-dialog" aria-label={ui.header.search} data-pagefind-ignore hidden>
+      <div class="search-panel">
+        <form class="search-form" role="search" onsubmit="return false;">
+          <span class="search-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+          </span>
+          <div class="search-input-wrapper">
+            <input type="search" class="search-input" placeholder={searchI18n.placeholder} autocomplete="off" spellcheck="false" aria-label={searchI18n.placeholder} />
+            <button type="button" class="search-clear-btn" aria-label={searchI18n.clearLabel} hidden>
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
+            </button>
+          </div>
+          <button type="button" class="search-scope-toggle" data-scope="current" aria-pressed="false" title={searchI18n.scopeToggleLabel} aria-label={searchI18n.scopeToggleLabel}>{searchI18n.scopeCurrent}</button>
+          <button type="button" class="search-close" aria-label={searchI18n.closeLabel}>
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        </form>
+        <p class="search-status" role="status">{searchI18n.statusInitial}</p>
+        <ul class="search-results" role="listbox"></ul>
+        <div class="search-footer">
+          <span><kbd>↑</kbd> <kbd>↓</kbd> <span class="search-hint-nav">{searchI18n.navHint}</span></span>
+          <span><kbd>Enter</kbd> <span class="search-hint-select">{searchI18n.selectHint}</span></span>
+          <span><kbd>Esc</kbd> <span class="search-hint-close">{searchI18n.closeHint}</span></span>
+        </div>
+      </div>
+    </dialog>
+
+    {/* 图片灯箱骨架（spec 03 §5）：交互在 src/scripts/lightbox.ts，开/关动画在 home-blocks.css */}
+    {introCard && <ContactCard card={introCard} lang={lang} />}
+    {/* 富媒体脚注：桌面浮窗与移动端抽屉 */}
+    <div class="footnote-popover" role="tooltip" aria-hidden="true" hidden>
+      <div class="footnote-popover-arrow"></div>
+      <div class="footnote-popover-header">
+        <span class="footnote-popover-badge">#1</span>
+        <span class="footnote-popover-label">{ui.footnotes.label}</span>
+        <button type="button" class="footnote-popover-close" aria-label={ui.footnotes.close}>
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M18 6L6 18M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+      <div class="footnote-popover-body"></div>
+    </div>
+    <div class="footnote-backdrop" aria-hidden="true" hidden></div>
+    <div class="footnote-drawer" role="dialog" aria-modal="true" aria-label={ui.footnotes.label} aria-hidden="true" hidden>
+      <div class="footnote-drawer-handle" aria-hidden="true"></div>
+      <div class="footnote-drawer-header">
+        <div class="footnote-drawer-title-wrap">
+          <span class="footnote-drawer-badge">#1</span>
+          <h3 class="footnote-drawer-title">{ui.footnotes.label}</h3>
+        </div>
+        <button type="button" class="footnote-drawer-close" aria-label={ui.footnotes.close}>
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M18 6L6 18M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+      <div class="footnote-drawer-body"></div>
+      <div class="footnote-drawer-footer">
+        <a href="#footnote-label" class="footnote-drawer-jump-btn">
+          <span>{ui.footnotes.jumpToBottom}</span>
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M7 13l5 5 5-5M12 4v14" />
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <div class="lightbox" role="dialog" aria-modal="true" aria-label={ui.lightbox.dialog} data-pagefind-ignore hidden>
+      <div class="lightbox-toolbar">
+        <span class="lightbox-counter" aria-live="polite"></span>
+        <button class="lightbox-close" type="button" aria-label={ui.lightbox.close}>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <path d="M6 6l12 12M18 6L6 18" />
+          </svg>
+        </button>
+      </div>
+      <button class="lightbox-nav lightbox-prev" type="button" aria-label={ui.lightbox.prev} hidden>
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>
+      </button>
+      <div class="lightbox-figure">
+        <img class="lightbox-img" alt="" />
+        <p class="lightbox-caption" aria-live="polite" hidden></p>
+      </div>
+      <div class="lightbox-spinner" aria-hidden="true"></div>
+      <button class="lightbox-nav lightbox-next" type="button" aria-label={ui.lightbox.next} hidden>
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </button>
+    </div>
+    <script>
+      // 前端交互入口：首屏 + 客户端内容交换后初始化
+      import '../scripts/interactions.ts';
+    </script>
+    {editAdminOrigin && (
+      <script is:inline define:vars={{ adminOrigin: editAdminOrigin, pageSource: editPageSource ?? '' }}>
+        // 可视化编辑 bootstrap（M12a）：?edit=1 或 sessionStorage 已标记 → 置标记、
+        // 摘掉 query、动态加载 admin 托管的 overlay.js/overlay.css；「退出编辑」在 overlay 顶栏。
+        // M12b：__OH_PAGE_SOURCE__ 为当前页正文的 data/ 相对路径（空页面无块坐标时插入定位用）。
+        // M12g：激活时同步给 <html> 加 oh-edit class——本脚本内联同步执行，早于 deferred 模块
+        // 脚本（interactions.ts），stream-player 据此不播打字机、流式块直接完整展开。
+        (function () {
+          try {
+            const params = new URLSearchParams(location.search);
+            let active = sessionStorage.getItem('oh-edit') === '1';
+            if (params.get('edit') === '1') {
+              sessionStorage.setItem('oh-edit', '1');
+              active = true;
+              params.delete('edit');
+              const q = params.toString();
+              history.replaceState(null, '', location.pathname + (q ? '?' + q : '') + location.hash);
+            }
+            if (!active) return;
+            document.documentElement.classList.add('oh-edit');
+            window.__OH_ADMIN_ORIGIN__ = adminOrigin;
+            window.__OH_PAGE_SOURCE__ = pageSource;
+            const link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = adminOrigin + '/overlay.css';
+            document.head.appendChild(link);
+            const s = document.createElement('script');
+            s.src = adminOrigin + '/overlay.js';
+            document.head.appendChild(s);
+          } catch { /* 编辑引导失败时静默降级 */ }
+        })();
+      </script>
+    )}
+  </body>
+</html>
+

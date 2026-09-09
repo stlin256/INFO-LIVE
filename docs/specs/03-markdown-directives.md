@@ -1,0 +1,95 @@
+# markdown 自定义指令语法（细化项 #3）
+
+> 状态：待讨论确认。基于 remark-directive 生态实现，与标准 GFM / Shiki / HTML 混写共存。
+
+## 1. 内嵌播放器
+
+```markdown
+::bilibili{bvid="BV1xx411c7mD"}
+::youtube{id="dQw4w9WgXcQ"}
+:::video{src="assets/demo.mp4" poster="assets/cover.png"}
+:::
+:::audio{src="assets/podcast.mp3" title="标题" description="说明" cover="assets/cover.jpg"}
+:::
+```
+
+- `bilibili` / `youtube` **直接渲染**官方播放器 iframe（`<div class="embed-player">` 响应式 16:9 容器 + `<iframe loading="lazy">`，浏览器视口附近才加载，不拖慢首屏）。YouTube 嵌入 URL 用隐私增强域名 `youtube-nocookie.com`。
+- `video` 渲染原生 `<video controls>`；`audio` 渲染自渲染播放器（A 模式紧凑标题，B 模式带封面卡片与说明文本，带跑马灯缓动、独占播放与背景音乐智能续播），真实 `<audio>` 节点延迟拉流。
+
+**远程媒体本地化**：正文与 streaming 内容中 `img`/`video`/`audio`/`source` 的 http(s) `src`/`poster`（含普通 markdown 图片、figure/video/audio 指令与 raw HTML）在渲染时下载到 `data/assets/remote/` 并改写为本地路径（src/lib/remote-assets.ts；URL→路径映射持久化在 `.cache/remote-assets.json`，同一 URL 跨页面/语言/构建只下载一次；下载失败保留原 URL 不阻断构建）。仅真实 `data/` 目录启用（`data.example/` 为入库示例数据，不写入）；本地化后的图片同样进入下述 WebP/响应式管线。`bilibili`/`youtube` 播放器 iframe 是白名单内的有意远程嵌入，不在本地化范围。
+
+## 2. 图文排版（杂志化用）
+
+```markdown
+:::figure{src="assets/photo.jpg" caption="图 1：实验装置" width="70%" align="center"}
+:::
+
+::::grid{cols=2}
+:::cell
+左栏内容 markdown……
+:::
+:::cell
+右栏内容 markdown……
+:::
+::::
+```
+
+- `figure`：带图注的图片块，可指定 `width`（`%/px/em/rem/vw`）与 `align`（`left/center/right`， margin 内联样式实现；非法值忽略）。
+- `grid` / `cell`：多栏排版容器，栏内仍是完整 markdown。移动端自动塌缩为单列。
+- 嵌套容器指令时**外层冒号数必须多于内层**（如 `::::grid` 包 `:::cell`），否则内层的闭合 `:::` 会提前结束外层指令（remark-directive 解析规则）。
+  - 管线容错：误嵌套时多余的闭合围栏会被 remark-directive 解析成纯冒号文本段落（如 `<p>:::</p>`，在网格中显示为图片间的残留符号）；渲染管线直接移除这类纯冒号段落（正文正常内容不受影响）。
+
+## 3. 功能指令
+
+```markdown
+::stream{id="welcome"}
+::ghcard{repo="owner/repo"}
+::editorial{id="features"}
+```
+
+- `stream`：在任意页面嵌入已定义的流式区块（引用 site.yaml 的 streaming_blocks）。
+- `ghcard`：在正文任意位置嵌入单个 GitHub 仓库卡片。
+- `editorial`：在正文任意位置嵌入完整编辑风区块（引用 site.yaml 的 editorial_blocks），覆盖按钮组、编号列表、磁贴、归档卡和分割线。未知 id 会在构建时移除占位。
+
+## 4. 图片灯箱
+
+正文与 grid 内的所有图片（figure 与普通 markdown 图片）点击后打开全屏灯箱：深色背景 + 居中放大图，开/关带缩放 + 淡入淡出动画（250ms，统一缓动 `cubic-bezier(0.22, 1, 0.36, 1)`；reduced-motion 时去掉缩放只留淡入）。关闭方式：✕ 按钮、点击背景、Esc。灯箱内是原生 `<img>`，右键"图片另存为"与移动端长按下载均可用。
+
+**高分辨率约定**：同名 `-full` 后缀文件为高清版（`assets/hero.jpg` → `assets/hero-full.jpg`）。灯箱运行时乐观加载高清版，404 时回退原图（失败结果会话内缓存，不重复请求）。推导与选用逻辑在 `src/lib/lightbox.ts`（纯函数，有单测）；交互在 `src/scripts/lightbox.ts`（事件委托，ClientRouter 转场无需重绑；链接/按钮内的图片不劫持）。灯箱骨架由 BaseLayout 服务端渲染（无 JS 时无影响）。
+
+**生产 WebP/AVIF 优化**：`npm run build` 在静态输出后把 `dist/assets` 中常规 JPG/PNG/WebP 生成基础 WebP 与 AVIF 及按页面布局推断出的精确 `1x / 2x / 3x` 响应式档位（小于源图时才生成，不放大、跳过动画），并重写页面 HTML/内联背景图引用：`<img>` 被 `<picture>` 包裹并前置 `<source type="image/avif">`，支持 AVIF 的浏览器加载更小的 AVIF，其余回落 WebP；内联背景图保持 WebP。编辑区块的列表遮罩、tile 和归档卡媒体在源码中就是 `loading="lazy"` 的 `<img>`，列表遮罩保留固定包装层以兼容后处理生成的 `<picture>`。质量可用环境变量调节：`WEBP_QUALITY`（默认 80）与 `AVIF_QUALITY`（默认 50，AVIF 压缩效率更高，q50 观感约等于 WebP q80）。`<img>` 会获得按当前杂志布局推断的 `sizes`：正文全宽、`grid` 栏宽、`figure` 百分比宽度、头像/RSS/二维码固定尺寸，浏览器据此在每个媒体断点选择精确 1x / 2x / 3x 候选，避免过度选择桌面档位。原 JPG/PNG/WebP 与 `*-full` 高清变体继续随站点发布；重写后的 `<img data-original>` 保存原图地址，灯箱优先加载原图/`-full`，失败才回落已缓存的 WebP。
+
+**空闲预取与页面缓存**：当前页面 `load` 完成并进入空闲时段后（空闲回调最长等待 1 秒，无字节总量上限），前端依次预取语言切换器中的其他语言页面（语言切换是冷请求开销最大的导航，因此优先）和当前语言导航中的其他 tab HTML；图片候选优先读取 `<picture>` 内的 AVIF `srcset`，再用原 `<img>` 的 `sizes` 创建 detached image，让浏览器按当前视口与像素密度预加载对应档位。预取到的 HTML 进入共享内存缓存（`src/scripts/page-cache.ts`），随后的语言切换/内容交换直接命中缓存、不再冷请求；缓存仅生产环境启用，失败结果不缓存。在常规页面与主图预取完成、一切内容加载完毕后，在空闲时段预加载当前页与已预取页面的灯箱高清图片（`-full` 变体与原图），404 结果自动记入 `fullBad` 避免灯箱点击时的无效请求；Data Saver 与 2G/慢速网络下自动跳过。
+
+**Speculation Rules**：生产构建注入 Chromium 可理解的 prefetch-only 规则（`eagerness: moderate`），仅用于站内链接 hover/pointerdown 时预热 HTTP 缓存；不使用 prerender，也不改变自定义 fetch + 内容交换的点击路径。其他浏览器忽略该规则，功能等价回退到现有 fetch。
+
+## 5. Mermaid 图表
+
+原生支持 Mermaid 流程图与图表，写法二选一：
+
+````markdown
+```mermaid
+flowchart TD
+  A[开始] --> B[结束]
+```
+````
+
+```markdown
+:::mermaid
+flowchart TD
+  A[开始] --> B[结束]
+:::
+```
+
+- 两种写法在服务端都输出 `.mermaid-block` 源码块；浏览器端按需加载 Mermaid，把 DSL 渲染为 SVG。
+- 无 JavaScript 时展示 Mermaid 源码，便于阅读与复制；渲染失败时同样保留源码，不阻断页面。
+- 图表颜色使用站点 CSS 变量，随亮/暗主题切换自动重渲染。
+- Mermaid 源码中的 HTML 一律作为文本转义，不进入可执行 DOM。
+
+## 6. 注意事项
+
+- 指令参数一律用 `key="value"` 形式；未识别指令按普通文本段落降级渲染，不报错。
+- 编辑器（Milkdown）为这些指令提供自定义节点，保持所见即所得；`::editorial` 显示标题、描述和组件数量预览。
+- 所有指令渲染结果在明暗双主题下均需成立。
+- 数学公式：KaTeX 渲染，`$...$` 行内与 `$$...$$` 块级；KaTeX CSS 仅按需加载。
+

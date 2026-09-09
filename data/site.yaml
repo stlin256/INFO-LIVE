@@ -1,0 +1,59 @@
+site:
+  title:
+    zh: InfoLive
+  description:
+    zh: InfoLive | 全球全源信息流与 AI 实时要闻矩阵：聚合世界主流通讯社、前沿科技社区、金融时政与学术前沿，每小时由 AI 深度提炼、内化总结与事件追踪。
+  language: zh-CN
+  favicon: assets/favicon.svg
+profile:
+  name:
+    zh: InfoLive 全球情报矩阵
+  tagline:
+    zh: ⚡ 24/7 全球多源实时监控 · AI 深度内化总结 · 每小时要闻提炼与事件追踪
+  avatar: ''
+  bio_page: index
+  links:
+    - label: 信源矩阵
+      url: /sources
+    - label: AI与前沿科技
+      url: /ai
+    - label: 全球政经
+      url: /world
+    - label: 商业金融
+      url: /markets
+    - label: 关于项目
+      url: /about
+    - label: GitHub 仓库
+      url: https://github.com/stlin256/INFO-LIVE
+theme:
+  accent: '#2563EB'
+  default_mode: system
+  background: '#f8f7f2'
+  background_dark: '#0f172a'
+footer:
+  enabled: true
+  text:
+    zh: InfoLive 全球情报矩阵 · 前端框架由 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动
+    en: InfoLive Global Matrix · Powered by [OpenHomepage-V2](https://github.com/stlin256/OpenHomepage-V2)
+home:
+  layout:
+    - block: profile
+    - block: markdown
+    - block: rss
+contact:
+  intro_card:
+    enabled: true
+    delay: 4500
+    label:
+      zh: Live Intel
+    title:
+      zh: 开源情报枢纽
+    description:
+      zh: 基于 OpenHomepage V2 驱动，每小时 GitHub Actions 全自动采集更新
+    image: assets/sources/github.svg
+bgm:
+  autoplay: false
+  enabled: false
+github:
+  username: stlin256
+  pinned: []

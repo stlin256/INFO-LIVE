@@ -1,0 +1,629 @@
+import { mkdirSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import path from 'node:path';
+import { describe, it, expect, beforeAll, vi } from 'vitest';
+import { renderMarkdown } from '../src/lib/markdown.ts';
+
+// Shiki 首次调用需初始化高亮器（秒级），预热一次避免首个用例超时
+beforeAll(async () => {
+  await renderMarkdown('```js\nwarmup\n```');
+}, 60000);
+
+describe('基础 markdown / GFM', () => {
+  it('渲染段落与行内格式', async () => {
+    const html = await renderMarkdown('你好 **加粗** `code`');
+    expect(html).toContain('<p>');
+    expect(html).toContain('<strong>加粗</strong>');
+    expect(html).toContain('<code>code</code>');
+  });
+
+  it('GFM：表格渲染为 table', async () => {
+    const html = await renderMarkdown('| a | b |\n| - | - |\n| 1 | 2 |');
+    expect(html).toContain('<table>');
+    expect(html).toContain('<th>a</th>');
+    expect(html).toContain('<td>2</td>');
+  });
+
+  it('GFM：删除线', async () => {
+    const html = await renderMarkdown('~~删掉~~');
+    expect(html).toContain('<del>删掉</del>');
+  });
+
+  it('GFM：任务列表渲染 checkbox', async () => {
+    const html = await renderMarkdown('- [x] 已完成\n- [ ] 未完成');
+    expect(html).toContain('type="checkbox"');
+    expect(html).toContain('checked');
+    expect(html).toContain('disabled');
+  });
+
+  it('链接与外链属性正常输出：外链自动添加 target=_blank、rel=noopener noreferrer 与矢量 ↗ 图标', async () => {
+    const html = await renderMarkdown('[示例](https://example.com)');
+    expect(html).toContain('href="https://example.com"');
+    expect(html).toContain('target="_blank"');
+    expect(html).toContain('rel="noopener noreferrer"');
+    expect(html).toContain('class="external-link"');
+    expect(html).toContain('class="external-link-icon"');
+    expect(html).toContain('viewBox="0 0 24 24"');
+  });
+
+  it('站内链接不添加 target=_blank 与外链图标', async () => {
+    const html = await renderMarkdown('[关于](/about) 与 [章节](#heading)');
+    expect(html).toContain('<a href="/about">关于</a>');
+    expect(html).toContain('<a href="#heading">章节</a>');
+    expect(html).not.toContain('external-link-icon');
+  });
+
+  it('纯图片外链添加 target=_blank 但不插入文本尾部图标', async () => {
+    const html = await renderMarkdown('[![封面](assets/pic.jpg)](https://example.com)');
+    expect(html).toContain('target="_blank"');
+    expect(html).toContain('rel="noopener noreferrer"');
+    expect(html).not.toContain('external-link-icon');
+  });
+});
+
+describe('代码高亮（Shiki 双主题）', () => {
+  it('代码块输出 data-language 属性与 code language class', async () => {
+    const html = await renderMarkdown('```python\ndef test():\n    pass\n```');
+    expect(html).toContain('data-language="python"');
+    expect(html).toContain('class="language-python"');
+  });
+
+  it('代码块带 shiki class 与明暗双主题 CSS 变量', async () => {
+    const html = await renderMarkdown('```js\nconst a = 1;\n```');
+    expect(html).toMatch(/<pre[^>]*class="[^"]*shiki/);
+    expect(html).toContain('--shiki-light');
+    expect(html).toContain('--shiki-dark');
+  });
+
+  it('行内 code 不受影响', async () => {
+    const html = await renderMarkdown('这是 `inline` 代码');
+    expect(html).toContain('<code>inline</code>');
+    expect(html).not.toContain('shiki');
+  });
+});
+
+describe('数学公式（KaTeX）', () => {
+  it('行内公式渲染为 katex', async () => {
+    const html = await renderMarkdown('质能方程 $E=mc^2$ 很有名');
+    expect(html).toContain('class="katex"');
+  });
+
+  it('块级公式渲染 katex-display', async () => {
+    const html = await renderMarkdown('$$\n\\int_0^1 x\\,dx\n$$');
+    expect(html).toContain('katex-display');
+  });
+});
+
+describe('HTML 混写与白名单过滤', () => {
+  it('允许普通 HTML 标签混写', async () => {
+    const html = await renderMarkdown('前面 <strong>混写</strong> 后面');
+    expect(html).toContain('<strong>混写</strong>');
+  });
+
+  it('script 标签被剔除', async () => {
+    const html = await renderMarkdown('<script>alert(1)</script>正常文字');
+    expect(html).not.toContain('<script>');
+    expect(html).not.toContain('alert(1)');
+    expect(html).toContain('正常文字');
+  });
+
+  it('img onerror 等事件属性被剔除', async () => {
+    const html = await renderMarkdown('<img src="assets/x.jpg" onerror="alert(1)">');
+    expect(html).toContain('<img src="/assets/x.jpg"');
+    expect(html).not.toContain('onerror');
+  });
+
+  it('javascript: 链接协议被剔除', async () => {
+    const html = await renderMarkdown('[点我](javascript:alert(1))');
+    expect(html).not.toContain('javascript:');
+    expect(html).toContain('<a');
+  });
+
+  it('恶意第三方 iframe 被剔除', async () => {
+    const html = await renderMarkdown('<iframe src="https://evil.example.com/x"></iframe>');
+    expect(html).not.toContain('<iframe');
+  });
+
+  it('bilibili 官方播放器 iframe 保留', async () => {
+    const html = await renderMarkdown(
+      '<iframe src="https://player.bilibili.com/player.html?bvid=BV1xx411c7mD" allowfullscreen></iframe>'
+    );
+    expect(html).toContain('<iframe');
+    expect(html).toContain('player.bilibili.com/player.html?bvid=BV1xx411c7mD');
+  });
+
+  it('youtube 嵌入 iframe 保留', async () => {
+    const html = await renderMarkdown(
+      '<iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>'
+    );
+    expect(html).toContain('<iframe');
+    expect(html).toContain('www.youtube.com/embed/dQw4w9WgXcQ');
+  });
+});
+
+describe('自定义指令：内嵌播放器', () => {
+  it('::bilibili 渲染高性能门面播放器卡片（Facade）', async () => {
+    const html = await renderMarkdown('::bilibili{bvid="BV1xx411c7mD"}');
+    expect(html).toContain('class="embed-player embed-bilibili"');
+    expect(html).toContain('data-embed-src="https://player.bilibili.com/player.html?bvid=BV1xx411c7mD&#x26;autoplay=1"');
+    expect(html).toContain('embed-play-btn-bili');
+    expect(html).toContain('bilibili');
+  });
+
+  it('::youtube 渲染高性能门面播放器卡片（Facade 带默认缩略图）', async () => {
+    const html = await renderMarkdown('::youtube{id="dQw4w9WgXcQ"}', {
+      localizeAssets: {
+        dataDir: 'data.example',
+        fetchFn: (async () => ({ ok: false, status: 404 }) as unknown as Response) as any,
+      },
+    });
+    expect(html).toContain('class="embed-player embed-youtube"');
+    expect(html).toContain('data-embed-src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?autoplay=1"');
+    expect(html).toContain('embed-play-btn-yt');
+    expect(html).toContain('YouTube');
+    expect(html).toContain('https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg');
+  });
+
+  it('::bilibili 支持自定义封面 poster 与标题', async () => {
+    const html = await renderMarkdown('::bilibili{bvid="BV1xx411c7mD" poster="assets/custom-cover.jpg" title="自定义测试视频"}');
+    expect(html).toContain('class="embed-player embed-bilibili"');
+    expect(html).toContain('class="embed-poster"');
+    expect(html).toContain('src="/assets/custom-cover.jpg"');
+    expect(html).toContain('referrerpolicy="no-referrer"');
+    expect(html).toContain('自定义测试视频');
+  });
+
+  it('::bilibili 自动异步解析远程封面图与视频标题', async () => {
+    const mockFetch = vi.fn(async (url: string) => {
+      if (url.includes('BV1xx411c7mD')) {
+        return {
+          ok: true,
+          json: async () => ({
+            code: 0,
+            data: {
+              title: '字幕君交流场所',
+              pic: 'https://i0.hdslb.com/bfs/archive/mock-cover.jpg',
+            },
+          }),
+        } as unknown as Response;
+      }
+      return { ok: false, status: 404 } as unknown as Response;
+    });
+
+    const html = await renderMarkdown('::bilibili{bvid="BV1xx411c7mD"}', {
+      localizeAssets: {
+        dataDir: 'data',
+        fetchFn: mockFetch as any,
+      },
+    });
+
+    expect(html).toContain('class="embed-player embed-bilibili"');
+    expect(html).toContain('alt="字幕君交流场所"');
+    expect(html).toContain('referrerpolicy="no-referrer"');
+    expect(html).toContain('字幕君交流场所');
+  });
+
+  it('::bilibili 远程获取失败时智能回退到本地匹配的封面', async () => {
+    const mockFetch = vi.fn(async () => ({ ok: false, status: 403 } as unknown as Response));
+    const emptyCacheDir = path.join(tmpdir(), 'oh-bili-empty-' + Date.now());
+    mkdirSync(emptyCacheDir, { recursive: true });
+    await renderMarkdown('::bilibili{bvid="BV13z421U7cs"}', {
+      localizeAssets: {
+        dataDir: path.join(emptyCacheDir, 'data'),
+        fetchFn: mockFetch as any,
+      },
+    });
+    // 在测试的 dataDir 下放置匹配的本地封面
+    const testDataDir = path.join(emptyCacheDir, 'data');
+    mkdirSync(path.join(testDataDir, 'assets'), { recursive: true });
+    writeFileSync(path.join(testDataDir, 'assets', 'cover-bilibili-bv13z421u7cs.jpg'), 'fake-img');
+
+    const htmlWithFallback = await renderMarkdown('::bilibili{bvid="BV13z421U7cs"}', {
+      localizeAssets: {
+        dataDir: testDataDir,
+        fetchFn: mockFetch as any,
+      },
+    });
+
+    expect(htmlWithFallback).toContain('class="embed-player embed-bilibili"');
+    expect(htmlWithFallback).toContain('src="/assets/cover-bilibili-bv13z421u7cs.jpg"');
+    expect(htmlWithFallback).toContain('referrerpolicy="no-referrer"');
+  });
+
+  it('::youtube 自动解析视频标题并更新标题栏', async () => {
+    const mockFetch = vi.fn(async (url: string) => {
+      if (url.startsWith('https://www.youtube.com/oembed')) {
+        return {
+          ok: true,
+          json: async () => ({
+            title: 'Mock YouTube Video Title',
+            thumbnail_url: 'https://i.ytimg.com/vi/mock-video/maxresdefault.jpg',
+          }),
+        } as unknown as Response;
+      }
+      return { ok: false, status: 404 } as unknown as Response;
+    });
+
+    const html = await renderMarkdown('::youtube{id="mock-video"}', {
+      localizeAssets: {
+        dataDir: 'data.youtube-test',
+        fetchFn: mockFetch as any,
+      },
+    });
+
+    expect(html).toContain('class="embed-player embed-youtube"');
+    expect(html).toContain('data-embed-title="Mock YouTube Video Title"');
+    expect(html).toContain('aria-label="Mock YouTube Video Title"');
+    expect(html).toContain('alt="Mock YouTube Video Title"');
+    expect(html).toContain('<span class="embed-title">Mock YouTube Video Title</span>');
+    expect(html).toContain('aria-label="Play YouTube video: Mock YouTube Video Title"');
+  });
+
+  it(':::video 渲染自渲染播放器容器（Scheme B 杂志卡片整合式，结构完整）', async () => {
+    const html = await renderMarkdown(
+      ':::video{src="assets/demo.mp4" poster="assets/cover.png" title="演示视频" badge="4K"}\n:::'
+    );
+    expect(html).toContain('class="video-player md-video"');
+    expect(html).toContain('class="video-element"');
+    expect(html).toContain('src="/assets/demo.mp4"');
+    expect(html).toContain('poster="/assets/cover.png"');
+    expect(html).toContain('class="video-big-play"');
+    expect(html).toContain('class="video-controls"');
+    expect(html).toContain('class="video-topbar"');
+    expect(html).toContain('class="video-stage"');
+    expect(html).toContain('class="video-top-badge"');
+    const topbarIndex = html.indexOf('class="video-topbar"');
+    const stageIndex = html.indexOf('class="video-stage"');
+    expect(topbarIndex).toBeGreaterThan(stageIndex);
+    expect(html.slice(stageIndex, topbarIndex)).toContain('class="video-element"');
+    expect(html).toContain('4K');
+    expect(html).toContain('演示视频');
+    expect(html).toContain('class="video-progress-wrap"');
+    expect(html).toContain('class="video-btn btn-play-pause"');
+    expect(html).toContain('class="video-btn btn-volume"');
+    expect(html).toContain('class="video-btn btn-speed"');
+    expect(html).toContain('class="video-btn btn-pip"');
+    expect(html).toContain('class="video-btn btn-fullscreen"');
+  });
+
+  it(':::audio 渲染自渲染播放器容器（A 紧凑标题模式，结构完整）', async () => {
+    const html = await renderMarkdown(':::audio{src="assets/podcast.mp3" title="示例音频"}\n:::');
+    expect(html).toContain('class="audio-player md-audio"');
+    expect(html).toContain('data-src="/assets/podcast.mp3"');
+    expect(html).toContain('data-mode="compact"');
+    expect(html).toContain('class="btn-toggle"');
+    expect(html).toContain('class="audio-track"');
+    expect(html).toContain('class="audio-time"');
+    expect(html).toContain('示例音频');
+    expect(html).not.toContain('<audio');
+  });
+
+  it(':::audio 带 cover 时渲染 B 封面卡片模式', async () => {
+    const html = await renderMarkdown(':::audio{src="assets/podcast.mp3" cover="assets/cover.jpg" title="Aria" description="Goldberg Variations"}\n:::');
+    expect(html).toContain('class="audio-player md-audio audio-card"');
+    expect(html).toContain('data-mode="card"');
+    expect(html).toContain('data-cover="/assets/cover.jpg"');
+    expect(html).toContain('data-title="Aria"');
+    expect(html).toContain('data-desc="Goldberg Variations"');
+    expect(html).toContain('<img src="/assets/cover.jpg"');
+    expect(html).toContain('Aria');
+    expect(html).toContain('Goldberg Variations');
+  });
+
+  it('指令缺必需参数时降级为普通文本', async () => {
+    const html = await renderMarkdown('::bilibili{}');
+    expect(html).not.toContain('embed-player');
+    expect(html).not.toContain('<iframe');
+    expect(html).toContain('::bilibili');
+  });
+});
+
+describe('自定义指令：图文排版', () => {
+  it(':::figure 渲染 figure/img/figcaption 与宽度', async () => {
+    const html = await renderMarkdown(
+      ':::figure{src="assets/photo.jpg" caption="图 1：实验装置" width="70%"}\n:::'
+    );
+    expect(html).toContain('<figure style="width:70%">');
+    expect(html).toContain('src="/assets/photo.jpg"');
+    expect(html).toContain('loading="lazy"');
+    expect(html).toContain('alt="图 1：实验装置"');
+    expect(html).toContain('<figcaption>图 1：实验装置</figcaption>');
+  });
+
+  it(':::figure 支持 align 对齐参数', async () => {
+    const center = await renderMarkdown(
+      ':::figure{src="assets/photo.jpg" width="72%" align="center"}\n:::'
+    );
+    expect(center).toContain('margin-left:auto;margin-right:auto');
+    const right = await renderMarkdown(':::figure{src="assets/photo.jpg" align="right"}\n:::');
+    expect(right).toContain('margin-left:auto;margin-right:0');
+    const left = await renderMarkdown(':::figure{src="assets/photo.jpg" align="left"}\n:::');
+    expect(left).toContain('margin-left:0;margin-right:auto');
+  });
+
+  it(':::figure 的 align 非法值被忽略，且 align 可与 width 组合', async () => {
+    const bad = await renderMarkdown(':::figure{src="assets/photo.jpg" align="middle"}\n:::');
+    expect(bad).toContain('<figure>');
+    expect(bad).not.toContain('margin');
+    const combo = await renderMarkdown(
+      ':::figure{src="assets/photo.jpg" width="50%" align="right"}\n:::'
+    );
+    expect(combo).toContain('width:50%');
+    expect(combo).toContain('margin-left:auto');
+  });
+
+  it('::::grid + :::cell 渲染网格结构，栏内 markdown 正常解析', async () => {
+    const md = [
+      '::::grid{cols=2}',
+      ':::cell',
+      '左栏 **重点**',
+      ':::',
+      ':::cell',
+      '右栏内容',
+      ':::',
+      '::::',
+    ].join('\n');
+    const html = await renderMarkdown(md);
+    expect(html).toContain('class="md-grid"');
+    expect(html).toContain('grid-template-columns:repeat(2,1fr)');
+    const cells = html.match(/class="md-grid-cell"/g);
+    expect(cells).toHaveLength(2);
+    expect(html).toContain('<strong>重点</strong>');
+    expect(html).toContain('右栏内容');
+  });
+
+  it('误嵌套（内层冒号数 ≥ 外层）残留的纯冒号闭合围栏被清除，不渲染为文本', async () => {
+    // cell 与 figure 同为 ::: 时，remark-directive 会把多余的闭合 ::: 解析成文本段落
+    // （参见 spec 03 §2 的嵌套规则）；管线容错直接移除这类纯冒号段落
+    const md = [
+      '::::grid{cols=2}',
+      ':::cell',
+      ':::figure{src="assets/a.jpg" width="100%"}',
+      ':::',
+      ':::',
+      ':::cell',
+      ':::figure{src="assets/b.jpg" width="100%"}',
+      ':::',
+      ':::',
+      '::::',
+    ].join('\n');
+    const html = await renderMarkdown(md);
+    expect(html).toContain('class="md-grid"');
+    expect(html.match(/class="md-grid-cell"/g)).toHaveLength(2);
+    expect(html.match(/<figure/g)).toHaveLength(2);
+    expect(html).not.toContain(':::');
+  });
+
+  it('正文中的代码块内 ::: 文本不受影响', async () => {
+    const html = await renderMarkdown('```\n:::\n```');
+    expect(html).toContain(':::');
+  });
+});
+
+describe('自定义指令：功能指令', () => {
+  it('::stream 渲染流式区块占位', async () => {
+    const html = await renderMarkdown('::stream{id="welcome"}');
+    expect(html).toContain('class="stream-block"');
+    expect(html).toContain('data-stream-id="welcome"');
+  });
+
+  it('::ghcard 渲染仓库卡片占位', async () => {
+    const html = await renderMarkdown('::ghcard{repo="owner/repo"}');
+    expect(html).toContain('class="gh-card"');
+    expect(html).toContain('data-repo="owner/repo"');
+  });
+});
+
+describe('指令健壮性', () => {
+  it('未识别指令降级为普通文本，不报错', async () => {
+    const html = await renderMarkdown('::nosuch{foo="bar"}');
+    expect(html).toContain('::nosuch');
+    expect(html).not.toContain('nosuch-card');
+  });
+
+  it('未识别容器指令整体降级为文本', async () => {
+    const html = await renderMarkdown(':::what\n内容\n:::');
+    expect(html).toContain(':::what');
+  });
+
+  it('指令参数值做 HTML 转义防注入', async () => {
+    const html = await renderMarkdown('::ghcard{repo=\'a"><img src=x onerror=alert(1)>\'}');
+    // 双引号被转义为 &#x22;，参数值无法逃逸出属性、不会成为真实标签
+    expect(html).toContain('data-repo="a&#x22;>');
+    expect(html).toContain('class="gh-card"');
+  });
+});
+
+describe('图片', () => {
+  it('markdown 图片保留相对路径并加 loading=lazy', async () => {
+    const html = await renderMarkdown('![示例图](assets/pic.jpg)');
+    expect(html).toContain('src="/assets/pic.jpg"');
+    expect(html).toContain('alt="示例图"');
+    expect(html).toContain('loading="lazy"');
+  });
+
+  it('外部图片 URL 原样保留', async () => {
+    const html = await renderMarkdown('![x](https://example.com/a.png)');
+    expect(html).toContain('src="https://example.com/a.png"');
+  });
+});
+
+describe('构建期占位替换（M4b）', () => {
+  it('::stream 占位被 streamEmbeds 片段替换', async () => {
+    const html = await renderMarkdown('::stream{id="welcome"}', {
+      streamEmbeds: { welcome: '<div class="stream-block" data-stream-id="welcome">FRAG</div>' },
+    });
+    // 片段必须以真实 HTML 直出（回归：曾被 stringify 转义成裸文本，见 #8）
+    expect(html).toContain('<div class="stream-block" data-stream-id="welcome">FRAG</div>');
+    expect(html).not.toContain('&#x3C;');
+    // 占位 div 被整段替换，不残留空占位
+    expect(html.match(/data-stream-id/g)).toHaveLength(1);
+  });
+
+  it('::stream 引用未定义 id：移除占位并 warning', async () => {
+    const html = await renderMarkdown('前文\n\n::stream{id="nope"}\n\n后文', {
+      streamEmbeds: {},
+    });
+    expect(html).toContain('前文');
+    expect(html).toContain('后文');
+    expect(html).not.toContain('stream-block');
+  });
+
+  it('::ghcard 命中 pinned 数据时替换为卡片', async () => {
+    const html = await renderMarkdown('::ghcard{repo="Owner/Repo"}', {
+      ghCards: {
+        htmlByRepo: { 'owner/repo': '<a class="gh-repo" href="https://github.com/owner/repo">owner/repo</a>' },
+      },
+    });
+    // 真实 HTML 直出，不被转义（回归 #8）
+    expect(html).toContain('<a class="gh-repo" href="https://github.com/owner/repo">owner/repo</a>');
+    expect(html).not.toContain('&#x3C;');
+    expect(html).not.toContain('class="gh-card"');
+  });
+
+  it('::ghcard 匹配不到时移除并 warning', async () => {
+    const html = await renderMarkdown('::ghcard{repo="o/unknown"}', {
+      ghCards: { htmlByRepo: {} },
+    });
+    expect(html).not.toContain('gh-card');
+  });
+
+  it('不提供嵌入选项时占位原样保留（向后兼容）', async () => {
+    const html = await renderMarkdown('::stream{id="welcome"}\n\n::ghcard{repo="o/r"}');
+    expect(html).toContain('class="stream-block"');
+    expect(html).toContain('class="gh-card"');
+  });
+
+  it('::editorial 占位被构建片段替换，且未知 id 会移除', async () => {
+    const hit = await renderMarkdown('::editorial{id="kit"}', {
+      editorialEmbeds: { kit: '<section class="block-editorial">EDITORIAL</section>' },
+    });
+    expect(hit).toContain('<section class="block-editorial">EDITORIAL</section>');
+    expect(hit).not.toContain('editorial-embed');
+
+    const miss = await renderMarkdown('::editorial{id="nope"}', {
+      editorialEmbeds: {},
+    });
+    expect(miss).not.toContain('editorial-embed');
+
+    const passthrough = await renderMarkdown('::editorial{id="kit"}');
+    expect(passthrough).toContain('class="editorial-embed"');
+  });
+
+  // 回归 #8：特性页"功能指令"场景——ghcard/stream 相邻出现且后续还有正文，
+  // 替换产物必须直出为真实 HTML，后续内容不受影响
+  const FEATURES_MD = [
+    '## 功能指令',
+    '',
+    '正文任意位置插入 GitHub 仓库卡片：',
+    '',
+    '::ghcard{repo="ggml-org/llama.cpp"}',
+    '',
+    '插入一个流式区块：',
+    '',
+    '::stream{id="welcome"}',
+    '',
+    '## HTML 混写',
+    '',
+    '前面 <strong>混写</strong> 后面',
+  ].join('\n');
+
+  it('有缓存场景：ghcard/stream 直出真实 HTML 且后续内容正常', async () => {
+    const html = await renderMarkdown(FEATURES_MD, {
+      streamEmbeds: {
+        welcome:
+          '<div class="stream-block" data-stream-id="welcome">' +
+          '<script type="application/json" class="stream-tokens">[]</script></div>',
+      },
+      ghCards: {
+        htmlByRepo: { 'ggml-org/llama.cpp': '<a class="gh-repo" href="https://github.com/ggml-org/llama.cpp">card</a>' },
+      },
+    });
+    expect(html).toContain('<a class="gh-repo" href="https://github.com/ggml-org/llama.cpp">card</a>');
+    expect(html).toContain('<div class="stream-block" data-stream-id="welcome">');
+    expect(html).not.toContain('&#x3C;');
+    // 后续内容完好
+    expect(html).toContain('<h2>HTML 混写</h2>');
+    expect(html).toContain('<p>前面 <strong>混写</strong> 后面</p>');
+  });
+
+  it('无缓存场景（ghcard 移除、stream 保留）：后续内容不受影响', async () => {
+    const html = await renderMarkdown(FEATURES_MD, {
+      streamEmbeds: {
+        welcome: '<div class="stream-block" data-stream-id="welcome">S</div>',
+      },
+      ghCards: { htmlByRepo: {}, warn: () => {} },
+    });
+    expect(html).not.toContain('gh-card');
+    expect(html).toContain('<div class="stream-block" data-stream-id="welcome">S</div>');
+    expect(html).not.toContain('&#x3C;');
+    expect(html).toContain('<h2>HTML 混写</h2>');
+    expect(html).toContain('<p>前面 <strong>混写</strong> 后面</p>');
+  });
+});
+
+
+
+describe('富媒体脚注（Footnotes Pipeline）', () => {
+  it('渲染标准 GFM 脚注角标与文末列表', async () => {
+    const md = '正文引用[^1]与二次引用[^2]。\n\n[^1]: 第一个注释内容\n[^2]: 第二个注释带 [链接](https://example.com)';
+    const html = await renderMarkdown(md, { lang: 'zh' });
+    expect(html).toContain('data-footnote-ref');
+    expect(html).toContain('class="footnote-ref"');
+    expect(html).toContain('<section data-footnotes="" class="footnotes reveal"');
+    expect(html).toContain('<h2 class="footnotes-title" id="footnote-label">脚注</h2>');
+    expect(html).toContain('<ol class="footnotes-list">');
+    expect(html).toContain('<li id="user-content-fn-1" class="footnote-item">');
+    expect(html).toContain('data-footnote-backref=""');
+    expect(html).toContain('footnote-backref-icon');
+    expect(html).toContain('aria-label="返回引用 1"');
+    expect(html).toContain('aria-label="返回引用 2"');
+  });
+
+  it('多语言 i18n 标题与回跳文案适配（en / ja / fr）', async () => {
+    const md = 'Statement[^1].\n\n[^1]: Rich citation note.';
+    const htmlEn = await renderMarkdown(md, { lang: 'en' });
+    expect(htmlEn).toContain('<h2 class="footnotes-title" id="footnote-label">Footnotes</h2>');
+    expect(htmlEn).toContain('aria-label="Back to reference 1"');
+
+    const htmlJa = await renderMarkdown(md, { lang: 'ja' });
+    expect(htmlJa).toContain('<h2 class="footnotes-title" id="footnote-label">脚注</h2>');
+    expect(htmlJa).toContain('aria-label="参照 1 に戻る"');
+
+    const htmlFr = await renderMarkdown(md, { lang: 'fr' });
+    expect(htmlFr).toContain('<h2 class="footnotes-title" id="footnote-label">Notes de bas de page</h2>');
+    expect(htmlFr).toContain('aria-label="Retour à la référence 1"');
+  });
+
+  it('脚注内富媒体内容（代码、数学公式、链接）完整保留', async () => {
+    const md = '研究成果[^math].\n\n[^math]: 复杂度 $O(N \\log N)$ 与代码 `run()`，详见 [arXiv](https://arxiv.org)';
+    const html = await renderMarkdown(md, { lang: 'zh' });
+    expect(html).toContain('katex');
+    expect(html).toContain('<code>run()</code>');
+    expect(html).toContain('href="https://arxiv.org"');
+    expect(html).toContain('target="_blank"');
+    expect(html).toContain('rel="noopener noreferrer"');
+    expect(html).toContain('external-link-icon');
+    expect(html).toContain('arXiv');
+  });
+
+  it('多处引用同一脚注时保留数字小标与对应 aria-label', async () => {
+    const md = '首处引用[^fn]与二次引用[^fn]以及三次引用[^fn]。\n\n[^fn]: 多次引用的脚注内容';
+    const html = await renderMarkdown(md, { lang: 'zh' });
+    expect(html).toContain('aria-label="返回引用 1"');
+    expect(html).toContain('aria-label="返回引用 1-2"');
+    expect(html).toContain('aria-label="返回引用 1-3"');
+    expect(html).toContain('<sup>2</sup>');
+    expect(html).toContain('<sup>3</sup>');
+  });
+});
+
+
+describe('版本号占位符（{{version}}）', () => {
+  it('渲染时替换为 package.json 的 version', async () => {
+    const { default: pkg } = await import('../package.json');
+    const html = await renderMarkdown('<span class="version-label">v{{version}}</span>');
+    expect(html).toContain(`v${pkg.version}`);
+    expect(html).not.toContain('{{version}}');
+  });
+});

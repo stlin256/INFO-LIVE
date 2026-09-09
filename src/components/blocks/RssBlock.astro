@@ -1,0 +1,135 @@
+---
+/**
+ * RSS 区块（docs/specs/05）：按 rss.yaml display 渲染 grouped（按源分栏）/
+ * mixed（时间×权重混排，排序见 src/lib/rss-block.ts sortMixed）。
+ * 卡片：标题≤2行 / 来源标签 / 日期（hover title 完整时间）/ 摘要120字 / 可选封面 / curated note。
+ * 卡片即链接，点击直达原文（hover 预览浮层已按用户要求移除）。
+ * view 为 null（.cache 缺失）→ 空态；有视图但无卡片 → 整区隐藏（spec 07 §3）。
+ */
+import type { RssView } from '../../lib/rss-block.ts';
+import { formatTimestamp } from '../../lib/github-block.ts';
+import { editCfgAttr } from '../../lib/edit-cfg.ts';
+import RssCard from './RssCard.astro';
+
+interface Props {
+  view: RssView | null;
+  title: string;
+  lang: string;
+  /** 可视化编辑（M12d）：首页配置区块坐标值（rss）；仅 OH_EDIT 下由路由层传入 */
+  cfgBlock?: string;
+}
+
+const { view, title, lang, cfgBlock } = Astro.props;
+// 区块根坐标（检查器表单入口）+ 标题字段坐标（就地改字；rss.block_title@内容语言）
+const cfgBlockAttr = cfgBlock ? { 'data-oh-cfg-block': cfgBlock } : {};
+const titleCfg = editCfgAttr('rss.block_title', lang);
+
+const LABELS = {
+  zh: { empty: 'RSS 数据未预取：请先运行 npm run prefetch', updated: '数据更新于' },
+  en: { empty: 'RSS data not prefetched: run npm run prefetch first', updated: 'Data updated' },
+  ja: { empty: 'RSS データが未取得です：先に npm run prefetch を実行してください', updated: '最終更新' },
+  fr: { empty: 'Données RSS non préchargées : exécutez d’abord npm run prefetch', updated: 'Données mises à jour le' },
+} as const;
+const LABELS_EXT: Record<string, { empty: string; updated: string }> = {
+  'de': {
+    'empty': 'RSS-Daten nicht abgerufen: zuerst npm run prefetch ausführen',
+    'updated': 'Daten aktualisiert am'
+  },
+  'es': {
+    'empty': 'Datos RSS no precargados: ejecuta primero npm run prefetch',
+    'updated': 'Datos actualizados el'
+  },
+  'ko': {
+    'empty': 'RSS 데이터 미가져옴: 먼저 npm run prefetch 실행',
+    'updated': '데이터 업데이트'
+  },
+  'pt': {
+    'empty': 'Dados RSS não pré-carregados: execute npm run prefetch primeiro',
+    'updated': 'Dados atualizados em'
+  },
+  'ru': {
+    'empty': 'Данные RSS не загружены: сначала запустите npm run prefetch',
+    'updated': 'Данные обновлены'
+  },
+  'it': {
+    'empty': 'Dati RSS non precaricati: esegui prima npm run prefetch',
+    'updated': 'Dati aggiornati il'
+  },
+  'nl': {
+    'empty': 'RSS-gegevens niet vooraf geladen: voer eerst npm run prefetch uit',
+    'updated': 'Gegevens bijgewerkt op'
+  },
+  'tr': {
+    'empty': 'RSS verileri önceden yüklenmedi: önce npm run prefetch çalıştırın',
+    'updated': 'Veriler güncellendi'
+  },
+  'vi': {
+    'empty': 'Dữ liệu RSS chưa tải: chạy npm run prefetch trước',
+    'updated': 'Dữ liệu cập nhật'
+  },
+  'th': {
+    'empty': 'ข้อมูล RSS ยังไม่ถูกดึง: รัน npm run prefetch ก่อน',
+    'updated': 'อัปเดตข้อมูล'
+  },
+  'id': {
+    'empty': 'Data RSS belum dimuat: jalankan npm run prefetch terlebih dahulu',
+    'updated': 'Data diperbarui'
+  },
+  'ar': {
+    'empty': 'لم يتم تحميل بيانات RSS: شغّل npm run prefetch أولاً',
+    'updated': 'تحديث البيانات'
+  },
+  'hi': {
+    'empty': 'RSS डेटा प्रीलोड नहीं: पहले npm run prefetch चलाएं',
+    'updated': 'डेटा अपडेट'
+  }
+};
+const ALL_LABELS: Record<string, { empty: string; updated: string }> = { ...LABELS, ...LABELS_EXT };
+const L = ALL_LABELS[lang as string] ?? ALL_LABELS.en;
+
+const hasContent =
+  view !== null &&
+  (view.display === 'grouped' ? view.columns.length > 0 : view.cards.length > 0);
+---
+
+{view === null && (
+  <section class="home-block block-rss reveal" {...cfgBlockAttr}>
+    <h2 class="block-title" {...titleCfg}>{title}</h2>
+    <p class="block-empty">{L.empty}</p>
+  </section>
+)}
+
+{
+  view !== null && hasContent && (
+    <section class="home-block block-rss reveal" {...cfgBlockAttr}>
+      <h2 class="block-title" {...titleCfg}>{title}</h2>
+      {view.display === 'grouped' ? (
+        <div class="rss-columns">
+          {view.columns.map((col) => (
+            <div class="rss-column">
+              <h3 class="rss-source">
+                {col.name}
+                {col.stale && col.fetchedAt !== null && (
+                  <span class="data-age">
+                    {L.updated} {formatTimestamp(col.fetchedAt)}
+                  </span>
+                )}
+              </h3>
+              <div class="rss-cards">
+                {col.cards.map((card) => (
+                  <RssCard card={card} />
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div class="rss-cards rss-mixed">
+          {view.cards.map((card) => (
+            <RssCard card={card} />
+          ))}
+        </div>
+      )}
+    </section>
+  )
+}

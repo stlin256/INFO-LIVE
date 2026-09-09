@@ -1,0 +1,503 @@
+/**
+ * 配置表单视图：站点 / GitHub / RSS / 流式块 + home.layout 拖拽排序。
+ * 全部 1.5s 停顿自动保存（PUT 整份配置，服务端校验失败不落盘并提示）。
+ * M12d：profile/github/rss/streaming/editorial 各段表单构建抽到 configforms.ts，
+ * 与可视化编辑 overlay 检查器共用（避免两份实现漂移）；本文件负责取数与保存。
+ */
+import { el, btn, textInput, numberInput, checkbox, select, field, listEditor, rangeInput } from '../dom.ts';
+import { api } from '../api.ts';
+import { createAutosave, type Autosave } from '../../shared/autosave.ts';
+import {
+  localizedField,
+  buildProfileForm,
+  buildGithubForm,
+  buildRssForm,
+  buildStreamingBlockCard,
+  buildEditorialMainFields,
+  type Obj,
+  type List,
+} from '../configforms.ts';
+import type { AppState } from '../main.ts';
+
+function sectionTitle(text: string): HTMLElement {
+  return el('h2', { class: 'section-title' }, text);
+}
+
+function makeSaver(state: AppState, saveFn: () => Promise<unknown>): Autosave {
+  const autosave = createAutosave(1500, () => {
+    state.setStatus(state.t('saving'));
+    void saveFn()
+      .then(() => state.setStatus(state.t('saved'), 'ok'))
+      .catch((e: Error) => state.setStatus(`${state.t('saveFailed')}: ${e.message}`, 'err'));
+  });
+  return {
+    touch() {
+      state.setStatus(state.t('unsavedChanges'));
+      autosave.touch();
+    },
+    flush: () => autosave.flush(),
+    cancel: () => autosave.cancel(),
+    get pending() {
+      return autosave.pending;
+    },
+  };
+}
+
+/** 折叠面板摘要里的短文本：兼容 string 与 {zh,en} */
+function shortText(value: unknown): string {
+  if (typeof value === 'string') return value.trim();
+  const obj = value as Obj | undefined;
+  return String(obj?.zh ?? obj?.en ?? '').trim();
+}
+
+// ---------------------------------------------------------------------------
+// 站点
+// ---------------------------------------------------------------------------
+
+export async function renderSiteConfig(container: HTMLElement, state: AppState): Promise<void> {
+  const t = state.t;
+  const [{ data }, { assets }] = await Promise.all([api.site(), api.assets()]);
+  const cfg = data as Obj;
+  cfg.site ??= {};
+  cfg.profile ??= {};
+  const profile = cfg.profile as Obj;
+  const bgm = (cfg.bgm ??= {}) as Obj;
+  const autosave = makeSaver(state, () => api.saveSite(cfg));
+  const touch = () => autosave.touch();
+  // 素材引用值列表（assets/<name>；profile 表单的头像下拉等，与 overlay 同一形态）
+  const assetRefs = assets.map((a) => `assets/${a.name}`);
+
+  // BGM 音频文件候选：素材库中的音频扩展名；当前值不在库中时保留显示
+  const AUDIO_EXT = /\.(wav|mp3|ogg|m4a|flac)$/i;
+  const audioFiles = assets.filter((a) => AUDIO_EXT.test(a.name)).map((a) => `assets/${a.name}`);
+  const curBgmFile = String(bgm.file ?? '');
+  const bgmFileOptions = [
+    { value: '', label: t('bgmFileEmpty') },
+    ...(curBgmFile && !audioFiles.includes(curBgmFile)
+      ? [{ value: curBgmFile, label: curBgmFile }]
+      : []),
+    ...audioFiles.map((f) => ({ value: f, label: f })),
+  ];
+  const bgmVolume = typeof bgm.volume === 'number' ? Math.min(1, Math.max(0, bgm.volume)) : 0.4;
+
+  // favicon 候选：素材库中的 svg/png/ico；空值 = 内置默认（public/favicon.svg）
+  const FAVICON_EXT = /\.(svg|png|ico)$/i;
+  const faviconFiles = assets.filter((a) => FAVICON_EXT.test(a.name)).map((a) => `assets/${a.name}`);
+  const curFavicon = String((cfg.site as Obj).favicon ?? '');
+  const faviconOptions = [
+    { value: '', label: t('faviconEmpty') },
+    ...(curFavicon && !faviconFiles.includes(curFavicon)
+      ? [{ value: curFavicon, label: curFavicon }]
+      : []),
+    ...faviconFiles.map((f) => ({ value: f, label: f })),
+  ];
+
+  // favicon 上传：任意图片 → 服务端居中裁方 → 180/32 PNG 入素材库并写回 site.favicon
+  const faviconFileInput = el('input', {
+    type: 'file',
+    accept: 'image/*',
+    style: 'display:none',
+  }) as HTMLInputElement;
+  faviconFileInput.addEventListener('change', () => {
+    const f = faviconFileInput.files?.[0];
+    if (!f) return;
+    state.setStatus(t('faviconUploading'));
+    void (async () => {
+      try {
+        const r = await api.uploadFavicon(await f.arrayBuffer());
+        (cfg.site as Obj).favicon = r.favicon;
+        await api.saveSite(cfg);
+        state.setStatus(t('faviconDone'), 'ok');
+        autosave.cancel(); // 配置已显式落盘，丢弃待触发定时器后重渲染本视图刷新下拉候选
+        await renderSiteConfig(container, state);
+      } catch (e) {
+        state.setStatus(`${t('saveFailed')}: ${(e as Error).message}`, 'err');
+      }
+    })();
+  });
+  const faviconField = field(
+    t('siteFavicon'),
+    el(
+      'div',
+      { class: 'favicon-row' },
+      select(faviconOptions, curFavicon, (v) => { (cfg.site as Obj).favicon = v || undefined; touch(); }),
+      btn(t('faviconUpload'), () => faviconFileInput.click()),
+      faviconFileInput
+    )
+  );
+
+  container.replaceChildren(
+    sectionTitle(t('siteSection')),
+    el(
+      'div',
+      { class: 'form-grid' },
+      field(t('siteTitle'), textInput(String((cfg.site as Obj).title ?? ''), (v) => { (cfg.site as Obj).title = v; touch(); })),
+      field(t('siteDescription'), textInput(String((cfg.site as Obj).description ?? ''), (v) => { (cfg.site as Obj).description = v; touch(); })),
+      field(
+        t('siteLanguage'),
+        select(
+          [{ value: 'zh-CN', label: 'zh-CN' }, { value: 'en', label: 'en' }],
+          String((cfg.site as Obj).language ?? 'zh-CN'),
+          (v) => { (cfg.site as Obj).language = v; touch(); }
+        )
+      ),
+      faviconField
+    ),
+    sectionTitle(t('profileSection')),
+    ...buildProfileForm(profile, { t, touch, assets: assetRefs }),
+    sectionTitle(t('bgmSection')),
+    el(
+      'div',
+      { class: 'form-grid' },
+      field(
+        t('bgmEnabled'),
+        checkbox(bgm.enabled !== false, (v) => { bgm.enabled = v; touch(); })
+      ),
+      field(
+        t('bgmFile'),
+        select(bgmFileOptions, curBgmFile, (v) => { bgm.file = v || undefined; touch(); })
+      ),
+      field(
+        t('bgmVolume'),
+        rangeInput(bgmVolume, 0, 1, 0.05, (v) => { bgm.volume = v; touch(); })
+      )
+    ),
+    // 页脚（默认开启，显式关闭才禁用；文本支持 [文字](链接) 内联链接）
+    sectionTitle(t('footerSection')),
+    el(
+      'div',
+      { class: 'form-grid' },
+      field(
+        t('footerEnabled'),
+        checkbox(((cfg.footer ??= {}) as Obj).enabled !== false, (v) => { (cfg.footer as Obj).enabled = v; touch(); })
+      )
+    ),
+    localizedField((cfg.footer as Obj).text, t('footerTextZh'), t('footerTextEn'), (v) => { (cfg.footer as Obj).text = v; touch(); }),
+    el('p', { class: 'muted' }, t('footerHint'))
+  );
+}
+
+// ---------------------------------------------------------------------------
+// 编辑区块 + 右下联系卡
+// ---------------------------------------------------------------------------
+
+function variantSelect(value: unknown, onChange: (v: string) => void, t: (k: string) => string) {
+  return select(
+    [
+      { value: 'primary', label: t('buttonPrimary') },
+      { value: 'outline', label: t('buttonOutline') },
+      { value: 'ghost', label: t('buttonGhost') },
+    ],
+    String(value ?? 'primary'),
+    onChange
+  );
+}
+
+function sizeSelect(value: unknown, onChange: (v: string) => void, t: (k: string) => string) {
+  return select(
+    [
+      { value: 'small', label: t('tileSmall') },
+      { value: 'wide', label: t('tileWide') },
+      { value: 'tall', label: t('tileTall') },
+    ],
+    String(value ?? 'small'),
+    onChange
+  );
+}
+
+export async function renderEditorialConfig(container: HTMLElement, state: AppState): Promise<void> {
+  const t = state.t;
+  const { data } = await api.site();
+  const cfg = data as Obj;
+  cfg.editorial_blocks ??= [];
+  const contact = (cfg.contact ??= {}) as Obj;
+  const card = (contact.intro_card ??= {}) as Obj;
+  const autosave = makeSaver(state, () => api.saveSite(cfg));
+  const touch = () => autosave.touch();
+  const blocks = cfg.editorial_blocks as List;
+
+  const nextId = () => {
+    const used = new Set(blocks.map((item) => String(item.id ?? '')));
+    let n = blocks.length + 1;
+    while (used.has(`editorial-${n}`)) n += 1;
+    return `editorial-${n}`;
+  };
+
+  const renderBlock = (block: Obj, index: number) => {
+    const groups = [
+      ['actions', t('editorialActions'), () => ({
+        label: '',
+        url: '',
+        variant: 'primary',
+      })],
+      ['list', t('editorialList'), () => ({ title: '', url: '', image: '' })],
+      ['tiles', t('editorialTiles'), () => ({ title: '', image: '', size: 'small' })],
+      ['archive', t('editorialArchive'), () => ({ title: '', status: '', image: '' })],
+    ] as const;
+
+    // 主字段（id/颜色/分割线 + tag/title/description）与 overlay 检查器共用同一构建器
+    const content = buildEditorialMainFields(block, { t, touch });
+
+    const blockPanel = el('details', { class: 'config-panel' }) as HTMLDetailsElement;
+    if (index === 0) blockPanel.open = true;
+    blockPanel.append(
+      el(
+        'summary',
+        { class: 'panel-summary' },
+        el('span', { class: 'panel-title' }, String(block.id ?? '')),
+        el('span', { class: 'muted panel-meta' }, shortText(block.title))
+      )
+    );
+    const panelBody = el('div', { class: 'config-panel-body' }, content);
+
+    for (const [key, heading, makeNew] of groups) {
+      block[key] ??= [];
+      const rows = block[key] as List;
+      const groupPanel = el('details', { class: 'config-subpanel' }) as HTMLDetailsElement;
+      groupPanel.open = rows.length > 0;
+      groupPanel.append(
+        el(
+          'summary',
+          { class: 'panel-summary' },
+          el('span', {}, heading),
+          el('span', { class: 'muted panel-count' }, String(rows.length))
+        )
+      );
+      groupPanel.append(
+        listEditor({
+          items: rows,
+          renderRow: (item) => {
+            if (key === 'actions') {
+              return el(
+                'div',
+                { class: 'row-fields' },
+                localizedField(item.label, t('linkLabel'), t('labelEn'), (v) => { item.label = v; touch(); }),
+                field(t('linkUrl'), textInput(String(item.url ?? ''), (v) => { item.url = v; touch(); })),
+                field(t('buttonVariant'), variantSelect(item.variant, (v) => { item.variant = v; touch(); }, t))
+              );
+            }
+            if (key === 'list') {
+              return el(
+                'div',
+                { class: 'row-fields' },
+                localizedField(item.title, t('titleZh'), t('titleEn'), (v) => { item.title = v; touch(); }),
+                localizedField(item.meta, t('metaZh'), t('metaEn'), (v) => { item.meta = v; touch(); }),
+                localizedField(item.description, t('descriptionZh'), t('descriptionEn'), (v) => { item.description = v; touch(); }),
+                field(t('imagePath'), textInput(String(item.image ?? ''), (v) => { item.image = v || undefined; touch(); })),
+                field(t('linkUrl'), textInput(String(item.url ?? ''), (v) => { item.url = v || undefined; touch(); }))
+              );
+            }
+            if (key === 'tiles') {
+              return el(
+                'div',
+                { class: 'row-fields' },
+                localizedField(item.title, t('titleZh'), t('titleEn'), (v) => { item.title = v; touch(); }),
+                localizedField(item.kicker, t('kickerZh'), t('kickerEn'), (v) => { item.kicker = v || undefined; touch(); }),
+                field(t('imagePath'), textInput(String(item.image ?? ''), (v) => { item.image = v || undefined; touch(); })),
+                field(t('linkUrl'), textInput(String(item.url ?? ''), (v) => { item.url = v || undefined; touch(); })),
+                field(t('tileSize'), sizeSelect(item.size, (v) => { item.size = v; touch(); }, t))
+              );
+            }
+            return el(
+              'div',
+              { class: 'row-fields' },
+              localizedField(item.title, t('titleZh'), t('titleEn'), (v) => { item.title = v; touch(); }),
+              localizedField(item.status, t('statusZh'), t('statusEn'), (v) => { item.status = v || undefined; touch(); }),
+              localizedField(item.description, t('descriptionZh'), t('descriptionEn'), (v) => { item.description = v; touch(); }),
+              field(t('imagePath'), textInput(String(item.image ?? ''), (v) => { item.image = v || undefined; touch(); })),
+              field(t('linkUrl'), textInput(String(item.url ?? ''), (v) => { item.url = v || undefined; touch(); }))
+            );
+          },
+          onChange: touch,
+          makeNew,
+          addLabel: t('addItem'),
+          t,
+        })
+      );
+      content.append(groupPanel);
+    }
+    blockPanel.append(panelBody);
+    return blockPanel;
+  };
+
+  container.replaceChildren(
+    sectionTitle(t('configEditorial')),
+    el('p', { class: 'muted' }, t('editorialHint')),
+    listEditor({
+      items: blocks,
+      renderRow: renderBlock,
+      onChange: touch,
+      makeNew: () => ({ id: nextId(), title: '', actions: [], list: [], tiles: [], archive: [] }),
+      addLabel: t('addEditorialBlock'),
+      t,
+    }),
+    sectionTitle(t('contactCardSection')),
+    el(
+      'div',
+      { class: 'form-grid' },
+      field(t('contactEnabled'), checkbox(card.enabled !== false, (v) => { card.enabled = v; touch(); })),
+      field(t('contactDelay'), numberInput(card.delay as number | undefined, (v) => { card.delay = v; touch(); })),
+      field(t('imagePath'), textInput(String(card.image ?? ''), (v) => { card.image = v; touch(); }))
+    ),
+    localizedField(card.label, t('contactLabelZh'), t('contactLabelEn'), (v) => { card.label = v || undefined; touch(); }),
+    localizedField(card.title, t('contactTitleZh'), t('contactTitleEn'), (v) => { card.title = v; touch(); }),
+    localizedField(card.description, t('contactDescriptionZh'), t('contactDescriptionEn'), (v) => { card.description = v || undefined; touch(); })
+  );
+}
+
+// ---------------------------------------------------------------------------
+// GitHub
+// ---------------------------------------------------------------------------
+
+export async function renderGithubConfig(container: HTMLElement, state: AppState): Promise<void> {
+  const t = state.t;
+  const { data } = await api.site();
+  const cfg = data as Obj;
+  const gh = (cfg.github ??= {}) as Obj;
+  const autosave = makeSaver(state, () => api.saveSite(cfg));
+  const touch = () => autosave.touch();
+
+  container.replaceChildren(
+    sectionTitle(t('configGithub')),
+    ...buildGithubForm(gh, { t, touch })
+  );
+}
+
+// ---------------------------------------------------------------------------
+// RSS
+// ---------------------------------------------------------------------------
+
+export async function renderRssConfig(container: HTMLElement, state: AppState): Promise<void> {
+  const t = state.t;
+  const [{ data: site }, { data: rssRaw }] = await Promise.all([api.site(), api.rss()]);
+  const siteCfg = site as Obj;
+  const rss = rssRaw as Obj;
+  const siteRss = ((siteCfg.rss ??= {}) as Obj);
+
+  const autosave = makeSaver(state, () =>
+    Promise.all([api.saveSite(siteCfg), api.saveRss(rss)]).then(() => undefined)
+  );
+  const touch = () => autosave.touch();
+
+  container.replaceChildren(
+    sectionTitle(t('configRss')),
+    ...buildRssForm(siteRss, rss, { t, touch })
+  );
+}
+
+// ---------------------------------------------------------------------------
+// 流式块 + home.layout 拖拽排序
+// ---------------------------------------------------------------------------
+
+const LAYOUT_BLOCK_LABELS: Record<string, string> = {
+  profile: '👤 profile',
+  markdown: '📝 markdown',
+  streaming: '💬 streaming',
+  github: '🐙 github',
+  rss: '📰 rss',
+  editorial: '🧩 editorial',
+};
+
+export async function renderStreamingConfig(container: HTMLElement, state: AppState): Promise<void> {
+  const t = state.t;
+  const { data } = await api.site();
+  const cfg = data as Obj;
+  cfg.streaming_blocks ??= [];
+  const home = (cfg.home ??= {}) as Obj;
+  home.layout ??= [];
+  const autosave = makeSaver(state, () => api.saveSite(cfg));
+  const touch = () => autosave.touch();
+
+  // ---- home.layout 拖拽排序器（HTML5 drag & drop）----
+  const layoutWrap = el('div', { class: 'layout-sorter' });
+  const renderLayout = () => {
+    const layout = home.layout as List;
+    const rows = layout.map((blk, i) => {
+      const label = LAYOUT_BLOCK_LABELS[String(blk.block)] ?? String(blk.block);
+      const row = el(
+        'div',
+        { class: 'layout-row', draggable: 'true' },
+        el('span', { class: 'drag-handle' }, '⋮⋮'),
+        el('span', {}, blk.id ? `${label} (${String(blk.id)})` : label),
+      );
+      const moveUpBtn = btn('↑', () => {
+        if (i === 0) return;
+        [layout[i - 1], layout[i]] = [layout[i], layout[i - 1]];
+        touch();
+        renderLayout();
+      });
+      moveUpBtn.title = t('moveUp');
+      moveUpBtn.setAttribute('aria-label', t('moveUp'));
+      const moveDownBtn = btn('↓', () => {
+        if (i === layout.length - 1) return;
+        [layout[i + 1], layout[i]] = [layout[i], layout[i + 1]];
+        touch();
+        renderLayout();
+      });
+      moveDownBtn.title = t('moveDown');
+      moveDownBtn.setAttribute('aria-label', t('moveDown'));
+      const removeBtn = btn(t('remove'), () => {
+        layout.splice(i, 1);
+        touch();
+        renderLayout();
+      }, 'btn-danger');
+      row.append(el('div', { class: 'layout-ops' }, moveUpBtn, moveDownBtn, removeBtn));
+      row.addEventListener('dragstart', (e) => {
+        e.dataTransfer?.setData('text/plain', String(i));
+        row.classList.add('dragging');
+      });
+      row.addEventListener('dragend', () => row.classList.remove('dragging'));
+      row.addEventListener('dragover', (e) => e.preventDefault());
+      row.addEventListener('drop', (e) => {
+        e.preventDefault();
+        const from = Number(e.dataTransfer?.getData('text/plain'));
+        if (!Number.isInteger(from) || from === i) return;
+        const [moved] = layout.splice(from, 1);
+        layout.splice(i, 0, moved);
+        touch();
+        renderLayout();
+      });
+      return row;
+    });
+    // 追加块：可选 block 类型 + streaming id
+    const addSel = select(
+      Object.entries(LAYOUT_BLOCK_LABELS).map(([value, label]) => ({ value, label })),
+      'profile',
+      () => undefined
+    );
+    const idInput = textInput('', () => undefined, t('streamingIdPlaceholder'));
+    rows.push(
+      el(
+        'div',
+        { class: 'layout-add' },
+        addSel,
+        idInput,
+        btn(t('addLayoutBlock'), () => {
+          const blk: Obj = { block: addSel.value };
+          if (addSel.value === 'streaming') blk.id = idInput.value || 'welcome';
+          if (addSel.value === 'editorial') blk.id = idInput.value || `editorial-${(home.layout as List).length + 1}`;
+          layout.push(blk);
+          touch();
+          renderLayout();
+        })
+      )
+    );
+    layoutWrap.replaceChildren(...rows);
+  };
+  renderLayout();
+
+  container.replaceChildren(
+    sectionTitle(t('streamingBlocks')),
+    listEditor({
+      items: cfg.streaming_blocks as List,
+      renderRow: (blk) => buildStreamingBlockCard(blk, { t, touch }),
+      onChange: touch,
+      makeNew: () => ({ id: '', title: '', content_file: 'streaming/zh/welcome.md', autoplay: true, speed: 40 }),
+      addLabel: t('addBlock'),
+      t,
+    }),
+    sectionTitle(t('homeLayout')),
+    el('p', { class: 'muted' }, t('homeLayoutHint')),
+    layoutWrap
+  );
+}

@@ -1,0 +1,472 @@
+---
+/**
+ * 全站动态路由：getStaticPaths 从 data/（缺失时回退 data.example/，见 src/lib/data-dir.ts）
+ * 的 pages/<lang>/*.md 生成。默认语言无前缀，其他语言带 /lang/ 前缀；
+ * 缺失译文按回退链静默渲染（docs/specs/11）。
+ * 主页（slug 为 /）按 site.yaml home.layout 顺序渲染区块：profile / markdown /
+ * streaming / github / rss（M4b 实体区块，数据来自 .cache 与 streaming/ 内容文件）。
+ */
+import { existsSync } from 'node:fs';
+import path from 'node:path';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { renderMarkdown } from '../lib/markdown.ts';
+import { loadPublications } from '../lib/publications.ts';
+import { normalizeFeedConfig } from '../lib/feed.ts';
+import { feedPathFor } from '../lib/feed-document.ts';
+import { resolveBgmPlaylist, type ResolvedBgmPlaylist } from '../lib/bgm-playlist.ts';
+import { resolvePageOgMeta } from '../lib/og-image.ts';
+import { extractToc, renderTocHtml, shouldEnableToc } from '../lib/toc.ts';
+import {
+  loadSiteConfig,
+  loadPages,
+  loadRssConfig,
+  detectLanguages,
+  isI18nEnabled,
+  resolveText,
+  resolveAvatarPosition,
+  resolveFavicon,
+  resolveIntroCard,
+  type SiteConfig,
+} from '../lib/config.ts';
+import {
+  normalizeLang,
+  buildRoutes,
+  navPagesForLang,
+  alternateLinks,
+  type RouteEntry,
+  type NavItem,
+} from '../lib/routes.ts';
+import {
+  buildAccentTheme,
+  buildBackgroundTheme,
+  type AccentTheme,
+  type BackgroundTheme,
+} from '../lib/theme.ts';
+import { planHomeBlocks, type PlannedHomeBlock } from '../lib/home.ts';
+import { resolveFooter, footerTextToHtml } from '../lib/footer.ts';
+import { resolveDataDir } from '../lib/data-dir.ts';
+import { loadGithubCache, buildGithubView, repoCardHtml, type GithubView } from '../lib/github-block.ts';
+import { loadRssCache, buildRssView, type RssView } from '../lib/rss-block.ts';
+import {
+  loadStreamingBlock,
+  streamEmbedHtml,
+  type LoadedStreamBlock,
+} from '../lib/stream.ts';
+import GithubBlock from '../components/blocks/GithubBlock.astro';
+import ProfileBlock from '../components/blocks/ProfileBlock.astro';
+import RssBlock from '../components/blocks/RssBlock.astro';
+import StreamBlock from '../components/blocks/StreamBlock.astro';
+import EditorialBlock from '../components/EditorialBlock.astro';
+import NoticeBanner from '../components/NoticeBanner.astro';
+import { renderEditorialBlock } from '../lib/editorial-block.ts';
+import { buildPageJsonLdString } from '../lib/jsonld.ts';
+import { editCfgValue, editCfgBlockName } from '../lib/edit-cfg.ts';
+import { localizeInternalHref } from '../lib/routes.ts';
+import { withBase, getBaseUrl } from '../lib/base-url.ts';
+
+interface Props {
+  route: RouteEntry;
+  site: SiteConfig;
+  i18n: boolean;
+  defaultLang: string;
+  accent: AccentTheme;
+  background: BackgroundTheme;
+  nav: NavItem[];
+  alternates: { lang: string; path: string }[];
+  /** 站点全部语言（detectLanguages 结果，供 BaseLayout 输出 data-site-langs） */
+  langs: string[];
+  avatarUrl?: string;
+  /** 背景音乐多曲目播放列表（P1） */
+  bgmPlaylist: ResolvedBgmPlaylist | null;
+  /** favicon URL（路由层已决定：配置的文件存在时为 /assets/...，否则内置默认 /favicon.svg） */
+  favicon: string;
+  blocks: PlannedHomeBlock[];
+  /** 全站 slug 集合，用于把内容里的无语言链接改写成当前路由语言 */
+  slugs: string[];
+  /** .cache/github.json 视图（M4b）；null = 缓存缺失（渲染空态） */
+  githubView: GithubView | null;
+  /** .cache/rss.json 视图；null = 缓存缺失或 rss 未启用 */
+  rssView: RssView | null;
+  /** 原创内容 Feed alternate 链接（P0） */
+  feedLinks: { type: 'rss' | 'atom' | 'json'; href: string }[];
+}
+
+export function getStaticPaths() {
+  const dataDir = resolveDataDir(process.cwd());
+  const site = loadSiteConfig(dataDir);
+  const pages = loadPages(dataDir);
+  const langs = detectLanguages(pages);
+  const i18n = isI18nEnabled(langs);
+  const defaultLang = normalizeLang(site.site.language) ?? langs[0] ?? 'zh';
+  const accent = buildAccentTheme(site.theme?.accent);
+  const background = buildBackgroundTheme(site.theme?.background, site.theme?.background_dark);
+  // 头像：仅在文件真实存在时输出 <img>，避免示例数据下 404
+  const avatar = site.profile.avatar;
+  const avatarUrl = avatar && existsSync(path.join(dataDir, avatar)) ? `/${avatar}` : undefined;
+
+  // 背景音乐多曲目播放列表（P1）
+  const playlist = resolveBgmPlaylist(site);
+  const bgmPlaylist = playlist
+    ? {
+        ...playlist,
+        tracks: playlist.tracks.filter((t) => existsSync(path.join(dataDir, t.src))),
+      }
+    : null;
+  const validPlaylist = bgmPlaylist && bgmPlaylist.tracks.length > 0 ? bgmPlaylist : null;
+
+  // favicon：配置了且文件真实存在用之；否则回退内置默认（public/favicon.svg → /favicon.svg）
+  const favicon = resolveFavicon(site);
+  const faviconUrl = favicon && existsSync(path.join(dataDir, favicon)) ? `/${favicon}` : '/favicon.svg';
+  const rssEnabled = !!site.rss && site.rss.enabled !== false;
+  // rss.enabled: false 时整区不渲染（即使 home.layout 引用了 rss 区块）
+  const blocks = planHomeBlocks(site.home?.layout).filter((b) => b.block !== 'rss' || rssEnabled);
+  // M4b：prefetch 缓存 → 区块视图（缺文件时各 load* 返回 null + warning，区块渲染空态；
+  // 缺数即报错的闸口在 prefetch，见 docs/specs/07 §4）
+  const cacheDir = path.join(process.cwd(), '.cache');
+  const githubView = buildGithubView(loadGithubCache(cacheDir));
+  // 源名 / curated 推荐语按路由语言解析（多语言映射），每种语言各建一份视图
+  const rssCache = rssEnabled ? loadRssCache(cacheDir) : null;
+  const rssConfig = rssEnabled ? loadRssConfig(dataDir, site.rss?.sources_file) : null;
+  const feedCfg = normalizeFeedConfig(site.feed);
+  const rssViews = new Map(
+    langs.map((l) => [l, rssConfig ? buildRssView(rssCache, rssConfig, { lang: l, defaultLang }) : null]),
+  );
+
+  return buildRoutes(pages, langs, defaultLang).map((route) => {
+    const feedLinks = feedCfg.enabled
+      ? feedCfg.formats.map((type) => ({
+          type,
+          href: withBase(feedPathFor(route.lang, defaultLang, type)),
+        }))
+      : [];
+    return {
+      params: { slug: route.param },
+      props: {
+        route,
+        site,
+        i18n,
+        defaultLang,
+        accent,
+        background,
+        nav: navPagesForLang(pages, route.lang, defaultLang),
+        alternates: alternateLinks(pages, route.slug, langs, defaultLang),
+        langs,
+        avatarUrl: avatarUrl ? withBase(avatarUrl) : undefined,
+        bgmPlaylist: validPlaylist,
+        favicon: withBase(faviconUrl),
+        blocks,
+        slugs: [...new Set(pages.map((page) => page.slug))],
+        githubView,
+        rssView: rssViews.get(route.lang) ?? null,
+        feedLinks,
+      } satisfies Props,
+    };
+  });
+}
+
+const {
+  route,
+  site,
+  i18n,
+  defaultLang,
+  accent,
+  background,
+  nav,
+  alternates,
+  langs,
+  avatarUrl,
+  bgmPlaylist,
+  favicon,
+  blocks,
+  slugs,
+  githubView,
+  rssView,
+  feedLinks,
+} = Astro.props;
+
+const isHome = route.slug === '/';
+const contentLang = route.page.lang;
+// 页脚：默认开启（footer.enabled:false 关闭）；文本按内容语言解析后渲染内联链接
+const footerCfg = resolveFooter(site);
+const footerHtml = footerCfg
+  ? footerTextToHtml(resolveText(footerCfg.text, contentLang, defaultLang))
+  : null;
+const introCard = resolveIntroCard(site, contentLang, defaultLang);
+// 头像布局：side=侧边杂志分栏（默认）；top=头像在姓名/简介上方居顶
+const avatarTop = resolveAvatarPosition(site.profile) === 'top';
+
+// P1 目录（TOC）计算
+const rawHeadingsCount = (route.page.body.match(/^#{2,4}\s+/gm) ?? []).length;
+const tocEnabled = shouldEnableToc(route.page.toc, route.page.body.length, rawHeadingsCount);
+const tocItems = tocEnabled ? extractToc(route.page.body, { maxDepth: route.page.tocDepth ?? 3 }) : [];
+const hasToc = tocItems.length > 0;
+const tocLabels: Record<string, string> = {
+  zh: '文章目录',
+  en: 'Contents',
+  ja: '目次',
+  fr: 'Sommaire',
+  de: 'Inhaltsverzeichnis',
+  es: 'Contenido',
+  ko: '목차',
+  pt: 'Conteúdo',
+  ru: 'Содержание',
+  it: 'Indice',
+  nl: 'Inhoud',
+  tr: 'İçindekiler',
+  vi: 'Mục lục',
+  th: 'สารบัญ',
+  id: 'Daftar isi',
+  ar: 'المحتويات',
+  hi: 'विषय-सूची',
+};
+const tocTitle = tocLabels[contentLang] ?? tocLabels.en;
+const tocHtml = hasToc ? renderTocHtml(tocItems, { title: tocTitle }) : '';
+const readingProgress = route.page.readingProgress === true || (route.page.readingProgress !== false && hasToc);
+
+// P1 社交卡片（OG Meta）计算
+const resolvedSiteTitle = resolveText(site.site.title, contentLang, defaultLang);
+const baseUrl = getBaseUrl();
+const ogMeta = resolvePageOgMeta({
+  page: route.page,
+  siteTitle: resolvedSiteTitle,
+  baseUrl,
+  siteOgConfig: site.og_images,
+});
+
+// 流式区块：按内容语言沿回退链加载全部定义（页面语言 → en → 默认语言）；
+// 主页 streaming 区块与正文 ::stream{id} 占位共用同一份加载结果
+const dataDir = resolveDataDir(process.cwd());
+const publications = existsSync(path.join(dataDir, 'publications.yaml'))
+  ? loadPublications(dataDir)
+  : undefined;
+const slugSet = new Set(slugs);
+const localizeHref = (href: string) => withBase(localizeInternalHref(href, route.lang, defaultLang, slugSet), baseUrl);
+const streamBlocks: LoadedStreamBlock[] = [];
+for (const def of site.streaming_blocks ?? []) {
+  const b = await loadStreamingBlock(dataDir, def, contentLang, defaultLang, console.warn, slugSet);
+  if (b) streamBlocks.push(b);
+}
+const streamById = new Map(streamBlocks.map((b) => [b.id, b]));
+// 可视化编辑（M12d）：.stream-title 挂 data-oh-cfg 字段坐标（streaming_blocks.<id>.title@内容语言）；
+// 生产模式 editCfgValue 返回 undefined，streamEmbedHtml 零注入
+const streamTitleCfg = (id: string) => editCfgValue(`streaming_blocks.${id}.title`, contentLang);
+const streamEmbeds = Object.fromEntries(streamBlocks.map((b) => [b.id, streamEmbedHtml(b, streamTitleCfg(b.id), contentLang)]));
+const editorialById = new Map((site.editorial_blocks ?? []).map((block) => [block.id, block]));
+const editorialEmbeds = Object.fromEntries(
+  (site.editorial_blocks ?? []).map((block) => [block.id, renderEditorialBlock(block, contentLang, localizeHref, undefined, defaultLang)]),
+);
+// ::ghcard{repo} 占位 ← pinned 缓存数据（大小写不敏感匹配；1:1 官网仓库卡，随页面语言）
+const ghHtmlByRepo = Object.fromEntries(
+  (githubView?.pinned?.repos ?? []).map((r) => [
+    r.full_name.toLowerCase(),
+    repoCardHtml(r, { lang: contentLang, defaultLang }),
+  ]),
+);
+// 可视化编辑（M12a）：OH_EDIT=1 时给正文块注入 data-oh-src 坐标（data/ 相对路径；
+// route.page.filePath 是绝对路径，取文件名拼回 pages/<lang>/<file>）
+const editSource =
+  process.env.OH_EDIT === '1'
+    ? `pages/${route.page.lang}/${path.basename(route.page.filePath)}`
+    : undefined;
+const bodyHtml = await renderMarkdown(route.page.body, {
+  baseUrl,
+  lang: contentLang,
+  defaultLang,
+  // 标题锚点：生产渲染给所有正文 h2/h3/h4 补 id 与 # 锚点；编辑模式保持原 headingSlugs 行为
+  headingSlugs: editSource ? hasToc : true,
+  headingAnchors: !editSource,
+  ...(publications?.enabled === false ? {} : publications ? { publications } : {}),
+  streamEmbeds,
+  ghCards: { htmlByRepo: ghHtmlByRepo },
+  editorialEmbeds,
+  localizeHrefs: { lang: route.lang, defaultLang, slugs, baseUrl },
+  // 正文远程图片/媒体构建时下载到 data/assets/remote/（映射缓存，跨页面去重）
+  localizeAssets: { dataDir },
+  ...(editSource ? { editSource } : {}),
+});
+// spec 24 结构化数据 JSON-LD 计算
+const jsonLd = buildPageJsonLdString({
+  site,
+  page: route.page,
+  publications,
+  lang: contentLang,
+  defaultLang,
+  siteUrl: Astro.site ?? site.site.url,
+  baseUrl,
+  isHome,
+});
+
+const isFeaturesPage = route.page.slug === 'features';
+const profileSlotMarker = '<div data-feature-slot="profile"></div>';
+const githubSlotMarker = '<div data-feature-slot="github"></div>';
+const rssSlotMarker = '<div data-feature-slot="rss"></div>';
+
+let featureParts: { part0: string; part1: string; part2: string; part3: string } | null = null;
+if (
+  isFeaturesPage &&
+  bodyHtml.includes(profileSlotMarker) &&
+  bodyHtml.includes(githubSlotMarker) &&
+  bodyHtml.includes(rssSlotMarker)
+) {
+  const [part0, rest1] = bodyHtml.split(profileSlotMarker);
+  const [part1, rest2] = rest1.split(githubSlotMarker);
+  const [part2, part3] = rest2.split(rssSlotMarker);
+  featureParts = { part0, part1, part2, part3 };
+}
+---
+
+<BaseLayout
+  title={route.page.title}
+  siteTitle={resolvedSiteTitle}
+  description={route.page.description ?? (site.site.description ? resolveText(site.site.description, contentLang, defaultLang) : undefined)}
+  htmlLang={contentLang}
+  lang={route.lang}
+  defaultLang={defaultLang}
+  accent={accent}
+  background={background}
+  defaultMode={site.theme?.default_mode ?? 'system'}
+  nav={nav}
+  currentPath={route.path}
+  i18n={i18n}
+  alternates={alternates}
+  langs={langs}
+  bgmPlaylist={bgmPlaylist}
+  favicon={favicon}
+  footer={footerHtml}
+  introCard={introCard}
+  feedLinks={feedLinks}
+  ogMeta={ogMeta}
+  readingProgress={readingProgress}
+  editPageSource={editSource}
+  jsonLd={jsonLd}
+>
+  {isHome ? (
+      <div class="home">
+        {route.page.notice && <NoticeBanner notice={route.page.notice} lang={contentLang} />}
+        {blocks.map((b) =>
+          b.block === 'profile' ? (
+            <ProfileBlock
+              site={site}
+              lang={contentLang}
+              avatarUrl={avatarUrl}
+              avatarTop={avatarTop}
+              defaultLang={defaultLang}
+              cfgBlock={editCfgBlockName('profile')}
+            />
+          ) : b.block === 'markdown' ? (
+            <section class="home-block block-markdown reveal">
+              <div class="markdown-body" set:html={bodyHtml} />
+            </section>
+          ) : b.block === 'streaming' ? (
+            // 未定义的 id 在 loadStreamingBlock 已 warning，这里跳过渲染
+            streamById.has(b.id ?? '') ? <StreamBlock block={streamById.get(b.id ?? '')!} cfgBlock={editCfgBlockName(`streaming:${b.id}`)} titleCfg={streamTitleCfg(b.id ?? '')} lang={contentLang} /> : null
+          ) : b.block === 'github' ? (
+            <GithubBlock
+              view={githubView}
+              lang={contentLang}
+              accent={accent}
+              showContributions={site.github.show_contributions !== false}
+              cfgBlock={editCfgBlockName('github')}
+            />
+          ) : b.block === 'rss' ? (
+            <RssBlock
+              view={rssView}
+              title={resolveText(site.rss?.block_title ?? 'RSS', contentLang, defaultLang)}
+              lang={contentLang}
+              cfgBlock={editCfgBlockName('rss')}
+            />
+          ) : b.block === 'editorial' ? (
+            editorialById.has(b.id ?? '') ? (
+              <EditorialBlock
+                block={editorialById.get(b.id ?? '')!}
+                lang={contentLang}
+                localizeHref={localizeHref}
+                defaultLang={defaultLang}
+                cfgBlock={editCfgBlockName(`editorial:${b.id}`)}
+              />
+            ) : null
+          ) : null,
+        )}
+      </div>
+    ) : (
+      <article class="page-content">
+        {route.page.notice && <NoticeBanner notice={route.page.notice} lang={contentLang} />}
+        <h1>{route.page.title}</h1>
+        {hasToc ? (
+          <div class="article-layout">
+            <details class="toc-collapsible" data-pagefind-ignore>
+              <summary class="toc-collapsible-summary">
+                <span>{tocTitle}</span>
+                <svg class="toc-chevron" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </summary>
+              <div class="toc-collapsible-body" set:html={tocHtml} />
+            </details>
+            <div class="markdown-body">
+              {isFeaturesPage && featureParts ? (
+                <>
+                  <Fragment set:html={featureParts.part0} />
+                  <ProfileBlock
+                    site={site}
+                    lang={contentLang}
+                    avatarUrl={avatarUrl}
+                    avatarTop={avatarTop}
+                    defaultLang={defaultLang}
+                  />
+                  <Fragment set:html={featureParts.part1} />
+                  <GithubBlock
+                    view={githubView}
+                    lang={contentLang}
+                    accent={accent}
+                    showContributions={site.github.show_contributions !== false}
+                  />
+                  <Fragment set:html={featureParts.part2} />
+                  <RssBlock
+                    view={rssView}
+                    title={resolveText(site.rss?.block_title ?? 'RSS', contentLang, defaultLang)}
+                    lang={contentLang}
+                  />
+                  <Fragment set:html={featureParts.part3} />
+                </>
+              ) : (
+                <Fragment set:html={bodyHtml} />
+              )}
+            </div>
+            <aside class="toc-sidebar" data-pagefind-ignore set:html={tocHtml} />
+          </div>
+        ) : (
+          <div class="markdown-body">
+            {isFeaturesPage && featureParts ? (
+              <>
+                <Fragment set:html={featureParts.part0} />
+                <ProfileBlock
+                  site={site}
+                  lang={contentLang}
+                  avatarUrl={avatarUrl}
+                  avatarTop={avatarTop}
+                  defaultLang={defaultLang}
+                />
+                <Fragment set:html={featureParts.part1} />
+                <GithubBlock
+                  view={githubView}
+                  lang={contentLang}
+                  accent={accent}
+                  showContributions={site.github.show_contributions !== false}
+                />
+                <Fragment set:html={featureParts.part2} />
+                <RssBlock
+                  view={rssView}
+                  title={resolveText(site.rss?.block_title ?? 'RSS', contentLang, defaultLang)}
+                  lang={contentLang}
+                />
+                <Fragment set:html={featureParts.part3} />
+              </>
+            ) : (
+              <Fragment set:html={bodyHtml} />
+            )}
+          </div>
+        )}
+      </article>
+  )}
+</BaseLayout>

@@ -1,0 +1,91 @@
+---
+import { withBase } from '../lib/base-url.ts';
+import { getUiLabels } from '../lib/ui-i18n.ts';
+
+interface Props {
+  card: {
+    delay: number;
+    label: string;
+    title: string;
+    description: string;
+    image: string;
+  };
+  lang?: string;
+}
+
+const { card, lang = 'en' } = Astro.props;
+const image = withBase(card.image);
+const ui = getUiLabels(lang);
+---
+
+<aside class="intro-card" data-delay={card.delay} aria-live="polite">
+  <button class="intro-close" type="button" aria-label={ui.contactCard.close}>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+      <path d="M6 6l12 12M18 6L6 18" />
+    </svg>
+  </button>
+  <button class="intro-content" type="button" aria-haspopup="dialog">
+    <span class="intro-text">
+      <span class="intro-label">{card.label}</span>
+      <span class="intro-title">{card.title}</span>
+      {card.description && <span class="intro-description">{card.description}</span>}
+    </span>
+    <span class="intro-qr">
+      <img src={image} alt="" loading="lazy" />
+    </span>
+  </button>
+</aside>
+
+<dialog class="qr-modal" aria-labelledby="qr-modal-title">
+  <div class="qr-modal-card">
+    <h2 id="qr-modal-title">{card.title}</h2>
+    <img class="qr-modal-image" src={image} alt="" />
+    {card.description && <p>{card.description}</p>}
+    <button class="editorial-button outline" type="button" data-qr-close>
+      <span>{ui.contactCard.qrClose}</span>
+    </button>
+  </div>
+</dialog>
+
+<script>
+  function initContactCards() {
+    for (const root of document.querySelectorAll<HTMLElement>('.intro-card:not([data-card-init])')) {
+      root.dataset.cardInit = '1';
+      const modal = root.nextElementSibling instanceof HTMLDialogElement ? root.nextElementSibling : null;
+      const show = () => root.classList.add('visible');
+      const timer = window.setTimeout(show, Number(root.dataset.delay) || 6000);
+      root.querySelector<HTMLButtonElement>('.intro-close')?.addEventListener('click', () => {
+        window.clearTimeout(timer);
+        root.classList.remove('visible');
+        window.setTimeout(() => {
+          root.remove();
+          modal?.remove();
+        }, 450);
+      });
+      // 关闭先播 150ms 淡出动画（.closing），结束后再真正 close()；与 CSS 时长对应
+      const closeModal = () => {
+        if (!modal || modal.classList.contains('closing')) return;
+        modal.classList.add('closing');
+        window.setTimeout(() => {
+          modal.classList.remove('closing');
+          modal.close();
+        }, 160);
+      };
+      root.querySelector<HTMLButtonElement>('.intro-content')?.addEventListener('click', () => {
+        modal?.showModal();
+      });
+      modal?.querySelector<HTMLButtonElement>('[data-qr-close]')?.addEventListener('click', closeModal);
+      modal?.addEventListener('click', (event) => {
+        if (event.target === modal) closeModal();
+      });
+      // Esc 走原生 cancel 事件，拦下来统一播关闭动画
+      modal?.addEventListener('cancel', (event) => {
+        event.preventDefault();
+        closeModal();
+      });
+    }
+  }
+
+  initContactCards();
+  document.addEventListener('astro:page-load', initContactCards);
+</script>
