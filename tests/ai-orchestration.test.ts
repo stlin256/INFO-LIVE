@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it } from 'vitest';
-import { summarizeWithAI } from '../scripts/ai-summarizer.mjs';
+import { splitArticleIntoChunks, summarizeWithAI } from '../scripts/ai-summarizer.mjs';
 
 const originalFetch = globalThis.fetch;
 const originalKey = process.env.AI_API_KEY;
@@ -20,6 +20,15 @@ function modelResponse(value: unknown) {
   });
 }
 
+describe('AI article chunking', () => {
+  it('splits long articles at paragraph boundaries without exceeding the local budget', () => {
+    const chunks = splitArticleIntoChunks('第一段。'.repeat(900) + '\n\n' + '第二段。'.repeat(900), 1000);
+    expect(chunks.length).toBeGreaterThan(1);
+    expect(chunks.every((chunk) => chunk.length <= 1000)).toBe(true);
+    expect(chunks.join('\n\n')).toContain('第二段。');
+  });
+});
+
 describe('AI orchestration integration', () => {
   it('runs bounded article experts in parallel and keeps overview prompts compact', async () => {
     process.env.AI_API_KEY = 'test-key';
@@ -29,7 +38,7 @@ describe('AI orchestration integration', () => {
       const prompt = JSON.parse(String(options?.body ?? '{}')).messages[0].content as string;
       prompts.push(prompt);
       if (prompt.includes('专业通讯社译者')) {
-        return modelResponse({ translatedTitle: '目标语言标题', originalTitle: 'Original headline', fullTranslation: '完整目标语言全文', notes: [] });
+        return modelResponse({ translatedTitle: '目标语言标题', originalTitle: 'Original headline', fullTranslation: '完整目标语言全文，包含事实背景、相关主体、时间信息与后续影响。'.repeat(8) + '\n\n' + '译文第二段补充官方回应、证据范围与仍待核实事项。'.repeat(8), notes: [] });
       }
       if (prompt.includes('事实核验编辑')) {
         return modelResponse({ facts: [{ claim: '可核验事实', status: 'confirmed', source: 'Example' }], entities: [], unverified: [], evidence: [{ quote: '证据片段', url: 'https://example.test/story' }] });

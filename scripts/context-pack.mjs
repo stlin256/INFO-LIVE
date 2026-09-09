@@ -206,6 +206,9 @@ function normalizeArticle(articleInput) {
     url,
     snippet: cleanText(firstDefined(article, ['snippet', 'summary', 'description', 'excerpt'], '')),
     fullContent,
+    contentStatus: safeString(firstDefined(article, ['contentStatus', 'content_status'], 'missing')),
+    contentSource: safeString(firstDefined(article, ['contentSource', 'content_source'], 'rss')),
+    contentParagraphs: numeric(firstDefined(article, ['contentParagraphs', 'content_paragraphs'], 0)),
     imageUrl: scrubUrl(firstDefined(article, ['imageUrl', 'image', 'image_url'], '')) || null,
   };
 }

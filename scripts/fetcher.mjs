@@ -2,6 +2,7 @@
  * InfoLive 多源新闻与数据抓取模块
  */
 import Parser from 'rss-parser';
+import { JSDOM } from 'jsdom';
 
 // 配置代理（本地环境使用代理，CI 中自动忽略）
 const proxy = process.env.HTTP_PROXY || process.env.HTTPS_PROXY || process.env.http_proxy || process.env.https_proxy || (process.platform === 'win32' && !process.env.CI ? 'http://127.0.0.1:7897' : undefined);
@@ -69,45 +70,153 @@ export function cleanHtmlToParagraphs(rawHtml) {
     .join('\n\n');
 }
 
-export async function fetchArticleBody(url) {
+export const ARTICLE_BODY_MIN_CHARS = 320;
+export const ARTICLE_BODY_MAX_CHARS = 18000;
+export const ARTICLE_BODY_MIN_PARAGRAPHS = 2;
+
+export function countContentParagraphs(text) {
+  return String(text || '').split(/\n\s*\n/).map((part) => part.trim()).filter(Boolean).length;
+}
+
+export function contentStatusOf(text) {
+  const value = String(text || '').trim();
+  if (!value) return 'missing';
+  const paragraphs = countContentParagraphs(value);
+  return value.length >= ARTICLE_BODY_MIN_CHARS && (paragraphs >= ARTICLE_BODY_MIN_PARAGRAPHS || value.length >= 800) ? 'full' : 'short-source';
+}
+
+function decodeHtmlEntities(value) {
+  return String(value || '')
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;|&apos;/gi, "'")
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(parseInt(code, 16)));
+}
+
+function normalizeArticleParagraph(value) {
+  return decodeHtmlEntities(String(value || '').replace(/\s+/g, ' ').trim());
+}
+
+function articleParagraphsFromHtml(html) {
+  const source = String(html || '');
+  const dom = new JSDOM(source);
+  const document = dom.window.document;
+  const boilerplate = /cookie|privacy policy|terms of use|newsletter|subscribe|sign up|advertisement|all rights reserved|read more|share this|follow us|menu|navigation|login|register|cookie|订阅|导航|登录|广告/i;
+  const selectors = [
+    '[itemprop="articleBody"]',
+    'article',
+    'main',
+    '.article-body',
+    '.article-content',
+    '.story-body',
+    '.story-content',
+    '.entry-content',
+    '.post-content',
+  ];
+  const candidates = [];
+  for (const script of document.querySelectorAll('script[type="application/ld+json"]')) {
+    try {
+      const parsed = JSON.parse(script.textContent || 'null');
+      const values = Array.isArray(parsed) ? parsed : [parsed];
+      for (const value of values) {
+        const body = value && typeof value === 'object' ? value.articleBody : null;
+        if (typeof body === 'string' && body.trim()) {
+          const paragraphs = body.split(/\n\s*\n/).map(normalizeArticleParagraph).filter((paragraph) => paragraph.length >= 20 && !boilerplate.test(paragraph));
+          if (paragraphs.length > 0) candidates.push(paragraphs);
+        }
+      }
+    } catch {
+      // Invalid JSON-LD is common on publisher pages; continue with semantic HTML.
+    }
+  }
+  const seenScopes = new Set();
+  for (const selector of selectors) {
+    for (const scope of document.querySelectorAll(selector)) {
+      if (seenScopes.has(scope)) continue;
+      seenScopes.add(scope);
+      const paragraphs = [...scope.querySelectorAll('p, [data-testid="paragraph"], [class*="paragraph"]')]
+        .map((node) => normalizeArticleParagraph(node.textContent))
+        .filter((paragraph) => paragraph.length >= 20 && !boilerplate.test(paragraph));
+      const unique = [...new Map(paragraphs.map((paragraph) => [paragraph.toLowerCase(), paragraph])).values()];
+      if (unique.length > 0) candidates.push(unique);
+    }
+  }
+  // Some feeds expose a plain article body without semantic containers. Use all
+  // paragraphs only as the final fallback, after scoped extraction attempts.
+  if (candidates.length === 0) {
+    const paragraphs = [...document.querySelectorAll('p')]
+      .map((node) => normalizeArticleParagraph(node.textContent))
+      .filter((paragraph) => paragraph.length >= 20 && !boilerplate.test(paragraph));
+    if (paragraphs.length > 0) candidates.push([...new Map(paragraphs.map((paragraph) => [paragraph.toLowerCase(), paragraph])).values()]);
+  }
+  candidates.sort((left, right) => right.reduce((sum, value) => sum + value.length, 0) - left.reduce((sum, value) => sum + value.length, 0));
+  return candidates[0] || [];
+}
+/** 从信源官方原语言文章页补抓正文；RSS 只有摘要时由 fetchAllFeeds 调用。 */
+export async function fetchArticleBody(url, { fetchImpl = fetch, timeoutMs = 9000 } = {}) {
   if (!url) return null;
   try {
-    const res = await fetch(url, {
+    const res = await fetchImpl(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 InfoLive/1.0',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+        Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
       },
-      signal: AbortSignal.timeout(4500)
+      signal: AbortSignal.timeout(timeoutMs),
     });
     if (!res.ok) return null;
-    const html = await res.text();
-    const matches = [...html.matchAll(/<p[^>]*>(.*?)<\/p>/gi)]
-      .map((m) => m[1].replace(/<[^>]+>/g, ' ').replace(/&[a-z]+;/g, ' ').trim())
-      .filter((p) => p.length > 35 && !/cookie|privacy|newsletter|subscribe|all rights reserved/i.test(p));
-    if (matches.length >= 2) {
-      return matches.slice(0, 12).join('\n\n');
-    }
+    const body = articleParagraphsFromHtml(await res.text()).join('\n\n').slice(0, ARTICLE_BODY_MAX_CHARS);
+    return body || null;
   } catch {
-    // 降级使用 RSS 提取内容
+    return null;
   }
-  return null;
+}
+
+/** 以有界并发补齐 RSS 摘要过短的文章，避免一次性请求全部页面。 */
+export async function enrichArticleBodies(items, { fetchImpl = fetch, maxItems = 120, concurrency = 5 } = {}) {
+  const candidates = items
+    .filter((item) => (item.contentStatus || contentStatusOf(item.fullContent)) !== 'full')
+    .map((item, index) => ({ item, index, time: Date.parse(item.pubDate || item.publishedAt || '') || 0, weight: Number(item.weight) || 0 }))
+    .sort((left, right) => right.time - left.time || right.weight - left.weight || left.index - right.index)
+    .slice(0, maxItems)
+    .map(({ item }) => item);
+  const queue = [...candidates];
+  async function worker() {
+    while (queue.length > 0) {
+      const item = queue.shift();
+      if (!item) return;
+      const body = await fetchArticleBody(item.link, { fetchImpl });
+      if (body && body.length > String(item.fullContent || '').length) {
+        item.fullContent = body;
+        item.contentSource = 'official-page';
+      }
+      item.contentStatus = contentStatusOf(item.fullContent);
+      item.contentParagraphs = countContentParagraphs(item.fullContent);
+    }
+  }
+  const workers = Math.max(1, Math.min(concurrency, candidates.length || 1));
+  await Promise.all(Array.from({ length: workers }, () => worker()));
+  return items;
 }
 
 export function formatPubTime(dateStr) {
   if (!dateStr) return '';
-  const d = new Date(dateStr);
-  if (isNaN(d.getTime())) return '';
-  // 转换为北京时间 (UTC+8)
-  const utc = d.getTime() + (d.getTimezoneOffset() * 60000);
-  const beijing = new Date(utc + (3600000 * 8));
-  const pad = (n) => String(n).padStart(2, '0');
-  const mm = pad(beijing.getMonth() + 1);
-  const dd = pad(beijing.getDate());
-  const hh = pad(beijing.getHours());
-  const min = pad(beijing.getMinutes());
-  return `${mm}-${dd} ${hh}:${min}`;
+  const date = new Date(dateStr);
+  if (Number.isNaN(date.getTime())) return '';
+  const parts = new Intl.DateTimeFormat('zh-CN', {
+    timeZone: 'Asia/Shanghai',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    hourCycle: 'h23',
+  }).formatToParts(date);
+  const values = Object.fromEntries(parts.filter((part) => part.type !== 'literal').map((part) => [part.type, part.value]));
+  return `${values.month}-${values.day} ${values.hour}:${values.minute}`;
 }
-
 export function getBeijingTime() {
   const now = new Date();
   const beijing = new Date(now.getTime() + (8 * 60 + now.getTimezoneOffset()) * 60000);
@@ -184,6 +293,9 @@ export async function fetchAllFeeds(sources) {
             pubTimeFormatted,
             snippet,
             fullContent: fullContent || snippet,
+            contentSource: 'rss',
+            contentStatus: contentStatusOf(fullContent || snippet),
+            contentParagraphs: countContentParagraphs(fullContent || snippet),
             imageUrl,
             sourceName: source.name,
             sourceSlug: source.slug,
@@ -192,8 +304,7 @@ export async function fetchAllFeeds(sources) {
             weight: source.weight
           };
         }).filter((it) => it.title && it.link);
-
-        console.log(`  ✓ [${source.name}] Fetched ${items.length} items`);
+        console.log(`  ✓ [${source.name}] Fetched ${items.length} items (rss-full=${items.filter((item) => item.contentStatus === 'full').length}, needs-body=${items.filter((item) => item.contentStatus !== 'full').length})`);
         results.push(...items);
       } catch (err) {
         console.warn(`  ✗ [${source.name}] Fetch failed: ${err.message}`);
@@ -202,6 +313,11 @@ export async function fetchAllFeeds(sources) {
   }
 
   await Promise.all(Array.from({ length: concurrency }, () => worker()));
+  const beforeEnrichment = results.filter((item) => item.contentStatus !== 'full').length;
+  const enrichLimit = Number.parseInt(process.env.ARTICLE_BODY_ENRICH_LIMIT || '180', 10);
+  await enrichArticleBodies(results, { maxItems: Number.isInteger(enrichLimit) && enrichLimit > 0 ? enrichLimit : 180, concurrency: 5 });
+  const afterEnrichment = results.filter((item) => item.contentStatus === 'full').length;
+  console.log(`[Fetcher] Official-page enrichment: ${beforeEnrichment} candidates, ${afterEnrichment} full items after enrichment`);
   console.log(`[Fetcher] Total raw items collected: ${results.length}`);
 
   // 按实际发布时间倒序排列（有发布时间的排在前）

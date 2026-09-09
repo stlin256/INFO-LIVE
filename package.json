@@ -34,7 +34,8 @@
     "version": "node scripts/sync-version.mjs && git add data.example/pages",
     "generate:fonts": "tsx scripts/generate-fonts.ts",
     "optimize:critical-css": "tsx scripts/optimize-critical-css.ts",
-    "feed": "node scripts/feed-engine.mjs"
+    "feed": "node scripts/feed-engine.mjs",
+    "verify:content": "node scripts/verify-content.mjs"
   },
   "keywords": [
     "astro",

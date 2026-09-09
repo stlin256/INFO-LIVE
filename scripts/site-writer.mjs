@@ -12,6 +12,7 @@ import path from 'node:path';
 import { getBeijingTime, cleanUrl } from './fetcher.mjs';
 import { SOURCES } from './sources.mjs';
 import { evolveTopics } from './topic-lifecycle.mjs';
+import { storyIdForUrl } from './story-id.mjs';
 
 export function resolveSourceSlug(sourceName, sourceSlug) {
   const s = (sourceSlug || '').toLowerCase().replace(/[^a-z0-9]/g, '');
@@ -163,16 +164,37 @@ export function renderRepoShowcaseCard() {
 </div>`;
 }
 
+function escapeHtml(value) {
+  return String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function renderArticleBodyHtml(value) {
+  const paragraphs = String(value || '').split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
+  if (paragraphs.length === 0) return '<div class="article-body" data-article-body="true"></div>';
+  const html = paragraphs.map((paragraph) => `<p>${escapeHtml(paragraph).replace(/\n/g, '<br />')}</p>`).join('\n');
+  return `<div class="article-body" data-article-body="true">${html}</div>`;
+}
+
 export function renderArticleCard(s) {
   const lines = [];
-  const safeTitle = (s.title || '').replace(/"/g, '&quot;').replace(/\$/g, '&#36;');
-  const safeContent = (s.fullTranslation || s.snippet || '').replace(/\$/g, '&#36;');
+  const title = String(s.title || '');
+  const safeTitle = escapeHtml(title);
+  const contentStatus = s.contentStatus || 'missing';
+  const translationStatus = s.translationStatus || 'source-only';
+  const contentSource = s.contentSource || 'rss';
+  const contentLength = String(s.fullTranslation || s.snippet || '').length;
+  const contentParagraphs = Number(s.translationParagraphs || String(s.fullTranslation || s.snippet || '').split(/\n\s*\n/).filter(Boolean).length);
   const articleUrl = cleanUrl(s.url);
 
-  const storyId = s.id || ('story-' + (s.url || s.title || '').replace(/[^a-zA-Z0-9]/g, '').slice(-12));
+  const storyId = s.id || storyIdForUrl(s.url, s.title);
   lines.push(':::cell');
   lines.push('<div id="' + storyId + '" class="story-anchor"></div>');
-  lines.push('<div class="news-card-header">');
+  lines.push('<div class="news-card-header" data-content-status="' + escapeHtml(contentStatus) + '" data-translation-status="' + escapeHtml(translationStatus) + '" data-content-source="' + escapeHtml(contentSource) + '" data-content-length="' + contentLength + '" data-content-paragraphs="' + contentParagraphs + '" data-published-at="' + escapeHtml(s.publishedAt || '') + '" data-time-source="publication">');
   lines.push('  <div class="news-card-meta-left">');
   lines.push(`    ${renderSourceBadge(s.source, s.sourceSlug)}`);
   if (s.stance) {
@@ -182,28 +204,32 @@ export function renderArticleCard(s) {
     lines.push(`    <span class="dimension-pill">${s.dimensionLabel}</span>`);
   }
   lines.push('  </div>');
-  lines.push(`  <span class="news-meta-time">🕒 ${s.pubTime || '实时'}</span>`);
+  lines.push(`  <span class="news-meta-time">🕒 ${escapeHtml(s.pubTime || '发布时间未知')}</span>`);
   lines.push('</div>');
   lines.push('');
 
   // 1. 中文主标题（目标语言）
-  lines.push(`### [${safeTitle}](${articleUrl})`);
+  lines.push(`### [${safeTitle}](${escapeHtml(articleUrl)})`);
 
   // 2. 原始外文标题原文（小字副标题展示，保障情报真实溯源）
   if (s.originalTitle && s.originalTitle.trim() !== s.title.trim()) {
-    const safeOrig = s.originalTitle.replace(/"/g, '&quot;').replace(/\$/g, '&#36;');
+    const safeOrig = escapeHtml(s.originalTitle);
     lines.push(`<div class="original-title-sub"><span class="orig-tag">原文</span> ${safeOrig}</div>`);
   }
   lines.push('');
 
   // 3. 封面图嵌入
   if (s.imageUrl && /^https?:\/\//i.test(s.imageUrl)) {
-    lines.push(`<div class="article-cover"><img src="${s.imageUrl}" alt="${safeTitle}" loading="lazy" /></div>`);
+    lines.push(`<div class="article-cover"><img src="${escapeHtml(s.imageUrl)}" alt="${safeTitle}" loading="lazy" /></div>`);
     lines.push('');
   }
 
-  // 4. 全文深度编译内容（多段落 400-600 字）
-  lines.push(safeContent);
+  // 4. 正文状态显式呈现：短源不伪装成全篇报道
+  if (contentStatus !== 'full' || translationStatus !== 'full') {
+    const notice = contentStatus === 'missing' ? '未获取到官方正文，暂不生成未经证实的替代内容。' : '官方原文当前仅提供短讯或摘要；以下内容严格限于已获取证据，未补写缺失事实。';
+    lines.push('<div class="article-content-notice" data-content-warning="true">⚠️ ' + notice + '</div>');
+  }
+  lines.push(renderArticleBodyHtml(s.fullTranslation || s.snippet || ''));
   lines.push('');
 
   // 5. 核心研判
@@ -230,7 +256,7 @@ export function renderArticleCard(s) {
   }
 
   // 7. 出处原文跳转链接（新窗口打开）
-  lines.push(`<div class="news-card-footer"><a href="${articleUrl}" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【${s.source}】官方出处原文 ↗</a></div>`);
+  lines.push(`<div class="news-card-footer"><a href="${escapeHtml(articleUrl)}" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【${escapeHtml(s.source)}】官方出处原文 ↗</a></div>`);
   lines.push(':::');
   lines.push('');
   return lines.join('\n');
@@ -245,24 +271,24 @@ export function renderLiveWireStream(ticker = [], topStories = []) {
 
   const storyUrlMap = new Map();
   for (const s of topStories) {
-    const cardId = s.id || ("story-" + (s.url || s.title || "").replace(/[^a-zA-Z0-9]/g, "").slice(-12));
+    const cardId = s.id || storyIdForUrl(s.url, s.title);
     if (s.url) storyUrlMap.set(cleanUrl(s.url), cardId);
   }
 
   for (const t of ticker.slice(0, 32)) {
     const resolved = resolveSourceSlug(t.source, t.sourceSlug);
     const cleanLink = cleanUrl(t.url);
-    const safeText = (t.text || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
-    const safeOrig = (t.originalText || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+    const safeText = escapeHtml(t.text || "");
+    const safeOrig = escapeHtml(t.originalText || "");
     const showOrig = safeOrig && safeOrig !== safeText;
-    const safeSnippet = (t.snippet || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+    const safeSnippet = escapeHtml(t.snippet || "");
     const internalTargetId = storyUrlMap.get(cleanLink);
 
     lines.push("  <div class=\"wire-card\">");
     lines.push("    <div class=\"wire-card-meta\">");
     lines.push("      <span class=\"wire-time-badge\">🕒 " + t.time + "</span>");
-    lines.push("      <span class=\"wire-source-badge\"><img src=\"/assets/sources/" + resolved + ".svg\" class=\"source-icon\" alt=\"" + t.source + "\" width=\"14\" height=\"14\" /> " + t.source + "</span>");
-    lines.push("      <span class=\"wire-dim-badge\">" + (t.dimensionLabel || "🌐 全球要闻") + "</span>");
+    lines.push("      <span class=\"wire-source-badge\"><img src=\"/assets/sources/" + resolved + ".svg\" class=\"source-icon\" alt=\"" + escapeHtml(t.source) + "\" width=\"14\" height=\"14\" /> " + escapeHtml(t.source) + "</span>");
+    lines.push("      <span class=\"wire-dim-badge\">" + escapeHtml(t.dimensionLabel || "🌐 全球要闻") + "</span>");
     lines.push("    </div>");
     lines.push("    <div class=\"wire-card-title\">");
     if (internalTargetId) {
@@ -271,7 +297,7 @@ export function renderLiveWireStream(ticker = [], topStories = []) {
       lines.push("        <span class=\"wire-ext-icon\" style=\"color:var(--accent);\">👇</span>");
       lines.push("      </a>");
     } else {
-      lines.push("      <a href=\"" + cleanLink + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wire-title-link\" title=\"查阅出处一手报道\">");
+      lines.push("      <a href=\"" + escapeHtml(cleanLink) + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wire-title-link\" title=\"查阅出处一手报道\">");
       lines.push("        " + safeText);
       lines.push("        <span class=\"wire-ext-icon\">↗</span>");
       lines.push("      </a>");
@@ -289,7 +315,7 @@ export function renderLiveWireStream(ticker = [], topStories = []) {
     } else {
       lines.push("<span style=\"color:var(--text-muted);font-size:0.7rem;\">⚡ 实时权威电讯</span>");
     }
-    lines.push("      <a href=\"" + cleanLink + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wire-source-outbound\"><span>官方出处 ↗</span></a>");
+    lines.push("      <a href=\"" + escapeHtml(cleanLink) + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wire-source-outbound\"><span>官方出处 ↗</span></a>");
     lines.push("    </div>");
     lines.push("  </div>");
   }
@@ -354,7 +380,13 @@ export function writeSiteData(data, rawItems = []) {
     pubTime: s.pubTime || '发布时间未知',
     url: s.url,
     imageUrl: s.imageUrl || null,
+    fullContent: s.fullContent || s.snippet || '',
     fullTranslation: s.fullTranslation || s.snippet || '',
+    contentStatus: s.contentStatus || 'missing',
+    translationStatus: s.translationStatus || 'source-only',
+    contentSource: s.contentSource || 'rss',
+    contentParagraphs: s.contentParagraphs || 0,
+    translationParagraphs: s.translationParagraphs || 0,
     keyTakeaways: s.keyTakeaways || [],
     citations: s.agentEvidence?.citations || [{ source: s.source, url: s.url, publishedAt: s.publishedAt || null }],
   }));
@@ -466,6 +498,11 @@ export function writeSiteData(data, rawItems = []) {
   indexLines.push('由 AI 研判引擎根据全球事态持续演进自主立项、跨 Actions 增量扩充与全景复盘的独家专题（点击卡片或导航 TAB 直达）：');
   indexLines.push('');
   indexLines.push('::::grid{cols=2}');
+  if (activeTopics.length === 0) {
+    indexLines.push(':::cell');
+    indexLines.push('当前 Actions 轮次未形成可持续追踪的专题；系统将依据后续多信源证据自动创建并更新专题。');
+    indexLines.push(':::');
+  }
   for (const tp of activeTopics.slice(0, 4)) {
     indexLines.push(':::cell');
     indexLines.push(`<div class="topic-header"><span class="topic-status-badge">${tp.status || '🔥 追踪中'}</span> <span class="news-meta-time">🕒 更新：${timeInfo.hourOnly}</span></div>`);
@@ -507,7 +544,7 @@ export function writeSiteData(data, rawItems = []) {
   indexLines.push('');
 
   indexLines.push(':::tip');
-  indexLines.push('**关于本页面**：本页面由 **InfoLive 引擎** 每小时全自动调度，从各大国际主流通讯社原版母语电讯、全球AI顶级社区与财经网络爬取一手数据，所有核心文章均为全篇深度编译并保留原始外文标题，绝非简单链接聚合。');
+  indexLines.push('**关于本页面**：本页面由 **InfoLive 引擎** 每小时全自动调度，从各大国际主流通讯社原版母语电讯、全球AI顶级社区与财经网络爬取一手数据，每篇文章均保留官方出处、原始标题与内容状态；只有通过正文与译文门禁的文章才会进入已发布的核心编译卡。');
   indexLines.push(':::');
 
   fs.writeFileSync(path.join(pagesDir, 'index.md'), indexLines.join('\n'), 'utf8');
@@ -537,16 +574,34 @@ export function writeSiteData(data, rawItems = []) {
       '',
       '## ⚖️ 阵营诉求、核心红线与多边博弈',
       '',
-      tp.stanceAnalysis || '',
-      '',
-      '## ⏱️ 关键演进脉络与大事记时间轴',
-      '',
-      '::::timeline{title="事件演化里程碑"}'
     ];
+    const stanceItems = Array.isArray(tp.stanceAnalysis) ? tp.stanceAnalysis : [];
+    if (stanceItems.length > 0) {
+      for (const item of stanceItems) {
+        const side = item.side || item.stakeholder || item.name || '相关方';
+        const focus = item.focus || item.viewpoint || item.analysis || item.summary || '';
+        topicLines.push(`- **${side}**：${focus}`);
+      }
+    } else if (typeof tp.stanceAnalysis === 'string' && tp.stanceAnalysis.trim()) {
+      topicLines.push(tp.stanceAnalysis);
+    } else {
+      topicLines.push('当前专题尚未积累足够的多方原文，立场对照将在后续 Actions 轮次补齐。');
+    }
+    topicLines.push('', '## ⏱️ 关键演进脉络与大事记时间轴', '', '::::timeline{title="事件演化里程碑"}');
 
-    for (const ev of tp.timeline || []) {
-      topicLines.push(`:::timeline-item{start="${ev.time}" title="${ev.title}" org="TOPIC"}`);
-      topicLines.push(ev.desc || '');
+    const timeline = Array.isArray(tp.timeline) ? tp.timeline : [];
+    if (timeline.length > 0) {
+      for (const ev of timeline) {
+        const start = ev.time || ev.date || ev.start || '待定';
+        const title = ev.title || ev.name || '未命名事件';
+        const detail = ev.desc || ev.description || ev.summary || ev.detail || '';
+        topicLines.push(`:::timeline-item{start="${start}" title="${title}" org="TOPIC"}`);
+        topicLines.push(detail || '该节点已记录，详情以关联官方原文为准。');
+        topicLines.push(':::');
+      }
+    } else {
+      topicLines.push(':::timeline-item{start="待更新" title="等待新的可验证事件节点" org="TOPIC"}');
+      topicLines.push('后续轮次将根据带有发布时间和官方出处的文章增量更新事件链。');
       topicLines.push(':::');
     }
     topicLines.push('::::');
@@ -597,7 +652,7 @@ export function writeSiteData(data, rawItems = []) {
     ':::important',
     '### 🌐 全球公众心理与社群情绪综述',
     '',
-    '过去24小时，全球网络社区（Hacker News、Reddit、The Guardian）呈现出鲜明的社会焦虑与民意思潮碰撞。从欧洲老龄化劳工冲突到印尼火山喷发引发的跨国交通恐慌，从水源微塑料无处不在的生态忧虑到 AI 岗位替代带来的职场不安全感，全球公众情绪在技术狂飙与现实生存的夹缝中剧烈激荡。',
+    '本板块只呈现已采集的社区文章、公开讨论与可追溯信源证据。热度、情绪与争议标签在有足够样本和交叉证据后再由编排流程生成，不以固定模板替代事实。',
     ':::',
     '',
     '## 📊 全球公众情绪与社会热度雷达',

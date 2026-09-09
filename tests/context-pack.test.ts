@@ -22,6 +22,9 @@ describe('Context Pack', () => {
         link: 'https://example.com/story',
         snippet: 'A useful summary',
         fullContent: 'The original article body.',
+        contentStatus: 'full',
+        contentSource: 'official-page',
+        contentParagraphs: 3,
       },
       evidence: { citations: [{ source: 'Example News', url: 'https://example.com/story' }] },
     });
@@ -35,6 +38,9 @@ describe('Context Pack', () => {
       sourceLang: 'en',
       publishedAt: '2026-09-09T12:00:00Z',
       url: 'https://example.com/story',
+      contentStatus: 'full',
+      contentSource: 'official-page',
+      contentParagraphs: 3,
     });
     expect(pack.evidence.citations).toHaveLength(1);
     expect(pack.constraints.requiredFields).toEqual(expect.arrayContaining([
