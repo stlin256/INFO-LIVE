@@ -56,4 +56,5 @@ bgm:
   enabled: false
 github:
   username: stlin256
-  pinned: []
+  pinned:
+    - repo: stlin256/INFO-LIVE

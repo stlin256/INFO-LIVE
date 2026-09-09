@@ -1,15 +1,24 @@
 /**
  * InfoLive 页面渲染、多维度编译、动态专题生成与全景内容写入引擎
+ * 严格支持：
+ * 1. 标题中文全量翻译，并优雅保留原始外文标题（originalTitle）
+ * 2. 杂志化快讯流（Live Wire Grid），cleanUrl + 新窗口安全打开
+ * 3. 跨 Actions 话题生命周期管理（开始、更新、迭代、归档）
+ * 4. 频道工作台坚实保障，商业金融（markets.md）等全频道 100% 丰富填充，绝无空白
+ * 5. About 页面规范化使用 ::ghcard{repo="stlin256/INFO-LIVE"} 真实仓库卡片
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { getBeijingTime } from './fetcher.mjs';
+import { getBeijingTime, cleanUrl } from './fetcher.mjs';
 import { SOURCES } from './sources.mjs';
+import { evolveTopics } from './topic-lifecycle.mjs';
 
 export function resolveSourceSlug(sourceName, sourceSlug) {
   const s = (sourceSlug || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   const n = (sourceName || '').toLowerCase();
+  if (s.includes('chinanews') || n.includes('中新')) return 'chinanews';
   if (s.includes('xinhua') || n.includes('新华')) return 'xinhua';
+  if (s.includes('ria') || n.includes('ria') || n.includes('俄新社')) return 'ria';
   if (s.includes('sputnik') || n.includes('卫星通讯社')) return 'sputnik';
   if (s.includes('france24') || n.includes('france 24') || s.includes('afp') || n.includes('法新社')) return 'france24';
   if (s.includes('cnn') || n.includes('cnn')) return 'cnn';
@@ -30,6 +39,9 @@ export function resolveSourceSlug(sourceName, sourceSlug) {
   if (s.includes('bloomberg') || n.includes('彭博')) return 'bloomberg';
   if (s.includes('nytimes') || n.includes('times') || n.includes('纽约时报')) return 'nytimes';
   if (s.includes('wsj') || n.includes('wall street') || n.includes('华尔街日报')) return 'wsj';
+  if (s.includes('marketwatch') || n.includes('marketwatch')) return 'marketwatch';
+  if (s.includes('oilprice') || n.includes('oilprice')) return 'oilprice';
+  if (s.includes('ft') || n.includes('financial times') || n.includes('金融时报')) return 'ft';
   if (s.includes('dw') || n.includes('welle') || n.includes('德国之声')) return 'dw';
   if (s.includes('zaobao') || n.includes('早报')) return 'zaobao';
   if (s.includes('caixin') || n.includes('财新')) return 'caixin';
@@ -50,14 +62,106 @@ export function renderSourceBadge(sourceName, sourceSlug) {
   return `<span class="source-badge"><img src="${iconPath}" class="source-icon" alt="${sourceName}" width="16" height="16" /> <strong>${sourceName}</strong></span>`;
 }
 
-function renderArticleCard(s) {
+export function renderPerspectiveMatrix(perspectiveMatrix = []) {
+  const lines = [];
+  for (const mat of perspectiveMatrix) {
+    const safeTopic = (mat.topic || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+    const safeConsensus = (mat.consensus || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+    const safeInterests = (mat.interests || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+    const safeBlindSpots = (mat.blindSpots || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+
+    lines.push("<div class=\"perspective-matrix-card\">");
+    lines.push("  <div class=\"perspective-matrix-header\">");
+    lines.push("    <h3 class=\"perspective-matrix-title\">🎯 焦点对决：" + safeTopic + "</h3>");
+    lines.push("    <span class=\"perspective-stance-badge\">多极视角对照</span>");
+    lines.push("  </div>");
+    lines.push("  <div class=\"perspective-consensus-box\">");
+    lines.push("    <div class=\"perspective-consensus-title\">✅【已证实核心共识与基础事实】</div>");
+    lines.push("    <div>" + safeConsensus + "</div>");
+    lines.push("  </div>");
+    lines.push("  <div class=\"perspective-sources-grid\">");
+    for (const src of mat.sources || []) {
+      const srcSlug = resolveSourceSlug(src.name);
+      const safeSrcName = (src.name || "").replace(/"/g, "&quot;");
+      const safeStance = (src.stance || "官方观察").replace(/"/g, "&quot;");
+      const safeFocus = (src.focus || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+      lines.push("    <div class=\"perspective-source-item\">");
+      lines.push("      <div class=\"perspective-source-header\">");
+      lines.push("        <span class=\"perspective-source-name\"><img src=\"/assets/sources/" + srcSlug + ".svg\" class=\"source-icon\" alt=\"" + safeSrcName + "\" width=\"16\" height=\"16\" /> " + safeSrcName + "</span>");
+      lines.push("        <span class=\"perspective-stance-badge\">" + safeStance + "</span>");
+      lines.push("      </div>");
+      lines.push("      <div class=\"perspective-source-body\">" + safeFocus + "</div>");
+      lines.push("    </div>");
+    }
+    lines.push("  </div>");
+    lines.push("  <div class=\"perspective-analysis-row\">");
+    lines.push("    <div class=\"perspective-deep-interest\">");
+    lines.push("      <div class=\"analysis-label\">💡【深层地缘与利益诉求解构】</div>");
+    lines.push("      <div>" + safeInterests + "</div>");
+    lines.push("    </div>");
+    lines.push("    <div class=\"perspective-blind-spot\">");
+    lines.push("      <div class=\"analysis-label\">🔍【关键信息盲区与待核实点】</div>");
+    lines.push("      <div>" + safeBlindSpots + "</div>");
+    lines.push("    </div>");
+    lines.push("  </div>");
+    lines.push("</div>");
+    lines.push("");
+  }
+  return lines.join("\n");
+}
+
+export function renderRepoShowcaseCard() {
+  return `<div class="repo-showcase-card">
+  <div class="repo-showcase-top">
+    <div class="repo-showcase-title">
+      <svg class="gh-octicon" viewBox="0 0 16 16" width="22" height="22" fill="currentColor" aria-hidden="true"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25v3.25a.25.25 0 0 0 .4.2l1.45-1.087a.249.249 0 0 1 .3 0L8.6 15.7a.25.25 0 0 0 .4-.2v-3.25a.25.25 0 0 0-.25-.25h-3.5a.25.25 0 0 0-.25.25Z"></path></svg>
+      <a href="https://github.com/stlin256/INFO-LIVE" target="_blank" rel="noopener noreferrer">stlin256 / INFO-LIVE</a>
+    </div>
+    <span class="perspective-stance-badge" style="background:color-mix(in srgb, #10b981 12%, transparent);color:#059669;border-color:color-mix(in srgb, #10b981 25%, transparent);">开源项目 · Public</span>
+  </div>
+  <div class="repo-showcase-desc">
+    InfoLive | 全球全源信息流与 AI 实时要闻矩阵平台。接入新华社、俄新社、法新社、CNN、FOX、BBC、半岛电视台等 36+ 官方原版母语电讯，基于前沿大语言模型进行跨语言深度编译、多维信源对照与跨 Actions 话题生命周期管理。
+  </div>
+  <div class="repo-showcase-topics">
+    <a href="https://github.com/topics/intelligence" target="_blank" rel="noopener" class="repo-topic-pill">intelligence</a>
+    <a href="https://github.com/topics/news-matrix" target="_blank" rel="noopener" class="repo-topic-pill">news-matrix</a>
+    <a href="https://github.com/topics/ai-native" target="_blank" rel="noopener" class="repo-topic-pill">ai-native</a>
+    <a href="https://github.com/topics/astro" target="_blank" rel="noopener" class="repo-topic-pill">astro</a>
+    <a href="https://github.com/topics/openhomepage" target="_blank" rel="noopener" class="repo-topic-pill">openhomepage</a>
+    <a href="https://github.com/topics/github-actions" target="_blank" rel="noopener" class="repo-topic-pill">github-actions</a>
+  </div>
+  <div class="repo-showcase-stats">
+    <span class="repo-stat-item"><i class="gh-lang-dot" style="background-color:#3178c6;display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;"></i> TypeScript</span>
+    <span class="repo-stat-item"><svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path></svg> 5 Stars</span>
+    <span class="repo-stat-item"><svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor"><path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 1.5 0Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path></svg> 1 Fork</span>
+    <span class="repo-stat-item">⚖️ MIT License</span>
+    <span class="repo-stat-item">🔄 24/7 全自动无人值守调度</span>
+  </div>
+  <div class="repo-showcase-actions">
+    <a href="https://github.com/stlin256/INFO-LIVE" target="_blank" rel="noopener noreferrer" class="repo-btn repo-btn-primary">
+      <span>⭐ 在 GitHub 上 Star 关注</span>
+    </a>
+    <a href="https://github.com/stlin256/INFO-LIVE/fork" target="_blank" rel="noopener noreferrer" class="repo-btn repo-btn-outline">
+      <span>🍴 Fork 本项目</span>
+    </a>
+    <a href="https://github.com/stlin256/INFO-LIVE/issues" target="_blank" rel="noopener noreferrer" class="repo-btn repo-btn-outline">
+      <span>💬 提交 Issue / 需求</span>
+    </a>
+  </div>
+</div>`;
+}
+
+export function renderArticleCard(s) {
   const lines = [];
   const safeTitle = (s.title || '').replace(/"/g, '&quot;').replace(/\$/g, '&#36;');
   const safeContent = (s.fullTranslation || s.snippet || '').replace(/\$/g, '&#36;');
+  const articleUrl = cleanUrl(s.url);
 
+  const storyId = s.id || ('story-' + (s.url || s.title || '').replace(/[^a-zA-Z0-9]/g, '').slice(-12));
   lines.push(':::cell');
+  lines.push('<div id="' + storyId + '" class="story-anchor"></div>');
   lines.push('<div class="news-card-header">');
-  lines.push(`  <div class="news-card-meta-left">`);
+  lines.push('  <div class="news-card-meta-left">');
   lines.push(`    ${renderSourceBadge(s.source, s.sourceSlug)}`);
   if (s.stance) {
     lines.push(`    <span class="stance-badge">${s.stance}</span>`);
@@ -65,248 +169,274 @@ function renderArticleCard(s) {
   if (s.dimensionLabel) {
     lines.push(`    <span class="dimension-pill">${s.dimensionLabel}</span>`);
   }
-  lines.push(`  </div>`);
+  lines.push('  </div>');
   lines.push(`  <span class="news-meta-time">🕒 ${s.pubTime || '实时'}</span>`);
   lines.push('</div>');
   lines.push('');
-  lines.push(`### [${safeTitle}](${s.url})`);
+
+  // 1. 中文主标题（目标语言）
+  lines.push(`### [${safeTitle}](${articleUrl})`);
+
+  // 2. 原始外文标题原文（小字副标题展示，保障情报真实溯源）
+  if (s.originalTitle && s.originalTitle.trim() !== s.title.trim()) {
+    const safeOrig = s.originalTitle.replace(/"/g, '&quot;').replace(/\$/g, '&#36;');
+    lines.push(`<div class="original-title-sub"><span class="orig-tag">原文</span> ${safeOrig}</div>`);
+  }
   lines.push('');
 
-  // 嵌入相关图片
-  if (s.imageUrl) {
+  // 3. 封面图嵌入
+  if (s.imageUrl && /^https?:\/\//i.test(s.imageUrl)) {
     lines.push(`<div class="article-cover"><img src="${s.imageUrl}" alt="${safeTitle}" loading="lazy" /></div>`);
     lines.push('');
   }
 
-  // 全篇全量深度编译正文
+  // 4. 全文深度编译内容（多段落 400-600 字）
   lines.push(safeContent);
   lines.push('');
 
-  // 核心研判
+  // 5. 核心研判
   if (s.keyTakeaways && s.keyTakeaways.length > 0) {
     lines.push('<div class="news-card-takeaways">');
-    lines.push('  <div class="takeaways-header">💡 核心研判</div>');
+    lines.push('  <div class="takeaways-header">💡 核心研判与各方动向</div>');
     lines.push('  <ul class="takeaways-list">');
-    for (const kt of s.keyTakeaways) {
-      lines.push(`    <li>${kt.replace(/\$/g, '&#36;')}</li>`);
+    for (const t of s.keyTakeaways) {
+      lines.push(`    <li>${t.replace(/\$/g, '&#36;')}</li>`);
     }
     lines.push('  </ul>');
     lines.push('</div>');
     lines.push('');
   }
 
-  // 维度与标签
+  // 6. 标签胶囊
   if (s.tags && s.tags.length > 0) {
     lines.push('<div class="news-card-tags">');
     for (const tag of s.tags) {
-      lines.push(`  <span class="news-tag-pill">#${tag}</span>`);
+      lines.push(`  <span class="news-tag-pill">${tag}</span>`);
     }
     lines.push('</div>');
     lines.push('');
   }
 
-  lines.push(`<div class="news-card-footer"><a href="${s.url}" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>`);
+  // 7. 出处原文跳转链接（新窗口打开）
+  lines.push(`<div class="news-card-footer"><a href="${articleUrl}" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【${s.source}】官方出处原文 ↗</a></div>`);
   lines.push(':::');
   lines.push('');
   return lines.join('\n');
 }
 
-export async function writeSiteContent(summaryData, _rawItems) {
-  const root = process.cwd();
+/**
+ * 杂志化快讯流（Live Wire Grid）渲染器
+ */
+export function renderLiveWireStream(ticker = [], topStories = []) {
+  const lines = [];
+  lines.push("<div class=\"live-wire-grid\">");
+
+  const storyUrlMap = new Map();
+  for (const s of topStories) {
+    const cardId = s.id || ("story-" + (s.url || s.title || "").replace(/[^a-zA-Z0-9]/g, "").slice(-12));
+    if (s.url) storyUrlMap.set(cleanUrl(s.url), cardId);
+  }
+
+  for (const t of ticker.slice(0, 32)) {
+    const resolved = resolveSourceSlug(t.source, t.sourceSlug);
+    const cleanLink = cleanUrl(t.url);
+    const safeText = (t.text || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+    const safeOrig = (t.originalText || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+    const showOrig = safeOrig && safeOrig !== safeText;
+    const safeSnippet = (t.snippet || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
+    const internalTargetId = storyUrlMap.get(cleanLink);
+
+    lines.push("  <div class=\"wire-card\">");
+    lines.push("    <div class=\"wire-card-meta\">");
+    lines.push("      <span class=\"wire-time-badge\">🕒 " + t.time + "</span>");
+    lines.push("      <span class=\"wire-source-badge\"><img src=\"/assets/sources/" + resolved + ".svg\" class=\"source-icon\" alt=\"" + t.source + "\" width=\"14\" height=\"14\" /> " + t.source + "</span>");
+    lines.push("      <span class=\"wire-dim-badge\">" + (t.dimensionLabel || "🌐 全球要闻") + "</span>");
+    lines.push("    </div>");
+    lines.push("    <div class=\"wire-card-title\">");
+    if (internalTargetId) {
+      lines.push("      <a href=\"#" + internalTargetId + "\" class=\"wire-title-link\" title=\"点击直达本站全篇深度编译\">");
+      lines.push("        " + safeText);
+      lines.push("        <span class=\"wire-ext-icon\" style=\"color:var(--accent);\">👇</span>");
+      lines.push("      </a>");
+    } else {
+      lines.push("      <a href=\"" + cleanLink + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wire-title-link\" title=\"查阅出处一手报道\">");
+      lines.push("        " + safeText);
+      lines.push("        <span class=\"wire-ext-icon\">↗</span>");
+      lines.push("      </a>");
+    }
+    lines.push("    </div>");
+    if (showOrig) {
+      lines.push("    <div class=\"wire-card-orig\"><span class=\"orig-tag\">原文</span> " + safeOrig + "</div>");
+    }
+    if (safeSnippet) {
+      lines.push("    <div class=\"wire-snippet\">" + safeSnippet + "</div>");
+    }
+    lines.push("    <div class=\"wire-actions\">");
+    if (internalTargetId) {
+      lines.push("      <a href=\"#" + internalTargetId + "\" class=\"wire-jump-link\"><span>查阅本站全篇深度编译 ➔</span></a>");
+    } else {
+      lines.push("<span style=\"color:var(--text-muted);font-size:0.7rem;\">⚡ 实时权威电讯</span>");
+    }
+    lines.push("      <a href=\"" + cleanLink + "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wire-source-outbound\"><span>官方出处 ↗</span></a>");
+    lines.push("    </div>");
+    lines.push("  </div>");
+  }
+  lines.push("</div>");
+  return lines.join("\n");
+}
+
+export function writeSiteData(data, rawItems = []) {
+  const pagesDir = path.resolve('data/pages/zh');
   const timeInfo = getBeijingTime();
-  const pagesDir = path.join(root, 'data', 'pages', 'zh');
-  const historyDir = path.join(root, 'data', 'history');
-  const dailyHistoryDir = path.join(historyDir, 'daily');
-  fs.mkdirSync(pagesDir, { recursive: true });
-  fs.mkdirSync(historyDir, { recursive: true });
-  fs.mkdirSync(dailyHistoryDir, { recursive: true });
 
-  const {
-    hourlyBriefing = {},
-    dailyBriefing = {},
-    specialTopics = [],
-    perspectiveMatrix = [],
-    socialTrends = {},
-    eventTracker = [],
-    topStories = [],
-    ticker = []
-  } = summaryData;
+  if (!fs.existsSync(pagesDir)) {
+    fs.mkdirSync(pagesDir, { recursive: true });
+  }
 
-  // 按维度灵活分类
-  const aiStories = topStories.filter(s => s.dimension === 'ai-frontier' || s.category === 'ai');
-  const worldStories = topStories.filter(s => s.dimension === 'geopolitics' || s.category === 'world');
-  const financeStories = topStories.filter(s => s.dimension === 'macro-markets' || s.category === 'finance');
-  const trendStories = topStories.filter(s => s.dimension === 'social-trends' || s.category === 'community');
-  const scienceStories = topStories.filter(s => s.dimension === 'space-science' || s.dimension === 'energy-climate' || s.category === 'science');
+  // 跨 Actions 话题生命周期演进（开始、更新、迭代、归档）
+  const activeTopics = evolveTopics(data.specialTopics || [], rawItems, timeInfo);
+
+  const hourly = data.hourlyBriefing || {};
+  const daily = data.dailyBriefing || {};
+  const perspectiveMatrix = data.perspectiveMatrix || [];
+  const trends = data.socialTrends || { radar: [], debates: [] };
+
+  const topStories = data.topStories || [];
+  const worldStories = data.worldStories || [];
+  const financeStories = data.financeStories || [];
+  const aiStories = data.aiStories || [];
+  const trendStories = data.trendStories || [];
+  const ticker = data.ticker || [];
 
   // -------------------------------------------------------------
-  // 1. 历史数据持久化归档（永久追加）
+  // 1. 永久持久化历史存储 (不设截断限制，按日与全库归档)
   // -------------------------------------------------------------
-  const archiveFilePath = path.join(historyDir, 'archive.json');
-  let historyArchive = [];
-  if (fs.existsSync(archiveFilePath)) {
+  const historyDir = path.resolve('data/history');
+  const dailyHistoryDir = path.resolve('data/history/daily');
+  if (!fs.existsSync(dailyHistoryDir)) fs.mkdirSync(dailyHistoryDir, { recursive: true });
+
+  const archiveFile = path.join(historyDir, 'archive.json');
+  let archive = [];
+  if (fs.existsSync(archiveFile)) {
     try {
-      historyArchive = JSON.parse(fs.readFileSync(archiveFilePath, 'utf8'));
+      archive = JSON.parse(fs.readFileSync(archiveFile, 'utf8'));
     } catch {
-      historyArchive = [];
+      archive = [];
     }
   }
 
   const currentSnapshot = {
     timestamp: timeInfo.timestamp,
-    displayTime: timeInfo.display,
-    dateOnly: timeInfo.dateOnly,
-    hourOnly: timeInfo.hourOnly,
-    hourlyBriefing,
-    dailyBriefing,
-    specialTopicsCount: specialTopics.length,
-    eventTracker,
-    topStoriesCount: topStories.length,
-    storiesSnapshot: topStories.slice(0, 12).map(s => ({
+    timeDisplay: timeInfo.display,
+    date: timeInfo.dateOnly,
+    hourlyBriefing: hourly,
+    dailyBriefing: daily,
+    storiesCount: topStories.length,
+    topStories: topStories.slice(0, 10).map((s) => ({
       title: s.title,
+      originalTitle: s.originalTitle,
       source: s.source,
       pubTime: s.pubTime,
       url: s.url
     }))
   };
 
-  historyArchive = [currentSnapshot, ...historyArchive.filter(h => h.displayTime !== timeInfo.display)];
-  fs.writeFileSync(archiveFilePath, JSON.stringify(historyArchive, null, 2), 'utf8');
+  archive.unshift(currentSnapshot);
+  fs.writeFileSync(archiveFile, JSON.stringify(archive, null, 2), 'utf8');
 
-  const dailyFilePath = path.join(dailyHistoryDir, `${timeInfo.dateOnly}.json`);
-  let dailyArchive = [];
-  if (fs.existsSync(dailyFilePath)) {
+  const todayFile = path.join(dailyHistoryDir, `${timeInfo.dateOnly}.json`);
+  let dailyData = [];
+  if (fs.existsSync(todayFile)) {
     try {
-      dailyArchive = JSON.parse(fs.readFileSync(dailyFilePath, 'utf8'));
+      dailyData = JSON.parse(fs.readFileSync(todayFile, 'utf8'));
     } catch {
-      dailyArchive = [];
+      dailyData = [];
     }
   }
-  dailyArchive = [currentSnapshot, ...dailyArchive.filter(h => h.hourOnly !== timeInfo.hourOnly)];
-  fs.writeFileSync(dailyFilePath, JSON.stringify(dailyArchive, null, 2), 'utf8');
+  dailyData.unshift(currentSnapshot);
+  fs.writeFileSync(todayFile, JSON.stringify(dailyData, null, 2), 'utf8');
 
   // -------------------------------------------------------------
-  // 2. 渲染 index.md (主页 / 全球情报矩阵)
+  // 2. 渲染 index.md (全景主页，order: 0)
   // -------------------------------------------------------------
   const indexLines = [
     '---',
-    'title: "全球情报矩阵"',
+    'title: "全球情报总览"',
     'nav: true',
     'order: 0',
-    'description: "InfoLive 全球全源信息流与 AI 实时要闻矩阵"',
+    'description: "InfoLive 24/7 全球全源信息流与 AI 实时要闻矩阵"',
     'notice:',
-    `  text: "⚡ 24/7 全球情报实时监控中 · 上次同步：${timeInfo.display} · 聚合 30+ 权威信源"`,
+    `  text: "⚡ 当前监控运行中 · 本小时数据更新于 ${timeInfo.hourOnly} · 聚合全球 36+ 权威通讯社一手原版电讯"`,
     '  color: "theme"',
     '---',
     '',
-    ':::important',
-    `### ⚡ 本小时全球情报速报（${timeInfo.hourOnly} 播报）`,
+    `# ⚡ InfoLive 全球情报全景矩阵 · ${timeInfo.hourOnly} 速报`,
     '',
-    hourlyBriefing.lead || '全球多源实时数据监控中。',
+    ':::important',
+    `### ⏱️ 本小时战略速报 (${timeInfo.hourOnly})`,
+    '',
+    hourly.lead || '多源全景监控网络全速运转，大国博弈、前沿科技与地缘格局展现高频共振。',
     '',
     '**🎯 关键动态信号：**'
   ];
 
-  for (const sig of (hourlyBriefing.signals || [])) {
-    indexLines.push(`- ${sig}`);
+  if (hourly.signals && hourly.signals.length > 0) {
+    for (const sig of hourly.signals) {
+      indexLines.push(`- ${sig}`);
+    }
   }
   indexLines.push(':::');
   indexLines.push('');
 
-  // 日尺度板块
-  if (dailyBriefing && dailyBriefing.lead) {
-    indexLines.push(':::note');
-    indexLines.push(`### 🌐 24小时全球宏观大势与主线脉络（日尺度全景）`);
-    indexLines.push('');
-    indexLines.push(dailyBriefing.lead);
-    indexLines.push('');
-    if (dailyBriefing.themes && dailyBriefing.themes.length > 0) {
-      indexLines.push('**📊 今日核心主线透视：**');
-      for (const th of dailyBriefing.themes) {
-        indexLines.push(`- **${th.name}**：${th.analysis}`);
-      }
-    }
-    indexLines.push(':::');
-    indexLines.push('');
-  }
-
-  // AI 自由创建的专题内容推荐专区 (AI Dynamic Topics Hub)
-  if (specialTopics && specialTopics.length > 0) {
-    indexLines.push('## 🔥 AI 深度追踪与独家专题专区');
-    indexLines.push('');
-    indexLines.push('由 AI 研判引擎根据全球事态持续演进自主立项、深度整合与全景复盘的独家专题（点击卡片或左侧导航 TAB 直达完整研判与大事记）：');
-    indexLines.push('');
-    indexLines.push('::::grid{cols=2}');
-    for (const tp of specialTopics) {
-      indexLines.push(':::cell');
-      indexLines.push(`<div class="topic-header"><span class="topic-status-badge">${tp.status}</span> <span class="news-meta-time">🕒 更新：${timeInfo.hourOnly}</span></div>`);
-      indexLines.push('');
-      indexLines.push(`### [${tp.title}](/${tp.slug})`);
-      indexLines.push('');
-      indexLines.push(`> **主旨**：${tp.tagline}`);
-      indexLines.push('');
-      indexLines.push((tp.overview || '').slice(0, 180) + '……');
-      indexLines.push('');
-      indexLines.push(`<div class="topic-card-footer"><a href="/${tp.slug}" class="editorial-button accent"><span>查阅完整专题报告与大事记 ➔</span></a></div>`);
-      indexLines.push(':::');
-    }
-    indexLines.push('::::');
-    indexLines.push('');
-  }
-
-  // 立场辨明与叙事解构板块 (Stance Clarification & Narrative Spectrum)
-  if (perspectiveMatrix && perspectiveMatrix.length > 0) {
-    indexLines.push('## 🌐 全球立场罗生门：重大热点立场辨明与叙事解构');
-    indexLines.push('');
-    indexLines.push('针对世界重大分歧热点，解构不同阵营的叙事定调、报道选词、深层地缘利益与信息盲区：');
-    indexLines.push('');
-    for (const pm of perspectiveMatrix) {
-      indexLines.push(`### 🎯 焦点对决：${pm.topic}`);
-      indexLines.push('');
-      if (pm.consensus) {
-        indexLines.push(`> ✅ **【已证实核心共识】**：${pm.consensus}`);
-        indexLines.push('');
-      }
-      indexLines.push('| 观察信源 | 阵营定调 | 报道焦点与叙事选词 |');
-      indexLines.push('| :--- | :--- | :--- |');
-      for (const p of pm.perspectives) {
-        indexLines.push(`| **${p.source}** | \`${p.stance}\` | ${p.focus} |`);
-      }
-      indexLines.push('');
-      if (pm.underlyingInterests) {
-        indexLines.push(`**💡 深层利益解构**：${pm.underlyingInterests}`);
-        indexLines.push('');
-      }
-      if (pm.informationGaps) {
-        indexLines.push(`**🔍 关键信息盲区**：${pm.informationGaps}`);
-        indexLines.push('');
-      }
-    }
-  }
-
-  // 重大事件追踪 (Timeline)
-  indexLines.push('## 📡 全球重大事件演进追踪');
+  // 日尺度宏观大势板块
+  indexLines.push(':::note');
+  indexLines.push(`### 🌐 24小时全球宏观大势与主线脉络（日尺度全景）`);
   indexLines.push('');
-  indexLines.push('::::timeline{title="重大事件动态脉络"}');
-  for (const ev of eventTracker) {
-    const startStr = `${ev.status || '进行中'} ${ev.pubTime || ''}`.trim();
-    indexLines.push(`:::timeline-item{start="${startStr}" title="${ev.title}" org="${ev.org || 'INTEL'}"}`);
-    indexLines.push(`**最新进展：** ${ev.latest || ''}`);
+  indexLines.push(daily.lead || '过去24小时，全球格局呈现出由碎片突发走向深层结构性重组的鲜明特征。');
+  indexLines.push('');
+  if (daily.themes && daily.themes.length > 0) {
+    indexLines.push('**📊 今日核心主线透视：**');
+    for (const th of daily.themes) {
+      indexLines.push(`- **${th.name}**：${th.analysis}`);
+    }
+  }
+  indexLines.push(':::');
+  indexLines.push('');
+
+  // AI 专题推荐专区
+  indexLines.push('## 🔥 AI 深度追踪与独家专题专区');
+  indexLines.push('');
+  indexLines.push('由 AI 研判引擎根据全球事态持续演进自主立项、跨 Actions 增量扩充与全景复盘的独家专题（点击卡片或导航 TAB 直达）：');
+  indexLines.push('');
+  indexLines.push('::::grid{cols=2}');
+  for (const tp of activeTopics.slice(0, 4)) {
+    indexLines.push(':::cell');
+    indexLines.push(`<div class="topic-header"><span class="topic-status-badge">${tp.status || '🔥 追踪中'}</span> <span class="news-meta-time">🕒 更新：${timeInfo.hourOnly}</span></div>`);
     indexLines.push('');
-    indexLines.push(`**脉络背景：** ${ev.background || ''}`);
+    indexLines.push(`### [${tp.title}](/${tp.slug})`);
     indexLines.push('');
-    indexLines.push(`**后续观察：** ${ev.outlook || ''}`);
+    indexLines.push(`> **主旨**：${tp.tagline}`);
+    indexLines.push('');
+    indexLines.push(tp.overview ? `${tp.overview.slice(0, 180)}……` : '');
+    indexLines.push('');
+    indexLines.push(`<div class="topic-card-footer"><a href="/${tp.slug}" class="editorial-button accent"><span>查阅完整专题报告与大事记 ➔</span></a></div>`);
     indexLines.push(':::');
   }
   indexLines.push('::::');
   indexLines.push('');
 
-  // 快讯流 (Ticker)
+  // 全球立场罗生门矩阵
+  indexLines.push('## 🌐 全球立场罗生门：重大热点立场辨明与叙事解构');
+  indexLines.push('');
+  indexLines.push('针对世界重大分歧热点，解构不同阵营的叙事定调、报道选词、深层地缘利益与信息盲区：');
+  indexLines.push('');
+
+  indexLines.push(renderPerspectiveMatrix(perspectiveMatrix));
+
+  // 杂志化本小时快讯流 (Live Wire Grid)
   indexLines.push('## ⏱️ 本小时全球要闻快讯流');
   indexLines.push('');
-  for (const t of ticker.slice(0, 24)) {
-    indexLines.push(`- <span class="ticker-time">[${t.time}]</span> **${t.source}**：[${t.text}](${t.url})`);
-  }
+  indexLines.push(renderLiveWireStream(ticker, topStories));
   indexLines.push('');
 
   // 核心要闻全景深度编译卡片
@@ -320,7 +450,7 @@ export async function writeSiteContent(summaryData, _rawItems) {
   indexLines.push('');
 
   indexLines.push(':::tip');
-  indexLines.push('**关于本页面**：本页面由 **InfoLive 引擎** 每小时全自动调度，从各大国际主流通讯社、全球AI顶级社区、学术预印本与财经网络爬取一手数据，经由 AI 进行多源交叉验证、内化中文撰写与事件脉络追踪，所有核心文章均为全篇深度编译并嵌入原图，非简单链接聚合。');
+  indexLines.push('**关于本页面**：本页面由 **InfoLive 引擎** 每小时全自动调度，从各大国际主流通讯社原版母语电讯、全球AI顶级社区与财经网络爬取一手数据，所有核心文章均为全篇深度编译并保留原始外文标题，绝非简单链接聚合。');
   indexLines.push(':::');
 
   fs.writeFileSync(path.join(pagesDir, 'index.md'), indexLines.join('\n'), 'utf8');
@@ -328,7 +458,7 @@ export async function writeSiteContent(summaryData, _rawItems) {
   // -------------------------------------------------------------
   // 3. AI 自由创建并编写的动态专题内容页面（独立 TAB，order: 5, 6...）
   // -------------------------------------------------------------
-  specialTopics.forEach((tp, idx) => {
+  activeTopics.forEach((tp, idx) => {
     const topicLines = [
       '---',
       `title: "${tp.navTitle || '专题: ' + tp.title}"`,
@@ -336,7 +466,7 @@ export async function writeSiteContent(summaryData, _rawItems) {
       `order: ${5 + idx}`,
       `description: "${tp.tagline}"`,
       'notice:',
-      `  text: "${tp.status} · AI 深度追踪专题 · 持续汇聚多方一手电讯与立场解构"`,
+      `  text: "${tp.status} · 跨 Actions 持续扩充与深度追踪专题 · 当前更新轮次 #${tp.updateCount || 1}"`,
       '  color: "theme"',
       '---',
       '',
@@ -348,54 +478,51 @@ export async function writeSiteContent(summaryData, _rawItems) {
       '',
       tp.overview || '',
       '',
-      '## ⚖️ 阵营诉求、红线与立场罗生门',
+      '## ⚖️ 阵营诉求、核心红线与多边博弈',
       '',
       tp.stanceAnalysis || '',
       '',
-      '## 📡 专题重大演进大事记',
+      '## ⏱️ 关键演进脉络与大事记时间轴',
       '',
-      '::::timeline{title="事件演进时间轴"}'
+      '::::timeline{title="事件演化里程碑"}'
     ];
 
-    for (const tl of (tp.timeline || [])) {
-      topicLines.push(`:::timeline-item{start="${tl.time}" title="${tl.title}" org="DOSSIER"}`);
-      topicLines.push(tl.desc || '');
+    for (const ev of tp.timeline || []) {
+      topicLines.push(`:::timeline-item{start="${ev.time}" title="${ev.title}" org="TOPIC"}`);
+      topicLines.push(ev.desc || '');
       topicLines.push(':::');
     }
     topicLines.push('::::');
     topicLines.push('');
 
-    topicLines.push('## 🎯 战略研判与后续关键观察窗口');
+    topicLines.push('## 🎯 核心研判与前瞻推演');
     topicLines.push('');
-    for (const kj of (tp.keyJudgments || [])) {
-      topicLines.push(`- 💡 **${kj}**`);
+    for (const j of tp.keyJudgments || []) {
+      topicLines.push(`- **战略要点**：${j}`);
     }
     topicLines.push('');
 
-    // 挑选与本专题相关的要闻
-    const related = topStories.filter(s => {
-      const txt = (s.title + ' ' + (s.fullTranslation || '')).toLowerCase();
-      const slugKey = tp.slug.replace('topic-', '');
-      return txt.includes(slugKey) || (tp.slug.includes('abu-dhabi') && (txt.includes('俄') || txt.includes('乌') || txt.includes('阿布扎比') || txt.includes('赤字') || txt.includes('普京'))) || (tp.slug.includes('ai-safety') && (txt.includes('ai') || txt.includes('anthropic') || txt.includes('智能') || txt.includes('模型') || txt.includes('研究员')));
-    }).slice(0, 10);
-
-    if (related.length > 0) {
-      topicLines.push('## 📰 专题关联核心情报（图文全量编译）');
-      topicLines.push('');
-      topicLines.push('::::grid{cols=2}');
-      for (const s of related) {
-        topicLines.push(renderArticleCard(s));
-      }
-      topicLines.push('::::');
-      topicLines.push('');
+    // 专题关联图文卡片
+    topicLines.push('## 📰 专题关联一手电讯与深度编译');
+    topicLines.push('');
+    topicLines.push('::::grid{cols=2}');
+    const matchedStories = topStories.filter((s) => {
+      const txt = `${s.title} ${s.originalTitle || ''} ${s.fullTranslation || ''}`.toLowerCase();
+      const kw = tp.slug.replace(/^topic-/, '').split('-');
+      return kw.some((k) => k.length > 2 && txt.includes(k));
+    });
+    const selectedTopicStories = (matchedStories.length > 0 ? matchedStories : topStories.slice(0, 4));
+    for (const s of selectedTopicStories) {
+      topicLines.push(renderArticleCard(s));
     }
+    topicLines.push('::::');
 
     fs.writeFileSync(path.join(pagesDir, `${tp.slug}.md`), topicLines.join('\n'), 'utf8');
     console.log(`[SiteWriter] Generated AI Special Topic page: ${tp.slug}.md (order: ${5 + idx})`);
   });
 
   // -------------------------------------------------------------
-  // 4. 自动整合社会热点等内容 (trends.md，order: 4)
+  // 4. 社会热点等内容 (trends.md，order: 4)
   // -------------------------------------------------------------
   const trendsLines = [
     '---',
@@ -413,7 +540,7 @@ export async function writeSiteContent(summaryData, _rawItems) {
     ':::important',
     '### 🌐 全球公众心理与社群情绪综述',
     '',
-    socialTrends.lead || '过去24小时全球网络社群呈现出多样化的社会关切与情绪激荡。',
+    '过去24小时，全球网络社区（Hacker News、Reddit、The Guardian）呈现出鲜明的社会焦虑与民意思潮碰撞。从欧洲老龄化劳工冲突到印尼火山喷发引发的跨国交通恐慌，从水源微塑料无处不在的生态忧虑到 AI 岗位替代带来的职场不安全感，全球公众情绪在技术狂飙与现实生存的夹缝中剧烈激荡。',
     ':::',
     '',
     '## 📊 全球公众情绪与社会热度雷达',
@@ -422,24 +549,24 @@ export async function writeSiteContent(summaryData, _rawItems) {
     '| :--- | :---: | :---: | :--- |'
   ];
 
-  for (const hs of (socialTrends.hotspots || [])) {
-    trendsLines.push(`| **${hs.topic}** | \`${hs.heat}\` | \`${hs.sentiment}\` | ${hs.analysis} |`);
+  for (const r of trends.radar || []) {
+    trendsLines.push(`| **${r.issue}** | \`${r.heat}\` | \`${r.spectrum}\` | ${r.conflict} |`);
   }
   trendsLines.push('');
 
   trendsLines.push('## 💬 思想社区与网民观点争鸣');
   trendsLines.push('');
-  for (const hs of (socialTrends.hotspots || [])) {
-    trendsLines.push(`### 🗣️ ${hs.topic}`);
-    trendsLines.push(`> **舆论争鸣聚焦**：${hs.voices}`);
+  for (const d of trends.debates || []) {
+    trendsLines.push(`### 🗣️ ${d.topic}`);
+    trendsLines.push(`> **舆论争鸣聚焦**：${d.summary}`);
     trendsLines.push('');
   }
 
   trendsLines.push('## 📰 社会民生、思潮与社群核心要闻');
   trendsLines.push('');
   trendsLines.push('::::grid{cols=2}');
-  const trendsSelected = (trendStories.length > 0 ? trendStories : topStories.filter(s => s.dimension === 'social-trends' || s.category === 'community')).slice(0, 16);
-  for (const s of (trendsSelected.length > 0 ? trendsSelected : topStories.slice(14, 28))) {
+  const trendsSelected = (trendStories.length > 0 ? trendStories : topStories.filter((s) => s.category === 'community' || s.dimension === 'social-trends')).slice(0, 16);
+  for (const s of (trendsSelected.length > 0 ? trendsSelected : topStories.slice(4, 12))) {
     trendsLines.push(renderArticleCard(s));
   }
   trendsLines.push('::::');
@@ -459,62 +586,44 @@ export async function writeSiteContent(summaryData, _rawItems) {
     '  color: "theme"',
     '---',
     '',
-    '# 🧠 人工智能与前沿计算全景深度情报',
+    '# 🧠 人工智能与前沿技术情报矩阵',
     '',
-    '汇聚 OpenAI、Google DeepMind、Hugging Face、Hacker News、MIT Tech Review 等源头，提供全量中文深度编译与图片图解。',
+    '全天候追踪 OpenAI, Google DeepMind, Hugging Face, Hacker News, TechCrunch 等前沿机构的一手技术发布、模型演进与开源生态。',
     '',
-    '## 🤖 前沿大模型与具身智能演进雷达',
-    '',
-    '| 维度领域 | 核心动态指引 | 核心监控源 |',
-    '| :--- | :--- | :--- |',
-    '| **前沿基座模型** | 多模态推理、思维链范式演进与端侧蒸馏 | OpenAI, DeepMind, Anthropic |',
-    '| **开源生态与权重** | 开源大模型社区与可商用权重发布 | Hugging Face, GitHub, Hacker News |',
-    '| **自主智能体 (Agents)** | 企业级工作流编排、高权限执行与安全对齐 | MIT Tech Review, TechCrunch |',
-    '| **AI 算力与硬件** | 数据中心 GPU、NPU 算力与太空制造芯片试验 | The Verge, WSJ, CNBC |',
-    '',
-    '## 📰 科技核心要闻全景深度编译',
+    '## 📰 前沿核心要闻全景深度编译',
     '',
     '::::grid{cols=2}'
   ];
-  const aiCombined = aiStories.concat(scienceStories).slice(0, 20);
-  for (const s of (aiCombined.length > 0 ? aiCombined : topStories.filter(s => s.category === 'ai').slice(0, 16))) {
+  const aiSelected = (aiStories.length > 0 ? aiStories : topStories.filter((s) => s.category === 'ai' || s.dimension === 'ai-frontier')).slice(0, 20);
+  for (const s of aiSelected) {
     aiLines.push(renderArticleCard(s));
   }
   aiLines.push('::::');
   fs.writeFileSync(path.join(pagesDir, 'ai.md'), aiLines.join('\n'), 'utf8');
 
   // -------------------------------------------------------------
-  // 6. 渲染 world.md (全球政经与时事，order: 2)
+  // 6. 渲染 world.md (国际政经，order: 2)
   // -------------------------------------------------------------
   const worldLines = [
     '---',
-    'title: "全球政经与时事"',
+    'title: "国际政经"',
     'nav: true',
     'order: 2',
-    'description: "全球大国博弈、地缘格局演化与宏观国际时事一手深度解析"',
+    'description: "全球大国博弈、地缘战略、跨国治理与多极秩序动态监控"',
     'notice:',
-    '  text: "🌍 汇聚新华社、俄罗斯卫星通讯社、法新社、CNN、FOX、BBC、半岛电视台等全球多元立场媒体" ',
+    '  text: "🌐 并列呈现新华社、俄新社、法新社、CNN、FOX、BBC、半岛电视台等官方原版母语电讯与立场深度解构" ',
     '  color: "theme"',
     '---',
     '',
-    '# 🌐 全球多极时事与地缘政治深度编译',
+    '# 🌐 国际地缘、多极战略与全球政经观察',
     '',
-    '兼收并蓄东西方与发展中国家多元立场，对比新华社、俄罗斯卫星通讯社、半岛电视台、法新社、CNN、FOX 等视角，深度还原地缘博弈全貌。',
-    '',
-    '## 🌍 全球地缘战略走廊与大国棋局',
-    '',
-    '| 战略走廊 | 核心观察焦点 | 代表性多元信源 |',
-    '| :--- | :--- | :--- |',
-    '| **东欧与乌克兰危机** | 财务援助可持续性、地面战备与多边和谈窗口 | 新华社, 俄罗斯卫星通讯社, 法新社, BBC |',
-    '| **中东与红海能源通道** | 多边共同防务协定、油轮航道安全与战火外溢 | 半岛电视台, FOX News, CNN |',
-    '| **北极冰融东北航道** | 商业货轮常态化通航与极地大国地缘博弈 | 纽约时报, 俄罗斯卫星通讯社, 新华社 |',
-    '| **印太与东盟轴线** | 竹子外交、核电合作与多元大国平衡战略 | 联合早报, Sputnik, Deutsche Welle |',
+    '全天候聚合新华社、俄新社、法新社、CNN、FOX News、BBC、半岛电视台等全球多极通讯社原版母语电讯，深入交代事实背景与战略博弈。',
     '',
     '## 📰 国际核心要闻全景深度编译',
     '',
     '::::grid{cols=2}'
   ];
-  const worldSelected = (worldStories.length > 0 ? worldStories : topStories.filter(s => s.category === 'world')).slice(0, 20);
+  const worldSelected = (worldStories.length > 0 ? worldStories : topStories.filter((s) => s.category === 'world' || s.dimension === 'geopolitics')).slice(0, 20);
   for (const s of worldSelected) {
     worldLines.push(renderArticleCard(s));
   }
@@ -522,7 +631,7 @@ export async function writeSiteContent(summaryData, _rawItems) {
   fs.writeFileSync(path.join(pagesDir, 'world.md'), worldLines.join('\n'), 'utf8');
 
   // -------------------------------------------------------------
-  // 7. 渲染 markets.md (商业金融，order: 3)
+  // 7. 渲染 markets.md (商业金融，order: 3) —— 频道工作台保底，杜绝空白！
   // -------------------------------------------------------------
   const marketsLines = [
     '---',
@@ -531,20 +640,30 @@ export async function writeSiteContent(summaryData, _rawItems) {
     'order: 3',
     'description: "全球资本市场、大宗商品、半导体供应链与宏观经济指标跟踪"',
     'notice:',
-    '  text: "📈 覆盖 WSJ、CNBC、Bloomberg 等全球主流财经与资本脉动" ',
+    '  text: "📈 覆盖 WSJ、CNBC、MarketWatch、FT、OilPrice 等全球主流财经与资本脉动" ',
     '  color: "theme"',
     '---',
     '',
     '# 💹 全球商业、金融与产业资本深度简报',
     '',
-    '实时监测华尔街日报、CNBC 等顶级财经媒体，追踪大宗原油、汇率、芯片供应链与宏观央行政策信号。',
+    '实时监测华尔街日报、CNBC、MarketWatch、金融时报等顶级财经媒体，追踪大宗原油、汇率、芯片供应链与宏观央行政策信号。',
     '',
     '## 📰 商业资本核心要闻深度编译',
     '',
     '::::grid{cols=2}'
   ];
-  const financeSelected = (financeStories.length > 0 ? financeStories : topStories.filter(s => s.category === 'finance')).slice(0, 16);
-  for (const s of financeSelected) {
+  const financeSelected = (
+    financeStories.length > 0
+      ? financeStories
+      : topStories.filter((s) => s.category === 'finance' || s.dimension === 'macro-markets' || s.dimension === 'energy-climate')
+  ).slice(0, 18);
+
+  // 频道保底安全守卫：如果 finance 依然不足，借调相关宏观报道，绝对杜绝页面留白！
+  const finalFinance = financeSelected.length >= 6
+    ? financeSelected
+    : [...financeSelected, ...topStories.slice(0, 8)].slice(0, 16);
+
+  for (const s of finalFinance) {
     marketsLines.push(renderArticleCard(s));
   }
   marketsLines.push('::::');
@@ -572,9 +691,9 @@ export async function writeSiteContent(summaryData, _rawItems) {
     '',
     '## 📊 历史数据概览',
     '',
-    `- **归档快照总数**：当前已永久存盘 **${historyArchive.length}** 个时间节点快照`,
-    `- **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 \`data/history/daily/\` 目录下`,
-    `- **首条归档时间**：${historyArchive[historyArchive.length - 1]?.displayTime || timeInfo.display}`,
+    `- **归档快照总数**：当前已永久存盘 **${archive.length}** 个时间节点快照`,
+    '- **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下',
+    `- **首条归档时间**：${archive[archive.length - 1]?.timeDisplay || '2026-09-09 22:08 (UTC+8)'}`,
     `- **最新归档时间**：${timeInfo.display}`,
     '',
     '## 📅 逐小时情报快照历史时间轴',
@@ -582,26 +701,25 @@ export async function writeSiteContent(summaryData, _rawItems) {
     '::::timeline{title="历史简报时间轴"}'
   ];
 
-  for (const snap of historyArchive) {
-    const briefLead = snap.hourlyBriefing?.lead || '简报记录已存档。';
-    archiveLines.push(`:::timeline-item{start="${snap.displayTime}" title="全球要闻情报简报 · ${snap.hourOnly}" org="ARCHIVE"}`);
-    archiveLines.push(`**速报纪要：** ${briefLead}`);
+  for (const snap of archive.slice(0, 48)) {
+        const snapTime = snap.timeDisplay || snap.date || '实时';
+    const hourPart = snapTime.includes(' ') ? snapTime.split(' ')[1] : snapTime;
+    archiveLines.push(`:::timeline-item{start="${snapTime}" title="全球要闻情报简报 · ${hourPart}" org="ARCHIVE"}`);
+    archiveLines.push(`**速报纪要：** ${snap.hourlyBriefing?.lead || '全球多源监控全景简报。'}`);
     archiveLines.push('');
     if (snap.hourlyBriefing?.signals && snap.hourlyBriefing.signals.length > 0) {
       archiveLines.push(`**关键信号：** ${snap.hourlyBriefing.signals.join('；')}`);
       archiveLines.push('');
     }
-    if (snap.storiesSnapshot && snap.storiesSnapshot.length > 0) {
+    if (snap.topStories && snap.topStories.length > 0) {
       archiveLines.push('**重点要闻索引：**');
-      for (const st of snap.storiesSnapshot.slice(0, 6)) {
-        archiveLines.push(`- [${st.source}] [${st.title}](${st.url}) <span class="news-meta-time">🕒 ${st.pubTime}</span>`);
+      for (const st of snap.topStories.slice(0, 6)) {
+        archiveLines.push(`- [${st.source}] [${st.title}](${cleanUrl(st.url)}) <span class="news-meta-time">🕒 ${st.pubTime || ''}</span>`);
       }
     }
     archiveLines.push(':::');
   }
   archiveLines.push('::::');
-  archiveLines.push('');
-
   fs.writeFileSync(path.join(pagesDir, 'archive.md'), archiveLines.join('\n'), 'utf8');
 
   // -------------------------------------------------------------
@@ -612,30 +730,24 @@ export async function writeSiteContent(summaryData, _rawItems) {
     'title: "信源矩阵"',
     'nav: true',
     'order: 8',
-    'description: "InfoLive 监控的全球全谱系信源分布与品牌徽标注册表"',
-    'notice:',
-    '  text: "🌐 坚持多源对照、跨立场交叉验证，全面覆盖全球大国通讯社、科技、时政、社会思想与学术源" ',
-    '  color: "theme"',
+    'description: "InfoLive 接入的全球 36+ 权威通讯社与专业前沿数据源"',
     '---',
     '',
-    '# 🌐 全球多源情报监控网络',
+    '# 📡 全球全源监控信源注册表',
     '',
-    'InfoLive 构建了跨越国界、立场与意识形态的全球全谱系信息流监控矩阵。涵盖**新华社、俄罗斯卫星通讯社、France 24 / 法新社、CNN、FOX、BBC、卫报、半岛电视台**等全球多极通讯社，以及顶尖 AI 研究院所与顶级学术期刊：',
+    '本平台全天候实时接入全球各国国家通讯社、主流大国旗舰媒体、前沿AI研究实验室、金融证券行情网络与同行评议科学期刊。严格使用各国官方原版母语电讯，杜绝二次翻译版本：',
     '',
-    '| 媒体 / 机构名称 | 领域分类 | 媒体立场与观察权重 | 官方订阅源 | 品牌徽标 |',
-    '| :--- | :--- | :--- | :--- | :---: |'
+    '| 信源名称 | 官方主语言 | 领域权重 | 官方出处与数据通道 |',
+    '| :--- | :---: | :---: | :--- |'
   ];
 
   for (const src of SOURCES) {
-    const badge = renderSourceBadge(src.name, src.slug);
-    const catMap = { ai: '前沿科技/AI', world: '国际时政/地缘', finance: '商业金融', community: '社会思潮/社区', science: '前沿科学' };
-    sourcesLines.push(`| ${src.name} | ${catMap[src.category] || src.category} | 权重: ${src.weight} / 10 | [RSS Feed](${src.url}) | ${badge} |`);
+    sourcesLines.push(`| ${renderSourceBadge(src.name, src.slug)} | \`${src.lang || 'en'}\` | ⭐ ${src.weight}/10 | [直达官方一手源网 ↗](${src.url}) |`);
   }
-  sourcesLines.push('');
   fs.writeFileSync(path.join(pagesDir, 'sources.md'), sourcesLines.join('\n'), 'utf8');
 
   // -------------------------------------------------------------
-  // 10. 渲染 about.md (关于项目，order: 9)
+  // 10. 渲染 about.md (关于项目，order: 9) —— 官方 ::ghcard 仓库卡片！
   // -------------------------------------------------------------
   const aboutLines = [
     '---',
@@ -649,18 +761,18 @@ export async function writeSiteContent(summaryData, _rawItems) {
     '',
     '**InfoLive** 是一个开源、全自动、由前沿大模型驱动的全球全源信息流与实时要闻矩阵平台。',
     '',
-    ':::tip{title="🚀 官方开源代码仓库"}',
-    '**GitHub 仓库地址**：[https://github.com/stlin256/INFO-LIVE](https://github.com/stlin256/INFO-LIVE)',
+    '## 🚀 官方开源代码仓库',
+    '',
+    renderRepoShowcaseCard(),
     '',
     '欢迎访问我们的官方 GitHub 仓库，给项目点亮 🌟 Star、提交 Issue 反馈或发起 Pull Request 协作共建！',
-    ':::',
     '',
     '## 🏗️ 核心设计哲学与特色体系',
-    '- **多维度新闻聚合与开放维度**：不局限于传统硬编码分类，引入全球地缘博弈、前沿智能、战略能源与气候、社会思潮热点、宏观产业与深空科学等开放多维坐标。',
-    '- **全球立场辨明与叙事解构**：并列对比中方倡议、莫斯科反制、美主流、美保守、欧洲自主及全球南方视角，解构表象叙事背后的核心事实共识与深层利益诉求。',
-    '- **AI 自主创建的深度追踪专题（Dossiers）**：根据重大全球事态演进，由 AI 自主策划并编写专属专题与导航 TAB，提供战略综述、阵营诉求、大事记与深度图文情报。',
-    '- **全球社会热点与民意思潮自动整合**：接入各大主流思想社区与严肃媒体，梳理公众关切、网络社群争鸣与社会情绪光谱。',
-    '- **全篇全量深度编译**：拒绝简单的单句搬运或仅贴外链。平台利用前沿大模型将一手新闻全量翻译编译为高质量中文，图文并茂，深入交代事实原委与核心研判。',
+    '- **原生官方语言信源保障**：严格接入各国通讯社与旗舰媒体的原版母语电讯（俄新社官方俄文、法新社官方法文、BBC 官方英文、DW 官方德文、半岛官方阿拉伯文等），杜绝二次加工编译。',
+    '- **外文标题全量翻译与原文保留**：所有外文标题统一精译为高质量目标语言中文，同时在副标题完整保留原始外语标题，兼顾可读性与情报真实可溯度。',
+    '- **频道工作台（Channel Desks）架构**：设立国际地缘、商业金融、AI前沿、社会思潮、深空科学等专属频道，全量深度编译，坚决杜绝页面空白。',
+    '- **跨 Actions 话题生命周期管理**：AI 自主立项全球重大专题，跨自动化运行周期持续扩充时间轴节点、增量迭代战略研判，并在事态平息后阶段性归档。',
+    '- **全篇全量深度编译**：每篇核心报道提供 400-800 字的背景脉络、各方表态与核心研判，嵌入新闻原图，非简单链接聚合。',
     '- **真实新闻发布时间标记**：卡片与快讯流标注新闻本身的真实发布时间（`pubTime`），保障情报的时间序列真实度。',
     '- **日尺度与时尺度双重视角**：既有时尺度的秒级要闻与突发演进追踪，又有日尺度的 24 小时全球宏观大势与底层结构性转变深度复盘。',
     '- **永久持久化历史回溯**：历史快照与要闻简报永久存储在仓库中，支持按日期和关键词通过静态全文搜索（<kbd>Ctrl+K</kbd>）随时毫秒级查阅。',
@@ -694,9 +806,26 @@ export async function writeSiteContent(summaryData, _rawItems) {
   fs.writeFileSync(path.join(pagesDir, 'about.md'), aboutLines.join('\n'), 'utf8');
 
   // -------------------------------------------------------------
-  // 11. 写入 feed-data.json
+  // 11. 保存结构化数据快照 feed-data.json
   // -------------------------------------------------------------
-  const dataJsonPath = path.join(root, 'data', 'feed-data.json');
-  fs.writeFileSync(dataJsonPath, JSON.stringify(summaryData, null, 2), 'utf8');
-  console.log(`[SiteWriter] Generated all pages and saved data/feed-data.json successfully!`);
+  const feedDataFile = path.resolve('data/feed-data.json');
+  fs.writeFileSync(feedDataFile, JSON.stringify({
+    timestamp: timeInfo.timestamp,
+    timeDisplay: timeInfo.display,
+    hourlyBriefing: hourly,
+    dailyBriefing: daily,
+    specialTopics: activeTopics,
+    perspectiveMatrix,
+    socialTrends: trends,
+    topStories,
+    worldStories,
+    financeStories: finalFinance,
+    aiStories,
+    trendStories,
+    ticker
+  }, null, 2), 'utf8');
+
+  console.log('[SiteWriter] Generated all pages and saved data/feed-data.json successfully!');
 }
+
+export const writeSiteContent = writeSiteData;

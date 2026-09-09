@@ -33,6 +33,66 @@ export function sanitizeXml(xml) {
   return xml.replace(/&(?!(?:apos|quot|[gl]t|amp);|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
 }
 
+export function cleanUrl(rawUrl) {
+  if (!rawUrl) return '';
+  try {
+    const u = new URL(rawUrl.trim());
+    const trackingParams = [
+      'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content',
+      'traffic_source', 'maca', 'taid', 'ocid', 'gclid', 'fbclid', 'feedburner'
+    ];
+    for (const p of trackingParams) {
+      u.searchParams.delete(p);
+    }
+    return u.toString();
+  } catch {
+    return rawUrl.trim();
+  }
+}
+
+export function cleanHtmlToParagraphs(rawHtml) {
+  if (!rawHtml) return '';
+  const text = rawHtml
+    .replace(/<\/?(p|div|br|h[1-6]|li|blockquote)[^>]*>/gi, '\n\n')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&quot;/gi, '"')
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&#39;/gi, "'");
+
+  return text
+    .split(/\n\s*\n/)
+    .map((p) => p.replace(/\s+/g, ' ').trim())
+    .filter((p) => p.length > 20)
+    .join('\n\n');
+}
+
+export async function fetchArticleBody(url) {
+  if (!url) return null;
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 InfoLive/1.0',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+      },
+      signal: AbortSignal.timeout(4500)
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const matches = [...html.matchAll(/<p[^>]*>(.*?)<\/p>/gi)]
+      .map((m) => m[1].replace(/<[^>]+>/g, ' ').replace(/&[a-z]+;/g, ' ').trim())
+      .filter((p) => p.length > 35 && !/cookie|privacy|newsletter|subscribe|all rights reserved/i.test(p));
+    if (matches.length >= 2) {
+      return matches.slice(0, 12).join('\n\n');
+    }
+  } catch {
+    // 降级使用 RSS 提取内容
+  }
+  return null;
+}
+
 export function formatPubTime(dateStr) {
   if (!dateStr) return '';
   const d = new Date(dateStr);
@@ -112,14 +172,14 @@ export async function fetchAllFeeds(sources) {
           const rawHtml = it.contentEncoded || it.content || it.descriptionSnippet || '';
           const rawSnippet = it.contentSnippet || it.descriptionSnippet || it.summary || rawHtml || '';
           const snippet = rawSnippet.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 500);
-          const fullContent = rawHtml.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 3000);
+          const fullContent = cleanHtmlToParagraphs(rawHtml) || snippet;
           const pubDate = it.pubDate || it.isoDate || it.dcDate || it.publishedDate || '';
           const pubTimeFormatted = formatPubTime(pubDate);
           const imageUrl = extractImageUrl(it, rawHtml);
 
           return {
             title: (it.title || '').trim(),
-            link: (it.link || '').trim(),
+            link: cleanUrl(it.link || ''),
             pubDate,
             pubTimeFormatted,
             snippet,
@@ -127,10 +187,11 @@ export async function fetchAllFeeds(sources) {
             imageUrl,
             sourceName: source.name,
             sourceSlug: source.slug,
+            sourceLang: source.lang || 'en',
             category: source.category,
             weight: source.weight
           };
-        }).filter(it => it.title && it.link);
+        }).filter((it) => it.title && it.link);
 
         console.log(`  ✓ [${source.name}] Fetched ${items.length} items`);
         results.push(...items);
@@ -142,11 +203,16 @@ export async function fetchAllFeeds(sources) {
 
   await Promise.all(Array.from({ length: concurrency }, () => worker()));
   console.log(`[Fetcher] Total raw items collected: ${results.length}`);
+
   // 按实际发布时间倒序排列（有发布时间的排在前）
   results.sort((a, b) => {
-    const ta = a.pubDate ? new Date(a.pubDate).getTime() : 0;
-    const tb = b.pubDate ? new Date(b.pubDate).getTime() : 0;
-    return tb - ta;
+    if (a.pubTimeFormatted && b.pubTimeFormatted) {
+      return b.pubTimeFormatted.localeCompare(a.pubTimeFormatted);
+    }
+    if (a.pubTimeFormatted) return -1;
+    if (b.pubTimeFormatted) return 1;
+    return (b.weight || 5) - (a.weight || 5);
   });
+
   return results;
 }

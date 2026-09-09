@@ -34,6 +34,7 @@ export default defineConfig({
         'scripts/site-writer.mjs',
         'scripts/sources.mjs',
         'scripts/generate-source-icons.mjs',
+        'scripts/topic-lifecycle.mjs',
       ],
       reporter: ['text', 'json-summary'],
     },

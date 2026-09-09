@@ -1878,3 +1878,441 @@ html.js .reveal.revealed {
     scrollbar-width: thin;
   }
 }
+
+/* ---- InfoLive Original Title & Live Wire Grid UI ---- */
+.original-title-sub {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: -0.4rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.4;
+  font-style: italic;
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+
+.orig-tag {
+  display: inline-block;
+  font-style: normal;
+  font-size: 0.68rem;
+  font-weight: 600;
+  padding: 0.05rem 0.35rem;
+  border-radius: 3px;
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+
+.live-wire-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.wire-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 0.8rem 1rem;
+  background: var(--card-bg, var(--bg-card, var(--bg-subtle)));
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm, 6px);
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.wire-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+.wire-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+}
+
+.wire-time-badge {
+  font-family: var(--font-mono, monospace);
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.wire-source-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-weight: 600;
+}
+
+.wire-dim-badge {
+  margin-left: auto;
+  font-size: 0.7rem;
+  padding: 0.05rem 0.4rem;
+  border-radius: 9999px;
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+  color: var(--text-muted);
+  border: 1px solid color-mix(in srgb, var(--accent) 18%, transparent);
+}
+
+.wire-card-title {
+  font-size: 0.92rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.wire-title-link {
+  color: var(--text);
+  text-decoration: none;
+  display: inline;
+}
+
+.wire-title-link:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.wire-ext-icon {
+  font-size: 0.75rem;
+  opacity: 0.7;
+  margin-left: 0.2rem;
+}
+
+.wire-card-orig {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-style: italic;
+  line-height: 1.35;
+  margin-top: 0.15rem;
+}
+
+.markdown-body .gh-repo {
+  margin: 1.5em 0;
+  max-width: 38rem;
+  width: 100%;
+}
+
+/* ---- Live Wire Actions & Snippet ---- */
+.wire-snippet {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+  margin: 0.15rem 0 0.25rem;
+}
+
+.wire-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: auto;
+  padding-top: 0.35rem;
+  border-top: 1px dashed var(--border);
+  font-size: 0.75rem;
+}
+
+.wire-jump-link {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.wire-jump-link:hover {
+  text-decoration: underline;
+}
+
+.wire-source-outbound {
+  color: var(--text-muted);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  opacity: 0.85;
+}
+
+.wire-source-outbound:hover {
+  color: var(--text);
+  opacity: 1;
+}
+
+/* ---- Perspective Matrix Card (全球立场罗生门矩阵) ---- */
+.perspective-matrix-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius-md, 8px);
+  padding: 1.4rem 1.6rem;
+  margin: 1.5rem 0 2.5rem;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.03);
+}
+
+.perspective-matrix-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.perspective-matrix-title {
+  font-size: 1.18rem;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0;
+}
+
+.perspective-consensus-box {
+  background: color-mix(in srgb, #10b981 8%, var(--bg-subtle));
+  border: 1px solid color-mix(in srgb, #10b981 25%, var(--border));
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 0.75rem 0 1.25rem;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  color: var(--text);
+}
+
+.perspective-consensus-title {
+  font-weight: 700;
+  color: #059669;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-bottom: 0.25rem;
+}
+
+html[data-theme='dark'] .perspective-consensus-title {
+  color: #34d399;
+}
+
+.perspective-sources-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 0.85rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.perspective-source-item {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.85rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.perspective-source-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--border) 60%, transparent);
+  padding-bottom: 0.4rem;
+}
+
+.perspective-source-name {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-weight: 700;
+  font-size: 0.88rem;
+}
+
+.perspective-stance-badge {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.1rem 0.45rem;
+  border-radius: 9999px;
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  color: var(--accent);
+  border: 1px solid color-mix(in srgb, var(--accent) 25%, transparent);
+}
+
+.perspective-source-body {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.perspective-analysis-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 0.85rem;
+  margin-top: 1rem;
+}
+
+.perspective-deep-interest {
+  background: color-mix(in srgb, #f59e0b 8%, var(--bg-subtle));
+  border: 1px solid color-mix(in srgb, #f59e0b 25%, var(--border));
+  border-radius: 6px;
+  padding: 0.8rem 1rem;
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.perspective-blind-spot {
+  background: color-mix(in srgb, #8b5cf6 8%, var(--bg-subtle));
+  border: 1px solid color-mix(in srgb, #8b5cf6 25%, var(--border));
+  border-radius: 6px;
+  padding: 0.8rem 1rem;
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.analysis-label {
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+/* ---- High-Fidelity GitHub Repo Showcase Card ---- */
+.repo-showcase-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md, 8px);
+  padding: 1.5rem 1.75rem;
+  margin: 1.5rem 0 2rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.04);
+}
+
+.repo-showcase-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.repo-showcase-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.repo-showcase-title a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.repo-showcase-title a:hover {
+  text-decoration: underline;
+}
+
+.repo-showcase-desc {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text);
+  margin-bottom: 1rem;
+}
+
+.repo-showcase-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.repo-topic-pill {
+  font-size: 0.75rem;
+  padding: 0.12rem 0.55rem;
+  border-radius: 9999px;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.repo-topic-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.repo-showcase-stats {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.repo-stat-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.repo-showcase-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.repo-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.repo-btn-primary {
+  background: var(--accent);
+  color: #fff !important;
+  border: 1px solid var(--accent);
+}
+
+.repo-btn-primary:hover {
+  filter: brightness(1.1);
+  transform: translateY(-1px);
+}
+
+.repo-btn-outline {
+  background: var(--bg-subtle);
+  color: var(--text) !important;
+  border: 1px solid var(--border);
+}
+
+.repo-btn-outline:hover {
+  border-color: var(--accent);
+  color: var(--accent) !important;
+  transform: translateY(-1px);
+}
+
+/* ---- Story Anchor for Smooth Jump from Live Wire ---- */
+.story-anchor {
+  position: relative;
+  display: block;
+  top: -4.5rem;
+  visibility: hidden;
+  height: 0;
+  scroll-margin-top: 5rem;
+}
+
+:target + .news-card-header,
+.story-anchor:target ~ .news-card-header {
+  border-left: 3px solid var(--accent);
+  padding-left: 0.5rem;
+  transition: all 0.3s ease;
+}
