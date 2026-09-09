@@ -1,0 +1,302 @@
+[
+  {
+    "timestamp": 1788964396684,
+    "displayTime": "2026-09-09 22:33 (UTC+8)",
+    "dateOnly": "2026-09-09",
+    "hourOnly": "22:33",
+    "hourlyBriefing": {
+      "title": "本小时全球情报速报",
+      "lead": "本小时全球多源情报监控系统全天候运转。大国地缘博弈、前沿科技模型演进、国际能源交通动脉及金融资本流动呈现多极激荡态势。汇聚新华社、俄罗斯卫星通讯社、France 24、CNN、FOX 等全球多方权威信源，实时校准全球脉搏。",
+      "signals": [
+        "国际主流通讯社就中东与乌克兰局势频繁释放战略信号，多边斡旋与战术对抗深度拉锯",
+        "前沿大模型商业化落地与超级智能安全治理边界争议持续发酵，核心实验室人才流动频繁",
+        "极端自然灾害与地缘咽喉安全风险交织，对全球航运网络与关键供应链形成系统性扰动"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球宏观大势与主线脉络",
+      "lead": "过去24小时，全球格局呈现出由局部突发走向深层结构性重组的鲜明趋势。宏观地缘走廊的重新洗牌、前沿大模型安全与资本算力战役的代际换血、以及跨大洋能源通道在安全风险下的替代方案开拓，共同构成了今日全球主线脉络的核心特征。",
+      "themes": [
+        {
+          "name": "全球地缘走廊重构与多边防务联动",
+          "analysis": "从红海航运外溢风险至海湾大国，到中东、南亚与欧亚大陆的条约绑定，传统安全缓冲带正在被现实博弈迅速压榨，各方围绕核心安全利益的威慑言辞与部署显著升级。"
+        },
+        {
+          "name": "乌克兰危机博弈的财务窗口与接触试探",
+          "analysis": "巨额预算赤字引发欧洲盟友审计信任危机，欧美政局更迭预期倒逼多方试探阿布扎比等中立枢纽的外交斡旋空间，地面战术压迫与幕后接触同步加剧。"
+        },
+        {
+          "name": "通用人工智能范式跃迁与安全治理红线",
+          "analysis": "大模型向自主代理人（AI Agents）与多模态渗透，引发研发一线顶级学者对失控风险的伦理警报，科技巨头与美欧监管机构的安全评测博弈加速进入深水区。"
+        },
+        {
+          "name": "气候极端化与自然地质活动对实体经济的倒逼",
+          "analysis": "印尼喀拉喀托之子火山喷发导致区域航空瘫痪，欧洲水源微塑料长期沉积危机，揭示全球关键交通枢纽与宜居生态在自然环境变迁面前的高敏感度。"
+        }
+      ]
+    },
+    "eventTracker": [
+      {
+        "status": "关键转折",
+        "pubTime": "09-09 21:10",
+        "title": "俄美拟重启乌克兰问题三方接触：阿布扎比或成外交新枢纽",
+        "org": "WORLD",
+        "latest": "克宫高层公开证实俄美特使接触，探讨恢复三方接触机制，并提议将会晤地点设在阿联酋阿布扎比。",
+        "background": "欧洲盟友内部对持续无底线财务输血显露疲态，基辅巨额预算缺口加剧欧美两党博弈。",
+        "outlook": "后续观察阿联酋是否正式承接会务，以及各方对会谈先决条件的博弈空间。"
+      },
+      {
+        "status": "持续恶化",
+        "pubTime": "09-09 22:03",
+        "title": "印尼喀拉喀托之子火山剧烈喷发冲击东南亚航空网络",
+        "org": "SCIENCE",
+        "latest": "数千米高火山灰柱导致数百架次航班取消，波及逾30万旅客，前线传出采集人员失联消息。",
+        "background": "巽他海峡关键水运走廊进入地质活跃周期，1883年世纪超级喷发引发全球气候剧变的历史记忆被唤醒。",
+        "outlook": "密切监控火山灰漂移对海上航运基础设施及次生海啸的防范警报。"
+      },
+      {
+        "status": "突发演进",
+        "pubTime": "09-09 21:05",
+        "title": "巴基斯坦警告激活防务协议：也门战火若蔓延沙特将军事介入",
+        "org": "WORLD",
+        "latest": "巴基斯坦防长公开警告，一旦也门胡塞冲突波及沙特本土，巴沙土三方共同防务协议将立即履行。",
+        "background": "中东红海水运遭袭常态化，巴拿马籍油轮在伊拉克水域受击，战事外溢威胁海湾核心产油国。",
+        "outlook": "沙特防空拦截负荷与伊斯兰堡在中东安全架构中的实质性前沿军事部署动作。"
+      },
+      {
+        "status": "突发演进",
+        "pubTime": "09-09 21:00",
+        "title": "AI安全阵营再度地震：Anthropic核心研究员辞职抗议失控风险",
+        "org": "AI",
+        "latest": "Anthropic核心资深研究人员公开辞职，直指当前大模型军备竞赛正脱离人类安全控制边界。",
+        "background": "多模态与自主智能代理商用狂飙，头部资本押注代理安全，但非对齐风险防控仍属行业短板。",
+        "outlook": "美欧立法机构对前沿通用大模型训练评测标准与硬性安全审计的推进速度。"
+      }
+    ],
+    "topStoriesCount": 42,
+    "storiesSnapshot": [
+      {
+        "title": "Hutu and Tutsi: The history behind the divide",
+        "source": "Al Jazeera (半岛电视台)",
+        "pubTime": "09-09 22:22",
+        "url": "https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss"
+      },
+      {
+        "title": "Skillet's John Cooper says woke activists have 'big hearts' but are 'hurting themselves'",
+        "source": "FOX News Latest",
+        "pubTime": "09-09 22:21",
+        "url": "https://www.foxnews.com/entertainment/skillets-john-cooper-says-woke-activists-have-big-hearts-hurting-themselves"
+      },
+      {
+        "title": "As African space race heats up, Senegal pursues homemade satellites",
+        "source": "Phys.org",
+        "pubTime": "09-09 22:20",
+        "url": "https://phys.org/news/2026-09-african-space-senegal-pursues-homemade.html"
+      },
+      {
+        "title": "Reading app boosts kids' literacy",
+        "source": "Phys.org",
+        "pubTime": "09-09 22:20",
+        "url": "https://phys.org/news/2026-09-app-boosts-kids-literacy.html"
+      },
+      {
+        "title": "A 66.5-million-year-old trackway captures adult T. rex at walking pace",
+        "source": "Phys.org",
+        "pubTime": "09-09 22:20",
+        "url": "https://phys.org/news/2026-09-million-year-trackway-captures-adult.html"
+      },
+      {
+        "title": "克宫：俄罗斯希望美国继续在乌克兰调解中做出维和努力",
+        "source": "俄罗斯卫星通讯社 (中文)",
+        "pubTime": "09-09 22:20",
+        "url": "https://sputniknews.cn/20260909/1073172293.html"
+      },
+      {
+        "title": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
+        "source": "Al Jazeera (半岛电视台)",
+        "pubTime": "09-09 22:19",
+        "url": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss"
+      },
+      {
+        "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+        "source": "TechCrunch",
+        "pubTime": "09-09 22:18",
+        "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
+      },
+      {
+        "title": "Escalating Boat Strikes Campaign, U.S. Targets ‘Refueling’ Vessels",
+        "source": "NY Times World",
+        "pubTime": "09-09 22:16",
+        "url": "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html"
+      },
+      {
+        "title": "Oil prices rise as Middle East conflict escalates",
+        "source": "Deutsche Welle (德国之声)",
+        "pubTime": "09-09 22:16",
+        "url": "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "title": "Pakistan all out for 133 in third Test vs England after squad changes",
+        "source": "Al Jazeera (半岛电视台)",
+        "pubTime": "09-09 22:15",
+        "url": "https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss"
+      },
+      {
+        "title": "越南国家主席感谢普京和俄罗斯人民促进发展两国关系",
+        "source": "俄罗斯卫星通讯社 (中文)",
+        "pubTime": "09-09 22:10",
+        "url": "https://sputniknews.cn/20260909/1073172193.html"
+      }
+    ]
+  },
+  {
+    "timestamp": 1788964210785,
+    "displayTime": "2026-09-09 22:30 (UTC+8)",
+    "dateOnly": "2026-09-09",
+    "hourOnly": "22:30",
+    "hourlyBriefing": {
+      "title": "本小时全球情报速报",
+      "lead": "本小时全球多源情报监控系统全天候运转。大国地缘博弈、前沿科技模型演进、国际能源交通动脉及金融资本流动呈现多极激荡态势。汇聚新华社、俄罗斯卫星通讯社、France 24、CNN、FOX 等全球多方权威信源，实时校准全球脉搏。",
+      "signals": [
+        "国际主流通讯社就中东与乌克兰局势频繁释放战略信号，多边斡旋与战术对抗深度拉锯",
+        "前沿大模型商业化落地与超级智能安全治理边界争议持续发酵，核心实验室人才流动频繁",
+        "极端自然灾害与地缘咽喉安全风险交织，对全球航运网络与关键供应链形成系统性扰动"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球宏观大势与主线脉络",
+      "lead": "过去24小时，全球格局呈现出由局部突发走向深层结构性重组的鲜明趋势。宏观地缘走廊的重新洗牌、前沿大模型安全与资本算力战役的代际换血、以及跨大洋能源通道在安全风险下的替代方案开拓，共同构成了今日全球主线脉络的核心特征。",
+      "themes": [
+        {
+          "name": "全球地缘走廊重构与多边防务联动",
+          "analysis": "从红海航运外溢风险至海湾大国，到中东、南亚与欧亚大陆的条约绑定，传统安全缓冲带正在被现实博弈迅速压榨，各方围绕核心安全利益的威慑言辞与部署显著升级。"
+        },
+        {
+          "name": "乌克兰危机博弈的财务窗口与接触试探",
+          "analysis": "巨额预算赤字引发欧洲盟友审计信任危机，欧美政局更迭预期倒逼多方试探阿布扎比等中立枢纽的外交斡旋空间，地面战术压迫与幕后接触同步加剧。"
+        },
+        {
+          "name": "通用人工智能范式跃迁与安全治理红线",
+          "analysis": "大模型向自主代理人（AI Agents）与多模态渗透，引发研发一线顶级学者对失控风险的伦理警报，科技巨头与美欧监管机构的安全评测博弈加速进入深水区。"
+        },
+        {
+          "name": "气候极端化与自然地质活动对实体经济的倒逼",
+          "analysis": "印尼喀拉喀托之子火山喷发导致区域航空瘫痪，欧洲水源微塑料长期沉积危机，揭示全球关键交通枢纽与宜居生态在自然环境变迁面前的高敏感度。"
+        }
+      ]
+    },
+    "eventTracker": [
+      {
+        "status": "关键转折",
+        "pubTime": "09-09 21:10",
+        "title": "俄美拟重启乌克兰问题三方接触：阿布扎比或成外交新枢纽",
+        "org": "WORLD",
+        "latest": "克宫高层公开证实俄美特使接触，探讨恢复三方接触机制，并提议将会晤地点设在阿联酋阿布扎比。",
+        "background": "欧洲盟友内部对持续无底线财务输血显露疲态，基辅巨额预算缺口加剧欧美两党博弈。",
+        "outlook": "后续观察阿联酋是否正式承接会务，以及各方对会谈先决条件的博弈空间。"
+      },
+      {
+        "status": "持续恶化",
+        "pubTime": "09-09 22:03",
+        "title": "印尼喀拉喀托之子火山剧烈喷发冲击东南亚航空网络",
+        "org": "SCIENCE",
+        "latest": "数千米高火山灰柱导致数百架次航班取消，波及逾30万旅客，前线传出采集人员失联消息。",
+        "background": "巽他海峡关键水运走廊进入地质活跃周期，1883年世纪超级喷发引发全球气候剧变的历史记忆被唤醒。",
+        "outlook": "密切监控火山灰漂移对海上航运基础设施及次生海啸的防范警报。"
+      },
+      {
+        "status": "突发演进",
+        "pubTime": "09-09 21:05",
+        "title": "巴基斯坦警告激活防务协议：也门战火若蔓延沙特将军事介入",
+        "org": "WORLD",
+        "latest": "巴基斯坦防长公开警告，一旦也门胡塞冲突波及沙特本土，巴沙土三方共同防务协议将立即履行。",
+        "background": "中东红海水运遭袭常态化，巴拿马籍油轮在伊拉克水域受击，战事外溢威胁海湾核心产油国。",
+        "outlook": "沙特防空拦截负荷与伊斯兰堡在中东安全架构中的实质性前沿军事部署动作。"
+      },
+      {
+        "status": "突发演进",
+        "pubTime": "09-09 21:00",
+        "title": "AI安全阵营再度地震：Anthropic核心研究员辞职抗议失控风险",
+        "org": "AI",
+        "latest": "Anthropic核心资深研究人员公开辞职，直指当前大模型军备竞赛正脱离人类安全控制边界。",
+        "background": "多模态与自主智能代理商用狂飙，头部资本押注代理安全，但非对齐风险防控仍属行业短板。",
+        "outlook": "美欧立法机构对前沿通用大模型训练评测标准与硬性安全审计的推进速度。"
+      }
+    ],
+    "topStoriesCount": 42,
+    "storiesSnapshot": [
+      {
+        "title": "Hutu and Tutsi: The history behind the divide",
+        "source": "Al Jazeera (半岛电视台)",
+        "pubTime": "09-09 22:22",
+        "url": "https://www.aljazeera.com/news/2026/9/9/hutu-and-tutsi-the-history-behind-the-divide?traffic_source=rss"
+      },
+      {
+        "title": "Skillet's John Cooper says woke activists have 'big hearts' but are 'hurting themselves'",
+        "source": "FOX News Latest",
+        "pubTime": "09-09 22:21",
+        "url": "https://www.foxnews.com/entertainment/skillets-john-cooper-says-woke-activists-have-big-hearts-hurting-themselves"
+      },
+      {
+        "title": "As African space race heats up, Senegal pursues homemade satellites",
+        "source": "Phys.org",
+        "pubTime": "09-09 22:20",
+        "url": "https://phys.org/news/2026-09-african-space-senegal-pursues-homemade.html"
+      },
+      {
+        "title": "Reading app boosts kids' literacy",
+        "source": "Phys.org",
+        "pubTime": "09-09 22:20",
+        "url": "https://phys.org/news/2026-09-app-boosts-kids-literacy.html"
+      },
+      {
+        "title": "A 66.5-million-year-old trackway captures adult T. rex at walking pace",
+        "source": "Phys.org",
+        "pubTime": "09-09 22:20",
+        "url": "https://phys.org/news/2026-09-million-year-trackway-captures-adult.html"
+      },
+      {
+        "title": "克宫：俄罗斯希望美国继续在乌克兰调解中做出维和努力",
+        "source": "俄罗斯卫星通讯社 (中文)",
+        "pubTime": "09-09 22:20",
+        "url": "https://sputniknews.cn/20260909/1073172293.html"
+      },
+      {
+        "title": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
+        "source": "Al Jazeera (半岛电视台)",
+        "pubTime": "09-09 22:19",
+        "url": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss"
+      },
+      {
+        "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+        "source": "TechCrunch",
+        "pubTime": "09-09 22:18",
+        "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
+      },
+      {
+        "title": "Escalating Boat Strikes Campaign, U.S. Targets ‘Refueling’ Vessels",
+        "source": "NY Times World",
+        "pubTime": "09-09 22:16",
+        "url": "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html"
+      },
+      {
+        "title": "Oil prices rise as Middle East conflict escalates",
+        "source": "Deutsche Welle (德国之声)",
+        "pubTime": "09-09 22:16",
+        "url": "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "title": "Pakistan all out for 133 in third Test vs England after squad changes",
+        "source": "Al Jazeera (半岛电视台)",
+        "pubTime": "09-09 22:15",
+        "url": "https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss"
+      },
+      {
+        "title": "越南国家主席感谢普京和俄罗斯人民促进发展两国关系",
+        "source": "俄罗斯卫星通讯社 (中文)",
+        "pubTime": "09-09 22:10",
+        "url": "https://sputniknews.cn/20260909/1073172193.html"
+      }
+    ]
+  }
+]

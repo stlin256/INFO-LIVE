@@ -590,8 +590,9 @@ export function remarkCustomDirectives(baseUrl: string | undefined, editMode: bo
           break;
         }
         case 'timeline-item': {
-          if (!attrs.start?.trim()) return degrade('params');
-          const properties: Properties = { className: ['timeline-item'], dataTimelineItem: 'true', dataStart: attrs.start.trim() };
+          const startVal = attrs.start?.trim() || attrs.date?.trim();
+          if (!startVal) return degrade('params');
+          const properties: Properties = { className: ['timeline-item'], dataTimelineItem: 'true', dataStart: startVal };
           if (attrs.end?.trim()) properties.dataEnd = attrs.end.trim();
           if (attrs.title?.trim()) properties.dataTimelineTitle = attrs.title.trim();
           if (attrs.org?.trim()) properties.dataOrg = attrs.org.trim();

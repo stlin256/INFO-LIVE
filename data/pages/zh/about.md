@@ -1,21 +1,49 @@
 ---
 title: "关于项目"
 nav: true
-order: 5
-description: "InfoLive 架构设计、全自动化工作流与技术栈说明"
+order: 6
+description: "InfoLive 架构设计、开源代码仓库与自动化工作流说明"
 ---
 
-# InfoLive 全球全源信息流与 AI 实时要闻矩阵
+# ℹ️ 关于 InfoLive 全球情报矩阵
 
-**InfoLive** 是一个追求极致信息密度与深度洞察的开源情报流系统。
+**InfoLive** 是一个开源、全自动、由前沿大模型驱动的全球全源信息流与实时要闻矩阵平台。
 
-传统聚合器往往只列出一串标题与超链接，信息获取极其碎片化；而 **InfoLive** 坚持 **内容写入，而非仅给链接**：
+:::tip{title="🚀 官方开源代码仓库"}
+**GitHub 仓库地址**：[https://github.com/stlin256/INFO-LIVE](https://github.com/stlin256/INFO-LIVE)
 
-1. **极大信息量抓取**：覆盖世界主流通讯社（BBC、路透社、美联社、联合早报等）、顶级AI科技社区（Hacker News、OpenAI、DeepMind、Hugging Face、ArXiv）、宏观金融（CNBC、WSJ）以及学术科学期刊（Nature、Science、NASA）。
-2. **AI 内部深度总结**：接入 **Gemini 3.8 Flash** 模型，以专业情报分析师视角对新闻进行客观去重、内化翻译与背景提炼，每条均给出百余字事实背景剖析与 2 条核心研判。
-3. **小时更新与事件追踪**：每小时触发一次 GitHub Actions 工作流，提炼本小时全球速报，并以时间线持续追踪正在发酵演变的重大历史事件。
-4. **前端框架驱动**：本项目前端框架由 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动，具备高雅的杂志网格排版、极速静态生成与零延迟阅读体验。
-
-:::note
-**声明**：本站所有新闻内容由开源工作流自动抓取并经 AI 提炼，所有卡片均清晰标注原始信源与出处链接。
+欢迎访问我们的官方 GitHub 仓库，给项目点亮 🌟 Star、提交 Issue 反馈或发起 Pull Request 协作共建！
 :::
+
+## 🏗️ 核心设计哲学
+- **全篇全量深度编译**：拒绝简单的单句搬运或仅贴外链。平台利用前沿大模型将全球多语种一手新闻全量翻译编译为高质量中文，图文并茂，深入交代事实原委、地缘背景与核心研判。
+- **真实新闻发布时间标记**：新闻卡片与快讯流一律标注新闻本身的真实发布时间（`pubTime`），而非本系统的调度抓取时间，严谨保障情报的时间序列真实度。
+- **日尺度与时尺度双重视角**：既有时尺度的秒级要闻与突发演进追踪，又有日尺度的 24 小时全球宏观大势与底层结构性转变深度复盘。
+- **全球立场罗生门与多元跨源对照**：全面引入**新华社、俄罗斯卫星通讯社、France 24（法新社合作伙伴）、CNN、FOX News、BBC、半岛电视台**等，展示重大博弈中不同立场的叙事重点与定调差异。
+- **永久持久化历史回溯**：历史快照与要闻简报永久存储在仓库中，支持按日期和关键词通过静态全文搜索（<kbd>Ctrl+K</kbd>）随时毫秒级查阅。
+- **24/7 全自动无人值守**：基于 GitHub Actions 自动化调度与静态网站生成技术，实现每小时自动抓取、智能提炼、自动构建与全球 CDN 部署。
+
+## 🛠️ 本地运行与开发
+
+```bash
+# 1. 克隆代码仓库
+git clone https://github.com/stlin256/INFO-LIVE.git
+cd INFO-LIVE
+
+# 2. 安装依赖
+npm install
+
+# 3. 运行本地开发服务器
+npm run dev
+
+# 4. 手动触发一次情报抓取与 AI 提炼
+node scripts/feed-engine.mjs
+
+# 5. 构建全量静态网站
+npm run build
+```
+
+## 🤝 开源致谢与底层驱动
+- **前端框架**：基于开源项目 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动，遵循极简、优雅的静态杂志化设计规范。
+- **智能模型**：接入 Gemini 3.8 Flash 前沿大语言模型进行跨语言深度编译与结构化综合研判。
+- **代码授权**：本项目采用 [MIT License](https://github.com/stlin256/INFO-LIVE/blob/master/LICENSE) 协议开源。

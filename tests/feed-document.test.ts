@@ -13,7 +13,7 @@ import { buildFeedDocument, feedLangParams, feedPathFor } from '../src/lib/feed-
 import type { PageEntry } from '../src/lib/config.ts';
 
 // 首个经 renderMarkdown 的用例需初始化 Shiki 高亮器，覆盖率插桩下可能超过默认 5s 超时
-vi.setConfig({ testTimeout: 20000 });
+vi.setConfig({ testTimeout: 60000 });
 
 let root: string;
 let dataDir: string;

@@ -1681,3 +1681,116 @@ html.js .reveal.revealed {
   font-weight: 700;
   margin-right: 0.4rem;
 }
+
+/* ---- InfoLive News Card & Media Layout ---- */
+.markdown-body .md-grid-cell {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md, 8px);
+  padding: 1.25rem 1.4rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.03);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.markdown-body .md-grid-cell:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.07);
+}
+
+.markdown-body .md-grid-cell h3 {
+  margin: 0.5rem 0 0.75rem;
+  font-size: 1.15rem;
+  line-height: 1.45;
+  font-weight: 700;
+}
+
+.markdown-body .md-grid-cell h3 a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.markdown-body .md-grid-cell h3 a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.news-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.article-cover {
+  width: 100%;
+  max-height: 240px;
+  overflow: hidden;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  margin: 0.75rem 0 1rem;
+  background: var(--bg-subtle);
+}
+
+.article-cover img {
+  width: 100%;
+  height: 100%;
+  max-height: 240px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.markdown-body .md-grid-cell:hover .article-cover img {
+  transform: scale(1.02);
+}
+
+.news-card-takeaways {
+  background: var(--bg-subtle);
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0 0.85rem;
+  font-size: 0.88rem;
+}
+
+.takeaways-header {
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 0.35rem;
+}
+
+.takeaways-list {
+  margin: 0;
+  padding-left: 1.2rem;
+  color: var(--text-muted);
+}
+
+.takeaways-list li {
+  margin-bottom: 0.25rem;
+  line-height: 1.5;
+}
+
+.news-card-footer {
+  margin-top: auto;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--border);
+}
+
+.news-source-link {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.news-source-link:hover {
+  text-decoration: underline;
+}

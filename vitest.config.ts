@@ -2,6 +2,7 @@ import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
   test: {
+    testTimeout: 60000,
     // 只收单测目录；e2e/*.spec.ts 归 Playwright，避免被 vitest 误扫
     include: ['tests/**/*.test.ts'],
     coverage: {

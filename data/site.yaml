@@ -13,6 +13,8 @@ profile:
   avatar: ''
   bio_page: index
   links:
+    - label: 历史情报归档
+      url: /archive
     - label: 信源矩阵
       url: /sources
     - label: AI与前沿科技
@@ -33,8 +35,8 @@ theme:
 footer:
   enabled: true
   text:
-    zh: InfoLive 全球情报矩阵 · 前端框架由 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动
-    en: InfoLive Global Matrix · Powered by [OpenHomepage-V2](https://github.com/stlin256/OpenHomepage-V2)
+    zh: InfoLive 全球情报矩阵 · [GitHub 仓库](https://github.com/stlin256/INFO-LIVE) · 基于 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动
+    en: InfoLive Global Matrix · [GitHub](https://github.com/stlin256/INFO-LIVE) · Powered by [OpenHomepage-V2](https://github.com/stlin256/OpenHomepage-V2)
 home:
   layout:
     - block: profile
@@ -42,15 +44,7 @@ home:
     - block: rss
 contact:
   intro_card:
-    enabled: true
-    delay: 4500
-    label:
-      zh: Live Intel
-    title:
-      zh: 开源情报枢纽
-    description:
-      zh: 基于 OpenHomepage V2 驱动，每小时 GitHub Actions 全自动采集更新
-    image: assets/sources/github.svg
+    enabled: false
 bgm:
   autoplay: false
   enabled: false
