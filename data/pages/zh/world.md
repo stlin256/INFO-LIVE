@@ -16,22 +16,22 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-16684282html" class="story-anchor"></div>
+<div id="story-16686570html" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:46</span>
+  <span class="news-meta-time">🕒 09-10 03:06</span>
 </div>
 
-### [越南国家主席苏林对俄罗斯的访问结束](https://ria.ru/20260909/kreml-2116684282.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Визит президента Вьетнама То Лама в Россию завершился</div>
+### [在发现结节性皮肤病的安加拉河流域地区，已开始为牲畜接种疫苗](https://ria.ru/20260909/dermatit-2116686570.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> В Приангарье, где выявили узелковый дерматит, начали вакцинировать скот</div>
 
-<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07ea/09/09/2116595359_0:0:3082:1734_650x0_80_0_0_da1e8a3a02dd4265bf04ee2a35d64f33.jpg" alt="越南国家主席苏林对俄罗斯的访问结束" loading="lazy" /></div>
+<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07e9/07/01/2026527674_0:277:2665:1776_650x0_80_0_0_75fdd49c389626b781f0e190bc8e45bc.jpg" alt="在发现结节性皮肤病的安加拉河流域地区，已开始为牲畜接种疫苗" loading="lazy" /></div>
 
-【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:46 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“俄越外交动态：双方发表联合声明反对违反国际法的单边限制措施”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 03:06 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -42,9 +42,8 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>越南国家主席苏林对俄罗斯的访问已结束。</li>
-    <li>俄罗斯与越南发表联合声明，反对违反国际法的单边限制措施。</li>
-    <li>来源叙事重点：聚焦越南国家主席苏林访俄成果及双方联合声明，着重强调反对违反国际法的单边限制措施，将俄越合作框架置于打破既有霸权、推进世界多极化格局与抵御西方制裁的宏观地缘博弈叙事中。</li>
+    <li>在检出结节性皮肤病的普里安加里耶地区，已开始为牲畜接种疫苗。</li>
+    <li>来源叙事重点：表面聚焦普里安加里耶地区暴发牛结节性皮肤病后的官方疫苗接种应对，但在叙事框架上被泛化提升至危机管控、行动合法性以及宏观产业链安全与防务必要性层面。</li>
   </ul>
 </div>
 
@@ -53,65 +52,61 @@ notice:
   <span class="news-tag-pill">#RIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260909/kreml-2116684282.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ria.ru/20260909/dermatit-2116686570.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-16684404html" class="story-anchor"></div>
+<div id="story-dtermsgamble" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
-    <span class="stance-badge">莫斯科官方视角</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
+    <span class="source-badge"><img src="/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="16" height="16" /> <strong>France 24 (EN 官方英语原版)</strong></span>
+    <span class="stance-badge">欧洲战略自主</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:46</span>
+  <span class="news-meta-time">🕒 09-10 03:04</span>
 </div>
 
-### [别尔哥罗德一名物流师因为恐怖主义辩护被判刑](https://ria.ru/20260909/sud-2116684404.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Логисту из Белгорода дали срок за оправдание терроризма</div>
+### [共和党孤注一掷豪赌美国中期选举：将特朗普推至舞台中心](https://www.france24.com/en/republicans-put-trump-center-stage-in-us-midterms-gamble)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Republicans put Trump center stage in US midterms gamble</div>
 
-<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/15057/48/150574882_0:0:1501:845_650x0_80_0_0_fd561abed5c536d6427a8cafb9bb569a.jpg" alt="别尔哥罗德一名物流师因为恐怖主义辩护被判刑" loading="lazy" /></div>
+<div class="article-cover"><img src="https://s.france24.com/media/display/e568c03a-ac67-11f1-94b2-005056a97e36/w:1024/p:16x9/2026-09-09T030521Z-656306742-RC2OYK97ENYA-RTRMADP-3-USA-ELECTION-REPUBLICANS.jpg" alt="共和党孤注一掷豪赌美国中期选举：将特朗普推至舞台中心" loading="lazy" /></div>
 
-【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:46 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
-
-【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
-
-【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
-
-【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
+美国共和党人于周三在达拉斯召开了一场不同寻常的中期选举大会。他们押注将唐纳德·特朗普置于竞选活动的核心位置，能够拯救面临严峻选情预测的共和党——尽管这位总统的支持率极其低迷。法国24台（FRANCE 24）记者蒙特·弗朗西斯（Monte Francis）为您解读。
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>俄新社报道称别尔哥罗德一名物流师因为恐怖主义辩护获刑。</li>
-    <li>该报道于北京时间 09-10 02:46（俄文源发布时间 2026-09-09 21:46:30 +0300）由俄新社播发。</li>
-    <li>来源叙事重点：报道聚焦于别尔哥罗德司法机关对涉嫌“为恐怖主义辩解”人员的定罪与量刑，强调国家在边境地区维护法律秩序、防范安全威胁以及对反恐违规行为的严厉打击与震慑。</li>
+    <li>美国共和党人于周三在达拉斯召开中期选举大会。</li>
+    <li>共和党将唐纳德·特朗普置于竞选的核心位置，以此应对严峻的选举前景预测。</li>
+    <li>来源叙事重点：报道聚焦于美国共和党在达拉斯举行中期选举大会，重点强调共和党在民调预测严峻以及特朗普支持率极低的背景下，依然选择将特朗普置于竞选核心这一政治“豪赌”</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#RIA</span>
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#France</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260909/sud-2116684404.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.france24.com/en/republicans-put-trump-center-stage-in-us-midterms-gamble" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【France 24 (EN 官方英语原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-16684069html" class="story-anchor"></div>
+<div id="story-16686250html" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:45</span>
+  <span class="news-meta-time">🕒 09-10 03:04</span>
 </div>
 
-### [俄越外交动态：双方发表联合声明反对违反国际法的单边限制措施](https://ria.ru/20260909/futbol-2116684069.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> &quot;Енисей&quot; обыграл &quot;Дружбу&quot; в матче пути регионов Кубка России</div>
+### [国际要闻关注：](https://ria.ru/20260909/ombudsmen-2116686250.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Омбудсмен проконтролирует ситуацию с ученицей, не посещающей школу в Москве</div>
 
-【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:45 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“俄越外交动态：双方发表联合声明反对违反国际法的单边限制措施”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07e7/03/14/1859048724_0:37:2336:1351_650x0_80_0_0_6ee01bbfc2e01c868089fbe8f746e222.jpg" alt="国际要闻关注：" loading="lazy" /></div>
+
+【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 03:04 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -122,7 +117,7 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:45 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
+    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 03:04 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
     <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
@@ -132,26 +127,26 @@ notice:
   <span class="news-tag-pill">#RIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260909/futbol-2116684069.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ria.ru/20260909/ombudsmen-2116686250.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-mpreliefhtml" class="story-anchor"></div>
+<div id="story-onalbacklash" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="16" height="16" /> <strong>NY Times World (纽约时报官方英文)</strong></span>
-    <span class="stance-badge">美主流建制派</span>
+    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News World (美国FOX官方英文)" width="16" height="16" /> <strong>FOX News World (美国FOX官方英文)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:44</span>
+  <span class="news-meta-time">🕒 09-10 03:04</span>
 </div>
 
-### [前沿智能动态：关于大模型范式演进与产业落地的最新进展](https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Nepal’s Flood Relief Workers Feel the Pain of Trump’s Cuts to U.S.A.I.D.</div>
+### [前沿智能动态：关于大模型范式演进与产业落地的最新进展](https://www.foxnews.com/world/israels-e1-plan-explained-jerusalem-area-corridor-sparking-international-backlash)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Israel’s E1 plan explained: The Jerusalem-area corridor sparking international backlash</div>
 
-<div class="article-cover"><img src="https://static01.nyt.com/images/2026/09/08/multimedia/08int-nepal-aid-01-mcfq/08int-nepal-aid-01-mcfq-mediumSquareAt3X.jpg" alt="前沿智能动态：关于大模型范式演进与产业落地的最新进展" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jerusalem-view.jpg?ve=1&tl=1" alt="前沿智能动态：关于大模型范式演进与产业落地的最新进展" loading="lazy" /></div>
 
-【一手核心事实与事态进展】：根据权威信源【NY Times World (纽约时报官方英文)】于北京时间 09-10 02:44 播发的一手权威电讯（体现【美主流建制派】报道视角），关于“前沿智能动态：关于大模型范式演进与产业落地的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+【一手核心事实与事态进展】：根据权威信源【FOX News World (美国FOX官方英文)】于北京时间 09-10 03:04 播发的一手权威电讯（体现【美保守派与鹰派】报道视角），关于“前沿智能动态：关于大模型范式演进与产业落地的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -162,34 +157,34 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【NY Times World (纽约时报官方英文)】于 09-10 02:44 首发确认，叙事定调深度契合其【美主流建制派】的基本盘利益与议程设置</li>
+    <li>权威信源【FOX News World (美国FOX官方英文)】于 09-10 03:04 首发确认，叙事定调深度契合其【美保守派与鹰派】的基本盘利益与议程设置</li>
     <li>核心冲击波横跨【🧠 前沿智能】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#NY</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.nytimes.com/2026/09/09/world/asia/nepal-floods-usaid-trump-relief.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NY Times World (纽约时报官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/world/israels-e1-plan-explained-jerusalem-area-corridor-sparking-international-backlash" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News World (美国FOX官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-16683714html" class="story-anchor"></div>
+<div id="story-16686130html" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:43</span>
+  <span class="news-meta-time">🕒 09-10 03:03</span>
 </div>
 
-### [国际要闻关注：](https://ria.ru/20260909/barselona-2116683714.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> &quot;Барселона&quot; разгромила &quot;Фейенорд&quot; в первом туре ЛЧ</div>
+### [国际要闻关注：99 9](https://ria.ru/20260909/tramp-2116686130.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Трамп оценил вероятность заключения сделки с Ираном в 99,9 процента</div>
 
-【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:43 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 03:03 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：99 9”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -200,7 +195,7 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:43 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
+    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 03:03 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
     <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
@@ -210,140 +205,64 @@ notice:
   <span class="news-tag-pill">#RIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260909/barselona-2116683714.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ria.ru/20260909/tramp-2116686130.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-eadceb67html" class="story-anchor"></div>
+<div id="story-onomy2185077" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
+    <span class="source-badge"><img src="/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
+    <span class="dimension-pill">⚡ 战略能源与气候</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:43</span>
+  <span class="news-meta-time">🕒 09-10 03:02</span>
 </div>
 
-### [国际要闻关注：Trump  la guerra in Iran finir  subito dopo le nostre elezioni](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/trump-la-guerra-in-iran-finira-subito-dopo-le-nostre-elezioni_1b32c1f9-ce92-4ada-bd6c-e6cbeadceb67.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump, la guerra in Iran finirà subito dopo le nostre elezioni</div>
+### [国际要闻关注：Zarubezhneft reaches production sharing agreement 针对 blocks on Vietnamese shelf](https://tass.com/economy/2185077)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Zarubezhneft reaches production sharing agreement for blocks on Vietnamese shelf</div>
 
-【一手核心事实与事态进展】：根据权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于北京时间 09-10 02:43 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“国际要闻关注：Trump  la guerra in Iran finir  subito dopo le nostre elezioni”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+【一手核心事实与事态进展】：根据权威信源【TASS (塔斯社官方英文)】于北京时间 09-10 03:02 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“国际要闻关注：Zarubezhneft reaches production sharing agreement 针对 blocks on Vietnamese shelf”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
-【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
+【宏观地缘与产业链深层背景】：从【⚡ 战略能源与气候】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
 
 【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 09-10 02:43 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
-    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
+    <li>权威信源【TASS (塔斯社官方英文)】于 09-10 03:02 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
+    <li>核心冲击波横跨【⚡ 战略能源与气候】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#ANSA</span>
+  <span class="news-tag-pill">#战略能源与气候</span>
+  <span class="news-tag-pill">#TASS</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/trump-la-guerra-in-iran-finira-subito-dopo-le-nostre-elezioni_1b32c1f9-ce92-4ada-bd6c-e6cbeadceb67.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://tass.com/economy/2185077" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-9ffa567dhtml" class="story-anchor"></div>
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-10 02:43</span>
-</div>
-
-### [国际要闻关注：Trump  la guerra in Iran finir  subito dopo le nostre elezioni](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/09/trump-la-guerra-in-iran-finira-subito-dopo-le-nostre-elezioni_8ea842ce-15ba-41cf-94c2-432f9ffa567d.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump, la guerra in Iran finirà subito dopo le nostre elezioni</div>
-
-【一手核心事实与事态进展】：根据权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于北京时间 09-10 02:43 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“国际要闻关注：Trump  la guerra in Iran finir  subito dopo le nostre elezioni”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
-
-【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
-
-【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
-
-【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 09-10 02:43 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
-    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#ANSA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/09/trump-la-guerra-in-iran-finira-subito-dopo-le-nostre-elezioni_8ea842ce-15ba-41cf-94c2-432f9ffa567d.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-24707945html" class="story-anchor"></div>
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="Sputnik Globe (官方国际英文电讯)" width="16" height="16" /> <strong>Sputnik Globe (官方国际英文电讯)</strong></span>
-    <span class="stance-badge">莫斯科官方视角</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-10 02:42</span>
-</div>
-
-### [国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展](https://sputnikglobe.com/20260909/russia-and-vietnam-push-back-against-asset-freezes-and-foreign-interference-in-joint-statement-1124707945.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Russia and Vietnam Push Back Against Asset Freezes and Foreign Interference in Joint Statement</div>
-
-<div class="article-cover"><img src="https://cdn1.img.sputnikglobe.com/img/07ea/09/09/1124707572_0:171:3031:1876_600x0_80_0_0_cdbf3ff844ef2e73d8f0ef6ee30a9bfe.jpg" alt="国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展" loading="lazy" /></div>
-
-【一手核心事实与事态进展】：根据权威信源【Sputnik Globe (官方国际英文电讯)】于北京时间 09-10 02:42 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
-
-【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
-
-【宏观地缘与产业链深层背景】：从【🧠 前沿智能】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
-
-【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Sputnik Globe (官方国际英文电讯)】于 09-10 02:42 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
-    <li>核心冲击波横跨【🧠 前沿智能】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Sputnik</span>
-</div>
-
-<div class="news-card-footer"><a href="https://sputnikglobe.com/20260909/russia-and-vietnam-push-back-against-asset-freezes-and-foreign-interference-in-joint-statement-1124707945.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Sputnik Globe (官方国际英文电讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-16683563html" class="story-anchor"></div>
+<div id="story-16685922html" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:41</span>
+  <span class="news-meta-time">🕒 09-10 03:01</span>
 </div>
 
-### [国际要闻关注：](https://ria.ru/20260909/zelenskiy-2116683563.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> В самолет с Зеленским на борту чуть не попал дрон, заявил премьер Норвегии</div>
+### [国际要闻关注：](https://ria.ru/20260909/arest-2116685922.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> В Москве арестовали иностранца, пытавшегося изнасиловать женщину</div>
 
-【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:41 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07e4/03/18/1569077683_0:132:2560:1572_650x0_80_0_0_104f974e5d990150822edfe667aeb652.jpg" alt="国际要闻关注：" loading="lazy" /></div>
+
+【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 03:01 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -354,7 +273,7 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:41 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
+    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 03:01 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
     <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
@@ -364,24 +283,26 @@ notice:
   <span class="news-tag-pill">#RIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260909/zelenskiy-2116683563.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ria.ru/20260909/arest-2116685922.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-16683462html" class="story-anchor"></div>
+<div id="story-16685707html" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:41</span>
+  <span class="news-meta-time">🕒 09-10 03:01</span>
 </div>
 
-### [国际要闻关注：](https://ria.ru/20260909/tramp-2116683462.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Трамп допустил трехстороннюю встречу с Путиным и Зеленским</div>
+### [俄罗斯文体动态：莫斯科中央陆军宣布完成重要球员转会交易](https://ria.ru/20260909/tsska-2116685707.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Хоккеисты ЦСКА всухую обыграли &quot;Торпедо&quot; в матче КХЛ</div>
 
-【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:41 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07ea/04/0e/2087082313_0:0:3199:1800_650x0_80_0_0_c12e0184799c7d50b1c253526251686c.jpg" alt="俄罗斯文体动态：莫斯科中央陆军宣布完成重要球员转会交易" loading="lazy" /></div>
+
+【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 03:01 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“俄罗斯文体动态：莫斯科中央陆军宣布完成重要球员转会交易”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -392,7 +313,7 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:41 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
+    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 03:01 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
     <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
@@ -402,24 +323,24 @@ notice:
   <span class="news-tag-pill">#RIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260909/tramp-2116683462.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ria.ru/20260909/tsska-2116685707.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-onomy2185063" class="story-anchor"></div>
+<div id="story-world2185075" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:41</span>
+  <span class="news-meta-time">🕒 09-10 02:59</span>
 </div>
 
-### [苹果年度重磅发布会直击：新一代 iPhone 旗舰与硬件生态全景亮相](https://tass.com/economy/2185063)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Apple unveils iPhone 18 Pro, Pro Max</div>
+### [国际要闻关注：Trump expects war with Iran to end 紧随 US midterm elections](https://tass.com/world/2185075)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump expects war with Iran to end after US midterm elections</div>
 
-【一手核心事实与事态进展】：根据权威信源【TASS (塔斯社官方英文)】于北京时间 09-10 02:41 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“苹果年度重磅发布会直击：新一代 iPhone 旗舰与硬件生态全景亮相”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+【一手核心事实与事态进展】：根据权威信源【TASS (塔斯社官方英文)】于北京时间 09-10 02:59 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“国际要闻关注：Trump expects war with Iran to end 紧随 US midterm elections”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -430,7 +351,7 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TASS (塔斯社官方英文)】于 09-10 02:41 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
+    <li>权威信源【TASS (塔斯社官方英文)】于 09-10 02:59 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
     <li>核心冲击波横跨【🧠 前沿智能】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
@@ -440,26 +361,24 @@ notice:
   <span class="news-tag-pill">#TASS</span>
 </div>
 
-<div class="news-card-footer"><a href="https://tass.com/economy/2185063" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://tass.com/world/2185075" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-16683288html" class="story-anchor"></div>
+<div id="story-16685284html" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:40</span>
+  <span class="news-meta-time">🕒 09-10 02:58</span>
 </div>
 
-### [国际要闻关注：](https://ria.ru/20260909/sud-2116683288.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Композитор Литягин обвинил экс-солистку группы &quot;Мираж&quot; в клевете</div>
+### [俄越外交动态：双方发表联合声明反对违反国际法的单边限制措施](https://ria.ru/20260909/it-2116685284.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Стали известны цены на iPhone 18 в России</div>
 
-<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07e9/03/0e/2005027964_0:230:3231:2048_650x0_80_0_0_c6cb674821b0b4e016b0651a7e0a3262.jpg" alt="国际要闻关注：" loading="lazy" /></div>
-
-【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:40 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:58 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“俄越外交动态：双方发表联合声明反对违反国际法的单边限制措施”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -470,7 +389,7 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:40 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
+    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:58 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
     <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
@@ -480,260 +399,26 @@ notice:
   <span class="news-tag-pill">#RIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260909/sud-2116683288.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ria.ru/20260909/it-2116685284.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-9fd637a2html" class="story-anchor"></div>
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-10 02:40</span>
-</div>
-
-### [国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/trump-con-putin-una-buona-conversazione-vuole-un-accordo_43e5d2df-0b85-4f84-82d1-dea49fd637a2.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump, 'con Putin una buona conversazione, vuole un accordo'</div>
-
-【一手核心事实与事态进展】：根据权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于北京时间 09-10 02:40 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
-
-【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
-
-【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
-
-【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 09-10 02:40 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
-    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#ANSA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/09/trump-con-putin-una-buona-conversazione-vuole-un-accordo_43e5d2df-0b85-4f84-82d1-dea49fd637a2.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-16683181html" class="story-anchor"></div>
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
-    <span class="stance-badge">莫斯科官方视角</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-10 02:39</span>
-</div>
-
-### [国际要闻关注：](https://ria.ru/20260909/tramp-2116683181.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Трамп сообщил об уничтожении девяти иранских кораблей</div>
-
-【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:39 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
-
-【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
-
-【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
-
-【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:39 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
-    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#RIA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://ria.ru/20260909/tramp-2116683181.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-undsbluntice" class="story-anchor"></div>
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
-  </div>
-  <span class="news-meta-time">🕒 09-10 02:39</span>
-</div>
-
-### [国际要闻关注：Alien harboring  accusations fly 伴随 DC area county spends taxpayer funds to blunt ICE](https://www.foxnews.com/politics/alien-harboring-accusations-fly-dc-area-county-spends-taxpayer-funds-blunt-ice)
-<div class="original-title-sub"><span class="orig-tag">原文</span> 'Alien harboring' accusations fly as DC-area county spends taxpayer funds to blunt ICE</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ice-dc-area-operation.png?ve=1&tl=1" alt="国际要闻关注：Alien harboring  accusations fly 伴随 DC area county spends taxpayer funds to blunt ICE" loading="lazy" /></div>
-
-【一手核心事实与事态进展】：根据权威信源【FOX News Latest (美国FOX快讯)】于北京时间 09-10 02:39 播发的一手权威电讯（体现【美保守派与鹰派】报道视角），关于“国际要闻关注：Alien harboring  accusations fly 伴随 DC area county spends taxpayer funds to blunt ICE”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
-
-【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
-
-【宏观地缘与产业链深层背景】：从【💹 宏观资本与产业】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
-
-【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 09-10 02:39 首发确认，叙事定调深度契合其【美保守派与鹰派】的基本盘利益与议程设置</li>
-    <li>核心冲击波横跨【💹 宏观资本与产业】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/politics/alien-harboring-accusations-fly-dc-area-county-spends-taxpayer-funds-blunt-ice" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-nejohnternus" class="story-anchor"></div>
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/npr.svg" class="source-icon" alt="NPR World (美国国家公共电台官方英文)" width="16" height="16" /> <strong>NPR World (美国国家公共电台官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-10 02:39</span>
-</div>
-
-### [苹果年度重磅发布会直击：新一代 iPhone 旗舰与硬件生态全景亮相](https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Fold the phone: Apple's new CEO unveils a foldable iPhone</div>
-
-<div class="article-cover"><img src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5179x3452+0+0/resize/5179x3452!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2F94%2Fea4ee2174d008423895469bb766d%2Fap26252624722761.jpg" alt="苹果年度重磅发布会直击：新一代 iPhone 旗舰与硬件生态全景亮相" loading="lazy" /></div>
-
-【一手核心事实与事态进展】：根据权威信源【NPR World (美国国家公共电台官方英文)】于北京时间 09-10 02:39 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“苹果年度重磅发布会直击：新一代 iPhone 旗舰与硬件生态全景亮相”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
-
-【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
-
-【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
-
-【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【NPR World (美国国家公共电台官方英文)】于 09-10 02:39 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
-    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#NPR</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NPR World (美国国家公共电台官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-16683009html" class="story-anchor"></div>
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
-    <span class="stance-badge">莫斯科官方视角</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-10 02:38</span>
-</div>
-
-### [国际要闻关注：](https://ria.ru/20260909/evraev-2116683009.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Капремонт территории у автостанции в Любиме выполнят в этом году</div>
-
-<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07ea/06/03/2096596592_0:368:2844:1968_650x0_80_0_0_03c9b8dfdf57fb6be91e499f4f3e70bb.jpg" alt="国际要闻关注：" loading="lazy" /></div>
-
-【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:38 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
-
-【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
-
-【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
-
-【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:38 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
-    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#RIA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://ria.ru/20260909/evraev-2116683009.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-8d75d041html" class="story-anchor"></div>
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-10 02:38</span>
-</div>
-
-### [国际要闻关注：L Argentina sanziona altri 15 soggetti che operano nelle Falkland Malvinas](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/largentina-sanziona-altri-15-soggetti-che-operano-nelle-falkland-malvinas_c398ecef-824c-44fc-ac73-56668d75d041.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> L'Argentina sanziona altri 15 soggetti che operano nelle Falkland-Malvinas</div>
-
-【一手核心事实与事态进展】：根据权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于北京时间 09-10 02:38 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“国际要闻关注：L Argentina sanziona altri 15 soggetti che operano nelle Falkland Malvinas”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
-
-【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
-
-【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
-
-【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 09-10 02:38 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
-    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#ANSA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/09/largentina-sanziona-altri-15-soggetti-che-operano-nelle-falkland-malvinas_c398ecef-824c-44fc-ac73-56668d75d041.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-hanniversary" class="story-anchor"></div>
+<div id="story-ssfulsurgery" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:36</span>
+  <span class="news-meta-time">🕒 09-10 02:58</span>
 </div>
 
-### [国际要闻关注：Mamdani  NYPD give security update ahead of Jewish High Holy Days  9 11 25th anniversary](https://www.foxnews.com/us/mamdani-nypd-security-update-jewish-high-holy-days-911-25th-anniversary)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Mamdani, NYPD give security update ahead of Jewish High Holy Days, 9/11 25th anniversary</div>
+### [国际要闻关注：Rutgers basketball coach Steve Pikiell reveals that he has cancer  will be sidelined 紧随 successful surgery](https://www.foxnews.com/outkick-sports/rutgers-basketball-coach-steve-pikiell-reveals-cancer-sidelined-successful-surgery)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Rutgers basketball coach Steve Pikiell reveals that he has cancer, will be sidelined after successful surgery</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Tisch_Mamdani.jpg?ve=1&tl=1" alt="国际要闻关注：Mamdani  NYPD give security update ahead of Jewish High Holy Days  9 11 25th anniversary" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/steve-pikiell-rutgers-scarlet-knights-indiana.jpg?ve=1&tl=1" alt="国际要闻关注：Rutgers basketball coach Steve Pikiell reveals that he has cancer  will be sidelined 紧随 successful surgery" loading="lazy" /></div>
 
-【一手核心事实与事态进展】：根据权威信源【FOX News Latest (美国FOX快讯)】于北京时间 09-10 02:36 播发的一手权威电讯（体现【美保守派与鹰派】报道视角），关于“国际要闻关注：Mamdani  NYPD give security update ahead of Jewish High Holy Days  9 11 25th anniversary”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+【一手核心事实与事态进展】：根据权威信源【FOX News Latest (美国FOX快讯)】于北京时间 09-10 02:58 播发的一手权威电讯（体现【美保守派与鹰派】报道视角），关于“国际要闻关注：Rutgers basketball coach Steve Pikiell reveals that he has cancer  will be sidelined 紧随 successful surgery”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -744,7 +429,7 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 09-10 02:36 首发确认，叙事定调深度契合其【美保守派与鹰派】的基本盘利益与议程设置</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 09-10 02:58 首发确认，叙事定调深度契合其【美保守派与鹰派】的基本盘利益与议程设置</li>
     <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
@@ -754,26 +439,26 @@ notice:
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/us/mamdani-nypd-security-update-jewish-high-holy-days-911-25th-anniversary" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/rutgers-basketball-coach-steve-pikiell-reveals-cancer-sidelined-successful-surgery" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-atelliterace" class="story-anchor"></div>
+<div id="story-edicalbattle" class="story-anchor"></div>
 <div class="news-card-header">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="16" height="16" /> <strong>France 24 (EN 官方英语原版)</strong></span>
-    <span class="stance-badge">欧洲战略自主</span>
+    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 09-10 02:35</span>
+  <span class="news-meta-time">🕒 09-10 02:57</span>
 </div>
 
-### [国际要闻关注：Whose space is it  Europe scrambles 伴随 US rules satellite race](https://www.france24.com/en/tv-shows/the-debate/20260909-whose-space-is-it-europe-scrambles-as-us-rules-satellite-race)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Whose space is it? Europe scrambles as US rules satellite race</div>
+### [国际要闻关注：Brandi Glanville speaks out on complex diagnosis 与  6K monthly medical battle](https://www.foxnews.com/entertainment/brandi-glanville-speaks-complex-diagnosis-6k-monthly-medical-battle)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Brandi Glanville speaks out on complex diagnosis and &#36;6K monthly medical battle</div>
 
-<div class="article-cover"><img src="https://s.france24.com/media/display/94c5ddc4-ac77-11f1-a256-005056a90284/w:1024/p:16x9/2026-09-09T162116Z-134763298-RC2RFNARCBVB-RTRMADP-3-EUROPE-SPACE.jpg" alt="国际要闻关注：Whose space is it  Europe scrambles 伴随 US rules satellite race" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Brandi-Glanville-1.jpg?ve=1&tl=1" alt="国际要闻关注：Brandi Glanville speaks out on complex diagnosis 与  6K monthly medical battle" loading="lazy" /></div>
 
-【一手核心事实与事态进展】：根据权威信源【France 24 (EN 官方英语原版)】于北京时间 09-10 02:35 播发的一手权威电讯（体现【欧洲战略自主】报道视角），关于“国际要闻关注：Whose space is it  Europe scrambles 伴随 US rules satellite race”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+【一手核心事实与事态进展】：根据权威信源【FOX News Latest (美国FOX快讯)】于北京时间 09-10 02:57 播发的一手权威电讯（体现【美保守派与鹰派】报道视角），关于“国际要闻关注：Brandi Glanville speaks out on complex diagnosis 与  6K monthly medical battle”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
 
 【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
 
@@ -784,17 +469,329 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【France 24 (EN 官方英语原版)】于 09-10 02:35 首发确认，叙事定调深度契合其【欧洲战略自主】的基本盘利益与议程设置</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 09-10 02:57 首发确认，叙事定调深度契合其【美保守派与鹰派】的基本盘利益与议程设置</li>
     <li>核心冲击波横跨【🧠 前沿智能】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#France</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.france24.com/en/tv-shows/the-debate/20260909-whose-space-is-it-europe-scrambles-as-us-rules-satellite-race" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【France 24 (EN 官方英语原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/brandi-glanville-speaks-complex-diagnosis-6k-monthly-medical-battle" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-tsreporthtml" class="story-anchor"></div>
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="16" height="16" /> <strong>NY Times World (纽约时报官方英文)</strong></span>
+    <span class="stance-badge">美主流建制派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-10 02:56</span>
+</div>
+
+### [前沿智能动态：关于大模型范式演进与产业落地的最新进展](https://www.nytimes.com/2026/09/09/world/europe/spain-ceuta-migrants-report.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Spain Declassifies Warning to Morocco About Migrant Crossing Plans</div>
+
+<div class="article-cover"><img src="https://static01.nyt.com/images/2026/09/09/multimedia/09int-spain-ceuta-1-jgzc/09int-spain-ceuta-1-jgzc-mediumSquareAt3X.jpg" alt="前沿智能动态：关于大模型范式演进与产业落地的最新进展" loading="lazy" /></div>
+
+【一手核心事实与事态进展】：根据权威信源【NY Times World (纽约时报官方英文)】于北京时间 09-10 02:56 播发的一手权威电讯（体现【美主流建制派】报道视角），关于“前沿智能动态：关于大模型范式演进与产业落地的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+
+【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
+
+【宏观地缘与产业链深层背景】：从【🧠 前沿智能】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
+
+【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【NY Times World (纽约时报官方英文)】于 09-10 02:56 首发确认，叙事定调深度契合其【美主流建制派】的基本盘利益与议程设置</li>
+    <li>核心冲击波横跨【🧠 前沿智能】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#NY</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.nytimes.com/2026/09/09/world/europe/spain-ceuta-migrants-report.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NY Times World (纽约时报官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ports2185073" class="story-anchor"></div>
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 09-10 02:55</span>
+</div>
+
+### [国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展](https://tass.com/sports/2185073)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Russia’s ex-Sports Minister Kolobkov nominated for FIDE vice president post</div>
+
+【一手核心事实与事态进展】：根据权威信源【TASS (塔斯社官方英文)】于北京时间 09-10 02:55 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+
+【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
+
+【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
+
+【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TASS (塔斯社官方英文)】于 09-10 02:55 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
+    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#TASS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://tass.com/sports/2185073" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-24708199html" class="story-anchor"></div>
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="Sputnik Globe (官方国际英文电讯)" width="16" height="16" /> <strong>Sputnik Globe (官方国际英文电讯)</strong></span>
+    <span class="stance-badge">莫斯科官方视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-10 02:54</span>
+</div>
+
+### [国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展](https://sputnikglobe.com/20260909/trump-says-trilateral-us-russia-ukraine-meeting-could-happen-1124708199.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump Says Trilateral US-Russia-Ukraine Meeting Could Happen</div>
+
+【一手核心事实与事态进展】：根据权威信源【Sputnik Globe (官方国际英文电讯)】于北京时间 09-10 02:54 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+
+【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
+
+【宏观地缘与产业链深层背景】：从【🧠 前沿智能】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
+
+【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Sputnik Globe (官方国际英文电讯)】于 09-10 02:54 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
+    <li>核心冲击波横跨【🧠 前沿智能】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Sputnik</span>
+</div>
+
+<div class="news-card-footer"><a href="https://sputnikglobe.com/20260909/trump-says-trilateral-us-russia-ukraine-meeting-could-happen-1124708199.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Sputnik Globe (官方国际英文电讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-tcampaignrss" class="story-anchor"></div>
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
+    <span class="stance-badge">英伦主流建制</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-10 02:53</span>
+</div>
+
+### [国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展](https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Two die at Moldovan border as Russia-Ukraine drone war rages</div>
+
+<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd22/live/97c3c920-ac39-11f1-b483-f5be285e6b7e.jpg" alt="国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展" loading="lazy" /></div>
+
+【一手核心事实与事态进展】：根据权威信源【BBC World (英国BBC官方英文)】于北京时间 09-10 02:53 播发的一手权威电讯（体现【英伦主流建制】报道视角），关于“国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+
+【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
+
+【宏观地缘与产业链深层背景】：从【🧠 前沿智能】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
+
+【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【BBC World (英国BBC官方英文)】于 09-10 02:53 首发确认，叙事定调深度契合其【英伦主流建制】的基本盘利益与议程设置</li>
+    <li>核心冲击波横跨【🧠 前沿智能】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#BBC</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-16684921html" class="story-anchor"></div>
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
+    <span class="stance-badge">莫斯科官方视角</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 09-10 02:53</span>
+</div>
+
+### [俄越外交动态：双方发表联合声明反对违反国际法的单边限制措施](https://ria.ru/20260909/rossija-2116684921.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Турпоток между Россией и Вьетнамом может достичь 1,5 миллиона поездок в год</div>
+
+<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/152432/85/1524328574_0:0:3212:1807_650x0_80_0_0_1ca2e8137bad3b8634c9bae510921fcd.jpg" alt="俄越外交动态：双方发表联合声明反对违反国际法的单边限制措施" loading="lazy" /></div>
+
+【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:53 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“俄越外交动态：双方发表联合声明反对违反国际法的单边限制措施”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+
+【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
+
+【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
+
+【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:53 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
+    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#RIA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://ria.ru/20260909/rossija-2116684921.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-fense2185071" class="story-anchor"></div>
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-10 02:53</span>
+</div>
+
+### [国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展](https://tass.com/defense/2185071)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Russia destroys 675 Ukrainian warplanes over course of special op</div>
+
+【一手核心事实与事态进展】：根据权威信源【TASS (塔斯社官方英文)】于北京时间 09-10 02:53 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+
+【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
+
+【宏观地缘与产业链深层背景】：从【🧠 前沿智能】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
+
+【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TASS (塔斯社官方英文)】于 09-10 02:53 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
+    <li>核心冲击波横跨【🧠 前沿智能】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TASS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://tass.com/defense/2185071" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-16684775html" class="story-anchor"></div>
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
+    <span class="stance-badge">莫斯科官方视角</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 09-10 02:52</span>
+</div>
+
+### [国际要闻关注：](https://ria.ru/20260909/ulyanov-2116684775.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Новая антииранская резолюция чревата витком эскалации, заявил Ульянов</div>
+
+<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07e9/0b/01/2052386888_0:65:3072:1792_650x0_80_0_0_953608bfbeabf011af88a838c5e3d57c.jpg" alt="国际要闻关注：" loading="lazy" /></div>
+
+【一手核心事实与事态进展】：根据权威信源【RIA Novosti (俄新社官方俄文)】于北京时间 09-10 02:52 播发的一手权威电讯（体现【莫斯科官方视角】报道视角），关于“国际要闻关注：”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+
+【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
+
+【宏观地缘与产业链深层背景】：从【🌐 全球地缘战略】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
+
+【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 09-10 02:52 首发确认，叙事定调深度契合其【莫斯科官方视角】的基本盘利益与议程设置</li>
+    <li>核心冲击波横跨【🌐 全球地缘战略】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#RIA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://ria.ru/20260909/ulyanov-2116684775.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-world2185069" class="story-anchor"></div>
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-10 02:48</span>
+</div>
+
+### [国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展](https://tass.com/world/2185069)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Russia, China, Niger vote against anti-Iranian IAEA resolution — source</div>
+
+【一手核心事实与事态进展】：根据权威信源【TASS (塔斯社官方英文)】于北京时间 09-10 02:48 播发的一手权威电讯（体现【独立专业观察】报道视角），关于“国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展”的事态进展引发了国际与产业界的广泛震荡。电讯披露，关键决策主体已围绕核心诉求采取了实质性动作，涉及的现场数据与事实细节经过了多家机构的交叉印证。事件在关键节点上的发酵，直接打破了既有力量对比与产业平衡。
+
+【各方阵营表态与利益博弈】：各主要利益攸关方围绕该事态展开了针锋相对的舆论定调与行动反制。一方面，当事核心代表在公开声明中极力强调自身行动的合理性、合法性与防务必要性；另一方面，对立阵营与周边利益共同体则对可能引发的次生外溢冲击发出严厉警报，敦促建立危机管控机制并开展穿梭斡旋。不同立场的报道选词与叙事重心的鲜明反差，折射出深层次战略诉求的结构性撕裂。
+
+【宏观地缘与产业链深层背景】：从【🧠 前沿智能】的宏观战略维度审视，该事态的发展绝非孤立偶然的局部波动，而是世界多极格局加速演进、关键资源要素流动受阻以及技术主权博弈深化下的必然产物。随着全球大国博弈进入制度博弈与硬实力对峙深水区，传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试。
+
+【后续演进走势与观察焦点】：未来数日至数周内，外界应重点跟踪以下实质性风向标：一是关键决策机构与多边国际组织的官方裁决及联合公报；二是现货市场与资本流动对该事件的二阶定价反应；三是关键当事方是否会激活此前签署的条约连带条款或加码反制措施。事件后续走向将对相关领域的长期秩序重构产生深远的风向标效应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TASS (塔斯社官方英文)】于 09-10 02:48 首发确认，叙事定调深度契合其【独立专业观察】的基本盘利益与议程设置</li>
+    <li>核心冲击波横跨【🧠 前沿智能】领域，后续需警惕相关多边协议联动与二阶溢出风险对供应链的系统性冲击</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TASS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://tass.com/world/2185069" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::

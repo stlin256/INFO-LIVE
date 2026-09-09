@@ -16,14 +16,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **8** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **9** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 02:48 (UTC+8)
+- **最新归档时间**：2026-09-10 03:11 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 03:11 (UTC+8)" title="全球要闻情报简报 · 03:11" org="ARCHIVE"}
+**速报纪要：** 全球多源监控全景简报。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [在发现结节性皮肤病的安加拉河流域地区，已开始为牲畜接种疫苗](https://ria.ru/20260909/dermatit-2116686570.html) <span class="news-meta-time">🕒 09-10 03:06</span>
+- [TechCrunch (硅谷创业与资本)] [Apple Watch 新功能可倾听你的聊天并进行总结](https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/) <span class="news-meta-time">🕒 09-10 03:08</span>
+- [OilPrice (全球能源与原油大宗)] [英国若忽略绝大部分账单，放弃净零排放可省下500英镑](https://oilprice.com/Energy/Energy-General/Britain-Can-Save-500-by-Scrapping-Net-Zero-If-It-Ignores-Most-of-the-Bill.html) <span class="news-meta-time">🕒 09-10 03:00</span>
+- [Lobste.rs (极客思想社区)] [ID 设计与主键](https://anchorsandlinks.com/posts/primary-keys/) <span class="news-meta-time">🕒 09-10 02:31</span>
+- [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
+- [France 24 (EN 官方英语原版)] [共和党孤注一掷豪赌美国中期选举：将特朗普推至舞台中心](https://www.france24.com/en/republicans-put-trump-center-stage-in-us-midterms-gamble) <span class="news-meta-time">🕒 09-10 03:04</span>
+:::
 :::timeline-item{start="2026-09-10 02:48 (UTC+8)" title="全球要闻情报简报 · 02:48" org="ARCHIVE"}
 **速报纪要：** 全球多源监控全景简报。
 

@@ -84,9 +84,10 @@
       "evidenceIds": [],
       "facts": [],
       "conflicts": [],
-      "noEvidenceRuns": 1,
+      "noEvidenceRuns": 2,
       "noEvidenceRunIds": [
-        "feed-20260910T024754490Z-3hosf3"
+        "feed-20260910T024754490Z-3hosf3",
+        "feed-20260910T030909217Z-545umj"
       ],
       "archiveHistory": []
     },
@@ -166,9 +167,10 @@
       "evidenceIds": [],
       "facts": [],
       "conflicts": [],
-      "noEvidenceRuns": 1,
+      "noEvidenceRuns": 2,
       "noEvidenceRunIds": [
-        "feed-20260910T024754490Z-3hosf3"
+        "feed-20260910T024754490Z-3hosf3",
+        "feed-20260910T030909217Z-545umj"
       ],
       "archiveHistory": []
     }
