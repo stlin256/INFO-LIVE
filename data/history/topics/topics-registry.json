@@ -79,7 +79,16 @@
         "https://www.theguardian.com/world/2026/sep/08/shinjuku-tokyo-tourism-hotspot-bans-short-term-rentals-airbnb-surge-in-complaints",
         "https://www.theguardian.com/society/2026/aug/18/abused-as-child-drinking-lockdown-frank-spinelli-shame",
         "https://www.nature.com/articles/s41586-026-11001-9"
-      ]
+      ],
+      "previousRunIds": [],
+      "evidenceIds": [],
+      "facts": [],
+      "conflicts": [],
+      "noEvidenceRuns": 1,
+      "noEvidenceRunIds": [
+        "feed-20260910T024754490Z-3hosf3"
+      ],
+      "archiveHistory": []
     },
     {
       "slug": "topic-ai-safety",
@@ -152,7 +161,16 @@
         "https://www.wsj.com/articles/tesla-to-recall-1-2-million-cars-in-china-on-safety-concerns-06ff757a?mod=pls_whats_news_us_business_f",
         "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
         "https://www.france24.com/en/americas/20260909-how-a-french-foreign-legion-soldier-dramatically-escaped-colombian-captors"
-      ]
+      ],
+      "previousRunIds": [],
+      "evidenceIds": [],
+      "facts": [],
+      "conflicts": [],
+      "noEvidenceRuns": 1,
+      "noEvidenceRunIds": [
+        "feed-20260910T024754490Z-3hosf3"
+      ],
+      "archiveHistory": []
     }
   ]
 }
