@@ -26,6 +26,72 @@ sources:
     latest: 3
     weight: 1
 
+  - name: "NPR World (美国国家公共电台)"
+    url: "https://feeds.npr.org/1001/rss.xml"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "ANSA Mondo (意大利安莎社)"
+    url: "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "TASS (塔斯社官方英文)"
+    url: "https://tass.com/rss/v2.xml"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "UN News (联合国官方英文)"
+    url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "WHO News (世界卫生组织官方英文)"
+    url: "https://www.who.int/rss-feeds/news-english.xml"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "European Central Bank (欧洲央行官方英文)"
+    url: "https://www.ecb.europa.eu/rss/press.html"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "Federal Reserve (美国联邦储备委员会)"
+    url: "https://www.federalreserve.gov/feeds/press_all.xml"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "ESA Space News (欧洲航天局)"
+    url: "https://www.esa.int/rssfeed/Our_Activities/Space_News"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "Microsoft Research (微软研究院)"
+    url: "https://www.microsoft.com/en-us/research/feed/"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "NVIDIA Developer Blog (英伟达开发者)"
+    url: "https://developer.nvidia.com/blog/feed/"
+    mode: latest
+    latest: 3
+    weight: 2
+
+  - name: "AWS Machine Learning Blog"
+    url: "https://aws.amazon.com/blogs/machine-learning/feed/"
+    mode: latest
+    latest: 3
+    weight: 2
+
   # 指定文章模式：按本列表顺序编排，note 显示为推荐语，cover 为卡片封面（可选）
   # name 与 note 支持多语言映射（zh/en/ja/fr），缺语言时回退 en → zh
   - name:

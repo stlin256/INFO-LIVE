@@ -4,7 +4,7 @@ nav: true
 order: 0
 description: "InfoLive 全球全源信息流与 AI 实时要闻矩阵"
 notice:
-  text: "⚡ 24/7 全球情报实时监控中 · 上次同步：2026-09-09 23:15 (UTC+8) · 聚合 30+ 权威信源"
+  text: "⚡ 24/7 全球情报实时监控中 · 上次同步：2026-09-09 23:15 (UTC+8) · 聚合 55+ 权威信源"
   color: "theme"
 ---
 

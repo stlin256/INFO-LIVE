@@ -4,7 +4,7 @@ site:
   description:
     zh: InfoLive | 全球全源信息流与 AI 实时要闻矩阵：聚合世界主流通讯社、前沿科技社区、金融时政与学术前沿，每小时由 AI 深度提炼、内化总结与事件追踪。
   language: zh-CN
-  favicon: assets/favicon.svg
+  favicon: assets/infolive-mark.svg
 profile:
   name:
     zh: InfoLive 全球情报矩阵
@@ -41,8 +41,8 @@ theme:
 footer:
   enabled: true
   text:
-    zh: InfoLive 全球情报矩阵 · [GitHub 仓库](https://github.com/stlin256/INFO-LIVE) · 基于 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动
-    en: InfoLive Global Matrix · [GitHub](https://github.com/stlin256/INFO-LIVE) · Powered by [OpenHomepage-V2](https://github.com/stlin256/OpenHomepage-V2)
+    zh: "[InfoLive](https://github.com/stlin256/INFO-LIVE) · 全球情报矩阵"
+    en: "[InfoLive](https://github.com/stlin256/INFO-LIVE) · Global Signal Matrix"
 home:
   layout:
     - block: profile

@@ -9,6 +9,8 @@ description: "InfoLive 架构设计、开源代码仓库与自动化工作流说
 
 **InfoLive** 是一个开源、全自动、由前沿大模型驱动的全球全源信息流与实时要闻矩阵平台。
 
+<div class="infolive-project-logo"><img class="infolive-logo-light" src="/assets/infolive-logo.svg" alt="InfoLive Global Signal Matrix 项目 Logo" width="920" height="240" loading="eager" /><img class="infolive-logo-dark" src="/assets/infolive-logo-dark.svg" alt="" aria-hidden="true" width="920" height="240" loading="eager" /></div>
+
 ## 🚀 官方开源代码仓库
 
 <div class="repo-showcase-card">
@@ -20,7 +22,7 @@ description: "InfoLive 架构设计、开源代码仓库与自动化工作流说
     <span class="perspective-stance-badge" style="background:color-mix(in srgb, #10b981 12%, transparent);color:#059669;border-color:color-mix(in srgb, #10b981 25%, transparent);">开源项目 · Public</span>
   </div>
   <div class="repo-showcase-desc">
-    InfoLive | 全球全源信息流与 AI 实时要闻矩阵平台。接入新华社、俄新社、法新社、CNN、FOX、BBC、半岛电视台等 36+ 官方原版母语电讯，基于前沿大语言模型进行跨语言深度编译、多维信源对照与跨 Actions 话题生命周期管理。
+    InfoLive | 全球全源信息流与 AI 实时要闻矩阵平台。接入新华社、俄新社、法新社、CNN、FOX、BBC、半岛电视台、联合国、世卫组织、欧洲央行等 55+ 官方原版母语电讯，基于前沿大语言模型进行跨语言深度编译、多维信源对照与跨 Actions 话题生命周期管理。
   </div>
   <div class="repo-showcase-topics">
     <a href="https://github.com/topics/intelligence" target="_blank" rel="noopener" class="repo-topic-pill">intelligence</a>
@@ -86,4 +88,5 @@ npm run build
 ## 🤝 开源致谢与底层驱动
 - **前端框架**：基于开源项目 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动，遵循极简、优雅的静态杂志化设计规范。
 - **智能模型**：采用可配置主模型与 `gpt-5.6-luna` 备用模型；主模型失效时自动切换，持续完成跨语言深度编译与结构化综合研判。
+- **品牌系统**：InfoLive 使用独立的雷达信号项目 Logo、favicon 与支持 HDR 宽色域高光的页脚 Logo。
 - **代码授权**：本项目采用 [MIT License](https://github.com/stlin256/INFO-LIVE/blob/master/LICENSE) 协议开源。

@@ -1,6 +1,6 @@
 /**
  * 页脚（src/lib/footer.ts）单测：默认开启（显式 false 才关闭）、
- * 默认内容 Powered by OpenHomepage-V2（带仓库链接）、内联 markdown 链接解析 + sanitize。
+ * 默认内容为 InfoLive 品牌页脚标识（带仓库链接）、内联 markdown 链接解析 + sanitize。
  */
 import { describe, it, expect } from 'vitest';
 import {
@@ -30,7 +30,7 @@ describe('resolveFooter（默认开启）', () => {
     expect(resolveFooter({ ...baseSite, footer: { enabled: false, text: 'x' } })).toBeNull();
   });
 
-  it('自定义文本覆盖默认；默认内容含 OpenHomepage-V2 仓库链接', () => {
+  it('自定义文本覆盖默认；默认内容含 InfoLive 仓库链接', () => {
     const r = resolveFooter({ ...baseSite, footer: { enabled: true, text: { zh: '自用', en: 'Mine' } } });
     expect(r!.text).toEqual({ zh: '自用', en: 'Mine' });
     expect(DEFAULT_FOOTER_TEXT.en).toContain('Powered by');
@@ -45,6 +45,13 @@ describe('footerTextToHtml（内联链接 + sanitize）', () => {
   });
 
   it('[label](url) 转为链接（target=_blank rel=noopener）', () => {
+    const html = footerTextToHtml('[InfoLive](https://github.com/stlin256/INFO-LIVE)');
+    expect(html).toContain('class="footer-brand footer-brand-infolive"');
+    expect(html).toContain('footer-brand-mark');
+    expect(html).toContain('GLOBAL SIGNAL');
+  });
+
+  it('保留旧品牌链接的兼容渲染', () => {
     const html = footerTextToHtml('Powered by [OpenHomepage-V2](https://github.com/stlin256/OpenHomepage-V2)');
     expect(html).toBe(
       'Powered by <a href="https://github.com/stlin256/OpenHomepage-V2" target="_blank" rel="noopener" class="footer-brand">OpenHomepage <span class="footer-brand-v2">V2</span></a>',

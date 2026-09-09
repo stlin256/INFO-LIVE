@@ -1,7 +1,7 @@
 /**
  * InfoLive 全球全源监控信源注册表
  * 严格使用各国通讯社及媒体的原生官方语言原版页面，杜绝二次本地化版本。
- * 覆盖：新华社、俄新社(RIA)、卫星社、法新社合作电讯(France 24)、CNN、FOX、BBC、卫报、半岛电视台、WSJ、CNBC等
+ * 覆盖：新华社、俄新社(RIA)、卫星社、法新社合作电讯(France 24)、CNN、FOX、BBC、卫报、半岛电视台、WSJ、CNBC、联合国、世卫组织、欧洲央行等
  */
 export const SOURCES = [
   // 1. 全球大国通讯社与地缘博弈旗舰（原生语言版）
@@ -55,5 +55,19 @@ export const SOURCES = [
   { name: 'Nature News (自然科学顶级期刊)', slug: 'nature', category: 'science', lang: 'en', url: 'https://www.nature.com/nature.rss', weight: 10 },
   { name: 'Science Magazine (科学杂志)', slug: 'science', category: 'science', lang: 'en', url: 'https://www.science.org/rss/news_current.xml', weight: 9 },
   { name: 'NASA News (深空探索与航天)', slug: 'nasa', category: 'science', lang: 'en', url: 'https://www.nasa.gov/news-release/feed/', weight: 8 },
-  { name: 'Phys.org (基础物理与技术前沿)', slug: 'science', lang: 'en', category: 'science', url: 'https://phys.org/rss-feed/', weight: 8 }
+  { name: 'Phys.org (基础物理与技术前沿)', slug: 'science', lang: 'en', category: 'science', url: 'https://phys.org/rss-feed/', weight: 8 },
+
+  // 6. 新增官方通讯社、国际组织与政策机构信源
+  { name: 'NPR World (美国国家公共电台官方英文)', slug: 'npr', category: 'world', lang: 'en', url: 'https://feeds.npr.org/1001/rss.xml', weight: 8 },
+  { name: 'ANSA Mondo (意大利安莎社官方意大利文)', slug: 'ansa', category: 'world', lang: 'it', url: 'https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml', weight: 9 },
+  { name: 'ANSA English (安莎社官方英文)', slug: 'ansa', category: 'world', lang: 'en', url: 'https://www.ansa.it/english/news/english_nr_rss.xml', weight: 8 },
+  { name: 'TASS (塔斯社官方英文)', slug: 'tass', category: 'world', lang: 'en', url: 'https://tass.com/rss/v2.xml', weight: 9 },
+  { name: 'UN News (联合国官方英文)', slug: 'un', category: 'world', lang: 'en', url: 'https://news.un.org/feed/subscribe/en/news/all/rss.xml', weight: 9 },
+  { name: 'WHO News (世界卫生组织官方英文)', slug: 'who', category: 'science', lang: 'en', url: 'https://www.who.int/rss-feeds/news-english.xml', weight: 9 },
+  { name: 'European Central Bank (欧洲央行官方英文)', slug: 'ecb', category: 'finance', lang: 'en', url: 'https://www.ecb.europa.eu/rss/press.html', weight: 9 },
+  { name: 'Federal Reserve (美国联邦储备委员会官方英文)', slug: 'fed', category: 'finance', lang: 'en', url: 'https://www.federalreserve.gov/feeds/press_all.xml', weight: 9 },
+  { name: 'ESA Space News (欧洲航天局官方英文)', slug: 'esa', category: 'science', lang: 'en', url: 'https://www.esa.int/rssfeed/Our_Activities/Space_News', weight: 9 },
+  { name: 'Microsoft Research (微软研究院官方英文)', slug: 'microsoft', category: 'ai', lang: 'en', url: 'https://www.microsoft.com/en-us/research/feed/', weight: 8 },
+  { name: 'NVIDIA Developer Blog (英伟达开发者官方英文)', slug: 'nvidia', category: 'ai', lang: 'en', url: 'https://developer.nvidia.com/blog/feed/', weight: 8 },
+  { name: 'AWS Machine Learning Blog (亚马逊云科技官方英文)', slug: 'aws', category: 'ai', lang: 'en', url: 'https://aws.amazon.com/blogs/machine-learning/feed/', weight: 8 }
 ];

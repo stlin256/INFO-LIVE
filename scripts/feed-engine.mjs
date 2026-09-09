@@ -26,7 +26,7 @@ function ensureGithubCache() {
       {
         name: 'INFO-LIVE',
         full_name: 'stlin256/INFO-LIVE',
-        description: 'InfoLive | 全球全源信息流与 AI 实时要闻矩阵 (Powered by OpenHomepage V2)',
+        description: 'InfoLive | 全球全源信息流与 AI 实时要闻矩阵 (Global Signal Matrix)',
         html_url: 'https://github.com/stlin256/INFO-LIVE',
         homepage: 'https://stlin256.github.io/INFO-LIVE',
         language: 'TypeScript',

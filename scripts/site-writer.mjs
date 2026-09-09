@@ -20,7 +20,8 @@ export function resolveSourceSlug(sourceName, sourceSlug) {
   if (s.includes('xinhua') || n.includes('新华')) return 'xinhua';
   if (s.includes('ria') || n.includes('ria') || n.includes('俄新社')) return 'ria';
   if (s.includes('sputnik') || n.includes('卫星通讯社')) return 'sputnik';
-  if (s.includes('france24') || n.includes('france 24') || s.includes('afp') || n.includes('法新社')) return 'france24';
+  if (s.includes('afp') || n.includes('afp') || n.includes('法新社')) return 'afp';
+  if (s.includes('france24') || n.includes('france 24')) return 'france24';
   if (s.includes('cnn') || n.includes('cnn')) return 'cnn';
   if (s.includes('fox') || n.includes('fox')) return 'fox';
   if (s.includes('guardian') || n.includes('guardian') || n.includes('卫报')) return 'guardian';
@@ -37,11 +38,22 @@ export function resolveSourceSlug(sourceName, sourceSlug) {
   if (s.includes('reuters') || n.includes('路透')) return 'reuters';
   if (s.includes('ap') || n.includes('associated press') || n.includes('美联社')) return 'ap';
   if (s.includes('bloomberg') || n.includes('彭博')) return 'bloomberg';
-  if (s.includes('nytimes') || n.includes('times') || n.includes('纽约时报')) return 'nytimes';
+  if (s === 'ft' || n.includes('financial times') || n.includes('金融时报')) return 'ft';
+  if (s.includes('nytimes') || n.includes('new york times') || n.includes('纽约时报')) return 'nytimes';
   if (s.includes('wsj') || n.includes('wall street') || n.includes('华尔街日报')) return 'wsj';
   if (s.includes('marketwatch') || n.includes('marketwatch')) return 'marketwatch';
   if (s.includes('oilprice') || n.includes('oilprice')) return 'oilprice';
-  if (s.includes('ft') || n.includes('financial times') || n.includes('金融时报')) return 'ft';
+  if (s.includes('npr') || n.includes('npr')) return 'npr';
+  if (s.includes('ansa') || n.includes('ansa') || n.includes('安莎')) return 'ansa';
+  if (s.includes('tass') || n.includes('tass') || n.includes('塔斯')) return 'tass';
+  if (s === 'un' || n.includes('un news') || n.includes('联合国')) return 'un';
+  if (s.includes('who') || n.includes('who news') || n.includes('世界卫生组织')) return 'who';
+  if (s.includes('ecb') || n.includes('central bank') || n.includes('欧洲央行')) return 'ecb';
+  if (s.includes('fed') || n.includes('federal reserve') || n.includes('联邦储备')) return 'fed';
+  if (s.includes('esa') || n.includes('esa space') || n.includes('欧洲航天')) return 'esa';
+  if (s.includes('microsoft') || n.includes('microsoft research') || n.includes('微软研究')) return 'microsoft';
+  if (s.includes('nvidia') || n.includes('nvidia') || n.includes('英伟达')) return 'nvidia';
+  if (s === 'aws' || n.includes('aws') || n.includes('亚马逊云')) return 'aws';
   if (s.includes('dw') || n.includes('welle') || n.includes('德国之声')) return 'dw';
   if (s.includes('zaobao') || n.includes('早报')) return 'zaobao';
   if (s.includes('caixin') || n.includes('财新')) return 'caixin';
@@ -120,7 +132,7 @@ export function renderRepoShowcaseCard() {
     <span class="perspective-stance-badge" style="background:color-mix(in srgb, #10b981 12%, transparent);color:#059669;border-color:color-mix(in srgb, #10b981 25%, transparent);">开源项目 · Public</span>
   </div>
   <div class="repo-showcase-desc">
-    InfoLive | 全球全源信息流与 AI 实时要闻矩阵平台。接入新华社、俄新社、法新社、CNN、FOX、BBC、半岛电视台等 36+ 官方原版母语电讯，基于前沿大语言模型进行跨语言深度编译、多维信源对照与跨 Actions 话题生命周期管理。
+    InfoLive | 全球全源信息流与 AI 实时要闻矩阵平台。接入新华社、俄新社、法新社、CNN、FOX、BBC、半岛电视台、联合国、世卫组织、欧洲央行等 55+ 官方原版母语电讯，基于前沿大语言模型进行跨语言深度编译、多维信源对照与跨 Actions 话题生命周期管理。
   </div>
   <div class="repo-showcase-topics">
     <a href="https://github.com/topics/intelligence" target="_blank" rel="noopener" class="repo-topic-pill">intelligence</a>
@@ -366,7 +378,7 @@ export function writeSiteData(data, rawItems = []) {
     'order: 0',
     'description: "InfoLive 24/7 全球全源信息流与 AI 实时要闻矩阵"',
     'notice:',
-    `  text: "⚡ 当前监控运行中 · 本小时数据更新于 ${timeInfo.hourOnly} · 聚合全球 36+ 权威通讯社一手原版电讯"`,
+    `  text: "⚡ 当前监控运行中 · 本小时数据更新于 ${timeInfo.hourOnly} · 聚合全球 55+ 权威通讯社与机构一手原版电讯"`,
     '  color: "theme"',
     '---',
     '',
@@ -730,7 +742,7 @@ export function writeSiteData(data, rawItems = []) {
     'title: "信源矩阵"',
     'nav: true',
     'order: 8',
-    'description: "InfoLive 接入的全球 36+ 权威通讯社与专业前沿数据源"',
+    'description: "InfoLive 接入的全球 55+ 权威通讯社、国际组织与专业前沿数据源"',
     '---',
     '',
     '# 📡 全球全源监控信源注册表',
@@ -760,6 +772,8 @@ export function writeSiteData(data, rawItems = []) {
     '# ℹ️ 关于 InfoLive 全球情报矩阵',
     '',
     '**InfoLive** 是一个开源、全自动、由前沿大模型驱动的全球全源信息流与实时要闻矩阵平台。',
+    '',
+    '<div class="infolive-project-logo"><img class="infolive-logo-light" src="/assets/infolive-logo.svg" alt="InfoLive Global Signal Matrix 项目 Logo" width="920" height="240" loading="eager" /><img class="infolive-logo-dark" src="/assets/infolive-logo-dark.svg" alt="" aria-hidden="true" width="920" height="240" loading="eager" /></div>',
     '',
     '## 🚀 官方开源代码仓库',
     '',
@@ -801,6 +815,7 @@ export function writeSiteData(data, rawItems = []) {
     '## 🤝 开源致谢与底层驱动',
     '- **前端框架**：基于开源项目 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动，遵循极简、优雅的静态杂志化设计规范。',
     '- **智能模型**：采用可配置主模型与 `gpt-5.6-luna` 备用模型；主模型失效时自动切换，持续完成跨语言深度编译与结构化综合研判。',
+    '- **品牌系统**：InfoLive 使用独立的雷达信号项目 Logo、favicon 与支持 HDR 宽色域高光的页脚 Logo。',
     '- **代码授权**：本项目采用 [MIT License](https://github.com/stlin256/INFO-LIVE/blob/master/LICENSE) 协议开源。'
   ];
   fs.writeFileSync(path.join(pagesDir, 'about.md'), aboutLines.join('\n'), 'utf8');

@@ -1,5 +1,6 @@
 # 素材说明 / Assets
 
+- `infolive-mark.svg`、`infolive-logo.svg`、`infolive-logo-dark.svg`、`favicon.svg` — InfoLive 独立雷达信号项目标记、横版项目 Logo 与站点图标；页脚 Logo 的 HDR 高光由 `src/styles/footnotes.css` 提供
 - `avatar.svg` — 文字徽标头像（项目生成，可自由替换）
 - `hero.jpg`、`figure-1.jpg`、`figure-2.jpg`、`cover-1.jpg`、`cover-2.jpg`、`gallery-*.jpg` — 示例站长的摄影作品（已去 EXIF 并压缩），仅作演示用途，替换为你自己的图片即可
 - `research-compute.jpg` — STLIN 摄影作品（计算集群 / 硬件环境，源于 DSC_5835）

@@ -2,7 +2,7 @@
 title: "信源矩阵"
 nav: true
 order: 8
-description: "InfoLive 接入的全球 36+ 权威通讯社与专业前沿数据源"
+description: "InfoLive 接入的全球 55+ 权威通讯社、国际组织与专业前沿数据源"
 ---
 
 # 📡 全球全源监控信源注册表
@@ -36,7 +36,7 @@ description: "InfoLive 接入的全球 36+ 权威通讯社与专业前沿数据�
 | <span class="source-badge"><img src="/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span> | `en` | ⭐ 10/10 | [直达官方一手源网 ↗](https://www.cnbc.com/id/10000664/device/rss/rss.html) |
 | <span class="source-badge"><img src="/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Economy (CNBC 宏观经济)" width="16" height="16" /> <strong>CNBC Economy (CNBC 宏观经济)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.cnbc.com/id/20910258/device/rss/rss.html) |
 | <span class="source-badge"><img src="/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="16" height="16" /> <strong>MarketWatch Top Stories (市场观察)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://feeds.content.dowjones.io/public/rss/mw_topstories) |
-| <span class="source-badge"><img src="/assets/sources/nytimes.svg" class="source-icon" alt="Financial Times (英国金融时报)" width="16" height="16" /> <strong>Financial Times (英国金融时报)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.ft.com/rss/home/uk) |
+| <span class="source-badge"><img src="/assets/sources/ft.svg" class="source-icon" alt="Financial Times (英国金融时报)" width="16" height="16" /> <strong>Financial Times (英国金融时报)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.ft.com/rss/home/uk) |
 | <span class="source-badge"><img src="/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://oilprice.com/rss/main) |
 | <span class="source-badge"><img src="/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span> | `en` | ⭐ 10/10 | [直达官方一手源网 ↗](https://news.ycombinator.com/rss) |
 | <span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.theverge.com/rss/index.xml) |
@@ -54,3 +54,15 @@ description: "InfoLive 接入的全球 36+ 权威通讯社与专业前沿数据�
 | <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Science Magazine (科学杂志)" width="16" height="16" /> <strong>Science Magazine (科学杂志)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.science.org/rss/news_current.xml) |
 | <span class="source-badge"><img src="/assets/sources/nasa.svg" class="source-icon" alt="NASA News (深空探索与航天)" width="16" height="16" /> <strong>NASA News (深空探索与航天)</strong></span> | `en` | ⭐ 8/10 | [直达官方一手源网 ↗](https://www.nasa.gov/news-release/feed/) |
 | <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span> | `en` | ⭐ 8/10 | [直达官方一手源网 ↗](https://phys.org/rss-feed/) |
+| <span class="source-badge"><img src="/assets/sources/npr.svg" class="source-icon" alt="NPR World (美国国家公共电台官方英文)" width="16" height="16" /> <strong>NPR World (美国国家公共电台官方英文)</strong></span> | `en` | ⭐ 8/10 | [直达官方一手源网 ↗](https://feeds.npr.org/1001/rss.xml) |
+| <span class="source-badge"><img src="/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span> | `it` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml) |
+| <span class="source-badge"><img src="/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span> | `en` | ⭐ 8/10 | [直达官方一手源网 ↗](https://www.ansa.it/english/news/english_nr_rss.xml) |
+| <span class="source-badge"><img src="/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://tass.com/rss/v2.xml) |
+| <span class="source-badge"><img src="/assets/sources/un.svg" class="source-icon" alt="UN News (联合国官方英文)" width="16" height="16" /> <strong>UN News (联合国官方英文)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://news.un.org/feed/subscribe/en/news/all/rss.xml) |
+| <span class="source-badge"><img src="/assets/sources/who.svg" class="source-icon" alt="WHO News (世界卫生组织官方英文)" width="16" height="16" /> <strong>WHO News (世界卫生组织官方英文)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.who.int/rss-feeds/news-english.xml) |
+| <span class="source-badge"><img src="/assets/sources/ecb.svg" class="source-icon" alt="European Central Bank (欧洲央行官方英文)" width="16" height="16" /> <strong>European Central Bank (欧洲央行官方英文)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.ecb.europa.eu/rss/press.html) |
+| <span class="source-badge"><img src="/assets/sources/fed.svg" class="source-icon" alt="Federal Reserve (美国联邦储备委员会官方英文)" width="16" height="16" /> <strong>Federal Reserve (美国联邦储备委员会官方英文)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.federalreserve.gov/feeds/press_all.xml) |
+| <span class="source-badge"><img src="/assets/sources/esa.svg" class="source-icon" alt="ESA Space News (欧洲航天局官方英文)" width="16" height="16" /> <strong>ESA Space News (欧洲航天局官方英文)</strong></span> | `en` | ⭐ 9/10 | [直达官方一手源网 ↗](https://www.esa.int/rssfeed/Our_Activities/Space_News) |
+| <span class="source-badge"><img src="/assets/sources/microsoft.svg" class="source-icon" alt="Microsoft Research (微软研究院官方英文)" width="16" height="16" /> <strong>Microsoft Research (微软研究院官方英文)</strong></span> | `en` | ⭐ 8/10 | [直达官方一手源网 ↗](https://www.microsoft.com/en-us/research/feed/) |
+| <span class="source-badge"><img src="/assets/sources/nvidia.svg" class="source-icon" alt="NVIDIA Developer Blog (英伟达开发者官方英文)" width="16" height="16" /> <strong>NVIDIA Developer Blog (英伟达开发者官方英文)</strong></span> | `en` | ⭐ 8/10 | [直达官方一手源网 ↗](https://developer.nvidia.com/blog/feed/) |
+| <span class="source-badge"><img src="/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span> | `en` | ⭐ 8/10 | [直达官方一手源网 ↗](https://aws.amazon.com/blogs/machine-learning/feed/) |
