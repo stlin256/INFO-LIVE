@@ -11,6 +11,8 @@ export const SOURCES = [
   { name: 'RIA Novosti (俄新社官方俄文)', slug: 'ria', category: 'world', lang: 'ru', url: 'https://ria.ru/export/rss2/archive/index.xml', weight: 10 },
   { name: 'Sputnik Globe (官方国际英文电讯)', slug: 'sputnik', category: 'world', lang: 'en', url: 'https://sputnikglobe.com/export/rss2/archive/index.xml', weight: 10 },
   { name: 'France 24 (FR 官方法语原版)', slug: 'france24', category: 'world', lang: 'fr', url: 'https://www.france24.com/fr/rss', weight: 10 },
+  { name: 'AFP Actualités (官方法文原版)', slug: 'afp', category: 'world', lang: 'fr', url: 'https://www.afp.com/fr/actus/afp_communique/all/feed', weight: 10 },
+  { name: 'AFP News (官方英文原版)', slug: 'afp', category: 'world', lang: 'en', url: 'https://www.afp.com/en/actus/afp_communique/all/feed', weight: 10 },
   { name: 'France 24 (EN 官方英语原版)', slug: 'france24', category: 'world', lang: 'en', url: 'https://www.france24.com/en/rss', weight: 9 },
   { name: 'BBC World (英国BBC官方英文)', slug: 'bbc', category: 'world', lang: 'en', url: 'http://feeds.bbci.co.uk/news/world/rss.xml', weight: 10 },
   { name: 'The Guardian (英国卫报官方英文)', slug: 'guardian', category: 'world', lang: 'en', url: 'https://www.theguardian.com/world/rss', weight: 9 },
