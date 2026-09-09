@@ -800,7 +800,7 @@ export function writeSiteData(data, rawItems = []) {
     '',
     '## 🤝 开源致谢与底层驱动',
     '- **前端框架**：基于开源项目 [OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2) 驱动，遵循极简、优雅的静态杂志化设计规范。',
-    '- **智能模型**：接入 Gemini 3.8 Flash 前沿大语言模型进行跨语言深度编译与结构化综合研判。',
+    '- **智能模型**：采用可配置主模型与 `gpt-5.6-luna` 备用模型；主模型失效时自动切换，持续完成跨语言深度编译与结构化综合研判。',
     '- **代码授权**：本项目采用 [MIT License](https://github.com/stlin256/INFO-LIVE/blob/master/LICENSE) 协议开源。'
   ];
   fs.writeFileSync(path.join(pagesDir, 'about.md'), aboutLines.join('\n'), 'utf8');

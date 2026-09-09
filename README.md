@@ -12,7 +12,7 @@
    - 兼收并蓄，包容一切立场与多元视角，提供真正的全球全景洞察。
 
 2. **🧠 纯正 AI 内化深度总结（非简单外链聚合）**
-   - 接入 Gemini 3.8 Flash 旗舰级多模态认知模型，执行中文内化翻译与情报提炼。
+   - 采用可配置的主模型与 `gpt-5.6-luna` 备用模型：主模型请求失败、超时或返回无效 JSON 时自动切换，执行中文内化翻译与情报提炼。
    - **每小时要闻速报**：提炼当前小时全球核心宏观信号与关键动态。
    - **重大事件脉络追踪（Timeline）**：结构化呈现跨周期的事件最新进展、背景脉络与后续研判。
    - **全景要闻深度拆解（Cards）**：150~200 字背景深度还原 + 核心研判要点 + 真实来源追溯。
@@ -26,7 +26,7 @@
    - 纯静态生成（Astro SSG），加载极快，零运维成本，天然抵御高并发流量。
 
 5. **🔐 极客级凭据安全体系**
-   - AI 密钥严禁写入仓库代码，全部安全托管于 GitHub Repository Secrets（`AI_API_KEY`, `AI_API_BASE`, `AI_MODEL`）。
+   - AI 凭据与模型配置严禁写入仓库代码，全部安全托管于 GitHub Repository Secrets；主模型使用 `AI_MODEL`，备用模型可用 `AI_FALLBACK_MODEL` 覆盖，默认值为 `gpt-5.6-luna`。
 
 ---
 
@@ -44,7 +44,7 @@
 ## 🛠️ 技术栈与架构
 
 - **核心驱动**：[OpenHomepage V2](https://github.com/stlin256/OpenHomepage-V2)（Astro 5 + TypeScript + Vite + Sharp）
-- **AI 智能中枢**：Gemini 3.8 Flash (OpenAI-compatible protocol)
+- **AI 智能中枢**：可配置主模型 + `gpt-5.6-luna` 自动故障转移（OpenAI-compatible protocol）
 - **多源数据管线**：Node.js 24 + Undici + RSS-Parser + 智能容错并发队列
 - **CI/CD & 托管**：GitHub Actions + GitHub Pages
 
@@ -58,7 +58,7 @@ npm install
 
 # 本地抓取并执行 AI 深度分析（需要设置环境变量）
 export AI_API_KEY="your_api_key"
-export AI_API_BASE="https://axon2.ystone.top/v1"
+export AI_FALLBACK_MODEL="gpt-5.6-luna"
 export AI_MODEL="gemini-3.8-flash"
 npm run feed
 

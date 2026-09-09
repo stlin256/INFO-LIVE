@@ -12,6 +12,70 @@ import { translateForeignTitle } from './translations.mjs';
 
 export { translateForeignTitle };
 
+function parseJsonContent(content) {
+  const normalized = String(content || '')
+    .trim()
+    .replace(/^```(?:json)?\s*/i, '')
+    .replace(/\s*```$/i, '')
+    .trim();
+  return JSON.parse(normalized);
+}
+
+/**
+ * OpenAI-compatible JSON completion with model failover.
+ * The primary model is attempted first; the fallback model is only used when
+ * the primary request, response, or JSON payload fails validation.
+ */
+export async function requestJsonWithFallback({
+  apiBase,
+  apiKey,
+  primaryModel,
+  fallbackModel = 'gpt-5.6-luna',
+  prompt,
+  timeoutMs = 30000,
+  fetchImpl = fetch,
+}) {
+  const base = String(apiBase || '').replace(/\/+$/, '');
+  if (!base) throw new Error('AI_API_BASE is not configured');
+  if (!apiKey) throw new Error('AI_API_KEY is not configured');
+
+  const models = [...new Set([primaryModel, fallbackModel].filter(Boolean))];
+  let lastError = null;
+
+  for (const candidate of models) {
+    try {
+      const response = await fetchImpl(`${base}/chat/completions`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${apiKey}`,
+        },
+        body: JSON.stringify({
+          model: candidate,
+          messages: [{ role: 'user', content: prompt }],
+          temperature: 0.3,
+          response_format: { type: 'json_object' },
+        }),
+        signal: AbortSignal.timeout(timeoutMs),
+      });
+
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const payload = await response.json();
+      const content = payload.choices?.[0]?.message?.content;
+      if (!content) throw new Error('empty model response');
+
+      return { model: candidate, value: parseJsonContent(content), payload };
+    } catch (error) {
+      lastError = error instanceof Error ? error : new Error(String(error));
+      if (candidate !== models.at(-1)) {
+        console.warn(`[AI] Model ${candidate} failed; switching to fallback model ${fallbackModel}: ${lastError.message}`);
+      }
+    }
+  }
+
+  throw lastError || new Error('all configured AI models failed');
+}
+
 export function inferDimensionAndStance(item) {
   const text = `${item.title} ${item.snippet || ''} ${item.sourceName || ''}`.toLowerCase();
   const slug = (item.sourceSlug || '').toLowerCase();
@@ -209,8 +273,9 @@ function partitionAndEnsureDesks(rawItems, timeInfo) {
 export async function summarizeWithAI(items) {
   const timeInfo = getBeijingTime();
   const apiKey = process.env.AI_API_KEY || '';
-  const apiBase = (process.env.AI_API_BASE || 'https://axon2.ystone.top/v1').replace(/\/+$/, '');
+  const apiBase = (process.env.AI_API_BASE || '').replace(/\/+$/, '');
   const model = process.env.AI_MODEL || 'gemini-3.8-flash';
+  const fallbackModel = process.env.AI_FALLBACK_MODEL || 'gpt-5.6-luna';
 
   const deskData = partitionAndEnsureDesks(items, timeInfo);
 
@@ -369,7 +434,8 @@ export async function summarizeWithAI(items) {
     }
   };
 
-  if (!apiKey) {
+  if (!apiKey || !apiBase) {
+    if (apiKey && !apiBase) console.warn('[AI] AI_API_BASE is not configured; using local synthesis mode.');
     console.log('[AI] Running in high-fidelity local synthesis mode (all desks guaranteed).');
     return {
       ...baseSynthesis,
@@ -393,34 +459,21 @@ export async function summarizeWithAI(items) {
   "socialTrends": { "radar": [...4个公众热点], "debates": [...4个社区争鸣] }
 }`;
 
-    const macroRes = await fetch(`${apiBase}/chat/completions`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${apiKey}`
-      },
-      body: JSON.stringify({
-        model: model,
-        messages: [{ role: 'user', content: macroPrompt }],
-        temperature: 0.3,
-        response_format: { type: 'json_object' }
-      }),
-      signal: AbortSignal.timeout(30000)
+    const macroResult = await requestJsonWithFallback({
+      apiBase,
+      apiKey,
+      primaryModel: model,
+      fallbackModel,
+      prompt: macroPrompt,
+      timeoutMs: 30000,
     });
-
-    if (macroRes.ok) {
-      const macroData = await macroRes.json();
-      const content = macroData.choices?.[0]?.message?.content;
-      if (content) {
-        const parsed = JSON.parse(content);
-        if (parsed.hourlyBriefing) baseSynthesis.hourlyBriefing = parsed.hourlyBriefing;
-        if (parsed.dailyBriefing) baseSynthesis.dailyBriefing = parsed.dailyBriefing;
-        if (parsed.perspectiveMatrix) baseSynthesis.perspectiveMatrix = parsed.perspectiveMatrix;
-        if (parsed.specialTopics) baseSynthesis.specialTopics = parsed.specialTopics;
-        if (parsed.socialTrends) baseSynthesis.socialTrends = parsed.socialTrends;
-        console.log('[AI] Stage 1 Macro synthesis completed successfully.');
-      }
-    }
+    const parsed = macroResult.value;
+    if (parsed.hourlyBriefing) baseSynthesis.hourlyBriefing = parsed.hourlyBriefing;
+    if (parsed.dailyBriefing) baseSynthesis.dailyBriefing = parsed.dailyBriefing;
+    if (parsed.perspectiveMatrix) baseSynthesis.perspectiveMatrix = parsed.perspectiveMatrix;
+    if (parsed.specialTopics) baseSynthesis.specialTopics = parsed.specialTopics;
+    if (parsed.socialTrends) baseSynthesis.socialTrends = parsed.socialTrends;
+    console.log(`[AI] Stage 1 Macro synthesis completed successfully with ${macroResult.model}.`);
   } catch (err) {
     console.warn('[AI] Stage 1 Macro LLM call failed, smoothly degraded to base synthesis:', err.message);
   }
@@ -440,39 +493,26 @@ ${batch.map((b, idx) => `[${idx + 1}] 信源：${b.source}，原始标题：${b.
   { "index": 2, "translatedTitle": "中文主标题", "fullArticle": "450-700字中文全篇编译", "takeaways": ["核心研判1", "核心研判2"] }
 ]`;
 
-        const bRes = await fetch(`${apiBase}/chat/completions`, {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Authorization': `Bearer ${apiKey}`
-          },
-          body: JSON.stringify({
-            model: model,
-            messages: [{ role: 'user', content: batchPrompt }],
-            temperature: 0.3,
-            response_format: { type: 'json_object' }
-          }),
-          signal: AbortSignal.timeout(25000)
+        const batchResult = await requestJsonWithFallback({
+          apiBase,
+          apiKey,
+          primaryModel: model,
+          fallbackModel,
+          prompt: batchPrompt,
+          timeoutMs: 25000,
         });
-
-        if (bRes.ok) {
-          const bData = await bRes.json();
-          const bContent = bData.choices?.[0]?.message?.content;
-          if (bContent) {
-            const bParsed = JSON.parse(bContent);
-            const arr = Array.isArray(bParsed) ? bParsed : (bParsed.articles || bParsed.items || []);
-            arr.forEach((enh, idx) => {
-              if (batch[idx] && enh.translatedTitle && enh.fullArticle) {
-                batch[idx].title = enh.translatedTitle;
-                batch[idx].fullTranslation = enh.fullArticle;
-                if (enh.takeaways && enh.takeaways.length > 0) {
-                  batch[idx].keyTakeaways = enh.takeaways;
-                }
-              }
-            });
-            console.log(`[AI] Stage 2 Micro-batch ${i / 2 + 1} compiled successfully.`);
+        const bParsed = batchResult.value;
+        const arr = Array.isArray(bParsed) ? bParsed : (bParsed.articles || bParsed.items || []);
+        arr.forEach((enh, idx) => {
+          if (batch[idx] && enh.translatedTitle && enh.fullArticle) {
+            batch[idx].title = enh.translatedTitle;
+            batch[idx].fullTranslation = enh.fullArticle;
+            if (enh.takeaways && enh.takeaways.length > 0) {
+              batch[idx].keyTakeaways = enh.takeaways;
+            }
           }
-        }
+        });
+        console.log(`[AI] Stage 2 Micro-batch ${i / 2 + 1} compiled successfully with ${batchResult.model}.`);
       } catch (err) {
         console.warn(`[AI] Micro-batch ${i / 2 + 1} skipped, using high-fidelity local compilation:`, err.message);
       }
