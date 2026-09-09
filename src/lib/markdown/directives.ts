@@ -583,6 +583,90 @@ export function remarkCustomDirectives(baseUrl: string | undefined, editMode: bo
           setElement('aside', properties);
           break;
         }
+        case 'event-chain': {
+          const properties: Properties = { className: ['news-component', 'event-chain'], dataNewsComponent: 'event-chain' };
+          if (attrs.title?.trim()) properties.dataComponentTitle = attrs.title.trim();
+          if (attrs.intro?.trim()) properties.dataComponentIntro = attrs.intro.trim();
+          setElement('section', properties);
+          break;
+        }
+        case 'event-node': {
+          if (!attrs.title?.trim()) return degrade('params');
+          const properties: Properties = { className: ['news-component-node', 'event-node'], dataNewsComponentNode: 'event-node' };
+          if (attrs.step?.trim()) properties.dataStep = attrs.step.trim();
+          if (attrs.phase?.trim()) properties.dataPhase = attrs.phase.trim();
+          if (attrs.date?.trim() || attrs.time?.trim()) properties.dataEventDate = (attrs.date || attrs.time).trim();
+          properties.dataNodeTitle = attrs.title.trim();
+          if (attrs.tone?.trim()) properties.dataTone = attrs.tone.trim();
+          if (safeTimelineUrl(attrs.url)) properties.dataUrl = safeTimelineUrl(attrs.url);
+          setElement('div', properties);
+          break;
+        }
+        case 'value-chain': {
+          const properties: Properties = { className: ['news-component', 'value-chain'], dataNewsComponent: 'value-chain' };
+          if (attrs.title?.trim()) properties.dataComponentTitle = attrs.title.trim();
+          if (attrs.unit?.trim()) properties.dataComponentIntro = attrs.unit.trim();
+          setElement('section', properties);
+          break;
+        }
+        case 'value-node': {
+          if (!attrs.label?.trim()) return degrade('params');
+          const properties: Properties = { className: ['news-component-node', 'value-node'], dataNewsComponentNode: 'value-node' };
+          properties.dataNodeLabel = attrs.label.trim();
+          if (attrs.index?.trim()) properties.dataIndex = attrs.index.trim();
+          if (attrs.metric?.trim()) properties.dataMetric = attrs.metric.trim();
+          if (attrs.tone?.trim()) properties.dataTone = attrs.tone.trim();
+          setElement('div', properties);
+          break;
+        }
+        case 'signal-flow': {
+          const properties: Properties = { className: ['news-component', 'signal-flow'], dataNewsComponent: 'signal-flow' };
+          if (attrs.title?.trim()) properties.dataComponentTitle = attrs.title.trim();
+          if (attrs.intro?.trim()) properties.dataComponentIntro = attrs.intro.trim();
+          setElement('section', properties);
+          break;
+        }
+        case 'signal-node': {
+          if (!attrs.label?.trim()) return degrade('params');
+          const properties: Properties = { className: ['news-component-node', 'signal-node'], dataNewsComponentNode: 'signal-node' };
+          properties.dataNodeLabel = attrs.label.trim();
+          if (attrs.kind?.trim()) properties.dataKind = attrs.kind.trim();
+          if (attrs.value?.trim()) properties.dataMetric = attrs.value.trim();
+          setElement('div', properties);
+          break;
+        }
+        case 'compare-grid': {
+          const properties: Properties = { className: ['news-component', 'compare-grid'], dataNewsComponent: 'compare-grid' };
+          if (attrs.title?.trim()) properties.dataComponentTitle = attrs.title.trim();
+          if (attrs.caption?.trim()) properties.dataComponentIntro = attrs.caption.trim();
+          setElement('section', properties);
+          break;
+        }
+        case 'compare-column': {
+          if (!attrs.label?.trim()) return degrade('params');
+          const properties: Properties = { className: ['news-component-node', 'compare-column'], dataNewsComponentNode: 'compare-column' };
+          properties.dataNodeLabel = attrs.label.trim();
+          if (attrs.tone?.trim()) properties.dataTone = attrs.tone.trim();
+          setElement('div', properties);
+          break;
+        }
+        case 'impact-spectrum': {
+          const properties: Properties = { className: ['news-component', 'impact-spectrum'], dataNewsComponent: 'impact-spectrum' };
+          if (attrs.title?.trim()) properties.dataComponentTitle = attrs.title.trim();
+          if (attrs.scale?.trim()) properties.dataComponentIntro = `量表 ${attrs.scale.trim()}`;
+          setElement('section', properties);
+          break;
+        }
+        case 'impact-item': {
+          const score = Number(attrs.score);
+          if (!attrs.label?.trim() || !Number.isInteger(score) || score < 1 || score > 5) return degrade('params');
+          const properties: Properties = { className: ['news-component-node', 'impact-item'], dataNewsComponentNode: 'impact-item' };
+          properties.dataNodeLabel = attrs.label.trim();
+          properties.dataScore = String(score);
+          if (attrs.direction?.trim()) properties.dataDirection = attrs.direction.trim();
+          setElement('div', properties);
+          break;
+        }
         case 'timeline': {
           const properties: Properties = { className: ['timeline'], dataTimeline: 'true' };
           if (attrs.title) properties.dataTimelineTitle = attrs.title;

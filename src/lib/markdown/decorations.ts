@@ -371,6 +371,221 @@ function decorateTimeline(node: Element, lang: string | undefined, defaultLang?:
   node.children.push(hEl('ol', { className: ['timeline-items'] }, items));
 }
 
+
+function componentHeading(node: Element, kind: string): ElementContent[] {
+  const title = String(node.properties?.dataComponentTitle ?? '');
+  const intro = String(node.properties?.dataComponentIntro ?? '');
+  const children: ElementContent[] = [];
+  if (title) children.push(hEl('h2', { className: [`${kind}-title`, 'news-component-title'] }, [hTxt(title)]));
+  if (intro) children.push(hEl('p', { className: [`${kind}-intro`, 'news-component-intro'] }, [hTxt(intro)]));
+  delete node.properties?.dataComponentTitle;
+  delete node.properties?.dataComponentIntro;
+  return children;
+}
+
+function componentNodes(node: Element, marker: string): Element[] {
+  return node.children.filter((child): child is Element =>
+    child.type === 'element' && child.tagName === 'div' && child.properties?.dataNewsComponentNode === marker,
+  );
+}
+
+function toneClass(value: unknown, allowed: readonly string[], fallback: string): string {
+  const tone = String(value ?? '').trim().toLowerCase();
+  return allowed.includes(tone) ? tone : fallback;
+}
+
+function decorateEventNode(item: Element, index: number): void {
+  const title = String(item.properties?.dataNodeTitle ?? '');
+  const step = String(item.properties?.dataStep ?? String(index + 1));
+  const phase = String(item.properties?.dataPhase ?? 'event');
+  const date = String(item.properties?.dataEventDate ?? '待定');
+  const tone = toneClass(item.properties?.dataTone, ['accent', 'warning', 'risk', 'muted'], 'accent');
+  const url = safeTimelineUrl(item.properties?.dataUrl == null ? undefined : String(item.properties.dataUrl));
+  const titleNode = url
+    ? hEl('a', { className: ['event-node-title'], href: url, target: '_blank', rel: ['noopener', 'noreferrer'] }, [hTxt(title)])
+    : hEl('h3', { className: ['event-node-title'] }, [hTxt(title)]);
+  item.tagName = 'li';
+  item.properties = {
+    className: ['news-component-node', 'event-node', 'reveal', `tone-${tone}`],
+    style: `--delay:${index * 70}ms`,
+    dataPhase: phase,
+  };
+  item.children = [
+    hEl('div', { className: ['event-node-head'] }, [
+      hEl('span', { className: ['event-node-step'] }, [hTxt(step)]),
+      hEl('span', { className: ['event-node-phase'] }, [hTxt(phase)]),
+      hEl('time', { className: ['event-node-date'] }, [hTxt(date)]),
+    ]),
+    hEl('div', { className: ['event-node-title-wrap'] }, [titleNode]),
+    hEl('div', { className: ['event-node-body'] }, item.children),
+  ];
+}
+
+function restoreEmptyNewsComponent(node: Element, kind: string): void {
+  // A malformed child directive is intentionally emitted as source text by the
+  // remark phase. Keep that fallback visible instead of replacing it with an
+  // empty visual shell that looks like a blank article section.
+  node.properties.className = ['news-component', `${kind}-fallback`];
+  delete node.properties.dataNewsComponent;
+  delete node.properties.dataComponentTitle;
+  delete node.properties.dataComponentIntro;
+}
+
+function decorateEventChain(node: Element): void {
+  const items = componentNodes(node, 'event-node');
+  if (items.length === 0) {
+    restoreEmptyNewsComponent(node, 'event-chain');
+    return;
+  }
+  node.properties.className = ['news-component', 'event-chain', 'reveal'];
+  delete node.properties.dataNewsComponent;
+  const heading = componentHeading(node, 'event-chain');
+  for (let index = 0; index < items.length; index += 1) decorateEventNode(items[index], index);
+  const list = hEl('ol', { className: ['news-chain-list'] }, items);
+  node.children = [...heading, list];
+}
+
+function decorateValueNode(item: Element, index: number): void {
+  const label = String(item.properties?.dataNodeLabel ?? '');
+  const metric = String(item.properties?.dataMetric ?? '');
+  const order = String(item.properties?.dataIndex ?? String(index + 1));
+  const tone = toneClass(item.properties?.dataTone, ['accent', 'warning', 'risk', 'muted'], 'accent');
+  item.tagName = 'li';
+  item.properties = {
+    className: ['news-component-node', 'value-node', 'reveal', `tone-${tone}`],
+    style: `--delay:${index * 70}ms`,
+  };
+  item.children = [
+    hEl('div', { className: ['value-node-head'] }, [
+      hEl('span', { className: ['value-node-index'] }, [hTxt(order)]),
+      hEl('h3', { className: ['value-node-label'] }, [hTxt(label)]),
+    ]),
+    ...(metric ? [hEl('p', { className: ['value-node-metric'] }, [hTxt(metric)])] : []),
+    hEl('div', { className: ['value-node-body'] }, item.children),
+  ];
+}
+
+function decorateValueChain(node: Element): void {
+  const items = componentNodes(node, 'value-node');
+  if (items.length === 0) {
+    restoreEmptyNewsComponent(node, 'value-chain');
+    return;
+  }
+  node.properties.className = ['news-component', 'value-chain', 'reveal'];
+  delete node.properties.dataNewsComponent;
+  const heading = componentHeading(node, 'value-chain');
+  for (let index = 0; index < items.length; index += 1) decorateValueNode(items[index], index);
+  node.children = [...heading, hEl('ol', { className: ['value-chain-list'] }, items)];
+}
+
+function decorateSignalNode(item: Element, index: number): void {
+  const label = String(item.properties?.dataNodeLabel ?? '');
+  const value = String(item.properties?.dataMetric ?? '');
+  const kind = toneClass(item.properties?.dataKind, ['signal', 'impact', 'action', 'risk', 'neutral'], 'neutral');
+  item.tagName = 'li';
+  item.properties = {
+    className: ['news-component-node', 'signal-node', 'reveal', `kind-${kind}`],
+    style: `--delay:${index * 70}ms`,
+    dataKind: kind,
+  };
+  item.children = [
+    hEl('div', { className: ['signal-node-head'] }, [
+      hEl('span', { className: ['signal-node-kind'] }, [hTxt(kind)]),
+      hEl('h3', { className: ['signal-node-label'] }, [hTxt(label)]),
+    ]),
+    ...(value ? [hEl('p', { className: ['signal-node-value'] }, [hTxt(value)])] : []),
+    hEl('div', { className: ['signal-node-body'] }, item.children),
+  ];
+}
+
+function decorateSignalFlow(node: Element): void {
+  const items = componentNodes(node, 'signal-node');
+  if (items.length === 0) {
+    restoreEmptyNewsComponent(node, 'signal-flow');
+    return;
+  }
+  node.properties.className = ['news-component', 'signal-flow', 'reveal'];
+  delete node.properties.dataNewsComponent;
+  const heading = componentHeading(node, 'signal-flow');
+  for (let index = 0; index < items.length; index += 1) decorateSignalNode(items[index], index);
+  node.children = [...heading, hEl('ol', { className: ['signal-flow-list'] }, items)];
+}
+
+function decorateCompareColumn(item: Element): void {
+  const label = String(item.properties?.dataNodeLabel ?? '');
+  const tone = toneClass(item.properties?.dataTone, ['consensus', 'tension', 'blindspot', 'neutral'], 'neutral');
+  item.tagName = 'article';
+  item.properties = {
+    className: ['news-component-node', 'compare-column', 'reveal', `tone-${tone}`],
+    role: 'listitem',
+  };
+  item.children = [
+    hEl('h3', { className: ['compare-column-label'] }, [hTxt(label)]),
+    hEl('div', { className: ['compare-column-body'] }, item.children),
+  ];
+}
+
+function decorateCompareGrid(node: Element): void {
+  const items = componentNodes(node, 'compare-column');
+  if (items.length === 0) {
+    restoreEmptyNewsComponent(node, 'compare-grid');
+    return;
+  }
+  node.properties.className = ['news-component', 'compare-grid', 'reveal'];
+  node.properties.role = 'region';
+  delete node.properties.dataNewsComponent;
+  const heading = componentHeading(node, 'compare-grid');
+  for (const item of items) decorateCompareColumn(item);
+  node.children = [...heading, hEl('div', { className: ['compare-grid-list'], role: 'list' }, items)];
+}
+
+const DIRECTION_LABELS: Record<string, string> = {
+  up: '上行', down: '下行', mixed: '混合', risk: '风险', neutral: '中性',
+};
+
+function decorateImpactItem(item: Element, index: number): void {
+  const label = String(item.properties?.dataNodeLabel ?? '');
+  const score = Number(item.properties?.dataScore ?? 1);
+  const direction = toneClass(item.properties?.dataDirection, ['up', 'down', 'mixed', 'risk', 'neutral'], 'neutral');
+  const percentage = Math.max(20, Math.min(100, score * 20));
+  item.tagName = 'li';
+  item.properties = {
+    className: ['news-component-node', 'impact-item', 'reveal', `direction-${direction}`],
+    style: `--delay:${index * 70}ms;--impact-score:${percentage}%`,
+  };
+  item.children = [
+    hEl('div', { className: ['impact-item-head'] }, [
+      hEl('h3', { className: ['impact-item-label'] }, [hTxt(label)]),
+      hEl('span', { className: ['impact-item-score'], ariaLabel: `影响强度 ${score}/5` }, [hTxt(`${score}/5`)]),
+      hEl('span', { className: ['impact-item-direction'] }, [hTxt(DIRECTION_LABELS[direction] || direction)]),
+    ]),
+    hEl('div', { className: ['impact-meter'], ariaHidden: 'true' }, [hEl('span', { className: ['impact-meter-fill'] })]),
+    hEl('div', { className: ['impact-item-body'] }, item.children),
+  ];
+}
+
+function decorateImpactSpectrum(node: Element): void {
+  const items = componentNodes(node, 'impact-item');
+  if (items.length === 0) {
+    restoreEmptyNewsComponent(node, 'impact-spectrum');
+    return;
+  }
+  node.properties.className = ['news-component', 'impact-spectrum', 'reveal'];
+  delete node.properties.dataNewsComponent;
+  const heading = componentHeading(node, 'impact-spectrum');
+  for (let index = 0; index < items.length; index += 1) decorateImpactItem(items[index], index);
+  node.children = [...heading, hEl('ul', { className: ['impact-spectrum-list'] }, items)];
+}
+
+function decorateNewsComponent(node: Element): void {
+  const kind = String(node.properties?.dataNewsComponent ?? '');
+  if (kind === 'event-chain') decorateEventChain(node);
+  else if (kind === 'value-chain') decorateValueChain(node);
+  else if (kind === 'signal-flow') decorateSignalFlow(node);
+  else if (kind === 'compare-grid') decorateCompareGrid(node);
+  else if (kind === 'impact-spectrum') decorateImpactSpectrum(node);
+}
+
 export function rehypeContentDecorations(lang: string | undefined, defaultLang?: string) {
   return (tree: HastRoot) => {
     visit(tree, 'element', (node) => {
@@ -391,6 +606,9 @@ export function rehypeContentDecorations(lang: string | undefined, defaultLang?:
       }
       if (node.tagName === 'section' && isTimelineSection(node)) {
         decorateTimeline(node, lang, defaultLang);
+      }
+      if (node.tagName === 'section' && node.properties?.dataNewsComponent) {
+        decorateNewsComponent(node);
       }
     });
   };
