@@ -1,7 +1,7 @@
 ---
 title: "历史情报归档"
 nav: true
-order: 4
+order: 7
 description: "InfoLive 历史全球情报速报与逐小时事件档案库"
 notice:
   text: "🗄️ 全库数据永久归档持久留存 · 集成全文检索，按键盘 Ctrl+K 可直接检索历史记录" 
@@ -16,14 +16,40 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **3** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **5** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-09 22:33 (UTC+8)
+- **最新归档时间**：2026-09-09 23:05 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-09 23:05 (UTC+8)" title="全球要闻情报简报 · 23:05" org="ARCHIVE"}
+**速报纪要：** 本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。
+
+**关键信号：** 克宫与美方特使就阿布扎比三方会谈释放密集测试信号，欧洲因乌财政赤字危机陷入援助审计内讧；Anthropic核心资深研究人员公开请辞抗议超智能失控风险，AI治理与代理人安全从学术争议进入立法深水区；喀拉喀托之子火山强烈喷发重创东南亚跨国航线，极端气候与地质事件对全球供应链形成系统性倒逼
+
+**重点要闻索引：**
+- [TechCrunch] [‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI](https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/) <span class="news-meta-time">🕒 09-09 23:02</span>
+- [Phys.org] [New AI model for DNA learns from evolution to unlock secrets of the human genome](https://phys.org/news/2026-09-ai-dna-evolution-secrets-human.html) <span class="news-meta-time">🕒 09-09 23:00</span>
+- [Phys.org] [Petrochemical industry emissions could climb 50% by 2050, global mapping suggests](https://phys.org/news/2026-09-petrochemical-industry-emissions-climb-global.html) <span class="news-meta-time">🕒 09-09 23:00</span>
+- [Phys.org] [White is more than a color: How nature inspired a new sustainable way to make white, water-repellent materials](https://phys.org/news/2026-09-white-nature-sustainable-repellent-materials.html) <span class="news-meta-time">🕒 09-09 23:00</span>
+- [Phys.org] [First Denisovan forearm bone discovered in southwest China](https://phys.org/news/2026-09-denisovan-forearm-bone-southwest-china.html) <span class="news-meta-time">🕒 09-09 23:00</span>
+- [NY Times World] [The Theme Park at the Heart of France’s Culture War](https://www.nytimes.com/2026/09/09/world/europe/theme-park-france-right-culture-war.html) <span class="news-meta-time">🕒 09-09 23:00</span>
+:::
+:::timeline-item{start="2026-09-09 22:53 (UTC+8)" title="全球要闻情报简报 · 22:53" org="ARCHIVE"}
+**速报纪要：** 本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。
+
+**关键信号：** 克宫与美方特使就阿布扎比三方会谈释放密集测试信号，欧洲因乌财政赤字危机陷入援助审计内讧；Anthropic核心资深研究人员公开请辞抗议超智能失控风险，AI治理与代理人安全从学术争议进入立法深水区；喀拉喀托之子火山强烈喷发重创东南亚跨国航线，极端气候与地质事件对全球供应链形成系统性倒逼
+
+**重点要闻索引：**
+- [TechCrunch] [Shipt becomes the latest delivery app with an AI shopping assistant](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/) <span class="news-meta-time">🕒 09-09 22:51</span>
+- [俄罗斯卫星通讯社 (中文)] [媒体：欧盟意图将中国企业从政府采购挤出](https://sputniknews.cn/20260909/1073172634.html) <span class="news-meta-time">🕒 09-09 22:50</span>
+- [The Verge] [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous) <span class="news-meta-time">🕒 09-09 22:46</span>
+- [France 24 (FR)] ["Je ne me sens plus en sécurité" : au Kenya, l'inquiétude des commerçants burundais](https://www.france24.com/fr/afrique/20260909-je-ne-me-sens-plus-en-s%C3%A9curit%C3%A9-kenya-inqui%C3%A9tude-commer%C3%A7ants-burundi) <span class="news-meta-time">🕒 09-09 22:44</span>
+- [The Verge] [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin) <span class="news-meta-time">🕒 09-09 22:41</span>
+- [Phys.org] [Auckland has an overlooked traffic pollution problem—and it's not from exhausts](https://phys.org/news/2026-09-auckland-overlooked-traffic-pollution-problem.html) <span class="news-meta-time">🕒 09-09 22:40</span>
+:::
 :::timeline-item{start="2026-09-09 22:33 (UTC+8)" title="全球要闻情报简报 · 22:33" org="ARCHIVE"}
 **速报纪要：** 本小时全球多源情报监控系统全天候运转。大国地缘博弈、前沿科技模型演进、国际能源交通动脉及金融资本流动呈现多极激荡态势。汇聚新华社、俄罗斯卫星通讯社、France 24、CNN、FOX 等全球多方权威信源，实时校准全球脉搏。
 

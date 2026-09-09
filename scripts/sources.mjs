@@ -1,6 +1,6 @@
 /**
  * InfoLive 全球全源监控信源注册表
- * 涵盖新华社、俄罗斯卫星通讯社、法新社、CNN、FOX、BBC、半岛电视台等全球多成立场媒体及前沿科技/学术生态
+ * 涵盖新华社、俄罗斯卫星通讯社、法新社、CNN、FOX、BBC、卫报、半岛电视台等全球多成立场媒体及前沿科技/社会思想社区
  */
 export const SOURCES = [
   // 1. 全球大国与多元立场通讯社与旗舰媒体
@@ -15,6 +15,7 @@ export const SOURCES = [
   { name: 'FOX News World', slug: 'fox', category: 'world', url: 'https://moxie.foxnews.com/google-publisher/world.xml', weight: 10 },
   { name: 'FOX News Latest', slug: 'fox', category: 'world', url: 'https://moxie.foxnews.com/google-publisher/latest.xml', weight: 9 },
   { name: 'BBC World', slug: 'bbc', category: 'world', url: 'http://feeds.bbci.co.uk/news/world/rss.xml', weight: 10 },
+  { name: 'The Guardian (卫报)', slug: 'guardian', category: 'world', url: 'https://www.theguardian.com/world/rss', weight: 9 },
   { name: 'Al Jazeera (半岛电视台)', slug: 'aljazeera', category: 'world', url: 'https://www.aljazeera.com/xml/rss/all.xml', weight: 9 },
   { name: 'Deutsche Welle (德国之声)', slug: 'dw', category: 'world', url: 'https://rss.dw.com/rdf/rss-en-all', weight: 8 },
   { name: '联合早报', slug: 'zaobao', category: 'world', url: 'https://www.zaobao.com.sg/rss/realtime/world', weight: 9 },
@@ -34,7 +35,7 @@ export const SOURCES = [
   { name: 'WSJ Markets', slug: 'wsj', category: 'finance', url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml', weight: 9 },
   { name: 'CNBC Markets', slug: 'cnbc', category: 'finance', url: 'https://www.cnbc.com/id/10000664/device/rss/rss.html', weight: 9 },
 
-  // 4. 思想论坛与社区热议
+  // 4. 思想论坛、社会热点与社区热议
   { name: 'Reddit r/technology', slug: 'reddit', category: 'community', url: 'https://www.reddit.com/r/technology/top/.rss?t=day', weight: 8 },
   { name: 'Reddit r/worldnews', slug: 'reddit', category: 'community', url: 'https://www.reddit.com/r/worldnews/top/.rss?t=day', weight: 8 },
   { name: 'Lobste.rs', slug: 'lobsters', category: 'community', url: 'https://lobste.rs/rss', weight: 8 },

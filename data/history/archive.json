@@ -1,5 +1,307 @@
 [
   {
+    "timestamp": 1788966358529,
+    "displayTime": "2026-09-09 23:05 (UTC+8)",
+    "dateOnly": "2026-09-09",
+    "hourOnly": "23:05",
+    "hourlyBriefing": {
+      "title": "本小时全球情报速报",
+      "lead": "本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。",
+      "signals": [
+        "克宫与美方特使就阿布扎比三方会谈释放密集测试信号，欧洲因乌财政赤字危机陷入援助审计内讧",
+        "Anthropic核心资深研究人员公开请辞抗议超智能失控风险，AI治理与代理人安全从学术争议进入立法深水区",
+        "喀拉喀托之子火山强烈喷发重创东南亚跨国航线，极端气候与地质事件对全球供应链形成系统性倒逼"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球宏观大势与主线脉络",
+      "lead": "过去24小时，全球格局呈现出由碎片突发走向深层结构性重组的清晰特征。宏观地缘走廊的安全绑定打破传统双边边界，前沿人工智能的商业狂飙与伦理对齐阵营发生重大分化，而气候与地质灾害则进一步放大了全球实体物流与关键能源运输通道的脆弱性。",
+      "themes": [
+        {
+          "name": "阿布扎比和谈试探与欧洲援乌疲态",
+          "analysis": "面对基辅270亿美元预算黑洞与欧美大选预期，俄美通过特使试探阿布扎比多边会晤可行性，欧洲多国在紧缩财政压力下对无底线输血产生信任崩塌。"
+        },
+        {
+          "name": "中东多边安全连带与能源咽喉博弈",
+          "analysis": "巴基斯坦警告激活与沙特的共同防务协议，油轮遭袭常态化推动中东冲突向波斯湾核心腹地溢出，全球油价与航运保险费率进入高位敏感期。"
+        },
+        {
+          "name": "AGI超智能军备竞赛与核心人才伦理出走",
+          "analysis": "Anthropic核心资深研究员抗议失控风险请辞，表明大模型在高权限自主智能体商业化过程中，存在性安全与非对齐风险正引发行业顶级阵营撕裂。"
+        },
+        {
+          "name": "北极东北航道商业常态化与极地地缘洗牌",
+          "analysis": "中国商船正式开启北极东北航道定期集装箱班轮运营，缩短欧亚航程三分之一的同时，引发西方对中俄高纬度‘冰上丝路’的深层战略警惕。"
+        }
+      ]
+    },
+    "specialTopicsCount": 2,
+    "eventTracker": [
+      {
+        "status": "关键转折",
+        "pubTime": "09-09 21:10",
+        "title": "俄美拟重启乌克兰问题三方接触：阿布扎比或成外交新枢纽",
+        "org": "WORLD",
+        "latest": "克宫高层公开证实俄美特使接触，探讨恢复三方接触机制，并提议将会晤地点设在阿联酋阿布扎比。",
+        "background": "欧洲盟友内部对持续无底线财务输血显露疲态，基辅巨额预算缺口加剧欧美两党博弈。",
+        "outlook": "后续观察阿联酋是否正式承接会务，以及各方对会谈先决条件的博弈空间。"
+      },
+      {
+        "status": "持续恶化",
+        "pubTime": "09-09 22:03",
+        "title": "印尼喀拉喀托之子火山剧烈喷发冲击东南亚航空网络",
+        "org": "SCIENCE",
+        "latest": "数千米高火山灰柱导致数百架次航班取消，波及逾30万旅客，前线传出采集人员失联消息。",
+        "background": "巽他海峡关键水运走廊进入地质活跃周期，1883年世纪超级喷发引发全球气候剧变的历史记忆被唤醒。",
+        "outlook": "密切监控火山灰漂移对海上航运基础设施及次生海啸的防范警报。"
+      },
+      {
+        "status": "突发演进",
+        "pubTime": "09-09 21:05",
+        "title": "巴基斯坦警告激活防务协议：也门战火若蔓延沙特将军事介入",
+        "org": "WORLD",
+        "latest": "巴基斯坦防长公开警告，一旦也门胡塞冲突波及沙特本土，巴沙土三方共同防务协议将立即履行。",
+        "background": "中东红海水运遭袭常态化，巴拿马籍油轮在伊拉克水域受击，战事外溢威胁海湾核心产油国。",
+        "outlook": "沙特防空拦截负荷与伊斯兰堡在中东安全架构中的实质性前沿军事部署动作。"
+      },
+      {
+        "status": "突发演进",
+        "pubTime": "09-09 21:00",
+        "title": "AI安全阵营再度地震：Anthropic核心研究员辞职抗议失控风险",
+        "org": "AI",
+        "latest": "Anthropic核心资深研究人员公开辞职，直指当前大模型军备竞赛正脱离人类安全控制边界。",
+        "background": "多模态与自主智能代理商用狂飙，头部资本押注代理安全，但非对齐风险防控仍属行业短板。",
+        "outlook": "美欧立法机构对前沿通用大模型训练评测标准与硬性安全审计的推进速度。"
+      }
+    ],
+    "topStoriesCount": 48,
+    "storiesSnapshot": [
+      {
+        "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "source": "TechCrunch",
+        "pubTime": "09-09 23:02",
+        "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
+      },
+      {
+        "title": "New AI model for DNA learns from evolution to unlock secrets of the human genome",
+        "source": "Phys.org",
+        "pubTime": "09-09 23:00",
+        "url": "https://phys.org/news/2026-09-ai-dna-evolution-secrets-human.html"
+      },
+      {
+        "title": "Petrochemical industry emissions could climb 50% by 2050, global mapping suggests",
+        "source": "Phys.org",
+        "pubTime": "09-09 23:00",
+        "url": "https://phys.org/news/2026-09-petrochemical-industry-emissions-climb-global.html"
+      },
+      {
+        "title": "White is more than a color: How nature inspired a new sustainable way to make white, water-repellent materials",
+        "source": "Phys.org",
+        "pubTime": "09-09 23:00",
+        "url": "https://phys.org/news/2026-09-white-nature-sustainable-repellent-materials.html"
+      },
+      {
+        "title": "First Denisovan forearm bone discovered in southwest China",
+        "source": "Phys.org",
+        "pubTime": "09-09 23:00",
+        "url": "https://phys.org/news/2026-09-denisovan-forearm-bone-southwest-china.html"
+      },
+      {
+        "title": "The Theme Park at the Heart of France’s Culture War",
+        "source": "NY Times World",
+        "pubTime": "09-09 23:00",
+        "url": "https://www.nytimes.com/2026/09/09/world/europe/theme-park-france-right-culture-war.html"
+      },
+      {
+        "title": "A 'wholistic' view of cellular communication across an entire animal",
+        "source": "Phys.org",
+        "pubTime": "09-09 23:00",
+        "url": "https://phys.org/news/2026-09-wholistic-view-cellular-communication-entire.html"
+      },
+      {
+        "title": "Next-gen gravitational wave detectors could spot the first black holes",
+        "source": "Phys.org",
+        "pubTime": "09-09 23:00",
+        "url": "https://phys.org/news/2026-09-gen-gravitational-detectors-black-holes.html"
+      },
+      {
+        "title": "The RBA hoped this year’s three interest rate rises would tame inflation – but nothing is going their way",
+        "source": "The Guardian (卫报)",
+        "pubTime": "09-09 23:00",
+        "url": "https://www.theguardian.com/business/2026/sep/10/the-rba-hoped-this-years-three-interest-rate-rises-would-tame-inflation"
+      },
+      {
+        "title": "Amazon cargo jet pilot reportedly told wife, 'My career is over' shortly after deadly crash",
+        "source": "FOX News Latest",
+        "pubTime": "09-09 22:53",
+        "url": "https://www.foxnews.com/us/amazon-cargo-jet-pilot-reportedly-told-wife-career-over-shortly-after-deadly-crash"
+      },
+      {
+        "title": "Team USA coach reveals if Caitlin Clark will start in the World Cup final stage after bench role in group play",
+        "source": "FOX News Latest",
+        "pubTime": "09-09 22:53",
+        "url": "https://www.foxnews.com/outkick-sports/team-usa-coach-reveals-caitlin-clark-start-world-cup-final-stage-bench-role-group-play"
+      },
+      {
+        "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+        "source": "TechCrunch",
+        "pubTime": "09-09 22:51",
+        "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1788965616264,
+    "displayTime": "2026-09-09 22:53 (UTC+8)",
+    "dateOnly": "2026-09-09",
+    "hourOnly": "22:53",
+    "hourlyBriefing": {
+      "title": "本小时全球情报速报",
+      "lead": "本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。",
+      "signals": [
+        "克宫与美方特使就阿布扎比三方会谈释放密集测试信号，欧洲因乌财政赤字危机陷入援助审计内讧",
+        "Anthropic核心资深研究人员公开请辞抗议超智能失控风险，AI治理与代理人安全从学术争议进入立法深水区",
+        "喀拉喀托之子火山强烈喷发重创东南亚跨国航线，极端气候与地质事件对全球供应链形成系统性倒逼"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球宏观大势与主线脉络",
+      "lead": "过去24小时，全球格局呈现出由碎片突发走向深层结构性重组的清晰特征。宏观地缘走廊的安全绑定打破传统双边边界，前沿人工智能的商业狂飙与伦理对齐阵营发生重大分化，而气候与地质灾害则进一步放大了全球实体物流与关键能源运输通道的脆弱性。",
+      "themes": [
+        {
+          "name": "阿布扎比和谈试探与欧洲援乌疲态",
+          "analysis": "面对基辅270亿美元预算黑洞与欧美大选预期，俄美通过特使试探阿布扎比多边会晤可行性，欧洲多国在紧缩财政压力下对无底线输血产生信任崩塌。"
+        },
+        {
+          "name": "中东多边安全连带与能源咽喉博弈",
+          "analysis": "巴基斯坦警告激活与沙特的共同防务协议，油轮遭袭常态化推动中东冲突向波斯湾核心腹地溢出，全球油价与航运保险费率进入高位敏感期。"
+        },
+        {
+          "name": "AGI超智能军备竞赛与核心人才伦理出走",
+          "analysis": "Anthropic核心资深研究员抗议失控风险请辞，表明大模型在高权限自主智能体商业化过程中，存在性安全与非对齐风险正引发行业顶级阵营撕裂。"
+        },
+        {
+          "name": "北极东北航道商业常态化与极地地缘洗牌",
+          "analysis": "中国商船正式开启北极东北航道定期集装箱班轮运营，缩短欧亚航程三分之一的同时，引发西方对中俄高纬度‘冰上丝路’的深层战略警惕。"
+        }
+      ]
+    },
+    "specialTopicsCount": 2,
+    "eventTracker": [
+      {
+        "status": "关键转折",
+        "pubTime": "09-09 21:10",
+        "title": "俄美拟重启乌克兰问题三方接触：阿布扎比或成外交新枢纽",
+        "org": "WORLD",
+        "latest": "克宫高层公开证实俄美特使接触，探讨恢复三方接触机制，并提议将会晤地点设在阿联酋阿布扎比。",
+        "background": "欧洲盟友内部对持续无底线财务输血显露疲态，基辅巨额预算缺口加剧欧美两党博弈。",
+        "outlook": "后续观察阿联酋是否正式承接会务，以及各方对会谈先决条件的博弈空间。"
+      },
+      {
+        "status": "持续恶化",
+        "pubTime": "09-09 22:03",
+        "title": "印尼喀拉喀托之子火山剧烈喷发冲击东南亚航空网络",
+        "org": "SCIENCE",
+        "latest": "数千米高火山灰柱导致数百架次航班取消，波及逾30万旅客，前线传出采集人员失联消息。",
+        "background": "巽他海峡关键水运走廊进入地质活跃周期，1883年世纪超级喷发引发全球气候剧变的历史记忆被唤醒。",
+        "outlook": "密切监控火山灰漂移对海上航运基础设施及次生海啸的防范警报。"
+      },
+      {
+        "status": "突发演进",
+        "pubTime": "09-09 21:05",
+        "title": "巴基斯坦警告激活防务协议：也门战火若蔓延沙特将军事介入",
+        "org": "WORLD",
+        "latest": "巴基斯坦防长公开警告，一旦也门胡塞冲突波及沙特本土，巴沙土三方共同防务协议将立即履行。",
+        "background": "中东红海水运遭袭常态化，巴拿马籍油轮在伊拉克水域受击，战事外溢威胁海湾核心产油国。",
+        "outlook": "沙特防空拦截负荷与伊斯兰堡在中东安全架构中的实质性前沿军事部署动作。"
+      },
+      {
+        "status": "突发演进",
+        "pubTime": "09-09 21:00",
+        "title": "AI安全阵营再度地震：Anthropic核心研究员辞职抗议失控风险",
+        "org": "AI",
+        "latest": "Anthropic核心资深研究人员公开辞职，直指当前大模型军备竞赛正脱离人类安全控制边界。",
+        "background": "多模态与自主智能代理商用狂飙，头部资本押注代理安全，但非对齐风险防控仍属行业短板。",
+        "outlook": "美欧立法机构对前沿通用大模型训练评测标准与硬性安全审计的推进速度。"
+      }
+    ],
+    "topStoriesCount": 48,
+    "storiesSnapshot": [
+      {
+        "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+        "source": "TechCrunch",
+        "pubTime": "09-09 22:51",
+        "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/"
+      },
+      {
+        "title": "媒体：欧盟意图将中国企业从政府采购挤出",
+        "source": "俄罗斯卫星通讯社 (中文)",
+        "pubTime": "09-09 22:50",
+        "url": "https://sputniknews.cn/20260909/1073172634.html"
+      },
+      {
+        "title": "The Switch 2 is getting a 2D Metroid called Ravenous",
+        "source": "The Verge",
+        "pubTime": "09-09 22:46",
+        "url": "https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous"
+      },
+      {
+        "title": "\"Je ne me sens plus en sécurité\" : au Kenya, l'inquiétude des commerçants burundais",
+        "source": "France 24 (FR)",
+        "pubTime": "09-09 22:44",
+        "url": "https://www.france24.com/fr/afrique/20260909-je-ne-me-sens-plus-en-s%C3%A9curit%C3%A9-kenya-inqui%C3%A9tude-commer%C3%A7ants-burundi"
+      },
+      {
+        "title": "I spent an hour riding inside Tesla’s steering-wheel-free Cybercab",
+        "source": "The Verge",
+        "pubTime": "09-09 22:41",
+        "url": "https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin"
+      },
+      {
+        "title": "Auckland has an overlooked traffic pollution problem—and it's not from exhausts",
+        "source": "Phys.org",
+        "pubTime": "09-09 22:40",
+        "url": "https://phys.org/news/2026-09-auckland-overlooked-traffic-pollution-problem.html"
+      },
+      {
+        "title": "How 'parachute science' is failing the world's tropical insects",
+        "source": "Phys.org",
+        "pubTime": "09-09 22:40",
+        "url": "https://phys.org/news/2026-09-parachute-science-world-tropical-insects.html"
+      },
+      {
+        "title": "Camille Cottin et sa bande de retour dans \"Dix pour cent, le film\"",
+        "source": "France 24 (FR)",
+        "pubTime": "09-09 22:39",
+        "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260909-camille-cottin-et-sa-bande-de-retour-dans-dix-pour-cent-le-film"
+      },
+      {
+        "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+        "source": "TechCrunch",
+        "pubTime": "09-09 22:38",
+        "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/"
+      },
+      {
+        "title": "Tunisie : manifestations pour la libération du journaliste Mohamed Yousfi",
+        "source": "France 24 (FR)",
+        "pubTime": "09-09 22:37",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260909-tunisie-manifestations-pour-la-lib%C3%A9ration-du-journaliste-mohamed-yousfi"
+      },
+      {
+        "title": "越南国家主席：越方认为对俄关系是外交政策的优先方向",
+        "source": "俄罗斯卫星通讯社 (中文)",
+        "pubTime": "09-09 22:35",
+        "url": "https://sputniknews.cn/20260909/1073172527.html"
+      },
+      {
+        "title": "Nick Offerman says 'Parks and Rec' character would 'listen to reason' and reconsider his libertarian beliefs",
+        "source": "FOX News Latest",
+        "pubTime": "09-09 22:33",
+        "url": "https://www.foxnews.com/media/nick-offerman-says-parks-rec-character-would-listen-reason-reconsider-his-libertarian-beliefs"
+      }
+    ]
+  },
+  {
     "timestamp": 1788964396684,
     "displayTime": "2026-09-09 22:33 (UTC+8)",
     "dateOnly": "2026-09-09",

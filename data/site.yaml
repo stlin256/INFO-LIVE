@@ -23,6 +23,12 @@ profile:
       url: /world
     - label: 商业金融
       url: /markets
+    - label: 社会热点与思潮
+      url: /trends
+    - label: "专题: 俄美乌博弈"
+      url: /topic-abu-dhabi
+    - label: "专题: AGI安全风暴"
+      url: /topic-ai-safety
     - label: 关于项目
       url: /about
     - label: GitHub 仓库
