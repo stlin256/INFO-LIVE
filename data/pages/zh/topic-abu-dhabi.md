@@ -57,6 +57,38 @@ notice:
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
+  <span class="news-meta-time">🕒 09-09 23:05</span>
+</div>
+
+### [俄外交部：抗击日本军国主义中建立的传统已成为俄朝关系支柱](https://sputniknews.cn/20260909/1073172904.html)
+
+<div class="article-cover"><img src="https://cdn.sputniknews.cn/img/07ea/09/07/1073118514_0:46:1024:622_600x0_80_0_0_82760c8042d814b19cf6763ec188eea5.jpg" alt="俄外交部：抗击日本军国主义中建立的传统已成为俄朝关系支柱" loading="lazy" /></div>
+
+根据权威信源【俄罗斯卫星通讯社 (中文)】（呈现莫斯科官方视角）于北京时间 09-09 23:05 的深度电讯：俄罗斯卫星通讯社莫斯科9月9日电 俄罗斯外交部表示，抗击日本军国主义中建立的传统已成为当今莫斯科和平壤发展睦邻友好关系的可靠支柱。。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【俄罗斯卫星通讯社 (中文)】于 09-09 23:05 首发确认，叙事定调符合其【莫斯科官方视角】</li>
+    <li>事件冲击波横跨【🌐 全球地缘战略】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#俄罗斯卫星通讯社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://sputniknews.cn/20260909/1073172904.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="俄罗斯卫星通讯社 (中文)" width="16" height="16" /> <strong>俄罗斯卫星通讯社 (中文)</strong></span>
+    <span class="stance-badge">莫斯科官方视角</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
   <span class="news-meta-time">🕒 09-09 22:50</span>
 </div>
 
@@ -122,11 +154,11 @@ notice:
   <span class="news-meta-time">🕒 09-09 22:20</span>
 </div>
 
-### [克宫：俄罗斯希望美国继续在乌克兰调解中做出维和努力](https://sputniknews.cn/20260909/1073172293.html)
+### [克宫：俄罗斯希望美国继续在乌克兰问题调解中作出和平努力](https://sputniknews.cn/20260909/1073172293.html)
 
-<div class="article-cover"><img src="https://cdn.sputniknews.cn/img/07ea/09/06/1073102161_0:0:1024:577_600x0_80_0_0_b8c3c47ac12f2c65896ff2e0d9578b6d.jpg" alt="克宫：俄罗斯希望美国继续在乌克兰调解中做出维和努力" loading="lazy" /></div>
+<div class="article-cover"><img src="https://cdn.sputniknews.cn/img/07ea/09/06/1073102161_0:0:1024:577_600x0_80_0_0_b8c3c47ac12f2c65896ff2e0d9578b6d.jpg" alt="克宫：俄罗斯希望美国继续在乌克兰问题调解中作出和平努力" loading="lazy" /></div>
 
-根据权威信源【俄罗斯卫星通讯社 (中文)】（呈现莫斯科官方视角）于北京时间 09-09 22:20 的深度电讯：俄罗斯卫星通讯社莫斯科9月9日电 俄罗斯总统新闻秘书佩斯科夫对媒体表示，俄罗斯希望美国继续在乌克兰问题调解上做出维和努力。。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+根据权威信源【俄罗斯卫星通讯社 (中文)】（呈现莫斯科官方视角）于北京时间 09-09 22:20 的深度电讯：俄罗斯卫星通讯社莫斯科9月9日电 俄罗斯总统新闻秘书佩斯科夫对媒体表示，俄罗斯希望美国继续在乌克兰问题调解中作出和平努力。。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判</div>
@@ -174,38 +206,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://sputniknews.cn/20260909/1073172193.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="俄罗斯卫星通讯社 (中文)" width="16" height="16" /> <strong>俄罗斯卫星通讯社 (中文)</strong></span>
-    <span class="stance-badge">莫斯科官方视角</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:00</span>
-</div>
-
-### [越南国家主席称普京为越南人民的伟大朋友和亲密兄弟](https://sputniknews.cn/20260909/1073172763.html)
-
-<div class="article-cover"><img src="https://cdn.sputniknews.cn/img/07ea/03/17/1070395238_0:0:2926:1646_600x0_80_0_0_04bd514365c37dd8225aeb5f7659ccef.jpg" alt="越南国家主席称普京为越南人民的伟大朋友和亲密兄弟" loading="lazy" /></div>
-
-根据权威信源【俄罗斯卫星通讯社 (中文)】（呈现莫斯科官方视角）于北京时间 09-09 22:00 的深度电讯：俄罗斯卫星通讯社莫斯科9月9日电 越南国家主席苏林表示，他视俄罗斯总统弗拉基米尔•普京为越南人民的伟大朋友和亲密兄弟。。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【俄罗斯卫星通讯社 (中文)】于 09-09 22:00 首发确认，叙事定调符合其【莫斯科官方视角】</li>
-    <li>事件冲击波横跨【🌐 全球地缘战略】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#俄罗斯卫星通讯社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://sputniknews.cn/20260909/1073172763.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 ::::

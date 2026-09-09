@@ -27,6 +27,164 @@ notice:
 :::cell
 <div class="news-card-header">
   <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="Sputnik Globe" width="16" height="16" /> <strong>Sputnik Globe</strong></span>
+    <span class="stance-badge">莫斯科官方视角</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 23:10</span>
+</div>
+
+### [Putin Calls Conversation With Vietnam's President Productive, Says Key Issues Discussed](https://sputnikglobe.com/20260909/putin-calls-conversation-with-vietnams-president-productive-says-key-issues-discussed-1124706526.html)
+
+根据权威信源【Sputnik Globe】（呈现莫斯科官方视角）于北京时间 09-09 23:10 的深度电讯：MOSCOW (Sputnik) - Russian President Vladimir Putin on Wednesday called his conversation with Vietnamese President To Lam productive and noted that key issues were discussed.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Sputnik Globe】于 09-09 23:10 首发确认，叙事定调符合其【莫斯科官方视角】</li>
+    <li>事件冲击波横跨【🌐 全球地缘战略】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#Sputnik</span>
+</div>
+
+<div class="news-card-footer"><a href="https://sputnikglobe.com/20260909/putin-calls-conversation-with-vietnams-president-productive-says-key-issues-discussed-1124706526.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="俄罗斯卫星通讯社 (中文)" width="16" height="16" /> <strong>俄罗斯卫星通讯社 (中文)</strong></span>
+    <span class="stance-badge">莫斯科官方视角</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 23:05</span>
+</div>
+
+### [俄外交部：抗击日本军国主义中建立的传统已成为俄朝关系支柱](https://sputniknews.cn/20260909/1073172904.html)
+
+<div class="article-cover"><img src="https://cdn.sputniknews.cn/img/07ea/09/07/1073118514_0:46:1024:622_600x0_80_0_0_82760c8042d814b19cf6763ec188eea5.jpg" alt="俄外交部：抗击日本军国主义中建立的传统已成为俄朝关系支柱" loading="lazy" /></div>
+
+根据权威信源【俄罗斯卫星通讯社 (中文)】（呈现莫斯科官方视角）于北京时间 09-09 23:05 的深度电讯：俄罗斯卫星通讯社莫斯科9月9日电 俄罗斯外交部表示，抗击日本军国主义中建立的传统已成为当今莫斯科和平壤发展睦邻友好关系的可靠支柱。。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【俄罗斯卫星通讯社 (中文)】于 09-09 23:05 首发确认，叙事定调符合其【莫斯科官方视角】</li>
+    <li>事件冲击波横跨【🌐 全球地缘战略】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#俄罗斯卫星通讯社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://sputniknews.cn/20260909/1073172904.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
+    <span class="stance-badge">美保守派视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 23:04</span>
+</div>
+
+### [Reporter’s Notebook: 9/11 is just a history chapter for a new generation of Americans](https://www.foxnews.com/politics/reporters-notebook-9-11-history-new-generation-americans)
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/gettyimages-1243146022-scaled.jpg?ve=1&tl=1" alt="Reporter’s Notebook: 9/11 is just a history chapter for a new generation of Americans" loading="lazy" /></div>
+
+根据权威信源【FOX News Latest】（呈现美保守派视角）于北京时间 09-09 23:04 的深度电讯：It’s faded. Not from decay. Not from neglect. It’s simply the passage of time. The memories are vague. Elusive. Distant. And some who lived it are simply no longer here. Roughly one-third of all Americans who were alive on 9/11 aren’t around any more to observe the 25th anniversary of that abominable day. And so the recollections of September 11, 2001 are diluted. NEW 9/11 MUSEUM EXHIBIT AIMS TO CONNECT YOUNGER AMERICANS TO THE ATTACKS THROUGH POWERFUL ARTIFACTS To some, September 11th is just another day. But it’s something different for those who weren’t around to live and breath the horror. To many, 9/11 is like Pearl Harbor Day . Lots of people know about it. They understand it’s what triggered the U.S.’s entry into World War II. But they can’t quite explain much more. The same with other historical-shifting moments. August 6 and 9, 1945 — the days the U.S. bombed Hiroshima and Nagasaki, effectively ending World War II. November 22, 1963 — the day a gunman mowed down President John F. Kennedy Jr. in Dallas. A lot of people remember the Space Shuttle Challenger exploding. But few could tell you that it happened on January 28, 1986. The quintessence of 9/11 is the date. Kind of like July 4th. A bit like January 6th and the Capitol riot . However, we were told on September 11, 2001, that things would never be the same. But how can those who didn’t experience it understand what "the same" was like if the y never lived it? Just last month, a relative of mine who soon turns 26 asked "what it was like it to fly before 9/11?" I can regale you with stories about myself and a rag-tag group of high school friends, driving to the Cincinnati airport, clearing security and just wandering around the Delta gates, "hanging out" back in the mid-1980s. No ticket. No questions asked. Just a visit to Cinnabon. But the "before times" question about 9/11 is a broader conversation. It’s not just about "what changed" when you take off your shoes and bustle through security to fly. LIZ PEEK: WE CANNOT LET THE LEFT REWRITE WHAT HAPPENED ON 9/11 A nine-and-a-half foot tall plaque hangs in the East Front vestibule of the U.S. Capitol near the Rotunda. It commemorates Flight 93 which crashed near Shanksville, Pa. on 9/11 . It took a few years, but the U.S. intelligence services finally determined that the fourth plane was bound for the U.S. Capitol. That’s where Todd Beamer and a cadre of everyday Americans voted (mind you, at 35,000 feet) to commandeer a drinks cart and rush the cockpit in an effort to seize control of the plane. "Let’s roll!" Beamer was overheard saying on a cellphone as they charged down the aisle. That two-word phrase became a battle cry for a nation as it waged the war on terrorism. The Boeing 757 hurtled toward Washington at 563 mph. It was 20 minutes out from the federal city when the plane crashed, upside down, in the Pennsylvania countryside. Shanksville is now one of those places forever notched into American history. A place not as famous say a。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest】于 09-09 23:04 首发确认，叙事定调符合其【美保守派视角】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/reporters-notebook-9-11-history-new-generation-americans" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
+    <span class="stance-badge">美保守派视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 23:01</span>
+</div>
+
+### [Tennis star Carlos Alcaraz vomits in towel during US Open thriller after trying to shoo cameras away](https://www.foxnews.com/outkick-sports/tennis-star-carlos-alcaraz-vomits-towel-us-open-thriller-trying-shoo-cameras-away)
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/carlos-alcaraz-us-open-quarterfinal_001.jpg?ve=1&tl=1" alt="Tennis star Carlos Alcaraz vomits in towel during US Open thriller after trying to shoo cameras away" loading="lazy" /></div>
+
+根据权威信源【FOX News Latest】（呈现美保守派视角）于北京时间 09-09 23:01 的深度电讯：In front of a packed Arthur Ashe Stadium, it’s hard for tennis players to have a moment of privacy when they need one, especially when they need to vomit. Before the fifth set of Carlos Alcaraz’s 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7) loss to Ben Shelton in the U.S. Open quarterfinal, which ended at 3:33 a.m. ET Wednesday morning, the Spaniard was not feeling well. Alcaraz was sitting on his courtside chair when the camera came around on his right. Knowing that he was about to vomit, he shooed the camera away, trying to spare viewers from an ugly scene. CLICK HERE FOR MORE OUTKICK SPORTS COVERAGE The camera eventually retreated behind Alcaraz, but the tennis star remained persistent in his efforts to gain privacy. Eventually, he puked into his towel. "I mean it was close, it really was close, so I was disappointed I didn’t get the win in the end, but I’m just happy … physically I was really tired, but I found a way to push myself," Alcaraz said after the match. He said he started to feel better in the fifth set, but it wasn’t enough to advance. The U.S. Open was the first tournament Alcaraz participated in since he was sidelined for more than four months with a wrist injury. While he lost to Shelton in a thriller and had his 18-match Grand Slam winning streak snapped, he was proud of his effort. THE CRAIG CARTON SHOW–UNFILTERED, UNAPOLOGETIC AND UNMISSABLE. DOWNLOAD HIS DAILY PODCAST NOW! CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM "I leave the court happy," Alcaraz said. "I leave the court with a smile. I am proud of myself, how I fought." Alcaraz praised Shelton, calling the American a "beast." "Shelton played a very complete, very mature match," Alcaraz said in Spanish. "He knew exactly what to do at every moment. And, physically, he’s a beast. It seemed like he had no weaknesses whatsoever." For Shelton, the win was the biggest of his career as he moved one step closer to the U.S. Open final. STAY "FEARLESS" ON THE GO! TAKE TOMI LAHREN WITH YOU. DOWNLOAD THE TLIF PODCAST NOW! "It was a war," Shelton said. "Carlos is one of the greatest champions of our sport. It was the most enjoyable match I’ve had in my career, for sure." Shelton will face fellow American Frances Tiafoe in the semifinal on Friday, guaranteeing that an American will be in the U.S. Open final. The Associated Press contributed to this report.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest】于 09-09 23:01 首发确认，叙事定调符合其【美保守派视角】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/tennis-star-carlos-alcaraz-vomits-towel-us-open-thriller-trying-shoo-cameras-away" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
+    <span class="stance-badge">美保守派视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 23:00</span>
+</div>
+
+### [‘Double Lives of Suburban Wives’ star went from food stamps to making &#36;100K a month](https://www.foxnews.com/entertainment/double-lives-suburban-wives-star-went-food-stamps-making-100k-month)
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/tlc-emily-smith.jpg?ve=1&tl=1" alt="‘Double Lives of Suburban Wives’ star went from food stamps to making &#36;100K a month" loading="lazy" /></div>
+
+根据权威信源【FOX News Latest】（呈现美保守派视角）于北京时间 09-09 23:00 的深度电讯：Emily Smith’s life has gone from scraping together grocery money to bringing home six figures in a single month. The 37-year-old stay-at-home mom of four, featured on TLC’s "Double Lives of Suburban Wives," said that her family once relied on food stamps, struggled with housing and had just &#36;200 to spend on groceries for six people. Now, she said her adult-content business generated more than &#36;1 million last year. 'DOUBLE LIVES OF SUBURBAN WIVES' STAR SAYS SECRET ADULT-CONTENT SIDE HUSTLE GOT HER FIRED FROM CORPORATE JOB And the suburban mom said the moment it finally sank in that her family’s financial life had changed came after one particularly massive month. "I think staying in the 100K a month that's the moment we were like, ‘Well, holy moly,’" Smith told Fox News Digital. "Who would’ve ever expected something like that to happen? Not us, for sure." But getting there was anything but an overnight success. The adult-content creation business, she explained, is notoriously unpredictable. WATCH: ‘DOUBLE LIVES OF SUBURBAN WIVES’ STAR CASHES IN ON ADULT CONTENT, REVEALS BIZARRE ‘EGG’ REQUEST "You had that really good month… And it doesn't last. It tapers down, it tapers down and then — this world of content creating is very roller-coaster-y," Smith said. Eventually, one month refused to taper off. "There was a month that really, really hit, and then it never went down and hasn't gone down, and we're like, ‘Oh, oh my God," she said. 'KNOTS LANDING' STAR DONNA MILLS SAYS REFUSING TO POSE NUDE COST HER PLAYBOY COVER Smith’s story is at the center of TLC’s new reality series, "Double Lives of Suburban Wives," which takes viewers behind the polished façades of suburban lifestyle — and into the unconventional careers happening behind closed doors. That second life comes with some unexpected and bizarre requests. One of Smith’s strangest adult-content requests came with a &#36;2,000 price tag and an unusual ask — she was paid to "lay an egg." "So that request was &#36;2,000," she said. Smith's niche includes what she describes as "kinky weird adult content," with requests involving wedgies, fart content and "giant" videos — a fetish centered around fantasies of giants. "I love to make people’s fantasies come true — if I can do it, I will do it," she said. WATCH: ‘DOUBLE LIVES OF SUBURBAN WIVES’ STAR’S ADULT CONTENT BOOM PUSHES HUSBAND OUT OF 9-TO-5 The "giant" videos hold a particular appeal for Smith, who is just 5 feet, 1 inch tall. "For me, I think the giant videos are really fun," she said. "So those have an extra little sense of intrigue for me, because I've never been tall, never will be tall." Judgment, family expectations and the challenge of maintaining two seemingly opposite worlds become recurring pressure points in the reality series. PUT YOUR ENTERTAINMENT KNOWLEDGE TO THE TEST AND SEE HOW YOU SCORE For Smith and her husband, Nathan, the adult-content creation is strictly business. 'HARRY POTTER' ACTOR SAYS ONLYFANS VIDEOS EARNED HER MORE THAN HER 。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest】于 09-09 23:00 首发确认，叙事定调符合其【美保守派视角】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/double-lives-suburban-wives-star-went-food-stamps-making-100k-month" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World" width="16" height="16" /> <strong>NY Times World</strong></span>
     <span class="stance-badge">美欧主流建制</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
@@ -444,11 +602,11 @@ notice:
   <span class="news-meta-time">🕒 09-09 22:20</span>
 </div>
 
-### [克宫：俄罗斯希望美国继续在乌克兰调解中做出维和努力](https://sputniknews.cn/20260909/1073172293.html)
+### [克宫：俄罗斯希望美国继续在乌克兰问题调解中作出和平努力](https://sputniknews.cn/20260909/1073172293.html)
 
-<div class="article-cover"><img src="https://cdn.sputniknews.cn/img/07ea/09/06/1073102161_0:0:1024:577_600x0_80_0_0_b8c3c47ac12f2c65896ff2e0d9578b6d.jpg" alt="克宫：俄罗斯希望美国继续在乌克兰调解中做出维和努力" loading="lazy" /></div>
+<div class="article-cover"><img src="https://cdn.sputniknews.cn/img/07ea/09/06/1073102161_0:0:1024:577_600x0_80_0_0_b8c3c47ac12f2c65896ff2e0d9578b6d.jpg" alt="克宫：俄罗斯希望美国继续在乌克兰问题调解中作出和平努力" loading="lazy" /></div>
 
-根据权威信源【俄罗斯卫星通讯社 (中文)】（呈现莫斯科官方视角）于北京时间 09-09 22:20 的深度电讯：俄罗斯卫星通讯社莫斯科9月9日电 俄罗斯总统新闻秘书佩斯科夫对媒体表示，俄罗斯希望美国继续在乌克兰问题调解上做出维和努力。。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+根据权威信源【俄罗斯卫星通讯社 (中文)】（呈现莫斯科官方视角）于北京时间 09-09 22:20 的深度电讯：俄罗斯卫星通讯社莫斯科9月9日电 俄罗斯总统新闻秘书佩斯科夫对媒体表示，俄罗斯希望美国继续在乌克兰问题调解中作出和平努力。。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判</div>
@@ -494,162 +652,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World" width="16" height="16" /> <strong>NY Times World</strong></span>
-    <span class="stance-badge">美欧主流建制</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:16</span>
-</div>
-
-### [Escalating Boat Strikes Campaign, U.S. Targets ‘Refueling’ Vessels](https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html)
-
-<div class="article-cover"><img src="https://static01.nyt.com/images/2026/09/09/multimedia/09int-ecuador-boat-strikes-wfvb/09int-ecuador-boat-strikes-wfvb-mediumSquareAt3X.jpg" alt="Escalating Boat Strikes Campaign, U.S. Targets ‘Refueling’ Vessels" loading="lazy" /></div>
-
-根据权威信源【NY Times World】（呈现美欧主流建制）于北京时间 09-09 22:16 的深度电讯：U.S. military officials in the past two weeks have sunk six large fishing vessels accused of providing fuel to fast boats carrying drugs from South America.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【NY Times World】于 09-09 22:16 首发确认，叙事定调符合其【美欧主流建制】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#NY</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (德国之声)" width="16" height="16" /> <strong>Deutsche Welle (德国之声)</strong></span>
-    <span class="stance-badge">独立观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:16</span>
-</div>
-
-### [Oil prices rise as Middle East conflict escalates](https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf)
-
-根据权威信源【Deutsche Welle (德国之声)】（呈现独立观察）于北京时间 09-09 22:16 的深度电讯：The price of oil returned to triple digits in US dollars, as conflict in the Middle East threatens supply chains and puts a strain on global reserves.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Deutsche Welle (德国之声)】于 09-09 22:16 首发确认，叙事定调符合其【独立观察】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Deutsche</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台)</strong></span>
-    <span class="stance-badge">全球南方/半岛视角</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:15</span>
-</div>
-
-### [Pakistan all out for 133 in third Test vs England after squad changes](https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss)
-
-根据权威信源【Al Jazeera (半岛电视台)】（呈现全球南方/半岛视角）于北京时间 09-09 22:15 的深度电讯：England&#039;s pacers cleaned up Pakistan in 34 overs after the visitors&#039; top five batters failed to score double figures.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Al Jazeera (半岛电视台)】于 09-09 22:15 首发确认，叙事定调符合其【全球南方/半岛视角】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Al</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.aljazeera.com/sports/2026/9/9/pakistan-all-out-for-133-in-third-test-vs-england-after-squad-changes?traffic_source=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="俄罗斯卫星通讯社 (中文)" width="16" height="16" /> <strong>俄罗斯卫星通讯社 (中文)</strong></span>
-    <span class="stance-badge">莫斯科官方视角</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:10</span>
-</div>
-
-### [越南国家主席感谢普京和俄罗斯人民促进发展两国关系](https://sputniknews.cn/20260909/1073172193.html)
-
-<div class="article-cover"><img src="https://cdn.sputniknews.cn/img/07ea/06/12/1071927679_0:161:3070:1888_600x0_80_0_0_aace27305f1dc64479aec72110c1b2c7.jpg" alt="越南国家主席感谢普京和俄罗斯人民促进发展两国关系" loading="lazy" /></div>
-
-根据权威信源【俄罗斯卫星通讯社 (中文)】（呈现莫斯科官方视角）于北京时间 09-09 22:10 的深度电讯：俄罗斯卫星通讯社莫斯科9月9日电 越南国家主席苏林感谢俄罗斯总统普京和俄罗斯人民促进发展两国双边合作。。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【俄罗斯卫星通讯社 (中文)】于 09-09 22:10 首发确认，叙事定调符合其【莫斯科官方视角】</li>
-    <li>事件冲击波横跨【🌐 全球地缘战略】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#俄罗斯卫星通讯社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://sputniknews.cn/20260909/1073172193.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
-    <span class="stance-badge">美保守派视角</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:02</span>
-</div>
-
-### [Comfort food season is here: Shop slow cookers, Dutch ovens and more fall cooking staples](https://www.foxnews.com/deals/comfort-food-cooking-essentials)
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/jira-generated-image-static-8202a58e-7886-4014-bd60-2e54fbb00ae0.png?ve=1&tl=1" alt="Comfort food season is here: Shop slow cookers, Dutch ovens and more fall cooking staples" loading="lazy" /></div>
-
-根据权威信源【FOX News Latest】（呈现美保守派视角）于北京时间 09-09 22:02 的深度电讯：Comfort food season is here. From hearty soups and slow-cooked roasts to homemade bread and freshly baked pies, the right kitchen tools can make fall cooking easier and more enjoyable. We rounded up the cooking essentials worth buying now, including a Le Creuset Dutch oven , Crock-Pot slow cooker and other versatile picks for cozy meals at home. Original price: &#36;499.95 A Dutch oven is a fall kitchen essential, and this Le Creuset model is built to last. The 7.25-quart enameled cast-iron pot distributes and retains heat for soups, chili, roasts and even sourdough bread. The lid helps circulate steam and retain moisture, while compatibility with all cooktops and oven-safe construction up to 500 degrees Fahrenheit add versatility. This Lodge model is another popular choice. Original price: &#36;499.99 From mixing cookie dough to kneading bread and shredding chicken, the KitchenAid stand mixer handles a wide range of recipes. The mixer has 10 speeds and a tilt-head design, and comes with a wire whip, dough hook, flat beater, pouring shield and stainless-steel bowl. Additional attachments, including a pasta roller and ice cream maker , are sold separately. Let this Crock-Pot slow cooker handle dinner while you focus on curating the perfect fall mood. Its 7-quart capacity is ideal for soups, stews and tender roasts, while the locking lid helps prevent spills during transport. READ MORE: Skip the ironing board with this &#36;22 steamer — still 40% off on Amazon after Labor Day When you want slow-cooked flavor without the wait, turn to the Instant Pot pressure cooker . It traps steam inside a sealed lid to build pressure and cook food faster than a traditional slow cooker. Use it for stews, roasts and other hearty fall meals. Blend soups, whip cream and mix pancake batter with a Ninja immersion blender . Four speed settings give you control over each recipe, while smart torque technology maintains a consistent speed through thick, frozen or hot ingredients. The included whisk attachment makes quick work of meringues and other desserts. Speed up prep work with a Cuisinart food processor . Its large feed tube, industrial-quality motor, slicing discs and chopping blades handle everything from vegetables and hard cheese to dough, sauces and soups. READ MORE: Amazon just dropped this &#36;190 Keurig coffee maker to &#36;79 — its lowest prices ever recorded Original price: &#36;271 Bake casseroles, pasta dishes, roasted vegetables and more in this three-piece Staub baking dish set . The nestable stoneware dishes retain heat without absorbing moisture, while their large handles make it easier to move hot food from the oven to the table. The set includes three rectangular bakers. Roasts take center stage in the fall, making a reliable roasting pan a kitchen essential. This HexClad model combines stainless steel with a ceramic nonstick coating for easier cleanup. Use the removable rack to elevate meat while it cooks, then take it out when making lasagna, casseroles and other dishes.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest】于 09-09 22:02 首发确认，叙事定调符合其【美保守派视角】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/deals/comfort-food-cooking-essentials" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 ::::

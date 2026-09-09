@@ -31,6 +31,68 @@ notice:
     <span class="stance-badge">独立观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
+  <span class="news-meta-time">🕒 09-09 23:10</span>
+</div>
+
+### [Uber rival inDrive scales beyond ride-hailing to capture more consumer spending](https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/)
+
+根据权威信源【TechCrunch】（呈现独立观察）于北京时间 09-09 23:10 的深度电讯：inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch】于 09-09 23:10 首发确认，叙事定调符合其【独立观察】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
+    <span class="stance-badge">美保守派视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 23:04</span>
+</div>
+
+### [Reporter’s Notebook: 9/11 is just a history chapter for a new generation of Americans](https://www.foxnews.com/politics/reporters-notebook-9-11-history-new-generation-americans)
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/gettyimages-1243146022-scaled.jpg?ve=1&tl=1" alt="Reporter’s Notebook: 9/11 is just a history chapter for a new generation of Americans" loading="lazy" /></div>
+
+根据权威信源【FOX News Latest】（呈现美保守派视角）于北京时间 09-09 23:04 的深度电讯：It’s faded. Not from decay. Not from neglect. It’s simply the passage of time. The memories are vague. Elusive. Distant. And some who lived it are simply no longer here. Roughly one-third of all Americans who were alive on 9/11 aren’t around any more to observe the 25th anniversary of that abominable day. And so the recollections of September 11, 2001 are diluted. NEW 9/11 MUSEUM EXHIBIT AIMS TO CONNECT YOUNGER AMERICANS TO THE ATTACKS THROUGH POWERFUL ARTIFACTS To some, September 11th is just another day. But it’s something different for those who weren’t around to live and breath the horror. To many, 9/11 is like Pearl Harbor Day . Lots of people know about it. They understand it’s what triggered the U.S.’s entry into World War II. But they can’t quite explain much more. The same with other historical-shifting moments. August 6 and 9, 1945 — the days the U.S. bombed Hiroshima and Nagasaki, effectively ending World War II. November 22, 1963 — the day a gunman mowed down President John F. Kennedy Jr. in Dallas. A lot of people remember the Space Shuttle Challenger exploding. But few could tell you that it happened on January 28, 1986. The quintessence of 9/11 is the date. Kind of like July 4th. A bit like January 6th and the Capitol riot . However, we were told on September 11, 2001, that things would never be the same. But how can those who didn’t experience it understand what "the same" was like if the y never lived it? Just last month, a relative of mine who soon turns 26 asked "what it was like it to fly before 9/11?" I can regale you with stories about myself and a rag-tag group of high school friends, driving to the Cincinnati airport, clearing security and just wandering around the Delta gates, "hanging out" back in the mid-1980s. No ticket. No questions asked. Just a visit to Cinnabon. But the "before times" question about 9/11 is a broader conversation. It’s not just about "what changed" when you take off your shoes and bustle through security to fly. LIZ PEEK: WE CANNOT LET THE LEFT REWRITE WHAT HAPPENED ON 9/11 A nine-and-a-half foot tall plaque hangs in the East Front vestibule of the U.S. Capitol near the Rotunda. It commemorates Flight 93 which crashed near Shanksville, Pa. on 9/11 . It took a few years, but the U.S. intelligence services finally determined that the fourth plane was bound for the U.S. Capitol. That’s where Todd Beamer and a cadre of everyday Americans voted (mind you, at 35,000 feet) to commandeer a drinks cart and rush the cockpit in an effort to seize control of the plane. "Let’s roll!" Beamer was overheard saying on a cellphone as they charged down the aisle. That two-word phrase became a battle cry for a nation as it waged the war on terrorism. The Boeing 757 hurtled toward Washington at 563 mph. It was 20 minutes out from the federal city when the plane crashed, upside down, in the Pennsylvania countryside. Shanksville is now one of those places forever notched into American history. A place not as famous say a。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest】于 09-09 23:04 首发确认，叙事定调符合其【美保守派视角】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/reporters-notebook-9-11-history-new-generation-americans" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>
+    <span class="stance-badge">独立观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
   <span class="news-meta-time">🕒 09-09 23:02</span>
 </div>
 
@@ -52,6 +114,70 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
+    <span class="stance-badge">美保守派视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 23:01</span>
+</div>
+
+### [Tennis star Carlos Alcaraz vomits in towel during US Open thriller after trying to shoo cameras away](https://www.foxnews.com/outkick-sports/tennis-star-carlos-alcaraz-vomits-towel-us-open-thriller-trying-shoo-cameras-away)
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/carlos-alcaraz-us-open-quarterfinal_001.jpg?ve=1&tl=1" alt="Tennis star Carlos Alcaraz vomits in towel during US Open thriller after trying to shoo cameras away" loading="lazy" /></div>
+
+根据权威信源【FOX News Latest】（呈现美保守派视角）于北京时间 09-09 23:01 的深度电讯：In front of a packed Arthur Ashe Stadium, it’s hard for tennis players to have a moment of privacy when they need one, especially when they need to vomit. Before the fifth set of Carlos Alcaraz’s 6-7 (5), 6-1, 6-3, 1-6, 7-6 (10-7) loss to Ben Shelton in the U.S. Open quarterfinal, which ended at 3:33 a.m. ET Wednesday morning, the Spaniard was not feeling well. Alcaraz was sitting on his courtside chair when the camera came around on his right. Knowing that he was about to vomit, he shooed the camera away, trying to spare viewers from an ugly scene. CLICK HERE FOR MORE OUTKICK SPORTS COVERAGE The camera eventually retreated behind Alcaraz, but the tennis star remained persistent in his efforts to gain privacy. Eventually, he puked into his towel. "I mean it was close, it really was close, so I was disappointed I didn’t get the win in the end, but I’m just happy … physically I was really tired, but I found a way to push myself," Alcaraz said after the match. He said he started to feel better in the fifth set, but it wasn’t enough to advance. The U.S. Open was the first tournament Alcaraz participated in since he was sidelined for more than four months with a wrist injury. While he lost to Shelton in a thriller and had his 18-match Grand Slam winning streak snapped, he was proud of his effort. THE CRAIG CARTON SHOW–UNFILTERED, UNAPOLOGETIC AND UNMISSABLE. DOWNLOAD HIS DAILY PODCAST NOW! CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM "I leave the court happy," Alcaraz said. "I leave the court with a smile. I am proud of myself, how I fought." Alcaraz praised Shelton, calling the American a "beast." "Shelton played a very complete, very mature match," Alcaraz said in Spanish. "He knew exactly what to do at every moment. And, physically, he’s a beast. It seemed like he had no weaknesses whatsoever." For Shelton, the win was the biggest of his career as he moved one step closer to the U.S. Open final. STAY "FEARLESS" ON THE GO! TAKE TOMI LAHREN WITH YOU. DOWNLOAD THE TLIF PODCAST NOW! "It was a war," Shelton said. "Carlos is one of the greatest champions of our sport. It was the most enjoyable match I’ve had in my career, for sure." Shelton will face fellow American Frances Tiafoe in the semifinal on Friday, guaranteeing that an American will be in the U.S. Open final. The Associated Press contributed to this report.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest】于 09-09 23:01 首发确认，叙事定调符合其【美保守派视角】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/tennis-star-carlos-alcaraz-vomits-towel-us-open-thriller-trying-shoo-cameras-away" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
+    <span class="stance-badge">美保守派视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 23:00</span>
+</div>
+
+### [‘Double Lives of Suburban Wives’ star went from food stamps to making &#36;100K a month](https://www.foxnews.com/entertainment/double-lives-suburban-wives-star-went-food-stamps-making-100k-month)
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/tlc-emily-smith.jpg?ve=1&tl=1" alt="‘Double Lives of Suburban Wives’ star went from food stamps to making &#36;100K a month" loading="lazy" /></div>
+
+根据权威信源【FOX News Latest】（呈现美保守派视角）于北京时间 09-09 23:00 的深度电讯：Emily Smith’s life has gone from scraping together grocery money to bringing home six figures in a single month. The 37-year-old stay-at-home mom of four, featured on TLC’s "Double Lives of Suburban Wives," said that her family once relied on food stamps, struggled with housing and had just &#36;200 to spend on groceries for six people. Now, she said her adult-content business generated more than &#36;1 million last year. 'DOUBLE LIVES OF SUBURBAN WIVES' STAR SAYS SECRET ADULT-CONTENT SIDE HUSTLE GOT HER FIRED FROM CORPORATE JOB And the suburban mom said the moment it finally sank in that her family’s financial life had changed came after one particularly massive month. "I think staying in the 100K a month that's the moment we were like, ‘Well, holy moly,’" Smith told Fox News Digital. "Who would’ve ever expected something like that to happen? Not us, for sure." But getting there was anything but an overnight success. The adult-content creation business, she explained, is notoriously unpredictable. WATCH: ‘DOUBLE LIVES OF SUBURBAN WIVES’ STAR CASHES IN ON ADULT CONTENT, REVEALS BIZARRE ‘EGG’ REQUEST "You had that really good month… And it doesn't last. It tapers down, it tapers down and then — this world of content creating is very roller-coaster-y," Smith said. Eventually, one month refused to taper off. "There was a month that really, really hit, and then it never went down and hasn't gone down, and we're like, ‘Oh, oh my God," she said. 'KNOTS LANDING' STAR DONNA MILLS SAYS REFUSING TO POSE NUDE COST HER PLAYBOY COVER Smith’s story is at the center of TLC’s new reality series, "Double Lives of Suburban Wives," which takes viewers behind the polished façades of suburban lifestyle — and into the unconventional careers happening behind closed doors. That second life comes with some unexpected and bizarre requests. One of Smith’s strangest adult-content requests came with a &#36;2,000 price tag and an unusual ask — she was paid to "lay an egg." "So that request was &#36;2,000," she said. Smith's niche includes what she describes as "kinky weird adult content," with requests involving wedgies, fart content and "giant" videos — a fetish centered around fantasies of giants. "I love to make people’s fantasies come true — if I can do it, I will do it," she said. WATCH: ‘DOUBLE LIVES OF SUBURBAN WIVES’ STAR’S ADULT CONTENT BOOM PUSHES HUSBAND OUT OF 9-TO-5 The "giant" videos hold a particular appeal for Smith, who is just 5 feet, 1 inch tall. "For me, I think the giant videos are really fun," she said. "So those have an extra little sense of intrigue for me, because I've never been tall, never will be tall." Judgment, family expectations and the challenge of maintaining two seemingly opposite worlds become recurring pressure points in the reality series. PUT YOUR ENTERTAINMENT KNOWLEDGE TO THE TEST AND SEE HOW YOU SCORE For Smith and her husband, Nathan, the adult-content creation is strictly business. 'HARRY POTTER' ACTOR SAYS ONLYFANS VIDEOS EARNED HER MORE THAN HER 。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest】于 09-09 23:00 首发确认，叙事定调符合其【美保守派视角】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/double-lives-suburban-wives-star-went-food-stamps-making-100k-month" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 :::cell
@@ -530,132 +656,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260909-camille-cottin-et-sa-bande-de-retour-dans-dix-pour-cent-le-film" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>
-    <span class="stance-badge">独立观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:38</span>
-</div>
-
-### [Uber invests &#36;10M in Indian fleet operator Carrum at &#36;168M valuation](https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/)
-
-根据权威信源【TechCrunch】（呈现独立观察）于北京时间 09-09 22:38 的深度电讯：Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch】于 09-09 22:38 首发确认，叙事定调符合其【独立观察】</li>
-    <li>事件冲击波横跨【🌐 全球地缘战略】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
-    <span class="stance-badge">美保守派视角</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:33</span>
-</div>
-
-### [Nick Offerman says 'Parks and Rec' character would 'listen to reason' and reconsider his libertarian beliefs](https://www.foxnews.com/media/nick-offerman-says-parks-rec-character-would-listen-reason-reconsider-his-libertarian-beliefs)
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/ron-swanson-nick-offerman.jpg?ve=1&tl=1" alt="Nick Offerman says 'Parks and Rec' character would 'listen to reason' and reconsider his libertarian beliefs" loading="lazy" /></div>
-
-根据权威信源【FOX News Latest】（呈现美保守派视角）于北京时间 09-09 22:33 的深度电讯：Former " Parks and Recreation " actor Nick Offerman said Sunday that his famously libertarian-minded character Ron Swanson would eventually "listen to reason" and reconsider his libertarian beliefs. During an appearance on " Talk Easy with Sam Fragoso ," Offerman commented on his 2025 film "Sovereign," in which he played "sovereign citizen" Jerry Kane, who died during a police shootout during a traffic stop in 2010. Offerman said playing Kane allowed him to sympathize with people like Kane who have been "preyed upon" by "misinformed groups." However, he ultimately dismissed worldviews like Kane's, arguing that libertarianism "can never work." AMERICA LOST WHAT'S 'LEFT OF ITS INNOCENCE' AFTER TRUMP, 'PARKS AND REC' STAR SAYS "In order to have a functioning society, that's why libertarianism can never work ," Offerman said. "Like on paper, the ideas are great, but it's going to just lead to anarchy because everyone is then open to interpret things, and whoever has the most guns ends up winning. And that's a dumb idea." "That would be a tough realization for Ron Swanson," Fragoso said. "I suppose, but I like to think as a Mike Schur character that he would listen to reason eventually," Offerman said. 'COMICS FOR KAMALA' CROONS 'GOD BLESS THE U.S.A.' PARODY: 'PROUD TO BE A KAMALA MAN' In 2025, Offerman told IndieWire that "Parks and Recreation" creator Mike Schur told him that his character would have "despised" President Donald Trump despite his mistrust of the government. "Dumb people insist that Ron Swanson would’ve voted for Trump. And I don’t deign to answer myself. I take it to Mike Schur, the main creator of Ron, and he said, ‘Swanson would’ve despised Trump, because Ron loved capitalism. And Trump made the stupidest move you could make as a capitalist, which is to go into public service,’" the actor said. BILLY BOB THORNTON PUSHES BACK ON CELEBRITY ACTIVISM: ‘I DON'T KNOW ANYTHING ABOUT POLITICS’ In another 2025 interview, Offerman added that he did sympathize with Trump supporters despite their different political views. "Dealing with Trump supporters in the world is something I try to handle with nuance, because I know many others around the states who are very good people and citizens and would give you the shirt off their back," Offerman said. "They are on the receiving end of an absolute firehose of misinformation, so it's really cognitively dissonant (impossible) to engage in rational discourse." Bill D'Agostino, the media editor and senior research analyst for the Media Research Center's NewsBusters , told Fox News Digital: "Ron Swanson is a modern-day Archie Bunker: a conservative character whose over-the-top politics endeared him to the people his creators had intended to mock. Swanson is a caricature of exactly the kind of person that his portrayer, Nick Offerman, can’t stand." D’Agostino added, "Offerman was likely sick of being adored by the people whom he regarded as having missed the joke. He saw two possible solutions: either c。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest】于 09-09 22:33 首发确认，叙事定调符合其【美保守派视角】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/media/nick-offerman-says-parks-rec-character-would-listen-reason-reconsider-his-libertarian-beliefs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
-    <span class="stance-badge">美保守派视角</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:21</span>
-</div>
-
-### [Skillet's John Cooper says woke activists have 'big hearts' but are 'hurting themselves'](https://www.foxnews.com/entertainment/skillets-john-cooper-says-woke-activists-have-big-hearts-hurting-themselves)
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/john-cooper-skillet-velocity-festival-2026.jpg?ve=1&tl=1" alt="Skillet's John Cooper says woke activists have 'big hearts' but are 'hurting themselves'" loading="lazy" /></div>
-
-根据权威信源【FOX News Latest】（呈现美保守派视角）于北京时间 09-09 22:21 的深度电讯：Skillet frontman John Cooper believes people labeled "woke" are often motivated by good intentions — but warned their approach can ultimately "hurt society." "I think it’s really worth mentioning that people that we would call woke, the things that we find really problematic, I think it's worth mentioning that most of those people really have big hearts," Cooper said during a recent appearance on the "Unashamed with the Robertson Family" podcast. "They want justice. They want the world to be better." "They’re just going about it in a way that they don’t know is wrong, and it’s actually hurting them," he continued. "It’s hurting everybody. It hurts society." SKILLET’S JOHN COOPER SAYS CHRISTIANS WHO CALL ROCK MUSIC ‘DEMONIC’ ARE ‘GETTING THE GOSPEL WRONG’ He said that inner cities in particular are "getting so much worse," saying, "I look at the things that the politicians that say they want to help the poor, they want to help the marginalized, they want to help people of color, whatever it may be, and all they do is keep hurting them more and more and more." BRANTLEY GILBERT SLAMS ARTISTS WHO BACK OUT OF PATRIOTIC SHOWS UNDER HEAT Cooper said he believes that "the woke probably have good intentions," and pointed to people he knows personally as proof. "I know these people. Some of them work for me. They’ve worked for me for 15 years. I love them," he said. "And I say to them, ‘I know you’re trying to be a good person, but it’s going to hurt people.’" The musician ultimately attributed his disagreement with those views to his Christian faith. "What they’re doing is not true, and it’s not based on the Bible," Cooper said. "It goes against the way God tells us how to live. They end up hurting themselves, and now we've got a culture so nihilistic that doesn't know that they matter. They're looking to matter by doing social justice, but they keep hurting themselves more." GET ENTERTAINMENT SCOOP DELIVERED RIGHT TO YOUR EMAIL BY CLICKING HERE Cooper, who has been performing with Skillet for roughly 30 years, recently told Fox News Digital that his Christian beliefs have influenced some of his professional decisions. However, he remains a steadfast supporter of artistic freedom. "I am a huge believer in freedom of speech," Cooper said. "I hate cancel culture . I don’t want anybody to be canceled because I’ve never said, ‘So-and-so rock artist sings a song against Jesus and I want him pulled down from Spotify.’" "I would never say that, because that’s not what art is," he added. Cooper said he has shared the stage with artists who are atheists and even those who openly oppose Christianity. "Some of them, I would say, are probably personally not only atheist, they probably personally are a little anti-Christ," he said. "And they would know it. They would say, ‘The truth is, John, I just hate the concept of Jesus.’ And we’re still friends." LIKE WHAT YOU'RE READING? CLICK HERE FOR MORE ENTERTAINMENT NEWS However, Cooper acknowledged that there have been ra。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest】于 09-09 22:21 首发确认，叙事定调符合其【美保守派视角】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/skillets-john-cooper-says-woke-activists-have-big-hearts-hurting-themselves" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
-    <span class="stance-badge">前沿学术严谨</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:20</span>
-</div>
-
-### [As African space race heats up, Senegal pursues homemade satellites](https://phys.org/news/2026-09-african-space-senegal-pursues-homemade.html)
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/gaindesat-1b-is-design.jpg" alt="As African space race heats up, Senegal pursues homemade satellites" loading="lazy" /></div>
-
-根据权威信源【Phys.org】（呈现前沿学术严谨）于北京时间 09-09 22:20 的深度电讯：Senegalese engineers in hairnets and white gloves are carefully assembling a nanosatellite at a French lab—another step toward fostering their own space industry back home.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Phys.org】于 09-09 22:20 首发确认，叙事定调符合其【前沿学术严谨】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-african-space-senegal-pursues-homemade.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 ::::
