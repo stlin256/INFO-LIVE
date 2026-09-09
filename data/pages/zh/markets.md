@@ -12,15 +12,15 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<span class="source-badge"><img src="/assets/sources/wsj.svg" class="source-icon" alt="Wall Street Journal" width="16" height="16" /> <strong>Wall Street Journal</strong></span>  <span class="news-meta-time">20:37</span>
+<span class="source-badge"><img src="/assets/sources/wsj.svg" class="source-icon" alt="WSJ Markets" width="16" height="16" /> <strong>WSJ Markets</strong></span>  <span class="news-meta-time">21:10</span>
 
-### [DeepSeek冲击波重创英伟达与美股芯片链 避险资金涌入瑞郎日元](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)
+### [DeepSeek架构冲击波席卷华尔街：美股AI硬件股暴跌，英伟达狂泻16%](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)
 
-以DeepSeek为代表的新一代高效架构引发美股科技板块巨震，市场担忧算法效率革命将大幅削减超大规模算力集群需求。以英伟达暴跌16%为代表，博通、超微电脑等AI基建链核心标的出现两位数跌幅。与美股抛售形成鲜明对比的是，瑞士法郎和日元等避险货币受到强烈追捧，市场正经历自生成式AI爆发以来最大规模的逻辑修正。
+受中国AI新创团队DeepSeek突破性低成本架构与算法效率催化，美股科技板块遭遇惨烈抛售。纳斯达克领跌，英伟达重挫16%，博通等AI算力基础设施核心标的录得两位数跌幅，全球避险资金火速涌入日元与瑞郎。市场开始反思由巨额资本开支构筑的算力垄断护城河，是否正被高效稀疏计算与推理算法所稀释。
 
 >  **核心研判**：
-> - 硬件端估值泡沫被算法优化与开源替代戳破，AI资本支出ROI成为华尔街审查的首要标准。
-> - 宏观资金转向避险资产，表明市场已从前期的盲目算力扩张叙事向防御性周期配置倾斜。
+> - 芯片巨头极高估值倍数赖以维系的'算力无限饥渴论'出现裂痕，算力硬件资本支出回报率面临严厉审视。
+> - 避险资产短期受捧，全球资金或将加速从高估值半导体标的向AI端侧落地及实用型垂直领域分流。
 
 [查阅出处原文 ](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main)
 :::

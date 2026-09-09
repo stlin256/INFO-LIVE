@@ -12,58 +12,44 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>  <span class="news-meta-time">20:37</span>
+<span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>  <span class="news-meta-time">21:18</span>
 
-### [版权诉讼倒逼范式转移：Suno推纯合规训练模型V6全面自救](https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/)
+### [苹果新任CEO首秀：2000美元折叠旗舰iPhone Duo颠覆产品线](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
 
-面对全球主流唱片巨头的密集版权诉讼，知名AI音乐生成独角兽Suno正式宣布推出全新的Suno v6模型，并彻底停用过往所有基于公开网络未授权音频训练的历史模型。这一决定标志着生成式多模态企业在司法重压下不得不承受巨大的技术重构成本，转向以合规授权为基石的第二增长路径，对整个AIGC行业的模型资产负债表构成警示。
+约翰·特努斯（John Ternus）接替蒂姆·库克执掌苹果帅印后，迎来首场秋季发布会。彭博社披露，苹果筹备多年的首款折叠屏手机被命名为'iPhone Duo'，起售价高达2000美元。此举不仅是对iPhone产品线最高产品层级的技术重塑，也是特努斯时代为拉动硬件营收与稳固超高端统治力打下的第一记重拳。
 
 >  **核心研判**：
-> - 存量模型面临不可逆的法律下架风险，高质量清洗授权数据集的商业价值与议价权大幅上升。
-> - AIGC赛道壁垒由早期的模型参数与训练规模，加速演化为版权壁垒与商业化合规闭环能力。
+> - 2000美元超高定价策略将考验全球高端消费电子黏性，若超预期或将打开整个折叠供应链估值天花板。
+> - 这是特努斯确立个人领导权威的关键战役，折叠屏生态交互也将深刻影响iOS下一代多模态系统路线。
 
-[查阅出处原文 ](https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/)
+[查阅出处原文 ](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
 :::
 
 :::cell
-<span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>  <span class="news-meta-time">20:37</span>
+<span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>  <span class="news-meta-time">21:15</span>
 
-### [AI编程赛道分化加剧：Cognition估值达480亿美元引爆应用层竞争](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/)
+### [Anthropic资深研究员辞职揭露黑幕：超级AI本世纪末或具10%灭绝风险](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans)
 
-AI软件工程师Devin的母公司Cognition完成新一轮融资，估值攀升至惊人的480亿美元，其估值倍数甚至超过Cursor此前被SpaceX收购时的水平。在算力基建陷入重估之际，此轮天价融资证明全球风投机构坚信垂直领域端到端自主智能体（Agent）仍处于高速成长期，软件开发行业并没有演变为赢家通吃局面，专业场景壁垒依然深厚。
+AI独角兽Anthropic高级安全研究员公开发出预警，称本十年结束前AI毁灭全人类的概率超过10%；此前数小时，其同事因担忧各实验室陷入构建无法控制的'超人类系统'恶性军备竞赛而愤然辞职。这一内部安全裂痕凸显出商业变现焦虑正压制基础对齐研究，促使立法者对超级智能研发设立刚性安全底线。
 
 >  **核心研判**：
-> - 资本结构发生战略位移，从底层通用大模型硬件链条向具备实际替代人效的Agent应用倾斜。
-> - 自动编程与自动化软件工程已成为企业端降本增效的核心基础设施，商业化落地进程远快于消费端应用。
+> - 核心安全人员出走与吹哨，预示着顶尖AI实验室的'安全vs速度'内部治理结构已趋于破裂边缘。
+> - 各主权监管机构料将针对AGI前沿模型训练部署强制性'断路器'（Kill-switch）及第三方审计机制。
 
-[查阅出处原文 ](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/)
+[查阅出处原文 ](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans)
 :::
 
 :::cell
-<span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>  <span class="news-meta-time">20:37</span>
+<span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>  <span class="news-meta-time">21:05</span>
 
-### [欧洲航天自主突破：TEC获4.5亿欧元C轮融资加速可复用飞船研发](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/)
+### [破解90年悬案？OpenAI声称攻克纳维-斯托克斯方程引发学界震荡](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
 
-欧洲商业航天初创公司The Exploration Company（TEC）宣布完成4.5亿美元C轮融资，创下欧洲航天领域单笔融资历史纪录。本轮资金将用于研发和制造其自主研发的可复用轨道飞船Nyx，旨在为近地轨道及探月任务提供平价货运服务。该交易凸显欧洲在面对美国SpaceX垄断局面时，正通过私营资本力量全力夺回主权航天货运能力。
-
->  **核心研判**：
-> - 地缘科技博弈扩展至低地轨道物流，欧洲机构和私人资本对战略自主型航天项目的支持力度空前。
-> - 可复用空间运载工具走向多极化竞争，将进一步压低微重力制药、轨道半导体制造等新兴产业的进入门槛。
-
-[查阅出处原文 ](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/)
-:::
-
-:::cell
-<span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>  <span class="news-meta-time">20:37</span>
-
-### [白宫撤下争议边境墙街机游戏 俄罗斯方块版权方维权胜诉](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)
-
-由白宫团队推出的政治宣传街机游戏《修筑隔离墙》（Build the Wall）在上线不足48小时后被迅速下架。此前，该游戏的玩法与经典视觉机制被质疑直接抄袭了《俄罗斯方块》，随后The Tetris Company公开发表严正声明，表示严肃对待任何侵权行为。面临诉讼风险，白宫低调删除了所有访问入口，折射出官方宣传工具在数字化滥用与IP合规上的严重失衡。
+OpenAI发布重磅博文宣称其前沿AI模型成功推导出困扰物理与数学界近90年的'纳维-斯托克斯方程'（Navier-Stokes）求解路径，该问题是千禧年七大数学难题之一。这一声明在学术界引发轩然大波，虽存在验证与严格性争议，但若被证实，不仅标志着AI具备解决复杂非线性物理系统的高阶推演能力，更将颠覆流体力学与航天工程底层研究范式。
 
 >  **核心研判**：
-> - 政府层面的数字化宣传工具在知识产权与数字内容合规上面临民间IP持有者更严格的法律审视。
-> - 政治游戏化宣发手段在两极化社会语境中极易反噬，引发版权与意识形态的双重舆论风暴。
+> - AI从单纯的数据归纳跃升至具有自主形式化证明能力的科学研究主力，AI for Science迎来分水岭。
+> - 学术界对商业AI公司宣称的重大科学突破启动极度严苛的同行评审，公信力博弈进入白热化。
 
-[查阅出处原文 ](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)
+[查阅出处原文 ](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
 :::
 ::::
