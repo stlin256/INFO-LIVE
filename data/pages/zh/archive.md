@@ -16,14 +16,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **9** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **10** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 03:11 (UTC+8)
+- **最新归档时间**：2026-09-10 04:20 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 04:20 (UTC+8)" title="全球要闻情报简报 · 04:20" org="ARCHIVE"}
+**速报纪要：** 全球多源监控全景简报。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [奔萨和萨拉托夫机场实施临时限制措施](https://ria.ru/20260909/ogranicheniya-2116693702.html) <span class="news-meta-time">🕒 09-10 04:18</span>
+- [TechCrunch (硅谷创业与资本)] [苹果秋季 iPhone 发布会汇总：从折叠屏 iPhone Duo 到全时监听 Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/) <span class="news-meta-time">🕒 09-10 04:03</span>
+- [OilPrice (全球能源与原油大宗)] [美国政府将目光投向委内瑞拉关键矿产](https://oilprice.com/Energy/Energy-General/US-Administration-Eyes-Venezuelas-Critical-Minerals.html) <span class="news-meta-time">🕒 09-10 04:00</span>
+- [Lobste.rs (极客思想社区)] [更优的 AI 代码注释检测器](https://entropicthoughts.com/better-ai-comment-classifier) <span class="news-meta-time">🕒 09-10 02:27</span>
+- [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
+- [RIA Novosti (俄新社官方俄文)] [多利娜就法院追缴1.14亿卢布的判决发表评论](https://ria.ru/20260909/dolina-2116693543.html) <span class="news-meta-time">🕒 09-10 04:16</span>
+:::
 :::timeline-item{start="2026-09-10 03:11 (UTC+8)" title="全球要闻情报简报 · 03:11" org="ARCHIVE"}
 **速报纪要：** 全球多源监控全景简报。
 

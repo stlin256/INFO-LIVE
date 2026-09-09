@@ -5,8 +5,8 @@
       "navTitle": "专题: 俄美乌博弈",
       "title": "俄美乌博弈与阿布扎比路线：三方和谈试探、资金赤字黑洞与欧洲裂痕",
       "tagline": "克宫证实接触美方特使，阿联酋或成新外交枢纽；欧洲盟友因270亿美元赤字爆发审计内讧",
-      "status": "⚡ 白热化推进与纵深博弈",
-      "stage": "active",
+      "status": "📦 阶段性归档与长期沉淀",
+      "stage": "archived",
       "createdAt": "2026-09-09 23:42 (UTC+8)",
       "lastUpdated": "2026-09-10 00:32 (UTC+8)",
       "updateCount": 6,
@@ -84,20 +84,27 @@
       "evidenceIds": [],
       "facts": [],
       "conflicts": [],
-      "noEvidenceRuns": 2,
+      "noEvidenceRuns": 3,
       "noEvidenceRunIds": [
         "feed-20260910T024754490Z-3hosf3",
-        "feed-20260910T030909217Z-545umj"
+        "feed-20260910T030909217Z-545umj",
+        "feed-20260910T041934649Z-isowdg"
       ],
-      "archiveHistory": []
+      "archiveHistory": [
+        {}
+      ],
+      "archiveReason": "连续运行未发现新的证据",
+      "archivedAt": "2026-09-10 04:20 (UTC+8)",
+      "lastAction": "archive",
+      "lastRunId": "feed-20260910T041934649Z-isowdg"
     },
     {
       "slug": "topic-ai-safety",
       "navTitle": "专题: AGI安全风暴",
       "title": "超级智能安全与技术伦理风暴：核心学者请辞、非对齐危机与监管深水区",
       "tagline": "Anthropic资深研究员出走拉响失控警报，AI Agents自主智能体商用狂飙撞上安全红线",
-      "status": "⚡ 白热化推进与纵深博弈",
-      "stage": "active",
+      "status": "📦 阶段性归档与长期沉淀",
+      "stage": "archived",
       "createdAt": "2026-09-09 23:42 (UTC+8)",
       "lastUpdated": "2026-09-10 00:32 (UTC+8)",
       "updateCount": 6,
@@ -167,12 +174,19 @@
       "evidenceIds": [],
       "facts": [],
       "conflicts": [],
-      "noEvidenceRuns": 2,
+      "noEvidenceRuns": 3,
       "noEvidenceRunIds": [
         "feed-20260910T024754490Z-3hosf3",
-        "feed-20260910T030909217Z-545umj"
+        "feed-20260910T030909217Z-545umj",
+        "feed-20260910T041934649Z-isowdg"
       ],
-      "archiveHistory": []
+      "archiveHistory": [
+        {}
+      ],
+      "archiveReason": "连续运行未发现新的证据",
+      "archivedAt": "2026-09-10 04:20 (UTC+8)",
+      "lastAction": "archive",
+      "lastRunId": "feed-20260910T041934649Z-isowdg"
     }
   ]
 }
