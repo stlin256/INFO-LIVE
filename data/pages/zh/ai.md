@@ -26,6 +26,73 @@ notice:
 ::::grid{cols=2}
 :::cell
 <div class="news-card-header">
+  <span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:46</span>
+</div>
+
+### [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous)
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-09-at-7.44.37-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" alt="The Switch 2 is getting a 2D Metroid called Ravenous" loading="lazy" /></div>
+
+根据【The Verge】于北京时间 09-09 22:46 的深度报道：Nintendo just announced a new 2D entry in the Metroid series for the Switch 2, titled Metroid Ravenous . It's launching on January 28th, 2027 . The new game looks like an evolution of Metroid Dread . While it's still a 2D game, it features 3D graphics, lots of cinematic action shots, parrying enemies, and Samus rolling around in Morph Ball form. What's new for this game is that Samus also appears to somehow absorb energy from enemies to survive - Nintendo's marketing copy for the game uses the line "eat or be eaten." There are also many fearsome-looking foes, including some giant creatures and a group of futuristic, caped fighters that attack … Read the full story at The Verge.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>消息经由权威信源【The Verge】于 09-09 22:46 确认发布，信息源可靠度评级为高</li>
+    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
+  </ul>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:41</span>
+</div>
+
+### [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin)
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" alt="I spent an hour riding inside Tesla’s steering-wheel-free Cybercab" loading="lazy" /></div>
+
+根据【The Verge】于北京时间 09-09 22:41 的深度报道：Getting out of a taxi shouldn't be a shameful experience. Yet I find myself feeling particularly embarrassed while exiting a Tesla Cybercab as it partially blocks a narrow road outside a popular Austin swimming hole. As a cadre of annoyed , sweaty Texan parking spot hunters pile up around it, the gold-painted two-seater just sits there obliviously, lights flashing. I try not to make eye contact, but I can feel the stares of frustrated pool-goers around me, whose earnest attempt at a peaceful outdoor reprieve from the heat had just been interrupted by yet another not-quite-finished glimpse into the future. Tesla's long-awaited , two-seater Cy … Read the full story at The Verge.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>消息经由权威信源【The Verge】于 09-09 22:41 确认发布，信息源可靠度评级为高</li>
+    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
+  </ul>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:38</span>
+</div>
+
+### [Uber invests $10M in Indian fleet operator Carrum at $168M valuation](https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/)
+
+根据【TechCrunch】于北京时间 09-09 22:38 的深度报道：Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>消息经由权威信源【TechCrunch】于 09-09 22:38 确认发布，信息源可靠度评级为高</li>
+    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
+  </ul>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
   <span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>
   <span class="news-meta-time">🕒 发布时间：09-09 22:18</span>
 </div>
@@ -78,7 +145,7 @@ notice:
 
 <div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK054_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" alt="Nintendo Direct September 2026: The biggest news and trailers" loading="lazy" /></div>
 
-根据【The Verge】于北京时间 09-09 21:50 的深度报道：It&#8217;s almost time for part two of Nintendo&#8217;s double feature this week. On Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date for the Switch 2 Ocarina of Time remake . On Wednesday, the company will be airing its next Nintendo Direct , which will spotlight Switch 2 games “launching this winter” in an approximately 45-minute presentation. Right after the Direct, Nintendo will also air a Treehouse Live stream that&#8217;s set to run for about 110 minutes. Now that Nintendo&#8217;s release schedule is set through November — its other big upcoming releases include Fire Emblem: Fortune&#8217;s Weave on September 17th and Nintendo Switch Sports Resort on October 22nd — Wednesday&#8217;s showcase could be the first meaningful look at Nintendo&#8217;s next big batch of games. Major new entries in the Pokémon and Xenoblade franchises are already on the calendar for 2027, but perhaps we&#8217;ll see more during the show. Follow our coverage of the September 2026 Nintendo Direct right here. You can watch the show on YouTube starting at 10AM ET . Pikmin 4 is getting a Nintendo Switch 2 Edition. A true gentleman leaves no puzzle unsolved. New pokémon are coming to Pokopia. Star Fox’s adventures. More Hyrule Warriors. Monster Hunter Wilds launches on Switch 2 in December. It’s almost Nintendo time. Nintendo isn’t scared of GTA VI。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+根据【The Verge】于北京时间 09-09 21:50 的深度报道：It&#8217;s almost time for part two of Nintendo&#8217;s double feature this week. On Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date for the Switch 2 Ocarina of Time remake . On Wednesday, the company will be airing its next Nintendo Direct , which will spotlight Switch 2 games “launching this winter” in an approximately 45-minute presentation. Right after the Direct, Nintendo will also air a Treehouse Live stream that&#8217;s set to run for about 110 minutes. Now that Nintendo&#8217;s release schedule is set through November — its other big upcoming releases include Fire Emblem: Fortune&#8217;s Weave on September 17th and Nintendo Switch Sports Resort on October 22nd — Wednesday&#8217;s showcase could be the first meaningful look at Nintendo&#8217;s next big batch of games. Major new entries in the Pokémon and Xenoblade franchises are already on the calendar for 2027, but perhaps we&#8217;ll see more during the show. Follow our coverage of the September 2026 Nintendo Direct right here. You can watch the show on YouTube starting at 10AM ET . The Switch 2 is getting a 2D Metroid called Ravenous Time for some Slayhem. Persona 6 is coming to the Switch 2. Mario Kart World gets a new update later today. The spirit of Wii Sports lives on. Return to Resident Evil remakes. Pikmin 4 is getting a Nintendo Switch 2 Edition. A true gentleman leaves no puzzle unsolved. New pokémon are coming to Pokopia. Star Fox’s adventures. More Hyrule Warriors. Monster Hunter Wilds launches on Switch 2 in December. It’s almost Nintendo time. Nintendo isn’t scared of GTA VI。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判</div>
@@ -93,44 +160,48 @@ notice:
 
 :::cell
 <div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News" width="16" height="16" /> <strong>Hacker News</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:38</span>
+  <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:40</span>
 </div>
 
-### [What will our economic future look like?](https://www.anthropic.com/institute/econ-scenarios)
+### [Auckland has an overlooked traffic pollution problem—and it's not from exhausts](https://phys.org/news/2026-09-auckland-overlooked-traffic-pollution-problem.html)
 
-根据【Hacker News】于北京时间 09-09 21:38 的深度报道：Comments。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2022/traffic-pollution.jpg" alt="Auckland has an overlooked traffic pollution problem—and it's not from exhausts" loading="lazy" /></div>
+
+根据【Phys.org】于北京时间 09-09 22:40 的深度报道：Cleaner engine standards and a gradual uptake of electric vehicles have been credited with helping improve Auckland's air quality in recent years.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判</div>
   <ul class="takeaways-list">
-    <li>消息经由权威信源【Hacker News】于 09-09 21:38 确认发布，信息源可靠度评级为高</li>
+    <li>消息经由权威信源【Phys.org】于 09-09 22:40 确认发布，信息源可靠度评级为高</li>
     <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
   </ul>
 </div>
 
-<div class="news-card-footer"><a href="https://www.anthropic.com/institute/econ-scenarios" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://phys.org/news/2026-09-auckland-overlooked-traffic-pollution-problem.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 :::cell
 <div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News" width="16" height="16" /> <strong>Hacker News</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:38</span>
+  <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:40</span>
 </div>
 
-### [Do people prefer stories written by AI?](https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai)
+### [How 'parachute science' is failing the world's tropical insects](https://phys.org/news/2026-09-parachute-science-world-tropical-insects.html)
 
-根据【Hacker News】于北京时间 09-09 21:38 的深度报道：Comments。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/parachute-science-is-f.jpg" alt="How 'parachute science' is failing the world's tropical insects" loading="lazy" /></div>
+
+根据【Phys.org】于北京时间 09-09 22:40 的深度报道：Monash University scientists have developed a global framework to tackle a major blind spot in biodiversity conservation: Insects underpin ecosystems and food production but remain largely invisible to conservation efforts across the tropics.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判</div>
   <ul class="takeaways-list">
-    <li>消息经由权威信源【Hacker News】于 09-09 21:38 确认发布，信息源可靠度评级为高</li>
+    <li>消息经由权威信源【Phys.org】于 09-09 22:40 确认发布，信息源可靠度评级为高</li>
     <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
   </ul>
 </div>
 
-<div class="news-card-footer"><a href="https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://phys.org/news/2026-09-parachute-science-world-tropical-insects.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 :::cell
@@ -338,75 +409,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://phys.org/news/2026-09-ancient-bones-reveal-cannibalism-neolithic.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:48</span>
-</div>
-
-### [In North Carolina, a race is on to restore critical peatland before it dries up or is destroyed](https://phys.org/news/2026-09-north-carolina-critical-peatland-dries.html)
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/in-north-carolina-a-ra.jpg" alt="In North Carolina, a race is on to restore critical peatland before it dries up or is destroyed" loading="lazy" /></div>
-
-根据【Phys.org】于北京时间 09-09 21:48 的深度报道：The birds are up with the sunrise—warblers, flycatchers, sparrows and towhees calling across the treetops. Deer browse on tender buds emerging from dense shrubs. Black bears scrounge for roots, insects and other edibles.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>消息经由权威信源【Phys.org】于 09-09 21:48 确认发布，信息源可靠度评级为高</li>
-    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
-  </ul>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-north-carolina-critical-peatland-dries.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:40</span>
-</div>
-
-### [Could quantum protocols make electronic voting more secure?](https://phys.org/news/2026-09-quantum-protocols-electronic-voting.html)
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/could-quantum-protocol.jpg" alt="Could quantum protocols make electronic voting more secure?" loading="lazy" /></div>
-
-根据【Phys.org】于北京时间 09-09 21:40 的深度报道：Electronic voting, the use of electronic systems to cast, record or count votes, could potentially simplify the process of electing new political leaders or other representatives. While some countries have already started using internet-connected devices or electronic voting machines at polling stations, the trustworthiness, security and anonymity of electronic voting systems are still widely debated.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>消息经由权威信源【Phys.org】于 09-09 21:40 确认发布，信息源可靠度评级为高</li>
-    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
-  </ul>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-quantum-protocols-electronic-voting.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:40</span>
-</div>
-
-### [Soft X-ray absorption spectroscopy of organic molecules in organic solvents for applying organic reactions](https://phys.org/news/2026-09-soft-ray-absorption-spectroscopy-molecules.html)
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/soft-x-ray-absorption.jpg" alt="Soft X-ray absorption spectroscopy of organic molecules in organic solvents for applying organic reactions" loading="lazy" /></div>
-
-根据【Phys.org】于北京时间 09-09 21:40 的深度报道：In research published in the journal Physical Chemistry Chemical Physics, the electronic structures of organic molecules containing sp2-hybridized carbons in organic solvents were studied using C K-edge X-ray absorption spectroscopy (XAS), termed "Soft-XAS-OS."。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>消息经由权威信源【Phys.org】于 09-09 21:40 确认发布，信息源可靠度评级为高</li>
-    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
-  </ul>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-soft-ray-absorption-spectroscopy-molecules.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 ::::

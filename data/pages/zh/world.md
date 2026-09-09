@@ -26,6 +26,119 @@ notice:
 ::::grid{cols=2}
 :::cell
 <div class="news-card-header">
+  <span class="source-badge"><img src="/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR)" width="16" height="16" /> <strong>France 24 (FR)</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:44</span>
+</div>
+
+### ["Je ne me sens plus en sécurité" : au Kenya, l'inquiétude des commerçants burundais](https://www.france24.com/fr/afrique/20260909-je-ne-me-sens-plus-en-s%C3%A9curit%C3%A9-kenya-inqui%C3%A9tude-commer%C3%A7ants-burundi)
+
+<div class="article-cover"><img src="https://s.france24.com/media/display/ca1c7fec-ac58-11f1-b6cf-005056bf30b7/w:1024/p:16x9/2026-09-07T120331Z-86873435-RC29ENAZXYF0-RTRMADP-3-KENYA-IMMIGRATION.jpg" alt="&quot;Je ne me sens plus en sécurité&quot; : au Kenya, l'inquiétude des commerçants burundais" loading="lazy" /></div>
+
+根据【France 24 (FR)】于北京时间 09-09 22:44 的深度报道：Depuis les déclarations du président kényan William Ruto, lundi, stigmatisant les travailleurs étrangers, les Burundais manifestent leur colère. Ils sont 16 000 réfugiés et demandeurs d’asile burundais à vivre au Kenya, et beaucoup survivent grâce à des emplois dans le secteur informel. La très grande majorité d'entre eux cherche désormais à quitter le territoire.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>消息经由权威信源【France 24 (FR)】于 09-09 22:44 确认发布，信息源可靠度评级为高</li>
+    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
+  </ul>
+</div>
+
+<div class="news-card-footer"><a href="https://www.france24.com/fr/afrique/20260909-je-ne-me-sens-plus-en-s%C3%A9curit%C3%A9-kenya-inqui%C3%A9tude-commer%C3%A7ants-burundi" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <span class="source-badge"><img src="/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR)" width="16" height="16" /> <strong>France 24 (FR)</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:39</span>
+</div>
+
+### [Camille Cottin et sa bande de retour dans "Dix pour cent, le film"](https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260909-camille-cottin-et-sa-bande-de-retour-dans-dix-pour-cent-le-film)
+
+<div class="article-cover"><img src="https://s.france24.com/media/display/f8ff851e-ac5a-11f1-8884-005056bf30b7/w:1024/p:16x9/capture-7648394466aa16d767edf31-54499215.jpg" alt="Camille Cottin et sa bande de retour dans &quot;Dix pour cent, le film&quot;" loading="lazy" /></div>
+
+根据【France 24 (FR)】于北京时间 09-09 22:39 的深度报道：Au programme de ce numéro 100 % cinéma de "À l'Affiche !" : "Dix pour cent, le film" d'Émilie Noblet. Six ans après la sortie de la quatrième saison de "Dix pour cent", les agents et leurs talents reviennent pour un film disponible sur Netflix. Camille Cottin, Laure Calamy, Grégory Montel, Nicolas Maury...toute la bande est là avec en "guest-stars" : George Clooney, Eva Longoria, Vincent Macaigne et Laetitia Casta.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>消息经由权威信源【France 24 (FR)】于 09-09 22:39 确认发布，信息源可靠度评级为高</li>
+    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
+  </ul>
+</div>
+
+<div class="news-card-footer"><a href="https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260909-camille-cottin-et-sa-bande-de-retour-dans-dix-pour-cent-le-film" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <span class="source-badge"><img src="/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR)" width="16" height="16" /> <strong>France 24 (FR)</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:37</span>
+</div>
+
+### [Tunisie : manifestations pour la libération du journaliste Mohamed Yousfi](https://www.france24.com/fr/vid%C3%A9o/20260909-tunisie-manifestations-pour-la-lib%C3%A9ration-du-journaliste-mohamed-yousfi)
+
+<div class="article-cover"><img src="https://s.france24.com/media/display/828d74b0-ac58-11f1-9e7c-005056bf30b7/w:1024/p:16x9/Couv-TUNISIE-Manif-des-journalistes.jpg" alt="Tunisie : manifestations pour la libération du journaliste Mohamed Yousfi" loading="lazy" /></div>
+
+根据【France 24 (FR)】于北京时间 09-09 22:37 的深度报道：🇹🇳 En Tunisie, les journalistes se mobilisent après l’arrestation de leur confrère Mohamed Yousfi. Interpellé vendredi avant une émission sur la crise de l’eau, il est soupçonné de blanchiment d’argent. Un mandat de dépôt a été émis contre lui mardi.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>消息经由权威信源【France 24 (FR)】于 09-09 22:37 确认发布，信息源可靠度评级为高</li>
+    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
+  </ul>
+</div>
+
+<div class="news-card-footer"><a href="https://www.france24.com/fr/vid%C3%A9o/20260909-tunisie-manifestations-pour-la-lib%C3%A9ration-du-journaliste-mohamed-yousfi" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="俄罗斯卫星通讯社 (中文)" width="16" height="16" /> <strong>俄罗斯卫星通讯社 (中文)</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:35</span>
+</div>
+
+### [越南国家主席：越方认为对俄关系是外交政策的优先方向](https://sputniknews.cn/20260909/1073172527.html)
+
+根据【俄罗斯卫星通讯社 (中文)】于北京时间 09-09 22:35 的深度报道：俄罗斯卫星通讯社莫斯科9月9日电 越南国家主席苏林表示，越方将与俄罗斯关系视为该国外交政策的优先方向。。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>消息经由权威信源【俄罗斯卫星通讯社 (中文)】于 09-09 22:35 确认发布，信息源可靠度评级为高</li>
+    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
+  </ul>
+</div>
+
+<div class="news-card-footer"><a href="https://sputniknews.cn/20260909/1073172527.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
+  <span class="news-meta-time">🕒 发布时间：09-09 22:33</span>
+</div>
+
+### [Nick Offerman says 'Parks and Rec' character would 'listen to reason' and reconsider his libertarian beliefs](https://www.foxnews.com/media/nick-offerman-says-parks-rec-character-would-listen-reason-reconsider-his-libertarian-beliefs)
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/ron-swanson-nick-offerman.jpg?ve=1&tl=1" alt="Nick Offerman says 'Parks and Rec' character would 'listen to reason' and reconsider his libertarian beliefs" loading="lazy" /></div>
+
+根据【FOX News Latest】于北京时间 09-09 22:33 的深度报道：Former " Parks and Recreation " actor Nick Offerman said Sunday that his famously libertarian-minded character Ron Swanson would eventually "listen to reason" and reconsider his libertarian beliefs. During an appearance on " Talk Easy with Sam Fragoso ," Offerman commented on his 2025 film "Sovereign," in which he played "sovereign citizen" Jerry Kane, who died during a police shootout during a traffic stop in 2010. Offerman said playing Kane allowed him to sympathize with people like Kane who have been "preyed upon" by "misinformed groups." However, he ultimately dismissed worldviews like Kane's, arguing that libertarianism "can never work." AMERICA LOST WHAT'S 'LEFT OF ITS INNOCENCE' AFTER TRUMP, 'PARKS AND REC' STAR SAYS "In order to have a functioning society, that's why libertarianism can never work ," Offerman said. "Like on paper, the ideas are great, but it's going to just lead to anarchy because everyone is then open to interpret things, and whoever has the most guns ends up winning. And that's a dumb idea." "That would be a tough realization for Ron Swanson," Fragoso said. "I suppose, but I like to think as a Mike Schur character that he would listen to reason eventually," Offerman said. 'COMICS FOR KAMALA' CROONS 'GOD BLESS THE U.S.A.' PARODY: 'PROUD TO BE A KAMALA MAN' In 2025, Offerman told IndieWire that "Parks and Recreation" creator Mike Schur told him that his character would have "despised" President Donald Trump despite his mistrust of the government. "Dumb people insist that Ron Swanson would’ve voted for Trump. And I don’t deign to answer myself. I take it to Mike Schur, the main creator of Ron, and he said, ‘Swanson would’ve despised Trump, because Ron loved capitalism. And Trump made the stupidest move you could make as a capitalist, which is to go into public service,’" the actor said. BILLY BOB THORNTON PUSHES BACK ON CELEBRITY ACTIVISM: ‘I DON'T KNOW ANYTHING ABOUT POLITICS’ In another 2025 interview, Offerman added that he did sympathize with Trump supporters despite their different political views. "Dealing with Trump supporters in the world is something I try to handle with nuance, because I know many others around the states who are very good people and citizens and would give you the shirt off their back," Offerman said. "They are on the receiving end of an absolute firehose of misinformation, so it's really cognitively dissonant (impossible) to engage in rational discourse." Bill D'Agostino, the Media Editor and Senior Research Analyst for the Media Research Center's NewsBusters , told Fox News Digital: "Ron Swanson is a modern-day Archie Bunker: a conservative character whose over-the-top politics endeared him to the people his creators had intended to mock. Swanson is a caricature of exactly the kind of person that his portrayer, Nick Offerman, can’t stand." D’Agostino added, "Offerman was likely sick of being adored by the people whom he regarded as having missed the joke. He saw two possible solutions: either c。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>消息经由权威信源【FOX News Latest】于 09-09 22:33 确认发布，信息源可靠度评级为高</li>
+    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
+  </ul>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/media/nick-offerman-says-parks-rec-character-would-listen-reason-reconsider-his-libertarian-beliefs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
   <span class="source-badge"><img src="/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台)</strong></span>
   <span class="news-meta-time">🕒 发布时间：09-09 22:22</span>
 </div>
@@ -359,115 +472,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://www.nytimes.com/2026/09/08/world/europe/china-arctic-shipping-trade-route.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World" width="16" height="16" /> <strong>NY Times World</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:53</span>
-</div>
-
-### [How a Driver’s Sudden Death Triggered Ebola Panic in Congo](https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html)
-
-<div class="article-cover"><img src="https://static01.nyt.com/images/2026/09/09/multimedia/09int-ebola-congo-driver-promo-pwth/09int-ebola-congo-driver-promo-pwth-mediumSquareAt3X.jpg" alt="How a Driver’s Sudden Death Triggered Ebola Panic in Congo" loading="lazy" /></div>
-
-根据【NY Times World】于北京时间 09-09 21:53 的深度报道：When a truck driver unexpectedly collapsed and died in a remote village, frontline medical staff scrambled to safely isolate his body, triggering a standoff.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>消息经由权威信源【NY Times World】于 09-09 21:53 确认发布，信息源可靠度评级为高</li>
-    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
-  </ul>
-</div>
-
-<div class="news-card-footer"><a href="https://www.nytimes.com/2026/09/09/world/africa/ebola-congo-truck-driver.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (德国之声)" width="16" height="16" /> <strong>Deutsche Welle (德国之声)</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:53</span>
-</div>
-
-### [Syria arms depot explosion kills at least 14](https://www.dw.com/en/syria-arms-depot-explosion-kills-at-least-14/a-79203314?maca=en-rss-en-all-1573-rdf)
-
-根据【Deutsche Welle (德国之声)】于北京时间 09-09 21:53 的深度报道：The explosion struck near the Syrian city of Sarmada in Idlib province in the northwest. The Defense Ministry said the weapons and remnants from the war were being stored temporarily at the site before being relocated.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>消息经由权威信源【Deutsche Welle (德国之声)】于 09-09 21:53 确认发布，信息源可靠度评级为高</li>
-    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
-  </ul>
-</div>
-
-<div class="news-card-footer"><a href="https://www.dw.com/en/syria-arms-depot-explosion-kills-at-least-14/a-79203314?maca=en-rss-en-all-1573-rdf" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="Sputnik Globe" width="16" height="16" /> <strong>Sputnik Globe</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:51</span>
-</div>
-
-### [Vietnamese President Calls Putin Great Friend, Brother to Vietnamese People](https://sputnikglobe.com/20260909/vietnamese-president-calls-putin-great-friend-brother-to-vietnamese-people-1124706085.html)
-
-根据【Sputnik Globe】于北京时间 09-09 21:51 的深度报道：MOSCOW (Sputnik) - Vietnamese President To Lam said on Wednesday that he considered Russian President Vladimir Putin to be a great friend and a brother of the Vietnamese people.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>消息经由权威信源【Sputnik Globe】于 09-09 21:51 确认发布，信息源可靠度评级为高</li>
-    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
-  </ul>
-</div>
-
-<div class="news-card-footer"><a href="https://sputnikglobe.com/20260909/vietnamese-president-calls-putin-great-friend-brother-to-vietnamese-people-1124706085.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/sputnik.svg" class="source-icon" alt="俄罗斯卫星通讯社 (中文)" width="16" height="16" /> <strong>俄罗斯卫星通讯社 (中文)</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:50</span>
-</div>
-
-### [俄总统助理：特朗普任内美国对基辅援助规模明显减少](https://sputniknews.cn/20260909/1073172093.html)
-
-根据【俄罗斯卫星通讯社 (中文)】于北京时间 09-09 21:50 的深度报道：俄罗斯卫星通讯社莫斯科9月9日电 俄罗斯总统助理乌沙科夫表示，美国在特朗普总统任期内对基辅的援助规模大幅减少。。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>消息经由权威信源【俄罗斯卫星通讯社 (中文)】于 09-09 21:50 确认发布，信息源可靠度评级为高</li>
-    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
-  </ul>
-</div>
-
-<div class="news-card-footer"><a href="https://sputniknews.cn/20260909/1073172093.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <span class="source-badge"><img src="/assets/sources/france24.svg" class="source-icon" alt="France 24 (法新社合作伙伴)" width="16" height="16" /> <strong>France 24 (法新社合作伙伴)</strong></span>
-  <span class="news-meta-time">🕒 发布时间：09-09 21:49</span>
-</div>
-
-### [France’s record heatwave pushes champagne alcohol levels to historic high](https://www.france24.com/en/france/20260909-france-s-record-heatwave-pushes-champagne-alcohol-levels-to-historic-high)
-
-<div class="article-cover"><img src="https://s.france24.com/media/display/13cef7e0-ac4b-11f1-bb60-005056a97e36/w:1024/p:16x9/000-C7P649E.jpg" alt="France’s record heatwave pushes champagne alcohol levels to historic high" loading="lazy" /></div>
-
-根据【France 24 (法新社合作伙伴)】于北京时间 09-09 21:49 的深度报道：France’s record-breaking summer heat has forced champagne producers to contend with unusually high sugar levels in grapes, forcing authorities to allow alcohol content of up to 15 percent in the region’s sparkling wine for the first time. Champagne is usually capped at 13 percent.。该事件在当前国际与行业格局下具有显著风向标意义。各方分析指出，事件的后续发酵不仅将直接影响相关产业链与利益相关方的战术抉择，更将在中长期维度上重塑多边规则与竞争范式。行业内部与政策观察家正保持高度警惕，评估其潜在的外溢效应与联动反应。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>消息经由权威信源【France 24 (法新社合作伙伴)】于 09-09 21:49 确认发布，信息源可靠度评级为高</li>
-    <li>核心冲击波聚焦于其对既有秩序、商业利益与全球协同网络的深层扰动</li>
-  </ul>
-</div>
-
-<div class="news-card-footer"><a href="https://www.france24.com/en/france/20260909-france-s-record-heatwave-pushes-champagne-alcohol-levels-to-historic-high" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 ::::

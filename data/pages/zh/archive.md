@@ -16,14 +16,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **3** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **4** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-09 22:33 (UTC+8)
+- **最新归档时间**：2026-09-09 22:50 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-09 22:50 (UTC+8)" title="全球要闻情报简报 · 22:50" org="ARCHIVE"}
+**速报纪要：** 本小时全球多源情报监控系统全天候运转。大国地缘博弈、前沿科技模型演进、国际能源交通动脉及金融资本流动呈现多极激荡态势。汇聚新华社、俄罗斯卫星通讯社、France 24、CNN、FOX 等全球多方权威信源，实时校准全球脉搏。
+
+**关键信号：** 国际主流通讯社就中东与乌克兰局势频繁释放战略信号，多边斡旋与战术对抗深度拉锯；前沿大模型商业化落地与超级智能安全治理边界争议持续发酵，核心实验室人才流动频繁；极端自然灾害与地缘咽喉安全风险交织，对全球航运网络与关键供应链形成系统性扰动
+
+**重点要闻索引：**
+- [The Verge] [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous) <span class="news-meta-time">🕒 09-09 22:46</span>
+- [France 24 (FR)] ["Je ne me sens plus en sécurité" : au Kenya, l'inquiétude des commerçants burundais](https://www.france24.com/fr/afrique/20260909-je-ne-me-sens-plus-en-s%C3%A9curit%C3%A9-kenya-inqui%C3%A9tude-commer%C3%A7ants-burundi) <span class="news-meta-time">🕒 09-09 22:44</span>
+- [The Verge] [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin) <span class="news-meta-time">🕒 09-09 22:41</span>
+- [Phys.org] [Auckland has an overlooked traffic pollution problem—and it's not from exhausts](https://phys.org/news/2026-09-auckland-overlooked-traffic-pollution-problem.html) <span class="news-meta-time">🕒 09-09 22:40</span>
+- [Phys.org] [How 'parachute science' is failing the world's tropical insects](https://phys.org/news/2026-09-parachute-science-world-tropical-insects.html) <span class="news-meta-time">🕒 09-09 22:40</span>
+- [France 24 (FR)] [Camille Cottin et sa bande de retour dans "Dix pour cent, le film"](https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260909-camille-cottin-et-sa-bande-de-retour-dans-dix-pour-cent-le-film) <span class="news-meta-time">🕒 09-09 22:39</span>
+:::
 :::timeline-item{start="2026-09-09 22:33 (UTC+8)" title="全球要闻情报简报 · 22:33" org="ARCHIVE"}
 **速报纪要：** 本小时全球多源情报监控系统全天候运转。大国地缘博弈、前沿科技模型演进、国际能源交通动脉及金融资本流动呈现多极激荡态势。汇聚新华社、俄罗斯卫星通讯社、France 24、CNN、FOX 等全球多方权威信源，实时校准全球脉搏。
 
