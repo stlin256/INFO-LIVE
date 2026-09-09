@@ -4,12 +4,12 @@ nav: true
 order: 0
 description: "InfoLive 全球全源信息流与 AI 实时要闻矩阵"
 notice:
-  text: "⚡ 24/7 全球情报实时监控中 · 上次同步：2026-09-09 23:11 (UTC+8) · 聚合 30+ 权威信源"
+  text: "⚡ 24/7 全球情报实时监控中 · 上次同步：2026-09-09 23:15 (UTC+8) · 聚合 30+ 权威信源"
   color: "theme"
 ---
 
 :::important
-### ⚡ 本小时全球情报速报（23:11 播报）
+### ⚡ 本小时全球情报速报（23:15 播报）
 
 本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。
 
@@ -37,7 +37,7 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div class="topic-header"><span class="topic-status-badge">🔥 关键穿梭</span> <span class="news-meta-time">🕒 更新：23:11</span></div>
+<div class="topic-header"><span class="topic-status-badge">🔥 关键穿梭</span> <span class="news-meta-time">🕒 更新：23:15</span></div>
 
 ### [俄美乌博弈与阿布扎比路线：三方和谈试探、资金赤字黑洞与欧洲裂痕](/topic-abu-dhabi)
 
@@ -48,7 +48,7 @@ notice:
 <div class="topic-card-footer"><a href="/topic-abu-dhabi" class="editorial-button accent"><span>查阅完整专题报告与大事记 ➔</span></a></div>
 :::
 :::cell
-<div class="topic-header"><span class="topic-status-badge">🚨 行业震荡</span> <span class="news-meta-time">🕒 更新：23:11</span></div>
+<div class="topic-header"><span class="topic-status-badge">🚨 行业震荡</span> <span class="news-meta-time">🕒 更新：23:15</span></div>
 
 ### [超级智能安全与技术伦理风暴：核心学者请辞、非对齐危机与监管深水区](/topic-ai-safety)
 
@@ -130,6 +130,7 @@ notice:
 
 ## ⏱️ 本小时全球要闻快讯流
 
+- <span class="ticker-time">[23:13]</span> **TechCrunch**：[Viral AI assistant Instinct now has its own email address](https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/)
 - <span class="ticker-time">[23:10]</span> **TechCrunch**：[Uber rival inDrive scales beyond ride-hailing to capture more consumer spending](https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/)
 - <span class="ticker-time">[23:10]</span> **Sputnik Globe**：[Putin Calls Conversation With Vietnam's President Productive, Says Key Issues Discussed](https://sputnikglobe.com/20260909/putin-calls-conversation-with-vietnams-president-productive-says-key-issues-discussed-1124706526.html)
 - <span class="ticker-time">[23:05]</span> **俄罗斯卫星通讯社 (中文)**：[俄外交部：抗击日本军国主义中建立的传统已成为俄朝关系支柱](https://sputniknews.cn/20260909/1073172904.html)
@@ -145,19 +146,48 @@ notice:
 - <span class="ticker-time">[23:00]</span> **Phys.org**：[A 'wholistic' view of cellular communication across an entire animal](https://phys.org/news/2026-09-wholistic-view-cellular-communication-entire.html)
 - <span class="ticker-time">[23:00]</span> **Phys.org**：[Next-gen gravitational wave detectors could spot the first black holes](https://phys.org/news/2026-09-gen-gravitational-detectors-black-holes.html)
 - <span class="ticker-time">[23:00]</span> **The Guardian (卫报)**：[The RBA hoped this year’s three interest rate rises would tame inflation – but nothing is going their way](https://www.theguardian.com/business/2026/sep/10/the-rba-hoped-this-years-three-interest-rate-rises-would-tame-inflation)
+- <span class="ticker-time">[22:54]</span> **Hacker News**：[Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)
 - <span class="ticker-time">[22:53]</span> **FOX News Latest**：[Amazon cargo jet pilot reportedly told wife, 'My career is over' shortly after deadly crash](https://www.foxnews.com/us/amazon-cargo-jet-pilot-reportedly-told-wife-career-over-shortly-after-deadly-crash)
 - <span class="ticker-time">[22:53]</span> **FOX News Latest**：[Team USA coach reveals if Caitlin Clark will start in the World Cup final stage after bench role in group play](https://www.foxnews.com/outkick-sports/team-usa-coach-reveals-caitlin-clark-start-world-cup-final-stage-bench-role-group-play)
 - <span class="ticker-time">[22:51]</span> **TechCrunch**：[Shipt becomes the latest delivery app with an AI shopping assistant](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/)
 - <span class="ticker-time">[22:50]</span> **俄罗斯卫星通讯社 (中文)**：[媒体：欧盟意图将中国企业从政府采购挤出](https://sputniknews.cn/20260909/1073172634.html)
 - <span class="ticker-time">[22:46]</span> **The Verge**：[The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous)
 - <span class="ticker-time">[22:44]</span> **France 24 (FR)**：["Je ne me sens plus en sécurité" : au Kenya, l'inquiétude des commerçants burundais](https://www.france24.com/fr/afrique/20260909-je-ne-me-sens-plus-en-s%C3%A9curit%C3%A9-kenya-inqui%C3%A9tude-commer%C3%A7ants-burundi)
-- <span class="ticker-time">[22:41]</span> **The Verge**：[I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin)
-- <span class="ticker-time">[22:40]</span> **Phys.org**：[Auckland has an overlooked traffic pollution problem—and it's not from exhausts](https://phys.org/news/2026-09-auckland-overlooked-traffic-pollution-problem.html)
-- <span class="ticker-time">[22:40]</span> **Phys.org**：[How 'parachute science' is failing the world's tropical insects](https://phys.org/news/2026-09-parachute-science-world-tropical-insects.html)
+- <span class="ticker-time">[22:42]</span> **Al Jazeera (半岛电视台)**：[Torrential rains, winds from Hurricane Lowell leaves 30,000 without power](https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss)
 
 ## 📰 核心要闻全景深度编译（图文全量解析）
 
 ::::grid{cols=2}
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>
+    <span class="stance-badge">独立观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 23:13</span>
+</div>
+
+### [Viral AI assistant Instinct now has its own email address](https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/)
+
+根据权威信源【TechCrunch】（呈现独立观察）于北京时间 09-09 23:13 的深度电讯：Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch】于 09-09 23:13 首发确认，叙事定调符合其【独立观察】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
 :::cell
 <div class="news-card-header">
   <div class="news-card-meta-left">
@@ -566,38 +596,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://phys.org/news/2026-09-wholistic-view-cellular-communication-entire.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
-    <span class="stance-badge">前沿学术严谨</span>
-    <span class="dimension-pill">🔬 深空与基础科学</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 23:00</span>
-</div>
-
-### [Next-gen gravitational wave detectors could spot the first black holes](https://phys.org/news/2026-09-gen-gravitational-detectors-black-holes.html)
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/next-gen-gravitational.jpg" alt="Next-gen gravitational wave detectors could spot the first black holes" loading="lazy" /></div>
-
-根据权威信源【Phys.org】（呈现前沿学术严谨）于北京时间 09-09 23:00 的深度电讯：A few hundred million years after the Big Bang, the first stars ignited—literally the "let there be light" moment for the universe. Now known to astronomers as Population III, or Pop III, stars, these giants were very different from the stars we know today. They formed from pristine hydrogen and helium, with almost no "metal" (i.e., other elements) holding them back. They were also huge, growing to tens to hundreds of times larger than the sun. And they died young, in many cases collapsing into the universe's earliest black holes.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Phys.org】于 09-09 23:00 首发确认，叙事定调符合其【前沿学术严谨】</li>
-    <li>事件冲击波横跨【🔬 深空与基础科学】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#深空与基础科学</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-gen-gravitational-detectors-black-holes.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 ::::

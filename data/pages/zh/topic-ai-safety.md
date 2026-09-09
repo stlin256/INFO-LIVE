@@ -56,6 +56,36 @@ notice:
     <span class="stance-badge">独立观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
+  <span class="news-meta-time">🕒 09-09 23:13</span>
+</div>
+
+### [Viral AI assistant Instinct now has its own email address](https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/)
+
+根据权威信源【TechCrunch】（呈现独立观察）于北京时间 09-09 23:13 的深度电讯：Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch】于 09-09 23:13 首发确认，叙事定调符合其【独立观察】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>
+    <span class="stance-badge">独立观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
   <span class="news-meta-time">🕒 09-09 23:10</span>
 </div>
 
@@ -331,38 +361,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://phys.org/news/2026-09-denisovan-forearm-bone-southwest-china.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
-    <span class="stance-badge">前沿学术严谨</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 23:00</span>
-</div>
-
-### [A 'wholistic' view of cellular communication across an entire animal](https://phys.org/news/2026-09-wholistic-view-cellular-communication-entire.html)
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/a-wholistic-view-of-ce.jpg" alt="A 'wholistic' view of cellular communication across an entire animal" loading="lazy" /></div>
-
-根据权威信源【Phys.org】（呈现前沿学术严谨）于北京时间 09-09 23:00 的深度电讯：It can't be heard, but different parts of the human body are in constant conversation, communicating to keep the entire system running efficiently. For biologists, being able to listen in on this discussion is a long-sought-after goal. Over the years, researchers have caught snippets of these exchanges, but the complete dialogue has remained out of reach.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Phys.org】于 09-09 23:00 首发确认，叙事定调符合其【前沿学术严谨】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-wholistic-view-cellular-communication-entire.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 ::::

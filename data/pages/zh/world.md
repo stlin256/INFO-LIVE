@@ -377,6 +377,36 @@ notice:
 :::cell
 <div class="news-card-header">
   <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台)</strong></span>
+    <span class="stance-badge">全球南方/半岛视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 22:42</span>
+</div>
+
+### [Torrential rains, winds from Hurricane Lowell leaves 30,000 without power](https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss)
+
+根据权威信源【Al Jazeera (半岛电视台)】（呈现全球南方/半岛视角）于北京时间 09-09 22:42 的深度电讯：Kauai grapples with flooding and dangerous debris as Hurricane Lowell batters Hawaii’s western coastline overnight.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Al Jazeera (半岛电视台)】于 09-09 22:42 首发确认，叙事定调符合其【全球南方/半岛视角】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Al</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR)" width="16" height="16" /> <strong>France 24 (FR)</strong></span>
     <span class="stance-badge">欧洲战略自主</span>
     <span class="dimension-pill">🧠 前沿智能</span>
@@ -622,36 +652,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://sputniknews.cn/20260909/1073172293.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台)</strong></span>
-    <span class="stance-badge">全球南方/半岛视角</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:19</span>
-</div>
-
-### [What is Jordan’s Al-Azraq base and why is Iran targeting it?](https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss)
-
-根据权威信源【Al Jazeera (半岛电视台)】（呈现全球南方/半岛视角）于北京时间 09-09 22:19 的深度电讯：Tehran appears to be increasingly targeting Jordanian assets in the latest round of escalation with the US.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Al Jazeera (半岛电视台)】于 09-09 22:19 首发确认，叙事定调符合其【全球南方/半岛视角】</li>
-    <li>事件冲击波横跨【🌐 全球地缘战略】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#Al</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it?traffic_source=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 ::::

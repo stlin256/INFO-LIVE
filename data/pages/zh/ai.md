@@ -31,6 +31,36 @@ notice:
     <span class="stance-badge">独立观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
+  <span class="news-meta-time">🕒 09-09 23:13</span>
+</div>
+
+### [Viral AI assistant Instinct now has its own email address](https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/)
+
+根据权威信源【TechCrunch】（呈现独立观察）于北京时间 09-09 23:13 的深度电讯：Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch】于 09-09 23:13 首发确认，叙事定调符合其【独立观察】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch" width="16" height="16" /> <strong>TechCrunch</strong></span>
+    <span class="stance-badge">独立观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
   <span class="news-meta-time">🕒 09-09 23:10</span>
 </div>
 
@@ -375,6 +405,36 @@ notice:
 :::cell
 <div class="news-card-header">
   <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News" width="16" height="16" /> <strong>Hacker News</strong></span>
+    <span class="stance-badge">民间科技社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 22:54</span>
+</div>
+
+### [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)
+
+根据权威信源【Hacker News】（呈现民间科技社群）于北京时间 09-09 22:54 的深度电讯：Comments。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News】于 09-09 22:54 首发确认，叙事定调符合其【民间科技社群】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://github.com/Atomburstofficial/geiger" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest" width="16" height="16" /> <strong>FOX News Latest</strong></span>
     <span class="stance-badge">美保守派视角</span>
     <span class="dimension-pill">🧠 前沿智能</span>
@@ -533,6 +593,36 @@ notice:
 :::cell
 <div class="news-card-header">
   <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台)</strong></span>
+    <span class="stance-badge">全球南方/半岛视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 09-09 22:42</span>
+</div>
+
+### [Torrential rains, winds from Hurricane Lowell leaves 30,000 without power](https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss)
+
+根据权威信源【Al Jazeera (半岛电视台)】（呈现全球南方/半岛视角）于北京时间 09-09 22:42 的深度电讯：Kauai grapples with flooding and dangerous debris as Hurricane Lowell batters Hawaii’s western coastline overnight.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Al Jazeera (半岛电视台)】于 09-09 22:42 首发确认，叙事定调符合其【全球南方/半岛视角】</li>
+    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Al</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.aljazeera.com/news/2026/9/9/torrential-rains-winds-from-hurricane-lowell-leaves-30000-without-power?traffic_source=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
+:::
+
+:::cell
+<div class="news-card-header">
+  <div class="news-card-meta-left">
     <span class="source-badge"><img src="/assets/sources/theverge.svg" class="source-icon" alt="The Verge" width="16" height="16" /> <strong>The Verge</strong></span>
     <span class="stance-badge">独立观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
@@ -560,102 +650,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
-    <span class="stance-badge">前沿学术严谨</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:40</span>
-</div>
-
-### [Auckland has an overlooked traffic pollution problem—and it's not from exhausts](https://phys.org/news/2026-09-auckland-overlooked-traffic-pollution-problem.html)
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2022/traffic-pollution.jpg" alt="Auckland has an overlooked traffic pollution problem—and it's not from exhausts" loading="lazy" /></div>
-
-根据权威信源【Phys.org】（呈现前沿学术严谨）于北京时间 09-09 22:40 的深度电讯：Cleaner engine standards and a gradual uptake of electric vehicles have been credited with helping improve Auckland's air quality in recent years.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Phys.org】于 09-09 22:40 首发确认，叙事定调符合其【前沿学术严谨】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-auckland-overlooked-traffic-pollution-problem.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/science.svg" class="source-icon" alt="Phys.org" width="16" height="16" /> <strong>Phys.org</strong></span>
-    <span class="stance-badge">前沿学术严谨</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:40</span>
-</div>
-
-### [How 'parachute science' is failing the world's tropical insects](https://phys.org/news/2026-09-parachute-science-world-tropical-insects.html)
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/parachute-science-is-f.jpg" alt="How 'parachute science' is failing the world's tropical insects" loading="lazy" /></div>
-
-根据权威信源【Phys.org】（呈现前沿学术严谨）于北京时间 09-09 22:40 的深度电讯：Monash University scientists have developed a global framework to tackle a major blind spot in biodiversity conservation: Insects underpin ecosystems and food production but remain largely invisible to conservation efforts across the tropics.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Phys.org】于 09-09 22:40 首发确认，叙事定调符合其【前沿学术严谨】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-parachute-science-world-tropical-insects.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
-:::
-
-:::cell
-<div class="news-card-header">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR)" width="16" height="16" /> <strong>France 24 (FR)</strong></span>
-    <span class="stance-badge">欧洲战略自主</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 09-09 22:39</span>
-</div>
-
-### [Camille Cottin et sa bande de retour dans &quot;Dix pour cent, le film&quot;](https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260909-camille-cottin-et-sa-bande-de-retour-dans-dix-pour-cent-le-film)
-
-<div class="article-cover"><img src="https://s.france24.com/media/display/f8ff851e-ac5a-11f1-8884-005056bf30b7/w:1024/p:16x9/capture-7648394466aa16d767edf31-54499215.jpg" alt="Camille Cottin et sa bande de retour dans &quot;Dix pour cent, le film&quot;" loading="lazy" /></div>
-
-根据权威信源【France 24 (FR)】（呈现欧洲战略自主）于北京时间 09-09 22:39 的深度电讯：Au programme de ce numéro 100 % cinéma de "À l'Affiche !" : "Dix pour cent, le film" d'Émilie Noblet. Six ans après la sortie de la quatrième saison de "Dix pour cent", les agents et leurs talents reviennent pour un film disponible sur Netflix. Camille Cottin, Laure Calamy, Grégory Montel, Nicolas Maury...toute la bande est là avec en "guest-stars" : George Clooney, Eva Longoria, Vincent Macaigne et Laetitia Casta.。该事件在当前全球多极博弈与产业演进的大背景下具备极其鲜明的风向标意义。分析人士认为，事件的后续进展不仅将直接影响关键利益攸关方的中长期战略研判，更将深刻触动相关制度规则与供应链的深层平衡。
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判</div>
-  <ul class="takeaways-list">
-    <li>权威信源【France 24 (FR)】于 09-09 22:39 首发确认，叙事定调符合其【欧洲战略自主】</li>
-    <li>事件冲击波横跨【🧠 前沿智能】领域，对周边地缘与产业秩序构成现实压力测试</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#France</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260909-camille-cottin-et-sa-bande-de-retour-dans-dix-pour-cent-le-film" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅出处原文 ↗</a></div>
 :::
 
 ::::
