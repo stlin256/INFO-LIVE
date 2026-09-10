@@ -20,8 +20,6 @@ notice:
 
 | 议题事件 | 关注热度 | 情绪光谱 | 底层社会与文化矛盾解构 |
 | :--- | :---: | :---: | :--- |
-| **外文信源标题正在进行中文翻译，暂不展示未翻译标题** | `待评估` | `待核验` | 【The Guardian Society (卫报社会与民生)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。 |
-| **网络安全深度调查：黑客组织如何滥用底层 DNS 协议大肆扩散网络钓鱼诈骗** | `待评估` | `待核验` | 【Lobste.rs (极客思想社区)】网络安全深度调查：黑客组织如何滥用底层 DNS 协议大肆扩散网络钓鱼诈骗：外文正文正在进行中文翻译，暂不展示未翻译原文。 |
 
 ## 💬 思想社区与网民观点争鸣
 
@@ -29,46 +27,306 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-ough-assisted-dying-bill-f8e0da0afef4e7fb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="241" data-content-paragraphs="4" data-published-at="2026-09-10T15:25:45.000Z" data-time-source="publication">
+<div id="story-log-what-comes-after-git-302f50f7ea4270e4" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2961" data-content-paragraphs="20" data-published-at="2026-09-10T17:44:27.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:25</span>
+  <span class="news-meta-time">🕒 2026-09-11 01:44</span>
 </div>
 
-### [英朝野两派议员敦促下院勿冒“极大风险”强推辅助死亡法案](https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill)
-<div class="original-title-sub"><span class="orig-tag">原文</span> MPs on both sides urge Commons not to take ‘extraordinary risk’ of forcing through assisted dying bill</div>
+### [Git 之后何去何从](https://ersc.io/blog/what-comes-after-git)
+<div class="original-title-sub"><span class="orig-tag">原文</span> What comes after git</div>
 
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/5396e4a6c389bfb3fd51b409b74b477e49118158/393_41_1241_994/master/1241.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46371d82e0973457fd05a9a66df35a38" alt="英朝野两派议员敦促下院勿冒“极大风险”强推辅助死亡法案" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>工党议员加雷思·斯内尔（Gareth Snell）和梅格·希利尔（Meg Hillier）表示，必须允许上议院履行其审议这一重大公共议题法案的职责。</p>
-<p>英国政坛直播——最新动态</p>
-<p>曾就辅助死亡议题分别投下赞成票与反对票的下议院议员们纷纷敦促各自阵营，若该法案继续遭到上议院阻挠，切勿冒“极大风险”利用鲜为人知的议会程序强行通过该法案。</p>
-<p>在周五下一轮投票前的关键数小时内，两名工党议员向同事们联名致信发出警告：一位是此前投了赞成票的加雷思·斯内尔，另一位是投了反对票的梅格·希利尔。</p></div>
+<div class="article-body" data-article-body="true"><p>East River Source Control 成立已有一年多，但我们此前很少公开谈论我们正在从事的项目。我们目前还不准备正式宣布任何产品，不过很快就会了；但在那之前，我们想分享一些关于版本控制及其未来发展方向的思考。</p>
+<p>构建软件从根本上说是一项协作任务。项目通常始于微末，最终成长为极其庞大而复杂的系统。但无论是 cargo new 生成的代码，还是包含数十亿行代码的单体仓库（monorepo），其本质都一样：源代码。安全可靠地存储这些代码、管理其随时间的变化，并确保开发者随时可用，是任何技术机构最核心的职能之一。</p>
+<p>在过去，你可能曾使用一台存放代码的共享服务器。学术界以及后来的工业界开发了如今被称为源码控制管理（SCM）和版本控制系统（VCS）的工具。甚至在 VCS 领域内部，这些年来我们也见证了无数工具的兴衰：CVS、SVN 和 Git 是主导开源领域的工具，但也有其他系统：Perforce、ClearCase、Fossil、Mercurial、SCSS、Monotone、BitKeeper 等等。这些工具成为了存储代码以及团队协作修改代码的标准方式。</p>
+<p>基于智能体（Agentic）开发的兴起改变了我们开发软件的许多方面，但也对版本控制系统带来了尤其严峻的压力。团队正以前所未有的速度编写更多代码，仓库规模急剧膨胀，活跃分支数量激增，合并新工作时产生严重冲突。智能体在单体仓库中表现出色，因为它们可以更轻松地获取更多上下文信息，而这也加剧了上述问题。它们正在将开发环境迁移到云端的隔离环境中，这意味着它们需要极快的克隆（clone）速度。所有这些问题过去通常只属于大型企业，但智能体正在把大公司的问题带给每一个团队。</p>
+<p>我们相信，随着各家机构的雄心持续扩张，他们将需要下一代 VCS 工具。但在采用该领域的新工具方面，他们表现得较为保守也是理所应当的。如前所述，源代码是机构拥有的最宝贵资产之一，变革既带来回报，也伴随风险。我们深知这些顾虑，因此正在搭建一座连接当下与未来的桥梁。</p>
+<p>不过，现存的 Git 服务器已经数不胜数。那我们有什么特别之处？</p>
+<p>从宏观角度来看，大多数为你托管 Git 仓库的平台其运作方式大致如下：</p>
+<p>你的 git 客户端通过 Git 协议连接到其服务。在服务内部，他们将你的仓库存储在磁盘上，并通过一个服务层将两者连接起来。</p>
+<p>当然，这种描述略显简化：实际情况会有许多台服务器，仓库前面还有一层复杂的微服务。存储层具有副本备份，后台还运行着各种各样的处理。我们这里关注的是整体架构，但切勿将架构图的简洁误认为是系统的简单。这里涉及很多内容，但那些细节在当下并非关键。</p>
+<p>基于这种思路，以下是我们方案的示意图：</p>
+<p>它看起来非常相似！这也是简化后的，例如图中完全没有展示 GraphQL API 接口。但其中的区别至关重要：虽然你仍然使用常用的 git 客户端通过 Git 协议连接到我们的存储，但我们并没有在服务器上存储 Git 仓库。相反，我们开发了自定义的存储引擎。</p>
+<p>简而言之，我们不认为 Git 代表着源码控制的未来。Git 服务开发者多年，表现优异，但它是围绕 2005 年而非 2025 年（更不用说 2035 年）的技术约束设计的。例如，它是专为 Linux 内核这一开源项目构建的。开源对我们的行业极其重要，但这意味着它缺少对于不公开代码的企业来说非常有用的关键特性。此外，尽管 Linux 内核不是一个小仓库——其 7.2 版本大约有 4300 万行代码——但业内主流公司早在几年前就拥有规模达数十亿行代码的单体仓库了。在这样的规模下，技术选型至关重要。</p>
+<p>与此同时，考虑更换版本控制系统又非常困难。Git 已经深植于我们众多的工具链中：现在的规范是 GitOps，而不是 SvnOps！无数工具都在使用 Git 协议与生态，这使得探索替代方案步履维艰。在 Git 诞生之时，周边几乎同时出现了几个类似项目，最著名的有 Mercurial 和 Bazaar。但网络效应使得 Git 最终被几乎所有人采用。</p>
+<p>那么该怎么办呢？支持 Git 协议，同时彻底改造底层存储层的运作机制。虽然这并不能解决我们预见的所有未来问题，但确实大有裨益。与以传统 Git 仓库为真实源（source of truth）的系统不同，我们的系统可以实现横向扩展。而且由于这不是一个全局统一的平台，其他公司的资源使用不会影响到你，因为各部署环境彼此隔离。这为你带来了可靠性与控制力——在谈论基础设施时，这两点至关重要。</p>
+<p>那么未来的可能性呢？如果你需要的扩展规模超出了 Git 协议所能承载的范围，或者你需要 Git 所不具备的功能怎么办？兼容现有协议的这种策略有一个优势：你可以同时支持多种协议。</p>
+<p>这正是 Jujutsu（jj）大展身手的地方。在 ERSC，我们是 jj 的忠实粉丝，部分原因在于我们非常赞赏它作为一项易于渐进式采纳的技术典范。尽管 jj 本身是一套独立的版本控制系统，但它具备与多种不同后端通信的能力。大多数开发者使用 jj 的 Git 后端直接操作本地 Git 仓库，但 Google 也为其内部的 Piper 版本控制系统开发了后端。这使得单个开发者能够在工作中使用 jj，即便同事们仍在继续使用传统的 Git 客户端：对服务器来说，jj 用户不过是又一个 Git 协议使用者罢了。我们将在服务端采用相同的策略：</p>
+<p>这为通往版本控制的未来铺平了一条顺畅的道路：你可以先从熟悉的传统 git 开始，享受可靠且可扩展的源码控制管理。单个开发者可以按自己的节奏选择采纳 jj；当你准备好更进一步时，jj 可以通过不同的协议与同一个底层引擎通信。</p>
+<p>关于此点有一项重要说明：这是未来的规划工作，目前尚未推出。上游目前并没有“jj 原生”（jj native）协议，我们也没有声称我们正在构建的就是该协议。如果这在上游被证明是有价值的且上游希望提供支持，我们将与社区就此展开合作。此外，该协议将提供完备的文档，任何用于支持它的客户端改动都将开源。我们不会想当然地认为只要我们构建了这样的协议上游就会想要使用，因为 Git 协议目前已经能够满足其大多数用户的需求。无论最终呈现为什么形式，我们都致力于成为 jj 生态系统中优秀的参与者。</p>
+<p>存储解决方案只是团队围绕代码开展协作所需的一部分。代码审查（Code Review）、持续集成（CI）、问题追踪（Issue Tracking）等需求不胜枚举。虽然传统的软件代码托管平台（forge）曾以一体化打包的形式提供所有功能，但我们相信软件正在进入一个更具可定制性的时代。因此，我们的产品形态更像是积木组件，而非单一的代码托管平台。存储是基石，因而最先推出。但你可以确信，我们致力于让存储解决方案与你的其余软件技术栈协同运作，而非相互冲突。尽管我们将在版本控制系统（VCS）领域推出多款产品，但如果你想在技术栈的其余环节采用自己的软件，完全可行；或者如果你想采用我们的部分第一方组件并搭配自己的工具，那同样非常合适。</p>
+<p>尽管上述所有内容目前都尚未上线，但我们很快就会对外开放。在此期间，我们下周的 JJ Con 大会见！</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>工党议员加雷斯·斯内尔（Gareth Snell）和梅格·希利尔（Meg Hillier）表示，必须允许上议院履行对这一重大公共议题法案的审查职责。</li>
-    <li>在周五下一轮投票前的关键时刻，曾分别投出赞成票和反对票的工党议员加雷斯·斯内尔与梅格·希利尔向同僚致警告信，敦促各自阵营不要在法案若继续遭上议院阻挠时，采取非常规议会程序强行通过该法案，称这是一种“非同寻常的风险”。</li>
-    <li>来源叙事重点：聚焦英国跨阵营议员呼吁维护议会宪制传统与审议程序，警告若因协助自杀法案遭上议院阻挠而强行利用非常规议会程序强推法案，将带来巨大宪政与程序风险。</li>
+    <li>East River Source Control (ERSC) 已经成立并运作了一年多。</li>
+    <li>Linux 内核 7.2 版本的代码行数约为 4300 万行。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://ersc.io/blog/what-comes-after-git" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-post-26-09-10-yaml-spec-51e46bed28bf96dd" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7009" data-content-paragraphs="46" data-published-at="2026-09-10T17:04:10.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 01:04</span>
+</div>
+
+### [这并非 YAML 规范的错，但是……](https://slugcat.systems/post/26-09-10-yaml-spec/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> It&#39;s not the YAML spec&#39;s fault, but</div>
+
+<div class="article-body" data-article-body="true"><p>我又看到了一篇喷 YAML 的博文。作者一边自豪地反复念叨着“挪威问题”，一边发表着各种不实言论。于是我自己去深入探究了一番，以下是我的发现。</p>
+<p>YAML™（发音与“camel”押韵）是一种人类友好的、跨语言的、基于 Unicode 的数据序列化语言，围绕动态编程语言常见的原生数据类型而设计。它广泛适用于从配置文件到互联网消息传递，再到对象持久化、数据审计和可视化的各种编程需求。</p>
+<p>多年来，YAML 在许多领域变得相当流行。根据你作为程序员的经验多少，你可能之前在配置文件或其他什么地方见过它。在此期间，它也招致了大量批评。通常存在三个大问题，它们以不同的方式相互交织：</p>
+<p>这些批评中有一部分是合理的，但也有一些是用错了地方。至少，这是我此前的理解。让我们来看一看。</p>
+<p>在我多年的编程生涯中，我在许多项目中用过 YAML、TOML、JSON 等格式。我对所有这些都有话要说，但我会重点谈谈 YAML 部分。</p>
+<p>我真正使用 YAML 制作的第一个东西是我在 9 年前编写的自定义 Python Discord 机器人。这大概是我第一个没有参与《空间站 13》（Space Station 13）的“大型”项目，因此大部分内容都是我自己独立完成的。我最终使用了 YAML 作为配置文件。我没有遇到任何常见的针对 YAML 的吐槽问题，但我意识到这纯属走运。我当时仅仅使用了 yaml.safe_load()，仅此而已。</p>
+<p>这并不意味着使用 YAML 时完全没有遇到问题。我的配置文件运行机制有一个很愚蠢的地方：我实际上有两个文件——config.yml 和 override.yml。这是因为我总是需要加载 config.yml 来提供基本结构和默认值，然后再将 override.yml 合并进去，以创建 Python 代码可以访问的嵌套数据结构。但这难道是 YAML 的错吗？不，并不是。</p>
+<p>我在用于持久化数据的 pickle 文件上也遇到过其他序列化问题。诸如“defaultdict 实例在序列化时会遇到问题，因为它们实际上存储了一个 lambda”之类的蠢事。如今回顾那个时期，我可以意识到这里的常见根源是什么：Python。或者更准确地说，是动态语言的通病。在像 Python 这样的动态语言中，根本不可能正确地进行“转入/转出对象”的序列化。</p>
+<p>言归正传。下一个项目。《空间站 14》（Space Station 14）在所有“原型”（以及一些其他内容）中都使用了 YAML。这意味着实体、配方以及大约 200 项其他内容的数据定义。最初该项目实际上是用 XML 来做这些的，但当我接手负责时，我决定将其切换为 YAML。在很大程度上，这是一个“巨大的成功”。我们真正遇到的最大问题在于，新贡献者有时很难意识到它是空白符敏感的，从而会导致一些愚蠢的语法错误。虽然恼人，但并非世界末日。</p>
+<p>我们是如何避免“挪威问题”的？秘诀在于：虽然具体的实现细节有所变化（我们现在处于“serv3”版本，实际上可能已经是第 4 版了），但我们始终是用我们自己的代码来实现真正的对象反序列化逻辑的。这意味着我们从库中获取图节点对象（YamlMappingNode、YamlScalarNode 等），然后由我们自己进行解析。我们不会在不该将“no”反序列化为布尔值的时候将其处理为布尔值，因为我们只在读取需要接收布尔值的字段时才进行布尔反序列化。令人惊讶吧。</p>
+<p>当然，这才是进行对象序列化的正确方式。你应当对照程序代码中设定的模型进行序列化。这就是我们在《空间站 14》中避免荒唐错误的方式，也是我本来可以在自己的 Discord 机器人中避免那些荒唐错误的方式。因此，每当我看到那些抱怨 YAML 有多“糟糕”、因为它可能会错误地将“no”反序列化的文章时，我脑海中浮现的只有一句话：“巨大且彻底的动态类型技术实力不足（skill issue）。”</p>
+<p>但事实真是如此吗？如果我错了呢？如果我们用错了 YAML，而规范本身恰恰要求这种行为呢？那我不就彻底出丑了吗！所以……让我们去查查那该死的规范！</p>
+<p>根据他们的官方网站，YAML 有几个重要的修订版本：1.0（2004年1月）、1.1（2005年1月）、1.2（2009年7月）。让我们先看看 1.0 版到底是怎么回事。</p>
+<p>如果你开始深入研究，你会很快发现该规范在类型转换和解析应该如何运作方面的细节非常少。第 2.4 节是这样说的：</p>
+<p>在 YAML 中，纯文本（未加引号的）标量会根据应用程序获得一个隐式类型。本规范中的示例使用了来自 YAML 标签仓库的类型，包括整数、浮点数值、时间戳、空值、布尔值和字符串值等类型。</p>
+<p>顺着链接点进去，我们看到：</p>
+<p>以下是三个强制性核心标签的描述。YAML 要求支持 seq、map 和 str 标签。YAML 还在 YAML 标签仓库（位于 https://yaml.org/spec/type.html）中提供了一组非强制性的通用标签。这些标签代表了大多数编程语言中的原生数据类型，或者在广泛的应用程序中非常有用。因此，强烈建议应用程序在合适的情况下使用它们，以提高 YAML 系统之间的互操作性。</p>
+<p>最后一个链接已经失效了，但它指向的大概率是类似于“YAML™ 1.1 版语言无关整数类型”的内容。例如，查看整数类型：</p>
+<p>解析与验证：<br />有效值必须匹配以下正则表达式，该表达式也可用于隐式标签解析：<br />[-+]?0b[0-1_]+ # (2进制) |[-+]?0[0-7_]+ # (8进制) |[-+]?(0|[1-9][0-9_]*) # (10进制) |[-+]?0x[0-9a-fA-F_]+ # (16进制) |[-+]?[1-9][0-9_]*(:[0-5]?[0-9])+ # (60进制)</p>
+<p>如果我们继续在主规范中搜索关于隐式键入的内容，会在第 3.3.2 节中看到以下内容：</p>
+<p>纯标量样式的例外情况允许未加引号的值表示数字、日期或其他类型的数据，而加引号的值则被视为普通字符串。有了这一例外，处理器可以将纯标量与一组正则表达式进行匹配，以在没有显式[原文如此]标签的情况下提供此类类型的自动解析。</p>
+<p>好了，这里提醒一下。YAML 规范对于诸如“may”（可以）等某些关键词确实遵循了 RFC 2119 规范。你可能已经注意到了“may”一词的使用以及诸如“取决于应用程序”之类的模棱两可的说辞。确实如此：我对 YAML 1.0 的解读认同这一点——这完全取决于应用程序自身。</p>
+<p>YAML 1.1 似乎并没有脱离这一点太远，只是让涉及的语言表述变得更加复杂。同样的第 3.3.2 节：</p>
+<p>标签解析是特定于应用程序的，因此 YAML 处理器应该提供一种允许应用程序指定标签解析规则的机制。[…]</p>
+<p>直到 YAML 1.2，这种含糊其辞的语言才有所收敛。现在有了一个真正的“模式（schemas）”概念，它明确具有隐式标签解析规则，并且“核心模式（Core Schema）”是一个“推荐”的默认选项：</p>
+<p>Core 模式是 JSON 模式的扩展，允许以更具可读性的形式展示相同类型。这是 YAML 处理程序在没有另外指定的情况下应使用的推荐默认模式。同时，也强烈建议其他模式应当基于它进行构建。</p>
+<p>但等等！YAML 1.2 规范模式并没有六十进制（以 60 为底）或 yes/no 布尔值！因此很明显，“挪威问题”（The Norway Problem）并不是这个 YAML 1.2 建议规范所带来的！</p>
+<p>听着，我之前已经读过这部分 YAML 规范几次了。我看到了铺天盖地的“可以”（may）以及“取决于应用程序”（up to the application），于是心想：“好吧，所以 PyYAML、Ruby 以及所有其他库只是决定选择了一个有缺陷的默认方案。”考虑到所有这些库都把不安全加载作为默认选项，很容易让人产生这种轻率的归因，所以很显然它们最初的设计看起来就称不上称职。</p>
+<p>但依然如此吗？事情仅此而已吗？我们可以查看更早的规范草案！也许它们能告诉我们一些东西。2001 年 12 月的规范草案是第一个把隐式类型写入文本的版本，而且至少从我的阅读来看，它是始终启用的！太有意思了！快进大约一年，在 2002 年 10 月的草案中，规则似乎又变了，现在变成了“取决于应用程序”。因此看来在起草过程中，他们实际上改变了想法！</p>
+<p>“为什么”是你在规范草案中找不到的答案，而且那里面绝对没有任何变更日志。要弄清楚所有这些规范措辞究竟从何而来，我们只能通过查看背后的讨论。</p>
+<p>以 YAML 而言，这主要发生在 2000 年代初的一个邮件列表中。幸运的是，该列表的存档如今在 SourceForge 上仍然可以访问。不过令人恼火的是，SourceForge 上的列表没有公开的存档下载（仅供项目管理员使用），它是按月份分隔的，并且进行了分页。这意味着所有相关的数千封邮件分散在大量的浏览器标签页中。</p>
+<p>如果无法在正规的邮件客户端中打开这些邮件，深入研究是不可能的。所以我掏出 Python 抓取了 SourceForge 的该死网站。如果他们不想让我抓取他们的数据，就应该以负责任的方式提供他们托管的公共存档的访问途径。公开查看器只提供用户名、纯文本消息内容和时间值（出于隐私原因没有电子邮件地址），但这足以让我把东西转储到 .mbox 文件中并加载到 Thunderbird 中。如果你感兴趣，我那些糟糕的脚本在这里和这里。如果你想要的话，我抓取的 mbox 文件在这里。</p>
+<p>没错，那可是海量的邮件。</p>
+<p>这里有数千封邮件，而我只浏览了其中的百分之几。我主要寻找与隐式类型和标签解析相关的信息：它是如何诞生的，规范的作者们究竟有何意图？当然，在搜索关键词的同时点击数百封邮件，不可避免地意味着我读到的内容远不止这些。</p>
+<p>所有这一切的核心是一些怀揣动力的开发者在做他们想做的事情。有荒唐逗趣之事。有出于兴趣出现的各种各样的随机新人。有漫长的辩论。有一次规范网页下线了，因为服务器主机设在秘鲁。这是我第一次费心去“调查”类似的事情，虽然古老的邮件列表对我来说大多很陌生，但这种氛围仍然让我感觉与我习惯的社区有些许相似。</p>
+<p>在我们继续之前，我必须说明清楚：我出生在 2000 年；这些人在我还不会走路的时候就在讨论隐式类型规则了。我没有亲历其中的任何事情，因此我不得不对这一切发生时的大致背景做出自己的推断。</p>
+<p>YAML 源于世纪之交的 XML“炒作”周期。许多人和企业认为 XML 是充满未来魔法的灵丹妙药，因为它可以实现数据互操作性。我们把所有数据放进 XML 中，现在我们就拥有了一大堆带有 XSD、XPath、XSLT 以及天知道还有什么以“X”开头的神奇工具。见鬼，有些公司甚至在销售硬件中间件盒子，其唯一的工作就是基于更多的 XML 来验证和转换 XML！该语言被用于一切场景：配置文件、序列化状态、作为数据库、RPC 协议等等。</p>
+<p>但是，XML 很怪，它是一种标记语言。与 HTML 相比：如果你从这个网页中剥离所有标记……它在某种程度上仍然是连贯的，至少对人类来说是这样。但如果对典型的 XML 用途这样做呢？它将失去所有意义。我们真的是在做标记吗？</p>
+<p>此外，如果你曾经尝试为任何事物设计 XML 格式，你可能都不太确定某个东西到底应该作为标签名、属性还是文本内容。我相信许多人都就这个话题写过主观强烈的指南，但事实是它确实很不直观。另外，伙计，看看上面那个例子中重复内容的数量。你可能也意识到了，JSON 或 YAML 并没有这些问题。如果你对这两者哪怕稍有了解，你也毫无障碍地能想象出上面的例子在它们当中会是什么样子！</p>
+<p>YAML 在很大程度上旨在支持 XML 的所有用例，这意味着它在设计时就考虑到了整套相关的工具链。数据可移植性、序列化、配置文件，该死的一切。许多人有着截然不同的用例，这反映在我读到的一些邮件中。</p>
+<p>为什么 YAML 规范比 JSON 复杂得多？因为，呃，它本来就想这么复杂。规范中有大量的篇幅在讨论“YAML 处理程序”应该如何工作。在邮件列表上，人们频繁提及关于“YPATH”、“YAML schemas”、“YAML-RPC”等想法。人们希望用 YAML 完成你用 XML 所能做的一切。</p>
+<p>当然，XML 的炒作周期过去了，随之而去的还有对任何这些 YAML 等价物的渴望。我之前提到的那些雄心勃勃的目标中的大多数？从未实现过。如今，人们在编写配置文件时，大多只是把 YAML 当作 JSON 的更友好替代品。至于这是好事还是坏事，就留给各位来评判了。</p>
+<p>我自己对此也有很多想法，我想写这篇博文的部分原因也是为了能在互联网上表达我自己的看法。对比一些语言，添加我自己的洞察和见解，诸如此类。</p>
+<p>但最终，我没能以自己满意的方式组织上述内容，而这篇博文在其他部分已经完成的情况下搁置了数月。因此，为了能真正发表出来，我删掉了那部分。</p>
+<p>不过，如果你确实想知道我对 YAML 的最终看法：它还过得去。</p>
+<p>正如我之前所言，YAML 最初本应具备更强的隐式类型规则。他们当时非常清楚这其中所涉及的各种兼容性风险！在 2002 年 6 月，显然他们在确定具体隐式规则时遇到了困难，既要满足预期又要避免歧义。他们希望支持不带引号的字符串，但也希望支持隐式整数和浮点数，或许还有日期，而且当时他们尚未就布尔值达成一致。曾有人提出要求为像日期这样更“小众”的类型添加限定修饰（例如 ! 2026-05-22），但很多人抱怨“这在我的使用场景下太难看了”。他们最终暂时敲定的提案4大致如下：<br />正如一封电子邮件中善意指出的那样，在 2004 年 1 月的 1.0 规范中，部分过时语法并未被清理掉！看看你能不能找出来！<br />2002 年 9 月，关于类型如何运作的话题再次被提及。这是一位尝试使用 YAML 的新人引发的，他在使用中遭遇了时间与日期类型的局限性与风险，其他一些人也对现有的隐式类型规则感到不安。于是齿轮开始转动，“DWIM”（按我意图去做）提案被提出，后来更名为“未知类型”提案：<br />- 简而言之：该提案让 YAML 能够 DWIM（按你意图去做）。如果你希望如此的话。如果你想保持严格，可以为每个节点添加显式的转换方法（transfer method），并且/或者提供验证/类型/比较模式（schema）等等。如果你不想那么严格，只需将所有内容都视为字符串（但始终保留转换方法）。<br />据我理解，该提案随后被合并到了 2002 年 10 月 31 日修订的规范中。此外，他们似乎希望尽快完成 1.0 规范，因此非核心类型被移除了出去，这样就不必在处理规范其余部分的同时对它们进行裁剪。无论如何，在时间线的这个节点上，我确信我的理解是正确的：规范作者的预期是“一切在默认情况下都应是字符串”，而这种意图一直到 2024 年 1 月都没有改变5。规范作者在不同时期的多封电子邮件中反复重申了这一点：<br />如果我和 Ingy 能完成下一版 PyYaml，它的第一个特性就会是一个“所有值均为字符串”的加载器。<br />一个标准的、不支持 Schema 的加载器应该始终将此类值加载为字符串。如果你希望将日期作为对象处理，只需混入一个日期加载器类即可。<br />现在这是可行的，因为类型已经移出了规范。它们不需要被解析器识别。为了简化 YAML 逻辑，这是我们做出的最明智之举。<br />阻止我更广泛部署它的最大阻碍就是：不得不向其他人解释关于值语法的复杂规则。说一句“只要让你的值以字母数字开头就没问题”，要比说“纯数字不行。YYYY-MM-DD 不行。以 !&#39;&quot;% 开头不行。t/f/~ 不行”简单得多。<br />没错。现在情况已经完全不是那样了。基本上每个标量都会被解析为带有类型的字符串。而且（在缺少模式的情况下）如何处理该字符串和类型完全由加载器决定。加载器受到*鼓励*在合理的时间和场景下支持 YAML 类型库。而且大多数时候，默认将值作为字符串加载，并在用户开启 load_dates_as_objects 选项时将日期作为对象加载，是符合情理的。<br />即使是普通标量也具有类型。其类型为空字符串。这是给加载器的一个提示，让它根据加载器的默认设置、用户设置的加载器选项，或者根据 Schema 文档中的类型提示，做出最合理的处理。<br />我的意思是，让你的 YAML 模块在默认情况下始终加载字符串。完全不进行隐式类型转换。这是推荐的默认做法。<br />隐式类型是可选的，它*不*属于基础标准的一部分 [1]。<br />[2] 遗憾的是，当前的 PyYaml 在隐式类型处理上并未完全达到核心规范的标准。这是历史原因造成的，在编写 PyYaml 时，隐式类型还*不是*可选的，这引发了一些问题，在认识到这个错误后规范进行了修改（感谢 Steve Howell）。希望 Tim 正在开发的全新 PyYAML 能够首先聚焦于核心规范；将数据类型留待日后处理。<br />嗯，话说回来，我记不清我们在“y”和“n”布尔值上的立场了。Syck 一直不支持它们，因为它们</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-11 01:04 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://slugcat.systems/post/26-09-10-yaml-spec/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-posts-jj-bdb703a37beb8ff9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2999" data-content-paragraphs="20" data-published-at="2026-09-10T16:48:33.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 00:48</span>
+</div>
+
+### [与 JJ 的对话](https://laurmaedje.github.io/posts/jj/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Conversations with JJ</div>
+
+<div class="article-body" data-article-body="true"><p>到目前为止，我的博客一直完全专注于 Typst，但今天我想写点别的东西。（这种情况本身就很少见，所以我觉得最好抓住这个机会写下来！）</p>
+<p>我断断续续地使用 jj 有一段时间了，想分享一下我的心路历程。我可能并没有选择最佳的学习路径，但至少我是从阅读 Steve 的教程开始的，而不是盲目摸索。不过除此以外，我基本就是遇到什么需求才去摸索什么用法。</p>
+<p>或许我应该先谈谈当初为什么想了解它。除了身边以及团队里的人都在热烈讨论之外，我个人也确实非常喜欢整洁的 PR 历史。我对各种变基（rebase）操作已经相当熟练，但我整理 PR 的工作流依然算不上好。它大致介于交互式变基、在 GitHub Desktop 中拖拽提交（commit），以及在 Tower（一款 Mac 上的 Git 客户端）里折腾之间。我非常喜欢图形界面（GUI），特别是在查看 diff[1] 的时候，因此也常常在 GUI 工具与终端之间来回切换（用于应对 GUI 工具功能受限的情况）。所以，我尝试使用 jj 的目标就是拥有一个更好的工具来理顺我的提交历史。</p>
+<p>在过去的大约六个月里，我一直以这种方式将 jj 与 Git 并行使用。它的表现非常出色，所以首先要向其背后的开发者们表示感谢！特别是，我认为 jj 与 Git 具有如此高的互操作性是非常务实的做法；如果是我的话，可能更倾向于“让我们从零开始，抛弃所有历史遗留包袱”（参考 Typst……）。</p>
+<p>我还没有做到完全迁移到 jj 上。它目前依然只是我的 PR 整理工具。这没关系，这或许既说明了 jj 的特点，也同样（甚至更多地）说明了我个人的使用习惯。但我认为我依然可以用这篇博文来记录自己的使用历程。首先说明一点：无论是在工作中还是工作之余，我的时间都非常有限（不像大学时代那样），下班后我很少想碰编程相关的事情。因此，每当在 jj 中遇到阻碍时，对我而言阻力最小的做法就是退回使用 Git。</p>
+<p>编辑历史。在提交之间跳转和编辑提交的感觉非常流畅！这让整理工作变得简单得多，尤其是搭配 jjui（也是个极棒的工具）使用时。我依然没有把那些 CLI 命令背得很熟，因为我大部分时间只用 jjui，而且熟悉那里的快捷键，这在大多数情况下就已经足够了。</p>
+<p>更丰富的操作集。我很喜欢它为不同的概念提供了更多独立的命令。Git 的工作方式在我的脑海中已经根深蒂固，所以我大体上能接受它的逻辑，但我认为将这些高级概念作为独立命令来实现会更好（例如 `jj split`）。</p>
+<p>撤销（Undo）。撤销功能也非常酷。当然，它在你搞砸了、需要恢复丢失的数据时非常有帮助（我在用 jj 时就遇到过几次；能力越大，责任越大 :P）。但我还发现它很有用的一点在于，我可以随意尝试做一些更改，观察冲突是如何产生的，然后直接放弃并回退几次。当然，在 Git 中我也可以通过把想要回退的 SHA 记录在某处或使用 reflog 来实现，但体验没有那么流畅。</p>
+<p>工具本身。其命令行界面（CLI）给人的感觉……很友好？我也说不上来。但我挺喜欢的！</p>
+<p>日志（Log）。`jj log` 的输出有时还是会让我感到有些困惑。在我主要贡献的代码仓库（typst/typst）中，默认情况下它会向我显示一大堆其他人的分支（这些是我最近为了审查他人工作而检出的），这使得（a）很难找到我自己的工作，以及（b）很难仅查看当前分支的历史（特别是当它截断不可变提交时）。我曾尝试修改默认的 revset 配置，情况稍微好了一些，但这个问题对我来说是全新的；以前在 Git 那边我处理得一直挺顺手。</p>
+<p>据我了解，很多人在 jj 中会较少使用分支名称（在这点上我也许理解有误）。但我之所以喜欢具名分支，恰恰是因为我可以在不同任务之间轻松跳转，而无需通过相关的提交去查找。这引出了一个相关问题：每当我在 Git 和通过 JJ 编辑分支之间来回切换时，即使当前编辑的更改是空的、且前一个更改已被书签标记，它依然会让我处于游离 HEAD（detached HEAD）状态。在使用 Git 提交新内容之前，这始终是一步需要额外留心的操作。</p>
+<p>正因为我喜欢分支，当我在 JJ 中添加新的提交时（这种情况并不多，因为我只用它来进行清理），分支不会自动向前移动这一点让我稍感恼火。</p>
+<p>自动快照（Auto-snapshot）。只要你运行任何命令，JJ 就会自动对磁盘状态进行快照。这使得永久丢失工作变得非常困难。这很棒！然而在实际使用中，我认为它存在两个问题。</p>
+<p>第一，生成快照是一种副作用（它可能会触发自动变基并影响撤销历史）。这有时是出乎意料的（尤其是通过 jjui 自动触发时），或者与同变更合并（same-change merges，见下文）结合在一起时。对我来说，这意味着在编辑代码的间隙，我是在终端上点了一次（聚焦到 jjui）还是点了两次，可能会产生截然不同的结果。</p>
+<p>第二，它很容易不小心把像 `node_modules` 这样的目录打入快照。假设你在仓库中添加了一个新的 JS 项目（并在 gitignore 中添加了 `node_modules`），然后你回退去编辑一个旧的提交。接着，糟糕，`node_modules` 突然就出现在那个提交里了。虽然系统内置了一些启发式算法来检测大文件，但并非所有你不想要的文件体积都很大。在我其中一个项目里，我猜 `node_modules` 依然留存在 jj 的历史中。我也懒得去查证了。但这确实让我感到有点不爽。</p>
+<p>同变更合并（Same-change merges）。JJ 中有一种有趣的合并行为，我认为 Git 原生其实也有。然而，在 Git 中我从未遇到过这种情况，可能是因为我根本不敢去做那么疯狂的变基操作。</p>
+<p>假设你有两个提交 A 和 B。起初，B 引入了某项更改。现在，你尝试改为在 A 中引入相同的更改，保存并以某种方式触发 jj（例如通过 jjui 或 `jj log`）。这会触发一次自动变基，B 中的更改就会被吸收消除。但此时，如果你在 A 中按 Ctrl+Z 撤销并再次保存，那项更改在 B 中依然是消失的状态。</p>
+<p>这种同变更合并的行为在许多场景下确实很方便，但它曾让我栽过跟头。好在有一项配置可以将其禁用。就我个人而言，我宁愿多解决几个冲突，换取一份安心。</p>
+<p>坦白说，我之所以未能全面转向 JJ，主要原因大概在于我仅仅需要一个出色的 GUI 工具来查看和拆分 diff。使用 jj 时，我很喜欢那种能够自如跳转并修改提交的能力，但我这是在拿最便捷的查看 diff 和挑选部分更改的方式作为交换。虽然 `jj split` 能完成这项工作，但如果有一个优秀的 GUI，我的效率会高得多。当我不需要深入修改历史时，我依然更倾向于通过 GitHub Desktop 来拆分我最新的提交。总而言之：我非常希望能看到一个真正精致、体验原生的 JJ 专属图形界面。如果有的话，我大概愿意为此买单。</p>
+<p>终端里可能有一些出色的 diff 查看工具，但单纯滚动浏览 git diff 的输出并不适合我。它无法促使人去细细推敲 diff，而我认为这对于产出优质代码而言至关重要。在创建 PR 的过程中，我会反复阅读自己的 diff，这既能催生重构的想法，也能排查出潜在的缺陷。↩︎</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-11 00:48 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://laurmaedje.github.io/posts/jj/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-posts-html-boilerplate-b1a144313eeff589" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3882" data-content-paragraphs="12" data-published-at="2026-09-10T16:13:28.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">⚡ 战略能源与气候</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 00:13</span>
+</div>
+
+### [我的 HTML 样板模板](https://vale.rocks/posts/html-boilerplate)
+<div class="original-title-sub"><span class="orig-tag">原文</span> My HTML Boilerplate</div>
+
+<div class="article-body" data-article-body="true"><p>当 HTML 最初诞生时，一个文档确实可以非常简单。一个有效的文档可能看起来就像这样：<br />直到 HTML 2.0——首个正式标准确立——真正规范的文档结构才应运而生。用于说明文档类型并处理兼容性的 DOCTYPE 声明成为了预期的必要组成部分，head 与 body 部分亦是如此：<br />自 HTML 2.0 于 1995 年首次亮相以来的这些年里，Web 已经发生了翻天覆地的变化。然而，在 Web 标准领域有一句俗话：“不要破坏网络（Don’t Break The Web）”。虽然存在一些例外，但大体上，在 Web 诞生之初开发的网站在现代浏览器中依然应该能够正常运行，无论过去了多少岁月。然而，为了保持这种兼容性，就存在一种风险：因为担心破坏现有网站而使得引入变更变得寸步难行。<br />Web 应对这一挑战的一种方式是在 HTML 文档中使用某些特定预期元素。如果该元素存在，它就采用新功能；如果不存在，它就直接回退到旧功能。再结合整个 Web 环境中不同集成机制和系统的预期要求，这意味着存在相当多的“样板代码（boilerplate）”——即几乎在每个新建或维护的网站中都会重复出现的代码。HTML 样板通常既用于启用现代功能，也用于设定网站的首选项和详细配置。这涵盖了五花八门的事项，例如网站应如何在社交媒体上进行嵌入展示、应加载哪些样式、浏览器应如何为围绕网站周边的界面设定主题色，以及其他类似细节。<br />正如我维护着自己的 CSS 重置样式表（CSS reset）以为样式提供干净的基础一样，我也维护着自己的样板模板，在创建 HTML 文档时将其用作基础结构和参考。与我的 CSS 重置样式一样，它非常具有主见。以下是其完整内容：<br />需要说明的是，我的 HTML 样板中各元素的顺序是有讲究的。特别是文档 head 区域的排列顺序对性能有着巨大影响。Capo.js 是一个绝佳的工具，能够从性能角度评估文档 head 中元素的排列顺序。<br />这是 HTML 现行标准（Living Standard）的文档类型声明，最初在 HTML 5 中引入。我始终包含它以避免进入怪异模式（quirks mode）。<br />打开包裹整个文档的 html 标签，并使用符合 RFC 5646 规范的标签通过 lang 属性定义文档语言。所声明的语言为整个页面提供了默认语言，并且可以在逐个元素的基础上进行覆盖。提供语言对于自动翻译、诸如连字符等排版细节以及辅助技术（特别是屏幕阅读器）至关重要。<br />我在 head 中放置的第一个元素始终是取值为 UTF-8 的 charset meta 标签，这是自 HTML 5 起唯一有效的编码格式。它始终置于 head 的最顶端，因为它必须出现在文档的前 1024 个字节之内，并且应当位于任何可能被损坏解析的元素之前。<br />当第一代 iPhone 于 2007 年推出时，它渲染桌面端网站的预期方式是让用户进行放大和平移浏览。苹果为真正针对移动端进行优化的网站引入了上述 meta 标签，随后它逐渐被更多浏览器广泛采纳，以至于现在为了实现网站响应式而已获得广泛支持。<br />许多人会加上 initial-scale=1，然而经过大量的测试和研究，我发现已经没有必要再包含它了。如果某个元素在水平方向上超出了视口宽度，可以通过包含它来改变页面的呈现方式，但这绝不应该被允许发生，我建议不要这样做。<br />minimum-scale、maximum-scale 以及 user-scalable 都会极大地损害无障碍访问性，绝不应该被使用。一旦在网站上发现它们，通常都应该将其剥离删除。<br />使文本根据系统设置进行缩放。如果该标签存在，那么页面的样式必须预期到这一点并进行相应编写。这对于避免内容缩放带来的无障碍访问隐患尤为重要。<br />页面的标题。这是一个必填的值，会在许多界面场景中展示。它被用作添加书签时的页面名称、搜索引擎中的标签页名称，以及任何需要展示页面名称的其他地方。我通常会先显示页面标题，后面紧跟网站名称。<br />凡是必须导入的样式都可以在这里导入。样式通常应在页面 head 中导入，而不是在样式表内部使用 @import CSS at-rule 规则，以避免出现“瀑布式加载”——即必须先获取该样式表，然后再去获取额外的样式表。<br />即使经过子集化和其他优化，复杂的具有多字重的可变字体体积依然可能相当庞大，因此我会预加载我知道页面上一定会用到的字体。即使字体与当前页面位于同源，crossorigin 属性依然是必需的。我始终以 WOFF2 格式提供字体，因为它是目前受到广泛支持且性能最佳的字体格式。<br />og:title 用于嵌入卡片展示，例如社交媒体上所见的那些。它是 Open Graph 协议众多元数据值中的一种。虽然我通常会在 title 元素的末尾包含网站名称，但在 og:title 中我不会添加。在绝大多数情况下，嵌入展示都会在标题旁边显示域名或 og:site_name，再次添加便显得重复。<br />我主要是将这个 meta description 字段视为一项针对搜索引擎优化的工作。以往各大搜索引擎会在搜索结果页面中将该描述展示给用户，不过它们现在大多直接从文档正文本身抓取内容。<br />og:description 有时会显示在嵌入预览卡片中。如果缺省，嵌入展示通常会略过描述，或者回退读取 meta description。我喜欢在这里写一些简短、往往带有诙谐风趣的内容，以激发好奇心并契合社交媒体或聊天软件的信息流风格。<br />网站图标（favicon）对所有网站而言都是至关重要的品牌标识元素——尤其是当打开多个标签页需要辨认时。我采用 SVG 格式提供 favicon，因为它们获得了良好的支持，可以动态自适应亮色/暗色模式，在所有尺寸下都能保持清晰美观，并且免去了维护一套不同尺寸位图 favicon 的麻烦。<br />og:image 中定义的图片通常会展示在社交媒体或聊天平台等网站嵌入卡片中。几乎在所有网站上包含它都是有益的，因为它能增添上下文信息，并且通常会增大嵌入预览的展示面积以获得更好的曝光度。对于嵌入图片的 alt 替代文本的支持程度参差不齐，因此不能对其过于依赖。有些网站支持，有些则忽略，还有些网站支持的方式很奇特。我会尽量添加它，但保持简短。1200px 乘 630px 是一种获得广泛支持的尺寸，而在我测试过的现代图片格式中，WebP 是兼容支持最好的格式。<br />指向页面权威版本的 canonical 规范链接对于指明何为真实权威源至关重要。如果存在重复内容，这一点尤为关键。<br />在嵌入展示中显示的网站名称。如前所述，一些嵌入展示会在页面标题附近显示该名称。</p>
+<p>author（作者）标签显然用于指明页面的作者。它并非绝对必要，但有助于开发者确认页面的负责人。</p>
+<p>将 color-scheme 元标签的 content 属性值设置为 light dark，可以告知浏览器该网站同时支持浅色与深色模式。在 head 中进行定义可以防止无样式内容闪烁（FOUC），比如当网站与浏览器均设置为深色模式时突然闪现亮白色的屏幕。</p>
+<p>用于为作为渐进式 Web 应用（PWA）安装的网站设定浏览器界面主题色，以及在 Android 版 Chrome 中设定浏览器界面主题色（但仅限浅色模式）。其他一些浏览器也会以不同方式解析这些值。我使用 media 属性分别独立设置浅色与深色模式下的颜色。</p>
+<p>如果网站提供聚合订阅源（syndication feeds），将其包含在 head 中便可允许自动发现订阅源。</p>
+<p>如果网站集成了搜索功能，创建 opensearch.xml 文件并在文档 head 中进行引用，可将其暴露给浏览器，以便浏览器提供丰富的搜索体验。具体体验因浏览器而异，但在许多情况下，它允许用户直接通过浏览器自身的地址栏在网站内进行搜索，并且还提供了一种添加搜索引擎的简便方法。</p>
+<p>我是一名渐进式 Web 应用（PWA）的倡导者。我非常喜欢它们，许多网站即使不是典型的“应用程序”，也能从成为 PWA 中受益。即使唯一的益处只是当人们将网站添加到主屏幕时展示效果更佳，我也几乎会为所有网站定义一个清单文件（manifest）。该声明有助于浏览器发现清单文件。</p>
+<p>这仅仅是一个样板。它是我几乎在每个网站上都会包含的模板，只会根据具体情况做一些轻微调整。每个网站肯定会根据自身需求在此基础之上有所偏差，但这构成了一个合理的根基。</p>
+<p>如果某个页面预计会被学术引用，那么可以考虑加入 Google 学术的 citation_* 元标签以及都柏林核心（Dublin Core）的 dc 元标签。如果页面代表一篇文章，那么应包含来自开放图谱协议（Open Graph Protocol）的 article 命名空间标签，或许还可以包含与发布系统相关的标签。视频、音频、书籍或其他内容类型同样会有不同的标记方式。许多网站也将从 JSON-LD 结构化数据中获益。</p>
+<p>若想参考涵盖更多可选内容的更大型样板，我推荐阅读 Manuel Matuzović 的精彩文章《我在 2026 年的 HTML 样板》（My HTML boilerplate in 2026）。</p>
+<p>某些情况下可以使用它们，但遇到那些极其罕见的情况时你自然会明白。务必极其谨慎。↩</p>
+<p>读完这篇文章有所收获吗？欢迎考虑通过单次或定期付款赞助支持我。这对我发布更多内容和开发开源项目大有助益。谢谢！</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-11 00:13 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#战略能源与气候</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://vale.rocks/posts/html-boilerplate" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-oldnewthing-20260909-00-7040bcc06f184be9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1088" data-content-paragraphs="10" data-published-at="2026-09-10T15:48:37.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 23:48</span>
+</div>
+
+### [Windows XP 使用什么算法来选取你的初始用户头像？](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
+<div class="original-title-sub"><span class="orig-tag">原文</span> What algorithm did Windows XP use to choose your initial user picture?</div>
+
+<div class="article-body" data-article-body="true"><p>我前段时间曾提到过，Windows XP 会从 %ALLUSERSPROFILE%\Application Data\Microsoft\User Account Pictures\Default Pictures 目录下的图片中随机选取你的初始头像。但大家似乎想了解更多细节。</p>
+<p>“有人尝试弄清楚 Windows XP 在首次创建账户时用来决定选用哪个头像的随机数生成器（RNG）吗？”<br />——Xeno (@XenoPanther)，2025年12月11日</p>
+<p>这里的随机数生成器正是我们的老朋友 RtlRandomEx，它将 GetTickCount() 的当前值作为初始种子。</p>
+<p>该函数采用了一种单趟（one-pass）随机选择算法。我立刻就能想到采用这一方案的两个好处。首先，相较于先统计出所有项目数量、然后在 1 到 n 之间随机抽取一个数字、接着进行第二次遍历以定位该索引对应项的朴素双趟（two-pass）算法，单趟算法效率更高，因为它减少了对文件系统的调用次数，而文件系统正是瓶颈所在。此外，如果代码运行期间目录内的文件数量发生变动，单趟算法也能避免由此带来的复杂问题。</p>
+<p>这种单趟算法是水塘抽样（reservoir sampling）在 k 等于 1 时的特例。这一特例允许使用更加简便的定制算法。</p>
+<p>该算法的工作原理是基于这样一个观察：在包含 n 个项目的集合中，最后一项被随机选中的概率为 1/n。如果最后一项未被选中，那么你就需要从前 n − 1 个项目中随机选取，这可以通过递归来求解。</p>
+<p>沿着递归正向推导，首先从基准情形开始：如果你面对的列表中只有 1 个项目，那么你唯一的选择就是选取该项。否则，如果你有一个包含 n 个项目的列表，首先从前 n − 1 个项目中随机选取一项，然后以 1/n 的概率将其切换为第 n 项。</p>
+<p>作为最后的安全检查，代码在抽样采样 100 张图片后就会停止。这可以避免有人在 Default Pictures 目录下存放了一百万个文件时引发病态的极端行为。</p>
+<p>Raymond 参与 Windows 的演化已有 30 多年。2003 年，他建立了一个名为“The Old New Thing”的网站，其受欢迎程度远远超出了他最大胆的想象，这种发展态势至今仍让他有些心神不宁。该网站随后催生了一本书，巧合的是书名也叫《The Old New Thing》（Addison Wesley，2007年出版）。他偶尔会在 Windows Dev Docs 的 Twitter 账号上露面，讲一些不带任何有用信息的故事。</p>
+<p>参与讨论。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 23:48 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-n-the-windows-11-notepad-20ddaa9053f8368b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="280" data-content-paragraphs="4" data-published-at="2026-09-10T15:46:32.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 23:46</span>
+</div>
+
+### [Windows 11 记事本中糟糕的菜单栏](https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The terrible menu bar in the Windows 11 Notepad</div>
+
+<div class="article-body" data-article-body="true"><p>2026年9月10日 • 3 分钟阅读 • 标签：#windows</p>
+<p>这在新的记事本（Notepad）里行得通吗？不行。这里有一段记录当时情况的录像，虽然看起来相当无意义：</p>
+<p>我很难说自己很喜欢这个设计（我的意思是，看看代表“粘贴”的那个字母“P”的放置位置）。暂且撇开这点不谈，只要你使用 Alt 键，这些快捷访问键就会显示出来。然而，如果你接着使用方向键进行导航，它们就会消失。我实在难以理解这怎么会是预期当中的行为，毕竟你依然在用键盘进行导航。</p>
+<p>更离奇的是，这还会让鼠标指针产生奇怪的异常现象。而且，如果你多试几次，原本禁用的选项还会突然变成可用状态。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 23:46 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
 <div id="story-back-to-native-ccf40ae115f1048c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4523" data-content-paragraphs="44" data-published-at="2026-09-10T15:19:38.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4580" data-content-paragraphs="44" data-published-at="2026-09-10T15:19:38.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -77,60 +335,59 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 23:19</span>
 </div>
 
-### [原生开发如今是Shopify移动端的未来（2026）](https://shopify.engineering/back-to-native)
+### [原生开发如今是 Shopify 移动端的未来（2026）](https://shopify.engineering/back-to-native)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Native is now the future of mobile at Shopify (2026)</div>
 
-<div class="article-body" data-article-body="true"><p>编程智能体（Coding agents）改变了将移动应用开发两次的成本代价。以下是Shopify为何正从React Native回归Swift与Kotlin的原因。</p>
-<p>Shopify工程团队</p>
-<p>早在2020年，我们决定全力投入React Native，那次押注获得了极大的成功。我们仅需构建一次功能，节省了大量时间；让没有移动端背景的开发者也能为我们的应用贡献代码；同时使我们摆脱了不断追求功能对齐的负担。</p>
-<p>在2025年1月，我曾写道React Native的前景一片光明，且Shopify计划继续对其进行投资。根据我们当时所掌握的认知，情况确实如此。React Native对我们来说运行良好，而且它依然是一个优秀的框架。但自那时起，编程模型得到了惊人的提升，对于我们的应用和团队而言，使用Swift和Kotlin构建相同功能的成本已不再是以往的水平。</p>
-<p>我们不会仅仅因为一项决定在当时是成功的就对其固步自封。当核心假设发生改变时，我们愿意回头重新审视这是否依然是正确的选择。大语言模型（LLM）改变了支撑我们2020年决策的核心假设之一，因此我们从第一性原理重新评估了我们的移动技术栈。</p>
-<p>我们的发现促使我们重回原生开发。</p>
-<p>我们在2020年决定从原生转向React Native出于三个原因：</p>
-<p>React Native始终如一地兑现了这些优势。我们发现自己投入了大量的时间和资源来优化性能、改进React Native的关键基础领域，并跟进框架更新和外部依赖，但这些都是可以接受的权衡取舍。使用React Native所带来的收益远远超过了我们在这些领域必须进行的投入。</p>
-<p>Shopify自2021年起（比ChatGPT早一年！）就一直在使用大语言模型来构建软件。最初，我们用它们来实现功能、调查并修复Bug以及进行代码审查。随着模型的不断改进，我们放心交给它们承担的工作复杂度也随之提升。到了2025年底，它们不再仅仅是帮我们更快地写代码。它们有能力让我们开始质疑：构建两次软件是否依然意味着要做两倍的工作。</p>
-<p>我们决定重新评估移动技术栈，并开始制作原型以检验我们的技术选择是否依然成立。我们利用大语言模型在Swift和Kotlin中重构了我们大型应用中的几个核心部分，其效果之好令我们感到惊讶。智能体（Agents）：</p>
-<p>原生开发依然意味着要在两个平台上构建和维护软件，这一成本并没有消失。发生改变的是，智能体现已能够承担足够的实现、转译、测试和审查工作，以至于这不再是像2020年那样的决定性制约因素。</p>
-<p>React Native应用可以运行得很快。我们的应用就是如此。我们之所以做出这一转变，是因为智能体降低了共享实现的优势，而为每个平台单独构建的优势依然存在。原生开发使我们更贴近平台特性和官方第一方工具链，在我们的代码与平台之间减少了框架层和依赖层。</p>
-<p>在深入探讨我们如何进行迁移之前，我们希望确保这次过渡能够干净利落地进行。从一开始，我们就希望回馈React Native社区使其变得更好。我们发布了多个开源库，它们已成为各自领域中的首选方案。我们对社区极高的认可与支持深表感激，并致力于确保这次平稳过渡，不带来任何意外。</p>
-<p>Shopify将继续赞助该项目直至2026年底，在此之后William Candillon将继续负责维护。他将在未来几个月内复刻（fork）该仓库，并以新名称发布该库。待过渡完成后，原仓库将被归档。我们会在过程中发布更新，以便大家有充足的时间进行迁移。如果您的应用依赖于此库，请考虑对其提供赞助。</p>
-<p>该库每周约有200万次下载量，已成为React Native中渲染高性能列表的默认方案。考虑到它对生态系统的重要性，Shopify将继续修复破坏兼容性的关键问题。我们目前正与几家公司商讨长期托管FlashList的事宜。如果您对此感兴趣，请在此联系我。</p>
-<p>Restyle的用户群体比我们的其他库要小，因此我们将归档此仓库。我们将保持其正常维护直至2026年底，随后停止维护。欢迎任何人复刻并继续推进该项目，若有团队愿意接手，我们将协助完成交接。</p>
-<p>Shopify拥有多款大型应用（Shopify、Shop、Point of Sale、Inbox）。全球数以百万计的商家和买家每天都在依赖它们来谋生，并从喜爱的品牌购买所需商品。</p>
-<p>我们曾在逐步迁移到原生（棕地迁移/brownfield）与从零开始彻底重写（绿地重写/greenfield）之间进行过权衡。过去当我们迁移到React Native时，对一些最大的应用采取了棕地迁移策略，因为重写它们需要数年时间，而且在重写过程中我们将不得不停止发布新功能。</p>
-<p>然而这一次，绿地重写方案凭借以下原因成为了明确的胜出者：</p>
-<p>Shop应用经常在应用商店的购物类排行榜中名列前茅，它是首个完成迁移的应用。在AI的协助下，团队仅用了12周时间就从概念验证走到了完全重构的原生应用并在应用商店发布。我们在此深入撰文介绍了这次迁移。</p>
-<p>Shopify应用（我们最大的应用，拥有300多个屏幕页面、主屏幕及锁屏小组件、Apple Watch应用、表盘复杂功能、Siri快捷指令等）的迁移也正在进行中，将于今年晚些时候发布。我们的其他应用也将在不久后完成迁移。</p>
-<p>直接将大语言模型对准React Native代码库，试图一次性在原生平台上生成相同功能，这种做法很有诱惑力，但它行不通。即便你让它预先收集尽可能多的信息，并将其固定为规范和任务文件再进行实现，你最终也会得到大量无法维护、根本无法上线的代码。</p>
-<p>为了解决这个问题，我们构建了一个名为Helix的系统，它采取了更为渐进的方式。它不指望第一次输出就是正确的，而是构建了一个闭环：一个不完美的尝试在蜕变为优质结果之前，绝不可能继续向前推进。</p>
-<p>开发者将Helix指向一个屏幕界面。Helix阅读React Native代码，并提出一系列检查点（经过排序的微小工作切片），这些检查点可以在几分钟内完成审查。随后，它逐个检查点推进构建：每个检查点都必须通过测试证明其行为符合预期、在视觉审查中与正在运行的应用保持一致、经受住两个对抗性代码审查者的考验，并在获得人工认可后才能提交并进入下一个阶段。来自每次审查的反馈都会被系统记录下来，因此随着迁移的推进，该闭环会变得愈发自主化。</p>
-<p>Helix使用Swift和Kotlin重构Shopify移动端应用中的一个屏幕页面</p>
-<p>这种方法效果非常出色，让我们能够以极短的时间重构应用。</p>
-<p>智能体（Agent）对模拟器的控制一直是一个瓶颈。我们发现自己不得不时刻照看它们，因为它们无法可靠地完成构建、测试和迭代。我们构建了相关工具，让智能体能够自主复现 Bug、修复问题并验证修复效果，但这套流程既缓慢又脆弱。React Native 的模块热替换（Hot Module Reload）对这种情况有所帮助，但并不能根本解决问题，因为模拟器本身的控制非常迟缓。这主要是因为它们依赖无障碍树（Accessibility Tree）或屏幕截图来获取应用状态、执行操作并验证结果。智能体可以在几秒钟内完成代码更改，但测试输出结果却需要耗费数分钟。这使得迭代过程变得极其缓慢，且需要大量人工介入。无论模型能力多么优秀，如果无法快速测试其工作成果，也是无济于事的，而这在移动端上尤为困难。</p>
-<p>为了解决这个问题，我们在设计应用架构时兼顾了人类和智能体的需求。其核心原则是将业务逻辑与 UI 完全解耦，使其能够在桌面端无头（Headless）运行。接着，我们通过命令行界面（CLI）将这部分逻辑提供给智能体，使它们无需模拟器介入即可在数毫秒内（而非数分钟）完成迭代。</p>
-<p>通过 CLI 浏览应用并执行操作</p>
-<p>CLI 允许智能体在完全无需接触 UI 的情况下检查应用状态、在不同板块间导航并执行操作。这实现了极速的反馈闭环，使智能体能够连续自主工作数小时。</p>
-<p>当确实需要与模拟器交互时，CLI 可以通过远程模式连接它们，并通过命令驱动 UI，而无需检查布局或无障碍树。这带来了极快的执行性能以及端到端（E2E）测试体验。</p>
-<p>这是实时速度（未经加速）</p>
-<p>我们计划在全流程引入 AI 的支持下，将所有移动端应用迁移至 Swift 和 Kotlin。Shop 已经作为完全原生的应用发布，Shopify 应用的迁移正在进行中，其余应用也将很快跟进。我们推进得十分迅速，但这绝非以降低标准为代价。每一次重构都必须达到或超越人们如今所期望的性能、稳定性、无障碍支持和产品质量。这绝不仅仅是用不同语言重写相同的应用，我们重构它们是为了让人类和智能体都能快速理解、测试并修改它们。</p>
-<p>迁移并非终点线。真正的成功意味着我们的团队能以比以往更快的速度，为商家和买家提供更好的体验。我们将通过产品研发速度、应用质量以及智能体能够自主完成的工作量来衡量这一成效。</p>
-<p>在此过程中，我们将持续分享所积累的经验，包括对 Helix（我们面向智能体的架构）的深度剖析，以及我们如何与智能体协同构建移动应用。此前我们在 React Native 的实践中保持了开放分享的态度，在这次转型中我们也打算同样如此。</p>
-<p>这是我们所承担的最具野心的移动工程项目之一。如果你想参与构建 Shopify 的下一代移动应用，我们正在招聘移动端工程师、基础设施工程师，以及在 AI 与软件工程交叉领域探索的开发者。</p>
-<p>原生技术是 Shopify 当下的正确选择，但 React Native 则是 Shopify 在 2020 年的正确选择。那一时期的成功离不开促成这一切的每一位同仁。</p>
-<p>感谢 Meta 的 React Native 团队作为该框架的出色管理者，多年来倾听我们的反馈并与我们紧密合作。得益于你们在架构、性能、工具链和社区上的投入，如今的 React Native 已经大幅提升。</p>
-<p>感谢你们创建了 React Native Skia，并将其带到了远超我们想象的高度。你们重新定义了 React Native 在图形和动画领域的可能性，我们十分期待看到你们未来的探索。</p>
-<p>感谢你们在 Reanimated 上的全部工作，感谢你们倾听我们的反馈，并帮助我们解决了应用中一些最具挑战性的动画与性能问题。</p>
-<p>数百名工程师为采用 React Native、迁移应用、构建共享基础底座、优化性能、维护集成以及回馈生态系统做出了贡献。你们中的许多人重新当起了初学者，挑战长久以来的既有假设，在持续为商家和买家交付价值的同时成功完成了这一转变。谢谢你们。</p>
-<p>感谢每一位使用我们开源库、贡献代码、提交问题、对我们的决策提出质疑并分享所学的人。你们的贡献和反馈（哪怕是言辞犀利的批评）都让我们的工作变得更好。</p>
-<p>过去六年中建立起来的工具、经验与合作关系，将继续塑造我们在 Shopify 构建移动应用的方式。我们向参与其中的每一个人致以深深的谢意。</p>
-<p>查看我们的在招职位，深入了解我们“以数字化为本”（Digital by Design）的企业文化。</p></div>
+<div class="article-body" data-article-body="true"><p>编程智能体（Coding agents）改变了将移动应用开发两遍的成本。以下是 Shopify 为何正从 React Native 重返 Swift 和 Kotlin 的原因。</p>
+<p>Shopify 工程团队</p>
+<p>早在 2020 年，我们就决定全力投入 React Native，而那次押注极其成功。我们只需构建一次功能便节省了大量时间，使没有移动端背景的开发者也能为我们的应用做出贡献，并让我们免于不断追赶两端功能对齐的困扰。</p>
+<p>2025 年 1 月，我曾写道 React Native 的未来一片光明，Shopify 计划继续对其进行投资。根据我们当时所掌握的情况，这确实是事实。React Native 对我们一直运转良好，并且它依然是一个极其优秀的框架。但自那时起，编程模型有了显著提升，对于我们的应用和团队而言，用 Swift 和 Kotlin 构建同一功能已不再需要承担以往那样的成本。</p>
+<p>我们不会仅因为某项决策在当时是成功的就固守它。当核心假设发生改变时，我们愿意回过头来审视这是否仍是正确的选择。大语言模型（LLM）改变了我们 2020 年决策背后的核心假设之一，因此我们从第一性原理重新评估了我们的移动端技术栈。</p>
+<p>我们的研究所得引导我们重返原生开发。</p>
+<p>我们在 2020 年决定从原生转向 React Native，是出于以下三个原因：</p>
+<p>React Native 始终如一地兑现了这些优势。虽然我们发现自己耗费了大量时间和资源来优化性能、改进 React Native 的关键基础领域，以及跟进框架更新和外部依赖项，但这些都是可以接受的权衡。使用 React Native 带来的益处远远超过了我们在这些领域必须进行的投入。</p>
+<p>Shopify 自 2021 年起就一直在使用大语言模型构建软件（比 ChatGPT 早了一年！）。起初，我们使用它们来实现功能、排查并修复错误以及审查代码。随着模型能力的提升，我们敢于托付给它们的任务复杂度也随之提高。到 2025 年底，它们已不再仅仅是帮助我们更快地编写代码。它们的能力足以让我们重新思考：将软件构建两遍是否还意味着要做两倍的工作。</p>
+<p>我们决定重新评估我们的移动技术栈，并开始构建原型以验证我们的技术选择是否依然成立。我们利用大语言模型在 Swift 和 Kotlin 中重建了我们几个最大应用的核心模块，其效果之好令我们大吃一惊。智能体具备以下能力：</p>
+<p>原生开发仍意味着要在两个平台上构建和维护软件，这一成本并未完全消失。发生改变的是，智能体现在可以完成足够多的实现、转换、测试和审查工作，以至于这不再是像 2020 年时那样的决定性因素。</p>
+<p>React Native 应用完全可以做到很快，我们的应用确实很快。我们做出这一转变，是因为智能体降低了共享代码实现的优势，而针对每个平台单独构建的优势依然存在。原生开发使我们能更紧密地贴近平台原生能力和第一方工具链，在我们的代码与平台之间减少了框架层和依赖层。</p>
+<p>在深入探讨我们如何进行迁移之前，我们希望确保这次过渡能够干净利落。从一开始，我们就希望反哺 React Native 社区，使其变得更好。我们发布的开源库在各自的领域内已成为首选方案。我们对来自社区的热烈反响深表感激，并致力于确保这是一次平稳且不出意外的过渡。</p>
+<p>Shopify 将继续赞助该项目直到 2026 年底，William Candillon 在此之后也将继续为其工作。他将在接下来的几个月内创建该代码仓库的分支（fork），并以新名称发布该库。原仓库将在迁移完成后归档。我们将在整个过程中发布最新动态，以便所有人都有充足的时间进行迁移。如果您的应用依赖此库，请考虑赞助支持。</p>
+<p>该库每周获得约 200 万次下载，并已成为在 React Native 中渲染高性能列表的默认首选方式。鉴于它对生态系统的重要性，Shopify 将继续修复破坏兼容性的关键问题。我们目前正与几家公司商讨长期接管 FlashList 维护事宜。如果您对此感兴趣，请在此联系我。</p>
+<p>Restyle 的用户群比我们的其他开源库要小，因此我们将归档此仓库。我们将维持其正常运转直至 2026 年底，之后将停止维护。欢迎任何人 fork 并继续推进它，如果有团队希望接手，我们将协助完成交接。</p>
+<p>Shopify 拥有多款大型应用（Shopify、Shop、Point of Sale、Inbox）。全世界数以百万计的商家和买家每天都依赖它们来谋生以及从他们喜爱的品牌购买所需商品。</p>
+<p>我们曾在逐步迁移到原生（棕地策略 / brownfield）与从零开始彻底重构（绿地策略 / greenfield）之间进行过权衡探讨。过去当我们迁移到 React Native 时，对于一些最大的应用我们选择了棕地方式，因为重写它们需要数年时间，而且在重写期间我们不得不暂停交付新功能。</p>
+<p>然而，这一次绿地策略凭借以下几点原因脱颖而出，成为明确的优选：</p>
+<p>经常在应用商店购物类榜单名列前茅的 Shop 应用是首个完成迁移的。在 AI 的辅助下，团队在短短 12 周内就完成了从概念验证到在应用商店发布完全用原生重构的应用。我们已在此处详细撰文介绍了这次迁移过程。</p>
+<p>Shopify 主应用（我们最大的一款应用，包含 300 多个页面、主屏幕与锁屏小组件、Apple Watch 应用、表盘复杂功能、Siri 快捷指令等）的迁移也正在进行中，将于今年晚些时候发布。我们的其余应用也将很快完成迁移。</p>
+<p>直接将大语言模型对准 React Native 代码库并试图一步到位直接生成对应的原生功能，这种想法极具诱惑力，但行不通。即使你让它预先收集尽可能多的信息，将其固化为规范和任务文件然后再去实现，你最终也会得到大量无法维护、根本无法上线的劣质代码。</p>
+<p>为了解决这一问题，我们构建了一个名为 Helix 的系统，采取了更为渐进的方式。它不指望初次输出就完全正确，而是建立了一个闭环：任何不完美的尝试都绝无法向前推进，直到它被优化为令人满意的结果。</p>
+<p>开发者将 Helix 指向某个页面界面。Helix 会读取 React Native 代码并提议一系列检查点（由小粒度、有序的工作切片组成），这些检查点可在几分钟内完成审查。随后，它按检查点逐步构建：每一个切片都必须通过测试验证其行为，在视觉审查中与运行中的应用匹配，通过两轮对抗性代码审查员的审核，并在获得人工认可后才能提交，进而开始下一个切片。每一次审查的反馈都会被系统记住，因此随着迁移的推进，该闭环会变得越来越自主。</p>
+<p>Helix 正在使用 Swift 和 Kotlin 重建 Shopify 移动应用中的一个页面</p>
+<p>这种方法效果非常好，让我们得以用原来极少的时间来重构我们的应用。</p>
+<p>让智能体（Agent）控制模拟器一直是个瓶颈。我们发现自己不得不时刻盯着它们，因为它们无法可靠地进行构建、测试和迭代。我们构建了工具让智能体能够自主复现缺陷、修复缺陷并验证修复结果，但这个过程既缓慢又脆弱。React Native 的模块热重载（HMR）虽有帮助但未能彻底解决问题，因为模拟器控制本身太慢了。这主要是因为依赖无障碍辅助功能树（accessibility tree）或截图来获取应用状态、执行操作并验证结果。智能体可以在几秒钟内修改代码，但测试输出结果却需要几分钟。这使得迭代过程极其缓慢且需要大量人工介入。无论模型多么出色，如果它无法快速测试自己的工作，那就无济于事，而这在移动端上尤为困难。</p>
+<p>我们正在通过设计同时适用于人类与智能体的应用架构来解决这一问题。其核心原则是将业务逻辑与 UI 完全解耦，使其能够在桌面端以无头（headless）模式运行。随后，我们通过命令行工具（CLI）将其提供给智能体使用，使其能够在毫秒级而不是数分钟内完成迭代，且全程无需调用模拟器。</p>
+<p>使用 CLI 浏览应用并执行操作</p>
+<p>该 CLI 允许智能体检查应用状态、在不同版块之间导航以及执行各项操作，所有这些都无需接触 UI。这实现了极速的反馈闭环，并让智能体能够一次性自主工作数小时。</p>
+<p>当需要与模拟器交互时，CLI 可以通过远程模式连接它们并通过命令驱动 UI，无需检查布局或无障碍功能树。这带来了极快的性能与端到端（E2E）测试效率。</p>
+<p>这是实时录屏（未加速）</p>
+<p>我们将在整个过程中运用 AI，将我们所有的移动应用迁移至 Swift 和 Kotlin。Shop 应用已经作为完全的原生应用发布，Shopify 应用的迁移正在进行中，其余应用也将很快跟进。我们的推进速度很快，但绝没有降低标准。每次重构都必须达到或超越人们如今所期望的性能、稳定性、无障碍支持和产品质量。这绝不仅仅是用不同语言重写相同的应用。我们重构它们是为了让无论人类还是智能体都能够快速理解、测试并进行修改。</p>
+<p>迁移并非终点。成功意味着我们的团队能比以往更快地为商家和买家提供更好的体验。我们将通过产品迭代速度、应用质量以及智能体能够自主完成的工作量来衡量这一成效。</p>
+<p>我们将在这一过程中分享所学到的经验，包括深入探讨我们可被智能体寻址的架构 Helix，以及我们如何与智能体协同构建移动应用。我们此前曾坦诚分享过从 React Native 中获得的经验，在这次转型中我们也打算同样保持透明开放。</p>
+<p>这是我们开展过的最具雄心的移动工程项目之一。如果你想协助构建下一代 Shopify 移动应用，我们正在招聘移动工程师、基础设施工程师以及在 AI 与软件工程交叉领域工作的开发者。</p>
+<p>原生开发是如今 Shopify 的正确选择，但 React Native 则是 2020 年 Shopify 的正确选择。那段成功离不开让它落地的每一个人。</p>
+<p>感谢 Meta 的 React Native 团队作为该框架的出色掌舵者，多年来倾听我们的反馈并与我们紧密合作。正是由于你们在架构、性能、工具和社区方面的投入，如今的 React Native 变得显著更为出色。</p>
+<p>感谢你们创建了 React Native Skia，并将其推进到了远超我们所有人想象的高度。你们重新定义了 React Native 在图形和动画方面的可能性，我们非常期待看到你们接下来的探索。</p>
+<p>感谢你们在 Reanimated 上的所有工作，感谢倾听我们的反馈，并帮助我们解决了应用中一些最棘手的动画和性能难题。</p>
+<p>数百名工程师为采用 React Native、迁移我们的应用、构建共享基础、提升性能、维护集成以及向生态系统回馈做出了贡献。你们中的许多人重新回归初学者心态，挑战长期以来的既有假设，在继续为商家和买家交付产品的同时成功完成了转型。谢谢你们。</p>
+<p>感谢所有使用我们开源库、贡献代码、反馈问题、质疑我们的决策并分享心得的人。你们的贡献和反馈（包括那些尖锐辛辣的意见）让我们的工作变得更加出色。</p>
+<p>过去六年建立起来的工具、经验教训和合作关系将继续塑造 Shopify 构建移动应用的方式。我们向参与其中的每一个人致以深深的谢意。</p>
+<p>查看我们的招聘职位，了解更多关于我们“以数字化为本（digital by design）”文化的信息。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Shopify 正在将其移动端应用从 React Native 全面迁移回原生开发（iOS 采用 Swift，Android 采用 Kotlin）。</li>
-    <li>Shopify 于 2020 年决定全力投入 React Native，并从 2021 年起开始使用大语言模型（LLM）构建软件。</li>
-    <li>来源叙事重点：重点阐述代码大模型和 AI Agent 的成熟改变了跨端开发与双平台原生维护的成本平衡，详述通过自研工具 Helix 及解耦架构将多款主力 App 从 React Native 迁移回 Swift/Kotlin 的合理性与高效性，并宣布对相关开源库的交接与收尾计划。</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 23:19 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -144,7 +401,7 @@ notice:
 
 :::cell
 <div id="story-misc-domains-e43d375c46e69c7b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="965" data-content-paragraphs="15" data-published-at="2026-09-10T15:14:48.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1006" data-content-paragraphs="16" data-published-at="2026-09-10T15:14:48.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -153,31 +410,31 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 23:14</span>
 </div>
 
-### [关于网络钓鱼的吐槽：这不是用户的错（也不是 DNS 的错）](https://maurycyz.com/misc/domains/)
+### [关于网络钓鱼的吐槽：这不是用户的错（也不是DNS的错）](https://maurycyz.com/misc/domains/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> A rant about phishing: It&#39;s not the user&#39;s fault (and not DNS either)</div>
 
 <div class="article-body" data-article-body="true"><p>“为了安全，请勿点击可疑链接”</p>
-<p>攻击者所要做的，仅仅是制作一个带有密码框和公司 Logo 的网站。URL 根本无关紧要，因为用户已经习惯了忽略它。</p>
-<p>我承认 URL 并不是最直观的东西，因为它的阅读方向是交替变化的。协议（scheme）和主机名（hostname）从具体走向宏观，而路径（path）的顺序却恰恰相反：</p>
-<p>这种语法的后果就是，关键部分（二级域名）位于 URL 的正中间。这是必须向非技术用户普及的知识：单纯告诉他们“避开可疑链接”是远远不够的。</p>
-<p>然而，如果主机名本身就不是一个可靠的指示器，那么这一切努力都将毫无用处。</p>
-<p>为了让用户有一丝识破骗局的机会……</p>
-<p>机构“必须”（MUST）使用单一、广为人知的根域名。内部服务“必须”（MUST）位于该根域名的子域名下，且“绝不能”（MUST NOT）使用如下形式的 URL：</p>
-<p>通过电子邮件或短信发送的链接“必须”（MUST）位于该可识别的域名之下。如果确实有必要将用户引导至其他地方，请创建本地重定向或本地链接：</p>
-<p>这并不意味着所有内容都必须由机构自行托管：许多服务都支持绑定自定义域名，而且设置链接也是免费的。</p>
-<p>该规则同样适用于电话号码：切勿发送短信或电子邮件让用户“拨打 0491-570-006”，因为用户根本无从得知这是否是诈骗。联系方式“必须”（MUST）通过原始消息中链接的网页来提供。</p>
-<p>本文中的关键词“必须”（MUST）、“绝不能”（MUST NOT）、“需要”（REQUIRED）、“应当”（SHALL）、“不得”（SHALL NOT）、“应该”（SHOULD）、“不应该”（SHOULD NOT）、“推荐”（RECOMMENDED）、“可以”（MAY）和“可选”（OPTIONAL），均按 RFC 2119 中的定义进行解释……</p>
-<p>主机名的混乱现状已经恶化到了这种地步：我甚至见过有人辩称“子域名的存在本身就是一个问题”，因为这让犯罪分子能够在缺乏监管的情况下随意冒充任何人。</p>
-<p>DNS 是一个分层系统，其结构在 40 多年里从未改变：</p>
-<p>关于任何特定网站究竟由谁运营，理应不存在任何困惑……然而，耗费巨大力气让合法网站变得与钓鱼诈骗网站无法区分，却反而成了行业常态。</p>
-<p>（甚至连政府机构都未能始终如一地使用分配给它们的顶级域名 [TLD]）</p></div>
+<p>无论用户名、密码还是双重认证（2FA）提示，都没有部署在公司自有的域名下。再加上令牌过期时会随机弹出身份验证弹窗，察觉钓鱼攻击几乎变得不可能……因为正规业务看起来和骗局一模一样：</p>
+<p>攻击者所需要做的，仅仅是做一个带密码输入框和公司Logo的网站。网址URL根本无所谓，因为用户早就学会了忽略它。</p>
+<p>我承认URL并不是最符合直觉的东西，因为它的阅读方向是交替变化的。主机名和协议是从具体走向宏观，而路径则是反过来的：</p>
+<p>结果就是，最核心的部分（二级域名）恰恰处于URL的中间位置。这是非技术用户必须学习的常识：仅仅告诉他们“避免点击可疑链接”是远远不够的。</p>
+<p>然而，如果主机名本身就不是一个可靠的指标，那么这一切训练都是徒劳无功的。</p>
+<p>为了让用户有一丝识破骗局的可能……</p>
+<p>组织“必须”（MUST）使用单一、公认的根域名。内部服务“必须”（MUST）位于该根域名的子域名下，并且“严禁”（MUST NOT）使用如下URL：</p>
+<p>通过电子邮件或短信发送的链接“必须”（MUST）归属于该可识别的域名之下。如果确实有必要将用户引导到其他地方，请创建一个本地重定向或链接：</p>
+<p>这并不意味着所有内容都必须由该组织自行托管：许多服务都支持绑定自定义域名，而且链接本身是免费的。</p>
+<p>这一规则同样适用于电话号码：不要发送短信或邮件要求用户“致电 0491-570-006”，因为根本无法判断这是否是诈骗。联系方式“必须”（MUST）在原始信息所链接的网页上提供。</p>
+<p>本文中的关键用词“必须”（MUST）、“严禁”（MUST NOT）、“要求”（REQUIRED）、“应当”（SHALL）、“不得”（SHALL NOT）、“应该”（SHOULD）、“不应该”（SHOULD NOT）、“推荐”（RECOMMENDED）、“可以”（MAY）和“可选”（OPTIONAL）应按照RFC 2119中的描述进行解释……</p>
+<p>主机名的混乱现状已经严重到，我甚至看到有人声称“子域名的存在本身就是一个问题，因为这让犯罪分子能够在毫无监管的情况下随意冒充任何人”。</p>
+<p>DNS是一个分层系统，其结构40多年来从未改变：</p>
+<p>对于任何特定网站究竟由谁运营，本不应存在任何混淆……然而现在的普遍做法，却是费尽心机地让合法正规的网站看起来和网络诈骗毫无二致。</p>
+<p>（甚至连政府部门都无法做到始终如一地使用分配给他们的顶级域名）</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>DNS 是一个分层系统，其结构已有40多年的历史且未发生改变。</li>
-    <li>URL 的主机名和协议从具体开始变得更宽泛，而路径则是相反的方向，因此关键的二级域名处于 URL 的中间位置。</li>
-    <li>来源叙事重点：反驳将网络钓鱼责任推卸给普通用户的流行观点，强调钓鱼泛滥的主因在于机构未规范使用统一根域名和二级域名，导致合法服务与钓鱼欺诈在 URL 结构上难以区分，并主张依 RFC 2119 标准严格规范机构的域名资产与通信指引。</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 23:14 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -187,313 +444,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://maurycyz.com/misc/domains/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-6-09-05-bad-vibes-coding-7db2e1d428f6ed13" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4510" data-content-paragraphs="33" data-published-at="2026-09-10T15:04:46.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:04</span>
-</div>
-
-### [坏氛围编程](https://spectrecollie.com/2026/09/05/bad-vibes-coding/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Bad Vibes Coding</div>
-
-<div class="article-body" data-article-body="true"><p>我暂时从对人工智能（AI）的怒不可遏中抽出身来，只是为它本不必变成现在这副模样而感到悲哀。</p>
-<p>我对生成式 AI 的态度转变极为迅速，从最初谨慎的“它很差劲我也很讨厌它，但等泡沫破裂后，它或许在编程等极少数特定场景下有些用处”，变成了如今坚决的零容忍立场。全是垃圾，全该付之一炬。</p>
-<p>它就是这么糟糕，在如此多的不同层面、以如此多的不同方式表现出其劣质。即便你试图忽略或开脱其中任何一条反对理由，摆在你面前的依然还有几十条罪状。</p>
-<p>你是否设法（不管用什么方式）说服了自己，认为数据中心疯狂盲目扩张带来的环境问题被夸大或失实了？那你依然无法解释为什么这些数据中心究竟有何存在的必要。</p>
-<p>你是否说服了自己，认为长达数十年的抄袭与侵权狂欢固然令人遗憾，但我们现在对此已无能为力？好吧，哪怕这种论调已经够糟糕了，事情也绝没有到盖棺定论的地步。这些模型依然被世界上某些最卑劣的人所控制，并为他们输送利益。</p>
-<p>你是否认定仅在本地运行的“伦理训练”模型才是出路？我们早就拥有过这种模型了，它们从未给任何人留下什么深刻印象，原因很简单：它们根本就不好用。珍妮尔·谢恩（Janelle Shane）专门开了一个博客写了好几年，指出这些模型是多么滑稽地笨拙不堪。难道真有人确信，如果那帮富得流油却道德破产的家伙早就找到了真正高效且合乎伦理的智能体模拟方法，还会去摧毁全球经济吗？</p>
-<p>“确信”是这里的关键所在，因为我见过太多人试图用完全违背事实的言论来为这堆垃圾辩护。他们是心怀叵测，还是真的愚钝无知？往往很难分辨。</p>
-<p>我唯一确切知道的是，依然有人在外坚称这是“普及化”（democratizing）。声称这是一种能让人做到以前做不到的事情的工具；声称有那么多充满创意的头脑空有想法却从未能够付诸实践，只因他们不会写代码，或是未曾练就高超的艺术技巧。</p>
-<p>这简直是错得离谱的彻头彻尾的胡说八道。我只能得出结论：这些人要么在字面意义上彻底丧失了反思与推理能力，要么就是在如此肆无忌惮地撒谎，以至于随时都该遭天打雷劈。为了这种东西，竟然抛弃过去几十年里人们积累并向公众公开分享的难以计数的资源，转而去歌颂由 OpenAI、Anthropic 和 Google 所拥有并控制的系统？然后管这叫“普及化”？</p>
-<p>对我而言，矛盾在过去两周彻底激化了——我终于开始意识到，它已经渗透到了掌机 Playdate 的开发者社区中。</p>
-<p>我必须澄清，我在这里仅代表我个人观点，并不代表任何人发言。我也绝不自称是该社区的什么思想领袖。但我对 Playdate、其背后的理念以及它为何如此珍贵，有着极其强烈的看法。而一想到有人在它上面使用任何形式的生成式 AI，我便感到发自内心的被冒犯。</p>
-<p>你想谈“普及化”？Pulp 编辑器才是普及化。为在教育领域使用该设备提供激励才是普及化。提供各种开发工具与文档、让每一台设备都成为开发机才是普及化。内嵌名为 Catalog 的支付与分发平台，同时鼓励开发者使用 itch.io 等其他平台：这才是真正的普及化。</p>
-<p>因此，看到有些人大放厥词，试图为自己在开发 Playdate 游戏中使用 AI 辩护，比如宣称“在现实世界中，你必须考虑开发成本，使用 AI 让这个过程更快、更高效有助于你保持竞争力”，这实在令人极其扫兴。对此我只能用最直接的话来评价：纯属扯淡。</p>
-<p>展开来说：如果你试图为有抱负的游戏开发者提供切合实际的商业建议，教他们如何靠卖游戏维生，那你应该先退一步，劝他们根本别给 Playdate 做游戏。</p>
-<p>这不是因为我不喜欢 Playdate。恰恰相反，我深爱着它。我希望看到它作为一个平台不断壮大。我希望它能吸引更多有创意却从未能付诸实现的人。我希望它能成为一个让人们在不至于破产的前提下持续创作游戏、并用上一款游戏的收入资助下一款游戏的平台。我绝不是希望它始终只是一个仅供极少数顽固死忠玩家自娱自乐的小众平台。</p>
-<p>但我希望它以正确的方式成长。我不希望它变成 iOS App Store 或 Steam 那样。我们已经一次又一次地看到，当人们涌入一个平台，眼里只有开发时间、快速周转和市场变现，而不是专心做出好作品时，平台是如何被毁掉的。平台充斥着粗制滥造、毫无灵感的废料（slop）。底线被无限拉低。有才华的小团队或独立开发者被那些批量炮制换皮消消乐和免费垃圾游戏的公司排挤出局。最终导致玩家质问：既然花 99 美分甚至免费就能玩到其他这些游戏，我凭什么要为一个游戏支付哪怕 5 美元这种微不足道的金额？</p>
-<p>我毫不怀疑，有些人——假设他们真的会读到这篇文章的话——会把所有这些斥为夸大其词、不切实际的过激反应。“有什么大不了的？把 AI 当工具用和做垃圾内容之间是有区别的。一个 AI 生成的缩略图又不会搞垮整个平台。用 Claude 写写单元测试或生成模板代码不过是为了节省时间而已。现实一点吧！”</p>
-<p>而这恰恰就是问题所在：我非常现实。我们都亲眼目睹过这种事情发生。它不是一蹴而就的，而是一点一点蚕食我们的原则和操守带来的结果。现在已经有人脱离现实到了极点，发表荒谬言论时听起来就像根本没有经过大脑思考一样。</p>
-<p>“大家都在用啊。”“没人喜欢它，但它既然来了，我们不妨学会去适应。”这堆垃圾才出现了多久，三年？我们居然就该认为它是不可避免且不可或缺的？在这堆垃圾被硬塞到各处之前，你以为大家是怎么过日子的？你以为这些公司为什么如此不顾一切地把它塞进那些本不属于它的地方？如果它真的有用，它早就凭实力证明自己了。</p>
-<p>“这就像代码补全一样。”“你又不是不知道，大家本来就会从 Stack Overflow 上复制粘贴代码。”那为什么不用代码补全呢？为什么不用 Stack Overflow 呢？为什么非要选择人类有史以来设计出的效率最低、最不可靠的计算系统，来复刻我们早已拥有的工具呢？</p>
-<p>“它只是帮我处理了那些繁琐的部分。”“所有内容都经过了单元测试验证。”“它搞定了所有的桩函数（stub functions）和样板代码（boilerplate code）。”每当我试图将某个繁琐的流程自动化时，最终都会意识到：亲自动手做其实要高效得多。如果你有大量的桩函数、样板代码或粘合代码，那么请你想一想，“复制”和“粘贴”根本不需要在未经弱势群体同意的情况下，在他们的社区里建造属于亿万富翁的数据中心。而且，如果你使用的是一个已被证实不可靠的系统来生成旨在证明代码可靠性的测试代码，那么坦率地说，代码最后砸在你脸上完全是你自作自受。</p>
-<p>你知道有什么东西是真正经久不衰的吗？grep。没人喜欢它，但我们都不得不忍受它并与之共存。</p>
-<p>我见过人工智能的支持者坚称它是一项节省时间的工具，不用它就是愚蠢。搞得好像我们所有反对它的人都冥顽不化、如同在茹毛饮血的石器时代击石取火一样。这简直荒谬至极，因为我清清楚楚记得自己刚开始学编程时的光景。当年想从 BASIC 进阶去学 C 语言甚至 Pascal 简直是不可能的——并不是因为我没有时间或意愿，而纯粹是因为我买不起编译器。想做数字艺术不是令人望而生畏，而是根本不可能，因为我买不起一套 Deluxe Paint 软件。直到我开始为工作室和发行商工作，我才得以接触到这类工具，而我为他们创作的一切，所有权都属于他们（至今依然如此）。</p>
-<p>如今，人们比以往任何时候都拥有更多免费、开放的资源获取途径，拥有真正的工具，但他们却选择再次依赖像谷歌（Google）、OpenAI 或 Anthropic 这样的公司。</p>
-<p>尤其是看到那些自诩为“资深”软件工程师的人也在鼓吹它，更是让人感到无比乏味与无奈，因为这显然违背了软件工程最基本的原则。一个并非 100% 可靠的系统，其可靠性就是 0%。你应当始终去寻找解决问题的最高效方式，而在云端运行的大语言模型（LLM）恰恰是解决问题效率最低的方式。而且还有一条最根本的法则：代码越少越好。如果你做不了或者不想做某件事，为了解决一个已知的问题而让一个过度设计的系统为你生成更多代码，纯粹是愚蠢之举。这正是软件库存在的初衷。</p>
-<p>而当我看到有人坚称像 Claude Code 这样的东西是在“赋能”，只因他们根本不懂怎么编程时，那简直是最令人沮丧透顶的破事。曾有无数次，我面对一段示例代码时完全不知道它的运行原理，必须亲手修改它才能让它精确实现我想要的功能。而正是这种修改的过程，让我彻底搞明白了它的运作机理。</p>
-<p>看到人们把最终结果看得比创造该结果的过程更重要，这纯粹让人感到压抑。在任何可能的意义上，过程才是真正有价值的东西。</p>
-<p>我看到某些自作聪明的人坚称，做一个像小球在屏幕上弹跳这样简单的东西毫无价值，所以让 Claude 或类似的工具来生成那段代码又有什么害处呢？这是最昏聩的想法，完全把事情本末倒置了。</p>
-<p>当我写出一段自己已经写过几十次的代码，并且第一次运行就成功时，那是我作为程序员所能获得的最纯粹的多巴胺冲击。那是拥有可用成果的全部回报，且无需经历痛苦的挣扎。而且那是属于我自己的。《料理鼠王》般的滋味瞬间将我带回过去：那时我坐在一台连着旧电视机的 Commodore 64 电脑前，照着 BASIC 教程敲入程序代码，学习这一切是如何运作的。能够不用多想就写出来，意味着我已经掌握了它，它已经成了我的一部分，所有的重复都有了意义。这不会让别人惊叹，但这是我极少数觉得完全不需要去取悦任何人的领域之一。我只是获得了那种“我知道自己懂得怎么做”的简单而纯粹的满足感。也许将来的某一天，我也能不用再去翻阅交互式教程，就能把点积（dot product）熟练写出来。</p>
-<p>对于已经被多次、以多种不同方式证实有害的事物，试图去保持所谓的开放心态或讲道理是毫无价值的。我们在政治领域已经一次又一次地看到这个基本事实的上演。不妨什么时候来问问我，每次在网上遇到有人说“这不针对个人，我只是单纯认为同性恋不应该被允许结婚”时，我还要被迫表现得体贴、尊重和客观，那是种什么感受。有些事情根本不是“观点不同”，把有害的东西当作观点分歧来对待，除了助长其正常化之外，别无用处。</p>
-<p>但是，一直保持愤怒令人心力交瘁。今天我只是感到悲哀，看到人们如此急不可耐地为了节省一点时间和精力，就轻易抛弃自己的原则。（或者更确切地说，是自以为能节省一点时间和精力）。这只是再次提醒我，事情本不需要变成这个样子。我们不需要它。它根本没有赋能任何以往无法实现的破事。我们依然可以选择……就是不用。</p>
-<p>我自己也一直尝试将许多这类感受整理成博客文章。依然是最近的一篇，我一直把那篇博文的评论区当作收集他人观点的链接库：https://blog.worldmaker.net/2026/07/05/pebbles/</p>
-<p>您的电子邮件地址不会被公开。必填字段已用 * 标注<br />通过电子邮件通知我后续评论。<br />通过电子邮件通知我新文章。<br />Δdocument.getElementById(&quot;ak_js_1&quot;).setAttribute(&quot;value&quot;,(new Date()).getTime())</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 23:04 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://spectrecollie.com/2026/09/05/bad-vibes-coding/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--1-language-at-microsoft-c3aba4d13cd3eb24" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2381" data-content-paragraphs="23" data-published-at="2026-09-10T13:40:19.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 21:40</span>
-</div>
-
-### [Rust 成为微软的一级语言](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Rust Is Tier-1 Language at Microsoft</div>
-
-<div class="article-body" data-article-body="true"><p>&gt;&gt; 资助 Rust 背后的维护者</p>
-<p>如今，Rust 对微软具有战略重要性已不再是秘密。从 Azure 首席技术官 Mark Russinovich 阐述我们面向原生代码的未来战略时所发表的坚定声明，到微软在随后的几年中为支持 Rust 项目投入的数百万美元皆印证了这一点。您可以观看 Mark 在去年 RustConf 上的主题演讲，一窥由 Rust 驱动的部分核心项目。</p>
-<p>如今，Rust 与 C++、C# 和 TypeScript 并列，成为微软内部开发支持最为完善的语言之一。Rust 获得的这种“一级语言”（Tier-1 language）工程地位，意味着为内部团队铺平了从本地开发到生产环境的通途：安全的工具链构建、高生产力的开发者工具、质量工作流、深度的平台集成，以及完全符合微软软件必须遵循的 SDL（安全开发生命周期）规范。</p>
-<p>几十年来，Windows 平台与 MSVC 协同演进，C 和 C++ 一直是我们开发平台的基石。随着 MSVC 和 Windows 不断推陈出新，我们需要确保这些新特性与功能在 C++ 和 Rust 中均可使用，并实现两者之间的无缝互操作。</p>
-<p>MSVC 是 Windows 的原生平台编译器，随着 Rust 在微软内部使用范围的不断扩大——从固件和驱动程序、内核与虚拟机监控器（hypervisor），到微服务和应用程序——Rust 需要全面融入这一生态系统。这在 Rust/C++ 混合项目中至关重要。为实现这一目标，我们最重要的投资之一便是 rustc_codegen_utc。</p>
-<p>rustc_codegen_utc 是 rustc 的另一种代码生成后端，与 rustc_codegen_llvm、rustc_codegen_gcc 和 rustc_codegen_cranelift 属于同一架构体系。它接入相同的后端接口，将 rustc 的共享编译器机制连接到 MSVC 后端（亦称“UTC”）。</p>
-<p>它参与到支持以下内容的更广泛平台生态战略中：</p>
-<p>这些能力与工作流是多年来依托 MSVC 技术栈建立起来的。将 rustc 连接到该后端，使 Rust 能够依托相同的平台投入成果，实现开箱即用的完美兼容性，而无需为每项 Windows 特有能力进行重复的并行实现。</p>
-<p>其结果是为 Windows 上的 Rust 和 C++ 建立了一个统一的代码生成平台。</p>
-<p>微软的生产环境软件必须经历严苛的安全与质量工作流。尽管 Rust 已成为微软的一级语言，但经过数十年的积累，C++ 依然占据主导地位。使用统一的代码生成平台将大幅降低我们的维护与演进成本。MSVC 和 Windows 仍在不断创新，新的代码生成能力、安全特性、诊断以及维护更新技术一直在不断加入。</p>
-<p>借助 rustc_codegen_utc，这些技术投入便有了面向 C++ 和 Rust 的共同基础。在运维层面这至关重要，因为它减少了重复工程；在战略层面同样意义重大：Rust 得以直接深度融入微软的 Windows 原生工程生态系统。</p>
-<p>这对 Rust/C++ 混合项目尤为宝贵，在未来数年内，许多系统都将继续同时使用这两种语言。共享后端为这些系统的双方平等参与所有开发工作流奠定了基础。</p>
-<p>这种协同正是 rustc_codegen_utc 存在的主要原因之一。它让 Rust 能够契合微软各团队构建、验证、诊断与维护 Windows 软件时既有的工程环境标准与预期。</p>
-<p>在其他平台上，如果一个 Rust/C++ 混合项目使用 Clang 构建其 C++ 代码，两种语言便已经能够共用同一个 LLVM 代码生成平台。而对于以 MSVC 作为原生平台编译器的 Windows 原生 C++ 项目，rustc_codegen_utc 创造了同样共享后端的机会。</p>
-<p>代码生成、平台特异性行为、ABI、异常处理（EH）以及链接后工具仅是互操作挑战的一半。高保真语言级互操作、FFI 契约、绑定、语言语义差异……以及构建系统，都只是我们正在内部及全行业协同解决的问题的一部分。欲快速了解这一问题领域及社区正在开展的工作，请参阅 Rust 基金会的互操作倡议：https://rustfoundation.org/interop-initiative/</p>
-<p>rustc_codegen_utc 是微软开发者部门（DevDiv）一个专属团队的重大投入成果，自 2026 年初起已达到生产就绪状态。它自 Rust 1.90 以来已实现自举（self-hosted），是更广泛的内部 Rust 平台的一部分，该平台涵盖 rustc 的安全供应链构建、标准库、关联工具、与本地开发的集成、生产流水线以及我们工程系统中的通用质量与合规工作流。</p>
-<p>如今，已有超过 100 个微软项目代码仓库使用它进行构建。随着每周有更多代码仓库采用它，这一推广进程仍在持续推进。</p>
-<p>这是微软对 Rust 完整工程生命周期持续投入的一部分：涵盖引入获取、工具链、质量、安全、平台集成、生产部署以及长期支持。</p>
-<p>rustc_codegen_utc 是这一历程中的重要组成部分。其独特优势很简单：它将 rustc 与微软数十年来围绕 Windows 构建的原生后端和平台生态系统紧密连接起来。</p>
-<p>这为我们提供了 Rust 与 C++ 的统一底座，一条让 Windows 平台投入成果惠及这两种语言的路径，以及微软未来继续构建混合原生系统时的坚实根基。</p>
-<p>如果您想提问或与我们分享反馈，欢迎加入 Rust 项目 Zulip 上的专属讨论话题。</p>
-<p>Rust 基金会是一家独立的非营利组织，致力于为 Rust 编程语言的成长与蓬勃发展提供所需的基础设施、工具、管理及社区投资。</p>
-<p>关注 Rust 基金会：</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 21:40 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ix-science-first-release-363f8beccfcabbff" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1428" data-content-paragraphs="17" data-published-at="2026-09-10T11:45:49.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 19:45</span>
-</div>
-
-### [Guix-Science 首个版本发布公告](https://hpc.guix.info/blog/2026/09/guix-science-first-release/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Announcing the first Guix-Science release</div>
-
-<div class="article-body" data-article-body="true"><p>我们很高兴宣布 Guix-Science 频道的首个发布版本：v20260907。</p>
-<p>这是来自 Guix-Science 项目的专用 Guix 频道。该频道提供了一个全面的、社区驱动的科学软件目录，适用于全球科学界。</p>
-<p>随着 Guix 在科研场景中使用的增加，为科研与教学领域所用软件打包的需求也日益增长。尽管 Guix 项目鼓励用户向 Guix 主频道贡献软件包，但有些软件包无法收录其中，原因在于它们不符合 Guix 的打包政策，或者它们过于专精，以至于无法在 HPC（高性能计算）场景之外使用。与 Guix 主频道相比，Guix-Science 频道拥有更宽松的政策，尤其是在预构建组件的使用方面。此外，它也拥有比 Guix 本身更为宽容的弃用政策。</p>
-<p>Guix-Science 频道由科研从业者维护，并服务于科研从业者。我们将该频道视为涵盖广泛领域的科学软件包核心枢纽。这使得社区能够共同分担打包和维护工作。我们鼓励您参与到该频道的开发中来。此外，一旦软件包被收录进 Guix-Science，二进制替代项（substitutes）就会在我们自己的基础设施上构建，并向所有人公开提供。</p>
-<p>Guix 遵循滚动发布模式。这意味着一旦软件包合入 master 分支，用户就会收到更新。因此，Guix-Science 频道也遵循相同的做法。得益于 guix time-machine 命令，用户无需担心频道上的更新会破坏他们的环境。该机制允许用户固定其频道版本，从而掌控何时更新其环境。</p>
-<p>在日常使用中，科研从业者会遇到一个常见的烦恼：Guix 和 Guix-Science 频道之间需要保持兼容。尽管 Guix 和 Guix-Science 的成员都竭尽全力避免故障，但 Guix 中的一项不相关更改仍有可能对某些 Guix-Science 软件包产生影响，甚至可能导致它们损坏。</p>
-<p>一个 Guix-Science 发布版本是 Guix-Science 和 Guix 两者的快照，在该快照中 Guix-Science 提供的所有软件包均可正常安装。一次发布是 Guix-Science 频道打上标签的提交，其中提供了一个 channels 文件。该 channels 文件声明了 Guix-Science 对 Guix 本身频道的依赖。如果您查看该标签提交的提交信息，会发现如下部分：</p>
-<p>标签名称遵循以下命名规范：vYYYYMMDD。</p>
-<p>您可以通过已检出的 Guix-Science 仓库查看并验证该标签的内容，操作方式如下：</p>
-<p>要获取该发布版本，您有两种选择：</p>
-<p>使用 guix time-machine：</p>
-<p>如果您是第一次使用 Guix-Science，这会导致报错：</p>
-<p>为解决此问题，可通过将以下代码片段添加到 ~/.config/guix/trusted-channels.scm 中，将 Guix-Science 标记为“受信”（trusted）：</p>
-<p>本版本包含了来自广泛科学领域的 2,354 个软件包。</p>
-<p>本版本的亮点包括：</p>
-<p>展望未来，我们计划进行定期发布。请关注 Guix-Science - Releases。我们鼓励大家积极参与该频道的建设。</p>
-<p>除另有说明外，本站博客文章版权归各自作者所有，并根据 CC-BY-SA 4.0 许可证以及 GNU 自由文档许可证（1.3 或更高版本，无不可变章节，无封面文本，无封底文本）的条款发布。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 19:45 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://hpc.guix.info/blog/2026/09/guix-science-first-release/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-g-nec-v20-microcode-html-ea8b1816920f014c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1360" data-content-paragraphs="19" data-published-at="2026-09-10T10:44:09.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 18:44</span>
-</div>
-
-### [解码 NEC V20 微码](https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Decoding the NEC V20 Microcode</div>
-
-<div class="article-body" data-article-body="true"><p>reenigne 于 2020 年对 8088 微码的解码，为实现 8088 CPU 的极其精准模拟打开了大门。</p>
-<p>尽管我之前在 MartyPC 中添加了对 NEC V20 的支持，但从 V20 的实际时序来看，当时的 V20 核心并不能做到周期精确（cycle-accurate）。它不过是套着 V20 外皮的 8088——直接复制粘贴了我的 8088 核心，然后硬拼凑上了 V20 指令。</p>
-<p>这并非理想方案，但如果不依靠微码想让 V20 核心达到周期完全精准，前景似乎会是一场令人望而生畏且充满反复试错的苦旅。</p>
-<p>那么，为什么不去设法搞到微码呢？</p>
-<p>最近，我委托 InfoSecDJ 拍摄了一枚 NEC V20 CPU 的芯片裸晶照片（实际上是夏普制造的第二供应商版本 V20，但它依然是一颗原汁原味的 V20）。他的成效非常出色。</p>
-<p>这张拼贴全景照片的分辨率极高——准确地说达到了 56 亿像素（5.6 Gigapixels），即惊人的 70478x80672 分辨率——其体积极大，甚至无法存入 JPEG 图像格式中！</p>
-<p>你可以在此处查看完整分辨率的全貌。</p>
-<p>芯片中心正下方的矩形区域就是主微码 ROM。</p>
-<p>这就是一次模型训练运行时的样子。</p>
-<p>如果你拥有支持 CUDA 的 GPU，训练速度其实相当快——这只花费了几分钟时间。</p>
-<p>核心思路在于我们希望将准确率最大化——但达到 1.0 的准确率既不现实，甚至可能也并不是我们想要的（也就是所谓的过拟合）。有时训练时间更长只会让效果变差，因此只要看不到持续的改善，我们就会终止训练。</p>
-<p>训练的产出是一个神经网络模型——随后我们便可以使用该模型对整个输入数据集进行推理。所谓推理，不过是用一个高大上的词汇来描述：应用我们的模型去实际完成我们训练它去做的事情——预测给定图像中包含的是 0 比特还是 1 比特。</p>
-<p>在我们继续之前——先做个简要说明以消除任何潜在的争议。从计算机科学的角度来看，卷积神经网络（CNN）粗略地归属于更广泛的 AI 范畴，但我们并没有在现代那种具有争议的语境下使用“AI”（该语境通常指代大语言模型 LLM）。</p>
-<p>当我们运行一轮推理时，会得到每个像素的置信度评分。我们可以使用该置信度评分，在设定特定阈值的情况下（我这里使用的是 &lt; 99%），标记出模型不够确信的比特。以下是第一次运行的结果，其中模棱两可的比特被标记为红色：</p>
-<p>我将所有这些模棱两可的比特收集起来，手动重新归类到训练文件夹中，然后重新运行训练，重复这一过程，直到获得了这样的结果：</p>
-<p>这已经相当不错了——仅剩下 4 个比特仍然存疑，而且直接手动核实它们，比重新训练一个新模型要快得多。</p>
-<p>太棒了，我们拿到了全部 29k 个微码比特，并省下了数小时枯燥的手工作业（虽然代价是花了几个小时用 Python 编写训练脚本，但至少该脚本是可以复用的！）。</p>
-<p>我们仍需要把这块矩形比特数据块转化为包含 29 比特微码字的列表。换句话说，我们需要重新组织位图，直到它从 258x116 变为 29x1032。究竟该如何实现目前尚不明朗，但我们可以暂时将其搁置一边，直到我们解码出与之匹配的译码器 PLA。</p>
-<p>译码或称“激活”PLA 位于主微码 ROM 块的上方，两者之间夹着一些中间电路。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 18:44 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-it-breaks-a-village-5e2bd164df4280f1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6738" data-content-paragraphs="60" data-published-at="2026-09-10T10:38:37.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 18:38</span>
-</div>
-
-### [摧毁一个村落：Bevy 的六周年记](https://blog.fallible.net/it-breaks-a-village/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> It Breaks a Village: Bevy&#39;s 6th Birthday</div>
-
-<div class="article-body" data-article-body="true"><p>这篇文章和我的所有文章一样，都是由我亲自撰写的。它源于我与许多人的大量交流与反思。文章很长，但我向你保证，以开放的心态完整阅读它、而不是仅仅看摘要或粗览小标题，绝对是有价值的。</p>
-<p>本文所表达的观点仅代表我自己，不代表与我相关的任何个人、组织或公司。</p>
-<p>感谢 Bevy 社区中曾就这一话题与我交谈过的所有人。</p>
-<p>（去年的回顾：GiGF 与 Bevy 五周年）</p>
-<p>今年初夏，Bevy 游戏引擎迎来了一系列积极的进展。随着 0.19 版本的发布，BSN 宏终于被合并进来。我们拥有了声明式数据模型，UI 变得切实可用，真正用于艺术创作的工具基础也已确立。这是一项里程碑式的成就。</p>
-<p>与此相伴的是，Rustweek 2026 是我在现实中与技术人员打交道时最美好的一次经历。我结识了许多优秀的人，在几天里的白天和黑夜都进行了精彩的交谈。我没有遭遇过任何负面体验，遇到的每一个人都令人愉快、乐于沟通，我很想再次与他们相聚。</p>
-<p>从那之后，事情变得麻烦起来。</p>
-<p>几个月来，我一直在对插件 API（Plugins API）进行彻底重构。其目标是重塑插件系统，从而支持依赖关系并让未来的工具更强大。这项设计最终可能会、也可能不会进入引擎，但我正在努力证明它是一个很好的方案。当我写好相关的正式博文时，会发布在我的技术博客上。我的动机此前已在别处发布，但很快我会再次发表相关内容。</p>
-<p>在过去的 5 周里，这项工作几乎完全搁置了，因为当下尝试编写与 Bevy 相关的代码让我感到由衷的反胃。胃里翻江倒海，甚至想吐。我的脑海无法停止思索：在当下的时间节点上，作为一名开源贡献者究竟意味着什么。</p>
-<p>也许只有我一个人会有这种具体的恶心感，但在“眼下为 Bevy 做贡献感觉糟透了”这一点上，我绝非个例。</p>
-<p>注：过去几天讨论日益增多，可能会让人觉得我是在对眼前最近发生的事情发表评论，但我在这里提出的大多数论点早在几周前就已经罗列并起草好了。</p>
-<p>Bevy 最近采用了一项新的“AI”政策1，（按照公开声明的意图）该政策比以前略微宽松了一些。从纸面上看并没有问题，但问题出在该政策制定的背景脉络上。</p>
-<p>这一新政策给出的理由是，我们需要对人们使用大语言模型（LLM）的情况保持“现实”，并且旧政策是“无法执行的”。有人列举了具体案例：某些人的个人主页和拉取请求（PR）未能通过直觉审视，但当唯一的证据只是某种特定的代码异味或一个私密/可疑的 GitHub 个人资料时，便无法确凿证实任何事情。</p>
-<p>从这一角度来看，举证责任不公地落在了“指控者”身上，而不是“被指控者”。这类似于许多司法体系，但一个 PR 被拒绝并不等同于监禁、罚款或死刑。它只是一种轻微的社交性后果，就像在爱丁堡边缘艺术节上拒绝某人分发的演出传单，或拒绝当地某个奇怪宗教派别的小册子时说一句“不用了，谢谢”一样。</p>
-<p>该政策在向公众开放“辩论”和修改期之前，大部分内容已在主题专家（SME）及其他当事方之间预先敲定。在此期间，许多大模型爱好者开始公开畅想更为宽松的政策，以及一旦允许完全智能体模式后他们能做些什么。与此同时，几乎所有反对使用“AI”的论点都或多或少被弃置一旁或置若罔闻。自该政策合并以来，棘轮便已开始单向转动。</p>
-<p>这一经历宛如眼睁睁看着一把利刃刺穿并撕裂 Bevy 项目的社交肌理。</p>
-<p>除了 Discord 社区之外，对这项新政策最为公开的宣传出现在 Bevy 六周年纪念博文中。如此公开、坦率地写下这些，我内心十分复杂。但如果我想让 Bevy 依然是一个我能够继续使用和贡献力量的项目，我觉得自己别无选择。</p>
-<p>在持续的恶意挑衅与社区价值观冲突的压力下，社区凝聚力已然分崩离析。</p>
-<p>围绕“AI”的讨论被塑造成双方势均力敌、享有同等裁量权的两端。这与现实背景格格不入——Bevy 是一款创作工具性质的游戏引擎，包括我在内的许多人投入了数年心血去学习、讨论和推广它，寄望于为艺术家和游戏开发者在 Rust 领域奠定坚实根基。与近期那些声音更大、投入却浮于表面的大模型爱好者相比，这种历史渊源与深厚投入直到讨论后期才被承认。而即使承认了，也没有转化为对“AI”政策的任何实质性改变。</p>
-<p>此前大模型政策所谓的“不可执行性”，在很大程度上读起来更像是一个借口，而非合情合理的修改理由。而当前的 LLM 政策，充其量被视为暂时的、或是极易被钻空子的规矩；大家预想的是接下来还会出台更宽松的政策，既然如此，何必相信它？当人们已经在无视其底线时，又何谈信任？</p>
-<p>此外，Bevy 之前的政策曾为那些在日常工作或人际关系中不得不应付“AI”吹鼓手、大模型狂热者以及“强制使用 AI”等要求的人提供了一片避风港2。这种自上而下的文化转变在更深层面上摧毁了大家的信任，其严重程度远超既有的评估。</p>
-<p>大家发现自己的立场被扣上了“搞猎巫”和网络骚扰预演的帽子。人们不再相信我们的立场出于善意，反而认定我们只会以带来存亡威胁的方式发难，斥责我们“不顾现实”或“缺乏真正论据”。这种情况甚至演变到了只要问一句 PR 是否由大模型生成就会遭到抵制的程度，尽管如实披露本就是现行政策明文规定的一部分。</p>
-<p>这种伤害是双向的。关于 Bevy 治理方向的私下沟通让人们对管理层丧失了信任。大家感觉自己的声音未被倾听、未受尊重。社区成员未能及时提出管理和审核上的问题。不满在堆积，大家都很不快。人们开始在背后议论纷纭，从而引发了一轮又一轮的疑神疑鬼与普遍的不信任感。</p>
-<p>对于一项主要先向 SME 征求意见、随后开放的讨论中却压根不容许讨论“不改变对 AI 政策的态度”的规定而言，出现这种局面也是意料之中的。</p>
-<p>我坦诚地指出这一点，因为我自己也一直活跃在这些所谓的“反 AI”3 私下渠道中。我知道许多人在私底下是何感受。我还创建了一个名为“AI-Sober Space”（无 AI/理性克制空间）的替代开发空间，供 Bevy 项目及其使用者交流。但这是一个开放空间，几乎所有人都可以加入，只要他们出于善意。我们恪守与 Bevy 项目其余部分相同的行为准则，并附带一条提醒：不欢迎任何挑衅煽动行为。</p>
-<p>Bevy 的 Discord 中设有一个 Showcase（作品展示）分类，供人们发布自己的 Bevy 项目，包括游戏更新、crate、开发日志以及教程。</p>
-<p>#showcase 频道如今已不值得一看；如果你比起最终产物更看重成长与学习，那这里更是令人沮丧。其中相当大一部分帖子都是关于“AI”驱动的项目。原本一个大家互相激励、共同学习的地方，现在基本成了大语言模型（LLM）狂热爱好者的领地。</p>
-<p>我们在 r/rust 和其他链接聚合论坛上也看到了类似的情况：随着大量低投入帖子的涌入，社区的热情正在减退。你无法通过管理手段去消除人们对某个话题的感受，只能管制他们在官方频道里发出的内容。人们分享自己作品的体验变差了，因为它们被夹杂在那些几乎不用心、且与 Bevy 缺乏深度互动的作品之间。他们去翻看 showcase 频道的意愿也降低了，因为那里极少有倾注心血的作品或有意义的社交互动。</p>
-<p>（注：本文写于“移除表情包和离题内容”的讨论开始之前。自本文撰写以来，“#memes”频道已因“管理难度过大”而被移除。）</p>
-<p>在社区调整“AI”政策的前夕，官方 Discord 增加了一条伪中立的“禁止嘲讽（no dunking）”规则。其明确目的就是减少在离题频道中发布的、表达人们反感 AI 的梗图数量。</p>
-<p>我把这些频道都静音了，我平时也不常参与，但这仍让我感到非常不适。这过去是、现在也依然是对 Bevy 以往社区规范的一种文化压制。这是为了让环境对“AI”用户“少一些敌意”而采取的单方面政策变更。</p>
-<p>这项“AI”政策本身也附带了“不得对‘AI’态度恶劣”的规定。此前，社区曾试图对“无可展示”（Nothing to Showcase）的问题进行自我修正，其做法之一就是在 showcase 频道中给 LLM 项目打上“🤖”表情反应。但这种行为也被管理人员封禁了。在 Bevy 的 Discord 里，已经不再存在任何温和的集体方式，来劝阻 LLM 用户发布低投入的敷衍之作。</p>
-<p>这一点至关重要，因为我们常常要将自己的游戏推向大众市场。</p>
-<p>Bevy 承袭了 Rust 社区普遍持有的“我们珍视高质量成果”所带来的巨大声望与社会影响力。这是人们几乎默认尊重 Rust 及其开发项目的文化基石。大家都理所当然地认为有人在用心做这件事。而我们正处于这种声誉滑坡的时期——不是因为所谓的“永恒九月”（Eternal September），而是因为 LLM 狂热者开始频繁用提示词“盯上”Rust，导致这种关联度不断上升。</p>
-<p>在软件行业中，一种奇怪的论调正在蔓延：我们的工作就像 LLM 的输出一样毫无价值。并不是说 LLM 的产出多么有价值，不，而是说我们和它一样微不足道。有时这种观念会被包装成“它们做得跟你一样好！”，但归根结底，这更多是对被评说的程序员的贬损。</p>
-<p>在人们对 LLM 产出给予文化认同的这件事情上，软件行业是个特例。而游戏引擎所面对的受众，早已延伸到了软件圈之外。</p>
-<p>没有人会特意去线上素材市场购买“AI 素材”。没有人会向“AI 画师”约稿或寻求合作。关注“AI 艺术”账号的人……绝大多数都是“AI”吹捧者，或者是一些被热闹表象吸引的人。Steam 上的“AI”作品往往立刻遭遇强烈抵制，而且随着时间的推移，这种抵制正愈演愈烈。</p>
-<p>游戏开发者将“AI”视作负债，玩家则将“AI”产出看作低质换皮的空头支票（asset-flip vapourware）。当人们听说某个项目中含有“AI”成分时，许多人就会对该项目失去信任。哪怕那“仅仅”是代码，情况也是如此。这被视为放弃了责任，放弃了用心与关怀。</p>
-<p>无论模型如何“升级”，人们总能敏锐地在视频、文字、图像中捕捉到“AI”的痕迹。这是因为人需要对外部世界的信息进行筛选。“AI 产出”是噪音而非有效信号，为了通过互联网这种中介媒介建立真实的人际联结，你必须能够迅速过滤掉噪音。</p>
-<p>我们看到支持使用 LLM 的主要论调是“它能用”。这一点是有争议的——当然，如果你认为这毫无争议，可以跳过接下来的两段——而且确认偏差会让它显得比实际情况要管用得多。我既不天真，也不是原教旨主义者，我亲手试用过这些机器以了解它们的能力。但我对此并不觉得惊艳。我认识一些被迫使用这些机器的人⁴，他们也同样不以为然。</p>
-<p>这些模型固有的随机性⁵使得所谓的“幻觉”⁶成了一个棘手的问题。但那些狂热信徒却以为自己无需为此担心，坚称人们会去校验它们的工作——哪怕人们根本缺乏耐心和意愿去认真、透彻地理解“AI”的输出，或者根本没有足够的时间。</p>
-<p>这种“它能用”的思维定势本身就存在问题，因为它把一个复杂的系统（游戏引擎的开发、使用与维护）简单视作仅由概念输入与代码输出单元构成的系统。这种说法很容易被接受，因为它契合我们对代码的直观认知。而在榨取型压力的长期作用下，组织及其成员也往往会开始陷入这种思维。这是一种过度抽象。</p>
-<p>这种认知框架忽视的，是它对参与项目的具体个人造成的伤害。拥抱这些 LLM 的人被鼓励将拒绝使用的人视作不思进取的卢德主义者⁷或烦人的清教徒。而那些不使用这些机器的人（或是被迫使用却心不甘情不愿的人，这部分人在“AI 用户”中占据了相当大的比例）则感到沮丧、灰心和被贬低。一种个人毫无价值的感觉油然而生，并且由于生产方程式中人的社交属性被忽视，这种挫败感还在被进一步助长。</p>
-<p>“AI”吹捧者与不愿使用 LLM 的人之间的博弈并不平等。在一个希望保持“AI 清醒”（AI Sober）的人群空间里大肆鼓吹“AI”，具有破坏性和敌对性；在明知故犯的情况下这么做，纯属钓鱼或彻头彻尾的网络恶意挑衅（trolling）。如今已经演变并传播开来许多手段，其中很多都是围绕贬低被挑衅者并击垮其士气展开的。这好比引诱正在戒瘾的人复吸，或是怂恿抑郁症患者自杀。激起对方的情绪失控，正是这种卑劣手段的企图所在。</p>
-<p>“纳粹酒吧问题”（The Nazi Bar problem）的麻烦之处在于，人们往往会对这种类比产生防卫心理。但事实上，某些立场的表达或某些行为的出现，确实会因为恐惧、沮丧或轻蔑，将人们从你身边或你管理的社区中驱逐出去。“纳粹酒吧问题”阐明的就是这一点，它并不是把以此分析的所有立场都等同于新纳粹立场。</p>
-<p>“纳粹酒吧问题”描述的是：当那些破坏安全感、协作氛围或社区精神的有害分子试图在一个空间里扎根时，会发生什么——</p>
-<p>再次重申，这不仅仅关乎纳粹，尽管在过去 12 年的政治语境中，讨论他们确实非常切题。在这个特定领域里的必读之作是吉尔·杜兰（Gil Durán）近期的深度报道《极客帝国》（The Nerd Reich）8，或者《TESCREAL 组合概念》（Gebru &amp; Torres, 2024），但这就扯远了。</p>
-<p>关键在于，尖酸刻薄、反社会性的行为会导致原本在社区中受重视的成员离去。而当这些人离开后，造成他们离去的那类人的行为，便成了社区新的行为规范。这与寻常的社区人员自然流动或正常冲突有着本质区别。</p>
-<p>“纳粹酒吧难题”同样有着解法。一个解释起来非常直截了当的解法：</p>
-<p>这需要时刻保持警惕，并愿意去对抗刻薄恶劣的行为，无论“纳粹”会对空间施加怎样的暴力威胁，抑或对酒吧经营者的职业前途带来何种要挟。（3/分歧）永远是一个可选的途径。即便它无法立刻撤销（4）和（5），即便这个过程令人极不舒适。</p>
-<p>面对这套分析框架，网络喷子（troll）可能会辩称，被他们攻击的人才是社区中真正具有攻击性的人，他们会拿别人在被蓄意挑衅后的应激反应来做文章。而版主的核心职责之一，就是必须足够深入地参与社区，从而能够明辨这些是非。这是典型的 DARVO（否认、攻击并倒打一耙）伎俩。我们可以将其设想为如下情形：</p>
-<p>我在此提及这些，并不是为了在本文中具体辩论各方立场是否等同。我已经超出了自己承诺坚守的讨论范畴。我之所以提出来，是为了描述 Bevy 社区在过去约 4 个月里发生翻天覆地变化的方式：我眼睁睁看着此前深受重视的社区成员因刻薄恶意的行为被挤出圈子。而那些将他们排挤出去的人，一旦得偿所愿便摇身一变显得彬彬有礼，先前的恶劣行径则被彻底无视。</p>
-<p>不，这是一种极其可疑的话语陷阱。有史以来规模最庞大的体制结构与资金支持，正全力倾注在“AI”的全面推广之后。“AI 用户”当中包含了那些宁愿不碰这些工具、但由于职场强制要求否则就会“被开除”的人。面临结构性压力的反抗者，并非在使用本身，而且使用绝不等于认可。</p>
-<p>试图将那些借助一场涉及数万亿美元国际资本狂欢的文化与经济声势的人，粉饰成某种弱势群体，是一种刻意的叙事重塑，人们根本不必买账，也不应容其堂而皇之入场。“AI”鼓吹者的立场是明码标价、用钱砸出来的，并依靠有史以来最为强横的企业网络与专业声量矩阵，被硬塞进每一个空间。敢于奋起反抗，才真正意味着豁出自己的身家性命。</p>
-<p>我并不认为使用这些机器的人就受到了污染、变得不纯洁，或者注定要承受千年的折磨与痛苦。他们是一种“人与大语言模型”的格式塔复合体（gestalt），其中有人出于自愿，有人则是被迫。</p>
-<p>这些机器在设计之初就秉持着一个核心的面向用户9目标：用户留存。它甚至不需要提供真实的价值，只需营造出一种感觉——若不把注意力牢牢栓在这台机器上以及它带给你的感受上，你就是个傻瓜。这其中就包括编造一套关于此类机器的高效性及其对人们工作流影响的叙事神话。</p>
-<p>这一用户体验（UX）层面的目标利用了使用者，但它并非以某种实体物质的形式起作用，而是作为一种体制与客体之间的依附关系来维系。这种关系既存在于赌场与赌徒之间，也存在于本地违禁品供应链与成瘾者之间，亦可见于一段不幸的婚姻之中。这种关系构建出这样一种处境：放手异常艰难，而为自己为何必须留下寻找借口却轻而易举。</p>
-<p>如果说这篇文章能带来哪怕一点启发，那就是：“牵涉 AI”和“使用 AI”并非命中注定。你可以戒掉这些东西。有时你可以靠自己做到，有时需要依靠身边的力量，有时你可能永远无法完全掌控它。有时这些事物在你生活中所占的空间适度，以至于不会构成问题。但退路永远存在，即便设计师将这个空间构造成极难触及出口的模样。</p>
-<p>这是一篇高度聚焦于“AI 政策”余波的文章。以下是我还需要额外花上一周甚至十几周时间才能展开阐述的清单：</p>
-<p>其实就是这些了，一份关于问题与切实可行的解</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 18:38 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://blog.fallible.net/it-breaks-a-village/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 ::::

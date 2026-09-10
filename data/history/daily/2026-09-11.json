@@ -1,5 +1,1581 @@
 [
   {
+    "timestamp": 1789070022640,
+    "timeDisplay": "2026-09-11 03:53 (UTC+8)",
+    "date": "2026-09-11",
+    "runId": "feed-20260910T194811744Z-gd8vhn",
+    "generatedAt": "2026-09-10T19:53:42.640Z",
+    "hourlyBriefing": {
+      "title": "本小时全球动态速览：气候影响教育、法国消防罢工与科学前沿探索",
+      "lead": "本小时多国动态聚焦应急服务、全球气候与教育危机、司法审判进展及基础科学实验。UNICEF报告显示2025年逾1.71亿学生学业受气候灾害冲击；法国消防员因资金匮乏发起罢工；另有前沿原子导航技术与地方司法案件引发关注。",
+      "keySignals": [
+        "UNICEF报告：2025年全球超过1.71亿名学生（约十分之一）因气候灾害导致学业中断。",
+        "法国应急危机：由于急救与应急服务资金短缺及近期极端林火压力，法国消防员举行罢工行动。",
+        "前沿物理研究：科学家Jongmin Lee探索利用超细光纤光晕引导原子，用于恶劣环境下的高精度运动测量。",
+        "地方司法审讯：韦尔斯利（Wellesley）谋杀案中，因检方仍在等待法医检测结果，辩方提出驳回指控申请。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-11",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】林赛·克兰西案流审数日后，另一名被控杀害子女的马萨诸塞州母亲寻求重获自由：如果您或您认识的人正在经历自杀念头，请拨打国家自杀预防生命热线 1-800-273-TALK (8255)。；【undefined】Proxima Fusion押注1.4亿欧元布局核聚变关键原料，该领域目前由亚洲供应商主导：Proxima Fusion正押注其核聚变反应堆的一项关键原料：超导带材。；【undefined】Amazon Quick 桌面版现已正式可用：让您的团队拥有一个能处理实际工作的 AI 助手，同时确保数据保留在您的环境中且对话完全私密"
+        },
+        {
+          "name": "⚡ 战略能源与气候",
+          "analysis": "【undefined】2025年气候灾害导致全球逾1.71亿学生学业受阻：责任编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：罗伯特·伊根（Robert Egan） 本文已根据Science X的编辑流程和政策进行审校。编辑在确保内容可信度的同时着重强调了以下特质：；【undefined】美国天然气市场正接近创纪录增长：据美国能源信息署（EIA）称，美国天然气产量预计将在2026年达到创纪录的每天1117亿立方英尺（bcfd），高于2025年的每天1076亿立方英尺。预计到2027年，美国国内供应量将达到每天1159亿立方英尺。但这只是故事的一半。EIA在其《短期能源展望》中表示，未来两年，美国天然气供应和需求都将升至创纪录水平。国内天然气消费量预计将从2025年创纪录的每天919亿立方英尺，升至2026年的每天1117亿立方英尺和2027年的每天11"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】Git 之后何去何从：East River Source Control 成立已有一年多，但我们此前很少公开谈论我们正在从事的项目。我们目前还不准备正式宣布任何产品，不过很快就会了；但在那之前，我们想分享一些关于版本控制及其未来发展方向的思考。；【undefined】这并非 YAML 规范的错，但是……：我又看到了一篇喷 YAML 的博文。作者一边自豪地反复念叨着“挪威问题”，一边发表着各种不实言论。于是我自己去深入探究了一番，以下是我的发现。；【undefined】与 JJ 的对话：到目前为止，我的博客一直完全专注于 Typst，但今天我想写点别的东西。（这种情况本身就很少见，所以我觉得最好抓住这个机会写下来！）"
+        },
+        {
+          "name": "🔬 深空与基础科学",
+          "analysis": "【undefined】孩子的大脑天生容易分心，有时这其实是一件好事：作者：伊丽莎白·韦恩斯坦（Elizabeth Weinstein），俄亥俄州立大学 编辑：加比·克拉克（Gaby Clark），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据 Science X 的编辑流程和规范完成审校。编辑在确保内容可信度的同时强调了以下属性： 同行评审出版物；【undefined】紧密导引原子技术有望在GPS失效时实现低功耗量子导航：作者：桑迪亚国家实验室（Sandia National Laboratories） 编辑：Gaby Clark，审校：Robert Egan 本文已根据Science X的编辑流程和政策完成审校。编辑在确保内容可信度的同时强调了以下属性： 经同行评审的出版物"
+        },
+        {
+          "name": "💹 宏观资本与产业",
+          "analysis": "【undefined】周五的CPI通胀报告比以往更为关键：以下是前瞻要点：定于周五早晨发布的一份报告，将成为美联储下周就利率做出决定前所能获取的最后一块通胀拼图。"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】迎战NFL赛季：这款原价1400美元的75英寸电视在亚马逊降至800美元以下：海信75英寸U6 Pro Fire TV以亲民的价格提供了超大屏幕与丰富功能。（iStock）"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 92,
+      "completedTasks": 92,
+      "succeeded": 72,
+      "degraded": 20,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 92,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 330847,
+      "byRole": {
+        "translator": {
+          "attempts": 64,
+          "succeeded": 46,
+          "degraded": 18
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 7,
+          "degraded": 1
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 92,
+          "succeeded": 72,
+          "degraded": 20
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-19-translator-0",
+      "article-21-translator-0",
+      "article-22-translator-0",
+      "article-23-translator-0",
+      "article-23-translator-1",
+      "article-30-translator-1",
+      "article-30-translator-2",
+      "article-31-translator-0",
+      "article-38-translator-0",
+      "article-41-translator-0",
+      "article-44-translator-0",
+      "article-45-translator-0",
+      "article-3-source-positioner",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:58.533Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.672Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:58.543Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.289Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.736Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.870Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.774Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.843Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.789Z",
+        "lastSuccessAt": "2026-09-10T19:48:01.971Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.784Z",
+        "lastSuccessAt": "2026-09-10T19:48:01.833Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:01.971Z",
+        "lastSuccessAt": "2026-09-10T19:48:02.327Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.043Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.211Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.948Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.436Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.885Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.323Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.571Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.774Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.289Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.850Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.202Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.165Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.211Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.571Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:01.818Z",
+        "lastSuccessAt": "2026-09-10T19:48:02.625Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:01.197Z",
+        "lastSuccessAt": "2026-09-10T19:48:02.498Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:01.531Z",
+        "lastSuccessAt": "2026-09-10T19:48:01.878Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 12,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.141Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.631Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.720Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.736Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.672Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.720Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:58.949Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.043Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:57.716Z",
+        "lastSuccessAt": "2026-09-10T19:47:58.949Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.477Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.621Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.395Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.732Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.165Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.477Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.436Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.582Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.631Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.854Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.044Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.311Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:01.833Z",
+        "lastSuccessAt": "2026-09-10T19:48:04.118Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.558Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.649Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.703Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.784Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.649Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.703Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.749Z",
+        "lastSuccessAt": "2026-09-10T19:48:01.197Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:01.878Z",
+        "lastSuccessAt": "2026-09-10T19:48:02.486Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.843Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.948Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.144Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.585Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.345Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.558Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.732Z",
+        "lastSuccessAt": "2026-09-10T19:48:01.066Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.621Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.910Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-10T19:48:00.585Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:57.714Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.135Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.670Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.789Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:57.715Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.885Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.854Z",
+        "lastSuccessAt": "2026-09-10T19:48:02.537Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.323Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.345Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.135Z",
+        "lastSuccessAt": "2026-09-10T19:47:59.202Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.582Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.749Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.311Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.395Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:00.910Z",
+        "lastSuccessAt": "2026-09-10T19:48:01.531Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:48:01.066Z",
+        "lastSuccessAt": "2026-09-10T19:48:01.818Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.870Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.144Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:59.850Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.141Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:57.703Z",
+        "lastSuccessAt": "2026-09-10T19:47:58.533Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:57.713Z",
+        "lastSuccessAt": "2026-09-10T19:47:58.543Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T19:47:57.714Z",
+        "lastSuccessAt": "2026-09-10T19:48:00.044Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-r-children-seeks-freedom-7bd74ffb5c8a6f50",
+        "title": "林赛·克兰西案流审数日后，另一名被控杀害子女的马萨诸塞州母亲寻求重获自由",
+        "originalTitle": "Days after Lindsay Clancy mistrial, another Massachusetts mom accused of killing her children seeks freedom",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:43:51.000Z",
+        "pubTime": "2026-09-11 03:43",
+        "url": "https://www.foxnews.com/us/days-after-lindsay-clancy-mistrial-another-massachusetts-mom-accused-killing-her-children-seeks-freedom",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/janette-macausland-split.jpeg?ve=1&tl=1",
+        "fullContent": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).\n\nLess than a week after the closely watched Lindsay Clancy murder trial ended in a mistrial, another Massachusetts case involving a mother accused of killing her children returned to court Thursday as the defense sought to have the charges dismissed after prosecutors said they were still awaiting the medical examiner's findings.\n\nProsecutors told the court they are still awaiting the Office of the Chief Medical Examiner's official determination of the children's cause and manner of death, prompting defense attorney Joseph Krowski to ask that the case be dismissed or that Janette MacAusland be released on bail, WCVB reported.\n\nA judge denied both requests, ordering MacAusland to remain held without bail.\n\nLINDSAY CLANCY MISTRIAL DECLARED AFTER JURY DEADLOCKS IN KILLINGS OF HER THREE CHILDREN\n\nFox News Digital has reached out to Krowski and the Norfolk District Attorney's Office for comment.\n\nMacAusland, 49, is charged with two counts of murder in the deaths of her 7-year-old son, Kai, and 6-year-old daughter, Ella, who were found dead inside the family's Wellesley home in April after police conducted a welfare check.\n\nMOTHER FROM AFFLUENT BOSTON SUBURB ACCUSED OF MURDERING TWO CHILDREN DURING CUSTODY DISPUTE\n\nWhile Clancy's case centered on whether postpartum psychosis rendered her legally insane, no such defense has been announced in MacAusland's case, which remains in its early stages.\n\nLINDSAY CLANCY VERDICT: RETIRED JUDGE EXPLAINS WHAT HAPPENS IF INSANITY DEFENSE PREVAILS\n\nMacAusland was arrested in Bennington, Vermont, after arriving at a relative's home with what police described as a bloody neck wound.\n\nFOLLOW THE FOX TRUE CRIME TEAM ON X\n\nSIGN UP TO GET THE LATEST TRUE CRIME NEWS\n\nPolice said officers in Vermont became concerned about the welfare of MacAusland's children and contacted authorities in Wellesley, where officers found Kai and Ella dead inside the family's home.\n\nLIKE WHAT YOU'RE READING? CLICK HERE FOR MORE\n\nAn arrest affidavit previously obtained by Fox News Digital alleges MacAusland confessed to killing the children after arriving at her aunt's home.\n\nAccording to the affidavit, MacAusland told her aunt she had wanted \"the three of us to go to God together\" before later telling police she had strangled the children and attempted to take her own life.\n\nLISTEN TO THE NEW 'CRIME & JUSTICE WITH DONNA ROTUNNO' PODCAST\n\nThe affidavit alleges MacAusland told officers the children could be found in her bed at the family's Massachusetts home.\n\nILLINOIS MOTHER CHARGED WITH MURDER IN DEATH OF 2-YEAR-OLD SON IN CASE DRAWING COMPARISONS TO LINDSAY CLANCY\n\nCourt records previously reviewed by Fox News Digital show MacAusland's husband filed for divorce months before the killings, citing an irretrievable breakdown of the marriage and seeking custody of the couple's two children.\n\nGET BREAKING NEWS BY EMAIL\n\nMacAusland remains jailed without bail as prosecutors await the medical examiner's findings and the case moves forward.\n\nFox News Digital's Peter D'Abrosca contributed to this report.",
+        "fullTranslation": "如果您或您认识的人正在经历自杀念头，请拨打国家自杀预防生命热线 1-800-273-TALK (8255)。\n\n在备受关注的林赛·克兰西（Lindsay Clancy）谋杀案审判以流审告终不到一周后，马萨诸塞州另一起涉及母亲被控杀害亲生子女的案件于周四重返法庭。因检方表示仍在等待法医的鉴定结果，辩方随即寻求撤销对她的指控。\n\n据WCVB报道，检方向法庭表示，他们仍在等待法医主任办公室对孩子们死因及死亡方式的官方认定，这促使辩护律师约瑟夫·克罗斯基（Joseph Krowski）要求撤案，或准予珍妮特·麦考斯兰（Janette MacAusland）保释。\n\n法官驳回了这两项请求，下令继续对麦考斯兰进行不得保释的拘押。\n\n【相关阅读：陪审团就杀害三子女案陷入僵局，林赛·克兰西案宣布流审】\n\n福克斯数字新闻（Fox News Digital）已联系克罗斯基以及诺福克县地方检察官办公室以寻求置评。\n\n49岁的麦考斯兰被控两项谋杀罪，罪名涉及其7岁儿子凯（Kai）和6岁女儿埃拉（Ella）的死亡。今年4月，警方在进行福利检查后，在位于韦尔斯利（Wellesley）的家中发现了这两个孩子的尸体。\n\n【相关阅读：波士顿富裕郊区母亲在监护权纠纷期间被控谋杀两名亲生子女】\n\n克兰西案的焦点在于产后精神错乱是否让她在法律意义上丧失了刑事责任能力，而在麦考斯兰一案中，尚未宣布采取此类辩护理由，该案目前仍处于初期阶段。\n\n【相关阅读：林赛·克兰西案判决：退休法官解释精神错乱辩护若成立将发生什么】\n\n麦考斯兰在佛蒙特州本宁顿被捕，此前她赶往一名亲戚家中，警方称她抵达时颈部有带血伤口。\n\n【相关阅读：在X平台关注福克斯真实犯罪团队】\n\n警方表示，佛蒙特州的警察对麦考斯兰的孩子们的安危感到担忧，遂联系了韦尔斯利当局，随后当地警官在一家人的住宅内发现了凯和埃拉的遗体。\n\n【相关阅读：喜欢你正在阅读的内容吗？点击此处获取更多】\n\n福克斯数字新闻此前获得的一份逮捕宣誓书指称，麦考斯兰在到达其姑母家后承认杀害了孩子们。\n\n宣誓书显示，麦考斯兰曾告诉其姑母，她原本希望“我们三个人一起去见上帝”，随后向警方交代自己勒死了孩子们并企图自杀。\n\n【相关阅读：收听全新播客《与唐娜·罗图诺探讨犯罪与司法》】\n\n该宣誓书还指称，麦考斯兰告诉警察，孩子们就在马萨诸塞州家中的她的床上。\n\n【相关阅读：伊利诺伊州一母亲被控谋杀2岁儿子，案件引发与林赛·克兰西案的比对】\n\n福克斯数字新闻此前查阅的法庭记录显示，麦考斯兰的丈夫在杀戮发生前数月提出了离婚申请，理由是婚姻关系已无可挽回地破裂，并寻求争夺两人两个孩子的监护权。\n\n【相关阅读：通过电子邮件获取突发新闻】\n\n随着检方等待法医的鉴定结果以及案件继续推进，麦考斯兰目前仍被收押，不得保释。\n\n福克斯数字新闻的彼得·达布罗斯卡（Peter D'Abrosca）对本报道亦有贡献。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 23,
+        "keyTakeaways": [
+          "Lindsay Clancy谋杀案审判在不足一周前因陪审团陷入僵局以流审告终。",
+          "49岁的马萨诸塞州母亲Janette MacAusland被控两项谋杀罪，涉嫌杀害其7岁儿子Kai和6岁女儿Ella。",
+          "来源叙事重点：报道聚焦于将马萨诸塞州母亲Janette MacAusland杀子案与刚发生流审的Lindsay Clancy案进行对比联动，突出辩方在法医报告未出之际要求撤案或保释被拒的司法交锋，并详细复盘案发细节（涉嫌勒死两名子女、企图自杀、抚养权纠纷）。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:43:51.000Z",
+            "url": "https://www.foxnews.com/us/days-after-lindsay-clancy-mistrial-another-massachusetts-mom-accused-killing-her-children-seeks-freedom"
+          }
+        ]
+      },
+      {
+        "id": "story-ativity-is-your-new-moat-ebb53a4f1e6d87f8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Genuine Creativity Is Your New Moat (2026)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:03:34.000Z",
+        "pubTime": "2026-09-11 03:03",
+        "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+        "imageUrl": null,
+        "fullContent": "Thoughts? Email me at [email protected]—I may publish thoughtful replies.\n\nNo comments yet. Be the first to share your thoughts!",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-11 03:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+            "publishedAt": "2026-09-10T19:03:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-o-fuel-and-food-663f294d-1a489c35105327e3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "It’s not just Hormuz. Another war is providing fresh price shocks to fuel and food.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:38:00.000Z",
+        "pubTime": "2026-09-11 03:38",
+        "url": "https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The Middle East conflict overshadows outages in Russia and a ‘massive impact’ on diesel supplies",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 03:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T19:38:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--wrongful-arrest-tied-to-327f356da72a6124",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Florida woman sues over wrongful arrest tied to Flock camera data",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T18:21:42.000Z",
+        "pubTime": "2026-09-11 02:21",
+        "url": "https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/",
+        "imageUrl": "https://external-preview.redd.it/LoG7GM1JR_n4AgnUDfE9ZEeE7MXKN5KsDcmReM_JSwg.jpeg?width=640&crop=smart&auto=webp&s=2de0712bb11b4cfebef13f205442fa1aa179837f",
+        "fullContent": "submitted by /u/consultinglove [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-11 02:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/",
+            "publishedAt": "2026-09-10T18:21:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-schooling-million-html-4bcdabecac1787f1",
+        "title": "2025年气候灾害导致全球逾1.71亿学生学业受阻",
+        "originalTitle": "Climate hazards disrupted schooling for more than 171 million students in 2025",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:40:15.000Z",
+        "pubTime": "2026-09-11 03:40",
+        "url": "https://phys.org/news/2026-09-climate-hazards-disrupted-schooling-million.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-than-171-million.jpg",
+        "fullContent": "edited by Swati Mestri, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nMore than 171 million students globally—or 1 in 10—from preprimary to upper secondary age had their schooling disrupted by climate hazards in 2025, according to a new analysis released by UNICEF today.\n\n\"Learning Interrupted: Global Snapshot of Climate-Related School Disruptions in 2025\" analyzes data from 106 countries or territories and finds that climate hazards including storms, floods, heat waves, droughts and wildfires led to suspended classes, damaged schools, a shift to remote learning, shortened instructional time, reduced school attendance and increased risk of dropout for millions of students worldwide.\n\n\"For millions of children, climate hazards do more than disrupt lessons: They destroy schools, uproot families and push the most vulnerable children, especially girls, out of the classroom for good,\" said UNICEF Executive Director Catherine Russell.\n\nAccording to the analysis, storms were the most common cause of school disruptions last year, affecting 109 million students globally. Floods affected at least 70 million students, while heat waves disrupted schooling for approximately 50 million children.\n\n\"My school is right next to a creek, and when there is flooding, the water rises and flows into the school,\" said 16-year-old Taudibura Garo from Papua New Guinea, where El Niño conditions are expected to increase the risk of extreme weather in the coming months.\n\n\"Usually, the water comes up to our knees and floods the pit toilets, then it becomes unhealthy for us to stay at school, and we miss the lessons we are supposed to learn.\"\n\nWhile students across all income levels were affected by disruptions, three-quarters of affected students live in low- and lower-middle-income countries, where education systems often lack the resources needed to safeguard learning during climate-related emergencies.\n\nIn Pakistan, for example—one of the most affected countries in the analysis—severe monsoon floods in August delayed the return to school for more than 28 million students, making it one of the largest climate-related education disruptions recorded in 2025. In Egypt, a powerful Khamsin wind and dust storm prompted a nationwide suspension of classes for one day in April, also affecting more than 28 million students.\n\nAccording to the data, 40 countries experienced multiple rounds of climate-related school disruptions throughout the year. Madagascar, for example, faced rounds of drought, tropical cyclones and floods affecting 280,000 students during the year.\n\nIn Spain, more than 500,000 students in the Valencian Community were affected by storms in March, followed by post-tropical Cyclone Gabrielle in September. For thousands of students across the rest of the country, extreme heat disrupted classes in May and June, and Storm Alice affected schooling in October.\n\nLearning losses and higher school dropout rates can reduce workforce productivity, slow economic growth and make it harder for countries to reduce poverty. The report finds that inaction could result in a potential loss of at least US$200 billion in lifetime earnings for students who experienced climate-related school disruptions in 2025.\n\nGirls are at greater risk of dropping out when climate hazards disrupt or close schools. Damage to schools and sanitation facilities, displacement and lost family income can place additional caregiving and water-collection responsibilities on girls. These pressures can also increase the risk of child marriage, making it more difficult for girls to return to class when schools reopen.\n\nAt the same time, the report highlights practical solutions that are already helping protect learning from climate hazards, including integrating climate resilience into national education planning, strengthening school infrastructure, ensuring learning continuity during and after disruptions and embedding climate education into curricula to equip children and young people with the skills needed to adapt to a changing world.\n\nBuilding on these proven approaches, UNICEF is calling on governments and partners to scale up efforts and protect education from the worst impacts of climate hazards by:\n\n\"Climate hazards threaten children's lives and futures,\" said Russell. \"To protect education for children today and for future generations, we must invest in schools and education systems that are built to withstand climate shocks.\"\n\nReport: www.unicef.org/reports/learning-interrupted\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "责任编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：罗伯特·伊根（Robert Egan）\n本文已根据Science X的编辑流程和政策进行审校。编辑在确保内容可信度的同时着重强调了以下特质：\n\n联合国儿童基金会（UNICEF）今日发布的一项最新分析显示，2025年全球有超过1.71亿名从学前教育到高中阶段的学生（相当于每10人中就有1人）因气候灾害导致学业中断。\n\n这份题为《被打断的学习：2025年气候相关学校中断事件全球快照》（Learning Interrupted: Global Snapshot of Climate-Related School Disruptions in 2025）的报告分析了来自106个国家或地区的数据。报告发现，包括风暴、洪水、热浪、干旱和野火在内的气候灾害导致全球数百万学生停课、校舍受损、被迫转向远程学习、教学时间缩短、出勤率下降以及辍学风险加剧。\n\n联合国儿童基金会执行主任凯瑟琳·拉塞尔（Catherine Russell）表示：“对数百万儿童而言，气候灾害不仅打乱了日常课程：它们还会摧毁学校、使家庭流离失所，并迫使最弱势的儿童（尤其是女童）永远离开课堂。”\n\n根据该项分析，风暴是去年导致学校中断的最常见原因，波及全球1.09亿名学生。洪水影响了至少7000万名学生，而热浪则导致约5000万名儿童的学业受阻。\n\n“我的学校紧挨着一条小溪，一旦发生洪水，水就会暴涨并倒灌进学校，”来自巴布亚新几内亚的16岁少年陶迪布拉·加罗（Taudibura Garo）说道。预计在接下来的几个月里，厄尔尼诺现象将加剧该国遭遇极端天气的风险。\n\n“通常，积水会没过我们的膝盖并淹没旱厕，那样留在学校就会变得很不卫生，我们也因此错过了原本该上的课。”\n\n尽管所有收入阶层的学生都受到了学业中断的影响，但受波及的学生中有四分之三生活在低收入和中低收入国家。在这些地区，教育系统往往缺乏在气候紧急情况下保障学习连续性所需的资源。\n\n例如，在受影响最严重的国家之一巴基斯坦，8月份严重的季风洪灾导致超过2800万名学生推迟返校，这是2025年记录在案的因气候引发的最大规模教育中断事件之一。在埃及，4月份一场强烈的五旬风（Khamsin）沙尘暴导致全国停课一天，同样影响了逾2800万名学生。\n\n数据显示，全年有40个国家经历了多轮与气候相关的学校中断。以马达加斯加为例，该国年内遭遇了数轮干旱、热带气旋和洪灾，波及28万名学生。\n\n在西班牙，巴伦西亚自治区有超过50万名学生在3月遭遇风暴袭击，随后又在9月受到后热带气旋“加布里埃尔”（Gabrielle）的影响。对于该国其他地区的成千上万名学生而言，极端高温打乱了5月和6月的课程，而10月的“爱丽丝”（Alice）风暴也对教学造成了干扰。\n\n学业损失和辍学率攀升会降低劳动力生产率、延缓经济增长，并使各国更难消除贫困。报告指出，如果不采取行动，2025年经历过气候相关学校中断的学生终身收入可能面临至少2000亿美元的潜在损失。\n\n当气候灾害导致学校中断或关闭时，女童辍学的风险更高。学校设施和卫生条件的损毁、流离失所及家庭收入减少，可能会给女童带来额外的照护和取水负担。这些压力还会增加童婚风险，使女童在学校复课后更难重返课堂。\n\n与此同时，该报告重点介绍了已经有助于保护学业免受气候灾害影响的切实可行的解决方案，包括将气候适应能力纳入国家教育规划、加固学校基础设施、确保在灾害期间及之后的学习连续性，以及将气候教育融入课程，为儿童和青年人提供适应不断变化的世界所需的技能。\n\n立足于这些行之有效的方法，联合国儿童基金会呼吁各国政府及合作伙伴加大力度，保护教育免受气候灾害的最严重冲击，具体措施包括：\n\n“气候灾害正在威胁儿童的生命与未来，”拉塞尔说。“为了保护当今儿童及子孙后代的教育权利，我们必须投资于能够抵御气候冲击的学校和教育体系。”\n\n报告链接：www.unicef.org/reports/learning-interrupted\n\n斯瓦蒂·梅斯特里拥有电子工程学士学位，自2019年起担任内容编辑。她在科技、医疗保健和材料科学领域的研究文献编辑方面经验丰富，对科技与航天领域尤为关注。查看完整简介 →\n拥有数学生物学学士学位及创意写作硕士学位。游历广泛，在科学与语言方面具有独到见解。查看完整简介 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "2025年，全球学前至高中年龄段有超过1.71亿（约十分之一）学生因气候灾害导致学业中断。",
+          "UNICEF发布的《Learning Interrupted》报告分析了来自106个国家或地区的数据。",
+          "来源叙事重点：聚焦极端气候灾害对全球教育体系造成的系统性冲击，着重呈现学业中断的庞大人口规模（1.71亿）、低收入国家的脆弱性以及对女童辍学和长期经济产出的负面连锁反应，旨在倡导将气候韧性纳入国家教育规划与基础设施投资"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:40:15.000Z",
+            "url": "https://phys.org/news/2026-09-climate-hazards-disrupted-schooling-million.html"
+          }
+        ]
+      },
+      {
+        "id": "story-0-izrail-2116926099-html-7cdead2319c5fc96",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Президент Израиля поздравил евреев с Новым годом на русском при помощи ИИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T19:42:36.000Z",
+        "pubTime": "2026-09-11 03:42",
+        "url": "https://ria.ru/20260910/izrail-2116926099.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/154809/38/1548093869_0:149:2859:1757_650x0_80_0_0_e06bbb4f12f870865cac27e08e0d2197.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 03:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/izrail-2116926099.html",
+            "publishedAt": "2026-09-10T19:42:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nated-by-asian-suppliers-8930a870a2e04898",
+        "title": "Proxima Fusion押注1.4亿欧元布局核聚变关键原料，该领域目前由亚洲供应商主导",
+        "originalTitle": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T18:38:00.000Z",
+        "pubTime": "2026-09-11 02:38",
+        "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+        "imageUrl": null,
+        "fullContent": "Proxima Fusion is betting on a critical ingredient for its fusion reactors: superconducting tape.\n\nProxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.\n\nThe move comes months after Proxima raised €411 million in a round that catapulted the company up the ranks of the best-funded fusion startups. The Germany-based fusion startup plans to use a mix of public and private funding to complete the factory, with the state of Lower Saxony chipping in €21 million.\n\nProxima will use HTS tape to generate powerful magnetic fields to contain the plasma required to spark fusion reactions.\n\nThe startup’s demonstration plant will use 20,000 kilometers of HTS tape, while its commercial power plant will need twice as much. Today, the vast majority of HTS tape is made in China and Japan.\n\nHTS tape emerged a little over a decade ago as one of the fundamental breakthroughs that enabled the current generation of fusion power startups. Because it can generate strong magnetic fields at relatively high temperatures, HTS tape enables smaller and more efficient reactor designs.\n\nWhile fusion power is expected to consume a large portion of the world’s HTS tape production, other companies like Veir are using it to boost the efficiency and power density of data centers.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "Proxima Fusion正押注其核聚变反应堆的一项关键原料：超导带材。\n\nProxima Fusion周三表示，计划投资1.4亿欧元（约合1.626亿美元）建设一座工厂，用于生产聚变级高温超导（HTS）带材，这将为该初创公司的反应堆设计提供核心组件。\n\n在此举措出台的数月前，Proxima完成了一轮4.11亿欧元的融资，使其一跃跻身资金最雄厚的核聚变初创企业行列。这家总部位于德国的核聚变初创公司计划结合公共与私人资金来完成该工厂的建设，其中下萨克森州将提供2100万欧元的资金支持。\n\nProxima将使用HTS带材产生强大的磁场，以约束引发聚变反应所需的等离子体。\n\n该初创公司的示范电厂将消耗2万公里的HTS带材，而其商用发电厂的用量将是其两倍。如今，绝大部分HTS带材都在中国和日本生产。\n\nHTS带材出现于十多年前，是催生当今这一代核聚变初创企业的根本性突破之一。由于它能够在相对较高的温度下产生强磁场，HTS带材使得更小、更高效的反应堆设计成为可能。\n\n虽然聚变能源预计将消耗全球大部分的HTS带材产量，但像Veir这样的其他公司也正在利用它来提高数据中心的效率和功率密度。\n\n切勿错过。初创企业社区将汇聚一堂，共同解答一个关键问题：在人工智能时代，该如何实现可持续发展？\n\n每个工作日和周日，您都可以获取TechCrunch的优质报道。\n\nTechCrunch Mobility是您获取交通领域新闻与洞察的首选之地。\n\n初创企业是TechCrunch的核心，每周为您呈送我们的深度精选内容。\n\n为行业领袖和决策者提供开启新一天所需的资讯。\n\n提交您的电子邮件即代表您同意我们的条款与隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "德国聚变初创公司 Proxima Fusion 计划投资 1.4 亿欧元（约合 1.626 亿美元）建造一座生产聚变级高温超导（HTS）带材的工厂。",
+          "Proxima Fusion 数月前完成了一轮 4.11 亿欧元的融资。",
+          "来源叙事重点：Proxima Fusion 投资 1.4 亿欧元在德国自建聚变级高温超导（HTS）带材工厂，以摆脱对亚洲（中日）供应链的高度依赖并保障自身反应堆核心原料供给。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T18:38:00.000Z",
+            "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/"
+          }
+        ]
+      },
+      {
+        "id": "story-tect-your-money-99374a95-52031929dc453f04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:21:00.000Z",
+        "pubTime": "2026-09-11 03:21",
+        "url": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Estate-planning crises usually come down to small oversights.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 03:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T19:21:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-log-what-comes-after-git-302f50f7ea4270e4",
+        "title": "Git 之后何去何从",
+        "originalTitle": "What comes after git",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T17:44:27.000Z",
+        "pubTime": "2026-09-11 01:44",
+        "url": "https://ersc.io/blog/what-comes-after-git",
+        "imageUrl": null,
+        "fullContent": "East River Source Control has been around for over a year now, but we haven’t been talking much publicly about what we’ve been working on. We aren’t announcing anything just yet, and we will soon, but we wanted to share some of our thinking around version control and where things are going.\n\nBuilding software is fundamentally a collaborative task. Projects start with humble beginnings, and end up growing into incredibly large and complex systems. But what cargo new generates is the same thing as what a multi-billion line monorepo contains: source code. Storing this code safely and securely, managing how it changes over time, and ensuring its availability to developers are some of the most critical functions of any technology organization.\n\nIn the old days, you might have had a shared server where your code lived. Academia and then industry developed what are now called Source Control Management (SCM) and Version Control Systems (VCS). And even within the VCS space, we have seen many, many tools over the years: CVS, SVN, and Git are the tools that have dominated the open source space, but there have been others as well: Perforce, ClearCase, Fossil, Mercurial, SCSS, Monotone, BitKeeper, and many more. These tools became the standard way to store your code and have your team collaborate on changes to it.\n\nThe rise of agentic development has changed many things about how we develop software, but it places particular strain on your version control system. Teams are producing more code more quickly than ever before, ballooning repository sizes, increasing the number of active branches, and producing significant contention on merging in new work. Agents work well with monorepos, because they can get more access to more context more easily, exacerbating these issues as well. They’re moving development environments to the cloud, with isolated environments, which means that they need fast clone times. All of these problems used to be the domain of larger organizations, but agents are bringing big company problems to the rest of us.\n\nWe believe that as organizations continue to scale up their ambitions, they will need a next generation VCS tool. But they are rightfully a bit conservative with adopting new tooling in this space. As I said above, source code is one of the most precious commodities an organization has, and change has risks as well as rewards. We deeply appreciate these concerns, and so are building a bridge from the present to the future.\n\nLots of Git servers exist though. What makes us special?\n\nAt a high level, the way most places that host Git repositories for you looks something like this:\n\nYour git client connects to their service via the Git protocol. Inside the service, they store your repositories on disk, and have a service layer that connects the two.\n\nNow, this is a bit reductive: it is going to be many servers, with a complex layer of services in front of the repositories. The storage will be replicated, and there’s all sorts of stuff going on. We’re focusing on the overall architecture here, but don’t mistake the simplicity of the diagram for the simplicity of the system. There is a lot going on here, but those details aren’t germane at this exact moment.\n\nIn that spirit, here is the diagram for what we’re doing:\n\nIt looks pretty similar! It is also simplified, for example, there is a GraphQL API interface not shown in this diagram at all. But the difference is important: while you still connect to our storage with your regular git client and it uses the git protocol, we don’t store git repositories on our servers. Instead, we have a custom storage engine.\n\nPut plainly, we do not believe that Git is the future of source control. Git has served developers well for many years, but it was designed around the constraints of 2005, not 2025, let alone 2035. For example, it was built for the Linux kernel: an open source project. Open Source is incredibly important to our industry, but this means it’s missing key features that are useful for organizations that aren’t sharing their code with everyone. Also, while the Linux kernel is not a small repository, with 7.2 clocking in at about 43 million lines of code, major companies in the industry already had monorepos that were measured in billions of lines of code years ago. The choices you make really matter at this scale.\n\nAt the same time, it’s difficult to consider using a different version control system. Git is baked into so much of our tooling: it’s not SvnOps, it’s GitOps! So many things speak Git, and this makes it difficult to consider alternatives. When Git was created, several other projects started around the same time, notably Mercurial and Bazaar. But network effects led to Git being used by virtually everyone.\n\nSo what to do? Speak the Git protocol, while changing how the storage layer works. While this doesn’t solve all of the problems that we foresee in the future, it does help out. Our system is horizontally scalable in a way that systems that use a Git repository as the source of truth are not. And because this isn’t a global, unified platform, other companies’ usage does not affect yours, as they’re separate deployments. This gives you reliability and control, two things that are critical when talking about infrastructure.\n\nSo what about those future possibilities? What if you need to scale beyond what the Git protocol offers, or you need features that aren’t provided by Git? This strategy of speaking the protocol has an advantage: you can speak multiple protocols.\n\nThis is where Jujutsu comes in. We’re big fans of jj here at ERSC, and part of that is that we really love how it’s an example of a technology that’s easy to incrementally adopt. While jj is its own version control system, it has the ability to speak to multiple different backends. Most developers use jj with the Git backend to work directly with a local Git repository, but Google also has a backend to their Piper version control system. This is what lets individual developers choose to use jj at work, even if their co-workers still use the regular Git client: to the server, it’s just another user of the Git protocol. We’ll be mirroring this strategy, but on the server:\n\nThis leads to a smooth path to the future of version control: you can start off by using regular old git, and enjoy reliable and scalable source control management. Individual developers can choose to adopt jj at their own pace, and when you’re ready to step forward, jj can speak a different protocol to the same underlying engine.\n\nAn important note about this: this is future work, not available yet. Upstream has no ”jj native” protocol today, and we don’t claim this is what we’re building. If this is useful as an upstream thing that upstream desires to support, we’ll work with the community on this. And the protocol will be well documented, and any client modifications to support it will be open source. We do not assume that just because we build such a thing that upstream will want to use it, as the Git protocol works to serve the needs of most of their users already today. We are committed to being good players in the jj ecosystem, whatever that ends up looking like.\n\nA storage solution is only part of what your team needs to collaborate around code. Code Review, CI, issue tracking, the list goes on and on. While traditional software forges have offered everything in one unified package, we believe that we’re entering an age of more customizability with software. As such, our product offerings are more like building blocks than one single forge. Storage is the foundation, and therefore, is coming first. But you can expect that we want to make our storage solution work with the rest of your software stack, not against it. While we’ll be offering multiple products in the VCS space, if you want to bring your own software for the rest of the stack, you can do that. Or if you want to adopt some pieces of our first-party things, and bring some of your own, that’s great too.\n\nWhile none of this is available just yet, we’ll be opening things up soon. In the meantime, we’ll see you at JJ Con next week!",
+        "fullTranslation": "East River Source Control 成立已有一年多，但我们此前很少公开谈论我们正在从事的项目。我们目前还不准备正式宣布任何产品，不过很快就会了；但在那之前，我们想分享一些关于版本控制及其未来发展方向的思考。\n\n构建软件从根本上说是一项协作任务。项目通常始于微末，最终成长为极其庞大而复杂的系统。但无论是 cargo new 生成的代码，还是包含数十亿行代码的单体仓库（monorepo），其本质都一样：源代码。安全可靠地存储这些代码、管理其随时间的变化，并确保开发者随时可用，是任何技术机构最核心的职能之一。\n\n在过去，你可能曾使用一台存放代码的共享服务器。学术界以及后来的工业界开发了如今被称为源码控制管理（SCM）和版本控制系统（VCS）的工具。甚至在 VCS 领域内部，这些年来我们也见证了无数工具的兴衰：CVS、SVN 和 Git 是主导开源领域的工具，但也有其他系统：Perforce、ClearCase、Fossil、Mercurial、SCSS、Monotone、BitKeeper 等等。这些工具成为了存储代码以及团队协作修改代码的标准方式。\n\n基于智能体（Agentic）开发的兴起改变了我们开发软件的许多方面，但也对版本控制系统带来了尤其严峻的压力。团队正以前所未有的速度编写更多代码，仓库规模急剧膨胀，活跃分支数量激增，合并新工作时产生严重冲突。智能体在单体仓库中表现出色，因为它们可以更轻松地获取更多上下文信息，而这也加剧了上述问题。它们正在将开发环境迁移到云端的隔离环境中，这意味着它们需要极快的克隆（clone）速度。所有这些问题过去通常只属于大型企业，但智能体正在把大公司的问题带给每一个团队。\n\n我们相信，随着各家机构的雄心持续扩张，他们将需要下一代 VCS 工具。但在采用该领域的新工具方面，他们表现得较为保守也是理所应当的。如前所述，源代码是机构拥有的最宝贵资产之一，变革既带来回报，也伴随风险。我们深知这些顾虑，因此正在搭建一座连接当下与未来的桥梁。\n\n不过，现存的 Git 服务器已经数不胜数。那我们有什么特别之处？\n\n从宏观角度来看，大多数为你托管 Git 仓库的平台其运作方式大致如下：\n\n你的 git 客户端通过 Git 协议连接到其服务。在服务内部，他们将你的仓库存储在磁盘上，并通过一个服务层将两者连接起来。\n\n当然，这种描述略显简化：实际情况会有许多台服务器，仓库前面还有一层复杂的微服务。存储层具有副本备份，后台还运行着各种各样的处理。我们这里关注的是整体架构，但切勿将架构图的简洁误认为是系统的简单。这里涉及很多内容，但那些细节在当下并非关键。\n\n基于这种思路，以下是我们方案的示意图：\n\n它看起来非常相似！这也是简化后的，例如图中完全没有展示 GraphQL API 接口。但其中的区别至关重要：虽然你仍然使用常用的 git 客户端通过 Git 协议连接到我们的存储，但我们并没有在服务器上存储 Git 仓库。相反，我们开发了自定义的存储引擎。\n\n简而言之，我们不认为 Git 代表着源码控制的未来。Git 服务开发者多年，表现优异，但它是围绕 2005 年而非 2025 年（更不用说 2035 年）的技术约束设计的。例如，它是专为 Linux 内核这一开源项目构建的。开源对我们的行业极其重要，但这意味着它缺少对于不公开代码的企业来说非常有用的关键特性。此外，尽管 Linux 内核不是一个小仓库——其 7.2 版本大约有 4300 万行代码——但业内主流公司早在几年前就拥有规模达数十亿行代码的单体仓库了。在这样的规模下，技术选型至关重要。\n\n与此同时，考虑更换版本控制系统又非常困难。Git 已经深植于我们众多的工具链中：现在的规范是 GitOps，而不是 SvnOps！无数工具都在使用 Git 协议与生态，这使得探索替代方案步履维艰。在 Git 诞生之时，周边几乎同时出现了几个类似项目，最著名的有 Mercurial 和 Bazaar。但网络效应使得 Git 最终被几乎所有人采用。\n\n那么该怎么办呢？支持 Git 协议，同时彻底改造底层存储层的运作机制。虽然这并不能解决我们预见的所有未来问题，但确实大有裨益。与以传统 Git 仓库为真实源（source of truth）的系统不同，我们的系统可以实现横向扩展。而且由于这不是一个全局统一的平台，其他公司的资源使用不会影响到你，因为各部署环境彼此隔离。这为你带来了可靠性与控制力——在谈论基础设施时，这两点至关重要。\n\n那么未来的可能性呢？如果你需要的扩展规模超出了 Git 协议所能承载的范围，或者你需要 Git 所不具备的功能怎么办？兼容现有协议的这种策略有一个优势：你可以同时支持多种协议。\n\n这正是 Jujutsu（jj）大展身手的地方。在 ERSC，我们是 jj 的忠实粉丝，部分原因在于我们非常赞赏它作为一项易于渐进式采纳的技术典范。尽管 jj 本身是一套独立的版本控制系统，但它具备与多种不同后端通信的能力。大多数开发者使用 jj 的 Git 后端直接操作本地 Git 仓库，但 Google 也为其内部的 Piper 版本控制系统开发了后端。这使得单个开发者能够在工作中使用 jj，即便同事们仍在继续使用传统的 Git 客户端：对服务器来说，jj 用户不过是又一个 Git 协议使用者罢了。我们将在服务端采用相同的策略：\n\n这为通往版本控制的未来铺平了一条顺畅的道路：你可以先从熟悉的传统 git 开始，享受可靠且可扩展的源码控制管理。单个开发者可以按自己的节奏选择采纳 jj；当你准备好更进一步时，jj 可以通过不同的协议与同一个底层引擎通信。\n\n关于此点有一项重要说明：这是未来的规划工作，目前尚未推出。上游目前并没有“jj 原生”（jj native）协议，我们也没有声称我们正在构建的就是该协议。如果这在上游被证明是有价值的且上游希望提供支持，我们将与社区就此展开合作。此外，该协议将提供完备的文档，任何用于支持它的客户端改动都将开源。我们不会想当然地认为只要我们构建了这样的协议上游就会想要使用，因为 Git 协议目前已经能够满足其大多数用户的需求。无论最终呈现为什么形式，我们都致力于成为 jj 生态系统中优秀的参与者。\n\n存储解决方案只是团队围绕代码开展协作所需的一部分。代码审查（Code Review）、持续集成（CI）、问题追踪（Issue Tracking）等需求不胜枚举。虽然传统的软件代码托管平台（forge）曾以一体化打包的形式提供所有功能，但我们相信软件正在进入一个更具可定制性的时代。因此，我们的产品形态更像是积木组件，而非单一的代码托管平台。存储是基石，因而最先推出。但你可以确信，我们致力于让存储解决方案与你的其余软件技术栈协同运作，而非相互冲突。尽管我们将在版本控制系统（VCS）领域推出多款产品，但如果你想在技术栈的其余环节采用自己的软件，完全可行；或者如果你想采用我们的部分第一方组件并搭配自己的工具，那同样非常合适。\n\n尽管上述所有内容目前都尚未上线，但我们很快就会对外开放。在此期间，我们下周的 JJ Con 大会见！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "East River Source Control (ERSC) 已经成立并运作了一年多。",
+          "Linux 内核 7.2 版本的代码行数约为 4300 万行。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T17:44:27.000Z",
+            "url": "https://ersc.io/blog/what-comes-after-git"
+          }
+        ]
+      },
+      {
+        "id": "story-lt-distraction-good-html-4227b30b98b41374",
+        "title": "孩子的大脑天生容易分心，有时这其实是一件好事",
+        "originalTitle": "Kids' brains are built for distraction. Sometimes that's a good thing.",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:40:12.000Z",
+        "pubTime": "2026-09-11 03:40",
+        "url": "https://phys.org/news/2026-09-kids-brains-built-distraction-good.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/kid-playing.jpg",
+        "fullContent": "by Elizabeth Weinstein, The Ohio State University\n\nedited by Gaby Clark, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nParents often learn the hard way that to make it anywhere on time, they should calculate how much time they think they need to get ready—and double it.\n\nIt's hard enough for adults with deep-rooted mental checklists to make it out the door. For young children, such lists give way to treasure maps.\n\nEverything from clothing choices to snacks and toys for the car requires diplomatic negotiations that can't be rushed without risking a meltdown. The clock is ticking, but your child is blissfully unaware and suddenly more interested in staying home.\n\nWhereas adults rely on streamlined internal mind maps to carry out their daily routines, young children's brains appear to be wired for distraction. According to a review paper published recently in Trends in Cognitive Sciences, what might look and feel like pure chaos—or worse, obstinance—is an important window into how growing minds think and learn through exploration.\n\nIn the paper, lead author Vladimir Sloutsky, a professor of psychology at The Ohio State University, revisits research his lab previously reported in the Journal of Experimental Psychology: General and notes that \"children tend to explore broadly, and, despite its costs, exploration confers important benefits, especially early in development, when they know little.\"\n\nIn other words, Sloutsky said, \"they are humans learning to be human.\"\n\nWhen choosing between trying something new (exploration) or repeating actions that have already proven successful (exploitation), learners of all ages encounter what researchers call the \"exploration-exploitation dilemma.\" Trying new things might prove to be a waste of time and energy, but repeating familiar actions could prevent someone from acquiring new skills or knowledge.\n\nAdults are typically more exploitative, preferring to repeat actions that have previously led to successful, rewarding outcomes, while children are less selective about where they direct their attention. Sloutsky and his co-authors wanted to find out more about what is driving this exploratory behavior, particularly in children ages 3 to 8.\n\nFor decades, the prevailing theory was that children explore simply because they are naturally curious—or, possibly, because their decision-making is more random. Sloutsky's work offers a different explanation: Early exploration is driven by the immaturity of a child's working memory system.\n\nA mature working memory helps adults hold onto a plan and selectively filter out distractions, while an immature working memory, by contrast, is set to \"distributed attention,\" meaning young children are prone to spreading their attention broadly. To test this, Sloutsky's team overloaded adults' working memory by asking them to complete a decision-making game while also reporting whenever two consecutive odd numbers appeared in a continuous stream of numbers. When their working memory was taxed, adults in the study abandoned their strategic choices and explored more broadly, exhibiting attentional patterns nearly identical to those of 5-year-olds.\n\nWhile children's lack of focus might make leaving the house a test of patience, it serves a crucial evolutionary purpose, ensuring that young learners absorb as much information as possible about the world. \"Because they don't have a fully developed working memory system, children will explore and resample, especially in less familiar situations. An adult will quickly decide that something is worthy of attention and other things are not. Children do not make those selective decisions as quickly,\" Sloutsky said.\n\nFor example, let's say you've researched nearby gas stations and found a couple with lower prices. You might start to frequent those stations without continuing to search for better options. Meanwhile, other stations are dropping their prices and becoming more competitive, but you won't benefit because you are certain that your initial choices are the best ones.\n\n\"Because children explore, they may not immediately optimize the benefit of the best option, but they also won't lose out if something in the environment changes,\" Sloutsky explained. \"That is where exploratory behavior becomes very beneficial, guarding them against being entrapped by their own knowledge early in development.\"\n\nSloutsky hopes studies like this help remind parents that kids \"are annoying and destructive for a reason: They need to acquire a lot of knowledge in a relatively short period of time. We need to provide them with things that are OK to break, because exploring and breaking things is how they learn about the world.\"\n\nIf you plot immaturity—measured by the onset of the first molar in mammals or the age of sexual maturity—against brain size, you will find an almost perfect dependence: the greater the brain size, the longer the period of immaturity, he noted.\n\n\"Children are almost completely immobile for the first year of life, disorganized for the next three, extreme risk-takers for the next 15 and self-insufficient for the first 22 years,\" Sloutsky said. \"It is extraordinarily costly, and that cost is mainly borne by caregivers. But it is necessary given how much kids need to learn. Organisms with bigger brains have longer periods of immaturity to allow them the flexibility to learn all that.\"\n\nVladimir M. Sloutsky et al, Working memory, exploration, and cognitive development, Trends in Cognitive Sciences (2026). DOI: 10.1016/j.tics.2026.07.007\n\nJournal information: Journal of Experimental Psychology , Trends in Cognitive Sciences\n\nProvided by The Ohio State University\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "作者：伊丽莎白·韦恩斯坦（Elizabeth Weinstein），俄亥俄州立大学\n编辑：加比·克拉克（Gaby Clark），审校：安德鲁·齐宁（Andrew Zinin）\n本文已根据 Science X 的编辑流程和规范完成审校。编辑在确保内容可信度的同时强调了以下属性：\n同行评审出版物\n\n为人父母者往往吃过亏才明白，要想按时到达任何地方，他们都得先估算好出门准备需要多长时间——然后再翻一倍。\n\n对于脑海中有着根深蒂固清单的成年人来说，按时出门已经够难了。而对于年幼的孩子来说，这些清单根本算不上什么，早就让位给眼前的“寻宝图”了。\n\n从穿什么衣服，到车上备什么零食和玩具，每一样都需要进行外交级的谈判；稍微催促一下，就有可能引发一场情绪崩溃。时间在分秒流逝，但你的孩子却全然不知、乐在其中，甚至突然对留在家里产生了更大的兴趣。\n\n成年人依靠高度精简的内部心智地图来执行日常琐事，而幼儿的大脑似乎天生就是为了“分心”而构建的。根据最近发表在《认知科学趋势》（Trends in Cognitive Sciences）上的一篇综述论文，那些看起来和感觉上宛如纯粹混乱——甚至更糟的执拗——其实是一个重要窗口，展现了成长中的心智如何通过探索来进行思考与学习。\n\n该论文的第一作者、俄亥俄州立大学心理学教授弗拉基米尔·斯劳茨基（Vladimir Sloutsky）在文中重温了他的实验室此前在《实验心理学杂志：总论》（Journal of Experimental Psychology: General）上发表的研究，并指出：“儿童倾向于广泛探索，尽管这会带来成本，但探索能带来重要的益处，尤其是在他们知之甚少的发展早期阶段。”\n\n换句话说，斯劳茨基表示：“他们是正在学习如何成为人类的人类。”\n\n在尝试新事物（探索，exploration）与重复已被证明成功的行为（利用，exploitation）之间进行权衡时，所有年龄段的学习者都会遭遇研究人员所谓的“探索—利用困境”（exploration-exploitation dilemma）。尝试新事物可能最终证明是浪费时间和精力，但重复熟悉的行为又可能会阻碍人们掌握新技能或新知识。\n\n成年人通常更倾向于“利用”，更喜欢重复那些以往带来成功和回报的行为；相比之下，儿童对自己把注意力投向何处则不那么挑剔。斯劳茨基及其合著者希望更深入地了解推动这种探索行为的动力是什么，特别是针对 3 至 8 岁的儿童。\n\n几十年来，主流理论一直认为儿童探索仅仅是因为他们天生好奇——或者可能是因为他们的决策更具随机性。斯劳茨基的研究提供了一种不同的解释：早期的探索是由儿童工作记忆系统的不成熟所驱动的。\n\n成熟的工作记忆有助于成年人保持计划并有针对性地过滤掉干扰；相比之下，不成熟的工作记忆则被设定为“分散注意力”（distributed attention），这意味着幼儿容易将注意力广泛铺开。为了验证这一点，斯劳茨基的团队通过要求成年人在完成决策游戏的同时、汇报连续数字流中何时出现两个连续奇数，以此让成年人的工作记忆超负荷运转。当工作记忆不堪重负时，研究中的成年人放弃了原本的策略性选择，开始进行更广泛的探索，表现出与 5 岁儿童几乎相同的注意力模式。\n\n虽然孩子缺乏专注力可能会让出门变成一场耐力测试，但它服务于一个至关重要的演化目的：确保年幼的学习者能尽可能多地吸收有关这个世界的信息。“因为他们没有发育完全的工作记忆系统，儿童会去探索并重新采样，尤其是在不太熟悉的情境中。成年人会迅速判定某件事物值得注意，而其他事物不值得；儿童做出这些选择性判断的速度并没有那么快，”斯劳茨基说。\n\n举个例子，假设你研究了附近的加油站，并找到了几家价格较低的油站。你可能会开始经常光顾这些油站，而不再继续寻找更好的选择。与此同时，其他加油站正在降价并变得更具竞争力，但你却享受不到这个实惠，因为你确信自己最初的选择就是最好的。\n\n“因为孩子们处于探索状态，他们可能无法立刻将最佳选择的收益最大化，但如果环境发生变化，他们也不会蒙受损失，”斯劳茨基解释道，“这正是探索行为大有裨益的地方，能防止他们在成长早期被自己的既有认知所困住。”\n\n斯劳茨基希望此类研究有助于提醒父母，孩子们“之所以烦人且具破坏性，是有原因的：他们需要在相对较短的时间内获取海量知识。我们需要为他们提供一些哪怕摔坏也没关系的东西，因为探索和打破东西正是他们认识世界的方式。”\n\n他指出，如果你将以哺乳动物第一磨牙萌出或性成熟年龄来衡量的“不成熟期”与大脑大小绘制成图表，你会发现两者之间存在近乎完美的依存关系：大脑越大，不成熟期就越长。\n\n“孩子在生命的第一年几乎完全无法自由移动，接下来的三年混乱无序，之后的十五年极其热衷冒险，而在人生的前二十二年里都无法自给自足，”斯劳茨基说，“这是极其昂贵的代价，而这一代价主要由照料者承担。但考虑到孩子们需要学习的东西如此之多，这种代价是必要的。拥有更大大脑的生物体拥有更长的不成熟期，从而使他们具备足够的灵活性来学完所有这一切。”\n\n弗拉基米尔·M·斯劳茨基等，《工作记忆、探索与认知发展》（Working memory, exploration, and cognitive development），《认知科学趋势》（Trends in Cognitive Sciences, 2026）。DOI: 10.1016/j.tics.2026.07.007\n期刊信息：《实验心理学杂志》（Journal of Experimental Psychology）、《认知科学趋势》（Trends in Cognitive Sciences）\n由俄亥俄州立大学提供\n英语硕士，自 2021 年起担任文案编辑，在高教与健康领域拥有丰富经验。致力于传播值得信赖的科学新闻。完整个人资料 →\n物理学硕士，具科研背景。资深科学新闻爱好者。在 Science X 的编辑成果中发挥关键作用。完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "发表在《认知科学趋势》（Trends in Cognitive Sciences）上的一篇综述论文指出，幼儿大脑看似分心的混乱或固执状态，实际上是正在成长的大脑通过探索进行思考和学习的重要窗口。",
+          "俄亥俄州立大学心理学教授弗拉基米尔·斯劳茨基（Vladimir Sloutsky）是该论文的主作者。",
+          "来源叙事重点：将幼儿的分心、混乱和探索行为重新框定为工作记忆尚未成熟所导致的广泛注意，并强调这种行为具有学习和适应价值，而非单纯的顽固、随机决策或缺乏好奇心；同时以育儿场景和进化论解释突出“分心有益”的正面意义。上述是报道的叙事框架，不等同于已被所有研究一致接受的事实。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:40:12.000Z",
+            "url": "https://phys.org/news/2026-09-kids-brains-built-distraction-good.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ter-record-summer-blazes-21f0641fbc5876e3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "French firefighters on six-week strike after record summer blazes",
+        "source": "France 24 (EN 官方英语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:41:24.000Z",
+        "pubTime": "2026-09-11 03:41",
+        "url": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
+        "imageUrl": "https://s.france24.com/media/display/124ce6f8-ad4e-11f1-9307-005056bfb2b6/w:1024/p:16x9/EN-20260910-211032-211733-CS.jpg",
+        "fullContent": "Firefighters in France are on strike over a lack of funding for essential emergency services. Their dedication was pushed to the limit in the recent wild fire episodes south of Paris and near Bordeaux. Short comings in the current system were highlighted by these extreme cases. FRANCE 24's Mark Owen speaks with Yael Lecras, Vice-President of the National Union of Professional Firefighters.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (EN 官方英语原版)】于 2026-09-11 03:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (EN 官方英语原版)",
+            "url": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
+            "publishedAt": "2026-09-10T19:41:24.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lly-available-on-desktop-c5435f93118952b6",
+        "title": "Amazon Quick 桌面版现已正式可用",
+        "originalTitle": "Amazon Quick is now generally available on desktop",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T18:16:37.000Z",
+        "pubTime": "2026-09-11 02:16",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/ML-21220-4.jpg",
+        "fullContent": "Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private\n\nToday, the Amazon Quick desktop application is generally available on macOS and Windows. We’re also adding a new activity feed to the mobile experience on iOS and Android that consolidates email, calendar, CRM, and messaging into one prioritized view, showing your teams the decisions that need them while agents resolve the routine items in the background, so they spend less time sorting through updates and more time on high-value work.\n\nEnterprise IT organizations face a compounding problem: the tools your teams need to stay productive are multiplying, and so is the shadow AI risk that comes with them. When people work around approved systems to get things done faster, governance breaks down, data leaves controlled environments, and IT loses visibility. The answer is not to restrict AI access but to give teams an enterprise-grade AI assistant built for work, on infrastructure IT already controls. Quick runs on AWS, the same infrastructure behind the most security-sensitive workloads on the planet. Your data stays in your environment, your conversations remain private, and everything is auditable. Full audit trails are available through Amazon CloudWatch and AWS CloudTrail. The compliance certifications your security team requires (HIPAA, FedRAMP, SOC 2, and ISO 27001) are built in from day one.\n\nCustomers across manufacturing, healthcare, and sports have been using Quick on desktop during preview—asking complex questions in natural language and getting grounded, trustworthy answers in seconds, cutting time-to-insight significantly while keeping governance and accuracy built in from the start.\n\nFor organizations managing knowledge workers across hundreds of roles and workflows, the capacity equation matters too. Business goals keep growing, but the hours in a day do not. Most of the time that should go to high-judgment work gets consumed by pulling information together, chasing follow-ups, and assembling deliverables. Quick changes that equation by providing a thought partner that knows your context, builds what you need, and takes action on your behalf. Quick also gives your team a shared workspace where the dashboards, agents, and automations one person builds are available to the whole team.\n\nHere is what Quick looks like across a real workday, from delegating meeting prep on a laptop to triaging priorities on a phone and following up after the workday ends.\n\nHere, an enterprise account executive at a manufacturing company uses Quick to dramatically simplify prep for a key customer meeting—typing a single request and letting Quick assemble the brief in the background\n\nFocus on what matters, not what’s loudest\n\nMost work tools generate a firehose of notifications. Quick’s activity feed does the opposite: it consolidates signals from email, messaging, CRM, and calendar into one prioritized view. Items agents resolve on their own disappear. What remains is a short queue of things only you can act on, and the feed gets smarter over time. Quick learns your relationships, priorities, and patterns, so it surfaces what matters most, not just what arrived most recently.\n\nHere, the same rep triages her morning from her phone, approving an addition to her meeting brief and responding to a pipeline review request for her VP, without opening another app.\n\nFor teams operating at enterprise scale, that prioritization is what turns a firehose of updates into a clear path forward:\n\n“At Southwest Airlines, we’re building agentic AI tools and autonomous agents to streamline operations across our 70,000+ Employees and enhance the experience for the millions of Customers we serve every day. Amazon Quick Desktop gives our teams the ability to ask complex questions in natural language and get grounded, trustworthy answers in seconds instead of waiting on ad hoc report requests. Our developers build once and deploy intelligent experiences across the enterprise, with governance and accuracy baked in from the start. Quick cuts time-to-insight significantly and is already powering high-impact use cases across the organization including market analytics. It’s become the foundation of how we put AI-driven intelligence directly into the hands of our People.”\n\n-Justin Bundick, VP Technology Intelligence Platforms, Southwest Airlines\n\nFrom meeting to momentum\n\nMost AI tools answer questions. Quick completes tasks by synthesizing information across systems, drafting deliverables, updating records, and executing follow-ups on behalf of your team. Teams do not get a summary of what they could do. They get finished output, ready for review.\n\nHere, she picks up on her laptop where she left off on mobile—reviewing the completed work in mission control and sharing the finished brief with her account team.\n\nEarly customers point to that shift from answers to finished work as the thing that changes how their teams operate:\n\n“We’ve been evaluating Amazon Quick ahead of its general availability launch, and the adoption was easy. Clean design, intuitive experience, and the knowledge graph and memory adapt to the way you work. You can create agents that run asynchronously on your behalf and go from concept to working prototype in a fraction of the time. Quick is becoming a force multiplier that frees you to focus on higher-value work.”\n\n— Chuck Metturdharma, VP & Chief AI Officer, LabCorp\n\nThe work follows through, even when you don’t have time\n\nQuick is built on the tools, systems, and infrastructure your organization already runs on. There is no migration, no new ecosystem to adopt. It connects to what you have and starts delivering value on day one.\n\nHere, after the meeting, she wraps the day from her phone, having Quick refine and send a customer follow-up, then queue up the next morning’s materials for engineering.\n\nEvery decision stays yours while Quick handles the rest.\n\nWhether you’re an IT leader, account executive, a program manager juggling cross-functional launches, or a finance lead closing the books, Quick works the way you do, across every device, on your schedule. You bring the judgment; Quick gives your teams the capacity to match their goals.\n\nThat capacity shows up differently for every team, but the pattern is the same: people spend less time on setup and more time acting on what they know:\n\n“Amazon Quick allows our domain experts—the people who know golf and our data best—to do work that used to sit in a technical backlog. We’ve prototyped working systems in days instead of weeks. When an idea proves out, they can hand our engineering team well-documented, validated requirements instead of a rough concept, so development starts from a proven foundation. And with it on mobile, they can act on an idea the moment it hits instead of waiting until they are back at a computer.”\n\n— Randall Kato, VP Golf Technology, PGA TOUR\n\nThese are the kinds of results customers are already achieving with Quick, and they represent what becomes possible when your team can delegate the routine and focus on the work that moves the business.\n\nSpencer has spent six years at AWS translating complex technology into stories that resonate with customers. He previously led product marketing for SAP on AWS, helping enterprises modernize their critical ERP workloads in the cloud. Now he’s focused on Amazon Quick — building GTM strategies that help customers work smarter by taking advantage of the latest advancements in AI. Spencer lives in Seattle, spending his spare time pursuing rare birds and training his dog.\n\nChris is a Principal GenAI/ML Specialist Solutions Architect on the Amazon Quick team. He has over 25 years of enterprise software development experience. Chris enjoys gardening, cooking, aerospace/general aviation, and traveling the world.\n\nRamon is a Principal Solutions Architect for Amazon Quick. With many years of experience building BI solutions and a background in accounting, he loves working with customers, creating solutions, and making world-class services. When not working, he prefers to be outdoors in the ocean or up on a mountain.",
+        "fullTranslation": "让您的团队拥有一个能处理实际工作的 AI 助手，同时确保数据保留在您的环境中且对话完全私密\n\n今天，Amazon Quick 桌面客户端已在 macOS 和 Windows 平台正式发布（GA）。我们还在 iOS 和 Android 移动端新增了动态信息流（activity feed），将电子邮件、日历、CRM 和即时通讯整合到一个按优先级排列的视图中，向您的团队展示需要他们拍板的决策，而智能体（agent）则在后台处理日常事务，从而让他们减少梳理更新的时间，把更多精力放在高价值工作上。\n\n企业 IT 组织正面临一个复合型难题：团队保持高效所需的工具不断增多，随之而来的“影子 AI”（shadow AI）风险也愈发严峻。当员工绕过经批准的系统以求更快完成工作时，治理体系就会瓦解，数据会脱离受控环境，IT 部门也将失去掌控力。解决之道不是限制 AI 的使用，而是在 IT 部门已掌控的基础设施上，为团队提供专为工作打造的企业级 AI 助手。Quick 运行在 AWS 之上——这也是承载全球对安全性要求最严苛工作负载的同一套基础设施。您的数据保留在自身环境中，对话始终保密，且一切皆可审计。通过 Amazon CloudWatch 和 AWS CloudTrail 可获取完整的审计追踪。您的安全团队所要求的合规认证（HIPAA、FedRAMP、SOC 2 和 ISO 27001）从第一天起就已原生内置。\n\n在预览版期间，制造、医疗和体育等多个行业的客户一直在桌面端使用 Quick——用自然语言提出复杂问题，并在数秒内获得有理有据、值得信赖的解答，在从一开始就内置治理与准确性的同时，大幅缩短获取洞见所需的时间。\n\n对于管理横跨数百种角色与工作流的知识工作者的组织而言，产能方程式同样至关重要。业务目标不断攀升，但一天的时间却不会增加。原本应投入到高阶研判工作的大部分时间，都被收集信息、跟进事项和整合交付物所消耗。Quick 改变了这一方程式，它提供了一个了解您的业务上下文、构建您所需内容并能代表您采取行动的思考伙伴。Quick 还为您的团队提供了一个共享工作区，一人构建的仪表板、智能体和自动化流程，整个团队皆可使用。\n\n以下是 Quick 在真实工作日中的应用场景：从在笔记本电脑上委托会议准备工作，到在手机上分选优先级事项，再到工作日结束后的后续跟进。\n\n在这里，一家制造企业的企业客户经理使用 Quick 大幅简化了一场关键客户会议的准备工作——只需输入一条请求，便由 Quick 在后台自动整合汇报提纲。\n\n聚焦要务，而非声量最大的杂音\n\n大多数办公工具都会产生如潮水般的通知。Quick 的动态信息流则恰恰相反：它将来自电子邮件、即时通讯、CRM 和日历的信号汇总为一个按优先级排序的视图。智能体自行解决的事项会直接隐去。剩下的则是一个精简的待办队列，仅包含只有您能处理的事情，且该动态流会随着时间推移越用越聪明。Quick 会学习您的人际网络、优先级和工作习惯，因此它呈现的是最重要的内容，而不仅仅是最新收到的消息。\n\n在这里，同一位业务代表在手机上开启并处理晨间事务，批准了一项对其会议提纲的补充，并回复了副总裁发来的销售商机审查请求，全程无需打开其他应用程序。\n\n对于企业级规模运作的团队而言，这种优先级排序能将排山倒海般的更新转变为一条清晰的前行路径：\n\n“在西南航空（Southwest Airlines），我们正在构建智能体驱动的 AI 工具和自主智能体，以简化遍布我们 70,000 多名员工的操作流程，并提升我们每天服务的数百万客户的体验。Amazon Quick 桌面版让我们的团队能够使用自然语言提出复杂问题，并在数秒内获得有依据、可信赖的答案，而无需等待临时报告请求。我们的开发人员只需构建一次，即可在整个企业范围内部署智能化体验，从一开始就融入了治理和准确性。Quick 大幅缩减了洞见获取时间，并且已经在推动整个组织内包括市场分析在内的高影响力用例。它已成为我们直接向员工赋予 AI 驱动智能的基础。”\n—— Justin Bundick，西南航空技术智能平台副总裁\n\n从会议落实为推进势头\n\n大多数 AI 工具只是回答问题。Quick 则通过跨系统综合信息、起草交付物、更新记录并代表您的团队执行后续跟进，从而完成具体任务。团队得到的不是一份关于‘可以做什么’的总结，而是拿来即用、可供审核的最终成果。\n\n在这里，她在笔记本电脑上无缝接续此前在手机上未完成的工作——在控制中心审核已完成的工作，并将最终定稿的提纲分享给客户团队。\n\n早期客户指出，这种从‘提供答案’到‘交付成品’的转变，正是彻底改变他们团队运作方式的关键：\n\n“我们在 Amazon Quick 正式发布前就一直在对其进行评估，其采纳推广非常顺畅。设计简洁明了，体验直观自然，知识图谱和记忆功能能够自适应您的工作方式。您可以创建代表您异步运行的智能体，并在极短时间内将构想转化为可用原型。Quick 正在成为一种力量倍增器，让您能够腾出精力专注于更高价值的工作。”\n—— Chuck Metturdharma，LabCorp 副总裁兼首席 AI 官\n\n即使您无暇顾及，工作依然稳步推进\n\nQuick 基于贵组织已在运行的工具、系统和基础设施构建而成。无需数据迁移，也无需采纳新的生态系统。它能直接连接您现有的系统，并在首日即开始产生价值。\n\n在这里，会议结束后，她在手机上为一天的工作收尾，让 Quick 优化并发送客户跟进邮件，随后为工程团队排期准备好次日清晨的材料。\n\n每一项决策仍由您掌控，其余繁杂事务交由 Quick 处理。\n\n无论您是 IT 主管、客户经理、协调跨职能项目发布的项目经理，还是正在结账的财务主管，Quick 都能配合您的工作习惯，跨越各类设备，按您的日程节奏协同运作。您负责做出研判；Quick 为您的团队赋予足以匹敌业务目标的充沛产能。\n\n这种产能在每个团队中的展现形式各不相同，但其模式始终如一：员工在繁琐准备上花费的时间更少，而能将更多时间用于将专业认知付诸行动：\n\n“Amazon Quick 让我们的领域专家——那些最了解高尔夫运动和我们数据的人——能够去完成以往积压在技术待办列表中的工作。我们在数天内便能构建出可用系统的原型，而以往这需要数周。当一个想法得到验证时，他们可以向我们的工程团队交付文档完备、经过验证的需求，而不是一个粗糙的概念，从而让开发始于可靠的基础之上。而且通过移动端支持，他们在灵感闪现的那一刻就能立即付诸行动，而无需等到回到电脑前。”\n—— Randall Kato，美巡赛（PGA TOUR）高尔夫技术副总裁\n\n这些正是客户目前通过 Quick 所取得的成效，它们展现了当您的团队能够委派日常繁琐工作并专注于推动业务发展的核心工作时所能实现的潜能。\n\nSpencer 在 AWS 工作了六年，致力于将复杂的技术转化为能与客户产生共鸣的故事。他此前曾领导 AWS 上的 SAP 产品营销，帮助企业将其关键的 ERP 工作负载在云中实现现代化。现在，他专注于 Amazon Quick——制定进入市场（GTM）策略，通过利用人工智能的最新进展帮助客户更明智地开展工作。Spencer 现居西雅图，闲暇时喜欢寻觅珍稀鸟类并训练他的宠物狗。\n\nChris 是 Amazon Quick 团队的首席生成式人工智能/机器学习（GenAI/ML）专家解决方案架构师。他拥有超过 25 年的企业软件开发经验。Chris 热爱园艺、烹饪、航空/通用航空以及环游世界。\n\nRamon 是 Amazon Quick 的首席解决方案架构师。凭借多年构建商业智能（BI）解决方案的经验以及会计背景，他热衷于与客户合作、打造解决方案并提供世界级的服务。工作之余，他更喜欢置身于户外的海洋或高山之中。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 28,
+        "keyTakeaways": [
+          "Amazon Quick 桌面端应用程序现已在 macOS 和 Windows 系统上正式全面推出（Generally Available）。",
+          "Amazon Quick 在 iOS 和 Android 移动端新增了动态消息（activity feed）功能，整合了电子邮件、日历、CRM 和消息通知。",
+          "来源叙事重点：宣布企业级 AI 助手 Amazon Quick 桌面端正式在 macOS 和 Windows 全面可用（GA），并在移动端引入跨系统活动流；核心叙事强调其凭借 AWS 基础设施解决“影子 AI”合规与治理痛点，主打从“回答问题”转变为“直接生成交付物”的自主代理能力，并通过西南航空、LabCorp、美巡赛等大型客户证言论证业务降本增效价值。"
+        ],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T18:16:37.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/"
+          }
+        ]
+      },
+      {
+        "id": "story-eres-what-to-expect-html-81619456fd747a90",
+        "title": "周五的CPI通胀报告比以往更为关键：以下是前瞻要点",
+        "originalTitle": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:18:05.000Z",
+        "pubTime": "2026-09-11 03:18",
+        "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
+        "imageUrl": null,
+        "fullContent": "A report due out Friday morning will be the last piece of the inflation puzzle the Federal Reserve will get before making its decision on interest rates next week.\n\nThe Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.\n\nIf the Dow Jones consensus is correct, the report will show that costs for all measured goods and services rose 0.4% last month, putting the annual inflation rate at 3.4%. However, excluding food and energy prices, the respective outlooks for core inflation are 0.2% and 2.4%.\n\nCombined with Thursday's producer price index data — a measure of wholesale inflation — the CPI will help tell Fed officials what their primary inflation gauge, the personal consumption expenditures price index, will show when it is released at the end of September.\n\nThe information also is expected to figure heavily into the Federal Open Market Committee's interest rate call next Wednesday, with a percentage point either way possibly meaning the difference between a hold and a hike.\n\n\"The September FOMC decision ultimately hinges on the CPI data ... since a majority of PCE components are derived from CPI,\" Nomura economists said in a note. \"Currently, we maintain our Fed call of no rate hike at the September FOMC meeting. However, if August CPI data, especially PCE-relevant components, surprises to the upside, that would significantly increase the likelihood of policy firming next week.\"\n\nFollowing Thursday's PPI release, traders raised the odds for a quarter percentage point increase to more than 73%, according to the CME Group's FedWatch gauge of futures prices.\n\nHowever, expectations have been volatile and highly dependent on data as well as fluctuating energy prices, making the stakes for Friday's release even higher. Fed Chair Kevin Warsh has indicated a reliance on market indicators for direction on monetary policy.\n\n\"The September Fed decision looked finely balanced at the turn of the month. September's surge in energy prices will likely tip the balance towards a hike when the Fed meets next week,\" said Bill Adams, chief U.S. economist at Fifth Third Commercial Bank. \"A big surprise from the August CPI report's release tomorrow or a last-minute deal with Iran could still influence the decision.\"\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "定于周五早晨发布的一份报告，将成为美联储下周就利率做出决定前所能获取的最后一块通胀拼图。\n\n美国劳工统计局将于美国东部时间上午8:30发布8月份消费者价格指数（CPI）报告。\n\n如果道琼斯共识预期准确，该报告将显示上个月所有被统计的商品和服务成本上涨了0.4%，使年化通胀率达到3.4%。然而，若剔除食品和能源价格，核心通胀率的环比和同比预期分别为0.2%和2.4%。\n\n结合周四公布的衡量批发通胀水平的生产者价格指数（PPI）数据，CPI将有助于美联储官员提前研判其首选通胀指标——个人消费支出（PCE）价格指数在9月底公布时将呈现出怎样的态势。\n\n这些信息预计还将对联邦公开市场委员会（FOMC）下周三的利率决定产生重大影响，哪怕只差几个百分点，都可能决定美联储究竟是按兵不动还是加息。\n\n野村证券经济学家在一份报告中表示：“9月FOMC的决定最终取决于CPI数据……因为PCE的大部分组成成分都来自CPI。目前，我们维持对9月FOMC会议不加息的预期。然而，如果8月CPI数据（尤其是与PCE相关的分项）意外上行，那将大幅增加下周收紧政策的可能性。”\n\n据芝商所（CME Group）的FedWatch期货价格衡量指标显示，在周四PPI数据公布后，交易员对加息25个基点的押注概率升至73%以上。\n\n然而，市场预期波动剧烈，高度依赖经济数据以及波动的能源价格，这使得周五公布的数据承载了更高的利害关系。美联储主席凯文·沃什（Kevin Warsh）已暗示在货币政策方向上依赖市场指标。\n\n“在月初时，美联储9月的决议看起来还处于微妙的平衡状态。但9月能源价格的飙升，可能会在美联储下周开会时将天平倾向加息一侧，”五三商业银行（Fifth Third Commercial Bank）首席美国经济学家比尔·亚当斯（Bill Adams）表示，“明天公布的8月CPI报告带来的巨大意外，或者在最后一刻与伊朗达成协议，仍可能左右这一决定。”\n\n有独家新闻线索？我们期待倾听您的声音。\n\n获取直接投递至您收件箱的内容，以及更多关于我们产品与服务的信息。\n\n数据为实时快照 *数据延迟至少15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。\n\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "美国劳工统计局将于周五上午8:30公布8月份消费者物价指数（CPI）报告。",
+          "道琼斯普遍预期显示，8月所有衡量商品和服务的成本将环比上涨0.4%，同比通胀率为3.4%；剔除食品和能源的核心通胀预期环比为0.2%，同比为2.4%。",
+          "来源叙事重点：聚焦即将公布的8月CPI数据对美联储9月利率决策的关键影响，结合PPI超预期及能源价格飙升，突出市场押注加息的紧绷预期与政策决议对数据的高度依赖"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:18:05.000Z",
+            "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html"
+          }
+        ]
+      },
+      {
+        "id": "story-otes-published-16-0-4-md-fa7bd8e6fd84b6ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T17:40:19.000Z",
+        "pubTime": "2026-09-11 01:40",
+        "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-11 01:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+            "publishedAt": "2026-09-10T17:40:19.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-r-children-seeks-freedom-7bd74ffb5c8a6f50",
+        "title": "林赛·克兰西案流审数日后，另一名被控杀害子女的马萨诸塞州母亲寻求重获自由",
+        "originalTitle": "Days after Lindsay Clancy mistrial, another Massachusetts mom accused of killing her children seeks freedom",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:43:51.000Z",
+        "pubTime": "2026-09-11 03:43",
+        "url": "https://www.foxnews.com/us/days-after-lindsay-clancy-mistrial-another-massachusetts-mom-accused-killing-her-children-seeks-freedom",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/janette-macausland-split.jpeg?ve=1&tl=1",
+        "fullContent": "If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).\n\nLess than a week after the closely watched Lindsay Clancy murder trial ended in a mistrial, another Massachusetts case involving a mother accused of killing her children returned to court Thursday as the defense sought to have the charges dismissed after prosecutors said they were still awaiting the medical examiner's findings.\n\nProsecutors told the court they are still awaiting the Office of the Chief Medical Examiner's official determination of the children's cause and manner of death, prompting defense attorney Joseph Krowski to ask that the case be dismissed or that Janette MacAusland be released on bail, WCVB reported.\n\nA judge denied both requests, ordering MacAusland to remain held without bail.\n\nLINDSAY CLANCY MISTRIAL DECLARED AFTER JURY DEADLOCKS IN KILLINGS OF HER THREE CHILDREN\n\nFox News Digital has reached out to Krowski and the Norfolk District Attorney's Office for comment.\n\nMacAusland, 49, is charged with two counts of murder in the deaths of her 7-year-old son, Kai, and 6-year-old daughter, Ella, who were found dead inside the family's Wellesley home in April after police conducted a welfare check.\n\nMOTHER FROM AFFLUENT BOSTON SUBURB ACCUSED OF MURDERING TWO CHILDREN DURING CUSTODY DISPUTE\n\nWhile Clancy's case centered on whether postpartum psychosis rendered her legally insane, no such defense has been announced in MacAusland's case, which remains in its early stages.\n\nLINDSAY CLANCY VERDICT: RETIRED JUDGE EXPLAINS WHAT HAPPENS IF INSANITY DEFENSE PREVAILS\n\nMacAusland was arrested in Bennington, Vermont, after arriving at a relative's home with what police described as a bloody neck wound.\n\nFOLLOW THE FOX TRUE CRIME TEAM ON X\n\nSIGN UP TO GET THE LATEST TRUE CRIME NEWS\n\nPolice said officers in Vermont became concerned about the welfare of MacAusland's children and contacted authorities in Wellesley, where officers found Kai and Ella dead inside the family's home.\n\nLIKE WHAT YOU'RE READING? CLICK HERE FOR MORE\n\nAn arrest affidavit previously obtained by Fox News Digital alleges MacAusland confessed to killing the children after arriving at her aunt's home.\n\nAccording to the affidavit, MacAusland told her aunt she had wanted \"the three of us to go to God together\" before later telling police she had strangled the children and attempted to take her own life.\n\nLISTEN TO THE NEW 'CRIME & JUSTICE WITH DONNA ROTUNNO' PODCAST\n\nThe affidavit alleges MacAusland told officers the children could be found in her bed at the family's Massachusetts home.\n\nILLINOIS MOTHER CHARGED WITH MURDER IN DEATH OF 2-YEAR-OLD SON IN CASE DRAWING COMPARISONS TO LINDSAY CLANCY\n\nCourt records previously reviewed by Fox News Digital show MacAusland's husband filed for divorce months before the killings, citing an irretrievable breakdown of the marriage and seeking custody of the couple's two children.\n\nGET BREAKING NEWS BY EMAIL\n\nMacAusland remains jailed without bail as prosecutors await the medical examiner's findings and the case moves forward.\n\nFox News Digital's Peter D'Abrosca contributed to this report.",
+        "fullTranslation": "如果您或您认识的人正在经历自杀念头，请拨打国家自杀预防生命热线 1-800-273-TALK (8255)。\n\n在备受关注的林赛·克兰西（Lindsay Clancy）谋杀案审判以流审告终不到一周后，马萨诸塞州另一起涉及母亲被控杀害亲生子女的案件于周四重返法庭。因检方表示仍在等待法医的鉴定结果，辩方随即寻求撤销对她的指控。\n\n据WCVB报道，检方向法庭表示，他们仍在等待法医主任办公室对孩子们死因及死亡方式的官方认定，这促使辩护律师约瑟夫·克罗斯基（Joseph Krowski）要求撤案，或准予珍妮特·麦考斯兰（Janette MacAusland）保释。\n\n法官驳回了这两项请求，下令继续对麦考斯兰进行不得保释的拘押。\n\n【相关阅读：陪审团就杀害三子女案陷入僵局，林赛·克兰西案宣布流审】\n\n福克斯数字新闻（Fox News Digital）已联系克罗斯基以及诺福克县地方检察官办公室以寻求置评。\n\n49岁的麦考斯兰被控两项谋杀罪，罪名涉及其7岁儿子凯（Kai）和6岁女儿埃拉（Ella）的死亡。今年4月，警方在进行福利检查后，在位于韦尔斯利（Wellesley）的家中发现了这两个孩子的尸体。\n\n【相关阅读：波士顿富裕郊区母亲在监护权纠纷期间被控谋杀两名亲生子女】\n\n克兰西案的焦点在于产后精神错乱是否让她在法律意义上丧失了刑事责任能力，而在麦考斯兰一案中，尚未宣布采取此类辩护理由，该案目前仍处于初期阶段。\n\n【相关阅读：林赛·克兰西案判决：退休法官解释精神错乱辩护若成立将发生什么】\n\n麦考斯兰在佛蒙特州本宁顿被捕，此前她赶往一名亲戚家中，警方称她抵达时颈部有带血伤口。\n\n【相关阅读：在X平台关注福克斯真实犯罪团队】\n\n警方表示，佛蒙特州的警察对麦考斯兰的孩子们的安危感到担忧，遂联系了韦尔斯利当局，随后当地警官在一家人的住宅内发现了凯和埃拉的遗体。\n\n【相关阅读：喜欢你正在阅读的内容吗？点击此处获取更多】\n\n福克斯数字新闻此前获得的一份逮捕宣誓书指称，麦考斯兰在到达其姑母家后承认杀害了孩子们。\n\n宣誓书显示，麦考斯兰曾告诉其姑母，她原本希望“我们三个人一起去见上帝”，随后向警方交代自己勒死了孩子们并企图自杀。\n\n【相关阅读：收听全新播客《与唐娜·罗图诺探讨犯罪与司法》】\n\n该宣誓书还指称，麦考斯兰告诉警察，孩子们就在马萨诸塞州家中的她的床上。\n\n【相关阅读：伊利诺伊州一母亲被控谋杀2岁儿子，案件引发与林赛·克兰西案的比对】\n\n福克斯数字新闻此前查阅的法庭记录显示，麦考斯兰的丈夫在杀戮发生前数月提出了离婚申请，理由是婚姻关系已无可挽回地破裂，并寻求争夺两人两个孩子的监护权。\n\n【相关阅读：通过电子邮件获取突发新闻】\n\n随着检方等待法医的鉴定结果以及案件继续推进，麦考斯兰目前仍被收押，不得保释。\n\n福克斯数字新闻的彼得·达布罗斯卡（Peter D'Abrosca）对本报道亦有贡献。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 23,
+        "keyTakeaways": [
+          "Lindsay Clancy谋杀案审判在不足一周前因陪审团陷入僵局以流审告终。",
+          "49岁的马萨诸塞州母亲Janette MacAusland被控两项谋杀罪，涉嫌杀害其7岁儿子Kai和6岁女儿Ella。",
+          "来源叙事重点：报道聚焦于将马萨诸塞州母亲Janette MacAusland杀子案与刚发生流审的Lindsay Clancy案进行对比联动，突出辩方在法医报告未出之际要求撤案或保释被拒的司法交锋，并详细复盘案发细节（涉嫌勒死两名子女、企图自杀、抚养权纠纷）。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:43:51.000Z",
+            "url": "https://www.foxnews.com/us/days-after-lindsay-clancy-mistrial-another-massachusetts-mom-accused-killing-her-children-seeks-freedom"
+          }
+        ]
+      },
+      {
+        "id": "story-ativity-is-your-new-moat-ebb53a4f1e6d87f8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Genuine Creativity Is Your New Moat (2026)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:03:34.000Z",
+        "pubTime": "2026-09-11 03:03",
+        "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+        "imageUrl": null,
+        "fullContent": "Thoughts? Email me at [email protected]—I may publish thoughtful replies.\n\nNo comments yet. Be the first to share your thoughts!",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-11 03:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+            "publishedAt": "2026-09-10T19:03:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-o-fuel-and-food-663f294d-1a489c35105327e3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "It’s not just Hormuz. Another war is providing fresh price shocks to fuel and food.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:38:00.000Z",
+        "pubTime": "2026-09-11 03:38",
+        "url": "https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The Middle East conflict overshadows outages in Russia and a ‘massive impact’ on diesel supplies",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 03:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T19:38:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--wrongful-arrest-tied-to-327f356da72a6124",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Florida woman sues over wrongful arrest tied to Flock camera data",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T18:21:42.000Z",
+        "pubTime": "2026-09-11 02:21",
+        "url": "https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/",
+        "imageUrl": "https://external-preview.redd.it/LoG7GM1JR_n4AgnUDfE9ZEeE7MXKN5KsDcmReM_JSwg.jpeg?width=640&crop=smart&auto=webp&s=2de0712bb11b4cfebef13f205442fa1aa179837f",
+        "fullContent": "submitted by /u/consultinglove [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-11 02:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/",
+            "publishedAt": "2026-09-10T18:21:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-schooling-million-html-4bcdabecac1787f1",
+        "title": "2025年气候灾害导致全球逾1.71亿学生学业受阻",
+        "originalTitle": "Climate hazards disrupted schooling for more than 171 million students in 2025",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:40:15.000Z",
+        "pubTime": "2026-09-11 03:40",
+        "url": "https://phys.org/news/2026-09-climate-hazards-disrupted-schooling-million.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-than-171-million.jpg",
+        "fullContent": "edited by Swati Mestri, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nMore than 171 million students globally—or 1 in 10—from preprimary to upper secondary age had their schooling disrupted by climate hazards in 2025, according to a new analysis released by UNICEF today.\n\n\"Learning Interrupted: Global Snapshot of Climate-Related School Disruptions in 2025\" analyzes data from 106 countries or territories and finds that climate hazards including storms, floods, heat waves, droughts and wildfires led to suspended classes, damaged schools, a shift to remote learning, shortened instructional time, reduced school attendance and increased risk of dropout for millions of students worldwide.\n\n\"For millions of children, climate hazards do more than disrupt lessons: They destroy schools, uproot families and push the most vulnerable children, especially girls, out of the classroom for good,\" said UNICEF Executive Director Catherine Russell.\n\nAccording to the analysis, storms were the most common cause of school disruptions last year, affecting 109 million students globally. Floods affected at least 70 million students, while heat waves disrupted schooling for approximately 50 million children.\n\n\"My school is right next to a creek, and when there is flooding, the water rises and flows into the school,\" said 16-year-old Taudibura Garo from Papua New Guinea, where El Niño conditions are expected to increase the risk of extreme weather in the coming months.\n\n\"Usually, the water comes up to our knees and floods the pit toilets, then it becomes unhealthy for us to stay at school, and we miss the lessons we are supposed to learn.\"\n\nWhile students across all income levels were affected by disruptions, three-quarters of affected students live in low- and lower-middle-income countries, where education systems often lack the resources needed to safeguard learning during climate-related emergencies.\n\nIn Pakistan, for example—one of the most affected countries in the analysis—severe monsoon floods in August delayed the return to school for more than 28 million students, making it one of the largest climate-related education disruptions recorded in 2025. In Egypt, a powerful Khamsin wind and dust storm prompted a nationwide suspension of classes for one day in April, also affecting more than 28 million students.\n\nAccording to the data, 40 countries experienced multiple rounds of climate-related school disruptions throughout the year. Madagascar, for example, faced rounds of drought, tropical cyclones and floods affecting 280,000 students during the year.\n\nIn Spain, more than 500,000 students in the Valencian Community were affected by storms in March, followed by post-tropical Cyclone Gabrielle in September. For thousands of students across the rest of the country, extreme heat disrupted classes in May and June, and Storm Alice affected schooling in October.\n\nLearning losses and higher school dropout rates can reduce workforce productivity, slow economic growth and make it harder for countries to reduce poverty. The report finds that inaction could result in a potential loss of at least US$200 billion in lifetime earnings for students who experienced climate-related school disruptions in 2025.\n\nGirls are at greater risk of dropping out when climate hazards disrupt or close schools. Damage to schools and sanitation facilities, displacement and lost family income can place additional caregiving and water-collection responsibilities on girls. These pressures can also increase the risk of child marriage, making it more difficult for girls to return to class when schools reopen.\n\nAt the same time, the report highlights practical solutions that are already helping protect learning from climate hazards, including integrating climate resilience into national education planning, strengthening school infrastructure, ensuring learning continuity during and after disruptions and embedding climate education into curricula to equip children and young people with the skills needed to adapt to a changing world.\n\nBuilding on these proven approaches, UNICEF is calling on governments and partners to scale up efforts and protect education from the worst impacts of climate hazards by:\n\n\"Climate hazards threaten children's lives and futures,\" said Russell. \"To protect education for children today and for future generations, we must invest in schools and education systems that are built to withstand climate shocks.\"\n\nReport: www.unicef.org/reports/learning-interrupted\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "责任编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：罗伯特·伊根（Robert Egan）\n本文已根据Science X的编辑流程和政策进行审校。编辑在确保内容可信度的同时着重强调了以下特质：\n\n联合国儿童基金会（UNICEF）今日发布的一项最新分析显示，2025年全球有超过1.71亿名从学前教育到高中阶段的学生（相当于每10人中就有1人）因气候灾害导致学业中断。\n\n这份题为《被打断的学习：2025年气候相关学校中断事件全球快照》（Learning Interrupted: Global Snapshot of Climate-Related School Disruptions in 2025）的报告分析了来自106个国家或地区的数据。报告发现，包括风暴、洪水、热浪、干旱和野火在内的气候灾害导致全球数百万学生停课、校舍受损、被迫转向远程学习、教学时间缩短、出勤率下降以及辍学风险加剧。\n\n联合国儿童基金会执行主任凯瑟琳·拉塞尔（Catherine Russell）表示：“对数百万儿童而言，气候灾害不仅打乱了日常课程：它们还会摧毁学校、使家庭流离失所，并迫使最弱势的儿童（尤其是女童）永远离开课堂。”\n\n根据该项分析，风暴是去年导致学校中断的最常见原因，波及全球1.09亿名学生。洪水影响了至少7000万名学生，而热浪则导致约5000万名儿童的学业受阻。\n\n“我的学校紧挨着一条小溪，一旦发生洪水，水就会暴涨并倒灌进学校，”来自巴布亚新几内亚的16岁少年陶迪布拉·加罗（Taudibura Garo）说道。预计在接下来的几个月里，厄尔尼诺现象将加剧该国遭遇极端天气的风险。\n\n“通常，积水会没过我们的膝盖并淹没旱厕，那样留在学校就会变得很不卫生，我们也因此错过了原本该上的课。”\n\n尽管所有收入阶层的学生都受到了学业中断的影响，但受波及的学生中有四分之三生活在低收入和中低收入国家。在这些地区，教育系统往往缺乏在气候紧急情况下保障学习连续性所需的资源。\n\n例如，在受影响最严重的国家之一巴基斯坦，8月份严重的季风洪灾导致超过2800万名学生推迟返校，这是2025年记录在案的因气候引发的最大规模教育中断事件之一。在埃及，4月份一场强烈的五旬风（Khamsin）沙尘暴导致全国停课一天，同样影响了逾2800万名学生。\n\n数据显示，全年有40个国家经历了多轮与气候相关的学校中断。以马达加斯加为例，该国年内遭遇了数轮干旱、热带气旋和洪灾，波及28万名学生。\n\n在西班牙，巴伦西亚自治区有超过50万名学生在3月遭遇风暴袭击，随后又在9月受到后热带气旋“加布里埃尔”（Gabrielle）的影响。对于该国其他地区的成千上万名学生而言，极端高温打乱了5月和6月的课程，而10月的“爱丽丝”（Alice）风暴也对教学造成了干扰。\n\n学业损失和辍学率攀升会降低劳动力生产率、延缓经济增长，并使各国更难消除贫困。报告指出，如果不采取行动，2025年经历过气候相关学校中断的学生终身收入可能面临至少2000亿美元的潜在损失。\n\n当气候灾害导致学校中断或关闭时，女童辍学的风险更高。学校设施和卫生条件的损毁、流离失所及家庭收入减少，可能会给女童带来额外的照护和取水负担。这些压力还会增加童婚风险，使女童在学校复课后更难重返课堂。\n\n与此同时，该报告重点介绍了已经有助于保护学业免受气候灾害影响的切实可行的解决方案，包括将气候适应能力纳入国家教育规划、加固学校基础设施、确保在灾害期间及之后的学习连续性，以及将气候教育融入课程，为儿童和青年人提供适应不断变化的世界所需的技能。\n\n立足于这些行之有效的方法，联合国儿童基金会呼吁各国政府及合作伙伴加大力度，保护教育免受气候灾害的最严重冲击，具体措施包括：\n\n“气候灾害正在威胁儿童的生命与未来，”拉塞尔说。“为了保护当今儿童及子孙后代的教育权利，我们必须投资于能够抵御气候冲击的学校和教育体系。”\n\n报告链接：www.unicef.org/reports/learning-interrupted\n\n斯瓦蒂·梅斯特里拥有电子工程学士学位，自2019年起担任内容编辑。她在科技、医疗保健和材料科学领域的研究文献编辑方面经验丰富，对科技与航天领域尤为关注。查看完整简介 →\n拥有数学生物学学士学位及创意写作硕士学位。游历广泛，在科学与语言方面具有独到见解。查看完整简介 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "2025年，全球学前至高中年龄段有超过1.71亿（约十分之一）学生因气候灾害导致学业中断。",
+          "UNICEF发布的《Learning Interrupted》报告分析了来自106个国家或地区的数据。",
+          "来源叙事重点：聚焦极端气候灾害对全球教育体系造成的系统性冲击，着重呈现学业中断的庞大人口规模（1.71亿）、低收入国家的脆弱性以及对女童辍学和长期经济产出的负面连锁反应，旨在倡导将气候韧性纳入国家教育规划与基础设施投资"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:40:15.000Z",
+            "url": "https://phys.org/news/2026-09-climate-hazards-disrupted-schooling-million.html"
+          }
+        ]
+      },
+      {
+        "id": "story-0-izrail-2116926099-html-7cdead2319c5fc96",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Президент Израиля поздравил евреев с Новым годом на русском при помощи ИИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T19:42:36.000Z",
+        "pubTime": "2026-09-11 03:42",
+        "url": "https://ria.ru/20260910/izrail-2116926099.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/154809/38/1548093869_0:149:2859:1757_650x0_80_0_0_e06bbb4f12f870865cac27e08e0d2197.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 03:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/izrail-2116926099.html",
+            "publishedAt": "2026-09-10T19:42:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nated-by-asian-suppliers-8930a870a2e04898",
+        "title": "Proxima Fusion押注1.4亿欧元布局核聚变关键原料，该领域目前由亚洲供应商主导",
+        "originalTitle": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T18:38:00.000Z",
+        "pubTime": "2026-09-11 02:38",
+        "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+        "imageUrl": null,
+        "fullContent": "Proxima Fusion is betting on a critical ingredient for its fusion reactors: superconducting tape.\n\nProxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.\n\nThe move comes months after Proxima raised €411 million in a round that catapulted the company up the ranks of the best-funded fusion startups. The Germany-based fusion startup plans to use a mix of public and private funding to complete the factory, with the state of Lower Saxony chipping in €21 million.\n\nProxima will use HTS tape to generate powerful magnetic fields to contain the plasma required to spark fusion reactions.\n\nThe startup’s demonstration plant will use 20,000 kilometers of HTS tape, while its commercial power plant will need twice as much. Today, the vast majority of HTS tape is made in China and Japan.\n\nHTS tape emerged a little over a decade ago as one of the fundamental breakthroughs that enabled the current generation of fusion power startups. Because it can generate strong magnetic fields at relatively high temperatures, HTS tape enables smaller and more efficient reactor designs.\n\nWhile fusion power is expected to consume a large portion of the world’s HTS tape production, other companies like Veir are using it to boost the efficiency and power density of data centers.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "Proxima Fusion正押注其核聚变反应堆的一项关键原料：超导带材。\n\nProxima Fusion周三表示，计划投资1.4亿欧元（约合1.626亿美元）建设一座工厂，用于生产聚变级高温超导（HTS）带材，这将为该初创公司的反应堆设计提供核心组件。\n\n在此举措出台的数月前，Proxima完成了一轮4.11亿欧元的融资，使其一跃跻身资金最雄厚的核聚变初创企业行列。这家总部位于德国的核聚变初创公司计划结合公共与私人资金来完成该工厂的建设，其中下萨克森州将提供2100万欧元的资金支持。\n\nProxima将使用HTS带材产生强大的磁场，以约束引发聚变反应所需的等离子体。\n\n该初创公司的示范电厂将消耗2万公里的HTS带材，而其商用发电厂的用量将是其两倍。如今，绝大部分HTS带材都在中国和日本生产。\n\nHTS带材出现于十多年前，是催生当今这一代核聚变初创企业的根本性突破之一。由于它能够在相对较高的温度下产生强磁场，HTS带材使得更小、更高效的反应堆设计成为可能。\n\n虽然聚变能源预计将消耗全球大部分的HTS带材产量，但像Veir这样的其他公司也正在利用它来提高数据中心的效率和功率密度。\n\n切勿错过。初创企业社区将汇聚一堂，共同解答一个关键问题：在人工智能时代，该如何实现可持续发展？\n\n每个工作日和周日，您都可以获取TechCrunch的优质报道。\n\nTechCrunch Mobility是您获取交通领域新闻与洞察的首选之地。\n\n初创企业是TechCrunch的核心，每周为您呈送我们的深度精选内容。\n\n为行业领袖和决策者提供开启新一天所需的资讯。\n\n提交您的电子邮件即代表您同意我们的条款与隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "德国聚变初创公司 Proxima Fusion 计划投资 1.4 亿欧元（约合 1.626 亿美元）建造一座生产聚变级高温超导（HTS）带材的工厂。",
+          "Proxima Fusion 数月前完成了一轮 4.11 亿欧元的融资。",
+          "来源叙事重点：Proxima Fusion 投资 1.4 亿欧元在德国自建聚变级高温超导（HTS）带材工厂，以摆脱对亚洲（中日）供应链的高度依赖并保障自身反应堆核心原料供给。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T18:38:00.000Z",
+            "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/"
+          }
+        ]
+      },
+      {
+        "id": "story-tect-your-money-99374a95-52031929dc453f04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:21:00.000Z",
+        "pubTime": "2026-09-11 03:21",
+        "url": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Estate-planning crises usually come down to small oversights.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 03:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T19:21:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-log-what-comes-after-git-302f50f7ea4270e4",
+        "title": "Git 之后何去何从",
+        "originalTitle": "What comes after git",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T17:44:27.000Z",
+        "pubTime": "2026-09-11 01:44",
+        "url": "https://ersc.io/blog/what-comes-after-git",
+        "imageUrl": null,
+        "fullContent": "East River Source Control has been around for over a year now, but we haven’t been talking much publicly about what we’ve been working on. We aren’t announcing anything just yet, and we will soon, but we wanted to share some of our thinking around version control and where things are going.\n\nBuilding software is fundamentally a collaborative task. Projects start with humble beginnings, and end up growing into incredibly large and complex systems. But what cargo new generates is the same thing as what a multi-billion line monorepo contains: source code. Storing this code safely and securely, managing how it changes over time, and ensuring its availability to developers are some of the most critical functions of any technology organization.\n\nIn the old days, you might have had a shared server where your code lived. Academia and then industry developed what are now called Source Control Management (SCM) and Version Control Systems (VCS). And even within the VCS space, we have seen many, many tools over the years: CVS, SVN, and Git are the tools that have dominated the open source space, but there have been others as well: Perforce, ClearCase, Fossil, Mercurial, SCSS, Monotone, BitKeeper, and many more. These tools became the standard way to store your code and have your team collaborate on changes to it.\n\nThe rise of agentic development has changed many things about how we develop software, but it places particular strain on your version control system. Teams are producing more code more quickly than ever before, ballooning repository sizes, increasing the number of active branches, and producing significant contention on merging in new work. Agents work well with monorepos, because they can get more access to more context more easily, exacerbating these issues as well. They’re moving development environments to the cloud, with isolated environments, which means that they need fast clone times. All of these problems used to be the domain of larger organizations, but agents are bringing big company problems to the rest of us.\n\nWe believe that as organizations continue to scale up their ambitions, they will need a next generation VCS tool. But they are rightfully a bit conservative with adopting new tooling in this space. As I said above, source code is one of the most precious commodities an organization has, and change has risks as well as rewards. We deeply appreciate these concerns, and so are building a bridge from the present to the future.\n\nLots of Git servers exist though. What makes us special?\n\nAt a high level, the way most places that host Git repositories for you looks something like this:\n\nYour git client connects to their service via the Git protocol. Inside the service, they store your repositories on disk, and have a service layer that connects the two.\n\nNow, this is a bit reductive: it is going to be many servers, with a complex layer of services in front of the repositories. The storage will be replicated, and there’s all sorts of stuff going on. We’re focusing on the overall architecture here, but don’t mistake the simplicity of the diagram for the simplicity of the system. There is a lot going on here, but those details aren’t germane at this exact moment.\n\nIn that spirit, here is the diagram for what we’re doing:\n\nIt looks pretty similar! It is also simplified, for example, there is a GraphQL API interface not shown in this diagram at all. But the difference is important: while you still connect to our storage with your regular git client and it uses the git protocol, we don’t store git repositories on our servers. Instead, we have a custom storage engine.\n\nPut plainly, we do not believe that Git is the future of source control. Git has served developers well for many years, but it was designed around the constraints of 2005, not 2025, let alone 2035. For example, it was built for the Linux kernel: an open source project. Open Source is incredibly important to our industry, but this means it’s missing key features that are useful for organizations that aren’t sharing their code with everyone. Also, while the Linux kernel is not a small repository, with 7.2 clocking in at about 43 million lines of code, major companies in the industry already had monorepos that were measured in billions of lines of code years ago. The choices you make really matter at this scale.\n\nAt the same time, it’s difficult to consider using a different version control system. Git is baked into so much of our tooling: it’s not SvnOps, it’s GitOps! So many things speak Git, and this makes it difficult to consider alternatives. When Git was created, several other projects started around the same time, notably Mercurial and Bazaar. But network effects led to Git being used by virtually everyone.\n\nSo what to do? Speak the Git protocol, while changing how the storage layer works. While this doesn’t solve all of the problems that we foresee in the future, it does help out. Our system is horizontally scalable in a way that systems that use a Git repository as the source of truth are not. And because this isn’t a global, unified platform, other companies’ usage does not affect yours, as they’re separate deployments. This gives you reliability and control, two things that are critical when talking about infrastructure.\n\nSo what about those future possibilities? What if you need to scale beyond what the Git protocol offers, or you need features that aren’t provided by Git? This strategy of speaking the protocol has an advantage: you can speak multiple protocols.\n\nThis is where Jujutsu comes in. We’re big fans of jj here at ERSC, and part of that is that we really love how it’s an example of a technology that’s easy to incrementally adopt. While jj is its own version control system, it has the ability to speak to multiple different backends. Most developers use jj with the Git backend to work directly with a local Git repository, but Google also has a backend to their Piper version control system. This is what lets individual developers choose to use jj at work, even if their co-workers still use the regular Git client: to the server, it’s just another user of the Git protocol. We’ll be mirroring this strategy, but on the server:\n\nThis leads to a smooth path to the future of version control: you can start off by using regular old git, and enjoy reliable and scalable source control management. Individual developers can choose to adopt jj at their own pace, and when you’re ready to step forward, jj can speak a different protocol to the same underlying engine.\n\nAn important note about this: this is future work, not available yet. Upstream has no ”jj native” protocol today, and we don’t claim this is what we’re building. If this is useful as an upstream thing that upstream desires to support, we’ll work with the community on this. And the protocol will be well documented, and any client modifications to support it will be open source. We do not assume that just because we build such a thing that upstream will want to use it, as the Git protocol works to serve the needs of most of their users already today. We are committed to being good players in the jj ecosystem, whatever that ends up looking like.\n\nA storage solution is only part of what your team needs to collaborate around code. Code Review, CI, issue tracking, the list goes on and on. While traditional software forges have offered everything in one unified package, we believe that we’re entering an age of more customizability with software. As such, our product offerings are more like building blocks than one single forge. Storage is the foundation, and therefore, is coming first. But you can expect that we want to make our storage solution work with the rest of your software stack, not against it. While we’ll be offering multiple products in the VCS space, if you want to bring your own software for the rest of the stack, you can do that. Or if you want to adopt some pieces of our first-party things, and bring some of your own, that’s great too.\n\nWhile none of this is available just yet, we’ll be opening things up soon. In the meantime, we’ll see you at JJ Con next week!",
+        "fullTranslation": "East River Source Control 成立已有一年多，但我们此前很少公开谈论我们正在从事的项目。我们目前还不准备正式宣布任何产品，不过很快就会了；但在那之前，我们想分享一些关于版本控制及其未来发展方向的思考。\n\n构建软件从根本上说是一项协作任务。项目通常始于微末，最终成长为极其庞大而复杂的系统。但无论是 cargo new 生成的代码，还是包含数十亿行代码的单体仓库（monorepo），其本质都一样：源代码。安全可靠地存储这些代码、管理其随时间的变化，并确保开发者随时可用，是任何技术机构最核心的职能之一。\n\n在过去，你可能曾使用一台存放代码的共享服务器。学术界以及后来的工业界开发了如今被称为源码控制管理（SCM）和版本控制系统（VCS）的工具。甚至在 VCS 领域内部，这些年来我们也见证了无数工具的兴衰：CVS、SVN 和 Git 是主导开源领域的工具，但也有其他系统：Perforce、ClearCase、Fossil、Mercurial、SCSS、Monotone、BitKeeper 等等。这些工具成为了存储代码以及团队协作修改代码的标准方式。\n\n基于智能体（Agentic）开发的兴起改变了我们开发软件的许多方面，但也对版本控制系统带来了尤其严峻的压力。团队正以前所未有的速度编写更多代码，仓库规模急剧膨胀，活跃分支数量激增，合并新工作时产生严重冲突。智能体在单体仓库中表现出色，因为它们可以更轻松地获取更多上下文信息，而这也加剧了上述问题。它们正在将开发环境迁移到云端的隔离环境中，这意味着它们需要极快的克隆（clone）速度。所有这些问题过去通常只属于大型企业，但智能体正在把大公司的问题带给每一个团队。\n\n我们相信，随着各家机构的雄心持续扩张，他们将需要下一代 VCS 工具。但在采用该领域的新工具方面，他们表现得较为保守也是理所应当的。如前所述，源代码是机构拥有的最宝贵资产之一，变革既带来回报，也伴随风险。我们深知这些顾虑，因此正在搭建一座连接当下与未来的桥梁。\n\n不过，现存的 Git 服务器已经数不胜数。那我们有什么特别之处？\n\n从宏观角度来看，大多数为你托管 Git 仓库的平台其运作方式大致如下：\n\n你的 git 客户端通过 Git 协议连接到其服务。在服务内部，他们将你的仓库存储在磁盘上，并通过一个服务层将两者连接起来。\n\n当然，这种描述略显简化：实际情况会有许多台服务器，仓库前面还有一层复杂的微服务。存储层具有副本备份，后台还运行着各种各样的处理。我们这里关注的是整体架构，但切勿将架构图的简洁误认为是系统的简单。这里涉及很多内容，但那些细节在当下并非关键。\n\n基于这种思路，以下是我们方案的示意图：\n\n它看起来非常相似！这也是简化后的，例如图中完全没有展示 GraphQL API 接口。但其中的区别至关重要：虽然你仍然使用常用的 git 客户端通过 Git 协议连接到我们的存储，但我们并没有在服务器上存储 Git 仓库。相反，我们开发了自定义的存储引擎。\n\n简而言之，我们不认为 Git 代表着源码控制的未来。Git 服务开发者多年，表现优异，但它是围绕 2005 年而非 2025 年（更不用说 2035 年）的技术约束设计的。例如，它是专为 Linux 内核这一开源项目构建的。开源对我们的行业极其重要，但这意味着它缺少对于不公开代码的企业来说非常有用的关键特性。此外，尽管 Linux 内核不是一个小仓库——其 7.2 版本大约有 4300 万行代码——但业内主流公司早在几年前就拥有规模达数十亿行代码的单体仓库了。在这样的规模下，技术选型至关重要。\n\n与此同时，考虑更换版本控制系统又非常困难。Git 已经深植于我们众多的工具链中：现在的规范是 GitOps，而不是 SvnOps！无数工具都在使用 Git 协议与生态，这使得探索替代方案步履维艰。在 Git 诞生之时，周边几乎同时出现了几个类似项目，最著名的有 Mercurial 和 Bazaar。但网络效应使得 Git 最终被几乎所有人采用。\n\n那么该怎么办呢？支持 Git 协议，同时彻底改造底层存储层的运作机制。虽然这并不能解决我们预见的所有未来问题，但确实大有裨益。与以传统 Git 仓库为真实源（source of truth）的系统不同，我们的系统可以实现横向扩展。而且由于这不是一个全局统一的平台，其他公司的资源使用不会影响到你，因为各部署环境彼此隔离。这为你带来了可靠性与控制力——在谈论基础设施时，这两点至关重要。\n\n那么未来的可能性呢？如果你需要的扩展规模超出了 Git 协议所能承载的范围，或者你需要 Git 所不具备的功能怎么办？兼容现有协议的这种策略有一个优势：你可以同时支持多种协议。\n\n这正是 Jujutsu（jj）大展身手的地方。在 ERSC，我们是 jj 的忠实粉丝，部分原因在于我们非常赞赏它作为一项易于渐进式采纳的技术典范。尽管 jj 本身是一套独立的版本控制系统，但它具备与多种不同后端通信的能力。大多数开发者使用 jj 的 Git 后端直接操作本地 Git 仓库，但 Google 也为其内部的 Piper 版本控制系统开发了后端。这使得单个开发者能够在工作中使用 jj，即便同事们仍在继续使用传统的 Git 客户端：对服务器来说，jj 用户不过是又一个 Git 协议使用者罢了。我们将在服务端采用相同的策略：\n\n这为通往版本控制的未来铺平了一条顺畅的道路：你可以先从熟悉的传统 git 开始，享受可靠且可扩展的源码控制管理。单个开发者可以按自己的节奏选择采纳 jj；当你准备好更进一步时，jj 可以通过不同的协议与同一个底层引擎通信。\n\n关于此点有一项重要说明：这是未来的规划工作，目前尚未推出。上游目前并没有“jj 原生”（jj native）协议，我们也没有声称我们正在构建的就是该协议。如果这在上游被证明是有价值的且上游希望提供支持，我们将与社区就此展开合作。此外，该协议将提供完备的文档，任何用于支持它的客户端改动都将开源。我们不会想当然地认为只要我们构建了这样的协议上游就会想要使用，因为 Git 协议目前已经能够满足其大多数用户的需求。无论最终呈现为什么形式，我们都致力于成为 jj 生态系统中优秀的参与者。\n\n存储解决方案只是团队围绕代码开展协作所需的一部分。代码审查（Code Review）、持续集成（CI）、问题追踪（Issue Tracking）等需求不胜枚举。虽然传统的软件代码托管平台（forge）曾以一体化打包的形式提供所有功能，但我们相信软件正在进入一个更具可定制性的时代。因此，我们的产品形态更像是积木组件，而非单一的代码托管平台。存储是基石，因而最先推出。但你可以确信，我们致力于让存储解决方案与你的其余软件技术栈协同运作，而非相互冲突。尽管我们将在版本控制系统（VCS）领域推出多款产品，但如果你想在技术栈的其余环节采用自己的软件，完全可行；或者如果你想采用我们的部分第一方组件并搭配自己的工具，那同样非常合适。\n\n尽管上述所有内容目前都尚未上线，但我们很快就会对外开放。在此期间，我们下周的 JJ Con 大会见！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "East River Source Control (ERSC) 已经成立并运作了一年多。",
+          "Linux 内核 7.2 版本的代码行数约为 4300 万行。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T17:44:27.000Z",
+            "url": "https://ersc.io/blog/what-comes-after-git"
+          }
+        ]
+      },
+      {
+        "id": "story-lt-distraction-good-html-4227b30b98b41374",
+        "title": "孩子的大脑天生容易分心，有时这其实是一件好事",
+        "originalTitle": "Kids' brains are built for distraction. Sometimes that's a good thing.",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:40:12.000Z",
+        "pubTime": "2026-09-11 03:40",
+        "url": "https://phys.org/news/2026-09-kids-brains-built-distraction-good.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/kid-playing.jpg",
+        "fullContent": "by Elizabeth Weinstein, The Ohio State University\n\nedited by Gaby Clark, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nParents often learn the hard way that to make it anywhere on time, they should calculate how much time they think they need to get ready—and double it.\n\nIt's hard enough for adults with deep-rooted mental checklists to make it out the door. For young children, such lists give way to treasure maps.\n\nEverything from clothing choices to snacks and toys for the car requires diplomatic negotiations that can't be rushed without risking a meltdown. The clock is ticking, but your child is blissfully unaware and suddenly more interested in staying home.\n\nWhereas adults rely on streamlined internal mind maps to carry out their daily routines, young children's brains appear to be wired for distraction. According to a review paper published recently in Trends in Cognitive Sciences, what might look and feel like pure chaos—or worse, obstinance—is an important window into how growing minds think and learn through exploration.\n\nIn the paper, lead author Vladimir Sloutsky, a professor of psychology at The Ohio State University, revisits research his lab previously reported in the Journal of Experimental Psychology: General and notes that \"children tend to explore broadly, and, despite its costs, exploration confers important benefits, especially early in development, when they know little.\"\n\nIn other words, Sloutsky said, \"they are humans learning to be human.\"\n\nWhen choosing between trying something new (exploration) or repeating actions that have already proven successful (exploitation), learners of all ages encounter what researchers call the \"exploration-exploitation dilemma.\" Trying new things might prove to be a waste of time and energy, but repeating familiar actions could prevent someone from acquiring new skills or knowledge.\n\nAdults are typically more exploitative, preferring to repeat actions that have previously led to successful, rewarding outcomes, while children are less selective about where they direct their attention. Sloutsky and his co-authors wanted to find out more about what is driving this exploratory behavior, particularly in children ages 3 to 8.\n\nFor decades, the prevailing theory was that children explore simply because they are naturally curious—or, possibly, because their decision-making is more random. Sloutsky's work offers a different explanation: Early exploration is driven by the immaturity of a child's working memory system.\n\nA mature working memory helps adults hold onto a plan and selectively filter out distractions, while an immature working memory, by contrast, is set to \"distributed attention,\" meaning young children are prone to spreading their attention broadly. To test this, Sloutsky's team overloaded adults' working memory by asking them to complete a decision-making game while also reporting whenever two consecutive odd numbers appeared in a continuous stream of numbers. When their working memory was taxed, adults in the study abandoned their strategic choices and explored more broadly, exhibiting attentional patterns nearly identical to those of 5-year-olds.\n\nWhile children's lack of focus might make leaving the house a test of patience, it serves a crucial evolutionary purpose, ensuring that young learners absorb as much information as possible about the world. \"Because they don't have a fully developed working memory system, children will explore and resample, especially in less familiar situations. An adult will quickly decide that something is worthy of attention and other things are not. Children do not make those selective decisions as quickly,\" Sloutsky said.\n\nFor example, let's say you've researched nearby gas stations and found a couple with lower prices. You might start to frequent those stations without continuing to search for better options. Meanwhile, other stations are dropping their prices and becoming more competitive, but you won't benefit because you are certain that your initial choices are the best ones.\n\n\"Because children explore, they may not immediately optimize the benefit of the best option, but they also won't lose out if something in the environment changes,\" Sloutsky explained. \"That is where exploratory behavior becomes very beneficial, guarding them against being entrapped by their own knowledge early in development.\"\n\nSloutsky hopes studies like this help remind parents that kids \"are annoying and destructive for a reason: They need to acquire a lot of knowledge in a relatively short period of time. We need to provide them with things that are OK to break, because exploring and breaking things is how they learn about the world.\"\n\nIf you plot immaturity—measured by the onset of the first molar in mammals or the age of sexual maturity—against brain size, you will find an almost perfect dependence: the greater the brain size, the longer the period of immaturity, he noted.\n\n\"Children are almost completely immobile for the first year of life, disorganized for the next three, extreme risk-takers for the next 15 and self-insufficient for the first 22 years,\" Sloutsky said. \"It is extraordinarily costly, and that cost is mainly borne by caregivers. But it is necessary given how much kids need to learn. Organisms with bigger brains have longer periods of immaturity to allow them the flexibility to learn all that.\"\n\nVladimir M. Sloutsky et al, Working memory, exploration, and cognitive development, Trends in Cognitive Sciences (2026). DOI: 10.1016/j.tics.2026.07.007\n\nJournal information: Journal of Experimental Psychology , Trends in Cognitive Sciences\n\nProvided by The Ohio State University\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "作者：伊丽莎白·韦恩斯坦（Elizabeth Weinstein），俄亥俄州立大学\n编辑：加比·克拉克（Gaby Clark），审校：安德鲁·齐宁（Andrew Zinin）\n本文已根据 Science X 的编辑流程和规范完成审校。编辑在确保内容可信度的同时强调了以下属性：\n同行评审出版物\n\n为人父母者往往吃过亏才明白，要想按时到达任何地方，他们都得先估算好出门准备需要多长时间——然后再翻一倍。\n\n对于脑海中有着根深蒂固清单的成年人来说，按时出门已经够难了。而对于年幼的孩子来说，这些清单根本算不上什么，早就让位给眼前的“寻宝图”了。\n\n从穿什么衣服，到车上备什么零食和玩具，每一样都需要进行外交级的谈判；稍微催促一下，就有可能引发一场情绪崩溃。时间在分秒流逝，但你的孩子却全然不知、乐在其中，甚至突然对留在家里产生了更大的兴趣。\n\n成年人依靠高度精简的内部心智地图来执行日常琐事，而幼儿的大脑似乎天生就是为了“分心”而构建的。根据最近发表在《认知科学趋势》（Trends in Cognitive Sciences）上的一篇综述论文，那些看起来和感觉上宛如纯粹混乱——甚至更糟的执拗——其实是一个重要窗口，展现了成长中的心智如何通过探索来进行思考与学习。\n\n该论文的第一作者、俄亥俄州立大学心理学教授弗拉基米尔·斯劳茨基（Vladimir Sloutsky）在文中重温了他的实验室此前在《实验心理学杂志：总论》（Journal of Experimental Psychology: General）上发表的研究，并指出：“儿童倾向于广泛探索，尽管这会带来成本，但探索能带来重要的益处，尤其是在他们知之甚少的发展早期阶段。”\n\n换句话说，斯劳茨基表示：“他们是正在学习如何成为人类的人类。”\n\n在尝试新事物（探索，exploration）与重复已被证明成功的行为（利用，exploitation）之间进行权衡时，所有年龄段的学习者都会遭遇研究人员所谓的“探索—利用困境”（exploration-exploitation dilemma）。尝试新事物可能最终证明是浪费时间和精力，但重复熟悉的行为又可能会阻碍人们掌握新技能或新知识。\n\n成年人通常更倾向于“利用”，更喜欢重复那些以往带来成功和回报的行为；相比之下，儿童对自己把注意力投向何处则不那么挑剔。斯劳茨基及其合著者希望更深入地了解推动这种探索行为的动力是什么，特别是针对 3 至 8 岁的儿童。\n\n几十年来，主流理论一直认为儿童探索仅仅是因为他们天生好奇——或者可能是因为他们的决策更具随机性。斯劳茨基的研究提供了一种不同的解释：早期的探索是由儿童工作记忆系统的不成熟所驱动的。\n\n成熟的工作记忆有助于成年人保持计划并有针对性地过滤掉干扰；相比之下，不成熟的工作记忆则被设定为“分散注意力”（distributed attention），这意味着幼儿容易将注意力广泛铺开。为了验证这一点，斯劳茨基的团队通过要求成年人在完成决策游戏的同时、汇报连续数字流中何时出现两个连续奇数，以此让成年人的工作记忆超负荷运转。当工作记忆不堪重负时，研究中的成年人放弃了原本的策略性选择，开始进行更广泛的探索，表现出与 5 岁儿童几乎相同的注意力模式。\n\n虽然孩子缺乏专注力可能会让出门变成一场耐力测试，但它服务于一个至关重要的演化目的：确保年幼的学习者能尽可能多地吸收有关这个世界的信息。“因为他们没有发育完全的工作记忆系统，儿童会去探索并重新采样，尤其是在不太熟悉的情境中。成年人会迅速判定某件事物值得注意，而其他事物不值得；儿童做出这些选择性判断的速度并没有那么快，”斯劳茨基说。\n\n举个例子，假设你研究了附近的加油站，并找到了几家价格较低的油站。你可能会开始经常光顾这些油站，而不再继续寻找更好的选择。与此同时，其他加油站正在降价并变得更具竞争力，但你却享受不到这个实惠，因为你确信自己最初的选择就是最好的。\n\n“因为孩子们处于探索状态，他们可能无法立刻将最佳选择的收益最大化，但如果环境发生变化，他们也不会蒙受损失，”斯劳茨基解释道，“这正是探索行为大有裨益的地方，能防止他们在成长早期被自己的既有认知所困住。”\n\n斯劳茨基希望此类研究有助于提醒父母，孩子们“之所以烦人且具破坏性，是有原因的：他们需要在相对较短的时间内获取海量知识。我们需要为他们提供一些哪怕摔坏也没关系的东西，因为探索和打破东西正是他们认识世界的方式。”\n\n他指出，如果你将以哺乳动物第一磨牙萌出或性成熟年龄来衡量的“不成熟期”与大脑大小绘制成图表，你会发现两者之间存在近乎完美的依存关系：大脑越大，不成熟期就越长。\n\n“孩子在生命的第一年几乎完全无法自由移动，接下来的三年混乱无序，之后的十五年极其热衷冒险，而在人生的前二十二年里都无法自给自足，”斯劳茨基说，“这是极其昂贵的代价，而这一代价主要由照料者承担。但考虑到孩子们需要学习的东西如此之多，这种代价是必要的。拥有更大大脑的生物体拥有更长的不成熟期，从而使他们具备足够的灵活性来学完所有这一切。”\n\n弗拉基米尔·M·斯劳茨基等，《工作记忆、探索与认知发展》（Working memory, exploration, and cognitive development），《认知科学趋势》（Trends in Cognitive Sciences, 2026）。DOI: 10.1016/j.tics.2026.07.007\n期刊信息：《实验心理学杂志》（Journal of Experimental Psychology）、《认知科学趋势》（Trends in Cognitive Sciences）\n由俄亥俄州立大学提供\n英语硕士，自 2021 年起担任文案编辑，在高教与健康领域拥有丰富经验。致力于传播值得信赖的科学新闻。完整个人资料 →\n物理学硕士，具科研背景。资深科学新闻爱好者。在 Science X 的编辑成果中发挥关键作用。完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "发表在《认知科学趋势》（Trends in Cognitive Sciences）上的一篇综述论文指出，幼儿大脑看似分心的混乱或固执状态，实际上是正在成长的大脑通过探索进行思考和学习的重要窗口。",
+          "俄亥俄州立大学心理学教授弗拉基米尔·斯劳茨基（Vladimir Sloutsky）是该论文的主作者。",
+          "来源叙事重点：将幼儿的分心、混乱和探索行为重新框定为工作记忆尚未成熟所导致的广泛注意，并强调这种行为具有学习和适应价值，而非单纯的顽固、随机决策或缺乏好奇心；同时以育儿场景和进化论解释突出“分心有益”的正面意义。上述是报道的叙事框架，不等同于已被所有研究一致接受的事实。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:40:12.000Z",
+            "url": "https://phys.org/news/2026-09-kids-brains-built-distraction-good.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ter-record-summer-blazes-21f0641fbc5876e3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "French firefighters on six-week strike after record summer blazes",
+        "source": "France 24 (EN 官方英语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:41:24.000Z",
+        "pubTime": "2026-09-11 03:41",
+        "url": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
+        "imageUrl": "https://s.france24.com/media/display/124ce6f8-ad4e-11f1-9307-005056bfb2b6/w:1024/p:16x9/EN-20260910-211032-211733-CS.jpg",
+        "fullContent": "Firefighters in France are on strike over a lack of funding for essential emergency services. Their dedication was pushed to the limit in the recent wild fire episodes south of Paris and near Bordeaux. Short comings in the current system were highlighted by these extreme cases. FRANCE 24's Mark Owen speaks with Yael Lecras, Vice-President of the National Union of Professional Firefighters.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (EN 官方英语原版)】于 2026-09-11 03:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (EN 官方英语原版)",
+            "url": "https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes",
+            "publishedAt": "2026-09-10T19:41:24.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lly-available-on-desktop-c5435f93118952b6",
+        "title": "Amazon Quick 桌面版现已正式可用",
+        "originalTitle": "Amazon Quick is now generally available on desktop",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T18:16:37.000Z",
+        "pubTime": "2026-09-11 02:16",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/ML-21220-4.jpg",
+        "fullContent": "Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private\n\nToday, the Amazon Quick desktop application is generally available on macOS and Windows. We’re also adding a new activity feed to the mobile experience on iOS and Android that consolidates email, calendar, CRM, and messaging into one prioritized view, showing your teams the decisions that need them while agents resolve the routine items in the background, so they spend less time sorting through updates and more time on high-value work.\n\nEnterprise IT organizations face a compounding problem: the tools your teams need to stay productive are multiplying, and so is the shadow AI risk that comes with them. When people work around approved systems to get things done faster, governance breaks down, data leaves controlled environments, and IT loses visibility. The answer is not to restrict AI access but to give teams an enterprise-grade AI assistant built for work, on infrastructure IT already controls. Quick runs on AWS, the same infrastructure behind the most security-sensitive workloads on the planet. Your data stays in your environment, your conversations remain private, and everything is auditable. Full audit trails are available through Amazon CloudWatch and AWS CloudTrail. The compliance certifications your security team requires (HIPAA, FedRAMP, SOC 2, and ISO 27001) are built in from day one.\n\nCustomers across manufacturing, healthcare, and sports have been using Quick on desktop during preview—asking complex questions in natural language and getting grounded, trustworthy answers in seconds, cutting time-to-insight significantly while keeping governance and accuracy built in from the start.\n\nFor organizations managing knowledge workers across hundreds of roles and workflows, the capacity equation matters too. Business goals keep growing, but the hours in a day do not. Most of the time that should go to high-judgment work gets consumed by pulling information together, chasing follow-ups, and assembling deliverables. Quick changes that equation by providing a thought partner that knows your context, builds what you need, and takes action on your behalf. Quick also gives your team a shared workspace where the dashboards, agents, and automations one person builds are available to the whole team.\n\nHere is what Quick looks like across a real workday, from delegating meeting prep on a laptop to triaging priorities on a phone and following up after the workday ends.\n\nHere, an enterprise account executive at a manufacturing company uses Quick to dramatically simplify prep for a key customer meeting—typing a single request and letting Quick assemble the brief in the background\n\nFocus on what matters, not what’s loudest\n\nMost work tools generate a firehose of notifications. Quick’s activity feed does the opposite: it consolidates signals from email, messaging, CRM, and calendar into one prioritized view. Items agents resolve on their own disappear. What remains is a short queue of things only you can act on, and the feed gets smarter over time. Quick learns your relationships, priorities, and patterns, so it surfaces what matters most, not just what arrived most recently.\n\nHere, the same rep triages her morning from her phone, approving an addition to her meeting brief and responding to a pipeline review request for her VP, without opening another app.\n\nFor teams operating at enterprise scale, that prioritization is what turns a firehose of updates into a clear path forward:\n\n“At Southwest Airlines, we’re building agentic AI tools and autonomous agents to streamline operations across our 70,000+ Employees and enhance the experience for the millions of Customers we serve every day. Amazon Quick Desktop gives our teams the ability to ask complex questions in natural language and get grounded, trustworthy answers in seconds instead of waiting on ad hoc report requests. Our developers build once and deploy intelligent experiences across the enterprise, with governance and accuracy baked in from the start. Quick cuts time-to-insight significantly and is already powering high-impact use cases across the organization including market analytics. It’s become the foundation of how we put AI-driven intelligence directly into the hands of our People.”\n\n-Justin Bundick, VP Technology Intelligence Platforms, Southwest Airlines\n\nFrom meeting to momentum\n\nMost AI tools answer questions. Quick completes tasks by synthesizing information across systems, drafting deliverables, updating records, and executing follow-ups on behalf of your team. Teams do not get a summary of what they could do. They get finished output, ready for review.\n\nHere, she picks up on her laptop where she left off on mobile—reviewing the completed work in mission control and sharing the finished brief with her account team.\n\nEarly customers point to that shift from answers to finished work as the thing that changes how their teams operate:\n\n“We’ve been evaluating Amazon Quick ahead of its general availability launch, and the adoption was easy. Clean design, intuitive experience, and the knowledge graph and memory adapt to the way you work. You can create agents that run asynchronously on your behalf and go from concept to working prototype in a fraction of the time. Quick is becoming a force multiplier that frees you to focus on higher-value work.”\n\n— Chuck Metturdharma, VP & Chief AI Officer, LabCorp\n\nThe work follows through, even when you don’t have time\n\nQuick is built on the tools, systems, and infrastructure your organization already runs on. There is no migration, no new ecosystem to adopt. It connects to what you have and starts delivering value on day one.\n\nHere, after the meeting, she wraps the day from her phone, having Quick refine and send a customer follow-up, then queue up the next morning’s materials for engineering.\n\nEvery decision stays yours while Quick handles the rest.\n\nWhether you’re an IT leader, account executive, a program manager juggling cross-functional launches, or a finance lead closing the books, Quick works the way you do, across every device, on your schedule. You bring the judgment; Quick gives your teams the capacity to match their goals.\n\nThat capacity shows up differently for every team, but the pattern is the same: people spend less time on setup and more time acting on what they know:\n\n“Amazon Quick allows our domain experts—the people who know golf and our data best—to do work that used to sit in a technical backlog. We’ve prototyped working systems in days instead of weeks. When an idea proves out, they can hand our engineering team well-documented, validated requirements instead of a rough concept, so development starts from a proven foundation. And with it on mobile, they can act on an idea the moment it hits instead of waiting until they are back at a computer.”\n\n— Randall Kato, VP Golf Technology, PGA TOUR\n\nThese are the kinds of results customers are already achieving with Quick, and they represent what becomes possible when your team can delegate the routine and focus on the work that moves the business.\n\nSpencer has spent six years at AWS translating complex technology into stories that resonate with customers. He previously led product marketing for SAP on AWS, helping enterprises modernize their critical ERP workloads in the cloud. Now he’s focused on Amazon Quick — building GTM strategies that help customers work smarter by taking advantage of the latest advancements in AI. Spencer lives in Seattle, spending his spare time pursuing rare birds and training his dog.\n\nChris is a Principal GenAI/ML Specialist Solutions Architect on the Amazon Quick team. He has over 25 years of enterprise software development experience. Chris enjoys gardening, cooking, aerospace/general aviation, and traveling the world.\n\nRamon is a Principal Solutions Architect for Amazon Quick. With many years of experience building BI solutions and a background in accounting, he loves working with customers, creating solutions, and making world-class services. When not working, he prefers to be outdoors in the ocean or up on a mountain.",
+        "fullTranslation": "让您的团队拥有一个能处理实际工作的 AI 助手，同时确保数据保留在您的环境中且对话完全私密\n\n今天，Amazon Quick 桌面客户端已在 macOS 和 Windows 平台正式发布（GA）。我们还在 iOS 和 Android 移动端新增了动态信息流（activity feed），将电子邮件、日历、CRM 和即时通讯整合到一个按优先级排列的视图中，向您的团队展示需要他们拍板的决策，而智能体（agent）则在后台处理日常事务，从而让他们减少梳理更新的时间，把更多精力放在高价值工作上。\n\n企业 IT 组织正面临一个复合型难题：团队保持高效所需的工具不断增多，随之而来的“影子 AI”（shadow AI）风险也愈发严峻。当员工绕过经批准的系统以求更快完成工作时，治理体系就会瓦解，数据会脱离受控环境，IT 部门也将失去掌控力。解决之道不是限制 AI 的使用，而是在 IT 部门已掌控的基础设施上，为团队提供专为工作打造的企业级 AI 助手。Quick 运行在 AWS 之上——这也是承载全球对安全性要求最严苛工作负载的同一套基础设施。您的数据保留在自身环境中，对话始终保密，且一切皆可审计。通过 Amazon CloudWatch 和 AWS CloudTrail 可获取完整的审计追踪。您的安全团队所要求的合规认证（HIPAA、FedRAMP、SOC 2 和 ISO 27001）从第一天起就已原生内置。\n\n在预览版期间，制造、医疗和体育等多个行业的客户一直在桌面端使用 Quick——用自然语言提出复杂问题，并在数秒内获得有理有据、值得信赖的解答，在从一开始就内置治理与准确性的同时，大幅缩短获取洞见所需的时间。\n\n对于管理横跨数百种角色与工作流的知识工作者的组织而言，产能方程式同样至关重要。业务目标不断攀升，但一天的时间却不会增加。原本应投入到高阶研判工作的大部分时间，都被收集信息、跟进事项和整合交付物所消耗。Quick 改变了这一方程式，它提供了一个了解您的业务上下文、构建您所需内容并能代表您采取行动的思考伙伴。Quick 还为您的团队提供了一个共享工作区，一人构建的仪表板、智能体和自动化流程，整个团队皆可使用。\n\n以下是 Quick 在真实工作日中的应用场景：从在笔记本电脑上委托会议准备工作，到在手机上分选优先级事项，再到工作日结束后的后续跟进。\n\n在这里，一家制造企业的企业客户经理使用 Quick 大幅简化了一场关键客户会议的准备工作——只需输入一条请求，便由 Quick 在后台自动整合汇报提纲。\n\n聚焦要务，而非声量最大的杂音\n\n大多数办公工具都会产生如潮水般的通知。Quick 的动态信息流则恰恰相反：它将来自电子邮件、即时通讯、CRM 和日历的信号汇总为一个按优先级排序的视图。智能体自行解决的事项会直接隐去。剩下的则是一个精简的待办队列，仅包含只有您能处理的事情，且该动态流会随着时间推移越用越聪明。Quick 会学习您的人际网络、优先级和工作习惯，因此它呈现的是最重要的内容，而不仅仅是最新收到的消息。\n\n在这里，同一位业务代表在手机上开启并处理晨间事务，批准了一项对其会议提纲的补充，并回复了副总裁发来的销售商机审查请求，全程无需打开其他应用程序。\n\n对于企业级规模运作的团队而言，这种优先级排序能将排山倒海般的更新转变为一条清晰的前行路径：\n\n“在西南航空（Southwest Airlines），我们正在构建智能体驱动的 AI 工具和自主智能体，以简化遍布我们 70,000 多名员工的操作流程，并提升我们每天服务的数百万客户的体验。Amazon Quick 桌面版让我们的团队能够使用自然语言提出复杂问题，并在数秒内获得有依据、可信赖的答案，而无需等待临时报告请求。我们的开发人员只需构建一次，即可在整个企业范围内部署智能化体验，从一开始就融入了治理和准确性。Quick 大幅缩减了洞见获取时间，并且已经在推动整个组织内包括市场分析在内的高影响力用例。它已成为我们直接向员工赋予 AI 驱动智能的基础。”\n—— Justin Bundick，西南航空技术智能平台副总裁\n\n从会议落实为推进势头\n\n大多数 AI 工具只是回答问题。Quick 则通过跨系统综合信息、起草交付物、更新记录并代表您的团队执行后续跟进，从而完成具体任务。团队得到的不是一份关于‘可以做什么’的总结，而是拿来即用、可供审核的最终成果。\n\n在这里，她在笔记本电脑上无缝接续此前在手机上未完成的工作——在控制中心审核已完成的工作，并将最终定稿的提纲分享给客户团队。\n\n早期客户指出，这种从‘提供答案’到‘交付成品’的转变，正是彻底改变他们团队运作方式的关键：\n\n“我们在 Amazon Quick 正式发布前就一直在对其进行评估，其采纳推广非常顺畅。设计简洁明了，体验直观自然，知识图谱和记忆功能能够自适应您的工作方式。您可以创建代表您异步运行的智能体，并在极短时间内将构想转化为可用原型。Quick 正在成为一种力量倍增器，让您能够腾出精力专注于更高价值的工作。”\n—— Chuck Metturdharma，LabCorp 副总裁兼首席 AI 官\n\n即使您无暇顾及，工作依然稳步推进\n\nQuick 基于贵组织已在运行的工具、系统和基础设施构建而成。无需数据迁移，也无需采纳新的生态系统。它能直接连接您现有的系统，并在首日即开始产生价值。\n\n在这里，会议结束后，她在手机上为一天的工作收尾，让 Quick 优化并发送客户跟进邮件，随后为工程团队排期准备好次日清晨的材料。\n\n每一项决策仍由您掌控，其余繁杂事务交由 Quick 处理。\n\n无论您是 IT 主管、客户经理、协调跨职能项目发布的项目经理，还是正在结账的财务主管，Quick 都能配合您的工作习惯，跨越各类设备，按您的日程节奏协同运作。您负责做出研判；Quick 为您的团队赋予足以匹敌业务目标的充沛产能。\n\n这种产能在每个团队中的展现形式各不相同，但其模式始终如一：员工在繁琐准备上花费的时间更少，而能将更多时间用于将专业认知付诸行动：\n\n“Amazon Quick 让我们的领域专家——那些最了解高尔夫运动和我们数据的人——能够去完成以往积压在技术待办列表中的工作。我们在数天内便能构建出可用系统的原型，而以往这需要数周。当一个想法得到验证时，他们可以向我们的工程团队交付文档完备、经过验证的需求，而不是一个粗糙的概念，从而让开发始于可靠的基础之上。而且通过移动端支持，他们在灵感闪现的那一刻就能立即付诸行动，而无需等到回到电脑前。”\n—— Randall Kato，美巡赛（PGA TOUR）高尔夫技术副总裁\n\n这些正是客户目前通过 Quick 所取得的成效，它们展现了当您的团队能够委派日常繁琐工作并专注于推动业务发展的核心工作时所能实现的潜能。\n\nSpencer 在 AWS 工作了六年，致力于将复杂的技术转化为能与客户产生共鸣的故事。他此前曾领导 AWS 上的 SAP 产品营销，帮助企业将其关键的 ERP 工作负载在云中实现现代化。现在，他专注于 Amazon Quick——制定进入市场（GTM）策略，通过利用人工智能的最新进展帮助客户更明智地开展工作。Spencer 现居西雅图，闲暇时喜欢寻觅珍稀鸟类并训练他的宠物狗。\n\nChris 是 Amazon Quick 团队的首席生成式人工智能/机器学习（GenAI/ML）专家解决方案架构师。他拥有超过 25 年的企业软件开发经验。Chris 热爱园艺、烹饪、航空/通用航空以及环游世界。\n\nRamon 是 Amazon Quick 的首席解决方案架构师。凭借多年构建商业智能（BI）解决方案的经验以及会计背景，他热衷于与客户合作、打造解决方案并提供世界级的服务。工作之余，他更喜欢置身于户外的海洋或高山之中。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 28,
+        "keyTakeaways": [
+          "Amazon Quick 桌面端应用程序现已在 macOS 和 Windows 系统上正式全面推出（Generally Available）。",
+          "Amazon Quick 在 iOS 和 Android 移动端新增了动态消息（activity feed）功能，整合了电子邮件、日历、CRM 和消息通知。",
+          "来源叙事重点：宣布企业级 AI 助手 Amazon Quick 桌面端正式在 macOS 和 Windows 全面可用（GA），并在移动端引入跨系统活动流；核心叙事强调其凭借 AWS 基础设施解决“影子 AI”合规与治理痛点，主打从“回答问题”转变为“直接生成交付物”的自主代理能力，并通过西南航空、LabCorp、美巡赛等大型客户证言论证业务降本增效价值。"
+        ],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T18:16:37.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/"
+          }
+        ]
+      },
+      {
+        "id": "story-eres-what-to-expect-html-81619456fd747a90",
+        "title": "周五的CPI通胀报告比以往更为关键：以下是前瞻要点",
+        "originalTitle": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:18:05.000Z",
+        "pubTime": "2026-09-11 03:18",
+        "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
+        "imageUrl": null,
+        "fullContent": "A report due out Friday morning will be the last piece of the inflation puzzle the Federal Reserve will get before making its decision on interest rates next week.\n\nThe Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.\n\nIf the Dow Jones consensus is correct, the report will show that costs for all measured goods and services rose 0.4% last month, putting the annual inflation rate at 3.4%. However, excluding food and energy prices, the respective outlooks for core inflation are 0.2% and 2.4%.\n\nCombined with Thursday's producer price index data — a measure of wholesale inflation — the CPI will help tell Fed officials what their primary inflation gauge, the personal consumption expenditures price index, will show when it is released at the end of September.\n\nThe information also is expected to figure heavily into the Federal Open Market Committee's interest rate call next Wednesday, with a percentage point either way possibly meaning the difference between a hold and a hike.\n\n\"The September FOMC decision ultimately hinges on the CPI data ... since a majority of PCE components are derived from CPI,\" Nomura economists said in a note. \"Currently, we maintain our Fed call of no rate hike at the September FOMC meeting. However, if August CPI data, especially PCE-relevant components, surprises to the upside, that would significantly increase the likelihood of policy firming next week.\"\n\nFollowing Thursday's PPI release, traders raised the odds for a quarter percentage point increase to more than 73%, according to the CME Group's FedWatch gauge of futures prices.\n\nHowever, expectations have been volatile and highly dependent on data as well as fluctuating energy prices, making the stakes for Friday's release even higher. Fed Chair Kevin Warsh has indicated a reliance on market indicators for direction on monetary policy.\n\n\"The September Fed decision looked finely balanced at the turn of the month. September's surge in energy prices will likely tip the balance towards a hike when the Fed meets next week,\" said Bill Adams, chief U.S. economist at Fifth Third Commercial Bank. \"A big surprise from the August CPI report's release tomorrow or a last-minute deal with Iran could still influence the decision.\"\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "定于周五早晨发布的一份报告，将成为美联储下周就利率做出决定前所能获取的最后一块通胀拼图。\n\n美国劳工统计局将于美国东部时间上午8:30发布8月份消费者价格指数（CPI）报告。\n\n如果道琼斯共识预期准确，该报告将显示上个月所有被统计的商品和服务成本上涨了0.4%，使年化通胀率达到3.4%。然而，若剔除食品和能源价格，核心通胀率的环比和同比预期分别为0.2%和2.4%。\n\n结合周四公布的衡量批发通胀水平的生产者价格指数（PPI）数据，CPI将有助于美联储官员提前研判其首选通胀指标——个人消费支出（PCE）价格指数在9月底公布时将呈现出怎样的态势。\n\n这些信息预计还将对联邦公开市场委员会（FOMC）下周三的利率决定产生重大影响，哪怕只差几个百分点，都可能决定美联储究竟是按兵不动还是加息。\n\n野村证券经济学家在一份报告中表示：“9月FOMC的决定最终取决于CPI数据……因为PCE的大部分组成成分都来自CPI。目前，我们维持对9月FOMC会议不加息的预期。然而，如果8月CPI数据（尤其是与PCE相关的分项）意外上行，那将大幅增加下周收紧政策的可能性。”\n\n据芝商所（CME Group）的FedWatch期货价格衡量指标显示，在周四PPI数据公布后，交易员对加息25个基点的押注概率升至73%以上。\n\n然而，市场预期波动剧烈，高度依赖经济数据以及波动的能源价格，这使得周五公布的数据承载了更高的利害关系。美联储主席凯文·沃什（Kevin Warsh）已暗示在货币政策方向上依赖市场指标。\n\n“在月初时，美联储9月的决议看起来还处于微妙的平衡状态。但9月能源价格的飙升，可能会在美联储下周开会时将天平倾向加息一侧，”五三商业银行（Fifth Third Commercial Bank）首席美国经济学家比尔·亚当斯（Bill Adams）表示，“明天公布的8月CPI报告带来的巨大意外，或者在最后一刻与伊朗达成协议，仍可能左右这一决定。”\n\n有独家新闻线索？我们期待倾听您的声音。\n\n获取直接投递至您收件箱的内容，以及更多关于我们产品与服务的信息。\n\n数据为实时快照 *数据延迟至少15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。\n\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "美国劳工统计局将于周五上午8:30公布8月份消费者物价指数（CPI）报告。",
+          "道琼斯普遍预期显示，8月所有衡量商品和服务的成本将环比上涨0.4%，同比通胀率为3.4%；剔除食品和能源的核心通胀预期环比为0.2%，同比为2.4%。",
+          "来源叙事重点：聚焦即将公布的8月CPI数据对美联储9月利率决策的关键影响，结合PPI超预期及能源价格飙升，突出市场押注加息的紧绷预期与政策决议对数据的高度依赖"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:18:05.000Z",
+            "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html"
+          }
+        ]
+      },
+      {
+        "id": "story-otes-published-16-0-4-md-fa7bd8e6fd84b6ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T17:40:19.000Z",
+        "pubTime": "2026-09-11 01:40",
+        "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-11 01:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+            "publishedAt": "2026-09-10T17:40:19.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789056905655,
     "timeDisplay": "2026-09-11 00:15 (UTC+8)",
     "date": "2026-09-11",

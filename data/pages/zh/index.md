@@ -4,26 +4,18 @@ nav: true
 order: 0
 description: "InfoLive 24/7 全球全源信息流与 AI 实时要闻矩阵"
 notice:
-  text: "⚡ 当前监控运行中 · 本小时数据更新于 00:15 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
+  text: "⚡ 当前监控运行中 · 本小时数据更新于 03:53 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
   color: "theme"
 ---
 
-# ⚡ InfoLive 全球情报全景矩阵 · 00:15 速报
+# ⚡ InfoLive 全球情报全景矩阵 · 03:53 速报
 
 :::important
-### ⏱️ 本小时战略速报 (00:15)
+### ⏱️ 本小时战略速报 (03:53)
 
-本轮抓取于 2026-09-11 00:12 (UTC+8) 完成，共获得 791 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+本小时多国动态聚焦应急服务、全球气候与教育危机、司法审判进展及基础科学实验。UNICEF报告显示2025年逾1.71亿学生学业受气候灾害冲击；法国消防员因资金匮乏发起罢工；另有前沿原子导航技术与地方司法案件引发关注。
 
 **🎯 关键动态信号：**
-- 外文信号正在进行中文翻译，暂不展示未翻译内容。
-- 外文信号正在进行中文翻译，暂不展示未翻译内容。
-- 外文信号正在进行中文翻译，暂不展示未翻译内容。
-- 外文信号正在进行中文翻译，暂不展示未翻译内容。
-- 外文信号正在进行中文翻译，暂不展示未翻译内容。
-- 外文信号正在进行中文翻译，暂不展示未翻译内容。
-- 外文信号正在进行中文翻译，暂不展示未翻译内容。
-- 外文信号正在进行中文翻译，暂不展示未翻译内容。
 :::
 
 :::note
@@ -32,12 +24,12 @@ notice:
 日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。
 
 **📊 今日核心主线透视：**
-- **🧠 前沿智能**：【Sputnik Globe (官方国际英文电讯)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【AWS Machine Learning Blog (亚马逊云科技官方英文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【France 24 (EN 官方英语原版)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。
-- **🌐 全球地缘战略**：【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【France 24 (EN 官方英语原版)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。
-- **⚡ 战略能源与气候**：【NY Times World (纽约时报官方英文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【France 24 (EN 官方英语原版)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【Financial Times (英国金融时报)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。
-- **💹 宏观资本与产业**：【The Guardian (英国卫报官方英文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【FOX News Latest (美国FOX快讯)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【Financial Times (英国金融时报)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。
-- **🔬 深空与基础科学**：【Phys.org (基础物理与技术前沿)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【Phys.org (基础物理与技术前沿)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【Phys.org (基础物理与技术前沿)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。
-- **🛡️ 军事防务安全**：【FOX News Latest (美国FOX快讯)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【France 24 (EN 官方英语原版)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【TASS (塔斯社官方英文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。
+- **🧠 前沿智能**：【undefined】林赛·克兰西案流审数日后，另一名被控杀害子女的马萨诸塞州母亲寻求重获自由：如果您或您认识的人正在经历自杀念头，请拨打国家自杀预防生命热线 1-800-273-TALK (8255)。；【undefined】Proxima Fusion押注1.4亿欧元布局核聚变关键原料，该领域目前由亚洲供应商主导：Proxima Fusion正押注其核聚变反应堆的一项关键原料：超导带材。；【undefined】Amazon Quick 桌面版现已正式可用：让您的团队拥有一个能处理实际工作的 AI 助手，同时确保数据保留在您的环境中且对话完全私密
+- **⚡ 战略能源与气候**：【undefined】2025年气候灾害导致全球逾1.71亿学生学业受阻：责任编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：罗伯特·伊根（Robert Egan） 本文已根据Science X的编辑流程和政策进行审校。编辑在确保内容可信度的同时着重强调了以下特质：；【undefined】美国天然气市场正接近创纪录增长：据美国能源信息署（EIA）称，美国天然气产量预计将在2026年达到创纪录的每天1117亿立方英尺（bcfd），高于2025年的每天1076亿立方英尺。预计到2027年，美国国内供应量将达到每天1159亿立方英尺。但这只是故事的一半。EIA在其《短期能源展望》中表示，未来两年，美国天然气供应和需求都将升至创纪录水平。国内天然气消费量预计将从2025年创纪录的每天919亿立方英尺，升至2026年的每天1117亿立方英尺和2027年的每天11
+- **🔥 社会热点与思潮**：【undefined】Git 之后何去何从：East River Source Control 成立已有一年多，但我们此前很少公开谈论我们正在从事的项目。我们目前还不准备正式宣布任何产品，不过很快就会了；但在那之前，我们想分享一些关于版本控制及其未来发展方向的思考。；【undefined】这并非 YAML 规范的错，但是……：我又看到了一篇喷 YAML 的博文。作者一边自豪地反复念叨着“挪威问题”，一边发表着各种不实言论。于是我自己去深入探究了一番，以下是我的发现。；【undefined】与 JJ 的对话：到目前为止，我的博客一直完全专注于 Typst，但今天我想写点别的东西。（这种情况本身就很少见，所以我觉得最好抓住这个机会写下来！）
+- **🔬 深空与基础科学**：【undefined】孩子的大脑天生容易分心，有时这其实是一件好事：作者：伊丽莎白·韦恩斯坦（Elizabeth Weinstein），俄亥俄州立大学 编辑：加比·克拉克（Gaby Clark），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据 Science X 的编辑流程和规范完成审校。编辑在确保内容可信度的同时强调了以下属性： 同行评审出版物；【undefined】紧密导引原子技术有望在GPS失效时实现低功耗量子导航：作者：桑迪亚国家实验室（Sandia National Laboratories） 编辑：Gaby Clark，审校：Robert Egan 本文已根据Science X的编辑流程和政策完成审校。编辑在确保内容可信度的同时强调了以下属性： 经同行评审的出版物
+- **💹 宏观资本与产业**：【undefined】周五的CPI通胀报告比以往更为关键：以下是前瞻要点：定于周五早晨发布的一份报告，将成为美联储下周就利率做出决定前所能获取的最后一块通胀拼图。
+- **🌐 全球地缘战略**：【undefined】迎战NFL赛季：这款原价1400美元的75英寸电视在亚马逊降至800美元以下：海信75英寸U6 Pro Fire TV以亲民的价格提供了超大屏幕与丰富功能。（iStock）
 :::
 
 ## 🔥 AI 深度追踪与独家专题专区
@@ -56,79 +48,46 @@ notice:
 
 <div class="perspective-matrix-card">
   <div class="perspective-matrix-header">
-    <h3 class="perspective-matrix-title">🎯 焦点对决：本轮信源叙事与证据对照</h3>
+    <h3 class="perspective-matrix-title">🎯 焦点对决：法国消防应急体系与财政资金缺口</h3>
     <span class="perspective-stance-badge">多极视角对照</span>
   </div>
   <div class="perspective-consensus-box">
     <div class="perspective-consensus-title">✅【已证实核心共识与基础事实】</div>
-    <div>当前仅展示各信源已抓取的标题、摘要和正文证据；没有足够交叉证据的判断暂不生成。</div>
+    <div></div>
   </div>
   <div class="perspective-sources-grid">
-    <div class="perspective-source-item">
-      <div class="perspective-source-header">
-        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="Sputnik Globe (官方国际英文电讯)" width="16" height="16" /> Sputnik Globe (官方国际英文电讯)</span>
-        <span class="perspective-stance-badge">莫斯科官方视角</span>
-      </div>
-      <div class="perspective-source-body">【Sputnik Globe (官方国际英文电讯)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
-    </div>
-    <div class="perspective-source-item">
-      <div class="perspective-source-header">
-        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> RIA Novosti (俄新社官方俄文)</span>
-        <span class="perspective-stance-badge">莫斯科官方视角</span>
-      </div>
-      <div class="perspective-source-body">【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
-    </div>
-    <div class="perspective-source-item">
-      <div class="perspective-source-header">
-        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="16" height="16" /> NY Times World (纽约时报官方英文)</span>
-        <span class="perspective-stance-badge">美主流建制派</span>
-      </div>
-      <div class="perspective-source-body">【NY Times World (纽约时报官方英文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
-    </div>
-    <div class="perspective-source-item">
-      <div class="perspective-source-header">
-        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> AWS Machine Learning Blog (亚马逊云科技官方英文)</span>
-        <span class="perspective-stance-badge">独立专业观察</span>
-      </div>
-      <div class="perspective-source-body">【AWS Machine Learning Blog (亚马逊云科技官方英文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
-    </div>
-    <div class="perspective-source-item">
-      <div class="perspective-source-header">
-        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="16" height="16" /> France 24 (EN 官方英语原版)</span>
-        <span class="perspective-stance-badge">欧洲战略自主</span>
-      </div>
-      <div class="perspective-source-body">【France 24 (EN 官方英语原版)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
-    </div>
-    <div class="perspective-source-item">
-      <div class="perspective-source-header">
-        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> FOX News Latest (美国FOX快讯)</span>
-        <span class="perspective-stance-badge">美保守派与鹰派</span>
-      </div>
-      <div class="perspective-source-body">【FOX News Latest (美国FOX快讯)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
-    </div>
-    <div class="perspective-source-item">
-      <div class="perspective-source-header">
-        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> Phys.org (基础物理与技术前沿)</span>
-        <span class="perspective-stance-badge">前沿同行评议严谨</span>
-      </div>
-      <div class="perspective-source-body">【Phys.org (基础物理与技术前沿)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
-    </div>
-    <div class="perspective-source-item">
-      <div class="perspective-source-header">
-        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="OpenAI News (官方动态)" width="16" height="16" /> OpenAI News (官方动态)</span>
-        <span class="perspective-stance-badge">独立专业观察</span>
-      </div>
-      <div class="perspective-source-body">【OpenAI News (官方动态)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
-    </div>
   </div>
   <div class="perspective-analysis-row">
     <div class="perspective-deep-interest">
       <div class="analysis-label">💡【深层地缘与利益诉求解构】</div>
-      <div>利益诉求需要结合同一事件的多家原文与正式声明进一步核验。</div>
+      <div></div>
     </div>
     <div class="perspective-blind-spot">
       <div class="analysis-label">🔍【关键信息盲区与待核实点】</div>
-      <div>RSS 摘要、付费墙、反爬或动态渲染导致的正文缺口将在文章卡片中明确标注。</div>
+      <div></div>
+    </div>
+  </div>
+</div>
+
+<div class="perspective-matrix-card">
+  <div class="perspective-matrix-header">
+    <h3 class="perspective-matrix-title">🎯 焦点对决：全球气候灾害对儿童教育的影响</h3>
+    <span class="perspective-stance-badge">多极视角对照</span>
+  </div>
+  <div class="perspective-consensus-box">
+    <div class="perspective-consensus-title">✅【已证实核心共识与基础事实】</div>
+    <div></div>
+  </div>
+  <div class="perspective-sources-grid">
+  </div>
+  <div class="perspective-analysis-row">
+    <div class="perspective-deep-interest">
+      <div class="analysis-label">💡【深层地缘与利益诉求解构】</div>
+      <div></div>
+    </div>
+    <div class="perspective-blind-spot">
+      <div class="analysis-label">🔍【关键信息盲区与待核实点】</div>
+      <div></div>
     </div>
   </div>
 </div>
@@ -138,30 +97,30 @@ notice:
 <div class="live-wire-grid">
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:09</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/sputnik.svg" class="source-icon" alt="Sputnik Globe (官方国际英文电讯)" width="14" height="14" /> Sputnik Globe (官方国际英文电讯)</span>
+      <span class="wire-time-badge">🕒 03:43</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://sputnikglobe.com/20260910/us-spy-aircraft-flies-for-9-hours-along-russias-south-over-black-sea---flight-data-1124713156.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
+      <a href="#story-r-children-seeks-freedom-7bd74ffb5c8a6f50" class="wire-title-link" title="点击直达本站全篇深度编译">
+        林赛·克兰西案流审数日后，另一名被控杀害子女的马萨诸塞州母亲寻求重获自由
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【Sputnik Globe (官方国际英文电讯)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：如果您或您认识的人正在经历自杀念头，请拨打国家自杀预防生命热线 1-800-273-TALK (8255)。</div>
     <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://sputnikglobe.com/20260910/us-spy-aircraft-flies-for-9-hours-along-russias-south-over-black-sea---flight-data-1124713156.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-r-children-seeks-freedom-7bd74ffb5c8a6f50" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/us/days-after-lindsay-clancy-mistrial-another-massachusetts-mom-accused-killing-her-children-seeks-freedom" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:09</span>
+      <span class="wire-time-badge">🕒 03:42</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/hashagov-2116902682.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260910/izrail-2116926099.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -169,17 +128,35 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/hashagov-2116902682.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/izrail-2116926099.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:09</span>
+      <span class="wire-time-badge">🕒 03:41</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.france24.com/en/french-firefighters-on-six-week-strike-after-record-summer-blazes" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:41</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/rossija-2116902517.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260910/sklad-2116925947.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -187,12 +164,310 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/rossija-2116902517.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/sklad-2116925947.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:09</span>
+      <span class="wire-time-badge">🕒 03:40</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/scossa-di-terremoto-di-magnitudo-41-dopo-raid-israele-nel-sud-del-libano_9302497d-708f-49c7-b095-bde0f1984625.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/10/scossa-di-terremoto-di-magnitudo-41-dopo-raid-israele-nel-sud-del-libano_9302497d-708f-49c7-b095-bde0f1984625.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:40</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-d-schooling-million-html-4bcdabecac1787f1" class="wire-title-link" title="点击直达本站全篇深度编译">
+        2025年气候灾害导致全球逾1.71亿学生学业受阻
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：责任编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：罗伯特·伊根（Robert Egan）
+本文已根据Science X的编辑流程和政策进行审校。编辑在确保内容可信度的同时着重强调了以下特质：</div>
+    <div class="wire-actions">
+      <a href="#story-d-schooling-million-html-4bcdabecac1787f1" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://phys.org/news/2026-09-climate-hazards-disrupted-schooling-million.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:40</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-lt-distraction-good-html-4227b30b98b41374" class="wire-title-link" title="点击直达本站全篇深度编译">
+        孩子的大脑天生容易分心，有时这其实是一件好事
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：作者：伊丽莎白·韦恩斯坦（Elizabeth Weinstein），俄亥俄州立大学
+编辑：加比·克拉克（Gaby Clark），审校：安德鲁·齐宁（Andrew Zinin）
+本文已根据 Science X 的编辑流程和规范完成审校。编辑在确保内容可信度的同时强调了以下属性：
+同行评审出版物</div>
+    <div class="wire-actions">
+      <a href="#story-lt-distraction-good-html-4227b30b98b41374" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://phys.org/news/2026-09-kids-brains-built-distraction-good.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:40</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-nable-power-quantum-html-24f71d60499c544c" class="wire-title-link" title="点击直达本站全篇深度编译">
+        紧密导引原子技术有望在GPS失效时实现低功耗量子导航
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：作者：桑迪亚国家实验室（Sandia National Laboratories）
+编辑：Gaby Clark，审校：Robert Egan
+本文已根据Science X的编辑流程和政策完成审校。编辑在确保内容可信度的同时强调了以下属性：
+经同行评审的出版物</div>
+    <div class="wire-actions">
+      <a href="#story-nable-power-quantum-html-24f71d60499c544c" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://phys.org/news/2026-09-tightly-atoms-enable-power-quantum.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:40</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-e-75-inch-tv-deal-amazon-6ecbf1e3996b972f" class="wire-title-link" title="点击直达本站全篇深度编译">
+        迎战NFL赛季：这款原价1400美元的75英寸电视在亚马逊降至800美元以下
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：海信75英寸U6 Pro Fire TV以亲民的价格提供了超大屏幕与丰富功能。（iStock）</div>
+    <div class="wire-actions">
+      <a href="#story-e-75-inch-tv-deal-amazon-6ecbf1e3996b972f" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/deals/hisense-75-inch-tv-deal-amazon" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:39</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_264b84d3-1792-4d81-b064-21e3aa16218b.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_264b84d3-1792-4d81-b064-21e3aa16218b.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:39</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/ii-2116925729.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/ii-2116925729.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:39</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://tass.com/world/2185769" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://tass.com/world/2185769" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:39</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/kosmos-2116925559.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/kosmos-2116925559.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:38</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🛡️ 军事防务安全</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-lor-mcgregor-star-danica-5f6462ef3bc6fd2d" class="wire-title-link" title="点击直达本站全篇深度编译">
+        唐纳德·特朗普对惨不忍睹的NFL揭幕战毫无兴趣，ESPN泰勒·麦格雷戈成焦点，以及丹妮卡！
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：“Nightcaps”是一档每日专栏，带你了解那些你在办公桌前假装工作时可能错过的重大体育、新闻和文化故事。该专栏于周一至周五在OutKick.com刊登。
+橄榄球赛季的第一个周四。橄榄球赛季真正的第一个周四。你知道这意味着什么，对吧？
+祝你非正式的周末愉快开始！在这里，秋季的周末是从周四开始的——而且理由十分充分。
+今晚全球各地都有橄榄球赛。显而易见，重头……</div>
+    <div class="wire-actions">
+      <a href="#story-lor-mcgregor-star-danica-5f6462ef3bc6fd2d" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/outkick-sports/donald-trump-no-interest-watching-horrible-nfl-opener-espn-taylor-mcgregor-star-danica" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:38</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:37</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/finljandija-2116925385.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/finljandija-2116925385.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:35</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/penza-2116925247.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/penza-2116925247.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:35</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/cala-ma-non-cede-linflazione-in-argentina-17-ad-agosto_6c8de7dc-fc51-4826-821e-b1209ee83adc.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/cala-ma-non-cede-linflazione-in-argentina-17-ad-agosto_6c8de7dc-fc51-4826-821e-b1209ee83adc.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:32</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.france24.com/en/as-new-york-marks-25-years-since-9-11-muslims-recall-stigmatization-in-aftermath-of-attacks" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.france24.com/en/as-new-york-marks-25-years-since-9-11-muslims-recall-stigmatization-in-aftermath-of-attacks" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:32</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.france24.com/en/europe/20260910-no-facts-morocco-denies-involvement-in-deadly-ceuta-migrant-rush" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.france24.com/en/europe/20260910-no-facts-morocco-denies-involvement-in-deadly-ceuta-migrant-rush" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:31</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="14" height="14" /> NY Times World (纽约时报官方英文)</span>
       <span class="wire-dim-badge">⚡ 战略能源与气候</span>
     </div>
@@ -210,48 +485,30 @@ notice:
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:08</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="14" height="14" /> AWS Machine Learning Blog (亚马逊云科技官方英文)</span>
+      <span class="wire-time-badge">🕒 03:31</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story-ng-amazon-quick-automate-54fce46ac0e83ebf" class="wire-title-link" title="点击直达本站全篇深度编译">
-        使用 Amazon Quick Automate 构建端到端 RFI 调查问卷工作流
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【AWS Machine Learning Blog (亚马逊云科技官方英文)·独立专业观察】：使用 Amazon Quick Automate 构建端到端信息征询书（RFI）调查问卷工作流，以解决各种规模组织所面临的挑战。一家典型的企业每年可能要处理数百份 RFI 调查问卷，而每份问卷通常是一个复杂、多工作表（multi-tab）的工作簿，其中包含层级化的问题集、分类元数据以及各种各样的作答类型。这些文档的数量、多样性和复杂性带来了巨大的运营挑战。手……</div>
-    <div class="wire-actions">
-      <a href="#story-ng-amazon-quick-automate-54fce46ac0e83ebf" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:08</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.france24.com/en/video/20260910-c%C3%A9line-dion-fan-recounts-experience-singing-with-the-superstar" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://tass.com/world/2185767" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/en/video/20260910-c%C3%A9line-dion-fan-recounts-experience-singing-with-the-superstar" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://tass.com/world/2185767" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:07</span>
+      <span class="wire-time-badge">🕒 03:30</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/gosduma-2116902301.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260910/kiev-2116924628.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -259,107 +516,53 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/gosduma-2116902301.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/kiev-2116924628.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:06</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
+      <span class="wire-time-badge">🕒 03:27</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.france24.com/en/hindu-sect-baps-comes-under-scrutiny-in-france-us" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://tass.com/world/2185765" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/en/hindu-sect-baps-comes-under-scrutiny-in-france-us" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://tass.com/world/2185765" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:06</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
-      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:05</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/elista-2116902052.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/elista-2116902052.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:03</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/moskva-2116901629.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/moskva-2116901629.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:02</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="14" height="14" /> AWS Machine Learning Blog (亚马逊云科技官方英文)</span>
+      <span class="wire-time-badge">🕒 03:27</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="14" height="14" /> NY Times World (纽约时报官方英文)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story--pii-detection-with-llms-1ece0c71b36306ed" class="wire-title-link" title="点击直达本站全篇深度编译">
-        基于大语言模型的模型无关型 PII 检测
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      <a href="https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【AWS Machine Learning Blog (亚马逊云科技官方英文)·独立专业观察】：一款可配置、指令驱动的检测器，可运行在 Amazon Bedrock 托管的任何大语言模型（LLM）上，并在涵盖 OpenAI PrivacyFilter 等 9 种基于 LLM 的检测器的 5 个公开 PII 语料库上完成了评估。</div>
+    <div class="wire-snippet">【NY Times World (纽约时报官方英文)·美主流建制派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
-      <a href="#story--pii-detection-with-llms-1ece0c71b36306ed" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.nytimes.com/2026/09/10/world/africa/chimamanda-ngozi-adichie-nigeria-son-death.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:02</span>
+      <span class="wire-time-badge">🕒 03:26</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/tramp-2116901394.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260910/gosuslugi-2116924434.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -367,17 +570,35 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/tramp-2116901394.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/gosuslugi-2116924434.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:02</span>
+      <span class="wire-time-badge">🕒 03:26</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://tass.com/emergencies/2185763" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://tass.com/emergencies/2185763" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 03:24</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/fifa-2116901238.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260910/pozhar-2116924245.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -385,269 +606,53 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/fifa-2116901238.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/pozhar-2116924245.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:01</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/gosduma-2116901068.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/gosduma-2116901068.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:01</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/skovoroda-2116900911.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/skovoroda-2116900911.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:01</span>
+      <span class="wire-time-badge">🕒 03:23</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-rsonal-celebration-honor-5a98dc440936bf20" class="wire-title-link" title="点击直达本站全篇深度编译">
-        “9·11”当天出生的美国人以志愿服务纪念25岁，放弃个人庆生以示缅怀
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：威廉·费伯（William Faber）曾像普通幼童一样庆祝自己的9月11日生日——但在10岁左右得知这一天的特殊意义后，他做出选择：在这周年纪念日服务他人，而非为自己庆生。</div>
-    <div class="wire-actions">
-      <a href="#story-rsonal-celebration-honor-5a98dc440936bf20" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/media/americans-born-9-11-mark-25-years-acts-service-trading-personal-celebration-honor" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:00</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://phys.org/news/2026-09-white-graphene-reshaped-atomic-scale.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.foxnews.com/media/trump-defends-waiting-5000-checks-praises-beautiful-tariffs-ingraham-angle" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://phys.org/news/2026-09-white-graphene-reshaped-atomic-scale.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.foxnews.com/media/trump-defends-waiting-5000-checks-praises-beautiful-tariffs-ingraham-angle" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:00</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-time-badge">🕒 03:22</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="14" height="14" /> NY Times World (纽约时报官方英文)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://phys.org/news/2026-09-ai-reshaping-workplace-jobs.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【NY Times World (纽约时报官方英文)·美主流建制派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://phys.org/news/2026-09-ai-reshaping-workplace-jobs.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:00</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/danija-2116900659.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/danija-2116900659.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:00</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/openai.svg" class="source-icon" alt="OpenAI News (官方动态)" width="14" height="14" /> OpenAI News (官方动态)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【OpenAI News (官方动态)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:00</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="14" height="14" /> The Verge (前沿数码科技)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【The Verge (前沿数码科技)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:00</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="14" height="14" /> TechCrunch (硅谷创业与资本)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-word-managers-on-android-22295a96a6b4196f" class="wire-title-link" title="点击直达本站全篇深度编译">
-        谷歌让安卓设备上的密码管理器切换变得更加轻松
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【TechCrunch (硅谷创业与资本)·独立专业观察】：谷歌周四在安卓系统上推出了一种全新的密码管理器切换体验，用户在迁移到新应用时无需再下载 CSV 文件。</div>
-    <div class="wire-actions">
-      <a href="#story-word-managers-on-android-22295a96a6b4196f" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 00:00</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="14" height="14" /> OilPrice (全球能源与原油大宗)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://oilprice.com/The-Environment/Global-Warming/The-Race-to-Cut-Methane-Emissions-Is-Exposing-a-Global-Divide.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【OilPrice (全球能源与原油大宗)·大宗能源产业链】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://oilprice.com/The-Environment/Global-Warming/The-Race-to-Cut-Methane-Emissions-Is-Exposing-a-Global-Divide.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 23:57</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/madyar-2116900393.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/madyar-2116900393.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 23:57</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.france24.com/en/video/20260910-august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/en/video/20260910-august-hottest-month-ever-recorded-globally-as-huge-el-nino-emerges" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 23:56</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/trusova-2116900241.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/trusova-2116900241.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 23:55</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ft.svg" class="source-icon" alt="Financial Times (英国金融时报)" width="14" height="14" /> Financial Times (英国金融时报)</span>
-      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Financial Times (英国金融时报)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 23:55</span>
+      <span class="wire-time-badge">🕒 03:22</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR 官方法语原版)" width="14" height="14" /> France 24 (FR 官方法语原版)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.france24.com/fr/moyen-orient/20260910-en-direct-moyen-orient-iran-petrole-au-dessus-100-dollars-frappes-detroit-ormuz-donald-trump" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.france24.com/fr/afrique/20260910-apr%C3%A8s-drame-ceuta-maroc-r%C3%A9agit-refuse-%C3%AAtre-bouc-%C3%A9missaire-espagne-sanchez" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -655,53 +660,17 @@ notice:
     <div class="wire-snippet">【France 24 (FR 官方法语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/fr/moyen-orient/20260910-en-direct-moyen-orient-iran-petrole-au-dessus-100-dollars-frappes-detroit-ormuz-donald-trump" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.france24.com/fr/afrique/20260910-apr%C3%A8s-drame-ceuta-maroc-r%C3%A9agit-refuse-%C3%AAtre-bouc-%C3%A9missaire-espagne-sanchez" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 23:55</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="14" height="14" /> AWS Machine Learning Blog (亚马逊云科技官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-multi-turn-conversations-637b2a144e560438" class="wire-title-link" title="点击直达本站全篇深度编译">
-        面向多轮对话的智能体评估指标
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【AWS Machine Learning Blog (亚马逊云科技官方英文)·独立专业观察】：多轮智能体出现故障的方式往往会被单轮评估所忽略：一个早期的错误会悄然破坏后续的每一个轮次。本文介绍了智能体评估指标（Agent Evaluation Metric，简称 AEM），这是一种可分解的、按轮次衡量智能体质量的方法。我们将其应用于其第一个维度——正确性。我们将展示 AEM 如何精确定位导致失败的那一轮，并将其与仅继承了该问题的轮次区分开来。</div>
-    <div class="wire-actions">
-      <a href="#story-multi-turn-conversations-637b2a144e560438" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 23:55</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.france24.com/en/video/20260910-zelensky-s-plane-almost-hit-by-drone-en-route-to-oslo-norway-pm-says" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/en/video/20260910-zelensky-s-plane-almost-hit-by-drone-en-route-to-oslo-norway-pm-says" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 23:54</span>
+      <span class="wire-time-badge">🕒 03:21</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/avangard-2116899684.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260910/muzhchiny-2116924018.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -709,7 +678,7 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/avangard-2116899684.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/muzhchiny-2116924018.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
 </div>
@@ -718,236 +687,199 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-ng-amazon-quick-automate-54fce46ac0e83ebf" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="5960" data-content-paragraphs="32" data-published-at="2026-09-10T16:08:57.000Z" data-time-source="publication">
+<div id="story-r-children-seeks-freedom-7bd74ffb5c8a6f50" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1205" data-content-paragraphs="23" data-published-at="2026-09-10T19:43:51.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 00:08</span>
+  <span class="news-meta-time">🕒 2026-09-11 03:43</span>
 </div>
 
-### [使用 Amazon Quick Automate 构建端到端 RFI 调查问卷工作流](https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate</div>
+### [林赛·克兰西案流审数日后，另一名被控杀害子女的马萨诸塞州母亲寻求重获自由](https://www.foxnews.com/us/days-after-lindsay-clancy-mistrial-another-massachusetts-mom-accused-killing-her-children-seeks-freedom)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Days after Lindsay Clancy mistrial, another Massachusetts mom accused of killing her children seeks freedom</div>
 
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/01/ML-20411-1.png" alt="使用 Amazon Quick Automate 构建端到端 RFI 调查问卷工作流" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/janette-macausland-split.jpeg?ve=1&amp;tl=1" alt="林赛·克兰西案流审数日后，另一名被控杀害子女的马萨诸塞州母亲寻求重获自由" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>使用 Amazon Quick Automate 构建端到端信息征询书（RFI）调查问卷工作流，以解决各种规模组织所面临的挑战。一家典型的企业每年可能要处理数百份 RFI 调查问卷，而每份问卷通常是一个复杂、多工作表（multi-tab）的工作簿，其中包含层级化的问题集、分类元数据以及各种各样的作答类型。这些文档的数量、多样性和复杂性带来了巨大的运营挑战。手动提取、结构化和处理 RFI 问题需要反复协调，导致响应延迟，并且每次调查问卷格式发生变化时都可能引入错误。</p>
-<p>Amazon Quick Automate 针对受支持的企业流程处理多智能体自动化，这些流程可跨越部门、系统、UI 与 API 交互以及第三方系统。它利用智能体团队来简化业务流程管理并减少维护开销。你只需用自然语言描述处理目标，Quick Automate 即可生成一个涵盖数据摄取、转换、验证和输出的可执行工作流。你可以通过对话优化该工作流，针对自身数据运行它，并在各个 AWS 区域之间推广已验证的版本。这种方法有助于加快 RFI 响应速度，减少格式不一致和错误。该自动化旨在随工作负载进行扩展，并且你可以通过更新自然语言指令来使其适配新的调查问卷格式。</p>
-<p>在本文中，我们将向你展示如何构建一个端到端自动化流程：从 Amazon Simple Storage Service (Amazon S3) 读取多工作表 RFI 工作簿，提取并结构化调查问卷数据，然后将规整的输出写回 Amazon S3。本教程使用 Amazon Quick Automate 和 Amazon S3。有关成本详情，请参阅 Amazon Quick 定价和 Amazon S3 定价。</p>
-<p>本操作演示将对存储在 Amazon S3 中的 RFI 工作簿的处理过程进行自动化。当采购团队收到 RFI 调查问卷时，他们需要提取每个问题并保留其类别和响应类型。其目标是生成下游团队可以消费、解读并采取行动的结构化数据集。在此示例中，我们提出了一种使用 Amazon Quick Automate 自动化该流程的解决方案。首先，将 Amazon Quick Automate 连接到存储 RFI 工作簿的 Amazon S3 存储桶。然后创建一个自动化项目，用于选择数据连接器并组织工作流。项目建立后，你便可以用自然语言描述处理逻辑：读取什么内容、如何结构化以及将输出写入何处。最终将生成一个有效运行的自动化流程，用于读取多工作表 RFI 工作簿、提取并结构化调查问卷数据，并输出规整的逗号分隔值（CSV）文件。在常见场景下，该方案无需编写自定义代码。下图展示了高层级的步骤序列。</p>
-<p>图 1：RFI 工作簿自动化的整体步骤序列</p>
-<p>该流程图指引你完成从连接数据源到在生产环境中部署已完成的自动化的整个过程。请查看 AWS 区域页面以了解最新的服务可用性。</p>
-<p>该解决方案遵循以下步骤：<br />1. 设置 Amazon S3 动作连接器 —— 将 Amazon Quick Automate 连接到你的 S3 存储桶。<br />2. 将 S3 集成添加到自动化组 —— 与将要使用该 S3 动作的自动化组共享该动作。<br />3. 创建自动化项目 —— 创建用于描述处理逻辑的项目。<br />4. 描述处理逻辑 —— 输入自然语言提示词，让生成式 AI 助手构建工作流。<br />5. 通过对话进行微调 —— 通过提出针对性的修改要求对生成的工作流进行迭代。<br />6. 验证结果 —— 在预生产（开发）AWS 账户中运行工作流并验证输出。<br />7. 使用导入/导出进行升级推广 —— 导出已验证的版本并将其导入到生产账户或目标 AWS 区域中。</p>
-<p>了解了解决方案的整体步骤后，我们将查看环境要求。</p>
-<p>在开始之前，请确认你的环境满足以下要求：<br />- 拥有可访问 Amazon Quick Automate 的 Amazon Quick 企业版订阅。<br />- 拥有与 Amazon Quick 应用程序位于同一 AWS 区域的 Amazon S3 存储桶。<br />- 熟悉 AWS Identity and Access Management (IAM) 角色和策略。<br />- 对 Amazon S3 存储桶、前缀和对象有基本了解。</p>
-<p>本操作演示的 IAM 基线</p>
-<p>你需要一个授予 Amazon Quick Automate 访问 S3 存储桶权限的 IAM 角色。如果尚未创建，请按照以下说明立即创建：<br />1. 打开 IAM 控制台。<br />2. 在导航窗格中，依次选择“角色（Roles）”、“创建角色（Create role）”。<br />3. 在“受信任的实体类型（Trusted entity type）”中，选择“自定义信任策略（Custom trust policy）”，并粘贴以下信任策略：<br />{ &quot;Version&quot;: &quot;2012-10-17&quot;, &quot;Statement&quot;: [ { &quot;Effect&quot;: &quot;Allow&quot;, &quot;Principal&quot;: { &quot;Service&quot;: &quot;quicksight.amazonaws.com&quot; }, &quot;Action&quot;: &quot;sts:AssumeRole&quot; } ] }<br />4. 选择“下一步（Next）”，并附加一个针对目标存储桶授予 s3:GetObject、s3:PutObject 和 s3:ListBucket 权限的权限策略。<br />5. 为角色命名（例如 QuickAutomate-S3-Role），然后选择“创建角色（Create role）”。<br />6. 复制该角色的 Amazon 资源名称（ARN）。在配置 S3 连接器时将需要用到它。</p>
-<p>创建好 IAM 角色并复制角色 ARN 后，即可开始配置 Amazon Quick Automate 与 S3 存储桶之间的连接。</p>
-<p>设置 S3 连接器</p>
-<p>确认先决条件后，在 Amazon Quick 控制台中配置 S3 连接器。<br />1. 在 Amazon Quick 控制台中，选择右上角的用户图标。<br />2. 打开“管理账户（Manage Account）”，然后转到“权限 &gt; AWS 动作（Permissions &gt; AWS Actions）”。<br />图 2：Amazon Quick 控制台中的 AWS Actions 页面<br />3. 选择“新建动作（New action）”，然后选择“Amazon S3”。<br />4. 配置连接器：<br />   - 输入连接器名称（例如 ExampleBucket-S3-Connection）和描述。<br />   - 粘贴在先决条件步骤中创建的 IAM 角色的 ARN。<br />图 3：Amazon S3 动作连接器配置<br />控制台会自动验证角色信任策略。确认状态显示连接成功。<br />5. 与构建和运行工作流的用户及组共享该连接器。</p>
-<p>创建自动化组</p>
-<p>1. 在 Amazon Quick 控制台中，转到“自动化 &gt; 创建组（Automations &gt; Create Group）”。<br />图 4：自动化页面上的“创建组”选项<br />2. 为该组命名（例如 RFI-Processing-Group）。<br />3. 在“添加动作（Add actions）”页面上，选择之前创建的 Amazon S3 连接，然后选择“下一步（Next）”。<br />图 5：为自动化组选择 Amazon S3<br />配置好连接器和自动化组后，创建用于容纳工作流的自动化项目。</p>
-<p>创建自动化项目</p>
-<p>自动化项目是描述处理逻辑以及存放所生成工作流的地方。<br />在“自动化（Automations）”页面上，选择“项目（Projects）”选项卡，然后选择“创建项目（Create Project）”。</p>
-<p>在“提供项目详情”（Provide project details）中，输入项目名称，选择已创建的自动化组，并可按需添加描述和上传现有文档。<br />选择“下一步：业务案例”（Next: Business case）。<br />业务案例部分为可选内容，用于跟踪投资回报率。若要完成填写，请录入每例节省的小时数、每年案例数、项目优先级以及目标上线日期。<br />您的项目将打开至摘要页面，其中包含“摘要”（Summary）、“版本”（Versions）和“部署”（Deployments）选项卡，以及一个显示项目当前状态的状态面板。<br />在连接器、自动化组和项目就绪后，您就可以开始描述工作流逻辑了。</p>
-<p>用自然语言描述处理逻辑<br />在 Amazon Quick Automate 中，您可以使用自然语言描述自动化任务应执行的操作。您可以直接在提示词区域输入，或上传包含需求的文件。AI 助手会解析您的指令并生成可执行的工作流步骤。</p>
-<p>步骤 1：连接到 S3 并读取工作表<br />在自动化项目中，您会看到一个用于描述处理需求的文本区域。输入一段涵盖数据源、转换逻辑和预期输出的提示词。例如：<br />“使用 ExampleBucket-S3-Connection 连接器连接到我的 S3 存储桶。从 sample-folder 前缀中读取 SampleDepartment_Version2.xlsx 文件。打开 Strategy 工作表并提取所有调查问题。根据编号和缩进识别主问题和子问题。使用包含‘序号’（Serial Number）、‘类别’（Category）、‘问题’（Question）和‘回答类型’（Response Type）的列来组织数据结构。将输出作为 CSV 文件写入同一存储桶中的 output-folder 前缀下。”<br />图 6：在自动化项目中输入处理提示词</p>
-<p>步骤 2：查看生成的工作流<br />提交提示词后，AI 助手会生成一个多步骤工作流。每个步骤都对应您指令的一部分：<br />读取数据（Read data）——连接到 S3，下载工作簿，并读取包含表头的目标工作表。<br />提取与转换（Extract and transform）——通过编号和缩进识别主问题与子问题，并从列标题中提取类别元数据。<br />结构化输出（Structure output）——通过合并父级上下文将子问题转换为独立记录。定义输出模式（schema）。<br />写入结果（Write results）——将结构化输出作为 CSV 文件保存到指定的 S3 位置。<br />图 7：生成的多步骤工作流<br />由于 AI 助手依赖生成式 AI，它生成的具体步骤和措辞在不同运行之间可能会有所不同。您看到的工作流可能与此示例略有差异，但它会根据您的指令涵盖相同的逻辑操作。</p>
-<p>步骤 3：运行与验证<br />选择“运行”（Run）以针对您的工作簿执行工作流。查看输出以确认：<br />所有问题均已提取（主问题和子问题）。<br />类别文本与源列标题完全一致。<br />子问题包含父级上下文。<br />回答类型与源数据保持一致。<br />图 8：工作流运行输出</p>
-<p>通过对话微调工作流<br />当输出需要改进时，可使用对话界面请求针对性的更改。指明具体的步骤并描述预期行为。<br />微调提示词示例：<br />“读取 Strategy 工作表的步骤还应将列标题作为元数据捕获。”<br />“类别字段与源表头不匹配。请更新提取逻辑以使用精确的表头文本。”<br />“在子问题转换步骤中，将父级上下文合并到问题文本中。”</p>
-<p>遵循以下迭代周期：<br />识别问题——将输出与预期结果进行比对。<br />请求针对性更新——用自然语言描述更改，并引用具体的步骤。<br />查看更新后的工作流——AI 助手修改相关步骤并向您展示更改。<br />重新运行并验证——再次执行并确认修复。</p>
-<p>在将自动化提升至生产环境之前，请遵循以下最佳实践：<br />增量验证——在每次微调后运行并检查输出，而不是批量提交多处更改。<br />显式处理边缘用例——描述在数据缺失、重复或格式不一致时工作流应采取的行为。</p>
-<p>使用导入/导出提升自动化流程<br />Amazon Quick Automate 的导入/导出功能支持从预生产到生产环境的受控提升，以及跨 AWS 区域的稳定复用。<br />打开源自动化。<br />为经过验证的版本选择“导出版本”（Export version）。<br />图 9：导出经过验证的自动化版本<br />复制生成的版本链接。<br />注意：导出链接在设定的一段时间后会过期。请及时复制并使用，若已过期请生成新链接。<br />图 10：生成的导出版本链接<br />在目标账户或 AWS 区域中打开或创建一个 Amazon Quick Automate 项目。<br />选择“导入版本”（Import version）。<br />粘贴版本链接并选择“开始”（Start）。<br />查看版本详情并完成导入。<br />图 11：导入自动化版本<br />在目标环境中配置所需的连接器、凭据和部署设置。<br />图 12：导入后配置目标环境</p>
-<p>删除自动化项目和自动化组。<br />如果没有其他工作流使用该 S3 连接器，请将其移除。<br />在不再需要时删除测试 IAM 角色和测试 S3 对象。<br />有关详细的清理指南，请参阅《使用 Amazon Quick Automate》。</p>
-<p>在本文中，您使用 Amazon Quick Automate 构建了一个端到端自动化流程，用于处理存储为多工作表 Excel 工作簿的 RFI 问卷。您通过 Amazon S3 操作连接器连接了数据，使用自然语言描述了处理逻辑，通过对话微调了自动化，并使用导入/导出功能跨 AWS 账户和区域进行了推广。<br />您可以将此方法扩展到其他业务工作流，例如：<br />智能文档处理（IDP）——从发票、合同或表单中提取结构化数据。<br />报告合并——将多工作表财务报告合并为统一的数据集。<br />UI 自动化——自动化执行为下游分析提供数据的重复性浏览器任务。<br />调查数据汇总——将来自多个源的调查答复汇总为单一输出。</p>
-<p>有关自动化功能、操作连接器和自然语言工作流的更多信息，请参阅 Amazon Quick 文档。访问 Amazon Quick 入门指南，立即开始使用 Amazon Quick Automate。</p>
-<p>Chaytanya 是 AWS Professional Services 的一名 AI 开发者（AI Builder），致力于帮助企业和公共部门客户加速其生成式 AI 和云端转型之旅。凭借在 AI 赋能、智能体 AI（agentic AI）和数字化转型方面的深厚专长，他构建了推动可衡量业务成果的智能解决方案。工作之余，他喜欢探索海洋和山野步道来放松身心。</p>
-<p>Anneline 是 AWS 的一名 AI 构建师（AI Builder），专注于智能体及生成式 AI 解决方案的架构与交付。她在为医疗健康、高等教育和金融服务业（FSI）客户交付解决方案方面拥有 10 余年的经验，是帮助企业弥合创新概念与生产级应用之间鸿沟的关键技术合作伙伴。</p></div>
+<div class="article-body" data-article-body="true"><p>如果您或您认识的人正在经历自杀念头，请拨打国家自杀预防生命热线 1-800-273-TALK (8255)。</p>
+<p>在备受关注的林赛·克兰西（Lindsay Clancy）谋杀案审判以流审告终不到一周后，马萨诸塞州另一起涉及母亲被控杀害亲生子女的案件于周四重返法庭。因检方表示仍在等待法医的鉴定结果，辩方随即寻求撤销对她的指控。</p>
+<p>据WCVB报道，检方向法庭表示，他们仍在等待法医主任办公室对孩子们死因及死亡方式的官方认定，这促使辩护律师约瑟夫·克罗斯基（Joseph Krowski）要求撤案，或准予珍妮特·麦考斯兰（Janette MacAusland）保释。</p>
+<p>法官驳回了这两项请求，下令继续对麦考斯兰进行不得保释的拘押。</p>
+<p>【相关阅读：陪审团就杀害三子女案陷入僵局，林赛·克兰西案宣布流审】</p>
+<p>福克斯数字新闻（Fox News Digital）已联系克罗斯基以及诺福克县地方检察官办公室以寻求置评。</p>
+<p>49岁的麦考斯兰被控两项谋杀罪，罪名涉及其7岁儿子凯（Kai）和6岁女儿埃拉（Ella）的死亡。今年4月，警方在进行福利检查后，在位于韦尔斯利（Wellesley）的家中发现了这两个孩子的尸体。</p>
+<p>【相关阅读：波士顿富裕郊区母亲在监护权纠纷期间被控谋杀两名亲生子女】</p>
+<p>克兰西案的焦点在于产后精神错乱是否让她在法律意义上丧失了刑事责任能力，而在麦考斯兰一案中，尚未宣布采取此类辩护理由，该案目前仍处于初期阶段。</p>
+<p>【相关阅读：林赛·克兰西案判决：退休法官解释精神错乱辩护若成立将发生什么】</p>
+<p>麦考斯兰在佛蒙特州本宁顿被捕，此前她赶往一名亲戚家中，警方称她抵达时颈部有带血伤口。</p>
+<p>【相关阅读：在X平台关注福克斯真实犯罪团队】</p>
+<p>警方表示，佛蒙特州的警察对麦考斯兰的孩子们的安危感到担忧，遂联系了韦尔斯利当局，随后当地警官在一家人的住宅内发现了凯和埃拉的遗体。</p>
+<p>【相关阅读：喜欢你正在阅读的内容吗？点击此处获取更多】</p>
+<p>福克斯数字新闻此前获得的一份逮捕宣誓书指称，麦考斯兰在到达其姑母家后承认杀害了孩子们。</p>
+<p>宣誓书显示，麦考斯兰曾告诉其姑母，她原本希望“我们三个人一起去见上帝”，随后向警方交代自己勒死了孩子们并企图自杀。</p>
+<p>【相关阅读：收听全新播客《与唐娜·罗图诺探讨犯罪与司法》】</p>
+<p>该宣誓书还指称，麦考斯兰告诉警察，孩子们就在马萨诸塞州家中的她的床上。</p>
+<p>【相关阅读：伊利诺伊州一母亲被控谋杀2岁儿子，案件引发与林赛·克兰西案的比对】</p>
+<p>福克斯数字新闻此前查阅的法庭记录显示，麦考斯兰的丈夫在杀戮发生前数月提出了离婚申请，理由是婚姻关系已无可挽回地破裂，并寻求争夺两人两个孩子的监护权。</p>
+<p>【相关阅读：通过电子邮件获取突发新闻】</p>
+<p>随着检方等待法医的鉴定结果以及案件继续推进，麦考斯兰目前仍被收押，不得保释。</p>
+<p>福克斯数字新闻的彼得·达布罗斯卡（Peter D&#39;Abrosca）对本报道亦有贡献。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Amazon Quick Automate 可用于构建端到端的信息请求（RFI）问卷处理工作流。</li>
-    <li>Amazon Quick Automate 处理涵盖部门、系统、UI 及 API 交互和第三方系统的多 Agent 自动化，利用一组 Agent 来简化业务流程管理。</li>
-    <li>来源叙事重点：宣传并展示利用 Amazon Quick Automate 的多 Agent 生成式 AI 能力，通过自然语言低代码/无代码方式构建端到端 RFI 问卷自动化处理工作流，强调其能大幅减少人工开发成本并提升跨部门业务处理效率。</li>
+    <li>Lindsay Clancy谋杀案审判在不足一周前因陪审团陷入僵局以流审告终。</li>
+    <li>49岁的马萨诸塞州母亲Janette MacAusland被控两项谋杀罪，涉嫌杀害其7岁儿子Kai和6岁女儿Ella。</li>
+    <li>来源叙事重点：报道聚焦于将马萨诸塞州母亲Janette MacAusland杀子案与刚发生流审的Lindsay Clancy案进行对比联动，突出辩方在法医报告未出之际要求撤案或保释被拒的司法交锋，并详细复盘案发细节（涉嫌勒死两名子女、企图自杀、抚养权纠纷）。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#AWS</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/us/days-after-lindsay-clancy-mistrial-another-massachusetts-mom-accused-killing-her-children-seeks-freedom" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ough-assisted-dying-bill-f8e0da0afef4e7fb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="241" data-content-paragraphs="4" data-published-at="2026-09-10T15:25:45.000Z" data-time-source="publication">
+<div id="story-d-schooling-million-html-4bcdabecac1787f1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1808" data-content-paragraphs="18" data-published-at="2026-09-10T19:40:15.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
+    <span class="stance-badge">前沿同行评议严谨</span>
+    <span class="dimension-pill">⚡ 战略能源与气候</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:25</span>
+  <span class="news-meta-time">🕒 2026-09-11 03:40</span>
 </div>
 
-### [英朝野两派议员敦促下院勿冒“极大风险”强推辅助死亡法案](https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill)
-<div class="original-title-sub"><span class="orig-tag">原文</span> MPs on both sides urge Commons not to take ‘extraordinary risk’ of forcing through assisted dying bill</div>
+### [2025年气候灾害导致全球逾1.71亿学生学业受阻](https://phys.org/news/2026-09-climate-hazards-disrupted-schooling-million.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Climate hazards disrupted schooling for more than 171 million students in 2025</div>
 
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/5396e4a6c389bfb3fd51b409b74b477e49118158/393_41_1241_994/master/1241.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46371d82e0973457fd05a9a66df35a38" alt="英朝野两派议员敦促下院勿冒“极大风险”强推辅助死亡法案" loading="lazy" /></div>
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/more-than-171-million.jpg" alt="2025年气候灾害导致全球逾1.71亿学生学业受阻" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>工党议员加雷思·斯内尔（Gareth Snell）和梅格·希利尔（Meg Hillier）表示，必须允许上议院履行其审议这一重大公共议题法案的职责。</p>
-<p>英国政坛直播——最新动态</p>
-<p>曾就辅助死亡议题分别投下赞成票与反对票的下议院议员们纷纷敦促各自阵营，若该法案继续遭到上议院阻挠，切勿冒“极大风险”利用鲜为人知的议会程序强行通过该法案。</p>
-<p>在周五下一轮投票前的关键数小时内，两名工党议员向同事们联名致信发出警告：一位是此前投了赞成票的加雷思·斯内尔，另一位是投了反对票的梅格·希利尔。</p></div>
+<div class="article-body" data-article-body="true"><p>责任编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：罗伯特·伊根（Robert Egan）<br />本文已根据Science X的编辑流程和政策进行审校。编辑在确保内容可信度的同时着重强调了以下特质：</p>
+<p>联合国儿童基金会（UNICEF）今日发布的一项最新分析显示，2025年全球有超过1.71亿名从学前教育到高中阶段的学生（相当于每10人中就有1人）因气候灾害导致学业中断。</p>
+<p>这份题为《被打断的学习：2025年气候相关学校中断事件全球快照》（Learning Interrupted: Global Snapshot of Climate-Related School Disruptions in 2025）的报告分析了来自106个国家或地区的数据。报告发现，包括风暴、洪水、热浪、干旱和野火在内的气候灾害导致全球数百万学生停课、校舍受损、被迫转向远程学习、教学时间缩短、出勤率下降以及辍学风险加剧。</p>
+<p>联合国儿童基金会执行主任凯瑟琳·拉塞尔（Catherine Russell）表示：“对数百万儿童而言，气候灾害不仅打乱了日常课程：它们还会摧毁学校、使家庭流离失所，并迫使最弱势的儿童（尤其是女童）永远离开课堂。”</p>
+<p>根据该项分析，风暴是去年导致学校中断的最常见原因，波及全球1.09亿名学生。洪水影响了至少7000万名学生，而热浪则导致约5000万名儿童的学业受阻。</p>
+<p>“我的学校紧挨着一条小溪，一旦发生洪水，水就会暴涨并倒灌进学校，”来自巴布亚新几内亚的16岁少年陶迪布拉·加罗（Taudibura Garo）说道。预计在接下来的几个月里，厄尔尼诺现象将加剧该国遭遇极端天气的风险。</p>
+<p>“通常，积水会没过我们的膝盖并淹没旱厕，那样留在学校就会变得很不卫生，我们也因此错过了原本该上的课。”</p>
+<p>尽管所有收入阶层的学生都受到了学业中断的影响，但受波及的学生中有四分之三生活在低收入和中低收入国家。在这些地区，教育系统往往缺乏在气候紧急情况下保障学习连续性所需的资源。</p>
+<p>例如，在受影响最严重的国家之一巴基斯坦，8月份严重的季风洪灾导致超过2800万名学生推迟返校，这是2025年记录在案的因气候引发的最大规模教育中断事件之一。在埃及，4月份一场强烈的五旬风（Khamsin）沙尘暴导致全国停课一天，同样影响了逾2800万名学生。</p>
+<p>数据显示，全年有40个国家经历了多轮与气候相关的学校中断。以马达加斯加为例，该国年内遭遇了数轮干旱、热带气旋和洪灾，波及28万名学生。</p>
+<p>在西班牙，巴伦西亚自治区有超过50万名学生在3月遭遇风暴袭击，随后又在9月受到后热带气旋“加布里埃尔”（Gabrielle）的影响。对于该国其他地区的成千上万名学生而言，极端高温打乱了5月和6月的课程，而10月的“爱丽丝”（Alice）风暴也对教学造成了干扰。</p>
+<p>学业损失和辍学率攀升会降低劳动力生产率、延缓经济增长，并使各国更难消除贫困。报告指出，如果不采取行动，2025年经历过气候相关学校中断的学生终身收入可能面临至少2000亿美元的潜在损失。</p>
+<p>当气候灾害导致学校中断或关闭时，女童辍学的风险更高。学校设施和卫生条件的损毁、流离失所及家庭收入减少，可能会给女童带来额外的照护和取水负担。这些压力还会增加童婚风险，使女童在学校复课后更难重返课堂。</p>
+<p>与此同时，该报告重点介绍了已经有助于保护学业免受气候灾害影响的切实可行的解决方案，包括将气候适应能力纳入国家教育规划、加固学校基础设施、确保在灾害期间及之后的学习连续性，以及将气候教育融入课程，为儿童和青年人提供适应不断变化的世界所需的技能。</p>
+<p>立足于这些行之有效的方法，联合国儿童基金会呼吁各国政府及合作伙伴加大力度，保护教育免受气候灾害的最严重冲击，具体措施包括：</p>
+<p>“气候灾害正在威胁儿童的生命与未来，”拉塞尔说。“为了保护当今儿童及子孙后代的教育权利，我们必须投资于能够抵御气候冲击的学校和教育体系。”</p>
+<p>报告链接：www.unicef.org/reports/learning-interrupted</p>
+<p>斯瓦蒂·梅斯特里拥有电子工程学士学位，自2019年起担任内容编辑。她在科技、医疗保健和材料科学领域的研究文献编辑方面经验丰富，对科技与航天领域尤为关注。查看完整简介 →<br />拥有数学生物学学士学位及创意写作硕士学位。游历广泛，在科学与语言方面具有独到见解。查看完整简介 →</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>工党议员加雷斯·斯内尔（Gareth Snell）和梅格·希利尔（Meg Hillier）表示，必须允许上议院履行对这一重大公共议题法案的审查职责。</li>
-    <li>在周五下一轮投票前的关键时刻，曾分别投出赞成票和反对票的工党议员加雷斯·斯内尔与梅格·希利尔向同僚致警告信，敦促各自阵营不要在法案若继续遭上议院阻挠时，采取非常规议会程序强行通过该法案，称这是一种“非同寻常的风险”。</li>
-    <li>来源叙事重点：聚焦英国跨阵营议员呼吁维护议会宪制传统与审议程序，警告若因协助自杀法案遭上议院阻挠而强行利用非常规议会程序强推法案，将带来巨大宪政与程序风险。</li>
+    <li>2025年，全球学前至高中年龄段有超过1.71亿（约十分之一）学生因气候灾害导致学业中断。</li>
+    <li>UNICEF发布的《Learning Interrupted》报告分析了来自106个国家或地区的数据。</li>
+    <li>来源叙事重点：聚焦极端气候灾害对全球教育体系造成的系统性冲击，着重呈现学业中断的庞大人口规模（1.71亿）、低收入国家的脆弱性以及对女童辍学和长期经济产出的负面连锁反应，旨在倡导将气候韧性纳入国家教育规划与基础设施投资</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#战略能源与气候</span>
+  <span class="news-tag-pill">#Phys.org</span>
+</div>
+
+<div class="news-card-footer"><a href="https://phys.org/news/2026-09-climate-hazards-disrupted-schooling-million.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-nated-by-asian-suppliers-8930a870a2e04898" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="706" data-content-paragraphs="13" data-published-at="2026-09-10T18:38:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 02:38</span>
+</div>
+
+### [Proxima Fusion押注1.4亿欧元布局核聚变关键原料，该领域目前由亚洲供应商主导](https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers</div>
+
+<div class="article-body" data-article-body="true"><p>Proxima Fusion正押注其核聚变反应堆的一项关键原料：超导带材。</p>
+<p>Proxima Fusion周三表示，计划投资1.4亿欧元（约合1.626亿美元）建设一座工厂，用于生产聚变级高温超导（HTS）带材，这将为该初创公司的反应堆设计提供核心组件。</p>
+<p>在此举措出台的数月前，Proxima完成了一轮4.11亿欧元的融资，使其一跃跻身资金最雄厚的核聚变初创企业行列。这家总部位于德国的核聚变初创公司计划结合公共与私人资金来完成该工厂的建设，其中下萨克森州将提供2100万欧元的资金支持。</p>
+<p>Proxima将使用HTS带材产生强大的磁场，以约束引发聚变反应所需的等离子体。</p>
+<p>该初创公司的示范电厂将消耗2万公里的HTS带材，而其商用发电厂的用量将是其两倍。如今，绝大部分HTS带材都在中国和日本生产。</p>
+<p>HTS带材出现于十多年前，是催生当今这一代核聚变初创企业的根本性突破之一。由于它能够在相对较高的温度下产生强磁场，HTS带材使得更小、更高效的反应堆设计成为可能。</p>
+<p>虽然聚变能源预计将消耗全球大部分的HTS带材产量，但像Veir这样的其他公司也正在利用它来提高数据中心的效率和功率密度。</p>
+<p>切勿错过。初创企业社区将汇聚一堂，共同解答一个关键问题：在人工智能时代，该如何实现可持续发展？</p>
+<p>每个工作日和周日，您都可以获取TechCrunch的优质报道。</p>
+<p>TechCrunch Mobility是您获取交通领域新闻与洞察的首选之地。</p>
+<p>初创企业是TechCrunch的核心，每周为您呈送我们的深度精选内容。</p>
+<p>为行业领袖和决策者提供开启新一天所需的资讯。</p>
+<p>提交您的电子邮件即代表您同意我们的条款与隐私声明。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>德国聚变初创公司 Proxima Fusion 计划投资 1.4 亿欧元（约合 1.626 亿美元）建造一座生产聚变级高温超导（HTS）带材的工厂。</li>
+    <li>Proxima Fusion 数月前完成了一轮 4.11 亿欧元的融资。</li>
+    <li>来源叙事重点：Proxima Fusion 投资 1.4 亿欧元在德国自建聚变级高温超导（HTS）带材工厂，以摆脱对亚洲（中日）供应链的高度依赖并保障自身反应堆核心原料供给。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
+  <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--pii-detection-with-llms-1ece0c71b36306ed" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="10370" data-content-paragraphs="28" data-published-at="2026-09-10T16:02:16.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 00:02</span>
-</div>
-
-### [基于大语言模型的模型无关型 PII 检测](https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Model-agnostic PII detection with LLMs</div>
-
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-21255-1.jpg" alt="基于大语言模型的模型无关型 PII 检测" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>一款可配置、指令驱动的检测器，可运行在 Amazon Bedrock 托管的任何大语言模型（LLM）上，并在涵盖 OpenAI PrivacyFilter 等 9 种基于 LLM 的检测器的 5 个公开 PII 语料库上完成了评估。</p>
-<p>在真实世界文本上微调模型会引发个人身份信息（PII）检测问题。训练语料库中充斥着 PII：姓名、住址、电子邮件与电话号码、国民身份证及社会安全号码、银行账户、出生日期。在未经清洗的文本上训练出的模型可能会记忆这些数据并在后续重现它们，从而通过原本无意暴露这些信息的提示词泄露真实个人的详细信息。在本文中，我们介绍了一种基于大语言模型（LLM）构建的可配置、模型无关的检测器，梳理了其实例化实现，将其与开箱即用的现成工具进行了基准评测，并演示了如何在您自己的数据上运行它。</p>
-<p>示例代码：本文所述的检测器以 pii-detector 软件包的形式提供，可在 sample-llm-pii-detection 代码库中获取。下文中的每个代码片段均取自该软件包，而“端到端运行检测器”章节将逐步指导如何在您自己的数据上安装并运行它。</p>
-<p>PII 很少规整地存在于格式化的表单字段中。它隐藏在客户支持对话记录、人力资源记录、聊天日志以及构成团队微调所需定制数据集的长篇自由文本列中。它以凌乱且多语言的格式出现，没有任何固定的架构（schema）能够预先涵盖。通常使用的工具是双向标记分类（token-classification）模型：即在训练时就固定了每个标记（token）PII 类型的 Transformer 标注器。然而，诸如员工编号或加密货币钱包地址等特定领域标识符，恰恰是定制微调语料库中常会引入的内容，且它们往往超出了那种预先冻结的架构范围。若要添加这些类型，就意味着需要重新标注和重新训练。而且它们通常受限于单一模型和单一部署架构。</p>
-<p>大语言模型重新定义了这个问题。LLM 在推理阶段读取指令，因此需要检测的实体、输出格式以及部署后端都变成了配置项而非硬编码代码。单个检测器仅需修改提示词而无需重新训练即可面向新的实体类型，它既能运行在托管 API 上，也能部署在您自己的虚拟私有云（VPC）中，并且无需翻译步骤即可在 8 种语言间进行语境推理。本文的其余部分将介绍这样一款检测器，深入剖析其背后的工程实现，并展示其与现有工具相比的表现。</p>
-<p>该检测器将语言模型视为可配置、可替换的组件。您只需将输入文本封装在定义了待检测 PII 实体和预期输出的指令中，模型随后便会返回已检测实体的结构化列表。两项设计抉择赋予了它模型无关（model-agnostic）的特性：</p>
-<p>指令驱动的检测：检测逻辑完全存在于指令以及一个轻量级的解析层中。这使得它独立于任何单一模型的特异行为。</p>
-<p>可配置的后端：模型通过统一的推理接口 Inferencer 进行调用。该软件包自带适用于 Amazon Bedrock（托管型，例如 Mistral 或 OSS-GPT）的适配器。同一接口也支持针对开源模型的自定义适配器，例如在您自带 GPU 的自有基础设施上托管的 OSS-GPT 20B。这覆盖了无法访问 Amazon Bedrock 的安全环境或物理隔离（air-gapped）环境。任何能够接收消息列表并返回助手文本的对象都能满足该接口的要求，因此检测器对其底层的后端实现完全解耦。</p>
-<p>定制化能力来自两个独立的组件。第一个是模型，它决定了准确率、延迟和成本：您可以选择 Amazon Bedrock 上的前沿模型，也可以选择运行在单个 GPU 上的小型开源模型。第二个是实体集，它定义了何为 PII。若要扩展实体集，您只需添加特定领域的标识符，或移除不需要的类别。变更实体集只需在指令中修改一行内容，完全无需重新训练，也无需重新部署。</p>
-<p>LLM 的职责范围狭窄且明确。它读取文本，识别所有 PII 文本跨度（spans），并使用架构中的实体类型标注每一项。随后它将这些跨度以结构化 JSON 的形式返回，再由后处理步骤计算精确的字符偏移量并去除重复项。</p>
-<p>为了全面审视该方法，我们将其与包括 OpenAI PrivacyFilter 在内的其他 8 款基于 LLM 的检测器逐个跨度进行了对比评估。所有评估均基于统一的标准真实数据（ground truth）进行打分。</p>
-<p>技术实现</p>
-<p>该检测器由四个部分构建而成：由提示词定义架构、由后端运行模型、由解析与偏移层将响应转换为带有定位的跨度，以及一个将各部分串联起来的轻量级调用链。本节按照请求在系统中流转的顺序逐一讲解各个部分，并指明软件包代码库中负责实现的对应模块。</p>
-<p>PII 架构与检测提示词</p>
-<p>架构存在于单一系统提示词模板中，这也是检测器的核心所在：包含 15 个实体类别（每个类别配有一行定义）、一份“请勿标记”列表、可选的少样本（few-shot）示例以及输入文本。由于架构采用纯文本形式，增加或删除一个类别只需修改一行即可。模型被指示返回一个 JSON 列表，每个检测到的实体对应一个对象，包含实体类型以及发现的精确文本值。模型并不返回字符偏移量，因为 LLM 无法可靠地生成此类数据。偏移量会在后处理阶段恢复：</p>
-<p>[{&quot;pii_entity_type&quot;: &quot;FULL_ADDRESSES&quot;, &quot;pii_entity_value&quot;: &quot;82 Oak Street&quot;}, {&quot;pii_entity_type&quot;: &quot;CONTACT_INFO&quot;, &quot;pii_entity_value&quot;: &quot;bob@example.com&quot;}]</p>
-<p>完整提示词位于 pii_detector/templates.py 中，接下来的端到端演示将直接针对一个样本字符串运行该提示词。</p>
-<p>LLM 后端集成</p>
-<p>由于检测逻辑依托于提示词，后端可以自由选型。在我们提供的实现中，检测器与一个小型接口 Inferencer 对接：输入消息，输出文本。因此，同一个检测器既可以在 Amazon Bedrock 上的托管模型上运行，也可以在您自行托管于 Amazon Elastic Compute Cloud（Amazon EC2）上的开源模型上运行。该软件包提供了 Amazon Bedrock 适配器（pii_detector/bedrock_inferencer.py），它是对 Converse API 的一层轻量封装。接下来的分步演示将端到端走通这条路径。</p>
-<p>模型的原始文本通过三个步骤转化为带有定位信息的整洁跨度列表，这些步骤均位于 pii_detector/detector.py 中：</p>
-<p>JSON 解析：将文本响应转换为字典列表，每一项对应一个检测到的 PII（若记录中不含任何 PII，则为空列表）。</p>
-<p>偏移量计算：由于模型返回的是文本值而非具体位置，因此会使用正则表达式在源文本中定位每个文本值。</p>
-<p>幻觉标签恢复：LLM 经常会输出近似的标签（例如将 DATES 误写为 DATE，或将 CONTACT_INFO 误写为 EMAIL），因此系统会通过词法形态分析和精选的别名映射表，将每个输出的标签重新归纳回提示词自带的词汇表中。若任何层级都无法映射某个标签，则将其标记为 UNK（未知）而不是强行适配，从而确保真正的幻觉现象始终保持可见。</p>
-<p>端到端运行检测器</p>
-<p>本节将引导你在自己的数据上运行检测器，内容涵盖从前置要求到资源清理的全流程。每一步都使用本文开头所引用的 pii-detector 软件包。<br />若要跟随操作，你必须具备以下前置条件。<br />Python：Python 3.11 或更高版本。<br />具备 Amazon Bedrock 模型访问权限的 AWS 账户：其凭据可调用 Amazon Bedrock Converse API 的 AWS 账户。你还需要在 Amazon Bedrock 控制台中为你选择的模型（例如 Mistral 或 OSS-GPT 模型）启用模型访问权限。关于各 AWS 区域的模型可用性，请参阅 Amazon Bedrock 中各 AWS 区域支持的模型。检测器通过标准 AWS 凭据链解析凭据，因此请在环境中设置 AWS_PROFILE（或 IAM 角色、SSO 配置文件）以及 AWS_REGION。<br />Python 依赖项：Boto3 是唯一的运行时依赖项，需安装到虚拟环境中（见步骤 1）。<br />以下步骤假定你已克隆 pii-detector 代码仓库并在其根目录下进行操作。<br />步骤 1：安装软件包及其依赖项<br />创建虚拟环境并安装 boto3。该软件包从仓库根目录运行，因此请设置 PYTHONPATH 以便能够解析 pii_detector 模块。<br />cd pii-detector python -m venv .venv &amp;&amp; source .venv/bin/activate pip install boto3 export PYTHONPATH=. # 便于从仓库根目录解析 `import pii_detector`<br />步骤 2：为 Amazon Bedrock 配置 AWS 凭据<br />将 Boto3 指向具有 Amazon Bedrock 访问权限的账户，并选择已启用模型访问权限的区域。<br />export AWS_PROFILE=my-bedrock-profile export AWS_REGION=us-east-1<br />如果你没有使用指定名称的配置文件（named profile），Boto3 也支持 AWS_ACCESS_KEY_ID / AWS_SECRET_ACCESS_KEY，但我们建议使用 AWS Identity and Access Management (IAM) 角色或 SSO 配置文件，而不是长期静态密钥。<br />步骤 3：运行随附的示例<br />该代码仓库提供了一个可运行的示例（examples/detect.py），用于检测示例文本中的 PII。从仓库根目录以模块形式运行它。如果缺少凭据或模型访问权限，它会快速失败并提供具有操作指导性的提示。<br />python -m examples.detect<br />步骤 4：在你的自定义文本上调用检测器<br />使用任意 Amazon Bedrock Converse 模型 ID 构建一个 Amazon Bedrock 推理器（inferencer），将其封装在 PiiDetector 中，并在字符串上调用该检测器。它会返回定位到的跨度（span）列表，每个跨度都带有精确的字符偏移量，可直接提供给下游的脱敏步骤使用。由于 Amazon Bedrock 是完全托管的，因此无需管理任何服务器。<br />from pii_detector import BedrockInferencer, PiiDetector<br />inferencer = BedrockInferencer( model_id=&quot;openai.gpt-oss-20b-1:0&quot;, region=&quot;us-east-1&quot;, ) detector = PiiDetector(inferencer)<br />spans = detector(&quot;Email bob@example.com or call Jane at 555-0142.&quot;) # -&gt; [{&#39;pii_entity_type&#39;: &#39;CONTACT_INFO&#39;, &#39;pii_entity_value&#39;: &#39;bob@example.com&#39;, # &#39;start&#39;: 6, &#39;end&#39;: 21}, ...]<br />model_id 可以是任意 Amazon Bedrock Converse 模型 ID 或推理配置文件（inference-profile）ID，例如 amazon.nova-lite-v1:0 或 mistral.mistral-large-3-675b-instruct。切换模型只需更改一行代码。检测器和调用方式保持完全一致。<br />Amazon Bedrock 采用无服务器架构，因此没有需要销毁的基础设施，你只需为你使用的 Token 付费。清理环境时，只需停用虚拟环境（deactivate）；如果不再需要，可在 Amazon Bedrock 控制台中禁用已开启的模型访问权限。如果你使用的是自行托管的后端而非 Amazon Bedrock，请记得自行关闭该主机，因为检测器不负责管理后端基础设施。<br />评测使用了来自 Hugging Face 的五个公开 PII 语料库，每个语料库均带有真实标注跨度（ground-truth spans），每个数据集大约抽样 10,000 行。它们总共覆盖 8 种语言（德语、英语、西班牙语、法语、印地语、意大利语、荷兰语、泰卢固语）的 49,365 条记录和 222,114 个真实标注核心跨度。其涵盖领域从多语言合成档案到英文人力资源与客户服务文档，使整体聚合评测成为一项公平的压力测试。<br /># 数据集 记录数 核心真实标注 备注<br />1 ai4privacy_500k 9,947 23,822 多语言。增加了生理性别/社会性别、组织机构<br />2 ai4privacy 9,936 70,720 6 种语言。姓名 / 地址 / 邮箱 / 电话<br />3 gretel 9,991 41,967 英语。人力资源 / 财务 / 客户服务文档<br />4 isotonic 9,498 21,674 15+ 额外领域类别<br />5 nemotron 9,993 63,931 美国/英国。30+ 原始实体类别<br />. 总计 49,365 222,114 .<br />预测跨度通过完全重合的（起始位置、结束位置、标签）重叠（IoU = 1.0）与真实标注进行匹配，并基于精确率（Precision）、召回率（Recall）和 F1 值进行评分。<br />在这些数据集之间比较检测器比看起来要困难得多，因为标签体系并不一致。每个检测器和每个数据集都使用自己独立的词汇体系：例如 PRIVATE_NAMES 与 NAME 相对，street_address 与 street 相对。为了确保对比的公平性，来自检测器输出和数据集真实标注的每个原始标签都被映射到了由 12 种常见实体组成的统一定范分类法（canonical taxonomy）中。随后，仅根据检测器与数据集共同声明支持的标签范围交集对每个检测器进行评分。这样一来，任何检测器都不会因为其从未声称支持的类别而受到扣分。<br />规范实体 覆盖范围<br />NAME 私人及公众人物姓名<br />ADDRESS 完整及部分地址、地点<br />CONTACT_INFO 电子邮箱及电话<br />DATE 出生日期、约会、纪念日<br />SSN 社会安全号码及国民身份证号<br />FINANCIAL 信用卡及银行账户<br />IP_ADDRESS IPv4、IPv6、MAC 地址<br />URL 公开及私有 URL<br />PASSWORD 密码、PIN 码、访问密钥<br />ID_NUMBER 护照、驾照、客户/员工 ID<br />规范核心实体分类法。这 12 种类型在各个数据集和检测器中均通用，因此构成了核心对比的基础。软件包代码仓库中给出了这五个数据集各自对应的原始标签到规范标签的精确映射关系。<br />该分类法定义了两个报告评估范围。核心 F1（Core F1）是进行公平正面交锋评测的指标，覆盖这 12 种常见实体类型。扩展实体 F1（Extended-entity F1）则涵盖数据集特有的类别（职业、公司名称、加密货币钱包地址等），而大多数现成检测器对这些类别毫无概念。我们在“自定义”部分对此范围进行了介绍。<br />首要核心指标是跨度级核心 F1（span-level Core F1）。下表列出了该指标以及在一组具有代表性的大语言模型检测器上的单次检测预估延迟。该测试涵盖了 Amazon Bedrock 上的托管模型以及托管在 Amazon EC2 上的开源模型，其中包括 OpenAI PrivacyFilter。所选开源模型既有比 OSS-GPT 20B 更小的，也有更大的，从而能够展现更完整的表现区间。Amazon Bedrock 与具体模型无关，因此最佳选择取决于你的工作负载对准确性、延迟和成本的具体需求，而非任何单一的排名。测试结果因模型而异。docs/benchmarks.md 提供了包含我们测试过的所有模型的完整表格。<br /># 检测器 后端 实例 核心 F1 单次检测延迟 (秒)<br />1 Mistral Large 3 Bedrock — 83.1% 1.16<br />2 OSS-GPT 120B Bedrock — 79.4% 3.91<br />3 Nova Lite 2 Bedrock — 74.9% 0.77<br />4 PrivacyFilter EC2 g4dn.xlarge 80.7% 2.15<br />5 OSS-GPT 20B EC2 g5.12xlarge 81.6% 1.17<br />6 Qwen3.6-27B EC2 g5.12xlarge 79.5% 12.79</p>
-<p>7 Gemma-4-E4B-it EC2 g5.xlarge 79.4% 0.43<br />8 Qwen3.6-35B-A3B EC2 g5.12xlarge 79.4% 5.59<br />9 Qwen3.5-9B EC2 g5.12xlarge 76.4% 15.31<br />跨度级核心 F1 值（涵盖全部 5 个数据集，共 49,365 条记录）及按后端分类（Amazon Bedrock、Amazon EC2）的单次检测预估延迟。在实际应用中，检测是通过并行工作线程在多条记录上运行的。单次检测数据是将总耗时折算回单条记录的结果，因此它属于参考性指标，而非严格的单次调用测量值。<br />在相同语料库上，核心 F1 值分布在 74.9%（Nova Lite 2）到 83.1%（Mistral Large 3）之间，PrivacyFilter 为 80.7%。Mistral Large 3 和 OSS-GPT 120B 运行在 Amazon Bedrock 上，而 OSS-GPT 20B（81.6%）运行在您自主控制的硬件上。延迟由模型本身决定，而非其参数量。OSS-GPT 20B 在 Amazon EC2 上的运行时间约为 1.2 秒，而参数规模相近的 Qwen3.6-27B 则耗时约 12.8 秒，这是因为推理冗长度和架构设计比纯粹的模型大小影响更大。此外，后端可以自由选择，因为 OSS-GPT 20B 在 Amazon EC2（81.6%）和 Amazon Bedrock（81.3%）上的得分差距在 0.3 个百分点以内。<br />准确率在跨语种和高风险标识符场景下均保持稳定。在 ai4privacy_500k 的细分测试中（参见软件包代码仓），OSS-GPT 20B 在全部 8 种语言（包括非拉丁语系的印地语和泰卢固语）中的核心 F1 值均紧密保持在 83% 至 90% 区间内。在最重要的标识符上，其得分也达到或超过了前沿模型：社会保障号（SSN）、金融信息和证件号的准确率均在 95% 以上。普遍存在的薄弱环节是 DATE（日期），准确率约为 50%，这是由于跨度边界和格式本身存在明显歧义所致。<br />到目前为止的准确率结果展示了“模型”这一调节杠杆的作用，您可以在此权衡准确率与延迟和成本。第二个杠杆是待检测的实体集，它完全在指令中进行定义。这正是该方案超越固定范围工具的关键所在，最明显的例证体现在罕见且特定于领域的实体上。<br />每个数据集都标注了自身在核心类别之外的拓展类别。nemotron 和 gretel 语料库标注了职业、职务头衔和公司名称。isotonic 语料库标注了加密钱包（比特币和以太坊）地址、车辆识别码和用户代理（user-agent）字符串。ai4privacy_500k 语料库标注了生理性别、社会性别和机构组织。运行基础配置的检测器对这些类别毫无概念，得分接近于零。<br />召回这些实体无需新模型，也无需重新训练，仅需修改指令。我们称之为 Ext（Extended，拓展）配置。它将每个数据集的额外类别定义和若干参考示例加入提示词中。同时，它还移除了可能与之冲突的“请勿标记”规则，例如一旦公司名称成为检测目标，就会从公开列表中移除“商业地址”。软件包代码仓列出了完整的额外类别定义。<br />其效果十分显著，并在我们测试的所有模型（无论是前沿大模型还是小模型）上均保持一致。拓展实体 F1 值提升了数倍，而核心准确率保持不变或略有上升：<br /># 检测器 后端 拓展实体 F1 (基础 ▸ 拓展) 核心 F1 (基础 ▸ 拓展)<br />1 Qwen3.6-35B-A3B EC2 9.4% ▸ 80.5% 79.4% ▸ 83.5%<br />2 OSS-GPT 20B EC2 12.1% ▸ 73.3% 81.6% ▸ 83.1%<br />3 Mistral Large 3 Bedrock 17.3% ▸ 72.7% 83.1% ▸ 89.1%<br />4 Gemma-4-E4B-it EC2 12.5% ▸ 72.5% 79.4% ▸ 83.8%<br />在 5 个公开数据集上基础提示词与拓展（Ext）配置的对比，按拓展实体 F1 排序。添加额外类别定义后，拓展实体 F1 大致提升了 6 倍，同时也微幅拉动了核心 F1 的上升。该效果适用于所有受测模型，而固定范围的标记工具如果不经重新训练，则无法定位这些类别。<br />同样的杠杆也可以泛化到全新的实体类型。若要针对特定领域的目标实体，只需在提示词中添加其定义和示例即可。无需微调模型，也无需重新部署流水线。再加上自由选择底层模型的能力，这使得单一检测器能够在指令层面灵活适配各个领域的专有词汇。<br />基于大语言模型的 PII 检测器将现成工具最严苛的限制转化为了由两个杠杆调节的配置项。这些限制正是固定的实体范围以及对单一模型和部署方式的绑定锁定。模型杠杆调节准确率、延迟和成本。在涵盖 8 种语言的 5 个公开语料库中，9 个检测器的核心 F1 范围在 74.9% 至 83.1% 之间，PrivacyFilter 为 80.7%。开源的 OSS-GPT 20B（81.6%）无论在 Amazon Bedrock 还是在您自有的 GPU 上都能同样出色地运行。实体杠杆调节什么内容被界定为 PII：拓展配置在无需重训的情况下，使所有受测模型的拓展实体 F1 从约 12% 跃升至约 73%。由于检测逻辑是文本而非权重，相同的检测器无需新模型即可适配新的领域或后端。<br />后续步骤，如果您希望将此方案应用于自己的数据，请按照“端到端运行检测器”一节的操作指南进行操作：<br />体验检测器：安装该软件包，针对您自己语料库的样本运行自带示例，查看它标记出的内容。<br />选择后端：若要在无需自建托管的前提下追求最高准确率，请使用 Amazon Bedrock 上的托管模型，如 Mistral Large 3 或 OSS-GPT 20B。若要掌控数据驻留权，请针对部署在自有 GPU 上的开源模型（如 OSS-GPT 20B）提供自定义适配器。<br />拓展架构（Schema）：以软件包代码仓中记录的拓展配置为模板，将您的领域专用实体定义添加到提示词中，然后在样本上重新运行。<br />形成闭环：将带有精确字符偏移量的已检测跨度输入脱敏步骤，以便将清洗后的文本输入至您的训练流水线中。<br />在此基础上，自然的拓展亦遵循相同范式。支持新的实体类型或额外语言仅仅是一次指令变更，而不需要构建新模型。<br />完整的检测系统提示词、各数据集的标签映射表、完整的检测器基准测试表以及拓展配置类别定义均已记录在软件包代码仓中。<br />示例代码：pii-detector 软件包，包含可运行的示例以及完整的提示词和标签映射文档。<br />基准测试与标签映射：完整的检测器基准测试表、各数据集标签映射以及拓展配置类别定义。<br />Amazon Bedrock 控制台：启用模型访问权限并体验模型。<br />Amazon Bedrock 服务页面：概览、支持的模型及定价。<br />Amazon Bedrock 文档：Converse API 与模型访问指南。<br />相关博文：评估大语言模型的质量与可靠性——根据您自身的标准评估和对比模型。<br />相关博文：使用 Amazon Comprehend 对流式数据中的敏感数据进行脱敏——在大规模文本中应用托管式 PII 检测与脱敏。</p>
-<p>Christophe 是亚马逊 AGI 基础负责任 AI（Responsible AI）团队的首席科学家（Principal Scientist）。他的工作重点是隐私保护机器学习、自动化红队测试（automated red-teaming）以及基础模型的负责任 AI 评估，致力于构建相关方法与工具，以衡量并提高大型模型处理敏感数据的安全性。工作之余，Christophe 喜欢打橄榄球，并在夏天与家人一起享用龙虾卷。</p>
-<p>Rahul 是亚马逊 AGI 团队的高级科学经理（Senior Science Manager），负责领导负责任 AI 相关的项目举措，重点关注隐私保护技术、公平性以及联邦学习。他拥有南加州大学的博士学位，并在 EMNLP、ACL、NAACL、ACM FAccT 和 ICASSP 等学术会议与刊物上发表了大量论文。他还是亚马逊二十多项已获专利或正在申请专利的技术的共同发明人。工作之余，Rahul 喜欢参与体育锻炼并陪伴家人。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>该检测器是一个可配置、与模型无关（model-agnostic）且由指令驱动的 PII 检测工具，可基于 Amazon Bedrock 管理的任何大语言模型运行。</li>
-    <li>该检测方法在 5 个公开 PII 语料库上进行了评估，并横跨对比了包括 OpenAI PrivacyFilter 在内的 9 个基于 LLM 的检测器。</li>
-    <li>来源叙事重点：宣传基于大语言模型（LLM）的无模型偏好（model-agnostic）PII（个人可识别信息）检测方案，重点强调其灵活性（通过修改提示词即可增减实体而无需重新训练）以及与 Amazon Bedrock 托管生态的无缝整合与工程实现落地步骤。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#AWS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-back-to-native-ccf40ae115f1048c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4523" data-content-paragraphs="44" data-published-at="2026-09-10T15:19:38.000Z" data-time-source="publication">
+<div id="story-log-what-comes-after-git-302f50f7ea4270e4" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2961" data-content-paragraphs="20" data-published-at="2026-09-10T17:44:27.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:19</span>
+  <span class="news-meta-time">🕒 2026-09-11 01:44</span>
 </div>
 
-### [原生开发如今是Shopify移动端的未来（2026）](https://shopify.engineering/back-to-native)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Native is now the future of mobile at Shopify (2026)</div>
+### [Git 之后何去何从](https://ersc.io/blog/what-comes-after-git)
+<div class="original-title-sub"><span class="orig-tag">原文</span> What comes after git</div>
 
-<div class="article-body" data-article-body="true"><p>编程智能体（Coding agents）改变了将移动应用开发两次的成本代价。以下是Shopify为何正从React Native回归Swift与Kotlin的原因。</p>
-<p>Shopify工程团队</p>
-<p>早在2020年，我们决定全力投入React Native，那次押注获得了极大的成功。我们仅需构建一次功能，节省了大量时间；让没有移动端背景的开发者也能为我们的应用贡献代码；同时使我们摆脱了不断追求功能对齐的负担。</p>
-<p>在2025年1月，我曾写道React Native的前景一片光明，且Shopify计划继续对其进行投资。根据我们当时所掌握的认知，情况确实如此。React Native对我们来说运行良好，而且它依然是一个优秀的框架。但自那时起，编程模型得到了惊人的提升，对于我们的应用和团队而言，使用Swift和Kotlin构建相同功能的成本已不再是以往的水平。</p>
-<p>我们不会仅仅因为一项决定在当时是成功的就对其固步自封。当核心假设发生改变时，我们愿意回头重新审视这是否依然是正确的选择。大语言模型（LLM）改变了支撑我们2020年决策的核心假设之一，因此我们从第一性原理重新评估了我们的移动技术栈。</p>
-<p>我们的发现促使我们重回原生开发。</p>
-<p>我们在2020年决定从原生转向React Native出于三个原因：</p>
-<p>React Native始终如一地兑现了这些优势。我们发现自己投入了大量的时间和资源来优化性能、改进React Native的关键基础领域，并跟进框架更新和外部依赖，但这些都是可以接受的权衡取舍。使用React Native所带来的收益远远超过了我们在这些领域必须进行的投入。</p>
-<p>Shopify自2021年起（比ChatGPT早一年！）就一直在使用大语言模型来构建软件。最初，我们用它们来实现功能、调查并修复Bug以及进行代码审查。随着模型的不断改进，我们放心交给它们承担的工作复杂度也随之提升。到了2025年底，它们不再仅仅是帮我们更快地写代码。它们有能力让我们开始质疑：构建两次软件是否依然意味着要做两倍的工作。</p>
-<p>我们决定重新评估移动技术栈，并开始制作原型以检验我们的技术选择是否依然成立。我们利用大语言模型在Swift和Kotlin中重构了我们大型应用中的几个核心部分，其效果之好令我们感到惊讶。智能体（Agents）：</p>
-<p>原生开发依然意味着要在两个平台上构建和维护软件，这一成本并没有消失。发生改变的是，智能体现已能够承担足够的实现、转译、测试和审查工作，以至于这不再是像2020年那样的决定性制约因素。</p>
-<p>React Native应用可以运行得很快。我们的应用就是如此。我们之所以做出这一转变，是因为智能体降低了共享实现的优势，而为每个平台单独构建的优势依然存在。原生开发使我们更贴近平台特性和官方第一方工具链，在我们的代码与平台之间减少了框架层和依赖层。</p>
-<p>在深入探讨我们如何进行迁移之前，我们希望确保这次过渡能够干净利落地进行。从一开始，我们就希望回馈React Native社区使其变得更好。我们发布了多个开源库，它们已成为各自领域中的首选方案。我们对社区极高的认可与支持深表感激，并致力于确保这次平稳过渡，不带来任何意外。</p>
-<p>Shopify将继续赞助该项目直至2026年底，在此之后William Candillon将继续负责维护。他将在未来几个月内复刻（fork）该仓库，并以新名称发布该库。待过渡完成后，原仓库将被归档。我们会在过程中发布更新，以便大家有充足的时间进行迁移。如果您的应用依赖于此库，请考虑对其提供赞助。</p>
-<p>该库每周约有200万次下载量，已成为React Native中渲染高性能列表的默认方案。考虑到它对生态系统的重要性，Shopify将继续修复破坏兼容性的关键问题。我们目前正与几家公司商讨长期托管FlashList的事宜。如果您对此感兴趣，请在此联系我。</p>
-<p>Restyle的用户群体比我们的其他库要小，因此我们将归档此仓库。我们将保持其正常维护直至2026年底，随后停止维护。欢迎任何人复刻并继续推进该项目，若有团队愿意接手，我们将协助完成交接。</p>
-<p>Shopify拥有多款大型应用（Shopify、Shop、Point of Sale、Inbox）。全球数以百万计的商家和买家每天都在依赖它们来谋生，并从喜爱的品牌购买所需商品。</p>
-<p>我们曾在逐步迁移到原生（棕地迁移/brownfield）与从零开始彻底重写（绿地重写/greenfield）之间进行过权衡。过去当我们迁移到React Native时，对一些最大的应用采取了棕地迁移策略，因为重写它们需要数年时间，而且在重写过程中我们将不得不停止发布新功能。</p>
-<p>然而这一次，绿地重写方案凭借以下原因成为了明确的胜出者：</p>
-<p>Shop应用经常在应用商店的购物类排行榜中名列前茅，它是首个完成迁移的应用。在AI的协助下，团队仅用了12周时间就从概念验证走到了完全重构的原生应用并在应用商店发布。我们在此深入撰文介绍了这次迁移。</p>
-<p>Shopify应用（我们最大的应用，拥有300多个屏幕页面、主屏幕及锁屏小组件、Apple Watch应用、表盘复杂功能、Siri快捷指令等）的迁移也正在进行中，将于今年晚些时候发布。我们的其他应用也将在不久后完成迁移。</p>
-<p>直接将大语言模型对准React Native代码库，试图一次性在原生平台上生成相同功能，这种做法很有诱惑力，但它行不通。即便你让它预先收集尽可能多的信息，并将其固定为规范和任务文件再进行实现，你最终也会得到大量无法维护、根本无法上线的代码。</p>
-<p>为了解决这个问题，我们构建了一个名为Helix的系统，它采取了更为渐进的方式。它不指望第一次输出就是正确的，而是构建了一个闭环：一个不完美的尝试在蜕变为优质结果之前，绝不可能继续向前推进。</p>
-<p>开发者将Helix指向一个屏幕界面。Helix阅读React Native代码，并提出一系列检查点（经过排序的微小工作切片），这些检查点可以在几分钟内完成审查。随后，它逐个检查点推进构建：每个检查点都必须通过测试证明其行为符合预期、在视觉审查中与正在运行的应用保持一致、经受住两个对抗性代码审查者的考验，并在获得人工认可后才能提交并进入下一个阶段。来自每次审查的反馈都会被系统记录下来，因此随着迁移的推进，该闭环会变得愈发自主化。</p>
-<p>Helix使用Swift和Kotlin重构Shopify移动端应用中的一个屏幕页面</p>
-<p>这种方法效果非常出色，让我们能够以极短的时间重构应用。</p>
-<p>智能体（Agent）对模拟器的控制一直是一个瓶颈。我们发现自己不得不时刻照看它们，因为它们无法可靠地完成构建、测试和迭代。我们构建了相关工具，让智能体能够自主复现 Bug、修复问题并验证修复效果，但这套流程既缓慢又脆弱。React Native 的模块热替换（Hot Module Reload）对这种情况有所帮助，但并不能根本解决问题，因为模拟器本身的控制非常迟缓。这主要是因为它们依赖无障碍树（Accessibility Tree）或屏幕截图来获取应用状态、执行操作并验证结果。智能体可以在几秒钟内完成代码更改，但测试输出结果却需要耗费数分钟。这使得迭代过程变得极其缓慢，且需要大量人工介入。无论模型能力多么优秀，如果无法快速测试其工作成果，也是无济于事的，而这在移动端上尤为困难。</p>
-<p>为了解决这个问题，我们在设计应用架构时兼顾了人类和智能体的需求。其核心原则是将业务逻辑与 UI 完全解耦，使其能够在桌面端无头（Headless）运行。接着，我们通过命令行界面（CLI）将这部分逻辑提供给智能体，使它们无需模拟器介入即可在数毫秒内（而非数分钟）完成迭代。</p>
-<p>通过 CLI 浏览应用并执行操作</p>
-<p>CLI 允许智能体在完全无需接触 UI 的情况下检查应用状态、在不同板块间导航并执行操作。这实现了极速的反馈闭环，使智能体能够连续自主工作数小时。</p>
-<p>当确实需要与模拟器交互时，CLI 可以通过远程模式连接它们，并通过命令驱动 UI，而无需检查布局或无障碍树。这带来了极快的执行性能以及端到端（E2E）测试体验。</p>
-<p>这是实时速度（未经加速）</p>
-<p>我们计划在全流程引入 AI 的支持下，将所有移动端应用迁移至 Swift 和 Kotlin。Shop 已经作为完全原生的应用发布，Shopify 应用的迁移正在进行中，其余应用也将很快跟进。我们推进得十分迅速，但这绝非以降低标准为代价。每一次重构都必须达到或超越人们如今所期望的性能、稳定性、无障碍支持和产品质量。这绝不仅仅是用不同语言重写相同的应用，我们重构它们是为了让人类和智能体都能快速理解、测试并修改它们。</p>
-<p>迁移并非终点线。真正的成功意味着我们的团队能以比以往更快的速度，为商家和买家提供更好的体验。我们将通过产品研发速度、应用质量以及智能体能够自主完成的工作量来衡量这一成效。</p>
-<p>在此过程中，我们将持续分享所积累的经验，包括对 Helix（我们面向智能体的架构）的深度剖析，以及我们如何与智能体协同构建移动应用。此前我们在 React Native 的实践中保持了开放分享的态度，在这次转型中我们也打算同样如此。</p>
-<p>这是我们所承担的最具野心的移动工程项目之一。如果你想参与构建 Shopify 的下一代移动应用，我们正在招聘移动端工程师、基础设施工程师，以及在 AI 与软件工程交叉领域探索的开发者。</p>
-<p>原生技术是 Shopify 当下的正确选择，但 React Native 则是 Shopify 在 2020 年的正确选择。那一时期的成功离不开促成这一切的每一位同仁。</p>
-<p>感谢 Meta 的 React Native 团队作为该框架的出色管理者，多年来倾听我们的反馈并与我们紧密合作。得益于你们在架构、性能、工具链和社区上的投入，如今的 React Native 已经大幅提升。</p>
-<p>感谢你们创建了 React Native Skia，并将其带到了远超我们想象的高度。你们重新定义了 React Native 在图形和动画领域的可能性，我们十分期待看到你们未来的探索。</p>
-<p>感谢你们在 Reanimated 上的全部工作，感谢你们倾听我们的反馈，并帮助我们解决了应用中一些最具挑战性的动画与性能问题。</p>
-<p>数百名工程师为采用 React Native、迁移应用、构建共享基础底座、优化性能、维护集成以及回馈生态系统做出了贡献。你们中的许多人重新当起了初学者，挑战长久以来的既有假设，在持续为商家和买家交付价值的同时成功完成了这一转变。谢谢你们。</p>
-<p>感谢每一位使用我们开源库、贡献代码、提交问题、对我们的决策提出质疑并分享所学的人。你们的贡献和反馈（哪怕是言辞犀利的批评）都让我们的工作变得更好。</p>
-<p>过去六年中建立起来的工具、经验与合作关系，将继续塑造我们在 Shopify 构建移动应用的方式。我们向参与其中的每一个人致以深深的谢意。</p>
-<p>查看我们的在招职位，深入了解我们“以数字化为本”（Digital by Design）的企业文化。</p></div>
+<div class="article-body" data-article-body="true"><p>East River Source Control 成立已有一年多，但我们此前很少公开谈论我们正在从事的项目。我们目前还不准备正式宣布任何产品，不过很快就会了；但在那之前，我们想分享一些关于版本控制及其未来发展方向的思考。</p>
+<p>构建软件从根本上说是一项协作任务。项目通常始于微末，最终成长为极其庞大而复杂的系统。但无论是 cargo new 生成的代码，还是包含数十亿行代码的单体仓库（monorepo），其本质都一样：源代码。安全可靠地存储这些代码、管理其随时间的变化，并确保开发者随时可用，是任何技术机构最核心的职能之一。</p>
+<p>在过去，你可能曾使用一台存放代码的共享服务器。学术界以及后来的工业界开发了如今被称为源码控制管理（SCM）和版本控制系统（VCS）的工具。甚至在 VCS 领域内部，这些年来我们也见证了无数工具的兴衰：CVS、SVN 和 Git 是主导开源领域的工具，但也有其他系统：Perforce、ClearCase、Fossil、Mercurial、SCSS、Monotone、BitKeeper 等等。这些工具成为了存储代码以及团队协作修改代码的标准方式。</p>
+<p>基于智能体（Agentic）开发的兴起改变了我们开发软件的许多方面，但也对版本控制系统带来了尤其严峻的压力。团队正以前所未有的速度编写更多代码，仓库规模急剧膨胀，活跃分支数量激增，合并新工作时产生严重冲突。智能体在单体仓库中表现出色，因为它们可以更轻松地获取更多上下文信息，而这也加剧了上述问题。它们正在将开发环境迁移到云端的隔离环境中，这意味着它们需要极快的克隆（clone）速度。所有这些问题过去通常只属于大型企业，但智能体正在把大公司的问题带给每一个团队。</p>
+<p>我们相信，随着各家机构的雄心持续扩张，他们将需要下一代 VCS 工具。但在采用该领域的新工具方面，他们表现得较为保守也是理所应当的。如前所述，源代码是机构拥有的最宝贵资产之一，变革既带来回报，也伴随风险。我们深知这些顾虑，因此正在搭建一座连接当下与未来的桥梁。</p>
+<p>不过，现存的 Git 服务器已经数不胜数。那我们有什么特别之处？</p>
+<p>从宏观角度来看，大多数为你托管 Git 仓库的平台其运作方式大致如下：</p>
+<p>你的 git 客户端通过 Git 协议连接到其服务。在服务内部，他们将你的仓库存储在磁盘上，并通过一个服务层将两者连接起来。</p>
+<p>当然，这种描述略显简化：实际情况会有许多台服务器，仓库前面还有一层复杂的微服务。存储层具有副本备份，后台还运行着各种各样的处理。我们这里关注的是整体架构，但切勿将架构图的简洁误认为是系统的简单。这里涉及很多内容，但那些细节在当下并非关键。</p>
+<p>基于这种思路，以下是我们方案的示意图：</p>
+<p>它看起来非常相似！这也是简化后的，例如图中完全没有展示 GraphQL API 接口。但其中的区别至关重要：虽然你仍然使用常用的 git 客户端通过 Git 协议连接到我们的存储，但我们并没有在服务器上存储 Git 仓库。相反，我们开发了自定义的存储引擎。</p>
+<p>简而言之，我们不认为 Git 代表着源码控制的未来。Git 服务开发者多年，表现优异，但它是围绕 2005 年而非 2025 年（更不用说 2035 年）的技术约束设计的。例如，它是专为 Linux 内核这一开源项目构建的。开源对我们的行业极其重要，但这意味着它缺少对于不公开代码的企业来说非常有用的关键特性。此外，尽管 Linux 内核不是一个小仓库——其 7.2 版本大约有 4300 万行代码——但业内主流公司早在几年前就拥有规模达数十亿行代码的单体仓库了。在这样的规模下，技术选型至关重要。</p>
+<p>与此同时，考虑更换版本控制系统又非常困难。Git 已经深植于我们众多的工具链中：现在的规范是 GitOps，而不是 SvnOps！无数工具都在使用 Git 协议与生态，这使得探索替代方案步履维艰。在 Git 诞生之时，周边几乎同时出现了几个类似项目，最著名的有 Mercurial 和 Bazaar。但网络效应使得 Git 最终被几乎所有人采用。</p>
+<p>那么该怎么办呢？支持 Git 协议，同时彻底改造底层存储层的运作机制。虽然这并不能解决我们预见的所有未来问题，但确实大有裨益。与以传统 Git 仓库为真实源（source of truth）的系统不同，我们的系统可以实现横向扩展。而且由于这不是一个全局统一的平台，其他公司的资源使用不会影响到你，因为各部署环境彼此隔离。这为你带来了可靠性与控制力——在谈论基础设施时，这两点至关重要。</p>
+<p>那么未来的可能性呢？如果你需要的扩展规模超出了 Git 协议所能承载的范围，或者你需要 Git 所不具备的功能怎么办？兼容现有协议的这种策略有一个优势：你可以同时支持多种协议。</p>
+<p>这正是 Jujutsu（jj）大展身手的地方。在 ERSC，我们是 jj 的忠实粉丝，部分原因在于我们非常赞赏它作为一项易于渐进式采纳的技术典范。尽管 jj 本身是一套独立的版本控制系统，但它具备与多种不同后端通信的能力。大多数开发者使用 jj 的 Git 后端直接操作本地 Git 仓库，但 Google 也为其内部的 Piper 版本控制系统开发了后端。这使得单个开发者能够在工作中使用 jj，即便同事们仍在继续使用传统的 Git 客户端：对服务器来说，jj 用户不过是又一个 Git 协议使用者罢了。我们将在服务端采用相同的策略：</p>
+<p>这为通往版本控制的未来铺平了一条顺畅的道路：你可以先从熟悉的传统 git 开始，享受可靠且可扩展的源码控制管理。单个开发者可以按自己的节奏选择采纳 jj；当你准备好更进一步时，jj 可以通过不同的协议与同一个底层引擎通信。</p>
+<p>关于此点有一项重要说明：这是未来的规划工作，目前尚未推出。上游目前并没有“jj 原生”（jj native）协议，我们也没有声称我们正在构建的就是该协议。如果这在上游被证明是有价值的且上游希望提供支持，我们将与社区就此展开合作。此外，该协议将提供完备的文档，任何用于支持它的客户端改动都将开源。我们不会想当然地认为只要我们构建了这样的协议上游就会想要使用，因为 Git 协议目前已经能够满足其大多数用户的需求。无论最终呈现为什么形式，我们都致力于成为 jj 生态系统中优秀的参与者。</p>
+<p>存储解决方案只是团队围绕代码开展协作所需的一部分。代码审查（Code Review）、持续集成（CI）、问题追踪（Issue Tracking）等需求不胜枚举。虽然传统的软件代码托管平台（forge）曾以一体化打包的形式提供所有功能，但我们相信软件正在进入一个更具可定制性的时代。因此，我们的产品形态更像是积木组件，而非单一的代码托管平台。存储是基石，因而最先推出。但你可以确信，我们致力于让存储解决方案与你的其余软件技术栈协同运作，而非相互冲突。尽管我们将在版本控制系统（VCS）领域推出多款产品，但如果你想在技术栈的其余环节采用自己的软件，完全可行；或者如果你想采用我们的部分第一方组件并搭配自己的工具，那同样非常合适。</p>
+<p>尽管上述所有内容目前都尚未上线，但我们很快就会对外开放。在此期间，我们下周的 JJ Con 大会见！</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Shopify 正在将其移动端应用从 React Native 全面迁移回原生开发（iOS 采用 Swift，Android 采用 Kotlin）。</li>
-    <li>Shopify 于 2020 年决定全力投入 React Native，并从 2021 年起开始使用大语言模型（LLM）构建软件。</li>
-    <li>来源叙事重点：重点阐述代码大模型和 AI Agent 的成熟改变了跨端开发与双平台原生维护的成本平衡，详述通过自研工具 Helix 及解耦架构将多款主力 App 从 React Native 迁移回 Swift/Kotlin 的合理性与高效性，并宣布对相关开源库的交接与收尾计划。</li>
+    <li>East River Source Control (ERSC) 已经成立并运作了一年多。</li>
+    <li>Linux 内核 7.2 版本的代码行数约为 4300 万行。</li>
   </ul>
 </div>
 
@@ -956,90 +888,264 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://shopify.engineering/back-to-native" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ersc.io/blog/what-comes-after-git" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-misc-domains-e43d375c46e69c7b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="965" data-content-paragraphs="15" data-published-at="2026-09-10T15:14:48.000Z" data-time-source="publication">
+<div id="story-lt-distraction-good-html-4227b30b98b41374" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2471" data-content-paragraphs="18" data-published-at="2026-09-10T19:40:12.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
+    <span class="stance-badge">前沿同行评议严谨</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:14</span>
+  <span class="news-meta-time">🕒 2026-09-11 03:40</span>
 </div>
 
-### [关于网络钓鱼的吐槽：这不是用户的错（也不是 DNS 的错）](https://maurycyz.com/misc/domains/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> A rant about phishing: It&#39;s not the user&#39;s fault (and not DNS either)</div>
+### [孩子的大脑天生容易分心，有时这其实是一件好事](https://phys.org/news/2026-09-kids-brains-built-distraction-good.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Kids&#39; brains are built for distraction. Sometimes that&#39;s a good thing.</div>
 
-<div class="article-body" data-article-body="true"><p>“为了安全，请勿点击可疑链接”</p>
-<p>攻击者所要做的，仅仅是制作一个带有密码框和公司 Logo 的网站。URL 根本无关紧要，因为用户已经习惯了忽略它。</p>
-<p>我承认 URL 并不是最直观的东西，因为它的阅读方向是交替变化的。协议（scheme）和主机名（hostname）从具体走向宏观，而路径（path）的顺序却恰恰相反：</p>
-<p>这种语法的后果就是，关键部分（二级域名）位于 URL 的正中间。这是必须向非技术用户普及的知识：单纯告诉他们“避开可疑链接”是远远不够的。</p>
-<p>然而，如果主机名本身就不是一个可靠的指示器，那么这一切努力都将毫无用处。</p>
-<p>为了让用户有一丝识破骗局的机会……</p>
-<p>机构“必须”（MUST）使用单一、广为人知的根域名。内部服务“必须”（MUST）位于该根域名的子域名下，且“绝不能”（MUST NOT）使用如下形式的 URL：</p>
-<p>通过电子邮件或短信发送的链接“必须”（MUST）位于该可识别的域名之下。如果确实有必要将用户引导至其他地方，请创建本地重定向或本地链接：</p>
-<p>这并不意味着所有内容都必须由机构自行托管：许多服务都支持绑定自定义域名，而且设置链接也是免费的。</p>
-<p>该规则同样适用于电话号码：切勿发送短信或电子邮件让用户“拨打 0491-570-006”，因为用户根本无从得知这是否是诈骗。联系方式“必须”（MUST）通过原始消息中链接的网页来提供。</p>
-<p>本文中的关键词“必须”（MUST）、“绝不能”（MUST NOT）、“需要”（REQUIRED）、“应当”（SHALL）、“不得”（SHALL NOT）、“应该”（SHOULD）、“不应该”（SHOULD NOT）、“推荐”（RECOMMENDED）、“可以”（MAY）和“可选”（OPTIONAL），均按 RFC 2119 中的定义进行解释……</p>
-<p>主机名的混乱现状已经恶化到了这种地步：我甚至见过有人辩称“子域名的存在本身就是一个问题”，因为这让犯罪分子能够在缺乏监管的情况下随意冒充任何人。</p>
-<p>DNS 是一个分层系统，其结构在 40 多年里从未改变：</p>
-<p>关于任何特定网站究竟由谁运营，理应不存在任何困惑……然而，耗费巨大力气让合法网站变得与钓鱼诈骗网站无法区分，却反而成了行业常态。</p>
-<p>（甚至连政府机构都未能始终如一地使用分配给它们的顶级域名 [TLD]）</p></div>
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2025/kid-playing.jpg" alt="孩子的大脑天生容易分心，有时这其实是一件好事" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>作者：伊丽莎白·韦恩斯坦（Elizabeth Weinstein），俄亥俄州立大学<br />编辑：加比·克拉克（Gaby Clark），审校：安德鲁·齐宁（Andrew Zinin）<br />本文已根据 Science X 的编辑流程和规范完成审校。编辑在确保内容可信度的同时强调了以下属性：<br />同行评审出版物</p>
+<p>为人父母者往往吃过亏才明白，要想按时到达任何地方，他们都得先估算好出门准备需要多长时间——然后再翻一倍。</p>
+<p>对于脑海中有着根深蒂固清单的成年人来说，按时出门已经够难了。而对于年幼的孩子来说，这些清单根本算不上什么，早就让位给眼前的“寻宝图”了。</p>
+<p>从穿什么衣服，到车上备什么零食和玩具，每一样都需要进行外交级的谈判；稍微催促一下，就有可能引发一场情绪崩溃。时间在分秒流逝，但你的孩子却全然不知、乐在其中，甚至突然对留在家里产生了更大的兴趣。</p>
+<p>成年人依靠高度精简的内部心智地图来执行日常琐事，而幼儿的大脑似乎天生就是为了“分心”而构建的。根据最近发表在《认知科学趋势》（Trends in Cognitive Sciences）上的一篇综述论文，那些看起来和感觉上宛如纯粹混乱——甚至更糟的执拗——其实是一个重要窗口，展现了成长中的心智如何通过探索来进行思考与学习。</p>
+<p>该论文的第一作者、俄亥俄州立大学心理学教授弗拉基米尔·斯劳茨基（Vladimir Sloutsky）在文中重温了他的实验室此前在《实验心理学杂志：总论》（Journal of Experimental Psychology: General）上发表的研究，并指出：“儿童倾向于广泛探索，尽管这会带来成本，但探索能带来重要的益处，尤其是在他们知之甚少的发展早期阶段。”</p>
+<p>换句话说，斯劳茨基表示：“他们是正在学习如何成为人类的人类。”</p>
+<p>在尝试新事物（探索，exploration）与重复已被证明成功的行为（利用，exploitation）之间进行权衡时，所有年龄段的学习者都会遭遇研究人员所谓的“探索—利用困境”（exploration-exploitation dilemma）。尝试新事物可能最终证明是浪费时间和精力，但重复熟悉的行为又可能会阻碍人们掌握新技能或新知识。</p>
+<p>成年人通常更倾向于“利用”，更喜欢重复那些以往带来成功和回报的行为；相比之下，儿童对自己把注意力投向何处则不那么挑剔。斯劳茨基及其合著者希望更深入地了解推动这种探索行为的动力是什么，特别是针对 3 至 8 岁的儿童。</p>
+<p>几十年来，主流理论一直认为儿童探索仅仅是因为他们天生好奇——或者可能是因为他们的决策更具随机性。斯劳茨基的研究提供了一种不同的解释：早期的探索是由儿童工作记忆系统的不成熟所驱动的。</p>
+<p>成熟的工作记忆有助于成年人保持计划并有针对性地过滤掉干扰；相比之下，不成熟的工作记忆则被设定为“分散注意力”（distributed attention），这意味着幼儿容易将注意力广泛铺开。为了验证这一点，斯劳茨基的团队通过要求成年人在完成决策游戏的同时、汇报连续数字流中何时出现两个连续奇数，以此让成年人的工作记忆超负荷运转。当工作记忆不堪重负时，研究中的成年人放弃了原本的策略性选择，开始进行更广泛的探索，表现出与 5 岁儿童几乎相同的注意力模式。</p>
+<p>虽然孩子缺乏专注力可能会让出门变成一场耐力测试，但它服务于一个至关重要的演化目的：确保年幼的学习者能尽可能多地吸收有关这个世界的信息。“因为他们没有发育完全的工作记忆系统，儿童会去探索并重新采样，尤其是在不太熟悉的情境中。成年人会迅速判定某件事物值得注意，而其他事物不值得；儿童做出这些选择性判断的速度并没有那么快，”斯劳茨基说。</p>
+<p>举个例子，假设你研究了附近的加油站，并找到了几家价格较低的油站。你可能会开始经常光顾这些油站，而不再继续寻找更好的选择。与此同时，其他加油站正在降价并变得更具竞争力，但你却享受不到这个实惠，因为你确信自己最初的选择就是最好的。</p>
+<p>“因为孩子们处于探索状态，他们可能无法立刻将最佳选择的收益最大化，但如果环境发生变化，他们也不会蒙受损失，”斯劳茨基解释道，“这正是探索行为大有裨益的地方，能防止他们在成长早期被自己的既有认知所困住。”</p>
+<p>斯劳茨基希望此类研究有助于提醒父母，孩子们“之所以烦人且具破坏性，是有原因的：他们需要在相对较短的时间内获取海量知识。我们需要为他们提供一些哪怕摔坏也没关系的东西，因为探索和打破东西正是他们认识世界的方式。”</p>
+<p>他指出，如果你将以哺乳动物第一磨牙萌出或性成熟年龄来衡量的“不成熟期”与大脑大小绘制成图表，你会发现两者之间存在近乎完美的依存关系：大脑越大，不成熟期就越长。</p>
+<p>“孩子在生命的第一年几乎完全无法自由移动，接下来的三年混乱无序，之后的十五年极其热衷冒险，而在人生的前二十二年里都无法自给自足，”斯劳茨基说，“这是极其昂贵的代价，而这一代价主要由照料者承担。但考虑到孩子们需要学习的东西如此之多，这种代价是必要的。拥有更大大脑的生物体拥有更长的不成熟期，从而使他们具备足够的灵活性来学完所有这一切。”</p>
+<p>弗拉基米尔·M·斯劳茨基等，《工作记忆、探索与认知发展》（Working memory, exploration, and cognitive development），《认知科学趋势》（Trends in Cognitive Sciences, 2026）。DOI: 10.1016/j.tics.2026.07.007<br />期刊信息：《实验心理学杂志》（Journal of Experimental Psychology）、《认知科学趋势》（Trends in Cognitive Sciences）<br />由俄亥俄州立大学提供<br />英语硕士，自 2021 年起担任文案编辑，在高教与健康领域拥有丰富经验。致力于传播值得信赖的科学新闻。完整个人资料 →<br />物理学硕士，具科研背景。资深科学新闻爱好者。在 Science X 的编辑成果中发挥关键作用。完整个人资料 →</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>DNS 是一个分层系统，其结构已有40多年的历史且未发生改变。</li>
-    <li>URL 的主机名和协议从具体开始变得更宽泛，而路径则是相反的方向，因此关键的二级域名处于 URL 的中间位置。</li>
-    <li>来源叙事重点：反驳将网络钓鱼责任推卸给普通用户的流行观点，强调钓鱼泛滥的主因在于机构未规范使用统一根域名和二级域名，导致合法服务与钓鱼欺诈在 URL 结构上难以区分，并主张依 RFC 2119 标准严格规范机构的域名资产与通信指引。</li>
+    <li>发表在《认知科学趋势》（Trends in Cognitive Sciences）上的一篇综述论文指出，幼儿大脑看似分心的混乱或固执状态，实际上是正在成长的大脑通过探索进行思考和学习的重要窗口。</li>
+    <li>俄亥俄州立大学心理学教授弗拉基米尔·斯劳茨基（Vladimir Sloutsky）是该论文的主作者。</li>
+    <li>来源叙事重点：将幼儿的分心、混乱和探索行为重新框定为工作记忆尚未成熟所导致的广泛注意，并强调这种行为具有学习和适应价值，而非单纯的顽固、随机决策或缺乏好奇心；同时以育儿场景和进化论解释突出“分心有益”的正面意义。上述是报道的叙事框架，不等同于已被所有研究一致接受的事实。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Phys.org</span>
 </div>
 
-<div class="news-card-footer"><a href="https://maurycyz.com/misc/domains/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://phys.org/news/2026-09-kids-brains-built-distraction-good.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-rsonal-celebration-honor-5a98dc440936bf20" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="764" data-content-paragraphs="13" data-published-at="2026-09-10T16:01:42.000Z" data-time-source="publication">
+<div id="story-lly-available-on-desktop-c5435f93118952b6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3228" data-content-paragraphs="28" data-published-at="2026-09-10T18:16:37.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 02:16</span>
+</div>
+
+### [Amazon Quick 桌面版现已正式可用](https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon Quick is now generally available on desktop</div>
+
+<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/16/ML-21220-4.jpg" alt="Amazon Quick 桌面版现已正式可用" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>让您的团队拥有一个能处理实际工作的 AI 助手，同时确保数据保留在您的环境中且对话完全私密</p>
+<p>今天，Amazon Quick 桌面客户端已在 macOS 和 Windows 平台正式发布（GA）。我们还在 iOS 和 Android 移动端新增了动态信息流（activity feed），将电子邮件、日历、CRM 和即时通讯整合到一个按优先级排列的视图中，向您的团队展示需要他们拍板的决策，而智能体（agent）则在后台处理日常事务，从而让他们减少梳理更新的时间，把更多精力放在高价值工作上。</p>
+<p>企业 IT 组织正面临一个复合型难题：团队保持高效所需的工具不断增多，随之而来的“影子 AI”（shadow AI）风险也愈发严峻。当员工绕过经批准的系统以求更快完成工作时，治理体系就会瓦解，数据会脱离受控环境，IT 部门也将失去掌控力。解决之道不是限制 AI 的使用，而是在 IT 部门已掌控的基础设施上，为团队提供专为工作打造的企业级 AI 助手。Quick 运行在 AWS 之上——这也是承载全球对安全性要求最严苛工作负载的同一套基础设施。您的数据保留在自身环境中，对话始终保密，且一切皆可审计。通过 Amazon CloudWatch 和 AWS CloudTrail 可获取完整的审计追踪。您的安全团队所要求的合规认证（HIPAA、FedRAMP、SOC 2 和 ISO 27001）从第一天起就已原生内置。</p>
+<p>在预览版期间，制造、医疗和体育等多个行业的客户一直在桌面端使用 Quick——用自然语言提出复杂问题，并在数秒内获得有理有据、值得信赖的解答，在从一开始就内置治理与准确性的同时，大幅缩短获取洞见所需的时间。</p>
+<p>对于管理横跨数百种角色与工作流的知识工作者的组织而言，产能方程式同样至关重要。业务目标不断攀升，但一天的时间却不会增加。原本应投入到高阶研判工作的大部分时间，都被收集信息、跟进事项和整合交付物所消耗。Quick 改变了这一方程式，它提供了一个了解您的业务上下文、构建您所需内容并能代表您采取行动的思考伙伴。Quick 还为您的团队提供了一个共享工作区，一人构建的仪表板、智能体和自动化流程，整个团队皆可使用。</p>
+<p>以下是 Quick 在真实工作日中的应用场景：从在笔记本电脑上委托会议准备工作，到在手机上分选优先级事项，再到工作日结束后的后续跟进。</p>
+<p>在这里，一家制造企业的企业客户经理使用 Quick 大幅简化了一场关键客户会议的准备工作——只需输入一条请求，便由 Quick 在后台自动整合汇报提纲。</p>
+<p>聚焦要务，而非声量最大的杂音</p>
+<p>大多数办公工具都会产生如潮水般的通知。Quick 的动态信息流则恰恰相反：它将来自电子邮件、即时通讯、CRM 和日历的信号汇总为一个按优先级排序的视图。智能体自行解决的事项会直接隐去。剩下的则是一个精简的待办队列，仅包含只有您能处理的事情，且该动态流会随着时间推移越用越聪明。Quick 会学习您的人际网络、优先级和工作习惯，因此它呈现的是最重要的内容，而不仅仅是最新收到的消息。</p>
+<p>在这里，同一位业务代表在手机上开启并处理晨间事务，批准了一项对其会议提纲的补充，并回复了副总裁发来的销售商机审查请求，全程无需打开其他应用程序。</p>
+<p>对于企业级规模运作的团队而言，这种优先级排序能将排山倒海般的更新转变为一条清晰的前行路径：</p>
+<p>“在西南航空（Southwest Airlines），我们正在构建智能体驱动的 AI 工具和自主智能体，以简化遍布我们 70,000 多名员工的操作流程，并提升我们每天服务的数百万客户的体验。Amazon Quick 桌面版让我们的团队能够使用自然语言提出复杂问题，并在数秒内获得有依据、可信赖的答案，而无需等待临时报告请求。我们的开发人员只需构建一次，即可在整个企业范围内部署智能化体验，从一开始就融入了治理和准确性。Quick 大幅缩减了洞见获取时间，并且已经在推动整个组织内包括市场分析在内的高影响力用例。它已成为我们直接向员工赋予 AI 驱动智能的基础。”<br />—— Justin Bundick，西南航空技术智能平台副总裁</p>
+<p>从会议落实为推进势头</p>
+<p>大多数 AI 工具只是回答问题。Quick 则通过跨系统综合信息、起草交付物、更新记录并代表您的团队执行后续跟进，从而完成具体任务。团队得到的不是一份关于‘可以做什么’的总结，而是拿来即用、可供审核的最终成果。</p>
+<p>在这里，她在笔记本电脑上无缝接续此前在手机上未完成的工作——在控制中心审核已完成的工作，并将最终定稿的提纲分享给客户团队。</p>
+<p>早期客户指出，这种从‘提供答案’到‘交付成品’的转变，正是彻底改变他们团队运作方式的关键：</p>
+<p>“我们在 Amazon Quick 正式发布前就一直在对其进行评估，其采纳推广非常顺畅。设计简洁明了，体验直观自然，知识图谱和记忆功能能够自适应您的工作方式。您可以创建代表您异步运行的智能体，并在极短时间内将构想转化为可用原型。Quick 正在成为一种力量倍增器，让您能够腾出精力专注于更高价值的工作。”<br />—— Chuck Metturdharma，LabCorp 副总裁兼首席 AI 官</p>
+<p>即使您无暇顾及，工作依然稳步推进</p>
+<p>Quick 基于贵组织已在运行的工具、系统和基础设施构建而成。无需数据迁移，也无需采纳新的生态系统。它能直接连接您现有的系统，并在首日即开始产生价值。</p>
+<p>在这里，会议结束后，她在手机上为一天的工作收尾，让 Quick 优化并发送客户跟进邮件，随后为工程团队排期准备好次日清晨的材料。</p>
+<p>每一项决策仍由您掌控，其余繁杂事务交由 Quick 处理。</p>
+<p>无论您是 IT 主管、客户经理、协调跨职能项目发布的项目经理，还是正在结账的财务主管，Quick 都能配合您的工作习惯，跨越各类设备，按您的日程节奏协同运作。您负责做出研判；Quick 为您的团队赋予足以匹敌业务目标的充沛产能。</p>
+<p>这种产能在每个团队中的展现形式各不相同，但其模式始终如一：员工在繁琐准备上花费的时间更少，而能将更多时间用于将专业认知付诸行动：</p>
+<p>“Amazon Quick 让我们的领域专家——那些最了解高尔夫运动和我们数据的人——能够去完成以往积压在技术待办列表中的工作。我们在数天内便能构建出可用系统的原型，而以往这需要数周。当一个想法得到验证时，他们可以向我们的工程团队交付文档完备、经过验证的需求，而不是一个粗糙的概念，从而让开发始于可靠的基础之上。而且通过移动端支持，他们在灵感闪现的那一刻就能立即付诸行动，而无需等到回到电脑前。”<br />—— Randall Kato，美巡赛（PGA TOUR）高尔夫技术副总裁</p>
+<p>这些正是客户目前通过 Quick 所取得的成效，它们展现了当您的团队能够委派日常繁琐工作并专注于推动业务发展的核心工作时所能实现的潜能。</p>
+<p>Spencer 在 AWS 工作了六年，致力于将复杂的技术转化为能与客户产生共鸣的故事。他此前曾领导 AWS 上的 SAP 产品营销，帮助企业将其关键的 ERP 工作负载在云中实现现代化。现在，他专注于 Amazon Quick——制定进入市场（GTM）策略，通过利用人工智能的最新进展帮助客户更明智地开展工作。Spencer 现居西雅图，闲暇时喜欢寻觅珍稀鸟类并训练他的宠物狗。</p>
+<p>Chris 是 Amazon Quick 团队的首席生成式人工智能/机器学习（GenAI/ML）专家解决方案架构师。他拥有超过 25 年的企业软件开发经验。Chris 热爱园艺、烹饪、航空/通用航空以及环游世界。</p>
+<p>Ramon 是 Amazon Quick 的首席解决方案架构师。凭借多年构建商业智能（BI）解决方案的经验以及会计背景，他热衷于与客户合作、打造解决方案并提供世界级的服务。工作之余，他更喜欢置身于户外的海洋或高山之中。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Amazon Quick 桌面端应用程序现已在 macOS 和 Windows 系统上正式全面推出（Generally Available）。</li>
+    <li>Amazon Quick 在 iOS 和 Android 移动端新增了动态消息（activity feed）功能，整合了电子邮件、日历、CRM 和消息通知。</li>
+    <li>来源叙事重点：宣布企业级 AI 助手 Amazon Quick 桌面端正式在 macOS 和 Windows 全面可用（GA），并在移动端引入跨系统活动流；核心叙事强调其凭借 AWS 基础设施解决“影子 AI”合规与治理痛点，主打从“回答问题”转变为“直接生成交付物”的自主代理能力，并通过西南航空、LabCorp、美巡赛等大型客户证言论证业务降本增效价值。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#AWS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-eres-what-to-expect-html-81619456fd747a90" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="933" data-content-paragraphs="13" data-published-at="2026-09-10T19:18:05.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Economy (CNBC 宏观经济)" width="16" height="16" /> <strong>CNBC Economy (CNBC 宏观经济)</strong></span>
+    <span class="stance-badge">国际资本与华尔街视角</span>
+    <span class="dimension-pill">💹 宏观资本与产业</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 03:18</span>
+</div>
+
+### [周五的CPI通胀报告比以往更为关键：以下是前瞻要点](https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Friday&#39;s CPI inflation report is even more important than usual. Here&#39;s what to expect</div>
+
+<div class="article-body" data-article-body="true"><p>定于周五早晨发布的一份报告，将成为美联储下周就利率做出决定前所能获取的最后一块通胀拼图。</p>
+<p>美国劳工统计局将于美国东部时间上午8:30发布8月份消费者价格指数（CPI）报告。</p>
+<p>如果道琼斯共识预期准确，该报告将显示上个月所有被统计的商品和服务成本上涨了0.4%，使年化通胀率达到3.4%。然而，若剔除食品和能源价格，核心通胀率的环比和同比预期分别为0.2%和2.4%。</p>
+<p>结合周四公布的衡量批发通胀水平的生产者价格指数（PPI）数据，CPI将有助于美联储官员提前研判其首选通胀指标——个人消费支出（PCE）价格指数在9月底公布时将呈现出怎样的态势。</p>
+<p>这些信息预计还将对联邦公开市场委员会（FOMC）下周三的利率决定产生重大影响，哪怕只差几个百分点，都可能决定美联储究竟是按兵不动还是加息。</p>
+<p>野村证券经济学家在一份报告中表示：“9月FOMC的决定最终取决于CPI数据……因为PCE的大部分组成成分都来自CPI。目前，我们维持对9月FOMC会议不加息的预期。然而，如果8月CPI数据（尤其是与PCE相关的分项）意外上行，那将大幅增加下周收紧政策的可能性。”</p>
+<p>据芝商所（CME Group）的FedWatch期货价格衡量指标显示，在周四PPI数据公布后，交易员对加息25个基点的押注概率升至73%以上。</p>
+<p>然而，市场预期波动剧烈，高度依赖经济数据以及波动的能源价格，这使得周五公布的数据承载了更高的利害关系。美联储主席凯文·沃什（Kevin Warsh）已暗示在货币政策方向上依赖市场指标。</p>
+<p>“在月初时，美联储9月的决议看起来还处于微妙的平衡状态。但9月能源价格的飙升，可能会在美联储下周开会时将天平倾向加息一侧，”五三商业银行（Fifth Third Commercial Bank）首席美国经济学家比尔·亚当斯（Bill Adams）表示，“明天公布的8月CPI报告带来的巨大意外，或者在最后一刻与伊朗达成协议，仍可能左右这一决定。”</p>
+<p>有独家新闻线索？我们期待倾听您的声音。</p>
+<p>获取直接投递至您收件箱的内容，以及更多关于我们产品与服务的信息。</p>
+<p>数据为实时快照 *数据延迟至少15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。</p>
+<p>数据亦由以下机构提供</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>美国劳工统计局将于周五上午8:30公布8月份消费者物价指数（CPI）报告。</li>
+    <li>道琼斯普遍预期显示，8月所有衡量商品和服务的成本将环比上涨0.4%，同比通胀率为3.4%；剔除食品和能源的核心通胀预期环比为0.2%，同比为2.4%。</li>
+    <li>来源叙事重点：聚焦即将公布的8月CPI数据对美联储9月利率决策的关键影响，结合PPI超预期及能源价格飙升，突出市场押注加息的紧绷预期与政策决议对数据的高度依赖</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#宏观资本与产业</span>
+  <span class="news-tag-pill">#CNBC</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Economy (CNBC 宏观经济)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-nable-power-quantum-html-24f71d60499c544c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2272" data-content-paragraphs="24" data-published-at="2026-09-10T19:40:10.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
+    <span class="stance-badge">前沿同行评议严谨</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 03:40</span>
+</div>
+
+### [紧密导引原子技术有望在GPS失效时实现低功耗量子导航](https://phys.org/news/2026-09-tightly-atoms-enable-power-quantum.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Tightly guided atoms could enable low-power quantum navigation when GPS fails</div>
+
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/jongmin-lee-adjusts-a.jpg" alt="紧密导引原子技术有望在GPS失效时实现低功耗量子导航" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>作者：桑迪亚国家实验室（Sandia National Laboratories）<br />编辑：Gaby Clark，审校：Robert Egan<br />本文已根据Science X的编辑流程和政策完成审校。编辑在确保内容可信度的同时强调了以下属性：<br />经同行评审的出版物</p>
+<p>在依附于一根极细光纤的微小光晕中，科学家李钟民（Jongmin Lee）像引导弹珠穿过狭窄管道一样引导着原子。晃动光纤，原子会左右移动，但并不会脱落。不过，不要被其实验看似娇弱的表象所迷惑。李正在探索如何在严苛颠簸的环境中精确测量运动。</p>
+<p>作为桑迪亚国家实验室的量子传感科学家，李是一位精通原子干涉仪（一种运动传感器）的专家。在实验室中，该设备利用量子力学获得极其精确的测量结果。李及其团队正致力于构建一种极小、低功耗的野外应用版本——小到足以安装在一种名为光子集成电路的专用微芯片上。</p>
+<p>他们的最新成果发表在《AVS量子科学》（AVS Quantum Science）期刊上。该团队报告称，他们仅用了5毫瓦的光功率（大约比LED灯泡的功耗低2000倍），就在直径仅420纳米的光纤上捕获了铯原子。借助仅150纳瓦的功率，研究人员还能进行模拟原子干涉测量的测试。</p>
+<p>他们还报告了一种耐热薄膜波导的新设计，这是一种下一代原型。纳米光纤为该团队的原子引导实验提供了一个方便、可靠的试验台，但目前尚不适用于实际应用。</p>
+<p>“我们的终极目标是在带有光子集成电路的芯片上实现这一演示，但我们的纳米光纤结果为芯片级量子惯性传感指明了一条明确可行的道路，”李说。</p>
+<p>这种新的捕获方法所消耗的功率大约是以往方法的六分之一到四分之一，标志着向坚固耐用的芯片级原子干涉仪迈出了重要一步，该仪器可在GPS信号受到干扰时协助军用车辆导航。</p>
+<p>量子传感提供了一种潜在的解决方案。其测量利用了量子力学，精度远高于传统仪器。例如，原子钟就是一种众所周知的量子传感器，其精准计时的保持时间远超石英手表，不易发生时间漂移。</p>
+<p>同样，当GPS受到干扰或不可用时，测量惯性的量子传感器能让车辆在更长时间内保持航向无偏航。</p>
+<p>然而，强烈的颠簸或震动可能导致激光瞬间失去对原子的追踪，从而打断测量。相比之下，导引原子干涉测量就像一根狭窄的管道，能将原子限制在其中，使激光能够始终捕捉到它们。</p>
+<p>不过李表示：“几十年来，由于在真空中难以从光子器件散散热量，且难以在光子器件周围高效装载原子，这一想法一直未能被学界完全实现。”</p>
+<p>问题在于激光。你需要激光来产生捕获并导引原子的光晕效应。但激光也会产生热量。而在处理比人类头发细200倍的超薄元件时，热量会迅速积聚。这可能会使原子导引通道开裂，就像白炽灯泡中烧断的灯丝一样。</p>
+<p>直到最近，科学家们还必须在两种方案之间做出权衡：一种是脆弱的设计，通过悬空波导来高效装载原子，但在高温下容易碎裂；另一种是更坚固的设计，将波导安装在坚固的基底上，这种设计散热良好，但装载原子的效率很低。</p>
+<p>“散热和高效装载原子两者都非常重要，”李说。</p>
+<p>桑迪亚团队通过一个兼顾两者的平台找到了解决方案。</p>
+<p>“这种新型薄膜波导在真空中不易受热影响的原因在于，它的两端由微小的硅脚固定，”李解释道。在显微镜下，与纳米级厚度的薄膜波导相比，这些小脚显得非常庞大。更重要的是，它们充当了散热片的作用，将激光产生的热量引走。</p>
+<p>随着热量不再是不可克服的障碍，桑迪亚团队目前正开始将多年的研究整合为一个统一的工作流程。</p>
+<p>“通过激光冷却和捕获技术，我们团队制造了一团极冷且运动缓慢的原子云，它们漂移并聚集在薄膜的孔洞中或两根硅针之间的间隙中，”李说。</p>
+<p>横跨该孔洞或间隙的薄膜波导执行着与光学纳米光纤相同的功能：它产生光晕来导引原子。</p>
+<p>“在纳米光纤研究成果的基础上，我们证明了仅需5毫瓦的光功率即可捕获铯原子，并且可以使用亚微瓦级的光纤耦合光束测量原子相干性，同时最大限度地减少了真空中的热负荷，”李说。“这种能力在桑迪亚开发的薄膜波导光子集成电路平台上是完全可行的。”</p>
+<p>李仍在解决该薄膜设计中的一些细微问题，这也是他选择在纳米光纤试验台上而非新平台上测试其测量协议的原因。不过，未来的研究将收集新原子导引器上的原子捕获和功率数据，在测量过程中对原子施加动量反冲，并将导引器与芯片上的其他元件集成，从而向芯片级量子惯性传感器阵列迈进更近一步。</p>
+<p>“我们的构想尚未完全得到全面验证，但我们已经非常接近了，”李表示。</p>
+<p>眼下，这些原子已经系好“安全带”，无论前方的道路有多么崎岖颠簸，都已为量子传感的下一阶段征程做好了准备。</p>
+<p>Adrian Orozco 等人，《用于评估薄膜波导光子集成电路平台以实现片上量子惯性传感的光学纳米光纤试验台》（Optical nanofiber testbeds for benchmarking membrane-waveguide photonic integrated circuit platforms toward on-chip quantum inertial sensing），《AVS量子科学》（AVS Quantum Science）（2026年）。DOI: 10.1116/5.0309355<br />期刊信息：《AVS量子科学》<br />由桑迪亚国家实验室提供<br />英语文学硕士，自2021年起担任文字编辑，在高等教育和健康内容领域拥有丰富经验。致力于提供可信的科学新闻。查看完整个人资料 →<br />数学生物学学士，创意写作硕士。游历广泛，对科学和语言拥有独到见解。查看完整个人资料 →</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>桑迪亚国家实验室（Sandia National Laboratories）研究团队在直径仅420纳米的光纤上，利用仅5毫瓦的光功率捕获了铯原子。</li>
+    <li>研究人员仅用150纳瓦即可进行模拟原子干涉测量的测试。</li>
+    <li>来源叙事重点：突出低功耗、耐热和紧密导引原子技术对芯片级量子惯性传感器的推进意义，尤其强调其未来可用于GPS受干扰或不可用环境下的导航。报道的已证实内容包括：研究团队在直径420纳米光纤上以5毫瓦光功率捕获铯原子，并以150纳瓦光功率开展模拟原子干涉测量；新型捕获方法功耗约为既有方法的六分之一至四分之一；团队还提出以硅针支撑、帮助散热的膜波导方案。文章同时承认，完整的芯片级光子集成电路方案尚未完全演示，部分测试仍在纳米光纤平台上进行。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Phys.org</span>
+</div>
+
+<div class="news-card-footer"><a href="https://phys.org/news/2026-09-tightly-atoms-enable-power-quantum.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-e-75-inch-tv-deal-amazon-6ecbf1e3996b972f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1324" data-content-paragraphs="17" data-published-at="2026-09-10T19:40:01.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 00:01</span>
+  <span class="news-meta-time">🕒 2026-09-11 03:40</span>
 </div>
 
-### [“9·11”当天出生的美国人以志愿服务纪念25岁，放弃个人庆生以示缅怀](https://www.foxnews.com/media/americans-born-9-11-mark-25-years-acts-service-trading-personal-celebration-honor)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Americans born on 9/11 mark 25 years with acts of service, trading personal celebration for honor</div>
+### [迎战NFL赛季：这款原价1400美元的75英寸电视在亚马逊降至800美元以下](https://www.foxnews.com/deals/hisense-75-inch-tv-deal-amazon)
+<div class="original-title-sub"><span class="orig-tag">原文</span> This $1,400 75-inch TV just dropped to under $800 on Amazon for NFL season</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/NYC-World-Trade-Center.jpg?ve=1&amp;tl=1" alt="“9·11”当天出生的美国人以志愿服务纪念25岁，放弃个人庆生以示缅怀" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/footballtv.jpg?ve=1&amp;tl=1" alt="迎战NFL赛季：这款原价1400美元的75英寸电视在亚马逊降至800美元以下" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>威廉·费伯（William Faber）曾像普通幼童一样庆祝自己的9月11日生日——但在10岁左右得知这一天的特殊意义后，他做出选择：在这周年纪念日服务他人，而非为自己庆生。</p>
-<p>在福克斯国家台（Fox Nation）聚焦2001年9月11日出生、如今已年满25岁的美国人的全新特别节目中，费伯等人的故事得到了重点呈现。</p>
-<p>《生于9·11：与哈里斯·福克纳共度25载》（Born on 9/11: 25 Years with Harris Faulkner）分享了那些生日与美国历史上最黑暗一天交织在一起的人们，如何度过深受奉献、信仰和社区影响的人生。这部纪录片审视了多位在成长过程中始终回馈社区的个体的生活。</p>
-<p>弗兰克·西勒：“我爱你，兄弟”——催生奉献使命的“9·11”逝痛</p>
-<p>福克纳在周二的《寡不敌众》（Outnumbered）节目中表示，那天全美大约有1.3万名婴儿出生。</p>
-<p>记者手记：对新一代美国人而言，“9·11”只是一段历史篇章</p>
-<p>费伯告诉她，自从父母向他讲述了“9·11”的故事后，他就改在其他日子举办生日派对。</p>
-<p>“我父母……想保护我的感受，保护这个生日，确保我能够庆祝、玩得开心。后来到了10岁左右，他们把故事告诉了我。所以自那天起，我就真的再没在当天庆祝过生日，”费伯说。</p>
-<p>他做出这一决定，是为了向那天罹难的一位家庭友人以及在恐怖袭击中丧生的其他人致敬。</p>
-<p>“我想在那天做志愿者，我想在那天回馈社区。我宁愿不庆祝，我宁愿做些事情去帮助整个社区，”费伯说。</p>
-<p>《生于9·11：25载》现已可在福克斯国家台在线观看。</p>
-<p>点击此处订阅福克斯国家台</p>
-<p>福克斯国家台节目支持点播及移动设备应用端观看，仅限福克斯国家台订阅用户。访问福克斯国家台即可开启免费试用，观看海量由您喜爱的福克斯国家台主持人和嘉宾呈现的内容库。</p></div>
+<div class="article-body" data-article-body="true"><p>海信75英寸U6 Pro Fire TV以亲民的价格提供了超大屏幕与丰富功能。（iStock）</p>
+<p>橄榄球赛季已然来临，一台高品质的电视理应成为每位观众家庭观赛装备的核心。不妨考虑海信75英寸U6 Pro Fire TV，该机型售价已跌至有史以来的最低点。其原价为1400美元，目前限时特惠不到800美元——折扣力度高达43%。</p>
+<p>原价：1399.99美元</p>
+<p>这款4K超高清智能电视内置低音炮，并搭载Fire TV系统。（亚马逊）</p>
+<p>价格追踪数据显示，海信75英寸U6 Pro Fire TV现已处于历史最低价位。此前即使在较高售价时，评测者也对其性价比赞赏有加，这使得此次创纪录的历史低价促销尤为值得入手。</p>
+<p>U6 Pro机型的特点包括：</p>
+<p>这些特性使其成为任何希望升级为更大尺寸、满足观赛需求电视的消费者的绝佳选择。</p>
+<p>作为近期上市的2026款机型，截至目前在亚马逊上仅有大约300条评价，但仍保持了4.4星的高评分。</p>
+<p>“我真该早点下手买这台电视，”一位评测者表示，“MiniLED画面的对比度惊人，黑位深邃，高光通透，细节表现极为亮眼……画面看起来锐利而干净。电影、体育赛事以及流媒体内容效果都棒极了。我甚至还没来得及把它壁挂起来，因为我迫不及待地想先装好开机。到目前为止，我是打心底里喜欢这台电视。”</p>
+<p>另一位用户则宣称，这款机型是“他们这辈子见过的性价比最高的电视”。</p>
+<p>“得益于游戏模式下的运动处理技术，打游戏简直是一种享受！60 FPS非常丝滑，”该评测者说道，“响应极为迅速且极其流畅！这确实是MiniLED领域花这笔钱能买到的最佳产品。如果你想要一块高品质的大屏幕，又不想承受过高价格，那么买这台电视就对了！”</p>
+<p>获取更多优惠，请访问 www.foxnews.com/deals</p>
+<p>需要考虑的一个缺点是，这并不是海信旗下最高端的电视。尽管U6 Pro完全能满足观看体育赛事、播放流媒体电影以及玩游戏等需求，但如果您想要更高端的功能配置（例如更高的刷新率、更多的HDMI接口，以及将操作系统从Fire TV换为Google TV），则可能需要考虑U7机型。U6 Pro与U7之间的价格差大约在400美元左右。</p>
+<p>LG 77英寸 B5 OLED AI 4K电视：1499.99美元（降价50%）<br />海信 65英寸 U7 MiniLED 4K Google TV：847.99美元（降价43%）<br />海信 50英寸 CanvasTV 4K电视：747.99美元（降价42%）<br />东芝 43英寸 M450 QLED系列 4K电视：199.99美元（降价39%）<br />东芝 55英寸 C350系列 LED 4K电视：249.99美元（降价38%）<br />TCL 75英寸 QM6K系列 4K电视：849.99美元（降价34%）</p>
+<p>如果您是亚马逊Prime会员，即可享受快速送货上门服务。您现在便可注册或开启30天免费试用，即刻开始选购。</p>
+<p>阿米尔·伊斯梅尔（Amir Ismael）是一名资深商务编辑，主要负责福克斯新闻（Fox News） Deals板块的商务内容采写与编辑。</p>
+<p>通过精选的优质优惠清单、专业购物指南和产品评测，更智慧（更轻松）地进行选购。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-11 00:01 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-11 03:40 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1049,120 +1155,118 @@ notice:
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/media/americans-born-9-11-mark-25-years-acts-service-trading-personal-celebration-honor" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/deals/hisense-75-inch-tv-deal-amazon" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-blocks-to-investors-html-43f21f2b60a37d7e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="762" data-content-paragraphs="6" data-published-at="2026-09-10T15:30:00.000Z" data-time-source="publication">
+<div id="story-lor-mcgregor-star-danica-5f6462ef3bc6fd2d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2720" data-content-paragraphs="1" data-published-at="2026-09-10T19:38:40.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🛡️ 军事防务安全</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:30</span>
+  <span class="news-meta-time">🕒 2026-09-11 03:38</span>
 </div>
 
-### [塞内加尔将向投资者提供109个油气区块](https://oilprice.com/Latest-Energy-News/World-News/Senegal-to-Offer-109-Oil-and-Gas-Blocks-to-Investors.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Senegal to Offer 109 Oil and Gas Blocks to Investors</div>
+### [唐纳德·特朗普对惨不忍睹的NFL揭幕战毫无兴趣，ESPN泰勒·麦格雷戈成焦点，以及丹妮卡！](https://www.foxnews.com/outkick-sports/donald-trump-no-interest-watching-horrible-nfl-opener-espn-taylor-mcgregor-star-danica)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Donald Trump had no interest in watching the horrible NFL opener, ESPN&#39;s Taylor McGregor is a star &amp; Danica!</div>
 
-<div class="article-body" data-article-body="true"><p>塞内加尔能源和石油部长哈吉·阿卜杜拉赫曼·迪乌夫（El Hadji Abdourahmane Diouf）表示，塞内加尔将向本土和外国投资者推出多达109个油气区块。这位官员向当地电视台透露，在这个西非国家的113个油气区块中，目前仅有4个已签订合同。路透社援引该部长的话称：“剩余的109个区块将推向市场。”迪乌夫补充道：“总统的计划是在能源、石油和天然气领域培育本土领军企业。”</p>
-<p>过去十年中，塞内加尔近海的多次油气勘探发现启动了该非洲国家的石油工业——该国于2024年启动了首个石油项目，而塞内加尔与毛里塔尼亚近海的一个天然气项目则在一年后启动了液化天然气（LNG）出口。塞内加尔首个石油项目在2024年的投产推动了经济增长创下历史新高。</p>
-<p>总部位于澳大利亚的伍德赛德能源公司（Woodside Energy）于2024年6月在桑戈马尔（Sangomar）石油项目实现首采。伍德赛德表示，桑戈马尔油田开发第一阶段是一个深水项目，包括一个标称产能为每天10万桶的独立浮式生产储卸油装置（FPSO），以及旨在为后续开发阶段提供支持的水下基础设施。</p>
-<p>塞内加尔国家石油公司（Petrosen）总经理蒂耶诺·利（Thierno Ly）当时表示：“桑戈马尔油田的首批原油产出，不仅标志着我们国家工业和经济迈入新时代，更重要的是造福我们的人民。”</p>
-<p>一年后，作为运营商的英国石油公司（BP）从位于毛里塔尼亚和塞内加尔近海的大托尔图-阿赫梅因（Greater Tortue Ahmeyim，简称GTA）项目第一阶段安全装运了首船出口LNG。BP表示，大托尔图-阿赫梅因项目第一阶段计划年产约230万吨LNG，预计该项目的LNG生产年限将超过20年。</p>
-<p>作者：查尔斯·肯尼迪（Charles Kennedy），Oilprice.com</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-goodell-nfl-draft-announcement.jpg?ve=1&amp;tl=1" alt="唐纳德·特朗普对惨不忍睹的NFL揭幕战毫无兴趣，ESPN泰勒·麦格雷戈成焦点，以及丹妮卡！" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>“Nightcaps”是一档每日专栏，带你了解那些你在办公桌前假装工作时可能错过的重大体育、新闻和文化故事。该专栏于周一至周五在OutKick.com刊登。<br />橄榄球赛季的第一个周四。橄榄球赛季真正的第一个周四。你知道这意味着什么，对吧？<br />祝你非正式的周末愉快开始！在这里，秋季的周末是从周四开始的——而且理由十分充分。<br />今晚全球各地都有橄榄球赛。显而易见，重头戏是在墨尔本举行的公羊队对阵49人队的比赛，从严格意义上讲，比赛是在明天上午10点30分打响。<br />【NFL深入进军流媒体，奈飞在FCC与司法部审查中拿下澳大利亚赛事转播】<br />今晚我们还有一场重量级的大学橄榄球比赛。我说的“重量级”，指的是让分盘。目前排名第7的迈阿密大学对阵佛罗里达农工大学，让分高达59.5分。这绝对是我见过的最大让分盘口之一。<br />感兴趣的朋友可以在ACC Network观看！<br />说到这里，欢迎来到周四的Nightcaps——昨晚唐纳德·特朗普绝对对看昨晚的橄榄球赛毫无兴趣。<br />天哪。那是场什么球赛啊。无论如何都称不上是一场好比赛，但不管怎样也算是一场球赛。<br />还有什么？阿隆·罗杰斯在节目中把可怜的丹妮卡·帕特里克怼得体无完肤，波士顿的电台今天彻底陷入一片混乱，而ESPN记者泰勒·麦格雷戈本周继续吸引着全美的目光。<br />她在周一晚上塔拉哈西停电期间表现亮眼，随后又在今天早些时候的一次电台采访中与一名停车场收费员发生了争执。<br />好了，让我们切入正题。周四夜赛终于回归了。时间不等人。<br />在“全美微波速冻晚餐日”，给自己拿一份微波速冻晚餐，坐下来享受这期周四Nightcaps吧！<br />在我们开始之前……天啊，我真是太怀念微波速冻快餐了。那才是最棒的。显然，我是看着90年代长大的，所以“Kid Cuisine”是我的首选神器。<br />我觉得我妈妈每周至少喂我吃四顿那种东西。如今要是我想偷偷给孩子们带一份回家，我妻子非得报警把我抓起来不可。<br />支持MAHA（让美国再次健康）的妈妈们可不是好惹的。<br />“Hungry Man”也很棒。那才是开山鼻祖，对吧？那些东西刚从冰箱拿出来时简直沉得要死。你用那种盒子砸都能砸死一个人。<br />但老天作证，它们确实很好吃：<br />太棒了。多么精彩的广告啊。如今他们再也拍不出那样的广告了。现在的广告全是大药厂和保险公司的。我们曾经拥有过那么美好的时光，却全被我们给搞砸了。<br />不管怎样，让我们开始今天的盘点，首先是唐纳德·特朗普宣称昨晚的中期选举集会与NFL揭幕战对决取得了巨大成功！<br />“昨晚在达拉斯举行的共和党中期大会取得了巨大成功，门票全部售罄，其规模、精彩程度和重要性远超任何人的想象，”特朗普在Truth Social上发帖表示。<br />“这真的很了不起，全网都在转播，收视数据极其庞大，尽管当时正撞上NFL比赛。总数据击败了NFL。那个非常漂亮的场馆打破了自身的上座率纪录。现场座无虚席！场外还有数千人无法入场。现场提供了大屏幕。我想人们就是热爱特朗普政治！我今晚还会去那里压轴亮相。”<br />太惊人了。在这番宣言和几个月后我们只要配合就能拿到的5000美元之间，这真是一个美好的夜晚！<br />听着，我完全不知道这到底是不是真的。特朗普的大会演讲真的击败了在NBC播出的NFL揭幕战吗？我深表怀疑。我确实知道那些收视数据甚至都还没公布，所以无论如何我都不确定这些说法是否准确。<br />但我要说的是……他其实没错过什么好东西。那真是一场糟糕透顶的比赛。因为它是橄榄球赛，所以算是一场大战，但在前三节里简直糟糕透顶。<br />德雷克·梅耶的表现堪称灾难。AJ·布朗受伤了。萨姆·达诺德只打了五个挡位就缺席了剩余的比赛。<br />NFL，或许你们可以别再强行把爱国者对海鹰的比赛塞给我们看了？有没有考虑过这一点？<br />说到这里，让我们来看看今天波士顿电台的反应，爱国者队以0胜1负开启了新赛季：<br />【克雷格·卡顿秀——原汁原味、毫无歉意、不容错过。立即下载他的每日播客！】<br />橄榄球迷是最可爱的。我们苦等九个月，只为再次看到自己的主队比赛。我们整个冬天都在忍受煎熬。我们渴望比赛日的到来。我们整个夏天都在倒计时等待开球。<br />然后，就在那一瞬间，我们立刻火冒三丈，恨不得把整支球队推倒重建。年年如此，准得像上了发条。<br />平心而论……梅耶昨晚的表现真的、彻头彻尾地糟糕。他在第四节的表现简直匪夷所思，而我甚至都算不上是梅耶的铁粉。<br />就连我都对这记传球感到震惊：<br />作为一个经历了图阿时代折磨的凄惨海豚队球迷……爱国者队的球迷们，那个第四节让我产生了一些相当令人担忧的痛苦回忆。<br />好了，让我们快速推进今天的周四盘点，迎接精彩的橄榄球之夜。首先是什么？给所有人的一个温馨提示：今晚公羊对49人的比赛将在NETFLIX（奈飞）上播出。<br />没错。想要观看本赛季的第二场NFL比赛，你得再去订阅另一个流媒体应用了：<br />听着，我认为把NFL比赛放在付费墙后面简直愚蠢透顶。这太荒唐了，但这就是我们现在生活的世界。<br />恐怕这种趋势也不会消失。<br />话虽如此……奈飞做出的先导预告片真是太棒了。平心而论，看完之后我都热血沸腾得想去撞穿一堵砖墙了。<br />这还让我有机会把敏卡·凯利再次带回我们的盘点中。我们既然有了《胜利之光》风格的NFL预告片，怎么能不去关注一下那部剧的女主角呢：<br />看来她过得挺不错。<br />双眼清澈，内心饱满，不可战胜！<br />好了，临走前再来两则猛料。先来看看阿隆·罗杰斯今天早上在卡姆·海沃德的播客上针对丹妮卡·帕特里克发表的高能爆料：<br />“我和丹妮卡约会过。她当时刚退役。她很抑郁，跟她在一起一点乐趣都没有。但我没有离开她，因为我试图陪伴她，做一个好伴侣。然后事情显然朝着某个方向发展了。我们之间毫无亲密感；什么都没有，”罗杰斯在周四早晨释出的第二部分访谈中说道。<br />“她对外讲述的故事版本是，她整个人都被蒙在鼓里，然后被你抛弃了，还说这个男人走过的地方留下一片血迹。我心想，你在胡说八道些什么呢？事实根本不是那样。”<br />天哪。当然，罗杰斯还没说完！据说丹妮卡曾试图和他一起联名签署马里布一套新房子的房贷，但他根本不吃这一套。<br />“我当时要在马里布买套房子，她走过来说：‘你想一起买吗？’我说不想。她说：‘那你明白这意味着什么了吧？’我说：‘是啊，看来事情确实走向了这个结局。’她说：‘那我们去做心理咨询吧。’接着我们去做了咨询。然后COVID爆发了，我们被封在了一起。”<br />我的天啊。COVID本身就已经够糟糕了。现在你居然还把阿隆·罗杰斯和一个显然“毫无乐趣”的丹妮卡·帕特里克关在同一个屋檐下？<br />好了，今天就到这里。大家表现不错。这堂课时间挺长，但内容很重要。<br />最后附上ESPN的新星泰勒·麦格雷戈在进行电台直播连线时吃到违章停车罚单的画面。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-10 23:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-11 03:38 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#军事防务安全</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/donald-trump-no-interest-watching-horrible-nfl-opener-espn-taylor-mcgregor-star-danica" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-k-of-junior-bankers-html-b3bfcf5d678b643b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1799" data-content-paragraphs="18" data-published-at="2026-09-10T19:02:58.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
+    <span class="stance-badge">国际资本与华尔街视角</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 03:02</span>
+</div>
+
+### [OpenAI推出全新金融服务版ChatGPT，瞄准华尔街初级银行家工作](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services</div>
+
+<div class="article-body" data-article-body="true"><p>OpenAI正瞄准华尔街最繁重耗时的一些工作任务，推出了一款新版ChatGPT，旨在进行公司调研、分析财务数据，并生成投资银行家所依赖的演示文稿。</p>
+<p>据OpenAI产品副总裁尼克·特利（Nick Turley）介绍，这款于周四发布的产品名为“ChatGPT金融服务版”（ChatGPT for Financial Services），是其企业级产品ChatGPT Work的定制版本，由摩根士丹利（Morgan Stanley）和Evercore作为“设计合作伙伴”共同打造。该产品采用了这家人工智能公司最新、最先进的模型GPT-6 Astra。</p>
+<p>这一产品的推出，让OpenAI进一步深入到了传统上由华尔街初级银行家占据的领域。几十年来，该行业一直雇佣这些被称为分析师（analysts）和助理（associates）的应届大学毕业生来调研交易并制作路演材料（pitchbooks）。这也展示了该公司在其筹备备受期待的重磅首次公开募股（IPO）之际，持续向企业级服务领域推进的步伐。</p>
+<p>特利在宣布新产品的新闻发布会上表示：“我们实际上是在教会ChatGPT像分析师一样开展调研，并像分析师一样为其结论提供论据支持。”</p>
+<p>在过去一年的大部分时间里，OpenAI一直在激烈的企业级市场竞争中竞相争取商业客户，努力抵御包括Anthropic和谷歌在内的竞争对手。Anthropic去年就发布了专为华尔街打造的定制解决方案Claude金融服务版（Claude for Financial Services）。</p>
+<p>OpenAI首席财务官萨拉·弗莱尔（Sarah Friar）在8月向投资者透露，公司的企业级业务营收已经超过了消费者业务，后者在2022年推出ChatGPT后迅速爆发。</p>
+<p>特利在发布会上对记者表示，除了金融服务领域之外，OpenAI还计划针对“多个行业领域”发布定制化解决方案。</p>
+<p>在对新产品的现场演示中，特利展示了该平台如何分析潜在的并购目标、从行业标准数据源提取财务数据，并根据某家银行预设的格式规范生成排版规范的PowerPoint演示文稿。</p>
+<p>特利表示：“制作好看的幻灯片非常容易，但制作出真正合乎逻辑的幻灯片要困难得多。为了达到这一步，ChatGPT必须选择相关的同业对比公司。它必须将价格提取到电子表格中。它必须对照数据核对图表，并且必须解释股价的抛售与反弹。”</p>
+<p>该版本与其基础产品ChatGPT Work的不同之处在于，它具备来自伦敦证券交易所集团（LSEG）、Daloopa和PitchBook的原生数据接口，为系统提供财务报表和业绩电话会纪要等内容，并支持自动接入用户现有的数据订阅权限。</p>
+<p>其他专为金融领域量身定制的功能还包括支持用户追溯数据至原始申报文件并审核图表的引用功能，以及针对敏感交易材料的管理控制权限。</p>
+<p>尽管特利表示，这款最初面向投资银行和股票研究领域的ChatGPT版本“需求巨大”，但他拒绝透露已签约使用的具体银行名单。</p>
+<p>当CNBC问及最新版本的ChatGPT是否会减少投资银行招聘初级银行家的需求时，特利将此次发布定性为一种提高效率、使每位员工生产力最大化的举措。</p>
+<p>“如果你去研究一名分析师或银行家的生活，根据行业不同，他们每周工作长达100个小时，”特利说，“我认为，就像微软Excel彻底变革了该行业并让他们能够更快完成更优质的分析一样，你也会看到此类技术发挥同样的作用。”</p>
+<p>尽管如此，该产品还是给长期建立在严格学徒制模式之上的行业提出了根本性问题。如果生成式人工智能可以在几分钟内完成诸如调研和路演排版等涉及多步骤的任务，华尔街将被迫重新思考应如何培养下一代交易撮合者，以及究竟需要多少这样的人才。</p>
+<p>上个月，高盛负责该行旗舰AI项目之一的合伙人克里斯·丘奇曼（Chris Churchman）曾发出警告，指出那些有助于培训初级银行家的工作任务若实现自动化，可能会导致下一代金融从业者出现“认知萎缩”的风险。</p>
+<p>丘奇曼当时表示：“推理依然至关重要。你仍然需要对问题进行推理并将其构建成论点，而现在我们正在把推理工作外包出去。”</p>
+<p>有保密新闻线索？我们期待您的来信。<br />获取直接发送至您收件箱的内容，以及关于我们产品和服务的更多信息。<br />数据为实时快照 *数据至少延迟15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。<br />数据亦由……提供</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【CNBC Markets (CNBC 市场官方英文)】于 2026-09-11 03:02 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
+  <span class="news-tag-pill">#CNBC</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Senegal-to-Offer-109-Oil-and-Gas-Blocks-to-Investors.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Markets (CNBC 市场官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--118-days-this-year-html-60c3a33cca04ad61" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4149" data-content-paragraphs="55" data-published-at="2026-09-10T15:00:00.000Z" data-time-source="publication">
+<div id="story-ng-on-record-growth-html-5fa158d30dd99315" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1277" data-content-paragraphs="7" data-published-at="2026-09-10T19:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
     <span class="dimension-pill">⚡ 战略能源与气候</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:00</span>
+  <span class="news-meta-time">🕒 2026-09-11 03:00</span>
 </div>
 
-### [今年二叠纪盆地天然气已有118天价值低于零](https://oilprice.com/Energy/Energy-General/Permian-Gas-Has-Been-Worth-Less-Than-Nothing-for-118-Days-This-Year.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Permian Gas Has Been Worth Less Than Nothing for 118 Days This Year</div>
+### [美国天然气市场正接近创纪录增长](https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Market-Verging-on-Record-Growth.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> US Natural Gas Market Verging on Record Growth</div>
 
-<div class="article-body" data-article-body="true"><p>点击此处查看150多个全球石油价格<br />国际能源署（IEA）：因伊朗战争扼制液化天然气供应，全球煤炭需求势将创历史新高<br />欧洲的可再生能源建设速度正超越……<br />美国已实施制裁……<br />霍尔木兹海峡的石油流动已……<br />我的报道范围 我的关注重点涵盖全球能源格局及重塑该格局的技术，特别是石油与天然气、可再生能源以及技术驱动的市场……</p>
-<p>在得克萨斯州佩科斯郊外，雪佛龙正准备建造一座发电厂，以解决二叠纪盆地多年来一直面临的难题：该地生产的天然气远超附近任何买家愿意掏钱购买的体量。</p>
-<p>雪佛龙旗下子公司 Energy Forge One 于6月与微软签署了一份为期20年的协议，将在一个数据中心园区旁建造一座燃气电厂，发电容量逐步提高至约2.67吉瓦。最终投资决定预计于今年年底前做出，电厂计划于2028年开始供电。</p>
-<p>一个县里的一笔交易并不能代表一种趋势，但这确实表明，西得克萨斯州三个各自酝酿多年的独立能源难题，正开始找向同一个客户。</p>
-<p>天然气产量创纪录，价格跌入负值</p>
-<p>今年来自米德兰的大多数讨论都围绕着克制展开——钻井平台减少、预算收紧，以及某行业刊物所称的向更慢、更有纪律性增长的转型。这很好地描述了石油领域的情况，但却忽略了天然气方面正在发生的事情。</p>
-<p>WTI原油价格在2025年平均为每桶65美元，截至今年7月约为84美元，远高于米德兰和特拉华盆地运营商向达拉斯联储报告的每桶63至69美元的保本线，因此生产商一直在继续钻探。</p>
-<p>问题在于，如今产出的每一桶石油所带出的伴生气都比几年前更多——几乎任何油田随着开发年限增长，都会出现油气比上升的现象。</p>
-<p>美国能源信息署（EIA）预计，今年二叠纪盆地的天然气产量平均将达到292亿立方英尺/日，同比增长6%，创下该地区的历史新高。</p>
-<p>然而，根本没有足够的管道来运输所有的天然气……</p>
-<p>二叠纪天然气定价枢纽瓦哈（Waha）在今年前131个交易日中有118天出现负价交易，并有望打破2024年创下的负价天数纪录。</p>
-<p>负价意味着生产商需要向他人支付费用以运走这些天然气；他们之所以这么做，是因为如果不这样，唯一的替代方案就是关闭真正为他们赚钱的油井。因此，二叠纪盆地的麻烦不在于生产；而在于其两项主要产品之一，在一年中的大部分时间里其价值都低于零。</p>
-<p>中游产业也没有任何人认为这种情况会很快结束。企业产品伙伴公司（Enterprise Products Partners）正在扩建从米德兰和特拉华盆地引出的 Bahia 液化天然气（NGL）管道，埃克森美孚持有40%的股份，相关合同将延续至2027年。</p>
-<p>数据中心不等管道</p>
-<p>东戴利分析公司（East Daley Analytics）预计，液化天然气出口终端和数据中心总计将拉动超过200亿立方英尺/日的新增需求，而目前正在向墨西哥湾沿岸铺设的管道绝不会空置等待。</p>
-<p>他们的研判是，生产商最终可能会特意在含气量更高的区块进行钻探，纯粹是为了让这两种产品持续流经主要围绕原油设计的输送基础设施。</p>
-<p>而表后（behind-the-meter）数据中心的出现，无需任何人铺设新管道就能改变这一局面……</p>
-<p>加拿大皇家银行资本市场（RBC Capital Markets）统计，得克萨斯州已公布的表后燃气发电容量约为38吉瓦，超过美国任何其他州。</p>
-<p>仅名为 GW Ranch 的单个项目就计划于2031年前在西得克萨斯州建设7.5吉瓦的现场发电设施，这大致相当于一座美国中型城市的用电负荷。</p>
-<p>不过，针对这些项目的一种说法理应受到更多质疑，即它们正在消纳原本会被放空燃烧的天然气。迄今为止，尚无任何人能证明 Kilby 项目做到了这一点。</p>
-<p>一家在该领域开展业务的环境合规公司在今年夏天给客户的备忘录中指出，仅仅位于闲置油井附近并不能证明数据中心使用的燃料替代了放空燃烧的天然气，而且大多数开发商并未拿出项目层面的证据来佐证这一说法。</p>
-<p>无论如何，二叠纪盆地的火炬放空燃烧量一直在下降，2023年至2024年期间强度下降了近10%，这主要归功于马特洪峰快线（Matterhorn Express）等管道终于为这些天然气提供了出路。</p>
-<p>不争的事实是，即使在新管道建成之后，二叠纪盆地生产的天然气仍然超出了市场的吸收能力；而数据中心是多年来第一批既拥有充足资金、又缺乏等待耐心的买家，他们直接选择将发电厂建在天然气所在的地方。</p>
-<p>风电早已为输电网埋单</p>
-<p>以斯威特沃特为中心的诺兰县，自2000年代中期以来就被称为得克萨斯州的风电机组之都，当时阿比林和大大平原（Big Spring）之间的高原上竖起了数百台风力发电机。</p>
-<p>将这些电力向东输送需要新建输电线路，得州通过一项名为 CREZ（竞争性能源区）的约70亿美元计划为此埋单。这些线路增加了约18,000兆瓦的输送容量，投资早已摊销多年，至今仍在输送电力。</p>
-<p>这就是为什么数据中心开发商不断落户于20号州际公路这一区段的关键原因，因为早在任何人规划吉瓦级园区之前，电网输电线路就已经铺设就绪了。</p>
-<p>我曾在《西得克萨斯牛仔正借AI土地热潮套现》一文中写到过这对该走廊沿线土地价值和牧场经济产生的影响。</p>
-<p>对于本文而言，重要的是风能早已解决了该地区的东西向输电瓶颈，如今在此投资建设的每一个人，都在享受别人二十年前投入的资本成果。</p>
-<p>太阳能仍在等待其输电线路</p>
-<p>一条名为“二叠纪可靠性项目”（Permian Reliability Project）的新高压输电线路目前正在进行选址工作，预计它将为远西得克萨斯州的太阳能带来类似于 CREZ 为阿比林周围风能带来的转变——将光照充足但无法外送电力的土地，变成开发商真正能获得融资的资产。</p>
-<p>下一轮可再生能源建设的落地点可能与上一轮有所不同，因为风电机组需要开阔的地面并远离飞行航线。</p>
-<p>阿比林附近的一个大型项目在开发商与戴斯空军基地（Dyess Air Force Base）发生空域冲突后，从风电转向了太阳能。光伏面板面临的此类限制较少，而且一旦二叠纪可靠性项目的线路建成，太阳能电站将距离目前在盆地内部考察土地的数据中心园区更近，而不是位于东北方向的阿比林走廊。</p>
-<p>加密货币矿工率先试水了这一模式的小型版本</p>
-<p>将数据中心建在闲置天然气旁边在西得克萨斯州并非新鲜事，只不过此前从未达到过如此庞大的规模。</p>
-<p>多年来，加密货币矿工们一直将装满矿机和小型发电机组的集装箱运往偏远的井场，直接从无法通过其他途径销售天然气的生产商手中购买天然气。</p>
-<p>康菲石油（ConocoPhillips）曾在巴肯盆地运营过早期版本，埃克森美孚也开展了试点，随后这种模式便扩散至整个二叠纪盆地。</p>
-<p>挖矿非常适合这种模式，因为它不在乎电力来自何处，也不在乎电网连接是否可靠，因此它可以在生产源头直接消纳无人问津的能源，而无需等待管道建设审批。</p>
-<p>咨询机构Opportune的大宗商品风险顾问瑞安·杜塞克（Ryan Dusek）称，这是能源领域为数不多真正互利共生的合作模式之一，因为生产商得以处理掉无法外运的天然气，而矿工（加密货币矿企）则能以批发价获得电力，且完全不会受到电网停电的影响。</p>
-<p>佩科斯（Pecos）的项目正是基于同样的逻辑，但规模完全不可同日而语。</p>
-<p>装满矿机的集装箱一年可能只会消耗数百万立方英尺的天然气，而一座2.67吉瓦的发电厂则完全是另一码事。正因如此，几年前矿企在这里所做的一切，如今看来更像是一场更大规模行动的预演。</p>
-<p>阿博特的暂停令对此毫无影响</p>
-<p>德克萨斯州州长格雷格·阿博特（Greg Abbott）于8月3日下令暂停批准新的数据中心项目，指示德州电力可靠性委员会（ERCOT）和德克萨斯州公用事业委员会对电网并网队列中的每一个项目进行审计。当时该队列中的并网申请总量已激增至约474吉瓦，而该电网创纪录的峰值负荷需求仅约85吉瓦。</p>
-<p>此次审计涵盖了ERCOT“批次零”（Batch Zero）流程中的约300个大型项目，重点审查用水量、股权归属、公共补贴以及诸多其他方面。</p>
-<p>但这一切都不适用于绕过电网直接连接的项目。</p>
-<p>像雪佛龙与微软在佩科斯所做的那样，在现场自建发电设施的开发商，即使并网排队流程被冻结，仍可以继续推进。</p>
-<p>这完全符合该政令的出台初衷，因为阿博特公开表达的担忧是依赖电网的德州居民的供电可靠性，而自备发电的数据中心从一开始就没有从公共电网中抽调电力。</p>
-<p>相关政治角力将随着今年秋季的选举继续发酵，且该审计目前没有明确的结束时间表。但无论如何，利益机制所指引的方向都是一致的：德州对并网项目的审查越严格，“表后”（behind-the-meter）自发电模式看起来就越具吸引力。正是这种模式，正直接拉动对二叠纪盆地及其周边廊道的天然气需求，并最终拉动可再生能源需求。</p>
-<p>数据中心并非制造这三个问题的元凶……</p>
-<p>滞销搁浅的天然气、利用率不足的风电输电通道，以及迟迟未建的太阳能外送管线，一直横亘在西德克萨斯，苦苦等待着一个拥有足够资本与足够紧迫感、愿意主动绕开基础设施短板而非被动等待他人解决问题的买家。</p>
-<p>这位买家最终能否维持目前宣称的庞大规模，确实是一个值得探讨的问题，就连ERCOT自身的官员也预计，一旦引入财务承诺规则挤出投机性排队申请，并网队列中的大部分项目都将烟消云散。</p>
-<p>但已经白纸黑字签约的项目则确凿得多。基尔比（Kilby）是一项为期20年的合同，其最终投资决定将在今年年底前尘埃落定。</p>
-<p>作者：迈克尔·克恩（Michael Kern），Oilprice.com</p>
-<p>Oilprice.com更多热门阅读：<br />WTI原油突破100美元——本轮涨势后劲十足<br />为何石油巨头不愿在美国新建炼油厂<br />美委石油协议威胁中国“石油换贷款”安排<br />电动卡车已从“不可能”走向“不可避免”<br />美军击毁五艘伊朗油轮，油价触及100美元<br />霍尔木兹海峡对峙持续，伊朗石油出口崩溃</p>
-<p>本网站提供的资料仅供参考和教育之用，无意提供税务、法律或投资建议。<br />本网站包含的任何内容均不应被视为在任何司法管辖区向任何人推荐、招揽或要约购买或出售证券。<br />备案商户：A Media Solutions（以Oilprice.com名义运营）</p></div>
+<div class="article-body" data-article-body="true"><p>据美国能源信息署（EIA）称，美国天然气产量预计将在2026年达到创纪录的每天1117亿立方英尺（bcfd），高于2025年的每天1076亿立方英尺。预计到2027年，美国国内供应量将达到每天1159亿立方英尺。但这只是故事的一半。EIA在其《短期能源展望》中表示，未来两年，美国天然气供应和需求都将升至创纪录水平。国内天然气消费量预计将从2025年创纪录的每天919亿立方英尺，升至2026年的每天1117亿立方英尺和2027年的每天1159亿立方英尺。该机构表示，尽管生产商有选择地进行资本支出，但钻井效率提高、电力需求上升以及液化天然气（LNG）出口能力扩张仍在持续推动产量增长。增长主要由二叠纪盆地和海恩斯维尔等关键页岩气产区带动。预计截至10月31日，美国天然气库存将比五年平均水平高出约5%，并以此水平进入冬季。</p>
+<p>路透社报道，9月份对2026年的预测高于EIA在8月份发布的预测。当时EIA预计，2026年产量为每天1112亿立方英尺、需求为每天920亿立方英尺。该机构预计，美国液化天然气日均出口量将从2025年创纪录的每天151亿立方英尺，升至2026年的每天174亿立方英尺和2027年的每天186亿立方英尺。</p>
+<p>安永（Ernst &amp; Young）的另一项研究发现，美国油气行业正越来越重视提升现有资产的表现，同时保持有纪律的增长。一份新闻稿称，尽管并购（M&amp;A）仍在投资组合塑造中发挥重要作用，但研究结果表明，生产商正优先关注运营表现、资本效率，以及最大化现有资产的回报。</p>
+<p>相关：国际能源署称，随着伊朗战争阻碍液化天然气供应，全球煤炭需求将创下新高</p>
+<p>近期上游和下游领域的重大交易包括：Tamarack Valley Energy（多伦多证券交易所代码：TVE）与Headwater Exploration（多伦多证券交易所代码：HWX）达成的100亿美元全股票合并；Diversified Energy（纽约证券交易所代码：DEC）以18亿美元收购Birch Permian Holdings；雪佛龙（纽约证券交易所代码：CVX）以530亿美元收购赫斯公司；以及埃克森美孚（纽约证券交易所代码：XOM）以595亿美元对先锋自然资源公司发起的重磅收购。但资本支出总额同比下降49%，并购支出下降70%。</p>
+<p>安永年度《美国油气储量与产量基准研究》分析了30家规模最大的上市勘探与生产（E&amp;P）公司的五年业绩数据。该研究最值得注意的发现之一，是产量与储量替代之间出现了分化。2025年石油产量达到研究期内的最高水平，但来自扩边和勘探发现的石油储量新增量同比下降11%，首次未能完全替代产量，此前自2021年以来一直没有出现这种情况。石油总储量也下降了不到1%。</p>
+<p>虽然石油储量替代有所放缓，但研究显示，天然气基本面有所增强：产量上升18%，储量增加14%，发现量增加21%，储量新增量自2021年以来首次转为正增长。该研究还指出，液化天然气需求增长、电力消费上升，以及人工智能相关基础设施和数据中心扩张，都是支撑天然气长期需求的因素。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-10 23:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-11 03:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1172,89 +1276,79 @@ notice:
   <span class="news-tag-pill">#OilPrice</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Energy/Energy-General/Permian-Gas-Has-Been-Worth-Less-Than-Nothing-for-118-Days-This-Year.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Market-Verging-on-Record-Growth.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-st-got-a-lot-higher-html-49cc3b43103712a8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1400" data-content-paragraphs="18" data-published-at="2026-09-10T14:51:36.000Z" data-time-source="publication">
+<div id="story-oil-output-forecast-html-a85ff7ad8e446dd3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="644" data-content-paragraphs="1" data-published-at="2026-09-10T18:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Economy (CNBC 宏观经济)" width="16" height="16" /> <strong>CNBC Economy (CNBC 宏观经济)</strong></span>
-    <span class="stance-badge">国际资本与华尔街视角</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 22:51</span>
+  <span class="news-meta-time">🕒 2026-09-11 02:30</span>
 </div>
 
-### [美联储下周加息概率大幅飙升](https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The likelihood of a Fed interest rate hike next week just got a lot higher</div>
+### [EIA上调2027年美国石油产量预测](https://oilprice.com/Latest-Energy-News/World-News/EIA-Raises-2027-US-Oil-Output-Forecast.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> EIA Raises 2027 U.S. Oil Output Forecast</div>
 
-<div class="article-body" data-article-body="true"><p>从周四的市场定价来看，一系列不利于通胀的因素很可能会促使美联储在下周加息，且在年底前可能还会再加息一次。</p>
-<p>根据芝加哥商品交易所集团（CME Group）的“美联储观察”（FedWatch）工具显示，在公布了显示8月份批发物价上涨的报告，加之美国原油价格恰逢其时地突破每桶100美元后，交易员在早盘交易中将加息概率推高至70%。</p>
-<p>随着通胀动能表现顽固，且更有可能引发央行反应，交易员还将12月再次加息的概率小幅推升至近60%。</p>
-<p>LPL Financial首席经济学家杰弗里·罗奇（Jeffrey Roach）写道：“随着与伊朗的冲突拖延时间超出许多人预期，通胀压力正变得日益根深蒂固，这促使投资者苦苦寻找足以改变通胀预期的催化剂。照此速度发展，下周加息似乎已成定局。”</p>
-<p>衡量批发及流通环节成本压力的生产者价格指数（PPI）在8月份上涨了0.4%。尽管这一数据符合预期，但此前7月份的数据被上调为增长0.1%，两者叠加将年度PPI水平推升至5.4%，略高于预期。</p>
-<p>与此同时，中东地区敌对行动的加剧令大宗商品交易员感到恐慌，推动美国原油价格上涨4%，勉强突破100美元大关。</p>
-<p>最后，欧洲央行宣布加息25个基点，并上调了通胀预测，原因是担忧伊朗战争将产生更深远的经济影响，并对消费物价造成更长期的打击。</p>
-<p>TradeStation全球市场策略主管大卫·拉塞尔（David Russell）表示：“由于自8月份数据收集以来，原油和成品油价格一直在持续上涨，更大的压力正在袭来。油价的持续飙升，加上低失业金申请人数，使美联储在下周很难不加息。”</p>
-<p>当美国劳工统计局在周五发布消费者价格指数（CPI）时，央行政策制定者将获得对通胀数据的最后一次审视机会。</p>
-<p>道琼斯共识预期整体年率为3.4%，但不包括食品和能源的核心通胀率预计为2.4%。</p>
-<p>不过，美联储侧重于商务部的个人消费支出（PCE）物价指数，该指数显示7月份核心PCE为3.3%，整体PCE为3.7%。美联储主席凯文·沃什（Kevin Warsh）近期重申，PCE物价指数是美联储衡量通胀的官方基准。</p>
-<p>美国银行高级美国经济学家斯蒂芬·朱诺（Stephen Juneau）估计，结合8月份的PPI数据来看，核心PCE月率正处于0.26%的运行区间，四舍五入后将达到0.3%。</p>
-<p>朱诺在报告中指出：“在明天的CPI公布后，这一预测可能会发生显著变化，但如果我们是正确的，它应该会为美联储下周会议上的加息大开绿灯。”</p>
-<p>美银在华尔街拥有最鹰派的美联储预期之一，预计在接下来的几次会议上将有三次加息。</p>
-<p>尽管这与当前期货市场的共识并不一致，但近期的发展动向表明，在抗击通胀方面美联储将更加激进。</p>
-<p>One Point BFG Wealth Partners首席投资官彼得·布克瓦尔（Peter Boockvar）表示，即便CPI数据表现疲软，也可能仅意味着企业更难将更高的成本转嫁给消费者。</p>
-<p>布克瓦尔表示：“那些仅凭消费物价来获取通胀信息并预测利率走势的人，并未看到全貌，今天的PPI再次证明了贯穿整个供应链的通胀问题依然存在。”</p>
-<p>有独家新闻线索？我们期待倾听您的声音。<br />订阅此内容直达您的收件箱，并获取更多有关我们产品和服务的信息。<br />数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票行情及市场数据与分析。<br />数据同时由相关机构提供</p></div>
+<div class="article-body" data-article-body="true"><p>美国能源信息署（EIA）已将2027年美国原油产量预测上调至每日1,430万桶，高于其8月份预测的每日1,420万桶和7月份预测的每日1,400万桶。对于2026年，EIA仍预计美国原油产量为每日1,380万桶，与其7月和8月的预测持平。这一产量将超过2025年创下的每日1,370万桶纪录。今年上半年，美国原油日产量平均为1,370万桶，较去年同期增加30万桶，增幅为2%。其中大部分增量来自二叠纪盆地和墨西哥湾美国海域。EIA预计，二叠纪盆地今年的平均产量将达到每日680万桶，比2025年高出3%。截至8月，西德克萨斯中质原油（WTI）均价为每桶84美元，高于去年的每桶65美元。参与达拉斯联储3月份调查的生产商表示，米德兰盆地和特拉华盆地的平均盈亏平衡价格分别为每桶69美元和每桶63美元。今年上半年，墨西哥湾原油日产量增加了20万桶，同比增幅为10%。过去一年投产的四个项目——Shenandoah、Ballymore、Whale和Salamanca——投产以来合计平均日产量约为19.1万桶。其中，Shenandoah日产量最高，达到7万桶；Ballymore为5.8万桶，Whale为3.8万桶，Salamanca为2.5万桶。EIA预计，到2026年底，墨西哥湾还将有另外四个规模较小的项目投产。EIA预计，布伦特原油2026年的平均价格为每桶91美元，2027年为每桶74美元。在此期间，其美国原油产量预测将再增加每日50万桶。Oilprice.com朱莉安·盖格尔报道</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【CNBC Economy (CNBC 宏观经济)】于 2026-09-10 22:51 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-11 02:30 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
-  <span class="news-tag-pill">#CNBC</span>
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#OilPrice</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Economy (CNBC 宏观经济)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/EIA-Raises-2027-US-Oil-Output-Forecast.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-word-managers-on-android-22295a96a6b4196f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="635" data-content-paragraphs="12" data-published-at="2026-09-10T16:00:00.000Z" data-time-source="publication">
+<div id="story-t-you-see-on-prime-video-82ca7e7564789e17" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1445" data-content-paragraphs="19" data-published-at="2026-09-10T18:10:36.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 00:00</span>
+  <span class="news-meta-time">🕒 2026-09-11 02:10</span>
 </div>
 
-### [谷歌让安卓设备上的密码管理器切换变得更加轻松](https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Google is making it easier to switch between password managers on Android</div>
+### [亚马逊让用户更轻松地购买在Prime Video上看到的商品](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon makes it easier to buy what you see on Prime Video</div>
 
-<div class="article-body" data-article-body="true"><p>谷歌周四在安卓系统上推出了一种全新的密码管理器切换体验，用户在迁移到新应用时无需再下载 CSV 文件。</p>
-<p>借助这项新功能，用户将能够在不同应用之间无缝转移其所有密码，甚至包括通行密钥（Passkeys）。</p>
-<p>要使用这一新系统，用户首先需打开新的密码管理器应用，并选择从旧的管理器应用中导入或复制密码。安卓系统将检测设备上的管理器应用，并在两个应用之间协调传输。用户可以核对正在传输的信息，只需轻点几下即可确认批准。</p>
-<p>由于该方法还支持通行密钥的转移，因此用户在迁移到新的密码管理器应用时，无需重新进行设置。此外，谷歌表示这还避免了因使用 CSV 文件而泄露数据的风险。</p>
-<p>谷歌表示，这一全新体验已在部分合作伙伴以及谷歌自家的密码管理器应用中上线。目前支持的应用包括 1Password、Bitwarden 和 Dashlane，未来还将支持更多应用。</p>
-<p>该密码管理器切换功能将在所有运行 Android 8 或更高版本的设备上提供。</p>
-<p>不要错过。初创社区将汇聚一堂，共同回答一个关键问题：如何在人工智能时代实现可持续发展？</p>
-<p>每个工作日和周日，您都可以获取 TechCrunch 最优质的报道内容。</p>
-<p>TechCrunch Mobility 是您获取交通出行领域新闻与洞察的首选目的地。</p>
-<p>初创公司是 TechCrunch 的核心，敬请订阅我们每周精选的深度报道。</p>
-<p>为行业领袖和决策者提供开启新一天所需的重要资讯。</p>
-<p>提交您的电子邮件即表示您同意我们的条款和隐私声明。</p></div>
+<div class="article-body" data-article-body="true"><p>亚马逊将让用户在观看电视节目时更轻松地购物。这家零售巨头周四宣布推出一系列新功能，允许客户通过与现有X-Ray体验的整合，在数千部Prime Video影视作品中发现商品。X-Ray目前可实时显示演员简介、角色姓名、配乐等信息。亚马逊还将利用其Lens技术推出一种新的“购买场景中的商品”方式，并进行其他更新。</p>
+<p>这些变化是在去年推出“购买节目中的商品”功能后做出的延伸。该功能是一种通过亚马逊移动购物应用提供的第二屏购物体验。它不会打断用户的观看体验，也不会在屏幕上显示商品信息；用户只需在亚马逊搜索应用中输入“购买节目中的商品”，该功能就会将用户带到与某部电影、某档节目或某场直播体育赛事相关的商品页面。</p>
+<p>可以说，这项功能很容易被忽略。此次推出的新功能将让商品推荐更加醒目，也更容易访问。</p>
+<p>亚马逊加入了多项服务的行列。这些服务正努力将购物建议整合到观看体验中，以创造额外的收入来源。YouTube长期以来为创作者提供商品展示区，用于推广他们的产品，同时也提供可购物的联网电视广告。Peacock于2023年推出Must ShopTV功能，允许观众购买其内容中出现的商品。Roku也提供了通过遥控器购物的方式。迪士尼则一直在尝试可购物电视，包括在Disney+、Hulu和ESPN的流媒体广告中加入购物功能。</p>
+<p>要通过亚马逊的X-Ray购物，用户可以像往常一样启动X-Ray体验：暂停视频，然后按下Fire TV遥控器上的向上键。随后，用户就能进入全新的“商店”选项卡，其中会展示与正在观看内容相关的商品。要购买商品，用户需要打开亚马逊购物应用。该应用会识别正在播放的内容，并将用户带入一个与当前播放时刻同步的信息流，用户可以在其中浏览心仪的商品。</p>
+<p>X-Ray之外的第二屏体验也得到了改进。用户不再需要输入“购买节目中的商品”这一搜索请求，只要在观看电影或节目时打开亚马逊购物应用，应用就会将其带到对应作品的商品页面。</p>
+<p>随后，用户可以点击画面，让亚马逊的视觉搜索技术Amazon Lens识别由角色服装、家居装饰以及场景中出现的其他物品所启发的商品。这项名为“购买场景中的商品”的功能并不总能找到完全匹配的商品；角色经常穿着亚马逊或其卖家没有库存的服装，其中包括高端品牌服饰或手工制作的戏服。不过，它至少可以成为寻找商品的起点，帮助用户打造相似的风格。</p>
+<p>“购买场景中的商品”技术目前已在美国的iOS和Android系统上线，支持600多部影视作品。</p>
+<p>亚马逊应用中的“购买节目中的商品”功能已从支持1300部作品扩展至美国的8000多部作品。该零售商表示，这些作品包括Prime原创内容、部分获得授权的热门作品以及直播体育赛事。</p>
+<p>当你通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
+<p>消费者新闻编辑</p>
+<p>不要错过。创业社区将齐聚一堂，共同回答一个关键问题：如何在人工智能时代实现可持续发展？</p>
+<p>Automattic董事会迫使首席执行官马特·穆伦维格休假</p>
+<p>苹果发布首款折叠屏手机iPhone Duo</p>
+<p>纽约大学数学家称，OpenAI在一道关乎职业生涯的数学题上采取了不正当手段</p>
+<p>一部神秘的新伊丽莎白·霍姆斯纪录片震撼特柳赖德电影节</p>
+<p>TechCrunch Mobility：特斯拉Cybercab驶上道路——却遇到一个难题</p>
+<p>徒步旅行者在使用Google Gemini进行规划后获救</p>
+<p>联邦政府启动对特斯拉Cybercab部署情况的调查</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-11 00:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-11 02:10 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1264,282 +1358,7 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-multi-turn-conversations-637b2a144e560438" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="11612" data-content-paragraphs="76" data-published-at="2026-09-10T15:55:41.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:55</span>
-</div>
-
-### [面向多轮对话的智能体评估指标](https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Agent Evaluation Metric for multi-turn conversations</div>
-
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/03/ML-20819-1.png" alt="面向多轮对话的智能体评估指标" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>多轮智能体出现故障的方式往往会被单轮评估所忽略：一个早期的错误会悄然破坏后续的每一个轮次。本文介绍了智能体评估指标（Agent Evaluation Metric，简称 AEM），这是一种可分解的、按轮次衡量智能体质量的方法。我们将其应用于其第一个维度——正确性。我们将展示 AEM 如何精确定位导致失败的那一轮，并将其与仅继承了该问题的轮次区分开来。</p>
-<p>多轮智能体对话中的正确性挑战</p>
-<p>在多轮对话中评估智能体的正确性极具挑战性，因为正确性本身非常脆弱，而整体评分往往会掩盖出现问题的具体位置。本节将阐明级联错误如何导致基于结果层面的评估失效，并说明采用可分解轮次级指标的必要性。</p>
-<p>为什么正确性至关重要</p>
-<p>单次错误的工具调用可能会引发跨轮次的下游连环故障。设想与企业助手进行一次五轮对话：用户要求创建一份销售报告，随后对其进行优化。在第 2 轮中，智能体选择了正确的操作，但传入的参数却是“利润”（profit）而非“收入”（revenue）。这一个错误随后便悄然蔓延至后续的每一个轮次。</p>
-<p>下图追踪了这一故障过程。它展示了第 2 轮中的早期错误如何在第 3 至 5 轮中产生级联反应，以及轮次级评估如何将单一根本原因与其下游影响隔离开来。</p>
-<p>图 1：早期错误在后续轮次中级联扩散，轮次级评估隔离了根本原因</p>
-<p>任务级评估仅检查最终结果。它将整个交互标记为失败，却无法揭示实际上只有一轮需要修复。这就是核心问题所在：在多轮智能体对话中，错误会发生级联扩散，而基于结果层面的评估无法区分根本原因与其下游影响。</p>
-<p>现有指标的局限性</p>
-<p>大多数智能体评估工具都是在任务或回复层面对质量进行整体评分。当前一代工具提供了目标达成度评分以及大语言模型作为评判者（LLM-as-judge）的质量评估，部分工具还增加了链路追踪级的根本原因分析。这些方法很有价值，但它们都采用了一种相同的框架：将智能体质量视为单一信号，而未能将其拆解为可独立跟踪的各个组成部分。</p>
-<p>它们无法提供的是一种将质量分解为具名的、可按轮次独立衡量的子指标的方法。仅仅知道某个智能体“在目标达成度上得分 70%”，并不能告诉你失败是由事实性错误、信息缺失还是错误的工具选择造成的。随着需求的增长，单一评分也无法干净利接地扩展到新的维度。具体存在以下三大差距：</p>
-<p>任务级指标（目标成功率）可以告诉你智能体是否完成了任务，但无法指出是哪个质量维度出现了故障。</p>
-<p>单轮指标（实用性、忠实度）孤立地评估回复，没有考虑错误如何在轮次之间传播。</p>
-<p>整体评分无法区分事实性错误与必填字段缺失，且在不重构评估架构的前提下，无法提供添加新维度（如安全性、指令保持性）的清晰路径。</p>
-<p>可分解的轮次级评估模式弥补了这些差距。它将质量拆分为具名的子指标，在完整轨迹中评估每一个轮次，并将其合成为一个统一的指标。这种方法在不改变机制的情况下同样可以扩展到新的维度。</p>
-<p>作为复合指标的正确性</p>
-<p>我们将智能体质量定义为由 AEM 计算的、由具名且可独立衡量的子指标构建而成的单一复合指标。在第一篇博文中，AEM 通过两个子指标来衡量正确性：</p>
-<p>真实性（Truthfulness）：智能体生成的值是否在事实上与预期一致？这既适用于工具调用中的参数值，也适用于自然语言回复中的陈述。</p>
-<p>完整性（Completeness）：所有必需的要素是否都已齐备？既不存在缺失的参数，也不存在遗漏了请求信息的不完整回复。</p>
-<p>下图展示了这种分解方式。它说明了顶级评分如何拆解为独立衡量的具名子指标并重新组合，以及相同的模式如何扩展到未来的其他维度。</p>
-<p>图 2：正确性分解为具名子指标，可扩展至新维度</p>
-<p>本文最核心的贡献正是这种分解本身。AEM 并非一个单一不透明的分数，而是多个子指标的复合体，每个子指标都可以在每个轮次中进行衡量，并在整个轨迹中进行合成。工具和操作的选择构成了这些指标下层的结构基础。这种“分解-评估-合成”模式可扩展至诸如安全性、指令保持性和推理深度等新维度。正确性是我们落地的第一个维度。</p>
-<p>智能体评估指标框架</p>
-<p>AEM 将分解理念转化为具体的逐轮指标。本节定义了轮次级层级结构、两个子指标及其组合方式，以及使评分具有可操作性的故障分类法。</p>
-<p>轮次级层级结构</p>
-<p>正确性是逐轮计算的。一个轮次要么是智能体回复用户的“回复轮次”（response turn），要么是智能体调用工具的“操作轮次”（action turn）。我们以回复轮次切入，因为这是用户最终看到的内容，但相同的指标也适用于操作轮次。两者均归入同一层级结构之下。</p>
-<p>下图展示了该共享层级结构。它展示了相同的两个子指标在一侧评估工具调用（参数键与参数值），在另一侧评估自然语言回复（覆盖度与事实依据）。</p>
-<p>图 3：相同的两个子指标分别评估工具调用和自然语言回复</p>
-<p>对于回复轮次，这两个子指标应用于自由文本。完整性评估回复是否涵盖了完整的查询内容，而真实性评估其是否在事实上保持一致。相同的复合方法也适用于操作轮次。在操作轮次中，完整性检查参数键（parameter keys），确认所有必需的参数均已提供；真实性检查参数值（parameter values），确认其在语义上是正确的。这两者都建立在确认选择了正确工具与操作的基础结构性检查之上。</p>
-<p>在本文中，轮次的正确性被视为二元值：通过或失败，并附有指出具体子指标和字段的明确失败原因。这种分解方式同样支持更细粒度的评分，即在连续尺度上对单个断言或字段进行打分。</p>
-<p>在对话整体合成时，AEM 分数即为通过轮次所占的比例。由于它是按子指标分解的，因此一旦分数下降，便能清晰指出是真实性还是完整性这一维度导致了变化，而不仅仅是笼统地显示正确性下降。</p>
-<p>AEM 的分解与形式化</p>
-<p>两个子指标均依赖于语义比对而非精确匹配。对于回复和参数值而言，精确字符串匹配过于脆弱。“New York City”与“NYC”在语义上等价，而“Q3 2024 revenue”（2024年第三季度营收）与“third quarter revenue figures for 2024”（2024年第三季度营收数据）传达的信息也是相同的。</p>
-<p>语义相似度评分用于确定两个值在语义上是否等价。从概念上看，该检查形式如下：</p>
-<p>def evaluate_truthfulness(gold_value, predicted_value, scorer, threshold=0.5):<br />    &quot;&quot;&quot;对预测值与黄金标准值的语义等价性进行打分。&quot;&quot;&quot;<br />    if gold_value == predicted_value:<br />        return True, 1.0  # 完全匹配（快速通道）<br />    score = scorer.score(gold_value, predicted_value)<br />    return score &gt;= threshold, score</p>
-<p>打分器既可以是基于嵌入向量的相似度检查（快速且成本低），也可以是基于大语言模型作为裁判（LLM-as-judge）的调用（更细致入微）。嵌入向量检查是一个透明的“编码器加相似度函数”结构，而裁判模型则是一个更不透明的基于解码器的模型，其打分过程无法直接审查。阈值控制着判定的严格程度：较高的阈值能捕捉真实错误，但有误判语义等价内容的风险；而较低的阈值则更为宽松。这里的 0.5 只是一个中立的起始默认值，并非调优后的取值。合适的值取决于您所在领域对假阳性与假阴性的容忍度（参见“经验教训”部分）。</p>
-<p>相似度分数是连续的。本文中正是通过阈值将其压缩为二元的轮次判定结果，而更细粒度的配置则可以保留每个主张的分数。</p>
-<p>完整性检查在响应轮次中进行语义检查（响应是否回答了全部问题？），在动作轮次中进行结构化检查（所有必需的参数键是否均已提供？）：</p>
-<p>def evaluate_completeness(gold_args, predicted_args):<br />    &quot;&quot;&quot;检查是否提供了所有必需参数，且无意外多余参数。&quot;&quot;&quot;<br />    missing = set(gold_args.keys()) - set(predicted_args.keys())<br />    extra = set(predicted_args.keys()) - set(gold_args.keys())<br />    return len(missing) == 0 and len(extra) == 0, missing, extra</p>
-<p>返回的 missing（缺失）和 extra（多余）集合直接输入到故障分类体系中。非空的缺失集合会产生 missing_parameters（缺少参数）故障，而非空的多余集合会产生 extra_parameters（多余参数）故障，从而精准定位到底是哪些参数出错。</p>
-<p>综合评分。分解过程生成每个子指标、每个轮次的判定结果。综合规则将它们整合为一个数值。综合规则本身是一种选择，符合该框架的可组合原则。本文中的默认设置为通过轮次的非加权平均值。</p>
-<p>其他规则同样有效。加权平均对出错成本更高的轮次赋予更高权重。门控规则允许单次关键轮次的失败封顶总分。基于子指标的阈值则为每个维度设立单独的标准。该框架将此综合函数视为可插拔组件。</p>
-<p>故障分类体系与动作链</p>
-<p>当某一轮次失败时，具体的故障原因会精确捕获出错的具体环节。该分类体系涵盖两种轮次类型：响应轮次故障与动作轮次故障处于同一层级，而结构化检查（工具和动作选择）仅适用于调用了工具的轮次。</p>
-<p>故障原因 | 适用对象 | 子指标 | 含义<br />inconsistent_response | 响应轮次 | 真实性 | 响应与参考内容在事实上不一致<br />incomplete_response | 响应轮次 | 完整性 | 响应遗漏了所请求的部分信息<br />tool_mismatch | 动作轮次 | 结构性 | 选错了工具<br />action_mismatch | 动作轮次 | 结构性 | 工具正确，但操作选错<br />missing_parameters | 动作轮次 | 完整性 | 未提供必需参数<br />extra_parameters | 动作轮次 | 完整性 | 添加了非预期的多余参数<br />inconsistent_parameter_values | 动作轮次 | 真实性 | 参数存在但语义错误<br />prior_action_failed | 两种轮次皆可 | 级联连锁 | 非根本原因，由先前轮次导致</p>
-<p>真实性和完整性这两个子指标贯穿于这两种轮次类型中。只有结构化检查是针对工具特有的。prior_action_failed（先前动作失败）这一标签赋予了该指标在多轮场景下的可操作性。它将根本原因与级联效应区分开来，并且既可以归因于响应轮次，也可以归因于动作轮次。评估器根据依赖关系分配该标签：当故障发端于该轮次本身时，该轮次即为根本原因；当它仅仅是因为使用了前面已经失败的轮次所输出的内容而导致失败时，就会被打上 prior_action_failed 标签。在开篇的示例中，只有第 2 轮是根本原因，第 3 至 5 轮则继承了级联标签。该指标还跟踪动作链长度（单次调用、两步序列以及复杂的三步及以上序列），因为较长的链条集中了绝大部分的性能衰退。</p>
-<p>智能体工作流的评估流水线</p>
-<p>前文所述的指标运行在一个可复现的流水线中。输入带有标注的对话，输出一个分解后的单一 AEM 分数，该分数归因到各个轮次，并可在整个智能体生命周期中使用。</p>
-<p>下图展示了从标注对话、分轮打分与归因，直至生成可在开发和生产环境中使用的单一分数的端到端流程。</p>
-<p>图 4：从标注对话到分解后的逐轮正确性分数</p>
-<p>对于这个由五轮构成的销售报告示例，流水线返回了一个紧凑、分解的结果（示例说明）：<br />{&quot;success_rate&quot;: 0.2, &quot;test_pass&quot;: false, &quot;first_failure_turn&quot;: 2, &quot;root_cause&quot;: &quot;inconsistent_parameter_values&quot;, &quot;root_cause_count&quot;: 1, &quot;cascading_count&quot;: 3}</p>
-<p>黄金数据集设计</p>
-<p>评估始于基准真实数据（ground truth）：即同时对正确响应和正确工具调用进行了标注的对话。这一黄金参考标准通常由人工标注（或者基于更强大模型引导生成后再由人工审核），因为它定义了每一轮次所谓“正确”的判定标准。每次对话都是一个轮次序列，每个轮次将黄金（预期）输出与预测（实际）输出进行配对。轮次携带一个角色标识，指明其生成主体。响应轮次和动作轮次的形式如下：</p>
-<p>[<br />  {<br />    &quot;turn_no&quot;: 1,<br />    &quot;turn&quot;: &quot;Agent&quot;,<br />    &quot;gold_turn&quot;: {&quot;response&quot;: &quot;Which region should the report cover?&quot;},<br />    &quot;predict_turn&quot;: {&quot;response&quot;: &quot;Sure, which region would you like the report for?&quot;}<br />  },<br />  {<br />    &quot;turn_no&quot;: 2,<br />    &quot;turn&quot;: &quot;Tool&quot;,<br />    &quot;gold_turn&quot;: {&quot;tool_id&quot;: &quot;reports&quot;, &quot;action&quot;: &quot;FilterData&quot;, &quot;args&quot;: {&quot;metric&quot;: &quot;revenue&quot;, &quot;region&quot;: &quot;EU&quot;}},<br />    &quot;predict_turn&quot;: {&quot;tool_id&quot;: &quot;reports&quot;, &quot;action&quot;: &quot;FilterData&quot;, &quot;args&quot;: {&quot;metric&quot;: &quot;profit&quot;, &quot;region&quot;: &quot;EU&quot;}},<br />    &quot;tags&quot;: [&quot;OrderInvariant_filter&quot;]<br />  }<br />]</p>
-<p>对比黄金标准和预测结果即可得出逐轮正确性判定。响应轮次通过测试：用词虽然与黄金标准不同但在语义上等价，这正是语义相似度打分的用武之地。动作轮次测试失败：在指标参数值上出现了真实性错误（预期为 revenue，实际为 profit）。tags 字段支持顺序无关评估（order-invariant evaluation）。当多个工具调用按任意顺序执行均有效时（例如查看日历和搜索航班），评估器会参照所有有效排序进行比对，而不会惩罚正确但执行次序不同的行为。</p>
-<p>在每一轮评估完成后，错误归因会将根本原因与级联效应分离开来。无论该轮次是响应还是动作，它都会对轮次判定结果进行处理：</p>
-<p>def attribute_errors(turn_results):<br />    &quot;&quot;&quot;将根本原因故障与级联故障区分开来。&quot;&quot;&quot;<br />    root_causes = []<br />    cascading = []</p>
-<p>for result in turn_results:<br />    if not result.success:<br />        if result.failure_reason == &quot;prior_action_failed&quot;:<br />            cascading.append(result)<br />        else:<br />            root_causes.append(result)<br />return {<br />    &quot;first_failure_turn&quot;: root_causes[0].turn_no if root_causes else None,<br />    &quot;root_cause&quot;: root_causes[0].failure_reason if root_causes else None,<br />    &quot;total_failures&quot;: len(root_causes) + len(cascading),<br />    &quot;root_cause_count&quot;: len(root_causes),<br />    &quot;cascading_count&quot;: len(cascading),<br />}<br /># 输出示例：<br /># first_failure_turn: 2, root_cause: &quot;inconsistent_parameter_values&quot;<br /># root_cause_count: 1, cascading_count: 3<br /># 修复第 2 轮中的参数；第 3 至 5 轮很可能会自动恢复正常。</p>
-<p>这改变了团队排查与修复问题的优先级逻辑。他们无需逐个独立调查每项失败，而是聚焦于根本原因，因为级联故障通常在根本原因修复后便迎刃而解。否则，多步调用链中的单一根本原因可能会表现为多次互不相关的独立失败。</p>
-<p>生产环境监控<br />在生产环境中，系统会持续追踪整体正确性评分：<br />按版本划分的整体正确性（回归检测）：最新的模型更新是否导致了轮次级别的成功率下降？<br />按调用链长度划分的正确性：复杂的多步调用链是否会随时间推移出现性能劣化？<br />失败原因分布（根本原因趋势）：模型更换后，tool_mismatch（工具不匹配）的比例是否有所上升？<br />延迟关联性：累积延迟较高的对话是否表现出更低的正确性？</p>
-<p>该框架输出结构化的 JSON 数据，可直接接入监控仪表盘。某些错误代价高昂，例如财务计算或涉及合规性的回复。对于这些场景，还可以将分解后的子指标评分与人工标注或黄金标准标注进行关联性分析。按子指标计算的关联系数（例如皮尔逊或斯皮尔曼相关系数）可以表明自动化评分是否与人类判断保持一致，以及在何处需要引入人工复核机制。</p>
-<p>与 Strands Agents 评估 SDK 集成<br />该方法论独立于具体框架，但许多团队会通过现有的测试套件运行评估。轮次级别的正确性信号可以作为自定义评估器集成到 Strands Agents 评估 SDK 中。由此，它可以无缝接入团队已用于目标完成度评估和 LLM-as-judge（大模型作为评判者）打分的现有管线。那些内置评估器通常将质量作为全局的、按完整轨迹呈现的信号进行报告。而 AEM 则是互补的，它提供分解后的单轮正确性评分，将故障归因至特定的子指标与具体轮次。该包装器复用了本文前面构建的逐轮检查逻辑（evaluate_truthfulness、evaluate_completeness 以及归因逻辑）：</p>
-<p>from strands_evals.evaluators import Evaluator<br />from strands_evals.types import EvaluationData, EvaluationOutput</p>
-<p>class CorrectnessCustomEvaluator(Evaluator):<br />    &quot;&quot;&quot;将轮次级正确性检查包装为 Strands Agents 自定义评估器。&quot;&quot;&quot;<br />    def __init__(self, threshold: float = 0.5, name: str = &quot;correctness&quot;):<br />        super().__init__(name=name)<br />        self._threshold = threshold</p>
-<p>def evaluate(self, evaluation_case: EvaluationData) -&gt; list[EvaluationOutput]:<br />        # 在整个对话中运行逐轮真实性 + 完整性检查<br />        turn_results = evaluate_dialog(evaluation_case, threshold=self._threshold)</p>
-<p>success_rate = sum(r.success for r in turn_results) / len(turn_results)<br />        failures = [r.failure_reason for r in turn_results if not r.success]<br />        return [<br />            EvaluationOutput(<br />                score=success_rate,<br />                test_pass=all(r.success for r in turn_results),<br />                reason=f&quot;failing turns: {failures}&quot; if failures else &quot;all turns pass&quot;,<br />                label=&quot;correctness&quot;,<br />            )<br />        ]</p>
-<p>在此，evaluate_dialog 应用了前文展示的逐轮真实性和完整性检查，并返回每一轮的结果。这种模式将评估逻辑（分解、故障分类学、轮次级组合）保留为可移植的自定义代码，而 Strands Agents 则负责提供运行器、调用链追踪（trace）收集和报告生成功能。具体而言，每次运行都会生成按轮次划分的追踪记录（包括工具调用和模型调用的 span）以及一份结构化报告。你可以将该报告显示或导出为 JSON，以便接入自己的仪表盘与告警系统。AEM 增加了单轮正确性评分。该包装器可在单次运行中将正确性信号与其他评估器一同运行，包括我们在下一篇文章中将要介绍的安全性评估器。</p>
-<p>将框架应用于 Amazon Quick Suite<br />Amazon Quick Suite 是一款企业级助手，能够运行该指标所针对的多轮、多工具对话。本节不报告内部生产数据，而是以开篇示例中的销售报告对话为例，详细介绍团队如何解读 AEM 的输出。</p>
-<p>用户最终评判的是他们在每一轮中所接收到的回复，因此该回复就是我们在整个对话中逐轮进行评估的单元。在单个回复的背后，智能体通常会在交互式延迟约束下串联多个工具调用，而 AEM 负责对由此产生的正确性进行打分。</p>
-<p>对对话运行评估管线后，会生成该对话的单项 AEM 评分及其分解结果。success_rate（成功率）是核心先行指标，此外还包括各子指标的明细拆解，以及仅当每一轮均通过时才为 true 的 test_pass 标志。同一次调用还会返回用于驱动错误归因的逐轮失败原因。</p>
-<p>一个完整的归因示例<br />回到包含五个轮次的销售报告对话。在第 2 轮中，系统在原本预期为收入（revenue）的地方传递了利润（profit），因此因 inconsistent_parameter_values（参数值不一致）而在真实性指标上被判定为失败。第 3 至 5 轮建立在这一结果的基础之上，因而也相继失败，但它们属于级联失败：每一轮均带有 prior_action_failed（前序动作失败）的标记。原始的失败计数会报告四个轮次损坏。而归因分析则指出第 2 轮存在 1 个根本原因，并产生了 3 个下游影响——这才是真正关键的数据。</p>
-<p>实际应用中的法则是：先归因，后排查。以下常见模式使这一逻辑更加具体，表格总结了各种情况下应首先排查的方向。</p>
-<p>观察到的现象 | 优先检查项 | 典型根本原因<br />长调用链中聚集了大量失败 | 检查首个失败轮次，而非失败总数 | 早期出现的一个 inconsistent_parameter_values 级联至下游<br />失败出现在对话中途 | 通过 prior_action_failed 标签找到发生中断的轮次 | 上游出现 missing_parameters（参数缺失）或 action_mismatch（动作不匹配）<br />回复看起来有误，但所有工具调用均成功 | 检查回复轮次的真实性与完整性 | inconsistent_response（回复不一致）或 incomplete_response（回复不完整）</p>
-<p>由此得出的结论是：调用链越长，越多的失败归因于较早的轮次，而非独立的偶发错误。修复极少数根本原因往往可以解决观察到的大量失败，因此归因分析能够将混乱嘈杂的失败列表转化为精简且有序的修复清单。</p>
-<p>在实践中应用 AEM 还带来了一些经验教训。首先，在调查之前必须先做归因：prior_action_failed 标签将根本原因与级联影响区分开来，从而避免链路中早期的单点错误被误读为多个独立的失败。</p>
-<p>其次，根据您的业务领域微调相似度阈值。依据您对误报（false positive）与漏报（false negative）的容忍度来进行设置。过严的阈值会误判语义等价的内容（例如“NYC”与“New York City”），而过宽的阈值则会遗漏真实存在的错误。<br />第三，标记与顺序无关的步骤。当若干工具调用无论以何种顺序执行均有效时，对它们进行标记可让评估器认可有效的备选顺序，而不是将正确的行为判定为失败。<br />两项更具普适性的经验涉及信任度与扩展性。针对代价高昂的错误，通过将分解后的子指标与人工或基准标注（gold judgments）进行关联分析，来根据人工标签进行验证。在未检测出的错误会带来实际严重后果的环节，引入人工审核（human-in-the-loop）。此外，应通过新增子指标而非构建新流水线来扩展评估体系：定义逐轮评估标准和故障分类法（failure taxonomy），随后使用相同的分值进行合成。规划质量、指令保持度以及安全性评估均遵循这一方法。<br />结论与后续步骤<br />本文介绍了智能体评估指标（Agent Evaluation Metric，简称 AEM），将其作为多轮智能体对话的单一综合指标，并应用于其首个维度——正确性。AEM 将正确性分解为具名的子指标（真实性与完整性），并在轮次级别对其进行评估，实现精确的错误归因。它不仅能检测故障，还能明确指出哪个维度出现问题、由哪个轮次导致，以及后续的故障究竟是根本原因还是级联效应。<br />该方法无缝契合团队现有的评估工作流。首先确立基准真相（ground truth），随后 AEM 通过真实性和完整性对每一轮进行评分。接着，错误归因将根本原因与级联故障区分开来，使得计数能够反映独立的实际问题，而非下游的噪音干扰。跨模型版本追踪该得分，可将此指标转化为回归测试信号，并通过自定义评估器封装器（custom-evaluator wrapper）在现有的 Strands Agents 流水线中运行。分值下降可直接定位到具体负责的子指标，而故障分类法则能指出需要排查的确切轮次。<br />正确性是 AEM 通过高度可扩展的方法实例化的第一个维度：将质量概念分解为具名子指标，在完整轨迹中评估每一轮，归因故障，并将结果合成为单一指标。本系列的下一篇文章将把相同的方法应用于安全性评估，后续文章还将进一步拓展至多语言与多模态评估领域。<br />如需上手体验，欢迎探索 Strands Agents 示例代码库中的实际案例以及 Strands Agents 评估文档，然后将上文介绍的自定义评估器适配到您自己的对话场景中。若想了解有关本文所使用企业助手的更多信息，请参阅 Amazon Quick Suite。目前采用正确性指标的团队，后续可随业务需求的增长随时添加安全性及其他评估维度。<br />Surafel 是 AWS AI 的应用科学家，其研究领域涵盖大语言模型（LLM）与智能体系统的安全、防御及评估。他目前任职于 Amazon Quick 团队，此前曾为 Amazon Translate 做出贡献，从事定制化翻译和自动配音研究。他在多语言自然语言处理（NLP）领域获得博士学位，重点研究神经翻译、少样本学习及自监督学习。<br />Sina 是 AWS 的应用科学家，主要研究方向为智能体 AI 的评估、推理与对齐。他的工作聚焦于探索如何理解并改进 AI 智能体的行为，构建能力更强、更可靠且更值得信赖的 AI 系统。<br />Sailik 是 AWS 智能体 AI 团队的科学家，专注于大规模检索、LLM 对齐以及解码技术。他作为 IBM 博士学者在亚利桑那州立大学获得博士学位，研究跨越博弈论、自动化规划与网络安全，成果发表于 ACL、ICLR、NeurIPS 和 AAAI 等学术会议。不忙于上线模型时，他通常在徒步小径上漫步，或是沉浸在书海之中。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-09-10 23:55 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#AWS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-line-turnaround-insights-3c63eb554efeb8f5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="7445" data-content-paragraphs="44" data-published-at="2026-09-10T15:53:05.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:53</span>
-</div>
-
-### [AvioBook 如何借助 Amazon Bedrock AgentCore 从运营数据中构建过站洞察](https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore</div>
-
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/04/ML-21410-1.png" alt="AvioBook 如何借助 Amazon Bedrock AgentCore 从运营数据中构建过站洞察" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>本文由泰雷兹集团（Thales Group）旗下子公司 AvioBook 的产品经理 Petra Lafond 与技术主管 Maarten Cardinaels 共同撰写。</p>
-<p>航空公司依靠紧凑且环环相扣的时刻表运行，而获取运营数据是保障这些时刻表平稳执行的关键。在过站周转（turnaround）期间，某一登机口延误几分钟，就可能在全天的联程航班中引发连锁反应。正是在这里——即飞机降落与下一次起飞之间的时间窗口——决定了航空公司的成败。仅在登机口损失的时间，每分钟就会给航空公司带来约 20 美元的成本。燃油消耗、机组费用、登机口使用费、误机联运损失，以及对当天后续时刻表造成的连锁冲击，都进一步加剧了这一成本。对于一家每天运营 200 个航班、且过站时间是航班起飞刚性约束的中型航空公司而言，将平均过站时间缩短 2 分钟，每月就能节省大约 24 万美元。</p>
-<p>泰雷兹集团旗下的 AvioBook 致力于开发飞行与地面运行软件。其通信平台 AvioBook Connect 自 2018 年起便投入航空公司运营，其现行 API 平台于 2025 年推出。飞行机组、客舱乘务员、签派团队以及机场地面保障团队正是通过该平台协同完成过站流程。AvioBook Connect 围绕“航班聊天室”（flightrooms）来组织工作，每个航班对应一个实时聊天频道。在每个聊天室中，平台的 API 会向所有参与人员实时通知机型变更、延误、新飞行计划、登机进度以及航空公司配置的其他各类事件。AvioBook Connect 不仅保留这些自动化消息背后的硬性数据，还记录围绕这些消息展开的软性对话数据。机组消息完全在航空公司自有的数据环境中处理，处于航空公司的完全控制之下。</p>
-<p>捕获这些数据仅仅完成了工作的一半。一个充斥着时间戳事件和沟通消息的航班聊天室本质上仍然只是一个归档库：当有人发起调取请求时它固然有用，但其实用性完全取决于工作人员是否有耐心翻阅数周前的历史记录并手动与延误代码进行比对核查。将这一历史归档库转化为可以在当下即时赋能人员决策的工具，则是另一项截然不同的挑战。</p>
-<p>这正是 AvioBook 构想 Connected Analytics 的出发点。随后，该项目在 Amazon Bedrock AgentCore 上完成了原型开发。Amazon Bedrock AgentCore 是一个智能体（agentic）平台，支持使用任何框架和基础模型，以安全且可扩展的方式构建、部署和运行高效能智能体。该方案构建于 AvioBook Connect 数据之上，旨在让航空公司管理人员和运控中心（OCC）签派员能够使用通俗的自然语言直接提问，而无需亲自翻找历史档案。系统针对这两个角色分别构建了两个智能体来承担深挖数据的重任：提取相关航班事件，将其与航班聊天室中实际记录的内容进行比对，并返回附带支撑证据的直接答案。</p>
-<p>在本文中，我们将阐述 AvioBook Connected Analytics 旨在解决的运营难题，概述 AvioBook 在 AWS 上使用 Amazon Bedrock AgentCore 验证的多智能体概念验证（PoC）架构，并分享 AvioBook Connect 客户将过站数据投入实际应用后已经收获的成果。</p>
-<p>挑战：丰富的数据只有在被动查询时才能提供答案</p>
-<p>AvioBook Connect 将每个航班组织成一个航班聊天室。在其中记录的每一次过站过程都会留下一份持久且带有时间戳的记录，涵盖通过 Connect API 推送的自动化事件（如机型变更、延误、新飞行计划和登机进度），以及运控保障团队围绕这些事件进行的沟通消息。</p>
-<p>然而，收集数据与有效利用数据是两码事，其间的差距主要体现在三个屡见不鲜的痛点中：</p>
-<p>运营过程实际上是个“黑盒”。参与同一次过站保障的各团队之间很少能共享一致、实时的全貌，对同一次延误的描述也往往大相径庭。在后续审计时，记录往往只能依赖口口相传，机组人员不得不努力回忆数周前执飞航班的事件先后顺序。而在严格的审计核查下，机组人员的回忆和纸质记录流程能否经得起推敲，则是航空公司常常难以解答的另一个问题。</p>
-<p>延误代码只能反映部分实情。代码填报往往是在时间压力下由单人完成，而且通常只归因于主导延误原因。即使在允许输入多个代码的情况下，导致主导延误的上游诱因也经常完全没有被编码。一个延误代码即便完全符合填报规则，依然可能无法真实反映实际情况。由于延误代码是内部和外部报告的数据来源，指出某个代码存在错误并不仅是一个分析层面的附注，更关乎航空公司的合规性问题。</p>
-<p>获取答案依赖航空公司可能并不具备的数据团队。超出短期时间窗口的历史数据往往难以直接获取，提出每一个问题都意味着需要执行一次手动查询或数据提取请求。在微薄的利润率下，极少有航空公司能够承受专门设立一支分析团队来从事这项工作的成本。</p>
-<p>在航空公司内部，这类分析工作通常落在具有不同需求的两个特定角色身上：</p>
-<p>航空公司管理人员负责航班正常率（OTP），他们需要了解延误发生的原因、地面流程是否得到依规执行，并在审计询问时给出合理合规的解释。他们处理的是历史数据和长期的规律模式，通常会提出诸如“航班 X 的可能延误源是什么？”、“最常见的非天气延误原因有哪些？”以及“流程 X 的规程是否得到遵守？”等问题。</p>
-<p>运控中心（OCC）签派员则承担着同一个问题在全航网维度上的压力：在某个登机口累积的延误可能会波及一整天的后续联程航班。他们面对的是实时数据，需要即时洞察正在发生的运营中断并理解其对全机队的影响。他们会提出诸如“X 机场的航班延误将对后续航段造成哪些连带影响？”、“当前是否有超过 250 名旅客的航班面临延误风险？”以及“今天执飞的航班中，哪些航班的在险价值（VaR）指数最高？”等问题。</p>
-<p>这两个角色共同需要的，是一个快速、易读、基于证据的解答，同时保留进一步深挖细节的空间，并提供一种验证延误代码是否站得住脚的方法——该方法并非作为武断的自动裁决，而是作为航空公司管理人员能够据以放心采取行动的决策支持。这正是 AvioBook Connected Analytics 旨在填补的空白。</p>
-<p>解决方案：基于 Amazon Bedrock AgentCore 构建的多智能体架构</p>
-<p>AvioBook Connected Analytics 旨在提供两项核心能力：针对运营数据的自然语言交互对话，以及智能体驱动的延误代码验证。该方案并非采用单一的通用助手，而是运行两个针对特定角色的智能体。面向航空公司管理人员的智能体负责历史数据分析与延误代码验证；面向 OCC 签派员的智能体则负责实时运营查询与航班中断影响分析。每个智能体都针对其对应的角色画像限定了工作范围，因此用户仅能与获得其角色授权的智能体进行交互。</p>
-<p>下图展示了 AvioBook Connected Analytics 在 AWS 上的架构，以及从用户发起查询到生成可信落地（grounded）答案的完整流程。</p>
-<p>图 1：AWS 上的 AvioBook Connected Analytics 架构</p>
-<p>Amazon Bedrock AgentCore 提供了托管式基础设施，无需从头构建智能体底层架构即可部署和编排这些智能体。这些智能体运行在 AgentCore runtime 上，这是 Amazon Bedrock AgentCore 的一项功能，为部署 AI 智能体和模型上下文协议（MCP）服务器提供完全托管的计算环境。它们使用 AgentCore memory，该功能赋予 AI 智能体记住以往交互并在多个用户会话间保持对话上下文的能力。工具访问通过 AgentCore Gateway 进行代理，这是 Amazon Bedrock AgentCore 的一项功能，为智能体流量提供单一、安全的入口点。AgentCore Gateway 开放了 MCP 目标端点，使智能体能够以统一、受控的方式调用访问 AvioBook 数据的各类函数。</p>
-<p>AgentCore runtime 配置为使用 JSON Web Token（JWT）进行入站身份验证。在 AvioBook Connect 前端，Amazon API Gateway 被设置为以 AWS Lambda 函数为目标。该 Lambda 函数在请求头中携带有效的 JWT 访问令牌调用运行时，运行时在智能体执行前对其进行验证。该令牌携带用户身份信息，因此每个请求都与特定的航空公司账户和 AWS 区域绑定。这种身份验证与作用域限定本身就值得重点说明。智能体回答的每一个问题都与单一航空公司的身份和数据相绑定，这正是评估此类工具的航空公司安全与 IT 团队所期望看到的。</p>
-<p>以下编号步骤还原了从用户提问到得出答案的全流程路径：<br />1. AvioBook Connect 用户（航空公司经理或 OCC 签派员）使用自然语言提问，请求通过 Amazon API Gateway WebSocket API 传入。<br />2. WebSocket API 中的 Lambda 鉴权函数根据 Amazon Cognito 验证请求的 JWT，Cognito 会为每个请求颁发一个 JWT。<br />3. 经过验证的请求触发一个 AWS Lambda 目标，后者在 AgentCore runtime 上调用相应的智能体。<br />4. 智能体更新 AgentCore memory 中的会话上下文。<br />5. 智能体使用 MCP 协议通过 AgentCore Gateway 调用工具。<br />6. 网关调用由 AWS Lambda 函数实现的对应工具函数。<br />7. 工具函数向 Amazon Athena 发出相关数据查询。<br />8. Amazon Athena 从 AWS Glue Data Catalog 解析表结构架构，并扫描 Amazon Simple Storage Service（Amazon S3）存储桶中按航空公司分区的 Parquet 数据。<br />9. 在后台，AWS Glue 爬网程序和提取、转换与加载（ETL）作业将传入的 JSON 转换为 Amazon S3 中的 Parquet 格式，并在 Glue Data Catalog 中注册架构，确保数据随时可供查询。<br />10. 带有事实依据的答案沿着相同的路径返回给用户，并附带背后的支撑证据。</p>
-<p>延误代码验证复用了相同的数据访问路径。智能体将记录的延误代码与底层事件序列进行比对，并在代码看似不一致或应适用多个代码时指出异常，将其作为供航空公司经理审阅的“第二意见”，而非直接自动修正。由于延误代码直接用于合规性报告，智能体的职责是辅助做出判断，而非代替人类决策。</p>
-<p>设计决策与考量</p>
-<p>决定全力基于 Amazon Bedrock AgentCore 进行构建，是经过一段前期调研后的结果：在确定技术方向之前，AvioBook 评估了智能体编排、会话管理和工具访问方面的各种方案。该调研指出，AgentCore runtime、AgentCore memory 和 AgentCore Gateway 属于全托管积木组件，团队无需自行构建。随后与 AWS 展开为期一周的集中联合开发，团队迅速搭建起多智能体概念验证（PoC），并验证了该方案的可行性：包括系统架构、数据访问模式和智能体设计。如此迅速地验证概念，赋予了 AvioBook 充分的信心，使其能够在无需重构架构的前提下，基于一个可随时扩展新智能体和数据源的底座，面向航空公司客户推进 Connected Analytics 的产品化落地。</p>
-<p>有几项设计选择值得重点提及。针对每种用户角色构建专门的独立智能体，可以保持每个智能体的职责范围狭窄且工具针对性强，这比使用单一通用型助手更容易推导和掌控其行为。通过 AgentCore Gateway 将数据访问暴露为 MCP 工具，实现了智能体与数据层的解耦，因此后续无需对智能体进行重构即可新增工具和数据源。将数据保留在 Amazon S3 中并配合使用 Athena 和 Glue Data Catalog，意味着概念验证可以直接构建在 AvioBook 已在使用的一致 AWS 数据服务之上，而无需重新搭建一套独立的分析技术栈。</p>
-<p>由于智能体的建议将直接影响运营决策，因此从设计之初就融入了负责任的人工智能（Responsible AI）实践，作为引入生产环境的管控措施。每个答案都严格基于智能体检索到的运营数据生成，并且证据与回答一同呈现，以便用户可以追溯到支撑结论的底层事件，而非盲目信任系统输出。智能体的输出被视为航空公司经理或 OCC 签派员的思考起点，而非自动化操作：由人工审阅建议并对运营决策承担最终责任。此外，Connected Analytics 运行在飞机认证适航绑定系统之外：它是一款建议性辅助软件，旨在为决策者提供信息支持，而非自行执行操作。</p>
-<p>成果与商业价值</p>
-<p>AvioBook Connect 的运营成果为 Connected Analytics 奠定了预期的提升基准。仅在一个夏季运营季内，一家欧洲中型航空公司就避免了超过 4,000 小时的延误，其中 124 小时直接归功于减少了 Connect 所替代的电话沟通与人工反复核对。</p>
-<p>Connected Analytics 的目标是进一步扩大这一效益。为签派员提供一个辅助思考过程、而非仅提供更快答案的工具，正是创造额外成本节约的关键所在：针对空中交通流量限制进行改航决策需要对全局态势保持感知，并需要几分钟不受打扰的思考时间，而当人员忙于打电话催促进度更新时，这两者都会极度匮乏。</p>
-<p>以保守且具说明性的基准测算：按每天 200 个航班、登机口延误时间成本每分钟约 20 美元计算，平均过站时间减少两分钟，每月即可带来约 240,000 美元的价值，这与前述预估保持一致。随着流程合规性执行得更加一致，还可进一步缩短 2 到 4 分钟，对同一家航空公司而言每月价值可高达约 495,000 美元，这还不包括更高效应对非正常运行所带来的潜在价值。</p>
-<p>AvioBook Connected Analytics 旨在交付两项核心能力：针对 Connect 运营数据回答自然语言提问，以及对照底层事件验证延误代码。相同的底层架构也为其后续演进铺平了道路。</p>
-<p>AvioBook正在探索的一个领域是主动异常预警。用户无需主动询问以获取洞察，而是可以定义自己关注的条件，例如某个流程耗时过长、某个航站正在形成延误模式，或是某个航班特征需要引起注意；随后智能体（Agent）会监控传入的数据并在出现匹配情况时第一时间予以呈现。这拓展了AvioBook Connected Analytics的作用，使其从单纯回答问题升级为在任何人想到提问之前便主动提出关键问题。由于数据已经可以通过AgentCore Gateway中的模块化工具进行访问，因此告警机制可以直接复用查询智能体所依赖的相同数据层，而无需构建单独的数据管道。</p>
-<p>这种模块化设计还留出了充足空间：随着航空公司将更多过站保障活动接入Connect，系统可以在现有运行成果的基础上，为新的用户角色添加智能体并接入新的数据源。</p>
-<p>过站保障（Turnaround）历来决定着航空公司的航班时刻准点率，但在过去，它一直是航空公司运营中最不透明、最隐蔽的环节之一。AvioBook Connect将事件数据以及围绕事件展开的沟通集中到了一处。而在Amazon Bedrock AgentCore上进行原型设计的Connected Analytics，则旨在将这些数据转化为航空公司管理人员和签派员可以直接查询的内容：到底是什么导致了航班延误、某个流程是否确实耽搁了，以及某座机场的航班中断对整个航线网络意味着什么。</p>
-<p>这一切都不会取代负责过站保障人员的专业判断。AvioBook打造该系统的目的，是为他们提供一个更快、更可靠的决策切入点，并为验证这些判断的价值提供不断积累的证据；在此基础之上，AvioBook目前正进一步拓展其能力，力求在任何人开口发问之前就捕捉到值得采取行动的问题。</p>
-<p>如果您的航空公司希望了解过站保障数据“单一事实来源”（single source of truth）的实际形态，欢迎了解AvioBook Connect或联系AvioBook团队探讨Connected Analytics。</p>
-<p>Amazon Bedrock AgentCore已在多个AWS区域提供。如需查看最新列表，请参阅Amazon Bedrock AgentCore支持的区域。</p>
-<p>如需详细了解如何构建和部署生产就绪型智能体，请访问Amazon Bedrock AgentCore文档和Amazon Bedrock AgentCore服务页面。</p>
-<p>有关代码示例和集成指南，请查看AgentCore示例GitHub代码库。</p>
-<p>Petra是泰雷兹集团（Thales Group）旗下公司AvioBook的产品经理。她负责领导AvioBook Connect——这是一个供航空公司在飞行机组、客舱乘务员、签派和航站地面保障部门之间协调过站流程的飞行与地面运营平台，并推动其演进为用于运营决策的生成式AI层Connected Analytics。她专注于探索生成式AI如何负责任地拓展至航空运营领域，并直接与航空公司运营团队合作，将运营数据转化为工作人员在过站保障期间即可采取行动的切实决策。</p>
-<p>Maarten是泰雷兹集团旗下公司AvioBook的技术主管（Tech Lead）。他拥有十余年软件工程经验，通过将深厚的前端开发专业知识与对产品及团队方向的战略眼光相结合，提供技术领导力和实践经验，指导AvioBook Connect团队构建稳健且面向用户的平台。</p>
-<p>Nizar是AWS高级解决方案架构师，在法国及欧洲、中东和非洲（EMEA）地区与客户展开合作，助力其IT架构现代化，并将新兴技术转化为业务成果。他尤其热衷于生成式AI和安全领域，致力于帮助各类机构以安全且负责任的方式重构现有产品并构建新业务。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-09-10 23:53 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#AWS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-duced-play-movie-history-286b9039ee8af92c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4077" data-content-paragraphs="8" data-published-at="2026-09-10T15:52:02.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:52</span>
-</div>
-
-### [《卡萨布兰卡》：一部未上演的戏剧如何迈入影史殿堂](https://www.thecollector.com/casablanca-unproduced-play-movie-history/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Casablanca: How An Unproduced Play Marched into Movie History</div>
-
-<div class="article-body" data-article-body="true"><p>在好莱坞所有深受喜爱的经典影片中，华纳兄弟影业感人至深的战时热门影片《卡萨布兰卡》（Casablanca）在影迷心中或许稳居榜首。<br />发布时间：2026年9月9日，作者：汤姆·德拉帕（Thom Delapa，电影研究硕士、社会科学硕士、人文艺术学士）<br />发布时间：2026年9月9日，作者：汤姆·德拉帕（Thom Delapa，电影研究硕士、社会科学硕士、人文艺术学士）<br />即使是那些从未看过这部由亨弗莱·鲍嘉和英格丽·褒曼主演的1942年奥斯卡获奖影片的观众，也曾从银幕内外的无数恶搞、梗图和致敬作品中听过它的经典台词。因此，下一次当你听到“抓捕那些常见嫌疑人”（Round up the usual suspects）、“世界上有那么多城镇，城镇里有那么多酒馆，她却偏偏走进了我这一家”（Of all the gin joints in all the towns in all the world, she walks into mine），或者无数衍生版的“我非常震惊，竟然发现这里正在发生[填空]！”时，你必须记住这一点：它们全部出自《卡萨布兰卡》。<br />在制作和上映时机的把握上，华纳兄弟可谓挖到了金矿——不仅仅是奥斯卡小金人的镀金那么简单。由默里·伯内特和琼·艾莉森合写的1940年戏剧剧本《人人都去里克酒馆》（Everybody Comes to Rick’s），在1941年12月7日日军偷袭珍珠港后立即被该电影制片厂抢购。次日，富兰克林·D·罗斯福总统请求对日宣战并获批准，几天之内，美国又对日本的欧洲“轴心国”盟友德国和意大利宣战。<br />在珍珠港事件之前，美国对欧洲早已肆虐的战火在表面上保持中立。然而，随着美国果断介入欧洲和太平洋两大战场，华纳兄弟迅速行动起来，启用了一位43岁的配角演员——他曾在该制片厂赖以生存的1930年代黑帮片中饰演反派而声名鹊起。亨弗莱·鲍嘉不仅担任了《卡萨布兰卡》的主演，其极具统摄力的精湛演技还为他赢得了一份一流的全新合同，使其一跃成为好莱坞片酬最高的男演员。<br />华纳兄弟不仅在1942至1943年的奥斯卡金像奖上大获全胜（斩获包括最佳影片在内的三项大奖），在票房上也满载而归。该片于1942年夏季投入制作，令人惊叹的是，它于11月下旬在纽约市的首映时间，几乎恰好赶上美军（由乔治·S·巴顿将军率领）在人数处于劣势的法国“维希”军队同意停火后开进卡萨布兰卡。随着德国在1940年通过闪电战击溃法国，巴黎及半个法国沦入纳粹的直接控制之下，而愿意与纳粹占领军合作的法国官员则统治着另一半领土。后者包括法国在北非的殖民地，包括摩洛哥。战后，数百名维希政权官员因叛国罪被处决。<br />当然，尽管该片包含反映暗淡战争背景的现实主义“大格局”要素，但它本质上仍是一部大众娱乐片，无论它对1943年的观众还是现代观众而言多么扣人心弦。一支庞大的编剧队伍对原著戏剧进行了改编和打磨，领衔的正是爱泼斯坦兄弟（朱利叶斯和菲利普），以及更具政治意识的霍华德·科克。这种“流水线式”编剧模式（多位编剧相继打磨不同草稿）在经典好莱坞时期是标准操作，而在本片中尤为显著，因为编剧们在制作期间几乎每天都在修改剧本。一个鲜为人知的轶事是，剧本的频繁改写甚至导致联合主演英格丽·褒曼直到最后结局实际拍摄时，都不确定自己在情感上最终会选择哪一个男人。<br />在战争背景的衬托下，《卡萨布兰卡》的情节构筑起一个三方的情感战场。一方是鲍嘉饰演的里克·布莱恩，一个心灰意冷的美国流亡者，他逃到这座港口城市开设了一家时髦的酒吧兼夜总会。离开故土瑞典、刚刚步入好莱坞成名初期的褒曼则饰演伊尔莎，她是里克的旧情人，与丈夫维克多（保罗·亨雷德饰）一同抵达卡萨布兰卡，维克多是一位因反抗纳粹而四处逃亡的坚定抵抗运动领袖。此时便引出了里克那句历经沧桑的感慨：在“全世界所有的酒馆中”，偏偏在一个夜晚，伊尔莎优雅地踏进了他的这一家。站在局外带着嘲弄目光审视一切的则是雷诺上尉（克劳德·雷恩斯饰），这位好色且极易被收买的维希长官专挑落难的年轻女性下手。至于片中的纳粹反派，康拉德·维德饰演的斯特拉瑟少校飞抵此地，以一种出众的险恶威慑力扮演着这一角色。<br />在浪漫与阴谋交织的黑白光影之下，几乎从第一场戏开始，编剧和导演迈克尔·柯蒂兹就为故事备足了戏剧冲突的筹码，以牢牢吸引观众的注意力。情节始于一名走私犯带着两份偷来的“通行许可证”进入里克咖啡馆，持有者可以凭此安全离开卡萨布兰卡前往里斯本，进而有望奔向美国或英国重获自由。一向沉着冷静、擅长下棋且极具男子气概的里克将这些信件藏在酒吧的立式钢琴里。如今，“被牢牢抓住的”观众至少面临两个关键疑问去揣摩猜想：究竟谁会最终拿到这些珍贵的名额飞离卡萨布兰卡？会是维克多和伊尔莎，还是里克和伊尔莎，抑或是其他幸运的一对？<br />除了著名的最终离别场景（拍摄于洛杉矶的范奈斯机场）之外，整部影片的拍摄均在邻近伯班克占地广阔的华纳兄弟片场的摄影棚内完成。但对于全球无数影迷而言，《卡萨布兰卡》最难忘的时刻莫过于某天傍晚在里克酒吧唱响法国《马赛曲》的情节。当时，一群德国军官喧闹地唱起《守卫莱茵河》（Die Wacht am Rhein）——一首带有反法色彩的爱国饮酒歌，冲突一触即发。<br />面对挑衅，欧洲移民和流亡者们站起身来唱起法国国歌，展开了一场手无寸铁却掷地有声的抗争，迅速压倒了人数居劣势、顿时气焰全无的德国人。这是一个绝美而超凡脱俗的银幕顿悟时刻，也是好莱坞历史上最伟大的瞬间之一，更见证了电影以深厚集体情感感染并激励人心的力量。细心的观察者还会注意到，这一响亮的反法西斯回击得到了里克的默许，正是他微微点头，授意乐队奏乐伴奏。<br />这一场景在多重层面上都至关重要，尤其是它标志着里克自身对战争立场的彻底转变。该片的时代敏锐度与绝妙之处在于：里克在很大程度上就是二战前夕美国自身的寓言式化身。他多次重申自己的“中立”，以及冷漠、自私的生存哲学。“我不为任何人冒险”以及“我唯一关心的事业就是我自己”，他如此宣称。至于自己的国籍，他则讥讽地声称自己是个“酒鬼”。</p>
-<p>在他坚忍的孤僻与冷漠之下，隐藏着一颗破碎的心——那是前一年在巴黎作为恋人时，被伊尔莎（Ilsa）撕得粉碎的伤痛。因此，当里克借酒浇愁、陷入昏醉时，他的得力助手兼钢琴师萨姆（杜利·威尔逊饰）弹奏起那首令人难以磨灭的主题曲《时光流逝》（伴随着那句常被引用的歌词“你必须记住这一点”），一段揭示真相的闪回镜头缓缓淡入。歌曲在全剧中具有至关重要的作用，不仅唤起了个人的回忆（无论美好与悲伤），也激起了民族主义的乡愁与渴望。顺便提一句，尽管一些现代观众可能会贬低萨姆作为非裔美国人“跟班”的次要角色，但他与里克之间亲密无间、毫不设防的友谊，在历史上是极不寻常且具进步意义的。</p>
-<p>更深一步来看，里克美式咖啡馆本身所折射出的象征复杂性也同样引人入胜。这里绝不仅仅是一个各色流亡者寻求避难的“杜松子酒小酒馆”；它是一个同心圆式的微观世界，可以被视为华纳兄弟影业片场、好莱坞本身，以及最终扩展至整个美国。到了20世纪30年代中期，随着纳粹主义的蔓延，大量欧洲艺术人才（尤其是犹太裔艺术家）逃离母国，移居美国。很自然地，许多电影业人士聚集在洛杉矶地区，以寻求在好莱坞工作的机会。</p>
-<p>诸如德国的弗里茨·朗和比利·怀尔德等大牌导演都属于这一浪潮，此外还有打破传统的马克思主义剧作家贝尔托·布莱希特。在里克的咖啡馆里滞留的居民中，你还能发现其他流亡者的名字，包括朗在1931年的伟大犯罪惊悚片《M就是凶手》中的主演彼得·洛。在1942至1943年《卡萨布兰卡》上映期间，美国作为世界自由、平等与希望灯塔的全球形象或许从未如此耀眼，对那些未来的移民而言尤其如此。正如里克一样，今天许多社会观察家在回望那个时代时，心中只能泛起一阵令人心痛的乡愁宿醉。</p>
-<p>既然里克是无可争议的主角，那么他是如何以及为何从一个愤世嫉俗、摇摆不定的局外人，转变为积极的参与者和战斗人员，正如二战中的美国一样？答案就藏在巴黎的那段闪回中，以及随后在里克酒吧楼上公寓里展开的一段“续集”。在巴黎，正当德国军队开进城之际，伊尔莎突然弃里克而去，只留下一封神秘莫测的告别信。在抵达卡萨布兰卡、激起里克的愤怒与怨恨之后，她在某天夜里不期而至，要求他交出通行证，以便她和维克多能够逃脱。她告诉里克，维克多领导反抗纳粹的斗争必须继续下去，而且他必须在被捕前赶到里斯本。</p>
-<p>然而，随着夜色渐深进入凌晨，她在情绪崩溃之余，里克终于（几乎是字面意义上地）恍然大悟她离开自己的真正原因。由此，他不仅理解了她的苦衷，也明白了她那封令人震惊的“绝交信”并不意味着她不再爱他——恰恰相反。从那一刻起，即便剧情未曾明言且在审查制度下避而不谈，1943年的成年观众大概也能猜到接下来发生了什么。当他们倾心交谈结束并拥抱在一起之后，画面通过“叠化”（一个镜头叠加到下一个镜头）暗示了一段时间的流逝。在下一个镜头中，放松下来的伊尔莎出现在里克的沙发上，而里克正在抽烟——这是老好莱坞用来暗示激情余温已过的缥缈而经典的标志手法。</p>
-<p>随着剧情推进至机场那场标志性的最后场景，里克在摊牌前竭尽全力虚张声势，同时将斯特拉瑟和雷诺牵制住，直至最后亮出自己的立场。但这究竟是一份爱的宣言，还是一份战的宣言？抑或是他会选择按兵不动？你必须记住这一点：《卡萨布兰卡》那句著名的最后台词终究是：“这可能是一段美好友谊的开始。”</p>
-<p>托姆（Thom）是一名电影/媒体研究教育工作者、影评人兼业余剧作家，现居美国密歇根州安娜堡，曾在密歇根大学和底特律创意设计学院任教。他拥有纽约大学帝势艺术学院电影研究硕士学位以及芝加哥大学社会科学硕士学位。他曾在包括科罗拉多大学博尔德分校和丹佛大学在内的美国其他顶尖学府开发并讲授电影课程。他曾为《电影人》（Cineaste）杂志、《芝加哥论坛报》、AlterNet和The Conversation等撰写电影评论。他正以乐观的态度期待着（我们所熟知的）互联网的终结。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 23:52 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.thecollector.com/casablanca-unproduced-play-movie-history/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-docs-listeners-dtls-html-bdb9f0e48e95241d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2097" data-content-paragraphs="19" data-published-at="2026-09-10T15:50:30.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 23:50</span>
-</div>
-
-### [要闻：功能 | 定价 | 文档 | 联系我们 | 博客 | 关于](https://proxylity.com/docs/listeners/dtls.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Serverless DTLS</div>
-
-<div class="article-body" data-article-body="true"><p>功能 | 定价 | 文档 | 联系我们 | 博客 | 关于</p>
-<p>DTLS 侦听器（DTLS Listeners）在不改变数据报传输模型的前提下，为 UDP 应用程序添加了类似 TLS 的加密与身份验证功能。客户端与侦听器分配的域名及端口建立 DTLS 1.2 或 DTLS 1.3 会话。Proxylity 会解密经过身份验证的应用数据，并将明文有效载荷投递到您配置的目标端（Destinations）。来自您应用程序的响应会被加密，并通过同一个 DTLS 会话回传。</p>
-<p>当您的应用程序已支持 DTLS，或需要在保留数据报边界的同时进行加密 UDP 传输时，请选择 DTLS 侦听器。常见用例包括 RADIUS、物联网（IoT）协议、实时遥测，以及无法使用面向流的 TLS 连接的自定义请求-响应协议。</p>
-<p>DTLS 也是 Proxylity 迈向 WebRTC 数据通道（WebRTC Data Channels）路线图中的首个传输层。DTLS 侦听器目前已可供原生 DTLS 客户端使用；SCTP 和 WebRTC 信令属于独立的分层，不通过 DTLS 侦听器提供。</p>
-<p>每个 DTLS 侦听器都会获得由 Proxylity 托管的服务器证书和私钥。该证书用于标识侦听器所分配的端点，并通过 DtlsServerCertificate 这一 CloudFormation 属性返回。请根据您客户端应用程序的信任模型分发该证书或其信任锚点。</p>
-<p>当您需要 CloudFormation 生成新的侦听器证书时，请修改 CertRefreshToken。证书轮换会更改客户端看到的证书，因此在轮换生产端点之前，请协调好信任链更新。</p>
-<p>对于使用 DTLS-PSK 的客户端，请配置 Psks 映射。映射中的每个键为握手期间发送的客户端身份标识，每个值则是对应的 Base64 编码密钥。请将 PSK 值存储在 AWS Secrets Manager 或其他受保护的数据源中，而不是直接提交到模板中。</p>
-<p>DTLS 1.3 客户端在完成握手后会收到一个加密的会话票证（session ticket）。客户端可在后续连接中出示该票证，以便通过更少的握手消息恢复会话。票证加密密钥按每个侦听器独立管理，且不会通过 CloudFormation 暴露。</p>
-<p>将 AllowEarlyData 设置为 &quot;true&quot;，可允许恢复会话的 DTLS 1.3 客户端在其首轮报文（first flight）中发送应用数据。早期数据（Early data）能降低延迟，但即便 Proxylity 应用了共享防重放过滤器，应用程序也必须将其视为可能被重放的数据。请仅在遥测更新等幂等操作中启用该功能；切勿将 0-RTT 用于单次命令、金融操作或其他无法安全重复的操作。</p>
-<p>EarlyDataWindowSeconds 用于控制票证有效期和防重放过滤窗口。其默认值为 3600 秒，取值范围为 1 至 604800 秒（7 天）。DTLS 1.2 客户端不使用会话票证或 0-RTT。</p>
-<p>支持连接标识符（Connection ID, CID）的 DTLS 1.2 客户端能够独立于客户端的 IP 地址和 UDP 端口来识别已建立的会话。这使得会话能够在发生 NAT 重新绑定、源端口变动以及接入网络切换时继续维持，无需重新执行握手。</p>
-<p>CID 对低功耗物联网（IoT）设备尤为重要。在设备唤醒、切换网络或收到新的 NAT 映射后，复用既有会话可避免额外的射频发射时间、密码学计算开销和握手延迟。未协商 CID 的客户端将继续使用由其网络端点标识的标准 DTLS 1.2 会话。</p>
-<p>客户端的 DTLS 实现必须支持 CID 并在握手期间完成协商。openssl s_client 等基础连通性工具可能无法协商 DTLS 1.2 CID。</p>
-<p>使用 Custom::ProxylityUdpGatewayListener 创建 DTLS 侦听器，并将 Protocols 设置为 dtls。同一个侦听器上不能将 DTLS 与 UDP 或 WireGuard 混合使用。</p>
-<p>有关完整的资源定义和返回值，请参阅《侦听器 CloudFormation 参考手册》（Listener CloudFormation Reference）。</p>
-<p>在会话票证支持上线之前创建的 DTLS 侦听器，必须先进行一次 CloudFormation 堆栈更新，然后才能签发恢复票证。</p>
-<p>OpenSSL 可用于验证基于证书的 DTLS 1.2 连通性：</p>
-<p>握手成功后将显示侦听器证书及协商的加密套件。握手完成后，应用协议仍需发送有效的有效载荷；仅完成 OpenSSL 连接本身并不能测试您的目标端（Destination）。</p>
-<p>公开的无服务器 RADIUS 示例可通过 UDP、WireGuard 或 DTLS 部署认证传输。该示例展示了相同的 AWS 应用后端如何在无需运维 RADIUS 服务器主机的情况下，通过 DTLS 侦听器接收加密的 RADIUS 流量。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 23:50 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://proxylity.com/docs/listeners/dtls.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

@@ -22,14 +22,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **19** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **20** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-11 00:15 (UTC+8)
+- **最新归档时间**：2026-09-11 03:53 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-11 03:53 (UTC+8)" title="全球要闻情报简报 · 03:53" org="ARCHIVE"}
+**速报纪要：** 本小时多国动态聚焦应急服务、全球气候与教育危机、司法审判进展及基础科学实验。UNICEF报告显示2025年逾1.71亿学生学业受气候灾害冲击；法国消防员因资金匮乏发起罢工；另有前沿原子导航技术与地方司法案件引发关注。
+
+**重点要闻索引：**
+- [FOX News Latest (美国FOX快讯)] [林赛·克兰西案流审数日后，另一名被控杀害子女的马萨诸塞州母亲寻求重获自由](https://www.foxnews.com/us/days-after-lindsay-clancy-mistrial-another-massachusetts-mom-accused-killing-her-children-seeks-freedom) <span class="news-meta-time">🕒 2026-09-11 03:43</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat) <span class="news-meta-time">🕒 2026-09-11 03:03</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-11 03:38</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/) <span class="news-meta-time">🕒 2026-09-11 02:21</span>
+- [Phys.org (基础物理与技术前沿)] [2025年气候灾害导致全球逾1.71亿学生学业受阻](https://phys.org/news/2026-09-climate-hazards-disrupted-schooling-million.html) <span class="news-meta-time">🕒 2026-09-11 03:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/izrail-2116926099.html) <span class="news-meta-time">🕒 2026-09-11 03:42</span>
+:::
 :::timeline-item{start="2026-09-11 00:15 (UTC+8)" title="全球要闻情报简报 · 00:15" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-11 00:12 (UTC+8) 完成，共获得 791 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
