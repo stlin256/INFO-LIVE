@@ -21,14 +21,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **11** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **12** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 09:40 (UTC+8)
+- **最新归档时间**：2026-09-10 10:09 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 10:09 (UTC+8)" title="全球要闻情报简报 · 10:09" org="ARCHIVE"}
+**速报纪要：** 全球多源监控全景简报。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [При пожаре на судне у Филиппин погибли пять человек, передают СМИ](https://ria.ru/20260910/filippiny-2116711937.html) <span class="news-meta-time">🕒 2026-09-10 09:51</span>
+- [Hacker News (科技前沿论坛)] [I'm sorry, you're not going to die from an AI-engineered supervirus](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from) <span class="news-meta-time">🕒 2026-09-10 09:02</span>
+- [CNBC Markets (CNBC 市场官方英文)] [蚂蚁国际与Visa、万事达卡合作开发人工智能支付](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) <span class="news-meta-time">🕒 2026-09-10 09:53</span>
+- [The Guardian Society (卫报社会与民生)] [UK chancellor urged to remove £100k childcare ‘cliff edge’ prompting parents to cut work hours](https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours) <span class="news-meta-time">🕒 2026-09-10 07:01</span>
+- [Phys.org (基础物理与技术前沿)] [运气还是功绩？并非所有不平等都同样可接受](https://phys.org/news/2026-09-luck-merit-inequality-equally.html) <span class="news-meta-time">🕒 2026-09-10 09:40</span>
+- [Deutsche Welle (EN 官方英语)] [Philippines: Several killed, dozens missing after fire on ferry](https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236) <span class="news-meta-time">🕒 2026-09-10 09:48</span>
+:::
 :::timeline-item{start="2026-09-10 09:40 (UTC+8)" title="全球要闻情报简报 · 09:40" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-10 09:31 (UTC+8) 完成，共获得 774 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
