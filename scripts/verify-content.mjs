@@ -21,6 +21,12 @@ function deploymentBasePrefix() {
   return String(configured || '').replace(/\/+$/, '');
 }
 
+const UNSAFE_HEADLINE_PLACEHOLDERS = [
+  '外文信源标题正在进行中文翻译',
+  '外文标题正在进行中文翻译',
+  '外文标题尚未完成中文翻译',
+];
+
 const GENERIC_PLACEHOLDERS = [
   '关键决策主体已围绕核心诉求采取了实质性动作',
   '不同立场的报道选词与叙事重心的鲜明反差',
@@ -70,6 +76,17 @@ function describeCard(card, route) {
   };
 }
 
+function foreignScriptTokens(text) {
+  return String(text || '').match(/[\u0400-\u04ff\u0600-\u06ff\u0370-\u03ff]+/gu) || [];
+}
+
+function visibleForeignScriptTokens(doc) {
+  const root = (doc.querySelector('main') || doc.body)?.cloneNode(true);
+  if (!root) return [];
+  root.querySelectorAll('script, style, noscript, template, .original-title-sub, .wire-card-orig').forEach((node) => node.remove());
+  return foreignScriptTokens(root.textContent || '');
+}
+
 function pageText(doc) {
   const root = (doc.querySelector('main') || doc.body)?.cloneNode(true);
   if (!root) return '';
@@ -114,6 +131,9 @@ export function inspectHtml(html, route = 'index.html', { strictHome = route ===
     for (const phrase of GENERIC_PLACEHOLDERS) {
       if (item.body.includes(phrase)) issues.push(route + ': 检测到模板化伪正文：' + item.title + ' | phrase=' + phrase);
     }
+    if (strictAll && UNSAFE_HEADLINE_PLACEHOLDERS.some((phrase) => item.title.includes(phrase))) {
+      issues.push(route + ': 外文文章标题使用了翻译占位文案：' + item.title);
+    }
     if (strictAll && item.sourceLang && item.sourceLang !== 'zh' && chineseCharacterCount(item.title) < 2) {
       issues.push(route + ': 外文文章标题没有中文翻译：' + item.title);
     }
@@ -127,6 +147,8 @@ export function inspectHtml(html, route = 'index.html', { strictHome = route ===
       issues.push(route + ': 短正文卡片仍宣称全篇/深度编译：' + item.title);
     }
   }
+  const foreignTokens = visibleForeignScriptTokens(doc);
+  if (foreignTokens.length) issues.push(route + ': 用户可读区域存在未隐藏的外文脚本：' + [...new Set(foreignTokens)].slice(0, 8).join(', '));
   for (const link of doc.querySelectorAll('a[href^="#"]')) {
     const target = link.getAttribute('href')?.slice(1) || '';
     if (target && target !== 'footnote-label' && !doc.getElementById(target)) issues.push(route + ': 内部跳转目标不存在：#' + target);

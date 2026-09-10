@@ -50,6 +50,15 @@ describe('部署内容质量门禁', () => {
     expect(report.issues.some((issue) => issue.includes('疑似未翻译'))).toBe(true);
   });
 
+  it('rejects untranslated headline placeholders and visible Cyrillic outside original-title provenance', () => {
+    const placeholder = card().replace('标题', '外文信源标题正在进行中文翻译，暂不展示未翻译标题');
+    expect(inspectHtml('<html><body>' + Array.from({ length: 8 }, () => placeholder).join('') + '</body></html>', 'index.html', { strictHome: true, strictAll: true }).issues.join(' ')).toMatch(/翻译占位/);
+    const leakedSignal = '<html><body><main><p>Рютте после поражения</p></main></body></html>';
+    expect(inspectHtml(leakedSignal, 'archive/index.html', { strictHome: false, strictAll: false }).issues.join(' ')).toMatch(/外文脚本/);
+    const allowedOriginal = '<html><body><main><div class="original-title-sub">Рютте после поражения</div></main></body></html>';
+    expect(inspectHtml(allowedOriginal, 'archive/index.html', { strictHome: false, strictAll: false }).issues.join(' ')).not.toMatch(/外文脚本/);
+  });
+
   it('rejects translated cards that still contain truncation or read-full placeholders', () => {
     const html = '<html><body>' + Array.from({ length: 8 }, (_, index) => card('full', 'full', `<p>中文正文包含足够事实细节与背景信息。${'补充内容。'.repeat(40)}</p><p>${index === 0 ? '请前往官方页面阅读完整报道。' : '后续影响与各方回应。'}</p>`)).join('') + '</body></html>';
     const report = inspectHtml(html, 'index.html', { strictAll: true });
