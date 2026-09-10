@@ -1,6 +1,6 @@
 # GitHub Actions 工作流细节（细化项 #8）
 
-> 状态：✅ 已实现（2026-08-23，2026-08-27 更新支持示例部署模式，2026-08-30 增加图片优化元数据缓存）——见 `.github/workflows/deploy.yml`。总体策略见 design.md 第 8 节。
+> 状态：✅ 已实现（2026-08-23，2026-08-27 更新支持示例部署模式，2026-08-30 增加图片优化元数据缓存）——见 `.github/workflows/hourly-feed.yml`。总体策略见 design.md 第 8 节。
 
 ## 1. 触发条件
 
@@ -9,11 +9,12 @@ on:
   push:
     branches: [main, master] # 代码变更触发
   schedule:
-    - cron: '30 */8 * * *'  # 每 8 小时的半点（00:30 / 08:30 / 16:30 UTC）
+    - cron: '17 * * * *'  # 每小时 :17 UTC（主调度）
+    - cron: '47 * * * *'  # 每小时 :47 UTC（漏调度兜底）
   workflow_dispatch:        # 手动触发
 ```
 
-> **修改频率/基准时间的方法**：GitHub Actions 的 schedule 只能是 workflow 文件里的字面 cron，无法从 secret/variable 注入。要改频率或基准时间，直接编辑 `.github/workflows/deploy.yml` 中这一行 cron（编辑器可提供一个快捷入口帮你算好表达式并打开该文件）。注意 GitHub 对定时任务有排队延迟（高峰期可能晚几分钟到几十分钟），且长间隔建议 ≥ 1 小时。
+> **修改频率/基准时间的方法**：GitHub Actions 的 schedule 只能是 workflow 文件里的字面 cron，无法从 secret/variable 注入。要改频率或基准时间，直接编辑 `.github/workflows/hourly-feed.yml` 中的 cron 行（编辑器可提供一个快捷入口帮你算好表达式并打开该文件）。注意 GitHub 对定时任务有排队延迟（高峰期可能晚几分钟到几十分钟），且长间隔建议 ≥ 1 小时。
 
 ## 2. Job 步骤
 
@@ -88,5 +89,5 @@ steps:
 
 ## 4. 已定细节
 
-- ✅ 定时：每 8 小时半点（`30 */8 * * *`）；改频率/基准时间 = 编辑 workflow 里的 cron 行（见上方说明）。
+- ✅ 定时：每小时运行两次调度尝试（`:17` 主调度、`:47` 兜底），同一 UTC 小时只执行一次实际采集；改频率/基准时间 = 编辑 `.github/workflows/hourly-feed.yml` 的 cron 行（见上方说明）。
 - ✅ 快照包含编辑器的 `.snapshots/` 版本历史，线上产物可找回误删内容。

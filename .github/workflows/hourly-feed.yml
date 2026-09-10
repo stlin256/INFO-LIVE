@@ -2,14 +2,19 @@ name: Hourly InfoLive Feed & Deploy
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Runs every hour on the hour
+    # Two offsets provide a fallback if GitHub delays or drops one scheduled event.
+    - cron: '17 * * * *'  # Primary: every hour at :17 UTC
+    - cron: '47 * * * *'  # Fallback: same hour at :47 UTC
   workflow_dispatch:      # Allows manual trigger at any time
   push:
     branches: [master, main]
+    # Feed persistence commits touch data/; do not let output commits compete
+    # with the hourly schedule. Code/config pushes still deploy immediately.
     paths-ignore:
       - 'README.md'
       - 'README.zh-CN.md'
       - 'docs/**'
+      - 'data/**'
 
 permissions:
   actions: read
@@ -21,12 +26,12 @@ concurrency:
 
 jobs:
   dedupe:
-    name: Skip duplicate scheduled run
+    name: Skip duplicate run in the same UTC hour
     runs-on: ubuntu-latest
     outputs:
       should_run: ${{ steps.check.outputs.should_run }}
     steps:
-      - name: Check whether this commit was already processed
+      - name: Check whether this commit was already processed this hour
         id: check
         env:
           GH_TOKEN: ${{ github.token }}
@@ -35,15 +40,30 @@ jobs:
           CURRENT_RUN_ID: ${{ github.run_id }}
           EVENT_NAME: ${{ github.event_name }}
         run: |
+          # Pushes and manual runs are intentional; only the two scheduled
+          # offsets need same-hour deduplication. The old check looked for any
+          # historical success on this commit, so an unchanged commit prevented
+          # every later hourly run.
           if [[ "$EVENT_NAME" != "schedule" ]]; then
             echo "should_run=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          active_count=$(gh run list --repo "$REPOSITORY" --workflow hourly-feed.yml --commit "$COMMIT_SHA" --json databaseId,status --limit 20 --jq '[.[] | select((.databaseId | tostring) != env.CURRENT_RUN_ID) | select(.status == "queued" or .status == "in_progress")] | length')
-          success_count=$(gh run list --repo "$REPOSITORY" --workflow hourly-feed.yml --commit "$COMMIT_SHA" --json databaseId,conclusion --limit 20 --jq '[.[] | select((.databaseId | tostring) != env.CURRENT_RUN_ID) | select(.conclusion == "success")] | length')
-          if (( active_count > 0 || success_count > 0 )); then
+
+          current_hour=$(date -u +"%Y-%m-%dT%H")
+          same_hour_count=$(gh run list \
+            --repo "$REPOSITORY" \
+            --workflow hourly-feed.yml \
+            --commit "$COMMIT_SHA" \
+            --json databaseId,status,conclusion,createdAt \
+            --limit 50 \
+            | jq --arg current_run_id "$CURRENT_RUN_ID" --arg current_hour "$current_hour" '[.[]
+              | select((.databaseId | tostring) != $current_run_id)
+              | select(.createdAt | startswith($current_hour))
+              | select(.status == "queued" or .status == "in_progress" or .conclusion == "success")
+            ] | length')
+          if (( same_hour_count > 0 )); then
             echo "should_run=false" >> "$GITHUB_OUTPUT"
-            echo "A scheduled run for $COMMIT_SHA is already active or succeeded; skipping duplicate work."
+            echo "A scheduled run for $COMMIT_SHA already exists this UTC hour; skipping the fallback offset."
           else
             echo "should_run=true" >> "$GITHUB_OUTPUT"
           fi
@@ -52,6 +72,7 @@ jobs:
     needs: dedupe
     if: needs.dedupe.outputs.should_run == 'true'
     runs-on: ubuntu-latest
+    timeout-minutes: 55
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
