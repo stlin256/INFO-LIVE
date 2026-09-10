@@ -80,6 +80,20 @@ describe('新闻叙事可视化组件', () => {
     expect(html).toContain('--impact-score:100%');
   });
 
+  it('uses masonry columns for news cards so short cards do not inherit a tall row', async () => {
+    const css = await readFile(new URL('../src/styles/home-blocks.css', import.meta.url), 'utf8');
+    const newsDesk = css.slice(css.indexOf('/* Core article desk:'));
+    const newsSection = newsDesk.slice(0, newsDesk.indexOf('/* Briefing stream:'));
+
+    expect(newsSection).toContain('display: block');
+    expect(newsSection).toContain('column-count: 3');
+    expect(newsSection).toContain('break-inside: avoid');
+    expect(newsSection).toContain('height: fit-content');
+    expect(newsSection).not.toContain('grid-row: span 2');
+    expect(css).toContain('@media (max-width: 900px)');
+    expect(css).toContain('column-count: 2');
+    expect(css).toContain('column-count: 1');
+  });
   it('keeps the responsive motion contract explicit in CSS', async () => {
     const css = await readFile(new URL('../src/styles/markdown-body.css', import.meta.url), 'utf8');
     expect(css).toContain('@media (max-width: 900px)');
