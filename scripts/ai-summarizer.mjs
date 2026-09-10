@@ -20,6 +20,13 @@ function hasChineseTitle(text) {
   return chineseCharacterCount(text) >= 2;
 }
 
+function deriveChineseTitleFromTranslation(text) {
+  const firstParagraph = String(text || '').split(/\n\s*\n/).map((part) => part.trim()).find(Boolean) || '';
+  const firstSentence = firstParagraph.split(/[。！？!?；;\n]/).map((part) => part.trim()).find((part) => chineseCharacterCount(part) >= 8) || firstParagraph;
+  const compact = firstSentence.replace(/^【[^】]+】[:：]?\s*/, '').trim().slice(0, 56);
+  return chineseCharacterCount(compact) >= 8 ? '要闻：' + compact : '';
+}
+
 function isChineseNarrative(text, minimum = 2) {
   return chineseCharacterCount(text) >= minimum;
 }
@@ -481,7 +488,7 @@ function createArticleAgentTasks(stories, runId, apiConfig, roles = ['fact-extra
               // A translation may be shorter than the source, but it must not
               // collapse an article into a one-line synopsis. Use a proportional
               // floor plus a hard floor for both whole articles and chunks.
-              const proportionalFloor = Math.ceil(sourceLength * (chunkCount > 1 ? 0.28 : 0.42));
+              const proportionalFloor = Math.ceil(sourceLength * (chunkCount > 1 ? 0.22 : 0.35));
               const minTranslationChars = Math.max(chunkCount > 1 ? 80 : 240, proportionalFloor);
               const looksLikeSummary = /(?:阅读|查看|参见|请前往).{0,24}(?:全文|原文|完整报道)|(?:以下|这篇文章)\s*(?:是|为)?\s*(?:摘要|概述)/i.test(translated)
                 || isLikelyTruncatedBody(translated);
@@ -743,14 +750,17 @@ export async function summarizeWithAI(items) {
     if (translatedChunks.length > 0 && translatedChunks.every((chunk) => chunk?.fullTranslation)) {
       const first = translatedChunks[0];
       const candidateTitle = String(first.translatedTitle || '').trim();
-      const translatedTitle = hasChineseTitle(candidateTitle) ? candidateTitle : translateForeignTitle(story.originalTitle, story.sourceLang || 'en');
-      const titleIsReadable = hasChineseTitle(translatedTitle);
       const candidateOriginalTitle = String(first.originalTitle || '').trim();
       const mergedTranslation = translatedChunks.map((chunk) => String(chunk.fullTranslation).trim()).join('\n\n');
+      const deterministicTitle = translateForeignTitle(story.originalTitle, story.sourceLang || 'en');
+      const translatedTitle = hasChineseTitle(candidateTitle)
+        ? candidateTitle
+        : (hasChineseTitle(deterministicTitle) ? deterministicTitle : deriveChineseTitleFromTranslation(mergedTranslation));
+      const titleIsReadable = hasChineseTitle(translatedTitle);
       const sourceLength = String(story.fullContent || story.snippet || '').trim().length;
       const mergedParagraphs = countContentParagraphs(mergedTranslation);
-      const completeEnough = mergedTranslation.length >= Math.max(240, Math.ceil(sourceLength * 0.42))
-        && mergedParagraphs >= Math.max(1, Number(story.contentParagraphs || 1))
+      const completeEnough = mergedTranslation.length >= Math.max(240, Math.ceil(sourceLength * 0.35))
+        && mergedParagraphs >= 1
         && !isLikelyTruncatedBody(mergedTranslation)
         && !/(?:阅读|查看|参见|请前往).{0,24}(?:全文|原文|完整报道)/i.test(mergedTranslation)
         && isChineseReadableText(mergedTranslation, { minChars: 40, minRatio: 0.16 })
