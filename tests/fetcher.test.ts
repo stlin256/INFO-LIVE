@@ -1,7 +1,29 @@
 import { describe, expect, it } from 'vitest';
-import { countContentParagraphs, contentStatusOf, enrichArticleBodies, fetchArticleBody } from '../scripts/fetcher.mjs';
+import { countContentParagraphs, contentStatusOf, enrichArticleBodies, fetchAllFeeds, fetchArticleBody, formatPubTime, parsePublishedTimestamp } from '../scripts/fetcher.mjs';
+
+describe('发布时间规范化', () => {
+  it('uses the publication instant for sorting/display and keeps the year', () => {
+    expect(parsePublishedTimestamp('2024-12-24T00:44:00Z')).toBe(Date.parse('2024-12-24T00:44:00Z'));
+    expect(formatPubTime('2024-12-24T00:44:00Z')).toBe('2024-12-24 08:44');
+    expect(parsePublishedTimestamp('not-a-date')).toBe(0);
+  });
+});
 
 describe('正文采集与内容状态', () => {
+  it('returns per-source health without changing the array API', async () => {
+    const xml = '<rss version="2.0"><channel><title>Example</title><item><title>Headline</title><link>https://example.test/story</link><pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate><description>Short evidence</description></item></channel></rss>';
+    const previousFetch = globalThis.fetch;
+    globalThis.fetch = async () => new Response(xml, { status: 200, headers: { 'content-type': 'application/rss+xml' } });
+    try {
+      const items = await fetchAllFeeds([{ name: 'Example', slug: 'example', lang: 'en', category: 'world', weight: 8, url: 'https://example.test/feed' }]);
+      expect(Array.isArray(items)).toBe(true);
+      expect((items as any).sourceHealth).toHaveLength(1);
+      expect((items as any).sourceHealth[0]).toMatchObject({ name: 'Example', ok: true, itemCount: 1 });
+    } finally {
+      globalThis.fetch = previousFetch;
+    }
+  });
+
   it('extracts article paragraphs from official HTML and filters boilerplate', async () => {
     const html = '<html><body><nav>Subscribe to newsletter</nav><article><p>' + '第一段是官方文章正文，包含足够的事实细节与上下文信息。'.repeat(8) + '</p><p>' + '第二段继续说明事件进展、相关机构回应以及后续影响。'.repeat(8) + '</p><p>Read more</p></article></body></html>';
     const body = await fetchArticleBody('https://example.test/story', { fetchImpl: async () => new Response(html) });

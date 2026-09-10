@@ -11,7 +11,7 @@ import { getBeijingTime, contentStatusOf, countContentParagraphs } from './fetch
 import { translateForeignTitle } from './translations.mjs';
 import { runHarness } from './ai-harness.mjs';
 import { buildContextPack } from './context-pack.mjs';
-import { getAgent, validateAgentResult } from './ai-agents.mjs';
+import { getAgent, validateAgentResult, validateSafeFields } from './ai-agents.mjs';
 import { storyIdForUrl } from './story-id.mjs';
 
 export { translateForeignTitle };
@@ -38,6 +38,9 @@ export async function requestJsonWithFallback({
   prompt,
   timeoutMs = 30000,
   fetchImpl = fetch,
+  signal: parentSignal = undefined,
+  validateValue = undefined,
+  callBudget = undefined,
 }) {
   const base = String(apiBase || '').replace(/\/+$/, '');
   if (!base) throw new Error('AI_API_BASE is not configured');
@@ -48,6 +51,7 @@ export async function requestJsonWithFallback({
 
   for (const candidate of models) {
     try {
+      callBudget?.reserve(candidate, primaryModel);
       const response = await fetchImpl(`${base}/chat/completions`, {
         method: 'POST',
         headers: {
@@ -60,7 +64,9 @@ export async function requestJsonWithFallback({
           temperature: 0.3,
           response_format: { type: 'json_object' },
         }),
-        signal: AbortSignal.timeout(timeoutMs),
+        signal: parentSignal
+          ? AbortSignal.any([parentSignal, AbortSignal.timeout(timeoutMs)])
+          : AbortSignal.timeout(timeoutMs),
       });
 
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -68,7 +74,16 @@ export async function requestJsonWithFallback({
       const content = payload.choices?.[0]?.message?.content;
       if (!content) throw new Error('empty model response');
 
-      return { model: candidate, value: parseJsonContent(content), payload };
+      const value = parseJsonContent(content);
+      if (typeof validateValue === 'function') {
+        const validation = await validateValue(value, candidate);
+        if (validation !== true) {
+          const message = Array.isArray(validation) ? validation.join('; ') : String(validation || 'model output failed validation');
+          throw new Error(message);
+        }
+      }
+
+      return { model: candidate, value, payload };
     } catch (error) {
       lastError = error instanceof Error ? error : new Error(String(error));
       if (candidate !== models.at(-1)) {
@@ -361,24 +376,46 @@ function createArticleAgentTasks(stories, runId, apiConfig, roles = ['fact-extra
           role,
           optional: true,
           inputKeys: ['pack'],
-          timeoutMs: agent.budget.timeoutMs,
-          run: async (input) => {
+          // The task budget covers one primary attempt plus one fallback
+          // attempt. If the Harness timeout equals a single HTTP timeout, the
+          // parent AbortSignal cancels the fallback immediately after a slow
+          // primary model expires.
+          timeoutMs: agent.budget.timeoutMs * 2 + 1000,
+          modelPolicy: [apiConfig.primaryModel],
+          dependsOn: ['source-positioner', 'topic-classifier'].includes(role) ? [`article-${index}-fact-extractor`] : [],
+          run: async (input, taskContext) => {
+            const dependencyFacts = input.dependencies?.[`article-${index}-fact-extractor`]?.output || null;
+            const taskPack = dependencyFacts
+              ? { ...input.pack, evidence: { ...(input.pack.evidence || {}), facts: dependencyFacts } }
+              : input.pack;
             const result = await requestJsonWithFallback({
               ...apiConfig,
-              prompt: buildAgentPrompt(role, input.pack),
+              prompt: buildAgentPrompt(role, taskPack),
               timeoutMs: agent.budget.timeoutMs,
+              signal: taskContext.signal,
+              callBudget: apiConfig.callBudget,
+              validateValue: (value) => {
+                const validation = validateAgentResult(role, value);
+                return validation.valid ? true : validation.errors;
+              },
             });
             const value = normalizeAgentValue(result.value);
             const validation = validateAgentResult(role, value);
             if (!validation.valid) throw new Error(role + ' output invalid: ' + validation.errors.join('; '));
             if (role === 'translator') {
-              const source = input.pack.article || {};
+              const source = taskPack.article || {};
               const translated = String(value.fullTranslation || '').trim();
               const translatedParagraphs = countContentParagraphs(translated);
-              const chunkCount = Number(input.pack.lineage?.chunkCount || source.chunkCount || 1);
-              const minChunkChars = chunkCount > 1 ? 80 : 240;
-              if (translated.length < minChunkChars || translatedParagraphs < 1) {
-                throw new Error('translator output too short (' + translated.length + ' chars, ' + translatedParagraphs + ' paragraphs)');
+              const sourceLength = String(source.fullContent || source.snippet || '').trim().length;
+              const chunkCount = Number(taskPack.lineage?.chunkCount || source.chunkCount || 1);
+              // A translation may be shorter than the source, but it must not
+              // collapse an article into a one-line synopsis. Use a proportional
+              // floor plus a hard floor for both whole articles and chunks.
+              const proportionalFloor = Math.ceil(sourceLength * (chunkCount > 1 ? 0.12 : 0.18));
+              const minTranslationChars = Math.max(chunkCount > 1 ? 80 : 240, proportionalFloor);
+              const looksLikeSummary = /(?:阅读|查看|参见).{0,20}(?:全文|原文)|(?:以下|这篇文章)\s*(?:是|为)?\s*(?:摘要|概述)/i.test(translated);
+              if (translated.length < minTranslationChars || translatedParagraphs < 1 || looksLikeSummary) {
+                throw new Error('translator output failed quality floor (' + translated.length + ' chars, ' + translatedParagraphs + ' paragraphs, source=' + sourceLength + ')');
               }
             }
             return { ...value, _model: result.model, _chunkIndex: chunkIndex, _chunkCount: chunks.length };
@@ -410,6 +447,27 @@ function buildBoundedOverviewPack(items, runId, role, maxInputChars) {
   }, { maxInputChars });
 }
 
+function validateOverviewValue(role, value) {
+  const errors = [...validateSafeFields(value).errors];
+  if (!value || typeof value !== 'object' || Array.isArray(value)) errors.push('overview result must be an object');
+  if (role === 'hourly-editor') {
+    if (!value?.hourlyBriefing || typeof value.hourlyBriefing !== 'object') errors.push('hourlyBriefing must be an object');
+    if (!Array.isArray(value?.perspectiveMatrix)) errors.push('perspectiveMatrix must be an array');
+    if (!Array.isArray(value?.specialTopics)) errors.push('specialTopics must be an array');
+    if (!value?.socialTrends || typeof value.socialTrends !== 'object') errors.push('socialTrends must be an object');
+  }
+  if (role === 'daily-analyst') {
+    if (typeof value?.title !== 'string' || !value.title.trim()) errors.push('title must be a non-empty string');
+    if (typeof value?.lead !== 'string' || !value.lead.trim()) errors.push('lead must be a non-empty string');
+    if (!Array.isArray(value?.themes)) errors.push('themes must be an array');
+  }
+  if (role === 'social-trends') {
+    if (!Array.isArray(value?.radar)) errors.push('radar must be an array');
+    if (!Array.isArray(value?.debates)) errors.push('debates must be an array');
+  }
+  return errors.length ? errors : true;
+}
+
 function createOverviewTasks(items, runId, apiConfig) {
   const hourlyPack = buildBoundedOverviewPack(items, runId, 'hourly-editor', 20000);
   const dailyPack = buildBoundedOverviewPack(items, runId, 'daily-analyst', 20000);
@@ -417,20 +475,31 @@ function createOverviewTasks(items, runId, apiConfig) {
   return [
     {
       id: 'hourly-editor', role: 'hourly-editor', optional: true, input: { pack: hourlyPack }, inputKeys: ['pack'],
-      timeoutMs: getAgent('hourly-editor').budget.timeoutMs,
-      run: async (input) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('hourly-editor').budget.timeoutMs, prompt: `你是本小时主编，只根据下面有限的结构化文章目录输出 JSON。不要声称未提供的事实。输出 hourlyBriefing、perspectiveMatrix、specialTopics、socialTrends 四个字段；不需要全文。证据包：${JSON.stringify(input.pack)}` })).value,
+      modelPolicy: [apiConfig.primaryModel],
+      timeoutMs: getAgent('hourly-editor').budget.timeoutMs * 2 + 1000,
+      run: async (input, taskContext) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('hourly-editor').budget.timeoutMs, signal: taskContext.signal, callBudget: apiConfig.callBudget, validateValue: (value) => validateOverviewValue('hourly-editor', value), prompt: `你是本小时主编，只根据下面有限的结构化文章目录输出 JSON。不要声称未提供的事实。输出 hourlyBriefing、perspectiveMatrix、specialTopics、socialTrends 四个字段；不需要全文。证据包：${JSON.stringify(input.pack)}` })).value,
     },
     {
       id: 'daily-analyst', role: 'daily-analyst', optional: true, input: { pack: dailyPack }, inputKeys: ['pack'],
-      timeoutMs: getAgent('daily-analyst').budget.timeoutMs,
-      run: async (input) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('daily-analyst').budget.timeoutMs, prompt: `你是日尺度分析师，根据下列最近文章目录输出 JSON：{"title":"","lead":"","themes":[{"name":"","analysis":""}]}。不得编造证据。证据包：${JSON.stringify(input.pack)}` })).value,
+      modelPolicy: [apiConfig.primaryModel],
+      timeoutMs: getAgent('daily-analyst').budget.timeoutMs * 2 + 1000,
+      run: async (input, taskContext) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('daily-analyst').budget.timeoutMs, signal: taskContext.signal, callBudget: apiConfig.callBudget, validateValue: (value) => validateOverviewValue('daily-analyst', value), prompt: `你是日尺度分析师，根据下列最近文章目录输出 JSON：{"title":"","lead":"","themes":[{"name":"","analysis":""}]}。不得编造证据。证据包：${JSON.stringify(input.pack)}` })).value,
     },
     {
       id: 'social-trends', role: 'social-trends', optional: true, input: { pack: socialPack }, inputKeys: ['pack'],
-      timeoutMs: getAgent('social-trends').budget.timeoutMs,
-      run: async (input) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('social-trends').budget.timeoutMs, prompt: `你是社会热点编辑，只根据下列社区文章目录输出 JSON：{"radar":[],"debates":[]}。没有证据的热点不要补写。证据包：${JSON.stringify(input.pack)}` })).value,
+      modelPolicy: [apiConfig.primaryModel],
+      timeoutMs: getAgent('social-trends').budget.timeoutMs * 2 + 1000,
+      run: async (input, taskContext) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('social-trends').budget.timeoutMs, signal: taskContext.signal, callBudget: apiConfig.callBudget, validateValue: (value) => validateOverviewValue('social-trends', value), prompt: `你是社会热点编辑，只根据下列社区文章目录输出 JSON：{"radar":[],"debates":[]}。没有证据的热点不要补写。证据包：${JSON.stringify(input.pack)}` })).value,
     },
   ];
+}
+
+function hasTranslatableSource(story) {
+  const explicitStatus = story?.contentStatus;
+  if (explicitStatus) return explicitStatus === 'full';
+  // Keep callers that construct article objects directly backwards compatible;
+  // fetcher-produced items always carry an explicit contentStatus.
+  return Boolean(String(story?.fullContent || story?.snippet || '').trim());
 }
 
 function compactEvidenceText(value, maxChars = 280) {
@@ -522,6 +591,7 @@ export async function summarizeWithAI(items) {
     apiKey,
     primaryModel: model,
     fallbackModel,
+    callBudget: createModelCallBudget(),
   };
   const uniqueStories = [...new Map([
     ...deskData.topStories,
@@ -532,10 +602,15 @@ export async function summarizeWithAI(items) {
   ].map((story) => [story.url, story])).values()];
   const configuredArticleLimit = Number.parseInt(process.env.AI_ARTICLE_LIMIT || '120', 10);
   const articleLimit = Number.isInteger(configuredArticleLimit) && configuredArticleLimit > 0 ? configuredArticleLimit : 120;
-  const translationStories = uniqueStories.slice(0, articleLimit);
+  // Do not spend model calls translating RSS-only snippets that can never be
+  // published as full articles. They remain in the wire/history as discovery
+  // evidence, while only official-body candidates enter the translator DAG.
+  const translationStories = uniqueStories
+    .filter(hasTranslatableSource)
+    .slice(0, articleLimit);
   const configuredAnalysisLimit = Number.parseInt(process.env.AI_ANALYSIS_ARTICLE_LIMIT || '16', 10);
   const analysisLimit = Number.isInteger(configuredAnalysisLimit) && configuredAnalysisLimit > 0 ? configuredAnalysisLimit : 16;
-  const analysisStories = deskData.topStories.slice(0, analysisLimit);
+  const analysisStories = deskData.topStories.filter(hasTranslatableSource).slice(0, analysisLimit);
   // 每篇文章都必须经过 translator；事实/立场/分类专家只处理首页重点，避免将全文一次性喂给单个 LLM。
   const expertTasks = [
     ...createArticleAgentTasks(translationStories, runId, apiConfig, ['translator']),
@@ -570,10 +645,18 @@ export async function summarizeWithAI(items) {
       pack: null,
     },
     maxConcurrency: (() => {
-      const configuredConcurrency = Number.parseInt(process.env.AI_MAX_CONCURRENCY || '4', 10);
-      return Number.isInteger(configuredConcurrency) && configuredConcurrency > 0 ? configuredConcurrency : 4;
+      const configuredConcurrency = Number.parseInt(process.env.AI_MAX_CONCURRENCY || '8', 10);
+      return Number.isInteger(configuredConcurrency) && configuredConcurrency > 0 ? configuredConcurrency : 8;
     })(),
-    roleConcurrency: { translator: 2, 'fact-extractor': 2, 'source-positioner': 2, 'topic-classifier': 2 },
+    roleConcurrency: {
+      translator: Number.parseInt(process.env.AI_TRANSLATOR_CONCURRENCY || '4', 10) || 4,
+      'fact-extractor': 2,
+      'source-positioner': 2,
+      'topic-classifier': 2,
+      'hourly-editor': 1,
+      'daily-analyst': 1,
+      'social-trends': 1,
+    },
   });
   console.log(`[AI] Harness completed: ${harnessResult.metrics.succeeded}/${harnessResult.metrics.totalTasks} tasks succeeded; degraded=${harnessResult.degraded}`);
 
@@ -624,11 +707,44 @@ export async function summarizeWithAI(items) {
     degraded: harnessResult.degraded,
     degradedTasks: harnessResult.degradedTasks,
     metrics: harnessResult.metrics,
+    modelBudget: {
+      maxTotalModelCalls: apiConfig.callBudget.maxTotalModelCalls,
+      maxFallbackCalls: apiConfig.callBudget.maxFallbackCalls,
+      totalCalls: apiConfig.callBudget.totalCalls,
+      fallbackCalls: apiConfig.callBudget.fallbackCalls,
+    },
   };
 
 
   return {
     ...baseSynthesis,
     ...deskData
+  };
+}
+
+function parsePositiveEnv(name, fallback) {
+  const value = Number.parseInt(process.env[name] || '', 10);
+  return Number.isInteger(value) && value > 0 ? value : fallback;
+}
+
+function createModelCallBudget() {
+  const maxTotalModelCalls = parsePositiveEnv('AI_MAX_TOTAL_CALLS', 384);
+  const maxFallbackCalls = parsePositiveEnv('AI_MAX_FALLBACK_CALLS', 96);
+  return {
+    maxTotalModelCalls,
+    maxFallbackCalls,
+    totalCalls: 0,
+    fallbackCalls: 0,
+    reserve(model, primaryModel) {
+      if (this.totalCalls >= this.maxTotalModelCalls) {
+        throw new Error(`model call budget exhausted (${this.maxTotalModelCalls})`);
+      }
+      const isFallback = model !== primaryModel;
+      if (isFallback && this.fallbackCalls >= this.maxFallbackCalls) {
+        throw new Error(`fallback model call budget exhausted (${this.maxFallbackCalls})`);
+      }
+      this.totalCalls += 1;
+      if (isFallback) this.fallbackCalls += 1;
+    },
   };
 }

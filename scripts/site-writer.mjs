@@ -14,6 +14,67 @@ import { SOURCES } from './sources.mjs';
 import { evolveTopics } from './topic-lifecycle.mjs';
 import { storyIdForUrl } from './story-id.mjs';
 
+const PUBLISHABLE_TRANSLATION_MIN_CHARS = 240;
+
+function writeFileAtomic(file, content) {
+  const tempFile = `${file}.${process.pid}.${Date.now()}.tmp`;
+  fs.writeFileSync(tempFile, content, 'utf8');
+  try {
+    fs.renameSync(tempFile, file);
+  } catch (error) {
+    // POSIX rename replaces atomically. Windows refuses to replace an existing
+    // file, so remove only the known destination and retry the rename.
+    if (!fs.existsSync(file)) throw error;
+    fs.rmSync(file, { force: true });
+    fs.renameSync(tempFile, file);
+  } finally {
+    if (fs.existsSync(tempFile)) {
+      try { fs.rmSync(tempFile, { force: true }); } catch { /* keep original error */ }
+    }
+  }
+}
+
+function writeJsonAtomic(file, value) {
+  writeFileAtomic(file, `${JSON.stringify(value, null, 2)}\n`);
+}
+
+function siteBasePath() {
+  const configured = process.env.ASTRO_BASE
+    || (process.env.GITHUB_ACTIONS && process.env.GITHUB_REPOSITORY
+      ? `/${process.env.GITHUB_REPOSITORY.split('/')[1]}/`
+      : '/');
+  const value = String(configured || '/');
+  const trimmed = value.replace(/^\/+|\/+$/g, '');
+  return trimmed ? `/${trimmed}/` : '/';
+}
+
+function sitePath(relativePath) {
+  const normalized = String(relativePath || '').replace(/^\/+/, '');
+  return `${siteBasePath()}${normalized}`.replace(/\/{2,}/g, '/');
+}
+
+export function isPublishableArticle(story) {
+  const value = story && typeof story === 'object' ? story : {};
+  const translation = String(value.fullTranslation || '').trim();
+  const paragraphs = Number(value.translationParagraphs)
+    || translation.split(/\n\s*\n/).map((part) => part.trim()).filter(Boolean).length;
+  return value.contentStatus === 'full'
+    && value.translationStatus === 'full'
+    && translation.length >= PUBLISHABLE_TRANSLATION_MIN_CHARS
+    && paragraphs >= 1
+    && /^https?:\/\//i.test(String(value.url || ''));
+}
+
+export function selectPublishableStories(stories = [], limit = Infinity) {
+  const unique = new Map();
+  for (const story of Array.isArray(stories) ? stories : []) {
+    if (!isPublishableArticle(story)) continue;
+    const key = cleanUrl(story.url) || story.id || story.title;
+    if (!unique.has(key)) unique.set(key, story);
+  }
+  return [...unique.values()].slice(0, limit);
+}
+
 export function resolveSourceSlug(sourceName, sourceSlug) {
   const s = (sourceSlug || '').toLowerCase().replace(/[^a-z0-9]/g, '');
   const n = (sourceName || '').toLowerCase();
@@ -71,8 +132,9 @@ export function resolveSourceSlug(sourceName, sourceSlug) {
 
 export function renderSourceBadge(sourceName, sourceSlug) {
   const resolved = resolveSourceSlug(sourceName, sourceSlug);
-  const iconPath = `/assets/sources/${resolved}.svg`;
-  return `<span class="source-badge"><img src="${iconPath}" class="source-icon" alt="${sourceName}" width="16" height="16" /> <strong>${sourceName}</strong></span>`;
+  const iconPath = sitePath(`assets/sources/${resolved}.svg`);
+  const safeName = escapeHtml(sourceName);
+  return `<span class="source-badge"><img src="${iconPath}" class="source-icon" alt="${safeName}" width="16" height="16" /> <strong>${safeName}</strong></span>`;
 }
 
 export function renderPerspectiveMatrix(perspectiveMatrix = []) {
@@ -100,7 +162,7 @@ export function renderPerspectiveMatrix(perspectiveMatrix = []) {
       const safeFocus = (src.focus || "").replace(/"/g, "&quot;").replace(/\$/g, "&#36;");
       lines.push("    <div class=\"perspective-source-item\">");
       lines.push("      <div class=\"perspective-source-header\">");
-      lines.push("        <span class=\"perspective-source-name\"><img src=\"/assets/sources/" + srcSlug + ".svg\" class=\"source-icon\" alt=\"" + safeSrcName + "\" width=\"16\" height=\"16\" /> " + safeSrcName + "</span>");
+      lines.push("        <span class=\"perspective-source-name\"><img src=\"" + sitePath(`assets/sources/${srcSlug}.svg`) + "\" class=\"source-icon\" alt=\"" + safeSrcName + "\" width=\"16\" height=\"16\" /> " + safeSrcName + "</span>");
       lines.push("        <span class=\"perspective-stance-badge\">" + safeStance + "</span>");
       lines.push("      </div>");
       lines.push("      <div class=\"perspective-source-body\">" + safeFocus + "</div>");
@@ -187,6 +249,7 @@ export function renderArticleCard(s) {
   const contentStatus = s.contentStatus || 'missing';
   const translationStatus = s.translationStatus || 'source-only';
   const contentSource = s.contentSource || 'rss';
+  const contentKind = s.contentKind || (contentSource === 'official-page' ? 'official-page-body' : 'rss-summary');
   const contentLength = String(s.fullTranslation || s.snippet || '').length;
   const contentParagraphs = Number(s.translationParagraphs || String(s.fullTranslation || s.snippet || '').split(/\n\s*\n/).filter(Boolean).length);
   const articleUrl = cleanUrl(s.url);
@@ -194,7 +257,7 @@ export function renderArticleCard(s) {
   const storyId = s.id || storyIdForUrl(s.url, s.title);
   lines.push(':::cell');
   lines.push('<div id="' + storyId + '" class="story-anchor"></div>');
-  lines.push('<div class="news-card-header" data-content-status="' + escapeHtml(contentStatus) + '" data-translation-status="' + escapeHtml(translationStatus) + '" data-content-source="' + escapeHtml(contentSource) + '" data-content-length="' + contentLength + '" data-content-paragraphs="' + contentParagraphs + '" data-published-at="' + escapeHtml(s.publishedAt || '') + '" data-time-source="publication">');
+  lines.push('<div class="news-card-header" data-content-status="' + escapeHtml(contentStatus) + '" data-translation-status="' + escapeHtml(translationStatus) + '" data-content-source="' + escapeHtml(contentSource) + '" data-content-kind="' + escapeHtml(contentKind) + '" data-source-lang="' + escapeHtml(s.sourceLang || '') + '" data-content-length="' + contentLength + '" data-content-paragraphs="' + contentParagraphs + '" data-published-at="' + escapeHtml(s.publishedAt || '') + '" data-time-source="publication">');
   lines.push('  <div class="news-card-meta-left">');
   lines.push(`    ${renderSourceBadge(s.source, s.sourceSlug)}`);
   if (s.stance) {
@@ -238,7 +301,8 @@ export function renderArticleCard(s) {
     lines.push('  <div class="takeaways-header">💡 核心研判与各方动向</div>');
     lines.push('  <ul class="takeaways-list">');
     for (const t of s.keyTakeaways) {
-      lines.push(`    <li>${t.replace(/\$/g, '&#36;')}</li>`);
+      const text = typeof t === 'string' ? t : (t?.claim || t?.summary || t?.text || '');
+      if (text) lines.push(`    <li>${escapeHtml(text)}</li>`);
     }
     lines.push('  </ul>');
     lines.push('</div>');
@@ -270,7 +334,9 @@ export function renderLiveWireStream(ticker = [], topStories = []) {
   lines.push("<div class=\"live-wire-grid\">");
 
   const storyUrlMap = new Map();
-  for (const s of topStories) {
+  // Only map stories that are actually rendered below; otherwise the wire can point
+  // to a valid id from the overflow pool that has no corresponding DOM card.
+  for (const s of topStories.slice(0, 14)) {
     const cardId = s.id || storyIdForUrl(s.url, s.title);
     if (s.url) storyUrlMap.set(cleanUrl(s.url), cardId);
   }
@@ -286,8 +352,8 @@ export function renderLiveWireStream(ticker = [], topStories = []) {
 
     lines.push("  <div class=\"wire-card\">");
     lines.push("    <div class=\"wire-card-meta\">");
-    lines.push("      <span class=\"wire-time-badge\">🕒 " + t.time + "</span>");
-    lines.push("      <span class=\"wire-source-badge\"><img src=\"/assets/sources/" + resolved + ".svg\" class=\"source-icon\" alt=\"" + escapeHtml(t.source) + "\" width=\"14\" height=\"14\" /> " + escapeHtml(t.source) + "</span>");
+      lines.push("      <span class=\"wire-time-badge\">🕒 " + escapeHtml(t.time || '发布时间未知') + "</span>");
+    lines.push("      <span class=\"wire-source-badge\"><img src=\"" + sitePath(`assets/sources/${resolved}.svg`) + "\" class=\"source-icon\" alt=\"" + escapeHtml(t.source) + "\" width=\"14\" height=\"14\" /> " + escapeHtml(t.source) + "</span>");
     lines.push("      <span class=\"wire-dim-badge\">" + escapeHtml(t.dimensionLabel || "🌐 全球要闻") + "</span>");
     lines.push("    </div>");
     lines.push("    <div class=\"wire-card-title\">");
@@ -327,6 +393,7 @@ export function writeSiteData(data, rawItems = []) {
   const pagesDir = path.resolve('data/pages/zh');
   const timeInfo = getBeijingTime();
   const orchestration = data.orchestration || {};
+  const sourceHealth = Array.isArray(rawItems?.sourceHealth) ? rawItems.sourceHealth : [];
 
   if (!fs.existsSync(pagesDir)) {
     fs.mkdirSync(pagesDir, { recursive: true });
@@ -345,11 +412,18 @@ export function writeSiteData(data, rawItems = []) {
   const perspectiveMatrix = data.perspectiveMatrix || [];
   const trends = data.socialTrends || { radar: [], debates: [] };
 
-  const topStories = data.topStories || [];
-  const worldStories = data.worldStories || [];
-  const financeStories = data.financeStories || [];
-  const aiStories = data.aiStories || [];
-  const trendStories = data.trendStories || [];
+  const topStoryCandidates = data.topStories || [];
+  const worldStoryCandidates = data.worldStories || [];
+  const financeStoryCandidates = data.financeStories || [];
+  const aiStoryCandidates = data.aiStories || [];
+  const trendStoryCandidates = data.trendStories || [];
+  // Source-only/failed-translation items remain discoverable in the wire and
+  // history, but never enter an article card that claims to be a full translation.
+  const topStories = selectPublishableStories(topStoryCandidates, 14);
+  const worldStories = selectPublishableStories(worldStoryCandidates, 20);
+  const financeStories = selectPublishableStories(financeStoryCandidates, 20);
+  const aiStories = selectPublishableStories(aiStoryCandidates, 20);
+  const trendStories = selectPublishableStories(trendStoryCandidates, 16);
   const ticker = data.ticker || [];
 
   // -------------------------------------------------------------
@@ -369,7 +443,7 @@ export function writeSiteData(data, rawItems = []) {
     }
   }
 
-  const articleSnapshots = topStories.slice(0, 14).map((s) => ({
+  const articleSnapshots = topStoryCandidates.slice(0, 14).map((s) => ({
     id: s.id,
     title: s.title,
     originalTitle: s.originalTitle,
@@ -385,6 +459,7 @@ export function writeSiteData(data, rawItems = []) {
     contentStatus: s.contentStatus || 'missing',
     translationStatus: s.translationStatus || 'source-only',
     contentSource: s.contentSource || 'rss',
+    contentKind: s.contentKind || (s.contentSource === 'official-page' ? 'official-page-body' : 'rss-summary'),
     contentParagraphs: s.contentParagraphs || 0,
     translationParagraphs: s.translationParagraphs || 0,
     keyTakeaways: s.keyTakeaways || [],
@@ -399,9 +474,10 @@ export function writeSiteData(data, rawItems = []) {
     generatedAt: timeInfo.iso,
     hourlyBriefing: hourly,
     dailyBriefing: daily,
-    storiesCount: topStories.length,
+    storiesCount: topStoryCandidates.length,
     taskMetrics: orchestration.metrics || null,
     degradedRoles: orchestration.degradedTasks || [],
+    sourceHealth,
     topStories: articleSnapshots,
     articleSnapshots,
   };
@@ -430,7 +506,7 @@ export function writeSiteData(data, rawItems = []) {
 
   if (orchestration.runId) archive = archive.filter((snapshot) => snapshot.runId !== orchestration.runId);
   archive.unshift(currentSnapshot);
-  fs.writeFileSync(archiveFile, JSON.stringify(archive, null, 2), 'utf8');
+  writeJsonAtomic(archiveFile, archive);
 
   const todayFile = path.join(dailyHistoryDir, `${timeInfo.dateOnly}.json`);
   let dailyData = [];
@@ -443,7 +519,51 @@ export function writeSiteData(data, rawItems = []) {
   }
   if (orchestration.runId) dailyData = dailyData.filter((snapshot) => snapshot.runId !== orchestration.runId);
   dailyData.unshift(currentSnapshot);
-  fs.writeFileSync(todayFile, JSON.stringify(dailyData, null, 2), 'utf8');
+  writeJsonAtomic(todayFile, dailyData);
+
+  // Build one static, searchable page per day. The top-level archive remains a
+  // compact index, while these pages make older snapshots permanently queryable
+  // instead of silently dropping everything after the newest 48 runs.
+  const dailyDates = fs.readdirSync(dailyHistoryDir)
+    .filter((file) => /^\d{4}-\d{2}-\d{2}\.json$/.test(file))
+    .map((file) => file.replace(/\.json$/, ''))
+    .sort()
+    .reverse();
+  for (const date of dailyDates) {
+    const file = path.join(dailyHistoryDir, `${date}.json`);
+    let snapshots;
+    try {
+      const parsed = JSON.parse(fs.readFileSync(file, 'utf8'));
+      snapshots = Array.isArray(parsed) ? parsed : [];
+    } catch {
+      snapshots = [];
+    }
+    const dayLines = [
+      '---',
+      `title: "历史情报 · ${date}"`,
+      'nav: false',
+      'sitemap: true',
+      'order: 100',
+      `description: "InfoLive ${date} 的逐小时全球情报快照与文章证据"`,
+      '---',
+      '',
+      `# 🗓️ ${date} 全球情报历史快照`,
+      '',
+      `共记录 **${snapshots.length}** 个运行快照；文章正文、原始标题、译文状态和官方出处按当时证据永久保留。`,
+      '',
+    ];
+    for (const snapshot of snapshots) {
+      const stamp = snapshot.timeDisplay || snapshot.generatedAt || date;
+      dayLines.push(`## ⏱️ ${stamp}`, '', snapshot.hourlyBriefing?.lead || '本轮运行未生成小时导语。', '');
+      const stories = Array.isArray(snapshot.topStories) ? snapshot.topStories : [];
+      if (stories.length > 0) {
+        dayLines.push('::::grid{cols=2}');
+        for (const story of stories) dayLines.push(renderArticleCard(story));
+        dayLines.push('::::', '');
+      }
+    }
+    writeFileAtomic(path.join(pagesDir, `archive-${date}.md`), dayLines.join('\n'));
+  }
 
   // -------------------------------------------------------------
   // 2. 渲染 index.md (全景主页，order: 0)
@@ -464,7 +584,7 @@ export function writeSiteData(data, rawItems = []) {
     ':::important',
     `### ⏱️ 本小时战略速报 (${timeInfo.hourOnly})`,
     '',
-    hourly.lead || '多源全景监控网络全速运转，大国博弈、前沿科技与地缘格局展现高频共振。',
+    hourly.lead || '本轮尚未生成小时级 AI 导语；请以快讯中的官方标题、发布时间和出处为准。',
     '',
     '**🎯 关键动态信号：**'
   ];
@@ -481,7 +601,7 @@ export function writeSiteData(data, rawItems = []) {
   indexLines.push(':::note');
   indexLines.push(`### 🌐 24小时全球宏观大势与主线脉络（日尺度全景）`);
   indexLines.push('');
-  indexLines.push(daily.lead || '过去24小时，全球格局呈现出由碎片突发走向深层结构性重组的鲜明特征。');
+  indexLines.push(daily.lead || '本轮尚未生成日尺度 AI 研判；页面只展示已采集且可回溯的官方证据。');
   indexLines.push('');
   if (daily.themes && daily.themes.length > 0) {
     indexLines.push('**📊 今日核心主线透视：**');
@@ -507,13 +627,13 @@ export function writeSiteData(data, rawItems = []) {
     indexLines.push(':::cell');
     indexLines.push(`<div class="topic-header"><span class="topic-status-badge">${tp.status || '🔥 追踪中'}</span> <span class="news-meta-time">🕒 更新：${timeInfo.hourOnly}</span></div>`);
     indexLines.push('');
-    indexLines.push(`### [${tp.title}](/${tp.slug})`);
+    indexLines.push(`### [${tp.title}](${sitePath(`${tp.slug}/`)})`);
     indexLines.push('');
     indexLines.push(`> **主旨**：${tp.tagline}`);
     indexLines.push('');
     indexLines.push(tp.overview ? `${tp.overview.slice(0, 180)}……` : '');
     indexLines.push('');
-    indexLines.push(`<div class="topic-card-footer"><a href="/${tp.slug}" class="editorial-button accent"><span>查阅完整专题报告与大事记 ➔</span></a></div>`);
+    indexLines.push(`<div class="topic-card-footer"><a href="${sitePath(`${tp.slug}/`)}" class="editorial-button accent"><span>查阅完整专题报告与大事记 ➔</span></a></div>`);
     indexLines.push(':::');
   }
   indexLines.push('::::');
@@ -801,6 +921,13 @@ export function writeSiteData(data, rawItems = []) {
     '💡 **历史检索指南**：本站所有历史简报与事件记录均已建立永久档案，并生成静态全文索引。按下快捷键 <kbd>Ctrl+K</kbd>（Mac: <kbd>Cmd+K</kbd>）或点击右上角搜索放大镜图标，输入任意关键词（如“普京”、“DeepSeek”、“原油”、“阿布扎比”等），即可在毫秒级内检索全库历史记录。',
     ':::',
     '',
+    '## 📅 按日期查询完整历史',
+    '',
+  ];
+  for (const date of dailyDates) {
+    archiveLines.push(`- [${date} · ${date === timeInfo.dateOnly ? '今日' : '历史快照'}](${sitePath(`archive-${date}/`)})`);
+  }
+  archiveLines.push('',
     '## 📊 历史数据概览',
     '',
     `- **归档快照总数**：当前已永久存盘 **${archive.length}** 个时间节点快照`,
@@ -811,7 +938,7 @@ export function writeSiteData(data, rawItems = []) {
     '## 📅 逐小时情报快照历史时间轴',
     '',
     '::::timeline{title="历史简报时间轴"}'
-  ];
+  );
 
   for (const snap of archive.slice(0, 48)) {
         const snapTime = snap.timeDisplay || snap.date || '实时';
@@ -849,12 +976,19 @@ export function writeSiteData(data, rawItems = []) {
     '',
     '本平台全天候实时接入全球各国国家通讯社、主流大国旗舰媒体、前沿AI研究实验室、金融证券行情网络与同行评议科学期刊。严格使用各国官方原版母语电讯，杜绝二次翻译版本：',
     '',
-    '| 信源名称 | 官方主语言 | 领域权重 | 官方出处与数据通道 |',
-    '| :--- | :---: | :---: | :--- |'
+    '| 信源名称 | 官方主语言 | 领域权重 | 本轮状态 | 官方出处与数据通道 |',
+    '| :--- | :---: | :---: | :---: | :--- |'
   ];
 
+  const sourceHealthByUrl = new Map(sourceHealth.map((item) => [item.url, item]));
   for (const src of SOURCES) {
-    sourcesLines.push(`| ${renderSourceBadge(src.name, src.slug)} | \`${src.lang || 'en'}\` | ⭐ ${src.weight}/10 | [直达官方一手源网 ↗](${src.url}) |`);
+    const health = sourceHealthByUrl.get(src.url);
+    const status = health?.ok
+      ? `✅ ${health.itemCount} 条`
+      : health?.error
+        ? `⚠️ ${escapeHtml(health.error.slice(0, 80))}`
+        : '⏳ 未检查';
+    sourcesLines.push(`| ${renderSourceBadge(src.name, src.slug)} | \`${src.lang || 'en'}\` | ⭐ ${src.weight}/10 | ${status} | [直达官方一手源网 ↗](${src.url}) |`);
   }
   fs.writeFileSync(path.join(pagesDir, 'sources.md'), sourcesLines.join('\n'), 'utf8');
 
@@ -873,7 +1007,7 @@ export function writeSiteData(data, rawItems = []) {
     '',
     '**InfoLive** 是一个开源、全自动、由前沿大模型驱动的全球全源信息流与实时要闻矩阵平台。',
     '',
-    '<div class="infolive-project-logo"><img class="infolive-logo-light" src="/assets/infolive-logo.svg" alt="InfoLive Global Signal Matrix 项目 Logo" width="920" height="240" loading="eager" /><img class="infolive-logo-dark" src="/assets/infolive-logo-dark.svg" alt="" aria-hidden="true" width="920" height="240" loading="eager" /></div>',
+    `<div class="infolive-project-logo"><img class="infolive-logo-light" src="${sitePath('assets/infolive-logo.svg')}" alt="InfoLive Global Signal Matrix 项目 Logo" width="920" height="240" loading="eager" /><img class="infolive-logo-dark" src="${sitePath('assets/infolive-logo-dark.svg')}" alt="" aria-hidden="true" width="920" height="240" loading="eager" /></div>`,
     '',
     '## 🚀 官方开源代码仓库',
     '',
@@ -924,7 +1058,7 @@ export function writeSiteData(data, rawItems = []) {
   // 11. 保存结构化数据快照 feed-data.json
   // -------------------------------------------------------------
   const feedDataFile = path.resolve('data/feed-data.json');
-  fs.writeFileSync(feedDataFile, JSON.stringify({
+  writeJsonAtomic(feedDataFile, {
     timestamp: timeInfo.timestamp,
     timeDisplay: timeInfo.display,
     hourlyBriefing: hourly,
@@ -933,12 +1067,14 @@ export function writeSiteData(data, rawItems = []) {
     perspectiveMatrix,
     socialTrends: trends,
     topStories,
+    sourceOnlyStories: topStoryCandidates.filter((story) => !isPublishableArticle(story)),
     worldStories,
     financeStories: finalFinance,
     aiStories,
     trendStories,
-    ticker
-  }, null, 2), 'utf8');
+    ticker,
+    sourceHealth,
+  });
 
   console.log('[SiteWriter] Generated all pages and saved data/feed-data.json successfully!');
 }

@@ -36,6 +36,16 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Validate AI translation pipeline configuration
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_API_BASE: ${{ secrets.AI_API_BASE }}
+        run: |
+          if [[ -z "$AI_API_KEY" || -z "$AI_API_BASE" ]]; then
+            echo "::error::AI_API_KEY and AI_API_BASE are required for full-article translation. The run is stopped before ingestion so the previous Pages deployment remains intact."
+            exit 1
+          fi
+
       - name: InfoLive Feed Ingestion & AI Intelligence Synthesis
         run: node scripts/feed-engine.mjs
         env:
@@ -43,12 +53,29 @@ jobs:
           AI_API_BASE: ${{ secrets.AI_API_BASE }}
           AI_MODEL: ${{ secrets.AI_MODEL }}
           AI_FALLBACK_MODEL: ${{ secrets.AI_FALLBACK_MODEL || 'gpt-5.6-luna' }}
+          ARTICLE_BODY_ENRICH_LIMIT: 120
+          AI_MAX_CONCURRENCY: 8
+          AI_TRANSLATOR_CONCURRENCY: 4
+          AI_ARTICLE_LIMIT: 96
+          AI_ANALYSIS_ARTICLE_LIMIT: 12
+          AI_MAX_TOTAL_CALLS: 384
+          AI_MAX_FALLBACK_CALLS: 96
 
       - name: Build static site
         run: npm run build
+        env:
+          ASTRO_BASE: '/INFO-LIVE/'
+
+      - name: Write build identity manifest
+        run: node scripts/write-deploy-manifest.mjs
+        env:
+          GITHUB_SHA: ${{ github.sha }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
 
       - name: Verify build artifact and content quality
         run: npm run verify:content
+        env:
+          ASTRO_BASE: '/INFO-LIVE/'
 
       - name: Deploy to GitHub Pages (gh-pages)
         uses: peaceiris/actions-gh-pages@v4
@@ -58,7 +85,9 @@ jobs:
           force_orphan: true
 
       - name: Verify all published GitHub Pages routes and content quality
-        run: node scripts/verify-content.mjs --url https://stlin256.github.io/INFO-LIVE/ --retries 12 --delay 5000
+        env:
+          PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: node scripts/verify-content.mjs --url "$PAGES_URL" --build-id "${GITHUB_SHA}:${GITHUB_RUN_ID}" --retries 12 --delay 5000
 
       - name: Persist verified intelligence data
         run: |

@@ -223,32 +223,12 @@ export function translateForeignTitle(rawTitle, _lang = 'en') {
     .replace(/\bwarns? against\b/gi, '发出严厉警报抵制')
     .replace(/\bquits?\b/gi, '正式请辞');
 
-  // 如果依然几乎全是外文字符，提取其中的核心地名与主体，给出精准地道中文概括：
+  // If the deterministic fallback did not produce a genuinely Chinese title,
+  // preserve the official headline instead of inventing a generic event label.
+  // The publication gate will keep such an item out of translated article cards
+  // until the LLM translator supplies a validated target-language title.
   const finalChinese = (trans.match(/[\u4e00-\u9fa5]/g) || []).length;
-  if (finalChinese < trans.length * 0.25) {
-    if (/росси|вьетнам|международн/i.test(trimmed)) {
-      return '俄越外交动态：双方发表联合声明反对违反国际法的单边限制措施';
-    }
-    if (/метро|подмосков/i.test(trimmed)) {
-      return '城市基础设施动态：莫斯科州新建轨道交通网络提升区域联通能力';
-    }
-    if (/цска|футбол/i.test(trimmed)) {
-      return '俄罗斯文体动态：莫斯科中央陆军宣布完成重要球员转会交易';
-    }
-    if (/apple|iphone|keynote/i.test(trimmed)) {
-      return '苹果年度重磅发布会直击：新一代 iPhone 旗舰与硬件生态全景亮相';
-    }
-    if (/ukraine|russia|putin|drone|kyiv|kursk|пво/i.test(trimmed)) {
-      return '国际地缘动态：围绕俄乌前线战事与大国防务接触的最新进展';
-    }
-    if (/ai|model|llm|agent|gpt|chip|nvidia|anthropic/i.test(trimmed)) {
-      return '前沿智能动态：关于大模型范式演进与产业落地的最新进展';
-    }
-    if (/oil|market|stock|treasury|inflation|fed|bessent/i.test(trimmed)) {
-      return '全球资本与大宗商品：宏观金融市场核心指标最新异动';
-    }
-    return `国际要闻关注：${trans.replace(/[^\u4e00-\u9fa5a-zA-Z0-9\s]/g, ' ').trim()}`;
-  }
+  if (finalChinese < Math.max(2, trans.length * 0.25)) return trimmed;
 
   return trans;
 }

@@ -29,6 +29,8 @@ export default defineConfig({
         'scripts/generate-og-images.ts',
         // InfoLive 多源数据流与 AI 总结引擎，由 hourly-feed 工作流驱动
         'scripts/feed-engine.mjs',
+        // CI-only build identity writer; exercised by workflow, not unit tests
+        'scripts/write-deploy-manifest.mjs',
         'scripts/fetcher.mjs',
         'scripts/ai-summarizer.mjs',
         'scripts/site-writer.mjs',

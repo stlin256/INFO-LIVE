@@ -78,8 +78,9 @@ export function countContentParagraphs(text) {
   return String(text || '').split(/\n\s*\n/).map((part) => part.trim()).filter(Boolean).length;
 }
 
-export function contentStatusOf(text) {
+export function contentStatusOf(text, { source = 'official-page', contentKind = 'article-body' } = {}) {
   const value = String(text || '').trim();
+  if (source === 'rss' && contentKind === 'rss-summary') return value ? 'short-source' : 'missing';
   if (!value) return 'missing';
   const paragraphs = countContentParagraphs(value);
   return value.length >= ARTICLE_BODY_MIN_CHARS && (paragraphs >= ARTICLE_BODY_MIN_PARAGRAPHS || value.length >= 800) ? 'full' : 'short-source';
@@ -157,7 +158,7 @@ function articleParagraphsFromHtml(html) {
   return candidates[0] || [];
 }
 /** 从信源官方原语言文章页补抓正文；RSS 只有摘要时由 fetchAllFeeds 调用。 */
-export async function fetchArticleBody(url, { fetchImpl = fetch, timeoutMs = 9000 } = {}) {
+export async function fetchArticleBody(url, { fetchImpl = fetch, timeoutMs = 7000 } = {}) {
   if (!url) return null;
   try {
     const res = await fetchImpl(url, {
@@ -176,10 +177,10 @@ export async function fetchArticleBody(url, { fetchImpl = fetch, timeoutMs = 900
 }
 
 /** 以有界并发补齐 RSS 摘要过短的文章，避免一次性请求全部页面。 */
-export async function enrichArticleBodies(items, { fetchImpl = fetch, maxItems = 120, concurrency = 5 } = {}) {
+export async function enrichArticleBodies(items, { fetchImpl = fetch, maxItems = 120, concurrency = 8 } = {}) {
   const candidates = items
     .filter((item) => (item.contentStatus || contentStatusOf(item.fullContent)) !== 'full')
-    .map((item, index) => ({ item, index, time: Date.parse(item.pubDate || item.publishedAt || '') || 0, weight: Number(item.weight) || 0 }))
+    .map((item, index) => ({ item, index, time: parsePublishedTimestamp(item.publishedAt || item.pubDate || ''), weight: Number(item.weight) || 0 }))
     .sort((left, right) => right.time - left.time || right.weight - left.weight || left.index - right.index)
     .slice(0, maxItems)
     .map(({ item }) => item);
@@ -192,8 +193,9 @@ export async function enrichArticleBodies(items, { fetchImpl = fetch, maxItems =
       if (body && body.length > String(item.fullContent || '').length) {
         item.fullContent = body;
         item.contentSource = 'official-page';
+        item.contentKind = 'official-page-body';
       }
-      item.contentStatus = contentStatusOf(item.fullContent);
+      item.contentStatus = contentStatusOf(item.fullContent, { source: item.contentSource, contentKind: item.contentKind });
       item.contentParagraphs = countContentParagraphs(item.fullContent);
     }
   }
@@ -202,36 +204,54 @@ export async function enrichArticleBodies(items, { fetchImpl = fetch, maxItems =
   return items;
 }
 
+export function parsePublishedTimestamp(dateStr) {
+  if (!dateStr) return 0;
+  const timestamp = Date.parse(String(dateStr));
+  return Number.isFinite(timestamp) ? timestamp : 0;
+}
+
 export function formatPubTime(dateStr) {
-  if (!dateStr) return '';
-  const date = new Date(dateStr);
-  if (Number.isNaN(date.getTime())) return '';
+  const timestamp = parsePublishedTimestamp(dateStr);
+  if (!timestamp) return '';
   const parts = new Intl.DateTimeFormat('zh-CN', {
     timeZone: 'Asia/Shanghai',
+    year: 'numeric',
     month: '2-digit',
     day: '2-digit',
     hour: '2-digit',
     minute: '2-digit',
     hourCycle: 'h23',
-  }).formatToParts(date);
+  }).formatToParts(new Date(timestamp));
   const values = Object.fromEntries(parts.filter((part) => part.type !== 'literal').map((part) => [part.type, part.value]));
-  return `${values.month}-${values.day} ${values.hour}:${values.minute}`;
+  return `${values.year}-${values.month}-${values.day} ${values.hour}:${values.minute}`;
 }
+
 export function getBeijingTime() {
+  // Keep `iso` as the real instant in UTC. The previous implementation shifted
+  // the Date object and then serialized it with a Z suffix, which made generated
+  // timestamps look like Beijing time but actually claim to be UTC.
   const now = new Date();
-  const beijing = new Date(now.getTime() + (8 * 60 + now.getTimezoneOffset()) * 60000);
-  const pad = (n) => String(n).padStart(2, '0');
-  const y = beijing.getFullYear();
-  const m = pad(beijing.getMonth() + 1);
-  const d = pad(beijing.getDate());
-  const hh = pad(beijing.getHours());
-  const mm = pad(beijing.getMinutes());
+  const parts = new Intl.DateTimeFormat('zh-CN', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    hourCycle: 'h23',
+  }).formatToParts(now);
+  const values = Object.fromEntries(parts.filter((part) => part.type !== 'literal').map((part) => [part.type, part.value]));
+  const y = values.year;
+  const m = values.month;
+  const d = values.day;
+  const hh = values.hour;
+  const mm = values.minute;
   return {
-    iso: beijing.toISOString(),
+    iso: now.toISOString(),
     display: `${y}-${m}-${d} ${hh}:${mm} (UTC+8)`,
     hourOnly: `${hh}:${mm}`,
     dateOnly: `${y}-${m}-${d}`,
-    timestamp: Date.now()
+    timestamp: now.getTime(),
   };
 }
 
@@ -258,6 +278,7 @@ function extractImageUrl(it, rawHtml) {
 export async function fetchAllFeeds(sources) {
   console.log(`[Fetcher] Fetching ${sources.length} sources in parallel...`);
   const results = [];
+  const sourceHealth = [];
   const concurrency = 6;
   const queue = [...sources];
 
@@ -265,6 +286,17 @@ export async function fetchAllFeeds(sources) {
     while (queue.length > 0) {
       const source = queue.shift();
       if (!source) break;
+      const health = {
+        sourceId: source.slug || source.name,
+        name: source.name,
+        url: source.url,
+        ok: false,
+        itemCount: 0,
+        error: null,
+        checkedAt: new Date().toISOString(),
+        lastSuccessAt: null,
+      };
+      sourceHealth.push(health);
       try {
         const res = await fetch(source.url, {
           headers: {
@@ -281,8 +313,13 @@ export async function fetchAllFeeds(sources) {
           const rawHtml = it.contentEncoded || it.content || it.descriptionSnippet || '';
           const rawSnippet = it.contentSnippet || it.descriptionSnippet || it.summary || rawHtml || '';
           const snippet = rawSnippet.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 500);
-          const fullContent = cleanHtmlToParagraphs(rawHtml) || snippet;
-          const pubDate = it.pubDate || it.isoDate || it.dcDate || it.publishedDate || '';
+          const extractedRssBody = cleanHtmlToParagraphs(rawHtml);
+          const hasRichRssBody = Boolean(extractedRssBody)
+            && (/<(?:p|article|section|div)\b/i.test(rawHtml) || extractedRssBody.length > snippet.length + 80);
+          const contentKind = hasRichRssBody ? 'rss-body' : 'rss-summary';
+          const fullContent = hasRichRssBody ? extractedRssBody : snippet;
+          const pubDate = it.isoDate || it.pubDate || it.dcDate || it.publishedDate || '';
+          const publishedAtMs = parsePublishedTimestamp(pubDate);
           const pubTimeFormatted = formatPubTime(pubDate);
           const imageUrl = extractImageUrl(it, rawHtml);
 
@@ -290,11 +327,14 @@ export async function fetchAllFeeds(sources) {
             title: (it.title || '').trim(),
             link: cleanUrl(it.link || ''),
             pubDate,
+            publishedAt: publishedAtMs ? new Date(publishedAtMs).toISOString() : null,
+            publishedAtMs,
             pubTimeFormatted,
             snippet,
             fullContent: fullContent || snippet,
             contentSource: 'rss',
-            contentStatus: contentStatusOf(fullContent || snippet),
+            contentKind,
+            contentStatus: contentStatusOf(fullContent || snippet, { source: 'rss', contentKind }),
             contentParagraphs: countContentParagraphs(fullContent || snippet),
             imageUrl,
             sourceName: source.name,
@@ -306,29 +346,35 @@ export async function fetchAllFeeds(sources) {
         }).filter((it) => it.title && it.link);
         console.log(`  ✓ [${source.name}] Fetched ${items.length} items (rss-full=${items.filter((item) => item.contentStatus === 'full').length}, needs-body=${items.filter((item) => item.contentStatus !== 'full').length})`);
         results.push(...items);
+        health.ok = true;
+        health.itemCount = items.length;
+        health.lastSuccessAt = new Date().toISOString();
       } catch (err) {
-        console.warn(`  ✗ [${source.name}] Fetch failed: ${err.message}`);
+        health.error = err instanceof Error ? err.message : String(err);
+        console.warn(`  ✗ [${source.name}] Fetch failed: ${health.error}`);
       }
     }
   }
 
   await Promise.all(Array.from({ length: concurrency }, () => worker()));
   const beforeEnrichment = results.filter((item) => item.contentStatus !== 'full').length;
-  const enrichLimit = Number.parseInt(process.env.ARTICLE_BODY_ENRICH_LIMIT || '180', 10);
-  await enrichArticleBodies(results, { maxItems: Number.isInteger(enrichLimit) && enrichLimit > 0 ? enrichLimit : 180, concurrency: 5 });
+  const enrichLimit = Number.parseInt(process.env.ARTICLE_BODY_ENRICH_LIMIT || '120', 10);
+  await enrichArticleBodies(results, { maxItems: Number.isInteger(enrichLimit) && enrichLimit > 0 ? enrichLimit : 120, concurrency: 8 });
   const afterEnrichment = results.filter((item) => item.contentStatus === 'full').length;
   console.log(`[Fetcher] Official-page enrichment: ${beforeEnrichment} candidates, ${afterEnrichment} full items after enrichment`);
   console.log(`[Fetcher] Total raw items collected: ${results.length}`);
 
   // 按实际发布时间倒序排列（有发布时间的排在前）
   results.sort((a, b) => {
-    if (a.pubTimeFormatted && b.pubTimeFormatted) {
-      return b.pubTimeFormatted.localeCompare(a.pubTimeFormatted);
-    }
-    if (a.pubTimeFormatted) return -1;
-    if (b.pubTimeFormatted) return 1;
-    return (b.weight || 5) - (a.weight || 5);
+    const timeDelta = (b.publishedAtMs || parsePublishedTimestamp(b.publishedAt || b.pubDate))
+      - (a.publishedAtMs || parsePublishedTimestamp(a.publishedAt || a.pubDate));
+    return timeDelta || (b.weight || 5) - (a.weight || 5);
   });
 
+  Object.defineProperty(results, 'sourceHealth', {
+    value: sourceHealth.sort((a, b) => a.name.localeCompare(b.name)),
+    enumerable: false,
+    configurable: false,
+  });
   return results;
 }

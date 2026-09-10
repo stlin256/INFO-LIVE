@@ -427,6 +427,8 @@ export function buildContextPack(input = {}, options = {}) {
     lineage: {
       parentTaskIds: Array.isArray(asObject(data.lineage).parentTaskIds) ? [...asObject(data.lineage).parentTaskIds] : [],
       sourceItemIds: Array.isArray(asObject(data.lineage).sourceItemIds) ? [...asObject(data.lineage).sourceItemIds] : [],
+      chunkIndex: Number.isInteger(asObject(data.lineage).chunkIndex) ? asObject(data.lineage).chunkIndex : undefined,
+      chunkCount: Number.isInteger(asObject(data.lineage).chunkCount) ? asObject(data.lineage).chunkCount : undefined,
     },
     truncated: false,
   };

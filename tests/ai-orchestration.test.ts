@@ -1,9 +1,11 @@
 import { afterEach, describe, expect, it } from 'vitest';
-import { splitArticleIntoChunks, summarizeWithAI } from '../scripts/ai-summarizer.mjs';
+import { requestJsonWithFallback, splitArticleIntoChunks, summarizeWithAI } from '../scripts/ai-summarizer.mjs';
 
 const originalFetch = globalThis.fetch;
 const originalKey = process.env.AI_API_KEY;
 const originalBase = process.env.AI_API_BASE;
+const originalModel = process.env.AI_MODEL;
+const originalFallback = process.env.AI_FALLBACK_MODEL;
 
 afterEach(() => {
   globalThis.fetch = originalFetch;
@@ -11,6 +13,10 @@ afterEach(() => {
   else process.env.AI_API_KEY = originalKey;
   if (originalBase === undefined) delete process.env.AI_API_BASE;
   else process.env.AI_API_BASE = originalBase;
+  if (originalModel === undefined) delete process.env.AI_MODEL;
+  else process.env.AI_MODEL = originalModel;
+  if (originalFallback === undefined) delete process.env.AI_FALLBACK_MODEL;
+  else process.env.AI_FALLBACK_MODEL = originalFallback;
 });
 
 function modelResponse(value: unknown) {
@@ -26,6 +32,27 @@ describe('AI article chunking', () => {
     expect(chunks.length).toBeGreaterThan(1);
     expect(chunks.every((chunk) => chunk.length <= 1000)).toBe(true);
     expect(chunks.join('\n\n')).toContain('第二段。');
+  });
+});
+
+describe('AI model failover', () => {
+  it('uses the fallback model when the primary JSON is structurally invalid', async () => {
+    const models: string[] = [];
+    const result = await (requestJsonWithFallback as any)({
+      apiBase: 'https://example.test/v1',
+      apiKey: 'test-key',
+      primaryModel: 'primary-model',
+      fallbackModel: 'gpt-5.6-luna',
+      prompt: 'return json',
+      fetchImpl: async (_url: string, options: any) => {
+        const body = JSON.parse(String(options?.body ?? '{}'));
+        models.push(body.model);
+        return modelResponse(body.model === 'primary-model' ? { wrong: true } : { ok: true });
+      },
+      validateValue: (value: any) => value?.ok === true || ['missing ok field'],
+    });
+    expect(result.model).toBe('gpt-5.6-luna');
+    expect(models).toEqual(['primary-model', 'gpt-5.6-luna']);
   });
 });
 
@@ -61,6 +88,8 @@ describe('AI orchestration integration', () => {
       pubTimeFormatted: '09-08 20:00',
       snippet: `Short evidence ${index}`,
       fullContent: `Full source article body ${index}`,
+      contentStatus: 'full',
+      contentParagraphs: 2,
       imageUrl: null,
       sourceName: 'Example News',
       sourceSlug: 'example',

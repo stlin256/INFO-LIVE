@@ -87,6 +87,15 @@ describe('Context Pack', () => {
     expect(pack.relatedArticles[1].excerpt.length).toBeLessThanOrEqual(600);
   });
 
+  it('preserves chunk lineage so translators know which segment they received', () => {
+    const pack = buildContextPack({
+      runId: 'run-1', taskId: 'translate-1', role: 'translator', targetLanguage: 'zh',
+      article: { id: 'article-1', title: 'T', source: 'S', sourceLang: 'en', publishedAt: '2026-09-09T12:00:00Z', url: 'https://example.test/a', fullContent: 'body' },
+      lineage: { sourceItemIds: ['article-1'], chunkIndex: 2, chunkCount: 4 },
+    });
+    expect(pack.lineage).toMatchObject({ sourceItemIds: ['article-1'], chunkIndex: 2, chunkCount: 4 });
+  });
+
   it('limits topic history to the recent eight events and latest two summaries', () => {
     const pack = buildContextPack({
       topicContext: {

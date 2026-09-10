@@ -70,6 +70,20 @@ describe('expert agent registry', () => {
 });
 
 describe('agent input and result contracts', () => {
+  it('handles malformed, unknown and nullable inputs explicitly', () => {
+    expect(validateAgentInput('missing-role', {} as never).valid).toBe(false);
+    expect(validateAgentInput(null as never).valid).toBe(false);
+    const invalid = validateAgentInput('media-evidence', inputFor('media-evidence', {
+      article: { ...inputFor('media-evidence').article, imageUrl: 'file:///tmp/image.jpg' },
+      evidence: null,
+    }));
+    expect(invalid.valid).toBe(false);
+    expect(invalid.errors.join('\n')).toMatch(/imageUrl|plain object/);
+    expect(validateAgentInput('fact-extractor', inputFor('fact-extractor', {
+      article: { ...inputFor('fact-extractor').article, publishedAt: 'not-a-date' },
+    })).valid).toBe(false);
+  });
+
   it('validates common metadata and role-specific minimum input', () => {
     const valid = validateAgentInput('fact-extractor', inputFor('fact-extractor'));
     expect(valid).toMatchObject({ valid: true, ok: true, errors: [] });
@@ -119,6 +133,7 @@ describe('agent input and result contracts', () => {
     });
     expect(invalid.valid).toBe(false);
     expect(invalid.errors.join('\n')).toMatch(/status|citations/);
+    expect(validateCommonResult(null as never, 'evidence-merger').valid).toBe(false);
   });
 });
 
@@ -140,5 +155,14 @@ describe('agent data safety', () => {
     });
     expect(result.valid).toBe(false);
     expect(result.errors.some((error: string) => error.includes('apiKey'))).toBe(true);
+  });
+
+  it('rejects dangerous schemes, credentials and excessive nesting at every boundary', () => {
+    expect(validateSafeFields({ url: 'vbscript:alert(1)' }).valid).toBe(false);
+    expect(validateSafeFields({ token: 'sk-12345678901234567890' }).valid).toBe(false);
+    let nested: Record<string, unknown> = {};
+    for (let index = 0; index < 14; index += 1) nested = { nested };
+    expect(validateSafeFields(nested).valid).toBe(false);
+    expect(validateAgentResult('translator', null as never).valid).toBe(false);
   });
 });

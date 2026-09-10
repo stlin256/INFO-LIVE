@@ -1,6 +1,32 @@
 import { describe, expect, it } from 'vitest';
-import { renderArticleCard, renderLiveWireStream } from '../scripts/site-writer.mjs';
+import { isPublishableArticle, renderArticleCard, renderLiveWireStream, renderSourceBadge, selectPublishableStories } from '../scripts/site-writer.mjs';
 import { storyIdForUrl } from '../scripts/story-id.mjs';
+
+describe('发布内容选择', () => {
+  it('excludes untranslated or short-source stories from article cards', () => {
+    const publishable = {
+      url: 'https://example.test/full', contentStatus: 'full', translationStatus: 'full',
+      fullTranslation: '完整译文。'.repeat(80), translationParagraphs: 1,
+    };
+    expect(isPublishableArticle(publishable)).toBe(true);
+    expect(isPublishableArticle({ ...publishable, translationStatus: 'source-only' })).toBe(false);
+    expect(isPublishableArticle({ ...publishable, contentStatus: 'short-source' })).toBe(false);
+    expect(selectPublishableStories([publishable, { ...publishable, url: 'https://example.test/short', translationStatus: 'source-only' }])).toEqual([publishable]);
+  });
+
+  it('prefixes raw asset paths for GitHub Pages builds', () => {
+    const oldActions = process.env.GITHUB_ACTIONS;
+    const oldRepository = process.env.GITHUB_REPOSITORY;
+    process.env.GITHUB_ACTIONS = 'true';
+    process.env.GITHUB_REPOSITORY = 'stlin256/INFO-LIVE';
+    try {
+      expect(renderSourceBadge('Official Source', 'bbc')).toContain('src="/INFO-LIVE/assets/sources/bbc.svg"');
+    } finally {
+      if (oldActions === undefined) delete process.env.GITHUB_ACTIONS; else process.env.GITHUB_ACTIONS = oldActions;
+      if (oldRepository === undefined) delete process.env.GITHUB_REPOSITORY; else process.env.GITHUB_REPOSITORY = oldRepository;
+    }
+  });
+});
 
 describe('新闻文章卡片渲染', () => {
   const base = {
@@ -52,6 +78,15 @@ describe('快讯流链接', () => {
     ], [{ id: 'story-test-1', url: 'https://example.test/article' }]);
     expect(markdown).toContain('href="#story-test-1"');
     expect(markdown).toContain('href="https://example.test/other" target="_blank"');
+  });
+
+  it('does not create an internal link for an overflow story that is not rendered', () => {
+    const overflow = Array.from({ length: 15 }, (_, index) => ({ id: `story-${index}`, url: `https://example.test/${index}` }));
+    const markdown = renderLiveWireStream([
+      { time: '12:36', source: 'Source', sourceSlug: 'bbc', text: '外部标题', originalText: 'External', url: 'https://example.test/14' },
+    ], overflow);
+    expect(markdown).toContain('href="https://example.test/14" target="_blank"');
+    expect(markdown).not.toContain('href="#story-14"');
   });
 });
 

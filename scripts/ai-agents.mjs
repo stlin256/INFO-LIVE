@@ -336,6 +336,7 @@ export function validateAgentInput(roleOrInput, maybeInput) {
 
 function validateCommonEnvelope(agent, result) {
   const errors = [];
+  if (!isPlainObject(result)) return ['result must be a plain object'];
   pushRequiredErrors(result, COMMON_RESULT_REQUIRED, errors);
   if (result.schemaVersion !== 1) errors.push('schemaVersion must be 1');
   if (result.role !== agent.role) errors.push(`role must be ${agent.role}`);

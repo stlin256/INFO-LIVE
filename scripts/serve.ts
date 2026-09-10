@@ -30,14 +30,18 @@ export const io: ServeIO = {
 };
 
 /** dist/ 静态服务（GET/HEAD；目录索引 index.html；404.html 兜底；防穿越） */
-export function createStaticServer(plan: ServePlan, dist: string = distDir): http.Server | https.Server {
+export function createStaticServer(plan: ServePlan, dist: string = distDir, basePath = '/'): http.Server | https.Server {
   const handler = (req: http.IncomingMessage, res: http.ServerResponse) => {
     if (req.method !== 'GET' && req.method !== 'HEAD') {
       res.writeHead(405, { 'content-type': 'text/plain; charset=utf-8' });
       res.end('Method Not Allowed');
       return;
     }
-    const pathname = new URL(req.url ?? '/', 'http://localhost').pathname;
+    const rawPathname = new URL(req.url ?? '/', 'http://localhost').pathname;
+    const normalizedBase = `/${String(basePath || '/').replace(/^\/+|\/+$/g, '')}/`.replace(/^\/\/$/, '/');
+    const pathname = normalizedBase !== '/' && (rawPathname === normalizedBase.slice(0, -1) || rawPathname.startsWith(normalizedBase))
+      ? rawPathname.slice(normalizedBase.length - 1) || '/'
+      : rawPathname;
     const file = resolveStaticPath(dist, pathname, io);
     if (!file) {
       const notFound = resolveStaticPath(dist, '/404.html', io);
