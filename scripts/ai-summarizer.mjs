@@ -16,6 +16,10 @@ import { storyIdForUrl } from './story-id.mjs';
 
 export { translateForeignTitle };
 
+function isHeadlinePlaceholder(text) {
+  return /外文(?:信源)?标题(?:正在进行中文翻译|尚未完成中文翻译)/u.test(String(text || ''));
+}
+
 function hasUntranslatedLatinPhrase(text) {
   return /\b[A-Za-z]{3,}(?:[ '\u2019-]+[A-Za-z]{3,})+\b/u.test(String(text || ''));
 }
@@ -24,6 +28,7 @@ function hasChineseTitle(text) {
   const value = String(text || '').trim();
   const hasUntranslatedScript = /[\u0400-\u04ff\u0600-\u06ff\u0370-\u03ff]/u.test(value);
   return !hasUntranslatedScript
+    && !isHeadlinePlaceholder(value)
     && isChineseReadableText(value, { minChars: 2, minRatio: 0.30 });
 }
 

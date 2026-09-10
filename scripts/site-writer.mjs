@@ -16,13 +16,27 @@ import { storyIdForUrl } from './story-id.mjs';
 
 const PUBLISHABLE_TRANSLATION_MIN_CHARS = 240;
 
+function isHeadlinePlaceholder(text) {
+  return /外文(?:信源)?标题(?:正在进行中文翻译|尚未完成中文翻译)/u.test(String(text || ''));
+}
+
 function hasUntranslatedForeignPhrase(text) {
   return /[\u0400-\u04ff\u0600-\u06ff\u0370-\u03ff]/u.test(String(text || ''));
 }
 
+function safeChineseEditorialText(text, fallback = '外文信号正在进行中文翻译，暂不展示未翻译内容。') {
+  const value = String(text || '').replace(/\s+/g, ' ').trim();
+  const foreignScript = hasUntranslatedForeignPhrase(value);
+  const chinese = (value.match(/[\u3400-\u4dbf\u4e00-\u9fff]/gu) || []).length;
+  const visible = (value.match(/[\p{L}\p{N}]/gu) || []).length;
+  if (!value || foreignScript || isHeadlinePlaceholder(value) || chinese < 2 || (visible > 0 && chinese / visible < 0.45)) return fallback;
+  return value;
+}
+
 function hasReadableChineseTitle(story) {
   const title = String(story?.title || '').trim();
-  return !hasUntranslatedForeignPhrase(title)
+  return !isHeadlinePlaceholder(title)
+    && !hasUntranslatedForeignPhrase(title)
     && isChineseReadableText(title, { minChars: 2, minRatio: 0.30 });
 }
 
@@ -642,7 +656,7 @@ export function writeSiteData(data, rawItems = []) {
 
   if (hourly.signals && hourly.signals.length > 0) {
     for (const sig of hourly.signals) {
-      indexLines.push(`- ${sig}`);
+      indexLines.push(`- ${safeChineseEditorialText(sig)}`);
     }
   }
   indexLines.push(':::');
@@ -1002,13 +1016,14 @@ export function writeSiteData(data, rawItems = []) {
     archiveLines.push(`**速报纪要：** ${snap.hourlyBriefing?.lead || '全球多源监控全景简报。'}`);
     archiveLines.push('');
     if (snap.hourlyBriefing?.signals && snap.hourlyBriefing.signals.length > 0) {
-      archiveLines.push(`**关键信号：** ${snap.hourlyBriefing.signals.join('；')}`);
+      archiveLines.push(`**关键信号：** ${snap.hourlyBriefing.signals.map((signal) => safeChineseEditorialText(signal)).join('；')}`);
       archiveLines.push('');
     }
     if (snap.topStories && snap.topStories.length > 0) {
       archiveLines.push('**重点要闻索引：**');
       for (const st of snap.topStories.slice(0, 6)) {
-        archiveLines.push(`- [${st.source}] [${st.title}](${cleanUrl(st.url)}) <span class="news-meta-time">🕒 ${st.pubTime || ''}</span>`);
+        const archiveTitle = hasReadableChineseTitle(st) ? st.title : '外文信源标题正在进行中文翻译，暂不展示未翻译标题';
+        archiveLines.push(`- [${st.source}] [${archiveTitle}](${cleanUrl(st.url)}) <span class="news-meta-time">🕒 ${st.pubTime || ''}</span>`);
       }
     }
     archiveLines.push(':::');

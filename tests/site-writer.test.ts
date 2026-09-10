@@ -11,6 +11,7 @@ describe('发布内容选择', () => {
     };
     expect(isPublishableArticle(publishable)).toBe(true);
     expect(isPublishableArticle({ ...publishable, translationStatus: 'source-only' })).toBe(false);
+    expect(isPublishableArticle({ ...publishable, title: '外文信源标题正在进行中文翻译，暂不展示未翻译标题', sourceLang: 'en' })).toBe(false);
     expect(isPublishableArticle({ ...publishable, contentStatus: 'short-source' })).toBe(false);
     expect(selectPublishableStories([publishable, { ...publishable, url: 'https://example.test/short', translationStatus: 'source-only' }])).toEqual([publishable]);
   });
@@ -79,6 +80,10 @@ describe('快讯流链接', () => {
     ], [{ id: 'story-test-1', url: 'https://example.test/article' }]);
     expect(markdown).toContain('href="#story-test-1"');
     expect(markdown).toContain('href="https://example.test/other" target="_blank"');
+
+    const safeMarkdown = renderLiveWireStream([{ time: '12:37', source: 'RIA', text: 'Рютте после поражения', originalText: 'Рютте после поражения', url: 'https://example.test/russian' }], []);
+    expect(safeMarkdown).not.toContain('Рютте');
+    expect(safeMarkdown).toContain('中文翻译');
   });
 
   it('does not create an internal link for an overflow story that is not rendered', () => {
