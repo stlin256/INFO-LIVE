@@ -41,6 +41,7 @@ function deriveChineseTitleFromTranslation(text) {
 
 function isChineseNarrative(text, minimum = 2) {
   const value = String(text || '').replace(/\s+/g, ' ').trim();
+  if (isHeadlinePlaceholder(value)) return false;
   const chinese = chineseCharacterCount(value);
   const visible = (value.match(/[\p{L}\p{N}]/gu) || []).length;
   const hasNonLatinForeignScript = /[\u0400-\u04ff\u0600-\u06ff\u0370-\u03ff]/u.test(value);
@@ -655,16 +656,30 @@ function compactEvidenceText(value, maxChars = 280) {
 }
 
 function buildEvidenceFallback(items, timeInfo) {
-  const usable = items.filter((item) => item.title || item.snippet || item.fullContent);
+  const candidates = items.filter((item) => item.title || item.snippet || item.fullContent);
+  const isChineseSource = (item) => String(item?.sourceLang || '').toLowerCase() === 'zh';
+  const hasChineseTranslation = (item) => isChineseReadableText(item?.fullTranslation, { minChars: 40, minRatio: 0.16 });
+  // Fallback editorial surfaces must be evidence-bearing Chinese content. Do
+  // not spend the limited signal slots on untranslated foreign teasers; once
+  // article translators finish, the caller rebuilds this fallback from the
+  // translated story objects.
+  const usable = candidates.filter((item) => (
+    (isChineseSource(item) && isChineseReadableText(item?.title, { minChars: 2, minRatio: 0.30 }))
+    || (hasChineseTranslation(item) && hasChineseTitle(item?.title))
+  ));
   const evidenceLine = (item) => {
     const title = readableChineseHeadline(item);
-    const isChinese = String(item.sourceLang || 'zh').toLowerCase() === 'zh';
-    const excerpt = isChinese ? compactEvidenceText(item.snippet || item.fullContent, 220) : '';
+    const translated = hasChineseTranslation(item)
+      ? compactEvidenceText(String(item.fullTranslation).split(/\n\s*\n/).find(Boolean) || item.fullTranslation, 220)
+      : '';
+    const excerpt = translated || (isChineseSource(item) ? compactEvidenceText(item.snippet || item.fullContent, 220) : '');
     return excerpt
       ? `【${item.sourceName}】${title}：${excerpt}`
-      : `【${item.sourceName}】${title}：外文正文正在进行中文翻译，暂不展示未翻译原文。`;
+      : `【${item.sourceName}】${title}：已记录中文标题，正文证据仍在整理。`;
   };
-  const signals = usable.slice(0, 8).map(evidenceLine);
+  const signals = usable.length > 0
+    ? usable.slice(0, 8).map(evidenceLine)
+    : ['本轮外文信源尚未完成中文翻译，未翻译内容已隐藏。'];
   const dimensions = new Map();
   for (const item of usable) {
     const { dimension, dimensionLabel } = inferDimensionAndStance(item);
@@ -845,6 +860,15 @@ export async function summarizeWithAI(items) {
   }
 
   deskData.ticker = rebuildChineseTicker(items, uniqueStories, timeInfo);
+
+  // Rebuild local overview evidence after article translation tasks finish.
+  // This keeps a degraded hourly/daily editor run useful instead of showing
+  // repeated untranslated placeholders.
+  const refreshedFallback = buildEvidenceFallback(uniqueStories, timeInfo);
+  baseSynthesis.hourlyBriefing = refreshedFallback.hourlyBriefing;
+  baseSynthesis.dailyBriefing = refreshedFallback.dailyBriefing;
+  baseSynthesis.perspectiveMatrix = refreshedFallback.perspectiveMatrix;
+  baseSynthesis.socialTrends = refreshedFallback.socialTrends;
 
   for (const [index, story] of analysisStories.entries()) {
     const facts = harnessResult.outputs['article-' + index + '-fact-extractor'];
