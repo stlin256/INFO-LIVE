@@ -2,9 +2,7 @@ name: Hourly InfoLive Feed & Deploy
 
 on:
   schedule:
-    # Two offsets provide a fallback if GitHub delays or drops one scheduled event.
-    - cron: '17 * * * *'  # Primary: every hour at :17 UTC
-    - cron: '47 * * * *'  # Fallback: same hour at :47 UTC
+    - cron: '17 * * * *'  # Every hour at :17 UTC; avoids the top-of-hour scheduler peak
   workflow_dispatch:      # Allows manual trigger at any time
   push:
     branches: [master, main]
@@ -63,7 +61,7 @@ jobs:
             ] | length')
           if (( same_hour_count > 0 )); then
             echo "should_run=false" >> "$GITHUB_OUTPUT"
-            echo "A scheduled run for $COMMIT_SHA already exists this UTC hour; skipping the fallback offset."
+            echo "A scheduled run for $COMMIT_SHA already exists this UTC hour; skipping the duplicate scheduled run."
           else
             echo "should_run=true" >> "$GITHUB_OUTPUT"
           fi

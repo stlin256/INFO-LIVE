@@ -10,7 +10,6 @@ on:
     branches: [main, master] # 代码变更触发
   schedule:
     - cron: '17 * * * *'  # 每小时 :17 UTC（主调度）
-    - cron: '47 * * * *'  # 每小时 :47 UTC（漏调度兜底）
   workflow_dispatch:        # 手动触发
 ```
 
@@ -89,5 +88,5 @@ steps:
 
 ## 4. 已定细节
 
-- ✅ 定时：每小时运行两次调度尝试（`:17` 主调度、`:47` 兜底），同一 UTC 小时只执行一次实际采集；改频率/基准时间 = 编辑 `.github/workflows/hourly-feed.yml` 的 cron 行（见上方说明）。
+- ✅ 定时：每小时在 `:17` UTC 运行一次调度；同一 UTC 小时只执行一次实际采集；改频率/基准时间 = 编辑 `.github/workflows/hourly-feed.yml` 的 cron 行（见上方说明）。
 - ✅ 快照包含编辑器的 `.snapshots/` 版本历史，线上产物可找回误删内容。

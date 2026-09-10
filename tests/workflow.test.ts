@@ -5,10 +5,9 @@ const workflowPath = new URL('../.github/workflows/hourly-feed.yml', import.meta
 const specPath = new URL('../docs/specs/08-workflow.md', import.meta.url);
 
 describe('hourly feed workflow scheduling', () => {
-  it('keeps an hourly primary schedule plus an offset fallback', async () => {
+  it('keeps an hourly schedule away from the top-of-hour peak', async () => {
     const workflow = await readFile(workflowPath, 'utf8');
     expect(workflow).toContain("- cron: '17 * * * *'");
-    expect(workflow).toContain("- cron: '47 * * * *'");
     expect(workflow).toContain("- 'data/**'");
     expect(workflow).toContain('timeout-minutes: 55');
   });
@@ -25,8 +24,7 @@ describe('hourly feed workflow scheduling', () => {
   it('documents the actual workflow path and cadence', async () => {
     const spec = await readFile(specPath, 'utf8');
     expect(spec).toContain('.github/workflows/hourly-feed.yml');
-    expect(spec).toContain('每小时运行两次调度尝试');
-    expect(spec).toContain('`:17` 主调度');
-    expect(spec).toContain('`:47` 兜底');
+    expect(spec).toContain('每小时在 `:17` UTC 运行一次调度');
+    expect(spec).toContain('`:17` UTC');
   });
 });
