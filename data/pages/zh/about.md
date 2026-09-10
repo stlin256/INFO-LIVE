@@ -9,7 +9,7 @@ description: "InfoLive 架构设计、开源代码仓库与自动化工作流说
 
 **InfoLive** 是一个开源、全自动、由前沿大模型驱动的全球全源信息流与实时要闻矩阵平台。
 
-<div class="infolive-project-logo"><img class="infolive-logo-light" src="/assets/infolive-logo.svg" alt="InfoLive Global Signal Matrix 项目 Logo" width="920" height="240" loading="eager" /><img class="infolive-logo-dark" src="/assets/infolive-logo-dark.svg" alt="" aria-hidden="true" width="920" height="240" loading="eager" /></div>
+<div class="infolive-project-logo"><img class="infolive-logo-light" src="/INFO-LIVE/assets/infolive-logo.svg" alt="InfoLive Global Signal Matrix 项目 Logo" width="920" height="240" loading="eager" /><img class="infolive-logo-dark" src="/INFO-LIVE/assets/infolive-logo-dark.svg" alt="" aria-hidden="true" width="920" height="240" loading="eager" /></div>
 
 ## 🚀 官方开源代码仓库
 

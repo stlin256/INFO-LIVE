@@ -14,16 +14,34 @@ notice:
 💡 **历史检索指南**：本站所有历史简报与事件记录均已建立永久档案，并生成静态全文索引。按下快捷键 <kbd>Ctrl+K</kbd>（Mac: <kbd>Cmd+K</kbd>）或点击右上角搜索放大镜图标，输入任意关键词（如“普京”、“DeepSeek”、“原油”、“阿布扎比”等），即可在毫秒级内检索全库历史记录。
 :::
 
+## 📅 按日期查询完整历史
+
+- [2026-09-10 · 今日](/INFO-LIVE/archive-2026-09-10/)
+- [2026-09-09 · 历史快照](/INFO-LIVE/archive-2026-09-09/)
+
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **10** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **11** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 04:20 (UTC+8)
+- **最新归档时间**：2026-09-10 09:40 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 09:40 (UTC+8)" title="全球要闻情报简报 · 09:40" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-10 09:31 (UTC+8) 完成，共获得 774 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【RIA Novosti (俄新社官方俄文)】Врач назвала дневную норму сахара；【FOX News Latest (美国FOX快讯)】Bryce Underwood addresses Kyle Whittingham's comments about remaining starting QB at Michigan：Michigan Wolverines QB Bryce Underwood feigned ignorance when asked about Kyle Whittingham questioning his starting job after the Week 1 win.；【France 24 (EN 官方英语原版)】At least five killed, 87 missing after ferry fire in Philippines：At least five people died and 87 remained unaccounted for Thursday after a ferry caught fire off the Philippine island province of Palawan, with 42 passengers and crew rescued. Coast guard teams continued search and resc；【Phys.org (基础物理与技术前沿)】The trapdoor spiders giving a leg up to science：WA's trapdoor spiders are endangered. Jackson Rendall is here to help—because he thinks they're "just really cool."；【The Guardian (英国卫报官方英文)】Australian politics live: Taylor says Hanson should delete One Nation ‘traitor’ cartoon; Moira Deeming joins Family First：Follow the day’s news live Labor introducing new laws to crack down on illegal tobacco Labor will introduce new laws to make it easier to prosecute criminals involved in the illicit tobacco trade, as the government fight；【TASS (塔斯社官方英文)】Medvedev calls for improving UN institutes：The system for implementing UN decisions also needs improvement, Security Council's deputy chairman added；【RIA Novosti (俄新社官方俄文)】Ким Чен Ын поблагодарил военных КНДР, участвующих в зарубежной операции；【NPR World (美国国家公共电台官方英文)】Fetterman, already at odds with his party, makes surprise video for GOP convention：The Pennsylvania Democrat has already had a strained relationship with many inside his party. In the video, he spoke about working with Trump but did not outright praise him.
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [Врач назвала дневную норму сахара](https://ria.ru/20260910/sakhar-2116711061.html) <span class="news-meta-time">🕒 2026-09-10 09:27</span>
+- [Hacker News (科技前沿论坛)] [I'm sorry, you're not going to die from an AI-engineered supervirus](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from) <span class="news-meta-time">🕒 2026-09-10 09:02</span>
+- [CNBC Markets (CNBC 市场官方英文)] [蚂蚁国际与Visa、万事达卡合作开发人工智能支付](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) <span class="news-meta-time">🕒 2026-09-10 08:00</span>
+- [The Guardian Society (卫报社会与民生)] [UK chancellor urged to remove £100k childcare ‘cliff edge’ prompting parents to cut work hours](https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours) <span class="news-meta-time">🕒 2026-09-10 07:01</span>
+- [Phys.org (基础物理与技术前沿)] [The trapdoor spiders giving a leg up to science](https://phys.org/news/2026-09-trapdoor-spiders-leg-science.html) <span class="news-meta-time">🕒 2026-09-10 09:20</span>
+- [FOX News Latest (美国FOX快讯)] [Bryce Underwood addresses Kyle Whittingham's comments about remaining starting QB at Michigan](https://www.foxnews.com/outkick-sports/bryce-underwood-addresses-kyle-whittingham-comments-remaining-starting-qb-michigan) <span class="news-meta-time">🕒 2026-09-10 09:25</span>
+:::
 :::timeline-item{start="2026-09-10 04:20 (UTC+8)" title="全球要闻情报简报 · 04:20" org="ARCHIVE"}
 **速报纪要：** 全球多源监控全景简报。
 
