@@ -12,6 +12,7 @@ on:
       - 'docs/**'
 
 permissions:
+  actions: read
   contents: write
 
 concurrency:
@@ -19,7 +20,37 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  dedupe:
+    name: Skip duplicate scheduled run
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.check.outputs.should_run }}
+    steps:
+      - name: Check whether this commit was already processed
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+          COMMIT_SHA: ${{ github.sha }}
+          CURRENT_RUN_ID: ${{ github.run_id }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [[ "$EVENT_NAME" != "schedule" ]]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          active_count=$(gh run list --repo "$REPOSITORY" --workflow hourly-feed.yml --commit "$COMMIT_SHA" --json databaseId,status --limit 20 --jq '[.[] | select((.databaseId | tostring) != env.CURRENT_RUN_ID) | select(.status == "queued" or .status == "in_progress")] | length')
+          success_count=$(gh run list --repo "$REPOSITORY" --workflow hourly-feed.yml --commit "$COMMIT_SHA" --json databaseId,conclusion --limit 20 --jq '[.[] | select((.databaseId | tostring) != env.CURRENT_RUN_ID) | select(.conclusion == "success")] | length')
+          if (( active_count > 0 || success_count > 0 )); then
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            echo "A scheduled run for $COMMIT_SHA is already active or succeeded; skipping duplicate work."
+          else
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          fi
+
   feed-and-deploy:
+    needs: dedupe
+    if: needs.dedupe.outputs.should_run == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository

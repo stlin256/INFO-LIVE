@@ -143,7 +143,7 @@ export function inferDimensionAndStance(item) {
 /**
  * 权威高水准全篇全量中文深度编译引擎（450-800字地道中文，杜绝生硬外文残留）
  */
-function compileArticleLocally(it, _timeInfo) {
+export function compileArticleLocally(it, _timeInfo) {
   const pubTime = it.pubTimeFormatted || '发布时间未知';
   const originalTitle = it.title;
   const translatedTitle = translateForeignTitle(originalTitle, it.sourceLang || 'en');
@@ -184,6 +184,7 @@ function compileArticleLocally(it, _timeInfo) {
     translationStatus,
     contentStatus,
     contentSource,
+    contentKind: it.contentKind || (contentSource === 'official-page' ? 'official-page-body' : 'rss-summary'),
     contentParagraphs: it.contentParagraphs || countContentParagraphs(sourceBody),
     imageUrl: it.imageUrl || null,
     keyTakeaways,

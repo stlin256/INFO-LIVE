@@ -91,8 +91,8 @@ describe('快讯流链接', () => {
 });
 
 describe('稳定故事锚点', () => {
-  it('uses a readable suffix for ordinary URLs and a hash for non-Latin URLs', () => {
-    expect(storyIdForUrl('https://example.test/story-123')).toBe('story-story123');
-    expect(storyIdForUrl('https://例子.test/文章')).toMatch(/^story-[a-f0-9]{12}$/);
+  it('uses a readable suffix plus a collision-resistant hash', () => {
+    expect(storyIdForUrl('https://example.test/story-123')).toMatch(/^story-story-123-[a-f0-9]{16}$/);
+    expect(storyIdForUrl('https://例子.test/文章')).toMatch(/^story-item-[a-f0-9]{16}$/);
   });
 });

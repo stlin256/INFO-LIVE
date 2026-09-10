@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it } from 'vitest';
-import { requestJsonWithFallback, splitArticleIntoChunks, summarizeWithAI } from '../scripts/ai-summarizer.mjs';
+import { compileArticleLocally, requestJsonWithFallback, splitArticleIntoChunks, summarizeWithAI } from '../scripts/ai-summarizer.mjs';
 
 const originalFetch = globalThis.fetch;
 const originalKey = process.env.AI_API_KEY;
@@ -26,6 +26,26 @@ function modelResponse(value: unknown) {
   });
 }
 
+describe('编译文章元数据', () => {
+  it('保留 RSS 正文类型，避免质量门禁误判为摘要', () => {
+    const story = compileArticleLocally({
+      title: 'Original headline',
+      link: 'https://example.test/story',
+      sourceName: 'Example News',
+      sourceSlug: 'example',
+      sourceLang: 'en',
+      category: 'world',
+      fullContent: '第一段官方正文。'.repeat(50),
+      contentStatus: 'full',
+      contentSource: 'rss',
+      contentKind: 'rss-body',
+      pubDate: '2026-09-10T00:00:00Z',
+      pubTimeFormatted: '09-10 08:00',
+    }, {});
+    expect(story.contentSource).toBe('rss');
+    expect(story.contentKind).toBe('rss-body');
+  });
+});
 describe('AI article chunking', () => {
   it('splits long articles at paragraph boundaries without exceeding the local budget', () => {
     const chunks = splitArticleIntoChunks('第一段。'.repeat(900) + '\n\n' + '第二段。'.repeat(900), 1000);

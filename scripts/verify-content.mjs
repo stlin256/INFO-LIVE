@@ -3,9 +3,15 @@ import path from 'node:path';
 import { JSDOM } from 'jsdom';
 
 export const REQUIRED_ROUTES = ['index.html', 'ai/index.html', 'world/index.html', 'markets/index.html', 'trends/index.html'];
+// These pages do not contain article cards, but they are still user-facing
+// build outputs. Keeping them out of the deployment probe meant a broken
+// archive/About/source page could ship while the five news routes passed.
+export const SUPPORTING_ROUTES = ['archive/index.html', 'about/index.html', 'sources/index.html'];
+export const VERIFIED_ROUTES = [...REQUIRED_ROUTES, ...SUPPORTING_ROUTES];
 export const MIN_HOME_CARDS = 8;
 export const MIN_TRANSLATION_CHARS = 240;
 export const MIN_TRANSLATION_PARAGRAPHS = 1;
+export const MIN_PAGE_TEXT_CHARS = 40;
 
 function deploymentBasePrefix() {
   const configured = process.env.ASTRO_BASE
@@ -48,22 +54,32 @@ function describeCard(card, route) {
   };
 }
 
-export function inspectHtml(html, route = 'index.html', { strictHome = route === 'index.html', strictAll = false, expectedBasePrefix = '' } = {}) {
+function pageText(doc) {
+  const root = (doc.querySelector('main') || doc.body)?.cloneNode(true);
+  if (!root) return '';
+  root.querySelectorAll('script, style, noscript, template').forEach((node) => node.remove());
+  return (root.textContent || '').replace(/\s+/g, ' ').trim();
+}
+
+export function inspectHtml(html, route = 'index.html', { strictHome = route === 'index.html', strictAll = false, expectedBasePrefix = '', requireCards = true } = {}) {
   const doc = new JSDOM(String(html)).window.document;
   const issues = [];
   const cards = [...doc.querySelectorAll('.md-grid-cell')].filter((card) => card.querySelector('.news-card-header'));
-  if (cards.length === 0) issues.push(route + ': 未找到文章卡片');
+  if (requireCards && cards.length === 0) issues.push(route + ': 未找到文章卡片');
   if (strictHome && cards.length < MIN_HOME_CARDS) issues.push(route + ': 首页文章卡片不足（' + cards.length + ' < ' + MIN_HOME_CARDS + '）');
   const ids = new Set();
   for (const card of cards) {
     const item = describeCard(card, route);
     const header = card.querySelector('.news-card-header');
-    const hasMetadata = Boolean(header?.dataset.contentStatus && header?.dataset.translationStatus && header?.dataset.contentSource && header?.dataset.contentKind && header?.dataset.contentKind !== 'rss-summary' && header?.dataset.timeSource === 'publication' && header?.hasAttribute('data-published-at'));
-    const isShort = item.contentStatus !== 'full'
+    const hasMetadata = Boolean(header?.dataset.contentStatus && header?.dataset.translationStatus && header?.dataset.contentSource && header?.dataset.contentKind && header?.dataset.timeSource === 'publication' && header?.hasAttribute('data-published-at'));
+    const isSummaryOnly = item.contentKind === 'rss-summary';
+    const isShort = isSummaryOnly
+      || item.contentStatus !== 'full'
       || item.translationStatus !== 'full'
       || item.contentLength < MIN_TRANSLATION_CHARS
       || item.contentParagraphs < MIN_TRANSLATION_PARAGRAPHS;
     if (strictAll && !hasMetadata) issues.push(route + ': 文章缺少内容状态元数据：' + item.title);
+    if (strictAll && isSummaryOnly) issues.push(route + ': 文章仍为 RSS 摘要，不能作为核心全文发布：' + item.title);
     if (strictAll && (!header?.dataset.publishedAt || Number.isNaN(Date.parse(header.dataset.publishedAt)))) {
       issues.push(route + ': 缺少可解析的新闻发布时间（不是抓取时间）：' + item.title);
     }
@@ -95,6 +111,7 @@ export function inspectHtml(html, route = 'index.html', { strictHome = route ===
   }
   const emptyCells = [...doc.querySelectorAll('.md-grid-cell')].filter((cell) => !(cell.textContent || '').trim());
   if (emptyCells.length) issues.push(route + ': 存在空白内容单元格（' + emptyCells.length + '）');
+  if (pageText(doc).length < MIN_PAGE_TEXT_CHARS) issues.push(route + ': 页面正文为空或过短');
   if (expectedBasePrefix) {
     const prefix = expectedBasePrefix.endsWith('/') ? expectedBasePrefix : `${expectedBasePrefix}/`;
     for (const element of doc.querySelectorAll('[src^="/"], [href^="/"]')) {
@@ -111,12 +128,18 @@ export function inspectHtml(html, route = 'index.html', { strictHome = route ===
 export async function verifyDist(distDir = 'dist', { strictHome = true } = {}) {
   const reports = [];
   const issues = [];
-  for (const route of REQUIRED_ROUTES) {
+  for (const route of VERIFIED_ROUTES) {
     const file = path.join(distDir, route);
     let html;
     try { html = await fs.readFile(file, 'utf8'); }
     catch { issues.push(route + ': 构建产物缺失：' + file); continue; }
-    const report = inspectHtml(html, route, { strictHome: strictHome && route === 'index.html', strictAll: true, expectedBasePrefix: deploymentBasePrefix() });
+    const isArticleRoute = REQUIRED_ROUTES.includes(route);
+    const report = inspectHtml(html, route, {
+      strictHome: strictHome && route === 'index.html',
+      strictAll: isArticleRoute,
+      requireCards: isArticleRoute,
+      expectedBasePrefix: deploymentBasePrefix(),
+    });
     reports.push(report); issues.push(...report.issues);
   }
   const result = { ok: issues.length === 0, issues, reports };
@@ -157,12 +180,18 @@ export async function verifyRemoteSite(baseUrl, { fetchImpl = fetch, retries = 1
         issues.push(base + 'deploy-manifest.json: 请求失败：' + (error instanceof Error ? error.message : String(error)));
       }
     }
-    for (const route of REQUIRED_ROUTES) {
+    for (const route of VERIFIED_ROUTES) {
       const target = base + route;
       try {
         const response = await fetchImpl(target, { headers: { 'User-Agent': 'InfoLive-Content-Verification/1.0', Accept: 'text/html' } });
         if (!response.ok) throw new Error('HTTP ' + response.status);
-        const report = inspectHtml(await response.text(), 'remote:' + target, { strictHome: strictHome && route === 'index.html', strictAll: true, expectedBasePrefix: new URL(base).pathname.replace(/\/$/, '') });
+        const isArticleRoute = REQUIRED_ROUTES.includes(route);
+        const report = inspectHtml(await response.text(), 'remote:' + target, {
+          strictHome: strictHome && route === 'index.html',
+          strictAll: isArticleRoute,
+          requireCards: isArticleRoute,
+          expectedBasePrefix: new URL(base).pathname.replace(/\/$/, ''),
+        });
         reports.push(report);
         issues.push(...report.issues);
       } catch (error) {
