@@ -21,14 +21,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **12** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **13** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 10:09 (UTC+8)
+- **最新归档时间**：2026-09-10 10:49 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 10:49 (UTC+8)" title="全球要闻情报简报 · 10:49" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-10 10:37 (UTC+8) 完成，共获得 790 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【RIA Novosti (俄新社官方俄文)】Америка при победе демократов станет коммунистической, заявил Трамп；【ANSA Mondo (意大利安莎社官方意大利文)】Panama valuta l'assunzione di medici stranieri：Il fine è arginare la carenza di specialisti nel settore pubblico；【TASS (塔斯社官方英文)】Trump suggests Strait of Hormuz be renamed Trump Strait：The US president separately said he is convinced that oil prices would go down after the US wins the war with Iran；【RIA Novosti (俄新社官方俄文)】Россиянки могут родить здоровых детей и в 35 лет, заявили в Союзе педиатров；【The Guardian (英国卫报官方英文)】Deadly Philippines ferry fire leaves scores of people missing：Forty-three people rescued and early death toll stands at five after blaze aboard MV ‌June Aster in waters off Coron, Palawan, says coast guard Five people were confirmed dead ⁠in early counting and ​more than 80 were mi；【RIA Novosti (俄新社官方俄文)】Трамп рассказал, кто просил его отложить атаку на Иран；【RIA Novosti (俄新社官方俄文)】Трамп пообещал заплатить американцам, если республиканцы победят на выборах；【The Guardian (英国卫报官方英文)】Australia politics live: Coalition rejects Labor’s ‘unacceptable’ plan to regulate harmful content on social media：Follow the day’s news live Labor introducing new laws to crack down on illegal tobacco Labor will introduce new laws to make it easier to prosecute criminals involved in the illicit tobacco trade, as the government fight
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [Америка при победе демократов станет коммунистической, заявил Трамп](https://ria.ru/20260910/tramp-2116714220.html) <span class="news-meta-time">🕒 2026-09-10 10:35</span>
+- [GitHub Blog (工程技术博客)] [GitHub availability report: August 2026](https://github.blog/news-insights/company-news/github-availability-report-august-2026/) <span class="news-meta-time">🕒 2026-09-10 10:05</span>
+- [MarketWatch Top Stories (市场观察)] [Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch](https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 10:04</span>
+- [The Guardian Society (卫报社会与民生)] [搬进护理院的年轻健康荷兰人——播客](https://www.theguardian.com/news/audio/2026/sep/10/the-young-and-healthy-dutchman-who-moved-into-a-care-home-podcast) <span class="news-meta-time">🕒 2026-09-10 10:00</span>
+- [Phys.org (基础物理与技术前沿)] [Four in five researchers report harmful interactions during geoscience fieldwork. A new survey suggests a path forward.](https://phys.org/news/2026-09-interactions-geoscience-fieldwork-survey-path.html) <span class="news-meta-time">🕒 2026-09-10 10:20</span>
+- [ANSA Mondo (意大利安莎社官方意大利文)] [巴拿马评估聘用外国医生](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/panama-valuta-lassunzione-di-medici-stranieri_54c635f1-ad4a-443a-bffd-bd890bf20feb.html) <span class="news-meta-time">🕒 2026-09-10 10:31</span>
+:::
 :::timeline-item{start="2026-09-10 10:09 (UTC+8)" title="全球要闻情报简报 · 10:09" org="ARCHIVE"}
 **速报纪要：** 全球多源监控全景简报。
 

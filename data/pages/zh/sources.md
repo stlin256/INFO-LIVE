@@ -50,10 +50,7 @@ description: "InfoLive 接入的全球 55+ 权威通讯社、国际组织与专�
 | <span class="source-badge"><img src="/INFO-LIVE/assets/sources/reddit.svg" class="source-icon" alt="Reddit r/worldnews (国际公众热议)" width="16" height="16" /> <strong>Reddit r/worldnews (国际公众热议)</strong></span> | `en` | ⭐ 8/10 | ✅ 16 条 | [直达官方一手源网 ↗](https://www.reddit.com/r/worldnews/top/.rss?t=day) |
 | <span class="source-badge"><img src="/INFO-LIVE/assets/sources/reddit.svg" class="source-icon" alt="Reddit r/technology (科技伦理热议)" width="16" height="16" /> <strong>Reddit r/technology (科技伦理热议)</strong></span> | `en` | ⭐ 8/10 | ⚠️ HTTP 429 | [直达官方一手源网 ↗](https://www.reddit.com/r/technology/top/.rss?t=day) |
 | <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span> | `en` | ⭐ 8/10 | ✅ 16 条 | [直达官方一手源网 ↗](https://lobste.rs/rss) |
-| <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nature.svg" class="source-icon" alt="Nature News (自然科学顶级期刊)" width="16" height="16" /> <strong>Nature News (自然科学顶级期刊)</strong></span> | `en` | ⭐ 10/10 | ⚠️ Attribute without value
-Line: 13
-Column: 5
-Char: / | [直达官方一手源网 ↗](https://www.nature.com/nature.rss) |
+| <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nature.svg" class="source-icon" alt="Nature News (自然科学顶级期刊)" width="16" height="16" /> <strong>Nature News (自然科学顶级期刊)</strong></span> | `en` | ⭐ 10/10 | ✅ 16 条 | [直达官方一手源网 ↗](https://www.nature.com/nature.rss) |
 | <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Science Magazine (科学杂志)" width="16" height="16" /> <strong>Science Magazine (科学杂志)</strong></span> | `en` | ⭐ 9/10 | ✅ 10 条 | [直达官方一手源网 ↗](https://www.science.org/rss/news_current.xml) |
 | <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nasa.svg" class="source-icon" alt="NASA News (深空探索与航天)" width="16" height="16" /> <strong>NASA News (深空探索与航天)</strong></span> | `en` | ⭐ 8/10 | ✅ 10 条 | [直达官方一手源网 ↗](https://www.nasa.gov/news-release/feed/) |
 | <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span> | `en` | ⭐ 8/10 | ✅ 16 条 | [直达官方一手源网 ↗](https://phys.org/rss-feed/) |
