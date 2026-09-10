@@ -26,18 +26,189 @@ notice:
 
 ## 💬 思想社区与网民观点争鸣
 
-### 🗣️ undefined
-> **舆论争鸣聚焦**：undefined
-
-### 🗣️ undefined
+### 🗣️ LG智能电视被指监控与录音争议
 > **舆论争鸣聚焦**：undefined
 
 ## 📰 社会民生、思潮与社群核心要闻
 
 ::::grid{cols=2}
 :::cell
+<div id="story-ix-science-first-release-363f8beccfcabbff" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1427" data-content-paragraphs="1" data-published-at="2026-09-10T11:45:49.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 19:45</span>
+</div>
+
+### [Guix-Science 迎来首个版本发布](https://hpc.guix.info/blog/2026/09/guix-science-first-release/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Announcing the first Guix-Science release</div>
+
+<div class="article-body" data-article-body="true"><p>我们非常激动地宣布 Guix-Science 频道的首个版本：v20260907。<br />这是来自 Guix-Science 项目的专用 Guix 频道。该频道提供了一个全面的、由社区驱动的科学软件目录，适用于全球科学界。<br />随着 Guix 在科学研究领域的应用日益增多，对打包研究和教学领域所用软件的需求也与日俱增。尽管 Guix 项目鼓励用户向 Guix 主频道贡献软件包，但有些软件包无法纳入其中，原因在于它们不符合 Guix 的打包策略，或者是因为它们过于专业化而无法在高性能计算（HPC）环境之外使用。Guix-Science 频道的政策比 Guix 主频道更为宽松；尤其是在使用预构建组件方面。此外，它比 Guix 本身拥有更宽松的弃用政策。<br />Guix-Science 频道由科研从业者维护，并服务于科研从业者。我们将该频道视为涵盖广泛领域的科学软件包核心枢纽。这使得社区能够共同分担打包和维护工作。我们鼓励大家参与到频道的开发中来。此外，软件包一旦被纳入 Guix-Science，二进制替代物（binary substitutes）就会在我们自己的基础设施上构建，并公开供所有人使用。<br />Guix 遵循滚动发布模式。这意味着一旦软件包合入 master 分支，用户就会收到更新。因此，Guix-Science 频道也遵循相同的方式。得益于 guix time-machine 命令，用户无需担心频道的更新会破坏其环境。该机制允许用户固定其频道，从而掌控更新其环境的时机。<br />在日常使用中，科研从业者经常会遇到一个困扰：Guix 与 Guix-Science 频道需要保持兼容。尽管 Guix 和 Guix-Science 的维护者都尽最大努力避免出现损坏，但仍可能发生 Guix 中某个不相关的更改对某些 Guix-Science 软件包产生影响、甚至导致其损坏的情况。<br />Guix-Science 的正式版本（release）是 Guix-Science 与 Guix 的快照，在该快照中，Guix-Science 提供的所有软件包均可正常安装。一次发布即是 Guix-Science 频道的一个带有标签的提交（tagged commit），其中提供了一个 channels 文件。该 channels 文件声明了 Guix-Science 对 Guix 本身频道的依赖关系。如果你查看带有标签的提交说明，会看到以下部分：<br />标签名称遵循以下模式：vYYYYMMDD。<br />你可以通过以下方式在 Guix-Science 的检出目录中查看并验证该标签的内容：<br />要获取该发布版本，你有两种选择：<br />使用 guix time-machine：<br />如果你是首次使用 Guix-Science，这将导致报错：<br />为了解决这个问题，可以通过将以下代码片段添加到 ~/.config/guix/trusted-channels.scm 中，将 Guix-Science 标记为“受信任”：<br />该发布版本包含来自广泛科学领域的 2,354 个软件包。<br />本版本的亮点包括：<br />展望未来，我们计划进行定期发布。请关注 Guix-Science - Releases。我们鼓励所有人参与到该频道中来。<br />除非另有说明，本站上的博文版权归各自作者所有，并根据 CC-BY-SA 4.0 许可证以及 GNU 自由文档许可证（1.3 或更高版本，无不变章节、无封面文本且无封底文本）的条款发布。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Guix-Science频道的首个版本v20260907正式发布。</li>
+    <li>Guix-Science是来自Guix-Science项目的专用Guix频道，提供面向全球科学界的软件目录。</li>
+    <li>来源叙事重点：宣布 Guix-Science 专有频道首个快照版本 v20260907 的正式发布，强调其如何通过更宽松的打包准则、独立的二进制替代构建基础设施以及联合快照机制，解决科研高性能计算（HPC）场景下的软件兼容性与环境可重现性痛点。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://hpc.guix.info/blog/2026/09/guix-science-first-release/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-g-nec-v20-microcode-html-ea8b1816920f014c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1341" data-content-paragraphs="19" data-published-at="2026-09-10T10:44:09.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 18:44</span>
+</div>
+
+### [破译 NEC V20 微码](https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Decoding the NEC V20 Microcode</div>
+
+<div class="article-body" data-article-body="true"><p>reenigne 在 2020 年对 8088 微码的破译，为实现对 8088 CPU 的极高精度模拟打开了大门。</p>
+<p>尽管我之前在 MartyPC 中添加了对 NEC V20 的支持，但从 V20 的实际时序来看，该 V20 核心并非周期精确（cycle-accurate）的。它实质上是披着 V20 外皮的 8088——直接复制粘贴了我的 8088 核心，并额外附加了 V20 的指令。</p>
+<p>这并非理想状态，但在缺乏微码的情况下试图让 V20 核心达到周期精确，似乎注定是一场令人望而生畏、耗时费力的试错苦旅。</p>
+<p>既然如此，为什么不直接去获取微码呢？</p>
+<p>最近我委托 InfoSecDJ 拍摄了一枚 NEC V20 CPU 的芯片裸片（die）照片（实际上是由夏普代工的第二货源 V20，但归根结底仍然是 V20）。他的拍摄工作极为出色。</p>
+<p>这张拼接全景照片拥有极高的分辨率——确切地说是 56 亿像素（5.6 Gigapixels），达到了惊人的 70478x80672 分辨率——甚至大到了 JPEG 图像格式都无法容纳的地步！</p>
+<p>你可以在这里查看全分辨率的完整图像。</p>
+<p>芯片中心正下方的矩形区域就是主微码 ROM。</p>
+<p>这就是一次模型训练运行时的样子。</p>
+<p>如果你拥有支持 CUDA 的 GPU，训练会相当迅速——这仅仅花费了几分钟。</p>
+<p>其核心思路是，我们希望最大化准确率——但达到 1.0 可能并不可行，甚至可能不是件好事（存在一种名为“过拟合”的现象）。有时训练时间更长只会让结果变得更糟，因此当我们观察不到持续改善时，就会终止训练。</p>
+<p>训练的输出是一个神经网络模型——随后我们可以使用该模型对整个输入数据集运行推理。推理只是一个高大上的词汇，指应用我们的模型去实际执行训练它做的事情——预测给定的图像中包含的是 0 比特还是 1 比特。</p>
+<p>在继续之前，先作一个简短说明以避免潜在争议：从计算机科学的角度来看，卷积神经网络（CNN）宽泛地属于人工智能（AI）的范畴，但我们并没有使用现代具有争议语境下的“AI”（该语境通常指大型语言模型，即 LLM）。</p>
+<p>当我们运行一次推理时，会得到每个像素的置信度分数。我们可以利用这个置信度分数，根据某个特定的阈值（这里我使用了 &lt; 99%）标记出模型不太确信的比特。以下是第一次运行的结果，其中存疑的比特被标为了红色：</p>
+<p>我把所有存疑的比特挑选出来，手动重新归类到训练文件夹中，然后重新运行训练，反复重复这一过程，直到得到如下结果：</p>
+<p>这个效果相当不错——仅剩下 4 个比特存疑，与其再去训练一个新模型，直接手动核对这些比特要快得多。</p>
+<p>太棒了，我们获得了这 2.9 万个微码比特，并省下了数小时繁琐的手工劳动（代价是花了数小时用 Python 编写训练脚本，但至少该脚本是可以复用的！）。</p>
+<p>我们仍需要把这团矩形比特数据转换成由 29 位微码字组成的列表。换句话说，我们需要重新组织位图，直到其尺寸变为 29x1032，而不是现在的 258x116。具体该如何实现这一点并不显而易见，但我们可以先将其搁置一旁，待我们破译完相匹配的解码 PLA 后再来处理。</p>
+<p>解码或称“激活”PLA 位于主微码 ROM 块的上方，中间夹着一些过渡电路。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>reenigne在2020年解码了8088微代码，为8088 CPU的高精度仿真奠定了基础。</li>
+    <li>MartyPC作者此前添加了NEC V20支持，但其核心并未实现周期精确（cycle-accurate），实质是复制8088核心并附加V20指令。</li>
+    <li>来源叙事重点：记录通过高分辨率晶片显微摄影（Die Photography）结合自建CNN图像识别模型提取NEC V20 CPU内部微代码（Microcode ROM）的技术流程、迭代优化成果及后续PLA解码挑战</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-it-breaks-a-village-5e2bd164df4280f1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6677" data-content-paragraphs="59" data-published-at="2026-09-10T10:38:37.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 18:38</span>
+</div>
+
+### [摧毁一个村落：Bevy 的六周岁生日](https://blog.fallible.net/it-breaks-a-village/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> It Breaks a Village: Bevy&#39;s 6th Birthday</div>
+
+<div class="article-body" data-article-body="true"><p>这篇文章与我所有的博文一样，均由我本人撰写。它源于我与许多人的大量交流与反思。文章篇幅较长。我向你保证，完整且持开放心态阅读本文，而不是仅仅总结或只看标题，是有其价值所在的。</p>
+<p>文中所表达的观点纯属个人意见，不代表与我相关的任何个人、组织或公司。</p>
+<p>感谢所有就这一话题与我交谈过的 Bevy 社区成员。<br />（去年回顾：GiGF 与 Bevy 的五周岁生日）</p>
+<p>今年初夏，Bevy 游戏引擎接连发生了一系列积极正面的事情。随着 0.19 版本的发布，BSN 宏最终完成合并。我们拥有了声明式数据模型，UI 如今变得切实可行。面向真正艺术创作工具的底层基石已经就绪。这是一项具有里程碑意义的成就。</p>
+<p>与之相得益彰的是，Rustweek 2026 是我在线下与技术人士交流中最愉悦的一次经历。我结识了许多优秀的人，日夜进行着精彩的对话。我没有遇到任何不愉快的经历，遇见的每一个人交流和相处起来都非常令人舒心，我非常希望能再次与这些人共度时光。</p>
+<p>然而从那之后，事情开始变得棘手起来。</p>
+<p>近几个月来，我一直在致力于对插件 API 进行全面重构。其目标是重塑插件系统，从而实现依赖管理，并让未来的工具链更加强大。这一设计最终是否会被纳入引擎尚未可知，但我正在努力证明它是一个出色的方案。等我整理出一篇专门的博文后，我会将其发布在我的技术博客上。我的动机已经发布在其他地方，但我很快会再次发文阐述。</p>
+<p>而在过去的 5 周里，这项工作几乎完全搁置了，因为眼下尝试编写与 Bevy 相关的代码让我感到彻底的反胃。胃部翻江倒海，直想呕吐。我的思绪总是不受控制地翻涌，思考着在当前这个时间节点上，作为一名开源贡献者究竟意味着什么。</p>
+<p>拥有这种具体感受的或许只有我一人，但觉得眼下为 Bevy 作贡献感觉极其糟糕的，绝不止我一个。</p>
+<p>注：过去几天里讨论有所增加，这可能会让人觉得我是在评论刚刚发生的近期事件，但我这里的大部分论点实际上早在数周前就已经列出大纲并起草完毕了。</p>
+<p>Bevy 最近通过了一项新的“AI”政策1，（按声明的初衷来看）它比以往稍微宽松了一些。从纸面上看，它无可厚非。但问题恰恰出在其制定的背景脉络上。</p>
+<p>出台该新政策的既定理由是，我们需要对人们使用大语言模型（LLM）的现状保持“务实”，而且此前的政策“无法执行”。文中引用了一些案例，指出某些人的个人资料和拉取请求（PR）未能通过直觉审查（sniff test），但当唯一的证据只是一种特定的代码异味（code smell）或一个私密/可疑的 GitHub 个人资料时，便无法确切证实。</p>
+<p>从这个角度来看，举证责任被不公正地强加在“指控者”身上，而非“被指控者”。这虽然映照了许多司法体系的做法，但拒绝一个 PR 并不等同于监禁、罚款或死刑。它只是一种温和的社交后果，相当于对在爱丁堡艺穗节上分发演出传单的人，或者散发当地奇怪宗教宗派传单的人说一句“不用了，谢谢”。</p>
+<p>这项政策在向公众开放“辩论”和修改期之前，大部分内容就已经在领域专家（SMEs）及其他相关方之间预先敲定了。在此期间，许多大语言模型爱好者开始公开畅想更为宽松的政策，构想一旦完全自主的智能体模式（agentic modes）被允许后他们能做些什么。与此同时，几乎所有反对使用“AI”的论点都或多或少地被摒弃或忽视了。自该政策合并以来，棘轮便在不断收紧推进。</p>
+<p>这种经历就像是目睹了一把刀生生切开了 Bevy 项目的社交肌理。</p>
+<p>如果不算 Discord，围绕这项新政策最公开的高调宣传便出现在 Bevy 六周岁生日的博文中。如此公开、摊在明面上谈论此事，让我内心百感交集。但如果我还想让 Bevy 成为一个我能够继续使用并为之贡献的项目，我觉得自己别无选择。</p>
+<p>在持续的网络挑衅（trolling）和相互冲突的社区价值观的双重挤压下，社区凝聚力已然分崩离析。</p>
+<p>关于“AI”的对话被置于两个拥有同等话语权、理应受到同等评判的对立面。这与当前的背景大相径庭——Bevy 是一款作为创意工具的游戏引擎，人们（包括我自己）耗费了数年生命去学习、探讨和推广它，寄望于 Rust 能够为艺术家/游戏开发者构筑坚实的土壤。然而，面对近期那些更为高调的大语言模型爱好者肤浅的投入，这一深层背景直到对话后期才被承认。而承认也并未转化为对“AI”政策的实质性修改。</p>
+<p>此前 LLM 政策的“不可执行性”，在很大程度上更像是一种借口，而非进行修订的正当理由。如果说大家对现行 LLM 政策有什么看法的话，那就是它被视为权宜之计或极易妥协之物，人们默认随后还会出台下一个更为宽松的 LLM 政策，那为何还要信任它？当人们已经在无视其界限时，又为何要信任它？</p>
+<p>此外，Bevy 以往的政策为那些在日常工作或人际关系中不得不应对“AI”鼓吹者、LLM 狂热粉、“AI”强制使用令等事物的人群提供了一片安全空间2。这种自上而下的文化转变，在更深层面上摧毁了人们的信任，其严重程度远超既有考量。</p>
+<p>人们自身的立场被视作发起“猎巫”和骚扰行动的前奏。大家不再相信我们的立场是出于善意，反而认为我们只会以具有存在性威胁的方式发泄情绪，被指责为“不顾现实”或“毫无实质论据”。这种情况甚至演变到了只要询问一个 PR 是否为 LLM 生成内容就会遭到抵触的地步，尽管信息披露原本就是现行政策的一部分。</p>
+<p>这种情况伤及双方。关于 Bevy 治理方向的私下沟通让人们不再信任管理层。大家觉得自己未被倾听、未受尊重。社区成员也无法及时反映管理和审核问题。矛盾不断积压，人心涣散。人们开始在背后议论纷纷，这引发了接二连三的偏执猜忌与普遍的不信任。</p>
+<p>对于一项主要先咨询领域专家、随后才开放讨论，且“不改变对‘AI’政策的态度”这一选项甚至根本不在讨论范围之内的“AI”政策而言，这种结果完全是在预料之中的。</p>
+<p>我之所以坦诚提出这一点，是因为我自己就一直活跃在这些所谓的“反 AI”3 私下渠道中。我深知许多人在私下里的真实感受。我也建立了一个“远离 AI 空间”（&#39;AI&#39;-Sober Space），作为 Bevy 项目及其使用者的替代开发空间。但这是一个几乎任何人都可以加入的开放空间，只要他们怀揣善意。我们遵守与 Bevy 项目其他部分相同的行为准则，并额外提醒大家：这里不欢迎网络挑衅行为。</p>
+<p>Bevy 的 Discord 中有一个 Showcase（作品展示）分类，人们可以在这里发布他们的 Bevy 项目，包括游戏更新、crate、开发日志和教程。</p>
+<p>#showcase 频道已经不再值得一看，如果你看重成长与学习甚于最终产物，这里甚至会令人感到沮丧。相当大一部分帖子都是关于“AI”驱动的项目。原本一个大家为了学习而互相鼓励喝彩的地方，如今几乎成了大语言模型（LLM）爱好者的领地。</p>
+<p>我们在 r/rust 以及其他链接聚合论坛上也看到了类似的情况：随着敷衍低质帖子的大量涌现，社区的热情正在消退。你无法通过内容审核来消除人们对某个话题的感受，只能管制他们在官方频道中发布的内容。人们在分享自己的作品时感觉更糟糕了，因为这些作品夹杂在那些缺乏投入、与 Bevy 关联薄弱的作品之间。他们也不愿意再去浏览 showcase，因为那里几乎没有什么用心之作，也缺乏社交互动。</p>
+<p>（注：本文写于“移除表情包与闲聊”讨论开始之前。自撰写本文以来，“#memes”频道已因“太难管理”而被移除。）</p>
+<p>在修改“AI”政策的前期，社区 Discord 中加入了一条看似中立的“禁止嘲讽（no dunking）”规则。其明确目的是减少在闲聊频道中发布的表达反感 AI 的表情包数量。</p>
+<p>我屏蔽了这些空间，我不是经常参与的人，但这让我感到很不舒服。这在过去是、并且现在依然是对 Bevy 原有社区规范的一种文化压制。这是为了让环境对“AI”用户“少一些敌意”而采取的单方面政策调整。</p>
+<p>“AI”政策本身也附带了“不得对‘AI’恶言相向”的规则。社区试图对 Nothing to Showcase 中的问题进行自我纠正的尝试之一，是在 showcase 频道中使用“🤖”表情对 LLM 项目做出反应。这也已被管理手段抹平了。在 Bevy 的 Discord 中，已经不再有任何温和的集体方式来劝阻 LLM 用户发布敷衍低质的内容。</p>
+<p>这一点很重要，因为我们通常是要把游戏推向大众市场的。</p>
+<p>Bevy 从 Rust 普遍持有的“我们重视高质量工作”的态度中继承了大量的社会声望。这是人们几乎默认尊重 Rust 以及用它编写的项目背后的文化基石——人们笃定有人在倾注心血。我们正处于这一声誉下滑的时期，这不是因为“永恒九月（eternal september）”，而是因为随着 LLM 爱好者用他们的提示词“盯上”Rust，这种关联度正在不断上升。</p>
+<p>在软件领域，一种奇怪的立场正在扎根：我们自身工作的价值，等同于 LLM 的输出。并不是说 LLM 的输出同样有价值，不，而是说我们和它一样毫无价值。这有时会被表述为“它们做得和你一样好！”，这与其说是夸奖，不如说是对被谈论的程序员的一种贬损。</p>
+<p>在人们如何从文化角度看待 LLM 输出方面，软件领域是一个异类。游戏引擎与软件圈外的人也存在着紧密关联。</p>
+<p>没人会特意从线上市场购买“AI 资产”。没人会向“AI 艺术家”约稿或寻求合作。关注“AI 艺术”账号的人……大多是“AI”吹捧者，或者部分被热闹噱头吸引的人。“AI”作品在 Steam 上立刻会遭到抵制，而且随着时间的推移，受到的抵制越来越大。</p>
+<p>游戏开发者将“AI”视作一种负债，玩家则将“AI”产物视为换皮虚假之作（asset-flip vapourware）。当人们听说某个项目中使用了“AI”，许多人便会对该项目失去信任。即便这“仅仅”是代码，也是如此。这被视为放弃责任、放弃用心。</p>
+<p>无论模型取得了多大“进步”，人们总能敏锐察觉到视频、文字、图像中的“AI 痕迹”。这是因为人们需要从外界过滤信息。“AI 输出”是噪声而非信号，而为了在互联网这样一层介质之上建立人与人之间的连接，你必须能够迅速过滤掉噪声。</p>
+<p>我们见到的支持使用 LLM 的主要论点是“它行得通/管用”。这一点值得商榷，不过如果你认为毋庸置疑，可以直接跳到下下段；此外，确认偏误可能会让它看起来比实际情况管用得多。我既不天真，也不是纯粹主义者，我接触过这些机器以了解它们的能力。但我并没有被打动。我认识一些被迫使用这些机器的人，他们同样没有被打动。</p>
+<p>这些模型固有的随机性使得所谓的“幻觉”成了一个棘手难解的问题。但忠实信徒们以为他们根本不必为此操心，坚信人们会去审查产出——哪怕人们根本没有投入足够的心力去仔细、全面理解“AI”输出，而且可能也没有充裕的时间。</p>
+<p>这种“它管用”的定调本身就存在问题，因为它把一个复杂的系统（游戏引擎的开发、使用和维护）当成了仅仅由“概念输入”和“代码输出”单元构成的系统。这很容易推销出去，因为这恰好符合我们对代码的直观理解。这也是在压榨性压力下，组织及其成员随着时间推移往往会产生的一种思维方式。这是一种抽象。</p>
+<p>这种定调所忽视的，是它对参与项目的人造成的影响。拥抱这些 LLM 的人受到鼓动，将不拥抱它们的人视作缺乏思考的卢德主义者或讨厌的清教徒。而那些不使用这些机器的人（或者被迫使用但内心抗拒的人，这部分人在“AI 用户”中占据了相当大一部分），则感到沮丧、丧失动力且被贬低。一种个人毫无价值的感觉油然而生，并且由于生产等式中社交维度的被无视，这种情绪在受到主动的助长。</p>
+<p>“AI”吹捧者与不想使用 LLM 的人之间的互动并不是对等的。在一个希望“远离 AI”的人群空间里大肆鼓吹“AI”，不仅具有破坏性而且充满对抗性，在明知故犯的情况下这么做无异于钓鱼甚至是明目张胆的网络挑衅。到目前为止，已经发展并传播了许多策略，其中很多都是围绕着贬低受挑衅对象、打击其士气展开的。这就像是诱导正在戒断的人复吸，或者诱导抑郁症患者自杀一样。挑起情绪失调就是其卑鄙的目的。</p>
+<p>“纳粹酒吧问题（The Nazi Bar problem）”的症结在于人们会对这种类比产生防备心。一个人所采取并拥护的立场，或是其表现出来的行为，可能会因为恐惧、沮丧或蔑视而将其他人从你身边或你管理的圈子中赶走。“纳粹酒吧问题”阐明了这一点，它并不是将该理论下分析的所有立场等同于新纳粹立场。</p>
+<p>“纳粹酒吧问题”描述了当那些破坏安全感、协作或社区氛围的人试图在一个空间中扎根时会发生什么：</p>
+<p>再次声明，这不仅仅关乎纳粹，尽管在过去 12 年的政治语境中谈论他们已经变得相当切题。在这个特定领域中，必读的书目是吉尔·杜兰（Gil Durán）近期的深度报道作品《极客帝国》（The Nerd Reich）8，或是《TESCREAL 组合》（Gebru &amp; Torres, 2024），不过这有些跑题了。</p>
+<p>关键在于，尖酸刻薄、反社会倾向的行为会导致原本在社区中备受珍视的成员离开。当这些人离开后，导致他们离开的人所表现出的行为便成了社区的新常态。这与普通的社区人员流失、正常的争执截然不同。</p>
+<p>“纳粹酒吧问题”也有其解决方案。一个解释起来非常简单的解决方案：</p>
+<p>这需要敏锐的眼光，以及挑战尖酸刻薄行为的意愿——无论“纳粹”会对社区空间或酒吧经营者的职业生涯施加何种暴力威胁。（3/分歧）永远是一个选项。即使它无法立刻撤销（4）和（5）。即使这令人感到不适。</p>
+<p>当面对这一框架时，网络喷子可能会辩解称，被他们挑衅的人才是社区中真正尖酸刻薄的成员，并指出人们在遭到蓄意敌对时的反应方式。版主的核心职责之一，就是在社区中有足够的在场度，以便能够辨别这些情况。这是典型的 DARVO（否认、攻击、倒打一耙，将施害者与受害者身份颠倒）。我们可以将其想象为如下情景：</p>
+<p>我在此提起这一点，并不是要在本篇博文中专门去辩论各种立场之间的混淆。我已经超出了自己承诺坚守的讨论范围。我提起这一点，是为了描述过去 4 个月左右 Bevy 社区所发生的剧烈变化：我目睹了先前备受珍视的社区成员因尖酸刻薄的行为被排挤出局。我目睹了那些将他们排挤出去的人在得逞后变得彬彬有礼，而他们之前的恶劣行径却被选择性忽视。</p>
+<p>不，而且这是一种极其可疑的定性方式。有史以来最庞大的结构性与资金支持正在全力推动“AI”的铺开。“AI 用户”中包括那些出于职场强制要求而不得不碰它的人，因为替代选择是“被开除”。遭受结构性压迫的是反抗抵制者，而不是使用者，且使用并不意味着赞同。</p>
+<p>试图将那些借助一场国际数万亿美元挥霍狂潮的文化与经济势能的人重新塑造成某种弱势群体，是一种主动的偷换概念，人们根本无需买账或予以认同。“AI”鼓吹者的立场是有偿购买来的，并且是在有史以来最强大的垄断巨头和职业影响力网络的支持下被强行塞进每个空间。站出来抵制它，才需要冒着极大的风险去以身试险。</p>
+<p>我并不认为使用这些机器的人是被污染的、不纯洁的，或者注定要遭受千年的折磨与痛苦。他们是“人-大语言模型”的完形结合体（gestalt），有些人是自愿的，有些人是被迫的。</p>
+<p>这些机器在设计时就考虑到了一个核心的面向用户9的目标：用户留存。它不需要提供真正的价值，只需要让人产生一种“如果不把注意力留在这台机器上、不去体会它带来的感觉，自己就是个傻子”的错觉。这包括编造关于此类机器高效率及其对人们工作流程产生影响的宏大叙事。</p>
+<p>这种用户体验（UX）目标利用了使用它们的人，这种利用并非将其视作某种物质，而是构建了一种机构与受体之间的关系。这种关系可以在赌场与赌徒之间看到，或者在本地毒品供应链与成瘾者之间看到，亦或是可以在一段不幸的婚姻中看到。这种关系营造出一种难以放手、却极易为自己为何必须留下寻找借口的境况。</p>
+<p>如果说这篇文章有什么核心结论的话，那就是：“参与 AI”与“使用 AI”并非命中注定。你可以戒掉这些东西。有时你可以靠自己做到，有时需要依靠身边的人，有时你可能永远无法掌控它。有时这些东西在你的生活中占据一定的空间，并不至于成为问题。但永远都会有出口，即使建筑师在设计这个空间时故意让出口变得难以触及。</p>
+<p>这是一篇非常聚焦于“AI 政策”余波的帖子。以下是一份如果让我展开详述，还需要花费一两周甚至十几周时间的清单：</p>
+<p>这就是全部了，一份关于问题与可执行解</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 18:38 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://blog.fallible.net/it-breaks-a-village/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-into-a-care-home-podcast-fbdbe8a37e5f4b1f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="336" data-content-paragraphs="3" data-published-at="2026-09-10T02:00:12.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="307" data-content-paragraphs="3" data-published-at="2026-09-10T02:00:12.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -46,21 +217,20 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 10:00</span>
 </div>
 
-### [搬进养老院的年轻健康荷兰人——播客](https://www.theguardian.com/news/audio/2026/sep/10/the-young-and-healthy-dutchman-who-moved-into-a-care-home-podcast)
+### [搬进养老院的年轻健康荷兰男子——播客](https://www.theguardian.com/news/audio/2026/sep/10/the-young-and-healthy-dutchman-who-moved-into-a-care-home-podcast)
 <div class="original-title-sub"><span class="orig-tag">原文</span> The young and healthy Dutchman who moved into a care home - podcast</div>
 
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/aed1958a63e697346db476733de90437e1698599/763_0_2699_2160/master/2699.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=619f688505cb18689ef8a8c6e346add8" alt="搬进养老院的年轻健康荷兰人——播客" loading="lazy" /></div>
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/aed1958a63e697346db476733de90437e1698599/763_0_2699_2160/master/2699.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=619f688505cb18689ef8a8c6e346add8" alt="搬进养老院的年轻健康荷兰男子——播客" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>护士特恩·托贝斯（Teun Toebes）与电影制作人乔纳森·德容（Jonathan de Jong）主张采用一种全新的激进方法来对待失智症患者并赋予他们自由，这一理念在他们的新电影和新书《永远是人》（Human Forever）中得到了充分展现。</p>
-<p>特恩·托贝斯第一次走进养老院时只有17岁，当时还是一名护理专业学生。他回忆说，自己走进了“封闭病房”，住在那里的老人都被锁在里面。在他看来，这生动地说明了我们在对待失智症时“是如何彻底迷失方向的”。</p>
-<p>特恩与电影制作人乔纳森·德容刚刚联合推出了一部名为《永远是人》（Forever Human）的纪录片，记录了他自那以后的照护历程：他先是在荷兰各地的养老院生活了数年，随后又走出国门，在世界各地寻找失智症照护的最佳典范。</p></div>
+<div class="article-body" data-article-body="true"><p>护士特恩·托贝斯（Teun Toebes）与电影制作人乔纳森·德容（Jonathan de Jong）主张采用一种激进的全新方式来对待失智症患者并赋予他们自由，这一理念在他们的影片和著作《永远是人》（Human Forever）中得到了展现。</p>
+<p>特恩·托贝斯第一次走进养老院时年仅17岁，还是一名实习护士。他回忆道，自己当时进入了“封闭病房”，那里的住户都被反锁在里面。他认为，这极其生动地说明了我们在对待失智症时是“如何迷失了方向”。</p>
+<p>特恩与电影制作人乔纳森·德容合作推出了一部纪录片《永远是人》，记录了他此后的照护历程：多年来居住在荷兰各地的养老院中，随后又走向国外，去寻找全球范围内最优秀的失智症照护范例。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>护士 Teun Toebes 与电影制作人 Jonathan de Jong 主张采取一种全新激进的方法来对待和赋予痴呆症（失智症）患者自由，并在他们的新电影和新书中进行了展示。</li>
-    <li>Teun Toebes 首次进入护理院时是一名 17 岁的实习护士。</li>
-    <li>来源叙事重点：聚焦荷兰年轻护士 Teun Toebes 亲自入住养老院的亲身体验，以及他与导演合作推出的纪录片/新书，批判传统封闭式失智症护理模式，主张赋予患者自由与尊严的激进改革</li>
+    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-10 10:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -74,7 +244,7 @@ notice:
 
 :::cell
 <div id="story-ts-are-not-firmware-bugs-6e88a4820394727c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1825" data-content-paragraphs="12" data-published-at="2026-09-10T00:48:47.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1887" data-content-paragraphs="10" data-published-at="2026-09-10T00:48:47.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -83,21 +253,19 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 08:48</span>
 </div>
 
-### [SystemIO 冲突并不是固件错误](https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/)
+### [SystemIO 冲突并非固件缺陷](https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> SystemIO conflicts are not firmware bugs</div>
 
-<div class="article-body" data-article-body="true"><p>我在查阅一些完全不相关的内容时，偶然看到了一些搜索结果，这让我意识到很多人仍然认为遇到类似于“ACPI Warning: SystemIO range 0x0000000000001828-0x000000000000182F conflicts with OpRegion 0x0000000000001800-0x000000000000187F”这样的错误意味着固件存在缺陷（bug）。这通常是不符合事实的。我们需要稍加深入地了解一下什么是 ACPI，才能理清其中的缘由。</p>
-<p>高级配置与电源接口（ACPI¹）规范定义了大量内容，但这里与我们密切相关的是它所实现的硬件抽象。尽管个人电脑（PC）名义上是一个规范明确的平台，但一旦复杂度超过一定程度，在硬件层面上就绝非如此了。例如，当挂起系统时，你希望按照正确的顺序关闭硬件电源，而获知该顺序需要了解具体主板设计的细节。嵌入式领域所采取的做法是以某种形式直接将这些信息固化进操作系统，这就是设备树（Devicetree）的由来。ACPI 则采取了另一种方式——它不是将这些信息作为供操作系统驱动程序读取的数据来提供，而是以代码的形式进行分发。</p>
-<p>每个方法都会获取一个锁（最多等待 0xffff 毫秒，若未获取则报错退出），然后执行访问。如此一来便彻底消除了发生竞态（race condition）的可能性。真是松了一口气！</p>
-<p>现在假设有人为该硬件编写了一个 Linux 驱动程序。它直接访问硬件，对 ACPI 一无所知。那有什么能阻止该驱动程序与某个 ACPI 访问方法发生竞态呢？完全没有。糟糕，又来了！顺便提一句，这并非凭空假设——这里有一个相对无害的例子，但在过去，我们确实遇到过温度监控芯片被固件和 Linux 同时访问的情况，结果就是你以为自己在读取温度，实际上读取的却是一个状态标志，导致读出高得不可思议的温度并立即触发热关机。</p>
-<p>在这种情况下，内核通过打印类似“ACPI Warning: SystemIO range 0x0000000000000400-0x000000000000401 conflicts with OpRegion 0x0000000000000400-0x0000000000000401 (OPR1)”的信息，将你从这种（可能损坏硬件的）后果中拯救出来。它告诉你在内核检测到一个驱动程序正试图分配 I/O 端口 0x400-0x401，但有一个名为 OPR1 的 ACPI 操作区域（operation region）声称占用了相同的地址。内核无法预知固件在该区域可能执行何种类型的访问，因此推测其可能存在危险，从而阻止驱动程序加载。</p>
-<p>但情况还没那么糟糕！内核还会打印一条有用的建议：“ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver”（如果该设备有可用的 ACPI 驱动程序，你应该使用它来代替原生驱动程序）。而且 ACPI 表中通常确实会包含类似如下的定义：</p>
-<p>它定义了一个 ACPI 设备及相关方法。_HID 字段定义了设备类型，如果检测到类型为 VEND0001 的设备，就可以编写一个能够自动加载的 Linux 驱动程序。该驱动程序随后便可调用与该设备关联的 ACPI 方法，并按照符合固件预期的方式访问资源。</p>
+<div class="article-body" data-article-body="true"><p>我原本在查阅一些完全不相干的内容，却偶然看到了一些搜索结果，让我意识到很多人依然认为收到诸如“ACPI Warning: SystemIO range 0x0000000000001828-0x000000000000182F conflicts with OpRegion 0x0000000000001800-0x000000000000187F”之类的报错意味着固件存在 bug。通常来说，事实并非如此。为了弄清楚原因，我们需要稍微深入了解一下 ACPI 是什么。</p>
+<p>高级配置与电源接口（Advanced Configuration and Power Interface）[1] 规范定义了海量内容，但对我们这里而言，最值得关注的是它所实现的硬件抽象。尽管名义上 PC 是一个规范明确的平台，但一旦复杂度超过一定限度，在硬件层面就绝非如此了。例如，当你要挂起系统时，你会希望按正确的顺序为硬件断电，而获知这一顺序则需要你掌握关于特定主板设计的细节。嵌入式领域采取的方案是将这些知识以某种形式直接硬编码到操作系统中，这也是我们最终使用设备树（Devicetree）的原因。ACPI 则采取了另一种方式——与其将这些信息作为必须由操作系统驱动程序读取的数据来提供，不如将其作为代码直接分发。</p>
+<p>每个方法都会获取一把锁（最长等待 0xffff 毫秒，若未获取到则报错退出），然后执行访问。这样一来，就不会再发生竞态条件了。呼，总算放心了！</p>
+<p>现在假设有人为这块硬件编写了一个 Linux 驱动程序。它在对 ACPI 一无所知的情况下直接访问硬件。有什么能阻止该驱动程序与 ACPI 访问方法之一发生竞态呢？完全没有。哦不！又来了！顺便提一句，这绝非凭空假设——这里有一个相对无害的例子，但在过去，我们确实遇到过温度监控芯片同时被固件和 Linux 访问的情况，结果导致你以为自己在读取温度，实际上读取的却是状态标志位，进而引发读数呈现不可能的高温，并立刻触发过热关机。</p>
+<p>在这种情况下，内核会打印类似“ACPI Warning: SystemIO range 0x0000000000000400-0x000000000000401 conflicts with OpRegion 0x0000000000000400-0x0000000000000401 (OPR1)”的消息，从而将你从这种（可能损坏硬件的）后果中拯救出来。该消息告诉你：内核检测到一个驱动程序正试图分配 I/O 端口 0x400-0x401，但有一个名为 OPR1 的 ACPI 操作区域（OpRegion）正在声明占用相同的地址。内核无法预知固件在该区域可能执行何种类型的访问，因此默认其可能存在危险，并阻止该驱动程序加载。</p>
+<p>不过，事情并非毫无转机！内核还会打印一些有用的建议：“ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver”（ACPI：如果该设备有可用的 ACPI 驱动程序，你应该使用它而不是原生驱动程序）。而且 ACPI 表中通常确实会包含类似这样的定义：</p>
+<p>它定义了一个 ACPI 设备及关联的方法。_HID 字段定义了设备类型，并且可以编写一个 Linux 驱动程序，在发现类型为 VEND0001 的设备时自动加载。然后，该驱动程序就可以调用与该设备关联的 ACPI 方法，并以符合固件预期的方式访问这些资源。</p>
 <p>（有兴趣编写这样的驱动程序吗？我在 2009 年曾写过一份指南）</p>
-<p>固件在这里完全没有做错任何事²，但尝试加载原生驱动程序会产生错误，而互联网上的言论会告诉你 PC 固件开发者有多么无能³，你应该传递一个内核参数来强制忽略这种行为——而且这对他们来说从没出过问题，可能对你也不会有事，但潜在风险依然存在，你可能永远也搞不明白为什么你的系统会偶尔卡死甚至烧毁。</p>
-<p>ACPI 规范过去托管在 acpi.info，但遗憾的是，在 UEFI 接管该规范的管理维护之后，该站点似乎就消失了 ↩︎</p>
-<p>你可能会辩称，固件在运行时根本不应该执行任何操作，因为这不是固件的职责。我完全理解这一点，如果你愿意，当然可以在启动时加上 acpi=off，这样在运行时就不会执行任何 ACPI 代码。效果如何不妨告诉我一声。↩︎</p>
-<p>我在此不对该言论发表观点，仅说明此情况并不能作为支持该说法的证据 ↩︎</p></div>
+<p>在此过程中，固件绝对没有做错任何事[2]，但是尝试加载原生驱动程序就会产生错误，而互联网上的声音会告诉你 PC 固件开发者都是酒囊饭袋[3]，你应该传入一个内核参数来覆盖这一行为，且他们这样做从来没出过事，这大概也不会给你带来什么损害，但风险确实存在，而且你可能永远也不会知道你的系统偶尔卡死或起火的真正原因。</p>
+<p>[1] ACPI 规范过去托管在 acpi.info，但遗憾的是，在 UEFI 接管该规范的维护工作后不久，该网站似乎就消失了 ↩︎<br />[2] 你可能会争辩说固件在运行时根本不应该做任何事，因为那不是固件该干的活；我完全理解这一点，如果你愿意，大可以使用 acpi=off 启动，这样运行时就不会执行任何 ACPI 代码。祝你好运，到时候告诉我效果如何。 ↩︎<br />[3] 我在此不对该观点置评，只是想说这并不能作为支持该论断的证据 ↩︎</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -117,7 +285,7 @@ notice:
 
 :::cell
 <div id="story-ll-request-by-booting-it-3dfc9249bbef2148" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1359" data-content-paragraphs="18" data-published-at="2026-09-10T00:32:35.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1374" data-content-paragraphs="18" data-published-at="2026-09-10T00:32:35.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -126,27 +294,27 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 08:32</span>
 </div>
 
-### [通过直接启动运行来审查 Pull Request](https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it)
+### [直接开机启动：审查 Pull Request 的全新方式](https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Review a pull request by booting it</div>
 
-<div class="article-body" data-article-body="true"><p>2026-09-09 · 4 分钟阅读</p>
-<p>太长不看（tl;dr）：trynix-preview 是一个 GitHub Action，它会在 Pull Request（PR）上评论一个链接，让你能够使用 https://trynix.dev 直接在浏览器中启动运行该 PR 构建出的产物。无需服务器，纯浏览器运行。</p>
-<p>在我之前关于 trynix 的文章结尾，我列出了一系列自认为在能够在浏览器中启动任意 /nix/store 路径后可以实现的想法。其中最显而易见的一个，就是让审查者能在浏览器中直接启动 PR 的构建版本，以便进行测试、验证和反馈。</p>
-<p>现在，这已经成为现实。🤯</p>
-<p>百闻不如一见：这是针对我的 sqlelf 项目的一个来自 fork 仓库的 Pull Request（PR#31），以及我们的 Action 在上面留下的评论：</p>
-<p>点击该链接，一个 Linux 机器就会在你的浏览器标签页中启动，并且该 PR 的 sqlelf 已经配置在 PATH 路径中。</p>
-<p>你没有克隆任何代码，没有构建任何东西。没有服务器，没有 SSH，没有 VPN，没有 Docker，没有虚拟机，也没有云端实例。只有一个浏览器和一个链接。😈</p>
-<p>与任何 GitHub Action 一样，只需在你的工作流中添加几行代码即可。</p>
-<p>需要注意的是，你必须已经构建并缓存了该路径，以便该 Action 能够链接到它。该 Action 本身并不构建或缓存任何内容。</p>
-<p>该 Action 不发布也不构建任何东西。无论是什么机制负责填充你的缓存，它都继续照常工作；而该 Action 的全部工作只是简单地通过 nix eval 提供 store 路径，并将缓存的 URL 和公钥传递给浏览器。</p>
-<p>你可以查看我的 trynix.yaml 工作流以获取完整示例。你必须在 actions/checkout 步骤中设置 allow-unsafe-pr-checkout: true，因为该工作流是在来自 fork 仓库的 Pull Request 上运行的，这存在安全隐患。我建议为 Pull Request 构建使用私有的隔离缓存，这样 fork 就无法向你的主缓存推送内容。</p>
-<p>如果你不喜欢这种方式，还有一个替代版本：维护者可以在 Pull Request 上输入 /trynix 来触发该工作流。</p>
-<p>在任何一种情况下，工作流都会在默认分支上运行并检出该 Pull Request 的代码，因此 fork 无法修改构建它自身的工作流。</p>
-<p>我是不是通过让审查者能轻松启动 PR 就颠覆了所有的 CI 产品？</p>
-<p>很遗憾，并没有。🥲</p>
-<p>对于大型二进制文件，性能表现相当糟糕。即使我借助 AI 对引擎进行了诸多改进，大型二进制文件仍可能需要 1 到 2 分钟才能执行。我在网站上添加了一个基准测试页面 https://trynix.dev/bench/，其中包含各种应用程序启动和运行时间的大量详尽数据。</p>
-<p>尽管如此，这依然是一个非常令人惊叹的工作流，并且充分展示了 Nix 的强大能力。</p>
-<p>也许随着我们越来越接近 AGI，我们的 AI 霸主们将能够优化该引擎，使其在几秒钟内执行大型二进制文件，但就目前而言，该 Action 最适合中小型二进制文件。</p></div>
+<div class="article-body" data-article-body="true"><p>2026-09-09 · 阅读时间 4 分钟</p>
+<p>简而言之（tl;dr）：trynix-preview 是一个 GitHub Action，它会在 Pull Request（PR）中评论一条链接，让你能够通过 https://trynix.dev 直接在浏览器中启动该 PR 的构建产物。无需服务器，仅凭浏览器即可运行。</p>
+<p>在我此前关于 trynix 的博文末尾，我列出了一系列设想——既然我们已经可以在浏览器中启动任意 /nix/store 路径，那么这些设想便成为了可能。其中最显而易见的一个构想，就是让代码审查者能够在浏览器中启动 PR 的构建版本，以便进行测试、验证并提供反馈。</p>
+<p>如今，这一设想已成现实。🤯</p>
+<p>千言万语不如一次演示：这里有一个针对我的 sqlelf 项目的分支（fork）发起的 Pull Request（PR#31），下方是我们这个 Action 在上面留下的评论：</p>
+<p>点击链接，你的浏览器标签页中就会启动一台 Linux 虚拟机，并且该 PR 构建的 sqlelf 已被添加到 PATH 环境变量中。</p>
+<p>你无需克隆任何代码，也无需构建任何东西。没有服务器，没有 SSH，没有 VPN，没有 Docker，没有虚拟机，也没有云端基础设施。只有一个浏览器和一条链接。😈</p>
+<p>就像其他任何 GitHub Action 一样，你只需在工作流中添加几行代码即可。</p>
+<p>唯一需要注意的是，你必须已经构建并缓存了该路径，这样 Action 才能链接到它。该 Action 本身既不负责构建，也不负责缓存任何内容。</p>
+<p>该 Action 不发布也不构建任何内容。无论此前由什么工具填充你的缓存，都让它继续运行；Action 的全部工作只是单纯通过 nix eval 提供 store 路径，并将缓存的 URL 和公钥传递给浏览器。</p>
+<p>你可以查看我的 trynix.yaml 工作流以获取完整示例。在 actions/checkout 步骤中，你必须设置 allow-unsafe-pr-checkout: true，因为该工作流运行在 fork 分支的 PR 上，这涉及到安全影响。我建议为 PR 构建配置独立的专用隔离缓存，以防止 fork 分支向你的主缓存推送内容。</p>
+<p>如果你不喜欢这种方式，也可以使用另一个版本：由维护者在 PR 中输入 /trynix 命令来触发该工作流。</p>
+<p>在任何一种情况下，工作流都会在默认分支上运行并检出 PR 的代码，因此 fork 分支无法篡改负责构建它的工作流本身。</p>
+<p>那么，我是不是凭借让审查者轻松启动 PR 这一点，就颠覆了所有的 CI 产品？</p>
+<p>遗憾的是，并没有。🥲</p>
+<p>大型二进制文件的性能表现相当糟糕。即便我在引擎中借助 AI 进行了诸多改进，大型二进制文件在执行时依然可能需要 1 到 2 分钟。我在网站上添加了一个基准测试页面 https://trynix.dev/bench/，其中包含各种应用在启动和运行时间方面的丰富数据。</p>
+<p>尽管如此，这依然是一个令人惊叹的工作流，并充分展现了 Nix 的强大能力。</p>
+<p>也许随着我们离通用人工智能（AGI）越来越近，我们的 AI 主宰将能够优化该引擎，使大型二进制文件能在数秒内执行完毕；但就目前而言，该 Action 最适合用于中小型二进制文件。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -166,7 +334,7 @@ notice:
 
 :::cell
 <div id="story-posts-primary-keys-452a70cbb08ab48b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4109" data-content-paragraphs="36" data-published-at="2026-09-09T18:31:44.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3991" data-content-paragraphs="2" data-published-at="2026-09-09T18:31:44.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -175,45 +343,11 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 02:31</span>
 </div>
 
-### [标识符设计与主键](https://anchorsandlinks.com/posts/primary-keys/)
+### [ID设计与主键](https://anchorsandlinks.com/posts/primary-keys/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> ID design and primary keys</div>
 
-<div class="article-body" data-article-body="true"><p>作者：Alexey Makhotkin（squadette@gmail.com，约2300字）<br />这是对数据库设计中主键进行系统性探讨的第一部分。和往常一样，我们呈现这些内容的方式有别于传统思路。<br />本文本质上是《数据库设计手册》（Database Design Book）的附赠章节。本文的目标是教会你如何根据业务需求来设计主键。<br />在第1部分中，我们先从逻辑层切入。<br />随后我们将深入到物理层。<br />在第2部分中，我们将讨论复合主键及其在数据库设计中的应用。</p>
-<p>让我们先暂时抛开数据库、表、主键以及其他存在于物理层面的概念。<br />我们首先需要关注的是业务需求，以及能够从业务需求中提炼出的逻辑模型。<br />在许多面向业务的系统中，某些实体需要具备唯一的标识符。例如：<br />我们将这类唯一标识符称为“外部 ID”（external ID）。它们可以被用于外部场景：通过电子邮件发送、打印在纸张上、在电话中口头告知。外部 ID 具有三个核心特征：<br />外部 ID 能够唯一标识一个实体：每个外部 ID 恰好对应一个实体。<br />反之则未必成立：单个实体可能没有外部 ID，可能拥有一个外部 ID，或者拥有多个外部 ID。例如，很多儿童没有护照。护照也可以补发或换发，但我们依然可以通过旧护照号码来识别某个人。<br />外部 ID 是可以变更的。好吧，我们需要将第一个特征描述得更严谨一些：“在任何给定的时刻，每个外部 ID 恰好对应一个实体”。例如，你可能想要修改自己的社交媒体用户名（handle），而其他人随后便可以注册你原来的旧用户名。因此，今天的用户 @alice 在日后可能就变成了另一位 Alice。<br />一个实体可能存在多种类型的外部 ID。例如，如果我们是在亚马逊上销售备件，它们既会有零件编号（由供应商分配），又会有 ASIN（由亚马逊分配）。</p>
-<p>现在我们可以重新记起我们拥有一个数据库，但讨论表和主键仍然为时过早。<br />在《数据库设计手册》中，我们使用了“锚点”（anchors）这一术语。锚点在很大程度上类似于实体，但我们不太喜欢“实体”这个词，因为它的歧义太大了。<br />锚点 ID（Anchor ID）是用于对锚点实例进行可靠且无歧义识别的必备要素。<br />假设我们维护着一个图书数据库，库中有 100 种书目。我们需要一种能够识别这 100 本书中每一本的方法，使得每本书都有一个锚点 ID，并且每个锚点 ID 都恰好对应一本书。<br />我们无法使用 ISBN，因为有些书籍并没有 ISBN。我们也无法直接使用书名：也许我们的藏书中就有五种不同版本的《圣经》，诸如此类。<br />解决该问题的常用方案是使用整数编号，从 1、2、3 开始依序递增。这样我们就会有 ID=1 的书、ID=2 的书，以此类推。我们可以在实际的数据库表中使用这些整数编号。它们本身没有任何固有含义。<br />对锚点 ID 的另一项要求是其不可变性：它的值永不改变。无实际含义的整数编号恰好满足这一要求，因为你根本无需更改它们：ID=2 并不比 ID=3 更好或更差。<br />简单的整数编号是最普遍的方案，但有时我们也有其他选择：<br />我们将在本系列文章的后续部分讨论此类场景。</p>
-<p>任何锚点 ID 原则上都可以作为外部 ID 使用，而且这种情况也经常发生。<br />然而，有时这样做并不可取。试想一个有用户下单的电子商务系统。每个订单都有一个订单 ID。毫无疑问，我们有一个“orders”表，其中包含一个包含自增整数 ID 的“orders.id”列。我们可以在确认邮件等场景中直接使用这些数字吗？<br />技术上我们当然可以，但这会为商业间谍行为留下可乘之机。我们的竞争对手可以通过定期下订单，来分析该顺序编号增长的速度。这使他们能够监测到你的业务数据，而这可能是你并不希望看到的。<br />为了规避这一点，你可以生成基于日期 + 随机数的 ID（例如“20261016-32767”）并在外部使用。它们会作为订单锚点（Order anchor）的一个属性进行存储，但仅用于你与客户之间沟通指代某个订单。<br />而在数据库内部的其他所有地方，你依然会使用那个无实际含义的整数编号，因为从技术角度来看它通常最为便捷。（我们稍后会讨论哪些情况下可能并非如此。）<br />请注意，即便这些外部 ID 是由我们自己的系统生成的，我们的系统也需要对它们进行验证和鉴权。例如，如果有人提交请求要求取消预约号 QIE3CB 的预订，我们需要确保该用户有权这样做。也许他们只是偶然偷听到了别人的预订号。</p>
-<p>有些外部 ID 是由我们自己的系统生成的。我们清楚它们的含义并信任它们。我们只需要对它们进行验证和鉴权。<br />但也有一些外部 ID 是由外部系统生成的。它们存在大量的潜在问题。<br />首先，某些看起来像是外部 ID 的东西甚至可能根本就算不上合格的外部 ID。例如，居住在两个不同国家的两个人碰巧拥有完全相同的护照号码。因此，护照号码本身可能根本不是一个好的外部 ID，因为按照定义，我们希望每个 ID 仅对应一个实体。<br />此外，如上文所述，ID 也有可能被伪造。<br />在很多情况下，你可能会判定这根本不是一个外部 ID，而仅仅是另一个不同锚点的属性值。例如，假设你正在构建一个航班订票系统。你要求客户输入护照号码——这个号码有多可靠？也许你只需要将其作为“预订”（Reservation）锚点的一个属性：“客户针对此预订提供的护照号码是什么？”你甚至不需要为护照单独设立一个锚点，你拥有的仅仅是属性值。</p>
-<p>假设我们已经证明某个标识符满足了上述各项要求。或者，它是由我们自己的系统生成的，因此我们在完成鉴权和验证后可以信任它。<br />然而，外部 ID 往往无法满足锚点 ID 的要求：<br />不过在某些情况下，这些额外要求也能得到满足，于是我们终于获得了一个可以用作锚点 ID 的合格外部 ID。这样就不再需要那些无实际含义的数字了，对吧？<br />稍后我们将讨论一些可以实现这一做法的用例。同时，我们还需要探讨你为什么会希望这么做。</p>
-<p>现在，让我们暂时抛开业务需求和逻辑模型，全身心投入到主键所在的物理层。<br />设想关系型数据库中的一张物理表。让我们打乱表名和列名，以便我们能够专注于探讨主键的本质。<br />以下是该表中的部分示例数据：<br />以下是该表的定义，包含列名、数据类型、主键定义以及唯一性约束：</p>
-<p>主键由一个或多个列组成，用于唯一标识表中的每一行。在这里，iro=5 对应第一行数据；iro=27 对应第二行数据，依此类推。</p>
-<p>你不能在 iro 列中存入 NULL 值，必须提供一个明确的整数值。此外，你不能再次添加例如 iro=5 的另一行：数据库将拒绝该操作并抛出“主键冲突”（Primary key violation）错误。</p>
-<p>同样，在此示例中我们使用的是单列主键，但主键也可以是复合主键。我们可以添加一个名为“b”的非空（non-NULL）列，并声明如下主键：(iro, b)。此时两列值的组合必须保持唯一：(5, 10)、(5, 5)、(10, 10)，依此类推。</p>
-<p>我们将在本系列的第二部分更详细地讨论复合键。</p>
-<p>设想一个极简的内容管理系统。它支持网页，其中每个页面都可以拥有易读的 URL，例如 /about，或者仅为 /content.php?id=25。</p>
-<p>以下是该系统的逻辑模型，采用了《数据库设计之书》（Database Design Book）中介绍的表示法。它只有一个锚点（anchor）：</p>
-<p>我们采用了基准表设计策略：</p>
-<p>对于这个小表来说，文字说明确实不少，不是吗：</p>
-<p>等等，它看起来是不是很眼熟？让我们来看看示例数据集：</p>
-<p>好吧，这显然是前一节中“prawnges”的理顺版本。</p>
-<p>几乎所有数据库都支持唯一性约束。当你设计表结构时，可以在该表的某一列上定义唯一性约束。这意味着该列中的值必须是唯一的。如果你尝试在该列中插入带有重复值的新行，数据库将抛出唯一性约束冲突错误。修改现有行中的值时也是如此。</p>
-<p>主键包含隐式的唯一性约束。这就是为什么你绝不会在表中遇到重复的主键。</p>
-<p>单个表上可以存在多个唯一性约束。此外，唯一性约束也可以涵盖多个列，就像复合主键一样。唯一性约束不能跨越两个或多个表进行定义。</p>
-<p>在我们讨论的“pages”表中存在一个唯一性约束。</p>
-<p>让我们来看看“slug”列的定义（第 3 行和第 5 行）：</p>
-<p>我们可以看到该列是可为空的（nullable），且被定义为 UNIQUE。在大多数现代数据库中，你可以将可为空的列定义为唯一。以下是它对可为空列的作用机制：</p>
-<p>&gt; 从历史上看，NULL 值与唯一性之间的相互作用曾有些复杂，且并没有非常充分的理由。我们将在“挑刺”（Nitpicking）部分对此进行更详细的讨论。</p>
-<p>页面 slug 属性被定义为外部 ID（external ID）。请注意，这是我们的业务决策：只有我们知道 slug 是唯一的。</p>
-<p>在物理层面，外部 ID 通过唯一性约束来实现：直接实现，或通过主键隐式实现。</p>
-<p>如果这篇文章对你有所帮助，你可能也会觉得这本书很有用。</p>
-<p>目录与样章</p>
-<p>书籍体量：145 页，约 32,000 字。提供 PDF 和 EPUB 两种格式。</p>
-<p>外部 ID 在数据库设计中尤为重要。它们完全存在于逻辑层面，但与普通属性相比，它们与物理表设计的联系更为紧密。</p>
-<p>锚点 ID 介于逻辑层和物理层之间，对于表设计至关重要。在大多数情况下，它们可以直接采用最常见的方法：简单的整数。在第三部分中，我们将讨论你可以选择的一些有趣的替代方案。</p>
-<p>锚点 ID 通常可以直接用作系统生成的外部 ID。然而，在许多重要情况下，我们需要独立的外部 ID。</p>
-<p>任何表都需要主键。我们已经讨论了最常见的简单情况：具有简单整数主键的锚点表。</p>
-<p>唯一性约束在逻辑层面上与外部 ID 紧密相关。在物理层面上，每个主键都有一个关联的唯一性约束。</p>
-<p>在第 2 部分中，我们将讨论复合主键以及如何利用它们来实现最常见的表设计策略，即：</p>
-<p>欢迎提出你的反馈与疑问：Alexey Makhotkin squadette@gmail.com。</p></div>
+<div class="article-body" data-article-body="true"><p>作者：Alexey Makhotkin squadette@gmail.com，（约2300字）<br />这是关于数据库设计中主键系统性讨论的第一部分。一如既往，我们呈现内容的方式有别于传统思路。<br />这基本上是《数据库设计之书》（Database Design Book）中的一个附赠章节。本文的目标是教会你如何基于业务需求来设计主键。<br />在第1部分中，我们先从逻辑层切入。<br />然后进入物理层。<br />在第2部分中，我们将讨论复合主键以及它们在数据库设计中的用法。<br />让我们先暂时抛开物理层面上存在的数据库、表、主键以及其他概念。<br />我们首先需要专注于业务需求，以及可以从业务需求中提炼出的逻辑模型。<br />在许多面向业务的系统中，某些实体需要具有唯一标识符。一些示例：<br />我们把这类唯一标识符称为“外部ID”（external ID）。它们可以在外部使用：通过电子邮件发送、打印在纸上、在电话中口头告知。外部ID具有三个决定性特征：<br />外部ID能够唯一标识一个实体：每个外部ID恰好对应一个实体。<br />反过来则不一定始终成立：单个实体可能没有外部ID、有一个外部ID，或者有多个外部ID。例如，许多儿童没有护照。护照也可以重新签发，但我们依然可以通过一个人的旧护照号码来识别其身份。<br />外部ID可能会发生改变。好吧，我们需要让第一个特征更加严谨：“在任何给定时刻，每个外部ID恰好对应一个实体”。例如，你可能想要更改自己的社交媒体用户名，而其他人可以抢注你的旧用户名。因此，今天的用户 @alice 在以后可能是另一位不同的 Alice。<br />一个实体可以拥有不止一种类型的外部ID。例如，如果我们在亚马逊上销售备件，它们既会有零件编号（由供应商分配），也会有 ASIN（由亚马逊分配）。<br />现在我们可以重新记起我们拥有一个数据库，但讨论表和主键仍然为时过早。<br />在《数据库设计之书》中，我们使用了“锚点”（anchors）这一术语。锚点与实体大体类似，但我们不喜欢“实体”这个词，因为它过于含糊不清。<br />锚点ID（Anchor ID）用于对锚点实例进行可靠且无歧义的识别。<br />假设我们维护着一个图书数据库，数据库中有100个书名。我们需要一种方式来标识这100本书中的每一本，使得每本书都有一个锚点ID，并且每个锚点ID恰好对应一本书。<br />我们不能使用 ISBN，因为有些书没有 ISBN。我们也不能使用书名：也许我们的馆藏中有五本不同的《圣经》，诸如此类。<br />解决这个问题的一个常见方案是使用整数，从1、2、3等开始递增。这样我们就会有ID=1的书、ID=2的书，以此类推。我们可以在实际的数据库表中使用这些整数。它们本身并不具备实际意义。<br />对锚点ID的另一个附加要求是它具有不可变性：它的值永不改变。无意义的整数能够满足这一要求，因为你根本不需要去修改它们：ID=2 并不比 ID=3 更好或更差。<br />简单的整数是最常见的解决方案，但有时我们也有其他选择：<br />我们将在本系列后续的文章中讨论这些场景。<br />任何锚点ID在原则上都可以用作外部ID，而且这种情况经常发生。<br />然而，有时这是不可取的。考虑一个电子商务系统，用户在其中下单。每个订单都有一个订单ID。几乎可以肯定的是，我们有一张“orders”表，其中包含一个“orders.id”列，里面存储着自增整数ID。我们能在确认邮件等场景中使用这些数字吗？<br />从技术上讲我们可以，但这会带来商业间谍行为的可能性。我们的竞争对手可以通过定期下单，来分析该顺序编号增长的速度。这使他们能够追踪你的业务业绩，而你可能并不希望如此。<br />为了规避这一点，你可以生成基于日期 + 随机数的ID，例如“20261016-32767”，并在外部使用它们。它们将作为订单（Order）锚点的一个属性进行存储，但仅用于你与客户之间指代某个订单。<br />在数据库内部的其他所有地方，你都可以使用无意义的整数，因为在技术层面上这通常是最方便的。（稍后我们将讨论哪些情况下可能并非如此。）<br />请注意，即使这些外部ID是由我们自己的系统生成的，我们的系统也需要对它们进行验证和鉴权。例如，如果有人提交请求取消预订 QIE3CB，我们需要确保他们有权限这样做。他们可能只是偷听到了别人的预订号。<br />某些外部ID是由我们自己的系统生成的。我们了解它们的含义并且信任它们。我们只需要对它们进行验证和鉴权即可。<br />但也有一些外部ID是由外部系统生成的。它们存在许多潜在问题。<br />首先，某些看起来像是外部ID的东西甚至可能根本不是一个合格的外部ID。例如，生活在两个不同国家的两个人碰巧可能拥有相同的护照号码。因此，护照号码本身可能根本不是一个好的外部ID，因为根据定义，我们希望每个ID仅对应一个实体。<br />正如上面所提到的，ID也可能被伪造。<br />在许多情况下，你可能会认为这并不是一个外部ID，而只是另一个锚点的属性值。例如，假设你正在构建一个航空公司预订系统。你要求客户输入他们的护照号码——这有多可靠？也许你只需要将此作为预订（Reservation）锚点的一个属性：“客户为该预订提供的护照号码是什么？”你甚至不会为护照设立单独的锚点，你只拥有属性值。<br />假设我们证明了一个标识符满足上述要求。或者，它是由我们自己的系统生成的，因此我们在鉴权和验证后可以信任它。<br />然而，外部ID往往无法满足锚点ID的要求：<br />不过在某些情况下，这些额外要求也得到了满足，我们终于有了一个合格的、可以用作锚点ID的外部ID。这样就不需要无意义的数字了，对吧？<br />稍后我们将讨论允许这样做的某些使用场景。此外，我们还需要讨论你为什么会想要这样做。<br />现在，让我们暂时抛开业务需求和逻辑模型，全身心投入到主键所在的物理层。<br />设想关系数据库中的一张物理表。让我们打乱表名和列名，以便我们能够讨论主键的本质。<br />以下是该表中的一些示例数据：<br />以下是该表的定义，包含列名、数据类型、主键定义以及唯一性约束：</p>
+<p>主键由一列或多列组成，并唯一标识表中的每一行。在此处，iro=5 对应第一行数据；iro=27 对应第二行数据，以此类推。<br />你不能在 iro 列中填入 NULL 值，你需要一个确定的整数值。此外，你也不能再次添加另一行（比如令 iro=5）的数据：数据库会抛出“违反主键约束”（Primary key violation）错误并拒绝该操作。<br />同样，在这个示例中我们使用的是单列主键，但主键也可以是复合主键。我们可以添加一个名为“b”的非空（non-NULL）列，并声明如下主键：(iro, b)。随后，这两列的值的组合必须保持唯一：例如 (5, 10)、(5, 5)、(10, 10) 等等。<br />我们将在本系列的第二部分更详细地讨论复合键。<br />设想一个极简的内容管理系统。它支持网页展示，每个页面都可以拥有一个易读的 URL（如 /about），或者仅形如 /content.php?id=25。<br />以下是该系统的逻辑模型，采用了《数据库设计之书》（Database Design Book）中介绍的表示法。它仅包含一个锚点（anchor）：<br />我们采用了基线表设计策略：<br />对于这么一张小表来说，文字说明确实不少，不是吗：<br />等等，这看起来是不是很眼熟？我们来看看示例数据集：<br />好吧，这显然是前一节中“prawnges”的理顺版本。<br />几乎所有数据库都支持唯一性约束（uniqueness constraints）。在设计表架构时，你可以在该表的某一列上定义唯一性约束。这意味着该列中的值必须是唯一的。如果你试图在该列中插入包含重复值的新行，数据库会报错提示违反唯一性约束。修改现有行中的值时也是如此。<br />主键包含隐式的唯一性约束。这就是为什么表中绝不会出现重复主键的原因。<br />单张表上可以存在多个唯一性约束。此外，唯一性约束也可以涵盖多个列，就像复合主键一样。唯一性约束不能跨两个或更多个表来定义。<br />在我们讨论的“pages”表中就存在一个唯一性约束。<br />让我们看一下“slug”列的定义（第 3 行和第 5 行）：<br />我们可以看到该列是可为空（nullable）的，并且被定义为 UNIQUE。在大多数现代数据库中，你可以将可空列定义为唯一。以下是它在可空列上的工作机制：<br />&gt; 从历史上看，NULL 与唯一性之间的相互作用曾有些复杂，且并没有特别充分的理由。我们将在“细节深究”（Nitpicking）部分对此展开更详细的讨论。<br />页面 slug 属性被定义为外部 ID（external ID）。请注意，这是我们的业务决策：只有我们自己知道 slug 是唯一的。<br />在物理层面上，外部 ID 是通过唯一性约束来实现的：要么直接实现，要么通过主键隐式实现。<br />如果这篇文章对你有所帮助，你可能也会觉得这本书很有用。<br />目录与样章<br />全书篇幅：145 页，约 32,000 字。提供 PDF 和 EPUB 两种格式。<br />外部 ID 在数据库设计中尤为重要。它们完全存在于逻辑层面上，但与普通属性相比，它们与物理表设计的联系更加紧密。<br />锚点 ID（Anchor ID）介于逻辑层和物理层之间，对于表设计至关重要。在大多数情况下，它们只需采用最常见的方法：简单的整数。在第三部分中，我们将讨论你可以选择的一些有趣的替代方案。<br />锚点 ID 通常可以直接用作由你的系统生成的外部 ID。然而，在许多重要场景下，我们需要独立的外部 ID。<br />任何表都需要主键。我们已经讨论了最常见的一种简单情况：带有简单整数主键的锚点表。<br />在逻辑层面上，唯一性约束与外部 ID 紧密关联。在物理层面上，每个主键都有一个关联的唯一性约束。<br />在第 2 部分中，我们将讨论复合主键以及如何利用它们来实现最常用的表设计策略，即：<br />我很乐意听到您的反馈和提问：Alexey Makhotkin squadette@gmail.com。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -233,7 +367,7 @@ notice:
 
 :::cell
 <div id="story-er-ai-comment-classifier-5a2b2b0a84018ddb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6986" data-content-paragraphs="35" data-published-at="2026-09-09T18:27:24.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6825" data-content-paragraphs="35" data-published-at="2026-09-09T18:27:24.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -242,44 +376,44 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 02:27</span>
 </div>
 
-### [更优秀的 AI 代码注释检测器](https://entropicthoughts.com/better-ai-comment-classifier)
+### [更好的 AI 代码注释检测器](https://entropicthoughts.com/better-ai-comment-classifier)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Better AI code comment detector</div>
 
-<div class="article-body" data-article-body="true"><p>当我训练上一版 AI 注释分类器时，我部分使用了个人的私有数据，而且它是构建在相对不太稳固的基础上的，因此我当时无法分享代码或数据。现在，我基于公开数据和更坚实的基础对其进行了重构！</p>
-<p>首先，你可能想亲自试用一下。你在该网页上粘贴的任何内容都不会离开你的浏览器，因此你可以放心地用任何你喜欢的内容进行测试。我曾邀请了一些测试人员试用其早期版本，他们主要给出了正面的反馈。</p>
-<p>我们不会像上一篇文章中剖析 Claude 风格特征（Claude-isms）那样去分解机器人特征（robot-isms），因为在全新分类器的界面中，你只需点击正在分类的文本的任意部分，就能查看哪些特征在该部分文本上被激活，以及它们如何对最终的整体判断做出贡献。以下是展开后的特征激活视图示例。</p>
-<p>在性能方面，最醒目的关键指标是 77% 的平衡准确率（balanced accuracy）。假设人类撰写的注释与机器人生成的注释出现概率相同，这就是该分类器正确做出人类与机器人判断的频率。</p>
-<p>分类器还会输出一个经过校准（calibrated）的预测百分比，这意味着它可以被解读为任何特定判定结果为正确的概率。我们通过校准曲线对此进行了测试，该曲线展示了分类器为已知概率事件所分配的概率值。</p>
-<p>既然所有点都非常接近参考对角线，我们就知道它们大致是准确的。这一点在不同长度的注释中均成立，其中拟合的温度参数会随着数据量的增加对置信度的提升进行相应调整。</p>
-<p>通过查看分类器的混淆矩阵，我们可以获取有关其故障模式的更多细节。在该表中，“机器人”被视为正类（即我们想要检测的目标）。缩写分别代表真正率、假正率、真负率和假负率。</p>
-<p>当输入已知为人类撰写的内容时，分类器在 73% 的情况下能正确判断其为人类所写。面对已知为机器人生成的内容时，其正确判断的比例为 80%。这意味着在两种情况下（已知人类和已知机器人），错误率都在 25% 左右。这听起来可能有点高！</p>
-<p>但请记住，这个错误率是所有可能输入的综合汇总。我们不需要对此过分纠结，因为分类器在每次分类时都会输出经过校准的预测百分比。因此，对于单独的判定，我们清楚假正率风险何时较低或较高。当分类器非常自信时——例如当置信度达到 80% 或更高时——假正率的风险会降至 5%。而当分类器不确定时——当置信度在 50% 左右时——根据校准，它大约有一半的时间会给出错误判定。</p>
-<p>我在混淆矩阵中提及这些数字，仅仅是因为人们在讨论分类器时经常使用它们，一些更偏重学术研究的读者可能期望看到它。以下是其他一些被询问到的指标数据：</p>
-<p>准确率（Accuracy）、精确率（Precision）和 F1 分数取决于基准发生率，但此处它们是基于无知假设（即人类编写与机器人生成的注释比例各占一半）计算得出的。</p>
-<p>所有这些数字都来自交叉验证。我还手动测试了一组规模较小的非合成真实场景下的人类和机器人注释样本，以观察分类器在轻度脱离样本时的泛化能力。</p>
+<div class="article-body" data-article-body="true"><p>当我训练上一个 AI 注释分类器时，我部分使用了个人私有数据，而且构建在有些不够稳固的基础上，所以我无法分享代码或数据。这次我基于公开数据和更好的基础重新构建了它！</p>
+<p>首先，你可能想亲自尝试一下。你在该网页中粘贴的任何内容都不会离开你的浏览器，因此你可以放心用任何你喜欢的内容进行测试。我邀请了一些测试人员试用过其早期版本，他们给出的反馈大体上都很积极。</p>
+<p>我们不会像上一篇文章中分解 Claude 风格（Claude-isms）那样去分解机器风格（robot-isms），因为在新分类器的用户界面中，你只需点击正在分类的文本的任意部分，即可查看该部分文本激活了哪些特征，以及它们对整体判定的贡献。以下是展开特征激活视图的一个示例。</p>
+<p>在性能方面，最醒目的关键数据是 77% 的平衡准确率（balanced accuracy）。这是假设人类编写和机器生成的注释出现概率均等的情况下，分类器正确区分人类与机器判定的频率。</p>
+<p>该分类器还会输出一个经过校准的预测百分比，这意味着它可以被解读为任何特定判定正确的概率。我们通过校准曲线对此进行测试，该曲线展示了分类器为已知概率的事件所赋予的概率。</p>
+<p>由于所有点都非常接近参考对角线，我们知道它们大体上是正确的。这在不同长度的注释中均成立，其中拟合的温度参数会随着数据量的增加而调整，从而提高置信度。</p>
+<p>我们可以通过查看分类器的混淆矩阵来获取其失效模式的更多细节。在该表中，“机器（robot）”被视为正类，即我们要检测的目标。这些缩写代表真正率/假正率/真负率/假负率。</p>
+<p>当输入已知为人类编写的内容时，分类器在 73% 的情况下能正确判定为人类。面对已知为机器生成的内容时，80% 的情况下能正确判定。这意味着在两种情况（已知人类和已知机器）下，错误率都在 25% 左右。这听起来可能有点高！</p>
+<p>但请记住，这个错误率是对所有可能输入的汇总统计。我们不必对其过分纠结，因为分类器在每次分类时都会输出一个校准过的预测百分比。因此，对于个别判定，我们清楚假阳性的风险何时更低或更高。当分类器非常有把握时——例如置信度达到 80% 或更高时——假阳性的风险会降至 5%。而当分类器不确定时——当置信度约为 50% 时——根据校准，它大约有一半的几率会给出错误判定。</p>
+<p>我在混淆矩阵中提及这些数字，仅仅是因为在讨论分类器时经常会用到它们，因此偏向学术背景的读者可能会期望看到。以下是一些其他被要求的指标：</p>
+<p>准确率、精确率和 F1 分数取决于基准发生率，但在这里它们是基于无知假设（ignorance assumption）计算的，即人类编写和机器生成的注释各占一半。</p>
+<p>所有这些数字均来自交叉验证。我还手动测试了一组较小的非合成真实世界人类与机器注释，以观察分类器在轻度样本外泛化时的表现。</p>
 <p>这转化为以下性能数据：</p>
-<p>这非常不错！看起来相比训练数据，非合成、更偏向真实世界的案例对分类器而言其实更容易区分。</p>
-<p>当然，所有这些测试都仅针对代码注释进行。该分类器并非设计用于检测其他类型的机器人生成文本。它或许能做，但我对其准确性不做任何保证。</p>
-<p>介绍完这些之后，我们来谈谈它是如何制作出来的。</p>
-<p>第一步与之前一样，是构建一个优秀的数据集。理想情况下，我们会周密规划并一次性做对。如果我们能做到这一点，获取驱动该分类器的数据集大约只需要花费 30 美元。它包含足够的数据，可以在区分更相似的模型时达到边际收益递减点。11 投入更多数据确实可能提炼出更强大的分类器，但成本会开始变得极其高昂，因为分类器的性能似乎只与投入资金的对数成正比。也就是说，前提是你要周密规划并且一次搞定。但我并没有做到。很久之后，我在评估特征时发现已有的数据全都是垃圾，不得不重新采集全部数据22 💸。过了一段时间，我又再次发现数据依旧是垃圾，不得不第三次重新收集33 💸💸💸。</p>
-<p>大致思路是找到一组采用宽松开源协议或遵循 Copyleft 协议的代码仓库，检出其在 2021 年的最新提交记录，然后从该提交中随机抽取几个文件。这些文件包含人类编写的注释。接着我们去除这些文件中的所有注释，并让大语言模型（LLM）为相同的文件重新生成注释。这就为我们提供了机器人注释。只要我们尽量让每个文件的 token 数量在所有类别（人类与各 LLM 模型）之间保持平衡，就可以避免主题泄漏（subject matter leakage）——即防止分类器学到的是区分不同文件或代码仓库，而非文本本身的风格。</p>
-<p>大体思路很简单！但魔鬼往往就藏在细节之中。以下是我犯下的一些错误，排名不分先后：</p>
-<p>并非所有这些问题都需要从头重新生成数据。有些可以通过过滤和预处理已有数据来解决。无论如何，这是该项目中最无趣的部分，并且花费的资金大大超出了理论上的 30 美元。</p>
-<p>收集完数据后，我们需要设计一个能作用于该数据的分类器。这意味着要评估候选特征。这样做在资金成本上并不昂贵，但需要消耗大量的 CPU 时间。在最严格意义上的特征评估，意味着在候选特征的所有子集上训练分类器，并观察哪个表现最好。这显然是不切实际的，因为哪怕只有 15 个候选特征，也需要训练超过 30,000 个不同的分类器，更不用说每个分类器为了交叉验证还需要以五折方式各训练五遍。</p>
-<p>我最终的做法是，根据在不同判别任务上基于单个特征训练出的分类器准确率来指导特征选择。换句话说，我写了一个脚本来检查“在区分机器人与人类方面，字符频率是否比词长表现得更好？”，然后针对不同特征之间以及不同类别之间的对比重复这一过程。44 不同类别意味着这个问题不仅针对机器人对比人类，还针对 Claude 对比 Grok、GPT 对比 Gemini 等。</p>
-<p>每一对类别对比都会生成一份特征排名列表。这些列表在特征排序上大多一致，但也存在一些分歧。下图展示了按辨别能力排名的特征以及围绕相对排名的分歧程度。</p>
-<p>我认为这张图表读起来相当直观，但为了保险起见还是说明一下：<br />每个特征框还附带一个以比特（bit）表示的信息量数值。它展示了该特征平均而言在区分两个类别时能提供多大帮助。<br />这张图不仅看起来非常有趣，而且信息量极其丰富！特征名称可能看似不知所云，因此我们将对每一项进行简要说明。作为贯穿全文的示例，我将使用唐纳德·特朗普（Donald Trump）演讲中的以下摘录：<br />markets are at their highest point in many years but we can actually say of all time（市场处于多年来的最高点，但我们其实可以说是有史以来最高）<br />以及来自《经济学人》（The Economist）一篇文章中相似长度的随机摘录：<br />the oecd member countries that have taken part in every edition of pisa reached a peak around（参加了每届PISA测试的经合组织成员国大约达到了峰值）<br />以下是各项特征：<br />bigwords（大词）：注释中长度超过5个字母的单词比例。这是体现考究语言风格的经典文体标记，但除了在极明显的情况下外，其区分能力非常弱。<br />特朗普的片段中 bigwords 值为 18%，而《经济学人》的文章为 29%。<br />wordlen（词长）：将每个单词替换为表示其长度的数字，然后统计出现频率。这与 bigwords 类似，但它捕捉了完整的长度分布。<br />特朗普的摘录中有 30% 是三字母单词，24% 是两字母单词，4 至 7 字母的单词各占 15%，长于该长度的单词占 6%。《经济学人》的分布则更分散，最常见的长度（35%）是四字母，然后在 2 至 7 字母范围内的占比非常平均，九字母单词和单字母单词各占 5%。<br />freqrank（词频等级）：根据常用程度将每个单词替换为一个数字。最常见的单词赋予数字 0，紧随其后的前十个最常用词赋予数字 1，再之后的百大常用词赋予数字 2，依此类推。然后统计这些数字的频率。<br />特朗普主要使用等级 2 和等级 3 的词，频率分别为 50% 和 30%。这对应于前 100 和前 1000 个最常用的单词。《经济学人》片段包含的等级 2 词汇非常少（不过等级 1 词汇更多！），并引入了大量等级 3 和等级 4 的词汇，再次表明其词汇比选取的特朗普片段更为复杂。<br />wordfreq（虚词词频）：统计一组预定义的功能词（虚词）的频率。它查看文本中包含多少次像“the”、“in”、“many”、“all”等无具体实义的词汇。<br />特朗普的例子从未重复出现任何虚词，但该特征无论如何都会记录单次出现的单词“are”、“at”、“their”、“in”、“many”、“but”、“we”、“can”、“of”、“all”。《经济学人》的文章则有一组不同的词：“the”、“that”、“have”、“part”、“in”、“every”、“of”、“a”、“around”。在这些简短片段中，该特征提供的信息有限，但随着数据量增加，它可以开始区分文本的来源。<br />word2gram（虚词二元组）：在过滤掉其他词汇后，统计虚词构成的二元语法串（bigram）。这会产生一些在原始文本中从未紧邻出现的奇特二元组，但它仍然是分析人们写作方式的一种流行方法。<br />特朗普的例子中提取出的二元组包括“are at”、“at their”、“their in”、“in many”、“many but”等。《经济学人》则提取出“the that”、“that have”、“have part”、“part in”等。<br />word2gram_adj（相邻虚词二元组）：仅当虚词在文本中实际紧挨着出现时（即不经过滤跳过其他词）才统计二元组。这看起来是一种更自然的写作分析方式，因为它只生成原始文本中真实存在的二元组，但正如我们从图表中看到的那样，它的区分指示作用比普通的 word2gram 更弱。<br />特朗普的例子包含“are at”、“at their”，随后跳过实词到“in many”，再跳到“but we”、“we can”等。《经济学人》则缩减为“that have”、“part in”和“in every”。我们可以看到，《经济学人》中连续紧邻出现的虚词串更少。<br />word3gram 和 word3gram_adj：类似于前面两项，只是改为针对三元组（trigram）。<br />特朗普的例子在 word3gram_adj 中有两个值，即“are at their”和“but we can”。《经济学人》只有一个：“part in every”。<br />charfreq（字符频率）：统计注释中每个字符的出现频率。如果不同来源使用符号的倾向不同，这可能是一个强烈的信号。<br />由于特朗普和《经济学人》都使用英语，且我选取的片段词数相同，因此它们的字符频率实际上非常相似。<br />char2gram 和 char3gram（字符二元组与三元组）：统计注释中字符构成的二元组和三元组的频率。这开始反映一些关于标点风格和用词选择的信息。<br />由于特朗普和《经济学人》在这些片段中都没有使用任何标点符号，我们只能观察字母频率；而在这些例子中，根据“空格后接字母a”这一二元组，我们可以看出特朗普以字母“a”开头的单词频率高于《经济学人》。相反，《经济学人》以字母“n”结尾的单词频率比特朗普更高。<br />wordfreq_raw（原始词频）：统计单词的出现频率，但不局限于虚词。这样做的好处在于，如果某个来源强烈偏好某些词汇（并且他们没有听从编辑关于‘割爱舍痛’[kill their darlings]的建议），比如像“mediated”这样绝不会出现在任何虚词列表中的词，通过原始词频，分类器仍然能够学会根据该词进行区分。<br />然而，这也是一个危险的特征，因为它可能促使分类器捕捉主题内容上的差异。例如在《经济学人》的案例中，它可能会学到如果文本包含缩写“oecd”，它就来自《经济学人》；但如果包含单词“actually”，它就来自唐纳德·特朗普。（好吧，这或许不算个坏规则，但你可以看出在其他情况下它会如何引发非预期的后果！）<br />然而，请回想一下，我们费尽心力为代码注释分类器构建了一个平衡的数据集。这正是见成效的地方。在原始词频特征中几乎没有主题内容泄露，相反，它确实捕捉到了真实的文体风格怪癖。<br />wink、upos、ptb：将每个单词转换为表示其语法作用的词性（pos）标记，然后统计这些词性标记的频率。这之所以成为一个强信号，是因为它捕捉了不同来源组织语言的方式，而不会被具体的词汇选择所干扰。<br />该特征的三种变体使用了不同的词性标注引擎（有些引擎比其他引擎更准确），但它们产生的结果大致相同。wink-nlp 引擎的优势在于——尽管它在图表中比其他两个稍弱——它可以在浏览器中运行。<br />词性标记替换将特朗普的演讲转变成类似于“NNS VBP IN PRP$ JJS NN IN JJ NNS CC PRP MD RB VB IN DT NN”这样的序列。该序列包含的复数名词（NNS）比《经济学人》更多，而后者则包含更多的专有名词（NNP）和限定词（DT）。</p>
-<p>当一次只评估单个特征的分类器时（即上图所示），我们可以看到，无论使用哪种标注引擎，词性标注（POS tag）n-gram 都非常强大。字符 n-gram 同样表现强劲，原始词频的效果也相当不错。</p>
-<p>但单一特征只能反映一部分情况，因为当我们基于多个特征训练分类器时，特征之间会产生交互作用。相互作用会使某些特征变得冗余，但也可能让特征组合比单一特征更强大！我从得分最高的一组单特征开始，通过增删单个特征来系统地评估特征组合，以观察它们如何相互影响；但最终我厌倦了这项工作，相当随意地为生产环境分类器选取了一组特征。99 我还在训练脚本中添加了一些子命令，以便探索各个特征以及它们相关的出现频率在待区分的类别之间是如何变化的。</p>
-<p>该分类器被训练为进行七分类。针对单条注释，它试图在以下七种来源之间进行区分：</p>
-<p>然而过了一段时间，事情显得有些蹊跷。它几乎总是把 Kimi K2.7 或 GLM 预测为最可能的 LLM 模型之一。在绘制了特征向量的质心图之后，原因显而易见：这两个模型的风格都与其他所有模型存在重叠1010 我不知道蒸馏（distillation）是如何运作的，但听起来这可能是一个相关的术语。因此分类器的判断有一部分被平摊模糊到了这两个模型上，而不是归属于实际的来源。我没有选择在排除这些模型后重新训练分类器，而是在分类阶段获取分配给这些模型的所有概率质量，并根据它们在训练期间从其他模型吸收的概率质量比例，重新平摊分还给其余模型。这意味着 Kimi K2.7 主要向 Grok 和 Claude 贡献概率，而 GLM 则大致均匀地分还给所有其他模型。</p>
-<p>当我开始使用该分类器时，我还意识到自己真正想知道的其实是一条注释是由人类撰写还是机器生成的；具体是哪个 LLM 模型生成的注释很少有关键意义。因此在分类阶段，概率质量被重新归一化，以模拟人类/机器 50/50 的先验概率，而不是训练该分类器时所用的 1/7 先验概率。</p>
-<p>我们训练了一个七分类器，先将其缩减为五分类器，然后又进一步简化为二分类，这看起来可能有点蠢。我们本来一开始就可以直接训练一个二分类器！但是用这种复杂的方式有两个好处：</p>
-<p>我实际上并没有对简化后的七分类器与专门训练的二分类器进行正式的基准测试对比，但我认为两者的性能差距不会太大，所以请把第一点视为真正的收益。</p>
-<p>遗留的问题之一与前一篇文章相同：在特征进行 L1 归一化后，逻辑回归得出的概率会变得非常小。因此通过单独的一步处理，获取训练好的模型并校准温度系数 k，从而基于输入长度的平方根使预测走向极端化。</p>
-<p>起初我构建了一个用于分类的命令行界面（CLI），但很快我就意识到：</p>
-<p>我之前很担心分类器模型的大小，其原始形态达到了数兆字节（MB）。因此我最终既量化了系数，又通过文档频率过滤器缩减了所有特征的词汇表，也就是剔除掉只在极少数注释中存在的特征值。在 0.05% 附近精度曲线出现了一个拐点，这意味着只存在于少于该比例的注释中的特征值将不会包含在分类器中。该模型目前的大小为 355 kB。</p>
-<p>Web 界面带来的另一项变化是，它要求能够在浏览器中对输入文本进行 POS 词性标注！这导致性能更高的基于 Python 的引擎（nltk 和 spaCy）无法使用，我被迫采用了 wink-nlp。从理论上讲，用一个引擎训练而用另一个引擎对分类输入进行预处理应该没有问题，但为了避免因为一些荒唐的原因导致输入分布偏移（out-of-sample），我选择在 Python 中也使用 wink-nlp，这意味着 Python 需要调用 Node.js 进程，这实在不太优雅。</p></div>
+<p>这非常不错！看起来相比训练数据，非合成、更偏向真实世界的案例对分类器来说反而更容易区分。</p>
+<p>当然，所有这一切仅在代码注释上进行了测试。该分类器并非设计用于检测其他类型的机器生成文本。它或许能够做到，但我无法对其准确性做任何保证。</p>
+<p>闲话少叙，我们来谈谈它是如何制作出来的。</p>
+<p>第一步和以往一样，是构建一个优秀的数据集。理想情况下，我们会周密规划并一次性做对。如果能做到这一点，获取驱动该分类器的数据集大约只需要花费 30 美元。它包含足够的数据，可以在区分较为相似的模型时达到边际收益递减点。借助更多的数据固然可以提炼出更强大的分类器，但成本会开始变得非常昂贵，因为分类器的能力似乎是随着花费资金的对数增长的。也就是说，前提是你做好了规划并一次做对。但我没能做到。在很久之后评估特征时，我才发现手头的数据全是垃圾，不得不重新采集全部数据。过了一阵子我又发现数据依然是垃圾，又不得不再次重新采集。</p>
+<p>总体思路是找到一组采用宽松许可或著佐权（copyleft）协议的代码仓库，检出其 2021 年的最新提交，然后从该提交中随机抽取几个文件。这些文件包含人类编写的注释。然后我们剥离这些文件中的所有注释，并让各 LLM 为相同的文件生成新注释。这就为我们提供了机器注释。只要我们努力保持每个文件在所有类别（人类与各 LLM 模型）之间的 token 数量平衡，就能避免主题泄漏——即防止分类器学去区分文件或仓库，而不是文本本身的风格。</p>
+<p>总体思路很简单！但魔鬼往往藏在细节中。以下是我犯下的一些错误，排名不分先后：</p>
+<p>并非所有这些问题都需要从头重新生成数据。有些可以通过过滤和预处理已有数据来解决。不管怎样，这是该项目中乐趣最少的部分，而且花费远远超出了理论上的 30 美元。</p>
+<p>收集完数据后，我们需要设计一个能在这些数据上运行的分类器。这意味着需要评估候选特征。这样做在金钱上并不昂贵，但需要消耗大量的 CPU 时间。从最严格意义上评估特征，意味着需要在所有候选特征子集上训练分类器，看看哪个表现最好。这很不切实际，因为即便只有 15 个候选特征，也需要训练超过 30,000 个不同的分类器，而且每个分类器还需要进行五折交叉验证。</p>
+<p>我最终的做法是，根据在不同区分任务上针对单个特征训练的分类器准确率来指导特征选择。换句话说，我写了一个脚本来检查“在区分机器与人类时，字符频率是否比词长表现得更好？”，然后针对不同特征之间以及不同类别之间的对比重复该过程。不同类别意味着这个问题不仅针对机器与人类，还针对 Claude 与 Grok、GPT 与 Gemini 等等。</p>
+<p>每一对类别的对比都产生了一份特征排名列表。这些列表在特征顺序上大体一致，但也存在一些分歧。特征按能力排名的结果以及关于相对排名的分歧程度，呈现在下图中。</p>
+<p>我认为这张图表读起来相当直观，但为了保险起见还是说明一下：<br />每个特征框都附带以比特（bit）表示的信息量。它展示了该特征在平均意义上有助于区分两个类别的程度。<br />这张图表不仅看起来非常有趣——而且信息量极大！这些特征名称可能有些晦涩难懂，因此我们将对每个特征做简要说明。作为贯穿始终的示例，我将引用唐纳德·特朗普演讲中的以下摘录：<br />markets are at their highest point in many years but we can actually say of all time（市场正处于多年来的最高点，但我们其实可以说是有史以来的最高点）<br />以及《经济学人》（The Economist）一篇文章中类似的随机摘录：<br />the oecd member countries that have taken part in every edition of pisa reached a peak around（参加过历届国际学生评估项目（PISA）的经合组织（OECD）成员国在大约……达到顶峰）<br />以下是各项特征：<br />bigwords（长单词）：注释中长度超过 5 个字母的单词所占比例。这是体现华丽语言风格的经典文体标记，但除了显而易见的情况外，其判别能力非常弱。<br />特朗普的摘录中 bigwords 值为 18%，而《经济学人》的文章为 29%。<br />wordlen（词长）：将每个单词替换为表示该单词长度的数字，然后统计出现频率。这与 bigwords 类似，但它捕捉了完整的长度分布。<br />特朗普使用了 30% 的三字母单词，24% 的两字母单词，4 至 7 个字母的单词各占 15%，更长单词占 6%。《经济学人》的分布范围更广，最常见的长度（35%）是四字母单词，而在 2 至 7 个字母范围内的比例非常均衡，九字母单词和单字母单词各占 5%。<br />freqrank（词频排名）：根据单词的常用程度，用数字替换每个单词。最常用的单词编号为 0，随后的 10 个最常用单词编号为 1，再之后的 100 个最常用单词编号为 2，以此类推。然后统计这些数字的出现频率。<br />特朗普主要使用排名第 2 和第 3 的词，频率分别为 50% 和 30%。这对应于前 100 和前 1000 个最常用词。《经济学人》的摘录中排名第 2 的词很少（尽管排名第 1 的词更多！），并且引入了大量的第 3 和第 4 级词，这再次表明其词汇量比特朗普更为复杂。<br />wordfreq（虚词词频）：统计一组预设虚词的出现频率。它查看文本中包含无实质内容词汇（如“the”、“in”、“many”、“all”等）的次数。<br />特朗普的例子中从未重复出现任何虚词，但该特征无论如何都会记录词汇“are”、“at”、“their”、“in”、“many”、“but”、“we”、“can”、“of”、“all”各出现一次。《经济学人》的文章则有一组不同的词：“the”、“that”、“have”、“part”、“in”、“every”、“of”、“a”、“around”。鉴于这些片段很短，它揭示的信息并不多，但随着数据量的增加，它便能够开始区分文本的来源。<br />word2gram（虚词二元组）：在过滤掉其他词汇后统计虚词的二元组（bigrams）。这会产生原文中从未出现过的奇怪二元组，但这仍然是一种分析人们写作风格的流行方法。<br />特朗普的示例会生成诸如“are at”、“at their”、“their in”、“in many”、“many but”等二元组。《经济学人》则会产生“the that”、“that have”、“have part”、“part in”等。<br />word2gram_adj（相邻虚词二元组）：仅当虚词在文本中实际相邻出现时（即不经过其他词汇的过滤），才统计二元组。这似乎是一种更自然的写作分析方式，因为它只生成原文中真实存在的二元组；但从图表中可以看出，它的判别强度比常规的 word2gram 更弱。<br />特朗普的例子会出现“are at”、“at their”，但随后跳跃到“in many”，再跳到“but we”、“we can”等。《经济学人》则简化为“that have”、“part in”和“in every”。我们可以看到，《经济学人》中连续的虚词串较少。<br />word3gram 与 word3gram_adj：类似于前面两项，只是改为三元组（trigrams）。<br />特朗普的例子在 word3gram_adj 下有两个值，即“are at their”和“but we can”。《经济学人》只有一个：“part in every”。<br />charfreq（字符频率）：统计注释中每个字符的出现频率。如果不同来源使用符号的倾向有所不同，这可能会是一个强信号。<br />由于特朗普和《经济学人》都使用英语，且我选取的片段词数相同，因此它们的字符频率实际上非常相似。<br />char2gram 与 char3gram：统计注释中字符的二元组和三元组频率。这开始能够揭示某些标点风格和词汇选择特征。<br />由于在这两段摘录中特朗普和《经济学人》均未使用任何标点，我们只能观察字母频率；在这些示例中，根据“空格后跟 a”这一二元组，我们可以看出特朗普以字母“a”开头的单词比《经济学人》更频繁。相反，《经济学人》以字母“n”结尾的单词比特朗普更频繁。<br />wordfreq_raw（原始词频）：统计单词频率，但不限于虚词。这样做的好处是，如果某个来源强烈偏好某些词汇66并且他们没有遵从编辑关于“忍痛割爱（kill their darlings）”的告诫。比如“mediated（介导的/调解的）”，这种词不会出现在任何虚词列表中，但借助原始词频，分类器无论如何都能学会通过该词来进行区分。<br />然而，这也是一个危险的特征，因为它可能会促使分类器去捕捉主题内容上的差异。例如，在《经济学人》的案例中，它可能会学习到：如果文本包含缩写“oecd”，它就来自《经济学人》；但如果包含“actually”一词，它就来自唐纳德·特朗普。77好吧，这可能不算个坏规则，但你可以看出它在其他情况下可能会导致非预期的后果！<br />但是请回想一下，我们在构建代码注释分类器时曾费尽心力去构建一个均衡的数据集。这正是付出得到回报的地方。在原始词频特征中，主题内容的泄漏非常少，相反它确实捕捉到了真实的文体习惯差异。<br />wink、upos、ptb：将每个单词转换为表示其语法作用的词性（POS）标签，然后统计这些 POS 标签的频率。该特征之所以是一个强信号，是因为它捕捉了不同来源组织语言的方式，而不会受到具体用词选择的干扰。<br />该特征的三种变体使用了不同的词性标注引擎88有些引擎比其他引擎更精确。，但它们产生的结果大致相同。wink-nlp 引擎的优势在于——尽管在图表中它比另外两个引擎稍弱——它可以在浏览器中运行。<br />词性标签替换将特朗普的演讲转换成类似这样的序列：NNS VBP IN PRP$ JJS NN IN JJ NNS CC PRP MD RB VB IN DT NN。与《经济学人》相比，该序列包含更多的复数名词（NNS）；而《经济学人》则包含更多的专有名词（NNP）和限定词（DT）。</p>
+<p>当每次仅用单一特征评估分类器时（即上图所示情况），我们可以看到，无论使用何种标注引擎，词性标注（POS tag）n-gram 都非常强大。字符 n-gram 同样表现出色，而原始词频的效果也相当不错。</p>
+<p>但单一特征只能说明一部分问题，因为当我们在多个特征上训练分类器时，特征之间会产生交互作用。交互作用会导致某些特征冗余，但也能让特征组合展现出强于单个特征的威力！我最先选取了一组得分最高的单一特征，并通过添加和移除单个特征来系统地评估特征组合，以观察它们如何相互影响；但最终我对这种机械操作感到厌烦，便相当随意地为生产环境分类器挑选了一组特征。99 我还在训练脚本中加入了几个子命令，用于探索特征，并观察它们相关的出现频率在待区分的类别之间是如何变化的。</p>
+<p>该分类器被训练来进行 7 分类。给定一条注释，它会尝试在以下 7 个来源之间进行区分：</p>
+<p>然而过了一段时间后，有些事情显得有些诡异。它几乎总是把 Kimi K2.7 或 glm 预测为最可能的 LLM 模型之一。在绘制了特征向量的质心图之后，原因显而易见了：这两个模型的风格与所有其他模型都存在重叠1010（我不太了解蒸馏是怎么运作的，但听起来这可能是一个相关的术语），因此分类器的判断部分被摊薄到了这两个模型上，而不是归属于其实际来源。与其在不包含这些模型的情况下重新训练分类器，我选择在分类阶段提取分配给这些模型的所有概率质量，并按照它们在训练期间从其他模型吸收的质量比例，重新均摊回其余模型。这意味着 Kimi K2.7 主要向 Grok 和 Claude 贡献概率，而 glm 则大致均匀地分摊给所有其他模型。</p>
+<p>在开始使用分类器时我还意识到，我真正想知道的其实是一条注释是人工撰写的还是机器生成的；具体由哪个 LLM 模型生成往往并不重要。因此在分类阶段，概率质量被重新归一化，以模拟人工/机器各占 50/50 的先验概率，而不是分类器最初训练时采用的 1/7 先验概率。</p>
+<p>我们训练了一个 7 分类器，先将其缩减为 5 分类器，然后再简化为 2 分类，这看起来可能有些愚蠢。我们本可以直接训练一个 2 分类器！但采取这种复杂方式有两个好处：</p>
+<p>我实际上并没有对缩减后的 7 分类器与专门训练的 2 分类器进行过正式的基准测试对比，但我认为两者的性能差异不会太大，因此可以将第一点视为真正的好处。</p>
+<p>遗留的问题之一与上一篇文章相同：在特征经过 L1 归一化的情况下，逻辑回归输出的概率会变得非常小。因此需要单独执行一道工序：接收训练好的模型，并校准一个温度系数 k，根据输入长度的平方根使预测偏向极端值。</p>
+<p>起初我为分类构建了一个命令行界面（CLI），但我很快意识到</p>
+<p>我曾经担心分类器模型的大小，其原始形态达到了数兆字节。因此，我最终既对系数进行了量化，又通过文档频率过滤器缩减了所有特征的词表，即剔除了仅存在于极少数注释中的特征值。在 0.05% 附近精度曲线上出现了一个拐点，这意味着仅出现在低于该比例注释中的特征值将不会纳入分类器。现在该模型的大小仅为 355 kB。</p>
+<p>网页界面带来的另一个改变是，它要求能够在浏览器中对输入文本进行词性标注！这使得性能更高的 Python 引擎（nltk 和 spaCy）无法使用，我不得不改用 wink-nlp。从理论上讲，使用一个引擎进行训练而使用另一个引擎预处理分类输入应该没问题，但为了避免因细枝末节的原因导致输入发生分布外（out-of-sample）漂移，我选择在 Python 中也使用 wink-nlp——这意味着 Python 需要调用 Node.js 进程，虽然这并不怎么优雅。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -295,158 +429,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://entropicthoughts.com/better-ai-comment-classifier" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-09-ai-policy-html-061bbfd778f05d88" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3728" data-content-paragraphs="16" data-published-at="2026-09-09T17:18:32.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 01:18</span>
-</div>
-
-### [我不想与随机鹦鹉打交道](https://ploum.net/2026-09-09-ai_policy.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> I Don’t Want to Interact With Stochastic Parrots</div>
-
-<div class="article-body" data-article-body="true"><p>作者：Ploum，写于 2026-09-09<br />我不在乎你管它叫人工智能（AI）、大语言模型（LLM）、聊天机器人还是什么GPT。我只是根本不想以任何形式与它打交道。如果你要和我交流，请确保绝不要发给我任何出自它们的内容，也不要将其作为支撑你观点的“来源”。<br />我是那种对其他人类所说的一切非凡之事抱有极深兴趣的人。不幸的是，人生苦短，根本无法听完所有声音。我必须做出许多取舍。正因如此，我绝不容忍任何人试图通过让我与那些被训练用来生产海量“平庸”非人内容的随机算法打交道，来偷走我在这颗星球上本就有限的时光。<br />我这一选择的直接结果就是，我将拒绝与那些自豪于充当肉身接口的人打交道——他们甘愿作为介质，横亘在我与他们选择用来替代自身自由意志的算法之间。<br />我不会去读你的网站，我会无视你的电子邮件，一旦发现自己面对的不是一个拥有完整知觉的智人，而是一个欣然将自身认知能力托付给某种旨在生成“随机平庸垃圾”的外部专有工具的空壳，我便会毫不犹豫地从现实交谈中转身离开。<br />写作的真正本质正是促使你思考。当你写作时，哪怕只是写一封普通的简短邮件，你也是在将一团矛盾的神经刺激转化为有序的思考。<br />如果你连写都不愿花心思写，我就没有任何理由浪费一秒钟去读它。付出努力的一方首先应该是由你开始。<br />我不在意错误、错别字或造句不通畅。事实上，在交流时我甚至暗中欣赏这些瑕疵，因为它们是你的一部分，反映了关于你的诸多特质。我不是文学经纪人，我不会评判你的行文水平：我是来交流思想、知识和经历的。<br />如果你发现自己正敲入提示词（prompt）来表达想法，那就直接把那句提示词发给我。我对算法拿你的提示词生成什么毫无兴趣，我想知道的是你最初究竟问了什么。我在乎的是你，真实的人类。<br />你可能会觉得表达自我、写下心中所想很困难：请记住，练习得越少，情况就会越糟。写提示词或许感觉更容易，但这并不代表它是对的。<br />如果出自算法之手，那便不再是你。只有你自己才能书写你内心的所思所想。<br />生成式图像。说真的，它们看起来都丑陋至极。<br />如果你没有资源去雇一位艺术家，你大概根本就不需要配图。如果你在制作一张海报，那就写下重要的核心内容，而不是将其埋没在一张阴森沉闷的生成图片中。如果你写了一篇博文，只要它配了生成图片，我就绝不会去读。<br />网站的插图（若有的话）承载的是一种情绪、一种感知。有时我为一篇文章寻找合适配图所花的时间，比写文章本身还要多。如果找不到令人满意的图片，我就索性不放。<br />生成式图片带给我的第一感觉是一种诡异的不安，一种令人作呕的情绪，瞬间让我想要避而远之。它也足以让我看清作者的品位，从而不想再做更多了解。这可能算是一种反应过度。但正如我所说，反正世上已有太多东西要读，这正好是一个极好的初步筛选标准。<br />不，那张图并不漂亮。不，它一点也不好笑。它没有传递任何人类情感，也没有任何艺术表达。你喜欢它，只是因为你在生成它时图了个乐。但这纯粹是在浪费我的时间。<br />我不想在自己的计算机上运行生成的代码。<br />优质的代码就是知识。即使在纯粹以生产力为导向的商业环境中，每一行代码也理应反映出一位了解业务的员工在寻找解决商业问题之道时所做出的抉择。<br />现实当然截然不同。我接触过足够多的不同代码库，深知专有软件的代码往往写得十分差劲。每一行写下来都带着这种预设：“过几年我就不在这里了，不用我来管。”但至少我们知道，每一行代码不管有多烂，都是由人类出于某种缘由写下的。大语言模型却把这根指针从“过几年无需操心”拨到了“现在就无需操心”。对于生成的代码，你无法做出任何假设。它可能只是纯粹的幻觉产物，碰巧编译通过了而已。<br />这意味着，一旦生成的代码被合入项目，整个项目对人类而言就变得无法维护。你根本看不懂这些代码，因为它们从一开始就没有任何值得理解的逻辑！<br />随之而来的结果是，整个项目日后进行任何改动都离不开大语言模型，而从人类的角度来看，这只会让事情变得更加糟糕。我们最终会堆砌出越来越多无人能懂的代码行，而这个领域一直以来的痛点恰恰正是“代码行数太多，而看懂的人太少”。<br />我深信，接纳生成的代码会在短短几年内导致绝大多数项目彻底崩溃、无可救药。“仔细审查”很快也将无济于事。不可捉摸的代码终将悄悄溜入，并逐步摧毁整个项目。我敢断言，那些重要到无法听任其腐烂消亡的项目，将需要花费数十年的时间，才能从这几年的“辅助生产力”所遗留的祸患中恢复过来。<br />我们必须牢记，我们所谓的“代码”仅仅是我们所期望软件的一种规格说明（specification）。这些规格说明会被交给编译器去构建出真正的软件。程序员的角色，是接收来自经理或客户那些模糊、不精确且自相矛盾的规格说明，然后确保消除一切歧义。这可以通过与客户进一步澄清来完成，也可以通过默默替其做出抉择来达成。历史和数学已经证明，如果不用专门为此目的设计的形式语言，人类就无法制定出明确且不自相矛盾的规格说明。自然语言根本无法消除歧义，而这或许本就是一种进化特性。<br />把程序员剔除，换成一个专为假装附和任何指令而设计的工具，永远不可能产出优秀且可维护的软件。它或许能生成一个用完即弃的小脚本，或许在挖掘安全漏洞时比模糊测试（fuzzing）更高效。但它绝不可能构建出任何长期有用且可靠的东西。<br />而这恰恰是我对软件的期许。<br />我希望能对软件建立起足够的信任，从而愿意投入时间去学习它。这一直是我使用开源软件的核心论据之一：如果一款自由软件足够优秀，我相信总会有人来维护它，或在需要时将其派生（fork）发展。如果我在使用某款自由软件时遇到问题，我随时可以去查看代码，以弄清当初设计它的人类到底意图为何。我也可以亲自动手修改它。这绝非理论空谈：在过去20年里，我曾对无数软件做过这样的事。我对此深信不疑并赖以为生！<br />正因如此，我会极其谨慎地避开运行任何公然采用“氛围写码”（vibecoded）产出的工具，并且我正努力将精力集中在那些积极尝试与当前泡沫拉开距离的项目上。<br />“我问过ChatGPT了，然后……”</p>
-<p>仅此而已，无需多言。我们谈论了这么多年“虚假新闻”与“核实信源”，难道就为了盲目复述由随机算法拼凑出来的一串串乱码字母？说真的，至于吗？</p>
-<p>我不在乎你的资历，也不在乎你的经验。只需寥寥数语，你就欣然宣告自己正在抹杀这一切，并拒绝任何形式的自由意志。再见！</p>
-<p>我知道这听起来不够友善。我也从未假装自己友善。而且挑起这一切的并不是我。</p>
-<p>在过去的几年里，我未曾见过有哪位学生使用聊天机器人能让我感到惊艳。在我遇到的每一个案例中，使用聊天机器人都让我的学生表现得更差。有时这种糟糕程度令人叹为观止——比如某位学生在 GitHub 上给一个项目贡献了代码，但当我询问时，他甚至说不出那个项目到底是做什么的。</p>
-<p>相反，强制学生不使用任何人工智能，每一次都能让他们变得更优秀。毫无例外。这也极大提升了他们的自信心。</p>
-<p>这根本不是什么“学会使用工具”的问题。你无法学会去使用一个随时可能被更改的专有随机工具。你不需要“学习如何聊天”（即使真要学，也别在我的课上学）。这个“工具”真正造成的后果，是让你丧失最基础的学习能力，让你丧失自信心。正如约翰·斯卡尔齐（John Scalzi）所指出的：玩《吉他英雄》确实很有趣，但哪怕你在《吉他英雄》里玩了上千个小时，你依然无法在一把真正的吉他上弹奏一首《祝你生日快乐》。</p>
-<p>我认为，我的学生来上课是为了学习。而聊天机器人正在主动扼杀任何形式的学习。这就是为什么从现在起，我确立了一项严格的原则：学生提交的所有内容，必须完全由他们自己独立完成。</p>
-<p>它可以很短。它会是不完美的。它会充满错误。它甚至可能是全错的。报告中的项目符号要点和表情符号可能会少一些。但那将属于你自己，而这正是我所希望看到的。</p>
-<p>我不会采取技术手段去“强制执行”这条规则。作弊向来是大学生活的一部分。如果你足够聪明且没被抓住，那你或许配得上通过。但与用你自己的手指在键盘上敲出你那该死的报告相比，想在作弊时不被抓住，你恐怕需要付出远比这大得多的精力。</p>
-<p>众所周知，人工智能/聊天机器人/大型语言模型（LLM）会对你的大脑产生极具破坏性的影响。它们对你个人有害，对整个经济有害，对政治氛围有害，对生态环境也是有害的。它们耗费庞大的资源，正在摧毁整个互联网和我们的生态系统。</p>
-<p>但我也理解，它们容易让人上瘾。它们让你感觉自己富有成效（多项研究表明，这很大程度上只是一种心理感觉）。在我看来，它们就是一种毒品。</p>
-<p>当遇到那些不得不完成、毫无意义但又是强制性的一次性琐务时，它们或许确实管用。我们每个人都不得不面对属于自己的“狗屁工作”（bullshit jobs），这一点我明白。</p>
-<p>使用人工智能就像是一种可耻的毒瘾，或者某种怪异的性癖。如果你想在私下里或在双方知情同意的成年人之间使用，那是你的自由。只要你不拿出来炫耀，我也绝不评判。</p>
-<p>唯独请确保一点：别让我不得不跟它打交道。</p>
-<p>我用法语撰写科幻小说。我的后末日自行车题材新书《Bikepunk》（单车朋克）目前正由出版商寻找其他国家的联络人，以便将其翻译并发行至法语以外的语言地区。如果你能帮上忙，请与我联系！</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 01:18 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://ploum.net/2026-09-09-ai_policy.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-pple-events-event-stream-e9b567f5387568c1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="919" data-content-paragraphs="1" data-published-at="2026-09-09T16:54:31.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 00:54</span>
-</div>
-
-### [2026年9月9日 Apple 特别活动](https://www.apple.com/apple-events/event-stream/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Apple Event for September 9th, 2026</div>
-
-<div class="article-body" data-article-body="true"><p>隆重推出 iPhone Duo、iPhone 18 Pro、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5。<br />今日活动的视频重播即将上线。<br />观看特别活动 观看手语（ASL）版本<br />iPhone 迄今最大的显示屏。可折叠、可多角度摆放、可立起。带来独特的 iOS 体验，实现极致的多功能性。<br />iPhone 历来最持久的电池续航。1 全新 4800 万像素 Fusion 主摄具备可变光圈，带来更多创作掌控空间。四款亮眼配色，两种出众尺寸，一致的坚固设计。<br />全新健康传感系统，带来穿戴设备中最精准的心率感应。2 更频繁的心率变异性（HRV）读数，助力洞悉压力与恢复状况。<br />所有 Apple Watch 中最持久的电池续航。现支持长达 45 小时的极限扩展体能训练跟踪。3<br />主动降噪能力相比上一代最高提升至 1.5 倍。4 采用全新声学架构，音质表现更胜以往。<br />隆重推出由 Apple 智能（Apple Intelligence）驱动的全新 Siri AI、扩展的儿童安全功能，以及遍及我们所有平台的更多实用且令人兴奋的更新。<br />了解新一代 iPhone —— iPhone 17 Pro、iPhone 17 与 iPhone Air。探索拥有全球顶尖入耳式主动降噪功能的 AirPods Pro 3。并探索最新的 Apple Watch 家族。<br />隆重推出搭载 Apple 智能的 iPhone 16 Pro 与 iPhone 16、Apple Watch Series 10 以及 AirPods 4。Apple Watch Ultra 2 与 AirPods Max 迎来新配色。AirPods Pro 2 加入听力健康功能。<br />隆重推出 Apple 智能，面向大众的个人化智能系统。此外还有 iOS 18、iPadOS 18、macOS Sequoia、watchOS 11 及 visionOS 2 带来的令人振奋的更新。<br />隆重推出极其纤薄便携、搭载 Apple M4 芯片的 iPad Pro，两种尺寸的全新设计 iPad Air，以及全新的 Apple Pencil Pro。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-10 00:54 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.apple.com/apple-events/event-stream/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-tics-latest-news-updates-cdd862c9373be81d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="273" data-content-paragraphs="4" data-published-at="2026-09-09T16:49:09.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 00:49</span>
-</div>
-
-### [改革党称在警方就涉嫌海外捐款展开调查后将“全力配合”——实时追踪](https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – as it happened</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/7e757c7db7a5466345c5ad5746fd454ab0e245cc/185_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=231c6b959806099dfeed37b07bcb76d4" alt="改革党称在警方就涉嫌海外捐款展开调查后将“全力配合”——实时追踪" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>在苏格兰场（伦敦警察厅）确认正对英国第四频道在卧底暗访后播出的指控展开调查后，该党否认存在任何不当行为。</p>
-<p>保守党副领袖亚历克斯·伯格哈特（Alex Burghart）今天上午接受了采访。在以色列问题上，他开辟了一条针对政府的新攻击线，指责其虚伪。以下是他对英国GB新闻台发表的言论：</p>
-<p>“就在工党在下议院发表所有这些针对以色列的言论的同时，他们发布了一份公报。</p>
-<p>他们发布了一份关于安迪·伯纳姆（Andy Burnham）与中国国家领导人会谈情况的通报，其中提到他们多么希望与中国建立建设性关系、多么希望与中国合作，以及我们的关系是多么良好。”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-10 00:49 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--affecting-relationships-e8facbf06fc576f2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="241" data-content-paragraphs="3" data-published-at="2026-09-09T16:00:03.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 00:00</span>
-</div>
-
-### [“我都听烦她聊这个了”：11位读者分享GLP-1药物如何影响他们的人际关系](https://www.theguardian.com/wellness/2026/sep/09/glp-1s-affecting-relationships)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ‘I’m sick of her talking about it’: 11 readers share how GLP-1s have affected their relationships</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/7b00ad9d1af8fef79e8c3abb3120b0c7a87d0cad/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=809091f77588326086cedddfbe95cfb4" alt="“我都听烦她聊这个了”：11位读者分享GLP-1药物如何影响他们的人际关系" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>随着减肥药在全球范围内的兴起，它正在深刻改变使用者的各类人际关系，无论带来的是积极还是消极的影响。</p>
-<p>随着GLP-1药物在美国和英国的使用量持续上升，人们的身材正在被重塑——他们的人际关系亦是如此。</p>
-<p>“随着时间的推移，人际关系往往会形成一种平衡感和可预测性，”已与使用GLP-1药物的求助者合作逾10年的持证临床心理学家林赛·贝里沙博士（Dr Lindsey Berisha）表示，“当其中一方发生重大改变时，这种平衡就可能会被打破，即使是积极的改变，也可能给双方带来不确定性。”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-10 00:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/wellness/2026/sep/09/glp-1s-affecting-relationships" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
 :::
 
 ::::

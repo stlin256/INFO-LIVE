@@ -16,208 +16,157 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-rruption-case-a-79209321-23ba49b6e97cec37" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="638" data-content-paragraphs="13" data-published-at="2026-09-10T08:09:00.000Z" data-time-source="publication">
+<div id="story-dence-rhode-island-mayor-ba25548f6743bcbe" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1428" data-content-paragraphs="20" data-published-at="2026-09-10T12:48:26.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (EN 官方英语)" width="16" height="16" /> <strong>Deutsche Welle (EN 官方英语)</strong></span>
-    <span class="stance-badge">德国战略自省</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 16:09</span>
+  <span class="news-meta-time">🕒 2026-09-10 20:48</span>
 </div>
 
-### [厄瓜多尔：前总统布卡拉姆在腐败案中获刑](https://www.dw.com/en/ecuador-ex-president-bucaram-sentenced-in-corruption-case/a-79209321)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Ecuador: Ex-president Bucaram sentenced in corruption case</div>
+### [获伯尼·桑德斯支持的民主社会主义者击败罗得岛州普罗维登斯市现任市长](https://www.foxnews.com/politics/democratic-socialist-backed-bernie-sanders-ousts-providence-rhode-island-mayor)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Democratic socialist backed by Bernie Sanders ousts Providence, Rhode Island mayor</div>
 
-<div class="article-body" data-article-body="true"><p>厄瓜多尔前总统阿夫达拉·布卡拉姆（Abdala Bucaram）因在非法销售新冠检测试剂及医疗物资中扮演的角色被判犯有有组织犯罪罪，获刑逾九年。</p>
-<p>厄瓜多尔前总统阿夫达拉·布卡拉姆被裁定犯有腐败罪，并于周三因作为有组织犯罪的“协作者”被判处九年零四个月监禁。</p>
-<p>布卡拉姆的儿子雅各布·布卡拉姆（Jacob Bucaram）也因在2020年疫情期间非法销售至少21,000份新冠检测试剂及其他医疗物资而被判刑。</p>
-<p>该审判历时六年。此前一名法官曾于2021年撤销对布卡拉姆及其儿子的指控，后在总检察长办公室提出上诉后审判得以继续。</p>
-<p>布卡拉姆在瓜亚基尔一家受到看守且其正在接受医疗救治的诊所中，通过远程方式听取了判决结果。</p>
-<p>他于2020年其在瓜亚基尔的住所遭突击搜查后被捕，最初因健康问题无法入狱服刑而被处以软禁。</p>
-<p>这位前总统曾因心脏问题接受手术，并被送入重症监护室。</p>
-<p>布卡拉姆在X上发布消息称，他已请求从诊所出院，“尽管面临猝死风险”。</p>
-<p>“我将能够为自己辩护，而这个国家将了解到关于这一诉讼过程的骇人听闻的事实，”他补充道。</p>
-<p>调查显示，新冠检测试剂被非法运往布卡拉姆的住所，该住所当时由基多交通执法人员看守。</p>
-<p>据检察机关称，这些检测试剂和医疗物资在全国多个省份销售，“既无发票，也未向国家缴税”。</p>
-<p>布卡拉姆于1997年被宣布在精神上不适合执政后遭到罢免，在2017年返回厄瓜多尔之前，他曾在巴拿马流亡了近二十年。</p>
-<p>责任编辑：韦斯利·拉恩（Wesley Rahn）</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/david-morales-acceptance-speech-providence.jpg?ve=1&amp;tl=1" alt="获伯尼·桑德斯支持的民主社会主义者击败罗得岛州普罗维登斯市现任市长" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>罗得岛州众议员、现年27岁并获得佛蒙特州独立参议员伯尼·桑德斯（Bernie Sanders）支持的民主社会主义者戴维·莫拉莱斯（David Morales），在周三晚上的民主党初选中击败了普罗维登斯市长布雷特·斯迈利（Brett Smiley），使这位仅任职一届的现任市长下台。</p>
+<p>如果莫拉莱斯在普选中获胜，他将成为普罗维登斯历史上最年轻的市长。</p>
+<p>在以约8个百分点的优势（54%对46%）获胜后，莫拉莱斯在部分用西班牙语发表的胜选演说中表示：“很少有人相信一个27岁的民主社会主义者能够做到，很少有人相信我们能与大金主、企业房地产利益集团以及无休止的抹黑广告抗衡——但我们直面挑战，并且赢得了胜利。”</p>
+<p>现年47岁的斯迈利仅任职一届，他在去年12月处理布朗大学枪击事件时曾遭遇了最为严厉的媒体审查与质询。</p>
+<p>美国悄然展开的社会主义接管正在从市政厅蔓延至课堂</p>
+<p>“所以，邻居们，带着我们投票支持的宏大议程和选民授权，让我们做好准备吧。普罗维登斯，做好准备吧。”</p>
+<p>莫拉莱斯将在11月对阵77岁的共和党候选人戴夫·塔兰（Dave Talan）。共和党在普罗维登斯市议会中没有任何席位，而民主党则占据该市登记选民的绝大多数。2024年，前副总统卡玛拉·哈里斯在该市以51个百分点的优势击败了唐纳德·特朗普总统。</p>
+<p>“普罗维登斯的选民做出了选择，他们在民主党初选中选择了戴维·莫拉莱斯作为我们的下一任市长，”斯迈利在致电莫拉莱斯后发表的败选演说中表示，“尽管我对这一结果感到不悦，但我为我们所开展的竞选活动感到非常高兴和自豪。”</p>
+<p>当前局势：随着选票涌入，关于特朗普与华盛顿特区市长之间潜在社会主义对决需了解的事项</p>
+<p>莫拉莱斯还获得了加利福尼亚州民主党众议员罗·康纳（Ro Khanna）、前普罗维登斯市长豪尔赫·埃洛扎（Jorge Elorza）以及数个工会的支持。他以进步主义政纲展开竞选，内容包括限制租金上涨、扩大可负担住房以及向污染企业和大企业房东增税。</p>
+<p>莫拉莱斯说：“大约在整整一年前的今天，我们发起了一场竞选，核心是一个朴素的愿景：把普罗维登斯当作家园的劳动人民理应能够在此安居。一个朴素的愿景：我们的邻居配得上一位为他们奋斗的市长。”</p>
+<p>这场角逐是进步派挑战者与建制派现任官员之间一系列更广泛的民主党初选争夺战的一部分。莫拉莱斯试图利用民众对住房成本和市政府施政方向的沮丧情绪，而斯迈利则坚称自己的经验和政绩使他成为领导普罗维登斯的更佳人选。</p>
+<p>社会主义造反派在必争席位上迫使温和派民主党人陷入高风险对决</p>
+<p>“我们将以竞选时同样的方式执政——建立联盟，与我们的邻居并肩作战，”莫拉莱斯说。</p>
+<p>这场初选还突显了围绕租金稳定化的博弈。普罗维登斯市议会曾通过一项将某些公寓年租金涨幅限制在4%以内的措施，但斯迈利在4月份否决了该法案。今年5月，市议会以一票之差未能推翻这一否决。</p>
+<p>随着租金成本飙升至历史新高，马姆达尼的可负担性革命陷入停滞</p>
+<p>“当劳动人民因高昂成本被挤出他们所热爱的城市时，我们就必须把每年的租金涨幅限制在4%以内，”莫拉莱斯说。</p>
+<p>“我们将住房正义摆上了选票。”</p>
+<p>莫拉莱斯还坚定主张让普罗维登斯成为非法移民的庇护城市，并反对特朗普政府执行美国移民法的举措。</p>
+<p>身为墨西哥移民母亲之子的莫拉莱斯表示：“普罗维登斯市必须动用我们所能支配的一切工具来捍卫我们的移民社区，保护我们免受法西斯主义的移民与海关执法局（ICE）特工的侵害。”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Deutsche Welle (EN 官方英语)】于 2026-09-10 16:09 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 20:48 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/democratic-socialist-backed-bernie-sanders-ousts-providence-rhode-island-mayor" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-llions-is-your-town-next-2a59e3e6bbb9bbd2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3433" data-content-paragraphs="34" data-published-at="2026-09-10T12:41:50.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 20:41</span>
+</div>
+
+### [水上浮顶光伏可为城市节省数百万美元，下一个会是你的城镇吗？](https://www.foxnews.com/tech/floating-solar-panels-could-save-cities-millions-is-your-town-next)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Floating solar panels could save cities millions. Is your town next?</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/floating-solar-panels-1.jpg?ve=1&amp;tl=1" alt="水上浮顶光伏可为城市节省数百万美元，下一个会是你的城镇吗？" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>如果你的城镇可以在不牺牲数英亩宝贵土地的情况下建造一座太阳能农场，那会怎样？俄亥俄州利马市正在尝试一种不同的方式。该市已建成一个2兆瓦的太阳能光伏阵列，浮在其主要饮用水水源地双湖水库（Twin Lakes Reservoir）上。</p>
+<p>目前，已有3000多块太阳能电池板漂浮在水面上，并为附近的水处理厂供电。该市预计，在其整个使用寿命期内，该系统将节省近1000万美元的电费。这种节约幅度可能会引起远超俄亥俄州范围的其他城市的关注。</p>
+<p>那么，浮顶太阳能电池板最终会出现在你附近的水库中吗？以下是该技术的工作原理、城市对其产生兴趣的原因，以及它对你的社区可能意味着什么。</p>
+<p>错过了 CyberGuy 直播？观看“守护您的财富”重播</p>
+<p>我们的免费 CyberGuy 直播课程《守护您的财富免受当今最大威胁》已经结束，但您仍然可以观看完整回放并下载我们的财务保护清单。库尔特·“CyberGuy”·克努特松（Kurt &quot;CyberGuy&quot; Knutsson）将向您介绍五种简单的方法，帮助您防御人工智能诈骗、欺诈、身份盗窃和金融黑客攻击。您将学习如何设置银行警报、加强账户登录凭证、保护手机号码、冻结信用额度，并帮助保护您的退休储蓄免遭未经授权的转账。无需任何技术背景经验。</p>
+<p>立即在 CyberGuyLive.com 获取免费回放和清单</p>
+<p>谁在为美国电力繁荣买单？在人工智能热潮下，蓝州与红州提供截然不同的降低公用事业费用方案</p>
+<p>利马市于8月12日正式庆祝其双湖水面浮顶光伏项目的竣工。据开发商 D3Energy 称，最终系统包括分布在约3.6英亩水面上的3120块太阳能电池板。这个2兆瓦的阵列坐落在利马的主要饮用水水库上，该水库为大约3.5万名居民提供水源。</p>
+<p>紧挨着该水库的城市水处理厂每天处理约1400万加仑水。它消耗的电力也超过该市任何其他设施。这使得该水厂成为寻求节能改造的显而易见的目标。利马市预计，浮顶太阳能系统在其使用寿命内将节省近1000万美元的电力成本。该市早先的估算认为第一年可节省约20万美元。对于一家城市公用事业单位而言，这是一笔巨额资金。实际的全生命周期节省金额将取决于未来的电价以及该系统长期的运行表现等因素。</p>
+<p>工程师们没有将电池板安装在立于地面的支架上，而是将它们安装在浮动平台上。锚固件和系泊绳缆将整个阵列保持在原位。</p>
+<p>利马采用的是 Ciel &amp; Terre 公司的 Hydrelio 浮动系统。其锚泊装置与岸边和水库底部相连。该设计还允许阵列随着水位的升降而移动。该项目采用了双面太阳能电池板，两面都能吸收光线。</p>
+<p>电力从光伏阵列输送到陆上的八台逆变器。从那里，电力为水处理厂提供动力。其结果看起来有点像把草地换成了水面的传统太阳能农场。</p>
+<p>这正是这个构想变得尤为吸引人的地方。土地需要成本，而且它还会与住宅、商业、农业和其他开发项目争夺空间。水库本身已经占据了空间。利马的水上浮顶阵列覆盖了约四英亩水面。</p>
+<p>据报道，生产同等电量的地面光伏系统至少需要10英亩土地。这使得浮顶太阳能对开放空间有限的城市颇具吸引力。这些电池板还可以直接安装在需要电力的设施附近。在利马，水处理厂就坐落在水库旁边。这减少了寻找偏远太阳能选址然后再想办法把电力输送到城市所需地点的麻烦。</p>
+<p>研究人员还研究了浮顶太阳能是否能通过遮蔽部分水面来帮助减少蒸发。当然，每个水库的情况各不相同。水深、水位变化和娱乐用途都会影响项目是否可行。联邦研究人员在评估潜在选址时，还会考虑现有的水坝运营情况。</p>
+<p>议员们在新众议院法案中通过彻底的许可制度改革瞄准能源可负担性</p>
+<p>这是我最初产生的疑问之一：这些电池板漂浮在为大约3.5万人提供饮用水的同一水库上。利马的系统采用了由高密度聚乙烯（HDPE）制成的 Ciel &amp; Terre Hydrelio 浮筒。</p>
+<p>Ciel &amp; Terre 表示，其浮动系统符合 BS 6920:2000 标准，该标准适用于接触人类生活饮用水的非金属材料。尽管如此，考虑采用浮顶太阳能的社区需要评估的，远不止于该结构是否能安全漂浮。</p>
+<p>美国国家可再生能源实验室（National Renewable Energy Laboratory）已经研究了围绕浮顶太阳能的环境和监管问题。其研究指出，由于地点不同，项目对水体的影响也会有所不同。这意味着在一个水库上表现良好的系统，在另一个地方可能需要采用不同的设计。</p>
+<p>还有一个值得注意的数字。利马项目的成本约为530万美元。联邦政府的资金支持在促成这笔收支平衡方面发挥了实质性作用。该市获得了能源部240万美元的拨款。加上近90万美元的联邦直接支付税收抵免，这些支持帮助抵消了该项目大约一半的成本。</p>
+<p>这些激励措施涵盖了很大一部分前期开支。当另一个城市审视利马预计节省1000万美元这一数据时，了解这一背景至关重要。一个考虑建造浮顶太阳能的城镇，需要全面审视建设成本、融资方式以及预期的发电量。可获得的政策激励措施也可能会改变这一财务测算。</p>
+<p>在施工人员将电池板安装到水面上之前数年，利马市就已经开始论证该项目。市议会于2023年批准推进该项目。施工于2025年开始，随后系统于今年8月正式并网发电。</p>
+<p>利马的做法如今看来可能有些与众不同，但浮顶太阳能拥有巨大的增长空间。俄亥俄州已拥有不止一个此类项目。D3Energy 和 ARP Solar 于2024年在俄亥俄州特拉华县为 Del-Co Water 完成了一个1.5兆瓦的浮顶阵列。位于门罗维尔的一个6兆瓦系统预计将在2026年底前上线投运。</p>
+<p>更大的机遇远远超出了俄亥俄州的范围。美国国家可再生能源实验室的研究人员对全美由联邦政府所有或监管的水库进行了研究。他们估计，这些水库具备861至1042吉瓦浮顶太阳能装机容量的技术潜力。</p>
+<p>该数据代表的是技术潜力，并非预言成千上万座水库很快就会被遮蔽在太阳能电池板之下。许多地点可能永远都不适合建设。</p>
+<p>尽管如此，这种规模有助于解释为什么能源开发商和地方政府正更加密切地关注水域。CyberGuy此前曾报道过更大规模的相关构想。印度的奥姆卡雷什瓦尔（Omkareshwar）项目展示了漂浮式太阳能装置的规模能变得多么庞大。我们还看到开发商在重新思考陆地太阳能装置的外形设计。一家德克萨斯州的公司正在建造垂直太阳能塔，旨在利用更小的占地面积生产更多的电力。</p>
+<p>美国破碎的许可制度正在悄然推高你的生活成本</p>
+<p>这正是我会密切关注的部分。利马预计在该项目的整个生命周期内将节省近1000万美元的电力成本。但这并不意味着居民的水费账单会立刻变得便宜。该市可能会以不同方式使用这些节省下来的资金。更低的能源成本有助于弥补其他支出、支付基础设施升级费用，或缓解未来费率上涨的压力。</p>
+<p>因此，如果浮动太阳能项目来到你的城镇，有一个问题值得提出：这些节省下来的费用最终会有任何一部分返还给你吗？这个答案可以决定这项技术究竟在多大程度上真正帮助了那些支付账单的人。</p>
+<p>你可能不会花太多时间去思考当地的水厂消耗了多少电力。然而，你最终都在通过税收、公共事业费率或两者兼有的方式为这些电力买单。浮动太阳能为城市提供了另一种削减该项支出的途径，且无需购买大片土地。</p>
+<p>它也引出了一些你在为项目欢呼之前应该提出的问题。这需要耗资多少？它实际上能发电多少？节省下来的资金将作何用途？你还应该询问将通过何种测试和监测来保护供水安全。这些答案将告诉你浮动太阳能项目对你的社区而言是否具有经济合理性。</p>
+<p>利马浮动太阳能项目令我赞赏之处在于其构想的务实性。该市本就拥有该水库，且紧邻的水处理厂消耗着巨大的电量。因此，利马没有另寻土地安装太阳能电池板，而是将它们置于水面之上。此外还有预计节省的1000万美元。这无疑引起了我的注意。我想看看这些节省的开支能否经得起时间的检验，更重要的是，居民最终能否从中受益。利马也为其他城市提供了一个切实可参考的范例。我们看到各个社区正在尝试生成和存储能源的新途径，从浮动太阳能到大型电池项目。谁知道呢？你所在城镇的下一个太阳能项目说不定就会直接漂浮在水面上。</p>
+<p>如果官员表示该项目可以节省数百万美元，你会对漂浮在城镇饮用水水库上的数千块太阳能电池板感到放心吗？还是说你需要先看到更多长期证据？欢迎写信至Cyberguy.com告诉我们。</p>
+<p>版权所有 2026 CyberGuy.com。保留所有权利。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 20:41 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#Deutsche</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.dw.com/en/ecuador-ex-president-bucaram-sentenced-in-corruption-case/a-79209321" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Deutsche Welle (EN 官方英语)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/tech/floating-solar-panels-could-save-cities-millions-is-your-town-next" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-politics-2185279-73214d906d75ad6e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1210" data-content-paragraphs="25" data-published-at="2026-09-10T08:07:06.000Z" data-time-source="publication">
+<div id="story-fic-game-troubling-trend-14a22249b138cf5d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1127" data-content-paragraphs="1" data-published-at="2026-09-10T12:41:11.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 16:07</span>
-</div>
-
-### [简讯：乌克兰夜间向俄罗斯发射448架无人机，致一名平民死亡](https://tass.com/politics/2185279)
-<div class="original-title-sub"><span class="orig-tag">原文</span> IN BRIEF: Civilian killed as Ukraine launches 448 drones at Russia overnight</div>
-
-<div class="article-body" data-article-body="true"><p>塔斯社莫斯科9月10日电 俄罗斯国防部通报称，防空系统昨夜在俄罗斯多个地区、黑海以及里海空域击落了448架乌克兰无人机。</p>
-<p>无人机残骸坠落在沃罗涅日州鲍里索格列布斯克镇的一栋私人住宅上，造成一名妇女死亡，另有两人受伤。在黑海度假胜地索契，乌克兰无人艇袭击海滨地区，导致28名平民受伤。</p>
-<p>塔斯社汇总了有关此次袭击后果的关键信息：</p>
-<p>- 俄罗斯国防部报告称，莫斯科时间9月9日晚8点至9月10日早8点（格林尼治标准时间下午5点至凌晨5点），值班防空部队在俄罗斯各地区上空拦截并摧毁了448架乌克兰固定翼无人机（UAV）。</p>
-<p>- 据该部称，这些无人机是在阿斯特拉罕州、别尔哥罗德州、布良斯克州、伏尔加格勒州、沃罗涅日州、卡卢加州、库尔斯克州、奥廖尔州、罗斯托夫州、图拉州、达吉斯坦共和国、卡尔梅克共和国、克拉斯诺达尔边疆区，以及克里米亚、黑海和里海上空被击落的。</p>
-<p>- 罗斯托夫州州长尤里·斯柳萨尔在社交媒体平台Max上表示，卡缅斯克-沙赫京斯基、塔甘罗格、新沙赫京斯克、伏尔加顿斯克以及该州16个区共摧毁了约90架无人机。</p>
-<p>- 沃罗涅日州州长亚历山大·古谢夫在Max上发文称，防空系统在该州上空击落了19架乌克兰无人机。</p>
-<p>- 卡卢加州州长弗拉季斯拉夫·沙普沙在Max上表示，防空系统在该州上空摧毁了10架乌克兰无人机。</p>
-<p>- 沃罗涅日州州长亚历山大·古谢夫在Max上称，无人机残骸坠落在鲍里索格列布斯克的一所私人住宅上。</p>
-<p>- 该事件引发火灾，导致一名生于1983年的女性死亡。</p>
-<p>- 另有两人受伤并在现场接受了医疗救治。</p>
-<p>- 无人机袭击引发的火灾摧毁了沃罗涅日州某城市辖区内的一处居民住宅；一所专科学校的窗户受损，一座文化中心的门、两条电线、一座输电塔、一辆公共汽车和一辆小汽车亦受损。</p>
-<p>- 在另一个区，一栋公寓楼和一处私人住宅的窗户被震碎，另有六辆小汽车和一座车库受损。</p>
-<p>- 达吉斯坦代行政长官费奥多尔·谢丘金在Max上表示，坠落的无人机碎片引发了马哈奇卡拉港口基础设施以及阿瓦尔音乐与戏剧剧院的火灾。</p>
-<p>- 火势已被迅速扑灭；没有人员伤亡。</p>
-<p>- 罗斯托夫州州长尤里·斯柳萨尔表示，无人机残骸损坏了米列罗沃区的两栋私人住宅和数辆小汽车。</p>
-<p>- 因供电线路受损，有四户私人住宅断电。</p>
-<p>- 塔拉索夫斯基区有无人机碎片坠落后引燃枯草；无人员伤亡，火势已被扑灭。</p>
-<p>- 据地区应急指挥中心报告，无人艇袭击后索契海滨起火。</p>
-<p>- 应急响应队伍正在现场开展工作。</p>
-<p>- 最新通报显示，包括两名儿童在内的28人受伤。</p>
-<p>- 目前仍有三名成人和一名儿童住院救治。</p>
-<p>- 索契市长安德烈·普罗舒宁表示，他们的生命均无危险。</p>
-<p>- 应急指挥中心补充称，海滩基础设施和滨海海堤（Primorskaya Embankment）的部分路段受损。</p>
-<p>- 普罗舒宁已责成其副手和各区负责人迅速采取措施，确保卫生安全并恢复基础设施运转。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-10 16:07 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TASS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://tass.com/politics/2185279" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-b-b066-0789543f6466-html-0cd2ddceba0ec66c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="it" data-content-length="389" data-content-paragraphs="1" data-published-at="2026-09-10T07:58:43.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 15:58</span>
+  <span class="news-meta-time">🕒 2026-09-10 20:41</span>
 </div>
 
-### [药品短缺之际，古巴重新开放私营药店](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/carente-di-medicinali-cuba-riapre-alle-farmacie-private_35f1f404-d0c1-4c1b-b066-0789543f6466.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Carente di medicinali Cuba riapre alle farmacie private</div>
+### [表现灾难且趋势堪忧，德雷克·梅耶赛后遭NFL球迷口诛笔伐](https://www.foxnews.com/outkick-sports/drake-maye-dragged-through-mud-nfl-fans-horrific-game-troubling-trend)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Drake Maye gets dragged through the mud by NFL fans after horrific game, troubling trend</div>
 
-<div class="article-body" data-article-body="true"><p>在面临严重药品短缺的背景下，古巴正在审核36家中小型企业提供私营药房服务的申请。自1959年革命以来，这一行业一直是公共卫生系统的专属特权。该岛国曾拥有数百年的制药传统，包括哈瓦那的历史老店萨拉（Sarrá）、约翰逊（Johnson）和塔克切尔（Taquechel）药房，以及邻近马坦萨斯省的特里奥莱（Triolet）药房；而如今，古巴正在将这些服务重新引入，并将其归类为“新型”业务。有关当局解释称，这些非国有企业不得销售医院专用药物、被归类为管制物质（麻醉品）的药品或其他受限物品。古巴已无限期延长了某些必需品的进口关税豁免。这使得所有入境旅客只要不用于销售目的，即可将食品、个人卫生用品和药品携带入境。这些豁免政策催生了一个依托WhatsApp群组等渠道的私营市场，通过该市场可以获取医院乃至国营药店中都无法找到的药品或物资。<br />版权所有 © 安莎通讯社（ANSA）版权所有</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/devon-witherspoon-drake-maye-seahawks-patriots.jpg?ve=1&amp;tl=1" alt="表现灾难且趋势堪忧，德雷克·梅耶赛后遭NFL球迷口诛笔伐" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>事情变得越多，就越是一成不变。<br />对德雷克·梅耶来说，这可不是什么好事。<br />在周三晚上的NFL揭幕战中，新英格兰爱国者队痛失10分领先优势，输给了德鲁·洛克带领的西雅图海鹰队，而他们的明星四分卫再次成了球队的隐患。<br />德雷克·梅耶的糟糕决断将揭幕战胜利拱手送给海鹰队，爱国者队新赛季惨遭当头棒喝<br />梅耶在上赛季季后赛四场比赛中出现了8次失误，而在周三晚上，他又送出了3次被抄截，其中包括最后彻底压垮新英格兰队的一记堪称史上最离谱的被抄截传球。<br />天哪。我已经回放了十来遍，每次点击播放都觉得惨不忍睹。无论从哪个角度看，这都极其糟糕。<br />顺便说一句，任何看了比赛的人都能隐隐感觉到这一幕的到来。梅耶整晚都无法连线纵深传球，几乎所有的成功传球都发生在开球线附近。<br />新英格兰队的战术安排简单得令人震惊：硬生生让拉蒙德雷·史蒂文森持球冲锋18次，平均每次冲球仅推进2.7码，然后再传球给……平飞区的拉蒙德雷·史蒂文森……推进3码。<br />《克雷格·卡顿秀》（THE CRAIG CARTON SHOW）——真实不遮掩、毫无妥协、不容错过。立即下载他的每日播客！<br />这对橄榄球迷来说已经成了司空见惯的场景，甚至可以追溯到上赛季饱受质疑的季后赛之旅——而此前常规赛的含金量同样存疑，因为爱国者队当时的赛程难度是全联盟最低之一。<br />如今已是梅耶征战的第3年，显而易见，球迷们开始注意到了这种趋势：<br />我还可以继续举例。当你打出如此稀烂的表现时，NFL推特圈就会变成人间地狱。更糟糕的是，这还是赛季揭幕战，球迷们积攒了长达八个月的锐评亟待宣泄。<br />我完全理解。这正是这项运动之所以成为世界顶级运动的原因。波士顿球迷深爱着他们的四分卫。三年来他们一直渴望德雷克·梅耶能够成为汤姆·布雷迪的接班人。哪怕到最后一刻他们也会为他辩护。<br />但昨晚的表现实在让人无从洗白。<br />在15码以上的长传中，梅耶6投仅1中，且被抄截3次。作为一名NFL四分卫，打出这样的数据简直匪夷所思——更何况还有球迷曾坚称他上赛季本该击败马特·斯塔福德夺得常规赛MVP。<br />爱国者队的进攻始终找不到节奏。第二节一次跳蚤骗局传球战术中，梅耶严重欠力传给A.J.布朗（布朗随后受伤）——而球队在第四节不知怎么搞的，竟然把10-0的领先优势拱手送给了德鲁·洛克。<br />互联网早就磨刀霍霍准备开喷，而梅耶直接给他们送上了一记正中红心的大好把柄。<br />显然，这不过是一场比赛而已。顺便说一句，赛季首战总是诡异莫测。这个周末还会发生许多你在赛季其余时间绝不会见到的怪事。相信我。<br />但是，与上赛季不同的是，梅耶和爱国者队接下来的赛程丝毫不见轻松。在未来三周内，他们将先后对阵钢人队、美洲虎队和比尔队。<br />梅耶大概率会挺过去的。<br />但这背后的苗头绝对值得持续关注。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 2026-09-10 15:58 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 20:41 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#ANSA</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/carente-di-medicinali-cuba-riapre-alle-farmacie-private_35f1f404-d0c1-4c1b-b066-0789543f6466.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-5-9569-d25817de7dd4-html-3097d6fc0fda70ef" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="358" data-content-paragraphs="5" data-published-at="2026-09-10T07:58:22.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 15:58</span>
-</div>
-
-### [阿莱格里表示那不勒斯在输给阿森纳后切勿灰心丧气](https://www.ansa.it/english/news/sports/2026/09/10/napoli-mustnt-get-disheartened-after-arsenal-defeat-says-allegri_7eefdac4-b9a1-46d5-9569-d25817de7dd4.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Napoli mustn&#39;t get disheartened after Arsenal defeat says Allegri</div>
-
-<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/10/d1dd8e479ed51c6ac6073b36f1e46a52.jpg" alt="阿莱格里表示那不勒斯在输给阿森纳后切勿灰心丧气" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>（安莎社）- 罗马，9月10日 - 那不勒斯主帅马西米利亚诺·阿莱格里表示，在周三欧冠首战主场0-1不敌阿森纳之后，他的球队切勿士气低落。此前，这支那不勒斯球队已在线上意甲联赛中相继负于国际米兰和科莫，目前已遭遇三连败。挪威中场马丁·厄德高在下半场的破门，为这支英超卫冕冠军赢得了胜利。</p>
-<p>“在我看来，面对欧洲最优秀的球队之一，我们表现得很好，”阿莱格里在接受Prime Video采访时说道，“上半场势均力敌，我们的控球表现也很不错。”</p>
-<p>“他们在比赛后程加快了节奏，但我们防守得当；如果我们对阵国际米兰或科莫时也能这样防守，那些比赛的结果或许就会有所不同。”</p>
-<p>“遭遇三连败确实令人失望，但我们必须看到积极的一面。”</p>
-<p>“我们绝不能灰心丧气；对输球感到失望和愤怒是理所应当的，但小伙子们踢了一场好球。”（安莎社）</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-10 15:58 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#ANSA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ansa.it/english/news/sports/2026/09/10/napoli-mustnt-get-disheartened-after-arsenal-defeat-says-allegri_7eefdac4-b9a1-46d5-9569-d25817de7dd4.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-4-8561-ec1b47765639-html-49ad08bb3206656b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="347" data-content-paragraphs="2" data-published-at="2026-09-10T07:54:45.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 15:54</span>
-</div>
-
-### [阿莱格里称那不勒斯在负于阿森纳后切勿灰心丧气](https://www.ansa.it/english/news/2026/09/10/napoli-mustnt-get-disheartened-after-arsenal-defeat-says-allegri_a24e2a13-123e-4464-8561-ec1b47765639.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Napoli mustn&#39;t get disheartened after Arsenal defeat says Allegri</div>
-
-<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/10/d1dd8e479ed51c6ac6073b36f1e46a52.jpg" alt="阿莱格里称那不勒斯在负于阿森纳后切勿灰心丧气" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>（安莎社）- 罗马，9月10日 - 那不勒斯主帅马西米利亚诺·阿莱格里表示，在周三欧冠首轮主场0-1负于阿森纳之后，球队绝不能意志消沉；此前这支那不勒斯球队已在意甲接连负于国际米兰和科莫，至此已遭遇三连败。挪威中场马丁·厄德高在下半场的进球为这支英格兰冠军球队锁定了胜局。</p>
-<p>阿莱格里在接受Prime Video采访时表示：“在我看来，面对欧洲最顶尖的球队之一，我们展现出了良好的表现。”“上半场双方旗鼓相当，我们的控球也很出色。”“他们在随后加快了节奏，但我们防守得很好；如果我们对阵国际米兰或科莫时也能这样防守，那些比赛的结果或许会有所不同。”“连续三场失利令人失望，但我们必须吸取积极的因素。”“我们绝不能灰心丧气；因失利感到失望和愤怒是正常的，但小伙子们踢了一场精彩的比赛。”（安莎社）</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-10 15:54 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#ANSA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ansa.it/english/news/2026/09/10/napoli-mustnt-get-disheartened-after-arsenal-defeat-says-allegri_a24e2a13-123e-4464-8561-ec1b47765639.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/drake-maye-dragged-through-mud-nfl-fans-horrific-game-troubling-trend" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 ::::

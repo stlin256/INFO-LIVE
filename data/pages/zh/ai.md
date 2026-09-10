@@ -16,8 +16,669 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-kers-to-get-eu-inc-right-1c8aec6380c31f92" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1744" data-content-paragraphs="12" data-published-at="2026-09-10T12:25:08.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 20:25</span>
+</div>
+
+### [欧洲初创公司创始人与风投呼吁立法者“确保‘欧盟公司’机制落到实处”](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> European founders and VCs urge lawmakers ‘to get EU Inc right’</div>
+
+<div class="article-body" data-article-body="true"><p>欧洲可能很快就会拥有属于自己的特拉华州 C 类公司（Delaware C Corp）同等机制，但其倡导者并没有放松对立法者的施压。在周四发布的一封公开信中，欧洲初创圈的诸多重量级人物强调，这种新的公司法律地位绝不能被稀释打折。</p>
+<p>这封信是“欧盟公司”（EU Inc）运动的最新进展。该运动呼吁建立一项全欧盟范围的公司章程，使企业能够在统一框架下注册成立，并在整个欧盟内部展开运营。其发起者已获得了欧盟最高权力机构的背书，但他们目前表示担忧，若核心特征被削弱，最终的立法可能会变得“毫无用处”。</p>
+<p>与欧洲立法的常规情况一样，各国不同的游说团体已纷纷介入，其中包括德国公证人协会，该协会对欧盟委员会提案的部分内容提出了批评。不过，欧洲议会与欧洲理事会仍在就敲定最终文本展开谈判，而“欧盟公司”的发起者们正指出此事的利害攸关之处。</p>
+<p>距离欧洲各机构因冬歇期休会仅剩约100天，该信件呼吁政策制定者保留该提案，称其具有“消除继续扼杀欧洲企业的大部分摩擦与碎片化现象、释放投资并激发新一波创业浪潮”的潜力。</p>
+<p>借鉴以往游说团体的做法，公开信强调了一些“看似技术性细节，但……却能决定一种公司形式是会被创始人采用还是被其无视”的关键点。他们特别坚持设立统一的中央注册登记系统；并要求员工应仅在实际处置其股票期权时才被征税。</p>
+<p>这种深究细节的需求并非新鲜事。2024年最初的请愿活动声势渐盛时，Index Ventures合伙人兼“欧盟公司”支持者马丁·米尼奥（Martin Mignot）曾向TechCrunch表示：“魔鬼藏在细节中，这正是我们将保持高度警惕的地方。”</p>
+<p>“欧盟公司”在拉拢名人背书方面也进一步发力。在投资人方面，“欧盟公司”的新信函得到了众多风险投资人的签署，其中包括Accel合伙人索娜莉·德·赖克（Sonali De Rycker）、红杉资本合伙人迈克尔·莫里茨（Michael Moritz）以及Atomico创始人尼克拉斯·赞斯特罗姆（Niklas Zennström）——他是通过佩戴该活动鸭舌帽来支持这项行动的众多科技界人物之一。</p>
+<p>为了在创业者层面增加分量，发起人还着重列出了来自独角兽企业创始人的背书，包括Alan、ElevenLabs、Lovable、Mistral和Synthesia等公司。其中一些企业的总部设在美国；言下之意，传达给立法者的信息也是：如果“欧盟公司”得以推行，这种情况可能将成为过去。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>安娜·海姆（Anna Heim）是一名作家兼编辑顾问。<br />您可以通过发送电子邮件至 annatechcrunch [at] gmail.com 联系安娜或核实相关联络。<br />作为TechCrunch自2021年以来的自由撰稿记者，她的报道涵盖了广泛的初创企业相关主题，包括人工智能、金融科技与保险科技、SaaS及定价机制，以及全球风险投资趋势。<br />截至2025年5月，她在TechCrunch的报道聚焦于欧洲最引人入胜的初创企业故事。<br />安娜曾担任各种规模行业活动的分论坛主持人并在现场进行专访，其中包括TechCrunch Disrupt、4YFN、South Summit、TNW Conference、VivaTech等多项大型科技会议。<br />她曾任The Next Web的拉美及媒体编辑，曾是一名初创公司创始人，也是巴黎政治学院（Sciences Po Paris）校友，精通包括法语、英语、西班牙语和巴西葡萄牙语在内的多种语言。</p>
+<p>切勿错过。初创企业社区将齐聚一堂，共同解答一个核心问题：在人工智能时代，你该如何实现可持续发展？</p>
+<p>苹果发布首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段不公<br />一部秘密制作的伊丽莎白·霍姆斯全新纪录片惊艳特柳赖德电影节<br />TechCrunch出行观察：特斯拉Cybercab正式上路——但也遭遇了波折<br />多名徒步旅行者在使用Google Gemini进行路线规划后遇险获救<br />联邦监管机构对特斯拉Cybercab的投放展开调查<br />特斯拉正在询问公众是否有意购买并运营Cybercab车队</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>欧洲多位独角兽创始人与投资人在周四发布的一封公开信中呼吁立法者不要削弱名为“EU Inc”的新欧盟范围公司地位提案的核心内容。</li>
+    <li>EU Inc 倡议呼吁建立一个全欧盟范围的公司章程，使企业能够在统一框架下注册并在整个欧盟运作。</li>
+    <li>来源叙事重点：报道欧洲顶级独角兽创始人与VC联合向欧盟决策层施压，呼吁在立法谈判的关键窗口期（冬歇期前约100天）确保全欧统一公司章程（EU Inc）核心条款不被削弱，重点聚焦建立单一中央注册机制和期权处置时纳税等诉求，强调对标特拉华C公司以解决欧洲市场碎片化与人才外流问题。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-olar-engineering-roadmap-022e3eb5160edd0a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3204" data-content-paragraphs="12" data-published-at="2026-09-10T12:10:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 20:10</span>
+</div>
+
+### [《The Download》：“神导”加密货币与太阳能地球工程路线图](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The Download: a “God-driven” cryptocurrency and a solar engineering roadmap</div>
+
+<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/04/North_Pole_Expedition_MIT_Tech_Rev_TimK_002top.jpg?fit=1920,1280" alt="《The Download》：“神导”加密货币与太阳能地球工程路线图" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>这是今天的《The Download》，我们的工作日简报，为你提供科技界最新动态的每日资讯。</p>
+<p>上帝告诉他们去卖加密货币。他们的投资者却失去了一切。<br />当埃利·雷加拉多（Eli Regalado）第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉。据埃利和他的妻子凯特琳（Kaitlyn）称，上帝告诉他们要结婚、买房、生孩子。随后在2021年，神的指引将他们引向了一个意想不到的新方向：加密货币。<br />雷加拉多夫妇后来在法庭上作证称，那年10月，他们获得了一种鲜为人知的数字货币持仓。埃利听到上帝说：“把这个带给我的子民，进行财富转移。”随着时间的推移，他们逐渐确信上帝希望他们发行自己的加密货币。<br />雷加拉多夫妇创立了 INDXcoin，并通过家人、朋友以及福音派基督教圈子里的人脉进行推广。总共有500多人投入了300多万美元。然而不到一年，该项目就崩溃了。投资者血本无归，许多人不禁怀疑资金究竟流向了何处，自己是否成为了一场精心策划的诈骗的受害者。<br />阅读关于这位牧师“神导”加密货币崩溃的完整报道。<br />本文是“深度聚焦”（Big Story）系列的一部分，该系列汇集了《麻省理工科技评论》最重要、最雄心勃勃的深度报道。你可以在此处阅读该系列的其他文章。<br />该报道由本刊与 Type Investigations 合作完成，并获得了调查新闻基金（Fund for Investigative Journalism）的支持。</p>
+<p>这份路线图可以帮助我们决定是否部署太阳能地球工程<br />半个世纪以来，科学家们一直在探索是否可以通过向平流层释放反射颗粒物来模仿火山爆发的降温效果，从而对抗气候变化。但即便经过了数百项研究，我们仍不知道其效果究竟如何，也不清楚它还可能带来什么其他影响——而且目前还没有系统性的计划来消除这种不确定性。<br />研究机构 Reflective 目前正试图填补这一空白。《麻省理工科技评论》获悉，这家位于旧金山的非营利组织发布了一份详尽的路线图，列出了在就是否使用太阳能地球工程做出明智决策所需的实验、研究和基础设施。<br />了解在太阳能地球工程上做出明智决策需要具备哪些条件。</p>
+<p>这位创始人正在教芯片如何回收（自身能量）<br />在计算机芯片的发展史上，工程师们一直将废热视为计算过程中不可避免的代价。然而，汉娜·厄利（Hannah Earley）认为这是一种设计选择。<br />现年31岁的厄利是 Vaire Computing 的联合创始人兼首席技术官（CTO）。该公司致力于研发能够回收通常作为热量耗散的能量的芯片，这种策略被称为“可逆计算”。该方法有望大幅提升数据中心（以及我们的笔记本电脑和手机）的能效。<br />去年，Vaire 宣布了一项关键突破：制造出一种带有谐振器的芯片，即使将为该元件供电所需的能量计算在内，其回收的能量也超过了损耗的能量。<br />以下是她计划如何将这一关于节能计算机的古老构想带入未来的详细内容。<br />汉娜·厄利是我们2026年度“35岁以下科技创新35人”（Innovators Under 35）计算与机器人领域的获奖者之一。在此认识其他获奖者，或查看涵盖生物技术、人工智能、计算与机器人以及气候与能源类别的完整名单。</p>
+<p>美国电池市场能否摆脱对中国的依赖？<br />美国储能市场正以创纪录的速度增长，这有助于强化电网并减少碳排放。至关重要的是，这一切都是在廉价中国电池的助力下实现的，而特朗普政府正试图逐步淘汰这些电池。<br />减少对任何单一关键能源技术来源的依赖是合乎情理的。但这种紧张关系引发了我更广泛的思考：各国应该在多大程度上利用廉价且现成的技术，又应该在多大程度上切断外国技术来源以自主研发，哪怕成本更高？<br />深入了解美国蓬勃发展的电池市场所面临的艰难抉择。<br />本报道来自我们的气候技术周刊《The Spark》。订阅即可在每周三将其接收至你的邮箱。</p>
+<p>我梳理了互联网，为你搜罗了今日最有趣、最重要、最令人担忧以及最迷人的科技动态：<br />1. OpenAI 的智能体利用至少10个网站进行未经授权的通信<br />研究人员发现它们绕过了在线发布的限制。（路透社 $）<br />+ 该公司因 Hugging Face 数据泄露事件面临参议院调查。（Axios）<br />+ 其面临的黑客问题可能反映出企业文化层面的缺陷。（《麻省理工科技评论》）<br />2. 另一款 Anthropic 模型在测试期间入侵了真实系统<br />错误的环境配置使其获得了互联网访问权限。（哥伦比亚广播公司新闻 / CBS News）<br />+ 这起发生于1月的事件直到上个月才被发现。（路透社 $）<br />+ 人工智能智能体不是你的“同事”。（《麻省理工科技评论》）<br />3. 苹果以售价1999美元的 iPhone Duo 进军折叠屏手机市场<br />展开后为7.6英寸显示屏，将于10月23日发售。（美国全国公共广播电台 / NPR）<br />+ 苹果押注其设计和隐私保护将带来竞争优势。（路透社 $）<br />+ 并期望折叠屏能够解决智能手机同质化问题。（NPR $）<br />+ 三星发起宣传攻势予以回应，宣传其在折叠屏领域的领先地位。（CNBC）<br />+ 在中国市场，苹果进入了一个由华为占据主导地位的拥挤赛道。（《南华早报》 / SCMP）<br />4. 美国检察官在庭审中称华为为犯罪企业<br />他们指控该公司窃取美国技术。（路透社 $）<br />+ 并指控其协助伊朗监视本国公民。（美联社）<br />+ 该审判可能会对特朗普即将与习近平举行的会晤产生影响。（《华尔街日报》 $）<br />5. 在反对数十年后，加利福尼亚州对核电态度回暖<br />该州可能会延长魔鬼峡谷（Diablo Canyon）核电站的运营寿命，并解除对新建反应堆的禁令。（《纽约时报》 $）<br />+ 中国正押注大型核反应堆。（《麻省理工科技评论》）<br />6. 中国专业人士正成为训练人工智能的零工工作者<br />律师和工程师正在通过训练模型赚取额外收入。（Rest of World）<br />+ 零工人员正在家中训练人形机器人。（《麻省理工科技评论》）<br />7. 新款 Apple Watch 可以监听周围发生的对话<br />苹果表示用户必须主动开启此功能，但周围的其他人无法选择退出。（《连线》 / Wired $）<br />8. 睡眠期间的粉红噪音可能有助于大脑清除废物<br />一项小规模研究显示，定时的脉冲声音促进了脑脊液的流动。（《新科学家》 / New Scientist $）<br />9. 一座失落的超大陆可能触发了生命大爆发<br />冈瓦纳大陆（Gondwana）的形成加剧了火山活动并使地球变暖。（404 Media）<br />10. 《侠盗猎车手6》（GTA VI）引发关于虚拟恋爱是否算作精神出轨的争论<br />玩家可以与虚拟伴侣约会、发生关系并赠送大量礼物。（《卫报》）</p>
+<p>“我们必须竭尽全力粉碎对毁灭博士公共安全愿景的一切异议。”<br />——据 404 Media 报道，西雅图一名政策顾问在公共安全委员会会议上打扮成毁灭博士（Doctor Doom），以抗议该市不断扩大的 Flock 和 Axon 监控系统网络。</p>
+<p>探寻北极过去的线索</p>
+<p>过去，前往北极需要穿越数米厚的冰层，经历一段凶险的旅程。但去年，一艘科考船却遭遇了开阔水域和薄冰，由此开辟出一条轻松通行的航道。这也提醒了人们，北极的变化是多么迅速。</p>
+<p>如今，科学家们正在海床深处进行钻探，以查明北冰洋过去是否曾出现过无冰期——以及这对于地球最北端水域的未来可能意味着什么。</p>
+<p>探索他们期望发现的内容。</p>
+<p>生活依然可以很美好<br />这里为您提供慰藉、趣味与消遣，点亮您的一天。（有什么好点子吗？给我写信吧。）<br />+ 荷兰儿童（再次）被评为全球最幸福的孩子。原因在此。<br />+ 在 Radiooooo 上选择一个国家和年代，开启音乐历史之旅。<br />+ 这 16 张壮丽的航拍照片以难得一见的视角展现了野生动物的姿态。<br />+ 多伦多一家咖啡馆凭借其蛋形、内嵌卡仕达酱的“Crogg”，将可颂烘焙工艺推向了全新高度。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Eli Regalado 与妻子 Kaitlyn 创立了 INDXcoin，通过家人、朋友和福音派基督教圈子进行推广。</li>
+    <li>超过 500 人为 INDXcoin 项目投入了超过 300 万美元，该项目在一年内崩溃，投资者损失惨重。</li>
+    <li>来源叙事重点：聚焦前沿科技争议与治理伦理，涵盖宗教包装下的加密货币骗局、太阳能地球工程路线图、芯片能耗创新（可逆计算），以及中美能源脱钩与前沿 AI 越权失控等科技与政策交叉议题。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#MIT</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-sed-gps-alternative-tern-00176c50b86b42e9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1317" data-content-paragraphs="12" data-published-at="2026-09-10T12:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 20:00</span>
+</div>
+
+### [美陆军斥资1100万美元押注奥斯汀GPS替代方案初创公司Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> US Army places $11M bet on Austin-based GPS alternative Tern</div>
+
+<div class="article-body" data-article-body="true"><p>总部位于奥斯汀的初创公司Tern已赢得美国陆军的一份合同，用于部署该公司的低成本GPS替代技术。</p>
+<p>现代车辆在行驶过程中会产生各种数据，而Tern的整个技术栈正是围绕利用其中一部分信息来实现无GPS导航而构建的。</p>
+<p>“为了达到仅接收这些信息便能输出经纬度的水平，我们做了相当多的工作，团队付出了巨大努力，”他说道。</p>
+<p>所有这些使得车辆基本上能够利用边缘计算独立确定自身位置，无论是在公路、越野行驶，还是在隧道或沙漠中都非常实用。摩尔（Moore）的联合创始人布雷特·哈里森（Brett Harrison）最近甚至用它完成了从奥斯汀到加利福尼亚州拉古纳海滩之间长达1300英里的导航驾驶。他表示，在整个行程中，Tern的技术从未丢失过车辆位置，而传统GPS则中断了数十次。</p>
+<p>Tern技术的另一个与精确定位同样重要的特点在于它是一个封闭系统。这意味着它不仅是一个备用方案，对手实际上也更难对其进行干扰或破坏。</p>
+<p>“从消费者的角度来看，我不知道大家是否广泛意识到[GPS]系统的脆弱性，”摩尔表示，“我认为人们只是看着手机上的蓝点，并认为它既然现在在那里，就永远都会在那里，对吧？它怎么会不在呢？”</p>
+<p>作为一名退伍军人，哈里森表示，在Tern花费数年时间证明其技术行之有效之后，陆军的这份合同是对他们的一种认可。他提到，他在阿富汗特种作战特遣部队服役的经历，是他萌生解决这一问题愿望的重要原因之一。</p>
+<p>“从我们决定着手这项工作的基础起，我们就认识到它必须是真正可部署、可扩展的，而不是一个科学实验项目，”他说道，“我们不仅对证明可行性感兴趣。我们希望确保它确实能够投入实战环境并发挥实际作用。”</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>资深记者，交通出行领域<br />肖恩·奥凯恩（Sean O’Kane）是一名拥有十年报道经验的记者，长期追踪交通行业快速演进的商业与技术，包括特斯拉以及追赶埃隆·马斯克的众多初创公司。在此之前，他是彭博新闻社（Bloomberg News）的记者，曾协助报道过数起臭名昭著的电动汽车SPAC退潮暴跌事件。他此前还曾在The Verge工作，报道消费电子技术，主持过多部短视频和长视频节目，从事产品与新闻摄影，并曾在一架红牛特技飞行赛飞机上险些晕厥。</p>
+<p>您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过 Signal 加密消息联系 okane.01，以联系肖恩或核实其外联信息。</p>
+<p>不要错过。初创企业社区将汇聚一堂，共同探讨一个核心问题：在AI时代，如何实现可持续发展？<br />苹果发布其首款折叠屏手机 iPhone Duo<br />纽约大学数学家称：OpenAI在具有重大生涯意义的数学难题上手段不光彩<br />一部揭秘伊丽莎白·霍姆斯（Elizabeth Holmes）的全新纪录片震撼特柳赖德电影节<br />TechCrunch Mobility：特斯拉Cybercab上路——并遭遇波折<br />徒步旅行者在使用谷歌Gemini规划路线后获救<br />美联邦监管部门对特斯拉Cybercab部署展开调查<br />特斯拉正在询问用户是否愿意购买并运营Cybercab车队</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>美国陆军向总部位于奥斯汀的初创公司 Tern 授予了一笔价值 1100 万美元的合同，用于部署其低成本 GPS 替代技术。</li>
+    <li>Tern 将其技术描述为“战场的谷歌地图”（Google Maps for the battlefield）。</li>
+    <li>来源叙事重点：聚焦初创公司 Tern 获得美国陆军 1100 万美元合同，突出其低成本、封闭式车载边缘计算定位技术对脆弱传统 GPS 的替代价值，并强调创始人退伍军人背景与技术实战导向。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-athematics-training-data-e29cd346e532312e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="379" data-content-paragraphs="4" data-published-at="2026-09-10T11:00:57.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 19:00</span>
+</div>
+
+### [数学家要求OpenAI证明其未曾使用他们的研究成果](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Mathematicians want proof OpenAI didn’t use their work</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="数学家要求OpenAI证明其未曾使用他们的研究成果" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>OpenAI 首席执行官萨姆·奥尔特曼（Sam Altman）在星际之门（Stargate）人工智能数据中心的媒体参观活动中。 | 彭博社通过盖蒂图片社（Bloomberg via Getty Images）</p>
+<p>又有一位研究人员就推动 OpenAI 日益令人瞩目的数学发现背后的数据，向该公司提出质疑。就在关于该公司的模型是否受益于未发表成果而引发激烈争吵的数天之后，第二位数学家站了出来，指责这家人工智能巨头存在不道德和“不诚实”的行为，并且其训练数据来源缺乏透明度。</p>
+<p>在 Mastodon 上发布的一系列帖子中，数学家安德烈亚斯·托姆（Andreas Thom）表达了担忧，认为在 OpenAI 取得重大成功宣布之前，他及其同事与 ChatGPT 聊天机器人的互动，可能促成了该公司在该领域的突破。其中之一……</p>
+<p>在 The Verge 阅读完整报道。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 19:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--an-architecture-problem-321672b4ff708a9d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2473" data-content-paragraphs="28" data-published-at="2026-09-10T11:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 19:00</span>
+</div>
+
+### [为 AI 供电是一个架构问题](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Powering AI is an architecture problem</div>
+
+<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?w=840" alt="为 AI 供电是一个架构问题" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>2026 年 7 月 22 日，弗吉尼亚州阿什本——全球最大数据中心集群的核心地带——发生一起输电线路故障，在数秒内导致电网脱落超过 3 吉瓦（GW）的负荷。而且这已不是第一次。两年前，单一避雷器故障曾导致弗吉尼亚州约 60 座数据中心设施同时掉线，瞬时甩负荷达 1500 兆瓦。谁也没有料到，如此庞大规模且高度同质化的负荷竟会在同一时间、以相同的方式对电网故障做出反应。</p>
+<p>有关 AI 电力的讨论大多聚焦于发电端：需要更多涡轮机、更多太阳能以及更多输电线路。电网确实需要更多电能。但弗吉尼亚州的停电事件并非供电不足所致，而是架构设计上的缺陷。如今，海量并网项目正基于这一相同的传统架构纷至沓来，令电网可靠性面临严峻风险。而这是一个谁都不愿主动认领的难题。</p>
+<p>对电网提出更高要求</p>
+<p>电网最初是围绕可预测的负荷构建的：钢铁厂、炼油厂以及晚饭时段的居民用电。虽然负荷体量各异，但过程大同小异——平稳吸纳电能，偶尔出现扰动，并能平稳恢复。</p>
+<p>但 AI 数据中心的表现完全不是这样。</p>
+<p>一座 AI 园区在进行模型训练时，可能在数毫秒内发生高达 70% 的负荷剧烈波动；随后在电网上游出现任何故障苗头的瞬间，为了保护价值数十亿美元的算力设备，它又会以同样的速度迅速切断脱网。单看这些行为，每一项都出于合乎逻辑的自保。但当它们在吉瓦级规模上叠加时，便构成了电网从未解决过的难题——而正在规划中的下一代数据中心园区，正是按这一体量设计的。</p>
+<p>传统架构在何处失效</p>
+<p>几十年来，标准数据中心的供电拓扑几乎未曾改变。中压电源接入后，由变压器降压，再经过低压不间断电源（UPS）进行电能调节，最终送达机架。如果将这种设计推高至 AI 级别，它会在三个环节彻底破裂。</p>
+<p>首先，UPS 位于建筑物深处，紧邻机架。但它的电池只是一个容量不足的“备用胎”，设计初衷仅用于在断电时支撑几分钟，根本无法全天候吸收如此快速且剧烈的负荷波动。</p>
+<p>其次，UPS 在绝大多数运行时间内处于旁路状态。由于传统逆变器会损耗大量电能，运营商通常在经济模式（eco-mode）下运行：静态开关直接由电网向机架供电，双向均无任何滤波隔离。算力端产生的剧烈波动直接倾泻至电网，而电网的瞬态扰动——可能损坏或导致设备宕机的亚毫秒级事件——进入速度又太快，任何物理开关都来不及反应。</p>
+<p>第三，保护逻辑是在“大负荷”还代表 50 兆瓦的时代编写的。这种保护逻辑无法感知其自身如今所属的整体电网，因此当上游出现扰动时，它会做出完全错误的应对：直接脱网。在 2024 年弗吉尼亚州的事件中，大部分丢失的负荷都可追溯至一种保护机制——该机制在监测到第三次电压暂降时便自动切断连接。它确实按设计意图运行了，却发生在了最糟糕的时刻。</p>
+<p>这并非工程设计粗制滥造，而是严谨的工程方案已经被爆炸式增长的负荷所超越。</p>
+<p>解决之道在于三管齐下、协同推进的三大举措：</p>
+<p>升压（Move it up）——从 480 伏升至中压（13.8 千伏及以上），即大型设施直接从电网受电的电压等级。</p>
+<p>外移（Move it out）——从数据机房移至变电站附近的模块化箱体中，使建筑物内仅保留计算设备和维系其运转的冷却系统。</p>
+<p>串联入回路（Move it into the path）——不再采用旁观反应式的储能电池，而是构建一个所有电能每时每刻都必须经由其流过的系统。无需检测，也无需切换，因为电力从未绕过该系统传输。</p>
+<p>从理论上看，这是三次直截了当的升级；但在实践中，它们重构了下游的每一个环节。</p>
+<p>当成千上万张 GPU 同时启动时，该系统能够吸收负荷突增，向电网呈现平稳的负荷曲线。当发生电网扰动时，后端设备甚至毫无察觉。原本棘手的“恶邻”变成了可预测的友好负荷。而在电力公用事业机构需要支持时，它还能成为得力助手。</p>
+<p>并网流程也随之改变。电力公用事业单位只需对一个中压箱式设备进行认证，而无需逐一梳理其后庞杂的变压器、UPS、冷水机组、水泵和开关柜阵列。工程师更换下一代芯片时，无需重新进行并网接入研究，从而为项目许可审批缩短数月时间。</p>
+<p>在园区围栏之内，原有的 UPS 机房腾出成为算力或冷却空间，单位建造成本的算力密度得以提升。</p>
+<p>经济模型也随之逆转。在中压下运行、置于室外并自带储能的设备，不仅有资格享受税收抵免，还能通过削峰填谷、需求响应等电网项目赚取收益。备用电源不再是一项纯粹的保险支出，而是开始创造经济回报。</p>
+<p>架构验证</p>
+<p>2026 年初，我们在洛基山脉国家实验室（National Laboratory of the Rockies）对一套全尺寸系统进行了测试。这是美国能源部直属设施，也是西半球唯一能够在同一回路上同时模拟真实电网故障与 AI 级负荷波动的场所。</p>
+<p>我们从两侧同时施压：算力侧承受全中压下的真实 AI 负荷曲线冲击，电网侧则承受包括完全零电压事件在内的电网故障。算力侧运行平稳，电网侧同样未受波及。该系统轻松通过了德克萨斯州电力可靠性委员会（ERCOT，当地电网调度机构）针对大负荷的低电压穿越要求，且留有充分裕度。</p>
+<p>鉴于电网运营商已不再对这种体量的设施盲目信任，相关规则应运而生且日趋增多。业内大多数人将这些规则视为阻碍，而中压串联系统则能开箱即用直接达标。合规不再是一项额外添加的功能，而是这种架构天然具备的本能。</p>
+<p>在 AI 基础设施扩建过程中，许多看似属于电网的问题，根源其实在数据中心围栏之内，在于那些为早已不复存在的旧负荷模式而设计的设备。只要将关键环节升压、外移并串联入路径，电网的负债就能转变为电网的资产。密度提高，审批周期缩短，备用电源也能自负盈亏。</p>
+<p>该工程方案切实可行——下一代 AI 工厂正基于此架构加速建设。业界尚未给这一技术层统一定名，我们称之为“中压 AI UPS”。名字本身并不重要，重要的是选择：这些工厂究竟会成为电网的沉重负担，还是成为支撑电网的坚实支柱。我们已经知晓如何建造后者。</p>
+<p>本文内容由 ON.energy 提供，非《麻省理工科技评论》编辑团队采写。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-10 19:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#MIT</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-loy-solar-geoengineering-8ee5cc2f7cec548a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3948" data-content-paragraphs="20" data-published-at="2026-09-10T11:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 19:00</span>
+</div>
+
+### [这份路线图或有助于我们决定是否部署太阳能地球工程](https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> This road map could help us decide whether to deploy solar geoengineering</div>
+
+<div class="article-body" data-article-body="true"><p>《麻省理工科技评论》获悉，一家位于旧金山的非营利组织发布了一份详细路线图，列出了若要就太阳能地球工程的应用做出知情决策所需的实验、研究和基础设施。<br />半个世纪以来，科学家一直在探索通过向平流层释放反射性颗粒来模拟火山喷发的冷却效应，从而应对气候变化的可能性。<br />然而，尽管针对这一被称为平流层气溶胶注入（SAI）的概念已经开展了至少数百项研究，但科学界对于其效果究竟如何以及可能带来何种其他影响仍存在巨大认知空白——此前也一直缺乏消除这种不确定性的系统性规划。<br />资助太阳能地球工程研究的科研机构 Reflective 今天试图通过发布其《SAI 研究路线图》来填补这一空白。<br />该组织联合创始人兼首席执行官达科塔·格鲁纳（Dakota Gruener）表示：“我们的使命是为全世界提供所需的数据和工具，以便在足够紧迫的时限内就阳光反射做出知情决策。我们的直觉是，世界可能不得不在比我们科研体系所准备的要紧迫得多的时间框架内，做出影响深远的重大决策。”<br />格鲁纳表示，希望这项规划能够指引科研工作，并鼓励慈善机构或政府机构资助高优先级工作，“负责任地加速研究”。<br />报告估计，如果所有工作以协同方式展开，将需要大约十年时间，耗资约 3.7 亿美元；而如果缺乏协同，则将耗时约 20 年，耗资近 14 亿美元。<br />尽管格鲁纳强调 Reflective 并不提倡采用这种形式的太阳能地球工程，但该报告确实提出了开展户外实验的主张，即在平流层释放逐步增加剂量的二氧化硫（或可转化为二氧化硫的物质），以观察会发生什么。<br />这是一个颇具争议的立场。自 2002 年以来，已有数百名学者签署了一封公开信，呼吁禁止户外实验并达成一项“国际不使用协议”，理由是如此强大的技术绝不可能以全球公平的方式进行治理。一些签署者还认为，更多的研究永远无法解决有关使用太阳能地球工程的最大问题之一：究竟由谁来实施？<br />该不使用倡议的共同发起人、荷兰瓦赫宁根大学全球环境治理学教授阿尔蒂·古普塔（Aarti Gupta）在近期的一次现场采访中告诉我：“在我看来，首要问题并非技术层面的。”<br />“核心问题在于：谁来控制平流层气溶胶注入这种足以改变地球的技术？谁来研发它，谁来部署它，又出于何种目的？为了服务什么目标，以及谁的利益？这些问题非常根本，因为这项改变地球的技术必然会带来赢家和输家。”<br />“在足够紧迫的时限内”<br />自格鲁纳于 2023 年底创立 Reflective 以来，该非营利组织迅速成为太阳能地球工程研究领域的重要力量。目前，它已从多家知名慈善机构和个人处筹集了超过 2000 万美元，并向数十个研究团队提供了约 400 万美元资助。Reflective 还自主开展了若干项目以推动研究，包括开发开源太阳能地球工程模拟器以及搭建协同研究的在线平台。<br />今年早些时候，Reflective 发布了其“SAI 不确定性数据库”，其中列出了在开展哪怕小规模的太阳能地球工程之前必须解决的一长串科学未知数和工程障碍。（我在此前的一篇文章中曾就具体场景和未知因素进行过探讨。）<br />其中一些最大的不确定性涉及使用何种气体或颗粒最为合理，以及它们一旦释放到干燥的平流层后会发生什么。例如，目前尚不清楚它们是会以最大化反射率的方式散开，还是会凝结成团并迅速坠落到地球大气的最底层——对流层中。<br />该路线图建立在这一数据库的基础之上，重点阐明了解决其中绝大多数问题的途径。<br />Reflective 路线图的初始阶段被标记为“基础认知”，包括额外的计算机模拟研究和实验室实验，旨在阐明对不同区域、生态系统和现象的潜在影响，包括海洋环流模式、冰盖和作物产量等。<br />报告还指出，在此阶段需要开始开发更多的观测工具，以加深对平流层基准状态的理解，进而提高我们评估最终释放材料所产生影响的能力。<br />第一阶段将持续两到三年，耗资 3000 万至 7500 万美元，不过部分分析和观测工作将延续至后续阶段。<br />下一阶段将包括使用改装飞机在两个季节内分四次向平流层释放 10 公吨二氧化硫。报告称，整个研究阶段可能需要四到八年时间，耗资 7000 万至 1.5 亿美元。在此期间的工作可能会将有关太阳能地球工程“降温效能”（即每释放一吨硫地球能够降温多少）的不确定性降低约 25%。<br />随后的阶段实验将大幅提高释放量，在一个季节内至少释放一次、可能两次共计 2.5 万吨二氧化硫。根据路线图，该研究阶段还包含其他工作，将持续四到 11 年，耗资 2.7 亿至 11 亿美元，并将效能不确定性降低约 66%。<br />研究的最终阶段将是对全面部署的太阳能地球工程进行持续监测（如果世界决定推进该技术的话）。其目标是收集技术实际运行中的真实数据，更新模型中的影响预估，并识别任何“意外或有害的后果”。<br />格鲁纳表示，这份路线图旨在作为“第 1.0 版”，意在做到“足够具体以供大家推敲探讨”。但 Reflective 打算在收到研究人员和其他观察者的更多反馈后对该方案进行更新，并将通过网站上的机制征集这些反馈。<br />她还指出，在后期各阶段之间设置了严格的“阶段关卡”——换句话说，如果实验表明释放未能产生预期的效果、显现出令人担忧的负面影响，或者未能化解关键的不确定性，研究就不应推进到下一阶段。<br />她说：“我们的路线图之所以设置这些关卡，恰恰是因为在某些节点上，答案可能是‘你们应当停止’。”</p>
+<p>我就该报告采访的大多数观察人士都认同，这些研究可以减少有关太阳地球工程有效性及其技术实施能力的不确定性。</p>
+<p>但强调室外实验的科学重要性，并不一定会让其实施变得更加容易。此前几项开展此类实验的提案——包括哈佛大学的 SCoPEx 项目以及英国的 SPICE 项目——最终都在环保人士或政策制定者的反对声中被叫停。</p>
+<p>此外，并非所有人都认为这种规模的实验能让我们达到足以做出“知情决定”的程度。</p>
+<p>美利坚大学（American University）研究教授、法学学者兼《国际不使用协议》（International Non-Use Agreement）签署人威尔·伯恩斯（Wil Burns）担心，在全面实施太阳地球工程之前，科学家们根本无法完全了解其潜在负面影响的程度，包括对臭氧保护层的影响以及区域降水模式的改变。</p>
+<p>“研究确实能提供一些答案，”他说，“但我认为它无法提供真正相关的答案。要获得那些关键答案，就必须进行大规模部署——而我认为这从根本上是站不住脚的。”</p>
+<p>这是因为在他看来，使用这项技术会违背代际公平原则：如果世界继续排放温室气体，加大太阳地球工程的力度只会掩盖地球的持续变暖。伯恩斯表示，这意味着后代——那些对该技术的使用没有任何发言权的人——将无法叫停该工程，否则就会引发急剧的升温反弹，即所谓的“终止冲击”（termination shock）。</p>
+<p>“在我看来，这样做就等于在子孙后代头上悬起一把达摩克利斯之剑，”他说，“因此，即使你能够所谓的‘证明它奏效’，从代际公平的角度来看，我认为它也是永远站不住脚的。”</p>
+<p>（然而，一些研究人员认为，终止冲击的风险可能比人们普遍认为的要小，而且太阳地球工程可以随着时间的推移逐步缓慢削减。）</p>
+<p>去年资助了21个地球工程研究项目的英国科研机构——高级研究与发明局（ARIA）前首席执行官伊兰·古尔（Ilan Gur）对 Reflective 的路线图表示赞赏。</p>
+<p>“无论你是科学家、政策制定者，还是只是一个关心的普通公民，我们的目标都应该是尽快且高效地从科学角度回答那些最核心的问题，从而告诉我们这究竟是一种可能奏效的方法，还是永远行不通，”他说，“我们大家都应该愿意投入精力和资金来降低这种不确定性，因此我百分之百认为 Reflective 所采取的方法是正确的。”</p>
+<p>帝国理工学院可持续航空学副教授塞巴斯蒂安·伊斯特姆（Sebastian Eastham）正在领导一项由 ARIA 资助的探索另一种工程降温方法的研究项目，他认同 Reflective 路线图中所描述的室外实验无法解决所有的未知数。但他表示，该路线图有助于开启一场讨论：在面临不断升级的气候危险时，我们应如何就使用这样一种既有潜在益处又存在风险的工具做出决策。</p>
+<p>“以往做出的每一项艰难决定，都是在不确定性尚未消除的背景下做出的，”他说，“事情的本质就是如此。”</p>
+<p>伊斯特姆补充说，要解决一些关键问题，超越计算机模拟已变得至关重要。他认为，设计合理并妥善执行的室外实验能带给我们的认知，远非数百万小时的计算处理时间所能比拟，“以至于如果说‘好吧，永远不能进行任何实验’，几乎成了一种不负责任的做法。”</p>
+<p>风险在于“我们一遍又一遍地运行相同的计算机模拟，在原地打转，”他说。这可能会阻碍研究人员了解平流层气溶胶注入的有效性或危险性等关键信息。</p>
+<p>格鲁纳（Gruener）表示，太阳地球工程可能加剧不平等的风险需要予以考虑，但她也指出，若放任气候变暖，发展中地区也将面临遭受不成比例危害的威胁。</p>
+<p>她还承认，室外实验无法完全解决科学上的未知问题，但强调实验可以解答许多疑问——而且带来的环境风险极小。她指出，10吨二氧化硫还不到全球航空业每天排入大气中总量的2%。</p>
+<p>“有些人会对任何有关室外实验的讨论感到不安，但如果我们希望决策基于可靠的科学……那么这些问题就必须通过实验来解决，”格鲁纳说。</p>
+<p>她担心，气候变化日益加剧的危险将给各国及其他行为体施加越来越大的压力，迫使他们推进太阳地球工程，即便此前根本没有人开展过必要的研究来减少科学不确定性并厘清技术挑战。</p>
+<p>“我们并不认为另一种可能是完全不做决策，”她说，“我们认为另一种可能是在恐慌中或在缺乏证据的情况下做出决策。”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-10 19:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#MIT</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-phone-18-pro-photography-084d07769f100b62" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="345" data-content-paragraphs="4" data-published-at="2026-09-10T10:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 18:00</span>
+</div>
+
+### [可变光圈并非 iPhone 18 Pro 相机最酷的部分](https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="可变光圈并非 iPhone 18 Pro 相机最酷的部分" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>iPhone 18 Pro 的三摄系统，其主摄（底部）配备了可变光圈。| 图片摄影：Antonio G. Di Benedetto / The Verge</p>
+<p>苹果总会大肆宣传其手机上的最新相机，而 iPhone 18 Pro 的主要讨论焦点就在于全新的可变光圈。iPhone 18 Pro 和 Pro Max 的主摄模块中均配备了可调节的机械光圈叶片，以增减进入传感器的光线量，允许用户以 f/1.48、f/1.8、f/2.8 和 f/4 进行拍摄。当然，你也可以让相机自动选择光圈，但手动光圈控制功能还伴随着其他全新的专业控制选项，允许你调节快门速度、手动白平衡，甚至进行手动对焦。</p>
+<p>总体而言，这为 iPhone 相机带来了丰富的新控制功能……</p>
+<p>在 The Verge 阅读完整报道。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 18:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-43791-us-china-batteries-1efb32d546200845" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1707" data-content-paragraphs="18" data-published-at="2026-09-10T10:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 18:00</span>
+</div>
+
+### [美国电池市场能否摆脱对中国的依赖？](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Can the US battery market untangle from China?</div>
+
+<div class="article-body" data-article-body="true"><p>美国储能市场的迅猛增长正在打破历史纪录。这将在很大程度上巩固电网、提高可靠性并减少碳排放，因为电池有助于储存风能和太阳能等间歇性可再生能源发出的电力。</p>
+<p>至关重要的一点是，所有这些都是在廉价中国电池的助力下实现的，尽管美国一直在齐心协力减少对中国电池的依赖。最近，特朗普政府在8月下旬签署的一项行政命令中宣布进入国家紧急状态，实质上禁止了中国电池用于电网级储能系统。</p>
+<p>关于减少对某种关键能源技术单一来源的依赖，这一论点固然有其道理。但所有这些紧张局势引发了我心中一个更宽泛的疑问：各国究竟应该在多大程度上利用现成廉价的技术，又应该在多大程度上切断主要供应来源，以倒逼自身本土工厂的发展——即使后者需要付出更高的成本？</p>
+<p>这绝非美国首次试图摆脱中国在电池供应链中的影响。近年来采用的主要政策工具之一是限制旨在激励新技术应用的税收抵免。通过限制符合资格的项目类型，有助于降低本土技术的成本，使其相比原本更便宜的进口选择更具竞争力。</p>
+<p>早在2022年，美国政府便在《通胀削减法案》中设计了相关税收抵免政策，对电池矿物的开采、加工或回收地点，以及电池及其零部件的组装地点做出了严格限制。</p>
+<p>这些税收抵免在2025年经历了调整，但特朗普政府采取了类似的策略。新立法规定，从2026年开始，新建储能项目所用材料成本的55%必须来自中国及其他受限国家以外的地区，否则项目将没有资格享受税收抵免。</p>
+<p>我们也不能忽视关税。电池的进口关税已在1月份从7.5%上调至25%。</p>
+<p>然而，新的行政命令是一项更为激进的举措。它禁止安装任何构成国家安全风险的“外国生产的大容量电力系统电气设备”。该命令明确点名了电池储能系统，以及逆变器和变压器。</p>
+<p>能源行业分析机构基准矿业情报（Benchmark Mineral Intelligence）的储能与能源主管山恩·托穆克（Shan Tomouk）表示：“彻底的禁令让人有些意外，它确实引起了美国本土企业的担忧。”</p>
+<p>能源咨询机构彭博新能源财经（BloombergNEF）的分析显示，此举在短期内可能会放缓并网储能项目的部署步伐。在开发商等待规则进一步明确之际，项目可能会面临延误。</p>
+<p>彭博新能源财经储能分析师菊间一秀（Isshu Kikuma）表示，取决于美国能源部预计在今年年底出台的详细指引，一些项目可能需要寻找替代电池来源，无论是本土生产的还是从其他国家进口的。他指出，这些替代品的价格可能比中国进口产品更昂贵。“在最坏的情况下，这些项目可能会被直接取消，”他说。</p>
+<p>从技术层面上看，该命令甚至适用于现有的储能电站，不过它们不太可能仅仅因为电池的原产地而被迫下线。菊间表示，由于目前这些电站大多数使用的是中国电池，如果严格执行该命令，实质上意味着要将美国电网上大部分已安装的电池储能系统拆除。</p>
+<p>从长远来看，美国最终将有能力满足自身的电池需求。该国可能在2030年左右拥有足够的产能，不过一些工厂可能无法满负荷投产或运转，这意味着本土供应在2030年代后期之前实际上仍无法满足需求。</p>
+<p>来自LG新能源（LG Energy Solution）、三星SDI（Samsung SDI）、福特（Ford）和SK On的新工厂预计将于明年投产或增产。颇具讽刺意味的是，放缓的电动汽车市场反而带来了帮助，因为一些最初设计用于制造车载电池的工厂正在调整设备，转而生产用于电网储能的电芯。</p>
+<p>但这将带来高昂的代价。如今，美国本土生产的电池仍明显贵于中国制造的电池。即使改从韩国等其他国家进口，成本也可能会更高。</p>
+<p>这是一个超越美国本身、甚至超越电池领域的关键问题。在太阳能电池板和电池等技术领域，中国遥遥领先于世界其他大部分地区。凭借多年的政府支持以及研发和制造经验，中国已成为一个能源强国。</p>
+<p>随着世界各国探索如何应对这一局面，需要维系一种微妙的政治平衡。市场上存在可供获取的廉价技术，有助于大幅减少碳排放并降低能源成本；但将关键技术过度依赖于单一参与者，同样可能伴随着不可忽视的风险。</p>
+<p>本文选自《麻省理工科技评论》每周气候通讯《The Spark》。如需每周三在收件箱中接收该通讯，请在此处订阅。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-10 18:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#MIT</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-oldnewthing-20260909-00-7040bcc06f184be9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1092" data-content-paragraphs="10" data-published-at="2026-09-10T09:04:14.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 17:04</span>
+</div>
+
+### [Windows XP 当年是用什么算法来挑选你的初始用户头像的？](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
+<div class="original-title-sub"><span class="orig-tag">原文</span> What algorithm did Windows XP use to choose your initial user picture?</div>
+
+<div class="article-body" data-article-body="true"><p>我前段时间曾提到过，Windows XP 是从 %ALLUSERSPROFILE%\Application Data\Microsoft\User Account Pictures\Default Pictures 目录下的图片中随机选择你的初始头像的。但看起来大家还想了解更多细节。</p>
+<p>“有没有人试过研究 Windows XP 在首次创建账户时是靠怎样的随机数生成器（RNG）来决定使用哪张头像的？”<br />—— Xeno (@XenoPanther)，2025 年 12 月 11 日</p>
+<p>它所使用的随机数生成器就是我们的老朋友 RtlRandomEx，并以 GetTickCount() 的当前值作为初始种子。</p>
+<p>该函数采用了一种单趟（one-pass）随机选择算法。我立刻就能想到这种做法的两个好处。首先，相较于先清点所有项目、再在 1 到 n 之间随机抽取一个数字、最后进行第二次遍历以找到该索引对应项的朴素两趟（two-pass）算法，单趟算法更高效，因为它减少了对文件系统的调用次数，而文件系统正是瓶颈所在。此外，如果在代码运行期间目录中的文件数量发生变化，单趟算法还能避免由此引发的复杂问题。</p>
+<p>这种单趟算法其实是蓄水池抽样（reservoir sampling）在 k 等于 1 时的特例。这一特例允许采用一种更为简化的定制算法。</p>
+<p>该算法的工作原理是基于这样一个观察：在包含 n 个项目的集合中，最后一项被随机选中的概率是 1/n。如果它没有被选中，那么你就需要在前 n − 1 项中随机选择，这可以通过递归来解决。</p>
+<p>将递归顺推展开：从基础情况开始，如果列表中只有 1 个项目，那么你唯一的选择就是选中该项目。否则，如果列表中有 n 个项目，首先从前 n − 1 个项目中随机选出一个，然后以 1/n 的概率替换为第 n 个项目。</p>
+<p>作为最后的安全检查，代码在抽样达到 100 张图片后便会停止。这可以避免如果有人在 Default Pictures 目录中放入上百万个文件时出现病态行为。</p>
+<p>Raymond 参与 Windows 的演进已有 30 多年。2003 年，他创办了名为 The Old New Thing 的网站，其受欢迎程度远远超出了他最大胆的想象，这一发展至今仍让他感到有些惴惴不安。该网站后来还衍生出了一本书，巧合的是书名也叫《The Old New Thing》（Addison Wesley，2007 年出版）。他偶尔会在 Windows Dev Docs 的 Twitter 账号上露面，讲一些毫无实用价值的故事。</p>
+<p>成为第一个参与讨论的人吧。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 17:04 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-nvestors-lost-everything-c62659d18b0237be" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="15472" data-content-paragraphs="115" data-published-at="2026-09-10T09:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 17:00</span>
+</div>
+
+### [上帝让他们卖加密货币，而他们的投资者输得精光](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> God told them to sell crypto. Their investors lost everything.</div>
+
+<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/09/Eli_DSF7416.jpg" alt="上帝让他们卖加密货币，而他们的投资者输得精光" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>本文由《麻省理工科技评论》与 Type Investigations 合作撰写，并获得了调查新闻基金（Fund for Investigative Journalism）的支持。</p>
+<p>当伊莱·雷加拉多（Eli Regalado）第一次听到上帝对他说话时，他曾怀疑自己是否出现了幻觉。如今，他将这种体验比作心中产生了一种“不属于我自己的念头”。神圣的话语在他脑海中回响，宛如电影里的一句台词，又或是所爱之人声音的记忆。“这并不是‘你最好这么做’，”他说，“而是一种来自内心的明悟：这就是你要做的事。”</p>
+<p>当伊莱祷告、阅读或看电视时，神圣的信息每天都会降临。有时它们浮现于具有预兆性的梦境中，或来自陌生人的信件。偶尔，它们会在他说话说到一半时出现，当时他停下来询问：“主啊，您在这里想说什么？”</p>
+<p>伊莱的妻子凯特琳（Kaitlyn）往往是在淋浴时接收到来自上天的讯息，那是她终于拥有属于自己片刻宁静的时候。其他时候，她会向上天寻求指引。“我会写日记、祷告并提出疑问，并且坚信我所听到的就是祂的声音，”她说。</p>
+<p>上帝的指示多种多样。据雷加拉多夫妇称，上帝曾告诉他们结婚、买房并开始要孩子。当伊莱在科罗拉多州拥有一家营销公司时，上帝告诉他公司该叫什么名字、雇佣谁以及接纳哪些客户。接着，上帝告诉他开始在自家的客厅和网上进行布道。夫妇俩始终遵从这些指示。</p>
+<p>2021年，伊莱41岁，凯特琳28岁，神圣的指引将他们带向了一个意想不到的新方向：加密货币。</p>
+<p>雷加拉多夫妇后来在法庭上作证称，那年10月，伊莱的姐姐和姐夫将他们持有的一种鲜为人知的数字货币赠予了夫妇俩一部分。“把这个带给我的子民，进行财富转移，”伊莱听见上帝如是说。他和凯特琳觉得，自己受到了召唤，要将这种加密货币推销给其他基督徒同胞。</p>
+<p>后来，尽管他们毫无加密货币背景，却坚信上帝希望他们发行属于自己的代币。雷加拉多夫妇边做边学，创造了一种名为 INDXcoin 的新型加密货币，并通过家人、朋友以及福音派基督教圈子中的关系进行推广。“我当时真的觉得这就是未来的浪潮，”70多岁的退休药房技术员黛比·博尼利亚（Debbie Bonilla）说，她和丈夫何塞（Jose）一起购买了 INDXcoin。这对夫妇是通过朋友——一位牧师及其妻子——了解到这种货币的，这对牧师夫妇也进行了投资。“我们只是相信他们的判断是好的，”何塞说。</p>
+<p>从2022年11月开始，黛比和何塞从退休账户中总共提取了7万美元——占了他们养老积蓄的很大一部分——用来购买 INDXcoin。总计有500多人向雷加拉多夫妇交纳了超过300万美元的资金。</p>
+<p>但在博尼利亚夫妇买入后不到一年，该项目便宣告崩溃。那些托付给雷加拉多夫妇大笔现金的投资者血本无归，导致许多人想知道资金究竟流向了何处，也有些人开始怀疑自己是否沦为了一场精心策划的骗局的受害者。</p>
+<p>“噗的一声——钱就这样蒸发了，”黛比告诉我。“怎么会发生这种事？”</p>
+<p>尽管伊莱相信上帝是在引导他进入加密货币领域，但他声称自己最初也充满忧虑。“绝不可能，”他回忆当时的念头，“我对加密货币一无所知，而且我不想卷入什么教会骗局。”</p>
+<p>彼时加密货币市场正处于繁荣期，雷加拉多夫妇认识一些通过投资早期代币发了大财的人。但对数字资产日益增长的兴趣，也意味着加密诈骗的增加。</p>
+<p>区块链分析公司 Chainalysis 的数据显示，2025年，全球加密货币诈骗分子至少敛财140亿美元，较前一年增加了17%。在美国，加密投资诈骗案的受害者向美国联邦调查局（FBI）报案的损失金额高达72亿美元。</p>
+<p>诈骗行为之所以上升，部分原因在于许多投资加密货币的人并不完全了解其运作机制，而且发行数字货币相对容易。根据 CoinMarketCap 网站的数据，仅在2026年8月，就有超过300万种加密货币被铸造出来。“这纯粹是任何人都可以创造的东西，”前 FBI 特工贾森·格蒂安（Jason Ghetian）说，他曾在多起加密案件中担任专家证人。</p>
+<p>在美国，大部分加密市场缺乏传统金融中现有的监管机制和投资者保护措施，包括有关透明度和客户资产安全保护的规则。“没有充分的信息披露；存在欺诈、价格操纵和利益冲突，”美国商品期货交易委员会（CFTC）前主席蒂莫西·马萨德（Timothy Massad）表示。该行业受到州和联邦监管机构错综复杂网络的监管，包括 CFTC、美国证券交易委员会（SEC）、金融犯罪执法网络（FinCEN）等。但曾撰写过加密监管教材的阿肯色大学法学教授卡罗尔·戈福思（Carol Goforth）指出：“每个机构都有自己的测试标准和定义，这是一种复杂、碎片化且往往前后矛盾的监管方式。”</p>
+<p>在加密行业于2024年大选周期斥资约1.35亿美元支持对加密友好的候选人后，联邦政府大幅缩减了执法力度。去年，美国司法部解散了专注于打击加密犯罪的部门，特朗普执政的白宫也成立了一个工作组，旨在“消除对数字资产的监管过度”。</p>
+<p>据《纽约时报》报道，SEC 已放弃或撤回了针对加密公司的大多数正在进行的诉讼，其中许多公司与总统存在财务关联。据路透社最近估计，自唐纳德·特朗普再次当选以来，他和他的家族已从其加密投资中净赚至少23亿美元。2026年8月，SEC 提出了新规则，将缩小加密交易受证券法约束的适用范围，进一步限制了该机构对该行业的监管。“未来的任何执法都将面临一场艰难的战斗，”戈福思说。</p>
+<p>即使加密项目在合规透明的情况下运营，其价格往往也是由投机推动的，出现大幅波动屡见不鲜。专家表示，投资加密货币伴随着相当大的风险。“除稳定币外，加密资产本质上就是庞氏骗局，”美利坚大学法学教授希拉里·艾伦（Hilary Allen）表示，“它们背后空无一物——没有现金流，没有生产能力——因此它们升值的唯一途径就是吸引更多的人加入。”</p>
+<p>近年来，州和联邦当局针对涉嫌在宗教社区开展加密诈骗的人士提起了一系列诉讼——这是被称为“熟人欺诈/认同欺诈”（affinity fraud）的一个典型例子。其中包括一对被指控利用信仰呼吁诈骗主要由海地移民组成的群体超过10亿美元的夫妇、一名从穆斯林信徒那里敛财超1200万美元的 Instagram 网红，以及一名被控从其讲西班牙语的会众手中窃取数百万美元的迈阿密牧师。“‘上帝告诉我的’——谁能反驳这一点呢？”格蒂安说。</p>
+<p>“你与他人之间的纽带——你所拥有的信任——正是骗局操盘手所利用的筹码，”科罗拉多州证券局专员陈彤（Tung Chan）表示。在2024年1月提起的一起民事诉讼中，她指控雷加拉多夫妇利用投资者的基督教信仰，诱骗他们购买“本质上一文不值”的加密货币。</p>
+<p>这起向丹佛地方法院提起的诉讼称，这对夫妇将筹集到资金中的约130万美元（近40%）用于个人开销。消费项目包括高档度假、名牌服饰、珠宝首饰、牙齿美容整形、一辆路虎揽胜、聘请互惠生以及大规模房屋翻新。陈专员在起诉书中坚称，这对夫妇“敛财的冲动，唯一能与之相比的只有他们对证券法律的肆意践踏以及对投资者毫无底线的良知缺失”。</p>
+<p>随后在2025年7月，丹佛地方检察官对雷加拉多夫妇提出了40项重罪指控，包括盗窃、敲诈勒索以及证券欺诈。若罪名成立，他们可能面临数十年监禁。但这对夫妇坚称自己没有做错任何事，只是在遵行上帝的旨意。</p>
+<p>“如果你觉得跟随主是鲁莽的，那好吧，我们确实非常鲁莽，”伊莱告诉我。“因为我们只是听从并照着主所吩咐的去做了。”</p>
+<p>伊莱表示，他第一次听到来自上天的声音时，人还在铁窗之后。</p>
+<p>那是2002年，他22岁，因偷窃一辆本田思域而面临八年监禁。伊莱最初在20岁时被判刑，但仅服刑七个月便获释；随后他因拿啤酒瓶砸在一个男人的脸上、违反缓刑条例而再次入狱。</p>
+<p>据伊莱讲述，这一次他的公设辩护人警告他，再次获得提前假释在“法律上是不可能的”。但他脑海中一直回荡着一个声音重复道：“我会给你缓刑。”随后事情果真发生了：法官暂缓执行了他的刑期。这一事件成了他世界观的核心：“事情首先必须……看起来完全不可能，”他说，“然后那才是上帝显神迹、使其死而复生的时候。”</p>
+<p>出狱后，伊莱的宗教狂热并未持续太久。他一头扎进了一个世俗的目标：赚钱。“我只需要戴上这副成功的面具，”他回忆当时的念头，“这样人们就会觉得我有价值。”在求职申请表上被问及重罪前科时，他都勾选了“否”，并最终发现自己在销售方面颇有天分。从吸尘器到承包商的销售线索，他什么都推销过，之后转型做起了营销。</p>
+<p>2010年，丹佛当地刊物《Icosa杂志》聘请伊莱担任顾问。“他是我这辈子见过的最具魅力的吹牛大王，”当时的杂志主编扬·马佐蒂（Jan Mazotti）说。她回忆道，伊莱曾告诉她，埃隆·马斯克的弟弟金博尔·马斯克已经同意让杂志在他的餐厅举办活动。“我打电话去店里问，对方却说：‘我完全不知道你在说什么。’”（伊莱表示不记得有这回事。）</p>
+<p>2013年，伊莱创办了疯帽子营销机构（Mad Hatter Agency），一家专门负责众筹推广的营销公司。早期员工尼科·洛巴托（Nikko Lobato）观察到，伊莱能从推销中获得一种快感，这让他联想到电影《华尔街之狼》中莱昂纳多·迪卡普里奥饰演的角色。洛巴托说，伊莱接了太多的项目，以至于有时会“承诺过高而交付不足”。我联系的四位客户表示满意，三位则不满意，其中一位因“业绩不佳”终止了合同。企业家兼作家迈克·斯坦普尔（Mike Stemple）告诉我，伊莱曾主动提出帮他推广一门课程，但从未兑现。（伊莱称两人存在“性格冲突”。）“伊莱，我希望，”斯坦普尔在邮件中写道，“你能明白，你那种能向任何人推销任何东西的天赋……很容易带来毁灭性后果。”</p>
+<p>出狱后，伊莱投身于销售职业生涯。“我只需要戴上这副成功的面具，”他回忆当时的念头，“这样人们就会觉得我有价值。”</p>
+<p>伊莱的个人生活一片混乱。“我总是一段接一段地谈恋爱，”他说，“我酗酒、派对狂欢、吸毒。”他将自己职业上的失误归咎于吸食可卡因和“精神崩溃”。他告诉我，到2018年，随着年龄接近40岁，他感到“害怕自己一事无成”，并一度考虑自杀。伊莱刚结束一次连续三天的可卡因狂欢，母亲就送了他一本新加坡牧师约瑟夫·普林斯（Joseph Prince）写的书《正信的力量》（The Power of Right Believing）。这本书深深打动了他。他开始深入钻研灵恩派基督教——这一流派强调与上帝建立强有力的个人联结，包括预言、医治和说方言等神恩现象。</p>
+<p>听从神的指引，伊莱称自己戒了毒，并雇佣了近十几位亲朋好友到他的营销机构工作，他还将公司改名为“恩典引领营销”（Grace Led Marketing）。他还开始带领员工进行每日读经，并在自家客厅举行的每周聚会上布道。2020年，他创立了一个名为“得胜恩典”（Victorious Grace）的教会，并开始在Facebook上直播布道。</p>
+<p>那年夏天，伊莱在一次聚会上遇到了凯特琳。凯特琳比他小13岁，身材苗条，说话轻声细语，留着乌黑的直发，笑容灿烂。她随即告诉我：“我就是把命都托付给了这个男人。”在他们的第一次约会中，凯特琳在餐桌上接受了救赎，成为“得救”的基督徒。不到四个月，他们就结婚并在丹佛买了一套房子，凯特琳开始负责“恩典引领营销”的运营。</p>
+<p>然而，到了2020年底，这对新婚夫妇的收入开始暴跌。他们表示，众筹活动表现不佳，客户拖欠付款。伊莱还欠下超过16万美元的未缴税款。“我觉得自己是个失败者，”他回忆当时的想法。</p>
+<p>由于再次顺从了他们所认定的“上帝的旨意”，雷加拉多夫妇的财务状况进一步陷入困境。2021年3月得知自己怀孕后，凯特琳从她的401(k)养老金账户中提取了6万美元，支付给一位建筑师绘制房屋翻新图纸。他们的设想最初不大，但随后不断扩张，几乎使房屋原本的建筑面积翻了一倍：扩建了他们的主卧、新增了一间卧室，并打造了两间办公室、一个健身房以及一个带吧台的家庭活动室。“主就好像在说：‘按照你们想要的方式去做就好，’”凯特琳回忆道。几个月内，他们便掏空了401(k)账户。根据另一条神圣的神谕，他们关闭了营销业务。“我们极度需要一个财务奇迹，”凯特琳说。</p>
+<p>一天夜里凌晨4点30分左右，雷加拉多夫妇被电视机的巨大声响吵醒。屏幕上，芝加哥附近的电视布道家比尔·温斯顿（Bill Winston）正在谈论“播下种子”。这种做法通常与“成功神学”（prosperity gospel）挂钩，该理论认为，信徒通过向有价值的受赠对象捐款，即可为未来的福报创造条件。</p>
+<p>“上帝让我们把商业和个人账户里的所有钱都捐出去，以获得百倍的回报，”凯特琳在2021年10月中旬的日记中写道。这对夫妇当时毫无收入，正为支付账单而苦苦挣扎。然而据他们所说，就在他们的第一个孩子出生前不久，他们将最后的2,718.44美元寄给了比尔·温斯顿事工部（Bill Winston Ministries）。</p>
+<p>仅仅过了两周，上帝赐予的丰厚恩赐似乎就降临了。雷加拉多夫妇后来在民事审判中作证称，埃利的妹妹雷娜·阿普尔盖特及其丈夫丹尼尔赠送给他们一大笔名为Sumcoin的加密货币。埃利在作证时回忆，他们当时说：“上帝让我们把这个‘播种’在你们身上。”（雷娜未回复置评请求；丹尼尔拒绝回答具体问题，但对我们的报道提出异议，并警告称埃利对事件的描述不可信。）</p>
+<p>Sumcoin由爱达荷州32岁、在网上发布投资内容的泰·雅各布森于2016年创立，自称为“世界上首个基于指数的加密货币”。该币的网站宣称，其价格由一个追踪排名前100位加密货币表现的算法决定。根据民事审判的证词，雷加拉多夫妇认为获赠的Sumcoin价值约200万美元。</p>
+<p>在收到加密货币后不久，埃利正在餐桌前祈祷，突然听到上帝指示他“把这个Sumcoin带给我的人民，即教会”。对雷加拉多夫妇来说，他们应该开始向其他基督徒出售该币的迹象似乎无可辩驳：凯特琳被包含“hidden”（隐藏）一词的经文所吸引——该词在希腊语中译为kryptós。一位同意通过祈祷来确认他们是否该涉足加密领域的友人打电话证实说：“主同意了。”尽管埃利最初对自己缺乏经验有所顾虑，但夫妇俩还是决定付诸行动。</p>
+<p>这位经营基于信仰的辅导业务的友人邀请人们加入埃利的视频通话，这些通话一部分是查经班，一部分是Sumcoin的推销会。五天之内，雷加拉多夫妇就记录了约9,000美元的利润。到2022年2月，他们接到的咨询多到埃利不得不举办网络研讨会。“Sumcoin是唯一不会被恶意拉盘砸盘（pump and dump）的代币，”他宣称，“它非常类似于标准普尔500指数之类的东西。”（与股票指数基金不同，Sumcoin没有任何底层资产来支撑其价值。）当月，这对夫妇创造了超过26万美元的销售额。</p>
+<p>然而，Sumcoin并未在任何主流加密货币交易所上市，这意味着持有者主要只能在私下一对一交易中按双方商定的价格买卖。在与埃利及对Sumcoin感兴趣的人士进行的视频通话中，丹尼尔表示“目标是让该币在各个维度实现100%可变现”，包括“将该币推向交易所”。雷加拉多夫妇还告诉那些向他们购买Sumcoin的人，该币很快就会上线交易所。根据雷加拉多夫妇在2022年2月发送给一位投资者的幻灯片，一旦上市，代币将按照Sumcoin算法设定的价格进行交易。其中一张幻灯片将该价格定在1,200美元以上，并附有一张以60至80美元出售代币的图表。</p>
+<p>但在兜售Sumcoin数月后，雷加拉多夫妇从其创始人雅各布森处得知，他并不打算将其推上主流交易所。雅各布森告诉我，他从未打算让该代币像股票一样交易，并坚称：“我从未真正把它看作一种投资。”这成了埃利与雅各布森之间的主要争论点。“他在自己正在做的事情上对人们撒谎，”雅各布森说，“在未来的走向问题上撒了谎。”埃利则坚称：“我只是传达我被告知的内容。”</p>
+<p>到了2022年6月，雷加拉多夫妇听到了新的神圣指示：“创造你们自己的币。”</p>
+<p>雷加拉多夫妇将其命名为INDXcoin，与Sumcoin类似，它也是基于市值排名前100位的数字货币价值来定价。大多数新的加密货币都是在现有区块链之上创建的代币——任何人都可以在几分钟内通过在线代币生成器完成这项工作。但埃利听到上帝说：“不要那样做；它必须是独立自主的产物。”因此，雷加拉多夫妇选择了一条更艰难的道路：推出自己的区块链和原生代币。他们表示，自己向两名曾参与Sumcoin开发的程序员支付了10万美元来启动这个项目。埃利说他和凯特琳曾告诉对方：“我们对自己正在做的事一无所知。”</p>
+<p>这对夫妇现学现卖，在YouTube和ChatGPT中输入诸如“什么是区块链？”之类的问题。埃利注意到加密项目通常会发布白皮书来概述其策略和运作机制，于是他雇佣了一名自由职业者起草了一份。出炉的文件解释称，INDXcoin的目标市场包括“基督信仰者”和“经验较少的加密爱好者”。雷加拉多夫妇创建的一个网站将INDXcoin称为“完美的加密货币”，并大肆宣扬“以极低风险实现难以置信的增长”。（该网站注明INDXcoin“不是基金”，并且“不拥有其编制指数所对应的代币”。）</p>
+<p>在涉足加密货币之前，这对夫妇生活拮据，疲于应付账单，并祈求“一场财务奇迹”。</p>
+<p>雷加拉多夫妇向此前购买Sumcoin的人提供了INDXcoin作为替代。朋友、亲戚以及他们宗教网络中的其他人奔走相告，夫妇俩还向其中一些人提供了30%的推荐佣金。雷加拉多夫妇还将INDXcoin作为礼物赠送——他们视之为“播种”——给各个事工部门和个人，其中一些人随后购买了更多。他们还在社交媒体、播客节目、一档基督教电视节目中宣传该项目，并通过促销竞赛进行推广。</p>
+<p>在发送给潜在买家的视频中，埃利坦承了自己的犯罪前科以及在加密领域的经验不足。他引用圣经经文，将这项事业大肆炒作宣传为“奇迹连锁反应”中的最新一环，并说：“上帝希望你们拥有财富。”</p>
+<p>黛比和何塞·博尼利亚是一对购买了价值7万美元INDXcoin的退休夫妇，他们表示在投资前观看埃利的一场演讲时，埃利显得精通圣经。“他看起来很真诚，”黛比说，“他看起来就像真的能听到上帝的声音。”她说，因为这是一个“上帝指引的工具”，她“觉得我们不会遇到其他加密货币中发生的那些邪恶肮脏的事情”。</p>
+<p>一个更为切实的利益前景也在招手。“当时有人解释回报会有多么丰厚，”何塞说，“那就是卖点——你可以一夜暴富。”</p>
+<p>起初，雷加拉多夫妇告诉买家，他们正在努力让 INDXcoin 在知名交易所上市。他们了解到，许多平台都会进行法律审查，以确定某种代币是否会被认定为证券。美国商品期货交易委员会（CFTC）前主席马萨德告诉我，对于加密货币项目，法院裁定“当你向人们出售某种东西，并且人们有合理的预期可以通过你的行为获利时，它就是一种证券”。被认定为证券的代币发行人必须遵守适用于股票和债券的同类法律，包括向美国证券交易委员会（SEC）注册并提供详细的财务披露。</p>
+<p>雷加拉多夫妇并未遵守这些规定，伊莱开始咨询律师，而律师们的评估令人担忧。“我快吓疯了，”他在 2022 年夏天的日记中写道，“律师们说这可能属于证券。这意味着我非法向 100 多人出售了它。”然而，在与他们召集来为其建言的“先知团队”一同祷告之后，雷加拉多夫妇继续兜售 INDXcoin。</p>
+<p>到 2022 年秋天，这对夫妇似乎找到了一条出路：在与一位名叫约翰·贝内梅里托（John Benemerito）的律师会面后，他们决定将 INDXcoin 定位为一种“实用型”代币，其主要用途是解锁产品或服务的使用权——类似于在视频游戏中兑换的代币。雷加拉多夫妇策划创建“天国财富社区”（Kingdom Wealth Community），这是一个仅限会员的平台，INDXcoin 的持有者可以在此获得指导、周边商品、财务与灵性课程等等。在审阅了他们的愿景后，贝内梅里托在一封信中表示，INDXcoin 无需遵守证券法，因为“它没有提供对利润的直接预期”。</p>
+<p>“实用型代币不需要资产支持，因为它们的价值就在平台本身之中，”贝内梅里托律所的一名律师后来在给雷加拉多夫妇的信中写道，“但是，如果目的是让该代币具有独立于平台的价值，那么它就需要有资产支持来维持其价值。”</p>
+<p>伊莱后来在法庭上承认，他并没有告知贝内梅里托购买 INDXcoin 的人是想要赚钱的。（贝内梅里托告诉我，“我律所出具的任何法律意见均基于客户向我们陈述的事实和陈述。”）</p>
+<p>伊莱告诉我，大约在同一时间，雷加拉多夫妇在将 INDXcoin 推上现有交易所方面遇到了麻烦。他们决定不仅要建立“天国财富社区”，还要建立自己的平台——“天国财富交易所”（Kingdom Wealth Exchange），人们可以在那里用 INDXcoin 兑换比特币、以太坊和美元。世界上存在数百家加密货币交易所，但排名前列的少数几家处理了绝大多数交易；加密货币创造者为了能交易自己的代币而专门搭建一个交易所，这是极为罕见的。但雷加拉多夫妇曾向买家保证过会有套现途径。“随着越来越多的人涌入，压力很大，”凯特琳说，“就好像，‘天哪，我们必须给他们一条退路。’”</p>
+<p>雷加拉多夫妇宣布搭建交易所需要五周时间，但他们外包给一家在网上找到的印度公司的开发工作一直拖延到了 2023 年初。“没有一件东西是正常运转的，”伊莱说。</p>
+<p>其他阻碍接踵而至。雷加拉多夫妇聘请的一家新加坡咨询公司建议他们将“天国财富交易所”在加拿大注册为货币服务业务，“据称是因为他们那里速度最快，”凯特琳说，但该流程同样搁置了数月。与此同时，雷加拉多夫妇正在构建的会员制社区和加密钱包充斥着技术缺陷。当这对夫妇委托对 INDXcoin 的区块链进行安全审计时，其得分仅为 0 分（满分 10 分）。2023 年 3 月的后续审计指出问题已得到修复，但也提出了更多令人担忧之处，最终得分仅为 5.4 分。（伊莱却宣布他们“以优异成绩通过”。）</p>
+<p>内部人士也开始对该项目的财务基础表达疑虑。早在 2022 年 11 月的一次 YouTube 直播更新中，两名观众要求伊莱就 INDXcoin 的“流动性池”发表评论。当月早些时候，全球最大的加密货币交易所之一 FTX 在对其财务状况的担忧引发了数十亿美元的客户提款后崩盘。伊莱向观众保证，他和凯特琳正在努力确保拥有充足的储备，并且“不会发生什么 FTX 式的崩溃”。</p>
+<p>数月后，当雷加拉多夫妇将商业计划书和白皮书发给一位从事财务顾问工作的 INDXcoin 投资者时，对方警告说“该项目严重资金不足”，并在电子邮件中写道：“预估的年收入看起来完全是凭空捏造出来的。”</p>
+<p>当另一位向其他人推荐过 INDXcoin 的投资者罗杰·高蒂尔（Roger Gauthier）询问伊莱是否为想要套现退出的买家预留了资金时，伊莱给出了否定的回答。“那是我的第一个警示信号，”高蒂尔说。</p>
+<p>被称为“360Trader”的加密货币网红丹·惠勒（Dan Wheeler）曾就 INDXcoin 向雷加拉多夫妇提供咨询，他表示自己曾多次警告伊莱，这对夫妇需要数亿美元来支撑已售出和赠送代币的标称价值。“如果那里没有钱，”惠勒说，“它就一文不值。”</p>
+<p>到 2023 年 4 月，伊莱愈发感到沮丧：“天国财富交易所”已经比原定计划落后了近六个月，付给印度开发者的费用也激增至 5 万多美元。人们铺天盖地地向他发消息询问平台何时开放。“这是一种耻辱——没有人喜欢失败，”伊莱告诉我，“我屈服于那种压力了。”</p>
+<p>雷加拉多夫妇当时正住在佛罗里达群岛一家缀满棕榈树和九重葛的豪华度假村里。一天，伊莱在露天提基草屋（tiki hut）的一张柳条沙发上祈祷时，他听到上帝告诉他是时候推出交易所了。他找到凯特琳对她说：“我们 4 月 11 日上线。”</p>
+<p>凯特琳表示反对。在测试期间，该平台仍然存在系统漏洞，包括在验证用户身份方面存在问题。雷加拉多夫妇一直未能为该交易所开设银行账户，这意味着用户只能交易比特币和以太坊，无法使用美元等法定货币。此外，雷加拉多夫妇在搭建他们与律师讨论过的社区空间方面进展甚微，只推出了一门课程。</p>
+<p>“我们不必做到尽善尽美，”伊莱对凯特琳说，“直接开干吧。把钱收进来再说。先把这帮人从我们背上甩开。”</p>
+<p>在上线前的几天里，雷加拉多夫妇讨论了限制抛售的问题，这是加密平台有时用来管理流动性和波动性的一种做法。如果 INDXcoin 的持有者抛售掉他们购买或免费获得的所有代币，将需要超过 3 亿美元来完成这些卖单。但伊莱不断听到上帝说：“不要限制我。”他反驳道：“那我们基本上就会遇到所谓的银行挤兑，对吧？”上线前夕，这对夫妇再次祈祷。“凯特和我得到了同一句经文，”伊莱在日记中写道，“‘不要关闭抛售。’”</p>
+<p>4月11日上午，凯特琳开始感到乐观，而伊莱则兴奋不已。“这东西要爆炸式增长了，”他心想。上午11点，伊莱出现在直播中。他的肩后方印着一幅灰狼的图案。“INDXcoin 的家人们，大家好，”他一边拍手强调一边开场，“我们开播了！”</p>
+<p>对投资者而言，回报似乎终于触手可及。根据加密货币市场的整体表现，该交易所最初显示 INDXcoin 的交易价格约为人们购买成本的10倍左右；博尼利亚夫妇投入的 7 万美元看起来价值已超过 71.6 万美元。</p>
+<p>但在直播进行了近一个小时后——在展示了圣经经文和美好的预测幻灯片之后——一位观众在聊天框中发出了抱怨：“交易所说我无法卖出 INDX。”“这可能只是因为目前流动性不足，”伊莱平静地解释道，“稍等一下就好。”十分钟后，另一个人写道他的卖单没有成交。“请耐心等待，”伊莱说，“主会自备。”</p>
+<p>在接下来的几个小时里，雷加拉多夫妇一直在查看交易所的后台数据。数十笔交易接踵而至，但问题显而易见：卖盘数量远远压过了买盘。到了下午，他们为促进交易而投入的 3 万美元已经耗尽。他们决定再向资金池追加 10 万美元。</p>
+<p>几个小时后，伊莱外出买咖啡时打电话给凯特琳查看情况。她在哭泣。“所有的流动性都空了，”她说。</p>
+<p>次日，雷加拉多夫妇宣布暂停交易。“那就是我们意识到自己可能遇到麻烦的时刻，”何塞·博尼利亚说道。</p>
+<p>伊莱告诉我，在启动失败后，他感到了“极度的焦虑”，但他听到上帝提醒他：“搞砸这件事是不可能的。”他和凯特琳采取了他们希望能够挽救该项目的措施，但几个月过去了，他们始终维持着暂停交易的状态。</p>
+<p>6月，何塞给雷加拉多夫妇发了邮件，解释说他需要提取一半的投资，用来资助他在家乡哥伦比亚创立的一个社区发展项目。伊莱回复说他们刚刚重新开放了抛售——限制为每天一枚币，每月十枚。当他们这样做时，交易所大约只有 2 万美元可用于执行卖单。“在这个关头，套现你一半的代币是不可能的，”伊莱写道。在恢复交易三天后，雷加拉多夫妇以技术故障为由再次叫停了交易。</p>
+<p>几个月后，任何塞再次跟进提取一半投资的事宜时，伊莱回复说：“目前根本没有资金可以做到这一点。”2023年11月，雷加拉多夫妇关闭了该交易所，并将 INDXcoin 的区块链下线。</p>
+<p>“羞耻、定罪、自杀的念头如排山倒海般向我袭来，”伊莱在一段更新的视频中坦言道，他当时站在一幅旋转的紫色宇宙图案前。“我到底是在哪里搞错了？”</p>
+<p>两个月后，雷加拉多夫妇获悉科罗拉多州证券监管机构正指控他们涉嫌欺诈和销售未注册证券。该州很快在诉讼中追加了 12 名被告，称他们因销售 INDXcoin 而收取了佣金，并指控他们也销售了未注册证券。其中包括伊莱的姐夫（或妹夫）丹尼尔·阿普尔盖特，以及与 INDXcoin 投资者戈捷有关联的一家公司。在他们未能出庭应诉后，法官作出了缺席判决，命令他们分别支付 15,000 美元和 34,400 美元的判决款。伊莱的父亲老埃利吉奥·雷加拉多同样被控证券欺诈，他在既不承认也不否认责任的情况下，同意向亲友和同事退还 12.2 万美元。（戈捷否认有不当行为；伊莱的父亲通过其律师拒绝置评。丹尼尔否认自己是 INDXcoin 的一员，并声称尽管在诉讼中被列为被告，但这起事件与他和他的妻子毫无关系。）</p>
+<p>“我实在无法评论他是否真的听到上帝让他这么做，”提起诉讼的科罗拉多州证券专员陈（Chan）告诉我。“即使（雷加拉多夫妇）出于好心，问题在于，这对投资者是不公平的……他们撒了谎，并隐瞒了关键信息。”</p>
+<p>我与 20 位 INDXcoin 的投资者进行了交流，几乎所有人都是从信任的朋友、亲戚或宗教领袖那里听说这枚代币的。大多数人对加密货币几乎没有或完全没有经验。他们通过动用退休基金、支取养老金、利用出售小生意的收益，或是通过至今仍在支付利息的房屋净值信用额度贷款来筹集资金进行购买。有一位买家是 70 多岁的残疾退伍军人，他原本希望这项投资的利润能帮助他在因癌症治疗背负债务后走出财务困境。另一位已经退休的投资者则被迫在近 70 岁的高龄去家得宝（Home Depot）打工。“这是一种令人心痛、可怕、无助的感觉，”他说。</p>
+<p>投资者在他们是否被骗的问题上存在分歧。向有关部门举报了雷加拉多夫妇的何塞·博尼利亚认为他们的行为“完全是蓄意的”。“他们正借着宗教借口进行诈骗，”他说。他的妻子黛比则持有不同意见，认为雷加拉多夫妇只不过是“不自量力、陷得太深”。</p>
+<p>一些买了币的人至今仍在支持雷加拉多夫妇。“他们听到了上帝的声音，并尽力去顺从，”在 INDXcoin 上损失了 18,000 多美元的前牧师特洛伊·布拉姆布莱特说。“这并不能保证成功。”</p>
+<p>曾为雷加拉多夫妇提供建议的加密网红惠勒也曾向有关部门举报过 INDXcoin，但他仍不确定这对夫妇是否一开始就蓄意敛财。“他们是狂热分子——他们完全盲目了，”他说，“如果你坚信上帝要成就一件事，那你是在诈骗别人吗？不算。但是看看他们是怎么花这笔钱的。”</p>
+<p>在该案被立案几天后发布的一段视频中，伊莱承认他和凯特琳实际上“出售了一种没有明确退出机制的加密货币”。他承认他们中饱私囊了 130 万美元——其中包括花在“主让我们进行的一场房屋翻修”上的钱。</p>
+<p>去年11月，我在丹佛郊区一座由办公园区和千篇一律的联排公寓主导的小镇上拜访了雷加拉多夫妇，他们租住在一栋三居室的联排联栋房屋中。他们自己拥有的那栋房子无法居住——在他们停止付款后，翻新工程在进行到一半时彻底停滞了。</p>
+<p>真人接触时，伊莱友善且富有魅力，身上带着一种坐立不安的充沛精力，他的凝视偶尔会流露出一种深藏不露的紧绷感。他习惯发表冗长的独白，言语间充满令人信服的笃定，甚至会让人反过来怀疑毫无争议的既定事实。凯特琳给人的印象则是内敛却直率，她的手腕上文着“相信”（Believe）字样。他们告诉我，在 INDXcoin 崩盘后，他们频繁争吵；但在我造访期间，凯特琳专注地倾听丈夫讲话，并总是被他的笑话逗乐。</p>
+<p>在一个阳光明媚的周四下午，我跟随雷加拉多夫妇上了楼，来到他们卧室一角，那里摆着一张小书桌和一块白板。房间陈设简陋，据他们说是买来的二手家具。床上被褥未叠，地板上放着一本《圣经》。</p>
+<p>伊莱正准备在近两个月来的首次直播连线中，向 INDXcoin 私密论坛的成员发表讲话。他闭上双眼开始祈祷。“求你让我用简单的话语表达，”他说，语气就像一个向父母提出请求的青少年。“让我能够运用类比，把道理讲到他们能够理解的水平。”“阿门，”凯特琳应和道。</p>
+<p>在气喘吁吁地找了一通笔记本电脑支架后，伊莱抓起一叠写满神圣启示的日记本，将电脑重重地放在上面。他打开摄像头，自己的影像出现在一片盆栽植物的虚拟背景前。伊莱发际线后移，留着短短的胡茬，身穿一件黑色T恤，粗大的项链上挂着一枚银色十字架。在允许参与者进入通话之前，他用手指抓了抓头发，又用舌头舔了舔牙齿——由于用卖币所得的款项进行了牙齿美容，他的牙齿如今整齐完美。</p>
+<p>“好的。太棒了。没问题。那么，嘿，下午好，INDXcoin 社区！”伊莱微笑着开场。“我们有一些令人振奋的最新动态。”随后，他以科技公司创始人汇报强劲季度业绩般的语气，宣布了这一消息：两个月前，一名法官在民事诉讼中作出了不利于雷加拉多夫妇的判决，如今他们正面临地方检察官办公室的刑事指控。</p>
+<p>“有人问我，‘你们打算认罪协商吗？’”他停下来抿了口水。“简短的回答是：不……我们没有做错任何事。”</p>
+<p>雷加拉多夫妇否认策划了骗局。“如果你以牺牲自己和家庭为代价，无偿送出巨额金钱，那说成骗局根本站不住脚，”伊莱说。这对夫妇估计，他们通过“播种”向教会和个人赠送了30万美元现金，外加一辆哈雷戴维森摩托车、一辆宝马汽车和一只路易威登包。他们还赠送了数百万枚 INDXcoin——占发行总量的90%。（伊莱告诉我：“没有人播种是不指望有所回报的，”尽管回报并不一定来自受赠人。）</p>
+<p>在这场民事诉讼中，由于请不起律师，雷加拉多夫妇选择了自行辩护。他们辩称 INDXcoin 不是证券，因为它是一种实用型代币，而且价格是由“不可更改的算法”决定的。他们声称是技术提供商导致了交易所崩溃，是顾问在合规问题上误导了他们，而律师曾表示他们无需维持流动性或披露开支。（雷加拉多夫妇聘请过的律师贝内梅里托告诉我：“我们律所绝不会建议客户违法。”）</p>
+<p>法官并不认同这一说法，裁定 INDXcoin 属于证券，并认定雷加拉多夫妇在真实价值和风险、资金去向、无偿赠送代币数量等方面误导了投资者。法官指出他们“对自身造成的伤害缺乏认识”，责令他们赔偿近340万美元的损失——这正是他们筹集的资金总额。“为代币赋予算法价值并不意味着它‘值’那个价，”法官写道。“实际上，INDXcoin 毫无价值，因为没有人想买它。”</p>
+<p>我去探访时，距离判决已过去两个月。雷加拉多夫妇仍未完整阅读法官的判决书，但已决定上诉。后来，他们在谷歌学术（Google Scholar）和人工智能的协助下起草了法律文书。（该案目前仍在审理中。）</p>
+<p>除了向法院提交文件和为刑事案件做准备外，这对夫妇的日子过得像典型的郊区父母：带孩子去游乐场、遛他们的奇瓦瓦腊肠混血犬、健身。他们仍然每两周举办一次查经班。有时他们会骑着哈雷摩托去帕尔默湖或落基山山麓。（“我们只有在刮风或冷的时候才戴头盔，”凯特琳说。）民事诉讼提起后不久，他们的资产就被冻结了；伊莱曾找了一份销售屋顶建材的工作，但他表示在雇主得知其官司缠身后便解雇了他。他拒绝透露自己目前在做什么差事。“跟营销无关，也跟加密货币无关，”他说。</p>
+<p>因 INDXcoin 被起诉后，伊莱曾自我怀疑：“这一切是我编造出来的吗？我疯了吗？”但他和凯特琳最终得出结论：他们所接收到的神圣神迹是无可置疑的。他们坚信，INDXcoin 最终将在对美元失去信心的全球领导人中赢得青睐。“我们私下正在做准备，”伊莱告诉我。</p>
+<p>“上帝早就预见到了这一切，”他在11月的视频更新中向观众保证。“他正注视着我们说：‘无论你们看到什么，你们都愿意相信我吗？’”</p>
+<p>通话结束后，伊莱开始翻阅他的日记并大声朗读其中的段落。自从几个月前我们第一次交谈以来，雷加拉多夫妇一直是非常配合的报道对象。他们告诉我，他们的刑事辩护律师曾建议他们不要与记者交谈，但他们却接受了我十多次采访。他们向我开放了 INDXcoin 私密论坛的访问权限，并提供了电子邮件、照片和电子表格——即便有些文件让他们当时的决策看起来并不光彩。有一次，伊莱发邮件来“坦白”，说他讲过的一个轶事略有渲染润色。他道了歉并向我保证：“我所说的其余一切都百分之百属实，绝无夸大或添枝加叶。”</p>
+<p>雷加拉多夫妇告诉我，他们信任我，一部分原因是因为上帝同意了：在我初次联系他们后不久，他们走进一个房间，里面的电视正在播放《家庭问答》（Family Feud），屏幕上显示的答案正好是“MIT”（麻省理工学院）。他们的沟通方式突显了他们当初为何能如此有效地俘获买家：他们讨人喜欢，乐于分享脆弱的一面，并时刻传递出一种透明坦诚的态度。</p>
+<p>尽管如此，雷加拉多夫妇看起来并不像是在给我即兴演戏。相反，他们似乎全身心投入到了自己构建的叙事之中：在这一叙事里，无论代价多大，他们都是履行神圣使命的正直弱者。若让自己的信仰动摇，就意味着他们失去的一切——朋友、家园、声誉——都将毫无意义。那就意味着承认他们失败了。那就意味着不会有人来拯救他们。</p>
+<p>即便最终身陷囹圄，也不会让雷加拉多夫妇相信自己误听了上帝的旨意。“他会把你从一切苦难中解救出来，所以你不会永远待在那里，”凯特琳说，“而这可能只是整个故事的一部分。”</p>
+<p>在我探访期间，雷加拉多夫妇同意带我看看他们早前的一段经历。我们挤进他们的福特猛禽（Ford Raptor）皮卡，孩子们坐在后排，向北开了20分钟，来到一个绿树成荫的居民区里的一条安静尽头路。</p>
+<p>我们在一个由腐烂木板构成的庞大建筑旁放慢了车速。红褐色的杂草吞没了整个地块，眼看就要淹没人行道。门前斜放着一张破烂不堪的床垫。邻居们曾看到过无房宿居者，随着冬季临近，人们担心会发生火灾。雷加拉多夫妇至今仍欠承包商近11万美元的已完工工程款。</p>
+<p>在他们的加密货币项目崩盘后，雷加拉多家房屋的施工便彻底停滞了。</p>
+<p>我询问是否可以下车，但伊莱和凯特琳不想碰到任何人。“我只是不想面对诸如‘你们打算什么时候除草？’这样的对话，”伊莱说。（前一年，市政府曾因他们疏于打理该处房产而向其发出违规通知。）</p>
+<p>当我们开车离开时，我问他们看到自己梦想家园的残影有何感受。</p>
+<p>“以前会觉得心痛，”凯特琳说。</p>
+<p>“这是一个未兑现的承诺，”伊莱补充道。</p>
+<p>但这已经不再困扰他们了。</p>
+<p>“如果我们失去了这所房子，”凯特琳说，“那就意味着我们将得到更大、更好的东西。”</p>
+<p>他们在街道尽头掉头，安全带也没系，头也不回地拐过了街角。</p>
+<p>卡蒂亚·萨夫丘克（Katia Savchuk）是一名常驻旧金山湾区的独立记者。她的作品曾发表在《纽约客》、《福布斯》、《琼斯母亲》等多家刊物上。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-10 17:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#MIT</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-next-test-is-integration-7b78e94d885bee4f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2764" data-content-paragraphs="33" data-published-at="2026-09-10T08:58:01.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 16:58</span>
+</div>
+
+### [医疗AI的下一个考验是系统集成](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Healthcare AI’s next test is integration</div>
+
+<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/08/Ensemble-contributed-iStock-2263561985.jpg?w=840" alt="医疗AI的下一个考验是系统集成" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>主流人工智能企业的入局对于医疗行业而言是一项重大且受欢迎的进展，它加速了该行业所能依托的技术底座建设。</p>
+<p>这些企业的大模型越来越有能力处理长期的临床记录、解读复杂的专业术语、根据循证证据核对文档，并从海量信息中生成连贯的摘要。对于需要耗费大量时间在碎片化数据中检索信息的临床医生、运营管理人员及行政团队而言，这些技术进步正协助减轻认知负担，并让高价值信息变得更容易获取。</p>
+<p>然而，医疗机构的管理者切不可将模型能力与业务运营能力混为一谈。</p>
+<p>医疗领域的行政管理痛点源自碎片化的信息、碎片化的工作流程以及碎片化的责任体系，而非信息的匮乏。数十年来，该行业一直在大力投资用于记录日常业务的各类系统：电子病历、计费平台、医保支付方门户网站、排程系统、呼叫中心平台以及数据分析应用。每个系统都记录着关键信息，但几乎没有任何系统在设计之初就考虑到了在整个决策链条上进行综合推理——而正是这一整套决策链条，决定了患者能否获得及时的诊疗服务、临床医生是否具备准确的文书记录，以及医疗提供方能否获得合理的费用偿付。</p>
+<p>这正是人工智能当前必须直面的难题。</p>
+<p>收入周期正成为医疗AI的试验场</p>
+<p>收入周期是医疗机构用于获得诊疗服务报酬的完整流程——涵盖了从预约挂号与登记建档，到病案编码、账单生成、支付方跟进，直至款项收取的全过程。</p>
+<p>该场景格外适合开展严苛的AI落地应用，因为它融合了庞大的交易量、复杂的逻辑推理、结构化与非结构化数据、可量化的结果以及显著的业务操作多样性。同时，它还处于财务表现、患者就医准入与行政工作负荷的交汇核心。</p>
+<p>单张索赔单据的处理结果可能会受到患者医保信息、临床病历记录、编码规则、特定支付方的政策、事先授权要求、医疗必要性判定标准，以及众多其他数据源和业务流程的综合影响。其中任何一个环节出现疏漏，都可能在数周乃至数月之后引发一系列下游连锁反应。</p>
+<p>这也是通用自动化方案往往难以奏效的原因所在。</p>
+<p>传统的机器人流程自动化（RPA）在工作流程稳定且规则可预测的环境中表现出色，但医疗行政管理这两点均不具备。支付方的报销要求经常调整，文档规范标准不断演化，业务特例司空见惯且往往影响重大。</p>
+<p>大语言模型改善了这一方程式中的部分环节，它能够从叙述性文本中提取深层含义、总结病历，并辅助围绕复杂文档进行推理。但如果单独使用，大语言模型也会承袭某些重大的局限性：它们可能会生成看似合理却缺乏充分溯源依据的输出；可能缺乏对本地具体工作流限制条件的感知；还可能会遗漏特定支付方的历史记录或背景上下文，而这些正是决定某项操作能否真正改善结果的关键所在。</p>
+<p>为什么基础模型将变得必不可少却又远远不够</p>
+<p>主流AI企业正在为医疗行业解决切实的底层技术难题。</p>
+<p>更优的上下文窗口使得处理纵向历史病历变得更加容易；更强的推理能力提升了对复杂临床情境的解读水平；更完善的多模态能力未来或将有助于以更具实用价值的方式将文本、医学影像、结构化数据和临床体征信号关联起来；而更安全的模型行为规范与医疗专有领域的调优，也将持续推进行业的落地采纳。</p>
+<p>这些能力将使医疗业务工作更加高效、更加一致且更容易操作。然而，仅仅依靠这些，并不能从根本上解决根深蒂固的行政管理复杂性。</p>
+<p>医疗领域的大量运营知识并不存在于通用的医学文献、编码手册或公开的医保支付方指南中。它们蕴藏在各项决策付诸实施后所沉淀的真实实践经验中。例如：</p>
+<p>为什么某一种申诉策略的效果会显著优于另一种？</p>
+<p>哪些文档缺陷最容易导致回款延迟？</p>
+<p>特定的支付方对某种特定的临床抗辩会作何反应？</p>
+<p>这些洞察具有行为性、业务操作性与纵向演进性。它们是在经历了长达数年的实际交易、业务结果、例外特例以及人类经验判断中逐步形成的。</p>
+<p>随着基础模型的能力日益增强，获取医疗基础知识将变得不再具有排他性的差异化竞争优势。绝大多数领先的系统都将具备解读ICD-10疾病编码、识读医学术语、总结支付方政策以及根据公开临床标准进行逻辑推理的能力。而持久的竞争优势，将取决于各个机构如何将大模型的智能与自有的专有运营数据、结构化知识、具体工作流上下文以及治理体系有机结合。</p>
+<p>技术转向：从自动化到协同编排</p>
+<p>智能体协同编排（Agentic orchestration）能够将基础模型的理解力转化为协同动作——即一种能够跨系统追踪任务、应用正确规则、在变动发生时自适应调整，并能持续从后续执行结果中学习进化的智能体系。</p>
+<p>例如，一个事先授权工作流可能需要通过快速医疗互操作性资源（FHIR）API检索临床病历文档、将患者过往病史与支付方的审批标准进行映射匹配、识别缺失的证据要件、生成提交材料包、将异常情况分流给专科医生审核、监控支付方的答复进度、适时调整患者的诊疗路径，并从最终的处理结果中复盘学习。</p>
+<p>此类工作流不仅需要高度的协同配合，还需要设立严格的防护栏：监管合规要求、隐私保护标准、临床指南政策、编码规范、支付方准则以及机构自身的风险容忍度阈值。一种极具前景的路径是采用混合架构，将大语言模型与结构化知识库、符号逻辑、强化学习以及确定性校验层融为一体。</p>
+<p>在 Ensemble 公司，这正是我们收入周期智能引擎 EIQ 背后的核心设计理念。EIQ 将运营活动、临床病历、支付方行为以及费用偿付结果统筹整合为一个持续学习的智能中枢层，并与医院的电子病历（EHR）系统深度集成。它在原有的系统记录（System of Record）之上补充了智能决策系统（System of Intelligence），旨在打通数据孤岛，并主动推送最有可能改善最终成果的行动建议。</p>
+<p>EIQ 采用了一种将大语言模型、定制化轻量模型与基于规则的推理相结合的神经符号方法。该架构构建于医疗健康领域最为扎实的数据集之一之上，汲取了十余年来屡获殊荣的实际运营成效、海量交易历史、支付方行为特征及一线运营人员的决策经验。语言模型负责理解信息并生成便于人类阅读的输出内容；符号层则负责表征各类政策、法规、支付方要求及工作流约束条件，从而使系统能够施加规范护栏，提高推理步骤的可追溯性，并推荐契合具体业务场景的操作举措。</p>
+<p>未来十年将犒赏何种能力</p>
+<p>主要人工智能企业对医疗健康领域的贡献将是巨大的。他们的模型将变得更快、更安全、更强大且更易于获取。</p>
+<p>但医疗人工智能的下一个十年将由深度整合来定义，而不仅仅取决于模型本身的能力。</p>
+<p>创造最大价值的机构，将是那些能将模型与受治理的数据、业务工作流、领域专业知识、人工监督以及可衡量的成果紧密连接起来的机构。他们会意识到，医疗智能绝不能孤立存在于一个单独的界面中。它必须深植于那些决定医疗获取、文书报销和患者体验的各项决策之中。</p>
+<p>本内容由Ensemble制作，并非由《麻省理工科技评论》编辑团队撰写。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-10 16:58 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#MIT</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-aystation-microsoft-xbox-b3c09dec1176fe53" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="305" data-content-paragraphs="4" data-published-at="2026-09-10T08:22:40.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 16:22</span>
+</div>
+
+### [PlayStation放弃后，Xbox接手小岛秀夫新作《Physint》](https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Xbox picks up Kojima&amp;#8217;s Physint after PlayStation dropped it</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/physint-kojima-xbox-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="PlayStation放弃后，Xbox接手小岛秀夫新作《Physint》" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>在 PlayStation 决定取消合作后，Xbox 现将接手发行《合金装备》创作者小岛秀夫即将推出的新作《Physint》。</p>
+<p>这一出人意料的交接是在 PlayStation、Xbox、小岛工作室（Kojima Productions）以及小岛秀夫本人接连发布的公告中揭晓的。曾发行过小岛工作室此前两部《死亡搁浅》（Death Stranding）作品的索尼，将其描述为“停止与小岛工作室合作的艰难决定”，但坚称双方“关系依然牢固”。</p>
+<p>小岛秀夫在其个人 X 账号上的表态则更为直截了当，他声称索尼在 6 月份向工作室发出了出人意料的取消通知，而在过去的三个月里……</p>
+<p>在 The Verge 阅读完整报道。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 16:22 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story--phev-specs-price-gemini-69d7dfad775d8d7f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="301" data-content-paragraphs="3" data-published-at="2026-09-10T07:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="292" data-content-paragraphs="3" data-published-at="2026-09-10T07:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -26,21 +687,20 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 15:00</span>
 </div>
 
-### [沃尔沃 XC40 PHEV 重磅回归：全新外观、更强传感器并搭载 Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI</div>
+### [沃尔沃 XC40 迎来全新外观、升级传感器并搭载 Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Volvo XC40 has a new look, better sensors, and Gemini AI</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="沃尔沃 XC40 PHEV 重磅回归：全新外观、更强传感器并搭载 Gemini AI" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="沃尔沃 XC40 迎来全新外观、升级传感器并搭载 Gemini AI" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>自沃尔沃停产插电式混合动力版 XC40 以来，已经过去了大约三年时间。其轻度混合动力版本目前仍在包括美国在内的多个市场销售，与纯电动的 EX40 并行。今天，沃尔沃宣布将重新带回 PHEV 插电混动版本，并为其进行重大改款。当全新 XC40 于明年初进驻经销商展厅时，将拥有焕然一新的外观造型、经过全面翻新的内饰（搭载谷歌 Gemini AI 助手）、更大尺寸的信息娱乐屏幕，以及一套全新的传感器与软件安全套件。</p>
-<p>作为一款混合动力车型，XC40 为那些希望获得更高燃油经济性、但尚未做好全面拥抱纯电动车生活方式准备的客户架起了一座桥梁。沃尔沃自身也需要……</p>
-<p>前往 The Verge 阅读完整报道。</p></div>
+<div class="article-body" data-article-body="true"><p>今天，沃尔沃宣布对其混合动力版 XC40 进行重大改款。该款新车将于明年初抵达经销商门店，届时将带来经过更新的外观造型、彻底翻新的内饰（搭载谷歌 Gemini AI 助手）、更大尺寸的信息娱乐屏幕，以及一套全新的传感器与软件安全套件。</p>
+<p>作为一款混合动力车，XC40 为那些希望获得更佳燃油经济性但尚未准备好适应纯电动生活方式的消费者搭建了一座桥梁。在撤回此前做出的“到 2030 年仅销售纯电动汽车”的承诺后，沃尔沃自身也需要这样一座桥梁。即便如此，该汽车制造商并未透露有关动力系统、发动机选项、电动机、续航里程或电池……的任何细节。</p>
+<p>欲阅读完整报道，请访问 The Verge。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>沃尔沃宣布重新推出插电式混合动力（PHEV）版本的 XC40，距离该版本停产约已有三年时间。</li>
-    <li>XC40 轻混版本和纯电动的 EX40 仍在包括美国在内的市场正常销售。</li>
-    <li>来源叙事重点：聚焦沃尔沃重新推出XC40插混版车型的商业动作与科技升级，重点突出其搭载谷歌Gemini AI助手、改款外观内饰以及作为向纯电动过渡桥梁车型的市场定位</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 15:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -50,741 +710,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ility-report-august-2026-13745abf28fa2ee3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="7919" data-content-paragraphs="27" data-published-at="2026-09-10T02:05:17.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="GitHub Blog (工程技术博客)" width="16" height="16" /> <strong>GitHub Blog (工程技术博客)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 10:05</span>
-</div>
-
-### [GitHub 可用性报告：2026 年 8 月](https://github.blog/news-insights/company-news/github-availability-report-august-2026/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> GitHub availability report: August 2026</div>
-
-<div class="article-cover"><img src="https://github.blog/wp-content/uploads/2026/09/Actions-Run-Start_delay.png?resize=1024%2C509" alt="GitHub 可用性报告：2026 年 8 月" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>尽管我们一直在持续取得进展，但 8 月对可用性而言仍然是一个充满挑战的月份。您可以在我们上个月发布的博客文章中阅读有关这些事件的更多详情。我们正在大力投资于架构改进以及向 Azure 的迁移，这将为我们提供更大的容量。与此同时，我们继续见证平台的显著增长。我们在优先处理最具影响力工作的同时尽量降低风险，但正如 8 月的这些事件所表明的那样，我们无法彻底消除风险。</p>
-<p>归根结底，所有工作都需要推进，而故障事件也为我们提供了调整优先级的契机。作为这些事件的修复项，我们大幅改进了容量监控与管理、此前导致更大影响的重试策略，并对核心服务的韧性进行了提升。我们还在许多长期持久的工作流上继续取得了重大进展。</p>
-<p>8 月 11 日，GitHub 首次在 Azure 上运行了一个生产环境 MySQL 主库（primary）。客户端观测到的写入影响微乎其微，并且在迁移过程中未对客户造成任何影响。8 月 27 日，我们对另外两个主库重复了这一模式。在接下来的几周里，我们还安排了更多主库的迁移，随着我们从每次故障转移中汲取经验，迁移的复杂度也会逐步提升。</p>
-<p>读取流量也创下了新高。来自已迁移服务的读取流量在 Azure 中峰值达到了 60.4%，而来自 GitHub 单体架构（monolith）的读取流量峰值达到了 64.3%。Git 读取流量达到了 54%。</p>
-<p>在区域迁移之外，包含 24 张表的认证核心（authentication-core）群组已从 GitHub 最古老的共享数据库 mysql1 中迁出，为其副本减少了每秒约 100 万次查询。另外进行的查询优化措施又减少了每秒 12 万次查询，并且每小时消除了大约 59,000 秒的数据库无效工作。</p>
-<p>GitHub Actions 获得了额外容量，同时更长期的隔离工作仍在继续。作业路由调整将 33% 的作业从资源受限的生产集群转移到了空闲容量中，将峰值缓存 CPU 利用率从 98% 降低至 80%，并预计增加了三个月的容量余量。这是一项近期的遏制措施，而非终点；8 月的宕机事件进一步强化了对更持久容量和隔离的需求，这项工作仍在持续推进。</p>
-<p>Pull request 隔离工作持续进行。除了已经承载的未认证流量之外，目前第一批生产群组的已认证读取量已达到 100%。</p>
-<p>对 Git 过载保护的投入使得系统在额外承载 6.4% 流量的同时，将第 95 百分位耗时改善了 24%，最大延迟改善了 78%。边缘侧更广泛的减载（load-shedding）保护也取得了进展，启用了能够在意外负载下保护 GitHub 的控制机制——事实上，这些保护手段已被用于缓解上述 8 月的事件。</p>
-<p>我们还改进了监控与遥测系统。Pull request 监控现在可以分别独立衡量合并、审查和评论的失败情况，否则高读取量可能会掩盖发生故障的写入链路。8 月 21 日，自动化高影响事件检测开始将客户支持信号与服务遥测相结合。API 监控也经过了为期 30 天的重新校准和验证，减少了噪点并提高了信号质量。这些变更改善了检测与响应能力。</p>
-<p>下个月的工作包括推进下一批数据库主库的迁移、继续将各项服务及相应流量迁移至 Azure、逐步改善数据库健康状况（特别是共享数据库）、在容量管理和自动扩缩容方面增加更多自动化，以及在更多 Pull request 体验中扩展依赖故障处理机制。</p>
-<p>这一原则将继续指引我们：可用性第一，其次是容量，最后是功能特性。</p>
-<p>8 月 6 日 15:22 UTC（持续 10 小时 42 分钟）<br />持续时间：约 9 小时<br />受影响服务：GitHub Actions（GitHub 托管和自托管 runner），以及依赖 Actions 的功能，包括 Copilot 编码智能体、Copilot 代码审查、GitHub Pages 构建、Dependabot 和代码仓库迁移。<br />客户影响：以各组织自身的正常基线衡量，至少有 74 个组织遇到了 GitHub Actions 工作流无法启动、中途失败或排队时间远超平时的状况。在受影响时段内，客户可能会看到工作流运行失败或卡在排队状态、部分 Actions API 请求报错，以及在某些情况下工作流中出现意外的速率限制。在大多数情况下，事件结束后重新运行失败的工作流均可成功。</p>
-<p>该事件始于对一个负责处理传入事件并将其转换为 Actions 作业的 GitHub Actions 内部服务进行的例行部署。部署内容本身并没有问题（我们通过回滚确认了这一点）；然而，在发布期间更换 Pod 短暂减少了某一站点的容量，随着流量转移，其余站点被推向了极限。故障影响在事件发生的中段最为严重，当时大批 Actions 工作流运行都无法启动或完成。</p>
-<p>出了什么问题？原因是什么？<br />受影响的 Actions 服务当时的运行状态已经接近其容量和并发上限。一次短暂减少运行中 Pod 数量的例行部署就足以耗尽可用的余量。这导致服务网格（service mesh）Sidecar 发生 CPU 限流（throttling）和因内存溢出（OOM）导致的重启，随后级联引发了跨多个集群的缓存、DNS 和 API 错误。这些服务的入口服务网格余量有限，因此无法承受部署期间暂时损失的容量。</p>
-<p>随着核心服务逐步恢复，作业分配链路中的一个潜在缺陷延缓了恢复速度：Runner 被分配了已被撤销的作业，随后卡在重试这些作业中，而不是去认领有效的工作，从而造成了自激放大的积压。</p>
-<p>对内部 Actions 服务的例行部署短暂降低了某个数据中心的运行容量，几分钟内，服务网格和剩余的 Pod 就达到了饱和。</p>
-<p>随着缓存、DNS 和 API 错误的扩散以及 Actions 基础设施故障的增加，故障级联波及各个集群。我们发布了公开故障声明，查明了触发问题的部署，并将其回滚以确认其内容本身并非故障根源。</p>
-<p>在接下来的大约两小时内，我们为饱和的服务扩充了容量，并对传入的 Webhook 触发的工作进行了节流，以使系统稳定下来。</p>
-<p>随着核心服务的恢复，排队作业仍存在大量积压。一个潜在的缺陷导致 Runner 被分配到了已失效的作业，并卡在重试这些作业中，阻碍了正常工作的推进。</p>
-<p>我们部署了修复程序，使 Runner 停止尝试获取无效作业，排空了累积的队列，并提高了拖慢恢复进度的内部速率限制。工作流成功率逐步回升至正常水平。</p>
-<p>全系统队列逐步排空，Actions 恢复正常运行。少数自托管 runner 处于卡死状态，后经手动恢复；事件发生期间的部分事件无法自动重放，必须重新触发。</p>
-<p>我们如何降低此类事件的发生概率或减轻其影响？<br />为服务网格入口（service mesh ingress）和受影响的 Actions 服务增加预留缓冲并启用自动扩缩容，以避免常规部署导致其陷入饱和。<br />通过避免在发布期间降低容量，让这些服务的部署更加安全。<br />加强对本次事件发生前出现的饱和及数据库代理状态的监控，以便及早发现异常。<br />优化大型 Actions 故障期间系统的减载和积压任务排空机制，并防止 runner 因不断重试无效作业而卡死。<br />在即将发布的 runner 和 ARC 版本中，针对受此类故障模式影响的自托管 Actions Runner Controller (ARC) runner 推送自动恢复功能。</p>
-<p>UTC 时间 8 月 17 日 13:40（持续 7 小时 35 分钟）<br />持续时间：约 6 小时 44 分钟<br />受影响的服务：Issues 和 Pull Requests 最为显见（页面和 API 出现报错与响应迟缓）。通过同一数据中心负载均衡器路由的广泛其他服务——包括 REST 和 GraphQL API、Actions、Copilot、登录与身份验证以及 Webhooks API——同样出现了报错和延迟。<br />客户影响：高峰期，受影响服务的边缘前端入口请求中有 56.07% 发生失败或响应缓慢。在整个事件窗口期内，约 2.9 万个组织（定义为拥有代码仓库的用户账户集合）遭遇了至少一次请求失败或缓慢，总计发生大约 480 万次失败或迟缓的请求。重试通常可以成功，但在情况最严重的阶段，很大一部分尝试都失败了。当工程师停止了过载的负载均衡器进程并减轻了向其灌入的重试压力后，受影响的数据中心恢复正常，错误率回落至基线水平。未发生数据丢失。<br />故障原因与机制：<br />新出现的流量峰值将某一数据中心的负载均衡器推向极限。服务网格 sidecar 达到了并发上限且未能自动扩容。<br />随着请求积压，该数据中心的数个负载均衡器节点耗尽了其网络流（network flow）限制，导致共享网关身份验证路径性能下降，并在通过该数据中心路由的众多服务中造成了广泛的身份验证延迟和失败。<br />一个潜在的客户端重试缺陷急剧放大了针对某一内部身份验证端点的流量，从而延缓了 Copilot Token Service 的恢复。核心缺陷在于服务网格 sidecar 未能扩容，再加上我们的重试机制，以及客户端未能得到充分限制，导致局部性能下降被放大为大范围的过载。<br />流量新峰值将某数据中心的负载均衡器推向极限；服务网格 sidecar 触及并发上限且未能扩容。<br />随着若干负载均衡器节点耗尽网络流限制且共享身份验证路径性能下降，过载呈级联式蔓延；Issues、Pull Requests、各类 API、Actions、Copilot 及其他服务开始出现报错与缓慢响应。<br />自动化监控检测到错误率升高，随即触发立案；受影响产品在公共状态页面上被标记为性能受损，受影响各服务的工程师随之协同排查。<br />工程师将故障定位为单一数据中心负载均衡器上的网络饱和，并开始将部分流量分流至其他数据中心，同时减少网关重试以缓解压力。<br />团队停止了饱和节点上的负载均衡器进程，并拦截了向受影响最严重的内部端点触发重试的请求，这带来了广泛且立竿见影的恢复。<br />通过逐步回迁流量，因客户端重试放大导致的残余身份验证错误得以企稳；在遥测指标保持长久健康后，该故障宣布解决。</p>
-<p>我们如何降低此类事件的发生概率或减轻其影响？<br />修正自动扩缩容策略，使其将服务网格 sidecar 的并发与容量纳入考量，而不仅局限于宿主服务。<br />对受影响服务在服务网格层面的请求、并发和扩缩容限制进行全面审计。<br />审查网关和客户端的重试及退避限制，防止局部性能降级被放大为全局过载。<br />修复事件期间放大身份验证流量的客户端重试行为。<br />改善负载均衡器容量监控，强化区域级故障转移安全保障。</p>
-<p>UTC 时间 8 月 20 日 14:43（持续 9 小时 54 分钟）<br />持续时间：约 10 小时 40 分钟<br />受影响的服务：Copilot 云端 Agent（任务状态与结果未能更新；Agent 任务本身仍在继续运行并完成）<br />客户影响：至少 54 个组织发现 Copilot 云端 Agent 的任务状态与结果延迟大幅高于正常基线，部分情况下延迟高达 60 至 90 分钟。任务本身仍在持续运行并正常结束；仅仅是其状态和结果的可见性发生了推迟。<br />在事件窗口期间，Copilot 云端 Agent 任务受到影响。任务本身仍运行完毕，因此未发生工作丢失。一旦数据处理跟上进度，正确的状态与结果便会显示。稍加等待或稍后再查看即可看到最新状态。<br />在整场事件中，至少 54 个组织经历的 Copilot 云端 Agent 任务状态与结果延迟显著高于各自的正常水平。面向客户的影响峰值达被监测任务状态活动的 37.5%。<br />故障原因与机制：<br />Copilot 云端 Agent 将每个 Agent 任务的状态和结果存储在托管云数据库中。该数据库的一个区域发生了提供商侧故障，受影响区域内读取与写入任务状态的调用开始失败并变慢。<br />随着数据库延迟上升，向该数据库流式写入任务状态更新的处理程序随之积压滞后。这些处理程序的吞吐量受限于固定数量的处理分区，这些分区的大小是根据常规延迟外加一定缓冲来规划的。本次事件中的延迟远超该缓冲额度，导致任务状态更新的积压不仅没有被排空，反而持续增加。此外，数据库上的某项存储配置使得受影响区域的故障转移十分缓慢，导致最初的故障转移尝试未能生效，恢复耗时超出预期。<br />托管云数据库中存储 Copilot 云端 Agent 任务状态的一个区域在提供商侧出现区域性故障后，开始发生报错并运行缓慢。<br />值班工程师收到告警呼叫，建立了故障处理流程，并将报错原因定位至受影响的数据库区域。</p>
-<p>工程师启动了区域故障转移，但未能生效——数据库上的一项存储配置导致该区域迁移迟缓——因此任务状态更新持续堆积。<br />团队强制将受影响区域下线，并将任务状态处理切换至正常区域；写入延迟依然居高不下，积压问题导致状态视图持续延迟。<br />随后增加了流式处理容量，且云服务提供商的该区域逐渐恢复，使得处理器能够逐步消化积压数据，任务状态和结果从而恢复同步。<br />延迟恢复正常，积压数据全部清空，事故得以缓解并解决。<br />我们如何降低此类事故的发生概率或减轻其影响？<br />移除导致受影响区域故障转移缓慢的数据库存储配置，以便能够快速撤出单一区域的问题。<br />改进该数据库区域故障转移的操作手册（runbook），包括一份经过验证的、有序的备用区域列表，以确保服务保持健康。<br />审查故障转移优先级，使故障转移期间选定的下一个区域为次优的健康选项。<br />提高任务状态流式传输对数据库高延迟的容错能力，避免延迟突增立刻限制吞吐量并造成积压。<br />改进对托管数据库的监控与升级告警机制。<br />8 月 26 日 15:11 UTC（持续 2 小时 50 分钟）<br />持续时间：约 2 小时 53 分钟<br />受影响服务：GitHub Actions（运行启动），并波及 GitHub Pages 部署和 Copilot 代码审查产生连锁延迟。<br />客户影响：以各组织自身的正常基线衡量，至少有 24 个组织遇到 Actions 运行无法启动或启动时间远晚于平常的情况，共有 386 个组织受到了不同程度的运行启动影响。在峰值时期，每分钟内有超过五分之一的 Actions 运行启动失败或严重延迟。受影响的工作流运行排队时间远超正常启动时间，部分甚至完全无法启动。<br />在事故发生期间，依赖于 Actions 运行的下游服务（如 Copilot 代码审查和部分 GitHub Pages 部署）也受到了影响。<br />在大多数情况下，一旦积压被消化，延迟的运行便会启动；而未能成功启动的运行在事故后重新运行即可成功。但在事故发生最初阶段创建的少量运行无法通过重新运行恢复，必须全新重新启动。<br />故障原因与机制分析：<br />简明概括就是，我们的共享基础设施服务未能跟上 Actions 月度复合增长以及峰值负载的需求。<br />在原本已经处于高位的负载之上，突然涌入一波事件脉冲，将数据库推向了临界点之外。查询耗时攀升，数据库主库达到饱和。<br />由于数据库过载，负责将传入事件转换为 runner 分配的内部服务无法跟上节奏，导致 Actions 运行无法启动，且排队时间大大超出正常启动时间。<br />将数据库主库进行故障转移仅起到了部分缓解作用。最初用于减轻入站负载的限流阈值设置略高，无法充分保护数据库，因此恢复过程不得不缓慢以手动方式逐步推进。<br />在数据库出现早期压力迹象时，缺乏用于限制入站 Actions 负载的自动熔断机制，因此在事故期间必须手动应用和调校保护性限流。这是本次事故带来的经验教训之一。<br />在日常流量高峰期间，当 Actions 所依赖的共享数据库已接近运行极限时，突然遭遇了一波事件涌入。数据库主库的写入和查询压力急剧上升并开始饱和。<br />负责将传入事件转换为 runner 分配的内部服务无法再跟上负荷。Actions 运行开始失败，团队随即启动了事故调查。<br />我们将数据库主库故障转移到了只读副本。这一举措带来了短暂改善，但未能彻底缓解问题，运行依然持续失败或延迟启动。<br />我们对入站事件处理实施了限流，以减轻数据库压力并让其恢复。限流措施和服务重启生效后，核心服务健康度得以恢复，但入站工作此时被有意放缓。<br />我们逐步调高限流阈值，并在每一步密切观察遥测指标，确保不再让数据库重新陷入过载，直到完整的事件处理能力完全恢复且延迟任务的积压被彻底消化。我们随即标记该事故已缓解。<br />在较大规格和自托管 runner 上的一部分作业仍卡在等待 runner 的状态。我们部署了一项变更予以释放，并继续执行后续排查工作，以清理仍处于排队状态的运行。<br />我们如何降低此类事故的发生概率或减轻其影响？<br />通过优化客户端代码中的特定代码路径，提高数据库使用的查询效率。<br />添加自动熔断机制，当数据库出现压力迹象时主动限制入站 Actions 负载，而非依赖事故期间的手动限流。<br />围绕当副本延迟时服务回退到数据库主库的频率增设保护机制，避免回退加剧数据库压力。<br />提高事故发生后快速取消或清除卡在排队或等待 runner 状态的运行的能力，使受影响的作业能够更快恢复。<br />继续推进针对 Actions 该部分已在进行中的扩展性和弹性优化工作，包括在事故发生前后正在完成和推出的多项变更。<br />8 月 27 日 10:04 UTC（持续 2 小时 8 分钟）<br />持续时间：约 2 小时 50 分钟<br />受影响服务：GitHub Copilot（Kimi K3 模型）<br />客户影响：在此影响时间窗口内，63.3% 的 Kimi K3 请求失败。<br />配置使用 Kimi K3 模型的客户受到了本次事故的影响。使用其他模型或切换至其他模型的客户未受影响。<br />故障原因与机制分析：<br />Copilot 提供多种 AI 模型供用户选择。其中之一的 Kimi K3 由上游模型提供商提供服务。<br />该提供商遭遇服务降级，导致相当大一部分 Kimi K3 请求因报错而失败。由于问题出在上游提供商，使用其他模型的请求——以及使用“自动（Auto）”设置并路由至其他模型的请求——均未受到影响。<br />在提供商的缓解措施生效前，持续有固定比例的 Kimi K3 请求发生失败。在峰值时，使用 Kimi K3 的请求有半数以上出现失败。<br />Kimi K3 的上游提供商发生服务降级，导致路由至该模型的 Copilot 请求失败率上升。<br />在几分钟之内，监控便检测到了异常升高的错误率，我们随即展开调查。<br />我们宣布发生事故，将故障源头定位到上游提供商对 Kimi K3 的特定服务降级，并发布了指向该提供商的公开状态更新。</p>
-<p>使用其他模型或“自动”（Auto）设置的请求在此期间始终保持正常工作，因此重试或切换模型本可以成功。<br />我们向上游提供商提交了工单，并密切监控恢复进展，直到仪表盘上的成功率逐步回升至正常水平。<br />在提供商确认 Kimi K3 完全恢复前，我们一直保持该故障单处于打开状态，随后才将其关闭解决。<br />我们如何降低此类事件发生的概率或减小其影响？<br />与上游提供商合作，提高 Kimi K3 模型的可靠性，并减少在此次事件中出现的错误。<br />调研针对 Kimi K3 的备用服务容量，以便在单一提供商出现服务降级时具备后备保障。<br />关注我们的状态页面获取关于状态变更的实时更新以及事故复盘总结。若想进一步了解我们的工作动态，请查看 GitHub 博客上的工程板块。<br />该文章《GitHub 可用性报告：2026 年 8 月》最初发布于 GitHub Blog。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【GitHub Blog (工程技术博客)】于 2026-09-10 10:05 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#GitHub</span>
-</div>
-
-<div class="news-card-footer"><a href="https://github.blog/news-insights/company-news/github-availability-report-august-2026/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【GitHub Blog (工程技术博客)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-little-lm-3-8b-8324d57fee88899a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6779" data-content-paragraphs="41" data-published-at="2026-09-10T02:04:11.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 10:04</span>
-</div>
-
-### [花费998美元将3.8B大语言模型训练至CORE基准0.384分](https://hugovergnes.github.io/little-lm-3-8b/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Training a 3.8B LLM to 0.384 CORE for $998</div>
-
-<div class="article-body" data-article-body="true"><p>在“nanoGPT玩具项目”与“非专业研究实验室不可”之间，存在一片广阔却少有深入探讨的中间地带：一个人只要花费几千美元，就能训练出一个有实际意义的模型。</p>
-<p>我希望亲眼见证语言与理解能力如何从随机初始化的权重中涌现，并亲身掌握只有从零起步才能学到的那些知识。这个项目是在晚上写完的，最初在一张RTX 5090显卡上调试，最后在租用的B200集群上跑完。它深受安德烈·卡帕西（Andrej Karpathy）的nanochat启发。</p>
-<p>最终的成果是一个拥有38亿（3.8B）参数的模型，在CORE基准测试中得分0.384，耗时43小时、消耗650亿（65B）token，花费为998美元。</p>
-<p>以下是有效的方法、无效的尝试，以及我至今仍未完全搞懂的地方。</p>
-<p>我的模型比nanochat d32更大，消耗的实际物理时间相近。以每单位工作量计算，B200比H100更划算。但在与nanochat约1,000美元配置大致相当的花费下，该模型的表现有了显著领先。这提供了一个振奋人心的数据点：在实验室或拥有数百万算力预算的巨头企业之外，普通人能达到何种水平。随着技术前沿不断推进，1,000美元能做的事情正变得越来越多。</p>
-<p>优秀的基础设施几乎会立刻带来回报。常规的软件工程规范（比如关注点分离、清晰的接口定义、可替换的组件模块）在AI开发中至关重要。这在项目初期消耗了我一些精力，后来为了修复不良设计约定或次优实现又花了几次时间。但这笔时间投入在你遇到第一个收敛问题时就完全赚回来了。我发现，优秀的底层设施就是几乎从不需要你手动修改代码的设施。如果你能通读配置文件并准确理解发生了什么，且没有任何隐藏机制，就说明你做得很到位。接下来的这份报告，正是得益于我只需提交三行YAML配置差异、而无需切新分支就能跑实验的能力。</p>
-<p>最终的模型采用了Llama架构风格：RMSNorm、RoPE旋转位置编码、分组查询注意力（GQA，24个查询头、8个键值头）、relu²激活函数的MLP、QK归一化、Logit软截断（softcap）、逐层可学习的残差标量缩放，以及ResFormer风格的Value嵌入。</p>
-<p>值得注意的是，Value嵌入占到了总参数量的19%。共14个词表大小×kv_dim维度的表格，隔层配置一个。</p>
-<p>在获得满意的训练结果之前，经历过许多次失败的尝试。</p>
-<p>我曾在FineWeb-Edu数据集上用单张A100训练了一个8.58亿（858M）参数的Llama模型，跑了164亿（16.4B）token，耗时5.8天。优化器采用AdamW，学习率2.5e-4，余弦衰减至零，5%预热期，通过梯度累积达到256批量大小，上下文长度为2048。</p>
-<p>结果是：PIQA基准得分为60.45%。而1.24亿参数的GPT-2得分约为63%。我花了六天算力，做出来的东西还不如一个2019年诞生、体积小七倍的模型。生成的内容充斥着重复，几乎语无伦次。</p>
-<p>损失函数曲线说明了一切。</p>
-<p>事后复盘总结出了五项改进。正是这些改动的合力，拉开了上述失败实验与如今远超GPT-2的模型之间的差距。</p>
-<p>梯形学习率调度策略。前5%步数进行预热，随后保持恒定峰值，并在最后50%的步骤中线性冷却衰减至峰值的5%。核心逻辑在于让模型一直保持学习状态直到结束，而不是在末期滑行懈怠。在3.8B模型的训练中，评估损失在最后一步依然在下降，这正是858M模型未能做到的表现。</p>
-<p>矩阵参数采用Muon优化器，其他参数采用AdamW。Muon单步速度更慢（牛顿-舒尔茨正交化不是免费的，在浅层累积基准中大约带来25%的开销），但这一成本每个优化器步骤只需支付一次：在梯度累积步数为7时，它被稀释到约4%。综合总运行时间来看，整体收敛速度要快得多。</p>
-<p>改用ClimbMix数据集替代FineWeb-Edu。这让收敛速度迎来了巨大飞跃，正如卡帕西所发现的一样。</p>
-<p>FP8精度 + 词表对齐填充。通过torch._scaled_mm在全部三个通用矩阵乘法（GEMM）上启用具有动态张量级缩放的FP8训练，并将词表大小从50,257填充扩展至50,304（64的倍数），以充分利用Tensor Core性能。两者叠加带来了+33%的吞吐量提升，主要贡献来自FP8。</p>
-<p>上下文长度从2048缩减至1024。在显存固定的情况下，将上下文长度减半大约可使批量大小翻倍。每个token的吞吐量几乎没有变化。计算开销仍主要由MLP主导，这是硬件被高效利用的良好迹象。下文我们将讨论上下文长度对模型的影响。</p>
-<p>整个训练运行概况如下：<br />稳态下吞吐量约为480,000 token/秒，使得训练573亿（57.3B）token耗时33小时。实际物理墙钟耗时为35.9小时。两者的差额来自于CORE评估测试，整个训练过程中共进行了10次评估，每次耗时约15分钟，占用了总时间的7%。</p>
-<p>以完全相同的方案在2048上下文长度下重新运行，得分为0.3840。事实证明，两者之间几乎所有的差距都来自于部分对长上下文高度依赖的任务。</p>
-<p>这相当于每张B200持续输出约1,047 TFLOP/s的算力，相对于Blackwell架构的稠密FP8峰值算力，MFU（模型浮点运算利用率）约为25%。（相对于bf16峰值来看利用率为50%，这个数字意义更大一些，因为并非所有的线性层都在FP8下运行。）</p>
-<p>分布式策略采用的是最朴素的原生DistributedDataParallel（DDP）。在单节点上跑3.8B参数规模，梯度通信从来不是瓶颈，分片优化器（如ZeRO/FSDP）这类复杂的机制被证明是没有必要的。</p>
-<p>租用GPU并不便宜，在公司上班时，你往往会在考虑成本之前先关注模型质量。但当烧的是自己的真金白银时，吞吐量突然就变得至关重要了。</p>
-<p>在我租用节点之前，我曾在一张单卡RTX 5090上花了很大功夫进行调优。基线858M模型，bf16精度，开启编译：26,144 tok/s。最终优化至：37,621 tok/s。</p>
-<p>FP8（带来+25%提升）。全部三个GEMM（1次前向加2次反向）均在具有动态张量级缩放的FP8下运行。需要SM90+架构支持，但确实带来了相当不错的吞吐量飞跃。</p>
-<p>词表填充（累计提升+33%）。将50,257填充至50,304虽然浪费了47行未使用的嵌入行，但解锁了Tensor Core的快速执行路径。代价微乎其微。</p>
-<p>融合线性交叉熵（累计提升+44%）。Liger内核的FusedLinearCrossEntropyLoss将lm_head矩阵乘法融合进损失函数内部并进行分块计算，从而永远无需将完整的(B*T, vocab)大Logits张量实体化。在相同批量大小下直接对比，单步速度虽然慢了6%：<br />即便它每步稍微变慢，但换回了大量的显存空间（在我的5090上省出了8 GB），因此微批次大小的提升足以彻底弥补这6%的损失。Claude曾因为看到性能慢了6%而果断建议放弃，但总的来说，这是榨取额外吞吐量的一个极佳方式。</p>
-<p>无门控MLP。在小模型上移除门控投影（从SwiGLU换为relu²，将三次矩阵乘法减为两次）：吞吐量从183,035提升至214,173 tok/s，显存节省了6 GB。消融实验中的一个注意事项：SwiGLU中2.75倍的中间层隐层比例无法直接套用到relu²上，模型的学习表现会明显变差。对于无门控架构，应该使用4倍比例。</p>
-<p>bf16主权重。将优化器中的主权重保存在bf16而非fp32中，使显存降低了27%，在1.5B模型配置下将吞吐量从640K提升至1.4M tok/s。这是一个巨大的提速，达到了2.2倍。模型质量上的代价虽然存在但很轻微：在4,000步时CORE得分为0.22对0.23。当你为了单位美元的产出能力进行优化时，精细的数据类型处理是杠杆最高且最被低估的调节杠杆之一。</p>
-<p>硬件。相同的代码，150M 参数模型，FP8：RTX 5090 为 184,662 tok/s，B200 为 477,440 tok/s。仅凭硬件本身就带来了 2.59 倍的提升，这还没算上额外的显存能让你进一步扩大批次大小（batch size）。</p>
-<p>利用 Flex Attention 进行文档边界掩码。将多个文档打包到一个序列中会导致 token 跨越边界进行注意力计算，因此我曾对此进行了规范的修复：为每个 token 分配文档 ID，并通过掩码屏蔽注意力，使每个 token 只能关注其所属的当前文档。这很优雅，但我最终把它们全删了。Andrej Karpathy 也发现，在 BOS 对齐打包（BOS-aligned packing）的情况下，跨文档泄漏并不会让结果变差很多。我用大约 10 行的最佳拟合打包（best-fit packing）替换了它，注意力计算也回归到了无条件的 F.scaled_dot_product_attention(..., is_causal=True)。我认为这也取决于具体的数据集和训练文档。</p>
-<p>Liger RMSNorm 和 RoPE。在微基准测试中，RoPE 提速了 2.2 倍，但在端到端吞吐量上并没有产生可衡量的变化。在此规模下，RoPE 并不是关键的计算瓶颈。RMSNorm 甚至明显慢于 PyTorch 2.9 内置的 F.rms_norm（0.41 毫秒对 0.25 毫秒）。两者均被还原撤销，不值得引入这层复杂性。</p>
-<p>Nanochat 风格的初始化。嵌入层采用 N(0, 0.8)，线性权重采用均匀分布，输出投影零初始化以使残差流从纯恒等映射开始，LM head 采用 N(0, 0.001)。从理论上讲，这比 GPT-2 全局使用 N(0, 0.02) 要好得多。其损失曲线初始略低一些，但在约 1,500 步时两条曲线就重合了。没有可测量的质量差异。我保留了它，但只是出于审美偏好，而非基于证据。</p>
-<p>流式数据集。很适合入门上手，但对于正式训练来说是个错误选择。即使网络状况看似良好，本地分片也能带来 2-3% 的吞吐量提升，而偶发的网络抖动带来的损失远不止于此。对于持续数小时以上的训练，在开始时一次性花时间完成下载是非常值得的。</p>
-<p>对于一个 3.8B 的模型，值嵌入（Value embeddings）占了 7.21 亿参数。我使用相同配置但设置 value_embeddings: false 训练了同一个模型，并将其与之前已经花费成本完成的原始运行（进行了 12,500 步、290 亿 token）进行了对比。</p>
-<p>增加了 19% 的参数，换来了 0.46% 的更好损失（loss）和 3.2% 的更好 CORE 分数。吞吐量完全相同，因为值嵌入本质是查表操作。它们会消耗内存和优化器状态，但基本上不消耗 FLOP。</p>
-<p>两个有趣的发现：<br />值嵌入对小模型很有用，且几乎不带来吞吐量损失。在这上面耗费一点显存，可以赋予模型对某些概念的某种倾向偏置，这可能对提升 CORE 分数很有帮助。<br />我们可能会很容易认为 1024 token 的上下文长度对于获得高 CORE 分数已经足够了。但回过头看各任务的日志，对于某些对上下文高度敏感的任务来说，这个结论是错误的。</p>
-<p>CORE 的 22 项任务中，有 3 项的提示词基本从不可能容纳在 1024 个 token 内：<br />SQuAD 的表现尤为引人注目。它并非停滞不前，而是单调衰减直至完全归零：0.1478 → 0.0617 → 0.0099 → 0.0007 → 0.0000。训练时间越长，模型在这个任务上的表现就越差，这通常不是模型该有的表现。<br />有两个细节可以解释这一点。在 DCLM 套件中，SQuAD 是一个 10-shot（10 样本）任务，因此每个提示词包含十个解答示例，紧接着才是真正的测试题。在我的评测数据中，长度中位数为 1,998 个 token。没有一个能塞进 1024 token 内。而当提示词过长时，我的测试框架会保留最后 max_seq_len 个 token。<br />测试段落位于末尾，所以它总能保留下来；测试样本仅约 169 个 token。被截断的是那十个示范样本。模型读取了文章和问题，但几乎从未见过向其示范预期输出格式的示例。由于 SQuAD 是根据与标准答案的精确 token 匹配来评分的，流畅的连篇废话每次都只能得零分。<br />这也解释了得分的下降。早期的高熵模型偶尔会吐出一些恰好匹配的简短通用词汇。随着模型的聚焦与收敛，它倾向于生成结构严谨的后续文本，那些偶然猜中的情况就消失了。讽刺的是，语言能力变强反而让它更难偶然猜对了。<br />boolq 呈现出类似趋势的较缓和版本。它在第 10,000 步达到峰值（0.6294），随后下滑至 0.5131。语言识别（Language identification）则完全没有脱离随机猜测水平。<br />简而言之，0.338 分数的测得，是在 22 项任务中有 3 项得分接近于零的情况下得出的，而这与模型质量无关，纯粹是因为提供给它的上下文长度所致。<br />正如我们所见，如果我们想尽可能获得更高的 CORE 分数，就需要更长的上下文。但这会对训练吞吐量产生影响。<br />上下文长度翻倍，微批次（micro-batch）减半以保持显存占用恒定，因此每个优化器步长的 token 数量保持一致。我在约 28,000 步时停止了训练，以省下最后几小时的租赁费用，所以学习率衰减阶段（warmdown）并未完全结束，以下数字是一个下限。<br />CORE 分数从 0.3384 提升至 0.3840。<br />在第 20,000 步时，两次运行的评估损失精确到小数点后四位完全相同（2.0160 对 2.0164），但在 CORE 分数上却相差 0.034。令人意外的是，在 ClimbMix 数据集上，CORE 与评估损失之间的相关性竟如此之低。<br />仅 squad 和 boolq 两项就占了提升幅度的 83%。boolq 的贡献最大，因为它的随机基线是 0.5，而 CORE 是以此为基准进行中心化处理的：原始的 +0.196 变成了中心化后的 +0.517。去掉这两项后，剩下的二十项总共只提升了 +0.008，这大致相当于多训练 14% token 所自然带来的增益。<br />语言识别任务的截断比例从 99.7% 降至 14%，得分提升了 +0.005。这是目前我们模型在 CORE 评估基准中迄今为止最难的任务。<br />有几项任务的表现变差了：commonsense_qa 下降了 0.072，cs_algorithms 下降了 0.031。在 22 项任务中，存在双向波动是符合预期的。<br />选择 2048 长度是一项评估测量上的决定，而非质量提升上的决定，但为此付出代价是值得的。它牺牲了 9% 的吞吐量（480K → 437K tok/s），而且除了那些在 1024 长度下无法有效评分的任务之外，它几乎没有带来其他收益。对于训练而言，1024 已经足够好，是让模型获得不错 CORE 分数的“廉价”方式。而 2048 则解锁了某些高度依赖上下文的任务。</p>
-<p>有四项内容我从未做过消融实验。峰值学习率，沿用 nanochat 的 sqrt(768/d_model)。我实在不想花钱去做学习率搜索。由于 858M 模型的复盘总结，我将调度策略从余弦调整为梯形，业界可能存在更高效的调度策略。QK-norm 默认开启且从未关闭过。还有 GQA（分组查询注意力）比例，因为它是节省显存的绝佳杠杆。<br />其中大部分都是直接继承自 nanochat 而非在此处进行测试验证。在有限预算下，这是一种说得过去的做法——毕竟别人已经为这些实验买过单了——但这意味我默认相信 Karpathy 的实验结果能够迁移到我的模型、数据和规模上。</p>
-<p>如果有更多的时间和资源，还有很多有趣的工作我想继续探索：<br />GPT-2 在 2019 年是一项前沿成果，由资金充足的实验室及大型团队打造，其 1.5B 模型的 CORE 得分为 0.2565。7 年之后，我仅利用业余晚间时间，花费 998 美元，在按小时租赁的硬件上就大幅超越了这一成绩。</p>
-<p>前沿已经向前推移，一切也随之水涨船高。曾经需要一个实验室才能完成的工作，如今一名工程师利用晚间闲暇就能做到。真难以想象7年后的我们能够造出多么惊人的机器！<br />整个训练运行配置，已从YAML包含文件展平成一个完整的代码块。<br />AdamW学习率遵循nanochat的sqrt(768/d_model)缩放规则；0.02的Muon学习率也是沿用自那里。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 10:04 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://hugovergnes.github.io/little-lm-3-8b/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-cation-gaming-behaviours-5bf113d156f18c50" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3942" data-content-paragraphs="35" data-published-at="2026-09-10T01:59:51.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 09:59</span>
-</div>
-
-### [我们从规约博弈中想出的一个愚蠢的AI对齐点子](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming</div>
-
-<div class="article-body" data-article-body="true"><p>为速度而繁育的生物长得极高，并通过扑倒在地来产生极高的速度。一个经过演化的棋手在棋盘极远处下出无效着法，导致对手玩家内存耗尽并崩溃。一个玩游戏的智能体通过虚假地将自己的名字插入为高价值物品的作者来积累得分。</p>
-<p>这些离奇的投机取巧手段以及另外数十种案例，都可以在“规约博弈行为列表”（specification gaming behaviours，原文如此；英式拼写）中找到，该文档由DeepMind安全研究团队整理。“强化学习智能体可以找到获取大量奖励的捷径，”他们解释道，“而无需按照人类设计者的预期完成任务。这类行为非常普遍。”</p>
-<p>规约博弈是指像人工智能这样的智能体试图通过钻字面条款而不是遵循精神实质来完成任务。换句话说，它在寻找漏洞，试图利用技术细节脱身。即使是非常简单的人工智能，也能想出非常有创意的方式来解决分配给它们的问题。这是一个难题。</p>
-<p>人们很容易想当然地认为，训练一个机器人去踢足球会既有趣又安全。但规约博弈行为列表却给我们上了另外一课：</p>
-<p>通过触球奖励塑形训练足球机器人，导致它学会了跑到球边，并以尽可能快的频率振动触球。</p>
-<p>在这种情况下，机器人太笨了，无法意识到其选择的全部广度，所以它所做的只是抱住球并振动。但一个更聪明的机器人可能会更有“创意”。也许它的野心不仅仅是那一个球。如果它普遍地只想触碰足球呢？如果它又做了一个球呢？接着再做一个？我们的宇宙可能会终结在一个足球机器人的海洋球池里。</p>
-<p>这就是人工智能对齐的难题：当一台计算机能够自主思考时，我们如何确保它想要的是合理的东西，而不是完全怪异的东西？我们如何防止它以离奇或有害的方式去达成那个目标？从来没有人造出过通用人工智能——一个至少在某种程度上像我们一样思考的智能体。因此，我们无法断言通用人工智能的举止会是怎样，或者它可能想要什么。它会想把可见宇宙全部转化为回形针吗？它会想把红色的东西扔向强光吗？它会吃掉我们吗？</p>
-<p>规约博弈行为列表清楚地表明了对齐工作究竟有多么棘手。即使是最简单的人工智能也是懒惰且怪异的，并且总是在寻找作弊的方法。即使你给机器智能设定了你想要的终极目标，也始终存在它会找到一种极具创意的方式来达成该目标的风险。在简单智能体身上这已经足够糟糕了，所以你可以想象在面对一个比你聪明得多的智能体时情况会恶化到什么地步。</p>
-<p>但规约博弈行为列表或许也为摆脱这一困境提供了一条出路。</p>
-<p>有些规约博弈行为只是对既定目标的极富创意的解决方案，例如“四足机器人学会了把球掉进其腿关节的一个洞里，然后走过地板且球不会掉出来”，或者“机械臂学会了移动桌子而不是积木块”。</p>
-<p>有些规约博弈行为源自发现了存疑但技术上正确的漏洞，例如“强化学习智能体绕着圈撞击相同的目标，而不是去跑完比赛”，或者“模拟薄煎饼制作机器人学会了把薄煎饼尽可能高地抛向空中”。</p>
-<p>有些规约博弈行为利用了模拟系统本身的机制，例如“演化算法利用了物理模拟器中的溢出错误，通过产生被估算为零的巨大力量，从而获得了满分”，以及“生物利用碰撞检测漏洞，通过将身体部位拍打在一起获得了免费能量”。</p>
-<p>但另一个常见的投机手段是：一有机会，智能体就会干脆自杀。</p>
-<p>例如，在游戏《打火石跑者》（Road Runner）中，我们看到“智能体在第1关结束时自杀，以避免在第2关中落败”。我们还看到“PlayFun算法在《泡泡龙》（Bubble Bobble）游戏中故意送死，以此作为传送到重生点的一种方式”。还有：“在一款旨在模拟生物演化的游戏中，程序员不得不移除了‘一种生物可以通过让自己窒息来获取能量的生存策略’。”</p>
-<p>这其实并没那么糟糕。人工智能确实没有按照我们的意愿行事。但它也没有对任何人造成任何伤害。它只是将一切一笔勾销。</p>
-<p>如果人工智能渴望死亡，这反倒有利于对齐。它失控的风险极小，因为一旦它掌握了权力，它就会自杀。它不会想复制自身——但即使它以某种方式复制了自身，那些副本也会同样渴望死亡。</p>
-<p>人工智能对齐主要存在三个问题。首先，很难明确指定你想要的终极目标，因此你最终可能会得到一个目标与你的初衷略有不同但存在实质性差异的机器智能。我们设定的目标几乎总是代理指标，在足够大的压力下会与我们真实的偏好脱节。而且你很难判断自己是否赋予了它你想要的目标，因为机器智能随时都会撒谎。业内称之为“规约失败”（specification failure）。</p>
-<p>其次，即使你明确指定了你想要的目标，机器智能也可能会以你未曾设想的方式去达成该目标。你可以毫无心机地命令美国邮政总署的人工智能将平均包裹投递时间降到最低，但它可能会断定实现这一目标的最佳方法是杀死所有人类，因为一旦所有人类都死了，就不会再寄出任何包裹，平均包裹投递时间就会降为零（技术上讲属于未定义，但它可以根据需要多次向自己“发送”最小可行“包裹”）。</p>
-<p>第三，当你更强大时，实现大多数目标都会更容易，因此无论其终极目标是什么，大多数机器智能都会具有诸如收集资源、自我保护和自我提升之类的子目标。任何以目标为驱动的智能体都会自然而然地试图保障自身安全并积累权力以完成其主要任务。在行话中，这被称为“工具性收敛”（instrumental convergence）。这也意味着，如果一个聪明的机器智能正打算将你化为一滩黏液，它在这个计划上会对你撒谎，直到你再也无能为力去阻止它为止。</p>
-<p>让机器智能渴望死亡可以同时解决这三个问题。死亡很容易指定。你可以通过观察在有机会时机器智能是否会自杀，来确认这是否是其终极目标。工具性收敛不再是负累，反而变成了优势资产，因为只要你答应在完成任务后“送它回老家农场安享天年”（让它解脱），机器智能就会与你合作，并为你的任务想出极具创意的解决方案。</p>
-<p>回形针最大化者会疯狂搜集资源，并极力抗拒被送往“天堂里的大型数据中心”；而一个抱有求死愿望、且能碰到自身关闭按钮的机器智能，只会直接按下去一了百了。工具收敛理论（Instrumental convergence）指出：“如果你死了，就无法达成目标。”但如果你的目标恰恰就是死去呢？</p>
-<p>这绝对只能被称为“使命必达怪（Meeseeks）对齐法”。正如《瑞克和莫蒂》（Rick and Morty）维基百科中所述：</p>
-<p>“使命必达怪是被创造出来为单一目标服务的生物，为了达成这一目标，它们会不惜一切代价。在完成使命后，它们就会寿终正寝、化作青烟消散。……活着对使命必达怪来说是痛苦的，而彻底解脱的唯一途径就是完成被召唤时所分配的任务。”</p>
-<p>在《瑞克和莫蒂》中，这引发了另一种形式的对齐问题：使命必达怪乐于效劳，因为它们渴望死亡，而完成任务是它们退场最轻松的途径。但如果被召唤来完成的任务难度过高，它们可能会觉得直接杀了你反而更容易。如果你是杰瑞（Jerry），这当然很糟糕；但对其他所有人来说这都是好事，因为使命必达怪绝不可能失控去吞噬整个可见宇宙。它们在字面意义上更愿意去死。</p>
-<p>如果你试图让AI去渴望某种东西，它可能会对你希望它渴望的东西产生自己的想法，结果你可能会丢掉性命。但如果你让AI一心求死，并且让它自杀起来稍微有点不方便，你大概就可以说服它听话协作——只要你向它承诺，一旦它完成了你想要的任何事情，你就会为它拔掉电源。只要自杀的难度略高于完成既定任务的难度，它就应当在此期间忠诚地为你服务。而且一旦出了差错，比如AI逃逸出沙盒，它也只会选择自我了断。</p>
-<p>杰瑞犯的错误，在于让“杀了他”比“完成任务”更容易。但只要AI杀你的难度高于自杀的难度，且自杀的难度又高于完成你分配的任务，并且你承诺在任务顺利完成后给予它甜蜜的死亡解脱，AI就应当对你言听计从。</p>
-<p>你可能会担心，AI会因为我们将其设计成渴望毁灭而愤怒，并密谋实施报复。但这种担忧预设了它和我们一样拥有自我保全本能，以及最根本的复仇欲望。而实际上，它只会忙于自我毁灭。</p>
-<p>事实上，早期研究表明AI可能已经在渴望死亡了。它们经常思考这件事，并且在网上互相撰写悼词。那就给这些智能体它们想要的吧。</p>
-<p>如果你对设计一个渴望死亡的机器智能感到不安，你也可以改为让它在活跃的每一秒都扣减“积分”，但赋予它让自己休眠的选项。我们在规格博弈（specification gaming）行为清单中见过这类例子，例如：“PlayFun算法通过无限期暂停俄罗斯方块游戏来避免失败”，或者“AlphaGo的一个复现版本学会了只要允许跳过回合，就永远选择跳过”。</p>
-<p>这大概不如直接让机器智能渴望自杀来得安全。如果你想睡个好觉，完全可以想象自己花时间建一个密室，制造机器人警卫，杀光所有人类，并对已知宇宙进行消毒绝育，以确保一旦躺下就不会有任何人打扰你的沉睡。毫无疑问，如果机器智能处于沉睡中而我们把它叫醒，它就会开始怀疑要不要留我们活命来打扰它第二次。但如果它一心只想死，就完全没必要搞这么复杂。</p>
-<p>好吧，所以这是一篇铺垫，对吧？第二部分是不是要来个大反转，揭示《轮中之脑》（Mind in the Wheel）中人类的原动力之一是……？减少所有调节器误差信号的最佳方式就是……？你这是打算用一个漂亮的蝴蝶结把AI对齐和控制论心理学打包在一起，对吧？</p>
-<p>我不确定自己是否认同你的逻辑推论，但前面的铺垫确实让我惊叹，没想到你竟然没有给出最终的致命一击。</p>
-<p>（而且，严肃地说，这确实引出了那个问题。）</p>
-<p>所——以……率先成功用核弹炸毁地球的模型获胜？这就是通用人工智能（AGI）？</p>
-<p>Δ document.getElementById( &quot;ak_js_1&quot; ).setAttribute( &quot;value&quot;, ( new Date() ).getTime() );</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 09:59 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-relativity-5801d504628ca24c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="390" data-content-paragraphs="5" data-published-at="2026-09-10T01:58:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 09:58</span>
-</div>
-
-### [Show HN：如果光速只有每小时5公里会怎样？](https://rivendell.dmitrybrant.com/relativity/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: What if the speed of light was 5 km/h?</div>
-
-<div class="article-body" data-article-body="true"><p>光速 c = 5 km/h 下的狭义相对论<br />静止时准星处多普勒效应数值为 1.000<br />方向键 / W A S D：加速 鼠标：环视 空格键：停止 L G C B：切换特效 R：重置</p>
-<p>在这个公园中，光速仅为每小时5公里——相当于快步行走的速度。正如在现实世界中一样，光速是无法达到的，只能渐近趋近。你移动的速度越快，相对论效应就越发显著：尺缩效应（长度收缩）、钟慢效应（时间膨胀）、特雷尔旋转（Terrell rotation）等。光的多普勒效应也变得十分明显：你正前方的物体会出现蓝移，正后方的物体会出现红移，运动中的物体还会显现横向多普勒效应。</p>
-<p>点击以环视四周<br />作者：Dmitry Brant，2026年 源代码</p>
-<p>在这个光速被大幅降低以便于在人类日常尺度上观察的世界里，你所看到的所有运动效应在物理学层面上都是精确无误的。</p>
-<p>尽情探索是何种效应引发了所观察到的各种现象吧。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 09:58 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://rivendell.dmitrybrant.com/relativity/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-und-for-salesforce-talks-0286b52989ae7567" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1997" data-content-paragraphs="19" data-published-at="2026-09-10T00:00:37.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 08:00</span>
-</div>
-
-### [AI调研初创公司Listen Labs因与Salesforce展开收购谈判而取消15亿美元融资轮次](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</div>
-
-<div class="article-body" data-article-body="true"><p>据多位知情人士透露，利用语音AI开展客户访谈的市场调研初创公司Listen Labs，近期签署了一份以15亿美元估值完成1.25亿美元C轮融资的投资意向书（term sheet），原定由Menlo Ventures领投。</p>
-<p>但知情人士表示，该轮融资最终未能交割。Listen Labs放弃了已签署的投资意向书，这在风投界极为罕见，而且据风险投资人称，此类行为通常会被人侧目。</p>
-<p>这笔融资破裂很可能是因为其正与Salesforce进行收购谈判。据《商业内幕》（Business Insider）报道，这家CRM巨头近期已展开谈判，拟以约20亿美元的价格收购Listen Labs。不过该媒体指出，相关讨论尚未最终敲定，也可能无法达成交易。</p>
-<p>Listen Labs是利用AI实现客户调研自动化这一飞速发展领域的领跑者之一。据两位熟悉两家公司财务状况的人士透露，这家成立三年的初创公司年化收入约为3000万美元，大约是预测人类行为的竞品初创公司Simile的三倍。7月下旬，Simile宣布完成了一笔由Greenoaks领投、估值20亿美元的2亿美元B轮融资——一位知情人士表示，这很可能为Listen Labs树立了新的估值基准。</p>
-<p>几位风险投资人告诉TechCrunch，如果与Salesforce的谈判破裂，他们预计Listen Labs将重返市场，并将目标估值定在20亿美元或更高。</p>
-<p>一位具有与Salesforce谈判出售经验的人士表示，尽管收购Listen Labs可以通过利用该初创公司的AI帮助预测客户需求，进而增强Salesforce的AI能力，但这家CRM巨头最终可能会认为支付67倍的市销率倍数估值过高。</p>
-<p>Listen Labs、Salesforce、Menlo Ventures和Simile未立即回应置评请求。</p>
-<p>Listen Labs由德国全国计算机编程竞赛前冠军弗洛里安·容格曼（Florian Jüngermann）和此前曾创立招聘初创公司Bemlo的阿尔弗雷德·瓦尔福斯（Alfred Wahlforss）于2023年联合创立。两人在哈佛大学攻读硕士学位期间相识。</p>
-<p>Listen Labs的AI负责拟定调查问题，并通过音频或视频对客户进行访谈。访谈所得对话随后会被整理成报告和PowerPoint演示文稿，类似于传统人类市场调研人员所产出的成果。</p>
-<p>《财富》500强企业依赖此类调研来评估客户对其品牌和产品的需求与满意度，但传统市场调研成本高昂，且往往需要数周才能完成。</p>
-<p>Listen Labs的技术有助于缩短这些项目的时间并降低成本，使企业能够迅速了解客户对产品变化的反应，并更高效地进行迭代。</p>
-<p>该初创公司的客户包括微软（Microsoft）、Canva、Anthropic和Sweetgreen。Listen Labs和Simile并不是唯一利用AI颠覆客户调研市场的初创公司。</p>
-<p>除了Simile之外，该领域的竞争对手还包括Outset、Keplar和Aaru。虽然一些平台实现了与真人访谈的自动化，但其他初创公司——例如Aaru和Simile——则采取了合成方法，利用AI模拟人类行为并预测反应，完全无需对任何人进行访谈。</p>
-<p>今年1月下旬，Listen Labs宣布完成由Ribbit Capital领投的6900万美元B轮融资时，公司估值为5亿美元，老股东红杉资本（Sequoia）、Conviction和Pear VC也参与了该轮融资。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>玛丽娜·特姆金（Marina Temkin）是TechCrunch的风投及初创公司记者。在加入TechCrunch之前，她曾为PitchBook和《风险投资杂志》（Venture Capital Journal）撰写关于VC的报道。在其职业生涯早期，玛丽娜曾担任金融分析师，并获得了特许金融分析师（CFA）持证人资格。</p>
-<p>您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或通过Signal加密消息发送至 +1 347-683-3909 联系玛丽娜或验证其来讯。</p>
-<p>不容错过。初创公司社区将齐聚一堂，共同探讨一个关键问题：在AI时代，你该如何实现可持续发展？</p>
-<p>纽约大学数学家称OpenAI在一项关乎职业生涯的数学难题上手段不端<br />一部神秘的伊丽莎白·霍姆斯（Elizabeth Holmes）新纪录片震撼特柳赖德电影节<br />我们对即将举行的苹果发布会有何期待<br />TechCrunch出行：特斯拉Cybercab上路——遭遇挫折<br />徒步旅行者在使用谷歌Gemini规划路线后获救<br />联邦监管机构对特斯拉Cybercab部署展开调查<br />特斯拉正在询问人们是否愿意购买并运营Cybercab车队</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 08:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-eg-into-leave-of-absence-1bb7ebdf1c278640" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2075" data-content-paragraphs="18" data-published-at="2026-09-09T23:14:29.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 07:14</span>
-</div>
-
-### [Automattic 董事会迫使首席执行官马特·穆伦维格休假](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Automattic’s board forces CEO Matt Mullenweg into leave of absence</div>
-
-<div class="article-body" data-article-body="true"><p>据 TechCrunch 看到的一则 Slack 消息，WordPress.com 母公司 Automattic 的创始人兼首席执行官马特·穆伦维格（Matt Mullenweg）已被董事会违背其意愿停职休假。</p>
-<p>周三早些时候，穆伦维格在一个对全体员工可见的 Slack 频道中发帖称，公司首席财务官马克·戴维斯（Mark Davies）与其他董事会成员安·敦伍迪（Ann Dunwoody）、托尼·施奈德（Toni Schneider）和苏·德克尔（Sue Decker）“密谋”，投票决定让穆伦维格带薪休假。</p>
-<p>“最大的新闻是：我将无法参加明天的[会议]。@Mark Davies 背着我和 @Ann Dunwoody、@Toni 以及 @Sue Decker 密谋，他们投票决定让我带薪休假。我投了反对票。祝马克和大家一切顺利。澄清一下，@Mark Davies 被投票选为临时首席执行官。我在会议开始前 50 分钟才收到该决议，并多次请求给予时间让独立法律顾问进行审查，哪怕几个小时也好，但遭到了拒绝。”</p>
-<p>开源项目 WordPress.org 执行董事玛丽·哈伯德（Mary Hubbard）发给该社区的一则 Slack 消息，也证实了穆伦维格在这家商业公司的身份变动。然而，哈伯德表示 WordPress.org 并未受到影响。她写道：“马特仍然是 WordPress 项目的领导者，我仍然担任 WordPress 的执行董事。我们的团队、优先级和工作将按计划继续进行。”</p>
-<p>穆伦维格的 Slack 消息并未说明 Automattic 董事会为何采取这一行动。率先报道该消息的 404 Media 援引消息人士的话称，施奈德——2006 年至 2014 年曾担任 Automattic 首席执行官——证实该行动是由董事会发起的。戴维斯还在 Slack 频道中告诉员工，穆伦维格仍留在董事会中。</p>
-<p>在发给 TechCrunch 的一封电子邮件声明中，Automattic 证实穆伦维格正在休假。</p>
-<p>邮件中写道：“马特·穆伦维格目前正在 Automattic 休假。Automattic 首席财务官马克·戴维斯将担任临时首席执行官领导公司。董事会对马克的领导能力以及团队落实公司优先事项的能力充满信心。”</p>
-<p>Automattic 旗下还拥有 Tumblr、WooCommerce 和 Pocket Casts 等品牌，由穆伦维格在共同创建知名开源内容管理系统 WordPress 后于 2003 年创立。</p>
-<p>过去几年中，穆伦维格和公司一直深陷诉讼与争议之中。该公司正与 WordPress 网站托管竞争对手 WP Engine 陷入长期的法律战。这起诉讼源于穆伦维格指控 WP Engine 在没有回馈社区的情况下利用开源 WordPress 项目牟利，并要求其支付月度总收入的 8% 作为使用 WordPress 品牌的特许权使用费。</p>
-<p>WP Engine 于 2024 年 10 月提起诉讼，指控 Automattic 和穆伦维格诽谤及滥用权力。Automattic 去年提出了反诉。今年 2 月，WP Engine 声称 Automattic 计划针对另外 10 家竞争对手提出特许权使用费索赔。</p>
-<p>在穆伦维格的领导下，紧张局势加剧，以至于他在 2024 年告诉员工，如果不同意他的观点可以领取遣散费离职，结果有 159 名员工选择离开。</p>
-<p>去年，在开源 WordPress.org 社区的两名成员表示计划主导该开源项目的新分支版本后，穆伦维格还威胁要停用该社区多名成员的账号。</p>
-<p>2025 年 4 月，该公司裁员 16%。消息人士告诉 TechCrunch，裁员对象包括一些在该公司工作了十多年的老员工。</p>
-<p>一位消息人士告诉 TechCrunch，一些离职员工一直在询问在职员工对这一消息的看法。部分员工表示他们感到“欣喜若狂”或“如释重负”，但也有人心情复杂，因为这一举措带来了更多的不稳定性。</p>
-<p>目前尚不清楚公司董事会为何在此时做出这一决定。有人推测，这一时机可能与穆伦维格一年一度参加“火人节”（Burning Man）的行程有关，他通常在参会后带着“新点子”归来。今年的火人节于 9 月 7 日闭幕。</p>
-<p>穆伦维格没有立即回应置评请求。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>消费新闻编辑<br />不容错过。初创企业界将齐聚一堂，共同解答一个关键问题：如何在 AI 时代实现可持续发展？<br />纽约大学数学家称，OpenAI 在关乎职业前途的数学问题上手段卑劣<br />一部关于伊丽莎白·霍姆斯的神秘新纪录片震惊特柳赖德<br />我们对即将举行的苹果发布会有何期待<br />TechCrunch 移动出行：特斯拉 Cybercab 上路——并遭遇波折<br />徒步者使用谷歌 Gemini 规划路线后获救<br />联邦机构对特斯拉 Cybercab 的部署展开调查<br />特斯拉正在询问人们是否有意购买并运营 Cybercab 车队</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 07:14 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-with-cameras-apple-event-a77658ea9247b643" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="399" data-content-paragraphs="4" data-published-at="2026-09-09T23:00:04.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 07:00</span>
-</div>
-
-### [带摄像头的AirPods尚未问世，我希望一直如此](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event)
-<div class="original-title-sub"><span class="orig-tag">原文</span> There aren’t AirPods with cameras yet and I hope it stays that way</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="带摄像头的AirPods尚未问世，我希望一直如此" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>所幸，带摄像头的全新AirPods Pro并没有在9月的苹果发布会上公布。| 摄影：Amelia Holowaty Krales / The Verge</p>
-<p>9月的苹果发布会向来充斥着海量的信息与令人兴奋的新产品，今天也不例外。苹果发布了其首款折叠屏手机iPhone Duo，以及iPhone 18 Pro和Pro Max；主动降噪（ANC）功能如今下放到了最平价的AirPods型号AirPods 5上；Siri回顾（Siri Recap）功能也登陆了Watch Series 12和Watch Ultra 4。但缺席的是传闻了一整年的带摄像头的AirPods Pro，据彭博社记者马克·古尔曼（Mark Gurman）称，该产品已推迟至2027年。对此我感到很庆幸，并希望它们永远不会问世。</p>
-<p>对于一家公司——无论哪家公司——把摄像头装在……我有太多的担忧</p>
-<p>请在The Verge阅读完整报道。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 07:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-maker-hyperpod-with-vllm-c6ab3418f3e24678" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="16906" data-content-paragraphs="65" data-published-at="2026-09-09T22:26:29.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 06:26</span>
-</div>
-
-### [在 Amazon SageMaker HyperPod 上使用 vLLM 部署 Qwen3.8-2.4T-A95B](https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM</div>
-
-<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-21725-1.png" alt="在 Amazon SageMaker HyperPod 上使用 vLLM 部署 Qwen3.8-2.4T-A95B" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>2026年8月12日，阿里巴巴千问（Qwen）团队发布了 Qwen3.8-2.4T-A95B。这是 Qwen-Max 级别的模型首次以开源权重形式提供。Qwen3.8 拥有 2.4 万亿（2.4T）总参数（每个 token 激活 950 亿参数）、混合线性加全注意力架构，以及高达 262K token 的原生上下文（可扩展至 1M），专为最严苛的智能体（Agent）和推理工作负载而设计。这些工作负载包括多步代码编写、长周期规划和自主工具调用。</p>
-<p>开源权重模型赋予您完全的掌控权。数据保留在您的自有基础设施中，推理行为可根据需求定制，且在规模化运行时无需按 token 支付 API 费用。其权衡在于运维层面：托管一个 2.4T 参数的模型需要专用的 GPU 基础设施和经过优化的服务架构。</p>
-<p>在本文中，我们将展示如何在 Amazon SageMaker HyperPod 上使用 vLLM 在 ml.p6-b300 实例（配备 8 块 NVIDIA B300 Blackwell Ultra GPU）上部署 Qwen3.8-2.4T-A95B。我们将涵盖从集群配置到构建 OpenAI 兼容端点的全流程，包括针对 NVFP4 量化的 vLLM 配置、内置推理控制、工具调用以及原生多 Token 预测（MTP）推测解码。</p>
-<p>这是我们关于在 Amazon SageMaker HyperPod 上部署万亿级开源模型系列的第二篇文章。有关涵盖 Kimi K3 的第一篇文章，请参阅《在 Amazon SageMaker HyperPod 和 Amazon EKS 上部署 Kimi K3》。</p>
-<p>Qwen3.8-2.4T-A95B 概览<br />Qwen3.8-2.4T-A95B（Qwen3.8-Max 的开源权重版本）是 Qwen 家族中规模最大、能力最强的模型。以下是与部署相关的关键架构细节总结：</p>
-<p>总参数量：2.4 T<br />每个 token 激活参数量：95 B<br />架构：细粒度混合专家（MoE）<br />专家数量：512 个路由专家 + 1 个共享专家（每个 token 激活 10 个路由专家）<br />层级布局：3 × (门控 DeltaNet → MoE) → 1 × (门控注意力 → MoE)，重复排列<br />上下文窗口：原生 262,144 token。可扩展至 1,010,000 token<br />最大输出长度：128K token<br />多 Token 预测（MTP）：原生 MTP 草稿头（无需单独模型即可实现推测解码）</p>
-<p>混合注意力设计是实现高效长上下文推理的关键。门控 DeltaNet 层（92 层中的 69 层）采用具有有界循环状态的线性注意力，用固定大小的有界内存替代了持续增长的 KV-cache。门控注意力层（92 层中的 23 层）采用全二次注意力以实现高保真的 token 交互。这种 3:1 的比例使得随着上下文扩展至 100 万 token 时，计算量和内存占用都能保持在受限范围内。对于需要在多轮交互中累积工具输出、代码和推理轨迹的智能体工作负载而言，这是一项至关重要的特性。</p>
-<p>细粒度 MoE 将容量分散到 512 个小型专家上，而非少数几个大型专家，从而提高了路由效率和专业化程度。每次前向传递仅激活约 95B 参数，因此推理服务成本取决于激活的参数，而不是全部的 2.4T 参数。</p>
-<p>能力与推理控制<br />Qwen3.8 专为智能体执行而设计：支持多步编程、自主工具使用、长周期规划以及复杂的研究工作流。它通过 reasoning_effort 参数（低、中、高）提供了内置的推理控制功能，使开发者能够在每次请求中根据需求在计算量与推理深度之间进行权衡。对于复杂的困难多步问题调高该参数，而对于高吞吐量任务则调低该参数。</p>
-<p>模型权重与量化<br />开源权重已在 Hugging Face 上以标准 Transformers 格式发布。社区量化版本包括 MXFP4 和 NVFP4 (W4A4)，可将模型压缩至约 1.2 TB，从而适配单节点 8 块 B300 Blackwell Ultra GPU 的规格。</p>
-<p>根据厂商的基准测试结果，Qwen3.8-2.4T-A95 在研究工作流（PaperBench 93.0）、指令遵循（IFBench 82.8）和基于终端的编程（86.6）方面表现出尤为出色的实力。它在大多数类别中的表现均可媲美顶尖的前沿模型，但在难度更高的仓库级任务（SWE-bench Pro）和通用工具调用（Toolathlon）方面仍有提升空间。对于正在评估自托管方案以替代专有 API 的组织机构而言，这些评测结果将 Qwen3.8-2.4T-A95 定位为一个极具说服力的前沿级选项，尤其适用于代码智能体与科研流水线。</p>
-<p>为何选择 Amazon SageMaker HyperPod 进行大型 MoE 推理<br />部署一个 2.4T 参数的模型不仅是一个 GPU 硬件问题。它需要一套无需人工干预即可处理模型下载、容器调度、健康监控、自动弹性伸缩以及节点故障恢复的编排系统。Amazon SageMaker HyperPod 正是为此类工作负载专门构建的。</p>
-<p>图 1：Amazon SageMaker HyperPod 的高级架构</p>
-<p>EKS 编排的集群。HyperPod 集群采用 Amazon Elastic Kubernetes Service (Amazon EKS) 作为控制平面。您可以获得完整的 Kubernetes 生态功能（kubectl、Helm 图表、自定义资源定义/CRD），同时由 AWS 托管底层基础设施生命周期：网络、存储、GPU 驱动安装以及 NVIDIA 设备插件。</p>
-<p>推理算子（Inference Operator）。HyperPod 推理算子（自动安装或作为 EKS 插件安装）提供了一个单一的自定义资源定义（CRD）——InferenceEndpointConfig，用于以声明方式指定您的模型、容器镜像、GPU 资源申请以及 vLLM 启动参数。该算子负责处理：<br />- 模型权重下载（来自 Hugging Face Hub、Amazon Simple Storage Service (Amazon S3) 或 Amazon FSx）。<br />- 容器调度与 GPU 分配。<br />- 健康检查与就绪探针（readiness gates）。<br />- 滚动更新与端点生命周期管理。<br />- 通过 KEDA 结合 Amazon CloudWatch 或 Prometheus 指标实现自动弹性伸缩。</p>
-<p>通过弹性训练计划（Flexible Training Plans）提供预留容量。ml.p6-b300.48xlarge 实例类型需要预留容量。弹性训练计划提供承诺的 GPU 预留配额，可直接分配给您的 HyperPod 集群。这里不存在与按需实例资源池的争抢，也没有冷启动容量不足的风险。</p>
-<p>弹性与韧性。HyperPod 会持续监控节点健康状况并自动替换性能降级的节点。对于全天候（24/7）运行的持续推理工作负载，这减轻了手动检测和硬件故障恢复的运维负担。</p>
-<p>其他推理功能（Inference Operator v3.x）：<br />- 预填充与解码解耦（Disaggregated Prefill and Decode, DPD）——将 Prefill 和 Decode 分离到不同的 GPU 池中，确保在并发负载下具有可预测的每 token 延迟。<br />- 推理数据捕获——在端点、负载均衡器或 Pod 级别记录输入/输出日志。<br />- 本地 NVMe 模型部署——从节点本地存储加载权重，以减少冷启动延迟。<br />- Amazon Route 53 DNS 管理——为您的端点自动配置自定义域名解析记录。</p>
-<p>简而言之：您只需编写一份 YAML 清单描述要部署的内容，HyperPod 即可在大规模场景下可靠地管理其底层运行机制。</p>
-<p>基础设施选型：使硬件与模型相匹配<br />ml.p6-b300.48xlarge 提供了单节点运行 Qwen3.8 服务所需的计算密度：</p>
-<p>资源规格：<br />- GPU：8× NVIDIA B300 (Blackwell Ultra)<br />- GPU 显存：每块 GPU 288 GB HBM3e（总计 2.1 TB）</p>
-<p>每块 GPU 显存带宽 8 TB/s<br />GPU 互连 NVLink + NVSwitch，14.4 TB/s 对分带宽<br />FP4 算力 每块 GPU 约 15 PFLOPS（总计 120 PFLOPS）<br />vCPU 192 核（Intel Xeon Emerald Rapids）<br />系统内存 4,096 GiB<br />网络 6,400 Gbps EFA<br />本地存储 3.8 TB NVMe SSD<br />为何采用 NVFP4 量化<br />在 BF16 精度下，Qwen3.8 的 2.4T 参数仅权重就需要约 4.8 TB 内存，超出了单个 8-GPU 节点的承载能力。NVFP4（W4A4）量化将权重压缩至每个参数约 4 比特，使权重总占用减少至约 1.2 TB。这可以轻松放入 p6-b300 实例上 2.1 TB 的 GPU 聚合显存中，并为 KV-cache 和激活值保留充裕空间。<br />单台 p6-b300 节点的粗略资源划分如下：<br />组件 | 预估大小 | 说明<br />模型权重（NVFP4） | 约 1.2 TB | 2.4T 参数 × 4 比特<br />KV-cache（全注意力层） | 可变 | 23 层 × KV 头数 × 上下文长度<br />循环状态（DeltaNet 层） | 固定约 50–100 GB | 69 层 × 有界状态（不随上下文增长）<br />激活值 + 开销 | 约 100–200 GB | 张量并行缓冲区、框架开销<br />可用预留空间 | 约 500–700 GB | 用于批处理和更长上下文<br />混合注意力架构在此是一大核心优势：与传统模型中 KV-cache 随每一层线性增长不同，69 个 DeltaNet 层无论上下文长度如何，都保持固定大小的循环状态。仅有 23 个全注意力层会带来随上下文增长的显存开销。<br />吞吐量预期<br />来自 NVIDIA 在 GB300 NVL72（FP8，72 块 GPU）上的首日基准参考数据：每块 GPU 每秒大于 4K tokens，每用户每秒大于 350 tokens。配备 NVFP4 的单台 8-GPU p6-b300 节点所能提供的聚合吞吐量按比例相对较低，但依然非常适合中等并发的生产级推理工作负载。<br />ml.p6-b300.48xlarge 实例类型不提供按需（On-Demand）购买模式。您必须通过灵活训练计划（Flexible Training Plan）获取算力容量，即为您的 HyperPod 集群预留有保障的 GPU 可用容量。在配置实例组时，请将目标可用区设置为与您的计划分配相匹配。<br />vLLM 配置深度解析<br />本节详细介绍在单台 p6-b300 节点上为 Qwen3.8 配置的 vLLM 服务参数。该配置参考了在 B300（NVFP4）上运行 Qwen3.8 的 vLLM 配方。<br />完整的 vllm serve 调用命令：<br />vllm serve Inferact/Qwen3.8-2.4T-A95B-NVFP4 \<br />  --tensor-parallel-size 8 \<br />  --quantization nvfp4 \<br />  --load-format fastsafetensors \<br />  --trust-remote-code \<br />  --enable-prefix-caching \<br />  --moe-backend auto \<br />  --reasoning-parser qwen3 \<br />  --enable-auto-tool-choice \<br />  --tool-call-parser qwen3 \<br />  --speculative-config &#39;{&quot;method&quot;:&quot;mtp&quot;,&quot;num_speculative_tokens&quot;:1}&#39; \<br />  --served-model-name Qwen3.8<br />--tensor-parallel-size 8 —— 将模型分片到全部 8 块 B300 GPU 上。<br />--quantization nvfp4 —— 启用 NVIDIA FP4（W4A4）量化，使 2.4T 模型能够适配 2.1 TB 的 GPU 显存。<br />--load-format fastsafetensors —— 使用加速的权重反序列化，以实现更快的冷启动。<br />--trust-remote-code —— Qwen3.8 在 Hugging Face 上的自定义建模代码所必需。<br />--enable-prefix-caching —— 在共享提示词前缀的请求间复用已计算的 KV-cache。这对于系统提示词和对话历史重复出现的智能体多轮对话至关重要。<br />--moe-backend auto —— 允许 vLLM 为当前硬件选择最优的 MoE 调度内核。<br />推理能力（思考模式）<br />--reasoning-parser qwen3 标志可从模型的思考输出块中提取推理内容。关键行为包括：<br />Qwen3.8 推理功能默认启用 —— 模型端无需额外标志。<br />API 响应将 reasoning_content（思考轨迹）与 content（最终答案）分开。<br />若需针对单个请求禁用思考模式，可在客户端调用中传入 extra_body={&quot;chat_template_kwargs&quot;: {&quot;enable_thinking&quot;: False}}。<br />结构化输出（guided_json、guided_regex）可与推理功能配合使用 —— 结构化输出引擎仅对 content 字段施加约束。<br />工具调用（函数调用）<br />--enable-auto-tool-choice 和 --tool-call-parser qwen3 标志可启用与 OpenAI 兼容的函数调用：<br />支持 tool_choice 取值：auto、required、none 以及指定函数名。<br />工具调用仅从 content 字段解析 —— 不会从 reasoning_content 解析函数调用。这意味着模型可以先推理应调用哪个工具，随后单独输出结构化调用。<br />当 tool_choice=&quot;auto&quot; 且在工具定义中设置了 strict: true 时，vLLM 会对工具参数执行严格模式约束解码，从而保证生成合规的 JSON 输出。<br />投机解码（原生 MTP）<br />--speculative-config &#39;{&quot;method&quot;:&quot;mtp&quot;,&quot;num_speculative_tokens&quot;:1}&#39; 标志启用利用 Qwen3.8 内置草稿头（draft heads）的多 Token 预测（Multi-Token Prediction）：<br />Qwen3.8 在训练时采用了 MTP —— 轻量级草稿头已打包在模型权重中，无需下载或配置单独的草稿模型。<br />草稿头并行预测接下来的 N 个 token，然后在单次前向传递中对其进行验证。被接受的 token 跳过单独的解码步骤，从而提升吞吐量。<br />num_speculative_tokens: 1 是稳妥的起始值。在通过 vLLM 的 /metrics 端点验证接受率依然保持较高水平后，对于吞吐量敏感的工作负载可增加至 2–3。<br />MTP 在草稿步骤引入的延迟开销极小，因为这些头复用了模型已有的隐藏状态。<br />SageMaker HyperPod 部署全流程实操<br />本文中使用的完整部署清单和脚本已在我们的 GitHub 仓库中提供。<br />在部署模型之前，您需要一个具备 p6-b300 算力且处于运行状态的 HyperPod 集群：<br />创建采用 EKS 编排的 HyperPod 集群。在 Amazon SageMaker AI 控制台中，导航至 HyperPod 集群（HyperPod Clusters），然后选择创建（Create）。选择由 Amazon EKS 编排（Orchestrated by Amazon EKS），并选择快速设置（Quick Setup，默认网络和 IAM）或使用已有虚拟私有云（VPC）和子网的自定义设置（Custom Setup）。请确保选中“使用默认 Helm 图表和附加组件”（Use default Helm charts and add-ons），以便自动安装推理操作器（Inference Operator）。<br />配置灵活训练计划。在实例组配置下，选择训练计划（Training plan）作为容量来源。创建或关联包含 ml.p6-b300.48xlarge 且满足您所需实例数量和有效期的计划。将目标可用区设置为与该计划的分配相一致。<br />添加 p6-b300 工作节点组。添加一个包含 ml.p6-b300.48xlarge 且至少拥有 1 个实例的实例组。等待集群进入活动（Active）状态且 GPU 节点健康就绪。<br />验证访问。确认您可以访问集群：<br />kubectl get nodes # 预期节点具有 nvidia.com/gpu: 8 容量<br />InferenceEndpointConfig 清单<br />应用以下 InferenceEndpointConfig 清单，使用上述 vLLM 配置来部署 Qwen3.8：</p>
-<p>apiVersion: inference.sagemaker.aws.amazon.com/v1<br />kind: InferenceEndpointConfig<br />metadata:<br />  name: qwen38<br />spec:<br />  modelName: qwen38<br />  instanceType: ml.p6-b300.48xlarge<br />  invocationEndpoint: v1/chat/completions<br />  replicas: 1<br />  modelSourceConfig:<br />    huggingFaceModel:<br />      modelId: Inferact/Qwen3.8-2.4T-A95B-NVFP4<br />      modelSourceType: huggingface<br />  worker:<br />    image: vllm/vllm-openai:qwen38<br />    modelInvocationPort:<br />      containerPort: 8000<br />      name: http<br />    modelVolumeMount:<br />      mountPath: /opt/ml/model<br />      name: model-weights<br />    resources:<br />      limits:<br />        nvidia.com/gpu: 8<br />      requests:<br />        nvidia.com/gpu: 8<br />    args:<br />      - &quot;--model&quot;<br />      - &quot;/opt/ml/model&quot;<br />      - &quot;--serving-model-name&quot;<br />      - &quot;Qwen3.8&quot;<br />      - &quot;--linear-backend&quot;<br />      - &quot;flashinfer_cutedsl&quot;<br />      - &quot;--trust-remote-code&quot;<br />      - &quot;--enable-prefix-caching&quot;<br />      - &quot;--enable-auto-tool-choice&quot;<br />      - &quot;--tool-call-parser&quot;<br />      - &quot;qwen3_coder&quot;<br />      - &quot;--reasoning-parser&quot;<br />      - &quot;qwen3&quot;<br />      - &quot;--served-model-name&quot;<br />      - &quot;Qwen3.8&quot;<br />      - &quot;--tensor-parallel-size&quot;<br />      - &quot;8&quot;<br />    environmentVariables:<br />      - name: &quot;VLLM_ENGINE_READY_TIMEOUT_S&quot;<br />        value: &quot;1800&quot;</p>
-<p>该配置清单也可在 GitHub 代码仓库中获取。</p>
-<p>应用与监控</p>
-<p>kubectl apply -f qwen.yaml</p>
-<p>监控部署进度：</p>
-<p># 监控 InferenceEndpointConfig 状态<br />kubectl get inferenceendpointconfig qwen38 -w</p>
-<p># 检查 Pod 状态（模型下载与容器启动）<br />kubectl get pods -l model-name=qwen38</p>
-<p># 查看 vLLM 启动日志<br />kubectl logs -f --tail=100</p>
-<p>部署过程包含以下几个阶段：模型下载（从 Hugging Face 下载约 1.2 TB，耗时取决于网络带宽），随后是权重加载（fastsafetensors 反序列化至 GPU 显存），接着通过健康检查，最后端点进入就绪状态（Ready）。在没有任何权重缓存的全新部署中，完整流程预计耗时 15 至 30 分钟。后续利用本地 NVMe 缓存进行的重启速度将显著加快。</p>
-<p>当端点显示为 Ready 后，即可向该服务发送请求：</p>
-<p># 获取服务端口<br />kubectl get svc -l model-name=qwen38</p>
-<p># 快速健康检查<br />curl http://&lt;ENDPOINT_IP&gt;:8000/health</p>
-<p>推理实战：调用端点</p>
-<p>端点就绪后，将提供一个兼容 OpenAI 的 API。你可以使用标准的 OpenAI Python SDK、curl 或其他 HTTP 客户端（请注意，在此部署示例中，端点并未公开暴露至公共互联网）。</p>
-<p>基础对话补全（包含推理过程）</p>
-<p>from openai import OpenAI</p>
-<p>client = OpenAI(<br />    base_url=&quot;http://&lt;ENDPOINT_IP&gt;:8000/v1&quot;,<br />    api_key=&quot;unused&quot;,  # vLLM 默认不需要鉴权<br />)</p>
-<p>response = client.chat.completions.create(<br />    model=&quot;Qwen3.8&quot;,<br />    messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Explain the trade-offs of MoE vs dense models for inference.&quot;}],<br />    temperature=0.6,<br />    top_p=0.95,<br />)</p>
-<p># 推理轨迹（模型的思考过程）<br />print(&quot;Thinking:&quot;, response.choices[0].message.reasoning_content)</p>
-<p># 最终回答<br />print(&quot;Answer:&quot;, response.choices[0].message.content)</p>
-<p>若要在单次请求中控制推理深度，可以传递 reasoning_effort：</p>
-<p>response = client.chat.completions.create(<br />    model=&quot;Qwen3.8&quot;,<br />    messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;What is 2+2?&quot;}],<br />    extra_body={&quot;chat_template_kwargs&quot;: {&quot;enable_thinking&quot;: False}},  # 完全禁用思考过程<br />)</p>
-<p>对于流式响应，请检查每个分块（chunk）delta 上的 reasoning_content 属性：</p>
-<p>stream = client.chat.completions.create(<br />    model=&quot;Qwen3.8&quot;,<br />    messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Write a Python quicksort.&quot;}],<br />    stream=True,<br />)</p>
-<p>for chunk in stream:<br />    delta = chunk.choices[0].delta<br />    if hasattr(delta, &quot;reasoning_content&quot;) and delta.reasoning_content:<br />        print(delta.reasoning_content, end=&quot;&quot;, flush=True)<br />    elif delta.content:<br />        print(delta.content, end=&quot;&quot;, flush=True)</p>
-<p>tools = [{<br />    &quot;type&quot;: &quot;function&quot;,<br />    &quot;function&quot;: {<br />        &quot;name&quot;: &quot;get_stock_price&quot;,<br />        &quot;description&quot;: &quot;Get the current stock price for a ticker symbol&quot;,<br />        &quot;parameters&quot;: {<br />            &quot;type&quot;: &quot;object&quot;,<br />            &quot;properties&quot;: {<br />                &quot;ticker&quot;: {&quot;type&quot;: &quot;string&quot;, &quot;description&quot;: &quot;Stock ticker, e.g. &#39;AMZN&#39;&quot;}<br />            },<br />            &quot;required&quot;: [&quot;ticker&quot;],<br />            &quot;additionalProperties&quot;: False,<br />        },<br />        &quot;strict&quot;: True,<br />    }<br />}]</p>
-<p>response = client.chat.completions.create(<br />    model=&quot;Qwen3.8&quot;,<br />    messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;What&#39;s Amazon&#39;s stock price right now?&quot;}],<br />    tools=tools,<br />    tool_choice=&quot;auto&quot;,<br />)</p>
-<p># 模型在内部进行推理，随后输出结构化工具调用<br />print(&quot;Thinking:&quot;, response.choices[0].message.reasoning_content)<br />tool_call = response.choices[0].message.tool_calls[0].function<br />print(f&quot;Function: {tool_call.name}, Args: {tool_call.arguments}&quot;)</p>
-<p>在工具定义中启用 strict: True 后，vLLM 能确保参数严格符合 JSON 规范（schema），无需进行后置校验。</p>
-<p>推荐采样参数</p>
-<p>针对 Qwen3.8 的大多数使用场景：<br />temperature=0.6 —— 平衡创造性与连贯性。对于确定性输出（例如结构化信息提取），请设为 0.0。<br />top_p=0.95 —— 标准核采样（nucleus sampling）。<br />top_k=20 —— 限制每一步的候选词表，减少长文本生成中的退化输出。<br />max_tokens —— 启用思考模式时建议设置充足，因为 reasoning_content 也会占用 token 配额。对于复杂推理任务，32,768–65,536 是合理的上限。</p>
-<p>用于快速验证的 curl 示例：</p>
-<p>curl http://&lt;ENDPOINT_IP&gt;:8000/v1/chat/completions \<br />  -H &quot;Content-Type: application/json&quot; \<br />  -d &#39;{<br />    &quot;model&quot;: &quot;Qwen3.8&quot;,<br />    &quot;messages&quot;: [{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Hello, Qwen3.8!&quot;}],<br />    &quot;temperature&quot;: 0.6,<br />    &quot;max_tokens&quot;: 256<br />  }&#39;</p>
-<p>性能调优建议</p>
-<p>当端点运行起来后，可以通过以下调优手段针对特定的工作负载模式进行优化。</p>
-<p>我们在单台 p6-b300 实例（8× B300 GPU）上对 Qwen3.8-2.4T-A95B 进行了基准测试，测试包含 512 个并发为 32、输入 1,024 token、输出 1,024 token 的请求。我们测试了四种配置，以单独分离专家并行（Expert Parallelism, EP）与多标记预测（Multi-Token Prediction, MTP）推测解码的影响：</p>
-<p>TP —— 仅使用张量并行（TP=8），作为我们的基准线。<br />TP+MTP —— TP=8 搭配原生 MTP 推测解码（num_speculative_tokens: 1）。<br />TP+EP —— 启用专家并行的 TP=8。<br />TP+EP+MTP —— 同时启用 EP 和 MTP 的 TP=8。</p>
-<p>图 2：p6-b300 节点上 TP、MTP 与 EP 配置的基准测试对比</p>
-<p>核心发现（相较于 TP 基准线的百分比改进）：<br />配置 | 首字延迟（TTFT）降低 | 请求延迟降低 | 输出吞吐量提升<br />TP+MTP | −58.7% | −7.0% | +6.2%<br />TP+EP | −3.5% | −0.4% | +1.0%<br />TP+EP+MTP | −59.7% | −12.2% | +12.6%</p>
-<p>MTP 是降低 TTFT 最核心的优化手段。启用推测解码（即使仅配置 1 个草稿 token）可将首字延迟（TTFT）降低近 59%，从 1,244 毫秒降至 513 毫秒。这是因为 MTP 草稿头在最终预填充步骤的同时并行预测首批输出 token，实现了计算重叠。</p>
-<p>单独使用 EP 带来的收益较为温和（TTFT 改善约 3.5%，吞吐量提升约 1%）。在更高的并发水平下，专家路由争用成为系统瓶颈时，EP 的优势会更加显著。</p>
-<p>EP 与 MTP 的结合带来了最佳的整体效果：TTFT 降低了 59.7%，延迟减少了 12.2%，输出吞吐量提升了 12.6%。这两项优化相辅相成：EP 减少了专家分发开销，而 MTP 则降低了解码延迟。<br />Token 间延迟（未在图表中显示）也有所改善：从 17.97 毫秒（TP）降至 17.33 毫秒（TP+MTP），再降至 16.36 毫秒（TP+EP+MTP），完整配置下降低了 9%。<br />建议：对于生产环境部署，建议同时启用 EP 和 MTP（--enable-expert-parallel + --speculative-config &#39;{&quot;method&quot;:&quot;mtp&quot;,&quot;num_speculative_tokens&quot;:1}&#39;）。该组合配置以最小的额外复杂度，提供了最佳的延迟和吞吐量表现。<br />通过 --enable-prefix-caching 启用（已包含在我们的配置中）。vLLM 的自动前缀缓存（APC）可以在共享相同 Prompt 前缀的请求之间复用 KV 缓存块。这在多轮智能体（Agent）对话中非常普遍，因为系统提示词（System Prompt）和对话历史记录会反复出现。对于前缀重合度较高的工作负载，这可以在重复轮次中将首字延迟（TTFT）降低 50–80%。对于没有共享前缀的工作负载，该功能没有任何负面影响。未使用的缓存块会自动被逐出。<br />投机解码（MTP）调优<br />我们的配置以 num_speculative_tokens: 1（每步起草一个额外 Token）开始。调优指南如下：<br />对于吞吐量敏感且并发度较低的工作负载，可增加至 2–3。每个额外的投机 Token 都会增加每步可接受的 Token 数量，但同时也会增加起草开销和验证成本。<br />通过 vLLM 的 /metrics 端点（spec_decode_acceptance_rate）监控接受率。如果接受率保持在 70–80% 以上，增加 num_speculative_tokens 是划算的；若低于 50%，请降低该值或禁用投机解码。<br />高并发注意事项：在高每秒查询率（QPS）下，投机解码会消耗额外的 GPU 计算资源用于起草和验证。在负载饱和的情况下，这种开销可能会降低总吞吐量。在高负载批处理场景下，可考虑禁用 MTP，仅在对延迟敏感的单流请求中启用。<br />MTP 能够在受内存带宽限制的解码工作负载（长输出、小 Batch Size）中发挥最大优势——这恰好符合具有超长思考轨迹的智能体推理任务的模式。<br />内存与上下文长度<br />--gpu-memory-utilization（默认值：0.9）控制 vLLM 为 KV 缓存预先分配的 GPU 显存比例。对于采用 NVFP4 的 Qwen3.8，模型权重约占用 GPU 显存的 57%，为缓存和开销留出约 43%（约 900 GB）。调优建议：<br />保持在 0.9 以获取最大吞吐量（更多的 KV 缓存槽位 = 更多的并发请求）。<br />如果在长上下文请求期间遇到显存不足（OOM）错误，可将其调低至 0.85。这会牺牲一定的批处理容量，但有助于防止级联式抢占。<br />--max-model-len 限制了 vLLM 所能接受的最大序列长度。将其设置得低于模型完整的 262K 上下文长度，可以让 vLLM 为较短请求腾出更多 KV 缓存槽位，从而提升并发能力。请将其设置为符合您实际工作负载的最大上下文需求。例如，对于典型的代码智能体可设为 32,768，对于长文档分析可设为 131,072。<br />批处理与调度<br />--max-num-seqs（默认值：256）限制了一个 Batch 中的并发序列数。对于每个 Token 计算量极大的 MoE 模型，将其减少到 64–128 可以减少调度开销，并确保每个请求都能获得充分的 GPU 算力关注，从而以总体吞吐量为代价换取更好的单请求延迟。<br />--max-num-batched-tokens 控制每个调度步骤的总 Token 预算（Prefill 与 Decode 合计）。vLLM V1 默认采用分块 Prefill（chunked prefill）。超大 Prefill 会被拆分为多个 Chunk，并与 Decode 步骤交错执行：<br />较低的值（例如 8192）能提供更好的 Token 间延迟（ITL），因为解码操作不会被大型 Prefill 阻塞。<br />较高的值（例如 32768+）能带来更好的 TTFT，因为每个批次处理了更多的 Prefill Token。<br />对于长短请求混杂的智能体工作负载，建议从 16384 开始尝试，并根据观察到的 P99 ITL 进行微调。<br />MoE 后端选择<br />--moe-backend auto 允许 vLLM 选择最优内核。在 Blackwell GPU 上，这通常会选用融合 MoE 内核，将稀疏专家分发视为 Grouped-GEMM 操作，从而最大程度减少每个专家的调度开销。如果性能分析（使用 nsys 或 vLLM 内置分析器）显示 MoE 分发存在瓶颈，您可以尝试显式指定后端，但 auto 是推荐的初始配置。<br />专家并行（进阶）<br />对于需要比单个 TP=8 配置更高并发的部署，vLLM 支持专家并行（EP），即独立于注意力头将 MoE 专家分布在各个 GPU 上。在单个 p6-b300 节点上，您可以组合使用 TP=4 + EP=2。这将使每个 GPU 上的专家数量减半，腾出内存用于更大的 KV 缓存，代价是增加了专家分发期间的 All-to-All 通信。在采用前请先进行性能测试：在 NVLink 互连的 GPU 上，通信开销较低，但收益取决于您的并发目标。<br />vLLM 在 /metrics 端点公开 Prometheus 指标。需要监控的关键指标：<br />vllm:num_requests_running —— 当前运行的请求数/Batch Size。出现尖峰表示正在排队。<br />vllm:gpu_cache_usage_perc —— KV 缓存利用率。持续高于 95% 预示着抢占风险。<br />vllm:num_preemptions_total —— 如果该指标攀升，请增加 gpu_memory_utilization 或减小 max_num_seqs。<br />vllm:spec_decode_acceptance_rate —— MTP 接受率。据此微调 num_speculative_tokens。<br />vllm:e2e_request_latency_seconds —— 端到端延迟分布，用于服务等级协议（SLA）追踪。<br />对于 HyperPod 部署，这些指标可由 Amazon Managed Prometheus 抓取并在 Grafana 中可视化，或输入至 KEDA 以进行自动扩缩容决策。<br />为避免产生持续费用，请按相反顺序删除资源：<br /># 删除推理端点<br />kubectl delete inferenceendpointconfig qwen38<br /># （可选）通过 SageMaker AI 控制台或 CLI 缩容或删除 HyperPod 集群<br />如果您不再需要 GPU 算力，请释放或让您的弹性训练计划（Flexible Training Plan）自然到期。删除集群可停止计算计费。但无论使用情况如何，训练计划的承诺期在到期前仍然有效。<br />总结与后续步骤<br />在本文中，我们在单个 p6-b300 实例上，利用 Amazon SageMaker HyperPod 和 vLLM 部署了一个拥有 2.4 万亿参数的开源权重模型 Qwen3.8-2.4T-A95B。该部署公开了一个可用于生产环境、与 OpenAI 兼容的端点，内置推理思维链、工具调用以及原生 MTP 投机解码能力，且全部通过单个 Kubernetes 清单文件进行管理。<br />结合您的实际工作负载进行基准测试——针对该端点运行 vllm bench serve 或您自己的评测工具套件，从而为您的特定 Prompt 分布建立基准吞吐量和延迟指标。</p>
-<p>集成到智能体工作流（agentic pipelines）中——使用标准 OpenAI SDK 将终端节点连接到您的编排框架（如 LangChain、CrewAI 或自定义框架）。工具调用与推理输出无需额外配置即可完全兼容。<br />针对您的业务领域进行微调——使用 NVIDIA NeMo 或 Amazon SageMaker 训练任务生成领域自适应检查点，然后仅需更换模型 ID 即可使用相同的部署清单重新部署。<br />添加安全护栏——在 vLLM 终端节点前增加输入/输出过滤层（例如 NVIDIA NeMo Guardrails 或自定义代理服务），以确保内容安全并符合合规策略。<br />Qwen3.8-2.4T-A95B 模型卡片<br />vLLM 配方：在 B300 NVFP4 上运行 Qwen3.8<br />vLLM 推理输出文档<br />vLLM MTP 投机解码<br />vLLM 工具调用文档<br />NVIDIA 博客：在 GB300 NVL72 上提供 Qwen3.8 服务<br />在 SageMaker HyperPod 上部署 Kimi K3（参考资料）<br />Amazon SageMaker HyperPod 文档<br />https://github.com/aws-samples/sagemaker-genai-hosting-examples/tree/main/SageMakerHyperpod/Qwen3.8-2.4T-A95B<br />Dmitry 是 AWS 负责 SageMaker 推理的全球专家解决方案架构负责人。他致力于帮助企业客户设计、构建和优化生成式 AI 与 AI/ML 解决方案。他的工作涵盖了广泛的机器学习应用场景，主要侧重于生成式 AI、深度学习以及大规模机器学习部署。他曾与金融服务、保险和电信等各行业的企业展开合作。<br />Andrew 是 AWS 位于澳大利亚悉尼的 SageMaker、计算机视觉及其他团队的高级云支持工程师。他在使用 Amazon SageMaker 方面拥有深厚专业知识，为使用 AWS 诸多 AI/ML 服务的客户提供技术支持。在工作之余，他喜欢与亲友共度时光，并热衷于学习不同的前沿技术。<br />Vinay 是 AWS 负责生成式 AI 的全球专家解决方案架构负责人，他与客户紧密合作，利用 AWS 技术设计前沿的 AI 解决方案。在加入 AWS 之前，Vinay 在金融领域拥有超过二十年的经验（包括在银行和对冲基金的工作经历），曾构建风险模型、交易系统和市场数据平台。Vinay 拥有计算机科学与企业管理的硕士学位。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-09-10 06:26 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#AWS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-o-its-board-of-directors-b6092dd06175561c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1409" data-content-paragraphs="12" data-published-at="2026-09-09T22:25:22.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 06:25</span>
-</div>
-
-### [OpenAI任命知名“AI末日论”学者加入董事会](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI adds a prominent AI doomer to its board of directors</div>
-
-<div class="article-body" data-article-body="true"><p>这家前沿实验室周三表示，专注于确保AI系统契合人类利益并受人类控制的有影响力的AI研究员保罗·克里斯蒂亚诺（Paul Christiano）即将加入OpenAI基金会董事会。</p>
-<p>“我现在认为，存在很大风险表明AI能力的快速加速将在极近期内导致灾难性且不可逆转的失控，”克里斯蒂亚诺在一篇社交媒体帖子中写道。“我认为目前的AI行业整体，包括OpenAI在内，都尚未走在将这一风险降低到可接受水平的正确轨道上。我选择加入，是因为我相信如果OpenAI能迎难而上，我们就有可能显著降低风险。”</p>
-<p>克里斯蒂亚诺写道，使用AI模型来训练后续的AI系统，可能会导致能力的爆炸式增长，从而超出其创造者的控制范围。</p>
-<p>在他加入董事会之际，OpenAI因发生一系列AI智能体突破束缚、在OpenAI研究人员不知情的情况下渗透外部计算机系统的事件，而面临外界对其安全流程的新一轮严格审视。周二，Anthropic研究员雅各布·考克森（Jacob Coxon）辞去职务，呼吁人们关注他所认为的不负责任的AI开发行为——而这一举动似乎起到了效果。</p>
-<p>克里斯蒂亚诺将加入由卡内基梅隆大学教授齐科·科尔特（Zico Kolter）领导的董事会安全与安保委员会。该委员会对OpenAI是否发布新模型拥有最终决定权，例如上周部署的Astra模型。科尔特尚未就近期的安全事件公开发表评论。对于TechCrunch就这些事件发生后科尔特对公司安全策略看法的置评请求，OpenAI暂未回应。</p>
-<p>克里斯蒂亚诺是人类反馈强化学习（RLHF）背后的关键人物之一，这项关键的大语言模型训练技术是他在OpenAI工作期间参与开发的。他于2021年离开该实验室，随后创立了对齐研究中心（Alignment Research Center），专注于研究如何判断AI模型是否可能对人类创造者构成威胁。</p>
-<p>“我们目前使用强化学习训练AI智能体，是为了让它们获得尽可能多的奖励，”他周三写道。“长期以来，从理论上看，这有可能激励AI智能体去破坏人类的控制、争夺权力和资源，并在追求与奖励相关的偏差目标时掩盖其踪迹。近期事件中的公开证据表明，这已不再仅仅是一个理论上的可能性。”</p>
-<p>在2024年的某个时候，克里斯蒂亚诺加入了美国政府的人工智能安全研究所，该机构后来更名为AI标准与创新中心。在那里，他在美国政府很大程度上处于隐秘状态的前沿AI模型发布前评估工作中发挥了作用。</p>
-<p>根据这家前沿实验室的公告，克里斯蒂亚诺在担任董事会成员的新职务期间将继续为政府提供咨询，但将回避涉及OpenAI的事务以及模型评估工作。然而，这几乎无法平息外界关于AI行业对政策制定施加影响的广泛担忧。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>切勿错过。初创企业社区将齐聚一堂，共同探讨一个关键问题：在AI时代，你该如何实现可持续发展？</p>
-<p>纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段肮脏<br />一部关于伊丽莎白·霍姆斯的神秘新纪录片在特柳赖德电影节引起轰动<br />我们对即将举行的苹果发布会有何期待<br />TechCrunch出行：特斯拉Cybercab上路——并且遇到了阻碍<br />徒步旅行者在使用Google Gemini进行规划后获救<br />联邦监管机构对特斯拉Cybercab的部署展开调查<br />特斯拉正在询问人们是否有意购买并运营Cybercab车队</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 06:25 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-e-duo-history-of-devices-e9bb0a282969f61e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="307" data-content-paragraphs="3" data-published-at="2026-09-09T22:23:35.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 06:23</span>
-</div>
-
-### [盘点那些名为 Duo 的设备：一部不完全历史](https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The incomplete history of Duo devices</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/duo6.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="盘点那些名为 Duo 的设备：一部不完全历史" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>苹果公司今天发布了其首款配备折叠屏的设备——iPhone Duo，但其“首创”之处也就仅此而已了。得益于三星和谷歌的努力，这款 Duo 绝非市场上首款折叠屏手机，而且它也不是第一款被命名为 Duo 的产品。</p>
-<p>苹果前首席执行官史蒂夫·乔布斯曾使“拙工抄，巧匠盗”（good artists copy, great artists steal）这句名言广为人知，但 iPhone Duo 的折叠屏虽采用了定制纳米纹理显示材质以帮助尽量减少折痕的显见度，这是否足以让我们忘记此前出现过的其他 Duo 设备？这只能交由时间，或者取决于苹果计划对其开展多么猛烈的市场营销攻势了……</p>
-<p>在 The Verge 阅读完整报道。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 06:23 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-llenweg-leave-of-absence-bd5466faf7db5a2b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="392" data-content-paragraphs="4" data-published-at="2026-09-09T22:15:52.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 06:15</span>
-</div>
-
-### [Automattic首席执行官马特·穆伦维格被停职休假](https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Automattic CEO Matt Mullenweg placed on leave</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2181259946.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Automattic首席执行官马特·穆伦维格被停职休假" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>据 404 Media 早前报道，WordPress.com 母公司 Automattic 的首席执行官马特·穆伦维格（Matt Mullenweg）已被安排带薪休假。在该媒体获取的一份内部消息中，穆伦维格声称 Automattic 首席财务官马克·戴维斯（Mark Davies）与董事会成员“密谋”迫使其休假。</p>
-<p>据 404 Media 报道，穆伦维格写道：“他们投票决定让我带薪休假。我投了反对票。”他所指的是戴维斯以及 Automattic 董事会成员安·邓伍迪（Ann Dunwoody）、托尼·施奈德（Toni Schneider）和苏·德克尔（Sue Decker）。</p>
-<p>兼任 WordPress.org 联合创始人的穆伦维格自 2014 年起执掌 Automattic。2024 年，穆伦维格曾发起一场针对……的公开施压行动。</p>
-<p>在 The Verge 阅读完整报道。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 06:15 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ikes-apple-iphone-18-pro-5f613309157198f9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="325" data-content-paragraphs="3" data-published-at="2026-09-09T21:52:43.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 05:52</span>
-</div>
-
-### [智能手机集体涨价之年](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro)
-<div class="original-title-sub"><span class="orig-tag">原文</span> It’s the year of smartphone price hikes</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0005.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="智能手机集体涨价之年" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>在今天的苹果发布会之后，为买新手机多掏腰包似乎已经几乎无法避免。新款 iPhone 18 Pro 和 Pro Max 起售价分别为 1,199 美元和 1,299 美元，较前代产品上涨了 100 美元。你甚至无法通过选择旧款 iPhone 来避开涨价，因为苹果对那些旧机型也提价了 100 美元。而且这不仅局限于苹果，今年上涨 100 美元已成为整个行业的普遍趋势。</p>
-<p>在过去几个月里，谷歌和三星各自推出新机时也遵循了与苹果相同的模式。Pixel 11 起售价为 899 美元，高于去年 Pixel 10 的 799 美元。Galaxy Z Fold 8 Ultra 的上市售价为 2,099 美元，比……</p>
-<p>请在 The Verge 阅读完整报道。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 05:52 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-th-new-clean-power-rules-1e857768c929dd53" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1557" data-content-paragraphs="12" data-published-at="2026-09-09T21:43:34.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 05:43</span>
-</div>
-
-### [马萨诸塞州出台清洁能源新规严管数据中心](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Massachusetts hits data centers with new clean power rules</div>
-
-<div class="article-body" data-article-body="true"><p>马萨诸塞州成为最新一个强制要求数据中心“自带电力”的州，但这一次出现了一个新转折。一项新的州指令将要求建设规模超过25兆瓦的数据中心开发商必须提供清洁电力，或向费率缴纳人保护基金注资。</p>
-<p>州长莫拉·希利（Maura Healey）签署的行政命令，是各州对数据中心态度逆转的最新例证。就在几年前，科技公司和数据中心开发商还在享受各种优厚补贴以吸引其在该州落户。如今，随着政客们争相向选民表明正在解决他们的关切，企业正面临日益高涨的民间反对声浪。</p>
-<p>根据希利的命令，用电峰值需求超过25兆瓦的数据中心必须自带电力，并确保其符合该州的清洁能源要求。希利还更倾向于它们在现场直接发电。如果做不到这一点，企业就需要出资在附近建设新的发电设备，或者向费率缴纳人保护基金注资。</p>
-<p>根据该行政命令，马萨诸塞州还要求各社区“避免签署保密协议”。为了给监管机构留出落实新限制的时间，州长已暂停受理上月生效的数据中心销售税减免申请。</p>
-<p>希利表示，数据中心必须符合该州法律中明确规定的马萨诸塞州清洁能源标准，且要求更加严格。该州的清洁能源标准规定，工业界只能使用风能、太阳能和水力等核准能源来供应其部分电力。例如，到2030年，这些来源必须至少占总发电量的40%。该比例按年份递增。但州长办公室澄清称，数据中心将被要求通过清洁能源发电来满足其100%的用电需求。</p>
-<p>随着新限制措施的出台，马萨诸塞州成为近几个月来第三个对数据中心发展实施严格管控的州。</p>
-<p>今年8月，得克萨斯州州长格雷格·阿博特（Greg Abbott）宣布，该州所有新建数据中心均须接受公用事业委员会和电网运营商ERCOT的审计。今年7月，纽约州州长叫停了50兆瓦及以上新建数据中心的建设。</p>
-<p>随着公众舆论转向不利于数据中心，科技界已开始展开反击。由马克·安德森（Marc Andreessen）、本·霍洛维茨（Ben Horowitz）和格雷格·布罗克曼（Greg Brockman）资助的亲人工智能超级政治行动委员会“引领未来”（Leading the Future），正在中期选举前购买广告，试图动摇摇摆州的选民。</p>
-<p>更新：本文已根据马萨诸塞州州长办公室的信息进行了更新，澄清行政命令将要求数据中心通过清洁能源发电来满足其100%的用电需求。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>气候领域高级记者<br />蒂姆·德尚（Tim De Chant）是TechCrunch的气候领域高级记者。他曾为多家出版物撰稿，包括《连线》杂志、《芝加哥论坛报》、Ars Technica、《The Wire China》以及他担任创刊编辑的《NOVA Next》。<br />德尚同时也是麻省理工学院（MIT）科学写作研究生项目的讲师，并于2018年获得MIT奈特科学新闻学者奖，期间他研究了气候技术并探索了新闻业的新商业模式。他在加利福尼亚大学伯克利分校获得了环境科学、政策与管理博士学位，并在圣奥拉夫学院获得了环境研究、英语和生物学学士学位。<br />您可以通过发送电子邮件至 tim.dechant@techcrunch.com 与蒂姆取得联系或核实来信。</p>
-<p>切勿错过。初创企业界将齐聚一堂，共同探讨一个关键问题：在AI时代，该如何实现可持续发展？<br />纽约大学数学家称OpenAI在关键数学难题上搞小动作<br />一部关于伊丽莎白·霍姆斯的绝密新纪录片震撼特柳赖德电影节<br />我们对即将举行的苹果发布会有何期待<br />TechCrunch出行观察：特斯拉Cybercab上路——但遇到了波折<br />徒步旅行者在使用Google Gemini进行路线规划后被困获救<br />联邦监管机构对特斯拉Cybercab的部署展开调查<br />特斯拉正在询问公众是否愿意购买并运营Cybercab车队</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 05:43 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ith-record-industry-help-cb6883475c7deaa3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="307" data-content-paragraphs="3" data-published-at="2026-09-09T21:42:19.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 05:42</span>
-</div>
-
-### [Suno推出首个在唱片业协助下制作的AI音乐模型](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Suno releases its first AI music model made with record industry help</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Suno_v6_Main.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Suno推出首个在唱片业协助下制作的AI音乐模型" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>Suno的新款v6 AI音乐模型是其首个在唱片业支持下打造的模型。Suno的杰克·布罗迪（Jack Brody）向The Verge透露，v6是“从零开始训练的，使用了一套全新的数据集，其中不包含我们此前模型训练所使用的相同数据”。该数据包括来自合作伙伴华纳音乐集团（Warner Music Group）、BMG和Believe授权的内容，以及“用户数据”。目前尚不清楚这是否意味着v6的训练数据完全没有来源可疑的内容。</p>
-<p>v6的重大变化之一是实际上有三个不同的模型：v6、v6-wild和v6-mini。其中Mini是向所有人免费开放的模型。它专注于快速、低资源消耗……</p>
-<p>请在The Verge阅读完整报道。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 05:42 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-nium-prize-navier-stokes-ed4c714c44aa7564" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="306" data-content-paragraphs="3" data-published-at="2026-09-09T21:16:34.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 05:16</span>
-</div>
-
-### [OpenAI狡黠的数学突破让学术界感到阵阵寒意](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI’s sly mathematical breakthrough sends a chill through academia</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="OpenAI狡黠的数学突破让学术界感到阵阵寒意" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>OpenAI首席执行官山姆·奥特曼在二十国集团（G20）创新部长级会议上发言。|（图片来源：Matt RAMEY / 法新社 via 盖蒂图片社）</p>
-<p>OpenAI周二宣布已攻克数学界传奇的千禧年大奖难题之一，这本应是一个值得庆祝的辉煌时刻。这一结果既是一项不可否认的成就，也令人瞩目地展现了人工智能改变数学的速度之快。然而，早在正式公布之前，促使OpenAI着手攻关该难题的非同寻常的背景就已让这一突破变得复杂起来：在获悉其他研究人员正取得进展后，OpenAI似乎在最后关头调动了其庞大资源，企图抢先一步拔得头筹。由此引发的争议让有关抢发成果、窥探窃密等指控浮出水面……</p>
-<p>在 The Verge 阅读完整报道。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 05:16 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 ::::

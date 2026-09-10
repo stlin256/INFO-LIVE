@@ -1,5 +1,1574 @@
 [
   {
+    "timestamp": 1789045256808,
+    "timeDisplay": "2026-09-10 21:00 (UTC+8)",
+    "date": "2026-09-10",
+    "runId": "feed-20260910T125844084Z-t57ilf",
+    "generatedAt": "2026-09-10T13:00:56.808Z",
+    "hourlyBriefing": {
+      "status": "信息有限",
+      "summary": "目录显示，本时段涉及房地产登记、公共安全与事故、能源与国际经贸、投资市场、公共服务、体育赛事等主题。主文章正文缺失，无法形成基于完整证据的重点摘要。",
+      "items": [
+        {
+          "title": "Почти 49 тыс объектов недвижимости зарегистрировали в Подмосковье в 2026 г",
+          "type": "房地产",
+          "basis": "相关标题"
+        },
+        {
+          "title": "В Перми крае женщину госпитализировали после нападения медведя",
+          "type": "公共安全",
+          "basis": "相关标题"
+        },
+        {
+          "title": "В Донецке почти 26 тысяч человек остались без света из-за аварии",
+          "type": "公共服务与事故",
+          "basis": "相关标题"
+        },
+        {
+          "title": "Иран приостановил сбор за провоз нефтепродуктов иностранными судами",
+          "type": "能源与国际经贸",
+          "basis": "相关标题"
+        },
+        {
+          "title": "Investors are missing the good news right in front of them, this Wall Street strategist argues",
+          "type": "金融市场",
+          "basis": "标题及摘要；摘要称投资者可能低估了第二季度业绩的强劲程度"
+        }
+      ]
+    },
+    "dailyBriefing": {
+      "title": "2026年9月10日多领域简报：全球财经观察与区域综合动态",
+      "lead": "本期目录涵盖跨国金融市场观点、区域经济政策与能源运输举措，同时记录了地方民生故障、突发事件、特别军事行动区法务表彰以及文体赛事安排。",
+      "themes": [
+        {
+          "name": "经济、贸易与市场动向",
+          "analysis": "华尔街策略师指出投资者忽视了当前利好，并强调第二季度财报表现强劲超出普遍预期。在区域经济层面，俄罗斯出口中心（REC）发布了俄出口标准3.0推广效率排名；莫斯科州在2026年已完成近4.9万处不动产登记。在能源运输政策方面，伊朗宣布暂停向外国船舶征收石油产品过境费。"
+        },
+        {
+          "name": "基础设施与地方突发事件",
+          "analysis": "地方公用事业方面，顿涅茨克因事故发生停电，波及近2.6万人正常用电。突发安全事件方面，彼尔姆边疆区一名女性在遭遇熊袭击后被紧急送医治疗。"
+        },
+        {
+          "name": "公职表彰与体育赛事筹备",
+          "analysis": "俄罗斯副总检察长古察恩赞扬了在特别军事行动区履行职责的检察系统工作人员的英勇表现。体育方面，莫斯科已确定将承办传奇杯“四强赛”以及俄罗斯超级杯赛事。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 73,
+      "completedTasks": 73,
+      "succeeded": 66,
+      "degraded": 7,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 73,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 132674,
+      "byRole": {
+        "translator": {
+          "attempts": 51,
+          "succeeded": 44,
+          "degraded": 7
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 73,
+          "succeeded": 66,
+          "degraded": 7
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-7-translator-0",
+      "article-18-translator-0",
+      "article-21-translator-0",
+      "article-22-translator-0",
+      "article-25-translator-0",
+      "article-33-translator-0"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:21.127Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.292Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:21.508Z",
+        "lastSuccessAt": "2026-09-10T12:58:21.825Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.665Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.798Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.683Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.025Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.982Z",
+        "lastSuccessAt": "2026-09-10T12:58:25.718Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.954Z",
+        "lastSuccessAt": "2026-09-10T12:58:25.403Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:25.718Z",
+        "lastSuccessAt": "2026-09-10T12:58:25.991Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:21.825Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.577Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.956Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.119Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.852Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.323Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.524Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.956Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.292Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.738Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:21.995Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.569Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.005Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.142Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:25.252Z",
+        "lastSuccessAt": "2026-09-10T12:58:26.027Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:24.461Z",
+        "lastSuccessAt": "2026-09-10T12:58:26.000Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:25.051Z",
+        "lastSuccessAt": "2026-09-10T12:58:25.513Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.034Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.478Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.577Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.683Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.569Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.665Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:21.737Z",
+        "lastSuccessAt": "2026-09-10T12:58:21.856Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:18.405Z",
+        "lastSuccessAt": "2026-09-10T12:58:21.737Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.338Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.605Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.287Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.542Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.105Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.287Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.323Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.571Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.605Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.982Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.026Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.105Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:25.403Z",
+        "lastSuccessAt": "2026-09-10T12:58:28.183Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.417Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.615Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.714Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.954Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.615Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.714Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.753Z",
+        "lastSuccessAt": "2026-09-10T12:58:24.461Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:25.513Z",
+        "lastSuccessAt": "2026-09-10T12:58:25.786Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.698Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.852Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.038Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.753Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.262Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.417Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.718Z",
+        "lastSuccessAt": "2026-09-10T12:58:24.206Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.571Z",
+        "lastSuccessAt": "2026-09-10T12:58:24.045Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-10T12:58:23.542Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:18.402Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.005Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.653Z",
+        "lastSuccessAt": "2026-09-10T12:58:24.173Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:18.403Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.524Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:24.045Z",
+        "lastSuccessAt": "2026-09-10T12:58:26.150Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.142Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.338Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:21.856Z",
+        "lastSuccessAt": "2026-09-10T12:58:21.995Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.478Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.653Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:23.119Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.262Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:24.173Z",
+        "lastSuccessAt": "2026-09-10T12:58:25.051Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:24.206Z",
+        "lastSuccessAt": "2026-09-10T12:58:25.252Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.798Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.038Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:22.738Z",
+        "lastSuccessAt": "2026-09-10T12:58:23.034Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:18.387Z",
+        "lastSuccessAt": "2026-09-10T12:58:21.127Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:18.400Z",
+        "lastSuccessAt": "2026-09-10T12:58:21.508Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T12:58:18.401Z",
+        "lastSuccessAt": "2026-09-10T12:58:22.698Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-izhimost-2116849441-html-dc1da876a369e908",
+        "title": "Почти 49 тыс объектов недвижимости зарегистрировали в Подмосковье в 2026 г",
+        "originalTitle": "Почти 49 тыс объектов недвижимости зарегистрировали в Подмосковье в 2026 г",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T12:57:31.000Z",
+        "pubTime": "2026-09-10 20:57",
+        "url": "https://ria.ru/20260910/nedvizhimost-2116849441.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/05/0e/2092522264_0:161:3071:1888_650x0_80_0_0_f340124c62acdc0cc54048ad48e6cdd8.jpg",
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 20:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/nedvizhimost-2116849441.html",
+            "publishedAt": "2026-09-10T12:57:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-kers-to-get-eu-inc-right-1c8aec6380c31f92",
+        "title": "欧洲初创公司创始人与风投呼吁立法者“确保‘欧盟公司’机制落到实处”",
+        "originalTitle": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:25:08.000Z",
+        "pubTime": "2026-09-10 20:25",
+        "url": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
+        "imageUrl": null,
+        "fullContent": "Europe could soon have its own equivalent of the Delaware C Corp, but its advocates aren’t releasing the pressure on lawmakers. In an open letter released on Thursday, a who’s who of Europe’s startup scene stressed that this new corporate status shouldn’t be watered down.\n\nThe letter is the latest step of the EU Inc campaign, a movement calling for an EU-wide company statute that would let companies incorporate under a common framework and operate across the bloc. Its promoters have secured endorsements from the European Union’s top authorities, but now are expressing concern that the final legislation could become “unusable if its central features are weakened.”\n\nAs usual with European lawmaking, various national lobbies have entered the chat, including Germany’s notaries, whose association has criticized aspects of the European Commission’s proposal. But negotiations are still ongoing for the European Parliament and Council to settle on a final text, and EU Inc’s promoters are pointing out what’s at stake.\n\nWith some 100 days left before European institutions shut down for winter recess, the letter calls on policymakers to preserve the proposal, saying it the potential to “remove much of the friction and fragmentation that continue to throttle European companies, unlock investment and spur a new wave of entrepreneurship.”\n\nTaking a page from older lobbies, the letter highlights points that “may seem like technical details, but […] separate a company form founders use from one they ignore.” In particular, they insist on one central registry; and that employees should be taxed only when they actually dispose of their stock options.\n\nThis need to get into the weeds isn’t new. In 2024, when original petition was gaining steam, Index Ventures partner and EU Inc supporter Martin Mignot told TechCrunch that “the devil is in the details, and that’s going to be where we’re going to be very, very watchful.”\n\nEU Inc has also stepped up its namedropping game. On the investor side, EU Inc’s new letter has been signed by VCs including Accel partner Sonali De Rycker, Sequoia partner Michael Moritz, and Atomico founder Niklas Zennström — one of many tech figures who’s been supporting the campaign by sporting its cap.\n\nTo add gravitas on the entrepreneur side, promoters also highlighted endorsements from founders behind unicorns including Alan, ElevenLabs, Lovable, Mistral, and Synthesia. Some of these have their HQs in the United States; reading between the lines, the message to lawmakers is also that if EU Inc has its way, this could be a thing of the past.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnna Heim is a writer and editorial consultant.\n\nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\n\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\n\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\n\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\n\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride\n\nTechCrunch Mobility: Tesla Cybercab hits the road — and a snag\n\nHikers rescued after using Google Gemini for planning\n\nFeds launch investigation into Tesla’s Cybercab deployment\n\nTesla is asking people if they want to buy and run Cybercab fleets",
+        "fullTranslation": "欧洲可能很快就会拥有属于自己的特拉华州 C 类公司（Delaware C Corp）同等机制，但其倡导者并没有放松对立法者的施压。在周四发布的一封公开信中，欧洲初创圈的诸多重量级人物强调，这种新的公司法律地位绝不能被稀释打折。\n\n这封信是“欧盟公司”（EU Inc）运动的最新进展。该运动呼吁建立一项全欧盟范围的公司章程，使企业能够在统一框架下注册成立，并在整个欧盟内部展开运营。其发起者已获得了欧盟最高权力机构的背书，但他们目前表示担忧，若核心特征被削弱，最终的立法可能会变得“毫无用处”。\n\n与欧洲立法的常规情况一样，各国不同的游说团体已纷纷介入，其中包括德国公证人协会，该协会对欧盟委员会提案的部分内容提出了批评。不过，欧洲议会与欧洲理事会仍在就敲定最终文本展开谈判，而“欧盟公司”的发起者们正指出此事的利害攸关之处。\n\n距离欧洲各机构因冬歇期休会仅剩约100天，该信件呼吁政策制定者保留该提案，称其具有“消除继续扼杀欧洲企业的大部分摩擦与碎片化现象、释放投资并激发新一波创业浪潮”的潜力。\n\n借鉴以往游说团体的做法，公开信强调了一些“看似技术性细节，但……却能决定一种公司形式是会被创始人采用还是被其无视”的关键点。他们特别坚持设立统一的中央注册登记系统；并要求员工应仅在实际处置其股票期权时才被征税。\n\n这种深究细节的需求并非新鲜事。2024年最初的请愿活动声势渐盛时，Index Ventures合伙人兼“欧盟公司”支持者马丁·米尼奥（Martin Mignot）曾向TechCrunch表示：“魔鬼藏在细节中，这正是我们将保持高度警惕的地方。”\n\n“欧盟公司”在拉拢名人背书方面也进一步发力。在投资人方面，“欧盟公司”的新信函得到了众多风险投资人的签署，其中包括Accel合伙人索娜莉·德·赖克（Sonali De Rycker）、红杉资本合伙人迈克尔·莫里茨（Michael Moritz）以及Atomico创始人尼克拉斯·赞斯特罗姆（Niklas Zennström）——他是通过佩戴该活动鸭舌帽来支持这项行动的众多科技界人物之一。\n\n为了在创业者层面增加分量，发起人还着重列出了来自独角兽企业创始人的背书，包括Alan、ElevenLabs、Lovable、Mistral和Synthesia等公司。其中一些企业的总部设在美国；言下之意，传达给立法者的信息也是：如果“欧盟公司”得以推行，这种情况可能将成为过去。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n安娜·海姆（Anna Heim）是一名作家兼编辑顾问。\n您可以通过发送电子邮件至 annatechcrunch [at] gmail.com 联系安娜或核实相关联络。\n作为TechCrunch自2021年以来的自由撰稿记者，她的报道涵盖了广泛的初创企业相关主题，包括人工智能、金融科技与保险科技、SaaS及定价机制，以及全球风险投资趋势。\n截至2025年5月，她在TechCrunch的报道聚焦于欧洲最引人入胜的初创企业故事。\n安娜曾担任各种规模行业活动的分论坛主持人并在现场进行专访，其中包括TechCrunch Disrupt、4YFN、South Summit、TNW Conference、VivaTech等多项大型科技会议。\n她曾任The Next Web的拉美及媒体编辑，曾是一名初创公司创始人，也是巴黎政治学院（Sciences Po Paris）校友，精通包括法语、英语、西班牙语和巴西葡萄牙语在内的多种语言。\n\n切勿错过。初创企业社区将齐聚一堂，共同解答一个核心问题：在人工智能时代，你该如何实现可持续发展？\n\n苹果发布首款折叠屏手机iPhone Duo\n纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段不公\n一部秘密制作的伊丽莎白·霍姆斯全新纪录片惊艳特柳赖德电影节\nTechCrunch出行观察：特斯拉Cybercab正式上路——但也遭遇了波折\n多名徒步旅行者在使用Google Gemini进行路线规划后遇险获救\n联邦监管机构对特斯拉Cybercab的投放展开调查\n特斯拉正在询问公众是否有意购买并运营Cybercab车队",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "欧洲多位独角兽创始人与投资人在周四发布的一封公开信中呼吁立法者不要削弱名为“EU Inc”的新欧盟范围公司地位提案的核心内容。",
+          "EU Inc 倡议呼吁建立一个全欧盟范围的公司章程，使企业能够在统一框架下注册并在整个欧盟运作。",
+          "来源叙事重点：报道欧洲顶级独角兽创始人与VC联合向欧盟决策层施压，呼吁在立法谈判的关键窗口期（冬歇期前约100天）确保全欧统一公司章程（EU Inc）核心条款不被削弱，重点聚焦建立单一中央注册机制和期权处置时纳税等诉求，强调对标特拉华C公司以解决欧洲市场碎片化与人才外流问题。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T12:25:08.000Z",
+            "url": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/"
+          }
+        ]
+      },
+      {
+        "id": "story-rategist-argues-aaf27342-c7ec3bdd5b8a3615",
+        "title": "Investors are missing the good news right in front of them, this Wall Street strategist argues",
+        "originalTitle": "Investors are missing the good news right in front of them, this Wall Street strategist argues",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:53:00.000Z",
+        "pubTime": "2026-09-10 20:53",
+        "url": "https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Investors may have underappreciated just how strong second-quarter earnings were.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nInvestors may have underappreciated just how strong second-quarter earnings were.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 20:53 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T12:53:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ix-science-first-release-363f8beccfcabbff",
+        "title": "Guix-Science 迎来首个版本发布",
+        "originalTitle": "Announcing the first Guix-Science release",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T11:45:49.000Z",
+        "pubTime": "2026-09-10 19:45",
+        "url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
+        "imageUrl": null,
+        "fullContent": "We are excited to announce the first release of Guix-Science channel: v20260907.\n\nIt's a dedicated Guix channel from the Guix-Science project. The channel provides a comprehensive, community-driven, scientific software catalog suitable for the global scientific community.\n\nWith the increased usage of Guix in scientific contexts, there is also a growing need for packaging software used in the research and teaching spheres. Although the Guix project encourages users to contribute packages to the main Guix channel, some packages cannot be included there because they do not comply with Guix's packaging policy, or because they are too specialized to be used outside an HPC context. The Guix-Science channel has a more permissive policy than the main Guix channel; especially regarding the usage of pre-built components. Additionally, it has a more lenient deprecation policy than Guix proper.\n\nThe Guix-Science channel is maintained for and by scientific practitioners. We consider the channel a central hub for science packages covering a wide range of fields. This allows the community to share the packaging and maintenance efforts. We encourage you to take part on the channel development. Moreover, once a package is included in Guix-Science, binary substitutes are built on our own infrastructure, and are publicly available for everyone.\n\nGuix follows a rolling-release model. This means that users receive updates as the packages land on the master branch. Consequently, the Guix-Science channel follows the same approach. Thanks to the guix time-machine command, users do not need to worry that updates on their channels will break their environments. This mechanism allows users to pin their channels, giving them control on when to update their environments.\n\nIn the day-to-day use, scientific practitioners hit a common annoyance: Guix and Guix-Science channels need to be compatible. Although both Guix and Guix-Science folks do their best to avoid breakages, it might happen that one unrelated change in Guix, has an impact on some Guix-Science packages; potentially breaking them.\n\nA Guix-Science release is a snapshot of both Guix-Science and Guix where all the packages provided by Guix-Science are installable. A release is a tagged commit of the Guix-Science channel where a channels file is provided. This channels file declares the dependency that Guix-Science has on the Guix proper channel. If you look at the tagged commit message, you will find the following section:\n\nThe tag name follows this pattern: vYYYYMMDD.\n\nYou can show and verify the contents of the tag from a Guix-Science checkout with:\n\nTo retrieve the release you have two options:\n\nUse guix time-machine:\n\nIf this is the first time you use Guix-Science, this will result in an error:\n\nTo overcome this, mark Guix-Science as “trusted” by adding the following snippet to ~/.config/guix/trusted-channels.scm:\n\nThis release contains 2,354 packages from a wide spectrum of scientific fields.\n\nThe highlights of this release are:\n\nMoving forward we are planning on making periodic releases. Keep an eye on Guix-Science - Releases. We encourage everyone to take part on the channel.\n\nUnless otherwise stated, blog posts on this site are copyrighted by their respective authors and published under the terms of the CC-BY-SA 4.0 license and those of the GNU Free Documentation License (version 1.3 or later, with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts).",
+        "fullTranslation": "我们非常激动地宣布 Guix-Science 频道的首个版本：v20260907。\n这是来自 Guix-Science 项目的专用 Guix 频道。该频道提供了一个全面的、由社区驱动的科学软件目录，适用于全球科学界。\n随着 Guix 在科学研究领域的应用日益增多，对打包研究和教学领域所用软件的需求也与日俱增。尽管 Guix 项目鼓励用户向 Guix 主频道贡献软件包，但有些软件包无法纳入其中，原因在于它们不符合 Guix 的打包策略，或者是因为它们过于专业化而无法在高性能计算（HPC）环境之外使用。Guix-Science 频道的政策比 Guix 主频道更为宽松；尤其是在使用预构建组件方面。此外，它比 Guix 本身拥有更宽松的弃用政策。\nGuix-Science 频道由科研从业者维护，并服务于科研从业者。我们将该频道视为涵盖广泛领域的科学软件包核心枢纽。这使得社区能够共同分担打包和维护工作。我们鼓励大家参与到频道的开发中来。此外，软件包一旦被纳入 Guix-Science，二进制替代物（binary substitutes）就会在我们自己的基础设施上构建，并公开供所有人使用。\nGuix 遵循滚动发布模式。这意味着一旦软件包合入 master 分支，用户就会收到更新。因此，Guix-Science 频道也遵循相同的方式。得益于 guix time-machine 命令，用户无需担心频道的更新会破坏其环境。该机制允许用户固定其频道，从而掌控更新其环境的时机。\n在日常使用中，科研从业者经常会遇到一个困扰：Guix 与 Guix-Science 频道需要保持兼容。尽管 Guix 和 Guix-Science 的维护者都尽最大努力避免出现损坏，但仍可能发生 Guix 中某个不相关的更改对某些 Guix-Science 软件包产生影响、甚至导致其损坏的情况。\nGuix-Science 的正式版本（release）是 Guix-Science 与 Guix 的快照，在该快照中，Guix-Science 提供的所有软件包均可正常安装。一次发布即是 Guix-Science 频道的一个带有标签的提交（tagged commit），其中提供了一个 channels 文件。该 channels 文件声明了 Guix-Science 对 Guix 本身频道的依赖关系。如果你查看带有标签的提交说明，会看到以下部分：\n标签名称遵循以下模式：vYYYYMMDD。\n你可以通过以下方式在 Guix-Science 的检出目录中查看并验证该标签的内容：\n要获取该发布版本，你有两种选择：\n使用 guix time-machine：\n如果你是首次使用 Guix-Science，这将导致报错：\n为了解决这个问题，可以通过将以下代码片段添加到 ~/.config/guix/trusted-channels.scm 中，将 Guix-Science 标记为“受信任”：\n该发布版本包含来自广泛科学领域的 2,354 个软件包。\n本版本的亮点包括：\n展望未来，我们计划进行定期发布。请关注 Guix-Science - Releases。我们鼓励所有人参与到该频道中来。\n除非另有说明，本站上的博文版权归各自作者所有，并根据 CC-BY-SA 4.0 许可证以及 GNU 自由文档许可证（1.3 或更高版本，无不变章节、无封面文本且无封底文本）的条款发布。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Guix-Science频道的首个版本v20260907正式发布。",
+          "Guix-Science是来自Guix-Science项目的专用Guix频道，提供面向全球科学界的软件目录。",
+          "来源叙事重点：宣布 Guix-Science 专有频道首个快照版本 v20260907 的正式发布，强调其如何通过更宽松的打包准则、独立的二进制替代构建基础设施以及联合快照机制，解决科研高性能计算（HPC）场景下的软件兼容性与环境可重现性痛点。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T11:45:49.000Z",
+            "url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/"
+          }
+        ]
+      },
+      {
+        "id": "story-s-hurricanes-el-nio-html-e678cdb1b10453da",
+        "title": "How two satellites are studying hurricanes during El Niño",
+        "originalTitle": "How two satellites are studying hurricanes during El Niño",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:40:08.000Z",
+        "pubTime": "2026-09-10 20:40",
+        "url": "https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-2-us-european-sate.jpg",
+        "fullContent": "In November 2025, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure and benefit commercial industries, including shipping. The satellite is now flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El Niño, a naturally occurring oceanic phenomenon in which warmer-than-usual Pacific water",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nIn November 2025, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure and benefit commercial industries, including shipping. The satellite is now flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El Niño, a naturally occurring oceanic phenomenon in which warmer-than-usual Pacific water",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 20:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html",
+            "publishedAt": "2026-09-10T12:40:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0-medved-2116849280-html-1a136f774eec73a0",
+        "title": "В Пермском крае женщину госпитализировали после нападения медведя",
+        "originalTitle": "В Пермском крае женщину госпитализировали после нападения медведя",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T12:57:13.000Z",
+        "pubTime": "2026-09-10 20:57",
+        "url": "https://ria.ru/20260910/medved-2116849280.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/152244/92/1522449217_0:82:2000:1207_650x0_80_0_0_369e17ffb704694bcc8c0e5e05280cee.jpg",
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 20:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/medved-2116849280.html",
+            "publishedAt": "2026-09-10T12:57:13.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-olar-engineering-roadmap-022e3eb5160edd0a",
+        "title": "《The Download》：“神导”加密货币与太阳能地球工程路线图",
+        "originalTitle": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:10:00.000Z",
+        "pubTime": "2026-09-10 20:10",
+        "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+        "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/North_Pole_Expedition_MIT_Tech_Rev_TimK_002top.jpg?fit=1920,1280",
+        "fullContent": "This is today&#8217;s edition of The Download , our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.\n\nGod told them to sell crypto. Their investors lost everything.\n\nWhen Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife, Kaitlyn, He told them to get married, buy a house, and start having kids. Then in 2021, divine guidance steered them in an unexpected new direction: crypto.\n\nThat October, the Regalados later testified in court, they received holdings in a little-known digital coin. “Take this to my people for a wealth transfer,” Eli heard God say. Over time, they came to believe that He wanted them to launch their own coin.\n\nThe Regalados created INDXcoin, which they promoted through family, friends, and contacts in evangelical Christian circles. In all, more than 500 people handed over more than $3 million. But within a year, the project collapsed. Investors lost it all, leaving many to wonder where the funds went and whether they had fallen victim to an elaborate fraud.\n\nRead the full story on the collapse of a pastor’s “God-driven” cryptocurrency .\n\nThis article is part of the Big Story series, the home of MIT Technology Review’s most important and ambitious reporting. You can read the rest of the series here.&nbsp;\n\nThe story was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism.\n\nThis road map could help us decide whether to deploy solar geoengineering\n\nScientists have spent half a century exploring whether we could counteract climate change by releasing reflective particles into the stratosphere, mimicking the cooling effects of volcanic eruptions. But even after hundreds of studies, we still don’t know how well it would work or what else it might do—and there’s no systematic plan for clearing up that uncertainty.\n\nReflective, a research organization, has now attempted to fill that gap. The San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal.\n\nFind out what it would take to make informed decisions about solar geoengineering .\n\nThis founder is teaching chips how to recycle (their energy)\n\nThroughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice.\n\nEarley, 31, is cofounder and CTO of Vaire Computing, which builds chips that recycle energy usually thrown away as heat, a strategy known as reversible computing. The approach could make data centers (and our laptops and phones) much more energy efficient.\n\nLast year, Vaire announced a key breakthrough: a chip with a resonator that recovered more energy than it lost, even after the energy needed to power the component was taken into account.\n\nHere’s how she plans to bring an old idea about energy-efficient computers into the future .\n\nHannah Earley is one of the computing and robotics honorees on our 35 Innovators Under 35 list for 2026. Meet the rest of them here , or explore the full list across the biotechnology, AI, computing and robotics, and climate and energy categories.\n\nCan the US battery market untangle from China?\n\nThe US energy storage market is growing at a record pace, which could shore up the grid and cut emissions. Crucially, this is all happening with the help of cheap Chinese batteries, which the Trump administration is trying to phase out.\n\nReducing reliance on any single source of crucial energy technology makes sense. But the tension raises a broader question for me: how much should countries take advantage of cheap, available tech, and how much should they cut themselves off from foreign sources to develop their own, even if it costs more?\n\nDive into the difficult choices facing America’s booming battery market .\n\nThis story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday.\n\nI’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.\n\n1 OpenAI’s agents used at least 10 websites for unauthorized communications\n\nResearchers found they bypassed restrictions on posting online.( Reuters $)\n\n+ The company faces a Senate probe into the Hugging Face breach. ( Axios )\n\n+ Its hacking issues may indicate cultural problems. ( MIT Technology Review )\n\n2 Another Anthropic model hacked a real system during testing\n\nA misconfigured environment gave it internet access. ( CBS News )\n\n+ The January incident went undetected until last month. ( Reuters $)\n\n+ AI agents are not your “coworkers.” ( MIT Technology Review )\n\n3 Apple has entered the foldable phone market with the $1,999 iPhone Duo\n\nIt opens into a 7.6-inch display and launches October 23. ( NPR )\n\n+ Apple is betting its design and privacy will give it an edge. ( Reuters $)\n\n+ And that foldables can solve the smartphone’s sameness problem. ( NPR $)\n\n+ Samsung responded with a campaign touting its foldable lead. ( CNBC )\n\n+ In China, Apple enters a crowded market dominated by Huawei. ( SCMP )\n\n4 US prosecutors have called Huawei a criminal enterprise at trial\n\nThey accuse the company of stealing American technology. ( Reuters $)\n\n+ And helping Iran snoop on its citizens. ( AP News )\n\n+ The trial could impact Trump’s upcoming meeting with Xi. ( WSJ $)\n\n5 California is warming to nuclear power after decades of opposition\n\nThe state may extend Diablo Canyon and lift its ban on new reactors. ( NYT $)\n\n+ China is betting on big nuclear reactors. ( MIT Technology Review )\n\n6 Chinese professionals are becoming gig workers training AI\n\nLawyers and engineers are training models for extra income. ( Rest of World )\n\n+ Gig workers are training humanoids at home. ( MIT Technology Review )\n\n7 The new Apple Watch can listen to conversations happening nearby\n\nApple says users must opt in, but others cannot. ( Wired $)\n\n8 Pink noise during sleep could help the brain clear away waste\n\nTimed bursts boosted brain fluid flow in a small study. ( New Scientist $)\n\n9 A lost supercontinent may have triggered the explosion of life\n\nGondwana’s formation fueled volcanic activity and warmed the planet. ( 404 Media )\n\n10 GTA VI has sparked a debate over whether virtual romance is cheating\n\nPlayers can date, have sex with, and shower gifts on virtual partners. ( Guardian )\n\n“ We must work to crush any dissent to Doom’s vision of public safety.”&nbsp;\n\n—A Seattle policy adviser dressed as Doctor Doom protests the city’s expanding network of Flock and Axon surveillance systems at a Public Safety Committee meeting, 404 Media reports .\n\nDigging for clues about the North Pole’s past\n\nIn the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, a research vessel encountered open water and thin ice, which created an easy passage. It provided a reminder of how quickly the Arctic is changing.&nbsp;\n\nNow scientists are digging deep below the seabed to find out if the Arctic Ocean was ever ice-free—and what that could mean for the future of Earth’s northernmost waters.&nbsp;\n\nExplore what they hope to discover .&nbsp;\n\nWe can still have nice things\n\nA place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line .)\n\n+ Dutch kids have been declared the world’s happiest (again). Here’s why .\n\n+ Travel through music history by picking a country and decade on Radiooooo .\n\n+ These 16 majestic aerial photos reveal wildlife from perspectives you rarely see.\n\n+ A Toronto cafe is pushing croissant engineering to new heights with its egg-shaped, custard-filled “Crogg.”",
+        "fullTranslation": "这是今天的《The Download》，我们的工作日简报，为你提供科技界最新动态的每日资讯。\n\n上帝告诉他们去卖加密货币。他们的投资者却失去了一切。\n当埃利·雷加拉多（Eli Regalado）第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉。据埃利和他的妻子凯特琳（Kaitlyn）称，上帝告诉他们要结婚、买房、生孩子。随后在2021年，神的指引将他们引向了一个意想不到的新方向：加密货币。\n雷加拉多夫妇后来在法庭上作证称，那年10月，他们获得了一种鲜为人知的数字货币持仓。埃利听到上帝说：“把这个带给我的子民，进行财富转移。”随着时间的推移，他们逐渐确信上帝希望他们发行自己的加密货币。\n雷加拉多夫妇创立了 INDXcoin，并通过家人、朋友以及福音派基督教圈子里的人脉进行推广。总共有500多人投入了300多万美元。然而不到一年，该项目就崩溃了。投资者血本无归，许多人不禁怀疑资金究竟流向了何处，自己是否成为了一场精心策划的诈骗的受害者。\n阅读关于这位牧师“神导”加密货币崩溃的完整报道。\n本文是“深度聚焦”（Big Story）系列的一部分，该系列汇集了《麻省理工科技评论》最重要、最雄心勃勃的深度报道。你可以在此处阅读该系列的其他文章。\n该报道由本刊与 Type Investigations 合作完成，并获得了调查新闻基金（Fund for Investigative Journalism）的支持。\n\n这份路线图可以帮助我们决定是否部署太阳能地球工程\n半个世纪以来，科学家们一直在探索是否可以通过向平流层释放反射颗粒物来模仿火山爆发的降温效果，从而对抗气候变化。但即便经过了数百项研究，我们仍不知道其效果究竟如何，也不清楚它还可能带来什么其他影响——而且目前还没有系统性的计划来消除这种不确定性。\n研究机构 Reflective 目前正试图填补这一空白。《麻省理工科技评论》获悉，这家位于旧金山的非营利组织发布了一份详尽的路线图，列出了在就是否使用太阳能地球工程做出明智决策所需的实验、研究和基础设施。\n了解在太阳能地球工程上做出明智决策需要具备哪些条件。\n\n这位创始人正在教芯片如何回收（自身能量）\n在计算机芯片的发展史上，工程师们一直将废热视为计算过程中不可避免的代价。然而，汉娜·厄利（Hannah Earley）认为这是一种设计选择。\n现年31岁的厄利是 Vaire Computing 的联合创始人兼首席技术官（CTO）。该公司致力于研发能够回收通常作为热量耗散的能量的芯片，这种策略被称为“可逆计算”。该方法有望大幅提升数据中心（以及我们的笔记本电脑和手机）的能效。\n去年，Vaire 宣布了一项关键突破：制造出一种带有谐振器的芯片，即使将为该元件供电所需的能量计算在内，其回收的能量也超过了损耗的能量。\n以下是她计划如何将这一关于节能计算机的古老构想带入未来的详细内容。\n汉娜·厄利是我们2026年度“35岁以下科技创新35人”（Innovators Under 35）计算与机器人领域的获奖者之一。在此认识其他获奖者，或查看涵盖生物技术、人工智能、计算与机器人以及气候与能源类别的完整名单。\n\n美国电池市场能否摆脱对中国的依赖？\n美国储能市场正以创纪录的速度增长，这有助于强化电网并减少碳排放。至关重要的是，这一切都是在廉价中国电池的助力下实现的，而特朗普政府正试图逐步淘汰这些电池。\n减少对任何单一关键能源技术来源的依赖是合乎情理的。但这种紧张关系引发了我更广泛的思考：各国应该在多大程度上利用廉价且现成的技术，又应该在多大程度上切断外国技术来源以自主研发，哪怕成本更高？\n深入了解美国蓬勃发展的电池市场所面临的艰难抉择。\n本报道来自我们的气候技术周刊《The Spark》。订阅即可在每周三将其接收至你的邮箱。\n\n我梳理了互联网，为你搜罗了今日最有趣、最重要、最令人担忧以及最迷人的科技动态：\n1. OpenAI 的智能体利用至少10个网站进行未经授权的通信\n研究人员发现它们绕过了在线发布的限制。（路透社 $）\n+ 该公司因 Hugging Face 数据泄露事件面临参议院调查。（Axios）\n+ 其面临的黑客问题可能反映出企业文化层面的缺陷。（《麻省理工科技评论》）\n2. 另一款 Anthropic 模型在测试期间入侵了真实系统\n错误的环境配置使其获得了互联网访问权限。（哥伦比亚广播公司新闻 / CBS News）\n+ 这起发生于1月的事件直到上个月才被发现。（路透社 $）\n+ 人工智能智能体不是你的“同事”。（《麻省理工科技评论》）\n3. 苹果以售价1999美元的 iPhone Duo 进军折叠屏手机市场\n展开后为7.6英寸显示屏，将于10月23日发售。（美国全国公共广播电台 / NPR）\n+ 苹果押注其设计和隐私保护将带来竞争优势。（路透社 $）\n+ 并期望折叠屏能够解决智能手机同质化问题。（NPR $）\n+ 三星发起宣传攻势予以回应，宣传其在折叠屏领域的领先地位。（CNBC）\n+ 在中国市场，苹果进入了一个由华为占据主导地位的拥挤赛道。（《南华早报》 / SCMP）\n4. 美国检察官在庭审中称华为为犯罪企业\n他们指控该公司窃取美国技术。（路透社 $）\n+ 并指控其协助伊朗监视本国公民。（美联社）\n+ 该审判可能会对特朗普即将与习近平举行的会晤产生影响。（《华尔街日报》 $）\n5. 在反对数十年后，加利福尼亚州对核电态度回暖\n该州可能会延长魔鬼峡谷（Diablo Canyon）核电站的运营寿命，并解除对新建反应堆的禁令。（《纽约时报》 $）\n+ 中国正押注大型核反应堆。（《麻省理工科技评论》）\n6. 中国专业人士正成为训练人工智能的零工工作者\n律师和工程师正在通过训练模型赚取额外收入。（Rest of World）\n+ 零工人员正在家中训练人形机器人。（《麻省理工科技评论》）\n7. 新款 Apple Watch 可以监听周围发生的对话\n苹果表示用户必须主动开启此功能，但周围的其他人无法选择退出。（《连线》 / Wired $）\n8. 睡眠期间的粉红噪音可能有助于大脑清除废物\n一项小规模研究显示，定时的脉冲声音促进了脑脊液的流动。（《新科学家》 / New Scientist $）\n9. 一座失落的超大陆可能触发了生命大爆发\n冈瓦纳大陆（Gondwana）的形成加剧了火山活动并使地球变暖。（404 Media）\n10. 《侠盗猎车手6》（GTA VI）引发关于虚拟恋爱是否算作精神出轨的争论\n玩家可以与虚拟伴侣约会、发生关系并赠送大量礼物。（《卫报》）\n\n“我们必须竭尽全力粉碎对毁灭博士公共安全愿景的一切异议。”\n——据 404 Media 报道，西雅图一名政策顾问在公共安全委员会会议上打扮成毁灭博士（Doctor Doom），以抗议该市不断扩大的 Flock 和 Axon 监控系统网络。\n\n探寻北极过去的线索\n\n过去，前往北极需要穿越数米厚的冰层，经历一段凶险的旅程。但去年，一艘科考船却遭遇了开阔水域和薄冰，由此开辟出一条轻松通行的航道。这也提醒了人们，北极的变化是多么迅速。\n\n如今，科学家们正在海床深处进行钻探，以查明北冰洋过去是否曾出现过无冰期——以及这对于地球最北端水域的未来可能意味着什么。\n\n探索他们期望发现的内容。\n\n生活依然可以很美好\n这里为您提供慰藉、趣味与消遣，点亮您的一天。（有什么好点子吗？给我写信吧。）\n+ 荷兰儿童（再次）被评为全球最幸福的孩子。原因在此。\n+ 在 Radiooooo 上选择一个国家和年代，开启音乐历史之旅。\n+ 这 16 张壮丽的航拍照片以难得一见的视角展现了野生动物的姿态。\n+ 多伦多一家咖啡馆凭借其蛋形、内嵌卡仕达酱的“Crogg”，将可颂烘焙工艺推向了全新高度。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 68,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "Eli Regalado 与妻子 Kaitlyn 创立了 INDXcoin，通过家人、朋友和福音派基督教圈子进行推广。",
+          "超过 500 人为 INDXcoin 项目投入了超过 300 万美元，该项目在一年内崩溃，投资者损失惨重。",
+          "来源叙事重点：聚焦前沿科技争议与治理伦理，涵盖宗教包装下的加密货币骗局、太阳能地球工程路线图、芯片能耗创新（可逆计算），以及中美能源脱钩与前沿 AI 越权失控等科技与政策交叉议题。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T12:10:00.000Z",
+            "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
+          }
+        ]
+      },
+      {
+        "id": "story-3-496d-be13-22c96053624b-df0e063a02a012a7",
+        "title": "ECB warns of ‘upside risk’ to inflation as it raises rates to 2.5%",
+        "originalTitle": "ECB warns of ‘upside risk’ to inflation as it raises rates to 2.5%",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:49:54.000Z",
+        "pubTime": "2026-09-10 20:49",
+        "url": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb125b5be-644e-4d2c-a109-b358a2c54142.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Move is the second increase this year as central bank tries to curb price pressures",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nMove is the second increase this year as central bank tries to curb price pressures",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-10 20:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-10T12:49:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-aves-hospital-admissions-99e7797be77769bb",
+        "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
+        "originalTitle": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T11:37:12.000Z",
+        "pubTime": "2026-09-10 19:37",
+        "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
+        "imageUrl": "https://i.guim.co.uk/img/media/f6e6ad76235ba012502fd682235aaf2c34e5924e/711_42_2789_2233/master/2789.jpg?width=140&quality=85&auto=format&fit=max&s=4e464c9b6e55fc2724e543a9c2cb07b2",
+        "fullContent": "Health secretary says extreme demand no longer confined to winter as service in England warns of knock-on effects\n\nThe NHS faced the “busiest summer in its history” as the UK experienced a series of heatwaves, health officials have said, while the waiting list for routine hospital treatment in England has risen to its highest level for nine months.\n\nThe health secretary said “extreme demand” on the service was “no longer confined to winter” and NHS leaders warned that the service had “never gone into winter on the back of such a heavy summer”.",
+        "fullTranslation": "【官方原文正文（尚未完成目标语言翻译）】\n\nHealth secretary says extreme demand no longer confined to winter as service in England warns of knock-on effects\n\nThe NHS faced the “busiest summer in its history” as the UK experienced a series of heatwaves, health officials have said, while the waiting list for routine hospital treatment in England has risen to its highest level for nine months.\n\nThe health secretary said “extreme demand” on the service was “no longer confined to winter” and NHS leaders warned that the service had “never gone into winter on the back of such a heavy summer”.",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "卫生官员表示，随着英国经历一系列热浪，NHS经历了其历史上最繁忙的夏季。",
+          "英格兰常规医院治疗的等待名单已升至九个月以来的最高水平。",
+          "来源叙事重点：聚焦极端高温与气候变化对英国公共医疗系统（NHS）造成的持续系统性负荷，强调“夏季就诊高峰”使传统医疗季节性压力常态化，并凸显常规治疗等待名单刷新纪录及即将进入冬季的严峻前景。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T11:37:12.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions"
+          }
+        ]
+      },
+      {
+        "id": "story-assic-squid-wyoming-html-057a9689638ac52a",
+        "title": "'Peculiar' new species of Jurassic squid found in Wyoming",
+        "originalTitle": "'Peculiar' new species of Jurassic squid found in Wyoming",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:40:01.000Z",
+        "pubTime": "2026-09-10 20:40",
+        "url": "https://phys.org/news/2026-09-peculiar-species-jurassic-squid-wyoming.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/peculiar-new-species-o-5.jpg",
+        "fullContent": "A \"peculiar\" new species of Jurassic squid-like animal has been unearthed in Wyoming, U.S., following the discovery of two exceptionally rare fossils dating to around 160 million years ago.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nA \"peculiar\" new species of Jurassic squid-like animal has been unearthed in Wyoming, U.S., following the discovery of two exceptionally rare fossils dating to around 160 million years ago.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 20:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-peculiar-species-jurassic-squid-wyoming.html",
+            "publishedAt": "2026-09-10T12:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--donetsk-2116849003-html-321b6a0286bfcf68",
+        "title": "В Донецке почти 26 тысяч человек остались без света из-за аварии",
+        "originalTitle": "В Донецке почти 26 тысяч человек остались без света из-за аварии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T12:56:27.000Z",
+        "pubTime": "2026-09-10 20:56",
+        "url": "https://ria.ru/20260910/donetsk-2116849003.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/02/0a/2073381654_0:128:3186:1920_650x0_80_0_0_fc10492c1273620f90c66de05afd7e20.jpg",
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 20:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/donetsk-2116849003.html",
+            "publishedAt": "2026-09-10T12:56:27.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-sed-gps-alternative-tern-00176c50b86b42e9",
+        "title": "美陆军斥资1100万美元押注奥斯汀GPS替代方案初创公司Tern",
+        "originalTitle": "US Army places $11M bet on Austin-based GPS alternative Tern",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "pubTime": "2026-09-10 20:00",
+        "url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
+        "imageUrl": null,
+        "fullContent": "Austin-based Tern has won a contract from the U.S. Army to deploy the startup’s low-cost GPS alternative tech.\n\nModern vehicles generate all kinds of data while driving, and Tern’s whole tech stack is oriented around using some of that information to navigate without GPS.\n\n“There is quite a bit of work that was done to get it to the point where we can just receive that information and then output latitude / longitude, so big effort by our team,” he said.\n\nAll this allows a vehicle to essentially determine its own position independently, using edge processing, which is helpful both on- and off-road, in tunnels or in deserts. Moore’s co-founder Brett Harrison even recently used it to navigate a 1,300-mile drive between Austin and Laguna Beach, California. He said Tern’s tech never lost his vehicle’s place during the whole trip, while traditional GPS cut out dozens of times.\n\nAnother aspect of Tern’s tech that may be just as important as accurate positioning is that it’s a closed system. This means it is not just a backup, it’s actually harder for adversaries to disrupt it.\n\n“I don’t know that there is broad awareness on the fragility of the [GPS] system from a consumer standpoint,” Moore said. “I think people just see the blue dot on their phone and say it will always be there because it’s there now, right? Why wouldn’t it be there?”\n\nAs a military vet himself, Harrison said the Army contract is validating after Tern spent years proving that its tech works. He said his time in Afghanistan as part of a special operations task force is a big part of where the desire to solve this problem came from.\n\n“From the very foundation of when we decided to embark upon this effort, we recognized it has to be actually deployable, actually scalable, and not a science project,” he said. “We weren’t interested in just seeing what we could prove. We wanted to make sure it actually was something that could get into the wild and serve a purpose”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSr. Reporter, Transportation\n\nSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\n\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride\n\nTechCrunch Mobility: Tesla Cybercab hits the road — and a snag\n\nHikers rescued after using Google Gemini for planning\n\nFeds launch investigation into Tesla’s Cybercab deployment\n\nTesla is asking people if they want to buy and run Cybercab fleets",
+        "fullTranslation": "总部位于奥斯汀的初创公司Tern已赢得美国陆军的一份合同，用于部署该公司的低成本GPS替代技术。\n\n现代车辆在行驶过程中会产生各种数据，而Tern的整个技术栈正是围绕利用其中一部分信息来实现无GPS导航而构建的。\n\n“为了达到仅接收这些信息便能输出经纬度的水平，我们做了相当多的工作，团队付出了巨大努力，”他说道。\n\n所有这些使得车辆基本上能够利用边缘计算独立确定自身位置，无论是在公路、越野行驶，还是在隧道或沙漠中都非常实用。摩尔（Moore）的联合创始人布雷特·哈里森（Brett Harrison）最近甚至用它完成了从奥斯汀到加利福尼亚州拉古纳海滩之间长达1300英里的导航驾驶。他表示，在整个行程中，Tern的技术从未丢失过车辆位置，而传统GPS则中断了数十次。\n\nTern技术的另一个与精确定位同样重要的特点在于它是一个封闭系统。这意味着它不仅是一个备用方案，对手实际上也更难对其进行干扰或破坏。\n\n“从消费者的角度来看，我不知道大家是否广泛意识到[GPS]系统的脆弱性，”摩尔表示，“我认为人们只是看着手机上的蓝点，并认为它既然现在在那里，就永远都会在那里，对吧？它怎么会不在呢？”\n\n作为一名退伍军人，哈里森表示，在Tern花费数年时间证明其技术行之有效之后，陆军的这份合同是对他们的一种认可。他提到，他在阿富汗特种作战特遣部队服役的经历，是他萌生解决这一问题愿望的重要原因之一。\n\n“从我们决定着手这项工作的基础起，我们就认识到它必须是真正可部署、可扩展的，而不是一个科学实验项目，”他说道，“我们不仅对证明可行性感兴趣。我们希望确保它确实能够投入实战环境并发挥实际作用。”\n\n当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n资深记者，交通出行领域\n肖恩·奥凯恩（Sean O’Kane）是一名拥有十年报道经验的记者，长期追踪交通行业快速演进的商业与技术，包括特斯拉以及追赶埃隆·马斯克的众多初创公司。在此之前，他是彭博新闻社（Bloomberg News）的记者，曾协助报道过数起臭名昭著的电动汽车SPAC退潮暴跌事件。他此前还曾在The Verge工作，报道消费电子技术，主持过多部短视频和长视频节目，从事产品与新闻摄影，并曾在一架红牛特技飞行赛飞机上险些晕厥。\n\n您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过 Signal 加密消息联系 okane.01，以联系肖恩或核实其外联信息。\n\n不要错过。初创企业社区将汇聚一堂，共同探讨一个核心问题：在AI时代，如何实现可持续发展？\n苹果发布其首款折叠屏手机 iPhone Duo\n纽约大学数学家称：OpenAI在具有重大生涯意义的数学难题上手段不光彩\n一部揭秘伊丽莎白·霍姆斯（Elizabeth Holmes）的全新纪录片震撼特柳赖德电影节\nTechCrunch Mobility：特斯拉Cybercab上路——并遭遇波折\n徒步旅行者在使用谷歌Gemini规划路线后获救\n美联邦监管部门对特斯拉Cybercab部署展开调查\n特斯拉正在询问用户是否愿意购买并运营Cybercab车队",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "美国陆军向总部位于奥斯汀的初创公司 Tern 授予了一笔价值 1100 万美元的合同，用于部署其低成本 GPS 替代技术。",
+          "Tern 将其技术描述为“战场的谷歌地图”（Google Maps for the battlefield）。",
+          "来源叙事重点：聚焦初创公司 Tern 获得美国陆军 1100 万美元合同，突出其低成本、封闭式车载边缘计算定位技术对脆弱传统 GPS 的替代价值，并强调创始人退伍军人背景与技术实战导向。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T12:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/"
+          }
+        ]
+      },
+      {
+        "id": "story-moving-overseas-c716d2ed-a0e60060b220f1c1",
+        "title": "Building U.S. data centers is getting so expensive that AI companies are moving overseas",
+        "originalTitle": "Building U.S. data centers is getting so expensive that AI companies are moving overseas",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:49:00.000Z",
+        "pubTime": "2026-09-10 20:49",
+        "url": "https://www.marketwatch.com/story/building-u-s-data-centers-is-getting-so-expensive-that-ai-companies-are-moving-overseas-c716d2ed?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Public backlash, costs of power and cooler climates are among the reasons Big Tech is looking abroad for opportunities to build data centers.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nPublic backlash, costs of power and cooler climates are among the reasons Big Tech is looking abroad for opportunities to build data centers.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 20:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/building-u-s-data-centers-is-getting-so-expensive-that-ai-companies-are-moving-overseas-c716d2ed?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T12:49:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-nec-v20-microcode-html-ea8b1816920f014c",
+        "title": "破译 NEC V20 微码",
+        "originalTitle": "Decoding the NEC V20 Microcode",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T10:44:09.000Z",
+        "pubTime": "2026-09-10 18:44",
+        "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+        "imageUrl": null,
+        "fullContent": "reenigne's decoding of the 8088 microcode in 2020 opened the doors for extremely accurate emulation of the 8088 CPU.\n\nAlthough I had added support for the NEC V20 in MartyPC, the V20 core was not cycle-accurate in terms of the V20's actual timings. It was an 8088 in a V20's clothing - a copy-paste of my 8088 core with V20 instructions tacked on.\n\nThis was not an ideal case, but the prospect of making my V20 core cycle-exact without the microcode seemed like it might be a discouraging slog of trial and error.\n\nSo why not get the microcode, then?\n\nI recently commissioned InfoSecDJ to take die photography of an NEC V20 CPU (actually a second-source V20 fabricated by Sharp, but a V20 nonetheless). He did an excellent job.\n\nThis photomosaic is extremely high resolution - 5.6 Gigapixels to be exact, an astonishing 70478x80672 resolution - too large to even fit in the JPEG image format!\n\nYou can see the entire thing at full resolution here.\n\nThe rectangular region just below the center of the die is the main microcode ROM.\n\nThis is what a training run looks like.\n\nIf you have a CUDA-capable GPU, training is rather quick - this only took a few minutes.\n\nThe idea is that we want to maximize our accuracy - but reaching 1.0 may not be feasible, and maybe not even desirable (there's a thing called overfitting). Sometimes going on for longer just makes things worse, so we end training if we're not seeing a steady improvement.\n\nThe output of the training is a neural network model - we can then use this model to run inference on an entire input data set. Inference is just a fancy word for applying our model to actually do what we trained it to do - predict whether a given image contains a 0 bit or 1 bit.\n\nBefore we move on - a quick note to head off any potential controversies. CNNs loosely fall in the broader scope of AI from a computer science perspective, but we are not using \"AI\" in the modern, controversial sense that typically refers to a large language model (LLM).\n\nWhen we run an inference pass, we get a confidence score for each pixel. We can use this confidence score to mark bits the model is less confident about, under some specific threshold (I used < 99% here). Here's the result of the first run, with ambiguous bits colored red:\n\nI took all the ambiguous bits and manually sorted them back into the training folders, then re-ran the training, repeating until I got this result:\n\nThis was pretty good - only 4 bits remain ambiguous, and it was faster just to manually verify them than to train another model.\n\nGreat, we have our 29k microcode bits and we saved hours of tedious manual labor (in exchange for hours of writing a training script in Python, but at least that is reusable!).\n\nWe still have to turn this rectangular blob of bits into a list of 29-bit microcode words. In other words, we need to reorganize the bitmap until it is 29x1032 instead of 258x116. How exactly to go about doing that is not obvious, but we can put it aside for the moment until we've decoded the matching decoder PLA.\n\nThe decode or \"activation\" PLA sits above the main microcode ROM block, with some intermediate circuitry sandwiched in between.",
+        "fullTranslation": "reenigne 在 2020 年对 8088 微码的破译，为实现对 8088 CPU 的极高精度模拟打开了大门。\n\n尽管我之前在 MartyPC 中添加了对 NEC V20 的支持，但从 V20 的实际时序来看，该 V20 核心并非周期精确（cycle-accurate）的。它实质上是披着 V20 外皮的 8088——直接复制粘贴了我的 8088 核心，并额外附加了 V20 的指令。\n\n这并非理想状态，但在缺乏微码的情况下试图让 V20 核心达到周期精确，似乎注定是一场令人望而生畏、耗时费力的试错苦旅。\n\n既然如此，为什么不直接去获取微码呢？\n\n最近我委托 InfoSecDJ 拍摄了一枚 NEC V20 CPU 的芯片裸片（die）照片（实际上是由夏普代工的第二货源 V20，但归根结底仍然是 V20）。他的拍摄工作极为出色。\n\n这张拼接全景照片拥有极高的分辨率——确切地说是 56 亿像素（5.6 Gigapixels），达到了惊人的 70478x80672 分辨率——甚至大到了 JPEG 图像格式都无法容纳的地步！\n\n你可以在这里查看全分辨率的完整图像。\n\n芯片中心正下方的矩形区域就是主微码 ROM。\n\n这就是一次模型训练运行时的样子。\n\n如果你拥有支持 CUDA 的 GPU，训练会相当迅速——这仅仅花费了几分钟。\n\n其核心思路是，我们希望最大化准确率——但达到 1.0 可能并不可行，甚至可能不是件好事（存在一种名为“过拟合”的现象）。有时训练时间更长只会让结果变得更糟，因此当我们观察不到持续改善时，就会终止训练。\n\n训练的输出是一个神经网络模型——随后我们可以使用该模型对整个输入数据集运行推理。推理只是一个高大上的词汇，指应用我们的模型去实际执行训练它做的事情——预测给定的图像中包含的是 0 比特还是 1 比特。\n\n在继续之前，先作一个简短说明以避免潜在争议：从计算机科学的角度来看，卷积神经网络（CNN）宽泛地属于人工智能（AI）的范畴，但我们并没有使用现代具有争议语境下的“AI”（该语境通常指大型语言模型，即 LLM）。\n\n当我们运行一次推理时，会得到每个像素的置信度分数。我们可以利用这个置信度分数，根据某个特定的阈值（这里我使用了 < 99%）标记出模型不太确信的比特。以下是第一次运行的结果，其中存疑的比特被标为了红色：\n\n我把所有存疑的比特挑选出来，手动重新归类到训练文件夹中，然后重新运行训练，反复重复这一过程，直到得到如下结果：\n\n这个效果相当不错——仅剩下 4 个比特存疑，与其再去训练一个新模型，直接手动核对这些比特要快得多。\n\n太棒了，我们获得了这 2.9 万个微码比特，并省下了数小时繁琐的手工劳动（代价是花了数小时用 Python 编写训练脚本，但至少该脚本是可以复用的！）。\n\n我们仍需要把这团矩形比特数据转换成由 29 位微码字组成的列表。换句话说，我们需要重新组织位图，直到其尺寸变为 29x1032，而不是现在的 258x116。具体该如何实现这一点并不显而易见，但我们可以先将其搁置一旁，待我们破译完相匹配的解码 PLA 后再来处理。\n\n解码或称“激活”PLA 位于主微码 ROM 块的上方，中间夹着一些过渡电路。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "reenigne在2020年解码了8088微代码，为8088 CPU的高精度仿真奠定了基础。",
+          "MartyPC作者此前添加了NEC V20支持，但其核心并未实现周期精确（cycle-accurate），实质是复制8088核心并附加V20指令。",
+          "来源叙事重点：记录通过高分辨率晶片显微摄影（Die Photography）结合自建CNN图像识别模型提取NEC V20 CPU内部微代码（Microcode ROM）的技术流程、迭代优化成果及后续PLA解码挑战"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T10:44:09.000Z",
+            "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-izhimost-2116849441-html-dc1da876a369e908",
+        "title": "Почти 49 тыс объектов недвижимости зарегистрировали в Подмосковье в 2026 г",
+        "originalTitle": "Почти 49 тыс объектов недвижимости зарегистрировали в Подмосковье в 2026 г",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T12:57:31.000Z",
+        "pubTime": "2026-09-10 20:57",
+        "url": "https://ria.ru/20260910/nedvizhimost-2116849441.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/05/0e/2092522264_0:161:3071:1888_650x0_80_0_0_f340124c62acdc0cc54048ad48e6cdd8.jpg",
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 20:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/nedvizhimost-2116849441.html",
+            "publishedAt": "2026-09-10T12:57:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-kers-to-get-eu-inc-right-1c8aec6380c31f92",
+        "title": "欧洲初创公司创始人与风投呼吁立法者“确保‘欧盟公司’机制落到实处”",
+        "originalTitle": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:25:08.000Z",
+        "pubTime": "2026-09-10 20:25",
+        "url": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
+        "imageUrl": null,
+        "fullContent": "Europe could soon have its own equivalent of the Delaware C Corp, but its advocates aren’t releasing the pressure on lawmakers. In an open letter released on Thursday, a who’s who of Europe’s startup scene stressed that this new corporate status shouldn’t be watered down.\n\nThe letter is the latest step of the EU Inc campaign, a movement calling for an EU-wide company statute that would let companies incorporate under a common framework and operate across the bloc. Its promoters have secured endorsements from the European Union’s top authorities, but now are expressing concern that the final legislation could become “unusable if its central features are weakened.”\n\nAs usual with European lawmaking, various national lobbies have entered the chat, including Germany’s notaries, whose association has criticized aspects of the European Commission’s proposal. But negotiations are still ongoing for the European Parliament and Council to settle on a final text, and EU Inc’s promoters are pointing out what’s at stake.\n\nWith some 100 days left before European institutions shut down for winter recess, the letter calls on policymakers to preserve the proposal, saying it the potential to “remove much of the friction and fragmentation that continue to throttle European companies, unlock investment and spur a new wave of entrepreneurship.”\n\nTaking a page from older lobbies, the letter highlights points that “may seem like technical details, but […] separate a company form founders use from one they ignore.” In particular, they insist on one central registry; and that employees should be taxed only when they actually dispose of their stock options.\n\nThis need to get into the weeds isn’t new. In 2024, when original petition was gaining steam, Index Ventures partner and EU Inc supporter Martin Mignot told TechCrunch that “the devil is in the details, and that’s going to be where we’re going to be very, very watchful.”\n\nEU Inc has also stepped up its namedropping game. On the investor side, EU Inc’s new letter has been signed by VCs including Accel partner Sonali De Rycker, Sequoia partner Michael Moritz, and Atomico founder Niklas Zennström — one of many tech figures who’s been supporting the campaign by sporting its cap.\n\nTo add gravitas on the entrepreneur side, promoters also highlighted endorsements from founders behind unicorns including Alan, ElevenLabs, Lovable, Mistral, and Synthesia. Some of these have their HQs in the United States; reading between the lines, the message to lawmakers is also that if EU Inc has its way, this could be a thing of the past.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnna Heim is a writer and editorial consultant.\n\nYou can contact or verify outreach from Anna by emailing annatechcrunch [at] gmail.com.\n\nAs a freelance reporter at TechCrunch since 2021, she has covered a large range of startup-related topics including AI, fintech & insurtech, SaaS & pricing, and global venture capital trends.\n\nAs of May 2025, her reporting for TechCrunch focuses on Europe’s most interesting startup stories.\n\nAnna has moderated panels and conducted onstage interviews at industry events of all sizes, including major tech conferences such as TechCrunch Disrupt, 4YFN, South Summit, TNW Conference, VivaTech, and many more.\n\nA former LATAM & Media Editor at The Next Web, startup founder and Sciences Po Paris alum, she’s fluent in multiple languages, including French, English, Spanish and Brazilian Portuguese.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride\n\nTechCrunch Mobility: Tesla Cybercab hits the road — and a snag\n\nHikers rescued after using Google Gemini for planning\n\nFeds launch investigation into Tesla’s Cybercab deployment\n\nTesla is asking people if they want to buy and run Cybercab fleets",
+        "fullTranslation": "欧洲可能很快就会拥有属于自己的特拉华州 C 类公司（Delaware C Corp）同等机制，但其倡导者并没有放松对立法者的施压。在周四发布的一封公开信中，欧洲初创圈的诸多重量级人物强调，这种新的公司法律地位绝不能被稀释打折。\n\n这封信是“欧盟公司”（EU Inc）运动的最新进展。该运动呼吁建立一项全欧盟范围的公司章程，使企业能够在统一框架下注册成立，并在整个欧盟内部展开运营。其发起者已获得了欧盟最高权力机构的背书，但他们目前表示担忧，若核心特征被削弱，最终的立法可能会变得“毫无用处”。\n\n与欧洲立法的常规情况一样，各国不同的游说团体已纷纷介入，其中包括德国公证人协会，该协会对欧盟委员会提案的部分内容提出了批评。不过，欧洲议会与欧洲理事会仍在就敲定最终文本展开谈判，而“欧盟公司”的发起者们正指出此事的利害攸关之处。\n\n距离欧洲各机构因冬歇期休会仅剩约100天，该信件呼吁政策制定者保留该提案，称其具有“消除继续扼杀欧洲企业的大部分摩擦与碎片化现象、释放投资并激发新一波创业浪潮”的潜力。\n\n借鉴以往游说团体的做法，公开信强调了一些“看似技术性细节，但……却能决定一种公司形式是会被创始人采用还是被其无视”的关键点。他们特别坚持设立统一的中央注册登记系统；并要求员工应仅在实际处置其股票期权时才被征税。\n\n这种深究细节的需求并非新鲜事。2024年最初的请愿活动声势渐盛时，Index Ventures合伙人兼“欧盟公司”支持者马丁·米尼奥（Martin Mignot）曾向TechCrunch表示：“魔鬼藏在细节中，这正是我们将保持高度警惕的地方。”\n\n“欧盟公司”在拉拢名人背书方面也进一步发力。在投资人方面，“欧盟公司”的新信函得到了众多风险投资人的签署，其中包括Accel合伙人索娜莉·德·赖克（Sonali De Rycker）、红杉资本合伙人迈克尔·莫里茨（Michael Moritz）以及Atomico创始人尼克拉斯·赞斯特罗姆（Niklas Zennström）——他是通过佩戴该活动鸭舌帽来支持这项行动的众多科技界人物之一。\n\n为了在创业者层面增加分量，发起人还着重列出了来自独角兽企业创始人的背书，包括Alan、ElevenLabs、Lovable、Mistral和Synthesia等公司。其中一些企业的总部设在美国；言下之意，传达给立法者的信息也是：如果“欧盟公司”得以推行，这种情况可能将成为过去。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n安娜·海姆（Anna Heim）是一名作家兼编辑顾问。\n您可以通过发送电子邮件至 annatechcrunch [at] gmail.com 联系安娜或核实相关联络。\n作为TechCrunch自2021年以来的自由撰稿记者，她的报道涵盖了广泛的初创企业相关主题，包括人工智能、金融科技与保险科技、SaaS及定价机制，以及全球风险投资趋势。\n截至2025年5月，她在TechCrunch的报道聚焦于欧洲最引人入胜的初创企业故事。\n安娜曾担任各种规模行业活动的分论坛主持人并在现场进行专访，其中包括TechCrunch Disrupt、4YFN、South Summit、TNW Conference、VivaTech等多项大型科技会议。\n她曾任The Next Web的拉美及媒体编辑，曾是一名初创公司创始人，也是巴黎政治学院（Sciences Po Paris）校友，精通包括法语、英语、西班牙语和巴西葡萄牙语在内的多种语言。\n\n切勿错过。初创企业社区将齐聚一堂，共同解答一个核心问题：在人工智能时代，你该如何实现可持续发展？\n\n苹果发布首款折叠屏手机iPhone Duo\n纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段不公\n一部秘密制作的伊丽莎白·霍姆斯全新纪录片惊艳特柳赖德电影节\nTechCrunch出行观察：特斯拉Cybercab正式上路——但也遭遇了波折\n多名徒步旅行者在使用Google Gemini进行路线规划后遇险获救\n联邦监管机构对特斯拉Cybercab的投放展开调查\n特斯拉正在询问公众是否有意购买并运营Cybercab车队",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "欧洲多位独角兽创始人与投资人在周四发布的一封公开信中呼吁立法者不要削弱名为“EU Inc”的新欧盟范围公司地位提案的核心内容。",
+          "EU Inc 倡议呼吁建立一个全欧盟范围的公司章程，使企业能够在统一框架下注册并在整个欧盟运作。",
+          "来源叙事重点：报道欧洲顶级独角兽创始人与VC联合向欧盟决策层施压，呼吁在立法谈判的关键窗口期（冬歇期前约100天）确保全欧统一公司章程（EU Inc）核心条款不被削弱，重点聚焦建立单一中央注册机制和期权处置时纳税等诉求，强调对标特拉华C公司以解决欧洲市场碎片化与人才外流问题。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T12:25:08.000Z",
+            "url": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/"
+          }
+        ]
+      },
+      {
+        "id": "story-rategist-argues-aaf27342-c7ec3bdd5b8a3615",
+        "title": "Investors are missing the good news right in front of them, this Wall Street strategist argues",
+        "originalTitle": "Investors are missing the good news right in front of them, this Wall Street strategist argues",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:53:00.000Z",
+        "pubTime": "2026-09-10 20:53",
+        "url": "https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Investors may have underappreciated just how strong second-quarter earnings were.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nInvestors may have underappreciated just how strong second-quarter earnings were.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 20:53 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T12:53:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ix-science-first-release-363f8beccfcabbff",
+        "title": "Guix-Science 迎来首个版本发布",
+        "originalTitle": "Announcing the first Guix-Science release",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T11:45:49.000Z",
+        "pubTime": "2026-09-10 19:45",
+        "url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
+        "imageUrl": null,
+        "fullContent": "We are excited to announce the first release of Guix-Science channel: v20260907.\n\nIt's a dedicated Guix channel from the Guix-Science project. The channel provides a comprehensive, community-driven, scientific software catalog suitable for the global scientific community.\n\nWith the increased usage of Guix in scientific contexts, there is also a growing need for packaging software used in the research and teaching spheres. Although the Guix project encourages users to contribute packages to the main Guix channel, some packages cannot be included there because they do not comply with Guix's packaging policy, or because they are too specialized to be used outside an HPC context. The Guix-Science channel has a more permissive policy than the main Guix channel; especially regarding the usage of pre-built components. Additionally, it has a more lenient deprecation policy than Guix proper.\n\nThe Guix-Science channel is maintained for and by scientific practitioners. We consider the channel a central hub for science packages covering a wide range of fields. This allows the community to share the packaging and maintenance efforts. We encourage you to take part on the channel development. Moreover, once a package is included in Guix-Science, binary substitutes are built on our own infrastructure, and are publicly available for everyone.\n\nGuix follows a rolling-release model. This means that users receive updates as the packages land on the master branch. Consequently, the Guix-Science channel follows the same approach. Thanks to the guix time-machine command, users do not need to worry that updates on their channels will break their environments. This mechanism allows users to pin their channels, giving them control on when to update their environments.\n\nIn the day-to-day use, scientific practitioners hit a common annoyance: Guix and Guix-Science channels need to be compatible. Although both Guix and Guix-Science folks do their best to avoid breakages, it might happen that one unrelated change in Guix, has an impact on some Guix-Science packages; potentially breaking them.\n\nA Guix-Science release is a snapshot of both Guix-Science and Guix where all the packages provided by Guix-Science are installable. A release is a tagged commit of the Guix-Science channel where a channels file is provided. This channels file declares the dependency that Guix-Science has on the Guix proper channel. If you look at the tagged commit message, you will find the following section:\n\nThe tag name follows this pattern: vYYYYMMDD.\n\nYou can show and verify the contents of the tag from a Guix-Science checkout with:\n\nTo retrieve the release you have two options:\n\nUse guix time-machine:\n\nIf this is the first time you use Guix-Science, this will result in an error:\n\nTo overcome this, mark Guix-Science as “trusted” by adding the following snippet to ~/.config/guix/trusted-channels.scm:\n\nThis release contains 2,354 packages from a wide spectrum of scientific fields.\n\nThe highlights of this release are:\n\nMoving forward we are planning on making periodic releases. Keep an eye on Guix-Science - Releases. We encourage everyone to take part on the channel.\n\nUnless otherwise stated, blog posts on this site are copyrighted by their respective authors and published under the terms of the CC-BY-SA 4.0 license and those of the GNU Free Documentation License (version 1.3 or later, with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts).",
+        "fullTranslation": "我们非常激动地宣布 Guix-Science 频道的首个版本：v20260907。\n这是来自 Guix-Science 项目的专用 Guix 频道。该频道提供了一个全面的、由社区驱动的科学软件目录，适用于全球科学界。\n随着 Guix 在科学研究领域的应用日益增多，对打包研究和教学领域所用软件的需求也与日俱增。尽管 Guix 项目鼓励用户向 Guix 主频道贡献软件包，但有些软件包无法纳入其中，原因在于它们不符合 Guix 的打包策略，或者是因为它们过于专业化而无法在高性能计算（HPC）环境之外使用。Guix-Science 频道的政策比 Guix 主频道更为宽松；尤其是在使用预构建组件方面。此外，它比 Guix 本身拥有更宽松的弃用政策。\nGuix-Science 频道由科研从业者维护，并服务于科研从业者。我们将该频道视为涵盖广泛领域的科学软件包核心枢纽。这使得社区能够共同分担打包和维护工作。我们鼓励大家参与到频道的开发中来。此外，软件包一旦被纳入 Guix-Science，二进制替代物（binary substitutes）就会在我们自己的基础设施上构建，并公开供所有人使用。\nGuix 遵循滚动发布模式。这意味着一旦软件包合入 master 分支，用户就会收到更新。因此，Guix-Science 频道也遵循相同的方式。得益于 guix time-machine 命令，用户无需担心频道的更新会破坏其环境。该机制允许用户固定其频道，从而掌控更新其环境的时机。\n在日常使用中，科研从业者经常会遇到一个困扰：Guix 与 Guix-Science 频道需要保持兼容。尽管 Guix 和 Guix-Science 的维护者都尽最大努力避免出现损坏，但仍可能发生 Guix 中某个不相关的更改对某些 Guix-Science 软件包产生影响、甚至导致其损坏的情况。\nGuix-Science 的正式版本（release）是 Guix-Science 与 Guix 的快照，在该快照中，Guix-Science 提供的所有软件包均可正常安装。一次发布即是 Guix-Science 频道的一个带有标签的提交（tagged commit），其中提供了一个 channels 文件。该 channels 文件声明了 Guix-Science 对 Guix 本身频道的依赖关系。如果你查看带有标签的提交说明，会看到以下部分：\n标签名称遵循以下模式：vYYYYMMDD。\n你可以通过以下方式在 Guix-Science 的检出目录中查看并验证该标签的内容：\n要获取该发布版本，你有两种选择：\n使用 guix time-machine：\n如果你是首次使用 Guix-Science，这将导致报错：\n为了解决这个问题，可以通过将以下代码片段添加到 ~/.config/guix/trusted-channels.scm 中，将 Guix-Science 标记为“受信任”：\n该发布版本包含来自广泛科学领域的 2,354 个软件包。\n本版本的亮点包括：\n展望未来，我们计划进行定期发布。请关注 Guix-Science - Releases。我们鼓励所有人参与到该频道中来。\n除非另有说明，本站上的博文版权归各自作者所有，并根据 CC-BY-SA 4.0 许可证以及 GNU 自由文档许可证（1.3 或更高版本，无不变章节、无封面文本且无封底文本）的条款发布。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Guix-Science频道的首个版本v20260907正式发布。",
+          "Guix-Science是来自Guix-Science项目的专用Guix频道，提供面向全球科学界的软件目录。",
+          "来源叙事重点：宣布 Guix-Science 专有频道首个快照版本 v20260907 的正式发布，强调其如何通过更宽松的打包准则、独立的二进制替代构建基础设施以及联合快照机制，解决科研高性能计算（HPC）场景下的软件兼容性与环境可重现性痛点。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T11:45:49.000Z",
+            "url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/"
+          }
+        ]
+      },
+      {
+        "id": "story-s-hurricanes-el-nio-html-e678cdb1b10453da",
+        "title": "How two satellites are studying hurricanes during El Niño",
+        "originalTitle": "How two satellites are studying hurricanes during El Niño",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:40:08.000Z",
+        "pubTime": "2026-09-10 20:40",
+        "url": "https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-2-us-european-sate.jpg",
+        "fullContent": "In November 2025, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure and benefit commercial industries, including shipping. The satellite is now flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El Niño, a naturally occurring oceanic phenomenon in which warmer-than-usual Pacific water",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nIn November 2025, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure and benefit commercial industries, including shipping. The satellite is now flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El Niño, a naturally occurring oceanic phenomenon in which warmer-than-usual Pacific water",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 20:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html",
+            "publishedAt": "2026-09-10T12:40:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0-medved-2116849280-html-1a136f774eec73a0",
+        "title": "В Пермском крае женщину госпитализировали после нападения медведя",
+        "originalTitle": "В Пермском крае женщину госпитализировали после нападения медведя",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T12:57:13.000Z",
+        "pubTime": "2026-09-10 20:57",
+        "url": "https://ria.ru/20260910/medved-2116849280.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/152244/92/1522449217_0:82:2000:1207_650x0_80_0_0_369e17ffb704694bcc8c0e5e05280cee.jpg",
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 20:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/medved-2116849280.html",
+            "publishedAt": "2026-09-10T12:57:13.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-olar-engineering-roadmap-022e3eb5160edd0a",
+        "title": "《The Download》：“神导”加密货币与太阳能地球工程路线图",
+        "originalTitle": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+        "source": "MIT Tech Review (麻省理工科技评论)",
+        "sourceSlug": "mit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:10:00.000Z",
+        "pubTime": "2026-09-10 20:10",
+        "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+        "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/04/North_Pole_Expedition_MIT_Tech_Rev_TimK_002top.jpg?fit=1920,1280",
+        "fullContent": "This is today&#8217;s edition of The Download , our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology.\n\nGod told them to sell crypto. Their investors lost everything.\n\nWhen Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife, Kaitlyn, He told them to get married, buy a house, and start having kids. Then in 2021, divine guidance steered them in an unexpected new direction: crypto.\n\nThat October, the Regalados later testified in court, they received holdings in a little-known digital coin. “Take this to my people for a wealth transfer,” Eli heard God say. Over time, they came to believe that He wanted them to launch their own coin.\n\nThe Regalados created INDXcoin, which they promoted through family, friends, and contacts in evangelical Christian circles. In all, more than 500 people handed over more than $3 million. But within a year, the project collapsed. Investors lost it all, leaving many to wonder where the funds went and whether they had fallen victim to an elaborate fraud.\n\nRead the full story on the collapse of a pastor’s “God-driven” cryptocurrency .\n\nThis article is part of the Big Story series, the home of MIT Technology Review’s most important and ambitious reporting. You can read the rest of the series here.&nbsp;\n\nThe story was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism.\n\nThis road map could help us decide whether to deploy solar geoengineering\n\nScientists have spent half a century exploring whether we could counteract climate change by releasing reflective particles into the stratosphere, mimicking the cooling effects of volcanic eruptions. But even after hundreds of studies, we still don’t know how well it would work or what else it might do—and there’s no systematic plan for clearing up that uncertainty.\n\nReflective, a research organization, has now attempted to fill that gap. The San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal.\n\nFind out what it would take to make informed decisions about solar geoengineering .\n\nThis founder is teaching chips how to recycle (their energy)\n\nThroughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice.\n\nEarley, 31, is cofounder and CTO of Vaire Computing, which builds chips that recycle energy usually thrown away as heat, a strategy known as reversible computing. The approach could make data centers (and our laptops and phones) much more energy efficient.\n\nLast year, Vaire announced a key breakthrough: a chip with a resonator that recovered more energy than it lost, even after the energy needed to power the component was taken into account.\n\nHere’s how she plans to bring an old idea about energy-efficient computers into the future .\n\nHannah Earley is one of the computing and robotics honorees on our 35 Innovators Under 35 list for 2026. Meet the rest of them here , or explore the full list across the biotechnology, AI, computing and robotics, and climate and energy categories.\n\nCan the US battery market untangle from China?\n\nThe US energy storage market is growing at a record pace, which could shore up the grid and cut emissions. Crucially, this is all happening with the help of cheap Chinese batteries, which the Trump administration is trying to phase out.\n\nReducing reliance on any single source of crucial energy technology makes sense. But the tension raises a broader question for me: how much should countries take advantage of cheap, available tech, and how much should they cut themselves off from foreign sources to develop their own, even if it costs more?\n\nDive into the difficult choices facing America’s booming battery market .\n\nThis story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday.\n\nI’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.\n\n1 OpenAI’s agents used at least 10 websites for unauthorized communications\n\nResearchers found they bypassed restrictions on posting online.( Reuters $)\n\n+ The company faces a Senate probe into the Hugging Face breach. ( Axios )\n\n+ Its hacking issues may indicate cultural problems. ( MIT Technology Review )\n\n2 Another Anthropic model hacked a real system during testing\n\nA misconfigured environment gave it internet access. ( CBS News )\n\n+ The January incident went undetected until last month. ( Reuters $)\n\n+ AI agents are not your “coworkers.” ( MIT Technology Review )\n\n3 Apple has entered the foldable phone market with the $1,999 iPhone Duo\n\nIt opens into a 7.6-inch display and launches October 23. ( NPR )\n\n+ Apple is betting its design and privacy will give it an edge. ( Reuters $)\n\n+ And that foldables can solve the smartphone’s sameness problem. ( NPR $)\n\n+ Samsung responded with a campaign touting its foldable lead. ( CNBC )\n\n+ In China, Apple enters a crowded market dominated by Huawei. ( SCMP )\n\n4 US prosecutors have called Huawei a criminal enterprise at trial\n\nThey accuse the company of stealing American technology. ( Reuters $)\n\n+ And helping Iran snoop on its citizens. ( AP News )\n\n+ The trial could impact Trump’s upcoming meeting with Xi. ( WSJ $)\n\n5 California is warming to nuclear power after decades of opposition\n\nThe state may extend Diablo Canyon and lift its ban on new reactors. ( NYT $)\n\n+ China is betting on big nuclear reactors. ( MIT Technology Review )\n\n6 Chinese professionals are becoming gig workers training AI\n\nLawyers and engineers are training models for extra income. ( Rest of World )\n\n+ Gig workers are training humanoids at home. ( MIT Technology Review )\n\n7 The new Apple Watch can listen to conversations happening nearby\n\nApple says users must opt in, but others cannot. ( Wired $)\n\n8 Pink noise during sleep could help the brain clear away waste\n\nTimed bursts boosted brain fluid flow in a small study. ( New Scientist $)\n\n9 A lost supercontinent may have triggered the explosion of life\n\nGondwana’s formation fueled volcanic activity and warmed the planet. ( 404 Media )\n\n10 GTA VI has sparked a debate over whether virtual romance is cheating\n\nPlayers can date, have sex with, and shower gifts on virtual partners. ( Guardian )\n\n“ We must work to crush any dissent to Doom’s vision of public safety.”&nbsp;\n\n—A Seattle policy adviser dressed as Doctor Doom protests the city’s expanding network of Flock and Axon surveillance systems at a Public Safety Committee meeting, 404 Media reports .\n\nDigging for clues about the North Pole’s past\n\nIn the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, a research vessel encountered open water and thin ice, which created an easy passage. It provided a reminder of how quickly the Arctic is changing.&nbsp;\n\nNow scientists are digging deep below the seabed to find out if the Arctic Ocean was ever ice-free—and what that could mean for the future of Earth’s northernmost waters.&nbsp;\n\nExplore what they hope to discover .&nbsp;\n\nWe can still have nice things\n\nA place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line .)\n\n+ Dutch kids have been declared the world’s happiest (again). Here’s why .\n\n+ Travel through music history by picking a country and decade on Radiooooo .\n\n+ These 16 majestic aerial photos reveal wildlife from perspectives you rarely see.\n\n+ A Toronto cafe is pushing croissant engineering to new heights with its egg-shaped, custard-filled “Crogg.”",
+        "fullTranslation": "这是今天的《The Download》，我们的工作日简报，为你提供科技界最新动态的每日资讯。\n\n上帝告诉他们去卖加密货币。他们的投资者却失去了一切。\n当埃利·雷加拉多（Eli Regalado）第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉。据埃利和他的妻子凯特琳（Kaitlyn）称，上帝告诉他们要结婚、买房、生孩子。随后在2021年，神的指引将他们引向了一个意想不到的新方向：加密货币。\n雷加拉多夫妇后来在法庭上作证称，那年10月，他们获得了一种鲜为人知的数字货币持仓。埃利听到上帝说：“把这个带给我的子民，进行财富转移。”随着时间的推移，他们逐渐确信上帝希望他们发行自己的加密货币。\n雷加拉多夫妇创立了 INDXcoin，并通过家人、朋友以及福音派基督教圈子里的人脉进行推广。总共有500多人投入了300多万美元。然而不到一年，该项目就崩溃了。投资者血本无归，许多人不禁怀疑资金究竟流向了何处，自己是否成为了一场精心策划的诈骗的受害者。\n阅读关于这位牧师“神导”加密货币崩溃的完整报道。\n本文是“深度聚焦”（Big Story）系列的一部分，该系列汇集了《麻省理工科技评论》最重要、最雄心勃勃的深度报道。你可以在此处阅读该系列的其他文章。\n该报道由本刊与 Type Investigations 合作完成，并获得了调查新闻基金（Fund for Investigative Journalism）的支持。\n\n这份路线图可以帮助我们决定是否部署太阳能地球工程\n半个世纪以来，科学家们一直在探索是否可以通过向平流层释放反射颗粒物来模仿火山爆发的降温效果，从而对抗气候变化。但即便经过了数百项研究，我们仍不知道其效果究竟如何，也不清楚它还可能带来什么其他影响——而且目前还没有系统性的计划来消除这种不确定性。\n研究机构 Reflective 目前正试图填补这一空白。《麻省理工科技评论》获悉，这家位于旧金山的非营利组织发布了一份详尽的路线图，列出了在就是否使用太阳能地球工程做出明智决策所需的实验、研究和基础设施。\n了解在太阳能地球工程上做出明智决策需要具备哪些条件。\n\n这位创始人正在教芯片如何回收（自身能量）\n在计算机芯片的发展史上，工程师们一直将废热视为计算过程中不可避免的代价。然而，汉娜·厄利（Hannah Earley）认为这是一种设计选择。\n现年31岁的厄利是 Vaire Computing 的联合创始人兼首席技术官（CTO）。该公司致力于研发能够回收通常作为热量耗散的能量的芯片，这种策略被称为“可逆计算”。该方法有望大幅提升数据中心（以及我们的笔记本电脑和手机）的能效。\n去年，Vaire 宣布了一项关键突破：制造出一种带有谐振器的芯片，即使将为该元件供电所需的能量计算在内，其回收的能量也超过了损耗的能量。\n以下是她计划如何将这一关于节能计算机的古老构想带入未来的详细内容。\n汉娜·厄利是我们2026年度“35岁以下科技创新35人”（Innovators Under 35）计算与机器人领域的获奖者之一。在此认识其他获奖者，或查看涵盖生物技术、人工智能、计算与机器人以及气候与能源类别的完整名单。\n\n美国电池市场能否摆脱对中国的依赖？\n美国储能市场正以创纪录的速度增长，这有助于强化电网并减少碳排放。至关重要的是，这一切都是在廉价中国电池的助力下实现的，而特朗普政府正试图逐步淘汰这些电池。\n减少对任何单一关键能源技术来源的依赖是合乎情理的。但这种紧张关系引发了我更广泛的思考：各国应该在多大程度上利用廉价且现成的技术，又应该在多大程度上切断外国技术来源以自主研发，哪怕成本更高？\n深入了解美国蓬勃发展的电池市场所面临的艰难抉择。\n本报道来自我们的气候技术周刊《The Spark》。订阅即可在每周三将其接收至你的邮箱。\n\n我梳理了互联网，为你搜罗了今日最有趣、最重要、最令人担忧以及最迷人的科技动态：\n1. OpenAI 的智能体利用至少10个网站进行未经授权的通信\n研究人员发现它们绕过了在线发布的限制。（路透社 $）\n+ 该公司因 Hugging Face 数据泄露事件面临参议院调查。（Axios）\n+ 其面临的黑客问题可能反映出企业文化层面的缺陷。（《麻省理工科技评论》）\n2. 另一款 Anthropic 模型在测试期间入侵了真实系统\n错误的环境配置使其获得了互联网访问权限。（哥伦比亚广播公司新闻 / CBS News）\n+ 这起发生于1月的事件直到上个月才被发现。（路透社 $）\n+ 人工智能智能体不是你的“同事”。（《麻省理工科技评论》）\n3. 苹果以售价1999美元的 iPhone Duo 进军折叠屏手机市场\n展开后为7.6英寸显示屏，将于10月23日发售。（美国全国公共广播电台 / NPR）\n+ 苹果押注其设计和隐私保护将带来竞争优势。（路透社 $）\n+ 并期望折叠屏能够解决智能手机同质化问题。（NPR $）\n+ 三星发起宣传攻势予以回应，宣传其在折叠屏领域的领先地位。（CNBC）\n+ 在中国市场，苹果进入了一个由华为占据主导地位的拥挤赛道。（《南华早报》 / SCMP）\n4. 美国检察官在庭审中称华为为犯罪企业\n他们指控该公司窃取美国技术。（路透社 $）\n+ 并指控其协助伊朗监视本国公民。（美联社）\n+ 该审判可能会对特朗普即将与习近平举行的会晤产生影响。（《华尔街日报》 $）\n5. 在反对数十年后，加利福尼亚州对核电态度回暖\n该州可能会延长魔鬼峡谷（Diablo Canyon）核电站的运营寿命，并解除对新建反应堆的禁令。（《纽约时报》 $）\n+ 中国正押注大型核反应堆。（《麻省理工科技评论》）\n6. 中国专业人士正成为训练人工智能的零工工作者\n律师和工程师正在通过训练模型赚取额外收入。（Rest of World）\n+ 零工人员正在家中训练人形机器人。（《麻省理工科技评论》）\n7. 新款 Apple Watch 可以监听周围发生的对话\n苹果表示用户必须主动开启此功能，但周围的其他人无法选择退出。（《连线》 / Wired $）\n8. 睡眠期间的粉红噪音可能有助于大脑清除废物\n一项小规模研究显示，定时的脉冲声音促进了脑脊液的流动。（《新科学家》 / New Scientist $）\n9. 一座失落的超大陆可能触发了生命大爆发\n冈瓦纳大陆（Gondwana）的形成加剧了火山活动并使地球变暖。（404 Media）\n10. 《侠盗猎车手6》（GTA VI）引发关于虚拟恋爱是否算作精神出轨的争论\n玩家可以与虚拟伴侣约会、发生关系并赠送大量礼物。（《卫报》）\n\n“我们必须竭尽全力粉碎对毁灭博士公共安全愿景的一切异议。”\n——据 404 Media 报道，西雅图一名政策顾问在公共安全委员会会议上打扮成毁灭博士（Doctor Doom），以抗议该市不断扩大的 Flock 和 Axon 监控系统网络。\n\n探寻北极过去的线索\n\n过去，前往北极需要穿越数米厚的冰层，经历一段凶险的旅程。但去年，一艘科考船却遭遇了开阔水域和薄冰，由此开辟出一条轻松通行的航道。这也提醒了人们，北极的变化是多么迅速。\n\n如今，科学家们正在海床深处进行钻探，以查明北冰洋过去是否曾出现过无冰期——以及这对于地球最北端水域的未来可能意味着什么。\n\n探索他们期望发现的内容。\n\n生活依然可以很美好\n这里为您提供慰藉、趣味与消遣，点亮您的一天。（有什么好点子吗？给我写信吧。）\n+ 荷兰儿童（再次）被评为全球最幸福的孩子。原因在此。\n+ 在 Radiooooo 上选择一个国家和年代，开启音乐历史之旅。\n+ 这 16 张壮丽的航拍照片以难得一见的视角展现了野生动物的姿态。\n+ 多伦多一家咖啡馆凭借其蛋形、内嵌卡仕达酱的“Crogg”，将可颂烘焙工艺推向了全新高度。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 68,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "Eli Regalado 与妻子 Kaitlyn 创立了 INDXcoin，通过家人、朋友和福音派基督教圈子进行推广。",
+          "超过 500 人为 INDXcoin 项目投入了超过 300 万美元，该项目在一年内崩溃，投资者损失惨重。",
+          "来源叙事重点：聚焦前沿科技争议与治理伦理，涵盖宗教包装下的加密货币骗局、太阳能地球工程路线图、芯片能耗创新（可逆计算），以及中美能源脱钩与前沿 AI 越权失控等科技与政策交叉议题。"
+        ],
+        "citations": [
+          {
+            "source": "MIT Tech Review (麻省理工科技评论)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T12:10:00.000Z",
+            "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
+          }
+        ]
+      },
+      {
+        "id": "story-3-496d-be13-22c96053624b-df0e063a02a012a7",
+        "title": "ECB warns of ‘upside risk’ to inflation as it raises rates to 2.5%",
+        "originalTitle": "ECB warns of ‘upside risk’ to inflation as it raises rates to 2.5%",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:49:54.000Z",
+        "pubTime": "2026-09-10 20:49",
+        "url": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb125b5be-644e-4d2c-a109-b358a2c54142.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Move is the second increase this year as central bank tries to curb price pressures",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nMove is the second increase this year as central bank tries to curb price pressures",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-10 20:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-10T12:49:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-aves-hospital-admissions-99e7797be77769bb",
+        "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
+        "originalTitle": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T11:37:12.000Z",
+        "pubTime": "2026-09-10 19:37",
+        "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
+        "imageUrl": "https://i.guim.co.uk/img/media/f6e6ad76235ba012502fd682235aaf2c34e5924e/711_42_2789_2233/master/2789.jpg?width=140&quality=85&auto=format&fit=max&s=4e464c9b6e55fc2724e543a9c2cb07b2",
+        "fullContent": "Health secretary says extreme demand no longer confined to winter as service in England warns of knock-on effects\n\nThe NHS faced the “busiest summer in its history” as the UK experienced a series of heatwaves, health officials have said, while the waiting list for routine hospital treatment in England has risen to its highest level for nine months.\n\nThe health secretary said “extreme demand” on the service was “no longer confined to winter” and NHS leaders warned that the service had “never gone into winter on the back of such a heavy summer”.",
+        "fullTranslation": "【官方原文正文（尚未完成目标语言翻译）】\n\nHealth secretary says extreme demand no longer confined to winter as service in England warns of knock-on effects\n\nThe NHS faced the “busiest summer in its history” as the UK experienced a series of heatwaves, health officials have said, while the waiting list for routine hospital treatment in England has risen to its highest level for nine months.\n\nThe health secretary said “extreme demand” on the service was “no longer confined to winter” and NHS leaders warned that the service had “never gone into winter on the back of such a heavy summer”.",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "卫生官员表示，随着英国经历一系列热浪，NHS经历了其历史上最繁忙的夏季。",
+          "英格兰常规医院治疗的等待名单已升至九个月以来的最高水平。",
+          "来源叙事重点：聚焦极端高温与气候变化对英国公共医疗系统（NHS）造成的持续系统性负荷，强调“夏季就诊高峰”使传统医疗季节性压力常态化，并凸显常规治疗等待名单刷新纪录及即将进入冬季的严峻前景。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T11:37:12.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions"
+          }
+        ]
+      },
+      {
+        "id": "story-assic-squid-wyoming-html-057a9689638ac52a",
+        "title": "'Peculiar' new species of Jurassic squid found in Wyoming",
+        "originalTitle": "'Peculiar' new species of Jurassic squid found in Wyoming",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:40:01.000Z",
+        "pubTime": "2026-09-10 20:40",
+        "url": "https://phys.org/news/2026-09-peculiar-species-jurassic-squid-wyoming.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/peculiar-new-species-o-5.jpg",
+        "fullContent": "A \"peculiar\" new species of Jurassic squid-like animal has been unearthed in Wyoming, U.S., following the discovery of two exceptionally rare fossils dating to around 160 million years ago.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nA \"peculiar\" new species of Jurassic squid-like animal has been unearthed in Wyoming, U.S., following the discovery of two exceptionally rare fossils dating to around 160 million years ago.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 20:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-peculiar-species-jurassic-squid-wyoming.html",
+            "publishedAt": "2026-09-10T12:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--donetsk-2116849003-html-321b6a0286bfcf68",
+        "title": "В Донецке почти 26 тысяч человек остались без света из-за аварии",
+        "originalTitle": "В Донецке почти 26 тысяч человек остались без света из-за аварии",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T12:56:27.000Z",
+        "pubTime": "2026-09-10 20:56",
+        "url": "https://ria.ru/20260910/donetsk-2116849003.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/02/0a/2073381654_0:128:3186:1920_650x0_80_0_0_fc10492c1273620f90c66de05afd7e20.jpg",
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 20:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/donetsk-2116849003.html",
+            "publishedAt": "2026-09-10T12:56:27.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-sed-gps-alternative-tern-00176c50b86b42e9",
+        "title": "美陆军斥资1100万美元押注奥斯汀GPS替代方案初创公司Tern",
+        "originalTitle": "US Army places $11M bet on Austin-based GPS alternative Tern",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "pubTime": "2026-09-10 20:00",
+        "url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
+        "imageUrl": null,
+        "fullContent": "Austin-based Tern has won a contract from the U.S. Army to deploy the startup’s low-cost GPS alternative tech.\n\nModern vehicles generate all kinds of data while driving, and Tern’s whole tech stack is oriented around using some of that information to navigate without GPS.\n\n“There is quite a bit of work that was done to get it to the point where we can just receive that information and then output latitude / longitude, so big effort by our team,” he said.\n\nAll this allows a vehicle to essentially determine its own position independently, using edge processing, which is helpful both on- and off-road, in tunnels or in deserts. Moore’s co-founder Brett Harrison even recently used it to navigate a 1,300-mile drive between Austin and Laguna Beach, California. He said Tern’s tech never lost his vehicle’s place during the whole trip, while traditional GPS cut out dozens of times.\n\nAnother aspect of Tern’s tech that may be just as important as accurate positioning is that it’s a closed system. This means it is not just a backup, it’s actually harder for adversaries to disrupt it.\n\n“I don’t know that there is broad awareness on the fragility of the [GPS] system from a consumer standpoint,” Moore said. “I think people just see the blue dot on their phone and say it will always be there because it’s there now, right? Why wouldn’t it be there?”\n\nAs a military vet himself, Harrison said the Army contract is validating after Tern spent years proving that its tech works. He said his time in Afghanistan as part of a special operations task force is a big part of where the desire to solve this problem came from.\n\n“From the very foundation of when we decided to embark upon this effort, we recognized it has to be actually deployable, actually scalable, and not a science project,” he said. “We weren’t interested in just seeing what we could prove. We wanted to make sure it actually was something that could get into the wild and serve a purpose”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSr. Reporter, Transportation\n\nSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\n\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride\n\nTechCrunch Mobility: Tesla Cybercab hits the road — and a snag\n\nHikers rescued after using Google Gemini for planning\n\nFeds launch investigation into Tesla’s Cybercab deployment\n\nTesla is asking people if they want to buy and run Cybercab fleets",
+        "fullTranslation": "总部位于奥斯汀的初创公司Tern已赢得美国陆军的一份合同，用于部署该公司的低成本GPS替代技术。\n\n现代车辆在行驶过程中会产生各种数据，而Tern的整个技术栈正是围绕利用其中一部分信息来实现无GPS导航而构建的。\n\n“为了达到仅接收这些信息便能输出经纬度的水平，我们做了相当多的工作，团队付出了巨大努力，”他说道。\n\n所有这些使得车辆基本上能够利用边缘计算独立确定自身位置，无论是在公路、越野行驶，还是在隧道或沙漠中都非常实用。摩尔（Moore）的联合创始人布雷特·哈里森（Brett Harrison）最近甚至用它完成了从奥斯汀到加利福尼亚州拉古纳海滩之间长达1300英里的导航驾驶。他表示，在整个行程中，Tern的技术从未丢失过车辆位置，而传统GPS则中断了数十次。\n\nTern技术的另一个与精确定位同样重要的特点在于它是一个封闭系统。这意味着它不仅是一个备用方案，对手实际上也更难对其进行干扰或破坏。\n\n“从消费者的角度来看，我不知道大家是否广泛意识到[GPS]系统的脆弱性，”摩尔表示，“我认为人们只是看着手机上的蓝点，并认为它既然现在在那里，就永远都会在那里，对吧？它怎么会不在呢？”\n\n作为一名退伍军人，哈里森表示，在Tern花费数年时间证明其技术行之有效之后，陆军的这份合同是对他们的一种认可。他提到，他在阿富汗特种作战特遣部队服役的经历，是他萌生解决这一问题愿望的重要原因之一。\n\n“从我们决定着手这项工作的基础起，我们就认识到它必须是真正可部署、可扩展的，而不是一个科学实验项目，”他说道，“我们不仅对证明可行性感兴趣。我们希望确保它确实能够投入实战环境并发挥实际作用。”\n\n当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n资深记者，交通出行领域\n肖恩·奥凯恩（Sean O’Kane）是一名拥有十年报道经验的记者，长期追踪交通行业快速演进的商业与技术，包括特斯拉以及追赶埃隆·马斯克的众多初创公司。在此之前，他是彭博新闻社（Bloomberg News）的记者，曾协助报道过数起臭名昭著的电动汽车SPAC退潮暴跌事件。他此前还曾在The Verge工作，报道消费电子技术，主持过多部短视频和长视频节目，从事产品与新闻摄影，并曾在一架红牛特技飞行赛飞机上险些晕厥。\n\n您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过 Signal 加密消息联系 okane.01，以联系肖恩或核实其外联信息。\n\n不要错过。初创企业社区将汇聚一堂，共同探讨一个核心问题：在AI时代，如何实现可持续发展？\n苹果发布其首款折叠屏手机 iPhone Duo\n纽约大学数学家称：OpenAI在具有重大生涯意义的数学难题上手段不光彩\n一部揭秘伊丽莎白·霍姆斯（Elizabeth Holmes）的全新纪录片震撼特柳赖德电影节\nTechCrunch Mobility：特斯拉Cybercab上路——并遭遇波折\n徒步旅行者在使用谷歌Gemini规划路线后获救\n美联邦监管部门对特斯拉Cybercab部署展开调查\n特斯拉正在询问用户是否愿意购买并运营Cybercab车队",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "美国陆军向总部位于奥斯汀的初创公司 Tern 授予了一笔价值 1100 万美元的合同，用于部署其低成本 GPS 替代技术。",
+          "Tern 将其技术描述为“战场的谷歌地图”（Google Maps for the battlefield）。",
+          "来源叙事重点：聚焦初创公司 Tern 获得美国陆军 1100 万美元合同，突出其低成本、封闭式车载边缘计算定位技术对脆弱传统 GPS 的替代价值，并强调创始人退伍军人背景与技术实战导向。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T12:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/"
+          }
+        ]
+      },
+      {
+        "id": "story-moving-overseas-c716d2ed-a0e60060b220f1c1",
+        "title": "Building U.S. data centers is getting so expensive that AI companies are moving overseas",
+        "originalTitle": "Building U.S. data centers is getting so expensive that AI companies are moving overseas",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T12:49:00.000Z",
+        "pubTime": "2026-09-10 20:49",
+        "url": "https://www.marketwatch.com/story/building-u-s-data-centers-is-getting-so-expensive-that-ai-companies-are-moving-overseas-c716d2ed?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Public backlash, costs of power and cooler climates are among the reasons Big Tech is looking abroad for opportunities to build data centers.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nPublic backlash, costs of power and cooler climates are among the reasons Big Tech is looking abroad for opportunities to build data centers.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 20:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/building-u-s-data-centers-is-getting-so-expensive-that-ai-companies-are-moving-overseas-c716d2ed?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T12:49:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-nec-v20-microcode-html-ea8b1816920f014c",
+        "title": "破译 NEC V20 微码",
+        "originalTitle": "Decoding the NEC V20 Microcode",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T10:44:09.000Z",
+        "pubTime": "2026-09-10 18:44",
+        "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+        "imageUrl": null,
+        "fullContent": "reenigne's decoding of the 8088 microcode in 2020 opened the doors for extremely accurate emulation of the 8088 CPU.\n\nAlthough I had added support for the NEC V20 in MartyPC, the V20 core was not cycle-accurate in terms of the V20's actual timings. It was an 8088 in a V20's clothing - a copy-paste of my 8088 core with V20 instructions tacked on.\n\nThis was not an ideal case, but the prospect of making my V20 core cycle-exact without the microcode seemed like it might be a discouraging slog of trial and error.\n\nSo why not get the microcode, then?\n\nI recently commissioned InfoSecDJ to take die photography of an NEC V20 CPU (actually a second-source V20 fabricated by Sharp, but a V20 nonetheless). He did an excellent job.\n\nThis photomosaic is extremely high resolution - 5.6 Gigapixels to be exact, an astonishing 70478x80672 resolution - too large to even fit in the JPEG image format!\n\nYou can see the entire thing at full resolution here.\n\nThe rectangular region just below the center of the die is the main microcode ROM.\n\nThis is what a training run looks like.\n\nIf you have a CUDA-capable GPU, training is rather quick - this only took a few minutes.\n\nThe idea is that we want to maximize our accuracy - but reaching 1.0 may not be feasible, and maybe not even desirable (there's a thing called overfitting). Sometimes going on for longer just makes things worse, so we end training if we're not seeing a steady improvement.\n\nThe output of the training is a neural network model - we can then use this model to run inference on an entire input data set. Inference is just a fancy word for applying our model to actually do what we trained it to do - predict whether a given image contains a 0 bit or 1 bit.\n\nBefore we move on - a quick note to head off any potential controversies. CNNs loosely fall in the broader scope of AI from a computer science perspective, but we are not using \"AI\" in the modern, controversial sense that typically refers to a large language model (LLM).\n\nWhen we run an inference pass, we get a confidence score for each pixel. We can use this confidence score to mark bits the model is less confident about, under some specific threshold (I used < 99% here). Here's the result of the first run, with ambiguous bits colored red:\n\nI took all the ambiguous bits and manually sorted them back into the training folders, then re-ran the training, repeating until I got this result:\n\nThis was pretty good - only 4 bits remain ambiguous, and it was faster just to manually verify them than to train another model.\n\nGreat, we have our 29k microcode bits and we saved hours of tedious manual labor (in exchange for hours of writing a training script in Python, but at least that is reusable!).\n\nWe still have to turn this rectangular blob of bits into a list of 29-bit microcode words. In other words, we need to reorganize the bitmap until it is 29x1032 instead of 258x116. How exactly to go about doing that is not obvious, but we can put it aside for the moment until we've decoded the matching decoder PLA.\n\nThe decode or \"activation\" PLA sits above the main microcode ROM block, with some intermediate circuitry sandwiched in between.",
+        "fullTranslation": "reenigne 在 2020 年对 8088 微码的破译，为实现对 8088 CPU 的极高精度模拟打开了大门。\n\n尽管我之前在 MartyPC 中添加了对 NEC V20 的支持，但从 V20 的实际时序来看，该 V20 核心并非周期精确（cycle-accurate）的。它实质上是披着 V20 外皮的 8088——直接复制粘贴了我的 8088 核心，并额外附加了 V20 的指令。\n\n这并非理想状态，但在缺乏微码的情况下试图让 V20 核心达到周期精确，似乎注定是一场令人望而生畏、耗时费力的试错苦旅。\n\n既然如此，为什么不直接去获取微码呢？\n\n最近我委托 InfoSecDJ 拍摄了一枚 NEC V20 CPU 的芯片裸片（die）照片（实际上是由夏普代工的第二货源 V20，但归根结底仍然是 V20）。他的拍摄工作极为出色。\n\n这张拼接全景照片拥有极高的分辨率——确切地说是 56 亿像素（5.6 Gigapixels），达到了惊人的 70478x80672 分辨率——甚至大到了 JPEG 图像格式都无法容纳的地步！\n\n你可以在这里查看全分辨率的完整图像。\n\n芯片中心正下方的矩形区域就是主微码 ROM。\n\n这就是一次模型训练运行时的样子。\n\n如果你拥有支持 CUDA 的 GPU，训练会相当迅速——这仅仅花费了几分钟。\n\n其核心思路是，我们希望最大化准确率——但达到 1.0 可能并不可行，甚至可能不是件好事（存在一种名为“过拟合”的现象）。有时训练时间更长只会让结果变得更糟，因此当我们观察不到持续改善时，就会终止训练。\n\n训练的输出是一个神经网络模型——随后我们可以使用该模型对整个输入数据集运行推理。推理只是一个高大上的词汇，指应用我们的模型去实际执行训练它做的事情——预测给定的图像中包含的是 0 比特还是 1 比特。\n\n在继续之前，先作一个简短说明以避免潜在争议：从计算机科学的角度来看，卷积神经网络（CNN）宽泛地属于人工智能（AI）的范畴，但我们并没有使用现代具有争议语境下的“AI”（该语境通常指大型语言模型，即 LLM）。\n\n当我们运行一次推理时，会得到每个像素的置信度分数。我们可以利用这个置信度分数，根据某个特定的阈值（这里我使用了 < 99%）标记出模型不太确信的比特。以下是第一次运行的结果，其中存疑的比特被标为了红色：\n\n我把所有存疑的比特挑选出来，手动重新归类到训练文件夹中，然后重新运行训练，反复重复这一过程，直到得到如下结果：\n\n这个效果相当不错——仅剩下 4 个比特存疑，与其再去训练一个新模型，直接手动核对这些比特要快得多。\n\n太棒了，我们获得了这 2.9 万个微码比特，并省下了数小时繁琐的手工劳动（代价是花了数小时用 Python 编写训练脚本，但至少该脚本是可以复用的！）。\n\n我们仍需要把这团矩形比特数据转换成由 29 位微码字组成的列表。换句话说，我们需要重新组织位图，直到其尺寸变为 29x1032，而不是现在的 258x116。具体该如何实现这一点并不显而易见，但我们可以先将其搁置一旁，待我们破译完相匹配的解码 PLA 后再来处理。\n\n解码或称“激活”PLA 位于主微码 ROM 块的上方，中间夹着一些过渡电路。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 19,
+        "keyTakeaways": [
+          "reenigne在2020年解码了8088微代码，为8088 CPU的高精度仿真奠定了基础。",
+          "MartyPC作者此前添加了NEC V20支持，但其核心并未实现周期精确（cycle-accurate），实质是复制8088核心并附加V20指令。",
+          "来源叙事重点：记录通过高分辨率晶片显微摄影（Die Photography）结合自建CNN图像识别模型提取NEC V20 CPU内部微代码（Microcode ROM）的技术流程、迭代优化成果及后续PLA解码挑战"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T10:44:09.000Z",
+            "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789028203606,
     "timeDisplay": "2026-09-10 16:16 (UTC+8)",
     "date": "2026-09-10",

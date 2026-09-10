@@ -21,14 +21,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **15** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **16** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 16:16 (UTC+8)
+- **最新归档时间**：2026-09-10 21:00 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 21:00 (UTC+8)" title="全球要闻情报简报 · 21:00" org="ARCHIVE"}
+**速报纪要：** 全球多源监控全景简报。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [Почти 49 тыс объектов недвижимости зарегистрировали в Подмосковье в 2026 г](https://ria.ru/20260910/nedvizhimost-2116849441.html) <span class="news-meta-time">🕒 2026-09-10 20:57</span>
+- [TechCrunch (硅谷创业与资本)] [欧洲初创公司创始人与风投呼吁立法者“确保‘欧盟公司’机制落到实处”](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/) <span class="news-meta-time">🕒 2026-09-10 20:25</span>
+- [MarketWatch Top Stories (市场观察)] [Investors are missing the good news right in front of them, this Wall Street strategist argues](https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 20:53</span>
+- [Lobste.rs (极客思想社区)] [Guix-Science 迎来首个版本发布](https://hpc.guix.info/blog/2026/09/guix-science-first-release/) <span class="news-meta-time">🕒 2026-09-10 19:45</span>
+- [Phys.org (基础物理与技术前沿)] [How two satellites are studying hurricanes during El Niño](https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html) <span class="news-meta-time">🕒 2026-09-10 20:40</span>
+- [RIA Novosti (俄新社官方俄文)] [В Пермском крае женщину госпитализировали после нападения медведя](https://ria.ru/20260910/medved-2116849280.html) <span class="news-meta-time">🕒 2026-09-10 20:57</span>
+:::
 :::timeline-item{start="2026-09-10 16:16 (UTC+8)" title="全球要闻情报简报 · 16:16" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-10 16:14 (UTC+8) 完成，共获得 789 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
