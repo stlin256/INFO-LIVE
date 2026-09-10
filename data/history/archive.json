@@ -1,5 +1,1542 @@
 [
   {
+    "timestamp": 1789028203606,
+    "timeDisplay": "2026-09-10 16:16 (UTC+8)",
+    "date": "2026-09-10",
+    "runId": "feed-20260910T081450970Z-sxd3zd",
+    "generatedAt": "2026-09-10T08:16:43.606Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 16:14",
+      "lead": "本轮抓取于 2026-09-10 16:14 (UTC+8) 完成，共获得 789 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【RIA Novosti (俄新社官方俄文)】В Днепропетровске прогремели взрывы",
+        "【RIA Novosti (俄新社官方俄文)】СВР: ЕС приветствует активизацию на Украине дискуссии о мобилизации женщин",
+        "【RIA Novosti (俄新社官方俄文)】Дамоклов меч в виде НАБУ навис над украинскими политиками, пишут СМИ",
+        "【RIA Novosti (俄新社官方俄文)】ISU назвал число спортсменов, подавших заявку на нейтральный статус",
+        "【ANSA Mondo (意大利安莎社官方意大利文)】Media, gli Houthi hanno conquistato la città yemenita di Mocha sul Mar Rosso：Reuters sul sito: 'Ribelli filo-iran si avvicinano al controllo di Bab el-Mandeb'",
+        "【Deutsche Welle (EN 官方英语)】Ecuador: Ex-president Bucaram sentenced in corruption case：Abdala Bucaram, Ecuador's former president, was convicted of organized crime for his role in the illegal sale of COVID-19 tests and medical supplies, receiving a prison sentence of over nine years.",
+        "【RIA Novosti (俄新社官方俄文)】Симоньян предложила помощь пострадавшим от атак катеров ВСУ в Сочи",
+        "【TASS (塔斯社官方英文)】IN BRIEF: Civilian killed as Ukraine launches 448 drones at Russia overnight：Twenty-eight civilians were injured in a Ukrainian unmanned boat attack on the seafront in the Black Sea resort of Sochi"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "每日要闻简报：俄乌空袭与黑海海域冲突持续，中东及国际反腐局势引关注",
+      "lead": "本期监测显示，俄乌前线及后方冲突烈度不减，俄罗斯黑海度假地索契遭无人艇袭击，同时乌克兰多地传出爆炸声与动员政策讨论。此外，也门胡塞武装控制红海要地莫卡港，厄瓜多尔前总统因腐败案获刑，国际多领域动态频发。",
+      "themes": [
+        {
+          "name": "俄乌冲突多点升级与后方动态",
+          "analysis": "乌克兰夜间向俄罗斯境内发射数百架无人机，并使用无人艇袭击索契海滨，造成平民伤亡与财产损失；与此同时，第聂伯罗彼得罗夫斯克发生爆炸。在内政与动员方面，俄罗斯对外情报局称欧盟支持乌克兰扩大女性动员讨论，同时乌克兰国家反腐败局（NABU）的调查行动也对乌本土政界构成持续震慑。"
+        },
+        {
+          "name": "红海区域安全态势紧张",
+          "analysis": "据媒体报道，也门胡塞武装已控制红海重要港口城市莫卡（Mocha），战线进一步逼近曼德海峡关键航道，中东红海海域的航运安全和地缘政治对抗面临新的复杂局面。"
+        },
+        {
+          "name": "全球反腐与法治动向",
+          "analysis": "厄瓜多尔司法机构对前总统阿夫达拉·布卡拉姆作出宣判，其因在疫情期间非法贩卖检测制剂及医疗物资构成有组织犯罪，获刑超过九年，体现出该国对重大公共腐败行为的严厉问责。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 65,
+      "completedTasks": 65,
+      "succeeded": 61,
+      "degraded": 4,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 65,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 112596,
+      "byRole": {
+        "translator": {
+          "attempts": 52,
+          "succeeded": 49,
+          "degraded": 3
+        },
+        "fact-extractor": {
+          "attempts": 3,
+          "succeeded": 3
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 3,
+          "succeeded": 3
+        },
+        "topic-classifier": {
+          "attempts": 3,
+          "succeeded": 3
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 65,
+          "succeeded": 61,
+          "degraded": 4
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-20-translator-0",
+      "article-31-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:30.132Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.632Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:30.143Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.647Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.333Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.457Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.352Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.644Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.686Z",
+        "lastSuccessAt": "2026-09-10T08:14:34.196Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.614Z",
+        "lastSuccessAt": "2026-09-10T08:14:34.074Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:34.196Z",
+        "lastSuccessAt": "2026-09-10T08:14:34.434Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:30.464Z",
+        "lastSuccessAt": "2026-09-10T08:14:30.544Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.632Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.751Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.523Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.765Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.131Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.312Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:30.878Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.352Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:30.640Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.523Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:30.673Z",
+        "lastSuccessAt": "2026-09-10T08:14:30.878Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:34.026Z",
+        "lastSuccessAt": "2026-09-10T08:14:34.576Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.974Z",
+        "lastSuccessAt": "2026-09-10T08:14:34.680Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:33.651Z",
+        "lastSuccessAt": "2026-09-10T08:14:34.068Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.644Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.023Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.312Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.381Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.246Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.333Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:30.416Z",
+        "lastSuccessAt": "2026-09-10T08:14:30.464Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:29.370Z",
+        "lastSuccessAt": "2026-09-10T08:14:30.416Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.976Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.202Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.872Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.614Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.652Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.916Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.916Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.136Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.202Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.749Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.640Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.708Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:34.068Z",
+        "lastSuccessAt": "2026-09-10T08:14:36.901Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.982Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.208Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.294Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.686Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.208Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.294Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.543Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.974Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:34.074Z",
+        "lastSuccessAt": "2026-09-10T08:14:34.810Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.381Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.492Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.647Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.369Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.765Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.976Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.370Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.833Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-10T08:14:32.136Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.067Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.543Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:29.368Z",
+        "lastSuccessAt": "2026-09-10T08:14:30.640Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.239Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.715Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:29.369Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.246Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.715Z",
+        "lastSuccessAt": "2026-09-10T08:14:34.756Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.751Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.982Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:30.544Z",
+        "lastSuccessAt": "2026-09-10T08:14:30.673Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.023Z",
+        "lastSuccessAt": "2026-09-10T08:14:32.067Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.708Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.872Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.749Z",
+        "lastSuccessAt": "2026-09-10T08:14:33.651Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:32.833Z",
+        "lastSuccessAt": "2026-09-10T08:14:34.026Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.492Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.640Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:31.457Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.652Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:29.352Z",
+        "lastSuccessAt": "2026-09-10T08:14:30.132Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:29.365Z",
+        "lastSuccessAt": "2026-09-10T08:14:30.143Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T08:14:29.367Z",
+        "lastSuccessAt": "2026-09-10T08:14:31.131Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-petrovsk-2116762733-html-f02f7adb5a10f508",
+        "title": "В Днепропетровске прогремели взрывы",
+        "originalTitle": "В Днепропетровске прогремели взрывы",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T08:13:11.000Z",
+        "pubTime": "2026-09-10 16:13",
+        "url": "https://ria.ru/20260910/dnepropetrovsk-2116762733.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 16:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/dnepropetrovsk-2116762733.html",
+            "publishedAt": "2026-09-10T08:13:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--phev-specs-price-gemini-69d7dfad775d8d7f",
+        "title": "沃尔沃 XC40 PHEV 重磅回归：全新外观、更强传感器并搭载 Gemini AI",
+        "originalTitle": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T07:00:00.000Z",
+        "pubTime": "2026-09-10 15:00",
+        "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships early next year, the new XC40 will have updated exterior styling, a gut-renovated interior featuring Google's Gemini AI assistant, enlarged infotainment screen, and a new sensor-and-software safety suite.\n\nAs a hybrid, the XC40 serves as a bridge for customers who want better gas mileage but aren't ready for the pure EV lifestyle. Volvo itself needs t …\n\nRead the full story at The Verge.",
+        "fullTranslation": "自沃尔沃停产插电式混合动力版 XC40 以来，已经过去了大约三年时间。其轻度混合动力版本目前仍在包括美国在内的多个市场销售，与纯电动的 EX40 并行。今天，沃尔沃宣布将重新带回 PHEV 插电混动版本，并为其进行重大改款。当全新 XC40 于明年初进驻经销商展厅时，将拥有焕然一新的外观造型、经过全面翻新的内饰（搭载谷歌 Gemini AI 助手）、更大尺寸的信息娱乐屏幕，以及一套全新的传感器与软件安全套件。\n\n作为一款混合动力车型，XC40 为那些希望获得更高燃油经济性、但尚未做好全面拥抱纯电动车生活方式准备的客户架起了一座桥梁。沃尔沃自身也需要……\n\n前往 The Verge 阅读完整报道。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "沃尔沃宣布重新推出插电式混合动力（PHEV）版本的 XC40，距离该版本停产约已有三年时间。",
+          "XC40 轻混版本和纯电动的 EX40 仍在包括美国在内的市场正常销售。",
+          "来源叙事重点：聚焦沃尔沃重新推出XC40插混版车型的商业动作与科技升级，重点突出其搭载谷歌Gemini AI助手、改款外观内饰以及作为向纯电动过渡桥梁车型的市场定位"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T07:00:00.000Z",
+            "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini"
+          }
+        ]
+      },
+      {
+        "id": "story-ector-long-term-0213d051-f092e60dae32237f",
+        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+        "originalTitle": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T07:29:00.000Z",
+        "pubTime": "2026-09-10 15:29",
+        "url": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "While there’s a bear case to be made on copper if the AI trade blows up, if Trump eschews tariffs or if peace descends over the Persian Gulf, the long-term rationale for higher prices is solid, a listed copper producer executive says.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nWhile there’s a bear case to be made on copper if the AI trade blows up, if Trump eschews tariffs or if peace descends over the Persian Gulf, the long-term rationale for higher prices is solid, a listed copper producer executive says.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 15:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T07:29:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lodymyr-zelenskyy-visits-aca8e0e8510884af",
+        "title": "Ukrainian President Volodymyr Zelenskyy visits Canada",
+        "originalTitle": "Ukrainian President Volodymyr Zelenskyy visits Canada",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T02:09:20.000Z",
+        "pubTime": "2026-09-10 10:09",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/",
+        "imageUrl": "https://external-preview.redd.it/E7WZ1ar3ONCqAIrtTS-3up8IYPD0ATJ9yoZo-A0Ylbo.jpeg?width=320&crop=smart&auto=webp&s=a3caa0773dadadaffde200e2e9dea15a7c6f9cda",
+        "fullContent": "submitted by /u/Portalrules123 [link] [comments]",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nsubmitted by /u/Portalrules123 [link] [comments]",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-10 10:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/",
+            "publishedAt": "2026-09-10T02:09:20.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--seattle-washington-html-45b0d8e00123ee0d",
+        "title": "Coyote density is 9 times higher in Seattle than in Washington's wildlands",
+        "originalTitle": "Coyote density is 9 times higher in Seattle than in Washington's wildlands",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T08:00:01.000Z",
+        "pubTime": "2026-09-10 16:00",
+        "url": "https://phys.org/news/2026-09-coyote-density-higher-seattle-washington.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/coyote-density-is-9-ti.jpg",
+        "fullContent": "Once coyotes get a taste for city living, the call of the wild fades to a whisper. Food is abundant and predators are few. Research indicates that coyotes enjoy the benefits of urban areas enough to put up with all the people, and Seattle is no exception.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nOnce coyotes get a taste for city living, the call of the wild fades to a whisper. Food is abundant and predators are few. Research indicates that coyotes enjoy the benefits of urban areas enough to put up with all the people, and Seattle is no exception.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 16:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-coyote-density-higher-seattle-washington.html",
+            "publishedAt": "2026-09-10T08:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0910-svr-2116762641-html-b71077d43b531974",
+        "title": "СВР: ЕС приветствует активизацию на Украине дискуссии о мобилизации женщин",
+        "originalTitle": "СВР: ЕС приветствует активизацию на Украине дискуссии о мобилизации женщин",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T08:12:57.000Z",
+        "pubTime": "2026-09-10 16:12",
+        "url": "https://ria.ru/20260910/svr-2116762641.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/03/06/1931389951_0:0:2989:1681_650x0_80_0_0_70bf3c39c786435c8a0a0cf306b5130b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 16:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/svr-2116762641.html",
+            "publishedAt": "2026-09-10T08:12:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-atus-2097930608790167907-7ba51a4b17fc44c1",
+        "title": "DeepSeek v4.1 Flash",
+        "originalTitle": "DeepSeek v4.1 Flash",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T06:11:05.000Z",
+        "pubTime": "2026-09-10 14:11",
+        "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+        "imageUrl": null,
+        "fullContent": "See what’s happening and join the conversation",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nSee what’s happening and join the conversation",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 14:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+            "publishedAt": "2026-09-10T06:11:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-for-lng-exporters-html-a95f3caffd5af75b",
+        "title": "澳大利亚放宽对LNG出口商的天然气预留规定",
+        "originalTitle": "Australia Softens Gas Reservation Rule for LNG Exporters",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T07:00:00.000Z",
+        "pubTime": "2026-09-10 15:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Softens-Gas-Reservation-Rule-for-LNG-Exporters.html",
+        "imageUrl": null,
+        "fullContent": "Australia&rsquo;s government has relaxed gas supply rules for producers aimed at securing enough gas for the domestic market. Originally, the rules stipulated that producers should reserve 20% of output for the Australian market. Now, the proposal is for up to 20% of output to be reserved for the domestic market. The proposal was first tabled in May this year, in response to worry about looming gas shortages in parts of the country, notably the east coast. The east coast of Australia is particularly vulnerable to supply shortages. Last year, the country's competition regulator warned the market could swing into a deficit by December. That danger was temporarily averted thanks to the Australian Domestic Gas Security Mechanism, but the competition authority still warned last year that the risk of shortages remains. Now, however, the government has established that if producers reserve some of their output for the domestic market, they could inject an additional 200 petajoules into domestic supply. This is more than enough to offset projected shortages of some 140 petajoules, Energy Minister Chris Bowen said, as quoted by Reuters. &ldquo;The scheme ensures domestic customers can buy from a larger pool of gas, reducing the risk of tight market conditions driving price spikes, promoting long-term contracting and shielding them from global volatility,&rdquo; the official said in a statement today. The actual portion of output to be reserved by each LNG producer would be determined by the Australian Energy Regulator. The energy industry is far from thrilled with this policy, however. The idea of gas reserve mandates first emerged in 2017, leading to the Australian Domestic Gas Security Mechanism aimed at making sure one of the top global exporters of liquefied natural gas did not suffer shortages at home due to excessive exports. The current rules build on that mechanism to further strengthen gas supply security. By Irina Slav for Oilprice.com",
+        "fullTranslation": "澳大利亚政府放宽了针对天然气生产商的供应规定，该规定旨在确保国内市场获得充足的天然气。最初，相关规定要求生产商将产量的20%预留给澳大利亚国内市场。如今，这项新提案修改为预留给国内市场的比例“最高可达20%”。\n\n该提案于今年5月首次提出，旨在应对澳大利亚部分地区（尤其是东海岸）对迫在眉睫的天然气短缺问题的担忧。澳大利亚东海岸尤其容易受到供应短缺的影响。去年，澳大利亚竞争监管机构曾警告称，市场可能在12月前陷入短缺局面。得益于《澳大利亚国内天然气安全机制》（ADGSM），这一风险当时得以暂时化解，但竞争监管机构去年仍发出警告，称短缺风险依然存在。\n\n然而，政府如今认定，如果生产商将部分产量预留给国内市场，便可向国内供应额外注入200拍焦耳（petajoules）的天然气。路透社援引能源部长克里斯·鲍恩（Chris Bowen）的话称，这足以弥补预计约140拍焦耳的短缺缺口。\n\n“该方案确保国内客户能够从更大的天然气供应池中进行采购，从而降低市场供需趋紧导致价格飙升的风险，促进长期合同的签订，并使他们免受全球市场波动的冲击，”这位官员在今天的一份声明中表示。\n\n每家液化天然气（LNG）生产商所需预留的实际产量比例将由澳大利亚能源监管机构（Australian Energy Regulator）决定。\n\n然而，能源行业对这项政策反应冷淡。天然气强制预留的想法最早出现于2017年，并由此催生了《澳大利亚国内天然气安全机制》，旨在确保这个全球主要液化天然气出口国之一不会因过度出口而面临国内供应短缺。目前的规定正是在该机制的基础上进一步加强天然气供应安全。\n\n文/Irina Slav，Oilprice.com",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "澳大利亚政府放宽了针对天然气生产商的国内供应规则，将最初规定的保留20%产量改为最高保留20%（up to 20%）。",
+          "该提案于当年5月首次提出，旨在应对包括东海岸在内的部分地区迫在眉睫的天然气短缺风险。",
+          "来源叙事重点：聚焦澳大利亚政府对液化天然气（LNG）出口商国内配额政策的微调与放宽（由硬性20%调整为最高20%），强调政府在保障国内供应安全与应对行业阻力之间的政策平衡。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T07:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Softens-Gas-Reservation-Rule-for-LNG-Exporters.html"
+          }
+        ]
+      },
+      {
+        "id": "story-into-a-care-home-podcast-fbdbe8a37e5f4b1f",
+        "title": "搬进养老院的年轻健康荷兰人——播客",
+        "originalTitle": "The young and healthy Dutchman who moved into a care home - podcast",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T02:00:12.000Z",
+        "pubTime": "2026-09-10 10:00",
+        "url": "https://www.theguardian.com/news/audio/2026/sep/10/the-young-and-healthy-dutchman-who-moved-into-a-care-home-podcast",
+        "imageUrl": "https://i.guim.co.uk/img/media/aed1958a63e697346db476733de90437e1698599/763_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=619f688505cb18689ef8a8c6e346add8",
+        "fullContent": "Nurse Teun Toebes and filmmaker Jonathan de Jong argue for a radical new approach to treating – and giving freedom to – people with dementia, showcased in their new film and book, Human Forever.\n\nTeun Toebes was 17, a student nurse, when he first entered a care home. He entered, he remembers, “the closed ward”, where residents were locked inside. It illustrated perfectly, he thought, “how we have lost the plot” when it comes to treating dementia.\n\nTeun – together with filmmaker Jonathan de Jong – have just released a documentary, Forever Human, on his journey in care since: living for years in homes across the Netherlands, and then travelling beyond to find the best examples of dementia care across the world.",
+        "fullTranslation": "护士特恩·托贝斯（Teun Toebes）与电影制作人乔纳森·德容（Jonathan de Jong）主张采用一种全新的激进方法来对待失智症患者并赋予他们自由，这一理念在他们的新电影和新书《永远是人》（Human Forever）中得到了充分展现。\n\n特恩·托贝斯第一次走进养老院时只有17岁，当时还是一名护理专业学生。他回忆说，自己走进了“封闭病房”，住在那里的老人都被锁在里面。在他看来，这生动地说明了我们在对待失智症时“是如何彻底迷失方向的”。\n\n特恩与电影制作人乔纳森·德容刚刚联合推出了一部名为《永远是人》（Forever Human）的纪录片，记录了他自那以后的照护历程：他先是在荷兰各地的养老院生活了数年，随后又走出国门，在世界各地寻找失智症照护的最佳典范。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "护士 Teun Toebes 与电影制作人 Jonathan de Jong 主张采取一种全新激进的方法来对待和赋予痴呆症（失智症）患者自由，并在他们的新电影和新书中进行了展示。",
+          "Teun Toebes 首次进入护理院时是一名 17 岁的实习护士。",
+          "来源叙事重点：聚焦荷兰年轻护士 Teun Toebes 亲自入住养老院的亲身体验，以及他与导演合作推出的纪录片/新书，批判传统封闭式失智症护理模式，主张赋予患者自由与尊严的激进改革"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T02:00:12.000Z",
+            "url": "https://www.theguardian.com/news/audio/2026/sep/10/the-young-and-healthy-dutchman-who-moved-into-a-care-home-podcast"
+          }
+        ]
+      },
+      {
+        "id": "story-h-scientists-august-html-89ad07101efb3b3b",
+        "title": "Global heat stuck on high. Scientists say August was Earth's hottest month they've measured.",
+        "originalTitle": "Global heat stuck on high. Scientists say August was Earth's hottest month they've measured.",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T07:50:01.000Z",
+        "pubTime": "2026-09-10 15:50",
+        "url": "https://phys.org/news/2026-09-global-stuck-high-scientists-august.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-heat-stuck-on-h.jpg",
+        "fullContent": "Earth cooked to its hottest month on record in August, blowing far past a key climate threshold, due to the dangerous double whammy of human-caused climate change and a supersized El Niño, according to the European climate service Copernicus.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nEarth cooked to its hottest month on record in August, blowing far past a key climate threshold, due to the dangerous double whammy of human-caused climate change and a supersized El Niño, according to the European climate service Copernicus.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 15:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-global-stuck-high-scientists-august.html",
+            "publishedAt": "2026-09-10T07:50:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-910-nabu-2116762225-html-edcc1adeb710f440",
+        "title": "Дамоклов меч в виде НАБУ навис над украинскими политиками, пишут СМИ",
+        "originalTitle": "Дамоклов меч в виде НАБУ навис над украинскими политиками, пишут СМИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T08:11:05.000Z",
+        "pubTime": "2026-09-10 16:11",
+        "url": "https://ria.ru/20260910/nabu-2116762225.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 16:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/nabu-2116762225.html",
+            "publishedAt": "2026-09-10T08:11:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tao-117244102901892965-08a5f3c876b9fd83",
+        "title": "All grown-ups were once children, but only few of them remember it",
+        "originalTitle": "All grown-ups were once children, but only few of them remember it",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T04:04:38.000Z",
+        "pubTime": "2026-09-10 12:04",
+        "url": "https://mathstodon.xyz/@tao/117244102901892965",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nComments",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 12:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://mathstodon.xyz/@tao/117244102901892965",
+            "publishedAt": "2026-09-10T04:04:38.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-4992-887d-f34c81c100ab-aa2621559ac9fe92",
+        "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
+        "originalTitle": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T05:44:06.000Z",
+        "pubTime": "2026-09-10 13:44",
+        "url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F162613cd-81d8-4844-9553-6a2c87f0c425.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\n10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-10 13:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-10T05:44:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-craft-suffered-damage-in-39c0faf8749be9ab",
+        "title": "Multiple US military aircraft suffered damage in overnight strikes on Jordan air base, CBS says",
+        "originalTitle": "Multiple US military aircraft suffered damage in overnight strikes on Jordan air base, CBS says",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T01:50:31.000Z",
+        "pubTime": "2026-09-10 09:50",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wc5bec/multiple_us_military_aircraft_suffered_damage_in/",
+        "imageUrl": null,
+        "fullContent": "submitted by /u/momoali11 [link] [comments]",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nsubmitted by /u/momoali11 [link] [comments]",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-10 09:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wc5bec/multiple_us_military_aircraft_suffered_damage_in/",
+            "publishedAt": "2026-09-10T01:50:31.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-petrovsk-2116762733-html-f02f7adb5a10f508",
+        "title": "В Днепропетровске прогремели взрывы",
+        "originalTitle": "В Днепропетровске прогремели взрывы",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T08:13:11.000Z",
+        "pubTime": "2026-09-10 16:13",
+        "url": "https://ria.ru/20260910/dnepropetrovsk-2116762733.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 16:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/dnepropetrovsk-2116762733.html",
+            "publishedAt": "2026-09-10T08:13:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--phev-specs-price-gemini-69d7dfad775d8d7f",
+        "title": "沃尔沃 XC40 PHEV 重磅回归：全新外观、更强传感器并搭载 Gemini AI",
+        "originalTitle": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T07:00:00.000Z",
+        "pubTime": "2026-09-10 15:00",
+        "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships early next year, the new XC40 will have updated exterior styling, a gut-renovated interior featuring Google's Gemini AI assistant, enlarged infotainment screen, and a new sensor-and-software safety suite.\n\nAs a hybrid, the XC40 serves as a bridge for customers who want better gas mileage but aren't ready for the pure EV lifestyle. Volvo itself needs t …\n\nRead the full story at The Verge.",
+        "fullTranslation": "自沃尔沃停产插电式混合动力版 XC40 以来，已经过去了大约三年时间。其轻度混合动力版本目前仍在包括美国在内的多个市场销售，与纯电动的 EX40 并行。今天，沃尔沃宣布将重新带回 PHEV 插电混动版本，并为其进行重大改款。当全新 XC40 于明年初进驻经销商展厅时，将拥有焕然一新的外观造型、经过全面翻新的内饰（搭载谷歌 Gemini AI 助手）、更大尺寸的信息娱乐屏幕，以及一套全新的传感器与软件安全套件。\n\n作为一款混合动力车型，XC40 为那些希望获得更高燃油经济性、但尚未做好全面拥抱纯电动车生活方式准备的客户架起了一座桥梁。沃尔沃自身也需要……\n\n前往 The Verge 阅读完整报道。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "沃尔沃宣布重新推出插电式混合动力（PHEV）版本的 XC40，距离该版本停产约已有三年时间。",
+          "XC40 轻混版本和纯电动的 EX40 仍在包括美国在内的市场正常销售。",
+          "来源叙事重点：聚焦沃尔沃重新推出XC40插混版车型的商业动作与科技升级，重点突出其搭载谷歌Gemini AI助手、改款外观内饰以及作为向纯电动过渡桥梁车型的市场定位"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T07:00:00.000Z",
+            "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini"
+          }
+        ]
+      },
+      {
+        "id": "story-ector-long-term-0213d051-f092e60dae32237f",
+        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+        "originalTitle": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T07:29:00.000Z",
+        "pubTime": "2026-09-10 15:29",
+        "url": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "While there’s a bear case to be made on copper if the AI trade blows up, if Trump eschews tariffs or if peace descends over the Persian Gulf, the long-term rationale for higher prices is solid, a listed copper producer executive says.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nWhile there’s a bear case to be made on copper if the AI trade blows up, if Trump eschews tariffs or if peace descends over the Persian Gulf, the long-term rationale for higher prices is solid, a listed copper producer executive says.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 15:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T07:29:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lodymyr-zelenskyy-visits-aca8e0e8510884af",
+        "title": "Ukrainian President Volodymyr Zelenskyy visits Canada",
+        "originalTitle": "Ukrainian President Volodymyr Zelenskyy visits Canada",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T02:09:20.000Z",
+        "pubTime": "2026-09-10 10:09",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/",
+        "imageUrl": "https://external-preview.redd.it/E7WZ1ar3ONCqAIrtTS-3up8IYPD0ATJ9yoZo-A0Ylbo.jpeg?width=320&crop=smart&auto=webp&s=a3caa0773dadadaffde200e2e9dea15a7c6f9cda",
+        "fullContent": "submitted by /u/Portalrules123 [link] [comments]",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nsubmitted by /u/Portalrules123 [link] [comments]",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-10 10:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/",
+            "publishedAt": "2026-09-10T02:09:20.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--seattle-washington-html-45b0d8e00123ee0d",
+        "title": "Coyote density is 9 times higher in Seattle than in Washington's wildlands",
+        "originalTitle": "Coyote density is 9 times higher in Seattle than in Washington's wildlands",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T08:00:01.000Z",
+        "pubTime": "2026-09-10 16:00",
+        "url": "https://phys.org/news/2026-09-coyote-density-higher-seattle-washington.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/coyote-density-is-9-ti.jpg",
+        "fullContent": "Once coyotes get a taste for city living, the call of the wild fades to a whisper. Food is abundant and predators are few. Research indicates that coyotes enjoy the benefits of urban areas enough to put up with all the people, and Seattle is no exception.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nOnce coyotes get a taste for city living, the call of the wild fades to a whisper. Food is abundant and predators are few. Research indicates that coyotes enjoy the benefits of urban areas enough to put up with all the people, and Seattle is no exception.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 16:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-coyote-density-higher-seattle-washington.html",
+            "publishedAt": "2026-09-10T08:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0910-svr-2116762641-html-b71077d43b531974",
+        "title": "СВР: ЕС приветствует активизацию на Украине дискуссии о мобилизации женщин",
+        "originalTitle": "СВР: ЕС приветствует активизацию на Украине дискуссии о мобилизации женщин",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T08:12:57.000Z",
+        "pubTime": "2026-09-10 16:12",
+        "url": "https://ria.ru/20260910/svr-2116762641.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/03/06/1931389951_0:0:2989:1681_650x0_80_0_0_70bf3c39c786435c8a0a0cf306b5130b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 16:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/svr-2116762641.html",
+            "publishedAt": "2026-09-10T08:12:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-atus-2097930608790167907-7ba51a4b17fc44c1",
+        "title": "DeepSeek v4.1 Flash",
+        "originalTitle": "DeepSeek v4.1 Flash",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T06:11:05.000Z",
+        "pubTime": "2026-09-10 14:11",
+        "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+        "imageUrl": null,
+        "fullContent": "See what’s happening and join the conversation",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nSee what’s happening and join the conversation",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 14:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+            "publishedAt": "2026-09-10T06:11:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-for-lng-exporters-html-a95f3caffd5af75b",
+        "title": "澳大利亚放宽对LNG出口商的天然气预留规定",
+        "originalTitle": "Australia Softens Gas Reservation Rule for LNG Exporters",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T07:00:00.000Z",
+        "pubTime": "2026-09-10 15:00",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Softens-Gas-Reservation-Rule-for-LNG-Exporters.html",
+        "imageUrl": null,
+        "fullContent": "Australia&rsquo;s government has relaxed gas supply rules for producers aimed at securing enough gas for the domestic market. Originally, the rules stipulated that producers should reserve 20% of output for the Australian market. Now, the proposal is for up to 20% of output to be reserved for the domestic market. The proposal was first tabled in May this year, in response to worry about looming gas shortages in parts of the country, notably the east coast. The east coast of Australia is particularly vulnerable to supply shortages. Last year, the country's competition regulator warned the market could swing into a deficit by December. That danger was temporarily averted thanks to the Australian Domestic Gas Security Mechanism, but the competition authority still warned last year that the risk of shortages remains. Now, however, the government has established that if producers reserve some of their output for the domestic market, they could inject an additional 200 petajoules into domestic supply. This is more than enough to offset projected shortages of some 140 petajoules, Energy Minister Chris Bowen said, as quoted by Reuters. &ldquo;The scheme ensures domestic customers can buy from a larger pool of gas, reducing the risk of tight market conditions driving price spikes, promoting long-term contracting and shielding them from global volatility,&rdquo; the official said in a statement today. The actual portion of output to be reserved by each LNG producer would be determined by the Australian Energy Regulator. The energy industry is far from thrilled with this policy, however. The idea of gas reserve mandates first emerged in 2017, leading to the Australian Domestic Gas Security Mechanism aimed at making sure one of the top global exporters of liquefied natural gas did not suffer shortages at home due to excessive exports. The current rules build on that mechanism to further strengthen gas supply security. By Irina Slav for Oilprice.com",
+        "fullTranslation": "澳大利亚政府放宽了针对天然气生产商的供应规定，该规定旨在确保国内市场获得充足的天然气。最初，相关规定要求生产商将产量的20%预留给澳大利亚国内市场。如今，这项新提案修改为预留给国内市场的比例“最高可达20%”。\n\n该提案于今年5月首次提出，旨在应对澳大利亚部分地区（尤其是东海岸）对迫在眉睫的天然气短缺问题的担忧。澳大利亚东海岸尤其容易受到供应短缺的影响。去年，澳大利亚竞争监管机构曾警告称，市场可能在12月前陷入短缺局面。得益于《澳大利亚国内天然气安全机制》（ADGSM），这一风险当时得以暂时化解，但竞争监管机构去年仍发出警告，称短缺风险依然存在。\n\n然而，政府如今认定，如果生产商将部分产量预留给国内市场，便可向国内供应额外注入200拍焦耳（petajoules）的天然气。路透社援引能源部长克里斯·鲍恩（Chris Bowen）的话称，这足以弥补预计约140拍焦耳的短缺缺口。\n\n“该方案确保国内客户能够从更大的天然气供应池中进行采购，从而降低市场供需趋紧导致价格飙升的风险，促进长期合同的签订，并使他们免受全球市场波动的冲击，”这位官员在今天的一份声明中表示。\n\n每家液化天然气（LNG）生产商所需预留的实际产量比例将由澳大利亚能源监管机构（Australian Energy Regulator）决定。\n\n然而，能源行业对这项政策反应冷淡。天然气强制预留的想法最早出现于2017年，并由此催生了《澳大利亚国内天然气安全机制》，旨在确保这个全球主要液化天然气出口国之一不会因过度出口而面临国内供应短缺。目前的规定正是在该机制的基础上进一步加强天然气供应安全。\n\n文/Irina Slav，Oilprice.com",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "澳大利亚政府放宽了针对天然气生产商的国内供应规则，将最初规定的保留20%产量改为最高保留20%（up to 20%）。",
+          "该提案于当年5月首次提出，旨在应对包括东海岸在内的部分地区迫在眉睫的天然气短缺风险。",
+          "来源叙事重点：聚焦澳大利亚政府对液化天然气（LNG）出口商国内配额政策的微调与放宽（由硬性20%调整为最高20%），强调政府在保障国内供应安全与应对行业阻力之间的政策平衡。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T07:00:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Softens-Gas-Reservation-Rule-for-LNG-Exporters.html"
+          }
+        ]
+      },
+      {
+        "id": "story-into-a-care-home-podcast-fbdbe8a37e5f4b1f",
+        "title": "搬进养老院的年轻健康荷兰人——播客",
+        "originalTitle": "The young and healthy Dutchman who moved into a care home - podcast",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T02:00:12.000Z",
+        "pubTime": "2026-09-10 10:00",
+        "url": "https://www.theguardian.com/news/audio/2026/sep/10/the-young-and-healthy-dutchman-who-moved-into-a-care-home-podcast",
+        "imageUrl": "https://i.guim.co.uk/img/media/aed1958a63e697346db476733de90437e1698599/763_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=619f688505cb18689ef8a8c6e346add8",
+        "fullContent": "Nurse Teun Toebes and filmmaker Jonathan de Jong argue for a radical new approach to treating – and giving freedom to – people with dementia, showcased in their new film and book, Human Forever.\n\nTeun Toebes was 17, a student nurse, when he first entered a care home. He entered, he remembers, “the closed ward”, where residents were locked inside. It illustrated perfectly, he thought, “how we have lost the plot” when it comes to treating dementia.\n\nTeun – together with filmmaker Jonathan de Jong – have just released a documentary, Forever Human, on his journey in care since: living for years in homes across the Netherlands, and then travelling beyond to find the best examples of dementia care across the world.",
+        "fullTranslation": "护士特恩·托贝斯（Teun Toebes）与电影制作人乔纳森·德容（Jonathan de Jong）主张采用一种全新的激进方法来对待失智症患者并赋予他们自由，这一理念在他们的新电影和新书《永远是人》（Human Forever）中得到了充分展现。\n\n特恩·托贝斯第一次走进养老院时只有17岁，当时还是一名护理专业学生。他回忆说，自己走进了“封闭病房”，住在那里的老人都被锁在里面。在他看来，这生动地说明了我们在对待失智症时“是如何彻底迷失方向的”。\n\n特恩与电影制作人乔纳森·德容刚刚联合推出了一部名为《永远是人》（Forever Human）的纪录片，记录了他自那以后的照护历程：他先是在荷兰各地的养老院生活了数年，随后又走出国门，在世界各地寻找失智症照护的最佳典范。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "护士 Teun Toebes 与电影制作人 Jonathan de Jong 主张采取一种全新激进的方法来对待和赋予痴呆症（失智症）患者自由，并在他们的新电影和新书中进行了展示。",
+          "Teun Toebes 首次进入护理院时是一名 17 岁的实习护士。",
+          "来源叙事重点：聚焦荷兰年轻护士 Teun Toebes 亲自入住养老院的亲身体验，以及他与导演合作推出的纪录片/新书，批判传统封闭式失智症护理模式，主张赋予患者自由与尊严的激进改革"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T02:00:12.000Z",
+            "url": "https://www.theguardian.com/news/audio/2026/sep/10/the-young-and-healthy-dutchman-who-moved-into-a-care-home-podcast"
+          }
+        ]
+      },
+      {
+        "id": "story-h-scientists-august-html-89ad07101efb3b3b",
+        "title": "Global heat stuck on high. Scientists say August was Earth's hottest month they've measured.",
+        "originalTitle": "Global heat stuck on high. Scientists say August was Earth's hottest month they've measured.",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T07:50:01.000Z",
+        "pubTime": "2026-09-10 15:50",
+        "url": "https://phys.org/news/2026-09-global-stuck-high-scientists-august.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/global-heat-stuck-on-h.jpg",
+        "fullContent": "Earth cooked to its hottest month on record in August, blowing far past a key climate threshold, due to the dangerous double whammy of human-caused climate change and a supersized El Niño, according to the European climate service Copernicus.",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nEarth cooked to its hottest month on record in August, blowing far past a key climate threshold, due to the dangerous double whammy of human-caused climate change and a supersized El Niño, according to the European climate service Copernicus.",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 15:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-global-stuck-high-scientists-august.html",
+            "publishedAt": "2026-09-10T07:50:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-910-nabu-2116762225-html-edcc1adeb710f440",
+        "title": "Дамоклов меч в виде НАБУ навис над украинскими политиками, пишут СМИ",
+        "originalTitle": "Дамоклов меч в виде НАБУ навис над украинскими политиками, пишут СМИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T08:11:05.000Z",
+        "pubTime": "2026-09-10 16:11",
+        "url": "https://ria.ru/20260910/nabu-2116762225.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【未获取到官方正文，暂不生成未经证实的替代内容】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 16:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/nabu-2116762225.html",
+            "publishedAt": "2026-09-10T08:11:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tao-117244102901892965-08a5f3c876b9fd83",
+        "title": "All grown-ups were once children, but only few of them remember it",
+        "originalTitle": "All grown-ups were once children, but only few of them remember it",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T04:04:38.000Z",
+        "pubTime": "2026-09-10 12:04",
+        "url": "https://mathstodon.xyz/@tao/117244102901892965",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nComments",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 12:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://mathstodon.xyz/@tao/117244102901892965",
+            "publishedAt": "2026-09-10T04:04:38.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-4992-887d-f34c81c100ab-aa2621559ac9fe92",
+        "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
+        "originalTitle": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T05:44:06.000Z",
+        "pubTime": "2026-09-10 13:44",
+        "url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F162613cd-81d8-4844-9553-6a2c87f0c425.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\n10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-10 13:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-10T05:44:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-craft-suffered-damage-in-39c0faf8749be9ab",
+        "title": "Multiple US military aircraft suffered damage in overnight strikes on Jordan air base, CBS says",
+        "originalTitle": "Multiple US military aircraft suffered damage in overnight strikes on Jordan air base, CBS says",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T01:50:31.000Z",
+        "pubTime": "2026-09-10 09:50",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wc5bec/multiple_us_military_aircraft_suffered_damage_in/",
+        "imageUrl": null,
+        "fullContent": "submitted by /u/momoali11 [link] [comments]",
+        "fullTranslation": "【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\nsubmitted by /u/momoali11 [link] [comments]",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-10 09:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wc5bec/multiple_us_military_aircraft_suffered_damage_in/",
+            "publishedAt": "2026-09-10T01:50:31.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789011197994,
     "timeDisplay": "2026-09-10 11:33 (UTC+8)",
     "date": "2026-09-10",

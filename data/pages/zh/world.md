@@ -16,115 +16,208 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-026-09-10-10693780-shtml-0999f86eeeb262df" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="797" data-content-paragraphs="1" data-published-at="2026-09-10T03:11:29.000Z" data-time-source="publication">
+<div id="story-rruption-case-a-79209321-23ba49b6e97cec37" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="638" data-content-paragraphs="13" data-published-at="2026-09-10T08:09:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (EN 官方英语)" width="16" height="16" /> <strong>Deutsche Welle (EN 官方英语)</strong></span>
+    <span class="stance-badge">德国战略自省</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 11:11</span>
+  <span class="news-meta-time">🕒 2026-09-10 16:09</span>
 </div>
 
-### [叙利亚一武器仓库爆炸 至少14人死亡](https://www.chinanews.com.cn/gj/2026/09-10/10693780.shtml)
+### [厄瓜多尔：前总统布卡拉姆在腐败案中获刑](https://www.dw.com/en/ecuador-ex-president-bucaram-sentenced-in-corruption-case/a-79209321)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Ecuador: Ex-president Bucaram sentenced in corruption case</div>
 
-<div class="article-body" data-article-body="true"><p>中新社北京9月10日电 大马士革消息：当地时间9日，叙利亚西北部伊德卜省一处存放武器和战争遗留物的临时仓库发生爆炸，造成至少14人死亡。<br />据叙利亚国家通讯社报道，事发仓库被用于存放2011年至2024年间叙国内冲突遗留的武器和弹药。目前14名遇难者均为叙利亚过渡政府国防部人员，另有包括平民在内的11人受伤。由于部分人员伤势较重，遇难者人数可能上升。<br />报道称，事发后，叙过渡政府国防部发表声明称对此事件承担全部责任，并向遇难者家属表示慰问。声明未通报事件原因，但称已启动调查。<br />美联社称，爆炸发生后现场升起浓烟。事发地附近居民对在居民区设置武器仓库的做法表示不满。<br />土耳其外交部9日在社交媒体发表声明，向此次事故的遇难者家属及叙利亚人民致以哀悼，并祝愿伤者早日康复。(完)<br />中国展会“金九”旺 消费引流与产业赋能同发力<br />新能源电车辐射大，长期开会掉头发、掉腿毛？<br />2026年国家基本医保药品目录预计于11月发布<br />中国疾控中心提示：9月重点防范这几类传染病<br />中新网评：“鬼秤”闹的不是鬼，是信任危机<br />中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材<br />网上销售的便携式甲醛检测仪，精准度高达99.9%？<br />乌总统泽连斯基会见美特使 谈了啥？有何进展？<br />浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢<br />大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵<br />中外学生Citywalk北京西城 街巷间开启“开学第一课”<br />香港新赛马季开锣 赛驹“嘉应高升”再创新纪录<br />开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿<br />蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”<br />6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝<br />法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币<br />呼伦贝尔：顶流强势回归 描绘现实版“秋日油画”<br />贵州绥阳：“80后”女村医奔走山间24年为村<br />河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
+<div class="article-body" data-article-body="true"><p>厄瓜多尔前总统阿夫达拉·布卡拉姆（Abdala Bucaram）因在非法销售新冠检测试剂及医疗物资中扮演的角色被判犯有有组织犯罪罪，获刑逾九年。</p>
+<p>厄瓜多尔前总统阿夫达拉·布卡拉姆被裁定犯有腐败罪，并于周三因作为有组织犯罪的“协作者”被判处九年零四个月监禁。</p>
+<p>布卡拉姆的儿子雅各布·布卡拉姆（Jacob Bucaram）也因在2020年疫情期间非法销售至少21,000份新冠检测试剂及其他医疗物资而被判刑。</p>
+<p>该审判历时六年。此前一名法官曾于2021年撤销对布卡拉姆及其儿子的指控，后在总检察长办公室提出上诉后审判得以继续。</p>
+<p>布卡拉姆在瓜亚基尔一家受到看守且其正在接受医疗救治的诊所中，通过远程方式听取了判决结果。</p>
+<p>他于2020年其在瓜亚基尔的住所遭突击搜查后被捕，最初因健康问题无法入狱服刑而被处以软禁。</p>
+<p>这位前总统曾因心脏问题接受手术，并被送入重症监护室。</p>
+<p>布卡拉姆在X上发布消息称，他已请求从诊所出院，“尽管面临猝死风险”。</p>
+<p>“我将能够为自己辩护，而这个国家将了解到关于这一诉讼过程的骇人听闻的事实，”他补充道。</p>
+<p>调查显示，新冠检测试剂被非法运往布卡拉姆的住所，该住所当时由基多交通执法人员看守。</p>
+<p>据检察机关称，这些检测试剂和医疗物资在全国多个省份销售，“既无发票，也未向国家缴税”。</p>
+<p>布卡拉姆于1997年被宣布在精神上不适合执政后遭到罢免，在2017年返回厄瓜多尔之前，他曾在巴拿马流亡了近二十年。</p>
+<p>责任编辑：韦斯利·拉恩（Wesley Rahn）</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 11:11 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Deutsche Welle (EN 官方英语)】于 2026-09-10 16:09 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
+  <span class="news-tag-pill">#Deutsche</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10693780.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.dw.com/en/ecuador-ex-president-bucaram-sentenced-in-corruption-case/a-79209321" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Deutsche Welle (EN 官方英语)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-026-09-10-10693756-shtml-26a5bc9d81835a3a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1005" data-content-paragraphs="8" data-published-at="2026-09-10T03:00:04.000Z" data-time-source="publication">
+<div id="story-politics-2185279-73214d906d75ad6e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1210" data-content-paragraphs="25" data-published-at="2026-09-10T08:07:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 11:00</span>
-</div>
-
-### [德国总理默茨：选择党不可能获得绝对多数支持](https://www.chinanews.com.cn/gj/2026/09-10/10693756.shtml)
-
-<div class="article-body" data-article-body="true"><p>中新网柏林9月10日电（记者 马秀秀）德国总理、基督教民主联盟主席弗里德里希·默茨9日在联邦议院表示，德国选择党虽然在萨克森-安哈尔特州议会选举中获胜，但未能取得绝对多数。凭借现有政策，选择党在德国任何地方都不可能获得绝对多数支持。</p>
-<p>当天，德国联邦议院举行一般性辩论。默茨与德国选择党主席爱丽丝·魏德尔围绕财政、移民、能源及外交政策展开交锋。</p>
-<p>魏德尔指责联邦政府“彻底失败”，称其财政政策失当、能源转型压垮经济。她还批评政府的移民、外交政策等，表示萨安州选民已通过选举结果向执政联盟传递明确信号，选民希望实现政治变革，而非维持现状。</p>
-<p>默茨称选择党是“一股破坏性力量”，其政治主张与其他党派在外交、欧洲、社会及和平政策方面存在“深刻分歧”。</p>
-<p>他批评选择党提出的所谓“回迁”政策。他说，德国手工业每6名从业人员中就有1人持外国护照，如果大量在德工作的外国人因此被迫离境，手工业、养老护理、医院和餐饮等行业都将难以正常运转。</p>
-<p>默茨还承认，联邦政府此前未能充分向民众解释计划中的改革，并强调政府将继续推进改革进程。</p>
-<p>此次交锋发生在6日进行的萨安州议会选举结束后。选择党在选举中成为第一大党，但未能实现获得议席绝对多数的目标；默茨领导的基民盟则遭遇惨败，使其面临更大的党内压力。（完）</p>
-<p>中国展会“金九”旺 消费引流与产业赋能同发力<br />新能源电车辐射大，长期开会掉头发、掉腿毛？<br />2026年国家基本医保药品目录预计于11月发布<br />中国疾控中心提示：9月重点防范这几类传染病<br />中新网评：“鬼秤”闹的不是鬼，是信任危机<br />中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材<br />网上销售的便携式甲醛检测仪，精准度高达99.9%？<br />乌总统泽连斯基会见美特使 谈了啥？有何进展？<br />浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢<br />大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵<br />中外学生Citywalk北京西城 街巷间开启“开学第一课”<br />香港新赛马季开锣 赛驹“嘉应高升”再创新纪录<br />开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿<br />蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”<br />6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝<br />法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币<br />呼伦贝尔：顶流强势回归 描绘现实版“秋日油画”<br />贵州绥阳：“80后”女村医奔走山间24年为村<br />河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-10 11:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新网</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10693756.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-s-ruled-out-ankle-injury-4220a5952ac1e0c7" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="503" data-content-paragraphs="10" data-published-at="2026-09-10T02:55:53.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 10:55</span>
+  <span class="news-meta-time">🕒 2026-09-10 16:07</span>
 </div>
 
-### [爱.J.布朗因脚踝伤势退出爱国者队对阵海鹰队的NFL赛季揭幕战，确认缺席余下比赛](https://www.foxnews.com/outkick-sports/patriots-aj-brown-exits-nfl-season-opener-against-seahawks-ruled-out-ankle-injury)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Patriots&#39; AJ Brown exits NFL season opener against Seahawks, ruled out with ankle injury</div>
+### [简讯：乌克兰夜间向俄罗斯发射448架无人机，致一名平民死亡](https://tass.com/politics/2185279)
+<div class="original-title-sub"><span class="orig-tag">原文</span> IN BRIEF: Civilian killed as Ukraine launches 448 drones at Russia overnight</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/AJ-Brown-holds-ankle.jpg?ve=1&amp;tl=1" alt="爱.J.布朗因脚踝伤势退出爱国者队对阵海鹰队的NFL赛季揭幕战，确认缺席余下比赛" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>A.J.布朗在新英格兰爱国者队的备受期待的首秀，在周三NFL赛季揭幕战第三节因疑似受伤而被打断。</p>
-<p>布朗在卢门球场对阵西雅图海鹰队、尝试接球时似乎受了伤。这场比赛被宣传为第六十届超级碗的重赛；今年2月，西雅图以29比10击败新英格兰，夺得球队历史上第二座文斯·隆巴迪奖杯。</p>
-<p>周三布朗离场时，新英格兰以10比0领先。</p>
-<p>伤病再次困扰49人队，球队在澳大利亚训练期间损失关键防守截锋</p>
-<p>一名海鹰队防守球员撞倒布朗后，布朗倒在地上，并在该次进攻结束后仍留在场内。医护人员在场上为布朗进行处理后，他在无人搀扶的情况下走到场边。</p>
-<p>爱国者队在西雅图赛季揭幕战前锁定克里斯蒂安·冈萨雷斯，使其成为NFL薪水最高的角卫</p>
-<p>随后，他进入蓝色医疗帐篷，最终只穿着一只鞋钉鞋前往更衣室。</p>
-<p>之后，布朗被确认因脚踝伤势无法参加本场比赛剩余时间的比赛。他此役完成3次接球，推进26码。此外，他还造成一次34码的传球干扰犯规，使爱国者队获得了攻入本场比赛首个达阵的机会。</p>
-<p>新英格兰以10比3的比分领先西雅图进入第四节。</p>
-<p>海鹰队四分卫萨姆·达诺德在第一节离场，之后也被确认无法继续比赛。德鲁·洛克接替达诺德担任西雅图队的四分卫。</p></div>
+<div class="article-body" data-article-body="true"><p>塔斯社莫斯科9月10日电 俄罗斯国防部通报称，防空系统昨夜在俄罗斯多个地区、黑海以及里海空域击落了448架乌克兰无人机。</p>
+<p>无人机残骸坠落在沃罗涅日州鲍里索格列布斯克镇的一栋私人住宅上，造成一名妇女死亡，另有两人受伤。在黑海度假胜地索契，乌克兰无人艇袭击海滨地区，导致28名平民受伤。</p>
+<p>塔斯社汇总了有关此次袭击后果的关键信息：</p>
+<p>- 俄罗斯国防部报告称，莫斯科时间9月9日晚8点至9月10日早8点（格林尼治标准时间下午5点至凌晨5点），值班防空部队在俄罗斯各地区上空拦截并摧毁了448架乌克兰固定翼无人机（UAV）。</p>
+<p>- 据该部称，这些无人机是在阿斯特拉罕州、别尔哥罗德州、布良斯克州、伏尔加格勒州、沃罗涅日州、卡卢加州、库尔斯克州、奥廖尔州、罗斯托夫州、图拉州、达吉斯坦共和国、卡尔梅克共和国、克拉斯诺达尔边疆区，以及克里米亚、黑海和里海上空被击落的。</p>
+<p>- 罗斯托夫州州长尤里·斯柳萨尔在社交媒体平台Max上表示，卡缅斯克-沙赫京斯基、塔甘罗格、新沙赫京斯克、伏尔加顿斯克以及该州16个区共摧毁了约90架无人机。</p>
+<p>- 沃罗涅日州州长亚历山大·古谢夫在Max上发文称，防空系统在该州上空击落了19架乌克兰无人机。</p>
+<p>- 卡卢加州州长弗拉季斯拉夫·沙普沙在Max上表示，防空系统在该州上空摧毁了10架乌克兰无人机。</p>
+<p>- 沃罗涅日州州长亚历山大·古谢夫在Max上称，无人机残骸坠落在鲍里索格列布斯克的一所私人住宅上。</p>
+<p>- 该事件引发火灾，导致一名生于1983年的女性死亡。</p>
+<p>- 另有两人受伤并在现场接受了医疗救治。</p>
+<p>- 无人机袭击引发的火灾摧毁了沃罗涅日州某城市辖区内的一处居民住宅；一所专科学校的窗户受损，一座文化中心的门、两条电线、一座输电塔、一辆公共汽车和一辆小汽车亦受损。</p>
+<p>- 在另一个区，一栋公寓楼和一处私人住宅的窗户被震碎，另有六辆小汽车和一座车库受损。</p>
+<p>- 达吉斯坦代行政长官费奥多尔·谢丘金在Max上表示，坠落的无人机碎片引发了马哈奇卡拉港口基础设施以及阿瓦尔音乐与戏剧剧院的火灾。</p>
+<p>- 火势已被迅速扑灭；没有人员伤亡。</p>
+<p>- 罗斯托夫州州长尤里·斯柳萨尔表示，无人机残骸损坏了米列罗沃区的两栋私人住宅和数辆小汽车。</p>
+<p>- 因供电线路受损，有四户私人住宅断电。</p>
+<p>- 塔拉索夫斯基区有无人机碎片坠落后引燃枯草；无人员伤亡，火势已被扑灭。</p>
+<p>- 据地区应急指挥中心报告，无人艇袭击后索契海滨起火。</p>
+<p>- 应急响应队伍正在现场开展工作。</p>
+<p>- 最新通报显示，包括两名儿童在内的28人受伤。</p>
+<p>- 目前仍有三名成人和一名儿童住院救治。</p>
+<p>- 索契市长安德烈·普罗舒宁表示，他们的生命均无危险。</p>
+<p>- 应急指挥中心补充称，海滩基础设施和滨海海堤（Primorskaya Embankment）的部分路段受损。</p>
+<p>- 普罗舒宁已责成其副手和各区负责人迅速采取措施，确保卫生安全并恢复基础设施运转。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 10:55 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-10 16:07 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#TASS</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/patriots-aj-brown-exits-nfl-season-opener-against-seahawks-ruled-out-ankle-injury" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://tass.com/politics/2185279" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-b-b066-0789543f6466-html-0cd2ddceba0ec66c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="it" data-content-length="389" data-content-paragraphs="1" data-published-at="2026-09-10T07:58:43.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 15:58</span>
+</div>
+
+### [药品短缺之际，古巴重新开放私营药店](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/carente-di-medicinali-cuba-riapre-alle-farmacie-private_35f1f404-d0c1-4c1b-b066-0789543f6466.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Carente di medicinali Cuba riapre alle farmacie private</div>
+
+<div class="article-body" data-article-body="true"><p>在面临严重药品短缺的背景下，古巴正在审核36家中小型企业提供私营药房服务的申请。自1959年革命以来，这一行业一直是公共卫生系统的专属特权。该岛国曾拥有数百年的制药传统，包括哈瓦那的历史老店萨拉（Sarrá）、约翰逊（Johnson）和塔克切尔（Taquechel）药房，以及邻近马坦萨斯省的特里奥莱（Triolet）药房；而如今，古巴正在将这些服务重新引入，并将其归类为“新型”业务。有关当局解释称，这些非国有企业不得销售医院专用药物、被归类为管制物质（麻醉品）的药品或其他受限物品。古巴已无限期延长了某些必需品的进口关税豁免。这使得所有入境旅客只要不用于销售目的，即可将食品、个人卫生用品和药品携带入境。这些豁免政策催生了一个依托WhatsApp群组等渠道的私营市场，通过该市场可以获取医院乃至国营药店中都无法找到的药品或物资。<br />版权所有 © 安莎通讯社（ANSA）版权所有</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 2026-09-10 15:58 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#ANSA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/carente-di-medicinali-cuba-riapre-alle-farmacie-private_35f1f404-d0c1-4c1b-b066-0789543f6466.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-5-9569-d25817de7dd4-html-3097d6fc0fda70ef" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="358" data-content-paragraphs="5" data-published-at="2026-09-10T07:58:22.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 15:58</span>
+</div>
+
+### [阿莱格里表示那不勒斯在输给阿森纳后切勿灰心丧气](https://www.ansa.it/english/news/sports/2026/09/10/napoli-mustnt-get-disheartened-after-arsenal-defeat-says-allegri_7eefdac4-b9a1-46d5-9569-d25817de7dd4.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Napoli mustn&#39;t get disheartened after Arsenal defeat says Allegri</div>
+
+<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/10/d1dd8e479ed51c6ac6073b36f1e46a52.jpg" alt="阿莱格里表示那不勒斯在输给阿森纳后切勿灰心丧气" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>（安莎社）- 罗马，9月10日 - 那不勒斯主帅马西米利亚诺·阿莱格里表示，在周三欧冠首战主场0-1不敌阿森纳之后，他的球队切勿士气低落。此前，这支那不勒斯球队已在线上意甲联赛中相继负于国际米兰和科莫，目前已遭遇三连败。挪威中场马丁·厄德高在下半场的破门，为这支英超卫冕冠军赢得了胜利。</p>
+<p>“在我看来，面对欧洲最优秀的球队之一，我们表现得很好，”阿莱格里在接受Prime Video采访时说道，“上半场势均力敌，我们的控球表现也很不错。”</p>
+<p>“他们在比赛后程加快了节奏，但我们防守得当；如果我们对阵国际米兰或科莫时也能这样防守，那些比赛的结果或许就会有所不同。”</p>
+<p>“遭遇三连败确实令人失望，但我们必须看到积极的一面。”</p>
+<p>“我们绝不能灰心丧气；对输球感到失望和愤怒是理所应当的，但小伙子们踢了一场好球。”（安莎社）</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-10 15:58 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#ANSA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.ansa.it/english/news/sports/2026/09/10/napoli-mustnt-get-disheartened-after-arsenal-defeat-says-allegri_7eefdac4-b9a1-46d5-9569-d25817de7dd4.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-4-8561-ec1b47765639-html-49ad08bb3206656b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="347" data-content-paragraphs="2" data-published-at="2026-09-10T07:54:45.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 15:54</span>
+</div>
+
+### [阿莱格里称那不勒斯在负于阿森纳后切勿灰心丧气](https://www.ansa.it/english/news/2026/09/10/napoli-mustnt-get-disheartened-after-arsenal-defeat-says-allegri_a24e2a13-123e-4464-8561-ec1b47765639.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Napoli mustn&#39;t get disheartened after Arsenal defeat says Allegri</div>
+
+<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/10/d1dd8e479ed51c6ac6073b36f1e46a52.jpg" alt="阿莱格里称那不勒斯在负于阿森纳后切勿灰心丧气" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>（安莎社）- 罗马，9月10日 - 那不勒斯主帅马西米利亚诺·阿莱格里表示，在周三欧冠首轮主场0-1负于阿森纳之后，球队绝不能意志消沉；此前这支那不勒斯球队已在意甲接连负于国际米兰和科莫，至此已遭遇三连败。挪威中场马丁·厄德高在下半场的进球为这支英格兰冠军球队锁定了胜局。</p>
+<p>阿莱格里在接受Prime Video采访时表示：“在我看来，面对欧洲最顶尖的球队之一，我们展现出了良好的表现。”“上半场双方旗鼓相当，我们的控球也很出色。”“他们在随后加快了节奏，但我们防守得很好；如果我们对阵国际米兰或科莫时也能这样防守，那些比赛的结果或许会有所不同。”“连续三场失利令人失望，但我们必须吸取积极的因素。”“我们绝不能灰心丧气；因失利感到失望和愤怒是正常的，但小伙子们踢了一场精彩的比赛。”（安莎社）</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-10 15:54 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#ANSA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.ansa.it/english/news/2026/09/10/napoli-mustnt-get-disheartened-after-arsenal-defeat-says-allegri_a24e2a13-123e-4464-8561-ec1b47765639.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::

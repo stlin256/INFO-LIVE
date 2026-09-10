@@ -21,14 +21,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **14** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **15** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 11:33 (UTC+8)
+- **最新归档时间**：2026-09-10 16:16 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 16:16 (UTC+8)" title="全球要闻情报简报 · 16:16" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-10 16:14 (UTC+8) 完成，共获得 789 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【RIA Novosti (俄新社官方俄文)】В Днепропетровске прогремели взрывы；【RIA Novosti (俄新社官方俄文)】СВР: ЕС приветствует активизацию на Украине дискуссии о мобилизации женщин；【RIA Novosti (俄新社官方俄文)】Дамоклов меч в виде НАБУ навис над украинскими политиками, пишут СМИ；【RIA Novosti (俄新社官方俄文)】ISU назвал число спортсменов, подавших заявку на нейтральный статус；【ANSA Mondo (意大利安莎社官方意大利文)】Media, gli Houthi hanno conquistato la città yemenita di Mocha sul Mar Rosso：Reuters sul sito: 'Ribelli filo-iran si avvicinano al controllo di Bab el-Mandeb'；【Deutsche Welle (EN 官方英语)】Ecuador: Ex-president Bucaram sentenced in corruption case：Abdala Bucaram, Ecuador's former president, was convicted of organized crime for his role in the illegal sale of COVID-19 tests and medical supplies, receiving a prison sentence of over nine years.；【RIA Novosti (俄新社官方俄文)】Симоньян предложила помощь пострадавшим от атак катеров ВСУ в Сочи；【TASS (塔斯社官方英文)】IN BRIEF: Civilian killed as Ukraine launches 448 drones at Russia overnight：Twenty-eight civilians were injured in a Ukrainian unmanned boat attack on the seafront in the Black Sea resort of Sochi
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [В Днепропетровске прогремели взрывы](https://ria.ru/20260910/dnepropetrovsk-2116762733.html) <span class="news-meta-time">🕒 2026-09-10 16:13</span>
+- [The Verge (前沿数码科技)] [沃尔沃 XC40 PHEV 重磅回归：全新外观、更强传感器并搭载 Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini) <span class="news-meta-time">🕒 2026-09-10 15:00</span>
+- [MarketWatch Top Stories (市场观察)] [With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term](https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 15:29</span>
+- [Reddit r/worldnews (国际公众热议)] [Ukrainian President Volodymyr Zelenskyy visits Canada](https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/) <span class="news-meta-time">🕒 2026-09-10 10:09</span>
+- [Phys.org (基础物理与技术前沿)] [Coyote density is 9 times higher in Seattle than in Washington's wildlands](https://phys.org/news/2026-09-coyote-density-higher-seattle-washington.html) <span class="news-meta-time">🕒 2026-09-10 16:00</span>
+- [RIA Novosti (俄新社官方俄文)] [СВР: ЕС приветствует активизацию на Украине дискуссии о мобилизации женщин](https://ria.ru/20260910/svr-2116762641.html) <span class="news-meta-time">🕒 2026-09-10 16:12</span>
+:::
 :::timeline-item{start="2026-09-10 11:33 (UTC+8)" title="全球要闻情报简报 · 11:33" org="ARCHIVE"}
 **速报纪要：** 全球多源监控全景简报。
 
