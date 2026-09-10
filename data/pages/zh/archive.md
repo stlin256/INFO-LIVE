@@ -21,14 +21,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **13** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **14** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 10:49 (UTC+8)
+- **最新归档时间**：2026-09-10 11:33 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 11:33 (UTC+8)" title="全球要闻情报简报 · 11:33" org="ARCHIVE"}
+**速报纪要：** 全球多源监控全景简报。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [Власти Румынии втягивают страну в войну, считает Джеорджеску](https://ria.ru/20260910/rumyniya-2116715892.html) <span class="news-meta-time">🕒 2026-09-10 11:25</span>
+- [GitHub Blog (工程技术博客)] [GitHub availability report: August 2026](https://github.blog/news-insights/company-news/github-availability-report-august-2026/) <span class="news-meta-time">🕒 2026-09-10 10:05</span>
+- [MarketWatch Top Stories (市场观察)] [Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.](https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 11:00</span>
+- [Reddit r/worldnews (国际公众热议)] [Ukrainian President Volodymyr Zelenskyy visits Canada](https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/) <span class="news-meta-time">🕒 2026-09-10 10:09</span>
+- [Phys.org (基础物理与技术前沿)] [Can AI tame torrential rain by 2050? The next frontier of weather control and forecasting](https://phys.org/news/2026-09-ai-torrential-frontier-weather.html) <span class="news-meta-time">🕒 2026-09-10 11:20</span>
+- [FOX News Latest (美国FOX快讯)] [Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention](https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention) <span class="news-meta-time">🕒 2026-09-10 11:20</span>
+:::
 :::timeline-item{start="2026-09-10 10:49 (UTC+8)" title="全球要闻情报简报 · 10:49" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-10 10:37 (UTC+8) 完成，共获得 790 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
