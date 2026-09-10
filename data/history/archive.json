@@ -1,5 +1,1555 @@
 [
   {
+    "timestamp": 1789080148681,
+    "timeDisplay": "2026-09-11 06:42 (UTC+8)",
+    "date": "2026-09-11",
+    "runId": "feed-20260910T224020055Z-inyfcz",
+    "generatedAt": "2026-09-10T22:42:28.681Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 06:40",
+      "lead": "本轮抓取于 2026-09-11 06:40 (UTC+8) 完成，共获得 39 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】Thrive Capital 率先带动风投涉足职业体育俱乐部所有权；Collaborative Fund 如今再度升级打法：纽约综合性风险投资机构 Collaborative Fund 成立已有 15 年，旗下管理资产约 10 亿美元，曾早期押注 Lyft、Reddit、Sweetgreen 和 Olipop 等公司。如今，该机构正入股足球俱乐部华盛顿特区联队（D.C. United）及其主场奥迪球场（Audi Field）。",
+        "【undefined】利用 Amazon SageMaker Inference 的前缀感知路由降低大语言模型延迟：基于大语言模型（LLM）构建应用程序时，发送给模型的提示词通常包含两部分。一部分是设定上下文的固定部分（指令、参考文档、对话历史），另一部分是包含实际用户输入的可变部分。以客服机器人为例，每个请求都以相同的一段文本开头：“您是 AnyCompany 的支持代表。以下是我们的政策……”随后是客户输入的具体内容。开头的指令部分可能有 3000 个 token，而末尾客户的问题可能只有 50 个 token。",
+        "【undefined】要闻：Gleam Gathering 聚会活动重磅回归，并落地伦敦：Gleam Gathering 聚会活动重磅回归，并落地伦敦。",
+        "【undefined】菲律宾内政部长：全国无证枪支或达200万支：中新社马尼拉9月10日电 (记者 周璟)菲律宾内政部长10日表示，菲全国流通的无证枪支数量估计高达200万支。",
+        "【undefined】黄仁勋解释英伟达明年为何将实现高达70%的惊人增长：英伟达创始人、首席执行官兼不知疲倦的宣传推手黄仁勋周四在高盛Communacopia + Technology大会上向与会者解释，为何他的公司在人工智能领域的统治地位以及营收将持续其破纪录的增长势头直至明年年底。",
+        "【undefined】中方在安理会伊朗核问题公开会程序性表决中投反对票：中新社联合国9月10日电 联合国安理会10日举行伊朗核问题公开会。中国常驻联合国副代表孙磊在会上议程程序性表决中投下反对票，并敦促个别成员停止利用安理会推进自身政治议程，避免对伊朗核问题政治解决进程制造新的障碍。",
+        "【undefined】黑海一货船遭无人机袭击致2名阿塞拜疆公民遇难：中新社阿斯塔纳9月10日电 巴库消息：阿塞拜疆外交部10日发布通报称，一艘名为“泰迪”号(TEDY)的外国货船9日在黑海水域遭无人机袭击，造成2名阿塞拜疆籍船员遇难、2名阿籍船员受伤。",
+        "【undefined】美财政部宣布对伊朗相关个人和实体实施制裁：当地时间9月10日，美国财政部发布声明称，作为对伊“经济孤立行动”的一部分，该部门下属的外国资产控制办公室将为伊朗在中东地区的代理人网络提供支持的个人和实体列入制裁清单，制裁对象包括黎真主党成员等。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "国际安全与地区治理动态",
+      "lead": "现有目录显示，今日信息主要涉及伊朗核问题外交、黑海航运安全及菲律宾无证枪支治理。由于主文章内容缺失，部分外文条目尚未完成中文翻译，以下判断仅基于目录中可见的标题与摘要。",
+      "themes": [
+        {
+          "name": "伊朗核问题与多边外交",
+          "analysis": "联合国安理会就伊朗核问题举行公开会。中国在程序性表决中投反对票，并敦促有关成员停止利用安理会推进自身政治议程，避免对伊朗核问题政治解决进程制造新的障碍。现有材料未提供会议后续结果或各方完整立场。"
+        },
+        {
+          "name": "黑海航运与无人机袭击风险",
+          "analysis": "阿塞拜疆外交部通报称，一艘名为“泰迪”号（TEDY）的外国货船在黑海水域遭无人机袭击，造成2名阿塞拜疆籍船员遇难、2人受伤。目录未说明袭击责任方、具体位置及事件后续影响。"
+        },
+        {
+          "name": "菲律宾无证枪支治理",
+          "analysis": "菲律宾内政部长表示，全国流通的无证枪支数量估计高达200万支。该数字来自官员估计，现有摘要未提供统计口径、核实方法及政府拟采取的具体措施。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 77,
+      "completedTasks": 77,
+      "succeeded": 68,
+      "degraded": 9,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 77,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 128558,
+      "byRole": {
+        "translator": {
+          "attempts": 55,
+          "succeeded": 47,
+          "degraded": 8
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 77,
+          "succeeded": 68,
+          "degraded": 9
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-4-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-14-translator-0",
+      "article-28-translator-0",
+      "article-30-translator-0",
+      "article-37-translator-0",
+      "article-43-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:03.434Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.061Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:03.593Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.120Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.548Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.755Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.581Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.930Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.766Z",
+        "lastSuccessAt": "2026-09-10T22:40:06.991Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.762Z",
+        "lastSuccessAt": "2026-09-10T22:40:06.866Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:06.991Z",
+        "lastSuccessAt": "2026-09-10T22:40:07.545Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:03.648Z",
+        "lastSuccessAt": "2026-09-10T22:40:03.882Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.806Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.035Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.755Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.052Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.120Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.679Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.061Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.638Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:03.932Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.027Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.028Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.658Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:06.748Z",
+        "lastSuccessAt": "2026-09-10T22:40:07.453Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:06.570Z",
+        "lastSuccessAt": "2026-09-10T22:40:07.487Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:06.706Z",
+        "lastSuccessAt": "2026-09-10T22:40:06.950Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.909Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.242Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.447Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.548Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.288Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.581Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:03.618Z",
+        "lastSuccessAt": "2026-09-10T22:40:03.648Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:02.504Z",
+        "lastSuccessAt": "2026-09-10T22:40:03.618Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.239Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.405Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.137Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.448Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.027Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.239Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.234Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.433Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.410Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.766Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.905Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.072Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:06.866Z",
+        "lastSuccessAt": "2026-09-10T22:40:10.677Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.242Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.340Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.529Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.762Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+        "checkedAt": "2026-09-10T22:40:05.433Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.746Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.885Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:06.950Z",
+        "lastSuccessAt": "2026-09-10T22:40:07.703Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.638Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.806Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.930Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.410Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.072Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.233Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.655Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.902Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-10T22:40:05.405Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.340Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.746Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:02.502Z",
+        "lastSuccessAt": "2026-09-10T22:40:03.932Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.448Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.963Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:02.503Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.288Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.885Z",
+        "lastSuccessAt": "2026-09-10T22:40:07.431Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.052Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.137Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:03.882Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.028Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.289Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.655Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.035Z",
+        "lastSuccessAt": "2026-09-10T22:40:05.289Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.902Z",
+        "lastSuccessAt": "2026-09-10T22:40:06.570Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:05.963Z",
+        "lastSuccessAt": "2026-09-10T22:40:06.706Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.679Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.909Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:04.658Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.905Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:02.487Z",
+        "lastSuccessAt": "2026-09-10T22:40:03.593Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:02.500Z",
+        "lastSuccessAt": "2026-09-10T22:40:03.434Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T22:40:02.501Z",
+        "lastSuccessAt": "2026-09-10T22:40:04.447Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-trezvost-2116941526-html-0f9f00e1488f2daa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Названы самые трезвые регионы России",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T22:38:46.000Z",
+        "pubTime": "2026-09-11 06:38",
+        "url": "https://ria.ru/20260911/trezvost-2116941526.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/148483/83/1484838373_0:314:5968:3670_650x0_80_0_0_2df254b80fe8448424029edd56be7248.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 06:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/trezvost-2116941526.html",
+            "publishedAt": "2026-09-10T22:38:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-version-of-the-same-play-6f98020f2f157136",
+        "title": "Thrive Capital 率先带动风投涉足职业体育俱乐部所有权；Collaborative Fund 如今再度升级打法",
+        "originalTitle": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:30:00.000Z",
+        "pubTime": "2026-09-11 06:30",
+        "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+        "imageUrl": null,
+        "fullContent": "Collaborative Fund, the 15-year-old, New York-based generalist venture firm that has roughly $1 billion under management and which made early bets on Lyft, Reddit, Sweetgreen, and Olipop, among others, is taking a stake in the soccer club D.C. United and its stadium, Audi Field.\n\nIt’s the latest — and smallest — firm to try something that Thrive Capital opened the door to just months ago: turning venture money into pro sports ownership.\n\nTo recap, Joshua Kushner’s Thrive launched a new vehicle, Thrive Eternal, explicitly built to hold “iconic franchises and cultural institutions” for decades, funded by many of the same investors already in Thrive’s venture and growth funds. The firm kicked things off by announcing a stake in the San Francisco Giants. Months later, the same vehicle — with former Disney CEO Bob Iger, a Thrive partner, joining as co-owner — bought the Lakers outright for a record $12.5 billion.\n\nThat’s new. Historically, money has poured into pro sports two other ways: individual tech fortunes, and private equity. For example, Vinod Khosla and his family agreed this summer to buy the Seattle Seahawks for a record $9.6 billion soon after the Khosla family also took a stake in the San Francisco 49ers alongside OpenAI chairman Bret Taylor. That was a personal-wealth play, the kind we’ve seen over and over.\n\nPrivate equity firms have also been at this for years, including Sixth Street, which holds stakes in the Boston Celtics, the New England Patriots, and MLB’s San Francisco Giants; Ares, which owns a piece of the Miami Dolphins outright and separately financed Chelsea’s stadium plans through a $500 million preferred-equity deal; RedBird, which owns AC Milan outright and holds a minority stake in Fenway Sports Group, the holding company behind Liverpool and the Red Sox; and Arctos, with minority positions scattered across MLB, the NFL, the NBA, and European soccer. (Apollo, the newest entrant, has mostly stuck to sports financing deals so far rather than ownership stakes.)\n\nThrive and Collaborative are doing neither of those things. At the same time, the two firms’ approaches to sports ownership look very different. Thrive built a standalone, permanent-capital vehicle specifically to hold trophy assets. Collaborative is investing out of the same early-stage fund it uses to write seed and Series A checks, and treating the deal less like something to buy and hold and almost more like infrastructure.\n\nIn a memo shared with TechCrunch, Collaborative Fund founder and managing partner Craig Shapiro framed the deal as an extension of what the firm already does. “A franchise is the ultimate consumer product,” he wrote, arguing that D.C. United’s status as one of Major League Soccer’s original clubs gives Collaborative access to an institution with a decades-long fan base to build on.\n\nHe pointed to the tailwinds around American soccer specifically (a World Cup just behind the sport, the LA Olympics ahead of it, soaring youth participation numbers in the U.S.) as well as D.C.’s ownership of Audi Field in Washington, D.C., plus a talent-development pipeline through Loudoun County, Virginia, and rights to a future Baltimore expansion team.\n\nIndeed, the thesis Shapiro laid out at a TechCrunch StrictlyVC event Thursday night in New York is less about owning a piece of an appreciating asset – the sports team itself – and more about what the team makes possible. Collaborative wants to turn Audi Field into what he describes as a living showcase for its own portfolio.\n\nAs a backer of both fitness band maker Whoop and the beverage brand Olipop, for example, Collaborative Fund is imagining a WHOOP wearables activation for fans, or Olipop drinks woven into game-day concessions. He’s thinking about the stadium’s foot traffic — tens of thousands of people showing up on a predictable schedule — as a distribution channel at a time when, because AI is making more of daily life feel synthetic, live experiences are becoming more valuable.\n\nShapiro doesn’t dwell on this, but it surely helped sell Collaborative’s investors that team valuations have been soaring, so the stake could pay off on its own. Soccer valuations in particular have been on a tear. Inter Miami’s franchise value has roughly doubled in the two years since Lionel Messi arrived, MLS’s average club value is up roughly 134% since 2019, and D.C. United’s own valuation has climbed from $35 million in 2008 to $785 million today, factoring in its ownership of Audi Field and the surrounding real estate.\n\nIf Shapiro is right that a franchise is also “the ultimate consumer product,” it could be a pretty good place to park money. Time will tell.\n\nThe deal is subject to MLS approval.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nEditor in Chief & General Manager\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride\n\nTechCrunch Mobility: Tesla Cybercab hits the road — and a snag\n\nHikers rescued after using Google Gemini for planning\n\nFeds launch investigation into Tesla’s Cybercab deployment",
+        "fullTranslation": "纽约综合性风险投资机构 Collaborative Fund 成立已有 15 年，旗下管理资产约 10 亿美元，曾早期押注 Lyft、Reddit、Sweetgreen 和 Olipop 等公司。如今，该机构正入股足球俱乐部华盛顿特区联队（D.C. United）及其主场奥迪球场（Audi Field）。\n\n就在几个月前，Thrive Capital 打开了一扇大门：将风投资金转化为职业体育俱乐部的所有权；而 Collaborative Fund 则是尝试这一路径的最新、也是规模最小的一家风投机构。\n\n回顾此前，约书亚·库什纳（Joshua Kushner）旗下的 Thrive 推出了一款名为 Thrive Eternal 的全新投资工具，专门用于对“标志性俱乐部专营权和文化机构”进行长达数十年的长期持有，其出资人很多也来自 Thrive 既有的风投基金与成长型基金。该机构首先宣布入股旧金山巨人队（San Francisco Giants）。几个月后，该工具又以创纪录的 125 亿美元全资收购了洛杉矶湖人队（Lakers），Thrive 合伙人、迪士尼前首席执行官鲍勃·伊格尔（Bob Iger）作为联合所有者参与了交易。\n\n这是一种全新模式。历史上，资本流入职业体育主要有两种渠道：科技界个人财富与私募股权。例如，维诺德·科斯拉（Vinod Khosla）及其家族在今年夏天与 OpenAI 董事长布雷特·泰勒（Bret Taylor）一同入股旧金山49人队（San Francisco 49ers）后不久，又同意以创纪录的 96 亿美元收购西雅图海鹰队（Seattle Seahawks）。这属于典型的个人财富运作，过去屡见不鲜。\n\n私募股权机构在此领域也深耕多年，例如：Sixth Street 持有波士顿凯尔特人队、新英格兰爱国者队以及美国职业棒球大联盟（MLB）旧金山巨人队的股份；Ares 全资拥有迈阿密海豚队的部分资产，并曾通过一项 5 亿美元的优先股权益交易为切尔西俱乐部的球场规划提供融资；RedBird 全资拥有 AC 米兰，并持有芬威体育集团（利物浦与红袜队背后的控股公司）的少数股权；Arctos 的少数股权投资则分散在 MLB、NFL、NBA 和欧洲足球俱乐部。（最新入场的 Apollo 迄今主要从事体育融资交易，而非股权所有权。）\n\nThrive 和 Collaborative 走的分明不是这两种路线。同时，这两家机构在体育所有权方面的路径也大相径庭。Thrive 设立了一个独立的永久资本工具，专门用于持有顶级标杆资产；而 Collaborative 则直接从其用于开具种子轮和 A 轮支票的早期基金中出资，其对待这笔交易并不单纯视为长期买入持有，而更像是当成一种基础设施。\n\n在与 TechCrunch 分享的一份备忘录中，Collaborative Fund 创始人兼管理合伙人克雷格·夏皮罗（Craig Shapiro）将这笔交易定位为该机构现有业务的延伸。他写道：“一支俱乐部专营权就是终极的消费品。”他认为，华盛顿特区联队作为美国职业足球大联盟（MLS）的创始俱乐部之一，能够让 Collaborative 依托一个拥有数十年积累的粉丝群体机构展开业务。\n\n他特别指出了美国足球所享受的利好（刚刚举办过世界杯，未来还将迎来洛杉矶奥运会，美国青少年足球参与人数激增），以及华盛顿特区联队拥有位于华盛顿特区的奥迪球场、通过弗吉尼亚州劳登县建立的人才培养梯队，以及未来巴尔的摩扩军球队的优先权益。\n\n事实上，夏皮罗周四晚在纽约举行的 TechCrunch StrictlyVC 活动上阐述的投资逻辑，核心不在于拥有一项升值资产（球队本身）的股份，而在于这支球队能衍生出什么可能性。Collaborative 希望将奥迪球场打造成他口中用于展示被投企业的“活体展示厅”。\n\n例如，作为健身手环制造商 Whoop 和饮料品牌 Olipop 的投资方，Collaborative Fund 设想为球迷举办 WHOOP 可穿戴设备互动体验，或将 Olipop 饮料融入比赛日的特许餐饮销售中。他将体育场的人流——按固定日程聚集的数万人次——视作一条分发渠道。在人工智能正让日常生活越来越具合成感的当下，线下真实体验正变得愈发珍贵。\n\n夏皮罗对此并未过多着墨，但球队估值的飙升无疑有助于说服 Collaborative 的出资人，这意味着该股权本身就能带来回报。尤其是足球俱乐部的估值更是一路狂飙。自利昂内尔·梅西加盟以来的两年内，迈阿密国际的俱乐部估值大约翻了一倍；自 2019 年以来，MLS 俱乐部的平均估值上涨了约 134%；而若算上奥迪球场及周边地产的所有权，华盛顿特区联队自身的估值也已从 2008 年的 3500 万美元攀升至如今的 7.85 亿美元。\n\n如果夏皮罗所说的专营球队也是“终极消费品”这一论断正确，那么这里或许会是沉淀资金的极佳去处。时间会给出答案。\n\n该交易尚需获得美职联（MLS）的批准。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。\n\n主编兼总经理\n\n不要错过。初创企业社区将齐聚一堂，共同探讨一个核心议题：在 AI 时代，如何实现可持续构建？\n\nAutomattic 董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假\n\n苹果推出首款折叠屏手机 iPhone Duo\n\n纽约大学数学家称：OpenAI 在决定职业生涯的重大数学问题上采取了不光彩手段\n\n一部关于伊丽莎白·霍姆斯的绝密新纪录片震撼特柳赖德电影节\n\nTechCrunch 出行：特斯拉 Cybercab 上路——却遭遇波折\n\n徒步旅行者在使用 Google Gemini 规划路线后遇险获救\n\n联邦监管机构对特斯拉 Cybercab 的部署展开调查",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 23,
+        "keyTakeaways": [
+          "Collaborative Fund 正在入股足球俱乐部华盛顿特区联（D.C. United）及其主场奥迪球场（Audi Field），该交易尚需获得 MLS 批准。",
+          "Collaborative Fund 是一家拥有 15 年历史、总部位于纽约的通用风投机构，管理资产规模约 10 亿美元，早期曾投资 Lyft、Reddit、Sweetgreen 和 Olipop 等公司。",
+          "来源叙事重点：报道 Collaborative Fund 直接通过早期风投基金入股 D.C. United 足球俱乐部及奥迪球场，对比 Thrive Capital 设立永久资本载体以及传统 PE/富豪收购模式，重点阐述其将体育场馆和俱乐部视为投后组合落地展示与分发渠道的“基础设施”逻辑。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T22:30:00.000Z",
+            "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/"
+          }
+        ]
+      },
+      {
+        "id": "story--lower-the-cost-6b2d3065-ce0bd6edc54db4d5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:25:00.000Z",
+        "pubTime": "2026-09-11 06:25",
+        "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Wireless carriers are rolling out their initial iPhone promotions, but analysts say there’s no price war just yet.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 06:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T22:25:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tary-advisers-are-on-the-bb3e64e8dc8666f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "More than 100 US military advisers are on the ground in Saudi Arabia, providing support for the war in Yemen, while hundreds of Iranian officers are in Yemen advising the Houthis",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T20:38:03.000Z",
+        "pubTime": "2026-09-11 04:38",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wcv40k/more_than_100_us_military_advisers_are_on_the/",
+        "imageUrl": "https://external-preview.redd.it/eRvRDmsfV_hzQeyRRyhvlum0AXPFnFQfSrYv0LGPyBU.jpeg?width=640&crop=smart&auto=webp&s=f80d1f45b0d7f706b97c0a3ec8129ceeec1c57f7",
+        "fullContent": "submitted by /u/Wowthefrea [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-11 04:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wcv40k/more_than_100_us_military_advisers_are_on_the/",
+            "publishedAt": "2026-09-10T20:38:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-cape-religious-bias-html-774a088251a3fd3c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "25 years after 9/11, research traces changing landscape of religious bias",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:20:04.000Z",
+        "pubTime": "2026-09-11 06:20",
+        "url": "https://phys.org/news/2026-09-years-landscape-religious-bias.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/911-1.jpg",
+        "fullContent": "A quarter-century after the Sept. 11, 2001, terrorist attacks, religious bias in America has not disappeared, but the forces shaping it have changed.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-11 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-years-landscape-religious-bias.html",
+            "publishedAt": "2026-09-10T22:20:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--medvedi-2116941359-html-e441f436e9b1d5d9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ученый объяснил, почему медведи выходят к населенным пунктам Камчатки",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T22:36:23.000Z",
+        "pubTime": "2026-09-11 06:36",
+        "url": "https://ria.ru/20260911/medvedi-2116941359.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/95660/66/956606619_0:58:3135:1821_650x0_80_0_0_91e9fa7d4b28a66949ea314425394b58.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 06:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/medvedi-2116941359.html",
+            "publishedAt": "2026-09-10T22:36:23.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-azon-sagemaker-inference-5d430a9ae2c92295",
+        "title": "利用 Amazon SageMaker Inference 的前缀感知路由降低大语言模型延迟",
+        "originalTitle": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T21:58:09.000Z",
+        "pubTime": "2026-09-11 05:58",
+        "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/10/ML-21885-1.jpg",
+        "fullContent": "When you build an application on top of a large language model (LLM), the prompt you send to the model typically has two parts. There’s a fixed part that sets up context (instructions, reference documents, conversation history) and a variable part that contains the actual user input. Take a customer service bot as an example. Each request starts with the same block of text: “You are a support agent for AnyCompany. Here are our policies…” followed by whatever the customer typed. The instructions at the top might be 3,000 tokens. The customer’s question at the bottom might be 50 tokens.\n\nThis means that across hundreds or thousands of requests, your model is processing that same 3,000-token beginning over and over again.\n\nLLM serving frameworks like vLLM and TensorRT-LLM have a solution for this. They cache the computed key-value (KV) pairs for prompt prefixes that have been seen before. When the same beginning shows up in a new request, the model reuses the cached computation and only processes the new tokens at the end. This is called prefix caching, and it can reduce time-to-first-token (TTFT) significantly.\n\nBut there’s a problem when you scale beyond a single instance. If you have a fleet of machines behind an endpoint, requests get distributed across all of them. That same 3,000-token prefix lands on instance A for one request, instance B for the next, instance C after that. Each instance computes it from scratch because none of them see it frequently enough to build a reliable cache. The prefix caching feature is there, but the routing layer spreads requests too thinly for it to help.\n\nToday, Amazon SageMaker Inference introduces prefix-aware routing. It is a new routing strategy that looks at the beginning of each request and consistently sends requests with the same beginning to the same instance. The KV cache on that instance actually builds up and gets reused. In our benchmarks on Llama 3.1 70B, this reduced P50 TTFT by up to 77 percent and increased throughput by up to 16 percent. It also pushed KV cache hit rates from roughly 25 percent to over 80 percent.\n\nWhat prefix-aware routing does\n\nWhen a request arrives at your endpoint, Amazon SageMaker looks at the beginning of the payload and uses it to decide which instance should handle it. The same beginning goes to the same instance. Different beginnings spread across different instances. If 10 requests share a prefix or beginning, all 10 go to the same machine, and that machine’s cache stays warm for that prefix.\n\nYou don’t need to tag requests or manage affinity yourself. The endpoint handles it based on the content of the request.\n\nThere are two built-in safeguards:\n\nOverload protection. If one prefix is extremely popular and the target instance is already at capacity, the endpoint routes the request to a less busy instance instead. You configure the concurrency limit, and the endpoint respects it. You might miss a cache hit on that one request, but you avoid overwhelming a single machine.\n\nStable behavior during scaling. When you add or remove instances, most requests continue going to the same instance they were going to before. Only a small fraction of traffic shifts to account for the changed fleet. Your caches don’t get invalidated every time you scale.\n\nPerformance benchmarks\n\nWe benchmarked prefix-aware routing against the default random routing baseline using Llama 3.1 70B Instruct on 7 ml.p5.48xlarge instances with vLLM (prefix caching enabled). We ran 16 test configurations covering single model endpoints, inference component endpoints, the native Invoke API, and the OpenAI-compatible API. All tests completed with 100 percent success rate.\n\nLong context workloads\n\n8,000-token shared prefixes, sustained over 1 hour:\n\nP90 TTFT: reduced by 33–37 percent.\n\nP50 TTFT: reduced by 71–77 percent.\n\nKV cache hit rate: from approximately 25–82 percent.\n\nThroughput: increased 15–16 percent.\n\nShort context workloads\n\nVariable-length ShareGPT-style conversations, 30 minutes:\n\nP90 TTFT: reduced by 24–37 percent.\n\nP50 TTFT: reduced by 13–16 percent.\n\nKV cache hit rate: from approximately 30–80 percent.\n\nThroughput: increased 1.7–2.0 percent.\n\nThe longer your shared prefix, the bigger the win. Long context workloads benefit the most because there is more computation to skip on each cache hit. Short context workloads still benefit, but the shared prefixes are smaller so the savings per request are proportionally smaller.\n\nThe prefix-aware routing logic adds 1.3–1.9 milliseconds per request. Model TTFT in these tests ranged 63–280 milliseconds. The routing cost is negligible.\n\nTraffic distribution remained balanced across all scenarios. Each of the 7 instances received 13.3–15.4 percent of requests, within 1 percent of an ideal even split. No hot spots.\n\nRouting strategies on SageMaker Inference\n\nWith this launch, Amazon SageMaker Inference offers three routing strategies for real-time endpoints:\n\nRANDOM (default): Distributes requests uniformly across instances. Recommended for general-purpose workloads, non-LLM models, or a situation where requests are interchangeable and there’s no benefit to sending specific requests to specific instances.\n\nLEAST_OUTSTANDING_REQUESTS: Sends each request to the instance with the fewest in-flight requests. Recommended when request processing times vary and you want to keep all instances equally busy. Helps prevent slow requests from piling up on one machine while others sit idle.\n\nPREFIX_AWARE (new): Sends requests sharing the same prompt prefix to the same instance. Recommended for LLM workloads where many requests share common text at the beginning and your serving framework has prefix caching enabled.\n\nYou set the strategy per production variant in your endpoint configuration. You can switch between them by updating the endpoint configuration without redeploying your model.\n\nWhen to use prefix-aware routing\n\nThe feature delivers value when your requests share text at the beginning. Here are the patterns where it has the most impact:\n\nRetrieval Augmented Generation (RAG) applications. You retrieve a document and prepend it before the user’s question. When multiple users ask questions about the same document, they all share that document as a prefix. Prefix-aware routing sends them to the same instance, where the KV cache for that document is already warm.\n\nMulti-turn conversations. Each turn in a conversation includes the full history of previous turns. As the conversation grows, that shared history becomes a longer and more expensive prefix. Routing on that prefix keeps the conversation’s cache on one instance across turns.\n\nTemplated bots and assistants. Bots with long, structured instructions (policies, formatting rules, persona definitions) send those same instructions with every request. Only the user message at the end changes. Prefix-aware routing means that expensive instruction block gets processed once, not thousands of times.\n\nCode completion. Coding assistants include file contents as context. While a developer works in the same file, every completion request shares that file content as a prefix.\n\nYou configure prefix-aware routing when you create your endpoint configuration. Two parameters control the behavior:\n\nPrefixLength (1024–65536): How much of the request to use for routing. For the native Amazon SageMaker Invoke API, this is bytes from the beginning of the request body. For the OpenAI-compatible API, this is characters from the extracted message text. Set this to cover your shared prefix plus enough unique content to spread different workloads across instances.\n\nConcurrencyThreshold (1–1024): The maximum in-flight requests on the target instance before overflow kicks in. If the target instance is at this limit, the request goes to a less loaded instance instead.\n\naws sagemaker create-endpoint-config \\ --endpoint-config-name example-llm-config \\ --production-variants '[{ \"VariantName\": \"AllTraffic\", \"ModelName\": \"example-llm-model\", \"InitialInstanceCount\": 3, \"InstanceType\": \"ml.p5.48xlarge\", \"RoutingConfig\": { \"RoutingStrategy\": \"PREFIX_AWARE\", \"PrefixAwareRoutingConfig\": { \"PrefixLength\": 4096, \"ConcurrencyThreshold\": 10 } } }]'\n\nThen create your endpoint as usual:\n\naws sagemaker create-endpoint \\ --endpoint-name example-llm-endpoint \\ --endpoint-config-name example-llm-config\n\nNo changes to your model container or serving framework are needed. Prefix-aware routing operates entirely at the endpoint routing layer.\n\nInvoking the endpoint\n\nNothing changes about how you call the endpoint. The same InvokeEndpoint and InvokeEndpointWithResponseStream APIs work exactly as before:\n\naws sagemaker-runtime invoke-endpoint \\ --endpoint-name example-llm-endpoint \\ --content-type application/json \\ --body fileb://request.json \\ output.json\n\nSame for the OpenAI-compatible Chat Completion API:\n\nfrom openai import OpenAI from sagemaker.core.token_generator import generate_token\n\nclient = OpenAI( base_url=f\"https://runtime.sagemaker.us-west-2.amazonaws.com\" f\"/endpoints/example-llm-endpoint/openai/v1\", api_key=generate_token(region=\"us-west-2\") ) response = client.chat.completions.create( model=\"example-model\", messages=[ {\"role\": \"user\", \"content\": \"What is your return policy?\"}, ], )\n\nMulti-tenant prefix isolation\n\nIf different tenants share the same prompt instructions but you want them routed separately (to keep cache contexts independent), pass an optional ID:\n\nNative Invoke API: set the X-Amzn-SageMaker-Prefix-Aware-Id header (up to 64 ASCII characters).\n\nOpenAI API: include the prompt_cache_key field in the request body.\n\nThis ID combines with the prefix so that requests with identical prefixes but different IDs land on different instances.\n\nInference components and LoRA adapters\n\nPrefix-aware routing works with inference component endpoints and dynamic Low-Rank Adaptation (LoRA) adapters. For inference components, it behaves the same as single model endpoints. For LoRA adapters, it operates within the adapter’s sticky instance set, using prefix-based selection among the instances that already have the adapter loaded.\n\nEnable prefix caching in your serving framework. Prefix-aware routing gets repeated prefixes to the same instance, but your container needs prefix caching turned on to actually store and reuse those KV pairs. In vLLM, this is enabled by default in recent versions. Other frameworks might require explicit configuration.\n\nKeep request serialization consistent. For the native Invoke API, PrefixLength operates on raw bytes. JSON whitespace, key ordering, and formatting all affect routing. If you serialize the same prompt differently across requests, they might end up on different instances. Use consistent serialization.\n\nSize PrefixLength carefully. Too short and all requests with the same short prefix get funneled to one instance, triggering overflow. Too long and small payload differences (like temperature values) scatter requests that should stay together. Start with the length of your shared prefix plus a modest buffer.\n\nYou need at least two instances. With one instance, all requests go to the same place regardless of strategy.\n\nMonitor cache hit rates. Enable SageMaker detailed observability to track KV cache hit rates at the model level. This confirms whether prefix-aware routing is working for your specific workload.\n\nPrefix-aware routing is available today on SageMaker real-time inference endpoints. Update your AWS SDK or CLI to the latest version to access the new RoutingStrategy and PrefixAwareRoutingConfig parameters. Refer to this notebook for examples of how to enable it during endpoint creation.\n\nKareem is a Principal Product Manager at AWS. He focuses on enabling generative AI model development and governance on Amazon SageMaker HyperPod. Prior to this, at Amazon Quick Sight, he led embedded analytics and developer experience. In addition to Quick Sight, he has been with AWS Marketplace and Amazon retail as a Product Manager. Kareem started his career as a developer for call center technologies, Local Expert and Ads for Expedia, and management consultant at McKinsey.\n\nVivek is a Worldwide Leader for Solutions Architecture, SageMaker Inference. He leads Solution Architecture, Technical Go-to-Market (GTM) and Outbound Product strategy for SageMaker Inference. He also helps enterprises and startups deploy and optimize generative AI models and build AI workflows with SageMaker and GPUs. Currently, he is focused on developing strategies and content for optimizing inference performance and use cases such as agentic workflows and RAG. In his free time, Vivek enjoys hiking, watching movies, and trying different cuisines.\n\nDmitry is a Worldwide Leader for Specialist Solutions Architecture, SageMaker Inference at AWS. He leads efforts to help customers design, build, and optimize generative AI and AI/ML solutions across the enterprise. His work spans a wide range of ML use cases, with a primary focus on generative AI, deep learning, and deploying ML at scale. He has partnered with companies across industries including financial services, insurance, and telecommunications. You can connect with Dmitry on LinkedIn .\n\nVamsi leads Go-to-Market (GTM) and Revenue Acceleration initiatives at AWS, enabling Inference and ModelOps workloads for our customers, and driving OSS Use Cases and Product features for Amazon SageMaker AI and Generative AI. With over 16 years of experience spanning AWS, Dell, and Infosys, he brings a unique blend of technical depth and business knowledge across Cloud, High-performance computing (HPC), Artificial Intelligence (AI), Machine Learning (ML), and Analytics. He holds an MBA from Texas A&M University’s Mays Business School.\n\nXu Deng is a Software Engineer Manager with the SageMaker team. He focuses on helping customers build and optimize their AI/ML inference experience on Amazon SageMaker. In his spare time, he loves traveling and snowboarding.",
+        "fullTranslation": "基于大语言模型（LLM）构建应用程序时，发送给模型的提示词通常包含两部分。一部分是设定上下文的固定部分（指令、参考文档、对话历史），另一部分是包含实际用户输入的可变部分。以客服机器人为例，每个请求都以相同的一段文本开头：“您是 AnyCompany 的支持代表。以下是我们的政策……”随后是客户输入的具体内容。开头的指令部分可能有 3000 个 token，而末尾客户的问题可能只有 50 个 token。\n\n这意味着在成百上千个请求中，您的模型一次又一次地重复处理这相同的 3000 个 token 开头。\n\nvLLM 和 TensorRT-LLM 等 LLM 服务框架对此有相应的解决方案。它们会对之前见过的提示词前缀缓存计算出的键值（KV）对。当新请求中出现相同的开头时，模型会复用缓存的计算结果，仅处理末尾新增的 token。这被称为前缀缓存（prefix caching），它可以显著降低首 token 延迟（TTFT）。\n\n但是，当扩展到单个实例以上时就会出现问题。如果端点背后有一组机器集群，请求就会分散到所有机器上。同一个 3000 token 的前缀，一个请求可能落在实例 A 上，下一个落在实例 B 上，再下一个落在实例 C 上。每个实例都必须从零开始重新计算，因为它们都没有足够频繁地接收到该前缀，无法构建起可靠的缓存。前缀缓存功能虽然存在，但路由层把请求分散得过细，导致该功能无法发挥作用。\n\n今天，Amazon SageMaker Inference 推出了前缀感知路由（prefix-aware routing）。这是一种全新的路由策略，它会检查每个请求的开头，并始终将具有相同开头的请求发送到同一个实例。这样一来，该实例上的 KV 缓存就能真正建立起来并被复用。在我们基于 Llama 3.1 70B 的基准测试中，这使 P50 TTFT 降低了多达 77%，并将吞吐量提高了多达 16%。它还将 KV 缓存命中率从大约 25% 提升至 80% 以上。\n\n前缀感知路由的作用\n\n当请求到达您的端点时，Amazon SageMaker 会查看有效负载的开头，并据此决定由哪个实例进行处理。相同的开头会被分配到同一个实例。不同的开头则分散到不同的实例。如果 10 个请求共享一个前缀或开头，这 10 个请求都会前往同一台机器，而该机器针对该前缀的缓存将保持热状态。\n\n您无需自行标记请求或管理亲和性。端点会根据请求的内容自动处理。\n\n该功能包含两项内置防护机制：\n\n过载保护。如果某个前缀极其热门且目标实例已达到满载容量，端点会将请求改道发送至较空闲的实例。您配置并发上限，端点会遵守该限制。虽然该请求可能会错失缓存命中，但避免了单台机器过载瘫痪。\n\n扩缩容期间的稳定表现。当您添加或移除实例时，大多数请求仍会继续发送到它们之前前往的相同实例。只有极少部分流量会转移以适应集群的变化。您的缓存不会在每次扩缩容时都失效。\n\n性能基准测试\n\n我们在 7 台配备 vLLM（已启用前缀缓存）的 ml.p5.48xlarge 实例上使用 Llama 3.1 70B Instruct，对前缀感知路由与默认的随机路由基线进行了基准测试。我们运行了 16 种测试配置，涵盖单模型端点、推理组件端点、原生 Invoke API 以及兼容 OpenAI 的 API。所有测试均以 100% 的成功率完成。\n\n长上下文工作负载\n\n8000 token 共享前缀，持续测试 1 小时：\nP90 TTFT：降低 33%–37%。\nP50 TTFT：降低 71%–77%。\nKV 缓存命中率：从大约 25% 提升至 82%。\n吞吐量：提升 15%–16%。\n\n短上下文工作负载\n\n变长 ShareGPT 风格对话，持续测试 30 分钟：\nP90 TTFT：降低 24%–37%。\nP50 TTFT：降低 13%–16%。\nKV 缓存命中率：从大约 30% 提升至 80%。\n吞吐量：提升 1.7%–2.0%。\n\n共享前缀越长，收益越大。长上下文工作负载获益最多，因为每次缓存命中可以跳过更多的计算量。短上下文工作负载同样受益，但由于共享前缀较短，每个请求节省的开销按比例相对较小。\n\n前缀感知路由逻辑为每个请求增加了 1.3 至 1.9 毫秒的开销。在这些测试中，模型 TTFT 范围为 63 至 280 毫秒。路由成本微乎其微。\n\n在所有场景中，流量分布均保持均衡。7 个实例中的每一个都接收到了 13.3% 至 15.4% 的请求，与理想的均匀分配相比偏差在 1% 以内。未出现热点倾斜。\n\nSageMaker Inference 上的路由策略\n\n随着本次发布，Amazon SageMaker Inference 为实时端点提供三种路由策略：\n\nRANDOM（默认）：在各实例间均匀分配请求。推荐用于通用工作负载、非 LLM 模型，或者请求可互相替代且将特定请求发送给特定实例并无收益的场景。\n\nLEAST_OUTSTANDING_REQUESTS：将每个请求发送给当前处理中请求数最少的实例。推荐在请求处理时间差异较大、且希望让所有实例保持同等忙碌时使用。有助于防止耗时较长的请求堆积在单台机器上而其他机器处于闲置状态。\n\nPREFIX_AWARE（新增）：将共享相同提示词前缀的请求发送至同一个实例。推荐用于大量请求在开头共享通用文本、且服务框架已启用前缀缓存的 LLM 工作负载。\n\n您可以在端点配置中为每个生产变体设置该策略。您可以通过更新端点配置在策略之间进行切换，而无需重新部署模型。\n\n何时使用前缀感知路由\n\n当您的请求在开头共享文本时，该功能即可发挥价值。以下是它影响最显著的几种模式：\n\n检索增强生成（RAG）应用。系统检索出文档并将其置于用户问题之前。当多个用户就同一文档提问时，他们都共享该文档作为前缀。前缀感知路由会将这些请求发送到同一个实例，在该实例上该文档的 KV 缓存已经处于预热状态。\n\n多轮对话。对话中的每一轮都包含先前所有轮次的完整历史记录。随着对话轮数增加，该共享历史会变成更长、计算代价更高的前缀。基于该前缀进行路由可使对话缓存在跨轮次时保持在同一个实例上。\n\n模板化机器人与助手。具有冗长、结构化指令（政策、格式规则、人设定义）的机器人会在每个请求中发送这些相同的指令。只有末尾的用户消息发生变化。前缀感知路由意味着高开销的指令块只需处理一次，而不是成千上万次。\n\n代码补全。编程助手会将文件内容作为上下文包含进来。当开发者在同一个文件中工作时，每一个补全请求都会共享该文件内容作为前缀。\n\n您可以在创建终端节点配置时配置前缀感知路由。有两个参数用于控制其行为：\n\nPrefixLength（1024–65536）：用于路由的请求内容长度。对于原生 Amazon SageMaker Invoke API，这是请求正文开头的字节数；对于兼容 OpenAI 的 API，这是从提取的消息文本中的字符数。请将其设置为涵盖您的共享前缀，并加上足够的唯一内容，以便将不同工作负载分散到各个实例上。\n\nConcurrencyThreshold（1–1024）：在触发溢出前目标实例上的最大在途（in-flight）请求数。如果目标实例达到此限制，请求将转而发送至负载较轻的实例。\n\naws sagemaker create-endpoint-config \\\n  --endpoint-config-name example-llm-config \\\n  --production-variants '[{ \"VariantName\": \"AllTraffic\", \"ModelName\": \"example-llm-model\", \"InitialInstanceCount\": 3, \"InstanceType\": \"ml.p5.48xlarge\", \"RoutingConfig\": { \"RoutingStrategy\": \"PREFIX_AWARE\", \"PrefixAwareRoutingConfig\": { \"PrefixLength\": 4096, \"ConcurrencyThreshold\": 10 } } }]'\n\n然后照常创建您的终端节点：\n\naws sagemaker create-endpoint \\\n  --endpoint-name example-llm-endpoint \\\n  --endpoint-config-name example-llm-config\n\n无需对模型容器或服务框架进行任何更改。前缀感知路由完全在终端节点路由层运行。\n\n调用终端节点\n\n调用终端节点的方式没有任何改变。相同的 InvokeEndpoint 和 InvokeEndpointWithResponseStream API 与之前完全一致地工作：\n\naws sagemaker-runtime invoke-endpoint \\\n  --endpoint-name example-llm-endpoint \\\n  --content-type application/json \\\n  --body fileb://request.json \\\n  output.json\n\n兼容 OpenAI 的 Chat Completion API 同样如此：\n\nfrom openai import OpenAI\nfrom sagemaker.core.token_generator import generate_token\n\nclient = OpenAI(\n    base_url=f\"https://runtime.sagemaker.us-west-2.amazonaws.com\"\n             f\"/endpoints/example-llm-endpoint/openai/v1\",\n    api_key=generate_token(region=\"us-west-2\")\n)\nresponse = client.chat.completions.create(\n    model=\"example-model\",\n    messages=[\n        {\"role\": \"user\", \"content\": \"What is your return policy?\"},\n    ],\n)\n\n多租户前缀隔离\n\n如果不同租户共享相同的提示词指令，但您希望将它们分开路由（以保持缓存上下文的独立性），可以传递一个可选的 ID：\n\n原生 Invoke API：设置 X-Amzn-SageMaker-Prefix-Aware-Id 请求头（最多 64 个 ASCII 字符）。\n\nOpenAI API：在请求正文中包含 prompt_cache_key 字段。\n\n该 ID 会与前缀结合，从而使具有相同前缀但 ID 不同的请求落在不同的实例上。\n\n推理组件与 LoRA 适配器\n\n前缀感知路由适用于推理组件终端节点和动态低秩自适应（LoRA）适配器。对于推理组件，其行为与单模型终端节点相同。对于 LoRA 适配器，它在适配器的粘性实例集内运行，在已经加载该适配器的实例之间使用基于前缀的选择。\n\n在您的服务框架中启用前缀缓存。前缀感知路由会将重复的前缀引导至同一个实例，但您的容器需要开启前缀缓存，才能真正存储和复用这些 KV 对。在 vLLM 中，最近的版本默认已启用此功能。其他框架可能需要显式配置。\n\n保持请求序列化一致。对于原生 Invoke API，PrefixLength 作用于原始字节。JSON 空格、键顺序和格式都会影响路由。如果您在不同请求中对相同提示词进行不同的序列化，它们最终可能会落在不同的实例上。请使用一致的序列化。\n\n谨慎设定 PrefixLength 的大小。太短会导致具有相同短前缀的所有请求都被汇集到一个实例，从而触发溢出；太长则微小的负载差异（如 temperature 值）就会将本应放在一起的请求分散开。建议从共享前缀的长度加上适度缓冲开始设定。\n\n您至少需要两个实例。如果只有一个实例，无论采用何种策略，所有请求都会前往同一个地方。\n\n监控缓存命中率。启用 SageMaker 详细可观测性，以跟踪模型级别的 KV 缓存命中率。这可以验证前缀感知路由是否适用于您的具体工作负载。\n\n前缀感知路由现已在 SageMaker 实时推理终端节点上正式可用。请将您的 AWS SDK 或 CLI 更新到最新版本，以访问新的 RoutingStrategy 和 PrefixAwareRoutingConfig 参数。有关在终端节点创建期间如何启用它的示例，请参阅此 Notebook。\n\nKareem 是 AWS 的首席产品经理。他专注于在 Amazon SageMaker HyperPod 上支持生成式 AI 模型的开发与治理。在此之前，他在 Amazon QuickSight 负责嵌入式分析和开发者体验。除了 QuickSight，他还曾在 AWS Marketplace 和 Amazon 零售部门担任产品经理。Kareem 的职业生涯始于呼叫中心技术开发人员、Expedia 的 Local Expert 与广告技术开发，以及麦肯锡的管理顾问。\n\nVivek 是 SageMaker 推理全球解决方案架构负责人。他负责 SageMaker 推理的解决方案架构、技术市场拓展（GTM）及对外产品策略。他还帮助企业和初创公司部署并优化生成式 AI 模型，并使用 SageMaker 和 GPU 构建 AI 工作流。目前，他专注于制定优化推理性能以及针对智能体工作流和 RAG 等用例的策略与内容。业余时间，Vivek 喜欢远足、看电影和品尝各种美食。\n\nDmitry 是 AWS SageMaker 推理全球专业解决方案架构负责人。他带领团队帮助客户在企业范围内设计、构建和优化生成式 AI 及 AI/ML 解决方案。他的工作涵盖广泛的机器学习用例，主要聚焦于生成式 AI、深度学习以及规模化部署机器学习。他曾与金融服务、保险和电信等各行业的企业展开合作。您可以在 LinkedIn 上与 Dmitry 取得联系。\n\nVamsi 在 AWS 负责市场拓展（GTM）和收入加速举措，为客户支持推理和 ModelOps 工作负载，并推动 Amazon SageMaker AI 和生成式 AI 的开源用例与产品功能。他在 AWS、戴尔和 Infosys 拥有超过 16 年的经验，兼具云计算、高性能计算（HPC）、人工智能（AI）、机器学习（ML）和分析领域的深厚技术专长与商业认知。他拥有德州农工大学梅斯商学院的 MBA 学位。\n\nXu Deng 是 SageMaker 团队的软件工程经理。他专注于帮助客户在 Amazon SageMaker 上构建和优化 AI/ML 推理体验。闲暇时间，他热爱旅行和单板滑雪。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 71,
+        "translationParagraphs": 63,
+        "keyTakeaways": [
+          "Amazon SageMaker Inference推出了前缀感知路由（prefix-aware routing）功能，将共享相同提示前缀的请求发送至同一实例以保持KV缓存预热。",
+          "在针对Llama 3.1 70B Instruct的8000-token共享前缀长上下文基准测试中，前缀感知路由使P50首字生成时间（TTFT）降低了71%至77%，P90 TTFT降低了33%至37%，KV缓存命中率从约25%提高至82%，吞吐量提升了15%至16%。",
+          "来源叙事重点：重点宣传新推出的前缀感知路由（prefix-aware routing）功能的技术原理、性能基准优势（降低TTFT、提升KV缓存命中率及吞吐量）与部署实操方法，强调其在多实例LLM推理场景中的开箱即用与系统稳定性。"
+        ],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T21:58:09.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/"
+          }
+        ]
+      },
+      {
+        "id": "story-llion-milestone-11536cfc-6629937e351e5d86",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SpaceX is inching closer to this lofty $100 billion milestone",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:19:00.000Z",
+        "pubTime": "2026-09-11 06:19",
+        "url": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "SpaceX has set an ambitious revenue target and a newly disclosed computing-power deal could get the company a bit nearer to its goal.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 06:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T22:19:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-8a51732b48f2dcf0",
+        "title": "要闻：Gleam Gathering 聚会活动重磅回归，并落地伦敦",
+        "originalTitle": "Gleam Gathering 2027",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:40:27.000Z",
+        "pubTime": "2026-09-11 03:40",
+        "url": "https://gleamgathering.com/",
+        "imageUrl": null,
+        "fullContent": "The Gathering is back and in London.\n\nMake a weekend of it:\n\nCreator of the Gleam Language\n\nSee our call for talks\n\nThe 2027 event will be in the center of London at dedicated event space 44 Hallam St.\n\nVisit their directions page for detailed information on getting there.\n\nIf you don't see any ticket options, you can go here. We've had reports of it failing to load.\n\nWe’re now accepting talk proposals for Gleam Gathering 2027. Whether you’re an experienced speaker or new to presenting, we want to hear your ideas. This is your chance to contribute to the community, share knowledge, and inspire others. Gleam welcomes everyone and we want to ensure this is continued in the GG27.\n\nWe welcome talks that are:\n\nWhat we aren’t looking for this time:\n\nWe’re committed to supporting every speaker who submits a proposal. Here’s what you can expect from us:\n\nBetter known as Crowdhailer online, I've been coding for over a decade. As an early contributor to Gleam, I've always been excited about the possibilities that Gleam offered to the coding community. When I am not using Gleam in production, I'm working on my own language, EYG. See you in 2027?\n\nBringing the community together is central to this event, and we would like to extend this to any potential sponsors for the event. If your organisation, or an organisation you know of, would be interested in sponsoring GG27, then please do drop us a line at gleamgathering2026@gmail.com.",
+        "fullTranslation": "Gleam Gathering 聚会活动重磅回归，并落地伦敦。\n\n把它变成一个充实的周末：\n\nGleam 语言创始人\n\n查看我们的演讲征集通知\n\n2027 年的活动将在伦敦市中心的专属活动场地哈勒姆街 44 号（44 Hallam St）举行。\n\n请访问其路线指引页面，获取前往场地的详细信息。\n\n如果您看不到任何购票选项，可以访问此处。我们此前收到了页面加载失败的反馈。\n\n我们现已开放 Gleam Gathering 2027 的演讲提案征集。无论您是经验丰富的演讲者还是初次登台，我们都期待听到您的想法。这是您为社区贡献力量、分享知识并启发他人的绝佳机会。Gleam 欢迎所有人的参与，我们希望在 GG27 中延续这一精神。\n\n我们欢迎符合以下特点的演讲：\n\n我们本次不寻求的内容：\n\n我们致力于为每一位提交提案的讲者提供支持。以下是我们能为您提供的保障：\n\n我在网络上更常用的名字是 Crowdhailer，从事编程已有十余年。作为 Gleam 的早期贡献者，我一直对 Gleam 为编程社区带来的无限可能感到振奋。当不在生产环境中使用 Gleam 时，我便致力于开发自己的编程语言 EYG。2027 年见？\n\n将社区凝聚在一起是本次活动的核心，我们也希望将这份凝聚力延伸至活动的任何潜在赞助商。如果您的机构或您了解的机构有意赞助 GG27，请随时发邮件至 gleamgathering2026@gmail.com 与我们联系。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "Gleam Gathering 2027将在伦敦市中心的专用活动场地44 Hallam St举行。",
+          "Gleam Gathering 2027目前正在公开征集演讲提案（Call for talks）。",
+          "来源叙事重点：宣布Gleam编程语言社区大会（Gleam Gathering 2027）在伦敦举办的消息，重点介绍会议场地、演讲提案征集（CFP）、讲者支持政策以及赞助招募，营造开放包容的开发者社区氛围。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:40:27.000Z",
+            "url": "https://gleamgathering.com/"
+          }
+        ]
+      },
+      {
+        "id": "story-ather-worse-history-html-a2ce0616faf80dbe",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Future catastrophic weather could be 'far worse' than history suggests",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:20:01.000Z",
+        "pubTime": "2026-09-11 06:20",
+        "url": "https://phys.org/news/2026-09-future-catastrophic-weather-worse-history.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2021/cyclone.jpg",
+        "fullContent": "Historical records of the deadliest storms and heat waves may be a poor indicator of the scale and impact future weather disasters could have, scientists at King's College London warn.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-11 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-future-catastrophic-weather-worse-history.html",
+            "publishedAt": "2026-09-10T22:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-11-10694363-shtml-d4eccac4a09920cf",
+        "title": "菲律宾内政部长：全国无证枪支或达200万支",
+        "originalTitle": "菲律宾内政部长：全国无证枪支或达200万支",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-10T22:35:56.000Z",
+        "pubTime": "2026-09-11 06:35",
+        "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694363.shtml",
+        "imageUrl": null,
+        "fullContent": "中新社马尼拉9月10日电 (记者 周璟)菲律宾内政部长10日表示，菲全国流通的无证枪支数量估计高达200万支。\n\n在当天举行的参议院预算听证会上，内政部长雷穆利亚称，政府正收集情报，并计划推动修订所谓“罗宾·帕迪利亚”的相关法律。该法即第8294号共和国法案，修订了第1866号总统令，将非法持有枪支定为可保释罪行。\n\n当参议员埃尔西托询问全国有多少无证枪支时，雷穆利亚称：“我们估计高达200万支。”埃尔西托对此表示惊讶，称此前估计仅为50万至60万支。\n\n雷穆利亚指出，菲律宾约98%的犯罪涉及无证枪支。他认为，若持搜查令查获非法持枪者，相关指控应不得保释。他表示，非法枪支持有者往往是惯犯，一旦保释外出便可能再次犯罪。其余2%的涉枪犯罪来自合法枪支，通常发生在住宅内，或儿童接触枪支时走火。\n\n雷穆利亚还表示，内政部正推动加强枪支持有者的责任追究。合法枪支若被盗并用于犯罪，枪主应承担相应责任。(完)\n\n中国展会“金九”旺 消费引流与产业赋能同发力\n\n新能源电车辐射大，长期开会掉头发、掉腿毛？\n\n2026年国家基本医保药品目录预计于11月发布\n\n中国疾控中心提示：9月重点防范这几类传染病\n\n中新网评：“鬼秤”闹的不是鬼，是信任危机\n\n中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材\n\n网上销售的便携式甲醛检测仪，精准度高达99.9%？\n\n浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢\n\n大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵\n\n中外学生Citywalk北京西城 街巷间开启“开学第一课”\n\n香港新赛马季开锣 赛驹“嘉应高升”再创新纪录\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”\n\n6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝\n\n法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币\n\n北京2027年世界田径锦标赛进入倒计时一周年\n\n贵州绥阳：“80后”女村医奔走山间24年为村\n\n河南洛阳：活力新城绘就古今共生“工笔画”",
+        "fullTranslation": "中新社马尼拉9月10日电 (记者 周璟)菲律宾内政部长10日表示，菲全国流通的无证枪支数量估计高达200万支。\n\n在当天举行的参议院预算听证会上，内政部长雷穆利亚称，政府正收集情报，并计划推动修订所谓“罗宾·帕迪利亚”的相关法律。该法即第8294号共和国法案，修订了第1866号总统令，将非法持有枪支定为可保释罪行。\n\n当参议员埃尔西托询问全国有多少无证枪支时，雷穆利亚称：“我们估计高达200万支。”埃尔西托对此表示惊讶，称此前估计仅为50万至60万支。\n\n雷穆利亚指出，菲律宾约98%的犯罪涉及无证枪支。他认为，若持搜查令查获非法持枪者，相关指控应不得保释。他表示，非法枪支持有者往往是惯犯，一旦保释外出便可能再次犯罪。其余2%的涉枪犯罪来自合法枪支，通常发生在住宅内，或儿童接触枪支时走火。\n\n雷穆利亚还表示，内政部正推动加强枪支持有者的责任追究。合法枪支若被盗并用于犯罪，枪主应承担相应责任。(完)\n\n中国展会“金九”旺 消费引流与产业赋能同发力\n\n新能源电车辐射大，长期开会掉头发、掉腿毛？\n\n2026年国家基本医保药品目录预计于11月发布\n\n中国疾控中心提示：9月重点防范这几类传染病\n\n中新网评：“鬼秤”闹的不是鬼，是信任危机\n\n中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材\n\n网上销售的便携式甲醛检测仪，精准度高达99.9%？\n\n浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢\n\n大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵\n\n中外学生Citywalk北京西城 街巷间开启“开学第一课”\n\n香港新赛马季开锣 赛驹“嘉应高升”再创新纪录\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”\n\n6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝\n\n法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币\n\n北京2027年世界田径锦标赛进入倒计时一周年\n\n贵州绥阳：“80后”女村医奔走山间24年为村\n\n河南洛阳：活力新城绘就古今共生“工笔画”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "菲律宾内政部长雷穆利亚在参议院预算听证会上表示，菲全国流通的无证枪支数量估计高达200万支。",
+          "菲律宾政府正计划推动修订第8294号共和国法案，该法案修订了第1866号总统令，将非法持有枪支定为可保释罪行。",
+          "来源叙事重点：重点呈现菲律宾非法枪支泛滥的严重态势（估计达200万支）、高涉案比例（98%）以及内政部推动收紧保释法案和强化合法持枪人法律责任的立法主张"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-10T22:35:56.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694363.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story--astounding-70-next-year-ab2afd5299068837",
+        "title": "黄仁勋解释英伟达明年为何将实现高达70%的惊人增长",
+        "originalTitle": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T21:51:59.000Z",
+        "pubTime": "2026-09-11 05:51",
+        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "imageUrl": null,
+        "fullContent": "Founder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his company’s AI domination — and revenues — will continue its record-breaking growth streak through the end of next year.\n\nHe can see the future.\n\nThere’s been endless hand-wringing over whether Nvidia’s party will end as it faces increasing competition for GPUs and AI chips from all directions: the hyperscalers (Amazon, Microsoft, and Google, each building their own) and the AI labs (Anthropic and OpenAI, which are building their own), as well as from newly public competitor Cerebras and startups such as Etched.\n\n“Most people think Nvidia builds a chip. I mean, you need airplanes to ship what we build,” Huang said, adding that the company continues to battle a perception from its early days. Nvidia invented the GPU, which back then were largely sold to consumers to improve PC gaming. “One GPU now is not $399. It’s $8.5 million dollars. That’s one GPU, all connected with NVLink, 2 million parts, right? 250,000 kilowatts. That’s a GPU, and we ship thousands of them.”\n\nHe added that orders for just one product, a computer system that combines 36 Grace CPUs with 72 Blackwell GPUs, is currently experiencing 27% month-to-month sales growth.\n\nHuang didn’t limit his bullish view to current sales though. He took the opportunity to reiterate Nvidia’s revenue outlook for next year — guidance the company provided last month when it reported yet another record-breaking revenue quarter. That’s when he first said revenue could grow by 70% next year.\n\n“I think we could grow 70% year over year. We’re confident about that,” Huang said again on Thursday. Analysts expect the company to end its current fiscal year at about $400 billion in revenue. So 70% growth would mean around $680 billion next year.\n\nHuang explained why he’s confident: His company is so embedded in every area of AI that he believes he can see the future.\n\n“Nvidia runs every model. Every single lab can use us,” the CEO said, mentioning that this includes models from Anthropic, OpenAI, and Google, as well as open-weight offerings. “We are a foundational platform of the AI ecosystem, foundational platform of the AI industry.”\n\nNvidia’s fingers extend all the way from its suppliers, such as memory chip makers, to data center projects and startups.\n\n“We’re tracking every single gigawatt of land, power, shell around the world. Literally everything on the planet,” he said. (“Shell” refers to the shell of a data center building before it is outfitted with computers).\n\n“I mean, just think about all my partners. How many neoclouds are reporting back to us? How many OEMs are reporting back to us? How many clouds are reporting back to us? How many AI-native companies are reporting back to us? We’re working with everybody, and so we kind of know where everything is,” he said.\n\nThat comment led to inevitable questions about Nvidia’s so-called circular deals, in which it invests in companies that turn around and buy its wares. Such schemes famously contributed to the downfall of a previous generation of internet build-out suppliers like Lucent Technologies.\n\nHuang had a simple, albeit cheeky, response. “Well, it’s not circular because we put a little bit of money in, and a lot of money comes back.” He went on to joke, “I look at the spreadsheet, we put in $1 and $100 comes back in. Is that circular? If that is, let’s do more of that.”\n\nQuips aside, he insisted that before any of these companies gets an investment, Nvidia makes sure it has real contracts generating revenue from customers. All told, he said he’s seen $100 billion worth of such contracts, “I’m not taking any risks. … I need a sure thing.”\n\nTime will tell whether Nvidia’s stronghold on AI can really persist long term. If there’s one golden rule of the tech industry, it’s that all big things get disrupted. Right now, even Huang admits that much of AI’s growth is coming from AI-native startups that are raising vast sums and spending most of that cash on their own AI use. As the AI industry matures, expect companies to become more efficient in how they use infrastructure and tokens.\n\nBut for now, Nvidia has its finger in every pie and sees another year of plenty in its future.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride\n\nTechCrunch Mobility: Tesla Cybercab hits the road — and a snag\n\nHikers rescued after using Google Gemini for planning\n\nFeds launch investigation into Tesla’s Cybercab deployment",
+        "fullTranslation": "英伟达创始人、首席执行官兼不知疲倦的宣传推手黄仁勋周四在高盛Communacopia + Technology大会上向与会者解释，为何他的公司在人工智能领域的统治地位以及营收将持续其破纪录的增长势头直至明年年底。\n\n因为他能够看清未来。\n\n人们一直在无休止地担忧英伟达的狂欢是否会走向终结，因为该公司正面临来自各方在GPU和AI芯片方面日益激烈的竞争：超大规模云服务商（亚马逊、微软和谷歌，各自都在研发自己的芯片）以及AI实验室（Anthropic和OpenAI，它们也在自研芯片），此外还有新上市的竞争对手Cerebras以及Etched等初创公司。\n\n“大多数人认为英伟达生产的是芯片。但我的意思是，运送我们制造的东西需要用上飞机，”黄仁勋说道，并补充称公司仍在与早期的刻板认知作斗争。英伟达发明了GPU，当时主要是向消费者销售以改善PC游戏体验。“现在一个GPU不是399美元，而是850万美元。那是一个全部通过NVLink互连、包含200万个零件的GPU，对吧？功率达25万千瓦。这就是一个GPU，而我们要出货数千个。”\n\n他补充道，仅针对一款产品——将36颗Grace CPU与72颗Blackwell GPU整合在一起的计算机系统——目前的月环比销售增长率就达到了27%。\n\n不过，黄仁勋并没有把他的乐观观点局限于目前的销售额。他借此机会重申了英伟达明年的营收展望——这是该公司上个月公布又一个创纪录营收季度时给出的业绩指引。当时他首次表示，明年的营收可能增长70%。\n\n“我认为我们同比能够增长70%。对此我们很有信心，”黄仁勋周四再次表示。分析师预计该公司当前财年的营收约为4000亿美元。因此，70%的增长意味着明年营收将达到约6800亿美元。\n\n黄仁勋解释了他充满信心的原因：他的公司已经深深植根于AI的各个领域，以至于他相信自己能预见未来。\n\n“英伟达运行着每一个模型。每一个实验室都可以使用我们，”这位首席执行官表示，并提到这包括来自Anthropic、OpenAI和谷歌的模型，以及开源权重产品。“我们是AI生态系统的基础平台，是AI产业的基础平台。”\n\n英伟达的触角从其供应商（如内存芯片制造商）一路延伸至数据中心项目和初创公司。\n\n“我们正在追踪全球范围内的每一吉瓦土地、电力、建筑外壳。毫不夸张地说是这颗星球上的一切，”他说道。（“外壳”指的是未配备计算机之前的数据中心建筑主体）。\n\n“我的意思是，想想我所有的合作伙伴吧。有多少新型云服务商在向我们汇报？有多少OEM厂商在向我们汇报？有多少传统云服务商在向我们汇报？有多少AI原生公司在向我们汇报？我们与所有人合作，所以我们在某种程度上对所有事情的发展动态了如指掌，”他说道。\n\n这番言论不可避免地引发了对英伟达所谓“循环交易”的质疑，即英伟达投资一些公司，而这些公司转头又购买英伟达的产品。众所周知，这种模式正是导致朗讯科技（Lucent Technologies）等上一代互联网基础设施建设供应商倒闭的原因之一。\n\n黄仁勋给出了一个简单但略带调侃的回应。“嗯，这不是循环，因为我们投入了一点点钱，换回来的却是大笔资金。”他接着开玩笑道：“我看财务电子表格，我们投进去1美元，回流了100美元。这算循环吗？如果算，那就让我们多做点这样的事吧。”\n\n调侃归调侃，他坚称在向这些公司投资之前，英伟达都会确保对方拥有能从客户那里产生收入的真实合同。总的来说，他表示自己已经看到了价值1000亿美元的此类合同，“我不承担任何风险。……我需要的是确定的事情。”\n\n时间会证明英伟达在AI领域的统治地位是否真能长期持续。如果说科技行业有一条黄金法则，那就是所有庞然大物最终都会被颠覆。眼下，就连黄仁勋也承认，AI的很多增长来自于筹集巨额资金并将其大部分现金用于自身AI业务的AI原生初创企业。随着AI产业的成熟，预计各家公司在使用基础设施和Token时会变得更加高效。\n\n但就目前而言，英伟达在各个领域都有涉足，并预见未来又将是一个丰收之年。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n不要错过。初创企业界将齐聚一堂，共同探讨一个核心问题：在AI时代，你该如何实现可持续发展？\n\nAutomattic董事会迫使CEO马特·穆伦维格休假\n苹果发布其首款折叠屏手机iPhone Duo\n纽约大学数学家称OpenAI在关键数学问题上使用了卑鄙手段\n一部关于伊丽莎白·霍姆斯的神秘新纪录片震惊特柳赖德电影节\nTechCrunch出行：特斯拉Cybercab上路——遭遇挫折\n徒步旅行者依靠谷歌Gemini制定路线后获救\n联邦政府对特斯拉Cybercab部署展开调查",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "英伟达CEO黄仁勋在高盛Communacopia + Technology大会上重申，预计公司明年营收将同比增长70%。",
+          "分析师预计英伟达当前财年营收约为4000亿美元，若增长70%，明年营收将达到约6800亿美元。",
+          "来源叙事重点：报道英伟达CEO黄仁勋在投资大会上对明年营收增长70%的乐观预期，同时重点审视市场对其生态“循环交易”风险与科技巨头自研芯片竞争等潜在隐患的质疑"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T21:51:59.000Z",
+            "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
+          }
+        ]
+      },
+      {
+        "id": "story-rocery-shopping-2083fec3-fa8efa19f2cf9cbf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:18:00.000Z",
+        "pubTime": "2026-09-11 06:18",
+        "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Diesel touches everything in the economy,” one analyst says.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 06:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T22:18:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ear-pact-built-on-drones-d730da5ccd336a0e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Canada, Ukraine forge 100-year pact built on drones and defence",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T18:49:15.000Z",
+        "pubTime": "2026-09-11 02:49",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wcs2pv/canada_ukraine_forge_100year_pact_built_on_drones/",
+        "imageUrl": "https://external-preview.redd.it/pukRGGIqnAwPDLFOXYzULPCVwhjORj7y6evBCntk-Kw.jpeg?width=320&crop=smart&auto=webp&s=8ccd9903525d1b074a37c6bc32c116506f6336b6",
+        "fullContent": "submitted by /u/pjw724 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-11 02:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wcs2pv/canada_ukraine_forge_100year_pact_built_on_drones/",
+            "publishedAt": "2026-09-10T18:49:15.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-trezvost-2116941526-html-0f9f00e1488f2daa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Названы самые трезвые регионы России",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T22:38:46.000Z",
+        "pubTime": "2026-09-11 06:38",
+        "url": "https://ria.ru/20260911/trezvost-2116941526.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/148483/83/1484838373_0:314:5968:3670_650x0_80_0_0_2df254b80fe8448424029edd56be7248.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 06:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/trezvost-2116941526.html",
+            "publishedAt": "2026-09-10T22:38:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-version-of-the-same-play-6f98020f2f157136",
+        "title": "Thrive Capital 率先带动风投涉足职业体育俱乐部所有权；Collaborative Fund 如今再度升级打法",
+        "originalTitle": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:30:00.000Z",
+        "pubTime": "2026-09-11 06:30",
+        "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+        "imageUrl": null,
+        "fullContent": "Collaborative Fund, the 15-year-old, New York-based generalist venture firm that has roughly $1 billion under management and which made early bets on Lyft, Reddit, Sweetgreen, and Olipop, among others, is taking a stake in the soccer club D.C. United and its stadium, Audi Field.\n\nIt’s the latest — and smallest — firm to try something that Thrive Capital opened the door to just months ago: turning venture money into pro sports ownership.\n\nTo recap, Joshua Kushner’s Thrive launched a new vehicle, Thrive Eternal, explicitly built to hold “iconic franchises and cultural institutions” for decades, funded by many of the same investors already in Thrive’s venture and growth funds. The firm kicked things off by announcing a stake in the San Francisco Giants. Months later, the same vehicle — with former Disney CEO Bob Iger, a Thrive partner, joining as co-owner — bought the Lakers outright for a record $12.5 billion.\n\nThat’s new. Historically, money has poured into pro sports two other ways: individual tech fortunes, and private equity. For example, Vinod Khosla and his family agreed this summer to buy the Seattle Seahawks for a record $9.6 billion soon after the Khosla family also took a stake in the San Francisco 49ers alongside OpenAI chairman Bret Taylor. That was a personal-wealth play, the kind we’ve seen over and over.\n\nPrivate equity firms have also been at this for years, including Sixth Street, which holds stakes in the Boston Celtics, the New England Patriots, and MLB’s San Francisco Giants; Ares, which owns a piece of the Miami Dolphins outright and separately financed Chelsea’s stadium plans through a $500 million preferred-equity deal; RedBird, which owns AC Milan outright and holds a minority stake in Fenway Sports Group, the holding company behind Liverpool and the Red Sox; and Arctos, with minority positions scattered across MLB, the NFL, the NBA, and European soccer. (Apollo, the newest entrant, has mostly stuck to sports financing deals so far rather than ownership stakes.)\n\nThrive and Collaborative are doing neither of those things. At the same time, the two firms’ approaches to sports ownership look very different. Thrive built a standalone, permanent-capital vehicle specifically to hold trophy assets. Collaborative is investing out of the same early-stage fund it uses to write seed and Series A checks, and treating the deal less like something to buy and hold and almost more like infrastructure.\n\nIn a memo shared with TechCrunch, Collaborative Fund founder and managing partner Craig Shapiro framed the deal as an extension of what the firm already does. “A franchise is the ultimate consumer product,” he wrote, arguing that D.C. United’s status as one of Major League Soccer’s original clubs gives Collaborative access to an institution with a decades-long fan base to build on.\n\nHe pointed to the tailwinds around American soccer specifically (a World Cup just behind the sport, the LA Olympics ahead of it, soaring youth participation numbers in the U.S.) as well as D.C.’s ownership of Audi Field in Washington, D.C., plus a talent-development pipeline through Loudoun County, Virginia, and rights to a future Baltimore expansion team.\n\nIndeed, the thesis Shapiro laid out at a TechCrunch StrictlyVC event Thursday night in New York is less about owning a piece of an appreciating asset – the sports team itself – and more about what the team makes possible. Collaborative wants to turn Audi Field into what he describes as a living showcase for its own portfolio.\n\nAs a backer of both fitness band maker Whoop and the beverage brand Olipop, for example, Collaborative Fund is imagining a WHOOP wearables activation for fans, or Olipop drinks woven into game-day concessions. He’s thinking about the stadium’s foot traffic — tens of thousands of people showing up on a predictable schedule — as a distribution channel at a time when, because AI is making more of daily life feel synthetic, live experiences are becoming more valuable.\n\nShapiro doesn’t dwell on this, but it surely helped sell Collaborative’s investors that team valuations have been soaring, so the stake could pay off on its own. Soccer valuations in particular have been on a tear. Inter Miami’s franchise value has roughly doubled in the two years since Lionel Messi arrived, MLS’s average club value is up roughly 134% since 2019, and D.C. United’s own valuation has climbed from $35 million in 2008 to $785 million today, factoring in its ownership of Audi Field and the surrounding real estate.\n\nIf Shapiro is right that a franchise is also “the ultimate consumer product,” it could be a pretty good place to park money. Time will tell.\n\nThe deal is subject to MLS approval.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nEditor in Chief & General Manager\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride\n\nTechCrunch Mobility: Tesla Cybercab hits the road — and a snag\n\nHikers rescued after using Google Gemini for planning\n\nFeds launch investigation into Tesla’s Cybercab deployment",
+        "fullTranslation": "纽约综合性风险投资机构 Collaborative Fund 成立已有 15 年，旗下管理资产约 10 亿美元，曾早期押注 Lyft、Reddit、Sweetgreen 和 Olipop 等公司。如今，该机构正入股足球俱乐部华盛顿特区联队（D.C. United）及其主场奥迪球场（Audi Field）。\n\n就在几个月前，Thrive Capital 打开了一扇大门：将风投资金转化为职业体育俱乐部的所有权；而 Collaborative Fund 则是尝试这一路径的最新、也是规模最小的一家风投机构。\n\n回顾此前，约书亚·库什纳（Joshua Kushner）旗下的 Thrive 推出了一款名为 Thrive Eternal 的全新投资工具，专门用于对“标志性俱乐部专营权和文化机构”进行长达数十年的长期持有，其出资人很多也来自 Thrive 既有的风投基金与成长型基金。该机构首先宣布入股旧金山巨人队（San Francisco Giants）。几个月后，该工具又以创纪录的 125 亿美元全资收购了洛杉矶湖人队（Lakers），Thrive 合伙人、迪士尼前首席执行官鲍勃·伊格尔（Bob Iger）作为联合所有者参与了交易。\n\n这是一种全新模式。历史上，资本流入职业体育主要有两种渠道：科技界个人财富与私募股权。例如，维诺德·科斯拉（Vinod Khosla）及其家族在今年夏天与 OpenAI 董事长布雷特·泰勒（Bret Taylor）一同入股旧金山49人队（San Francisco 49ers）后不久，又同意以创纪录的 96 亿美元收购西雅图海鹰队（Seattle Seahawks）。这属于典型的个人财富运作，过去屡见不鲜。\n\n私募股权机构在此领域也深耕多年，例如：Sixth Street 持有波士顿凯尔特人队、新英格兰爱国者队以及美国职业棒球大联盟（MLB）旧金山巨人队的股份；Ares 全资拥有迈阿密海豚队的部分资产，并曾通过一项 5 亿美元的优先股权益交易为切尔西俱乐部的球场规划提供融资；RedBird 全资拥有 AC 米兰，并持有芬威体育集团（利物浦与红袜队背后的控股公司）的少数股权；Arctos 的少数股权投资则分散在 MLB、NFL、NBA 和欧洲足球俱乐部。（最新入场的 Apollo 迄今主要从事体育融资交易，而非股权所有权。）\n\nThrive 和 Collaborative 走的分明不是这两种路线。同时，这两家机构在体育所有权方面的路径也大相径庭。Thrive 设立了一个独立的永久资本工具，专门用于持有顶级标杆资产；而 Collaborative 则直接从其用于开具种子轮和 A 轮支票的早期基金中出资，其对待这笔交易并不单纯视为长期买入持有，而更像是当成一种基础设施。\n\n在与 TechCrunch 分享的一份备忘录中，Collaborative Fund 创始人兼管理合伙人克雷格·夏皮罗（Craig Shapiro）将这笔交易定位为该机构现有业务的延伸。他写道：“一支俱乐部专营权就是终极的消费品。”他认为，华盛顿特区联队作为美国职业足球大联盟（MLS）的创始俱乐部之一，能够让 Collaborative 依托一个拥有数十年积累的粉丝群体机构展开业务。\n\n他特别指出了美国足球所享受的利好（刚刚举办过世界杯，未来还将迎来洛杉矶奥运会，美国青少年足球参与人数激增），以及华盛顿特区联队拥有位于华盛顿特区的奥迪球场、通过弗吉尼亚州劳登县建立的人才培养梯队，以及未来巴尔的摩扩军球队的优先权益。\n\n事实上，夏皮罗周四晚在纽约举行的 TechCrunch StrictlyVC 活动上阐述的投资逻辑，核心不在于拥有一项升值资产（球队本身）的股份，而在于这支球队能衍生出什么可能性。Collaborative 希望将奥迪球场打造成他口中用于展示被投企业的“活体展示厅”。\n\n例如，作为健身手环制造商 Whoop 和饮料品牌 Olipop 的投资方，Collaborative Fund 设想为球迷举办 WHOOP 可穿戴设备互动体验，或将 Olipop 饮料融入比赛日的特许餐饮销售中。他将体育场的人流——按固定日程聚集的数万人次——视作一条分发渠道。在人工智能正让日常生活越来越具合成感的当下，线下真实体验正变得愈发珍贵。\n\n夏皮罗对此并未过多着墨，但球队估值的飙升无疑有助于说服 Collaborative 的出资人，这意味着该股权本身就能带来回报。尤其是足球俱乐部的估值更是一路狂飙。自利昂内尔·梅西加盟以来的两年内，迈阿密国际的俱乐部估值大约翻了一倍；自 2019 年以来，MLS 俱乐部的平均估值上涨了约 134%；而若算上奥迪球场及周边地产的所有权，华盛顿特区联队自身的估值也已从 2008 年的 3500 万美元攀升至如今的 7.85 亿美元。\n\n如果夏皮罗所说的专营球队也是“终极消费品”这一论断正确，那么这里或许会是沉淀资金的极佳去处。时间会给出答案。\n\n该交易尚需获得美职联（MLS）的批准。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。\n\n主编兼总经理\n\n不要错过。初创企业社区将齐聚一堂，共同探讨一个核心议题：在 AI 时代，如何实现可持续构建？\n\nAutomattic 董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假\n\n苹果推出首款折叠屏手机 iPhone Duo\n\n纽约大学数学家称：OpenAI 在决定职业生涯的重大数学问题上采取了不光彩手段\n\n一部关于伊丽莎白·霍姆斯的绝密新纪录片震撼特柳赖德电影节\n\nTechCrunch 出行：特斯拉 Cybercab 上路——却遭遇波折\n\n徒步旅行者在使用 Google Gemini 规划路线后遇险获救\n\n联邦监管机构对特斯拉 Cybercab 的部署展开调查",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 23,
+        "keyTakeaways": [
+          "Collaborative Fund 正在入股足球俱乐部华盛顿特区联（D.C. United）及其主场奥迪球场（Audi Field），该交易尚需获得 MLS 批准。",
+          "Collaborative Fund 是一家拥有 15 年历史、总部位于纽约的通用风投机构，管理资产规模约 10 亿美元，早期曾投资 Lyft、Reddit、Sweetgreen 和 Olipop 等公司。",
+          "来源叙事重点：报道 Collaborative Fund 直接通过早期风投基金入股 D.C. United 足球俱乐部及奥迪球场，对比 Thrive Capital 设立永久资本载体以及传统 PE/富豪收购模式，重点阐述其将体育场馆和俱乐部视为投后组合落地展示与分发渠道的“基础设施”逻辑。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T22:30:00.000Z",
+            "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/"
+          }
+        ]
+      },
+      {
+        "id": "story--lower-the-cost-6b2d3065-ce0bd6edc54db4d5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:25:00.000Z",
+        "pubTime": "2026-09-11 06:25",
+        "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Wireless carriers are rolling out their initial iPhone promotions, but analysts say there’s no price war just yet.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 06:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T22:25:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tary-advisers-are-on-the-bb3e64e8dc8666f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "More than 100 US military advisers are on the ground in Saudi Arabia, providing support for the war in Yemen, while hundreds of Iranian officers are in Yemen advising the Houthis",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T20:38:03.000Z",
+        "pubTime": "2026-09-11 04:38",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wcv40k/more_than_100_us_military_advisers_are_on_the/",
+        "imageUrl": "https://external-preview.redd.it/eRvRDmsfV_hzQeyRRyhvlum0AXPFnFQfSrYv0LGPyBU.jpeg?width=640&crop=smart&auto=webp&s=f80d1f45b0d7f706b97c0a3ec8129ceeec1c57f7",
+        "fullContent": "submitted by /u/Wowthefrea [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-11 04:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wcv40k/more_than_100_us_military_advisers_are_on_the/",
+            "publishedAt": "2026-09-10T20:38:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-cape-religious-bias-html-774a088251a3fd3c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "25 years after 9/11, research traces changing landscape of religious bias",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:20:04.000Z",
+        "pubTime": "2026-09-11 06:20",
+        "url": "https://phys.org/news/2026-09-years-landscape-religious-bias.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/911-1.jpg",
+        "fullContent": "A quarter-century after the Sept. 11, 2001, terrorist attacks, religious bias in America has not disappeared, but the forces shaping it have changed.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-11 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-years-landscape-religious-bias.html",
+            "publishedAt": "2026-09-10T22:20:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--medvedi-2116941359-html-e441f436e9b1d5d9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ученый объяснил, почему медведи выходят к населенным пунктам Камчатки",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T22:36:23.000Z",
+        "pubTime": "2026-09-11 06:36",
+        "url": "https://ria.ru/20260911/medvedi-2116941359.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/95660/66/956606619_0:58:3135:1821_650x0_80_0_0_91e9fa7d4b28a66949ea314425394b58.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 06:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/medvedi-2116941359.html",
+            "publishedAt": "2026-09-10T22:36:23.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-azon-sagemaker-inference-5d430a9ae2c92295",
+        "title": "利用 Amazon SageMaker Inference 的前缀感知路由降低大语言模型延迟",
+        "originalTitle": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T21:58:09.000Z",
+        "pubTime": "2026-09-11 05:58",
+        "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/10/ML-21885-1.jpg",
+        "fullContent": "When you build an application on top of a large language model (LLM), the prompt you send to the model typically has two parts. There’s a fixed part that sets up context (instructions, reference documents, conversation history) and a variable part that contains the actual user input. Take a customer service bot as an example. Each request starts with the same block of text: “You are a support agent for AnyCompany. Here are our policies…” followed by whatever the customer typed. The instructions at the top might be 3,000 tokens. The customer’s question at the bottom might be 50 tokens.\n\nThis means that across hundreds or thousands of requests, your model is processing that same 3,000-token beginning over and over again.\n\nLLM serving frameworks like vLLM and TensorRT-LLM have a solution for this. They cache the computed key-value (KV) pairs for prompt prefixes that have been seen before. When the same beginning shows up in a new request, the model reuses the cached computation and only processes the new tokens at the end. This is called prefix caching, and it can reduce time-to-first-token (TTFT) significantly.\n\nBut there’s a problem when you scale beyond a single instance. If you have a fleet of machines behind an endpoint, requests get distributed across all of them. That same 3,000-token prefix lands on instance A for one request, instance B for the next, instance C after that. Each instance computes it from scratch because none of them see it frequently enough to build a reliable cache. The prefix caching feature is there, but the routing layer spreads requests too thinly for it to help.\n\nToday, Amazon SageMaker Inference introduces prefix-aware routing. It is a new routing strategy that looks at the beginning of each request and consistently sends requests with the same beginning to the same instance. The KV cache on that instance actually builds up and gets reused. In our benchmarks on Llama 3.1 70B, this reduced P50 TTFT by up to 77 percent and increased throughput by up to 16 percent. It also pushed KV cache hit rates from roughly 25 percent to over 80 percent.\n\nWhat prefix-aware routing does\n\nWhen a request arrives at your endpoint, Amazon SageMaker looks at the beginning of the payload and uses it to decide which instance should handle it. The same beginning goes to the same instance. Different beginnings spread across different instances. If 10 requests share a prefix or beginning, all 10 go to the same machine, and that machine’s cache stays warm for that prefix.\n\nYou don’t need to tag requests or manage affinity yourself. The endpoint handles it based on the content of the request.\n\nThere are two built-in safeguards:\n\nOverload protection. If one prefix is extremely popular and the target instance is already at capacity, the endpoint routes the request to a less busy instance instead. You configure the concurrency limit, and the endpoint respects it. You might miss a cache hit on that one request, but you avoid overwhelming a single machine.\n\nStable behavior during scaling. When you add or remove instances, most requests continue going to the same instance they were going to before. Only a small fraction of traffic shifts to account for the changed fleet. Your caches don’t get invalidated every time you scale.\n\nPerformance benchmarks\n\nWe benchmarked prefix-aware routing against the default random routing baseline using Llama 3.1 70B Instruct on 7 ml.p5.48xlarge instances with vLLM (prefix caching enabled). We ran 16 test configurations covering single model endpoints, inference component endpoints, the native Invoke API, and the OpenAI-compatible API. All tests completed with 100 percent success rate.\n\nLong context workloads\n\n8,000-token shared prefixes, sustained over 1 hour:\n\nP90 TTFT: reduced by 33–37 percent.\n\nP50 TTFT: reduced by 71–77 percent.\n\nKV cache hit rate: from approximately 25–82 percent.\n\nThroughput: increased 15–16 percent.\n\nShort context workloads\n\nVariable-length ShareGPT-style conversations, 30 minutes:\n\nP90 TTFT: reduced by 24–37 percent.\n\nP50 TTFT: reduced by 13–16 percent.\n\nKV cache hit rate: from approximately 30–80 percent.\n\nThroughput: increased 1.7–2.0 percent.\n\nThe longer your shared prefix, the bigger the win. Long context workloads benefit the most because there is more computation to skip on each cache hit. Short context workloads still benefit, but the shared prefixes are smaller so the savings per request are proportionally smaller.\n\nThe prefix-aware routing logic adds 1.3–1.9 milliseconds per request. Model TTFT in these tests ranged 63–280 milliseconds. The routing cost is negligible.\n\nTraffic distribution remained balanced across all scenarios. Each of the 7 instances received 13.3–15.4 percent of requests, within 1 percent of an ideal even split. No hot spots.\n\nRouting strategies on SageMaker Inference\n\nWith this launch, Amazon SageMaker Inference offers three routing strategies for real-time endpoints:\n\nRANDOM (default): Distributes requests uniformly across instances. Recommended for general-purpose workloads, non-LLM models, or a situation where requests are interchangeable and there’s no benefit to sending specific requests to specific instances.\n\nLEAST_OUTSTANDING_REQUESTS: Sends each request to the instance with the fewest in-flight requests. Recommended when request processing times vary and you want to keep all instances equally busy. Helps prevent slow requests from piling up on one machine while others sit idle.\n\nPREFIX_AWARE (new): Sends requests sharing the same prompt prefix to the same instance. Recommended for LLM workloads where many requests share common text at the beginning and your serving framework has prefix caching enabled.\n\nYou set the strategy per production variant in your endpoint configuration. You can switch between them by updating the endpoint configuration without redeploying your model.\n\nWhen to use prefix-aware routing\n\nThe feature delivers value when your requests share text at the beginning. Here are the patterns where it has the most impact:\n\nRetrieval Augmented Generation (RAG) applications. You retrieve a document and prepend it before the user’s question. When multiple users ask questions about the same document, they all share that document as a prefix. Prefix-aware routing sends them to the same instance, where the KV cache for that document is already warm.\n\nMulti-turn conversations. Each turn in a conversation includes the full history of previous turns. As the conversation grows, that shared history becomes a longer and more expensive prefix. Routing on that prefix keeps the conversation’s cache on one instance across turns.\n\nTemplated bots and assistants. Bots with long, structured instructions (policies, formatting rules, persona definitions) send those same instructions with every request. Only the user message at the end changes. Prefix-aware routing means that expensive instruction block gets processed once, not thousands of times.\n\nCode completion. Coding assistants include file contents as context. While a developer works in the same file, every completion request shares that file content as a prefix.\n\nYou configure prefix-aware routing when you create your endpoint configuration. Two parameters control the behavior:\n\nPrefixLength (1024–65536): How much of the request to use for routing. For the native Amazon SageMaker Invoke API, this is bytes from the beginning of the request body. For the OpenAI-compatible API, this is characters from the extracted message text. Set this to cover your shared prefix plus enough unique content to spread different workloads across instances.\n\nConcurrencyThreshold (1–1024): The maximum in-flight requests on the target instance before overflow kicks in. If the target instance is at this limit, the request goes to a less loaded instance instead.\n\naws sagemaker create-endpoint-config \\ --endpoint-config-name example-llm-config \\ --production-variants '[{ \"VariantName\": \"AllTraffic\", \"ModelName\": \"example-llm-model\", \"InitialInstanceCount\": 3, \"InstanceType\": \"ml.p5.48xlarge\", \"RoutingConfig\": { \"RoutingStrategy\": \"PREFIX_AWARE\", \"PrefixAwareRoutingConfig\": { \"PrefixLength\": 4096, \"ConcurrencyThreshold\": 10 } } }]'\n\nThen create your endpoint as usual:\n\naws sagemaker create-endpoint \\ --endpoint-name example-llm-endpoint \\ --endpoint-config-name example-llm-config\n\nNo changes to your model container or serving framework are needed. Prefix-aware routing operates entirely at the endpoint routing layer.\n\nInvoking the endpoint\n\nNothing changes about how you call the endpoint. The same InvokeEndpoint and InvokeEndpointWithResponseStream APIs work exactly as before:\n\naws sagemaker-runtime invoke-endpoint \\ --endpoint-name example-llm-endpoint \\ --content-type application/json \\ --body fileb://request.json \\ output.json\n\nSame for the OpenAI-compatible Chat Completion API:\n\nfrom openai import OpenAI from sagemaker.core.token_generator import generate_token\n\nclient = OpenAI( base_url=f\"https://runtime.sagemaker.us-west-2.amazonaws.com\" f\"/endpoints/example-llm-endpoint/openai/v1\", api_key=generate_token(region=\"us-west-2\") ) response = client.chat.completions.create( model=\"example-model\", messages=[ {\"role\": \"user\", \"content\": \"What is your return policy?\"}, ], )\n\nMulti-tenant prefix isolation\n\nIf different tenants share the same prompt instructions but you want them routed separately (to keep cache contexts independent), pass an optional ID:\n\nNative Invoke API: set the X-Amzn-SageMaker-Prefix-Aware-Id header (up to 64 ASCII characters).\n\nOpenAI API: include the prompt_cache_key field in the request body.\n\nThis ID combines with the prefix so that requests with identical prefixes but different IDs land on different instances.\n\nInference components and LoRA adapters\n\nPrefix-aware routing works with inference component endpoints and dynamic Low-Rank Adaptation (LoRA) adapters. For inference components, it behaves the same as single model endpoints. For LoRA adapters, it operates within the adapter’s sticky instance set, using prefix-based selection among the instances that already have the adapter loaded.\n\nEnable prefix caching in your serving framework. Prefix-aware routing gets repeated prefixes to the same instance, but your container needs prefix caching turned on to actually store and reuse those KV pairs. In vLLM, this is enabled by default in recent versions. Other frameworks might require explicit configuration.\n\nKeep request serialization consistent. For the native Invoke API, PrefixLength operates on raw bytes. JSON whitespace, key ordering, and formatting all affect routing. If you serialize the same prompt differently across requests, they might end up on different instances. Use consistent serialization.\n\nSize PrefixLength carefully. Too short and all requests with the same short prefix get funneled to one instance, triggering overflow. Too long and small payload differences (like temperature values) scatter requests that should stay together. Start with the length of your shared prefix plus a modest buffer.\n\nYou need at least two instances. With one instance, all requests go to the same place regardless of strategy.\n\nMonitor cache hit rates. Enable SageMaker detailed observability to track KV cache hit rates at the model level. This confirms whether prefix-aware routing is working for your specific workload.\n\nPrefix-aware routing is available today on SageMaker real-time inference endpoints. Update your AWS SDK or CLI to the latest version to access the new RoutingStrategy and PrefixAwareRoutingConfig parameters. Refer to this notebook for examples of how to enable it during endpoint creation.\n\nKareem is a Principal Product Manager at AWS. He focuses on enabling generative AI model development and governance on Amazon SageMaker HyperPod. Prior to this, at Amazon Quick Sight, he led embedded analytics and developer experience. In addition to Quick Sight, he has been with AWS Marketplace and Amazon retail as a Product Manager. Kareem started his career as a developer for call center technologies, Local Expert and Ads for Expedia, and management consultant at McKinsey.\n\nVivek is a Worldwide Leader for Solutions Architecture, SageMaker Inference. He leads Solution Architecture, Technical Go-to-Market (GTM) and Outbound Product strategy for SageMaker Inference. He also helps enterprises and startups deploy and optimize generative AI models and build AI workflows with SageMaker and GPUs. Currently, he is focused on developing strategies and content for optimizing inference performance and use cases such as agentic workflows and RAG. In his free time, Vivek enjoys hiking, watching movies, and trying different cuisines.\n\nDmitry is a Worldwide Leader for Specialist Solutions Architecture, SageMaker Inference at AWS. He leads efforts to help customers design, build, and optimize generative AI and AI/ML solutions across the enterprise. His work spans a wide range of ML use cases, with a primary focus on generative AI, deep learning, and deploying ML at scale. He has partnered with companies across industries including financial services, insurance, and telecommunications. You can connect with Dmitry on LinkedIn .\n\nVamsi leads Go-to-Market (GTM) and Revenue Acceleration initiatives at AWS, enabling Inference and ModelOps workloads for our customers, and driving OSS Use Cases and Product features for Amazon SageMaker AI and Generative AI. With over 16 years of experience spanning AWS, Dell, and Infosys, he brings a unique blend of technical depth and business knowledge across Cloud, High-performance computing (HPC), Artificial Intelligence (AI), Machine Learning (ML), and Analytics. He holds an MBA from Texas A&M University’s Mays Business School.\n\nXu Deng is a Software Engineer Manager with the SageMaker team. He focuses on helping customers build and optimize their AI/ML inference experience on Amazon SageMaker. In his spare time, he loves traveling and snowboarding.",
+        "fullTranslation": "基于大语言模型（LLM）构建应用程序时，发送给模型的提示词通常包含两部分。一部分是设定上下文的固定部分（指令、参考文档、对话历史），另一部分是包含实际用户输入的可变部分。以客服机器人为例，每个请求都以相同的一段文本开头：“您是 AnyCompany 的支持代表。以下是我们的政策……”随后是客户输入的具体内容。开头的指令部分可能有 3000 个 token，而末尾客户的问题可能只有 50 个 token。\n\n这意味着在成百上千个请求中，您的模型一次又一次地重复处理这相同的 3000 个 token 开头。\n\nvLLM 和 TensorRT-LLM 等 LLM 服务框架对此有相应的解决方案。它们会对之前见过的提示词前缀缓存计算出的键值（KV）对。当新请求中出现相同的开头时，模型会复用缓存的计算结果，仅处理末尾新增的 token。这被称为前缀缓存（prefix caching），它可以显著降低首 token 延迟（TTFT）。\n\n但是，当扩展到单个实例以上时就会出现问题。如果端点背后有一组机器集群，请求就会分散到所有机器上。同一个 3000 token 的前缀，一个请求可能落在实例 A 上，下一个落在实例 B 上，再下一个落在实例 C 上。每个实例都必须从零开始重新计算，因为它们都没有足够频繁地接收到该前缀，无法构建起可靠的缓存。前缀缓存功能虽然存在，但路由层把请求分散得过细，导致该功能无法发挥作用。\n\n今天，Amazon SageMaker Inference 推出了前缀感知路由（prefix-aware routing）。这是一种全新的路由策略，它会检查每个请求的开头，并始终将具有相同开头的请求发送到同一个实例。这样一来，该实例上的 KV 缓存就能真正建立起来并被复用。在我们基于 Llama 3.1 70B 的基准测试中，这使 P50 TTFT 降低了多达 77%，并将吞吐量提高了多达 16%。它还将 KV 缓存命中率从大约 25% 提升至 80% 以上。\n\n前缀感知路由的作用\n\n当请求到达您的端点时，Amazon SageMaker 会查看有效负载的开头，并据此决定由哪个实例进行处理。相同的开头会被分配到同一个实例。不同的开头则分散到不同的实例。如果 10 个请求共享一个前缀或开头，这 10 个请求都会前往同一台机器，而该机器针对该前缀的缓存将保持热状态。\n\n您无需自行标记请求或管理亲和性。端点会根据请求的内容自动处理。\n\n该功能包含两项内置防护机制：\n\n过载保护。如果某个前缀极其热门且目标实例已达到满载容量，端点会将请求改道发送至较空闲的实例。您配置并发上限，端点会遵守该限制。虽然该请求可能会错失缓存命中，但避免了单台机器过载瘫痪。\n\n扩缩容期间的稳定表现。当您添加或移除实例时，大多数请求仍会继续发送到它们之前前往的相同实例。只有极少部分流量会转移以适应集群的变化。您的缓存不会在每次扩缩容时都失效。\n\n性能基准测试\n\n我们在 7 台配备 vLLM（已启用前缀缓存）的 ml.p5.48xlarge 实例上使用 Llama 3.1 70B Instruct，对前缀感知路由与默认的随机路由基线进行了基准测试。我们运行了 16 种测试配置，涵盖单模型端点、推理组件端点、原生 Invoke API 以及兼容 OpenAI 的 API。所有测试均以 100% 的成功率完成。\n\n长上下文工作负载\n\n8000 token 共享前缀，持续测试 1 小时：\nP90 TTFT：降低 33%–37%。\nP50 TTFT：降低 71%–77%。\nKV 缓存命中率：从大约 25% 提升至 82%。\n吞吐量：提升 15%–16%。\n\n短上下文工作负载\n\n变长 ShareGPT 风格对话，持续测试 30 分钟：\nP90 TTFT：降低 24%–37%。\nP50 TTFT：降低 13%–16%。\nKV 缓存命中率：从大约 30% 提升至 80%。\n吞吐量：提升 1.7%–2.0%。\n\n共享前缀越长，收益越大。长上下文工作负载获益最多，因为每次缓存命中可以跳过更多的计算量。短上下文工作负载同样受益，但由于共享前缀较短，每个请求节省的开销按比例相对较小。\n\n前缀感知路由逻辑为每个请求增加了 1.3 至 1.9 毫秒的开销。在这些测试中，模型 TTFT 范围为 63 至 280 毫秒。路由成本微乎其微。\n\n在所有场景中，流量分布均保持均衡。7 个实例中的每一个都接收到了 13.3% 至 15.4% 的请求，与理想的均匀分配相比偏差在 1% 以内。未出现热点倾斜。\n\nSageMaker Inference 上的路由策略\n\n随着本次发布，Amazon SageMaker Inference 为实时端点提供三种路由策略：\n\nRANDOM（默认）：在各实例间均匀分配请求。推荐用于通用工作负载、非 LLM 模型，或者请求可互相替代且将特定请求发送给特定实例并无收益的场景。\n\nLEAST_OUTSTANDING_REQUESTS：将每个请求发送给当前处理中请求数最少的实例。推荐在请求处理时间差异较大、且希望让所有实例保持同等忙碌时使用。有助于防止耗时较长的请求堆积在单台机器上而其他机器处于闲置状态。\n\nPREFIX_AWARE（新增）：将共享相同提示词前缀的请求发送至同一个实例。推荐用于大量请求在开头共享通用文本、且服务框架已启用前缀缓存的 LLM 工作负载。\n\n您可以在端点配置中为每个生产变体设置该策略。您可以通过更新端点配置在策略之间进行切换，而无需重新部署模型。\n\n何时使用前缀感知路由\n\n当您的请求在开头共享文本时，该功能即可发挥价值。以下是它影响最显著的几种模式：\n\n检索增强生成（RAG）应用。系统检索出文档并将其置于用户问题之前。当多个用户就同一文档提问时，他们都共享该文档作为前缀。前缀感知路由会将这些请求发送到同一个实例，在该实例上该文档的 KV 缓存已经处于预热状态。\n\n多轮对话。对话中的每一轮都包含先前所有轮次的完整历史记录。随着对话轮数增加，该共享历史会变成更长、计算代价更高的前缀。基于该前缀进行路由可使对话缓存在跨轮次时保持在同一个实例上。\n\n模板化机器人与助手。具有冗长、结构化指令（政策、格式规则、人设定义）的机器人会在每个请求中发送这些相同的指令。只有末尾的用户消息发生变化。前缀感知路由意味着高开销的指令块只需处理一次，而不是成千上万次。\n\n代码补全。编程助手会将文件内容作为上下文包含进来。当开发者在同一个文件中工作时，每一个补全请求都会共享该文件内容作为前缀。\n\n您可以在创建终端节点配置时配置前缀感知路由。有两个参数用于控制其行为：\n\nPrefixLength（1024–65536）：用于路由的请求内容长度。对于原生 Amazon SageMaker Invoke API，这是请求正文开头的字节数；对于兼容 OpenAI 的 API，这是从提取的消息文本中的字符数。请将其设置为涵盖您的共享前缀，并加上足够的唯一内容，以便将不同工作负载分散到各个实例上。\n\nConcurrencyThreshold（1–1024）：在触发溢出前目标实例上的最大在途（in-flight）请求数。如果目标实例达到此限制，请求将转而发送至负载较轻的实例。\n\naws sagemaker create-endpoint-config \\\n  --endpoint-config-name example-llm-config \\\n  --production-variants '[{ \"VariantName\": \"AllTraffic\", \"ModelName\": \"example-llm-model\", \"InitialInstanceCount\": 3, \"InstanceType\": \"ml.p5.48xlarge\", \"RoutingConfig\": { \"RoutingStrategy\": \"PREFIX_AWARE\", \"PrefixAwareRoutingConfig\": { \"PrefixLength\": 4096, \"ConcurrencyThreshold\": 10 } } }]'\n\n然后照常创建您的终端节点：\n\naws sagemaker create-endpoint \\\n  --endpoint-name example-llm-endpoint \\\n  --endpoint-config-name example-llm-config\n\n无需对模型容器或服务框架进行任何更改。前缀感知路由完全在终端节点路由层运行。\n\n调用终端节点\n\n调用终端节点的方式没有任何改变。相同的 InvokeEndpoint 和 InvokeEndpointWithResponseStream API 与之前完全一致地工作：\n\naws sagemaker-runtime invoke-endpoint \\\n  --endpoint-name example-llm-endpoint \\\n  --content-type application/json \\\n  --body fileb://request.json \\\n  output.json\n\n兼容 OpenAI 的 Chat Completion API 同样如此：\n\nfrom openai import OpenAI\nfrom sagemaker.core.token_generator import generate_token\n\nclient = OpenAI(\n    base_url=f\"https://runtime.sagemaker.us-west-2.amazonaws.com\"\n             f\"/endpoints/example-llm-endpoint/openai/v1\",\n    api_key=generate_token(region=\"us-west-2\")\n)\nresponse = client.chat.completions.create(\n    model=\"example-model\",\n    messages=[\n        {\"role\": \"user\", \"content\": \"What is your return policy?\"},\n    ],\n)\n\n多租户前缀隔离\n\n如果不同租户共享相同的提示词指令，但您希望将它们分开路由（以保持缓存上下文的独立性），可以传递一个可选的 ID：\n\n原生 Invoke API：设置 X-Amzn-SageMaker-Prefix-Aware-Id 请求头（最多 64 个 ASCII 字符）。\n\nOpenAI API：在请求正文中包含 prompt_cache_key 字段。\n\n该 ID 会与前缀结合，从而使具有相同前缀但 ID 不同的请求落在不同的实例上。\n\n推理组件与 LoRA 适配器\n\n前缀感知路由适用于推理组件终端节点和动态低秩自适应（LoRA）适配器。对于推理组件，其行为与单模型终端节点相同。对于 LoRA 适配器，它在适配器的粘性实例集内运行，在已经加载该适配器的实例之间使用基于前缀的选择。\n\n在您的服务框架中启用前缀缓存。前缀感知路由会将重复的前缀引导至同一个实例，但您的容器需要开启前缀缓存，才能真正存储和复用这些 KV 对。在 vLLM 中，最近的版本默认已启用此功能。其他框架可能需要显式配置。\n\n保持请求序列化一致。对于原生 Invoke API，PrefixLength 作用于原始字节。JSON 空格、键顺序和格式都会影响路由。如果您在不同请求中对相同提示词进行不同的序列化，它们最终可能会落在不同的实例上。请使用一致的序列化。\n\n谨慎设定 PrefixLength 的大小。太短会导致具有相同短前缀的所有请求都被汇集到一个实例，从而触发溢出；太长则微小的负载差异（如 temperature 值）就会将本应放在一起的请求分散开。建议从共享前缀的长度加上适度缓冲开始设定。\n\n您至少需要两个实例。如果只有一个实例，无论采用何种策略，所有请求都会前往同一个地方。\n\n监控缓存命中率。启用 SageMaker 详细可观测性，以跟踪模型级别的 KV 缓存命中率。这可以验证前缀感知路由是否适用于您的具体工作负载。\n\n前缀感知路由现已在 SageMaker 实时推理终端节点上正式可用。请将您的 AWS SDK 或 CLI 更新到最新版本，以访问新的 RoutingStrategy 和 PrefixAwareRoutingConfig 参数。有关在终端节点创建期间如何启用它的示例，请参阅此 Notebook。\n\nKareem 是 AWS 的首席产品经理。他专注于在 Amazon SageMaker HyperPod 上支持生成式 AI 模型的开发与治理。在此之前，他在 Amazon QuickSight 负责嵌入式分析和开发者体验。除了 QuickSight，他还曾在 AWS Marketplace 和 Amazon 零售部门担任产品经理。Kareem 的职业生涯始于呼叫中心技术开发人员、Expedia 的 Local Expert 与广告技术开发，以及麦肯锡的管理顾问。\n\nVivek 是 SageMaker 推理全球解决方案架构负责人。他负责 SageMaker 推理的解决方案架构、技术市场拓展（GTM）及对外产品策略。他还帮助企业和初创公司部署并优化生成式 AI 模型，并使用 SageMaker 和 GPU 构建 AI 工作流。目前，他专注于制定优化推理性能以及针对智能体工作流和 RAG 等用例的策略与内容。业余时间，Vivek 喜欢远足、看电影和品尝各种美食。\n\nDmitry 是 AWS SageMaker 推理全球专业解决方案架构负责人。他带领团队帮助客户在企业范围内设计、构建和优化生成式 AI 及 AI/ML 解决方案。他的工作涵盖广泛的机器学习用例，主要聚焦于生成式 AI、深度学习以及规模化部署机器学习。他曾与金融服务、保险和电信等各行业的企业展开合作。您可以在 LinkedIn 上与 Dmitry 取得联系。\n\nVamsi 在 AWS 负责市场拓展（GTM）和收入加速举措，为客户支持推理和 ModelOps 工作负载，并推动 Amazon SageMaker AI 和生成式 AI 的开源用例与产品功能。他在 AWS、戴尔和 Infosys 拥有超过 16 年的经验，兼具云计算、高性能计算（HPC）、人工智能（AI）、机器学习（ML）和分析领域的深厚技术专长与商业认知。他拥有德州农工大学梅斯商学院的 MBA 学位。\n\nXu Deng 是 SageMaker 团队的软件工程经理。他专注于帮助客户在 Amazon SageMaker 上构建和优化 AI/ML 推理体验。闲暇时间，他热爱旅行和单板滑雪。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 71,
+        "translationParagraphs": 63,
+        "keyTakeaways": [
+          "Amazon SageMaker Inference推出了前缀感知路由（prefix-aware routing）功能，将共享相同提示前缀的请求发送至同一实例以保持KV缓存预热。",
+          "在针对Llama 3.1 70B Instruct的8000-token共享前缀长上下文基准测试中，前缀感知路由使P50首字生成时间（TTFT）降低了71%至77%，P90 TTFT降低了33%至37%，KV缓存命中率从约25%提高至82%，吞吐量提升了15%至16%。",
+          "来源叙事重点：重点宣传新推出的前缀感知路由（prefix-aware routing）功能的技术原理、性能基准优势（降低TTFT、提升KV缓存命中率及吞吐量）与部署实操方法，强调其在多实例LLM推理场景中的开箱即用与系统稳定性。"
+        ],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T21:58:09.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/"
+          }
+        ]
+      },
+      {
+        "id": "story-llion-milestone-11536cfc-6629937e351e5d86",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SpaceX is inching closer to this lofty $100 billion milestone",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:19:00.000Z",
+        "pubTime": "2026-09-11 06:19",
+        "url": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "SpaceX has set an ambitious revenue target and a newly disclosed computing-power deal could get the company a bit nearer to its goal.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 06:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T22:19:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-8a51732b48f2dcf0",
+        "title": "要闻：Gleam Gathering 聚会活动重磅回归，并落地伦敦",
+        "originalTitle": "Gleam Gathering 2027",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T19:40:27.000Z",
+        "pubTime": "2026-09-11 03:40",
+        "url": "https://gleamgathering.com/",
+        "imageUrl": null,
+        "fullContent": "The Gathering is back and in London.\n\nMake a weekend of it:\n\nCreator of the Gleam Language\n\nSee our call for talks\n\nThe 2027 event will be in the center of London at dedicated event space 44 Hallam St.\n\nVisit their directions page for detailed information on getting there.\n\nIf you don't see any ticket options, you can go here. We've had reports of it failing to load.\n\nWe’re now accepting talk proposals for Gleam Gathering 2027. Whether you’re an experienced speaker or new to presenting, we want to hear your ideas. This is your chance to contribute to the community, share knowledge, and inspire others. Gleam welcomes everyone and we want to ensure this is continued in the GG27.\n\nWe welcome talks that are:\n\nWhat we aren’t looking for this time:\n\nWe’re committed to supporting every speaker who submits a proposal. Here’s what you can expect from us:\n\nBetter known as Crowdhailer online, I've been coding for over a decade. As an early contributor to Gleam, I've always been excited about the possibilities that Gleam offered to the coding community. When I am not using Gleam in production, I'm working on my own language, EYG. See you in 2027?\n\nBringing the community together is central to this event, and we would like to extend this to any potential sponsors for the event. If your organisation, or an organisation you know of, would be interested in sponsoring GG27, then please do drop us a line at gleamgathering2026@gmail.com.",
+        "fullTranslation": "Gleam Gathering 聚会活动重磅回归，并落地伦敦。\n\n把它变成一个充实的周末：\n\nGleam 语言创始人\n\n查看我们的演讲征集通知\n\n2027 年的活动将在伦敦市中心的专属活动场地哈勒姆街 44 号（44 Hallam St）举行。\n\n请访问其路线指引页面，获取前往场地的详细信息。\n\n如果您看不到任何购票选项，可以访问此处。我们此前收到了页面加载失败的反馈。\n\n我们现已开放 Gleam Gathering 2027 的演讲提案征集。无论您是经验丰富的演讲者还是初次登台，我们都期待听到您的想法。这是您为社区贡献力量、分享知识并启发他人的绝佳机会。Gleam 欢迎所有人的参与，我们希望在 GG27 中延续这一精神。\n\n我们欢迎符合以下特点的演讲：\n\n我们本次不寻求的内容：\n\n我们致力于为每一位提交提案的讲者提供支持。以下是我们能为您提供的保障：\n\n我在网络上更常用的名字是 Crowdhailer，从事编程已有十余年。作为 Gleam 的早期贡献者，我一直对 Gleam 为编程社区带来的无限可能感到振奋。当不在生产环境中使用 Gleam 时，我便致力于开发自己的编程语言 EYG。2027 年见？\n\n将社区凝聚在一起是本次活动的核心，我们也希望将这份凝聚力延伸至活动的任何潜在赞助商。如果您的机构或您了解的机构有意赞助 GG27，请随时发邮件至 gleamgathering2026@gmail.com 与我们联系。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "Gleam Gathering 2027将在伦敦市中心的专用活动场地44 Hallam St举行。",
+          "Gleam Gathering 2027目前正在公开征集演讲提案（Call for talks）。",
+          "来源叙事重点：宣布Gleam编程语言社区大会（Gleam Gathering 2027）在伦敦举办的消息，重点介绍会议场地、演讲提案征集（CFP）、讲者支持政策以及赞助招募，营造开放包容的开发者社区氛围。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T19:40:27.000Z",
+            "url": "https://gleamgathering.com/"
+          }
+        ]
+      },
+      {
+        "id": "story-ather-worse-history-html-a2ce0616faf80dbe",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Future catastrophic weather could be 'far worse' than history suggests",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:20:01.000Z",
+        "pubTime": "2026-09-11 06:20",
+        "url": "https://phys.org/news/2026-09-future-catastrophic-weather-worse-history.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2021/cyclone.jpg",
+        "fullContent": "Historical records of the deadliest storms and heat waves may be a poor indicator of the scale and impact future weather disasters could have, scientists at King's College London warn.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-11 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-future-catastrophic-weather-worse-history.html",
+            "publishedAt": "2026-09-10T22:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-11-10694363-shtml-d4eccac4a09920cf",
+        "title": "菲律宾内政部长：全国无证枪支或达200万支",
+        "originalTitle": "菲律宾内政部长：全国无证枪支或达200万支",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-10T22:35:56.000Z",
+        "pubTime": "2026-09-11 06:35",
+        "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694363.shtml",
+        "imageUrl": null,
+        "fullContent": "中新社马尼拉9月10日电 (记者 周璟)菲律宾内政部长10日表示，菲全国流通的无证枪支数量估计高达200万支。\n\n在当天举行的参议院预算听证会上，内政部长雷穆利亚称，政府正收集情报，并计划推动修订所谓“罗宾·帕迪利亚”的相关法律。该法即第8294号共和国法案，修订了第1866号总统令，将非法持有枪支定为可保释罪行。\n\n当参议员埃尔西托询问全国有多少无证枪支时，雷穆利亚称：“我们估计高达200万支。”埃尔西托对此表示惊讶，称此前估计仅为50万至60万支。\n\n雷穆利亚指出，菲律宾约98%的犯罪涉及无证枪支。他认为，若持搜查令查获非法持枪者，相关指控应不得保释。他表示，非法枪支持有者往往是惯犯，一旦保释外出便可能再次犯罪。其余2%的涉枪犯罪来自合法枪支，通常发生在住宅内，或儿童接触枪支时走火。\n\n雷穆利亚还表示，内政部正推动加强枪支持有者的责任追究。合法枪支若被盗并用于犯罪，枪主应承担相应责任。(完)\n\n中国展会“金九”旺 消费引流与产业赋能同发力\n\n新能源电车辐射大，长期开会掉头发、掉腿毛？\n\n2026年国家基本医保药品目录预计于11月发布\n\n中国疾控中心提示：9月重点防范这几类传染病\n\n中新网评：“鬼秤”闹的不是鬼，是信任危机\n\n中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材\n\n网上销售的便携式甲醛检测仪，精准度高达99.9%？\n\n浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢\n\n大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵\n\n中外学生Citywalk北京西城 街巷间开启“开学第一课”\n\n香港新赛马季开锣 赛驹“嘉应高升”再创新纪录\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”\n\n6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝\n\n法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币\n\n北京2027年世界田径锦标赛进入倒计时一周年\n\n贵州绥阳：“80后”女村医奔走山间24年为村\n\n河南洛阳：活力新城绘就古今共生“工笔画”",
+        "fullTranslation": "中新社马尼拉9月10日电 (记者 周璟)菲律宾内政部长10日表示，菲全国流通的无证枪支数量估计高达200万支。\n\n在当天举行的参议院预算听证会上，内政部长雷穆利亚称，政府正收集情报，并计划推动修订所谓“罗宾·帕迪利亚”的相关法律。该法即第8294号共和国法案，修订了第1866号总统令，将非法持有枪支定为可保释罪行。\n\n当参议员埃尔西托询问全国有多少无证枪支时，雷穆利亚称：“我们估计高达200万支。”埃尔西托对此表示惊讶，称此前估计仅为50万至60万支。\n\n雷穆利亚指出，菲律宾约98%的犯罪涉及无证枪支。他认为，若持搜查令查获非法持枪者，相关指控应不得保释。他表示，非法枪支持有者往往是惯犯，一旦保释外出便可能再次犯罪。其余2%的涉枪犯罪来自合法枪支，通常发生在住宅内，或儿童接触枪支时走火。\n\n雷穆利亚还表示，内政部正推动加强枪支持有者的责任追究。合法枪支若被盗并用于犯罪，枪主应承担相应责任。(完)\n\n中国展会“金九”旺 消费引流与产业赋能同发力\n\n新能源电车辐射大，长期开会掉头发、掉腿毛？\n\n2026年国家基本医保药品目录预计于11月发布\n\n中国疾控中心提示：9月重点防范这几类传染病\n\n中新网评：“鬼秤”闹的不是鬼，是信任危机\n\n中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材\n\n网上销售的便携式甲醛检测仪，精准度高达99.9%？\n\n浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢\n\n大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵\n\n中外学生Citywalk北京西城 街巷间开启“开学第一课”\n\n香港新赛马季开锣 赛驹“嘉应高升”再创新纪录\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”\n\n6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝\n\n法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币\n\n北京2027年世界田径锦标赛进入倒计时一周年\n\n贵州绥阳：“80后”女村医奔走山间24年为村\n\n河南洛阳：活力新城绘就古今共生“工笔画”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "菲律宾内政部长雷穆利亚在参议院预算听证会上表示，菲全国流通的无证枪支数量估计高达200万支。",
+          "菲律宾政府正计划推动修订第8294号共和国法案，该法案修订了第1866号总统令，将非法持有枪支定为可保释罪行。",
+          "来源叙事重点：重点呈现菲律宾非法枪支泛滥的严重态势（估计达200万支）、高涉案比例（98%）以及内政部推动收紧保释法案和强化合法持枪人法律责任的立法主张"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-10T22:35:56.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/09-11/10694363.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story--astounding-70-next-year-ab2afd5299068837",
+        "title": "黄仁勋解释英伟达明年为何将实现高达70%的惊人增长",
+        "originalTitle": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T21:51:59.000Z",
+        "pubTime": "2026-09-11 05:51",
+        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "imageUrl": null,
+        "fullContent": "Founder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his company’s AI domination — and revenues — will continue its record-breaking growth streak through the end of next year.\n\nHe can see the future.\n\nThere’s been endless hand-wringing over whether Nvidia’s party will end as it faces increasing competition for GPUs and AI chips from all directions: the hyperscalers (Amazon, Microsoft, and Google, each building their own) and the AI labs (Anthropic and OpenAI, which are building their own), as well as from newly public competitor Cerebras and startups such as Etched.\n\n“Most people think Nvidia builds a chip. I mean, you need airplanes to ship what we build,” Huang said, adding that the company continues to battle a perception from its early days. Nvidia invented the GPU, which back then were largely sold to consumers to improve PC gaming. “One GPU now is not $399. It’s $8.5 million dollars. That’s one GPU, all connected with NVLink, 2 million parts, right? 250,000 kilowatts. That’s a GPU, and we ship thousands of them.”\n\nHe added that orders for just one product, a computer system that combines 36 Grace CPUs with 72 Blackwell GPUs, is currently experiencing 27% month-to-month sales growth.\n\nHuang didn’t limit his bullish view to current sales though. He took the opportunity to reiterate Nvidia’s revenue outlook for next year — guidance the company provided last month when it reported yet another record-breaking revenue quarter. That’s when he first said revenue could grow by 70% next year.\n\n“I think we could grow 70% year over year. We’re confident about that,” Huang said again on Thursday. Analysts expect the company to end its current fiscal year at about $400 billion in revenue. So 70% growth would mean around $680 billion next year.\n\nHuang explained why he’s confident: His company is so embedded in every area of AI that he believes he can see the future.\n\n“Nvidia runs every model. Every single lab can use us,” the CEO said, mentioning that this includes models from Anthropic, OpenAI, and Google, as well as open-weight offerings. “We are a foundational platform of the AI ecosystem, foundational platform of the AI industry.”\n\nNvidia’s fingers extend all the way from its suppliers, such as memory chip makers, to data center projects and startups.\n\n“We’re tracking every single gigawatt of land, power, shell around the world. Literally everything on the planet,” he said. (“Shell” refers to the shell of a data center building before it is outfitted with computers).\n\n“I mean, just think about all my partners. How many neoclouds are reporting back to us? How many OEMs are reporting back to us? How many clouds are reporting back to us? How many AI-native companies are reporting back to us? We’re working with everybody, and so we kind of know where everything is,” he said.\n\nThat comment led to inevitable questions about Nvidia’s so-called circular deals, in which it invests in companies that turn around and buy its wares. Such schemes famously contributed to the downfall of a previous generation of internet build-out suppliers like Lucent Technologies.\n\nHuang had a simple, albeit cheeky, response. “Well, it’s not circular because we put a little bit of money in, and a lot of money comes back.” He went on to joke, “I look at the spreadsheet, we put in $1 and $100 comes back in. Is that circular? If that is, let’s do more of that.”\n\nQuips aside, he insisted that before any of these companies gets an investment, Nvidia makes sure it has real contracts generating revenue from customers. All told, he said he’s seen $100 billion worth of such contracts, “I’m not taking any risks. … I need a sure thing.”\n\nTime will tell whether Nvidia’s stronghold on AI can really persist long term. If there’s one golden rule of the tech industry, it’s that all big things get disrupted. Right now, even Huang admits that much of AI’s growth is coming from AI-native startups that are raising vast sums and spending most of that cash on their own AI use. As the AI industry matures, expect companies to become more efficient in how they use infrastructure and tokens.\n\nBut for now, Nvidia has its finger in every pie and sees another year of plenty in its future.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride\n\nTechCrunch Mobility: Tesla Cybercab hits the road — and a snag\n\nHikers rescued after using Google Gemini for planning\n\nFeds launch investigation into Tesla’s Cybercab deployment",
+        "fullTranslation": "英伟达创始人、首席执行官兼不知疲倦的宣传推手黄仁勋周四在高盛Communacopia + Technology大会上向与会者解释，为何他的公司在人工智能领域的统治地位以及营收将持续其破纪录的增长势头直至明年年底。\n\n因为他能够看清未来。\n\n人们一直在无休止地担忧英伟达的狂欢是否会走向终结，因为该公司正面临来自各方在GPU和AI芯片方面日益激烈的竞争：超大规模云服务商（亚马逊、微软和谷歌，各自都在研发自己的芯片）以及AI实验室（Anthropic和OpenAI，它们也在自研芯片），此外还有新上市的竞争对手Cerebras以及Etched等初创公司。\n\n“大多数人认为英伟达生产的是芯片。但我的意思是，运送我们制造的东西需要用上飞机，”黄仁勋说道，并补充称公司仍在与早期的刻板认知作斗争。英伟达发明了GPU，当时主要是向消费者销售以改善PC游戏体验。“现在一个GPU不是399美元，而是850万美元。那是一个全部通过NVLink互连、包含200万个零件的GPU，对吧？功率达25万千瓦。这就是一个GPU，而我们要出货数千个。”\n\n他补充道，仅针对一款产品——将36颗Grace CPU与72颗Blackwell GPU整合在一起的计算机系统——目前的月环比销售增长率就达到了27%。\n\n不过，黄仁勋并没有把他的乐观观点局限于目前的销售额。他借此机会重申了英伟达明年的营收展望——这是该公司上个月公布又一个创纪录营收季度时给出的业绩指引。当时他首次表示，明年的营收可能增长70%。\n\n“我认为我们同比能够增长70%。对此我们很有信心，”黄仁勋周四再次表示。分析师预计该公司当前财年的营收约为4000亿美元。因此，70%的增长意味着明年营收将达到约6800亿美元。\n\n黄仁勋解释了他充满信心的原因：他的公司已经深深植根于AI的各个领域，以至于他相信自己能预见未来。\n\n“英伟达运行着每一个模型。每一个实验室都可以使用我们，”这位首席执行官表示，并提到这包括来自Anthropic、OpenAI和谷歌的模型，以及开源权重产品。“我们是AI生态系统的基础平台，是AI产业的基础平台。”\n\n英伟达的触角从其供应商（如内存芯片制造商）一路延伸至数据中心项目和初创公司。\n\n“我们正在追踪全球范围内的每一吉瓦土地、电力、建筑外壳。毫不夸张地说是这颗星球上的一切，”他说道。（“外壳”指的是未配备计算机之前的数据中心建筑主体）。\n\n“我的意思是，想想我所有的合作伙伴吧。有多少新型云服务商在向我们汇报？有多少OEM厂商在向我们汇报？有多少传统云服务商在向我们汇报？有多少AI原生公司在向我们汇报？我们与所有人合作，所以我们在某种程度上对所有事情的发展动态了如指掌，”他说道。\n\n这番言论不可避免地引发了对英伟达所谓“循环交易”的质疑，即英伟达投资一些公司，而这些公司转头又购买英伟达的产品。众所周知，这种模式正是导致朗讯科技（Lucent Technologies）等上一代互联网基础设施建设供应商倒闭的原因之一。\n\n黄仁勋给出了一个简单但略带调侃的回应。“嗯，这不是循环，因为我们投入了一点点钱，换回来的却是大笔资金。”他接着开玩笑道：“我看财务电子表格，我们投进去1美元，回流了100美元。这算循环吗？如果算，那就让我们多做点这样的事吧。”\n\n调侃归调侃，他坚称在向这些公司投资之前，英伟达都会确保对方拥有能从客户那里产生收入的真实合同。总的来说，他表示自己已经看到了价值1000亿美元的此类合同，“我不承担任何风险。……我需要的是确定的事情。”\n\n时间会证明英伟达在AI领域的统治地位是否真能长期持续。如果说科技行业有一条黄金法则，那就是所有庞然大物最终都会被颠覆。眼下，就连黄仁勋也承认，AI的很多增长来自于筹集巨额资金并将其大部分现金用于自身AI业务的AI原生初创企业。随着AI产业的成熟，预计各家公司在使用基础设施和Token时会变得更加高效。\n\n但就目前而言，英伟达在各个领域都有涉足，并预见未来又将是一个丰收之年。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n不要错过。初创企业界将齐聚一堂，共同探讨一个核心问题：在AI时代，你该如何实现可持续发展？\n\nAutomattic董事会迫使CEO马特·穆伦维格休假\n苹果发布其首款折叠屏手机iPhone Duo\n纽约大学数学家称OpenAI在关键数学问题上使用了卑鄙手段\n一部关于伊丽莎白·霍姆斯的神秘新纪录片震惊特柳赖德电影节\nTechCrunch出行：特斯拉Cybercab上路——遭遇挫折\n徒步旅行者依靠谷歌Gemini制定路线后获救\n联邦政府对特斯拉Cybercab部署展开调查",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "英伟达CEO黄仁勋在高盛Communacopia + Technology大会上重申，预计公司明年营收将同比增长70%。",
+          "分析师预计英伟达当前财年营收约为4000亿美元，若增长70%，明年营收将达到约6800亿美元。",
+          "来源叙事重点：报道英伟达CEO黄仁勋在投资大会上对明年营收增长70%的乐观预期，同时重点审视市场对其生态“循环交易”风险与科技巨头自研芯片竞争等潜在隐患的质疑"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T21:51:59.000Z",
+            "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
+          }
+        ]
+      },
+      {
+        "id": "story-rocery-shopping-2083fec3-fa8efa19f2cf9cbf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T22:18:00.000Z",
+        "pubTime": "2026-09-11 06:18",
+        "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Diesel touches everything in the economy,” one analyst says.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 06:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T22:18:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ear-pact-built-on-drones-d730da5ccd336a0e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Canada, Ukraine forge 100-year pact built on drones and defence",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T18:49:15.000Z",
+        "pubTime": "2026-09-11 02:49",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wcs2pv/canada_ukraine_forge_100year_pact_built_on_drones/",
+        "imageUrl": "https://external-preview.redd.it/pukRGGIqnAwPDLFOXYzULPCVwhjORj7y6evBCntk-Kw.jpeg?width=320&crop=smart&auto=webp&s=8ccd9903525d1b074a37c6bc32c116506f6336b6",
+        "fullContent": "submitted by /u/pjw724 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-11 02:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wcs2pv/canada_ukraine_forge_100year_pact_built_on_drones/",
+            "publishedAt": "2026-09-10T18:49:15.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789070022640,
     "timeDisplay": "2026-09-11 03:53 (UTC+8)",
     "date": "2026-09-11",

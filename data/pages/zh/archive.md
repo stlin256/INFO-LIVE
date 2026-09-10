@@ -22,14 +22,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **20** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **21** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-11 03:53 (UTC+8)
+- **最新归档时间**：2026-09-11 06:42 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-11 06:42 (UTC+8)" title="全球要闻情报简报 · 06:42" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-11 06:40 (UTC+8) 完成，共获得 39 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】Thrive Capital 率先带动风投涉足职业体育俱乐部所有权；Collaborative Fund 如今再度升级打法：纽约综合性风险投资机构 Collaborative Fund 成立已有 15 年，旗下管理资产约 10 亿美元，曾早期押注 Lyft、Reddit、Sweetgreen 和 Olipop 等公司。如今，该机构正入股足球俱乐部华盛顿特区联队（D.C. United）及其主场奥迪球场（Audi Field）。；【undefined】利用 Amazon SageMaker Inference 的前缀感知路由降低大语言模型延迟：基于大语言模型（LLM）构建应用程序时，发送给模型的提示词通常包含两部分。一部分是设定上下文的固定部分（指令、参考文档、对话历史），另一部分是包含实际用户输入的可变部分。以客服机器人为例，每个请求都以相同的一段文本开头：“您是 AnyCompany 的支持代表。以下是我们的政策……”随后是客户输入的具体内容。开头的指令部分可能有 3000 个 token，而末尾客户的问题可能只有 50 个 token。；外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】菲律宾内政部长：全国无证枪支或达200万支：中新社马尼拉9月10日电 (记者 周璟)菲律宾内政部长10日表示，菲全国流通的无证枪支数量估计高达200万支。；【undefined】黄仁勋解释英伟达明年为何将实现高达70%的惊人增长：英伟达创始人、首席执行官兼不知疲倦的宣传推手黄仁勋周四在高盛Communacopia + Technology大会上向与会者解释，为何他的公司在人工智能领域的统治地位以及营收将持续其破纪录的增长势头直至明年年底。；【undefined】中方在安理会伊朗核问题公开会程序性表决中投反对票：中新社联合国9月10日电 联合国安理会10日举行伊朗核问题公开会。中国常驻联合国副代表孙磊在会上议程程序性表决中投下反对票，并敦促个别成员停止利用安理会推进自身政治议程，避免对伊朗核问题政治解决进程制造新的障碍。；【undefined】黑海一货船遭无人机袭击致2名阿塞拜疆公民遇难：中新社阿斯塔纳9月10日电 巴库消息：阿塞拜疆外交部10日发布通报称，一艘名为“泰迪”号(TEDY)的外国货船9日在黑海水域遭无人机袭击，造成2名阿塞拜疆籍船员遇难、2名阿籍船员受伤。；【undefined】美财政部宣布对伊朗相关个人和实体实施制裁：当地时间9月10日，美国财政部发布声明称，作为对伊“经济孤立行动”的一部分，该部门下属的外国资产控制办公室将为伊朗在中东地区的代理人网络提供支持的个人和实体列入制裁清单，制裁对象包括黎真主党成员等。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260911/trezvost-2116941526.html) <span class="news-meta-time">🕒 2026-09-11 06:38</span>
+- [TechCrunch (硅谷创业与资本)] [Thrive Capital 率先带动风投涉足职业体育俱乐部所有权；Collaborative Fund 如今再度升级打法](https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/) <span class="news-meta-time">🕒 2026-09-11 06:30</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-11 06:25</span>
+- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wcv40k/more_than_100_us_military_advisers_are_on_the/) <span class="news-meta-time">🕒 2026-09-11 04:38</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-years-landscape-religious-bias.html) <span class="news-meta-time">🕒 2026-09-11 06:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260911/medvedi-2116941359.html) <span class="news-meta-time">🕒 2026-09-11 06:36</span>
+:::
 :::timeline-item{start="2026-09-11 03:53 (UTC+8)" title="全球要闻情报简报 · 03:53" org="ARCHIVE"}
 **速报纪要：** 本小时多国动态聚焦应急服务、全球气候与教育危机、司法审判进展及基础科学实验。UNICEF报告显示2025年逾1.71亿学生学业受气候灾害冲击；法国消防员因资金匮乏发起罢工；另有前沿原子导航技术与地方司法案件引发关注。
 
