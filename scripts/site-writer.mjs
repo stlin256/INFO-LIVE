@@ -419,7 +419,17 @@ export function writeSiteData(data, rawItems = []) {
   const trendStoryCandidates = data.trendStories || [];
   // Source-only/failed-translation items remain discoverable in the wire and
   // history, but never enter an article card that claims to be a full translation.
-  const topStories = selectPublishableStories(topStoryCandidates, 14);
+  // The home desk is a cross-dimension view: if the first interleaved picks lose
+  // translation races, promote later verified stories from every desk rather than
+  // publishing a sparse home page or filling it with summaries.
+  const topStoryPool = [
+    ...topStoryCandidates,
+    ...worldStoryCandidates,
+    ...financeStoryCandidates,
+    ...aiStoryCandidates,
+    ...trendStoryCandidates,
+  ];
+  const topStories = selectPublishableStories(topStoryPool, 14);
   const worldStories = selectPublishableStories(worldStoryCandidates, 20);
   const financeStories = selectPublishableStories(financeStoryCandidates, 20);
   const aiStories = selectPublishableStories(aiStoryCandidates, 20);
@@ -797,8 +807,12 @@ export function writeSiteData(data, rawItems = []) {
   trendsLines.push('## 📰 社会民生、思潮与社群核心要闻');
   trendsLines.push('');
   trendsLines.push('::::grid{cols=2}');
-  const trendsSelected = (trendStories.length > 0 ? trendStories : topStories.filter((s) => s.category === 'community' || s.dimension === 'social-trends')).slice(0, 16);
-  for (const s of (trendsSelected.length > 0 ? trendsSelected : topStories.slice(4, 12))) {
+  const trendsSelected = (
+    trendStories.length > 0
+      ? trendStories
+      : topStories.filter((s) => s.category === 'community' || s.dimension === 'social-trends')
+  ).slice(0, 16);
+  for (const s of (trendsSelected.length > 0 ? trendsSelected : topStories.slice(0, 16))) {
     trendsLines.push(renderArticleCard(s));
   }
   trendsLines.push('::::');
@@ -893,7 +907,7 @@ export function writeSiteData(data, rawItems = []) {
   // 频道保底安全守卫：如果 finance 依然不足，借调相关宏观报道，绝对杜绝页面留白！
   const finalFinance = financeSelected.length >= 6
     ? financeSelected
-    : [...financeSelected, ...topStories.slice(0, 8)].slice(0, 16);
+    : selectPublishableStories([...financeSelected, ...topStories], 16);
 
   for (const s of finalFinance) {
     marketsLines.push(renderArticleCard(s));
