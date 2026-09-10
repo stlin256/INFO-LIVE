@@ -16,7 +16,7 @@ describe('有界正文补抓的频道公平性', () => {
       ...Array.from({ length: 2 }, (_, index) => ({ category: 'community', link: `https://example.test/community-${index}`, contentStatus: 'short-source', pubDate: '2026-09-09T00:00:00Z' })),
     ];
     const selected = selectEnrichmentCandidates(items, 6);
-    expect(selected.filter((item) => item.category === 'community')).toHaveLength(2);
+    expect(selected.filter((item: any) => item.category === 'community')).toHaveLength(2);
     expect(selected).toHaveLength(6);
   });
 });
@@ -89,3 +89,4 @@ describe('正文采集与内容状态', () => {
     expect(enriched[1].contentSource).toBeUndefined();
   });
 });
+
