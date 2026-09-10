@@ -7,7 +7,7 @@
  * 4. 跨 Actions 话题生命周期管理
  * 5. 分阶段微批次（Micro-batching）调用 LLM 架构思维
  */
-import { getBeijingTime, contentStatusOf, countContentParagraphs } from './fetcher.mjs';
+import { getBeijingTime, contentStatusOf, countContentParagraphs, isLikelyTruncatedBody, chineseCharacterCount, isChineseReadableText } from './fetcher.mjs';
 import { translateForeignTitle } from './translations.mjs';
 import { runHarness } from './ai-harness.mjs';
 import { buildContextPack } from './context-pack.mjs';
@@ -15,6 +15,59 @@ import { getAgent, validateAgentResult, validateSafeFields } from './ai-agents.m
 import { storyIdForUrl } from './story-id.mjs';
 
 export { translateForeignTitle };
+
+function hasChineseTitle(text) {
+  return chineseCharacterCount(text) >= 2;
+}
+
+function isChineseNarrative(text, minimum = 2) {
+  return chineseCharacterCount(text) >= minimum;
+}
+
+function validateChineseOverviewFields(role, value) {
+  const errors = [];
+  const check = (label, text, minimum = 2) => {
+    if (typeof text !== 'string' || !text.trim() || !isChineseNarrative(text, minimum)) errors.push(label + ' must be written in Chinese');
+  };
+  const checkIfPresent = (label, text, minimum = 2) => {
+    if (text !== undefined && text !== null && String(text).trim()) check(label, text, minimum);
+  };
+  if (role === 'hourly-editor') {
+    check('hourlyBriefing.title', value?.hourlyBriefing?.title);
+    check('hourlyBriefing.lead', value?.hourlyBriefing?.lead, 8);
+    for (const [index, signal] of (value?.hourlyBriefing?.signals || []).entries()) check('hourlyBriefing.signals[' + index + ']', signal, 2);
+    for (const [index, matrix] of (value?.perspectiveMatrix || []).entries()) {
+      for (const field of ['topic', 'consensus', 'interests', 'blindSpots']) checkIfPresent('perspectiveMatrix[' + index + '].' + field, matrix?.[field], 8);
+      for (const [sourceIndex, source] of (matrix?.sources || []).entries()) {
+        checkIfPresent('perspectiveMatrix[' + index + '].sources[' + sourceIndex + '].stance', source?.stance, 2);
+        checkIfPresent('perspectiveMatrix[' + index + '].sources[' + sourceIndex + '].focus', source?.focus, 8);
+      }
+    }
+    for (const [index, topic] of (value?.specialTopics || []).entries()) {
+      for (const field of ['title', 'tagline', 'overview']) checkIfPresent('specialTopics[' + index + '].' + field, topic?.[field], 8);
+      for (const [eventIndex, event] of (topic?.timeline || []).entries()) checkIfPresent('specialTopics[' + index + '].timeline[' + eventIndex + '].detail', event?.detail || event?.description || event?.summary, 8);
+    }
+  }
+  if (role === 'daily-analyst') {
+    check('title', value?.title);
+    check('lead', value?.lead, 8);
+    for (const [index, theme] of (value?.themes || []).entries()) {
+      check('themes[' + index + '].name', theme?.name);
+      check('themes[' + index + '].analysis', theme?.analysis, 8);
+    }
+  }
+  if (role === 'social-trends') {
+    for (const [index, radar] of (value?.radar || []).entries()) {
+      check('radar[' + index + '].issue', radar?.issue);
+      check('radar[' + index + '].conflict', radar?.conflict, 8);
+    }
+    for (const [index, debate] of (value?.debates || []).entries()) {
+      check('debates[' + index + '].topic', debate?.topic);
+      check('debates[' + index + '].summary', debate?.summary, 8);
+    }
+  }
+  return errors;
+}
 
 function parseJsonContent(content) {
   const normalized = String(content || '')
@@ -150,13 +203,20 @@ export function compileArticleLocally(it, _timeInfo) {
   const { dimension, dimensionLabel, stance } = inferDimensionAndStance(it);
   const sourceBody = String(it.fullContent || it.snippet || '').trim();
   const contentStatus = it.contentStatus || contentStatusOf(sourceBody);
+  const sourceLooksTruncated = isLikelyTruncatedBody(sourceBody);
   const contentSource = it.contentSource || 'rss';
-  const translationStatus = 'source-only';
-  const fullTranslation = sourceBody
-    ? (contentStatus === 'full'
-      ? '【官方原文正文（尚未完成目标语言翻译）】\n\n' + sourceBody
-      : '【官方原文仅提供短讯或摘要，未强行补写缺失内容】\n\n' + sourceBody)
-    : '【未获取到官方正文，暂不生成未经证实的替代内容】';
+  const isChineseSource = String(it.sourceLang || 'zh').toLowerCase() === 'zh';
+  const hasFullSourceBody = contentStatus === 'full' && !sourceLooksTruncated && Boolean(sourceBody);
+  const translationStatus = isChineseSource && hasFullSourceBody ? 'full' : 'source-only';
+  const fullTranslation = isChineseSource
+    ? (sourceBody
+      ? (hasFullSourceBody
+        ? sourceBody
+        : '【官方原文仅提供短讯或摘要，未强行补写缺失内容】')
+      : '【未获取到官方正文，暂不生成未经证实的替代内容】')
+    : (hasFullSourceBody
+      ? '【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】'
+      : '【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】');
   const tags = ['#' + dimensionLabel.replace(/^[^\s]+\s*/, ''), '#' + String(it.sourceName || '').split(' ')[0]];
   const keyTakeaways = [
     '权威信源【' + it.sourceName + '】于 ' + pubTime + ' 发布，当前内容状态：' + (contentStatus === 'full' ? '已取得正文证据' : '仅有短讯/摘要'),
@@ -189,6 +249,40 @@ export function compileArticleLocally(it, _timeInfo) {
     imageUrl: it.imageUrl || null,
     keyTakeaways,
   };
+}
+
+function chineseTickerSnippet(item, translatedStory, timeStr, stance) {
+  if (String(item.sourceLang || 'zh').toLowerCase() === 'zh') {
+    const sourceText = String(item.snippet || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+    return sourceText
+      ? `【${item.sourceName}·${stance}】：${sourceText.slice(0, 150)}${sourceText.length > 150 ? '……' : ''}`
+      : `【${item.sourceName}·${stance}】：于北京时间 ${timeStr} 播发要闻，事件持续跟进中。`;
+  }
+  const translated = String(translatedStory?.fullTranslation || '').trim();
+  if (translated && translatedStory?.translationStatus === 'full' && !isLikelyTruncatedBody(translated)) {
+    const firstParagraph = translated.split(/\n\s*\n/).map((part) => part.trim()).find(Boolean) || translated;
+    return `【${item.sourceName}·${stance}】：${firstParagraph.slice(0, 180)}${firstParagraph.length > 180 ? '……' : ''}`;
+  }
+  return `【${item.sourceName}·${stance}】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。`;
+}
+
+function rebuildChineseTicker(rawItems, stories, _timeInfo) {
+  const storyByUrl = new Map(stories.map((story) => [story.url, story]));
+  return rawItems.slice(0, 36).map((it) => {
+    const timeStr = it.pubTimeFormatted ? it.pubTimeFormatted.split(' ')[1] || it.pubTimeFormatted : '发布时间未知';
+    const { dimensionLabel, stance } = inferDimensionAndStance(it);
+    const translatedStory = storyByUrl.get(it.link);
+    return {
+      time: timeStr,
+      source: it.sourceName,
+      sourceSlug: it.sourceSlug,
+      text: translatedStory?.title || translateForeignTitle(it.title, it.sourceLang || 'en'),
+      originalText: it.title,
+      url: it.link,
+      snippet: chineseTickerSnippet(it, translatedStory, timeStr, stance),
+      dimensionLabel,
+    };
+  });
 }
 
 function partitionAndEnsureDesks(rawItems, timeInfo) {
@@ -251,33 +345,8 @@ function partitionAndEnsureDesks(rawItems, timeInfo) {
     if (compiledScience[i]) pick([compiledScience[i]]);
   }
 
-  // 快讯流 (Ticker) 全量翻译，保留原文，并附带 1-2 句精炼事实速览
-  const ticker = rawItems.slice(0, 36).map((it) => {
-    const timeStr = it.pubTimeFormatted ? it.pubTimeFormatted.split(' ')[1] || it.pubTimeFormatted : '发布时间未知';
-    const { dimensionLabel, stance } = inferDimensionAndStance(it);
-    const trans = translateForeignTitle(it.title, it.sourceLang || 'en');
-
-    // 生成1句已翻译事实速览
-    const snippetText = it.snippet ? it.snippet.replace(/<[^>]+>/g, '').trim() : '';
-    let briefSnippet;
-    if (snippetText) {
-      const transSnippet = translateForeignTitle(snippetText.slice(0, 90), it.sourceLang || 'en');
-      briefSnippet = `【${it.sourceName}·${stance}】：${transSnippet}……`;
-    } else {
-      briefSnippet = `【${it.sourceName}·${stance}】：于北京时间 ${timeStr} 播发突发关注，事件持续发酵中。`;
-    }
-
-    return {
-      time: timeStr,
-      source: it.sourceName,
-      sourceSlug: it.sourceSlug,
-      text: trans,
-      originalText: it.title,
-      url: it.link,
-      snippet: briefSnippet,
-      dimensionLabel: dimensionLabel
-    };
-  });
+  // 快讯只呈现中文标题与中文证据；外文原始标题由卡片/快讯原文行保留。
+  const ticker = rebuildChineseTicker(rawItems, [...compiledWorld, ...compiledMarkets, ...compiledAi, ...compiledTrends, ...compiledScience], timeInfo);
 
   return {
     topStories: topStories.slice(0, 16),
@@ -412,10 +481,12 @@ function createArticleAgentTasks(stories, runId, apiConfig, roles = ['fact-extra
               // A translation may be shorter than the source, but it must not
               // collapse an article into a one-line synopsis. Use a proportional
               // floor plus a hard floor for both whole articles and chunks.
-              const proportionalFloor = Math.ceil(sourceLength * (chunkCount > 1 ? 0.12 : 0.18));
+              const proportionalFloor = Math.ceil(sourceLength * (chunkCount > 1 ? 0.28 : 0.42));
               const minTranslationChars = Math.max(chunkCount > 1 ? 80 : 240, proportionalFloor);
-              const looksLikeSummary = /(?:阅读|查看|参见).{0,20}(?:全文|原文)|(?:以下|这篇文章)\s*(?:是|为)?\s*(?:摘要|概述)/i.test(translated);
-              if (translated.length < minTranslationChars || translatedParagraphs < 1 || looksLikeSummary) {
+              const looksLikeSummary = /(?:阅读|查看|参见|请前往).{0,24}(?:全文|原文|完整报道)|(?:以下|这篇文章)\s*(?:是|为)?\s*(?:摘要|概述)/i.test(translated)
+                || isLikelyTruncatedBody(translated);
+              const chineseEnough = isChineseReadableText(translated, { minChars: chunkCount > 1 ? 18 : 40, minRatio: 0.16 });
+              if (translated.length < minTranslationChars || translatedParagraphs < 1 || looksLikeSummary || !chineseEnough) {
                 throw new Error('translator output failed quality floor (' + translated.length + ' chars, ' + translatedParagraphs + ' paragraphs, source=' + sourceLength + ')');
               }
             }
@@ -466,6 +537,7 @@ function validateOverviewValue(role, value) {
     if (!Array.isArray(value?.radar)) errors.push('radar must be an array');
     if (!Array.isArray(value?.debates)) errors.push('debates must be an array');
   }
+  errors.push(...validateChineseOverviewFields(role, value));
   return errors.length ? errors : true;
 }
 
@@ -478,19 +550,19 @@ function createOverviewTasks(items, runId, apiConfig) {
       id: 'hourly-editor', role: 'hourly-editor', optional: true, input: { pack: hourlyPack }, inputKeys: ['pack'],
       modelPolicy: [apiConfig.primaryModel],
       timeoutMs: getAgent('hourly-editor').budget.timeoutMs * 2 + 1000,
-      run: async (input, taskContext) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('hourly-editor').budget.timeoutMs, signal: taskContext.signal, callBudget: apiConfig.callBudget, validateValue: (value) => validateOverviewValue('hourly-editor', value), prompt: `你是本小时主编，只根据下面有限的结构化文章目录输出 JSON。不要声称未提供的事实。输出 hourlyBriefing、perspectiveMatrix、specialTopics、socialTrends 四个字段；不需要全文。证据包：${JSON.stringify(input.pack)}` })).value,
+      run: async (input, taskContext) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('hourly-editor').budget.timeoutMs, signal: taskContext.signal, callBudget: apiConfig.callBudget, validateValue: (value) => validateOverviewValue('hourly-editor', value), prompt: `你是本小时主编，只根据下面有限的结构化文章目录输出 JSON。所有标题、导语、信号、立场分析和专题文字必须使用简体中文；媒体名称、机构名和原始标题可保留原文。不要声称未提供的事实。输出 hourlyBriefing、perspectiveMatrix、specialTopics、socialTrends 四个字段；不需要全文。证据包：${JSON.stringify(input.pack)}` })).value,
     },
     {
       id: 'daily-analyst', role: 'daily-analyst', optional: true, input: { pack: dailyPack }, inputKeys: ['pack'],
       modelPolicy: [apiConfig.primaryModel],
       timeoutMs: getAgent('daily-analyst').budget.timeoutMs * 2 + 1000,
-      run: async (input, taskContext) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('daily-analyst').budget.timeoutMs, signal: taskContext.signal, callBudget: apiConfig.callBudget, validateValue: (value) => validateOverviewValue('daily-analyst', value), prompt: `你是日尺度分析师，根据下列最近文章目录输出 JSON：{"title":"","lead":"","themes":[{"name":"","analysis":""}]}。不得编造证据。证据包：${JSON.stringify(input.pack)}` })).value,
+      run: async (input, taskContext) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('daily-analyst').budget.timeoutMs, signal: taskContext.signal, callBudget: apiConfig.callBudget, validateValue: (value) => validateOverviewValue('daily-analyst', value), prompt: `你是日尺度分析师。所有输出字段都必须使用简体中文（机构名、专有名词可保留原文），根据下列最近文章目录输出 JSON：{"title":"","lead":"","themes":[{"name":"","analysis":""}]}。不得编造证据。证据包：${JSON.stringify(input.pack)}` })).value,
     },
     {
       id: 'social-trends', role: 'social-trends', optional: true, input: { pack: socialPack }, inputKeys: ['pack'],
       modelPolicy: [apiConfig.primaryModel],
       timeoutMs: getAgent('social-trends').budget.timeoutMs * 2 + 1000,
-      run: async (input, taskContext) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('social-trends').budget.timeoutMs, signal: taskContext.signal, callBudget: apiConfig.callBudget, validateValue: (value) => validateOverviewValue('social-trends', value), prompt: `你是社会热点编辑，只根据下列社区文章目录输出 JSON：{"radar":[],"debates":[]}。没有证据的热点不要补写。证据包：${JSON.stringify(input.pack)}` })).value,
+      run: async (input, taskContext) => (await requestJsonWithFallback({ ...apiConfig, timeoutMs: getAgent('social-trends').budget.timeoutMs, signal: taskContext.signal, callBudget: apiConfig.callBudget, validateValue: (value) => validateOverviewValue('social-trends', value), prompt: `你是社会热点编辑。所有议题、摘要和冲突描述都必须使用简体中文，只根据下列社区文章目录输出 JSON：{"radar":[],"debates":[]}。没有证据的热点不要补写。证据包：${JSON.stringify(input.pack)}` })).value,
     },
   ];
 }
@@ -511,8 +583,11 @@ function buildEvidenceFallback(items, timeInfo) {
   const usable = items.filter((item) => item.title || item.snippet || item.fullContent);
   const evidenceLine = (item) => {
     const title = translateForeignTitle(item.title, item.sourceLang || 'en');
-    const excerpt = compactEvidenceText(item.snippet || item.fullContent, 220);
-    return excerpt ? `【${item.sourceName}】${title}：${excerpt}` : `【${item.sourceName}】${title}`;
+    const isChinese = String(item.sourceLang || 'zh').toLowerCase() === 'zh';
+    const excerpt = isChinese ? compactEvidenceText(item.snippet || item.fullContent, 220) : '';
+    return excerpt
+      ? `【${item.sourceName}】${title}：${excerpt}`
+      : `【${item.sourceName}】${title}：外文正文正在进行中文翻译，暂不展示未翻译原文。`;
   };
   const signals = usable.slice(0, 8).map(evidenceLine);
   const dimensions = new Map();
@@ -608,6 +683,7 @@ export async function summarizeWithAI(items) {
   // evidence, while only official-body candidates enter the translator DAG.
   const translationStories = uniqueStories
     .filter(hasTranslatableSource)
+    .filter((story) => String(story.sourceLang || '').toLowerCase() !== 'zh')
     .slice(0, articleLimit);
   const configuredAnalysisLimit = Number.parseInt(process.env.AI_ANALYSIS_ARTICLE_LIMIT || '16', 10);
   const analysisLimit = Number.isInteger(configuredAnalysisLimit) && configuredAnalysisLimit > 0 ? configuredAnalysisLimit : 16;
@@ -666,14 +742,31 @@ export async function summarizeWithAI(items) {
     const translatedChunks = chunks.map((_, chunkIndex) => harnessResult.outputs[`article-${index}-translator-${chunkIndex}`]);
     if (translatedChunks.length > 0 && translatedChunks.every((chunk) => chunk?.fullTranslation)) {
       const first = translatedChunks[0];
-      story.title = first.translatedTitle || story.title;
-      story.originalTitle = first.originalTitle || story.originalTitle;
-      story.fullTranslation = translatedChunks.map((chunk) => String(chunk.fullTranslation).trim()).join('\n\n');
-      story.translationParagraphs = countContentParagraphs(story.fullTranslation);
-      story.translationStatus = 'full';
-      story.translationModel = [...new Set(translatedChunks.map((chunk) => chunk._model).filter(Boolean))].join(',') || null;
+      const candidateTitle = String(first.translatedTitle || '').trim();
+      const translatedTitle = hasChineseTitle(candidateTitle) ? candidateTitle : translateForeignTitle(story.originalTitle, story.sourceLang || 'en');
+      const titleIsReadable = hasChineseTitle(translatedTitle);
+      const candidateOriginalTitle = String(first.originalTitle || '').trim();
+      const mergedTranslation = translatedChunks.map((chunk) => String(chunk.fullTranslation).trim()).join('\n\n');
+      const sourceLength = String(story.fullContent || story.snippet || '').trim().length;
+      const mergedParagraphs = countContentParagraphs(mergedTranslation);
+      const completeEnough = mergedTranslation.length >= Math.max(240, Math.ceil(sourceLength * 0.42))
+        && mergedParagraphs >= Math.max(1, Number(story.contentParagraphs || 1))
+        && !isLikelyTruncatedBody(mergedTranslation)
+        && !/(?:阅读|查看|参见|请前往).{0,24}(?:全文|原文|完整报道)/i.test(mergedTranslation)
+        && isChineseReadableText(mergedTranslation, { minChars: 40, minRatio: 0.16 })
+        && titleIsReadable;
+      if (completeEnough) {
+        story.title = translatedTitle;
+        story.originalTitle = candidateOriginalTitle || story.originalTitle;
+        story.fullTranslation = mergedTranslation;
+        story.translationParagraphs = mergedParagraphs;
+        story.translationStatus = 'full';
+        story.translationModel = [...new Set(translatedChunks.map((chunk) => chunk._model).filter(Boolean))].join(',') || null;
+      }
     }
   }
+
+  deskData.ticker = rebuildChineseTicker(items, uniqueStories, timeInfo);
 
   for (const [index, story] of analysisStories.entries()) {
     const facts = harnessResult.outputs['article-' + index + '-fact-extractor'];

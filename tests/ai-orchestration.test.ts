@@ -27,6 +27,16 @@ function modelResponse(value: unknown) {
 }
 
 describe('编译文章元数据', () => {
+  it('treats complete Chinese source articles as already translated', () => {
+    const story = compileArticleLocally({
+      title: '中文标题', link: 'https://example.test/zh', sourceName: '中文通讯社', sourceSlug: 'xinhua',
+      sourceLang: 'zh', category: 'world', fullContent: '这是完整中文正文，包含事实背景、时间、主体和后续影响。'.repeat(50),
+      contentStatus: 'full', contentSource: 'official-page', contentKind: 'official-page-body',
+    }, {});
+    expect(story.translationStatus).toBe('full');
+    expect(story.fullTranslation).toContain('这是完整中文正文');
+  });
+
   it('保留 RSS 正文类型，避免质量门禁误判为摘要', () => {
     const story = compileArticleLocally({
       title: 'Original headline',

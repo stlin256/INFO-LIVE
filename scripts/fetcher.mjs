@@ -74,14 +74,38 @@ export const ARTICLE_BODY_MIN_CHARS = 320;
 export const ARTICLE_BODY_MAX_CHARS = 18000;
 export const ARTICLE_BODY_MIN_PARAGRAPHS = 2;
 
+// RSS providers frequently expose a rich-looking teaser that ends with an
+// ellipsis or a "read the full story" CTA. It is discovery evidence, not a
+// complete article body and must not enter the translator as if it were full.
+export function isLikelyTruncatedBody(text) {
+  const value = String(text || '').replace(/\s+/g, ' ').trim();
+  if (!value) return false;
+  return /(?:…|\.{3,})\s*$/.test(value)
+    || /(?:read|continue|view)\s+(?:the\s+)?(?:full|complete)\s+(?:story|article|report)|read\s+more|full\s+coverage\s+at/i.test(value)
+    || /(?:阅读|查看|参见|点击).{0,12}(?:全文|完整报道|原文)\s*[。.!！]?\s*$/i.test(value);
+}
+
 export function countContentParagraphs(text) {
   return String(text || '').split(/\n\s*\n/).map((part) => part.trim()).filter(Boolean).length;
+}
+
+export function chineseCharacterCount(text) {
+  return (String(text || '').match(/[\u3400-\u4dbf\u4e00-\u9fff]/g) || []).length;
+}
+
+export function isChineseReadableText(text, { minChars = 20, minRatio = 0.12 } = {}) {
+  const value = String(text || '').replace(/\s+/g, ' ').trim();
+  if (!value) return false;
+  const chinese = chineseCharacterCount(value);
+  const visible = (value.match(/[\p{L}\p{N}]/gu) || []).length;
+  return chinese >= minChars && (visible === 0 || chinese / visible >= minRatio);
 }
 
 export function contentStatusOf(text, { source = 'official-page', contentKind = 'article-body' } = {}) {
   const value = String(text || '').trim();
   if (source === 'rss' && contentKind === 'rss-summary') return value ? 'short-source' : 'missing';
   if (!value) return 'missing';
+  if (isLikelyTruncatedBody(value)) return 'short-source';
   const paragraphs = countContentParagraphs(value);
   return value.length >= ARTICLE_BODY_MIN_CHARS && (paragraphs >= ARTICLE_BODY_MIN_PARAGRAPHS || value.length >= 800) ? 'full' : 'short-source';
 }
@@ -106,7 +130,7 @@ function articleParagraphsFromHtml(html) {
   const source = String(html || '');
   const dom = new JSDOM(source);
   const document = dom.window.document;
-  const boilerplate = /cookie|privacy policy|terms of use|newsletter|subscribe|sign up|advertisement|all rights reserved|read more|share this|follow us|menu|navigation|login|register|cookie|订阅|导航|登录|广告/i;
+  const boilerplate = /cookie|privacy policy|terms of use|newsletter|subscribe|sign up|advertisement|all rights reserved|read more|share this|follow us|menu|navigation|login|register|cookie|订阅|导航|登录|广告|相关阅读|相关推荐|热门推荐|猜你喜欢|更多新闻|完整报道|查看原文|阅读原文/i;
   const selectors = [
     '[itemprop="articleBody"]',
     'article',
@@ -155,7 +179,17 @@ function articleParagraphsFromHtml(html) {
     if (paragraphs.length > 0) candidates.push([...new Map(paragraphs.map((paragraph) => [paragraph.toLowerCase(), paragraph])).values()]);
   }
   candidates.sort((left, right) => right.reduce((sum, value) => sum + value.length, 0) - left.reduce((sum, value) => sum + value.length, 0));
-  return candidates[0] || [];
+  const selected = candidates[0] || [];
+  const cutoff = /(?:read|continue|view)\s+(?:the\s+)?(?:full|complete)\s+(?:story|article|report)|read\s+more|(?:请前往|请在|点击|查看|阅读).{0,24}(?:全文|完整报道|原文)|^(?:相关阅读|相关推荐|热门推荐|猜你喜欢|更多新闻)/i;
+  const paragraphTexts = [...document.querySelectorAll('p')].map((node) => normalizeArticleParagraph(node.textContent)).filter((paragraph) => paragraph.length >= 8);
+  const hardReject = /(?:read|continue|view)\s+(?:the\s+)?(?:full|complete)\s+(?:story|article|report)|(?:请前往|请在|点击|查看|阅读).{0,24}(?:全文|完整报道|原文)/i;
+  if (paragraphTexts.some((paragraph) => hardReject.test(paragraph))) return [];
+  const trimmed = [];
+  for (const paragraph of selected) {
+    if (cutoff.test(paragraph)) break;
+    trimmed.push(paragraph);
+  }
+  return trimmed;
 }
 /** 从信源官方原语言文章页补抓正文；RSS 只有摘要时由 fetchAllFeeds 调用。 */
 export async function fetchArticleBody(url, { fetchImpl = fetch, timeoutMs = 7000 } = {}) {
@@ -170,7 +204,7 @@ export async function fetchArticleBody(url, { fetchImpl = fetch, timeoutMs = 700
     });
     if (!res.ok) return null;
     const body = articleParagraphsFromHtml(await res.text()).join('\n\n').slice(0, ARTICLE_BODY_MAX_CHARS);
-    return body || null;
+    return body && !isLikelyTruncatedBody(body) ? body : null;
   } catch {
     return null;
   }
@@ -350,8 +384,8 @@ export async function fetchAllFeeds(sources) {
           const extractedRssBody = cleanHtmlToParagraphs(rawHtml);
           const hasRichRssBody = Boolean(extractedRssBody)
             && (/<(?:p|article|section|div)\b/i.test(rawHtml) || extractedRssBody.length > snippet.length + 80);
-          const contentKind = hasRichRssBody ? 'rss-body' : 'rss-summary';
-          const fullContent = hasRichRssBody ? extractedRssBody : snippet;
+          const contentKind = hasRichRssBody && !isLikelyTruncatedBody(extractedRssBody) ? 'rss-body' : 'rss-summary';
+          const fullContent = contentKind === 'rss-body' ? extractedRssBody : snippet;
           const pubDate = it.isoDate || it.pubDate || it.dcDate || it.publishedDate || '';
           const publishedAtMs = parsePublishedTimestamp(pubDate);
           const pubTimeFormatted = formatPubTime(pubDate);

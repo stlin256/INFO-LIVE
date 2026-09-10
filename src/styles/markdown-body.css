@@ -707,8 +707,58 @@ html.js .timeline-item.reveal.revealed {
   margin: 1.5em 0;
 }
 @media (max-width: 768px) {
+  /* MathML accessibility trees can expose their intrinsic formula width on
+     narrow screens. Keep the visual formula scrollable inside its paragraph
+     instead of expanding the document viewport. */
+  .markdown-body .katex {
+    display: inline-block;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    vertical-align: middle;
+  }
+
+  .markdown-body .katex-html {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+
+  .markdown-body .katex-mathml {
+    position: absolute;
+    width: 1px;
+    max-width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .markdown-body .katex-mathml math {
+    width: 1px;
+    max-width: 1px;
+    overflow: hidden;
+  }
+
   .markdown-body .md-grid {
-    grid-template-columns: 1fr !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    min-width: 0;
+  }
+
+  .markdown-body :where(img, video, iframe, svg, pre, table) {
+    max-width: 100%;
+  }
+
+  .markdown-body pre,
+  .markdown-body .md-table-wrap,
+  .markdown-body .mermaid-rendered {
+    max-width: 100%;
+  }
+
+  .markdown-body .article-body,
+  .markdown-body .article-body p,
+  .markdown-body .news-card-takeaways,
+  .markdown-body .perspective-source-body {
+    overflow-wrap: anywhere;
   }
 }
 /* bilibili/youtube 播放器：16:9 响应式容器，官方原生质感门面模式（Facade）+ 点击激活 */

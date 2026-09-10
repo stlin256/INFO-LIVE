@@ -2560,6 +2560,88 @@ html[data-theme='dark'] .perspective-consensus-title {
   }
 }
 
+@media (max-width: 768px) {
+  .markdown-body .md-grid-cell,
+  .markdown-body .md-grid:has(> .md-grid-cell > .news-card-header) > .md-grid-cell {
+    min-width: 0;
+    padding: 0.95rem;
+  }
+
+  .markdown-body .md-grid-cell h3 {
+    overflow-wrap: anywhere;
+  }
+
+  .news-card-header,
+  .news-card-meta-left,
+  .news-card-footer {
+    align-items: flex-start;
+  }
+
+  .news-card-header,
+  .news-card-meta-left {
+    width: 100%;
+  }
+
+  .news-meta-time {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .source-badge,
+  .news-source-link,
+  .wire-source-badge,
+  .wire-card-orig {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    white-space: normal;
+  }
+
+  .news-card-footer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+  }
+
+  .live-wire-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.65rem;
+  }
+
+  .wire-card {
+    min-width: 0;
+    padding: 0.85rem;
+  }
+
+  .wire-dim-badge {
+    margin-left: 0;
+  }
+
+  .wire-actions {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 0.45rem 0.8rem;
+  }
+
+  .perspective-matrix-card {
+    padding: 1rem;
+  }
+
+  .perspective-sources-grid,
+  .perspective-analysis-row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .perspective-source-header {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .event-node-date {
+    margin-left: 0;
+    width: 100%;
+  }
+}
+
 @media (max-width: 560px) {
   .markdown-body > h2 {
     grid-template-columns: 2.15rem minmax(0, 1fr);

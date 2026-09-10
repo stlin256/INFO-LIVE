@@ -9,12 +9,43 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { getBeijingTime, cleanUrl } from './fetcher.mjs';
+import { getBeijingTime, cleanUrl, chineseCharacterCount, isChineseReadableText, isLikelyTruncatedBody } from './fetcher.mjs';
 import { SOURCES } from './sources.mjs';
 import { evolveTopics } from './topic-lifecycle.mjs';
 import { storyIdForUrl } from './story-id.mjs';
 
 const PUBLISHABLE_TRANSLATION_MIN_CHARS = 240;
+
+function hasReadableChineseTitle(story) {
+  const lang = String(story?.sourceLang || '').toLowerCase();
+  return !lang || lang === 'zh' || chineseCharacterCount(story?.title) >= 2;
+}
+
+function hasReadableChineseBody(story) {
+  const lang = String(story?.sourceLang || '').toLowerCase();
+  if (!lang || lang === 'zh') return true;
+  return isChineseReadableText(story?.fullTranslation, { minChars: 40, minRatio: 0.16 });
+}
+
+function articleBodyForDisplay(story) {
+  const value = story && typeof story === 'object' ? story : {};
+  const translation = String(value.fullTranslation || '').trim();
+  const sourceLang = String(value.sourceLang || '').toLowerCase();
+  const complete = value.translationStatus === 'full'
+    && translation.length >= PUBLISHABLE_TRANSLATION_MIN_CHARS
+    && !isLikelyTruncatedBody(translation)
+    && !/(?:阅读|查看|参见|请前往).{0,24}(?:全文|原文|完整报道)/i.test(translation)
+    && hasReadableChineseBody(value);
+  if (complete) return translation;
+  if (sourceLang === 'zh') {
+    const local = String(value.snippet || '').trim();
+    return local || '【官方未提供可展示的正文证据，暂不生成未经证实的替代内容。】';
+  }
+  return value.contentStatus === 'full'
+    ? '【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】'
+    : '【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】';
+}
+
 
 function writeFileAtomic(file, content) {
   const tempFile = `${file}.${process.pid}.${Date.now()}.tmp`;
@@ -62,6 +93,10 @@ export function isPublishableArticle(story) {
     && value.translationStatus === 'full'
     && translation.length >= PUBLISHABLE_TRANSLATION_MIN_CHARS
     && paragraphs >= 1
+    && !isLikelyTruncatedBody(translation)
+    && !/(?:阅读|查看|参见|请前往).{0,24}(?:全文|原文|完整报道)/i.test(translation)
+    && hasReadableChineseTitle(value)
+    && hasReadableChineseBody(value)
     && /^https?:\/\//i.test(String(value.url || ''));
 }
 
@@ -244,14 +279,16 @@ function renderArticleBodyHtml(value) {
 
 export function renderArticleCard(s) {
   const lines = [];
-  const title = String(s.title || '');
+  const rawTitle = String(s.title || '');
+  const title = hasReadableChineseTitle(s) ? rawTitle : `【${String(s.source || '外文信源')}】外文标题尚未完成中文翻译`
   const safeTitle = escapeHtml(title);
   const contentStatus = s.contentStatus || 'missing';
   const translationStatus = s.translationStatus || 'source-only';
   const contentSource = s.contentSource || 'rss';
   const contentKind = s.contentKind || (contentSource === 'official-page' ? 'official-page-body' : 'rss-summary');
-  const contentLength = String(s.fullTranslation || s.snippet || '').length;
-  const contentParagraphs = Number(s.translationParagraphs || String(s.fullTranslation || s.snippet || '').split(/\n\s*\n/).filter(Boolean).length);
+  const displayBody = articleBodyForDisplay(s);
+  const contentLength = displayBody.length;
+  const contentParagraphs = Number(s.translationParagraphs || displayBody.split(/\n\s*\n/).filter(Boolean).length);
   const articleUrl = cleanUrl(s.url);
 
   const storyId = s.id || storyIdForUrl(s.url, s.title);
@@ -292,7 +329,7 @@ export function renderArticleCard(s) {
     const notice = contentStatus === 'missing' ? '未获取到官方正文，暂不生成未经证实的替代内容。' : '官方原文当前仅提供短讯或摘要；以下内容严格限于已获取证据，未补写缺失事实。';
     lines.push('<div class="article-content-notice" data-content-warning="true">⚠️ ' + notice + '</div>');
   }
-  lines.push(renderArticleBodyHtml(s.fullTranslation || s.snippet || ''));
+  lines.push(renderArticleBodyHtml(displayBody));
   lines.push('');
 
   // 5. 核心研判
@@ -344,10 +381,12 @@ export function renderLiveWireStream(ticker = [], topStories = []) {
   for (const t of ticker.slice(0, 32)) {
     const resolved = resolveSourceSlug(t.source, t.sourceSlug);
     const cleanLink = cleanUrl(t.url);
-    const safeText = escapeHtml(t.text || "");
+    const tickerText = chineseCharacterCount(t.text) >= 2 ? String(t.text || '') : `【${String(t.source || '外文信源')}】外文标题尚未完成中文翻译`;
+    const safeText = escapeHtml(tickerText);
     const safeOrig = escapeHtml(t.originalText || "");
     const showOrig = safeOrig && safeOrig !== safeText;
-    const safeSnippet = escapeHtml(t.snippet || "");
+    const tickerSnippet = chineseCharacterCount(t.snippet) >= 8 ? String(t.snippet || '') : '该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。';
+    const safeSnippet = escapeHtml(tickerSnippet);
     const internalTargetId = storyUrlMap.get(cleanLink);
 
     lines.push("  <div class=\"wire-card\">");
@@ -465,7 +504,7 @@ export function writeSiteData(data, rawItems = []) {
     url: s.url,
     imageUrl: s.imageUrl || null,
     fullContent: s.fullContent || s.snippet || '',
-    fullTranslation: s.fullTranslation || s.snippet || '',
+    fullTranslation: articleBodyForDisplay(s),
     contentStatus: s.contentStatus || 'missing',
     translationStatus: s.translationStatus || 'source-only',
     contentSource: s.contentSource || 'rss',

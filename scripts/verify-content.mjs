@@ -27,6 +27,22 @@ const GENERIC_PLACEHOLDERS = [
   '传统安全缓冲带与供应链韧性正面临极其严峻的现实压力测试',
 ];
 
+function chineseCharacterCount(text) {
+  return (String(text || '').match(/[\u3400-\u4dbf\u4e00-\u9fff]/g) || []).length;
+}
+
+function isChineseReadable(text) {
+  const value = String(text || '').replace(/\s+/g, ' ').trim();
+  const chinese = chineseCharacterCount(value);
+  const latin = (value.match(/[A-Za-z]/g) || []).length;
+  return chinese >= 20 && (latin < 120 || chinese / Math.max(1, chinese + latin) >= 0.16);
+}
+
+const INCOMPLETE_TRANSLATION_MARKERS = [
+  /(?:阅读|查看|参见|请前往).{0,24}(?:全文|原文|完整报道)/i,
+  /(?:read|continue|view)\s+(?:the\s+)?(?:full|complete)\s+(?:story|article|report)|read\s+more/i,
+];
+
 function describeCard(card, route) {
   const header = card.querySelector('.news-card-header');
   const title = card.querySelector('h3')?.textContent?.trim().replace(/#$/, '') || '(无标题)';
@@ -98,8 +114,14 @@ export function inspectHtml(html, route = 'index.html', { strictHome = route ===
     for (const phrase of GENERIC_PLACEHOLDERS) {
       if (item.body.includes(phrase)) issues.push(route + ': 检测到模板化伪正文：' + item.title + ' | phrase=' + phrase);
     }
-    if (strictAll && item.sourceLang && item.sourceLang !== 'zh' && (item.body.match(/[\u4e00-\u9fff]/g) || []).length < 20) {
-      issues.push(route + ': 外文文章译文疑似未翻译为目标语言：' + item.title);
+    if (strictAll && item.sourceLang && item.sourceLang !== 'zh' && chineseCharacterCount(item.title) < 2) {
+      issues.push(route + ': 外文文章标题没有中文翻译：' + item.title);
+    }
+    if (strictAll && item.sourceLang && item.sourceLang !== 'zh' && !isChineseReadable(item.body)) {
+      issues.push(route + ': 外文文章译文疑似未翻译或不完整为中文：' + item.title);
+    }
+    if (strictAll && INCOMPLETE_TRANSLATION_MARKERS.some((pattern) => pattern.test(item.body))) {
+      issues.push(route + ': 译文疑似被截断或仍是“请阅读全文”占位：' + item.title);
     }
     if (isShort && /全篇|深度编译|完整专题报告/.test(card.textContent || '') && strictAll) {
       issues.push(route + ': 短正文卡片仍宣称全篇/深度编译：' + item.title);

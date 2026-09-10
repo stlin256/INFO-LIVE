@@ -94,6 +94,20 @@ describe('新闻叙事可视化组件', () => {
     expect(css).toContain('column-count: 2');
     expect(css).toContain('column-count: 1');
   });
+  it('keeps Chinese-only mobile content readable without horizontal card overflow', async () => {
+    const homeCss = await readFile(new URL('../src/styles/home-blocks.css', import.meta.url), 'utf8');
+    const globalCss = await readFile(new URL('../src/styles/global.css', import.meta.url), 'utf8');
+    const markdownCss = await readFile(new URL('../src/styles/markdown-body.css', import.meta.url), 'utf8');
+    expect(globalCss).toContain('overflow-x: hidden');
+    expect(globalCss).toContain('padding-inline: 1rem');
+    expect(homeCss).toContain('overflow-wrap: anywhere');
+    expect(homeCss).toContain('grid-template-columns: minmax(0, 1fr)');
+    expect(markdownCss).toContain('grid-template-columns: minmax(0, 1fr) !important');
+    expect(markdownCss).toContain('max-width: 100%');
+    expect(markdownCss).toContain('.katex-mathml math');
+    expect(markdownCss).toContain('overflow-x: auto');
+  });
+
   it('keeps the responsive motion contract explicit in CSS', async () => {
     const css = await readFile(new URL('../src/styles/markdown-body.css', import.meta.url), 'utf8');
     expect(css).toContain('@media (max-width: 900px)');

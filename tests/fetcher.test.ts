@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { countContentParagraphs, contentStatusOf, enrichArticleBodies, fetchAllFeeds, fetchArticleBody, formatPubTime, parsePublishedTimestamp, selectEnrichmentCandidates } from '../scripts/fetcher.mjs';
+import { countContentParagraphs, contentStatusOf, enrichArticleBodies, fetchAllFeeds, fetchArticleBody, formatPubTime, isLikelyTruncatedBody, parsePublishedTimestamp, selectEnrichmentCandidates } from '../scripts/fetcher.mjs';
 
 describe('发布时间规范化', () => {
   it('uses the publication instant for sorting/display and keeps the year', () => {
@@ -21,7 +21,28 @@ describe('有界正文补抓的频道公平性', () => {
   });
 });
 
+describe('正文截断识别', () => {
+  it('does not treat teaser ellipses or read-full CTAs as complete article evidence', () => {
+    expect(isLikelyTruncatedBody('正文第一段，内容很多……')).toBe(true);
+    expect(isLikelyTruncatedBody('正文第一段。请前往官方页面阅读完整报道。')).toBe(true);
+    expect(contentStatusOf('正文第一段，内容很多……'.repeat(20))).toBe('short-source');
+  });
+});
+
 describe('正文采集与内容状态', () => {
+  it('downgrades a rich RSS teaser ending in an ellipsis to summary evidence', async () => {
+    const xml = '<rss version="2.0"><channel><title>Example</title><item><title>Headline</title><link>https://example.test/story</link><pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate><content:encoded><![CDATA[<p>' + '正文段落，含有足够的背景与事实细节。'.repeat(15) + '……</p>]]></content:encoded></item></channel></rss>';
+    const previousFetch = globalThis.fetch;
+    globalThis.fetch = async () => new Response(xml, { status: 200, headers: { 'content-type': 'application/rss+xml' } });
+    try {
+      const items = await fetchAllFeeds([{ name: 'Example', slug: 'example', lang: 'en', category: 'world', weight: 8, url: 'https://example.test/feed' }]);
+      expect(items[0].contentKind).toBe('rss-summary');
+      expect(items[0].contentStatus).toBe('short-source');
+    } finally {
+      globalThis.fetch = previousFetch;
+    }
+  });
+
   it('returns per-source health without changing the array API', async () => {
     const xml = '<rss version="2.0"><channel><title>Example</title><item><title>Headline</title><link>https://example.test/story</link><pubDate>Wed, 09 Sep 2026 12:00:00 GMT</pubDate><description>Short evidence</description></item></channel></rss>';
     const previousFetch = globalThis.fetch;
@@ -34,6 +55,12 @@ describe('正文采集与内容状态', () => {
     } finally {
       globalThis.fetch = previousFetch;
     }
+  });
+
+  it('stops official-body extraction before a full-story CTA and related links', async () => {
+    const html = '<article><p>' + '第一段是官方文章正文，包含足够的事实细节与上下文信息。'.repeat(8) + '</p><p>请前往官方页面阅读完整报道。</p><p>相关推荐：另一篇新闻标题</p></article>';
+    const body = await fetchArticleBody('https://example.test/cta', { fetchImpl: async () => new Response(html) });
+    expect(body).toBeNull();
   });
 
   it('extracts article paragraphs from official HTML and filters boilerplate', async () => {

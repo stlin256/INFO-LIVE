@@ -584,6 +584,9 @@ html[data-theme='dark'] .theme-toggle .icon-dark {
   }
 }
 @media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
   .nav-toggle {
     display: flex;
   }
@@ -604,6 +607,12 @@ html[data-theme='dark'] .theme-toggle .icon-dark {
   }
   .site-main {
     padding-top: 4.5rem;
+    padding-inline: 1rem;
+  }
+}
+@media (max-width: 380px) {
+  .site-main {
+    padding-inline: 0.75rem;
   }
 }
 

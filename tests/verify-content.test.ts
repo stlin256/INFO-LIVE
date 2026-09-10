@@ -50,6 +50,12 @@ describe('部署内容质量门禁', () => {
     expect(report.issues.some((issue) => issue.includes('疑似未翻译'))).toBe(true);
   });
 
+  it('rejects translated cards that still contain truncation or read-full placeholders', () => {
+    const html = '<html><body>' + Array.from({ length: 8 }, (_, index) => card('full', 'full', `<p>中文正文包含足够事实细节与背景信息。${'补充内容。'.repeat(40)}</p><p>${index === 0 ? '请前往官方页面阅读完整报道。' : '后续影响与各方回应。'}</p>`)).join('') + '</body></html>';
+    const report = inspectHtml(html, 'index.html', { strictAll: true });
+    expect(report.issues.some((issue) => issue.includes('译文疑似被截断'))).toBe(true);
+  });
+
   it('checks GitHub Pages base prefixes and duplicate story anchors', () => {
     const html = '<html><body>' + Array.from({ length: 2 }, () => '<div class="md-grid-cell"><div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-source-lang="zh" data-content-length="320" data-content-paragraphs="1" data-published-at="2026-09-09T12:00:00Z" data-time-source="publication"><span class="source-badge">Example</span></div><div class="story-anchor" id="same-story"></div><h3><a href="https://example.test/story">标题</a></h3><div class="article-body" data-article-body="true"><p>中文正文，包含足够的事实细节、背景和后续影响信息。</p></div></div>').join('') + '<img src="/assets/missing.svg">' + '</body></html>';
     const report = inspectHtml(html, 'ai/index.html', { strictHome: false, strictAll: true, expectedBasePrefix: '/INFO-LIVE' });
