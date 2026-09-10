@@ -177,13 +177,47 @@ export async function fetchArticleBody(url, { fetchImpl = fetch, timeoutMs = 700
 }
 
 /** 以有界并发补齐 RSS 摘要过短的文章，避免一次性请求全部页面。 */
-export async function enrichArticleBodies(items, { fetchImpl = fetch, maxItems = 120, concurrency = 8 } = {}) {
-  const candidates = items
-    .filter((item) => (item.contentStatus || contentStatusOf(item.fullContent)) !== 'full')
+export function selectEnrichmentCandidates(items, maxItems = 120) {
+  const limit = Math.max(0, Number(maxItems) || 0);
+  const ranked = items
     .map((item, index) => ({ item, index, time: parsePublishedTimestamp(item.publishedAt || item.pubDate || ''), weight: Number(item.weight) || 0 }))
-    .sort((left, right) => right.time - left.time || right.weight - left.weight || left.index - right.index)
-    .slice(0, maxItems)
-    .map(({ item }) => item);
+    .filter(({ item }) => (item.contentStatus || contentStatusOf(item.fullContent)) !== 'full')
+    .sort((left, right) => right.time - left.time || right.weight - left.weight || left.index - right.index);
+  if (limit === 0 || ranked.length <= limit) return ranked.map(({ item }) => item);
+
+  // The enrichment budget is shared by all desks. A pure recency sort can
+  // starve community/science feeds behind high-volume world/finance sources,
+  // leaving an otherwise healthy channel blank. Reserve a fair share for each
+  // observed category, then use the remaining slots by recency and source weight.
+  const groups = new Map();
+  for (const entry of ranked) {
+    const category = String(entry.item.category || 'other');
+    const bucket = groups.get(category) || [];
+    bucket.push(entry);
+    groups.set(category, bucket);
+  }
+  const categories = [...groups.keys()].sort();
+  const reserved = Math.min(limit, Math.max(1, Math.floor(limit / Math.max(1, categories.length))));
+  const selected = [];
+  const selectedIndexes = new Set();
+  for (const category of categories) {
+    for (const entry of groups.get(category).slice(0, reserved)) {
+      selected.push(entry.item);
+      selectedIndexes.add(entry.index);
+    }
+  }
+  for (const entry of ranked) {
+    if (selected.length >= limit) break;
+    if (!selectedIndexes.has(entry.index)) {
+      selected.push(entry.item);
+      selectedIndexes.add(entry.index);
+    }
+  }
+  return selected.slice(0, limit);
+}
+
+export async function enrichArticleBodies(items, { fetchImpl = fetch, maxItems = 120, concurrency = 8 } = {}) {
+  const candidates = selectEnrichmentCandidates(items, maxItems);
   const queue = [...candidates];
   async function worker() {
     while (queue.length > 0) {

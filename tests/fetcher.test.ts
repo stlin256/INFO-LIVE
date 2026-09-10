@@ -1,11 +1,23 @@
 import { describe, expect, it } from 'vitest';
-import { countContentParagraphs, contentStatusOf, enrichArticleBodies, fetchAllFeeds, fetchArticleBody, formatPubTime, parsePublishedTimestamp } from '../scripts/fetcher.mjs';
+import { countContentParagraphs, contentStatusOf, enrichArticleBodies, fetchAllFeeds, fetchArticleBody, formatPubTime, parsePublishedTimestamp, selectEnrichmentCandidates } from '../scripts/fetcher.mjs';
 
 describe('发布时间规范化', () => {
   it('uses the publication instant for sorting/display and keeps the year', () => {
     expect(parsePublishedTimestamp('2024-12-24T00:44:00Z')).toBe(Date.parse('2024-12-24T00:44:00Z'));
     expect(formatPubTime('2024-12-24T00:44:00Z')).toBe('2024-12-24 08:44');
     expect(parsePublishedTimestamp('not-a-date')).toBe(0);
+  });
+});
+
+describe('有界正文补抓的频道公平性', () => {
+  it('reserves enrichment capacity for categories that would otherwise be starved', () => {
+    const items = [
+      ...Array.from({ length: 10 }, (_, index) => ({ category: 'world', link: `https://example.test/world-${index}`, contentStatus: 'short-source', pubDate: `2026-09-10T00:${String(index).padStart(2, '0')}:00Z` })),
+      ...Array.from({ length: 2 }, (_, index) => ({ category: 'community', link: `https://example.test/community-${index}`, contentStatus: 'short-source', pubDate: '2026-09-09T00:00:00Z' })),
+    ];
+    const selected = selectEnrichmentCandidates(items, 6);
+    expect(selected.filter((item) => item.category === 'community')).toHaveLength(2);
+    expect(selected).toHaveLength(6);
   });
 });
 
