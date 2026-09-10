@@ -16,8 +16,151 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-blocks-to-investors-html-43f21f2b60a37d7e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="766" data-content-paragraphs="7" data-published-at="2026-09-10T15:30:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 23:30</span>
+</div>
+
+### [塞内加尔将向投资者推出109个油气区块](https://oilprice.com/Latest-Energy-News/World-News/Senegal-to-Offer-109-Oil-and-Gas-Blocks-to-Investors.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Senegal to Offer 109 Oil and Gas Blocks to Investors</div>
+
+<div class="article-body" data-article-body="true"><p>塞内加尔能源与石油部长埃尔·哈吉·阿卜杜拉赫曼·迪乌夫（El Hadji Abdourahmane Diouf）表示，塞内加尔将向本土和外国投资者推出多达109个油气区块。这位官员向当地一家电视频道表示，在这个西非国家的113个油气区块中，目前仅有4个已签订合同。</p>
+<p>路透社援引该部长的话报道称：“其余109个区块将推向市场。”迪乌夫补充道：“总统的计划是在能源、石油和天然气领域培育本土领跑者。”</p>
+<p>过去十年中，塞内加尔近海的多次油气发现推动了这个非洲国家的石油工业起步。该国于2024年启动了首个石油项目，并在一年后通过塞内加尔与毛里塔尼亚近海的一处天然气项目开启了液化天然气（LNG）出口。</p>
+<p>塞内加尔有史以来的首个石油项目于2024年投产，推动该国经济增长创下历史新高。总部位于澳大利亚的伍德赛德能源公司（Woodside Energy）于2024年6月在桑戈马尔（Sangomar）石油项目产出首批原油。伍德赛德表示，桑戈马尔油田一期开发是一个深水项目，包括一艘额定日产能10万桶的独立浮式生产储卸油装置（FPSO）以及旨在支持后续开发阶段的水下基础设施。</p>
+<p>塞内加尔国家石油公司（Petrosen）总经理蒂埃诺·利（Thierno Ly）当时表示：“桑戈马尔油田产出首批原油，不仅标志着我国工业和经济迈入新时代，最重要的是对我们的人民意义重大。”</p>
+<p>一年后，作为作业者的英国石油公司（BP）在毛里塔尼亚与塞内加尔近海的大托尔图-阿赫梅因（Greater Tortue Ahmeyim，简称 GTA）一期项目中，安全装运了首批用于出口的液化天然气货物。BP表示，GTA一期项目计划年产约230万吨液化天然气，且该项目预计开采生产期将超过20年。</p>
+<p>作者：Charles Kennedy（为 Oilprice.com 撰稿）</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>塞内加尔能源和石油部长埃尔·哈吉·阿卜杜拉赫曼·迪乌夫表示，塞内加尔将向本国及外国投资者提供多达109个油气区块。</li>
+    <li>塞内加尔全国共有113个油气区块，目前仅有4个已签订合同，剩余109个将推向市场。</li>
+    <li>来源叙事重点：聚焦塞内加尔油气行业的投资机遇与增长动能，以标志性项目（Sangomar原油与GTA天然气）的投产成果为背书，突显该国向市场大规模释放上游油气勘探区块的商业吸引力。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#OilPrice</span>
+</div>
+
+<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Senegal-to-Offer-109-Oil-and-Gas-Blocks-to-Investors.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--118-days-this-year-html-60c3a33cca04ad61" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4256" data-content-paragraphs="24" data-published-at="2026-09-10T15:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
+    <span class="dimension-pill">⚡ 战略能源与气候</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 23:00</span>
+</div>
+
+### [今年已有118天二叠纪盆地天然气价值跌至负值](https://oilprice.com/Energy/Energy-General/Permian-Gas-Has-Been-Worth-Less-Than-Nothing-for-118-Days-This-Year.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Permian Gas Has Been Worth Less Than Nothing for 118 Days This Year</div>
+
+<div class="article-body" data-article-body="true"><p>点击此处查看150多种全球石油价格<br />国际能源署（IEA）：随着伊朗战争阻碍液化天然气（LNG）供应，全球煤炭需求将创历史新高<br />欧洲的可再生能源建设速度正超过……<br />美国已制裁……<br />经由霍尔木兹海峡的石油流动已……<br />报道范围说明：我的报道重点涵盖全球能源格局及重塑该格局的技术，尤其关注石油与天然气、可再生能源以及技术驱动的市场……</p>
+<p>在得克萨斯州佩科斯郊外，雪佛龙（Chevron）正准备建造一座发电厂，以解决困扰二叠纪盆地多年的难题——该地区开采出的天然气数量，远远超过了周边任何买家愿意出资购买的规模。<br />雪佛龙旗下子公司 Energy Forge One 于6月与微软（Microsoft）签署了一项为期20年的协议，将在一个数据中心园区旁建造一座燃气电厂，发电容量将逐步提升至约2.67吉瓦。最终投资决定预计于今年年底前作出，计划于2028年开始输送电力。<br />在一个县达成的一项交易并不足以构成整体趋势，但这确实表明，西得克萨斯州三个各自酝酿多年的能源难题，正开始指向同一个客户群体。</p>
+<p>天然气产量创纪录，价格跌入负区间<br />今年来自米德兰的大多数讨论都围绕着克制展开，包括钻井平台数量减少、预算收紧，以及某行业刊物所称的向更缓慢、更有纪律的增长转型。这很好地描绘了石油领域的现状，但却忽略了天然气方面正在发生的情况。<br />2025年WTI原油平均价格为每桶65美元，今年截至7月平均约为84美元，远高于米德兰和特拉华盆地运营商向达拉斯联储报告的每桶63至69美元的盈亏平衡点，因此生产商一直在继续钻探。<br />问题在于，现在的每一桶原油伴生出的天然气都比几年前更多；随着几乎所有油田的老化，油气比（gas-to-oil ratio）往往都会随之攀升。<br />美国能源信息署（EIA）预计，今年二叠纪盆地的天然气平均产量将达到每日292亿立方英尺（Bcf/d），同比增长6%，刷新该地区的历史纪录。<br />现有管道运力不足以输送所有这些天然气……<br />作为二叠纪盆地天然气定价枢纽的瓦哈（Waha），在今年前131个交易日中有118天出现负价交易，且有望打破2024年负价天数的纪录。<br />负价格意味着生产商必须倒贴钱让人把天然气运走，他们之所以这么做，是因为如果不这样，唯一的替代方案就是关停真正能为他们赚钱的油井。因此，二叠纪盆地的困境并非出在生产环节；而是在于其两项产品之一，在一年中的大部分时间里价值跌至负数。<br />中游行业中也没有人认为这种情况会很快结束。企业产品伙伴公司（Enterprise Products Partners）正在扩建其从米德兰和特拉华盆地延伸出的巴伊亚液化天然气（Bahia NGL）管道，埃克森美孚（ExxonMobil）持有该项目40%的股权，相关合同一直持续到2027年。</p>
+<p>数据中心无需等待管道落成<br />东戴利分析公司（East Daley Analytics）预计，LNG终端与数据中心加起来将拉动超过每日200亿立方英尺的新增需求，而目前正在向墨西哥湾沿岸建设的管道也不会空置着等待这一需求。<br />他们的分析认为，生产商最终可能会特意开采含气量更高的区块，单纯为了让这两种产品都能持续流经原本主要围绕原油设计的输送基础设施。<br />而“表后”（behind-the-meter）数据中心则在无需任何人铺设新管道的情况下改变了这一局面……<br />加拿大皇家银行资本市场（RBC Capital Markets）统计显示，得克萨斯州已公布的表后燃气发电装机容量约为38吉瓦，超过其他任何一个州。<br />仅一个名为 GW Ranch 的项目，就计划到2031年在西得克萨斯州建设7.5吉瓦的现场自备发电设施，这大致相当于一座美国中型城市的耗电规模。<br />关于这些项目，有一种说法需要引起比以往更多的怀疑，那就是它们正在消耗原本会被火炬放空燃烧的天然气。对于基尔比项目（Project Kilby），尚未有人证明过这一点。<br />一家在能源行业开展业务的环境合规公司在今年夏天致客户的一份报告中指出了这一点。该机构认为，仅仅将设施建在闲置井附近，并不足以证明数据中心的燃料替代了火炬放空的天然气量，而且大多数开发商并未提供项目层面的证据来支持这一论点。<br />无论如何，二叠纪盆地的火炬放空燃烧量一直在下降，2023年至2024年间放空强度下降了近10%，这主要得益于马特洪峰快线（Matterhorn Express）等管道终于为天然气提供了外输途径。<br />客观事实很简单：即便相关管线建成后，二叠纪盆地所产出的天然气依然超出市场能够消纳的极限；而数据中心则是多年来第一批既拥有雄厚财力、又具备足够迫切性，直接在天然气产地就地兴建电厂的买家。</p>
+<p>风能早已为输电线路买了单<br />自2000年代中期阿比林与大斯普林之间的台地上树立起数百座风电机组以来，以斯威特沃特为中心的诺兰县就被称为得克萨斯州的风力涡轮机之都。<br />将这些电力输送至东部需要新建输电网，得克萨斯州通过一项名为竞争性可再生能源区（CREZ）、规模约70亿美元的计划为此买单。这些输电线路增加了约18,000兆瓦的输电容量，其债务已偿付多年，如今仍在持续输送电力。<br />这正是数据中心开发商不断落户20号州际公路沿线的重要原因，因为早在任何人筹划吉瓦级园区之前，这些线路就已经铺设完毕。<br />我在《西得克萨斯牛仔正借助AI土地热潮套现》一文中曾报道过这一现象对该交通走廊沿线土地价值与牧场经济带来的影响。<br />这里值得强调的核心在于，风电早已解决了该地区东西向的电力输送难题，如今在这里建设的所有人，实际上都在享用二十年前他人投入资本所带来的成果。</p>
+<p>太阳能仍在等待属于自己的输电线路<br />一条名为“二叠纪可靠性项目”（Permian Reliability Project）的新高压输电线路目前正在进行选址工作，预计它将为远西得克萨斯州的太阳能产业发挥类似当年 CREZ 对阿比林周围风电所起的作用，从而将光照充足却无法外送电力的土地，转化为开发商真正能够获得融资的资产。<br />下一轮可再生能源建设的落地地点可能会与上一轮有所不同，因为风力涡轮机需要开阔地面并远离飞行航道。<br />阿比林附近的一个大型项目在开发商与戴斯空军基地（Dyess Air Force Base）产生空域冲突后，便由风电转为了太阳能。光伏板面临的这类限制较少，而且一旦“二叠纪可靠性项目”的电网线路建成，太阳能电站与目前正在二叠纪盆地内部（而非东北部的阿比林走廊）选址勘查的数据中心园区距离要近得多。</p>
+<p>加密货币矿工最早小规模践行了这一模式<br />将数据中心建在滞留天然气井旁边在西得克萨斯州并非新鲜事，只不过此前从未达到如此庞大的规模。<br />多年来，加密货币矿工一直将装满矿机和小型发电机的大型集装箱运往偏远的井场，直接从没有其他销售渠道的生产商手中收购天然气。<br />康菲石油（ConocoPhillips）在巴肯页岩层较早实施了这一方案，埃克森美孚也开展了自己的试点，随后该模式推广到了整个二叠纪盆地。<br />挖矿之所以适用于这种场景，是因为它不挑剔电力来源，也不在乎电网连接是否稳定，因此它可以直接在生产现场消耗别人不需要的能源，而无需等待管道建设许可。</p>
+<p>咨询机构Opportune的大宗商品风险顾问赖安·杜塞克（Ryan Dusek）称，这是能源领域极少数真正互利共生的合作模式之一，因为生产商得以脱手无法输送的天然气，而矿工则能以批发价获得电力，且免受电网断电的影响。</p>
+<p>佩科斯（Pecos）正以截然不同的庞大规模复制这一交易模式。</p>
+<p>一个集装箱的挖矿设备一年可能消耗数百万立方英尺天然气，而一座2.67吉瓦的发电厂完全是另一门大生意，正因如此，矿工们几年前在这里所做的事情，如今看来就像是一场更大规模动作的彩排。</p>
+<p>阿博特的暂停令对这一切毫无影响</p>
+<p>德克萨斯州州长格雷格·阿博特（Greg Abbott）于8月3日下令暂停批准新数据中心，指示德克萨斯州电力可靠性委员会（ERCOT）和德克萨斯州公用事业委员会（PUCT）审查电网并网队列中的所有待批项目。目前该队列的并网申请容量已增至约474吉瓦，而历史最高峰值需求仅为约85吉瓦。</p>
+<p>此次审计涵盖了ERCOT“批次零”（Batch Zero）审查流程中的约300个大型项目，重点调查用水情况、股权归属、公共补贴以及诸多其他方面。</p>
+<p>但这些规定均不适用于绕开电网接入的项目。</p>
+<p>像雪佛龙与微软在佩科斯所做的那样，在现场自建发电设备的开发商，在并网队列处于冻结状态时仍可继续推进。</p>
+<p>这正符合该行政指令的初衷，因为阿博特公开表达的担忧是保障依赖电网的德州居民的电网可靠性，而自备电源的数据中心从一开始就没有从公共电网中抽调电力。</p>
+<p>围绕这一问题的政治博弈将在今年秋季选举中持续发酵，且该审计目前没有明确的截止日期，但无论如何，驱动因素都指向同一个方向：在德克萨斯州，并网项目面临的审查越严苛，“表后自发自用”（behind-the-meter）模式就显得越有吸引力。正是这种模式，正在将天然气需求以及最终的可再生能源需求，直接拉动至二叠纪盆地及其周边走廊地带。</p>
+<p>数据中心并未引发这三项问题中的任何一个……</p>
+<p>滞销的天然气、利用率不足的风电输送线以及至今尚未建成的光伏线路，此前全都闲置在西德克萨斯州，等待着有足够资本和迫切需求的买家绕开基础设施瓶颈，而不是干等别人来解决这些短板。</p>
+<p>这个买家未来是否能维持目前宣传的规模确实是一个值得探讨的问题，ERCOT自身官员也预计，一旦财务承诺规定将投机性申报清理出局，并网队列中的大部分项目都会消失。</p>
+<p>但已经签署的协议则要确凿得多。基尔比（Kilby）项目是一份为期20年的合同，最终投资决定将在今年年底前作出。</p>
+<p>作者：Michael Kern，为 Oilprice.com 撰稿</p>
+<p>Oilprice.com 更多精选热文：<br />WTI原油突破100美元——且本轮涨势仍有后劲<br />为何石油巨头不愿在美国新建炼油厂<br />美委石油协议威胁中国“石油换贷款”项目<br />电动卡车已从天方夜谭走向不可阻挡的必然<br />美军摧毁五艘伊朗油轮，油价触及100美元<br />霍尔木兹海峡对峙持续，伊朗石油出口大幅下滑</p>
+<p>本网站提供的材料仅供参考和教育之用，无意提供税务、法律或投资建议。<br />本网站包含的任何内容均不得视为向任何司法管辖区的任何人推荐、招揽或要约购买或出售证券。<br />记录商户（Merchant of Record）：A Media Solutions（以 Oilprice.com 名义运营）</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-10 23:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#战略能源与气候</span>
+  <span class="news-tag-pill">#OilPrice</span>
+</div>
+
+<div class="news-card-footer"><a href="https://oilprice.com/Energy/Energy-General/Permian-Gas-Has-Been-Worth-Less-Than-Nothing-for-118-Days-This-Year.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-st-got-a-lot-higher-html-49cc3b43103712a8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1380" data-content-paragraphs="18" data-published-at="2026-09-10T14:51:36.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Economy (CNBC 宏观经济)" width="16" height="16" /> <strong>CNBC Economy (CNBC 宏观经济)</strong></span>
+    <span class="stance-badge">国际资本与华尔街视角</span>
+    <span class="dimension-pill">💹 宏观资本与产业</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 22:51</span>
+</div>
+
+### [美联储下周加息的可能性大幅上升](https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The likelihood of a Fed interest rate hike next week just got a lot higher</div>
+
+<div class="article-body" data-article-body="true"><p>从周四的市场定价来看，一系列对通胀不利的因素可能会推动美联储在下周加息，且在年底前可能还会再加息一次。</p>
+<p>根据芝加哥商品交易所集团（CME Group）的“美联储观察”（FedWatch）工具显示，在公布了显示8月份批发价格上涨的报告，以及美国原油价格巧合地突破每桶100美元后，交易员在早盘交易中将下周加息的概率推高至70%。</p>
+<p>随着通胀动能表现顽固，且更有可能引发央行的应对举措，他们还将12月再次加息的概率推高至近60%。</p>
+<p>LPL Financial首席经济学家杰弗里·罗奇（Jeffrey Roach）写道：“随着与伊朗的冲突持续时间超出许多人的预期，通胀压力正变得越来越根深蒂固，这促使投资者寻找足够强大的催化剂来改变通胀叙事。照这种趋势发展，下周加息看来很有可能。”</p>
+<p>衡量批发和输送环节成本压力的生产者价格指数（PPI）在8月份上涨了0.4%。尽管这符合预期，但在7月份经上修后上涨0.1%的基础上，共同将PPI年率推高至5.4%，略高于预期。</p>
+<p>与此同时，中东地区敌对行动的加剧令大宗商品交易员感到恐慌，推动美国原油价格上涨4%，刚刚突破100美元关口。</p>
+<p>最后，欧洲央行宣布加息25个基点，并上调了通胀预测，原因是担忧伊朗战争将产生更深层次的经济影响，并对消费者价格造成更长期的冲击。</p>
+<p>TradeStation全球市场策略主管大卫·拉塞尔（David Russell）表示：“由于自8月份数据采集以来原油和成品油持续上涨，更大的压力即将到来。油价的持续飙升，加上低初请失业金人数，使得美联储很难在下周不加息。”</p>
+<p>央行政策制定者将在周五劳工统计局公布消费者价格指数（CPI）时，对通胀数据进行最后的审视。</p>
+<p>道琼斯共识预期整体CPI年率为3.4%，不过剔除食品和能源的核心CPI预计为2.4%。</p>
+<p>然而，美联储关注的是商务部的个人消费支出（PCE）价格指数，该指数显示7月份核心PCE为3.3%，整体PCE为3.7%。美联储主席凯文·沃什（Kevin Warsh）最近再次强调，PCE价格指数是美联储衡量通胀的官方基准。</p>
+<p>美国银行高级美国经济学家斯蒂芬·朱诺（Stephen Juneau）估计，将8月份的PPI数据考虑在内后，核心PCE月率预计将达到0.26%，四舍五入后为0.3%。</p>
+<p>朱诺在一份报告中表示：“在明天的CPI数据公布后，这一数字可能会发生显著变动，但如果我们是对的，它应该会为美联储下周会议上的加息开绿灯。”</p>
+<p>美银持有华尔街最鹰派的美联储预测之一，预计在接下来的几次会议上将有三次加息。</p>
+<p>尽管这与当前期货定价的共识不一致，但近期的形势发展表明，美联储在抗击通胀方面态度更为激进。</p>
+<p>One Point BFG Wealth Partners首席投资官彼得·布克瓦（Peter Boockvar）表示，即使CPI数据温和，也可能仅仅表明企业更难将更高的价格转嫁给消费者。</p>
+<p>布克瓦说：“那些仅凭消费者价格来获取通胀信息并预测利率的人，并没有看到全貌，今天的PPI仍然证明整个供应链都存在通胀问题。”</p>
+<p>有保密新闻线索？我们期待您的来信。<br />订阅此内容发送至您的收件箱，并获取有关我们产品和服务的更多信息。<br />数据为实时快照 *数据至少延迟15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。<br />数据亦由以下机构提供</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【CNBC Economy (CNBC 宏观经济)】于 2026-09-10 22:51 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#宏观资本与产业</span>
+  <span class="news-tag-pill">#CNBC</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Economy (CNBC 宏观经济)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-hits-black-sea-port-html-3eb121ca27901d07" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1358" data-content-paragraphs="13" data-published-at="2026-09-10T14:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1354" data-content-paragraphs="8" data-published-at="2026-09-10T14:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
@@ -26,22 +169,17 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 22:00</span>
 </div>
 
-### [俄罗斯袭击摩尔多瓦边境，乌克兰打击黑海港口](https://oilprice.com/Geopolitics/Europe/Russia-Strikes-Moldova-Border-as-Ukraine-Hits-Black-Sea-Port.html)
+### [俄罗斯袭击乌摩边境，乌克兰打击黑海港口](https://oilprice.com/Geopolitics/Europe/Russia-Strikes-Moldova-Border-as-Ukraine-Hits-Black-Sea-Port.html)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Russia Strikes Moldova Border as Ukraine Hits Black Sea Port</div>
 
-<div class="article-body" data-article-body="true"><p>俄罗斯发动无人机袭击瞄准了乌克兰与摩尔多瓦之间的一处边境过境点，造成两人死亡、三人受伤，同时俄罗斯无人机还袭击了基辅；目前莫斯科仍在继续其对乌克兰全境近乎持续不断的打击行动。乌克兰国家边防局报告称，俄罗斯于9月9日对乌克兰敖德萨州的斯塔罗卡扎切—图多拉（Starokazache–Tudora）边境过境点发动袭击，损毁了检查站基础设施、车辆及建筑物，引发大火，并迫使16人疏散。</p>
-<p>摩尔多瓦当局谴责了此次袭击，摩尔多瓦总统玛雅·桑杜警告称，俄罗斯的袭击对摩尔多瓦构成了日益严重的威胁。她在X平台上发文写道：“俄罗斯的前线正进一步向西推移——这也是乌克兰迫切需要防空系统的原因。”桑杜表示，该边境过境点在袭击发生后已被关闭。</p>
-<p>“夜间，俄罗斯无人机袭击了我们与乌克兰边境上的图多拉—斯塔罗卡扎切过境点。两名平民丧生，三人受伤。该过境点目前已关闭。”——玛雅·桑杜（sandumaiamd），2026年9月9日</p>
-<p>此次打击发生的前一天，一架俄罗斯无人机进入摩尔多瓦领空，促使当局暂时叫停航班，并延误了乌克兰总统弗拉基米尔·泽连斯基启程前往挪威的行程。挪威首相约纳斯·加尔·斯特勒随后表示，泽连斯基的专机在离开摩尔多瓦时“险些被无人机击中”。但乌克兰总统府知情人士称泽连斯基身处险境的说法“言过其实”，而摩尔多瓦当局则表示，他们在探测到一架俄罗斯无人机后暂时关闭了国家空域，导致包括泽连斯基专机在内的数架航班延误。在限制解除后，他的专机获准起飞。</p>
-<p>摩尔多瓦总理瓦西里·托凡在Facebook发文指出，克里姆林宫对乌克兰的战争“也正日益危及我们公民的生命”。</p>
-<p>据基辅当局称，在针对乌克兰首都的袭击中，俄罗斯无人机造成一人死亡、17人受伤。一架无人机击中了一栋24层的居民楼，引发火灾。莫斯科使用攻击型无人机、导弹和制导航空炸弹，对乌克兰全境的城市和民用基础设施发动了几乎每日不断的袭击，凸显出其尽管承受了惊人的伤亡，仍意图推进这场针对乌克兰长达近4年半的全面战争。</p>
-<p>乌克兰打击俄罗斯新罗西斯克</p>
-<p>乌克兰当局于9月9日报告称，乌克兰在夜间针对俄罗斯黑海港口新罗西斯克进行了打击。乌克兰总统弗拉基米尔·泽连斯基表示：“一处海军基地被击中，包括一个用于装载石油的码头、军港设施以及搭载‘口径’导弹的军舰，”他补充称，乌克兰正在对“俄罗斯每日的恐怖主义袭击”作出有效回应。</p>
-<p>俄罗斯当局证实了乌克兰对新罗西斯克的无人机袭击。克拉斯诺达尔边疆区行政长官韦尼亚明·孔德拉季耶夫表示，袭击造成包括一名儿童在内的四人死亡。</p>
-<p>俄罗斯国防部9月9日表示，其部队在夜间击落了596架乌克兰无人机。就在前一天，俄罗斯总统弗拉基米尔·普京与美国总统唐纳德·特朗普通了电话，克里姆林宫称这次通话“具有建设性且相当坦诚”。</p>
-<p>这些袭击发生前，美国特使史蒂夫·威特科夫和贾里德·库什纳曾访问基辅，与总统弗拉基米尔·泽连斯基及其他官员举行会谈；在此之前，他们已在莫斯科会晤了总统弗拉基米尔·普京。</p>
-<p>与此同时，泽连斯基在结束对挪威的访问后于9月9日深夜抵达加拿大。在挪威期间，他出席了国王哈拉尔五世的葬礼，并就防空支援举行了会谈。加拿大总理马克·卡尼的办公室表示，泽连斯基对加拿大的访问预计将聚焦于国防、经济和能源合作。</p>
-<p>（自由欧洲电台/自由电台）</p></div>
+<div class="article-body" data-article-body="true"><p>俄罗斯发动无人机袭击瞄准了乌克兰与摩尔多瓦边境口岸，造成2人死亡、3人受伤；与此同时，俄罗斯无人机还袭击了基辅。目前莫斯科仍在继续其对乌克兰全境近乎持续不断的打击行动。乌克兰国家边防局报告称，9月9日俄罗斯对乌克兰敖德萨州的斯塔罗卡扎切—图多拉（Starokazache–Tudora）边境口岸发动的袭击损毁了检查站基础设施、车辆及建筑物，引发大火，并迫使16人疏散。摩尔多瓦当局对这起袭击表示谴责，摩尔多瓦总统马娅·桑杜警告称，俄罗斯的袭击正对摩尔多瓦构成日益严重的威胁。“俄罗斯的前线正在进一步向西移动——这就是为什么向乌克兰提供防空支持刻不容缓，”她在社交媒体平台X上发帖写道。桑杜表示，该边境口岸在遇袭后已被关闭。</p>
+<p>“夜间，俄罗斯无人机袭击了我们与乌克兰边境上的图多拉—斯塔罗卡扎切边境口岸。两名平民丧生，三人受伤。该口岸目前已关闭。——马娅·桑杜（sandumaiamd），2026年9月9日”</p>
+<p>此次袭击发生的前一天，一架俄罗斯无人机曾进入摩尔多瓦领空，导致当局一度暂停航班起降，并延误了乌克兰总统弗拉基米尔·泽连斯基启程前往挪威的行程。挪威首相约纳斯·加尔·斯特勒随后表示，泽连斯基的专机在离开摩尔多瓦时“险些被无人机击中”。但乌克兰总统府消息人士称，关于泽连斯基当时处于险境的说法“言过其实”；而摩尔多瓦当局则表示，他们在探测到一架俄罗斯无人机后临时关闭了本国领空，导致包括泽连斯基专机在内的数个航班延误。在限制措施解除后，泽连斯基的专机获准起飞。摩尔多瓦总理瓦西里·托凡在Facebook发帖指出，克里姆林宫对乌克兰的战争“也正日益危及我国公民的生命安全”。</p>
+<p>据基辅当局称，在对乌克兰首都的袭击中，俄罗斯无人机造成1人死亡、17人受伤。其中一架无人机击中了一栋24层高的居民楼并引发火灾。尽管伤亡人数极其惨重，莫斯科依然使用攻击型无人机、导弹和制导航空炸弹对乌克兰各地的城市及民用基础设施发动近乎每日一次的袭击，彰显出其继续推进这场持续近四年半的对乌全面战争的意图。</p>
+<p>乌克兰打击俄罗斯新罗西斯克港<br />乌克兰当局于9月9日报告称，乌克兰夜间对俄罗斯黑海港口新罗西斯克发动了打击。“一个海军基地被击中，包括一个用于装载石油的码头、军港设施以及搭载‘口径’导弹的军舰，”乌克兰总统弗拉基米尔·泽连斯基表示，并补充称乌克兰正在对“俄罗斯每日进行的恐怖袭击”做出有效回应。俄罗斯当局证实了乌克兰对新罗西斯克发动的无人机袭击，克拉斯诺达尔边疆区行政长官韦尼亚明·孔德拉季耶夫报告称，有4人在此次袭击中丧生，其中包括一名儿童。</p>
+<p>俄罗斯国防部9月9日表示，其部队在夜间击落了596架乌克兰无人机。就在前一天，俄罗斯总统弗拉基米尔·普京与美国总统唐纳德·特朗普进行了通话，克里姆林宫称这次通话“具有建设性且十分坦诚”。</p>
+<p>在此次袭击发生前，美国特使史蒂夫·威特科夫和贾里德·库什纳在莫斯科与普京总统会晤后，前往基辅与泽连斯基总统及其他官员举行了会谈。与此同时，泽连斯基在结束对挪威的访问后，于9月9日晚抵达加拿大；在挪威期间，他出席了国王哈拉尔五世的葬礼，并就防空援助举行了会谈。据加拿大总理马克·卡尼办公室称，泽连斯基访问加拿大预计将重点讨论防务、经济和能源合作。</p>
+<p>（自由欧洲电台/自由电台 报道）</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -61,7 +199,7 @@ notice:
 
 :::cell
 <div id="story-muz-crisis-drags-on-html-a629d9258a43d13e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="714" data-content-paragraphs="3" data-published-at="2026-09-10T13:30:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="725" data-content-paragraphs="7" data-published-at="2026-09-10T13:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
@@ -70,12 +208,16 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 21:30</span>
 </div>
 
-### [霍尔木兹危机持续蔓延 汇丰将2026年布伦特原油预期上调至90美元](https://oilprice.com/Latest-Energy-News/World-News/HSBC-Raises-2026-Brent-Forecast-to-90-as-Hormuz-Crisis-Drags-On.html)
+### [霍尔木兹危机持续蔓延 汇丰将2026年布伦特原油预测上调至90美元](https://oilprice.com/Latest-Energy-News/World-News/HSBC-Raises-2026-Brent-Forecast-to-90-as-Hormuz-Crisis-Drags-On.html)
 <div class="original-title-sub"><span class="orig-tag">原文</span> HSBC Raises 2026 Brent Forecast to $90 as Hormuz Crisis Drags On</div>
 
-<div class="article-body" data-article-body="true"><p>由于霍尔木兹海峡危机正在导致市场供应收紧，且目前看不到明确的局势降级途径，汇丰银行（HSBC）已将其对2026年布伦特原油的价格预期从每桶80美元上调至90美元。据《华尔街日报》报道，汇丰银行分析师金·福斯蒂尔（Kim Fustier）在一份报告中写道，石油市场在2027年年中之前不太可能恢复平衡。该行对未来数周和数月的基准情景预测是，美国与伊朗之间达成某种脆弱的谅解，但这种谅解容易破裂并充满不确定性，包括在航运安全和保险方面。</p>
-<p>汇丰银行的福斯蒂尔预测，到2026年底，经由霍尔木兹海峡的石油运输量将从目前的每天600万桶增加到约800万桶/日。这一预估低于其他一些分析师的预测以及当前显示约有1000万桶/日原油及石油产品通过霍尔木兹海峡的航流追踪数据。尽管如此，即便1000万桶/日的估算准确，这也仅是战前每天约1900万至2000万桶通过该咽喉要道的石油运输量的一半。福斯蒂尔表示，汇丰银行预计霍尔木兹海峡的石油运量到2027年年中将逐步增加至950万桶/日，并指出这将导致石油市场在近一年的时间内持续处于供需紧张状态。因此，汇丰银行作出了上调2026年布伦特原油价格至每桶90美元的预测。</p>
-<p>周四早盘，布伦特原油价格在每桶101美元附近徘徊，此前随着美伊油轮战升级，油价在周三自7月以来首次突破100美元大关。在汇丰银行的“僵局”情景下，若外交努力失败且运输流量维持受限现状，布伦特原油价格可能会飙升至每桶120美元。这虽然并非该行的基准情景，但与高盛本周早些时候发出的警告相近——高盛此前警示称，如果中东航运遇袭事件加剧，油价可能会飙升至每桶120美元之高。文/Michael Kern，Oilprice.com</p></div>
+<div class="article-body" data-article-body="true"><p>由于霍尔木兹海峡危机正在导致市场收紧，且目前看不到明确的局势降温途径，汇丰银行（HSBC）已将其对2026年布伦特原油价格的预测从每桶80美元上调至90美元。</p>
+<p>据《华尔街日报》援引汇丰银行分析师金·福斯蒂尔（Kim Fustier）在一份报告中的观点，原油市场不太可能在2027年年中之前恢复平衡。该行对未来数周和数月的基准情景假设是，美国与伊朗之间达成某种脆弱的谅解，但这种谅解很容易出现破裂并充满不确定性，包括在航运安全和保险方面。</p>
+<p>汇丰的福斯蒂尔预测，通过霍尔木兹海峡的石油运输量将在2026年底前增加至每日约800万桶，高于目前的每日600万桶。这一估算低于部分其他分析师的预测以及当前航运流量追踪数据——后者表明目前约有每日1000万桶的原油和石油产品通过霍尔木兹海峡。然而，即便每日1000万桶的估算是准确的，这也仅相当于战前每日约1900万至2000万桶穿过该咽喉要道流量的一半水平。</p>
+<p>福斯蒂尔表示，汇丰预计到2027年年中，霍尔木兹海峡的石油流量将逐步回升至每日950万桶，并指出这将导致原油市场在未来近一年内持续保持紧张。因此，汇丰给出了2026年布伦特原油每桶90美元的更高预测。</p>
+<p>周四早盘，布伦特原油价格在每桶101美元附近震荡。此前在周三，随着美伊油轮战升级，布伦特原油价格自7月以来首次突破100美元大关。</p>
+<p>在汇丰的“僵局”情景下，若外交努力失败且原油运输流量维持当前受限状态，布伦特原油价格可能会飙升至每桶120美元。这并非该行的基准情景，但接近高盛本周早些时候发出的警告，即如果中东地区的航运袭击加剧，油价可能暴涨至最高每桶120美元。</p>
+<p>文/迈克尔·科恩（Michael Kern），Oilprice.com</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -94,385 +236,37 @@ notice:
 :::
 
 :::cell
-<div id="story-n-just-three-months-html-71a49d63608b5852" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="772" data-content-paragraphs="6" data-published-at="2026-09-10T12:30:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:30</span>
-</div>
-
-### [道达尔能源将在短短三个月内投产安哥拉新发现油气](https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Bring-New-Angola-Discovery-Online-in-Just-Three-Months.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> TotalEnergies to Bring New Angola Discovery Online in Just Three Months</div>
-
-<div class="article-body" data-article-body="true"><p>随着国际石油巨头重返安哥拉海域进行勘探以利用现有基础设施，道达尔能源（TotalEnergies）在安哥拉近海取得了新发现，并收购了临近运营枢纽的两个新勘探区块的作业者权益。道达尔能源周四表示，其在17号区块取得的Acacia-5发现将在2026年6月发现仅三个月后实现首批原油产出。这将通过快速开发模式，利用邻近的Pazflor浮式生产储卸油装置（FPSO）的剩余产能来实现。Acacia-5预计将使17号区块的原油日产量增加6,000桶。</p>
-<p>Acacia-5是道达尔能源安哥拉资产组合中今年迄今取得的第二个勘探成果，此前位于下刚果盆地的0号区块近期也取得了发现，道达尔能源在其中与作业者雪佛龙（Chevron）共同持有10%的权益。上个月，雪佛龙宣布在0号区块的一口勘探井中发现了新的石油和天然气凝析油，可直接接入该公司在该国的现有生产基础设施。</p>
-<p>这家法国超级巨头今天还表示，已与特许权授予方安哥拉国家石油、天然气和生物燃料局（ANPG）签署协议，以40%的作业者权益进入位于富饶的下刚果盆地核心区域的17/25和32/21勘探区块。</p>
-<p>道达尔能源董事长兼首席执行官潘彦磊（Patrick Pouyanné）表示：“在鼓励投资相关激励措施的支持下，勘探是我们立足安哥拉雄心的重要支柱。我们将与合作伙伴携手，旨在进一步深入勘探并释放新资源，保持强有力的勘探力度，以发掘安哥拉近海盆地的新机遇。”</p>
-<p>道达尔能源是加大安哥拉近海勘探力度的数家超级巨头之一。本周早些时候，埃克森美孚（ExxonMobil）宣布在15号区块取得发现。国际巨头重返安哥拉勘探，对这个非洲产油国而言是一大利好；该国于2024年初退出了欧佩克（OPEC），正致力于扭转多年来石油产量下滑的趋势。</p>
-<p>文 / Tsvetana Paraskova（Oilprice.com）</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-10 20:30 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Bring-New-Angola-Discovery-Online-in-Just-Three-Months.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-g-google-spec-comparison-aac9f5e668eceed1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="710" data-content-paragraphs="1" data-published-at="2026-09-10T14:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 22:00</span>
-</div>
-
-### [iPhone Duo 与其他折叠屏手机对比表现如何](https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison)
-<div class="original-title-sub"><span class="orig-tag">原文</span> How the iPhone Duo compares to other folding phones</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="iPhone Duo 与其他折叠屏手机对比表现如何" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件摘要和主页动态中。<br />苹果的首款折叠屏手机与竞争对手相比表现如何？<br />该作者的帖子将添加到您的每日电子邮件摘要和主页动态中。<br />查看 Brad Bourque 的全部文章<br />苹果的折叠屏手机终于来了——好吧，差不多快来了。将于 10 月 23 日发售的 iPhone Duo 紧跟三星（Samsung）、一加（OnePlus）和谷歌（Google）等安卓手机厂商以往折叠设备的步伐，其 1,999 美元的售价略高于 Pixel 11 Pro Fold 和 Galaxy Z Fold 8。<br />虽然其硬件与竞争对手有相似之处，但 iPhone Duo 是少数几款采用类似护照式设计形态的机型之一。其内屏与外屏的长宽比相同，甚至在半折叠状态下也能适配部分应用程序。内屏配有特殊的外层结构，结合其铰链设计，使得内部折痕几乎难以察觉（这是许多竞争对手都在苦苦攻关的技术，尽管三星和 Oppo 正在取得令人赞叹的进展）。<br />我们在苹果的“Surprise and shine”（惊喜闪耀）发布会上有机会亲自上手体验了 iPhone Duo，因此如果您想详细了解它的实际使用手感，我们的上手体验文章是个绝佳的切入点。随着发售日期的临近，我们将持续对这款手机进行报道，敬请关注我们后续的完整评测。<br />将苹果与安卓厂商的折叠屏手机进行规格对比，就像对比直板手机一样，成了一种“关公战秦琼”式的跨阵营难题。不过，我们认为将 iPhone Duo 与其最接近的竞争对手的全部规格参数罗列呈现，依然大有裨益。<br />查看全部 2026 苹果发布会内容<br />查看全部折叠屏手机内容<br />最重要的热点新闻免费每日摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>苹果推出折叠屏手机 iPhone Duo，定于10月23日发售</li>
-    <li>iPhone Duo 售价为 1,999 美元，价格略高于 Pixel 11 Pro Fold 和 Galaxy Z Fold 8</li>
-    <li>来源叙事重点：将苹果首发折叠屏设备 iPhone Duo 置于成熟的 Android 折叠屏竞争格局中，重点审视其类护照同比例屏幕、铰链消痕工艺及 1,999 美元的高溢价定位</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-is-tadalafil-mens-health-ddafb986f48e607e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3966" data-content-paragraphs="10" data-published-at="2026-09-10T14:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 22:00</span>
-</div>
-
-### [针对男性气概的新标准正对男性健康造成负面影响](https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health)
-<div class="original-title-sub"><span class="orig-tag">原文</span> New standards for masculinity are stacked against men’s health</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-151060900.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="针对男性气概的新标准正对男性健康造成负面影响" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>来自该话题的帖子将被添加到您的每日电子邮件文摘和主页动态中。<br />追逐不切实际的标准正在促使男性把自己变成DIY科学实验品。<br />来自该作者的帖子将被添加到您的每日电子邮件文摘和主页动态中。<br />查看 Victoria Song 的全部文章<br />每当算法推送来一堆热气腾腾的“颜值最大化”（looksmaxxing）内容时，我都会回想起英剧《米切尔和韦伯双人秀》（That Mitchell and Webb Look）中的一段老小品。广告旁白对一位普通女性说，她“漏水、多毛、衰老、超重，而且全身哪哪都疼”。得意的旁白表示，看在上帝的份上，女人们赶紧买大约300美元的产品来收拾好自己吧。跳切之后，一个普通男性被告知去刮个胡子然后喝个烂醉，背景里吉他声轰鸣。原因是什么呢？因为他本来就已经很棒了。<br />当那个小品在2009年首播时，它之所以搞笑，是因为它大致符合现实。但在当今这个“颜值最大化”的时代，男人们越来越痴迷于睾酮、为了追求刀削般的下颌线不惜砸断骨头、还要优化自己的生殖器，那个小品如今读来就像是一瞥古代史。<br />如今，你会看到男人们在 Reddit 子版块和 Facebook 群组里发布健身前后的对比照，紧绷手臂以达到青筋暴起的二头肌极致视觉效果。在评论区，他们相互打听彼此的药物组合（stacks）、用药方案（protocols）以及剂量建议，涵盖从睾酮到未经批准的灰市多肽的一切内容。有人说这是为了吸引辣妹；有人说这是为了让健身房里的增肌效果最大化；还有一些人似乎认为，把自己变成科学实验品就能找到不老泉。在我看来，这与女性长久以来的遭遇如出一辙：购买利用自身容貌焦虑大做文章的江湖神药。<br />“我吃犀利士（Cialis），但不是为了做爱，”生物黑客兼科技创业者布莱恩·约翰逊（Bryan Johnson）在 X 上的一篇帖子开头写道，“它实际上是一种长寿药物。犀利士（他达拉非）之所以棒，其原理与它能让你拥有美妙勃起是一样的……它能改善血流。”<br />他达拉非确实能够改善血流。这种药物是一种血管扩张剂，意味着它能放松肌肉并扩张血管。它最广为人知的用途是治疗勃起功能障碍。（需要说明的是，它本身并不引起勃起，而是在勃起发生时帮助维持状态。）它也被处方用于缓解前列腺肥大患者的排尿问题以及肺动脉高压。像约翰逊这样的生物黑客鼓吹每日小剂量服用他达拉非有助于降低心血管风险和认知能力下降。健身狂热者经常将他达拉非微剂量作为练前补剂服用，因为据称其勃起效果更好，而且扩张血管被认为能够带来更好的“肌肉充血感”。<br />支持使用兴奋剂的“强化运动会”（Enhanced Games）背后的运营公司 Enhanced，在其官网上销售低剂量他达拉非。最臭名昭著的颜值最大化博主 Clavicular 也曾表示，他过去曾服用大约5毫克的他达拉非作为庞大用药组合的一部分。然而，他当时年仅20岁，与医生通常会开具他达拉非处方的人群画像大相径庭。知名播客主持人安德鲁·胡伯曼（Andrew Huberman）也在其节目中建议，每一位40岁以上的男性都应将低剂量他达拉非作为预防措施服用。<br />当然，他达拉非与其他任何药物无异。虽然很多人在每日低剂量下可能不会出现不良反应，但仍有一部分人会出现不良反应。而且就像任何药物一样，有些人并不适合服用，同时还存在需要警惕的药物相互作用。<br />如果这些网红只是在推广他达拉非倒也罢了。但大多数人都在推崇多种物质，而且似乎每一项都是你“成为真男人”所必需的。例如，睾酮在同一群体中就极受欢迎。首届“强化运动会”中有91%的运动员涉足过睾酮。值得注意的是，皮特·海格塞斯（Pete Hegseth）最近宣布对军队实行强制睾酮筛查。还有人热捧瑞他曲肽（retatrutide）——一种目前正处于三期临床试验阶段且未经批准的多肽——以及 TB-500 和 BPC-157，后两者是俗称为“金刚狼组合”的灰市多肽，因被认为具有伤口愈合和肌肉恢复效果而得名。而且你叠加的物质越多，这种组合产生非预期效应的风险就越大。如果是面对缺乏深入研究的实验性疗法，连医生都可能不知道那些后果究竟是什么——而且可能在很长一段时间内都无法弄清。<br />承担这些风险的公开理由形形色色。但无论是为了帮助练就肌肉身材、延年益寿、提升床笫表现，还是仅仅为了“更有精力”，归根结底都传递着同一个信息：这能让你更具男人味。<br />“这种男性气概带有一点幻想色彩，”约翰霍普金斯大学帕特里克·C·沃尔什泌尿外科讲席教授阿瑟·伯内特（Arthur Burnett）博士在谈到当前文化对“最大化（maxxing）”的痴迷时说道。伯内特对此深有发言权。除了拥有三十多年的男性健康专家经验外，他对勃起组织中一氧化氮生化机制的研究，曾帮助为伟哥等药物的面世铺平了道路。<br />对于男性承担起所有这些额外要求，他表示“这实际上没有科学依据”。“我认为，不幸的是，我们已经把钟摆推向了一个可能有害的方向——坦白讲，至少在心理层面上是如此，甚至在身体上也是可能有害的。试图挪用‘预防’和‘男性健康’等医学术语可能是有问题的。”<br />我目前正在就多肽的使用进行深入报道，希望能采访正在使用灰市多肽的普通人。如果您有兴趣参与，请发送电子邮件至 victoria.song@theverge.com 或在 Signal 上发消息至 @vicmsong.14。<br />伯内特实质上指出了临床医生与生物黑客/颜值最大化社群在看待医学时的分歧。一方面，专业医疗人员大多将药物视为治疗身体缺陷并使人们恢复到“正常”基线的一种手段；另一方面，网红和狂热爱好者（其中也可以包括部分临床从业者）则认为药物可以且应当用于让人类“增强”并突破其自然极限。这种张力正是健康保健这个“狂野西部”中诸多争论的核心所在。<br />“预防性医疗保健本应是让那些处于危险之中或存在健康问题的人能够做出改变，以纠正问题。而你在这里看到的，却是完全健康的人正在做一些可能会带来隐患的事情，”伯内特解释道。<br />他说，睾酮就是一个典型的例子。原本健康的男性如果过量补充这种类固醇激素，往往会在无意中导致自身不育。对一些男性来说，过多的睾酮还会诱发脱发的遗传易感性——而颜值最大化者通常会通过服用米诺地尔来应对这种脱发。接着再添加另一种补剂、药物或产品来对抗米诺地尔的副作用——包括头晕、头痛和腹胀——你最终的用药组合（stack）就是这样滚雪球般拼凑出来的。</p>
-<p>在所有这些补剂组合和方案中，被人们遗忘的一点是：健康并不等同于最优化。对许多年轻男性而言，“最优化”似乎算不上一个目标，反而更像是一条被期望永远维持的、定义模糊的基准线。任何达不到这一标准的状况都被视为失败、软弱——即不健康。</p>
-<p>打发下午时光的一种令人沮丧的方式，就是翻看外貌最大化（looksmaxxing）和用药（gear）论坛。（我不建议在里面停留太久——除非你想自讨苦吃，去阅读那些充满4chan风格的、关于生殖器尺寸和“每周斩获”的侮辱与谩骂。）</p>
-<p>在一篇帖子中，一名自称18岁的用户发帖咨询希爱力（Cialis）的用药剂量，以获得更好的勃起状态和“在疲软时显得更修长下垂”。在一个生物黑客（biohacking）子论坛中，一名30岁的男子基本上是在集思广益，询问自己是否正在对达泊拉非（tadalafil）产生“依赖”。尽管姿态百出，但在我读过的所有帖子里，没有一个男性看起来是发自内心快乐的。他们常常吹嘘自己感觉有多棒，或者自己有多少征服战绩。但大多数时候，底下似乎都潜藏着一股愤怒的自我厌恶暗流。一种绝望地想要“修复”自己的冲动……但究竟是为了什么，或者为了谁？我从未找到过一个说得通的答案。</p>
-<p>诚然，我不是男性。我永远无法体会身为男性的感受，也不会经历男性所面临的社会压力。但互联网在放大一小部分将自己变成科学实验品的男性群体这一现象上，确实存在某些耐人寻味之处。从相对温和的趋势（如男士粗粮的高蛋白包装、小罗伯特·F·肯尼迪与摇滚小子赤膊健身的新闻报道），到“增强型运动会”（Enhanced Games）和布莱恩·约翰逊（Bryan Johnson）所搞的那些名堂之间，俨然存在着一条推波助澜的输送链。在Whoop的AI开始建议你的老板提高睾酮水平之前，这些东西很容易被一笑置之——然而AI这么建议并不是因为他缺乏睾酮，而是因为他在体能表现上“尚未达到最优化”。</p>
-<p>“这种情况在我的门诊中时常发生——男人们认为自己需要身体增强，或者对某些干预措施感到不满，又或者觉得自己的表现没有达到某个水准，”伯内特（Burnett）说。“这其实适得其反，因为它实际上加剧了围绕男性健康的污名化，因为他们无法达到自己心目中‘理想男人’的设定。”他说，这会催生更多的焦虑、压力、尴尬和羞耻感。最重要的是，这让男性更难坦诚地谈论真正的健康问题或向专业人士求助。任何“不正常”的情况，都变成了只能默默忍受或靠吃补剂来消除的事情。</p>
-<p>目前来看，这或许还局限于一个重度网瘾的小众群体中。（伯内特表示，这些行为在他的诊疗实践中尚未极其普遍，但话又说回来——当养生骗子们最先试图抹黑的就是医疗建制时，那些最容易受影响的男性信任正规医疗机构的可能性又有多少呢？）但这个小众群体声音很大，而且极度热衷于发帖。最终，哪怕人人都心知肚明，这些信息还是会渗透到更广泛的文化之中。</p>
-<p>我唯一能得出的结论是：那些外貌最大化狂热者的状态并不好。我希望终有一天他们能好起来，希望这只是一场过眼的狂热，终有一天我们可以回过头来付之一笑。但在当下，我想以伯内特的一条建议来结尾。</p>
-<p>“只要我们生活得健康，我们就是在做正确的事。请接纳自己作为真实自我的优秀之处，不要被网红博主所左右。”</p>
-<p>一份汇集最重要新闻的免费每日摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>他达拉非（Tadalafil/Cialis）是一种血管舒张剂，通过放松肌肉和扩张血管来改善血流，主要用于治疗勃起功能障碍、前列腺肥大引起的排尿问题以及肺动脉高压。</li>
-    <li>Bryan Johnson 在 X 上发文称自己服用 Cialis 不是为了性生活，而是作为长寿药物以改善血流。</li>
-    <li>来源叙事重点：揭露并批判当代男性社群中蔓延的‘容貌优化’（looksmaxxing）与生物黑客潮流。文章聚焦年轻健康男性通过微量服用他达拉非（Cialis）、睾酮及未经批准的灰市肽类等药物打造‘药物组合’（stack）追求极致男性气概和身体性能的现象，警示该亚文化将医疗术语商业化/庸俗化、缺乏科学循证支持，且加剧了男性的身心健康隐患与容貌焦虑。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-10-10694303-shtml-1eafad906e12cf15" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1491" data-content-paragraphs="27" data-published-at="2026-09-10T14:04:12.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 22:04</span>
-</div>
-
-### [渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评](https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml)
-
-<div class="article-body" data-article-body="true"><p>中新社罗马9月10日电 题：渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评</p>
-<p>联合国粮农组织渔业委员会第37届会议正在位于意大利罗马的粮农组织总部举行。在会议期间，中方推介渔业可持续发展的“中国方案”，受到与会者的广泛关注和好评。</p>
-<p>中方与粮农组织8日共同举办水产养殖边会，分享中国可持续渔业发展理念与实践，介绍中国水产养殖对全球渔业可持续发展的贡献，推动落实粮农组织《可持续水产养殖业准则》，深化国际合作。中方代表在边会上表示，近年来中国积极响应粮农组织“手拉手”倡议，深度参与水产养殖南南合作，帮助发展中国家创新水产养殖业。为推动可持续水产养殖，中国将继续深化同粮农组织的相关合作；共享实用技术；扩大人才培训；支持产业发展。</p>
-<p>印度、新西兰、南非、突尼斯、塞拉利昂等多个重要水产养殖国家代表，以及亚太水产养殖中心网(NACA)等重要国际组织代表受邀参加边会并作专题报告。会后，多位报告人接受中新社记者采访，对中方作用予以积极评价。</p>
-<p>NACA总干事莱亚尼奥对中新社记者表示，长期以来NACA一直在推动中国与亚太区域内其他国家在渔业可持续发展方面的合作，并欢迎中国发挥积极作用，带动整个地区的水产养殖业向前发展。</p>
-<p>莱亚尼奥说，亚太地区的水产养殖已取得了长足进步，并在世界范围内处于领先地位。但区域内一些国家，在发展水产养殖业方面仍需要其他国家的支持，中国在这方面发挥建设性作用，NACA凭借中国帮助制定相关合作计划并付诸实施，如将正在研发的新技术转移给NACA成员国等。他表示，中国在渔业方面的技术比较先进，在水产养殖方面取得了不少创新成果，可以帮助相关国家进一步发展渔业产业，助力渔业可持续发展，实现“共赢”。</p>
-<p>南非林业、渔业与环境部代理副总司长塞莫利告诉中新社记者，南非和中国围绕渔业技术发展和能力建设已展开了相关合作，这种合作是建立在两国牢固的友谊和相互信任基础上的。他透露，两国在相关领域技术交流和技术转移等方面也取得了一些进展。</p>
-<p>塞拉利昂全球蓝色经济粮食安全与生计项目协调员博卡里在边会上分享了塞方和非方视角如何看待渔业可持续发展问题。他对中新社记者说，渔业可持续发展的“中国方案”契合塞拉利昂的发展，并持续造福塞拉利昂人民。</p>
-<p>博卡里认为，中国在水产养殖方面的创新成果具有很高的参考价值，并且非常实用。有关创新也被视为激励年轻人投身科研的动力，特别是在提升渔业生产规模化方面。他也希望更多非洲相关领域研究者到中国实地考察，学习中国经验。(完)</p>
-<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
-<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
-<p>2026年国家基本医保药品目录预计于11月发布</p>
-<p>中国疾控中心提示：9月重点防范这几类传染病</p>
-<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
-<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
-<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
-<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
-<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
-<p>中外学生Citywalk北京西城 街巷间开启“开学第一课”</p>
-<p>香港新赛马季开锣 赛驹“嘉应高升”再创新纪录</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
-<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
-<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
-<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
-<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
-<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 22:04 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-10-10694300-shtml-ad0e58ecf34e11b1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="736" data-content-paragraphs="22" data-published-at="2026-09-10T14:03:54.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 22:03</span>
-</div>
-
-### [阿尔及利亚宣布与阿联酋断交](https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml)
-
-<div class="article-body" data-article-body="true"><p>中新社北京9月10日电 阿尔及尔消息：据阿尔及利亚国家电视台10日报道，阿尔及利亚外交部当天表示，阿尔及利亚决定即日起与阿联酋断绝外交关系。</p>
-<p>综合媒体报道，阿尔及利亚此举原因尚不清楚。阿尔及利亚国家电视台称，在“竭尽一切努力维护双边关系”之后，阿尔及利亚决定与阿联酋断绝外交关系。</p>
-<p>据报道，阿尔及利亚媒体曾强烈批评阿联酋，指责其试图挑起地区不和。阿尔及利亚总统特本去年表示，阿尔及利亚与所有海湾国家的关系都很友好，唯独一个国家例外。他“不点名”指责该国干涉阿尔及利亚内政，试图破坏阿尔及利亚的稳定。</p>
-<p>路透社称，阿联酋外交部尚未回复寻求置评的电子邮件。(完)</p>
-<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
-<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
-<p>2026年国家基本医保药品目录预计于11月发布</p>
-<p>中国疾控中心提示：9月重点防范这几类传染病</p>
-<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
-<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
-<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
-<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
-<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
-<p>中外学生Citywalk北京西城 街巷间开启“开学第一课”</p>
-<p>香港新赛马季开锣 赛驹“嘉应高升”再创新纪录</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
-<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
-<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
-<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
-<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
-<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 22:03 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-10-10694298-shtml-3f11451884a313e9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="935" data-content-paragraphs="24" data-published-at="2026-09-10T14:03:20.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 22:03</span>
-</div>
-
-### [泰国批准55个项目推动企业应用人工智能和自动化](https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml)
-
-<div class="article-body" data-article-body="true"><p>中新社曼谷9月10日电 (记者 李映民)泰国总理府副发言人拉丽达10日向媒体透露，国家竞争力提升基金委员会已批准55个项目，以支持企业推进技术升级、数字化转型和技能人才培养，其中包括利用人工智能、自动化等技术提升企业生产效率。</p>
-<p>此次获批的55个项目包括48个企业转型项目和7个技能提升项目。48个企业转型项目总投资额约35.4亿泰铢，政府提供约16.63亿泰铢支持资金，重点涉及研发、数字技术、自动化、人工智能以及绿色产业等领域。</p>
-<p>此外，7个技能提升项目获得约3.07亿泰铢支持资金，计划培养约1万名产业技能人才，以满足企业技术升级过程中对专业人才的需求。</p>
-<p>拉丽达表示，此次支持计划旨在推动企业提高生产效率和竞争力，促进新技术在产业领域的应用，同时推动企业向高附加值、数字化和绿色化方向转型。</p>
-<p>国家竞争力提升基金目前已支持108个项目，累计提供约48.25亿泰铢资金支持。相关项目涵盖企业技术升级、研发创新以及人才培养等领域。</p>
-<p>拉丽达表示，近年来泰国持续推动数字经济和先进制造业发展，并将人工智能、自动化及绿色技术作为提升产业竞争力的重要方向。(完)</p>
-<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
-<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
-<p>2026年国家基本医保药品目录预计于11月发布</p>
-<p>中国疾控中心提示：9月重点防范这几类传染病</p>
-<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
-<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
-<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
-<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
-<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
-<p>中外学生Citywalk北京西城 街巷间开启“开学第一课”</p>
-<p>香港新赛马季开锣 赛驹“嘉应高升”再创新纪录</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
-<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
-<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
-<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
-<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
-<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 22:03 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ances-citing-fcc-threats-b3c8c29193989a62" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2007" data-content-paragraphs="26" data-published-at="2026-09-10T14:03:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 22:03</span>
-</div>
-
-### [吉米·坎摩尔透露其将在“不寻常的情况下”采访詹姆斯·塔拉里科，理由是面临FCC的威胁](https://www.foxnews.com/media/kimmel-reveals-interviewing-james-talarico-unusual-circumstances-citing-fcc-threats)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Kimmel reveals he&#39;s interviewing James Talarico under &#39;unusual circumstances,&#39; citing FCC threats</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/KIMMEL-TALARICO.jpg?ve=1&amp;tl=1" alt="吉米·坎摩尔透露其将在“不寻常的情况下”采访詹姆斯·塔拉里科，理由是面临FCC的威胁" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>深夜秀主持人吉米·坎摩尔（Jimmy Kimmel）周三透露，他将在周四“不寻常的情况下”采访得克萨斯州参议员候选人詹姆斯·塔拉里科（James Talarico）。</p>
-<p>“明晚，我将采访詹姆斯·塔拉里科——就在明晚，在不寻常的情况下，”坎摩尔说，“你们知道，这么多年来，事实上在我们节目开播至今20多年的时间里，我一直在采访竞选公职的美国人，从来没有任何问题，就像莱特曼（Letterman）、莱诺（Leno）、阿塞尼奥（Arsenio）等人所做的那样。我采访过很多政治候选人，从希拉里·克林顿到特德·克鲁兹，再到唐纳德·特朗普本人。”</p>
-<p>坎摩尔特别提到了他在2015年和2016年对唐纳德·特朗普总统的采访。</p>
-<p>【吉米·坎摩尔结束漫长休假回归，向联邦通信委员会主席布伦丹·卡尔发出挑衅讯息】</p>
-<p>“现在他当上了总统，他的联邦通信委员会（FCC）威胁了我，威胁了我们的节目，威胁了我们的电视网ABC、我们的加盟台和地方台，依据仅仅是传统的普通编辑决策，似乎只因为他们不喜欢邀请的嘉宾。因此，出于对我们地方台的考虑，特别是对那些必须应付这种荒唐事的ABC得州加盟台的考虑，我明天对詹姆斯·塔拉里科的采访将不会在电视上播出。它将改在YouTube上发布。它不会上电视。所以，如果你明天想了解这位参议员候选人，你就得去‘吉米·坎摩尔直播秀’（Jimmy Kimmel Live）的YouTube频道，明晚你可以在那里看到完整的采访，”坎摩尔说道。</p>
-<p>他补充道：“谢天谢地我们还有这个渠道，因为在我们现在生活的这个美国，这已经是我们能做到的最好了。当然，直到11月为止。顺便提醒一句，大家一定要去登记投票，因为那是你能做的最重要的事情。”</p>
-<p>【科尔伯特猛烈抨击CBS，称节目被取消‘坐实了向特朗普屈膝下跪的说辞’】</p>
-<p>这一情况让人联想到前深夜秀主持人斯蒂芬·科尔伯特（Stephen Colbert）在得州参议院初选前对塔拉里科的采访，当时塔拉里科正在与得州众议员贾丝明·克罗克特（Jasmine Crockett）竞争。</p>
-<p>科尔伯特的节目现已被取消，该节目当时并未播出对塔拉里科的采访，仅在2月份将其发布到了节目的YouTube频道上。科尔伯特当时宣布，哥伦比亚广播公司（CBS）阻止了他们播出该采访。</p>
-<p>【保守派监督机构向FCC告发称《观点》（The View）是民主党的一项运作，而非新闻节目】</p>
-<p>“《晚间秀》（THE LATE SHOW）并未被CBS禁止播放对联邦众议员詹姆斯·塔拉里科的采访，”该电视网当时告诉福克斯新闻数字频道（Fox News Digital）。</p>
-<p>声明继续写道：“节目组获得了法律指导，获悉播出该内容可能会触发FCC针对另外两名候选人（包括联邦众议员贾丝明·克罗克特）的‘等额时间规则’，并给出了如何满足为其他候选人提供等额时间的方案。《晚间秀》最终决定通过其YouTube频道发布采访，并在电视广播中进行播出推介，而不是去承担提供等额时间方案的可能。”</p>
-<p>【戴维·马库斯：克罗克特在得州的背水一战将如何拉垮塔拉里科】</p>
-<p>最终在参议院初选中输给塔拉里科的克罗克特指责了CBS和科尔伯特的节目。</p>
-<p>“我们实际上接到了一个电话，就在今天早些时候，在电话中他们解释说，他们实际上告诉CBS可以继续推进对詹姆斯·塔拉里科的采访，他们只需要为我提供同等时间即可，”克罗克特在2月接受MS NOW主持人珍·普萨基（Jen Psaki）采访时说，“我根本没有收到科尔伯特节目邀请我参加的请求。”</p>
-<p>“因此，本来有很多选项可以摆上桌面，坦率地说，《晚间秀》决定采取这种方案，我认为这是一个不错的策略，”她说。</p>
-<p>这位议员甚至暗示，这场争议可能反而帮了塔拉里科的竞选活动。</p>
-<p>【惊人民调：塔拉里科在得州参议员竞选中打平帕克斯顿，威胁共和党大本营】</p>
-<p>“我认为这很可能给了我的对手他所寻求的推动力。所以我觉得他没能上电视、直接转为网络流媒体播出反而更好，因为我们知道，当我们反抗时，当我们看到他们似乎试图改变规则并向这位总统屈膝下跪时，结果往往会以历史性的方式适得其反，”她说。</p>
-<p>坎摩尔在夏季休假结束后的第一期节目中也提到了FCC的威胁，并直接点名了FCC主席布伦丹·卡尔（Brendan Carr）。</p>
-<p>【迪士尼就‘针对ABC的报复性行动’起诉FCC，寻求阻止提前牌照续期程序】</p>
-<p>“我们已经做了4000期这样的节目。这很多了，”坎摩尔说，“而在白宫看来，这太多了。”</p>
-<p>“曾经有人说我们绝不可能撑这么久。甚至有人利用FCC的监管权力，以违宪的方式试图确保我们撑不了这么久。但我们历经艰难走过来了，布伦丹。我们依然站在这里，”坎摩尔说。</p>
-<p>【点击此处查看更多媒体与文化报道】</p>
-<p>坎摩尔指的是他的节目曾遭短暂停播，以及2025年与卡尔持续不断的冲突。</p>
-<p>FCC和迪士尼并未立即回复福克斯新闻数字频道的置评请求。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 22:03 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/media/kimmel-reveals-interviewing-james-talarico-unusual-circumstances-citing-fcc-threats" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ndian-startup-mitti-labs-7a9351ec78e1d19e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2125" data-content-paragraphs="22" data-published-at="2026-09-10T13:34:01.000Z" data-time-source="publication">
+<div id="story-s-3b-in-round-led-by-uae-6b71f40ca10cce71" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="690" data-content-paragraphs="11" data-published-at="2026-09-10T15:07:27.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 21:34</span>
+  <span class="news-meta-time">🕒 2026-09-10 23:07</span>
 </div>
 
-### [谷歌与印度初创公司Mitti Labs签署其最大水稻甲烷减排碳信用协议](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs</div>
+### [The Boring Company获阿联酋领投的30亿美元融资](https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The Boring Company raises $3B in round led by UAE</div>
 
-<div class="article-body" data-article-body="true"><p>谷歌（Google）已同意在2030年前向印度气候科技初创公司Mitti Labs采购100万份碳信用。两家公司表示，这是迄今为止公开宣布的规模最大的通过减少水稻种植甲烷排放而生成碳信用的交易。</p>
-<p>Mitti Labs联合创始人哈维尔·拉瓜尔塔（Xavier Laguarta）在接受采访时表示，这项为期四年的协议将覆盖印度卡纳塔克邦、安得拉邦和特伦甘纳邦的水稻农场，交付峰值期覆盖面积将达到约10万公顷。具体财务条款未予披露。</p>
-<p>该项目将向农民支付报酬，鼓励其采用缩短稻田淹水时间的方法，在减少耕作期间甲烷排放的同时节约用水。Mitti Labs表示，这项技术能够在不降低作物产量的前提下，减少约50%的甲烷排放量，并节省约40%的灌溉用水。</p>
-<p>目前谷歌因在人工智能基础设施领域投入巨资，正面临实现2030年净零排放目标的严峻挑战。根据其6月发布的环保报告（PDF），该公司2025年的温室气体排放量同比增长18%，达到约1450万公吨二氧化碳当量。</p>
-<p>拉瓜尔塔向TechCrunch透露，在大约一年前，随着这家科技巨头探索将甲烷减排项目纳入其碳信用投资组合，Mitti Labs开始与谷歌展开洽谈。他表示，该项目的节水效果以及Mitti Labs的规模化运作能力在一定程度上吸引了谷歌。</p>
-<p>在过去两年中，这家初创公司的项目已累计节水超过5000亿升。拉瓜尔塔表示，与谷歌的交易将推动Mitti Labs进一步扩张，使其具备与大型企业买家合作所需的规模能力。</p>
-<p>“谷歌是市场上最成熟的买家之一，拥有极其严格的尽职调查流程，获得其认可对我们而言显然是一个积极信号，”拉瓜尔塔补充说，该交易将使Mitti实现大幅规模化。</p>
-<p>拉瓜尔塔称，在签署协议之前，谷歌的评估工作包括对Mitti Labs监测技术的严格审查以及对农场的实地考察。这家成立于2023年、总部位于纽约和班加罗尔的初创公司打造了一个地理人工智能（GeoAI）平台，将卫星雷达图像与实地测量相结合，远程监测小农户农场的农作物生长、土壤湿度以及受淹情况。</p>
-<p>该平台使用来自商业和公共卫星的合成孔径雷达图像，分辨率从50厘米到10米不等。拉瓜尔塔介绍，Mitti还利用在田间收集的专有数据来训练其人工智能模型。</p>
-<p>拉瓜尔塔表示，出售给谷歌的碳信用可由黄金标准（Gold Standard）或Isometric这两家碳信用认证机构签发。他补充称，在碳信用签发前，这些项目都将作为认证流程的一部分接受独立的第三方核查。</p>
-<p>除谷歌外，Mitti Labs的客户还包括碳交易市场Cool Effect、大米生产商Ebro Foods以及农业公司先正达（Syngenta）。拉瓜尔塔向TechCrunch表示，与谷歌的协议是Mitti Labs迄今为止达成的最大承购协议。</p>
-<p>Mitti Labs目前与超过10万名农民合作，目标是到2030年覆盖数百万名农民。拉瓜尔塔表示，与谷歌的协议将助力初创公司扩展项目，进而迈向这一目标。</p>
-<p>拉瓜尔塔指出，该初创公司项目的大部分收入都会流向农业社区。但他拒绝透露参与谷歌项目的农民具体将获得多少收益。</p>
-<p>尽管谷歌的项目目前仅限于印度，但Mitti Labs计划在今年晚些时候进军菲律宾开展业务，并在2027年拓展至印度尼西亚及其他东南亚市场。</p>
-<p>拉瓜尔塔认为，随着越来越多企业转向通过农业项目来应对甲烷排放，该市场蕴含着巨大的增长空间。他向TechCrunch表示，印度、东南亚和中国约有1.5亿农民种植水稻。</p>
-<p>与Mitti Labs的交易并不是谷歌在印度的第一笔碳去除投资。2025年1月，这家总部位于加州山景城的公司曾与位于古尔冈的Varaha合作购买了10万吨碳信用。那是谷歌在印度首次大规模采购碳去除信用，也是涉及生物质生产生物炭的最大一笔交易。</p>
-<p>谷歌还在印度布局清洁能源项目以应对其供应链排放。该公司已签署了一项与拉贾斯坦邦150兆瓦太阳能项目挂钩的协议，使其与ReNew在该邦签约的太阳能装机容量达到300兆瓦。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。</p>
-<p>Jagmeet在TechCrunch主要负责报道来自印度的初创公司、科技政策更新以及其他重大以科技为核心的动态。他此前曾担任新德里电视台（NDTV）的主任记者。</p>
-<p>您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系或核实Jagmeet的外联信息。</p>
-<p>不要错过。初创企业社区将汇聚一堂，共同探讨一个关键问题：在AI时代，你该如何实现可持续发展？</p>
-<p>苹果推出首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上采取不正当竞争手段<br />一部关于伊丽莎白·霍姆斯（Elizabeth Holmes）的神秘新纪录片震撼特柳赖德电影节<br />TechCrunch Mobility专栏：特斯拉Cybercab上路——并遭遇波折<br />多名徒步旅行者在使用谷歌Gemini规划路线后被困获救<br />联邦政府对特斯拉Cybercab部署展开调查<br />特斯拉正在询问人们是否愿意购买并运营Cybercab车队</p></div>
+<div class="article-body" data-article-body="true"><p>埃隆·马斯克旗下的地下隧道企业 The Boring Company 已完成 30 亿美元的 D 轮融资，该轮融资将其估值推高至 230 亿美元。</p>
+<p>本轮融资由阿拉伯联合酋长国领投。The Boring Company 周四表示，公司目前计划在这个中东国家挖掘超过 150 公里的隧道。Andreessen Horowitz、红杉资本（Sequoia Capital）、Human Capital、Vy Capital 以及 Valor Equity Partners 也参与了投资。</p>
+<p>《华尔街日报》曾于 7 月报道称，The Boring Company 当时寻求筹集高达 40 亿美元的资金。</p>
+<p>迄今为止，The Boring Company 的大部分挖掘作业都在内华达州拉斯维加斯开展，公司在当地运营着连接赌场酒店与会展中心的多条隧道。近期，该公司在田纳西州纳什维尔启动了一个项目，其中包括一条长约 10 英里的地下“环线”（loop）。</p>
+<p>该公司曾表示，其目标是通过将地面车辆交通转移至地下三维隧道网络来“解决交通问题”。</p>
+<p>不容错过。初创社群即将齐聚一堂，共同回答一个核心问题：在 AI 时代，你该如何实现可持续构建？</p>
+<p>每个工作日和周日，您都可以获取 TechCrunch 的精选报道。</p>
+<p>TechCrunch Mobility 是您获取交通出行新闻和行业洞察的理想之选。</p>
+<p>初创企业是 TechCrunch 的核心，欢迎订阅获取我们每周精选送达的深度报道。</p>
+<p>为行业领袖及推动者提供开启新一天所需的关键资讯。</p>
+<p>提交您的电子邮件，即表示您同意我们的条款和隐私声明。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:34 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>埃隆·马斯克旗下的隧道挖掘公司 The Boring Company 完成了 30 亿美元的 D 轮融资，估值达 230 亿美元。</li>
+    <li>该轮融资由阿联酋（United Arab Emirates）领投。</li>
+    <li>来源叙事重点：报道埃隆·马斯克旗下 The Boring Company 完成由阿联酋领投的30亿美元D轮融资（估值达230亿美元），重点展示该交易带来的海外业务扩张（阿联酋150公里隧道规划）及现有拉斯维加斯、纳什维尔项目的最新进展</li>
   </ul>
 </div>
 
@@ -481,89 +275,179 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--drivers-licenses-stolen-183e359fd819f27c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1198" data-content-paragraphs="18" data-published-at="2026-09-10T13:21:09.000Z" data-time-source="publication">
+<div id="story-s-potential-trigger-html-3c6d9e67f8957e78" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2459" data-content-paragraphs="20" data-published-at="2026-09-10T15:40:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
+    <span class="stance-badge">前沿同行评议严谨</span>
+    <span class="dimension-pill">🔬 深空与基础科学</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 21:21</span>
+  <span class="news-meta-time">🕒 2026-09-10 23:40</span>
 </div>
 
-### [身份核验巨头 IDScan 证实发生数据泄露，逾 1.5 亿张驾照被窃](https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen</div>
+### [太阳最大的太阳黑子或具备引发超级耀斑的潜能](https://phys.org/news/2026-09-sun-largest-sunspots-potential-trigger.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Sun&#39;s largest sunspots may have potential to trigger superflares</div>
 
-<div class="article-body" data-article-body="true"><p>身份核验服务商 IDScan 已证实，其系统遭遇的一起数据泄露事件涉及驾照被窃。就在一周前，有报道称该身份凭证核验机构在一场持续一年的黑客攻击中遭到入侵。</p>
-<p>该公司在官网公告中表示，黑客从其云端窃取了驾照信息；被盗信息包括个人的全名、驾驶证号，以及护照等其他政府签发证件的身份证件号。</p>
-<p>这家总部位于路易斯安那州的企业服务于从娱乐场所到大麻药房等各类企业客户，用于查验其客户的身份证件。该公告是该公司首次承认遭到黑客入侵。该公司上周曾表示正在调查一起事件，但当时尚未确认发生入侵。</p>
-<p>IDScan 在公告中表示，公司在 9 月 1 日前后“收到了关于黑客攻击指控的信息”，而就在同一天，独立网络安全记者布莱恩·克雷布斯（Brian Krebs）首次报道了 IDScan 的数据泄露事件。</p>
-<p>克雷布斯报道称，有人提醒他注意暗网上的一个网站，该网站允许任何人搜索居住在美国和加拿大的逾 1.5 亿人的驾照信息，包括调阅其照片。克雷布斯通过核对自己本人的记录验证了数据的真实性。该数据库中还包含知名人士的信息，包括美国国防部长皮特·海格塞斯（Pete Hegseth），以及一名同样向克雷布斯核实了自己记录的安全研究员。</p>
-<p>五角大楼上周对 TechCrunch 表示，已知悉这起疑似泄露事件；美国联邦调查局（FBI）发言人也表示正在对该事件进行调查。</p>
-<p>IDScan 在其网站上表示调查仍在进行中。该公司的声明称，“尽管获取完整信息需要付费”——这可能是指黑客要求支付资金以获取被盗数据的完整缓存——公司已在网站上发布通知以告知潜在受影响人员。IDScan 尚未透露有多少人受到影响，但其网站上注明其拥有超过 1.5 亿条驾照记录。</p>
-<p>IDScan 未回应 TechCrunch 就此事件寻求置评的请求，例如黑客是否曾联系该公司并索要赎金以换取不公开数据。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>您可以通过 Signal 发送加密消息至 zackwhittaker.1337 与他联系。您也可以通过电子邮件与他联系，或发信以验证联络真实性：zack.whittaker@techcrunch.com。</p>
-<p>切勿错过。初创企业社区将汇聚一堂，共同探讨一个关键问题：在 AI 时代，如何实现可持续发展？</p>
-<p>苹果发布首款折叠屏手机 iPhone Duo</p>
-<p>纽约大学数学家称 OpenAI 在关乎学术生涯的重要数学问题上手段不端</p>
-<p>一部秘密制作的伊丽莎白·霍姆斯全新纪录片震惊特柳赖德电影节</p>
-<p>TechCrunch 出行专栏：特斯拉 Cybercab 上路——并遭遇波折</p>
-<p>徒步旅行者在使用 Google Gemini 规划行程后获救</p>
-<p>联邦监管机构对特斯拉 Cybercab 的部署展开调查</p>
-<p>特斯拉正在询问人们是否有意购买并运营 Cybercab 车队</p></div>
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/sun-new-evidence-of-su.jpg" alt="太阳最大的太阳黑子或具备引发超级耀斑的潜能" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来源：马克斯·普朗克学会<br />编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）<br />本文已根据 Science X 的编辑流程与政策进行了审阅。编辑在确保内容可信度的同时强调了以下属性：<br />经同行评审的出版物</p>
+<p>太阳拥有惊人的能量。在剧烈的爆发中，它反复将粒子与辐射抛射进太空。这种太阳风暴轰击可能对地球上的技术基础设施构成威胁：例如，卫星以及变电站中的变压器都可能遭到损坏。</p>
+<p>1859年，太阳曾令人印象深刻地展示了它的威力。在所谓的“卡灵顿事件”（Carrington Event）期间袭击地球的太阳风暴极其猛烈，以至于极光远至加勒比海地区都清晰可见，电报局的接收机甚至迸射出火花。</p>
+<p>但太阳还能表现得更惊人吗？它能否更剧烈地狂暴发作并产生所谓的“超级耀斑”（superflares）？这是一种辐射爆发，其释放的能量超过数万亿颗氢弹，迄今为止科学家仅在遥远的恒星上直接观测到过此类现象。</p>
+<p>德国马克斯·普朗克太阳系研究所（MPS）和美国科罗拉多大学的研究人员在发表于《英国皇家学会哲学汇刊A辑》（Philosophical Transactions of the Royal Society A）上的最新论文中探讨了这一问题，并找到了关于我们这颗恒星具有爆发能力的进一步证据。</p>
+<p>太阳在耀斑期间释放的能量只能在地球大气层外直接测量，或者通过太空探测器的数据和图像间接确定。这两种方法都是在大约70年前太空时代开启后才成为可能。从那时起，太阳还未发生过超级耀斑。但在这颗拥有46亿年历史的恒星的漫长岁月中，这段时间仅仅是白驹过隙。</p>
+<p>“有一些迹象表明，太阳也可能以极长的时间间隔产生超级耀斑。然而，目前尚无直接证据，”该新研究的第一作者、MPS科学家娜塔莉·克里沃娃（Natalie Krivova）解释道。</p>
+<p>例如，通过观察包含数千颗恒星的太阳“同类群”就可以找到此类线索。2024年底，MPS的研究人员证实，在关键特征上与太阳相似的恒星大约每个世纪就会发生一次超级耀斑。</p>
+<p>记录太阳活动的“天然档案”也揭示了这颗恒星狂暴的一面：历史树干或北极多年冻土冰芯中放射性同位素浓度出现孤立、短暂且异常强烈的峰值，表明地球在过去曾多次遭受尤为强烈的高能太阳粒子轰击。</p>
+<p>目前尚不清楚这些极端粒子爆发是否伴随有超级耀斑。耀斑本身无论多么强烈，都不会留下长期的物理痕迹。</p>
+<p>“根据当前的研究现状，极端粒子爆发与特别强烈的耀斑往往——但并非总是——相伴发生，”MPS科学家瓦列里·瓦西里耶夫（Valeriy Vasilyev）解释说。他也是发表在《英国皇家学会哲学汇刊A辑》上的相关主题综述文章的第一作者。</p>
+<p>在最新的研究中，克里沃娃领导的研究团队采用了一种评估太阳剧烈活动潜力的新方法。他们分析了美国宇航局（NASA）太阳动力学天文台（SDO）在2010年至2016年期间收集的观测数据。</p>
+<p>该团队将该时期最强烈的300次耀斑所释放的能量，与太阳可见表面相应活动区的面积进行了关联。这些活动区内的磁场异常强劲且结构复杂。活动区与太阳黑子（太阳表面的暗区）密切相关，被视为爆发潜在的策源地。</p>
+<p>“当然，我们知道在观测期内并未发生超级耀斑，”克里沃娃解释道，“但我们在释放能量与活动区大小之间发现的统计关系，应该同样适用于能量更强大的极端事件。”</p>
+<p>在第二步中，研究人员将注意力转向了人类已知曾覆盖我们太阳的最大太阳黑子。“人类系统且定期地记录太阳黑子已有约400年的历史，”该新研究的合著者、MPS科学家西奥多西奥斯·查齐斯特戈斯（Theodosios Chatzistergos）表示。</p>
+<p>他补充道，这为我们回溯恒星的历史提供了另一种视角。基于太阳黑子的面积，研究人员能够推断出相应活动区的规模，进而推测出潜在爆发的强度。他们对那些能量异常巨大的罕见极端情况尤为关注。</p>
+<p>自系统性太阳观测开展以来，太阳表面出现过的最大黑子之一是1947年4月的大黑子。它覆盖了可见日面大约0.6%的面积，其直径约为地球直径的40倍。当时并未发生超级耀斑。但这项新研究表明，从统计学上看，如此规模的太阳黑子在罕见情况下确实具备引发超级耀斑的潜力。</p>
+<p>克里沃娃表示：“我们的太阳具备产生超级耀斑的潜力。它能够形成巨大的太阳黑子，这些黑子在原则上可以作为最极端辐射爆发的起点。”</p>
+<p>太阳上是否真的曾发生过这样的超级耀斑？这仍然是我们这颗恒星留下的未解之谜之一。</p>
+<p>Natalie Krivova 等, Empirical flare energy limits for the largest historical sunspots, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0290<br />Valeriy Vasilyev 等, Linking solar magnetism, extreme solar particle events and stellar superflares, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0261<br />期刊信息：Philosophical Transactions of the Royal Society A<br />由马克斯·普朗克学会提供<br />生命科学与生态学学士。具备微生物实验室背景，在石油、天然气及可再生能源行业拥有医药新闻报道经验。查看完整个人资料 →<br />数学生物学学士，创意写作硕士。履历丰富，对科学与语言持有独到见解。查看完整个人资料 →</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:21 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>1859年卡灵顿事件期间发生的太阳风暴威力强大，极光在加勒比海地区可见，电报局的接收器冒出火花。</li>
+    <li>超级耀斑释放的能量超过数万亿颗氢弹，迄今仅在遥远的恒星上被直接观测到。</li>
+    <li>来源叙事重点：通过将NASA观测到的耀斑能量与太阳黑子活动区尺寸建立统计关联，推断历史上如1947年记录的超大太阳黑子在原理上具备触发‘超级耀斑’的潜力，提示太阳潜在极端爆发对现代地球技术设施的威胁。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#深空与基础科学</span>
+  <span class="news-tag-pill">#Phys.org</span>
+</div>
+
+<div class="news-card-footer"><a href="https://phys.org/news/2026-09-sun-largest-sunspots-potential-trigger.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-index-put-data-to-work-6a886414536a09e3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1676" data-content-paragraphs="17" data-published-at="2026-09-10T15:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/openai.svg" class="source-icon" alt="OpenAI News (官方动态)" width="16" height="16" /> <strong>OpenAI News (官方动态)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 23:00</span>
+</div>
+
+### [如今人人皆可让数据发挥效用](https://openai.com/index/put-data-to-work)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Now everyone can put data to work</div>
+
+<div class="article-body" data-article-body="true"><p>认识 ChatGPT Work 中全新的 Data 智能体：只需开口提问，即可将贵公司的数据转化为答案、交互式仪表板以及实际行动。</p>
+<p>各行各业的员工都会遇到需要数据来解答的疑问。为什么销售额放缓了？哪些方面的支出在增加？哪些问题威胁到了我们大客户的续约，我们应该优先解决什么？获得这些答案通常意味着需要等待一份报告，或是拜托其他人进行分析。</p>
+<p>我们正在 ChatGPT Work 中推出全新的 Data 智能体，以帮助更多人亲自动手解答这些问题。它能够连接到贵公司的数据，调查发生了什么变化，并构建可供分享的交互式仪表板。只需在单次对话中指导并完善分析，无需编写查询语句，也无需学习新的分析工具。</p>
+<p>Data 智能体可连接至已获批准的数据源，包括 Amazon Redshift、Datadog、Google BigQuery、ClickHouse、Databricks、MongoDB、Snowflake 等。它还能将来自 Google Drive 和 SharePoint 的文件与文档纳入分析。</p>
+<p>它利用贵组织的业务术语、指标定义、自定义计算和数据关系来解读数据。这些上下文背景来自语义层和受信任的数据源，例如 Databricks Genie Ontology、dbt、GitHub、Snowflake Horizon 以及商业智能（BI）仪表板。</p>
+<p>企业管理员可以选择哪些数据连接可用，以及哪些角色可以使用它们。查询将严格执行已连接账户现有的权限，包括表、行和列级别的限制。</p>
+<p>你可以提出后续跟进问题来深入探究结果，并审查每个发现背后的事实依据。</p>
+<p>将分析转化为带有内置可视化图表的交互式仪表板。你的团队可以根据需要对其进行编辑、共享和刷新。分享贵品牌的视觉准则，即可定制契合贵组织视觉风格的输出内容。</p>
+<p>Data 智能体还可以在 Omni、Oracle BI、Power BI、Sigma、Tableau 和 ThoughtSpot 中构建仪表板并与之交互。用通俗易懂的自然语言，在你团队已有的工具中直接指导工作。</p>
+<p>让 ChatGPT Work 推荐后续步骤，并确定需要哪些人员参与。它可以通过 Slack 或电子邮件分享调查结果，并在获得你批准后通过已连接的工具执行操作。</p>
+<p>我们在 OpenAI 内部广泛应用了 Data 智能体背后的能力。我们几乎所有的产品团队以及超过三分之二的市场拓展（GTM）团队都在使用 ChatGPT Work 中的数据智能体来自行分析公司数据。我们的数据团队通过创建共享的业务定义、设定访问规则并为敏感数据设置安全防护措施，才使得这一切成为可能。阅读本文并参加我们的在线研讨会以了解更多信息。</p>
+<p>NTT Data、赛默飞世尔（Thermo Fisher）、ServicePiston 以及参与我们 Alpha 计划的其他组织，目前正在使用 ChatGPT Work 中的 Data 智能体来分析销售和支出、排查报告错误，并决定应争取哪些业务机会以及如何配置人员。</p>
+<p>你可以在 ChatGPT Work 的插件目录中找到名为 Data 的智能体。管理员可以通过“工作区设置 &gt; 插件”为团队启用或安装它。他们还可以启用并配置相关的数据源插件（如 Databricks 和 Snowflake），并管理其使用权限。</p>
+<p>如果尚未安装 Data，请在插件目录中找到它并选择“安装插件”，或直接前往 Data 的插件详情页。完成所需的账户连接步骤后，即可与 @Data 发起对话，并提出你的业务问题。</p>
+<p>诊断指标变化<br />@Data 诊断上周每周活跃用户数（WAU）变化的原因。找出可能的影响因素，与以往周期进行对比，并推荐下一步应排查的项目。</p>
+<p>设计 KPI 框架<br />@Data 为这个新产品领域设计一个 KPI 框架，包含核心指标、驱动因素、风控护栏、目标值以及数据校验需求。</p>
+<p>生成汇报材料<br />@Data 将本月的各项指标转化为适合向管理层汇报的进展更新，包含实际业绩、数据对比、驱动因素、注意事项以及建议采取的行动。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>OpenAI在ChatGPT Work中推出了新的Data agent，允许用户通过自然语言连接公司数据、进行分析并生成交互式仪表板。</li>
+    <li>Data agent支持连接经过批准的数据源，包括Amazon Redshift、Datadog、Google BigQuery、ClickHouse、Databricks、MongoDB、Snowflake等，并支持引入Google Drive和SharePoint中的文件与文档。</li>
+    <li>来源叙事重点：重点宣传在ChatGPT Work中推出的新Data agent，强调其通过自然语言直接连接多源企业数据、生成交互式仪表板与自动化行动的能力，突出其权限控制安全性和在OpenAI内部及早期客户（如NTT Data、Thermo Fisher）中的广泛落地效果。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#OpenAI</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://openai.com/index/put-data-to-work" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OpenAI News (官方动态)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--plan-events-and-meetups-f0c24581ae5afb5a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="498" data-content-paragraphs="9" data-published-at="2026-09-10T13:00:00.000Z" data-time-source="publication">
+<div id="story-misc-domains-e43d375c46e69c7b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="898" data-content-paragraphs="1" data-published-at="2026-09-10T15:14:48.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 23:14</span>
+</div>
+
+### [关于网络钓鱼的吐槽：这不是用户的错（也不是DNS的错）](https://maurycyz.com/misc/domains/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> A rant about phishing: It&#39;s not the user&#39;s fault (and not DNS either)</div>
+
+<div class="article-body" data-article-body="true"><p>“为了安全，切勿点击可疑链接”<br />攻击者所需要做的，只是写一个带有密码输入框和公司Logo的网页。URL根本无关紧要，因为用户早就学会了忽略它。<br />我承认URL并不是最直观的东西，因为其阅读方向是交替变化的。主机名和协议方案从具体走向宽泛，而路径的逻辑则正好相反：<br />由于这种语法的存在，关键部分（二级域名）落在了URL的中间。这是必须向非技术用户普及的内容：仅仅告诫他们“避开可疑链接”是远远不够的。<br />然而，如果主机名本身无法作为可靠的指示指标，那么这一切努力都将徒劳无功。<br />为了让用户有机会识别骗局……<br />机构“必须”（MUST）使用单一、广为人知的根域名。内部服务“必须”（MUST）置于该根域名的子域名之下，“绝不可”（MUST NOT）使用如下URL：<br />通过电子邮件或短信发送的链接“必须”（MUST）属于该可识别的域名。如果确实有绝对必要将用户引导至其他地方，请创建本地重定向或链接：<br />这并不意味着所有内容都必须由该机构亲自托管：许多服务支持自定义域名，并且链接是免费的。<br />该规则同样适用于电话号码：切勿发送短信或邮件让用户“拨打 0491-570-006”，因为用户根本无法确认这不是诈骗。联系方式“必须”（MUST）在原始信息所链接的网页上提供。<br />本文档中的关键用词“必须”（MUST）、“绝不可”（MUST NOT）、“必要”（REQUIRED）、“应当”（SHALL）、“应当不”（SHALL NOT）、“应该”（SHOULD）、“应该不”（SHOULD NOT）、“推荐”（RECOMMENDED）、“可以”（MAY）以及“可选”（OPTIONAL）均应按照 RFC 2119 中的说明进行解释……<br />主机名混乱的现状已经恶化到了这种地步：我甚至见过有人争论说子域名的存在本身就是一个问题，因为这让犯罪分子能够在缺乏监管的情况下随意冒充任何人。<br />DNS是一个分层系统，其结构40多年来未曾改变：<br />对于究竟是谁在运营某个特定网站，本应绝无混淆的可能……然而，现实中竭尽全力让正规合法网站看起来与诈骗网站无异，却反倒成了标准操作。<br />（甚至连政府机构都未能始终如一地使用为其分配的顶级域名）</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>DNS（域名系统）是一个分层系统，其基本结构已有40多年未发生改变。</li>
+    <li>RFC 2119 规定了解释“MUST”、“MUST NOT”、“REQUIRED”等关键词的标准方式。</li>
+    <li>来源叙事重点：批评当前将钓鱼防护责任转嫁给普通用户的做法，指出组织机构混乱的域名管理策略与URL结构设计缺陷才是导致钓鱼攻击屡禁不止的根源，并借用RFC规范用语呼吁建立严格的单根域名管理标准。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://maurycyz.com/misc/domains/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--5g-ultra-4-preorder-buy-fac7116961818542" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="631" data-content-paragraphs="11" data-published-at="2026-09-10T15:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 21:00</span>
+  <span class="news-meta-time">🕒 2026-09-10 23:00</span>
 </div>
 
-### [Snapchat 让策划活动与聚会变得更轻松](https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Snapchat makes it easier to plan events and meetups</div>
+### [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Where to preorder the new Apple Watch Series 12 and Ultra 4</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/snapchat-plans.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Snapchat 让策划活动与聚会变得更轻松" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0035.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="外文信源标题正在进行中文翻译，暂不展示未翻译标题" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该话题的相关文章将被添加到您的每日电子邮件摘要和主页动态中。</p>
-<p>Snap 正在将应用内已有的用户行为固化为正式功能。</p>
-<p>该作者的相关文章将被添加到您的每日电子邮件摘要和主页动态中。</p>
-<p>查看 Thomas Ricker 的全部文章</p>
-<p>Snapchat 正在推出 Plans，这是一套全新的功能套件，旨在帮助用户在无需离开应用的情况下，将群聊中已经在讨论的计划——从生日庆祝、学习小组到周末聚会——转变为现实生活中的相聚。</p>
-<p>Plans 允许用户设置活动详情，最多可邀请 200 位好友；邀请函上配有动态 Bitmoji 表情，会随着好友的回复而发生变化，并可追踪回复状态（RSVP）。邀请函通过一对一私聊发送，系统还会在预定活动开始前自动向参与者发送提醒。用户个人资料页上的专属“我的计划”（My Plans）标签页，可用于跟踪即将到来和过去的活动计划。</p>
-<p>Snap 目前在关键市场正苦于留存用户，因此，在公司所有者将精力分散在智能眼镜业务之际，像 Snapchat Plans 这样旨在促使用户持续回访应用的功能，对其长期前景可能至关重要。</p>
-<p>免费获取最重要的新闻每日摘要。</p>
+<div class="article-body" data-article-body="true"><p>来自该主题的帖子将被添加到您的每日邮件摘要和主页信息流中。</p>
+<p>更长的电池续航时间以及性能更强大的芯片组（支持大量新功能）是升级的主要理由。</p>
+<p>来自该作者的帖子将被添加到您的每日邮件摘要和主页信息流中。</p>
+<p>查看 Cameron Faulkner 的所有文章</p>
+<p>如果您通过 Verge 链接购买商品，Vox Media 可能会赚取佣金。请参阅我们的道德声明。</p>
+<p>iPhone Duo 毫无疑问是苹果“惊艳闪耀”（Surprise and shine）发布会上的焦点，但对于主要关注可穿戴设备动态的人来说并非如此。值得庆幸的是，苹果关于其新款 Apple Watch Series 12 和 Ultra 4 有很多内容可分享。2026 年 SE 型号并未迎来更新，这未必是件坏事（SE 3 依然很强）。此外，价格也均未变动，而整个 iPhone 产品线则并非如此。</p>
+<p>尽管这两款新智能手表外观与前代相似，但在内部配置上带来了诸多更新，可能足以吸引一些人立即预购。我的同事 Victoria Song 已经对这两款智能手表进行了真机体验，并详细梳理了最大的变化，从 S11 芯片（配备于 Series 12 和 Ultra 4）带来的音频智能（Audio Intelligence）功能，到其改良后的传感器和追踪性能可能带来的影响。</p>
+<p>查看 2026 苹果发布会全部内容</p>
+<p>查看 Verge Shopping 全部内容</p>
+<p>免费获取每日重要新闻摘要。</p>
 <p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 21:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>苹果在“Surprise and shine”发布会上公布了新款 Apple Watch Series 12 和 Ultra 4 智能手表。</li>
+    <li>苹果在2026年没有推出 Apple Watch SE 的更新款式。</li>
+    <li>来源叙事重点：聚焦苹果秋季发布会中可穿戴设备的更新点，突出 Apple Watch Series 12 与 Ultra 4 的内在升级（S11 芯片、音频智能、传感器与续航）及维持原价的购买价值，引导用户进行预购。</li>
   </ul>
 </div>
 
@@ -572,90 +456,167 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--event-planning-features-937d110366141387" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1365" data-content-paragraphs="11" data-published-at="2026-09-10T13:00:00.000Z" data-time-source="publication">
+<div id="story-lianas-amber-reveal-html-92a4de6f03879d27" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1414" data-content-paragraphs="11" data-published-at="2026-09-10T15:20:08.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
+    <span class="stance-badge">前沿同行评议严谨</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 21:00</span>
+  <span class="news-meta-time">🕒 2026-09-10 23:20</span>
 </div>
 
-### [Snapchat推出全新活动策划功能，直指Partiful](https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Snapchat takes aim at Partiful with new event-planning features</div>
+### [琥珀中保存的古藤本植物花朵化石揭示热带雨林的演化历程](https://phys.org/news/2026-09-fossil-ancient-lianas-amber-reveal.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Fossil flowers of ancient lianas preserved in amber reveal the evolution of tropical rainforests</div>
 
-<div class="article-body" data-article-body="true"><p>Snapchat于周四宣布推出“Snapchat Plans”，这是一套用于与好友创建、分享和管理现实活动的功能套件。这项全新的活动策划功能允许用户在一个地方集中发送与接收邀请，并跟踪时间、地点和参与者等详细信息。</p>
-<p>Snapchat表示，新功能可用于组织从生日聚会、体育赛事到学习小组和周末聚会的各类活动。</p>
-<p>随着年轻用户逐渐转向使用专用应用程序来组织聚会，而不是依赖群聊或社交媒体，Snapchat希望借助Snapchat Plans正面迎战知名活动策划与电子邀请平台Partiful。Snapchat并非唯一一家挑战Partiful及其他邀请应用的科技公司，苹果公司去年也推出了一款名为Invites的应用，允许用户为各种场合创建定制邀请函。</p>
-<p>Snapchat用户可以通过添加标题、选择日期和时间并邀请最多200位好友来创建被称为“Snapchat Plan”的活动。随后，邀请函会直接通过一对一聊天发送给每位受邀好友。受邀嘉宾随后可以通过“参加”（Going）、“可能参加”（Maybe）或“无法参加”（Can’t Go）进行回复（RSVP）。</p>
-<p>该应用还在用户个人资料页面新增了“My Plans”（我的计划）版块，便于用户快速浏览自己所有当前、即将到来以及过去的Snapchat Plans。此外，用户点击好友的个人资料后，还能看到与对方共同参加的活动。</p>
-<p>Snapchat Plan创建完成后，组织者可以查看参与人员名单、邀请更多好友，并根据需要更新活动详情。嘉宾可以查看完整的宾客名单，随时更改自己的出席状态，并在活动开始前一小时收到提醒。</p>
-<p>尽管Snapchat在过去十年中一直是社交媒体领域的重要参与者，但该公司如今正将其重心从人们的线上沟通延伸至协助促成现实世界的线下聚会。这也顺应了Z世代寻求更多面对面交流的更广泛趋势。</p>
-<p>该公司在博文中写道：“再也不会因为信息被刷走、遗漏细节或忘记发邀请而错过聚会了。Snapchat Plans让与好友组织这些特殊的面对面时刻变得更加轻松。”</p>
-<p>该公司表示，Snapchat Plans属于私密性质，仅限受邀人员参与。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>消费新闻记者<br />Aisha是TechCrunch的消费新闻记者。在2021年加入该媒体之前，她是MobileSyrup的电信记者。Aisha拥有多伦多大学荣誉学士学位和西安大略大学新闻学硕士学位。<br />您可以通过发送电子邮件至aisha@techcrunch.com或通过Signal加密消息联系aisha_malik.01，与Aisha取得联系或核实来信。<br />不要错过。初创企业界将齐聚一堂，共同探讨一个核心问题：在AI时代，你该如何实现可持续发展？<br />苹果推出首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段不公<br />一部秘密拍摄的伊丽莎白·霍姆斯全新纪录片震撼特柳赖德电影节<br />TechCrunch出行：特斯拉Cybercab上路——但遭遇阻碍<br />徒步旅行者在使用Google Gemini进行规划后获救<br />联邦监管机构对特斯拉Cybercab的部署展开调查<br />特斯拉正在询问公众是否愿意购买并运营Cybercab车队</p></div>
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/fossil-flowers-of-anci.jpg" alt="琥珀中保存的古藤本植物花朵化石揭示热带雨林的演化历程" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>作者：格西娜·施泰纳（Gesine Steiner），柏林自然历史博物馆<br />编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）<br />本文已根据 Science X 的编辑流程和方针进行审核。编辑在确保内容可信度的同时强调了以下属性：<br />经同行评审的出版物</p>
+<p>大约 1500 万年前被困在琥珀中的微小花朵，为科学家提供了一个难得的窗口，得以一窥现今中国东南部当时的热带雨林植物生命。研究人员对来自漳浦生物群的两朵保存极其完好的花朵化石进行了研究。</p>
+<p>他们的研究结果发表在《植物学纪事》（Annals of Botany）期刊上，表明在中新世中期，藤本植物在热带森林的植被结构中已经扮演了重要角色。</p>
+<p>“这些化石不仅表明该植物类群在 1500 万年前就存在于中国东南部，”来自柏林自然历史博物馆的埃娃-玛丽亚·萨多夫斯基（Eva-Maria Sadowski）表示，“它们还将一个中新世的植物谱系与其现存近亲联系在了一起。这为植物如何演化以及过去的生态系统如何构成提供了重要见解。”</p>
+<p>这些化石属于锦葵科（Malvaceae）的艾尼亚属（Ayenia，Vahihara 组）。其中一朵花被描述为新的化石物种——漳浦艾尼亚花（Ayenia zhangpuensis），而第二个标本则被非正式地归类为 Ayenia sp.。</p>
+<p>利用光学显微镜和 X 射线断层扫描技术，研究人员得以细致检查精致的花部结构。</p>
+<p>“这些花朵极佳的保存状态使我们能够识别出化石植物中罕见保存的特征，”中国科学院南京地质古生物研究所的史恭乐表示，“它们与现存艾尼亚属物种的相似性表明，该谱系的基本花部结构至少自中新世中期以来就保持着显著的稳定性。”</p>
+<p>来自中国东南部福建省的漳浦生物群，为研究中新世中期的热带生态系统提供了最重要的窗口之一。在一段全球气候变暖的时期，该地区维持着高度多样化的热带雨林。来自这一时期的琥珀化石以非凡的精细程度保存了大量的动植物。</p>
+<p>然而，攀缘植物在化石记录中尤其难以识别。它们纤弱的结构在能够在有利条件下保存下来之前，往往就已经腐烂。因此，它们在古代森林生态系统中的作用常常被低估。此次新描述的花朵因而为漳浦生物群的面貌补上了一块重要的拼图。</p>
+<p>这一发现不仅是对过去热带雨林的一次定格。化石与现存艾尼亚花之间的密切相似性，指明了花部形态的长期延续性。与此同时，这些化石展现了琥珀如何能够帮助科学家重建历经数百万年的植物演化史与生态系统组成。</p>
+<p>论文引用：Xieting Wu 等，《琥珀中保存的艾尼亚属（锦葵科）花朵化石：中国东南部中新世雨林存在藤本植物的证据》（Fossil flowers of Ayenia (Malvaceae) preserved in amber: evidence for lianas in Miocene rainforest of southeast China），《植物学纪事》（Annals of Botany，2026年）。DOI: 10.1093/aob/mcag220<br />期刊信息：《植物学纪事》（Annals of Botany）<br />由柏林自然历史博物馆提供<br />生命科学与生态学学士。拥有微生物实验室背景，以及石油、天然气和可再生能源行业的医药新闻经验。查看完整简介 →<br />数理生物学学士，创意写作硕士。阅历丰富，在科学与语言方面拥有独特见解。查看完整简介 →</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>研究人员研究了来自中国东南地区漳浦生物群（Zhangpu flora）的两个保存在约1500万年前中新世中期琥珀中的花朵化石。</li>
+    <li>化石花朵属于锦葵科（Malvaceae）Ayenia属（Vahihara组）。</li>
+    <li>来源叙事重点：报道中新世中期（约1500万年前）中国福建漳浦琥珀中保存完好的锦葵科Ayenia属花朵化石，强调该发现证实了古代藤本植物在远古热带雨林中的重要生态地位，并展现了数千万年间植物花部形态的长期演化稳定性。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Phys.org</span>
+</div>
+
+<div class="news-card-footer"><a href="https://phys.org/news/2026-09-fossil-ancient-lianas-amber-reveal.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-society-2185697-101e4427109bd686" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="406" data-content-paragraphs="7" data-published-at="2026-09-10T15:41:36.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 23:41</span>
+</div>
+
+### [民调机构：俄议会选举声明投票率预计约达70%](https://tass.com/society/2185697)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Declared turnout during parliamentary elections estimated at around 70% — pollster</div>
+
+<div class="article-body" data-article-body="true"><p>塔斯社莫斯科9月10日电 全俄民意研究中心（VCIOM）表示，即将举行的俄罗斯议会选举中，选民的声明投票率达到70%。</p>
+<p>该研究中心在其网站上称：“在统一投票日到来前几周，十分之七的俄罗斯人（70%）以不同程度的肯定语气表示，他们计划参加国家杜马选举。”</p>
+<p>专家指出，共有54%的受访者明确表示，他们肯定计划前往投票站投票。</p>
+<p>全俄民意研究中心预计最终投票率将在51%至53%之间。</p>
+<p>一项选举调查显示，四个政党笃定将进入俄罗斯议会下院（国家杜马）：统一俄罗斯党（51%-53%）、俄罗斯联邦共产党（13%-15%）、新人党（9%-11%）以及俄罗斯自由民主党（LDOR，原文如此，通常为LDPR）（9%-11%）。</p>
+<p>公正俄罗斯党也有机会跨过5%的门槛，不过其选情依然不够稳定，在4%至6%之间浮动。</p>
+<p>该调查于2026年9月进行，覆盖1600名18岁及以上受访者，数据基于8月31日至9月6日期间的平均数值。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-10 23:41 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#TASS</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://tass.com/society/2185697" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-tion-to-3-7b-in-3-months-0e9c976991824598" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1268" data-content-paragraphs="10" data-published-at="2026-09-10T13:00:00.000Z" data-time-source="publication">
+<div id="story-ootball-australia-opener-6202604b9a865723" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1431" data-content-paragraphs="11" data-published-at="2026-09-10T15:41:15.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 21:00</span>
+  <span class="news-meta-time">🕒 2026-09-10 23:41</span>
 </div>
 
-### [防务科技初创企业Mach Industries三个月内估值翻倍至37亿美元](https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Defense tech Mach Industries doubles valuation to $3.7B in 3 months</div>
+### [公羊队行程豪赌或让49人队在“周四夜赛”澳大利亚揭幕战中占得先机](https://www.foxnews.com/outkick-sports/rams-travel-gamble-could-give-49ers-edge-thursday-night-football-australia-opener)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Rams&#39; travel gamble could give 49ers the edge in Thursday Night Football&#39;s Australia opener</div>
 
-<div class="article-body" data-article-body="true"><p>防务科技初创公司 Mach Industries 周四宣布，已在 C 轮追加轮融资中筹集了 6 亿美元新资金，使其估值翻倍至 37 亿美元。该公司于今年 6 月宣布了最初的 C 轮融资，当时以 18 亿美元的估值筹集了 3 亿美元。两轮融资的投资方均包括 Ribbit Capital、Infinite Capital、Bedrock Capital 和红杉资本（Sequoia）。</p>
-<p>这意味着，该公司的估值在短短三个月内实现了翻倍跃升。而上一轮融资同样增幅显著：相比 2025 年 6 月宣布以 4.7 亿美元估值完成的 1 亿美元融资，估值增长了近四倍。</p>
-<p>Mach 生产各种无人军用载具和武器，包括垂直起降无人机、用于远程打击的系统以及反无人机系统。该公司在加利福尼亚州亨廷顿比奇的总部运营着一座占地 11.5 万平方英尺的制造工厂，并在加州各地设有其他分支设施。</p>
-<p>它的商业卖点在于打造高度集成的系统，且成本低于传统国防承包商的产品。为此，该初创企业在 5 月以 5000 万美元的现金加股权交易收购了固体火箭发动机（SRM）初创公司 Exquadrum，并称在竞购中击败了至少 8 家其他潜在买家。</p>
-<p>无人机的崛起导致固体火箭发动机出现短缺，而该市场主要由两家老牌企业控制。收购 Exquadrum 正是 Mach 解决这一瓶颈的方案。该笔收购随后成为该公司名为 Mach Energetics 的新业务线基础，该部门不仅生产固体火箭发动机，还为其他客户生产喷气发动机和高能动力系统。</p>
-<p>Mach 由年仅 22 岁的伊森·桑顿（Ethan Thornton）创立并掌舵，是传统硅谷风投大举注资防务科技初创公司的典型代表。桑顿在 19 岁时从麻省理工学院（MIT）退学创办 Mach，并迅速获得红杉资本的斯蒂芬妮·詹（Stephanie Zhan）和肖恩·马奎尔（Shaun Maguire）的投资，这也标志着这家老牌风投机构在防务科技领域的首次投资。</p>
-<p>在今年早些时候赢得一份美国陆军合同后，该公司也吸引了 Ribbit Capital 的注意。Ribbit Capital 曾以金融科技投资闻名，但近期参与了一系列引人注目的 AI 交易，涵盖从 Cognition 等编程初创公司到 Crusoe 等新型云服务商。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
-<p>不要错过。初创企业社区将齐聚一堂，探讨一个关键问题：如何在 AI 时代实现可持续发展？</p>
-<p>苹果发布首款折叠屏手机 iPhone Duo<br />纽约大学数学家称：OpenAI 在一道攸关学术生涯的数学题上手段不光彩<br />一部关于伊丽莎白·霍姆斯的神秘新纪录片惊艳特柳赖德电影节<br />TechCrunch 交通专栏：特斯拉 Cybercab 上路——但也遭遇挫折<br />徒步者使用 Google Gemini 规划路线受困后获救<br />美联邦政府对特斯拉部署 Cybercab 展开调查<br />特斯拉询问公众是否愿意购买并运营 Cybercab 车队</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/rams-49ers.jpg?ve=1&amp;tl=1" alt="公羊队行程豪赌或让49人队在“周四夜赛”澳大利亚揭幕战中占得先机" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>“你好啊伙计，咱们要在烤架上押上一注吗？”如果你不明白这句开场白的缘由，那你可能需要再次确认一下这场比赛的举办地点了。NFL今天正前往澳大利亚举行旧金山49人队与洛杉矶公羊队之间的比赛，这也意味着我们迎来了新赛季的首场“周四橄榄球之夜”。</p>
+<p>旧金山49人队2025赛季的收尾相当令人失望。他们以橄榄球界最完整的球队之一的姿态杀入季后赛，却在开场哨吹响后几乎全程被西雅图海鹰队按在地上摩擦。今年他们虽然阵容健康，但阵容名单旁边却充斥着令人头疼的出战成疑（questionable）标记。他们的进攻组有六名球员被列为出战成疑，其中包括克里斯蒂安·麦卡弗里（Christian McCaffrey）、迈克·埃文斯（Mike Evans）以及乔治·基特尔（George Kittle）。</p>
+<p>他们的防守组情况也没好到哪去，有五人被列入名单，其中包括尼克·博萨（Nick Bosa）。不过弗雷德·华纳（Fred Warner）目前是健康的，这是个好迹象。如果全队完全健康，他们理应跻身橄榄球界顶尖行列。即使在不够健康的时候，49人队也展现出了强大的“随时顶上”（next-man-up）作风，让他们始终保持着竞争力。</p>
+<p>伤病潮再次席卷49人队，球队在澳大利亚训练期间损失关键防守截锋</p>
+<p>洛杉矶公羊队则是一支超级强队。看看他们的球员大名单，豪华得近乎滑稽。如果还有职业碗这项赛事的话，你基本可以把这套名单直接称作职业碗全明星阵容。他们是季后赛中唯一一支真正与西雅图硬碰硬对抗的球队，并在一场来回拉锯的鏖战中惜败。在休赛期，他们通过交易引进了迈尔斯·加勒特（Myles Garrett），而这又促使阿隆·唐纳德（Aaron Donald）宣布复出。对49人队来说稍感庆幸的是，唐纳德本场不会披挂上阵。</p>
+<p>在进攻端，公羊队依旧是这项运动中最为精英的球队之一。这取决于马修·斯塔福德（Matthew Stafford）的健康状况，但他刚打出了一个MVP级别的赛季，甚至可以说是他职业生涯中表现最出色的一个赛季。他在传球端依然坐拥普卡·纳库阿（Puka Nacua）和达万特·亚当斯（Davante Adams）这两大杀器。球队阵容极其深厚，而且公羊队拥有一位富有创造力的主教练，绝不会让他们的进攻端有所松懈。</p>
+<p>由于适应恢复流程尚未完成，阿隆·唐纳德将不会前往澳大利亚参加公羊队对阵49人队的揭幕战</p>
+<p>比赛在墨尔本举行，确实给博彩下注策略出了个难题。如果在洛杉矶打，公羊队可能会让4.5分，彩民大概直接押他们赢就完事了。然而，这场比赛是在海外打。长途旅行成了这场比赛的一大关键因素。49人队一周前就飞往了澳大利亚，能够完全倒好时差。</p>
+<p>肖恩·麦克维预计每位公羊队球员都将登上飞往澳大利亚参加第一周比赛的航班，包括阿隆·唐纳德</p>
+<p>然而，公羊队是周二才起飞的。这意味着他们基本上一落地就得睡觉，醒来就得上场打球。这是一趟耗时14到16个小时的飞行。他们还打算在比赛结束两小时后就乘机离开。这是一个耐人寻味的策略，但球队显然不想让他们去适应时差。跨国长途奔波极其艰难。我预计公羊队开局会相当慢热。至少在比赛上半场，49人队应该占据上风，因为公羊队球员的身体状态届时仍未恢复过来。这场比赛我选择看好受让分的49人队。我只是觉得公羊队很难拉开所需的分差，不过他们最终应该还是能拿下比赛。</p>
+<p>获取更多体育博彩资讯与投注推荐，请在X/Twitter上关注David：@futureprez2024</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 23:41 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/rams-travel-gamble-could-give-49ers-edge-thursday-night-football-australia-opener" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-8-8855-d246dbc78c54-html-9fd0caf1287b0fac" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="it" data-content-length="258" data-content-paragraphs="2" data-published-at="2026-09-10T15:39:08.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 23:39</span>
+</div>
+
+### [基辅称“俄军袭击帕夫洛赫拉德一购物中心，致至少4人死亡、60人受伤”](https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/kiev-raid-russo-su-centro-commerciale-a-pavlohrad-almeno-4-morti-e-60-feriti_2a2e200c-5a77-4c38-8855-d246dbc78c54.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Kiev, &#39;raid russo su centro commerciale a Pavlohrad, almeno 4 morti e 60 feriti&#39;</div>
+
+<div class="article-body" data-article-body="true"><p>乌克兰当局谴责称，俄罗斯军队袭击了乌克兰第聂伯罗彼得罗夫斯克州帕夫洛赫拉德市中心的一座购物中心，造成4人死亡、60多人受伤。“俄罗斯人袭击了帕夫洛赫拉德市中心的一座购物中心。正值大白天，当时街上还有很多人，”乌克兰内政部长伊万·维希夫斯基（Ivan Vyhivskyi）在Telegram上表示，而第聂伯罗彼得罗夫斯克州国家行政长官亚历山大·甘扎（Oleksandr Ganzha）则表示，“已有4人死亡，60多人受伤。伤者中包括三名分别为13岁、14岁和15岁的未成年人。”</p>
+<p>版权所有 © ANSA通讯社版权保留</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 2026-09-10 23:39 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#ANSA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/kiev-raid-russo-su-centro-commerciale-a-pavlohrad-almeno-4-morti-e-60-feriti_2a2e200c-5a77-4c38-8855-d246dbc78c54.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
 :::
 
 ::::

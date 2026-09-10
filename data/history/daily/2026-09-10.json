@@ -1,5 +1,1566 @@
 [
   {
+    "timestamp": 1789055597889,
+    "timeDisplay": "2026-09-10 23:53 (UTC+8)",
+    "date": "2026-09-10",
+    "runId": "feed-20260910T155031984Z-5ba3z3",
+    "generatedAt": "2026-09-10T15:53:17.889Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 23:50",
+      "lead": "本轮抓取于 2026-09-10 23:50 (UTC+8) 完成，共获得 791 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。",
+        "【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。",
+        "【ANSA Mondo (意大利安莎社官方意大利文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。",
+        "【France 24 (EN 官方英语原版)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。",
+        "【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。",
+        "【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。",
+        "【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。",
+        "【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可核验的文章信息",
+      "lead": "当前证据包未提供文章标题、正文、来源、发布时间或可用引用，无法形成可靠的日尺度分析。",
+      "themes": [
+        {
+          "name": "信息缺失",
+          "analysis": "目标文章内容状态为缺失，事实、引述、实体和引文均为空；相关条目标题尚未完成中文翻译，且仅有少量未核实的摘要片段，因此不足以支持主题判断或趋势分析。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 94,
+      "completedTasks": 94,
+      "succeeded": 82,
+      "degraded": 12,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 94,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 165846,
+      "byRole": {
+        "translator": {
+          "attempts": 60,
+          "succeeded": 50,
+          "degraded": 10
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 94,
+          "succeeded": 82,
+          "degraded": 12
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-26-translator-0",
+      "article-29-translator-0",
+      "article-37-translator-0",
+      "article-39-translator-0",
+      "hourly-editor",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:14.600Z",
+        "lastSuccessAt": "2026-09-10T15:50:14.971Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:14.608Z",
+        "lastSuccessAt": "2026-09-10T15:50:14.963Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.345Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.483Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.358Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.547Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.287Z",
+        "lastSuccessAt": "2026-09-10T15:50:17.299Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.283Z",
+        "lastSuccessAt": "2026-09-10T15:50:17.181Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:17.464Z",
+        "lastSuccessAt": "2026-09-10T15:50:17.662Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:14.971Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.161Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.513Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.738Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.504Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.767Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.161Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.586Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.130Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.443Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.051Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.431Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.082Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.212Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:17.181Z",
+        "lastSuccessAt": "2026-09-10T15:50:17.970Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.428Z",
+        "lastSuccessAt": "2026-09-10T15:50:17.665Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.868Z",
+        "lastSuccessAt": "2026-09-10T15:50:17.418Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 12,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.586Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.966Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.323Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.345Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.212Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.322Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:14.963Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.051Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:13.280Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.037Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.957Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.092Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.824Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.196Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.641Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.097Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.841Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.986Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.092Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.428Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.547Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.731Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:17.299Z",
+        "lastSuccessAt": "2026-09-10T15:50:21.379Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.966Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.052Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.162Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.283Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.098Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.162Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.196Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.363Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:17.418Z",
+        "lastSuccessAt": "2026-09-10T15:50:17.573Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.431Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.504Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.637Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.190Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.767Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.957Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.190Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.394Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.052Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.389Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-10T15:50:16.038Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:13.278Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.082Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.139Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.287Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:13.279Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.358Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.363Z",
+        "lastSuccessAt": "2026-09-10T15:50:17.915Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.738Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.841Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.037Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.130Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.986Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.038Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.731Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.824Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.389Z",
+        "lastSuccessAt": "2026-09-10T15:50:16.868Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:16.394Z",
+        "lastSuccessAt": "2026-09-10T15:50:17.464Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.483Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.637Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:15.443Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.641Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:13.263Z",
+        "lastSuccessAt": "2026-09-10T15:50:14.608Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:13.276Z",
+        "lastSuccessAt": "2026-09-10T15:50:14.600Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-10T15:50:13.277Z",
+        "lastSuccessAt": "2026-09-10T15:50:15.513Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-olitsija-2116897367-html-7098bbc2475bad09",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Екатеринбурге проверяют информацию о стрельбе по троллейбусу",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T15:48:25.000Z",
+        "pubTime": "2026-09-10 23:48",
+        "url": "https://ria.ru/20260910/politsija-2116897367.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/07/18/1961799913_0:26:3594:2048_650x0_80_0_0_2decd113457195d7dd43878a2fe9cf02.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 23:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/politsija-2116897367.html",
+            "publishedAt": "2026-09-10T15:48:25.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-3b-in-round-led-by-uae-6b71f40ca10cce71",
+        "title": "The Boring Company获阿联酋领投的30亿美元融资",
+        "originalTitle": "The Boring Company raises $3B in round led by UAE",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:07:27.000Z",
+        "pubTime": "2026-09-10 23:07",
+        "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+        "imageUrl": null,
+        "fullContent": "Elon Musk’s tunneling play, The Boring Company, has raised a $3 billion Series D funding round that pushes its valuation to $23 billion.\n\nThe round was led by the United Arab Emirates. The Boring Company said Thursday that it now plans to dig more than 150 kilometers of tunnels in the Middle Eastern country. Andreessen Horowitz, Sequoia Capital, Human Capital, Vy Capital, and Valor Equity partners also participated.\n\nThe Wall Street Journal reported in July that The Boring Company was looking to raise as much as $4 billion.\n\nThe Boring Company has done most of its digging to date in Las Vegas, Nevada, where it operates a handful of tunnels that connect hotel casinos and the convention center. It recently started work on a project in Nashville, Tennessee that will involve a 10-mile “loop” underground.\n\nThe company has stated that its goal is to “solve traffic” by moving vehicle travel into an underground, three-dimensional network of tunnels.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "埃隆·马斯克旗下的地下隧道企业 The Boring Company 已完成 30 亿美元的 D 轮融资，该轮融资将其估值推高至 230 亿美元。\n\n本轮融资由阿拉伯联合酋长国领投。The Boring Company 周四表示，公司目前计划在这个中东国家挖掘超过 150 公里的隧道。Andreessen Horowitz、红杉资本（Sequoia Capital）、Human Capital、Vy Capital 以及 Valor Equity Partners 也参与了投资。\n\n《华尔街日报》曾于 7 月报道称，The Boring Company 当时寻求筹集高达 40 亿美元的资金。\n\n迄今为止，The Boring Company 的大部分挖掘作业都在内华达州拉斯维加斯开展，公司在当地运营着连接赌场酒店与会展中心的多条隧道。近期，该公司在田纳西州纳什维尔启动了一个项目，其中包括一条长约 10 英里的地下“环线”（loop）。\n\n该公司曾表示，其目标是通过将地面车辆交通转移至地下三维隧道网络来“解决交通问题”。\n\n不容错过。初创社群即将齐聚一堂，共同回答一个核心问题：在 AI 时代，你该如何实现可持续构建？\n\n每个工作日和周日，您都可以获取 TechCrunch 的精选报道。\n\nTechCrunch Mobility 是您获取交通出行新闻和行业洞察的理想之选。\n\n初创企业是 TechCrunch 的核心，欢迎订阅获取我们每周精选送达的深度报道。\n\n为行业领袖及推动者提供开启新一天所需的关键资讯。\n\n提交您的电子邮件，即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "埃隆·马斯克旗下的隧道挖掘公司 The Boring Company 完成了 30 亿美元的 D 轮融资，估值达 230 亿美元。",
+          "该轮融资由阿联酋（United Arab Emirates）领投。",
+          "来源叙事重点：报道埃隆·马斯克旗下 The Boring Company 完成由阿联酋领投的30亿美元D轮融资（估值达230亿美元），重点展示该交易带来的海外业务扩张（阿联酋150公里隧道规划）及现有拉斯维加斯、纳什维尔项目的最新进展"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:07:27.000Z",
+            "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/"
+          }
+        ]
+      },
+      {
+        "id": "story-r-stocks-either-bdfa13bb-719da32eaa4a9402",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:34:00.000Z",
+        "pubTime": "2026-09-10 23:34",
+        "url": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Renewable-energy mandates in blue states are a major driver of higher electricity bills, adding directly to the cost-of-living problem.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 23:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T15:34:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ough-assisted-dying-bill-f8e0da0afef4e7fb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "MPs on both sides urge Commons not to take ‘extraordinary risk’ of forcing through assisted dying bill",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:25:45.000Z",
+        "pubTime": "2026-09-10 23:25",
+        "url": "https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill",
+        "imageUrl": "https://i.guim.co.uk/img/media/5396e4a6c389bfb3fd51b409b74b477e49118158/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=5e78cf8a22d6d6f937cd0aa25e0f0c6f",
+        "fullContent": "Labour MPs Gareth Snell and Meg Hillier say Lords must be allowed to fulfil duty in scrutinising bill on serious public issue\n\nUK politics live – latest updates\n\nMPs who voted for and against assisted dying have urged their respective sides not to take the “extraordinary risk” of forcing through the bill using an obscure parliamentary procedure if it continues to be blocked by the Lords.\n\nTwo Labour MPs have written a warning letter to colleagues in the crucial hours before the next vote on Friday: Gareth Snell, who voted in favour of the bill, and Meg Hillier, who voted against.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "工党议员加雷斯·斯内尔（Gareth Snell）和梅格·希利尔（Meg Hillier）敦促下议院不要采取“非同寻常的风险”，即如果协助自杀法案继续遭到上议院阻挠，不要利用晦涩的议会程序强行通过该法案。",
+          "斯内尔和希利尔表示，必须允许上议院履行其对这一重大公共议题法案进行审查的职责。",
+          "来源叙事重点：报道聚焦跨党派/跨立场议员在关键表决前的程序呼吁，重点强调两名立场相反的工党议员联合警告：不要利用罕见程序绕过上议院审查强推协助自杀法案"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:25:45.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill"
+          }
+        ]
+      },
+      {
+        "id": "story-s-potential-trigger-html-3c6d9e67f8957e78",
+        "title": "太阳最大的太阳黑子或具备引发超级耀斑的潜能",
+        "originalTitle": "Sun's largest sunspots may have potential to trigger superflares",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:40:06.000Z",
+        "pubTime": "2026-09-10 23:40",
+        "url": "https://phys.org/news/2026-09-sun-largest-sunspots-potential-trigger.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/sun-new-evidence-of-su.jpg",
+        "fullContent": "by Max Planck Society\n\nedited by Sadie Harley, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nThe sun is capable of great things. In massive eruptions, it repeatedly hurls particles and radiation into space. This solar bombardment can be dangerous for technical infrastructure on Earth: For example, satellites and transformers in substations can be damaged.\n\nThe sun offered an impressive demonstration of its strength in 1859. The solar storm that struck Earth during the so-called Carrington Event was so powerful that auroras were visible as far as the Caribbean, and sparks flew from the receivers in telegraph offices.\n\nBut can the sun accomplish even more? Can it rage even more violently and generate so-called superflares? These are bursts of radiation that release more energy than trillions of hydrogen bombs and have so far been observed directly only on distant stars.\n\nResearchers at the Max Planck Institute for Solar System Research (MPS) in Germany and the University of Colorado in the U.S. explore this question in their latest paper, published in the journal Philosophical Transactions of the Royal Society A, and find further evidence of our star's eruptive skills.\n\nThe amount of energy the sun releases during a flare can be measured directly only outside Earth's atmosphere or determined indirectly from data and images from space probes. Both have been possible only since the beginning of the space age about 70 years ago. There has been no superflare since then. But this period is merely the blink of an eye in the life of our 4.6-billion-year-old star.\n\n\"There is some evidence to suggest that the sun, too, can produce superflares at great intervals. However, there is no direct proof,\" explained MPS scientist Natalie Krivova, lead author of the new study.\n\nSuch clues can be found, for example, by looking at the sun's peer group, which comprises many thousands of stars. In late 2024, researchers at the MPS were able to show that superflares occur about once a century on stars that resemble the sun in key characteristics.\n\nNatural archives of solar activity also point to our star's tempestuous nature: Isolated, short-lived and exceptionally strong spikes in the concentrations of radioactive isotopes in historical tree trunks or in ice cores from the Arctic's permafrost suggest that Earth has repeatedly been exposed to particularly intense bombardment by high-energy solar particles in the past.\n\nIt is unclear whether these extreme particle eruptions were accompanied by superflares. A flare itself, no matter how strong, leaves no long-term traces.\n\n\"According to the current state of research, extreme particle eruptions and particularly intense flares often—but not always—occur together,\" explained MPS scientist Valeriy Vasilyev. He is the lead author of a review article on this topic, also published in Philosophical Transactions of the Royal Society A.\n\nIn their new publication, the research team led by Krivova took a new approach to gauging the sun's potential for violent activity. They analyzed observational data collected by NASA's Solar Dynamics Observatory from 2010 to 2016.\n\nThe team correlated the amount of energy released by the 300 strongest flares during this period with the size of the corresponding active region on the sun's visible surface. These are areas where the magnetic field is particularly strong and complex in structure. Active regions are associated with sunspots—dark areas on the sun's surface—and are considered potential starting points for eruptions.\n\n\"Of course, we knew that no superflares had occurred during the observation period,\" explained Krivova. \"But the statistical relationship we found between the released energy and the size of the active region should hold true for more powerful events as well,\" she added.\n\nIn a second step, the researchers turned their attention to the largest known sunspots that have ever covered our star. \"Sunspots have been systematically and regularly recorded for about 400 years,\" said MPS scientist Theodosios Chatzistergos, a co-author of the new study.\n\nThey offer us another way to look into the history of our star, he added. Based on the size of the sunspot, the researchers were able to infer the size of the associated active region—and thus the strength of a possible eruption. They were particularly interested in the rare outliers with exceptionally high energy.\n\nOne of the largest sunspots the sun has displayed since the beginning of systematic solar observations was the large sunspot of April 1947. It covered approximately 0.6% of the visible solar disk; its diameter was about 40 times that of Earth's. There was no superflare at that time. But the new study shows that a sunspot of this size can trigger a superflare in statistically rare cases.\n\n\"Our sun has superflare potential. It can produce massive sunspots that, in principle, can serve as the starting point for the most extreme bursts of radiation,\" said Krivova.\n\nHas such a superflare ever actually occurred on the sun? That remains one of our star's mysteries.\n\nNatalie Krivova et al, Empirical flare energy limits for the largest historical sunspots, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0290\n\nValeriy Vasilyev et al, Linking solar magnetism, extreme solar particle events and stellar superflares, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0261\n\nJournal information: Philosophical Transactions of the Royal Society A\n\nProvided by Max Planck Society\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "来源：马克斯·普朗克学会\n编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策进行了审阅。编辑在确保内容可信度的同时强调了以下属性：\n经同行评审的出版物\n\n太阳拥有惊人的能量。在剧烈的爆发中，它反复将粒子与辐射抛射进太空。这种太阳风暴轰击可能对地球上的技术基础设施构成威胁：例如，卫星以及变电站中的变压器都可能遭到损坏。\n\n1859年，太阳曾令人印象深刻地展示了它的威力。在所谓的“卡灵顿事件”（Carrington Event）期间袭击地球的太阳风暴极其猛烈，以至于极光远至加勒比海地区都清晰可见，电报局的接收机甚至迸射出火花。\n\n但太阳还能表现得更惊人吗？它能否更剧烈地狂暴发作并产生所谓的“超级耀斑”（superflares）？这是一种辐射爆发，其释放的能量超过数万亿颗氢弹，迄今为止科学家仅在遥远的恒星上直接观测到过此类现象。\n\n德国马克斯·普朗克太阳系研究所（MPS）和美国科罗拉多大学的研究人员在发表于《英国皇家学会哲学汇刊A辑》（Philosophical Transactions of the Royal Society A）上的最新论文中探讨了这一问题，并找到了关于我们这颗恒星具有爆发能力的进一步证据。\n\n太阳在耀斑期间释放的能量只能在地球大气层外直接测量，或者通过太空探测器的数据和图像间接确定。这两种方法都是在大约70年前太空时代开启后才成为可能。从那时起，太阳还未发生过超级耀斑。但在这颗拥有46亿年历史的恒星的漫长岁月中，这段时间仅仅是白驹过隙。\n\n“有一些迹象表明，太阳也可能以极长的时间间隔产生超级耀斑。然而，目前尚无直接证据，”该新研究的第一作者、MPS科学家娜塔莉·克里沃娃（Natalie Krivova）解释道。\n\n例如，通过观察包含数千颗恒星的太阳“同类群”就可以找到此类线索。2024年底，MPS的研究人员证实，在关键特征上与太阳相似的恒星大约每个世纪就会发生一次超级耀斑。\n\n记录太阳活动的“天然档案”也揭示了这颗恒星狂暴的一面：历史树干或北极多年冻土冰芯中放射性同位素浓度出现孤立、短暂且异常强烈的峰值，表明地球在过去曾多次遭受尤为强烈的高能太阳粒子轰击。\n\n目前尚不清楚这些极端粒子爆发是否伴随有超级耀斑。耀斑本身无论多么强烈，都不会留下长期的物理痕迹。\n\n“根据当前的研究现状，极端粒子爆发与特别强烈的耀斑往往——但并非总是——相伴发生，”MPS科学家瓦列里·瓦西里耶夫（Valeriy Vasilyev）解释说。他也是发表在《英国皇家学会哲学汇刊A辑》上的相关主题综述文章的第一作者。\n\n在最新的研究中，克里沃娃领导的研究团队采用了一种评估太阳剧烈活动潜力的新方法。他们分析了美国宇航局（NASA）太阳动力学天文台（SDO）在2010年至2016年期间收集的观测数据。\n\n该团队将该时期最强烈的300次耀斑所释放的能量，与太阳可见表面相应活动区的面积进行了关联。这些活动区内的磁场异常强劲且结构复杂。活动区与太阳黑子（太阳表面的暗区）密切相关，被视为爆发潜在的策源地。\n\n“当然，我们知道在观测期内并未发生超级耀斑，”克里沃娃解释道，“但我们在释放能量与活动区大小之间发现的统计关系，应该同样适用于能量更强大的极端事件。”\n\n在第二步中，研究人员将注意力转向了人类已知曾覆盖我们太阳的最大太阳黑子。“人类系统且定期地记录太阳黑子已有约400年的历史，”该新研究的合著者、MPS科学家西奥多西奥斯·查齐斯特戈斯（Theodosios Chatzistergos）表示。\n\n他补充道，这为我们回溯恒星的历史提供了另一种视角。基于太阳黑子的面积，研究人员能够推断出相应活动区的规模，进而推测出潜在爆发的强度。他们对那些能量异常巨大的罕见极端情况尤为关注。\n\n自系统性太阳观测开展以来，太阳表面出现过的最大黑子之一是1947年4月的大黑子。它覆盖了可见日面大约0.6%的面积，其直径约为地球直径的40倍。当时并未发生超级耀斑。但这项新研究表明，从统计学上看，如此规模的太阳黑子在罕见情况下确实具备引发超级耀斑的潜力。\n\n克里沃娃表示：“我们的太阳具备产生超级耀斑的潜力。它能够形成巨大的太阳黑子，这些黑子在原则上可以作为最极端辐射爆发的起点。”\n\n太阳上是否真的曾发生过这样的超级耀斑？这仍然是我们这颗恒星留下的未解之谜之一。\n\nNatalie Krivova 等, Empirical flare energy limits for the largest historical sunspots, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0290\nValeriy Vasilyev 等, Linking solar magnetism, extreme solar particle events and stellar superflares, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0261\n期刊信息：Philosophical Transactions of the Royal Society A\n由马克斯·普朗克学会提供\n生命科学与生态学学士。具备微生物实验室背景，在石油、天然气及可再生能源行业拥有医药新闻报道经验。查看完整个人资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学与语言持有独到见解。查看完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "1859年卡灵顿事件期间发生的太阳风暴威力强大，极光在加勒比海地区可见，电报局的接收器冒出火花。",
+          "超级耀斑释放的能量超过数万亿颗氢弹，迄今仅在遥远的恒星上被直接观测到。",
+          "来源叙事重点：通过将NASA观测到的耀斑能量与太阳黑子活动区尺寸建立统计关联，推断历史上如1947年记录的超大太阳黑子在原理上具备触发‘超级耀斑’的潜力，提示太阳潜在极端爆发对现代地球技术设施的威胁。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:40:06.000Z",
+            "url": "https://phys.org/news/2026-09-sun-largest-sunspots-potential-trigger.html"
+          }
+        ]
+      },
+      {
+        "id": "story-10-putin-2116897195-html-ba06fd0ec6ad702e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Путин поприветствовал участников фестиваля \"Без границ\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T15:47:51.000Z",
+        "pubTime": "2026-09-10 23:47",
+        "url": "https://ria.ru/20260910/putin-2116897195.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/01/2114503534_0:148:3072:1876_650x0_80_0_0_88bd759457c90aec7f66569bbacf3b85.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 23:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/putin-2116897195.html",
+            "publishedAt": "2026-09-10T15:47:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-index-put-data-to-work-6a886414536a09e3",
+        "title": "如今人人皆可让数据发挥效用",
+        "originalTitle": "Now everyone can put data to work",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:00:00.000Z",
+        "pubTime": "2026-09-10 23:00",
+        "url": "https://openai.com/index/put-data-to-work",
+        "imageUrl": null,
+        "fullContent": "Meet the new Data agent in ChatGPT Work: turn your company’s data into answers, interactive dashboards, and action, just by asking.\n\nPeople across every business have questions that data can answer. Why did sales slow down? Where is spending rising? Which issues threaten renewals in our largest accounts, and what should we fix first? Getting those answers often means waiting for a report or asking someone else to run the analysis.\n\nWe’re introducing a new Data agent in ChatGPT Work⁠(opens in a new window) to help more people answer those questions themselves. It connects to your company data, investigates what changed, and builds interactive dashboards you can share. Direct and refine the analysis in one conversation, without writing queries or learning a new analytics tool.\n\nThe Data agent connects to approved data sources including Amazon Redshift, Datadog, Google BigQuery, ClickHouse, Databricks, MongoDB, Snowflake, and more. It can also bring files and documents from Google Drive and SharePoint into the analysis.\n\nIt uses your organization’s business terms, metric definitions, custom calculations, and data relationships to interpret the data. This context comes from semantic layers and trusted sources such as Databricks Genie Ontology, dbt, GitHub, Snowflake Horizon, and BI dashboards.\n\nEnterprise administrators choose which data connections are available and which roles can use them. Queries enforce the connected account’s existing permissions, including table, row, and column restrictions.\n\nAsk follow-up questions to investigate the results and review the evidence behind each finding.\n\nTurn the analysis into an interactive dashboard with built-in visualizations. Your team can edit, share, and refresh it as needed. Share your brand guidelines to tailor outputs to your organization’s look and feel.\n\nThe Data agent can also build and interact with dashboards in Omni, Oracle BI, Power BI, Sigma, Tableau, and ThoughtSpot. Direct the work in plain language in the tools your team already uses.\n\nAsk ChatGPT Work to recommend next steps and identify who needs to be involved. It can share the findings through Slack or email and carry out the actions you approve through connected tools.\n\nWe use the capabilities behind the Data agent broadly across OpenAI. Nearly all of our product team and over two-thirds of our GTM organization use data agents in ChatGPT Work to analyze company data themselves. Our data team made this possible by creating shared business definitions, setting access rules, and putting safeguards in place for sensitive data. Learn more by reading this post⁠(opens in a new window) and attending our webinar⁠(opens in a new window).\n\nNTT Data, Thermo Fisher, ServicePiston, and other organizations in our Alpha program are using the Data agent in ChatGPT Work to analyze sales and spending, catch reporting errors, and decide which opportunities to pursue and how to staff them.\n\nYou’ll find the Data agent listed as Data⁠(opens in a new window) in the Plugins directory in ChatGPT Work. Administrators can make it available or install it for their teams through Workspace settings > Plugins. They can also enable and configure the relevant data-source plugins, such as Databricks and Snowflake, and manage who can use them.\n\nIf Data isn’t already installed, find it in the Plugins directory and select Install plugin, or go directly to the Data listing⁠(opens in a new window). Complete any required account-connection steps, then start a conversation with @Data and ask your business question.\n\nDiagnose a metric change\n\n@Data Diagnose why weekly active users changed last week. Identify likely drivers, compare against prior periods, and recommend the next checks.\n\nDesign KPI framework\n\n@Data Design a KPI framework for this new product area with primary metrics, drivers, guardrails, targets, and data validation needs.\n\nCreate leadership readout\n\n@Data Turn this month’s metrics into a leadership-ready update with actuals, comparisons, drivers, caveats, and recommended actions.",
+        "fullTranslation": "认识 ChatGPT Work 中全新的 Data 智能体：只需开口提问，即可将贵公司的数据转化为答案、交互式仪表板以及实际行动。\n\n各行各业的员工都会遇到需要数据来解答的疑问。为什么销售额放缓了？哪些方面的支出在增加？哪些问题威胁到了我们大客户的续约，我们应该优先解决什么？获得这些答案通常意味着需要等待一份报告，或是拜托其他人进行分析。\n\n我们正在 ChatGPT Work 中推出全新的 Data 智能体，以帮助更多人亲自动手解答这些问题。它能够连接到贵公司的数据，调查发生了什么变化，并构建可供分享的交互式仪表板。只需在单次对话中指导并完善分析，无需编写查询语句，也无需学习新的分析工具。\n\nData 智能体可连接至已获批准的数据源，包括 Amazon Redshift、Datadog、Google BigQuery、ClickHouse、Databricks、MongoDB、Snowflake 等。它还能将来自 Google Drive 和 SharePoint 的文件与文档纳入分析。\n\n它利用贵组织的业务术语、指标定义、自定义计算和数据关系来解读数据。这些上下文背景来自语义层和受信任的数据源，例如 Databricks Genie Ontology、dbt、GitHub、Snowflake Horizon 以及商业智能（BI）仪表板。\n\n企业管理员可以选择哪些数据连接可用，以及哪些角色可以使用它们。查询将严格执行已连接账户现有的权限，包括表、行和列级别的限制。\n\n你可以提出后续跟进问题来深入探究结果，并审查每个发现背后的事实依据。\n\n将分析转化为带有内置可视化图表的交互式仪表板。你的团队可以根据需要对其进行编辑、共享和刷新。分享贵品牌的视觉准则，即可定制契合贵组织视觉风格的输出内容。\n\nData 智能体还可以在 Omni、Oracle BI、Power BI、Sigma、Tableau 和 ThoughtSpot 中构建仪表板并与之交互。用通俗易懂的自然语言，在你团队已有的工具中直接指导工作。\n\n让 ChatGPT Work 推荐后续步骤，并确定需要哪些人员参与。它可以通过 Slack 或电子邮件分享调查结果，并在获得你批准后通过已连接的工具执行操作。\n\n我们在 OpenAI 内部广泛应用了 Data 智能体背后的能力。我们几乎所有的产品团队以及超过三分之二的市场拓展（GTM）团队都在使用 ChatGPT Work 中的数据智能体来自行分析公司数据。我们的数据团队通过创建共享的业务定义、设定访问规则并为敏感数据设置安全防护措施，才使得这一切成为可能。阅读本文并参加我们的在线研讨会以了解更多信息。\n\nNTT Data、赛默飞世尔（Thermo Fisher）、ServicePiston 以及参与我们 Alpha 计划的其他组织，目前正在使用 ChatGPT Work 中的 Data 智能体来分析销售和支出、排查报告错误，并决定应争取哪些业务机会以及如何配置人员。\n\n你可以在 ChatGPT Work 的插件目录中找到名为 Data 的智能体。管理员可以通过“工作区设置 > 插件”为团队启用或安装它。他们还可以启用并配置相关的数据源插件（如 Databricks 和 Snowflake），并管理其使用权限。\n\n如果尚未安装 Data，请在插件目录中找到它并选择“安装插件”，或直接前往 Data 的插件详情页。完成所需的账户连接步骤后，即可与 @Data 发起对话，并提出你的业务问题。\n\n诊断指标变化\n@Data 诊断上周每周活跃用户数（WAU）变化的原因。找出可能的影响因素，与以往周期进行对比，并推荐下一步应排查的项目。\n\n设计 KPI 框架\n@Data 为这个新产品领域设计一个 KPI 框架，包含核心指标、驱动因素、风控护栏、目标值以及数据校验需求。\n\n生成汇报材料\n@Data 将本月的各项指标转化为适合向管理层汇报的进展更新，包含实际业绩、数据对比、驱动因素、注意事项以及建议采取的行动。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "OpenAI在ChatGPT Work中推出了新的Data agent，允许用户通过自然语言连接公司数据、进行分析并生成交互式仪表板。",
+          "Data agent支持连接经过批准的数据源，包括Amazon Redshift、Datadog、Google BigQuery、ClickHouse、Databricks、MongoDB、Snowflake等，并支持引入Google Drive和SharePoint中的文件与文档。",
+          "来源叙事重点：重点宣传在ChatGPT Work中推出的新Data agent，强调其通过自然语言直接连接多源企业数据、生成交互式仪表板与自动化行动的能力，突出其权限控制安全性和在OpenAI内部及早期客户（如NTT Data、Thermo Fisher）中的广泛落地效果。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:00:00.000Z",
+            "url": "https://openai.com/index/put-data-to-work"
+          }
+        ]
+      },
+      {
+        "id": "story-blocks-to-investors-html-43f21f2b60a37d7e",
+        "title": "塞内加尔将向投资者推出109个油气区块",
+        "originalTitle": "Senegal to Offer 109 Oil and Gas Blocks to Investors",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:30:00.000Z",
+        "pubTime": "2026-09-10 23:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Senegal-to-Offer-109-Oil-and-Gas-Blocks-to-Investors.html",
+        "imageUrl": null,
+        "fullContent": "Senegal will offer to local and foreign investors as many as 109 oil and gas blocks, Energy and Petroleum Minister, El Hadji Abdourahmane Diouf, has said. Only four out of the West African country&rsquo;s 113 oil and gas blocks are currently contracted, the official told a local TV channel. &ldquo;The remaining 109 will be put on the market,&rdquo; the minister said, as carried by Reuters. &ldquo;The president&rsquo;s plan is to create local leaders in the energy, oil and gas sectors,&rdquo; Diouf added. [GooglePreferredSource] Several oil and gas discoveries offshore Senegal in the past decade have kickstarted the petroleum industry in the African country, which saw its first oil project launched in 2024, while LNG exports were launched a year later from a gas project offshore Senegal and Mauritania. The start-up of Senegal&rsquo;s first ever oil project in 2024 pushed economic growth to a record high. Australia-based Woodside Energy achieved first oil at the Sangomar oil project in June 2024. The Sangomar Field Development Phase 1 is a deepwater project including a stand-alone floating production storage and offloading FPSO facility with a nameplate capacity of 100,000 barrels per day bpd and subsea infrastructure that is designed to allow subsequent development phases, Woodside says. &ldquo;First oil from the Sangomar field marks a new era not only for our country's industry and economy, but most importantly for our people,&rdquo; Thierno Ly, general manager of Senegal&rsquo;s national oil company Petrosen said at the time. A year later, BP, as the operator, safely loaded the first LNG cargo for export from Phase 1 of its Greater Tortue Ahmeyim project offshore Mauritania and Senegal. Phase 1 at Greater Tortue Ahmeyim GTA is set to produce around 2.3 million tons of LNG per year and the project is expected to produce LNG for more than 20 years, BP says. By Charles Kennedy for Oilprice.com",
+        "fullTranslation": "塞内加尔能源与石油部长埃尔·哈吉·阿卜杜拉赫曼·迪乌夫（El Hadji Abdourahmane Diouf）表示，塞内加尔将向本土和外国投资者推出多达109个油气区块。这位官员向当地一家电视频道表示，在这个西非国家的113个油气区块中，目前仅有4个已签订合同。\n\n路透社援引该部长的话报道称：“其余109个区块将推向市场。”迪乌夫补充道：“总统的计划是在能源、石油和天然气领域培育本土领跑者。”\n\n过去十年中，塞内加尔近海的多次油气发现推动了这个非洲国家的石油工业起步。该国于2024年启动了首个石油项目，并在一年后通过塞内加尔与毛里塔尼亚近海的一处天然气项目开启了液化天然气（LNG）出口。\n\n塞内加尔有史以来的首个石油项目于2024年投产，推动该国经济增长创下历史新高。总部位于澳大利亚的伍德赛德能源公司（Woodside Energy）于2024年6月在桑戈马尔（Sangomar）石油项目产出首批原油。伍德赛德表示，桑戈马尔油田一期开发是一个深水项目，包括一艘额定日产能10万桶的独立浮式生产储卸油装置（FPSO）以及旨在支持后续开发阶段的水下基础设施。\n\n塞内加尔国家石油公司（Petrosen）总经理蒂埃诺·利（Thierno Ly）当时表示：“桑戈马尔油田产出首批原油，不仅标志着我国工业和经济迈入新时代，最重要的是对我们的人民意义重大。”\n\n一年后，作为作业者的英国石油公司（BP）在毛里塔尼亚与塞内加尔近海的大托尔图-阿赫梅因（Greater Tortue Ahmeyim，简称 GTA）一期项目中，安全装运了首批用于出口的液化天然气货物。BP表示，GTA一期项目计划年产约230万吨液化天然气，且该项目预计开采生产期将超过20年。\n\n作者：Charles Kennedy（为 Oilprice.com 撰稿）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "塞内加尔能源和石油部长埃尔·哈吉·阿卜杜拉赫曼·迪乌夫表示，塞内加尔将向本国及外国投资者提供多达109个油气区块。",
+          "塞内加尔全国共有113个油气区块，目前仅有4个已签订合同，剩余109个将推向市场。",
+          "来源叙事重点：聚焦塞内加尔油气行业的投资机遇与增长动能，以标志性项目（Sangomar原油与GTA天然气）的投产成果为背书，突显该国向市场大规模释放上游油气勘探区块的商业吸引力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Senegal-to-Offer-109-Oil-and-Gas-Blocks-to-Investors.html"
+          }
+        ]
+      },
+      {
+        "id": "story-misc-domains-e43d375c46e69c7b",
+        "title": "关于网络钓鱼的吐槽：这不是用户的错（也不是DNS的错）",
+        "originalTitle": "A rant about phishing: It's not the user's fault (and not DNS either)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:14:48.000Z",
+        "pubTime": "2026-09-10 23:14",
+        "url": "https://maurycyz.com/misc/domains/",
+        "imageUrl": null,
+        "fullContent": "\"For safety, don't click suspicious links\"\n\nAll an attacker needs to do is write a website with a password box and the company logo. The URL doesn't matter at all because users learn to ignore it.\n\nI'll admit that URLs aren't the most intuitive things, because the reading direction alternates. Hostname and scheme start specific and become more general, while the path is the other way around:\n\nAs a result of this syntax, the important bit (the second level domain) is in the middle of the URL. This is something non-technical users must be taught: simply telling them to \"avoid suspicious links\" isn't enough.\n\nHowever, the whole excersise is useless if hostname isn't a reliable indicator.\n\nFor users to have any chance of spotting a scam...\n\nAn organization MUST use a single, well recognized, root domain. Internal services MUST be on subdomains of the root and MUST NOT use URLs like:\n\nLinks sent by email or SMS MUST be under the recognizable domain. If it's absolutely necessary to point users somewhere else, create a local redirect or link:\n\nThis does not mean everything has to be hosted by the organization: many services allow bringing your own domain and links are free.\n\nThis rule also applies to phone numbers: do not send an SMS or email telling the user to \"call 0491-570-006\", because there's no way to know it's not a scam. Contact details MUST be provided on a web page linked from the original message.\n\nThe key words \"MUST\", \"MUST NOT\", \"REQUIRED\", \"SHALL\", \"SHALL NOT\", \"SHOULD\", \"SHOULD NOT\", \"RECOMMENDED\", \"MAY\", and \"OPTIONAL\" in this document are to be interpreted as described in RFC 2119...\n\nThe hostname situation has gotten so bad that I've seen people arguing that it's a problem that subdomains exist, because it allows criminals to impersonate anyone they want with no oversight.\n\nDNS is a hierarchical system who's structure hasn't changed in 40+ years:\n\nThere should absolutely no confusion over who runs any given website... except that it has become standard practice to put great effort into making legitimate sites indistinguishable from scams.\n\n(not even governments consistently use their assigned TLDs)",
+        "fullTranslation": "“为了安全，切勿点击可疑链接”\n攻击者所需要做的，只是写一个带有密码输入框和公司Logo的网页。URL根本无关紧要，因为用户早就学会了忽略它。\n我承认URL并不是最直观的东西，因为其阅读方向是交替变化的。主机名和协议方案从具体走向宽泛，而路径的逻辑则正好相反：\n由于这种语法的存在，关键部分（二级域名）落在了URL的中间。这是必须向非技术用户普及的内容：仅仅告诫他们“避开可疑链接”是远远不够的。\n然而，如果主机名本身无法作为可靠的指示指标，那么这一切努力都将徒劳无功。\n为了让用户有机会识别骗局……\n机构“必须”（MUST）使用单一、广为人知的根域名。内部服务“必须”（MUST）置于该根域名的子域名之下，“绝不可”（MUST NOT）使用如下URL：\n通过电子邮件或短信发送的链接“必须”（MUST）属于该可识别的域名。如果确实有绝对必要将用户引导至其他地方，请创建本地重定向或链接：\n这并不意味着所有内容都必须由该机构亲自托管：许多服务支持自定义域名，并且链接是免费的。\n该规则同样适用于电话号码：切勿发送短信或邮件让用户“拨打 0491-570-006”，因为用户根本无法确认这不是诈骗。联系方式“必须”（MUST）在原始信息所链接的网页上提供。\n本文档中的关键用词“必须”（MUST）、“绝不可”（MUST NOT）、“必要”（REQUIRED）、“应当”（SHALL）、“应当不”（SHALL NOT）、“应该”（SHOULD）、“应该不”（SHOULD NOT）、“推荐”（RECOMMENDED）、“可以”（MAY）以及“可选”（OPTIONAL）均应按照 RFC 2119 中的说明进行解释……\n主机名混乱的现状已经恶化到了这种地步：我甚至见过有人争论说子域名的存在本身就是一个问题，因为这让犯罪分子能够在缺乏监管的情况下随意冒充任何人。\nDNS是一个分层系统，其结构40多年来未曾改变：\n对于究竟是谁在运营某个特定网站，本应绝无混淆的可能……然而，现实中竭尽全力让正规合法网站看起来与诈骗网站无异，却反倒成了标准操作。\n（甚至连政府机构都未能始终如一地使用为其分配的顶级域名）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "DNS（域名系统）是一个分层系统，其基本结构已有40多年未发生改变。",
+          "RFC 2119 规定了解释“MUST”、“MUST NOT”、“REQUIRED”等关键词的标准方式。",
+          "来源叙事重点：批评当前将钓鱼防护责任转嫁给普通用户的做法，指出组织机构混乱的域名管理策略与URL结构设计缺陷才是导致钓鱼攻击屡禁不止的根源，并借用RFC规范用语呼吁建立严格的单根域名管理标准。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:14:48.000Z",
+            "url": "https://maurycyz.com/misc/domains/"
+          }
+        ]
+      },
+      {
+        "id": "story-tional-resisting-ai-html-89cd71e2a79388b8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "There's nothing irrational about resisting AI",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:40:04.000Z",
+        "pubTime": "2026-09-10 23:40",
+        "url": "https://phys.org/news/2026-09-irrational-resisting-ai.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2021/ai-2.jpg",
+        "fullContent": "If you read about AI, you'll find a widespread belief: When people don't want to use AI, it's because they're afraid or just don't understand it. They're afraid of losing their jobs or of change generally. Or they don't understand the technology, so they can't see the benefits. They're stuck in the past.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 23:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-irrational-resisting-ai.html",
+            "publishedAt": "2026-09-10T15:40:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1-a3f9-1647ea518d37-html-ad5e1c7fe48476fc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Rubio in Perù, atteso sostegno su lotta a criminalità ed emergenza El Niño",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-10T15:47:01.000Z",
+        "pubTime": "2026-09-10 23:47",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/rubio-in-peru-atteso-sostegno-su-lotta-a-criminalita-ed-emergenza-el-nino_401e23eb-9e81-4be1-a3f9-1647ea518d37.html",
+        "imageUrl": null,
+        "fullContent": "\"Al momento ci sono due preoccupazioni fondamentali per la maggior parte dei peruviani. In primo luogo, la questione dell'insicurezza pubblica e la lotta contro le organizzazioni criminali transnazionali. In secondo luogo, il fenomeno El Niño (...) Queste sono le due principali priorità per i peruviani in questo momento e il segretario Rubio è qui per fare annunci importanti riguardo al sostegno degli Stati Uniti al Perù su questi due fronti\". Lo ha affermato il ministro degli Esteri del Perù, Carlos Espá, dopo aver ricevuto il segretario di Stato Usa, Marco Rubio, al suo arrivo a Lima, dove incontrerà nelle prossime ore anche la presidente Keiko Fujimori. Rubio è nel paese andino dopo aver visitato in precedenza Colombia e Perù nel quadro di una missione volta a consolidare principalmente le alleanze in materia di sicurezza e lotta alla criminalità avviate con il programma 'Scudo delle Americhe'. Su questo fronte Espá ha confermato che \"anche il Perù aderirà ora allo Scudo delle Americhe\", e che nel quadro di tale meccanismo riceverà \"sostegno dagli Stati Uniti in termini di logistica, operazioni, intelligence e sicurezza informatica\".\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国国务卿马可·卢比奥（Marco Rubio）抵达秘鲁利马，秘鲁外交部长卡洛斯·埃斯帕（Carlos Espá）前往迎接。",
+          "秘鲁外长埃斯帕宣布秘鲁将加入“美洲之盾”（Scudo delle Americhe）计划。",
+          "来源叙事重点：聚焦美国国务卿卢比奥访问秘鲁的外交与安全合作议程，侧重转述秘鲁官方（外长埃斯帕）对于加入“美洲之盾”计划、获取美方安全与防灾（厄尔尼诺）支持的积极预期与重大通报预告"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-10T15:47:01.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/rubio-in-peru-atteso-sostegno-su-lotta-a-criminalita-ed-emergenza-el-nino_401e23eb-9e81-4be1-a3f9-1647ea518d37.html"
+          }
+        ]
+      },
+      {
+        "id": "story--5g-ultra-4-preorder-buy-fac7116961818542",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:00:00.000Z",
+        "pubTime": "2026-09-10 23:00",
+        "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0035.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nLonger battery life and a more capable chipset (that enables a host of new features) are the main reasons to upgrade.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Cameron Faulkner\n\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\n\nThe iPhone Duo was the unequivocal star of Apple’s “Surprise and shine” event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There’s no update to the SE model for 2026, which isn’t necessarily a bad thing (the SE 3 rules). Also, no price changes either, which can’t be said for the entire iPhone lineup.\n\nWhile both new watches look similar to their predecessors, there are a number of updates under the hood that might intrigue some people enough to warrant a preorder. My colleague Victoria Song got hands-on with both smartwatches, and runs down the biggest changes, from the Audio Intelligence features made possible by the S11 chip (included in the Series 12 and Ultra 4), plus the possible impact of its improved sensors and tracking capabilities.\n\nSee All Apple Event 2026\n\nSee All Verge Shopping\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的帖子将被添加到您的每日邮件摘要和主页信息流中。\n\n更长的电池续航时间以及性能更强大的芯片组（支持大量新功能）是升级的主要理由。\n\n来自该作者的帖子将被添加到您的每日邮件摘要和主页信息流中。\n\n查看 Cameron Faulkner 的所有文章\n\n如果您通过 Verge 链接购买商品，Vox Media 可能会赚取佣金。请参阅我们的道德声明。\n\niPhone Duo 毫无疑问是苹果“惊艳闪耀”（Surprise and shine）发布会上的焦点，但对于主要关注可穿戴设备动态的人来说并非如此。值得庆幸的是，苹果关于其新款 Apple Watch Series 12 和 Ultra 4 有很多内容可分享。2026 年 SE 型号并未迎来更新，这未必是件坏事（SE 3 依然很强）。此外，价格也均未变动，而整个 iPhone 产品线则并非如此。\n\n尽管这两款新智能手表外观与前代相似，但在内部配置上带来了诸多更新，可能足以吸引一些人立即预购。我的同事 Victoria Song 已经对这两款智能手表进行了真机体验，并详细梳理了最大的变化，从 S11 芯片（配备于 Series 12 和 Ultra 4）带来的音频智能（Audio Intelligence）功能，到其改良后的传感器和追踪性能可能带来的影响。\n\n查看 2026 苹果发布会全部内容\n\n查看 Verge Shopping 全部内容\n\n免费获取每日重要新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "苹果在“Surprise and shine”发布会上公布了新款 Apple Watch Series 12 和 Ultra 4 智能手表。",
+          "苹果在2026年没有推出 Apple Watch SE 的更新款式。",
+          "来源叙事重点：聚焦苹果秋季发布会中可穿戴设备的更新点，突出 Apple Watch Series 12 与 Ultra 4 的内在升级（S11 芯片、音频智能、传感器与续航）及维持原价的购买价值，引导用户进行预购。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:00:00.000Z",
+            "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy"
+          }
+        ]
+      },
+      {
+        "id": "story-reasury-jitters-4209f805-9901c2f31da57f3e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:25:00.000Z",
+        "pubTime": "2026-09-10 23:25",
+        "url": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "If you looking for high income in the bond market, without paying taxes, here’s how you figure out how much interest you’re actually being paid.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 23:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T15:25:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--07-xteink-x4-pro-review-435dc4dcf149d705",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Xteink X4 Pro review",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:05:43.000Z",
+        "pubTime": "2026-09-10 23:05",
+        "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+        "imageUrl": null,
+        "fullContent": "I just bought an Xteink X4 Pro e-reader that snaps onto the back of my phone using MagSafe.\n\nI’ve been trying to do more reading as of late, and I hoped that having a dedicated reading device would aid me in that venture. Well, I’m very glad to say that it has!\n\nHere are some thoughts about the device.\n\nAs the old adage goes, the best book you have is the one you’re carrying. If it broke today, I’d probably go out and buy another one.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Xteink X4 Pro 是一款可以通过 MagSafe 吸附在手机背面的电子阅读器。",
+          "作者购买了 Xteink X4 Pro 电子阅读器用于协助增加阅读量。",
+          "来源叙事重点：聚焦于通过 MagSafe 磁吸在手机背面的 Xteink X4 Pro 电子阅读器的便携性体验，强调该形态对其个人阅读习惯养成的正面促进，并表达极高的购买满意度。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:05:43.000Z",
+            "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-olitsija-2116897367-html-7098bbc2475bad09",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Екатеринбурге проверяют информацию о стрельбе по троллейбусу",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T15:48:25.000Z",
+        "pubTime": "2026-09-10 23:48",
+        "url": "https://ria.ru/20260910/politsija-2116897367.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/07/18/1961799913_0:26:3594:2048_650x0_80_0_0_2decd113457195d7dd43878a2fe9cf02.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 23:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/politsija-2116897367.html",
+            "publishedAt": "2026-09-10T15:48:25.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-3b-in-round-led-by-uae-6b71f40ca10cce71",
+        "title": "The Boring Company获阿联酋领投的30亿美元融资",
+        "originalTitle": "The Boring Company raises $3B in round led by UAE",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:07:27.000Z",
+        "pubTime": "2026-09-10 23:07",
+        "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+        "imageUrl": null,
+        "fullContent": "Elon Musk’s tunneling play, The Boring Company, has raised a $3 billion Series D funding round that pushes its valuation to $23 billion.\n\nThe round was led by the United Arab Emirates. The Boring Company said Thursday that it now plans to dig more than 150 kilometers of tunnels in the Middle Eastern country. Andreessen Horowitz, Sequoia Capital, Human Capital, Vy Capital, and Valor Equity partners also participated.\n\nThe Wall Street Journal reported in July that The Boring Company was looking to raise as much as $4 billion.\n\nThe Boring Company has done most of its digging to date in Las Vegas, Nevada, where it operates a handful of tunnels that connect hotel casinos and the convention center. It recently started work on a project in Nashville, Tennessee that will involve a 10-mile “loop” underground.\n\nThe company has stated that its goal is to “solve traffic” by moving vehicle travel into an underground, three-dimensional network of tunnels.\n\nDon’t miss out. The startup community will gather to answer a pivotal question: How do you build sustainably in the AI era?\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "埃隆·马斯克旗下的地下隧道企业 The Boring Company 已完成 30 亿美元的 D 轮融资，该轮融资将其估值推高至 230 亿美元。\n\n本轮融资由阿拉伯联合酋长国领投。The Boring Company 周四表示，公司目前计划在这个中东国家挖掘超过 150 公里的隧道。Andreessen Horowitz、红杉资本（Sequoia Capital）、Human Capital、Vy Capital 以及 Valor Equity Partners 也参与了投资。\n\n《华尔街日报》曾于 7 月报道称，The Boring Company 当时寻求筹集高达 40 亿美元的资金。\n\n迄今为止，The Boring Company 的大部分挖掘作业都在内华达州拉斯维加斯开展，公司在当地运营着连接赌场酒店与会展中心的多条隧道。近期，该公司在田纳西州纳什维尔启动了一个项目，其中包括一条长约 10 英里的地下“环线”（loop）。\n\n该公司曾表示，其目标是通过将地面车辆交通转移至地下三维隧道网络来“解决交通问题”。\n\n不容错过。初创社群即将齐聚一堂，共同回答一个核心问题：在 AI 时代，你该如何实现可持续构建？\n\n每个工作日和周日，您都可以获取 TechCrunch 的精选报道。\n\nTechCrunch Mobility 是您获取交通出行新闻和行业洞察的理想之选。\n\n初创企业是 TechCrunch 的核心，欢迎订阅获取我们每周精选送达的深度报道。\n\n为行业领袖及推动者提供开启新一天所需的关键资讯。\n\n提交您的电子邮件，即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "埃隆·马斯克旗下的隧道挖掘公司 The Boring Company 完成了 30 亿美元的 D 轮融资，估值达 230 亿美元。",
+          "该轮融资由阿联酋（United Arab Emirates）领投。",
+          "来源叙事重点：报道埃隆·马斯克旗下 The Boring Company 完成由阿联酋领投的30亿美元D轮融资（估值达230亿美元），重点展示该交易带来的海外业务扩张（阿联酋150公里隧道规划）及现有拉斯维加斯、纳什维尔项目的最新进展"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:07:27.000Z",
+            "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/"
+          }
+        ]
+      },
+      {
+        "id": "story-r-stocks-either-bdfa13bb-719da32eaa4a9402",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:34:00.000Z",
+        "pubTime": "2026-09-10 23:34",
+        "url": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Renewable-energy mandates in blue states are a major driver of higher electricity bills, adding directly to the cost-of-living problem.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 23:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T15:34:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ough-assisted-dying-bill-f8e0da0afef4e7fb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "MPs on both sides urge Commons not to take ‘extraordinary risk’ of forcing through assisted dying bill",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:25:45.000Z",
+        "pubTime": "2026-09-10 23:25",
+        "url": "https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill",
+        "imageUrl": "https://i.guim.co.uk/img/media/5396e4a6c389bfb3fd51b409b74b477e49118158/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=5e78cf8a22d6d6f937cd0aa25e0f0c6f",
+        "fullContent": "Labour MPs Gareth Snell and Meg Hillier say Lords must be allowed to fulfil duty in scrutinising bill on serious public issue\n\nUK politics live – latest updates\n\nMPs who voted for and against assisted dying have urged their respective sides not to take the “extraordinary risk” of forcing through the bill using an obscure parliamentary procedure if it continues to be blocked by the Lords.\n\nTwo Labour MPs have written a warning letter to colleagues in the crucial hours before the next vote on Friday: Gareth Snell, who voted in favour of the bill, and Meg Hillier, who voted against.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "工党议员加雷斯·斯内尔（Gareth Snell）和梅格·希利尔（Meg Hillier）敦促下议院不要采取“非同寻常的风险”，即如果协助自杀法案继续遭到上议院阻挠，不要利用晦涩的议会程序强行通过该法案。",
+          "斯内尔和希利尔表示，必须允许上议院履行其对这一重大公共议题法案进行审查的职责。",
+          "来源叙事重点：报道聚焦跨党派/跨立场议员在关键表决前的程序呼吁，重点强调两名立场相反的工党议员联合警告：不要利用罕见程序绕过上议院审查强推协助自杀法案"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:25:45.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill"
+          }
+        ]
+      },
+      {
+        "id": "story-s-potential-trigger-html-3c6d9e67f8957e78",
+        "title": "太阳最大的太阳黑子或具备引发超级耀斑的潜能",
+        "originalTitle": "Sun's largest sunspots may have potential to trigger superflares",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:40:06.000Z",
+        "pubTime": "2026-09-10 23:40",
+        "url": "https://phys.org/news/2026-09-sun-largest-sunspots-potential-trigger.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/sun-new-evidence-of-su.jpg",
+        "fullContent": "by Max Planck Society\n\nedited by Sadie Harley, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nThe sun is capable of great things. In massive eruptions, it repeatedly hurls particles and radiation into space. This solar bombardment can be dangerous for technical infrastructure on Earth: For example, satellites and transformers in substations can be damaged.\n\nThe sun offered an impressive demonstration of its strength in 1859. The solar storm that struck Earth during the so-called Carrington Event was so powerful that auroras were visible as far as the Caribbean, and sparks flew from the receivers in telegraph offices.\n\nBut can the sun accomplish even more? Can it rage even more violently and generate so-called superflares? These are bursts of radiation that release more energy than trillions of hydrogen bombs and have so far been observed directly only on distant stars.\n\nResearchers at the Max Planck Institute for Solar System Research (MPS) in Germany and the University of Colorado in the U.S. explore this question in their latest paper, published in the journal Philosophical Transactions of the Royal Society A, and find further evidence of our star's eruptive skills.\n\nThe amount of energy the sun releases during a flare can be measured directly only outside Earth's atmosphere or determined indirectly from data and images from space probes. Both have been possible only since the beginning of the space age about 70 years ago. There has been no superflare since then. But this period is merely the blink of an eye in the life of our 4.6-billion-year-old star.\n\n\"There is some evidence to suggest that the sun, too, can produce superflares at great intervals. However, there is no direct proof,\" explained MPS scientist Natalie Krivova, lead author of the new study.\n\nSuch clues can be found, for example, by looking at the sun's peer group, which comprises many thousands of stars. In late 2024, researchers at the MPS were able to show that superflares occur about once a century on stars that resemble the sun in key characteristics.\n\nNatural archives of solar activity also point to our star's tempestuous nature: Isolated, short-lived and exceptionally strong spikes in the concentrations of radioactive isotopes in historical tree trunks or in ice cores from the Arctic's permafrost suggest that Earth has repeatedly been exposed to particularly intense bombardment by high-energy solar particles in the past.\n\nIt is unclear whether these extreme particle eruptions were accompanied by superflares. A flare itself, no matter how strong, leaves no long-term traces.\n\n\"According to the current state of research, extreme particle eruptions and particularly intense flares often—but not always—occur together,\" explained MPS scientist Valeriy Vasilyev. He is the lead author of a review article on this topic, also published in Philosophical Transactions of the Royal Society A.\n\nIn their new publication, the research team led by Krivova took a new approach to gauging the sun's potential for violent activity. They analyzed observational data collected by NASA's Solar Dynamics Observatory from 2010 to 2016.\n\nThe team correlated the amount of energy released by the 300 strongest flares during this period with the size of the corresponding active region on the sun's visible surface. These are areas where the magnetic field is particularly strong and complex in structure. Active regions are associated with sunspots—dark areas on the sun's surface—and are considered potential starting points for eruptions.\n\n\"Of course, we knew that no superflares had occurred during the observation period,\" explained Krivova. \"But the statistical relationship we found between the released energy and the size of the active region should hold true for more powerful events as well,\" she added.\n\nIn a second step, the researchers turned their attention to the largest known sunspots that have ever covered our star. \"Sunspots have been systematically and regularly recorded for about 400 years,\" said MPS scientist Theodosios Chatzistergos, a co-author of the new study.\n\nThey offer us another way to look into the history of our star, he added. Based on the size of the sunspot, the researchers were able to infer the size of the associated active region—and thus the strength of a possible eruption. They were particularly interested in the rare outliers with exceptionally high energy.\n\nOne of the largest sunspots the sun has displayed since the beginning of systematic solar observations was the large sunspot of April 1947. It covered approximately 0.6% of the visible solar disk; its diameter was about 40 times that of Earth's. There was no superflare at that time. But the new study shows that a sunspot of this size can trigger a superflare in statistically rare cases.\n\n\"Our sun has superflare potential. It can produce massive sunspots that, in principle, can serve as the starting point for the most extreme bursts of radiation,\" said Krivova.\n\nHas such a superflare ever actually occurred on the sun? That remains one of our star's mysteries.\n\nNatalie Krivova et al, Empirical flare energy limits for the largest historical sunspots, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0290\n\nValeriy Vasilyev et al, Linking solar magnetism, extreme solar particle events and stellar superflares, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0261\n\nJournal information: Philosophical Transactions of the Royal Society A\n\nProvided by Max Planck Society\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "来源：马克斯·普朗克学会\n编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策进行了审阅。编辑在确保内容可信度的同时强调了以下属性：\n经同行评审的出版物\n\n太阳拥有惊人的能量。在剧烈的爆发中，它反复将粒子与辐射抛射进太空。这种太阳风暴轰击可能对地球上的技术基础设施构成威胁：例如，卫星以及变电站中的变压器都可能遭到损坏。\n\n1859年，太阳曾令人印象深刻地展示了它的威力。在所谓的“卡灵顿事件”（Carrington Event）期间袭击地球的太阳风暴极其猛烈，以至于极光远至加勒比海地区都清晰可见，电报局的接收机甚至迸射出火花。\n\n但太阳还能表现得更惊人吗？它能否更剧烈地狂暴发作并产生所谓的“超级耀斑”（superflares）？这是一种辐射爆发，其释放的能量超过数万亿颗氢弹，迄今为止科学家仅在遥远的恒星上直接观测到过此类现象。\n\n德国马克斯·普朗克太阳系研究所（MPS）和美国科罗拉多大学的研究人员在发表于《英国皇家学会哲学汇刊A辑》（Philosophical Transactions of the Royal Society A）上的最新论文中探讨了这一问题，并找到了关于我们这颗恒星具有爆发能力的进一步证据。\n\n太阳在耀斑期间释放的能量只能在地球大气层外直接测量，或者通过太空探测器的数据和图像间接确定。这两种方法都是在大约70年前太空时代开启后才成为可能。从那时起，太阳还未发生过超级耀斑。但在这颗拥有46亿年历史的恒星的漫长岁月中，这段时间仅仅是白驹过隙。\n\n“有一些迹象表明，太阳也可能以极长的时间间隔产生超级耀斑。然而，目前尚无直接证据，”该新研究的第一作者、MPS科学家娜塔莉·克里沃娃（Natalie Krivova）解释道。\n\n例如，通过观察包含数千颗恒星的太阳“同类群”就可以找到此类线索。2024年底，MPS的研究人员证实，在关键特征上与太阳相似的恒星大约每个世纪就会发生一次超级耀斑。\n\n记录太阳活动的“天然档案”也揭示了这颗恒星狂暴的一面：历史树干或北极多年冻土冰芯中放射性同位素浓度出现孤立、短暂且异常强烈的峰值，表明地球在过去曾多次遭受尤为强烈的高能太阳粒子轰击。\n\n目前尚不清楚这些极端粒子爆发是否伴随有超级耀斑。耀斑本身无论多么强烈，都不会留下长期的物理痕迹。\n\n“根据当前的研究现状，极端粒子爆发与特别强烈的耀斑往往——但并非总是——相伴发生，”MPS科学家瓦列里·瓦西里耶夫（Valeriy Vasilyev）解释说。他也是发表在《英国皇家学会哲学汇刊A辑》上的相关主题综述文章的第一作者。\n\n在最新的研究中，克里沃娃领导的研究团队采用了一种评估太阳剧烈活动潜力的新方法。他们分析了美国宇航局（NASA）太阳动力学天文台（SDO）在2010年至2016年期间收集的观测数据。\n\n该团队将该时期最强烈的300次耀斑所释放的能量，与太阳可见表面相应活动区的面积进行了关联。这些活动区内的磁场异常强劲且结构复杂。活动区与太阳黑子（太阳表面的暗区）密切相关，被视为爆发潜在的策源地。\n\n“当然，我们知道在观测期内并未发生超级耀斑，”克里沃娃解释道，“但我们在释放能量与活动区大小之间发现的统计关系，应该同样适用于能量更强大的极端事件。”\n\n在第二步中，研究人员将注意力转向了人类已知曾覆盖我们太阳的最大太阳黑子。“人类系统且定期地记录太阳黑子已有约400年的历史，”该新研究的合著者、MPS科学家西奥多西奥斯·查齐斯特戈斯（Theodosios Chatzistergos）表示。\n\n他补充道，这为我们回溯恒星的历史提供了另一种视角。基于太阳黑子的面积，研究人员能够推断出相应活动区的规模，进而推测出潜在爆发的强度。他们对那些能量异常巨大的罕见极端情况尤为关注。\n\n自系统性太阳观测开展以来，太阳表面出现过的最大黑子之一是1947年4月的大黑子。它覆盖了可见日面大约0.6%的面积，其直径约为地球直径的40倍。当时并未发生超级耀斑。但这项新研究表明，从统计学上看，如此规模的太阳黑子在罕见情况下确实具备引发超级耀斑的潜力。\n\n克里沃娃表示：“我们的太阳具备产生超级耀斑的潜力。它能够形成巨大的太阳黑子，这些黑子在原则上可以作为最极端辐射爆发的起点。”\n\n太阳上是否真的曾发生过这样的超级耀斑？这仍然是我们这颗恒星留下的未解之谜之一。\n\nNatalie Krivova 等, Empirical flare energy limits for the largest historical sunspots, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0290\nValeriy Vasilyev 等, Linking solar magnetism, extreme solar particle events and stellar superflares, Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences (2026). DOI: 10.1098/rsta.2025.0261\n期刊信息：Philosophical Transactions of the Royal Society A\n由马克斯·普朗克学会提供\n生命科学与生态学学士。具备微生物实验室背景，在石油、天然气及可再生能源行业拥有医药新闻报道经验。查看完整个人资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学与语言持有独到见解。查看完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 28,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "1859年卡灵顿事件期间发生的太阳风暴威力强大，极光在加勒比海地区可见，电报局的接收器冒出火花。",
+          "超级耀斑释放的能量超过数万亿颗氢弹，迄今仅在遥远的恒星上被直接观测到。",
+          "来源叙事重点：通过将NASA观测到的耀斑能量与太阳黑子活动区尺寸建立统计关联，推断历史上如1947年记录的超大太阳黑子在原理上具备触发‘超级耀斑’的潜力，提示太阳潜在极端爆发对现代地球技术设施的威胁。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:40:06.000Z",
+            "url": "https://phys.org/news/2026-09-sun-largest-sunspots-potential-trigger.html"
+          }
+        ]
+      },
+      {
+        "id": "story-10-putin-2116897195-html-ba06fd0ec6ad702e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Путин поприветствовал участников фестиваля \"Без границ\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-10T15:47:51.000Z",
+        "pubTime": "2026-09-10 23:47",
+        "url": "https://ria.ru/20260910/putin-2116897195.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/01/2114503534_0:148:3072:1876_650x0_80_0_0_88bd759457c90aec7f66569bbacf3b85.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-10 23:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260910/putin-2116897195.html",
+            "publishedAt": "2026-09-10T15:47:51.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-index-put-data-to-work-6a886414536a09e3",
+        "title": "如今人人皆可让数据发挥效用",
+        "originalTitle": "Now everyone can put data to work",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:00:00.000Z",
+        "pubTime": "2026-09-10 23:00",
+        "url": "https://openai.com/index/put-data-to-work",
+        "imageUrl": null,
+        "fullContent": "Meet the new Data agent in ChatGPT Work: turn your company’s data into answers, interactive dashboards, and action, just by asking.\n\nPeople across every business have questions that data can answer. Why did sales slow down? Where is spending rising? Which issues threaten renewals in our largest accounts, and what should we fix first? Getting those answers often means waiting for a report or asking someone else to run the analysis.\n\nWe’re introducing a new Data agent in ChatGPT Work⁠(opens in a new window) to help more people answer those questions themselves. It connects to your company data, investigates what changed, and builds interactive dashboards you can share. Direct and refine the analysis in one conversation, without writing queries or learning a new analytics tool.\n\nThe Data agent connects to approved data sources including Amazon Redshift, Datadog, Google BigQuery, ClickHouse, Databricks, MongoDB, Snowflake, and more. It can also bring files and documents from Google Drive and SharePoint into the analysis.\n\nIt uses your organization’s business terms, metric definitions, custom calculations, and data relationships to interpret the data. This context comes from semantic layers and trusted sources such as Databricks Genie Ontology, dbt, GitHub, Snowflake Horizon, and BI dashboards.\n\nEnterprise administrators choose which data connections are available and which roles can use them. Queries enforce the connected account’s existing permissions, including table, row, and column restrictions.\n\nAsk follow-up questions to investigate the results and review the evidence behind each finding.\n\nTurn the analysis into an interactive dashboard with built-in visualizations. Your team can edit, share, and refresh it as needed. Share your brand guidelines to tailor outputs to your organization’s look and feel.\n\nThe Data agent can also build and interact with dashboards in Omni, Oracle BI, Power BI, Sigma, Tableau, and ThoughtSpot. Direct the work in plain language in the tools your team already uses.\n\nAsk ChatGPT Work to recommend next steps and identify who needs to be involved. It can share the findings through Slack or email and carry out the actions you approve through connected tools.\n\nWe use the capabilities behind the Data agent broadly across OpenAI. Nearly all of our product team and over two-thirds of our GTM organization use data agents in ChatGPT Work to analyze company data themselves. Our data team made this possible by creating shared business definitions, setting access rules, and putting safeguards in place for sensitive data. Learn more by reading this post⁠(opens in a new window) and attending our webinar⁠(opens in a new window).\n\nNTT Data, Thermo Fisher, ServicePiston, and other organizations in our Alpha program are using the Data agent in ChatGPT Work to analyze sales and spending, catch reporting errors, and decide which opportunities to pursue and how to staff them.\n\nYou’ll find the Data agent listed as Data⁠(opens in a new window) in the Plugins directory in ChatGPT Work. Administrators can make it available or install it for their teams through Workspace settings > Plugins. They can also enable and configure the relevant data-source plugins, such as Databricks and Snowflake, and manage who can use them.\n\nIf Data isn’t already installed, find it in the Plugins directory and select Install plugin, or go directly to the Data listing⁠(opens in a new window). Complete any required account-connection steps, then start a conversation with @Data and ask your business question.\n\nDiagnose a metric change\n\n@Data Diagnose why weekly active users changed last week. Identify likely drivers, compare against prior periods, and recommend the next checks.\n\nDesign KPI framework\n\n@Data Design a KPI framework for this new product area with primary metrics, drivers, guardrails, targets, and data validation needs.\n\nCreate leadership readout\n\n@Data Turn this month’s metrics into a leadership-ready update with actuals, comparisons, drivers, caveats, and recommended actions.",
+        "fullTranslation": "认识 ChatGPT Work 中全新的 Data 智能体：只需开口提问，即可将贵公司的数据转化为答案、交互式仪表板以及实际行动。\n\n各行各业的员工都会遇到需要数据来解答的疑问。为什么销售额放缓了？哪些方面的支出在增加？哪些问题威胁到了我们大客户的续约，我们应该优先解决什么？获得这些答案通常意味着需要等待一份报告，或是拜托其他人进行分析。\n\n我们正在 ChatGPT Work 中推出全新的 Data 智能体，以帮助更多人亲自动手解答这些问题。它能够连接到贵公司的数据，调查发生了什么变化，并构建可供分享的交互式仪表板。只需在单次对话中指导并完善分析，无需编写查询语句，也无需学习新的分析工具。\n\nData 智能体可连接至已获批准的数据源，包括 Amazon Redshift、Datadog、Google BigQuery、ClickHouse、Databricks、MongoDB、Snowflake 等。它还能将来自 Google Drive 和 SharePoint 的文件与文档纳入分析。\n\n它利用贵组织的业务术语、指标定义、自定义计算和数据关系来解读数据。这些上下文背景来自语义层和受信任的数据源，例如 Databricks Genie Ontology、dbt、GitHub、Snowflake Horizon 以及商业智能（BI）仪表板。\n\n企业管理员可以选择哪些数据连接可用，以及哪些角色可以使用它们。查询将严格执行已连接账户现有的权限，包括表、行和列级别的限制。\n\n你可以提出后续跟进问题来深入探究结果，并审查每个发现背后的事实依据。\n\n将分析转化为带有内置可视化图表的交互式仪表板。你的团队可以根据需要对其进行编辑、共享和刷新。分享贵品牌的视觉准则，即可定制契合贵组织视觉风格的输出内容。\n\nData 智能体还可以在 Omni、Oracle BI、Power BI、Sigma、Tableau 和 ThoughtSpot 中构建仪表板并与之交互。用通俗易懂的自然语言，在你团队已有的工具中直接指导工作。\n\n让 ChatGPT Work 推荐后续步骤，并确定需要哪些人员参与。它可以通过 Slack 或电子邮件分享调查结果，并在获得你批准后通过已连接的工具执行操作。\n\n我们在 OpenAI 内部广泛应用了 Data 智能体背后的能力。我们几乎所有的产品团队以及超过三分之二的市场拓展（GTM）团队都在使用 ChatGPT Work 中的数据智能体来自行分析公司数据。我们的数据团队通过创建共享的业务定义、设定访问规则并为敏感数据设置安全防护措施，才使得这一切成为可能。阅读本文并参加我们的在线研讨会以了解更多信息。\n\nNTT Data、赛默飞世尔（Thermo Fisher）、ServicePiston 以及参与我们 Alpha 计划的其他组织，目前正在使用 ChatGPT Work 中的 Data 智能体来分析销售和支出、排查报告错误，并决定应争取哪些业务机会以及如何配置人员。\n\n你可以在 ChatGPT Work 的插件目录中找到名为 Data 的智能体。管理员可以通过“工作区设置 > 插件”为团队启用或安装它。他们还可以启用并配置相关的数据源插件（如 Databricks 和 Snowflake），并管理其使用权限。\n\n如果尚未安装 Data，请在插件目录中找到它并选择“安装插件”，或直接前往 Data 的插件详情页。完成所需的账户连接步骤后，即可与 @Data 发起对话，并提出你的业务问题。\n\n诊断指标变化\n@Data 诊断上周每周活跃用户数（WAU）变化的原因。找出可能的影响因素，与以往周期进行对比，并推荐下一步应排查的项目。\n\n设计 KPI 框架\n@Data 为这个新产品领域设计一个 KPI 框架，包含核心指标、驱动因素、风控护栏、目标值以及数据校验需求。\n\n生成汇报材料\n@Data 将本月的各项指标转化为适合向管理层汇报的进展更新，包含实际业绩、数据对比、驱动因素、注意事项以及建议采取的行动。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "OpenAI在ChatGPT Work中推出了新的Data agent，允许用户通过自然语言连接公司数据、进行分析并生成交互式仪表板。",
+          "Data agent支持连接经过批准的数据源，包括Amazon Redshift、Datadog、Google BigQuery、ClickHouse、Databricks、MongoDB、Snowflake等，并支持引入Google Drive和SharePoint中的文件与文档。",
+          "来源叙事重点：重点宣传在ChatGPT Work中推出的新Data agent，强调其通过自然语言直接连接多源企业数据、生成交互式仪表板与自动化行动的能力，突出其权限控制安全性和在OpenAI内部及早期客户（如NTT Data、Thermo Fisher）中的广泛落地效果。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:00:00.000Z",
+            "url": "https://openai.com/index/put-data-to-work"
+          }
+        ]
+      },
+      {
+        "id": "story-blocks-to-investors-html-43f21f2b60a37d7e",
+        "title": "塞内加尔将向投资者推出109个油气区块",
+        "originalTitle": "Senegal to Offer 109 Oil and Gas Blocks to Investors",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:30:00.000Z",
+        "pubTime": "2026-09-10 23:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Senegal-to-Offer-109-Oil-and-Gas-Blocks-to-Investors.html",
+        "imageUrl": null,
+        "fullContent": "Senegal will offer to local and foreign investors as many as 109 oil and gas blocks, Energy and Petroleum Minister, El Hadji Abdourahmane Diouf, has said. Only four out of the West African country&rsquo;s 113 oil and gas blocks are currently contracted, the official told a local TV channel. &ldquo;The remaining 109 will be put on the market,&rdquo; the minister said, as carried by Reuters. &ldquo;The president&rsquo;s plan is to create local leaders in the energy, oil and gas sectors,&rdquo; Diouf added. [GooglePreferredSource] Several oil and gas discoveries offshore Senegal in the past decade have kickstarted the petroleum industry in the African country, which saw its first oil project launched in 2024, while LNG exports were launched a year later from a gas project offshore Senegal and Mauritania. The start-up of Senegal&rsquo;s first ever oil project in 2024 pushed economic growth to a record high. Australia-based Woodside Energy achieved first oil at the Sangomar oil project in June 2024. The Sangomar Field Development Phase 1 is a deepwater project including a stand-alone floating production storage and offloading FPSO facility with a nameplate capacity of 100,000 barrels per day bpd and subsea infrastructure that is designed to allow subsequent development phases, Woodside says. &ldquo;First oil from the Sangomar field marks a new era not only for our country's industry and economy, but most importantly for our people,&rdquo; Thierno Ly, general manager of Senegal&rsquo;s national oil company Petrosen said at the time. A year later, BP, as the operator, safely loaded the first LNG cargo for export from Phase 1 of its Greater Tortue Ahmeyim project offshore Mauritania and Senegal. Phase 1 at Greater Tortue Ahmeyim GTA is set to produce around 2.3 million tons of LNG per year and the project is expected to produce LNG for more than 20 years, BP says. By Charles Kennedy for Oilprice.com",
+        "fullTranslation": "塞内加尔能源与石油部长埃尔·哈吉·阿卜杜拉赫曼·迪乌夫（El Hadji Abdourahmane Diouf）表示，塞内加尔将向本土和外国投资者推出多达109个油气区块。这位官员向当地一家电视频道表示，在这个西非国家的113个油气区块中，目前仅有4个已签订合同。\n\n路透社援引该部长的话报道称：“其余109个区块将推向市场。”迪乌夫补充道：“总统的计划是在能源、石油和天然气领域培育本土领跑者。”\n\n过去十年中，塞内加尔近海的多次油气发现推动了这个非洲国家的石油工业起步。该国于2024年启动了首个石油项目，并在一年后通过塞内加尔与毛里塔尼亚近海的一处天然气项目开启了液化天然气（LNG）出口。\n\n塞内加尔有史以来的首个石油项目于2024年投产，推动该国经济增长创下历史新高。总部位于澳大利亚的伍德赛德能源公司（Woodside Energy）于2024年6月在桑戈马尔（Sangomar）石油项目产出首批原油。伍德赛德表示，桑戈马尔油田一期开发是一个深水项目，包括一艘额定日产能10万桶的独立浮式生产储卸油装置（FPSO）以及旨在支持后续开发阶段的水下基础设施。\n\n塞内加尔国家石油公司（Petrosen）总经理蒂埃诺·利（Thierno Ly）当时表示：“桑戈马尔油田产出首批原油，不仅标志着我国工业和经济迈入新时代，最重要的是对我们的人民意义重大。”\n\n一年后，作为作业者的英国石油公司（BP）在毛里塔尼亚与塞内加尔近海的大托尔图-阿赫梅因（Greater Tortue Ahmeyim，简称 GTA）一期项目中，安全装运了首批用于出口的液化天然气货物。BP表示，GTA一期项目计划年产约230万吨液化天然气，且该项目预计开采生产期将超过20年。\n\n作者：Charles Kennedy（为 Oilprice.com 撰稿）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "塞内加尔能源和石油部长埃尔·哈吉·阿卜杜拉赫曼·迪乌夫表示，塞内加尔将向本国及外国投资者提供多达109个油气区块。",
+          "塞内加尔全国共有113个油气区块，目前仅有4个已签订合同，剩余109个将推向市场。",
+          "来源叙事重点：聚焦塞内加尔油气行业的投资机遇与增长动能，以标志性项目（Sangomar原油与GTA天然气）的投产成果为背书，突显该国向市场大规模释放上游油气勘探区块的商业吸引力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Senegal-to-Offer-109-Oil-and-Gas-Blocks-to-Investors.html"
+          }
+        ]
+      },
+      {
+        "id": "story-misc-domains-e43d375c46e69c7b",
+        "title": "关于网络钓鱼的吐槽：这不是用户的错（也不是DNS的错）",
+        "originalTitle": "A rant about phishing: It's not the user's fault (and not DNS either)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:14:48.000Z",
+        "pubTime": "2026-09-10 23:14",
+        "url": "https://maurycyz.com/misc/domains/",
+        "imageUrl": null,
+        "fullContent": "\"For safety, don't click suspicious links\"\n\nAll an attacker needs to do is write a website with a password box and the company logo. The URL doesn't matter at all because users learn to ignore it.\n\nI'll admit that URLs aren't the most intuitive things, because the reading direction alternates. Hostname and scheme start specific and become more general, while the path is the other way around:\n\nAs a result of this syntax, the important bit (the second level domain) is in the middle of the URL. This is something non-technical users must be taught: simply telling them to \"avoid suspicious links\" isn't enough.\n\nHowever, the whole excersise is useless if hostname isn't a reliable indicator.\n\nFor users to have any chance of spotting a scam...\n\nAn organization MUST use a single, well recognized, root domain. Internal services MUST be on subdomains of the root and MUST NOT use URLs like:\n\nLinks sent by email or SMS MUST be under the recognizable domain. If it's absolutely necessary to point users somewhere else, create a local redirect or link:\n\nThis does not mean everything has to be hosted by the organization: many services allow bringing your own domain and links are free.\n\nThis rule also applies to phone numbers: do not send an SMS or email telling the user to \"call 0491-570-006\", because there's no way to know it's not a scam. Contact details MUST be provided on a web page linked from the original message.\n\nThe key words \"MUST\", \"MUST NOT\", \"REQUIRED\", \"SHALL\", \"SHALL NOT\", \"SHOULD\", \"SHOULD NOT\", \"RECOMMENDED\", \"MAY\", and \"OPTIONAL\" in this document are to be interpreted as described in RFC 2119...\n\nThe hostname situation has gotten so bad that I've seen people arguing that it's a problem that subdomains exist, because it allows criminals to impersonate anyone they want with no oversight.\n\nDNS is a hierarchical system who's structure hasn't changed in 40+ years:\n\nThere should absolutely no confusion over who runs any given website... except that it has become standard practice to put great effort into making legitimate sites indistinguishable from scams.\n\n(not even governments consistently use their assigned TLDs)",
+        "fullTranslation": "“为了安全，切勿点击可疑链接”\n攻击者所需要做的，只是写一个带有密码输入框和公司Logo的网页。URL根本无关紧要，因为用户早就学会了忽略它。\n我承认URL并不是最直观的东西，因为其阅读方向是交替变化的。主机名和协议方案从具体走向宽泛，而路径的逻辑则正好相反：\n由于这种语法的存在，关键部分（二级域名）落在了URL的中间。这是必须向非技术用户普及的内容：仅仅告诫他们“避开可疑链接”是远远不够的。\n然而，如果主机名本身无法作为可靠的指示指标，那么这一切努力都将徒劳无功。\n为了让用户有机会识别骗局……\n机构“必须”（MUST）使用单一、广为人知的根域名。内部服务“必须”（MUST）置于该根域名的子域名之下，“绝不可”（MUST NOT）使用如下URL：\n通过电子邮件或短信发送的链接“必须”（MUST）属于该可识别的域名。如果确实有绝对必要将用户引导至其他地方，请创建本地重定向或链接：\n这并不意味着所有内容都必须由该机构亲自托管：许多服务支持自定义域名，并且链接是免费的。\n该规则同样适用于电话号码：切勿发送短信或邮件让用户“拨打 0491-570-006”，因为用户根本无法确认这不是诈骗。联系方式“必须”（MUST）在原始信息所链接的网页上提供。\n本文档中的关键用词“必须”（MUST）、“绝不可”（MUST NOT）、“必要”（REQUIRED）、“应当”（SHALL）、“应当不”（SHALL NOT）、“应该”（SHOULD）、“应该不”（SHOULD NOT）、“推荐”（RECOMMENDED）、“可以”（MAY）以及“可选”（OPTIONAL）均应按照 RFC 2119 中的说明进行解释……\n主机名混乱的现状已经恶化到了这种地步：我甚至见过有人争论说子域名的存在本身就是一个问题，因为这让犯罪分子能够在缺乏监管的情况下随意冒充任何人。\nDNS是一个分层系统，其结构40多年来未曾改变：\n对于究竟是谁在运营某个特定网站，本应绝无混淆的可能……然而，现实中竭尽全力让正规合法网站看起来与诈骗网站无异，却反倒成了标准操作。\n（甚至连政府机构都未能始终如一地使用为其分配的顶级域名）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "DNS（域名系统）是一个分层系统，其基本结构已有40多年未发生改变。",
+          "RFC 2119 规定了解释“MUST”、“MUST NOT”、“REQUIRED”等关键词的标准方式。",
+          "来源叙事重点：批评当前将钓鱼防护责任转嫁给普通用户的做法，指出组织机构混乱的域名管理策略与URL结构设计缺陷才是导致钓鱼攻击屡禁不止的根源，并借用RFC规范用语呼吁建立严格的单根域名管理标准。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:14:48.000Z",
+            "url": "https://maurycyz.com/misc/domains/"
+          }
+        ]
+      },
+      {
+        "id": "story-tional-resisting-ai-html-89cd71e2a79388b8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "There's nothing irrational about resisting AI",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:40:04.000Z",
+        "pubTime": "2026-09-10 23:40",
+        "url": "https://phys.org/news/2026-09-irrational-resisting-ai.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2021/ai-2.jpg",
+        "fullContent": "If you read about AI, you'll find a widespread belief: When people don't want to use AI, it's because they're afraid or just don't understand it. They're afraid of losing their jobs or of change generally. Or they don't understand the technology, so they can't see the benefits. They're stuck in the past.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-10 23:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-irrational-resisting-ai.html",
+            "publishedAt": "2026-09-10T15:40:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1-a3f9-1647ea518d37-html-ad5e1c7fe48476fc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Rubio in Perù, atteso sostegno su lotta a criminalità ed emergenza El Niño",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-10T15:47:01.000Z",
+        "pubTime": "2026-09-10 23:47",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/rubio-in-peru-atteso-sostegno-su-lotta-a-criminalita-ed-emergenza-el-nino_401e23eb-9e81-4be1-a3f9-1647ea518d37.html",
+        "imageUrl": null,
+        "fullContent": "\"Al momento ci sono due preoccupazioni fondamentali per la maggior parte dei peruviani. In primo luogo, la questione dell'insicurezza pubblica e la lotta contro le organizzazioni criminali transnazionali. In secondo luogo, il fenomeno El Niño (...) Queste sono le due principali priorità per i peruviani in questo momento e il segretario Rubio è qui per fare annunci importanti riguardo al sostegno degli Stati Uniti al Perù su questi due fronti\". Lo ha affermato il ministro degli Esteri del Perù, Carlos Espá, dopo aver ricevuto il segretario di Stato Usa, Marco Rubio, al suo arrivo a Lima, dove incontrerà nelle prossime ore anche la presidente Keiko Fujimori. Rubio è nel paese andino dopo aver visitato in precedenza Colombia e Perù nel quadro di una missione volta a consolidare principalmente le alleanze in materia di sicurezza e lotta alla criminalità avviate con il programma 'Scudo delle Americhe'. Su questo fronte Espá ha confermato che \"anche il Perù aderirà ora allo Scudo delle Americhe\", e che nel quadro di tale meccanismo riceverà \"sostegno dagli Stati Uniti in termini di logistica, operazioni, intelligence e sicurezza informatica\".\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国国务卿马可·卢比奥（Marco Rubio）抵达秘鲁利马，秘鲁外交部长卡洛斯·埃斯帕（Carlos Espá）前往迎接。",
+          "秘鲁外长埃斯帕宣布秘鲁将加入“美洲之盾”（Scudo delle Americhe）计划。",
+          "来源叙事重点：聚焦美国国务卿卢比奥访问秘鲁的外交与安全合作议程，侧重转述秘鲁官方（外长埃斯帕）对于加入“美洲之盾”计划、获取美方安全与防灾（厄尔尼诺）支持的积极预期与重大通报预告"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-10T15:47:01.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/rubio-in-peru-atteso-sostegno-su-lotta-a-criminalita-ed-emergenza-el-nino_401e23eb-9e81-4be1-a3f9-1647ea518d37.html"
+          }
+        ]
+      },
+      {
+        "id": "story--5g-ultra-4-preorder-buy-fac7116961818542",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:00:00.000Z",
+        "pubTime": "2026-09-10 23:00",
+        "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0035.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nLonger battery life and a more capable chipset (that enables a host of new features) are the main reasons to upgrade.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Cameron Faulkner\n\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\n\nThe iPhone Duo was the unequivocal star of Apple’s “Surprise and shine” event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There’s no update to the SE model for 2026, which isn’t necessarily a bad thing (the SE 3 rules). Also, no price changes either, which can’t be said for the entire iPhone lineup.\n\nWhile both new watches look similar to their predecessors, there are a number of updates under the hood that might intrigue some people enough to warrant a preorder. My colleague Victoria Song got hands-on with both smartwatches, and runs down the biggest changes, from the Audio Intelligence features made possible by the S11 chip (included in the Series 12 and Ultra 4), plus the possible impact of its improved sensors and tracking capabilities.\n\nSee All Apple Event 2026\n\nSee All Verge Shopping\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的帖子将被添加到您的每日邮件摘要和主页信息流中。\n\n更长的电池续航时间以及性能更强大的芯片组（支持大量新功能）是升级的主要理由。\n\n来自该作者的帖子将被添加到您的每日邮件摘要和主页信息流中。\n\n查看 Cameron Faulkner 的所有文章\n\n如果您通过 Verge 链接购买商品，Vox Media 可能会赚取佣金。请参阅我们的道德声明。\n\niPhone Duo 毫无疑问是苹果“惊艳闪耀”（Surprise and shine）发布会上的焦点，但对于主要关注可穿戴设备动态的人来说并非如此。值得庆幸的是，苹果关于其新款 Apple Watch Series 12 和 Ultra 4 有很多内容可分享。2026 年 SE 型号并未迎来更新，这未必是件坏事（SE 3 依然很强）。此外，价格也均未变动，而整个 iPhone 产品线则并非如此。\n\n尽管这两款新智能手表外观与前代相似，但在内部配置上带来了诸多更新，可能足以吸引一些人立即预购。我的同事 Victoria Song 已经对这两款智能手表进行了真机体验，并详细梳理了最大的变化，从 S11 芯片（配备于 Series 12 和 Ultra 4）带来的音频智能（Audio Intelligence）功能，到其改良后的传感器和追踪性能可能带来的影响。\n\n查看 2026 苹果发布会全部内容\n\n查看 Verge Shopping 全部内容\n\n免费获取每日重要新闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "苹果在“Surprise and shine”发布会上公布了新款 Apple Watch Series 12 和 Ultra 4 智能手表。",
+          "苹果在2026年没有推出 Apple Watch SE 的更新款式。",
+          "来源叙事重点：聚焦苹果秋季发布会中可穿戴设备的更新点，突出 Apple Watch Series 12 与 Ultra 4 的内在升级（S11 芯片、音频智能、传感器与续航）及维持原价的购买价值，引导用户进行预购。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:00:00.000Z",
+            "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy"
+          }
+        ]
+      },
+      {
+        "id": "story-reasury-jitters-4209f805-9901c2f31da57f3e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:25:00.000Z",
+        "pubTime": "2026-09-10 23:25",
+        "url": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "If you looking for high income in the bond market, without paying taxes, here’s how you figure out how much interest you’re actually being paid.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-10 23:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-10T15:25:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--07-xteink-x4-pro-review-435dc4dcf149d705",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Xteink X4 Pro review",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T15:05:43.000Z",
+        "pubTime": "2026-09-10 23:05",
+        "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+        "imageUrl": null,
+        "fullContent": "I just bought an Xteink X4 Pro e-reader that snaps onto the back of my phone using MagSafe.\n\nI’ve been trying to do more reading as of late, and I hoped that having a dedicated reading device would aid me in that venture. Well, I’m very glad to say that it has!\n\nHere are some thoughts about the device.\n\nAs the old adage goes, the best book you have is the one you’re carrying. If it broke today, I’d probably go out and buy another one.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Xteink X4 Pro 是一款可以通过 MagSafe 吸附在手机背面的电子阅读器。",
+          "作者购买了 Xteink X4 Pro 电子阅读器用于协助增加阅读量。",
+          "来源叙事重点：聚焦于通过 MagSafe 磁吸在手机背面的 Xteink X4 Pro 电子阅读器的便携性体验，强调该形态对其个人阅读习惯养成的正面促进，并表达极高的购买满意度。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T15:05:43.000Z",
+            "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789049446299,
     "timeDisplay": "2026-09-10 22:10 (UTC+8)",
     "date": "2026-09-10",

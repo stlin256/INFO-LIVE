@@ -21,14 +21,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **17** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **18** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 22:10 (UTC+8)
+- **最新归档时间**：2026-09-10 23:53 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 23:53 (UTC+8)" title="全球要闻情报简报 · 23:53" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-10 23:50 (UTC+8) 完成，共获得 791 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【ANSA Mondo (意大利安莎社官方意大利文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【France 24 (EN 官方英语原版)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】外文信源标题正在进行中文翻译，暂不展示未翻译标题：外文正文正在进行中文翻译，暂不展示未翻译原文。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/politsija-2116897367.html) <span class="news-meta-time">🕒 2026-09-10 23:48</span>
+- [TechCrunch (硅谷创业与资本)] [The Boring Company获阿联酋领投的30亿美元融资](https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/) <span class="news-meta-time">🕒 2026-09-10 23:07</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 23:34</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill) <span class="news-meta-time">🕒 2026-09-10 23:25</span>
+- [Phys.org (基础物理与技术前沿)] [太阳最大的太阳黑子或具备引发超级耀斑的潜能](https://phys.org/news/2026-09-sun-largest-sunspots-potential-trigger.html) <span class="news-meta-time">🕒 2026-09-10 23:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/putin-2116897195.html) <span class="news-meta-time">🕒 2026-09-10 23:47</span>
+:::
 :::timeline-item{start="2026-09-10 22:10 (UTC+8)" title="全球要闻情报简报 · 22:10" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-10 22:08 (UTC+8) 完成，共获得 774 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
