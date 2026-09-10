@@ -5,6 +5,7 @@ import { storyIdForUrl } from '../scripts/story-id.mjs';
 describe('发布内容选择', () => {
   it('excludes untranslated or short-source stories from article cards', () => {
     const publishable = {
+      title: '中文译文标题', sourceLang: 'zh',
       url: 'https://example.test/full', contentStatus: 'full', translationStatus: 'full',
       fullTranslation: '完整译文。'.repeat(80), translationParagraphs: 1,
     };

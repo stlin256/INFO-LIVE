@@ -16,8 +16,15 @@ import { storyIdForUrl } from './story-id.mjs';
 
 export { translateForeignTitle };
 
+function hasUntranslatedLatinPhrase(text) {
+  return /\b[A-Za-z]{3,}(?:[ '\u2019-]+[A-Za-z]{3,})+\b/u.test(String(text || ''));
+}
+
 function hasChineseTitle(text) {
-  return chineseCharacterCount(text) >= 2;
+  const value = String(text || '').trim();
+  const hasUntranslatedScript = /[\u0400-\u04ff\u0600-\u06ff\u0370-\u03ff]/u.test(value);
+  return !hasUntranslatedScript
+    && isChineseReadableText(value, { minChars: 2, minRatio: 0.30 });
 }
 
 function deriveChineseTitleFromTranslation(text) {
@@ -28,7 +35,39 @@ function deriveChineseTitleFromTranslation(text) {
 }
 
 function isChineseNarrative(text, minimum = 2) {
-  return chineseCharacterCount(text) >= minimum;
+  const value = String(text || '').replace(/\s+/g, ' ').trim();
+  const chinese = chineseCharacterCount(value);
+  const visible = (value.match(/[\p{L}\p{N}]/gu) || []).length;
+  const hasNonLatinForeignScript = /[\u0400-\u04ff\u0600-\u06ff\u0370-\u03ff]/u.test(value);
+  // A long Latin/Cyrillic headline followed by a Chinese disclaimer is not a
+  // Chinese editorial sentence. Proper nouns and short acronyms may remain,
+  // but the narrative itself must be predominantly Chinese.
+  return isChineseReadableText(value, { minChars: minimum, minRatio: 0.16 })
+    && !hasNonLatinForeignScript
+    && !hasUntranslatedLatinPhrase(value)
+    && (visible === 0 || chinese / visible >= 0.45);
+}
+
+/**
+ * Return text that is safe for Chinese-only editorial surfaces. The original
+ * foreign headline is intentionally never used as a fallback here; it is
+ * kept separately in story.originalTitle for the article card's optional
+ * provenance line.
+ */
+export function readableChineseHeadline(item) {
+  const sourceLang = String(item?.sourceLang || 'unknown').toLowerCase();
+  const original = String(item?.title || '').trim();
+  if (!original) return '外文要闻标题待翻译';
+  if (hasChineseTitle(original)) return original;
+
+  const candidate = String(translateForeignTitle(original, sourceLang) || '').trim();
+  const hasUntranslatedScript = /[\u0400-\u04ff\u0600-\u06ff\u0370-\u03ff]/u.test(candidate);
+  if (candidate && candidate !== original && !hasUntranslatedScript
+    && hasChineseTitle(candidate)) {
+    return candidate;
+  }
+
+  return '外文信源标题正在进行中文翻译，暂不展示未翻译标题';
 }
 
 function validateChineseOverviewFields(role, value) {
@@ -52,7 +91,30 @@ function validateChineseOverviewFields(role, value) {
     }
     for (const [index, topic] of (value?.specialTopics || []).entries()) {
       for (const field of ['title', 'tagline', 'overview']) checkIfPresent('specialTopics[' + index + '].' + field, topic?.[field], 8);
-      for (const [eventIndex, event] of (topic?.timeline || []).entries()) checkIfPresent('specialTopics[' + index + '].timeline[' + eventIndex + '].detail', event?.detail || event?.description || event?.summary, 8);
+      checkIfPresent('specialTopics[' + index + '].navTitle', topic?.navTitle, 2);
+      checkIfPresent('specialTopics[' + index + '].status', topic?.status, 2);
+      for (const [judgmentIndex, judgment] of (topic?.keyJudgments || []).entries()) checkIfPresent('specialTopics[' + index + '].keyJudgments[' + judgmentIndex + ']', judgment, 8);
+      for (const [stanceIndex, stance] of (topic?.stanceAnalysis || []).entries()) {
+        if (typeof stance === 'string') checkIfPresent('specialTopics[' + index + '].stanceAnalysis[' + stanceIndex + ']', stance, 8);
+        else {
+          checkIfPresent('specialTopics[' + index + '].stanceAnalysis[' + stanceIndex + '].side', stance?.side || stance?.stakeholder || stance?.name, 2);
+          checkIfPresent('specialTopics[' + index + '].stanceAnalysis[' + stanceIndex + '].focus', stance?.focus || stance?.viewpoint || stance?.analysis || stance?.summary, 8);
+        }
+      }
+      for (const [eventIndex, event] of (topic?.timeline || []).entries()) {
+        checkIfPresent('specialTopics[' + index + '].timeline[' + eventIndex + '].title', event?.title || event?.name, 2);
+        checkIfPresent('specialTopics[' + index + '].timeline[' + eventIndex + '].detail', event?.detail || event?.description || event?.summary || event?.desc, 8);
+      }
+    }
+    for (const [index, radar] of (value?.socialTrends?.radar || []).entries()) {
+      check('hourlyBriefing.socialTrends.radar[' + index + '].issue', radar?.issue);
+      check('hourlyBriefing.socialTrends.radar[' + index + '].heat', radar?.heat);
+      check('hourlyBriefing.socialTrends.radar[' + index + '].spectrum', radar?.spectrum);
+      check('hourlyBriefing.socialTrends.radar[' + index + '].conflict', radar?.conflict, 8);
+    }
+    for (const [index, debate] of (value?.socialTrends?.debates || []).entries()) {
+      check('hourlyBriefing.socialTrends.debates[' + index + '].topic', debate?.topic);
+      check('hourlyBriefing.socialTrends.debates[' + index + '].summary', debate?.summary, 8);
     }
   }
   if (role === 'daily-analyst') {
@@ -206,7 +268,7 @@ export function inferDimensionAndStance(item) {
 export function compileArticleLocally(it, _timeInfo) {
   const pubTime = it.pubTimeFormatted || '发布时间未知';
   const originalTitle = it.title;
-  const translatedTitle = translateForeignTitle(originalTitle, it.sourceLang || 'en');
+  const translatedTitle = readableChineseHeadline(it);
   const { dimension, dimensionLabel, stance } = inferDimensionAndStance(it);
   const sourceBody = String(it.fullContent || it.snippet || '').trim();
   const contentStatus = it.contentStatus || contentStatusOf(sourceBody);
@@ -283,7 +345,7 @@ function rebuildChineseTicker(rawItems, stories, _timeInfo) {
       time: timeStr,
       source: it.sourceName,
       sourceSlug: it.sourceSlug,
-      text: translatedStory?.title || translateForeignTitle(it.title, it.sourceLang || 'en'),
+      text: translatedStory?.title || readableChineseHeadline(it),
       originalText: it.title,
       url: it.link,
       snippet: chineseTickerSnippet(it, translatedStory, timeStr, stance),
@@ -514,7 +576,8 @@ function buildBoundedOverviewPack(items, runId, role, maxInputChars) {
     targetLanguage: 'zh',
     relatedArticles: items.slice(0, 12).map((item) => ({
       id: item.id || item.url,
-      title: item.originalTitle || item.title,
+      title: readableChineseHeadline(item),
+      originalTitle: item.originalTitle || item.title,
       source: item.source,
       sourceLang: item.sourceLang,
       publishedAt: item.publishedAt || null,
@@ -589,7 +652,7 @@ function compactEvidenceText(value, maxChars = 280) {
 function buildEvidenceFallback(items, timeInfo) {
   const usable = items.filter((item) => item.title || item.snippet || item.fullContent);
   const evidenceLine = (item) => {
-    const title = translateForeignTitle(item.title, item.sourceLang || 'en');
+    const title = readableChineseHeadline(item);
     const isChinese = String(item.sourceLang || 'zh').toLowerCase() === 'zh';
     const excerpt = isChinese ? compactEvidenceText(item.snippet || item.fullContent, 220) : '';
     return excerpt
@@ -614,8 +677,8 @@ function buildEvidenceFallback(items, timeInfo) {
     focus: evidenceLine(item),
   }));
   const community = usable.filter((item) => item.category === 'community');
-  const radar = [...new Map(community.map((item) => [translateForeignTitle(item.title, item.sourceLang || 'en'), item])).values()].slice(0, 8).map((item) => ({
-    issue: translateForeignTitle(item.title, item.sourceLang || 'en'),
+  const radar = [...new Map(community.map((item) => [readableChineseHeadline(item), item])).values()].slice(0, 8).map((item) => ({
+    issue: readableChineseHeadline(item),
     heat: '待评估',
     spectrum: '待核验',
     conflict: evidenceLine(item),
@@ -752,7 +815,7 @@ export async function summarizeWithAI(items) {
       const candidateTitle = String(first.translatedTitle || '').trim();
       const candidateOriginalTitle = String(first.originalTitle || '').trim();
       const mergedTranslation = translatedChunks.map((chunk) => String(chunk.fullTranslation).trim()).join('\n\n');
-      const deterministicTitle = translateForeignTitle(story.originalTitle, story.sourceLang || 'en');
+      const deterministicTitle = readableChineseHeadline({ ...story, title: story.originalTitle });
       const translatedTitle = hasChineseTitle(candidateTitle)
         ? candidateTitle
         : (hasChineseTitle(deterministicTitle) ? deterministicTitle : deriveChineseTitleFromTranslation(mergedTranslation));

@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it } from 'vitest';
-import { compileArticleLocally, requestJsonWithFallback, splitArticleIntoChunks, summarizeWithAI } from '../scripts/ai-summarizer.mjs';
+import { compileArticleLocally, readableChineseHeadline, requestJsonWithFallback, splitArticleIntoChunks, summarizeWithAI } from '../scripts/ai-summarizer.mjs';
 
 const originalFetch = globalThis.fetch;
 const originalKey = process.env.AI_API_KEY;
@@ -25,6 +25,52 @@ function modelResponse(value: unknown) {
     headers: { 'content-type': 'application/json' },
   });
 }
+
+describe('中文用户界面降级安全', () => {
+  it('never exposes an untranslated Russian headline in a fallback headline', () => {
+    const item = {
+      title: 'Почте после поражения партии Мерца приехал неизвестный политик',
+      sourceName: 'RIA Novosti',
+      sourceLang: 'ru',
+    };
+    const headline = readableChineseHeadline(item);
+    expect(headline).not.toMatch(/[\u0400-\u04ff]/u);
+    expect(headline).toContain('中文翻译');
+
+    const unknownLanguage = readableChineseHeadline({ title: 'Russian headline leaked here', sourceName: 'Example' });
+    expect(unknownLanguage).not.toMatch(/[A-Za-z]{3,}/u);
+    expect(unknownLanguage).toContain('中文翻译');
+
+    const mislabeled = readableChineseHeadline({ title: 'Foreign headline despite metadata', sourceLang: 'zh', sourceName: 'Example' });
+    expect(mislabeled).not.toMatch(/[A-Za-z]{3,}/u);
+  });
+
+  it('keeps every local fallback surface in Chinese while retaining the original only on the story object', async () => {
+    delete process.env.AI_API_KEY;
+    delete process.env.AI_API_BASE;
+    const item = {
+      title: 'Почте после поражения партии Мерца приехал неизвестный политик',
+      link: 'https://example.test/ria',
+      sourceName: 'RIA Novosti',
+      sourceSlug: 'ria',
+      sourceLang: 'ru',
+      category: 'community',
+      snippet: 'Russian teaser',
+      fullContent: 'Russian teaser',
+      contentStatus: 'short-source',
+      pubDate: '2026-09-10T12:00:00Z',
+      pubTimeFormatted: '09-10 20:00',
+    };
+    const result = await (summarizeWithAI as any)([item]);
+    const visible = [
+      ...(result.hourlyBriefing?.signals || []),
+      ...(result.dailyBriefing?.themes || []).flatMap((theme: any) => [theme.name, theme.analysis]),
+      ...(result.socialTrends?.radar || []).flatMap((entry: any) => [entry.issue, entry.conflict]),
+    ].join(' ');
+    expect(visible).not.toMatch(/[\u0400-\u04ff]/u);
+    expect(visible).toContain('中文翻译');
+  });
+});
 
 describe('编译文章元数据', () => {
   it('treats complete Chinese source articles as already translated', () => {
