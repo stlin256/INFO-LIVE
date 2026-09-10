@@ -21,14 +21,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **16** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **17** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-10 21:00 (UTC+8)
+- **最新归档时间**：2026-09-10 22:10 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-10 22:10 (UTC+8)" title="全球要闻情报简报 · 22:10" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-10 22:08 (UTC+8) 完成，共获得 774 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【RIA Novosti (俄新社官方俄文)】Рютте после поражения партии Мерца приехал в Берлин хвалить власти：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】В Калининградской области наградят ученика, отказавшегося от поджога：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】Второй сезон мюзикла "Любовь без памяти" стартует 7 октября：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】Главу Русского дома в Армении удостоили благодарности Путина：外文正文正在进行中文翻译，暂不展示未翻译原文。；【RIA Novosti (俄新社官方俄文)】Глава Мордовии обсудил духовное развитие региона с патриархом Кириллом：外文正文正在进行中文翻译，暂不展示未翻译原文。；【中新社 (国际实时原版)】渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评：中新社罗马9月10日电 题：渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评；【中新社 (国际实时原版)】阿尔及利亚宣布与阿联酋断交：中新社北京9月10日电 阿尔及尔消息：据阿尔及利亚国家电视台10日报道，阿尔及利亚外交部当天表示，阿尔及利亚决定即日起与阿联酋断绝外交关系。；【中新社 (国际实时原版)】泰国批准55个项目推动企业应用人工智能和自动化：中新社曼谷9月10日电 (记者 李映民)泰国总理府副发言人拉丽达10日向媒体透露，国家竞争力提升基金委员会已批准55个项目，以支持企业推进技术升级、数字化转型和技能人才培养，其中包括利用人工智能、自动化等技术提升企业生产效率。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [Рютте после поражения партии Мерца приехал в Берлин хвалить власти](https://ria.ru/20260910/ryutte-2116869501.html) <span class="news-meta-time">🕒 2026-09-10 22:06</span>
+- [The Verge (前沿数码科技)] [iPhone Duo 与其他折叠屏手机对比表现如何](https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison) <span class="news-meta-time">🕒 2026-09-10 22:00</span>
+- [MarketWatch Top Stories (市场观察)] [Home-insurance premiums just hit a record high. Here’s where they spiked the most.](https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 22:03</span>
+- [The Guardian Society (卫报社会与民生)] [Tell us: has your medical cannabis prescription come from a private health provider?](https://www.theguardian.com/society/2026/sep/10/tell-us-has-your-medical-cannabis-prescription-come-from-a-private-health-provider) <span class="news-meta-time">🕒 2026-09-10 21:51</span>
+- [Phys.org (基础物理与技术前沿)] [Spinons may help electrons pair along stripes in some superconductors](https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html) <span class="news-meta-time">🕒 2026-09-10 22:00</span>
+- [RIA Novosti (俄新社官方俄文)] [В Калининградской области наградят ученика, отказавшегося от поджога](https://ria.ru/20260910/kaliningrad-2116869192.html) <span class="news-meta-time">🕒 2026-09-10 22:06</span>
+:::
 :::timeline-item{start="2026-09-10 21:00 (UTC+8)" title="全球要闻情报简报 · 21:00" org="ARCHIVE"}
 **速报纪要：** 全球多源监控全景简报。
 

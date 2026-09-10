@@ -16,46 +16,215 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-dence-rhode-island-mayor-ba25548f6743bcbe" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1428" data-content-paragraphs="20" data-published-at="2026-09-10T12:48:26.000Z" data-time-source="publication">
+<div id="story-026-09-10-10694303-shtml-1eafad906e12cf15" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1491" data-content-paragraphs="27" data-published-at="2026-09-10T14:04:12.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 22:04</span>
+</div>
+
+### [渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评](https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社罗马9月10日电 题：渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评</p>
+<p>联合国粮农组织渔业委员会第37届会议正在位于意大利罗马的粮农组织总部举行。在会议期间，中方推介渔业可持续发展的“中国方案”，受到与会者的广泛关注和好评。</p>
+<p>中方与粮农组织8日共同举办水产养殖边会，分享中国可持续渔业发展理念与实践，介绍中国水产养殖对全球渔业可持续发展的贡献，推动落实粮农组织《可持续水产养殖业准则》，深化国际合作。中方代表在边会上表示，近年来中国积极响应粮农组织“手拉手”倡议，深度参与水产养殖南南合作，帮助发展中国家创新水产养殖业。为推动可持续水产养殖，中国将继续深化同粮农组织的相关合作；共享实用技术；扩大人才培训；支持产业发展。</p>
+<p>印度、新西兰、南非、突尼斯、塞拉利昂等多个重要水产养殖国家代表，以及亚太水产养殖中心网(NACA)等重要国际组织代表受邀参加边会并作专题报告。会后，多位报告人接受中新社记者采访，对中方作用予以积极评价。</p>
+<p>NACA总干事莱亚尼奥对中新社记者表示，长期以来NACA一直在推动中国与亚太区域内其他国家在渔业可持续发展方面的合作，并欢迎中国发挥积极作用，带动整个地区的水产养殖业向前发展。</p>
+<p>莱亚尼奥说，亚太地区的水产养殖已取得了长足进步，并在世界范围内处于领先地位。但区域内一些国家，在发展水产养殖业方面仍需要其他国家的支持，中国在这方面发挥建设性作用，NACA凭借中国帮助制定相关合作计划并付诸实施，如将正在研发的新技术转移给NACA成员国等。他表示，中国在渔业方面的技术比较先进，在水产养殖方面取得了不少创新成果，可以帮助相关国家进一步发展渔业产业，助力渔业可持续发展，实现“共赢”。</p>
+<p>南非林业、渔业与环境部代理副总司长塞莫利告诉中新社记者，南非和中国围绕渔业技术发展和能力建设已展开了相关合作，这种合作是建立在两国牢固的友谊和相互信任基础上的。他透露，两国在相关领域技术交流和技术转移等方面也取得了一些进展。</p>
+<p>塞拉利昂全球蓝色经济粮食安全与生计项目协调员博卡里在边会上分享了塞方和非方视角如何看待渔业可持续发展问题。他对中新社记者说，渔业可持续发展的“中国方案”契合塞拉利昂的发展，并持续造福塞拉利昂人民。</p>
+<p>博卡里认为，中国在水产养殖方面的创新成果具有很高的参考价值，并且非常实用。有关创新也被视为激励年轻人投身科研的动力，特别是在提升渔业生产规模化方面。他也希望更多非洲相关领域研究者到中国实地考察，学习中国经验。(完)</p>
+<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
+<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
+<p>2026年国家基本医保药品目录预计于11月发布</p>
+<p>中国疾控中心提示：9月重点防范这几类传染病</p>
+<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
+<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
+<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
+<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
+<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
+<p>中外学生Citywalk北京西城 街巷间开启“开学第一课”</p>
+<p>香港新赛马季开锣 赛驹“嘉应高升”再创新纪录</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
+<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
+<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 22:04 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-10-10694300-shtml-ad0e58ecf34e11b1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="736" data-content-paragraphs="22" data-published-at="2026-09-10T14:03:54.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 22:03</span>
+</div>
+
+### [阿尔及利亚宣布与阿联酋断交](https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社北京9月10日电 阿尔及尔消息：据阿尔及利亚国家电视台10日报道，阿尔及利亚外交部当天表示，阿尔及利亚决定即日起与阿联酋断绝外交关系。</p>
+<p>综合媒体报道，阿尔及利亚此举原因尚不清楚。阿尔及利亚国家电视台称，在“竭尽一切努力维护双边关系”之后，阿尔及利亚决定与阿联酋断绝外交关系。</p>
+<p>据报道，阿尔及利亚媒体曾强烈批评阿联酋，指责其试图挑起地区不和。阿尔及利亚总统特本去年表示，阿尔及利亚与所有海湾国家的关系都很友好，唯独一个国家例外。他“不点名”指责该国干涉阿尔及利亚内政，试图破坏阿尔及利亚的稳定。</p>
+<p>路透社称，阿联酋外交部尚未回复寻求置评的电子邮件。(完)</p>
+<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
+<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
+<p>2026年国家基本医保药品目录预计于11月发布</p>
+<p>中国疾控中心提示：9月重点防范这几类传染病</p>
+<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
+<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
+<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
+<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
+<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
+<p>中外学生Citywalk北京西城 街巷间开启“开学第一课”</p>
+<p>香港新赛马季开锣 赛驹“嘉应高升”再创新纪录</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
+<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
+<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 22:03 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-10-10694298-shtml-3f11451884a313e9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="935" data-content-paragraphs="24" data-published-at="2026-09-10T14:03:20.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 22:03</span>
+</div>
+
+### [泰国批准55个项目推动企业应用人工智能和自动化](https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社曼谷9月10日电 (记者 李映民)泰国总理府副发言人拉丽达10日向媒体透露，国家竞争力提升基金委员会已批准55个项目，以支持企业推进技术升级、数字化转型和技能人才培养，其中包括利用人工智能、自动化等技术提升企业生产效率。</p>
+<p>此次获批的55个项目包括48个企业转型项目和7个技能提升项目。48个企业转型项目总投资额约35.4亿泰铢，政府提供约16.63亿泰铢支持资金，重点涉及研发、数字技术、自动化、人工智能以及绿色产业等领域。</p>
+<p>此外，7个技能提升项目获得约3.07亿泰铢支持资金，计划培养约1万名产业技能人才，以满足企业技术升级过程中对专业人才的需求。</p>
+<p>拉丽达表示，此次支持计划旨在推动企业提高生产效率和竞争力，促进新技术在产业领域的应用，同时推动企业向高附加值、数字化和绿色化方向转型。</p>
+<p>国家竞争力提升基金目前已支持108个项目，累计提供约48.25亿泰铢资金支持。相关项目涵盖企业技术升级、研发创新以及人才培养等领域。</p>
+<p>拉丽达表示，近年来泰国持续推动数字经济和先进制造业发展，并将人工智能、自动化及绿色技术作为提升产业竞争力的重要方向。(完)</p>
+<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
+<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
+<p>2026年国家基本医保药品目录预计于11月发布</p>
+<p>中国疾控中心提示：9月重点防范这几类传染病</p>
+<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
+<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
+<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
+<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
+<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
+<p>中外学生Citywalk北京西城 街巷间开启“开学第一课”</p>
+<p>香港新赛马季开锣 赛驹“嘉应高升”再创新纪录</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
+<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
+<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 22:03 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ances-citing-fcc-threats-b3c8c29193989a62" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2007" data-content-paragraphs="26" data-published-at="2026-09-10T14:03:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:48</span>
+  <span class="news-meta-time">🕒 2026-09-10 22:03</span>
 </div>
 
-### [获伯尼·桑德斯支持的民主社会主义者击败罗得岛州普罗维登斯市现任市长](https://www.foxnews.com/politics/democratic-socialist-backed-bernie-sanders-ousts-providence-rhode-island-mayor)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Democratic socialist backed by Bernie Sanders ousts Providence, Rhode Island mayor</div>
+### [吉米·坎摩尔透露其将在“不寻常的情况下”采访詹姆斯·塔拉里科，理由是面临FCC的威胁](https://www.foxnews.com/media/kimmel-reveals-interviewing-james-talarico-unusual-circumstances-citing-fcc-threats)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Kimmel reveals he&#39;s interviewing James Talarico under &#39;unusual circumstances,&#39; citing FCC threats</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/david-morales-acceptance-speech-providence.jpg?ve=1&amp;tl=1" alt="获伯尼·桑德斯支持的民主社会主义者击败罗得岛州普罗维登斯市现任市长" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/KIMMEL-TALARICO.jpg?ve=1&amp;tl=1" alt="吉米·坎摩尔透露其将在“不寻常的情况下”采访詹姆斯·塔拉里科，理由是面临FCC的威胁" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>罗得岛州众议员、现年27岁并获得佛蒙特州独立参议员伯尼·桑德斯（Bernie Sanders）支持的民主社会主义者戴维·莫拉莱斯（David Morales），在周三晚上的民主党初选中击败了普罗维登斯市长布雷特·斯迈利（Brett Smiley），使这位仅任职一届的现任市长下台。</p>
-<p>如果莫拉莱斯在普选中获胜，他将成为普罗维登斯历史上最年轻的市长。</p>
-<p>在以约8个百分点的优势（54%对46%）获胜后，莫拉莱斯在部分用西班牙语发表的胜选演说中表示：“很少有人相信一个27岁的民主社会主义者能够做到，很少有人相信我们能与大金主、企业房地产利益集团以及无休止的抹黑广告抗衡——但我们直面挑战，并且赢得了胜利。”</p>
-<p>现年47岁的斯迈利仅任职一届，他在去年12月处理布朗大学枪击事件时曾遭遇了最为严厉的媒体审查与质询。</p>
-<p>美国悄然展开的社会主义接管正在从市政厅蔓延至课堂</p>
-<p>“所以，邻居们，带着我们投票支持的宏大议程和选民授权，让我们做好准备吧。普罗维登斯，做好准备吧。”</p>
-<p>莫拉莱斯将在11月对阵77岁的共和党候选人戴夫·塔兰（Dave Talan）。共和党在普罗维登斯市议会中没有任何席位，而民主党则占据该市登记选民的绝大多数。2024年，前副总统卡玛拉·哈里斯在该市以51个百分点的优势击败了唐纳德·特朗普总统。</p>
-<p>“普罗维登斯的选民做出了选择，他们在民主党初选中选择了戴维·莫拉莱斯作为我们的下一任市长，”斯迈利在致电莫拉莱斯后发表的败选演说中表示，“尽管我对这一结果感到不悦，但我为我们所开展的竞选活动感到非常高兴和自豪。”</p>
-<p>当前局势：随着选票涌入，关于特朗普与华盛顿特区市长之间潜在社会主义对决需了解的事项</p>
-<p>莫拉莱斯还获得了加利福尼亚州民主党众议员罗·康纳（Ro Khanna）、前普罗维登斯市长豪尔赫·埃洛扎（Jorge Elorza）以及数个工会的支持。他以进步主义政纲展开竞选，内容包括限制租金上涨、扩大可负担住房以及向污染企业和大企业房东增税。</p>
-<p>莫拉莱斯说：“大约在整整一年前的今天，我们发起了一场竞选，核心是一个朴素的愿景：把普罗维登斯当作家园的劳动人民理应能够在此安居。一个朴素的愿景：我们的邻居配得上一位为他们奋斗的市长。”</p>
-<p>这场角逐是进步派挑战者与建制派现任官员之间一系列更广泛的民主党初选争夺战的一部分。莫拉莱斯试图利用民众对住房成本和市政府施政方向的沮丧情绪，而斯迈利则坚称自己的经验和政绩使他成为领导普罗维登斯的更佳人选。</p>
-<p>社会主义造反派在必争席位上迫使温和派民主党人陷入高风险对决</p>
-<p>“我们将以竞选时同样的方式执政——建立联盟，与我们的邻居并肩作战，”莫拉莱斯说。</p>
-<p>这场初选还突显了围绕租金稳定化的博弈。普罗维登斯市议会曾通过一项将某些公寓年租金涨幅限制在4%以内的措施，但斯迈利在4月份否决了该法案。今年5月，市议会以一票之差未能推翻这一否决。</p>
-<p>随着租金成本飙升至历史新高，马姆达尼的可负担性革命陷入停滞</p>
-<p>“当劳动人民因高昂成本被挤出他们所热爱的城市时，我们就必须把每年的租金涨幅限制在4%以内，”莫拉莱斯说。</p>
-<p>“我们将住房正义摆上了选票。”</p>
-<p>莫拉莱斯还坚定主张让普罗维登斯成为非法移民的庇护城市，并反对特朗普政府执行美国移民法的举措。</p>
-<p>身为墨西哥移民母亲之子的莫拉莱斯表示：“普罗维登斯市必须动用我们所能支配的一切工具来捍卫我们的移民社区，保护我们免受法西斯主义的移民与海关执法局（ICE）特工的侵害。”</p></div>
+<div class="article-body" data-article-body="true"><p>深夜秀主持人吉米·坎摩尔（Jimmy Kimmel）周三透露，他将在周四“不寻常的情况下”采访得克萨斯州参议员候选人詹姆斯·塔拉里科（James Talarico）。</p>
+<p>“明晚，我将采访詹姆斯·塔拉里科——就在明晚，在不寻常的情况下，”坎摩尔说，“你们知道，这么多年来，事实上在我们节目开播至今20多年的时间里，我一直在采访竞选公职的美国人，从来没有任何问题，就像莱特曼（Letterman）、莱诺（Leno）、阿塞尼奥（Arsenio）等人所做的那样。我采访过很多政治候选人，从希拉里·克林顿到特德·克鲁兹，再到唐纳德·特朗普本人。”</p>
+<p>坎摩尔特别提到了他在2015年和2016年对唐纳德·特朗普总统的采访。</p>
+<p>【吉米·坎摩尔结束漫长休假回归，向联邦通信委员会主席布伦丹·卡尔发出挑衅讯息】</p>
+<p>“现在他当上了总统，他的联邦通信委员会（FCC）威胁了我，威胁了我们的节目，威胁了我们的电视网ABC、我们的加盟台和地方台，依据仅仅是传统的普通编辑决策，似乎只因为他们不喜欢邀请的嘉宾。因此，出于对我们地方台的考虑，特别是对那些必须应付这种荒唐事的ABC得州加盟台的考虑，我明天对詹姆斯·塔拉里科的采访将不会在电视上播出。它将改在YouTube上发布。它不会上电视。所以，如果你明天想了解这位参议员候选人，你就得去‘吉米·坎摩尔直播秀’（Jimmy Kimmel Live）的YouTube频道，明晚你可以在那里看到完整的采访，”坎摩尔说道。</p>
+<p>他补充道：“谢天谢地我们还有这个渠道，因为在我们现在生活的这个美国，这已经是我们能做到的最好了。当然，直到11月为止。顺便提醒一句，大家一定要去登记投票，因为那是你能做的最重要的事情。”</p>
+<p>【科尔伯特猛烈抨击CBS，称节目被取消‘坐实了向特朗普屈膝下跪的说辞’】</p>
+<p>这一情况让人联想到前深夜秀主持人斯蒂芬·科尔伯特（Stephen Colbert）在得州参议院初选前对塔拉里科的采访，当时塔拉里科正在与得州众议员贾丝明·克罗克特（Jasmine Crockett）竞争。</p>
+<p>科尔伯特的节目现已被取消，该节目当时并未播出对塔拉里科的采访，仅在2月份将其发布到了节目的YouTube频道上。科尔伯特当时宣布，哥伦比亚广播公司（CBS）阻止了他们播出该采访。</p>
+<p>【保守派监督机构向FCC告发称《观点》（The View）是民主党的一项运作，而非新闻节目】</p>
+<p>“《晚间秀》（THE LATE SHOW）并未被CBS禁止播放对联邦众议员詹姆斯·塔拉里科的采访，”该电视网当时告诉福克斯新闻数字频道（Fox News Digital）。</p>
+<p>声明继续写道：“节目组获得了法律指导，获悉播出该内容可能会触发FCC针对另外两名候选人（包括联邦众议员贾丝明·克罗克特）的‘等额时间规则’，并给出了如何满足为其他候选人提供等额时间的方案。《晚间秀》最终决定通过其YouTube频道发布采访，并在电视广播中进行播出推介，而不是去承担提供等额时间方案的可能。”</p>
+<p>【戴维·马库斯：克罗克特在得州的背水一战将如何拉垮塔拉里科】</p>
+<p>最终在参议院初选中输给塔拉里科的克罗克特指责了CBS和科尔伯特的节目。</p>
+<p>“我们实际上接到了一个电话，就在今天早些时候，在电话中他们解释说，他们实际上告诉CBS可以继续推进对詹姆斯·塔拉里科的采访，他们只需要为我提供同等时间即可，”克罗克特在2月接受MS NOW主持人珍·普萨基（Jen Psaki）采访时说，“我根本没有收到科尔伯特节目邀请我参加的请求。”</p>
+<p>“因此，本来有很多选项可以摆上桌面，坦率地说，《晚间秀》决定采取这种方案，我认为这是一个不错的策略，”她说。</p>
+<p>这位议员甚至暗示，这场争议可能反而帮了塔拉里科的竞选活动。</p>
+<p>【惊人民调：塔拉里科在得州参议员竞选中打平帕克斯顿，威胁共和党大本营】</p>
+<p>“我认为这很可能给了我的对手他所寻求的推动力。所以我觉得他没能上电视、直接转为网络流媒体播出反而更好，因为我们知道，当我们反抗时，当我们看到他们似乎试图改变规则并向这位总统屈膝下跪时，结果往往会以历史性的方式适得其反，”她说。</p>
+<p>坎摩尔在夏季休假结束后的第一期节目中也提到了FCC的威胁，并直接点名了FCC主席布伦丹·卡尔（Brendan Carr）。</p>
+<p>【迪士尼就‘针对ABC的报复性行动’起诉FCC，寻求阻止提前牌照续期程序】</p>
+<p>“我们已经做了4000期这样的节目。这很多了，”坎摩尔说，“而在白宫看来，这太多了。”</p>
+<p>“曾经有人说我们绝不可能撑这么久。甚至有人利用FCC的监管权力，以违宪的方式试图确保我们撑不了这么久。但我们历经艰难走过来了，布伦丹。我们依然站在这里，”坎摩尔说。</p>
+<p>【点击此处查看更多媒体与文化报道】</p>
+<p>坎摩尔指的是他的节目曾遭短暂停播，以及2025年与卡尔持续不断的冲突。</p>
+<p>FCC和迪士尼并未立即回复福克斯新闻数字频道的置评请求。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 20:48 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 22:03 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -65,108 +234,7 @@ notice:
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/politics/democratic-socialist-backed-bernie-sanders-ousts-providence-rhode-island-mayor" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-llions-is-your-town-next-2a59e3e6bbb9bbd2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3433" data-content-paragraphs="34" data-published-at="2026-09-10T12:41:50.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:41</span>
-</div>
-
-### [水上浮顶光伏可为城市节省数百万美元，下一个会是你的城镇吗？](https://www.foxnews.com/tech/floating-solar-panels-could-save-cities-millions-is-your-town-next)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Floating solar panels could save cities millions. Is your town next?</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/floating-solar-panels-1.jpg?ve=1&amp;tl=1" alt="水上浮顶光伏可为城市节省数百万美元，下一个会是你的城镇吗？" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>如果你的城镇可以在不牺牲数英亩宝贵土地的情况下建造一座太阳能农场，那会怎样？俄亥俄州利马市正在尝试一种不同的方式。该市已建成一个2兆瓦的太阳能光伏阵列，浮在其主要饮用水水源地双湖水库（Twin Lakes Reservoir）上。</p>
-<p>目前，已有3000多块太阳能电池板漂浮在水面上，并为附近的水处理厂供电。该市预计，在其整个使用寿命期内，该系统将节省近1000万美元的电费。这种节约幅度可能会引起远超俄亥俄州范围的其他城市的关注。</p>
-<p>那么，浮顶太阳能电池板最终会出现在你附近的水库中吗？以下是该技术的工作原理、城市对其产生兴趣的原因，以及它对你的社区可能意味着什么。</p>
-<p>错过了 CyberGuy 直播？观看“守护您的财富”重播</p>
-<p>我们的免费 CyberGuy 直播课程《守护您的财富免受当今最大威胁》已经结束，但您仍然可以观看完整回放并下载我们的财务保护清单。库尔特·“CyberGuy”·克努特松（Kurt &quot;CyberGuy&quot; Knutsson）将向您介绍五种简单的方法，帮助您防御人工智能诈骗、欺诈、身份盗窃和金融黑客攻击。您将学习如何设置银行警报、加强账户登录凭证、保护手机号码、冻结信用额度，并帮助保护您的退休储蓄免遭未经授权的转账。无需任何技术背景经验。</p>
-<p>立即在 CyberGuyLive.com 获取免费回放和清单</p>
-<p>谁在为美国电力繁荣买单？在人工智能热潮下，蓝州与红州提供截然不同的降低公用事业费用方案</p>
-<p>利马市于8月12日正式庆祝其双湖水面浮顶光伏项目的竣工。据开发商 D3Energy 称，最终系统包括分布在约3.6英亩水面上的3120块太阳能电池板。这个2兆瓦的阵列坐落在利马的主要饮用水水库上，该水库为大约3.5万名居民提供水源。</p>
-<p>紧挨着该水库的城市水处理厂每天处理约1400万加仑水。它消耗的电力也超过该市任何其他设施。这使得该水厂成为寻求节能改造的显而易见的目标。利马市预计，浮顶太阳能系统在其使用寿命内将节省近1000万美元的电力成本。该市早先的估算认为第一年可节省约20万美元。对于一家城市公用事业单位而言，这是一笔巨额资金。实际的全生命周期节省金额将取决于未来的电价以及该系统长期的运行表现等因素。</p>
-<p>工程师们没有将电池板安装在立于地面的支架上，而是将它们安装在浮动平台上。锚固件和系泊绳缆将整个阵列保持在原位。</p>
-<p>利马采用的是 Ciel &amp; Terre 公司的 Hydrelio 浮动系统。其锚泊装置与岸边和水库底部相连。该设计还允许阵列随着水位的升降而移动。该项目采用了双面太阳能电池板，两面都能吸收光线。</p>
-<p>电力从光伏阵列输送到陆上的八台逆变器。从那里，电力为水处理厂提供动力。其结果看起来有点像把草地换成了水面的传统太阳能农场。</p>
-<p>这正是这个构想变得尤为吸引人的地方。土地需要成本，而且它还会与住宅、商业、农业和其他开发项目争夺空间。水库本身已经占据了空间。利马的水上浮顶阵列覆盖了约四英亩水面。</p>
-<p>据报道，生产同等电量的地面光伏系统至少需要10英亩土地。这使得浮顶太阳能对开放空间有限的城市颇具吸引力。这些电池板还可以直接安装在需要电力的设施附近。在利马，水处理厂就坐落在水库旁边。这减少了寻找偏远太阳能选址然后再想办法把电力输送到城市所需地点的麻烦。</p>
-<p>研究人员还研究了浮顶太阳能是否能通过遮蔽部分水面来帮助减少蒸发。当然，每个水库的情况各不相同。水深、水位变化和娱乐用途都会影响项目是否可行。联邦研究人员在评估潜在选址时，还会考虑现有的水坝运营情况。</p>
-<p>议员们在新众议院法案中通过彻底的许可制度改革瞄准能源可负担性</p>
-<p>这是我最初产生的疑问之一：这些电池板漂浮在为大约3.5万人提供饮用水的同一水库上。利马的系统采用了由高密度聚乙烯（HDPE）制成的 Ciel &amp; Terre Hydrelio 浮筒。</p>
-<p>Ciel &amp; Terre 表示，其浮动系统符合 BS 6920:2000 标准，该标准适用于接触人类生活饮用水的非金属材料。尽管如此，考虑采用浮顶太阳能的社区需要评估的，远不止于该结构是否能安全漂浮。</p>
-<p>美国国家可再生能源实验室（National Renewable Energy Laboratory）已经研究了围绕浮顶太阳能的环境和监管问题。其研究指出，由于地点不同，项目对水体的影响也会有所不同。这意味着在一个水库上表现良好的系统，在另一个地方可能需要采用不同的设计。</p>
-<p>还有一个值得注意的数字。利马项目的成本约为530万美元。联邦政府的资金支持在促成这笔收支平衡方面发挥了实质性作用。该市获得了能源部240万美元的拨款。加上近90万美元的联邦直接支付税收抵免，这些支持帮助抵消了该项目大约一半的成本。</p>
-<p>这些激励措施涵盖了很大一部分前期开支。当另一个城市审视利马预计节省1000万美元这一数据时，了解这一背景至关重要。一个考虑建造浮顶太阳能的城镇，需要全面审视建设成本、融资方式以及预期的发电量。可获得的政策激励措施也可能会改变这一财务测算。</p>
-<p>在施工人员将电池板安装到水面上之前数年，利马市就已经开始论证该项目。市议会于2023年批准推进该项目。施工于2025年开始，随后系统于今年8月正式并网发电。</p>
-<p>利马的做法如今看来可能有些与众不同，但浮顶太阳能拥有巨大的增长空间。俄亥俄州已拥有不止一个此类项目。D3Energy 和 ARP Solar 于2024年在俄亥俄州特拉华县为 Del-Co Water 完成了一个1.5兆瓦的浮顶阵列。位于门罗维尔的一个6兆瓦系统预计将在2026年底前上线投运。</p>
-<p>更大的机遇远远超出了俄亥俄州的范围。美国国家可再生能源实验室的研究人员对全美由联邦政府所有或监管的水库进行了研究。他们估计，这些水库具备861至1042吉瓦浮顶太阳能装机容量的技术潜力。</p>
-<p>该数据代表的是技术潜力，并非预言成千上万座水库很快就会被遮蔽在太阳能电池板之下。许多地点可能永远都不适合建设。</p>
-<p>尽管如此，这种规模有助于解释为什么能源开发商和地方政府正更加密切地关注水域。CyberGuy此前曾报道过更大规模的相关构想。印度的奥姆卡雷什瓦尔（Omkareshwar）项目展示了漂浮式太阳能装置的规模能变得多么庞大。我们还看到开发商在重新思考陆地太阳能装置的外形设计。一家德克萨斯州的公司正在建造垂直太阳能塔，旨在利用更小的占地面积生产更多的电力。</p>
-<p>美国破碎的许可制度正在悄然推高你的生活成本</p>
-<p>这正是我会密切关注的部分。利马预计在该项目的整个生命周期内将节省近1000万美元的电力成本。但这并不意味着居民的水费账单会立刻变得便宜。该市可能会以不同方式使用这些节省下来的资金。更低的能源成本有助于弥补其他支出、支付基础设施升级费用，或缓解未来费率上涨的压力。</p>
-<p>因此，如果浮动太阳能项目来到你的城镇，有一个问题值得提出：这些节省下来的费用最终会有任何一部分返还给你吗？这个答案可以决定这项技术究竟在多大程度上真正帮助了那些支付账单的人。</p>
-<p>你可能不会花太多时间去思考当地的水厂消耗了多少电力。然而，你最终都在通过税收、公共事业费率或两者兼有的方式为这些电力买单。浮动太阳能为城市提供了另一种削减该项支出的途径，且无需购买大片土地。</p>
-<p>它也引出了一些你在为项目欢呼之前应该提出的问题。这需要耗资多少？它实际上能发电多少？节省下来的资金将作何用途？你还应该询问将通过何种测试和监测来保护供水安全。这些答案将告诉你浮动太阳能项目对你的社区而言是否具有经济合理性。</p>
-<p>利马浮动太阳能项目令我赞赏之处在于其构想的务实性。该市本就拥有该水库，且紧邻的水处理厂消耗着巨大的电量。因此，利马没有另寻土地安装太阳能电池板，而是将它们置于水面之上。此外还有预计节省的1000万美元。这无疑引起了我的注意。我想看看这些节省的开支能否经得起时间的检验，更重要的是，居民最终能否从中受益。利马也为其他城市提供了一个切实可参考的范例。我们看到各个社区正在尝试生成和存储能源的新途径，从浮动太阳能到大型电池项目。谁知道呢？你所在城镇的下一个太阳能项目说不定就会直接漂浮在水面上。</p>
-<p>如果官员表示该项目可以节省数百万美元，你会对漂浮在城镇饮用水水库上的数千块太阳能电池板感到放心吗？还是说你需要先看到更多长期证据？欢迎写信至Cyberguy.com告诉我们。</p>
-<p>版权所有 2026 CyberGuy.com。保留所有权利。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 20:41 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/tech/floating-solar-panels-could-save-cities-millions-is-your-town-next" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-fic-game-troubling-trend-14a22249b138cf5d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1127" data-content-paragraphs="1" data-published-at="2026-09-10T12:41:11.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:41</span>
-</div>
-
-### [表现灾难且趋势堪忧，德雷克·梅耶赛后遭NFL球迷口诛笔伐](https://www.foxnews.com/outkick-sports/drake-maye-dragged-through-mud-nfl-fans-horrific-game-troubling-trend)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Drake Maye gets dragged through the mud by NFL fans after horrific game, troubling trend</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/devon-witherspoon-drake-maye-seahawks-patriots.jpg?ve=1&amp;tl=1" alt="表现灾难且趋势堪忧，德雷克·梅耶赛后遭NFL球迷口诛笔伐" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>事情变得越多，就越是一成不变。<br />对德雷克·梅耶来说，这可不是什么好事。<br />在周三晚上的NFL揭幕战中，新英格兰爱国者队痛失10分领先优势，输给了德鲁·洛克带领的西雅图海鹰队，而他们的明星四分卫再次成了球队的隐患。<br />德雷克·梅耶的糟糕决断将揭幕战胜利拱手送给海鹰队，爱国者队新赛季惨遭当头棒喝<br />梅耶在上赛季季后赛四场比赛中出现了8次失误，而在周三晚上，他又送出了3次被抄截，其中包括最后彻底压垮新英格兰队的一记堪称史上最离谱的被抄截传球。<br />天哪。我已经回放了十来遍，每次点击播放都觉得惨不忍睹。无论从哪个角度看，这都极其糟糕。<br />顺便说一句，任何看了比赛的人都能隐隐感觉到这一幕的到来。梅耶整晚都无法连线纵深传球，几乎所有的成功传球都发生在开球线附近。<br />新英格兰队的战术安排简单得令人震惊：硬生生让拉蒙德雷·史蒂文森持球冲锋18次，平均每次冲球仅推进2.7码，然后再传球给……平飞区的拉蒙德雷·史蒂文森……推进3码。<br />《克雷格·卡顿秀》（THE CRAIG CARTON SHOW）——真实不遮掩、毫无妥协、不容错过。立即下载他的每日播客！<br />这对橄榄球迷来说已经成了司空见惯的场景，甚至可以追溯到上赛季饱受质疑的季后赛之旅——而此前常规赛的含金量同样存疑，因为爱国者队当时的赛程难度是全联盟最低之一。<br />如今已是梅耶征战的第3年，显而易见，球迷们开始注意到了这种趋势：<br />我还可以继续举例。当你打出如此稀烂的表现时，NFL推特圈就会变成人间地狱。更糟糕的是，这还是赛季揭幕战，球迷们积攒了长达八个月的锐评亟待宣泄。<br />我完全理解。这正是这项运动之所以成为世界顶级运动的原因。波士顿球迷深爱着他们的四分卫。三年来他们一直渴望德雷克·梅耶能够成为汤姆·布雷迪的接班人。哪怕到最后一刻他们也会为他辩护。<br />但昨晚的表现实在让人无从洗白。<br />在15码以上的长传中，梅耶6投仅1中，且被抄截3次。作为一名NFL四分卫，打出这样的数据简直匪夷所思——更何况还有球迷曾坚称他上赛季本该击败马特·斯塔福德夺得常规赛MVP。<br />爱国者队的进攻始终找不到节奏。第二节一次跳蚤骗局传球战术中，梅耶严重欠力传给A.J.布朗（布朗随后受伤）——而球队在第四节不知怎么搞的，竟然把10-0的领先优势拱手送给了德鲁·洛克。<br />互联网早就磨刀霍霍准备开喷，而梅耶直接给他们送上了一记正中红心的大好把柄。<br />显然，这不过是一场比赛而已。顺便说一句，赛季首战总是诡异莫测。这个周末还会发生许多你在赛季其余时间绝不会见到的怪事。相信我。<br />但是，与上赛季不同的是，梅耶和爱国者队接下来的赛程丝毫不见轻松。在未来三周内，他们将先后对阵钢人队、美洲虎队和比尔队。<br />梅耶大概率会挺过去的。<br />但这背后的苗头绝对值得持续关注。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 20:41 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/drake-maye-dragged-through-mud-nfl-fans-horrific-game-troubling-trend" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/media/kimmel-reveals-interviewing-james-talarico-unusual-circumstances-citing-fcc-threats" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 ::::

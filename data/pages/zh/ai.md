@@ -16,8 +16,314 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-g-google-spec-comparison-aac9f5e668eceed1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="710" data-content-paragraphs="1" data-published-at="2026-09-10T14:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 22:00</span>
+</div>
+
+### [iPhone Duo 与其他折叠屏手机对比表现如何](https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison)
+<div class="original-title-sub"><span class="orig-tag">原文</span> How the iPhone Duo compares to other folding phones</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="iPhone Duo 与其他折叠屏手机对比表现如何" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件摘要和主页动态中。<br />苹果的首款折叠屏手机与竞争对手相比表现如何？<br />该作者的帖子将添加到您的每日电子邮件摘要和主页动态中。<br />查看 Brad Bourque 的全部文章<br />苹果的折叠屏手机终于来了——好吧，差不多快来了。将于 10 月 23 日发售的 iPhone Duo 紧跟三星（Samsung）、一加（OnePlus）和谷歌（Google）等安卓手机厂商以往折叠设备的步伐，其 1,999 美元的售价略高于 Pixel 11 Pro Fold 和 Galaxy Z Fold 8。<br />虽然其硬件与竞争对手有相似之处，但 iPhone Duo 是少数几款采用类似护照式设计形态的机型之一。其内屏与外屏的长宽比相同，甚至在半折叠状态下也能适配部分应用程序。内屏配有特殊的外层结构，结合其铰链设计，使得内部折痕几乎难以察觉（这是许多竞争对手都在苦苦攻关的技术，尽管三星和 Oppo 正在取得令人赞叹的进展）。<br />我们在苹果的“Surprise and shine”（惊喜闪耀）发布会上有机会亲自上手体验了 iPhone Duo，因此如果您想详细了解它的实际使用手感，我们的上手体验文章是个绝佳的切入点。随着发售日期的临近，我们将持续对这款手机进行报道，敬请关注我们后续的完整评测。<br />将苹果与安卓厂商的折叠屏手机进行规格对比，就像对比直板手机一样，成了一种“关公战秦琼”式的跨阵营难题。不过，我们认为将 iPhone Duo 与其最接近的竞争对手的全部规格参数罗列呈现，依然大有裨益。<br />查看全部 2026 苹果发布会内容<br />查看全部折叠屏手机内容<br />最重要的热点新闻免费每日摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>苹果推出折叠屏手机 iPhone Duo，定于10月23日发售</li>
+    <li>iPhone Duo 售价为 1,999 美元，价格略高于 Pixel 11 Pro Fold 和 Galaxy Z Fold 8</li>
+    <li>来源叙事重点：将苹果首发折叠屏设备 iPhone Duo 置于成熟的 Android 折叠屏竞争格局中，重点审视其类护照同比例屏幕、铰链消痕工艺及 1,999 美元的高溢价定位</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-is-tadalafil-mens-health-ddafb986f48e607e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3966" data-content-paragraphs="10" data-published-at="2026-09-10T14:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 22:00</span>
+</div>
+
+### [针对男性气概的新标准正对男性健康造成负面影响](https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health)
+<div class="original-title-sub"><span class="orig-tag">原文</span> New standards for masculinity are stacked against men’s health</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-151060900.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="针对男性气概的新标准正对男性健康造成负面影响" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来自该话题的帖子将被添加到您的每日电子邮件文摘和主页动态中。<br />追逐不切实际的标准正在促使男性把自己变成DIY科学实验品。<br />来自该作者的帖子将被添加到您的每日电子邮件文摘和主页动态中。<br />查看 Victoria Song 的全部文章<br />每当算法推送来一堆热气腾腾的“颜值最大化”（looksmaxxing）内容时，我都会回想起英剧《米切尔和韦伯双人秀》（That Mitchell and Webb Look）中的一段老小品。广告旁白对一位普通女性说，她“漏水、多毛、衰老、超重，而且全身哪哪都疼”。得意的旁白表示，看在上帝的份上，女人们赶紧买大约300美元的产品来收拾好自己吧。跳切之后，一个普通男性被告知去刮个胡子然后喝个烂醉，背景里吉他声轰鸣。原因是什么呢？因为他本来就已经很棒了。<br />当那个小品在2009年首播时，它之所以搞笑，是因为它大致符合现实。但在当今这个“颜值最大化”的时代，男人们越来越痴迷于睾酮、为了追求刀削般的下颌线不惜砸断骨头、还要优化自己的生殖器，那个小品如今读来就像是一瞥古代史。<br />如今，你会看到男人们在 Reddit 子版块和 Facebook 群组里发布健身前后的对比照，紧绷手臂以达到青筋暴起的二头肌极致视觉效果。在评论区，他们相互打听彼此的药物组合（stacks）、用药方案（protocols）以及剂量建议，涵盖从睾酮到未经批准的灰市多肽的一切内容。有人说这是为了吸引辣妹；有人说这是为了让健身房里的增肌效果最大化；还有一些人似乎认为，把自己变成科学实验品就能找到不老泉。在我看来，这与女性长久以来的遭遇如出一辙：购买利用自身容貌焦虑大做文章的江湖神药。<br />“我吃犀利士（Cialis），但不是为了做爱，”生物黑客兼科技创业者布莱恩·约翰逊（Bryan Johnson）在 X 上的一篇帖子开头写道，“它实际上是一种长寿药物。犀利士（他达拉非）之所以棒，其原理与它能让你拥有美妙勃起是一样的……它能改善血流。”<br />他达拉非确实能够改善血流。这种药物是一种血管扩张剂，意味着它能放松肌肉并扩张血管。它最广为人知的用途是治疗勃起功能障碍。（需要说明的是，它本身并不引起勃起，而是在勃起发生时帮助维持状态。）它也被处方用于缓解前列腺肥大患者的排尿问题以及肺动脉高压。像约翰逊这样的生物黑客鼓吹每日小剂量服用他达拉非有助于降低心血管风险和认知能力下降。健身狂热者经常将他达拉非微剂量作为练前补剂服用，因为据称其勃起效果更好，而且扩张血管被认为能够带来更好的“肌肉充血感”。<br />支持使用兴奋剂的“强化运动会”（Enhanced Games）背后的运营公司 Enhanced，在其官网上销售低剂量他达拉非。最臭名昭著的颜值最大化博主 Clavicular 也曾表示，他过去曾服用大约5毫克的他达拉非作为庞大用药组合的一部分。然而，他当时年仅20岁，与医生通常会开具他达拉非处方的人群画像大相径庭。知名播客主持人安德鲁·胡伯曼（Andrew Huberman）也在其节目中建议，每一位40岁以上的男性都应将低剂量他达拉非作为预防措施服用。<br />当然，他达拉非与其他任何药物无异。虽然很多人在每日低剂量下可能不会出现不良反应，但仍有一部分人会出现不良反应。而且就像任何药物一样，有些人并不适合服用，同时还存在需要警惕的药物相互作用。<br />如果这些网红只是在推广他达拉非倒也罢了。但大多数人都在推崇多种物质，而且似乎每一项都是你“成为真男人”所必需的。例如，睾酮在同一群体中就极受欢迎。首届“强化运动会”中有91%的运动员涉足过睾酮。值得注意的是，皮特·海格塞斯（Pete Hegseth）最近宣布对军队实行强制睾酮筛查。还有人热捧瑞他曲肽（retatrutide）——一种目前正处于三期临床试验阶段且未经批准的多肽——以及 TB-500 和 BPC-157，后两者是俗称为“金刚狼组合”的灰市多肽，因被认为具有伤口愈合和肌肉恢复效果而得名。而且你叠加的物质越多，这种组合产生非预期效应的风险就越大。如果是面对缺乏深入研究的实验性疗法，连医生都可能不知道那些后果究竟是什么——而且可能在很长一段时间内都无法弄清。<br />承担这些风险的公开理由形形色色。但无论是为了帮助练就肌肉身材、延年益寿、提升床笫表现，还是仅仅为了“更有精力”，归根结底都传递着同一个信息：这能让你更具男人味。<br />“这种男性气概带有一点幻想色彩，”约翰霍普金斯大学帕特里克·C·沃尔什泌尿外科讲席教授阿瑟·伯内特（Arthur Burnett）博士在谈到当前文化对“最大化（maxxing）”的痴迷时说道。伯内特对此深有发言权。除了拥有三十多年的男性健康专家经验外，他对勃起组织中一氧化氮生化机制的研究，曾帮助为伟哥等药物的面世铺平了道路。<br />对于男性承担起所有这些额外要求，他表示“这实际上没有科学依据”。“我认为，不幸的是，我们已经把钟摆推向了一个可能有害的方向——坦白讲，至少在心理层面上是如此，甚至在身体上也是可能有害的。试图挪用‘预防’和‘男性健康’等医学术语可能是有问题的。”<br />我目前正在就多肽的使用进行深入报道，希望能采访正在使用灰市多肽的普通人。如果您有兴趣参与，请发送电子邮件至 victoria.song@theverge.com 或在 Signal 上发消息至 @vicmsong.14。<br />伯内特实质上指出了临床医生与生物黑客/颜值最大化社群在看待医学时的分歧。一方面，专业医疗人员大多将药物视为治疗身体缺陷并使人们恢复到“正常”基线的一种手段；另一方面，网红和狂热爱好者（其中也可以包括部分临床从业者）则认为药物可以且应当用于让人类“增强”并突破其自然极限。这种张力正是健康保健这个“狂野西部”中诸多争论的核心所在。<br />“预防性医疗保健本应是让那些处于危险之中或存在健康问题的人能够做出改变，以纠正问题。而你在这里看到的，却是完全健康的人正在做一些可能会带来隐患的事情，”伯内特解释道。<br />他说，睾酮就是一个典型的例子。原本健康的男性如果过量补充这种类固醇激素，往往会在无意中导致自身不育。对一些男性来说，过多的睾酮还会诱发脱发的遗传易感性——而颜值最大化者通常会通过服用米诺地尔来应对这种脱发。接着再添加另一种补剂、药物或产品来对抗米诺地尔的副作用——包括头晕、头痛和腹胀——你最终的用药组合（stack）就是这样滚雪球般拼凑出来的。</p>
+<p>在所有这些补剂组合和方案中，被人们遗忘的一点是：健康并不等同于最优化。对许多年轻男性而言，“最优化”似乎算不上一个目标，反而更像是一条被期望永远维持的、定义模糊的基准线。任何达不到这一标准的状况都被视为失败、软弱——即不健康。</p>
+<p>打发下午时光的一种令人沮丧的方式，就是翻看外貌最大化（looksmaxxing）和用药（gear）论坛。（我不建议在里面停留太久——除非你想自讨苦吃，去阅读那些充满4chan风格的、关于生殖器尺寸和“每周斩获”的侮辱与谩骂。）</p>
+<p>在一篇帖子中，一名自称18岁的用户发帖咨询希爱力（Cialis）的用药剂量，以获得更好的勃起状态和“在疲软时显得更修长下垂”。在一个生物黑客（biohacking）子论坛中，一名30岁的男子基本上是在集思广益，询问自己是否正在对达泊拉非（tadalafil）产生“依赖”。尽管姿态百出，但在我读过的所有帖子里，没有一个男性看起来是发自内心快乐的。他们常常吹嘘自己感觉有多棒，或者自己有多少征服战绩。但大多数时候，底下似乎都潜藏着一股愤怒的自我厌恶暗流。一种绝望地想要“修复”自己的冲动……但究竟是为了什么，或者为了谁？我从未找到过一个说得通的答案。</p>
+<p>诚然，我不是男性。我永远无法体会身为男性的感受，也不会经历男性所面临的社会压力。但互联网在放大一小部分将自己变成科学实验品的男性群体这一现象上，确实存在某些耐人寻味之处。从相对温和的趋势（如男士粗粮的高蛋白包装、小罗伯特·F·肯尼迪与摇滚小子赤膊健身的新闻报道），到“增强型运动会”（Enhanced Games）和布莱恩·约翰逊（Bryan Johnson）所搞的那些名堂之间，俨然存在着一条推波助澜的输送链。在Whoop的AI开始建议你的老板提高睾酮水平之前，这些东西很容易被一笑置之——然而AI这么建议并不是因为他缺乏睾酮，而是因为他在体能表现上“尚未达到最优化”。</p>
+<p>“这种情况在我的门诊中时常发生——男人们认为自己需要身体增强，或者对某些干预措施感到不满，又或者觉得自己的表现没有达到某个水准，”伯内特（Burnett）说。“这其实适得其反，因为它实际上加剧了围绕男性健康的污名化，因为他们无法达到自己心目中‘理想男人’的设定。”他说，这会催生更多的焦虑、压力、尴尬和羞耻感。最重要的是，这让男性更难坦诚地谈论真正的健康问题或向专业人士求助。任何“不正常”的情况，都变成了只能默默忍受或靠吃补剂来消除的事情。</p>
+<p>目前来看，这或许还局限于一个重度网瘾的小众群体中。（伯内特表示，这些行为在他的诊疗实践中尚未极其普遍，但话又说回来——当养生骗子们最先试图抹黑的就是医疗建制时，那些最容易受影响的男性信任正规医疗机构的可能性又有多少呢？）但这个小众群体声音很大，而且极度热衷于发帖。最终，哪怕人人都心知肚明，这些信息还是会渗透到更广泛的文化之中。</p>
+<p>我唯一能得出的结论是：那些外貌最大化狂热者的状态并不好。我希望终有一天他们能好起来，希望这只是一场过眼的狂热，终有一天我们可以回过头来付之一笑。但在当下，我想以伯内特的一条建议来结尾。</p>
+<p>“只要我们生活得健康，我们就是在做正确的事。请接纳自己作为真实自我的优秀之处，不要被网红博主所左右。”</p>
+<p>一份汇集最重要新闻的免费每日摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>他达拉非（Tadalafil/Cialis）是一种血管舒张剂，通过放松肌肉和扩张血管来改善血流，主要用于治疗勃起功能障碍、前列腺肥大引起的排尿问题以及肺动脉高压。</li>
+    <li>Bryan Johnson 在 X 上发文称自己服用 Cialis 不是为了性生活，而是作为长寿药物以改善血流。</li>
+    <li>来源叙事重点：揭露并批判当代男性社群中蔓延的‘容貌优化’（looksmaxxing）与生物黑客潮流。文章聚焦年轻健康男性通过微量服用他达拉非（Cialis）、睾酮及未经批准的灰市肽类等药物打造‘药物组合’（stack）追求极致男性气概和身体性能的现象，警示该亚文化将医疗术语商业化/庸俗化、缺乏科学循证支持，且加剧了男性的身心健康隐患与容貌焦虑。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ndian-startup-mitti-labs-7a9351ec78e1d19e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2125" data-content-paragraphs="22" data-published-at="2026-09-10T13:34:01.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 21:34</span>
+</div>
+
+### [谷歌与印度初创公司Mitti Labs签署其最大水稻甲烷减排碳信用协议](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs</div>
+
+<div class="article-body" data-article-body="true"><p>谷歌（Google）已同意在2030年前向印度气候科技初创公司Mitti Labs采购100万份碳信用。两家公司表示，这是迄今为止公开宣布的规模最大的通过减少水稻种植甲烷排放而生成碳信用的交易。</p>
+<p>Mitti Labs联合创始人哈维尔·拉瓜尔塔（Xavier Laguarta）在接受采访时表示，这项为期四年的协议将覆盖印度卡纳塔克邦、安得拉邦和特伦甘纳邦的水稻农场，交付峰值期覆盖面积将达到约10万公顷。具体财务条款未予披露。</p>
+<p>该项目将向农民支付报酬，鼓励其采用缩短稻田淹水时间的方法，在减少耕作期间甲烷排放的同时节约用水。Mitti Labs表示，这项技术能够在不降低作物产量的前提下，减少约50%的甲烷排放量，并节省约40%的灌溉用水。</p>
+<p>目前谷歌因在人工智能基础设施领域投入巨资，正面临实现2030年净零排放目标的严峻挑战。根据其6月发布的环保报告（PDF），该公司2025年的温室气体排放量同比增长18%，达到约1450万公吨二氧化碳当量。</p>
+<p>拉瓜尔塔向TechCrunch透露，在大约一年前，随着这家科技巨头探索将甲烷减排项目纳入其碳信用投资组合，Mitti Labs开始与谷歌展开洽谈。他表示，该项目的节水效果以及Mitti Labs的规模化运作能力在一定程度上吸引了谷歌。</p>
+<p>在过去两年中，这家初创公司的项目已累计节水超过5000亿升。拉瓜尔塔表示，与谷歌的交易将推动Mitti Labs进一步扩张，使其具备与大型企业买家合作所需的规模能力。</p>
+<p>“谷歌是市场上最成熟的买家之一，拥有极其严格的尽职调查流程，获得其认可对我们而言显然是一个积极信号，”拉瓜尔塔补充说，该交易将使Mitti实现大幅规模化。</p>
+<p>拉瓜尔塔称，在签署协议之前，谷歌的评估工作包括对Mitti Labs监测技术的严格审查以及对农场的实地考察。这家成立于2023年、总部位于纽约和班加罗尔的初创公司打造了一个地理人工智能（GeoAI）平台，将卫星雷达图像与实地测量相结合，远程监测小农户农场的农作物生长、土壤湿度以及受淹情况。</p>
+<p>该平台使用来自商业和公共卫星的合成孔径雷达图像，分辨率从50厘米到10米不等。拉瓜尔塔介绍，Mitti还利用在田间收集的专有数据来训练其人工智能模型。</p>
+<p>拉瓜尔塔表示，出售给谷歌的碳信用可由黄金标准（Gold Standard）或Isometric这两家碳信用认证机构签发。他补充称，在碳信用签发前，这些项目都将作为认证流程的一部分接受独立的第三方核查。</p>
+<p>除谷歌外，Mitti Labs的客户还包括碳交易市场Cool Effect、大米生产商Ebro Foods以及农业公司先正达（Syngenta）。拉瓜尔塔向TechCrunch表示，与谷歌的协议是Mitti Labs迄今为止达成的最大承购协议。</p>
+<p>Mitti Labs目前与超过10万名农民合作，目标是到2030年覆盖数百万名农民。拉瓜尔塔表示，与谷歌的协议将助力初创公司扩展项目，进而迈向这一目标。</p>
+<p>拉瓜尔塔指出，该初创公司项目的大部分收入都会流向农业社区。但他拒绝透露参与谷歌项目的农民具体将获得多少收益。</p>
+<p>尽管谷歌的项目目前仅限于印度，但Mitti Labs计划在今年晚些时候进军菲律宾开展业务，并在2027年拓展至印度尼西亚及其他东南亚市场。</p>
+<p>拉瓜尔塔认为，随着越来越多企业转向通过农业项目来应对甲烷排放，该市场蕴含着巨大的增长空间。他向TechCrunch表示，印度、东南亚和中国约有1.5亿农民种植水稻。</p>
+<p>与Mitti Labs的交易并不是谷歌在印度的第一笔碳去除投资。2025年1月，这家总部位于加州山景城的公司曾与位于古尔冈的Varaha合作购买了10万吨碳信用。那是谷歌在印度首次大规模采购碳去除信用，也是涉及生物质生产生物炭的最大一笔交易。</p>
+<p>谷歌还在印度布局清洁能源项目以应对其供应链排放。该公司已签署了一项与拉贾斯坦邦150兆瓦太阳能项目挂钩的协议，使其与ReNew在该邦签约的太阳能装机容量达到300兆瓦。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。</p>
+<p>Jagmeet在TechCrunch主要负责报道来自印度的初创公司、科技政策更新以及其他重大以科技为核心的动态。他此前曾担任新德里电视台（NDTV）的主任记者。</p>
+<p>您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系或核实Jagmeet的外联信息。</p>
+<p>不要错过。初创企业社区将汇聚一堂，共同探讨一个关键问题：在AI时代，你该如何实现可持续发展？</p>
+<p>苹果推出首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上采取不正当竞争手段<br />一部关于伊丽莎白·霍姆斯（Elizabeth Holmes）的神秘新纪录片震撼特柳赖德电影节<br />TechCrunch Mobility专栏：特斯拉Cybercab上路——并遭遇波折<br />多名徒步旅行者在使用谷歌Gemini规划路线后被困获救<br />联邦政府对特斯拉Cybercab部署展开调查<br />特斯拉正在询问人们是否愿意购买并运营Cybercab车队</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:34 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--drivers-licenses-stolen-183e359fd819f27c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1198" data-content-paragraphs="18" data-published-at="2026-09-10T13:21:09.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 21:21</span>
+</div>
+
+### [身份核验巨头 IDScan 证实发生数据泄露，逾 1.5 亿张驾照被窃](https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen</div>
+
+<div class="article-body" data-article-body="true"><p>身份核验服务商 IDScan 已证实，其系统遭遇的一起数据泄露事件涉及驾照被窃。就在一周前，有报道称该身份凭证核验机构在一场持续一年的黑客攻击中遭到入侵。</p>
+<p>该公司在官网公告中表示，黑客从其云端窃取了驾照信息；被盗信息包括个人的全名、驾驶证号，以及护照等其他政府签发证件的身份证件号。</p>
+<p>这家总部位于路易斯安那州的企业服务于从娱乐场所到大麻药房等各类企业客户，用于查验其客户的身份证件。该公告是该公司首次承认遭到黑客入侵。该公司上周曾表示正在调查一起事件，但当时尚未确认发生入侵。</p>
+<p>IDScan 在公告中表示，公司在 9 月 1 日前后“收到了关于黑客攻击指控的信息”，而就在同一天，独立网络安全记者布莱恩·克雷布斯（Brian Krebs）首次报道了 IDScan 的数据泄露事件。</p>
+<p>克雷布斯报道称，有人提醒他注意暗网上的一个网站，该网站允许任何人搜索居住在美国和加拿大的逾 1.5 亿人的驾照信息，包括调阅其照片。克雷布斯通过核对自己本人的记录验证了数据的真实性。该数据库中还包含知名人士的信息，包括美国国防部长皮特·海格塞斯（Pete Hegseth），以及一名同样向克雷布斯核实了自己记录的安全研究员。</p>
+<p>五角大楼上周对 TechCrunch 表示，已知悉这起疑似泄露事件；美国联邦调查局（FBI）发言人也表示正在对该事件进行调查。</p>
+<p>IDScan 在其网站上表示调查仍在进行中。该公司的声明称，“尽管获取完整信息需要付费”——这可能是指黑客要求支付资金以获取被盗数据的完整缓存——公司已在网站上发布通知以告知潜在受影响人员。IDScan 尚未透露有多少人受到影响，但其网站上注明其拥有超过 1.5 亿条驾照记录。</p>
+<p>IDScan 未回应 TechCrunch 就此事件寻求置评的请求，例如黑客是否曾联系该公司并索要赎金以换取不公开数据。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>您可以通过 Signal 发送加密消息至 zackwhittaker.1337 与他联系。您也可以通过电子邮件与他联系，或发信以验证联络真实性：zack.whittaker@techcrunch.com。</p>
+<p>切勿错过。初创企业社区将汇聚一堂，共同探讨一个关键问题：在 AI 时代，如何实现可持续发展？</p>
+<p>苹果发布首款折叠屏手机 iPhone Duo</p>
+<p>纽约大学数学家称 OpenAI 在关乎学术生涯的重要数学问题上手段不端</p>
+<p>一部秘密制作的伊丽莎白·霍姆斯全新纪录片震惊特柳赖德电影节</p>
+<p>TechCrunch 出行专栏：特斯拉 Cybercab 上路——并遭遇波折</p>
+<p>徒步旅行者在使用 Google Gemini 规划行程后获救</p>
+<p>联邦监管机构对特斯拉 Cybercab 的部署展开调查</p>
+<p>特斯拉正在询问人们是否有意购买并运营 Cybercab 车队</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:21 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--plan-events-and-meetups-f0c24581ae5afb5a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="498" data-content-paragraphs="9" data-published-at="2026-09-10T13:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 21:00</span>
+</div>
+
+### [Snapchat 让策划活动与聚会变得更轻松](https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Snapchat makes it easier to plan events and meetups</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/snapchat-plans.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Snapchat 让策划活动与聚会变得更轻松" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该话题的相关文章将被添加到您的每日电子邮件摘要和主页动态中。</p>
+<p>Snap 正在将应用内已有的用户行为固化为正式功能。</p>
+<p>该作者的相关文章将被添加到您的每日电子邮件摘要和主页动态中。</p>
+<p>查看 Thomas Ricker 的全部文章</p>
+<p>Snapchat 正在推出 Plans，这是一套全新的功能套件，旨在帮助用户在无需离开应用的情况下，将群聊中已经在讨论的计划——从生日庆祝、学习小组到周末聚会——转变为现实生活中的相聚。</p>
+<p>Plans 允许用户设置活动详情，最多可邀请 200 位好友；邀请函上配有动态 Bitmoji 表情，会随着好友的回复而发生变化，并可追踪回复状态（RSVP）。邀请函通过一对一私聊发送，系统还会在预定活动开始前自动向参与者发送提醒。用户个人资料页上的专属“我的计划”（My Plans）标签页，可用于跟踪即将到来和过去的活动计划。</p>
+<p>Snap 目前在关键市场正苦于留存用户，因此，在公司所有者将精力分散在智能眼镜业务之际，像 Snapchat Plans 这样旨在促使用户持续回访应用的功能，对其长期前景可能至关重要。</p>
+<p>免费获取最重要的新闻每日摘要。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--event-planning-features-937d110366141387" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1365" data-content-paragraphs="11" data-published-at="2026-09-10T13:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 21:00</span>
+</div>
+
+### [Snapchat推出全新活动策划功能，直指Partiful](https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Snapchat takes aim at Partiful with new event-planning features</div>
+
+<div class="article-body" data-article-body="true"><p>Snapchat于周四宣布推出“Snapchat Plans”，这是一套用于与好友创建、分享和管理现实活动的功能套件。这项全新的活动策划功能允许用户在一个地方集中发送与接收邀请，并跟踪时间、地点和参与者等详细信息。</p>
+<p>Snapchat表示，新功能可用于组织从生日聚会、体育赛事到学习小组和周末聚会的各类活动。</p>
+<p>随着年轻用户逐渐转向使用专用应用程序来组织聚会，而不是依赖群聊或社交媒体，Snapchat希望借助Snapchat Plans正面迎战知名活动策划与电子邀请平台Partiful。Snapchat并非唯一一家挑战Partiful及其他邀请应用的科技公司，苹果公司去年也推出了一款名为Invites的应用，允许用户为各种场合创建定制邀请函。</p>
+<p>Snapchat用户可以通过添加标题、选择日期和时间并邀请最多200位好友来创建被称为“Snapchat Plan”的活动。随后，邀请函会直接通过一对一聊天发送给每位受邀好友。受邀嘉宾随后可以通过“参加”（Going）、“可能参加”（Maybe）或“无法参加”（Can’t Go）进行回复（RSVP）。</p>
+<p>该应用还在用户个人资料页面新增了“My Plans”（我的计划）版块，便于用户快速浏览自己所有当前、即将到来以及过去的Snapchat Plans。此外，用户点击好友的个人资料后，还能看到与对方共同参加的活动。</p>
+<p>Snapchat Plan创建完成后，组织者可以查看参与人员名单、邀请更多好友，并根据需要更新活动详情。嘉宾可以查看完整的宾客名单，随时更改自己的出席状态，并在活动开始前一小时收到提醒。</p>
+<p>尽管Snapchat在过去十年中一直是社交媒体领域的重要参与者，但该公司如今正将其重心从人们的线上沟通延伸至协助促成现实世界的线下聚会。这也顺应了Z世代寻求更多面对面交流的更广泛趋势。</p>
+<p>该公司在博文中写道：“再也不会因为信息被刷走、遗漏细节或忘记发邀请而错过聚会了。Snapchat Plans让与好友组织这些特殊的面对面时刻变得更加轻松。”</p>
+<p>该公司表示，Snapchat Plans属于私密性质，仅限受邀人员参与。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>消费新闻记者<br />Aisha是TechCrunch的消费新闻记者。在2021年加入该媒体之前，她是MobileSyrup的电信记者。Aisha拥有多伦多大学荣誉学士学位和西安大略大学新闻学硕士学位。<br />您可以通过发送电子邮件至aisha@techcrunch.com或通过Signal加密消息联系aisha_malik.01，与Aisha取得联系或核实来信。<br />不要错过。初创企业界将齐聚一堂，共同探讨一个核心问题：在AI时代，你该如何实现可持续发展？<br />苹果推出首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段不公<br />一部秘密拍摄的伊丽莎白·霍姆斯全新纪录片震撼特柳赖德电影节<br />TechCrunch出行：特斯拉Cybercab上路——但遭遇阻碍<br />徒步旅行者在使用Google Gemini进行规划后获救<br />联邦监管机构对特斯拉Cybercab的部署展开调查<br />特斯拉正在询问公众是否愿意购买并运营Cybercab车队</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-tion-to-3-7b-in-3-months-0e9c976991824598" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1268" data-content-paragraphs="10" data-published-at="2026-09-10T13:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 21:00</span>
+</div>
+
+### [防务科技初创企业Mach Industries三个月内估值翻倍至37亿美元](https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Defense tech Mach Industries doubles valuation to $3.7B in 3 months</div>
+
+<div class="article-body" data-article-body="true"><p>防务科技初创公司 Mach Industries 周四宣布，已在 C 轮追加轮融资中筹集了 6 亿美元新资金，使其估值翻倍至 37 亿美元。该公司于今年 6 月宣布了最初的 C 轮融资，当时以 18 亿美元的估值筹集了 3 亿美元。两轮融资的投资方均包括 Ribbit Capital、Infinite Capital、Bedrock Capital 和红杉资本（Sequoia）。</p>
+<p>这意味着，该公司的估值在短短三个月内实现了翻倍跃升。而上一轮融资同样增幅显著：相比 2025 年 6 月宣布以 4.7 亿美元估值完成的 1 亿美元融资，估值增长了近四倍。</p>
+<p>Mach 生产各种无人军用载具和武器，包括垂直起降无人机、用于远程打击的系统以及反无人机系统。该公司在加利福尼亚州亨廷顿比奇的总部运营着一座占地 11.5 万平方英尺的制造工厂，并在加州各地设有其他分支设施。</p>
+<p>它的商业卖点在于打造高度集成的系统，且成本低于传统国防承包商的产品。为此，该初创企业在 5 月以 5000 万美元的现金加股权交易收购了固体火箭发动机（SRM）初创公司 Exquadrum，并称在竞购中击败了至少 8 家其他潜在买家。</p>
+<p>无人机的崛起导致固体火箭发动机出现短缺，而该市场主要由两家老牌企业控制。收购 Exquadrum 正是 Mach 解决这一瓶颈的方案。该笔收购随后成为该公司名为 Mach Energetics 的新业务线基础，该部门不仅生产固体火箭发动机，还为其他客户生产喷气发动机和高能动力系统。</p>
+<p>Mach 由年仅 22 岁的伊森·桑顿（Ethan Thornton）创立并掌舵，是传统硅谷风投大举注资防务科技初创公司的典型代表。桑顿在 19 岁时从麻省理工学院（MIT）退学创办 Mach，并迅速获得红杉资本的斯蒂芬妮·詹（Stephanie Zhan）和肖恩·马奎尔（Shaun Maguire）的投资，这也标志着这家老牌风投机构在防务科技领域的首次投资。</p>
+<p>在今年早些时候赢得一份美国陆军合同后，该公司也吸引了 Ribbit Capital 的注意。Ribbit Capital 曾以金融科技投资闻名，但近期参与了一系列引人注目的 AI 交易，涵盖从 Cognition 等编程初创公司到 Crusoe 等新型云服务商。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
+<p>不要错过。初创企业社区将齐聚一堂，探讨一个关键问题：如何在 AI 时代实现可持续发展？</p>
+<p>苹果发布首款折叠屏手机 iPhone Duo<br />纽约大学数学家称：OpenAI 在一道攸关学术生涯的数学题上手段不光彩<br />一部关于伊丽莎白·霍姆斯的神秘新纪录片惊艳特柳赖德电影节<br />TechCrunch 交通专栏：特斯拉 Cybercab 上路——但也遭遇挫折<br />徒步者使用 Google Gemini 规划路线受困后获救<br />美联邦政府对特斯拉部署 Cybercab 展开调查<br />特斯拉询问公众是否愿意购买并运营 Cybercab 车队</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-kers-to-get-eu-inc-right-1c8aec6380c31f92" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1744" data-content-paragraphs="12" data-published-at="2026-09-10T12:25:08.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1833" data-content-paragraphs="12" data-published-at="2026-09-10T12:25:08.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -26,28 +332,27 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 20:25</span>
 </div>
 
-### [欧洲初创公司创始人与风投呼吁立法者“确保‘欧盟公司’机制落到实处”](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
+### [欧洲创业者与风投敦促立法者“务必把 EU Inc 办好”](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> European founders and VCs urge lawmakers ‘to get EU Inc right’</div>
 
-<div class="article-body" data-article-body="true"><p>欧洲可能很快就会拥有属于自己的特拉华州 C 类公司（Delaware C Corp）同等机制，但其倡导者并没有放松对立法者的施压。在周四发布的一封公开信中，欧洲初创圈的诸多重量级人物强调，这种新的公司法律地位绝不能被稀释打折。</p>
-<p>这封信是“欧盟公司”（EU Inc）运动的最新进展。该运动呼吁建立一项全欧盟范围的公司章程，使企业能够在统一框架下注册成立，并在整个欧盟内部展开运营。其发起者已获得了欧盟最高权力机构的背书，但他们目前表示担忧，若核心特征被削弱，最终的立法可能会变得“毫无用处”。</p>
-<p>与欧洲立法的常规情况一样，各国不同的游说团体已纷纷介入，其中包括德国公证人协会，该协会对欧盟委员会提案的部分内容提出了批评。不过，欧洲议会与欧洲理事会仍在就敲定最终文本展开谈判，而“欧盟公司”的发起者们正指出此事的利害攸关之处。</p>
-<p>距离欧洲各机构因冬歇期休会仅剩约100天，该信件呼吁政策制定者保留该提案，称其具有“消除继续扼杀欧洲企业的大部分摩擦与碎片化现象、释放投资并激发新一波创业浪潮”的潜力。</p>
-<p>借鉴以往游说团体的做法，公开信强调了一些“看似技术性细节，但……却能决定一种公司形式是会被创始人采用还是被其无视”的关键点。他们特别坚持设立统一的中央注册登记系统；并要求员工应仅在实际处置其股票期权时才被征税。</p>
-<p>这种深究细节的需求并非新鲜事。2024年最初的请愿活动声势渐盛时，Index Ventures合伙人兼“欧盟公司”支持者马丁·米尼奥（Martin Mignot）曾向TechCrunch表示：“魔鬼藏在细节中，这正是我们将保持高度警惕的地方。”</p>
-<p>“欧盟公司”在拉拢名人背书方面也进一步发力。在投资人方面，“欧盟公司”的新信函得到了众多风险投资人的签署，其中包括Accel合伙人索娜莉·德·赖克（Sonali De Rycker）、红杉资本合伙人迈克尔·莫里茨（Michael Moritz）以及Atomico创始人尼克拉斯·赞斯特罗姆（Niklas Zennström）——他是通过佩戴该活动鸭舌帽来支持这项行动的众多科技界人物之一。</p>
-<p>为了在创业者层面增加分量，发起人还着重列出了来自独角兽企业创始人的背书，包括Alan、ElevenLabs、Lovable、Mistral和Synthesia等公司。其中一些企业的总部设在美国；言下之意，传达给立法者的信息也是：如果“欧盟公司”得以推行，这种情况可能将成为过去。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>安娜·海姆（Anna Heim）是一名作家兼编辑顾问。<br />您可以通过发送电子邮件至 annatechcrunch [at] gmail.com 联系安娜或核实相关联络。<br />作为TechCrunch自2021年以来的自由撰稿记者，她的报道涵盖了广泛的初创企业相关主题，包括人工智能、金融科技与保险科技、SaaS及定价机制，以及全球风险投资趋势。<br />截至2025年5月，她在TechCrunch的报道聚焦于欧洲最引人入胜的初创企业故事。<br />安娜曾担任各种规模行业活动的分论坛主持人并在现场进行专访，其中包括TechCrunch Disrupt、4YFN、South Summit、TNW Conference、VivaTech等多项大型科技会议。<br />她曾任The Next Web的拉美及媒体编辑，曾是一名初创公司创始人，也是巴黎政治学院（Sciences Po Paris）校友，精通包括法语、英语、西班牙语和巴西葡萄牙语在内的多种语言。</p>
-<p>切勿错过。初创企业社区将齐聚一堂，共同解答一个核心问题：在人工智能时代，你该如何实现可持续发展？</p>
-<p>苹果发布首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段不公<br />一部秘密制作的伊丽莎白·霍姆斯全新纪录片惊艳特柳赖德电影节<br />TechCrunch出行观察：特斯拉Cybercab正式上路——但也遭遇了波折<br />多名徒步旅行者在使用Google Gemini进行路线规划后遇险获救<br />联邦监管机构对特斯拉Cybercab的投放展开调查<br />特斯拉正在询问公众是否有意购买并运营Cybercab车队</p></div>
+<div class="article-body" data-article-body="true"><p>欧洲可能很快就会拥有属于自己的、相当于美国特拉华州 C 型公司（Delaware C Corp）的企业法律实体架构，但其倡导者并没有放松对立法者的施压。在周四发布的一封公开信中，欧洲初创圈的诸多重量级人物强调，这种新的公司形态绝不能被注水淡化。</p>
+<p>这封信是“EU Inc”倡议行动的最新一步。该运动呼吁制定一项适用于全欧盟的公司章程，允许企业在一个统一的框架下设立登记并在全欧盟范围内运营。其推动者此前已获得了欧盟最高权力机构的背书，但目前他们表达了担忧，担心最终的立法如果“核心特性被削弱，可能会变得难以使用”。</p>
+<p>与欧洲立法过程中的惯常情况一样，各类国家级的游说团体已经介入讨论，其中包括德国的公证人协会，该协会批评了欧盟委员会提案中的某些方面。不过，欧洲议会和欧洲理事会仍在就最终文本进行谈判，而 EU Inc 的推动者正在指出其中事关重大的利害关系。</p>
+<p>距离欧洲各机构进入冬歇期仅剩约 100 天时间，该信函呼吁政策制定者保留该提案的核心内容，称其有潜力“消除继续扼杀欧洲企业的大部分阻力与碎片化现状，释放投资活力，并激发新一轮创业浪潮”。</p>
+<p>借鉴以往老牌游说团体的做法，该信函强调了一些“表面上看似技术性细节，但实际上决定了创始人究竟是采用还是弃用某种公司形式的关键点”。具体而言，他们坚持要求设立一个中央统一登记处；同时主张员工只有在真正处置其股票期权时才应被征税。</p>
+<p>这种深入钻研细节的需求并非新鲜事。2024 年最初的请愿活动声势渐起时，Index Ventures 合伙人兼 EU Inc 支持者马丁·米尼奥（Martin Mignot）曾向 TechCrunch 表示：“魔鬼藏在细节中，那正是我们将保持高度警惕的地方。”</p>
+<p>EU Inc 也进一步亮出了其豪华的签名阵容。在投资者方面，EU Inc 的新公开信已获得多位知名风投的联名签署，包括 Accel 合伙人索纳莉·德·莱克尔（Sonali De Rycker）、红杉资本合伙人迈克尔·莫里茨（Michael Moritz），以及 Atomico 创始人尼克拉斯·岑斯特伦（Niklas Zennström）——他是许多通过佩戴印有该倡议字样帽子来支持这项运动的科技界人物之一。</p>
+<p>为了在创业者层面增加分量，发起人还强调了来自多家独角兽企业创始人的背书支持，包括 Alan、ElevenLabs、Lovable、Mistral 和 Synthesia。其中部分企业的总部设立在美国；字里行间的潜台词同样是在向立法者传递信号：如果 EU Inc 能够如愿落地，出走海外的现象未来或许将成为历史。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>安娜·海姆（Anna Heim）是一位作家兼编辑顾问。<br />您可以通过发送邮件至 annatechcrunch [at] gmail.com 联系安娜或核实外联信息。<br />自 2021 年起作为 TechCrunch 的特约记者，她的报道涵盖了广泛的初创企业相关主题，包括人工智能、金融科技与保险科技、SaaS 与定价，以及全球风险投资趋势。<br />截至 2025 年 5 月，她在 TechCrunch 的报道重点关注欧洲最受关注的初创企业故事。<br />安娜曾在各类规模的行业活动中担任圆桌主持并进行舞台专访，其中包括 TechCrunch Disrupt、4YFN、South Summit、TNW Conference、VivaTech 等大型科技盛会。<br />她曾任 The Next Web 的拉美及媒体编辑，是一名创业者并毕业于巴黎政治学院（Sciences Po Paris），精通包括法语、英语、西班牙语和巴西葡萄牙语在内的多种语言。</p>
+<p>不要错过。初创企业社区将齐聚一堂，共同探讨一个关键问题：在 AI 时代，你该如何实现可持续发展？</p>
+<p>苹果发布其首款折叠屏手机 iPhone Duo<br />纽约大学数学家称：OpenAI 在关乎职业生涯的关键数学问题上手段不光彩<br />一部秘密拍摄的伊丽莎白·霍姆斯（Elizabeth Holmes）新纪录片震撼特柳赖德电影节<br />TechCrunch 出行：特斯拉 Cybercab 正式上路——但也遭遇阻碍<br />徒步旅行者在使用 Google Gemini 规划路线后获救<br />联邦监管机构对特斯拉 Cybercab 的部署展开调查<br />特斯拉正在询问公众是否愿意购买并运营 Cybercab 车队</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>欧洲多位独角兽创始人与投资人在周四发布的一封公开信中呼吁立法者不要削弱名为“EU Inc”的新欧盟范围公司地位提案的核心内容。</li>
-    <li>EU Inc 倡议呼吁建立一个全欧盟范围的公司章程，使企业能够在统一框架下注册并在整个欧盟运作。</li>
-    <li>来源叙事重点：报道欧洲顶级独角兽创始人与VC联合向欧盟决策层施压，呼吁在立法谈判的关键窗口期（冬歇期前约100天）确保全欧统一公司章程（EU Inc）核心条款不被削弱，重点聚焦建立单一中央注册机制和期权处置时纳税等诉求，强调对标特拉华C公司以解决欧洲市场碎片化与人才外流问题。</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 20:25 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -60,54 +365,59 @@ notice:
 :::
 
 :::cell
-<div id="story-olar-engineering-roadmap-022e3eb5160edd0a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3204" data-content-paragraphs="12" data-published-at="2026-09-10T12:10:00.000Z" data-time-source="publication">
+<div id="story-l-game-ownership-lawsuit-41b4e5a6ca97dead" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7398" data-content-paragraphs="20" data-published-at="2026-09-10T12:18:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:10</span>
+  <span class="news-meta-time">🕒 2026-09-10 20:18</span>
 </div>
 
-### [《The Download》：“神导”加密货币与太阳能地球工程路线图](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Download: a “God-driven” cryptocurrency and a solar engineering roadmap</div>
+### [索尼网站上关于玩家“拥有”其数字游戏的表述汇总](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
+<div class="original-title-sub"><span class="orig-tag">原文</span> List of references on Sony websites to players &quot;owning&quot; their digital games</div>
 
-<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/04/North_Pole_Expedition_MIT_Tech_Rev_TimK_002top.jpg?fit=1920,1280" alt="《The Download》：“神导”加密货币与太阳能地球工程路线图" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>这是今天的《The Download》，我们的工作日简报，为你提供科技界最新动态的每日资讯。</p>
-<p>上帝告诉他们去卖加密货币。他们的投资者却失去了一切。<br />当埃利·雷加拉多（Eli Regalado）第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉。据埃利和他的妻子凯特琳（Kaitlyn）称，上帝告诉他们要结婚、买房、生孩子。随后在2021年，神的指引将他们引向了一个意想不到的新方向：加密货币。<br />雷加拉多夫妇后来在法庭上作证称，那年10月，他们获得了一种鲜为人知的数字货币持仓。埃利听到上帝说：“把这个带给我的子民，进行财富转移。”随着时间的推移，他们逐渐确信上帝希望他们发行自己的加密货币。<br />雷加拉多夫妇创立了 INDXcoin，并通过家人、朋友以及福音派基督教圈子里的人脉进行推广。总共有500多人投入了300多万美元。然而不到一年，该项目就崩溃了。投资者血本无归，许多人不禁怀疑资金究竟流向了何处，自己是否成为了一场精心策划的诈骗的受害者。<br />阅读关于这位牧师“神导”加密货币崩溃的完整报道。<br />本文是“深度聚焦”（Big Story）系列的一部分，该系列汇集了《麻省理工科技评论》最重要、最雄心勃勃的深度报道。你可以在此处阅读该系列的其他文章。<br />该报道由本刊与 Type Investigations 合作完成，并获得了调查新闻基金（Fund for Investigative Journalism）的支持。</p>
-<p>这份路线图可以帮助我们决定是否部署太阳能地球工程<br />半个世纪以来，科学家们一直在探索是否可以通过向平流层释放反射颗粒物来模仿火山爆发的降温效果，从而对抗气候变化。但即便经过了数百项研究，我们仍不知道其效果究竟如何，也不清楚它还可能带来什么其他影响——而且目前还没有系统性的计划来消除这种不确定性。<br />研究机构 Reflective 目前正试图填补这一空白。《麻省理工科技评论》获悉，这家位于旧金山的非营利组织发布了一份详尽的路线图，列出了在就是否使用太阳能地球工程做出明智决策所需的实验、研究和基础设施。<br />了解在太阳能地球工程上做出明智决策需要具备哪些条件。</p>
-<p>这位创始人正在教芯片如何回收（自身能量）<br />在计算机芯片的发展史上，工程师们一直将废热视为计算过程中不可避免的代价。然而，汉娜·厄利（Hannah Earley）认为这是一种设计选择。<br />现年31岁的厄利是 Vaire Computing 的联合创始人兼首席技术官（CTO）。该公司致力于研发能够回收通常作为热量耗散的能量的芯片，这种策略被称为“可逆计算”。该方法有望大幅提升数据中心（以及我们的笔记本电脑和手机）的能效。<br />去年，Vaire 宣布了一项关键突破：制造出一种带有谐振器的芯片，即使将为该元件供电所需的能量计算在内，其回收的能量也超过了损耗的能量。<br />以下是她计划如何将这一关于节能计算机的古老构想带入未来的详细内容。<br />汉娜·厄利是我们2026年度“35岁以下科技创新35人”（Innovators Under 35）计算与机器人领域的获奖者之一。在此认识其他获奖者，或查看涵盖生物技术、人工智能、计算与机器人以及气候与能源类别的完整名单。</p>
-<p>美国电池市场能否摆脱对中国的依赖？<br />美国储能市场正以创纪录的速度增长，这有助于强化电网并减少碳排放。至关重要的是，这一切都是在廉价中国电池的助力下实现的，而特朗普政府正试图逐步淘汰这些电池。<br />减少对任何单一关键能源技术来源的依赖是合乎情理的。但这种紧张关系引发了我更广泛的思考：各国应该在多大程度上利用廉价且现成的技术，又应该在多大程度上切断外国技术来源以自主研发，哪怕成本更高？<br />深入了解美国蓬勃发展的电池市场所面临的艰难抉择。<br />本报道来自我们的气候技术周刊《The Spark》。订阅即可在每周三将其接收至你的邮箱。</p>
-<p>我梳理了互联网，为你搜罗了今日最有趣、最重要、最令人担忧以及最迷人的科技动态：<br />1. OpenAI 的智能体利用至少10个网站进行未经授权的通信<br />研究人员发现它们绕过了在线发布的限制。（路透社 $）<br />+ 该公司因 Hugging Face 数据泄露事件面临参议院调查。（Axios）<br />+ 其面临的黑客问题可能反映出企业文化层面的缺陷。（《麻省理工科技评论》）<br />2. 另一款 Anthropic 模型在测试期间入侵了真实系统<br />错误的环境配置使其获得了互联网访问权限。（哥伦比亚广播公司新闻 / CBS News）<br />+ 这起发生于1月的事件直到上个月才被发现。（路透社 $）<br />+ 人工智能智能体不是你的“同事”。（《麻省理工科技评论》）<br />3. 苹果以售价1999美元的 iPhone Duo 进军折叠屏手机市场<br />展开后为7.6英寸显示屏，将于10月23日发售。（美国全国公共广播电台 / NPR）<br />+ 苹果押注其设计和隐私保护将带来竞争优势。（路透社 $）<br />+ 并期望折叠屏能够解决智能手机同质化问题。（NPR $）<br />+ 三星发起宣传攻势予以回应，宣传其在折叠屏领域的领先地位。（CNBC）<br />+ 在中国市场，苹果进入了一个由华为占据主导地位的拥挤赛道。（《南华早报》 / SCMP）<br />4. 美国检察官在庭审中称华为为犯罪企业<br />他们指控该公司窃取美国技术。（路透社 $）<br />+ 并指控其协助伊朗监视本国公民。（美联社）<br />+ 该审判可能会对特朗普即将与习近平举行的会晤产生影响。（《华尔街日报》 $）<br />5. 在反对数十年后，加利福尼亚州对核电态度回暖<br />该州可能会延长魔鬼峡谷（Diablo Canyon）核电站的运营寿命，并解除对新建反应堆的禁令。（《纽约时报》 $）<br />+ 中国正押注大型核反应堆。（《麻省理工科技评论》）<br />6. 中国专业人士正成为训练人工智能的零工工作者<br />律师和工程师正在通过训练模型赚取额外收入。（Rest of World）<br />+ 零工人员正在家中训练人形机器人。（《麻省理工科技评论》）<br />7. 新款 Apple Watch 可以监听周围发生的对话<br />苹果表示用户必须主动开启此功能，但周围的其他人无法选择退出。（《连线》 / Wired $）<br />8. 睡眠期间的粉红噪音可能有助于大脑清除废物<br />一项小规模研究显示，定时的脉冲声音促进了脑脊液的流动。（《新科学家》 / New Scientist $）<br />9. 一座失落的超大陆可能触发了生命大爆发<br />冈瓦纳大陆（Gondwana）的形成加剧了火山活动并使地球变暖。（404 Media）<br />10. 《侠盗猎车手6》（GTA VI）引发关于虚拟恋爱是否算作精神出轨的争论<br />玩家可以与虚拟伴侣约会、发生关系并赠送大量礼物。（《卫报》）</p>
-<p>“我们必须竭尽全力粉碎对毁灭博士公共安全愿景的一切异议。”<br />——据 404 Media 报道，西雅图一名政策顾问在公共安全委员会会议上打扮成毁灭博士（Doctor Doom），以抗议该市不断扩大的 Flock 和 Axon 监控系统网络。</p>
-<p>探寻北极过去的线索</p>
-<p>过去，前往北极需要穿越数米厚的冰层，经历一段凶险的旅程。但去年，一艘科考船却遭遇了开阔水域和薄冰，由此开辟出一条轻松通行的航道。这也提醒了人们，北极的变化是多么迅速。</p>
-<p>如今，科学家们正在海床深处进行钻探，以查明北冰洋过去是否曾出现过无冰期——以及这对于地球最北端水域的未来可能意味着什么。</p>
-<p>探索他们期望发现的内容。</p>
-<p>生活依然可以很美好<br />这里为您提供慰藉、趣味与消遣，点亮您的一天。（有什么好点子吗？给我写信吧。）<br />+ 荷兰儿童（再次）被评为全球最幸福的孩子。原因在此。<br />+ 在 Radiooooo 上选择一个国家和年代，开启音乐历史之旅。<br />+ 这 16 张壮丽的航拍照片以难得一见的视角展现了野生动物的姿态。<br />+ 多伦多一家咖啡馆凭借其蛋形、内嵌卡仕达酱的“Crogg”，将可颂烘焙工艺推向了全新高度。</p></div>
+<div class="article-body" data-article-body="true"><p>四名在过去几年中各花费数百美元购买数字商品的加利福尼亚州 PlayStation 购买者表示，他们获得的仅仅是一项有限且可撤销的许可而非所有权，并且支付了高于正常意愿的金额。[1] 起诉书指控称，PlayStation Store 在宣传数字游戏时使用了诸如“立即购买”（Buy Now）和“确认购买”（Confirm Purchase）等带有所有权含义的措辞，且“确认购买”按钮上方简短的许可声明文本相对较小且未予突出显示，未达到加利福尼亚州法律所要求的“清晰醒目”的披露标准。[1] 2026年6月18日，安德鲁·加西亚（Andrew Garcia）、爱德华·海考克（Edward Heycock）、杰森·门多萨（Jason Mendoza）和约翰·萨利纳斯（John Salinas）在加利福尼亚北区联邦地区法院起诉了索尼互动娱乐有限公司（Sony Interactive Entertainment, LLC），案号为 3:26-cv-06016，指控该商城的结账措辞违反了加州的数字商品透明度法。[1][2] 2026年8月21日，索尼提出动议，要求依据《PlayStation 服务条款》强制进行个人仲裁；作为备选主张，要求裁定驳回起诉且不得再次起诉（dismiss with prejudice）。[3][4] 在题为“理性消费者不会被误导”的章节中，索尼辩称，理性消费者认为自己获得了数字游戏所有权的说法是不合常理的。[3] 该案目前仍在审理中，听证会定于2026年10月1日举行。[5][3]</p>
+<p>诉状指控称，PlayStation Store 在向消费者推销数字游戏时使用了所有权性质的措辞。[1] 当消费者进入结账环节时，商城会显示一个带有“确认购买”按钮的确认页面，点击该按钮即完成交易并从付款方式中扣款。[1] 在该按钮上方，PlayStation 提供了一段提及《软件产品许可协议》的简短声明，指出消费者购买数字产品的行为等同于受该协议约束的许可。[1] 诉状称，相对于界面的其他部分，该声明文字相对较小，且在视觉上并未做突出显示，也未采用其他旨在吸引消费者注意力的设计。[1] 该交易授予受索尼《软件产品许可协议》管辖的有限、非排他性、可撤销的许可，诉状指出该协议“明确规定本软件是‘许可给您使用，而非出售’”。[1] 该协议禁止购买者出租、再许可、复制、逆向工程或转让该游戏，且访问权可能取决于 PlayStation 平台的持续可用性。[1]</p>
+<p>KitGuru 报道了由 Push Square 整理的索尼财报，称在截至2026年3月31日的季度中，游戏销售额的85%来自数字版，15%来自实体版。[6] 2026年7月1日，索尼宣布将从2028年1月起停止为 PlayStation 新游戏生产实体光盘，新发售的游戏将全面转向数字发行。[7] 《财富》（Fortune）杂志指出，索尼曾经极力倡导实体媒介的共享，而如今却辩称客户并不拥有他们所购买的数字游戏。[8]</p>
+<p>诉状指控称，四名具名原告均为加利福尼亚州居民，过去几年中每人都在 PlayStation 数字商品上花费了数百美元。[1] 诉状列出的加西亚近期的购买记录包括以 20.99 美元购买《NBA 2K25 标准版》、以 65.99 美元购买《NBA 2K26》以及以 69.99 美元购买《EA Sports Madden NFL 26》。[1] 海考克的记录包括于2026年2月25日以 69.99 美元购买《生化危机：安魂曲》（Resident Evil Requiem）。[1] 门多萨的记录包括于2026年2月14日以 69.99 美元购买《生化危机：安魂曲》，以及以 29.99 美元购买《战神：斯巴达之子》（God of War Sons of Sparta）等诸多内容。[1] 萨利纳斯的记录包括以 7.99 美元购买《玩具熊的五夜后宫4》（Five Nights at Freddy&#39;s 4）和以 17.99 美元购买《Puppet Combo 合集1》等诸多内容。[1] 每位原告均表示，他们并不知道这些游戏仅为可撤销的许可，正是因为相信自己买到的是所有权，才导致他们支付了高于原意愿的金额。[1] 原告于8月20日（即索尼提出动议的前一天）自愿撤销了对索尼美国公司（Sony Corporation of America）的起诉，使索尼互动娱乐有限公司成为唯一的被告。[5]</p>
+<p>该诉状由 Pak Heinz PLLC 律师事务所的诺亚·海因茨（Noah Heinz）和阿尔伯特·朴（Albert Pak）提交，共提出三项诉因。[1] 第一项指控违反了《加州商业和职业法典》第 17500.6 条，即 AB 2426 法案的生效条款。[1][9] 第二项指控违反了加州《虚假广告法》（加州《商业和职业法典》第 17500 条及以下条款）。[1] 第三项指控违反了加州《消费者法律补救法》（CLRA，加州《民法典》第 1750 条及以下条款），援引了第 1770(a)(5)、(a)(9) 和 (a)(14) 款。[1] 在提起诉讼前，原告律师曾于2026年4月21日以及2026年5月11日通过挂号信向索尼的相关地址寄送了 CLRA 追索催告函。[1]</p>
+<p>拟定的集体诉讼代表群体涵盖在第 17500.6 条生效之日后通过 PlayStation Store 购买数字视频游戏、看到过诸如“购买”（Buy）、“立即购买”（Buy Now）或“确认购买”（Confirm Purchase）等表述，但实际仅收到数字商品的可撤销许可的加州居民。[1] 诉状依据《集体诉讼公平法》（Class Action Fairness Act）主张联邦管辖权，声明争议金额累计超过 5,000,000 美元。[1] 诉讼请求要求获得实际损害赔偿、退赔并剥夺索尼通过该做法获得的收益、根据加州《民法典》第 1780(a) 条获得法定及实际损害赔偿、发布禁令禁止索尼恢复其非法行为，并支付合理的律师费和诉讼开支。[1]</p>
+<p>2026年8月21日，索尼作出回应，首先依据《联邦仲裁法》请求法院强制执行仲裁并中止诉讼程序；仅在备选情况下，才依据联邦民事诉讼规则第 12(b)(1) 和 12(b)(6) 条以缺乏诉讼资格和未能陈述有效主张为由请求予以终局驳回。[3] 索尼指出了动议中所称的《软件产品许可协议》第 1 条，并引用其中内容称“本软件是许可给您使用，而非出售”。[3][10] 动议称，《PlayStation 服务条款》在第 14 条中规定了具有约束力的仲裁协议和集体诉讼放弃声明，并引用了退出条款：<br />您有权在30天内选择退出约束性仲裁和集体诉讼弃权。[3]<br />该条款要求不愿受其约束的用户必须在接受协议后30天内以书面形式通知索尼。[3][5] 索尼向法院表示，没有原告选择退出。[3]</p>
+<p>索尼在实体问题上的备选辩护出现在题为“理性消费者不会被误导”的章节下。[3] 索尼在诉讼材料中写道：<br />在数字时代，指称理性消费者相信他们正在获得某款数字游戏的“所有权”是站不住脚的。若是如此，原告杰森·门多萨于2026年2月14日获取《生化危机：安魂曲》之后，原告爱德华·海考克便无法在2026年2月25日以 69.99 美元从 PlayStation Store 获取该游戏，因为届时拥有该游戏的是门多萨先生，而不是索尼。[3][4]</p>
+<p>该诉讼文件将论点延伸到了与其他玩家对战的游戏上，主张由于数字版电子游戏是与其他玩家共同进行的，而这些玩家自身也必须每人持有一份游戏副本才能游玩，因此认为理性消费者在获得数字版电子游戏后会认为自己是其独占所有者是不合常理的。[3] 该动议通知将于2026年10月1日上午10:00在旧金山金门大道450号第3法庭的文斯·查布里亚（Vince Chhabria）法官面前举行听证会。[3][5]</p>
+<p>在诉讼中，索尼主张买家对其从PlayStation Store购买的产品“并不拥有所有权”，并辩称声称理性消费者相信自己获得了数字游戏的“所有权”是站不住脚的。[11][3] 然而，索尼自己的支持页面却指导这些同样的买家如何升级“您已拥有的数字版PS4游戏”，并且要求先拥有该游戏才能使其追加内容生效。[12][13] 下方各截图中圈出红框的均为关键短语。</p>
+<p>索尼以往的官方沟通中也提及了所有权。在2021年5月29日发送给用户的一封题为《PS3、PS Vita和PSP平台的重要变更》的电子邮件中，索尼提到了拥有游戏和视频内容。关键部分同样用红框标出。</p>
+<p>索尼的追加内容支持页面列出了获取各类追加内容的方式，注明DLC对应“下载内容并启动主游戏”，而游戏内消耗品对应“启动主游戏”。[13] 该页面告知买家“DLC是可以与主游戏分开购买的下载内容”，且在购买后“您需要下载DLC才能在主游戏中进行游玩”。[13]</p>
+<p>索尼针对2025年电子游戏《羊蹄山之魂》（Ghost of Yōtei）的商品页面在谈及追加内容时也提到了所有权：“在针对所有《羊蹄山之魂》所有者的免费重大更新中，与在线好友组队挑战怪异且具有超自然力量的‘羊蹄山六人组’。”“《羊蹄山之魂：奇谭模式》是一项面向所有《羊蹄山之魂》所有者免费开放的合作多人游戏模式。它包含三种独特的游戏模式：”[16]</p>
+<p>索尼称所有《巫师3》的所有者均可无需额外付费即可获取两款DLC，这暗示首次购买的费用带来了所有权。</p>
+<p>索尼在常见问题解答（FAQ）中的“如何排查PlayStation Store游戏下载问题”子类别“PS5主机上的已锁定游戏？”中，反复提到了是谁购买了游戏以及谁拥有许可，从文意来看，游戏许可正是通过与索尼的交易而被拥有和购买（而非租赁或租借等）。</p>
+<p>“为验证您是否拥有该内容的许可，请按照以下步骤操作。<br />请确保您已登录用于购买该游戏的正确账户。检查您的交易历史记录以确认购买成功。”<br />“如果该游戏归共享该主机的其他人所有，请确保他们已启用‘主机分享和离线游玩’功能。”<br />“检查许可所有权<br />请确保您已登录用于购买该游戏的正确账户。如果您最近购买了游戏或通过优惠券兑换了内容，请检查您的交易历史记录。”</p>
+<p>索尼的取消政策根据游戏内消耗品的购买时间来设定退款资格。在PlayStation Store上于“游玩之外”购买的消耗品将在“您下次启动游戏时”交付，因此未启动游戏的买家在购买后14天内可以取消；而在“游玩过程中”购买的消耗品则属于“立即交付”，除非存在缺陷否则无法取消。[20]</p>
+<p>在其官方Share Play页面上，索尼声明“无论游戏归谁所有，你们双方都可以畅玩同一款游戏”，直接承认了玩家无论通过何种购买方式，都是相关产品的所有者。</p>
+<p>以下是索尼网站上关于“拥有”数字游戏的非穷尽引用列表：<br />（与上方相同，但位于PS5 Pro页面）<br />畅玩所有您错过的精彩PS5游戏，并增强您已拥有的PS4游戏。”<br />跨世代Share Play：交出控制权，让其他人试玩您的某款游戏，或者无论游戏归谁所有，即使你们不在同一台主机上也可以一起玩。通过Share Play，您的游戏画面将显示在另一名玩家的屏幕上。<br />如果我有PS4游戏，可以将其升级到PS5版本吗？如果您拥有这些游戏的PS4版本，只需在PS5上访问该游戏的游戏中心（注意：如果您购买的是PS4游戏的实体光盘而非PS Store版本，则需要先将PS4光盘插入PS5主机），您将看到下载PS5版本的优惠。<br />借助PlayStation Portal掌上串流设备，您可以通过Wi-Fi1访问PS5主机上的游戏；借助PlayStation Plus高级版（Premium），您还可以云串流选择您以数字方式拥有的特定作品，以及来自游戏库和经典目录的数百款游戏。”<br />如何使用PS5云串流？您可以将选定的已拥有游戏直接串流到PS5主机或PlayStation Portal上。寻找PlayStation Plus的‘串流’按钮即可立即启动游戏。您还可以查看云串流游戏查找工具，查看哪些游戏符合串流条件。<br />PlayStation Portal支持云串流吗？是的，您可以串流您拥有的精选PS5游戏以及PlayStation Plus高级版提供的PS5游戏。如需了解更多信息，请访问我们的PS Portal云串流支持页面。<br />3. 如果您主机上的其他人拥有该游戏，请确保他们已将该主机认证为您的常用PS4主机。”<br />显示在《漫威金刚狼》常见问题解答：有哪些版本的《漫威金刚狼》可供选择？<br />《漫威蜘蛛侠：迈尔斯·莫拉莱斯》中的免责声明<br />在“PS4™和PS5™上令人难忘的绝佳体验”页面上显示的《漫威蜘蛛侠：迈尔斯·莫拉莱斯》免责声明<br />*拥有《地平线：零之曙光》PS4游戏光盘的所有者可以通过将游戏光盘插入其PS5主机来获取此优惠（并且每次游玩游戏时都需要保持光盘处于插入状态）。购买无光驱版PS5数字版主机的PS4游戏光盘所有者将无法获取升级优惠。”<br />随后在《地平线：零之曙光复刻版》常见问题解答中：<br />“我可以从《地平线：零之曙光》或《地平线：零之曙光完全版》升级到《地平线：零之曙光复刻版》吗？<br />是的，《地平线：零之曙光》（PS4、PC）和/或《地平线：零之曙光完全版》（PS4、PS5、PC）的现有所有者可以在PlayStation 5主机和PC平台（通过Steam或Epic Games商城）上升级到《地平线：零之曙光复刻版》的数字版。(…)<br />拥有《地平线：零之曙光》PS4游戏光盘的所有者可以通过将游戏光盘插入其PS5主机来获取此优惠（并且每次游玩游戏时都需要保持光盘处于插入状态）。购买无光驱版PS5数字版主机的PS4游戏光盘所有者将无法获取升级优惠。”<br />如果您已经拥有《地平线：零之曙光™》和/或《地平线：零之曙光™完全版》，您可能有资格升级到《地平线：零之曙光™复刻版》数字版。”</p>
+<p>“如果您已经在PS4上拥有《对马岛之魂》（Ghost of Tsushima），您可以支付额外费用升级到PS4版的《对马岛之魂 导演剪辑版》（Ghost of Tsushima DIRECTOR’S CUT）。<br />如果您已经在PS4上拥有《对马岛之魂 导演剪辑版》，您可以支付额外费用升级到PS5版的《对马岛之魂 导演剪辑版》。”<br />我该如何获取《战神：诸神黄昏 - 英灵殿》（God of War Ragnarök: Valhalla）？《战神：诸神黄昏 - 英灵殿》是免费的可下载内容（DLC），在PS4和PS5上拥有《战神：诸神黄昏》的拥有者可通过PlayStation Store获取。在PC上购买该游戏时，它作为标准配置包含在内。<br />这出现在绝大多数（如果不是全部的话）游戏页面的“评分与评论”部分下方。我在超过300款游戏中看到了这一点，在此我将以《羊蹄山之魂》（Ghost of Yōtei）为例<br />如果您已登录但未拥有该游戏，您将看到：“只有该游戏的拥有者才能对其进行评分。”<br />“在暑假期间花一点时间遵循此建议，不仅意味着您能获得安全稳妥的游戏体验，还能确保您从自己拥有的游戏中获得巨大价值。”<br />《星球大战 绝地：陨落的武士团 豪华版》（STAR WARS Jedi: Fallen Order Deluxe Edition）商店页面上的游戏与法律信息<br />要将您已拥有的符合条件的数字版PS4游戏升级为数字版PS5版本：<br />由州议员雅基·欧文（Jacqui Irwin）起草的第2426号议会法案（AB 2426）于2024年9月24日获得州长批准，并作为第513章增补入《商业和职业法典》（Business and Professions Code）第17500.6条，于2025年1月1日生效。[2][9][21] 其生效条款规定：<br />数字商品销售者以“买”（buy）、“购买”（purchase）或理性人会理解为赋予该数字商品无限制所有权权益的任何其他术语，或者与限时租赁选项并列的方式，向购买者做广告宣传或提供销售数字商品，均属违法，除非发生以下任一情况……[21]<br />该法规为销售者提供了两种合规途径。[21] 销售者可在每次交易时获得购买者的明确确认，表明买方获得的是一项许可、该许可限制与条件的完整清单，以及在适用的情况下，若销售者不再拥有该数字商品的权利，其可单方面撤销对该数字商品的访问权。[21] 或者，销售者可在交易前以通俗易懂的语言提供清晰醒目的声明，说明“买”或“购买”该数字商品属于一项许可，包括提供超链接、二维码或类似方式以获取提供许可全部细节的条款和条件。[21] 无论采用哪种披露方式，都必须“与购买者确认或同意的交易的任何其他条款和条件明确分开”。[21] 该法律对订阅制访问、非金钱对价提供的数字商品，以及销售者在交易后无法撤销的商品（例如可供永久离线下载的商品）予以豁免。[21]<br />联邦监管机构和立法者在提起本诉讼之前就提出了所有权与许可的问题。[22][23] 2024年4月17日，美国联邦贸易委员会（FTC）发布了艾米·赫伯特（Amy Hebert）题为《你真的拥有你付款购买的数字物品吗？》的消费者警示，其中告知读者，点击“购买”按钮后所获得的“往往仅仅是访问该内容的许可”，并在销售者通常可以修改的细则中进行了解释。[22] 2025年2月25日，参议员罗恩·怀登（Ron Wyden）敦促联邦贸易委员会制止企业在消费者对其付款购买的物品没有完全控制权的情况下，误导性地向人们提供“购买”数字电视、电子书、电影、音乐和视频游戏的行为，并呼吁“在销售前和销售点”进行披露。[23]<br />已从索尼旗下网站收集到了更多证据，显示索尼和PlayStation在提及数字游戏和数字内容时使用了诸如“拥有”（own）、“拥有者”（owner）、“买”（buy）、“购买”（purchase）和“归您保留”（yours to keep）等术语。<br />目前正在对这些材料进行审查，以便将其作为关于索尼如何向消费者表述数字购买和所有权的额外证据列入其中。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Eli Regalado 与妻子 Kaitlyn 创立了 INDXcoin，通过家人、朋友和福音派基督教圈子进行推广。</li>
-    <li>超过 500 人为 INDXcoin 项目投入了超过 300 万美元，该项目在一年内崩溃，投资者损失惨重。</li>
-    <li>来源叙事重点：聚焦前沿科技争议与治理伦理，涵盖宗教包装下的加密货币骗局、太阳能地球工程路线图、芯片能耗创新（可逆计算），以及中美能源脱钩与前沿 AI 越权失控等科技与政策交叉议题。</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 20:18 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#MIT</span>
+  <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
 <div id="story-sed-gps-alternative-tern-00176c50b86b42e9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1317" data-content-paragraphs="12" data-published-at="2026-09-10T12:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1306" data-content-paragraphs="13" data-published-at="2026-09-10T12:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -116,28 +426,28 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 20:00</span>
 </div>
 
-### [美陆军斥资1100万美元押注奥斯汀GPS替代方案初创公司Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
+### [美国陆军斥资1100万美元押注奥斯汀GPS替代方案初创公司Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> US Army places $11M bet on Austin-based GPS alternative Tern</div>
 
-<div class="article-body" data-article-body="true"><p>总部位于奥斯汀的初创公司Tern已赢得美国陆军的一份合同，用于部署该公司的低成本GPS替代技术。</p>
-<p>现代车辆在行驶过程中会产生各种数据，而Tern的整个技术栈正是围绕利用其中一部分信息来实现无GPS导航而构建的。</p>
-<p>“为了达到仅接收这些信息便能输出经纬度的水平，我们做了相当多的工作，团队付出了巨大努力，”他说道。</p>
-<p>所有这些使得车辆基本上能够利用边缘计算独立确定自身位置，无论是在公路、越野行驶，还是在隧道或沙漠中都非常实用。摩尔（Moore）的联合创始人布雷特·哈里森（Brett Harrison）最近甚至用它完成了从奥斯汀到加利福尼亚州拉古纳海滩之间长达1300英里的导航驾驶。他表示，在整个行程中，Tern的技术从未丢失过车辆位置，而传统GPS则中断了数十次。</p>
-<p>Tern技术的另一个与精确定位同样重要的特点在于它是一个封闭系统。这意味着它不仅是一个备用方案，对手实际上也更难对其进行干扰或破坏。</p>
-<p>“从消费者的角度来看，我不知道大家是否广泛意识到[GPS]系统的脆弱性，”摩尔表示，“我认为人们只是看着手机上的蓝点，并认为它既然现在在那里，就永远都会在那里，对吧？它怎么会不在呢？”</p>
-<p>作为一名退伍军人，哈里森表示，在Tern花费数年时间证明其技术行之有效之后，陆军的这份合同是对他们的一种认可。他提到，他在阿富汗特种作战特遣部队服役的经历，是他萌生解决这一问题愿望的重要原因之一。</p>
-<p>“从我们决定着手这项工作的基础起，我们就认识到它必须是真正可部署、可扩展的，而不是一个科学实验项目，”他说道，“我们不仅对证明可行性感兴趣。我们希望确保它确实能够投入实战环境并发挥实际作用。”</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>资深记者，交通出行领域<br />肖恩·奥凯恩（Sean O’Kane）是一名拥有十年报道经验的记者，长期追踪交通行业快速演进的商业与技术，包括特斯拉以及追赶埃隆·马斯克的众多初创公司。在此之前，他是彭博新闻社（Bloomberg News）的记者，曾协助报道过数起臭名昭著的电动汽车SPAC退潮暴跌事件。他此前还曾在The Verge工作，报道消费电子技术，主持过多部短视频和长视频节目，从事产品与新闻摄影，并曾在一架红牛特技飞行赛飞机上险些晕厥。</p>
-<p>您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过 Signal 加密消息联系 okane.01，以联系肖恩或核实其外联信息。</p>
-<p>不要错过。初创企业社区将汇聚一堂，共同探讨一个核心问题：在AI时代，如何实现可持续发展？<br />苹果发布其首款折叠屏手机 iPhone Duo<br />纽约大学数学家称：OpenAI在具有重大生涯意义的数学难题上手段不光彩<br />一部揭秘伊丽莎白·霍姆斯（Elizabeth Holmes）的全新纪录片震撼特柳赖德电影节<br />TechCrunch Mobility：特斯拉Cybercab上路——并遭遇波折<br />徒步旅行者在使用谷歌Gemini规划路线后获救<br />美联邦监管部门对特斯拉Cybercab部署展开调查<br />特斯拉正在询问用户是否愿意购买并运营Cybercab车队</p></div>
+<div class="article-body" data-article-body="true"><p>总部位于奥斯汀的Tern公司已获得美国陆军的一份合同，用于部署该初创公司的低成本GPS替代技术。</p>
+<p>现代车辆在行驶过程中会产生各种各样的数据，而Tern的整个技术栈都是围绕利用其中的部分信息实现在没有GPS的情况下进行导航而构建的。</p>
+<p>“为了达到仅接收这些信息便能直接输出经纬度的水平，我们做了相当多的工作，因此我们团队付出了巨大努力，”他表示。</p>
+<p>所有这些使得车辆基本上能够利用边缘计算独立确定自身位置，无论是在公路还是越野环境、隧道还是沙漠中都非常实用。摩尔（Moore）的联合创始人布雷特·哈里森（Brett Harrison）最近甚至用它完成了从奥斯汀到加利福尼亚州拉古纳海滩全程1300英里的驾驶导航。他表示，在整个旅程中，Tern的技术从未丢失车辆位置，而传统的GPS则中断了数十次。</p>
+<p>除了精准定位之外，Tern技术另一个同等重要的方面在于它是一个闭环系统。这意味着它不仅是一个备用系统，对手也更难对其进行干扰破坏。</p>
+<p>“我不知道从消费者的角度来看，大家是否广泛意识到[GPS]系统的脆弱性，”摩尔表示，“我认为人们只是看到手机上的那个蓝点，就觉得它永远都会在那里，因为现在它就在那里，对吧？它怎么会不在呢？”</p>
+<p>作为一名退伍军人，哈里森表示，在Tern花费数年时间证明其技术有效之后，获得陆军的合同是对其成果的肯定。他表示，自己作为特种作战特遣部队成员在阿富汗服役的经历，在很大程度上促成了解决这一问题的强烈愿望。</p>
+<p>“从我们决定着手开展这项工作的一开始，我们就意识到它必须是真正可部署、可扩展的，而不是一个科研摆设项目，”他说，“我们感兴趣的不仅仅是看看自己能证明什么。我们要确保它真正能够投入实地应用并发挥作用。”</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>交通领域资深记者<br />肖恩·奥凯恩（Sean O’Kane）是一名拥有十年报道经验的记者，长期关注交通行业日新月异的商业与技术动态，包括特斯拉以及追赶埃隆·马斯克的众多初创公司。在此之前，他是彭博新闻社（Bloomberg News）的记者，曾协助报道过一些最臭名昭著的电动汽车借壳上市（SPAC）失败案例。此前他曾供职于The Verge，报道消费科技、主持多档短视频与长视频节目、从事产品与专题摄影，还曾在一架红牛特技飞行赛飞机上险些昏厥。</p>
+<p>您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过 Signal 加密信息（okane.01）联系肖恩或验证其外联信息。</p>
+<p>切勿错过。初创企业界将齐聚一堂，共同探讨一个核心问题：在AI时代，如何实现可持续发展？</p>
+<p>苹果发布旗下首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在关键数学难题上手段不公<br />一部关于伊丽莎白·霍姆斯的全新秘密纪录片震撼特柳赖德电影节<br />TechCrunch出行专栏：特斯拉Cybercab上路——并遭遇阻碍<br />徒步旅行者使用谷歌Gemini规划路线后遇险获救<br />联邦监管机构对特斯拉部署Cybercab展开调查<br />特斯拉正在询问公众是否有意购买并运营Cybercab车队</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>美国陆军向总部位于奥斯汀的初创公司 Tern 授予了一笔价值 1100 万美元的合同，用于部署其低成本 GPS 替代技术。</li>
-    <li>Tern 将其技术描述为“战场的谷歌地图”（Google Maps for the battlefield）。</li>
-    <li>来源叙事重点：聚焦初创公司 Tern 获得美国陆军 1100 万美元合同，突出其低成本、封闭式车载边缘计算定位技术对脆弱传统 GPS 的替代价值，并强调创始人退伍军人背景与技术实战导向。</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 20:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -151,7 +461,7 @@ notice:
 
 :::cell
 <div id="story-athematics-training-data-e29cd346e532312e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="379" data-content-paragraphs="4" data-published-at="2026-09-10T11:00:57.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2117" data-content-paragraphs="19" data-published-at="2026-09-10T11:00:57.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -160,15 +470,30 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 19:00</span>
 </div>
 
-### [数学家要求OpenAI证明其未曾使用他们的研究成果](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
+### [数学家要求 OpenAI 拿出证据证明未使用其研究成果](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Mathematicians want proof OpenAI didn’t use their work</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="数学家要求OpenAI证明其未曾使用他们的研究成果" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="数学家要求 OpenAI 拿出证据证明未使用其研究成果" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>OpenAI 首席执行官萨姆·奥尔特曼（Sam Altman）在星际之门（Stargate）人工智能数据中心的媒体参观活动中。 | 彭博社通过盖蒂图片社（Bloomberg via Getty Images）</p>
-<p>又有一位研究人员就推动 OpenAI 日益令人瞩目的数学发现背后的数据，向该公司提出质疑。就在关于该公司的模型是否受益于未发表成果而引发激烈争吵的数天之后，第二位数学家站了出来，指责这家人工智能巨头存在不道德和“不诚实”的行为，并且其训练数据来源缺乏透明度。</p>
-<p>在 Mastodon 上发布的一系列帖子中，数学家安德烈亚斯·托姆（Andreas Thom）表达了担忧，认为在 OpenAI 取得重大成功宣布之前，他及其同事与 ChatGPT 聊天机器人的互动，可能促成了该公司在该领域的突破。其中之一……</p>
-<p>在 The Verge 阅读完整报道。</p></div>
+<div class="article-body" data-article-body="true"><p>该主题的帖子将被添加到您的每日电子邮件摘要和主页动态中。</p>
+<p>在取得多项重大突破后，又有一位数学家指责该公司“不诚实”。</p>
+<p>该作者的帖子将被添加到您的每日电子邮件摘要和主页动态中。</p>
+<p>查看罗伯特·哈特（Robert Hart）的全部文章</p>
+<p>又有一位研究人员就推动 OpenAI 日益令人瞩目的数学发现背后的数据向其提出质疑。就在几天前，关于该公司的模型是否受益于未发表的研究成果刚刚引发了激烈争论；如今，第二位数学家站了出来，指责这家人工智能巨头存在不道德和“不诚实”的行为，且对其训练数据的来源缺乏透明度。</p>
+<p>数学家安德烈亚斯·托姆（Andreas Thom）在 Mastodon 上发表的一系列帖子中表达了担忧，认为他和同事在 OpenAI 发布胜利公告之前与 ChatGPT 聊天机器人的互动，可能促成了该公司在该领域的成功。OpenAI 上个月大张旗鼓公布的 10 项成果中，有一项涉及托姆的专业领域，即所谓的“非索菲克群”（non-sofic groups），OpenAI 承认他们的成果在很大程度上借鉴了托姆与同为数学家的加博尔·孔（Gábor Kun）先前的研究工作。</p>
+<p>托姆表示，在纽约大学数学教授特里斯坦·巴克马斯特（Tristan Buckmaster）公开质疑 OpenAI 的人工智能模型是否从他使用 OpenAI Codex 的过程中获益后，他也开始反思自己与 OpenAI 的互动。在 OpenAI 宣布其非索菲克群的研究成果后，因未致谢托姆和孔近期的贡献，在数学界遭到了广泛批评，随后该公司悄然修改了其技术说明报告。粗略来说，非索菲克群是一种无法用有限结构来逼近的无限数学结构。</p>
+<p>托姆表示，他还对“OpenAI 对我们技术的详尽掌握”感到震惊，他指出，这些技术在当时既不是最直观的，也不是最有希望得出解决方案的途径。他说，他给 OpenAI 的研究人员塞巴斯蒂安·布贝克（Sébastien Bubeck）以及哈佛大学统计学家兼研究员马克·塞尔克（Mark Sellke）发了电子邮件，询问他与 ChatGPT 的交互是否“构成了训练数据的一部分，或可供推理过程调用”，从而可能对该成果有所贡献。</p>
+<p>但对方的答复并没有让托姆感到满意。托姆表示，该回复仅解答了其与机器人的对话是否会被直接访问，而并未说明这些数据是否进入了该公司用于改进模型的庞大训练数据池。“对方没有给出任何限定说明、解释或证据，”他写道，“往轻了说，我认为这是不诚实的。”</p>
+<p>托姆表示，研究人员并不具备对 OpenAI 的训练流程进行逆向工程的能力，无法查明他们的研究成果是否被使用过。“只有 OpenAI 掌握相关数据。”他表示，如果该公司要否认这一点，他们就有责任通过公开所有必要的数据集，并阐明规定其如何使用数据的各项设置与条款来证明自身清白。</p>
+<p>OpenAI 不愿彻底排除使用过任何用户数据的态度，与它此前在公开声明以及与巴克马斯特沟通中为近期千禧年大奖难题（Millennium Prize）突破辩护的方式如出一辙——巴克马斯特此前以个人身份与 Anthropic 研究员莱文特·阿尔珀厄（Levent Alpöge）共同研究这些问题。在宣布纳维-斯托克斯方程（Navier-Stokes，涉及流体运动）解法的博文中，OpenAI 断然否认使用了任何特定的用户数据：“无论通过何种途径，我们（研究人员和智能体）在他们公开成果之前从未见过其任何工作——特别是，为了解决这个问题，我们并未访问过任何特定的用户数据。”</p>
+<p>但它并未彻底排除存在间接影响的可能：“尽管可能性不大，但我们不能排除从他们使用我们产品的过程中提取的去标识化数据有助于改进我们的模型。”托姆表示，这与该公司在与他沟通时玩弄的混淆视听的把戏如出一辙。“去标识化或许能隐去名字，但抹杀不了数学思想的学术内核，”他说。</p>
+<p>鉴于近期发生的事件，托姆表示：“塞尔克给出的断然答复，至少是毫无道理地宽泛且存在实质性误导的；回想起来，这完全是不诚实的。”</p>
+<p>托姆表示，如果用户提供的非公开研究成果帮助改进了模型，而该公司随后却利用这些模型与这些用户争夺发表优先权，且未获得许可、未进行适当披露或致谢，“这在伦理上是站不住脚的”。</p>
+<p>OpenAI 没有立即回应 The Verge 的置评请求。</p>
+<p>在本该属于 OpenAI 的辉煌时刻，托姆的言论加剧了数学界对其日益增长的不安。该公司宣布解出数学界传奇的千禧年大奖难题之一，这是一项非凡的成就，一旦得到验证，几乎无人能够否认。但由于 OpenAI 宣称促使其最初涉足该问题的不同寻常的背景，情况变得复杂起来：OpenAI 称其在网上听到了其他研究人员取得重大进展的传闻，于是认为自己也可以尝试一下。</p>
+<p>这起持续发酵的事件在数学家群体中留下了糟糕的印象。多位研究人员告诉 The Verge，他们担心这种行为会将该领域推向更加封闭和保密的状态——因为数学家们意识到，哪怕只是传出他们即将取得重大突破的蛛丝马迹，也可能引发与一家渴望声誉且资源充沛的科技巨头的激烈竞争。</p>
+<p>免费每日精选，聚焦最重要的头条资讯。</p>
+<p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -188,7 +513,7 @@ notice:
 
 :::cell
 <div id="story--an-architecture-problem-321672b4ff708a9d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2473" data-content-paragraphs="28" data-published-at="2026-09-10T11:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2457" data-content-paragraphs="28" data-published-at="2026-09-10T11:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -197,39 +522,39 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 19:00</span>
 </div>
 
-### [为 AI 供电是一个架构问题](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
+### [为AI供电是一个架构问题](https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Powering AI is an architecture problem</div>
 
-<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?w=840" alt="为 AI 供电是一个架构问题" loading="lazy" /></div>
+<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?w=840" alt="为AI供电是一个架构问题" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>2026 年 7 月 22 日，弗吉尼亚州阿什本——全球最大数据中心集群的核心地带——发生一起输电线路故障，在数秒内导致电网脱落超过 3 吉瓦（GW）的负荷。而且这已不是第一次。两年前，单一避雷器故障曾导致弗吉尼亚州约 60 座数据中心设施同时掉线，瞬时甩负荷达 1500 兆瓦。谁也没有料到，如此庞大规模且高度同质化的负荷竟会在同一时间、以相同的方式对电网故障做出反应。</p>
-<p>有关 AI 电力的讨论大多聚焦于发电端：需要更多涡轮机、更多太阳能以及更多输电线路。电网确实需要更多电能。但弗吉尼亚州的停电事件并非供电不足所致，而是架构设计上的缺陷。如今，海量并网项目正基于这一相同的传统架构纷至沓来，令电网可靠性面临严峻风险。而这是一个谁都不愿主动认领的难题。</p>
+<div class="article-body" data-article-body="true"><p>2026年7月22日，弗吉尼亚州阿什本——全球最大的数据中心集群核心区——发生一起输电线路故障，导致电网在数秒内甩掉超过3吉瓦（GW）的负荷。而且这已不是第一次。两年前，单一避雷器故障曾瞬间导致弗吉尼亚州约60处设施断电、损失1500兆瓦负荷。此前无人能预料到会有如此大规模且特征一致的负荷，会在同一时间以完全相同的方式对电网故障做出反应。</p>
+<p>围绕人工智能电力的争论大多集中在发电端：建造更多涡轮机、铺设更多太阳能、增设更多输电线路。电网需要更多电能。但弗吉尼亚州的断电事件并非供应短缺导致的故障，而是架构层面的缺陷。而规模庞大的新增并网项目正基于这一相同的架构蜂拥而至，置电网可靠性于险境。这是一个谁都不愿出面承担责任的问题。</p>
 <p>对电网提出更高要求</p>
-<p>电网最初是围绕可预测的负荷构建的：钢铁厂、炼油厂以及晚饭时段的居民用电。虽然负荷体量各异，但过程大同小异——平稳吸纳电能，偶尔出现扰动，并能平稳恢复。</p>
-<p>但 AI 数据中心的表现完全不是这样。</p>
-<p>一座 AI 园区在进行模型训练时，可能在数毫秒内发生高达 70% 的负荷剧烈波动；随后在电网上游出现任何故障苗头的瞬间，为了保护价值数十亿美元的算力设备，它又会以同样的速度迅速切断脱网。单看这些行为，每一项都出于合乎逻辑的自保。但当它们在吉瓦级规模上叠加时，便构成了电网从未解决过的难题——而正在规划中的下一代数据中心园区，正是按这一体量设计的。</p>
-<p>传统架构在何处失效</p>
-<p>几十年来，标准数据中心的供电拓扑几乎未曾改变。中压电源接入后，由变压器降压，再经过低压不间断电源（UPS）进行电能调节，最终送达机架。如果将这种设计推高至 AI 级别，它会在三个环节彻底破裂。</p>
-<p>首先，UPS 位于建筑物深处，紧邻机架。但它的电池只是一个容量不足的“备用胎”，设计初衷仅用于在断电时支撑几分钟，根本无法全天候吸收如此快速且剧烈的负荷波动。</p>
-<p>其次，UPS 在绝大多数运行时间内处于旁路状态。由于传统逆变器会损耗大量电能，运营商通常在经济模式（eco-mode）下运行：静态开关直接由电网向机架供电，双向均无任何滤波隔离。算力端产生的剧烈波动直接倾泻至电网，而电网的瞬态扰动——可能损坏或导致设备宕机的亚毫秒级事件——进入速度又太快，任何物理开关都来不及反应。</p>
-<p>第三，保护逻辑是在“大负荷”还代表 50 兆瓦的时代编写的。这种保护逻辑无法感知其自身如今所属的整体电网，因此当上游出现扰动时，它会做出完全错误的应对：直接脱网。在 2024 年弗吉尼亚州的事件中，大部分丢失的负荷都可追溯至一种保护机制——该机制在监测到第三次电压暂降时便自动切断连接。它确实按设计意图运行了，却发生在了最糟糕的时刻。</p>
-<p>这并非工程设计粗制滥造，而是严谨的工程方案已经被爆炸式增长的负荷所超越。</p>
-<p>解决之道在于三管齐下、协同推进的三大举措：</p>
-<p>升压（Move it up）——从 480 伏升至中压（13.8 千伏及以上），即大型设施直接从电网受电的电压等级。</p>
-<p>外移（Move it out）——从数据机房移至变电站附近的模块化箱体中，使建筑物内仅保留计算设备和维系其运转的冷却系统。</p>
-<p>串联入回路（Move it into the path）——不再采用旁观反应式的储能电池，而是构建一个所有电能每时每刻都必须经由其流过的系统。无需检测，也无需切换，因为电力从未绕过该系统传输。</p>
-<p>从理论上看，这是三次直截了当的升级；但在实践中，它们重构了下游的每一个环节。</p>
-<p>当成千上万张 GPU 同时启动时，该系统能够吸收负荷突增，向电网呈现平稳的负荷曲线。当发生电网扰动时，后端设备甚至毫无察觉。原本棘手的“恶邻”变成了可预测的友好负荷。而在电力公用事业机构需要支持时，它还能成为得力助手。</p>
-<p>并网流程也随之改变。电力公用事业单位只需对一个中压箱式设备进行认证，而无需逐一梳理其后庞杂的变压器、UPS、冷水机组、水泵和开关柜阵列。工程师更换下一代芯片时，无需重新进行并网接入研究，从而为项目许可审批缩短数月时间。</p>
-<p>在园区围栏之内，原有的 UPS 机房腾出成为算力或冷却空间，单位建造成本的算力密度得以提升。</p>
-<p>经济模型也随之逆转。在中压下运行、置于室外并自带储能的设备，不仅有资格享受税收抵免，还能通过削峰填谷、需求响应等电网项目赚取收益。备用电源不再是一项纯粹的保险支出，而是开始创造经济回报。</p>
-<p>架构验证</p>
-<p>2026 年初，我们在洛基山脉国家实验室（National Laboratory of the Rockies）对一套全尺寸系统进行了测试。这是美国能源部直属设施，也是西半球唯一能够在同一回路上同时模拟真实电网故障与 AI 级负荷波动的场所。</p>
-<p>我们从两侧同时施压：算力侧承受全中压下的真实 AI 负荷曲线冲击，电网侧则承受包括完全零电压事件在内的电网故障。算力侧运行平稳，电网侧同样未受波及。该系统轻松通过了德克萨斯州电力可靠性委员会（ERCOT，当地电网调度机构）针对大负荷的低电压穿越要求，且留有充分裕度。</p>
-<p>鉴于电网运营商已不再对这种体量的设施盲目信任，相关规则应运而生且日趋增多。业内大多数人将这些规则视为阻碍，而中压串联系统则能开箱即用直接达标。合规不再是一项额外添加的功能，而是这种架构天然具备的本能。</p>
-<p>在 AI 基础设施扩建过程中，许多看似属于电网的问题，根源其实在数据中心围栏之内，在于那些为早已不复存在的旧负荷模式而设计的设备。只要将关键环节升压、外移并串联入路径，电网的负债就能转变为电网的资产。密度提高，审批周期缩短，备用电源也能自负盈亏。</p>
-<p>该工程方案切实可行——下一代 AI 工厂正基于此架构加速建设。业界尚未给这一技术层统一定名，我们称之为“中压 AI UPS”。名字本身并不重要，重要的是选择：这些工厂究竟会成为电网的沉重负担，还是成为支撑电网的坚实支柱。我们已经知晓如何建造后者。</p>
-<p>本文内容由 ON.energy 提供，非《麻省理工科技评论》编辑团队采写。</p></div>
+<p>电网最初是围绕可预测负荷构建的：钢铁厂、炼油厂以及晚饭时段的居民用电。负荷规模虽有不同，过程却如出一辙——平稳汲取电能，偶有异常，且能平顺恢复。</p>
+<p>但AI数据中心并非如此运转。</p>
+<p>一座AI园区在模型训练期间，负荷能在数毫秒内剧烈震荡70%，随后在上游出现故障苗头的第一时间同样迅速地脱网跳闸，以保护价值数十亿美元的算力硬件。单独来看，每项操作都符合逻辑；但若合并到一起，在吉瓦级的规模下，它们便构成了电网从未解决过的棘手问题——而下一波数据中心园区规划的恰恰就是这种规模。</p>
+<p>旧有电力架构在何处断裂</p>
+<p>数据中心标准的电力架构数十年未变。中压电力接入，变压器将其降压，低压不间断电源（UPS）设备对其进行电能质量调节，随后输送至服务器机架。若将这种设计生搬硬套至AI级规模，它会在三个方面发生崩溃。</p>
+<p>首先，UPS深置于建筑物内部，紧邻机架。但其配备的电池只是一只规格不足的“备用轮胎”，原设计仅用于在断电时维持几分钟运转，无法胜任全天候吸收如此快速且剧烈的负荷波动。</p>
+<p>其次，UPS大部分时间处于旁路运行状态。传统转换器的电能损耗较大，以至于运营商通常开启节能模式：静态开关直接通过电网向机架供电，双向均无任何滤波屏障。算力端的负荷波动未经缓冲直接冲击电网，而电网瞬态扰动——可能损坏或导致设备宕机的亚毫秒级事件——进入速度极快，任何开关都来不及反应。</p>
+<p>第三，保护逻辑是在“大负荷”仅指代50兆瓦的时代编写的。这种保护逻辑无法感知其现已所属的整体电网，因此当上游发生故障时，它会做出完全错误的反应：直接切断脱网。在2024年弗吉尼亚的事故中，大部分丢失的负荷都可归咎于保护方案——该方案通过统计电压骤降次数，在检测到第三次骤降时自动断开连接——这一响应完全符合原设计，却发生在最糟糕的时机。</p>
+<p>这并非工程粗糙，而是严谨的工程设计已无法跟上现代负荷的发展步伐。</p>
+<p>解决方案包含三项同步推进的举措：</p>
+<p>升压（Move it up）——从480伏提升至中压（13.8千伏及以上），即大型场地直接从电网接入的电压等级。</p>
+<p>外移（Move it out）——从数据机房移至变电站附近的模块化箱体中，使建筑物内仅保留计算设备以及维持其运转的冷却系统。</p>
+<p>串入通路（Move it into the path）——不再使用守株待兔并被动响应的电池机制，而是构建一套让所有电流始终流经其中的直通系统。无需检测，也无需切换，因为没有任何电能会被分流绕行。</p>
+<p>从纸面上看，这是三项直截了当的升级；但在实际操作中，它们重塑了下游的每一项设计指标。</p>
+<p>当数千颗GPU同时启动运行时，该系统吸收负荷突增，向电网呈现一条平稳平整的负荷曲线。当外部扰动来袭时，处于其后端的设备完全不受影响。原本难以伺候的邻居变成了行为可预测的优良用电户；而在公用电网需要支持时，它还能转变为有价值的支撑资产。</p>
+<p>并网流程也随之改变。供电公用事业部门只需对一个中压设备箱进行认证，而无需梳理其背后繁复的每一个变压器、UPS、冷水机组、水泵和配电开关柜。工程师更换芯片架构时无需重新进行并网接入研究，许可审批周期得以缩短数月。</p>
+<p>在园区围栏之内，原本放置UPS的房间可改造为算力或冷却空间，使单位建设资金的部署密度大幅提升。</p>
+<p>经济效益随之逆转。在中压下运行、置于室外并具备自备储能能力的设备，可获得税收抵免资格，并能通过削峰填谷和需求响应等电网激励项目赚取收益。备用电源不再是一笔纯开销的“保险”，而是开始自我造血盈利。</p>
+<p>架构实测验证</p>
+<p>2026年初，我们在美国能源部旗下的落基山国家实验室（National Laboratory of the Rockies）对全尺寸系统进行了测试，该实验室是西半球唯一能够在同一回路中同时模拟真实电网故障与AI级负荷波动的场所。</p>
+<p>我们从双向施加了冲击测试：全中压等级的真实AI负荷特征曲线冲击计算侧；电网故障冲击公用电网侧，其中包括彻底的零电压故障事件。计算侧毫无波动，电网侧同样平稳自如。该系统轻松通过了电网调度机构德克萨斯州电力可靠性委员会（ERCOT）制定的大负荷低电压穿越（voltage ride-through）要求，且留有充分裕量。</p>
+<p>这些规则之所以存在，是因为调度机构不再盲目轻信这种体量的设施，未来还将出台更多监管要求。业内多数企业将这些规则视为阻碍，而中压在线式系统开箱即可合规达标。合规不再是事后附加的功能，而是架构内生的固有属性。</p>
+<p>在AI基础设施的建设热潮中，许多看似属于电网端的问题，实际上根源都在园区围栏之内——出在那些针对已不复存在的旧负荷规模所配置的设备上。将恰当的模块向上升压、向外迁移、串入主路，电网的包袱就能转变为电网的资产。部署密度随之攀升，审批耗时得以缩短，备用电源也能自食其力。</p>
+<p>该工程方案切实有效——下一波AI工厂正基于该方案进行建设。业界尚未对这一层架构形成统一命名，我们称之为“中压AI UPS”。名称本身并不重要，重要的是选择：这些算力工厂究竟会成为电网的沉重负担，还是成为加固电网的中坚力量。我们已经知道如何打造后一种工厂。</p>
+<p>本文内容由 ON.energy 出品，并非由《麻省理工科技评论》编辑团队撰写。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -248,59 +573,47 @@ notice:
 :::
 
 :::cell
-<div id="story-loy-solar-geoengineering-8ee5cc2f7cec548a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3948" data-content-paragraphs="20" data-published-at="2026-09-10T11:00:00.000Z" data-time-source="publication">
+<div id="story-treaming-price-increases-1d9206ddba9954ec" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1046" data-content-paragraphs="8" data-published-at="2026-09-10T10:13:59.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 19:00</span>
+  <span class="news-meta-time">🕒 2026-09-10 18:13</span>
 </div>
 
-### [这份路线图或有助于我们决定是否部署太阳能地球工程](https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> This road map could help us decide whether to deploy solar geoengineering</div>
+### [Show HN：同样的9款流媒体订阅服务，如今每年比2021年贵出702美元](https://honestlyranked.com/guides/streaming-price-increases/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: The same nine streaming subscriptions cost $702/year more than in 2021</div>
 
-<div class="article-body" data-article-body="true"><p>《麻省理工科技评论》获悉，一家位于旧金山的非营利组织发布了一份详细路线图，列出了若要就太阳能地球工程的应用做出知情决策所需的实验、研究和基础设施。<br />半个世纪以来，科学家一直在探索通过向平流层释放反射性颗粒来模拟火山喷发的冷却效应，从而应对气候变化的可能性。<br />然而，尽管针对这一被称为平流层气溶胶注入（SAI）的概念已经开展了至少数百项研究，但科学界对于其效果究竟如何以及可能带来何种其他影响仍存在巨大认知空白——此前也一直缺乏消除这种不确定性的系统性规划。<br />资助太阳能地球工程研究的科研机构 Reflective 今天试图通过发布其《SAI 研究路线图》来填补这一空白。<br />该组织联合创始人兼首席执行官达科塔·格鲁纳（Dakota Gruener）表示：“我们的使命是为全世界提供所需的数据和工具，以便在足够紧迫的时限内就阳光反射做出知情决策。我们的直觉是，世界可能不得不在比我们科研体系所准备的要紧迫得多的时间框架内，做出影响深远的重大决策。”<br />格鲁纳表示，希望这项规划能够指引科研工作，并鼓励慈善机构或政府机构资助高优先级工作，“负责任地加速研究”。<br />报告估计，如果所有工作以协同方式展开，将需要大约十年时间，耗资约 3.7 亿美元；而如果缺乏协同，则将耗时约 20 年，耗资近 14 亿美元。<br />尽管格鲁纳强调 Reflective 并不提倡采用这种形式的太阳能地球工程，但该报告确实提出了开展户外实验的主张，即在平流层释放逐步增加剂量的二氧化硫（或可转化为二氧化硫的物质），以观察会发生什么。<br />这是一个颇具争议的立场。自 2002 年以来，已有数百名学者签署了一封公开信，呼吁禁止户外实验并达成一项“国际不使用协议”，理由是如此强大的技术绝不可能以全球公平的方式进行治理。一些签署者还认为，更多的研究永远无法解决有关使用太阳能地球工程的最大问题之一：究竟由谁来实施？<br />该不使用倡议的共同发起人、荷兰瓦赫宁根大学全球环境治理学教授阿尔蒂·古普塔（Aarti Gupta）在近期的一次现场采访中告诉我：“在我看来，首要问题并非技术层面的。”<br />“核心问题在于：谁来控制平流层气溶胶注入这种足以改变地球的技术？谁来研发它，谁来部署它，又出于何种目的？为了服务什么目标，以及谁的利益？这些问题非常根本，因为这项改变地球的技术必然会带来赢家和输家。”<br />“在足够紧迫的时限内”<br />自格鲁纳于 2023 年底创立 Reflective 以来，该非营利组织迅速成为太阳能地球工程研究领域的重要力量。目前，它已从多家知名慈善机构和个人处筹集了超过 2000 万美元，并向数十个研究团队提供了约 400 万美元资助。Reflective 还自主开展了若干项目以推动研究，包括开发开源太阳能地球工程模拟器以及搭建协同研究的在线平台。<br />今年早些时候，Reflective 发布了其“SAI 不确定性数据库”，其中列出了在开展哪怕小规模的太阳能地球工程之前必须解决的一长串科学未知数和工程障碍。（我在此前的一篇文章中曾就具体场景和未知因素进行过探讨。）<br />其中一些最大的不确定性涉及使用何种气体或颗粒最为合理，以及它们一旦释放到干燥的平流层后会发生什么。例如，目前尚不清楚它们是会以最大化反射率的方式散开，还是会凝结成团并迅速坠落到地球大气的最底层——对流层中。<br />该路线图建立在这一数据库的基础之上，重点阐明了解决其中绝大多数问题的途径。<br />Reflective 路线图的初始阶段被标记为“基础认知”，包括额外的计算机模拟研究和实验室实验，旨在阐明对不同区域、生态系统和现象的潜在影响，包括海洋环流模式、冰盖和作物产量等。<br />报告还指出，在此阶段需要开始开发更多的观测工具，以加深对平流层基准状态的理解，进而提高我们评估最终释放材料所产生影响的能力。<br />第一阶段将持续两到三年，耗资 3000 万至 7500 万美元，不过部分分析和观测工作将延续至后续阶段。<br />下一阶段将包括使用改装飞机在两个季节内分四次向平流层释放 10 公吨二氧化硫。报告称，整个研究阶段可能需要四到八年时间，耗资 7000 万至 1.5 亿美元。在此期间的工作可能会将有关太阳能地球工程“降温效能”（即每释放一吨硫地球能够降温多少）的不确定性降低约 25%。<br />随后的阶段实验将大幅提高释放量，在一个季节内至少释放一次、可能两次共计 2.5 万吨二氧化硫。根据路线图，该研究阶段还包含其他工作，将持续四到 11 年，耗资 2.7 亿至 11 亿美元，并将效能不确定性降低约 66%。<br />研究的最终阶段将是对全面部署的太阳能地球工程进行持续监测（如果世界决定推进该技术的话）。其目标是收集技术实际运行中的真实数据，更新模型中的影响预估，并识别任何“意外或有害的后果”。<br />格鲁纳表示，这份路线图旨在作为“第 1.0 版”，意在做到“足够具体以供大家推敲探讨”。但 Reflective 打算在收到研究人员和其他观察者的更多反馈后对该方案进行更新，并将通过网站上的机制征集这些反馈。<br />她还指出，在后期各阶段之间设置了严格的“阶段关卡”——换句话说，如果实验表明释放未能产生预期的效果、显现出令人担忧的负面影响，或者未能化解关键的不确定性，研究就不应推进到下一阶段。<br />她说：“我们的路线图之所以设置这些关卡，恰恰是因为在某些节点上，答案可能是‘你们应当停止’。”</p>
-<p>我就该报告采访的大多数观察人士都认同，这些研究可以减少有关太阳地球工程有效性及其技术实施能力的不确定性。</p>
-<p>但强调室外实验的科学重要性，并不一定会让其实施变得更加容易。此前几项开展此类实验的提案——包括哈佛大学的 SCoPEx 项目以及英国的 SPICE 项目——最终都在环保人士或政策制定者的反对声中被叫停。</p>
-<p>此外，并非所有人都认为这种规模的实验能让我们达到足以做出“知情决定”的程度。</p>
-<p>美利坚大学（American University）研究教授、法学学者兼《国际不使用协议》（International Non-Use Agreement）签署人威尔·伯恩斯（Wil Burns）担心，在全面实施太阳地球工程之前，科学家们根本无法完全了解其潜在负面影响的程度，包括对臭氧保护层的影响以及区域降水模式的改变。</p>
-<p>“研究确实能提供一些答案，”他说，“但我认为它无法提供真正相关的答案。要获得那些关键答案，就必须进行大规模部署——而我认为这从根本上是站不住脚的。”</p>
-<p>这是因为在他看来，使用这项技术会违背代际公平原则：如果世界继续排放温室气体，加大太阳地球工程的力度只会掩盖地球的持续变暖。伯恩斯表示，这意味着后代——那些对该技术的使用没有任何发言权的人——将无法叫停该工程，否则就会引发急剧的升温反弹，即所谓的“终止冲击”（termination shock）。</p>
-<p>“在我看来，这样做就等于在子孙后代头上悬起一把达摩克利斯之剑，”他说，“因此，即使你能够所谓的‘证明它奏效’，从代际公平的角度来看，我认为它也是永远站不住脚的。”</p>
-<p>（然而，一些研究人员认为，终止冲击的风险可能比人们普遍认为的要小，而且太阳地球工程可以随着时间的推移逐步缓慢削减。）</p>
-<p>去年资助了21个地球工程研究项目的英国科研机构——高级研究与发明局（ARIA）前首席执行官伊兰·古尔（Ilan Gur）对 Reflective 的路线图表示赞赏。</p>
-<p>“无论你是科学家、政策制定者，还是只是一个关心的普通公民，我们的目标都应该是尽快且高效地从科学角度回答那些最核心的问题，从而告诉我们这究竟是一种可能奏效的方法，还是永远行不通，”他说，“我们大家都应该愿意投入精力和资金来降低这种不确定性，因此我百分之百认为 Reflective 所采取的方法是正确的。”</p>
-<p>帝国理工学院可持续航空学副教授塞巴斯蒂安·伊斯特姆（Sebastian Eastham）正在领导一项由 ARIA 资助的探索另一种工程降温方法的研究项目，他认同 Reflective 路线图中所描述的室外实验无法解决所有的未知数。但他表示，该路线图有助于开启一场讨论：在面临不断升级的气候危险时，我们应如何就使用这样一种既有潜在益处又存在风险的工具做出决策。</p>
-<p>“以往做出的每一项艰难决定，都是在不确定性尚未消除的背景下做出的，”他说，“事情的本质就是如此。”</p>
-<p>伊斯特姆补充说，要解决一些关键问题，超越计算机模拟已变得至关重要。他认为，设计合理并妥善执行的室外实验能带给我们的认知，远非数百万小时的计算处理时间所能比拟，“以至于如果说‘好吧，永远不能进行任何实验’，几乎成了一种不负责任的做法。”</p>
-<p>风险在于“我们一遍又一遍地运行相同的计算机模拟，在原地打转，”他说。这可能会阻碍研究人员了解平流层气溶胶注入的有效性或危险性等关键信息。</p>
-<p>格鲁纳（Gruener）表示，太阳地球工程可能加剧不平等的风险需要予以考虑，但她也指出，若放任气候变暖，发展中地区也将面临遭受不成比例危害的威胁。</p>
-<p>她还承认，室外实验无法完全解决科学上的未知问题，但强调实验可以解答许多疑问——而且带来的环境风险极小。她指出，10吨二氧化硫还不到全球航空业每天排入大气中总量的2%。</p>
-<p>“有些人会对任何有关室外实验的讨论感到不安，但如果我们希望决策基于可靠的科学……那么这些问题就必须通过实验来解决，”格鲁纳说。</p>
-<p>她担心，气候变化日益加剧的危险将给各国及其他行为体施加越来越大的压力，迫使他们推进太阳地球工程，即便此前根本没有人开展过必要的研究来减少科学不确定性并厘清技术挑战。</p>
-<p>“我们并不认为另一种可能是完全不做决策，”她说，“我们认为另一种可能是在恐慌中或在缺乏证据的情况下做出决策。”</p></div>
+<div class="article-body" data-article-body="true"><p>同样的九项订阅服务——Netflix、Disney+、Hulu、HBO Max、Apple TV+、Paramount+、Peacock、YouTube Premium、Spotify——在2021年3月每月费用为95.91美元，而如今每月达154.41美元。这意味着在5年内上涨了61%，完全相同的九项服务每年要多花费702美元。每个数据均标有日期并附有来源链接。</p>
+<p>按2021年3月的价格计算，这些服务每年花费1,150.92美元。如今同样的九项服务每年花费1,852.92美元——对于相同的服务以及在大多数情况下相同的层级而言，每年相差702美元。计算该数字时，没有取消或降级任何服务。</p>
+<p>每项服务都拥有各自标注日期的变动时间线，每次调价均有出处引用：Netflix · Disney+ · Hulu · HBO Max · Apple TV+ · Paramount+ · Peacock · YouTube Premium · Spotify。</p>
+<p>流媒体价格上涨了多少？<br />由9项主要服务组成的一篮子组合，其月费从2021年3月的95.91美元攀升至如今的154.41美元——涨幅达61%，即每年增加702美元。</p>
+<p>现在流媒体每年需要花费多少？<br />这9项服务按当前标准层级计算，每年花费1,852.92美元；而2021年3月同样的九项服务每年仅需1,150.92美元。</p>
+<p>哪家流媒体服务涨价最多？<br />Netflix上涨43%；Disney+上涨138%；Hulu上涨58%；HBO Max上涨23%；Apple TV+上涨200%；Paramount+上涨40%；Peacock上涨100%；YouTube Premium上涨33%；Spotify上涨30%——计算周期为自2021年3月至今各服务的旗舰层级。</p>
+<p>流媒体服务为何持续涨价？<br />我们不推测其动机；我们只记录收费金额与调整时间。带有日期的记录表明，涨价已成为常态而非个例，且有多家服务在一年内不止一次上调价格。</p>
+<p>作者：Rashid N.。Rashid N是HonestlyRanked的编辑。在该网站发布前，他会对照原始出处核对每一项数据，并且从未接受过免费账号、评测机或付费推广植入。Rashid N是一个笔名；详见我们的方法论页面。此处展示的每一个数据均在页面生成时直接从我们的追踪数据库中提取，并每日重新核对——详见方法论。我们仅统计公开公布的价格；不测试提供商的服务性能、技术支持或正常运行时间。如有勘误，请联系我们。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-10 19:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 18:13 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#MIT</span>
+  <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://honestlyranked.com/guides/streaming-price-increases/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
 <div id="story-phone-18-pro-photography-084d07769f100b62" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="345" data-content-paragraphs="4" data-published-at="2026-09-10T10:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2078" data-content-paragraphs="10" data-published-at="2026-09-10T10:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -309,15 +622,21 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 18:00</span>
 </div>
 
-### [可变光圈并非 iPhone 18 Pro 相机最酷的部分](https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography)
+### [可变光圈并非iPhone 18 Pro相机的真正亮点](https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography)
 <div class="original-title-sub"><span class="orig-tag">原文</span> The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="可变光圈并非 iPhone 18 Pro 相机最酷的部分" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="可变光圈并非iPhone 18 Pro相机的真正亮点" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>iPhone 18 Pro 的三摄系统，其主摄（底部）配备了可变光圈。| 图片摄影：Antonio G. Di Benedetto / The Verge</p>
-<p>苹果总会大肆宣传其手机上的最新相机，而 iPhone 18 Pro 的主要讨论焦点就在于全新的可变光圈。iPhone 18 Pro 和 Pro Max 的主摄模块中均配备了可调节的机械光圈叶片，以增减进入传感器的光线量，允许用户以 f/1.48、f/1.8、f/2.8 和 f/4 进行拍摄。当然，你也可以让相机自动选择光圈，但手动光圈控制功能还伴随着其他全新的专业控制选项，允许你调节快门速度、手动白平衡，甚至进行手动对焦。</p>
-<p>总体而言，这为 iPhone 相机带来了丰富的新控制功能……</p>
-<p>在 The Verge 阅读完整报道。</p></div>
+<div class="article-body" data-article-body="true"><p>苹果公司一向对其手机上的最新相机大做文章，而iPhone 18 Pro的主要宣传热点正是全新的可变光圈。iPhone 18 Pro和Pro Max的主摄模块均配备了可调节的机械光圈叶片，以控制进入传感器的进光量，允许用户在f/1.48、f/1.8、f/2.8和f/4之间切换拍摄。当然，你可以让相机自动选择光圈，但手动光圈控制还伴随着其他全新的专业控制功能，允许你调节快门速度、手动白平衡甚至是手动对焦。总体而言，对于iPhone相机来说，这是一套极其丰富的全新控制功能。通常你需要安装像Halide这样的第三方相机应用才能实现其中部分功能，而现在这一切都直接内置在18 Pro的原生相机应用中。（这简直就像是苹果直接从Halide挖走了一名核心人员一样。）但我建议大家对“可变光圈是其最大亮点”这一说法放低预期。它充其量也就是平平无奇。</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-157-10-21-46.jpg?quality=90&amp;strip=all]</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-162-10-22-07.jpg?quality=90&amp;strip=all]</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-165-10-22-19.jpg?quality=90&amp;strip=all]</p>
+<p>为什么呢？因为智能手机的传感器依然相当小巧，除非你靠得极近，否则大多数被摄主体都在合理的景深对焦范围内。而且将光圈收缩到f/4，不太可能像在全画幅相机上那样带来大幅提升的锐利画质，除了在极其特殊的光照场景下能拍出一些星芒效果之外，几乎没有什么特别的画质提升。事实上，由于镜头衍射效应，你在f/4下拍出的照片可能甚至不如在f/1.8或f/2.8时锐利。收缩光圈最可能带给你的好处，是在微距特写时获得更大的景深，在光线充足的大合影中让更多人保持清晰（当大家没有站成一排时），以及在光线过强的场景下（比如阳光直射）拍摄视频时拥有更高的曝光灵活性。这些或许在特定场景下很有用，但这样的场景往往少之又少。而且智能手机的传感器实在太小，即使全开光圈拍摄，在中景以及更远的距离上也已经有足够的范围保持在景深之内。这或许也是三星和小米国等其他品牌曾经尝试过可变光圈、随后又悄然放弃的原因。</p>
+<p>我认为iPhone 18 Pro相机真正的明星功能在于其f/1.48的最大光圈。去他的收缩光圈吧，哥们儿，人们喜欢的是背景虚化。</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-177-10-24-23.jpg?quality=90&amp;strip=all]</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-event-september-2026-178-10-24-28.jpg?quality=90&amp;strip=all]</p>
+<p>去年的Pro系列iPhone相机光圈为f/1.7，而现在达到了f/1.48，18 Pro的相机在弱光下的表现应该更佳，同时景深也会稍浅一些。f/1.48相较于f/1.7在虚化上会有巨大差异吗？大概不会。它的景深可能只是稍微浅了那么一点点——但这恰恰是人们常常喜爱的视觉效果。我这是经验之谈，因为我平时常用全画幅相机拍摄，我最常用的镜头之一就是最大光圈为f/1.2的50mm镜头。如此大光圈的镜头，伴随着如此浅的景深，会呈现出一种极具特色但也很容易被滥用的质感；但每次我用这枚镜头给别人拍人像时，那朦胧而“梦幻”的虚化将被摄者从背景中剥离出来，人们几乎总是会为之倾倒。iPhone 18 Pro的f/1.48显然无法与全画幅上的f/1.2同日而语，但在大底上传感器上的f/1.2及类似大光圈所呈现的质感，正是人们常常渴望模仿的。这从一开始就是智能手机上“人像模式”诞生的全部原因。</p>
+<p>iPhone 18 Pro很可能会拥有一套非常优秀的相机，就像大多数顶级智能手机一样。新增的手动控制令人兴奋且有趣，即便在快速抓拍时我并不总是想被手动设置所打扰。能够无需安装更专业的应用就能随时随地随手调节，这确实很不错。只是如果在刚拿到新手机的新鲜期过后，你开始慢慢忽略那个光圈设置，也不要感到意外。但即便在很久之后，f/1.48依然会是一项让你持续受益的配置。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -333,383 +652,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-43791-us-china-batteries-1efb32d546200845" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1707" data-content-paragraphs="18" data-published-at="2026-09-10T10:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 18:00</span>
-</div>
-
-### [美国电池市场能否摆脱对中国的依赖？](https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Can the US battery market untangle from China?</div>
-
-<div class="article-body" data-article-body="true"><p>美国储能市场的迅猛增长正在打破历史纪录。这将在很大程度上巩固电网、提高可靠性并减少碳排放，因为电池有助于储存风能和太阳能等间歇性可再生能源发出的电力。</p>
-<p>至关重要的一点是，所有这些都是在廉价中国电池的助力下实现的，尽管美国一直在齐心协力减少对中国电池的依赖。最近，特朗普政府在8月下旬签署的一项行政命令中宣布进入国家紧急状态，实质上禁止了中国电池用于电网级储能系统。</p>
-<p>关于减少对某种关键能源技术单一来源的依赖，这一论点固然有其道理。但所有这些紧张局势引发了我心中一个更宽泛的疑问：各国究竟应该在多大程度上利用现成廉价的技术，又应该在多大程度上切断主要供应来源，以倒逼自身本土工厂的发展——即使后者需要付出更高的成本？</p>
-<p>这绝非美国首次试图摆脱中国在电池供应链中的影响。近年来采用的主要政策工具之一是限制旨在激励新技术应用的税收抵免。通过限制符合资格的项目类型，有助于降低本土技术的成本，使其相比原本更便宜的进口选择更具竞争力。</p>
-<p>早在2022年，美国政府便在《通胀削减法案》中设计了相关税收抵免政策，对电池矿物的开采、加工或回收地点，以及电池及其零部件的组装地点做出了严格限制。</p>
-<p>这些税收抵免在2025年经历了调整，但特朗普政府采取了类似的策略。新立法规定，从2026年开始，新建储能项目所用材料成本的55%必须来自中国及其他受限国家以外的地区，否则项目将没有资格享受税收抵免。</p>
-<p>我们也不能忽视关税。电池的进口关税已在1月份从7.5%上调至25%。</p>
-<p>然而，新的行政命令是一项更为激进的举措。它禁止安装任何构成国家安全风险的“外国生产的大容量电力系统电气设备”。该命令明确点名了电池储能系统，以及逆变器和变压器。</p>
-<p>能源行业分析机构基准矿业情报（Benchmark Mineral Intelligence）的储能与能源主管山恩·托穆克（Shan Tomouk）表示：“彻底的禁令让人有些意外，它确实引起了美国本土企业的担忧。”</p>
-<p>能源咨询机构彭博新能源财经（BloombergNEF）的分析显示，此举在短期内可能会放缓并网储能项目的部署步伐。在开发商等待规则进一步明确之际，项目可能会面临延误。</p>
-<p>彭博新能源财经储能分析师菊间一秀（Isshu Kikuma）表示，取决于美国能源部预计在今年年底出台的详细指引，一些项目可能需要寻找替代电池来源，无论是本土生产的还是从其他国家进口的。他指出，这些替代品的价格可能比中国进口产品更昂贵。“在最坏的情况下，这些项目可能会被直接取消，”他说。</p>
-<p>从技术层面上看，该命令甚至适用于现有的储能电站，不过它们不太可能仅仅因为电池的原产地而被迫下线。菊间表示，由于目前这些电站大多数使用的是中国电池，如果严格执行该命令，实质上意味着要将美国电网上大部分已安装的电池储能系统拆除。</p>
-<p>从长远来看，美国最终将有能力满足自身的电池需求。该国可能在2030年左右拥有足够的产能，不过一些工厂可能无法满负荷投产或运转，这意味着本土供应在2030年代后期之前实际上仍无法满足需求。</p>
-<p>来自LG新能源（LG Energy Solution）、三星SDI（Samsung SDI）、福特（Ford）和SK On的新工厂预计将于明年投产或增产。颇具讽刺意味的是，放缓的电动汽车市场反而带来了帮助，因为一些最初设计用于制造车载电池的工厂正在调整设备，转而生产用于电网储能的电芯。</p>
-<p>但这将带来高昂的代价。如今，美国本土生产的电池仍明显贵于中国制造的电池。即使改从韩国等其他国家进口，成本也可能会更高。</p>
-<p>这是一个超越美国本身、甚至超越电池领域的关键问题。在太阳能电池板和电池等技术领域，中国遥遥领先于世界其他大部分地区。凭借多年的政府支持以及研发和制造经验，中国已成为一个能源强国。</p>
-<p>随着世界各国探索如何应对这一局面，需要维系一种微妙的政治平衡。市场上存在可供获取的廉价技术，有助于大幅减少碳排放并降低能源成本；但将关键技术过度依赖于单一参与者，同样可能伴随着不可忽视的风险。</p>
-<p>本文选自《麻省理工科技评论》每周气候通讯《The Spark》。如需每周三在收件箱中接收该通讯，请在此处订阅。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-10 18:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#MIT</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-oldnewthing-20260909-00-7040bcc06f184be9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1092" data-content-paragraphs="10" data-published-at="2026-09-10T09:04:14.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 17:04</span>
-</div>
-
-### [Windows XP 当年是用什么算法来挑选你的初始用户头像的？](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
-<div class="original-title-sub"><span class="orig-tag">原文</span> What algorithm did Windows XP use to choose your initial user picture?</div>
-
-<div class="article-body" data-article-body="true"><p>我前段时间曾提到过，Windows XP 是从 %ALLUSERSPROFILE%\Application Data\Microsoft\User Account Pictures\Default Pictures 目录下的图片中随机选择你的初始头像的。但看起来大家还想了解更多细节。</p>
-<p>“有没有人试过研究 Windows XP 在首次创建账户时是靠怎样的随机数生成器（RNG）来决定使用哪张头像的？”<br />—— Xeno (@XenoPanther)，2025 年 12 月 11 日</p>
-<p>它所使用的随机数生成器就是我们的老朋友 RtlRandomEx，并以 GetTickCount() 的当前值作为初始种子。</p>
-<p>该函数采用了一种单趟（one-pass）随机选择算法。我立刻就能想到这种做法的两个好处。首先，相较于先清点所有项目、再在 1 到 n 之间随机抽取一个数字、最后进行第二次遍历以找到该索引对应项的朴素两趟（two-pass）算法，单趟算法更高效，因为它减少了对文件系统的调用次数，而文件系统正是瓶颈所在。此外，如果在代码运行期间目录中的文件数量发生变化，单趟算法还能避免由此引发的复杂问题。</p>
-<p>这种单趟算法其实是蓄水池抽样（reservoir sampling）在 k 等于 1 时的特例。这一特例允许采用一种更为简化的定制算法。</p>
-<p>该算法的工作原理是基于这样一个观察：在包含 n 个项目的集合中，最后一项被随机选中的概率是 1/n。如果它没有被选中，那么你就需要在前 n − 1 项中随机选择，这可以通过递归来解决。</p>
-<p>将递归顺推展开：从基础情况开始，如果列表中只有 1 个项目，那么你唯一的选择就是选中该项目。否则，如果列表中有 n 个项目，首先从前 n − 1 个项目中随机选出一个，然后以 1/n 的概率替换为第 n 个项目。</p>
-<p>作为最后的安全检查，代码在抽样达到 100 张图片后便会停止。这可以避免如果有人在 Default Pictures 目录中放入上百万个文件时出现病态行为。</p>
-<p>Raymond 参与 Windows 的演进已有 30 多年。2003 年，他创办了名为 The Old New Thing 的网站，其受欢迎程度远远超出了他最大胆的想象，这一发展至今仍让他感到有些惴惴不安。该网站后来还衍生出了一本书，巧合的是书名也叫《The Old New Thing》（Addison Wesley，2007 年出版）。他偶尔会在 Windows Dev Docs 的 Twitter 账号上露面，讲一些毫无实用价值的故事。</p>
-<p>成为第一个参与讨论的人吧。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-10 17:04 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-nvestors-lost-everything-c62659d18b0237be" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="15472" data-content-paragraphs="115" data-published-at="2026-09-10T09:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 17:00</span>
-</div>
-
-### [上帝让他们卖加密货币，而他们的投资者输得精光](https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> God told them to sell crypto. Their investors lost everything.</div>
-
-<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/09/Eli_DSF7416.jpg" alt="上帝让他们卖加密货币，而他们的投资者输得精光" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>本文由《麻省理工科技评论》与 Type Investigations 合作撰写，并获得了调查新闻基金（Fund for Investigative Journalism）的支持。</p>
-<p>当伊莱·雷加拉多（Eli Regalado）第一次听到上帝对他说话时，他曾怀疑自己是否出现了幻觉。如今，他将这种体验比作心中产生了一种“不属于我自己的念头”。神圣的话语在他脑海中回响，宛如电影里的一句台词，又或是所爱之人声音的记忆。“这并不是‘你最好这么做’，”他说，“而是一种来自内心的明悟：这就是你要做的事。”</p>
-<p>当伊莱祷告、阅读或看电视时，神圣的信息每天都会降临。有时它们浮现于具有预兆性的梦境中，或来自陌生人的信件。偶尔，它们会在他说话说到一半时出现，当时他停下来询问：“主啊，您在这里想说什么？”</p>
-<p>伊莱的妻子凯特琳（Kaitlyn）往往是在淋浴时接收到来自上天的讯息，那是她终于拥有属于自己片刻宁静的时候。其他时候，她会向上天寻求指引。“我会写日记、祷告并提出疑问，并且坚信我所听到的就是祂的声音，”她说。</p>
-<p>上帝的指示多种多样。据雷加拉多夫妇称，上帝曾告诉他们结婚、买房并开始要孩子。当伊莱在科罗拉多州拥有一家营销公司时，上帝告诉他公司该叫什么名字、雇佣谁以及接纳哪些客户。接着，上帝告诉他开始在自家的客厅和网上进行布道。夫妇俩始终遵从这些指示。</p>
-<p>2021年，伊莱41岁，凯特琳28岁，神圣的指引将他们带向了一个意想不到的新方向：加密货币。</p>
-<p>雷加拉多夫妇后来在法庭上作证称，那年10月，伊莱的姐姐和姐夫将他们持有的一种鲜为人知的数字货币赠予了夫妇俩一部分。“把这个带给我的子民，进行财富转移，”伊莱听见上帝如是说。他和凯特琳觉得，自己受到了召唤，要将这种加密货币推销给其他基督徒同胞。</p>
-<p>后来，尽管他们毫无加密货币背景，却坚信上帝希望他们发行属于自己的代币。雷加拉多夫妇边做边学，创造了一种名为 INDXcoin 的新型加密货币，并通过家人、朋友以及福音派基督教圈子中的关系进行推广。“我当时真的觉得这就是未来的浪潮，”70多岁的退休药房技术员黛比·博尼利亚（Debbie Bonilla）说，她和丈夫何塞（Jose）一起购买了 INDXcoin。这对夫妇是通过朋友——一位牧师及其妻子——了解到这种货币的，这对牧师夫妇也进行了投资。“我们只是相信他们的判断是好的，”何塞说。</p>
-<p>从2022年11月开始，黛比和何塞从退休账户中总共提取了7万美元——占了他们养老积蓄的很大一部分——用来购买 INDXcoin。总计有500多人向雷加拉多夫妇交纳了超过300万美元的资金。</p>
-<p>但在博尼利亚夫妇买入后不到一年，该项目便宣告崩溃。那些托付给雷加拉多夫妇大笔现金的投资者血本无归，导致许多人想知道资金究竟流向了何处，也有些人开始怀疑自己是否沦为了一场精心策划的骗局的受害者。</p>
-<p>“噗的一声——钱就这样蒸发了，”黛比告诉我。“怎么会发生这种事？”</p>
-<p>尽管伊莱相信上帝是在引导他进入加密货币领域，但他声称自己最初也充满忧虑。“绝不可能，”他回忆当时的念头，“我对加密货币一无所知，而且我不想卷入什么教会骗局。”</p>
-<p>彼时加密货币市场正处于繁荣期，雷加拉多夫妇认识一些通过投资早期代币发了大财的人。但对数字资产日益增长的兴趣，也意味着加密诈骗的增加。</p>
-<p>区块链分析公司 Chainalysis 的数据显示，2025年，全球加密货币诈骗分子至少敛财140亿美元，较前一年增加了17%。在美国，加密投资诈骗案的受害者向美国联邦调查局（FBI）报案的损失金额高达72亿美元。</p>
-<p>诈骗行为之所以上升，部分原因在于许多投资加密货币的人并不完全了解其运作机制，而且发行数字货币相对容易。根据 CoinMarketCap 网站的数据，仅在2026年8月，就有超过300万种加密货币被铸造出来。“这纯粹是任何人都可以创造的东西，”前 FBI 特工贾森·格蒂安（Jason Ghetian）说，他曾在多起加密案件中担任专家证人。</p>
-<p>在美国，大部分加密市场缺乏传统金融中现有的监管机制和投资者保护措施，包括有关透明度和客户资产安全保护的规则。“没有充分的信息披露；存在欺诈、价格操纵和利益冲突，”美国商品期货交易委员会（CFTC）前主席蒂莫西·马萨德（Timothy Massad）表示。该行业受到州和联邦监管机构错综复杂网络的监管，包括 CFTC、美国证券交易委员会（SEC）、金融犯罪执法网络（FinCEN）等。但曾撰写过加密监管教材的阿肯色大学法学教授卡罗尔·戈福思（Carol Goforth）指出：“每个机构都有自己的测试标准和定义，这是一种复杂、碎片化且往往前后矛盾的监管方式。”</p>
-<p>在加密行业于2024年大选周期斥资约1.35亿美元支持对加密友好的候选人后，联邦政府大幅缩减了执法力度。去年，美国司法部解散了专注于打击加密犯罪的部门，特朗普执政的白宫也成立了一个工作组，旨在“消除对数字资产的监管过度”。</p>
-<p>据《纽约时报》报道，SEC 已放弃或撤回了针对加密公司的大多数正在进行的诉讼，其中许多公司与总统存在财务关联。据路透社最近估计，自唐纳德·特朗普再次当选以来，他和他的家族已从其加密投资中净赚至少23亿美元。2026年8月，SEC 提出了新规则，将缩小加密交易受证券法约束的适用范围，进一步限制了该机构对该行业的监管。“未来的任何执法都将面临一场艰难的战斗，”戈福思说。</p>
-<p>即使加密项目在合规透明的情况下运营，其价格往往也是由投机推动的，出现大幅波动屡见不鲜。专家表示，投资加密货币伴随着相当大的风险。“除稳定币外，加密资产本质上就是庞氏骗局，”美利坚大学法学教授希拉里·艾伦（Hilary Allen）表示，“它们背后空无一物——没有现金流，没有生产能力——因此它们升值的唯一途径就是吸引更多的人加入。”</p>
-<p>近年来，州和联邦当局针对涉嫌在宗教社区开展加密诈骗的人士提起了一系列诉讼——这是被称为“熟人欺诈/认同欺诈”（affinity fraud）的一个典型例子。其中包括一对被指控利用信仰呼吁诈骗主要由海地移民组成的群体超过10亿美元的夫妇、一名从穆斯林信徒那里敛财超1200万美元的 Instagram 网红，以及一名被控从其讲西班牙语的会众手中窃取数百万美元的迈阿密牧师。“‘上帝告诉我的’——谁能反驳这一点呢？”格蒂安说。</p>
-<p>“你与他人之间的纽带——你所拥有的信任——正是骗局操盘手所利用的筹码，”科罗拉多州证券局专员陈彤（Tung Chan）表示。在2024年1月提起的一起民事诉讼中，她指控雷加拉多夫妇利用投资者的基督教信仰，诱骗他们购买“本质上一文不值”的加密货币。</p>
-<p>这起向丹佛地方法院提起的诉讼称，这对夫妇将筹集到资金中的约130万美元（近40%）用于个人开销。消费项目包括高档度假、名牌服饰、珠宝首饰、牙齿美容整形、一辆路虎揽胜、聘请互惠生以及大规模房屋翻新。陈专员在起诉书中坚称，这对夫妇“敛财的冲动，唯一能与之相比的只有他们对证券法律的肆意践踏以及对投资者毫无底线的良知缺失”。</p>
-<p>随后在2025年7月，丹佛地方检察官对雷加拉多夫妇提出了40项重罪指控，包括盗窃、敲诈勒索以及证券欺诈。若罪名成立，他们可能面临数十年监禁。但这对夫妇坚称自己没有做错任何事，只是在遵行上帝的旨意。</p>
-<p>“如果你觉得跟随主是鲁莽的，那好吧，我们确实非常鲁莽，”伊莱告诉我。“因为我们只是听从并照着主所吩咐的去做了。”</p>
-<p>伊莱表示，他第一次听到来自上天的声音时，人还在铁窗之后。</p>
-<p>那是2002年，他22岁，因偷窃一辆本田思域而面临八年监禁。伊莱最初在20岁时被判刑，但仅服刑七个月便获释；随后他因拿啤酒瓶砸在一个男人的脸上、违反缓刑条例而再次入狱。</p>
-<p>据伊莱讲述，这一次他的公设辩护人警告他，再次获得提前假释在“法律上是不可能的”。但他脑海中一直回荡着一个声音重复道：“我会给你缓刑。”随后事情果真发生了：法官暂缓执行了他的刑期。这一事件成了他世界观的核心：“事情首先必须……看起来完全不可能，”他说，“然后那才是上帝显神迹、使其死而复生的时候。”</p>
-<p>出狱后，伊莱的宗教狂热并未持续太久。他一头扎进了一个世俗的目标：赚钱。“我只需要戴上这副成功的面具，”他回忆当时的念头，“这样人们就会觉得我有价值。”在求职申请表上被问及重罪前科时，他都勾选了“否”，并最终发现自己在销售方面颇有天分。从吸尘器到承包商的销售线索，他什么都推销过，之后转型做起了营销。</p>
-<p>2010年，丹佛当地刊物《Icosa杂志》聘请伊莱担任顾问。“他是我这辈子见过的最具魅力的吹牛大王，”当时的杂志主编扬·马佐蒂（Jan Mazotti）说。她回忆道，伊莱曾告诉她，埃隆·马斯克的弟弟金博尔·马斯克已经同意让杂志在他的餐厅举办活动。“我打电话去店里问，对方却说：‘我完全不知道你在说什么。’”（伊莱表示不记得有这回事。）</p>
-<p>2013年，伊莱创办了疯帽子营销机构（Mad Hatter Agency），一家专门负责众筹推广的营销公司。早期员工尼科·洛巴托（Nikko Lobato）观察到，伊莱能从推销中获得一种快感，这让他联想到电影《华尔街之狼》中莱昂纳多·迪卡普里奥饰演的角色。洛巴托说，伊莱接了太多的项目，以至于有时会“承诺过高而交付不足”。我联系的四位客户表示满意，三位则不满意，其中一位因“业绩不佳”终止了合同。企业家兼作家迈克·斯坦普尔（Mike Stemple）告诉我，伊莱曾主动提出帮他推广一门课程，但从未兑现。（伊莱称两人存在“性格冲突”。）“伊莱，我希望，”斯坦普尔在邮件中写道，“你能明白，你那种能向任何人推销任何东西的天赋……很容易带来毁灭性后果。”</p>
-<p>出狱后，伊莱投身于销售职业生涯。“我只需要戴上这副成功的面具，”他回忆当时的念头，“这样人们就会觉得我有价值。”</p>
-<p>伊莱的个人生活一片混乱。“我总是一段接一段地谈恋爱，”他说，“我酗酒、派对狂欢、吸毒。”他将自己职业上的失误归咎于吸食可卡因和“精神崩溃”。他告诉我，到2018年，随着年龄接近40岁，他感到“害怕自己一事无成”，并一度考虑自杀。伊莱刚结束一次连续三天的可卡因狂欢，母亲就送了他一本新加坡牧师约瑟夫·普林斯（Joseph Prince）写的书《正信的力量》（The Power of Right Believing）。这本书深深打动了他。他开始深入钻研灵恩派基督教——这一流派强调与上帝建立强有力的个人联结，包括预言、医治和说方言等神恩现象。</p>
-<p>听从神的指引，伊莱称自己戒了毒，并雇佣了近十几位亲朋好友到他的营销机构工作，他还将公司改名为“恩典引领营销”（Grace Led Marketing）。他还开始带领员工进行每日读经，并在自家客厅举行的每周聚会上布道。2020年，他创立了一个名为“得胜恩典”（Victorious Grace）的教会，并开始在Facebook上直播布道。</p>
-<p>那年夏天，伊莱在一次聚会上遇到了凯特琳。凯特琳比他小13岁，身材苗条，说话轻声细语，留着乌黑的直发，笑容灿烂。她随即告诉我：“我就是把命都托付给了这个男人。”在他们的第一次约会中，凯特琳在餐桌上接受了救赎，成为“得救”的基督徒。不到四个月，他们就结婚并在丹佛买了一套房子，凯特琳开始负责“恩典引领营销”的运营。</p>
-<p>然而，到了2020年底，这对新婚夫妇的收入开始暴跌。他们表示，众筹活动表现不佳，客户拖欠付款。伊莱还欠下超过16万美元的未缴税款。“我觉得自己是个失败者，”他回忆当时的想法。</p>
-<p>由于再次顺从了他们所认定的“上帝的旨意”，雷加拉多夫妇的财务状况进一步陷入困境。2021年3月得知自己怀孕后，凯特琳从她的401(k)养老金账户中提取了6万美元，支付给一位建筑师绘制房屋翻新图纸。他们的设想最初不大，但随后不断扩张，几乎使房屋原本的建筑面积翻了一倍：扩建了他们的主卧、新增了一间卧室，并打造了两间办公室、一个健身房以及一个带吧台的家庭活动室。“主就好像在说：‘按照你们想要的方式去做就好，’”凯特琳回忆道。几个月内，他们便掏空了401(k)账户。根据另一条神圣的神谕，他们关闭了营销业务。“我们极度需要一个财务奇迹，”凯特琳说。</p>
-<p>一天夜里凌晨4点30分左右，雷加拉多夫妇被电视机的巨大声响吵醒。屏幕上，芝加哥附近的电视布道家比尔·温斯顿（Bill Winston）正在谈论“播下种子”。这种做法通常与“成功神学”（prosperity gospel）挂钩，该理论认为，信徒通过向有价值的受赠对象捐款，即可为未来的福报创造条件。</p>
-<p>“上帝让我们把商业和个人账户里的所有钱都捐出去，以获得百倍的回报，”凯特琳在2021年10月中旬的日记中写道。这对夫妇当时毫无收入，正为支付账单而苦苦挣扎。然而据他们所说，就在他们的第一个孩子出生前不久，他们将最后的2,718.44美元寄给了比尔·温斯顿事工部（Bill Winston Ministries）。</p>
-<p>仅仅过了两周，上帝赐予的丰厚恩赐似乎就降临了。雷加拉多夫妇后来在民事审判中作证称，埃利的妹妹雷娜·阿普尔盖特及其丈夫丹尼尔赠送给他们一大笔名为Sumcoin的加密货币。埃利在作证时回忆，他们当时说：“上帝让我们把这个‘播种’在你们身上。”（雷娜未回复置评请求；丹尼尔拒绝回答具体问题，但对我们的报道提出异议，并警告称埃利对事件的描述不可信。）</p>
-<p>Sumcoin由爱达荷州32岁、在网上发布投资内容的泰·雅各布森于2016年创立，自称为“世界上首个基于指数的加密货币”。该币的网站宣称，其价格由一个追踪排名前100位加密货币表现的算法决定。根据民事审判的证词，雷加拉多夫妇认为获赠的Sumcoin价值约200万美元。</p>
-<p>在收到加密货币后不久，埃利正在餐桌前祈祷，突然听到上帝指示他“把这个Sumcoin带给我的人民，即教会”。对雷加拉多夫妇来说，他们应该开始向其他基督徒出售该币的迹象似乎无可辩驳：凯特琳被包含“hidden”（隐藏）一词的经文所吸引——该词在希腊语中译为kryptós。一位同意通过祈祷来确认他们是否该涉足加密领域的友人打电话证实说：“主同意了。”尽管埃利最初对自己缺乏经验有所顾虑，但夫妇俩还是决定付诸行动。</p>
-<p>这位经营基于信仰的辅导业务的友人邀请人们加入埃利的视频通话，这些通话一部分是查经班，一部分是Sumcoin的推销会。五天之内，雷加拉多夫妇就记录了约9,000美元的利润。到2022年2月，他们接到的咨询多到埃利不得不举办网络研讨会。“Sumcoin是唯一不会被恶意拉盘砸盘（pump and dump）的代币，”他宣称，“它非常类似于标准普尔500指数之类的东西。”（与股票指数基金不同，Sumcoin没有任何底层资产来支撑其价值。）当月，这对夫妇创造了超过26万美元的销售额。</p>
-<p>然而，Sumcoin并未在任何主流加密货币交易所上市，这意味着持有者主要只能在私下一对一交易中按双方商定的价格买卖。在与埃利及对Sumcoin感兴趣的人士进行的视频通话中，丹尼尔表示“目标是让该币在各个维度实现100%可变现”，包括“将该币推向交易所”。雷加拉多夫妇还告诉那些向他们购买Sumcoin的人，该币很快就会上线交易所。根据雷加拉多夫妇在2022年2月发送给一位投资者的幻灯片，一旦上市，代币将按照Sumcoin算法设定的价格进行交易。其中一张幻灯片将该价格定在1,200美元以上，并附有一张以60至80美元出售代币的图表。</p>
-<p>但在兜售Sumcoin数月后，雷加拉多夫妇从其创始人雅各布森处得知，他并不打算将其推上主流交易所。雅各布森告诉我，他从未打算让该代币像股票一样交易，并坚称：“我从未真正把它看作一种投资。”这成了埃利与雅各布森之间的主要争论点。“他在自己正在做的事情上对人们撒谎，”雅各布森说，“在未来的走向问题上撒了谎。”埃利则坚称：“我只是传达我被告知的内容。”</p>
-<p>到了2022年6月，雷加拉多夫妇听到了新的神圣指示：“创造你们自己的币。”</p>
-<p>雷加拉多夫妇将其命名为INDXcoin，与Sumcoin类似，它也是基于市值排名前100位的数字货币价值来定价。大多数新的加密货币都是在现有区块链之上创建的代币——任何人都可以在几分钟内通过在线代币生成器完成这项工作。但埃利听到上帝说：“不要那样做；它必须是独立自主的产物。”因此，雷加拉多夫妇选择了一条更艰难的道路：推出自己的区块链和原生代币。他们表示，自己向两名曾参与Sumcoin开发的程序员支付了10万美元来启动这个项目。埃利说他和凯特琳曾告诉对方：“我们对自己正在做的事一无所知。”</p>
-<p>这对夫妇现学现卖，在YouTube和ChatGPT中输入诸如“什么是区块链？”之类的问题。埃利注意到加密项目通常会发布白皮书来概述其策略和运作机制，于是他雇佣了一名自由职业者起草了一份。出炉的文件解释称，INDXcoin的目标市场包括“基督信仰者”和“经验较少的加密爱好者”。雷加拉多夫妇创建的一个网站将INDXcoin称为“完美的加密货币”，并大肆宣扬“以极低风险实现难以置信的增长”。（该网站注明INDXcoin“不是基金”，并且“不拥有其编制指数所对应的代币”。）</p>
-<p>在涉足加密货币之前，这对夫妇生活拮据，疲于应付账单，并祈求“一场财务奇迹”。</p>
-<p>雷加拉多夫妇向此前购买Sumcoin的人提供了INDXcoin作为替代。朋友、亲戚以及他们宗教网络中的其他人奔走相告，夫妇俩还向其中一些人提供了30%的推荐佣金。雷加拉多夫妇还将INDXcoin作为礼物赠送——他们视之为“播种”——给各个事工部门和个人，其中一些人随后购买了更多。他们还在社交媒体、播客节目、一档基督教电视节目中宣传该项目，并通过促销竞赛进行推广。</p>
-<p>在发送给潜在买家的视频中，埃利坦承了自己的犯罪前科以及在加密领域的经验不足。他引用圣经经文，将这项事业大肆炒作宣传为“奇迹连锁反应”中的最新一环，并说：“上帝希望你们拥有财富。”</p>
-<p>黛比和何塞·博尼利亚是一对购买了价值7万美元INDXcoin的退休夫妇，他们表示在投资前观看埃利的一场演讲时，埃利显得精通圣经。“他看起来很真诚，”黛比说，“他看起来就像真的能听到上帝的声音。”她说，因为这是一个“上帝指引的工具”，她“觉得我们不会遇到其他加密货币中发生的那些邪恶肮脏的事情”。</p>
-<p>一个更为切实的利益前景也在招手。“当时有人解释回报会有多么丰厚，”何塞说，“那就是卖点——你可以一夜暴富。”</p>
-<p>起初，雷加拉多夫妇告诉买家，他们正在努力让 INDXcoin 在知名交易所上市。他们了解到，许多平台都会进行法律审查，以确定某种代币是否会被认定为证券。美国商品期货交易委员会（CFTC）前主席马萨德告诉我，对于加密货币项目，法院裁定“当你向人们出售某种东西，并且人们有合理的预期可以通过你的行为获利时，它就是一种证券”。被认定为证券的代币发行人必须遵守适用于股票和债券的同类法律，包括向美国证券交易委员会（SEC）注册并提供详细的财务披露。</p>
-<p>雷加拉多夫妇并未遵守这些规定，伊莱开始咨询律师，而律师们的评估令人担忧。“我快吓疯了，”他在 2022 年夏天的日记中写道，“律师们说这可能属于证券。这意味着我非法向 100 多人出售了它。”然而，在与他们召集来为其建言的“先知团队”一同祷告之后，雷加拉多夫妇继续兜售 INDXcoin。</p>
-<p>到 2022 年秋天，这对夫妇似乎找到了一条出路：在与一位名叫约翰·贝内梅里托（John Benemerito）的律师会面后，他们决定将 INDXcoin 定位为一种“实用型”代币，其主要用途是解锁产品或服务的使用权——类似于在视频游戏中兑换的代币。雷加拉多夫妇策划创建“天国财富社区”（Kingdom Wealth Community），这是一个仅限会员的平台，INDXcoin 的持有者可以在此获得指导、周边商品、财务与灵性课程等等。在审阅了他们的愿景后，贝内梅里托在一封信中表示，INDXcoin 无需遵守证券法，因为“它没有提供对利润的直接预期”。</p>
-<p>“实用型代币不需要资产支持，因为它们的价值就在平台本身之中，”贝内梅里托律所的一名律师后来在给雷加拉多夫妇的信中写道，“但是，如果目的是让该代币具有独立于平台的价值，那么它就需要有资产支持来维持其价值。”</p>
-<p>伊莱后来在法庭上承认，他并没有告知贝内梅里托购买 INDXcoin 的人是想要赚钱的。（贝内梅里托告诉我，“我律所出具的任何法律意见均基于客户向我们陈述的事实和陈述。”）</p>
-<p>伊莱告诉我，大约在同一时间，雷加拉多夫妇在将 INDXcoin 推上现有交易所方面遇到了麻烦。他们决定不仅要建立“天国财富社区”，还要建立自己的平台——“天国财富交易所”（Kingdom Wealth Exchange），人们可以在那里用 INDXcoin 兑换比特币、以太坊和美元。世界上存在数百家加密货币交易所，但排名前列的少数几家处理了绝大多数交易；加密货币创造者为了能交易自己的代币而专门搭建一个交易所，这是极为罕见的。但雷加拉多夫妇曾向买家保证过会有套现途径。“随着越来越多的人涌入，压力很大，”凯特琳说，“就好像，‘天哪，我们必须给他们一条退路。’”</p>
-<p>雷加拉多夫妇宣布搭建交易所需要五周时间，但他们外包给一家在网上找到的印度公司的开发工作一直拖延到了 2023 年初。“没有一件东西是正常运转的，”伊莱说。</p>
-<p>其他阻碍接踵而至。雷加拉多夫妇聘请的一家新加坡咨询公司建议他们将“天国财富交易所”在加拿大注册为货币服务业务，“据称是因为他们那里速度最快，”凯特琳说，但该流程同样搁置了数月。与此同时，雷加拉多夫妇正在构建的会员制社区和加密钱包充斥着技术缺陷。当这对夫妇委托对 INDXcoin 的区块链进行安全审计时，其得分仅为 0 分（满分 10 分）。2023 年 3 月的后续审计指出问题已得到修复，但也提出了更多令人担忧之处，最终得分仅为 5.4 分。（伊莱却宣布他们“以优异成绩通过”。）</p>
-<p>内部人士也开始对该项目的财务基础表达疑虑。早在 2022 年 11 月的一次 YouTube 直播更新中，两名观众要求伊莱就 INDXcoin 的“流动性池”发表评论。当月早些时候，全球最大的加密货币交易所之一 FTX 在对其财务状况的担忧引发了数十亿美元的客户提款后崩盘。伊莱向观众保证，他和凯特琳正在努力确保拥有充足的储备，并且“不会发生什么 FTX 式的崩溃”。</p>
-<p>数月后，当雷加拉多夫妇将商业计划书和白皮书发给一位从事财务顾问工作的 INDXcoin 投资者时，对方警告说“该项目严重资金不足”，并在电子邮件中写道：“预估的年收入看起来完全是凭空捏造出来的。”</p>
-<p>当另一位向其他人推荐过 INDXcoin 的投资者罗杰·高蒂尔（Roger Gauthier）询问伊莱是否为想要套现退出的买家预留了资金时，伊莱给出了否定的回答。“那是我的第一个警示信号，”高蒂尔说。</p>
-<p>被称为“360Trader”的加密货币网红丹·惠勒（Dan Wheeler）曾就 INDXcoin 向雷加拉多夫妇提供咨询，他表示自己曾多次警告伊莱，这对夫妇需要数亿美元来支撑已售出和赠送代币的标称价值。“如果那里没有钱，”惠勒说，“它就一文不值。”</p>
-<p>到 2023 年 4 月，伊莱愈发感到沮丧：“天国财富交易所”已经比原定计划落后了近六个月，付给印度开发者的费用也激增至 5 万多美元。人们铺天盖地地向他发消息询问平台何时开放。“这是一种耻辱——没有人喜欢失败，”伊莱告诉我，“我屈服于那种压力了。”</p>
-<p>雷加拉多夫妇当时正住在佛罗里达群岛一家缀满棕榈树和九重葛的豪华度假村里。一天，伊莱在露天提基草屋（tiki hut）的一张柳条沙发上祈祷时，他听到上帝告诉他是时候推出交易所了。他找到凯特琳对她说：“我们 4 月 11 日上线。”</p>
-<p>凯特琳表示反对。在测试期间，该平台仍然存在系统漏洞，包括在验证用户身份方面存在问题。雷加拉多夫妇一直未能为该交易所开设银行账户，这意味着用户只能交易比特币和以太坊，无法使用美元等法定货币。此外，雷加拉多夫妇在搭建他们与律师讨论过的社区空间方面进展甚微，只推出了一门课程。</p>
-<p>“我们不必做到尽善尽美，”伊莱对凯特琳说，“直接开干吧。把钱收进来再说。先把这帮人从我们背上甩开。”</p>
-<p>在上线前的几天里，雷加拉多夫妇讨论了限制抛售的问题，这是加密平台有时用来管理流动性和波动性的一种做法。如果 INDXcoin 的持有者抛售掉他们购买或免费获得的所有代币，将需要超过 3 亿美元来完成这些卖单。但伊莱不断听到上帝说：“不要限制我。”他反驳道：“那我们基本上就会遇到所谓的银行挤兑，对吧？”上线前夕，这对夫妇再次祈祷。“凯特和我得到了同一句经文，”伊莱在日记中写道，“‘不要关闭抛售。’”</p>
-<p>4月11日上午，凯特琳开始感到乐观，而伊莱则兴奋不已。“这东西要爆炸式增长了，”他心想。上午11点，伊莱出现在直播中。他的肩后方印着一幅灰狼的图案。“INDXcoin 的家人们，大家好，”他一边拍手强调一边开场，“我们开播了！”</p>
-<p>对投资者而言，回报似乎终于触手可及。根据加密货币市场的整体表现，该交易所最初显示 INDXcoin 的交易价格约为人们购买成本的10倍左右；博尼利亚夫妇投入的 7 万美元看起来价值已超过 71.6 万美元。</p>
-<p>但在直播进行了近一个小时后——在展示了圣经经文和美好的预测幻灯片之后——一位观众在聊天框中发出了抱怨：“交易所说我无法卖出 INDX。”“这可能只是因为目前流动性不足，”伊莱平静地解释道，“稍等一下就好。”十分钟后，另一个人写道他的卖单没有成交。“请耐心等待，”伊莱说，“主会自备。”</p>
-<p>在接下来的几个小时里，雷加拉多夫妇一直在查看交易所的后台数据。数十笔交易接踵而至，但问题显而易见：卖盘数量远远压过了买盘。到了下午，他们为促进交易而投入的 3 万美元已经耗尽。他们决定再向资金池追加 10 万美元。</p>
-<p>几个小时后，伊莱外出买咖啡时打电话给凯特琳查看情况。她在哭泣。“所有的流动性都空了，”她说。</p>
-<p>次日，雷加拉多夫妇宣布暂停交易。“那就是我们意识到自己可能遇到麻烦的时刻，”何塞·博尼利亚说道。</p>
-<p>伊莱告诉我，在启动失败后，他感到了“极度的焦虑”，但他听到上帝提醒他：“搞砸这件事是不可能的。”他和凯特琳采取了他们希望能够挽救该项目的措施，但几个月过去了，他们始终维持着暂停交易的状态。</p>
-<p>6月，何塞给雷加拉多夫妇发了邮件，解释说他需要提取一半的投资，用来资助他在家乡哥伦比亚创立的一个社区发展项目。伊莱回复说他们刚刚重新开放了抛售——限制为每天一枚币，每月十枚。当他们这样做时，交易所大约只有 2 万美元可用于执行卖单。“在这个关头，套现你一半的代币是不可能的，”伊莱写道。在恢复交易三天后，雷加拉多夫妇以技术故障为由再次叫停了交易。</p>
-<p>几个月后，任何塞再次跟进提取一半投资的事宜时，伊莱回复说：“目前根本没有资金可以做到这一点。”2023年11月，雷加拉多夫妇关闭了该交易所，并将 INDXcoin 的区块链下线。</p>
-<p>“羞耻、定罪、自杀的念头如排山倒海般向我袭来，”伊莱在一段更新的视频中坦言道，他当时站在一幅旋转的紫色宇宙图案前。“我到底是在哪里搞错了？”</p>
-<p>两个月后，雷加拉多夫妇获悉科罗拉多州证券监管机构正指控他们涉嫌欺诈和销售未注册证券。该州很快在诉讼中追加了 12 名被告，称他们因销售 INDXcoin 而收取了佣金，并指控他们也销售了未注册证券。其中包括伊莱的姐夫（或妹夫）丹尼尔·阿普尔盖特，以及与 INDXcoin 投资者戈捷有关联的一家公司。在他们未能出庭应诉后，法官作出了缺席判决，命令他们分别支付 15,000 美元和 34,400 美元的判决款。伊莱的父亲老埃利吉奥·雷加拉多同样被控证券欺诈，他在既不承认也不否认责任的情况下，同意向亲友和同事退还 12.2 万美元。（戈捷否认有不当行为；伊莱的父亲通过其律师拒绝置评。丹尼尔否认自己是 INDXcoin 的一员，并声称尽管在诉讼中被列为被告，但这起事件与他和他的妻子毫无关系。）</p>
-<p>“我实在无法评论他是否真的听到上帝让他这么做，”提起诉讼的科罗拉多州证券专员陈（Chan）告诉我。“即使（雷加拉多夫妇）出于好心，问题在于，这对投资者是不公平的……他们撒了谎，并隐瞒了关键信息。”</p>
-<p>我与 20 位 INDXcoin 的投资者进行了交流，几乎所有人都是从信任的朋友、亲戚或宗教领袖那里听说这枚代币的。大多数人对加密货币几乎没有或完全没有经验。他们通过动用退休基金、支取养老金、利用出售小生意的收益，或是通过至今仍在支付利息的房屋净值信用额度贷款来筹集资金进行购买。有一位买家是 70 多岁的残疾退伍军人，他原本希望这项投资的利润能帮助他在因癌症治疗背负债务后走出财务困境。另一位已经退休的投资者则被迫在近 70 岁的高龄去家得宝（Home Depot）打工。“这是一种令人心痛、可怕、无助的感觉，”他说。</p>
-<p>投资者在他们是否被骗的问题上存在分歧。向有关部门举报了雷加拉多夫妇的何塞·博尼利亚认为他们的行为“完全是蓄意的”。“他们正借着宗教借口进行诈骗，”他说。他的妻子黛比则持有不同意见，认为雷加拉多夫妇只不过是“不自量力、陷得太深”。</p>
-<p>一些买了币的人至今仍在支持雷加拉多夫妇。“他们听到了上帝的声音，并尽力去顺从，”在 INDXcoin 上损失了 18,000 多美元的前牧师特洛伊·布拉姆布莱特说。“这并不能保证成功。”</p>
-<p>曾为雷加拉多夫妇提供建议的加密网红惠勒也曾向有关部门举报过 INDXcoin，但他仍不确定这对夫妇是否一开始就蓄意敛财。“他们是狂热分子——他们完全盲目了，”他说，“如果你坚信上帝要成就一件事，那你是在诈骗别人吗？不算。但是看看他们是怎么花这笔钱的。”</p>
-<p>在该案被立案几天后发布的一段视频中，伊莱承认他和凯特琳实际上“出售了一种没有明确退出机制的加密货币”。他承认他们中饱私囊了 130 万美元——其中包括花在“主让我们进行的一场房屋翻修”上的钱。</p>
-<p>去年11月，我在丹佛郊区一座由办公园区和千篇一律的联排公寓主导的小镇上拜访了雷加拉多夫妇，他们租住在一栋三居室的联排联栋房屋中。他们自己拥有的那栋房子无法居住——在他们停止付款后，翻新工程在进行到一半时彻底停滞了。</p>
-<p>真人接触时，伊莱友善且富有魅力，身上带着一种坐立不安的充沛精力，他的凝视偶尔会流露出一种深藏不露的紧绷感。他习惯发表冗长的独白，言语间充满令人信服的笃定，甚至会让人反过来怀疑毫无争议的既定事实。凯特琳给人的印象则是内敛却直率，她的手腕上文着“相信”（Believe）字样。他们告诉我，在 INDXcoin 崩盘后，他们频繁争吵；但在我造访期间，凯特琳专注地倾听丈夫讲话，并总是被他的笑话逗乐。</p>
-<p>在一个阳光明媚的周四下午，我跟随雷加拉多夫妇上了楼，来到他们卧室一角，那里摆着一张小书桌和一块白板。房间陈设简陋，据他们说是买来的二手家具。床上被褥未叠，地板上放着一本《圣经》。</p>
-<p>伊莱正准备在近两个月来的首次直播连线中，向 INDXcoin 私密论坛的成员发表讲话。他闭上双眼开始祈祷。“求你让我用简单的话语表达，”他说，语气就像一个向父母提出请求的青少年。“让我能够运用类比，把道理讲到他们能够理解的水平。”“阿门，”凯特琳应和道。</p>
-<p>在气喘吁吁地找了一通笔记本电脑支架后，伊莱抓起一叠写满神圣启示的日记本，将电脑重重地放在上面。他打开摄像头，自己的影像出现在一片盆栽植物的虚拟背景前。伊莱发际线后移，留着短短的胡茬，身穿一件黑色T恤，粗大的项链上挂着一枚银色十字架。在允许参与者进入通话之前，他用手指抓了抓头发，又用舌头舔了舔牙齿——由于用卖币所得的款项进行了牙齿美容，他的牙齿如今整齐完美。</p>
-<p>“好的。太棒了。没问题。那么，嘿，下午好，INDXcoin 社区！”伊莱微笑着开场。“我们有一些令人振奋的最新动态。”随后，他以科技公司创始人汇报强劲季度业绩般的语气，宣布了这一消息：两个月前，一名法官在民事诉讼中作出了不利于雷加拉多夫妇的判决，如今他们正面临地方检察官办公室的刑事指控。</p>
-<p>“有人问我，‘你们打算认罪协商吗？’”他停下来抿了口水。“简短的回答是：不……我们没有做错任何事。”</p>
-<p>雷加拉多夫妇否认策划了骗局。“如果你以牺牲自己和家庭为代价，无偿送出巨额金钱，那说成骗局根本站不住脚，”伊莱说。这对夫妇估计，他们通过“播种”向教会和个人赠送了30万美元现金，外加一辆哈雷戴维森摩托车、一辆宝马汽车和一只路易威登包。他们还赠送了数百万枚 INDXcoin——占发行总量的90%。（伊莱告诉我：“没有人播种是不指望有所回报的，”尽管回报并不一定来自受赠人。）</p>
-<p>在这场民事诉讼中，由于请不起律师，雷加拉多夫妇选择了自行辩护。他们辩称 INDXcoin 不是证券，因为它是一种实用型代币，而且价格是由“不可更改的算法”决定的。他们声称是技术提供商导致了交易所崩溃，是顾问在合规问题上误导了他们，而律师曾表示他们无需维持流动性或披露开支。（雷加拉多夫妇聘请过的律师贝内梅里托告诉我：“我们律所绝不会建议客户违法。”）</p>
-<p>法官并不认同这一说法，裁定 INDXcoin 属于证券，并认定雷加拉多夫妇在真实价值和风险、资金去向、无偿赠送代币数量等方面误导了投资者。法官指出他们“对自身造成的伤害缺乏认识”，责令他们赔偿近340万美元的损失——这正是他们筹集的资金总额。“为代币赋予算法价值并不意味着它‘值’那个价，”法官写道。“实际上，INDXcoin 毫无价值，因为没有人想买它。”</p>
-<p>我去探访时，距离判决已过去两个月。雷加拉多夫妇仍未完整阅读法官的判决书，但已决定上诉。后来，他们在谷歌学术（Google Scholar）和人工智能的协助下起草了法律文书。（该案目前仍在审理中。）</p>
-<p>除了向法院提交文件和为刑事案件做准备外，这对夫妇的日子过得像典型的郊区父母：带孩子去游乐场、遛他们的奇瓦瓦腊肠混血犬、健身。他们仍然每两周举办一次查经班。有时他们会骑着哈雷摩托去帕尔默湖或落基山山麓。（“我们只有在刮风或冷的时候才戴头盔，”凯特琳说。）民事诉讼提起后不久，他们的资产就被冻结了；伊莱曾找了一份销售屋顶建材的工作，但他表示在雇主得知其官司缠身后便解雇了他。他拒绝透露自己目前在做什么差事。“跟营销无关，也跟加密货币无关，”他说。</p>
-<p>因 INDXcoin 被起诉后，伊莱曾自我怀疑：“这一切是我编造出来的吗？我疯了吗？”但他和凯特琳最终得出结论：他们所接收到的神圣神迹是无可置疑的。他们坚信，INDXcoin 最终将在对美元失去信心的全球领导人中赢得青睐。“我们私下正在做准备，”伊莱告诉我。</p>
-<p>“上帝早就预见到了这一切，”他在11月的视频更新中向观众保证。“他正注视着我们说：‘无论你们看到什么，你们都愿意相信我吗？’”</p>
-<p>通话结束后，伊莱开始翻阅他的日记并大声朗读其中的段落。自从几个月前我们第一次交谈以来，雷加拉多夫妇一直是非常配合的报道对象。他们告诉我，他们的刑事辩护律师曾建议他们不要与记者交谈，但他们却接受了我十多次采访。他们向我开放了 INDXcoin 私密论坛的访问权限，并提供了电子邮件、照片和电子表格——即便有些文件让他们当时的决策看起来并不光彩。有一次，伊莱发邮件来“坦白”，说他讲过的一个轶事略有渲染润色。他道了歉并向我保证：“我所说的其余一切都百分之百属实，绝无夸大或添枝加叶。”</p>
-<p>雷加拉多夫妇告诉我，他们信任我，一部分原因是因为上帝同意了：在我初次联系他们后不久，他们走进一个房间，里面的电视正在播放《家庭问答》（Family Feud），屏幕上显示的答案正好是“MIT”（麻省理工学院）。他们的沟通方式突显了他们当初为何能如此有效地俘获买家：他们讨人喜欢，乐于分享脆弱的一面，并时刻传递出一种透明坦诚的态度。</p>
-<p>尽管如此，雷加拉多夫妇看起来并不像是在给我即兴演戏。相反，他们似乎全身心投入到了自己构建的叙事之中：在这一叙事里，无论代价多大，他们都是履行神圣使命的正直弱者。若让自己的信仰动摇，就意味着他们失去的一切——朋友、家园、声誉——都将毫无意义。那就意味着承认他们失败了。那就意味着不会有人来拯救他们。</p>
-<p>即便最终身陷囹圄，也不会让雷加拉多夫妇相信自己误听了上帝的旨意。“他会把你从一切苦难中解救出来，所以你不会永远待在那里，”凯特琳说，“而这可能只是整个故事的一部分。”</p>
-<p>在我探访期间，雷加拉多夫妇同意带我看看他们早前的一段经历。我们挤进他们的福特猛禽（Ford Raptor）皮卡，孩子们坐在后排，向北开了20分钟，来到一个绿树成荫的居民区里的一条安静尽头路。</p>
-<p>我们在一个由腐烂木板构成的庞大建筑旁放慢了车速。红褐色的杂草吞没了整个地块，眼看就要淹没人行道。门前斜放着一张破烂不堪的床垫。邻居们曾看到过无房宿居者，随着冬季临近，人们担心会发生火灾。雷加拉多夫妇至今仍欠承包商近11万美元的已完工工程款。</p>
-<p>在他们的加密货币项目崩盘后，雷加拉多家房屋的施工便彻底停滞了。</p>
-<p>我询问是否可以下车，但伊莱和凯特琳不想碰到任何人。“我只是不想面对诸如‘你们打算什么时候除草？’这样的对话，”伊莱说。（前一年，市政府曾因他们疏于打理该处房产而向其发出违规通知。）</p>
-<p>当我们开车离开时，我问他们看到自己梦想家园的残影有何感受。</p>
-<p>“以前会觉得心痛，”凯特琳说。</p>
-<p>“这是一个未兑现的承诺，”伊莱补充道。</p>
-<p>但这已经不再困扰他们了。</p>
-<p>“如果我们失去了这所房子，”凯特琳说，“那就意味着我们将得到更大、更好的东西。”</p>
-<p>他们在街道尽头掉头，安全带也没系，头也不回地拐过了街角。</p>
-<p>卡蒂亚·萨夫丘克（Katia Savchuk）是一名常驻旧金山湾区的独立记者。她的作品曾发表在《纽约客》、《福布斯》、《琼斯母亲》等多家刊物上。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-10 17:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#MIT</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-next-test-is-integration-7b78e94d885bee4f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2764" data-content-paragraphs="33" data-published-at="2026-09-10T08:58:01.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 16:58</span>
-</div>
-
-### [医疗AI的下一个考验是系统集成](https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Healthcare AI’s next test is integration</div>
-
-<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/08/Ensemble-contributed-iStock-2263561985.jpg?w=840" alt="医疗AI的下一个考验是系统集成" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>主流人工智能企业的入局对于医疗行业而言是一项重大且受欢迎的进展，它加速了该行业所能依托的技术底座建设。</p>
-<p>这些企业的大模型越来越有能力处理长期的临床记录、解读复杂的专业术语、根据循证证据核对文档，并从海量信息中生成连贯的摘要。对于需要耗费大量时间在碎片化数据中检索信息的临床医生、运营管理人员及行政团队而言，这些技术进步正协助减轻认知负担，并让高价值信息变得更容易获取。</p>
-<p>然而，医疗机构的管理者切不可将模型能力与业务运营能力混为一谈。</p>
-<p>医疗领域的行政管理痛点源自碎片化的信息、碎片化的工作流程以及碎片化的责任体系，而非信息的匮乏。数十年来，该行业一直在大力投资用于记录日常业务的各类系统：电子病历、计费平台、医保支付方门户网站、排程系统、呼叫中心平台以及数据分析应用。每个系统都记录着关键信息，但几乎没有任何系统在设计之初就考虑到了在整个决策链条上进行综合推理——而正是这一整套决策链条，决定了患者能否获得及时的诊疗服务、临床医生是否具备准确的文书记录，以及医疗提供方能否获得合理的费用偿付。</p>
-<p>这正是人工智能当前必须直面的难题。</p>
-<p>收入周期正成为医疗AI的试验场</p>
-<p>收入周期是医疗机构用于获得诊疗服务报酬的完整流程——涵盖了从预约挂号与登记建档，到病案编码、账单生成、支付方跟进，直至款项收取的全过程。</p>
-<p>该场景格外适合开展严苛的AI落地应用，因为它融合了庞大的交易量、复杂的逻辑推理、结构化与非结构化数据、可量化的结果以及显著的业务操作多样性。同时，它还处于财务表现、患者就医准入与行政工作负荷的交汇核心。</p>
-<p>单张索赔单据的处理结果可能会受到患者医保信息、临床病历记录、编码规则、特定支付方的政策、事先授权要求、医疗必要性判定标准，以及众多其他数据源和业务流程的综合影响。其中任何一个环节出现疏漏，都可能在数周乃至数月之后引发一系列下游连锁反应。</p>
-<p>这也是通用自动化方案往往难以奏效的原因所在。</p>
-<p>传统的机器人流程自动化（RPA）在工作流程稳定且规则可预测的环境中表现出色，但医疗行政管理这两点均不具备。支付方的报销要求经常调整，文档规范标准不断演化，业务特例司空见惯且往往影响重大。</p>
-<p>大语言模型改善了这一方程式中的部分环节，它能够从叙述性文本中提取深层含义、总结病历，并辅助围绕复杂文档进行推理。但如果单独使用，大语言模型也会承袭某些重大的局限性：它们可能会生成看似合理却缺乏充分溯源依据的输出；可能缺乏对本地具体工作流限制条件的感知；还可能会遗漏特定支付方的历史记录或背景上下文，而这些正是决定某项操作能否真正改善结果的关键所在。</p>
-<p>为什么基础模型将变得必不可少却又远远不够</p>
-<p>主流AI企业正在为医疗行业解决切实的底层技术难题。</p>
-<p>更优的上下文窗口使得处理纵向历史病历变得更加容易；更强的推理能力提升了对复杂临床情境的解读水平；更完善的多模态能力未来或将有助于以更具实用价值的方式将文本、医学影像、结构化数据和临床体征信号关联起来；而更安全的模型行为规范与医疗专有领域的调优，也将持续推进行业的落地采纳。</p>
-<p>这些能力将使医疗业务工作更加高效、更加一致且更容易操作。然而，仅仅依靠这些，并不能从根本上解决根深蒂固的行政管理复杂性。</p>
-<p>医疗领域的大量运营知识并不存在于通用的医学文献、编码手册或公开的医保支付方指南中。它们蕴藏在各项决策付诸实施后所沉淀的真实实践经验中。例如：</p>
-<p>为什么某一种申诉策略的效果会显著优于另一种？</p>
-<p>哪些文档缺陷最容易导致回款延迟？</p>
-<p>特定的支付方对某种特定的临床抗辩会作何反应？</p>
-<p>这些洞察具有行为性、业务操作性与纵向演进性。它们是在经历了长达数年的实际交易、业务结果、例外特例以及人类经验判断中逐步形成的。</p>
-<p>随着基础模型的能力日益增强，获取医疗基础知识将变得不再具有排他性的差异化竞争优势。绝大多数领先的系统都将具备解读ICD-10疾病编码、识读医学术语、总结支付方政策以及根据公开临床标准进行逻辑推理的能力。而持久的竞争优势，将取决于各个机构如何将大模型的智能与自有的专有运营数据、结构化知识、具体工作流上下文以及治理体系有机结合。</p>
-<p>技术转向：从自动化到协同编排</p>
-<p>智能体协同编排（Agentic orchestration）能够将基础模型的理解力转化为协同动作——即一种能够跨系统追踪任务、应用正确规则、在变动发生时自适应调整，并能持续从后续执行结果中学习进化的智能体系。</p>
-<p>例如，一个事先授权工作流可能需要通过快速医疗互操作性资源（FHIR）API检索临床病历文档、将患者过往病史与支付方的审批标准进行映射匹配、识别缺失的证据要件、生成提交材料包、将异常情况分流给专科医生审核、监控支付方的答复进度、适时调整患者的诊疗路径，并从最终的处理结果中复盘学习。</p>
-<p>此类工作流不仅需要高度的协同配合，还需要设立严格的防护栏：监管合规要求、隐私保护标准、临床指南政策、编码规范、支付方准则以及机构自身的风险容忍度阈值。一种极具前景的路径是采用混合架构，将大语言模型与结构化知识库、符号逻辑、强化学习以及确定性校验层融为一体。</p>
-<p>在 Ensemble 公司，这正是我们收入周期智能引擎 EIQ 背后的核心设计理念。EIQ 将运营活动、临床病历、支付方行为以及费用偿付结果统筹整合为一个持续学习的智能中枢层，并与医院的电子病历（EHR）系统深度集成。它在原有的系统记录（System of Record）之上补充了智能决策系统（System of Intelligence），旨在打通数据孤岛，并主动推送最有可能改善最终成果的行动建议。</p>
-<p>EIQ 采用了一种将大语言模型、定制化轻量模型与基于规则的推理相结合的神经符号方法。该架构构建于医疗健康领域最为扎实的数据集之一之上，汲取了十余年来屡获殊荣的实际运营成效、海量交易历史、支付方行为特征及一线运营人员的决策经验。语言模型负责理解信息并生成便于人类阅读的输出内容；符号层则负责表征各类政策、法规、支付方要求及工作流约束条件，从而使系统能够施加规范护栏，提高推理步骤的可追溯性，并推荐契合具体业务场景的操作举措。</p>
-<p>未来十年将犒赏何种能力</p>
-<p>主要人工智能企业对医疗健康领域的贡献将是巨大的。他们的模型将变得更快、更安全、更强大且更易于获取。</p>
-<p>但医疗人工智能的下一个十年将由深度整合来定义，而不仅仅取决于模型本身的能力。</p>
-<p>创造最大价值的机构，将是那些能将模型与受治理的数据、业务工作流、领域专业知识、人工监督以及可衡量的成果紧密连接起来的机构。他们会意识到，医疗智能绝不能孤立存在于一个单独的界面中。它必须深植于那些决定医疗获取、文书报销和患者体验的各项决策之中。</p>
-<p>本内容由Ensemble制作，并非由《麻省理工科技评论》编辑团队撰写。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-10 16:58 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#MIT</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-aystation-microsoft-xbox-b3c09dec1176fe53" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="305" data-content-paragraphs="4" data-published-at="2026-09-10T08:22:40.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 16:22</span>
-</div>
-
-### [PlayStation放弃后，Xbox接手小岛秀夫新作《Physint》](https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Xbox picks up Kojima&amp;#8217;s Physint after PlayStation dropped it</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/physint-kojima-xbox-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="PlayStation放弃后，Xbox接手小岛秀夫新作《Physint》" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>在 PlayStation 决定取消合作后，Xbox 现将接手发行《合金装备》创作者小岛秀夫即将推出的新作《Physint》。</p>
-<p>这一出人意料的交接是在 PlayStation、Xbox、小岛工作室（Kojima Productions）以及小岛秀夫本人接连发布的公告中揭晓的。曾发行过小岛工作室此前两部《死亡搁浅》（Death Stranding）作品的索尼，将其描述为“停止与小岛工作室合作的艰难决定”，但坚称双方“关系依然牢固”。</p>
-<p>小岛秀夫在其个人 X 账号上的表态则更为直截了当，他声称索尼在 6 月份向工作室发出了出人意料的取消通知，而在过去的三个月里……</p>
-<p>在 The Verge 阅读完整报道。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 16:22 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--phev-specs-price-gemini-69d7dfad775d8d7f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="292" data-content-paragraphs="3" data-published-at="2026-09-10T07:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 15:00</span>
-</div>
-
-### [沃尔沃 XC40 迎来全新外观、升级传感器并搭载 Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Volvo XC40 has a new look, better sensors, and Gemini AI</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="沃尔沃 XC40 迎来全新外观、升级传感器并搭载 Gemini AI" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>今天，沃尔沃宣布对其混合动力版 XC40 进行重大改款。该款新车将于明年初抵达经销商门店，届时将带来经过更新的外观造型、彻底翻新的内饰（搭载谷歌 Gemini AI 助手）、更大尺寸的信息娱乐屏幕，以及一套全新的传感器与软件安全套件。</p>
-<p>作为一款混合动力车，XC40 为那些希望获得更佳燃油经济性但尚未准备好适应纯电动生活方式的消费者搭建了一座桥梁。在撤回此前做出的“到 2030 年仅销售纯电动汽车”的承诺后，沃尔沃自身也需要这样一座桥梁。即便如此，该汽车制造商并未透露有关动力系统、发动机选项、电动机、续航里程或电池……的任何细节。</p>
-<p>欲阅读完整报道，请访问 The Verge。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 15:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 ::::

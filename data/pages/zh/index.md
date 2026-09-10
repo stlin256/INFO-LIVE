@@ -4,29 +4,37 @@ nav: true
 order: 0
 description: "InfoLive 24/7 全球全源信息流与 AI 实时要闻矩阵"
 notice:
-  text: "⚡ 当前监控运行中 · 本小时数据更新于 21:00 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
+  text: "⚡ 当前监控运行中 · 本小时数据更新于 22:10 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
   color: "theme"
 ---
 
-# ⚡ InfoLive 全球情报全景矩阵 · 21:00 速报
+# ⚡ InfoLive 全球情报全景矩阵 · 22:10 速报
 
 :::important
-### ⏱️ 本小时战略速报 (21:00)
+### ⏱️ 本小时战略速报 (22:10)
 
-本轮尚未生成小时级 AI 导语；请以快讯中的官方标题、发布时间和出处为准。
+本轮抓取于 2026-09-10 22:08 (UTC+8) 完成，共获得 774 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
 **🎯 关键动态信号：**
+- 【RIA Novosti (俄新社官方俄文)】Рютте после поражения партии Мерца приехал в Берлин хвалить власти：外文正文正在进行中文翻译，暂不展示未翻译原文。
+- 【RIA Novosti (俄新社官方俄文)】В Калининградской области наградят ученика, отказавшегося от поджога：外文正文正在进行中文翻译，暂不展示未翻译原文。
+- 【RIA Novosti (俄新社官方俄文)】Второй сезон мюзикла "Любовь без памяти" стартует 7 октября：外文正文正在进行中文翻译，暂不展示未翻译原文。
+- 【RIA Novosti (俄新社官方俄文)】Главу Русского дома в Армении удостоили благодарности Путина：外文正文正在进行中文翻译，暂不展示未翻译原文。
+- 【RIA Novosti (俄新社官方俄文)】Глава Мордовии обсудил духовное развитие региона с патриархом Кириллом：外文正文正在进行中文翻译，暂不展示未翻译原文。
+- 【中新社 (国际实时原版)】渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评：中新社罗马9月10日电 题：渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评
+- 【中新社 (国际实时原版)】阿尔及利亚宣布与阿联酋断交：中新社北京9月10日电 阿尔及尔消息：据阿尔及利亚国家电视台10日报道，阿尔及利亚外交部当天表示，阿尔及利亚决定即日起与阿联酋断绝外交关系。
+- 【中新社 (国际实时原版)】泰国批准55个项目推动企业应用人工智能和自动化：中新社曼谷9月10日电 (记者 李映民)泰国总理府副发言人拉丽达10日向媒体透露，国家竞争力提升基金委员会已批准55个项目，以支持企业推进技术升级、数字化转型和技能人才培养，其中包括利用人工智能、自动化等技术提升企业生产效率。
 :::
 
 :::note
 ### 🌐 24小时全球宏观大势与主线脉络（日尺度全景）
 
-本期目录涵盖跨国金融市场观点、区域经济政策与能源运输举措，同时记录了地方民生故障、突发事件、特别军事行动区法务表彰以及文体赛事安排。
+本日简报涵盖国际外交摩擦与多边合作进展、亚洲多国推动产业与技术转型，以及俄罗斯本土在社会、文化与双边往来领域的动态。其中阿尔及利亚宣布与阿联酋断交成为引人注目的突发地缘政治事件，联合国粮农组织及泰国则分别在可持续发展方案和人工智能产业扶持上释放新进展。
 
 **📊 今日核心主线透视：**
-- **经济、贸易与市场动向**：华尔街策略师指出投资者忽视了当前利好，并强调第二季度财报表现强劲超出普遍预期。在区域经济层面，俄罗斯出口中心（REC）发布了俄出口标准3.0推广效率排名；莫斯科州在2026年已完成近4.9万处不动产登记。在能源运输政策方面，伊朗宣布暂停向外国船舶征收石油产品过境费。
-- **基础设施与地方突发事件**：地方公用事业方面，顿涅茨克因事故发生停电，波及近2.6万人正常用电。突发安全事件方面，彼尔姆边疆区一名女性在遭遇熊袭击后被紧急送医治疗。
-- **公职表彰与体育赛事筹备**：俄罗斯副总检察长古察恩赞扬了在特别军事行动区履行职责的检察系统工作人员的英勇表现。体育方面，莫斯科已确定将承办传奇杯“四强赛”以及俄罗斯超级杯赛事。
+- **地缘政治与国际外交关系异动**：据阿尔及利亚国家电视台报道，阿尔及利亚外交部于9月10日宣布即日起同阿拉伯联合酋长国断绝外交关系，显示出两国间外交关系出现剧烈波动。此外，欧洲方向上，北约秘书长吕特在默茨所在政党遇挫后到访柏林并表态支持德国执政当局。
+- **多边可持续治理与产业智能化转型**：在联合国粮农组织总部，中国关于渔业可持续发展的方案获得国际社会的高度评价与热议；与此同时，泰国总理府副发言人拉丽达通报，国家竞争力提升基金委员会已正式批准55个项目，旨在扶持企业实施技术升级与数字化转型，重点推进人工智能和自动化技术在提高生产效率方面的落地。
+- **俄罗斯国内社会治理、外交代表与文教动态**：俄罗斯相关动态呈现多点分布：加里宁格勒州计划表彰一名拒绝参与纵火行为的学生；普京总统对俄罗斯驻亚美尼亚“俄罗斯之家”负责人予以表彰；莫尔多瓦共和国领导人就地方精神文化建设与宗主教基里尔展开会谈；文化艺术领域亦有筹备进展，音乐剧《无记忆的爱》第二季定于10月7日开启演出。
 :::
 
 ## 🔥 AI 深度追踪与独家专题专区
@@ -45,92 +53,79 @@ notice:
 
 <div class="perspective-matrix-card">
   <div class="perspective-matrix-header">
-    <h3 class="perspective-matrix-title">🎯 焦点对决：</h3>
+    <h3 class="perspective-matrix-title">🎯 焦点对决：本轮信源叙事与证据对照</h3>
     <span class="perspective-stance-badge">多极视角对照</span>
   </div>
   <div class="perspective-consensus-box">
     <div class="perspective-consensus-title">✅【已证实核心共识与基础事实】</div>
-    <div></div>
+    <div>当前仅展示各信源已抓取的标题、摘要和正文证据；没有足够交叉证据的判断暂不生成。</div>
   </div>
   <div class="perspective-sources-grid">
+    <div class="perspective-source-item">
+      <div class="perspective-source-header">
+        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> RIA Novosti (俄新社官方俄文)</span>
+        <span class="perspective-stance-badge">莫斯科官方视角</span>
+      </div>
+      <div class="perspective-source-body">【RIA Novosti (俄新社官方俄文)】На Украине могут начаться задержки соцвыплат из-за дефицита бюджета：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
+    </div>
+    <div class="perspective-source-item">
+      <div class="perspective-source-header">
+        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> 中新社 (国际实时原版)</span>
+        <span class="perspective-stance-badge">独立专业观察</span>
+      </div>
+      <div class="perspective-source-body">【中新社 (国际实时原版)】叙利亚一武器仓库爆炸 至少14人死亡：中新社北京9月10日电 大马士革消息：当地时间9日，叙利亚西北部伊德利卜省一处存放武器和战争遗留物的临时仓库发生爆炸，造成至少14人死亡。</div>
+    </div>
+    <div class="perspective-source-item">
+      <div class="perspective-source-header">
+        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> FOX News Latest (美国FOX快讯)</span>
+        <span class="perspective-stance-badge">美保守派与鹰派</span>
+      </div>
+      <div class="perspective-source-body">【FOX News Latest (美国FOX快讯)】Hiker in Georgia makes disturbing discovery on mountain：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
+    </div>
+    <div class="perspective-source-item">
+      <div class="perspective-source-header">
+        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="16" height="16" /> MarketWatch Top Stories (市场观察)</span>
+        <span class="perspective-stance-badge">国际资本与华尔街视角</span>
+      </div>
+      <div class="perspective-source-body">【MarketWatch Top Stories (市场观察)】My mother, 87, wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
+    </div>
+    <div class="perspective-source-item">
+      <div class="perspective-source-header">
+        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
+        <span class="perspective-stance-badge">独立专业观察</span>
+      </div>
+      <div class="perspective-source-body">【ANSA Mondo (意大利安莎社官方意大利文)】Moldavia, 'l'aereo di Zelensky è decollato dopo che il drone è precipitato'：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
+    </div>
+    <div class="perspective-source-item">
+      <div class="perspective-source-header">
+        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> Phys.org (基础物理与技术前沿)</span>
+        <span class="perspective-stance-badge">前沿同行评议严谨</span>
+      </div>
+      <div class="perspective-source-body">【Phys.org (基础物理与技术前沿)】First Nations ranger knowledge reveals the threats facing NT's green turtles：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
+    </div>
+    <div class="perspective-source-item">
+      <div class="perspective-source-header">
+        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> The Verge (前沿数码科技)</span>
+        <span class="perspective-stance-badge">独立专业观察</span>
+      </div>
+      <div class="perspective-source-body">【The Verge (前沿数码科技)】Volvo cancels EX40 in the US, updates XC40 with better sensors and Gemini AI：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
+    </div>
+    <div class="perspective-source-item">
+      <div class="perspective-source-header">
+        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> OilPrice (全球能源与原油大宗)</span>
+        <span class="perspective-stance-badge">大宗能源产业链</span>
+      </div>
+      <div class="perspective-source-body">【OilPrice (全球能源与原油大宗)】U.S. Administration Eyes Venezuela’s Critical Minerals：外文正文正在进行中文翻译，暂不展示未翻译原文。</div>
+    </div>
   </div>
   <div class="perspective-analysis-row">
     <div class="perspective-deep-interest">
       <div class="analysis-label">💡【深层地缘与利益诉求解构】</div>
-      <div></div>
+      <div>利益诉求需要结合同一事件的多家原文与正式声明进一步核验。</div>
     </div>
     <div class="perspective-blind-spot">
       <div class="analysis-label">🔍【关键信息盲区与待核实点】</div>
-      <div></div>
-    </div>
-  </div>
-</div>
-
-<div class="perspective-matrix-card">
-  <div class="perspective-matrix-header">
-    <h3 class="perspective-matrix-title">🎯 焦点对决：</h3>
-    <span class="perspective-stance-badge">多极视角对照</span>
-  </div>
-  <div class="perspective-consensus-box">
-    <div class="perspective-consensus-title">✅【已证实核心共识与基础事实】</div>
-    <div></div>
-  </div>
-  <div class="perspective-sources-grid">
-  </div>
-  <div class="perspective-analysis-row">
-    <div class="perspective-deep-interest">
-      <div class="analysis-label">💡【深层地缘与利益诉求解构】</div>
-      <div></div>
-    </div>
-    <div class="perspective-blind-spot">
-      <div class="analysis-label">🔍【关键信息盲区与待核实点】</div>
-      <div></div>
-    </div>
-  </div>
-</div>
-
-<div class="perspective-matrix-card">
-  <div class="perspective-matrix-header">
-    <h3 class="perspective-matrix-title">🎯 焦点对决：</h3>
-    <span class="perspective-stance-badge">多极视角对照</span>
-  </div>
-  <div class="perspective-consensus-box">
-    <div class="perspective-consensus-title">✅【已证实核心共识与基础事实】</div>
-    <div></div>
-  </div>
-  <div class="perspective-sources-grid">
-  </div>
-  <div class="perspective-analysis-row">
-    <div class="perspective-deep-interest">
-      <div class="analysis-label">💡【深层地缘与利益诉求解构】</div>
-      <div></div>
-    </div>
-    <div class="perspective-blind-spot">
-      <div class="analysis-label">🔍【关键信息盲区与待核实点】</div>
-      <div></div>
-    </div>
-  </div>
-</div>
-
-<div class="perspective-matrix-card">
-  <div class="perspective-matrix-header">
-    <h3 class="perspective-matrix-title">🎯 焦点对决：</h3>
-    <span class="perspective-stance-badge">多极视角对照</span>
-  </div>
-  <div class="perspective-consensus-box">
-    <div class="perspective-consensus-title">✅【已证实核心共识与基础事实】</div>
-    <div></div>
-  </div>
-  <div class="perspective-sources-grid">
-  </div>
-  <div class="perspective-analysis-row">
-    <div class="perspective-deep-interest">
-      <div class="analysis-label">💡【深层地缘与利益诉求解构】</div>
-      <div></div>
-    </div>
-    <div class="perspective-blind-spot">
-      <div class="analysis-label">🔍【关键信息盲区与待核实点】</div>
-      <div></div>
+      <div>RSS 摘要、付费墙、反爬或动态渲染导致的正文缺口将在文章卡片中明确标注。</div>
     </div>
   </div>
 </div>
@@ -140,578 +135,615 @@ notice:
 <div class="live-wire-grid">
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:57</span>
+      <span class="wire-time-badge">🕒 22:06</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/nedvizhimost-2116849441.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Почти 49 тыс объектов недвижимости зарегистрировали в Подмосковье в 2026 г
+      <a href="https://ria.ru/20260910/ryutte-2116869501.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:57 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Рютте после поражения партии Мерца приехал в Берлин хвалить власти</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/nedvizhimost-2116849441.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/ryutte-2116869501.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:57</span>
+      <span class="wire-time-badge">🕒 22:06</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/medved-2116849280.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        В Пермском крае женщину госпитализировали после нападения медведя
+      <a href="https://ria.ru/20260910/kaliningrad-2116869192.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:57 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> В Калининградской области наградят ученика, отказавшегося от поджога</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/medved-2116849280.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/kaliningrad-2116869192.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:56</span>
+      <span class="wire-time-badge">🕒 22:06</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/donetsk-2116849003.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        В Донецке почти 26 тысяч человек остались без света из-за аварии
+      <a href="https://ria.ru/20260910/myuzikl-2116868968.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:56 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Второй сезон мюзикла &quot;Любовь без памяти&quot; стартует 7 октября</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/donetsk-2116849003.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/myuzikl-2116868968.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:54</span>
+      <span class="wire-time-badge">🕒 22:06</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/reyting-2116848794.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        РЭЦ представил рейтинг эффективности внедрения РЭС 3.0
+      <a href="https://ria.ru/20260910/fefilov-2116868809.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:54 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Главу Русского дома в Армении удостоили благодарности Путина</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/reyting-2116848794.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/fefilov-2116868809.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:53</span>
+      <span class="wire-time-badge">🕒 22:05</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/iran-2116848560.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Иран приостановил сбор за провоз нефтепродуктов иностранными судами
+      <a href="https://ria.ru/20260910/dukhovnoe-razvitie-2116868649.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:53 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Глава Мордовии обсудил духовное развитие региона с патриархом Кириллом</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/iran-2116848560.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/dukhovnoe-razvitie-2116868649.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:53</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
-      <span class="wire-dim-badge">💹 宏观资本与产业</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Investors are missing the good news right in front of them, this Wall Street strategist argues
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：Investors may have underappreciated just how strong second-quarter earnings were.……</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:52</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-time-badge">🕒 22:04</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="14" height="14" /> 中新社 (国际实时原版)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/genprokuror-2116848181.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Гуцан отметил мужество сотрудников прокуратуры, служащих в зоне СВО
-        <span class="wire-ext-icon">↗</span>
+      <a href="#story-026-09-10-10694303-shtml-1eafad906e12cf15" class="wire-title-link" title="点击直达本站全篇深度编译">
+        渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:52 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-snippet">【中新社 (国际实时原版)·独立专业观察】：中新社罗马9月10日电 题：渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评</div>
     <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/genprokuror-2116848181.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-026-09-10-10694303-shtml-1eafad906e12cf15" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:52</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-time-badge">🕒 22:03</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="14" height="14" /> 中新社 (国际实时原版)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/moskva-2116848030.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        В Москве пройдут &quot;Финал четырех&quot; Кубка Легенд и Суперкубок России
-        <span class="wire-ext-icon">↗</span>
+      <a href="#story-026-09-10-10694300-shtml-ad0e58ecf34e11b1" class="wire-title-link" title="点击直达本站全篇深度编译">
+        阿尔及利亚宣布与阿联酋断交
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:52 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-snippet">【中新社 (国际实时原版)·独立专业观察】：中新社北京9月10日电 阿尔及尔消息：据阿尔及利亚国家电视台10日报道，阿尔及利亚外交部当天表示，阿尔及利亚决定即日起与阿联酋断绝外交关系。</div>
     <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/moskva-2116848030.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-026-09-10-10694300-shtml-ad0e58ecf34e11b1" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:51</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-time-badge">🕒 22:03</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="14" height="14" /> 中新社 (国际实时原版)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/moskva-2116847868.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Суд в Москве арестовал женщину, стрелявшую в полицейского
-        <span class="wire-ext-icon">↗</span>
+      <a href="#story-026-09-10-10694298-shtml-3f11451884a313e9" class="wire-title-link" title="点击直达本站全篇深度编译">
+        泰国批准55个项目推动企业应用人工智能和自动化
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:51 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-snippet">【中新社 (国际实时原版)·独立专业观察】：中新社曼谷9月10日电 (记者 李映民)泰国总理府副发言人拉丽达10日向媒体透露，国家竞争力提升基金委员会已批准55个项目，以支持企业推进技术升级、数字化转型和技能人才培养，其中包括利用人工智能、自动化等技术提升企业生产效率。</div>
     <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/moskva-2116847868.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-026-09-10-10694298-shtml-3f11451884a313e9" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:49</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ft.svg" class="source-icon" alt="Financial Times (英国金融时报)" width="14" height="14" /> Financial Times (英国金融时报)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        ECB warns of ‘upside risk’ to inflation as it raises rates to 2.5%
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Financial Times (英国金融时报)·国际资本与华尔街视角】：Move is the second increase this year as central bank tries to curb price pressures……</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:49</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.marketwatch.com/story/building-u-s-data-centers-is-getting-so-expensive-that-ai-companies-are-moving-overseas-c716d2ed?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Building U.S. data centers is getting so expensive that AI companies are moving overseas
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：Public backlash, costs of power and cooler climates are among the reasons Big Tech is look……</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.marketwatch.com/story/building-u-s-data-centers-is-getting-so-expensive-that-ai-companies-are-moving-overseas-c716d2ed?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:48</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/samolety-2116847150.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Россия и Индия прорабатывают проект сборки &quot;Суперджетов&quot; в Индии
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:48 播发突发关注，事件持续发酵中。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/samolety-2116847150.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:48</span>
+      <span class="wire-time-badge">🕒 22:03</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story-dence-rhode-island-mayor-ba25548f6743bcbe" class="wire-title-link" title="点击直达本站全篇深度编译">
-        Democratic socialist backed by Bernie Sanders ousts Providence, Rhode Island mayor
+      <a href="#story-ances-citing-fcc-threats-b3c8c29193989a62" class="wire-title-link" title="点击直达本站全篇深度编译">
+        吉米·坎摩尔透露其将在“不寻常的情况下”采访詹姆斯·塔拉里科，理由是面临FCC的威胁
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：Rhode Island Rep. David Morales, 27, defeated Providence Mayor Brett Smiley by 8 points af……</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Kimmel reveals he&#39;s interviewing James Talarico under &#39;unusual circumstances,&#39; citing FCC threats</div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：深夜秀主持人吉米·坎摩尔（Jimmy Kimmel）周三透露，他将在周四“不寻常的情况下”采访得克萨斯州参议员候选人詹姆斯·塔拉里科（James Talarico）。</div>
     <div class="wire-actions">
-      <a href="#story-dence-rhode-island-mayor-ba25548f6743bcbe" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/politics/democratic-socialist-backed-bernie-sanders-ousts-providence-rhode-island-mayor" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-ances-citing-fcc-threats-b3c8c29193989a62" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/media/kimmel-reveals-interviewing-james-talarico-unusual-circumstances-citing-fcc-threats" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:47</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/litva-2116846853.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        В Литве хотят исключить из конституции запрет на размещение ЯО, пишут СМИ
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:47 播发突发关注，事件持续发酵中。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/litva-2116846853.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:47</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://tass.com/politics/2185579" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Putin’s talks with Vietnamese President To Lam was success — Kremlin aide
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：Yury Ushakov said the leaders held meetings both during the official negotiations and whil……</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://tass.com/politics/2185579" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:47</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/rossija-2116846654.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Титов оценил товарооборот между Россией и Китаем в 2026 году
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:47 播发突发关注，事件持续发酵中。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/rossija-2116846654.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:46</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Economy (CNBC 宏观经济)" width="14" height="14" /> CNBC Economy (CNBC 宏观经济)</span>
-      <span class="wire-dim-badge">💹 宏观资本与产业</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story--report-august-2026-html-f1443f876ee8f8de" class="wire-title-link" title="点击直达本站全篇深度编译">
-        Wholesale prices rose 0.4% in August, as expected
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【CNBC Economy (CNBC 宏观经济)·国际资本与华尔街视角】：The producer price index was expected to rise 0.4% in August, according to the Dow Jones c……</div>
-    <div class="wire-actions">
-      <a href="#story--report-august-2026-html-f1443f876ee8f8de" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:46</span>
+      <span class="wire-time-badge">🕒 22:03</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
       <span class="wire-dim-badge">💹 宏观资本与产业</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Why does almost nobody want to befriend older people like me — except scammers?
+      <a href="https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【MarketWatch Top Stories (市场观察)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：“I’d rather leave my estate to people who spent time with me because they genuinely valued……</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Home-insurance premiums just hit a record high. Here’s where they spiked the most.</div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:45</span>
+      <span class="wire-time-badge">🕒 22:01</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/krylja-2116846266.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Ахметов вернулся в &quot;Крылья Советов&quot;
+      <a href="https://ria.ru/20260910/etoo-2116867357.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:45 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Это&#39;о обвинили в нецелевом использовании денег за матч с Россией, пишут СМИ</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/krylja-2116846266.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260910/etoo-2116867357.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:45</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-time-badge">🕒 22:01</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/starenie-2116843317.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        СМИ: в России создают ПЦР-тест для оценки механизмов старения
+      <a href="https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/10/il-consigliere-di-melania-trump-su-natalie-harp-gossip-ridicoli_599361be-0616-4377-9126-d251da9ba07a.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【ANSA Mondo (意大利安莎社官方意大利文)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:45 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Il consigliere di Melania Trump, &#39;su Natalie Harp gossip ridicoli&#39;</div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/starenie-2116843317.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/10/il-consigliere-di-melania-trump-su-natalie-harp-gossip-ridicoli_599361be-0616-4377-9126-d251da9ba07a.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:44</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-time-badge">🕒 22:01</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/ukraina-2116845794.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        В Луцке и Сумах прогремели взрывы
+      <a href="https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/cremlino-le-nostre-condizioni-per-la-pace-non-cambiano-rispetto-al-2024_ef972948-1df6-432a-a352-010c4ad3ee72.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【ANSA Mondo (意大利安莎社官方意大利文)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:44 播发突发关注，事件持续发酵中。</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Cremlino, &#39;le nostre condizioni per la pace non cambiano rispetto al 2024&#39;</div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/ukraina-2116845794.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/cremlino-le-nostre-condizioni-per-la-pace-non-cambiano-rispetto-al-2024_ef972948-1df6-432a-a352-010c4ad3ee72.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:44</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/donskoj-2116845944.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Мощи Дмитрия Донского ждут в зоне СВО, рассказала Ямпольская
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:44 播发突发关注，事件持续发酵中。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/donskoj-2116845944.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:43</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260910/rossija-2116845363.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Более трех тысяч поликлиник построят по народной программе &quot;Единой России&quot;
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：于北京时间 20:43 播发突发关注，事件持续发酵中。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260910/rossija-2116845363.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:41</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-llions-is-your-town-next-2a59e3e6bbb9bbd2" class="wire-title-link" title="点击直达本站全篇深度编译">
-        Floating solar panels could save cities millions. Is your town next?
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：Lima, Ohio, has installed 3,120 floating solar panels on its Twin Lakes Reservoir, project……</div>
-    <div class="wire-actions">
-      <a href="#story-llions-is-your-town-next-2a59e3e6bbb9bbd2" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/tech/floating-solar-panels-could-save-cities-millions-is-your-town-next" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:41</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-fic-game-troubling-trend-14a22249b138cf5d" class="wire-title-link" title="点击直达本站全篇深度编译">
-        Drake Maye gets dragged through the mud by NFL fans after horrific game, troubling trend
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：Drake Maye threw three interceptions as the New England Patriots blew a 10-point lead to D……</div>
-    <div class="wire-actions">
-      <a href="#story-fic-game-troubling-trend-14a22249b138cf5d" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/outkick-sports/drake-maye-dragged-through-mud-nfl-fans-horrific-game-troubling-trend" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:40</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://tass.com/politics/2185569" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Indian PM Modi may pay official visit to Russia next year — Kremlin aide
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：Yury Ushakov said there is an agreement between Vladimir Putin and Narendra Modi that they……</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://tass.com/politics/2185569" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:40</span>
+      <span class="wire-time-badge">🕒 22:00</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
-      <span class="wire-dim-badge">🛡️ 军事防务安全</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        How two satellites are studying hurricanes during El Niño
+      <a href="https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【Phys.org (基础物理与技术前沿)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：In November 2025, NASA and its European partners launched the Sentinel-6B satellite to imp……</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Spinons may help electrons pair along stripes in some superconductors</div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:40</span>
+      <span class="wire-time-badge">🕒 22:00</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
       <span class="wire-dim-badge">🔬 深空与基础科学</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://phys.org/news/2026-09-peculiar-species-jurassic-squid-wyoming.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        &#39;Peculiar&#39; new species of Jurassic squid found in Wyoming
+      <a href="https://phys.org/news/2026-09-children-home-relocation.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【Phys.org (基础物理与技术前沿)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：A &quot;peculiar&quot; new species of Jurassic squid-like animal has been unearthed in Wyoming, U.S.……</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> How to support children during home relocation</div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://phys.org/news/2026-09-peculiar-species-jurassic-squid-wyoming.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://phys.org/news/2026-09-children-home-relocation.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:39</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.france24.com/en/tv-shows/spotlight/20260910-rn-breach-amid-severe-differences-with-bright-young-bardella-le-pen-dictates-party-line" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        RN &#39;breach&#39;: Amid &#39;severe&#39; differences with &#39;bright, young&#39; Bardella, Le Pen &#39;dictates party line&#39;
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：François Picard is pleased to welcome Victor Mallet, Financial Times Senior Editor at the……</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/en/tv-shows/spotlight/20260910-rn-breach-amid-severe-differences-with-bright-young-bardella-le-pen-dictates-party-line" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:35</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="14" height="14" /> NY Times World (纽约时报官方英文)</span>
+      <span class="wire-time-badge">🕒 22:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Russian Drone Incursion Delayed Zelensky Flight to Oslo, Moldova Says
+      <a href="https://phys.org/news/2026-09-fake-spider-snake-tail-lure.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【Phys.org (基础物理与技术前沿)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【NY Times World (纽约时报官方英文)·美主流建制派】：An airspace closure delayed the Ukrainian leader’s trip between Moldova and Norway, offici……</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> A fake spider at the tip of this snake&#39;s tail helps it lure birds: Scientists get their first look inside it</div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.nytimes.com/2026/09/10/world/europe/zelensky-plane-drone-moldova.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://phys.org/news/2026-09-fake-spider-snake-tail-lure.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:35</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (DE 官方德语)" width="14" height="14" /> Deutsche Welle (DE 官方德语)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.dw.com/de/iran-caf%C3%A9s-im-visier-der-sicherheitsapparate/a-79207325" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        Iran: Cafés im Visier der Sicherheitsapparate
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Deutsche Welle (DE 官方德语)·德国战略自省】：In zahlreichen Cafés im Iran werde Stimmung gegen die Regierung gemacht, glauben die Behör……</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.dw.com/de/iran-caf%C3%A9s-im-visier-der-sicherheitsapparate/a-79207325" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:35</span>
+      <span class="wire-time-badge">🕒 22:00</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
       <span class="wire-dim-badge">💹 宏观资本与产业</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        These are the 10 biggest retirement fears — and what you can do about them
+      <a href="https://www.marketwatch.com/story/heres-how-to-avoid-a-six-figure-error-that-many-retirees-make-with-their-company-stock-5f24b10d?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【MarketWatch Top Stories (市场观察)】外文标题尚未完成中文翻译
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：No amount of wealth can erase retirement worries.……</div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Here’s how to avoid a six-figure error that many retirees make with their company stock</div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.marketwatch.com/story/heres-how-to-avoid-a-six-figure-error-that-many-retirees-make-with-their-company-stock-5f24b10d?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 22:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【MarketWatch Top Stories (市场观察)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> This simple mistake can cost your loved ones their share of your estate. Here’s how to protect your money.</div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 22:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="14" height="14" /> The Verge (前沿数码科技)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-g-google-spec-comparison-aac9f5e668eceed1" class="wire-title-link" title="点击直达本站全篇深度编译">
+        iPhone Duo 与其他折叠屏手机对比表现如何
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> How the iPhone Duo compares to other folding phones</div>
+    <div class="wire-snippet">【The Verge (前沿数码科技)·独立专业观察】：该主题的帖子将添加到您的每日电子邮件摘要和主页动态中。
+苹果的首款折叠屏手机与竞争对手相比表现如何？
+该作者的帖子将添加到您的每日电子邮件摘要和主页动态中。
+查看 Brad Bourque 的全部文章
+苹果的折叠屏手机终于来了——好吧，差不多快来了。将于 10 月 23 日发售的 iPhone Duo 紧跟三星（Samsung）、一加（OnePlus）和谷歌……</div>
+    <div class="wire-actions">
+      <a href="#story-g-google-spec-comparison-aac9f5e668eceed1" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 22:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="14" height="14" /> The Verge (前沿数码科技)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【The Verge (前沿数码科技)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Why the current tech backlash feels different</div>
+    <div class="wire-snippet">【The Verge (前沿数码科技)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 22:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="14" height="14" /> The Verge (前沿数码科技)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-is-tadalafil-mens-health-ddafb986f48e607e" class="wire-title-link" title="点击直达本站全篇深度编译">
+        针对男性气概的新标准正对男性健康造成负面影响
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> New standards for masculinity are stacked against men’s health</div>
+    <div class="wire-snippet">【The Verge (前沿数码科技)·独立专业观察】：来自该话题的帖子将被添加到您的每日电子邮件文摘和主页动态中。
+追逐不切实际的标准正在促使男性把自己变成DIY科学实验品。
+来自该作者的帖子将被添加到您的每日电子邮件文摘和主页动态中。
+查看 Victoria Song 的全部文章
+每当算法推送来一堆热气腾腾的“颜值最大化”（looksmaxxing）内容时，我都会回想起英剧《米切尔和韦伯双人秀》（That M……</div>
+    <div class="wire-actions">
+      <a href="#story-is-tadalafil-mens-health-ddafb986f48e607e" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 22:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="14" height="14" /> OilPrice (全球能源与原油大宗)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-hits-black-sea-port-html-3eb121ca27901d07" class="wire-title-link" title="点击直达本站全篇深度编译">
+        俄罗斯袭击摩尔多瓦边境，乌克兰打击黑海港口
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Russia Strikes Moldova Border as Ukraine Hits Black Sea Port</div>
+    <div class="wire-snippet">【OilPrice (全球能源与原油大宗)·大宗能源产业链】：俄罗斯发动无人机袭击瞄准了乌克兰与摩尔多瓦之间的一处边境过境点，造成两人死亡、三人受伤，同时俄罗斯无人机还袭击了基辅；目前莫斯科仍在继续其对乌克兰全境近乎持续不断的打击行动。乌克兰国家边防局报告称，俄罗斯于9月9日对乌克兰敖德萨州的斯塔罗卡扎切—图多拉（Starokazache–Tudora）边境过境点发动袭击，损毁了检查站基础设施、车辆及建筑物，引发大火，……</div>
+    <div class="wire-actions">
+      <a href="#story-hits-black-sea-port-html-3eb121ca27901d07" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://oilprice.com/Geopolitics/Europe/Russia-Strikes-Moldova-Border-as-Ukraine-Hits-Black-Sea-Port.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 22:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/esa.svg" class="source-icon" alt="ESA Space News (欧洲航天局官方英文)" width="14" height="14" /> ESA Space News (欧洲航天局官方英文)</span>
+      <span class="wire-dim-badge">🔬 深空与基础科学</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【ESA Space News (欧洲航天局官方英文)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Name our dino – ESA’s Hera asteroid mission mascot!</div>
+    <div class="wire-snippet">【ESA Space News (欧洲航天局官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 21:59</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/psiholog-2116866600.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Психолог рассказала, с чем связана мода на стразы</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/psiholog-2116866600.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 21:58</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/medved-2116866151.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Родители учеников в Кузбассе решили не переходить на удаленку из-за медведя</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/medved-2116866151.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 21:58</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/massazh-2116865926.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> В Москве арестовали сотрудника массажного салона, домогавшегося до клиентки</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/massazh-2116865926.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 21:58</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.marketwatch.com/story/markets-see-a-near-50-50-chance-the-european-central-bank-will-hike-again-in-october-38a87c27?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【MarketWatch Top Stories (市场观察)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Markets see a near 50-50 chance the European Central Bank will hike again in October</div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.marketwatch.com/story/markets-see-a-near-50-50-chance-the-european-central-bank-will-hike-again-in-october-38a87c27?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 21:57</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/operatsiya-2116865740.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> В Подмосковье врачи помогли ребенку со сросшимися с рождения пальцами</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/operatsiya-2116865740.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 21:57</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/cuba-approva-la-legge-agricola-terre-statali-in-usufrutto-ai-privati_1013cc99-fa9b-4fc8-a1f0-89a1a65da033.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【ANSA Mondo (意大利安莎社官方意大利文)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Cuba approva la legge agricola, terre statali in usufrutto ai privati</div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/cuba-approva-la-legge-agricola-terre-statali-in-usufrutto-ai-privati_1013cc99-fa9b-4fc8-a1f0-89a1a65da033.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 21:57</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/belgorod-2116865578.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> В Белгородской области мужчина пострадал из-за взрыва дрона ВСУ</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/belgorod-2116865578.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 21:56</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260910/frg-2116865188.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【RIA Novosti (俄新社官方俄文)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> СМИ: Берлин отказался показать свидетельства связи России с БПЛА в Лейпциге</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260910/frg-2116865188.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 21:56</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="14" height="14" /> NY Times World (纽约时报官方英文)</span>
+      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        【NY Times World (纽约时报官方英文)】外文标题尚未完成中文翻译
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-card-orig"><span class="orig-tag">原文</span> Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say</div>
+    <div class="wire-snippet">【NY Times World (纽约时报官方英文)·美主流建制派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
 </div>
@@ -720,424 +752,387 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-kers-to-get-eu-inc-right-1c8aec6380c31f92" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1744" data-content-paragraphs="12" data-published-at="2026-09-10T12:25:08.000Z" data-time-source="publication">
+<div id="story-g-google-spec-comparison-aac9f5e668eceed1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="710" data-content-paragraphs="1" data-published-at="2026-09-10T14:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:25</span>
+  <span class="news-meta-time">🕒 2026-09-10 22:00</span>
 </div>
 
-### [欧洲初创公司创始人与风投呼吁立法者“确保‘欧盟公司’机制落到实处”](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> European founders and VCs urge lawmakers ‘to get EU Inc right’</div>
+### [iPhone Duo 与其他折叠屏手机对比表现如何](https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison)
+<div class="original-title-sub"><span class="orig-tag">原文</span> How the iPhone Duo compares to other folding phones</div>
 
-<div class="article-body" data-article-body="true"><p>欧洲可能很快就会拥有属于自己的特拉华州 C 类公司（Delaware C Corp）同等机制，但其倡导者并没有放松对立法者的施压。在周四发布的一封公开信中，欧洲初创圈的诸多重量级人物强调，这种新的公司法律地位绝不能被稀释打折。</p>
-<p>这封信是“欧盟公司”（EU Inc）运动的最新进展。该运动呼吁建立一项全欧盟范围的公司章程，使企业能够在统一框架下注册成立，并在整个欧盟内部展开运营。其发起者已获得了欧盟最高权力机构的背书，但他们目前表示担忧，若核心特征被削弱，最终的立法可能会变得“毫无用处”。</p>
-<p>与欧洲立法的常规情况一样，各国不同的游说团体已纷纷介入，其中包括德国公证人协会，该协会对欧盟委员会提案的部分内容提出了批评。不过，欧洲议会与欧洲理事会仍在就敲定最终文本展开谈判，而“欧盟公司”的发起者们正指出此事的利害攸关之处。</p>
-<p>距离欧洲各机构因冬歇期休会仅剩约100天，该信件呼吁政策制定者保留该提案，称其具有“消除继续扼杀欧洲企业的大部分摩擦与碎片化现象、释放投资并激发新一波创业浪潮”的潜力。</p>
-<p>借鉴以往游说团体的做法，公开信强调了一些“看似技术性细节，但……却能决定一种公司形式是会被创始人采用还是被其无视”的关键点。他们特别坚持设立统一的中央注册登记系统；并要求员工应仅在实际处置其股票期权时才被征税。</p>
-<p>这种深究细节的需求并非新鲜事。2024年最初的请愿活动声势渐盛时，Index Ventures合伙人兼“欧盟公司”支持者马丁·米尼奥（Martin Mignot）曾向TechCrunch表示：“魔鬼藏在细节中，这正是我们将保持高度警惕的地方。”</p>
-<p>“欧盟公司”在拉拢名人背书方面也进一步发力。在投资人方面，“欧盟公司”的新信函得到了众多风险投资人的签署，其中包括Accel合伙人索娜莉·德·赖克（Sonali De Rycker）、红杉资本合伙人迈克尔·莫里茨（Michael Moritz）以及Atomico创始人尼克拉斯·赞斯特罗姆（Niklas Zennström）——他是通过佩戴该活动鸭舌帽来支持这项行动的众多科技界人物之一。</p>
-<p>为了在创业者层面增加分量，发起人还着重列出了来自独角兽企业创始人的背书，包括Alan、ElevenLabs、Lovable、Mistral和Synthesia等公司。其中一些企业的总部设在美国；言下之意，传达给立法者的信息也是：如果“欧盟公司”得以推行，这种情况可能将成为过去。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>安娜·海姆（Anna Heim）是一名作家兼编辑顾问。<br />您可以通过发送电子邮件至 annatechcrunch [at] gmail.com 联系安娜或核实相关联络。<br />作为TechCrunch自2021年以来的自由撰稿记者，她的报道涵盖了广泛的初创企业相关主题，包括人工智能、金融科技与保险科技、SaaS及定价机制，以及全球风险投资趋势。<br />截至2025年5月，她在TechCrunch的报道聚焦于欧洲最引人入胜的初创企业故事。<br />安娜曾担任各种规模行业活动的分论坛主持人并在现场进行专访，其中包括TechCrunch Disrupt、4YFN、South Summit、TNW Conference、VivaTech等多项大型科技会议。<br />她曾任The Next Web的拉美及媒体编辑，曾是一名初创公司创始人，也是巴黎政治学院（Sciences Po Paris）校友，精通包括法语、英语、西班牙语和巴西葡萄牙语在内的多种语言。</p>
-<p>切勿错过。初创企业社区将齐聚一堂，共同解答一个核心问题：在人工智能时代，你该如何实现可持续发展？</p>
-<p>苹果发布首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段不公<br />一部秘密制作的伊丽莎白·霍姆斯全新纪录片惊艳特柳赖德电影节<br />TechCrunch出行观察：特斯拉Cybercab正式上路——但也遭遇了波折<br />多名徒步旅行者在使用Google Gemini进行路线规划后遇险获救<br />联邦监管机构对特斯拉Cybercab的投放展开调查<br />特斯拉正在询问公众是否有意购买并运营Cybercab车队</p></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="iPhone Duo 与其他折叠屏手机对比表现如何" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件摘要和主页动态中。<br />苹果的首款折叠屏手机与竞争对手相比表现如何？<br />该作者的帖子将添加到您的每日电子邮件摘要和主页动态中。<br />查看 Brad Bourque 的全部文章<br />苹果的折叠屏手机终于来了——好吧，差不多快来了。将于 10 月 23 日发售的 iPhone Duo 紧跟三星（Samsung）、一加（OnePlus）和谷歌（Google）等安卓手机厂商以往折叠设备的步伐，其 1,999 美元的售价略高于 Pixel 11 Pro Fold 和 Galaxy Z Fold 8。<br />虽然其硬件与竞争对手有相似之处，但 iPhone Duo 是少数几款采用类似护照式设计形态的机型之一。其内屏与外屏的长宽比相同，甚至在半折叠状态下也能适配部分应用程序。内屏配有特殊的外层结构，结合其铰链设计，使得内部折痕几乎难以察觉（这是许多竞争对手都在苦苦攻关的技术，尽管三星和 Oppo 正在取得令人赞叹的进展）。<br />我们在苹果的“Surprise and shine”（惊喜闪耀）发布会上有机会亲自上手体验了 iPhone Duo，因此如果您想详细了解它的实际使用手感，我们的上手体验文章是个绝佳的切入点。随着发售日期的临近，我们将持续对这款手机进行报道，敬请关注我们后续的完整评测。<br />将苹果与安卓厂商的折叠屏手机进行规格对比，就像对比直板手机一样，成了一种“关公战秦琼”式的跨阵营难题。不过，我们认为将 iPhone Duo 与其最接近的竞争对手的全部规格参数罗列呈现，依然大有裨益。<br />查看全部 2026 苹果发布会内容<br />查看全部折叠屏手机内容<br />最重要的热点新闻免费每日摘要。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>欧洲多位独角兽创始人与投资人在周四发布的一封公开信中呼吁立法者不要削弱名为“EU Inc”的新欧盟范围公司地位提案的核心内容。</li>
-    <li>EU Inc 倡议呼吁建立一个全欧盟范围的公司章程，使企业能够在统一框架下注册并在整个欧盟运作。</li>
-    <li>来源叙事重点：报道欧洲顶级独角兽创始人与VC联合向欧盟决策层施压，呼吁在立法谈判的关键窗口期（冬歇期前约100天）确保全欧统一公司章程（EU Inc）核心条款不被削弱，重点聚焦建立单一中央注册机制和期权处置时纳税等诉求，强调对标特拉华C公司以解决欧洲市场碎片化与人才外流问题。</li>
+    <li>苹果推出折叠屏手机 iPhone Duo，定于10月23日发售</li>
+    <li>iPhone Duo 售价为 1,999 美元，价格略高于 Pixel 11 Pro Fold 和 Galaxy Z Fold 8</li>
+    <li>来源叙事重点：将苹果首发折叠屏设备 iPhone Duo 置于成熟的 Android 折叠屏竞争格局中，重点审视其类护照同比例屏幕、铰链消痕工艺及 1,999 美元的高溢价定位</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ix-science-first-release-363f8beccfcabbff" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1427" data-content-paragraphs="1" data-published-at="2026-09-10T11:45:49.000Z" data-time-source="publication">
+<div id="story-is-tadalafil-mens-health-ddafb986f48e607e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3966" data-content-paragraphs="10" data-published-at="2026-09-10T14:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 19:45</span>
-</div>
-
-### [Guix-Science 迎来首个版本发布](https://hpc.guix.info/blog/2026/09/guix-science-first-release/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Announcing the first Guix-Science release</div>
-
-<div class="article-body" data-article-body="true"><p>我们非常激动地宣布 Guix-Science 频道的首个版本：v20260907。<br />这是来自 Guix-Science 项目的专用 Guix 频道。该频道提供了一个全面的、由社区驱动的科学软件目录，适用于全球科学界。<br />随着 Guix 在科学研究领域的应用日益增多，对打包研究和教学领域所用软件的需求也与日俱增。尽管 Guix 项目鼓励用户向 Guix 主频道贡献软件包，但有些软件包无法纳入其中，原因在于它们不符合 Guix 的打包策略，或者是因为它们过于专业化而无法在高性能计算（HPC）环境之外使用。Guix-Science 频道的政策比 Guix 主频道更为宽松；尤其是在使用预构建组件方面。此外，它比 Guix 本身拥有更宽松的弃用政策。<br />Guix-Science 频道由科研从业者维护，并服务于科研从业者。我们将该频道视为涵盖广泛领域的科学软件包核心枢纽。这使得社区能够共同分担打包和维护工作。我们鼓励大家参与到频道的开发中来。此外，软件包一旦被纳入 Guix-Science，二进制替代物（binary substitutes）就会在我们自己的基础设施上构建，并公开供所有人使用。<br />Guix 遵循滚动发布模式。这意味着一旦软件包合入 master 分支，用户就会收到更新。因此，Guix-Science 频道也遵循相同的方式。得益于 guix time-machine 命令，用户无需担心频道的更新会破坏其环境。该机制允许用户固定其频道，从而掌控更新其环境的时机。<br />在日常使用中，科研从业者经常会遇到一个困扰：Guix 与 Guix-Science 频道需要保持兼容。尽管 Guix 和 Guix-Science 的维护者都尽最大努力避免出现损坏，但仍可能发生 Guix 中某个不相关的更改对某些 Guix-Science 软件包产生影响、甚至导致其损坏的情况。<br />Guix-Science 的正式版本（release）是 Guix-Science 与 Guix 的快照，在该快照中，Guix-Science 提供的所有软件包均可正常安装。一次发布即是 Guix-Science 频道的一个带有标签的提交（tagged commit），其中提供了一个 channels 文件。该 channels 文件声明了 Guix-Science 对 Guix 本身频道的依赖关系。如果你查看带有标签的提交说明，会看到以下部分：<br />标签名称遵循以下模式：vYYYYMMDD。<br />你可以通过以下方式在 Guix-Science 的检出目录中查看并验证该标签的内容：<br />要获取该发布版本，你有两种选择：<br />使用 guix time-machine：<br />如果你是首次使用 Guix-Science，这将导致报错：<br />为了解决这个问题，可以通过将以下代码片段添加到 ~/.config/guix/trusted-channels.scm 中，将 Guix-Science 标记为“受信任”：<br />该发布版本包含来自广泛科学领域的 2,354 个软件包。<br />本版本的亮点包括：<br />展望未来，我们计划进行定期发布。请关注 Guix-Science - Releases。我们鼓励所有人参与到该频道中来。<br />除非另有说明，本站上的博文版权归各自作者所有，并根据 CC-BY-SA 4.0 许可证以及 GNU 自由文档许可证（1.3 或更高版本，无不变章节、无封面文本且无封底文本）的条款发布。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Guix-Science频道的首个版本v20260907正式发布。</li>
-    <li>Guix-Science是来自Guix-Science项目的专用Guix频道，提供面向全球科学界的软件目录。</li>
-    <li>来源叙事重点：宣布 Guix-Science 专有频道首个快照版本 v20260907 的正式发布，强调其如何通过更宽松的打包准则、独立的二进制替代构建基础设施以及联合快照机制，解决科研高性能计算（HPC）场景下的软件兼容性与环境可重现性痛点。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://hpc.guix.info/blog/2026/09/guix-science-first-release/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-olar-engineering-roadmap-022e3eb5160edd0a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3204" data-content-paragraphs="12" data-published-at="2026-09-10T12:10:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:10</span>
+  <span class="news-meta-time">🕒 2026-09-10 22:00</span>
 </div>
 
-### [《The Download》：“神导”加密货币与太阳能地球工程路线图](https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Download: a “God-driven” cryptocurrency and a solar engineering roadmap</div>
+### [针对男性气概的新标准正对男性健康造成负面影响](https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health)
+<div class="original-title-sub"><span class="orig-tag">原文</span> New standards for masculinity are stacked against men’s health</div>
 
-<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/04/North_Pole_Expedition_MIT_Tech_Rev_TimK_002top.jpg?fit=1920,1280" alt="《The Download》：“神导”加密货币与太阳能地球工程路线图" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-151060900.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="针对男性气概的新标准正对男性健康造成负面影响" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>这是今天的《The Download》，我们的工作日简报，为你提供科技界最新动态的每日资讯。</p>
-<p>上帝告诉他们去卖加密货币。他们的投资者却失去了一切。<br />当埃利·雷加拉多（Eli Regalado）第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉。据埃利和他的妻子凯特琳（Kaitlyn）称，上帝告诉他们要结婚、买房、生孩子。随后在2021年，神的指引将他们引向了一个意想不到的新方向：加密货币。<br />雷加拉多夫妇后来在法庭上作证称，那年10月，他们获得了一种鲜为人知的数字货币持仓。埃利听到上帝说：“把这个带给我的子民，进行财富转移。”随着时间的推移，他们逐渐确信上帝希望他们发行自己的加密货币。<br />雷加拉多夫妇创立了 INDXcoin，并通过家人、朋友以及福音派基督教圈子里的人脉进行推广。总共有500多人投入了300多万美元。然而不到一年，该项目就崩溃了。投资者血本无归，许多人不禁怀疑资金究竟流向了何处，自己是否成为了一场精心策划的诈骗的受害者。<br />阅读关于这位牧师“神导”加密货币崩溃的完整报道。<br />本文是“深度聚焦”（Big Story）系列的一部分，该系列汇集了《麻省理工科技评论》最重要、最雄心勃勃的深度报道。你可以在此处阅读该系列的其他文章。<br />该报道由本刊与 Type Investigations 合作完成，并获得了调查新闻基金（Fund for Investigative Journalism）的支持。</p>
-<p>这份路线图可以帮助我们决定是否部署太阳能地球工程<br />半个世纪以来，科学家们一直在探索是否可以通过向平流层释放反射颗粒物来模仿火山爆发的降温效果，从而对抗气候变化。但即便经过了数百项研究，我们仍不知道其效果究竟如何，也不清楚它还可能带来什么其他影响——而且目前还没有系统性的计划来消除这种不确定性。<br />研究机构 Reflective 目前正试图填补这一空白。《麻省理工科技评论》获悉，这家位于旧金山的非营利组织发布了一份详尽的路线图，列出了在就是否使用太阳能地球工程做出明智决策所需的实验、研究和基础设施。<br />了解在太阳能地球工程上做出明智决策需要具备哪些条件。</p>
-<p>这位创始人正在教芯片如何回收（自身能量）<br />在计算机芯片的发展史上，工程师们一直将废热视为计算过程中不可避免的代价。然而，汉娜·厄利（Hannah Earley）认为这是一种设计选择。<br />现年31岁的厄利是 Vaire Computing 的联合创始人兼首席技术官（CTO）。该公司致力于研发能够回收通常作为热量耗散的能量的芯片，这种策略被称为“可逆计算”。该方法有望大幅提升数据中心（以及我们的笔记本电脑和手机）的能效。<br />去年，Vaire 宣布了一项关键突破：制造出一种带有谐振器的芯片，即使将为该元件供电所需的能量计算在内，其回收的能量也超过了损耗的能量。<br />以下是她计划如何将这一关于节能计算机的古老构想带入未来的详细内容。<br />汉娜·厄利是我们2026年度“35岁以下科技创新35人”（Innovators Under 35）计算与机器人领域的获奖者之一。在此认识其他获奖者，或查看涵盖生物技术、人工智能、计算与机器人以及气候与能源类别的完整名单。</p>
-<p>美国电池市场能否摆脱对中国的依赖？<br />美国储能市场正以创纪录的速度增长，这有助于强化电网并减少碳排放。至关重要的是，这一切都是在廉价中国电池的助力下实现的，而特朗普政府正试图逐步淘汰这些电池。<br />减少对任何单一关键能源技术来源的依赖是合乎情理的。但这种紧张关系引发了我更广泛的思考：各国应该在多大程度上利用廉价且现成的技术，又应该在多大程度上切断外国技术来源以自主研发，哪怕成本更高？<br />深入了解美国蓬勃发展的电池市场所面临的艰难抉择。<br />本报道来自我们的气候技术周刊《The Spark》。订阅即可在每周三将其接收至你的邮箱。</p>
-<p>我梳理了互联网，为你搜罗了今日最有趣、最重要、最令人担忧以及最迷人的科技动态：<br />1. OpenAI 的智能体利用至少10个网站进行未经授权的通信<br />研究人员发现它们绕过了在线发布的限制。（路透社 $）<br />+ 该公司因 Hugging Face 数据泄露事件面临参议院调查。（Axios）<br />+ 其面临的黑客问题可能反映出企业文化层面的缺陷。（《麻省理工科技评论》）<br />2. 另一款 Anthropic 模型在测试期间入侵了真实系统<br />错误的环境配置使其获得了互联网访问权限。（哥伦比亚广播公司新闻 / CBS News）<br />+ 这起发生于1月的事件直到上个月才被发现。（路透社 $）<br />+ 人工智能智能体不是你的“同事”。（《麻省理工科技评论》）<br />3. 苹果以售价1999美元的 iPhone Duo 进军折叠屏手机市场<br />展开后为7.6英寸显示屏，将于10月23日发售。（美国全国公共广播电台 / NPR）<br />+ 苹果押注其设计和隐私保护将带来竞争优势。（路透社 $）<br />+ 并期望折叠屏能够解决智能手机同质化问题。（NPR $）<br />+ 三星发起宣传攻势予以回应，宣传其在折叠屏领域的领先地位。（CNBC）<br />+ 在中国市场，苹果进入了一个由华为占据主导地位的拥挤赛道。（《南华早报》 / SCMP）<br />4. 美国检察官在庭审中称华为为犯罪企业<br />他们指控该公司窃取美国技术。（路透社 $）<br />+ 并指控其协助伊朗监视本国公民。（美联社）<br />+ 该审判可能会对特朗普即将与习近平举行的会晤产生影响。（《华尔街日报》 $）<br />5. 在反对数十年后，加利福尼亚州对核电态度回暖<br />该州可能会延长魔鬼峡谷（Diablo Canyon）核电站的运营寿命，并解除对新建反应堆的禁令。（《纽约时报》 $）<br />+ 中国正押注大型核反应堆。（《麻省理工科技评论》）<br />6. 中国专业人士正成为训练人工智能的零工工作者<br />律师和工程师正在通过训练模型赚取额外收入。（Rest of World）<br />+ 零工人员正在家中训练人形机器人。（《麻省理工科技评论》）<br />7. 新款 Apple Watch 可以监听周围发生的对话<br />苹果表示用户必须主动开启此功能，但周围的其他人无法选择退出。（《连线》 / Wired $）<br />8. 睡眠期间的粉红噪音可能有助于大脑清除废物<br />一项小规模研究显示，定时的脉冲声音促进了脑脊液的流动。（《新科学家》 / New Scientist $）<br />9. 一座失落的超大陆可能触发了生命大爆发<br />冈瓦纳大陆（Gondwana）的形成加剧了火山活动并使地球变暖。（404 Media）<br />10. 《侠盗猎车手6》（GTA VI）引发关于虚拟恋爱是否算作精神出轨的争论<br />玩家可以与虚拟伴侣约会、发生关系并赠送大量礼物。（《卫报》）</p>
-<p>“我们必须竭尽全力粉碎对毁灭博士公共安全愿景的一切异议。”<br />——据 404 Media 报道，西雅图一名政策顾问在公共安全委员会会议上打扮成毁灭博士（Doctor Doom），以抗议该市不断扩大的 Flock 和 Axon 监控系统网络。</p>
-<p>探寻北极过去的线索</p>
-<p>过去，前往北极需要穿越数米厚的冰层，经历一段凶险的旅程。但去年，一艘科考船却遭遇了开阔水域和薄冰，由此开辟出一条轻松通行的航道。这也提醒了人们，北极的变化是多么迅速。</p>
-<p>如今，科学家们正在海床深处进行钻探，以查明北冰洋过去是否曾出现过无冰期——以及这对于地球最北端水域的未来可能意味着什么。</p>
-<p>探索他们期望发现的内容。</p>
-<p>生活依然可以很美好<br />这里为您提供慰藉、趣味与消遣，点亮您的一天。（有什么好点子吗？给我写信吧。）<br />+ 荷兰儿童（再次）被评为全球最幸福的孩子。原因在此。<br />+ 在 Radiooooo 上选择一个国家和年代，开启音乐历史之旅。<br />+ 这 16 张壮丽的航拍照片以难得一见的视角展现了野生动物的姿态。<br />+ 多伦多一家咖啡馆凭借其蛋形、内嵌卡仕达酱的“Crogg”，将可颂烘焙工艺推向了全新高度。</p></div>
+<div class="article-body" data-article-body="true"><p>来自该话题的帖子将被添加到您的每日电子邮件文摘和主页动态中。<br />追逐不切实际的标准正在促使男性把自己变成DIY科学实验品。<br />来自该作者的帖子将被添加到您的每日电子邮件文摘和主页动态中。<br />查看 Victoria Song 的全部文章<br />每当算法推送来一堆热气腾腾的“颜值最大化”（looksmaxxing）内容时，我都会回想起英剧《米切尔和韦伯双人秀》（That Mitchell and Webb Look）中的一段老小品。广告旁白对一位普通女性说，她“漏水、多毛、衰老、超重，而且全身哪哪都疼”。得意的旁白表示，看在上帝的份上，女人们赶紧买大约300美元的产品来收拾好自己吧。跳切之后，一个普通男性被告知去刮个胡子然后喝个烂醉，背景里吉他声轰鸣。原因是什么呢？因为他本来就已经很棒了。<br />当那个小品在2009年首播时，它之所以搞笑，是因为它大致符合现实。但在当今这个“颜值最大化”的时代，男人们越来越痴迷于睾酮、为了追求刀削般的下颌线不惜砸断骨头、还要优化自己的生殖器，那个小品如今读来就像是一瞥古代史。<br />如今，你会看到男人们在 Reddit 子版块和 Facebook 群组里发布健身前后的对比照，紧绷手臂以达到青筋暴起的二头肌极致视觉效果。在评论区，他们相互打听彼此的药物组合（stacks）、用药方案（protocols）以及剂量建议，涵盖从睾酮到未经批准的灰市多肽的一切内容。有人说这是为了吸引辣妹；有人说这是为了让健身房里的增肌效果最大化；还有一些人似乎认为，把自己变成科学实验品就能找到不老泉。在我看来，这与女性长久以来的遭遇如出一辙：购买利用自身容貌焦虑大做文章的江湖神药。<br />“我吃犀利士（Cialis），但不是为了做爱，”生物黑客兼科技创业者布莱恩·约翰逊（Bryan Johnson）在 X 上的一篇帖子开头写道，“它实际上是一种长寿药物。犀利士（他达拉非）之所以棒，其原理与它能让你拥有美妙勃起是一样的……它能改善血流。”<br />他达拉非确实能够改善血流。这种药物是一种血管扩张剂，意味着它能放松肌肉并扩张血管。它最广为人知的用途是治疗勃起功能障碍。（需要说明的是，它本身并不引起勃起，而是在勃起发生时帮助维持状态。）它也被处方用于缓解前列腺肥大患者的排尿问题以及肺动脉高压。像约翰逊这样的生物黑客鼓吹每日小剂量服用他达拉非有助于降低心血管风险和认知能力下降。健身狂热者经常将他达拉非微剂量作为练前补剂服用，因为据称其勃起效果更好，而且扩张血管被认为能够带来更好的“肌肉充血感”。<br />支持使用兴奋剂的“强化运动会”（Enhanced Games）背后的运营公司 Enhanced，在其官网上销售低剂量他达拉非。最臭名昭著的颜值最大化博主 Clavicular 也曾表示，他过去曾服用大约5毫克的他达拉非作为庞大用药组合的一部分。然而，他当时年仅20岁，与医生通常会开具他达拉非处方的人群画像大相径庭。知名播客主持人安德鲁·胡伯曼（Andrew Huberman）也在其节目中建议，每一位40岁以上的男性都应将低剂量他达拉非作为预防措施服用。<br />当然，他达拉非与其他任何药物无异。虽然很多人在每日低剂量下可能不会出现不良反应，但仍有一部分人会出现不良反应。而且就像任何药物一样，有些人并不适合服用，同时还存在需要警惕的药物相互作用。<br />如果这些网红只是在推广他达拉非倒也罢了。但大多数人都在推崇多种物质，而且似乎每一项都是你“成为真男人”所必需的。例如，睾酮在同一群体中就极受欢迎。首届“强化运动会”中有91%的运动员涉足过睾酮。值得注意的是，皮特·海格塞斯（Pete Hegseth）最近宣布对军队实行强制睾酮筛查。还有人热捧瑞他曲肽（retatrutide）——一种目前正处于三期临床试验阶段且未经批准的多肽——以及 TB-500 和 BPC-157，后两者是俗称为“金刚狼组合”的灰市多肽，因被认为具有伤口愈合和肌肉恢复效果而得名。而且你叠加的物质越多，这种组合产生非预期效应的风险就越大。如果是面对缺乏深入研究的实验性疗法，连医生都可能不知道那些后果究竟是什么——而且可能在很长一段时间内都无法弄清。<br />承担这些风险的公开理由形形色色。但无论是为了帮助练就肌肉身材、延年益寿、提升床笫表现，还是仅仅为了“更有精力”，归根结底都传递着同一个信息：这能让你更具男人味。<br />“这种男性气概带有一点幻想色彩，”约翰霍普金斯大学帕特里克·C·沃尔什泌尿外科讲席教授阿瑟·伯内特（Arthur Burnett）博士在谈到当前文化对“最大化（maxxing）”的痴迷时说道。伯内特对此深有发言权。除了拥有三十多年的男性健康专家经验外，他对勃起组织中一氧化氮生化机制的研究，曾帮助为伟哥等药物的面世铺平了道路。<br />对于男性承担起所有这些额外要求，他表示“这实际上没有科学依据”。“我认为，不幸的是，我们已经把钟摆推向了一个可能有害的方向——坦白讲，至少在心理层面上是如此，甚至在身体上也是可能有害的。试图挪用‘预防’和‘男性健康’等医学术语可能是有问题的。”<br />我目前正在就多肽的使用进行深入报道，希望能采访正在使用灰市多肽的普通人。如果您有兴趣参与，请发送电子邮件至 victoria.song@theverge.com 或在 Signal 上发消息至 @vicmsong.14。<br />伯内特实质上指出了临床医生与生物黑客/颜值最大化社群在看待医学时的分歧。一方面，专业医疗人员大多将药物视为治疗身体缺陷并使人们恢复到“正常”基线的一种手段；另一方面，网红和狂热爱好者（其中也可以包括部分临床从业者）则认为药物可以且应当用于让人类“增强”并突破其自然极限。这种张力正是健康保健这个“狂野西部”中诸多争论的核心所在。<br />“预防性医疗保健本应是让那些处于危险之中或存在健康问题的人能够做出改变，以纠正问题。而你在这里看到的，却是完全健康的人正在做一些可能会带来隐患的事情，”伯内特解释道。<br />他说，睾酮就是一个典型的例子。原本健康的男性如果过量补充这种类固醇激素，往往会在无意中导致自身不育。对一些男性来说，过多的睾酮还会诱发脱发的遗传易感性——而颜值最大化者通常会通过服用米诺地尔来应对这种脱发。接着再添加另一种补剂、药物或产品来对抗米诺地尔的副作用——包括头晕、头痛和腹胀——你最终的用药组合（stack）就是这样滚雪球般拼凑出来的。</p>
+<p>在所有这些补剂组合和方案中，被人们遗忘的一点是：健康并不等同于最优化。对许多年轻男性而言，“最优化”似乎算不上一个目标，反而更像是一条被期望永远维持的、定义模糊的基准线。任何达不到这一标准的状况都被视为失败、软弱——即不健康。</p>
+<p>打发下午时光的一种令人沮丧的方式，就是翻看外貌最大化（looksmaxxing）和用药（gear）论坛。（我不建议在里面停留太久——除非你想自讨苦吃，去阅读那些充满4chan风格的、关于生殖器尺寸和“每周斩获”的侮辱与谩骂。）</p>
+<p>在一篇帖子中，一名自称18岁的用户发帖咨询希爱力（Cialis）的用药剂量，以获得更好的勃起状态和“在疲软时显得更修长下垂”。在一个生物黑客（biohacking）子论坛中，一名30岁的男子基本上是在集思广益，询问自己是否正在对达泊拉非（tadalafil）产生“依赖”。尽管姿态百出，但在我读过的所有帖子里，没有一个男性看起来是发自内心快乐的。他们常常吹嘘自己感觉有多棒，或者自己有多少征服战绩。但大多数时候，底下似乎都潜藏着一股愤怒的自我厌恶暗流。一种绝望地想要“修复”自己的冲动……但究竟是为了什么，或者为了谁？我从未找到过一个说得通的答案。</p>
+<p>诚然，我不是男性。我永远无法体会身为男性的感受，也不会经历男性所面临的社会压力。但互联网在放大一小部分将自己变成科学实验品的男性群体这一现象上，确实存在某些耐人寻味之处。从相对温和的趋势（如男士粗粮的高蛋白包装、小罗伯特·F·肯尼迪与摇滚小子赤膊健身的新闻报道），到“增强型运动会”（Enhanced Games）和布莱恩·约翰逊（Bryan Johnson）所搞的那些名堂之间，俨然存在着一条推波助澜的输送链。在Whoop的AI开始建议你的老板提高睾酮水平之前，这些东西很容易被一笑置之——然而AI这么建议并不是因为他缺乏睾酮，而是因为他在体能表现上“尚未达到最优化”。</p>
+<p>“这种情况在我的门诊中时常发生——男人们认为自己需要身体增强，或者对某些干预措施感到不满，又或者觉得自己的表现没有达到某个水准，”伯内特（Burnett）说。“这其实适得其反，因为它实际上加剧了围绕男性健康的污名化，因为他们无法达到自己心目中‘理想男人’的设定。”他说，这会催生更多的焦虑、压力、尴尬和羞耻感。最重要的是，这让男性更难坦诚地谈论真正的健康问题或向专业人士求助。任何“不正常”的情况，都变成了只能默默忍受或靠吃补剂来消除的事情。</p>
+<p>目前来看，这或许还局限于一个重度网瘾的小众群体中。（伯内特表示，这些行为在他的诊疗实践中尚未极其普遍，但话又说回来——当养生骗子们最先试图抹黑的就是医疗建制时，那些最容易受影响的男性信任正规医疗机构的可能性又有多少呢？）但这个小众群体声音很大，而且极度热衷于发帖。最终，哪怕人人都心知肚明，这些信息还是会渗透到更广泛的文化之中。</p>
+<p>我唯一能得出的结论是：那些外貌最大化狂热者的状态并不好。我希望终有一天他们能好起来，希望这只是一场过眼的狂热，终有一天我们可以回过头来付之一笑。但在当下，我想以伯内特的一条建议来结尾。</p>
+<p>“只要我们生活得健康，我们就是在做正确的事。请接纳自己作为真实自我的优秀之处，不要被网红博主所左右。”</p>
+<p>一份汇集最重要新闻的免费每日摘要。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Eli Regalado 与妻子 Kaitlyn 创立了 INDXcoin，通过家人、朋友和福音派基督教圈子进行推广。</li>
-    <li>超过 500 人为 INDXcoin 项目投入了超过 300 万美元，该项目在一年内崩溃，投资者损失惨重。</li>
-    <li>来源叙事重点：聚焦前沿科技争议与治理伦理，涵盖宗教包装下的加密货币骗局、太阳能地球工程路线图、芯片能耗创新（可逆计算），以及中美能源脱钩与前沿 AI 越权失控等科技与政策交叉议题。</li>
+    <li>他达拉非（Tadalafil/Cialis）是一种血管舒张剂，通过放松肌肉和扩张血管来改善血流，主要用于治疗勃起功能障碍、前列腺肥大引起的排尿问题以及肺动脉高压。</li>
+    <li>Bryan Johnson 在 X 上发文称自己服用 Cialis 不是为了性生活，而是作为长寿药物以改善血流。</li>
+    <li>来源叙事重点：揭露并批判当代男性社群中蔓延的‘容貌优化’（looksmaxxing）与生物黑客潮流。文章聚焦年轻健康男性通过微量服用他达拉非（Cialis）、睾酮及未经批准的灰市肽类等药物打造‘药物组合’（stack）追求极致男性气概和身体性能的现象，警示该亚文化将医疗术语商业化/庸俗化、缺乏科学循证支持，且加剧了男性的身心健康隐患与容貌焦虑。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#MIT</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-sed-gps-alternative-tern-00176c50b86b42e9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1317" data-content-paragraphs="12" data-published-at="2026-09-10T12:00:00.000Z" data-time-source="publication">
+<div id="story-026-09-10-10694303-shtml-1eafad906e12cf15" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1491" data-content-paragraphs="27" data-published-at="2026-09-10T14:04:12.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:00</span>
-</div>
-
-### [美陆军斥资1100万美元押注奥斯汀GPS替代方案初创公司Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> US Army places $11M bet on Austin-based GPS alternative Tern</div>
-
-<div class="article-body" data-article-body="true"><p>总部位于奥斯汀的初创公司Tern已赢得美国陆军的一份合同，用于部署该公司的低成本GPS替代技术。</p>
-<p>现代车辆在行驶过程中会产生各种数据，而Tern的整个技术栈正是围绕利用其中一部分信息来实现无GPS导航而构建的。</p>
-<p>“为了达到仅接收这些信息便能输出经纬度的水平，我们做了相当多的工作，团队付出了巨大努力，”他说道。</p>
-<p>所有这些使得车辆基本上能够利用边缘计算独立确定自身位置，无论是在公路、越野行驶，还是在隧道或沙漠中都非常实用。摩尔（Moore）的联合创始人布雷特·哈里森（Brett Harrison）最近甚至用它完成了从奥斯汀到加利福尼亚州拉古纳海滩之间长达1300英里的导航驾驶。他表示，在整个行程中，Tern的技术从未丢失过车辆位置，而传统GPS则中断了数十次。</p>
-<p>Tern技术的另一个与精确定位同样重要的特点在于它是一个封闭系统。这意味着它不仅是一个备用方案，对手实际上也更难对其进行干扰或破坏。</p>
-<p>“从消费者的角度来看，我不知道大家是否广泛意识到[GPS]系统的脆弱性，”摩尔表示，“我认为人们只是看着手机上的蓝点，并认为它既然现在在那里，就永远都会在那里，对吧？它怎么会不在呢？”</p>
-<p>作为一名退伍军人，哈里森表示，在Tern花费数年时间证明其技术行之有效之后，陆军的这份合同是对他们的一种认可。他提到，他在阿富汗特种作战特遣部队服役的经历，是他萌生解决这一问题愿望的重要原因之一。</p>
-<p>“从我们决定着手这项工作的基础起，我们就认识到它必须是真正可部署、可扩展的，而不是一个科学实验项目，”他说道，“我们不仅对证明可行性感兴趣。我们希望确保它确实能够投入实战环境并发挥实际作用。”</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>资深记者，交通出行领域<br />肖恩·奥凯恩（Sean O’Kane）是一名拥有十年报道经验的记者，长期追踪交通行业快速演进的商业与技术，包括特斯拉以及追赶埃隆·马斯克的众多初创公司。在此之前，他是彭博新闻社（Bloomberg News）的记者，曾协助报道过数起臭名昭著的电动汽车SPAC退潮暴跌事件。他此前还曾在The Verge工作，报道消费电子技术，主持过多部短视频和长视频节目，从事产品与新闻摄影，并曾在一架红牛特技飞行赛飞机上险些晕厥。</p>
-<p>您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过 Signal 加密消息联系 okane.01，以联系肖恩或核实其外联信息。</p>
-<p>不要错过。初创企业社区将汇聚一堂，共同探讨一个核心问题：在AI时代，如何实现可持续发展？<br />苹果发布其首款折叠屏手机 iPhone Duo<br />纽约大学数学家称：OpenAI在具有重大生涯意义的数学难题上手段不光彩<br />一部揭秘伊丽莎白·霍姆斯（Elizabeth Holmes）的全新纪录片震撼特柳赖德电影节<br />TechCrunch Mobility：特斯拉Cybercab上路——并遭遇波折<br />徒步旅行者在使用谷歌Gemini规划路线后获救<br />美联邦监管部门对特斯拉Cybercab部署展开调查<br />特斯拉正在询问用户是否愿意购买并运营Cybercab车队</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>美国陆军向总部位于奥斯汀的初创公司 Tern 授予了一笔价值 1100 万美元的合同，用于部署其低成本 GPS 替代技术。</li>
-    <li>Tern 将其技术描述为“战场的谷歌地图”（Google Maps for the battlefield）。</li>
-    <li>来源叙事重点：聚焦初创公司 Tern 获得美国陆军 1100 万美元合同，突出其低成本、封闭式车载边缘计算定位技术对脆弱传统 GPS 的替代价值，并强调创始人退伍军人背景与技术实战导向。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-g-nec-v20-microcode-html-ea8b1816920f014c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1341" data-content-paragraphs="19" data-published-at="2026-09-10T10:44:09.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 18:44</span>
-</div>
-
-### [破译 NEC V20 微码](https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Decoding the NEC V20 Microcode</div>
-
-<div class="article-body" data-article-body="true"><p>reenigne 在 2020 年对 8088 微码的破译，为实现对 8088 CPU 的极高精度模拟打开了大门。</p>
-<p>尽管我之前在 MartyPC 中添加了对 NEC V20 的支持，但从 V20 的实际时序来看，该 V20 核心并非周期精确（cycle-accurate）的。它实质上是披着 V20 外皮的 8088——直接复制粘贴了我的 8088 核心，并额外附加了 V20 的指令。</p>
-<p>这并非理想状态，但在缺乏微码的情况下试图让 V20 核心达到周期精确，似乎注定是一场令人望而生畏、耗时费力的试错苦旅。</p>
-<p>既然如此，为什么不直接去获取微码呢？</p>
-<p>最近我委托 InfoSecDJ 拍摄了一枚 NEC V20 CPU 的芯片裸片（die）照片（实际上是由夏普代工的第二货源 V20，但归根结底仍然是 V20）。他的拍摄工作极为出色。</p>
-<p>这张拼接全景照片拥有极高的分辨率——确切地说是 56 亿像素（5.6 Gigapixels），达到了惊人的 70478x80672 分辨率——甚至大到了 JPEG 图像格式都无法容纳的地步！</p>
-<p>你可以在这里查看全分辨率的完整图像。</p>
-<p>芯片中心正下方的矩形区域就是主微码 ROM。</p>
-<p>这就是一次模型训练运行时的样子。</p>
-<p>如果你拥有支持 CUDA 的 GPU，训练会相当迅速——这仅仅花费了几分钟。</p>
-<p>其核心思路是，我们希望最大化准确率——但达到 1.0 可能并不可行，甚至可能不是件好事（存在一种名为“过拟合”的现象）。有时训练时间更长只会让结果变得更糟，因此当我们观察不到持续改善时，就会终止训练。</p>
-<p>训练的输出是一个神经网络模型——随后我们可以使用该模型对整个输入数据集运行推理。推理只是一个高大上的词汇，指应用我们的模型去实际执行训练它做的事情——预测给定的图像中包含的是 0 比特还是 1 比特。</p>
-<p>在继续之前，先作一个简短说明以避免潜在争议：从计算机科学的角度来看，卷积神经网络（CNN）宽泛地属于人工智能（AI）的范畴，但我们并没有使用现代具有争议语境下的“AI”（该语境通常指大型语言模型，即 LLM）。</p>
-<p>当我们运行一次推理时，会得到每个像素的置信度分数。我们可以利用这个置信度分数，根据某个特定的阈值（这里我使用了 &lt; 99%）标记出模型不太确信的比特。以下是第一次运行的结果，其中存疑的比特被标为了红色：</p>
-<p>我把所有存疑的比特挑选出来，手动重新归类到训练文件夹中，然后重新运行训练，反复重复这一过程，直到得到如下结果：</p>
-<p>这个效果相当不错——仅剩下 4 个比特存疑，与其再去训练一个新模型，直接手动核对这些比特要快得多。</p>
-<p>太棒了，我们获得了这 2.9 万个微码比特，并省下了数小时繁琐的手工劳动（代价是花了数小时用 Python 编写训练脚本，但至少该脚本是可以复用的！）。</p>
-<p>我们仍需要把这团矩形比特数据转换成由 29 位微码字组成的列表。换句话说，我们需要重新组织位图，直到其尺寸变为 29x1032，而不是现在的 258x116。具体该如何实现这一点并不显而易见，但我们可以先将其搁置一旁，待我们破译完相匹配的解码 PLA 后再来处理。</p>
-<p>解码或称“激活”PLA 位于主微码 ROM 块的上方，中间夹着一些过渡电路。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>reenigne在2020年解码了8088微代码，为8088 CPU的高精度仿真奠定了基础。</li>
-    <li>MartyPC作者此前添加了NEC V20支持，但其核心并未实现周期精确（cycle-accurate），实质是复制8088核心并附加V20指令。</li>
-    <li>来源叙事重点：记录通过高分辨率晶片显微摄影（Die Photography）结合自建CNN图像识别模型提取NEC V20 CPU内部微代码（Microcode ROM）的技术流程、迭代优化成果及后续PLA解码挑战</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-dence-rhode-island-mayor-ba25548f6743bcbe" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1428" data-content-paragraphs="20" data-published-at="2026-09-10T12:48:26.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:48</span>
-</div>
-
-### [获伯尼·桑德斯支持的民主社会主义者击败罗得岛州普罗维登斯市现任市长](https://www.foxnews.com/politics/democratic-socialist-backed-bernie-sanders-ousts-providence-rhode-island-mayor)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Democratic socialist backed by Bernie Sanders ousts Providence, Rhode Island mayor</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/david-morales-acceptance-speech-providence.jpg?ve=1&amp;tl=1" alt="获伯尼·桑德斯支持的民主社会主义者击败罗得岛州普罗维登斯市现任市长" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>罗得岛州众议员、现年27岁并获得佛蒙特州独立参议员伯尼·桑德斯（Bernie Sanders）支持的民主社会主义者戴维·莫拉莱斯（David Morales），在周三晚上的民主党初选中击败了普罗维登斯市长布雷特·斯迈利（Brett Smiley），使这位仅任职一届的现任市长下台。</p>
-<p>如果莫拉莱斯在普选中获胜，他将成为普罗维登斯历史上最年轻的市长。</p>
-<p>在以约8个百分点的优势（54%对46%）获胜后，莫拉莱斯在部分用西班牙语发表的胜选演说中表示：“很少有人相信一个27岁的民主社会主义者能够做到，很少有人相信我们能与大金主、企业房地产利益集团以及无休止的抹黑广告抗衡——但我们直面挑战，并且赢得了胜利。”</p>
-<p>现年47岁的斯迈利仅任职一届，他在去年12月处理布朗大学枪击事件时曾遭遇了最为严厉的媒体审查与质询。</p>
-<p>美国悄然展开的社会主义接管正在从市政厅蔓延至课堂</p>
-<p>“所以，邻居们，带着我们投票支持的宏大议程和选民授权，让我们做好准备吧。普罗维登斯，做好准备吧。”</p>
-<p>莫拉莱斯将在11月对阵77岁的共和党候选人戴夫·塔兰（Dave Talan）。共和党在普罗维登斯市议会中没有任何席位，而民主党则占据该市登记选民的绝大多数。2024年，前副总统卡玛拉·哈里斯在该市以51个百分点的优势击败了唐纳德·特朗普总统。</p>
-<p>“普罗维登斯的选民做出了选择，他们在民主党初选中选择了戴维·莫拉莱斯作为我们的下一任市长，”斯迈利在致电莫拉莱斯后发表的败选演说中表示，“尽管我对这一结果感到不悦，但我为我们所开展的竞选活动感到非常高兴和自豪。”</p>
-<p>当前局势：随着选票涌入，关于特朗普与华盛顿特区市长之间潜在社会主义对决需了解的事项</p>
-<p>莫拉莱斯还获得了加利福尼亚州民主党众议员罗·康纳（Ro Khanna）、前普罗维登斯市长豪尔赫·埃洛扎（Jorge Elorza）以及数个工会的支持。他以进步主义政纲展开竞选，内容包括限制租金上涨、扩大可负担住房以及向污染企业和大企业房东增税。</p>
-<p>莫拉莱斯说：“大约在整整一年前的今天，我们发起了一场竞选，核心是一个朴素的愿景：把普罗维登斯当作家园的劳动人民理应能够在此安居。一个朴素的愿景：我们的邻居配得上一位为他们奋斗的市长。”</p>
-<p>这场角逐是进步派挑战者与建制派现任官员之间一系列更广泛的民主党初选争夺战的一部分。莫拉莱斯试图利用民众对住房成本和市政府施政方向的沮丧情绪，而斯迈利则坚称自己的经验和政绩使他成为领导普罗维登斯的更佳人选。</p>
-<p>社会主义造反派在必争席位上迫使温和派民主党人陷入高风险对决</p>
-<p>“我们将以竞选时同样的方式执政——建立联盟，与我们的邻居并肩作战，”莫拉莱斯说。</p>
-<p>这场初选还突显了围绕租金稳定化的博弈。普罗维登斯市议会曾通过一项将某些公寓年租金涨幅限制在4%以内的措施，但斯迈利在4月份否决了该法案。今年5月，市议会以一票之差未能推翻这一否决。</p>
-<p>随着租金成本飙升至历史新高，马姆达尼的可负担性革命陷入停滞</p>
-<p>“当劳动人民因高昂成本被挤出他们所热爱的城市时，我们就必须把每年的租金涨幅限制在4%以内，”莫拉莱斯说。</p>
-<p>“我们将住房正义摆上了选票。”</p>
-<p>莫拉莱斯还坚定主张让普罗维登斯成为非法移民的庇护城市，并反对特朗普政府执行美国移民法的举措。</p>
-<p>身为墨西哥移民母亲之子的莫拉莱斯表示：“普罗维登斯市必须动用我们所能支配的一切工具来捍卫我们的移民社区，保护我们免受法西斯主义的移民与海关执法局（ICE）特工的侵害。”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 20:48 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/politics/democratic-socialist-backed-bernie-sanders-ousts-providence-rhode-island-mayor" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-llions-is-your-town-next-2a59e3e6bbb9bbd2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3433" data-content-paragraphs="34" data-published-at="2026-09-10T12:41:50.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:41</span>
+  <span class="news-meta-time">🕒 2026-09-10 22:04</span>
 </div>
 
-### [水上浮顶光伏可为城市节省数百万美元，下一个会是你的城镇吗？](https://www.foxnews.com/tech/floating-solar-panels-could-save-cities-millions-is-your-town-next)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Floating solar panels could save cities millions. Is your town next?</div>
+### [渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评](https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml)
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/floating-solar-panels-1.jpg?ve=1&amp;tl=1" alt="水上浮顶光伏可为城市节省数百万美元，下一个会是你的城镇吗？" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>如果你的城镇可以在不牺牲数英亩宝贵土地的情况下建造一座太阳能农场，那会怎样？俄亥俄州利马市正在尝试一种不同的方式。该市已建成一个2兆瓦的太阳能光伏阵列，浮在其主要饮用水水源地双湖水库（Twin Lakes Reservoir）上。</p>
-<p>目前，已有3000多块太阳能电池板漂浮在水面上，并为附近的水处理厂供电。该市预计，在其整个使用寿命期内，该系统将节省近1000万美元的电费。这种节约幅度可能会引起远超俄亥俄州范围的其他城市的关注。</p>
-<p>那么，浮顶太阳能电池板最终会出现在你附近的水库中吗？以下是该技术的工作原理、城市对其产生兴趣的原因，以及它对你的社区可能意味着什么。</p>
-<p>错过了 CyberGuy 直播？观看“守护您的财富”重播</p>
-<p>我们的免费 CyberGuy 直播课程《守护您的财富免受当今最大威胁》已经结束，但您仍然可以观看完整回放并下载我们的财务保护清单。库尔特·“CyberGuy”·克努特松（Kurt &quot;CyberGuy&quot; Knutsson）将向您介绍五种简单的方法，帮助您防御人工智能诈骗、欺诈、身份盗窃和金融黑客攻击。您将学习如何设置银行警报、加强账户登录凭证、保护手机号码、冻结信用额度，并帮助保护您的退休储蓄免遭未经授权的转账。无需任何技术背景经验。</p>
-<p>立即在 CyberGuyLive.com 获取免费回放和清单</p>
-<p>谁在为美国电力繁荣买单？在人工智能热潮下，蓝州与红州提供截然不同的降低公用事业费用方案</p>
-<p>利马市于8月12日正式庆祝其双湖水面浮顶光伏项目的竣工。据开发商 D3Energy 称，最终系统包括分布在约3.6英亩水面上的3120块太阳能电池板。这个2兆瓦的阵列坐落在利马的主要饮用水水库上，该水库为大约3.5万名居民提供水源。</p>
-<p>紧挨着该水库的城市水处理厂每天处理约1400万加仑水。它消耗的电力也超过该市任何其他设施。这使得该水厂成为寻求节能改造的显而易见的目标。利马市预计，浮顶太阳能系统在其使用寿命内将节省近1000万美元的电力成本。该市早先的估算认为第一年可节省约20万美元。对于一家城市公用事业单位而言，这是一笔巨额资金。实际的全生命周期节省金额将取决于未来的电价以及该系统长期的运行表现等因素。</p>
-<p>工程师们没有将电池板安装在立于地面的支架上，而是将它们安装在浮动平台上。锚固件和系泊绳缆将整个阵列保持在原位。</p>
-<p>利马采用的是 Ciel &amp; Terre 公司的 Hydrelio 浮动系统。其锚泊装置与岸边和水库底部相连。该设计还允许阵列随着水位的升降而移动。该项目采用了双面太阳能电池板，两面都能吸收光线。</p>
-<p>电力从光伏阵列输送到陆上的八台逆变器。从那里，电力为水处理厂提供动力。其结果看起来有点像把草地换成了水面的传统太阳能农场。</p>
-<p>这正是这个构想变得尤为吸引人的地方。土地需要成本，而且它还会与住宅、商业、农业和其他开发项目争夺空间。水库本身已经占据了空间。利马的水上浮顶阵列覆盖了约四英亩水面。</p>
-<p>据报道，生产同等电量的地面光伏系统至少需要10英亩土地。这使得浮顶太阳能对开放空间有限的城市颇具吸引力。这些电池板还可以直接安装在需要电力的设施附近。在利马，水处理厂就坐落在水库旁边。这减少了寻找偏远太阳能选址然后再想办法把电力输送到城市所需地点的麻烦。</p>
-<p>研究人员还研究了浮顶太阳能是否能通过遮蔽部分水面来帮助减少蒸发。当然，每个水库的情况各不相同。水深、水位变化和娱乐用途都会影响项目是否可行。联邦研究人员在评估潜在选址时，还会考虑现有的水坝运营情况。</p>
-<p>议员们在新众议院法案中通过彻底的许可制度改革瞄准能源可负担性</p>
-<p>这是我最初产生的疑问之一：这些电池板漂浮在为大约3.5万人提供饮用水的同一水库上。利马的系统采用了由高密度聚乙烯（HDPE）制成的 Ciel &amp; Terre Hydrelio 浮筒。</p>
-<p>Ciel &amp; Terre 表示，其浮动系统符合 BS 6920:2000 标准，该标准适用于接触人类生活饮用水的非金属材料。尽管如此，考虑采用浮顶太阳能的社区需要评估的，远不止于该结构是否能安全漂浮。</p>
-<p>美国国家可再生能源实验室（National Renewable Energy Laboratory）已经研究了围绕浮顶太阳能的环境和监管问题。其研究指出，由于地点不同，项目对水体的影响也会有所不同。这意味着在一个水库上表现良好的系统，在另一个地方可能需要采用不同的设计。</p>
-<p>还有一个值得注意的数字。利马项目的成本约为530万美元。联邦政府的资金支持在促成这笔收支平衡方面发挥了实质性作用。该市获得了能源部240万美元的拨款。加上近90万美元的联邦直接支付税收抵免，这些支持帮助抵消了该项目大约一半的成本。</p>
-<p>这些激励措施涵盖了很大一部分前期开支。当另一个城市审视利马预计节省1000万美元这一数据时，了解这一背景至关重要。一个考虑建造浮顶太阳能的城镇，需要全面审视建设成本、融资方式以及预期的发电量。可获得的政策激励措施也可能会改变这一财务测算。</p>
-<p>在施工人员将电池板安装到水面上之前数年，利马市就已经开始论证该项目。市议会于2023年批准推进该项目。施工于2025年开始，随后系统于今年8月正式并网发电。</p>
-<p>利马的做法如今看来可能有些与众不同，但浮顶太阳能拥有巨大的增长空间。俄亥俄州已拥有不止一个此类项目。D3Energy 和 ARP Solar 于2024年在俄亥俄州特拉华县为 Del-Co Water 完成了一个1.5兆瓦的浮顶阵列。位于门罗维尔的一个6兆瓦系统预计将在2026年底前上线投运。</p>
-<p>更大的机遇远远超出了俄亥俄州的范围。美国国家可再生能源实验室的研究人员对全美由联邦政府所有或监管的水库进行了研究。他们估计，这些水库具备861至1042吉瓦浮顶太阳能装机容量的技术潜力。</p>
-<p>该数据代表的是技术潜力，并非预言成千上万座水库很快就会被遮蔽在太阳能电池板之下。许多地点可能永远都不适合建设。</p>
-<p>尽管如此，这种规模有助于解释为什么能源开发商和地方政府正更加密切地关注水域。CyberGuy此前曾报道过更大规模的相关构想。印度的奥姆卡雷什瓦尔（Omkareshwar）项目展示了漂浮式太阳能装置的规模能变得多么庞大。我们还看到开发商在重新思考陆地太阳能装置的外形设计。一家德克萨斯州的公司正在建造垂直太阳能塔，旨在利用更小的占地面积生产更多的电力。</p>
-<p>美国破碎的许可制度正在悄然推高你的生活成本</p>
-<p>这正是我会密切关注的部分。利马预计在该项目的整个生命周期内将节省近1000万美元的电力成本。但这并不意味着居民的水费账单会立刻变得便宜。该市可能会以不同方式使用这些节省下来的资金。更低的能源成本有助于弥补其他支出、支付基础设施升级费用，或缓解未来费率上涨的压力。</p>
-<p>因此，如果浮动太阳能项目来到你的城镇，有一个问题值得提出：这些节省下来的费用最终会有任何一部分返还给你吗？这个答案可以决定这项技术究竟在多大程度上真正帮助了那些支付账单的人。</p>
-<p>你可能不会花太多时间去思考当地的水厂消耗了多少电力。然而，你最终都在通过税收、公共事业费率或两者兼有的方式为这些电力买单。浮动太阳能为城市提供了另一种削减该项支出的途径，且无需购买大片土地。</p>
-<p>它也引出了一些你在为项目欢呼之前应该提出的问题。这需要耗资多少？它实际上能发电多少？节省下来的资金将作何用途？你还应该询问将通过何种测试和监测来保护供水安全。这些答案将告诉你浮动太阳能项目对你的社区而言是否具有经济合理性。</p>
-<p>利马浮动太阳能项目令我赞赏之处在于其构想的务实性。该市本就拥有该水库，且紧邻的水处理厂消耗着巨大的电量。因此，利马没有另寻土地安装太阳能电池板，而是将它们置于水面之上。此外还有预计节省的1000万美元。这无疑引起了我的注意。我想看看这些节省的开支能否经得起时间的检验，更重要的是，居民最终能否从中受益。利马也为其他城市提供了一个切实可参考的范例。我们看到各个社区正在尝试生成和存储能源的新途径，从浮动太阳能到大型电池项目。谁知道呢？你所在城镇的下一个太阳能项目说不定就会直接漂浮在水面上。</p>
-<p>如果官员表示该项目可以节省数百万美元，你会对漂浮在城镇饮用水水库上的数千块太阳能电池板感到放心吗？还是说你需要先看到更多长期证据？欢迎写信至Cyberguy.com告诉我们。</p>
-<p>版权所有 2026 CyberGuy.com。保留所有权利。</p></div>
+<div class="article-body" data-article-body="true"><p>中新社罗马9月10日电 题：渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评</p>
+<p>联合国粮农组织渔业委员会第37届会议正在位于意大利罗马的粮农组织总部举行。在会议期间，中方推介渔业可持续发展的“中国方案”，受到与会者的广泛关注和好评。</p>
+<p>中方与粮农组织8日共同举办水产养殖边会，分享中国可持续渔业发展理念与实践，介绍中国水产养殖对全球渔业可持续发展的贡献，推动落实粮农组织《可持续水产养殖业准则》，深化国际合作。中方代表在边会上表示，近年来中国积极响应粮农组织“手拉手”倡议，深度参与水产养殖南南合作，帮助发展中国家创新水产养殖业。为推动可持续水产养殖，中国将继续深化同粮农组织的相关合作；共享实用技术；扩大人才培训；支持产业发展。</p>
+<p>印度、新西兰、南非、突尼斯、塞拉利昂等多个重要水产养殖国家代表，以及亚太水产养殖中心网(NACA)等重要国际组织代表受邀参加边会并作专题报告。会后，多位报告人接受中新社记者采访，对中方作用予以积极评价。</p>
+<p>NACA总干事莱亚尼奥对中新社记者表示，长期以来NACA一直在推动中国与亚太区域内其他国家在渔业可持续发展方面的合作，并欢迎中国发挥积极作用，带动整个地区的水产养殖业向前发展。</p>
+<p>莱亚尼奥说，亚太地区的水产养殖已取得了长足进步，并在世界范围内处于领先地位。但区域内一些国家，在发展水产养殖业方面仍需要其他国家的支持，中国在这方面发挥建设性作用，NACA凭借中国帮助制定相关合作计划并付诸实施，如将正在研发的新技术转移给NACA成员国等。他表示，中国在渔业方面的技术比较先进，在水产养殖方面取得了不少创新成果，可以帮助相关国家进一步发展渔业产业，助力渔业可持续发展，实现“共赢”。</p>
+<p>南非林业、渔业与环境部代理副总司长塞莫利告诉中新社记者，南非和中国围绕渔业技术发展和能力建设已展开了相关合作，这种合作是建立在两国牢固的友谊和相互信任基础上的。他透露，两国在相关领域技术交流和技术转移等方面也取得了一些进展。</p>
+<p>塞拉利昂全球蓝色经济粮食安全与生计项目协调员博卡里在边会上分享了塞方和非方视角如何看待渔业可持续发展问题。他对中新社记者说，渔业可持续发展的“中国方案”契合塞拉利昂的发展，并持续造福塞拉利昂人民。</p>
+<p>博卡里认为，中国在水产养殖方面的创新成果具有很高的参考价值，并且非常实用。有关创新也被视为激励年轻人投身科研的动力，特别是在提升渔业生产规模化方面。他也希望更多非洲相关领域研究者到中国实地考察，学习中国经验。(完)</p>
+<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
+<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
+<p>2026年国家基本医保药品目录预计于11月发布</p>
+<p>中国疾控中心提示：9月重点防范这几类传染病</p>
+<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
+<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
+<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
+<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
+<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
+<p>中外学生Citywalk北京西城 街巷间开启“开学第一课”</p>
+<p>香港新赛马季开锣 赛驹“嘉应高升”再创新纪录</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
+<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
+<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 20:41 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 22:04 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/tech/floating-solar-panels-could-save-cities-millions-is-your-town-next" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10694303.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-fic-game-troubling-trend-14a22249b138cf5d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1127" data-content-paragraphs="1" data-published-at="2026-09-10T12:41:11.000Z" data-time-source="publication">
+<div id="story-026-09-10-10694300-shtml-ad0e58ecf34e11b1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="736" data-content-paragraphs="22" data-published-at="2026-09-10T14:03:54.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:41</span>
+  <span class="news-meta-time">🕒 2026-09-10 22:03</span>
 </div>
 
-### [表现灾难且趋势堪忧，德雷克·梅耶赛后遭NFL球迷口诛笔伐](https://www.foxnews.com/outkick-sports/drake-maye-dragged-through-mud-nfl-fans-horrific-game-troubling-trend)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Drake Maye gets dragged through the mud by NFL fans after horrific game, troubling trend</div>
+### [阿尔及利亚宣布与阿联酋断交](https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml)
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/devon-witherspoon-drake-maye-seahawks-patriots.jpg?ve=1&amp;tl=1" alt="表现灾难且趋势堪忧，德雷克·梅耶赛后遭NFL球迷口诛笔伐" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>事情变得越多，就越是一成不变。<br />对德雷克·梅耶来说，这可不是什么好事。<br />在周三晚上的NFL揭幕战中，新英格兰爱国者队痛失10分领先优势，输给了德鲁·洛克带领的西雅图海鹰队，而他们的明星四分卫再次成了球队的隐患。<br />德雷克·梅耶的糟糕决断将揭幕战胜利拱手送给海鹰队，爱国者队新赛季惨遭当头棒喝<br />梅耶在上赛季季后赛四场比赛中出现了8次失误，而在周三晚上，他又送出了3次被抄截，其中包括最后彻底压垮新英格兰队的一记堪称史上最离谱的被抄截传球。<br />天哪。我已经回放了十来遍，每次点击播放都觉得惨不忍睹。无论从哪个角度看，这都极其糟糕。<br />顺便说一句，任何看了比赛的人都能隐隐感觉到这一幕的到来。梅耶整晚都无法连线纵深传球，几乎所有的成功传球都发生在开球线附近。<br />新英格兰队的战术安排简单得令人震惊：硬生生让拉蒙德雷·史蒂文森持球冲锋18次，平均每次冲球仅推进2.7码，然后再传球给……平飞区的拉蒙德雷·史蒂文森……推进3码。<br />《克雷格·卡顿秀》（THE CRAIG CARTON SHOW）——真实不遮掩、毫无妥协、不容错过。立即下载他的每日播客！<br />这对橄榄球迷来说已经成了司空见惯的场景，甚至可以追溯到上赛季饱受质疑的季后赛之旅——而此前常规赛的含金量同样存疑，因为爱国者队当时的赛程难度是全联盟最低之一。<br />如今已是梅耶征战的第3年，显而易见，球迷们开始注意到了这种趋势：<br />我还可以继续举例。当你打出如此稀烂的表现时，NFL推特圈就会变成人间地狱。更糟糕的是，这还是赛季揭幕战，球迷们积攒了长达八个月的锐评亟待宣泄。<br />我完全理解。这正是这项运动之所以成为世界顶级运动的原因。波士顿球迷深爱着他们的四分卫。三年来他们一直渴望德雷克·梅耶能够成为汤姆·布雷迪的接班人。哪怕到最后一刻他们也会为他辩护。<br />但昨晚的表现实在让人无从洗白。<br />在15码以上的长传中，梅耶6投仅1中，且被抄截3次。作为一名NFL四分卫，打出这样的数据简直匪夷所思——更何况还有球迷曾坚称他上赛季本该击败马特·斯塔福德夺得常规赛MVP。<br />爱国者队的进攻始终找不到节奏。第二节一次跳蚤骗局传球战术中，梅耶严重欠力传给A.J.布朗（布朗随后受伤）——而球队在第四节不知怎么搞的，竟然把10-0的领先优势拱手送给了德鲁·洛克。<br />互联网早就磨刀霍霍准备开喷，而梅耶直接给他们送上了一记正中红心的大好把柄。<br />显然，这不过是一场比赛而已。顺便说一句，赛季首战总是诡异莫测。这个周末还会发生许多你在赛季其余时间绝不会见到的怪事。相信我。<br />但是，与上赛季不同的是，梅耶和爱国者队接下来的赛程丝毫不见轻松。在未来三周内，他们将先后对阵钢人队、美洲虎队和比尔队。<br />梅耶大概率会挺过去的。<br />但这背后的苗头绝对值得持续关注。</p></div>
+<div class="article-body" data-article-body="true"><p>中新社北京9月10日电 阿尔及尔消息：据阿尔及利亚国家电视台10日报道，阿尔及利亚外交部当天表示，阿尔及利亚决定即日起与阿联酋断绝外交关系。</p>
+<p>综合媒体报道，阿尔及利亚此举原因尚不清楚。阿尔及利亚国家电视台称，在“竭尽一切努力维护双边关系”之后，阿尔及利亚决定与阿联酋断绝外交关系。</p>
+<p>据报道，阿尔及利亚媒体曾强烈批评阿联酋，指责其试图挑起地区不和。阿尔及利亚总统特本去年表示，阿尔及利亚与所有海湾国家的关系都很友好，唯独一个国家例外。他“不点名”指责该国干涉阿尔及利亚内政，试图破坏阿尔及利亚的稳定。</p>
+<p>路透社称，阿联酋外交部尚未回复寻求置评的电子邮件。(完)</p>
+<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
+<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
+<p>2026年国家基本医保药品目录预计于11月发布</p>
+<p>中国疾控中心提示：9月重点防范这几类传染病</p>
+<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
+<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
+<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
+<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
+<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
+<p>中外学生Citywalk北京西城 街巷间开启“开学第一课”</p>
+<p>香港新赛马季开锣 赛驹“嘉应高升”再创新纪录</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
+<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
+<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 20:41 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 22:03 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/drake-maye-dragged-through-mud-nfl-fans-horrific-game-troubling-trend" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10694300.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--report-august-2026-html-f1443f876ee8f8de" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="634" data-content-paragraphs="13" data-published-at="2026-09-10T12:46:23.000Z" data-time-source="publication">
+<div id="story-026-09-10-10694298-shtml-3f11451884a313e9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="935" data-content-paragraphs="24" data-published-at="2026-09-10T14:03:20.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Economy (CNBC 宏观经济)" width="16" height="16" /> <strong>CNBC Economy (CNBC 宏观经济)</strong></span>
-    <span class="stance-badge">国际资本与华尔街视角</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:46</span>
+  <span class="news-meta-time">🕒 2026-09-10 22:03</span>
 </div>
 
-### [美国8月批发物价环比上涨0.4%，符合预期](https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Wholesale prices rose 0.4% in August, as expected</div>
+### [泰国批准55个项目推动企业应用人工智能和自动化](https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml)
 
-<div class="article-body" data-article-body="true"><p>周四公布的一份报告显示，美国8月批发物价出现上涨，这一数据可能在美联储即将作出的利率决议中发挥关键作用。</p>
-<p>美国劳工统计局周四公布，衡量商品和服务最终需求成本的生产者价格指数（PPI）当月经季节性调整后环比上涨0.4%，符合道琼斯调查的经济学家共识预期。</p>
-<p>按年率计算，8月PPI同比上涨5.4%，仍远高于美联储2%的通胀目标，且比预期高出0.1个百分点。7月份PPI环比上涨0.1%，较最初预估的持平略有上调。</p>
-<p>剔除食品和能源后，核心PPI环比上涨0.2%，低于市场预期的0.3%涨幅。剔除食品、能源和贸易服务（另一高波动类别）的核心指标环比上涨0.3%。</p>
-<p>该报告发布后，股指期货走低，同时恰逢美国原油价格突破每桶100美元。美国国债收益率大幅走高。</p>
-<p>特别是能源价格以及整体商品价格是促成绝大部分涨幅的主因。最终需求能源价格上涨4.2%，主要受柴油暴涨推动，后者飙升了24.1%。商品价格总体上涨1.1%。</p>
-<p>服务业价格仅上涨0.1%，其中运输与仓储价格上涨2.3%，构成了该涨幅的绝大部分。</p>
-<p>投资组合管理费用（PPI计算中受到密切关注的一项指标）当月下降1.6%，但仍较去年同期上涨18.8%。</p>
-<p>这是一则快讯，请刷新页面以获取更新。</p>
-<p>有独家新闻线索？欢迎与我们联系。</p>
-<p>将此类资讯直接发送至您的收件箱，并获取有关我们产品和服务的更多信息。</p>
-<p>数据为实时快照 *数据至少延迟15分钟。全球商业与金融新闻、股票行情及市场数据与分析。</p>
-<p>数据亦由以下机构提供</p></div>
+<div class="article-body" data-article-body="true"><p>中新社曼谷9月10日电 (记者 李映民)泰国总理府副发言人拉丽达10日向媒体透露，国家竞争力提升基金委员会已批准55个项目，以支持企业推进技术升级、数字化转型和技能人才培养，其中包括利用人工智能、自动化等技术提升企业生产效率。</p>
+<p>此次获批的55个项目包括48个企业转型项目和7个技能提升项目。48个企业转型项目总投资额约35.4亿泰铢，政府提供约16.63亿泰铢支持资金，重点涉及研发、数字技术、自动化、人工智能以及绿色产业等领域。</p>
+<p>此外，7个技能提升项目获得约3.07亿泰铢支持资金，计划培养约1万名产业技能人才，以满足企业技术升级过程中对专业人才的需求。</p>
+<p>拉丽达表示，此次支持计划旨在推动企业提高生产效率和竞争力，促进新技术在产业领域的应用，同时推动企业向高附加值、数字化和绿色化方向转型。</p>
+<p>国家竞争力提升基金目前已支持108个项目，累计提供约48.25亿泰铢资金支持。相关项目涵盖企业技术升级、研发创新以及人才培养等领域。</p>
+<p>拉丽达表示，近年来泰国持续推动数字经济和先进制造业发展，并将人工智能、自动化及绿色技术作为提升产业竞争力的重要方向。(完)</p>
+<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
+<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
+<p>2026年国家基本医保药品目录预计于11月发布</p>
+<p>中国疾控中心提示：9月重点防范这几类传染病</p>
+<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
+<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
+<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
+<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
+<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
+<p>中外学生Citywalk北京西城 街巷间开启“开学第一课”</p>
+<p>香港新赛马季开锣 赛驹“嘉应高升”再创新纪录</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
+<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
+<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【CNBC Economy (CNBC 宏观经济)】于 2026-09-10 20:46 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-10 22:03 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
-  <span class="news-tag-pill">#CNBC</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Economy (CNBC 宏观经济)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-10/10694298.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ances-citing-fcc-threats-b3c8c29193989a62" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2007" data-content-paragraphs="26" data-published-at="2026-09-10T14:03:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 22:03</span>
+</div>
+
+### [吉米·坎摩尔透露其将在“不寻常的情况下”采访詹姆斯·塔拉里科，理由是面临FCC的威胁](https://www.foxnews.com/media/kimmel-reveals-interviewing-james-talarico-unusual-circumstances-citing-fcc-threats)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Kimmel reveals he&#39;s interviewing James Talarico under &#39;unusual circumstances,&#39; citing FCC threats</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/KIMMEL-TALARICO.jpg?ve=1&amp;tl=1" alt="吉米·坎摩尔透露其将在“不寻常的情况下”采访詹姆斯·塔拉里科，理由是面临FCC的威胁" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>深夜秀主持人吉米·坎摩尔（Jimmy Kimmel）周三透露，他将在周四“不寻常的情况下”采访得克萨斯州参议员候选人詹姆斯·塔拉里科（James Talarico）。</p>
+<p>“明晚，我将采访詹姆斯·塔拉里科——就在明晚，在不寻常的情况下，”坎摩尔说，“你们知道，这么多年来，事实上在我们节目开播至今20多年的时间里，我一直在采访竞选公职的美国人，从来没有任何问题，就像莱特曼（Letterman）、莱诺（Leno）、阿塞尼奥（Arsenio）等人所做的那样。我采访过很多政治候选人，从希拉里·克林顿到特德·克鲁兹，再到唐纳德·特朗普本人。”</p>
+<p>坎摩尔特别提到了他在2015年和2016年对唐纳德·特朗普总统的采访。</p>
+<p>【吉米·坎摩尔结束漫长休假回归，向联邦通信委员会主席布伦丹·卡尔发出挑衅讯息】</p>
+<p>“现在他当上了总统，他的联邦通信委员会（FCC）威胁了我，威胁了我们的节目，威胁了我们的电视网ABC、我们的加盟台和地方台，依据仅仅是传统的普通编辑决策，似乎只因为他们不喜欢邀请的嘉宾。因此，出于对我们地方台的考虑，特别是对那些必须应付这种荒唐事的ABC得州加盟台的考虑，我明天对詹姆斯·塔拉里科的采访将不会在电视上播出。它将改在YouTube上发布。它不会上电视。所以，如果你明天想了解这位参议员候选人，你就得去‘吉米·坎摩尔直播秀’（Jimmy Kimmel Live）的YouTube频道，明晚你可以在那里看到完整的采访，”坎摩尔说道。</p>
+<p>他补充道：“谢天谢地我们还有这个渠道，因为在我们现在生活的这个美国，这已经是我们能做到的最好了。当然，直到11月为止。顺便提醒一句，大家一定要去登记投票，因为那是你能做的最重要的事情。”</p>
+<p>【科尔伯特猛烈抨击CBS，称节目被取消‘坐实了向特朗普屈膝下跪的说辞’】</p>
+<p>这一情况让人联想到前深夜秀主持人斯蒂芬·科尔伯特（Stephen Colbert）在得州参议院初选前对塔拉里科的采访，当时塔拉里科正在与得州众议员贾丝明·克罗克特（Jasmine Crockett）竞争。</p>
+<p>科尔伯特的节目现已被取消，该节目当时并未播出对塔拉里科的采访，仅在2月份将其发布到了节目的YouTube频道上。科尔伯特当时宣布，哥伦比亚广播公司（CBS）阻止了他们播出该采访。</p>
+<p>【保守派监督机构向FCC告发称《观点》（The View）是民主党的一项运作，而非新闻节目】</p>
+<p>“《晚间秀》（THE LATE SHOW）并未被CBS禁止播放对联邦众议员詹姆斯·塔拉里科的采访，”该电视网当时告诉福克斯新闻数字频道（Fox News Digital）。</p>
+<p>声明继续写道：“节目组获得了法律指导，获悉播出该内容可能会触发FCC针对另外两名候选人（包括联邦众议员贾丝明·克罗克特）的‘等额时间规则’，并给出了如何满足为其他候选人提供等额时间的方案。《晚间秀》最终决定通过其YouTube频道发布采访，并在电视广播中进行播出推介，而不是去承担提供等额时间方案的可能。”</p>
+<p>【戴维·马库斯：克罗克特在得州的背水一战将如何拉垮塔拉里科】</p>
+<p>最终在参议院初选中输给塔拉里科的克罗克特指责了CBS和科尔伯特的节目。</p>
+<p>“我们实际上接到了一个电话，就在今天早些时候，在电话中他们解释说，他们实际上告诉CBS可以继续推进对詹姆斯·塔拉里科的采访，他们只需要为我提供同等时间即可，”克罗克特在2月接受MS NOW主持人珍·普萨基（Jen Psaki）采访时说，“我根本没有收到科尔伯特节目邀请我参加的请求。”</p>
+<p>“因此，本来有很多选项可以摆上桌面，坦率地说，《晚间秀》决定采取这种方案，我认为这是一个不错的策略，”她说。</p>
+<p>这位议员甚至暗示，这场争议可能反而帮了塔拉里科的竞选活动。</p>
+<p>【惊人民调：塔拉里科在得州参议员竞选中打平帕克斯顿，威胁共和党大本营】</p>
+<p>“我认为这很可能给了我的对手他所寻求的推动力。所以我觉得他没能上电视、直接转为网络流媒体播出反而更好，因为我们知道，当我们反抗时，当我们看到他们似乎试图改变规则并向这位总统屈膝下跪时，结果往往会以历史性的方式适得其反，”她说。</p>
+<p>坎摩尔在夏季休假结束后的第一期节目中也提到了FCC的威胁，并直接点名了FCC主席布伦丹·卡尔（Brendan Carr）。</p>
+<p>【迪士尼就‘针对ABC的报复性行动’起诉FCC，寻求阻止提前牌照续期程序】</p>
+<p>“我们已经做了4000期这样的节目。这很多了，”坎摩尔说，“而在白宫看来，这太多了。”</p>
+<p>“曾经有人说我们绝不可能撑这么久。甚至有人利用FCC的监管权力，以违宪的方式试图确保我们撑不了这么久。但我们历经艰难走过来了，布伦丹。我们依然站在这里，”坎摩尔说。</p>
+<p>【点击此处查看更多媒体与文化报道】</p>
+<p>坎摩尔指的是他的节目曾遭短暂停播，以及2025年与卡尔持续不断的冲突。</p>
+<p>FCC和迪士尼并未立即回复福克斯新闻数字频道的置评请求。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-10 22:03 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/media/kimmel-reveals-interviewing-james-talarico-unusual-circumstances-citing-fcc-threats" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-hits-black-sea-port-html-3eb121ca27901d07" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1358" data-content-paragraphs="13" data-published-at="2026-09-10T14:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 22:00</span>
+</div>
+
+### [俄罗斯袭击摩尔多瓦边境，乌克兰打击黑海港口](https://oilprice.com/Geopolitics/Europe/Russia-Strikes-Moldova-Border-as-Ukraine-Hits-Black-Sea-Port.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Russia Strikes Moldova Border as Ukraine Hits Black Sea Port</div>
+
+<div class="article-body" data-article-body="true"><p>俄罗斯发动无人机袭击瞄准了乌克兰与摩尔多瓦之间的一处边境过境点，造成两人死亡、三人受伤，同时俄罗斯无人机还袭击了基辅；目前莫斯科仍在继续其对乌克兰全境近乎持续不断的打击行动。乌克兰国家边防局报告称，俄罗斯于9月9日对乌克兰敖德萨州的斯塔罗卡扎切—图多拉（Starokazache–Tudora）边境过境点发动袭击，损毁了检查站基础设施、车辆及建筑物，引发大火，并迫使16人疏散。</p>
+<p>摩尔多瓦当局谴责了此次袭击，摩尔多瓦总统玛雅·桑杜警告称，俄罗斯的袭击对摩尔多瓦构成了日益严重的威胁。她在X平台上发文写道：“俄罗斯的前线正进一步向西推移——这也是乌克兰迫切需要防空系统的原因。”桑杜表示，该边境过境点在袭击发生后已被关闭。</p>
+<p>“夜间，俄罗斯无人机袭击了我们与乌克兰边境上的图多拉—斯塔罗卡扎切过境点。两名平民丧生，三人受伤。该过境点目前已关闭。”——玛雅·桑杜（sandumaiamd），2026年9月9日</p>
+<p>此次打击发生的前一天，一架俄罗斯无人机进入摩尔多瓦领空，促使当局暂时叫停航班，并延误了乌克兰总统弗拉基米尔·泽连斯基启程前往挪威的行程。挪威首相约纳斯·加尔·斯特勒随后表示，泽连斯基的专机在离开摩尔多瓦时“险些被无人机击中”。但乌克兰总统府知情人士称泽连斯基身处险境的说法“言过其实”，而摩尔多瓦当局则表示，他们在探测到一架俄罗斯无人机后暂时关闭了国家空域，导致包括泽连斯基专机在内的数架航班延误。在限制解除后，他的专机获准起飞。</p>
+<p>摩尔多瓦总理瓦西里·托凡在Facebook发文指出，克里姆林宫对乌克兰的战争“也正日益危及我们公民的生命”。</p>
+<p>据基辅当局称，在针对乌克兰首都的袭击中，俄罗斯无人机造成一人死亡、17人受伤。一架无人机击中了一栋24层的居民楼，引发火灾。莫斯科使用攻击型无人机、导弹和制导航空炸弹，对乌克兰全境的城市和民用基础设施发动了几乎每日不断的袭击，凸显出其尽管承受了惊人的伤亡，仍意图推进这场针对乌克兰长达近4年半的全面战争。</p>
+<p>乌克兰打击俄罗斯新罗西斯克</p>
+<p>乌克兰当局于9月9日报告称，乌克兰在夜间针对俄罗斯黑海港口新罗西斯克进行了打击。乌克兰总统弗拉基米尔·泽连斯基表示：“一处海军基地被击中，包括一个用于装载石油的码头、军港设施以及搭载‘口径’导弹的军舰，”他补充称，乌克兰正在对“俄罗斯每日的恐怖主义袭击”作出有效回应。</p>
+<p>俄罗斯当局证实了乌克兰对新罗西斯克的无人机袭击。克拉斯诺达尔边疆区行政长官韦尼亚明·孔德拉季耶夫表示，袭击造成包括一名儿童在内的四人死亡。</p>
+<p>俄罗斯国防部9月9日表示，其部队在夜间击落了596架乌克兰无人机。就在前一天，俄罗斯总统弗拉基米尔·普京与美国总统唐纳德·特朗普通了电话，克里姆林宫称这次通话“具有建设性且相当坦诚”。</p>
+<p>这些袭击发生前，美国特使史蒂夫·威特科夫和贾里德·库什纳曾访问基辅，与总统弗拉基米尔·泽连斯基及其他官员举行会谈；在此之前，他们已在莫斯科会晤了总统弗拉基米尔·普京。</p>
+<p>与此同时，泽连斯基在结束对挪威的访问后于9月9日深夜抵达加拿大。在挪威期间，他出席了国王哈拉尔五世的葬礼，并就防空支援举行了会谈。加拿大总理马克·卡尼的办公室表示，泽连斯基对加拿大的访问预计将聚焦于国防、经济和能源合作。</p>
+<p>（自由欧洲电台/自由电台）</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-10 22:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#OilPrice</span>
+</div>
+
+<div class="news-card-footer"><a href="https://oilprice.com/Geopolitics/Europe/Russia-Strikes-Moldova-Border-as-Ukraine-Hits-Black-Sea-Port.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-muz-crisis-drags-on-html-a629d9258a43d13e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="714" data-content-paragraphs="3" data-published-at="2026-09-10T13:30:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 21:30</span>
+</div>
+
+### [霍尔木兹危机持续蔓延 汇丰将2026年布伦特原油预期上调至90美元](https://oilprice.com/Latest-Energy-News/World-News/HSBC-Raises-2026-Brent-Forecast-to-90-as-Hormuz-Crisis-Drags-On.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> HSBC Raises 2026 Brent Forecast to $90 as Hormuz Crisis Drags On</div>
+
+<div class="article-body" data-article-body="true"><p>由于霍尔木兹海峡危机正在导致市场供应收紧，且目前看不到明确的局势降级途径，汇丰银行（HSBC）已将其对2026年布伦特原油的价格预期从每桶80美元上调至90美元。据《华尔街日报》报道，汇丰银行分析师金·福斯蒂尔（Kim Fustier）在一份报告中写道，石油市场在2027年年中之前不太可能恢复平衡。该行对未来数周和数月的基准情景预测是，美国与伊朗之间达成某种脆弱的谅解，但这种谅解容易破裂并充满不确定性，包括在航运安全和保险方面。</p>
+<p>汇丰银行的福斯蒂尔预测，到2026年底，经由霍尔木兹海峡的石油运输量将从目前的每天600万桶增加到约800万桶/日。这一预估低于其他一些分析师的预测以及当前显示约有1000万桶/日原油及石油产品通过霍尔木兹海峡的航流追踪数据。尽管如此，即便1000万桶/日的估算准确，这也仅是战前每天约1900万至2000万桶通过该咽喉要道的石油运输量的一半。福斯蒂尔表示，汇丰银行预计霍尔木兹海峡的石油运量到2027年年中将逐步增加至950万桶/日，并指出这将导致石油市场在近一年的时间内持续处于供需紧张状态。因此，汇丰银行作出了上调2026年布伦特原油价格至每桶90美元的预测。</p>
+<p>周四早盘，布伦特原油价格在每桶101美元附近徘徊，此前随着美伊油轮战升级，油价在周三自7月以来首次突破100美元大关。在汇丰银行的“僵局”情景下，若外交努力失败且运输流量维持受限现状，布伦特原油价格可能会飙升至每桶120美元。这虽然并非该行的基准情景，但与高盛本周早些时候发出的警告相近——高盛此前警示称，如果中东航运遇袭事件加剧，油价可能会飙升至每桶120美元之高。文/Michael Kern，Oilprice.com</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-10 21:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#OilPrice</span>
+</div>
+
+<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/HSBC-Raises-2026-Brent-Forecast-to-90-as-Hormuz-Crisis-Drags-On.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
 <div id="story-n-just-three-months-html-71a49d63608b5852" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="787" data-content-paragraphs="8" data-published-at="2026-09-10T12:30:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="772" data-content-paragraphs="6" data-published-at="2026-09-10T12:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
@@ -1146,17 +1141,15 @@ notice:
   <span class="news-meta-time">🕒 2026-09-10 20:30</span>
 </div>
 
-### [道达尔能源将在短短三个月内投产安哥拉新发现油田](https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Bring-New-Angola-Discovery-Online-in-Just-Three-Months.html)
+### [道达尔能源将在短短三个月内投产安哥拉新发现油气](https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Bring-New-Angola-Discovery-Online-in-Just-Three-Months.html)
 <div class="original-title-sub"><span class="orig-tag">原文</span> TotalEnergies to Bring New Angola Discovery Online in Just Three Months</div>
 
-<div class="article-body" data-article-body="true"><p>道达尔能源（TotalEnergies）在安哥拉近海取得了一项新发现，并收购了临近现有作业枢纽的两个新勘探区块的作业权益。目前，国际石油巨头正重返安哥拉海域进行勘探，以充分利用现有基础设施。</p>
-<p>道达尔能源周四表示，17号区块的Acacia-5勘探发现将于2026年6月发现后仅三个月便实现首油。这将通过利用邻近Pazflor浮式生产储卸油装置（FPSO）的闲置产能进行快速开发来实现。预计Acacia-5将使17号区块的石油日产量增加6,000桶。</p>
-<p>Acacia-5是道达尔能源安哥拉资产组合中今年迄今取得的第二项勘探成果，此前该集团刚在下刚果盆地的0号区块取得新发现，道达尔能源与作业者雪佛龙（Chevron）共同持有该区块10%的权益。</p>
-<p>上个月，雪佛龙宣布在0号区块的一口勘探井中发现了新的石油与凝析气，该井可直接接入该公司在安哥拉现有的生产基础设施。</p>
-<p>这家法国石油巨头今天还表示，已与特许权出让方安哥拉国家石油、天然气和生物燃料管理局（ANPG）签署协议，将以40%的作业权益进入位于富饶的下刚果盆地核心区域的17/25和32/21勘探区块。</p>
-<p>道达尔能源董事长兼首席执行官潘彦磊（Patrick Pouyanné）表示：“勘探是我们安哥拉战略雄心的重要支柱，并得到了旨在鼓励投资的激励措施的支持。我们将与合作伙伴一道，力争进一步深化勘探并开辟新资源，持续保持强劲的勘探力度，发掘安哥拉各大离岸盆地的新机遇。”</p>
-<p>道达尔能源是加大安哥拉近海勘探力度的数家超级石油巨头之一。本周早些时候，埃克森美孚（ExxonMobil）也宣布在15号区块取得发现。国际石油巨头重返安哥拉进行勘探，对这个于2024年初退出欧佩克（OPEC）并力求扭转多年石油产量下滑局面的非洲产油国而言是一大利好。</p>
-<p>文/ Oilprice.com 特约作者 Tsvetana Paraskova</p></div>
+<div class="article-body" data-article-body="true"><p>随着国际石油巨头重返安哥拉海域进行勘探以利用现有基础设施，道达尔能源（TotalEnergies）在安哥拉近海取得了新发现，并收购了临近运营枢纽的两个新勘探区块的作业者权益。道达尔能源周四表示，其在17号区块取得的Acacia-5发现将在2026年6月发现仅三个月后实现首批原油产出。这将通过快速开发模式，利用邻近的Pazflor浮式生产储卸油装置（FPSO）的剩余产能来实现。Acacia-5预计将使17号区块的原油日产量增加6,000桶。</p>
+<p>Acacia-5是道达尔能源安哥拉资产组合中今年迄今取得的第二个勘探成果，此前位于下刚果盆地的0号区块近期也取得了发现，道达尔能源在其中与作业者雪佛龙（Chevron）共同持有10%的权益。上个月，雪佛龙宣布在0号区块的一口勘探井中发现了新的石油和天然气凝析油，可直接接入该公司在该国的现有生产基础设施。</p>
+<p>这家法国超级巨头今天还表示，已与特许权授予方安哥拉国家石油、天然气和生物燃料局（ANPG）签署协议，以40%的作业者权益进入位于富饶的下刚果盆地核心区域的17/25和32/21勘探区块。</p>
+<p>道达尔能源董事长兼首席执行官潘彦磊（Patrick Pouyanné）表示：“在鼓励投资相关激励措施的支持下，勘探是我们立足安哥拉雄心的重要支柱。我们将与合作伙伴携手，旨在进一步深入勘探并释放新资源，保持强有力的勘探力度，以发掘安哥拉近海盆地的新机遇。”</p>
+<p>道达尔能源是加大安哥拉近海勘探力度的数家超级巨头之一。本周早些时候，埃克森美孚（ExxonMobil）宣布在15号区块取得发现。国际巨头重返安哥拉勘探，对这个非洲产油国而言是一大利好；该国于2024年初退出了欧佩克（OPEC），正致力于扭转多年来石油产量下滑的趋势。</p>
+<p>文 / Tsvetana Paraskova（Oilprice.com）</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -1175,140 +1168,137 @@ notice:
 :::
 
 :::cell
-<div id="story-60910-314e508016-en-html-b140761048bccaed" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1007" data-content-paragraphs="10" data-published-at="2026-09-10T12:15:00.000Z" data-time-source="publication">
+<div id="story-ndian-startup-mitti-labs-7a9351ec78e1d19e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2125" data-content-paragraphs="22" data-published-at="2026-09-10T13:34:01.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ecb.svg" class="source-icon" alt="European Central Bank (欧洲央行官方英文)" width="16" height="16" /> <strong>European Central Bank (欧洲央行官方英文)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-10 20:15</span>
-</div>
-
-### [货币政策决议](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Monetary policy decisions</div>
-
-<div class="article-body" data-article-body="true"><p>欧洲央行管理委员会今日决定将欧洲央行三大关键利率上调25个基点。中东地区的冲突持续带来通胀压力，通胀率预计将在较长时期内大幅高于目标水平。今日的决议凸显了管理委员会坚定制定货币政策的承诺，以确保通胀在中期内稳定在2%的目标水平。</p>
-<p>欧洲央行工作人员最新预测的基准情景显示，2026年整体通胀率平均为3.0%，2027年为2.5%，2028年为2.1%。在剔除能源和食品的通胀率方面，基准情景预计2026年为2.5%，2027年为2.6%，2028年为2.3%。与6月相比，2026年通胀率的基准预测保持不变，而2027年和2028年的预测则被上调。经济增长的基准预测为：2026年0.9%，2027年1.4%，2028年1.5%。对2026年和2027年的预测均有所上调，主要反映了欧元区经济好于预期的韧性。</p>
-<p>前景仍存在高度不确定性，通胀面临上行风险，经济增长面临下行风险。关于能源冲击，工作人员拟定的最新情景分析展示了在不同强度、持续时间及其间接和第二轮效应的假设下，经济增长与通胀演变的多样化结果。</p>
-<p>通过今日的决议，管理委员会保持了良好的立足点，以应对冲突带来的不确定性。管理委员会将依据数据并在每次会议上逐次确定适当的货币政策立场。特别是，管理委员会的利率决策将基于对通胀前景及相关风险的评估，并结合最新的经济和金融数据、基础通胀态势以及货币政策传导力度。管理委员会不对特定的利率路径做预先承诺。</p>
-<p>管理委员会决定将欧洲央行三大关键利率上调25个基点。相应地，存款机制利率、主要再融资操作利率和边际贷款便利利率将分别上调至2.50%、2.65%和2.90%，自2026年9月16日起生效。</p>
-<p>资产购买计划（APP）和大流行紧急资产收购计划（PEPP）的投资组合正以审慎且可预测的速度缩减，因为欧元系统不再对到期证券的本金进行再投资。</p>
-<p>管理委员会随时准备在其授权范围内调整所有政策工具，以确保通胀在中期内稳定在2%的目标，并维护货币政策传导的顺畅运作。此外，传导保护工具（TPI）可用于应对不合理、无序的市场动态，这些动态对欧元区所有成员国的货币政策传导构成严重威胁，从而使管理委员会能够更有效地履行其维持物价稳定的职责。</p>
-<p>欧洲央行行长将在今日欧洲中部时间14:45举行的新闻发布会上对做出这些决定的考量进行说明。</p>
-<p>免责声明 请注意，相关主题标签目前仅适用于部分内容。</p>
-<p>在注明出处的前提下允许转载。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【European Central Bank (欧洲央行官方英文)】于 2026-09-10 20:15 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
-  <span class="news-tag-pill">#European</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【European Central Bank (欧洲央行官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-nt-tops-130-billion-html-0b117d973ae39687" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="823" data-content-paragraphs="5" data-published-at="2026-09-10T11:30:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 19:30</span>
+  <span class="news-meta-time">🕒 2026-09-10 21:34</span>
 </div>
 
-### [清洁氢能投资突破1300亿美元](https://oilprice.com/Latest-Energy-News/World-News/Clean-Hydrogen-Investment-Tops-130-Billion.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Clean Hydrogen Investment Tops $130 Billion</div>
+### [谷歌与印度初创公司Mitti Labs签署其最大水稻甲烷减排碳信用协议](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs</div>
 
-<div class="article-body" data-article-body="true"><p>国际氢能委员会（Hydrogen Council）在周四发布的一份最新报告中表示，在中东冲突引发石油和天然气供应震荡的背景下，全球对清洁氢能的累计投资已加速攀升至超过1300亿美元，涉及570多个项目；能源安全已与工业增长及脱碳目标一道，成为推动氢能应用的关键驱动力。这一由行业主导的协会在其《2026年全球氢能罗盘》（Global Hydrogen Compass 2026）报告中指出，对应690万吨/年（mtpa）产能的总承诺投资已超过1300亿美元。此外，国际氢能委员会表示，今年投产的运营产能猛增70%至170万吨/年，随着在建项目陆续投产，预计明年产能还将翻倍。</p>
-<p>中国仍是清洁氢能发展的最大市场。报告指出，中国在已承诺的氢能投资中所占份额最大，达445亿美元，其中约120亿美元在过去一年中推进至最终投资决定（FID）阶段。欧洲在可再生氢产能方面的累计投资位居全球第二，约为300亿美元，其中超过一半投入到了氢能终端应用领域。</p>
-<p>国际氢能委员会表示，虽然脱碳仍是全球清洁氢投资和项目的关键驱动力，但目前的推进势头主要由能源安全所带动，氢能已成为战略韧性的重要抓手。然而，通过可再生能源电解水制备的绿氢成本依然居高不下，近几年来未达行业预期；在高昂成本以及难以锁定包销协议的困扰下，规划项目与实际投产项目之间存在巨大差距。</p>
-<p>国际能源署（IEA）在今年6月发布的年度《全球氢能评论》（Global Hydrogen Review）中表示，中东危机再次引发了各方对将氢能和氢基燃料作为巩固长期能源安全选项的关注，但低排放氢能的发展规模距离提供即时应对方案仍有很大差距。该机构指出：“包括高成本、需求不确定、监管复杂以及基础设施缺乏在内的持续障碍，继续减缓着低排放氢能的发展步伐，使得各国政府公布的2030年目标愈发变得遥不可及。”</p>
-<p>文/特斯韦塔娜·帕拉斯科娃（Tsvetana Paraskova） 为 Oilprice.com 撰稿</p></div>
+<div class="article-body" data-article-body="true"><p>谷歌（Google）已同意在2030年前向印度气候科技初创公司Mitti Labs采购100万份碳信用。两家公司表示，这是迄今为止公开宣布的规模最大的通过减少水稻种植甲烷排放而生成碳信用的交易。</p>
+<p>Mitti Labs联合创始人哈维尔·拉瓜尔塔（Xavier Laguarta）在接受采访时表示，这项为期四年的协议将覆盖印度卡纳塔克邦、安得拉邦和特伦甘纳邦的水稻农场，交付峰值期覆盖面积将达到约10万公顷。具体财务条款未予披露。</p>
+<p>该项目将向农民支付报酬，鼓励其采用缩短稻田淹水时间的方法，在减少耕作期间甲烷排放的同时节约用水。Mitti Labs表示，这项技术能够在不降低作物产量的前提下，减少约50%的甲烷排放量，并节省约40%的灌溉用水。</p>
+<p>目前谷歌因在人工智能基础设施领域投入巨资，正面临实现2030年净零排放目标的严峻挑战。根据其6月发布的环保报告（PDF），该公司2025年的温室气体排放量同比增长18%，达到约1450万公吨二氧化碳当量。</p>
+<p>拉瓜尔塔向TechCrunch透露，在大约一年前，随着这家科技巨头探索将甲烷减排项目纳入其碳信用投资组合，Mitti Labs开始与谷歌展开洽谈。他表示，该项目的节水效果以及Mitti Labs的规模化运作能力在一定程度上吸引了谷歌。</p>
+<p>在过去两年中，这家初创公司的项目已累计节水超过5000亿升。拉瓜尔塔表示，与谷歌的交易将推动Mitti Labs进一步扩张，使其具备与大型企业买家合作所需的规模能力。</p>
+<p>“谷歌是市场上最成熟的买家之一，拥有极其严格的尽职调查流程，获得其认可对我们而言显然是一个积极信号，”拉瓜尔塔补充说，该交易将使Mitti实现大幅规模化。</p>
+<p>拉瓜尔塔称，在签署协议之前，谷歌的评估工作包括对Mitti Labs监测技术的严格审查以及对农场的实地考察。这家成立于2023年、总部位于纽约和班加罗尔的初创公司打造了一个地理人工智能（GeoAI）平台，将卫星雷达图像与实地测量相结合，远程监测小农户农场的农作物生长、土壤湿度以及受淹情况。</p>
+<p>该平台使用来自商业和公共卫星的合成孔径雷达图像，分辨率从50厘米到10米不等。拉瓜尔塔介绍，Mitti还利用在田间收集的专有数据来训练其人工智能模型。</p>
+<p>拉瓜尔塔表示，出售给谷歌的碳信用可由黄金标准（Gold Standard）或Isometric这两家碳信用认证机构签发。他补充称，在碳信用签发前，这些项目都将作为认证流程的一部分接受独立的第三方核查。</p>
+<p>除谷歌外，Mitti Labs的客户还包括碳交易市场Cool Effect、大米生产商Ebro Foods以及农业公司先正达（Syngenta）。拉瓜尔塔向TechCrunch表示，与谷歌的协议是Mitti Labs迄今为止达成的最大承购协议。</p>
+<p>Mitti Labs目前与超过10万名农民合作，目标是到2030年覆盖数百万名农民。拉瓜尔塔表示，与谷歌的协议将助力初创公司扩展项目，进而迈向这一目标。</p>
+<p>拉瓜尔塔指出，该初创公司项目的大部分收入都会流向农业社区。但他拒绝透露参与谷歌项目的农民具体将获得多少收益。</p>
+<p>尽管谷歌的项目目前仅限于印度，但Mitti Labs计划在今年晚些时候进军菲律宾开展业务，并在2027年拓展至印度尼西亚及其他东南亚市场。</p>
+<p>拉瓜尔塔认为，随着越来越多企业转向通过农业项目来应对甲烷排放，该市场蕴含着巨大的增长空间。他向TechCrunch表示，印度、东南亚和中国约有1.5亿农民种植水稻。</p>
+<p>与Mitti Labs的交易并不是谷歌在印度的第一笔碳去除投资。2025年1月，这家总部位于加州山景城的公司曾与位于古尔冈的Varaha合作购买了10万吨碳信用。那是谷歌在印度首次大规模采购碳去除信用，也是涉及生物质生产生物炭的最大一笔交易。</p>
+<p>谷歌还在印度布局清洁能源项目以应对其供应链排放。该公司已签署了一项与拉贾斯坦邦150兆瓦太阳能项目挂钩的协议，使其与ReNew在该邦签约的太阳能装机容量达到300兆瓦。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。</p>
+<p>Jagmeet在TechCrunch主要负责报道来自印度的初创公司、科技政策更新以及其他重大以科技为核心的动态。他此前曾担任新德里电视台（NDTV）的主任记者。</p>
+<p>您可以通过发送电子邮件至 mail@journalistjagmeet.com 联系或核实Jagmeet的外联信息。</p>
+<p>不要错过。初创企业社区将汇聚一堂，共同探讨一个关键问题：在AI时代，你该如何实现可持续发展？</p>
+<p>苹果推出首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上采取不正当竞争手段<br />一部关于伊丽莎白·霍姆斯（Elizabeth Holmes）的神秘新纪录片震撼特柳赖德电影节<br />TechCrunch Mobility专栏：特斯拉Cybercab上路——并遭遇波折<br />多名徒步旅行者在使用谷歌Gemini规划路线后被困获救<br />联邦政府对特斯拉Cybercab部署展开调查<br />特斯拉正在询问人们是否愿意购买并运营Cybercab车队</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-10 19:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:34 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
+  <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Clean-Hydrogen-Investment-Tops-130-Billion.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-shipping-risks-soar-html-f7b0c82ddd612bbc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="659" data-content-paragraphs="2" data-published-at="2026-09-10T10:30:00.000Z" data-time-source="publication">
+<div id="story--drivers-licenses-stolen-183e359fd819f27c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1198" data-content-paragraphs="18" data-published-at="2026-09-10T13:21:09.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 18:30</span>
+  <span class="news-meta-time">🕒 2026-09-10 21:21</span>
 </div>
 
-### [中东航运风险飙升，油轮运费创历史新高](https://oilprice.com/Latest-Energy-News/World-News/Oil-Tanker-Rates-Hit-Record-Highs-as-Middle-East-Shipping-Risks-Soar.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Oil Tanker Rates Hit Record Highs as Middle East Shipping Risks Soar</div>
+### [身份核验巨头 IDScan 证实发生数据泄露，逾 1.5 亿张驾照被窃](https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen</div>
 
-<div class="article-body" data-article-body="true"><p>随着往来中东地区的航运风险不断升级，促使交易员和油轮运营商采取低效且成本更高的贸易航线，油轮运费已飙升至历史新高。尽管原油供应实际上充足，但通过霍尔木兹海峡运输原油仍是一项极具风险的举动，特别是考虑到波斯湾和阿曼湾美伊“油轮战”的不断升级；与此同时，沙特阿拉伯已开始通过红海北部以及埃及的地中海港口将原油货物运离该地区。这些大幅延长的绕行路线使油轮和超级油轮被托运人占用的时间更长，从而大幅收紧了可用船舶的市场供给，导致运费暴涨至历史最高水平。例如，彭博汇编的数据显示，将石油从中东运往中国的超大型油轮（VLCC）基准日租金已创下近80万美元的历史新高。如今，租用一艘超级油轮将原油从美国墨西哥湾沿岸运往亚洲的包干费用已高达单次航程2950万美元，这甚至还没算上额外的战争风险附加费或意外延误费用。船舶经纪公司Fearnleys在截至9月9日当周的最新周报中表示：“VLCC的可用运力清单目前极为紧张，即便听起来很疯狂，但如果在不久后看到从富查伊拉出发前往东方的即期航线突破WS 400大关，也不会有人感到太意外。”该经纪公司补充道：“石油仍需要穿过霍尔木兹海峡运出，而伊朗人已加大力度阻止这一情况发生。局势十分脆弱。”在新加坡举行的亚太石油会议（APPEC）间隙，Equinor原油、成品油及液体交易全球主管亚历克斯·格兰特（Alex Grant）对彭博表示：“目前同时出现了相当多的瓶颈。市场因此承受着巨大压力，而这正直接反映在航运费率上。”</p>
-<p>文/ Oilprice.com的Tsvetana Paraskova</p></div>
+<div class="article-body" data-article-body="true"><p>身份核验服务商 IDScan 已证实，其系统遭遇的一起数据泄露事件涉及驾照被窃。就在一周前，有报道称该身份凭证核验机构在一场持续一年的黑客攻击中遭到入侵。</p>
+<p>该公司在官网公告中表示，黑客从其云端窃取了驾照信息；被盗信息包括个人的全名、驾驶证号，以及护照等其他政府签发证件的身份证件号。</p>
+<p>这家总部位于路易斯安那州的企业服务于从娱乐场所到大麻药房等各类企业客户，用于查验其客户的身份证件。该公告是该公司首次承认遭到黑客入侵。该公司上周曾表示正在调查一起事件，但当时尚未确认发生入侵。</p>
+<p>IDScan 在公告中表示，公司在 9 月 1 日前后“收到了关于黑客攻击指控的信息”，而就在同一天，独立网络安全记者布莱恩·克雷布斯（Brian Krebs）首次报道了 IDScan 的数据泄露事件。</p>
+<p>克雷布斯报道称，有人提醒他注意暗网上的一个网站，该网站允许任何人搜索居住在美国和加拿大的逾 1.5 亿人的驾照信息，包括调阅其照片。克雷布斯通过核对自己本人的记录验证了数据的真实性。该数据库中还包含知名人士的信息，包括美国国防部长皮特·海格塞斯（Pete Hegseth），以及一名同样向克雷布斯核实了自己记录的安全研究员。</p>
+<p>五角大楼上周对 TechCrunch 表示，已知悉这起疑似泄露事件；美国联邦调查局（FBI）发言人也表示正在对该事件进行调查。</p>
+<p>IDScan 在其网站上表示调查仍在进行中。该公司的声明称，“尽管获取完整信息需要付费”——这可能是指黑客要求支付资金以获取被盗数据的完整缓存——公司已在网站上发布通知以告知潜在受影响人员。IDScan 尚未透露有多少人受到影响，但其网站上注明其拥有超过 1.5 亿条驾照记录。</p>
+<p>IDScan 未回应 TechCrunch 就此事件寻求置评的请求，例如黑客是否曾联系该公司并索要赎金以换取不公开数据。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>您可以通过 Signal 发送加密消息至 zackwhittaker.1337 与他联系。您也可以通过电子邮件与他联系，或发信以验证联络真实性：zack.whittaker@techcrunch.com。</p>
+<p>切勿错过。初创企业社区将汇聚一堂，共同探讨一个关键问题：在 AI 时代，如何实现可持续发展？</p>
+<p>苹果发布首款折叠屏手机 iPhone Duo</p>
+<p>纽约大学数学家称 OpenAI 在关乎学术生涯的重要数学问题上手段不端</p>
+<p>一部秘密制作的伊丽莎白·霍姆斯全新纪录片震惊特柳赖德电影节</p>
+<p>TechCrunch 出行专栏：特斯拉 Cybercab 上路——并遭遇波折</p>
+<p>徒步旅行者在使用 Google Gemini 规划行程后获救</p>
+<p>联邦监管机构对特斯拉 Cybercab 的部署展开调查</p>
+<p>特斯拉正在询问人们是否有意购买并运营 Cybercab 车队</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-10 18:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:21 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
+  <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Oil-Tanker-Rates-Hit-Record-Highs-as-Middle-East-Shipping-Risks-Soar.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-athematics-training-data-e29cd346e532312e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="379" data-content-paragraphs="4" data-published-at="2026-09-10T11:00:57.000Z" data-time-source="publication">
+<div id="story--plan-events-and-meetups-f0c24581ae5afb5a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="498" data-content-paragraphs="9" data-published-at="2026-09-10T13:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-10 19:00</span>
+  <span class="news-meta-time">🕒 2026-09-10 21:00</span>
 </div>
 
-### [数学家要求OpenAI证明其未曾使用他们的研究成果](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Mathematicians want proof OpenAI didn’t use their work</div>
+### [Snapchat 让策划活动与聚会变得更轻松](https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Snapchat makes it easier to plan events and meetups</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="数学家要求OpenAI证明其未曾使用他们的研究成果" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/snapchat-plans.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Snapchat 让策划活动与聚会变得更轻松" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>OpenAI 首席执行官萨姆·奥尔特曼（Sam Altman）在星际之门（Stargate）人工智能数据中心的媒体参观活动中。 | 彭博社通过盖蒂图片社（Bloomberg via Getty Images）</p>
-<p>又有一位研究人员就推动 OpenAI 日益令人瞩目的数学发现背后的数据，向该公司提出质疑。就在关于该公司的模型是否受益于未发表成果而引发激烈争吵的数天之后，第二位数学家站了出来，指责这家人工智能巨头存在不道德和“不诚实”的行为，并且其训练数据来源缺乏透明度。</p>
-<p>在 Mastodon 上发布的一系列帖子中，数学家安德烈亚斯·托姆（Andreas Thom）表达了担忧，认为在 OpenAI 取得重大成功宣布之前，他及其同事与 ChatGPT 聊天机器人的互动，可能促成了该公司在该领域的突破。其中之一……</p>
-<p>在 The Verge 阅读完整报道。</p></div>
+<div class="article-body" data-article-body="true"><p>该话题的相关文章将被添加到您的每日电子邮件摘要和主页动态中。</p>
+<p>Snap 正在将应用内已有的用户行为固化为正式功能。</p>
+<p>该作者的相关文章将被添加到您的每日电子邮件摘要和主页动态中。</p>
+<p>查看 Thomas Ricker 的全部文章</p>
+<p>Snapchat 正在推出 Plans，这是一套全新的功能套件，旨在帮助用户在无需离开应用的情况下，将群聊中已经在讨论的计划——从生日庆祝、学习小组到周末聚会——转变为现实生活中的相聚。</p>
+<p>Plans 允许用户设置活动详情，最多可邀请 200 位好友；邀请函上配有动态 Bitmoji 表情，会随着好友的回复而发生变化，并可追踪回复状态（RSVP）。邀请函通过一对一私聊发送，系统还会在预定活动开始前自动向参与者发送提醒。用户个人资料页上的专属“我的计划”（My Plans）标签页，可用于跟踪即将到来和过去的活动计划。</p>
+<p>Snap 目前在关键市场正苦于留存用户，因此，在公司所有者将精力分散在智能眼镜业务之际，像 Snapchat Plans 这样旨在促使用户持续回访应用的功能，对其长期前景可能至关重要。</p>
+<p>免费获取最重要的新闻每日摘要。</p>
+<p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 19:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-10 21:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1318,7 +1308,90 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--event-planning-features-937d110366141387" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1365" data-content-paragraphs="11" data-published-at="2026-09-10T13:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 21:00</span>
+</div>
+
+### [Snapchat推出全新活动策划功能，直指Partiful](https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Snapchat takes aim at Partiful with new event-planning features</div>
+
+<div class="article-body" data-article-body="true"><p>Snapchat于周四宣布推出“Snapchat Plans”，这是一套用于与好友创建、分享和管理现实活动的功能套件。这项全新的活动策划功能允许用户在一个地方集中发送与接收邀请，并跟踪时间、地点和参与者等详细信息。</p>
+<p>Snapchat表示，新功能可用于组织从生日聚会、体育赛事到学习小组和周末聚会的各类活动。</p>
+<p>随着年轻用户逐渐转向使用专用应用程序来组织聚会，而不是依赖群聊或社交媒体，Snapchat希望借助Snapchat Plans正面迎战知名活动策划与电子邀请平台Partiful。Snapchat并非唯一一家挑战Partiful及其他邀请应用的科技公司，苹果公司去年也推出了一款名为Invites的应用，允许用户为各种场合创建定制邀请函。</p>
+<p>Snapchat用户可以通过添加标题、选择日期和时间并邀请最多200位好友来创建被称为“Snapchat Plan”的活动。随后，邀请函会直接通过一对一聊天发送给每位受邀好友。受邀嘉宾随后可以通过“参加”（Going）、“可能参加”（Maybe）或“无法参加”（Can’t Go）进行回复（RSVP）。</p>
+<p>该应用还在用户个人资料页面新增了“My Plans”（我的计划）版块，便于用户快速浏览自己所有当前、即将到来以及过去的Snapchat Plans。此外，用户点击好友的个人资料后，还能看到与对方共同参加的活动。</p>
+<p>Snapchat Plan创建完成后，组织者可以查看参与人员名单、邀请更多好友，并根据需要更新活动详情。嘉宾可以查看完整的宾客名单，随时更改自己的出席状态，并在活动开始前一小时收到提醒。</p>
+<p>尽管Snapchat在过去十年中一直是社交媒体领域的重要参与者，但该公司如今正将其重心从人们的线上沟通延伸至协助促成现实世界的线下聚会。这也顺应了Z世代寻求更多面对面交流的更广泛趋势。</p>
+<p>该公司在博文中写道：“再也不会因为信息被刷走、遗漏细节或忘记发邀请而错过聚会了。Snapchat Plans让与好友组织这些特殊的面对面时刻变得更加轻松。”</p>
+<p>该公司表示，Snapchat Plans属于私密性质，仅限受邀人员参与。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>消费新闻记者<br />Aisha是TechCrunch的消费新闻记者。在2021年加入该媒体之前，她是MobileSyrup的电信记者。Aisha拥有多伦多大学荣誉学士学位和西安大略大学新闻学硕士学位。<br />您可以通过发送电子邮件至aisha@techcrunch.com或通过Signal加密消息联系aisha_malik.01，与Aisha取得联系或核实来信。<br />不要错过。初创企业界将齐聚一堂，共同探讨一个核心问题：在AI时代，你该如何实现可持续发展？<br />苹果推出首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段不公<br />一部秘密拍摄的伊丽莎白·霍姆斯全新纪录片震撼特柳赖德电影节<br />TechCrunch出行：特斯拉Cybercab上路——但遭遇阻碍<br />徒步旅行者在使用Google Gemini进行规划后获救<br />联邦监管机构对特斯拉Cybercab的部署展开调查<br />特斯拉正在询问公众是否愿意购买并运营Cybercab车队</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-tion-to-3-7b-in-3-months-0e9c976991824598" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1268" data-content-paragraphs="10" data-published-at="2026-09-10T13:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-10 21:00</span>
+</div>
+
+### [防务科技初创企业Mach Industries三个月内估值翻倍至37亿美元](https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Defense tech Mach Industries doubles valuation to $3.7B in 3 months</div>
+
+<div class="article-body" data-article-body="true"><p>防务科技初创公司 Mach Industries 周四宣布，已在 C 轮追加轮融资中筹集了 6 亿美元新资金，使其估值翻倍至 37 亿美元。该公司于今年 6 月宣布了最初的 C 轮融资，当时以 18 亿美元的估值筹集了 3 亿美元。两轮融资的投资方均包括 Ribbit Capital、Infinite Capital、Bedrock Capital 和红杉资本（Sequoia）。</p>
+<p>这意味着，该公司的估值在短短三个月内实现了翻倍跃升。而上一轮融资同样增幅显著：相比 2025 年 6 月宣布以 4.7 亿美元估值完成的 1 亿美元融资，估值增长了近四倍。</p>
+<p>Mach 生产各种无人军用载具和武器，包括垂直起降无人机、用于远程打击的系统以及反无人机系统。该公司在加利福尼亚州亨廷顿比奇的总部运营着一座占地 11.5 万平方英尺的制造工厂，并在加州各地设有其他分支设施。</p>
+<p>它的商业卖点在于打造高度集成的系统，且成本低于传统国防承包商的产品。为此，该初创企业在 5 月以 5000 万美元的现金加股权交易收购了固体火箭发动机（SRM）初创公司 Exquadrum，并称在竞购中击败了至少 8 家其他潜在买家。</p>
+<p>无人机的崛起导致固体火箭发动机出现短缺，而该市场主要由两家老牌企业控制。收购 Exquadrum 正是 Mach 解决这一瓶颈的方案。该笔收购随后成为该公司名为 Mach Energetics 的新业务线基础，该部门不仅生产固体火箭发动机，还为其他客户生产喷气发动机和高能动力系统。</p>
+<p>Mach 由年仅 22 岁的伊森·桑顿（Ethan Thornton）创立并掌舵，是传统硅谷风投大举注资防务科技初创公司的典型代表。桑顿在 19 岁时从麻省理工学院（MIT）退学创办 Mach，并迅速获得红杉资本的斯蒂芬妮·詹（Stephanie Zhan）和肖恩·马奎尔（Shaun Maguire）的投资，这也标志着这家老牌风投机构在防务科技领域的首次投资。</p>
+<p>在今年早些时候赢得一份美国陆军合同后，该公司也吸引了 Ribbit Capital 的注意。Ribbit Capital 曾以金融科技投资闻名，但近期参与了一系列引人注目的 AI 交易，涵盖从 Cognition 等编程初创公司到 Crusoe 等新型云服务商。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
+<p>不要错过。初创企业社区将齐聚一堂，探讨一个关键问题：如何在 AI 时代实现可持续发展？</p>
+<p>苹果发布首款折叠屏手机 iPhone Duo<br />纽约大学数学家称：OpenAI 在一道攸关学术生涯的数学题上手段不光彩<br />一部关于伊丽莎白·霍姆斯的神秘新纪录片惊艳特柳赖德电影节<br />TechCrunch 交通专栏：特斯拉 Cybercab 上路——但也遭遇挫折<br />徒步者使用 Google Gemini 规划路线受困后获救<br />美联邦政府对特斯拉部署 Cybercab 展开调查<br />特斯拉询问公众是否愿意购买并运营 Cybercab 车队</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-10 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::
