@@ -21,6 +21,13 @@ describe('hourly feed workflow scheduling', () => {
     expect(workflow).not.toContain('is already active or succeeded; skipping duplicate work.');
   });
 
+  it('retries data persistence after a concurrent master update', async () => {
+    const workflow = await readFile(workflowPath, 'utf8');
+    expect(workflow).toContain('for attempt in 1 2 3; do');
+    expect(workflow).toContain('git fetch origin master');
+    expect(workflow).toContain('git rebase origin/master');
+    expect(workflow).toContain('git push origin HEAD:master');
+  });
   it('documents the actual workflow path and cadence', async () => {
     const spec = await readFile(specPath, 'utf8');
     expect(spec).toContain('.github/workflows/hourly-feed.yml');
