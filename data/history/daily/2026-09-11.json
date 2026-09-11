@@ -1,5 +1,1579 @@
 [
   {
+    "timestamp": 1789089591250,
+    "timeDisplay": "2026-09-11 09:19 (UTC+8)",
+    "date": "2026-09-11",
+    "runId": "feed-20260911T011118458Z-87k9eu",
+    "generatedAt": "2026-09-11T01:19:51.250Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 09:11",
+      "lead": "本轮抓取于 2026-09-11 09:11 (UTC+8) 完成，共获得 33 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】谷歌将购买一座核电站半数电力：谷歌宣布，作为在芬兰人工智能基础设施创纪录的130亿欧元（约合110亿英镑、150亿美元）投资的一部分，该公司将购买芬兰一座核电站多达半数的发电量。",
+        "【undefined】iPhone Duo进军中国拥挤的折叠屏市场，面临价格考验：苹果公司的首款折叠屏手机在中国消费者中反响平平，相比国内竞争对手现有的折叠机型，消费者更关注其售价。",
+        "【undefined】软弃用 re.match()：快，别去查资料，说说 re.match() 是做什么用的？以下哪一项会返回匹配结果？ 它与 re.search() 以及 re.fullmatch() 相比又有什么区别？ 趁着你正在（快速）思考这个问题，我们来介绍一下“软弃用”（soft deprecation）。 Python 的向后兼容性策略（PEP 387）在 2023 年引入了软弃用机制： 当某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然保持安全时，就可以采用软",
+        "【undefined】在纽约市搜寻未知生命：作者：弗里德·克瓦尔普斯卡莫·汉森（Frid Kvalpskarmo Hansen），挪威科技大学 编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时突出了以下要点：",
+        "【undefined】YuE2 · 基于符号规划的前沿音乐生成：聆听一首歌曲，随后在其符号规划中探索旋律、节奏与和弦。",
+        "【undefined】要闻：借助 Thelio Mira AI 加速人工智能开发：借助 Thelio Mira AI 加速人工智能开发。这款由 System76 打造、价格亲民且专注于 GPU 的工作站，专为本地人工智能开发而设计，让你完全依靠自己的硬件训练、微调和迭代具有挑战性的人工智能工作负载。",
+        "【undefined】全球数据库揭示城市间食品碳排放各不相同的背后原因：作者：莱顿大学 Hilde Pracht 编辑：Gaby Clark；审校：Robert Egan 本文已按照 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审期刊",
+        "【undefined】转人工“太费劲”这项国标为AI客服“立规矩”：9月起，国家标准为人工与智能客服协同划定清晰边界"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-11",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】谷歌将购买一座核电站半数电力：谷歌宣布，作为在芬兰人工智能基础设施创纪录的130亿欧元（约合110亿英镑、150亿美元）投资的一部分，该公司将购买芬兰一座核电站多达半数的发电量。；【undefined】iPhone Duo进军中国拥挤的折叠屏市场，面临价格考验：苹果公司的首款折叠屏手机在中国消费者中反响平平，相比国内竞争对手现有的折叠机型，消费者更关注其售价。；【undefined】YuE2 · 基于符号规划的前沿音乐生成：聆听一首歌曲，随后在其符号规划中探索旋律、节奏与和弦。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】软弃用 re.match()：快，别去查资料，说说 re.match() 是做什么用的？以下哪一项会返回匹配结果？ 它与 re.search() 以及 re.fullmatch() 相比又有什么区别？ 趁着你正在（快速）思考这个问题，我们来介绍一下“软弃用”（soft deprecation）。 Python 的向后兼容性策略（PEP 387）在 2023 年引入了软弃用机制： 当某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然保持安全时，就可以采用软；【undefined】要闻：Gleam Gathering 重磅回归，落户伦敦：Gleam Gathering 重磅回归，落户伦敦。 在此度过一个充实的周末： Gleam 语言创始人 查看我们的演讲征集通知 2027 年的活动将在伦敦市中心的专属活动场地哈勒姆街 44 号（44 Hallam St）举行。 请访问他们的路线指引页面，获取前往该地的详细信息。 如果您没有看到任何购票选项，可以点击此处。我们收到反馈称该部分有时无法加载。 我们现已开始接收 Gleam Gathering 2027 的演讲提案。无论您是经；【undefined】Git 之后由谁接棒？：East River Source Control 成立至今已有一年多了，但我们此前并未过多公开谈论我们正在开发的内容。我们目前还没有正式发布任何产品——不过很快就会发布——但我们希望在此分享一些关于版本控制以及未来发展方向的思考。"
+        },
+        {
+          "name": "🔬 深空与基础科学",
+          "analysis": "【undefined】在纽约市搜寻未知生命：作者：弗里德·克瓦尔普斯卡莫·汉森（Frid Kvalpskarmo Hansen），挪威科技大学 编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时突出了以下要点："
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】林赛·克兰西辩护律师痛批针对帕特里克·克兰西的阴谋论：林赛·克兰西（Lindsay Clancy）的辩护律师凯文·雷丁顿（Kevin Reddington）在接受福克斯新闻（Fox News）新采访时，强力为帕特里克·克兰西（Patrick Clancy）辩护，驳斥了网络上关于这位三个孩子的父亲以某种方式卷入其子女死亡的揣测，并称他所经受的磨难是“极其可怕的”。；【undefined】中央气象台：西南地区多阴雨 海南岛等地有大到暴雨：中新网9月11日电 据中央气象台网站消息，国内方面，昨日，四川、云南、广西等地出现较强降雨。预计未来三天华西地区多阴雨天气，关注持续性降雨对农业生产、交通等影响；华南南部局地有强降雨，注意防范暴雨次生灾害；内蒙古东北部、黑龙江等地注意防范局地风雹等强对流天气危害。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 95,
+      "completedTasks": 95,
+      "succeeded": 60,
+      "degraded": 35,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 95,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 512736,
+      "byRole": {
+        "translator": {
+          "attempts": 61,
+          "succeeded": 36,
+          "degraded": 25
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 4,
+          "degraded": 6
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "degraded": 2,
+          "succeeded": 8
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 95,
+          "succeeded": 60,
+          "degraded": 35
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-0",
+      "article-21-translator-0",
+      "article-25-translator-0",
+      "article-26-translator-0",
+      "article-26-translator-1",
+      "article-28-translator-0",
+      "article-28-translator-1",
+      "article-44-translator-1",
+      "article-44-translator-2",
+      "article-45-translator-0",
+      "article-46-translator-0",
+      "article-49-translator-0",
+      "article-50-translator-0",
+      "article-52-translator-0",
+      "article-0-source-positioner",
+      "article-2-source-positioner",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "article-8-fact-extractor",
+      "article-9-fact-extractor",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:03.255Z",
+        "lastSuccessAt": "2026-09-11T01:11:03.873Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:03.498Z",
+        "lastSuccessAt": "2026-09-11T01:11:03.887Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.127Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.289Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.152Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.635Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.250Z",
+        "lastSuccessAt": "2026-09-11T01:11:06.593Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.235Z",
+        "lastSuccessAt": "2026-09-11T01:11:06.404Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:06.927Z",
+        "lastSuccessAt": "2026-09-11T01:11:07.099Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:03.600Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.078Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.289Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.625Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.225Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.658Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.037Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.214Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.003Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.225Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:03.887Z",
+        "lastSuccessAt": "2026-09-11T01:11:03.970Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:03.970Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.037Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:06.593Z",
+        "lastSuccessAt": "2026-09-11T01:11:07.136Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.744Z",
+        "lastSuccessAt": "2026-09-11T01:11:07.102Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:06.404Z",
+        "lastSuccessAt": "2026-09-11T01:11:06.877Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 12,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.590Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.911Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.078Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.127Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.054Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.152Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:03.567Z",
+        "lastSuccessAt": "2026-09-11T01:11:03.600Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:02.295Z",
+        "lastSuccessAt": "2026-09-11T01:11:03.567Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.886Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.979Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.782Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.944Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.625Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.985Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.805Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.935Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.979Z",
+        "lastSuccessAt": "2026-09-11T01:11:05.202Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.346Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.661Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:06.604Z",
+        "lastSuccessAt": "2026-09-11T01:11:09.293Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.899Z",
+        "lastSuccessAt": "2026-09-11T01:11:05.019Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.056Z",
+        "lastSuccessAt": "2026-09-11T01:11:05.397Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.985Z",
+        "lastSuccessAt": "2026-09-11T01:11:05.220Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.220Z",
+        "lastSuccessAt": "2026-09-11T01:11:05.744Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:06.877Z",
+        "lastSuccessAt": "2026-09-11T01:11:07.021Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.161Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.346Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.596Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.899Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.661Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.886Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.202Z",
+        "lastSuccessAt": "2026-09-11T01:11:05.547Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-11T01:11:04.944Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.935Z",
+        "lastSuccessAt": "2026-09-11T01:11:05.235Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:02.293Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.054Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.019Z",
+        "lastSuccessAt": "2026-09-11T01:11:05.580Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:02.294Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.161Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.397Z",
+        "lastSuccessAt": "2026-09-11T01:11:07.027Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.658Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.782Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:03.873Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.003Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.911Z",
+        "lastSuccessAt": "2026-09-11T01:11:05.250Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.635Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.805Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.547Z",
+        "lastSuccessAt": "2026-09-11T01:11:06.604Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:05.580Z",
+        "lastSuccessAt": "2026-09-11T01:11:06.927Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.214Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.590Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:04.175Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.596Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:02.275Z",
+        "lastSuccessAt": "2026-09-11T01:11:03.498Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:02.291Z",
+        "lastSuccessAt": "2026-09-11T01:11:03.255Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T01:11:02.292Z",
+        "lastSuccessAt": "2026-09-11T01:11:04.175Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-1-vybory-2116951262-html-87ee0fd8301a32e2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Сотрудники маяка на мысе Африка проголосовали на выборах в Госдуму",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T01:08:10.000Z",
+        "pubTime": "2026-09-11 09:08",
+        "url": "https://ria.ru/20260911/vybory-2116951262.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/06/2115881865_0:291:3072:2019_650x0_80_0_0_f794545c063fd3298a8bb09d28b598d2.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 09:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/vybory-2116951262.html",
+            "publishedAt": "2026-09-11T01:08:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ws-articles-c8r6y4me2g6o-d73c7d39c95d5e6b",
+        "title": "谷歌将购买一座核电站半数电力",
+        "originalTitle": "Google will buy half the electricity of a nuclear power plant",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:42:41.000Z",
+        "pubTime": "2026-09-11 08:42",
+        "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+        "imageUrl": null,
+        "fullContent": "Google will buy up to half the electricity produced by one of Finland's nuclear power plants as part of a record €13bn (£11bn; $15bn) investment in the country's AI infrastructure, the company announced.\n\nThe US tech giant said the package would fund three new data centres, expand an existing site and support energy projects to power growing demand for AI services.\n\n\"This is Google's largest single investment in Europe and a testament to Finland's leadership in responsibly building AI infrastructure,\" the company said on Wednesday.\n\n\"Google's decision is a clear testament to our strengths,\" Finland's Prime Minister Petteri Orpo said in a statement.\n\nAs part of the deal, Google signed a 22-year contract with Finnish utility Fortum to buy up to 50% of the output from the Loviisa nuclear power plant.\n\nEarlier this week, TikTok announced a $1bn investment in Finland to build a new data centre in Kouvola, pointing to the country's \"strong digital infrastructure, clean energy mix, robust data governance and skilled tech talent\".\n\nFinland has emerged as an attractive location for data centres because of its cool climate, plentiful low-carbon electricity and relatively uncongested power grid. The colder temperatures can reduce the energy needed to cool facilities packed with computer servers.\n\nTechnology companies are racing to secure power supplies as the AI boom drives demand for vast networks of data centres.\n\nThe Google investment is expected to support more than 37,000 jobs during construction and boost Finland's GDP by €3.6bn a year, according to Google. Construction is set to take place in 2027 and 2028.\n\n\"The value of the data economy extends far beyond direct investment into spurring innovation, research and development,\" Orpo added.\n\n\"Deepening our collaboration with Google will deliver lasting benefits for both parties.\"\n\nGoogle will build new data centres in Kajaani, Muhos and Vaala, while expanding its existing facility in Hamina, which it established after converting a former paper mill in 2009.\n\nThe infrastructure will help support products such as its AI chatbot Gemini, alongside services including Search, Maps and YouTube.\n\nGoogle said the investments also covered \"clean energy projects, and dedicated nature and community funds to support local biodiversity, education, research, and workforce development\".\n\n\"Google is proud to deepen our roots in Finland,\" said Ruth Porat, president and chief investment officer of Alphabet and Google.\n\n\"This investment underscores Google's commitment to grow our presence responsibly, pairing the expansion of our technical infrastructure with new energy capacity, grid enhancements, and energy affordability initiatives,\" she added.\n\nEarlier this year, Google's parent company Alphabet raised its global spending plans to as much as $205bn as it sought to expand computing capacity for AI services.\n\nThe agreement with Fortum provides long-term financial certainty for the Loviisa plant, which currently generates about 10% of Finland's electricity.\n\nFortum said Google's commitment would support an investment programme aimed at extending the life of the nuclear station and increasing its generating capacity.\n\nThe father had threatened to behead a female primary school teacher near Toulouse.\n\nCrowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.\n\nFive deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.\n\nTens of thousands of people lined the streets to pay their respects after 13 days of national mourning.\n\nIt is the second such incident in Poland in days and the prime minister says tough new regulations are needed.",
+        "fullTranslation": "谷歌宣布，作为在芬兰人工智能基础设施创纪录的130亿欧元（约合110亿英镑、150亿美元）投资的一部分，该公司将购买芬兰一座核电站多达半数的发电量。\n\n这家美国科技巨头表示，该投资计划将资助新建三座数据中心、扩建一处现有设施，并支持能源项目，以满足对人工智能服务不断增长的需求。\n\n该公司周三表示：“这是谷歌在欧洲规模最大的一笔单项投资，也证明了芬兰在以负责任的方式建设人工智能基础设施方面的领先地位。”\n\n芬兰总理彼得里·奥尔波（Petteri Orpo）在一份声明中表示：“谷歌的决定清楚地证明了我们的优势。”\n\n作为该交易的一部分，谷歌与芬兰富腾电力公司（Fortum）签署了一份为期22年的合同，将购买洛维萨（Loviisa）核电站最高达50%的电力产出。\n\n本周早些时候，TikTok也宣布在芬兰投资10亿美元，在科乌沃拉（Kouvola）建设一座新的数据中心，并指出芬兰拥有“强大的数字基础设施、清洁的能源结构、健全的数据治理以及熟练的科技人才”。\n\n由于气候凉爽、低碳电力充裕且电网相对通畅，芬兰已成为极具吸引力的数据中心选址地。较低的气温可以减少冷却密集部署计算机服务器的设施所需的能耗。\n\n随着人工智能热潮推高了对庞大数据中心网络的需求，科技公司正竞相锁定电力供应。\n\n据谷歌称，这笔投资预计将在建设期间支持超过3.7万个工作岗位，并每年为芬兰的GDP贡献36亿欧元。工程建设定于2027年和2028年进行。\n\n奥尔波补充道：“数据经济的价值远远超出了直接投资本身，它还能推动创新与研发。”\n\n“深化我们与谷歌的合作将为双方带来持久的利益。”\n\n谷歌将在卡亚尼（Kajaani）、穆霍斯（Muhos）和瓦拉（Vaala）建设新的数据中心，同时扩建其位于哈米纳（Hamina）的现有设施。哈米纳设施是谷歌在2009年通过改造一座前造纸厂而设立的。\n\n该基础设施将有助于支持其人工智能聊天机器人Gemini等产品，以及包括搜索、地图和YouTube在内的各项服务。\n\n谷歌表示，这些投资还涵盖了“清洁能源项目，以及旨在支持当地生物多样性、教育、科研和劳动力发展的专门自然与社区基金”。\n\nAlphabet及谷歌总裁兼首席投资官露丝·波拉特（Ruth Porat）表示：“谷歌很自豪能够深化在芬兰的根基。”\n\n她补充说：“这项投资彰显了谷歌以负责任方式拓展业务的承诺，将技术基础设施的扩建与新增能源产能、电网升级以及能源可负担性举措紧密结合。”\n\n今年早些时候，谷歌母公司Alphabet将其全球支出计划提高至高达2050亿美元，以扩大用于人工智能服务的算力。\n\n与富腾达成的协议为洛维萨核电站提供了长期的财务确定性，该核电站目前供应芬兰约10%的电力。\n\n富腾表示，谷歌的承诺将为一项旨在延长核电站寿命并提升其发电能力的投资计划提供支持。\n\n该父亲曾在图卢兹附近威胁要斩首一名小学女教师。\n\n大批人群涌入大英博物馆参观贝叶挂毯，这是该挂毯在被制作近1000年后首次在英国公开展出。\n\n随着双方发动新的无人机袭击，乌克兰报告有五人死亡，俄罗斯报告有四人死亡。\n\n在为期13天的全国哀悼期后，成千上万的人走上街头表达哀思。\n\n这是波兰数日内发生的第二起此类事件，总理表示需要出台严格的新规。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 24,
+        "keyTakeaways": [
+          "谷歌宣布在芬兰投资130亿欧元（约合110亿英镑或150亿美元）用于AI基础设施建设，并将购买芬兰一座核电站多达一半的电力。",
+          "谷歌与芬兰电力公用事业公司Fortum签署了一份为期22年的合同，购买洛维萨（Loviisa）核电站多达50%的发电量。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:42:41.000Z",
+            "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
+          }
+        ]
+      },
+      {
+        "id": "story-ded-foldable-market-html-c07d5f6565a6fcf0",
+        "title": "iPhone Duo进军中国拥挤的折叠屏市场，面临价格考验",
+        "originalTitle": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:19:54.000Z",
+        "pubTime": "2026-09-11 08:19",
+        "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+        "imageUrl": null,
+        "fullContent": "Apple's first folding phone is getting a tepid response Chinese consumers that are focused more on how much it costs versus existing foldables from domestic rivals.\n\n\"I won't buy it this year. I'll buy the second-generation foldable next year,\" one user on social media platform WeChat said, according to CNBC's translation, after Apple announced the iPhone Duo at an event on Wednesday. It's priced at 15,999 yuan ($2,230) in China.\n\nU.S. consumers \"earn US$3,000 to US$4,000 a month and buy it for US$1,999. We earn 3,000 to 4,000 yuan and spend 10,000 yuan on it,\" one commenter wrote on a WeChat video review translated by CNBC.\n\nApple shares climbed more than 3% after the launch event.\n\nBut the company faces a key test in its third-biggest market of Greater China, which generates around 17% of total revenue and is one of the world's most competitive foldable-phone markets.\n\nHuawei, Xiaomi, Honor, Oppo and Vivo already sell devices across book-style, flip-phone and, in Huawei's case, trifold designs. That means that in China, the iPhone Duo is entering a more established category than in many other overseas markets.\n\nAhead of Apple's event, Xiaomi and Huawei on Monday launched new flagship foldables, the Xiaomi 18 Fold and the trifold Mate XT2, priced at 10,999 yuan and 19,999 yuan.\n\nApple's Duo is \"cheaper than Huawei. Can you take it?\" one WeChat commenter wrote.\n\nHuawei led China's smartphone market in both the first and second quarters, according to Counterpoint. Apple was second, followed by Vivo and Oppo, the data showed.\n\nWorldwide, Samsung has narrowly reclaimed the lead over Apple by smartphone shipments in the second quarter, while Xiaomi ranked third, according to Counterpoint. Earlier this year, Samsung launched a new version of its folding phone and is expected to surpass Apple in foldable market share, a sizable lead at 32% compared to Apple and Huawei at 25% and 24% respectively, according to the research.\n\nIn addition to price, users on Chinese social media also expressed concerns about the Duo's lack of a physical SIM-card slot, which may require mainland users to visit a carrier store for ID verification to activate an eSIM.\n\nXiaomi's 18 Fold will be available for purchase from Thursday. Huawei's Mate XT2 follows days later. Apple's iPhone Duo pre-orders are slated to begin Oct. 16 with sales commencing on Oct. 23.\n\n—CNBC's Jenny Lee contributed to this report.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "苹果公司的首款折叠屏手机在中国消费者中反响平平，相比国内竞争对手现有的折叠机型，消费者更关注其售价。\n\n在苹果周三的发布会上推出iPhone Duo后，据CNBC翻译，社交媒体平台微信上的一位用户表示：“今年不买，明年买第二代折叠屏。”该机型在中国市场的售价为15,999元人民币（约合2,230美元）。\n\nCNBC翻译的一则微信视频评论中，一位评论者写道：美国消费者“一个月挣三四千美元，花1,999美元买。我们挣三四千块钱，花一万多块去买”。\n\n发布会结束后，苹果股价上涨超过3%。\n\n但该公司在其第三大市场大中华区面临着关键考验。大中华区贡献了苹果约17%的总营收，同时也是全球竞争最激烈的折叠屏手机市场之一。\n\n华为、小米、荣耀、OPPO和vivo已经推出了涵盖书本式内折、翻盖式小折叠以及（华为的）三折叠设计的产品。这意味着在中国，iPhone Duo进入的是一个比许多海外市场都更为成熟的品类品类市场。\n\n在苹果发布会之前，小米和华为于周一分别推出了新款旗舰折叠屏手机——小米 18 Fold与三折叠手机Mate XT2，售价分别为10,999元和19,999元。\n\n一位微信评论者写道，苹果的Duo“比华为便宜，你能忍住吗？”\n\n根据Counterpoint的数据，华为在今年第一季度和第二季度均领跑中国智能手机市场。数据显示，苹果位居第二，随后是vivo和OPPO。\n\n在全球范围内，Counterpoint表示，三星在第二季度以微弱优势反超苹果夺回智能手机出货量第一，小米位列第三。今年早些时候，三星推出了新一代折叠屏手机，根据该研究机构的数据，预计三星将在折叠屏市场份额上超越苹果，以32%的份额保持显著领先，而苹果和华为的份额预计分别为25%和24%。\n\n除价格外，中国社交媒体上的用户还对Duo缺少实体SIM卡槽表示担忧，这可能需要中国大陆用户前往运营商营业厅进行身份验证以激活eSIM。\n\n小米 18 Fold将于周四起开售。华为Mate XT2随后几天跟进。苹果iPhone Duo的预购定于10月16日开始，并将于10月23日正式发售。\n\n——CNBC的Jenny Lee对本报道亦有贡献。\n\n有机密新闻线索？期待您的来信。\n\n将此内容订阅发送至您的收件箱，并获取有关我们产品和服务的更多信息。\n\n数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票报价以及市场数据和分析。\n\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "苹果公司在周三发布了其首款折叠屏手机 iPhone Duo，中国市场售价为 15,999 元人民币（2,230 美元），美国市场售价为 1,999 美元。",
+          "发布会后苹果公司股价上涨超过 3%。",
+          "来源叙事重点：报道将iPhone Duo进入中国描述为一次价格与市场接受度测试，重点比较其15,999元定价与小米、华为等国产折叠屏产品的价格，强调中国折叠屏市场竞争已较成熟、苹果在大中华区面临本土品牌竞争，并补充苹果股价上涨、市场份额和eSIM限制等信息。所谓“中国消费者反应冷淡”主要建立在少量社交媒体评论之上，属于报道框架而非已被充分验证的整体市场结论。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:19:54.000Z",
+            "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html"
+          }
+        ]
+      },
+      {
+        "id": "story-oft-deprecating-re-match-5fe75a5fc53d34ad",
+        "title": "软弃用 re.match()",
+        "originalTitle": "Soft-deprecating re.match()",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T21:59:16.000Z",
+        "pubTime": "2026-09-11 05:59",
+        "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
+        "imageUrl": null,
+        "fullContent": "Quick, without looking it up, what does re.match() do? Which of these return a match?\n\nHow does it compare to re.search() and re.fullmatch()?\n\nWhilst you’re (quickly) thinking about it, let’s introduce soft deprecation.\n\nPython’s backwards compatibility policy (PEP 387) introduced soft deprecation in 2023:\n\nA soft deprecation can be used when using an API which should no longer be used to write new code, but it remains safe to continue using it in existing code. The API remains documented and tested, but will not be developed further (no enhancement).\n\nA soft deprecation does not imply future removal of the API, nor does it issue a warning. It’s a docs-only recommendation to not use an API, ideally with a suggested replacement.\n\nIt’s a completely separate decision whether, if ever, to turn a soft deprecation into a regular “hard” deprecation (where removal may follow); soft deprecations don’t “graduate” into regular deprecations or removals.\n\nSo re.match() only matches at the beginning of a string! This can be surprising: why is the start of the string special?\n\nIf you don’t want to anchor at the start, and want to match anywhere in the string, use re.search():\n\nIf you want to anchor both the start and the end, and check the entire string matches, use re.fullmatch():\n\nBecause of the surprising half-anchored behaviour, we’ve introduced a new alias for re.match() in Python 3.15, named re.prefixmatch():\n\nQuoting from the Zen Of Python (python3 -m this): “Explicit is better than implicit”. Anyone reading the name prefixmatch() is likely to understand the intended semantics. When reading match() there remains a seed of doubt about the intended behavior to anyone not already familiar with this old Python gotcha.\n\nAnd with a more explicit replacement, we’ve soft-deprecated re.match() in Python 3.15:\n\nWe do not plan to remove the older match() name, as it has been used in code for over 30 years. It has been soft deprecated: code supporting older versions of Python should continue to use match(), while new code should prefer prefixmatch().\n\nUse re.prefixmatch() if you only really meant to use the half-anchor; otherwise use re.search() or re.fullmatch().\n\nThe functions without special characters are generally a bit faster.\n\nYou can avoid re.match() in your project with Ruff:\n\nHeader photo: Double-exposure bike and pedestrian stencils (CC BY-NC-SA 2.0 Hugo van Kemenade).",
+        "fullTranslation": "快，别去查资料，说说 re.match() 是做什么用的？以下哪一项会返回匹配结果？\n它与 re.search() 以及 re.fullmatch() 相比又有什么区别？\n趁着你正在（快速）思考这个问题，我们来介绍一下“软弃用”（soft deprecation）。\nPython 的向后兼容性策略（PEP 387）在 2023 年引入了软弃用机制：\n当某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然保持安全时，就可以采用软弃用。该 API 仍会保留文档并进行测试，但不会再对其进行进一步开发（不添加新功能）。\n软弃用并不意味着未来会移除该 API，也不会发出警告。它只是仅停留在文档层面的不建议使用该 API 的建议，通常还会给出推荐的替代方案。\n至于是否以及何时将软弃用转变为常规的“硬”弃用（随后可能会彻底移除），完全是另一项独立的决策；软弃用并不会自动“晋升”为常规弃用或被移除。\n因此，re.match() 实际上只在字符串的开头进行匹配！这可能会让人感到意外：为什么字符串的开头会如此特殊？\n如果你不想固定在开头匹配，而是想在字符串的任意位置进行匹配，请使用 re.search()：\n如果你既想固定开头又想固定结尾，检查整个字符串是否匹配，请使用 re.fullmatch()：\n正是因为这种令人意外的“半锚定”行为，我们在 Python 3.15 中为 re.match() 引入了一个新别名，名为 re.prefixmatch()：\n引用《Python 之禅》（python3 -m this）中的一句话：“显式优于隐式”。任何人在看到 prefixmatch() 这个名称时，很可能都会立刻理解其预期的语义。而对于尚未熟悉这个 Python 历史遗留陷阱的人来说，在阅读 match() 时，心里总会对其实际行为存有一丝疑虑。\n有了更显式的替代品后，我们在 Python 3.15 中对 re.match() 进行了软弃用：\n我们并不打算移除旧有的 match() 这个名称，因为它已经在代码中使用了超过 30 年。它已被软弃用：需要支持较旧版本 Python 的代码应继续使用 match()，而新编写的代码则应优先使用 prefixmatch()。\n只有当你确实只需要这种半锚定行为时，才使用 re.prefixmatch()；否则，请使用 re.search() 或 re.fullmatch()。\n没有特殊字符的函数通常执行速度会稍快一些。\n你可以在项目中借助 Ruff 来避免使用 re.match()：\n题图：自行车与行人模板双重曝光照片（CC BY-NC-SA 2.0 Hugo van Kemenade）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Python 的向后兼容策略（PEP 387）于 2023 年引入了“软弃用”（soft deprecation）概念。",
+          "软弃用是指某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然安全；软弃用不意味着未来一定会移除该 API，也不会发出警告，仅作为文档中的不推荐使用建议。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T21:59:16.000Z",
+            "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/"
+          }
+        ]
+      },
+      {
+        "id": "story-nown-life-york-city-html-f233d50a8717b22a",
+        "title": "在纽约市搜寻未知生命",
+        "originalTitle": "The hunt for unknown life in New York City",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:40:03.000Z",
+        "pubTime": "2026-09-11 08:40",
+        "url": "https://phys.org/news/2026-09-unknown-life-york-city.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hunt-for-unknown-l.jpg",
+        "fullContent": "by Frid Kvalpskarmo Hansen, Norwegian University of Science and Technology\n\nedited by Swati Mestri, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nThe globe is full of unknown species. But is it really possible to find a completely new animal species in the middle of the largest city in the United States?\n\n\"People like to imagine that undiscovered species are only found in remote rainforests or the great ocean depths, but they can be found everywhere. Even in areas that are well studied, we continue to discover species that are new to science,\" says Emily Hartop.\n\nHartop is an entomologist at the Norwegian University of Science and Technology's natural history museum in Trondheim, the NTNU University Museum.\n\nShe is collaborating with multiple research partners—the American media outlet Vox, the Centre for Biodiversity Genomics at the University of Guelph in Canada, and the Prospect Park Alliance and Central Park Conservancy in New York—in the hunt for unknown life in the largest city in the United States. She feels confident that they will find something.\n\n\"It's highly likely. In my field, discovering new species is the rule rather than the exception,\" Hartop says.\n\n\"The reality is that the majority of Earth's animal species are still unknown to us humans. Scientists have formally named around 2 million species, but the actual number of species is perhaps 10 times higher,\" Hartop says.\n\nYou may have already guessed that Hartop isn't looking for unknown bear or gorilla species. We have—unfortunately, some might say—a pretty good grasp of them. Insects, on the other hand, constitute a large blank spot on the species map, especially those within the category of \"dark taxa\"—groups of organisms that are extremely species-rich but about which we know very little.\n\n\"A lot of dark taxa are small insects, mites and other organisms that receive little attention compared with more charismatic groups like mammals and bees. They are often both common and ecologically important, but we simply don't have enough specialists to get an overview of them.\"\n\nYou may be wondering how you can even begin to find unknown insects in the middle of a city. Well, it happens in several stages.\n\nThe hunt for unknown life in New York is being carried out by setting up tentlike insect traps—called Malaise traps—two of which have now been placed in Central Park and Prospect Park. Both are highly urban parks located in Manhattan and Brooklyn, respectively. The traps work by guiding insects into a container of ethanol, where they are killed and preserved.\n\nOnce a month, the collected insects are sent to the Centre for Biodiversity Genomics (CBG) in Canada. There, the genetic material of the insects in the traps is mapped using a method called DNA barcoding. The method works by using a short, defined part of the genetic material—the DNA—to act as a genetic barcode for each species. In the same way that an item in a store has a unique barcode, species can be identified through their DNA barcode.\n\nInsects that show up with a unique DNA barcode are sent to researchers in the respective species groups. They conduct further investigations to find out if they are new species. One of these researchers is Hartop at the NTNU University Museum. She is a global expert on humpbacked flies, a highly species-rich family of small flies.\n\nIf something new is found, the species will be described scientifically and given a name—a laborious process that can often take a couple of years.\n\n\"One of the most exciting things about this project is that it challenges the idea that new discoveries only happen in remote wilderness areas. The truth is that unknown species can be discovered in parks and gardens too,\" Hartop says.\n\nShe says it's very likely that we would find something new if we followed the same procedures in Trondheim or almost any other city.\n\nThis enormous number of unknown insects helps keep the ecological balance on the planet from collapsing. It might be worth reminding yourself of this—even if you never quite experience Hartop's love for flies.\n\n\"People often ask me why I study small flies. The truth is, flies are amazing. They are among the most diverse organisms on the planet, they've evolved an incredible variety of lifestyles, and a lot of them are genuinely beautiful,\" Hartop says.\n\n\"Every time we look closely, flies remind us that the living world is far more diverse, fascinating and mysterious than we imagine it.\"\n\nProvided by Norwegian University of Science and Technology\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "作者：弗里德·克瓦尔普斯卡莫·汉森（Frid Kvalpskarmo Hansen），挪威科技大学\n编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：安德鲁·齐宁（Andrew Zinin）\n本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时突出了以下要点：\n\n地球上到处都是未知物种。但是，在美国最大的城市中心，真的有可能发现一种全新的动物物种吗？\n\n“人们总喜欢想象未被发现的物种只存在于偏远的雨林或大洋深处，但其实它们无处不在。即使在那些已被深入研究的地区，我们仍在不断发现科学上的新物种，”埃米莉·哈托普（Emily Hartop）说道。\n\n哈托普是位于特隆赫姆的挪威科技大学自然历史博物馆（NTNU 大学博物馆）的一名昆虫学家。\n\n她正与多个研究伙伴展开合作——包括美国媒体 Vox、加拿大圭尔夫大学生物多样性基因组学中心，以及纽约的展望公园联盟（Prospect Park Alliance）和中央公园管理委员会（Central Park Conservancy）——在美国最大的城市中搜寻未知生命。她坚信他们一定会有所收获。\n\n“可能性极高。在我的专业领域，发现新物种是常态而非特例，”哈托普说。\n\n“事实是，地球上绝大多数动物物种对我们人类来说仍然是未知的。科学家已经正式命名的物种约有 200 万种，但实际的物种数量可能是这一数字的 10 倍，”哈托普表示。\n\n你可能已经猜到，哈托普要找的并不是未知的熊或大猩猩物种。有些人可能会说很遗憾，我们对这类物种已经掌握得相当清楚了。相比之下，昆虫构成了物种版图上的大片空白，尤其是那些属于“暗物种”（dark taxa）范畴的昆虫——这一类群的生物种类极其丰富，但我们对其却知之甚少。\n\n“许多‘暗物种’是小型昆虫、螨类和其他生物，与哺乳动物和蜜蜂等更具魅力的类群相比，它们受到的关注很少。它们通常既常见又在生态上极为重要，但我们根本没有足够的专业人员来全面了解它们。”\n\n你可能会好奇，在城市中心究竟该如何着手寻找未知昆虫？其实，这一过程分几个阶段进行。\n\n在纽约寻找未知生命的行动，是通过搭建帐篷状的昆虫陷阱——即马氏网（Malaise traps）来进行的。目前已有两具陷阱分别安置在中央公园和展望公园。这两个高度城市化的公园分别位于曼哈顿和布鲁克林。陷阱的运作方式是将昆虫引导至装有乙醇的容器中，将其杀死并妥善保存。\n\n采集到的昆虫每月会被送往加拿大的生物多样性基因组学中心（CBG）一次。在那里，工作人员利用一种名为“DNA条形码”的技术，对陷阱中昆虫的遗传物质进行图谱绘制。该方法利用遗传物质（DNA）中一段特定且简短的片段，来充当每个物种的遗传条形码。正如商店里的每件商品都有唯一的条形码一样，物种也可以通过其 DNA 条形码进行识别。\n\n显示出独特 DNA 条形码的昆虫会被分发给相应物种群的研究人员。他们会进行更深入的调查，以确定它们是否属于新物种。NTNU 大学博物馆的哈托普便是这些研究人员之一。她是蚤蝇（humpbacked flies，一种物种极度丰富的小型苍蝇科类）领域的全球专家。\n\n如果发现了新物种，它将被赋予科学描述并命名——这是一个往往需要耗费数年时间的繁重过程。\n\n“该项目最令人兴奋的地方之一在于，它打破了‘新发现只能出现在偏远荒野地区’的传统观念。事实证明，在公园和花园里同样能发现未知物种，”哈托普说道。\n\n她表示，如果在特隆赫姆或几乎任何其他城市采取相同的调查方法，我们很可能也会发现新物种。\n\n这些数量庞大的未知昆虫有助于防止地球的生态平衡崩溃。哪怕你永远无法体会哈托普对苍蝇的热爱，记住这一点或许也是值得的。\n\n“人们经常问我为什么研究小苍蝇。事实是，苍蝇太神奇了。它们是地球上最多样化的生物之一，演化出了极其丰富的生活方式，而且其中许多种类真的很美，”哈托普说。\n\n“每当我们仔细观察，苍蝇都在提醒我们：生命世界远比我们想象的更加多样、迷人且神秘。”\n\n本文由挪威科技大学提供\n斯瓦蒂·梅斯特里（Swati Mestri）拥有电子工程学士学位，自 2019 年起担任内容编辑。她在科技、医疗健康和材料科学领域具有研究文献编辑经验，对科技和太空领域尤为感兴趣。查看完整履历 →\n物理学硕士，具有研究经验。资深科学新闻爱好者。在 Science X 的编辑工作中发挥关键作用。查看完整履历 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "Emily Hartop 是挪威科技大学特隆赫姆自然历史博物馆（NTNU University Museum）的昆虫学家，也是驼背蝇（humpbacked flies）领域的专家。",
+          "Emily Hartop 正与美国媒体 Vox、加拿大圭尔夫大学生物多样性基因组学中心（Centre for Biodiversity Genomics）、纽约展望公园联盟（Prospect Park Alliance）以及中央公园保护协会（Central Park Conservancy）合作，在纽约市搜寻未知生物物种。",
+          "来源叙事重点：强调“城市中也能发现未知物种”，将纽约中央公园和展望公园的昆虫调查呈现为挑战“新物种只存在于偏远荒野”这一观念的案例。报道重点包括Malaise陷阱采样、DNA条形码筛查、专家复核及后续科学命名流程，并突出昆虫尤其是“暗分类群”在生物多样性研究中的重要性。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:40:03.000Z",
+            "url": "https://phys.org/news/2026-09-unknown-life-york-city.html"
+          }
+        ]
+      },
+      {
+        "id": "story-911-obse-2116951073-html-c6a628e4faba7aec",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия не дает Западу монополизировать ОБСЕ, заявил Полянский",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T01:04:37.000Z",
+        "pubTime": "2026-09-11 09:04",
+        "url": "https://ria.ru/20260911/obse-2116951073.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 09:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/obse-2116951073.html",
+            "publishedAt": "2026-09-11T01:04:37.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-15e2051c5046525f",
+        "title": "YuE2 · 基于符号规划的前沿音乐生成",
+        "originalTitle": "YuE2 · Frontier Music with Symbolic Planning",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:33:26.000Z",
+        "pubTime": "2026-09-11 08:33",
+        "url": "https://map-yue2.github.io/",
+        "imageUrl": null,
+        "fullContent": "Listen to a song, then explore the melody, rhythm, and chords in its symbolic plan.\n\nA familiar song can take a different shape. Listen to changes in melody, lyrics, tempo, and arrangement.\n\nA song takes shape through a conversation. Loading the editing story…\n\nEnable JavaScript to explore the conversation, hear the songs and play their scores.\n\nThe listening selection, gathered across genres and languages.\n\nYuE2 (best-of-8) reaches 6.9632 on SongBench, the highest observed mean among 15 evaluated settings on WildSongBench (192 prompts). Suno v5 scores 6.8721 in the same comparison.\n\nSeptember 5, 2026 evaluation · rankings vary by metric.\n\nWildSongBench. 192 prompts and 15 system settings. The table reports automatic evaluation scores. Best-of-8 selects one of eight generations by musicality, prompt control, and lyric accuracy.\n\nFigure 1. Song quality combines SongBench and SongEval; text alignment combines MuLan, AllMusicCaps, and prompt control. Both axes show normalized comparison indices. Bubble area represents AudioBox production quality.\n\nMERT2 · Music representations\n\nMERT2-30s and MERT2-FS (full-song) achieve SOTA on 14 of 15 MARBLE metrics, leading across tagging, key, genre, and emotion recognition.\n\nSOTA counts use the best score across the two MERT2 encoders against the nine published baselines in this comparison. Both encoders have 632M parameters. MERT2-30s uses a 30-second training context; MERT2-FS uses 300 seconds. These are full-context representation benchmarks. MERT2 reports the best observed results across representations selected using test scores; each ROC-AUC / AP pair uses the same representation.\n\nPublished baseline comparison ↗\n\nSheetSage2 · Audio to score\n\nSheetSage2 achieves SOTA on 10 of 13 benchmark metrics with one model for beat, downbeat, key, chord, structure, and melody transcription.\n\nSOTA counts refer to the leading scores against SheetSage1, Madmom, and the task-specific systems in this comparison. Results use one model selected by validation loss. Melody F1 measures pitch-class notes; structure F1 measures section boundaries at the stated tolerance. On Chords1217, ChordFormer uses five-fold cross-validation, while SheetSage2 evaluates one fixed model on all 1,217 tracks.\n\nFull comparison includes SheetSage1, Madmom, and task-specific systems.\n\nOur models are trained primarily on CC0 music and synthetic data. Tokenwave.AI provides most of our synthetic training data under license. We are committed to the ethical and responsible use of data.",
+        "fullTranslation": "聆听一首歌曲，随后在其符号规划中探索旋律、节奏与和弦。\n\n一首熟悉的歌曲可以呈现出不同的形态。倾听旋律、歌词、速度和编曲的变化。\n\n歌曲通过对话逐渐成形。正在加载编辑过程……\n\n请启用 JavaScript 以探索对话内容、聆听歌曲并播放对应乐谱。\n\n试听精选集，汇集了多种流派与语言。\n\nYuE2（8选1，best-of-8）在 SongBench 评测中达到 6.9632 分，是 WildSongBench（192 个提示词）上评估的 15 种系统设置中测得的最高平均分。在同一对比中，Suno v5 的得分是 6.8721。\n\n2026年9月5日评估 · 排名因指标而异。\n\nWildSongBench：包含 192 个提示词和 15 种系统设置。该表报告了自动评估得分。“8选1”机制根据音乐性、提示词可控性以及歌词准确性从八次生成中选取最优结果。\n\n图 1：歌曲质量综合了 SongBench 和 SongEval；文本对齐度综合了 MuLan、AllMusicCaps 和提示词可控性。两轴均显示归一化对比指数。气泡面积代表 AudioBox 制作质量。\n\nMERT2 · 音乐表征\n\nMERT2-30s 与 MERT2-FS（全曲，full-song）在 15 项 MARBLE 指标中的 14 项上达到顶尖水平（SOTA），在标签分类、调性检测、流派与情感识别等方面均处于领先地位。\n\nSOTA 统计取两个 MERT2 编码器在此次对比的九个已发布基准中的最优成绩。两款编码器均拥有 6.32 亿（632M）参数。MERT2-30s 采用 30 秒的训练上下文；MERT2-FS 则采用 300 秒。这些均为全上下文表征基准。MERT2 报告了使用测试分数选出的各表征中观察到的最佳结果；每对 ROC-AUC / AP 均使用相同的表征。\n\n已发布基准对比 ↗\n\nSheetSage2 · 音频转乐谱\n\nSheetSage2 仅凭单个模型就在 13 项基准指标中的 10 项达到 SOTA，涵盖拍子、强拍、调性、和弦、结构和旋律转录。\n\nSOTA 统计是指在本对比中相比 SheetSage1、Madmom 以及特定任务系统所取得的领先得分。结果来自通过验证集损失（validation loss）选出的单一模型。旋律 F1 指标衡量音级音符；结构 F1 指标在指定容差下衡量乐段边界。在 Chords1217 数据集上，ChordFormer 使用五折交叉验证，而 SheetSage2 则在全部 1217 首曲目上评估单一固定模型。\n\n完整对比包含 SheetSage1、Madmom 以及针对特定任务的系统。\n\n我们的模型主要基于 CC0 许可音乐与合成数据进行训练。Tokenwave.AI 在授权协议下提供了我们大部分合成训练数据。我们致力于恪守道德规范并负责任地使用数据。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "来源叙事重点：宣传YuE2、MERT2及SheetSage2在音乐生成、音频表征和扒谱上的SOTA性能基准数据（如在WildSongBench上超越Suno v5），并强调符号规划能力及使用CC0和合成数据的合规伦理训练流程"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:33:26.000Z",
+            "url": "https://map-yue2.github.io/"
+          }
+        ]
+      },
+      {
+        "id": "story-rosier-forecast-cc41a4aa-c4858e2bfb03da0b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:19:00.000Z",
+        "pubTime": "2026-09-11 08:19",
+        "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The company saw its backlog grow even more in the latest quarter.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 08:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T00:19:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-97377afac67526a6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fastly Speedtest Test",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T21:58:12.000Z",
+        "pubTime": "2026-09-11 05:58",
+        "url": "https://speed.edgecompute.app/",
+        "imageUrl": null,
+        "fullContent": "The result should fairly accurately reflect cache fetch speed you’re going to get with the official Nix binary cache ;)",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-11 05:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://speed.edgecompute.app/",
+            "publishedAt": "2026-09-10T21:58:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hidden-architecture-html-c968e8d0f58f7767",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Scientists visualize proteins' hidden water architecture that may help define biological function",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:00:01.000Z",
+        "pubTime": "2026-09-11 08:00",
+        "url": "https://phys.org/news/2026-09-scientists-visualize-proteins-hidden-architecture.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-directly-vi-1.jpg",
+        "fullContent": "by Kanazawa University\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nFor decades, scientists have understood proteins primarily through two defining features: their amino acid sequence and their three-dimensional structure. This framework has driven major advances in biology, biotechnology and medicine, culminating in recent artificial intelligence tools capable of predicting protein structures with remarkable accuracy.\n\nYet a fundamental challenge remains: Even when a protein's sequence and structure are known, predicting its function, interactions and behavior often remains difficult. An international team of researchers from Japan, Finland, Italy and the United States now reports evidence that part of this missing information may lie in an often-overlooked component of proteins: the highly organized water surrounding them.\n\nIn a study published in Nature Communications, the team provides the first direct three-dimensional visualization of sequence-dependent hydration architectures surrounding peptide assemblies at subnanometer resolution using advanced three-dimensional atomic force microscopy (3D-AFM).\n\nThe findings reveal that water near peptide and protein surfaces is not simply a passive solvent. Instead, it forms highly organized, multilayered structures whose organization is dictated by the underlying amino acid sequence and surface chemistry. These hydration architectures extend multiple layers from the peptide surface and contain distinct structural signatures associated with hydrophobic, polar, aromatic and charged amino acid residues.\n\nThe researchers propose that these hydration structures are not merely consequences of the protein's presence but are an integral part of protein identity and function. This has led them to introduce a new concept: the protein superstructure, defined as the protein together with its uniquely organized hydration architecture.\n\n\"Our findings suggest that proteins cannot be fully understood by sequence and structure alone,\" said Prof. Mehmet Sarikaya of the University of Washington. \"The highly specific hydration architecture organized by a protein appears to be part of its functional identity. We define this integrated protein-water entity as the protein superstructure.\"\n\nWater is essential to virtually every biological process. Proteins fold in water, recognize molecular partners, catalyze reactions and function exclusively in aqueous environments. Scientists have long known that hydration influences protein folding, stability, molecular recognition and enzymatic activity. However, directly observing the three-dimensional molecular organization of hydration water locally around proteins has remained one of the major challenges in molecular biology and biophysics. Most experimental methods provide indirect or averaged information, while computational approaches often lack direct experimental validation at molecular resolution.\n\nUsing an ordered self-assembled peptide system and high-resolution 3D-AFM, the team was able to visualize hydration structures with unprecedented detail. The results show that water organizes into sequence-specific patterns that persist across multiple hydration layers before gradually transitioning into bulk water. These patterns effectively create hydration fingerprints that reflect the underlying molecular chemistry of the peptide surface.\n\nThe discovery may help explain why predicting protein function remains challenging even when structures are well known. Despite tremendous progress in structural biology and AI-based protein prediction, scientists still struggle to accurately predict many aspects of molecular recognition, ligand binding, enzymatic activity and biological specificity from protein structures alone. The researchers suggest that hydration architecture may represent a previously missing layer of biological information linking sequence, structure and function.\n\n\"A protein never exists in isolation,\" said Dr. Takeshi Fukuma of Kanazawa University. \"It exists together with its hydration architecture. Understanding this coupled protein-water organization may be essential for understanding how proteins function and interact in living systems.\"\n\nThe implications extend across biology, medicine, biotechnology and materials science. Incorporating hydration architecture into studies of proteins could improve understanding of protein folding, molecular recognition and drug-target interactions. It may also provide new opportunities for protein engineering, AI-driven protein design, biomimetic materials, catalytic interfaces, biosensors and other technologies that depend on controlling interactions in water.\n\nImportantly, the study does not propose a new form of \"biological water.\" Rather, it demonstrates that interfacial water forms dynamic but persistent sequence-dependent structures imposed by biomolecular surface chemistry. Future work will extend these measurements to more complex proteins and biological systems, with the long-term goal of incorporating hydration architectures into predictive models of protein structure and function.\n\n\"Proteins evolved and function in water,\" said Dr. Ayhan Yurtsever. \"If we want to fully understand protein behavior and design better drugs, proteins and biomaterials, we must understand not only the protein itself but also the highly organized water structure surrounding it. Directly visualizing that hidden architecture opens an entirely new dimension in protein science.\"\n\nBy establishing hydration as a sequence-specific structural component of biomolecular interfaces and introducing the concept of the protein superstructure, this work provides a new framework for understanding protein function and may help address longstanding challenges in predictive biology, drug discovery, protein engineering and bioinspired materials design.\n\nAyhan Yurtsever et al, Peptides display multilayered hydration shell substructures dictated by sequence-specific surface chemistry, Nature Communications (2026). DOI: 10.1038/s41467-026-76923-4\n\nJournal information: Nature Communications\n\nProvided by Kanazawa University\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将蛋白质功能研究从“氨基酸序列+三维结构”扩展到“蛋白质及其周围有序水合结构”，突出3D-AFM对肽组装体水合层的亚纳米级可视化，并将其叙述为解释蛋白质功能预测困难、推动药物发现、蛋白质工程和AI设计的新信息层。报道整体采用“基础发现具有广泛应用潜力”的积极科学传播框架。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:00:01.000Z",
+            "url": "https://phys.org/news/2026-09-scientists-visualize-proteins-hidden-architecture.html"
+          }
+        ]
+      },
+      {
+        "id": "story-son-andrew-hastie-ntwnfb-38a6045360ce7833",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Australia news live: Andrew Hastie says he accepts Barnaby Joyce’s explanation over ‘traitor’ video and Pauline Hanson now ‘the only lying coward’",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T01:04:08.000Z",
+        "pubTime": "2026-09-11 09:04",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/71f8ced18a9329c07d650acb2b498e9a6be1be27/245_0_2952_2363/master/2952.jpg?width=140&quality=85&auto=format&fit=max&s=722666881cb131861f1d7cd2830ee769",
+        "fullContent": "Follow the day’s news live\n\n‘Profound’ increase in death rate for welfare recipients, report finds\n\nPeople receiving an income support including disability, unemployment or carers payments had an average mortality rate more than nine times higher than people who did not access the welfare system, AAP reports.\n\nI think if One Nation and the Greens are voting together, the Greens are voting the wrong way on climate. … I’m very pleased that this passed the parliament. I’m very pleased that the Greens party room worked with me, the majority.\n\nThis was a good day yesterday because it’s practical action. … [It’s] good for emissions, and also providing a route for investment and economic development in the regions where this logging has occurred and where now the economy can be diversified.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以澳大利亚当日政治与公共政策动态为主线，突出安德鲁·哈斯蒂接受巴纳比·乔伊斯对“叛徒”视频的解释、保琳·汉森被指为“唯一撒谎的懦夫”等党派冲突性表述，同时涉及福利领取者死亡率、气候投票以及林业地区经济转型等议题。报道呈现了政治人物的说法和立场，但证据包未提供对相关视频、争议言论或数据的独立核验。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T01:04:08.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-kstations-thelio-mira-ai-7068f4bd3401bbcf",
+        "title": "要闻：借助 Thelio Mira AI 加速人工智能开发",
+        "originalTitle": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T23:10:06.000Z",
+        "pubTime": "2026-09-11 07:10",
+        "url": "https://system76.com/workstations/thelio-mira-ai",
+        "imageUrl": null,
+        "fullContent": "Accelerate your AI development with Thelio Mira AI, System76's affordable, GPU-focused workstations, built for local AI development — so you can train, fine-tune, and iterate challenging AI workloads entirely on your own hardware.\n\nConfigure Thelio Mira with up to:\n\nSystem76 branded hardware products come with the option for either a 1-year, 2-year or 3-year limited product warranty, except that all batteries and chargers are warranted for only one (1) year.\n\nTo ensure your order arrives smoothly, please be aware of our international shipping polices. System76 does not calculate or collect international taxes, duties, or brokerage fees at checkout. System76 does not cover shipping costs related to International warranty repairs.\n\nFor a complete description of System76's Warranty click here\n\nOpen, customizable, and built for AI\n\nLong training runs can't afford silent errors. Thelio Mira AI's ECC GPU memory helps protect your progress.\n\nCloud GPU instances add up fast. Train, fine-tune, and iterate locally without recurring cloud fees.\n\nDo what you do best — with an open source OS that stays out of your way and maximizes your productivity. Pop!_OS is engineered to keep you innovating with customizable workflows while collecting *zero* user data.\n\nProtect your data, models, and research with robust security features like encryption on setup — giving you peace of mind when running sensitive or proprietary AI workloads locally.\n\nFrom schematic to fulfillment, your system is designed from generations of hardware expertise and skillfully handcrafted in Denver, Colorado.\n\nDesigned for easy access — so you can upgrade and keep your desktop running at its best for years to come.\n\nSystem76 computers are optimized for Pop!_OS and Ubuntu. Additionally, you can install a variety of Linux distributions, as well as Microsoft Windows.\n\nYes! Upgrading your Thelio Mira AI is straightforward. We provide lifetime support alongside detailed guides found in the tech specs to help you upgrade components like RAM, storage, and GPUs.\n\nYes — Thelio Mira AI can be configured with dual PCIe 5.0 x16 slots for x8/x8 multi-GPU support, so you get fast memory transfer between GPUs for large-scale model training.\n\nOur support team comes highly rated, and for good reason. For the lifetime of your product, you'll have direct access to our in-house experts who are trained in fast, effective solutions.\n\nSystem76 offers a first-class Linux experience backed by a unique blend of repairability, open source software, customization, and privacy-focused features, plus US-based manufacturing, engineering, and support.\n\nYes! We take sheet metal and cut, sand, bend, powder coat, and assemble it all into a full desktop that’s then shipped out the door.",
+        "fullTranslation": "借助 Thelio Mira AI 加速人工智能开发。这款由 System76 打造、价格亲民且专注于 GPU 的工作站，专为本地人工智能开发而设计，让你完全依靠自己的硬件训练、微调和迭代具有挑战性的人工智能工作负载。\n\nThelio Mira 可配置的最高规格如下：\n\nSystem76 品牌硬件产品可选择 1 年、2 年或 3 年有限产品保修，但所有电池和充电器仅享有 1 年保修。\n\n为确保订单顺利送达，请注意我们的国际运输政策。System76 不会在结账时计算或收取国际税费、关税或经纪费用。System76 不承担与国际保修维修相关的运输费用。\n\n如需完整了解 System76 的保修政策，请点击此处。\n\n开放、可定制，专为人工智能打造。\n\n长时间的训练运行容不得无声错误。Thelio Mira AI 的 ECC GPU 内存有助于保护你的工作进度。\n\n云端 GPU 实例的费用会迅速累积。现在可以在本地进行训练、微调和迭代，无需持续支付云服务费用。\n\n专注于你最擅长的工作——采用不会妨碍你的开源操作系统，最大限度提升生产效率。Pop!_OS 通过可定制的工作流程助力你持续创新，同时做到完全不收集用户数据。\n\n借助安装时启用加密等强大的安全功能，保护你的数据、模型和研究成果；在本地运行敏感或专有的人工智能工作负载时，你可以更加安心。\n\n从原理图设计到订单交付，你的系统凝聚了数代硬件专业经验，并在科罗拉多州丹佛市精心手工打造。\n\n设计注重易于拆装和维护，让你能够升级设备，多年来持续保持桌面电脑的最佳运行状态。\n\nSystem76 电脑针对 Pop!_OS 和 Ubuntu 进行了优化。此外，你还可以安装各种 Linux 发行版以及 Microsoft Windows。\n\n是的！升级 Thelio Mira AI 非常简单。我们提供终身支持，并在技术规格页面提供详细指南，帮助你升级内存、存储和 GPU 等组件。\n\n是的——Thelio Mira AI 可配置两个 PCIe 5.0 x16 插槽，以 x8/x8 模式支持多 GPU，从而在 GPU 之间实现高速内存传输，满足大规模模型训练需求。\n\n我们的支持团队广受好评，这是有原因的。在产品整个生命周期内，你都可以直接联系经过培训、能够快速有效解决问题的内部专家。\n\nSystem76 提供一流的 Linux 使用体验，并以可维修性、开源软件、可定制性和注重隐私的功能为独特优势，同时结合美国本土制造、工程设计和支持服务。\n\n是的！我们将金属板材进行切割、打磨、折弯、粉末喷涂和组装，最终制成完整的台式电脑，然后发货出库。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 Thelio Mira AI 构建“本地化、可定制、开放、注重隐私且便于长期维护”的 Linux AI 工作站叙事。页面强调最高可配 192 GB GPU 内存、ECC GPU 内存、本地训练和微调、双 PCIe 5.0 x16 插槽、Pop!_OS、零用户数据收集、加密、可升级性、终身支持以及美国制造等卖点；同时以节省云 GPU 经常性费用和保护敏感模型数据为购买理由。上述内容主要是厂商自述，未提供独立性能、价格、能耗、噪音、兼容性或成本效益验证。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T23:10:06.000Z",
+            "url": "https://system76.com/workstations/thelio-mira-ai"
+          }
+        ]
+      },
+      {
+        "id": "story-et-wanting-more-137ea782-40ed194374656ae7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Adobe’s latest earnings leave Wall Street wanting more",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:17:00.000Z",
+        "pubTime": "2026-09-11 08:17",
+        "url": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“In this environment you can’t just meet” expectations, an analyst says",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 08:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T00:17:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tary-advisers-are-on-the-bb3e64e8dc8666f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "More than 100 US military advisers are on the ground in Saudi Arabia, providing support for the war in Yemen, while hundreds of Iranian officers are in Yemen advising the Houthis",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T20:38:03.000Z",
+        "pubTime": "2026-09-11 04:38",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wcv40k/more_than_100_us_military_advisers_are_on_the/",
+        "imageUrl": "https://external-preview.redd.it/eRvRDmsfV_hzQeyRRyhvlum0AXPFnFQfSrYv0LGPyBU.jpeg?width=640&crop=smart&auto=webp&s=f80d1f45b0d7f706b97c0a3ec8129ceeec1c57f7",
+        "fullContent": "submitted by /u/Wowthefrea [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-11 04:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wcv40k/more_than_100_us_military_advisers_are_on_the/",
+            "publishedAt": "2026-09-10T20:38:03.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-1-vybory-2116951262-html-87ee0fd8301a32e2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Сотрудники маяка на мысе Африка проголосовали на выборах в Госдуму",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T01:08:10.000Z",
+        "pubTime": "2026-09-11 09:08",
+        "url": "https://ria.ru/20260911/vybory-2116951262.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/06/2115881865_0:291:3072:2019_650x0_80_0_0_f794545c063fd3298a8bb09d28b598d2.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 09:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/vybory-2116951262.html",
+            "publishedAt": "2026-09-11T01:08:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ws-articles-c8r6y4me2g6o-d73c7d39c95d5e6b",
+        "title": "谷歌将购买一座核电站半数电力",
+        "originalTitle": "Google will buy half the electricity of a nuclear power plant",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:42:41.000Z",
+        "pubTime": "2026-09-11 08:42",
+        "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+        "imageUrl": null,
+        "fullContent": "Google will buy up to half the electricity produced by one of Finland's nuclear power plants as part of a record €13bn (£11bn; $15bn) investment in the country's AI infrastructure, the company announced.\n\nThe US tech giant said the package would fund three new data centres, expand an existing site and support energy projects to power growing demand for AI services.\n\n\"This is Google's largest single investment in Europe and a testament to Finland's leadership in responsibly building AI infrastructure,\" the company said on Wednesday.\n\n\"Google's decision is a clear testament to our strengths,\" Finland's Prime Minister Petteri Orpo said in a statement.\n\nAs part of the deal, Google signed a 22-year contract with Finnish utility Fortum to buy up to 50% of the output from the Loviisa nuclear power plant.\n\nEarlier this week, TikTok announced a $1bn investment in Finland to build a new data centre in Kouvola, pointing to the country's \"strong digital infrastructure, clean energy mix, robust data governance and skilled tech talent\".\n\nFinland has emerged as an attractive location for data centres because of its cool climate, plentiful low-carbon electricity and relatively uncongested power grid. The colder temperatures can reduce the energy needed to cool facilities packed with computer servers.\n\nTechnology companies are racing to secure power supplies as the AI boom drives demand for vast networks of data centres.\n\nThe Google investment is expected to support more than 37,000 jobs during construction and boost Finland's GDP by €3.6bn a year, according to Google. Construction is set to take place in 2027 and 2028.\n\n\"The value of the data economy extends far beyond direct investment into spurring innovation, research and development,\" Orpo added.\n\n\"Deepening our collaboration with Google will deliver lasting benefits for both parties.\"\n\nGoogle will build new data centres in Kajaani, Muhos and Vaala, while expanding its existing facility in Hamina, which it established after converting a former paper mill in 2009.\n\nThe infrastructure will help support products such as its AI chatbot Gemini, alongside services including Search, Maps and YouTube.\n\nGoogle said the investments also covered \"clean energy projects, and dedicated nature and community funds to support local biodiversity, education, research, and workforce development\".\n\n\"Google is proud to deepen our roots in Finland,\" said Ruth Porat, president and chief investment officer of Alphabet and Google.\n\n\"This investment underscores Google's commitment to grow our presence responsibly, pairing the expansion of our technical infrastructure with new energy capacity, grid enhancements, and energy affordability initiatives,\" she added.\n\nEarlier this year, Google's parent company Alphabet raised its global spending plans to as much as $205bn as it sought to expand computing capacity for AI services.\n\nThe agreement with Fortum provides long-term financial certainty for the Loviisa plant, which currently generates about 10% of Finland's electricity.\n\nFortum said Google's commitment would support an investment programme aimed at extending the life of the nuclear station and increasing its generating capacity.\n\nThe father had threatened to behead a female primary school teacher near Toulouse.\n\nCrowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.\n\nFive deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.\n\nTens of thousands of people lined the streets to pay their respects after 13 days of national mourning.\n\nIt is the second such incident in Poland in days and the prime minister says tough new regulations are needed.",
+        "fullTranslation": "谷歌宣布，作为在芬兰人工智能基础设施创纪录的130亿欧元（约合110亿英镑、150亿美元）投资的一部分，该公司将购买芬兰一座核电站多达半数的发电量。\n\n这家美国科技巨头表示，该投资计划将资助新建三座数据中心、扩建一处现有设施，并支持能源项目，以满足对人工智能服务不断增长的需求。\n\n该公司周三表示：“这是谷歌在欧洲规模最大的一笔单项投资，也证明了芬兰在以负责任的方式建设人工智能基础设施方面的领先地位。”\n\n芬兰总理彼得里·奥尔波（Petteri Orpo）在一份声明中表示：“谷歌的决定清楚地证明了我们的优势。”\n\n作为该交易的一部分，谷歌与芬兰富腾电力公司（Fortum）签署了一份为期22年的合同，将购买洛维萨（Loviisa）核电站最高达50%的电力产出。\n\n本周早些时候，TikTok也宣布在芬兰投资10亿美元，在科乌沃拉（Kouvola）建设一座新的数据中心，并指出芬兰拥有“强大的数字基础设施、清洁的能源结构、健全的数据治理以及熟练的科技人才”。\n\n由于气候凉爽、低碳电力充裕且电网相对通畅，芬兰已成为极具吸引力的数据中心选址地。较低的气温可以减少冷却密集部署计算机服务器的设施所需的能耗。\n\n随着人工智能热潮推高了对庞大数据中心网络的需求，科技公司正竞相锁定电力供应。\n\n据谷歌称，这笔投资预计将在建设期间支持超过3.7万个工作岗位，并每年为芬兰的GDP贡献36亿欧元。工程建设定于2027年和2028年进行。\n\n奥尔波补充道：“数据经济的价值远远超出了直接投资本身，它还能推动创新与研发。”\n\n“深化我们与谷歌的合作将为双方带来持久的利益。”\n\n谷歌将在卡亚尼（Kajaani）、穆霍斯（Muhos）和瓦拉（Vaala）建设新的数据中心，同时扩建其位于哈米纳（Hamina）的现有设施。哈米纳设施是谷歌在2009年通过改造一座前造纸厂而设立的。\n\n该基础设施将有助于支持其人工智能聊天机器人Gemini等产品，以及包括搜索、地图和YouTube在内的各项服务。\n\n谷歌表示，这些投资还涵盖了“清洁能源项目，以及旨在支持当地生物多样性、教育、科研和劳动力发展的专门自然与社区基金”。\n\nAlphabet及谷歌总裁兼首席投资官露丝·波拉特（Ruth Porat）表示：“谷歌很自豪能够深化在芬兰的根基。”\n\n她补充说：“这项投资彰显了谷歌以负责任方式拓展业务的承诺，将技术基础设施的扩建与新增能源产能、电网升级以及能源可负担性举措紧密结合。”\n\n今年早些时候，谷歌母公司Alphabet将其全球支出计划提高至高达2050亿美元，以扩大用于人工智能服务的算力。\n\n与富腾达成的协议为洛维萨核电站提供了长期的财务确定性，该核电站目前供应芬兰约10%的电力。\n\n富腾表示，谷歌的承诺将为一项旨在延长核电站寿命并提升其发电能力的投资计划提供支持。\n\n该父亲曾在图卢兹附近威胁要斩首一名小学女教师。\n\n大批人群涌入大英博物馆参观贝叶挂毯，这是该挂毯在被制作近1000年后首次在英国公开展出。\n\n随着双方发动新的无人机袭击，乌克兰报告有五人死亡，俄罗斯报告有四人死亡。\n\n在为期13天的全国哀悼期后，成千上万的人走上街头表达哀思。\n\n这是波兰数日内发生的第二起此类事件，总理表示需要出台严格的新规。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 24,
+        "keyTakeaways": [
+          "谷歌宣布在芬兰投资130亿欧元（约合110亿英镑或150亿美元）用于AI基础设施建设，并将购买芬兰一座核电站多达一半的电力。",
+          "谷歌与芬兰电力公用事业公司Fortum签署了一份为期22年的合同，购买洛维萨（Loviisa）核电站多达50%的发电量。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:42:41.000Z",
+            "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o"
+          }
+        ]
+      },
+      {
+        "id": "story-ded-foldable-market-html-c07d5f6565a6fcf0",
+        "title": "iPhone Duo进军中国拥挤的折叠屏市场，面临价格考验",
+        "originalTitle": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:19:54.000Z",
+        "pubTime": "2026-09-11 08:19",
+        "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+        "imageUrl": null,
+        "fullContent": "Apple's first folding phone is getting a tepid response Chinese consumers that are focused more on how much it costs versus existing foldables from domestic rivals.\n\n\"I won't buy it this year. I'll buy the second-generation foldable next year,\" one user on social media platform WeChat said, according to CNBC's translation, after Apple announced the iPhone Duo at an event on Wednesday. It's priced at 15,999 yuan ($2,230) in China.\n\nU.S. consumers \"earn US$3,000 to US$4,000 a month and buy it for US$1,999. We earn 3,000 to 4,000 yuan and spend 10,000 yuan on it,\" one commenter wrote on a WeChat video review translated by CNBC.\n\nApple shares climbed more than 3% after the launch event.\n\nBut the company faces a key test in its third-biggest market of Greater China, which generates around 17% of total revenue and is one of the world's most competitive foldable-phone markets.\n\nHuawei, Xiaomi, Honor, Oppo and Vivo already sell devices across book-style, flip-phone and, in Huawei's case, trifold designs. That means that in China, the iPhone Duo is entering a more established category than in many other overseas markets.\n\nAhead of Apple's event, Xiaomi and Huawei on Monday launched new flagship foldables, the Xiaomi 18 Fold and the trifold Mate XT2, priced at 10,999 yuan and 19,999 yuan.\n\nApple's Duo is \"cheaper than Huawei. Can you take it?\" one WeChat commenter wrote.\n\nHuawei led China's smartphone market in both the first and second quarters, according to Counterpoint. Apple was second, followed by Vivo and Oppo, the data showed.\n\nWorldwide, Samsung has narrowly reclaimed the lead over Apple by smartphone shipments in the second quarter, while Xiaomi ranked third, according to Counterpoint. Earlier this year, Samsung launched a new version of its folding phone and is expected to surpass Apple in foldable market share, a sizable lead at 32% compared to Apple and Huawei at 25% and 24% respectively, according to the research.\n\nIn addition to price, users on Chinese social media also expressed concerns about the Duo's lack of a physical SIM-card slot, which may require mainland users to visit a carrier store for ID verification to activate an eSIM.\n\nXiaomi's 18 Fold will be available for purchase from Thursday. Huawei's Mate XT2 follows days later. Apple's iPhone Duo pre-orders are slated to begin Oct. 16 with sales commencing on Oct. 23.\n\n—CNBC's Jenny Lee contributed to this report.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "苹果公司的首款折叠屏手机在中国消费者中反响平平，相比国内竞争对手现有的折叠机型，消费者更关注其售价。\n\n在苹果周三的发布会上推出iPhone Duo后，据CNBC翻译，社交媒体平台微信上的一位用户表示：“今年不买，明年买第二代折叠屏。”该机型在中国市场的售价为15,999元人民币（约合2,230美元）。\n\nCNBC翻译的一则微信视频评论中，一位评论者写道：美国消费者“一个月挣三四千美元，花1,999美元买。我们挣三四千块钱，花一万多块去买”。\n\n发布会结束后，苹果股价上涨超过3%。\n\n但该公司在其第三大市场大中华区面临着关键考验。大中华区贡献了苹果约17%的总营收，同时也是全球竞争最激烈的折叠屏手机市场之一。\n\n华为、小米、荣耀、OPPO和vivo已经推出了涵盖书本式内折、翻盖式小折叠以及（华为的）三折叠设计的产品。这意味着在中国，iPhone Duo进入的是一个比许多海外市场都更为成熟的品类品类市场。\n\n在苹果发布会之前，小米和华为于周一分别推出了新款旗舰折叠屏手机——小米 18 Fold与三折叠手机Mate XT2，售价分别为10,999元和19,999元。\n\n一位微信评论者写道，苹果的Duo“比华为便宜，你能忍住吗？”\n\n根据Counterpoint的数据，华为在今年第一季度和第二季度均领跑中国智能手机市场。数据显示，苹果位居第二，随后是vivo和OPPO。\n\n在全球范围内，Counterpoint表示，三星在第二季度以微弱优势反超苹果夺回智能手机出货量第一，小米位列第三。今年早些时候，三星推出了新一代折叠屏手机，根据该研究机构的数据，预计三星将在折叠屏市场份额上超越苹果，以32%的份额保持显著领先，而苹果和华为的份额预计分别为25%和24%。\n\n除价格外，中国社交媒体上的用户还对Duo缺少实体SIM卡槽表示担忧，这可能需要中国大陆用户前往运营商营业厅进行身份验证以激活eSIM。\n\n小米 18 Fold将于周四起开售。华为Mate XT2随后几天跟进。苹果iPhone Duo的预购定于10月16日开始，并将于10月23日正式发售。\n\n——CNBC的Jenny Lee对本报道亦有贡献。\n\n有机密新闻线索？期待您的来信。\n\n将此内容订阅发送至您的收件箱，并获取有关我们产品和服务的更多信息。\n\n数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票报价以及市场数据和分析。\n\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "苹果公司在周三发布了其首款折叠屏手机 iPhone Duo，中国市场售价为 15,999 元人民币（2,230 美元），美国市场售价为 1,999 美元。",
+          "发布会后苹果公司股价上涨超过 3%。",
+          "来源叙事重点：报道将iPhone Duo进入中国描述为一次价格与市场接受度测试，重点比较其15,999元定价与小米、华为等国产折叠屏产品的价格，强调中国折叠屏市场竞争已较成熟、苹果在大中华区面临本土品牌竞争，并补充苹果股价上涨、市场份额和eSIM限制等信息。所谓“中国消费者反应冷淡”主要建立在少量社交媒体评论之上，属于报道框架而非已被充分验证的整体市场结论。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:19:54.000Z",
+            "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html"
+          }
+        ]
+      },
+      {
+        "id": "story-oft-deprecating-re-match-5fe75a5fc53d34ad",
+        "title": "软弃用 re.match()",
+        "originalTitle": "Soft-deprecating re.match()",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T21:59:16.000Z",
+        "pubTime": "2026-09-11 05:59",
+        "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
+        "imageUrl": null,
+        "fullContent": "Quick, without looking it up, what does re.match() do? Which of these return a match?\n\nHow does it compare to re.search() and re.fullmatch()?\n\nWhilst you’re (quickly) thinking about it, let’s introduce soft deprecation.\n\nPython’s backwards compatibility policy (PEP 387) introduced soft deprecation in 2023:\n\nA soft deprecation can be used when using an API which should no longer be used to write new code, but it remains safe to continue using it in existing code. The API remains documented and tested, but will not be developed further (no enhancement).\n\nA soft deprecation does not imply future removal of the API, nor does it issue a warning. It’s a docs-only recommendation to not use an API, ideally with a suggested replacement.\n\nIt’s a completely separate decision whether, if ever, to turn a soft deprecation into a regular “hard” deprecation (where removal may follow); soft deprecations don’t “graduate” into regular deprecations or removals.\n\nSo re.match() only matches at the beginning of a string! This can be surprising: why is the start of the string special?\n\nIf you don’t want to anchor at the start, and want to match anywhere in the string, use re.search():\n\nIf you want to anchor both the start and the end, and check the entire string matches, use re.fullmatch():\n\nBecause of the surprising half-anchored behaviour, we’ve introduced a new alias for re.match() in Python 3.15, named re.prefixmatch():\n\nQuoting from the Zen Of Python (python3 -m this): “Explicit is better than implicit”. Anyone reading the name prefixmatch() is likely to understand the intended semantics. When reading match() there remains a seed of doubt about the intended behavior to anyone not already familiar with this old Python gotcha.\n\nAnd with a more explicit replacement, we’ve soft-deprecated re.match() in Python 3.15:\n\nWe do not plan to remove the older match() name, as it has been used in code for over 30 years. It has been soft deprecated: code supporting older versions of Python should continue to use match(), while new code should prefer prefixmatch().\n\nUse re.prefixmatch() if you only really meant to use the half-anchor; otherwise use re.search() or re.fullmatch().\n\nThe functions without special characters are generally a bit faster.\n\nYou can avoid re.match() in your project with Ruff:\n\nHeader photo: Double-exposure bike and pedestrian stencils (CC BY-NC-SA 2.0 Hugo van Kemenade).",
+        "fullTranslation": "快，别去查资料，说说 re.match() 是做什么用的？以下哪一项会返回匹配结果？\n它与 re.search() 以及 re.fullmatch() 相比又有什么区别？\n趁着你正在（快速）思考这个问题，我们来介绍一下“软弃用”（soft deprecation）。\nPython 的向后兼容性策略（PEP 387）在 2023 年引入了软弃用机制：\n当某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然保持安全时，就可以采用软弃用。该 API 仍会保留文档并进行测试，但不会再对其进行进一步开发（不添加新功能）。\n软弃用并不意味着未来会移除该 API，也不会发出警告。它只是仅停留在文档层面的不建议使用该 API 的建议，通常还会给出推荐的替代方案。\n至于是否以及何时将软弃用转变为常规的“硬”弃用（随后可能会彻底移除），完全是另一项独立的决策；软弃用并不会自动“晋升”为常规弃用或被移除。\n因此，re.match() 实际上只在字符串的开头进行匹配！这可能会让人感到意外：为什么字符串的开头会如此特殊？\n如果你不想固定在开头匹配，而是想在字符串的任意位置进行匹配，请使用 re.search()：\n如果你既想固定开头又想固定结尾，检查整个字符串是否匹配，请使用 re.fullmatch()：\n正是因为这种令人意外的“半锚定”行为，我们在 Python 3.15 中为 re.match() 引入了一个新别名，名为 re.prefixmatch()：\n引用《Python 之禅》（python3 -m this）中的一句话：“显式优于隐式”。任何人在看到 prefixmatch() 这个名称时，很可能都会立刻理解其预期的语义。而对于尚未熟悉这个 Python 历史遗留陷阱的人来说，在阅读 match() 时，心里总会对其实际行为存有一丝疑虑。\n有了更显式的替代品后，我们在 Python 3.15 中对 re.match() 进行了软弃用：\n我们并不打算移除旧有的 match() 这个名称，因为它已经在代码中使用了超过 30 年。它已被软弃用：需要支持较旧版本 Python 的代码应继续使用 match()，而新编写的代码则应优先使用 prefixmatch()。\n只有当你确实只需要这种半锚定行为时，才使用 re.prefixmatch()；否则，请使用 re.search() 或 re.fullmatch()。\n没有特殊字符的函数通常执行速度会稍快一些。\n你可以在项目中借助 Ruff 来避免使用 re.match()：\n题图：自行车与行人模板双重曝光照片（CC BY-NC-SA 2.0 Hugo van Kemenade）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Python 的向后兼容策略（PEP 387）于 2023 年引入了“软弃用”（soft deprecation）概念。",
+          "软弃用是指某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然安全；软弃用不意味着未来一定会移除该 API，也不会发出警告，仅作为文档中的不推荐使用建议。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T21:59:16.000Z",
+            "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/"
+          }
+        ]
+      },
+      {
+        "id": "story-nown-life-york-city-html-f233d50a8717b22a",
+        "title": "在纽约市搜寻未知生命",
+        "originalTitle": "The hunt for unknown life in New York City",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:40:03.000Z",
+        "pubTime": "2026-09-11 08:40",
+        "url": "https://phys.org/news/2026-09-unknown-life-york-city.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hunt-for-unknown-l.jpg",
+        "fullContent": "by Frid Kvalpskarmo Hansen, Norwegian University of Science and Technology\n\nedited by Swati Mestri, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nThe globe is full of unknown species. But is it really possible to find a completely new animal species in the middle of the largest city in the United States?\n\n\"People like to imagine that undiscovered species are only found in remote rainforests or the great ocean depths, but they can be found everywhere. Even in areas that are well studied, we continue to discover species that are new to science,\" says Emily Hartop.\n\nHartop is an entomologist at the Norwegian University of Science and Technology's natural history museum in Trondheim, the NTNU University Museum.\n\nShe is collaborating with multiple research partners—the American media outlet Vox, the Centre for Biodiversity Genomics at the University of Guelph in Canada, and the Prospect Park Alliance and Central Park Conservancy in New York—in the hunt for unknown life in the largest city in the United States. She feels confident that they will find something.\n\n\"It's highly likely. In my field, discovering new species is the rule rather than the exception,\" Hartop says.\n\n\"The reality is that the majority of Earth's animal species are still unknown to us humans. Scientists have formally named around 2 million species, but the actual number of species is perhaps 10 times higher,\" Hartop says.\n\nYou may have already guessed that Hartop isn't looking for unknown bear or gorilla species. We have—unfortunately, some might say—a pretty good grasp of them. Insects, on the other hand, constitute a large blank spot on the species map, especially those within the category of \"dark taxa\"—groups of organisms that are extremely species-rich but about which we know very little.\n\n\"A lot of dark taxa are small insects, mites and other organisms that receive little attention compared with more charismatic groups like mammals and bees. They are often both common and ecologically important, but we simply don't have enough specialists to get an overview of them.\"\n\nYou may be wondering how you can even begin to find unknown insects in the middle of a city. Well, it happens in several stages.\n\nThe hunt for unknown life in New York is being carried out by setting up tentlike insect traps—called Malaise traps—two of which have now been placed in Central Park and Prospect Park. Both are highly urban parks located in Manhattan and Brooklyn, respectively. The traps work by guiding insects into a container of ethanol, where they are killed and preserved.\n\nOnce a month, the collected insects are sent to the Centre for Biodiversity Genomics (CBG) in Canada. There, the genetic material of the insects in the traps is mapped using a method called DNA barcoding. The method works by using a short, defined part of the genetic material—the DNA—to act as a genetic barcode for each species. In the same way that an item in a store has a unique barcode, species can be identified through their DNA barcode.\n\nInsects that show up with a unique DNA barcode are sent to researchers in the respective species groups. They conduct further investigations to find out if they are new species. One of these researchers is Hartop at the NTNU University Museum. She is a global expert on humpbacked flies, a highly species-rich family of small flies.\n\nIf something new is found, the species will be described scientifically and given a name—a laborious process that can often take a couple of years.\n\n\"One of the most exciting things about this project is that it challenges the idea that new discoveries only happen in remote wilderness areas. The truth is that unknown species can be discovered in parks and gardens too,\" Hartop says.\n\nShe says it's very likely that we would find something new if we followed the same procedures in Trondheim or almost any other city.\n\nThis enormous number of unknown insects helps keep the ecological balance on the planet from collapsing. It might be worth reminding yourself of this—even if you never quite experience Hartop's love for flies.\n\n\"People often ask me why I study small flies. The truth is, flies are amazing. They are among the most diverse organisms on the planet, they've evolved an incredible variety of lifestyles, and a lot of them are genuinely beautiful,\" Hartop says.\n\n\"Every time we look closely, flies remind us that the living world is far more diverse, fascinating and mysterious than we imagine it.\"\n\nProvided by Norwegian University of Science and Technology\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "作者：弗里德·克瓦尔普斯卡莫·汉森（Frid Kvalpskarmo Hansen），挪威科技大学\n编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：安德鲁·齐宁（Andrew Zinin）\n本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时突出了以下要点：\n\n地球上到处都是未知物种。但是，在美国最大的城市中心，真的有可能发现一种全新的动物物种吗？\n\n“人们总喜欢想象未被发现的物种只存在于偏远的雨林或大洋深处，但其实它们无处不在。即使在那些已被深入研究的地区，我们仍在不断发现科学上的新物种，”埃米莉·哈托普（Emily Hartop）说道。\n\n哈托普是位于特隆赫姆的挪威科技大学自然历史博物馆（NTNU 大学博物馆）的一名昆虫学家。\n\n她正与多个研究伙伴展开合作——包括美国媒体 Vox、加拿大圭尔夫大学生物多样性基因组学中心，以及纽约的展望公园联盟（Prospect Park Alliance）和中央公园管理委员会（Central Park Conservancy）——在美国最大的城市中搜寻未知生命。她坚信他们一定会有所收获。\n\n“可能性极高。在我的专业领域，发现新物种是常态而非特例，”哈托普说。\n\n“事实是，地球上绝大多数动物物种对我们人类来说仍然是未知的。科学家已经正式命名的物种约有 200 万种，但实际的物种数量可能是这一数字的 10 倍，”哈托普表示。\n\n你可能已经猜到，哈托普要找的并不是未知的熊或大猩猩物种。有些人可能会说很遗憾，我们对这类物种已经掌握得相当清楚了。相比之下，昆虫构成了物种版图上的大片空白，尤其是那些属于“暗物种”（dark taxa）范畴的昆虫——这一类群的生物种类极其丰富，但我们对其却知之甚少。\n\n“许多‘暗物种’是小型昆虫、螨类和其他生物，与哺乳动物和蜜蜂等更具魅力的类群相比，它们受到的关注很少。它们通常既常见又在生态上极为重要，但我们根本没有足够的专业人员来全面了解它们。”\n\n你可能会好奇，在城市中心究竟该如何着手寻找未知昆虫？其实，这一过程分几个阶段进行。\n\n在纽约寻找未知生命的行动，是通过搭建帐篷状的昆虫陷阱——即马氏网（Malaise traps）来进行的。目前已有两具陷阱分别安置在中央公园和展望公园。这两个高度城市化的公园分别位于曼哈顿和布鲁克林。陷阱的运作方式是将昆虫引导至装有乙醇的容器中，将其杀死并妥善保存。\n\n采集到的昆虫每月会被送往加拿大的生物多样性基因组学中心（CBG）一次。在那里，工作人员利用一种名为“DNA条形码”的技术，对陷阱中昆虫的遗传物质进行图谱绘制。该方法利用遗传物质（DNA）中一段特定且简短的片段，来充当每个物种的遗传条形码。正如商店里的每件商品都有唯一的条形码一样，物种也可以通过其 DNA 条形码进行识别。\n\n显示出独特 DNA 条形码的昆虫会被分发给相应物种群的研究人员。他们会进行更深入的调查，以确定它们是否属于新物种。NTNU 大学博物馆的哈托普便是这些研究人员之一。她是蚤蝇（humpbacked flies，一种物种极度丰富的小型苍蝇科类）领域的全球专家。\n\n如果发现了新物种，它将被赋予科学描述并命名——这是一个往往需要耗费数年时间的繁重过程。\n\n“该项目最令人兴奋的地方之一在于，它打破了‘新发现只能出现在偏远荒野地区’的传统观念。事实证明，在公园和花园里同样能发现未知物种，”哈托普说道。\n\n她表示，如果在特隆赫姆或几乎任何其他城市采取相同的调查方法，我们很可能也会发现新物种。\n\n这些数量庞大的未知昆虫有助于防止地球的生态平衡崩溃。哪怕你永远无法体会哈托普对苍蝇的热爱，记住这一点或许也是值得的。\n\n“人们经常问我为什么研究小苍蝇。事实是，苍蝇太神奇了。它们是地球上最多样化的生物之一，演化出了极其丰富的生活方式，而且其中许多种类真的很美，”哈托普说。\n\n“每当我们仔细观察，苍蝇都在提醒我们：生命世界远比我们想象的更加多样、迷人且神秘。”\n\n本文由挪威科技大学提供\n斯瓦蒂·梅斯特里（Swati Mestri）拥有电子工程学士学位，自 2019 年起担任内容编辑。她在科技、医疗健康和材料科学领域具有研究文献编辑经验，对科技和太空领域尤为感兴趣。查看完整履历 →\n物理学硕士，具有研究经验。资深科学新闻爱好者。在 Science X 的编辑工作中发挥关键作用。查看完整履历 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "Emily Hartop 是挪威科技大学特隆赫姆自然历史博物馆（NTNU University Museum）的昆虫学家，也是驼背蝇（humpbacked flies）领域的专家。",
+          "Emily Hartop 正与美国媒体 Vox、加拿大圭尔夫大学生物多样性基因组学中心（Centre for Biodiversity Genomics）、纽约展望公园联盟（Prospect Park Alliance）以及中央公园保护协会（Central Park Conservancy）合作，在纽约市搜寻未知生物物种。",
+          "来源叙事重点：强调“城市中也能发现未知物种”，将纽约中央公园和展望公园的昆虫调查呈现为挑战“新物种只存在于偏远荒野”这一观念的案例。报道重点包括Malaise陷阱采样、DNA条形码筛查、专家复核及后续科学命名流程，并突出昆虫尤其是“暗分类群”在生物多样性研究中的重要性。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:40:03.000Z",
+            "url": "https://phys.org/news/2026-09-unknown-life-york-city.html"
+          }
+        ]
+      },
+      {
+        "id": "story-911-obse-2116951073-html-c6a628e4faba7aec",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия не дает Западу монополизировать ОБСЕ, заявил Полянский",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T01:04:37.000Z",
+        "pubTime": "2026-09-11 09:04",
+        "url": "https://ria.ru/20260911/obse-2116951073.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 09:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/obse-2116951073.html",
+            "publishedAt": "2026-09-11T01:04:37.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-15e2051c5046525f",
+        "title": "YuE2 · 基于符号规划的前沿音乐生成",
+        "originalTitle": "YuE2 · Frontier Music with Symbolic Planning",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:33:26.000Z",
+        "pubTime": "2026-09-11 08:33",
+        "url": "https://map-yue2.github.io/",
+        "imageUrl": null,
+        "fullContent": "Listen to a song, then explore the melody, rhythm, and chords in its symbolic plan.\n\nA familiar song can take a different shape. Listen to changes in melody, lyrics, tempo, and arrangement.\n\nA song takes shape through a conversation. Loading the editing story…\n\nEnable JavaScript to explore the conversation, hear the songs and play their scores.\n\nThe listening selection, gathered across genres and languages.\n\nYuE2 (best-of-8) reaches 6.9632 on SongBench, the highest observed mean among 15 evaluated settings on WildSongBench (192 prompts). Suno v5 scores 6.8721 in the same comparison.\n\nSeptember 5, 2026 evaluation · rankings vary by metric.\n\nWildSongBench. 192 prompts and 15 system settings. The table reports automatic evaluation scores. Best-of-8 selects one of eight generations by musicality, prompt control, and lyric accuracy.\n\nFigure 1. Song quality combines SongBench and SongEval; text alignment combines MuLan, AllMusicCaps, and prompt control. Both axes show normalized comparison indices. Bubble area represents AudioBox production quality.\n\nMERT2 · Music representations\n\nMERT2-30s and MERT2-FS (full-song) achieve SOTA on 14 of 15 MARBLE metrics, leading across tagging, key, genre, and emotion recognition.\n\nSOTA counts use the best score across the two MERT2 encoders against the nine published baselines in this comparison. Both encoders have 632M parameters. MERT2-30s uses a 30-second training context; MERT2-FS uses 300 seconds. These are full-context representation benchmarks. MERT2 reports the best observed results across representations selected using test scores; each ROC-AUC / AP pair uses the same representation.\n\nPublished baseline comparison ↗\n\nSheetSage2 · Audio to score\n\nSheetSage2 achieves SOTA on 10 of 13 benchmark metrics with one model for beat, downbeat, key, chord, structure, and melody transcription.\n\nSOTA counts refer to the leading scores against SheetSage1, Madmom, and the task-specific systems in this comparison. Results use one model selected by validation loss. Melody F1 measures pitch-class notes; structure F1 measures section boundaries at the stated tolerance. On Chords1217, ChordFormer uses five-fold cross-validation, while SheetSage2 evaluates one fixed model on all 1,217 tracks.\n\nFull comparison includes SheetSage1, Madmom, and task-specific systems.\n\nOur models are trained primarily on CC0 music and synthetic data. Tokenwave.AI provides most of our synthetic training data under license. We are committed to the ethical and responsible use of data.",
+        "fullTranslation": "聆听一首歌曲，随后在其符号规划中探索旋律、节奏与和弦。\n\n一首熟悉的歌曲可以呈现出不同的形态。倾听旋律、歌词、速度和编曲的变化。\n\n歌曲通过对话逐渐成形。正在加载编辑过程……\n\n请启用 JavaScript 以探索对话内容、聆听歌曲并播放对应乐谱。\n\n试听精选集，汇集了多种流派与语言。\n\nYuE2（8选1，best-of-8）在 SongBench 评测中达到 6.9632 分，是 WildSongBench（192 个提示词）上评估的 15 种系统设置中测得的最高平均分。在同一对比中，Suno v5 的得分是 6.8721。\n\n2026年9月5日评估 · 排名因指标而异。\n\nWildSongBench：包含 192 个提示词和 15 种系统设置。该表报告了自动评估得分。“8选1”机制根据音乐性、提示词可控性以及歌词准确性从八次生成中选取最优结果。\n\n图 1：歌曲质量综合了 SongBench 和 SongEval；文本对齐度综合了 MuLan、AllMusicCaps 和提示词可控性。两轴均显示归一化对比指数。气泡面积代表 AudioBox 制作质量。\n\nMERT2 · 音乐表征\n\nMERT2-30s 与 MERT2-FS（全曲，full-song）在 15 项 MARBLE 指标中的 14 项上达到顶尖水平（SOTA），在标签分类、调性检测、流派与情感识别等方面均处于领先地位。\n\nSOTA 统计取两个 MERT2 编码器在此次对比的九个已发布基准中的最优成绩。两款编码器均拥有 6.32 亿（632M）参数。MERT2-30s 采用 30 秒的训练上下文；MERT2-FS 则采用 300 秒。这些均为全上下文表征基准。MERT2 报告了使用测试分数选出的各表征中观察到的最佳结果；每对 ROC-AUC / AP 均使用相同的表征。\n\n已发布基准对比 ↗\n\nSheetSage2 · 音频转乐谱\n\nSheetSage2 仅凭单个模型就在 13 项基准指标中的 10 项达到 SOTA，涵盖拍子、强拍、调性、和弦、结构和旋律转录。\n\nSOTA 统计是指在本对比中相比 SheetSage1、Madmom 以及特定任务系统所取得的领先得分。结果来自通过验证集损失（validation loss）选出的单一模型。旋律 F1 指标衡量音级音符；结构 F1 指标在指定容差下衡量乐段边界。在 Chords1217 数据集上，ChordFormer 使用五折交叉验证，而 SheetSage2 则在全部 1217 首曲目上评估单一固定模型。\n\n完整对比包含 SheetSage1、Madmom 以及针对特定任务的系统。\n\n我们的模型主要基于 CC0 许可音乐与合成数据进行训练。Tokenwave.AI 在授权协议下提供了我们大部分合成训练数据。我们致力于恪守道德规范并负责任地使用数据。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "来源叙事重点：宣传YuE2、MERT2及SheetSage2在音乐生成、音频表征和扒谱上的SOTA性能基准数据（如在WildSongBench上超越Suno v5），并强调符号规划能力及使用CC0和合成数据的合规伦理训练流程"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:33:26.000Z",
+            "url": "https://map-yue2.github.io/"
+          }
+        ]
+      },
+      {
+        "id": "story-rosier-forecast-cc41a4aa-c4858e2bfb03da0b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:19:00.000Z",
+        "pubTime": "2026-09-11 08:19",
+        "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The company saw its backlog grow even more in the latest quarter.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 08:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T00:19:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-97377afac67526a6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fastly Speedtest Test",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T21:58:12.000Z",
+        "pubTime": "2026-09-11 05:58",
+        "url": "https://speed.edgecompute.app/",
+        "imageUrl": null,
+        "fullContent": "The result should fairly accurately reflect cache fetch speed you’re going to get with the official Nix binary cache ;)",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-11 05:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://speed.edgecompute.app/",
+            "publishedAt": "2026-09-10T21:58:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hidden-architecture-html-c968e8d0f58f7767",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Scientists visualize proteins' hidden water architecture that may help define biological function",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:00:01.000Z",
+        "pubTime": "2026-09-11 08:00",
+        "url": "https://phys.org/news/2026-09-scientists-visualize-proteins-hidden-architecture.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-directly-vi-1.jpg",
+        "fullContent": "by Kanazawa University\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nFor decades, scientists have understood proteins primarily through two defining features: their amino acid sequence and their three-dimensional structure. This framework has driven major advances in biology, biotechnology and medicine, culminating in recent artificial intelligence tools capable of predicting protein structures with remarkable accuracy.\n\nYet a fundamental challenge remains: Even when a protein's sequence and structure are known, predicting its function, interactions and behavior often remains difficult. An international team of researchers from Japan, Finland, Italy and the United States now reports evidence that part of this missing information may lie in an often-overlooked component of proteins: the highly organized water surrounding them.\n\nIn a study published in Nature Communications, the team provides the first direct three-dimensional visualization of sequence-dependent hydration architectures surrounding peptide assemblies at subnanometer resolution using advanced three-dimensional atomic force microscopy (3D-AFM).\n\nThe findings reveal that water near peptide and protein surfaces is not simply a passive solvent. Instead, it forms highly organized, multilayered structures whose organization is dictated by the underlying amino acid sequence and surface chemistry. These hydration architectures extend multiple layers from the peptide surface and contain distinct structural signatures associated with hydrophobic, polar, aromatic and charged amino acid residues.\n\nThe researchers propose that these hydration structures are not merely consequences of the protein's presence but are an integral part of protein identity and function. This has led them to introduce a new concept: the protein superstructure, defined as the protein together with its uniquely organized hydration architecture.\n\n\"Our findings suggest that proteins cannot be fully understood by sequence and structure alone,\" said Prof. Mehmet Sarikaya of the University of Washington. \"The highly specific hydration architecture organized by a protein appears to be part of its functional identity. We define this integrated protein-water entity as the protein superstructure.\"\n\nWater is essential to virtually every biological process. Proteins fold in water, recognize molecular partners, catalyze reactions and function exclusively in aqueous environments. Scientists have long known that hydration influences protein folding, stability, molecular recognition and enzymatic activity. However, directly observing the three-dimensional molecular organization of hydration water locally around proteins has remained one of the major challenges in molecular biology and biophysics. Most experimental methods provide indirect or averaged information, while computational approaches often lack direct experimental validation at molecular resolution.\n\nUsing an ordered self-assembled peptide system and high-resolution 3D-AFM, the team was able to visualize hydration structures with unprecedented detail. The results show that water organizes into sequence-specific patterns that persist across multiple hydration layers before gradually transitioning into bulk water. These patterns effectively create hydration fingerprints that reflect the underlying molecular chemistry of the peptide surface.\n\nThe discovery may help explain why predicting protein function remains challenging even when structures are well known. Despite tremendous progress in structural biology and AI-based protein prediction, scientists still struggle to accurately predict many aspects of molecular recognition, ligand binding, enzymatic activity and biological specificity from protein structures alone. The researchers suggest that hydration architecture may represent a previously missing layer of biological information linking sequence, structure and function.\n\n\"A protein never exists in isolation,\" said Dr. Takeshi Fukuma of Kanazawa University. \"It exists together with its hydration architecture. Understanding this coupled protein-water organization may be essential for understanding how proteins function and interact in living systems.\"\n\nThe implications extend across biology, medicine, biotechnology and materials science. Incorporating hydration architecture into studies of proteins could improve understanding of protein folding, molecular recognition and drug-target interactions. It may also provide new opportunities for protein engineering, AI-driven protein design, biomimetic materials, catalytic interfaces, biosensors and other technologies that depend on controlling interactions in water.\n\nImportantly, the study does not propose a new form of \"biological water.\" Rather, it demonstrates that interfacial water forms dynamic but persistent sequence-dependent structures imposed by biomolecular surface chemistry. Future work will extend these measurements to more complex proteins and biological systems, with the long-term goal of incorporating hydration architectures into predictive models of protein structure and function.\n\n\"Proteins evolved and function in water,\" said Dr. Ayhan Yurtsever. \"If we want to fully understand protein behavior and design better drugs, proteins and biomaterials, we must understand not only the protein itself but also the highly organized water structure surrounding it. Directly visualizing that hidden architecture opens an entirely new dimension in protein science.\"\n\nBy establishing hydration as a sequence-specific structural component of biomolecular interfaces and introducing the concept of the protein superstructure, this work provides a new framework for understanding protein function and may help address longstanding challenges in predictive biology, drug discovery, protein engineering and bioinspired materials design.\n\nAyhan Yurtsever et al, Peptides display multilayered hydration shell substructures dictated by sequence-specific surface chemistry, Nature Communications (2026). DOI: 10.1038/s41467-026-76923-4\n\nJournal information: Nature Communications\n\nProvided by Kanazawa University\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将蛋白质功能研究从“氨基酸序列+三维结构”扩展到“蛋白质及其周围有序水合结构”，突出3D-AFM对肽组装体水合层的亚纳米级可视化，并将其叙述为解释蛋白质功能预测困难、推动药物发现、蛋白质工程和AI设计的新信息层。报道整体采用“基础发现具有广泛应用潜力”的积极科学传播框架。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T00:00:01.000Z",
+            "url": "https://phys.org/news/2026-09-scientists-visualize-proteins-hidden-architecture.html"
+          }
+        ]
+      },
+      {
+        "id": "story-son-andrew-hastie-ntwnfb-38a6045360ce7833",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Australia news live: Andrew Hastie says he accepts Barnaby Joyce’s explanation over ‘traitor’ video and Pauline Hanson now ‘the only lying coward’",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T01:04:08.000Z",
+        "pubTime": "2026-09-11 09:04",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/71f8ced18a9329c07d650acb2b498e9a6be1be27/245_0_2952_2363/master/2952.jpg?width=140&quality=85&auto=format&fit=max&s=722666881cb131861f1d7cd2830ee769",
+        "fullContent": "Follow the day’s news live\n\n‘Profound’ increase in death rate for welfare recipients, report finds\n\nPeople receiving an income support including disability, unemployment or carers payments had an average mortality rate more than nine times higher than people who did not access the welfare system, AAP reports.\n\nI think if One Nation and the Greens are voting together, the Greens are voting the wrong way on climate. … I’m very pleased that this passed the parliament. I’m very pleased that the Greens party room worked with me, the majority.\n\nThis was a good day yesterday because it’s practical action. … [It’s] good for emissions, and also providing a route for investment and economic development in the regions where this logging has occurred and where now the economy can be diversified.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以澳大利亚当日政治与公共政策动态为主线，突出安德鲁·哈斯蒂接受巴纳比·乔伊斯对“叛徒”视频的解释、保琳·汉森被指为“唯一撒谎的懦夫”等党派冲突性表述，同时涉及福利领取者死亡率、气候投票以及林业地区经济转型等议题。报道呈现了政治人物的说法和立场，但证据包未提供对相关视频、争议言论或数据的独立核验。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T01:04:08.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-kstations-thelio-mira-ai-7068f4bd3401bbcf",
+        "title": "要闻：借助 Thelio Mira AI 加速人工智能开发",
+        "originalTitle": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T23:10:06.000Z",
+        "pubTime": "2026-09-11 07:10",
+        "url": "https://system76.com/workstations/thelio-mira-ai",
+        "imageUrl": null,
+        "fullContent": "Accelerate your AI development with Thelio Mira AI, System76's affordable, GPU-focused workstations, built for local AI development — so you can train, fine-tune, and iterate challenging AI workloads entirely on your own hardware.\n\nConfigure Thelio Mira with up to:\n\nSystem76 branded hardware products come with the option for either a 1-year, 2-year or 3-year limited product warranty, except that all batteries and chargers are warranted for only one (1) year.\n\nTo ensure your order arrives smoothly, please be aware of our international shipping polices. System76 does not calculate or collect international taxes, duties, or brokerage fees at checkout. System76 does not cover shipping costs related to International warranty repairs.\n\nFor a complete description of System76's Warranty click here\n\nOpen, customizable, and built for AI\n\nLong training runs can't afford silent errors. Thelio Mira AI's ECC GPU memory helps protect your progress.\n\nCloud GPU instances add up fast. Train, fine-tune, and iterate locally without recurring cloud fees.\n\nDo what you do best — with an open source OS that stays out of your way and maximizes your productivity. Pop!_OS is engineered to keep you innovating with customizable workflows while collecting *zero* user data.\n\nProtect your data, models, and research with robust security features like encryption on setup — giving you peace of mind when running sensitive or proprietary AI workloads locally.\n\nFrom schematic to fulfillment, your system is designed from generations of hardware expertise and skillfully handcrafted in Denver, Colorado.\n\nDesigned for easy access — so you can upgrade and keep your desktop running at its best for years to come.\n\nSystem76 computers are optimized for Pop!_OS and Ubuntu. Additionally, you can install a variety of Linux distributions, as well as Microsoft Windows.\n\nYes! Upgrading your Thelio Mira AI is straightforward. We provide lifetime support alongside detailed guides found in the tech specs to help you upgrade components like RAM, storage, and GPUs.\n\nYes — Thelio Mira AI can be configured with dual PCIe 5.0 x16 slots for x8/x8 multi-GPU support, so you get fast memory transfer between GPUs for large-scale model training.\n\nOur support team comes highly rated, and for good reason. For the lifetime of your product, you'll have direct access to our in-house experts who are trained in fast, effective solutions.\n\nSystem76 offers a first-class Linux experience backed by a unique blend of repairability, open source software, customization, and privacy-focused features, plus US-based manufacturing, engineering, and support.\n\nYes! We take sheet metal and cut, sand, bend, powder coat, and assemble it all into a full desktop that’s then shipped out the door.",
+        "fullTranslation": "借助 Thelio Mira AI 加速人工智能开发。这款由 System76 打造、价格亲民且专注于 GPU 的工作站，专为本地人工智能开发而设计，让你完全依靠自己的硬件训练、微调和迭代具有挑战性的人工智能工作负载。\n\nThelio Mira 可配置的最高规格如下：\n\nSystem76 品牌硬件产品可选择 1 年、2 年或 3 年有限产品保修，但所有电池和充电器仅享有 1 年保修。\n\n为确保订单顺利送达，请注意我们的国际运输政策。System76 不会在结账时计算或收取国际税费、关税或经纪费用。System76 不承担与国际保修维修相关的运输费用。\n\n如需完整了解 System76 的保修政策，请点击此处。\n\n开放、可定制，专为人工智能打造。\n\n长时间的训练运行容不得无声错误。Thelio Mira AI 的 ECC GPU 内存有助于保护你的工作进度。\n\n云端 GPU 实例的费用会迅速累积。现在可以在本地进行训练、微调和迭代，无需持续支付云服务费用。\n\n专注于你最擅长的工作——采用不会妨碍你的开源操作系统，最大限度提升生产效率。Pop!_OS 通过可定制的工作流程助力你持续创新，同时做到完全不收集用户数据。\n\n借助安装时启用加密等强大的安全功能，保护你的数据、模型和研究成果；在本地运行敏感或专有的人工智能工作负载时，你可以更加安心。\n\n从原理图设计到订单交付，你的系统凝聚了数代硬件专业经验，并在科罗拉多州丹佛市精心手工打造。\n\n设计注重易于拆装和维护，让你能够升级设备，多年来持续保持桌面电脑的最佳运行状态。\n\nSystem76 电脑针对 Pop!_OS 和 Ubuntu 进行了优化。此外，你还可以安装各种 Linux 发行版以及 Microsoft Windows。\n\n是的！升级 Thelio Mira AI 非常简单。我们提供终身支持，并在技术规格页面提供详细指南，帮助你升级内存、存储和 GPU 等组件。\n\n是的——Thelio Mira AI 可配置两个 PCIe 5.0 x16 插槽，以 x8/x8 模式支持多 GPU，从而在 GPU 之间实现高速内存传输，满足大规模模型训练需求。\n\n我们的支持团队广受好评，这是有原因的。在产品整个生命周期内，你都可以直接联系经过培训、能够快速有效解决问题的内部专家。\n\nSystem76 提供一流的 Linux 使用体验，并以可维修性、开源软件、可定制性和注重隐私的功能为独特优势，同时结合美国本土制造、工程设计和支持服务。\n\n是的！我们将金属板材进行切割、打磨、折弯、粉末喷涂和组装，最终制成完整的台式电脑，然后发货出库。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "来源叙事重点：围绕 Thelio Mira AI 构建“本地化、可定制、开放、注重隐私且便于长期维护”的 Linux AI 工作站叙事。页面强调最高可配 192 GB GPU 内存、ECC GPU 内存、本地训练和微调、双 PCIe 5.0 x16 插槽、Pop!_OS、零用户数据收集、加密、可升级性、终身支持以及美国制造等卖点；同时以节省云 GPU 经常性费用和保护敏感模型数据为购买理由。上述内容主要是厂商自述，未提供独立性能、价格、能耗、噪音、兼容性或成本效益验证。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-10T23:10:06.000Z",
+            "url": "https://system76.com/workstations/thelio-mira-ai"
+          }
+        ]
+      },
+      {
+        "id": "story-et-wanting-more-137ea782-40ed194374656ae7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Adobe’s latest earnings leave Wall Street wanting more",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T00:17:00.000Z",
+        "pubTime": "2026-09-11 08:17",
+        "url": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“In this environment you can’t just meet” expectations, an analyst says",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 08:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T00:17:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tary-advisers-are-on-the-bb3e64e8dc8666f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "More than 100 US military advisers are on the ground in Saudi Arabia, providing support for the war in Yemen, while hundreds of Iranian officers are in Yemen advising the Houthis",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-10T20:38:03.000Z",
+        "pubTime": "2026-09-11 04:38",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wcv40k/more_than_100_us_military_advisers_are_on_the/",
+        "imageUrl": "https://external-preview.redd.it/eRvRDmsfV_hzQeyRRyhvlum0AXPFnFQfSrYv0LGPyBU.jpeg?width=640&crop=smart&auto=webp&s=f80d1f45b0d7f706b97c0a3ec8129ceeec1c57f7",
+        "fullContent": "submitted by /u/Wowthefrea [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-11 04:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wcv40k/more_than_100_us_military_advisers_are_on_the/",
+            "publishedAt": "2026-09-10T20:38:03.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789080148681,
     "timeDisplay": "2026-09-11 06:42 (UTC+8)",
     "date": "2026-09-11",

@@ -22,14 +22,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **21** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **22** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-11 06:42 (UTC+8)
+- **最新归档时间**：2026-09-11 09:19 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-11 09:19 (UTC+8)" title="全球要闻情报简报 · 09:19" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-11 09:11 (UTC+8) 完成，共获得 33 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】谷歌将购买一座核电站半数电力：谷歌宣布，作为在芬兰人工智能基础设施创纪录的130亿欧元（约合110亿英镑、150亿美元）投资的一部分，该公司将购买芬兰一座核电站多达半数的发电量。；【undefined】iPhone Duo进军中国拥挤的折叠屏市场，面临价格考验：苹果公司的首款折叠屏手机在中国消费者中反响平平，相比国内竞争对手现有的折叠机型，消费者更关注其售价。；【undefined】软弃用 re.match()：快，别去查资料，说说 re.match() 是做什么用的？以下哪一项会返回匹配结果？ 它与 re.search() 以及 re.fullmatch() 相比又有什么区别？ 趁着你正在（快速）思考这个问题，我们来介绍一下“软弃用”（soft deprecation）。 Python 的向后兼容性策略（PEP 387）在 2023 年引入了软弃用机制： 当某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然保持安全时，就可以采用软；【undefined】在纽约市搜寻未知生命：作者：弗里德·克瓦尔普斯卡莫·汉森（Frid Kvalpskarmo Hansen），挪威科技大学 编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时突出了以下要点：；【undefined】YuE2 · 基于符号规划的前沿音乐生成：聆听一首歌曲，随后在其符号规划中探索旋律、节奏与和弦。；【undefined】要闻：借助 Thelio Mira AI 加速人工智能开发：借助 Thelio Mira AI 加速人工智能开发。这款由 System76 打造、价格亲民且专注于 GPU 的工作站，专为本地人工智能开发而设计，让你完全依靠自己的硬件训练、微调和迭代具有挑战性的人工智能工作负载。；【undefined】全球数据库揭示城市间食品碳排放各不相同的背后原因：作者：莱顿大学 Hilde Pracht 编辑：Gaby Clark；审校：Robert Egan 本文已按照 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审期刊；【undefined】转人工“太费劲”这项国标为AI客服“立规矩”：9月起，国家标准为人工与智能客服协同划定清晰边界
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260911/vybory-2116951262.html) <span class="news-meta-time">🕒 2026-09-11 09:08</span>
+- [Hacker News (科技前沿论坛)] [谷歌将购买一座核电站半数电力](https://www.bbc.com/news/articles/c8r6y4me2g6o) <span class="news-meta-time">🕒 2026-09-11 08:42</span>
+- [CNBC Markets (CNBC 市场官方英文)] [iPhone Duo进军中国拥挤的折叠屏市场，面临价格考验](https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html) <span class="news-meta-time">🕒 2026-09-11 08:19</span>
+- [Lobste.rs (极客思想社区)] [软弃用 re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/) <span class="news-meta-time">🕒 2026-09-11 05:59</span>
+- [Phys.org (基础物理与技术前沿)] [在纽约市搜寻未知生命](https://phys.org/news/2026-09-unknown-life-york-city.html) <span class="news-meta-time">🕒 2026-09-11 08:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260911/obse-2116951073.html) <span class="news-meta-time">🕒 2026-09-11 09:04</span>
+:::
 :::timeline-item{start="2026-09-11 06:42 (UTC+8)" title="全球要闻情报简报 · 06:42" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-11 06:40 (UTC+8) 完成，共获得 39 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
