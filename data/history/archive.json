@@ -1,5 +1,1550 @@
 [
   {
+    "timestamp": 1789144642853,
+    "timeDisplay": "2026-09-12 00:37 (UTC+8)",
+    "date": "2026-09-12",
+    "runId": "feed-20260911T163552902Z-qan8h0",
+    "generatedAt": "2026-09-11T16:37:22.853Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 00:35",
+      "lead": "本轮抓取于 2026-09-12 00:35 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】我们展开了 iPhone Duo 折叠屏手机：第一印象的机会只有一次，而作为苹果公司首席执行官，以推出苹果首款折叠屏手机来拉开序幕，无疑是一个极其强有力的开局。在今天的《The Vergecast》节目中，我们将全面探讨苹果的发布会：约翰·特努斯（John Ternus）作为 CEO 的首次亮相表现如何，我们对新款 iPhone 有何看法，以及苹果在 Apple Watch 上推出的新 AI 功能是否正在步入危险领域。",
+        "【undefined】白宫称“真相社交”是“最强大且最受欢迎的”社交媒体平台：来自该话题的帖子将被添加到您的每日电子邮件文摘和主页推送中。",
+        "【undefined】与耳鸣共处令人痛苦，我们能做些什么？：耳鸣影响着数百万人，其表现形式多种多样。但有一些疗法可以帮助减轻其带来的痛苦。",
+        "【undefined】2026年自然人破产：流程、费用与后果：“截至目前，进行破产程序有两种法定途径：通过多功能政务服务中心（MFC）的庭外破产，以及通过仲裁法院进行的破产。该流程由第127-FZ号联邦法律《关于破产（破产清算）》予以规范。 第一种途径仅适用于有限类别的公民。债务人必须满足一系列条件。第二种途径——通过法院破产——适用于更多公民。俄罗斯统一破产信息登记系统（Fedresurs）的统计数据证实了这一点：人们选择司法破产的次数是庭外破产的8倍。此处的关键在于证明自身的无偿债能力——即无",
+        "【undefined】OpenAI推出全新金融服务版ChatGPT，瞄准华尔街初级银行家日常工作：OpenAI正瞄准华尔街最耗费人力的部分工作，推出了一款新版ChatGPT，专门用于调研公司、分析财务数据以及生成投资银行家所依赖的演示文稿。",
+        "【undefined】沙特关键石油绕行通道遭受威胁：胡塞武装袭击威胁沙特石油出口，布伦特原油价格触及105美元，中东原油飙升至120美元。2026年9月11日，星期五——胡塞武装对沙特阿拉伯石油基础设施的袭击令石油市场警觉，中东供应可能会比以往更趋紧张；东西管道的潜在受损危及沙特每日300万至400万桶的原油出口。尽管海湾国家外长周末的会议在一定程度上抑制了失控的原油价格，但如果现状长期持续，ICE布伦特原油达到每桶105美元、穆尔班（Murban）和阿曼（Oman）等现有中东油品达到每",
+        "【undefined】波斯湾局势升级 超级油轮日租金突破80万美元：波罗的海交易所（Baltic Exchange）基准中东至中国航线的超级油轮运费已飙升至令人瞠目的每日80万美元。随着美军摧毁了5艘与伊朗有关联的油轮，加之德黑兰方面近日威胁将采取进一步升级行动，短期内局势企稳的前景依然十分有限。运费的暴涨表明，原油和成品油仍在持续流转，但从波斯湾地区运往全球市场的运输成本正变得越来越高昂。",
+        "【undefined】美国疾控中心称：创纪录的美国环孢子虫病疫情已结束：美国疾病控制与预防中心（CDC）周五表示，美国有史以来最大规模的环孢子虫病疫情已经结束。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期目录显示的主要议题",
+      "lead": "主文章缺少标题、正文、来源及引用证据；以下仅依据目录中可见摘要归纳，不能替代完整报道核验。",
+      "themes": [
+        {
+          "name": "通胀与生活成本压力",
+          "analysis": "目录摘要提到更高的生活成本调整幅度可能反映持续通胀，同时有消费者担忧税负，显示居民支出与购买力压力仍是关注点。"
+        },
+        {
+          "name": "大型活动的经济影响",
+          "analysis": "一则摘要称，席琳·迪翁在巴黎演出以及教皇利奥十四世到访，预计将为法国带来约5亿至8亿欧元的经济收益。该数字仅来自目录摘要，尚缺少来源和测算方法核验。"
+        },
+        {
+          "name": "金砖国家分歧与能源价格",
+          "analysis": "目录摘要称，中国、俄罗斯、印度、伊朗等金砖国家领导人将在新德里聚集，但战争与能源价格上涨造成分歧。现有材料不足以判断具体分歧内容及其政策影响。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 56,
+      "completedTasks": 56,
+      "succeeded": 48,
+      "degraded": 8,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 56,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 89908,
+      "byRole": {
+        "translator": {
+          "attempts": 40,
+          "succeeded": 33,
+          "degraded": 7
+        },
+        "fact-extractor": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "topic-classifier": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 56,
+          "succeeded": 48,
+          "degraded": 8
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-4-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-29-translator-0",
+      "article-32-translator-0",
+      "article-35-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:33.119Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.090Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:33.131Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.095Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.481Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.783Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.555Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.928Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.972Z",
+        "lastSuccessAt": "2026-09-11T16:35:37.578Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.935Z",
+        "lastSuccessAt": "2026-09-11T16:35:37.291Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:37.578Z",
+        "lastSuccessAt": "2026-09-11T16:35:37.927Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:33.565Z",
+        "lastSuccessAt": "2026-09-11T16:35:33.927Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.864Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.125Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.783Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.158Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.095Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.610Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.090Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.765Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:33.997Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.864Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.073Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.481Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:37.291Z",
+        "lastSuccessAt": "2026-09-11T16:35:38.009Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:36.421Z",
+        "lastSuccessAt": "2026-09-11T16:35:37.870Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:37.129Z",
+        "lastSuccessAt": "2026-09-11T16:35:37.488Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 12,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.928Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.440Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.467Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.588Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.117Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.555Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:33.492Z",
+        "lastSuccessAt": "2026-09-11T16:35:33.565Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:30.254Z",
+        "lastSuccessAt": "2026-09-11T16:35:33.492Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.334Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.680Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.235Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.513Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.967Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.334Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.317Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.557Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.578Z",
+        "lastSuccessAt": "2026-09-11T16:35:36.025Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.917Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.143Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:37.369Z",
+        "lastSuccessAt": "2026-09-11T16:35:41.093Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.418Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.578Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-11T16:35:35.697Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.602Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.922Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.922Z",
+        "lastSuccessAt": "2026-09-11T16:35:36.421Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:37.488Z",
+        "lastSuccessAt": "2026-09-11T16:35:38.133Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.588Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.917Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.963Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.722Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.158Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.418Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.722Z",
+        "lastSuccessAt": "2026-09-11T16:35:36.267Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.557Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.935Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-11T16:35:35.513Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:30.252Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.467Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.680Z",
+        "lastSuccessAt": "2026-09-11T16:35:36.258Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:30.253Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.073Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:36.025Z",
+        "lastSuccessAt": "2026-09-11T16:35:38.170Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.143Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.317Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:33.927Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.117Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.440Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.602Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:35.125Z",
+        "lastSuccessAt": "2026-09-11T16:35:35.235Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:36.258Z",
+        "lastSuccessAt": "2026-09-11T16:35:37.129Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:36.267Z",
+        "lastSuccessAt": "2026-09-11T16:35:37.369Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.765Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.963Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:34.610Z",
+        "lastSuccessAt": "2026-09-11T16:35:34.967Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:30.238Z",
+        "lastSuccessAt": "2026-09-11T16:35:33.119Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:30.250Z",
+        "lastSuccessAt": "2026-09-11T16:35:33.131Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T16:35:30.251Z",
+        "lastSuccessAt": "2026-09-11T16:35:33.997Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-1-egipet-2117167905-html-b428c06874d22f87",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Каир считает важным обеспечить свободу навигации, заявил президент Египта",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T16:34:04.000Z",
+        "pubTime": "2026-09-12 00:34",
+        "url": "https://ria.ru/20260911/egipet-2117167905.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/153086/33/1530863384_0:0:2850:1603_650x0_80_0_0_a6c8c2c6d96684f22296e3b5598bdc86.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 00:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/egipet-2117167905.html",
+            "publishedAt": "2026-09-11T16:34:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ast-apple-watch-mac-llms-4246c352d18cb724",
+        "title": "我们展开了 iPhone Duo 折叠屏手机",
+        "originalTitle": "We unfolded the iPhone Duo",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:22:24.000Z",
+        "pubTime": "2026-09-12 00:22",
+        "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_0911_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "You only get one chance at a first impression, and getting to introduce Apple’s first folding phone is certainly a strong way to start things off as Apple’s CEO. On The Vergecast today, we’re talking all about Apple’s launch event: how John Ternus did in his first appearance as CEO, what we make of the new iPhones, and whether Apple is stepping into dangerous territory with its new AI features on the Apple Watch. First up, Allison Johnson joins me to discuss the new iPhones, which she had a chance to test in Cupertino. Both of us have some questions about the new variable aperture camera on the iPhone 18 Pro — and whether the real upgrade simply lies in the wider aperture, not the ability to stop it down. Then we dig into the iPhone Duo and how Apple decided to pick and choose the best parts of Android foldables. Watch | Listen | Get ad-free After that, Victoria Song joins me to discuss the new Apple Watches, which she also had a chance to test out. We dive into the new sensor array and whether it allows for legitimately new metrics or just more vibesy health data. And then we both break down a little while figuring out what it means that Apple added the ability for both new Apple Watches to have an always-on microphone that summarizes all of your conversations. This is an Apple-packed episode, so from there we jump to a special segment with Nilay Patel and David Imel, who speak with AI researcher CJ Trowbridge about the state of running local LLMs on the Mac. Finally, it’s the long awaited return of the Thunder Round, as we race through stories so that Allison can make it to the airport. We’re chatting OpenAI math drama, digital ocarinas, and more. If you want to learn more about this week’s stories, you can check out the links below: * iPhone 18 Pro and Pro Max: Our first hands-on impressions * The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera * Hands-on with the foldable iPhone Duo * Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4 * Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day * Read the Apple document explaining how new listening features still protect your privacy * Mathematicians want proof OpenAI didn’t use their work * OpenAI’s sly mathematical breakthrough sends a chill through academia * Drama swirls around OpenAI’s legendary mathematical milestone * The Trump phone just got a $250 price hike * Six years later, Sony revisits its legendary XM4 headphones * Hori’s electronic Ocarina of Time requires no musical talent.",
+        "fullTranslation": "第一印象的机会只有一次，而作为苹果公司首席执行官，以推出苹果首款折叠屏手机来拉开序幕，无疑是一个极其强有力的开局。在今天的《The Vergecast》节目中，我们将全面探讨苹果的发布会：约翰·特努斯（John Ternus）作为 CEO 的首次亮相表现如何，我们对新款 iPhone 有何看法，以及苹果在 Apple Watch 上推出的新 AI 功能是否正在步入危险领域。\n\n首先，艾莉森·约翰逊（Allison Johnson）加入我的讨论，聊聊她在库比蒂诺亲自测试过的新款 iPhone。我们俩对 iPhone 18 Pro 上的全新可变光圈摄像头都抱有一些疑问——真正的升级究竟只是在于更大的光圈，还是在于能够收缩光圈的能力。随后，我们深入探讨了 iPhone Duo，以及苹果是如何精挑细选安卓折叠屏设备中最优秀的部分的。\n\n观看 | 收听 | 获取免广告版\n\n之后，维多利亚·宋（Victoria Song）加入我，讨论她同样有机会亲自测试的新款 Apple Watch。我们深入分析了全新的传感器阵列，探讨它究竟带来了切实有据的新监测指标，还是仅仅增添了更多氛围感式的健康数据。接着，当我们试图弄清楚两款新 Apple Watch 均加入全天候开启的麦克风、能够对你所有的对话进行总结这一功能究竟意味着什么时，我们两个人都有些破防了。\n\n这是一期干货满满的苹果专题节目，因此我们接下来进入一个特别环节，由尼莱·帕特尔（Nilay Patel）和大卫·伊梅尔（David Imel）与人工智能研究员 CJ 特罗布里奇（CJ Trowbridge）对话，探讨在 Mac 上运行本地大语言模型（LLM）的现状。\n\n最后，备受期待的“雷霆速评（Thunder Round）”环节回归，我们快马加鞭赶进度过完各项资讯，以便艾莉森能赶上飞机。我们聊了 OpenAI 的数学风波、电子陶笛等等。\n\n如果你想了解关于本周资讯的更多内容，可以查看以下链接：\n* iPhone 18 Pro 与 Pro Max：我们的首发上手体验\n* 可变光圈并不是 iPhone 18 Pro 摄像头最亮眼的部分\n* 折叠屏 iPhone Duo 上手体验\n* 全新 Apple Watch Series 12 与 Apple Watch Ultra 4 上手体验\n* Apple Watch Series 12 配备全天候 Siri，可为你的一天生成 AI 摘要\n* 阅读苹果关于全新监听功能如何保护用户隐私的解释文件\n* 数学界要求 OpenAI 证明其未挪用学者成果\n* OpenAI 低调的数学突破让学术界感到一丝寒意\n* 围绕 OpenAI 传奇数学里程碑的风波不断发酵\n* 特朗普手机价格刚上调了 250 美元\n* 六年后，索尼重新审视其传奇的 XM4 耳机\n* Hori 的电子版《时之笛》无需任何音乐天赋即可演奏",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "John Ternus 作为苹果公司 CEO 首次公开亮相发布会，并介绍了苹果首款折叠屏手机 iPhone Duo。",
+          "Allison Johnson 前往库比蒂诺实际体验了新款 iPhone。",
+          "来源叙事重点：聚焦苹果新品发布会与硬件上手体验，审视新 CEO John Ternus 的首秀表现，深入探讨首款折叠屏 iPhone Duo、iPhone 18 Pro 可变光圈相机的实际价值，并对 Apple Watch Series 12 / Ultra 4 新增全天候监听麦克风与 AI 对话摘要功能提出隐私与实用性质疑。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T16:22:24.000Z",
+            "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms"
+          }
+        ]
+      },
+      {
+        "id": "story--are-my-options-e6463c91-6e91725aa70909f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:34:00.000Z",
+        "pubTime": "2026-09-12 00:34",
+        "url": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A self-described “spender” is concerned about taxes.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-12 00:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T16:34:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--your-dating-experiences-e2953186838f229d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Single men: tell us about your dating experiences",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T15:55:43.000Z",
+        "pubTime": "2026-09-11 23:55",
+        "url": "https://www.theguardian.com/society/2026/sep/11/single-men-tell-us-about-your-dating-experiences",
+        "imageUrl": "https://i.guim.co.uk/img/media/33cf7038569f7f0bfae563dad5ba49e3c6cb2c7b/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=7e19ceb628f1ebfa086e52cd3be6772f",
+        "fullContent": "The Guardian is looking for single men of all ages to talk honestly about the experience of being unattached\n\nThe Guardian is looking for single men of all ages to talk honestly about the experience of being unattached. Whether you are 16 or 100, we want to hear the unvarnished truth about what it’s like to live as a single man today.\n\nAre you trying to find love? Or are you happy living life as a bachelor? Do you find the experience of modern dating – with all its red flags and height requirements – to be a minefield? Or are you attracting more attention than ever before?",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "《卫报》（The Guardian）正在征集各年龄段单身男性的真实单身与约会经历分享。",
+          "该征集活动面向年龄在16岁至100岁之间的单身男性。",
+          "来源叙事重点：聚焦当代单身男性的真实情感与约会处境，通过抛出‘寻爱还是享受单身’、‘现代约会雷区及严苛要求（如身高条件）’等话题，征集16至100岁男性的第一人称体验。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T15:55:43.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/11/single-men-tell-us-about-your-dating-experiences"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-gullies-mars-html-b691348608824045",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What's carving active gullies on Mars? It's not water",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:20:12.000Z",
+        "pubTime": "2026-09-12 00:20",
+        "url": "https://phys.org/news/2026-09-gullies-mars.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/some-of-the-frosted-gu.jpg",
+        "fullContent": "Scientists were shocked when they received the first images of Martian gullies. They were even more shocked as those gullies appeared to change over time. Their similarities to gullies seen on Earth were uncanny, but all of Earth's gullies are formed by water runoff, and Mars is too cold and has too sparse an atmosphere to have liquid water on its surface. Whatever has been causing those changing gullies couldn't have been water, so what was it? A new paper from Apolline Leclef of the Institut d'Astrophysique Spatiale at Université Paris-Saclay and her colleagues, available on the arXiv preprint server, shows how they are likely caused by CO2 frost turning into a fluid.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 00:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-gullies-mars.html",
+            "publishedAt": "2026-09-11T16:20:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ntonelli-2117167692-html-7511860ffe0084c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Антонелли выиграл вторую практику Гран-при Испании",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T16:32:25.000Z",
+        "pubTime": "2026-09-12 00:32",
+        "url": "https://ria.ru/20260911/antonelli-2117167692.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 00:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/antonelli-2117167692.html",
+            "publishedAt": "2026-09-11T16:32:25.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--social-popular-powerful-148b29dd031657f1",
+        "title": "白宫称“真相社交”是“最强大且最受欢迎的”社交媒体平台",
+        "originalTitle": "The White House calls Truth Social the ‘most powerful and popular’ social media platform",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:21:19.000Z",
+        "pubTime": "2026-09-12 00:21",
+        "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294426899.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nYouTube and Facebook are the world’s most popular platforms with billions of active users, while Truth Social traffic has declined.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Emma Roth\n\nThe White House claims the Donald Trump-owned Truth Social is the “most powerful and popular social media platform in the world.” The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web.\n\nData gathered by Search Engine Land shows YouTube is the most popular platform in the world, with 2.65 billion monthly active users. Facebook comes in second with 2.39 billion active users around the globe, followed by TikTok with 2.21 billion and Instagram with 1.99 billion. Truth Social doesn’t make Search Engine Land’s top 10 list, which shows Elon Musk’s X and Meta’s Threads at the bottom with 450 million and 223 million users, respectively. Even those platforms trail Pinterest, which is listed with 579 million global users.\n\nTruth Social’s traffic appears to be declining. As reported by the NYT, data from Similarweb suggests that the number of monthly visitors to Truth Social dipped 36 percent in July compared to the same time last year. From January to July 2025, an average of 28 million people visited Truth Social each month, while this number fell to 25 million during the first seven months of 2026, according to the NYT. Last month, Truth Social launched its $100,000 / month subscription to gain early access to posts from Trump and other prominent users, raising concerns about corruption.\n\nThe NYT report details Trump’s posting patterns on Truth Social, which often include AI-generated images, such as one showing his head on Hulk Hogan’s body and another hitting a cut-out of Iran with a hammer brandishing the American flag. Ingle cites President Trump’s “authentic voice” as the reason for the platform’s so-called popularity, adding it’s where “he communicates directly with the American people and the world without the biased media taking him out of context.”\n\nSee All Social Media\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该话题的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n\nYouTube和Facebook是全球最受欢迎的平台，拥有数十亿活跃用户，而“真相社交”（Truth Social）的访问量则出现下滑。\n\n来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n\n查看埃玛·罗斯（Emma Roth）的所有报道\n\n白宫声称，唐纳德·特朗普旗下的“真相社交”是“世界上最强大、最受欢迎的社交媒体平台”。白宫发言人戴维斯·英格尔（Davis Ingle）向《纽约时报》发表的这一声明，与网络上一些大型社交媒体平台的用户数据大相径庭。\n\nSearch Engine Land汇集的数据显示，YouTube是全球最受欢迎的平台，月活跃用户达到26.5亿。Facebook以全球23.9亿活跃用户位居第二，随后是拥有22.1亿用户的TikTok和拥有19.9亿用户的Instagram。“真相社交”甚至未能进入Search Engine Land的前十名榜单；该榜单垫底的是埃隆·马斯克的X平台和Meta的Threads，活跃用户分别约为4.5亿和2.23亿。即便这几大平台，用户数也落后于以5.79亿全球用户上榜的Pinterest。\n\n“真相社交”的访问量似乎正在萎缩。据《纽约时报》报道，Similarweb的数据显示，与去年同期相比，“真相社交”今年7月的月度独立访问人数下降了36%。据《纽约时报》指出，2025年1月至7月期间，“真相社交”每月平均访问量为2800万人次，而在2026年前7个月，这一数字已降至2500万人次。上个月，“真相社交”推出了一项每月10万美元的订阅服务，订阅者可提前查看特朗普和其他知名用户的发帖，此举引发了外界对腐败问题的担忧。\n\n《纽约时报》的报道详细介绍了特朗普在“真相社交”上的发帖模式，其中常包括AI生成的图像，例如一张将他的头像拼接在摔角明星霍克·霍肯（Hulk Hogan）身体上的图片，以及另一张挥舞着美国国旗、拿锤子敲击伊朗轮廓剪纸的图片。英格尔将该平台所谓的受欢迎度归功于特朗普总统的“真实声音”，并补充道，在这里“他可以直接与美国人民以及全世界沟通，免受偏见媒体的断章取义”。\n\n查看所有社交媒体内容\n\n免费获取每日重要新闻精选。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "白宫发言人戴维斯·英格尔对《纽约时报》表示，唐纳德·特朗普拥有的Truth Social是“世界上最强大、最受欢迎的社交媒体平台”。",
+          "Search Engine Land收集的数据显示，YouTube以26.5亿月活跃用户位居全球最受欢迎平台之首；Facebook以23.9亿活跃用户位列第二；TikTok为22.1亿，Instagram为19.9亿；Pinterest为5.79亿；X为4.5亿；Threads为2.23亿。",
+          "来源叙事重点：通过对比YouTube、Facebook、TikTok等主流平台数十亿级别的活跃用户量，以及Similarweb显示的访问量下滑数据，直接质疑并反驳白宫关于Truth Social是‘全球最强大、最受欢迎社交平台’的官方说法，并重点提及高额订阅费引发的潜在腐败担忧和特朗普荒诞的AI发帖风格。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T16:21:19.000Z",
+            "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful"
+          }
+        ]
+      },
+      {
+        "id": "story-arily-good-news-f952c08a-b5db23f4b3643aa6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Your Social Security check could go up another $71 next year. That’s not necessarily good news.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:32:00.000Z",
+        "pubTime": "2026-09-12 00:32",
+        "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A higher COLA is a sign that persistent inflation isn’t going anywhere.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-12 00:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T16:32:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-from-releasing-terafab-06ca4aba8424c4dd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SpaceX sues to block Texas from releasing Terafab tax-break records",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T15:20:22.000Z",
+        "pubTime": "2026-09-11 23:20",
+        "url": "https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/",
+        "imageUrl": "https://external-preview.redd.it/e8sJ1-2x8Lgc0QIzaS_UhdXODHE-twZpY2jJhYHpzDk.jpeg?width=640&crop=smart&auto=webp&s=e48ec9516246fadff368616426157031de456d6f",
+        "fullContent": "submitted by /u/ArgentineBeauty [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-11 23:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/",
+            "publishedAt": "2026-09-11T15:20:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-india-months-severe-html-77a225ae359ec5c1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Seasonal forecasts could give northern India months of warning before severe winter air pollution",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:20:04.000Z",
+        "pubTime": "2026-09-12 00:20",
+        "url": "https://phys.org/news/2026-09-seasonal-northern-india-months-severe.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/seasonal-forecasts-cou.jpg",
+        "fullContent": "Northern India experiences some of the world's worst winter air pollution, with dangerous episodes often prompting emergency control efforts. In major cities like Delhi, the Air Quality Index has reached levels above 999—over 30 times the World Health Organization's safety limit.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 00:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-seasonal-northern-india-months-severe.html",
+            "publishedAt": "2026-09-11T16:20:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-dion-s-empare-de-paris-263d70e7f241d2de",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "France : la folie Céline Dion s'empare de Paris",
+        "source": "France 24 (FR 官方法语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "fr",
+        "publishedAt": "2026-09-11T16:30:14.000Z",
+        "pubTime": "2026-09-12 00:30",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260911-france-la-folie-c%C3%A9line-dion-s-empare-de-paris",
+        "imageUrl": "https://s.france24.com/media/display/86290c58-adc8-11f1-a2eb-005056bfb2b6/w:1024/p:16x9/FR-20260911-110826-110947-CS.jpg",
+        "fullContent": "Depuis des semaines, Céline Dion est partout dans Paris. La chanteuse québécoise donnera son premier concert samedi soir dans la capitale. Sa venue, ainsi que celle du pape Léon XIV le week-end du 25 septembre, devrait avoir des retombées économiques situées entre 500 et 800 millions d'euros pour la France.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (FR 官方法语原版)】于 2026-09-12 00:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (FR 官方法语原版)",
+            "url": "https://www.france24.com/fr/vid%C3%A9o/20260911-france-la-folie-c%C3%A9line-dion-s-empare-de-paris",
+            "publishedAt": "2026-09-11T16:30:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-claude-for-a-checklist-14640dd25a21f2d1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The AI Takeover Checklist: A Devil's Advocate Audit",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:16:05.000Z",
+        "pubTime": "2026-09-12 00:16",
+        "url": "https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-12 00:16 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/",
+            "publishedAt": "2026-09-11T16:16:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4c75-98b8-12fca7cbd268-2ce63a38089b175e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "9/11 and the America it left behind",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:19:55.000Z",
+        "pubTime": "2026-09-12 00:19",
+        "url": "https://www.ft.com/content/bbdad57e-bd57-4c75-98b8-12fca7cbd268?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff4edcfc7-1205-458b-9497-c8b16b69e1f3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "The shock that briefly brought a shared sense of purpose has left a complicated legacy",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 00:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/bbdad57e-bd57-4c75-98b8-12fca7cbd268?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-11T16:19:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-which-therapy-can-help-23b6d44b59f3eb36",
+        "title": "与耳鸣共处令人痛苦，我们能做些什么？",
+        "originalTitle": "Living with tinnitus can be distressing. So what can you do about it?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T15:00:11.000Z",
+        "pubTime": "2026-09-11 23:00",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/living-with-tinnitus-can-be-distressing-which-therapy-can-help",
+        "imageUrl": "https://i.guim.co.uk/img/media/19920cceef462c2be35ecbe5e9dc3cb901e1efb5/760_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=8f4ec72da727796b678b2d0536c86d7a",
+        "fullContent": "Tinnitus affects millions of people and it can take many different forms. But there are therapies that can help make it more bearable\n\nFor some it’s a high-pitched mosquito whine; for others it’s a low bass hum. It might come and go with periods of stress, or it might be the permanent, irritating background track to daily life and nightly sleep.\n\nWhatever form it takes, tinnitus – hearing sounds like ringing, buzzing or hissing when no external noise is there – can be extremely distressing because it’s quite literally in your head; there is no escaping it. Given that at least one-quarter of the population report experiencing tinnitus at some stage in their life, it’s surprising how little is understood about why.",
+        "fullTranslation": "耳鸣影响着数百万人，其表现形式多种多样。但有一些疗法可以帮助减轻其带来的痛苦。\n\n对某些人来说，它是蚊子般刺耳的高音嗡鸣；对另一些人而言，它则是低沉的低音嗡嗡声。它可能会随着压力状态的起伏而时来时去，也可能成为日常生活和夜间睡眠中挥之不去、令人恼怒的背景音。\n\n无论表现为何种形式，耳鸣——即在没有外界声响的情况下听到耳鸣声、嗡嗡声或嘶嘶声——都可能令人极其痛苦，因为它切切实实存在于你的脑海中，让人无处可逃。鉴于至少有四分之一的人口表示在人生某一阶段经历过耳鸣，人们对其背后的成因知之甚少，着实令人惊讶。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "耳鸣影响数百万人，表现形式多样，但有一些疗法可以帮助减轻其困扰。",
+          "耳鸣是在没有外界声音存在的情况下听到耳鸣声、嗡嗡声或嘶嘶声等声音。",
+          "来源叙事重点：关注耳鸣对日常生活的心理与生理困扰，科普其广泛的发生率，并探讨缓解耳鸣的应对疗法。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T15:00:11.000Z",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/living-with-tinnitus-can-be-distressing-which-therapy-can-help"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-1-egipet-2117167905-html-b428c06874d22f87",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Каир считает важным обеспечить свободу навигации, заявил президент Египта",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T16:34:04.000Z",
+        "pubTime": "2026-09-12 00:34",
+        "url": "https://ria.ru/20260911/egipet-2117167905.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/153086/33/1530863384_0:0:2850:1603_650x0_80_0_0_a6c8c2c6d96684f22296e3b5598bdc86.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 00:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/egipet-2117167905.html",
+            "publishedAt": "2026-09-11T16:34:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ast-apple-watch-mac-llms-4246c352d18cb724",
+        "title": "我们展开了 iPhone Duo 折叠屏手机",
+        "originalTitle": "We unfolded the iPhone Duo",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:22:24.000Z",
+        "pubTime": "2026-09-12 00:22",
+        "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_0911_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "You only get one chance at a first impression, and getting to introduce Apple’s first folding phone is certainly a strong way to start things off as Apple’s CEO. On The Vergecast today, we’re talking all about Apple’s launch event: how John Ternus did in his first appearance as CEO, what we make of the new iPhones, and whether Apple is stepping into dangerous territory with its new AI features on the Apple Watch. First up, Allison Johnson joins me to discuss the new iPhones, which she had a chance to test in Cupertino. Both of us have some questions about the new variable aperture camera on the iPhone 18 Pro — and whether the real upgrade simply lies in the wider aperture, not the ability to stop it down. Then we dig into the iPhone Duo and how Apple decided to pick and choose the best parts of Android foldables. Watch | Listen | Get ad-free After that, Victoria Song joins me to discuss the new Apple Watches, which she also had a chance to test out. We dive into the new sensor array and whether it allows for legitimately new metrics or just more vibesy health data. And then we both break down a little while figuring out what it means that Apple added the ability for both new Apple Watches to have an always-on microphone that summarizes all of your conversations. This is an Apple-packed episode, so from there we jump to a special segment with Nilay Patel and David Imel, who speak with AI researcher CJ Trowbridge about the state of running local LLMs on the Mac. Finally, it’s the long awaited return of the Thunder Round, as we race through stories so that Allison can make it to the airport. We’re chatting OpenAI math drama, digital ocarinas, and more. If you want to learn more about this week’s stories, you can check out the links below: * iPhone 18 Pro and Pro Max: Our first hands-on impressions * The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera * Hands-on with the foldable iPhone Duo * Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4 * Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day * Read the Apple document explaining how new listening features still protect your privacy * Mathematicians want proof OpenAI didn’t use their work * OpenAI’s sly mathematical breakthrough sends a chill through academia * Drama swirls around OpenAI’s legendary mathematical milestone * The Trump phone just got a $250 price hike * Six years later, Sony revisits its legendary XM4 headphones * Hori’s electronic Ocarina of Time requires no musical talent.",
+        "fullTranslation": "第一印象的机会只有一次，而作为苹果公司首席执行官，以推出苹果首款折叠屏手机来拉开序幕，无疑是一个极其强有力的开局。在今天的《The Vergecast》节目中，我们将全面探讨苹果的发布会：约翰·特努斯（John Ternus）作为 CEO 的首次亮相表现如何，我们对新款 iPhone 有何看法，以及苹果在 Apple Watch 上推出的新 AI 功能是否正在步入危险领域。\n\n首先，艾莉森·约翰逊（Allison Johnson）加入我的讨论，聊聊她在库比蒂诺亲自测试过的新款 iPhone。我们俩对 iPhone 18 Pro 上的全新可变光圈摄像头都抱有一些疑问——真正的升级究竟只是在于更大的光圈，还是在于能够收缩光圈的能力。随后，我们深入探讨了 iPhone Duo，以及苹果是如何精挑细选安卓折叠屏设备中最优秀的部分的。\n\n观看 | 收听 | 获取免广告版\n\n之后，维多利亚·宋（Victoria Song）加入我，讨论她同样有机会亲自测试的新款 Apple Watch。我们深入分析了全新的传感器阵列，探讨它究竟带来了切实有据的新监测指标，还是仅仅增添了更多氛围感式的健康数据。接着，当我们试图弄清楚两款新 Apple Watch 均加入全天候开启的麦克风、能够对你所有的对话进行总结这一功能究竟意味着什么时，我们两个人都有些破防了。\n\n这是一期干货满满的苹果专题节目，因此我们接下来进入一个特别环节，由尼莱·帕特尔（Nilay Patel）和大卫·伊梅尔（David Imel）与人工智能研究员 CJ 特罗布里奇（CJ Trowbridge）对话，探讨在 Mac 上运行本地大语言模型（LLM）的现状。\n\n最后，备受期待的“雷霆速评（Thunder Round）”环节回归，我们快马加鞭赶进度过完各项资讯，以便艾莉森能赶上飞机。我们聊了 OpenAI 的数学风波、电子陶笛等等。\n\n如果你想了解关于本周资讯的更多内容，可以查看以下链接：\n* iPhone 18 Pro 与 Pro Max：我们的首发上手体验\n* 可变光圈并不是 iPhone 18 Pro 摄像头最亮眼的部分\n* 折叠屏 iPhone Duo 上手体验\n* 全新 Apple Watch Series 12 与 Apple Watch Ultra 4 上手体验\n* Apple Watch Series 12 配备全天候 Siri，可为你的一天生成 AI 摘要\n* 阅读苹果关于全新监听功能如何保护用户隐私的解释文件\n* 数学界要求 OpenAI 证明其未挪用学者成果\n* OpenAI 低调的数学突破让学术界感到一丝寒意\n* 围绕 OpenAI 传奇数学里程碑的风波不断发酵\n* 特朗普手机价格刚上调了 250 美元\n* 六年后，索尼重新审视其传奇的 XM4 耳机\n* Hori 的电子版《时之笛》无需任何音乐天赋即可演奏",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "John Ternus 作为苹果公司 CEO 首次公开亮相发布会，并介绍了苹果首款折叠屏手机 iPhone Duo。",
+          "Allison Johnson 前往库比蒂诺实际体验了新款 iPhone。",
+          "来源叙事重点：聚焦苹果新品发布会与硬件上手体验，审视新 CEO John Ternus 的首秀表现，深入探讨首款折叠屏 iPhone Duo、iPhone 18 Pro 可变光圈相机的实际价值，并对 Apple Watch Series 12 / Ultra 4 新增全天候监听麦克风与 AI 对话摘要功能提出隐私与实用性质疑。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T16:22:24.000Z",
+            "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms"
+          }
+        ]
+      },
+      {
+        "id": "story--are-my-options-e6463c91-6e91725aa70909f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:34:00.000Z",
+        "pubTime": "2026-09-12 00:34",
+        "url": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A self-described “spender” is concerned about taxes.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-12 00:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T16:34:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--your-dating-experiences-e2953186838f229d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Single men: tell us about your dating experiences",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T15:55:43.000Z",
+        "pubTime": "2026-09-11 23:55",
+        "url": "https://www.theguardian.com/society/2026/sep/11/single-men-tell-us-about-your-dating-experiences",
+        "imageUrl": "https://i.guim.co.uk/img/media/33cf7038569f7f0bfae563dad5ba49e3c6cb2c7b/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=7e19ceb628f1ebfa086e52cd3be6772f",
+        "fullContent": "The Guardian is looking for single men of all ages to talk honestly about the experience of being unattached\n\nThe Guardian is looking for single men of all ages to talk honestly about the experience of being unattached. Whether you are 16 or 100, we want to hear the unvarnished truth about what it’s like to live as a single man today.\n\nAre you trying to find love? Or are you happy living life as a bachelor? Do you find the experience of modern dating – with all its red flags and height requirements – to be a minefield? Or are you attracting more attention than ever before?",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "《卫报》（The Guardian）正在征集各年龄段单身男性的真实单身与约会经历分享。",
+          "该征集活动面向年龄在16岁至100岁之间的单身男性。",
+          "来源叙事重点：聚焦当代单身男性的真实情感与约会处境，通过抛出‘寻爱还是享受单身’、‘现代约会雷区及严苛要求（如身高条件）’等话题，征集16至100岁男性的第一人称体验。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T15:55:43.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/11/single-men-tell-us-about-your-dating-experiences"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-gullies-mars-html-b691348608824045",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What's carving active gullies on Mars? It's not water",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:20:12.000Z",
+        "pubTime": "2026-09-12 00:20",
+        "url": "https://phys.org/news/2026-09-gullies-mars.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/some-of-the-frosted-gu.jpg",
+        "fullContent": "Scientists were shocked when they received the first images of Martian gullies. They were even more shocked as those gullies appeared to change over time. Their similarities to gullies seen on Earth were uncanny, but all of Earth's gullies are formed by water runoff, and Mars is too cold and has too sparse an atmosphere to have liquid water on its surface. Whatever has been causing those changing gullies couldn't have been water, so what was it? A new paper from Apolline Leclef of the Institut d'Astrophysique Spatiale at Université Paris-Saclay and her colleagues, available on the arXiv preprint server, shows how they are likely caused by CO2 frost turning into a fluid.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 00:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-gullies-mars.html",
+            "publishedAt": "2026-09-11T16:20:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ntonelli-2117167692-html-7511860ffe0084c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Антонелли выиграл вторую практику Гран-при Испании",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T16:32:25.000Z",
+        "pubTime": "2026-09-12 00:32",
+        "url": "https://ria.ru/20260911/antonelli-2117167692.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 00:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/antonelli-2117167692.html",
+            "publishedAt": "2026-09-11T16:32:25.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--social-popular-powerful-148b29dd031657f1",
+        "title": "白宫称“真相社交”是“最强大且最受欢迎的”社交媒体平台",
+        "originalTitle": "The White House calls Truth Social the ‘most powerful and popular’ social media platform",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:21:19.000Z",
+        "pubTime": "2026-09-12 00:21",
+        "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294426899.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nYouTube and Facebook are the world’s most popular platforms with billions of active users, while Truth Social traffic has declined.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Emma Roth\n\nThe White House claims the Donald Trump-owned Truth Social is the “most powerful and popular social media platform in the world.” The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web.\n\nData gathered by Search Engine Land shows YouTube is the most popular platform in the world, with 2.65 billion monthly active users. Facebook comes in second with 2.39 billion active users around the globe, followed by TikTok with 2.21 billion and Instagram with 1.99 billion. Truth Social doesn’t make Search Engine Land’s top 10 list, which shows Elon Musk’s X and Meta’s Threads at the bottom with 450 million and 223 million users, respectively. Even those platforms trail Pinterest, which is listed with 579 million global users.\n\nTruth Social’s traffic appears to be declining. As reported by the NYT, data from Similarweb suggests that the number of monthly visitors to Truth Social dipped 36 percent in July compared to the same time last year. From January to July 2025, an average of 28 million people visited Truth Social each month, while this number fell to 25 million during the first seven months of 2026, according to the NYT. Last month, Truth Social launched its $100,000 / month subscription to gain early access to posts from Trump and other prominent users, raising concerns about corruption.\n\nThe NYT report details Trump’s posting patterns on Truth Social, which often include AI-generated images, such as one showing his head on Hulk Hogan’s body and another hitting a cut-out of Iran with a hammer brandishing the American flag. Ingle cites President Trump’s “authentic voice” as the reason for the platform’s so-called popularity, adding it’s where “he communicates directly with the American people and the world without the biased media taking him out of context.”\n\nSee All Social Media\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该话题的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n\nYouTube和Facebook是全球最受欢迎的平台，拥有数十亿活跃用户，而“真相社交”（Truth Social）的访问量则出现下滑。\n\n来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。\n\n查看埃玛·罗斯（Emma Roth）的所有报道\n\n白宫声称，唐纳德·特朗普旗下的“真相社交”是“世界上最强大、最受欢迎的社交媒体平台”。白宫发言人戴维斯·英格尔（Davis Ingle）向《纽约时报》发表的这一声明，与网络上一些大型社交媒体平台的用户数据大相径庭。\n\nSearch Engine Land汇集的数据显示，YouTube是全球最受欢迎的平台，月活跃用户达到26.5亿。Facebook以全球23.9亿活跃用户位居第二，随后是拥有22.1亿用户的TikTok和拥有19.9亿用户的Instagram。“真相社交”甚至未能进入Search Engine Land的前十名榜单；该榜单垫底的是埃隆·马斯克的X平台和Meta的Threads，活跃用户分别约为4.5亿和2.23亿。即便这几大平台，用户数也落后于以5.79亿全球用户上榜的Pinterest。\n\n“真相社交”的访问量似乎正在萎缩。据《纽约时报》报道，Similarweb的数据显示，与去年同期相比，“真相社交”今年7月的月度独立访问人数下降了36%。据《纽约时报》指出，2025年1月至7月期间，“真相社交”每月平均访问量为2800万人次，而在2026年前7个月，这一数字已降至2500万人次。上个月，“真相社交”推出了一项每月10万美元的订阅服务，订阅者可提前查看特朗普和其他知名用户的发帖，此举引发了外界对腐败问题的担忧。\n\n《纽约时报》的报道详细介绍了特朗普在“真相社交”上的发帖模式，其中常包括AI生成的图像，例如一张将他的头像拼接在摔角明星霍克·霍肯（Hulk Hogan）身体上的图片，以及另一张挥舞着美国国旗、拿锤子敲击伊朗轮廓剪纸的图片。英格尔将该平台所谓的受欢迎度归功于特朗普总统的“真实声音”，并补充道，在这里“他可以直接与美国人民以及全世界沟通，免受偏见媒体的断章取义”。\n\n查看所有社交媒体内容\n\n免费获取每日重要新闻精选。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "白宫发言人戴维斯·英格尔对《纽约时报》表示，唐纳德·特朗普拥有的Truth Social是“世界上最强大、最受欢迎的社交媒体平台”。",
+          "Search Engine Land收集的数据显示，YouTube以26.5亿月活跃用户位居全球最受欢迎平台之首；Facebook以23.9亿活跃用户位列第二；TikTok为22.1亿，Instagram为19.9亿；Pinterest为5.79亿；X为4.5亿；Threads为2.23亿。",
+          "来源叙事重点：通过对比YouTube、Facebook、TikTok等主流平台数十亿级别的活跃用户量，以及Similarweb显示的访问量下滑数据，直接质疑并反驳白宫关于Truth Social是‘全球最强大、最受欢迎社交平台’的官方说法，并重点提及高额订阅费引发的潜在腐败担忧和特朗普荒诞的AI发帖风格。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T16:21:19.000Z",
+            "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful"
+          }
+        ]
+      },
+      {
+        "id": "story-arily-good-news-f952c08a-b5db23f4b3643aa6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Your Social Security check could go up another $71 next year. That’s not necessarily good news.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:32:00.000Z",
+        "pubTime": "2026-09-12 00:32",
+        "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A higher COLA is a sign that persistent inflation isn’t going anywhere.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-12 00:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T16:32:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-from-releasing-terafab-06ca4aba8424c4dd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SpaceX sues to block Texas from releasing Terafab tax-break records",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T15:20:22.000Z",
+        "pubTime": "2026-09-11 23:20",
+        "url": "https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/",
+        "imageUrl": "https://external-preview.redd.it/e8sJ1-2x8Lgc0QIzaS_UhdXODHE-twZpY2jJhYHpzDk.jpeg?width=640&crop=smart&auto=webp&s=e48ec9516246fadff368616426157031de456d6f",
+        "fullContent": "submitted by /u/ArgentineBeauty [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-11 23:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/",
+            "publishedAt": "2026-09-11T15:20:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-india-months-severe-html-77a225ae359ec5c1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Seasonal forecasts could give northern India months of warning before severe winter air pollution",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:20:04.000Z",
+        "pubTime": "2026-09-12 00:20",
+        "url": "https://phys.org/news/2026-09-seasonal-northern-india-months-severe.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/seasonal-forecasts-cou.jpg",
+        "fullContent": "Northern India experiences some of the world's worst winter air pollution, with dangerous episodes often prompting emergency control efforts. In major cities like Delhi, the Air Quality Index has reached levels above 999—over 30 times the World Health Organization's safety limit.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 00:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-seasonal-northern-india-months-severe.html",
+            "publishedAt": "2026-09-11T16:20:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-dion-s-empare-de-paris-263d70e7f241d2de",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "France : la folie Céline Dion s'empare de Paris",
+        "source": "France 24 (FR 官方法语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "fr",
+        "publishedAt": "2026-09-11T16:30:14.000Z",
+        "pubTime": "2026-09-12 00:30",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260911-france-la-folie-c%C3%A9line-dion-s-empare-de-paris",
+        "imageUrl": "https://s.france24.com/media/display/86290c58-adc8-11f1-a2eb-005056bfb2b6/w:1024/p:16x9/FR-20260911-110826-110947-CS.jpg",
+        "fullContent": "Depuis des semaines, Céline Dion est partout dans Paris. La chanteuse québécoise donnera son premier concert samedi soir dans la capitale. Sa venue, ainsi que celle du pape Léon XIV le week-end du 25 septembre, devrait avoir des retombées économiques situées entre 500 et 800 millions d'euros pour la France.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (FR 官方法语原版)】于 2026-09-12 00:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (FR 官方法语原版)",
+            "url": "https://www.france24.com/fr/vid%C3%A9o/20260911-france-la-folie-c%C3%A9line-dion-s-empare-de-paris",
+            "publishedAt": "2026-09-11T16:30:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-claude-for-a-checklist-14640dd25a21f2d1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The AI Takeover Checklist: A Devil's Advocate Audit",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:16:05.000Z",
+        "pubTime": "2026-09-12 00:16",
+        "url": "https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-12 00:16 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/",
+            "publishedAt": "2026-09-11T16:16:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4c75-98b8-12fca7cbd268-2ce63a38089b175e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "9/11 and the America it left behind",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T16:19:55.000Z",
+        "pubTime": "2026-09-12 00:19",
+        "url": "https://www.ft.com/content/bbdad57e-bd57-4c75-98b8-12fca7cbd268?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff4edcfc7-1205-458b-9497-c8b16b69e1f3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "The shock that briefly brought a shared sense of purpose has left a complicated legacy",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 00:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/bbdad57e-bd57-4c75-98b8-12fca7cbd268?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-11T16:19:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-g-which-therapy-can-help-23b6d44b59f3eb36",
+        "title": "与耳鸣共处令人痛苦，我们能做些什么？",
+        "originalTitle": "Living with tinnitus can be distressing. So what can you do about it?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T15:00:11.000Z",
+        "pubTime": "2026-09-11 23:00",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/living-with-tinnitus-can-be-distressing-which-therapy-can-help",
+        "imageUrl": "https://i.guim.co.uk/img/media/19920cceef462c2be35ecbe5e9dc3cb901e1efb5/760_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=8f4ec72da727796b678b2d0536c86d7a",
+        "fullContent": "Tinnitus affects millions of people and it can take many different forms. But there are therapies that can help make it more bearable\n\nFor some it’s a high-pitched mosquito whine; for others it’s a low bass hum. It might come and go with periods of stress, or it might be the permanent, irritating background track to daily life and nightly sleep.\n\nWhatever form it takes, tinnitus – hearing sounds like ringing, buzzing or hissing when no external noise is there – can be extremely distressing because it’s quite literally in your head; there is no escaping it. Given that at least one-quarter of the population report experiencing tinnitus at some stage in their life, it’s surprising how little is understood about why.",
+        "fullTranslation": "耳鸣影响着数百万人，其表现形式多种多样。但有一些疗法可以帮助减轻其带来的痛苦。\n\n对某些人来说，它是蚊子般刺耳的高音嗡鸣；对另一些人而言，它则是低沉的低音嗡嗡声。它可能会随着压力状态的起伏而时来时去，也可能成为日常生活和夜间睡眠中挥之不去、令人恼怒的背景音。\n\n无论表现为何种形式，耳鸣——即在没有外界声响的情况下听到耳鸣声、嗡嗡声或嘶嘶声——都可能令人极其痛苦，因为它切切实实存在于你的脑海中，让人无处可逃。鉴于至少有四分之一的人口表示在人生某一阶段经历过耳鸣，人们对其背后的成因知之甚少，着实令人惊讶。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "耳鸣影响数百万人，表现形式多样，但有一些疗法可以帮助减轻其困扰。",
+          "耳鸣是在没有外界声音存在的情况下听到耳鸣声、嗡嗡声或嘶嘶声等声音。",
+          "来源叙事重点：关注耳鸣对日常生活的心理与生理困扰，科普其广泛的发生率，并探讨缓解耳鸣的应对疗法。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T15:00:11.000Z",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/living-with-tinnitus-can-be-distressing-which-therapy-can-help"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789126459280,
     "timeDisplay": "2026-09-11 19:34 (UTC+8)",
     "date": "2026-09-11",
