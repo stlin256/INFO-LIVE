@@ -1,5 +1,1558 @@
 [
   {
+    "timestamp": 1789126459280,
+    "timeDisplay": "2026-09-11 19:34 (UTC+8)",
+    "date": "2026-09-11",
+    "runId": "feed-20260911T113203527Z-qqr03q",
+    "generatedAt": "2026-09-11T11:34:19.280Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 19:32",
+      "lead": "本轮抓取于 2026-09-11 19:32 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】Waymo效应：人工智能如何悄然削弱科研协作：无摩擦技术如何让我们习惯偏爱独处——以及为何科研领军者应当为此担忧。",
+        "【undefined】中国9月原油进口量预计将维持在每日720万桶：随着原油价格再度飙升至每桶100美元以上，中国9月份的原油进口量预计将与8月份大致持平，延续了货运回升的势头。据《日经亚洲》（Nikkei Asia）报道，Kpler的初步船舶跟踪数据显示，中国9月份的原油进口量约为每日720万桶，与8月份基本持平。",
+        "【undefined】RTK声称节省了Token，但我们的成本基准测试得出了相反结论：RTK（Rust Token Killer）在AI智能体读取终端输出之前对其进行过滤和压缩。截至目前，RTK在GitHub上已斩获超过7.9万颗星，成为让AI编程更便宜的最热门工具之一。 X上的一篇帖子称RTK可将Claude Code的Token消耗减少多达60%，浏览量达到了31.3万次。 然而，JetBrains的SkillsBench运行测试却没有发现任何节省。其README中包含一段免责声明： RTK最多可削减智能体读取的Ba",
+        "【undefined】影石Insta360推出Osmo Pocket单摄竞品，且在美国市场切实可购：影石Insta360推出的首款紧凑型手持云台相机Luna Ultra在今年凭借双镜头配置先于大疆亮相，引发了巨大轰动。如今，该公司在Ultra之后又推出了略作简化的Pro版本。该型号缩减为单镜头，但拥有一个独特的优势：能够拍摄4K竖屏视频。此外，与大疆Osmo Pocket 4不同的是，你可以在美国买到它。",
+        "【undefined】1500万美元基金启动 旨在凝聚“不可阻挡的势头”在全球终结女性割礼：“她的地平线基金”（Her Horizon Fund）寻求筹集1亿美元，以终结这一伤害全球2.3亿妇女和女童的陋习。",
+        "【undefined】多部俄罗斯影片将在埃及青年电影节展映：塔斯社莫斯科9月11日电 俄罗斯国家电影推广机构俄罗斯电影公司（Roskino）在一份声明中表示，四部俄罗斯电影已入围9月10日至15日在埃及举行的赫尔格达国际青年电影节的竞赛及非竞赛单元。",
+        "【undefined】外媒：缅甸机场在无人机袭击后关闭：中新网9月11日电 据法新社报道，缅甸安全部门消息人士称，缅甸曼德勒机场因无人机袭击导致航班中断，将从当地时间11日开始关闭两天。",
+        "【undefined】《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览在韩国首尔举办：中新网首尔9月11日电 (记者 金旭)《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览当地时间10日在韩国首尔大学开幕。活动通过主题展览、学术探讨、非遗体验和青年对话等形式，共同回望历史、共话和平。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "主文章信息缺失，无法完成可靠的日尺度分析",
+      "lead": "证据包未提供主文章标题、来源、正文或引用，当前只能确认相关条目中提到：中国9月原油进口量预计约为720万桶/日，与8月大致相当；另有条目涉及“9·11”事件阴谋论，但缺乏可供核验的正文和来源信息。",
+      "themes": [
+        {
+          "name": "中国原油进口",
+          "analysis": "相关条目援引Kpler初步船舶追踪数据称，中国9月原油进口量约为720万桶/日，与8月大致持平；条目还称，9月到港原油是在油价低于每桶100美元时购入的。由于主文章缺失、来源字段为空，无法进一步判断数据口径、准确性及市场影响。"
+        },
+        {
+          "name": "“9·11”事件阴谋论",
+          "analysis": "相关条目仅显示，一篇文章讨论2001年9月11日袭击事件发生四分之一世纪后，相关阴谋论为何仍受到关注。证据包未提供文章正文、观点细节或可核验引用，无法展开事实性分析。"
+        },
+        {
+          "name": "证据完整性",
+          "analysis": "主文章的标题、来源、发布时间、网址、摘要和正文均为空，证据事实、引语、实体、冲突及引用列表也为空。因此，本次输出不对主文章主题作进一步推断。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 72,
+      "completedTasks": 72,
+      "succeeded": 64,
+      "degraded": 8,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 72,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 135706,
+      "byRole": {
+        "translator": {
+          "attempts": 50,
+          "succeeded": 44,
+          "degraded": 6
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "succeeded": 6
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 72,
+          "succeeded": 64,
+          "degraded": 8
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-6-translator-0",
+      "article-9-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-36-translator-0",
+      "hourly-editor",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.048Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.634Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.055Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.629Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.109Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.238Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.124Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.391Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:49.122Z",
+        "lastSuccessAt": "2026-09-11T11:31:50.470Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:49.099Z",
+        "lastSuccessAt": "2026-09-11T11:31:50.198Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:50.470Z",
+        "lastSuccessAt": "2026-09-11T11:31:50.877Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.317Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.436Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.262Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.401Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.238Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.406Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.696Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.229Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.634Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.210Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.559Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.575Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.629Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.997Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:50.198Z",
+        "lastSuccessAt": "2026-09-11T11:31:50.988Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:49.260Z",
+        "lastSuccessAt": "2026-09-11T11:31:51.015Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:49.893Z",
+        "lastSuccessAt": "2026-09-11T11:31:50.415Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 12,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.347Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.688Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.035Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.109Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.997Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.124Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.300Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.317Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:45.663Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.300Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.581Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.763Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.540Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.895Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.397Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.476Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.575Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.791Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.791Z",
+        "lastSuccessAt": "2026-09-11T11:31:49.122Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.341Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.397Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:50.408Z",
+        "lastSuccessAt": "2026-09-11T11:31:52.267Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.673Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.829Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.895Z",
+        "lastSuccessAt": "2026-09-11T11:31:49.080Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.829Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.915Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:49.080Z",
+        "lastSuccessAt": "2026-09-11T11:31:49.168Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:50.415Z",
+        "lastSuccessAt": "2026-09-11T11:31:51.223Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.164Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.262Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.391Z",
+        "lastSuccessAt": "2026-09-11T11:31:49.260Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.476Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.673Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.915Z",
+        "lastSuccessAt": "2026-09-11T11:31:49.255Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.763Z",
+        "lastSuccessAt": "2026-09-11T11:31:49.099Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-11T11:31:48.731Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:45.662Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.696Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.837Z",
+        "lastSuccessAt": "2026-09-11T11:31:49.150Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:45.662Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.164Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:49.150Z",
+        "lastSuccessAt": "2026-09-11T11:31:51.022Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.406Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.581Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:47.436Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.559Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.688Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.731Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.401Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.540Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:49.168Z",
+        "lastSuccessAt": "2026-09-11T11:31:49.893Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:49.255Z",
+        "lastSuccessAt": "2026-09-11T11:31:50.408Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.229Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.347Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:48.210Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.341Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:45.650Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.055Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:45.660Z",
+        "lastSuccessAt": "2026-09-11T11:31:47.048Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-11T11:31:45.661Z",
+        "lastSuccessAt": "2026-09-11T11:31:48.035Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-911-vizy-2117073769-html-0aeb7508b6ba281f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ФВВСР: World Aquatics обязала страны гарантировать визы российским атлетам",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T11:28:41.000Z",
+        "pubTime": "2026-09-11 19:28",
+        "url": "https://ria.ru/20260911/vizy-2117073769.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 19:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/vizy-2117073769.html",
+            "publishedAt": "2026-09-11T11:28:41.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-es-the-waymo-effect-html-244ca616b7edfe06",
+        "title": "Waymo效应：人工智能如何悄然削弱科研协作",
+        "originalTitle": "The Waymo effect: how AI is quietly making research less collaborative",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:17:50.000Z",
+        "pubTime": "2026-09-11 19:17",
+        "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+        "imageUrl": null,
+        "fullContent": "How frictionless technologies teach us to prefer our own company – and why research leaders should worry.\n\nOn a recent trip to San Francisco I did the thing that every visitor to San Francisco now does: I summoned a car with no one in it.\n\nThe Waymo arrived with the serene confidence of a machine that has never once worried about where to find parking, and I climbed into the back seat, glanced instinctively at the driver’s seat to say hello, and found myself nodding politely at an empty chair. The steering wheel turned itself. I have spent a reasonable portion of my life thinking about counterintuitive aspects of physics, but that did not help me with the mild existential vertigo of watching a steering wheel moving on its own – an unseen driver responsible for my safety.\n\nI was in San Francisco, in part, to spend time with Susan Winslow, CEO of Macmillan Learning. We are colleagues within the Holtzbrinck group, and we had come together for the most human of professional reasons: to collaborate. To sit in the same room, compare notes on how AI is reshaping our respective corners of research and education, and do the kind of thinking that is stubbornly difficult to do over video calls.\n\nAnd yet, comparing notes on our Waymo experiences, we discovered we agreed on something else entirely: the rides were wonderful. As two self-confessed introverts, we had each found the driverless car to be a small oasis. No obligation to make conversation. No silent negotiation over the radio. A guilt-free space to be alone with one's thoughts, finish an email, or take a call en route without the awkwardness about conducting it in front of a stranger. The car was quiet, smooth and entirely undemanding.\n\nIt took us slightly longer to name what we had lost. Two people who had crossed continents to talk to each other were quietly delighted by a technology whose central feature is that you don’t have to talk to anyone.\n\nLet me attempt a definition: the Waymo effect is what happens when a technology removes the friction of dealing with another human being, and we experience that removal as pure gain – because the costs of the friction were always visible to us, while its benefits were not.\n\nThis is a familiar move for anyone who has read Tim Wu on “the tyranny of convenience” – his argument that once a frictionless option exists, we take it by default, and quietly surrender whatever the friction was doing for us, since nobody advertised it as valuable in the first place. Albert Borgmann’s related idea of the device paradigm goes a step further: a device delivers a commodity – warmth, information, companionship – while concealing the practice that once had to be undertaken to earn it, so that we stop noticing the practice has gone at all. Only the commodity keeps arriving.\n\nThe costs of talking to a taxi driver are obvious: the small effort of politeness, the conversational roulette, the introvert’s tax of sustained small talk at 7am. The benefits are diffuse and deferred: the driver was, for many of us on many days, the last stranger we were obliged to encounter. The last person from outside our bubble – professionally, politically, socially – with whom we had an unchosen conversation. The last reliable source of a view we did not ask for.\n\nNeither Susan nor I would design a world without those conversations. We simply enjoyed opting out of this one. And that, of course, is how such things are lost: never by decision, always by convenience. One comfortable ride at a time.\n\nI should be clear that this is not an anti-Waymo article (the rides really were excellent, and I would take one again without hesitation – that is rather the point). It is an article about research. Because the same logic that removed the driver from the car is now, with equal serenity and considerably greater consequence, removing the collaborator from the research process.\n\nLarge language models are the Waymo of intellectual life.\n\nConsider the comparison honestly, as a researcher experiences it. A collaborator is available occasionally, between teaching commitments, grant deadlines and time zones; an LLM is available at 2am on a Sunday, which – let us not pretend otherwise – is when a worrying amount of research thinking actually happens. A collaborator arrives with their own agenda, their own framing of the problem, their own inconvenient conviction that your central assumption is wrong; an LLM arrives with no agenda beyond being useful to you. A collaborator must be persuaded; an LLM must merely be prompted. A collaborator will challenge you in ways you did not ask for and had not thought of; an LLM will challenge you precisely as robustly as you request – and not one degree more. If you ask it to critique your argument, it will do so, capably. But it will critique the argument you brought. It will not, unbidden, tell you that you are solving the wrong problem, that a rival group tried this in 2019 and abandoned it, or that your beautiful theoretical framing collapses on contact with the messy realities of someone else’s field.\n\nThe collaborator’s inconvenience, in other words, is not a bug in the collaboration; it largely is the collaboration. The value of another mind lies exactly in the ways it refuses to be an extension of your own.\n\nAnd beyond challenge and serendipity lies something more fundamental still. Research is not merely a production function that converts ideas into papers. It is a community of practice – a social fabric maintained through argument, apprenticeship, conference-bar conversations, the shared ordeal of a difficult referee report. That fabric is woven from precisely the frictions we are now engineering away. Every conversation redirected from a colleague to a chatbot is a thread quietly withdrawn. No individual thread matters. The fabric does. There is a word for what happens when this proceeds at scale, and I propose we use it: decollaboration.\n\nIf this were only a matter of individual temptation, it would be a subject for self-discipline and the occasional stern editorial. But it is not. The uncomfortable truth for research leaders, funders and institutions is that we have built an incentive system that makes decollaboration the rational choice – and we are busily making it more rational by the year.\n\nCollaboration has always been expensive. It costs travel and scheduling and the glacial work of building trust. It costs ego management and compromise and the periodic small heartbreak of the author-order negotiation. Publish-or-perish has always taxed these expenses, because every hour spent aligning with a co-author is an hour not spent producing output that is legible to an evaluation system. But three forces are now compounding.\n\nFirst, funding pressure. When budgets tighten, the first casualties are always the line items whose value is real but unmeasurable: travel, workshops, sabbaticals, visiting positions – the entire physical infrastructure of serendipity. We defund the corridor and then wonder where the corridor conversations went.\n\nSecond, velocity worship. Our evaluation systems – whatever DORA-shaped statements adorn our websites – still reward output and speed of output. And LLMs promise speed above all things. They whisper that the literature review can be done by Friday, that the draft can exist by Monday. To a researcher whose next position depends on the length of a publication list, this is not a whisper that is easy to ignore.\n\nThird, and most seductively: the LLM never argues about author order. It has no ego to manage, no competing agenda, no rival claim on the credit. In a system where credit is the currency of survival, a brilliant interlocutor who demands no share of the credit is not merely convenient. It is arbitrage.\n\nThe research on research should give us pause here. We know from the team-science literature that small teams tend to disrupt while large teams develop, and that it is the unexpected combinations of collaborators – the atypical pairings across fields and institutions – that disproportionately produce the most novel work. Meanwhile, the early evidence on generative AI points in a direction that should sound familiar: individual productivity rises while the diversity of ideas narrows, everyone moving faster along increasingly similar paths. We are, in effect, running an uncontrolled global experiment in trading serendipity for throughput – and the incentive structures we have built are the experimental apparatus.\n\nThere is a deeper cost still, and it concerns the thing LLMs do most impressively: writing.\n\nPart of the lure of these tools is the impression of speed. And it is worth being precise about why that impression is partly an illusion. Writing takes time because thinking takes time; the two are not separable activities that happen to occur in sequence. The value of writing a paper was never really the artefact – it was the forcing function. Writing is where we discover that the argument we were sure of has a hole in section three; where a vague intuition either becomes a precise claim or dissolves under the pressure of having to be one. High-quality ideas are slow to generate, and historically much of that slow generation happened between people: at the whiteboard, in the corridor, in the productive irritation of a co-author’s tracked changes.\n\nCognitive psychologists have a name for this kind of productive friction: Robert Bjork’s desirable difficulties – the finding that certain frictions in learning and thinking, effortful retrieval, delayed feedback, the struggle to get an idea onto the page in your own words, are not obstacles to durable understanding but the mechanism of it. Remove the difficulty for the sake of comfort, and you do not get the same understanding faster. You get less of it, delivered more smoothly.\n\nOutsource the writing and you have not accelerated the thinking; you have skipped it. And the trap deepens as the models improve, because their output becomes steadily better – more fluent, more structured, less and less distinguishable from educated human prose. The temptation grows precisely as the tell-tale signs shrink. As a physicist, I am reminded of PT-symmetric quantum systems, which have the disconcerting property of behaving entirely normally right up until a hidden symmetry breaks – at which point everything changes at once. A research culture can look healthy by every visible measure – outputs up, turnaround down, prose immaculate – while the invisible thing that sustained it quietly falls below threshold. By the time the symptom appears in the metrics, the cause is years in the past.\n\nNone of this is an argument for banning the tools. That would fail, and it would deserve to fail, because the promise is genuine. In a March 2026 Nature comment, Dashun Wang extends Steve Jobs’s famous description of the computer as “a bicycle for our minds”, proposing that AI agents are aeroplanes for the mind: faster and more powerful than the bicycle, harder to control, costlier when they crash. He is right about the upside, and it is considerable. When AI collapses the cost of failure, riskier and more ambitious questions become rational to ask; when it collapses the cost of analysis, small labs and lone newcomers can attempt what once required armies. Used well, these tools genuinely extend research – and, done properly, agentic systems could even strengthen one of science’s weakest joints, reproducibility, by making every analytical step loggable and replayable.\n\nBut notice what even the optimists insist upon. Wang’s prescription is what he calls pilot-in-command science: the researcher as captain, the agents as crew – an analyst to draft, a critic to probe, a planner to map next steps – with the human retaining authority over the question, the path and the conclusions. Even the most enthusiastic architects of AI-assisted discovery, in other words, are adamant that there must be someone in the front seat. And Wang arrives at the Waymo effect worry from the other direction: he warns that while AI may raise an individual’s performance, it risks reducing collective diversity, with outputs converging unless we deliberately counteract it – and that just as our collaborators shape us in profound and unexpected ways, so too will our agents. His remedy is to design for dissent and cultivate many models that think differently. Which is to say: having removed the friction, we must now engineer it back in.\n\nThis is an old worry wearing new clothes. In 1983, the psychologist Lisanne Bainbridge described the ironies of automation: the more reliably a system runs on its own, the less practice its human overseer gets at the very skill they are being kept in the loop to exercise in an emergency, so that competence quietly erodes precisely because it is needed only rarely, and always at the worst moment. Swap “pilot” for “researcher” and “autopilot” for “agent”, and the mechanism Wang is guarding against is the one Bainbridge named four decades earlier.\n\nThe problem, then, is not the technology. The problem is that we have made the human conversation the expensive option and the machine conversation free, and we are surprised at what researchers, responding rationally, then choose.\n\nSo the responsibility falls where the incentives are made. Funders and institutions should recognise collaboration for what it is – not a nice-to-have, but a form of infrastructure – and price it accordingly.\n\nFund the friction: the workshops, the visits, the co-location, the unstructured time that produces the conversations nobody could have scheduled. Evaluate contribution rather than velocity, and mean it. Treat “who did you think with?” as a question worthy of the same seriousness as “what did you publish?”\n\nAnd perhaps, in an age when a machine can produce any number of competent papers, we should notice that the scarce and valuable thing has inverted: the output is becoming cheap, and it is the thinking together that is becoming precious.\n\nSusan and I got where we were going. The car was smooth, the silence was comfortable, and the collaboration for which we had each crossed an ocean and a continent happened – not in the frictionless capsule, but in the inefficient, unscheduled, thoroughly human hours that followed it: the conversations that wandered, the disagreements neither of us had planned, the ideas that neither of us brought to San Francisco because they did not exist until we were in the same room.\n\nThat, in the end, is the Waymo effect in full: the ride is delightful, the destination is reached, and it is only if you glance up front that you notice what is missing. Wang calls for pilot-in-command science; the quiet risk is that our incentives are training us for passenger-in-comfort science instead.\n\nResearch is now climbing into the back seat. The ride will be smooth. The output will arrive. The question that research leaders should be asking – before we have all had a few more years of comfortable rides – is a simple one: who is in the front seat? And when did we stop noticing that nobody was driving?\n\nDaniel Hook is Chief Scientific Officer at Holtzbrinck Group. With thanks to Susan Winslow and Oliver Zahn for interesting conversations that motivated this writing.",
+        "fullTranslation": "无摩擦技术如何让我们习惯偏爱独处——以及为何科研领军者应当为此担忧。\n\n在最近一次旧金山之行中，我做了如今每位旧金山访客都会做的事：叫了一辆空无一人的汽车。\n\n那辆Waymo自动驾驶汽车带着一种从未为寻找停车位发愁过的机器特有的从容自信驶来。我坐进后排，本能地瞥了一眼驾驶座想打个招呼，却发现自己正礼貌地对着一张空椅子点头。方向盘正在自行转动。我这辈子花了相当多的时间思考物理学中违背直觉的现象，但这丝毫未能缓解我目睹方向盘自行转动时所产生的轻微存在主义眩晕——一位看不见的司机正对我的生命安全负责。\n\n我去旧金山的部分原因，是想与麦克米伦学习（Macmillan Learning）首席执行官苏珊·温斯洛（Susan Winslow）会面。我们同属霍尔茨布林克出版集团（Holtzbrinck group），而我们相聚则是出于最人性化的职业缘由：展开协作。坐在同一间屋子里，交流AI如何重塑我们各自所在的科研与教育领域的心得，并进行那种在视频通话中极难实现的深度思考。\n\n然而，在交流彼此的Waymo体验时，我们发现双方在另一件事上达成了完全一致的看法：乘车体验太棒了。作为两位自认内向的人，我们都觉得这辆无人驾驶汽车是一处小小的绿洲。无需勉强社交寒暄。无需就车内收音机播放什么进行无声的博弈。这里提供了一个毫无愧疚感的独处空间，让人可以理清思绪、处理完一封电子邮件，或在途中接听电话，而不必感到在陌生人面前通话的尴尬。车内安静、平稳，且完全没有任何社交要求。\n\n我们花了稍长一点的时间才说清楚自己究竟失去了什么。两个跨越大洲专门来见面对谈的人，却因一项核心特征是“无需与任何人交谈”的技术而暗自窃喜。\n\n让我尝试下一个定义：所谓的“Waymo效应”，是指当一项技术消除了人际交往中的摩擦时所产生的现象；我们会把这种消除视为纯粹的获益——因为摩擦的成本对我们而言向来显而易见，而其带来的益处却隐而不彰。\n\n读过吴修铭（Tim Wu）关于“便利的暴政”（the tyranny of convenience）论述的人，对这种套路都不会陌生——他的论点是，一旦出现了一种毫无摩擦的选项，我们便会默认选择它，并悄然放弃摩擦原本为我们带来的一切价值，毕竟从一开始就没有人将这种摩擦宣传为有价值之物。阿尔伯特·博格曼（Albert Borgmann）提出的相关概念“设备范式”（device paradigm）则更进一步：设备提供了一种日用品或便利物——例如温暖、信息、陪伴——却掩盖了以往为了获取它而必须付出的实践过程，以至于我们甚至不再察觉这种实践已经消失。唯一持续存在的，只有不断送达的便利本身。\n\n与出租车司机交谈的成本是显而易见的：维持礼貌的小小负担、对话如同轮盘赌般的不确定性，以及内向者在清晨7点强撑着寒暄所耗费的心力。而其益处则是分散且滞后的：在许多日子里，对我们许多人来说，出租车司机是不得不遇见的最后一个陌生人；是来自我们所在圈子之外——无论在职业、政治还是社交层面上——唯一与之进行非自选对话的最后一人；也是我们未曾主动寻求、却仍能可靠获取外界视角的最后来源。\n\n无论是苏珊还是我，都不希望设计出一个没有这些对话的世界。我们只是享受在这一次选择退出的轻松。当然，此类事物正是这样逐渐流失的：从来都不是因为某项深思熟虑的决定，而始终是源于便利的诱惑。一次又一次舒适的乘车，悄然积微成著。\n\n我需要明确指出，这并非一篇反对Waymo的文章（乘车体验确实无可挑剔，我毫不犹豫会再次乘坐——而这恰恰正是核心所在）。这是一篇关于科学研究的文章。因为将司机从汽车中移走的同一套逻辑，如今正以同样的从容淡定，且带来深远得多的后果，将合作者从科研过程中剔除出去。\n\n大语言模型正是智力生活领域的Waymo。\n\n坦率地从科研人员的亲身体验来审视这一对比吧。合作者只是偶尔在线，时间被教学任务、基金申请截止日期和时区差异切割得七零八落；而LLM却能在周日凌晨两点随叫随到——我们毋庸自欺，这往往正是惊人数量的科研构思真正发生的时刻。合作者带着他们自己的议程、他们自己对问题的定义框架，以及他们令人头疼的、认定你的核心假设是错误的执念而来；而LLM除了对你有所助益之外，别无其他诉求。合作者必须被说服；而LLM只需被提示。合作者会以你未曾要求且未曾想到的方式对你发起挑战；而LLM对你的挑战，则严格受控于你所要求的严厉程度——分毫不差，绝不多跨越一步。如果你要求它评判你的论点，它会胜任有余地照办。但它评判的仅仅是你提交给它的那个论点。它绝不会主动提醒你解决的其实是个错误的问题，也不会指出竞争团队早在2019年就尝试过并已放弃该方向，更不会告诫你构建的优美理论框架一旦与他人领域中纷繁复杂的现实相撞击便会土崩瓦解。\n\n换句话说，合作者带来的不便并非合作中的瑕疵；在很大程度上，它正是合作的本质所在。另一个头脑的价值，恰恰在于它拒绝成为你自身意志的附庸。\n\n而在挑战与意外收获之外，还存在着更为根本的意义。科研绝不仅仅是一个将想法转化为论文的生产函数。它是一个实践共同体——一张通过争论、学术传承、学术会议酒吧里的闲谈，以及共同经受审稿人严苛评审的煎熬而维系的社会纽带网络。这张网络赖以编织的，正是我们如今正在通过技术工程消除的摩擦。每一次本该与同事进行的对话被转嫁给聊天机器人，都是悄然从这张网络中抽走了一根丝线。单一一根丝线看似微不足道，整张网络却至关重要。当这种现象演变成规模化扩散时，有一个专门的词汇可以描述它，我提议我们使用它：去协作化（decollaboration）。\n\n如果这仅仅关乎个人的诱惑与自制力，那它不过是一个留给自我约束和偶见严厉社论探讨的话题。但事实并非如此。对于科研领军者、资助机构和学术机构而言，令人不安的真相在于，我们亲手构建了一套激励体系，使得“去协作化”成为了理性选择——而且年复一年，我们还在不断让这种选择变得愈发合理。\n\n合作历来代价高昂。它需要差旅开支、日程协调，以及建立信任那般极其缓慢的磨合过程。它需要管理自尊心、妥协退让，以及就作者署名顺序协商时周期性的小小失落感。“不发表即出局”（Publish-or-perish）的考核机制向来对这些成本课以重税，因为花在与合著者磨合对齐上的每一个小时，都是未曾用于生产被现有评价体系认可的成果的时间。然而，如今有三种力量正在相互交织叠加。\n\n首先，是经费压力。当预算收紧时，首当其冲被削减的往往是那些价值真实存在却难以量化的预算科目：差旅、研讨会、学术休假、访问职位——即带来“意外发现”（机缘巧合）的整个实体基础设施。我们削减了走廊的经费，然后反过来奇怪为什么走廊里的交流探讨不见了。\n\n其次，是对速度的崇拜。我们的评估体系——无论官方网站上点缀着多么动听的《旧金山科研评估宣言》（DORA）式表态——归根结底奖励的依然是产出以及产出的速度。而大语言模型（LLM）承诺带来的最核心优势正是速度。它们在耳边低语：文献综述周五就能完成，初稿下周一就能成型。对于一位能否获得下一个职位取决于出版物清单长度的研究人员而言，这样的耳语绝非能够轻易忽视。\n\n第三，也是最具诱惑力的一点：大语言模型从不会争夺作者署名顺序。它没有需要照顾的自尊心，没有相互竞争的个人诉求，也不会在学术成果的荣誉中分一杯羹。在这样一个把学术荣誉视作生存货币的体系里，一个才华横溢却分文不取学术功劳的对话者，已经不仅仅是方便而已。这本身就是一种套利行为。\n\n关于科研本身的研究（meta-research），本应让我们在此止步深思。从团队科学的文献中我们得知，小团队倾向于颠覆创新，而大团队倾向于完善发展；恰恰是合作者之间出人意料的组合——跨领域、跨机构的非典型搭档——不成比例地孕育了绝大多数最具原创性的成果。与此同时，关于生成式人工智能的早期证据指向了一个我们应当感到熟悉的方向：个体生产力上升，而思想的多样性却在收窄，每个人都在越来越相似的路径上加速前行。实际上，我们正在进行一场不受控制的全球实验，用意外发现的机缘去换取吞吐量——而我们所构建的激励机制就是这一实验的试验仪器。\n\n这里还存在一个更为深层的代价，它关乎大语言模型最令人惊艳的能力：写作。\n\n这些工具的部分诱惑力在于那种神速的印象。而我们有必要精确剖析为何这种印象在一定程度上只是一种幻觉。写作需要时间，是因为思考需要时间；这两者并非恰好先后发生的独立活动。撰写论文的价值从来不仅在于写出来的成果本身——它更是一种倒逼思考的机制（forcing function）。正是在写作中，我们才会发现自己原本坚信不疑的论点在第三节存在漏洞；正是在写作中，模糊的直觉要么凝练为严谨的主张，要么在必须变得严谨的压力下瓦解冰消。高质量的思想孕育缓慢，而在历史上，这种缓慢的孕育过程往往发生在人与人之间：在白板前、在走廊里、在合著者留下修改痕迹时那种富有成效的磨合与思想碰撞中。\n\n认知心理学家对这种富有成效的摩擦有一个术语：罗伯特·比约克（Robert Bjork）提出的“必要难度”（desirable difficulties）——即在学习和思考过程中的某些摩擦、费力的检索、延迟的反馈、努力用自己的语言将想法落诸笔端的挣扎，并非持久理解的阻碍，而恰恰是实现深度理解的机制所在。如果为了舒适而消除难度，你并不会更快地获得同等程度的理解；你得到的只会是更浅薄的理解，只是呈现得更加顺畅罢了。\n\n把写作外包，你并没有加速思考，而是直接跳过了思考。随着模型性能的提升，这一陷阱反而越陷越深，因为它们的输出越来越好——语言更流畅、结构更严谨，越来越难以与受过良好教育的人类散文区分开来。正是在破绽越来越少的同时，诱惑在不断增大。作为一名物理学家，这让我联想到了宇称-时间对称（PT-symmetric）量子系统：该系统具有一种令人不安的特性，即在一个隐藏的对称性被打破之前，一切表现都完全正常——而一旦打破，所有的一切都会在瞬间彻底改变。从所有可见的指标来看，一种科研文化可以显得无比健康——产出上升、周期缩短、文笔无可挑剔——而维系它的无形支柱却在悄无声息中跌落至阈值之下。等到症状在各项指标中显现之时，根源已埋下数年之久。\n\n这番讨论并非主张禁用这些工具。禁令注定会失败，而且理应失败，因为这些工具的前景是真实存在的。在 2026 年 3 月发表于《自然》（Nature）的一篇评论中，王大顺拓展了史蒂夫·乔布斯将计算机比作“人类思维的自行车”的名言，提出人工智能代理是人类思维的“飞机”：比自行车更快、更强大，但也更难驾驭，一旦失事代价也更惨重。他在益处方面的判断是正确的，而且这种益处十分可观。当人工智能将失败的成本压缩殆尽时，提出更具风险、更有抱负的科学问题便成了理性之举；当它大幅降低分析成本时，小型实验室和初出茅庐的独行者便能够尝试过去需要千军万马才能完成的研究。如果善加利用，这些工具确实能够拓展科研边界——而且若运用得当，智能代理系统甚至可以通过让每一个分析步骤都具备可记录和可复现性，从而加固科学界最脆弱的环节之一：可复现性。\n\n但请注意，即便是乐观主义者也坚持强调一点。王大顺给出的处方是他所谓的“机长掌舵式科学”（pilot-in-command science）：研究人员担任机长，智能代理充当机组成员——分析代理负责起草，批判代理负责质询，规划代理负责制定下一步计划——而人类始终保留对研究问题、研究路径和结论的最终决断权。换句话说，即便是人工智能辅助科研探索最热忱的构想者，也坚决认为驾驶座前排必须有人掌舵。王大顺从另一个角度得出了与“Waymo 效应”相同的担忧：他警告说，虽然人工智能可以提高个体表现，但它有可能降低集体多样性，除非我们刻意加以遏制，否则产出将会趋同——而且，正如人类合作者以深刻而出人意料的方式塑造我们一样，我们的智能代理也会如此。他的解决方案是“为异议而设计”（design for dissent），培养众多思维方式各异的模型。也就是说：在消除了摩擦之后，我们现在必须通过工程手段将摩擦重新引入。\n\n这不过是换了新装的旧担忧。1983 年，心理学家利桑·贝恩布里奇（Lisanne Bainbridge）描述了“自动化的讽刺”：一套系统自身运行越可靠，人类监督者就越缺少机会去练习原本需要他们在紧急情况下调用的技能，因此人类的能力反而在无声无息中退化，原因恰恰在于这种能力极少需要用到，而一旦需要，往往就是最危急的关头。把“飞行员”换成“研究人员”，把“自动驾驶”换成“智能代理”，王大顺所警惕的机制正是贝恩布里奇在四十年前指出的问题。\n\n因此，问题并不在于技术本身。问题在于，我们让“人与人的交流”变成了昂贵的选项，而让“人与机器的交流”变得免费；然后当研究人员做出理性的选择时，我们却又感到大惊小怪。\n\n因此，责任应落在制定激励机制的地方。资助机构和学术机构应当看清科研合作的本质——它不是可有可无的点缀，而是一种基础设施——并为其给出合理的定价与支持。\n\n为这种“摩擦”提供资助吧：研讨会、实地互访、同处一地办公，以及那些能促成任何人都无法预先安排的对话的非结构化时间。评估科研贡献而非产出速度，并且要言行一致。将“你与谁一同思考？”视作一个与“你发表了什么？”同等重要、严肃的问题。\n\n或许，在这个机器能够产出无数篇合格论文的时代，我们应当意识到，稀缺而有价值的事物已经发生了逆转：产出正在变得廉价，而共同思考正变得无比珍贵。\n\n苏珊（Susan）和我抵达了目的地。车行驶得平稳顺畅，车内的宁静令人惬意，而我们各自跨越大洋与大陆所追寻的合作也确实达成了——但它并非发生在那座毫无阻力的胶囊车厢里，而是发生在随后那些低效、未列入日程、完全属于人与人之间交流的时间里：那些漫无边际的闲谈、彼此未曾预料的分歧，以及我们谁都没带到旧金山的想法——因为在同处一室之前，这些想法根本就不存在。\n\n归根结底，这就是完整的“Waymo效应”：乘车体验令人愉悦，目的地也已抵达，只有当你向前排瞥上一眼时，才会发现缺失了什么。王（Wang）呼吁推行“机长负责制”式的科研；而潜在的隐秘风险在于，我们的激励机制正在将我们训练成享受舒适体验的“乘客模式”科研人员。\n\n如今，科研正在爬向后座。旅途将一路顺畅。成果也会如期而至。在科研领袖们又度过数年舒适乘车时光之前，他们应该扪心自问一个简单的问题：坐在前排的究竟是谁？我们又是从何时起，不再留意前排根本空无一人在驾驶？\n\n丹尼尔·胡克（Daniel Hook）系霍尔茨布林克集团（Holtzbrinck Group）首席科学官。感谢苏珊·温斯洛（Susan Winslow）和奥利弗·扎恩（Oliver Zahn）带来的促成本文写作的精彩对话。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 36,
+        "translationParagraphs": 36,
+        "keyTakeaways": [
+          "文章作者在旧金山搭乘了无驾驶员的 Waymo 自动驾驶汽车，并与麦克米伦学习（Macmillan Learning）CEO Susan Winslow 进行了会面交流。",
+          "作者与 Susan Winslow 同属霍尔茨布林克出版集团（Holtzbrinck group）的同事。",
+          "来源叙事重点：通过将大语言模型类比为无人驾驶技术（Waymo 效应），批判科研领域中为追求高产出和便利而以 AI 替代人际协作（即“去协作化”）的现象，警告学术界消除人际摩擦将以牺牲思想多样性与深度思考为代价。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T11:17:50.000Z",
+            "url": "https://www.researchagenda.news/articles/the-waymo-effect.html"
+          }
+        ]
+      },
+      {
+        "id": "story-on-bpd-in-september-html-593ad33f2b4b6984",
+        "title": "中国9月原油进口量预计将维持在每日720万桶",
+        "originalTitle": "China's Crude Imports Set to Hold at 7.2 Million Bpd in September",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:30:00.000Z",
+        "pubTime": "2026-09-11 19:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hold-at-72-Million-Bpd-in-September.html",
+        "imageUrl": null,
+        "fullContent": "China is on track to import roughly the same volumes of crude oil in September as it did in August, extending the trend of recovering shipments just as crude oil prices soared to above $100 per barrel again. Kpler&rsquo;s preliminary vessel-tracking data puts Chinese crude imports at about 7.2 million barrels per day bpd for September, about the same as in August, Nikkei Asia reports. The September-arriving crude cargoes were bought at prices well below $100 per barrel, but the gradual recovery of Chinese purchases from the decade-low in June signal further upward pressure on crude oil prices. Refiners in China have moved in recent weeks to restock on crude supplies, while prices were still in the $80s per barrel. China&rsquo;s crude oil imports rose for the second consecutive month in August as refiners turned to additional non-Middle Eastern supply and boosted overseas fuel shipments amid eased export restrictions. China imported 37.93 million tons, or 8.93 million bpd of crude oil in August, up by 6.2% compared to July, and further recovering from the decade-low seen in June, official Chinese customs data showed earlier this week. The August import level was still 23.4% lower compared to the same month last year, but it&rsquo;s a marked improvement from the June lows of just 7.1 million bpd. China slashed its total crude oil imports to a decade low in June, culminating three months of very low import levels amid high prices and constrained supply from the Middle East. Beijing, having amassed about 1.4 billion barrels of crude before the war, could afford to dramatically reduce its crude buying, slashing import volumes in June by an estimated 4.4 million bpd compared to the 2025 average. Chinese imports began to rebound in July, with the trend continuing into August, as flows from the Middle East ticked up, and Chinese refiners boosted Russian ESPO grade buying and turned to previously exotic and rare supply destinations such as Argentina. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "随着原油价格再度飙升至每桶100美元以上，中国9月份的原油进口量预计将与8月份大致持平，延续了货运回升的势头。据《日经亚洲》（Nikkei Asia）报道，Kpler的初步船舶跟踪数据显示，中国9月份的原油进口量约为每日720万桶，与8月份基本持平。\n\n这批于9月份到港的原油货船采购价格远低于每桶100美元，但中国采购量自6月份触及的十年低点逐步回升，标志着原油价格将面临进一步的上行压力。近几周，在油价仍徘徊在每桶80多美元的区间时，中国炼油商便已采取行动补充原油库存。\n\n8月份中国原油进口量连续第二个月实现增长，原因是在出口配额限制放宽的情况下，炼油商转向了更多的非中东供应来源，并增加了海外燃料出货量。本周早些时候公布的中国官方海关数据显示，中国8月份进口原油3793万吨（即每日893万桶），较7月份增长6.2%，相比6月份触及的十年低点进一步复苏。\n\n尽管8月份的进口水平与去年同期相比仍低23.4%，但相比6月份仅每日710万桶的低点已有显著改善。在高油价以及中东供应受限的双重压力下，中国在经历了连续三个月的极低进口水平后，于6月份将原油进口总量压缩至十年来的最低点。\n\n中国在战前已储备了约14亿桶原油，因此能够承受大幅减少原油采购的举措，6月份的原油进口量较2025年平均水平估计削减了每日440万桶。7月份中国原油进口开始反弹，且这一势头一直延续到了8月份——来自中东的原油流量略有回升，同时中国炼油商加大了对俄罗斯ESPO（东西伯利亚-太平洋管道）原油的采购力度，并转向了阿根廷等此前较为罕见的供应来源地。\n\n文 / Oilprice.com 记者 茨韦塔娜·帕拉斯科娃（Tsvetana Paraskova）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "根据日经亚洲援引Kpler的初步船舶跟踪数据，中国9月份原油进口量预计约为720万桶/日，与8月份基本持平。",
+          "中国官方海关数据显示，中国8月份进口原油3793万吨（约893万桶/日），环比7月增长6.2%。",
+          "来源叙事重点：聚焦中国9月原油进口预计维持在8月水平并呈现自低点复苏的态势；强调中国炼油商在油价冲破100美元前低价补库、分散进口来源（如俄油ESPO及阿根廷原油），并认为中国需求复苏将对国际油价形成持续上行压力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T11:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hold-at-72-Million-Bpd-in-September.html"
+          }
+        ]
+      },
+      {
+        "id": "story-nz-dating-apps-are-dying-95a267b90e0803e1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Dating Apps Are Dying",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T06:37:26.000Z",
+        "pubTime": "2026-09-11 14:37",
+        "url": "https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/",
+        "imageUrl": "https://external-preview.redd.it/fTKT--9lw1U2iFdfgADHL-bsyBI0bT3ZzLhNyzqHTYw.jpeg?width=640&crop=smart&auto=webp&s=41e0615e8f03fae7134a9948c3db09497c383f53",
+        "fullContent": "submitted by /u/thinkB4WeSpeak [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-11 14:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/",
+            "publishedAt": "2026-09-11T06:37:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-in-images-07-11-sep-2026-89b978ba4271c281",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Week in images: 07-11 Sep 2026",
+        "source": "ESA Space News (欧洲航天局官方英文)",
+        "sourceSlug": "esa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T13:00:00.000Z",
+        "pubTime": "2026-09-11 21:00",
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
+        "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
+        "fullContent": "Thank you for liking\n\nYou have already liked this page, you can only like it once!",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【ESA Space News (欧洲航天局官方英文)】于 2026-09-11 21:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "ESA Space News (欧洲航天局官方英文)",
+            "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
+            "publishedAt": "2026-09-11T13:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ikhachev-2117073666-html-51a46ae2c3e7333c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ситуация на ЗАЭС под контролем, несмотря на атаки ВСУ, заявил Лихачев",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T11:28:27.000Z",
+        "pubTime": "2026-09-11 19:28",
+        "url": "https://ria.ru/20260911/likhachev-2117073666.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/0b/06/2053157421_0:317:3075:2047_650x0_80_0_0_4d0cb934d0436329cc06201ff6ccdf54.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 19:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/likhachev-2117073666.html",
+            "publishedAt": "2026-09-11T11:28:27.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-k-make-ai-coding-cheaper-a7e839f442e5efa3",
+        "title": "RTK声称节省了Token，但我们的成本基准测试得出了相反结论",
+        "originalTitle": "RTK reports token savings, but our cost benchmarks disagree",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:15:13.000Z",
+        "pubTime": "2026-09-11 19:15",
+        "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+        "imageUrl": null,
+        "fullContent": "RTK (Rust Token Killer) filters and compresses terminal output before the AI agent reads it. With over 79k GitHub stars today, RTK is one of the most popular tools to make AI coding cheaper.\n\nOne X post saying RTK could cut Claude Code tokens by up to 60% reached 313K views.\n\nYet JetBrains’s SkillsBench run found no savings. The README has a disclaimer:\n\nRTK cuts up to 90% of the bash output your agent reads. […] it is not the same as cutting your bill by 90%.\n\nSo “less terminal output” is not the same as “cheaper AI coding”. It can help, be a no-op, or backfire (more turns or lower quality). In this post, we present our findings after several days and over $1,500 spent on tokens.\n\nRTK can rewrite Git, test, package and file commands the agent runs through its shell tool (Bash in Claude Code, bash in OpenCode). Each rewrite returns a terser version of the same output.\n\nFor example, RTK keeps file names, sizes and permissions (644 means rw-r—r—), but drops the owner and date:\n\nRTK compresses terminal output, so we tested it on Terminal-Bench 2.1, a benchmark with heavy terminal interaction. We stayed on 2.1 rather than the newer 3.0 and 4.0: agents pass most 2.1 tasks, while 3.0 and 4.0 are still a challenge. Cost only matters for tasks that pass.\n\nWe ran Claude Code with Fable 5.0, and OpenCode with DeepSeek V4 Pro 0813 through OpenRouter. Each task was scheduled five times without RTK and five times with it, on the same model route, platform and task-specific timeout.\n\nAfter removing four Fable security tasks that got refusals, the final comparison covers 85 Fable tasks and 89 DeepSeek tasks, or 1,740 attempts.\n\nWith RTK, costs fell by 5% for Fable and rose by 5% for DeepSeek.\n\nPass rates were lower with RTK: by 1% for Fable and 2% for DeepSeek. Both pass-rate gaps are small.\n\nWhen we divided all spending, including failed attempts, by the number of passes, Fable was 3% cheaper with RTK, and DeepSeek was 7% more expensive.\n\nAnother way is to weight every task equally, because one expensive task can outweigh many cheap ones. We compared the mean of each task’s baseline attempts with the mean of its RTK attempts, then averaged those changes.\n\nOn this task-level measure, Fable was 1% more expensive, with no clear difference from zero. DeepSeek’s task cost rose 17% on average.\n\nAccounting for failures does not change the trend. Across the 36 DeepSeek tasks where all ten attempts passed, the increase was still 18%.\n\nAlmost all of Fable’s savings with RTK came from one task: winning-avg-corewars. Both setups passed every attempt, but with RTK it finished in about half as many turns. Across the other tasks, the savings were less than 1%.\n\nDeepSeek had the reverse result on that same task. Both setups passed every attempt, but RTK took more turns and cost more. Even without that task, costs remained higher with RTK.\n\nRTK documents rtk gain as raw minus filtered command output in bytes, divided by 4, not a count of billed tokens.\n\nAcross 445 DeepSeek RTK attempts, RTK reported 349.2 million tokens saved, a 89% reduction.\n\nLarge reported token savings did not mean cheaper tasks.\n\nIn train-fasttext, the model requested head -1 train.txt twice. RTK credited 120.5 million tokens saved each time by comparing those limited reads with the whole file. Those two calls accounted for 69% of the comparison’s savings counter, although the requested commands would never have returned the whole file.\n\nTreating rtk gain as money saved assumes the rest of the attempt would stay the same. RTK can change the agent’s next turns. rtk gain does not account for the cost of those turns.\n\nThis is where social posts go wrong: rtk gain counts removed output, not money saved, and it can make a more expensive attempt look optimized.\n\nOne DeepSeek git-multibranch attempt got stuck in a loop. The agent ran a find with a flag that rtk find 0.45.0 did not support. The plugin rewrote it to rtk find, which failed with “Use find directly”. Every retry was rewritten again. RTK fixed this in 0.46.0, after our runs.\n\nThe agent accumulated 339 consecutive errors before its timeout. It still passed the task, but cost about 9× as much as the matching baseline attempt, which also passed. One outlier attempt; the trend holds without it.\n\nWithout RTK, tool output made up about 11% of Fable’s input tokens and 40% of DeepSeek’s.\n\nIn the RTK attempts, 31% of Claude Code’s terminal calls and 51% of OpenCode’s terminal calls used RTK.\n\nRTK rewrites only shell commands: its Claude Code hook matches the Bash tool and its OpenCode plugin acts on bash calls. Both platforms expose file reading and searching as separate Read, Grep, and Glob tools, which bypass RTK. About half of Claude Code’s Bash calls already limited their own output with head, tail, or wc.\n\nIn agentic coding, the context is cached after each turn, so later reads of terminal output mostly show up as cache reads. Those cost 1/10 of regular input tokens for Fable, and 1/30 for DeepSeek.\n\nIn DeepSeek, RTK reduced terminal-output characters by 9%, yet prompt tokens rose 9%. Uncached input fell 1% and cached input rose 9%. Model output, including reasoning, accounted for 56% of cost with RTK and 57% without it.\n\nWhen the agent took more turns, task cost usually rose with it.\n\nDeepSeek’s RTK attempts took more turns on 58 tasks, and 44 of them cost more. They took fewer turns on 28, and 23 of them cost less.\n\nThe average DeepSeek turn had 7% less input with RTK, but there were 18% more turns overall. Smaller turns did not add up to less total input.\n\nOne extra agent turn can cost more than the compression saved. It is the same tokenflation problem in another form. JetBrains saw the same pattern on SkillsBench: RTK added turns at low effort and did not lower cost at high effort.\n\nOn Terminal-Bench 2.1, Fable’s savings depended on one task and did not hold across tasks. We do not recommend RTK as a generic cost-saving tool.\n\nIndividual transcripts show that current frontier models already use the terminal efficiently (just ~7% of Fable’s context was terminal output). Models use techniques like head -n or tail -n themselves. RTK probably helped more with older models. Today it is a niche optimization, not a source of general savings.\n\nAI mushroom identification from a photo with ChatGPT, Claude or Google Gemini: GPT-6 Astra, Gemini 3.8 Flash, Claude Fable 5.1, GPT-5.6 and GLM-5.3-Flash. Asked “What mushroom is that?” on 360 photos of poisonous species. Which warn, which get it right, which fail.\n\nTokenflation: simple tasks consuming ever more context, reasoning, and tool calls without more useful output. We benchmarked 14 models; one answered “Hi” with 33 tool calls and an unsolicited commit.\n\nFour Claude models wired together in Claude Code: model refusals on delegated security tasks, seventh place, twice the cost of the top single-model run.",
+        "fullTranslation": "RTK（Rust Token Killer）在AI智能体读取终端输出之前对其进行过滤和压缩。截至目前，RTK在GitHub上已斩获超过7.9万颗星，成为让AI编程更便宜的最热门工具之一。\nX上的一篇帖子称RTK可将Claude Code的Token消耗减少多达60%，浏览量达到了31.3万次。\n然而，JetBrains的SkillsBench运行测试却没有发现任何节省。其README中包含一段免责声明：\nRTK最多可削减智能体读取的Bash输出的90%。[…]但这并不等同于将您的账单减少90%。\n因此，“更少的终端输出”并不等同于“更便宜的AI编程”。它可能有所帮助，可能毫无作用，也可能适得其反（导致更多轮次或更低质量）。在这篇文章中，我们将展示历时数天、耗费超过1500美元Token后的测试发现。\nRTK可以重写智能体通过其Shell工具（Claude Code中的Bash，OpenCode中的bash）运行的Git、测试、打包和文件命令。每次重写都会返回同一输出的更简洁版本。\n例如，RTK会保留文件名、大小和权限（644表示rw-r--r--），但会丢弃所有者和日期：\n由于RTK压缩终端输出，我们在Terminal-Bench 2.1上对其进行了测试，这是一个重度依赖终端交互的基准。我们选择停留在2.1版本而不是更新的3.0和4.0版本：智能体能通过大部分2.1任务，而3.0和4.0目前仍然极具挑战性。成本仅对通过的任务有意义。\n我们使用Fable 5.0运行Claude Code，并通过OpenRouter使用DeepSeek V4 Pro 0813运行OpenCode。每个任务在不使用RTK和使用RTK的情况下各调度运行五次，均采用相同的模型路由、平台以及任务专属超时设置。\n在剔除四个因遇到拒绝执行而失败的Fable安全任务后，最终对比涵盖了85个Fable任务和89个DeepSeek任务，共计1740次尝试。\n使用RTK后，Fable的成本下降了5%，而DeepSeek的成本上升了5%。\n使用RTK时任务通过率均有所下降：Fable降低了1%，DeepSeek降低了2%。两者的通过率差距都很小。\n当我们把包括失败尝试在内的所有花销除以通过的任务数时，Fable在使用RTK时便宜了3%，而DeepSeek则贵了7%。\n另一种方法是对每个任务赋予同等权重，因为单次昂贵的任务可能会掩盖许多廉价任务的表现。我们对比了每个任务基准尝试的均值与其RTK尝试的均值，随后对这些变动进行了平均计算。\n在这种任务级别的指标下，Fable贵了1%，与零相比没有明显差异。DeepSeek的任务成本平均上涨了17%。\n将失败计算在内并未改变这一趋势。在所有10次尝试均通过的36个DeepSeek任务中，成本增幅仍达18%。\nFable在使用RTK时几乎所有的节省都来自于单一任务：winning-avg-corewars。两种配置下每次尝试都顺利通过，但使用RTK时完成所需的轮次减少了约一半。在其他任务中，节省幅度不到1%。\nDeepSeek在同一任务上得出了相反的结果。两种配置都通过了每次尝试，但RTK耗费了更多轮次且成本更高。即便去掉该任务，使用RTK时的成本仍然更高。\nRTK文档将rtk gain定义为原始命令输出与过滤后输出的字节差除以4，而非计费Token的数量。\n在445次DeepSeek RTK尝试中，RTK报告共节省了3.492亿Token，降幅达89%。\n报告中显示的大量Token节省并不意味着任务成本更低。\n在train-fasttext任务中，模型两次请求执行head -1 train.txt。RTK每次都通过将这些有限的读取与整个文件对比，记入了1.205亿的Token节省。仅这两次调用就占了对比统计中节省计数器数值的69%，尽管所请求的命令根本不可能返回整个文件。\n将rtk gain直接等同于节省的资金，预设了该次尝试后续部分保持不变。RTK可能会改变智能体接下来的交互轮次。rtk gain并没有计入那些轮次的成本。\n这正是社交媒体帖子误导之处：rtk gain计算的是被移除的输出，而不是省下的钱，它可能让一次更加昂贵的尝试看起来得到了优化。\n有一次DeepSeek的git-multibranch尝试陷入了死循环。智能体运行了一个带有rtk find 0.45.0不支持的参数的find命令。插件将其重写为rtk find，随后因报错“Use find directly”而失败。随后的每一次重试又都被再次重写。RTK在我们测试后的0.46.0版本中修复了该问题。\n智能体在超时前连续累积了339次错误。它最终仍通过了任务，但成本大约是对标基准尝试（同样通过）的9倍。这是一次离群尝试；即便排除它，整体趋势依然成立。\n在没有RTK的情况下，工具输出约占Fable输入Token的11%，占DeepSeek的40%。\n在RTK尝试中，Claude Code有31%的终端调用、OpenCode有51%的终端调用使用了RTK。\nRTK只重写Shell命令：其Claude Code钩子匹配Bash工具，其OpenCode插件作用于bash调用。两个平台均将文件读取和搜索公开为独立的Read、Grep和Glob工具，这些工具会绕过RTK。Claude Code大约一半的Bash调用已经自带head、tail或wc来限制自身输出了。\n在智能体编程中，上下文在每轮后都会被缓存，因此后续对终端输出的读取大部分体现为缓存读取。这些缓存在Fable中的成本仅为常规输入Token的1/10，在DeepSeek中为1/30。\n在DeepSeek中，RTK使终端输出字符减少了9%，但提示词Token却增加了9%。未缓存输入减少了1%，缓存输入增加了9%。包括推理在内的模型输出，在启用RTK时占成本的56%，未启用时占57%。\n当智能体交互轮次增多时，任务成本通常随之上升。\nDeepSeek在启用RTK的尝试中，有58个任务消耗了更多轮次，其中44个成本更高。在28个任务中轮次减少，其中23个成本更低。\n启用RTK后，DeepSeek平均每轮交互的输入减少了7%，但总轮次却增加了18%。更精炼的单轮并没有换来更少的总体输入。\n智能体增加额外的一轮交互，其成本就可能超过压缩所带来的节省。这是“Token膨胀”（tokenflation）问题以另一种形式重现。JetBrains在SkillsBench上也观察到了相同的现象：RTK在低努力度下增加了轮次，在高努力度下并未降低成本。\n在Terminal-Bench 2.1上，Fable的成本节省完全依赖于单个任务，并不具有普适性。我们不推荐将RTK作为通用的成本节约工具。\n个别运行记录表明，当前的前沿模型本身已经能够高效利用终端（Fable的上下文中终端输出仅占约7%）。模型自身会采用head -n或tail -n等技巧。RTK在旧模型上可能更有帮助。在今天，它属于特定场景下的小众优化，而非普遍节省成本的灵丹妙药。\n使用ChatGPT、Claude或Google Gemini从照片识别AI蘑菇：GPT-6 Astra、Gemini 3.8 Flash、Claude Fable 5.1、GPT-5.6和GLM-5.3-Flash。针对360张有毒菌类照片询问“那是什么蘑菇？”。看哪些给出了警告，哪些识别正确，哪些失败。\nToken膨胀：简单任务消耗越来越多的上下文、推理和工具调用，却没有产生更多有用的输出。我们对14个模型进行了基准测试；其中一个模型在回答“Hi”时调用了33次工具并提交了一次未被请求的代码提交。\n在Claude Code中串联四个Claude模型：在委托的安全任务上面临模型拒答，仅排在第七位，成本是表现最优的单模型运行的两倍。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 40,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "RTK（Rust Token Killer）用于在 AI Agent 读取终端输出前对其进行过滤和压缩，在 GitHub 上拥有超过 79k 星标。",
+          "Quesma 团队在 Terminal-Bench 2.1 基准测试上对 RTK 进行了测试，耗时数天且消耗了超过 1,500 美元的 token。",
+          "来源叙事重点：通过严谨的大规模基准测试（Terminal-Bench 2.1，1740次尝试）证伪 RTK 能普遍降低 AI 编程成本的流行神话，揭示“输出压缩量不等于账单节约”的核心机理（轮数增加、缓存折扣、指标虚标）。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T11:15:13.000Z",
+            "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/"
+          }
+        ]
+      },
+      {
+        "id": "story-his-a-good-idea-a2748ccc-d665127f2dd14c04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "On my late husband’s birthday, I want to pay for every customer at his favorite restaurant. Is this a good idea?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:15:00.000Z",
+        "pubTime": "2026-09-11 19:15",
+        "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 19:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T11:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ough-assisted-dying-bill-f8e0da0afef4e7fb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "MPs urged not to take ‘extraordinary risk’ of forcing through assisted dying bill as vote looms",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T06:18:09.000Z",
+        "pubTime": "2026-09-11 14:18",
+        "url": "https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill",
+        "imageUrl": "https://i.guim.co.uk/img/media/8442b68cbdf61fbd7ed0b127e89c969644a2436c/234_0_4310_3448/master/4310.jpg?width=140&quality=85&auto=format&fit=max&s=186ba881ed4c7b036954c84d32c6c4a9",
+        "fullContent": "Labour MPs Gareth Snell and Meg Hillier say Lords must be allowed to fulfil duty in scrutinising bill on serious public issue\n\nMPs who voted for and against assisted dying have urged their respective sides not to take the “extraordinary risk” of forcing through the bill using an obscure parliamentary procedure if it continues to be blocked by the Lords.\n\nTwo Labour MPs have written a warning letter to colleagues in the crucial hours before the next vote on Friday: Gareth Snell, who voted in favour of the bill, and Meg Hillier, who voted against.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "工党议员加雷思·斯内尔（Gareth Snell）和梅格·希利尔（Meg Hillier）表示，必须允许上议院（Lords）履行审查重大公共议题法案的职责。",
+          "曾对协助自杀法案投下赞成票与反对票的议员呼吁各自阵营，若该法案持续在上议院受阻，不要采取利用晦涩议会程序强行推通过法案的“非同寻常的风险”。",
+          "来源叙事重点：突出跨阵营（支持与反对两方）议员呼吁尊重上议院审查职责，警告下议院勿为强推协助自杀法案而动用非常规议会程序"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T06:18:09.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill"
+          }
+        ]
+      },
+      {
+        "id": "story-south-environmental-html-1f6e20acfa1e8682",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How western consumption becomes the Global South's environmental nightmare",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:20:01.000Z",
+        "pubTime": "2026-09-11 19:20",
+        "url": "https://phys.org/news/2026-09-western-consumption-global-south-environmental.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2022/electronic-waste-1.jpg",
+        "fullContent": "Industrialized countries send millions of metric tonnes of used clothing, electronic equipment and other products to the Global South, along with the environmental and health costs tied to producing, consuming and disposing of those goods.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-11 19:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-western-consumption-global-south-environmental.html",
+            "publishedAt": "2026-09-11T11:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rossija-2117073218-html-a2c63f8193be5b8f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В России и КНР предложили создать B2B-платформу в туризме без посредников",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T11:27:45.000Z",
+        "pubTime": "2026-09-11 19:27",
+        "url": "https://ria.ru/20260911/rossija-2117073218.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/07/1c/2107555496_0:205:2980:1881_650x0_80_0_0_6fab84bf8b59ea968084252afd065b00.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 19:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/rossija-2117073218.html",
+            "publishedAt": "2026-09-11T11:27:45.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-mbal-release-price-specs-0c7ec27bdd71ebb3",
+        "title": "影石Insta360推出Osmo Pocket单摄竞品，且在美国市场切实可购",
+        "originalTitle": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:07:24.000Z",
+        "pubTime": "2026-09-11 19:07",
+        "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Insta360’s first compact steadicam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it’s followed the Ultra with a slightly stripped back Pro model, which drops to one lens but has a unique advantage: it can shoot vertical video in 4K. Plus, unlike DJI’s Osmo Pocket 4, you can buy it in the US. At its heart, the Luna Pro is mostly an Ultra with the telephoto lens stripped out. It uses the same 1-inch-type 8K sensor as the Ultra’s main camera, has a similar design including the detachable 2-inch touchscreen that doubles as a remote, and the same four-hour battery life and NFC tag for quicker file transfers. It’s a bit smaller and lighter thanks to dropping the second lens, but that’s about it.  Insta360 has given the Pro one crucial upgrade though: it can use that 8K sensor to record 4K vertical video at 30fps, something missing from the Luna Ultra (though I’ve asked Insta360 if we can expect to see it added in a firmware update). That camera — like both of DJI’s Osmo Pocket 4 and 4P models — is limited to 3K resolution when you record in portrait, forcing some people to hold the whole gimbal sideways to get the footage they need. It’s a relief to see the Pro fix that omission. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-2.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-5.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-4.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-6.jpg?quality=90&strip=all] The Luna Pro is out now in the US for $599.99, compared to $769.99 for the Luna Ultra. In Europe it starts at £469 / €529, just a little more than the £429 / €479 DJI Osmo Pocket 4, which is (officially) unavailable in the US following a ban on the company.",
+        "fullTranslation": "影石Insta360推出的首款紧凑型手持云台相机Luna Ultra在今年凭借双镜头配置先于大疆亮相，引发了巨大轰动。如今，该公司在Ultra之后又推出了略作简化的Pro版本。该型号缩减为单镜头，但拥有一个独特的优势：能够拍摄4K竖屏视频。此外，与大疆Osmo Pocket 4不同的是，你可以在美国买到它。\n\n从核心配置来看，Luna Pro基本上就是去掉了长焦镜头的Ultra。它采用了与Ultra主摄相同的1英寸型8K传感器，外观设计也颇为相似，包括可兼作遥控器的2英寸可拆卸触控屏、相同的4小时续航时间，以及用于更快传输文件的NFC标签。由于去掉了第二颗镜头，它的体积略小、重量略轻，但大致仅此而已。\n\n不过，影石Insta360为Pro带来了一项关键升级：它可以利用这颗8K传感器以30fps的帧率录制4K竖屏视频，而这是Luna Ultra所欠缺的功能（不过我已向影石Insta360询问是否能期待通过固件更新加入该功能）。那款相机——就像大疆的Osmo Pocket 4和4P两款机型一样——在竖屏拍摄时分辨率被限制在3K，迫使部分用户为了获得所需画面而不得不将整个云台横过来握持。看到Pro弥补了这一遗憾，确实令人欣慰。\n\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-2.jpg?quality=90&strip=all]\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-5.jpg?quality=90&strip=all]\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-4.jpg?quality=90&strip=all]\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-6.jpg?quality=90&strip=all]\n\nLuna Pro现已在美国上市，售价为599.99美元，相比之下Luna Ultra售价为769.99美元。在欧洲，该产品起售价为469英镑/529欧元，仅略高于大疆Osmo Pocket 4（429英镑/479欧元）。而由于针对该公司的禁令，大疆Osmo Pocket 4在美国（官方渠道）已无法购买。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "Insta360推出了紧凑型云台相机Luna Pro，该机型采用单镜头设计，去掉了长焦镜头，比Luna Ultra更轻小。",
+          "Luna Pro支持以30fps录制4K竖屏视频，而Luna Ultra和大疆Osmo Pocket 4及4P在人像竖屏模式下仅限3K分辨率。",
+          "来源叙事重点：聚焦Insta360 Luna Pro的核心规格更迭（单镜头、4K竖屏录制升级）与价格定位，并重点突出在大疆因禁令受阻于美国市场的背景下，该产品作为大疆Osmo Pocket有力替代品的市场竞争优势。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T11:07:24.000Z",
+            "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs"
+          }
+        ]
+      },
+      {
+        "id": "story-ce-ripper-rally-e1e05e5e-41b3aa6330b09f67",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The four reasons stocks are about to embark on a ‘face-ripper rally’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T10:58:00.000Z",
+        "pubTime": "2026-09-11 18:58",
+        "url": "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Bull markets don’t peak when investors are so bearish, says Fundstrat’s Tom Lee.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 18:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T10:58:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tum-to-end-fgm-worldwide-c5b3938ea60451e9",
+        "title": "1500万美元基金启动 旨在凝聚“不可阻挡的势头”在全球终结女性割礼",
+        "originalTitle": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T04:00:04.000Z",
+        "pubTime": "2026-09-11 12:00",
+        "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+        "imageUrl": "https://i.guim.co.uk/img/media/e66ba0e6f0cdfc07dc7018314386caa02a716e6f/376_0_3542_2833/master/3542.jpg?width=140&quality=85&auto=format&fit=max&s=5e6941dbf3f5da494f1f869983a43693",
+        "fullContent": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally\n\nFrontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentum” to finally end the practice.\n\nThe launch of the fund comes as women’s rights are increasingly under attack and donor funding is in sharp decline, particularly for work led by FGM survivors in local communities. It is thought to be the largest single philanthropic contribution to ending the practice of FGM.",
+        "fullTranslation": "“她的地平线基金”（Her Horizon Fund）寻求筹集1亿美元，以终结这一伤害全球2.3亿妇女和女童的陋习。\n\n在抗击女性生殖器割礼（FGM）第一线的行动者与倡导领袖对设立一笔史无前例的1550万美元（约合1140万英镑）基金表示欢迎。目前全球已有超过2.3亿妇女和女童受到女性生殖器割礼的伤害，该基金旨在凝聚“不可阻挡的势头”，以彻底终结这一恶习。\n\n该基金启动之际，正值女性权利日益受到冲击、捐赠资金大幅锐减之时，特别是由当地社区女性生殖器割礼幸存者主导的各项工作面临严峻的资金匮乏。据信，这是迄今为止旨在终结女性生殖器割礼陋习的最大单笔慈善捐助。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "Her Horizon Fund正在寻求1亿美元资金，以终结全球影响2.3亿女性和女童的女性割礼（FGM）现象。",
+          "抗击女性割礼的一线活动人士和领袖对一项1550万美元（约合1140万英镑）的基金表示欢迎，该基金旨在形成彻底终结该做法的不可阻挡之势。",
+          "来源叙事重点：聚焦Her Horizon Fund设立1550万美元（目标1亿美元）抗击女性割礼的里程碑意义，突出在全球女性权益受压制及捐赠资金断崖式下跌的危机背景下，该笔慈善基金对基层幸存者与一线活动人士的关键支持。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T04:00:04.000Z",
+            "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-911-vizy-2117073769-html-0aeb7508b6ba281f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ФВВСР: World Aquatics обязала страны гарантировать визы российским атлетам",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T11:28:41.000Z",
+        "pubTime": "2026-09-11 19:28",
+        "url": "https://ria.ru/20260911/vizy-2117073769.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 19:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/vizy-2117073769.html",
+            "publishedAt": "2026-09-11T11:28:41.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-es-the-waymo-effect-html-244ca616b7edfe06",
+        "title": "Waymo效应：人工智能如何悄然削弱科研协作",
+        "originalTitle": "The Waymo effect: how AI is quietly making research less collaborative",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:17:50.000Z",
+        "pubTime": "2026-09-11 19:17",
+        "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+        "imageUrl": null,
+        "fullContent": "How frictionless technologies teach us to prefer our own company – and why research leaders should worry.\n\nOn a recent trip to San Francisco I did the thing that every visitor to San Francisco now does: I summoned a car with no one in it.\n\nThe Waymo arrived with the serene confidence of a machine that has never once worried about where to find parking, and I climbed into the back seat, glanced instinctively at the driver’s seat to say hello, and found myself nodding politely at an empty chair. The steering wheel turned itself. I have spent a reasonable portion of my life thinking about counterintuitive aspects of physics, but that did not help me with the mild existential vertigo of watching a steering wheel moving on its own – an unseen driver responsible for my safety.\n\nI was in San Francisco, in part, to spend time with Susan Winslow, CEO of Macmillan Learning. We are colleagues within the Holtzbrinck group, and we had come together for the most human of professional reasons: to collaborate. To sit in the same room, compare notes on how AI is reshaping our respective corners of research and education, and do the kind of thinking that is stubbornly difficult to do over video calls.\n\nAnd yet, comparing notes on our Waymo experiences, we discovered we agreed on something else entirely: the rides were wonderful. As two self-confessed introverts, we had each found the driverless car to be a small oasis. No obligation to make conversation. No silent negotiation over the radio. A guilt-free space to be alone with one's thoughts, finish an email, or take a call en route without the awkwardness about conducting it in front of a stranger. The car was quiet, smooth and entirely undemanding.\n\nIt took us slightly longer to name what we had lost. Two people who had crossed continents to talk to each other were quietly delighted by a technology whose central feature is that you don’t have to talk to anyone.\n\nLet me attempt a definition: the Waymo effect is what happens when a technology removes the friction of dealing with another human being, and we experience that removal as pure gain – because the costs of the friction were always visible to us, while its benefits were not.\n\nThis is a familiar move for anyone who has read Tim Wu on “the tyranny of convenience” – his argument that once a frictionless option exists, we take it by default, and quietly surrender whatever the friction was doing for us, since nobody advertised it as valuable in the first place. Albert Borgmann’s related idea of the device paradigm goes a step further: a device delivers a commodity – warmth, information, companionship – while concealing the practice that once had to be undertaken to earn it, so that we stop noticing the practice has gone at all. Only the commodity keeps arriving.\n\nThe costs of talking to a taxi driver are obvious: the small effort of politeness, the conversational roulette, the introvert’s tax of sustained small talk at 7am. The benefits are diffuse and deferred: the driver was, for many of us on many days, the last stranger we were obliged to encounter. The last person from outside our bubble – professionally, politically, socially – with whom we had an unchosen conversation. The last reliable source of a view we did not ask for.\n\nNeither Susan nor I would design a world without those conversations. We simply enjoyed opting out of this one. And that, of course, is how such things are lost: never by decision, always by convenience. One comfortable ride at a time.\n\nI should be clear that this is not an anti-Waymo article (the rides really were excellent, and I would take one again without hesitation – that is rather the point). It is an article about research. Because the same logic that removed the driver from the car is now, with equal serenity and considerably greater consequence, removing the collaborator from the research process.\n\nLarge language models are the Waymo of intellectual life.\n\nConsider the comparison honestly, as a researcher experiences it. A collaborator is available occasionally, between teaching commitments, grant deadlines and time zones; an LLM is available at 2am on a Sunday, which – let us not pretend otherwise – is when a worrying amount of research thinking actually happens. A collaborator arrives with their own agenda, their own framing of the problem, their own inconvenient conviction that your central assumption is wrong; an LLM arrives with no agenda beyond being useful to you. A collaborator must be persuaded; an LLM must merely be prompted. A collaborator will challenge you in ways you did not ask for and had not thought of; an LLM will challenge you precisely as robustly as you request – and not one degree more. If you ask it to critique your argument, it will do so, capably. But it will critique the argument you brought. It will not, unbidden, tell you that you are solving the wrong problem, that a rival group tried this in 2019 and abandoned it, or that your beautiful theoretical framing collapses on contact with the messy realities of someone else’s field.\n\nThe collaborator’s inconvenience, in other words, is not a bug in the collaboration; it largely is the collaboration. The value of another mind lies exactly in the ways it refuses to be an extension of your own.\n\nAnd beyond challenge and serendipity lies something more fundamental still. Research is not merely a production function that converts ideas into papers. It is a community of practice – a social fabric maintained through argument, apprenticeship, conference-bar conversations, the shared ordeal of a difficult referee report. That fabric is woven from precisely the frictions we are now engineering away. Every conversation redirected from a colleague to a chatbot is a thread quietly withdrawn. No individual thread matters. The fabric does. There is a word for what happens when this proceeds at scale, and I propose we use it: decollaboration.\n\nIf this were only a matter of individual temptation, it would be a subject for self-discipline and the occasional stern editorial. But it is not. The uncomfortable truth for research leaders, funders and institutions is that we have built an incentive system that makes decollaboration the rational choice – and we are busily making it more rational by the year.\n\nCollaboration has always been expensive. It costs travel and scheduling and the glacial work of building trust. It costs ego management and compromise and the periodic small heartbreak of the author-order negotiation. Publish-or-perish has always taxed these expenses, because every hour spent aligning with a co-author is an hour not spent producing output that is legible to an evaluation system. But three forces are now compounding.\n\nFirst, funding pressure. When budgets tighten, the first casualties are always the line items whose value is real but unmeasurable: travel, workshops, sabbaticals, visiting positions – the entire physical infrastructure of serendipity. We defund the corridor and then wonder where the corridor conversations went.\n\nSecond, velocity worship. Our evaluation systems – whatever DORA-shaped statements adorn our websites – still reward output and speed of output. And LLMs promise speed above all things. They whisper that the literature review can be done by Friday, that the draft can exist by Monday. To a researcher whose next position depends on the length of a publication list, this is not a whisper that is easy to ignore.\n\nThird, and most seductively: the LLM never argues about author order. It has no ego to manage, no competing agenda, no rival claim on the credit. In a system where credit is the currency of survival, a brilliant interlocutor who demands no share of the credit is not merely convenient. It is arbitrage.\n\nThe research on research should give us pause here. We know from the team-science literature that small teams tend to disrupt while large teams develop, and that it is the unexpected combinations of collaborators – the atypical pairings across fields and institutions – that disproportionately produce the most novel work. Meanwhile, the early evidence on generative AI points in a direction that should sound familiar: individual productivity rises while the diversity of ideas narrows, everyone moving faster along increasingly similar paths. We are, in effect, running an uncontrolled global experiment in trading serendipity for throughput – and the incentive structures we have built are the experimental apparatus.\n\nThere is a deeper cost still, and it concerns the thing LLMs do most impressively: writing.\n\nPart of the lure of these tools is the impression of speed. And it is worth being precise about why that impression is partly an illusion. Writing takes time because thinking takes time; the two are not separable activities that happen to occur in sequence. The value of writing a paper was never really the artefact – it was the forcing function. Writing is where we discover that the argument we were sure of has a hole in section three; where a vague intuition either becomes a precise claim or dissolves under the pressure of having to be one. High-quality ideas are slow to generate, and historically much of that slow generation happened between people: at the whiteboard, in the corridor, in the productive irritation of a co-author’s tracked changes.\n\nCognitive psychologists have a name for this kind of productive friction: Robert Bjork’s desirable difficulties – the finding that certain frictions in learning and thinking, effortful retrieval, delayed feedback, the struggle to get an idea onto the page in your own words, are not obstacles to durable understanding but the mechanism of it. Remove the difficulty for the sake of comfort, and you do not get the same understanding faster. You get less of it, delivered more smoothly.\n\nOutsource the writing and you have not accelerated the thinking; you have skipped it. And the trap deepens as the models improve, because their output becomes steadily better – more fluent, more structured, less and less distinguishable from educated human prose. The temptation grows precisely as the tell-tale signs shrink. As a physicist, I am reminded of PT-symmetric quantum systems, which have the disconcerting property of behaving entirely normally right up until a hidden symmetry breaks – at which point everything changes at once. A research culture can look healthy by every visible measure – outputs up, turnaround down, prose immaculate – while the invisible thing that sustained it quietly falls below threshold. By the time the symptom appears in the metrics, the cause is years in the past.\n\nNone of this is an argument for banning the tools. That would fail, and it would deserve to fail, because the promise is genuine. In a March 2026 Nature comment, Dashun Wang extends Steve Jobs’s famous description of the computer as “a bicycle for our minds”, proposing that AI agents are aeroplanes for the mind: faster and more powerful than the bicycle, harder to control, costlier when they crash. He is right about the upside, and it is considerable. When AI collapses the cost of failure, riskier and more ambitious questions become rational to ask; when it collapses the cost of analysis, small labs and lone newcomers can attempt what once required armies. Used well, these tools genuinely extend research – and, done properly, agentic systems could even strengthen one of science’s weakest joints, reproducibility, by making every analytical step loggable and replayable.\n\nBut notice what even the optimists insist upon. Wang’s prescription is what he calls pilot-in-command science: the researcher as captain, the agents as crew – an analyst to draft, a critic to probe, a planner to map next steps – with the human retaining authority over the question, the path and the conclusions. Even the most enthusiastic architects of AI-assisted discovery, in other words, are adamant that there must be someone in the front seat. And Wang arrives at the Waymo effect worry from the other direction: he warns that while AI may raise an individual’s performance, it risks reducing collective diversity, with outputs converging unless we deliberately counteract it – and that just as our collaborators shape us in profound and unexpected ways, so too will our agents. His remedy is to design for dissent and cultivate many models that think differently. Which is to say: having removed the friction, we must now engineer it back in.\n\nThis is an old worry wearing new clothes. In 1983, the psychologist Lisanne Bainbridge described the ironies of automation: the more reliably a system runs on its own, the less practice its human overseer gets at the very skill they are being kept in the loop to exercise in an emergency, so that competence quietly erodes precisely because it is needed only rarely, and always at the worst moment. Swap “pilot” for “researcher” and “autopilot” for “agent”, and the mechanism Wang is guarding against is the one Bainbridge named four decades earlier.\n\nThe problem, then, is not the technology. The problem is that we have made the human conversation the expensive option and the machine conversation free, and we are surprised at what researchers, responding rationally, then choose.\n\nSo the responsibility falls where the incentives are made. Funders and institutions should recognise collaboration for what it is – not a nice-to-have, but a form of infrastructure – and price it accordingly.\n\nFund the friction: the workshops, the visits, the co-location, the unstructured time that produces the conversations nobody could have scheduled. Evaluate contribution rather than velocity, and mean it. Treat “who did you think with?” as a question worthy of the same seriousness as “what did you publish?”\n\nAnd perhaps, in an age when a machine can produce any number of competent papers, we should notice that the scarce and valuable thing has inverted: the output is becoming cheap, and it is the thinking together that is becoming precious.\n\nSusan and I got where we were going. The car was smooth, the silence was comfortable, and the collaboration for which we had each crossed an ocean and a continent happened – not in the frictionless capsule, but in the inefficient, unscheduled, thoroughly human hours that followed it: the conversations that wandered, the disagreements neither of us had planned, the ideas that neither of us brought to San Francisco because they did not exist until we were in the same room.\n\nThat, in the end, is the Waymo effect in full: the ride is delightful, the destination is reached, and it is only if you glance up front that you notice what is missing. Wang calls for pilot-in-command science; the quiet risk is that our incentives are training us for passenger-in-comfort science instead.\n\nResearch is now climbing into the back seat. The ride will be smooth. The output will arrive. The question that research leaders should be asking – before we have all had a few more years of comfortable rides – is a simple one: who is in the front seat? And when did we stop noticing that nobody was driving?\n\nDaniel Hook is Chief Scientific Officer at Holtzbrinck Group. With thanks to Susan Winslow and Oliver Zahn for interesting conversations that motivated this writing.",
+        "fullTranslation": "无摩擦技术如何让我们习惯偏爱独处——以及为何科研领军者应当为此担忧。\n\n在最近一次旧金山之行中，我做了如今每位旧金山访客都会做的事：叫了一辆空无一人的汽车。\n\n那辆Waymo自动驾驶汽车带着一种从未为寻找停车位发愁过的机器特有的从容自信驶来。我坐进后排，本能地瞥了一眼驾驶座想打个招呼，却发现自己正礼貌地对着一张空椅子点头。方向盘正在自行转动。我这辈子花了相当多的时间思考物理学中违背直觉的现象，但这丝毫未能缓解我目睹方向盘自行转动时所产生的轻微存在主义眩晕——一位看不见的司机正对我的生命安全负责。\n\n我去旧金山的部分原因，是想与麦克米伦学习（Macmillan Learning）首席执行官苏珊·温斯洛（Susan Winslow）会面。我们同属霍尔茨布林克出版集团（Holtzbrinck group），而我们相聚则是出于最人性化的职业缘由：展开协作。坐在同一间屋子里，交流AI如何重塑我们各自所在的科研与教育领域的心得，并进行那种在视频通话中极难实现的深度思考。\n\n然而，在交流彼此的Waymo体验时，我们发现双方在另一件事上达成了完全一致的看法：乘车体验太棒了。作为两位自认内向的人，我们都觉得这辆无人驾驶汽车是一处小小的绿洲。无需勉强社交寒暄。无需就车内收音机播放什么进行无声的博弈。这里提供了一个毫无愧疚感的独处空间，让人可以理清思绪、处理完一封电子邮件，或在途中接听电话，而不必感到在陌生人面前通话的尴尬。车内安静、平稳，且完全没有任何社交要求。\n\n我们花了稍长一点的时间才说清楚自己究竟失去了什么。两个跨越大洲专门来见面对谈的人，却因一项核心特征是“无需与任何人交谈”的技术而暗自窃喜。\n\n让我尝试下一个定义：所谓的“Waymo效应”，是指当一项技术消除了人际交往中的摩擦时所产生的现象；我们会把这种消除视为纯粹的获益——因为摩擦的成本对我们而言向来显而易见，而其带来的益处却隐而不彰。\n\n读过吴修铭（Tim Wu）关于“便利的暴政”（the tyranny of convenience）论述的人，对这种套路都不会陌生——他的论点是，一旦出现了一种毫无摩擦的选项，我们便会默认选择它，并悄然放弃摩擦原本为我们带来的一切价值，毕竟从一开始就没有人将这种摩擦宣传为有价值之物。阿尔伯特·博格曼（Albert Borgmann）提出的相关概念“设备范式”（device paradigm）则更进一步：设备提供了一种日用品或便利物——例如温暖、信息、陪伴——却掩盖了以往为了获取它而必须付出的实践过程，以至于我们甚至不再察觉这种实践已经消失。唯一持续存在的，只有不断送达的便利本身。\n\n与出租车司机交谈的成本是显而易见的：维持礼貌的小小负担、对话如同轮盘赌般的不确定性，以及内向者在清晨7点强撑着寒暄所耗费的心力。而其益处则是分散且滞后的：在许多日子里，对我们许多人来说，出租车司机是不得不遇见的最后一个陌生人；是来自我们所在圈子之外——无论在职业、政治还是社交层面上——唯一与之进行非自选对话的最后一人；也是我们未曾主动寻求、却仍能可靠获取外界视角的最后来源。\n\n无论是苏珊还是我，都不希望设计出一个没有这些对话的世界。我们只是享受在这一次选择退出的轻松。当然，此类事物正是这样逐渐流失的：从来都不是因为某项深思熟虑的决定，而始终是源于便利的诱惑。一次又一次舒适的乘车，悄然积微成著。\n\n我需要明确指出，这并非一篇反对Waymo的文章（乘车体验确实无可挑剔，我毫不犹豫会再次乘坐——而这恰恰正是核心所在）。这是一篇关于科学研究的文章。因为将司机从汽车中移走的同一套逻辑，如今正以同样的从容淡定，且带来深远得多的后果，将合作者从科研过程中剔除出去。\n\n大语言模型正是智力生活领域的Waymo。\n\n坦率地从科研人员的亲身体验来审视这一对比吧。合作者只是偶尔在线，时间被教学任务、基金申请截止日期和时区差异切割得七零八落；而LLM却能在周日凌晨两点随叫随到——我们毋庸自欺，这往往正是惊人数量的科研构思真正发生的时刻。合作者带着他们自己的议程、他们自己对问题的定义框架，以及他们令人头疼的、认定你的核心假设是错误的执念而来；而LLM除了对你有所助益之外，别无其他诉求。合作者必须被说服；而LLM只需被提示。合作者会以你未曾要求且未曾想到的方式对你发起挑战；而LLM对你的挑战，则严格受控于你所要求的严厉程度——分毫不差，绝不多跨越一步。如果你要求它评判你的论点，它会胜任有余地照办。但它评判的仅仅是你提交给它的那个论点。它绝不会主动提醒你解决的其实是个错误的问题，也不会指出竞争团队早在2019年就尝试过并已放弃该方向，更不会告诫你构建的优美理论框架一旦与他人领域中纷繁复杂的现实相撞击便会土崩瓦解。\n\n换句话说，合作者带来的不便并非合作中的瑕疵；在很大程度上，它正是合作的本质所在。另一个头脑的价值，恰恰在于它拒绝成为你自身意志的附庸。\n\n而在挑战与意外收获之外，还存在着更为根本的意义。科研绝不仅仅是一个将想法转化为论文的生产函数。它是一个实践共同体——一张通过争论、学术传承、学术会议酒吧里的闲谈，以及共同经受审稿人严苛评审的煎熬而维系的社会纽带网络。这张网络赖以编织的，正是我们如今正在通过技术工程消除的摩擦。每一次本该与同事进行的对话被转嫁给聊天机器人，都是悄然从这张网络中抽走了一根丝线。单一一根丝线看似微不足道，整张网络却至关重要。当这种现象演变成规模化扩散时，有一个专门的词汇可以描述它，我提议我们使用它：去协作化（decollaboration）。\n\n如果这仅仅关乎个人的诱惑与自制力，那它不过是一个留给自我约束和偶见严厉社论探讨的话题。但事实并非如此。对于科研领军者、资助机构和学术机构而言，令人不安的真相在于，我们亲手构建了一套激励体系，使得“去协作化”成为了理性选择——而且年复一年，我们还在不断让这种选择变得愈发合理。\n\n合作历来代价高昂。它需要差旅开支、日程协调，以及建立信任那般极其缓慢的磨合过程。它需要管理自尊心、妥协退让，以及就作者署名顺序协商时周期性的小小失落感。“不发表即出局”（Publish-or-perish）的考核机制向来对这些成本课以重税，因为花在与合著者磨合对齐上的每一个小时，都是未曾用于生产被现有评价体系认可的成果的时间。然而，如今有三种力量正在相互交织叠加。\n\n首先，是经费压力。当预算收紧时，首当其冲被削减的往往是那些价值真实存在却难以量化的预算科目：差旅、研讨会、学术休假、访问职位——即带来“意外发现”（机缘巧合）的整个实体基础设施。我们削减了走廊的经费，然后反过来奇怪为什么走廊里的交流探讨不见了。\n\n其次，是对速度的崇拜。我们的评估体系——无论官方网站上点缀着多么动听的《旧金山科研评估宣言》（DORA）式表态——归根结底奖励的依然是产出以及产出的速度。而大语言模型（LLM）承诺带来的最核心优势正是速度。它们在耳边低语：文献综述周五就能完成，初稿下周一就能成型。对于一位能否获得下一个职位取决于出版物清单长度的研究人员而言，这样的耳语绝非能够轻易忽视。\n\n第三，也是最具诱惑力的一点：大语言模型从不会争夺作者署名顺序。它没有需要照顾的自尊心，没有相互竞争的个人诉求，也不会在学术成果的荣誉中分一杯羹。在这样一个把学术荣誉视作生存货币的体系里，一个才华横溢却分文不取学术功劳的对话者，已经不仅仅是方便而已。这本身就是一种套利行为。\n\n关于科研本身的研究（meta-research），本应让我们在此止步深思。从团队科学的文献中我们得知，小团队倾向于颠覆创新，而大团队倾向于完善发展；恰恰是合作者之间出人意料的组合——跨领域、跨机构的非典型搭档——不成比例地孕育了绝大多数最具原创性的成果。与此同时，关于生成式人工智能的早期证据指向了一个我们应当感到熟悉的方向：个体生产力上升，而思想的多样性却在收窄，每个人都在越来越相似的路径上加速前行。实际上，我们正在进行一场不受控制的全球实验，用意外发现的机缘去换取吞吐量——而我们所构建的激励机制就是这一实验的试验仪器。\n\n这里还存在一个更为深层的代价，它关乎大语言模型最令人惊艳的能力：写作。\n\n这些工具的部分诱惑力在于那种神速的印象。而我们有必要精确剖析为何这种印象在一定程度上只是一种幻觉。写作需要时间，是因为思考需要时间；这两者并非恰好先后发生的独立活动。撰写论文的价值从来不仅在于写出来的成果本身——它更是一种倒逼思考的机制（forcing function）。正是在写作中，我们才会发现自己原本坚信不疑的论点在第三节存在漏洞；正是在写作中，模糊的直觉要么凝练为严谨的主张，要么在必须变得严谨的压力下瓦解冰消。高质量的思想孕育缓慢，而在历史上，这种缓慢的孕育过程往往发生在人与人之间：在白板前、在走廊里、在合著者留下修改痕迹时那种富有成效的磨合与思想碰撞中。\n\n认知心理学家对这种富有成效的摩擦有一个术语：罗伯特·比约克（Robert Bjork）提出的“必要难度”（desirable difficulties）——即在学习和思考过程中的某些摩擦、费力的检索、延迟的反馈、努力用自己的语言将想法落诸笔端的挣扎，并非持久理解的阻碍，而恰恰是实现深度理解的机制所在。如果为了舒适而消除难度，你并不会更快地获得同等程度的理解；你得到的只会是更浅薄的理解，只是呈现得更加顺畅罢了。\n\n把写作外包，你并没有加速思考，而是直接跳过了思考。随着模型性能的提升，这一陷阱反而越陷越深，因为它们的输出越来越好——语言更流畅、结构更严谨，越来越难以与受过良好教育的人类散文区分开来。正是在破绽越来越少的同时，诱惑在不断增大。作为一名物理学家，这让我联想到了宇称-时间对称（PT-symmetric）量子系统：该系统具有一种令人不安的特性，即在一个隐藏的对称性被打破之前，一切表现都完全正常——而一旦打破，所有的一切都会在瞬间彻底改变。从所有可见的指标来看，一种科研文化可以显得无比健康——产出上升、周期缩短、文笔无可挑剔——而维系它的无形支柱却在悄无声息中跌落至阈值之下。等到症状在各项指标中显现之时，根源已埋下数年之久。\n\n这番讨论并非主张禁用这些工具。禁令注定会失败，而且理应失败，因为这些工具的前景是真实存在的。在 2026 年 3 月发表于《自然》（Nature）的一篇评论中，王大顺拓展了史蒂夫·乔布斯将计算机比作“人类思维的自行车”的名言，提出人工智能代理是人类思维的“飞机”：比自行车更快、更强大，但也更难驾驭，一旦失事代价也更惨重。他在益处方面的判断是正确的，而且这种益处十分可观。当人工智能将失败的成本压缩殆尽时，提出更具风险、更有抱负的科学问题便成了理性之举；当它大幅降低分析成本时，小型实验室和初出茅庐的独行者便能够尝试过去需要千军万马才能完成的研究。如果善加利用，这些工具确实能够拓展科研边界——而且若运用得当，智能代理系统甚至可以通过让每一个分析步骤都具备可记录和可复现性，从而加固科学界最脆弱的环节之一：可复现性。\n\n但请注意，即便是乐观主义者也坚持强调一点。王大顺给出的处方是他所谓的“机长掌舵式科学”（pilot-in-command science）：研究人员担任机长，智能代理充当机组成员——分析代理负责起草，批判代理负责质询，规划代理负责制定下一步计划——而人类始终保留对研究问题、研究路径和结论的最终决断权。换句话说，即便是人工智能辅助科研探索最热忱的构想者，也坚决认为驾驶座前排必须有人掌舵。王大顺从另一个角度得出了与“Waymo 效应”相同的担忧：他警告说，虽然人工智能可以提高个体表现，但它有可能降低集体多样性，除非我们刻意加以遏制，否则产出将会趋同——而且，正如人类合作者以深刻而出人意料的方式塑造我们一样，我们的智能代理也会如此。他的解决方案是“为异议而设计”（design for dissent），培养众多思维方式各异的模型。也就是说：在消除了摩擦之后，我们现在必须通过工程手段将摩擦重新引入。\n\n这不过是换了新装的旧担忧。1983 年，心理学家利桑·贝恩布里奇（Lisanne Bainbridge）描述了“自动化的讽刺”：一套系统自身运行越可靠，人类监督者就越缺少机会去练习原本需要他们在紧急情况下调用的技能，因此人类的能力反而在无声无息中退化，原因恰恰在于这种能力极少需要用到，而一旦需要，往往就是最危急的关头。把“飞行员”换成“研究人员”，把“自动驾驶”换成“智能代理”，王大顺所警惕的机制正是贝恩布里奇在四十年前指出的问题。\n\n因此，问题并不在于技术本身。问题在于，我们让“人与人的交流”变成了昂贵的选项，而让“人与机器的交流”变得免费；然后当研究人员做出理性的选择时，我们却又感到大惊小怪。\n\n因此，责任应落在制定激励机制的地方。资助机构和学术机构应当看清科研合作的本质——它不是可有可无的点缀，而是一种基础设施——并为其给出合理的定价与支持。\n\n为这种“摩擦”提供资助吧：研讨会、实地互访、同处一地办公，以及那些能促成任何人都无法预先安排的对话的非结构化时间。评估科研贡献而非产出速度，并且要言行一致。将“你与谁一同思考？”视作一个与“你发表了什么？”同等重要、严肃的问题。\n\n或许，在这个机器能够产出无数篇合格论文的时代，我们应当意识到，稀缺而有价值的事物已经发生了逆转：产出正在变得廉价，而共同思考正变得无比珍贵。\n\n苏珊（Susan）和我抵达了目的地。车行驶得平稳顺畅，车内的宁静令人惬意，而我们各自跨越大洋与大陆所追寻的合作也确实达成了——但它并非发生在那座毫无阻力的胶囊车厢里，而是发生在随后那些低效、未列入日程、完全属于人与人之间交流的时间里：那些漫无边际的闲谈、彼此未曾预料的分歧，以及我们谁都没带到旧金山的想法——因为在同处一室之前，这些想法根本就不存在。\n\n归根结底，这就是完整的“Waymo效应”：乘车体验令人愉悦，目的地也已抵达，只有当你向前排瞥上一眼时，才会发现缺失了什么。王（Wang）呼吁推行“机长负责制”式的科研；而潜在的隐秘风险在于，我们的激励机制正在将我们训练成享受舒适体验的“乘客模式”科研人员。\n\n如今，科研正在爬向后座。旅途将一路顺畅。成果也会如期而至。在科研领袖们又度过数年舒适乘车时光之前，他们应该扪心自问一个简单的问题：坐在前排的究竟是谁？我们又是从何时起，不再留意前排根本空无一人在驾驶？\n\n丹尼尔·胡克（Daniel Hook）系霍尔茨布林克集团（Holtzbrinck Group）首席科学官。感谢苏珊·温斯洛（Susan Winslow）和奥利弗·扎恩（Oliver Zahn）带来的促成本文写作的精彩对话。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 36,
+        "translationParagraphs": 36,
+        "keyTakeaways": [
+          "文章作者在旧金山搭乘了无驾驶员的 Waymo 自动驾驶汽车，并与麦克米伦学习（Macmillan Learning）CEO Susan Winslow 进行了会面交流。",
+          "作者与 Susan Winslow 同属霍尔茨布林克出版集团（Holtzbrinck group）的同事。",
+          "来源叙事重点：通过将大语言模型类比为无人驾驶技术（Waymo 效应），批判科研领域中为追求高产出和便利而以 AI 替代人际协作（即“去协作化”）的现象，警告学术界消除人际摩擦将以牺牲思想多样性与深度思考为代价。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T11:17:50.000Z",
+            "url": "https://www.researchagenda.news/articles/the-waymo-effect.html"
+          }
+        ]
+      },
+      {
+        "id": "story-on-bpd-in-september-html-593ad33f2b4b6984",
+        "title": "中国9月原油进口量预计将维持在每日720万桶",
+        "originalTitle": "China's Crude Imports Set to Hold at 7.2 Million Bpd in September",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:30:00.000Z",
+        "pubTime": "2026-09-11 19:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hold-at-72-Million-Bpd-in-September.html",
+        "imageUrl": null,
+        "fullContent": "China is on track to import roughly the same volumes of crude oil in September as it did in August, extending the trend of recovering shipments just as crude oil prices soared to above $100 per barrel again. Kpler&rsquo;s preliminary vessel-tracking data puts Chinese crude imports at about 7.2 million barrels per day bpd for September, about the same as in August, Nikkei Asia reports. The September-arriving crude cargoes were bought at prices well below $100 per barrel, but the gradual recovery of Chinese purchases from the decade-low in June signal further upward pressure on crude oil prices. Refiners in China have moved in recent weeks to restock on crude supplies, while prices were still in the $80s per barrel. China&rsquo;s crude oil imports rose for the second consecutive month in August as refiners turned to additional non-Middle Eastern supply and boosted overseas fuel shipments amid eased export restrictions. China imported 37.93 million tons, or 8.93 million bpd of crude oil in August, up by 6.2% compared to July, and further recovering from the decade-low seen in June, official Chinese customs data showed earlier this week. The August import level was still 23.4% lower compared to the same month last year, but it&rsquo;s a marked improvement from the June lows of just 7.1 million bpd. China slashed its total crude oil imports to a decade low in June, culminating three months of very low import levels amid high prices and constrained supply from the Middle East. Beijing, having amassed about 1.4 billion barrels of crude before the war, could afford to dramatically reduce its crude buying, slashing import volumes in June by an estimated 4.4 million bpd compared to the 2025 average. Chinese imports began to rebound in July, with the trend continuing into August, as flows from the Middle East ticked up, and Chinese refiners boosted Russian ESPO grade buying and turned to previously exotic and rare supply destinations such as Argentina. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "随着原油价格再度飙升至每桶100美元以上，中国9月份的原油进口量预计将与8月份大致持平，延续了货运回升的势头。据《日经亚洲》（Nikkei Asia）报道，Kpler的初步船舶跟踪数据显示，中国9月份的原油进口量约为每日720万桶，与8月份基本持平。\n\n这批于9月份到港的原油货船采购价格远低于每桶100美元，但中国采购量自6月份触及的十年低点逐步回升，标志着原油价格将面临进一步的上行压力。近几周，在油价仍徘徊在每桶80多美元的区间时，中国炼油商便已采取行动补充原油库存。\n\n8月份中国原油进口量连续第二个月实现增长，原因是在出口配额限制放宽的情况下，炼油商转向了更多的非中东供应来源，并增加了海外燃料出货量。本周早些时候公布的中国官方海关数据显示，中国8月份进口原油3793万吨（即每日893万桶），较7月份增长6.2%，相比6月份触及的十年低点进一步复苏。\n\n尽管8月份的进口水平与去年同期相比仍低23.4%，但相比6月份仅每日710万桶的低点已有显著改善。在高油价以及中东供应受限的双重压力下，中国在经历了连续三个月的极低进口水平后，于6月份将原油进口总量压缩至十年来的最低点。\n\n中国在战前已储备了约14亿桶原油，因此能够承受大幅减少原油采购的举措，6月份的原油进口量较2025年平均水平估计削减了每日440万桶。7月份中国原油进口开始反弹，且这一势头一直延续到了8月份——来自中东的原油流量略有回升，同时中国炼油商加大了对俄罗斯ESPO（东西伯利亚-太平洋管道）原油的采购力度，并转向了阿根廷等此前较为罕见的供应来源地。\n\n文 / Oilprice.com 记者 茨韦塔娜·帕拉斯科娃（Tsvetana Paraskova）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "根据日经亚洲援引Kpler的初步船舶跟踪数据，中国9月份原油进口量预计约为720万桶/日，与8月份基本持平。",
+          "中国官方海关数据显示，中国8月份进口原油3793万吨（约893万桶/日），环比7月增长6.2%。",
+          "来源叙事重点：聚焦中国9月原油进口预计维持在8月水平并呈现自低点复苏的态势；强调中国炼油商在油价冲破100美元前低价补库、分散进口来源（如俄油ESPO及阿根廷原油），并认为中国需求复苏将对国际油价形成持续上行压力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T11:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hold-at-72-Million-Bpd-in-September.html"
+          }
+        ]
+      },
+      {
+        "id": "story-nz-dating-apps-are-dying-95a267b90e0803e1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Dating Apps Are Dying",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T06:37:26.000Z",
+        "pubTime": "2026-09-11 14:37",
+        "url": "https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/",
+        "imageUrl": "https://external-preview.redd.it/fTKT--9lw1U2iFdfgADHL-bsyBI0bT3ZzLhNyzqHTYw.jpeg?width=640&crop=smart&auto=webp&s=41e0615e8f03fae7134a9948c3db09497c383f53",
+        "fullContent": "submitted by /u/thinkB4WeSpeak [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-11 14:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/",
+            "publishedAt": "2026-09-11T06:37:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-in-images-07-11-sep-2026-89b978ba4271c281",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Week in images: 07-11 Sep 2026",
+        "source": "ESA Space News (欧洲航天局官方英文)",
+        "sourceSlug": "esa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T13:00:00.000Z",
+        "pubTime": "2026-09-11 21:00",
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
+        "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/flex_and_sentinel-3c_ready_for_launch/27459766-1-eng-GB/FLEX_and_Sentinel-3C_ready_for_launch_card_full.jpg",
+        "fullContent": "Thank you for liking\n\nYou have already liked this page, you can only like it once!",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【ESA Space News (欧洲航天局官方英文)】于 2026-09-11 21:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "ESA Space News (欧洲航天局官方英文)",
+            "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
+            "publishedAt": "2026-09-11T13:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ikhachev-2117073666-html-51a46ae2c3e7333c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ситуация на ЗАЭС под контролем, несмотря на атаки ВСУ, заявил Лихачев",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T11:28:27.000Z",
+        "pubTime": "2026-09-11 19:28",
+        "url": "https://ria.ru/20260911/likhachev-2117073666.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/0b/06/2053157421_0:317:3075:2047_650x0_80_0_0_4d0cb934d0436329cc06201ff6ccdf54.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 19:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/likhachev-2117073666.html",
+            "publishedAt": "2026-09-11T11:28:27.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-k-make-ai-coding-cheaper-a7e839f442e5efa3",
+        "title": "RTK声称节省了Token，但我们的成本基准测试得出了相反结论",
+        "originalTitle": "RTK reports token savings, but our cost benchmarks disagree",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:15:13.000Z",
+        "pubTime": "2026-09-11 19:15",
+        "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+        "imageUrl": null,
+        "fullContent": "RTK (Rust Token Killer) filters and compresses terminal output before the AI agent reads it. With over 79k GitHub stars today, RTK is one of the most popular tools to make AI coding cheaper.\n\nOne X post saying RTK could cut Claude Code tokens by up to 60% reached 313K views.\n\nYet JetBrains’s SkillsBench run found no savings. The README has a disclaimer:\n\nRTK cuts up to 90% of the bash output your agent reads. […] it is not the same as cutting your bill by 90%.\n\nSo “less terminal output” is not the same as “cheaper AI coding”. It can help, be a no-op, or backfire (more turns or lower quality). In this post, we present our findings after several days and over $1,500 spent on tokens.\n\nRTK can rewrite Git, test, package and file commands the agent runs through its shell tool (Bash in Claude Code, bash in OpenCode). Each rewrite returns a terser version of the same output.\n\nFor example, RTK keeps file names, sizes and permissions (644 means rw-r—r—), but drops the owner and date:\n\nRTK compresses terminal output, so we tested it on Terminal-Bench 2.1, a benchmark with heavy terminal interaction. We stayed on 2.1 rather than the newer 3.0 and 4.0: agents pass most 2.1 tasks, while 3.0 and 4.0 are still a challenge. Cost only matters for tasks that pass.\n\nWe ran Claude Code with Fable 5.0, and OpenCode with DeepSeek V4 Pro 0813 through OpenRouter. Each task was scheduled five times without RTK and five times with it, on the same model route, platform and task-specific timeout.\n\nAfter removing four Fable security tasks that got refusals, the final comparison covers 85 Fable tasks and 89 DeepSeek tasks, or 1,740 attempts.\n\nWith RTK, costs fell by 5% for Fable and rose by 5% for DeepSeek.\n\nPass rates were lower with RTK: by 1% for Fable and 2% for DeepSeek. Both pass-rate gaps are small.\n\nWhen we divided all spending, including failed attempts, by the number of passes, Fable was 3% cheaper with RTK, and DeepSeek was 7% more expensive.\n\nAnother way is to weight every task equally, because one expensive task can outweigh many cheap ones. We compared the mean of each task’s baseline attempts with the mean of its RTK attempts, then averaged those changes.\n\nOn this task-level measure, Fable was 1% more expensive, with no clear difference from zero. DeepSeek’s task cost rose 17% on average.\n\nAccounting for failures does not change the trend. Across the 36 DeepSeek tasks where all ten attempts passed, the increase was still 18%.\n\nAlmost all of Fable’s savings with RTK came from one task: winning-avg-corewars. Both setups passed every attempt, but with RTK it finished in about half as many turns. Across the other tasks, the savings were less than 1%.\n\nDeepSeek had the reverse result on that same task. Both setups passed every attempt, but RTK took more turns and cost more. Even without that task, costs remained higher with RTK.\n\nRTK documents rtk gain as raw minus filtered command output in bytes, divided by 4, not a count of billed tokens.\n\nAcross 445 DeepSeek RTK attempts, RTK reported 349.2 million tokens saved, a 89% reduction.\n\nLarge reported token savings did not mean cheaper tasks.\n\nIn train-fasttext, the model requested head -1 train.txt twice. RTK credited 120.5 million tokens saved each time by comparing those limited reads with the whole file. Those two calls accounted for 69% of the comparison’s savings counter, although the requested commands would never have returned the whole file.\n\nTreating rtk gain as money saved assumes the rest of the attempt would stay the same. RTK can change the agent’s next turns. rtk gain does not account for the cost of those turns.\n\nThis is where social posts go wrong: rtk gain counts removed output, not money saved, and it can make a more expensive attempt look optimized.\n\nOne DeepSeek git-multibranch attempt got stuck in a loop. The agent ran a find with a flag that rtk find 0.45.0 did not support. The plugin rewrote it to rtk find, which failed with “Use find directly”. Every retry was rewritten again. RTK fixed this in 0.46.0, after our runs.\n\nThe agent accumulated 339 consecutive errors before its timeout. It still passed the task, but cost about 9× as much as the matching baseline attempt, which also passed. One outlier attempt; the trend holds without it.\n\nWithout RTK, tool output made up about 11% of Fable’s input tokens and 40% of DeepSeek’s.\n\nIn the RTK attempts, 31% of Claude Code’s terminal calls and 51% of OpenCode’s terminal calls used RTK.\n\nRTK rewrites only shell commands: its Claude Code hook matches the Bash tool and its OpenCode plugin acts on bash calls. Both platforms expose file reading and searching as separate Read, Grep, and Glob tools, which bypass RTK. About half of Claude Code’s Bash calls already limited their own output with head, tail, or wc.\n\nIn agentic coding, the context is cached after each turn, so later reads of terminal output mostly show up as cache reads. Those cost 1/10 of regular input tokens for Fable, and 1/30 for DeepSeek.\n\nIn DeepSeek, RTK reduced terminal-output characters by 9%, yet prompt tokens rose 9%. Uncached input fell 1% and cached input rose 9%. Model output, including reasoning, accounted for 56% of cost with RTK and 57% without it.\n\nWhen the agent took more turns, task cost usually rose with it.\n\nDeepSeek’s RTK attempts took more turns on 58 tasks, and 44 of them cost more. They took fewer turns on 28, and 23 of them cost less.\n\nThe average DeepSeek turn had 7% less input with RTK, but there were 18% more turns overall. Smaller turns did not add up to less total input.\n\nOne extra agent turn can cost more than the compression saved. It is the same tokenflation problem in another form. JetBrains saw the same pattern on SkillsBench: RTK added turns at low effort and did not lower cost at high effort.\n\nOn Terminal-Bench 2.1, Fable’s savings depended on one task and did not hold across tasks. We do not recommend RTK as a generic cost-saving tool.\n\nIndividual transcripts show that current frontier models already use the terminal efficiently (just ~7% of Fable’s context was terminal output). Models use techniques like head -n or tail -n themselves. RTK probably helped more with older models. Today it is a niche optimization, not a source of general savings.\n\nAI mushroom identification from a photo with ChatGPT, Claude or Google Gemini: GPT-6 Astra, Gemini 3.8 Flash, Claude Fable 5.1, GPT-5.6 and GLM-5.3-Flash. Asked “What mushroom is that?” on 360 photos of poisonous species. Which warn, which get it right, which fail.\n\nTokenflation: simple tasks consuming ever more context, reasoning, and tool calls without more useful output. We benchmarked 14 models; one answered “Hi” with 33 tool calls and an unsolicited commit.\n\nFour Claude models wired together in Claude Code: model refusals on delegated security tasks, seventh place, twice the cost of the top single-model run.",
+        "fullTranslation": "RTK（Rust Token Killer）在AI智能体读取终端输出之前对其进行过滤和压缩。截至目前，RTK在GitHub上已斩获超过7.9万颗星，成为让AI编程更便宜的最热门工具之一。\nX上的一篇帖子称RTK可将Claude Code的Token消耗减少多达60%，浏览量达到了31.3万次。\n然而，JetBrains的SkillsBench运行测试却没有发现任何节省。其README中包含一段免责声明：\nRTK最多可削减智能体读取的Bash输出的90%。[…]但这并不等同于将您的账单减少90%。\n因此，“更少的终端输出”并不等同于“更便宜的AI编程”。它可能有所帮助，可能毫无作用，也可能适得其反（导致更多轮次或更低质量）。在这篇文章中，我们将展示历时数天、耗费超过1500美元Token后的测试发现。\nRTK可以重写智能体通过其Shell工具（Claude Code中的Bash，OpenCode中的bash）运行的Git、测试、打包和文件命令。每次重写都会返回同一输出的更简洁版本。\n例如，RTK会保留文件名、大小和权限（644表示rw-r--r--），但会丢弃所有者和日期：\n由于RTK压缩终端输出，我们在Terminal-Bench 2.1上对其进行了测试，这是一个重度依赖终端交互的基准。我们选择停留在2.1版本而不是更新的3.0和4.0版本：智能体能通过大部分2.1任务，而3.0和4.0目前仍然极具挑战性。成本仅对通过的任务有意义。\n我们使用Fable 5.0运行Claude Code，并通过OpenRouter使用DeepSeek V4 Pro 0813运行OpenCode。每个任务在不使用RTK和使用RTK的情况下各调度运行五次，均采用相同的模型路由、平台以及任务专属超时设置。\n在剔除四个因遇到拒绝执行而失败的Fable安全任务后，最终对比涵盖了85个Fable任务和89个DeepSeek任务，共计1740次尝试。\n使用RTK后，Fable的成本下降了5%，而DeepSeek的成本上升了5%。\n使用RTK时任务通过率均有所下降：Fable降低了1%，DeepSeek降低了2%。两者的通过率差距都很小。\n当我们把包括失败尝试在内的所有花销除以通过的任务数时，Fable在使用RTK时便宜了3%，而DeepSeek则贵了7%。\n另一种方法是对每个任务赋予同等权重，因为单次昂贵的任务可能会掩盖许多廉价任务的表现。我们对比了每个任务基准尝试的均值与其RTK尝试的均值，随后对这些变动进行了平均计算。\n在这种任务级别的指标下，Fable贵了1%，与零相比没有明显差异。DeepSeek的任务成本平均上涨了17%。\n将失败计算在内并未改变这一趋势。在所有10次尝试均通过的36个DeepSeek任务中，成本增幅仍达18%。\nFable在使用RTK时几乎所有的节省都来自于单一任务：winning-avg-corewars。两种配置下每次尝试都顺利通过，但使用RTK时完成所需的轮次减少了约一半。在其他任务中，节省幅度不到1%。\nDeepSeek在同一任务上得出了相反的结果。两种配置都通过了每次尝试，但RTK耗费了更多轮次且成本更高。即便去掉该任务，使用RTK时的成本仍然更高。\nRTK文档将rtk gain定义为原始命令输出与过滤后输出的字节差除以4，而非计费Token的数量。\n在445次DeepSeek RTK尝试中，RTK报告共节省了3.492亿Token，降幅达89%。\n报告中显示的大量Token节省并不意味着任务成本更低。\n在train-fasttext任务中，模型两次请求执行head -1 train.txt。RTK每次都通过将这些有限的读取与整个文件对比，记入了1.205亿的Token节省。仅这两次调用就占了对比统计中节省计数器数值的69%，尽管所请求的命令根本不可能返回整个文件。\n将rtk gain直接等同于节省的资金，预设了该次尝试后续部分保持不变。RTK可能会改变智能体接下来的交互轮次。rtk gain并没有计入那些轮次的成本。\n这正是社交媒体帖子误导之处：rtk gain计算的是被移除的输出，而不是省下的钱，它可能让一次更加昂贵的尝试看起来得到了优化。\n有一次DeepSeek的git-multibranch尝试陷入了死循环。智能体运行了一个带有rtk find 0.45.0不支持的参数的find命令。插件将其重写为rtk find，随后因报错“Use find directly”而失败。随后的每一次重试又都被再次重写。RTK在我们测试后的0.46.0版本中修复了该问题。\n智能体在超时前连续累积了339次错误。它最终仍通过了任务，但成本大约是对标基准尝试（同样通过）的9倍。这是一次离群尝试；即便排除它，整体趋势依然成立。\n在没有RTK的情况下，工具输出约占Fable输入Token的11%，占DeepSeek的40%。\n在RTK尝试中，Claude Code有31%的终端调用、OpenCode有51%的终端调用使用了RTK。\nRTK只重写Shell命令：其Claude Code钩子匹配Bash工具，其OpenCode插件作用于bash调用。两个平台均将文件读取和搜索公开为独立的Read、Grep和Glob工具，这些工具会绕过RTK。Claude Code大约一半的Bash调用已经自带head、tail或wc来限制自身输出了。\n在智能体编程中，上下文在每轮后都会被缓存，因此后续对终端输出的读取大部分体现为缓存读取。这些缓存在Fable中的成本仅为常规输入Token的1/10，在DeepSeek中为1/30。\n在DeepSeek中，RTK使终端输出字符减少了9%，但提示词Token却增加了9%。未缓存输入减少了1%，缓存输入增加了9%。包括推理在内的模型输出，在启用RTK时占成本的56%，未启用时占57%。\n当智能体交互轮次增多时，任务成本通常随之上升。\nDeepSeek在启用RTK的尝试中，有58个任务消耗了更多轮次，其中44个成本更高。在28个任务中轮次减少，其中23个成本更低。\n启用RTK后，DeepSeek平均每轮交互的输入减少了7%，但总轮次却增加了18%。更精炼的单轮并没有换来更少的总体输入。\n智能体增加额外的一轮交互，其成本就可能超过压缩所带来的节省。这是“Token膨胀”（tokenflation）问题以另一种形式重现。JetBrains在SkillsBench上也观察到了相同的现象：RTK在低努力度下增加了轮次，在高努力度下并未降低成本。\n在Terminal-Bench 2.1上，Fable的成本节省完全依赖于单个任务，并不具有普适性。我们不推荐将RTK作为通用的成本节约工具。\n个别运行记录表明，当前的前沿模型本身已经能够高效利用终端（Fable的上下文中终端输出仅占约7%）。模型自身会采用head -n或tail -n等技巧。RTK在旧模型上可能更有帮助。在今天，它属于特定场景下的小众优化，而非普遍节省成本的灵丹妙药。\n使用ChatGPT、Claude或Google Gemini从照片识别AI蘑菇：GPT-6 Astra、Gemini 3.8 Flash、Claude Fable 5.1、GPT-5.6和GLM-5.3-Flash。针对360张有毒菌类照片询问“那是什么蘑菇？”。看哪些给出了警告，哪些识别正确，哪些失败。\nToken膨胀：简单任务消耗越来越多的上下文、推理和工具调用，却没有产生更多有用的输出。我们对14个模型进行了基准测试；其中一个模型在回答“Hi”时调用了33次工具并提交了一次未被请求的代码提交。\n在Claude Code中串联四个Claude模型：在委托的安全任务上面临模型拒答，仅排在第七位，成本是表现最优的单模型运行的两倍。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 40,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "RTK（Rust Token Killer）用于在 AI Agent 读取终端输出前对其进行过滤和压缩，在 GitHub 上拥有超过 79k 星标。",
+          "Quesma 团队在 Terminal-Bench 2.1 基准测试上对 RTK 进行了测试，耗时数天且消耗了超过 1,500 美元的 token。",
+          "来源叙事重点：通过严谨的大规模基准测试（Terminal-Bench 2.1，1740次尝试）证伪 RTK 能普遍降低 AI 编程成本的流行神话，揭示“输出压缩量不等于账单节约”的核心机理（轮数增加、缓存折扣、指标虚标）。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T11:15:13.000Z",
+            "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/"
+          }
+        ]
+      },
+      {
+        "id": "story-his-a-good-idea-a2748ccc-d665127f2dd14c04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "On my late husband’s birthday, I want to pay for every customer at his favorite restaurant. Is this a good idea?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:15:00.000Z",
+        "pubTime": "2026-09-11 19:15",
+        "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 19:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T11:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ough-assisted-dying-bill-f8e0da0afef4e7fb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "MPs urged not to take ‘extraordinary risk’ of forcing through assisted dying bill as vote looms",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T06:18:09.000Z",
+        "pubTime": "2026-09-11 14:18",
+        "url": "https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill",
+        "imageUrl": "https://i.guim.co.uk/img/media/8442b68cbdf61fbd7ed0b127e89c969644a2436c/234_0_4310_3448/master/4310.jpg?width=140&quality=85&auto=format&fit=max&s=186ba881ed4c7b036954c84d32c6c4a9",
+        "fullContent": "Labour MPs Gareth Snell and Meg Hillier say Lords must be allowed to fulfil duty in scrutinising bill on serious public issue\n\nMPs who voted for and against assisted dying have urged their respective sides not to take the “extraordinary risk” of forcing through the bill using an obscure parliamentary procedure if it continues to be blocked by the Lords.\n\nTwo Labour MPs have written a warning letter to colleagues in the crucial hours before the next vote on Friday: Gareth Snell, who voted in favour of the bill, and Meg Hillier, who voted against.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "工党议员加雷思·斯内尔（Gareth Snell）和梅格·希利尔（Meg Hillier）表示，必须允许上议院（Lords）履行审查重大公共议题法案的职责。",
+          "曾对协助自杀法案投下赞成票与反对票的议员呼吁各自阵营，若该法案持续在上议院受阻，不要采取利用晦涩议会程序强行推通过法案的“非同寻常的风险”。",
+          "来源叙事重点：突出跨阵营（支持与反对两方）议员呼吁尊重上议院审查职责，警告下议院勿为强推协助自杀法案而动用非常规议会程序"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T06:18:09.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill"
+          }
+        ]
+      },
+      {
+        "id": "story-south-environmental-html-1f6e20acfa1e8682",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How western consumption becomes the Global South's environmental nightmare",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:20:01.000Z",
+        "pubTime": "2026-09-11 19:20",
+        "url": "https://phys.org/news/2026-09-western-consumption-global-south-environmental.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2022/electronic-waste-1.jpg",
+        "fullContent": "Industrialized countries send millions of metric tonnes of used clothing, electronic equipment and other products to the Global South, along with the environmental and health costs tied to producing, consuming and disposing of those goods.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-11 19:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-western-consumption-global-south-environmental.html",
+            "publishedAt": "2026-09-11T11:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rossija-2117073218-html-a2c63f8193be5b8f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В России и КНР предложили создать B2B-платформу в туризме без посредников",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-11T11:27:45.000Z",
+        "pubTime": "2026-09-11 19:27",
+        "url": "https://ria.ru/20260911/rossija-2117073218.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/07/1c/2107555496_0:205:2980:1881_650x0_80_0_0_6fab84bf8b59ea968084252afd065b00.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-11 19:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260911/rossija-2117073218.html",
+            "publishedAt": "2026-09-11T11:27:45.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-mbal-release-price-specs-0c7ec27bdd71ebb3",
+        "title": "影石Insta360推出Osmo Pocket单摄竞品，且在美国市场切实可购",
+        "originalTitle": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T11:07:24.000Z",
+        "pubTime": "2026-09-11 19:07",
+        "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Insta360’s first compact steadicam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it’s followed the Ultra with a slightly stripped back Pro model, which drops to one lens but has a unique advantage: it can shoot vertical video in 4K. Plus, unlike DJI’s Osmo Pocket 4, you can buy it in the US. At its heart, the Luna Pro is mostly an Ultra with the telephoto lens stripped out. It uses the same 1-inch-type 8K sensor as the Ultra’s main camera, has a similar design including the detachable 2-inch touchscreen that doubles as a remote, and the same four-hour battery life and NFC tag for quicker file transfers. It’s a bit smaller and lighter thanks to dropping the second lens, but that’s about it.  Insta360 has given the Pro one crucial upgrade though: it can use that 8K sensor to record 4K vertical video at 30fps, something missing from the Luna Ultra (though I’ve asked Insta360 if we can expect to see it added in a firmware update). That camera — like both of DJI’s Osmo Pocket 4 and 4P models — is limited to 3K resolution when you record in portrait, forcing some people to hold the whole gimbal sideways to get the footage they need. It’s a relief to see the Pro fix that omission. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-2.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-5.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-4.jpg?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-6.jpg?quality=90&strip=all] The Luna Pro is out now in the US for $599.99, compared to $769.99 for the Luna Ultra. In Europe it starts at £469 / €529, just a little more than the £429 / €479 DJI Osmo Pocket 4, which is (officially) unavailable in the US following a ban on the company.",
+        "fullTranslation": "影石Insta360推出的首款紧凑型手持云台相机Luna Ultra在今年凭借双镜头配置先于大疆亮相，引发了巨大轰动。如今，该公司在Ultra之后又推出了略作简化的Pro版本。该型号缩减为单镜头，但拥有一个独特的优势：能够拍摄4K竖屏视频。此外，与大疆Osmo Pocket 4不同的是，你可以在美国买到它。\n\n从核心配置来看，Luna Pro基本上就是去掉了长焦镜头的Ultra。它采用了与Ultra主摄相同的1英寸型8K传感器，外观设计也颇为相似，包括可兼作遥控器的2英寸可拆卸触控屏、相同的4小时续航时间，以及用于更快传输文件的NFC标签。由于去掉了第二颗镜头，它的体积略小、重量略轻，但大致仅此而已。\n\n不过，影石Insta360为Pro带来了一项关键升级：它可以利用这颗8K传感器以30fps的帧率录制4K竖屏视频，而这是Luna Ultra所欠缺的功能（不过我已向影石Insta360询问是否能期待通过固件更新加入该功能）。那款相机——就像大疆的Osmo Pocket 4和4P两款机型一样——在竖屏拍摄时分辨率被限制在3K，迫使部分用户为了获得所需画面而不得不将整个云台横过来握持。看到Pro弥补了这一遗憾，确实令人欣慰。\n\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-2.jpg?quality=90&strip=all]\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-5.jpg?quality=90&strip=all]\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-4.jpg?quality=90&strip=all]\n[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-6.jpg?quality=90&strip=all]\n\nLuna Pro现已在美国上市，售价为599.99美元，相比之下Luna Ultra售价为769.99美元。在欧洲，该产品起售价为469英镑/529欧元，仅略高于大疆Osmo Pocket 4（429英镑/479欧元）。而由于针对该公司的禁令，大疆Osmo Pocket 4在美国（官方渠道）已无法购买。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "Insta360推出了紧凑型云台相机Luna Pro，该机型采用单镜头设计，去掉了长焦镜头，比Luna Ultra更轻小。",
+          "Luna Pro支持以30fps录制4K竖屏视频，而Luna Ultra和大疆Osmo Pocket 4及4P在人像竖屏模式下仅限3K分辨率。",
+          "来源叙事重点：聚焦Insta360 Luna Pro的核心规格更迭（单镜头、4K竖屏录制升级）与价格定位，并重点突出在大疆因禁令受阻于美国市场的背景下，该产品作为大疆Osmo Pocket有力替代品的市场竞争优势。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T11:07:24.000Z",
+            "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs"
+          }
+        ]
+      },
+      {
+        "id": "story-ce-ripper-rally-e1e05e5e-41b3aa6330b09f67",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The four reasons stocks are about to embark on a ‘face-ripper rally’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T10:58:00.000Z",
+        "pubTime": "2026-09-11 18:58",
+        "url": "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Bull markets don’t peak when investors are so bearish, says Fundstrat’s Tom Lee.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-11 18:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-11T10:58:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tum-to-end-fgm-worldwide-c5b3938ea60451e9",
+        "title": "1500万美元基金启动 旨在凝聚“不可阻挡的势头”在全球终结女性割礼",
+        "originalTitle": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-11T04:00:04.000Z",
+        "pubTime": "2026-09-11 12:00",
+        "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+        "imageUrl": "https://i.guim.co.uk/img/media/e66ba0e6f0cdfc07dc7018314386caa02a716e6f/376_0_3542_2833/master/3542.jpg?width=140&quality=85&auto=format&fit=max&s=5e6941dbf3f5da494f1f869983a43693",
+        "fullContent": "Her Horizon Fund seeks $100m to stop practice harming 230m women and girls globally\n\nFrontline activists and leaders in the fight against female genital mutilation, which has affected more than 230 million women and girls worldwide , have welcomed an unprecedented $15.5m (£11.4m) fund aimed at creating “unstoppable momentum” to finally end the practice.\n\nThe launch of the fund comes as women’s rights are increasingly under attack and donor funding is in sharp decline, particularly for work led by FGM survivors in local communities. It is thought to be the largest single philanthropic contribution to ending the practice of FGM.",
+        "fullTranslation": "“她的地平线基金”（Her Horizon Fund）寻求筹集1亿美元，以终结这一伤害全球2.3亿妇女和女童的陋习。\n\n在抗击女性生殖器割礼（FGM）第一线的行动者与倡导领袖对设立一笔史无前例的1550万美元（约合1140万英镑）基金表示欢迎。目前全球已有超过2.3亿妇女和女童受到女性生殖器割礼的伤害，该基金旨在凝聚“不可阻挡的势头”，以彻底终结这一恶习。\n\n该基金启动之际，正值女性权利日益受到冲击、捐赠资金大幅锐减之时，特别是由当地社区女性生殖器割礼幸存者主导的各项工作面临严峻的资金匮乏。据信，这是迄今为止旨在终结女性生殖器割礼陋习的最大单笔慈善捐助。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "Her Horizon Fund正在寻求1亿美元资金，以终结全球影响2.3亿女性和女童的女性割礼（FGM）现象。",
+          "抗击女性割礼的一线活动人士和领袖对一项1550万美元（约合1140万英镑）的基金表示欢迎，该基金旨在形成彻底终结该做法的不可阻挡之势。",
+          "来源叙事重点：聚焦Her Horizon Fund设立1550万美元（目标1亿美元）抗击女性割礼的里程碑意义，突出在全球女性权益受压制及捐赠资金断崖式下跌的危机背景下，该笔慈善基金对基层幸存者与一线活动人士的关键支持。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-11T04:00:04.000Z",
+            "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789089591250,
     "timeDisplay": "2026-09-11 09:19 (UTC+8)",
     "date": "2026-09-11",

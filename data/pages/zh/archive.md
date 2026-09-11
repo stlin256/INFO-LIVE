@@ -22,14 +22,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **22** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **23** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-11 09:19 (UTC+8)
+- **最新归档时间**：2026-09-11 19:34 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-11 19:34 (UTC+8)" title="全球要闻情报简报 · 19:34" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-11 19:32 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】Waymo效应：人工智能如何悄然削弱科研协作：无摩擦技术如何让我们习惯偏爱独处——以及为何科研领军者应当为此担忧。；【undefined】中国9月原油进口量预计将维持在每日720万桶：随着原油价格再度飙升至每桶100美元以上，中国9月份的原油进口量预计将与8月份大致持平，延续了货运回升的势头。据《日经亚洲》（Nikkei Asia）报道，Kpler的初步船舶跟踪数据显示，中国9月份的原油进口量约为每日720万桶，与8月份基本持平。；【undefined】RTK声称节省了Token，但我们的成本基准测试得出了相反结论：RTK（Rust Token Killer）在AI智能体读取终端输出之前对其进行过滤和压缩。截至目前，RTK在GitHub上已斩获超过7.9万颗星，成为让AI编程更便宜的最热门工具之一。 X上的一篇帖子称RTK可将Claude Code的Token消耗减少多达60%，浏览量达到了31.3万次。 然而，JetBrains的SkillsBench运行测试却没有发现任何节省。其README中包含一段免责声明： RTK最多可削减智能体读取的Ba；【undefined】影石Insta360推出Osmo Pocket单摄竞品，且在美国市场切实可购：影石Insta360推出的首款紧凑型手持云台相机Luna Ultra在今年凭借双镜头配置先于大疆亮相，引发了巨大轰动。如今，该公司在Ultra之后又推出了略作简化的Pro版本。该型号缩减为单镜头，但拥有一个独特的优势：能够拍摄4K竖屏视频。此外，与大疆Osmo Pocket 4不同的是，你可以在美国买到它。；【undefined】1500万美元基金启动 旨在凝聚“不可阻挡的势头”在全球终结女性割礼：“她的地平线基金”（Her Horizon Fund）寻求筹集1亿美元，以终结这一伤害全球2.3亿妇女和女童的陋习。；【undefined】多部俄罗斯影片将在埃及青年电影节展映：塔斯社莫斯科9月11日电 俄罗斯国家电影推广机构俄罗斯电影公司（Roskino）在一份声明中表示，四部俄罗斯电影已入围9月10日至15日在埃及举行的赫尔格达国际青年电影节的竞赛及非竞赛单元。；【undefined】外媒：缅甸机场在无人机袭击后关闭：中新网9月11日电 据法新社报道，缅甸安全部门消息人士称，缅甸曼德勒机场因无人机袭击导致航班中断，将从当地时间11日开始关闭两天。；【undefined】《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览在韩国首尔举办：中新网首尔9月11日电 (记者 金旭)《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览当地时间10日在韩国首尔大学开幕。活动通过主题展览、学术探讨、非遗体验和青年对话等形式，共同回望历史、共话和平。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260911/vizy-2117073769.html) <span class="news-meta-time">🕒 2026-09-11 19:28</span>
+- [Hacker News (科技前沿论坛)] [Waymo效应：人工智能如何悄然削弱科研协作](https://www.researchagenda.news/articles/the-waymo-effect.html) <span class="news-meta-time">🕒 2026-09-11 19:17</span>
+- [OilPrice (全球能源与原油大宗)] [中国9月原油进口量预计将维持在每日720万桶](https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hold-at-72-Million-Bpd-in-September.html) <span class="news-meta-time">🕒 2026-09-11 19:30</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/) <span class="news-meta-time">🕒 2026-09-11 14:37</span>
+- [ESA Space News (欧洲航天局官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026) <span class="news-meta-time">🕒 2026-09-11 21:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260911/likhachev-2117073666.html) <span class="news-meta-time">🕒 2026-09-11 19:28</span>
+:::
 :::timeline-item{start="2026-09-11 09:19 (UTC+8)" title="全球要闻情报简报 · 09:19" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-11 09:11 (UTC+8) 完成，共获得 33 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 

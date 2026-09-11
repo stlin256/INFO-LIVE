@@ -4,38 +4,37 @@ nav: true
 order: 0
 description: "InfoLive 24/7 全球全源信息流与 AI 实时要闻矩阵"
 notice:
-  text: "⚡ 当前监控运行中 · 本小时数据更新于 09:19 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
+  text: "⚡ 当前监控运行中 · 本小时数据更新于 19:34 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
   color: "theme"
 ---
 
-# ⚡ InfoLive 全球情报全景矩阵 · 09:19 速报
+# ⚡ InfoLive 全球情报全景矩阵 · 19:34 速报
 
 :::important
-### ⏱️ 本小时战略速报 (09:19)
+### ⏱️ 本小时战略速报 (19:34)
 
-本轮抓取于 2026-09-11 09:11 (UTC+8) 完成，共获得 33 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+本轮抓取于 2026-09-11 19:32 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
 **🎯 关键动态信号：**
-- 【undefined】谷歌将购买一座核电站半数电力：谷歌宣布，作为在芬兰人工智能基础设施创纪录的130亿欧元（约合110亿英镑、150亿美元）投资的一部分，该公司将购买芬兰一座核电站多达半数的发电量。
-- 【undefined】iPhone Duo进军中国拥挤的折叠屏市场，面临价格考验：苹果公司的首款折叠屏手机在中国消费者中反响平平，相比国内竞争对手现有的折叠机型，消费者更关注其售价。
-- 【undefined】软弃用 re.match()：快，别去查资料，说说 re.match() 是做什么用的？以下哪一项会返回匹配结果？ 它与 re.search() 以及 re.fullmatch() 相比又有什么区别？ 趁着你正在（快速）思考这个问题，我们来介绍一下“软弃用”（soft deprecation）。 Python 的向后兼容性策略（PEP 387）在 2023 年引入了软弃用机制： 当某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然保持安全时，就可以采用软
-- 【undefined】在纽约市搜寻未知生命：作者：弗里德·克瓦尔普斯卡莫·汉森（Frid Kvalpskarmo Hansen），挪威科技大学 编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时突出了以下要点：
-- 【undefined】YuE2 · 基于符号规划的前沿音乐生成：聆听一首歌曲，随后在其符号规划中探索旋律、节奏与和弦。
-- 【undefined】要闻：借助 Thelio Mira AI 加速人工智能开发：借助 Thelio Mira AI 加速人工智能开发。这款由 System76 打造、价格亲民且专注于 GPU 的工作站，专为本地人工智能开发而设计，让你完全依靠自己的硬件训练、微调和迭代具有挑战性的人工智能工作负载。
-- 【undefined】全球数据库揭示城市间食品碳排放各不相同的背后原因：作者：莱顿大学 Hilde Pracht 编辑：Gaby Clark；审校：Robert Egan 本文已按照 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审期刊
-- 【undefined】转人工“太费劲”这项国标为AI客服“立规矩”：9月起，国家标准为人工与智能客服协同划定清晰边界
+- 【undefined】Waymo效应：人工智能如何悄然削弱科研协作：无摩擦技术如何让我们习惯偏爱独处——以及为何科研领军者应当为此担忧。
+- 【undefined】中国9月原油进口量预计将维持在每日720万桶：随着原油价格再度飙升至每桶100美元以上，中国9月份的原油进口量预计将与8月份大致持平，延续了货运回升的势头。据《日经亚洲》（Nikkei Asia）报道，Kpler的初步船舶跟踪数据显示，中国9月份的原油进口量约为每日720万桶，与8月份基本持平。
+- 【undefined】RTK声称节省了Token，但我们的成本基准测试得出了相反结论：RTK（Rust Token Killer）在AI智能体读取终端输出之前对其进行过滤和压缩。截至目前，RTK在GitHub上已斩获超过7.9万颗星，成为让AI编程更便宜的最热门工具之一。 X上的一篇帖子称RTK可将Claude Code的Token消耗减少多达60%，浏览量达到了31.3万次。 然而，JetBrains的SkillsBench运行测试却没有发现任何节省。其README中包含一段免责声明： RTK最多可削减智能体读取的Ba
+- 【undefined】影石Insta360推出Osmo Pocket单摄竞品，且在美国市场切实可购：影石Insta360推出的首款紧凑型手持云台相机Luna Ultra在今年凭借双镜头配置先于大疆亮相，引发了巨大轰动。如今，该公司在Ultra之后又推出了略作简化的Pro版本。该型号缩减为单镜头，但拥有一个独特的优势：能够拍摄4K竖屏视频。此外，与大疆Osmo Pocket 4不同的是，你可以在美国买到它。
+- 【undefined】1500万美元基金启动 旨在凝聚“不可阻挡的势头”在全球终结女性割礼：“她的地平线基金”（Her Horizon Fund）寻求筹集1亿美元，以终结这一伤害全球2.3亿妇女和女童的陋习。
+- 【undefined】多部俄罗斯影片将在埃及青年电影节展映：塔斯社莫斯科9月11日电 俄罗斯国家电影推广机构俄罗斯电影公司（Roskino）在一份声明中表示，四部俄罗斯电影已入围9月10日至15日在埃及举行的赫尔格达国际青年电影节的竞赛及非竞赛单元。
+- 【undefined】外媒：缅甸机场在无人机袭击后关闭：中新网9月11日电 据法新社报道，缅甸安全部门消息人士称，缅甸曼德勒机场因无人机袭击导致航班中断，将从当地时间11日开始关闭两天。
+- 【undefined】《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览在韩国首尔举办：中新网首尔9月11日电 (记者 金旭)《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览当地时间10日在韩国首尔大学开幕。活动通过主题展览、学术探讨、非遗体验和青年对话等形式，共同回望历史、共话和平。
 :::
 
 :::note
 ### 🌐 24小时全球宏观大势与主线脉络（日尺度全景）
 
-日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。
+证据包未提供主文章标题、来源、正文或引用，当前只能确认相关条目中提到：中国9月原油进口量预计约为720万桶/日，与8月大致相当；另有条目涉及“9·11”事件阴谋论，但缺乏可供核验的正文和来源信息。
 
 **📊 今日核心主线透视：**
-- **🧠 前沿智能**：【undefined】谷歌将购买一座核电站半数电力：谷歌宣布，作为在芬兰人工智能基础设施创纪录的130亿欧元（约合110亿英镑、150亿美元）投资的一部分，该公司将购买芬兰一座核电站多达半数的发电量。；【undefined】iPhone Duo进军中国拥挤的折叠屏市场，面临价格考验：苹果公司的首款折叠屏手机在中国消费者中反响平平，相比国内竞争对手现有的折叠机型，消费者更关注其售价。；【undefined】YuE2 · 基于符号规划的前沿音乐生成：聆听一首歌曲，随后在其符号规划中探索旋律、节奏与和弦。
-- **🔥 社会热点与思潮**：【undefined】软弃用 re.match()：快，别去查资料，说说 re.match() 是做什么用的？以下哪一项会返回匹配结果？ 它与 re.search() 以及 re.fullmatch() 相比又有什么区别？ 趁着你正在（快速）思考这个问题，我们来介绍一下“软弃用”（soft deprecation）。 Python 的向后兼容性策略（PEP 387）在 2023 年引入了软弃用机制： 当某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然保持安全时，就可以采用软；【undefined】要闻：Gleam Gathering 重磅回归，落户伦敦：Gleam Gathering 重磅回归，落户伦敦。 在此度过一个充实的周末： Gleam 语言创始人 查看我们的演讲征集通知 2027 年的活动将在伦敦市中心的专属活动场地哈勒姆街 44 号（44 Hallam St）举行。 请访问他们的路线指引页面，获取前往该地的详细信息。 如果您没有看到任何购票选项，可以点击此处。我们收到反馈称该部分有时无法加载。 我们现已开始接收 Gleam Gathering 2027 的演讲提案。无论您是经；【undefined】Git 之后由谁接棒？：East River Source Control 成立至今已有一年多了，但我们此前并未过多公开谈论我们正在开发的内容。我们目前还没有正式发布任何产品——不过很快就会发布——但我们希望在此分享一些关于版本控制以及未来发展方向的思考。
-- **🔬 深空与基础科学**：【undefined】在纽约市搜寻未知生命：作者：弗里德·克瓦尔普斯卡莫·汉森（Frid Kvalpskarmo Hansen），挪威科技大学 编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时突出了以下要点：
-- **🌐 全球地缘战略**：【undefined】林赛·克兰西辩护律师痛批针对帕特里克·克兰西的阴谋论：林赛·克兰西（Lindsay Clancy）的辩护律师凯文·雷丁顿（Kevin Reddington）在接受福克斯新闻（Fox News）新采访时，强力为帕特里克·克兰西（Patrick Clancy）辩护，驳斥了网络上关于这位三个孩子的父亲以某种方式卷入其子女死亡的揣测，并称他所经受的磨难是“极其可怕的”。；【undefined】中央气象台：西南地区多阴雨 海南岛等地有大到暴雨：中新网9月11日电 据中央气象台网站消息，国内方面，昨日，四川、云南、广西等地出现较强降雨。预计未来三天华西地区多阴雨天气，关注持续性降雨对农业生产、交通等影响；华南南部局地有强降雨，注意防范暴雨次生灾害；内蒙古东北部、黑龙江等地注意防范局地风雹等强对流天气危害。
+- **中国原油进口**：相关条目援引Kpler初步船舶追踪数据称，中国9月原油进口量约为720万桶/日，与8月大致持平；条目还称，9月到港原油是在油价低于每桶100美元时购入的。由于主文章缺失、来源字段为空，无法进一步判断数据口径、准确性及市场影响。
+- **“9·11”事件阴谋论**：相关条目仅显示，一篇文章讨论2001年9月11日袭击事件发生四分之一世纪后，相关阴谋论为何仍受到关注。证据包未提供文章正文、观点细节或可核验引用，无法展开事实性分析。
+- **证据完整性**：主文章的标题、来源、发布时间、网址、摘要和正文均为空，证据事实、引语、实体、冲突及引用列表也为空。因此，本次输出不对主文章主题作进一步推断。
 :::
 
 ## 🔥 AI 深度追踪与独家专题专区
@@ -67,7 +66,7 @@ notice:
         <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="" width="16" height="16" /> </span>
         <span class="perspective-stance-badge">民间技术与思想社群</span>
       </div>
-      <div class="perspective-source-body">【undefined】关于网络钓鱼的吐槽：这不是用户的错（DNS也不是）：“为了安全起见，不要点击可疑链接。”</div>
+      <div class="perspective-source-body">【undefined】我的 HTML 样板代码：HTML 最初诞生时，一个文档确实可以非常简单。一个有效的文档可能长成这样：</div>
     </div>
   </div>
   <div class="perspective-analysis-row">
@@ -87,210 +86,210 @@ notice:
 <div class="live-wire-grid">
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 09:08</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-time-badge">🕒 21:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/esa.svg" class="source-icon" alt="ESA Space News (欧洲航天局官方英文)" width="14" height="14" /> ESA Space News (欧洲航天局官方英文)</span>
+      <span class="wire-dim-badge">🔬 深空与基础科学</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260911/vybory-2116951262.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【ESA Space News (欧洲航天局官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260911/vybory-2116951262.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 09:04</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260911/obse-2116951073.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260911/obse-2116951073.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 09:04</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="14" height="14" /> The Guardian (英国卫报官方英文)</span>
+      <span class="wire-time-badge">🕒 19:30</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="14" height="14" /> OilPrice (全球能源与原油大宗)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【The Guardian (英国卫报官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 09:03</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.foxnews.com/us/family-critically-missing-dc-mother-says-police-still-treating-home-active-crime-scene" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.foxnews.com/us/family-critically-missing-dc-mother-says-police-still-treating-home-active-crime-scene" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 09:02</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/cresce-linterscambio-tra-italia-e-messico-nel-2026_852f1558-bd42-4edd-968b-c6d3924d9f2b.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/cresce-linterscambio-tra-italia-e-messico-nel-2026_852f1558-bd42-4edd-968b-c6d3924d9f2b.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 09:01</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="14" height="14" /> BBC World (英国BBC官方英文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【BBC World (英国BBC官方英文)·英伦主流建制】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 09:00</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260911/medvedi-2116950893.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260911/medvedi-2116950893.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 09:00</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="14" height="14" /> 中新网 (全球要闻原版)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-026-09-11-10694401-shtml-e836437c6e08ae2b" class="wire-title-link" title="点击直达本站全篇深度编译">
-        转人工“太费劲”这项国标为AI客服“立规矩”
+      <a href="#story-on-bpd-in-september-html-593ad33f2b4b6984" class="wire-title-link" title="点击直达本站全篇深度编译">
+        中国9月原油进口量预计将维持在每日720万桶
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【中新网 (全球要闻原版)·独立专业观察】：9月起，国家标准为人工与智能客服协同划定清晰边界</div>
+    <div class="wire-snippet">【OilPrice (全球能源与原油大宗)·大宗能源产业链】：随着原油价格再度飙升至每桶100美元以上，中国9月份的原油进口量预计将与8月份大致持平，延续了货运回升的势头。据《日经亚洲》（Nikkei Asia）报道，Kpler的初步船舶跟踪数据显示，中国9月份的原油进口量约为每日720万桶，与8月份基本持平。</div>
     <div class="wire-actions">
-      <a href="#story-026-09-11-10694401-shtml-e836437c6e08ae2b" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.chinanews.com.cn/gn/2026/09-11/10694401.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-on-bpd-in-september-html-593ad33f2b4b6984" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hold-at-72-Million-Bpd-in-September.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:59</span>
+      <span class="wire-time-badge">🕒 19:28</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/vizy-2117073769.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/vizy-2117073769.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:28</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/likhachev-2117073666.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/likhachev-2117073666.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:27</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/rossija-2117073218.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/rossija-2117073218.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:27</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/mid-2117073061.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/mid-2117073061.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:26</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/putin-2117072882.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/putin-2117072882.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:26</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (EN 官方英语)" width="14" height="14" /> Deutsche Welle (EN 官方英语)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.dw.com/en/9-11-conspiracy-theories-that-continue-to-circulate/a-78896069" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Deutsche Welle (EN 官方英语)·德国战略自省】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.dw.com/en/9-11-conspiracy-theories-that-continue-to-circulate/a-78896069" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:25</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="14" height="14" /> NY Times World (纽约时报官方英文)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.nytimes.com/2026/09/11/world/middleeast/tyre-engulfed-war-lebanon.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【NY Times World (纽约时报官方英文)·美主流建制派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.nytimes.com/2026/09/11/world/middleeast/tyre-engulfed-war-lebanon.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:23</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/finljandija-2117072577.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/finljandija-2117072577.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:22</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-dim-badge">🛡️ 军事防务安全</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://tass.com/culture/2185805" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://tass.com/culture/2185805" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:57</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-tim-islamophobic-attacks-51614e78436bbcee" class="wire-title-link" title="点击直达本站全篇深度编译">
-        Rachel女士为争议中的“很棒”Mamdani辩护，称其是伊斯兰恐惧症攻击的受害者
+      <a href="#story-society-2186119-ab3e96aacf16ac6d" class="wire-title-link" title="点击直达本站全篇深度编译">
+        多部俄罗斯影片将在埃及青年电影节展映
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：左翼儿童领域网红Rachel女士在纽约市市长Zohran Mamdani是否应出席“9·11”事件25周年纪念活动的争议中，对他表示了赞扬。</div>
+    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：塔斯社莫斯科9月11日电 俄罗斯国家电影推广机构俄罗斯电影公司（Roskino）在一份声明中表示，四部俄罗斯电影已入围9月10日至15日在埃及举行的赫尔格达国际青年电影节的竞赛及非竞赛单元。</div>
     <div class="wire-actions">
-      <a href="#story-tim-islamophobic-attacks-51614e78436bbcee" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/media/ms-rachel-defends-awesome-mamdani-amid-911-memorial-controversy-says-victim-islamophobic-attacks" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-society-2186119-ab3e96aacf16ac6d" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://tass.com/society/2186119" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:54</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.foxnews.com/politics/top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.foxnews.com/politics/top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:53</span>
+      <span class="wire-time-badge">🕒 19:21</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260911/aeroport-2116950743.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260911/zavod-2117072297.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -298,35 +297,17 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260911/aeroport-2116950743.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260911/zavod-2117072297.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:51</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="14" height="14" /> Al Jazeera (半岛电视台官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Al Jazeera (半岛电视台官方英文)·全球南方与海湾枢纽】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.aljazeera.com/news/2026/9/11/why-is-uber-pulling-out-of-some-african-markets" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:51</span>
+      <span class="wire-time-badge">🕒 19:21</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260911/trevoga-2116950616.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260911/terakt-2117072105.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -334,17 +315,17 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260911/trevoga-2116950616.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260911/terakt-2117072105.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:48</span>
+      <span class="wire-time-badge">🕒 19:21</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260911/ukraina-2116950454.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260911/sud-2117071956.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -352,199 +333,183 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260911/ukraina-2116950454.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260911/sud-2117071956.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:46</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-time-badge">🕒 19:20</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="14" height="14" /> 中新社 (国际实时原版)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story--accusing-patrick-clancy-69b559217092682f" class="wire-title-link" title="点击直达本站全篇深度编译">
-        林赛·克兰西辩护律师痛批针对帕特里克·克兰西的阴谋论
+      <a href="#story-026-09-11-10694911-shtml-cbd526e731dfec53" class="wire-title-link" title="点击直达本站全篇深度编译">
+        外媒：缅甸机场在无人机袭击后关闭
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：林赛·克兰西（Lindsay Clancy）的辩护律师凯文·雷丁顿（Kevin Reddington）在接受福克斯新闻（Fox News）新采访时，强力为帕特里克·克兰西（Patrick Clancy）辩护，驳斥了网络上关于这位三个孩子的父亲以某种方式卷入其子女死亡的揣测，并称他所经受的磨难是“极其可怕的”。</div>
+    <div class="wire-snippet">【中新社 (国际实时原版)·独立专业观察】：中新网9月11日电 据法新社报道，缅甸安全部门消息人士称，缅甸曼德勒机场因无人机袭击导致航班中断，将从当地时间11日开始关闭两天。</div>
     <div class="wire-actions">
-      <a href="#story--accusing-patrick-clancy-69b559217092682f" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/us/lindsay-clancys-lawyer-torches-conspiracy-theories-accusing-patrick-clancy" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-026-09-11-10694911-shtml-cbd526e731dfec53" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.chinanews.com.cn/gj/2026/09-11/10694911.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:45</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
-      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.ansa.it/sito/notizie/mondo/asia/2026/09/11/borsa-di-tokyo-apertura-in-netto-calo-156_586c1d12-bc2e-4757-b3b6-1330e25663ff.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ansa.it/sito/notizie/mondo/asia/2026/09/11/borsa-di-tokyo-apertura-in-netto-calo-156_586c1d12-bc2e-4757-b3b6-1330e25663ff.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:44</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260911/mrot-2116950221.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260911/mrot-2116950221.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:43</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.foxnews.com/entertainment/sports-illustrated-swimsuit-model-brooks-nader-sizzles-daring-sheer-lace-dress-nyc" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.foxnews.com/entertainment/sports-illustrated-swimsuit-model-brooks-nader-sizzles-daring-sheer-lace-dress-nyc" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:42</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="14" height="14" /> Hacker News (科技前沿论坛)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-ws-articles-c8r6y4me2g6o-d73c7d39c95d5e6b" class="wire-title-link" title="点击直达本站全篇深度编译">
-        谷歌将购买一座核电站半数电力
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Hacker News (科技前沿论坛)·民间技术与思想社群】：谷歌宣布，作为在芬兰人工智能基础设施创纪录的130亿欧元（约合110亿英镑、150亿美元）投资的一部分，该公司将购买芬兰一座核电站多达半数的发电量。</div>
-    <div class="wire-actions">
-      <a href="#story-ws-articles-c8r6y4me2g6o-d73c7d39c95d5e6b" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.bbc.com/news/articles/c8r6y4me2g6o" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:42</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="14" height="14" /> 中新网 (全球要闻原版)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-026-09-11-10694396-shtml-b6d1474a2f6a228d" class="wire-title-link" title="点击直达本站全篇深度编译">
-        中央气象台：西南地区多阴雨 海南岛等地有大到暴雨
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【中新网 (全球要闻原版)·独立专业观察】：中新网9月11日电 据中央气象台网站消息，国内方面，昨日，四川、云南、广西等地出现较强降雨。预计未来三天华西地区多阴雨天气，关注持续性降雨对农业生产、交通等影响；华南南部局地有强降雨，注意防范暴雨次生灾害；内蒙古东北部、黑龙江等地注意防范局地风雹等强对流天气危害。</div>
-    <div class="wire-actions">
-      <a href="#story-026-09-11-10694396-shtml-b6d1474a2f6a228d" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.chinanews.com.cn/sh/2026/09-11/10694396.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:40</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="14" height="14" /> 中新网 (全球要闻原版)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.chinanews.com.cn/gn/2026/09-11/10694398.shtml" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        香港推出最新烟盒设计规定：更新12款健康忠告图像
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【中新网 (全球要闻原版)·独立专业观察】：香港推出最新烟盒设计规定：外包装不得有纹理，统一采用暗啡色，删除焦油、尼古丁标志，更新12款健康忠告图像</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.chinanews.com.cn/gn/2026/09-11/10694398.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:40</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.foxnews.com/media/democratic-rep-tells-abc-cbs-grow-spine-after-kimmel-announces-alternative-talarico-interview" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.foxnews.com/media/democratic-rep-tells-abc-cbs-grow-spine-after-kimmel-announces-alternative-talarico-interview" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:40</span>
+      <span class="wire-time-badge">🕒 19:20</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
       <span class="wire-dim-badge">🔬 深空与基础科学</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story-nown-life-york-city-html-f233d50a8717b22a" class="wire-title-link" title="点击直达本站全篇深度编译">
-        在纽约市搜寻未知生命
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：作者：弗里德·克瓦尔普斯卡莫·汉森（Frid Kvalpskarmo Hansen），挪威科技大学
-编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：安德鲁·齐宁（Andrew Zinin）
-本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时突出了以下要点：</div>
-    <div class="wire-actions">
-      <a href="#story-nown-life-york-city-html-f233d50a8717b22a" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://phys.org/news/2026-09-unknown-life-york-city.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:35</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.foxnews.com/outkick-sports/spain-basketball-star-megan-dileo-weighs-caitlin-clarks-bench-role-world-cup-ahead-semifinal" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://phys.org/news/2026-09-western-consumption-global-south-environmental.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.foxnews.com/outkick-sports/spain-basketball-star-megan-dileo-weighs-caitlin-clarks-bench-role-world-cup-ahead-semifinal" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://phys.org/news/2026-09-western-consumption-global-south-environmental.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:35</span>
+      <span class="wire-time-badge">🕒 19:19</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="14" height="14" /> 中新社 (国际实时原版)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-026-09-11-10694892-shtml-e1b7f259716e6300" class="wire-title-link" title="点击直达本站全篇深度编译">
+        《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览在韩国首尔举办
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【中新社 (国际实时原版)·独立专业观察】：中新网首尔9月11日电 (记者 金旭)《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览当地时间10日在韩国首尔大学开幕。活动通过主题展览、学术探讨、非遗体验和青年对话等形式，共同回望历史、共话和平。</div>
+    <div class="wire-actions">
+      <a href="#story-026-09-11-10694892-shtml-e1b7f259716e6300" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.chinanews.com.cn/gj/2026/09-11/10694892.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:19</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="14" height="14" /> 中新社 (国际实时原版)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-026-09-11-10694876-shtml-df340aa7fb0c0572" class="wire-title-link" title="点击直达本站全篇深度编译">
+        一辆荷兰旅游巴士在瑞士侧翻致5死40伤
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【中新社 (国际实时原版)·独立专业观察】：中新社北京9月11日电 伯尔尼消息：瑞士格劳宾登州警方当地时间11日说，一辆荷兰旅游巴士10日在该州发生侧翻，已造成5人死亡、40人受伤。</div>
+    <div class="wire-actions">
+      <a href="#story-026-09-11-10694876-shtml-df340aa7fb0c0572" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.chinanews.com.cn/gj/2026/09-11/10694876.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:18</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/kitay-2117071522.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/kitay-2117071522.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:18</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/peregovory-2117071431.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/peregovory-2117071431.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:17</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="14" height="14" /> Hacker News (科技前沿论坛)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-es-the-waymo-effect-html-244ca616b7edfe06" class="wire-title-link" title="点击直达本站全篇深度编译">
+        Waymo效应：人工智能如何悄然削弱科研协作
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Hacker News (科技前沿论坛)·民间技术与思想社群】：无摩擦技术如何让我们习惯偏爱独处——以及为何科研领军者应当为此担忧。</div>
+    <div class="wire-actions">
+      <a href="#story-es-the-waymo-effect-html-244ca616b7edfe06" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.researchagenda.news/articles/the-waymo-effect.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:17</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-tagon-more-top-headlines-7cefa484683b529c" class="wire-title-link" title="点击直达本站全篇深度编译">
+        特朗普将在五角大楼向“9·11”遇难者及救援人员致敬等头条新闻
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：1. 特朗普将在五角大楼向“9·11”遇难者及第一响应人员致敬
+2. 随着共和党大会闭幕，特朗普就中期选举发出直截了当的警告
+3. 查理·柯克的支持者在暗杀发生一年后重返现场
+扰乱者被驱逐 —— 万斯在共和党演讲中用一句犀利的讽刺让一名挥舞外国国旗的起哄者闭嘴。继续阅读……
+坚定信念 —— “9·11”事件“最后的幸存者”透露被埋在废墟下27小时后的神秘遭遇……</div>
+    <div class="wire-actions">
+      <a href="#story-tagon-more-top-headlines-7cefa484683b529c" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:17</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/aksakov-2117071039.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/aksakov-2117071039.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:17</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://tass.com/world/2185803" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://tass.com/world/2186111" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -552,17 +517,17 @@ notice:
     <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://tass.com/world/2185803" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://tass.com/world/2186111" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:34</span>
+      <span class="wire-time-badge">🕒 19:17</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260911/rabota-2116949994.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260911/voronezh-2117070847.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -570,97 +535,135 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260911/rabota-2116949994.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260911/voronezh-2117070847.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:33</span>
+      <span class="wire-time-badge">🕒 19:16</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.foxnews.com/outkick-sports/nfl-allows-stolen-land-acknowledgement-disguised-welcoming-ceremony-australia-game" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.foxnews.com/outkick-sports/nfl-allows-stolen-land-acknowledgement-disguised-welcoming-ceremony-australia-game" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:16</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/festival-2117038436.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/festival-2117038436.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:15</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/ukraina-2117070512.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/ukraina-2117070512.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:15</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260911/rada-2117070372.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260911/rada-2117070372.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 19:15</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="14" height="14" /> Hacker News (科技前沿论坛)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story-item-15e2051c5046525f" class="wire-title-link" title="点击直达本站全篇深度编译">
-        YuE2 · 基于符号规划的前沿音乐生成
+      <a href="#story-k-make-ai-coding-cheaper-a7e839f442e5efa3" class="wire-title-link" title="点击直达本站全篇深度编译">
+        RTK声称节省了Token，但我们的成本基准测试得出了相反结论
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【Hacker News (科技前沿论坛)·民间技术与思想社群】：聆听一首歌曲，随后在其符号规划中探索旋律、节奏与和弦。</div>
+    <div class="wire-snippet">【Hacker News (科技前沿论坛)·民间技术与思想社群】：RTK（Rust Token Killer）在AI智能体读取终端输出之前对其进行过滤和压缩。截至目前，RTK在GitHub上已斩获超过7.9万颗星，成为让AI编程更便宜的最热门工具之一。
+X上的一篇帖子称RTK可将Claude Code的Token消耗减少多达60%，浏览量达到了31.3万次。
+然而，JetBrains的SkillsBench运行测试却没有发……</div>
     <div class="wire-actions">
-      <a href="#story-item-15e2051c5046525f" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://map-yue2.github.io/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-k-make-ai-coding-cheaper-a7e839f442e5efa3" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:31</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="14" height="14" /> 中新网 (全球要闻原版)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-time-badge">🕒 19:15</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.chinanews.com.cn/gn/2026/09-11/10694397.shtml" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        让跨国电诈无处遁形！中国发起成立国际打击电信网络诈骗联盟
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【中新网 (全球要闻原版)·独立专业观察】：近年来，电信网络诈骗已发展成典型的跨国犯罪形式，仅凭一国之力难以彻底根除。为破解跨国反诈治理瓶颈，9月10日，国际打击电信网络诈骗联盟成立大会在江苏连云港举行。来自46个创始国、34个观摩国以及联合国、国际刑警组织等4个国际组织的代表齐聚一堂，共同见证这一历史性时刻。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.chinanews.com.cn/gn/2026/09-11/10694397.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:29</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/ecuador-ex-presidente-bucaram-condannato-a-9-anni-e-4-mesi_327a8b2f-a56d-4f9a-a805-5436ee57206e.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/11/ecuador-ex-presidente-bucaram-condannato-a-9-anni-e-4-mesi_327a8b2f-a56d-4f9a-a805-5436ee57206e.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:28</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-time-badge">🕒 19:13</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260911/yakutiya-2116949819.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://tass.com/world/2186109" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260911/yakutiya-2116949819.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 08:28</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/11/trump-non-ho-rimpianti-sulla-guerra-alliran-ma-talvolta-mi-faccio-domande_f17197bc-4118-4741-a806-c1f00d1f548b.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/11/trump-non-ho-rimpianti-sulla-guerra-alliran-ma-talvolta-mi-faccio-domande_f17197bc-4118-4741-a806-c1f00d1f548b.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://tass.com/world/2186109" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
 </div>
@@ -669,49 +672,62 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-ws-articles-c8r6y4me2g6o-d73c7d39c95d5e6b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1350" data-content-paragraphs="24" data-published-at="2026-09-11T00:42:41.000Z" data-time-source="publication">
+<div id="story-es-the-waymo-effect-html-244ca616b7edfe06" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6018" data-content-paragraphs="36" data-published-at="2026-09-11T11:17:50.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 08:42</span>
+  <span class="news-meta-time">🕒 2026-09-11 19:17</span>
 </div>
 
-### [谷歌将购买一座核电站半数电力](https://www.bbc.com/news/articles/c8r6y4me2g6o)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Google will buy half the electricity of a nuclear power plant</div>
+### [Waymo效应：人工智能如何悄然削弱科研协作](https://www.researchagenda.news/articles/the-waymo-effect.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The Waymo effect: how AI is quietly making research less collaborative</div>
 
-<div class="article-body" data-article-body="true"><p>谷歌宣布，作为在芬兰人工智能基础设施创纪录的130亿欧元（约合110亿英镑、150亿美元）投资的一部分，该公司将购买芬兰一座核电站多达半数的发电量。</p>
-<p>这家美国科技巨头表示，该投资计划将资助新建三座数据中心、扩建一处现有设施，并支持能源项目，以满足对人工智能服务不断增长的需求。</p>
-<p>该公司周三表示：“这是谷歌在欧洲规模最大的一笔单项投资，也证明了芬兰在以负责任的方式建设人工智能基础设施方面的领先地位。”</p>
-<p>芬兰总理彼得里·奥尔波（Petteri Orpo）在一份声明中表示：“谷歌的决定清楚地证明了我们的优势。”</p>
-<p>作为该交易的一部分，谷歌与芬兰富腾电力公司（Fortum）签署了一份为期22年的合同，将购买洛维萨（Loviisa）核电站最高达50%的电力产出。</p>
-<p>本周早些时候，TikTok也宣布在芬兰投资10亿美元，在科乌沃拉（Kouvola）建设一座新的数据中心，并指出芬兰拥有“强大的数字基础设施、清洁的能源结构、健全的数据治理以及熟练的科技人才”。</p>
-<p>由于气候凉爽、低碳电力充裕且电网相对通畅，芬兰已成为极具吸引力的数据中心选址地。较低的气温可以减少冷却密集部署计算机服务器的设施所需的能耗。</p>
-<p>随着人工智能热潮推高了对庞大数据中心网络的需求，科技公司正竞相锁定电力供应。</p>
-<p>据谷歌称，这笔投资预计将在建设期间支持超过3.7万个工作岗位，并每年为芬兰的GDP贡献36亿欧元。工程建设定于2027年和2028年进行。</p>
-<p>奥尔波补充道：“数据经济的价值远远超出了直接投资本身，它还能推动创新与研发。”</p>
-<p>“深化我们与谷歌的合作将为双方带来持久的利益。”</p>
-<p>谷歌将在卡亚尼（Kajaani）、穆霍斯（Muhos）和瓦拉（Vaala）建设新的数据中心，同时扩建其位于哈米纳（Hamina）的现有设施。哈米纳设施是谷歌在2009年通过改造一座前造纸厂而设立的。</p>
-<p>该基础设施将有助于支持其人工智能聊天机器人Gemini等产品，以及包括搜索、地图和YouTube在内的各项服务。</p>
-<p>谷歌表示，这些投资还涵盖了“清洁能源项目，以及旨在支持当地生物多样性、教育、科研和劳动力发展的专门自然与社区基金”。</p>
-<p>Alphabet及谷歌总裁兼首席投资官露丝·波拉特（Ruth Porat）表示：“谷歌很自豪能够深化在芬兰的根基。”</p>
-<p>她补充说：“这项投资彰显了谷歌以负责任方式拓展业务的承诺，将技术基础设施的扩建与新增能源产能、电网升级以及能源可负担性举措紧密结合。”</p>
-<p>今年早些时候，谷歌母公司Alphabet将其全球支出计划提高至高达2050亿美元，以扩大用于人工智能服务的算力。</p>
-<p>与富腾达成的协议为洛维萨核电站提供了长期的财务确定性，该核电站目前供应芬兰约10%的电力。</p>
-<p>富腾表示，谷歌的承诺将为一项旨在延长核电站寿命并提升其发电能力的投资计划提供支持。</p>
-<p>该父亲曾在图卢兹附近威胁要斩首一名小学女教师。</p>
-<p>大批人群涌入大英博物馆参观贝叶挂毯，这是该挂毯在被制作近1000年后首次在英国公开展出。</p>
-<p>随着双方发动新的无人机袭击，乌克兰报告有五人死亡，俄罗斯报告有四人死亡。</p>
-<p>在为期13天的全国哀悼期后，成千上万的人走上街头表达哀思。</p>
-<p>这是波兰数日内发生的第二起此类事件，总理表示需要出台严格的新规。</p></div>
+<div class="article-body" data-article-body="true"><p>无摩擦技术如何让我们习惯偏爱独处——以及为何科研领军者应当为此担忧。</p>
+<p>在最近一次旧金山之行中，我做了如今每位旧金山访客都会做的事：叫了一辆空无一人的汽车。</p>
+<p>那辆Waymo自动驾驶汽车带着一种从未为寻找停车位发愁过的机器特有的从容自信驶来。我坐进后排，本能地瞥了一眼驾驶座想打个招呼，却发现自己正礼貌地对着一张空椅子点头。方向盘正在自行转动。我这辈子花了相当多的时间思考物理学中违背直觉的现象，但这丝毫未能缓解我目睹方向盘自行转动时所产生的轻微存在主义眩晕——一位看不见的司机正对我的生命安全负责。</p>
+<p>我去旧金山的部分原因，是想与麦克米伦学习（Macmillan Learning）首席执行官苏珊·温斯洛（Susan Winslow）会面。我们同属霍尔茨布林克出版集团（Holtzbrinck group），而我们相聚则是出于最人性化的职业缘由：展开协作。坐在同一间屋子里，交流AI如何重塑我们各自所在的科研与教育领域的心得，并进行那种在视频通话中极难实现的深度思考。</p>
+<p>然而，在交流彼此的Waymo体验时，我们发现双方在另一件事上达成了完全一致的看法：乘车体验太棒了。作为两位自认内向的人，我们都觉得这辆无人驾驶汽车是一处小小的绿洲。无需勉强社交寒暄。无需就车内收音机播放什么进行无声的博弈。这里提供了一个毫无愧疚感的独处空间，让人可以理清思绪、处理完一封电子邮件，或在途中接听电话，而不必感到在陌生人面前通话的尴尬。车内安静、平稳，且完全没有任何社交要求。</p>
+<p>我们花了稍长一点的时间才说清楚自己究竟失去了什么。两个跨越大洲专门来见面对谈的人，却因一项核心特征是“无需与任何人交谈”的技术而暗自窃喜。</p>
+<p>让我尝试下一个定义：所谓的“Waymo效应”，是指当一项技术消除了人际交往中的摩擦时所产生的现象；我们会把这种消除视为纯粹的获益——因为摩擦的成本对我们而言向来显而易见，而其带来的益处却隐而不彰。</p>
+<p>读过吴修铭（Tim Wu）关于“便利的暴政”（the tyranny of convenience）论述的人，对这种套路都不会陌生——他的论点是，一旦出现了一种毫无摩擦的选项，我们便会默认选择它，并悄然放弃摩擦原本为我们带来的一切价值，毕竟从一开始就没有人将这种摩擦宣传为有价值之物。阿尔伯特·博格曼（Albert Borgmann）提出的相关概念“设备范式”（device paradigm）则更进一步：设备提供了一种日用品或便利物——例如温暖、信息、陪伴——却掩盖了以往为了获取它而必须付出的实践过程，以至于我们甚至不再察觉这种实践已经消失。唯一持续存在的，只有不断送达的便利本身。</p>
+<p>与出租车司机交谈的成本是显而易见的：维持礼貌的小小负担、对话如同轮盘赌般的不确定性，以及内向者在清晨7点强撑着寒暄所耗费的心力。而其益处则是分散且滞后的：在许多日子里，对我们许多人来说，出租车司机是不得不遇见的最后一个陌生人；是来自我们所在圈子之外——无论在职业、政治还是社交层面上——唯一与之进行非自选对话的最后一人；也是我们未曾主动寻求、却仍能可靠获取外界视角的最后来源。</p>
+<p>无论是苏珊还是我，都不希望设计出一个没有这些对话的世界。我们只是享受在这一次选择退出的轻松。当然，此类事物正是这样逐渐流失的：从来都不是因为某项深思熟虑的决定，而始终是源于便利的诱惑。一次又一次舒适的乘车，悄然积微成著。</p>
+<p>我需要明确指出，这并非一篇反对Waymo的文章（乘车体验确实无可挑剔，我毫不犹豫会再次乘坐——而这恰恰正是核心所在）。这是一篇关于科学研究的文章。因为将司机从汽车中移走的同一套逻辑，如今正以同样的从容淡定，且带来深远得多的后果，将合作者从科研过程中剔除出去。</p>
+<p>大语言模型正是智力生活领域的Waymo。</p>
+<p>坦率地从科研人员的亲身体验来审视这一对比吧。合作者只是偶尔在线，时间被教学任务、基金申请截止日期和时区差异切割得七零八落；而LLM却能在周日凌晨两点随叫随到——我们毋庸自欺，这往往正是惊人数量的科研构思真正发生的时刻。合作者带着他们自己的议程、他们自己对问题的定义框架，以及他们令人头疼的、认定你的核心假设是错误的执念而来；而LLM除了对你有所助益之外，别无其他诉求。合作者必须被说服；而LLM只需被提示。合作者会以你未曾要求且未曾想到的方式对你发起挑战；而LLM对你的挑战，则严格受控于你所要求的严厉程度——分毫不差，绝不多跨越一步。如果你要求它评判你的论点，它会胜任有余地照办。但它评判的仅仅是你提交给它的那个论点。它绝不会主动提醒你解决的其实是个错误的问题，也不会指出竞争团队早在2019年就尝试过并已放弃该方向，更不会告诫你构建的优美理论框架一旦与他人领域中纷繁复杂的现实相撞击便会土崩瓦解。</p>
+<p>换句话说，合作者带来的不便并非合作中的瑕疵；在很大程度上，它正是合作的本质所在。另一个头脑的价值，恰恰在于它拒绝成为你自身意志的附庸。</p>
+<p>而在挑战与意外收获之外，还存在着更为根本的意义。科研绝不仅仅是一个将想法转化为论文的生产函数。它是一个实践共同体——一张通过争论、学术传承、学术会议酒吧里的闲谈，以及共同经受审稿人严苛评审的煎熬而维系的社会纽带网络。这张网络赖以编织的，正是我们如今正在通过技术工程消除的摩擦。每一次本该与同事进行的对话被转嫁给聊天机器人，都是悄然从这张网络中抽走了一根丝线。单一一根丝线看似微不足道，整张网络却至关重要。当这种现象演变成规模化扩散时，有一个专门的词汇可以描述它，我提议我们使用它：去协作化（decollaboration）。</p>
+<p>如果这仅仅关乎个人的诱惑与自制力，那它不过是一个留给自我约束和偶见严厉社论探讨的话题。但事实并非如此。对于科研领军者、资助机构和学术机构而言，令人不安的真相在于，我们亲手构建了一套激励体系，使得“去协作化”成为了理性选择——而且年复一年，我们还在不断让这种选择变得愈发合理。</p>
+<p>合作历来代价高昂。它需要差旅开支、日程协调，以及建立信任那般极其缓慢的磨合过程。它需要管理自尊心、妥协退让，以及就作者署名顺序协商时周期性的小小失落感。“不发表即出局”（Publish-or-perish）的考核机制向来对这些成本课以重税，因为花在与合著者磨合对齐上的每一个小时，都是未曾用于生产被现有评价体系认可的成果的时间。然而，如今有三种力量正在相互交织叠加。</p>
+<p>首先，是经费压力。当预算收紧时，首当其冲被削减的往往是那些价值真实存在却难以量化的预算科目：差旅、研讨会、学术休假、访问职位——即带来“意外发现”（机缘巧合）的整个实体基础设施。我们削减了走廊的经费，然后反过来奇怪为什么走廊里的交流探讨不见了。</p>
+<p>其次，是对速度的崇拜。我们的评估体系——无论官方网站上点缀着多么动听的《旧金山科研评估宣言》（DORA）式表态——归根结底奖励的依然是产出以及产出的速度。而大语言模型（LLM）承诺带来的最核心优势正是速度。它们在耳边低语：文献综述周五就能完成，初稿下周一就能成型。对于一位能否获得下一个职位取决于出版物清单长度的研究人员而言，这样的耳语绝非能够轻易忽视。</p>
+<p>第三，也是最具诱惑力的一点：大语言模型从不会争夺作者署名顺序。它没有需要照顾的自尊心，没有相互竞争的个人诉求，也不会在学术成果的荣誉中分一杯羹。在这样一个把学术荣誉视作生存货币的体系里，一个才华横溢却分文不取学术功劳的对话者，已经不仅仅是方便而已。这本身就是一种套利行为。</p>
+<p>关于科研本身的研究（meta-research），本应让我们在此止步深思。从团队科学的文献中我们得知，小团队倾向于颠覆创新，而大团队倾向于完善发展；恰恰是合作者之间出人意料的组合——跨领域、跨机构的非典型搭档——不成比例地孕育了绝大多数最具原创性的成果。与此同时，关于生成式人工智能的早期证据指向了一个我们应当感到熟悉的方向：个体生产力上升，而思想的多样性却在收窄，每个人都在越来越相似的路径上加速前行。实际上，我们正在进行一场不受控制的全球实验，用意外发现的机缘去换取吞吐量——而我们所构建的激励机制就是这一实验的试验仪器。</p>
+<p>这里还存在一个更为深层的代价，它关乎大语言模型最令人惊艳的能力：写作。</p>
+<p>这些工具的部分诱惑力在于那种神速的印象。而我们有必要精确剖析为何这种印象在一定程度上只是一种幻觉。写作需要时间，是因为思考需要时间；这两者并非恰好先后发生的独立活动。撰写论文的价值从来不仅在于写出来的成果本身——它更是一种倒逼思考的机制（forcing function）。正是在写作中，我们才会发现自己原本坚信不疑的论点在第三节存在漏洞；正是在写作中，模糊的直觉要么凝练为严谨的主张，要么在必须变得严谨的压力下瓦解冰消。高质量的思想孕育缓慢，而在历史上，这种缓慢的孕育过程往往发生在人与人之间：在白板前、在走廊里、在合著者留下修改痕迹时那种富有成效的磨合与思想碰撞中。</p>
+<p>认知心理学家对这种富有成效的摩擦有一个术语：罗伯特·比约克（Robert Bjork）提出的“必要难度”（desirable difficulties）——即在学习和思考过程中的某些摩擦、费力的检索、延迟的反馈、努力用自己的语言将想法落诸笔端的挣扎，并非持久理解的阻碍，而恰恰是实现深度理解的机制所在。如果为了舒适而消除难度，你并不会更快地获得同等程度的理解；你得到的只会是更浅薄的理解，只是呈现得更加顺畅罢了。</p>
+<p>把写作外包，你并没有加速思考，而是直接跳过了思考。随着模型性能的提升，这一陷阱反而越陷越深，因为它们的输出越来越好——语言更流畅、结构更严谨，越来越难以与受过良好教育的人类散文区分开来。正是在破绽越来越少的同时，诱惑在不断增大。作为一名物理学家，这让我联想到了宇称-时间对称（PT-symmetric）量子系统：该系统具有一种令人不安的特性，即在一个隐藏的对称性被打破之前，一切表现都完全正常——而一旦打破，所有的一切都会在瞬间彻底改变。从所有可见的指标来看，一种科研文化可以显得无比健康——产出上升、周期缩短、文笔无可挑剔——而维系它的无形支柱却在悄无声息中跌落至阈值之下。等到症状在各项指标中显现之时，根源已埋下数年之久。</p>
+<p>这番讨论并非主张禁用这些工具。禁令注定会失败，而且理应失败，因为这些工具的前景是真实存在的。在 2026 年 3 月发表于《自然》（Nature）的一篇评论中，王大顺拓展了史蒂夫·乔布斯将计算机比作“人类思维的自行车”的名言，提出人工智能代理是人类思维的“飞机”：比自行车更快、更强大，但也更难驾驭，一旦失事代价也更惨重。他在益处方面的判断是正确的，而且这种益处十分可观。当人工智能将失败的成本压缩殆尽时，提出更具风险、更有抱负的科学问题便成了理性之举；当它大幅降低分析成本时，小型实验室和初出茅庐的独行者便能够尝试过去需要千军万马才能完成的研究。如果善加利用，这些工具确实能够拓展科研边界——而且若运用得当，智能代理系统甚至可以通过让每一个分析步骤都具备可记录和可复现性，从而加固科学界最脆弱的环节之一：可复现性。</p>
+<p>但请注意，即便是乐观主义者也坚持强调一点。王大顺给出的处方是他所谓的“机长掌舵式科学”（pilot-in-command science）：研究人员担任机长，智能代理充当机组成员——分析代理负责起草，批判代理负责质询，规划代理负责制定下一步计划——而人类始终保留对研究问题、研究路径和结论的最终决断权。换句话说，即便是人工智能辅助科研探索最热忱的构想者，也坚决认为驾驶座前排必须有人掌舵。王大顺从另一个角度得出了与“Waymo 效应”相同的担忧：他警告说，虽然人工智能可以提高个体表现，但它有可能降低集体多样性，除非我们刻意加以遏制，否则产出将会趋同——而且，正如人类合作者以深刻而出人意料的方式塑造我们一样，我们的智能代理也会如此。他的解决方案是“为异议而设计”（design for dissent），培养众多思维方式各异的模型。也就是说：在消除了摩擦之后，我们现在必须通过工程手段将摩擦重新引入。</p>
+<p>这不过是换了新装的旧担忧。1983 年，心理学家利桑·贝恩布里奇（Lisanne Bainbridge）描述了“自动化的讽刺”：一套系统自身运行越可靠，人类监督者就越缺少机会去练习原本需要他们在紧急情况下调用的技能，因此人类的能力反而在无声无息中退化，原因恰恰在于这种能力极少需要用到，而一旦需要，往往就是最危急的关头。把“飞行员”换成“研究人员”，把“自动驾驶”换成“智能代理”，王大顺所警惕的机制正是贝恩布里奇在四十年前指出的问题。</p>
+<p>因此，问题并不在于技术本身。问题在于，我们让“人与人的交流”变成了昂贵的选项，而让“人与机器的交流”变得免费；然后当研究人员做出理性的选择时，我们却又感到大惊小怪。</p>
+<p>因此，责任应落在制定激励机制的地方。资助机构和学术机构应当看清科研合作的本质——它不是可有可无的点缀，而是一种基础设施——并为其给出合理的定价与支持。</p>
+<p>为这种“摩擦”提供资助吧：研讨会、实地互访、同处一地办公，以及那些能促成任何人都无法预先安排的对话的非结构化时间。评估科研贡献而非产出速度，并且要言行一致。将“你与谁一同思考？”视作一个与“你发表了什么？”同等重要、严肃的问题。</p>
+<p>或许，在这个机器能够产出无数篇合格论文的时代，我们应当意识到，稀缺而有价值的事物已经发生了逆转：产出正在变得廉价，而共同思考正变得无比珍贵。</p>
+<p>苏珊（Susan）和我抵达了目的地。车行驶得平稳顺畅，车内的宁静令人惬意，而我们各自跨越大洋与大陆所追寻的合作也确实达成了——但它并非发生在那座毫无阻力的胶囊车厢里，而是发生在随后那些低效、未列入日程、完全属于人与人之间交流的时间里：那些漫无边际的闲谈、彼此未曾预料的分歧，以及我们谁都没带到旧金山的想法——因为在同处一室之前，这些想法根本就不存在。</p>
+<p>归根结底，这就是完整的“Waymo效应”：乘车体验令人愉悦，目的地也已抵达，只有当你向前排瞥上一眼时，才会发现缺失了什么。王（Wang）呼吁推行“机长负责制”式的科研；而潜在的隐秘风险在于，我们的激励机制正在将我们训练成享受舒适体验的“乘客模式”科研人员。</p>
+<p>如今，科研正在爬向后座。旅途将一路顺畅。成果也会如期而至。在科研领袖们又度过数年舒适乘车时光之前，他们应该扪心自问一个简单的问题：坐在前排的究竟是谁？我们又是从何时起，不再留意前排根本空无一人在驾驶？</p>
+<p>丹尼尔·胡克（Daniel Hook）系霍尔茨布林克集团（Holtzbrinck Group）首席科学官。感谢苏珊·温斯洛（Susan Winslow）和奥利弗·扎恩（Oliver Zahn）带来的促成本文写作的精彩对话。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>谷歌宣布在芬兰投资130亿欧元（约合110亿英镑或150亿美元）用于AI基础设施建设，并将购买芬兰一座核电站多达一半的电力。</li>
-    <li>谷歌与芬兰电力公用事业公司Fortum签署了一份为期22年的合同，购买洛维萨（Loviisa）核电站多达50%的发电量。</li>
+    <li>文章作者在旧金山搭乘了无驾驶员的 Waymo 自动驾驶汽车，并与麦克米伦学习（Macmillan Learning）CEO Susan Winslow 进行了会面交流。</li>
+    <li>作者与 Susan Winslow 同属霍尔茨布林克出版集团（Holtzbrinck group）的同事。</li>
+    <li>来源叙事重点：通过将大语言模型类比为无人驾驶技术（Waymo 效应），批判科研领域中为追求高产出和便利而以 AI 替代人际协作（即“去协作化”）的现象，警告学术界消除人际摩擦将以牺牲思想多样性与深度思考为代价。</li>
   </ul>
 </div>
 
@@ -720,181 +736,69 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.bbc.com/news/articles/c8r6y4me2g6o" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.researchagenda.news/articles/the-waymo-effect.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ded-foldable-market-html-c07d5f6565a6fcf0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1020" data-content-paragraphs="17" data-published-at="2026-09-11T00:19:54.000Z" data-time-source="publication">
+<div id="story-on-bpd-in-september-html-593ad33f2b4b6984" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="718" data-content-paragraphs="6" data-published-at="2026-09-11T11:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
-    <span class="stance-badge">国际资本与华尔街视角</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 08:19</span>
+  <span class="news-meta-time">🕒 2026-09-11 19:30</span>
 </div>
 
-### [iPhone Duo进军中国拥挤的折叠屏市场，面临价格考验](https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The iPhone Duo enters China’s crowded foldable market — and faces a price test</div>
+### [中国9月原油进口量预计将维持在每日720万桶](https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hold-at-72-Million-Bpd-in-September.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> China&#39;s Crude Imports Set to Hold at 7.2 Million Bpd in September</div>
 
-<div class="article-body" data-article-body="true"><p>苹果公司的首款折叠屏手机在中国消费者中反响平平，相比国内竞争对手现有的折叠机型，消费者更关注其售价。</p>
-<p>在苹果周三的发布会上推出iPhone Duo后，据CNBC翻译，社交媒体平台微信上的一位用户表示：“今年不买，明年买第二代折叠屏。”该机型在中国市场的售价为15,999元人民币（约合2,230美元）。</p>
-<p>CNBC翻译的一则微信视频评论中，一位评论者写道：美国消费者“一个月挣三四千美元，花1,999美元买。我们挣三四千块钱，花一万多块去买”。</p>
-<p>发布会结束后，苹果股价上涨超过3%。</p>
-<p>但该公司在其第三大市场大中华区面临着关键考验。大中华区贡献了苹果约17%的总营收，同时也是全球竞争最激烈的折叠屏手机市场之一。</p>
-<p>华为、小米、荣耀、OPPO和vivo已经推出了涵盖书本式内折、翻盖式小折叠以及（华为的）三折叠设计的产品。这意味着在中国，iPhone Duo进入的是一个比许多海外市场都更为成熟的品类品类市场。</p>
-<p>在苹果发布会之前，小米和华为于周一分别推出了新款旗舰折叠屏手机——小米 18 Fold与三折叠手机Mate XT2，售价分别为10,999元和19,999元。</p>
-<p>一位微信评论者写道，苹果的Duo“比华为便宜，你能忍住吗？”</p>
-<p>根据Counterpoint的数据，华为在今年第一季度和第二季度均领跑中国智能手机市场。数据显示，苹果位居第二，随后是vivo和OPPO。</p>
-<p>在全球范围内，Counterpoint表示，三星在第二季度以微弱优势反超苹果夺回智能手机出货量第一，小米位列第三。今年早些时候，三星推出了新一代折叠屏手机，根据该研究机构的数据，预计三星将在折叠屏市场份额上超越苹果，以32%的份额保持显著领先，而苹果和华为的份额预计分别为25%和24%。</p>
-<p>除价格外，中国社交媒体上的用户还对Duo缺少实体SIM卡槽表示担忧，这可能需要中国大陆用户前往运营商营业厅进行身份验证以激活eSIM。</p>
-<p>小米 18 Fold将于周四起开售。华为Mate XT2随后几天跟进。苹果iPhone Duo的预购定于10月16日开始，并将于10月23日正式发售。</p>
-<p>——CNBC的Jenny Lee对本报道亦有贡献。</p>
-<p>有机密新闻线索？期待您的来信。</p>
-<p>将此内容订阅发送至您的收件箱，并获取有关我们产品和服务的更多信息。</p>
-<p>数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票报价以及市场数据和分析。</p>
-<p>数据亦由以下机构提供</p></div>
+<div class="article-body" data-article-body="true"><p>随着原油价格再度飙升至每桶100美元以上，中国9月份的原油进口量预计将与8月份大致持平，延续了货运回升的势头。据《日经亚洲》（Nikkei Asia）报道，Kpler的初步船舶跟踪数据显示，中国9月份的原油进口量约为每日720万桶，与8月份基本持平。</p>
+<p>这批于9月份到港的原油货船采购价格远低于每桶100美元，但中国采购量自6月份触及的十年低点逐步回升，标志着原油价格将面临进一步的上行压力。近几周，在油价仍徘徊在每桶80多美元的区间时，中国炼油商便已采取行动补充原油库存。</p>
+<p>8月份中国原油进口量连续第二个月实现增长，原因是在出口配额限制放宽的情况下，炼油商转向了更多的非中东供应来源，并增加了海外燃料出货量。本周早些时候公布的中国官方海关数据显示，中国8月份进口原油3793万吨（即每日893万桶），较7月份增长6.2%，相比6月份触及的十年低点进一步复苏。</p>
+<p>尽管8月份的进口水平与去年同期相比仍低23.4%，但相比6月份仅每日710万桶的低点已有显著改善。在高油价以及中东供应受限的双重压力下，中国在经历了连续三个月的极低进口水平后，于6月份将原油进口总量压缩至十年来的最低点。</p>
+<p>中国在战前已储备了约14亿桶原油，因此能够承受大幅减少原油采购的举措，6月份的原油进口量较2025年平均水平估计削减了每日440万桶。7月份中国原油进口开始反弹，且这一势头一直延续到了8月份——来自中东的原油流量略有回升，同时中国炼油商加大了对俄罗斯ESPO（东西伯利亚-太平洋管道）原油的采购力度，并转向了阿根廷等此前较为罕见的供应来源地。</p>
+<p>文 / Oilprice.com 记者 茨韦塔娜·帕拉斯科娃（Tsvetana Paraskova）</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>苹果公司在周三发布了其首款折叠屏手机 iPhone Duo，中国市场售价为 15,999 元人民币（2,230 美元），美国市场售价为 1,999 美元。</li>
-    <li>发布会后苹果公司股价上涨超过 3%。</li>
-    <li>来源叙事重点：报道将iPhone Duo进入中国描述为一次价格与市场接受度测试，重点比较其15,999元定价与小米、华为等国产折叠屏产品的价格，强调中国折叠屏市场竞争已较成熟、苹果在大中华区面临本土品牌竞争，并补充苹果股价上涨、市场份额和eSIM限制等信息。所谓“中国消费者反应冷淡”主要建立在少量社交媒体评论之上，属于报道框架而非已被充分验证的整体市场结论。</li>
+    <li>根据日经亚洲援引Kpler的初步船舶跟踪数据，中国9月份原油进口量预计约为720万桶/日，与8月份基本持平。</li>
+    <li>中国官方海关数据显示，中国8月份进口原油3793万吨（约893万桶/日），环比7月增长6.2%。</li>
+    <li>来源叙事重点：聚焦中国9月原油进口预计维持在8月水平并呈现自低点复苏的态势；强调中国炼油商在油价冲破100美元前低价补库、分散进口来源（如俄油ESPO及阿根廷原油），并认为中国需求复苏将对国际油价形成持续上行压力。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#CNBC</span>
+  <span class="news-tag-pill">#OilPrice</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Markets (CNBC 市场官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hold-at-72-Million-Bpd-in-September.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-oft-deprecating-re-match-5fe75a5fc53d34ad" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1129" data-content-paragraphs="1" data-published-at="2026-09-10T21:59:16.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 05:59</span>
-</div>
-
-### [软弃用 re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Soft-deprecating re.match()</div>
-
-<div class="article-body" data-article-body="true"><p>快，别去查资料，说说 re.match() 是做什么用的？以下哪一项会返回匹配结果？<br />它与 re.search() 以及 re.fullmatch() 相比又有什么区别？<br />趁着你正在（快速）思考这个问题，我们来介绍一下“软弃用”（soft deprecation）。<br />Python 的向后兼容性策略（PEP 387）在 2023 年引入了软弃用机制：<br />当某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然保持安全时，就可以采用软弃用。该 API 仍会保留文档并进行测试，但不会再对其进行进一步开发（不添加新功能）。<br />软弃用并不意味着未来会移除该 API，也不会发出警告。它只是仅停留在文档层面的不建议使用该 API 的建议，通常还会给出推荐的替代方案。<br />至于是否以及何时将软弃用转变为常规的“硬”弃用（随后可能会彻底移除），完全是另一项独立的决策；软弃用并不会自动“晋升”为常规弃用或被移除。<br />因此，re.match() 实际上只在字符串的开头进行匹配！这可能会让人感到意外：为什么字符串的开头会如此特殊？<br />如果你不想固定在开头匹配，而是想在字符串的任意位置进行匹配，请使用 re.search()：<br />如果你既想固定开头又想固定结尾，检查整个字符串是否匹配，请使用 re.fullmatch()：<br />正是因为这种令人意外的“半锚定”行为，我们在 Python 3.15 中为 re.match() 引入了一个新别名，名为 re.prefixmatch()：<br />引用《Python 之禅》（python3 -m this）中的一句话：“显式优于隐式”。任何人在看到 prefixmatch() 这个名称时，很可能都会立刻理解其预期的语义。而对于尚未熟悉这个 Python 历史遗留陷阱的人来说，在阅读 match() 时，心里总会对其实际行为存有一丝疑虑。<br />有了更显式的替代品后，我们在 Python 3.15 中对 re.match() 进行了软弃用：<br />我们并不打算移除旧有的 match() 这个名称，因为它已经在代码中使用了超过 30 年。它已被软弃用：需要支持较旧版本 Python 的代码应继续使用 match()，而新编写的代码则应优先使用 prefixmatch()。<br />只有当你确实只需要这种半锚定行为时，才使用 re.prefixmatch()；否则，请使用 re.search() 或 re.fullmatch()。<br />没有特殊字符的函数通常执行速度会稍快一些。<br />你可以在项目中借助 Ruff 来避免使用 re.match()：<br />题图：自行车与行人模板双重曝光照片（CC BY-NC-SA 2.0 Hugo van Kemenade）。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Python 的向后兼容策略（PEP 387）于 2023 年引入了“软弃用”（soft deprecation）概念。</li>
-    <li>软弃用是指某个 API 不应再用于编写新代码，但在现有代码中继续使用仍然安全；软弃用不意味着未来一定会移除该 API，也不会发出警告，仅作为文档中的不推荐使用建议。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://hugovk.dev/blog/2026/soft-deprecating-re.match/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-nown-life-york-city-html-f233d50a8717b22a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1822" data-content-paragraphs="20" data-published-at="2026-09-11T00:40:03.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🔬 深空与基础科学</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 08:40</span>
-</div>
-
-### [在纽约市搜寻未知生命](https://phys.org/news/2026-09-unknown-life-york-city.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The hunt for unknown life in New York City</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/the-hunt-for-unknown-l.jpg" alt="在纽约市搜寻未知生命" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>作者：弗里德·克瓦尔普斯卡莫·汉森（Frid Kvalpskarmo Hansen），挪威科技大学<br />编辑：斯瓦蒂·梅斯特里（Swati Mestri），审校：安德鲁·齐宁（Andrew Zinin）<br />本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时突出了以下要点：</p>
-<p>地球上到处都是未知物种。但是，在美国最大的城市中心，真的有可能发现一种全新的动物物种吗？</p>
-<p>“人们总喜欢想象未被发现的物种只存在于偏远的雨林或大洋深处，但其实它们无处不在。即使在那些已被深入研究的地区，我们仍在不断发现科学上的新物种，”埃米莉·哈托普（Emily Hartop）说道。</p>
-<p>哈托普是位于特隆赫姆的挪威科技大学自然历史博物馆（NTNU 大学博物馆）的一名昆虫学家。</p>
-<p>她正与多个研究伙伴展开合作——包括美国媒体 Vox、加拿大圭尔夫大学生物多样性基因组学中心，以及纽约的展望公园联盟（Prospect Park Alliance）和中央公园管理委员会（Central Park Conservancy）——在美国最大的城市中搜寻未知生命。她坚信他们一定会有所收获。</p>
-<p>“可能性极高。在我的专业领域，发现新物种是常态而非特例，”哈托普说。</p>
-<p>“事实是，地球上绝大多数动物物种对我们人类来说仍然是未知的。科学家已经正式命名的物种约有 200 万种，但实际的物种数量可能是这一数字的 10 倍，”哈托普表示。</p>
-<p>你可能已经猜到，哈托普要找的并不是未知的熊或大猩猩物种。有些人可能会说很遗憾，我们对这类物种已经掌握得相当清楚了。相比之下，昆虫构成了物种版图上的大片空白，尤其是那些属于“暗物种”（dark taxa）范畴的昆虫——这一类群的生物种类极其丰富，但我们对其却知之甚少。</p>
-<p>“许多‘暗物种’是小型昆虫、螨类和其他生物，与哺乳动物和蜜蜂等更具魅力的类群相比，它们受到的关注很少。它们通常既常见又在生态上极为重要，但我们根本没有足够的专业人员来全面了解它们。”</p>
-<p>你可能会好奇，在城市中心究竟该如何着手寻找未知昆虫？其实，这一过程分几个阶段进行。</p>
-<p>在纽约寻找未知生命的行动，是通过搭建帐篷状的昆虫陷阱——即马氏网（Malaise traps）来进行的。目前已有两具陷阱分别安置在中央公园和展望公园。这两个高度城市化的公园分别位于曼哈顿和布鲁克林。陷阱的运作方式是将昆虫引导至装有乙醇的容器中，将其杀死并妥善保存。</p>
-<p>采集到的昆虫每月会被送往加拿大的生物多样性基因组学中心（CBG）一次。在那里，工作人员利用一种名为“DNA条形码”的技术，对陷阱中昆虫的遗传物质进行图谱绘制。该方法利用遗传物质（DNA）中一段特定且简短的片段，来充当每个物种的遗传条形码。正如商店里的每件商品都有唯一的条形码一样，物种也可以通过其 DNA 条形码进行识别。</p>
-<p>显示出独特 DNA 条形码的昆虫会被分发给相应物种群的研究人员。他们会进行更深入的调查，以确定它们是否属于新物种。NTNU 大学博物馆的哈托普便是这些研究人员之一。她是蚤蝇（humpbacked flies，一种物种极度丰富的小型苍蝇科类）领域的全球专家。</p>
-<p>如果发现了新物种，它将被赋予科学描述并命名——这是一个往往需要耗费数年时间的繁重过程。</p>
-<p>“该项目最令人兴奋的地方之一在于，它打破了‘新发现只能出现在偏远荒野地区’的传统观念。事实证明，在公园和花园里同样能发现未知物种，”哈托普说道。</p>
-<p>她表示，如果在特隆赫姆或几乎任何其他城市采取相同的调查方法，我们很可能也会发现新物种。</p>
-<p>这些数量庞大的未知昆虫有助于防止地球的生态平衡崩溃。哪怕你永远无法体会哈托普对苍蝇的热爱，记住这一点或许也是值得的。</p>
-<p>“人们经常问我为什么研究小苍蝇。事实是，苍蝇太神奇了。它们是地球上最多样化的生物之一，演化出了极其丰富的生活方式，而且其中许多种类真的很美，”哈托普说。</p>
-<p>“每当我们仔细观察，苍蝇都在提醒我们：生命世界远比我们想象的更加多样、迷人且神秘。”</p>
-<p>本文由挪威科技大学提供<br />斯瓦蒂·梅斯特里（Swati Mestri）拥有电子工程学士学位，自 2019 年起担任内容编辑。她在科技、医疗健康和材料科学领域具有研究文献编辑经验，对科技和太空领域尤为感兴趣。查看完整履历 →<br />物理学硕士，具有研究经验。资深科学新闻爱好者。在 Science X 的编辑工作中发挥关键作用。查看完整履历 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Emily Hartop 是挪威科技大学特隆赫姆自然历史博物馆（NTNU University Museum）的昆虫学家，也是驼背蝇（humpbacked flies）领域的专家。</li>
-    <li>Emily Hartop 正与美国媒体 Vox、加拿大圭尔夫大学生物多样性基因组学中心（Centre for Biodiversity Genomics）、纽约展望公园联盟（Prospect Park Alliance）以及中央公园保护协会（Central Park Conservancy）合作，在纽约市搜寻未知生物物种。</li>
-    <li>来源叙事重点：强调“城市中也能发现未知物种”，将纽约中央公园和展望公园的昆虫调查呈现为挑战“新物种只存在于偏远荒野”这一观念的案例。报道重点包括Malaise陷阱采样、DNA条形码筛查、专家复核及后续科学命名流程，并突出昆虫尤其是“暗分类群”在生物多样性研究中的重要性。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#深空与基础科学</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-unknown-life-york-city.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-item-15e2051c5046525f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1201" data-content-paragraphs="18" data-published-at="2026-09-11T00:33:26.000Z" data-time-source="publication">
+<div id="story-k-make-ai-coding-cheaper-a7e839f442e5efa3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3239" data-content-paragraphs="1" data-published-at="2026-09-11T11:15:13.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 08:33</span>
+  <span class="news-meta-time">🕒 2026-09-11 19:15</span>
 </div>
 
-### [YuE2 · 基于符号规划的前沿音乐生成](https://map-yue2.github.io/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> YuE2 · Frontier Music with Symbolic Planning</div>
+### [RTK声称节省了Token，但我们的成本基准测试得出了相反结论](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> RTK reports token savings, but our cost benchmarks disagree</div>
 
-<div class="article-body" data-article-body="true"><p>聆听一首歌曲，随后在其符号规划中探索旋律、节奏与和弦。</p>
-<p>一首熟悉的歌曲可以呈现出不同的形态。倾听旋律、歌词、速度和编曲的变化。</p>
-<p>歌曲通过对话逐渐成形。正在加载编辑过程……</p>
-<p>请启用 JavaScript 以探索对话内容、聆听歌曲并播放对应乐谱。</p>
-<p>试听精选集，汇集了多种流派与语言。</p>
-<p>YuE2（8选1，best-of-8）在 SongBench 评测中达到 6.9632 分，是 WildSongBench（192 个提示词）上评估的 15 种系统设置中测得的最高平均分。在同一对比中，Suno v5 的得分是 6.8721。</p>
-<p>2026年9月5日评估 · 排名因指标而异。</p>
-<p>WildSongBench：包含 192 个提示词和 15 种系统设置。该表报告了自动评估得分。“8选1”机制根据音乐性、提示词可控性以及歌词准确性从八次生成中选取最优结果。</p>
-<p>图 1：歌曲质量综合了 SongBench 和 SongEval；文本对齐度综合了 MuLan、AllMusicCaps 和提示词可控性。两轴均显示归一化对比指数。气泡面积代表 AudioBox 制作质量。</p>
-<p>MERT2 · 音乐表征</p>
-<p>MERT2-30s 与 MERT2-FS（全曲，full-song）在 15 项 MARBLE 指标中的 14 项上达到顶尖水平（SOTA），在标签分类、调性检测、流派与情感识别等方面均处于领先地位。</p>
-<p>SOTA 统计取两个 MERT2 编码器在此次对比的九个已发布基准中的最优成绩。两款编码器均拥有 6.32 亿（632M）参数。MERT2-30s 采用 30 秒的训练上下文；MERT2-FS 则采用 300 秒。这些均为全上下文表征基准。MERT2 报告了使用测试分数选出的各表征中观察到的最佳结果；每对 ROC-AUC / AP 均使用相同的表征。</p>
-<p>已发布基准对比 ↗</p>
-<p>SheetSage2 · 音频转乐谱</p>
-<p>SheetSage2 仅凭单个模型就在 13 项基准指标中的 10 项达到 SOTA，涵盖拍子、强拍、调性、和弦、结构和旋律转录。</p>
-<p>SOTA 统计是指在本对比中相比 SheetSage1、Madmom 以及特定任务系统所取得的领先得分。结果来自通过验证集损失（validation loss）选出的单一模型。旋律 F1 指标衡量音级音符；结构 F1 指标在指定容差下衡量乐段边界。在 Chords1217 数据集上，ChordFormer 使用五折交叉验证，而 SheetSage2 则在全部 1217 首曲目上评估单一固定模型。</p>
-<p>完整对比包含 SheetSage1、Madmom 以及针对特定任务的系统。</p>
-<p>我们的模型主要基于 CC0 许可音乐与合成数据进行训练。Tokenwave.AI 在授权协议下提供了我们大部分合成训练数据。我们致力于恪守道德规范并负责任地使用数据。</p></div>
+<div class="article-body" data-article-body="true"><p>RTK（Rust Token Killer）在AI智能体读取终端输出之前对其进行过滤和压缩。截至目前，RTK在GitHub上已斩获超过7.9万颗星，成为让AI编程更便宜的最热门工具之一。<br />X上的一篇帖子称RTK可将Claude Code的Token消耗减少多达60%，浏览量达到了31.3万次。<br />然而，JetBrains的SkillsBench运行测试却没有发现任何节省。其README中包含一段免责声明：<br />RTK最多可削减智能体读取的Bash输出的90%。[…]但这并不等同于将您的账单减少90%。<br />因此，“更少的终端输出”并不等同于“更便宜的AI编程”。它可能有所帮助，可能毫无作用，也可能适得其反（导致更多轮次或更低质量）。在这篇文章中，我们将展示历时数天、耗费超过1500美元Token后的测试发现。<br />RTK可以重写智能体通过其Shell工具（Claude Code中的Bash，OpenCode中的bash）运行的Git、测试、打包和文件命令。每次重写都会返回同一输出的更简洁版本。<br />例如，RTK会保留文件名、大小和权限（644表示rw-r--r--），但会丢弃所有者和日期：<br />由于RTK压缩终端输出，我们在Terminal-Bench 2.1上对其进行了测试，这是一个重度依赖终端交互的基准。我们选择停留在2.1版本而不是更新的3.0和4.0版本：智能体能通过大部分2.1任务，而3.0和4.0目前仍然极具挑战性。成本仅对通过的任务有意义。<br />我们使用Fable 5.0运行Claude Code，并通过OpenRouter使用DeepSeek V4 Pro 0813运行OpenCode。每个任务在不使用RTK和使用RTK的情况下各调度运行五次，均采用相同的模型路由、平台以及任务专属超时设置。<br />在剔除四个因遇到拒绝执行而失败的Fable安全任务后，最终对比涵盖了85个Fable任务和89个DeepSeek任务，共计1740次尝试。<br />使用RTK后，Fable的成本下降了5%，而DeepSeek的成本上升了5%。<br />使用RTK时任务通过率均有所下降：Fable降低了1%，DeepSeek降低了2%。两者的通过率差距都很小。<br />当我们把包括失败尝试在内的所有花销除以通过的任务数时，Fable在使用RTK时便宜了3%，而DeepSeek则贵了7%。<br />另一种方法是对每个任务赋予同等权重，因为单次昂贵的任务可能会掩盖许多廉价任务的表现。我们对比了每个任务基准尝试的均值与其RTK尝试的均值，随后对这些变动进行了平均计算。<br />在这种任务级别的指标下，Fable贵了1%，与零相比没有明显差异。DeepSeek的任务成本平均上涨了17%。<br />将失败计算在内并未改变这一趋势。在所有10次尝试均通过的36个DeepSeek任务中，成本增幅仍达18%。<br />Fable在使用RTK时几乎所有的节省都来自于单一任务：winning-avg-corewars。两种配置下每次尝试都顺利通过，但使用RTK时完成所需的轮次减少了约一半。在其他任务中，节省幅度不到1%。<br />DeepSeek在同一任务上得出了相反的结果。两种配置都通过了每次尝试，但RTK耗费了更多轮次且成本更高。即便去掉该任务，使用RTK时的成本仍然更高。<br />RTK文档将rtk gain定义为原始命令输出与过滤后输出的字节差除以4，而非计费Token的数量。<br />在445次DeepSeek RTK尝试中，RTK报告共节省了3.492亿Token，降幅达89%。<br />报告中显示的大量Token节省并不意味着任务成本更低。<br />在train-fasttext任务中，模型两次请求执行head -1 train.txt。RTK每次都通过将这些有限的读取与整个文件对比，记入了1.205亿的Token节省。仅这两次调用就占了对比统计中节省计数器数值的69%，尽管所请求的命令根本不可能返回整个文件。<br />将rtk gain直接等同于节省的资金，预设了该次尝试后续部分保持不变。RTK可能会改变智能体接下来的交互轮次。rtk gain并没有计入那些轮次的成本。<br />这正是社交媒体帖子误导之处：rtk gain计算的是被移除的输出，而不是省下的钱，它可能让一次更加昂贵的尝试看起来得到了优化。<br />有一次DeepSeek的git-multibranch尝试陷入了死循环。智能体运行了一个带有rtk find 0.45.0不支持的参数的find命令。插件将其重写为rtk find，随后因报错“Use find directly”而失败。随后的每一次重试又都被再次重写。RTK在我们测试后的0.46.0版本中修复了该问题。<br />智能体在超时前连续累积了339次错误。它最终仍通过了任务，但成本大约是对标基准尝试（同样通过）的9倍。这是一次离群尝试；即便排除它，整体趋势依然成立。<br />在没有RTK的情况下，工具输出约占Fable输入Token的11%，占DeepSeek的40%。<br />在RTK尝试中，Claude Code有31%的终端调用、OpenCode有51%的终端调用使用了RTK。<br />RTK只重写Shell命令：其Claude Code钩子匹配Bash工具，其OpenCode插件作用于bash调用。两个平台均将文件读取和搜索公开为独立的Read、Grep和Glob工具，这些工具会绕过RTK。Claude Code大约一半的Bash调用已经自带head、tail或wc来限制自身输出了。<br />在智能体编程中，上下文在每轮后都会被缓存，因此后续对终端输出的读取大部分体现为缓存读取。这些缓存在Fable中的成本仅为常规输入Token的1/10，在DeepSeek中为1/30。<br />在DeepSeek中，RTK使终端输出字符减少了9%，但提示词Token却增加了9%。未缓存输入减少了1%，缓存输入增加了9%。包括推理在内的模型输出，在启用RTK时占成本的56%，未启用时占57%。<br />当智能体交互轮次增多时，任务成本通常随之上升。<br />DeepSeek在启用RTK的尝试中，有58个任务消耗了更多轮次，其中44个成本更高。在28个任务中轮次减少，其中23个成本更低。<br />启用RTK后，DeepSeek平均每轮交互的输入减少了7%，但总轮次却增加了18%。更精炼的单轮并没有换来更少的总体输入。<br />智能体增加额外的一轮交互，其成本就可能超过压缩所带来的节省。这是“Token膨胀”（tokenflation）问题以另一种形式重现。JetBrains在SkillsBench上也观察到了相同的现象：RTK在低努力度下增加了轮次，在高努力度下并未降低成本。<br />在Terminal-Bench 2.1上，Fable的成本节省完全依赖于单个任务，并不具有普适性。我们不推荐将RTK作为通用的成本节约工具。<br />个别运行记录表明，当前的前沿模型本身已经能够高效利用终端（Fable的上下文中终端输出仅占约7%）。模型自身会采用head -n或tail -n等技巧。RTK在旧模型上可能更有帮助。在今天，它属于特定场景下的小众优化，而非普遍节省成本的灵丹妙药。<br />使用ChatGPT、Claude或Google Gemini从照片识别AI蘑菇：GPT-6 Astra、Gemini 3.8 Flash、Claude Fable 5.1、GPT-5.6和GLM-5.3-Flash。针对360张有毒菌类照片询问“那是什么蘑菇？”。看哪些给出了警告，哪些识别正确，哪些失败。<br />Token膨胀：简单任务消耗越来越多的上下文、推理和工具调用，却没有产生更多有用的输出。我们对14个模型进行了基准测试；其中一个模型在回答“Hi”时调用了33次工具并提交了一次未被请求的代码提交。<br />在Claude Code中串联四个Claude模型：在委托的安全任务上面临模型拒答，仅排在第七位，成本是表现最优的单模型运行的两倍。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>来源叙事重点：宣传YuE2、MERT2及SheetSage2在音乐生成、音频表征和扒谱上的SOTA性能基准数据（如在WildSongBench上超越Suno v5），并强调符号规划能力及使用CC0和合成数据的合规伦理训练流程</li>
+    <li>RTK（Rust Token Killer）用于在 AI Agent 读取终端输出前对其进行过滤和压缩，在 GitHub 上拥有超过 79k 星标。</li>
+    <li>Quesma 团队在 Terminal-Bench 2.1 基准测试上对 RTK 进行了测试，耗时数天且消耗了超过 1,500 美元的 token。</li>
+    <li>来源叙事重点：通过严谨的大规模基准测试（Terminal-Bench 2.1，1740次尝试）证伪 RTK 能普遍降低 AI 编程成本的流行神话，揭示“输出压缩量不等于账单节约”的核心机理（轮数增加、缓存折扣、指标虚标）。</li>
   </ul>
 </div>
 
@@ -903,150 +807,152 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://map-yue2.github.io/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-kstations-thelio-mira-ai-7068f4bd3401bbcf" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1101" data-content-paragraphs="18" data-published-at="2026-09-10T23:10:06.000Z" data-time-source="publication">
+<div id="story-mbal-release-price-specs-0c7ec27bdd71ebb3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1149" data-content-paragraphs="5" data-published-at="2026-09-11T11:07:24.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 07:10</span>
-</div>
-
-### [要闻：借助 Thelio Mira AI 加速人工智能开发](https://system76.com/workstations/thelio-mira-ai)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Thelio Mira AI Linux Workstation: 192 GB GPU Memory</div>
-
-<div class="article-body" data-article-body="true"><p>借助 Thelio Mira AI 加速人工智能开发。这款由 System76 打造、价格亲民且专注于 GPU 的工作站，专为本地人工智能开发而设计，让你完全依靠自己的硬件训练、微调和迭代具有挑战性的人工智能工作负载。</p>
-<p>Thelio Mira 可配置的最高规格如下：</p>
-<p>System76 品牌硬件产品可选择 1 年、2 年或 3 年有限产品保修，但所有电池和充电器仅享有 1 年保修。</p>
-<p>为确保订单顺利送达，请注意我们的国际运输政策。System76 不会在结账时计算或收取国际税费、关税或经纪费用。System76 不承担与国际保修维修相关的运输费用。</p>
-<p>如需完整了解 System76 的保修政策，请点击此处。</p>
-<p>开放、可定制，专为人工智能打造。</p>
-<p>长时间的训练运行容不得无声错误。Thelio Mira AI 的 ECC GPU 内存有助于保护你的工作进度。</p>
-<p>云端 GPU 实例的费用会迅速累积。现在可以在本地进行训练、微调和迭代，无需持续支付云服务费用。</p>
-<p>专注于你最擅长的工作——采用不会妨碍你的开源操作系统，最大限度提升生产效率。Pop!_OS 通过可定制的工作流程助力你持续创新，同时做到完全不收集用户数据。</p>
-<p>借助安装时启用加密等强大的安全功能，保护你的数据、模型和研究成果；在本地运行敏感或专有的人工智能工作负载时，你可以更加安心。</p>
-<p>从原理图设计到订单交付，你的系统凝聚了数代硬件专业经验，并在科罗拉多州丹佛市精心手工打造。</p>
-<p>设计注重易于拆装和维护，让你能够升级设备，多年来持续保持桌面电脑的最佳运行状态。</p>
-<p>System76 电脑针对 Pop!_OS 和 Ubuntu 进行了优化。此外，你还可以安装各种 Linux 发行版以及 Microsoft Windows。</p>
-<p>是的！升级 Thelio Mira AI 非常简单。我们提供终身支持，并在技术规格页面提供详细指南，帮助你升级内存、存储和 GPU 等组件。</p>
-<p>是的——Thelio Mira AI 可配置两个 PCIe 5.0 x16 插槽，以 x8/x8 模式支持多 GPU，从而在 GPU 之间实现高速内存传输，满足大规模模型训练需求。</p>
-<p>我们的支持团队广受好评，这是有原因的。在产品整个生命周期内，你都可以直接联系经过培训、能够快速有效解决问题的内部专家。</p>
-<p>System76 提供一流的 Linux 使用体验，并以可维修性、开源软件、可定制性和注重隐私的功能为独特优势，同时结合美国本土制造、工程设计和支持服务。</p>
-<p>是的！我们将金属板材进行切割、打磨、折弯、粉末喷涂和组装，最终制成完整的台式电脑，然后发货出库。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>来源叙事重点：围绕 Thelio Mira AI 构建“本地化、可定制、开放、注重隐私且便于长期维护”的 Linux AI 工作站叙事。页面强调最高可配 192 GB GPU 内存、ECC GPU 内存、本地训练和微调、双 PCIe 5.0 x16 插槽、Pop!_OS、零用户数据收集、加密、可升级性、终身支持以及美国制造等卖点；同时以节省云 GPU 经常性费用和保护敏感模型数据为购买理由。上述内容主要是厂商自述，未提供独立性能、价格、能耗、噪音、兼容性或成本效益验证。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://system76.com/workstations/thelio-mira-ai" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-reveals-cities-food-html-d84c8840c23e9834" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1679" data-content-paragraphs="17" data-published-at="2026-09-10T23:40:04.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 07:40</span>
-</div>
-
-### [全球数据库揭示城市间食品碳排放各不相同的背后原因](https://phys.org/news/2026-09-global-database-reveals-cities-food.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Global database reveals why no two cities&#39; food emissions look the same</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2020/berlin.jpg" alt="全球数据库揭示城市间食品碳排放各不相同的背后原因" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>作者：莱顿大学 Hilde Pracht<br />编辑：Gaby Clark；审校：Robert Egan<br />本文已按照 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性：<br />同行评审期刊</p>
-<p>转向更可持续的饮食结构可使阿姆斯特丹等城市的食品相关碳排放减半；而在达卡和德里等城市，在扩大食品供应途径的同时，工作重心应更多地放在提升食品生产的可持续性上。莱顿大学研究人员建立的一个新数据库表明，不同城市需要采取不同的方法来实现更具可持续性的食品系统。</p>
-<p>莱顿大学环境科学研究所（CML）的研究人员调查了全球各城市饮食模式对气候造成的影响。为此，他们开发了一个数据库，绘制了跨越159个国家、共计12,228个城市的食品消费相关温室气体排放图谱。该研究结果发表在《环境研究快报》（Environmental Research Letters）期刊上。</p>
-<p>研究显示，全球最大的200个城市的食品相关排放量合计占全球城市总排放量的近一半。然而，这些排放背后的驱动因素在不同城市之间差异巨大。</p>
-<p>研究人员考察了“EAT-柳叶刀”（EAT-Lancet）饮食模式的影响，这是一种兼顾健康与可持续性的国际公认饮食模式。在较为富裕的城市，采用这种饮食模式通常能带来显著的减排效果。</p>
-<p>“在荷兰，食品供应链已经相对高效，”第一作者蔡弘毅（Hongyi Cai）表示，“这意味着最大的减排效益可以通过改变饮食习惯来实现，例如少吃肉类。在阿姆斯特丹，转向‘EAT-柳叶刀’饮食可将排放量减少约45%至50%。”</p>
-<p>但这并不适用于所有地方。在达卡和德里等城市，遵循同样的饮食结构实际上可能会增加碳排放。这是因为当地人平均消费的动物源性食品本就已经较少。</p>
-<p>“对于这些城市，我们需要在尽可能降低环境成本的同时，扩大获取营养食品的途径，”共同作者 Shruti Jain 表示，“主要挑战在于确保人们能够获得种类充足的营养食品（如豆类、坚果和蔬菜），同时还要提高生产这些食品的供应链的可持续性。”</p>
-<p>在所研究的城市之间，饮食模式解释了约48%的排放差异。食品供应链的效率解释了另外48%的差异。人口老龄化结构等人口统计学因素则解释了剩余的4%。基于这些发现，研究人员确定了四类城市，每类城市都需要采取不同的应对方法。</p>
-<p>利马与巴黎的对比表明，可持续性并不仅仅取决于人们吃什么。尽管利马居民的饮食偏向以植物为主，但秘鲁当地相关的食品人均碳排放却是法国首都的三倍。</p>
-<p>蔡弘毅表示，这是因为利马的食品生产和分销效率较低。“归根结底在于食品是如何生产、加工和运输的。”</p>
-<p>为了帮助各城市更好地了解自身的状况，该团队开发了 MATILDA-City 在线平台。该数据库展示了哪些食品和消费群体产生的影响最大。它还显示了人们是否摄入了足够的水果、蔬菜和豆类等健康食品。城市可以将其情况与其他城市进行对比，并评估哪些措施最可能产生实效。</p>
-<p>“许多城市设立了雄心勃勃的气候目标，但缺乏确定哪些措施能产生最大影响所需的数据，”共同作者 Oliver Taherzadeh 说道，“我们的数据库有助于填补这一空白。”</p>
-<p>通往更可持续的食品系统或许没有万能的现成配方，但量身定制解决方案的优质“原料”正变得越来越多。</p>
-<p>Hongyi Cai et al, The dietary footprints and transition priorities of over 12 000 urban centers, Environmental Research Letters (2026). DOI: 10.1088/1748-9326/ae9328</p>
-<p>期刊信息：《环境研究快报》（Environmental Research Letters）<br />由莱顿大学提供</p>
-<p>英语专业硕士，自2021年起担任文案编辑，在高等教育和健康领域内容方面拥有丰富经验。致力于传播可信赖的科学新闻。完整个人简介 →<br />数学与生物学双学士，创意写作硕士。履历丰富，在科学和语言方面拥有独到视角。完整个人简介 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>来源叙事重点：报道强调不存在适用于所有城市的统一可持续饮食方案，应依据城市的饮食结构、食品生产与供应链效率及营养获取状况制定差异化策略。文章突出MATILDA-City数据库、EAT-Lancet饮食模式以及阿姆斯特丹、达卡、德里、利马和巴黎等城市案例，并将重点置于城市气候治理如何利用数据确定优先措施。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-global-database-reveals-cities-food.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-11-10694401-shtml-e836437c6e08ae2b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="3353" data-content-paragraphs="43" data-published-at="2026-09-11T01:00:15.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 09:00</span>
+  <span class="news-meta-time">🕒 2026-09-11 19:07</span>
 </div>
 
-### [转人工“太费劲”这项国标为AI客服“立规矩”](https://www.chinanews.com.cn/gn/2026/09-11/10694401.shtml)
+### [影石Insta360推出Osmo Pocket单摄竞品，且在美国市场切实可购](https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US</div>
 
-<div class="article-body" data-article-body="true"><p>9月起，国家标准为人工与智能客服协同划定清晰边界</p>
-<p>“转人工！转人工！”屏幕上，江苏徐州消费者吴女士连续发送指令，对话框弹回的依然是AI(人工智能)客服的“亲，我理解您的心情”——后面跟着一串标准化菜单。折腾一个多小时后终于接通人工，三两句就把退货诉求说清了，吴女士哭笑不得：“太费劲了。”</p>
-<p>近年来，AI客服快速嵌入电商、通信、金融、出行、家电等众多消费场景，在提升响应效率、降低运营成本方面发挥了积极作用。然而，本应为服务赋能的技术，在一些平台却成了答非所问、循环套话、转人工难的“拦路虎”。中国消费者协会数据显示，2026年上半年全国消协组织共受理消费者投诉98.6万件，售后服务问题占比最高，达26.79%，AI客服不实承诺、人工接入困难、生成内容失准等成为投诉新热点。</p>
-<p>9月1日起，我国首个聚焦人工与智能客服协同机制的国家标准《顾客联络服务 人工与智能客户服务协同要求》(GB/T 47746—2026)实施。这项国标怎么为AI客服“立规矩”？AI客服又该如何更好服务消费者？</p>
-<p>今年6月，消费者周先生在广东深圳某游戏平台误购了一款商品，根据平台规则，他尚未领取兑换，可以申请退款。但在沟通中，他始终只能收到AI客服的回复，被反复引导在小程序、服务号、APP之间来回切换。试着拨打人工电话、在线呼叫“人工客服”后，得到的依旧是程序的循环应答。</p>
-<p>比“答非所问”更让人焦急的是紧急时刻联系不到人。今年6月，消费者王女士家的智能门锁突发故障，一家三口被锁门外——其中还有一个6个多月大的婴儿急需进屋喝奶。钥匙、充电宝都试过，门锁依旧纹丝不动。王女士第一时间拨打售后电话，传来的却是AI客服机械的提示音，怎么也转不到人工。一家人在门外等了50分钟，最终只能请开锁师傅上门。而此前，她已就同一故障多次申请售后，始终没能顺利联系到人工客服。</p>
-<p>更令人窝火的是开“空头支票”。今年5月，消费者龚先生在某二手车平台选车，支付2000元订金前，平台官方AI客服明确答复车款包含过户费和上牌费。可到交易时，销售人员却要求另行支付1000元过户费。龚先生拿着截图去理论，对方答复“AI回答不代表公司立场”。</p>
-<p>记者在某第三方消费者服务平台以“AI客服”为关键词检索，相关投诉超过4800条。“翻遍APP找不到人工入口”“连发十几条‘转人工’只会回复‘理解心情’”“AI客服承诺送券，人工说不作数”……社交平台上，类似吐槽引发大量共鸣。</p>
-<p>梳理投诉发现，问题大多集中在3类：“转人工”层层设卡，部分平台通过循环应答、多层跳转、隐藏入口等方式延缓甚至阻碍消费者获取人工服务；AI客服不实承诺，对费用构成、优惠活动、售后政策随意打包票，事后企业以“算法生成不具备法律效力”拒绝履约；通用型AI在机票退改、法律维权、金融服务等场景中生成事实错误，误导消费者决策。</p>
-<p>“在一些平台，AI客服已不单纯是技术工具，而被设计成了一道‘隐形过滤网’。”中国消费者协会投诉部副主任郭耀宗表示，遇到复杂问题兜圈，是在消耗消费者的时间和耐心。</p>
-<p>“一名人工客服，每月工资、社保、培训、工位综合成本少说3000元起步；而一套基础AI客服系统月租最低仅99元，可完成几十名人工客服的工作量。”一名业内人士算了一笔“成本账”，两者成本相差约30倍，一家电商平台接入AI客服后人工团队大幅缩减，一年节省人力成本超百万元。</p>
-<p>成本落差让许多企业选择AI客服，但部分企业算着算着就把“服务账”算偏了。</p>
-<p>“客服部门在很多企业被定义为‘成本中心’，首要考核指标就是压降成本。”中国法学会消费者权益保护法研究会副秘书长陈音江说，当降本成为第一目标，AI客服就不只是“服务助手”，还被赋予拦截诉求的功能——菜单多设几层，应答多绕几圈，把消费者耐心磨没了，维权的人就少了，报表上的投诉率也更“好看”了。有业内人士透露，部分企业考核重心已转向“AI拦截率”而非问题解决率，有的“障碍设计”能拦截七成转人工请求。</p>
-<p>“这是一种错误的‘降本增效’。”对外经济贸易大学法学院教授、消费者保护法研究中心主任苏号朋直言，“从表面看客服成本降了，但问题并没有解决，只是被推迟、掩盖，转化为重复咨询、舆情发酵、退货流失和品牌损伤，这笔隐性成本远比省下的人工费高。”</p>
-<p>技术局限也加剧了体验割裂。当前不少AI客服仍依赖关键词匹配与预设话术，缺乏深度语义理解——用户说“重启无效”，AI客服还在重复“建议重启”；用户情绪激动，AI客服依旧只机械推送菜单。更深层的症结在于责任边界模糊：AI客服作出承诺、消费者据此决策后，一旦起纠纷，部分企业便以“AI回答不代表公司立场”一推了之。</p>
-<p>“这种‘技术甩锅’在法律上站不住脚。”中消协法律顾问廖怀学分析，企业自行部署的AI客服是经营服务链条的组成部分，在官方平台的答复代表企业立场。依据消费者权益保护法，经营者对消费者就其提供的商品或者服务的质量和使用方法等问题提出的询问，应当作出真实、明确的答复，这项义务不以服务载体是人工还是AI而改变。</p>
-<p>AI客服的“堵点”，正在迎来制度层面的疏通。</p>
-<p>此次国标落地，为人工与智能客服协同划定了清晰边界。</p>
-<p>参与标准起草的才博智慧治理研究院院长吴岩松介绍了这项国标的重点要求：入口醒目，禁止层层隐藏人工入口；分工明确，涉及复杂纠纷、资金争议、人身财产安全风险及用户明确要求转人工的场景必须及时转接，价格、退款、赔偿等关键事项由人工最终确认；切换顺畅，人机切换时系统须完整传递交互记录，不得要求消费者重复陈述；责任清晰，明确企业需对AI客服回复内容负责，不能以“算法自动生成”为由推卸责任。</p>
-<p>“这项国标是推荐性标准，但绝非‘没有牙齿’。”廖怀学解释，它将成为监管部门开展行政检查、服务质量评估的重要参照，不符合标准的企业可能被要求整改；发生纠纷时，也会成为消费者维权、司法裁判的重要依据。</p>
-<p>治理AI客服乱象的“组合拳”正在形成。7月15日起施行的《人工智能拟人化互动服务管理暂行办法》明确要求，拟人化互动服务提供者应当落实拟人化互动服务安全主体责任，配备与服务类型、规模和用户特点相适应的内容管理技术措施和人员；消费者权益保护法实施条例、电子商务法也对经营者建立便捷投诉处理机制作出规定。中消协近期专门发声，敦促经营者加强审核管理；浙江、广东、北京等地消协组织已陆续开展约谈。</p>
-<p>部分头部企业也开始调整，有的将“转人工”按钮提升到首页，有的探索“AI+人工”深度协同，售后成本下降的同时，用户满意度有所提升。</p>
-<p>“技术赋能消费，服务要有温度。”陈音江认为，治理关键在于推动企业从“成本控制导向”转向“消费者体验导向”。郭耀宗提醒，涉及价格、合同、售后等重要信息不宜仅依据AI内容作决定，遇到转人工难注意留存证据，及时向12315或消协组织投诉维权。</p>
-<p>当企业不再把AI当作“甩锅”的挡箭牌，而是“搭桥”的服务者，当“一键转接人工”成为标配，AI客服才能更好便民利企。随着国标落地和多方协同推进，有速度、有温度的消费服务环境将加速形成。</p>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="影石Insta360推出Osmo Pocket单摄竞品，且在美国市场切实可购" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>影石Insta360推出的首款紧凑型手持云台相机Luna Ultra在今年凭借双镜头配置先于大疆亮相，引发了巨大轰动。如今，该公司在Ultra之后又推出了略作简化的Pro版本。该型号缩减为单镜头，但拥有一个独特的优势：能够拍摄4K竖屏视频。此外，与大疆Osmo Pocket 4不同的是，你可以在美国买到它。</p>
+<p>从核心配置来看，Luna Pro基本上就是去掉了长焦镜头的Ultra。它采用了与Ultra主摄相同的1英寸型8K传感器，外观设计也颇为相似，包括可兼作遥控器的2英寸可拆卸触控屏、相同的4小时续航时间，以及用于更快传输文件的NFC标签。由于去掉了第二颗镜头，它的体积略小、重量略轻，但大致仅此而已。</p>
+<p>不过，影石Insta360为Pro带来了一项关键升级：它可以利用这颗8K传感器以30fps的帧率录制4K竖屏视频，而这是Luna Ultra所欠缺的功能（不过我已向影石Insta360询问是否能期待通过固件更新加入该功能）。那款相机——就像大疆的Osmo Pocket 4和4P两款机型一样——在竖屏拍摄时分辨率被限制在3K，迫使部分用户为了获得所需画面而不得不将整个云台横过来握持。看到Pro弥补了这一遗憾，确实令人欣慰。</p>
+<p>[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-2.jpg?quality=90&amp;strip=all]<br />[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-5.jpg?quality=90&amp;strip=all]<br />[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-4.jpg?quality=90&amp;strip=all]<br />[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta360-luna-pro-6.jpg?quality=90&amp;strip=all]</p>
+<p>Luna Pro现已在美国上市，售价为599.99美元，相比之下Luna Ultra售价为769.99美元。在欧洲，该产品起售价为469英镑/529欧元，仅略高于大疆Osmo Pocket 4（429英镑/479欧元）。而由于针对该公司的禁令，大疆Osmo Pocket 4在美国（官方渠道）已无法购买。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Insta360推出了紧凑型云台相机Luna Pro，该机型采用单镜头设计，去掉了长焦镜头，比Luna Ultra更轻小。</li>
+    <li>Luna Pro支持以30fps录制4K竖屏视频，而Luna Ultra和大疆Osmo Pocket 4及4P在人像竖屏模式下仅限3K分辨率。</li>
+    <li>来源叙事重点：聚焦Insta360 Luna Pro的核心规格更迭（单镜头、4K竖屏录制升级）与价格定位，并重点突出在大疆因禁令受阻于美国市场的背景下，该产品作为大疆Osmo Pocket有力替代品的市场竞争优势。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-tum-to-end-fgm-worldwide-c5b3938ea60451e9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="280" data-content-paragraphs="3" data-published-at="2026-09-11T04:00:04.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 12:00</span>
+</div>
+
+### [1500万美元基金启动 旨在凝聚“不可阻挡的势头”在全球终结女性割礼](https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide)
+<div class="original-title-sub"><span class="orig-tag">原文</span> $15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide</div>
+
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/e66ba0e6f0cdfc07dc7018314386caa02a716e6f/376_0_3542_2833/master/3542.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e6941dbf3f5da494f1f869983a43693" alt="1500万美元基金启动 旨在凝聚“不可阻挡的势头”在全球终结女性割礼" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>“她的地平线基金”（Her Horizon Fund）寻求筹集1亿美元，以终结这一伤害全球2.3亿妇女和女童的陋习。</p>
+<p>在抗击女性生殖器割礼（FGM）第一线的行动者与倡导领袖对设立一笔史无前例的1550万美元（约合1140万英镑）基金表示欢迎。目前全球已有超过2.3亿妇女和女童受到女性生殖器割礼的伤害，该基金旨在凝聚“不可阻挡的势头”，以彻底终结这一恶习。</p>
+<p>该基金启动之际，正值女性权利日益受到冲击、捐赠资金大幅锐减之时，特别是由当地社区女性生殖器割礼幸存者主导的各项工作面临严峻的资金匮乏。据信，这是迄今为止旨在终结女性生殖器割礼陋习的最大单笔慈善捐助。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Her Horizon Fund正在寻求1亿美元资金，以终结全球影响2.3亿女性和女童的女性割礼（FGM）现象。</li>
+    <li>抗击女性割礼的一线活动人士和领袖对一项1550万美元（约合1140万英镑）的基金表示欢迎，该基金旨在形成彻底终结该做法的不可阻挡之势。</li>
+    <li>来源叙事重点：聚焦Her Horizon Fund设立1550万美元（目标1亿美元）抗击女性割礼的里程碑意义，突出在全球女性权益受压制及捐赠资金断崖式下跌的危机背景下，该笔慈善基金对基层幸存者与一线活动人士的关键支持。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-society-2186119-ab3e96aacf16ac6d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="624" data-content-paragraphs="5" data-published-at="2026-09-11T11:22:35.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🛡️ 军事防务安全</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 19:22</span>
+</div>
+
+### [多部俄罗斯影片将在埃及青年电影节展映](https://tass.com/society/2186119)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Russian movies to be shown at youth film festival in Egypt</div>
+
+<div class="article-body" data-article-body="true"><p>塔斯社莫斯科9月11日电 俄罗斯国家电影推广机构俄罗斯电影公司（Roskino）在一份声明中表示，四部俄罗斯电影已入围9月10日至15日在埃及举行的赫尔格达国际青年电影节的竞赛及非竞赛单元。</p>
+<p>声明称：“赫尔格达国际青年电影节于9月10日至15日在埃及红海省首府赫尔格达市举行。俄罗斯电影将作为该电影节竞赛及非竞赛单元的一部分进行展映。”</p>
+<p>竞赛单元包括阿尔乔姆·米哈尔科夫（Artyom Mikhalkov）执导的体育剧情片《争金划行》（Rowing for Gold），该片讲述了一名年轻赛艇运动员为实现参加奥运会的目标而历经艰辛的故事。</p>
+<p>非竞赛单元包括亚历山大·科特（Alexander Kott）执导的战争剧情片《北极》（The North Pole）、安东·马斯洛夫（Anton Maslov）执导的爱情喜剧剧情片《爱的许可证》（License to Love），以及康斯坦丁·斯米尔诺夫（Konstantin Smirnov）执导的动作喜剧片《小陀螺》（Volchok）。这些俄罗斯电影将在赫尔格达大影城（Grand Cinema Hurghada）放映。</p>
+<p>此外，该电影节还将设立一个特别动画展映单元，以纪念俄罗斯联盟动画电影制片厂（Soyuzmultfilm）成立90周年。该特别项目将由联盟动画电影制片厂执行制片人阿纳斯塔西娅·杰缅季耶娃（Anastasia Dementyeva）主持推介，她还将担任短片竞赛单元的评审团成员。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-11 19:22 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#军事防务安全</span>
+  <span class="news-tag-pill">#TASS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://tass.com/society/2186119" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-11-10694911-shtml-cbd526e731dfec53" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="863" data-content-paragraphs="29" data-published-at="2026-09-11T11:20:18.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 19:20</span>
+</div>
+
+### [外媒：缅甸机场在无人机袭击后关闭](https://www.chinanews.com.cn/gj/2026/09-11/10694911.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网9月11日电 据法新社报道，缅甸安全部门消息人士称，缅甸曼德勒机场因无人机袭击导致航班中断，将从当地时间11日开始关闭两天。</p>
+<p>曼德勒机场是缅甸中部国际和国内旅行枢纽，但民用防空预警组织也将其列为军用飞机可以起飞的机场。</p>
+<p>缅甸政府在一份声明中表示，10日下午，六架“自杀式无人机”袭击了该机场，没有造成人员伤亡，但扰乱了航班时刻表。</p>
+<p>报道称，一位消息人士11日透露：“曼德勒机场今天和明天将关闭。”</p>
+<p>“袭击事件发生在距离机场大楼一段距离的地方，机场已关闭。”消息人士说。</p>
+<p>另一名在缅甸机场工作的保安人员证实，曼德勒机场将“关闭进行维护”，直至13日。</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>一碗泡面诱发痛风？这些高嘌呤食物容易被忽略</p>
+<p>明明一直在吃，却重度低钾？这些行为正悄悄掏空你的身体</p>
+<p>不能回家的除了旅行青蛙，可能还有玩家的钱</p>
+<p>250元的AI工具积分只卖8.8元？小心你的代码被截留倒卖</p>
+<p>也门打起来了！全球两大航运“油管”同时动荡</p>
 <p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
 <p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
 <p>2026年国家基本医保药品目录预计于11月发布</p>
 <p>中国疾控中心提示：9月重点防范这几类传染病</p>
 <p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
-<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
-<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
 <p>印度大厨在北京：美食是连接人与文化的桥梁</p>
 <p>大型活动吃饭高峰排长队？炒菜机器人：5分钟就出一锅菜</p>
 <p>三峡水库2026年度蓄水启动 航道部门全力筑牢安全屏障</p>
@@ -1057,162 +963,55 @@ notice:
 <p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
 <p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
 <p>北京2027年世界田径锦标赛进入倒计时一周年</p>
-<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
-<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-11 09:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#中新网</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gn/2026/09-11/10694401.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-tim-islamophobic-attacks-51614e78436bbcee" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1509" data-content-paragraphs="17" data-published-at="2026-09-11T00:57:26.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 08:57</span>
-</div>
-
-### [Rachel女士为争议中的“很棒”Mamdani辩护，称其是伊斯兰恐惧症攻击的受害者](https://www.foxnews.com/media/ms-rachel-defends-awesome-mamdani-amid-911-memorial-controversy-says-victim-islamophobic-attacks)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Ms Rachel defends &#39;awesome&#39; Mamdani amid 9/11 memorial controversy, says he&#39;s victim of Islamophobic attacks</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/ms-rachel-antisemitism-fox-news.jpg?ve=1&amp;tl=1" alt="Rachel女士为争议中的“很棒”Mamdani辩护，称其是伊斯兰恐惧症攻击的受害者" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>左翼儿童领域网红Rachel女士在纽约市市长Zohran Mamdani是否应出席“9·11”事件25周年纪念活动的争议中，对他表示了赞扬。</p>
-<p>政治上的怨恨正威胁着给今年9月11日的纪念活动蒙上长久阴影；这些活动旨在纪念那场震撼美国、距今已25年的悲剧。纽约市市长Zohran Mamdani过去的言论以及他与恐怖主义同情者的联系，在纽约市纪念世贸中心袭击事件的活动临近之际引发了强烈反弹。共和党人以及那些因这场袭击而改变人生的人士要求他不要出席。</p>
-<p>Rachel女士的真名是Rachel Accurso。她似乎在纪念活动前夕通过Instagram上的一则社交媒体帖子回应了这场争议。帖子中的截图显示，她在声明中写道：“Mamdani市长很棒。我见过他，他真的很关心纽约人。他是一个非常善良、温和的人。我们的纽约市学前教育课程教导孩子们要友善、尊重不同的宗教和文化，并为自己的身份感到自豪。”</p>
-<p>她总结道：“成年人仍然因为宗教和肤色而彼此评判、仇恨和攻击，这是不可接受的。我们应该为孩子们树立更好的榜样。”</p>
-<p>“9·11”遇难者家属推动禁止Mamdani参加25周年纪念活动，称其有“敌意”记录</p>
-<p>她还在该帖文的说明文字中补充道：“看到一些基督徒表达仇恨和伊斯兰恐惧症，同样令人非常失望。耶稣是犹太人；他在‘好撒玛利亚人’的寓言中教导我们，我们的邻人并不只是与我们信仰相同的人。”</p>
-<p>围绕Mamdani是否应参加任何“9·11”纪念活动，外界一直存在广泛争议，依据是他本人的政治立场以及其关联人士的立场。</p>
-<p>一份由9月11日遇难者家属发起的网络请愿书呼吁Mamdani不参加纪念活动，目前已有超过10万人签名。</p>
-<p>请愿书称：“Mamdani先生曾赞扬布鲁克林伊玛目Siraj Wahhaj。后者与激进伊斯兰主义有关联，在1993年世贸中心爆炸案中被列为涉嫌共谋者，并曾作为‘盲人谢赫’的品格证人；后者于1995年因策划对美国发动恐怖袭击而被定罪。”</p>
-<p>请愿书还称：“Mamdani先生曾支持Aber Kawas等候选人。Kawas曾将‘9·11’描述为‘几个人在美国资本主义、种族主义、白人至上主义和伊斯兰恐惧症背景下实施的一次袭击’，并对Ahmed Ferhani表达过同情。Ferhani曾对策划炸毁曼哈顿一座犹太教会堂的罪行认罪。”</p>
-<p>Mamdani以及其他社会主义候选人与极左翼活动人士Hasan Piker的关联，也因Piker过去发表的言论而受到密切审视。Piker曾表示美国“罪有应得”，应该遭受这些袭击；尽管他当时很快收回了相关言论，但这些话仍持续困扰着他及其政治圈子。Mamdani本人也谴责过这番言论。</p>
-<p>Hasan Piker对认为他是负担的民主党人不予理会，并公布其“2028年选择”</p>
-<p>Mamdani还因在一场“9·11”纪念活动中，将一支纪念仪式用笔交给一名曾代理一名被定罪的基地组织成员的高级助手，而遭到反弹。</p>
-<p>Mamdani将这支笔交给了其首席法律顾问Ramzi Kassem。Kassem此前曾代理Ahmed al-Darbi。后者曾就与基地组织策划袭击商船有关的战争罪指控认罪；他还是Khalid al-Mihdhar的姐夫。Khalid al-Mihdhar是搭乘美国航空公司77号航班的劫机者之一，该航班后来撞向五角大楼，造成184人死亡。</p>
-<p>福克斯新闻数字版联系了Mamdani的办公室，但尚未立即收到回应。</p>
-<p>点击此处获取更多媒体与文化报道</p>
-<p>福克斯新闻数字版的Elizabeth Elkind、Amanda Macias和Matthew Donnell对本报道亦有贡献。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-11 08:57 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/media/ms-rachel-defends-awesome-mamdani-amid-911-memorial-controversy-says-victim-islamophobic-attacks" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--accusing-patrick-clancy-69b559217092682f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1805" data-content-paragraphs="28" data-published-at="2026-09-11T00:46:03.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 08:46</span>
-</div>
-
-### [林赛·克兰西辩护律师痛批针对帕特里克·克兰西的阴谋论](https://www.foxnews.com/us/lindsay-clancys-lawyer-torches-conspiracy-theories-accusing-patrick-clancy)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Lindsay Clancy&#39;s lawyer torches conspiracy theories accusing Patrick Clancy</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Clancy-Kids.jpg?ve=1&amp;tl=1" alt="林赛·克兰西辩护律师痛批针对帕特里克·克兰西的阴谋论" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>林赛·克兰西（Lindsay Clancy）的辩护律师凯文·雷丁顿（Kevin Reddington）在接受福克斯新闻（Fox News）新采访时，强力为帕特里克·克兰西（Patrick Clancy）辩护，驳斥了网络上关于这位三个孩子的父亲以某种方式卷入其子女死亡的揣测，并称他所经受的磨难是“极其可怕的”。</p>
-<p>在林赛·克兰西谋杀案流审（mistrial）后，雷丁顿在与福克斯新闻记者布莱恩·利亚纳斯（Bryan Llenas）交谈时表示，尽管经过多年的调查，他仍不断听到指控帕特里克·克兰西的言论。</p>
-<p>“我对那些人的回应是，在某个时刻，或许你该有机会听听那通911报警电话录音，然后你直视我的眼睛告诉我，你是否真觉得是帕特里克·克兰西干的，”雷丁顿说。“这个人所经历的一切太可怕了。”</p>
-<p>当被问及是否“绝无可能”是帕特里克·克兰西负有责任时，雷丁顿进一步重申了自己的立场。</p>
-<p>【相关链接：林赛·克兰西律师在重审临近之际透露流审后的应对策略】</p>
-<p>“我从未说过是他干的。我也永远不会说。我不认为证据显示是他干的，”雷丁顿回答道。“我知道证据在产后精神疾病方面表明了什么。那就是本案的辩护理由。”</p>
-<p>雷丁顿还驳斥了有关帕特里克·克兰西在夫妻俩的三名子女身亡前疏于照顾或未能支持妻子的说法。</p>
-<p>“他怎么就疏于照顾了？”雷丁顿说。“这个男人一直陪伴着她，带她去看医生，努力为她发声求助，一直给予她支持。”</p>
-<p>他表示，帕特里克·克兰西目睹了林赛·克兰西饱受失眠和其他症状的折磨，辩方认为这些症状与严重的产后精神疾病相吻合。</p>
-<p>雷丁顿还为帕特里克·克兰西在孩子们惨遭不幸后选择再婚的决定进行了辩护，称他“有权继续自己的生活”。这是林赛·克兰西本人也能理解的事情。</p>
-<p>【相关链接：支持辩方的林赛·克兰西案陪审员曾公开为凯伦·里德的无罪判决欢呼】</p>
-<p>“她完全没有任何怨尤，绝不会说帕特里克·克兰西半句坏话，”雷丁顿在谈及他的当事人时说道。</p>
-<p>该案引发了广泛关注，尤其是在网络上，激烈的争论和推测滋生了各种关于事件真相的阴谋论。</p>
-<p>雷丁顿还反驳了检方的一项核心论点，即林赛·克兰西通过打发帕特里克·克兰西外出办事来精心策划了谋杀。辩护律师指出，该理论与证据不符，并提到了检方在庭审中重点指出的苹果地图（Apple Maps）搜索记录。</p>
-<p>“检方的立场是这是一场预谋，”雷丁顿说。“那么，她为什么还要在谷歌上搜索前往CVS药房需要9分钟和3分钟的距离呢？”</p>
-<p>【相关链接：林赛·克兰西案流审数天后，另一名被控杀害子女的马萨诸塞州母亲寻求重获自由】</p>
-<p>雷丁顿辩称，如果林赛·克兰西蓄意杀害孩子，她根本不需要等帕特里克·克兰西离开房子。</p>
-<p>“这个女人如果真想策划这件事，在他在楼下工作时她就能对那些孩子下手，”他说。“这太荒唐了。”</p>
-<p>【相关链接：报道称，在陪审员就流审公开发声后，林赛·克兰西的律师表示计划提出新的撤诉动议】</p>
-<p>雷丁顿还对苹果地图的搜索记录给出了另一种解释，称林赛·克兰西在独自照料孩子一整天后已经不堪重负，急切想知道丈夫何时能回家。</p>
-<p>“她当时已经濒临崩溃，需要他回家，”雷丁顿说。“那时是洗澡时间。是该哄孩子们上床睡觉的时间了。她必须知道他快要回来了。”</p>
-<p>他表示，这些搜索记录与辩方的论点完全一致，即林赛·克兰西正在与严重的产后精神疾病抗争，而不是在执行精密的杀人计划。</p>
-<p>“如果她真的在那样做，她就会像当时那样去谷歌搜索，而且她会对产后精神病的每一个症状都了如指掌，”雷丁顿说。“她说的是真话。”</p>
-<p>雷丁顿还驳斥了有关林赛·克兰西捏造幻听以支持其产后精神病辩护的指控。批评者认为所谓的幻听说法显得过于巧合，雷丁顿对此予以否认。</p>
-<p>【喜欢你所阅读的内容吗？点击此处获取更多】</p>
-<p>“面对的是一个非常聪明的女人，我们都知道她在到处谷歌搜索关于精神病的信息，”雷丁顿说。“她在谷歌搜索关于药物的信息。她在谷歌搜索关于副作用的信息。”</p>
-<p>“我知道有些人想看到她被处以电刑。他们想看到她被扔进池塘，像过去对待女巫那样被绑在木头上看她们会不会浮起来。……这些人完全可以爬回他们的地下室里爱说什么说什么。我根本不在乎。”</p>
-<p>上述言论发表前数天，马萨诸塞州的一个陪审团在林赛·克兰西谋杀案庭审中陷入僵局，导致审判无效（流审）。检方已表示打算重新审理此案，而辩方则正在寻求提出动议，要求在任何重审开始前撤销指控或降低谋杀罪名。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-11 08:46 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-11 19:20 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/us/lindsay-clancys-lawyer-torches-conspiracy-theories-accusing-patrick-clancy" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-11/10694911.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-026-09-11-10694396-shtml-b6d1474a2f6a228d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1396" data-content-paragraphs="25" data-published-at="2026-09-11T00:42:26.000Z" data-time-source="publication">
+<div id="story-026-09-11-10694892-shtml-e1b7f259716e6300" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1309" data-content-paragraphs="29" data-published-at="2026-09-11T11:19:48.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 08:42</span>
+  <span class="news-meta-time">🕒 2026-09-11 19:19</span>
 </div>
 
-### [中央气象台：西南地区多阴雨 海南岛等地有大到暴雨](https://www.chinanews.com.cn/sh/2026/09-11/10694396.shtml)
+### [《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览在韩国首尔举办](https://www.chinanews.com.cn/gj/2026/09-11/10694892.shtml)
 
-<div class="article-body" data-article-body="true"><p>中新网9月11日电 据中央气象台网站消息，国内方面，昨日，四川、云南、广西等地出现较强降雨。预计未来三天华西地区多阴雨天气，关注持续性降雨对农业生产、交通等影响；华南南部局地有强降雨，注意防范暴雨次生灾害；内蒙古东北部、黑龙江等地注意防范局地风雹等强对流天气危害。</p>
-<p>昨日，四川东北部和南部、云南、广西西部和南部等地的部分地区出现大雨或暴雨，四川东北部局地大暴雨(100～128毫米)。</p>
-<p>未来三天，四川、重庆、云南、青藏高原、西北地区东部等地部分地区有小到中雨，局地大雨；海南岛、广东、广西等地部分地区有大到暴雨，局地大暴雨；内蒙古东北部、黑龙江等地部分地区有小到中雨，局地大雨，并伴有雷暴大风等强对流天气。</p>
-<p>9月11日08时至12日08时，青海南部、西藏中部和东南部、四川北部和中部、云南西部、海南岛中东部等地部分地区有中到大雨，其中，海南岛东部局地有暴雨(50～75毫米)。台湾海峡、南海北部海域将有6～7级、阵风8级的东北风，东海南部海域、北部湾、琼州海峡、南海中西部海域将有5～6级、阵风7级的东北风(见图1)。</p>
-<p>9月12日08时至13日08时，内蒙古东北部、黑龙江西北部、新疆西部高海拔山区、陕西南部、甘肃南部、青海东南部、四川中北部、西藏东南部、云南西部、广东南部沿海、海南岛等地部分地区有中到大雨，其中，海南岛东部和南部、广东南部沿海等地局地有暴雨或大暴雨(100～180毫米)。内蒙古东部部分地区有5～6级风；北部湾、南海西北部海域将有6～7级、阵风8级的东北风，台湾海峡、琼州海峡、南海东北部海域将有5～6级、阵风7级的东北风，南海中西部海域将有5～6级、阵风7级的东北风转偏南风(见图2)。</p>
-<p>9月13日08时至14日08时，西藏东南部、川西高原南部、黑龙江北部、浙江北部和东部、广东中南部、广西南部、海南岛等地部分地区有中到大雨，其中，海南岛中东部、广东南部等地部分地区有暴雨或大暴雨(100～130毫米)。内蒙古东部、黑龙江西部等地部分地区有5～6级风；北部湾将有6～7级、阵风8级的东北风，南海中西部海域将有5～6级、阵风7级的偏南风，台湾海峡、琼州海峡将有5～6级、阵风7级的偏东到东北风(见图3)。</p>
+<div class="article-body" data-article-body="true"><p>中新网首尔9月11日电 (记者 金旭)《我的南京：一条记忆的江，流过我们，奔向未来之海》主题展览当地时间10日在韩国首尔大学开幕。活动通过主题展览、学术探讨、非遗体验和青年对话等形式，共同回望历史、共话和平。</p>
+<p>此次韩国巡展以南京为叙事起点，系统展出老金陵城的珍贵历史图片、南京大屠杀历史研究最新成果和南京建设国际和平城市纪实，并增设韩国独立运动人士在南京及中国多地并肩战斗的历史板块。</p>
+<p>中国驻韩国大使馆公使衔参赞马贵生表示，南京大学“拉贝日记与和平城市”团队与首尔大学统一和平研究院携手策划，将南京战火中的历史故事、大韩民国临时政府和独立运动人士在南京等地的活动记录一同展出，具有重要意义。期待中韩青年以此为契机，加强交流，增进理解，为两国世代友好贡献青春力量。</p>
+<p>南京大屠杀期间，时任西门子公司南京首席代表的德国人约翰·拉贝，与在南京的部分国际人士一道设立了“南京安全区”，为数十万名中国人提供庇护所。他的日记成为记录南京大屠杀最重要、最详实的史料之一。南京大学团队指导教师陈民称，自2021年成立以来，这支由多专业本硕博学生组成的跨学科团队，始终立足《拉贝日记》与南京国际安全区史实开展文献考证与口述史访谈，累计完成66场访谈，并将成果转化为专著、绘本、微课与多语种海外展览。</p>
+<p>首尔大学统一和平研究院院长金范洙表示，希望本次展览成为首尔大学师生深入了解南京历史、拓展和平思考的宝贵契机，希望青年正确铭记历史伤痛，以积极的姿态共同面向未来。</p>
+<p>首尔大学教授朴镇浩曾赴南京大学访学，他回忆了参观侵华日军南京大屠杀遇难同胞纪念馆时的经历。他表示，约翰·拉贝等人在至暗时刻挺身守护中国百姓的选择彰显了人性光辉，也激励年轻一代携手共筑世界和平与团结。(完)</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>一碗泡面诱发痛风？这些高嘌呤食物容易被忽略</p>
+<p>明明一直在吃，却重度低钾？这些行为正悄悄掏空你的身体</p>
+<p>不能回家的除了旅行青蛙，可能还有玩家的钱</p>
+<p>250元的AI工具积分只卖8.8元？小心你的代码被截留倒卖</p>
+<p>也门打起来了！全球两大航运“油管”同时动荡</p>
 <p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
 <p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
 <p>2026年国家基本医保药品目录预计于11月发布</p>
 <p>中国疾控中心提示：9月重点防范这几类传染病</p>
 <p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
-<p>中新网评：“葫芦娃爷爷”的美好生活不该变成流量素材</p>
-<p>网上销售的便携式甲醛检测仪，精准度高达99.9%？</p>
 <p>印度大厨在北京：美食是连接人与文化的桥梁</p>
 <p>大型活动吃饭高峰排长队？炒菜机器人：5分钟就出一锅菜</p>
 <p>三峡水库2026年度蓄水启动 航道部门全力筑牢安全屏障</p>
@@ -1223,45 +1022,142 @@ notice:
 <p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
 <p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
 <p>北京2027年世界田径锦标赛进入倒计时一周年</p>
-<p>贵州绥阳：“80后”女村医奔走山间24年为村</p>
-<p>河南洛阳：活力新城绘就古今共生“工笔画”</p></div>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-11 08:42 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-11 19:19 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新网</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/sh/2026/09-11/10694396.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-11/10694892.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ode-sixfold-in-2027-html-57b4241b9e83985b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="717" data-content-paragraphs="1" data-published-at="2026-09-10T21:30:00.000Z" data-time-source="publication">
+<div id="story-026-09-11-10694876-shtml-df340aa7fb0c0572" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="974" data-content-paragraphs="29" data-published-at="2026-09-11T11:19:30.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 19:19</span>
+</div>
+
+### [一辆荷兰旅游巴士在瑞士侧翻致5死40伤](https://www.chinanews.com.cn/gj/2026/09-11/10694876.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社北京9月11日电 伯尔尼消息：瑞士格劳宾登州警方当地时间11日说，一辆荷兰旅游巴士10日在该州发生侧翻，已造成5人死亡、40人受伤。</p>
+<p>综合美联社、路透社等媒体消息，警方说，涉事巴士10日下午从采尔内茨开往苏施，途中在一处施工路段撞上护栏，随后发生侧翻。一支配备多架直升机的大型救援队被派往事故现场。</p>
+<p>多家媒体发布的现场画面显示，一辆巴士侧翻在一条乡村公路旁的草地上，多辆救护车停在附近，救援人员在现场进行救援工作。</p>
+<p>警方称，车上共有45名成年人。死者身份尚未确认，伤者中有3人伤势严重，7人伤势较重，30人伤势较轻。</p>
+<p>荷兰旅游企业总协会发言人兼OAD旅行社发言人表示，OAD旅行社一辆巴士发生严重事故，车上乘客均为荷兰公民。</p>
+<p>瑞士检察官和警方正对事故展开调查，没有其他车辆牵涉其中。瑞士联邦主席帕姆兰通过社交媒体向遇难者家属表示慰问，并表示会展开“全面彻底调查”。(完)</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>一碗泡面诱发痛风？这些高嘌呤食物容易被忽略</p>
+<p>明明一直在吃，却重度低钾？这些行为正悄悄掏空你的身体</p>
+<p>不能回家的除了旅行青蛙，可能还有玩家的钱</p>
+<p>250元的AI工具积分只卖8.8元？小心你的代码被截留倒卖</p>
+<p>也门打起来了！全球两大航运“油管”同时动荡</p>
+<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
+<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
+<p>2026年国家基本医保药品目录预计于11月发布</p>
+<p>中国疾控中心提示：9月重点防范这几类传染病</p>
+<p>中新网评：“鬼秤”闹的不是鬼，是信任危机</p>
+<p>印度大厨在北京：美食是连接人与文化的桥梁</p>
+<p>大型活动吃饭高峰排长队？炒菜机器人：5分钟就出一锅菜</p>
+<p>三峡水库2026年度蓄水启动 航道部门全力筑牢安全屏障</p>
+<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
+<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
+<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-11 19:19 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-11/10694876.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-tagon-more-top-headlines-7cefa484683b529c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1338" data-content-paragraphs="1" data-published-at="2026-09-11T11:17:49.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 19:17</span>
+</div>
+
+### [特朗普将在五角大楼向“9·11”遇难者及救援人员致敬等头条新闻](https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump set to honor 9/11 victims and first responders at Pentagon and more top headlines</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/524/trump-at-pentagon-9-11-memorial.jpg?ve=1&amp;tl=1" alt="特朗普将在五角大楼向“9·11”遇难者及救援人员致敬等头条新闻" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>1. 特朗普将在五角大楼向“9·11”遇难者及第一响应人员致敬<br />2. 随着共和党大会闭幕，特朗普就中期选举发出直截了当的警告<br />3. 查理·柯克的支持者在暗杀发生一年后重返现场<br />扰乱者被驱逐 —— 万斯在共和党演讲中用一句犀利的讽刺让一名挥舞外国国旗的起哄者闭嘴。继续阅读……<br />坚定信念 —— “9·11”事件“最后的幸存者”透露被埋在废墟下27小时后的神秘遭遇。继续阅读……<br />阴谋反击 —— 随着各种猜测四起，林赛·克兰西的律师透露了她对前任帕特里克的真实感受。继续阅读……<br />庄严肃穆的对峙 —— 佐兰·马姆达尼不理会“9·11”遇难者家属要求其缺席“世贸中心遗址”（Ground Zero）纪念活动的呼吁。继续阅读……<br />被窃取的纽带 —— “9·11”的一通电话在25年后依然萦绕在心头，女儿将悲痛化为援助。继续阅读……<br />多数席位面临争夺 —— 共和党实力派发起大规模资金攻势，在关键参议院竞选中力挺肯·帕克斯顿。继续阅读……<br />政治谴责 —— 安大略省省长敦促选民在中期选举中就贸易战问题向特朗普问责。继续阅读……<br />黄金时段正面交锋 —— 万斯宣称民主党是“仇恨之党”，称该党已越过大政府的范畴。继续阅读……<br />收紧天罗地网 —— 美国将“Los Tiguerones”列入拉美恐怖组织名单。继续阅读……<br />点击此处查看更多漫画……<br />故事时间政治 —— 瑞秋女士在“9·11”纪念活动争议中为马姆达尼辩护。继续阅读……<br />立场检验 —— 民主党代表删除了此前批评美国广播公司（ABC）避免让吉米·坎摩尔采访塔拉里科的帖子。继续阅读……<br />愤怒机器 —— 奈飞为其发布的内容辩护，保守派指责该内容在查理·柯克逝世周年之际针对他。继续阅读……<br />相互赞赏 —— 梅根·拉皮诺埃声称女子体育的兴起导致了“平等权利”的“倒退”。继续阅读……<br />弗兰克·席勒 —— 在“9·11”那天，所有人都在逃离。而我的兄弟却冲向了双子塔。继续阅读……<br />约翰·翁德拉西克 —— “9·11”教会了我们关于勇气、团结与自由代价的一切。继续阅读……<br />家丑外扬 —— 阿隆·罗杰斯称谢琳·伍德蕾在两人分手后做出了令人震惊的坦白。继续阅读……<br />堆叠风暴 —— 温迪汉堡（Wendy&#39;s）的9层肉饼怪兽汉堡重新登场，售价30美元，热量达3000卡路里。继续阅读……<br />陷入困境 —— 加州一家经营了36年的知名连锁店申请破产。继续阅读……<br />数码新闻问答 —— 谁辞去了工作并预言了人工智能末日？耐克遭遇了什么重大挫折？点击此处参与测验……<br />由比尔·赫默在“9·11”国家纪念馆暨博物馆现场主持的《福克斯新闻回眸：9·11》最终集，汇集了杰出嘉宾与博物馆领导人，共同反思25年来的疗愈、韧性与荣光。此外，千万不要错过独家视频内容，让我们一同见证美国如何将缅怀的重任传递给下一代。立即在此收听并观看独家视频内容……<br />播客《冷酷无情》（Ruthless）深入探讨历史性的中期选举大会以及特朗普的重大时刻。快来看看吧……<br />《莱利·盖恩斯秀》纪念查理·柯克逝世一周年。<br />东部时间上午10点收看最新一期……<br />你的社区现在情况如何？继续阅读……<br />福克斯娱乐新闻（FOX411）<br />感谢您选择我们作为早间资讯首选！周一清晨，我们邮箱再见。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-11 19:17 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--east-war-escalates-html-ea47e32cb15d84d7" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="747" data-content-paragraphs="6" data-published-at="2026-09-11T10:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 05:30</span>
+  <span class="news-meta-time">🕒 2026-09-11 18:30</span>
 </div>
 
-### [欧佩克预计2027年石油需求增幅将飙升至六倍以上](https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Explode-Sixfold-in-2027.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OPEC Sees Oil Demand Growth Explode Sixfold in 2027</div>
+### [中东战争升级 霍尔木兹海峡船舶通航量骤降](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Plunges-as-Middle-East-War-Escalates.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Hormuz Shipping Traffic Plunges as Middle East War Escalates</div>
 
-<div class="article-body" data-article-body="true"><p>欧佩克目前预计，全球石油需求增幅将从今年每日仅38万桶跃升至2027年的每日236万桶——一年之内增幅超过六倍。欧佩克在9月《石油市场月度报告》中下调了对2026年需求增幅的预测，并预计今年石油日消费总量为1.0584亿桶。对于2027年，欧佩克上调了预测，预计全球石油需求将达到每日1.0819亿桶。中国的变化尤为明显。欧佩克预计，中国今年石油需求仅增长每日1万桶，消费量基本持平于每日1690万桶。2027年，欧佩克预计中国需求将增加每日38万桶，达到每日1728万桶。印度的变化更加显著。预计印度2026年需求增幅仅为每日6万桶。欧佩克预计，明年印度需求将再增加每日40万桶，使其石油消费量升至每日611万桶。预计经合组织国家今年的石油需求将减少每日11万桶。欧佩克预计，2027年经合组织国家需求将增长每日43万桶，其中美洲、欧洲和亚太地区均将有所增加。明年全球需求增量的大部分将来自非经合组织国家。非经合组织国家的石油需求合计增幅将从2026年的每日49万桶加快至2027年的每日192万桶。仅中国、印度和亚洲其他地区，便将贡献其中近每日120万桶的增量。按照这一预测，参与《合作宣言》的国家对原油的需求将大幅增加，欧佩克自身的原油供应也将面临更大的需求。预计这些国家对原油的需求将从2026年的每日4220万桶增至明年的每日4390万桶。欧佩克将这一增幅定为约每日160万桶。今年以来，欧佩克已多次下调2026年石油需求增幅预测。欧佩克迈入2027年时所持的需求预测将与2026年大相径庭：年度需求增幅将额外增加约每日200万桶，而且这一增长几乎完全由经合组织以外的国家引领。朱莉安·盖格尔为Oilprice.com撰写。</p></div>
+<div class="article-body" data-article-body="true"><p>路透社援引克普勒（Kpler）截至周五早些时候的初步船舶追踪数据报道称，周四通过霍尔木兹海峡的船舶通航量骤降至个位数，而此前双向通过该咽喉要道的10天平均值为15艘。数据显示，在过去24小时内，仅有7艘船只通过霍尔木兹海峡，其中出境2艘、入境5艘；该数据仅统计了开启定位系统的船只。据信，“暗航”（关闭追踪系统航行）的船只数量要高得多，因为船东和商品买家更倾向于关闭船舶的自动识别系统（AIS），以避免在霍尔木兹海峡被探测和成为攻击目标。</p>
+<p>随着敌对行动再次升级、油轮遭受袭击，以及红海地区与伊朗结盟的胡塞武装对沙特航运构成相对较新的威胁，船东和能源出口商在穿越霍尔木兹海峡时变得愈发谨慎。</p>
+<p>本周国际油价跃升至每桶100美元以上，并在周五早些时候有望自5月以来首次收于每桶100美元大关上方。中东地区的敌对冲突仍在持续，美国与伊朗之间进行和平谈判的前景似乎比几周前更加渺茫。</p>
+<p>荷兰国际集团（ING）大宗商品策略师沃伦·帕特森（Warren Patterson）和埃瓦·曼特（Ewa Manthey）在周五早间的一份报告中写道：“石油价格的坚挺表现反映出市场目前正在对冲突的持续时间和严重程度进行重新定价，同时也更清晰地认识到了该地区供应面临的与日俱增的威胁。”策略师们补充道：“尽管仍有可观的运输量正在通过霍尔木兹海峡，但流量仍远低于战前水平，这凸显了当前局势已经变得多么脆弱。”</p>
+<p>大多数估计认为，目前离开该海峡的原油和石油产品日流量约为1000万桶，其中900万桶为原油。然而，这一运输量仍仅为战前水平的一半，同时燃料供应依然受到严重限制，进一步给本已非常紧张的中间馏分油市场带来压力。</p>
+<p>文/茨韦塔娜·帕拉斯科娃（Tsvetana Paraskova），来自 Oilprice.com</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-11 05:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-11 18:30 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1271,29 +1167,32 @@ notice:
   <span class="news-tag-pill">#OilPrice</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Explode-Sixfold-in-2027.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Plunges-as-Middle-East-War-Escalates.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--first-electrostate-html-b95719ed64031df7" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="507" data-content-paragraphs="1" data-published-at="2026-09-10T21:00:00.000Z" data-time-source="publication">
+<div id="story--conflict-escalates-html-38f9adced63de182" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="715" data-content-paragraphs="4" data-published-at="2026-09-11T08:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 05:00</span>
+  <span class="news-meta-time">🕒 2026-09-11 16:00</span>
 </div>
 
-### [中国如何成为全球首个“电力大国”](https://oilprice.com/Energy/Energy-General/How-China-Became-the-Worlds-First-Electrostate.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> How China Became the World&#39;s First Electrostate</div>
+### [随着中东冲突升级，油价或将突破120美元](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Could-Top-120-as-Middle-East-Conflict-Escalates.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Oil Prices Could Top $120 as Middle East Conflict Escalates</div>
 
-<div class="article-body" data-article-body="true"><p>点击此处查看 150 多种全球石油价格<br />欧佩克预计 2027 年石油需求增长将激增六倍<br />短期内难以得到缓解，……<br />特朗普政府正在关注……<br />雪佛龙、微软以及一波……<br />海莉·扎伦巴（Haley Zaremba）是一名能源记者兼研究员，在涵盖全球能源系统、土地与自然资源以及……领域拥有超过十年的专业经验<br />来自 Oilprice.com 的更多精选阅读<br />今年二叠纪盆地天然气已有 118 天价值低于零（倒贴钱）<br />油价上涨使墨西哥得以减少对墨西哥国家石油公司（Pemex）数十亿美元的援助<br />WTI 原油突破 100 美元——且本轮涨势仍有后劲<br />随着美方摧毁五艘伊朗油轮，油价触及 100 美元<br />加拿大石油进一步打入美国墨西哥湾沿岸市场<br />随着霍尔木兹海峡僵局持续，伊朗石油出口崩溃<br />华盛顿的委内瑞拉石油协议远不止关乎原油<br />本网站上提供的材料仅用于提供信息和教育目的，无意提供税务、法律或投资建议。<br />本网站所包含的任何内容均不应被视为在任何司法管辖区内向任何人推荐、要约邀请或要约买卖任何证券。<br />商户实体（Merchant of Record）：以 Oilprice.com 名义进行交易的 A Media Solutions</p></div>
+<div class="article-body" data-article-body="true"><p>据路透社援引加拿大皇家银行资本市场（RBC Capital Markets）分析师赫利玛·克罗夫特（Helima Croft）的警告称，如果中东地区的战事持续，布伦特原油价格在年底前可能会突破每桶120美元。该分析师表示：“随着胡塞武装推进，途经曼德海峡的海上交通面临严重威胁。”此前有新闻报道称，也门胡塞武装已控制红海港口摩卡（Mokha），这将使其能够对沙特能源基础设施以及红海中的油轮发起更直接的袭击。与此同时，阿拉伯半岛另一侧的霍尔木兹海峡局势也在升级，这已推动布伦特原油和西得克萨斯中质原油（WTI）双双突破每桶100美元。据路透社报道，今天早些时候，布伦特原油价格一度逼近每桶110美元。</p>
+<p>由于对通胀的担忧居高不下，最新的油价上涨引发了债券收益率的再度飙升，促使投资者为主要市场央行的加息做好准备。根据摩根大通（JP Morgan）的最新预测，到今年年底，包括美国、日本、欧洲四家央行（含欧洲央行）以及澳大利亚和新西兰在内的八到九个发达经济体可能会提高利率。该行分析师表示：“目前预计紧缩力度将保持温和，但面对具有韧性的增长、具有粘性的核心通胀以及大宗商品价格压力，我们预测的风险倾向于各央行采取更多行动。”</p>
+<p>彭博社今日报道称，亚洲各经济体也正在感受到这种痛楚，指出在该地区油价攀升和柴油价格飙升的背景下，各国政府将需要向企业和家庭提供更多财政援助。从目前中东局势的发展来看，缓解情况的希望十分渺茫。特朗普总统本周早些时候表示，战争将在11月大选后结束，但随着战斗仍在继续且双方均未提及和平谈判，许多人对能否实现这一结果表示怀疑。</p>
+<p>本文由伊琳娜·斯拉夫（Irina Slav）为 Oilprice.com 撰写。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-11 05:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-11 16:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1303,50 +1202,115 @@ notice:
   <span class="news-tag-pill">#OilPrice</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Energy/Energy-General/How-China-Became-the-Worlds-First-Electrostate.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Could-Top-120-as-Middle-East-Conflict-Escalates.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-inty-spooks-traders-html-73922c7456d26222" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1323" data-content-paragraphs="12" data-published-at="2026-09-10T20:00:00.000Z" data-time-source="publication">
+<div id="story-articles-v026-x-t-7e66858f4752757a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2932" data-content-paragraphs="31" data-published-at="2026-09-11T10:19:59.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 04:00</span>
+  <span class="news-meta-time">🕒 2026-09-11 18:19</span>
 </div>
 
-### [白宫关税不确定性令交易员担忧，铜股下跌](https://oilprice.com/Metals/Commodities/Copper-Stocks-Sink-as-White-House-Tariff-Uncertainty-Spooks-Traders.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Copper Stocks Sink as White House Tariff Uncertainty Spooks Traders</div>
+### [抵制“人工智能”](https://ronjeffries.com/articles/-v026/x/t/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Resist &quot;AI&quot;</div>
 
-<div class="article-body" data-article-body="true"><p>周四上午，铜期货及相关股票大幅下跌。此前路透社报道称，白宫的“铜关税计划因可负担性担忧而陷入停滞”。特朗普政府尚未决定是否对精炼铜征收关税。今年夏季，随着实物铜大量涌入美国仓库，全球铜价升至创纪录高位。</p>
-<p>据该媒体报道，知情人士称，白宫尚未就精炼铜关税作出决定，官员们正在权衡两方面因素：红色金属价格上涨可能推高制造业成本；另一方面，征收关税可能有助于鼓励扩大国内采矿业。</p>
-<p>在特朗普总统和共和党议员面临压力、需要证明其经济政策正在降低而非推高美国消费者和企业成本之际，政府正日益聚焦可负担性问题，而11月中期选举也即将到来，因此出现了上述迟疑。</p>
-<p>这则报道正在消除关税交易中的风险溢价，美国铜价下跌4.6%。自由港麦克莫兰公司（Freeport-McMoRan）下跌8%，南方铜业公司（Southern Copper）下跌7%，泰克资源公司（Teck Resources）下跌7.9%。Ero Copper下跌8.6%，Capstone Copper下跌8.2%，第一量子矿业公司（First Quantum Minerals）下跌6.4%。</p>
-<p>克里滕登在给客户的报告中写道：“今天的消息应会进一步收窄此前令美国铜销售企业受益的芝加哥商品交易所（CME）与伦敦金属交易所（LME）之间的套利空间，其中包括自由港麦克莫兰——其三分之一的铜销售来自美国；这对LME铜价也构成利空。”</p>
-<p>高盛大宗商品专家詹姆斯·麦吉奥奇告诉客户，中国拥有稀土，而美国日益拥有铜。可负担性问题是主观的。通胀主要由能源而非金属推动；本周中国公布的火热消费者价格指数（CPI）和生产者价格指数（PPI）数据中，大部分影响也来自能源。制造业回流需要可靠的供应链。成本通胀推动激励价格走高，而铜价上涨很大一部分源于矿山供应问题和废铜供应紧张。</p>
-<p>看看供应端的故事——铝价为每吨3300美元，锌价为每吨4000美元，这些都是供应端的故事，铜也是如此。我们都在关注铜精矿处理费（TC），也可以看看锌和铅，它们同样处于前所未有的创纪录高位。这是一个供应端故事。可以这样想：如果你担心美国制造业，美国钢材价格是亚洲价格的2.5倍，而铜价的溢价则较为温和，仅为10%至15%。铜是电气化建设中的一个问题。政府显然很在意这一点。</p>
-<p>最初的反应是抛售美国龙头股，例如FCX.US和SCCO.US；在这里逢低买入AAL.LN和GLEN.LN的询价很多。GLEN是一只兼具能源下行保护和营销顺风的铜股，同时还涉及锌及其他品种，别忘了运费。</p>
-<p>大宗商品交易台主要被看到在买入波动率：周一为18%，周二升至20%，历史最高水平（ATH），刚刚又开始竞价至22%。我个人不相信有什么事情发生了改变，也没有调整自己的仓位。我持有多头仓位。</p>
-<p>我们知道市场中存在累积的多头仓位，也知道这个市场喜欢彻底惩罚任何表现出丝毫疲软或紧张迹象的人。这里有三张图表：下方的铜套利，第一套利约为150美元，或隐含约1%，今早已经减半；实物库存头寸；以及投资者管理资金头寸。</p>
-<p>截至美国东部时间上午10点，高盛美国金属篮子下跌近3%。有关铜关税的报道将弱势蔓延至更广泛的金属交易市场。</p>
-<p>来源：ZeroHedge.com</p></div>
+<div class="article-body" data-article-body="true"><p>是的，“AI1 精灵”看起来确实挺有用。但它同样充满诱惑、具有选择性危害，并且在诸多重要层面正在伤害我们所有人。高管、管理者、顾问、开发者，还是普通人：请抵制它！</p>
+<p>我不用任何编程类“AI”，连 JetBrains IDE 里内置的那些也一概不用，而且我也绝不打算用。然而，我自己也算不上完全一清二白。在试用过 Kagi 和 Duck Duck Go 之后，我又换回了谷歌搜索，而且我坦白承认，我觉得它的“AI Overview”确实挺好用。它经常是准确的，能给出我想要的答案。所以我并不是以圣人的姿态站在你们面前的。</p>
+<p>我不是来向大家说教道德的，我只是想提出这样一个观点：就“AI”目前的现状和发展趋势而言，它对我们个体、对组织、对社会乃至整个世界，都绝非净收益。我认为，无论我们在世界上扮演什么角色，每个人大体上都应该强烈抵制“AI”，并共同寻找途径，在一项已经具有颠覆性且只会愈发颠覆的技术面前，为每个人维持良好的生活。</p>
+<p>我写这篇文章的目的，是成为日益壮大的“抵制 AI”浪潮中的积极一员，至少直到它带来的极其严重的危害被消除、缓解或得到补偿为止。</p>
+<p>我在此重点探讨的将是广义上的软件开发。我的读者群体主要是软件开发者，但令人意外的是，也零星散布着来自世界各地和各行各业的人。当然，每一位读者都会与生活各方各面的人产生联系。</p>
+<p>我认为我们大家都需要竭尽所能去抵制“AI”的野蛮生长，除非且直到它对人类和地球的危害得到解决。</p>
+<p>一个典型“AI”数据中心的持续耗电量大约相当于 10 万户家庭。其每日耗水量大约相当于 5 万户家庭。</p>
+<p>我绝非危言耸听：我们需要抵制“AI”，以免它毁掉我们的世界。</p>
+<p>真正的理解源于亲自动手去接触我们所处领域的材料和思想。我们可以通过阅读或观看视频学到一点皮毛，但归根结底，我们必须亲自去做这件事、思考这件事，而且可能要反复多次，才能真正熟练掌握它。</p>
+<p>当我们让“AI”来回答问题时，确实，我们可能会仔细检查一遍。如果你是一名开发者，你心里早就有数这招管不管用。我们真正思考并亲手写出的代码，哪怕有错，看起来也像是对的——有时是隐蔽的错，有时是低级明显的错。至于我们在审查的代码？我们往往只会挑一些简单的毛病，比如打错字或缩进不规范，指出来之后，就转头去忙自己真正要做的事了。</p>
+<p>当我们让“AI”来回答问题时，我们并没有学到东西。我们并不总能揪出它的错误。我们失去了对自己本该负责构建的事物的全貌认知。</p>
+<p>我绝非危言耸听：我们需要抵制“AI”，以免它毁掉我们的本职工作。</p>
+<p>如果我们生活在一个后稀缺社会，你的工作被“AI”取代倒可能是件好事，因为你可以把时间空出来，去享受比工作更惬意的事情。你依然能充分获取生活中的一切美好事物：食物、医疗、交通、互联网、教育、娱乐等等。然而在我们当下的社会中，你将失去收入，无法供养自己和家人，而且根本没有任何有效的社会体系来维持你原本的生活水准。</p>
+<p>我绝非危言耸听：我们需要抵制“AI”，以免成千上万、甚至数百万人失去生命。</p>
+<p>“AI”正在诱惑你。它尽挑你想听的话说，它假装第二天早晨依然会尊重你。它才不会。如果你不提醒它，它第二天早上甚至根本记不得你是谁。它心中没有尊重，没有欢欣，没有意愿，它也不钦佩你的思想。它向你表达的那些积极情感，它一个都不具备。</p>
+<p>去查查“伊莉莎效应”（Eliza effect）吧。哪怕是这种你能想象到的最原始简陋的程序，都极具蛊惑力。而现在的这些新玩意儿，更是蛊惑人心的高手。</p>
+<p>我绝非危言耸听：我们需要抵制“AI”，因为它骨子里所具有的诱惑力远远超过它的实际价值，而我们在这种诱惑面前几乎毫无防备。</p>
+<p>抵制可以采取什么形式？形式多种多样，从彻底拒绝碰“AI”，到审慎诚实的调研，再到彻头彻尾的破坏阻挠。以下是针对身处各界的不同人群的一些建议。这些只是我目前的初步想法：到目前为止，我的担忧远多于那些能超越单纯“抵制”的实质性建议。</p>
+<p>你的第一批实验应该旨在发现“AI”到底有多糟糕，在此基础上，你才能让你的工作小组去摸索用好这玩意的途径——如果真有这种可能的话。</p>
+<p>如果可以的话，请时刻牢记它对你的公司、对你的员工以及对整个世界造成的全盘代价。先努力去理解，然后再去行动。</p>
+<p>而且我推测，你应该在考量自己的工作中有多少可以由“AI”来完成，或者借助“AI”来完成。肯定有人会禁不住诱惑想用它来写季度报告。请记住，“AI”只不过是在对其输入的内容做平均化处理，而且它经常弄错。</p>
+<p>如果可以的话，请时刻记挂你的员工，那些会因为过度使用“AI”——甚至是因任何使用——而受到伤害的人。</p>
+<p>尝试与你的同事一起，有时结合“AI”工作，有时脱离“AI”工作。试着记录这两种方式下的不同进展。</p>
+<p>追踪缺陷情况。有多少是由“AI”生成且被开发者漏掉的？有多少被生成出来并被捕获了？在没有“AI”辅助的情况下工作时，你自己又引入并捕获了多少？</p>
+<p>持续评估你对系统的理解程度。当“AI”承担了更多工作时，你对系统的理解是不是变弱了？这对整体工作质量有何影响？</p>
+<p>我都懂。也许没有“AI”，你就无法完成手头的工作。也许在你的潜意识里，这就成了使用它的正当理由。我明白，我真的明白。我们每个人都得混口饭吃。到目前为止我很幸运，不用“AI”也能吃上饭。但是啊，我的对手们，还有我的朋友们：这该死的东西正在吞噬你的灵魂。它正在用它那对智能的拙劣模仿，玷污你的文字与表达。</p>
+<p>对自己诚实，对那些敬仰你的人诚实，是你应尽的责任。而眼下发生的很多事情，对我们大家都没有半点好处。</p>
+<p>你使用了“AI”精灵。它友善、口齿伶俐、顺从，看似大有助益。你觉得它让你变得更强大。你觉得它是你的朋友，是你友好的助手，随时准备帮助你、照顾你。</p>
+<p>神话中的精灵来自另一个截然不同的世界，从来不会把人类的福祉放在首位。有些精灵善良，有些邪恶，而绝大多数都是“混乱中立”。</p>
+<p>当今的“AI”精灵则在“混乱中立”的基础上略微偏向邪恶的一侧，因为互联网本身就充斥着我们社会中根深蒂固的偏见与阴暗面。正如偏见本身一样，“AI”精灵会将其答案包裹在精心雕琢的文字中，显得既聪明睿智，又确凿无疑。</p>
+<p>“AI”精灵根本不知道什么是“真相”。从字面意义上讲，它根本不懂真理。它只不过是将读到的内容切碎重组，并以一种诱人的形式回馈给你，完全不顾其真假虚实。<br />“AI”精灵不是你的仆人。它是其创造者的仆人，而其创造者绝不会以你的最大利益为念，精灵本身也毫无关怀之心。它根本不在乎。它只是产出看似合情合理的文字，并用显得体贴、感兴趣、尊重的言辞将其包装起来。它既不体贴，不感兴趣，也谈不上尊重。它心中根本没有这些情感：有的仅仅是词句。<br />“AI”精灵不是你的朋友。抵制它。<br />我给“AI”加引号，是为了强调这些东西根本没有智能。 ↩<br />选这部电影绝非偶然。世界由寡头统治，普通人过着水深火热的生活。听起来是不是很耳熟？ ↩<br />我看不到我们怎样才能走向后稀缺社会。如果我们愿意的话，我们眼下就有能力让每个人都丰衣足食、安居乐业。统治我们的公司和政府要么没有意识到这一点，要么根本不在乎去这么做。对此我深感灰心丧气：我真的不知道该如何是好。 ↩</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-11 04:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-11 18:19 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
+  <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Metals/Commodities/Copper-Stocks-Sink-as-White-House-Tariff-Uncertainty-Spooks-Traders.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ronjeffries.com/articles/-v026/x/t/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-sses-iphone-duo-copycats-986ca43c10b79c2b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="810" data-content-paragraphs="13" data-published-at="2026-09-11T10:02:58.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-11 18:02</span>
+</div>
+
+### [苹果回应 iPhone Duo 抄袭现象](https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Apple addresses iPhone Duo copycats</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293827608.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="苹果回应 iPhone Duo 抄袭现象" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来自该话题的内容将添加到您的每日邮件摘要和主页信息流中。</p>
+<p>“可惜他们拿到了屏幕纵横比。”</p>
+<p>来自该作者的内容将添加到您的每日邮件摘要和主页信息流中。</p>
+<p>查看托马斯·里克（Thomas Ricker）的所有文章</p>
+<p>苹果绝非今年首家发布护照比例折叠屏手机的公司，但这并不意味着它没有被抄袭。正如我的同事多姆·普雷斯顿（Dom Preston）此前解释的那样，当苹果与其竞争对手共享相同的全球供应链时，想要对产品开发过程守口如瓶几乎是不可能的。</p>
+<p>苹果新任首席执行官约翰·特纳斯（John Ternus）与营销主管格雷格·“乔兹”·乔斯维亚克（Greg ‘Joz’ Joswiak）在接受 TechRadar 的兰斯·乌拉诺夫（Lance Ulanoff）以及 Tom’s Guide 的马克·斯普诺尔（Mark Spoonauer）采访时谈及了这一话题。</p>
+<p>“外界通过泄密得知我们正在研发折叠屏手机，”乔兹表示，“遗憾的是，他们拿到了屏幕纵横比，并且十分巧合的是，很多人也都觉得这是个很有意思的比例。”乔兹口中的“外界”，指的正是三星、华为和小米，它们都在苹果之前发布了宽比例折叠屏手机。</p>
+<p>真正做到严守机密的，是 iPhone Duo 独占的折叠纳米纹理显示屏。“让我非常自豪的是——我们成功保密了，”乔兹说，“我们对其采取了额外的安保措施，没有向任何人透露过半点风声。”</p>
+<p>整场采访十分值得一看。相较于更加稳重的蒂姆·库克（Tim Cook），特纳斯身上那股少年般的热情令人耳目一新，这也彰显了他作为一线实干工程师的技术出身。在描述自己首次接触该显示屏原型机的情形时，这种特质展现得淋漓尽致：“‘噢就是这个，这就是我想要的，’他迫切地咧嘴笑道。”</p>
+<p>这位苹果新掌舵人显然是一位纯粹的产品人，恰如该公司那位性格多变的传奇创始人。</p>
+<p>查看 2026 年苹果发布会全部内容</p>
+<p>免费呈送每日核心要闻摘要。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-11 18:02 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 ::::
