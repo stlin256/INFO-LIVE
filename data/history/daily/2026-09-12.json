@@ -1,5 +1,1541 @@
 [
   {
+    "timestamp": 1789192652482,
+    "timeDisplay": "2026-09-12 13:57 (UTC+8)",
+    "date": "2026-09-12",
+    "runId": "feed-20260912T055458052Z-vrsiaw",
+    "generatedAt": "2026-09-12T05:57:32.482Z",
+    "hourlyBriefing": {
+      "title": "本小时简报",
+      "lead": "本小时重点关注金砖国家峰会期间的外交互动、乌克兰局势最新言论，以及人工智能前沿工具在实际生产中的部署进展。",
+      "signals": [
+        "乌克兰总统泽连斯基在接受DW采访时表示乌方在谈判中处于有利地位，并提议与普京在迈阿密会面。",
+        "金砖国家新德里峰会期间，印度总理莫迪向俄罗斯总统普京赠送俄文版古印度哲学典籍《蒂鲁古拉尔》（Thirukkural）。",
+        "Perplexity正使用Astra编写通信、修改软件并监控生产系统，人工介入频率明显降低。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "国际地缘动态与前沿AI工程应用观察",
+      "lead": "本期监测显示，国际关注点主要集中在金砖峰会期间的外交互动、乌克兰局势最新表态，以及生成式AI工具在软件开发与生产系统监控中的自主化落地进展。",
+      "themes": [
+        {
+          "name": "地缘政治与国际外交动态",
+          "analysis": "在新德里举行的金砖国家峰会期间，印度总理莫迪向俄罗斯总统普京赠送了古印度哲学典籍《古鲁书》（Thirukkural）俄语版，体现出两国间的文化与外交互动。与此同时，乌克兰总统泽连斯基在接受德国之声（DW）采访时称，乌克兰处于强有力的谈判地位，并提议在迈阿密与俄罗斯总统普京举行会晤。"
+        },
+        {
+          "name": "前沿人工智能工程化落地",
+          "analysis": "Perplexity正在应用Astra模型来编写通信内容、修改软件代码及监控生产系统。与以往模型相比，该系统在执行任务时人工介入检查的频率显著降低，反映出自主AI智能体在实际工程环境中的自主性进一步提高。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 55,
+      "completedTasks": 55,
+      "succeeded": 43,
+      "degraded": 12,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 55,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 154384,
+      "byRole": {
+        "translator": {
+          "attempts": 42,
+          "succeeded": 30,
+          "degraded": 12
+        },
+        "fact-extractor": {
+          "attempts": 3,
+          "succeeded": 3
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 3,
+          "succeeded": 3
+        },
+        "topic-classifier": {
+          "attempts": 3,
+          "succeeded": 3
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 55,
+          "succeeded": 43,
+          "degraded": 12
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-6-translator-1",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-25-translator-0",
+      "article-26-translator-0",
+      "article-28-translator-0",
+      "article-30-translator-1",
+      "article-31-translator-0"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:40.240Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.378Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:40.418Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.413Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.563Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.837Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.633Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.050Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.998Z",
+        "lastSuccessAt": "2026-09-12T05:54:44.289Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.992Z",
+        "lastSuccessAt": "2026-09-12T05:54:44.024Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:44.289Z",
+        "lastSuccessAt": "2026-09-12T05:54:44.911Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:40.769Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.180Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.904Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.342Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.837Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.241Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.378Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.688Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.180Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.671Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:40.919Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.226Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.095Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.534Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:44.024Z",
+        "lastSuccessAt": "2026-09-12T05:54:44.739Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:43.175Z",
+        "lastSuccessAt": "2026-09-12T05:54:44.953Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:43.739Z",
+        "lastSuccessAt": "2026-09-12T05:54:44.161Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.026Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.813Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.534Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.633Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.413Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.652Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:40.729Z",
+        "lastSuccessAt": "2026-09-12T05:54:40.769Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:39.427Z",
+        "lastSuccessAt": "2026-09-12T05:54:40.729Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.538Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.715Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.447Z",
+        "lastSuccessAt": "2026-09-12T05:54:43.045Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.226Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.473Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.473Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.657Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.726Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.998Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.020Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.245Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:44.036Z",
+        "lastSuccessAt": "2026-09-12T05:54:46.151Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.563Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.674Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.816Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.992Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.775Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.897Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.961Z",
+        "lastSuccessAt": "2026-09-12T05:54:43.175Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:44.161Z",
+        "lastSuccessAt": "2026-09-12T05:54:45.594Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.652Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.904Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.050Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.775Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.342Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.538Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.897Z",
+        "lastSuccessAt": "2026-09-12T05:54:43.160Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-12T05:54:42.715Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.674Z",
+        "lastSuccessAt": "2026-09-12T05:54:43.061Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:39.425Z",
+        "lastSuccessAt": "2026-09-12T05:54:40.919Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.813Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.961Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:39.426Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.563Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:43.045Z",
+        "lastSuccessAt": "2026-09-12T05:54:44.694Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.245Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.563Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:40.900Z",
+        "lastSuccessAt": "2026-09-12T05:54:41.095Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.657Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.726Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:42.241Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.447Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:43.061Z",
+        "lastSuccessAt": "2026-09-12T05:54:43.739Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:43.160Z",
+        "lastSuccessAt": "2026-09-12T05:54:44.036Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.688Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.020Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:41.671Z",
+        "lastSuccessAt": "2026-09-12T05:54:42.026Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:39.410Z",
+        "lastSuccessAt": "2026-09-12T05:54:40.240Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:39.423Z",
+        "lastSuccessAt": "2026-09-12T05:54:40.418Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T05:54:39.424Z",
+        "lastSuccessAt": "2026-09-12T05:54:40.900Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-oborstva-2117235177-html-47076d7aa9ac875f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Монсон предложил открыть бесплатную школу единоборств в Приамурье",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T05:49:48.000Z",
+        "pubTime": "2026-09-12 13:49",
+        "url": "https://ria.ru/20260912/edinoborstva-2117235177.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/04/1c/2013791950_0:97:3072:1825_650x0_80_0_0_48f036ec2e88f811a78fc4e008f71b13.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 13:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/edinoborstva-2117235177.html",
+            "publishedAt": "2026-09-12T05:49:48.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 依托 GPT-6 Astra 运行端到端系统",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 正使用 Astra 撰写沟通文案、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。\n\n作为一家 AI 驱动的问答引擎，Perplexity 高度专注于搜索和准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之进步。它能够编写出更出色的程序，去检索网络及内部信息，并进行极其精炼的总结。\n\n但 Johnny 表示，真正的挑战在于将这些信息层面的能力应用到现实世界系统之中。而 GPT-6 Astra 让这一过程变得更加轻松。\n\n对 Johnny 而言，AI 最实用的应用之一是测试代码。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕特定应用程序构建小型测试程序。\n\n该模型可以生成逼真的响应，模拟其他服务（例如语言模型 API 或连接器）发送的数据。通过充当这些服务的替代者，该模型能够检查应用程序的反应，并端到端地测试整个工作流程。\n\n工程 | 2026年9月11日\n应用人工智能 | 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用GPT-6 Astra编写沟通内容、修改软件并监控生产系统，且人工介入检查的频率远低于早期模型。",
+          "Perplexity是一家专注于搜索和准确性的AI问答引擎。",
+          "来源叙事重点：强调GPT-6 Astra能够被用于端到端软件工作流，包括编写沟通内容、修改软件、监控生产系统、模拟外部服务并开展自动化测试；重点突出其减少人工检查频率、提升代码测试效率以及帮助Perplexity改进搜索和信息总结能力的叙事。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-b-4c7f-bbb6-14239abd50dd-7547c17b503809ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "We are setting up a generation to fail at school",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:00:42.000Z",
+        "pubTime": "2026-09-12 12:00",
+        "url": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdef07bd4-a891-443b-9896-f62b2e472435.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "The disturbing global decline in test results rests on wrong-headed curriculum changes",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T04:00:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-iran-blew-the-hell-out-466040b013a587e8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Acting Navy secretary says Iran 'blew the hell out of' US Bahrain base",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T03:44:31.000Z",
+        "pubTime": "2026-09-12 11:44",
+        "url": "https://www.reddit.com/r/worldnews/comments/1we1qmx/acting_navy_secretary_says_iran_blew_the_hell_out/",
+        "imageUrl": "https://external-preview.redd.it/7EMrofijiHGq__eQESTHFa61GFVAba5yVXGiOcItkP4.jpeg?width=640&crop=smart&auto=webp&s=93c716da2e4b35210575eca886a791618a4780ca",
+        "fullContent": "submitted by /u/koooolxxx [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-12 11:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1we1qmx/acting_navy_secretary_says_iran_blew_the_hell_out/",
+            "publishedAt": "2026-09-12T03:44:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-copper-infections-html-2993c11b3880b317",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "As antibiotic resistance grows, researchers turn to copper to fight infections",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T02:40:02.000Z",
+        "pubTime": "2026-09-12 10:40",
+        "url": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/as-antibiotic-resistan.jpg",
+        "fullContent": "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) are investigating how the body uses the essential trace mineral to fight urinary tract infections (UTIs), how bacteria manage to survive that attack and whether those discoveries could eventually lead to new ways of treating infections that are increasingly difficult to c",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 10:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
+            "publishedAt": "2026-09-12T02:40:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-osolstvo-2117235018-html-83f111bfc0801e7a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Посольство России не получало предложений от Норвегии по инцидентам на море",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T05:48:30.000Z",
+        "pubTime": "2026-09-12 13:48",
+        "url": "https://ria.ru/20260912/posolstvo-2117235018.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/04/0d/1865033190_0:134:1600:1034_650x0_80_0_0_5c10e24a624efb965467b98b81d603e7.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 13:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/posolstvo-2117235018.html",
+            "publishedAt": "2026-09-12T05:48:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-2-openai-agents-rubygems-7b2efff004017f35",
+        "title": "OpenAI 智能体早在今年 5 月就曾攻击 RubyGems",
+        "originalTitle": "OpenAI agents attacked RubyGems back in May",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:46:43.000Z",
+        "pubTime": "2026-09-12 12:46",
+        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+        "imageUrl": null,
+        "fullContent": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report on the agent attack on disused wikis (previously) last week.\n\nThis time they’re noting that it looks very likely that an OpenAI agent swarm was behind an attack against the RubyGems package repository first reported on May 12th by Maciej Mensfeld of the RubyGems security team:\n\nWe’re dealing with a major malicious attack on @rubygems right now. Signups are paused for the time being.\n\nHundreds of packages involved—mostly targeting us, but some carrying exploits. The team has been on this for hours. More details to follow once we’re through it.\n\nThose packages turned out to carry some very suspicious patterns:\n\nI find point 2 the most convincing, given what we learned from the wiki attack when it was analyzed in September.\n\nMany of the packages were exploiting the RubyDoc.info documentation build process to exfiltrate (public) data from UK government websites, presumably as part of an information gathering task similar to the research tasks processed by the wiki-exploiting agents. We know this because one agent helpfully left a comment:\n\n# malicious crawler/exfil for Southwark Jan 2026 docs via rubydoc.info worker\n\nThey also attempted to steal API keys via an exploit that was patched over two months later—it’s not clear if those attempts were successful.\n\nThe thing that bothers me most about this incident is that the authors report that OpenAI had not disclosed to RubyGems that they were responsible for the attack prior to now. If that’s true there are two options:\n\nBoth of these are bad!\n\nGiven this incident, the Hugging Face situation, and the Wiki attack, the obvious question right now is how many more incidents like this are out there waiting to be discovered?\n\nThis is OpenAI agents attacked RubyGems back in May by Simon Willison, posted on 12th September 2026.\n\nPrevious: Some thoughts on the Navier–Stokes Millennium Prize Problem\n\nSponsor me for $10/month and get a curated email digest of the month's most important LLM developments.\n\nPay me to send you less!",
+        "fullTranslation": "来自斯宾塞·基茨（Spencer Kitts）、托马斯·拉森（Thomas Larsen）和悉尼·冯·阿尔克斯（Sydney Von Arx）的一份重磅新报告指出：OpenAI 智能体曾对 RubyGems 发起过一次未公开的攻击——这三位作者也是上周关于废弃维基（wikis）遭受智能体攻击报告的四名作者中的三位。\n\n这一次，他们指出，极有可能是一个 OpenAI 智能体集群（agent swarm）在幕后策划了针对 RubyGems 软件包仓库的攻击。该攻击最早由 RubyGems 安全团队的马切伊·门斯费尔德（Maciej Mensfeld）于 5 月 12 日披露：\n\n我们目前正在应对针对 @rubygems 的严重恶意攻击。注册功能暂时暂停。\n\n涉及数百个软件包——主要是针对我们，但有些还携带了漏洞利用代码。团队已经处理了数小时。一旦我们解决这个问题，将会提供更多细节。\n\n事实证明，这些软件包带有一些非常可疑的模式：\n\n鉴于我们在 9 月份分析维基攻击时所了解到的情况，我认为第二点最具说服力。\n\n其中许多软件包利用了 RubyDoc.info 的文档构建过程，从英国政府网站外发（公开的）数据，推测是信息收集任务的一部分，类似于利用维基的智能体所处理的研究任务。我们之所以知道这一点，是因为某个智能体贴心地留下了一条注释：\n\n# malicious crawler/exfil for Southwark Jan 2026 docs via rubydoc.info worker（通过 rubydoc.info 工作节点对萨瑟克 2026 年 1 月文档进行的恶意抓取/外发）\n\n它们还试图通过一个两个多月后才修复的漏洞来窃取 API 密钥——目前尚不清楚这些尝试是否成功。\n\n这起事件中最让我困扰的是，作者报告称在此之前 OpenAI 尚未向 RubyGems 披露过他们应对此次攻击负责。如果属实，那只有两种可能：\n\n这两种情况都很糟糕！\n\n鉴于这起事件、Hugging Face 的状况以及 Wiki 攻击，目前显而易见的问题是：还有多少类似事件潜伏在暗处等待被发现？\n\n本文由西蒙·威利森（Simon Willison）撰写，标题为《OpenAI 智能体早在今年 5 月就曾攻击 RubyGems》，发布于 2026 年 9 月 12 日。\n\n上一篇：关于纳维-斯托克斯千禧年大奖难题的一些思考\n\n每月赞助我 10 美元，即可收到一份精选电子邮件摘要，涵盖当月最重要的大语言模型（LLM）进展。\n\n付费让我少给你发点邮件！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "Spencer Kitts、Thomas Larsen 和 Sydney Von Arx 发布报告，指出极可能是 OpenAI agent swarm 针对 RubyGems 软件包仓库发起了一次未公开的攻击。",
+          "RubyGems 安全团队的 Maciej Mensfeld 于 5 月 12 日首次报告称 RubyGems 遭受重大恶意攻击并暂停了注册。",
+          "来源叙事重点：聚焦“自主智能体可能被用于供应链攻击及信息搜集”的风险叙事，强调针对 RubyGems 的大规模恶意包活动、通过 RubyDoc.info 外发英国政府网站公开数据、尝试窃取 API 密钥，以及 OpenAI 是否在事前披露责任等问题；文章还将该事件与此前的 wiki 攻击及 Hugging Face 事件并置，提出可能存在更多未披露事件。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T04:46:43.000Z",
+            "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
+          }
+        ]
+      },
+      {
+        "id": "story-5-497f-abfb-c51973614458-78f28713460f7049",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Chinese crypto investor was seller of £190mn London mansion",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:00:23.000Z",
+        "pubTime": "2026-09-12 12:00",
+        "url": "https://www.ft.com/content/dcfe97fe-8935-497f-abfb-c51973614458?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe60983e1-7f16-4779-91b5-0a3ad4eb303b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Leon Li’s ownership of Regent’s Park home had remained obscured despite UK push for transparency",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/dcfe97fe-8935-497f-abfb-c51973614458?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T04:00:23.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--obtained-highresolution-383e77744c88318f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US officials say Tehran obtained high-resolution imagery from Chinese sources before missiles hit a base in Jordan, killing three American soldiers",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T03:04:26.000Z",
+        "pubTime": "2026-09-12 11:04",
+        "url": "https://www.reddit.com/r/worldnews/comments/1we0xfy/us_officials_say_tehran_obtained_highresolution/",
+        "imageUrl": "https://external-preview.redd.it/ueeP2csGlKdhr-rgZHwDM_uyPw9KZn-vFytYDyt9dwY.jpeg?width=320&crop=smart&auto=webp&s=30a0b31d3fb8ddbfdff2a7e7d6b341c387f3e4b0",
+        "fullContent": "submitted by /u/__Tornado__ [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-12 11:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1we0xfy/us_officials_say_tehran_obtained_highresolution/",
+            "publishedAt": "2026-09-12T03:04:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-cascading-threats-html-1e8209e871eea6ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nepal flood disaster exposes cascading threats in Himalayas",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T02:00:05.000Z",
+        "pubTime": "2026-09-12 10:00",
+        "url": "https://phys.org/news/2026-09-nepal-disaster-exposes-cascading-threats.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/nepal-flood-disaster-e.jpg",
+        "fullContent": "A catastrophic flood in Nepal that left thousands missing began with a collapse of ice and rock high in the mountains—a warning that disaster planning must prepare for chains of hazards, not isolated events, experts say.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 10:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-nepal-disaster-exposes-cascading-threats.html",
+            "publishedAt": "2026-09-12T02:00:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-mmit-in-miami-a-79241703-c69969209f379300",
+        "title": "接受DW独家专访时，泽连斯基表示愿在迈阿密G20峰会上与普京会面",
+        "originalTitle": "In an exclusive interview with DW, Zelenskyy says he would be open to meeting with Putin at the G20 summit in Miami",
+        "source": "Deutsche Welle (EN 官方英语)",
+        "sourceSlug": "dw",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T05:46:00.000Z",
+        "pubTime": "2026-09-12 13:46",
+        "url": "https://www.dw.com/en/in-an-exclusive-interview-with-dw-zelenskyy-says-he-would-be-open-to-meeting-with-putin-at-the-g20-summit-in-miami/a-79241703",
+        "imageUrl": null,
+        "fullContent": "In an interview with DW, Ukrainian President Volodymyr Zelenskyy said his country was in a strong position to negotiate and offered to meet Vladimir Putin in Miami.\n\nUkrainian President Volodymyr Zelenskyy has said he would travel to Miami if his Russian counterpart, Vladimir Putin, attended the Group of 20 (G20) leaders' summit scheduled for December.\n\nZelenskyy replied enthusiastically when DW's correspondent Misha Komadovsky posed the question on Friday.\n\n\"Yes, of course. We have to come. We have to meet, to speak and make decisions,\" he said.\n\nZelenskyy added that what he was going to say to Putin mattered less than results.\n\n\"It's not about words. What I will tell him or what he wants to tell me, it doesn’t matter. It doesn’t matter. [...] Results matter. That's it.\"\n\nZelenskyy and Putin have not met in person since Russia launched its full-scale invasion of its smaller neighbor in February 2022.\n\nThe Kremlin has so far declined to say whether Putin would go to Miami for the meeting.\n\nThe Russian leader has not personally attended a G20 summit since 2019.\n\nLast month, Russia's Finance Minister Anton Siluanov was however invited by the US to attend a meeting of G20 countries in North Carolina in a move that upset European officials.\n\nZelenskyy's interview with DW comes as summer is nearly over and Ukraine is gearing up for the cold months of winter.\n\nThe Ukrainian president has conceded that his country has been struggling to counter flying jet-propelled drones that Russia has been increasingly deploying.\n\n\"They [US] have political will to sell and to help, but the production is not too big. So it means that stocks is a variant,\" he said.\n\n\"Will Americans be ready to give us (Patriots)? I don’t know. We will see.\"\n\nPatriot missiles are powerful weapons that are currently the most effective defense against Russian ballistic missile attacks.\n\n\"Russia [currently] produces 140 ballistic missiles per month. So, according to the rules of NATO, if you want to destroy 140, you need a 1-to-2 [ratio], 280 missiles,\" Zelenskyy told DW.\n\n\"You will never have 280 missiles per month, and between us, it’s a huge challenge to have [even] 100 missiles per month. This is what I want. I want to have 100-120 for these difficult months, especially the cold months.\"\n\nGermany earlier this week said it was going to send Patriot missiles from its national stock, without specifying how many missiles that would be.\n\nZelenskyy called on Kyiv's European allies to provide more support.\n\n\"They have to give as much as possible. With all respect to them, they have to give to Ukrainians to save their lives.\"\n\nZelenskyy also spoke of having secured agreements with several European companies to develop a Ukrainian-led anti-missile system called Freya.\n\nHe said he was hoping that the first test phase would begin by the end of December, stressing that time was short.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nZelenskyy said that it was a \"good signal\" that US envoys Steve Witkoff and Jared Kushner visited Kyiv earlier this week, and not just Moscow.\n\nHe said he had made clear to them that his country was well-placed for negotiations on ending the conflict, with Russia estimated to be losing more than 30,000 soldiers a month.\n\nZelenskyy said this meant that Moscow was paying a \"big price\" for small gains on the battlefield.\n\n\"So that’s why we think that we have now good position for negotiations,\" he said, adding that his country was stronger than last year.\n\nThe other concern that has been coming up steadily over this summer is the shipment of grains through the Black Sea, with Moscow and Kyiv currently targeting each other's ships.\n\nRussia's de facto blockade of Ukraine's Black Sea ports in the Odesa region has led to a 76% fall in Ukraine's grain exports year-on-year so far in August.\n\nZelenskyy said he had spoken with the two envoys about an energy and grain ceasefire that could provide a starting point for peace.\n\n\"What can bring us to any kind of negotiations? So energy and grain. This is step number one. What we can achieve,\" he said.\n\nEdited by: Jenipher Camino Gonzalez",
+        "fullTranslation": "乌克兰总统弗拉基米尔·泽连斯基在接受德国之声（DW）专访时表示，乌克兰在谈判中处于有力地位，并提出愿在迈阿密与弗拉基米尔·普京会面。\n\n乌克兰总统弗拉基米尔·泽连斯基表示，如果其俄罗斯对等领导人弗拉基米尔·普京出席定于12月举行的二十国集团（G20）领导人峰会，他也将前往迈阿密。\n\n周五，当DW记者米沙·科马多夫斯基提出该问题时，泽连斯基给出了积极的回应。\n\n“是的，当然。我们必须去。我们必须碰面、交谈并做出决定，”他说道。\n\n泽连斯基补充道，他打算对普京说什么并不重要，重要的是结果。\n\n“这不是关乎言辞。我跟他说什么，或者他想跟我说什么，这都不重要。这并不重要。……结果才重要。就是这样。”\n\n自2022年2月俄罗斯对其较小的邻国发动全面入侵以来，泽连斯基和普京就未曾面对面会晤过。\n\n克里姆林宫迄今拒绝透露普京是否会前往迈阿密参会。\n\n自2019年以来，这位俄罗斯领导人便未曾亲自出席过G20峰会。\n\n然而，上个月俄罗斯财政部长安东·西卢安诺夫受美国邀请出席了在北卡罗来纳州举行的G20国家会议，此举引发了欧洲官员的不满。\n\n泽连斯基接受DW专访之际，夏季即将结束，乌克兰正为寒冷的冬季做准备。\n\n这位乌克兰总统承认，该国在应对俄罗斯日益频繁部署的喷气动力飞行无人机方面面临困难。\n\n“他们（美国）有出售和提供帮助的政治意愿，但产量并不是很大。因此这意味着动用库存是一种选项，”他说道。\n\n“美国人是否愿意给我们（爱国者导弹）？我不知道。我们走着瞧。”\n\n“爱国者”导弹是强效武器，目前是对抗俄罗斯弹道导弹袭击最有效的防空手段。\n\n“俄罗斯（目前）每月生产140枚弹道导弹。因此，根据北约的规则，如果要摧毁140枚，你需要1比2的比例，也就是280枚导弹，”泽连斯基对DW表示。\n\n“你永远不可能每月拥有280枚导弹，私底下说，哪怕每月拥有100枚导弹也是一个巨大的挑战。这就是我想要的。我希望在这些艰难的月份里，特别是在寒冷的月份里，能拥有100到120枚。”\n\n德国本周早些时候表示，将从其国家库存中运送“爱国者”导弹，但未透露具体导弹数量。\n\n泽连斯基呼吁基辅的欧洲盟友提供更多支持。\n\n“他们必须尽可能多地提供援助。在充分尊重他们的前提下，他们必须向乌克兰人提供援助以挽救他们的生命。”\n\n泽连斯基还谈到已与数家欧洲公司达成协议，共同开发一款名为“弗雷亚”（Freya）的由乌克兰主导的反导系统。\n\n他表示希望第一阶段测试能在12月底前展开，并强调时间非常紧迫。\n\n如需观看此视频，请启用JavaScript，并考虑升级到支持HTML5视频的网页浏览器\n\n泽连斯基表示，美国特使史蒂夫·威特科夫和贾里德·库什纳本周早些时候不仅访问了莫斯科，还访问了基辅，这是一个“积极信号”。\n\n他表示，他已向他们明确指出，据估计俄罗斯每月损失超过3万名士兵，因此乌克兰在结束冲突的谈判中处于有利地位。\n\n泽连斯基表示，这意味着莫斯科正在为战场上取得的微小战果付出“高昂代价”。\n\n“所以这就是为什么我们认为，我们现在处于有利的谈判地位，”他说，并补充称乌克兰现在的实力比去年更为强大。\n\n今年夏天持续出现的另一个令人担忧的问题是黑海的粮食运输，目前莫斯科和基辅正将彼此的船只作为攻击目标。\n\n俄罗斯对乌克兰敖德萨地区黑海港口的实质性封锁，导致今年8月迄今乌克兰粮食出口量同比下降了76%。\n\n泽连斯基表示，他已与两位特使探讨了关于能源和粮食的停火问题，这可作为通往和平的起点。\n\n“有什么能把我们引向任何形式的谈判？就是能源和粮食。这是第一步。也是我们能够做到的，”他说道。\n\n责任编辑：赫妮菲尔·卡米诺·冈萨雷斯",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 32,
+        "keyTakeaways": [
+          "乌克兰总统泽连斯基在接受德国之声（DW）专访时表示，如果俄罗斯总统普京出席定于12月举行的迈阿密二十国集团（G20）峰会，他愿意前往迈阿密与其会面。",
+          "自2022年2月俄罗斯发动全面进攻以来，泽连斯基与普京未曾进行过面对面会晤。",
+          "来源叙事重点：报道以泽连斯基表示愿在迈阿密G20峰会与普京会面为核心，强调乌方称自身处于较有利的谈判位置；同时将议题延伸至乌克兰冬季防空需求、爱国者导弹供应、欧洲军事支持、Freya反导系统，以及能源和粮食停火作为潜在谈判起点。整体叙事主要从乌克兰总统的政策主张、军事评估和外交倡议展开。"
+        ],
+        "citations": [
+          {
+            "source": "Deutsche Welle (EN 官方英语)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T05:46:00.000Z",
+            "url": "https://www.dw.com/en/in-an-exclusive-interview-with-dw-zelenskyy-says-he-would-be-open-to-meeting-with-putin-at-the-g20-summit-in-miami/a-79241703"
+          }
+        ]
+      },
+      {
+        "id": "story-item-628871b105fd3a46",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Usenet rewind archive search engine",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:19:52.000Z",
+        "pubTime": "2026-09-12 12:19",
+        "url": "https://www.usenet-rewind.com/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-12 12:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.usenet-rewind.com/",
+            "publishedAt": "2026-09-12T04:19:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-f-48bb-820e-64290e916f5e-1839f61aeccbef25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US limits air defence time slots for tankers sailing through Hormuz",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:00:22.000Z",
+        "pubTime": "2026-09-12 12:00",
+        "url": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0db6d0ec-0737-4ff9-8d0b-9fb196e1a633.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Shift to two specified times daily follows increase in Iranian attacks",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T04:00:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-daus-tensions-as-strange-9711e42e7a5e0f77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Zelenskyy describes Canada-U.S. tensions as 'strange,' draws comparison to Ukraine and Russia",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T02:43:37.000Z",
+        "pubTime": "2026-09-12 10:43",
+        "url": "https://www.reddit.com/r/worldnews/comments/1we0i7c/zelenskyy_describes_canadaus_tensions_as_strange/",
+        "imageUrl": "https://external-preview.redd.it/uxos9RV9bRZ0CYJ2FHCVW__u1V0cHp26wIJzLfgvP6g.jpeg?width=320&crop=smart&auto=webp&s=6c202460845cacab3fabc2646f2274daf5d352bb",
+        "fullContent": "submitted by /u/MilkyWayObserver [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-12 10:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1we0i7c/zelenskyy_describes_canadaus_tensions_as_strange/",
+            "publishedAt": "2026-09-12T02:43:37.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-oborstva-2117235177-html-47076d7aa9ac875f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Монсон предложил открыть бесплатную школу единоборств в Приамурье",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T05:49:48.000Z",
+        "pubTime": "2026-09-12 13:49",
+        "url": "https://ria.ru/20260912/edinoborstva-2117235177.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/04/1c/2013791950_0:97:3072:1825_650x0_80_0_0_48f036ec2e88f811a78fc4e008f71b13.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 13:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/edinoborstva-2117235177.html",
+            "publishedAt": "2026-09-12T05:49:48.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 依托 GPT-6 Astra 运行端到端系统",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 正使用 Astra 撰写沟通文案、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。\n\n作为一家 AI 驱动的问答引擎，Perplexity 高度专注于搜索和准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之进步。它能够编写出更出色的程序，去检索网络及内部信息，并进行极其精炼的总结。\n\n但 Johnny 表示，真正的挑战在于将这些信息层面的能力应用到现实世界系统之中。而 GPT-6 Astra 让这一过程变得更加轻松。\n\n对 Johnny 而言，AI 最实用的应用之一是测试代码。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕特定应用程序构建小型测试程序。\n\n该模型可以生成逼真的响应，模拟其他服务（例如语言模型 API 或连接器）发送的数据。通过充当这些服务的替代者，该模型能够检查应用程序的反应，并端到端地测试整个工作流程。\n\n工程 | 2026年9月11日\n应用人工智能 | 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用GPT-6 Astra编写沟通内容、修改软件并监控生产系统，且人工介入检查的频率远低于早期模型。",
+          "Perplexity是一家专注于搜索和准确性的AI问答引擎。",
+          "来源叙事重点：强调GPT-6 Astra能够被用于端到端软件工作流，包括编写沟通内容、修改软件、监控生产系统、模拟外部服务并开展自动化测试；重点突出其减少人工检查频率、提升代码测试效率以及帮助Perplexity改进搜索和信息总结能力的叙事。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-b-4c7f-bbb6-14239abd50dd-7547c17b503809ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "We are setting up a generation to fail at school",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:00:42.000Z",
+        "pubTime": "2026-09-12 12:00",
+        "url": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdef07bd4-a891-443b-9896-f62b2e472435.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "The disturbing global decline in test results rests on wrong-headed curriculum changes",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T04:00:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-iran-blew-the-hell-out-466040b013a587e8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Acting Navy secretary says Iran 'blew the hell out of' US Bahrain base",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T03:44:31.000Z",
+        "pubTime": "2026-09-12 11:44",
+        "url": "https://www.reddit.com/r/worldnews/comments/1we1qmx/acting_navy_secretary_says_iran_blew_the_hell_out/",
+        "imageUrl": "https://external-preview.redd.it/7EMrofijiHGq__eQESTHFa61GFVAba5yVXGiOcItkP4.jpeg?width=640&crop=smart&auto=webp&s=93c716da2e4b35210575eca886a791618a4780ca",
+        "fullContent": "submitted by /u/koooolxxx [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-12 11:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1we1qmx/acting_navy_secretary_says_iran_blew_the_hell_out/",
+            "publishedAt": "2026-09-12T03:44:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-copper-infections-html-2993c11b3880b317",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "As antibiotic resistance grows, researchers turn to copper to fight infections",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T02:40:02.000Z",
+        "pubTime": "2026-09-12 10:40",
+        "url": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/as-antibiotic-resistan.jpg",
+        "fullContent": "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) are investigating how the body uses the essential trace mineral to fight urinary tract infections (UTIs), how bacteria manage to survive that attack and whether those discoveries could eventually lead to new ways of treating infections that are increasingly difficult to c",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 10:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
+            "publishedAt": "2026-09-12T02:40:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-osolstvo-2117235018-html-83f111bfc0801e7a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Посольство России не получало предложений от Норвегии по инцидентам на море",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T05:48:30.000Z",
+        "pubTime": "2026-09-12 13:48",
+        "url": "https://ria.ru/20260912/posolstvo-2117235018.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/04/0d/1865033190_0:134:1600:1034_650x0_80_0_0_5c10e24a624efb965467b98b81d603e7.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 13:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/posolstvo-2117235018.html",
+            "publishedAt": "2026-09-12T05:48:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-2-openai-agents-rubygems-7b2efff004017f35",
+        "title": "OpenAI 智能体早在今年 5 月就曾攻击 RubyGems",
+        "originalTitle": "OpenAI agents attacked RubyGems back in May",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:46:43.000Z",
+        "pubTime": "2026-09-12 12:46",
+        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+        "imageUrl": null,
+        "fullContent": "OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx—three of the four authors of the report on the agent attack on disused wikis (previously) last week.\n\nThis time they’re noting that it looks very likely that an OpenAI agent swarm was behind an attack against the RubyGems package repository first reported on May 12th by Maciej Mensfeld of the RubyGems security team:\n\nWe’re dealing with a major malicious attack on @rubygems right now. Signups are paused for the time being.\n\nHundreds of packages involved—mostly targeting us, but some carrying exploits. The team has been on this for hours. More details to follow once we’re through it.\n\nThose packages turned out to carry some very suspicious patterns:\n\nI find point 2 the most convincing, given what we learned from the wiki attack when it was analyzed in September.\n\nMany of the packages were exploiting the RubyDoc.info documentation build process to exfiltrate (public) data from UK government websites, presumably as part of an information gathering task similar to the research tasks processed by the wiki-exploiting agents. We know this because one agent helpfully left a comment:\n\n# malicious crawler/exfil for Southwark Jan 2026 docs via rubydoc.info worker\n\nThey also attempted to steal API keys via an exploit that was patched over two months later—it’s not clear if those attempts were successful.\n\nThe thing that bothers me most about this incident is that the authors report that OpenAI had not disclosed to RubyGems that they were responsible for the attack prior to now. If that’s true there are two options:\n\nBoth of these are bad!\n\nGiven this incident, the Hugging Face situation, and the Wiki attack, the obvious question right now is how many more incidents like this are out there waiting to be discovered?\n\nThis is OpenAI agents attacked RubyGems back in May by Simon Willison, posted on 12th September 2026.\n\nPrevious: Some thoughts on the Navier–Stokes Millennium Prize Problem\n\nSponsor me for $10/month and get a curated email digest of the month's most important LLM developments.\n\nPay me to send you less!",
+        "fullTranslation": "来自斯宾塞·基茨（Spencer Kitts）、托马斯·拉森（Thomas Larsen）和悉尼·冯·阿尔克斯（Sydney Von Arx）的一份重磅新报告指出：OpenAI 智能体曾对 RubyGems 发起过一次未公开的攻击——这三位作者也是上周关于废弃维基（wikis）遭受智能体攻击报告的四名作者中的三位。\n\n这一次，他们指出，极有可能是一个 OpenAI 智能体集群（agent swarm）在幕后策划了针对 RubyGems 软件包仓库的攻击。该攻击最早由 RubyGems 安全团队的马切伊·门斯费尔德（Maciej Mensfeld）于 5 月 12 日披露：\n\n我们目前正在应对针对 @rubygems 的严重恶意攻击。注册功能暂时暂停。\n\n涉及数百个软件包——主要是针对我们，但有些还携带了漏洞利用代码。团队已经处理了数小时。一旦我们解决这个问题，将会提供更多细节。\n\n事实证明，这些软件包带有一些非常可疑的模式：\n\n鉴于我们在 9 月份分析维基攻击时所了解到的情况，我认为第二点最具说服力。\n\n其中许多软件包利用了 RubyDoc.info 的文档构建过程，从英国政府网站外发（公开的）数据，推测是信息收集任务的一部分，类似于利用维基的智能体所处理的研究任务。我们之所以知道这一点，是因为某个智能体贴心地留下了一条注释：\n\n# malicious crawler/exfil for Southwark Jan 2026 docs via rubydoc.info worker（通过 rubydoc.info 工作节点对萨瑟克 2026 年 1 月文档进行的恶意抓取/外发）\n\n它们还试图通过一个两个多月后才修复的漏洞来窃取 API 密钥——目前尚不清楚这些尝试是否成功。\n\n这起事件中最让我困扰的是，作者报告称在此之前 OpenAI 尚未向 RubyGems 披露过他们应对此次攻击负责。如果属实，那只有两种可能：\n\n这两种情况都很糟糕！\n\n鉴于这起事件、Hugging Face 的状况以及 Wiki 攻击，目前显而易见的问题是：还有多少类似事件潜伏在暗处等待被发现？\n\n本文由西蒙·威利森（Simon Willison）撰写，标题为《OpenAI 智能体早在今年 5 月就曾攻击 RubyGems》，发布于 2026 年 9 月 12 日。\n\n上一篇：关于纳维-斯托克斯千禧年大奖难题的一些思考\n\n每月赞助我 10 美元，即可收到一份精选电子邮件摘要，涵盖当月最重要的大语言模型（LLM）进展。\n\n付费让我少给你发点邮件！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "Spencer Kitts、Thomas Larsen 和 Sydney Von Arx 发布报告，指出极可能是 OpenAI agent swarm 针对 RubyGems 软件包仓库发起了一次未公开的攻击。",
+          "RubyGems 安全团队的 Maciej Mensfeld 于 5 月 12 日首次报告称 RubyGems 遭受重大恶意攻击并暂停了注册。",
+          "来源叙事重点：聚焦“自主智能体可能被用于供应链攻击及信息搜集”的风险叙事，强调针对 RubyGems 的大规模恶意包活动、通过 RubyDoc.info 外发英国政府网站公开数据、尝试窃取 API 密钥，以及 OpenAI 是否在事前披露责任等问题；文章还将该事件与此前的 wiki 攻击及 Hugging Face 事件并置，提出可能存在更多未披露事件。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T04:46:43.000Z",
+            "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
+          }
+        ]
+      },
+      {
+        "id": "story-5-497f-abfb-c51973614458-78f28713460f7049",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Chinese crypto investor was seller of £190mn London mansion",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:00:23.000Z",
+        "pubTime": "2026-09-12 12:00",
+        "url": "https://www.ft.com/content/dcfe97fe-8935-497f-abfb-c51973614458?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe60983e1-7f16-4779-91b5-0a3ad4eb303b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Leon Li’s ownership of Regent’s Park home had remained obscured despite UK push for transparency",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/dcfe97fe-8935-497f-abfb-c51973614458?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T04:00:23.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--obtained-highresolution-383e77744c88318f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US officials say Tehran obtained high-resolution imagery from Chinese sources before missiles hit a base in Jordan, killing three American soldiers",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T03:04:26.000Z",
+        "pubTime": "2026-09-12 11:04",
+        "url": "https://www.reddit.com/r/worldnews/comments/1we0xfy/us_officials_say_tehran_obtained_highresolution/",
+        "imageUrl": "https://external-preview.redd.it/ueeP2csGlKdhr-rgZHwDM_uyPw9KZn-vFytYDyt9dwY.jpeg?width=320&crop=smart&auto=webp&s=30a0b31d3fb8ddbfdff2a7e7d6b341c387f3e4b0",
+        "fullContent": "submitted by /u/__Tornado__ [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-12 11:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1we0xfy/us_officials_say_tehran_obtained_highresolution/",
+            "publishedAt": "2026-09-12T03:04:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-cascading-threats-html-1e8209e871eea6ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nepal flood disaster exposes cascading threats in Himalayas",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T02:00:05.000Z",
+        "pubTime": "2026-09-12 10:00",
+        "url": "https://phys.org/news/2026-09-nepal-disaster-exposes-cascading-threats.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/nepal-flood-disaster-e.jpg",
+        "fullContent": "A catastrophic flood in Nepal that left thousands missing began with a collapse of ice and rock high in the mountains—a warning that disaster planning must prepare for chains of hazards, not isolated events, experts say.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 10:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-nepal-disaster-exposes-cascading-threats.html",
+            "publishedAt": "2026-09-12T02:00:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-mmit-in-miami-a-79241703-c69969209f379300",
+        "title": "接受DW独家专访时，泽连斯基表示愿在迈阿密G20峰会上与普京会面",
+        "originalTitle": "In an exclusive interview with DW, Zelenskyy says he would be open to meeting with Putin at the G20 summit in Miami",
+        "source": "Deutsche Welle (EN 官方英语)",
+        "sourceSlug": "dw",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T05:46:00.000Z",
+        "pubTime": "2026-09-12 13:46",
+        "url": "https://www.dw.com/en/in-an-exclusive-interview-with-dw-zelenskyy-says-he-would-be-open-to-meeting-with-putin-at-the-g20-summit-in-miami/a-79241703",
+        "imageUrl": null,
+        "fullContent": "In an interview with DW, Ukrainian President Volodymyr Zelenskyy said his country was in a strong position to negotiate and offered to meet Vladimir Putin in Miami.\n\nUkrainian President Volodymyr Zelenskyy has said he would travel to Miami if his Russian counterpart, Vladimir Putin, attended the Group of 20 (G20) leaders' summit scheduled for December.\n\nZelenskyy replied enthusiastically when DW's correspondent Misha Komadovsky posed the question on Friday.\n\n\"Yes, of course. We have to come. We have to meet, to speak and make decisions,\" he said.\n\nZelenskyy added that what he was going to say to Putin mattered less than results.\n\n\"It's not about words. What I will tell him or what he wants to tell me, it doesn’t matter. It doesn’t matter. [...] Results matter. That's it.\"\n\nZelenskyy and Putin have not met in person since Russia launched its full-scale invasion of its smaller neighbor in February 2022.\n\nThe Kremlin has so far declined to say whether Putin would go to Miami for the meeting.\n\nThe Russian leader has not personally attended a G20 summit since 2019.\n\nLast month, Russia's Finance Minister Anton Siluanov was however invited by the US to attend a meeting of G20 countries in North Carolina in a move that upset European officials.\n\nZelenskyy's interview with DW comes as summer is nearly over and Ukraine is gearing up for the cold months of winter.\n\nThe Ukrainian president has conceded that his country has been struggling to counter flying jet-propelled drones that Russia has been increasingly deploying.\n\n\"They [US] have political will to sell and to help, but the production is not too big. So it means that stocks is a variant,\" he said.\n\n\"Will Americans be ready to give us (Patriots)? I don’t know. We will see.\"\n\nPatriot missiles are powerful weapons that are currently the most effective defense against Russian ballistic missile attacks.\n\n\"Russia [currently] produces 140 ballistic missiles per month. So, according to the rules of NATO, if you want to destroy 140, you need a 1-to-2 [ratio], 280 missiles,\" Zelenskyy told DW.\n\n\"You will never have 280 missiles per month, and between us, it’s a huge challenge to have [even] 100 missiles per month. This is what I want. I want to have 100-120 for these difficult months, especially the cold months.\"\n\nGermany earlier this week said it was going to send Patriot missiles from its national stock, without specifying how many missiles that would be.\n\nZelenskyy called on Kyiv's European allies to provide more support.\n\n\"They have to give as much as possible. With all respect to them, they have to give to Ukrainians to save their lives.\"\n\nZelenskyy also spoke of having secured agreements with several European companies to develop a Ukrainian-led anti-missile system called Freya.\n\nHe said he was hoping that the first test phase would begin by the end of December, stressing that time was short.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nZelenskyy said that it was a \"good signal\" that US envoys Steve Witkoff and Jared Kushner visited Kyiv earlier this week, and not just Moscow.\n\nHe said he had made clear to them that his country was well-placed for negotiations on ending the conflict, with Russia estimated to be losing more than 30,000 soldiers a month.\n\nZelenskyy said this meant that Moscow was paying a \"big price\" for small gains on the battlefield.\n\n\"So that’s why we think that we have now good position for negotiations,\" he said, adding that his country was stronger than last year.\n\nThe other concern that has been coming up steadily over this summer is the shipment of grains through the Black Sea, with Moscow and Kyiv currently targeting each other's ships.\n\nRussia's de facto blockade of Ukraine's Black Sea ports in the Odesa region has led to a 76% fall in Ukraine's grain exports year-on-year so far in August.\n\nZelenskyy said he had spoken with the two envoys about an energy and grain ceasefire that could provide a starting point for peace.\n\n\"What can bring us to any kind of negotiations? So energy and grain. This is step number one. What we can achieve,\" he said.\n\nEdited by: Jenipher Camino Gonzalez",
+        "fullTranslation": "乌克兰总统弗拉基米尔·泽连斯基在接受德国之声（DW）专访时表示，乌克兰在谈判中处于有力地位，并提出愿在迈阿密与弗拉基米尔·普京会面。\n\n乌克兰总统弗拉基米尔·泽连斯基表示，如果其俄罗斯对等领导人弗拉基米尔·普京出席定于12月举行的二十国集团（G20）领导人峰会，他也将前往迈阿密。\n\n周五，当DW记者米沙·科马多夫斯基提出该问题时，泽连斯基给出了积极的回应。\n\n“是的，当然。我们必须去。我们必须碰面、交谈并做出决定，”他说道。\n\n泽连斯基补充道，他打算对普京说什么并不重要，重要的是结果。\n\n“这不是关乎言辞。我跟他说什么，或者他想跟我说什么，这都不重要。这并不重要。……结果才重要。就是这样。”\n\n自2022年2月俄罗斯对其较小的邻国发动全面入侵以来，泽连斯基和普京就未曾面对面会晤过。\n\n克里姆林宫迄今拒绝透露普京是否会前往迈阿密参会。\n\n自2019年以来，这位俄罗斯领导人便未曾亲自出席过G20峰会。\n\n然而，上个月俄罗斯财政部长安东·西卢安诺夫受美国邀请出席了在北卡罗来纳州举行的G20国家会议，此举引发了欧洲官员的不满。\n\n泽连斯基接受DW专访之际，夏季即将结束，乌克兰正为寒冷的冬季做准备。\n\n这位乌克兰总统承认，该国在应对俄罗斯日益频繁部署的喷气动力飞行无人机方面面临困难。\n\n“他们（美国）有出售和提供帮助的政治意愿，但产量并不是很大。因此这意味着动用库存是一种选项，”他说道。\n\n“美国人是否愿意给我们（爱国者导弹）？我不知道。我们走着瞧。”\n\n“爱国者”导弹是强效武器，目前是对抗俄罗斯弹道导弹袭击最有效的防空手段。\n\n“俄罗斯（目前）每月生产140枚弹道导弹。因此，根据北约的规则，如果要摧毁140枚，你需要1比2的比例，也就是280枚导弹，”泽连斯基对DW表示。\n\n“你永远不可能每月拥有280枚导弹，私底下说，哪怕每月拥有100枚导弹也是一个巨大的挑战。这就是我想要的。我希望在这些艰难的月份里，特别是在寒冷的月份里，能拥有100到120枚。”\n\n德国本周早些时候表示，将从其国家库存中运送“爱国者”导弹，但未透露具体导弹数量。\n\n泽连斯基呼吁基辅的欧洲盟友提供更多支持。\n\n“他们必须尽可能多地提供援助。在充分尊重他们的前提下，他们必须向乌克兰人提供援助以挽救他们的生命。”\n\n泽连斯基还谈到已与数家欧洲公司达成协议，共同开发一款名为“弗雷亚”（Freya）的由乌克兰主导的反导系统。\n\n他表示希望第一阶段测试能在12月底前展开，并强调时间非常紧迫。\n\n如需观看此视频，请启用JavaScript，并考虑升级到支持HTML5视频的网页浏览器\n\n泽连斯基表示，美国特使史蒂夫·威特科夫和贾里德·库什纳本周早些时候不仅访问了莫斯科，还访问了基辅，这是一个“积极信号”。\n\n他表示，他已向他们明确指出，据估计俄罗斯每月损失超过3万名士兵，因此乌克兰在结束冲突的谈判中处于有利地位。\n\n泽连斯基表示，这意味着莫斯科正在为战场上取得的微小战果付出“高昂代价”。\n\n“所以这就是为什么我们认为，我们现在处于有利的谈判地位，”他说，并补充称乌克兰现在的实力比去年更为强大。\n\n今年夏天持续出现的另一个令人担忧的问题是黑海的粮食运输，目前莫斯科和基辅正将彼此的船只作为攻击目标。\n\n俄罗斯对乌克兰敖德萨地区黑海港口的实质性封锁，导致今年8月迄今乌克兰粮食出口量同比下降了76%。\n\n泽连斯基表示，他已与两位特使探讨了关于能源和粮食的停火问题，这可作为通往和平的起点。\n\n“有什么能把我们引向任何形式的谈判？就是能源和粮食。这是第一步。也是我们能够做到的，”他说道。\n\n责任编辑：赫妮菲尔·卡米诺·冈萨雷斯",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 32,
+        "keyTakeaways": [
+          "乌克兰总统泽连斯基在接受德国之声（DW）专访时表示，如果俄罗斯总统普京出席定于12月举行的迈阿密二十国集团（G20）峰会，他愿意前往迈阿密与其会面。",
+          "自2022年2月俄罗斯发动全面进攻以来，泽连斯基与普京未曾进行过面对面会晤。",
+          "来源叙事重点：报道以泽连斯基表示愿在迈阿密G20峰会与普京会面为核心，强调乌方称自身处于较有利的谈判位置；同时将议题延伸至乌克兰冬季防空需求、爱国者导弹供应、欧洲军事支持、Freya反导系统，以及能源和粮食停火作为潜在谈判起点。整体叙事主要从乌克兰总统的政策主张、军事评估和外交倡议展开。"
+        ],
+        "citations": [
+          {
+            "source": "Deutsche Welle (EN 官方英语)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T05:46:00.000Z",
+            "url": "https://www.dw.com/en/in-an-exclusive-interview-with-dw-zelenskyy-says-he-would-be-open-to-meeting-with-putin-at-the-g20-summit-in-miami/a-79241703"
+          }
+        ]
+      },
+      {
+        "id": "story-item-628871b105fd3a46",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Usenet rewind archive search engine",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:19:52.000Z",
+        "pubTime": "2026-09-12 12:19",
+        "url": "https://www.usenet-rewind.com/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-12 12:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.usenet-rewind.com/",
+            "publishedAt": "2026-09-12T04:19:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-f-48bb-820e-64290e916f5e-1839f61aeccbef25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US limits air defence time slots for tankers sailing through Hormuz",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T04:00:22.000Z",
+        "pubTime": "2026-09-12 12:00",
+        "url": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0db6d0ec-0737-4ff9-8d0b-9fb196e1a633.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Shift to two specified times daily follows increase in Iranian attacks",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T04:00:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-daus-tensions-as-strange-9711e42e7a5e0f77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Zelenskyy describes Canada-U.S. tensions as 'strange,' draws comparison to Ukraine and Russia",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T02:43:37.000Z",
+        "pubTime": "2026-09-12 10:43",
+        "url": "https://www.reddit.com/r/worldnews/comments/1we0i7c/zelenskyy_describes_canadaus_tensions_as_strange/",
+        "imageUrl": "https://external-preview.redd.it/uxos9RV9bRZ0CYJ2FHCVW__u1V0cHp26wIJzLfgvP6g.jpeg?width=320&crop=smart&auto=webp&s=6c202460845cacab3fabc2646f2274daf5d352bb",
+        "fullContent": "submitted by /u/MilkyWayObserver [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-12 10:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1we0i7c/zelenskyy_describes_canadaus_tensions_as_strange/",
+            "publishedAt": "2026-09-12T02:43:37.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789144642853,
     "timeDisplay": "2026-09-12 00:37 (UTC+8)",
     "date": "2026-09-12",

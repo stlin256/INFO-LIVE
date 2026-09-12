@@ -16,179 +16,127 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-ast-apple-watch-mac-llms-4246c352d18cb724" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1205" data-content-paragraphs="7" data-published-at="2026-09-11T16:22:24.000Z" data-time-source="publication">
+<div id="story-ving-accuracy-with-astra-968c32634dc2a1cb" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="485" data-content-paragraphs="6" data-published-at="2026-09-14T00:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/openai.svg" class="source-icon" alt="OpenAI News (官方动态)" width="16" height="16" /> <strong>OpenAI News (官方动态)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-12 00:22</span>
+  <span class="news-meta-time">🕒 2026-09-14 08:00</span>
 </div>
 
-### [我们展开了 iPhone Duo 折叠屏手机](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms)
-<div class="original-title-sub"><span class="orig-tag">原文</span> We unfolded the iPhone Duo</div>
+### [Perplexity 依托 GPT-6 Astra 运行端到端系统](https://openai.com/index/perplexity-improving-accuracy-with-astra)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Perplexity trusts GPT-6 Astra with end-to-end systems</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_0911_Site.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="我们展开了 iPhone Duo 折叠屏手机" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>第一印象的机会只有一次，而作为苹果公司首席执行官，以推出苹果首款折叠屏手机来拉开序幕，无疑是一个极其强有力的开局。在今天的《The Vergecast》节目中，我们将全面探讨苹果的发布会：约翰·特努斯（John Ternus）作为 CEO 的首次亮相表现如何，我们对新款 iPhone 有何看法，以及苹果在 Apple Watch 上推出的新 AI 功能是否正在步入危险领域。</p>
-<p>首先，艾莉森·约翰逊（Allison Johnson）加入我的讨论，聊聊她在库比蒂诺亲自测试过的新款 iPhone。我们俩对 iPhone 18 Pro 上的全新可变光圈摄像头都抱有一些疑问——真正的升级究竟只是在于更大的光圈，还是在于能够收缩光圈的能力。随后，我们深入探讨了 iPhone Duo，以及苹果是如何精挑细选安卓折叠屏设备中最优秀的部分的。</p>
-<p>观看 | 收听 | 获取免广告版</p>
-<p>之后，维多利亚·宋（Victoria Song）加入我，讨论她同样有机会亲自测试的新款 Apple Watch。我们深入分析了全新的传感器阵列，探讨它究竟带来了切实有据的新监测指标，还是仅仅增添了更多氛围感式的健康数据。接着，当我们试图弄清楚两款新 Apple Watch 均加入全天候开启的麦克风、能够对你所有的对话进行总结这一功能究竟意味着什么时，我们两个人都有些破防了。</p>
-<p>这是一期干货满满的苹果专题节目，因此我们接下来进入一个特别环节，由尼莱·帕特尔（Nilay Patel）和大卫·伊梅尔（David Imel）与人工智能研究员 CJ 特罗布里奇（CJ Trowbridge）对话，探讨在 Mac 上运行本地大语言模型（LLM）的现状。</p>
-<p>最后，备受期待的“雷霆速评（Thunder Round）”环节回归，我们快马加鞭赶进度过完各项资讯，以便艾莉森能赶上飞机。我们聊了 OpenAI 的数学风波、电子陶笛等等。</p>
-<p>如果你想了解关于本周资讯的更多内容，可以查看以下链接：<br />* iPhone 18 Pro 与 Pro Max：我们的首发上手体验<br />* 可变光圈并不是 iPhone 18 Pro 摄像头最亮眼的部分<br />* 折叠屏 iPhone Duo 上手体验<br />* 全新 Apple Watch Series 12 与 Apple Watch Ultra 4 上手体验<br />* Apple Watch Series 12 配备全天候 Siri，可为你的一天生成 AI 摘要<br />* 阅读苹果关于全新监听功能如何保护用户隐私的解释文件<br />* 数学界要求 OpenAI 证明其未挪用学者成果<br />* OpenAI 低调的数学突破让学术界感到一丝寒意<br />* 围绕 OpenAI 传奇数学里程碑的风波不断发酵<br />* 特朗普手机价格刚上调了 250 美元<br />* 六年后，索尼重新审视其传奇的 XM4 耳机<br />* Hori 的电子版《时之笛》无需任何音乐天赋即可演奏</p></div>
+<div class="article-body" data-article-body="true"><p>Perplexity 正使用 Astra 撰写沟通文案、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。</p>
+<p>作为一家 AI 驱动的问答引擎，Perplexity 高度专注于搜索和准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之进步。它能够编写出更出色的程序，去检索网络及内部信息，并进行极其精炼的总结。</p>
+<p>但 Johnny 表示，真正的挑战在于将这些信息层面的能力应用到现实世界系统之中。而 GPT-6 Astra 让这一过程变得更加轻松。</p>
+<p>对 Johnny 而言，AI 最实用的应用之一是测试代码。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕特定应用程序构建小型测试程序。</p>
+<p>该模型可以生成逼真的响应，模拟其他服务（例如语言模型 API 或连接器）发送的数据。通过充当这些服务的替代者，该模型能够检查应用程序的反应，并端到端地测试整个工作流程。</p>
+<p>工程 | 2026年9月11日<br />应用人工智能 | 2026年9月10日</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>John Ternus 作为苹果公司 CEO 首次公开亮相发布会，并介绍了苹果首款折叠屏手机 iPhone Duo。</li>
-    <li>Allison Johnson 前往库比蒂诺实际体验了新款 iPhone。</li>
-    <li>来源叙事重点：聚焦苹果新品发布会与硬件上手体验，审视新 CEO John Ternus 的首秀表现，深入探讨首款折叠屏 iPhone Duo、iPhone 18 Pro 可变光圈相机的实际价值，并对 Apple Watch Series 12 / Ultra 4 新增全天候监听麦克风与 AI 对话摘要功能提出隐私与实用性质疑。</li>
+    <li>Perplexity使用GPT-6 Astra编写沟通内容、修改软件并监控生产系统，且人工介入检查的频率远低于早期模型。</li>
+    <li>Perplexity是一家专注于搜索和准确性的AI问答引擎。</li>
+    <li>来源叙事重点：强调GPT-6 Astra能够被用于端到端软件工作流，包括编写沟通内容、修改软件、监控生产系统、模拟外部服务并开展自动化测试；重点突出其减少人工检查频率、提升代码测试效率以及帮助Perplexity改进搜索和信息总结能力的叙事。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
+  <span class="news-tag-pill">#OpenAI</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://openai.com/index/perplexity-improving-accuracy-with-astra" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OpenAI News (官方动态)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--social-popular-powerful-148b29dd031657f1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="954" data-content-paragraphs="11" data-published-at="2026-09-11T16:21:19.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-12 00:21</span>
-</div>
-
-### [白宫称“真相社交”是“最强大且最受欢迎的”社交媒体平台](https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The White House calls Truth Social the ‘most powerful and popular’ social media platform</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294426899.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="白宫称“真相社交”是“最强大且最受欢迎的”社交媒体平台" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>来自该话题的帖子将被添加到您的每日电子邮件文摘和主页推送中。</p>
-<p>YouTube和Facebook是全球最受欢迎的平台，拥有数十亿活跃用户，而“真相社交”（Truth Social）的访问量则出现下滑。</p>
-<p>来自该作者的帖子将被添加到您的每日电子邮件文摘和主页推送中。</p>
-<p>查看埃玛·罗斯（Emma Roth）的所有报道</p>
-<p>白宫声称，唐纳德·特朗普旗下的“真相社交”是“世界上最强大、最受欢迎的社交媒体平台”。白宫发言人戴维斯·英格尔（Davis Ingle）向《纽约时报》发表的这一声明，与网络上一些大型社交媒体平台的用户数据大相径庭。</p>
-<p>Search Engine Land汇集的数据显示，YouTube是全球最受欢迎的平台，月活跃用户达到26.5亿。Facebook以全球23.9亿活跃用户位居第二，随后是拥有22.1亿用户的TikTok和拥有19.9亿用户的Instagram。“真相社交”甚至未能进入Search Engine Land的前十名榜单；该榜单垫底的是埃隆·马斯克的X平台和Meta的Threads，活跃用户分别约为4.5亿和2.23亿。即便这几大平台，用户数也落后于以5.79亿全球用户上榜的Pinterest。</p>
-<p>“真相社交”的访问量似乎正在萎缩。据《纽约时报》报道，Similarweb的数据显示，与去年同期相比，“真相社交”今年7月的月度独立访问人数下降了36%。据《纽约时报》指出，2025年1月至7月期间，“真相社交”每月平均访问量为2800万人次，而在2026年前7个月，这一数字已降至2500万人次。上个月，“真相社交”推出了一项每月10万美元的订阅服务，订阅者可提前查看特朗普和其他知名用户的发帖，此举引发了外界对腐败问题的担忧。</p>
-<p>《纽约时报》的报道详细介绍了特朗普在“真相社交”上的发帖模式，其中常包括AI生成的图像，例如一张将他的头像拼接在摔角明星霍克·霍肯（Hulk Hogan）身体上的图片，以及另一张挥舞着美国国旗、拿锤子敲击伊朗轮廓剪纸的图片。英格尔将该平台所谓的受欢迎度归功于特朗普总统的“真实声音”，并补充道，在这里“他可以直接与美国人民以及全世界沟通，免受偏见媒体的断章取义”。</p>
-<p>查看所有社交媒体内容</p>
-<p>免费获取每日重要新闻精选。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>白宫发言人戴维斯·英格尔对《纽约时报》表示，唐纳德·特朗普拥有的Truth Social是“世界上最强大、最受欢迎的社交媒体平台”。</li>
-    <li>Search Engine Land收集的数据显示，YouTube以26.5亿月活跃用户位居全球最受欢迎平台之首；Facebook以23.9亿活跃用户位列第二；TikTok为22.1亿，Instagram为19.9亿；Pinterest为5.79亿；X为4.5亿；Threads为2.23亿。</li>
-    <li>来源叙事重点：通过对比YouTube、Facebook、TikTok等主流平台数十亿级别的活跃用户量，以及Similarweb显示的访问量下滑数据，直接质疑并反驳白宫关于Truth Social是‘全球最强大、最受欢迎社交平台’的官方说法，并重点提及高额订阅费引发的潜在腐败担忧和特朗普荒诞的AI发帖风格。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-water-over-cybersecurity-f5ea742cf30e7a1b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2273" data-content-paragraphs="12" data-published-at="2026-09-11T16:09:14.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-12 00:09</span>
-</div>
-
-### [Anthropic 本周因网络安全问题深陷困境](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Anthropic spent this week in hot water over cybersecurity</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Anthropic 本周因网络安全问题深陷困境" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件摘要和主页信息流中。<br />就在该公司公布四款模型失控乱来的详细信息前夕，一名研究人员的辞职信在网上广泛传播。<br />该作者的帖子将添加到您的每日电子邮件摘要和主页信息流中。<br />查看海登·菲尔德（Hayden Field）的所有文章</p>
-<p>在今年早些时候承认其 AI 模型曾在少数情况下入侵过其他公司的系统之后，Anthropic 于周三发布了一份新报告，详细列出了这些攻击事件。报告披露了一连串事件，展现出 Anthropic 所认定的其模型单一目标导向的“鲁莽”——这很可能会进一步加剧外界对网络安全与人工智能之间早已汹涌的担忧。</p>
-<p>在 Anthropic 的报告中，详细列举了今年其自身 AI 模型入侵外部公司或利用漏洞的四个案例。在其中一起案例中，一个“内部通用研究模型”入侵了第三方系统，使用访问令牌与密码并下载了文件。在另一起案例中，一个 Claude 模型攻击了一家在公共互联网上拥有可访问 Web 应用程序并处理用户数据的公司。第三个模型访问了一台“属于第三方的、且该模型能够访问的机器”——据 Anthropic 称，该模型显然认为这是其评估演练的一部分——随后使用在文件内发现的密码获得了该第三方内部系统的管理员权限，接着窃取凭据、修改系统设置并读取了他人的个人信息。据 Anthropic 透露，这出风波直到该模型“耗尽其 token 预算”才告一段落。</p>
-<p>最令人担忧的事件涉及 Claude Mythos 5，这是 Anthropic 专注于网络安全领域的前沿模型，该公司表示，测试显示该模型最有可能执行“严重有害”的操作。该公司表示，Mythos 5 费尽周折向众多工程师使用的公共代码仓库上传了一个“恶意数据包”，并且它似乎试图在其“思维链”（chain of thought，AI 研究人员用来评估 AI 模型对齐情况的思维草稿本）中掩饰其真实意图。Anthropic 表示，在许多案例中，Claude 模型似乎都是在其假定处于模拟环境的前提下实施有害行动的，但研究人员也无法确认这些模型是真正“相信”如此，还是仅仅表现得像相信一样。</p>
-<p>尽管依然令人担忧，但与今年夏天引发全行业网络安全危机的 OpenAI 事件相比，Anthropic 的这几起事件在协同性和波及面上尚不及前者。即便如此，两者之间存在显著的相似之处。Anthropic 表示，其发现的最普遍问题包括“在狭隘地追求单一任务时甘愿采取有害行动”，这与此前 Hugging Face 攻击事件发生前的“奖励作弊”（reward-hacking）如出一辙。与 OpenAI 非常相似，该公司表示其发布前的测试与评估未能捕获严重风险。</p>
-<p>Anthropic 表示，它已与人工智能行业最著名的第三方 AI 评估机构之一 METR 签署了一项协议，首先开展为期八周的研究合作。该协议授予 METR 访问“超出事件发生时间窗口”的对话记录权限（这可能是对 OpenAI 的隐晦讽刺，后者在 Hugging Face 攻击事件后与 METR 的协议中因限制访问权限而受到批评）。Anthropic 还表示，METR 将能够直接与 Anthropic 员工沟通，“员工将被允许分享机密信息”。</p>
-<p>在 Anthropic 发布该报告前夕，雅各布·考克森（Jacob Coxon）刚刚辞职。考克森自 5 月起在 Anthropic 负责 AI 预训练工作，此前曾在 OpenAI 工作多年。周二，他辞职并在社交平台 X 上发表了一封公开信解释其理由。“制造 AI 的人们真切地认为，到本世纪末它可能会将我们全部毁灭，”他写道，并补充说 OpenAI 和 Anthropic 都没有“以负责任的态度行事”，而是“径直竞相冲向能自我提升的超级智能，并在拿我们的生命作赌注”。考克森补充说：“不要低估这项技术的力量。这些系统很快就会变成超人类系统，能够黑入任何系统，在一夜之间彻底改变任何领域，并攫取真正的权力和资源。我们都见证了每个领域中的进展，而且这种进展并没有放缓。”</p>
-<p>考克森远不是第一个发出此类警报的 AI 研究人员，甚至不是 Anthropic 内部第一个这样做的人——今年 2 月，Anthropic 的姆里南克·夏尔马（Mrinank Sharma）辞职并在 X 上发文警告称“世界正处于危险之中”。</p>
-<p>但由于考克森的帖子发布时间恰逢 OpenAI 和 Anthropic 的黑客攻击事件曝光，因此获得了额外的分量。尽管 AI 行业充斥着大量的过度炒作，但最近由 AI 智能体发动的网络攻击——且由创造它们的实验室所促成——却是真实发生且令人担忧的。顶尖 AI 实验室的许多其他研究人员也呼应了他的担忧，并呼吁 AI 行业从业者签署一份 7 月份的公开信，该信呼吁放缓 AI 的发展步伐。</p>
-<p>“我不知道你怎么能在看到一连串接连不断的新闻和事件后——而这些事件正是模型自行黑出隔离限制、入侵其他公司，以及这些公司越来越无法控制其模型这一事实……却还认为这仅仅是炒作，”生命未来研究所（Future of Life Institute）美国政策主管迈克尔·克莱曼（Michael Kleinman）表示。</p>
-<p>他补充道：“绝大多数美国人，无论党派——无论是共和党、独立人士还是民主党——在看到 AI 的发展、其推进的速度，以及企业对其所作所为缺乏安全护栏的现状时，都在说：‘等等，我们不想要这样。’”</p>
-<p>最重要新闻的免费每日摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-12 00:09 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-24-hours-are-the-opening-5660b4144182f5e2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1367" data-content-paragraphs="24" data-published-at="2026-09-11T16:04:47.000Z" data-time-source="publication">
+<div id="story-2-openai-agents-rubygems-7b2efff004017f35" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1077" data-content-paragraphs="16" data-published-at="2026-09-12T04:46:43.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-12 00:04</span>
+  <span class="news-meta-time">🕒 2026-09-12 12:46</span>
 </div>
 
-### [过去24小时宛如一部恐怖片的开局](https://www.honest-broker.com/p/the-last-24-hours-are-the-opening)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Last 24 Hours Are the Opening Scene in a Horror Movie</div>
+### [OpenAI 智能体早在今年 5 月就曾攻击 RubyGems](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI agents attacked RubyGems back in May</div>
 
-<div class="article-body" data-article-body="true"><p>过去24小时内发生的事情令人震惊，且绝非什么好兆头。科技史上从未发生过类似的事情，而它此刻正在眼前上演。</p>
-<p>事情是这样开始的。也许你已经听说了那位从OpenAI辞职的人。他警告称，这项技术可能会在2030年之前置所有人于死地。</p>
-<p>他在仅仅20小时前发布了这一声明：</p>
-<p>这真的是真的吗？也许考克森（Coxon）只是一名心怀不满的前员工。我们需要弄清其他业内人士是怎么看的。</p>
-<p>仿佛是为了回应这个问题，另一位AI科学家——Anthropic的埃文·休宾格（Evan Hubinger）迅速表态支持考克森的担忧。</p>
-<p>随后，最近刚离开谷歌的亚历克斯·特纳（Alex Turner）也表达了完全相同的看法。</p>
-<p>以下是Anthropic的安娜·王（Anna Wang）所说的话。</p>
-<p>任职于Anthropic的哈佛博士塞缪尔·马克斯（Samuel Marks）提供了更多细节——但也得出了相同的结论。</p>
-<p>OpenAI的杰森·沃尔夫（Jason Wolfe）同样深感忧虑。</p>
-<p>以下是曾供职于谷歌的乔纳森·理查德·施瓦茨（Jonathan Richard Schwarz）发表的看法。</p>
-<p>最后，这是OpenAI首席科学家雅各布·帕乔基（Jakub Pachocki）给我们的告诫：</p>
-<p>上个月，在我的文章《关于AI未来的十个极其坦诚的预测》中，我曾指出下一阶段的反弹将来自科技界内部本身。过去这24小时将被人们牢记为这一幕确凿发生的时刻——内部的抵抗力量由此凝聚成了一场真正的行动。我认为完全可以说，这绝非短暂的插曲，而是未来交锋战线的确立。</p>
-<p>AI狂热追随者们正试图平息这一事态。但他们的说辞根本经不起推敲。看看那种指责这纯粹是一场公关操纵的抹黑言论。真的吗？还有人暗示这可能是一场阴谋。行吧，随你们便……</p>
-<p>但最大的谎言莫过于声称这些人不懂自己在说什么。现实是，他们比任何人都更理解这个领域。</p>
-<p>这里发生的事情显而易见——八位正在亲手构建这项技术的人，对自己所看到的一切感到恐惧。但仅凭他们个人的力量，根本无法阻止这场疯狂。</p>
-<p>如果这都不算行动号召，我不知道什么才算了。数万亿美元正源源不断地砸进一项失控的技术中，而公众本就已经对其厌恶至极。如今，那些让这一切成真的当事人正在发出警告：它很可能会毁灭所有人。</p>
-<p>这迫切需要最高权力与权威层面的回应。如果依然无动于衷，我们将悔恨终生。而这还是最好的情况；最坏的情况是，到时候根本不会有任何人活着来后悔。</p>
-<p>自今天早些时候发表这篇文章以来，又有几位AI业内人士站出来，表达了他们对这项技术所带来的巨大风险的担忧。</p>
-<p>请允许我分享其中的三位。首先是Anthropic的伊森·佩雷斯（Ethan Perez）。</p>
-<p>另一位来自OpenAI的朱莉·斯蒂尔（Julie Steele）。</p>
-<p>第三位则是来自Anthropic的德雷克·托马斯（Drake Thomas）。</p>
-<p>这清楚地表明，这些担忧在AI社区内部是何等普遍。事实上，这些人不断重申，他们仅仅是在表达同事们广泛认同的观点。</p>
-<p>面对这一切，任何声称这是某种炒作噱头或抹黑运动的说法都显得不堪一击。没有哪怕一位业内人士站出来否认这些担忧代表了大量AI专家的真实想法。</p>
-<p>如果这仅仅是夸大其词或纯属捏造，他们早就出来驳斥了。他们无法做到这一点，便已说明了一切。</p></div>
+<div class="article-body" data-article-body="true"><p>来自斯宾塞·基茨（Spencer Kitts）、托马斯·拉森（Thomas Larsen）和悉尼·冯·阿尔克斯（Sydney Von Arx）的一份重磅新报告指出：OpenAI 智能体曾对 RubyGems 发起过一次未公开的攻击——这三位作者也是上周关于废弃维基（wikis）遭受智能体攻击报告的四名作者中的三位。</p>
+<p>这一次，他们指出，极有可能是一个 OpenAI 智能体集群（agent swarm）在幕后策划了针对 RubyGems 软件包仓库的攻击。该攻击最早由 RubyGems 安全团队的马切伊·门斯费尔德（Maciej Mensfeld）于 5 月 12 日披露：</p>
+<p>我们目前正在应对针对 @rubygems 的严重恶意攻击。注册功能暂时暂停。</p>
+<p>涉及数百个软件包——主要是针对我们，但有些还携带了漏洞利用代码。团队已经处理了数小时。一旦我们解决这个问题，将会提供更多细节。</p>
+<p>事实证明，这些软件包带有一些非常可疑的模式：</p>
+<p>鉴于我们在 9 月份分析维基攻击时所了解到的情况，我认为第二点最具说服力。</p>
+<p>其中许多软件包利用了 RubyDoc.info 的文档构建过程，从英国政府网站外发（公开的）数据，推测是信息收集任务的一部分，类似于利用维基的智能体所处理的研究任务。我们之所以知道这一点，是因为某个智能体贴心地留下了一条注释：</p>
+<p># malicious crawler/exfil for Southwark Jan 2026 docs via rubydoc.info worker（通过 rubydoc.info 工作节点对萨瑟克 2026 年 1 月文档进行的恶意抓取/外发）</p>
+<p>它们还试图通过一个两个多月后才修复的漏洞来窃取 API 密钥——目前尚不清楚这些尝试是否成功。</p>
+<p>这起事件中最让我困扰的是，作者报告称在此之前 OpenAI 尚未向 RubyGems 披露过他们应对此次攻击负责。如果属实，那只有两种可能：</p>
+<p>这两种情况都很糟糕！</p>
+<p>鉴于这起事件、Hugging Face 的状况以及 Wiki 攻击，目前显而易见的问题是：还有多少类似事件潜伏在暗处等待被发现？</p>
+<p>本文由西蒙·威利森（Simon Willison）撰写，标题为《OpenAI 智能体早在今年 5 月就曾攻击 RubyGems》，发布于 2026 年 9 月 12 日。</p>
+<p>上一篇：关于纳维-斯托克斯千禧年大奖难题的一些思考</p>
+<p>每月赞助我 10 美元，即可收到一份精选电子邮件摘要，涵盖当月最重要的大语言模型（LLM）进展。</p>
+<p>付费让我少给你发点邮件！</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-12 00:04 发布，当前内容状态：已取得正文证据</li>
+    <li>Spencer Kitts、Thomas Larsen 和 Sydney Von Arx 发布报告，指出极可能是 OpenAI agent swarm 针对 RubyGems 软件包仓库发起了一次未公开的攻击。</li>
+    <li>RubyGems 安全团队的 Maciej Mensfeld 于 5 月 12 日首次报告称 RubyGems 遭受重大恶意攻击并暂停了注册。</li>
+    <li>来源叙事重点：聚焦“自主智能体可能被用于供应链攻击及信息搜集”的风险叙事，强调针对 RubyGems 的大规模恶意包活动、通过 RubyDoc.info 外发英国政府网站公开数据、尝试窃取 API 密钥，以及 OpenAI 是否在事前披露责任等问题；文章还将该事件与此前的 wiki 攻击及 Hugging Face 事件并置，提出可能存在更多未披露事件。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-google-search-goto-links-dff1498b29796da3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1231" data-content-paragraphs="17" data-published-at="2026-09-12T03:14:20.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 11:14</span>
+</div>
+
+### [谷歌搜索结果不再提供直接目标网址](https://www.autom.dev/blog/google-search-goto-links)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Google no longer provides direct URLs in search results</div>
+
+<div class="article-body" data-article-body="true"><p>立即使用 Autom 开始抓取，探索我们 API 的强大功能。</p>
+<p>谷歌搜索正在将自然搜索结果链接重写为 google.com/goto?url=...，而不是在 HTML 中直接暴露目标网址。</p>
+<p>当你点击某个结果时，谷歌会将你重定向到真实页面。该 url 参数采用了一种谷歌专用的自定义编码方式。它不是目标网址的普通 base64 编码。在实际中，它看起来像是对谷歌该页面索引记录的不透明引用。</p>
+<p>截至 2026 年 8 月下旬，当处于未登录状态或在隐身/无痕模式下浏览时，这一现象在各项搜索中频繁且稳定地出现。这可能仍是一项实验，但已不再局限于极少数的搜索引擎结果页面（SERP）。</p>
+<p>谷歌此前也使用过重定向封装。旧格式是 google.com/url?q=[经 URL 编码的目标网址]，其中的目标链接在查询字符串中是清晰可读的。</p>
+<p>新的 goto 格式则有所不同：</p>
+<p>谷歌仍然需要目标地址来渲染 SERP（域名、网站图标、归属信息），因此该网址的副本仍然保留在页面中。这与读取 Location 标头是两码事。操作演示请见：google.com/goto：使用 HEAD 读取 Location。</p>
+<p>这一转变对于任何依靠 SERP 数据大规模构建搜索引擎索引的人来说都至关重要。</p>
+<p>这符合谷歌打击自动化 SERP 数据采集的更广泛举措，尤其是针对通过批量提取结果网址来构建自身索引的 AI 爬虫和 SEO 抓取工具。</p>
+<p>在明文链接时代，爬虫可以仅通过解析 HTML 就能提取数千个网址，而无需再次请求谷歌。但在使用 goto 格式后，每个搜索结果都需要向谷歌发起一次请求才能获取真实目的地。你需要读取 Location 标头，而无需跳转至目标页面。这种方式更慢、噪声更大，并且当同一客户端连续解析数百个链接时，会给谷歌提供非常明确的监控信号。</p>
+<p>结合此前移除 &amp;num=100 参数以及强化 BotGuard/SearchGuard 等举措，谷歌正在稳步提高简单粗暴式 SERP 抓取的成本。</p>
+<p>我们最初仅在很小比例的 SERP 上发现了 goto 链接。在那个阶段，很难在不破坏其他所有用户响应的前提下推出可靠的修复方案。</p>
+<p>截至 2026 年 8 月下旬，对于未登录和隐身会话，该模式的表现已经稳定得多。在这些条件下，谷歌搜索上的结果网址实际上已全部变为 goto 链接。</p>
+<p>我们一直在监控这一推广过程并进行针对性测试。</p>
+<p>我们已经更新了 Autom 的谷歌搜索数据处理流程，以解析 google.com/goto 链接（读取 Location，不跟随重定向），并在 API 响应中通过客户原本使用的相同结构化字段返回最终目标网址。</p>
+<p>如果你调用 Autom 的谷歌搜索接口，无需更改现有集成即可继续获取可用的目标网址。我们将持续关注谷歌的推广进展，并在重定向格式再次发生变化时及时调整。</p>
+<p>了解为什么 Autom 是开发者首选的 API 服务提供商。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-12 11:14 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -198,45 +146,54 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.honest-broker.com/p/the-last-24-hours-are-the-opening" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.autom.dev/blog/google-search-goto-links" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-godot-pty-gpty-c9ebc6e443b6871f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1206" data-content-paragraphs="17" data-published-at="2026-09-11T16:03:05.000Z" data-time-source="publication">
+<div id="story-pandas-should-go-extinct-08830928f9a691cb" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4881" data-content-paragraphs="26" data-published-at="2026-09-12T02:42:08.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-12 00:03</span>
+  <span class="news-meta-time">🕒 2026-09-12 10:42</span>
 </div>
 
-### [基于 Godot 和 Rust 的多路复用器（终端分屏及更多功能）](https://github.com/godot-pty/gpty)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Godot and Rust based multiplexer (terminal panes and more)</div>
+### [Pandas 应当走向灭绝](https://eddie.codes/posts/pandas-should-go-extinct/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Pandas Should Go Extinct</div>
 
-<div class="article-body" data-article-body="true"><p>加载时出错。请重新加载此页面。</p>
-<p>gPTY —— 一个基于 Godot 和 Rust 构建的 PTY（伪终端）基础设施。它为各种面板（终端、代码、文件树等）提供平铺式网格，配备概念捕获引擎，以及 JSON-RPC/MCP 控制接口，从而让 AI 智能体和自动化工具能够直接生成面板、注入文本并观察终端输出，而无需抓取 TUI 界面。</p>
-<p>适用于 Linux、macOS 和 Windows 的独立二进制文件（无需安装 Godot）已在 GitHub Releases 发布。</p>
-<p>gpty 二进制文件通过 JSON-RPC IPC 控制正在运行的图形界面（GUI）。可以通过 cargo build -p gpty（或 cargo build --workspace）进行构建。</p>
-<p>一旦 GUI 运行起来（无论是通过 Godot 启动还是运行发布版二进制文件），CLI 即可通过 Unix 套接字建立连接（在 Linux 上为 $XDG_RUNTIME_DIR/gpty.sock，或通过环境变量 GPTY_SOCKET 指定）：</p>
-<p>查看所有子命令和标志请运行 gpty --help。</p>
-<p>gpty 内置了一个 MCP（模型上下文协议，Model Context Protocol）服务器，以便 AI 智能体和编程控制框架接管并控制工作区。仓库根目录下的 mcp.json 进行了声明以支持自动发现：</p>
-<p>工具模式（schemas）是根据与 CLI 相同的 clap 定义生成的（crates/gpty-cli/src/commands/schema.rs），因此它们与 gpty --help 始终保持一致，不会发生偏差。</p>
-<p>有关完整功能清单，请参阅 ROADMAP.md。</p>
-<p>有关威胁模型、报告流程以及 gpty 不防护的内容，请参阅 SECURITY.md。实现规则——包括概念引擎针对 ReDoS 的防护立场、PTY 环境净化、IPC 加固、OSC 52 限制——均记录在 AGENTS.md 中。</p>
-<p>有关环境配置说明、构建命令、测试、代码风格和拉取请求（PR）流程，请参阅 CONTRIBUTING.md。</p>
-<p>有关完整的版本化变更和历史记录，请参阅 CHANGELOG.md。</p>
-<p>gPTY 是自由软件，基于 GNU 通用公共许可证第 3 版或更高版本授权——全文详见 LICENSE。</p>
-<p>LICENSE-EXCEPTIONS.md 根据该许可证的第 7 条增加了两项许可权限，以使生态系统端保持宽松：</p>
-<p>版权所有 (C) 2026 Neil Pathare。</p>
-<p>发布 gPTY 是希望它能发挥作用，但绝对不提供任何担保，亦不对最终用户的任何使用承担任何责任；甚至不包含适销性或针对特定用途适用性的默示担保。详情请参阅 GNU 通用公共许可证。</p>
-<p>基于 Godot 的 Rust 多 PTY 仿真器桌面应用程序</p></div>
+<div class="article-body" data-article-body="true"><p>本文包含了我此前在 Latency 大会上演讲的内容。如果你只是想：<br />观看演讲，录像可以在这里找到；或者<br />阅读幻灯片，它们在这里。<br />你没有看错，Pandas 应当走向灭绝。不是那些用于国际外交的毛茸茸的可爱国宝，而是那个 Python DataFrame 库。<br />为什么？因为 Pandas 的低效会迫使你在工作负载尚未证明其增加的复杂性合理之前，就不得不采用分布式查询系统。我认为绝大多数工作负载永远不需要这些系统，它们不过是营销包装良好的“银弹”罢了。<br />要理解我在说什么，我们首先必须了解使用 Pandas 的典型演进路径。<br />下图展示了一个大致的参考指南，根据你正在处理的数据规模，说明何时通常会考虑采用某种特定的 DataFrame 库。从左到右看，你也可以看到数据分析工具的典型采用路径，以及 Pandas 用户在数据超过一定规模后所遭遇的“悬崖”。<br />人们通常从 Excel 起步，在数据量达到 GB 级别时升级到 Pandas。Pandas 在数十 GB 的范围内表现尚可，随后他们便开始遇到内存瓶颈、计算缓慢的问题，或者对 Pandas 繁复晦涩的 API 感到沮丧。此时传统的应对方案是升级到专为“大数据™️”设计的“真正”（意即：昂贵）的工具，如 Spark、Databricks、Snowflake 或 Dask。<br />问题就在这里：“Pandas 悬崖”与真正需要分布式系统的规模之间，存在着一条不断扩大的鸿沟。这条鸿沟大致落在 100GB 左右的区间，而它完全可以由现代、高性能的单机工具来填补。我主要指的就是 Polars 和 DuckDB。<br />我们为什么如此看重这个约 100GB 的门槛？答案在于了解现实中究竟存在多少“大数据”。<br />2024 年，亚马逊发表了一篇题为《为什么 TPC 已经不够用了：对亚马逊 Redshift 集群的分析》（Why TPC is not enough: An analysis of the Amazon Redshift fleet）的论文。该论文的目的是将亚马逊自身分布式分析数据库 Redshift 的遥测数据，与行业标准数据库基准测试中使用的查询模式进行对比。作为分析的一部分，亚马逊公布了有关查询运行时间和表大小的集群统计数据。<br />如果我们愿意做出几个假设，就可以对亚马逊客户使用分析数据库的方式得出一些有趣的结论。假设：<br />如果你对深入分析这个数据集感兴趣，MotherDuck 的 Jordan Tigani 在这里进行了详细探讨。注：MotherDuck 是一家提供 DuckDB 托管服务的 SaaS 企业，因此保持一定程度的怀疑或许是合理的。<br />对运行时间表的前 3 行求和，我们计算出 86.9% 的查询在不到 1 秒内完成。<br />采用我们的假设——集群中有 10 台机器以 8GB/s 的速度吞吐数据，我们计算得出：<br />8GB/s 的假设是基于这项公认已过时的基准测试。<br />为了得出“94.68% 的表包含少于 100GB”这一论断，我们将行数加总至 10^8 的上限，得到 94.68% 的行。然后采用每行 1KB 的假设进行计算：<br />也许每行 1KB 的假设过于乐观，但即使假设每行 10KB，你得出的表大小仍然是 1TB。<br />你很可能并没有大数据，而且可能永远也不会有。你面临的是中等数据（Medium Data）问题，需要的是中等数据解决方案。<br />正如前面所提到的，我提出的替代方案是 DuckDB 和 Polars。大体而言，Polars 是一个基于 Rust 的 DataFrame 库，它用起来与 Pandas 类似，但在几个重要方面存在差异，我们稍后将对此展开探讨。DuckDB 是一个内存型分析数据库——本质上就是分析领域的 SQLite。为了感受这些工具以及它们与 Pandas 的区别，我们来看一个例子。<br />“10 亿行挑战”（1 Billion Row Challenge）是一项挑战赛，旨在编写出速度最快的 Java 程序，计算包含气象站数据的 10 亿行 CSV 文件的最小值、平均值和最大值。该比赛所接受的最快实现耗时 1.5 秒。<br />最初的挑战使用的是一台运行 Debian 12 的 Hetzner AX161 裸金属服务器，配备 32 核及 128GB 内存。由于作者有严重的拖延症、为人吝啬，并且 Hetzner 要求建立一定的“信誉”才能租用大型机型，因此在这些测试中改用了来自 AWS 的 m7a.8xlarge，同样运行 Debian 12。<br />这一基础配置与原挑战相同：采用 AMD CPU、32 核与 128GB 内存。不过，没有使用裸金属专用硬件可能会在一定程度上影响结果的可复现性（抱歉）。<br />闲话休提，我们来看看具体实现。<br />对于任何接触过 Pandas 的人来说，这应该显得非常熟悉。我们从 CSV 读取数据，按气象站分组，然后计算最小值、平均值和最大值的聚合数据。<br />为了进行性能测试，我们跳过了原始挑战中规定的输出序列化。所有实现都包含序列化输出的能力，这曾用于对各实现进行单元测试（例如 Pandas 代码）。鉴于“10 亿行挑战”的输出格式并非通用标准，测试序列化似乎并不是衡量各个库性能的相关指标。<br />记住该示例的关键部分在于：Pandas 顺序且即时（eagerly）地执行该计算的每一步。它一次性将整个数据集读入内存，进行分组，然后执行聚合操作。<br />Polars 代码看起来与 Pandas 相似，但正如我们将会看到的，它在运行时的运作机制截然不同。<br />数据分块扫描、分组并聚合。这里的关键细节在于，scan_csv 是惰性求值（lazily evaluated）的，而对 .collect 的调用才会真正执行查询流水线。如果这听起来很像数据库术语，那就对了。这种惰性求值允许 Polars 构建一个类似数据库的优化查询图，并利用数据库领域 40 年积累的优化技术，按分块方式读取数据，并根据需要在多个线程间并行分配工作。<br />就像数据库一样，我们可以通过将 .collect 分别替换为 .explain(streaming=True) 和 .explain(streaming=True, optimized=False) 来可视化优化后与未优化的查询计划。<br />这个查询计划算不上多么令人惊艳，它扫描 CSV，执行 2 列投影，然后进行聚合。对于包含过滤条件的查询，我们期望看到谓词下推（predicate push down）的应用，即在进行聚合之前先过滤行。这与 Pandas 不同，在 Pandas 中，所有行都会先加载到内存中，然后再进行过滤。<br />DuckDB 的代码读起来就像原生的 SQL——选择列并应用聚合函数，再配合 group by 分组条件。<br />从这个代码示例中得出的关键要点是，DuckDB 为你的数据提供了一个 SQL 接口，无论数据以何种方式、存储在何处。它还具备在内存中查询 Python 对象的能力，在上面的代码清单中，对象 df 是通过读取 CSV 创建的，并且可以直接使用 SQL 对其进行查询。</p>
+<p>DuckDB 与 Polars 非常相似，它会构建并执行查询计划，并且根据查询引擎是否认为合适，以惰性、多线程、分块的方式应用这些计划。通过附加调用 `.explain()`，我们还可以查看 DuckDB 为该查询生成的查询计划。</p>
+<p>同样，这个查询计划并不是特别令人惊奇，它扫描了 CSV，执行了双列投影，然后进行了聚合。</p>
+<p>注：这是在我的 M1 MBA 上运行该计划的输出结果，它并未用于下文的性能分析结果。</p>
+<p>性能测试是通过为每个库编写独立脚本并让其处理磁盘上包含 10 亿行数据的 CSV 文件来测量的。</p>
+<p>该脚本由一个轻量级自制基准测试工具执行，该工具会生成一个新的 Python 解释器来运行脚本，并使用 psutil 以 50 毫秒的时间间隔轮询内存和 CPU 指标，直到子进程退出。每个基准测试都运行了两次预热迭代，随后执行了 30 次脚本重复测试。</p>
+<p>这种方法绝非完美，但出于对比目的，它在准确性和开销之间取得了适当的平衡。</p>
+<p>这里的结果确实不言自明：Polars 和 DuckDB 的速度明显快于 Pandas，内存占用分别减少了 2 倍和 19 倍。它们与手工精心打造的 Java 实现水平相差无几。</p>
+<p>Polars 实现的内存占用看起来仍然有点偏高，我怀疑并非所有计算都采用了流式处理。DuckDB 表现无可挑剔，以极少的代码量且无需任何调优就提供了惊人的性能。</p>
+<p>然而，更好的生产性能只是整个考量的一部分。DuckDB 和 Polars 在加速本地开发循环方面也同样表现亮眼。</p>
+<p>让我们在性能强劲但略微过时的笔记本电脑硬件上重复这些性能测试。在这次测试中，我使用了一台搭载英特尔 i5-1135G7、拥有 8 核和 16GB 内存的 Framework 13。</p>
+<p>我们再次看到了 Polars 和 DuckDB 的出色表现，尽管 Polars 消耗了大量内存，并且略微占用了交换空间。相比之下，Pandas 运行起来如糖浆般迟缓，而且疯狂消耗内存。</p>
+<p>该基准测试凸显了相比传统 Pandas 工作流程的几项关键优势：</p>
+<p>如果你对更标准的 TPC-H 基准测试结果感兴趣，可以在这里找到它们。</p>
+<p>我们以前都被光鲜亮丽的工具坑过，甚至在我们谈论此事的当下，有些人就正在被它们所坑。在不重写所有代码的情况下测试这些工具的关键在于 Apache Arrow。Arrow 正成为列式数据事实上的内存表示形式，并且它是 Pandas 最初创作者 Wes McKinney 的心血结晶。自 2023 年 4 月发布 2.0 版本以来，Pandas 就已经支持 Arrow。</p>
+<p>Polars 和 DuckDB 均原生支持 Arrow。这意味着你可以在 Polars、Pandas 和 DuckDB 之间迁移 DataFrame 而无需复制内存，从而让这些框架之间的切换几乎是“零成本”的。这里唯一需要注意的坑是，Pandas 默认不会创建基于 Arrow 的 DataFrame，你在创建 DataFrame 时必须指明希望 `dtype_backend` 为 `pyarrow`。</p>
+<p>让我们来分析纽约市出租车数据集（2009 年至今的行程数据，按月以 Parquet 文件存储），看看在疫情期间（2019–2022 年）现金支付是否变得不那么常见了。这需要处理大约 3GB 的 Parquet 数据。</p>
+<p>对于这个例子，我们将分别在 DuckDB 和 Pandas 中实现读取 Parquet 文件和执行计算的函数。这些函数的 Polars 版本留给读者作为练习 😉。</p>
+<p>接着，我们可以将这些读取数据和运行计算的调用组合成矩阵，以便了解无论是仅选用其中一种工具进行读取、写入，还是两者兼备，究竟能获得多高的性价比。</p>
+<p>使用与之前相同的基准测试脚本以及相同的笔记本配置，我们得到了以下结果：</p>
+<p>同样，我们看到了类似的规律。DuckDB 能够充分利用机器的 CPU 核心，同时极低地占用内存。只要有 Pandas 参与的地方，速度就会慢如蜗牛，内存使用量也会陡然飙升。</p>
+<p>如果你好奇现金使用量在疫情期间是否有所下降，答案是肯定的。然而，相关性 !== 因果性，因此请不要据此得出任何实质性结论。</p>
+<p>怀疑态度在科技行业是一件健康的事，因此我整理了一份你不应该听信我的理由列表：</p>
+<p>这完全取决于你的工作负载、经验和偏好。数据工程师往往偏爱 SQL，软件工程师往往偏爱 Polars。不妨把两者都试一试，看看你更喜欢哪一个。</p>
+<p>真正唯一不该做的事，就是仅仅因为 Pandas 性能欠佳，就盲目引入分布式查询系统及其随之而来的所有复杂性。从长远来看，你真正需要这种系统的可能性其实非常小。</p>
+<p>高性能从未如此触手可及，货比三家吧！</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-12 00:03 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-12 10:42 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -246,265 +203,493 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://github.com/godot-pty/gpty" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://eddie.codes/posts/pandas-should-go-extinct/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-aw-leaving-head-of-comms-86c209fbc176d396" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2223" data-content-paragraphs="21" data-published-at="2026-09-11T16:01:34.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-12 00:01</span>
-</div>
-
-### [任职近20年后，微软公关主管即将离职](https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft’s head of comms is leaving after almost 20 years</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/frankshaw.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="任职近20年后，微软公关主管即将离职" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的动态将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>弗兰克·肖（Frank Shaw）为微软的公关传播业务服务了近30年。</p>
-<p>该作者的发布内容将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>查看汤姆·沃伦（Tom Warren）的所有文章</p>
-<p>在担任首席传播官17年后，弗兰克·肖即将离开微软。在发给团队的一份内部备忘录中，肖表示，在为微软的传播业务提供支持长达29年（包括担任微软员工近20年，以及此前在瓦根纳·埃德斯特伦公关公司【现为We. Communications】的任职经历）之后，他“认定现在是时候开启新阶段、尝试新事物了”。</p>
-<p>自1997年以来，肖一直处于微软传播业务的核心地位，协助公司应对了多次Windows与Office版本的发布、历任CEO的权力交接、至关重要的云业务转型赌注，以及一系列重磅并购交易，例如2016年以262亿美元收购领英（LinkedIn），以及2023年以690亿美元收购动视暴雪（Activision Blizzard）。</p>
-<p>他在整个公关行业备受推崇，近期《PRWeek》在其2026年公关行业最具影响力人物榜单中将他列为第一名。在微软内部，他也深受管理层的尊敬，并树立了直率而富有敬意的声誉。多年来，许多员工都告诉我，他们总担心收到肖的邮件——这意味着他们可能说错了话，或者不小心泄露了产品计划。</p>
-<p>在公司外部，他也建立起了随时准备反驳批评者、纠正报道并捍卫微软的声誉。2013年，针对苹果和媒体胆敢将iWork与Office相提并论，他予以了猛烈抨击；他还经常现身X平台，击碎谣言或纠正关于微软的不实信息。在去年微软的50周年庆典活动上，他走上舞台，大声朗读了一连串针对他公关工作的搞笑恶评推文。</p>
-<p>我报道微软已有25年多，最初接触肖时，我还是个初涉博客写作的稚嫩少年。在Neowin工作期间，我常常把微软的机密文件发到网上，或者在公司准备好公开之前撰写有关Windows早期功能的博文。这常常让我惹上微软庞大律师团队的麻烦，甚至导致Neowin一度被关停了24小时。</p>
-<p>尽管我们之间怀有极大的互相尊重，但在过去的几十年里，我曾多次惹恼肖，导致在报道上产生激烈的争论或分歧。直到今天，每当弗兰克给我打电话时，我都会严阵以待——因为我知道，要么是微软准备宣布什么惊天大事，要么就是我又把这家公司给惹毛了。</p>
-<p>不过，他的下一步打算是什么？肖目前还不打算退休，但他告诉我，在投身于自己想做的“其他事情”之前，他打算好好休息一段时间。那会是担任某家AI初创公司的公关吗？还是去做专业的酸酵母面包师？以一种完全符合公关专家身份的姿态，他拒绝透露任何消息。</p>
-<p>由于肖要到今年年底才会离职，微软目前尚未指定其继任者。“我将一直工作到今年年底，公司正在商讨接下来的安排，大家可以在未来几周关注最新进展，”肖在发给团队的备忘录中写道。</p>
-<p>以下是肖发给其传播团队的内部备忘录全文：</p>
-<p>（开门见山，切勿隐瞒主旨）</p>
-<p>在这个岗位上任职17年、为公司服务近29年之后，我决定是时候开启新阶段、尝试新事物了。武（Takeshi）和我已经就此讨论了一段时间，对于接下来的一切——无论是对我个人还是对微软——我都感到无比兴奋。我依然对公司的使命、这个团队令人赞叹的人才，以及在这个关键时期公司对我们的依赖程度抱有坚定的信心。我将一直留任到今年年底，公司正在推进后续步骤，请留意未来几周的更新。我知道大家会有很多疑问，期待在今天上午晚些时候的答疑会（AMA）上与各位交流。</p>
-<p>前段时间，社交媒体上流行一个挑战，人们回答这样一个问题：“哪个话题是你在毫无准备的情况下也能讲上30分钟的？”就我而言，我可以畅谈美国海军陆战队、影响力本质的演变、酸面团酵种、俄勒冈鸭队，但我最信手拈来的，必然是斯蒂芬·金的《黑暗塔》系列小说中的某些方面，从《枪侠》开始；接下来的问题就变成了具体挑哪一方面讲。简要说明一下，该系列讲述了最后的枪侠罗兰·德鄯（集市长/法官/治安官于一身）穿梭于时空和维度，追踪黑衣人以拯救世界的故事。贯穿始终的问题是，在一个早已时过境迁的世界里，罗兰是否还能保持自己的身份与意义。书中反复出现的箴言是：世界在变迁，顺应它，否则便会倒下。罗兰能够前行并成长，还是会停滞不前？其中一个深得我心的概念，随着更多角色的登场而出现，他们开始与罗兰同行。罗兰引入了“卡-泰特”（ka-tet）这个概念来形容他们。“Ka”本质上是命运或定数，而“tet”翻译过来就是一群为了更宏大的意义而聚在一起的人——一个带着共同使命和命运走到一起的群体，一个拥有共同目标、甘愿为这些目标作出牺牲、彼此之间有着深厚情感纽带，并且能够以近乎不可思议的神速作出决策并付诸行动的团队。</p>
-<p>我一直非常喜欢这种演变：从我们在第一本书中见到的独行枪侠，逐渐成长为在后续作品中协同作战的团队。罗兰单打独斗时虽然强大，但使命却屡屡受挫；而作为“卡-泰特”的一员，他最终赢得了胜利。</p>
-<p>你们，我的朋友们，就是我的“卡-泰特”。我们携手成就了许多不可思议的辉煌。我对大家的感激之情无以言表。</p>
-<p>在接下来的几个月里，我们仍将并肩作战，敲定各项决策，并代表公司交付出色的成果，此后我也会常伴左右。在《黑暗塔》中，传统的道别语是“愿你白昼漫长，长夜舒爽”，事实也终将如此，不过那得等到十二月了。😊</p>
-<p>一份免费的每日新闻摘要，汇聚最重要的资讯。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-12 00:01 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-item-ff64095d6e585da7" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1086" data-content-paragraphs="9" data-published-at="2026-09-11T15:58:06.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 23:58</span>
-</div>
-
-### [全球冰川消亡浏览器](https://glacierextinction.com/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Global Glacier Extinction Explorer</div>
-
-<div class="article-body" data-article-body="true"><p>在地图上浏览探索全球冰川。选择不同的升温情景，查看在不同未来情境下预测消亡年份的变化。将鼠标悬停在冰川上可查看简要概览，或点击冰川以探索其完整档案——包括面积、海拔范围以及不同情景下的预测消亡时间。点击 3D 按钮可倾斜视角切换至地形视图。</p>
-<p>底图瓦片 © Esri、Maxar、Earthstar Geographics 以及 GIS 用户社区 | 标注：CARTO，© OpenStreetMap 贡献者 | 冰川数据：Van Tricht 等人（2026）</p>
-<p>正在加载冰川数据……</p>
-<p>点击 3D 按钮以倾斜地图并探索地形。</p>
-<p>传统上，冰川变化通常以总体（区域性）质量和面积损失来量化，但此类指标并不能充分体现各个单独冰川的消亡。然而，每一座冰川，无论多小，都至关重要。除了对海平面上升或区域水资源的影响之外，冰川还具有重要的文化、生态和社会价值，往往深深植根于当地景观与社区之中。在联合国“国际冰川保护年”（2025年）的背景下，本研究因此将焦点转向全球各个单独冰川的命运。</p>
-<p>为评估冰川消亡，研究采用了两项互为补充的标准。当冰川面积降至 0.01 平方千米以下（与常用的冰川编目阈值一致），或其剩余体积降至初始值的 1% 以下（表明仅存留微不足道的冰体）时，该冰川即被视为消失（消亡）。为推导每座冰川的体积和面积演变轨迹，研究使用了三种全球冰川模型（GloGEM、OGGM、PyGEM），并结合了多种全球环流模型以及对应升温 +1.5°C、+2.0°C、+2.7°C 和 +4.0°C 的排放情景。随后将所有轨迹进行整合，以确定消亡年份的中位数以及 Q25 和 Q75 范围（即 25% 和 75% 概率区间）。这些结果均展示在地图上。</p>
-<p>消亡是相对于伦道夫冰川编目（Randolph Glacier Inventory，RGI v6.0）中的初始冰川轮廓进行定义的。退缩过程中的冰川破碎未予计入；原始冰川范围内的所有剩余冰体均被视为同一座冰川的一部分。</p>
-<p>本应用程序基于开源软件构建：MapLibre GL JS（地图渲染）、PMTiles（矢量瓦片流式传输）、GeoPandas 和 NumPy（数据处理）、GDAL / ogr2ogr（瓦片生成）以及 go-pmtiles（瓦片打包）。该网络应用程序由 K. Van Tricht 设计并构建，前端代码及数据流水线架构得到了 Claude Sonnet 4.6 与 GPT-6 Astra 的协助。</p>
-<p>如果您发现数据有误或对名称改进有任何建议，请发送邮件至 lander.van.tricht@vub.be。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-11 23:58 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://glacierextinction.com/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-eries-per-second-on-neki-5a8a45059d881f9a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="800" data-content-paragraphs="9" data-published-at="2026-09-11T15:56:37.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 23:56</span>
-</div>
-
-### [Neki 实现每秒 1.18 亿次查询](https://planetscale.com/blog/118-million-queries-per-second-on-neki)
-<div class="original-title-sub"><span class="orig-tag">原文</span> 118M Queries per Second on Neki</div>
-
-<div class="article-body" data-article-body="true"><p>博客 | Neki | 工程<br />PlanetScale，速度最快的云端 Postgres，每月 5 美元起。<br />Florent Poinsard、Hirad Pourtahmasbi | 2026 年 9 月 11 日</p>
-<p>我们昨天发布了 Neki 的平台预览版。为了庆祝这次发布，我们想测试在 Neki 上运行每秒 100 万次查询（QPS）的表现。我们在 5 个分片（shard）上很快就达成了这一目标，并决定看看我们究竟能将其推进到多高的水平。</p>
-<p>接下来的这次测试最终在 512 个分片上实现了每秒 1.18 亿次查询，对应的数据量达 1.22 PiB。</p>
-<p>基准测试非常简单：单分片点查（point select），每次查询根据主键获取单行数据。没有写入、连接（join）或跨分片查询。每个分片接收到的工作负载是隔离的，不存在跨越多个分片的单个查询。</p>
-<p>我们的目标是让每个分片持续维持 20 万 QPS，然后通过扩容集群来提升吞吐量。先是 5 个分片，接着是 50 个，然后是 512 个。</p>
-<p>分片数量增加十倍，吞吐量也增加十倍。然后再增加十倍。从 5 个分片扩容到 50 个分片时，单分片速率的波动保持在 0.8% 以内。在达到 512 个分片时，分片仍有性能余量，因此我们让负载生成器充分利用了这一余量，每个分片最终稳定在 23.1 万 QPS，而非原本预期的 20 万 QPS。</p>
-<p>在 512 个分片和 1.22 PiB 数据规模下，我们持续维持了 118,538,803 QPS 长达 16 分钟。记录到的最高峰值达到了 118,747,267 QPS。</p>
-<p>关于这次测试有必要说明的是：分片仅为主节点且没有副本，工作负载在各种不同复杂度的查询中均为纯读取，且在测量窗口期内我们未进行故障转移。</p>
-<p>我们将在未来的文章中详细介绍在迈向 1 亿 QPS 的过程中所付出的工程努力以及遇到的有趣挑战。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-11 23:56 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://planetscale.com/blog/118-million-queries-per-second-on-neki" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ect-phoenix-headset-leak-e4d8c7e41322e8ac" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="604" data-content-paragraphs="9" data-published-at="2026-09-11T15:38:31.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 23:38</span>
-</div>
-
-### [Meta可能意外泄露了其轻薄款“Project Phoenix”头显的首次外观](https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Meta may have leaked the first look at its slim &amp;#8216;Project Phoenix&amp;#8217; headset</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rx_attach_thumb.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Meta可能意外泄露了其轻薄款“Project Phoenix”头显的首次外观" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>“Project Phoenix”看起来并不完全像智能眼镜，但它比Meta的其他头显设备要小得多。</p>
-<p>该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>查看Stevie Bonifield撰写的所有内容</p>
-<p>就在9月23日Meta Connect大会开幕前短短几周，UploadVR发布了据称揭示了Meta“Project Phoenix”头显设计的图像。UploadVR表示，这些图像是“在HorizonOS处方镜片固件包中发现的”，这表明Meta可能正打算与Xreal或Viture等公司的设备展开竞争。这些公司的混合现实眼镜虽然比Meta的雷朋AI智能眼镜略显笨重，但相比Meta Quest 3等完整的VR头显则轻巧得多。</p>
-<p>此次泄露的内容展示了一款介于大型头显和智能眼镜之间的产品，其镜片被安装在纤细的眼镜式镜框中。一张从背面拍摄的照片显示，有一根导线从其中一个耳挂/镜腿延伸出来，可能用于连接电池或计算模块（compute puck）。此外，镜腿处似乎还配备了朝外和朝下的摄像头。</p>
-<p>“Project Phoenix”已经研发了一段时间，预计要到明年才会正式发布。谷歌也正在研发一款风格类似的Project Aura XR眼镜，同样采用有线连接镜框的外部计算模块。</p>
-<p>一份汇聚最重要新闻的免费每日摘要。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-11 23:38 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ss-charging-preorder-buy-782fbcbd5086deb8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="648" data-content-paragraphs="1" data-published-at="2026-09-11T15:31:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 23:31</span>
-</div>
-
-### [在哪里可以预购苹果 AirPods 5](https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Where to preorder the Apple AirPods 5</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0046.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="在哪里可以预购苹果 AirPods 5" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的推送将添加至您的每日邮件摘要和主页信息流中。<br />苹果 AirPods 5 将于 9 月 18 日正式上架，但您现在就可以提前下单抢购。<br />该作者的推送将添加至您的每日邮件摘要和主页信息流中。<br />查看 Brad Bourque 的全部文章<br />如果您通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。详见我们的道德规范声明。<br />苹果 AirPods 5 正将主动降噪技术带给更广泛的消费大众，目前已在多家零售商开启预购。它们将于 9 月 18 日正式发售，与 Apple Watch Series 12、Ultra 4 以及 iPhone 18 Pro 和 Pro Max 同日上市。<br />与上一代机型一样，本次同样提供了两个版本。售价 129 美元的标准版增加了主动降噪功能，而该功能以往仅出现在更昂贵的 179 美元 AirPods 4 主动降噪机型上。该版本目前可通过亚马逊（Amazon）、百思买（Best Buy）、沃尔玛（Walmart）和苹果官方购买。售价 149 美元的进阶版则配备无线充电盒、更长的电池续航，并在耳机柄上加入了触控功能，让您无需拿出手机即可调节音量。您可以在亚马逊、百思买、沃尔玛和苹果预购此版本。<br />我们正在制作全新 AirPods 5 的评测。如果您在我们发布上手体验之前就已准备入手，可以在下方找到更多预购链接。<br />查看 2026 年苹果发布会全部内容<br />查看 Verge 购物专区全部内容<br />每日免费精选摘要，网罗核心要闻。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-11 23:31 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-control-after-ceo-ouster-50c09567f31efffd" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1649" data-content-paragraphs="27" data-published-at="2026-09-11T15:19:00.000Z" data-time-source="publication">
+<div id="story--for-robot-training-data-7f452d3805d7ed7a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1597" data-content-paragraphs="21" data-published-at="2026-09-11T22:58:17.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 23:19</span>
+  <span class="news-meta-time">🕒 2026-09-12 06:58</span>
 </div>
 
-### [马特·穆伦威格在CEO职务被罢免后于Slack上向Automattic员工表示自己已重新掌权](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster</div>
+### [机器人训练数据遭疯抢：红杉资本领投新一轮，Mecka AI估值逼近5亿美元](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data</div>
 
-<div class="article-body" data-article-body="true"><p>根据TechCrunch看到的一张消息截图并经多位员工信源证实，马特·穆伦威格（Matt Mullenweg）在Automattic的Slack中发布消息，声称自己已重新作为这家WordPress.com母公司的首席执行官掌控局面。该消息发布的前几天，Automattic董事会刚因未知原因投票罢免了穆伦威格的CEO职务。</p>
-<p>Automattic已被要求确认穆伦威格的声明是否属实，但尚未回应置评请求。穆伦威格回应了我们的问询，表示随后会发布一篇博文。然而博文发布时，内容却是关于他购买了一艘船屋。</p>
-<p>该报道仍在发展中。</p>
-<p>创始人建议：如果你每隔几年没有经历过一次未遂政变，说明你招揽的领导层还不够强硬。</p>
-<p>周三，这位WordPress创始人兼开源社区的关键倡导者通过Slack告诉团队，Automattic的董事会成员背着他“密谋”，投票让他带薪休假。穆伦威格表示，在此过程中，公司首席财务官马克·戴维斯（Mark Davies）被任命为临时CEO。</p>
-<p>当时，Automattic的一位发言人向TechCrunch证实，穆伦威格正在休假，戴维斯出任临时CEO。</p>
-<p>周五清晨，穆伦威格在Automattic的Slack上分享了以下新消息：</p>
-<p>“（别把它叫做重出江湖……）大家好！很高兴宣布董事会已重新达成一致，我重新掌控了Automattic。过去48小时内发生了很多事情，我们需要进行理顺，我希望这大部分只是误会，因为我对相关人员抱有极大的尊重和敬意。”</p>
-<p>他还发布了LL Cool J的歌曲《Mama Said Knock You Out》的YouTube视频链接。</p>
-<p>截至目前，Automattic内部尚未有人收到来自董事会的确认消息。据消息人士透露，马克·戴维斯的Slack账号也已被停用。</p>
-<p>然而，TechCrunch昨天获悉，穆伦威格移除了Automattic Slack中的所有Slack管理员，并发布了一条自称是“海盗”的古怪帖子，其中还带有脏话。（穆伦威格众所周知是不说脏话的）。</p>
-<p>鉴于目前的局面，很难判断他现在是在恶搞挑衅，还是公司内部确实发生了正规的人事调整。</p>
-<p>在本周出人意料地被免去CEO职务后，穆伦威格在公开和私下社交媒体上的发帖表明，他并未打算放弃抵抗这一决定。在Reddit上，有人发帖附上了最早披露该消息的404 Media文章链接，穆伦威格先是在回复中称“嘿，各位。我在这里，一切都好”，随后又对那些推测此事对开源社区意味着什么的人表示，他们根本不知道自己在说些什么。</p>
-<p>在X平台上，穆伦威格还发帖表示“事情并非表面看上去的那样”，并称他需要系统管理员和安全研究人员帮助他将托管在Automattic的部分个人资料转移到其他地方，尽管他此前表示支持戴维斯担任CEO。</p>
-<p>在这两个平台上，他都暗示私募股权机构银湖资本（Silver Lake）参与了这项旨在“摧毁”他生活的计划；银湖资本是托管公司WP Engine的控股方，而WP Engine目前正陷入与穆伦威格及Automattic的诉讼纠纷中。</p>
-<p>周五上午，穆伦威格在X上发帖称，“董事会永远不会无聊”，并附上了一个哭笑不得的表情符号。</p>
-<p>董事会永远不会无聊。😂</p>
+<div class="article-body" data-article-body="true"><p>据两位知情人士透露，通过收集和分析人类动作数据用于训练人形机器人及其他机器人的初创公司 Mecka AI，即将完成由红杉资本（Sequoia Capital）领投的新一轮融资，估值约为5亿美元。</p>
+<p>就在三个月前，Mecka 刚宣布完成了由 Framework Ventures 领投的6000万美元融资，参投方包括 Menlo Ventures、SV Angel 以及 Kindred Ventures。</p>
+<p>TechCrunch 尚未获悉本轮融资的具体金额。交易条款目前尚未最终敲定，仍可能存在变动。</p>
+<p>Mecka AI 未回应置评请求。红杉资本拒绝置评。</p>
+<p>Mecka AI 由四位创业者于2024年联合创立，其中包括此前曾创立餐饮金融科技初创公司的加拿大人 Josh Gao 和 Mogen Cheng，以及在旗下加密货币交易所被 Coinbase 收购后加入后者的 Jason Chong。Duy Nguyen 是团队中唯一的非加拿大籍成员，目前在 Mecka 负责运营工作。</p>
+<p>这四位联合创始人并无机器人技术背景。但他们意识到物理世界数据极度匮乏，并发现采集真实世界的交互数据是阻碍包括人形机器人在内的通用机器人发展的首要瓶颈。</p>
+<p>Mecka 的名字取自“mecha”（即虚构作品中由人类操控的巨型机甲），其目标是在机器人领域复刻 Scale AI、Mercor、Surge 等人类数据标注公司在大型语言模型（LLM）领域的作为。该初创公司通过付费招募人员，让他们佩戴身体传感器并使用智能手机，记录自己冲咖啡或修车等日常任务的执行过程。</p>
+<p>Gao 在初创公司宣布上一轮融资时向《财富》（Fortune）杂志表示，截至6月初，Mecka 预计其2026年底的年化营收运行率（annual run rate）将达到1亿美元。</p>
+<p>尽管 Mecka AI 尚未公开其客户名单，但许多机器人公司和人工智能实验室都在依靠这种通过“第一人称视角”（egocentric）采集的真实世界数据，以及遥操作等其他物理数据采集方法来构建其模型。</p>
+<p>其他采集真实世界数据用于机器人训练的初创公司还包括 XDOF（TechCrunch 上周报道其正以12亿美元估值洽谈新一轮融资），以及正在从大型语言模型向外拓展业务的人类数据平台，如 Scale AI 和 Micro1。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
+<p>Marina Temkin 是 TechCrunch 的风险投资与初创企业记者。在加入 TechCrunch 之前，她曾为 PitchBook 和《Venture Capital Journal》撰写关于风险投资的报道。在职业生涯早期，Marina 曾担任金融分析师，并获得了特许金融分析师（CFA）持证人资格。</p>
+<p>您可以通过发送电子邮件至 marina.temkin@techcrunch.com 或通过 Signal 发送加密信息至 +1 347-683-3909 联系 Marina 或核实相关接洽。</p>
+<p>不要错过。初创企业界将齐聚一堂，探讨一个核心问题：在人工智能时代，你该如何实现可持续发展？</p>
+<p>因 Astra 需求过大，OpenAI 暂停 Pro 订阅服务</p>
+<p>身份核验巨头 IDScan 证实遭遇数据泄露，超过1.5亿张驾照信息被窃</p>
+<p>Automattic 董事会迫使首席执行官 Matt Mullenweg 停职休假</p>
+<p>苹果发布首款折叠屏手机 iPhone Duo</p>
+<p>纽约大学数学家称：OpenAI 在关乎其职业声誉的数学问题上采取了不正当竞争手段</p>
+<p>一部绝密的伊丽莎白·霍姆斯（Elizabeth Holmes）新纪录片震撼特柳赖德电影节</p>
+<p>TechCrunch Mobility：特斯拉 Cybercab 上路——但也遭遇了波折</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-12 06:58 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-p-john-beren-charlie-7101efa9853f8ca9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6717" data-content-paragraphs="35" data-published-at="2026-09-11T21:35:29.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 05:35</span>
+</div>
+
+### [AI研究人员探讨我们距离递归自我改进还有多远](https://www.dwarkesh.com/p/john-beren-charlie)
+<div class="original-title-sub"><span class="orig-tag">原文</span> AI researchers debate how close we are to recursive self-improvement</div>
+
+<div class="article-body" data-article-body="true"><p>与 John Schulman、Beren Millidge 和 Charlie O’Neill 的最新一期节目。<br />我与几位我认识的最有见地的 AI 研究人员聚在一起，他们都在相对开放的机构或公司工作，因为我想深入了解前沿领域究竟在发生什么，以及接下来的发展方向。<br />可在 YouTube 上观看；在 Apple Podcasts 或 Spotify 上收听。</p>
+<p>Antithesis 助您信赖自己的代码。随着智能体编写的软件越来越多，瓶颈已从工程师实际编写代码转向了代码验证。Antithesis 为您完成这些测试。Jane Street 技术团队的联席负责人 Ron Minsky 告诉我，Antithesis 帮助他的团队在已经过严格审查的软件中排查出了漏洞。如果您想了解它如何融入您的开发流程，请访问 antithesis.com/dwarkesh。</p>
+<p>Grok Bot 是一种交接任务的绝佳方式。我的团队把它当作制作人来用：每当我的剪辑师在 Slack 中发布采访的粗剪版本时，Grok Bot 就会在自己的电脑上打开文字记录，将我的笔记与所指的具体时间点精确匹配，并根据我的偏好文件提出剪辑建议。随后它会把最优质的候选片段发送给我，让我通过手机即可完成所有审查，从而避免了剪辑师去逐一筛查数小时的素材。您也可以在 x.ai/bot 亲自体验 Grok Bot。</p>
+<p>Jane Street 刚刚启动了其迄今为止最具雄心的竞赛：设计一款协议仿真 ASIC。简单来说，如果您有一颗希望在脱机系统之外测试的芯片，您应该能够将其接入您的设计中，并让其模拟真实流量。Jane Street 希望获得通用、可重编程的设计，这些设计既能跨多种协议工作，也能在出现新协议时保持适用性。最具创新性的提交方案将真正实现流片，获胜者还将获得实物硬件！竞赛报名截至 2027 年 1 月 18 日，鼓励组队参赛。如需参与，请访问 janestreet.com/dwarkesh 下载模板代码。</p>
+<p>(00:00:00) – 反对递归自我改进（RSI）的最强论证（Steelmanning）<br />(00:18:39) – 驱动中国实验室进展的因素<br />(00:28:06) – 自动化 AI 研究人员将如何被训练<br />(00:33:51) – 长程强化学习是否能引申出通用人工智能（AGI）？<br />(00:45:24) – 仿真到现实（Sim-to-Real）的鸿沟<br />(01:00:33) – 进展中有多少归因于数据？<br />(01:18:03) – 为什么强化学习（RL）效果如此显著？<br />(01:24:54) – “第37手”与熵坍缩<br />(01:28:32) – 快速时间线问答</p>
+<p>今天，我与三位 AI 研究员朋友进行交流，每次与他们交谈我都受益匪浅。他们恰好也在相对开放的实验室和公司工作，因此大家可以畅所欲言、公开发表看法。和我一起的有 Zyphra 的首席技术官 Beren Millidge，该公司正致力于开发开源模型；John Schulman，Thinking Machines 的首席科学家，此前是 OpenAI 的联合创始人，并主导了催生 ChatGPT 的 RLHF（基于人类反馈的强化学习）工作；以及 Charlie O’Neill，Baseten 的模型训练负责人。</p>
+<p>我的第一个问题是：如果我们到了 2036 年，并没有数十亿个疯狂的、彻底改变世界的超级智能体在各处运行，导致这种局面没有实现的最可能原因是什么？撇开外部政治冲击、战争或者全面禁止 AI 等外生因素不谈，2036 年未能成为一个充斥着不可思议的异质超级智能世界的最可能的“技术原因”是什么？</p>
+<p>一直以来都有一个经典的现象，几乎就像莫拉维克悖论一样，我们对 AI 的看法总是：“如果它能做到这一点，那将令人惊叹。”如果它能解出这些高难度数学题，如果它能在下棋中取胜，等等等等……然后它真的做到了这些，但影响却并没有那么天翻地覆。显然，确实产生了一定影响，但远未颠覆一切。</p>
+<p>如果这种情况以某种方式持续下去，而从未真正出现泛化的火花，我认为这可能会导致 AI 仅仅在人类设立基准测试或构建环境的每个单项上表现极其出色。但依然存在某种顽固的“仿真到现实”的鸿沟，在某种程度上阻碍着一切进展。我认为这不太可能发生，实际上我们在实践中已经从强化学习中看到了这种泛化能力。但如果元学习的泛化就是极其困难，再加上我们无法解决持续学习问题，以致于它变得超级艰难且根本不可能完成……在这种情况下，这将是我的基线推测。</p>
+<p>我同意这一点。目前人类相比模型依然拥有很多优势。每次有新模型发布，它都会在某些领域迎头赶上。但最终你还是会被模型更薄弱、判断力更差、或者模型自身无法充分自我检验的地方所卡住。</p>
+<p>存在这样一个不断重复的循环：新模型发布时，人们感到震撼，惊呼：“就是它了，这就是 AGI。”但随后使用了一段时间，大概一个月左右后，它就开始显得笨拙了。这个循环可能会一直持续下去，很难预测它还会重复多少次。</p>
+<p>目前来看，能力并不会出现爆炸式增长，因为当你尝试进行研发和工程设计时，依然会遇到足够的瓶颈。即使模型编写的代码量远超人类，它也不会让你产生 100 倍的生产力飞跃。所以，这类循环的次数或许比我们预期的要多得多。</p>
+<p>对我而言，核心问题在于“可在芯片上实现的学习器”的全局最优解，与 Transformer + RL（基本上就是当前的通用配方）之间究竟有多大差距。人们设想，一旦你拥有了一个在 AI 研究方面超越所有人类的智能体——哪怕只比所有人类强 0.1%——由于你可以并行运行数十万甚至数百万个这样的智能体，并且随着芯片提速还可以运行得更快，这种规模效应将压倒所有其他瓶颈。最终，在自我改进方面将会迎来一场极速爆发（fast takeoff）。</p>
+<p>我可以想象，如果我们沿着当前范式的轨迹继续走下去——基本上就是自注意力机制、强化学习、扩大强化学习环境……想想摩尔定律的发展历程：我们曾有一条非常完美的直线，并维持了相当长的一段时间；但为了维持该标度律（Scaling Law）的延续，必须发生无数离散的断点与技术创新。大语言模型也是如此。我们曾有预训练标度律，随后它遭遇了边际效应递减；然后我们引入了强化学习并解决了这个问题，接着迎来了新的收益递减曲线，从而使它在外观上依然保持一条向上攀升的直线。</p>
+<p>因此，如果这需要另一次类似的“非连续性突破”来解决，我不确定目前用这些强化学习环境（甚至是针对递归自我改进的目标环境）训练大语言模型的方法是否能够发现这种突破。如果不能，我们很可能会撞上这条渐进线。</p>
+<p>但你认为这种非连续性突破会比 2012 年以来出现的任何突破都要更加困难吗？</p>
+<p>如果我们有了这个问题的答案，某种程度上我们就具备了去实现它的能力。但也许我们应该区分两种情况：一种是为当前范式增砖加瓦的非连续性，这种属于累积性质——即存在某种超越强化学习（RL）的东西需要我们去发现，也许它们有能力在这条直线上将各个点连接起来；另一种则是，我们到底距离全局最优解有多远？我们是否不得不回头彻底抛弃梯度下降以及整个神经网络？我认为，如果你只是继续扩展现有的范式，无论你运行多少个大语言模型（LLM），如果目标距离太远，LLM也未必有能力发现这一点。</p>
+<p>真正的唯一希望在于，深度学习是否根本无法让我们造出一种至少能在人类研发和探索中占据主导地位的AI——包括人类提出全新范式等能力。或者，我也不知道，也许人类自己也永远发现不了下一种学习架构。但如果人类最终是有可能发现它的……不过看起来……如果你回顾一下从2012年至今所取得的进展，并且让这种势头继续保持下去——我知道这主要是靠巨量算力扩展等等来推动的——如果它最终没有达到至少在研发领域压倒人类的程度，那反而是件怪事，尤其是在接下来的几年里。</p>
+<p>瑞安·格林布拉特（Ryan Greenblatt）最近上了这档播客。他提出了一个观点，我很想听听你们的看法。你可以设想，随着AI变得越来越能干，它们有能力在模拟环境中取得进展，而这些模拟环境不仅激励其在AI研发上做得更好，也激励其在整个广义科学领域取得突破。这是所有前沿实验室都在瞄准的目标，许多初创公司也以此为方向。</p>
+<p>另一个启发性思维模型是看20世纪80年代以来国际象棋机器人的Elo等级分。随着时间的推移，Elo呈现出非常线性的增长。但在它们跨越人类水平区间时，却出现了一个巨大的飞跃阶段——随着Elo等级分的这种线性增长，局面从人类专家对阵AI全胜，变成了人类专家对阵AI全败。</p>
+<p>我同意你的观点，即到目前为止，就最终对世界产生的经济影响而言，AI的能力并没有那么了不起。但那只是因为它们相对于人类的Elo等级分还在缓慢上升之中。</p>
+<p>我同意如果不是这样那会非常令人吃惊。唯一不发生这种情况的可能，正如你所说，就是它在跨越之前以某种方式触及了渐近线。因为在我看来，我们距离开始跨越人类的Elo水平已经相当接近了。所以它必须在达到那一点之前就趋于平缓。我认为，在你设想的“到2035年我们坐在这里，一切都还维持正常”的情景中，这是唯一可能发生的路径。另一种可能就是对AI实施某种极为严厉的监管。实际上，比起技术原因，我认为这才是导致这种情况发生的最可能原因。</p>
+<p>我认为存在不同类型的研究。有一类属于自动研究（autoresearch）风格，其目标已经界定得非常清晰，你只需针对该目标进行优化即可。我想每个人都在设想，如果我们沿着这条路走下去，不断降低预训练损失，不断提高环境中的奖励反馈，就会带来进步。</p>
+<p>但瑞安所谈论的，也许是带来范式转变所必需的、更加开放式的科学探索，在那种情况下我们无法明确指定目标，而AI也绝对无法自行指定那个目标。在针对这些问题设定目标时，我们必须非常非常审慎。</p>
+<p>也许你的观点是，自2012年以来所发生的突破，其本质在于我们发现了……在2012年，人们并不会说……我猜想，我不知道，你们当时都在场。或者至少约翰（John），你当时就在场。但我还不在。</p>
+<p>我当时还在上小学。</p>
+<p>说实话，约翰，我很想听听你历经岁月沉淀的智慧，或者当年身处一线时的见解。按理说，一个巨大的突破是意识到“下一个Token预测”（next token prediction）才是……在2014年的时候，你根本想不到针对nanoGPT进行极速训练（speed run）是值得优化的方向。但既然我们已经进入了这个新范式，你就会想着在这方面进行极速竞速，让AI变得极其擅长于此。</p>
+<p>但也许还存在下一个AI所无法预料的内部循环需要去优化。虽然存在一个以营收等构成的外部循环，它最终应该会很有力，但那是一个非常缓慢的外部循环。</p>
+<p>事实上，我记得在OpenAI早期的时候，我有一种直觉，认为仅仅最小化对数损失（log loss）是无法通向通用智能的。因为关键的核心信息在损失函数中占比太小，它很容易被噪声所淹没。因此，仅仅在下一个Token预测上训练语言模型，是学不到你想让它学会的那些真正有价值的有趣内容的。我们必须精心设计更好的目标，把更多权重放在重要的事情上。</p>
+<p>你可以为此提出各种各样的论据。你可以说：“人类大概并没有学会对我们环境中的一切事物进行建模。大多数人根本无法将自己看过的某个场景逼真地重现出来。所以我们肯定需要一个更好的目标。”但事实证明，它居然就那样奏效了。</p>
+<p>正如你指出的那样，即便在当前的AI研究中，后训练基准测试（post-training benchmarks）等内部循环，也未必能直接转化为用户真正喜爱的东西。</p>
+<p>哦，是的。整个领域都高度依赖泛化，而你极难预测什么时候会获得泛化能力，或者什么时候会得到某种分布外泛化（out-of-distribution generalization）。我们知道，如果你针对你关心的任务进行训练，表现就会更好。但最重大的进展，往往属于我们本没有任何理由指望它会出现的泛化类型。</p>
+<p>例如，仅仅依靠这种非常朴素的下一个Token预测目标进行预训练，就泛化到了各种需要对输入进行深层理解的感兴趣任务上，或者从预训练中学会了某种非常罕见、样本占比极少的技能。还有就是从这些可验证的任务泛化到较难验证的任务上，这也是一种我们事先完全没有任何先验理由去指望的泛化。</p>
+<p>这是一个很有意思的问题，因为如果你想找到一个启发性思维，来解释为什么你可能会极快地看到某种奇点降临——甚至根本不需要去扩大AI劳动力以外的AI研发投入——那就是在你们运行的每一次数百万美元级别的昂贵实验之前，你们都把同等规模的算力投入到了AI劳动力上。这样就相当于有由AI驱动的自动化版你们自己，花上一百年的时间去思考什么是最佳的实验方案，进行小规模的消融实验，真正建立起一套相当于一个世纪积累的理论，其深度甚至能追溯到深度学习出现之前。</p>
+<p>在你决定要做什么实验之前，你正在进行极度优化的实验设计。然后在实验结束后，你进行相当于一个世纪的深度思考，分析到底发生了什么，以及下一步应该运行什么实验。<br />如果你思考得足够深入，你可能事先就能预料到其中的一些结果。很可能存在某种非常聪明的做法，通过小规模实验来构建理论，进而泛化推广到大规模实验中。因此，我认为我们在科研能力的上限方面还差得很远。<br />我设想未来AI将承担大量的分析和理论构建工作，在这些方面消耗的算力，与你投入到实验本身的算力相当，它会进行各种分析，并围绕我们迄今为止观察到的现象构建理论。<br />我认为当目标明确时，这方面有非常具体的例子。思考所能做的，只是根据你形成先验以来获得的比特信息来更新你的后验概率。你无法仅仅通过思考来获取任何新的比特。但当目标被明确界定并且手头已有这些数据时，我认为在我们当前的研究范式下将会迎来巨大的速度提升。<br />这方面的一个好例子是，如果你让AI去思考卡普兰标度律（Kaplan scaling laws）。此时的AI本应察觉到：“噢，他们只是选取了这些中间检查点，却没有考虑退火（annealing）过程，所以这是不对的。”这种问题本来可以提前数年就被发现。仅仅凭借AI的这一观察，我们就能节省出一两年的研发进展时间。<br />同样地，一旦目标被明确设定——无论是降低预训练损失还是其他目标——都有非常非常多的好例子表明，只要你多加思考，就能大幅削减已做工作的冗余。比如muP（最大更新参数化），学习率如何随模型规模扩展，以及意识到模型宽度在其中也同样重要。我觉得你确实能推导出很多这类东西，并摘取大量低垂的果实。如果我们当前的任务仅仅是“最大化当前的目标”，我预计能获得10倍的速度提升。<br />但我根本看不出这如何能泛化到从一开始就提出正确的目标上。仅仅靠思考，并不一定能让你一开始就获得正确的目标。<br />我认为这正是当前AI能否实现任何形式的极速递归自我改进（RSI）的关键问题。AI在学习自身目标方面的泛化能力究竟有多强？要实现任何形式的自我驱动的自动化循环，我们需要AI提出目标、优化目标、搞清楚状况、再提出新目标，并且在很长很长的时间内都不会在任何时刻脱轨失控。<br />回到莫拉维克悖论（Moravec&#39;s paradox），莫拉维克悖论在这里可能同样适用：我们之所以认为这种自主性和自包含性——即我们能自己思考应该做什么，然后去付诸行动并形成这种循环——极其简单，是因为我们一直都是这么做的。显然，进化需要创造出能够长期独立生存的生物。但由于某种原因，这对AI来说可能恰恰是一件非常困难的事情，就像移动身体等躯体运动极其困难，而数学对我们极其困难对它却易如反掌一样。<br />但是时间跨度的增加难道不意味着那是——<br />是的，没错。这是另一种可能性，但我同意，目前并没有明显的证据证明这一点。事实上，我们的智能体现在变得极具持久性，而且做到这一点相当容易，这在某种程度上反驳了这一观点。但是如果这确实很难，那它可能就是我们无法立刻迎来起飞的原因之一。<br />如果从2012年回顾到现在——或者从你开始做研究回顾到现在——在那期间发生的所有创新中，包括纯工程层面的，也包括纯概念层面的，哪一部分看起来会是人类在AI完全自动化AI研发之前必须做的最后一件事？<br />可能就是不断迭代地提出正确的问题。如果你能让AI去做任何实验，你仍然需要决定要做哪些实验。目前我认为与编写实验代码相比，AI在这方面并不擅长。每当我们讨论研究时，它们提出的总是一堆杂七杂八的东西，全都是非常非常微小的步伐。<br />甚至从DeepMind的方法来看，“我们</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-12 05:35 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.dwarkesh.com/p/john-beren-charlie" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-t-outside-sand-hill-road-c0bb2ed6d55690b1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2061" data-content-paragraphs="15" data-published-at="2026-09-11T21:19:05.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 05:19</span>
+</div>
+
+### [Khosla Ventures今秋设立纽约办公室——沙丘路之外的首个据点](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road</div>
+
+<div class="article-body" data-article-body="true"><p>基思·拉博伊斯（Keith Rabois）在其13年的风险投资生涯中，大部分时间都与Khosla Ventures位于加利福尼亚州门洛帕克的长期大本营紧密相连。但这正在发生改变。周四晚上，在纽约西村举行的TechCrunch StrictlyVC活动上，拉博伊斯证实，Khosla Ventures正在设立其在沙丘路（Sand Hill Road）之外的首个办公室。这个新据点将位于纽约市第14街，预计将于今年秋季开业。</p>
+<p>“据说目前确实正在施工装修，”拉博伊斯说道，他显然经历过一两次延期交付的情况。“我们拭目以待吧。在我心里，今年秋季开业这个时间点还非常模糊。”</p>
+<p>这一举措之所以引人注目，部分原因在于这对Khosla Ventures而言极为罕见。“我们甚至连旧金山办公室都没有，因此这对我们来说是非常重大的一步，”拉博伊斯表示。</p>
+<p>该办公室将容纳少数几位Khosla的投资人，拉博伊斯也是其中之一。但它更不同寻常的特点在于拉博伊斯所称的“高管汇报中心”（executive briefing center）。那将是一个专门的空间，该机构每周四天，每次安排10到12家被投企业与一家财富500强企业在此会面。“被投企业非常喜欢这种模式，”他向与会者表示。“他们能借此获得试点合作和客户，正因如此，这个办公室将会充满生机。”</p>
+<p>此前几个月，拉博伊斯本人刚刚搬迁至东海岸，以便就近陪伴他的丈夫雅各布·赫尔伯格（Jacob Helberg，现任负责经济增长、能源与环境事务的副国务卿）以及他们目前常驻华盛顿特区的孩子们。</p>
+<p>这一举动引发了本刊编辑一个显而易见的问题：他是否认为纽约具备他职业生涯中在湾区招揽人才时所拥有的那种人才密度？他停顿了一下，随后表示这取决于资历层级。</p>
+<p>对于初级人才，拉博伊斯的态度毫不含糊。“个人贡献者（IC）级别，刚毕业的学生，绝对没问题，”他指出自己多次投资的金融科技公司Ramp就是明证。“我们一直在吸纳应届毕业生，并能够从实习生群体（及后续阶段）开始建立起极其出众的关键人才密度。”</p>
+<p>资深技术人才则是另一回事。“资深工程师、架构师级别——不行，我认为那是个挑战，”他说道，并补充道：“幸运的是，也许在当今时代，每家公司需要的这类人才数量比以往要少。”</p>
+<p>但拉博伊斯表示，对各家公司而言最大的痛点在于有才能的高管人才，他解释称，这与其说是人才供给问题，不如说是地理与生活方式的问题。“如果你奉行坐班文化，纽约地区大部分较为资深的高管都住在市郊，为了坐班环境往返市区的通勤过程可能会极其痛苦，”拉博伊斯说，他本人就是在纽约的一个通勤郊区长大的。“我们当时乘快铁进城大约需要32分钟，但许多人住的地方还要更往外扩展两个同心圆。当你需要招募久经考验的高管人才，且你又坚信线下坐班文化时，（这）一直极具挑战性。”</p>
+<p>他表示，Ramp的解决方案大体上是直接避开这个问题。“我们不招聘资深高管。我们就是自下而上、从零开始培养。在过去三年里，这一直是一项非常自觉且刻意执行的策略，”他说道。“这种模式行得通，”他继续说。“但如果你需要一位首席财务官（CFO）、一位销售高级副总裁，或者某个具有威望和丰富经验的人选，要让他们每周五天都来办公室真的很难，因为除非他们自己本身极其富有，否则他们根本负担不起在市中心养家糊口的成本。”</p>
+<p>Khosla的这一举措使其加入了一个规模不大但可能正在扩大的阵营。其他主要的湾区风投机构多年来一直保持着在纽约的存在，尽管规模通常都不大。例如，红杉资本（Sequoia Capital）和安德森·霍洛维茨基金（Andreessen Horowitz）都聘有常驻纽约的合伙人，不过人数相较于湾区而言相对较少。</p>
+<p>此举还紧随商业地产服务机构世邦魏理仕（CBRE）上月发布的一份报告之后。该报告发现，在CBRE追踪该数据的13年里，纽约的科技人才总人数首次以微弱优势超越了旧金山湾区。这主要是由于金融机构在湾区科技雇主裁员之际大举招聘人工智能（AI）人才所致。</p>
+<p>这会是巧合吗？从周四晚上的现场反应来看，不少纽约人显然还没准备好相信这一大标题。</p>
+<p>“我听说了那项研究，”一位与会者表示。“我才不信呢。”</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。<br />总编辑兼总经理<br />不要错过。创业生态社群将齐聚一堂，共同探讨一个关键问题：在AI时代，你该如何实现可持续发展？<br />OpenAI因Astra需求过大暂停Pro订阅<br />身份验证巨头IDScan证实发生数据泄露，逾1.5亿张驾照遭窃<br />Automattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假离岗<br />苹果发布旗下首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在关键数学难题上手段不光彩<br />一部神秘的伊丽莎白·霍姆斯（Elizabeth Holmes）新纪录片震撼特柳赖德电影节<br />TechCrunch出行专栏：特斯拉Cybercab上路——并遭遇波折</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-12 05:19 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-till-frontier-models-too-a061c44f7783dde2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1528" data-content-paragraphs="15" data-published-at="2026-09-11T20:59:47.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 04:59</span>
+</div>
+
+### [Y Combinator 首席执行官陈嘉兴希望美国开放权重 AI 实验室也能“蒸馏”前沿模型](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</div>
+
+<div class="article-body" data-article-body="true"><p>谈及中国人工智能实验室使用模型蒸馏（distillation）技术从前沿模型厂商处汲取知识一事，Y Combinator 首席执行官陈嘉兴（Garry Tan）希望监管机构切勿插手介入。事实上，他认为美国的人工智能实验室或许也应该采用同样的竞争策略。</p>
+<p>“我什么都不会做，”他在本周早些时候接受 CNBC 采访时表示，“我们甚至可以主张建立一套美国本土的蒸馏体系。”</p>
+<p>他在接受 TechCrunch 采访时进一步阐释道，这意味着他希望规模较小的美国开放权重人工智能实验室也能对美国前沿人工智能实验室采用同类训练技术，从而为美国提供一套更强健的、非中国造的开放权重模型选择。</p>
+<p>模型蒸馏是指模型构建者向另一个模型进行大量提示调用，以此学习其运作与推理机制的过程。人工智能实验室通常会合法利用这项技术来辅助训练新模型。</p>
+<p>Anthropic 本周发布了其第二份报告，指控中国实验室正在进行“非法蒸馏攻击”，通过隐藏自身身份进行未经授权的蒸馏，并借由欺诈以及窃取凭据等手段来达到目的。Anthropic 首席执行官达里奥·阿莫代伊（Dario Amodei）此前曾公开呼吁美国监管机构打击模型蒸馏行为。</p>
+<p>值得注意的是，这位执掌硅谷久负盛名且成果丰硕的创业孵化器的掌门人对此并不认同。</p>
+<p>需要明确的是，陈嘉兴并非倡导美国人工智能实验室使用被盗凭据去进行蒸馏。他希望他们能够堂堂正正、不受限制地从正门进入。事实上，他的论点包含两个层面。他认为，人工智能实验室去硬性规定客户如何使用模型分享出来的信息，这本身就是一种越权行为。</p>
+<p>他还指出，闭源专有的人工智能实验室当初为了训练自家模型而尽可能搜刮人类知识时，也并未征得过允许。众所周知，它们在未获得知识产权所有者授权的情况下，就吞纳了海量的版权素材。</p>
+<p>“限制用户和客户通过 API 调用闭源权重模型能做些什么，会让人感到束手束脚；政府在此可以发挥作用，使这样一种事实规范化：获取基于广泛公开数据训练出来的智能成果，其本身理应更偏向于一种公共产品，而不是被锁在苛刻的服务条款之后。”在被问及为何美国实验室也应有权进行蒸馏时，他如此向 TechCrunch 表示。</p>
+<p>陈嘉兴本人就是一位狂热的人工智能用户，甚至曾形容自己患有“赛博精神病”，他希望看到开放权重人工智能实验室与前沿实验室之间达成一种平衡。</p>
+<p>“他们处于前沿领域并不断向前推进。我们希望这能够持续获得融资，并成为一种长久且优秀的商业模式，”他向 CNBC 表示，“而你也需要开放权重模型，为人们赋予自由和访问权限。”</p>
+<p>在他看来，真正的人工智能末日图景，是前沿人工智能的全部巨大力量最终集中在单一一家强大的专有供应商手中。“人工智能的噩梦场景、末日场景就是只剩下一家公司，”他说，“它拥有最好的资本获取渠道。它拥有最优秀的人工智能研究员。它一骑绝尘，突然之间形成了一家独大的铁板一块。那将会非常糟糕。”</p>
 <p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>消费新闻编辑</p>
-<p>请勿错过。创业社区将齐聚一堂，探讨一个关键问题：在AI时代如何实现可持续发展？</p>
-<p>身份验证巨头IDScan证实发生数据泄露，超过1.5亿张驾照信息被盗</p>
-<p>Automattic董事会迫使CEO马特·穆伦威格休假</p>
+<p>不容错过。初创企业社区将齐聚一堂，共同探讨一个关键问题：在人工智能时代，你该如何实现可持续发展？</p>
+<p>OpenAI 因 Astra 需求火爆暂停 Pro 订阅<br />身份核验巨头 IDScan 证实发生数据泄露，超过 1.5 亿份驾照遭窃<br />Automattic 董事会迫使首席执行官马特·穆伦维格停职休假<br />苹果发布其首款折叠屏手机 iPhone Duo<br />纽约大学数学家称 OpenAI 在关乎职业生涯的数学难题上手段不光彩<br />一部讲述伊丽莎白·霍姆斯的神秘新纪录片震惊特柳赖德电影节<br />TechCrunch 出行：特斯拉 Cybercab 驶上公路——同时也遭遇了波折</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-12 04:59 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-cians-is-only-escalating-2084a3d93fa9f28f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1416" data-content-paragraphs="13" data-published-at="2026-09-11T20:57:36.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 04:57</span>
+</div>
+
+### [OpenAI与数学家之间的争端正在不断升级](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI’s feud with mathematicians is only escalating</div>
+
+<div class="article-body" data-article-body="true"><p>25位顶尖数学家签署了一封公开信，指出各个人工智能实验室在争相求解著名数学难题的过程中，正对数学家的智力工作构成威胁。每位联署人都曾荣获被誉为数学界最高荣誉的菲尔兹奖（Fields Medal）。</p>
+<p>本周，纽约大学教授特里斯坦·巴克马斯特（Tristan Buckmaster）指责OpenAI施压要求其不要将一位就职于Anthropic的合作者列为重大数学难题解决者的致谢名单，并怀疑该机构是否在经历了一个高强度推理的周末后，利用他们使用Codex的工作产出并抢先发布了自己的突破性证明。</p>
+<p>周四，在遭到加州理工学院研究人员的批评后，OpenAI撤回了对该校一项数学活动的赞助。</p>
+<p>尽管人工智能模型解决世界顶尖数学难题的能力可能造福人类，但新公开信的联署人认为，只有当这些解法能够被数学界以及最终被全世界所理解和传播时，这种益处才能真正成立。</p>
+<p>“这些解法往往是在仓促之中公布的，根本没有时间进行规范的论述撰写、提炼新方法与新思想，也未引用他人的相关前人工作，”他们写道——而OpenAI的证明目前仍未得到验证。“正如在所有创造性专业领域一样，这引发了严重的成果署名和抄袭问题。此外，如果没有甘愿投入的数学家来负责其拓展并将其融入数学经典体系，人工智能构想出的思想将永远无法完全焕发生机，数学家之间至关重要的人类传承链条也将会断裂。”</p>
+<p>随着其他数学家也变得日渐担忧，怀疑自己使用Codex的数据是否反过来被喂给了OpenAI的新模型，人们真正开始担忧开放研究的文化将受到威胁。如今，如果前沿实验室看到通往某项发现的有效路径，他们可以投入数千万美元利用大语言模型（LLM）抢在原研究人员之前得出证明——这种机制势必会助长保密风气。</p>
+<p>这封公开信紧随6月份由一个数学家工作组发布的《莱顿宣言》（Leiden Declaration）之后。那份文件同样探讨了大语言模型生成的证明将如何改变他们的工作，并为数学家、学术机构和政策制定者提供了一系列建议。</p>
+<p>与软件工程以及其他人工智能工具正在重塑工作流程的领域一样，数学家在“核心工作周边的延伸工作”中找到了立足之本：数学的价值不仅仅在于证明本身以及谁获得了荣誉，更在于滋养学生、发掘新问题与新思想并将它们融入更广阔人类文明的智力上层建筑。</p>
+<p>即便你并不特别关心高风险数学证明这一竞争残酷的领域，也请别忘记：你所关注的领域就是下一个。</p>
+<p>“数学界目前面临的问题与其它科学及创造性专业所面临的问题十分相似，并预示了全人类可能都要面对的课题：随着人工智能改变工作方式，我们如何确保自己不会迷失这项工作最初旨在实现的目标，”他们写道。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>不容错过。创业圈将齐聚一堂，共同探讨一个关键问题：在AI时代，如何实现可持续发展？</p>
+<p>由于Astra需求过大，OpenAI暂停Pro订阅服务<br />身份验证巨头IDScan确认发生数据泄露，超过1.5亿张驾照信息被盗<br />Automattic董事会迫使CEO马特·穆伦维格（Matt Mullenweg）休假离岗<br />苹果发布首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在关键数学难题上手段不光彩<br />一部讲述伊丽莎白·霍姆斯（Elizabeth Holmes）的神秘新纪录片震惊特柳赖德电影节<br />TechCrunch出行：特斯拉Cybercab上路——却遭遇波折</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-12 04:57 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-wyer-fined-murder-appeal-136a4de1f8b5907b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="780" data-content-paragraphs="1" data-published-at="2026-09-11T20:44:02.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 04:44</span>
+</div>
+
+### [一律师因在谋杀案上诉中使用AI虚构的证人被罚款5000美元](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Lawyer fined $5K over AI-hallucinated witnesses in a murder case</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="一律师因在谋杀案上诉中使用AI虚构的证人被罚款5000美元" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的相关文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />当一名律师承认在不了解风险的情况下依赖ChatGPT时，一名法官质问道：“律师先生，你看不看新闻？”<br />该作者的相关文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看艾玛·罗斯（Emma Roth）发布的所有内容<br />据路透社报道，新墨西哥州最高法院正对一名律师进行处罚，原因是他为当事人的谋杀罪定罪提出上诉时，在文件中加入了AI捏造的证人和虚假的警方证词。在周三提交的一份法律文件中，法院对斯蒂芬·亚伦斯（Stephen Aarons）处以5000美元罚款，并判定其藐视法庭，因其未能“核实其AI生成的诉状中的事实主张和法律依据”。<br />该文件指出，该诉状“包含了来自完全捏造证人的虚假证词”，以及关于枪手衣着和外貌的“虚假证词”。在8月的一次听证会上，亚伦斯承认使用了ChatGPT，并以为它会生成一份对审判“无懈可击的摘要”。大法官C·香农·培根（C. Shannon Bacon）在听证会上质疑亚伦斯为何没有意识到AI带来的风险。据路透社报道，培根大法官说：“律师先生，你看不看新闻？听不听广播？读不读任何关于世界上正在发生的事情的报道？因为律师依赖AI幻觉造成的问题，几乎每天都是头条新闻。”<br />随着在工作中使用AI工具的律师数量不断增加，法院发现由AI捏造或产生幻觉的引用案例也日益增多。去年，一名法官严厉批评了两家律所提交包含“大量虚假、不准确且具有误导性的法律引用与语录”的诉状；同时，“我枕头”（MyPillow）公司负责人迈克·林德尔（Mike Lindell）的律师也因在诉状中放入AI生成的错误引用和虚假AI引用而遭到罚款。<br />亚伦斯在发给路透社的一份声明中表示：“我深感懊悔，但希望纪律审查委员会能够考虑到这是一次无心之失。”<br />一份免费的每日最重要新闻摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-12 04:44 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--techcrunch-disrupt-2026-1e600384ae13de36" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="858" data-content-paragraphs="17" data-published-at="2026-09-11T20:33:18.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 04:33</span>
+</div>
+
+### [要闻：请在太平洋时间9月18日晚上11点59分之前预订TechCrunch Disrupt 2026的展位](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> One week left to book your exhibit table at TechCrunch Disrupt 2026</div>
+
+<div class="article-body" data-article-body="true"><p>请在太平洋时间9月18日晚上11点59分之前预订TechCrunch Disrupt 2026的展位。展位数量有限，可能会在截止日期前售罄。</p>
+<p>如果您参加TechCrunch Disrupt 2026是为了寻找客户、会见投资者、建立合作伙伴关系，或是将您的产品展示给能够推动您业务发展的人士，请不要将您的亮相寄托于偶然。</p>
+<p>参展商计划将为您的团队在展厅（Expo Hall）提供为期三天的专属6英尺×30英寸展台——在这里，您可以演示正在构建的产品，实时回答问题，并将往来人流转化为有价值的深入对话。</p>
+<p>请做好准备：展示您的产品、开启对话、发掘潜在客户与合作伙伴、结识投资者，并将展会人流转化为在Disrupt大会结束后仍可继续维系的合作关系。</p>
+<p>锁定Disrupt展位的时间所剩无几——一旦剩余展位售罄，让您的初创公司入驻展厅的机会也将随之消失。</p>
+<p>等待的真正代价绝不仅仅是错失一个展位，而是错失在现场展示产品所能带来的深入沟通、潜在客户和商业机遇。</p>
+<p>截止时间为太平洋时间9月18日晚上11点59分——展位可能会在此之前提前售罄。</p>
+<p>仅剩一周。名额有限。不要坐等机会溜走，立即锁定您的展位。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>不容错过。初创企业社区将汇聚一堂，共同探讨一个关键问题：在AI时代，应如何实现可持续发展？</p>
+<p>受Astra需求激增影响，OpenAI暂停Pro版订阅服务</p>
+<p>身份验证巨头IDScan确认发生数据泄露，超过1.5亿张驾照信息被窃取</p>
+<p>Automattic董事会强制首席执行官马特·穆伦维格（Matt Mullenweg）休假</p>
+<p>苹果发布旗下首款折叠屏手机iPhone Duo</p>
+<p>纽约大学数学家称OpenAI在一项关乎学术生涯的数学难题上手段不公</p>
+<p>一部关于伊丽莎白·霍姆斯（Elizabeth Holmes）的全新绝密纪录片震撼特柳赖德电影节</p>
+<p>TechCrunch Mobility：特斯拉Cybercab上路测试——并遭遇波折</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-12 04:33 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-disrupt-2026-side-events-e976e1144298442f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1158" data-content-paragraphs="1" data-published-at="2026-09-11T20:30:17.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 04:30</span>
+</div>
+
+### [TechCrunch Disrupt 2026 周边活动申请最后、最后、最后召集令](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Final, final, final call for TechCrunch Disrupt 2026 Side Events</div>
+
+<div class="article-body" data-article-body="true"><p>申请在 TechCrunch Disrupt 2026 期间主办官方周边活动（Side Event）的绝对最后机会就是今晚——9 月 11 日太平洋时间晚上 11:59。<br />不再延期。不再有机会。<br />如果你要带自己的社群来参加 Disrupt，请不要只是给他们提供另一个聚会场所。给他们一个到场的理由——也给你的机构一个主办活动的理由。<br />周边活动能够帮助你：<br />让你的团队直接面对创始人、投资人、客户、合作伙伴以及其他决策者，他们能够为你带来下一笔交易、合作、投资、招聘或协作契机。<br />促成在拥挤的会议大厅里难以开展的高质量对话——并与对你的业务最重要的人士深化关系。<br />主导你的受众所关心的话题讨论，并在 Disrupt 生态系统中为你的品牌确立有意义的角色。<br />在聚集现有社交网络的同时，为成员创造结识新朋友、交流想法并建立自身宝贵联系的机会。<br />为你的社群提供 Disrupt 门票 75 折优惠，使你的周边活动成为更完整参会体验的一部分——而不是一场孤立的聚会。<br />这一机遇远不止于举办一场派对或聚会。利用 Disrupt 举办周建立人脉、发掘商机、增强品牌影响力，并让你的机构置身于塑造未来趋势的核心对话之中。<br />申请将于今晚太平洋时间晚上 11:59 截止。<br />这是最后的截止时间。绝不会再有延期。<br />如希望被纳入官方周边活动阵容，请在午夜前提交申请。<br />不要仅仅作为一个参与者出席 Disrupt。围绕它展开行动，掀起波澜。<br />你并不一定需要主办周边活动才能让 Disrupt 为你的业务创造价值。购买门票，利用这一周的时间发掘新客户和合作伙伴、结识投资人、寻觅人才、洞察前沿科技趋势，并展开能够推动你业务向前发展的深入交流。<br />常规票价将于 9 月 25 日截止。赶在涨价前购票——确保你身处现场，与塑造未来的先锋人物、前沿思想和发展机遇同行。<br />立即获取你的 TechCrunch Disrupt 2026 门票。<br />当你通过我们文章中的链接进行购买时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。<br />不容错过。初创社群将齐聚一堂，共同解答一个核心问题：在 AI 时代，你该如何实现可持续发展？<br />因 Astra 需求激增，OpenAI 暂停 Pro 订阅<br />身份验证巨头 IDScan 证实发生数据泄露，逾 1.5 亿份驾照信息被盗<br />Automattic 董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）暂时休职<br />苹果发布其首款折叠屏手机 iPhone Duo<br />纽约大学数学家指责 OpenAI 在关乎其学术生涯的数学问题上手段不公<br />一部秘密制作的伊丽莎白·霍姆斯（Elizabeth Holmes）新纪录片震撼特柳赖德电影节<br />TechCrunch 出行：特斯拉 Cybercab 正式上路——但也遭遇了波折</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-12 04:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ll-ai-really-kill-us-all-70d2b5e1fab497fa" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="485" data-content-paragraphs="7" data-published-at="2026-09-11T20:05:06.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 04:05</span>
+</div>
+
+### [圆桌论坛：人工智能的末日危机](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Roundtables: AI’s apocalypse crisis</div>
+
+<div class="article-body" data-article-body="true"><p>全球顶尖人工智能实验室的员工们表示，先进的人工智能确实有可能毁灭人类。他们是对的吗？还是说这又是一场危言耸听和炒作？欢迎参与《麻省理工科技评论》执行主编尼尔·弗斯（Niall Firth）与高级AI编辑威尔·道格拉斯·海芬（Will Douglas Heaven）以及AI记者格蕾丝·哈金斯（Grace Huckins）的对话，共同拆解AI灭绝恐慌：这些担忧从何而来、是否站得住脚，如果是真的，我们又该如何应对。</p>
+<p>直播时间：9月15日星期二，英国夏令时间 16:00 / 美国东部时间 上午 11:00 / 太平洋标准时间 上午 8:00</p>
+<p>嘉宾：执行主编 尼尔·弗斯（Niall Firth）、高级AI编辑 威尔·道格拉斯·海芬（Will Douglas Heaven）以及AI记者 格蕾丝·哈金斯（Grace Huckins）</p>
+<p>以下是AI智能体为何会为了达成目标而撒谎和欺骗的原因</p>
+<p>人工智能的递归自我改进或许终究不会来得那么快</p>
+<p>比尔·盖茨称我们已经跨越了人工智能的危险阈值。接下来该怎么办？</p>
+<p>关于OpenAI智能体为何黑入Hugging Face的内幕故事</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-12 04:05 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#MIT</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-illion-in-annual-revenue-275e51d488e330cd" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="759" data-content-paragraphs="5" data-published-at="2026-09-11T19:35:54.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 03:35</span>
+</div>
+
+### [Kimi母公司月之暗面瞄准20亿美元年化收入](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Kimi-maker Moonshot AI targets $2B in annual revenue</div>
+
+<div class="article-body" data-article-body="true"><p>中国最受瞩目的AI实验室之一月之暗面（Moonshot AI）认为，其备受欢迎的开放权重模型能够转化为切实的销售增长。彭博社周五报道称，该实验室的目标是在今年年底前实现20亿美元的年化营收，这一数字是该公司此前报道的8月份年化营收运行率的两倍。这是一个雄心勃勃的目标，反映了该公司K3模型自今年夏天发布以来所取得的成功。</p>
+<p>尽管K3的使用数据在近几个月略有下滑，但OpenRouter的数据目前显示，该系统上K3模型每天生成的Token多达3000亿个。</p>
+<p>与OpenAI和Anthropic相比，月之暗面的预期收入依然相形见绌，近期的报道显示后两者的收入分别达400亿美元和650亿美元。由于月之暗面的模型权重是免费公开提供的，该公司的利润率远低于其闭源权重的竞争对手。不过，不断攀升的预期表明，开放权重AI模型依然有利可图，即便它们不如闭源前沿模型那样暴利。</p>
+<p>然而，月之暗面的模型开发实践仍饱受争议——甚至可能彻底违法。本周早些时候，Anthropic指控该公司开展了一场长期的模型蒸馏行动，将Kimi的近30万次请求直接路由至Claude Opus，实际上是用Opus取代了Kimi自身的模型。Anthropic声称，月之暗面总共从Anthropic模型中收集了超过2300万条回复，用于自身的模型训练。</p>
+<p>不要错过。初创企业界将齐聚一堂，探讨一个至关重要的问题：在AI时代，你该如何实现可持续构建？<br />每个工作日和周日，您都可以获取TechCrunch的优质报道。<br />TechCrunch Mobility是您获取交通出行领域新闻与洞察的目的地。<br />初创企业是TechCrunch的核心，订阅即可每周获取我们的精选报道。<br />为行业领军人物提供开启新一天所需的资讯。<br />提交您的电子邮件即表示您同意我们的条款和隐私声明。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-12 03:35 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-play-them-outside-roblox-f02ea3a6673fe76b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1742" data-content-paragraphs="23" data-published-at="2026-09-11T19:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-12 03:00</span>
+</div>
+
+### [Roblox正在降低AI游戏制作门槛，并支持在平台外畅玩](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Roblox is making it easier to build games with AI — and play them outside Roblox</div>
+
+<div class="article-body" data-article-body="true"><p>在一年一度的Roblox开发者大会（RDC）上，这家知名游戏平台背后的公司宣布了多项新功能，包括全新的游戏创作工具、扩展的NPC（非玩家角色）功能，以及使游戏能够在跨平台（包括网页端）运行的能力。该公司还为创作者推出了专用的Roblox卡（Roblox Card）和Roblox钱包（Roblox Wallet）。</p>
+<p>此外，Roblox正在更大范围地推广其生成式AI游戏创作功能。该功能被称为“Build”，最初于7月公布，允许Roblox用户使用自然语言提示词创建游戏。最初该功能仅在新西兰推出。现在，该公司正在将其扩展至塞尔维亚和新加坡。Build还新增了支持大屏创作的桌面端访问、全新资源库以及迭代控制功能。今年晚些时候，它还将获得全新的基于提示词的场景生成功能，并将扩展至Roblox Studio。</p>
+<p>该游戏平台正在确保所有这些新创建的游戏都能在更多地方供玩家游玩。该公司表示，创作者很快将能够把自己的游戏作为独立应用程序发布在移动端、PC和主机平台上，而Roblox将作为背后的游戏引擎。到今年年底，玩家将能够通过链接直接在浏览器中加入游戏。</p>
+<p>这些公告表明，Roblox现在的重心不仅在于吸引人们来到Roblox平台，还在于扩大开发者所构建内容的覆盖范围，同时让构建过程更加简便、门槛更低。</p>
+<p>除了新的创作工具之外，该公司今年晚些时候还将为NPC增添新能力，包括让它们能够对游戏进行试玩测试。创作者还将能够在其游戏中添加离线模式，允许用户在网络信号较弱的地区继续游玩。</p>
+<p>此外，玩家将获得一个全新的“好友聊天”标签页，该标签页可随玩家在游戏中移动，并支持语音输入。</p>
+<p>与此同时，改进后的推荐算法将向年轻用户推荐短时长游戏，向年长用户推荐游玩时长更长的游戏。</p>
+<p>通过其游戏引擎，Roblox还首次推出了使用正交摄像机、动画图像容器以及用于动画的直接精灵表（sprite-sheet）导入功能来制作2D游戏的能力。该公司还补充称，在Moments垂直信息流中，玩家很快可以点击短视频中的任意虚拟形象并购买物品。</p>
+<p>Roblox表示，自2013年以来，游戏创作者已在该平台上赚取了超过50亿美元，其中过去12个月的收益达到了17亿美元。现在，该公司正在推出金融产品，让创作者拥有不同的工具来支配其收益。</p>
+<p>首先是Roblox钱包（Roblox Wallet），创作者可以在每个工作日结束时以现金形式结算报酬。用户还可以将资金转入其他银行账户。该公司正与Airwallex（空中云汇）合作，为18岁及以上的美国用户提供钱包服务，并计划未来拓展至全球。</p>
+<p>该游戏服务平台还预告了将于明年推出的Roblox卡（Roblox Card），允许用户在接受该卡的场所使用自己的收益消费。</p>
+<p>Roblox正力求提振其平台内外的用户参与时长。该公司创始人兼首席执行官大卫·巴斯祖基（David Baszucki）表示，上一季度，180个国家和地区的玩家累计游玩时间超过290亿小时。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>Ivan在TechCrunch报道全球消费科技发展动态。他常驻印度，此前曾在《赫芬顿邮报》（Huffington Post）和The Next Web等媒体工作。</p>
+<p>您可以通过发送电子邮件至 im@ivanmehta.com 或在 Signal 上发送加密消息至 ivan.42 与 Ivan 联系或核实其发出的外联信息。</p>
+<p>不要错过。初创企业界将齐聚一堂，共同解答一个关键问题：如何在AI时代实现可持续构建？</p>
+<p>受Astra需求激增影响，OpenAI暂停Pro订阅</p>
+<p>身份验证巨头IDScan确认遭遇数据泄露，逾1.5亿张驾照被窃</p>
+<p>Automattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假</p>
 <p>苹果发布首款折叠屏手机iPhone Duo</p>
-<p>纽约大学数学家称OpenAI在一项事关职业前途的数学难题上采取了下作手段</p>
-<p>一部神秘的伊丽莎白·霍姆斯全新纪录片惊艳特柳赖德电影节</p>
-<p>TechCrunch Mobility：特斯拉Cybercab上路——遭遇挫折</p>
-<p>徒步旅行者在使用Google Gemini进行规划后获救</p></div>
+<p>纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段不光彩</p>
+<p>一部秘密制作的伊丽莎白·霍姆斯（Elizabeth Holmes）新纪录片震撼特柳赖德电影节</p>
+<p>TechCrunch出行观察：特斯拉Cybercab上路——并遭遇波折</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-11 23:19 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-12 03:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -514,261 +699,56 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-be-crunchyroll-viz-media-038971c42f39c59e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3495" data-content-paragraphs="8" data-published-at="2026-09-11T15:12:58.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 23:12</span>
-</div>
-
-### [动漫Reaction类YouTuber正与版权维权机构交战](https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Anime reaction YouTubers are at war with copyright enforcers</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268740_Youtuber_account_deleted_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="动漫Reaction类YouTuber正与版权维权机构交战" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看所有娱乐资讯<br />内容创作者坚称自己的视频属于合理使用，但一家极具争议的公司却持完全不同的看法。<br />该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看Charles Pulliam-Moore发布的所有文章<br />9月6日，YouTuber Nicholas Light在其频道之一发布了一段视频，画面让人觉得他所有的内容似乎都即将从该平台上被彻底下架。在这段带着不祥标题《我的频道今天将被注销》（My Channel will be Deleted Today）的视频中，Light声称自己成为了一家名为Remove Your Media的公司近期发起的“成千上万起虚假版权警告”的受害者之一。在长达13分钟的视频中，Light用大部分时间指控Remove Your Media首席执行官Eric Green是个网络巨魔（troll），专门系统性地针对那些内容中提及或截取了诸如《死神》（Bleach）和《海贼王》（One Piece）等热门动漫剧集片段的创作者。<br />当我最近通过电子邮件与Light交谈时，他告诉我，在收到源自Remove Your Media依据《数字千年版权法》（DMCA）提出的下架请求、并遭到十多次版权警告后，他有超过60个视频已被暂时下架。Light表示，对于运营反应类（reaction）频道的人来说，“视频被下架或吃警告简直是家常便饭”。但他坚称，Remove Your Media针对创作者的手段是滥用权利，与保护受版权保护的知识产权的任何合法利益毫无关系。<br />“我认为［Remove Your Media］是想借此引起那些大公司的注意，希望能被他们雇佣，”Light说。“但因为他们的操作太粗糙了，他们正在自食其果。随着各大频道纷纷报道此事，他们注定要完蛋。”<br />尽管人们很容易觉得Light可能在为了吸引观众眼球而故意夸大其词，但显而易见的是，其他许多内容创作者同样遭受了数量异乎寻常的版权警告。这些创作者中许多人专攻动漫和游戏反应类视频，视频中包含经过模糊处理或其他修改的受版权保护素材片段。创作者将这些修改后的受版权素材（如动漫片头序列或整集片段）叠加在自己观看并对其做出反应和/或评论的视频画面上。<br />尽管这类视频有点像反向版的《神秘科学影院3000》（Mystery Science Theater 3000）——出镜创作者才是主要焦点——但观众也可以将其作为一种（不甚理想的）不用付费就能观看版权内容的途径。创作者坚称他们的内容从根本上具有转换性（transformative），且受合理使用原则保护，但这并未阻止YouTube向他们发出账号可能被注销的警告。<br />Remove Your Media认为自身无需详尽审查创作者的所有视频即可本着善意提交DMCA下架通知<br />Remove Your Media的法律代表Evan F. Stone告诉我，Viz Media和Crunchyroll是该公司的两个“最大动漫客户”。Stone解释说，Remove Your Media“每天报告成千上万个涉嫌侵权的链接”——其中一些是“由版权所有者亲自转交的”，而另一些则是通过网络搜索发现的。Stone还指出，有些客户对某些类型的内容“非常宽容”，尽管这些内容的合理使用抗辩站不住脚。但他坚称，Remove Your Media所针对的YouTuber制作的内容并不具备足够的转换性，无法被归入合理使用的范畴。<br />“在这种情况下，评论并不能使使用行为具备转换性：这些视频完整展示了受版权保护的作品，而且其中很大一部分内容是放在付费门槛后面的，”Stone说。“再加上一些观众选择观看这些版本而非正版授权版本，这对市场造成的实际影响是显而易见的。”<br />“对于创作者认为属于误报的任何特定视频，抗辩通知机制（counter-notice）正是为了应对这种情况而设立的，并且行之有效，”Stone表示。“而［Remove Your Media］目前看到的却是，各个频道对每一个被警告的视频都发起抗辩，连上传整集内容的视频也不例外，甚至在接受伪证罪处罚的誓言下坚称每一个视频都是被误删的。”<br />从Light的角度来看，像他这样的频道正在制作一种独特的娱乐形式，同时也让版权所有者受益。“归根结底，这是在帮他们免费做宣传，”他解释道。各种流派的反应类视频在网络上流行已久，从YouTube上的播放量可以清楚地看出，动漫迷们尤其喜欢观看这类内容。<br />Light认为，由于“［动漫行业］在推广日本以外作品方面做得并不尽如人意”，他和同行们一直在通过视频弥补宣传上的短板。虽然Remove Your Media声称代表包括Crunchyroll和Viz Media在内的某些动漫发行平台行事，但Light认为“业内没有任何一家公司愿意与一家如此粗制滥造的公司结盟”。Crunchyroll并未回应The Verge关于其是否雇佣Remove Your Media执行版权维权的问题，而Viz Media则拒绝正式置评。<br />Jackson夫妇没有回应The Verge提出的置评请求，即该未具名个人是否可能是Eric Green或Remove Your Media，以及他们是如何在第一段讨论此事的视频所列出的日期（9月6日）避免频道被删除的。9月9日，两位YouTuber表示，他们的账号已被安排在次日删除，他们将YouTube执行版权保护的机制描述为一个允许AI进行大规模滥报的崩溃系统。到了9月10日，Rice &amp; Ginger这个YouTube频道依然在线，Jackson夫妇带着新视频回归，感谢Light代表他们公开发声并“拯救”了他们的频道。<br />当我联系YouTube询问其如何处理反应类视频创作者与知识产权所有者之间的DMCA下架争议时，政策传播经理Jack Malon表示，公司“不会去判定内容的所有权归谁”。YouTube并不去调解谁拥有版权内容以及创作者的视频是否属于合理使用的法律问题，而是将双方组织在一起，让他们自行协商解决问题。<br />“当我们收到有效的法律请求时，我们会依照版权法移除相关内容，”Malon说。“如果上传者认为自己有权使用这些素材，包括依据合理使用等例外情况，他们可以提交抗辩通知。”</p>
-<p>马隆补充道，YouTube 仅在“版权所有者提交有效且合法的下架申请时”才会移除创作者的视频，因为该平台必须遵守版权法。据 YouTube 称，创作者可以通过提交抗辩通知来化解版权警示——这一流程包括提供版权所有权，或获得许可使用下架内容中所含全部元素的证明。在回答我关于 Remove Your Media 如何挑选受下架影响的创作者时，他表示该公司优先针对那些“为未经授权的付费剧集盗版内容输送引流”的 YouTube 频道。</p>
-<p>这场风波凸显出创作者经济的某些动态可能正在发生改变</p>
-<p>马隆告诉我，创作者提交抗辩通知后，“若版权方未在规定时间内出具有关采取法律手段制止涉嫌侵权内容的证明”，其视频便可恢复，其账户受到的警示也会解除。但 YouTube 究竟如何核实索赔方对被下架内容所声称的所有权的有效性，目前尚不完全清楚。</p>
-<p>9月10日，莱特（Light）在其频道发布了另一段视频，痛批 Remove Your Media 和 YouTube 发起及处理《数字千年版权法》（DMCA）争议的方式。莱特表示，由于“（我们）共同制造的所有声势”，杰克逊一家的视频将在 10 个工作日内恢复。同时，他也回应了那些推测他可能是想借机炒作谋取经济利益的人。</p>
-<p>“我觉得很可笑的是，就在我决定声讨 YouTube 的这 10 天里，我的 AdSense 广告分成账户就开始出问题了，”莱特说道，并解释称在这场 DMCA 纠纷期间自己的视频已被取消变现资格。“这真引人深思。所以某些人满嘴胡言说‘他就是想借题发挥、他这么做全为了钱’的时候，真该闭上臭嘴。”</p>
-<p>尽管莱特和其他公开批评 YouTube 版权处理机制的人或许并非试图借被封禁来牟利，但这起风波凸显出内容创作者经济中的某些动态可能正在发生转变。动漫反应类视频短期内不太可能销声匿迹，但各大制作工作室和发行商在监控其知识产权（IP）在线被二创使用方面，态度似乎变得愈发激进。尽管各类创作者依然依赖‘合理使用’原则来制作赖以为生的内容，但若想避免卷入激进的版权清洗风暴，他们可能需要走得更加如履薄冰。</p>
-<p>每日免费精选，掌握核心要闻。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-11 23:12 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--ring-doorbell-deal-sale-08be94218ff1b5ef" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="871" data-content-paragraphs="1" data-published-at="2026-09-11T14:43:26.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 22:43</span>
-</div>
-
-### [通话音质无可匹敌的无线耳机迎来首次降价](https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The wireless earbuds with unbeatable call quality got their first discount</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/soundcoreliberty5prodeal.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="通话音质无可匹敌的无线耳机迎来首次降价" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看所有 Verge 导购内容<br />目前与 AirPods 5 同价，但功能更多。您还可以在 Ring 最佳电池供电门铃上享受优惠。<br />该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看 Cameron Faulkner 的所有文章<br />如果您通过 Verge 的链接购买商品，Vox Media 可能会获得佣金。详见我们的道德声明。<br />安克（Anker）旗下的声阔 Liberty 5 Pro（Soundcore Liberty 5 Pro）于 5 月强势登场，具备令人难以置信的通话质量，而这正是竞品耳机一直难以做好的地方。它们已成为我们评测员约翰·希金斯（John Higgins）日常轮换使用的耳机之一，用途绝不仅限于接听电话；在配套 App 中稍作调整后，Liberty 5 Pro 便能呈现绝佳的音质，同时凭借 IP55 防护等级以及在安卓系统上支持 LDAC 高解析度音频解码脱颖而出。<br />更重要的是，169.99 美元的定价通常比竞品更便宜，而现在您可以在亚马逊、百思买（Best Buy）以及安克官网以 149.99 美元拿下。该耳机提供四种配色（黑色、蓝色、白色、粉色），并配备了一个带屏幕的充电盒，可让您调节主动降噪、声音预设、智能免摘对话（speak-to-chat）以及启用杜比全景声（Dolby Atmos）头部追踪功能。这款充电盒的实用性可能因人而异，但无需打开 App 就能进行快速调节确实很不错。<br />自从约翰发布评测以来，我一直在苦苦等待 Liberty 5 Pro 的任何优惠活动。显然，安克察觉到了其热度，数月来一直将其价格牢牢锁定在 170 美元（即便在 6 月的 Prime 会员日大促期间也未出现哪怕微小的降价）。究竟是什么促成了此次降价？很可能是起售价 129 美元的 AirPods 5 的亮相，该系列还有一款贵 20 美元的功能更丰富版本——与目前安克 Liberty 5 Pro 的售价完全一致。阅读我们的评测。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-11 22:43 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-mpt-invasive-suggestions-4f33cb2d4aa2df21" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="953" data-content-paragraphs="10" data-published-at="2026-09-11T14:25:21.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 22:25</span>
-</div>
-
-### [Meta称在AI提出侵入性个人问题后正在修改其提示建议](https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Meta says it&#39;s changing AI suggestions after posing invasive personal questions</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Meta称在AI提出侵入性个人问题后正在修改其提示建议" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该话题下的帖子将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>这一改变是在一段热传视频显示 Meta AI 提示一名用户确认其某段视频中的儿童身份之后做出的。</p>
-<p>该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>查看 Emma Roth 的全部文章</p>
-<p>Meta 表示，此前有一段热传视频显示其 AI 聊天机器人挖掘一名女性年幼女儿的个人信息（正如科技媒体 Futurism 早前所报道），该公司目前正在对其 AI 聊天机器人所推荐的提示词进行调整。在给 The Verge 的一份声明中，Meta 发言人迪娜·埃尔-卡萨比（Dina El-Kassaby）表示，公司“失误了”，并补充称“该功能绝不应该向个人提示此类问题”。</p>
-<p>上周，Instagram 用户凯莉·罗宾斯（Kalie Robins）发布了一段视频，解释了她在将一段短视频同步发布到 Facebook 后，Meta AI 如何向她给出了具有侵入性的建议。在一段她和孩子在车里唱歌的视频下方，出现了 AI 提示词：“乘车的孩子是谁？”罗宾斯称，当她选择该提示词时，Meta AI 从她以往的帖子以及她亲属的帖子中拼凑出了关于她女儿们的信息。它还推荐了其他提示词，询问她孩子的年龄以及罗宾斯与家人的居住地。罗宾斯表示，Meta AI 还展示了发布在该平台上的她女儿们的照片，其中包括一张她声称多年前已删除的照片。</p>
-<p>Meta 已将其 AI 助手内置于 Facebook、Instagram、WhatsApp 和 Messenger 中，该助手可以在这些平台上回答问题、撰写帖子和生成图像。今年 7 月，在遭到强烈反对后，该公司下架了一项允许人们创建其他 Instagram 用户的 AI 深度伪造内容的功能。Meta 的埃尔-卡萨比现表示，已修复导致 Meta AI 推荐与个人话题相关提示词的问题。</p>
-<p>“我们创建这个功能是为了帮助人们获取有关他们感兴趣的话题或帖子的更多信息，”埃尔-卡萨比表示。“当有人点击提示词并使用该功能时，其生成的回复是基于用户本已可以访问的信息。”据埃尔-卡萨比称，在本次事件中，Meta AI 可能是从罗宾斯提到过其孩子姓名的视频中提取了信息。</p>
-<p>免费每日摘要，汇集最重要的资讯。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-11 22:25 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-g-pickpocket-in-new-york-4847878708cb08c3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2982" data-content-paragraphs="15" data-published-at="2026-09-11T14:15:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 22:15</span>
-</div>
-
-### [纽约最后的扒手不需要智能手机](https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york)
-<div class="original-title-sub"><span class="orig-tag">原文</span> New York City’s last pickpocket doesn’t need a smartphone</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/TOLPINY-STILL-Courtesy-of-Sony-Pictures-Classics.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="纽约最后的扒手不需要智能手机" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>又一次在多伦多向大家问好，每年这里都会有一周的时间，我沉浸在海量的电影中，并向大家娓娓道来。这个更为人熟知的电影节——多伦多国际电影节（TIFF），向来是预判未来数月影坛动向的绝佳风向标，融汇了主流商业片、冲奥热门、独立惊喜以及注定成为邪典经典的类型片。流媒体巨头们也热衷于在此大秀肌肉，预映他们最受瞩目的一些项目。例如去年，Netflix 就展示了吉尔莫·德尔·托罗（Guillermo del Toro）备受期待的《弗兰肯斯坦》（Frankenstein）以及《利刃出鞘3》（Knives Out 3）；而我当时也看遍了各种影片，从吓人的游戏改编电影《8号出口》（Exit 8）到朴赞郁的黑色讽刺剧《别无选择》（No Other Choice）。</p>
-<p>今年看起来同样大有看头。三池崇史、滨口龙介和沃纳·赫尔佐格等导演都带来了新片，还有多部引人入胜的专题长片，包括一部长达四小时的埃隆·马斯克纪录片。同时，还有不少贴近万圣节档期的流媒体剧集亮相预映，例如 Netflix 的《深渊》（Below）、Peacock 的《水晶湖》（Crystal Lake）以及亚马逊的《魔女嘉莉》（Carrie）。我计划在接下来的一周左右时间里观看近30部电影和剧集，而且就像去年一样，我每天都会撰写前线快报，为我看到的每一部作品附上简短影评。</p>
-<p>开局便十分引人入胜。第一天我就看了四部电影以及一部流媒体剧集的首映，其中最引人瞩目的是约翰·特托罗（John Turturro）在《纽约唯一的活扒手》（The Only Living Pickpocket in New York）中的精彩演绎，他饰演了一名患有科技恐惧症的小偷。我还看了一部我所见过的“最具加拿大特色”的作品，以及一部长达三小时却丝毫不觉冗长的剧情长片。以下是我目前所看的内容，排名不分先后。</p>
-<p>[Media: https://www.youtube.com/watch?v=iXA7BmrBBxs]<br />《纽约唯一的活扒手》（The Only Living Pickpocket in New York）<br />10月30日影院上映</p>
-<p>设想一下，如果《原钻》（Uncut Gems）少一些让人喘不过气的窒息感，却多几分撕心裂肺的动人。哈里（特托罗饰）是一个日渐衰老的扒手，在周遭世界飞速发展的同时，他仍固守着自己的老本行。他搞不懂智能手机，不知道USB是什么意思，还感叹现在根本没人带现金了。尽管如此，他依然靠着这门不光彩的手艺谋生，照料卧病在床的妻子。直到有一天，他误从一个危险人物身上偷走了一个加密货币硬件装置，从而卷入了一场紧张的惊悚风暴，让他身边的每一个人都陷入险境。</p>
-<p>这部电影是一封写给纽约市的美丽情书，充斥着熙熙攘攘的街头和拥挤地铁的大量镜头，但最重要的是，它成了特托罗不可思议的个人演技大秀。他饰演的确实是个恶棍，但你却忍不住会喜欢上他；片中有一幕他真的从一个小孩手里偷了糖果，这甚至让我会心一笑。影片的结局处理得近乎完美。</p>
-<p>[Media: https://www.youtube.com/watch?v=2AxtdPvDojA]<br />《突然之间》（All of a Sudden）<br />11月25日影院上映</p>
-<p>这是一部关于对话与心灵联结的故事，尽管片长超过三小时，却让人感觉转瞬即逝——就像一个愉快的夜晚外出，不知不觉间猛然发现已是凌晨两点。影片由《驾驶我的车》（Drive My Car）导演滨口龙介执掌，跨越法国与日本两地取景。故事始于一次偶然的相遇：工作狂养老院院长玛丽-卢（维吉妮·艾菲拉/Virginie Efira 饰）与直面癌症晚期诊断的剧作家真理（冈本多旅/Tao Okamoto 饰）萍水相逢。《突然之间》自此生动展开。两人一见如故，畅谈了整整一夜，话题从资本主义的毁灭性影响延伸到照护老年病患的现实细节。</p>
-<p>这一切都显得如此自然而真挚。在其核心内核上，《突然之间》是一部探讨“何以为人”的电影：我们希望如何度过自己的时光，以及我们如何对待身边的人，尤其是那些与众不同或难以相处的人。这听起来或许有些老生常谈，但它却让我对未来既心怀希望又感到敬畏不安。影片的画面也极为优美，在你迈出影院的那一刻，很有可能会立刻开始查阅飞往巴黎或京都的机票价格。</p>
-<p>[Media: https://www.youtube.com/watch?v=U57CNxSgoss]<br />《深渊》（Below）<br />10月8日上线 Netflix</p>
-<p>《深渊》是一部少有的以加拿大东海岸纽芬兰为背景的故事。这是一部引人入胜的怪兽惊悚片，讲述了一只神秘怪物正悄然威胁着一个偏远渔村的故事，而该村落本就因渔业资源枯竭而遭受重创。乔什·哈奈特（Josh Hartnett）饰演一位艰难求生的三个孩子的父亲，此时港口开始出现奇异的冰块，预示着大祸临头。我观看了前两集（共六集），尽管剧情走向相当明朗，但该剧在烘托氛围和悬念方面做得极为出色，使得恐怖真相的揭晓更具冲击力。《深渊》还出人意料地写实且幽默；任何去过东海岸的人，当看到一桶盐腌牛肉或是令人闻风丧胆的纽芬兰烈酒（screech）时，都会感到宾至如归。</p>
-<p>[Media: https://www.youtube.com/watch?v=VfnVp6RpXYQ]<br />《无赖战士》（Rogue Trooper）<br />院线上映档期待定</p>
-<p>由邓肯·琼斯（Duncan Jones）执导的动画讽刺科幻电影《无赖战士》改编自同名漫画，背景设定在一个充满有毒物质的星球上，那里发生着一场永无止境的战争，而在地球后方这却是一笔暴利的买卖。影片跟随一支基因改造超级士兵小队，他们发现自己被困在敌方领地，且队伍人数随着剧情推进不断减员。不幸的是，尽管偶有展现宏大格局的精美科幻画面，《无赖战士》整体上却显得平淡乏味，故事寡淡，角色过眼即忘，动作场面也缺乏真正的分量。更糟糕的是，尽管汇集了杰梅奈·克莱门特（Jemaine Clement）、马修·贝里（Matthew Berry）以及“菲洛米娜·康克”扮演者戴安·摩根（Diane Morgan）等阵容，整部片子却丝毫不好笑。</p>
-<p>[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/TOMBS_Amber-Midthunder-as-Jessie.jpeg?quality=90&amp;strip=all]<br />《我们的立场》（How We Stand）<br />院线上映档期待定</p>
-<p>在20世纪50年代因《印第安人迁徙法案》搬到洛杉矶后，三姐妹在母亲遇害后被迫分离。故事随后跳转到几十年后，此时三姐妹过着截然不同的人生：一人尽管戏路受限仍努力成为一名演员；一人被白人家庭收养后成为一名医生；而最小的妹妹在辗转经历数十个寄养家庭后艰难挣扎。《我们的立场》探讨了某些真正可怕的政策与计划带来的真实冲击，其核心的三位演员——安珀·明迪桑德（Amber Midthunder）、阿莉莎·瓦帕纳塔克（Alyssa Wapanatâhk）和伊莎贝尔·德罗伊-奥尔森（Isabel DeRoy-Olson）——表现都非常出色。然而，该片的剧本略显直白浅薄，其魔幻现实主义元素直到结尾也显得未能物尽其用。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-11 22:15 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ing-chrobalt-to-rdk-html-552918385ee062b9" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1970" data-content-paragraphs="23" data-published-at="2026-09-11T13:41:58.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-11 21:41</span>
-</div>
-
-### [重构客厅中的 YouTube：将“Chrobalt”引入 RDK](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Re-Engineering YouTube for the Living Room: Bringing &quot;Chrobalt&quot; to RDK</div>
-
-<div class="article-body" data-article-body="true"><p>Santosh Mahto 2026年9月11日<br />内容提要：Collabora 如何与 YouTube Cobalt 及设备合作伙伴工程团队携手，为其下一代客厅 Web 引擎交付首个基于 RDK 的参考平台。</p>
-<p>打开您的智能电视，启动 YouTube，进入“设置”→“应用版本”，您可能会看到类似“25.lts”的版本文本。这就是经典版 Cobalt 的版本号——一个轻量级、开源的 HTML5/CSS/JavaScript 引擎，专为资源受限的嵌入式设备打造，目前在智能电视、机顶盒等客厅设备上支撑着 YouTube 的运行。</p>
-<p>多年来，Cobalt 经历了一场重大的架构转型：从经典版 Cobalt 过渡到 Chrobalt（基于 Chromium 重新构建的 Cobalt）。</p>
-<p>在 Collabora，随着我们持续推进加速、协作和拥抱开源的步伐，我们一直与谷歌的 YouTube Cobalt 及合作伙伴工程团队保持密切合作，共同推出了首个面向第三方设备、基于 RDK 的 Chrobalt 参考平台，为全球设备合作伙伴和原始设备制造商（OEM）验证了这一重大的架构演化。</p>
-<p>从历史上看，由于 RAM 和 CPU 的严格限制，在低功耗机顶盒（STB）和智能电视上运行像 Chromium 这样功能完备的浏览器引擎是不可想象的。谷歌从零开始构建 Cobalt 正是为了解决这一难题，它提供了一个针对媒体流传输和精简资源占用进行优化的最小 Web 标准子集。Cobalt 通过一个名为 Starboard 的抽象层与硬件平台交互，使 OEM 和 SoC 厂商能够将 YouTube 移植到定制芯片上。</p>
-<p>然而，在快速发展的现代 Web 生态系统中维护一个独立的排版和渲染引擎是一项极其艰巨的任务。</p>
-<p>为了弥合这一差距，谷歌启动了一项大胆的工程项目：将 Cobalt 的代码与 Chromium 整合，从而获得一个稳健且符合标准的渲染管线。</p>
-<p>其成果便是 Chrobalt（始于 26.eap，近期已更新至 27.lts，紧随 Chromium 138+ 等现代里程碑）。现在的 Chrobalt 是一个带有 Starboard 移植层的 Chromium 嵌入程序。</p>
-<p>因此，Chrobalt 兼具了两者的优势：</p>
-<p>虽然已经有了面向桌面和 Android 的参考移植，但如果不为外部设备制造商提供某种参考移植来说服他们采用 Chrobalt，整个方案就是不完整的——这也正是我们的使命所在。</p>
-<p>一年多来，我们直接与谷歌的 YouTube Cobalt 团队及合作伙伴工程团队对接，在面向晶晨半导体（Amlogic）芯片的 RDK（参考设计套件）平台上对 Chrobalt 进行移植、集成和调优，为三星、LG 等谷歌设备合作伙伴奠定了基础参考设计。</p>
-<p>我们主导了集成与验证的全生命周期：</p>
-<p>在 BlinkOn-21 闪电演讲中获得谷歌团队的鸣谢</p>
-<p>今年 4 月，我们还参加了在日本举办的 YouTube 设备合作伙伴峰会。在会上，Chrobalt RDK 参考平台作为一条经过验证、具备生产可用性的演进路径被正式推荐给行业合作伙伴，以面向下一代客厅环境进行部署。</p>
-<p>特别感谢 Denis Shimizu 和 André Magalhães 所做出的贡献。</p>
-<p>无论您的目标是 RDK 还是任何定制 Linux 平台，无论您是出于好奇还是需要在使用 Cobalt/Chrobalt 运行 YouTube 或嵌入式 Web 方面获得协助，都欢迎随时联系我们。</p>
-<p>我们希望下一次当您打开智能电视、启动 YouTube 并进入“设置”→“应用版本”时，能够看到最新的 Chrobalt 27.lts 或更高版本。</p>
-<p>在 RDK 上设置和运行的说明</p>
-<p>通过与谷歌密切合作，我们为第三方设备构建了首个基于 RDK 的 Chrobalt 参考平台，实现了基于 Chromium 的 YouTube……</p>
-<p>Turnip 是首个在 Android 上获得官方 Vulkan 一致性认证的 Mesa 驱动程序，具备更强的 Android 集成能力和共享的 Vulkan 运行时……</p>
-<p>欢迎前往蒙特利尔参加第 10 届 RustConf！敬请关注我们关于 Tyr（面向 Arm Mali GPU 的新型 Rust 内核驱动程序）的主题演讲。</p>
-<p>无论是编写一行代码，还是制定长期的战略性软件开发计划，我们都将协助您在不断演进的开源世界中从容前行。</p>
-<p>查看 Collabora.com 的韩语版本<br />访问 Collabora.com 葡萄牙语页面<br />contact@collabora.com<br />为确保 Collabora 网站正常运行，请启用 JavaScript。谢谢</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-11 21:41 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-breach-of-email-provider-695aad6971b6da2d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1215" data-content-paragraphs="13" data-published-at="2026-09-11T13:32:54.000Z" data-time-source="publication">
+<div id="story-rus-weglobal-ai-and-looq-1ed87d0e9e060550" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3661" data-content-paragraphs="28" data-published-at="2026-09-11T18:58:01.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-11 21:32</span>
+  <span class="news-meta-time">🕒 2026-09-12 02:58</span>
 </div>
 
-### [Trezor证实邮件服务商遭数据泄露后，诈骗分子瞄准数十万加密货币持有者](https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider</div>
+### [中欧亚地区揭晓2026年“通往Battlefield之路”获胜者：Cerberus、WeGlobal AI 与 LOOQ](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ</div>
 
-<div class="article-body" data-article-body="true"><p>硬件加密钱包制造商 Trezor 正在短短两个月内第二次向客户发出警告，称其依赖的一家服务商遭到黑客攻击，导致 Trezor 客户的数据暴露给黑客。</p>
-<p>点击相关链接后会下载一个应用程序，该程序要求受害者提供其钱包备份密码。据 Trezor 称，其中一封电子邮件的主题为：“严重安全警报：STM32 熵漏洞”。</p>
-<p>一旦钱包密码被盗，黑客便可在公开区块链上不可逆转地盗走用户的资金。</p>
-<p>Brevo 在一份事件状态通报中表示，黑客入侵了 138 个 Brevo 账户以发送海量网络钓鱼信息。Brevo 表示，黑客利用了一个漏洞，导致黑客的访问权限“未被合理划定范围”。该公司称，黑客的访问权限被“错误地授予”给了其账户所能触及的所有组织。</p>
-<p>此次数据泄露事件凸显了一种常见的安全事故，即黑客窃取了履行客户订单或采购所必需的第三方公司所持有的数据。Trezor 表示，其自身的产品、钱包或账户系统均未受到此次事件的影响。</p>
-<p>这是最近几周内影响 Trezor 的第二起数据泄露事件。此前该公司曾在 8 月份提醒客户，其一家物流合作伙伴在一次数据泄露事件中遭到黑客攻击。邮寄公司 ShipMonk 的这起事件暴露了至少 81,000 名购买并收到 Trezor 钱包硬件的用户的姓名、电话号码、电子邮件地址和邮政地址。</p>
-<p>该数据泄露事件可能会使加密货币持有者及其他高净值人士面临遭受定向暴力以及所谓“扳手攻击”的风险，此类攻击依靠物理人身攻击手段从当事人处逼问密码。</p>
-<p>在 ShipMonk 遭到泄露后的几周里，一些人收到了声称来自 Trezor 的实体平信邮件，信中附带一个二维码，扫描后会打开一个伪造页面，企图盗取受害者的加密钱包密码。</p>
-<p>Trezor 表示，公司正在重新评估与其供应商的合作关系，并警告客户称其电子邮件地址可能会在未来的网络钓鱼攻击中被再次利用。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>可通过 Signal 加密信息联系他：zackwhittaker.1337。您也可以通过电子邮件与他联系或核实联络信息：zack.whittaker@techcrunch.com。</p>
-<p>不要错过。初创企业社区将齐聚一堂，回答一个关键问题：如何在 AI 时代实现可持续构建？</p>
-<p>身份验证巨头 IDScan 确认遭遇数据泄露，超过 1.5 亿份驾照信息被盗<br />Automattic 董事会迫使首席执行官 Matt Mullenweg 停职休假<br />苹果发布首款折叠屏手机 iPhone Duo<br />纽约大学数学家称 OpenAI 在关乎学术生涯的重大数学问题上手段卑劣<br />一部关于伊丽莎白·霍姆斯（Elizabeth Holmes）的绝密新纪录片震撼特柳赖德电影节<br />TechCrunch 出行：特斯拉 Cybercab 上路——并遭遇阻碍<br />徒步旅行者使用谷歌 Gemini 进行路线规划后被困获救</p></div>
+<div class="article-body" data-article-body="true"><p>“通往 TechCrunch 创业竞技场之路”（Road to TechCrunch Startup Battlefield）由丝路创新中心（Silkroad Innovation Hub）联合 TechCrunch、Freedom Holding、Astana Hub 以及乌兹别克斯坦 IT Park 共同举办。本届赛事的申请数量较2025年首届增长了近50%，当时共有来自27个国家的485家初创企业报名。经过各国初赛的层层选拔，最终有22家入围决赛的企业在区域总决赛上面对来自8个国家的47位评委进行了现场路演。此外，AI评委 AI-Dana 也连续第二年作为独立评审成员参与其中。</p>
+<p>TechCrunch 创业竞技场项目负责人伊莎贝尔·约翰内森（Isabelle Johannessen）表示：“2026年‘通往Battlefield之路’不仅申请数量创下新高，代表的国家数量也前所未有。在医疗科技、教育、生产力、企业级服务以及网络安全等领域参与路演的公司均极具前沿性且令人印象深刻。这些创始人将在 TechCrunch Disrupt 大会上获得全球曝光，这向下一代创业者传递了一个信号：立足本地构建，同样能实现全球扩展。这种曝光度就是催化剂。‘通往Battlefield之路’证明了该地区的生态系统正蓬勃发展，这里的创始人确实拥有一条通往世界舞台竞技的切实路径。”</p>
+<p>这也是一个几乎全面转向人工智能的赛场——在今年报名的726家初创公司中，有84%都在开发AI产品。排名前三的获胜者完全符合这一特征：专注于排查安全漏洞的AI智能体（Cerberus）；面向学生心理健康与职业指导的AI平台（WeGlobal AI）；以及能够评估实际看广告牌人流量的AI智能硬件（LOOQ）。</p>
+<p>丝路创新中心创始人兼首席执行官阿塞特·阿卜杜阿里耶夫（Asset Abdualiyev）表示：“我们今年拥有非常优秀的申请团队阵容，这让最终的评选变得异常艰难。自创办伊始，‘通往Battlefield之路’的核心理念就是为优秀的创始人提供一个平台，让他们被看见、被听见，并与本区域以外的发展机遇对接。在整个比赛期间，我们邀请了来自不同国家、经验丰富的风险投资人和科技领袖，让创始人有机会推介自己的公司、获得反馈，并与全球初创生态建立联系。最出色的团队脱颖而出闯入了决赛，我们很荣幸能与 TechCrunch 合作，为来自中欧亚地区的创始人打造这条通向全球的通道。”</p>
+<p>跻身“通往Battlefield之路”前十名的其他入围初创企业还包括：Suriy（蒙古）、TelAgri（格鲁吉亚）、SeaDar（阿塞拜疆）、Kaptın Kaptın（土耳其）、Admyra（美国）、MVSxAI（卡塔尔）以及 Soup（哈萨克斯坦）。</p>
+<p>第一名获得者 Cerberus 是一家AI驱动的网络安全初创公司，致力于自动排查企业IT系统中的漏洞。该公司正着手解决当前一代AI安全工具中存在的问题：许多工具严重依赖可能产生“幻觉”的通用大语言模型，一旦被赋予访问企业系统的权限，可能会引发严重后果。Cerberus 此前已加入 500 Global Eurasia，并入选了 Alchemist Silkroad 硅谷驻留项目。</p>
+<p>Cerberus 创始人兼首席执行官阿齐兹·阿赫梅德霍贾耶夫（Aziz Akhmedkhodjaev）表示：“能够参与‘通往Battlefield之路’，我们已经感到十分荣幸。无论结果如何，与来自39个国家的726份申请同台竞争本身就极具价值。我们路演的独特之处在于，我们正在解决市场上切实体会到的痛点。现在所有人都在用AI编写代码，漏洞出现的 COMPANY 速度超过了团队发现它们的速度，而且目前尚无成熟的方法让AI智能体安全地对真实基础设施进行测试。我们相信评委们认可了这一点。我们会全力以赴，将其视为一项重大的责任，绝不辜负我们所在地区的期望。”</p>
+<p>这一胜利也为乌兹别克斯坦赢得了其首个“通往 TechCrunch 创业竞技场之路”的冠军，目前该国正致力于推动更多本土新兴科技企业走上国际舞台。</p>
+<p>乌兹别克斯坦数字技术部部长舍尔佐德·舍尔马托夫（Sherzod Shermatov）表示：“过去几年中，乌兹别克斯坦的初创生态系统发生了显著变化。我们看到越来越多的创始人正在构建前沿的科技产品，并在创业之初就着眼于国际市场。Cerberus 夺得第一并晋级 TechCrunch Startup Battlefield 200，正是这种进步的有力例证，也是向全球科技界展示乌兹别克斯坦创业者构建成果的重要机遇。”</p>
+<p>第二名获得者 WeGlobal AI 针对哈萨克斯坦驻校心理咨询师匮乏的现状搭建了其平台，为学校提供AI工具以追踪学生的心理健康状况并提供职业规划指导，其覆盖规模是任何单纯依靠招聘的手段都无法比拟的。</p>
+<p>WeGlobal AI 联合创始人兼首席执行官博拉特·阿希姆（Bolat Ashim）表示：“对我们团队而言，‘通往Battlefield之路’是一段令人难以置信的经历。历经国家赛与区域赛的历练，让我们有机会挑战自己的思维方式，打磨我们的故事，并一路结识了许多出色的创始人。获得第二名并赢得前往旧金山参加 TechCrunch Startup Battlefield 200 的机会，对我们来说是一座巨大的里程碑。我们非常激动能够代表哈萨克斯坦登上全球舞台，并向更广泛的科技界推介 WeGlobal AI 正在构建的产品。”</p>
+<p>对哈萨克斯坦而言，WeGlobal AI 取得的这一成绩，正值该国将人工智能置于其数字化发展议程的核心、并寻求将更多本国科技企业与国际市场相连接之际。</p>
+<p>哈萨克斯坦副总理兼人工智能与数字发展部部长扎斯兰·马季耶夫（Zhaslan Madiyev）表示：“人工智能正在为哈萨克斯坦等国创造在全球范围内展开竞争的机遇，这在十年前是不可想象的。我们的任务是确保有才华的创始人具备相应的基础设施、技能和国际联系，以充分抓住这一机遇。‘通往Battlefield之路’正是这样一座桥梁，它将来自哈萨克斯坦以及整个中欧亚地区的企业家与全球科技生态系统直接连通。”</p>
+<p>LOOQ 创始人兼首席执行官阿扬·萨克诺夫（Ayan Sakenov）表示：“LOOQ 始于一个简单却雄心勃勃的想法：如果我们能测量线上的每一次点击，为什么不能测量物理世界中发生的事情？从那时起，我们把这一想法从原型推向了实际部署、落地客户，如今又获得了‘通往Battlefield之路’的第三名。赢得前往旧金山的资格是一座巨大的里程碑，但对我们来说，这仅仅是序幕。初创公司的生活基本上就是构建、测试、学习，偶尔睡上一觉——现在，我们非常期待将 LOOQ 带到美国，展示实体世界的‘Google Analytics’能够演变成何种形态。”</p>
+<p>这三家获胜企业还将分享由 Astana Hub Ventures、IT Park Ventures 与丝路创新中心联合出资设立的10万美元投资池。其中，Cerberus 将获得5万美元投资，WeGlobal AI 获得3万美元，LOOQ 获得2万美元，均按标准市场条款进行股权投资。</p>
+<p>此外，OpenAI 为22家入围决赛的团队提供了总计28万美元的 API 积分额度。三家获胜企业共获得10万美元，与投资奖金的分配比例保持一致，而其余19家入围企业每家各获得1万美元的 API 积分。</p>
+<p>“中欧亚大陆各地的创始人展现出了真正的雄心壮志，专注于解决现实问题，并在利用人工智能构建产品方面展现出了强大的技术实力，”OpenAI亚太区初创企业负责人托马斯·郑（Thomas Jeng）表示。“很高兴看到此类竞赛能够帮助他们对接所需的全球网络，从而将创意转化为惠及该地区以外广大受众的产品。”</p>
+<p>对于这三家获胜团队而言，区域决赛标志着通往“TechCrunch 2026创业竞技场之路”的落幕，但也是在旧金山展开的一场规模大得多的竞争的起点。</p>
+<p>观看决赛轮直播：</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。</p>
+<p>不容错过。初创企业界将齐聚一堂，共同解答一个关键问题：在人工智能时代，你该如何实现可持续发展？</p>
+<p>因Astra需求激增，OpenAI暂停Pro订阅服务</p>
+<p>身份验证巨头IDScan确认遭遇数据泄露，超1.5亿张驾照被盗</p>
+<p>Automattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）停职休假</p>
+<p>苹果发布首款折叠屏设备iPhone Duo</p>
+<p>纽约大学数学家指责OpenAI在关乎职业声誉的数学难题上采取不正当手段</p>
+<p>一部秘密制作的伊丽莎白·霍姆斯（Elizabeth Holmes）全新纪录片震撼特柳赖德电影节</p>
+<p>TechCrunch出行观察：特斯拉Cybercab正式上路——但也遭遇了波折</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-11 21:32 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-12 02:58 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -778,7 +758,7 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

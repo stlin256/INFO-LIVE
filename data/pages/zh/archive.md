@@ -23,14 +23,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **24** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **25** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-12 00:37 (UTC+8)
+- **最新归档时间**：2026-09-12 13:57 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-12 13:57 (UTC+8)" title="全球要闻情报简报 · 13:57" org="ARCHIVE"}
+**速报纪要：** 本小时重点关注金砖国家峰会期间的外交互动、乌克兰局势最新言论，以及人工智能前沿工具在实际生产中的部署进展。
+
+**关键信号：** 乌克兰总统泽连斯基在接受DW采访时表示乌方在谈判中处于有利地位，并提议与普京在迈阿密会面。；金砖国家新德里峰会期间，印度总理莫迪向俄罗斯总统普京赠送俄文版古印度哲学典籍《蒂鲁古拉尔》（Thirukkural）。；Perplexity正使用Astra编写通信、修改软件并监控生产系统，人工介入频率明显降低。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/edinoborstva-2117235177.html) <span class="news-meta-time">🕒 2026-09-12 13:49</span>
+- [OpenAI News (官方动态)] [Perplexity 依托 GPT-6 Astra 运行端到端系统](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-12 12:00</span>
+- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1we1qmx/acting_navy_secretary_says_iran_blew_the_hell_out/) <span class="news-meta-time">🕒 2026-09-12 11:44</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html) <span class="news-meta-time">🕒 2026-09-12 10:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/posolstvo-2117235018.html) <span class="news-meta-time">🕒 2026-09-12 13:48</span>
+:::
 :::timeline-item{start="2026-09-12 00:37 (UTC+8)" title="全球要闻情报简报 · 00:37" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-12 00:35 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
