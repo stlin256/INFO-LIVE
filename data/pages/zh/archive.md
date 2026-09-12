@@ -24,14 +24,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **27** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **28** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-13 01:19 (UTC+8)
+- **最新归档时间**：2026-09-13 03:31 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-13 03:31 (UTC+8)" title="全球要闻情报简报 · 03:31" org="ARCHIVE"}
+**速报纪要：** 本小时内，技术与地缘政治领域均有关键信息更新：Perplexity 正在生产系统与软件维护中深度采用 Astra 模型；俄罗斯总统新闻秘书重申会面选址立场；美国新墨西哥州发生个人直播拆除监控摄像头事件；此外特斯拉跑车项目持续受到关注。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/nikolaev-2117349364.html) <span class="news-meta-time">🕒 2026-09-13 03:22</span>
+- [OpenAI News (官方动态)] [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html) <span class="news-meta-time">🕒 2026-09-13 03:00</span>
+- [Lobste.rs (极客思想社区)] [gpg.fail事件的余波：论负责任披露、GPG以及2026年的安全现状 [32:37]](https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026) <span class="news-meta-time">🕒 2026-09-13 01:24</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-silicon-nanosphere-coatings-glossy-nonfading.html) <span class="news-meta-time">🕒 2026-09-13 03:00</span>
+- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/politics/2186819) <span class="news-meta-time">🕒 2026-09-13 03:21</span>
+:::
 :::timeline-item{start="2026-09-13 01:19 (UTC+8)" title="全球要闻情报简报 · 01:19" org="ARCHIVE"}
 **速报纪要：** 本小时内，突发灾难与国际政治社会动态备受关注：菲律宾巴拉望省附近海域客船起火事故已确认76人遇难，搜救工作持续进行；德国约20个城市爆发约15万人参与的游行抗议极右翼政党；同时，人工智能领域在自主化应用扩展与安全风险管控两方面持续引发讨论。
 

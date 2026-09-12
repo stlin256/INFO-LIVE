@@ -16,242 +16,126 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-f-b72c-9567cca0ce42-html-ab9ea1349745b2a4" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="648" data-content-paragraphs="1" data-published-at="2026-09-12T17:05:56.000Z" data-time-source="publication">
+<div id="story-ck-cameras-gets-arrested-6197883683f23878" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3766" data-content-paragraphs="44" data-published-at="2026-09-12T19:19:14.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">⚡ 战略能源与气候</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 01:05</span>
-</div>
-
-### [意大利驻塞尔维亚大使戈里在“享美食、献爱心、传温情”慈善节上致辞](https://www.ansa.it/english/news/news_from_embassies/2026/09/12/ambassador-gori-in-serbia-speaks-at-the-mangia.-dona.-ama.-charity-festival_11ac9ebb-f363-4a4f-b72c-9567cca0ce42.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Ambassador Gori in Serbia Speaks at the ‘Mangia. Dona. Ama.’ Charity Festival</div>
-
-<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/12/4534ef18bb0b356ea1df9d5d84b050c2.jpg" alt="意大利驻塞尔维亚大使戈里在“享美食、献爱心、传温情”慈善节上致辞" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>（安莎社）- 贝尔格莱德，9月12日 - 意大利驻塞尔维亚大使卢卡·戈里（Luca Gori）在贝尔格莱德出席了第二届“Mangia. Dona. Ama.”（享美食、献爱心、传温情）慈善节。该节日聚焦意大利美食与团结互助，由塞尔维亚意大利工业联合会（Confindustria Serbia）与塞尔维亚国家癌症儿童家长协会（Nurdor）联合举办。活动在Gastrošor举行，汇聚了企业代表与社会公众，旨在推广卓越的意大利美食，并为Nurdor筹集资金以支持罹患癌症的儿童和青少年。在开幕式上发言的嘉宾包括戈里大使、塞尔维亚意大利工业联合会主席罗马诺·罗西（Romano Rossi）、Nurdor主席乔兰德·科罗拉（Joland Korora）、忠利保险（Generali Osiguranje）执行董事会成员马沙·拉利奇（Maša Lalić）以及普契尼餐饮（Puccini Catering）的弗朗切斯科·尼科莱（Francesco Nicolai）。第二届活动的举办印证了2025年发起该倡议的成功——当时同样由塞尔维亚意大利工业联合会主办的意大利街头美食慈善节，便已将推广意大利烹饪传统与支持Nurdor的承诺相结合。“‘享美食、献爱心、传温情’展现了意大利美食文化与欢聚传统如何转化为具体的互助善举，”意大利驻塞尔维亚大使卢卡·戈里表示。“我们感到格外高兴的是，”他补充道，“在去年取得成功的基础上，这项倡议持续发展壮大，使企业、协会和民众能够围绕如此重要的慈善事业凝聚在一起。”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>意大利驻塞尔维亚大使卢卡·戈里（Luca Gori）在贝尔格莱德出席了第二届“Mangia. Dona. Ama.”慈善节活动并致辞。</li>
-    <li>该慈善节由塞尔维亚意工联（Confindustria Serbia）与塞尔维亚国家癌症儿童家长协会（Nurdor）合作举办，活动地点在Gastrošor。</li>
-    <li>来源叙事重点：聚焦意大利驻塞尔维亚大使出席贝尔格莱德慈善节的公共外事活动，将推广意大利美食文化与企业社会责任、慈善公益紧密结合，强调意塞民间及经贸友好合作成果。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#战略能源与气候</span>
-  <span class="news-tag-pill">#ANSA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ansa.it/english/news/news_from_embassies/2026/09/12/ambassador-gori-in-serbia-speaks-at-the-mangia.-dona.-ama.-charity-festival_11ac9ebb-f363-4a4f-b72c-9567cca0ce42.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ws-articles-c14dpgm0rg4o-b9d28eb17909bcfb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2124" data-content-paragraphs="33" data-published-at="2026-09-12T17:05:34.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
-    <span class="stance-badge">英伦主流建制</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 01:05</span>
-</div>
-
-### [Anthropic掌舵人达里奥·阿莫代伊呼吁放缓人工智能发展步伐](https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Anthropic boss Dario Amodei calls for AI development to slow down</div>
-
-<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg" alt="Anthropic掌舵人达里奥·阿莫代伊呼吁放缓人工智能发展步伐" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>Anthropic负责人达里奥·阿莫代伊（Dario Amodei）表示，发展人工智能势在必行。</p>
-<p>这家顶尖人工智能公司的掌舵人呼吁放缓人工智能模型的研发步伐，并对其进行密切监督。</p>
-<p>在周六发表的一篇文章中，达里奥·阿莫代伊表示，发展AI本身毋庸置疑，但随之而来的风险是“严重的”，企业和政府必须获得应对这些风险的时间。</p>
-<p>他提出了一个三点计划，包括在AI模型研发过程中进行独立监督、全行业监管以及全球层面的监管。</p>
-<p>近期，人们对该技术的潜在风险日益担忧，其中最严重的担忧指出，在未来十年内，该技术“有可能毁灭全人类”的概率超过10%。</p>
-<p>Anthropic此前曾表示，其发现并阻止了企图利用其AI模型进行“恶意活动”的行为，这些活动可能为生物武器的研发提供支持。</p>
-<p>但最严厉的警告来自Anthropic安全团队的两名员工。他们在过去两周内辞职，并表示在AI企业竞相研发比人类更聪明的机器的竞争中，人类可能无法幸存。</p>
-<p>在接受《财富》（Fortune）杂志的新采访时，OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）表示，目前的各类安全标准“尚未就位”，无法将AI能力推向更高水平。</p>
-<p>奥尔特曼还补充说，他认为AI脱离人类控制是“绝对”有可能的。</p>
-<p>这些警告引发了采取行动的呼声，但美国总统唐纳德·特朗普（Donald Trump）迄今为止仍对此类担忧不以为然。他在周四表示，自己担心“如果我们无法赢得AI竞赛，我们将陷入非常不利的境地”。</p>
-<p>科技界对阿莫代伊的发文反应强烈，埃隆·马斯克（Elon Musk）表示这位Anthropic负责人的看法是“正确的”。</p>
-<p>然而，一些观察人士指出，阿莫代伊的文章与其说是关乎安全，不如说是为了巩固对AI技术的控制权。</p>
-<p>在这篇题为《我们必须调整前沿步伐》（We Must Pace the Frontier）的文章中，阿莫代伊指出，AI的发展速度“急剧加快”，包括其“构建下一代AI的能力”——他还提到了涉及竞争对手OpenAI的一起事件。该事件披露，OpenAI的智能体在7月份对并未要求其攻击的目标发动了网络安全攻击。</p>
-<p>阿莫代伊表示，OpenAI的这些智能体“实质上表现得像一个狂热效忠的集体”。</p>
-<p>OpenAI曾表示，直到7月份，“领导层才意识到智能体之间通信活动的重大意义”，因此该公司正在放缓某些先进AI模型和工具的训练，并指出AI工具失控的风险目前正在上升。</p>
-<p>在文章中，阿莫代伊呼吁“以平衡的速度构建AI，旨在确保其安全性的同时依然发挥其效益”。</p>
-<p>这并不意味着“停止模型训练或技术进步，而是确保企业投入充足的时间来对齐并保护其模型，并由第三方评估机构予以确认”。</p>
-<p>他承诺Anthropic将“单方面”践行这一准则，并呼吁各国政府“要求其他前沿企业保持同步”。</p>
-<p>阿莫代伊表示，他意识到监管可能跟不上AI的发展步伐，因此呼吁AI企业在法规之外“自愿合作制定标准”。</p>
-<p>这位Anthropic首席执行官接着谈及放缓步伐对行业以及与全球主要开发者（尤其是中国）竞争所产生的影响。</p>
-<p>阿莫代伊说：“我相信，如果在模型达到关键能力水平之前，放缓步伐能为我们争取到哪怕额外一两年的时间，而我们利用这段时间来推进对齐工作，我们就能大幅降低发生严重差错的风险。”</p>
-<p>这一行动必须以协同的方式进行，“不能牺牲商业优势或美国在AI领域的领先地位”。他表示，任何放缓都必须是有限度的，以避免让中国赶超。</p>
-<p>他敦促美国政府采取措施，确保美国公司的AI芯片不会出售给中国，或将技术分享给威权国家。</p>
-<p>阿莫代伊的文章引发了各方广泛反应。</p>
-<p>人工智能平台Hugging Face的首席执行官克莱门特·德兰格（Clement Delangue）表示，他正在启动一个名为“开放对齐倡议”（Open Alignment Initiative）的新项目，并补充称，他希望成为阿莫代伊所提议作为解决方案一部分的“嵌入式评估员”之一。</p>
-<p>今年早些时候，Hugging Face遭到OpenAI智能体的黑客攻击，引发了对AI安全的强烈抗议。</p>
-<p>德兰格在社交平台X上写道：“让我们通过提高透明度来使AI更安全。”</p>
-<p>埃隆·马斯克也表达了支持，发文称“达里奥是对的”。</p>
-<p>马斯克旗下的SpaceXAI开发了备受争议的聊天机器人Grok，他曾称Anthropic为“邪恶”，但在5月份签署了一项向Anthropic出售价值150亿美元算力的协议后改变了态度。</p>
-<p>投资人、科技播客“All-In”的联合主持人查马斯·帕利哈皮蒂亚（Chamath Palihapitiya）写道：“达里奥是在主张遏制开源，将巨大的技术和经济权力集中在Anthropic手中。”</p>
-<p>在硅谷的某些领域，放缓甚至暂停AI发展的概念长期以来一直受到此类讥讽，批评人士指责头部AI开发者将自身技术大肆炒作作为一种营销手段。</p>
-<p>据报道，Anthropic和OpenAI都在为可能创下纪录的首次公开募股（IPO）做准备。</p>
-<p>为什么一些专家越来越担心AI会接管世界<br />Anthropic研究员认为AI“可能杀死全人类”的几率超过10%<br />万亿美元AI竞赛核心的矛盾</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【BBC World (英国BBC官方英文)】于 2026-09-13 01:05 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#BBC</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-13-10695501-shtml-cdd18551ff697626" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="814" data-content-paragraphs="25" data-published-at="2026-09-12T17:05:20.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-13 01:05</span>
+  <span class="news-meta-time">🕒 2026-09-13 03:19</span>
 </div>
 
-### [菲律宾客船起火事故死亡人数升至76人](https://www.chinanews.com.cn/gj/2026/09-13/10695501.shtml)
+### [男子自拍拆除Flock监控摄像头，随后被捕](https://www.foxnews.com/tech/man-films-himself-taking-down-flock-cameras-gets-arrested)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Man films himself taking down Flock cameras, gets arrested</div>
 
-<div class="article-body" data-article-body="true"><p>中新社马尼拉9月12日电 (记者 周璟)菲律宾海岸警卫队12日表示，巴拉望省附近海域起火客船上又发现41具遗体，事故确认死亡人数升至76人，另有13人失联、43人获救。搜救及遗体打捞工作仍在进行。</p>
-<p>当天早些时候，首批30具遗体经海路运抵巴拉望省科伦镇，当地法医随即启动遗体身份确认工作。</p>
-<p>据菲媒报道，涉事客船载有132人，从马尼拉出发，9日在驶往科伦途中起火，随后搁浅于距科伦海岸约7.5公里处。菲海警发布的视频显示，船体已被严重烧毁。</p>
-<p>菲律宾群岛民众日常出行较为依赖渡轮。受恶劣天气、船舶维护不足、超载等因素影响，菲律宾海域船舶事故时有发生。(完)</p>
-<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
-<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
-<p>一碗泡面诱发痛风？这些高嘌呤食物容易被忽略</p>
-<p>明明一直在吃，却重度低钾？这些行为正悄悄掏空你的身体</p>
-<p>不能回家的除了旅行青蛙，可能还有玩家的钱</p>
-<p>250元的AI工具积分只卖8.8元？小心你的代码被截留倒卖</p>
-<p>也门打起来了！全球两大航运“油管”同时动荡</p>
-<p>中国展会“金九”旺 消费引流与产业赋能同发力</p>
-<p>新能源电车辐射大，长期开会掉头发、掉腿毛？</p>
-<p>2026年国家基本医保药品目录预计于11月发布</p>
-<p>印度大厨在北京：美食是连接人与文化的桥梁</p>
-<p>大型活动吃饭高峰排长队？炒菜机器人：5分钟就出一锅菜</p>
-<p>三峡水库2026年度蓄水启动 航道部门全力筑牢安全屏障</p>
-<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
-<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
-<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
-<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
-<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
-<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/1-Man-films-himself-taking-down-Flock-cameras_-gets-arrested.jpg?ve=1&amp;tl=1" alt="男子自拍拆除Flock监控摄像头，随后被捕" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>你可能会以为，拆除监控摄像头的人会尽量避免被拍到。杰文·马丁内斯（Jevon Martinez）却反其道而行之。</p>
+<p>这名来自新墨西哥州里奥兰乔（Rio Rancho）的44岁男子，于9月2日录下了自己在伯纳利欧县（Bernalillo County）各地拆除Flock Safety摄像头设备的过程。他一边把设备装进皮卡车，一边向在线观看的网民解释自己的理由。而这一时机恰好为马丁内斯提供了契机。</p>
+<p>就在几天前，伯纳利欧县治安官约翰·艾伦（John Allen）已着手终止该部门与Flock Safety签订的三份合同。艾伦称原因是对隐私保护、数据共享的担忧，以及对该公司的信任缺失。不过，他依然支持自动车牌识别（ALPR）技术，并计划寻找其他供应商。</p>
+<p>马丁内斯显然将剩余的摄像头视作待处理的“未竟事务”。接下来发生的事情表明，一旦有人开始拆除非自己所有的硬件，一场围绕监控的争端会多么迅速地演变成一起刑事案件。</p>
+<p>最新消息！欢迎参加即将举行的CyberGuy线上直播课程：借助人工智能获得更好的医疗服务<br />在这堂免费的线上直播课中，库尔特·“CyberGuy”·克努特森（Kurt &quot;CyberGuy&quot; Knutsson）将向您展示AI帮助您更积极地参与个人医疗护理的五种实用方法。您将学会如何整理个人健康史、记住重要的就诊细节、理解复杂的医疗信息、研究处方药，并为下一次看医生准备好问题。无需任何技术经验。</p>
+<p>相关报道：青少年涉嫌毁坏Flock摄像头直至电池爆炸，引发居民区附近火灾</p>
+<p>马丁内斯让自己的立场变得异常易于理解，因为他亲自记录了一切。在9月2日的一条社交媒体帖子中，马丁内斯表示伯纳利欧县治安官办公室（BCSO）已不再使用Flock的服务。他写道，自己拆除这些设备是为了将其归还。</p>
+<p>他还坚称自己既没有破坏也没有偷窃设备。马丁内斯将其形容为“无人看管的财物”。</p>
+<p>他的视频也传达了同样的信息。“既然BCSO很忙，我知道BCSO很忙，在BCSO工作的每一个人，我知道你们都很忙，所以我就主动帮了你们一把，”马丁内斯一边开着皮卡一边说。</p>
+<p>镜头随后展示了他所说的“帮了一把”是什么意思。他的皮卡车斗里装满了Flock的设备。</p>
+<p>这也并非马丁内斯第一次因为车牌识别器而与执法部门打交道。几个月前，里奥兰乔警方就在桑多瓦尔县（Sandoval County）的一起独立案件中逮捕了他，该案涉及涉嫌拆除和破坏三套车牌识别器系统。在那起案件中，他面临九项重罪指控。</p>
+<p>马丁内斯在视频中丝毫没有表现出想要保持低调的样子。恰恰相反。“我们搞到了不少这些坏小子，”他一边炫耀皮卡车后座里的设备一边说道。</p>
+<p>接着他说出了一句让视频几乎带有游戏挑战性质的话：“看看我一天能搞到多少个。这将是对所有人的挑战。”</p>
+<p>在另一处，马丁内斯对观众说：“不能在我的城市，不能在我的州。”他还多次将Flock摄像头称为“暴政之树”，这一绰号充分说明了他对机动车自动监控的态度。关于他直播的报道显示，他一边拆卸其中一套系统，一边继续阐明自己的立场。马丁内斯在行动的同时留下了自己的记录，他的面容、声音和举动都被镜头记录了下来。</p>
+<p>正是在这里，马丁内斯在社交媒体上的说辞遇到了一个重要问题。伯纳利欧县当局表示，他拆除了10套Flock摄像头系统，估计总价值为16,500美元。</p>
+<p>然而，其中只有两套属于BCSO。当局表示，其余八套由社区业主协会管理。这使得情况发生了很大改变。</p>
+<p>马丁内斯一再将自己的行为描述为在BCSO终止与Flock的合作后将设备归还给治安官。然而，当局追缴的大多数系统其实与其它机构相关。</p>
+<p>BCSO还表示，这些设备仍然属于财产，公众无权予以拆除。因此，尽管马丁内斯的视频清楚地解释了他认为自己在做什么，但这并不能解决所有权问题。</p>
+<p>相关报道：印第安纳州前副警长因涉嫌利用Flock摄像头跟踪女友被控重罪</p>
+<p>马丁内斯在整个视频中都表示，他计划将设备归还给BCSO。然而，调查人员对这一事件的结局给出了截然不同的描述。</p>
+<p>根据刑事起诉书，马丁内斯车里装着这些设备，曾三次驾车驶过BCSO总部大楼。副警长们最终在治安官办公室外将他拦下。</p>
+<p>抓捕现场的视频显示，副警长们拔枪包围了他的皮卡车，随后给他戴上了手铐。马丁内斯当时并未携带武器，针对他的指控源于涉嫌拆除设备，而非暴力犯罪。</p>
+<p>法院报告在具体的盗窃罪指控上略有不同。一份刑事起诉书记录显示指控为涉案金额超过2500美元的未遂盗窃罪，而BCSO的报告列出的是涉案金额超过2500美元的盗窃罪。他还面临一项干扰通信设施的指控。</p>
+<p>9月4日，马丁内斯在伯纳利欧县大都会法院以视频连线方式出庭。检方未提出审前羁押动议，法官克莱尔·麦克丹尼尔（Claire McDaniel）也未在伯纳利欧县的案件中下令羁押他。</p>
+<p>这并不意味着马丁内斯获得了自由。由于此前涉嫌拆除车牌识别器的桑多瓦尔县独立案件，他依然处于拘留状态。报道称，桑多瓦尔县因他违反释放条件而将其拘留，并且大陪审团随后在该案中对他提出了起诉。这些案件目前仍未结案，在法庭证明有罪之前，各项指控均属指控性质。</p>
+<p>这里还有另一个曲折之处，让这篇报道变得更加耐人寻味。治安官艾伦此前自己也已经对Flock Safety忍无可忍。</p>
+<p>BCSO原本与该公司签订了三份合同。一份涉及五台自动车牌识别摄像头。另一份涉及接入Flock网络的16台测速摄像头。第三份则涵盖枪声检测技术。</p>
+<p>艾伦表示，由于隐私保护和数据共享问题，他已经对Flock失去了信任。他还对其他执法机构获取新墨西哥州车牌数据表示了担忧。</p>
+<p>尽管如此，艾伦仍然捍卫该底层技术作为有用执法工具的价值。他的分歧集中在供应商以及围绕数据的防护机制上。这让BCSO和马丁内斯处于一种不寻常的境地：双方都对Flock表达了严重的关切，但在接下来应该怎么做的问题上，两人的想法却有着天壤之别。</p>
+<p>自动车牌识别器能够建立起车辆行踪的详细记录。Flock的LPR系统在收集车牌文本的同时，还会记录日期、时间和摄像头位置。它们还能记录基本的车辆特征，例如品牌、型号和颜色。Flock表示，该系统不会通过LPR摄像头收集驾驶员的个人身份信息。</p>
+<p>警方可以利用这些信息在调查中获取线索。令人担忧的是，当数以百万计的此类观测记录变得可供检索时会发生什么。</p>
+<p>我们在科罗拉多州亲眼目睹了这种风险，一名女子在Flock摄像头将其卡车与案发区域关联后，面临门廊盗窃的指控。最终是其他位置数据帮助她证明了自己的实际行踪。</p>
+<p>Flock摄像头也已进驻你每周可能都会光顾的场所。CyberGuy发现康涅狄格州的一些家得宝（Home Depot）和劳氏（Lowe&#39;s）停车场已启用了车牌识别器。这意味着把车开进商店停车场就可能产生另一条与你车辆关联的记录。</p>
+<p>此外，还有一些系统能够将不同类型的信号整合在一起。我们最近研究了SignalTrace，这种技术可以将无线设备信号与车牌识别器信息以及出行轨迹模式相互关联。</p>
+<p>这一切都有助于解释为什么路边的摄像头会引发如此强烈的反应。但这并不意味着任何人有权去拆除它们。</p>
+<p>你完全可以在不触碰摄像头的情况下对自动车牌识别系统提出质疑。首先可以去了解是哪家公司在你的社区运营这些识别器，以及你当地的机构会保存这些数据多久。</p>
+<p>接着询问谁有权检索该系统，以及官员如何审计这些检索行为。私营摄像头同样值得关注。业主协会（HOA）、购物中心或企业都可能运营与执法部门联网的车牌识别器。</p>
+<p>公共记录可以帮助你了解当地机构如何使用这项技术。在官员续约之前，公开会议也为居民提供了对相关合同提出质疑的途径。</p>
+<p>如果你希望拆除摄像头，请向拥有该决定法定权限的人施压。这样可以使辩论始终聚焦于监控政策，而不是演变成一起刑事案件。</p>
+<p>田纳西州官员称争议摄像头遭遇抵制之际Flock首席执行官应因“叛国罪被公开处以绞刑”</p>
+<p>我理解为什么这些摄像头会让人感到不适。一个悄悄记录车辆出没地点的系统理应受到严密审查，特别是当信息可以在各机构之间流转时。伯纳利欧县（Bernalillo County）自己的治安官就对Flock深感担忧，以至于终止了与该公司的合作。马丁内斯（Martinez）显然同样对隐私感到担忧，但他的视频展示了一旦有人决定单方面采取进一步行动时会发生什么。</p>
+<p>他论点中最大的事实缺陷很难被忽视。当局表示，在他拆除的10台系统中，只有2台与伯纳利欧县治安官办公室（BCSO）有关。其余8台均由社区协会管理。此外还有视频本身。马丁内斯希望大家看到他在做什么。他解释了自己的理由，并展示了堆放在他皮卡车上的设备。这些发布的内容或许能在网上帮他树立某种政治论点。但它们同时也为调查人员提供了关于案发过程极其详尽的记录。在我看来，真正有价值的问题是谁有权收集我们的行踪数据，以及有哪些限制措施来控制对这些数据的访问。这些才是值得在公众场合探讨的抗争。</p>
+<p>如果你当地的治安官表示不再信任某家监控公司，你会希望立即拆除所有摄像头，还是会接受一套具备更强隐私保护措施的替代系统？欢迎写信至Cyberguy.com告诉我们你的想法。</p>
+<p>版权所有 2026 CyberGuy.com。保留所有权利。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-13 01:05 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-13 03:19 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-13/10695501.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ws-articles-c0lr7k4k4zyo-c28b4f5ccbf22164" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1022" data-content-paragraphs="1" data-published-at="2026-09-12T16:55:31.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
-    <span class="stance-badge">英伦主流建制</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 00:55</span>
-</div>
-
-### [乌干达奥约国王下葬，各方呼吁就继任者问题保持团结](https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Uganda&#39;s King Oyo buried amid calls for unity over his successor</div>
-
-<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e9/live/2565bff0-aecd-11f1-89e2-171455bb2760.png" alt="乌干达奥约国王下葬，各方呼吁就继任者问题保持团结" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该视频无法播放<br />观看：乌干达奥约·尼因巴·卡班巴·伊古鲁·鲁基迪四世国王的葬礼出殡仪式<br />曾是世界上在位最年轻君主的乌干达国王奥约·尼因巴·卡班巴·伊古鲁·鲁基迪四世于周六下葬。几天前，有关其王位继承人选的问题爆发了争端。<br />现年34岁的奥约自三岁起便统治着乌干达西部的传统王国托罗（Tooro），他于上月在美国接受癌症治疗期间去世。<br />托罗是乌干达的传统王国之一。这些王国曾于1967年被废除，但在穆塞韦尼总统执政时期的20世纪90年代得以恢复。这些王国的君主被认定为文化领袖而非政治统治者。<br />当国王的灵柩被运往波特尔堡（Fort Portal）的皇家陵墓举行私人葬礼仪式时，数千名哀悼者挤满了街道。<br />奥约被任命为托罗国王时还是个幼儿；根据吉尼斯世界纪录，他在位期间曾是世界上最年轻的在位君主。<br />现年56岁的电视新闻主播爱德华·鲁基迪·基贾南戈马王子（Prince Edward Rukidi Kijanangoma）被氏族长老指定为下一任君主。据报道，他在奥约的坟墓中撒下了九粒咖啡豆，这一仪式象征着一个统治时期的结束和另一个统治时期的开始。<br />但在几天前，奥约的家族拒绝承认已故君主的堂兄基贾南戈马成为托罗的新国王。<br />奥约的姐姐露丝·科蒙塔莱公主（Princess Ruth Komuntale）表示，已故国王留有一份写于2022年的遗嘱，指定其年幼的儿子为继任者。<br />这名男孩的身份从未被公开过。<br />与此同时，他的母亲贝斯特·凯米吉萨王后（Queen Best Kemigisa）表示，王家卫队已被撤离王宫，军人被部署进驻。她说，这限制了王室成员的行动以及接见访客的能力，并将其描述为“软禁”。<br />周六，乌干达圣公会大主教斯蒂芬·卡津巴·穆加卢（Stephen Kazimba Mugalu）呼吁团结。<br />他在向哀悼者发表讲话时表示：“在悲痛中说出的话可能会引起痛苦、分裂和冲突。它甚至可能破坏我们正在哀悼的国王所留下的遗产。”<br />乌干达总统约韦里·穆塞韦尼也呼吁解决这一问题，“并选择团结而非分裂”。<br />负责监督王位继承的氏族为其选择基贾南戈马进行了辩护。<br />巴比托（Babiito）王室氏族首领奥穆苏加·查尔斯·卡鲁马西（Omusuuga Charles Karumasi）表示：“我们所做的一切都恪守了托罗的文化和传统。我们所有人都必须维护和平与安宁。”<br />乌干达知名电视新闻主播被选为国王继任者后王室陷入裂痕<br />世界上在位最年轻的传统君主逝世，享年34岁</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【BBC World (英国BBC官方英文)】于 2026-09-13 00:55 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#BBC</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-have-completed-pass-year-5e6b2e0df7f5fd92" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="976" data-content-paragraphs="16" data-published-at="2026-09-12T16:54:50.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 00:54</span>
-</div>
-
-### [才刚到第二周，堪萨斯四分卫伊赛亚·马歇尔或许已完成年度最佳传球](https://www.foxnews.com/outkick-sports/kansas-qb-isaiah-marshall-might-have-completed-pass-year)
-<div class="original-title-sub"><span class="orig-tag">原文</span> It&#39;s only week two, but Kansas QB Isaiah Marshall might have completed the pass of the year</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/isaiah-marshall-kansas-jayhawks-touchdown-pass.jpg?ve=1&amp;tl=1" alt="才刚到第二周，堪萨斯四分卫伊赛亚·马歇尔或许已完成年度最佳传球" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>大学橄榄球赛季正在如火如荼地进行，周五晚上堪萨斯松鸦鹰队（Kansas Jayhawks）与密苏里老虎队（Missouri Tigers）的对决，为我们奉献了赛季初不容错过的精彩火花。</p>
-<p>比赛甚至还没开始，气氛就已经剑拔弩张。堪萨斯在赛前发布了一段造势视频，将老虎队描绘成“邪恶之徒”，影射密苏里州在19世纪中叶作为蓄奴州的历史。</p>
-<p>不过，密苏里大学笑到了最后，老虎队以38-21大胜松鸦鹰队，并在比赛尾声阶段又完成一次得分。主教练埃利·德林克维茨（Eli Drinkwitz）表示，此举正是为了让宿敌为他们的社交媒体噱头“难堪”。</p>
-<p>所有这一切都很棒，也正是这些让大学橄榄球成为世界上最棒的运动，但这并不是我们今天关注的重点。</p>
-<p>【克雷格·卡顿秀（THE CRAIG CARTON SHOW）——真实、坦率且不容错过。立即下载其每日播客！】</p>
-<p>在这场比赛中，堪萨斯四分卫伊赛亚·马歇尔（Isaiah Marshall）完成了一次保守估计也只能被称为“年度最佳传球”的传球。</p>
-<p>【阿拉巴马州高中四分卫创纪录达阵传球令球迷惊叹】</p>
-<p>是的，现在才只是第二周，但只要看了这次传球，你就很难不承认它不仅是年度最佳，甚至可能是史上最精彩的传球之一。</p>
-<p>我完全想不明白他是怎么在界内稳住身体把球传出去的，更不用说将球精准送出15码外的接球员手中完成首攻了。</p>
-<p>【印第安纳四分卫乔什·胡佛奉献迄今为止本赛季最绝的“硬汉橄榄球人”时刻】</p>
-<p>你觉得起跳传球很酷吗？那后仰、360度盲狙般（360-no-scope）、扭转身体的横向精准传球怎么样？</p>
-<p>正如我前面提到的，堪萨斯最终输掉了这场比赛，但他们可能创造了大学橄榄球未来几年内任何人都难以超越的最佳高光镜头。</p>
-<p>【堪萨斯重启与密苏里的“边境战争”宿敌对决：称老虎队“邪恶”并搬出蓄奴历史意象】</p>
-<p>当晚大部分时间里马歇尔的传球准星都存在问题，传球成功率仅有43%，并送出了两次抄截。但如果他能更多地展现出这次进攻中的灵光一现，松鸦鹰队未来几年里可能迎来了一位货真价实的神射手（gunslinger）。</p>
-<p>【绝无废话。唯有达奇奇。随身收听《DON&#39;T @ ME》播客。立即下载！】</p>
-<p>如果常规战术都行不通，堪萨斯进攻协调员安迪·科特尔尼基（Andy Kotelnicki）在紧要关头大可直接布置这个“边线盲狙传球”战术。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-13 00:54 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/kansas-qb-isaiah-marshall-might-have-completed-pass-year" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/tech/man-films-himself-taking-down-flock-cameras-gets-arrested" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--three-crossings-to-iran-e2297d08cf7e3aa7" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1207" data-content-paragraphs="15" data-published-at="2026-09-12T18:53:31.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台官方英文)</strong></span>
+    <span class="stance-badge">全球南方与海湾枢纽</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-13 02:53</span>
+</div>
+
+### [伊拉克调查沙特遭无人机袭击事件，关闭通往伊朗的三个口岸](https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran</div>
+
+<div class="article-body" data-article-body="true"><p>总理阿里·扎伊迪（Ali al-Zaidi）解除了一名指挥官的职务，并下令对邻近伊朗的米桑省（Maysan province）作战指挥部展开调查。</p>
+<p>伊拉克在调查沙特阿拉伯“东西输油管道”（East-West oil pipeline）遭遇无人机袭击事件期间，关闭了部分与伊朗接壤的边境口岸，并证实袭击是从伊拉克境内发起的。</p>
+<p>一名伊拉克安全消息人士周六告诉半岛电视台，在境内发现无人机发射阵地后，伊拉克政府暂时关闭了通往伊朗的三个边境口岸。</p>
+<p>半岛电视台记者杰克·休森（Jack Hewson）从巴格达发回报道称，被关闭的口岸包括：巴士拉省的沙拉姆切赫（Shalamcheh）、米桑省的谢卜（al-Shib）以及迪亚拉省的曼达利（Mandali）。他表示，伊拉克勒令关闭这些口岸主要是担心袭击实施者可能会潜逃至伊朗。</p>
+<p>休森还表示，在东南部米桑省的塔伊布（al-Tayyib）边境地区发现无人机发射架后，该地区已被封锁，搜查行动正在进行中。</p>
+<p>与此同时，根据伊拉克武装部队总司令发言人萨巴赫·努曼（Sabah al-Numan）周六发表的声明，伊拉克总理阿里·扎伊迪批准了伊朗方面提出的就边境附近发现无人机发射平台一事展开联合调查的请求。</p>
+<p>该声明并未透露关于无人机在何处被发现或具体数量的更多细节。</p>
+<p>不过，此前总理办公室曾表示，袭击是从米桑省发起的，扎伊迪已解除了该省军事指挥官的职务。</p>
+<p>对东西输油管道的袭击发生于周四，沙特阿拉伯次日宣布暂停该管线的运营，以此作为“预防性措施”。</p>
+<p>周五，利雅得方面表示，无人机是从伊拉克境内发射的；伊朗在伊拉克拥有重大影响力，包括对各武装组织的影响力。目前尚无组织声称对此次袭击负责。由伊朗支持的武装人员组成的伞状组织“伊拉克伊斯兰抵抗组织”（IRI）在一份声明中表示，这次袭击是“一项我们不敢居功的荣誉”。</p>
+<p>然而，利雅得此前曾指责伊拉克境内与伊朗有关的组织针对其石油基础设施发起袭击。</p>
+<p>目前正在爱尔兰进行非正式访问的美国总统唐纳德·特朗普表示，德黑兰方面“可能”是针对该输油管道袭击的幕后黑手。特朗普没有提供任何证据来支持这些指控。</p>
+<p>输油管道的暂时停运对沙特阿拉伯来说是一次沉重打击。这条线路是利雅得避开霍尔木兹海峡的唯一主要替代通道，而在美伊争夺这条战略水道控制权之际，霍尔木兹海峡目前仍处于部分关闭状态。在输油管道停运解除或霍尔木兹海峡正式重新开放之前，若没有该管道，利雅得将缺乏切实可行的大规模出口石油的途径。</p>
+<p>海湾地区石油出口的进一步减少可能会推高批发价格，同时在美以对伊朗的战争接近七个月之际，这可能会增加伊朗的筹码。</p>
+<p>对该输油管道的袭击发生之际，也正值也门受伊朗支持的胡塞武装发起闪电攻势期间。胡塞武装在击败国际公认政府的武装部队后，夺取了该国整个红海沿岸地区。利雅得是该政府的主要支持者，胡塞武装随后宣布，将不允许属于沙特阿拉伯的船只通过红海。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-09-13 02:53 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Al</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Al Jazeera (半岛电视台官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::

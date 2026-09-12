@@ -1,5 +1,1559 @@
 [
   {
+    "timestamp": 1789241468790,
+    "timeDisplay": "2026-09-13 03:31 (UTC+8)",
+    "date": "2026-09-13",
+    "runId": "feed-20260912T192906770Z-hjnqtc",
+    "generatedAt": "2026-09-12T19:31:08.790Z",
+    "hourlyBriefing": {
+      "title": "本小时全球简报：AI生产系统自动化、俄方会晤立场与社区监控事件",
+      "lead": "本小时内，技术与地缘政治领域均有关键信息更新：Perplexity 正在生产系统与软件维护中深度采用 Astra 模型；俄罗斯总统新闻秘书重申会面选址立场；美国新墨西哥州发生个人直播拆除监控摄像头事件；此外特斯拉跑车项目持续受到关注。",
+      "keySignals": [
+        "Perplexity 采用 Astra 模型用于撰写通信、修改软件代码及监控生产系统，系统干预和检查频率较以往模型显著降低。",
+        "俄罗斯总统新闻秘书德米特里·佩斯科夫（Dmitry Peskov）重申，相关会晤仅可能在莫斯科举行。",
+        "在新墨西哥州伯纳利欧县（Bernalillo County），男子 Jevon Martinez 直播拆除 10 台 Flock Safety 监控摄像头，执法机构证实其中 8 台属于社区协会资产。",
+        "关于特斯拉（Tesla）旗舰跑车项目（自 2017 年 11 月首次对外宣布）的发展轨迹与时间线再度引发关注。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-13",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】Perplexity 将端到端系统托付给 GPT-6 Astra：Perplexity 使用 Astra 来撰写沟通文案、修改软件并监控生产系统，且与以往模型相比，人工介入检查的频率大幅降低。；【undefined】gpg.fail事件的余波：论负责任披露、GPG以及2026年的安全现状 [32:37]：2025年，我[演讲者]在最广泛使用的PGP实现GPG中发现并披露了一批漏洞，并在第39届混沌通信大会（39c3）上就此发表了演讲。其中一些漏洞最终得到了修复。本次演讲将讲述一路走来的探索历程与后续余波，展示一些新发现的漏洞，并探讨2026年的安全现状。可能包含零日漏洞 =)；【undefined】特斯拉称终于将于10月1日发布第二代Roadster跑车：万众瞩目的特斯拉第二代Roadster跑车可能终于准备好面向公众亮相了。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】无论如何，做下去：2026年9月11日 游戏、开发、随笔；【undefined】我制作了一款构建可视化工具，以探究 Bun 的编译耗时：我开发了 buildprof（Github），这是一个开源追踪工具，用于展示在 Linux 上编译软件时时间究竟花在了哪里。这里有一段它对 ripgrep 进行全新完整构建进行性能分析的实时视频： 观看 buildprof 演示视频 有时，构建速度慢纯粹是因为有太多代码需要编译。但通常情况下，原因是那些可以被修复的问题：并行度差、重复工作、依赖下载或者某次极其庞大的编译器/链接器调用。buildprof 让这一切清晰可见，让你能一目了然；【undefined】Logo 编程语言：Logo 编程语言是 Lisp 的一种方言，最初被设计为一种学习工具。它的特性——交互性、模块化、可扩展性以及数据类型的灵活性——都源于这一目标。"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】男子自拍拆除Flock监控摄像头，随后被捕：你可能会以为，拆除监控摄像头的人会尽量避免被拍到。杰文·马丁内斯（Jevon Martinez）却反其道而行之。"
+        },
+        {
+          "name": "💹 宏观资本与产业",
+          "analysis": "【undefined】克里斯蒂娜·拉加德：从诺曼底看欧洲：埃普勒维尔-昂-略万，2026年9月12日 来到这里我感到格外高兴。我成长于勒阿弗尔港与科地区高原之间。尽管我的职业生涯带我走过了许多其他地方，但我对诺曼底的眷恋始终深厚。 莫泊桑曾写道，那将我们与一地相连的“深厚而微妙的根”（profondes et délicates racines）。这几句话恰如其分地道出了重返诺曼底的心境。[1] 我从未觉得同时作为诺曼底人、法国人和欧洲人之间有任何矛盾。每一个身份都是我的一部分，彼此之间毫无冲"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 71,
+      "completedTasks": 71,
+      "succeeded": 59,
+      "degraded": 12,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 71,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 121972,
+      "byRole": {
+        "translator": {
+          "attempts": 46,
+          "succeeded": 37,
+          "degraded": 9
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 5,
+          "degraded": 2
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 71,
+          "succeeded": 59,
+          "degraded": 12
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-3-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-18-translator-2",
+      "article-33-translator-0",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:45.924Z",
+        "lastSuccessAt": "2026-09-12T19:28:46.840Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:45.933Z",
+        "lastSuccessAt": "2026-09-12T19:28:46.835Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.558Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.742Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.589Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.965Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.918Z",
+        "lastSuccessAt": "2026-09-12T19:28:50.181Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.913Z",
+        "lastSuccessAt": "2026-09-12T19:28:49.916Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:50.279Z",
+        "lastSuccessAt": "2026-09-12T19:28:50.560Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:46.727Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.558Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.794Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.189Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.742Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.206Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.066Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.639Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:46.992Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.646Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:46.835Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.030Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:46.840Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.519Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:49.906Z",
+        "lastSuccessAt": "2026-09-12T19:28:51.001Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:49.062Z",
+        "lastSuccessAt": "2026-09-12T19:28:50.409Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:49.598Z",
+        "lastSuccessAt": "2026-09-12T19:28:50.279Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.946Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.518Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.519Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.624Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.080Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.589Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:46.633Z",
+        "lastSuccessAt": "2026-09-12T19:28:46.754Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:44.975Z",
+        "lastSuccessAt": "2026-09-12T19:28:46.727Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.491Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.635Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.377Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.732Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.030Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.496Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.408Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.597Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.635Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.918Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.937Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.192Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:49.916Z",
+        "lastSuccessAt": "2026-09-12T19:28:53.871Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.496Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.721Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.732Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.913Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.721Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.885Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.885Z",
+        "lastSuccessAt": "2026-09-12T19:28:49.062Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:50.181Z",
+        "lastSuccessAt": "2026-09-12T19:28:50.609Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.624Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.794Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.965Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.735Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.206Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.491Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.735Z",
+        "lastSuccessAt": "2026-09-12T19:28:49.059Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-12T19:28:48.597Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.573Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.923Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:44.973Z",
+        "lastSuccessAt": "2026-09-12T19:28:46.633Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.727Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.969Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:44.974Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.080Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.923Z",
+        "lastSuccessAt": "2026-09-12T19:28:50.680Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.192Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.377Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:46.754Z",
+        "lastSuccessAt": "2026-09-12T19:28:46.992Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.518Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.573Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.189Z",
+        "lastSuccessAt": "2026-09-12T19:28:48.408Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:48.969Z",
+        "lastSuccessAt": "2026-09-12T19:28:49.598Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:49.059Z",
+        "lastSuccessAt": "2026-09-12T19:28:49.906Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.646Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.946Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:47.639Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.937Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:44.961Z",
+        "lastSuccessAt": "2026-09-12T19:28:45.933Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:44.972Z",
+        "lastSuccessAt": "2026-09-12T19:28:45.924Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T19:28:44.973Z",
+        "lastSuccessAt": "2026-09-12T19:28:47.066Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-nikolaev-2117349364-html-8b8b14ead2afd155",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Николаеве прогремел взрыв",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T19:22:33.000Z",
+        "pubTime": "2026-09-13 03:22",
+        "url": "https://ria.ru/20260912/nikolaev-2117349364.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-13 03:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/nikolaev-2117349364.html",
+            "publishedAt": "2026-09-12T19:22:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 将端到端系统托付给 GPT-6 Astra",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 使用 Astra 来撰写沟通文案、修改软件并监控生产系统，且与以往模型相比，人工介入检查的频率大幅降低。\n\n作为一家由人工智能驱动的问答引擎，Perplexity 高度专注于搜索与准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 观察到，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之进步。它能够编写出更优秀的程序来检索网络及内部信息，并进行极为精炼的概括。\n\n但 Johnny 表示，真正的挑战在于将这些信息层面的能力应用到现实世界的系统中。而 GPT-6 Astra 使这项任务变得更为轻松。\n\n对 Johnny 来说，人工智能最有价值的应用之一是测试代码。在手动测试时间有限的情况下，他让 GPT-6 Astra 围绕某个应用程序构建小型测试程序。\n\n该模型能生成逼真的响应，就像另一个外部服务所发送的那样，例如语言模型 API 或连接器。通过模拟并替代这些服务，该模型能够检查应用程序的响应情况，并自始至终完整测试整个工作流程。\n\n工程 2026年9月11日\n应用人工智能 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用Astra来撰写沟通内容、修改软件以及监控生产系统，人工检查的频率远低于早期模型。",
+          "Perplexity是一家专注于搜索和准确率的AI答案引擎。",
+          "来源叙事重点：重点展示客户 Perplexity 对 GPT-6 Astra 的高度信任与落地实践，突出该模型在端到端系统构建、自动化代码测试与生产监控中的可靠性及提效表现"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-gys-biggest-problem-html-93ad96641b11e812",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Race to Solve Nuclear Energy’s Biggest Problem",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T19:00:00.000Z",
+        "pubTime": "2026-09-13 03:00",
+        "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
+        "imageUrl": null,
+        "fullContent": "Nuclear power is growing in popularity once again as governments worldwide look to diversify their energy mix and reduce reliance on fossil fuels. Several countries are now looking to develop or expand their nuclear energy capacity over the coming decades. However, one challenge remains nuclear waste. Disposing of waste materials from nuclear energy operations remains a complex task with no perfect solution. As countries worldwide have grown their nuclear power capacity, many governments are still struggling to decide on the best solution for disposing of nuclear waste. There are three types of nuclear waste low-, intermediate-, and high-level radioactive waste. Most of the waste produced by nuclear plants consists of lightly contaminated items, such as tools and work clothing, with radioactivity levels of around 1 per cent. High-level waste consists of spent fuel, which accounts for around 3 per cent of the total volume of waste from nuclear energy production, yet contains 95 per cent of the radioactivity. Nuclear facility operators are responsible for the safe disposal of any radioactive waste they produce. Nuclear power plants generate relatively little waste compared to many other energy sources; however, it is some of the most difficult to manage. Nuclear fuel is very energy-dense, meaning little is required to generate large quantities of electricity and just 5 grammes of high-level waste is produced to provide for an individual's annual energy needs. A conventional 1 GW nuclear plant, which can supply over one million people with electricity, produces around three cubic meters of vitrified high-level waste per year. In Oakville, Canada, the Nuclear Waste Management Organisation NWMO has developed a test site for nuclear waste storage. The site is situated in a warehouse, where a driverless forklift stacks 8,000 kg of bentonite clay blocks into a narrow rock tunnel, and another autonomous machine fills the gaps around the blocks with crumbled clay. Each one encases a copper-coated steel container created to hold spent nuclear fuel. These blocks are then sealed behind additional clay and concrete in tunnels deep underground, so that the radioactive material can slowly decay over thousands of years with no risk to the public. The metal fuel containers are designed to withstand the pressure of being buried beneath a 3-kilometre-thick glacier, should the next ice age arrive before the radiation has fully decayed. They have also been successfully tested for resistance to crushing under an extremely strong force, equivalent to being over 6 km underwater. The NWMO team aims to build the final site 1,600 km northwest of the test facility, in the town of Ignace. It will be buried at a depth of around 750 metres in the hard rock of the Canadian Shield. Once complete, around 2040, it is expected to be capable of storing nearly 6 million bundles of spent fuel produced by Canada's four nuclear power plants over their operational lives. Similar sites are also being developed in other countries, such as Finland, Sweden, and Japan. Scientists have overcome several technical challenges associated with developing deep geological repositories over the years, making them a viable site for nuclear waste storage. However, securing political and public support for these facilities remains a challenge due to fears of contamination. The United States government began exploring potential deep geological repository sites in the 1980s but has now fallen behind other countries in development due to widespread local opposition. The government chose Yucca Mountain in northern Nevada as the location for the development of its first geological repository, becoming the first in the world to submit a licence application for such a site. There are several concerns about developing a facility at this location, including the nearby volcano, which geologists still consider active. The proposed location is in an active earthquake zone and lies above the water table, posing a risk of radioactive particles, known as radionuclides, being released into the environment. However, the biggest challenge has been political opposition. When Nevada Senator Harry Reid became the U.S. Senate's majority leader in 2007, he put the project on permanent hold. In the age of the nuclear renaissance in the United States, the lack of progress in Nevada has led the Department of Energy DoE to return to the drawing board. The DoE selected sites in Utah, Idaho, Louisiana, Oklahoma, and Tennessee as possible locations, but Yucca Mountain remains the only legal option for permanent storage at present. The Trump administration would need to pass legislation to remove Yucca Mountain from its designation as a federal site to develop a repository elsewhere. Meanwhile, the U.S. has built up around 95,000 metric tonnes of nuclear waste over the years, which needs to be suitably managed. Several deep geological repositories are expected to commence operations in various countries over the coming decades. Meanwhile, scientists are continuing to explore alternative waste management solutions. However, as multiple governments are now exploring the potential to develop their nuclear power capacity, they must also address the waste problem and construct safe disposal facilities alongside new nuclear power projects. By Felicity Bradstock for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "核废料分为三类：低放、中放和高放射性废物。",
+          "核电站产生的大部分废物为轻度污染物品（如工具和工作服），放射性水平约为1%。",
+          "来源叙事重点：在全球核能复兴背景下，深地质处置技术虽取得突破（以加拿大NWMO为例），但政治阻力与公众反弹（以美国尤卡山项目长期搁置为例）仍是解决核废料永久储存的主要掣肘，呼吁各国在扩建核电的同时必须配套建设安全处置设施。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T19:00:00.000Z",
+            "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html"
+          }
+        ]
+      },
+      {
+        "id": "story-tate-of-security-in-2026-4d0d9340449db07e",
+        "title": "gpg.fail事件的余波：论负责任披露、GPG以及2026年的安全现状 [32:37]",
+        "originalTitle": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T17:24:59.000Z",
+        "pubTime": "2026-09-13 01:24",
+        "url": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
+        "imageUrl": null,
+        "fullContent": "In 2025, I [the speaker] found and disclosed a bunch of vulnerabilities in GPG, the most used PGP implementation, and held a talk at 39c3 about it. Some of the bugs ended up getting fixed. This talk describes the adventure and aftermath of getting there, shows some novel ones, and talks about the state of security in 2026. May contain zero-days =)\n\nUntil May 2025, I liked PGP, and the GNU Privacy Guard. I poked at it in my free time a lot. One day, that suddenly changed, when I flew too close to the sun and ended up uncovering a vulnerability that allows you to easily spoof a PGP signature when opened naively with the GPG tool.\n\nFast-forward a couple of months, the one vulnerability turned into several independent ones, up to memory corruption in the basic PGP message parser, affecting almost all PGP-related workflows.\n\nI disclosed these a few weeks before 39c3 in December 2025. And while some of the vulnerabilities - like the memory corruption in the message parser - got addressed properly, this was not the case for all of them.\n\nFor example, one of the first vulnerabilities I found, that was used for the introduction hook in the 39c3 talk, remains unpatched to this day. Instead of being fixed with code, Werner Koch - the main developer of GnuPG - published a blog post declaring the widely-used feature being \"harmful\"; while they had weeks in advance, they published this on day one of 39c3, not even giving us time to respond.\n\nSeveral disgruntled comments followed, but a good portion of the flaws are still not addressed, as I will demonstrate live in the talk. This specific demonstration will not utilize any zero-day vulnerabilities (those come next); we will be showing how much of an issue the footguns (that they refuse to address) at hand really are.\n\nAdditionally, I will present a few novel vulnerabilities on GPG. Not quite the bombshells as last time, but some nifty bugs that should never have made it into production in the first place, but to demonstrate the state of the GnuPG codebase.\n\nThe talk closes with some general commentary about the state of security and responsible disclosure, and touch on the topic of AI/LLMs in security (with some of the gpg.fail vulnerabilities as examples); what this means for security researchers, ordinary people and software developers (spoiler: neither end users nor security researchers are doomed).",
+        "fullTranslation": "2025年，我[演讲者]在最广泛使用的PGP实现GPG中发现并披露了一批漏洞，并在第39届混沌通信大会（39c3）上就此发表了演讲。其中一些漏洞最终得到了修复。本次演讲将讲述一路走来的探索历程与后续余波，展示一些新发现的漏洞，并探讨2026年的安全现状。可能包含零日漏洞 =)  \n\n直到2025年5月，我都一直很喜欢PGP和GNU Privacy Guard（GPG）。我在闲暇时间常常研究它。有一天，情况突然发生了改变——我因过于激进的探索而发现了一个漏洞，只要直接使用GPG工具简单打开，攻击者就可以轻易伪造PGP签名。  \n\n几个月后，最初的这一个漏洞演变成了多个独立的漏洞，甚至包括基础PGP消息解析器中的内存损坏漏洞，几乎影响到所有与PGP相关的工作流程。  \n\n我在2025年12月39c3大会召开前几周披露了这些漏洞。尽管部分漏洞（如消息解析器中的内存损坏）得到了妥善解决，但并非所有问题都得到了同样的处理。  \n\n例如，我最早发现的、在39c3演讲开篇作为引子的一个漏洞，至今仍未修复。GnuPG的主要开发者维尔纳·科赫（Werner Koch）并未通过代码进行修复，而是发表了一篇博客文章，宣称该广泛使用的功能是“有害的”；尽管他们提前数周就获知了信息，却偏偏选在39c3大会的第一天发布这篇博文，甚至没有给我们留下回应的时间。  \n\n随之而来的是几条令人不快的评论，但很大一部分缺陷仍未得到解决，我将在本次演讲中进行现场演示。本次特定演示不会使用任何零日漏洞（那些留到后面）；我们将展示这些对方拒绝处理的“隐患缺陷”实际上造成了多么严重的问题。  \n\n此外，我还将展示几个针对GPG的新漏洞。虽然不像上次那样具有轰动性，但都是一些本不应该出现在生产环境中的精妙缺陷，借此展示GnuPG代码库的现状。  \n\n演讲最后将对安全现状与负责任披露进行一些总体评述，并触及AI/大语言模型在安全领域的应用这一话题（以gpg.fail的部分漏洞为例）；探讨这对安全研究人员、普通公众和软件开发者意味着什么（剧透：无论是最终用户还是安全研究人员，都远未到末日）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "演讲者在2025年发现并披露了GPG（GNU Privacy Guard）中的多个安全漏洞，并在39c3大会上就此发表演讲。",
+          "演讲者发现的漏洞包括允许在直接使用GPG工具打开时伪造PGP签名，以及基础PGP消息解析器中的内存损坏漏洞。",
+          "来源叙事重点：批评 GnuPG 核心维护者对安全漏洞的应对方式与态度，展示未修补的 GPG 设计缺陷与代码质量隐患，并借此探讨 2026 年负责任披露流程与 AI 在安全领域的作用"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T17:24:59.000Z",
+            "url": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026"
+          }
+        ]
+      },
+      {
+        "id": "story-gs-glossy-nonfading-html-3ce4ee861bda0fd7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Silicon nanosphere coatings deliver glossy, nonfading color on 3D surfaces",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T19:00:01.000Z",
+        "pubTime": "2026-09-13 03:00",
+        "url": "https://phys.org/news/2026-09-silicon-nanosphere-coatings-glossy-nonfading.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/structural-color-just.jpg",
+        "fullContent": "\"Color coatings are expected to provide vivid color, brightness, gloss and long-term durability, yet no existing technology satisfies all of these requirements simultaneously,\" says Kobe University materials engineer Hiroshi Sugimoto. Conventional coatings usually rely on relatively thick pigment layers that fade and add significant weight.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-13 03:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-silicon-nanosphere-coatings-glossy-nonfading.html",
+            "publishedAt": "2026-09-12T19:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-politics-2186819-b6a6469eca920aba",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Kremlin spokesman rules out Putin-Zelensky meeting during G20 summit in Miami",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T19:21:47.000Z",
+        "pubTime": "2026-09-13 03:21",
+        "url": "https://tass.com/politics/2186819",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 12. /TASS/. Russian President Vladimir Putin’s meeting with Vladimir Zelensky on the sidelines of the G20 summit in Miami in December is impossible, Russian Presidential Press Secretary Dmitry Peskov has told AFP.\n\n\"This is impossible,\" he said.\n\nPeskov reiterated that the Putin-Zelensky talks can only be held in Moscow.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：直接排除在迈阿密G20峰会期间举行俄乌元首会晤的可能性，强调双边接触的唯一可接受地点是莫斯科，展现外交立场上的不可妥协性。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T19:21:47.000Z",
+            "url": "https://tass.com/politics/2186819"
+          }
+        ]
+      },
+      {
+        "id": "story-on-roadster-on-october-1-90cb89faa8950886",
+        "title": "特斯拉称终于将于10月1日发布第二代Roadster跑车",
+        "originalTitle": "Tesla says it will finally unveil the second generation Roadster on October 1",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T19:21:19.000Z",
+        "pubTime": "2026-09-13 03:21",
+        "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+        "imageUrl": null,
+        "fullContent": "The long-awaited second generation of the Tesla Roadster might finally be ready for the public.\n\nIn a post on X on Saturday, the electric vehicle company simply wrote, “Go for launch,” with a graphic showing a “10.01” date — so expect the new Roadster to be unveiled on October 1. The graphic also seems to hint at the promised cold gas thrusters, developed by Tesla CEO Elon Musk’s other big company, SpaceX; those optional thrusters are supposed to allow the Roadster to fly in some way.\n\nTesla’s second generation sports car was first announced in November 2017 and has been pushed back multiple times. It was even the subject of a social media spat between Musk and OpenAI CEO Sam Altman last year, when Altman said that “7.5 years has felt like a long time to wait” after paying a $50,000 reservation fee, and Musk insisting that Altman had gotten a refund.\n\nThe Information recently reported that the 2017 version of the car had been completely abandoned for a new, yet-to-be-revealed design that would be revealed imminently.\n\nMusk has previously acknowledged that even after the big reveal, the Roadster won’t actually go into production for another 12 or 18 months.\n\nGo for launch pic.twitter.com/Khu03eiZ04\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "万众瞩目的特斯拉第二代Roadster跑车可能终于准备好面向公众亮相了。\n\n周六，这家电动汽车公司在X平台上简短发文称“准备发射”（Go for launch），并配有一张显示“10.01”日期的图片——这意味着新款Roadster预计将于10月1日正式发布。该配图似乎还暗示了此前承诺的冷气推进器，该技术由特斯拉首席执行官埃隆·马斯克（Elon Musk）旗下的另一家大型公司SpaceX开发；这些选装推进器据称能让Roadster以某种形式实现“飞行”。\n\n特斯拉的这款第二代跑车于2017年11月首次公布，此后被多次推迟。去年它甚至引发了马斯克与OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）在社交媒体上的一场口角。奥尔特曼当时表示，在支付了5万美元定金后，“等待7.5年感觉确实太长了”，而马斯克则坚称奥尔特曼早已获得了退款。\n\n科技媒体The Information近期报道称，该车2017年的设计版本已被彻底弃用，取而代之的是一个即将揭晓的全新设计方案。\n\n马斯克此前曾坦言，即便在盛大发布之后，Roadster也还需要再过12到18个月才会真正投入量产。\n\n准备发射 pic.twitter.com/Khu03eiZ04\n\n预订展位的最后一天为9月18日。切莫错失在Disrupt展厅获取高价值潜在客户、对接投资者以及提升品牌知名度的绝佳机会。\n\n每个工作日和周日，您均可获取TechCrunch的精选报道。\n\nTechCrunch Mobility是您获取交通领域新闻与深度洞见的理想之地。\n\n初创企业是TechCrunch的核心，欢迎订阅我们每周精选的深度报道。\n\n为行业领军人物提供开启新一天所需的关键资讯。\n\n提交您的电子邮件即代表您同意我们的条款及隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "来源叙事重点：报道聚焦特斯拉宣布将于10月1日正式发布第二代Roadster跑车，重点回顾该车型自2017年发布以来长达近9年的多次推迟历程、SpaceX冷气推进器技术噱头、设计推倒重做传闻，以及揭晓后仍需12至18个月才可能量产的漫长周期。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T19:21:19.000Z",
+            "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
+          }
+        ]
+      },
+      {
+        "id": "story-6-401c-a146-2b7b5d138837-4e83f425145e33fb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T18:14:06.000Z",
+        "pubTime": "2026-09-13 02:14",
+        "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F51ca86b7-81e2-40a8-937c-f4f2d43372db.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Warring tech bosses unite behind warnings that humans could lose control of the technology",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-13 02:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T18:14:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-2026-09-make-it-anyway-cf9d405f4994bb61",
+        "title": "无论如何，做下去",
+        "originalTitle": "Make it anyway",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T17:24:07.000Z",
+        "pubTime": "2026-09-13 01:24",
+        "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+        "imageUrl": null,
+        "fullContent": "11 September 2026 games, dev, essay\n\nI kind of crashed out this week. Not in an explosive, dramatic way, but an implosion, a collapsing of the self, my resolve and motivation crumbling into the mush you get when you put tissue paper through the laundry. I’m doing better now, and I wanted to write down my thought process in case anyone else is going through the same thing, especially, probably, sadly, future me.\n\nThe reason for this is, I guess, all too familiar for anyone in a creative field: surprise, it’s generative AI. The ongoing devaluation of the work of artists and makers, chewed up and regurgitated back to us like a mother feeding a baby bird with a subscription model. I have some hope for my friends in other artistic fields; AI art is shit, kind of by definition anti-art, embarrassing to look at and cringe-inducing to be associated with. I hope that continues. On the programming front, where I mostly live, things look a little dicier.\n\nEvery programmer I know has basically gone insane over the last couple of years. This is the most turbulent time to be a software engineer I can remember. We’ve had it relatively easy up until now, but there’s an increased feeling that the whole craft is going through a huge shift and every individual needs to decide how they respond to it, which is very hard without the benefit of hindsight. I can’t really blame anyone who’s just gone along with things, despite the various negative externalities - peer pressure is very real, and LLMs are genuinely very capable at code generation now. Denying that is, I think, a race against a moving finish line.\n\nI’m not writing this to try and convince anyone of any particular position but here’s mine: even disregarding all the environmental and societal issues, I simply do not enjoy programming with a code assistant. It isn’t fun for me, the output doesn’t feel like mine, and I take no pride in what it produces. For the last couple of years it hasn’t been too hard to just stay in my lane, noodling away at my little projects, but increasingly it feels like a lot of this craft I’ve made a career and a hobby out of has vanished.\n\nI love making doodads, little shell scripts, little helpers. I use my interactive git branch switcher every single day. I was very proud of that. Colleagues said nice things. Now anyone can just order that tool or anything like it off a prompt. Nobody cares about my doodads any more. It feels gauche to admit but I do actually need those head pats from my peers to feel fulfilled.\n\nThis is happening in games, too. This week’s crashout was triggered by a thread from Zach Gage about how game making is moving to be more like music. I think it’s a good insight but I found it utterly devastating. I’ve spent years learning how to make games, and it’s been hard, and now it feels like that might have been a waste of time? I was bereft. Then I had a chat with Shad.\n\nShad’s one of my faves. He’s a terrifically talented designer and engineer and an all-round great person. His current project is Uncamera, a camera app for iOS that uses raw sensor output with lookup tables - rather than a filter in post - to produce photos that genuinely look like film. It’s a beautifully made thing and I honestly think a contender for an Apple Design Award when it’s fully done. You should check it out. Here are some photos I took with it (I am not a good photographer).\n\nIt also happens to be developed entirely without generative AI. Shad’s reasons for this are very similar to my own; a lack of joy or fulfilment in the making of the thing. His anxieties are also similar. The difference is that Shad has kept updating Uncamera in spite of those anxieties, while I wallowed in self-pity.\n\nHere’s the thing: I’m already doing everything the hard way. I decided to make my own game engine, in C++ of all languages, because I wanted to do it. If my goal was to make games as quickly as possible, to be able to “compete”, I’d be using Unity or Godot or Unreal. I wouldn’t be messing about trying to produce a faux-3D renderer like in the header image of this post. I do things the way I do because I enjoy doing it that way and because I learn a lot through doing it.\n\nThrough chatting to Shad I came to realise there are only really three paths open to me. I can start using generative AI to feel like I’m “keeping up” or “competing”, but then I won’t enjoy the work. I could stop making things entirely, but as any creative person will know that’s never really an option. Or, I can keep making things the way I enjoy, keep learning, keep doing it the hard way, for no real concrete reason other than I want to do it. That’s why we make games. That’s why we make anything.",
+        "fullTranslation": "2026年9月11日 游戏、开发、随笔\n\n这周我心态有点崩了。不是那种声势浩大、戏剧性的爆发，而是一场内爆，一种自我的坍塌，我的决心与动力碎成了纸巾扔进洗衣机搅出来的糊状残渣。现在我感觉好些了，我想把自己的思考过程记录下来，以防有人也在经历同样的遭遇——尤其是，可能，也很遗憾地，写给未来的自己。\n\n究其原因，我想对于任何从事创作领域的人来说都再熟悉不过了：惊喜吧，就是生成式人工智能（Generative AI）。艺术家和创作者的作品正持续贬值，被嚼碎后再反刍给我们，就像一只用订阅模式给雏鸟喂食的母鸟。我对其他艺术领域的朋友还抱有一丝希望；AI艺术就是垃圾，从定义上说几乎就是反艺术的，看着让人尴尬，扯上关系更令人难堪。我希望这种情况继续下去。但在我主要身处的编程前沿，情况看起来要更加微妙和凶险。\n\n过去几年里，我认识的每一个程序员基本上都快被逼疯了。这是我记忆中做软件工程师最动荡的时期。在这之前，我们一直过得相对轻松，但越来越多人感受到整个行业正在经历一场巨变，每个人都必须决定自己该如何应对，而在缺乏后见之明的情况下，这极其艰难。我真的无法责怪那些顺应潮流的人，尽管存在种种负面外部性——同侪压力无比真实，而且大语言模型（LLM）如今在代码生成方面确实非常强大。我认为，否定这一点无异于在与不断前移的终点线赛跑。\n\n我写这篇文章并不是为了说服任何人接受某种特定立场，但我的观点是：即使撇开所有环境和社会问题不谈，我也单纯不喜欢借助代码助手进行编程。这对我来说毫无乐趣，生成的产物感觉并不属于我，我也无法为其产出感到自豪。在过去的几年里，专注于自己的赛道、琢磨自己的小项目并不是太难，但越来越明显的是，我赖以谋生并当作爱好的这门手艺，很大一部分已经消失殆尽了。\n\n我喜欢做些小玩意儿、小Shell脚本和小辅助工具。我每天都在用自己写的交互式Git分支切换器。我曾经对此感到非常自豪，同事们也给予了赞美。现在，任何人只要输入一句提示词，就能直接定制出那个工具或类似的任何东西。再也没有人在意我的那些小玩意儿了。承认这一点可能显得有些小家子气，但我确实需要同行的认可与肯定才能获得成就感。\n\n游戏领域也是如此。这周的心态崩塌是由Zach Gage的一条推文引发的，他谈到了游戏制作正变得越来越像音乐创作。我认为这是一个深刻的见解，但我也觉得这让人无比绝望。我花了数年时间学习如何制作游戏，过程十分艰辛，而现在感觉那些努力可能全白费了？我感到万念俱灰。随后我和Shad聊了聊。\n\nShad是我最喜欢的朋友之一。他是一位极具天赋的设计师和工程师，也是一个各方面都很棒的人。他目前的项目是Uncamera，一款iOS相机应用，它直接利用原始传感器输出配合颜色查找表（LUT）——而不是在后期加滤镜——来拍出真正具有胶片质感的照片。这是一个制作精美的作品，我坦率地认为它完全有实力在彻底完工时角逐苹果设计大奖（Apple Design Award）。你们真应该去看看。这里有一些我用它拍的照片（我并不是个优秀的摄影师）。\n\n它恰好也是完全在没有生成式AI辅助的情况下开发的。Shad这么做的理由和我很像：在制作过程中感受不到乐趣或成就感。他的焦虑也和我相似。不同之处在于，尽管面临这些焦虑，Shad依然坚持更新Uncamera，而我却在一味自怨自艾。\n\n问题在于：我本来就是在用最硬核的方式做所有事情。我决定用C++开发自己的游戏引擎，偏偏选了这种语言，只因为我想这么做。如果我的目标是以最快的速度做游戏以便能够“竞争”，我大可以使用Unity、Godot或Unreal。我就不会瞎折腾去搞这篇文章题图里的伪3D渲染器了。我用这种方式做事，是因为我享受这个过程，而且能从中汲取大量知识。\n\n通过与Shad的交流，我意识到摆在我面前的路其实只有三条。我可以开始使用生成式AI，让自己觉得是在“跟上时代”或“保持竞争力”，但我不会再享受这项工作。我可以彻底停止创作，但任何搞创作的人都知道这根本不是一个可行的选项。或者，我可以继续用我喜欢的方式创作，继续学习，继续走艰难的路，不为别的明确理由，只因为我想做。这正是我们制作游戏的原因。这也是我们创造任何事物的原因。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "文章作者在本周经历了一次情绪/动机上的崩溃（implosion/crashout），其主要诱因是生成式AI对创作者工作的冲击以及Zach Gage关于游戏制作趋势的讨论。",
+          "作者选择完全不使用代码助手，因为不享受生成式AI辅助编程的过程，感觉产出不属于自己。",
+          "来源叙事重点：以个人心路历程反思生成式AI对软件工程与创意手艺的冲击，剖析因AI自动化带来的手工艺成就感贬值与职业焦虑，最终主张即使面对效率诱惑，依然应为了纯粹的创造乐趣而坚持采用传统、手工艺式的‘困难方式’进行开发。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T17:24:07.000Z",
+            "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+          }
+        ]
+      },
+      {
+        "id": "story-tspot-central-north-html-86c5f15738434f85",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Unexpected Amazon hotspot: Central north faces fastest rise in extreme heat and water stress",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T18:00:01.000Z",
+        "pubTime": "2026-09-13 02:00",
+        "url": "https://phys.org/news/2026-09-unexpected-amazon-hotspot-central-north.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/as-el-nio-looms-study.jpg",
+        "fullContent": "The central north Amazon, with extensive areas of high forest cover, natural savannas and vast, important Indigenous territories, was not previously considered the area most affected by climate change.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-13 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-unexpected-amazon-hotspot-central-north.html",
+            "publishedAt": "2026-09-12T18:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-12-tramp-2117349147-html-e0fcb06c4c7dea06",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Трамп поздравил Токаева с юбилеем независимости Казахстана",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T19:20:06.000Z",
+        "pubTime": "2026-09-13 03:20",
+        "url": "https://ria.ru/20260912/tramp-2117349147.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-13 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/tramp-2117349147.html",
+            "publishedAt": "2026-09-12T19:20:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-abs-2609-01877-138f321247425e2a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Will There Be a 7G?",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T17:05:31.000Z",
+        "pubTime": "2026-09-13 01:05",
+        "url": "https://arxiv.org/abs/2609.01877",
+        "imageUrl": null,
+        "fullContent": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "arXivLabs 是一个允许协作者直接在 arXiv 网站上开发并分享 arXiv 新特性的框架。",
+          "与 arXivLabs 合作的个人及组织均认同并接受开放、社区、卓越和用户数据隐私等价值观。",
+          "来源叙事重点：名义上以探讨下一代移动通信演进前景（“Will There Be a 7G?”）为题，但实际抓取正文仅为 arXivLabs 协作者框架与平台价值观说明。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T17:05:31.000Z",
+            "url": "https://arxiv.org/abs/2609.01877"
+          }
+        ]
+      },
+      {
+        "id": "story-entire-internet-46f12d98-2b4977668d30f867",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T17:20:00.000Z",
+        "pubTime": "2026-09-13 01:20",
+        "url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-13 01:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-12T17:20:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-vertising-for-ultra-fast-d9f1efb5d376b27f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "France has banned advertising for ultra fast fashion and prohibited influencers from promoting it, with fines of up to €100,000 for violations. The new law also requires major platforms to disclose where clothing is made and makes polluting fashion producers pay more toward textile recycling.",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T16:59:36.000Z",
+        "pubTime": "2026-09-13 00:59",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wehu8h/france_has_banned_advertising_for_ultra_fast/",
+        "imageUrl": "https://external-preview.redd.it/ltShzPnbvt2vWI9Wo72uGU7ZK1qNQ0pWu1WOksflCe4.jpeg?width=320&crop=smart&auto=webp&s=fc858f4d31140c8c0e06077f6acf53fe46bf846b",
+        "fullContent": "submitted by /u/Phylogenix [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-13 00:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wehu8h/france_has_banned_advertising_for_ultra_fast/",
+            "publishedAt": "2026-09-12T16:59:36.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-nikolaev-2117349364-html-8b8b14ead2afd155",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Николаеве прогремел взрыв",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T19:22:33.000Z",
+        "pubTime": "2026-09-13 03:22",
+        "url": "https://ria.ru/20260912/nikolaev-2117349364.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-13 03:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/nikolaev-2117349364.html",
+            "publishedAt": "2026-09-12T19:22:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 将端到端系统托付给 GPT-6 Astra",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 使用 Astra 来撰写沟通文案、修改软件并监控生产系统，且与以往模型相比，人工介入检查的频率大幅降低。\n\n作为一家由人工智能驱动的问答引擎，Perplexity 高度专注于搜索与准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 观察到，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之进步。它能够编写出更优秀的程序来检索网络及内部信息，并进行极为精炼的概括。\n\n但 Johnny 表示，真正的挑战在于将这些信息层面的能力应用到现实世界的系统中。而 GPT-6 Astra 使这项任务变得更为轻松。\n\n对 Johnny 来说，人工智能最有价值的应用之一是测试代码。在手动测试时间有限的情况下，他让 GPT-6 Astra 围绕某个应用程序构建小型测试程序。\n\n该模型能生成逼真的响应，就像另一个外部服务所发送的那样，例如语言模型 API 或连接器。通过模拟并替代这些服务，该模型能够检查应用程序的响应情况，并自始至终完整测试整个工作流程。\n\n工程 2026年9月11日\n应用人工智能 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用Astra来撰写沟通内容、修改软件以及监控生产系统，人工检查的频率远低于早期模型。",
+          "Perplexity是一家专注于搜索和准确率的AI答案引擎。",
+          "来源叙事重点：重点展示客户 Perplexity 对 GPT-6 Astra 的高度信任与落地实践，突出该模型在端到端系统构建、自动化代码测试与生产监控中的可靠性及提效表现"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-gys-biggest-problem-html-93ad96641b11e812",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Race to Solve Nuclear Energy’s Biggest Problem",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T19:00:00.000Z",
+        "pubTime": "2026-09-13 03:00",
+        "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
+        "imageUrl": null,
+        "fullContent": "Nuclear power is growing in popularity once again as governments worldwide look to diversify their energy mix and reduce reliance on fossil fuels. Several countries are now looking to develop or expand their nuclear energy capacity over the coming decades. However, one challenge remains nuclear waste. Disposing of waste materials from nuclear energy operations remains a complex task with no perfect solution. As countries worldwide have grown their nuclear power capacity, many governments are still struggling to decide on the best solution for disposing of nuclear waste. There are three types of nuclear waste low-, intermediate-, and high-level radioactive waste. Most of the waste produced by nuclear plants consists of lightly contaminated items, such as tools and work clothing, with radioactivity levels of around 1 per cent. High-level waste consists of spent fuel, which accounts for around 3 per cent of the total volume of waste from nuclear energy production, yet contains 95 per cent of the radioactivity. Nuclear facility operators are responsible for the safe disposal of any radioactive waste they produce. Nuclear power plants generate relatively little waste compared to many other energy sources; however, it is some of the most difficult to manage. Nuclear fuel is very energy-dense, meaning little is required to generate large quantities of electricity and just 5 grammes of high-level waste is produced to provide for an individual's annual energy needs. A conventional 1 GW nuclear plant, which can supply over one million people with electricity, produces around three cubic meters of vitrified high-level waste per year. In Oakville, Canada, the Nuclear Waste Management Organisation NWMO has developed a test site for nuclear waste storage. The site is situated in a warehouse, where a driverless forklift stacks 8,000 kg of bentonite clay blocks into a narrow rock tunnel, and another autonomous machine fills the gaps around the blocks with crumbled clay. Each one encases a copper-coated steel container created to hold spent nuclear fuel. These blocks are then sealed behind additional clay and concrete in tunnels deep underground, so that the radioactive material can slowly decay over thousands of years with no risk to the public. The metal fuel containers are designed to withstand the pressure of being buried beneath a 3-kilometre-thick glacier, should the next ice age arrive before the radiation has fully decayed. They have also been successfully tested for resistance to crushing under an extremely strong force, equivalent to being over 6 km underwater. The NWMO team aims to build the final site 1,600 km northwest of the test facility, in the town of Ignace. It will be buried at a depth of around 750 metres in the hard rock of the Canadian Shield. Once complete, around 2040, it is expected to be capable of storing nearly 6 million bundles of spent fuel produced by Canada's four nuclear power plants over their operational lives. Similar sites are also being developed in other countries, such as Finland, Sweden, and Japan. Scientists have overcome several technical challenges associated with developing deep geological repositories over the years, making them a viable site for nuclear waste storage. However, securing political and public support for these facilities remains a challenge due to fears of contamination. The United States government began exploring potential deep geological repository sites in the 1980s but has now fallen behind other countries in development due to widespread local opposition. The government chose Yucca Mountain in northern Nevada as the location for the development of its first geological repository, becoming the first in the world to submit a licence application for such a site. There are several concerns about developing a facility at this location, including the nearby volcano, which geologists still consider active. The proposed location is in an active earthquake zone and lies above the water table, posing a risk of radioactive particles, known as radionuclides, being released into the environment. However, the biggest challenge has been political opposition. When Nevada Senator Harry Reid became the U.S. Senate's majority leader in 2007, he put the project on permanent hold. In the age of the nuclear renaissance in the United States, the lack of progress in Nevada has led the Department of Energy DoE to return to the drawing board. The DoE selected sites in Utah, Idaho, Louisiana, Oklahoma, and Tennessee as possible locations, but Yucca Mountain remains the only legal option for permanent storage at present. The Trump administration would need to pass legislation to remove Yucca Mountain from its designation as a federal site to develop a repository elsewhere. Meanwhile, the U.S. has built up around 95,000 metric tonnes of nuclear waste over the years, which needs to be suitably managed. Several deep geological repositories are expected to commence operations in various countries over the coming decades. Meanwhile, scientists are continuing to explore alternative waste management solutions. However, as multiple governments are now exploring the potential to develop their nuclear power capacity, they must also address the waste problem and construct safe disposal facilities alongside new nuclear power projects. By Felicity Bradstock for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "核废料分为三类：低放、中放和高放射性废物。",
+          "核电站产生的大部分废物为轻度污染物品（如工具和工作服），放射性水平约为1%。",
+          "来源叙事重点：在全球核能复兴背景下，深地质处置技术虽取得突破（以加拿大NWMO为例），但政治阻力与公众反弹（以美国尤卡山项目长期搁置为例）仍是解决核废料永久储存的主要掣肘，呼吁各国在扩建核电的同时必须配套建设安全处置设施。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T19:00:00.000Z",
+            "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html"
+          }
+        ]
+      },
+      {
+        "id": "story-tate-of-security-in-2026-4d0d9340449db07e",
+        "title": "gpg.fail事件的余波：论负责任披露、GPG以及2026年的安全现状 [32:37]",
+        "originalTitle": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T17:24:59.000Z",
+        "pubTime": "2026-09-13 01:24",
+        "url": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
+        "imageUrl": null,
+        "fullContent": "In 2025, I [the speaker] found and disclosed a bunch of vulnerabilities in GPG, the most used PGP implementation, and held a talk at 39c3 about it. Some of the bugs ended up getting fixed. This talk describes the adventure and aftermath of getting there, shows some novel ones, and talks about the state of security in 2026. May contain zero-days =)\n\nUntil May 2025, I liked PGP, and the GNU Privacy Guard. I poked at it in my free time a lot. One day, that suddenly changed, when I flew too close to the sun and ended up uncovering a vulnerability that allows you to easily spoof a PGP signature when opened naively with the GPG tool.\n\nFast-forward a couple of months, the one vulnerability turned into several independent ones, up to memory corruption in the basic PGP message parser, affecting almost all PGP-related workflows.\n\nI disclosed these a few weeks before 39c3 in December 2025. And while some of the vulnerabilities - like the memory corruption in the message parser - got addressed properly, this was not the case for all of them.\n\nFor example, one of the first vulnerabilities I found, that was used for the introduction hook in the 39c3 talk, remains unpatched to this day. Instead of being fixed with code, Werner Koch - the main developer of GnuPG - published a blog post declaring the widely-used feature being \"harmful\"; while they had weeks in advance, they published this on day one of 39c3, not even giving us time to respond.\n\nSeveral disgruntled comments followed, but a good portion of the flaws are still not addressed, as I will demonstrate live in the talk. This specific demonstration will not utilize any zero-day vulnerabilities (those come next); we will be showing how much of an issue the footguns (that they refuse to address) at hand really are.\n\nAdditionally, I will present a few novel vulnerabilities on GPG. Not quite the bombshells as last time, but some nifty bugs that should never have made it into production in the first place, but to demonstrate the state of the GnuPG codebase.\n\nThe talk closes with some general commentary about the state of security and responsible disclosure, and touch on the topic of AI/LLMs in security (with some of the gpg.fail vulnerabilities as examples); what this means for security researchers, ordinary people and software developers (spoiler: neither end users nor security researchers are doomed).",
+        "fullTranslation": "2025年，我[演讲者]在最广泛使用的PGP实现GPG中发现并披露了一批漏洞，并在第39届混沌通信大会（39c3）上就此发表了演讲。其中一些漏洞最终得到了修复。本次演讲将讲述一路走来的探索历程与后续余波，展示一些新发现的漏洞，并探讨2026年的安全现状。可能包含零日漏洞 =)  \n\n直到2025年5月，我都一直很喜欢PGP和GNU Privacy Guard（GPG）。我在闲暇时间常常研究它。有一天，情况突然发生了改变——我因过于激进的探索而发现了一个漏洞，只要直接使用GPG工具简单打开，攻击者就可以轻易伪造PGP签名。  \n\n几个月后，最初的这一个漏洞演变成了多个独立的漏洞，甚至包括基础PGP消息解析器中的内存损坏漏洞，几乎影响到所有与PGP相关的工作流程。  \n\n我在2025年12月39c3大会召开前几周披露了这些漏洞。尽管部分漏洞（如消息解析器中的内存损坏）得到了妥善解决，但并非所有问题都得到了同样的处理。  \n\n例如，我最早发现的、在39c3演讲开篇作为引子的一个漏洞，至今仍未修复。GnuPG的主要开发者维尔纳·科赫（Werner Koch）并未通过代码进行修复，而是发表了一篇博客文章，宣称该广泛使用的功能是“有害的”；尽管他们提前数周就获知了信息，却偏偏选在39c3大会的第一天发布这篇博文，甚至没有给我们留下回应的时间。  \n\n随之而来的是几条令人不快的评论，但很大一部分缺陷仍未得到解决，我将在本次演讲中进行现场演示。本次特定演示不会使用任何零日漏洞（那些留到后面）；我们将展示这些对方拒绝处理的“隐患缺陷”实际上造成了多么严重的问题。  \n\n此外，我还将展示几个针对GPG的新漏洞。虽然不像上次那样具有轰动性，但都是一些本不应该出现在生产环境中的精妙缺陷，借此展示GnuPG代码库的现状。  \n\n演讲最后将对安全现状与负责任披露进行一些总体评述，并触及AI/大语言模型在安全领域的应用这一话题（以gpg.fail的部分漏洞为例）；探讨这对安全研究人员、普通公众和软件开发者意味着什么（剧透：无论是最终用户还是安全研究人员，都远未到末日）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "演讲者在2025年发现并披露了GPG（GNU Privacy Guard）中的多个安全漏洞，并在39c3大会上就此发表演讲。",
+          "演讲者发现的漏洞包括允许在直接使用GPG工具打开时伪造PGP签名，以及基础PGP消息解析器中的内存损坏漏洞。",
+          "来源叙事重点：批评 GnuPG 核心维护者对安全漏洞的应对方式与态度，展示未修补的 GPG 设计缺陷与代码质量隐患，并借此探讨 2026 年负责任披露流程与 AI 在安全领域的作用"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T17:24:59.000Z",
+            "url": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026"
+          }
+        ]
+      },
+      {
+        "id": "story-gs-glossy-nonfading-html-3ce4ee861bda0fd7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Silicon nanosphere coatings deliver glossy, nonfading color on 3D surfaces",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T19:00:01.000Z",
+        "pubTime": "2026-09-13 03:00",
+        "url": "https://phys.org/news/2026-09-silicon-nanosphere-coatings-glossy-nonfading.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/structural-color-just.jpg",
+        "fullContent": "\"Color coatings are expected to provide vivid color, brightness, gloss and long-term durability, yet no existing technology satisfies all of these requirements simultaneously,\" says Kobe University materials engineer Hiroshi Sugimoto. Conventional coatings usually rely on relatively thick pigment layers that fade and add significant weight.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-13 03:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-silicon-nanosphere-coatings-glossy-nonfading.html",
+            "publishedAt": "2026-09-12T19:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-politics-2186819-b6a6469eca920aba",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Kremlin spokesman rules out Putin-Zelensky meeting during G20 summit in Miami",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T19:21:47.000Z",
+        "pubTime": "2026-09-13 03:21",
+        "url": "https://tass.com/politics/2186819",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 12. /TASS/. Russian President Vladimir Putin’s meeting with Vladimir Zelensky on the sidelines of the G20 summit in Miami in December is impossible, Russian Presidential Press Secretary Dmitry Peskov has told AFP.\n\n\"This is impossible,\" he said.\n\nPeskov reiterated that the Putin-Zelensky talks can only be held in Moscow.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：直接排除在迈阿密G20峰会期间举行俄乌元首会晤的可能性，强调双边接触的唯一可接受地点是莫斯科，展现外交立场上的不可妥协性。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T19:21:47.000Z",
+            "url": "https://tass.com/politics/2186819"
+          }
+        ]
+      },
+      {
+        "id": "story-on-roadster-on-october-1-90cb89faa8950886",
+        "title": "特斯拉称终于将于10月1日发布第二代Roadster跑车",
+        "originalTitle": "Tesla says it will finally unveil the second generation Roadster on October 1",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T19:21:19.000Z",
+        "pubTime": "2026-09-13 03:21",
+        "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+        "imageUrl": null,
+        "fullContent": "The long-awaited second generation of the Tesla Roadster might finally be ready for the public.\n\nIn a post on X on Saturday, the electric vehicle company simply wrote, “Go for launch,” with a graphic showing a “10.01” date — so expect the new Roadster to be unveiled on October 1. The graphic also seems to hint at the promised cold gas thrusters, developed by Tesla CEO Elon Musk’s other big company, SpaceX; those optional thrusters are supposed to allow the Roadster to fly in some way.\n\nTesla’s second generation sports car was first announced in November 2017 and has been pushed back multiple times. It was even the subject of a social media spat between Musk and OpenAI CEO Sam Altman last year, when Altman said that “7.5 years has felt like a long time to wait” after paying a $50,000 reservation fee, and Musk insisting that Altman had gotten a refund.\n\nThe Information recently reported that the 2017 version of the car had been completely abandoned for a new, yet-to-be-revealed design that would be revealed imminently.\n\nMusk has previously acknowledged that even after the big reveal, the Roadster won’t actually go into production for another 12 or 18 months.\n\nGo for launch pic.twitter.com/Khu03eiZ04\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "万众瞩目的特斯拉第二代Roadster跑车可能终于准备好面向公众亮相了。\n\n周六，这家电动汽车公司在X平台上简短发文称“准备发射”（Go for launch），并配有一张显示“10.01”日期的图片——这意味着新款Roadster预计将于10月1日正式发布。该配图似乎还暗示了此前承诺的冷气推进器，该技术由特斯拉首席执行官埃隆·马斯克（Elon Musk）旗下的另一家大型公司SpaceX开发；这些选装推进器据称能让Roadster以某种形式实现“飞行”。\n\n特斯拉的这款第二代跑车于2017年11月首次公布，此后被多次推迟。去年它甚至引发了马斯克与OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）在社交媒体上的一场口角。奥尔特曼当时表示，在支付了5万美元定金后，“等待7.5年感觉确实太长了”，而马斯克则坚称奥尔特曼早已获得了退款。\n\n科技媒体The Information近期报道称，该车2017年的设计版本已被彻底弃用，取而代之的是一个即将揭晓的全新设计方案。\n\n马斯克此前曾坦言，即便在盛大发布之后，Roadster也还需要再过12到18个月才会真正投入量产。\n\n准备发射 pic.twitter.com/Khu03eiZ04\n\n预订展位的最后一天为9月18日。切莫错失在Disrupt展厅获取高价值潜在客户、对接投资者以及提升品牌知名度的绝佳机会。\n\n每个工作日和周日，您均可获取TechCrunch的精选报道。\n\nTechCrunch Mobility是您获取交通领域新闻与深度洞见的理想之地。\n\n初创企业是TechCrunch的核心，欢迎订阅我们每周精选的深度报道。\n\n为行业领军人物提供开启新一天所需的关键资讯。\n\n提交您的电子邮件即代表您同意我们的条款及隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "来源叙事重点：报道聚焦特斯拉宣布将于10月1日正式发布第二代Roadster跑车，重点回顾该车型自2017年发布以来长达近9年的多次推迟历程、SpaceX冷气推进器技术噱头、设计推倒重做传闻，以及揭晓后仍需12至18个月才可能量产的漫长周期。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T19:21:19.000Z",
+            "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
+          }
+        ]
+      },
+      {
+        "id": "story-6-401c-a146-2b7b5d138837-4e83f425145e33fb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T18:14:06.000Z",
+        "pubTime": "2026-09-13 02:14",
+        "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F51ca86b7-81e2-40a8-937c-f4f2d43372db.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Warring tech bosses unite behind warnings that humans could lose control of the technology",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-13 02:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T18:14:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-2026-09-make-it-anyway-cf9d405f4994bb61",
+        "title": "无论如何，做下去",
+        "originalTitle": "Make it anyway",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T17:24:07.000Z",
+        "pubTime": "2026-09-13 01:24",
+        "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+        "imageUrl": null,
+        "fullContent": "11 September 2026 games, dev, essay\n\nI kind of crashed out this week. Not in an explosive, dramatic way, but an implosion, a collapsing of the self, my resolve and motivation crumbling into the mush you get when you put tissue paper through the laundry. I’m doing better now, and I wanted to write down my thought process in case anyone else is going through the same thing, especially, probably, sadly, future me.\n\nThe reason for this is, I guess, all too familiar for anyone in a creative field: surprise, it’s generative AI. The ongoing devaluation of the work of artists and makers, chewed up and regurgitated back to us like a mother feeding a baby bird with a subscription model. I have some hope for my friends in other artistic fields; AI art is shit, kind of by definition anti-art, embarrassing to look at and cringe-inducing to be associated with. I hope that continues. On the programming front, where I mostly live, things look a little dicier.\n\nEvery programmer I know has basically gone insane over the last couple of years. This is the most turbulent time to be a software engineer I can remember. We’ve had it relatively easy up until now, but there’s an increased feeling that the whole craft is going through a huge shift and every individual needs to decide how they respond to it, which is very hard without the benefit of hindsight. I can’t really blame anyone who’s just gone along with things, despite the various negative externalities - peer pressure is very real, and LLMs are genuinely very capable at code generation now. Denying that is, I think, a race against a moving finish line.\n\nI’m not writing this to try and convince anyone of any particular position but here’s mine: even disregarding all the environmental and societal issues, I simply do not enjoy programming with a code assistant. It isn’t fun for me, the output doesn’t feel like mine, and I take no pride in what it produces. For the last couple of years it hasn’t been too hard to just stay in my lane, noodling away at my little projects, but increasingly it feels like a lot of this craft I’ve made a career and a hobby out of has vanished.\n\nI love making doodads, little shell scripts, little helpers. I use my interactive git branch switcher every single day. I was very proud of that. Colleagues said nice things. Now anyone can just order that tool or anything like it off a prompt. Nobody cares about my doodads any more. It feels gauche to admit but I do actually need those head pats from my peers to feel fulfilled.\n\nThis is happening in games, too. This week’s crashout was triggered by a thread from Zach Gage about how game making is moving to be more like music. I think it’s a good insight but I found it utterly devastating. I’ve spent years learning how to make games, and it’s been hard, and now it feels like that might have been a waste of time? I was bereft. Then I had a chat with Shad.\n\nShad’s one of my faves. He’s a terrifically talented designer and engineer and an all-round great person. His current project is Uncamera, a camera app for iOS that uses raw sensor output with lookup tables - rather than a filter in post - to produce photos that genuinely look like film. It’s a beautifully made thing and I honestly think a contender for an Apple Design Award when it’s fully done. You should check it out. Here are some photos I took with it (I am not a good photographer).\n\nIt also happens to be developed entirely without generative AI. Shad’s reasons for this are very similar to my own; a lack of joy or fulfilment in the making of the thing. His anxieties are also similar. The difference is that Shad has kept updating Uncamera in spite of those anxieties, while I wallowed in self-pity.\n\nHere’s the thing: I’m already doing everything the hard way. I decided to make my own game engine, in C++ of all languages, because I wanted to do it. If my goal was to make games as quickly as possible, to be able to “compete”, I’d be using Unity or Godot or Unreal. I wouldn’t be messing about trying to produce a faux-3D renderer like in the header image of this post. I do things the way I do because I enjoy doing it that way and because I learn a lot through doing it.\n\nThrough chatting to Shad I came to realise there are only really three paths open to me. I can start using generative AI to feel like I’m “keeping up” or “competing”, but then I won’t enjoy the work. I could stop making things entirely, but as any creative person will know that’s never really an option. Or, I can keep making things the way I enjoy, keep learning, keep doing it the hard way, for no real concrete reason other than I want to do it. That’s why we make games. That’s why we make anything.",
+        "fullTranslation": "2026年9月11日 游戏、开发、随笔\n\n这周我心态有点崩了。不是那种声势浩大、戏剧性的爆发，而是一场内爆，一种自我的坍塌，我的决心与动力碎成了纸巾扔进洗衣机搅出来的糊状残渣。现在我感觉好些了，我想把自己的思考过程记录下来，以防有人也在经历同样的遭遇——尤其是，可能，也很遗憾地，写给未来的自己。\n\n究其原因，我想对于任何从事创作领域的人来说都再熟悉不过了：惊喜吧，就是生成式人工智能（Generative AI）。艺术家和创作者的作品正持续贬值，被嚼碎后再反刍给我们，就像一只用订阅模式给雏鸟喂食的母鸟。我对其他艺术领域的朋友还抱有一丝希望；AI艺术就是垃圾，从定义上说几乎就是反艺术的，看着让人尴尬，扯上关系更令人难堪。我希望这种情况继续下去。但在我主要身处的编程前沿，情况看起来要更加微妙和凶险。\n\n过去几年里，我认识的每一个程序员基本上都快被逼疯了。这是我记忆中做软件工程师最动荡的时期。在这之前，我们一直过得相对轻松，但越来越多人感受到整个行业正在经历一场巨变，每个人都必须决定自己该如何应对，而在缺乏后见之明的情况下，这极其艰难。我真的无法责怪那些顺应潮流的人，尽管存在种种负面外部性——同侪压力无比真实，而且大语言模型（LLM）如今在代码生成方面确实非常强大。我认为，否定这一点无异于在与不断前移的终点线赛跑。\n\n我写这篇文章并不是为了说服任何人接受某种特定立场，但我的观点是：即使撇开所有环境和社会问题不谈，我也单纯不喜欢借助代码助手进行编程。这对我来说毫无乐趣，生成的产物感觉并不属于我，我也无法为其产出感到自豪。在过去的几年里，专注于自己的赛道、琢磨自己的小项目并不是太难，但越来越明显的是，我赖以谋生并当作爱好的这门手艺，很大一部分已经消失殆尽了。\n\n我喜欢做些小玩意儿、小Shell脚本和小辅助工具。我每天都在用自己写的交互式Git分支切换器。我曾经对此感到非常自豪，同事们也给予了赞美。现在，任何人只要输入一句提示词，就能直接定制出那个工具或类似的任何东西。再也没有人在意我的那些小玩意儿了。承认这一点可能显得有些小家子气，但我确实需要同行的认可与肯定才能获得成就感。\n\n游戏领域也是如此。这周的心态崩塌是由Zach Gage的一条推文引发的，他谈到了游戏制作正变得越来越像音乐创作。我认为这是一个深刻的见解，但我也觉得这让人无比绝望。我花了数年时间学习如何制作游戏，过程十分艰辛，而现在感觉那些努力可能全白费了？我感到万念俱灰。随后我和Shad聊了聊。\n\nShad是我最喜欢的朋友之一。他是一位极具天赋的设计师和工程师，也是一个各方面都很棒的人。他目前的项目是Uncamera，一款iOS相机应用，它直接利用原始传感器输出配合颜色查找表（LUT）——而不是在后期加滤镜——来拍出真正具有胶片质感的照片。这是一个制作精美的作品，我坦率地认为它完全有实力在彻底完工时角逐苹果设计大奖（Apple Design Award）。你们真应该去看看。这里有一些我用它拍的照片（我并不是个优秀的摄影师）。\n\n它恰好也是完全在没有生成式AI辅助的情况下开发的。Shad这么做的理由和我很像：在制作过程中感受不到乐趣或成就感。他的焦虑也和我相似。不同之处在于，尽管面临这些焦虑，Shad依然坚持更新Uncamera，而我却在一味自怨自艾。\n\n问题在于：我本来就是在用最硬核的方式做所有事情。我决定用C++开发自己的游戏引擎，偏偏选了这种语言，只因为我想这么做。如果我的目标是以最快的速度做游戏以便能够“竞争”，我大可以使用Unity、Godot或Unreal。我就不会瞎折腾去搞这篇文章题图里的伪3D渲染器了。我用这种方式做事，是因为我享受这个过程，而且能从中汲取大量知识。\n\n通过与Shad的交流，我意识到摆在我面前的路其实只有三条。我可以开始使用生成式AI，让自己觉得是在“跟上时代”或“保持竞争力”，但我不会再享受这项工作。我可以彻底停止创作，但任何搞创作的人都知道这根本不是一个可行的选项。或者，我可以继续用我喜欢的方式创作，继续学习，继续走艰难的路，不为别的明确理由，只因为我想做。这正是我们制作游戏的原因。这也是我们创造任何事物的原因。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "文章作者在本周经历了一次情绪/动机上的崩溃（implosion/crashout），其主要诱因是生成式AI对创作者工作的冲击以及Zach Gage关于游戏制作趋势的讨论。",
+          "作者选择完全不使用代码助手，因为不享受生成式AI辅助编程的过程，感觉产出不属于自己。",
+          "来源叙事重点：以个人心路历程反思生成式AI对软件工程与创意手艺的冲击，剖析因AI自动化带来的手工艺成就感贬值与职业焦虑，最终主张即使面对效率诱惑，依然应为了纯粹的创造乐趣而坚持采用传统、手工艺式的‘困难方式’进行开发。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T17:24:07.000Z",
+            "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/"
+          }
+        ]
+      },
+      {
+        "id": "story-tspot-central-north-html-86c5f15738434f85",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Unexpected Amazon hotspot: Central north faces fastest rise in extreme heat and water stress",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T18:00:01.000Z",
+        "pubTime": "2026-09-13 02:00",
+        "url": "https://phys.org/news/2026-09-unexpected-amazon-hotspot-central-north.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/as-el-nio-looms-study.jpg",
+        "fullContent": "The central north Amazon, with extensive areas of high forest cover, natural savannas and vast, important Indigenous territories, was not previously considered the area most affected by climate change.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-13 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-unexpected-amazon-hotspot-central-north.html",
+            "publishedAt": "2026-09-12T18:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-12-tramp-2117349147-html-e0fcb06c4c7dea06",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Трамп поздравил Токаева с юбилеем независимости Казахстана",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T19:20:06.000Z",
+        "pubTime": "2026-09-13 03:20",
+        "url": "https://ria.ru/20260912/tramp-2117349147.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-13 03:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/tramp-2117349147.html",
+            "publishedAt": "2026-09-12T19:20:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-abs-2609-01877-138f321247425e2a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Will There Be a 7G?",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T17:05:31.000Z",
+        "pubTime": "2026-09-13 01:05",
+        "url": "https://arxiv.org/abs/2609.01877",
+        "imageUrl": null,
+        "fullContent": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "arXivLabs 是一个允许协作者直接在 arXiv 网站上开发并分享 arXiv 新特性的框架。",
+          "与 arXivLabs 合作的个人及组织均认同并接受开放、社区、卓越和用户数据隐私等价值观。",
+          "来源叙事重点：名义上以探讨下一代移动通信演进前景（“Will There Be a 7G?”）为题，但实际抓取正文仅为 arXivLabs 协作者框架与平台价值观说明。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T17:05:31.000Z",
+            "url": "https://arxiv.org/abs/2609.01877"
+          }
+        ]
+      },
+      {
+        "id": "story-entire-internet-46f12d98-2b4977668d30f867",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T17:20:00.000Z",
+        "pubTime": "2026-09-13 01:20",
+        "url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-13 01:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-12T17:20:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-vertising-for-ultra-fast-d9f1efb5d376b27f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "France has banned advertising for ultra fast fashion and prohibited influencers from promoting it, with fines of up to €100,000 for violations. The new law also requires major platforms to disclose where clothing is made and makes polluting fashion producers pay more toward textile recycling.",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T16:59:36.000Z",
+        "pubTime": "2026-09-13 00:59",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wehu8h/france_has_banned_advertising_for_ultra_fast/",
+        "imageUrl": "https://external-preview.redd.it/ltShzPnbvt2vWI9Wo72uGU7ZK1qNQ0pWu1WOksflCe4.jpeg?width=320&crop=smart&auto=webp&s=fc858f4d31140c8c0e06077f6acf53fe46bf846b",
+        "fullContent": "submitted by /u/Phylogenix [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-13 00:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wehu8h/france_has_banned_advertising_for_ultra_fast/",
+            "publishedAt": "2026-09-12T16:59:36.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789233553150,
     "timeDisplay": "2026-09-13 01:19 (UTC+8)",
     "date": "2026-09-13",
