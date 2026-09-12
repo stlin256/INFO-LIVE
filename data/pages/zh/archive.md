@@ -23,14 +23,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **25** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **26** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-12 13:57 (UTC+8)
+- **最新归档时间**：2026-09-12 22:16 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-12 22:16 (UTC+8)" title="全球要闻情报简报 · 22:16" org="ARCHIVE"}
+**速报纪要：** 本小时内，金砖国家及国际多边合作持续受到关注，涉及金砖领导人对古巴局势与单边封锁的表态、中国宣布主办下一届峰会以及多边合作项目的推进；俄方外交高层亦提及对乌对话立场与善意姿态。科技领域方面，Perplexity正在内部运维与开发中引入Astra模型以提升自动化水平。
+
+**关键信号：** 金砖国家领导人对古巴面临的单边封锁加剧局势表达关切，多边合作议程同步推进。；中国国家主席习近平宣布中国将主办下一届金砖国家峰会。；俄罗斯外交高层就对话禁令与俄方善意表态发声，提及多边重要项目正在酝酿。；人工智能公司Perplexity运用Astra模型执行通信撰写、软件变更及生产系统监控。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/gosduma-2117317053.html) <span class="news-meta-time">🕒 2026-09-12 22:12</span>
+- [OpenAI News (官方动态)] [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-12 22:01</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://hachyderm.io/@simontatham/117201594980991062) <span class="news-meta-time">🕒 2026-09-12 20:38</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-physicists-classical-quantum-machine.html) <span class="news-meta-time">🕒 2026-09-12 22:00</span>
+- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2186753) <span class="news-meta-time">🕒 2026-09-12 22:11</span>
+:::
 :::timeline-item{start="2026-09-12 13:57 (UTC+8)" title="全球要闻情报简报 · 13:57" org="ARCHIVE"}
 **速报纪要：** 本小时重点关注金砖国家峰会期间的外交互动、乌克兰局势最新言论，以及人工智能前沿工具在实际生产中的部署进展。
 

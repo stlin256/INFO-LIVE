@@ -1,5 +1,1554 @@
 [
   {
+    "timestamp": 1789222564982,
+    "timeDisplay": "2026-09-12 22:16 (UTC+8)",
+    "date": "2026-09-12",
+    "runId": "feed-20260912T141356711Z-76jd23",
+    "generatedAt": "2026-09-12T14:16:04.982Z",
+    "hourlyBriefing": {
+      "title": "本小时要闻速报：多边外交动态与人工智能技术应用进展",
+      "lead": "本小时内，金砖国家及国际多边合作持续受到关注，涉及金砖领导人对古巴局势与单边封锁的表态、中国宣布主办下一届峰会以及多边合作项目的推进；俄方外交高层亦提及对乌对话立场与善意姿态。科技领域方面，Perplexity正在内部运维与开发中引入Astra模型以提升自动化水平。",
+      "signals": [
+        "金砖国家领导人对古巴面临的单边封锁加剧局势表达关切，多边合作议程同步推进。",
+        "中国国家主席习近平宣布中国将主办下一届金砖国家峰会。",
+        "俄罗斯外交高层就对话禁令与俄方善意表态发声，提及多边重要项目正在酝酿。",
+        "人工智能公司Perplexity运用Astra模型执行通信撰写、软件变更及生产系统监控。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "金砖国家多边合作与地缘政治动态及前沿AI技术应用追踪",
+      "lead": "最新动态显示，金砖国家在峰会筹备、多边项目推进及古巴局势关切等议题上展现密切协调，俄方亦针对对外谈判立场发声；与此同时，人工智能领域中Perplexity已开始深度采用Astra模型执行复杂系统运维与开发任务。",
+      "themes": [
+        {
+          "name": "金砖国家多边合作与地缘关切",
+          "analysis": "根据近期动态，中国国家主席习近平此前宣布中国将主办下届金砖国家峰会，俄罗斯总统普京亦表示宏大的多边项目正在酝酿中。此外，金砖国家领导人对古巴因单边封锁措施收紧而面临的局势表达了深切关切。在地缘外交方面，俄罗斯高级外交官提及针对对话立场的善意姿态与现存谈判禁令的背景交互。"
+        },
+        {
+          "name": "前沿人工智能生产系统集成",
+          "analysis": "在科技与人工智能领域，Perplexity正在使用Astra进行信息撰写、软件代码修改以及生产系统监控。与早期模型相比，该系统在运行中的介入与检查频率明显降低，展现了自动化系统在核心生产环境中的自主性提升。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 72,
+      "completedTasks": 72,
+      "succeeded": 60,
+      "degraded": 12,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 72,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 128199,
+      "byRole": {
+        "translator": {
+          "attempts": 47,
+          "succeeded": 35,
+          "degraded": 12
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 72,
+          "succeeded": 60,
+          "degraded": 12
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-15-translator-0",
+      "article-15-translator-1",
+      "article-31-translator-0",
+      "article-36-translator-0"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:37.210Z",
+        "lastSuccessAt": "2026-09-12T14:13:37.846Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:37.470Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.111Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.444Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.638Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.461Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.918Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.790Z",
+        "lastSuccessAt": "2026-09-12T14:13:41.108Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.741Z",
+        "lastSuccessAt": "2026-09-12T14:13:40.826Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:41.108Z",
+        "lastSuccessAt": "2026-09-12T14:13:41.480Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:37.698Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.034Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.672Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.081Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.638Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.018Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.210Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.513Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.111Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.499Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.022Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.300Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.034Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.343Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:40.678Z",
+        "lastSuccessAt": "2026-09-12T14:13:41.703Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.951Z",
+        "lastSuccessAt": "2026-09-12T14:13:41.260Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:40.522Z",
+        "lastSuccessAt": "2026-09-12T14:13:40.852Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.880Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.202Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.343Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.444Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.300Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.461Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:37.651Z",
+        "lastSuccessAt": "2026-09-12T14:13:37.698Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:36.268Z",
+        "lastSuccessAt": "2026-09-12T14:13:37.651Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.202Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.474Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.081Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.401Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.918Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.289Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.092Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.281Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.409Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.694Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.781Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.950Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:40.826Z",
+        "lastSuccessAt": "2026-09-12T14:13:44.621Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.281Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.380Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.525Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.790Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.431Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.741Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.694Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.881Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:40.852Z",
+        "lastSuccessAt": "2026-09-12T14:13:41.438Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.480Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.781Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.887Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.409Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.046Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.525Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.587Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.951Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-12T14:13:39.401Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.380Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.817Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:36.266Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.480Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.474Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.795Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:36.267Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.672Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.795Z",
+        "lastSuccessAt": "2026-09-12T14:13:41.486Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.018Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.092Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:37.846Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.022Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.289Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.431Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.950Z",
+        "lastSuccessAt": "2026-09-12T14:13:39.046Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.817Z",
+        "lastSuccessAt": "2026-09-12T14:13:40.522Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:39.881Z",
+        "lastSuccessAt": "2026-09-12T14:13:40.678Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.513Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.887Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:38.499Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.880Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:36.251Z",
+        "lastSuccessAt": "2026-09-12T14:13:37.470Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:36.264Z",
+        "lastSuccessAt": "2026-09-12T14:13:37.210Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-12T14:13:36.265Z",
+        "lastSuccessAt": "2026-09-12T14:13:38.210Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story--gosduma-2117317053-html-98627c1c89688ee4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Госдуме предложили упростить снижение платы за некачественную работу УК",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T14:12:19.000Z",
+        "pubTime": "2026-09-12 22:12",
+        "url": "https://ria.ru/20260912/gosduma-2117317053.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/0a/11/1978510294_0:0:3404:1915_650x0_80_0_0_5e180e343bd53cfad588a5386b8f1fe7.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 22:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/gosduma-2117317053.html",
+            "publishedAt": "2026-09-12T14:12:19.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 将端到端系统托付给 GPT-6 Astra",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 使用 Astra 撰写沟通内容、修改软件并监控生产系统，且与早期模型相比，人工介入核查的频率大幅降低。\n\n作为一家人工智能问答引擎，Perplexity 高度专注于搜索和准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型在编写代码方面每一次取得进步，Perplexity 的搜索引擎也会随之提升。它能够编写出更优秀的程序来检索网络及内部信息，并进行极为简炼的总结。\n\n但 Johnny 认为，真正的挑战在于将这些信息层面的能力应用到现实世界的系统中。而有了 GPT-6 Astra，这一切变得更加容易。\n\n对 Johnny 而言，人工智能最实用的应用之一是测试代码。在手动测试时间有限的情况下，他让 GPT-6 Astra 围绕某个应用程序构建一个小型的测试程序。\n\n该模型会生成类似其他服务所发送的逼真响应，例如语言模型 API 或连接器。通过模拟代指这些服务，该模型能够检查应用程序的响应情况，并从头到尾对整个工作流程进行测试。\n\n工程 2026年9月11日\n应用人工智能 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity 使用 Astra 撰写通信内容、修改软件并监控生产系统，且人工干涉检查频率远低于早期模型。",
+          "Perplexity 是一家专注于搜索与准确性的 AI 驱动问答引擎。",
+          "来源叙事重点：通过行业头部 AI 搜索企业 Perplexity 高管的积极评价，突出 GPT-6 Astra 在端到端系统工程、自动化代码测试和生产监控方面的自主性与可靠性，塑造下一代模型具备高度可信度的商业形象。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-en-is-that-fair-b647a4bd-88afb9c0ca07728c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T14:01:00.000Z",
+        "pubTime": "2026-09-12 22:01",
+        "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Over the years, my mother and I have supplemented his income.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-12 22:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-12T14:01:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-atham-117201594980991062-f1cae18e741b77c4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Linux Zoom Client Proactively Reads X11 Clipboard",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T12:38:53.000Z",
+        "pubTime": "2026-09-12 20:38",
+        "url": "https://hachyderm.io/@simontatham/117201594980991062",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-12 20:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://hachyderm.io/@simontatham/117201594980991062",
+            "publishedAt": "2026-09-12T12:38:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-cal-quantum-machine-html-1d7e289a520b85b7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Physicists turn classical light into a quantum machine for information processing",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T14:00:01.000Z",
+        "pubTime": "2026-09-12 22:00",
+        "url": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-turn-light.jpg",
+        "fullContent": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tiny disturbances can destroy the delicate behavior that gives them their power. Building systems with many quantum particles is also extremely challenging.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 22:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
+            "publishedAt": "2026-09-12T14:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2186753-f7c6e9b10ecd6ad7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "BRICS calls for ending economic blockade of Cuba",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T14:11:45.000Z",
+        "pubTime": "2026-09-12 22:11",
+        "url": "https://tass.com/world/2186753",
+        "imageUrl": null,
+        "fullContent": "NEW DELHI, September 12. /TASS/. BRICS nations called for ending economic, commercial and financial measures against Cuba in the New Delhi Declaration adopted at the group’s summit in India.\n\n\"We reiterate the necessity of ending the economic, commercial and financial measures against Cuba in accordance with UNGA Resolution,\" the document said.\n\nBRICS leaders expressed \"deep concern on the situation relating to Cuba due to the tightening of unilateral blockade measures against the country, their adverse effects on the Cuban economy, energy supplies and the worrying humanitarian impact on the Cuban people.\".",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "金砖国家在印度举行的峰会上通过《新德里宣言》，呼吁结束对古巴的经济、商业和金融措施。",
+          "《新德里宣言》重申有必要根据联合国大会决议结束对古巴的经济、商业和金融措施。",
+          "来源叙事重点：聚焦金砖国家新德里峰会《新德里宣言》对古巴的支持，突出金砖机制依据联大决议反对单边封锁、呼吁保障古巴经济与民生权益的多边主义叙事。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T14:11:45.000Z",
+            "url": "https://tass.com/world/2186753"
+          }
+        ]
+      },
+      {
+        "id": "story-ding-is-over-get-over-it-92e87d26ea1a1584",
+        "title": "编码已成过去，坦然接受吧",
+        "originalTitle": "Coding Is Over. Get over It",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T13:16:38.000Z",
+        "pubTime": "2026-09-12 21:16",
+        "url": "https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./",
+        "imageUrl": null,
+        "fullContent": "I’m a software engineer at JPMorgan Chase. I have more than 15 years of experience in building software and I used to love it. These are my own observations, not the firm’s position. JPMC is a very large company, and what I observe from my vantage point not be true at all. AI is pervasive company wide, and the how people work with AI varies a lot (we’re all learning to use it…). There are some guardrails in place that are very sane for a large bank, but I’m fortunate to be in a place that lets me experiment a lot. Costs are high, but the firm can afford it, and it may be a good investment to let people learn how to use the tools first, even if expensive, and think about costs later. It’s hard to know right now if the investment will pay dividends or not.\n\nWith high costs, there is a high pressure as well to show they are worth it. The problem I have is that I don’t know how you’d measure the ROI even if you wanted to. Are engineering teams generating more value than they’re spending on AI? Hard to say. Would the same work have been cheaper without it? Probably. Would it be done much slower? Maybe. Could it have been done just as well with a cheaper model? To my knowledge nobody has actually run that experiment.\n\nThe performance of a single engineer has always been difficult to measure, and AI hasn’t changed that — it’s just added a new variable. Whenever I hear “we built this with AI in a 50% more efficient way,” I say “BS”. Unless that number is backed by something more rigorous than a number you made up, you don’t have a clue.\n\nMy current opinion is that AI is a major enabler. It has let me do things I genuinely couldn’t have done without it. While I’ve had extensive experience building apps, the infrastructure side was still a new field for me, particularly terraform. With AI agents I have more confidence in what they output and their assessment of the plan diff than what I would have alone, with my limited expertise. Whether that was worth the cost, I still don’t know and maybe never will.\n\nA trend worth keeping up with are cheap, small models, which are getting genuinely good. GPT 5.6 Luna, with max reasoning, was a big surprise to me. I predict we’re not far from a point where AI inference cost becomes close to irrelevant for many use cases. A rounding error rather than a cost item. If that happens, I think the bigger revolution won’t be in coding at all. It’ll be everywhere else. All that can be automated, just by asking your computer…\n\nThat said, if anyone tells you with confidence what the future looks like from here, they’re guessing. Including me. Nobody actually knows.\n\nI need to keep reminding myself of this: Model capabilities are evolving so fast that what was true last month may not be true today. It’s hard to keep up to date even when you work with it every day. Recently the head of Claude Code, Boris Cherny, said to delete all your AGENTS.md Claude.md files and just see what the models can do nowadays. I agree, many of the rules and nudges I used to need to give to my agents are no longer necessary. The pace of change seems to be accelerating and it is scary.\n\nI considered myself an above-average coder but AI now codes better and faster than me. I say that with something close to grief. For 15 years I’ve been grinding and perfecting my craft towards excellence. That’s no longer necessary. My process for learning a new domain or technology used to be modeling it in code: build to learn. That’s not really how I learn anymore, and I miss it. I’m finding it hard to change but It no longer makes economic sense to write all the code by hand, so increasingly I don’t.\n\nNot long ago I used to use AI as a great typing assistant, to make the speed of getting ideas from my head to the text editor. These days I only need to state the goals, and the app/script/answer just magically appears. I fear that my capacity to read and really understand code will atrophy since AI can now do research and answer any specific question I have in seconds, without any effort from me. I used to say that lazy developers are good developers because they will write automations for grunt work. Not sure if lazy is good these days because lazy developers will just be conduits for “AI Brains”.\n\nI used to go deep on one problem at a time but now the expectation, implicit or explicit, is to parallelize across several threads at once. That kind of parallelization drains me in a way that sequential deep work never did. I think I could go back to depth-first work if models were fast enough to keep pace with a single train of thought. They have a higher throughput than me but the latency per turn is still high enough that single-threading feels wasteful. While I’m very happy with the kinds of things that AI has enabled me to do (it really is a force multiplier), I’m not sure I will be able to keep this kind of multi-threading in a sustained way. Maybe I’ll adapt. I don’t know…\n\nCoding is over. get over it.\n\nThere are good developers, mediocre developers, and bad developers, and the good ones are still hard to find. The best developers I’ve worked with are never the single-minded coding obsessives. They can clearly explain their POV, and rally others to join them on a mission. They are well-rounded people with a good balance of agreeableness and assertiveness. This was true before AI, and it’s more true now, because coding itself is no longer a scarce thing. Software development IS NOT CODING so I’m still hopeful about the future of my profession. AI will certainly be a “better than average” programmer. The baseline will be much higher. Everyone needs to skill-up to stay relevant.\n\nMy concern for the near future is that it is possible that the jobs that AI is taking first are the ones that were entry level positions, where you’d go to actually learn the trade. Learning will start to be something you must want to do, and work hard towards. To my children I’ll try to make them knowledgeable all around, knowing both the hard and the soft sciences. History as well as biology. Philosophy as well as math.",
+        "fullTranslation": "我是摩根大通（JPMorgan Chase）的一名软件工程师。我在软件构建领域拥有超过15年的经验，而且我曾深爱这项工作。以下仅为我个人的观察，不代表公司立场。摩根大通是一家体量庞大的公司，从我的视角所见到的情况可能根本不具备普遍性。AI 在全公司范围内已经无孔不入，而人们使用 AI 的方式各不相同（我们都在摸索着如何使用它……）。公司设立了一些对于大型银行来说非常合理的防范机制，但我很幸运能身处一个允许我进行大量实验的部门。成本虽然高昂，但公司承担得起，而且让员工先学会如何使用这些工具可能是一项不错的投资，即便价格不菲，以后再去考虑成本也不迟。目前很难知晓这项投资最终是否能带来回报。\n\n伴随着高昂成本而来的，还有证明其物有所值的巨大压力。我面临的问题在于，即便你想去衡量投资回报率（ROI），我也不知道该如何衡量。工程团队创造的价值是否超过了他们在 AI 上的花费？很难说。如果不借助 AI，同样的开发工作会更便宜吗？大概率是的。如果不用 AI 会慢得多吗？或许吧。如果换用更廉价的模型能做得同样好吗？据我所知，实际上还没有人做过这个实验。\n\n单名工程师的绩效历来难以衡量，AI 并没有改变这一点——它只是增加了一个新变量。每当我听到有人说“我们用 AI 把效率提升了 50%”，我都会说“胡扯”。除非这个数字背后有比你凭空捏造更严谨的依据，否则你根本就是一无所知。\n\n我目前的看法是，AI 是一个强大的赋能工具。它让我做成了如果没有它我真切无法完成的事情。虽然我在构建应用程序方面经验丰富，但基础设施层面对我而言仍是一个全新领域，尤其是 Terraform。有了 AI Agent，我对它们产出的内容以及它们对计划差异（plan diff）的评估所抱有的信心，比仅凭我自己有限的专业知识所做出的判断要充足得多。这是否对得起投入的成本，我目前仍然不知道，也许永远也不会知道。\n\n一个值得持续关注的趋势是廉价的小型模型，它们正变得真正优秀起来。具备极致推理能力的 GPT 5.6 Luna 让我大为震惊。我预测，用不了多久，在许多应用场景中，AI 的推理成本将变得微不足道——不再是一笔需要单列的成本项目，而更像是一笔舍入尾差。如果真的到了那一天，我认为更大的变革根本不会发生在编码领域，而是会出现在其他所有地方。凡是能被自动化的事物，只要向你的电脑开口吩咐一声就能完成……\n\n话虽如此，如果有人自信满满地告诉你从现在看未来的走向，那他们不过是在猜测而已。包括我自己也是如此。实际上没有人真正知道答案。\n\n我需要不断提醒自己这一点：模型能力的演进速度如此之快，以至于上个月还成立的事情今天可能就不再适用了。哪怕你每天都在与它打交道，也很难跟上最新的变化。最近 Claude Code 的负责人鲍里斯·切尔尼（Boris Cherny）表示，把你们所有的 AGENTS.md 和 Claude.md 文件统统删掉吧，直接看看现在的模型能做到什么水平。我深表赞同，过去我常常需要给智能体设定的许多规则与微调提示，如今都不再必要了。变革的步伐似乎正在加快，令人不寒而栗。\n\n我曾自认为是一名中等偏上的程序员，但 AI 现在写代码比我更好、更快。我是带着近乎悲伤的心情说出这番话的。15年来，我一直在日复一日地磨炼自己的手艺、追求卓越。而这已经不再必要了。过去我学习一个新领域或新技术的过程是通过代码对其进行建模：在构建中学习。如今我的学习方式已经不再是这样了，我很怀念那种感觉。我发现自己很难去改变，但全凭手动去写所有代码在经济层面上已经不再合理，因此我越来越少亲手编写代码了。\n\n就在不久前，我还把 AI 当作一个极佳的打字助手，用来加快把脑海中的想法转化为文本编辑器里代码的速度。而如今，我只需要陈述目标，相应的应用程序、脚本或答案就会奇迹般地直接出现。我担心自己阅读和真正理解代码的能力会退化，因为 AI 现在可以在几秒钟内替我调研并解答任何具体问题，无需我付出任何努力。我过去常说，懒惰的开发者才是优秀的开发者，因为他们会为了繁琐的杂活编写自动化程序。现在我不确定懒惰是否还是好事，因为懒惰的开发者最终只会沦为“AI大脑”的传声筒。\n\n我过去习惯于一次深入钻研一个问题，但现在的期望——不论是暗含的还是明说的——是在多个线程上同时并行推进。这种并行化工作方式消耗我精力的方式，是以往串行深度工作从未有过的。我认为如果模型的响应速度足够快，能够跟上单个思维流的节奏，我或许还能回归深度优先的工作模式。它们的吞吐量虽然比我高，但每一轮交互的延迟仍然高到让单线程工作感觉像是在浪费时间。虽然我很高兴看到 AI 让我能够完成很多事情（它确实是一个力量倍增器），但我不知道自己是否能长期维持这种多线程工作状态。也许我会逐渐适应。我不知道……\n\n编码已经终结。坦然接受吧。\n\n开发者有优秀、平庸和糟糕之分，而优秀的开发者仍然千金难求。与我共事过的最顶尖的开发者，从来都不是那些一门心思沉迷于写代码的偏执狂。他们能够清晰阐述自己的观点，并能凝聚他人为了共同的目标而并肩作战。他们是全面发展的人，在亲和力与果断自信之间保持着良好的平衡。在 AI 出现之前便是如此，如今更是如此，因为编写代码本身已经不再是稀缺资源。软件开发绝非仅仅是写代码，因此我对我的职业前景依然抱有希望。AI 肯定会成为一个“高于平均水平”的程序员。行业基准线将会大幅提高。每个人都需要提升技能以保持自身竞争力。\n\n我对不久将来的担忧在于，AI 最先取代的职位很可能是那些初级岗位——而那些岗位正是你过去实际去学习手艺的地方。学习将变成一件你必须主动想要去做、并为之刻苦努力的事情。对于我的孩子们，我会努力让他们成为博学多才的人，兼通硬科学与软科学。既懂历史，也懂生物；既懂哲学，也懂数学。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "作者是摩根大通（JPMorgan Chase）的软件工程师，拥有超过15年的软件构建经验。",
+          "摩根大通全公司范围内普遍应用了AI，但设有针对大型银行的合理安全防线。",
+          "来源叙事重点：探讨AI对软件开发范式的颠覆性重构，指出传统‘手写代码’的时代已经终结且经济上不再划算，同时剖析AI研发ROI难以量化、工程师工作模式被多线程高压消耗，以及初级职位萎缩导致人才培养断层等深层隐忧。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T13:16:38.000Z",
+            "url": "https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./"
+          }
+        ]
+      },
+      {
+        "id": "story-his-a-good-idea-a2748ccc-d665127f2dd14c04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T13:00:00.000Z",
+        "pubTime": "2026-09-12 21:00",
+        "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-12 21:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-12T13:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-sinelaw-fresh-67704a81305b8c45",
+        "title": "fresh：基于终端的 IDE 与文本编辑器：简易、强大且快速",
+        "originalTitle": "fresh: Terminal based IDE & text editor: easy, powerful and fast",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T11:59:21.000Z",
+        "pubTime": "2026-09-12 19:59",
+        "url": "https://github.com/sinelaw/fresh",
+        "imageUrl": null,
+        "fullContent": "There was an error while loading. Please reload this page.\n\nA modern, full-featured terminal text editor, with zero configuration. Familiar keybindings, mouse support, and IDE-level features — no learning curve required.\n\nOfficial Website · Documentation · Discord · Contributing\n\nQuick Install: curl -fsSL https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/scripts/install.sh | sh\n\nBuilt for real-world performance: Fresh handles multi-gigabyte files with negligible memory overhead and delivers consistently low-latency input, regardless of file size.\n\nOne shortcut to find files, run commands, switch buffers, and jump to any line.\n\nStart each task in its own worktree, hop between them with an arrow key, and leave the rest running.\n\nSelect and edit multiple occurrences simultaneously — the same workflow you know from graphical editors.\n\nBrowse and apply color themes instantly. Full settings UI and interactive keybinding editor included.\n\nSee more feature demos: Editing (search & replace, block selection, sort lines, ...) · Productivity (file explorer, split view, integrated terminal, ...) · Themes\n\ncurl -fsSL https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/scripts/install.sh | sh\n\nOn Linux this installs the universal build: one statically linked binary that runs on every distro, unpacked under ~/.local, owned by you. It needs no root, and it updates itself — fresh --cmd update, or the update prompt in the editor. On macOS it uses Homebrew.\n\nPrefer your distro's package manager? Ask for it explicitly:\n\nPackages are fully supported — they are opt-in rather than the default because installing one needs root and hands updates to that package manager. fresh records how it was installed either way, and updates through that same mechanism. --method=auto restores the old autodetecting behaviour, and install.sh --help lists everything.\n\nOr, pick your preferred method:\n\nA single static (musl) binary for x86_64 and aarch64 with every feature compiled in, including plugins. It unpacks to ~/.local/share/fresh-editor and symlinks ~/.local/bin/fresh; set FRESH_INSTALL_DIR / FRESH_BIN_DIR to put them elsewhere. Ensure ~/.local/bin is in your PATH.\n\nBecause nothing else owns these files, this is the one Linux install that can replace itself: fresh --cmd update downloads the next release, verifies it against both its published checksum and GitHub's release attestation, and swaps the binary in place.\n\nDownloading the archive by hand from the releases page works the same way — it ships the same install receipt, so a hand-unpacked copy self-updates too. Only the binary is swapped on update, so the desktop entry and icons are refreshed by re-running the installer, not by fresh --cmd update.\n\nOn macOS and some linux distros (Bazzite/Bluefin/Aurora):\n\nNote: On macOS, see macOS Terminal Tips for recommended terminal configuration.\n\nAlternatively, Windows users can use npm.\n\nBinary package (recommended, faster install):\n\nUsing an AUR helper (such as yay or paru):\n\nDownload and install the latest release:\n\nOr download the .deb file manually from the releases page.\n\nOr download the .rpm file manually from the releases page.\n\nThere is no openSUSE repository for fresh yet, so install the .rpm from the release directly:\n\nEnable the repository as read in Project:GURU/Information for End Users then emerge the package:\n\nOn most systems the universal build is the better choice: same \"runs anywhere\" property, no FUSE dependency, and no mount overhead on each launch. install.sh no longer selects AppImage automatically — pass --method=appimage if you specifically want it.\n\nDownload the .AppImage file from the releases page and run:\n\nFor faster startup (recommended): Extract the AppImage instead of running it directly. This avoids the FUSE mount overhead on each launch (~10x faster):\n\nEnsure ~/.local/bin is in your PATH. Available for x86_64 and aarch64 architectures.\n\nDownload the .flatpak bundle from the releases page and install:\n\nSee flatpak/README.md for building from source.\n\nDownload the latest release for your platform from the releases page.\n\nOn Linux, prefer the -unknown-linux-musl archives: they are statically linked, so they run on any distro regardless of its glibc version, and they are gzipped so a stock tar can unpack them without xz-utils. Every archive carries an install receipt, so an unpacked copy knows how to update itself.\n\nOr try it without installing:\n\nTo install the binary directly without compiling (much faster than crates.io):\n\nFirst, install cargo-binstall if you haven't already\n\nRun without installing:\n\nOr install to your profile:\n\nSee CONTRIBUTING.md for guidelines.\n\nFresh checks for new versions daily to notify you of available upgrades. Alongside this, it sends basic anonymous telemetry (version, OS/architecture, terminal type) to help understand usage patterns. No personal data or file contents are collected.\n\nTo disable both upgrade checks and telemetry, use --no-upgrade-check or set check_for_updates: false in your config.\n\nCopyright (c) Noam Lewis\n\nThis project is licensed under the GNU General Public License v2.0 (GPL-2.0).\n\nTerminal based IDE & text editor: easy, powerful and fast",
+        "fullTranslation": "加载时出现错误。请重新加载此页面。\n\n一款现代、全功能的终端文本编辑器，开箱即用、零配置需求。提供熟悉的键位绑定、鼠标支持以及 IDE 级别的丰富功能——无需任何学习成本。\n\n官方网站 · 文档 · Discord · 贡献指南\n\n快速安装：curl -fsSL https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/scripts/install.sh | sh\n\n为实际生产环境性能打造：Fresh 能够以微不足道的内存开销处理数吉字节（GB）级别的超大文件，且无论文件大小如何，始终提供持续一致的低延迟输入体验。\n\n只需一个快捷键，即可查找文件、运行命令、切换缓冲区以及跳转至任意行。\n\n在独立的工作区（worktree）中启动每个任务，使用方向键在它们之间快速切换，其余任务在后台保持运行。\n\n同时选中并编辑多个匹配项——与你所熟悉的图形界面编辑器工作流完全一致。\n\n即时浏览并应用配色主题。内置完整的设置界面和交互式键位绑定编辑器。\n\n查看更多功能演示：编辑功能（查找与替换、块选择、行排序等） · 生产力工具（文件浏览器、分屏视图、集成终端等） · 主题\n\ncurl -fsSL https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/scripts/install.sh | sh\n\n在 Linux 上，这将安装通用版本：一个可在所有发行版上运行的静态链接二进制文件，解压在 ~/.local 目录下，归当前用户所有。无需 root 权限，且自带自动更新功能——可通过 fresh --cmd update 命令或编辑器内的更新提示进行更新。在 macOS 上则使用 Homebrew。\n\n更倾向于使用你所在发行版的包管理器？可以显式指定：\n\n发行版软件包已得到完全支持——之所以作为可选安装而非默认方式，是因为通过包管理器安装需要 root 权限，且后续更新将交由该包管理器接管。无论选择哪种方式，fresh 都会记录安装途径，并通过对应的机制进行更新。使用 --method=auto 可恢复原有的自动检测行为，运行 install.sh --help 则可列出全部选项。\n\n或者，选择你偏好的安装方式：\n\n适用于 x86_64 和 aarch64 架构的单一静态（musl）二进制文件，内置了包括插件在内的所有功能。它会解压至 ~/.local/share/fresh-editor 并软链接到 ~/.local/bin/fresh；可通过设置 FRESH_INSTALL_DIR / FRESH_BIN_DIR 将其放置在其他路径。请确保 ~/.local/bin 已包含在你的 PATH 环境变量中。\n\n由于没有其他程序占用这些文件，这是 Linux 上唯一能够自我替换的安装版本：运行 fresh --cmd update 会下载最新版本，同时针对其发布的校验和以及 GitHub 的发布认证进行验证，并就地替换二进制文件。\n\n从发布页面手动下载压缩包的工作原理相同——它包含相同的安装凭据，因此手动解压的副本同样支持自我更新。更新时仅会替换二进制文件，若要刷新桌面快捷方式入口和图标，需重新运行安装脚本，而非使用 fresh --cmd update。\n\n在 macOS 以及部分 Linux 发行版（Bazzite/Bluefin/Aurora）上：\n\n注意：在 macOS 上，请参阅《macOS 终端使用技巧》以获取推荐的终端配置。\n\n此外，Windows 用户可以使用 npm。\n\n二进制包（推荐，安装速度更快）：\n\n使用 AUR 助手（如 yay 或 paru）：\n\n下载并安装最新版本：\n\n或者从发布页面手动下载 .deb 文件。\n\n或者从发布页面手动下载 .rpm 文件。\n\n目前尚无适用于 openSUSE 的 fresh 软件源，因此请直接从发布页面安装 .rpm 包：\n\n按照 Project:GURU/Information for End Users 中的说明启用软件源，然后 emerge 安装该软件包：\n\n在大多数系统上，通用版本是更好的选择：具备相同的“随处运行”特性，无需 FUSE 依赖，且每次启动时没有挂载开销。install.sh 不再默认自动选择 AppImage——如果你特别需要，请传入 --method=appimage。\n\n从发布页面下载 .AppImage 文件并运行：\n\n为了获得更快的启动速度（推荐）：提取 AppImage 的内容而不是直接运行它。这样可以避免每次启动时的 FUSE 挂载开销（启动速度提升约 10 倍）：\n\n请确保 ~/.local/bin 已包含在你的 PATH 中。适用于 x86_64 和 aarch64 架构。\n\n从发布页面下载 .flatpak 包并安装：\n\n有关从源码构建的说明，请参阅 flatpak/README.md。\n\n从发布页面下载适用于你平台的最新版本。\n\n在 Linux 上，建议优先选择 -unknown-linux-musl 归档包：它们采用静态链接，因此无论系统的 glibc 版本为何，都可以在任何发行版上运行；且采用了 gzip 压缩，系统自带的原生 tar 即可解压，无需依赖 xz-utils。每个归档包都附带一份安装凭据，因此解压后的副本依然具备自我更新功能。\n\n或者无需安装直接体验：\n\n直接安装二进制文件而无需本地编译（比从 crates.io 安装快得多）：\n\n首先，如果尚未安装 cargo-binstall，请先进行安装：\n\n无需安装直接运行：\n\n或者安装至你的环境配置中：\n\n参与指南请参阅 CONTRIBUTING.md。\n\nFresh 每天会检查一次新版本，以便在新版本发布时向你发送升级通知。与此同时，它会发送基础的匿名遥测数据（版本号、操作系统/架构、终端类型），以协助了解使用习惯与模式。绝不会收集任何个人隐私数据或文件内容。\n\n如需同时禁用升级检查和遥测功能，可使用 --no-upgrade-check 参数，或在配置文件中设置 check_for_updates: false。\n\n版权所有 (c) Noam Lewis\n本项目基于 GNU 通用公共许可证第二版（GPL-2.0）开源授权。\n基于终端的 IDE 与文本编辑器：简易、强大且快速",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 47,
+        "translationParagraphs": 45,
+        "keyTakeaways": [
+          "Fresh 是一款基于终端的现代文本编辑器与集成开发环境（IDE），具备零配置、熟悉键位绑定、鼠标支持等特性。",
+          "Fresh 支持处理数吉字节（multi-gigabyte）大小的文件，内存开销极小且保持低延迟输入。",
+          "来源叙事重点：重点宣传 Fresh 作为一款终端文本编辑器兼 IDE 的易用性（零配置、无学习门槛）、高性能（支持大文件、极低内存和输入延迟）以及跨平台部署的便捷性（静态 musl 二进制、支持无 root 自更新），强调其兼具 GUI 编辑器的操作习惯与终端工具的轻量特性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T11:59:21.000Z",
+            "url": "https://github.com/sinelaw/fresh"
+          }
+        ]
+      },
+      {
+        "id": "story-secret-heroes-ocean-html-a71676e389cb2a60",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tiny cyanobacteria may be the secret heroes of ocean carbon sequestration",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T13:30:01.000Z",
+        "pubTime": "2026-09-12 21:30",
+        "url": "https://phys.org/news/2026-09-tiny-cyanobacteria-secret-heroes-ocean.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-cyanobacteria-may.jpg",
+        "fullContent": "A process known as the biological carbon pump (BCP) moves organic carbon from near the ocean's surface to the ocean floor. That carbon often stays there for hundreds or thousands of years, making the BCP a primary source of carbon sequestration in the oceans. Scientists have thought that relatively large phytoplankton are more efficient at exporting carbon to the deep ocean than tiny cyanobacteria, but new research by Jingjing Zhang and colleagues published in AGU Advances now calls that belief",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 21:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-tiny-cyanobacteria-secret-heroes-ocean.html",
+            "publishedAt": "2026-09-12T13:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2186749-73540528ecb8ebb2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "BRICS business circles show interest in deepening cooperation, Putin says",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T14:10:49.000Z",
+        "pubTime": "2026-09-12 22:10",
+        "url": "https://tass.com/world/2186749",
+        "imageUrl": null,
+        "fullContent": "NEW DELHI, September 12. /TASS/. Business circles are showing interest in deepening economic cooperation between BRICS countries, Russian President Vladimir Putin said at the group’s summit in India.\n\n\"It’s encouraging that we see a keen interest in deepening cooperation between BRICS countries on the economic track from business circles. As you know, we talked about it at the plenary meeting of the Business Forum yesterday,\" he noted.\n\n\"Entrepreneurs, members of the BRICS Business Council, have many different initiatives and proposals aimed at boosting practical cooperation. Ambitious multilateral projects are looming,\" Putin added.\n\nIn conclusion, he stressed that the New Delhi summit confirmed \"broad prospects for joint work to boost mutually beneficial cooperation and increase the effectiveness of the global governance system in order to ensure true multipolarity and justice in global affairs.\".",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯总统弗拉基米尔·普京在印度举行的金砖国家峰会上表示，工商界对深化金砖国家间的经济合作表现出浓厚兴趣。",
+          "普京表示前一日在商业论坛全体会议上讨论了深化金砖国家经济合作的议题。",
+          "来源叙事重点：聚焦普京在印度金砖峰会期间的积极表态，突出金砖国家工商界深化经济合作的浓厚兴趣、潜在的雄心勃勃的多边项目，以及推动全球治理多极化与正义的宏大愿景"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T14:10:49.000Z",
+            "url": "https://tass.com/world/2186749"
+          }
+        ]
+      },
+      {
+        "id": "story--wildwood-stuffed-julian-166a007b3f5fe141",
+        "title": "莱卡定格奇幻动画《野林》画面流畅惊艳",
+        "originalTitle": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T13:00:00.000Z",
+        "pubTime": "2026-09-12 21:00",
+        "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/img-260ce3af-8e70-4401-9a35-9eb971697f7b.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Entertainment\n\nSee All Movie Review\n\nReviews from TIFF 2026: Julian and Stuffed, along with an early look at Laika’s next animated feature.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Andrew Webster\n\nDue to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival — but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year.\n\nEven if you don’t know the name Laika, you probably know the studio’s work; it’s the animation house behind stop-motion hits like ParaNorman, The Boxtrolls, and Kubo and the Two Strings. Over the years Laika’s films have steadily gotten more impressive on both a technical and artistic level. Which brings us to the incredible-looking Wildwood, hitting theaters next month. If you’re unfamiliar, here’s a look:\n\nSome of the crew from Laika was on stage at TIFF to talk about the making of Wildwood, in particular why this film looks more lifelike than the studio’s previous work. There are a few reasons. One has to do with the animation itself, which, as you can see in the trailer, is incredibly smooth in the new film. “We’re in the midst of the evolution of an art form,” Laika’s head of animation Brad Schiff explained. “Because we have digital cameras, we’re able to see what we’re doing; we have what we call frame-grabbers.” This lets Laika’s animators see all of the recently-shot frames as they’re animating, allowing them to track every single movement of a puppet, ensuring everything moves smoothly. “There’s no reason for stuttery animation, other than a stylistic choice,” Schiff said.\n\nThe puppets themselves are also more advanced. They utilize an internal “diaphragm” that Laika calls a breather, which the studio first experimented with on its previous film, 2019’s Missing Link. This time, all of the major puppets are outfitted with breathers, and this lets the animators make characters appear to breathe in a lifelike way, so that they seem more human in the final product.\n\nYou can see some of that in the trailer above, but I was also able to watch a handful of clips from the film, and — despite Laika stressing that they weren’t final — they looked incredible. One showed a fast and tense bike chase through a bustling version of Portland, where Wildwood takes place. There was a speed and tension to it that felt like a live-action sequence. In the movie, a young girl named Prue loses her little brother in an “impassable wilderness” that’s home to a rich fantasy world. In the clips I saw, she did everything from escaping an ornate mansion filled with guard dogs distracted by their own tails, to soaring above a vast landscape while on the back of a giant bird. Wildwood looked as stylish and detailed as you’d expect from a Laika production, but what impressed me the most was how realistic it all felt in motion.\n\nA few other details for those who love numbers: Wildwood features 233 puppets (36 are just versions of Prue), was brought to life by 49 animators, and took 231 weeks from start to finish. It’s in theaters on October 23rd.\n\nAs for the movies I was able to actually catch on day 2 of TIFF, they were both great, but also, could not be more different. One is a sweetly morbid musical, the other a life-affirming family film made with traditional animation. And if you missed my previous TIFF coverage — including films like All of a Sudden and The Only Living Pickpocket in New York — you can check it out right here.\n\nNo theatrical date yet\n\nJulián comes via Irish animation studio Cartoon Saloon, best known for the features Song of the Sea and Wolfwalkers. And it shares much in common with the studio’s previous work, telling the story of a child lost in a world of fantasy. In this case it’s seven-year-old Julián who goes to live with his grandmother in Brooklyn while his dad is on a work trip. Julián is obsessed with ocean life and anything pretty, so when he meets some kids making costumes for an upcoming mermaid parade, joining in becomes his sole focus in life. But his colorful personality often clashes with his more conservative grandmother, and when some boys bully Julián for wearing a mermaid tail, he starts to retreat into himself. Ultimately, Julián is a fairly straightforward tale about being yourself and allowing others to do the same, but it’s told with tremendous style and passion, making it a welcome addition to the studio’s catalog. Plus, the ending is almost guaranteed to make you tear up.\n\nA love story between an eccentric taxidermist and the man who agrees to give up his life in order to fulfill her lifelong dream of stuffing a human. Oh, and also it’s a musical. Stuffed has shades of Sweeney Todd, but despite its macabre premise, it’s much more heartfelt. Barrie (Harry Melling) lives a sad life working at a sandwich factory, collecting obituaries, and caring for his aging mother. But he’s obsessed with being remembered, and when he answers an online ad promising to make him “exceptional,” he meets Araminta (Jodie Comer), whose house is filled with taxidermied animals, but who has also always wanted to take the next step. Their interests, it seems, line up: she wants to stuff a person, he wants to live forever. But as they work together on the weirdo plan, the two become close, complicating the whole killing Barry thing. Stuffed is morbid and occasionally wince-inducing, but it’s also filled with a lot of love and heart, and a not-so-surprising amount of humor.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该话题下的文章将被添加到您的每日邮件摘要和主页推送中。\n查看所有娱乐内容\n查看所有影评\n2026年多伦多国际电影节影评：《朱利安》（Julian）与《标本》（Stuffed），以及抢先预览莱卡工作室（Laika）的下一部动画长片。\n该作者的文章将被添加到您的每日邮件摘要和主页推送中。\n查看安德鲁·韦伯斯特（Andrew Webster）的所有文章\n由于日程安排上的差错，我在多伦多国际电影节（TIFF）的第二天仅观看了两部电影——但我确实抢先预览了今年我最期待的影片之一，并了解到了令人着迷的细节。\n即便你不知道“莱卡”（Laika）这个名字，你也可能熟悉这家工作室的作品；正是这家动画制作公司推出了《通灵男孩诺曼》（ParaNorman）、《盒子怪》（The Boxtrolls）和《魔弦传说》（Kubo and the Two Strings）等定格动画名作。多年来，莱卡的电影无论在技术还是艺术层面上都稳步迈向更高水准。这也引出了即将在下月登陆院线、画面令人惊叹的《野林》（Wildwood）。如果你还不熟悉这部作品，不妨先一睹为快：\n莱卡工作室的部分主创团队登上了多伦多国际电影节的舞台，探讨《野林》的制作幕后，特别是为什么这部影片看起来比工作室以往的作品更加栩栩如生。原因有几个。其一与动画本身有关，正如你在预告片中所见，新片中的动作极其流畅。“我们正处于一门艺术形式演进的浪潮之中，”莱卡动画总监布拉德·希夫（Brad Schiff）解释道，“因为我们拥有数码相机，能够看到自己正在做的事情；我们拥有所谓的‘取帧器’。”这让莱卡的动画师在制作动画的同时，能够查看所有最近拍摄的帧，使他们可以追踪人偶的每一个微小动作，确保所有动态都平滑顺畅。“除了作为一种风格化的选择之外，动画没有任何理由会出现卡顿，”希夫表示。\n人偶本身也更加先进。它们内部配备了一种被莱卡称为“呼吸器”的“隔膜”装置，该工作室最早是在其2019年的前作《遗失的环节》（Missing Link）中试用这一技术的。这一次，所有主要人偶均配备了呼吸器，这让动画师能够使角色呈现出逼真的呼吸动态，从而让它们在成片中显得更具人情味与生命力。\n你可以在上面的预告片中看到部分效果，但我也观看了这部电影的几个片段——尽管莱卡强调这些并非最终版本——它们看起来棒极了。其中一个片段展示了一场穿梭于繁华波特兰街头的高速紧张自行车追逐战，波特兰也是《野林》的故事发生地。这场追逐带有一种宛如真人实拍戏份般的速度感与紧迫感。在电影中，一位名叫普鲁（Prue）的小女孩在一处“无法通行的荒野”中弄丢了弟弟，而那里孕育着一个丰富的奇幻世界。在我看到的片段中，她既从一座装潢华丽、看门狗却被自己的尾巴吸引分心的豪宅中逃脱，又骑在一只巨鸟背上翱翔于辽阔的大地之上。《野林》展现了人们对莱卡出品所期盼的格调与细节，但最让我印象深刻的，是它在动态中呈现出的极高真实感。\n再为喜欢数字的朋友提供一些细节：《野林》共使用了233具人偶（仅普鲁一人就占了36个版本），由49位动画师共同赋予生命，从启动到完工历时231周。该片将于10月23日上映。\n至于我在多伦多国际电影节第二天实际完整观看的两部电影，它们都非常出色，但也截然不同。一部是甜美而阴郁的音乐剧，另一部则是用传统动画制作的温暖励志家庭片。如果你错过了我之前的TIFF报道——包括《突然之间》（All of a Sudden）和《纽约唯一的在世扒手》（The Only Living Pickpocket in New York）等电影——你可以点击这里查看。\n暂无院线上映档期\n《朱利安》出自爱尔兰动画工作室卡通沙龙（Cartoon Saloon），该工作室以长片《海洋之歌》（Song of the Sea）和《狼行者》（Wolfwalkers）而闻名。这部作品与该工作室的以往作品有许多共同之处，讲述了一个迷失在奇幻世界中的孩子的故事。这一次的主角是七岁的朱利安，在父亲出差期间，他搬去布鲁克林与祖母同住。朱利安痴迷于海洋生物和一切美丽的事物，因此当他遇到一些正在为即将到来的美人鱼游行制作服装的孩子时，参与其中便成了他生活中唯一的专注点。但他个性丰富鲜艳，常常与保守的祖母发生冲突；当朱利安因穿戴美人鱼尾巴而遭到一些男孩欺凌时，他开始退缩回自己的内心世界。归根结底，《朱利安》是一个相当直截了当的故事，讲述做真实的自己并允许他人同样如此，但其叙事极具风格与热情，成为该工作室作品名录中令人欣喜的一部力作。此外，结局几乎注定会让你热泪盈眶。\n这是一个讲述一位古怪的标本剥制师与一个男人的爱情故事，后者同意献出自己的生命，以实现她将人类制作成标本的毕生梦想。哦，顺便说一句，这还是一部音乐剧。《标本》带有一丝《理发师陶德》（Sweeney Todd）的影子，但尽管设定毛骨悚然，它却要温情得多。巴里（哈里·梅林 饰）在一家三明治工厂工作，收集讣告，照顾年迈的母亲，生活凄惨。但他极度渴望被人们铭记，当他回应了一则承诺让他变得“与众不同”的网络广告后，遇到了阿拉敏塔（朱迪·科默 饰）。阿拉敏塔的房子里摆满了动物标本，但她一直渴望更进一步。看起来，两人的利益不谋而合：她想把一个人做成标本，他想永生。然而，当他们齐心协力推进这个古怪的计划时，两人逐渐亲近起来，使得“杀死巴里”这整件事变得复杂。尽管《标本》题材病态，偶尔令人心惊肉跳，但它同样洋溢着深厚的爱与温情，并且穿插了意想不到的幽默感。\n为您免费提供最重要的每日新闻摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "莱卡工作室（Laika）制作了定格动画电影《Wildwood》，该片将于10月23日上映。",
+          "《Wildwood》由49位动画师共同制作，耗时231周完成，片中包含233个木偶，其中36个是主角Prue的不同版本。",
+          "来源叙事重点：聚焦2026年多伦多国际电影节（TIFF）现场展映与主创分享，重点关注莱卡工作室新作《Wildwood》在定格动画技术层面的突破（如数码抓帧器、呼吸装置），并提供《Julián》与《Stuffed》两部参展影片的主观观影评价。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T13:00:00.000Z",
+            "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian"
+          }
+        ]
+      },
+      {
+        "id": "story-4-4e59-b773-614f0a5efd58-2255fdc417cf5397",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump says united Ireland ‘inevitable’ and ‘a very cool thing’",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T12:56:24.000Z",
+        "pubTime": "2026-09-12 20:56",
+        "url": "https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe550b8cd-0e20-4e94-9a69-7ebea389c5f1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Off-the-cuff remarks from US president during a visit to Ireland anger pro-UK parties",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 20:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T12:56:24.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ity-of-your-signal-chats-9c3475e7851dc7c0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How Trail of Bits helps verify the integrity of your Signal chats",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T11:28:29.000Z",
+        "pubTime": "2026-09-12 19:28",
+        "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-12 19:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+            "publishedAt": "2026-09-12T11:28:29.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story--gosduma-2117317053-html-98627c1c89688ee4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Госдуме предложили упростить снижение платы за некачественную работу УК",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-12T14:12:19.000Z",
+        "pubTime": "2026-09-12 22:12",
+        "url": "https://ria.ru/20260912/gosduma-2117317053.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/0a/11/1978510294_0:0:3404:1915_650x0_80_0_0_5e180e343bd53cfad588a5386b8f1fe7.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-12 22:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260912/gosduma-2117317053.html",
+            "publishedAt": "2026-09-12T14:12:19.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 将端到端系统托付给 GPT-6 Astra",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 使用 Astra 撰写沟通内容、修改软件并监控生产系统，且与早期模型相比，人工介入核查的频率大幅降低。\n\n作为一家人工智能问答引擎，Perplexity 高度专注于搜索和准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型在编写代码方面每一次取得进步，Perplexity 的搜索引擎也会随之提升。它能够编写出更优秀的程序来检索网络及内部信息，并进行极为简炼的总结。\n\n但 Johnny 认为，真正的挑战在于将这些信息层面的能力应用到现实世界的系统中。而有了 GPT-6 Astra，这一切变得更加容易。\n\n对 Johnny 而言，人工智能最实用的应用之一是测试代码。在手动测试时间有限的情况下，他让 GPT-6 Astra 围绕某个应用程序构建一个小型的测试程序。\n\n该模型会生成类似其他服务所发送的逼真响应，例如语言模型 API 或连接器。通过模拟代指这些服务，该模型能够检查应用程序的响应情况，并从头到尾对整个工作流程进行测试。\n\n工程 2026年9月11日\n应用人工智能 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity 使用 Astra 撰写通信内容、修改软件并监控生产系统，且人工干涉检查频率远低于早期模型。",
+          "Perplexity 是一家专注于搜索与准确性的 AI 驱动问答引擎。",
+          "来源叙事重点：通过行业头部 AI 搜索企业 Perplexity 高管的积极评价，突出 GPT-6 Astra 在端到端系统工程、自动化代码测试和生产监控方面的自主性与可靠性，塑造下一代模型具备高度可信度的商业形象。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-en-is-that-fair-b647a4bd-88afb9c0ca07728c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T14:01:00.000Z",
+        "pubTime": "2026-09-12 22:01",
+        "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Over the years, my mother and I have supplemented his income.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-12 22:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-12T14:01:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-atham-117201594980991062-f1cae18e741b77c4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Linux Zoom Client Proactively Reads X11 Clipboard",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T12:38:53.000Z",
+        "pubTime": "2026-09-12 20:38",
+        "url": "https://hachyderm.io/@simontatham/117201594980991062",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-12 20:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://hachyderm.io/@simontatham/117201594980991062",
+            "publishedAt": "2026-09-12T12:38:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-cal-quantum-machine-html-1d7e289a520b85b7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Physicists turn classical light into a quantum machine for information processing",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T14:00:01.000Z",
+        "pubTime": "2026-09-12 22:00",
+        "url": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-turn-light.jpg",
+        "fullContent": "Quantum computers promise to tackle problems that are extraordinarily difficult for today's computers. But there is a major obstacle: quantum systems are notoriously fragile. Noise, loss and even tiny disturbances can destroy the delicate behavior that gives them their power. Building systems with many quantum particles is also extremely challenging.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 22:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-physicists-classical-quantum-machine.html",
+            "publishedAt": "2026-09-12T14:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2186753-f7c6e9b10ecd6ad7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "BRICS calls for ending economic blockade of Cuba",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T14:11:45.000Z",
+        "pubTime": "2026-09-12 22:11",
+        "url": "https://tass.com/world/2186753",
+        "imageUrl": null,
+        "fullContent": "NEW DELHI, September 12. /TASS/. BRICS nations called for ending economic, commercial and financial measures against Cuba in the New Delhi Declaration adopted at the group’s summit in India.\n\n\"We reiterate the necessity of ending the economic, commercial and financial measures against Cuba in accordance with UNGA Resolution,\" the document said.\n\nBRICS leaders expressed \"deep concern on the situation relating to Cuba due to the tightening of unilateral blockade measures against the country, their adverse effects on the Cuban economy, energy supplies and the worrying humanitarian impact on the Cuban people.\".",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "金砖国家在印度举行的峰会上通过《新德里宣言》，呼吁结束对古巴的经济、商业和金融措施。",
+          "《新德里宣言》重申有必要根据联合国大会决议结束对古巴的经济、商业和金融措施。",
+          "来源叙事重点：聚焦金砖国家新德里峰会《新德里宣言》对古巴的支持，突出金砖机制依据联大决议反对单边封锁、呼吁保障古巴经济与民生权益的多边主义叙事。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T14:11:45.000Z",
+            "url": "https://tass.com/world/2186753"
+          }
+        ]
+      },
+      {
+        "id": "story-ding-is-over-get-over-it-92e87d26ea1a1584",
+        "title": "编码已成过去，坦然接受吧",
+        "originalTitle": "Coding Is Over. Get over It",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T13:16:38.000Z",
+        "pubTime": "2026-09-12 21:16",
+        "url": "https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./",
+        "imageUrl": null,
+        "fullContent": "I’m a software engineer at JPMorgan Chase. I have more than 15 years of experience in building software and I used to love it. These are my own observations, not the firm’s position. JPMC is a very large company, and what I observe from my vantage point not be true at all. AI is pervasive company wide, and the how people work with AI varies a lot (we’re all learning to use it…). There are some guardrails in place that are very sane for a large bank, but I’m fortunate to be in a place that lets me experiment a lot. Costs are high, but the firm can afford it, and it may be a good investment to let people learn how to use the tools first, even if expensive, and think about costs later. It’s hard to know right now if the investment will pay dividends or not.\n\nWith high costs, there is a high pressure as well to show they are worth it. The problem I have is that I don’t know how you’d measure the ROI even if you wanted to. Are engineering teams generating more value than they’re spending on AI? Hard to say. Would the same work have been cheaper without it? Probably. Would it be done much slower? Maybe. Could it have been done just as well with a cheaper model? To my knowledge nobody has actually run that experiment.\n\nThe performance of a single engineer has always been difficult to measure, and AI hasn’t changed that — it’s just added a new variable. Whenever I hear “we built this with AI in a 50% more efficient way,” I say “BS”. Unless that number is backed by something more rigorous than a number you made up, you don’t have a clue.\n\nMy current opinion is that AI is a major enabler. It has let me do things I genuinely couldn’t have done without it. While I’ve had extensive experience building apps, the infrastructure side was still a new field for me, particularly terraform. With AI agents I have more confidence in what they output and their assessment of the plan diff than what I would have alone, with my limited expertise. Whether that was worth the cost, I still don’t know and maybe never will.\n\nA trend worth keeping up with are cheap, small models, which are getting genuinely good. GPT 5.6 Luna, with max reasoning, was a big surprise to me. I predict we’re not far from a point where AI inference cost becomes close to irrelevant for many use cases. A rounding error rather than a cost item. If that happens, I think the bigger revolution won’t be in coding at all. It’ll be everywhere else. All that can be automated, just by asking your computer…\n\nThat said, if anyone tells you with confidence what the future looks like from here, they’re guessing. Including me. Nobody actually knows.\n\nI need to keep reminding myself of this: Model capabilities are evolving so fast that what was true last month may not be true today. It’s hard to keep up to date even when you work with it every day. Recently the head of Claude Code, Boris Cherny, said to delete all your AGENTS.md Claude.md files and just see what the models can do nowadays. I agree, many of the rules and nudges I used to need to give to my agents are no longer necessary. The pace of change seems to be accelerating and it is scary.\n\nI considered myself an above-average coder but AI now codes better and faster than me. I say that with something close to grief. For 15 years I’ve been grinding and perfecting my craft towards excellence. That’s no longer necessary. My process for learning a new domain or technology used to be modeling it in code: build to learn. That’s not really how I learn anymore, and I miss it. I’m finding it hard to change but It no longer makes economic sense to write all the code by hand, so increasingly I don’t.\n\nNot long ago I used to use AI as a great typing assistant, to make the speed of getting ideas from my head to the text editor. These days I only need to state the goals, and the app/script/answer just magically appears. I fear that my capacity to read and really understand code will atrophy since AI can now do research and answer any specific question I have in seconds, without any effort from me. I used to say that lazy developers are good developers because they will write automations for grunt work. Not sure if lazy is good these days because lazy developers will just be conduits for “AI Brains”.\n\nI used to go deep on one problem at a time but now the expectation, implicit or explicit, is to parallelize across several threads at once. That kind of parallelization drains me in a way that sequential deep work never did. I think I could go back to depth-first work if models were fast enough to keep pace with a single train of thought. They have a higher throughput than me but the latency per turn is still high enough that single-threading feels wasteful. While I’m very happy with the kinds of things that AI has enabled me to do (it really is a force multiplier), I’m not sure I will be able to keep this kind of multi-threading in a sustained way. Maybe I’ll adapt. I don’t know…\n\nCoding is over. get over it.\n\nThere are good developers, mediocre developers, and bad developers, and the good ones are still hard to find. The best developers I’ve worked with are never the single-minded coding obsessives. They can clearly explain their POV, and rally others to join them on a mission. They are well-rounded people with a good balance of agreeableness and assertiveness. This was true before AI, and it’s more true now, because coding itself is no longer a scarce thing. Software development IS NOT CODING so I’m still hopeful about the future of my profession. AI will certainly be a “better than average” programmer. The baseline will be much higher. Everyone needs to skill-up to stay relevant.\n\nMy concern for the near future is that it is possible that the jobs that AI is taking first are the ones that were entry level positions, where you’d go to actually learn the trade. Learning will start to be something you must want to do, and work hard towards. To my children I’ll try to make them knowledgeable all around, knowing both the hard and the soft sciences. History as well as biology. Philosophy as well as math.",
+        "fullTranslation": "我是摩根大通（JPMorgan Chase）的一名软件工程师。我在软件构建领域拥有超过15年的经验，而且我曾深爱这项工作。以下仅为我个人的观察，不代表公司立场。摩根大通是一家体量庞大的公司，从我的视角所见到的情况可能根本不具备普遍性。AI 在全公司范围内已经无孔不入，而人们使用 AI 的方式各不相同（我们都在摸索着如何使用它……）。公司设立了一些对于大型银行来说非常合理的防范机制，但我很幸运能身处一个允许我进行大量实验的部门。成本虽然高昂，但公司承担得起，而且让员工先学会如何使用这些工具可能是一项不错的投资，即便价格不菲，以后再去考虑成本也不迟。目前很难知晓这项投资最终是否能带来回报。\n\n伴随着高昂成本而来的，还有证明其物有所值的巨大压力。我面临的问题在于，即便你想去衡量投资回报率（ROI），我也不知道该如何衡量。工程团队创造的价值是否超过了他们在 AI 上的花费？很难说。如果不借助 AI，同样的开发工作会更便宜吗？大概率是的。如果不用 AI 会慢得多吗？或许吧。如果换用更廉价的模型能做得同样好吗？据我所知，实际上还没有人做过这个实验。\n\n单名工程师的绩效历来难以衡量，AI 并没有改变这一点——它只是增加了一个新变量。每当我听到有人说“我们用 AI 把效率提升了 50%”，我都会说“胡扯”。除非这个数字背后有比你凭空捏造更严谨的依据，否则你根本就是一无所知。\n\n我目前的看法是，AI 是一个强大的赋能工具。它让我做成了如果没有它我真切无法完成的事情。虽然我在构建应用程序方面经验丰富，但基础设施层面对我而言仍是一个全新领域，尤其是 Terraform。有了 AI Agent，我对它们产出的内容以及它们对计划差异（plan diff）的评估所抱有的信心，比仅凭我自己有限的专业知识所做出的判断要充足得多。这是否对得起投入的成本，我目前仍然不知道，也许永远也不会知道。\n\n一个值得持续关注的趋势是廉价的小型模型，它们正变得真正优秀起来。具备极致推理能力的 GPT 5.6 Luna 让我大为震惊。我预测，用不了多久，在许多应用场景中，AI 的推理成本将变得微不足道——不再是一笔需要单列的成本项目，而更像是一笔舍入尾差。如果真的到了那一天，我认为更大的变革根本不会发生在编码领域，而是会出现在其他所有地方。凡是能被自动化的事物，只要向你的电脑开口吩咐一声就能完成……\n\n话虽如此，如果有人自信满满地告诉你从现在看未来的走向，那他们不过是在猜测而已。包括我自己也是如此。实际上没有人真正知道答案。\n\n我需要不断提醒自己这一点：模型能力的演进速度如此之快，以至于上个月还成立的事情今天可能就不再适用了。哪怕你每天都在与它打交道，也很难跟上最新的变化。最近 Claude Code 的负责人鲍里斯·切尔尼（Boris Cherny）表示，把你们所有的 AGENTS.md 和 Claude.md 文件统统删掉吧，直接看看现在的模型能做到什么水平。我深表赞同，过去我常常需要给智能体设定的许多规则与微调提示，如今都不再必要了。变革的步伐似乎正在加快，令人不寒而栗。\n\n我曾自认为是一名中等偏上的程序员，但 AI 现在写代码比我更好、更快。我是带着近乎悲伤的心情说出这番话的。15年来，我一直在日复一日地磨炼自己的手艺、追求卓越。而这已经不再必要了。过去我学习一个新领域或新技术的过程是通过代码对其进行建模：在构建中学习。如今我的学习方式已经不再是这样了，我很怀念那种感觉。我发现自己很难去改变，但全凭手动去写所有代码在经济层面上已经不再合理，因此我越来越少亲手编写代码了。\n\n就在不久前，我还把 AI 当作一个极佳的打字助手，用来加快把脑海中的想法转化为文本编辑器里代码的速度。而如今，我只需要陈述目标，相应的应用程序、脚本或答案就会奇迹般地直接出现。我担心自己阅读和真正理解代码的能力会退化，因为 AI 现在可以在几秒钟内替我调研并解答任何具体问题，无需我付出任何努力。我过去常说，懒惰的开发者才是优秀的开发者，因为他们会为了繁琐的杂活编写自动化程序。现在我不确定懒惰是否还是好事，因为懒惰的开发者最终只会沦为“AI大脑”的传声筒。\n\n我过去习惯于一次深入钻研一个问题，但现在的期望——不论是暗含的还是明说的——是在多个线程上同时并行推进。这种并行化工作方式消耗我精力的方式，是以往串行深度工作从未有过的。我认为如果模型的响应速度足够快，能够跟上单个思维流的节奏，我或许还能回归深度优先的工作模式。它们的吞吐量虽然比我高，但每一轮交互的延迟仍然高到让单线程工作感觉像是在浪费时间。虽然我很高兴看到 AI 让我能够完成很多事情（它确实是一个力量倍增器），但我不知道自己是否能长期维持这种多线程工作状态。也许我会逐渐适应。我不知道……\n\n编码已经终结。坦然接受吧。\n\n开发者有优秀、平庸和糟糕之分，而优秀的开发者仍然千金难求。与我共事过的最顶尖的开发者，从来都不是那些一门心思沉迷于写代码的偏执狂。他们能够清晰阐述自己的观点，并能凝聚他人为了共同的目标而并肩作战。他们是全面发展的人，在亲和力与果断自信之间保持着良好的平衡。在 AI 出现之前便是如此，如今更是如此，因为编写代码本身已经不再是稀缺资源。软件开发绝非仅仅是写代码，因此我对我的职业前景依然抱有希望。AI 肯定会成为一个“高于平均水平”的程序员。行业基准线将会大幅提高。每个人都需要提升技能以保持自身竞争力。\n\n我对不久将来的担忧在于，AI 最先取代的职位很可能是那些初级岗位——而那些岗位正是你过去实际去学习手艺的地方。学习将变成一件你必须主动想要去做、并为之刻苦努力的事情。对于我的孩子们，我会努力让他们成为博学多才的人，兼通硬科学与软科学。既懂历史，也懂生物；既懂哲学，也懂数学。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "作者是摩根大通（JPMorgan Chase）的软件工程师，拥有超过15年的软件构建经验。",
+          "摩根大通全公司范围内普遍应用了AI，但设有针对大型银行的合理安全防线。",
+          "来源叙事重点：探讨AI对软件开发范式的颠覆性重构，指出传统‘手写代码’的时代已经终结且经济上不再划算，同时剖析AI研发ROI难以量化、工程师工作模式被多线程高压消耗，以及初级职位萎缩导致人才培养断层等深层隐忧。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T13:16:38.000Z",
+            "url": "https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./"
+          }
+        ]
+      },
+      {
+        "id": "story-his-a-good-idea-a2748ccc-d665127f2dd14c04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T13:00:00.000Z",
+        "pubTime": "2026-09-12 21:00",
+        "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-12 21:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-12T13:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-sinelaw-fresh-67704a81305b8c45",
+        "title": "fresh：基于终端的 IDE 与文本编辑器：简易、强大且快速",
+        "originalTitle": "fresh: Terminal based IDE & text editor: easy, powerful and fast",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T11:59:21.000Z",
+        "pubTime": "2026-09-12 19:59",
+        "url": "https://github.com/sinelaw/fresh",
+        "imageUrl": null,
+        "fullContent": "There was an error while loading. Please reload this page.\n\nA modern, full-featured terminal text editor, with zero configuration. Familiar keybindings, mouse support, and IDE-level features — no learning curve required.\n\nOfficial Website · Documentation · Discord · Contributing\n\nQuick Install: curl -fsSL https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/scripts/install.sh | sh\n\nBuilt for real-world performance: Fresh handles multi-gigabyte files with negligible memory overhead and delivers consistently low-latency input, regardless of file size.\n\nOne shortcut to find files, run commands, switch buffers, and jump to any line.\n\nStart each task in its own worktree, hop between them with an arrow key, and leave the rest running.\n\nSelect and edit multiple occurrences simultaneously — the same workflow you know from graphical editors.\n\nBrowse and apply color themes instantly. Full settings UI and interactive keybinding editor included.\n\nSee more feature demos: Editing (search & replace, block selection, sort lines, ...) · Productivity (file explorer, split view, integrated terminal, ...) · Themes\n\ncurl -fsSL https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/scripts/install.sh | sh\n\nOn Linux this installs the universal build: one statically linked binary that runs on every distro, unpacked under ~/.local, owned by you. It needs no root, and it updates itself — fresh --cmd update, or the update prompt in the editor. On macOS it uses Homebrew.\n\nPrefer your distro's package manager? Ask for it explicitly:\n\nPackages are fully supported — they are opt-in rather than the default because installing one needs root and hands updates to that package manager. fresh records how it was installed either way, and updates through that same mechanism. --method=auto restores the old autodetecting behaviour, and install.sh --help lists everything.\n\nOr, pick your preferred method:\n\nA single static (musl) binary for x86_64 and aarch64 with every feature compiled in, including plugins. It unpacks to ~/.local/share/fresh-editor and symlinks ~/.local/bin/fresh; set FRESH_INSTALL_DIR / FRESH_BIN_DIR to put them elsewhere. Ensure ~/.local/bin is in your PATH.\n\nBecause nothing else owns these files, this is the one Linux install that can replace itself: fresh --cmd update downloads the next release, verifies it against both its published checksum and GitHub's release attestation, and swaps the binary in place.\n\nDownloading the archive by hand from the releases page works the same way — it ships the same install receipt, so a hand-unpacked copy self-updates too. Only the binary is swapped on update, so the desktop entry and icons are refreshed by re-running the installer, not by fresh --cmd update.\n\nOn macOS and some linux distros (Bazzite/Bluefin/Aurora):\n\nNote: On macOS, see macOS Terminal Tips for recommended terminal configuration.\n\nAlternatively, Windows users can use npm.\n\nBinary package (recommended, faster install):\n\nUsing an AUR helper (such as yay or paru):\n\nDownload and install the latest release:\n\nOr download the .deb file manually from the releases page.\n\nOr download the .rpm file manually from the releases page.\n\nThere is no openSUSE repository for fresh yet, so install the .rpm from the release directly:\n\nEnable the repository as read in Project:GURU/Information for End Users then emerge the package:\n\nOn most systems the universal build is the better choice: same \"runs anywhere\" property, no FUSE dependency, and no mount overhead on each launch. install.sh no longer selects AppImage automatically — pass --method=appimage if you specifically want it.\n\nDownload the .AppImage file from the releases page and run:\n\nFor faster startup (recommended): Extract the AppImage instead of running it directly. This avoids the FUSE mount overhead on each launch (~10x faster):\n\nEnsure ~/.local/bin is in your PATH. Available for x86_64 and aarch64 architectures.\n\nDownload the .flatpak bundle from the releases page and install:\n\nSee flatpak/README.md for building from source.\n\nDownload the latest release for your platform from the releases page.\n\nOn Linux, prefer the -unknown-linux-musl archives: they are statically linked, so they run on any distro regardless of its glibc version, and they are gzipped so a stock tar can unpack them without xz-utils. Every archive carries an install receipt, so an unpacked copy knows how to update itself.\n\nOr try it without installing:\n\nTo install the binary directly without compiling (much faster than crates.io):\n\nFirst, install cargo-binstall if you haven't already\n\nRun without installing:\n\nOr install to your profile:\n\nSee CONTRIBUTING.md for guidelines.\n\nFresh checks for new versions daily to notify you of available upgrades. Alongside this, it sends basic anonymous telemetry (version, OS/architecture, terminal type) to help understand usage patterns. No personal data or file contents are collected.\n\nTo disable both upgrade checks and telemetry, use --no-upgrade-check or set check_for_updates: false in your config.\n\nCopyright (c) Noam Lewis\n\nThis project is licensed under the GNU General Public License v2.0 (GPL-2.0).\n\nTerminal based IDE & text editor: easy, powerful and fast",
+        "fullTranslation": "加载时出现错误。请重新加载此页面。\n\n一款现代、全功能的终端文本编辑器，开箱即用、零配置需求。提供熟悉的键位绑定、鼠标支持以及 IDE 级别的丰富功能——无需任何学习成本。\n\n官方网站 · 文档 · Discord · 贡献指南\n\n快速安装：curl -fsSL https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/scripts/install.sh | sh\n\n为实际生产环境性能打造：Fresh 能够以微不足道的内存开销处理数吉字节（GB）级别的超大文件，且无论文件大小如何，始终提供持续一致的低延迟输入体验。\n\n只需一个快捷键，即可查找文件、运行命令、切换缓冲区以及跳转至任意行。\n\n在独立的工作区（worktree）中启动每个任务，使用方向键在它们之间快速切换，其余任务在后台保持运行。\n\n同时选中并编辑多个匹配项——与你所熟悉的图形界面编辑器工作流完全一致。\n\n即时浏览并应用配色主题。内置完整的设置界面和交互式键位绑定编辑器。\n\n查看更多功能演示：编辑功能（查找与替换、块选择、行排序等） · 生产力工具（文件浏览器、分屏视图、集成终端等） · 主题\n\ncurl -fsSL https://raw.githubusercontent.com/sinelaw/fresh/refs/heads/master/scripts/install.sh | sh\n\n在 Linux 上，这将安装通用版本：一个可在所有发行版上运行的静态链接二进制文件，解压在 ~/.local 目录下，归当前用户所有。无需 root 权限，且自带自动更新功能——可通过 fresh --cmd update 命令或编辑器内的更新提示进行更新。在 macOS 上则使用 Homebrew。\n\n更倾向于使用你所在发行版的包管理器？可以显式指定：\n\n发行版软件包已得到完全支持——之所以作为可选安装而非默认方式，是因为通过包管理器安装需要 root 权限，且后续更新将交由该包管理器接管。无论选择哪种方式，fresh 都会记录安装途径，并通过对应的机制进行更新。使用 --method=auto 可恢复原有的自动检测行为，运行 install.sh --help 则可列出全部选项。\n\n或者，选择你偏好的安装方式：\n\n适用于 x86_64 和 aarch64 架构的单一静态（musl）二进制文件，内置了包括插件在内的所有功能。它会解压至 ~/.local/share/fresh-editor 并软链接到 ~/.local/bin/fresh；可通过设置 FRESH_INSTALL_DIR / FRESH_BIN_DIR 将其放置在其他路径。请确保 ~/.local/bin 已包含在你的 PATH 环境变量中。\n\n由于没有其他程序占用这些文件，这是 Linux 上唯一能够自我替换的安装版本：运行 fresh --cmd update 会下载最新版本，同时针对其发布的校验和以及 GitHub 的发布认证进行验证，并就地替换二进制文件。\n\n从发布页面手动下载压缩包的工作原理相同——它包含相同的安装凭据，因此手动解压的副本同样支持自我更新。更新时仅会替换二进制文件，若要刷新桌面快捷方式入口和图标，需重新运行安装脚本，而非使用 fresh --cmd update。\n\n在 macOS 以及部分 Linux 发行版（Bazzite/Bluefin/Aurora）上：\n\n注意：在 macOS 上，请参阅《macOS 终端使用技巧》以获取推荐的终端配置。\n\n此外，Windows 用户可以使用 npm。\n\n二进制包（推荐，安装速度更快）：\n\n使用 AUR 助手（如 yay 或 paru）：\n\n下载并安装最新版本：\n\n或者从发布页面手动下载 .deb 文件。\n\n或者从发布页面手动下载 .rpm 文件。\n\n目前尚无适用于 openSUSE 的 fresh 软件源，因此请直接从发布页面安装 .rpm 包：\n\n按照 Project:GURU/Information for End Users 中的说明启用软件源，然后 emerge 安装该软件包：\n\n在大多数系统上，通用版本是更好的选择：具备相同的“随处运行”特性，无需 FUSE 依赖，且每次启动时没有挂载开销。install.sh 不再默认自动选择 AppImage——如果你特别需要，请传入 --method=appimage。\n\n从发布页面下载 .AppImage 文件并运行：\n\n为了获得更快的启动速度（推荐）：提取 AppImage 的内容而不是直接运行它。这样可以避免每次启动时的 FUSE 挂载开销（启动速度提升约 10 倍）：\n\n请确保 ~/.local/bin 已包含在你的 PATH 中。适用于 x86_64 和 aarch64 架构。\n\n从发布页面下载 .flatpak 包并安装：\n\n有关从源码构建的说明，请参阅 flatpak/README.md。\n\n从发布页面下载适用于你平台的最新版本。\n\n在 Linux 上，建议优先选择 -unknown-linux-musl 归档包：它们采用静态链接，因此无论系统的 glibc 版本为何，都可以在任何发行版上运行；且采用了 gzip 压缩，系统自带的原生 tar 即可解压，无需依赖 xz-utils。每个归档包都附带一份安装凭据，因此解压后的副本依然具备自我更新功能。\n\n或者无需安装直接体验：\n\n直接安装二进制文件而无需本地编译（比从 crates.io 安装快得多）：\n\n首先，如果尚未安装 cargo-binstall，请先进行安装：\n\n无需安装直接运行：\n\n或者安装至你的环境配置中：\n\n参与指南请参阅 CONTRIBUTING.md。\n\nFresh 每天会检查一次新版本，以便在新版本发布时向你发送升级通知。与此同时，它会发送基础的匿名遥测数据（版本号、操作系统/架构、终端类型），以协助了解使用习惯与模式。绝不会收集任何个人隐私数据或文件内容。\n\n如需同时禁用升级检查和遥测功能，可使用 --no-upgrade-check 参数，或在配置文件中设置 check_for_updates: false。\n\n版权所有 (c) Noam Lewis\n本项目基于 GNU 通用公共许可证第二版（GPL-2.0）开源授权。\n基于终端的 IDE 与文本编辑器：简易、强大且快速",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 47,
+        "translationParagraphs": 45,
+        "keyTakeaways": [
+          "Fresh 是一款基于终端的现代文本编辑器与集成开发环境（IDE），具备零配置、熟悉键位绑定、鼠标支持等特性。",
+          "Fresh 支持处理数吉字节（multi-gigabyte）大小的文件，内存开销极小且保持低延迟输入。",
+          "来源叙事重点：重点宣传 Fresh 作为一款终端文本编辑器兼 IDE 的易用性（零配置、无学习门槛）、高性能（支持大文件、极低内存和输入延迟）以及跨平台部署的便捷性（静态 musl 二进制、支持无 root 自更新），强调其兼具 GUI 编辑器的操作习惯与终端工具的轻量特性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T11:59:21.000Z",
+            "url": "https://github.com/sinelaw/fresh"
+          }
+        ]
+      },
+      {
+        "id": "story-secret-heroes-ocean-html-a71676e389cb2a60",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tiny cyanobacteria may be the secret heroes of ocean carbon sequestration",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T13:30:01.000Z",
+        "pubTime": "2026-09-12 21:30",
+        "url": "https://phys.org/news/2026-09-tiny-cyanobacteria-secret-heroes-ocean.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-cyanobacteria-may.jpg",
+        "fullContent": "A process known as the biological carbon pump (BCP) moves organic carbon from near the ocean's surface to the ocean floor. That carbon often stays there for hundreds or thousands of years, making the BCP a primary source of carbon sequestration in the oceans. Scientists have thought that relatively large phytoplankton are more efficient at exporting carbon to the deep ocean than tiny cyanobacteria, but new research by Jingjing Zhang and colleagues published in AGU Advances now calls that belief",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-12 21:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-tiny-cyanobacteria-secret-heroes-ocean.html",
+            "publishedAt": "2026-09-12T13:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2186749-73540528ecb8ebb2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "BRICS business circles show interest in deepening cooperation, Putin says",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T14:10:49.000Z",
+        "pubTime": "2026-09-12 22:10",
+        "url": "https://tass.com/world/2186749",
+        "imageUrl": null,
+        "fullContent": "NEW DELHI, September 12. /TASS/. Business circles are showing interest in deepening economic cooperation between BRICS countries, Russian President Vladimir Putin said at the group’s summit in India.\n\n\"It’s encouraging that we see a keen interest in deepening cooperation between BRICS countries on the economic track from business circles. As you know, we talked about it at the plenary meeting of the Business Forum yesterday,\" he noted.\n\n\"Entrepreneurs, members of the BRICS Business Council, have many different initiatives and proposals aimed at boosting practical cooperation. Ambitious multilateral projects are looming,\" Putin added.\n\nIn conclusion, he stressed that the New Delhi summit confirmed \"broad prospects for joint work to boost mutually beneficial cooperation and increase the effectiveness of the global governance system in order to ensure true multipolarity and justice in global affairs.\".",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯总统弗拉基米尔·普京在印度举行的金砖国家峰会上表示，工商界对深化金砖国家间的经济合作表现出浓厚兴趣。",
+          "普京表示前一日在商业论坛全体会议上讨论了深化金砖国家经济合作的议题。",
+          "来源叙事重点：聚焦普京在印度金砖峰会期间的积极表态，突出金砖国家工商界深化经济合作的浓厚兴趣、潜在的雄心勃勃的多边项目，以及推动全球治理多极化与正义的宏大愿景"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T14:10:49.000Z",
+            "url": "https://tass.com/world/2186749"
+          }
+        ]
+      },
+      {
+        "id": "story--wildwood-stuffed-julian-166a007b3f5fe141",
+        "title": "莱卡定格奇幻动画《野林》画面流畅惊艳",
+        "originalTitle": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T13:00:00.000Z",
+        "pubTime": "2026-09-12 21:00",
+        "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/img-260ce3af-8e70-4401-9a35-9eb971697f7b.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Entertainment\n\nSee All Movie Review\n\nReviews from TIFF 2026: Julian and Stuffed, along with an early look at Laika’s next animated feature.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Andrew Webster\n\nDue to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival — but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year.\n\nEven if you don’t know the name Laika, you probably know the studio’s work; it’s the animation house behind stop-motion hits like ParaNorman, The Boxtrolls, and Kubo and the Two Strings. Over the years Laika’s films have steadily gotten more impressive on both a technical and artistic level. Which brings us to the incredible-looking Wildwood, hitting theaters next month. If you’re unfamiliar, here’s a look:\n\nSome of the crew from Laika was on stage at TIFF to talk about the making of Wildwood, in particular why this film looks more lifelike than the studio’s previous work. There are a few reasons. One has to do with the animation itself, which, as you can see in the trailer, is incredibly smooth in the new film. “We’re in the midst of the evolution of an art form,” Laika’s head of animation Brad Schiff explained. “Because we have digital cameras, we’re able to see what we’re doing; we have what we call frame-grabbers.” This lets Laika’s animators see all of the recently-shot frames as they’re animating, allowing them to track every single movement of a puppet, ensuring everything moves smoothly. “There’s no reason for stuttery animation, other than a stylistic choice,” Schiff said.\n\nThe puppets themselves are also more advanced. They utilize an internal “diaphragm” that Laika calls a breather, which the studio first experimented with on its previous film, 2019’s Missing Link. This time, all of the major puppets are outfitted with breathers, and this lets the animators make characters appear to breathe in a lifelike way, so that they seem more human in the final product.\n\nYou can see some of that in the trailer above, but I was also able to watch a handful of clips from the film, and — despite Laika stressing that they weren’t final — they looked incredible. One showed a fast and tense bike chase through a bustling version of Portland, where Wildwood takes place. There was a speed and tension to it that felt like a live-action sequence. In the movie, a young girl named Prue loses her little brother in an “impassable wilderness” that’s home to a rich fantasy world. In the clips I saw, she did everything from escaping an ornate mansion filled with guard dogs distracted by their own tails, to soaring above a vast landscape while on the back of a giant bird. Wildwood looked as stylish and detailed as you’d expect from a Laika production, but what impressed me the most was how realistic it all felt in motion.\n\nA few other details for those who love numbers: Wildwood features 233 puppets (36 are just versions of Prue), was brought to life by 49 animators, and took 231 weeks from start to finish. It’s in theaters on October 23rd.\n\nAs for the movies I was able to actually catch on day 2 of TIFF, they were both great, but also, could not be more different. One is a sweetly morbid musical, the other a life-affirming family film made with traditional animation. And if you missed my previous TIFF coverage — including films like All of a Sudden and The Only Living Pickpocket in New York — you can check it out right here.\n\nNo theatrical date yet\n\nJulián comes via Irish animation studio Cartoon Saloon, best known for the features Song of the Sea and Wolfwalkers. And it shares much in common with the studio’s previous work, telling the story of a child lost in a world of fantasy. In this case it’s seven-year-old Julián who goes to live with his grandmother in Brooklyn while his dad is on a work trip. Julián is obsessed with ocean life and anything pretty, so when he meets some kids making costumes for an upcoming mermaid parade, joining in becomes his sole focus in life. But his colorful personality often clashes with his more conservative grandmother, and when some boys bully Julián for wearing a mermaid tail, he starts to retreat into himself. Ultimately, Julián is a fairly straightforward tale about being yourself and allowing others to do the same, but it’s told with tremendous style and passion, making it a welcome addition to the studio’s catalog. Plus, the ending is almost guaranteed to make you tear up.\n\nA love story between an eccentric taxidermist and the man who agrees to give up his life in order to fulfill her lifelong dream of stuffing a human. Oh, and also it’s a musical. Stuffed has shades of Sweeney Todd, but despite its macabre premise, it’s much more heartfelt. Barrie (Harry Melling) lives a sad life working at a sandwich factory, collecting obituaries, and caring for his aging mother. But he’s obsessed with being remembered, and when he answers an online ad promising to make him “exceptional,” he meets Araminta (Jodie Comer), whose house is filled with taxidermied animals, but who has also always wanted to take the next step. Their interests, it seems, line up: she wants to stuff a person, he wants to live forever. But as they work together on the weirdo plan, the two become close, complicating the whole killing Barry thing. Stuffed is morbid and occasionally wince-inducing, but it’s also filled with a lot of love and heart, and a not-so-surprising amount of humor.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该话题下的文章将被添加到您的每日邮件摘要和主页推送中。\n查看所有娱乐内容\n查看所有影评\n2026年多伦多国际电影节影评：《朱利安》（Julian）与《标本》（Stuffed），以及抢先预览莱卡工作室（Laika）的下一部动画长片。\n该作者的文章将被添加到您的每日邮件摘要和主页推送中。\n查看安德鲁·韦伯斯特（Andrew Webster）的所有文章\n由于日程安排上的差错，我在多伦多国际电影节（TIFF）的第二天仅观看了两部电影——但我确实抢先预览了今年我最期待的影片之一，并了解到了令人着迷的细节。\n即便你不知道“莱卡”（Laika）这个名字，你也可能熟悉这家工作室的作品；正是这家动画制作公司推出了《通灵男孩诺曼》（ParaNorman）、《盒子怪》（The Boxtrolls）和《魔弦传说》（Kubo and the Two Strings）等定格动画名作。多年来，莱卡的电影无论在技术还是艺术层面上都稳步迈向更高水准。这也引出了即将在下月登陆院线、画面令人惊叹的《野林》（Wildwood）。如果你还不熟悉这部作品，不妨先一睹为快：\n莱卡工作室的部分主创团队登上了多伦多国际电影节的舞台，探讨《野林》的制作幕后，特别是为什么这部影片看起来比工作室以往的作品更加栩栩如生。原因有几个。其一与动画本身有关，正如你在预告片中所见，新片中的动作极其流畅。“我们正处于一门艺术形式演进的浪潮之中，”莱卡动画总监布拉德·希夫（Brad Schiff）解释道，“因为我们拥有数码相机，能够看到自己正在做的事情；我们拥有所谓的‘取帧器’。”这让莱卡的动画师在制作动画的同时，能够查看所有最近拍摄的帧，使他们可以追踪人偶的每一个微小动作，确保所有动态都平滑顺畅。“除了作为一种风格化的选择之外，动画没有任何理由会出现卡顿，”希夫表示。\n人偶本身也更加先进。它们内部配备了一种被莱卡称为“呼吸器”的“隔膜”装置，该工作室最早是在其2019年的前作《遗失的环节》（Missing Link）中试用这一技术的。这一次，所有主要人偶均配备了呼吸器，这让动画师能够使角色呈现出逼真的呼吸动态，从而让它们在成片中显得更具人情味与生命力。\n你可以在上面的预告片中看到部分效果，但我也观看了这部电影的几个片段——尽管莱卡强调这些并非最终版本——它们看起来棒极了。其中一个片段展示了一场穿梭于繁华波特兰街头的高速紧张自行车追逐战，波特兰也是《野林》的故事发生地。这场追逐带有一种宛如真人实拍戏份般的速度感与紧迫感。在电影中，一位名叫普鲁（Prue）的小女孩在一处“无法通行的荒野”中弄丢了弟弟，而那里孕育着一个丰富的奇幻世界。在我看到的片段中，她既从一座装潢华丽、看门狗却被自己的尾巴吸引分心的豪宅中逃脱，又骑在一只巨鸟背上翱翔于辽阔的大地之上。《野林》展现了人们对莱卡出品所期盼的格调与细节，但最让我印象深刻的，是它在动态中呈现出的极高真实感。\n再为喜欢数字的朋友提供一些细节：《野林》共使用了233具人偶（仅普鲁一人就占了36个版本），由49位动画师共同赋予生命，从启动到完工历时231周。该片将于10月23日上映。\n至于我在多伦多国际电影节第二天实际完整观看的两部电影，它们都非常出色，但也截然不同。一部是甜美而阴郁的音乐剧，另一部则是用传统动画制作的温暖励志家庭片。如果你错过了我之前的TIFF报道——包括《突然之间》（All of a Sudden）和《纽约唯一的在世扒手》（The Only Living Pickpocket in New York）等电影——你可以点击这里查看。\n暂无院线上映档期\n《朱利安》出自爱尔兰动画工作室卡通沙龙（Cartoon Saloon），该工作室以长片《海洋之歌》（Song of the Sea）和《狼行者》（Wolfwalkers）而闻名。这部作品与该工作室的以往作品有许多共同之处，讲述了一个迷失在奇幻世界中的孩子的故事。这一次的主角是七岁的朱利安，在父亲出差期间，他搬去布鲁克林与祖母同住。朱利安痴迷于海洋生物和一切美丽的事物，因此当他遇到一些正在为即将到来的美人鱼游行制作服装的孩子时，参与其中便成了他生活中唯一的专注点。但他个性丰富鲜艳，常常与保守的祖母发生冲突；当朱利安因穿戴美人鱼尾巴而遭到一些男孩欺凌时，他开始退缩回自己的内心世界。归根结底，《朱利安》是一个相当直截了当的故事，讲述做真实的自己并允许他人同样如此，但其叙事极具风格与热情，成为该工作室作品名录中令人欣喜的一部力作。此外，结局几乎注定会让你热泪盈眶。\n这是一个讲述一位古怪的标本剥制师与一个男人的爱情故事，后者同意献出自己的生命，以实现她将人类制作成标本的毕生梦想。哦，顺便说一句，这还是一部音乐剧。《标本》带有一丝《理发师陶德》（Sweeney Todd）的影子，但尽管设定毛骨悚然，它却要温情得多。巴里（哈里·梅林 饰）在一家三明治工厂工作，收集讣告，照顾年迈的母亲，生活凄惨。但他极度渴望被人们铭记，当他回应了一则承诺让他变得“与众不同”的网络广告后，遇到了阿拉敏塔（朱迪·科默 饰）。阿拉敏塔的房子里摆满了动物标本，但她一直渴望更进一步。看起来，两人的利益不谋而合：她想把一个人做成标本，他想永生。然而，当他们齐心协力推进这个古怪的计划时，两人逐渐亲近起来，使得“杀死巴里”这整件事变得复杂。尽管《标本》题材病态，偶尔令人心惊肉跳，但它同样洋溢着深厚的爱与温情，并且穿插了意想不到的幽默感。\n为您免费提供最重要的每日新闻摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "莱卡工作室（Laika）制作了定格动画电影《Wildwood》，该片将于10月23日上映。",
+          "《Wildwood》由49位动画师共同制作，耗时231周完成，片中包含233个木偶，其中36个是主角Prue的不同版本。",
+          "来源叙事重点：聚焦2026年多伦多国际电影节（TIFF）现场展映与主创分享，重点关注莱卡工作室新作《Wildwood》在定格动画技术层面的突破（如数码抓帧器、呼吸装置），并提供《Julián》与《Stuffed》两部参展影片的主观观影评价。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-12T13:00:00.000Z",
+            "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian"
+          }
+        ]
+      },
+      {
+        "id": "story-4-4e59-b773-614f0a5efd58-2255fdc417cf5397",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump says united Ireland ‘inevitable’ and ‘a very cool thing’",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T12:56:24.000Z",
+        "pubTime": "2026-09-12 20:56",
+        "url": "https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe550b8cd-0e20-4e94-9a69-7ebea389c5f1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Off-the-cuff remarks from US president during a visit to Ireland anger pro-UK parties",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-12 20:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-12T12:56:24.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ity-of-your-signal-chats-9c3475e7851dc7c0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How Trail of Bits helps verify the integrity of your Signal chats",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-12T11:28:29.000Z",
+        "pubTime": "2026-09-12 19:28",
+        "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-12 19:28 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+            "publishedAt": "2026-09-12T11:28:29.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789192652482,
     "timeDisplay": "2026-09-12 13:57 (UTC+8)",
     "date": "2026-09-12",
