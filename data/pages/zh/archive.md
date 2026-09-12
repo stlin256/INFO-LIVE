@@ -16,21 +16,35 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-12 · 今日](/INFO-LIVE/archive-2026-09-12/)
+- [2026-09-13 · 今日](/INFO-LIVE/archive-2026-09-13/)
+- [2026-09-12 · 历史快照](/INFO-LIVE/archive-2026-09-12/)
 - [2026-09-11 · 历史快照](/INFO-LIVE/archive-2026-09-11/)
 - [2026-09-10 · 历史快照](/INFO-LIVE/archive-2026-09-10/)
 - [2026-09-09 · 历史快照](/INFO-LIVE/archive-2026-09-09/)
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **26** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **27** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-12 22:16 (UTC+8)
+- **最新归档时间**：2026-09-13 01:19 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-13 01:19 (UTC+8)" title="全球要闻情报简报 · 01:19" org="ARCHIVE"}
+**速报纪要：** 本小时内，突发灾难与国际政治社会动态备受关注：菲律宾巴拉望省附近海域客船起火事故已确认76人遇难，搜救工作持续进行；德国约20个城市爆发约15万人参与的游行抗议极右翼政党；同时，人工智能领域在自主化应用扩展与安全风险管控两方面持续引发讨论。
+
+**关键信号：** 菲律宾海岸警卫队通报巴拉望海域客船起火事故最新进展，遇难人数升至76人，13人失联，43人获救。；德国约20个城市约15万人走上街头，抗议德国选择党（AfD）在萨克森-安哈尔特州选举中获胜并寻求组建二战后首个极右翼州政府。；AI研发与应用前沿出现分化讨论：一方面企业借助Astra等模型提升编码与生产监控自动化，另一方面业内高管（如Amodei）对AI模型可能造成的严重全球危害表达担忧并发出呼吁。；塞尔维亚贝尔格莱德举行第二届“Mangia. Dona. Ama.”意大利美食与慈善节，意大利驻塞尔维亚大使与民间机构共同促进慈善合作。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/ukraina-2117338203.html) <span class="news-meta-time">🕒 2026-09-13 01:13</span>
+- [OpenAI News (官方动态)] [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html) <span class="news-meta-time">🕒 2026-09-13 01:00</span>
+- [Lobste.rs (极客思想社区)] [除了写代码，AI智能体还能做哪些实用的事](https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code) <span class="news-meta-time">🕒 2026-09-12 23:56</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-salivary-glands-hidden-cell-stress.html) <span class="news-meta-time">🕒 2026-09-13 00:30</span>
+- [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd) <span class="news-meta-time">🕒 2026-09-13 01:12</span>
+:::
 :::timeline-item{start="2026-09-12 22:16 (UTC+8)" title="全球要闻情报简报 · 22:16" org="ARCHIVE"}
 **速报纪要：** 本小时内，金砖国家及国际多边合作持续受到关注，涉及金砖领导人对古巴局势与单边封锁的表态、中国宣布主办下一届峰会以及多边合作项目的推进；俄方外交高层亦提及对乌对话立场与善意姿态。科技领域方面，Perplexity正在内部运维与开发中引入Astra模型以提升自动化水平。
 
