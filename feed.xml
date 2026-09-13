@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title><![CDATA[InfoLive]]></title>
+    <link>https://stlin256.github.io/INFO-LIVE/</link>
+    <description><![CDATA[InfoLive | 全球全源信息流与 AI 实时要闻矩阵：聚合世界主流通讯社、前沿科技社区、金融时政与学术前沿，每小时由 AI 深度提炼、内化总结与事件追踪。]]></description>
+    <language>zh</language>
+    <lastBuildDate>Sun, 13 Sep 2026 01:09:39 GMT</lastBuildDate>
+    <atom:link rel="self" type="application/rss+xml" href="https://stlin256.github.io/INFO-LIVE/feed.xml"/>
+
+  </channel>
+</rss>
