@@ -1,0 +1,1564 @@
+[
+  {
+    "timestamp": 1789319182343,
+    "timeDisplay": "2026-09-14 01:06 (UTC+8)",
+    "date": "2026-09-14",
+    "runId": "feed-20260913T165934496Z-8xkq9e",
+    "generatedAt": "2026-09-13T17:06:22.343Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 00:59",
+      "lead": "本轮抓取于 2026-09-14 00:59 (UTC+8) 完成，共获得 27 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论：唐纳德·特朗普进入访问爱尔兰的第二天，他当天在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，出席爱尔兰公开赛。",
+        "【undefined】Perplexity 在端到端系统中信赖并应用 GPT-6 Astra：Perplexity 使用 Astra 来撰写沟通文稿、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。",
+        "【undefined】如果我的 Git 托管平台是一个静态网站生成器会怎样？：隆重介绍：sorcery，代码魔法之地（the source-ery）…… 截至目前，我运行个人 Git 平台（git forge）已经差不多有半辈子了 :o 我喜欢运行自己的开发基础设施，不仅是因为我与 us-east-1 之间总是有 120 毫秒以上的延迟，更是因为做系统管理简直纯粹就是好玩 :3 2015 年我搭建了一个 Gogs 实例，后来变成了 Gitea 实例，再后来又变成了 Forgejo 实例；我还曾多次为我加入的各种团",
+        "【undefined】奥巴马敦促民主党就人工智能安全保障制定“明确计划”：据《纽约时报》报道，美国前总统巴拉克·奥巴马近日表示，民主党人需要将人工智能列为其“核心议程”之一，并“制定一个非常明确的计划”，以应对有关该技术对经济影响和安全性的担忧。",
+        "【undefined】Golang 开发者应该尝试 Odin：英灵殿漫游指南（The Hitchhiker’s Guide to Valhalla） 2024 年 10 月 24 日 · 阅读时长 14 分钟 （警告：本文可能引发不适） 我使用 Golang 已经 10 年了，尽管我也尝试过其他编程语言，但因为它的简洁性，我总是会重新回到它身边。 它如此简单，以至于当我刚接触 Golang 时，仅靠阅读源码和动手实践就掌握了它的大部分语法。 然而，不得不承认，由于垃圾回收器（GC）和运行时的存在，",
+        "【undefined】邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧：邮轮乘客们正在就出海度假游客之间的一个热门话题展开激烈辩论。",
+        "【undefined】TechCrunch 出行专栏：Lyft 加入自动驾驶出租车（Robotaxi）群聊：本周，随着 Waymo 的自动驾驶出租车（robotaxi）在其位于纳什维尔的应用程序上线，Lyft 迎来了一个新的里程碑。根据合作协议，Lyft 通过其全资子公司 Flexdrive 负责车队服务（例如车辆准备与维护）以及基础设施和车辆运营中心的运作。",
+        "【undefined】遭受性侵后重返校园的学生：“第二天你照样得回学校，只能默默承受”：同侪之间的暴力正在不断增加。但当学校必须兼顾对受害者和加害者双方的照护义务时，那些不得不在性侵阴影下继续求学的女孩们又该何去何从？"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章目录证据不足，暂无法形成可靠日尺度分析",
+      "lead": "当前主文章缺少标题、来源、发布时间、正文及引用证据；相关目录仅提供少量英文摘要，且标题尚未完成翻译，因此无法据此确认明确的新闻主题或趋势。",
+      "themes": [
+        {
+          "name": "信息不完整",
+          "analysis": "证据包显示主文章内容状态为缺失，事实、引述、实体、冲突和引用均为空。相关文章中仅有零散摘要，涉及人工智能系统、美国总统言论及邮轮礼仪等不同话题，缺乏足够证据支持统一主题判断。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 81,
+      "completedTasks": 81,
+      "succeeded": 64,
+      "degraded": 17,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 81,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 407781,
+      "byRole": {
+        "translator": {
+          "attempts": 53,
+          "succeeded": 37,
+          "degraded": 16
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 81,
+          "succeeded": 64,
+          "degraded": 17
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-10-translator-0",
+      "article-15-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-21-translator-0",
+      "article-27-translator-0",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-31-translator-0",
+      "article-31-translator-1",
+      "article-32-translator-0",
+      "article-32-translator-1",
+      "article-33-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:15.682Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.104Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:15.694Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.163Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.692Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.752Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.752Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.854Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.662Z",
+        "lastSuccessAt": "2026-09-13T16:59:19.500Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.648Z",
+        "lastSuccessAt": "2026-09-13T16:59:19.148Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:19.334Z",
+        "lastSuccessAt": "2026-09-13T16:59:19.486Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:15.894Z",
+        "lastSuccessAt": "2026-09-13T16:59:15.981Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.905Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.945Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.854Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.930Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.382Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.808Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.163Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.795Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.093Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.222Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.104Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.631Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:18.878Z",
+        "lastSuccessAt": "2026-09-13T16:59:19.348Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.841Z",
+        "lastSuccessAt": "2026-09-13T16:59:19.586Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:18.703Z",
+        "lastSuccessAt": "2026-09-13T16:59:18.878Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.930Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.230Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.673Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.692Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.631Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.673Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:15.867Z",
+        "lastSuccessAt": "2026-09-13T16:59:15.894Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:14.919Z",
+        "lastSuccessAt": "2026-09-13T16:59:15.867Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.222Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.382Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.118Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.479Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.954Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.043Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.190Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.344Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.456Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.841Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.913Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.954Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:18.891Z",
+        "lastSuccessAt": "2026-09-13T16:59:21.682Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.230Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.286Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.479Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.662Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.466Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.507Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.511Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.665Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:19.148Z",
+        "lastSuccessAt": "2026-09-13T16:59:19.334Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.795Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.849Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.945Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.648Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.065Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.190Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.507Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.722Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-13T16:59:17.382Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.344Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.753Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:14.917Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.998Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.467Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.511Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:14.918Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.466Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.665Z",
+        "lastSuccessAt": "2026-09-13T16:59:19.539Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.043Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.118Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:15.981Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.093Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.286Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.456Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.998Z",
+        "lastSuccessAt": "2026-09-13T16:59:17.065Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.722Z",
+        "lastSuccessAt": "2026-09-13T16:59:18.703Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:17.753Z",
+        "lastSuccessAt": "2026-09-13T16:59:18.891Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.849Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.905Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:16.808Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.913Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:14.902Z",
+        "lastSuccessAt": "2026-09-13T16:59:15.682Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:14.915Z",
+        "lastSuccessAt": "2026-09-13T16:59:15.694Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T16:59:14.916Z",
+        "lastSuccessAt": "2026-09-13T16:59:16.382Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-ws-articles-cx2z79n0eeno-49eac2969b438776",
+        "title": "访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论",
+        "originalTitle": "Trump doubles down on united Ireland comments on day two of visit",
+        "source": "BBC World (英国BBC官方英文)",
+        "sourceSlug": "bbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:57:58.000Z",
+        "pubTime": "2026-09-14 00:57",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a6/live/33fb3fc0-af7e-11f1-913a-7151f234deb3.jpg",
+        "fullContent": "Donald Trump is on day two of the visit to Ireland where he will spend the day at Trump International Golf Links in Doonbeg, County Clare, for the Irish Open\n\nPresident Donald Trump has doubled down on his support for a united Ireland.\n\nHe's on day two of a visit, which he is spending at Trump International Golf Links in Doonbeg, County Clare, for the Irish Open.\n\nOn Saturday, Trump told reporters he would love to see a united Ireland while at a meeting with the Taoiseach (Irish PM) Micheál Martin in Dublin.\n\nSpeaking on Sunday at his Doonbeg golf resort, he said it would be natural to put Ireland and Northern Ireland \"together\".\n\nHe spoke to reporters after watching the tournament leader Irish golfer Shane Lowry tee off.\n\nHe described what he said about a united Ireland as \"a fairly routine comment\".\n\nThis video can not be played\n\nWatch: Trump says Northern Ireland joining Ireland only natural\n\n\"I've always loved the people of Ireland. It just seems to me you have Northern Ireland and Ireland,\" he said\n\n\"It seems that one of the naturals of all time is to put them together.\n\n\"That's only my opinion, and by the way many people agree.\"\n\nThe president sidestepped a question about Scottish independence.\n\n\"I won't talk about Scotland yet I will save that,\" he said.\n\nAsked about Prime Minister Andy Burnham's remarks that there would be no poll on Irish unity until a majority in Northern Ireland were likely to vote in favour, Mr Trump added: \"Everybody says that and then things happen.\"\n\nTrump's comments on a united Ireland may have targeted audience across the Atlantic\n\nWhat's next after Donald Trump's united Ireland comments?\n\nThe taoiseach said the president's remarks did not come as a \"surprise\" to him.\n\nSpeaking on Sunday at The Open, Martin referred to Trump asking about a \"merger\" of Northern Ireland and the Republic of Ireland at an event in Washington during the Saint Patrick's Day celebrations, which some believed to be a comment on unity.\n\n\"He would make the point this is his view. He believes unity is the logical way for the island to be configured and organised,\" Martin said.\n\nHe added: \"I think some of the reaction is an overreaction. It shouldn't be a surprise. He takes a different sort of perspective on things.\"\n\nTrump will hand over the winner's trophy on Sunday at the Trump International golf resort in Doonbeg before flying back to the US at the end of a two-day itinerary.\n\nMore than 10,000 people marched through Dublin on Saturday to show their opposition to the US president.\n\nOthers protesting against the visit have been arriving in buses to Doonbeg on Sunday, with about 100 protesters present.\n\nA small crowd were moved from the president's hotel by Gardai (Irish police), Irish broadcaster RTÉ is reporting.\n\nOn Saturday evening, three women were arrested for trespassing on the golf links at Doonbeg and appeared at a special sitting of Ennis District Court.\n\nRev Steven Foster, a Methodist minister from Galway, attended the anti-Trump protest in Doonbeg.\n\n\"I'm here because Trump is the exact opposite of everything I stand for as a follower of Jesus,\" he told BBC News NI.\n\nRev Steven Foster is in Doonbeg to protest against the visit\n\nFoster added: \"As a church leader, it's important for me to be visible, and the church needs to be visible in this regard.\"\n\nFoster said the \"type of welcome he has been given sends out a terrible message\".\n\nMartin Kelly, who's a business owner, says the golf course is a \"massive business\" for Doonbeg\n\nHowever, others have praised Trump for the benefits and jobs his golf course brings to the local area.\n\nMartin Kelly is a local businessman from Doonbeg and said the village is \"very fortunate\" to have the Trump International Golf Course.\n\n\"It's a massive employer here to be honest with you,\" he told BBC News NI.\n\n\"There's nothing else about here at that scale; they're very decent people to work for, they're very fair.\"\n\nHe said local people are \"very proud\" that the golf tournament is taking place there.\n\n\"We're not into politics here, we're into business. And it's a massive business to us. Doonbeg is one of the best links course in the world. Donald Trump isn't perfect but look he's not doing a bad job either.\n\n\"Hopefully Shane Lowry can win now with the help of God, and hopefully he can come to Doonbeg afterwards for a beer, I'll buy him one if he does.\"\n\nPublican Seoirse Comerford says the golf course gives \"a big boost\" to the local economy\n\nSeoirse Comerford owns the Comerford bar in Doonbeg. He described the tournament as \"unbelievable\".\n\n\"If you look at the red double decker buses going up and down the street full of people, we never thought we would have seen the like of that.\"\n\nHe said the golf course is a big employer and is keeping Doonbeg \"alive\".\n\n\"Most rural villages in west Clare are all dying a death, young people going away to college, they don't come back.\n\n\"Like there's over 300 people employed up there at the golf course , it's a big boost to the local economy. You've got big companies in Dublin, like Intel, the golf course is our Intel down here.\n\n\"I probably wouldn't have taken over the bar business other than the golf course being up there.\n\n\"We would have had 1,000 plus through the pub on Saturday night and the same Friday night, so there's a lot of people around the village, which is great to see.\"\n\nUnited Ireland would be a 'great thing', says Trump during first day of Irish visit\n\nTrump jokes about united Ireland comments\n\nFrom JFK to Biden, Trump joins well-trodden path to the Emerald Isle",
+        "fullTranslation": "唐纳德·特朗普进入访问爱尔兰的第二天，他当天在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，出席爱尔兰公开赛。\n\n唐纳德·特朗普总统再次坚定表达了他对统一爱尔兰的支持。\n\n目前他正处于访问的第二天，这一天他在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，现场观看爱尔兰公开赛。\n\n周六，特朗普在都柏林与爱尔兰总理迈克尔·马丁会晤时对记者表示，他非常乐见一个统一的爱尔兰。\n\n周日，他在自己的敦贝格高尔夫度假村发表讲话时表示，将爱尔兰和北爱尔兰“合在一起”是顺理成章的。\n\n在观看暂列赛事榜首的爱尔兰高尔夫球手肖恩·劳瑞开球后，他对记者发表了上述讲话。\n\n他把自己关于统一爱尔兰的表态形容为“一句相当寻常的评论”。\n\n该视频无法播放\n\n观看：特朗普称北爱尔兰加入爱尔兰是顺理成章的事\n\n他说：“我一直热爱爱尔兰人民。在我看来，既然有北爱尔兰和爱尔兰。”\n\n“将它们结合在一起，似乎一直以来都是再自然不过的事情之一。”\n\n“这只是我个人的看法，顺便说一句，很多人都同意这一点。”\n\n这位总统回避了有关苏格兰独立的问题。\n\n“我暂时不会谈论苏格兰，我会留到以后再说，”他说。\n\n当被问及英国首相安迪·伯纳姆关于“在北爱尔兰大多数人可能投赞成票之前不会举行关于爱尔兰统一的公投”的言论时，特朗普先生补充道：“大家都会这么说，但随后事情就会发生。”\n\n特朗普关于统一爱尔兰的言论可能瞄准了大西洋彼岸的受众\n\n唐纳德·特朗普发表统一爱尔兰言论后下一步会如何？\n\n爱尔兰总理表示，总统的言论并没有让他感到“意外”。\n\n周日在公开赛现场发表讲话时，马丁提到特朗普在圣帕特里克节庆祝活动期间于华盛顿举行的一场活动中曾询问北爱尔兰与爱尔兰共和国“合并”一事，有人认为这是对统一的看法。\n\n“他会申明这是他的观点。他认为统一是爱尔兰岛布局和构建的符合逻辑的方式，”马丁说。\n\n他补充道：“我认为部分反应有些过激了。这不应该让人感到意外。他对事情有着不同寻常的视角。”\n\n特朗普将于周日在敦贝格的特朗普国际高尔夫度假村颁发冠军奖杯，随后在结束为期两天的行程后乘机返回美国。\n\n周六，超过1万人游行穿过都柏林，抗议这位美国总统的到访。\n\n其他抗议此次访问的人士在周日乘坐大巴陆续抵达敦贝格，现场聚集了大约100名抗议者。\n\n据爱尔兰广播电视台（RTÉ）报道，爱尔兰警察（Gardai）将一小群人从总统下榻的酒店前劝离。\n\n周六晚间，三名女性因非法闯入敦贝格高尔夫球场而被捕，并在恩尼斯地区法院的特别庭审中出庭。\n\n来自戈尔韦的循道宗牧师史蒂文·福斯特牧师参加了敦贝格的反特朗普抗议活动。\n\n“我来到这里是因为作为耶稣的追随者，特朗普与我所坚持的一切完全相反，”他告诉BBC北爱尔兰分台。\n\n史蒂文·福斯特牧师在敦贝格抗议此次访问\n\n福斯特补充道：“作为教会领袖，我站出来非常重要，教会在这方面也需要表明立场。”\n\n福斯特表示，“给予他的这种礼遇释放了一个极其糟糕的信号”。\n\n企业主马丁·凯利表示，高尔夫球场对敦贝格来说是“一桩巨大的产业”\n\n然而，其他人则对特朗普的高尔夫球场给当地带来的利益和就业机会表示赞赏。\n\n来自敦贝格的当地商人马丁·凯利表示，该村拥有特朗普国际高尔夫球场“非常幸运”。\n\n“实话实说，它在这里是一个体量巨大的雇主，”他告诉BBC北爱尔兰分台。\n\n“这附近没有其他如此规模的企业了；他们是非常体面的雇主，也非常公平。”\n\n他表示，当地人对这里能举办高尔夫锦标赛感到“非常自豪”。\n\n“我们在这里不谈政治，我们谈的是商业。这对我们来说是一笔巨大的生意。敦贝格是世界上最好的林克斯球场之一。唐纳德·特朗普并不完美，但他做得其实也还不错。”\n\n“希望在上帝的保佑下肖恩·劳瑞现在能够夺冠，也希望他赛后能来敦贝格喝杯啤酒，如果他来的话我请客。”\n\n酒吧老板肖尔斯·默福德表示高尔夫球场为当地经济提供了“巨大的提振”\n\n肖尔斯·默福德在敦贝格拥有默福德酒吧。他将这场锦标赛形容为“令人难以置信”。\n\n“如果你看看街上载满乘客来来往往的红色双层巴士，我们从没想过能见到这样的景象。”\n\n他表示，高尔夫球场是一个大型雇主，正让敦贝格保持“活力”。\n\n“克莱尔西部的大多数乡村都在走向衰败，年轻人外出读大学后就不再回来了。”\n\n“高尔夫球场那里雇用了300多人，这是对当地经济的巨大促进。都柏林有像英特尔这样的大公司，而在我们这里，高尔夫球场就是我们的英特尔。”\n\n“如果不是因为高尔夫球场坐落在那儿，我可能根本不会接手这家酒吧生意。”\n\n“周六晚上我们酒吧接待了1000多人，周五晚上也是一样，所以村里到处都是人，看到这幅景象真的很棒。”\n\n统一的爱尔兰将是“一件好事”，特朗普在访问爱尔兰第一天表示\n\n特朗普就统一爱尔兰言论开玩笑\n\n从肯尼迪到拜登，特朗普重踏通往“翡翠岛”的熟悉足迹",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 50,
+        "translationParagraphs": 50,
+        "keyTakeaways": [
+          "特朗普在访问爱尔兰的第二天再次表达了对爱尔兰统一的支持，并表示将爱尔兰和北爱尔兰联合起来是顺理成章的（natural）。",
+          "周六在都柏林与爱尔兰总理米歇尔·马丁会晤时，特朗普对记者表示乐见一个统一的爱尔兰。",
+          "来源叙事重点：聚焦唐纳德·特朗普在访问爱尔兰期间再次表态支持‘爱尔兰统一’，突显其言论对英爱地缘政治传统的触动，并对比了都柏林及敦贝格的大规模抗议与当地商业依托高尔夫球场获得的经济利益。"
+        ],
+        "citations": [
+          {
+            "source": "BBC World (英国BBC官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:57:58.000Z",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 在端到端系统中信赖并应用 GPT-6 Astra",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 使用 Astra 来撰写沟通文稿、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。\n\n作为一款人工智能驱动的回答引擎，Perplexity 高度专注于搜索和准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之改善。它能够编写出更优质的程序来检索网络及内部信息，并进行高度精炼的总结。\n\n但据 Johnny 表示，真正的挑战在于将这些信息维度的能力应用到真实世界的系统之中。而在 GPT-6 Astra 的助力下，这一过程变得更加轻松。\n\n对 Johnny 而言，人工智能最实用的应用之一是代码测试。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕某个应用程序构建一个小型测试程序。\n\n该模型能生成逼真的响应，就像其他外部服务发送的一样，例如某个语言模型 API 或连接器。通过代行这些服务的功能，该模型能够检查应用程序如何响应，并从头至尾测试整个工作流。\n\n工程 | 2026年9月11日\n应用AI | 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用Astra编写通信、修改软件并监控生产系统，且检查频率远低于早期模型。",
+          "Johnny Ho是Perplexity的联合创始人兼首席战略官。",
+          "来源叙事重点：强调GPT-6 Astra在端到端系统中的高可靠性与自主性，以知名AI搜索客户Perplexity的应用经验和高管背书，展示模型在代码编写、模拟测试及生产系统监控方面的生产力提升。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-g-is-that-legal-02143710-e44821b877a15f25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:30:00.000Z",
+        "pubTime": "2026-09-14 00:30",
+        "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-14 00:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-13T16:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-6-09-sorcery-repo-viewer-df2bc97da00eedfa",
+        "title": "如果我的 Git 托管平台是一个静态网站生成器会怎样？",
+        "originalTitle": "what if my git host were a static site generator?",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:10:06.000Z",
+        "pubTime": "2026-09-14 00:10",
+        "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+        "imageUrl": null,
+        "fullContent": "introducing: sorcery, the source-ery..\n\ni have been running several personal git forges for, at this point, almost half my life :o i like running my own dev infrastructure, not only because i’m almost always 120ms+ away from us-east-1, but because sysadmin is just plain fun :3 in 2015 i had a Gogs instance which became a Gitea instance which became a Forgejo instance, and i’ve also deployed GitLab/Forgejo several other times for various groups i’ve been a member of. i like the communal collaborative git forge, and Forgejo is great at this!\n\nbut my Forgejo server keeps running out of disk space (from crashing while repacking git repos that haven’t updated) and falling over / OOMing under ambient scraper load. for my needs it’s clear that this is just the wrong size of thing: on the tiny machines i use for personal infrastructure, the software can’t stand up to the internet’s cosmic microwave background radiation.\n\ni also kinda wanna simplify my experience by only exposing features i’ll actually use: Forgejo and its ilk do way more than i need them to: issues, PRs, releases, wikis - a bunch of GitHub feature-compatibility that i don’t care about, and pay some sort of cost for anyway :(\n\nthe usual antidote prescribed for Forgejo resource exhaustion is to block scrapers via a web application firewall like Anubis, which aims to gate access to the webapp behind a JavaScript proof of work challenge.\n\nbut this is counter to, like, the philosophy of the open web, right? the browser, ostensibly the “user agent”, is coerced into user-unfriendly behavior, executing near-useless code that taxes the user’s device (the point of the challenge is to spin!) - were it to refuse, no user-relevant information could be displayed at all. alternative browsers that don’t support JavaScript (or just don’t support JITted JavaScript) are either completely blocked off or locked behind a truly intrusive wait time. this deepens the oligoculture of the modern web, which i think is a bad thing.\n\nadditionally, deployment of such a thing is an admission of defeat - we surrender to the assumption that the fronted application does not work correctly when met with real-world internet traffic: isn’t this kind of ridiculous when we have a workload where reads so heavily outnumber writes? serving write-sparse data ought to be super cheap in practice: all of github pages ran on one machine for years!! why not have a git host where everything is static files?\n\nat its core, sorcery is shaped like a static site generator: when it receives an update to a git repo, it will rebuild a bunch of on-disk HTML for that repo - an overview page, the directory tree the tip commit of each branch, and syntax-highlighted source code renderings for each file in the tips. this allows us to pay a fixed upfront cost for serving many future requests, which means we are resilient against scraper load (because a sendfile-and-forget has basically negligible cost). however, since it would be expensive to render out HTML ahead of time for every revision of every file, we choose not to serve static historical views of the repo.\n\nrepo history viewing is an integral feature of a git web interface, though, so we serve the .git directory directly, implement a basic read-only git client in JavaScript, and then client-side render all the “rich views” of the repository - the repo site generator does also need to emit some supplementary JSON data to aid the git client, since we can’t reliably list directories in the git repo, but that’s still static!\n\nsince browsing around history can mean many fetches to different objects (commits, trees [i.e. repo directory listings], blobs [i.e. file contents]), a high-latency connection can cause direct object fetching and traversal to feel really slow. even moreso when git stores these objects compressed in delta-encoded packfiles: a naïve fetch of a packfile index in linux.git to view the diff of one commit would use over 400MiB of bandwidth!! and smartly scanning ranges would kill cache hit rates and also waterfall out to a bunch of requests that depend on the data in prior requests.\n\nso, as a non-static optimization1, we also provide a serverside route to fetch specific git objects by a list of object IDs (QUERY /<user>/<repo>/obj), returning a simple binary “git object bundle” format which gets trivially parsed on the client. this alleviates the burden of navigating packfiles on the client. additionally, even for loose object repos, we can still optimize roundtrips by providing “smart fetch” modes which traverse for referenced oids for a given access pattern (e.g. traversing commit history via commit.parent->parent->parent->…, or accessing all blobs in the trees of a pair of commits in order to diff them).\n\nso sorcery is a “git repo viewer” and not a “git forge” because it omits user accounts, ssh/gpg key management, and issues+patches entirely. in fact, sorcery proper is entirely read-only! repos are only ever written via git over ssh, which is separate to sorcery. you can run sorcery-ssh as your git user’s ssh ForceCommand, and it will provide “autocreate repo on first push” + the ability to edit repo descriptions. the benefit of this setup is that your public deployment is as secure as its sshd, which is reassuring in big 26 :)\n\nhistorical views do require JavaScript, but i’m not super into blanket js allergy on the web (because unless you live in Ashburn, running UI code on-device is basically always better!) - sorcery uses my own frontend microframework + a bunch of built-in web platform affordances + intentional codesplitting to create a rich clientside experience in a super lightweight manner! e.g. loading a project overview page transfers about 9kb of gzipped JS to support recent commit pagination / language filtering / links through to commit diffs - the largest part of the site ends up being the syntax highlighting grammars; i think i want to try writing a pure-javascript executor for tree-sitter grammars and queries so that we can shed some of the WASM weight (especially from the code that gets repackaged in each highlight language’s WASM bundle).\n\ni still like the communal git forge!! for my personal projects, i mostly just want somewhere to push code that i can browse from my phone / link to people: i don’t need collaborative features, and it’s much more lightweight this way. reading my code should never involve a ceremony of proof to the server that you’re worthy of receiving hypertext.\n\nin the near-term i want to add support for CI annotations (which i am opinionated about, and will talk about in a future blog post!! smash that RSS button) & maybe in the future i’ll extend the repo viewer into a discrete, more batteries-included forge project that i can use with my friends (once we really distill down to what’s most important to us and what is superfluous…)\n\nanyway, check it out!\n\nQUERY …/obj is truly just an optimization - if you deploy a built sorcery site completely statically, the git client will still fall back and directly fetch and parse packfiles and loose objects, it will just be wayyyy slower with high latency. ↩︎",
+        "fullTranslation": "隆重介绍：sorcery，代码魔法之地（the source-ery）……\n截至目前，我运行个人 Git 平台（git forge）已经差不多有半辈子了 :o 我喜欢运行自己的开发基础设施，不仅是因为我与 us-east-1 之间总是有 120 毫秒以上的延迟，更是因为做系统管理简直纯粹就是好玩 :3 2015 年我搭建了一个 Gogs 实例，后来变成了 Gitea 实例，再后来又变成了 Forgejo 实例；我还曾多次为我加入的各种团队部署过 GitLab/Forgejo。我喜欢社区协作型的 Git 平台，而 Forgejo 在这方面非常出色！\n\n但是我的 Forgejo 服务器老是耗尽磁盘空间（原因是在重新打包未更新的 Git 仓库时发生崩溃），并且在周围网络爬虫的常规负载下频繁宕机/内存溢出（OOM）。对于我的需求来说，很显然这类软件完全不适合这种规模：在我用于个人基础设施的小型机器上，这些软件根本经受不住互联网如同“宇宙微波背景辐射”般的常态扫描与抓取。\n\n我也挺想通过仅展示自己真正会用到的功能来简化体验：Forgejo 及其同类工具所做的事情远超我的需要——议题（issues）、拉取请求（PRs）、发布版本（releases）、维基（wikis）——一大堆我根本不在乎但无论如何都要为其付出某种代价的 GitHub 功能兼容性 :(\n\n针对 Forgejo 资源耗尽，通常开出的药方是通过像 Anubis 这样的 Web 应用防火墙（WAF）来拦截爬虫，其目的是通过 JavaScript 工作量证明（PoW）验证机制将 Web 应用的访问阻隔在门外。\n\n但这违背了开放网络的理念，不是吗？浏览器作为表面上的“用户代理（user agent）”，被迫做出对用户不友好的行为，执行毫无用处的代码来增加用户设备的负担（这种验证的目的就是让 CPU 空转！）——如果浏览器拒绝执行，就根本无法显示任何与用户相关的信息。不支持 JavaScript（或者仅不支持带 JIT 的 JavaScript）的替代浏览器要么被彻底阻断，要么被困在极其恼人的等待时间之后。这加剧了现代网络的单一寡头化，我认为这是一件坏事。\n\n此外，部署此类东西本身就是一种承认失败的妥协——我们屈服于一种假设，即所代理的应用程序在面对现实世界的互联网流量时无法正常工作：当我们面对的是一个读操作极度远多于写操作的负载时，这难道不可笑吗？在实践中，提供低频写入的数据服务理应非常廉价：整个 GitHub Pages 曾经仅靠一台机器就运行了多年！！为什么不能拥有一个完全基于静态文件的 Git 托管系统呢？\n\n从核心来看，sorcery 的形态就像一个静态网站生成器：当它接收到 Git 仓库的更新时，会为该仓库重新构建一系列位于磁盘上的 HTML——一个概览页面、每个分支最新提交（tip commit）的目录树，以及最新版本中每个文件带有语法高亮的代码渲染。这使我们能够付出一次性的固定前期成本来响应未来的大量请求，这意味着我们能够从容应对爬虫负载（因为采用 sendfile 方式发完即忘的基本开销微乎其微）。然而，由于提前为每个文件的每个历史版本都渲染出 HTML 成本过高，我们选择不对仓库的历史视图提供纯静态服务。\n\n不过，查看仓库历史记录是 Git Web 界面的核心功能，因此我们直接提供 .git 目录的服务，在 JavaScript 中实现一个基础的只读 Git 客户端，然后在客户端渲染仓库的所有“丰富视图”——仓库站点生成器确实也需要生成一些辅助性的 JSON 数据来协助 Git 客户端，因为我们无法可靠地列出 Git 仓库中的目录，但这些数据依然是纯静态的！\n\n由于浏览历史记录可能意味着需要对不同对象（提交 commit、目录树 tree [即仓库目录列表]、数据对象 blob [即文件内容]）发起多次获取，因此高延迟连接会导致直接获取和遍历对象时感觉非常缓慢。当 Git 将这些对象增量编码压缩存储在打包文件（packfiles）中时尤其如此：在 linux.git 中简单直接地获取一次打包文件索引以查看单个提交的 diff，就要消耗超过 400MiB 的带宽！！而聪明地扫描指定范围又会破坏缓存命中率，并引发一系列依赖于先前请求返回数据的请求瀑布流。\n\n因此，作为一种非静态的优化手段1，我们还提供了一条服务端路由，通过对象 ID（OID）列表来获取特定的 Git 对象（QUERY / / /obj），返回一种简单的二进制“Git 对象包”格式，可在客户端轻松解析。这减轻了客户端解析 packfile 的负担。此外，即使对于包含松散对象（loose object）的仓库，我们依然可以通过提供“智能获取”模式来优化往返通信，该模式能够针对给定的访问模式遍历所引用的 OID（例如，通过 commit.parent->parent->parent->… 遍历提交历史，或者访问一对提交中所有目录树的 blob 以便计算它们之间的 diff）。\n\n因此，sorcery 是一个“Git 仓库查看器（git repo viewer）”而非“Git 平台（git forge）”，因为它完全省略了用户账户、SSH/GPG 密钥管理以及议题与补丁（issues+patches）。实际上，sorcery 本身完全是只读的！仓库仅通过基于 SSH 的 Git 进行写入，这独立于 sorcery 之外。你可以将 sorcery-ssh 作为 Git 用户的 SSH ForceCommand 运行，它将提供“首次推送时自动创建仓库”功能以及编辑仓库描述的能力。这种架构的好处在于，你的公开部署与你的 sshd 一样安全，这在当下（2026年）让人感到格外安心 :)\n\n历史视图确实需要 JavaScript，但我对网络上全盘排斥 JS 的倾向并不怎么感冒（因为除非你住在阿什本，否则在本地设备上运行 UI 代码基本总是更优的选择！）——sorcery 使用了我自己的前端微框架，加上一系列内置的 Web 平台特性以及刻意为之的代码拆分（codesplitting），以极其轻量的方式创造了丰富的客户端体验！例如，加载项目概览页面大约传输 9kb 的 gzipped JS 即可支持近期提交的分页、语言过滤以及跳转到提交 diff 的链接——该站点体积最大的部分最终其实是语法高亮语法规则；我想尝试为 tree-sitter 语法和查询编写一个纯 JavaScript 的执行器，这样我们就能摆脱一些 WASM 的重量包袱（尤其是摆脱每个高亮语言的 WASM 包中被重复打包的代码）。\n\n我仍然喜欢社区型的 Git 平台！！对于我的个人项目，我主要只是想要一个可以推送代码、能让我用手机浏览以及能把链接发给他人的地方：我不需要协同工作功能，这样做要轻量得多。阅读我的代码绝不应该包含向服务器证明你配得上接收超文本的一整套繁文缛节。\n\n近期我想添加对 CI 注解（CI annotations）的支持（对此我很有自己的见解，会在以后的博文中展开聊！！快点订阅那个 RSS 按钮吧），也许将来我会把这个仓库查看器扩展成一个独立的、功能更完备（batteries-included）的 forge 项目供我和朋友们使用（一旦我们真正提炼出对我们最重要的东西、剔除掉多余的内容……）\n\n无论如何，去瞧瞧吧！\n\nQUERY …/obj 实际上纯粹是一项优化——如果你以完全静态的方式部署构建好的 sorcery 站点，Git 客户端依然会回退并直接拉取且解析打包文件（packfile）和松散对象（loose object），只不过在高延迟下速度会慢上极其极其多。↩︎",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "作者在2015年拥有一个Gogs实例，后来依次迁移转变为Gitea和Forgejo实例。",
+          "作者开发的软件名为sorcery，核心设计类似于静态网站生成器（SSG），定位为只读的Git仓库查看器（git repo viewer）而非包含完整功能的Git代码托管平台（git forge）。",
+          "来源叙事重点：介绍自研的静态Git仓库查看器“sorcery”，倡导通过“静态生成最新版本+客户端JS解析Git历史+SSH独立写入”的极简架构替代臃肿的全功能Git平台，批判利用PoW防火墙阻挡爬虫有违开放Web精神。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:10:06.000Z",
+            "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/"
+          }
+        ]
+      },
+      {
+        "id": "story-ng-age-south-dakota-html-6b2dca0b95c6241c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Luminescence dating pushes age of South Dakota's Mammoth Site back by more than 100,000 years",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:40:02.000Z",
+        "pubTime": "2026-09-14 00:40",
+        "url": "https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/luminescence-dating-pu-1.jpg",
+        "fullContent": "Deep within an ancient sinkhole lie the remains of dozens of mammoths, prehistoric wanderers who waded into the warm springs to their deaths. These deaths had long been accepted as having occurred roughly 26,000 years ago, but new dates published in the journal Quaternary Research suggest these ice-age giants were more than 160,000 years old.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 00:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html",
+            "publishedAt": "2026-09-13T16:40:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-maksim-2117465521-html-0ee1668946b8c656",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Актера Радугина внесли в базу данных \"Миротворца\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-13T16:56:16.000Z",
+        "pubTime": "2026-09-14 00:56",
+        "url": "https://ria.ru/20260913/maksim-2117465521.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/150665/41/1506654123_0:221:922:740_650x0_80_0_0_5ae65f29d3dce9c6bf50b2bb6b8ac175.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 00:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260913/maksim-2117465521.html",
+            "publishedAt": "2026-09-13T16:56:16.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-plan-for-ai-safeguards-6118181b33088941",
+        "title": "奥巴马敦促民主党就人工智能安全保障制定“明确计划”",
+        "originalTitle": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:30:00.000Z",
+        "pubTime": "2026-09-14 00:30",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "imageUrl": null,
+        "fullContent": "Former President Barack Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety, according to The New York Times.\n\nObama made these comments on Thursday, at Democratic fundraising event where he was interviewed by House Minority Leader Hakeem Jeffries. The NYT says that Obama’s office provided a partial transcript of the event, at which Jeffries asked Obama how congressional Democrats should approach AI.\n\nIn response, Obama said that once Democrats regain the House majority, they need to “put together a framework for a very public conversation.”\n\n“This is something that is moving very fast in private hands, and if we don’t get on top of it, I think can be dangerous,” Obama added. “If we do get on top of it, I do think it’s beneficial. I genuinely think it’s going to accelerate, for example, drug development in ways that can help us cure diseases.”\n\nIn a statement, Jeffries said the former president “is correct that decisive action must be taken on artificial intelligence.” Jeffries also said that “Republicans have abdicated their responsibility to govern on behalf of the American people.”\n\nThe NYT also reports that Obama has offered himself as a “sounding board” to AI executives and has spoken to both Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman. His comments come amidst growing concern around AI safety, particularly after an AI researcher resigned from Anthropic and claimed the leading AI companies are “racing straight to self-improving superintelligence and gambling with our lives.”\n\nOn Saturday, Amodei outlined a broad approach to “pacing the frontier,” which would include giving independent safety evaluators access to leading AI companies and models, as well as developing “common safety standards” between companies. In social media posts, Altman and SpaceX CEO Musk seemed to respond positively to Amodei’s plan, with Altman saying that OpenAI would also commit to “having independent evaluators with employee-like access.”\n\nPresident Donald Trump, meanwhile, discussed AI safety concerns with reporters at an Irish golf event on Sunday. Bloomberg reports that Trump boasted that the United States is “the most sophisticated country in the world,” adding that he wants “to keep it that way because whoever wins AI wins.” (Earlier this year, the Trump administration released a legislative framework for AI that would preempt state laws and shift the child safety burden to parents.)\n\n“And we can put guardrails,” Trump said. “We can do this and that. But I think you have a lot of negative forces that are bringing it up that shouldn’t be bringing it up.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride",
+        "fullTranslation": "据《纽约时报》报道，美国前总统巴拉克·奥巴马近日表示，民主党人需要将人工智能列为其“核心议程”之一，并“制定一个非常明确的计划”，以应对有关该技术对经济影响和安全性的担忧。\n\n奥巴马是在周四的一场民主党筹款活动上发表上述言论的，当时众议院少数党领袖哈基姆·杰弗里斯对他进行了采访。《纽约时报》称，奥巴马办公室提供了该活动的部分文字记录，杰弗里斯在会上询问奥巴马国会民主党人应如何应对人工智能。\n\n对此，奥巴马表示，一旦民主党夺回众议院多数席位，他们就需要“为开展极具公开性的对话构建一个框架”。\n\n“这项技术在私营部门手中发展得非常迅速，如果我们不能掌控局面，我认为它可能会变得危险，”奥巴马补充道，“如果我们确实能掌控它，我确实认为它是有益的。我由衷地认为，它将在能够帮助我们治愈疾病等方面加速药物研发。”\n\n杰弗里斯在一份声明中表示，这位前总统“在‘必须就人工智能采取果断行动’这一点上是正确的”。杰弗里斯还表示，“共和党人已经放弃了代表美国人民进行治理的责任”。\n\n《纽约时报》还报道称，奥巴马已自荐充当人工智能高管的“顾问”，并与Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）以及OpenAI首席执行官山姆·奥特曼（Sam Altman）进行过交谈。他的这些言论发表之际，正值外界对人工智能安全的担忧日益加剧，特别是在一名AI研究人员从Anthropic辞职并声称领先的AI企业正在“径直竞相迈向自我改进的超级智能，并在拿我们的生命作赌注”之后。\n\n周六，阿莫代伊概述了一种“平衡前沿发展步伐”（pacing the frontier）的总体方案，其中包括允许独立的安全评估人员接触头部AI企业和模型，以及在各企业之间制定“通用安全标准”。在社交媒体帖文中，奥特曼和SpaceX首席执行官马斯克似乎对阿莫代伊的方案作出了积极回应，奥特曼表示OpenAI也将承诺“让独立评估人员拥有类似员工的访问权限”。\n\n与此同时，唐纳德·特朗普总统周日在爱尔兰的一场高尔夫活动中向记者讨论了人工智能安全方面的担忧。彭博社报道称，特朗普吹嘘美国是“世界上最尖端的国家”，并补充说他希望“保持这种状态，因为谁赢得人工智能，谁就赢得了胜利”。（今年早些时候，特朗普政府发布了一项关于人工智能的立法框架，该框架将优先于州法律，并将儿童安全的责任转移给父母。）\n\n“而且我们可以设立护栏，”特朗普说，“我们可以做这做那。但我认为有很多不该提出这个问题的负面势力正在挑起这个话题。”\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈（Anthony Ha）是TechCrunch的周末编辑。此前，他曾担任《Adweek》的技术记者、VentureBeat的高级编辑、《Hollister Free Lance》的地方政府记者，以及一家风投公司的内容副总裁。他现居纽约市。\n\n您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与安东尼取得联系或核实外联信息。\n\n预订展位的最后一天是9月18日。切勿错过在Disrupt展厅中获得高价值销售线索、接触投资人以及品牌曝光的机会。\n\nRevolut证实因虚假政府请求导致客户数据泄露\n\n受Astra需求激增影响，OpenAI暂停Pro订阅服务\n\n身份验证巨头IDScan证实发生数据泄露，超过1.5亿张驾照信息被盗\n\nAutomattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假\n\n苹果发布旗下首款折叠屏设备iPhone Duo\n\n纽约大学数学家称OpenAI在关乎其职业生涯的数学难题上采取了不光彩手段\n\n一部关于伊丽莎白·霍姆斯（Elizabeth Holmes）的神秘全新纪录片惊艳特柳良德电影节",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "奥巴马在周四的民主党筹款活动中表示，民主党需要将人工智能列为“核心议程”，并制定“非常清晰的计划”来应对该技术带来的经济影响和安全担忧。",
+          "该筹款活动中，众议院少数党领袖哈基姆·杰弗里斯对奥巴马进行了采访，奥巴马办公室提供了部分活动记录。",
+          "来源叙事重点：聚焦前总统奥巴马督促民主党将AI安全与经济影响列为核心施政框架，并勾勒出政界两党（民主党强调建立公共安全防护框架 vs 特朗普政府主导的国家竞争优先与去监管化导向）及科技领袖（Anthropic与OpenAI支持独立评估）的立场互动"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:30:00.000Z",
+            "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4332-af34-ffc9ce45eadf-78ec92b8318b8677",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia strikes Ukraine train line moments after foreign dignitaries pass",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:11:26.000Z",
+        "pubTime": "2026-09-14 00:11",
+        "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b31a1c7-c48e-4c9e-8cad-139370d6b4f6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Train struck on route used by David Petraeus, Boris Johnson, Carl Bildt and other senior officials",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-14 00:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-13T16:11:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-o-devs-should-learn-odin-82e3165a7a942b00",
+        "title": "Golang 开发者应该尝试 Odin",
+        "originalTitle": "Golang developers should try Odin",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T15:23:41.000Z",
+        "pubTime": "2026-09-13 23:23",
+        "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+        "imageUrl": null,
+        "fullContent": "The Hitchhiker’s Guide to Valhalla\n\nOctober 24, 2024 · 14 min read\n\n(BEWARE: the article may cause seizures)\n\nI’ve been using Golang for 10 years, and even though I tried other programming languages, I always went back to it because of its simplicity.\n\nIt is so simple that reading the source code and playing around helped me pick up the majority of the syntax when I first got into Golang.\n\nHowever, it pains me to say that Golang has problems because of its garbage collector and runtime.\n\nSome of the problem are listed here:\n\nBut even with these problems, I still prefer Golang to other programming languages, until I met Odin a week ago, and it was love at first sight.\n\nThis article will show you the beauty of Odin.\n\nOdin is a new programming language that is\n\nPeople think that it is only for game development just because it includes 3D libraries with the compiler, but I disagree. Odin is also for backend development because it has a core library similar to Go’s standard library. Which means that it has all the building blocks for us to copy the rest of Go’s libraries like Chinese manufacturers.\n\nI know that some of you play around with Rust, Zig, C3 or Hare, but these do not have array programming and struct tags in their languages.\n\nIt even has quaternions! Do you know what that is? Me neither! But I am excited to learn.\n\nThe language will not change and it will stay stable until you retire. However, the compiler, toolchain, and core library are still in development and always improved.\n\nAlso, it is used in production from JangaFX and ChiAha™\n\nThe language has 31 keywords, but each keyword may have a #directive or @(attribute). It may seem too much for someone that cannot remember more than 26 keywords like me, but all the keywords, directives, and attributes connect so seamlessly together like reading English.\n\nFor example, the switch-case that works like in Golang requires from the user to specify every case, unless you put the #partial directive in front of it.\n\nIt will really make sense to you how easy it is for you to understand the code without knowing the language. Take 10 minutes to read demo.odin, its got almost everything you need to get started.\n\nYes, it does not have documentation (no, the overview is not a real documentation), but that is the beauty of it. You learn to code in Odin by reading other’s people code. Most of the standard library does not have comments or examples, but you can easily understand how to use it through its source code.\n\nNo, it does not have macros, or comptime, or constexpr or decorators and it is better that way because every language that has them makes developers to waste 90% of their time googling for every library that uses them.\n\nTrust me, stick with Odin’s pre-defined directives and attributes.\n\nYes, it has generics, and they are more well-designed than Golang’s generics.\n\nNo, it does not have a package manager, or go.mod file or anything else. The package is just a directory that you just copy to your project, and you call it relative to the path of the source code file.\n\nYes, compiler is as simple as Golang’s compiler.\n\nYes, it has VSCode plugin with autocompletion.\n\nOdin has manual memory management, which is why it does not have Closures, Composition, Goroutines, and Selectors. However, I will demonstrate how you can live without them.\n\nSecondly, it lacks libraries, which is why I’m trying to get you to learn it so you can copy your libraries from Go to Odin.\n\nLastly, it does not have documentation or books, but if you have years of experience in Go, then Odin will feel like home.\n\nLiving without a garbage collector means that you don’t have errors.New() or fmt.Errorf(). There is no error type in Odin. You only have Enums, Unions and Structs, and that is better than Go’s errors.\n\nGolang’s errors makes you push server-side error messages to users, and you cannot do anything to stop it. That is not a good thing because users don’t need to know what is SQL or that the bank_account is nil.\n\nFurthermore, another problem is that Go’s errors do not have stack traces.\n\nFor each function you create, also include an enum or a union or a struct to represent the error for that specific function.\n\nWhen a function returns an error that it received from another function, and so forth, you will receive an error value similar to this.\n\nFrom there you can create trees of switch statements that return proper user messages.\n\nAnd also you can print it like a stack trace using my library\n\nEven by looking the type of errors you can guess what the functions do.\n\nNo other programming language can do that.\n\nIf Odin can’t help the economy, then nothing can.\n\nBefore we talk about memory management let me clarify three things:\n\nIf you read demo.odin then you already know how pointers work, but if you haven’t already then just remember:\n\nIf you double delete() or double free() a pointer, then the you will get “Segmentation fault”\n\nIf you read pointer after free() or delete(), you will get random value\n\nIf you make() an array of new() pointers then you have to free() the pointers inside the array before deleting the array, or else it will cause a memory leak.\n\nFor your global pointers, assign nil after you deallocate them and check for nil before you deallocate, read, or assign the pointer.\n\nFor your local pointers, use defer to deallocate the pointer. Always put defer under the allocation so it is easy to see the deallocation.\n\nIf a procedure contains the parameter “allocator := context.allocator” then 99% of the time the results need to be deallocated. This means that you have to call delete()/free() or call another procedure from the same library that will deallocate the pointer for you.\n\nUse Arena_Allocator to allocate an array of pointers and then just destroy the arena.\n\nOdin does not have interfaces, which is why I say that they work like quantum entities. When you look at them, they act like interfaces, but when you don’t look at them, they are just pointers.\n\nThere are two ways to write interfaces in Odin.\n\nThis example emulates composition.\n\nAlso, this is how interfaces used in Odin’s standard library.\n\nFor example, sort.Interface in Odin is copied from Go using this type of interface structure.\n\nHere is an example that looks like Java’s abstract class.\n\nAlso, you can’t add more than one interface to a struct or you’ll start getting weird shit or segmentation faults. So in the end, it also works like in java.\n\nOdin does not have goroutines or selectors because they need garbage collectors to work.\n\nHowever, I have written a complete example just for you on how to emulate goroutines and selectors in Odin.\n\nThis example demonstrates the feeding process for baby birds from their parents.\n\n(You know the process. Mama bird throws up on the kids mouth to feed them. Isn’t nature beautiful?)\n\nIf you haven’t figured out what is the selector and the goroutines in this example, then look at the union and threadpool.\n\nOne channel that accepts the union type message is equivalent to using two channels and a selector in Golang because each individual type in the union is equivalent to a channel in a selector. The union emulates the selector.\n\nThe threadpool is equivalent to Golang’s runtime because it runs the threads in a head of time that will be used later on to run the goroutines.\n\nJust remember your university’s Java course on concurrency, use threads for long-running tasks, threadpools for small tasks and paracetamol for deadlocks.\n\nWith this article, I hope now you understand Odin’s potential for the future and as a Golang’s replacement for backend development.\n\nBy the way, if you read demo.odin and my explanations without skipping anything, then from now on you are a Senior Odin Developer. (ooops!)\n\nTo be a Grandmaster Odin Developer, just scroll overview and how to bind to C",
+        "fullTranslation": "英灵殿漫游指南（The Hitchhiker’s Guide to Valhalla）\n2024 年 10 月 24 日 · 阅读时长 14 分钟\n（警告：本文可能引发不适）\n我使用 Golang 已经 10 年了，尽管我也尝试过其他编程语言，但因为它的简洁性，我总是会重新回到它身边。\n它如此简单，以至于当我刚接触 Golang 时，仅靠阅读源码和动手实践就掌握了它的大部分语法。\n然而，不得不承认，由于垃圾回收器（GC）和运行时的存在，Golang 也有不少问题。\n这里列出了其中的一些问题：\n但即便存在这些问题，在遇到其他编程语言时我依然更倾向于 Golang，直到一周前我遇见了 Odin，那一刻真是一见钟情。\n这篇文章将带你领略 Odin 之美。\nOdin 是一门全新的编程语言，它\n人们仅仅因为它的编译器自带了 3D 库，就以为它只适用于游戏开发，但我并不认同。Odin 也同样适用于后端开发，因为它拥有一个类似于 Go 标准库的核心库。这意味着它具备了所有的基础构建块，能让我们像某些厂商模仿制造一样，把 Go 的其余库都复刻过来。\n我知道你们当中有些人会摆弄 Rust、Zig、C3 或 Hare，但这些语言并不具备数组编程（array programming）和结构体标签（struct tags）。\n它甚至还支持四元数（quaternions）！你知道那是什么吗？我也不知道！但我很兴奋能学到它。\n这门语言不会再发生变动，直到你退休前它都会保持稳定。不过，编译器、工具链和核心库仍在开发中，并且在不断得到改进。\n此外，它已被 JangaFX 和 ChiAha™ 应用于生产环境中。\n这门语言有 31 个关键字，但每个关键字都可能带有 #指令（#directive）或 @(属性)（@(attribute)）。对于像我这种记不住超过 26 个关键字的人来说，这可能显得有点多，但所有的关键字、指令和属性之间的衔接非常流畅，读起来就像读英语一样自然。\n例如，工作方式类似于 Golang 的 switch-case 语句要求用户明确指定每一个分支情况，除非你在它前面加上 #partial 指令。\n你会真正体会到，即使不懂这门语言，理解其代码也是多么容易。花上 10 分钟阅读 demo.odin，里面几乎涵盖了你入门所需的一切。\n是的，它没有正式文档（不，概览页面并不是真正的文档），但这正是其魅力所在。你是通过阅读别人的代码来学习用 Odin 编程的。标准库的大部分内容既没有注释也没有示例，但你完全可以通过其源代码轻松理解如何使用。\n不，它没有宏（macros），没有 comptime（编译期计算），没有 constexpr，也没有装饰器（decorators），而这样其实更好，因为拥有这些特性的每门语言都会让开发者把 90% 的时间浪费在 Google 搜索使用它们的各种库上。\n相信我，坚持使用 Odin 预定义的指令和属性就好。\n是的，它支持泛型，而且比 Golang 的泛型设计得更好。\n不，它没有包管理器，没有 go.mod 文件，也没有类似的其他东西。包仅仅就是一个目录，你只需将其复制到你的项目中，并根据源代码文件的相对路径来调用它。\n是的，它的编译器和 Golang 的编译器一样简单。\n是的，它有带自动补全功能的 VSCode 插件。\nOdin 采用手动内存管理，这也是它为什么没有闭包（Closures）、组合（Composition）、Goroutine 以及 Selector 的原因。不过，我将向你展示如何在没有这些特性的情况下也能过得很好。\n其次，它缺乏库生态，这也是为什么我正试图吸引你们来学习它，这样你们就可以把你们的库从 Go 复制移植到 Odin 中。\n最后，它缺乏文档和书籍，但如果你拥有多年的 Go 经验，那么 Odin 会让你感到宾至如归。\n没有垃圾回收器的生活意味着你不再拥有 errors.New() 或 fmt.Errorf()。Odin 中不存在 error 类型。你只有枚举（Enums）、联合体（Unions）和结构体（Structs），而这比 Go 的错误机制更好。\nGolang 的错误机制会迫使你将服务端的错误信息推送给用户，而你无能为力。这并不是一件好事，因为用户根本不需要知道什么是 SQL，或者 bank_account 为 nil。\n此外，另一个问题是 Go 的错误不带有堆栈跟踪（stack traces）。\n对于你创建的每个函数，同时包含一个枚举、联合体或结构体来表示该特定函数的错误。\n当一个函数返回它从另一个函数接收到的错误时，以此类推，你将收到一个类似于这样的错误值。\n从那里，你可以构建 switch 语句树，以返回恰当的用户提示信息。\n并且你还可以使用我的库把它像堆栈跟踪一样打印出来。\n甚至只需查看错误的类型，你就能猜出这些函数是做什么的。\n没有其他编程语言能做到这一点。\n如果 Odin 都救不了经济，那就没有什么能救了。\n在我们探讨内存管理之前，让我先澄清三件事：\n如果你读过 demo.odin，那么你已经知道指针是如何工作的了，但如果你还没读过，只需记住：\n如果你对一个指针执行重复 delete() 或重复 free()，你将会遇到“段错误”（Segmentation fault）。\n如果你在 free() 或 delete() 之后去读取指针，你将获得一个随机值。\n如果你通过 make() 创建了一个包含 new() 指针的数组，那么在删除该数组之前，你必须先释放数组内部的指针，否则会导致内存泄漏。\n对于全局指针，在释放它们之后将其赋值为 nil，并在释放、读取或给指针赋值之前检查是否为 nil。\n对于局部指针，使用 defer 来释放该指针。务必始终将 defer 写在分配语句的下方，这样很容易看清释放操作。\n如果一个过程（procedure）包含参数“allocator := context.allocator”，那么 99% 的情况下其返回结果都需要被释放。这意味着你必须调用 delete()/free()，或者调用来自同一库的另一个过程来替你释放该指针。\n使用 Arena_Allocator 来分配指针数组，之后只需直接销毁该 arena 即可。\nOdin 没有接口（interfaces），这也是为什么我说它们就像量子实体一样。当你观察它们时，它们表现得像接口；但当你不再观察它们时，它们就只是指针。\n在 Odin 中有两种编写接口的方法。\n这个例子模拟了组合（composition）。\n同时，这也是 Odin 标准库中使用接口的方式。\n例如，Odin 中的 sort.Interface 就是使用这种类型的接口结构从 Go 借鉴复制过来的。\n这里有一个看起来像 Java 抽象类的例子。\n另外，你不能给一个结构体添加多个接口，否则你就会开始遇到莫名其妙的问题或段错误。所以到头来，它用起来也和 Java 很像。\nOdin 没有 goroutine 或 selector，因为它们需要垃圾回收器才能运行。\n不过，我特意为你写了一个完整的示例，展示如何在 Odin 中模拟 goroutine 和 selector。\n这个例子演示了鸟妈妈给幼鸟喂食的过程。\n（你懂这个过程的。鸟妈妈呕吐到小鸟嘴里来喂养它们。大自然不是很美妙吗？）\n如果你在这个例子中还没搞清楚什么是 selector 和 goroutine，那就看看 union 和 threadpool（线程池）。\n\n一个接收联合类型（union type）消息的通道，相当于在 Golang 中使用两个通道外加一个 selector（选择器），因为联合类型中的每个独立类型都等同于 selector 中的一个通道。联合类型模拟了 selector 的功能。\n\n线程池相当于 Golang 的运行时，因为它会提前运行那些后续用于执行 goroutine 的线程。\n\n只要记住你在大学 Java 并发课程上学过的内容：长时间运行的任务使用线程，小型任务使用线程池，遇到死锁就吃扑热息痛。\n\n通过本文，我希望你现在能够理解 Odin 未来的潜力，以及它作为后端开发中 Golang 替代品的可能。\n\n顺便说一句，如果你一字不漏地阅读了 demo.odin 和我的解释，那么从现在起你就是一名高级 Odin 开发者了。（哎呀！）\n\n要成为特级大师级（Grandmaster）Odin 开发者，只需浏览一下概览以及如何绑定 C 语言即可。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 65,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "Odin 拥有 31 个关键字，并支持 #directive 指令与 @(attribute) 属性。",
+          "Odin 在编译器中附带了 3D 库，并原生支持数组编程、结构体标签（struct tags）与四元数（quaternions）。",
+          "来源叙事重点：强烈推荐 Golang 开发者尝试系统级编程语言 Odin，强调 Odin 在保持语法简洁性的同时，避开了 Go 语言的垃圾回收（GC）和运行时缺陷，并主张 Odin 完全有潜力替代 Go 进行后端开发。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T15:23:41.000Z",
+            "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/"
+          }
+        ]
+      },
+      {
+        "id": "story-ndustry-slowly-solo-html-784f1a8b8db4f9e9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The tourism industry is slowly waking up to solo travelers' needs",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:00:01.000Z",
+        "pubTime": "2026-09-14 00:00",
+        "url": "https://phys.org/news/2026-09-tourism-industry-slowly-solo.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/hiker-mountain-lake.jpg",
+        "fullContent": "Solo travel is surging—and an industry still largely built for two is taking note. Google reported in April 2026 that online searches involving \"solo travel\" hit an all-time high this year, with queries for \"women solo travel\" reaching a 15-year peak. Hilton's 2026 trends report found that 26% of travelers planned to take a trip alone this year and that nearly half said they planned to add solo days to the front or back of a family trip.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 00:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-tourism-industry-slowly-solo.html",
+            "publishedAt": "2026-09-13T16:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-harply-divides-travelers-01f22e42a9ab3be2",
+        "title": "邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧",
+        "originalTitle": "Cruise passengers erupt over 'rude' luggage habit that sharply divides travelers",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:55:21.000Z",
+        "pubTime": "2026-09-14 00:55",
+        "url": "https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/cruise-passengers-disembarking-sint-maarten.jpg?ve=1&tl=1",
+        "fullContent": "Cruise passengers are debating a heated topic among vacation travelers who take to the ocean.\n\nDoes bringing luggage into crowded ship elevators cross a major etiquette line, especially on hectic disembarkation mornings?\n\nThose carrying their own bags often depend on elevators to move between decks as thousands of passengers prepare to leave the ship. Now, social media posts are fueling a broader argument over whether squeezing suitcases into packed elevators is practical or just plain rude.\n\nOUTRAGED CRUISE PASSENGERS SOUND OFF ABOUT ‘IMMENSE DISAPPOINTMENT’ AFTER ABRUPT CANCELLATION\n\nDiane Gottsman, an etiquette expert based in Texas, said passengers can bring luggage into elevators , though they should be considerate of the limited space.\n\n\"When it comes to traveling, space is a priority,\" Gottsman told Fox News Digital. \"You always have to think about the people that are going to be around you.\"\n\nGottsman said passengers can leave larger suitcases outside their cabin the night before for crew members to collect.\n\n\"When possible, it's always best to keep your suitcases to a minimum when getting on a crowded cruise ship elevator,\" she said.\n\nMAJOR AIRLINE ROASTS PASSENGERS WHO JUMP UP RIGHT AFTER LANDING, IGNITING FIERCE BACKLASH\n\nPassengers who prefer to carry their own luggage can do so, she added, but should be prepared to manage it themselves.\n\nCruise lines also have their own procedures for handling bags.\n\nCarnival Cruise Line states on its website that checked baggage service during embarkation ends two hours before a ship's scheduled sailing time.\n\n\"Guests arriving after this time will be responsible for taking their bags on board,\" the cruise line states.\n\nCLICK HERE TO SIGN UP FOR OUR LIFESTYLE NEWSLETTER\n\nPlanning ahead is especially important on busy embarkation and disembarkation days, Gottsman said.\n\n\"We know when we're getting off a cruise ship, it's going to be busy,\" she said. \"Everyone is getting off the same cruise ship. So you have to plan in advance.\"\n\nShe advised passengers to let others exit before boarding and wait for another elevator if one is already packed.\n\n\"Don't just charge on with your luggage,\" Gottsman said.\n\nCLICK HERE FOR MORE LIFESTYLE STORIES\n\nPassengers with mobility issues should also be given priority, while those with extra luggage should be prepared to wait, she added.\n\nThe issue recently surfaced on Reddit after a first-time cruiser said the traveler and partner were scoffed at by another passenger while taking an elevator from Deck 14 to Deck 5 with their rolling suitcases.\n\nMany cruisers defended the couple — arguing that elevators are often the most practical option for passengers carrying luggage across multiple decks.\n\n\"I always hand-roll my luggage off. I always use the elevator,\" one Reddit user wrote. \"I'm not hauling my bags up and down stairs.\"\n\nAnother commenter asked, \"How else would you get your luggage down that many decks?\"\n\nSaid another person, \"People find any reason to complain [about] a ship elevator. My mom was on a scooter [due to] her bad back/knees, and people were so rude to her at the elevators.\"\n\nTEST YOURSELF WITH OUR LATEST LIFESTYLE QUIZ\n\nYet another person chimed in, \"The rudeness always seems higher on disembarkation day. You didn’t do anything wrong. I would only use the stairs if it was a flight or two just to save time, otherwise I would definitely use it.\"\n\nOther cruisers said bringing luggage into an elevator is fine as long as passengers remain considerate of those around them.\n\n\"You can absolutely use the elevators, just be cognizant of others and make space when you can,\" one commenter wrote.\n\nSome disagreed, arguing that using the ship's luggage service can make departure easier for everyone.\n\n\"The whole point of the luggage delivery is to make it easier for everyone,\" one person wrote.\n\nCruise industry experts projected a worldwide increase in the number of people taking to the ocean this year — breaking last year’s record, The Associated Press reported several months ago.\n\nIn an April report released by the Cruise Lines International Association, an estimated 38.3 million people were projected to travel on ships this year — a number that's 4% higher than last year’s 37.2 million record-breaking number of passengers.",
+        "fullTranslation": "邮轮乘客们正在就出海度假游客之间的一个热门话题展开激烈辩论。\n\n将行李带入拥挤的船舱电梯是否触犯了重大的礼仪底线，尤其是在忙乱的下船日早晨？\n\n当数以千计的乘客准备下船时，那些自行携带行李的人通常要依赖电梯在不同甲板层之间移动。如今，社交媒体上的帖子正引发一场更广泛的争论：将行李箱硬塞进满员的电梯究竟是务实之举，还是纯粹的无礼行为？\n\n愤怒的邮轮乘客在航程被突然取消后怒斥“极度失望”\n\n常驻得克萨斯州的礼仪专家黛安·戈茨曼（Diane Gottsman）表示，乘客可以把行李带进电梯，不过应当体谅有限的空间。\n\n“说到旅行，空间是首要考量，”戈茨曼在接受福克斯新闻数字频道（Fox News Digital）采访时表示，“你必须时刻考虑身边的其他人。”\n\n戈茨曼表示，乘客可以在前一天晚上将较大的行李箱放在客舱外，由船员负责统一收集托运。\n\n“在可能的情况下，进入拥挤的邮轮电梯时，最好尽量少带行李箱，”她说。\n\n大型航空公司嘲讽飞机刚着陆就跳起来的乘客，引发强烈抗议\n\n她补充说，更倾向于自己拿行李的乘客完全可以自便，但应做好自行照看管好的准备。\n\n各大邮轮公司对行李处理也有各自的规定程序。\n\n嘉年华邮轮公司（Carnival Cruise Line）在其官方网站上标明，登船期间的行李托运服务将在船舶预计启航时间前两小时截止。\n\n该邮轮公司表示：“在此时间之后抵达的宾客将自行负责把行李带上船。”\n\n点击此处订阅我们的生活方式简报\n\n戈茨曼表示，在繁忙的登船日和下船日，提前规划尤为重要。\n\n“我们知道从邮轮下船时现场会很繁忙，”她说，“所有人都要从同一艘邮轮上下船，所以必须提前做好规划。”\n\n她建议乘客在进电梯前先礼让里面的人出来，如果某部电梯已经挤满，就等下一趟。\n\n“不要带着行李硬往里冲，”戈茨曼说。\n\n点击此处查看更多生活方式报道\n\n她补充道，行动不便的乘客也应享有优先权，而携带额外行李的人则应做好等待的准备。\n\n这一话题最近在Reddit论坛上引发关注。一名初次乘坐邮轮的游客发帖称，自己和伴侣拖着拉杆箱乘电梯从14层甲板到5层甲板时，遭到了另一名乘客的嗤笑与嘲弄。\n\n许多邮轮乘客为这对伴侣辩护——他们认为，对于需要跨越多个甲板层搬运行李的乘客来说，电梯往往是最切合实际的选择。\n\n“我每次都是自己拖着行李下船，而且每次都坐电梯，”一名Reddit用户写道，“我可不会拎着大包小包去爬楼梯。”\n\n另一位评论者反问：“不然你还能怎么把行李运下那么多层甲板？”\n\n另一个人表示：“人们总能找出各种理由来抱怨船上的电梯。我母亲因为腰背和膝盖不好坐着代步轮椅，电梯里的人对她非常无礼。”\n\n参与我们最新的生活方式小测验，测试一下自己\n\n还有人附和道：“在下船日，无礼的现象似乎总是更多。你们没有做错任何事。如果只隔一两层楼，为了省时间我才会走楼梯，否则我肯定会坐电梯。”\n\n其他邮轮乘客表示，只要顾及周围的人，把行李带进电梯完全没有问题。\n\n“你绝对可以使用电梯，只要多留意周围的人并在可能的时候腾出空间即可，”一位留言者写道。\n\n也有人持不同看法，认为使用船上的行李托运服务能让每个人的离船过程变得更轻松。\n\n“行李运送服务的全部意义就是为了让每个人都更轻松，”一人写道。\n\n几个月前美联社曾报道，邮轮行业专家预测今年全球出海旅游的人数将迎来增长，并将打破去年的历史纪录。\n\n国际邮轮协会（Cruise Lines International Association）在4月份发布的一份报告中预计，今年将有约3830万人乘坐邮轮旅行——这一数字比去年创纪录的3720万名旅客高出4%。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 33,
+        "keyTakeaways": [
+          "美国得克萨斯州的礼仪专家黛安·戈茨曼（Diane Gottsman）表示，乘客可以将行李带入游轮电梯，但应考虑到空间有限并注意礼让。",
+          "嘉年华游轮（Carnival Cruise Line）在其官网上注明，登船期间托运行李服务在预定起航时间前两小时结束，在此之后抵达的宾客须自行携带行李登船。",
+          "来源叙事重点：报道围绕游轮下船日拥挤电梯内携带大件行李引发的社交礼仪争议，结合社交媒体用户讨论与礼仪专家建议，探讨实用需求与公共空间礼仪之间的平衡，并指出全球游轮旅客量创新高加剧了空间资源紧张。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:55:21.000Z",
+            "url": "https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers"
+          }
+        ]
+      },
+      {
+        "id": "story-ntered-the-robotaxi-chat-44cdc58c805a295b",
+        "title": "TechCrunch 出行专栏：Lyft 加入自动驾驶出租车（Robotaxi）群聊",
+        "originalTitle": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:04:00.000Z",
+        "pubTime": "2026-09-14 00:04",
+        "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+        "imageUrl": null,
+        "fullContent": "Lyft reached a new milestone this week when Waymo robotaxis landed on its app in Nashville. Under the partnership, Lyft handles fleet services, such as vehicle readiness and maintenance, as well as infrastructure and depot operations through its wholly owned subsidiary Flexdrive.\n\nIn Nashville, customers can hail a Waymo robotaxi directly from the Waymo app, or try their luck on the Lyft app, which will match riders with a Waymo depending on availability.\n\nLyft has more than dabbled in autonomous vehicle technology over the years, including through partnerships with Aptiv (now Motional) in Las Vegas, May Mobility in Atlanta, Baidu in London, and Waymo in Phoenix. But this week is notable because it marks Lyft’s first true entry into commercial robotaxi services using driverless vehicles without a human operator behind the wheel.\n\nLest you forget, the company spent four years and millions of dollars developing its own AV tech under its Level 5 business division. Lyft sold its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million in 2021 — one of many acquisitions during a period of widespread consolidation across the nascent industry.\n\nLyft then took a break from AVs as it focused on its core ride-hailing business. But it didn’t dismiss the idea altogether.\n\nI spoke to Jeremy Bird, Lyft’s executive vice president of growth, about the milestone and thought I would share a few insights. In his role, Bird manages Lyft’s international, luxury, and autonomous vehicle plans — and sometimes all three may converge.\n\nWhen I asked Bird when we’ll see more robotaxis on the Lyft app — and where — he didn’t get too specific. But he did say the company went into 2026 focused on its partnership with Waymo in Nashville and Baidu in London (where commercial service has not yet launched).\n\n“I think next year what you’ll see is more diversification of that,” he said, adding that ideally this would include expanding Lyft’s partnership with both partners. “I think next year will be a big year for us.”\n\nAnd it seems international markets are a big part of that AV expansion plan. Bird called London a “fascinating market,” and throughout our conversation he repeatedly talked about Lyft as a global company, a notable shift from just a few years ago when it was focused on the U.S. market.\n\nSo, where is Lyft headed next? When it comes to international markets, Lyft seems to be prioritizing locations where it can operate a hybrid network — meaning AVs and human-driven vehicles — from the get-go.\n\n“We are a global company becoming more global, which is important for us,” he said. “And AVs will be the way we think about the future. Like any market we go into, is there an AV component to that? Is it a market where AVs are already open regulatorily, or that would put that market up higher on our list of the places we want to go?”\n\nA little bird noticed a couple of interesting hires over at Ford that sure look like the company is building up its defense tech muscles. Ford recently hired ex-Raytheon employee Tomaz Seignemartin as VP of continuous improvement and former General Dynamics staffer Shirish Srinivasan, who is now chief of staff to Ford’s chief strategy officer. Ford also hired Nathan Rigoni, who was Lockheed Martin’s generative AI team lead, as senior software engineer.\n\nNow, of course, a handful of defense tech hires at a company that employs thousands is hardly a trend. But it does illustrate how having a background in defense tech has become more valuable.\n\nGot a tip for us? Email Kirsten Korosec at kirsten.korosec@techcrunch.com or my Signal at kkorosec.07, or email Sean O’Kane at sean.okane@techcrunch.com.\n\nThe Boring Company, the startup founded by Elon Musk to “solve traffic” by creating a network of underground tunnels, raised $3 billion in a round led by the United Arab Emirates. The Boring Company is now valued at $23 billion, the company shared in its announcement. There is a reason for UAE’s support. The Boring Company, which already worked with the UAE on the Dubai Loop, said it will dig another 150 kilometers of tunnels in the Middle Eastern country.\n\nAndreessen Horowitz, Sequoia Capital, Human Capital, Vy Capital, and Valor Equity Partners also participated.\n\nIn the U.S., the Boring Company’s most visible work is in Las Vegas, where it has developed tunnels connecting hotel casinos such as Resorts World, Encore, and the Sahara, the convention center, and limited trips to the airport. Tesla vehicles, driven by a human, shuttle riders to and from these locations.\n\nOther deals that got my attention this week …\n\nARC Ride, the Kenya-based electric mobility startup, raised $33.3 million in a round led by Novastar Ventures and Norrsken22. Other backers included IFC, British International Investment, Proparco, Japanese supplier Musashi Seimitsu, and African impact investor Talanton.\n\nBeep, a startup known for operating autonomous shuttles at campuses and airports, raised $20 million in a Series B round led by Mobileye, one of its existing tech partners. The Orlando, Florida-based company that was founded in 2019 said it has raised $130 million to date.\n\nFryte Mobility, a Munich, Germany-based software startup focused on charging logistics for electric trucks, raised €3.5 million ($4 million) in seed funding co-led by 4impact capital and Rethink Ventures. Existing backers Revent, F-LOG, accilium ventures, and unnamed angel investors also participated.\n\nPorsche completed the sale of its stakes in Bugatti Rimac and Rimac Group to HOF Capital. Porsche received about 1 billion euros in the sale, and about 250 million euros of those proceeds will be used to further fund its pension obligations.\n\nPoseidon Aerospace raised $60 million ahead of the first test flight of its uncrewed cargo plane, Egret, expected by the end of this year. The Series A round was led by early-stage VC firm TQ Ventures and saw new investments from Hanwha Asset Management, G Squared, and JAWS. Existing backers Starship Ventures, Draper Associates, and Drover Ventures also invested.\n\nStoke Space may not be a traditional transportation player, but the reusable rocket company’s $1 billion raise, and some of its backers, got my attention. The round was led by Point72 Ventures (hedge fund billionaire Steve Cohen’s tech investment vehicle) and Spark Capital, and included investment from General Innovation, Glade Brook Capital, US Innovative Technology, Washington Harbour Partners, Woven Capital, and Y Combinator, among others.\n\nTern, the Austin, Texas-based startup developing an alternative to GPS, landed an $11.26 million contract from the U.S. Army. The startup said U.S. Army vehicles will use its “Google Maps for the battlefield” tech.\n\nUber invested $10 million in Indian fleet management startup Carrum Mobility in a Series B round. The new investment values Carrum at ₹16 billion (about $168 million) post-money.\n\nAutonomy, the California electric vehicle subscription service created by TrueCar founder Scott Painter, is pivoting. The company, which almost went out of business, is adding internal combustion engine vehicles to its fleet.\n\nBeta Technologies, Joby Aviation, and Wisk, three companies developing electric aircraft, began test flight demonstrations in Texas as part of the Federal Aviation Administration’s Advanced Air Mobility and Electric Vertical Takeoff and Landing (eVTOL) Integration Pilot Program (eIPP). The weeklong campaign will allow these companies to test real-world routes, including to the Dallas-Fort Worth Airport.\n\nTravis Kalanick’s startup Atoms is preparing for a hiring spree in a bid to go after the robotaxi business, the Financial Times reported.\n\nTechCrunch reporter Jagmeet Singh digs into Uber rival inDrive and its push to scale beyond ride-hailing.\n\nU.S.-based autonomous vehicle developers may get the bulk of the attention these days, but there is a lot of notable activity occurring outside of the country. This week alone we saw China AV developer Pony.ai and Croatia-based Verne (another Mate Rimac company) begin fully driverless test rides with passengers on public roads in Zagreb, while Spain issued the first national AV permits to WeRide and partners Uber and Avomo.\n\nMeanwhile, Chinese autonomous delivery company Neolix began testing on a closed course in Japan, and Pony.ai pulled the human safety operator out of its AV test vehicles during demonstrations in Doha, Qatar. Pony.ai, along with partner Mowasalat, still has human operators behind the wheel of robotaxis in its commercial service.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride",
+        "fullTranslation": "本周，随着 Waymo 的自动驾驶出租车（robotaxi）在其位于纳什维尔的应用程序上线，Lyft 迎来了一个新的里程碑。根据合作协议，Lyft 通过其全资子公司 Flexdrive 负责车队服务（例如车辆准备与维护）以及基础设施和车辆运营中心的运作。\n\n在纳什维尔，用户可以直接通过 Waymo 应用程序呼叫 Waymo 自动驾驶出租车，或者在 Lyft 应用程序上碰碰运气——Lyft 会视运力情况为乘客匹配 Waymo 车辆。\n\n多年来，Lyft 在自动驾驶汽车技术领域的涉足绝不仅限于浅尝辄止，包括曾在拉斯维加斯与 Aptiv（现为 Motional）、在亚特兰大与 May Mobility、在伦敦与百度以及在菲尼克斯与 Waymo 展开合作。但本周尤为引人注目，因为这标志着 Lyft 首次真正进入完全没有人类驾驶员在方向盘后操控的商业化无人驾驶出租车服务。\n\n免得大家遗忘，该公司曾设立 Level 5 业务部门，历时四年并投入数百万美元研发自己的自动驾驶技术。2021 年，Lyft 以 5.5 亿美元将其自动驾驶部门出售给丰田旗下的 Woven Planet Holdings 子公司——这是该新兴行业大规模整合浪潮中的诸多收购之一。\n\n随后，Lyft 暂时告别了自动驾驶汽车，专注于其核心网约车业务。但它并未彻底放弃这一构想。\n\n我与 Lyft 负责增长业务的执行副总裁杰里米·伯德（Jeremy Bird）探讨了这一里程碑，并打算在此分享一些见解。在这一职位上，伯德负责管理 Lyft 的国际化、豪华出行以及自动驾驶汽车业务计划——有时这三者甚至会交织在一起。\n\n当我询问伯德我们何时能在 Lyft 应用程序上看到更多自动驾驶出租车以及会在哪些地区时，他并未透露过多细节。但他确实表示，公司迈入 2026 年时的重点是其在纳什维尔与 Waymo 的合作，以及在伦敦与百度的合作（伦敦的商业化服务尚未启动）。\n\n“我认为明年大家将会看到更多样化的布局，”他说道，并补充称理想情况下这将包括扩大 Lyft 与这两个合作伙伴的合作关系。“我认为明年对我们来说将是重要的一年。”\n\n而且国际市场似乎是该自动驾驶扩张计划的重要组成部分。伯德称伦敦是一个“令人着迷的市场”，且在我们的整场交谈中，他反复将 Lyft 描述为一家全球性公司，这与几年前仅聚焦美国本土市场的战略相比是一个显著的转变。\n\n那么，Lyft 接下来将去往何方？在国际市场方面，Lyft 似乎优先考虑从一开始就能运营混合网络（即自动驾驶汽车与人类驾驶汽车并存）的地区。\n\n“我们是一家正在变得更加全球化的跨国公司，这对我们至关重要，”他表示。“而自动驾驶汽车将是我们构想未来的方式。就像我们进入任何市场一样，那里是否有自动驾驶的组成部分？在监管层面，它是否已经对自动驾驶开放，抑或是这会让该市场在我们希望进驻的地点清单中排名更靠前？”\n\n有消息灵通人士注意到福特近期完成了几项耐人寻味的人事招募，看起来这家公司显然正在增强其国防科技实力。福特最近聘请了雷神公司前员工托马斯·塞涅马丁（Tomaz Seignemartin）担任持续改进副总裁，并聘请了通用动力前员工希里什·斯里尼瓦桑（Shirish Srinivasan）出任福特首席战略官的幕僚长。福特还聘请了洛克希德·马丁公司的前生成式人工智能团队负责人内森·里戈尼（Nathan Rigoni）担任高级软件工程师。\n\n当然，对于一家拥有数万名员工的企业而言，少数几位国防科技背景的招聘很难称得上构成了一种趋势。但这确实表明，具备国防科技背景如今变得越来越有价值。\n\n有新闻爆料要提供给我们吗？请发送邮件至 Kirsten Korosec 的邮箱 kirsten.korosec@techcrunch.com，或通过 Signal 联系 kkorosec.07；也可发送邮件至 Sean O’Kane 的邮箱 sean.okane@techcrunch.com。\n\nThe Boring Company，这家由埃隆·马斯克创立、旨在通过建设地下隧道网络来“解决交通拥堵”的初创公司，在一轮由阿拉伯联合酋长国领投的融资中筹集了 30 亿美元。该公司在公告中表示，The Boring Company 目前的估值已达 230 亿美元。阿联酋的支持事出有因：此前已与阿联酋就“迪拜环线”（Dubai Loop）展开合作的 The Boring Company 表示，将在该中东国家再开挖 150 公里的隧道。\n\nAndreessen Horowitz、红杉资本（Sequoia Capital）、Human Capital、Vy Capital 以及 Valor Equity Partners 也参与了本轮投资。\n\n在美国，The Boring Company 最广为人知的项目位于拉斯维加斯，该公司在那里修建了连接名胜世界（Resorts World）、安可（Encore）和萨哈拉（Sahara）等赌场度假酒店、会议中心以及往返机场有限路线的隧道。由人类驾驶的特斯拉汽车负责接送往返于这些地点的乘客。\n\n本周引起我关注的其他交易包括……\n\n总部位于肯尼亚的电动出行初创公司 ARC Ride 在由 Novastar Ventures 和 Norrsken22 领投的一轮融资中筹集了 3330 万美元。其他投资方包括国际金融公司（IFC）、英国国际投资公司（BII）、Proparco、日本供应商武藏精密（Musashi Seimitsu）以及非洲影响力投资机构 Talanton。\n\n以在园区和机场运营自动驾驶无人小巴闻名的初创公司 Beep 在由其现有技术合作伙伴 Mobileye 领投的 B 轮融资中筹集了 2000 万美元。这家总部位于佛罗里达州奥兰多、成立于 2019 年的公司表示，迄今已筹集了 1.3 亿美元。\n\n专注于电动卡车充电物流的德国慕尼黑软件初创公司 Fryte Mobility 筹集了 350 万欧元（约合 400 万美元）的种子轮资金，由 4impact capital 和 Rethink Ventures 联合领投。现有投资方 Revent、F-LOG、accilium ventures 以及未公开的天使投资人也参与了跟投。\n\n保时捷完成了将其持有的 Bugatti Rimac 和 Rimac Group 股份向 HOF Capital 的出售。保时捷在本次出售中获得了约 10 亿欧元，其中约 2.5 亿欧元收益将用于进一步充实其养老金储备。\n\nPoseidon Aerospace 在其无人货运飞机“白鹭”（Egret）预计于今年底进行首飞之前筹集了 6000 万美元。该 A 轮融资由早期风投机构 TQ Ventures 领投，并获得了韩华资产管理（Hanwha Asset Management）、G Squared 和 JAWS 的新注资。现有投资方 Starship Ventures、Draper Associates 和 Drover Ventures 亦参与了投资。\n\nStoke Space 可能并非传统的交通运输公司，但这家可复用火箭公司的 10 亿美元融资及其部分支持者引起了我的注意。该轮融资由 Point72 Ventures（对冲基金亿万富翁史蒂夫·科恩的科技投资机构）和 Spark Capital 领投，参投方包括 General Innovation、Glade Brook Capital、US Innovative Technology、Washington Harbour Partners、Woven Capital 和 Y Combinator 等。\n\n总部位于德克萨斯州奥斯汀、致力于开发 GPS 替代方案的初创公司 Tern 获得了来自美国陆军的价值 1126 万美元的合同。该初创公司表示，美国陆军车辆将采用其被称作“战场谷歌地图”的技术。\n\nUber 在印度车队管理初创公司 Carrum Mobility 的 B 轮融资中投资了 1000 万美元。这笔新投资使 Carrum 的投后估值达到 160 亿卢比（约合 1.68 亿美元）。\n\n由TrueCar创始人斯科特·佩恩特（Scott Painter）创立的加州电动汽车订阅服务平台Autonomy正在进行业务转型。这家险些倒闭的公司正向其车队中引入内燃机车辆。\n\nBeta Technologies、Joby Aviation和Wisk这三家研发电动飞机的公司，作为美国联邦航空管理局（FAA）“先进空中交通与电动垂直起降（eVTOL）整合试点项目（eIPP）”的一部分，已在德克萨斯州启动试飞演示。这项为期一周的活动将允许这些公司测试实际飞行路线，包括前往达拉斯-沃思堡国际机场的航线。\n\n据《金融时报》报道，特拉维斯·卡兰尼克（Travis Kalanick）旗下的初创公司Atoms正准备大举招聘，旨在进军无人驾驶出租车业务。\n\nTechCrunch记者贾格米特·辛格（Jagmeet Singh）深入报道了Uber的竞争对手inDrive及其在网约车之外扩大业务规模的努力。\n\n总部位于美国的自动驾驶汽车研发商近来可能占据了大部分关注度，但美国本土之外同样涌现出许多值得关注的动态。仅在本周，我们就看到中国自动驾驶开发商小马智行（Pony.ai）以及克罗地亚的Verne（马特·里马克名下的另一家公司）开始在萨格勒布的公共道路上进行面向乘客的完全无人驾驶试乘测试；与此同时，西班牙向文远知行（WeRide）及其合作伙伴Uber和Avomo颁发了首批全国性自动驾驶汽车许可证。\n\n与此同时，中国无人配送车公司新石器（Neolix）开始在日本的封闭场地内进行测试；小马智行在卡塔尔多哈的演示中撤除了其自动驾驶测试车内的人类安全员。不过在商业化运营中，小马智行与其合作伙伴Mowasalat的无人出租车驾驶位后方仍配备有人类操作员。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取小额佣金。这不会影响我们的编辑独立性。\n\n交通出行版编辑\n\n预订展位桌的截止日期为9月18日。切勿错过在Disrupt展厅中获得高价值销售线索、接触投资人以及提升品牌曝光的机会。\n\nRevolut证实因虚假政府请求导致客户数据泄露\n\n由于Astra需求过大，OpenAI暂停Pro订阅服务\n\n身份验证巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照被盗\n\nAutomattic董事会迫使首席执行官马特·穆伦威格（Matt Mullenweg）休假离职\n\n苹果发布其首款折叠屏手机iPhone Duo\n\n纽约大学数学家称OpenAI在关乎职业前途的数学难题上采取了不光彩手段\n\n一部关于伊丽莎白·霍姆斯的秘密新纪录片震撼特柳赖德电影节",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 42,
+        "translationParagraphs": 42,
+        "keyTakeaways": [
+          "Waymo的Robotaxi正式上线纳什维尔的Lyft应用，Lyft通过全资子公司Flexdrive负责车辆就绪、维护、基础设施及车场运营等车队服务。",
+          "Lyft曾在2021年以5.5亿美元将其自动驾驶部门出售给丰田旗下的Woven Planet Holdings。",
+          "来源叙事重点：以Lyft在纳什维尔接入Waymo无人驾驶出租车为切入点，强调Lyft从自研自动驾驶转向通过合作伙伴进入商业Robotaxi服务，并将其置于全球化、混合运营网络和自动驾驶产业扩张的背景下。同时以行业简讯形式集中呈现融资、并购、人才流动、监管许可、测试活动及国防技术关联等动态，突出资本投入和企业战略信号。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:04:00.000Z",
+            "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
+          }
+        ]
+      },
+      {
+        "id": "story-5-4ff9-bfd9-3317413800ff-09a095205e8e7b80",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Le Pen vows to put French citizens first in campaign launch",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T15:49:12.000Z",
+        "pubTime": "2026-09-13 23:49",
+        "url": "https://www.ft.com/content/d25e4152-afc5-4ff9-bfd9-3317413800ff?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F83124629-99c8-4772-8f78-7142d25aa675.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Far-right candidate seeks to stamp her authority on her party after weeks of internal tensions",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-13 23:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d25e4152-afc5-4ff9-bfd9-3317413800ff?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-13T15:49:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ce-among-students-ntwnfb-7fc0c246275c67a6",
+        "title": "遭受性侵后重返校园的学生：“第二天你照样得回学校，只能默默承受”",
+        "originalTitle": "The students returning to school after sexual assault: ‘You go back the next day, and you just deal with it’",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T15:00:06.000Z",
+        "pubTime": "2026-09-13 23:00",
+        "url": "https://www.theguardian.com/society/2026/sep/14/how-should-australian-schools-deal-with-sexual-assault-violence-among-students-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/20e3f69432a3fa56db2096e0b806fc48a24fb4e0/1311_0_4139_3311/master/4139.jpg?width=140&quality=85&auto=format&fit=max&s=2db8b428eb7cd3b0533e445d1d5650ee",
+        "fullContent": "Peer-on-peer violence is on the rise. But when schools must balance a duty of care to both victims and perpetrators, where does this leave girls who have to pursue their education in the shadow of sexual assault?\n\nIn the wake of the latest headlines about alleged sexual assaults involving school boys and the death of a 16-year-old girl from suspected sexual choking, national cabinet has agreed to prioritise its plan to end sexual violence against women , the NSW government has flagged a new set of priorities with education ministers and the federal government has announced draft legislation for a digital duty of care . Meanwhile, the victim at the centre of an alleged gang-rape involving two students from a Sydney private school and another boy has prepared to sit her HSC exams.\n\n“I can’t imagine what she is going through,” police prosecutor Sergeant Rhonda Riley told the court last month. “But she will need to complete her HSC going through pain and fear – not only mentally – for some time going forward.”",
+        "fullTranslation": "同侪之间的暴力正在不断增加。但当学校必须兼顾对受害者和加害者双方的照护义务时，那些不得不在性侵阴影下继续求学的女孩们又该何去何从？\n\n近期，涉及男学生的涉嫌性侵事件频上头条，一名16岁少女亦疑似因性窒息死亡。在此背景下，澳大利亚国家内阁已同意优先推进消除针对女性性暴力的计划，新南威尔士州政府已向各教育部长提出了一系列新的优先工作事项，联邦政府也宣布了一项关于“数字照护义务”的立法草案。与此同时，在一起涉及悉尼一所私立学校两名学生和另一名男生的涉嫌轮奸案中，受害少女正在准备参加她所在州的高中毕业证书考试（HSC）。\n\n“我无法想象她正在经历着什么，”警方检控官朗达·莱利警长（Rhonda Riley）上个月向法庭表示，“但在接下来的这段时间里，她将不得不在痛苦与恐惧中——不仅是心理层面的——完成她的HSC考试。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "同龄人间暴力（Peer-on-peer violence）呈上升趋势。",
+          "澳大利亚国家内阁已同意优先推进终结针对女性性暴力的计划。",
+          "来源叙事重点：以遭受性侵的女学生为中心，强调她们在创伤、恐惧和持续求学之间承受的压力，并提出学校在保护受害者与履行对涉嫌施害者的照护责任之间如何平衡的问题。报道同时将个案置于澳大利亚政府拟推进终结针对女性性暴力、州政府教育优先事项及联邦数字注意义务立法的政策背景下。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T15:00:06.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/14/how-should-australian-schools-deal-with-sexual-assault-violence-among-students-ntwnfb"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-ws-articles-cx2z79n0eeno-49eac2969b438776",
+        "title": "访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论",
+        "originalTitle": "Trump doubles down on united Ireland comments on day two of visit",
+        "source": "BBC World (英国BBC官方英文)",
+        "sourceSlug": "bbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:57:58.000Z",
+        "pubTime": "2026-09-14 00:57",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a6/live/33fb3fc0-af7e-11f1-913a-7151f234deb3.jpg",
+        "fullContent": "Donald Trump is on day two of the visit to Ireland where he will spend the day at Trump International Golf Links in Doonbeg, County Clare, for the Irish Open\n\nPresident Donald Trump has doubled down on his support for a united Ireland.\n\nHe's on day two of a visit, which he is spending at Trump International Golf Links in Doonbeg, County Clare, for the Irish Open.\n\nOn Saturday, Trump told reporters he would love to see a united Ireland while at a meeting with the Taoiseach (Irish PM) Micheál Martin in Dublin.\n\nSpeaking on Sunday at his Doonbeg golf resort, he said it would be natural to put Ireland and Northern Ireland \"together\".\n\nHe spoke to reporters after watching the tournament leader Irish golfer Shane Lowry tee off.\n\nHe described what he said about a united Ireland as \"a fairly routine comment\".\n\nThis video can not be played\n\nWatch: Trump says Northern Ireland joining Ireland only natural\n\n\"I've always loved the people of Ireland. It just seems to me you have Northern Ireland and Ireland,\" he said\n\n\"It seems that one of the naturals of all time is to put them together.\n\n\"That's only my opinion, and by the way many people agree.\"\n\nThe president sidestepped a question about Scottish independence.\n\n\"I won't talk about Scotland yet I will save that,\" he said.\n\nAsked about Prime Minister Andy Burnham's remarks that there would be no poll on Irish unity until a majority in Northern Ireland were likely to vote in favour, Mr Trump added: \"Everybody says that and then things happen.\"\n\nTrump's comments on a united Ireland may have targeted audience across the Atlantic\n\nWhat's next after Donald Trump's united Ireland comments?\n\nThe taoiseach said the president's remarks did not come as a \"surprise\" to him.\n\nSpeaking on Sunday at The Open, Martin referred to Trump asking about a \"merger\" of Northern Ireland and the Republic of Ireland at an event in Washington during the Saint Patrick's Day celebrations, which some believed to be a comment on unity.\n\n\"He would make the point this is his view. He believes unity is the logical way for the island to be configured and organised,\" Martin said.\n\nHe added: \"I think some of the reaction is an overreaction. It shouldn't be a surprise. He takes a different sort of perspective on things.\"\n\nTrump will hand over the winner's trophy on Sunday at the Trump International golf resort in Doonbeg before flying back to the US at the end of a two-day itinerary.\n\nMore than 10,000 people marched through Dublin on Saturday to show their opposition to the US president.\n\nOthers protesting against the visit have been arriving in buses to Doonbeg on Sunday, with about 100 protesters present.\n\nA small crowd were moved from the president's hotel by Gardai (Irish police), Irish broadcaster RTÉ is reporting.\n\nOn Saturday evening, three women were arrested for trespassing on the golf links at Doonbeg and appeared at a special sitting of Ennis District Court.\n\nRev Steven Foster, a Methodist minister from Galway, attended the anti-Trump protest in Doonbeg.\n\n\"I'm here because Trump is the exact opposite of everything I stand for as a follower of Jesus,\" he told BBC News NI.\n\nRev Steven Foster is in Doonbeg to protest against the visit\n\nFoster added: \"As a church leader, it's important for me to be visible, and the church needs to be visible in this regard.\"\n\nFoster said the \"type of welcome he has been given sends out a terrible message\".\n\nMartin Kelly, who's a business owner, says the golf course is a \"massive business\" for Doonbeg\n\nHowever, others have praised Trump for the benefits and jobs his golf course brings to the local area.\n\nMartin Kelly is a local businessman from Doonbeg and said the village is \"very fortunate\" to have the Trump International Golf Course.\n\n\"It's a massive employer here to be honest with you,\" he told BBC News NI.\n\n\"There's nothing else about here at that scale; they're very decent people to work for, they're very fair.\"\n\nHe said local people are \"very proud\" that the golf tournament is taking place there.\n\n\"We're not into politics here, we're into business. And it's a massive business to us. Doonbeg is one of the best links course in the world. Donald Trump isn't perfect but look he's not doing a bad job either.\n\n\"Hopefully Shane Lowry can win now with the help of God, and hopefully he can come to Doonbeg afterwards for a beer, I'll buy him one if he does.\"\n\nPublican Seoirse Comerford says the golf course gives \"a big boost\" to the local economy\n\nSeoirse Comerford owns the Comerford bar in Doonbeg. He described the tournament as \"unbelievable\".\n\n\"If you look at the red double decker buses going up and down the street full of people, we never thought we would have seen the like of that.\"\n\nHe said the golf course is a big employer and is keeping Doonbeg \"alive\".\n\n\"Most rural villages in west Clare are all dying a death, young people going away to college, they don't come back.\n\n\"Like there's over 300 people employed up there at the golf course , it's a big boost to the local economy. You've got big companies in Dublin, like Intel, the golf course is our Intel down here.\n\n\"I probably wouldn't have taken over the bar business other than the golf course being up there.\n\n\"We would have had 1,000 plus through the pub on Saturday night and the same Friday night, so there's a lot of people around the village, which is great to see.\"\n\nUnited Ireland would be a 'great thing', says Trump during first day of Irish visit\n\nTrump jokes about united Ireland comments\n\nFrom JFK to Biden, Trump joins well-trodden path to the Emerald Isle",
+        "fullTranslation": "唐纳德·特朗普进入访问爱尔兰的第二天，他当天在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，出席爱尔兰公开赛。\n\n唐纳德·特朗普总统再次坚定表达了他对统一爱尔兰的支持。\n\n目前他正处于访问的第二天，这一天他在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，现场观看爱尔兰公开赛。\n\n周六，特朗普在都柏林与爱尔兰总理迈克尔·马丁会晤时对记者表示，他非常乐见一个统一的爱尔兰。\n\n周日，他在自己的敦贝格高尔夫度假村发表讲话时表示，将爱尔兰和北爱尔兰“合在一起”是顺理成章的。\n\n在观看暂列赛事榜首的爱尔兰高尔夫球手肖恩·劳瑞开球后，他对记者发表了上述讲话。\n\n他把自己关于统一爱尔兰的表态形容为“一句相当寻常的评论”。\n\n该视频无法播放\n\n观看：特朗普称北爱尔兰加入爱尔兰是顺理成章的事\n\n他说：“我一直热爱爱尔兰人民。在我看来，既然有北爱尔兰和爱尔兰。”\n\n“将它们结合在一起，似乎一直以来都是再自然不过的事情之一。”\n\n“这只是我个人的看法，顺便说一句，很多人都同意这一点。”\n\n这位总统回避了有关苏格兰独立的问题。\n\n“我暂时不会谈论苏格兰，我会留到以后再说，”他说。\n\n当被问及英国首相安迪·伯纳姆关于“在北爱尔兰大多数人可能投赞成票之前不会举行关于爱尔兰统一的公投”的言论时，特朗普先生补充道：“大家都会这么说，但随后事情就会发生。”\n\n特朗普关于统一爱尔兰的言论可能瞄准了大西洋彼岸的受众\n\n唐纳德·特朗普发表统一爱尔兰言论后下一步会如何？\n\n爱尔兰总理表示，总统的言论并没有让他感到“意外”。\n\n周日在公开赛现场发表讲话时，马丁提到特朗普在圣帕特里克节庆祝活动期间于华盛顿举行的一场活动中曾询问北爱尔兰与爱尔兰共和国“合并”一事，有人认为这是对统一的看法。\n\n“他会申明这是他的观点。他认为统一是爱尔兰岛布局和构建的符合逻辑的方式，”马丁说。\n\n他补充道：“我认为部分反应有些过激了。这不应该让人感到意外。他对事情有着不同寻常的视角。”\n\n特朗普将于周日在敦贝格的特朗普国际高尔夫度假村颁发冠军奖杯，随后在结束为期两天的行程后乘机返回美国。\n\n周六，超过1万人游行穿过都柏林，抗议这位美国总统的到访。\n\n其他抗议此次访问的人士在周日乘坐大巴陆续抵达敦贝格，现场聚集了大约100名抗议者。\n\n据爱尔兰广播电视台（RTÉ）报道，爱尔兰警察（Gardai）将一小群人从总统下榻的酒店前劝离。\n\n周六晚间，三名女性因非法闯入敦贝格高尔夫球场而被捕，并在恩尼斯地区法院的特别庭审中出庭。\n\n来自戈尔韦的循道宗牧师史蒂文·福斯特牧师参加了敦贝格的反特朗普抗议活动。\n\n“我来到这里是因为作为耶稣的追随者，特朗普与我所坚持的一切完全相反，”他告诉BBC北爱尔兰分台。\n\n史蒂文·福斯特牧师在敦贝格抗议此次访问\n\n福斯特补充道：“作为教会领袖，我站出来非常重要，教会在这方面也需要表明立场。”\n\n福斯特表示，“给予他的这种礼遇释放了一个极其糟糕的信号”。\n\n企业主马丁·凯利表示，高尔夫球场对敦贝格来说是“一桩巨大的产业”\n\n然而，其他人则对特朗普的高尔夫球场给当地带来的利益和就业机会表示赞赏。\n\n来自敦贝格的当地商人马丁·凯利表示，该村拥有特朗普国际高尔夫球场“非常幸运”。\n\n“实话实说，它在这里是一个体量巨大的雇主，”他告诉BBC北爱尔兰分台。\n\n“这附近没有其他如此规模的企业了；他们是非常体面的雇主，也非常公平。”\n\n他表示，当地人对这里能举办高尔夫锦标赛感到“非常自豪”。\n\n“我们在这里不谈政治，我们谈的是商业。这对我们来说是一笔巨大的生意。敦贝格是世界上最好的林克斯球场之一。唐纳德·特朗普并不完美，但他做得其实也还不错。”\n\n“希望在上帝的保佑下肖恩·劳瑞现在能够夺冠，也希望他赛后能来敦贝格喝杯啤酒，如果他来的话我请客。”\n\n酒吧老板肖尔斯·默福德表示高尔夫球场为当地经济提供了“巨大的提振”\n\n肖尔斯·默福德在敦贝格拥有默福德酒吧。他将这场锦标赛形容为“令人难以置信”。\n\n“如果你看看街上载满乘客来来往往的红色双层巴士，我们从没想过能见到这样的景象。”\n\n他表示，高尔夫球场是一个大型雇主，正让敦贝格保持“活力”。\n\n“克莱尔西部的大多数乡村都在走向衰败，年轻人外出读大学后就不再回来了。”\n\n“高尔夫球场那里雇用了300多人，这是对当地经济的巨大促进。都柏林有像英特尔这样的大公司，而在我们这里，高尔夫球场就是我们的英特尔。”\n\n“如果不是因为高尔夫球场坐落在那儿，我可能根本不会接手这家酒吧生意。”\n\n“周六晚上我们酒吧接待了1000多人，周五晚上也是一样，所以村里到处都是人，看到这幅景象真的很棒。”\n\n统一的爱尔兰将是“一件好事”，特朗普在访问爱尔兰第一天表示\n\n特朗普就统一爱尔兰言论开玩笑\n\n从肯尼迪到拜登，特朗普重踏通往“翡翠岛”的熟悉足迹",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 50,
+        "translationParagraphs": 50,
+        "keyTakeaways": [
+          "特朗普在访问爱尔兰的第二天再次表达了对爱尔兰统一的支持，并表示将爱尔兰和北爱尔兰联合起来是顺理成章的（natural）。",
+          "周六在都柏林与爱尔兰总理米歇尔·马丁会晤时，特朗普对记者表示乐见一个统一的爱尔兰。",
+          "来源叙事重点：聚焦唐纳德·特朗普在访问爱尔兰期间再次表态支持‘爱尔兰统一’，突显其言论对英爱地缘政治传统的触动，并对比了都柏林及敦贝格的大规模抗议与当地商业依托高尔夫球场获得的经济利益。"
+        ],
+        "citations": [
+          {
+            "source": "BBC World (英国BBC官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:57:58.000Z",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 在端到端系统中信赖并应用 GPT-6 Astra",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 使用 Astra 来撰写沟通文稿、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。\n\n作为一款人工智能驱动的回答引擎，Perplexity 高度专注于搜索和准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之改善。它能够编写出更优质的程序来检索网络及内部信息，并进行高度精炼的总结。\n\n但据 Johnny 表示，真正的挑战在于将这些信息维度的能力应用到真实世界的系统之中。而在 GPT-6 Astra 的助力下，这一过程变得更加轻松。\n\n对 Johnny 而言，人工智能最实用的应用之一是代码测试。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕某个应用程序构建一个小型测试程序。\n\n该模型能生成逼真的响应，就像其他外部服务发送的一样，例如某个语言模型 API 或连接器。通过代行这些服务的功能，该模型能够检查应用程序如何响应，并从头至尾测试整个工作流。\n\n工程 | 2026年9月11日\n应用AI | 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用Astra编写通信、修改软件并监控生产系统，且检查频率远低于早期模型。",
+          "Johnny Ho是Perplexity的联合创始人兼首席战略官。",
+          "来源叙事重点：强调GPT-6 Astra在端到端系统中的高可靠性与自主性，以知名AI搜索客户Perplexity的应用经验和高管背书，展示模型在代码编写、模拟测试及生产系统监控方面的生产力提升。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-g-is-that-legal-02143710-e44821b877a15f25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:30:00.000Z",
+        "pubTime": "2026-09-14 00:30",
+        "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-14 00:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-13T16:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-6-09-sorcery-repo-viewer-df2bc97da00eedfa",
+        "title": "如果我的 Git 托管平台是一个静态网站生成器会怎样？",
+        "originalTitle": "what if my git host were a static site generator?",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:10:06.000Z",
+        "pubTime": "2026-09-14 00:10",
+        "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+        "imageUrl": null,
+        "fullContent": "introducing: sorcery, the source-ery..\n\ni have been running several personal git forges for, at this point, almost half my life :o i like running my own dev infrastructure, not only because i’m almost always 120ms+ away from us-east-1, but because sysadmin is just plain fun :3 in 2015 i had a Gogs instance which became a Gitea instance which became a Forgejo instance, and i’ve also deployed GitLab/Forgejo several other times for various groups i’ve been a member of. i like the communal collaborative git forge, and Forgejo is great at this!\n\nbut my Forgejo server keeps running out of disk space (from crashing while repacking git repos that haven’t updated) and falling over / OOMing under ambient scraper load. for my needs it’s clear that this is just the wrong size of thing: on the tiny machines i use for personal infrastructure, the software can’t stand up to the internet’s cosmic microwave background radiation.\n\ni also kinda wanna simplify my experience by only exposing features i’ll actually use: Forgejo and its ilk do way more than i need them to: issues, PRs, releases, wikis - a bunch of GitHub feature-compatibility that i don’t care about, and pay some sort of cost for anyway :(\n\nthe usual antidote prescribed for Forgejo resource exhaustion is to block scrapers via a web application firewall like Anubis, which aims to gate access to the webapp behind a JavaScript proof of work challenge.\n\nbut this is counter to, like, the philosophy of the open web, right? the browser, ostensibly the “user agent”, is coerced into user-unfriendly behavior, executing near-useless code that taxes the user’s device (the point of the challenge is to spin!) - were it to refuse, no user-relevant information could be displayed at all. alternative browsers that don’t support JavaScript (or just don’t support JITted JavaScript) are either completely blocked off or locked behind a truly intrusive wait time. this deepens the oligoculture of the modern web, which i think is a bad thing.\n\nadditionally, deployment of such a thing is an admission of defeat - we surrender to the assumption that the fronted application does not work correctly when met with real-world internet traffic: isn’t this kind of ridiculous when we have a workload where reads so heavily outnumber writes? serving write-sparse data ought to be super cheap in practice: all of github pages ran on one machine for years!! why not have a git host where everything is static files?\n\nat its core, sorcery is shaped like a static site generator: when it receives an update to a git repo, it will rebuild a bunch of on-disk HTML for that repo - an overview page, the directory tree the tip commit of each branch, and syntax-highlighted source code renderings for each file in the tips. this allows us to pay a fixed upfront cost for serving many future requests, which means we are resilient against scraper load (because a sendfile-and-forget has basically negligible cost). however, since it would be expensive to render out HTML ahead of time for every revision of every file, we choose not to serve static historical views of the repo.\n\nrepo history viewing is an integral feature of a git web interface, though, so we serve the .git directory directly, implement a basic read-only git client in JavaScript, and then client-side render all the “rich views” of the repository - the repo site generator does also need to emit some supplementary JSON data to aid the git client, since we can’t reliably list directories in the git repo, but that’s still static!\n\nsince browsing around history can mean many fetches to different objects (commits, trees [i.e. repo directory listings], blobs [i.e. file contents]), a high-latency connection can cause direct object fetching and traversal to feel really slow. even moreso when git stores these objects compressed in delta-encoded packfiles: a naïve fetch of a packfile index in linux.git to view the diff of one commit would use over 400MiB of bandwidth!! and smartly scanning ranges would kill cache hit rates and also waterfall out to a bunch of requests that depend on the data in prior requests.\n\nso, as a non-static optimization1, we also provide a serverside route to fetch specific git objects by a list of object IDs (QUERY /<user>/<repo>/obj), returning a simple binary “git object bundle” format which gets trivially parsed on the client. this alleviates the burden of navigating packfiles on the client. additionally, even for loose object repos, we can still optimize roundtrips by providing “smart fetch” modes which traverse for referenced oids for a given access pattern (e.g. traversing commit history via commit.parent->parent->parent->…, or accessing all blobs in the trees of a pair of commits in order to diff them).\n\nso sorcery is a “git repo viewer” and not a “git forge” because it omits user accounts, ssh/gpg key management, and issues+patches entirely. in fact, sorcery proper is entirely read-only! repos are only ever written via git over ssh, which is separate to sorcery. you can run sorcery-ssh as your git user’s ssh ForceCommand, and it will provide “autocreate repo on first push” + the ability to edit repo descriptions. the benefit of this setup is that your public deployment is as secure as its sshd, which is reassuring in big 26 :)\n\nhistorical views do require JavaScript, but i’m not super into blanket js allergy on the web (because unless you live in Ashburn, running UI code on-device is basically always better!) - sorcery uses my own frontend microframework + a bunch of built-in web platform affordances + intentional codesplitting to create a rich clientside experience in a super lightweight manner! e.g. loading a project overview page transfers about 9kb of gzipped JS to support recent commit pagination / language filtering / links through to commit diffs - the largest part of the site ends up being the syntax highlighting grammars; i think i want to try writing a pure-javascript executor for tree-sitter grammars and queries so that we can shed some of the WASM weight (especially from the code that gets repackaged in each highlight language’s WASM bundle).\n\ni still like the communal git forge!! for my personal projects, i mostly just want somewhere to push code that i can browse from my phone / link to people: i don’t need collaborative features, and it’s much more lightweight this way. reading my code should never involve a ceremony of proof to the server that you’re worthy of receiving hypertext.\n\nin the near-term i want to add support for CI annotations (which i am opinionated about, and will talk about in a future blog post!! smash that RSS button) & maybe in the future i’ll extend the repo viewer into a discrete, more batteries-included forge project that i can use with my friends (once we really distill down to what’s most important to us and what is superfluous…)\n\nanyway, check it out!\n\nQUERY …/obj is truly just an optimization - if you deploy a built sorcery site completely statically, the git client will still fall back and directly fetch and parse packfiles and loose objects, it will just be wayyyy slower with high latency. ↩︎",
+        "fullTranslation": "隆重介绍：sorcery，代码魔法之地（the source-ery）……\n截至目前，我运行个人 Git 平台（git forge）已经差不多有半辈子了 :o 我喜欢运行自己的开发基础设施，不仅是因为我与 us-east-1 之间总是有 120 毫秒以上的延迟，更是因为做系统管理简直纯粹就是好玩 :3 2015 年我搭建了一个 Gogs 实例，后来变成了 Gitea 实例，再后来又变成了 Forgejo 实例；我还曾多次为我加入的各种团队部署过 GitLab/Forgejo。我喜欢社区协作型的 Git 平台，而 Forgejo 在这方面非常出色！\n\n但是我的 Forgejo 服务器老是耗尽磁盘空间（原因是在重新打包未更新的 Git 仓库时发生崩溃），并且在周围网络爬虫的常规负载下频繁宕机/内存溢出（OOM）。对于我的需求来说，很显然这类软件完全不适合这种规模：在我用于个人基础设施的小型机器上，这些软件根本经受不住互联网如同“宇宙微波背景辐射”般的常态扫描与抓取。\n\n我也挺想通过仅展示自己真正会用到的功能来简化体验：Forgejo 及其同类工具所做的事情远超我的需要——议题（issues）、拉取请求（PRs）、发布版本（releases）、维基（wikis）——一大堆我根本不在乎但无论如何都要为其付出某种代价的 GitHub 功能兼容性 :(\n\n针对 Forgejo 资源耗尽，通常开出的药方是通过像 Anubis 这样的 Web 应用防火墙（WAF）来拦截爬虫，其目的是通过 JavaScript 工作量证明（PoW）验证机制将 Web 应用的访问阻隔在门外。\n\n但这违背了开放网络的理念，不是吗？浏览器作为表面上的“用户代理（user agent）”，被迫做出对用户不友好的行为，执行毫无用处的代码来增加用户设备的负担（这种验证的目的就是让 CPU 空转！）——如果浏览器拒绝执行，就根本无法显示任何与用户相关的信息。不支持 JavaScript（或者仅不支持带 JIT 的 JavaScript）的替代浏览器要么被彻底阻断，要么被困在极其恼人的等待时间之后。这加剧了现代网络的单一寡头化，我认为这是一件坏事。\n\n此外，部署此类东西本身就是一种承认失败的妥协——我们屈服于一种假设，即所代理的应用程序在面对现实世界的互联网流量时无法正常工作：当我们面对的是一个读操作极度远多于写操作的负载时，这难道不可笑吗？在实践中，提供低频写入的数据服务理应非常廉价：整个 GitHub Pages 曾经仅靠一台机器就运行了多年！！为什么不能拥有一个完全基于静态文件的 Git 托管系统呢？\n\n从核心来看，sorcery 的形态就像一个静态网站生成器：当它接收到 Git 仓库的更新时，会为该仓库重新构建一系列位于磁盘上的 HTML——一个概览页面、每个分支最新提交（tip commit）的目录树，以及最新版本中每个文件带有语法高亮的代码渲染。这使我们能够付出一次性的固定前期成本来响应未来的大量请求，这意味着我们能够从容应对爬虫负载（因为采用 sendfile 方式发完即忘的基本开销微乎其微）。然而，由于提前为每个文件的每个历史版本都渲染出 HTML 成本过高，我们选择不对仓库的历史视图提供纯静态服务。\n\n不过，查看仓库历史记录是 Git Web 界面的核心功能，因此我们直接提供 .git 目录的服务，在 JavaScript 中实现一个基础的只读 Git 客户端，然后在客户端渲染仓库的所有“丰富视图”——仓库站点生成器确实也需要生成一些辅助性的 JSON 数据来协助 Git 客户端，因为我们无法可靠地列出 Git 仓库中的目录，但这些数据依然是纯静态的！\n\n由于浏览历史记录可能意味着需要对不同对象（提交 commit、目录树 tree [即仓库目录列表]、数据对象 blob [即文件内容]）发起多次获取，因此高延迟连接会导致直接获取和遍历对象时感觉非常缓慢。当 Git 将这些对象增量编码压缩存储在打包文件（packfiles）中时尤其如此：在 linux.git 中简单直接地获取一次打包文件索引以查看单个提交的 diff，就要消耗超过 400MiB 的带宽！！而聪明地扫描指定范围又会破坏缓存命中率，并引发一系列依赖于先前请求返回数据的请求瀑布流。\n\n因此，作为一种非静态的优化手段1，我们还提供了一条服务端路由，通过对象 ID（OID）列表来获取特定的 Git 对象（QUERY / / /obj），返回一种简单的二进制“Git 对象包”格式，可在客户端轻松解析。这减轻了客户端解析 packfile 的负担。此外，即使对于包含松散对象（loose object）的仓库，我们依然可以通过提供“智能获取”模式来优化往返通信，该模式能够针对给定的访问模式遍历所引用的 OID（例如，通过 commit.parent->parent->parent->… 遍历提交历史，或者访问一对提交中所有目录树的 blob 以便计算它们之间的 diff）。\n\n因此，sorcery 是一个“Git 仓库查看器（git repo viewer）”而非“Git 平台（git forge）”，因为它完全省略了用户账户、SSH/GPG 密钥管理以及议题与补丁（issues+patches）。实际上，sorcery 本身完全是只读的！仓库仅通过基于 SSH 的 Git 进行写入，这独立于 sorcery 之外。你可以将 sorcery-ssh 作为 Git 用户的 SSH ForceCommand 运行，它将提供“首次推送时自动创建仓库”功能以及编辑仓库描述的能力。这种架构的好处在于，你的公开部署与你的 sshd 一样安全，这在当下（2026年）让人感到格外安心 :)\n\n历史视图确实需要 JavaScript，但我对网络上全盘排斥 JS 的倾向并不怎么感冒（因为除非你住在阿什本，否则在本地设备上运行 UI 代码基本总是更优的选择！）——sorcery 使用了我自己的前端微框架，加上一系列内置的 Web 平台特性以及刻意为之的代码拆分（codesplitting），以极其轻量的方式创造了丰富的客户端体验！例如，加载项目概览页面大约传输 9kb 的 gzipped JS 即可支持近期提交的分页、语言过滤以及跳转到提交 diff 的链接——该站点体积最大的部分最终其实是语法高亮语法规则；我想尝试为 tree-sitter 语法和查询编写一个纯 JavaScript 的执行器，这样我们就能摆脱一些 WASM 的重量包袱（尤其是摆脱每个高亮语言的 WASM 包中被重复打包的代码）。\n\n我仍然喜欢社区型的 Git 平台！！对于我的个人项目，我主要只是想要一个可以推送代码、能让我用手机浏览以及能把链接发给他人的地方：我不需要协同工作功能，这样做要轻量得多。阅读我的代码绝不应该包含向服务器证明你配得上接收超文本的一整套繁文缛节。\n\n近期我想添加对 CI 注解（CI annotations）的支持（对此我很有自己的见解，会在以后的博文中展开聊！！快点订阅那个 RSS 按钮吧），也许将来我会把这个仓库查看器扩展成一个独立的、功能更完备（batteries-included）的 forge 项目供我和朋友们使用（一旦我们真正提炼出对我们最重要的东西、剔除掉多余的内容……）\n\n无论如何，去瞧瞧吧！\n\nQUERY …/obj 实际上纯粹是一项优化——如果你以完全静态的方式部署构建好的 sorcery 站点，Git 客户端依然会回退并直接拉取且解析打包文件（packfile）和松散对象（loose object），只不过在高延迟下速度会慢上极其极其多。↩︎",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "作者在2015年拥有一个Gogs实例，后来依次迁移转变为Gitea和Forgejo实例。",
+          "作者开发的软件名为sorcery，核心设计类似于静态网站生成器（SSG），定位为只读的Git仓库查看器（git repo viewer）而非包含完整功能的Git代码托管平台（git forge）。",
+          "来源叙事重点：介绍自研的静态Git仓库查看器“sorcery”，倡导通过“静态生成最新版本+客户端JS解析Git历史+SSH独立写入”的极简架构替代臃肿的全功能Git平台，批判利用PoW防火墙阻挡爬虫有违开放Web精神。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:10:06.000Z",
+            "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/"
+          }
+        ]
+      },
+      {
+        "id": "story-ng-age-south-dakota-html-6b2dca0b95c6241c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Luminescence dating pushes age of South Dakota's Mammoth Site back by more than 100,000 years",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:40:02.000Z",
+        "pubTime": "2026-09-14 00:40",
+        "url": "https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/luminescence-dating-pu-1.jpg",
+        "fullContent": "Deep within an ancient sinkhole lie the remains of dozens of mammoths, prehistoric wanderers who waded into the warm springs to their deaths. These deaths had long been accepted as having occurred roughly 26,000 years ago, but new dates published in the journal Quaternary Research suggest these ice-age giants were more than 160,000 years old.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 00:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html",
+            "publishedAt": "2026-09-13T16:40:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-maksim-2117465521-html-0ee1668946b8c656",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Актера Радугина внесли в базу данных \"Миротворца\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-13T16:56:16.000Z",
+        "pubTime": "2026-09-14 00:56",
+        "url": "https://ria.ru/20260913/maksim-2117465521.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/150665/41/1506654123_0:221:922:740_650x0_80_0_0_5ae65f29d3dce9c6bf50b2bb6b8ac175.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 00:56 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260913/maksim-2117465521.html",
+            "publishedAt": "2026-09-13T16:56:16.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-plan-for-ai-safeguards-6118181b33088941",
+        "title": "奥巴马敦促民主党就人工智能安全保障制定“明确计划”",
+        "originalTitle": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:30:00.000Z",
+        "pubTime": "2026-09-14 00:30",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "imageUrl": null,
+        "fullContent": "Former President Barack Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety, according to The New York Times.\n\nObama made these comments on Thursday, at Democratic fundraising event where he was interviewed by House Minority Leader Hakeem Jeffries. The NYT says that Obama’s office provided a partial transcript of the event, at which Jeffries asked Obama how congressional Democrats should approach AI.\n\nIn response, Obama said that once Democrats regain the House majority, they need to “put together a framework for a very public conversation.”\n\n“This is something that is moving very fast in private hands, and if we don’t get on top of it, I think can be dangerous,” Obama added. “If we do get on top of it, I do think it’s beneficial. I genuinely think it’s going to accelerate, for example, drug development in ways that can help us cure diseases.”\n\nIn a statement, Jeffries said the former president “is correct that decisive action must be taken on artificial intelligence.” Jeffries also said that “Republicans have abdicated their responsibility to govern on behalf of the American people.”\n\nThe NYT also reports that Obama has offered himself as a “sounding board” to AI executives and has spoken to both Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman. His comments come amidst growing concern around AI safety, particularly after an AI researcher resigned from Anthropic and claimed the leading AI companies are “racing straight to self-improving superintelligence and gambling with our lives.”\n\nOn Saturday, Amodei outlined a broad approach to “pacing the frontier,” which would include giving independent safety evaluators access to leading AI companies and models, as well as developing “common safety standards” between companies. In social media posts, Altman and SpaceX CEO Musk seemed to respond positively to Amodei’s plan, with Altman saying that OpenAI would also commit to “having independent evaluators with employee-like access.”\n\nPresident Donald Trump, meanwhile, discussed AI safety concerns with reporters at an Irish golf event on Sunday. Bloomberg reports that Trump boasted that the United States is “the most sophisticated country in the world,” adding that he wants “to keep it that way because whoever wins AI wins.” (Earlier this year, the Trump administration released a legislative framework for AI that would preempt state laws and shift the child safety burden to parents.)\n\n“And we can put guardrails,” Trump said. “We can do this and that. But I think you have a lot of negative forces that are bringing it up that shouldn’t be bringing it up.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAnthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride",
+        "fullTranslation": "据《纽约时报》报道，美国前总统巴拉克·奥巴马近日表示，民主党人需要将人工智能列为其“核心议程”之一，并“制定一个非常明确的计划”，以应对有关该技术对经济影响和安全性的担忧。\n\n奥巴马是在周四的一场民主党筹款活动上发表上述言论的，当时众议院少数党领袖哈基姆·杰弗里斯对他进行了采访。《纽约时报》称，奥巴马办公室提供了该活动的部分文字记录，杰弗里斯在会上询问奥巴马国会民主党人应如何应对人工智能。\n\n对此，奥巴马表示，一旦民主党夺回众议院多数席位，他们就需要“为开展极具公开性的对话构建一个框架”。\n\n“这项技术在私营部门手中发展得非常迅速，如果我们不能掌控局面，我认为它可能会变得危险，”奥巴马补充道，“如果我们确实能掌控它，我确实认为它是有益的。我由衷地认为，它将在能够帮助我们治愈疾病等方面加速药物研发。”\n\n杰弗里斯在一份声明中表示，这位前总统“在‘必须就人工智能采取果断行动’这一点上是正确的”。杰弗里斯还表示，“共和党人已经放弃了代表美国人民进行治理的责任”。\n\n《纽约时报》还报道称，奥巴马已自荐充当人工智能高管的“顾问”，并与Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）以及OpenAI首席执行官山姆·奥特曼（Sam Altman）进行过交谈。他的这些言论发表之际，正值外界对人工智能安全的担忧日益加剧，特别是在一名AI研究人员从Anthropic辞职并声称领先的AI企业正在“径直竞相迈向自我改进的超级智能，并在拿我们的生命作赌注”之后。\n\n周六，阿莫代伊概述了一种“平衡前沿发展步伐”（pacing the frontier）的总体方案，其中包括允许独立的安全评估人员接触头部AI企业和模型，以及在各企业之间制定“通用安全标准”。在社交媒体帖文中，奥特曼和SpaceX首席执行官马斯克似乎对阿莫代伊的方案作出了积极回应，奥特曼表示OpenAI也将承诺“让独立评估人员拥有类似员工的访问权限”。\n\n与此同时，唐纳德·特朗普总统周日在爱尔兰的一场高尔夫活动中向记者讨论了人工智能安全方面的担忧。彭博社报道称，特朗普吹嘘美国是“世界上最尖端的国家”，并补充说他希望“保持这种状态，因为谁赢得人工智能，谁就赢得了胜利”。（今年早些时候，特朗普政府发布了一项关于人工智能的立法框架，该框架将优先于州法律，并将儿童安全的责任转移给父母。）\n\n“而且我们可以设立护栏，”特朗普说，“我们可以做这做那。但我认为有很多不该提出这个问题的负面势力正在挑起这个话题。”\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n安东尼·哈（Anthony Ha）是TechCrunch的周末编辑。此前，他曾担任《Adweek》的技术记者、VentureBeat的高级编辑、《Hollister Free Lance》的地方政府记者，以及一家风投公司的内容副总裁。他现居纽约市。\n\n您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与安东尼取得联系或核实外联信息。\n\n预订展位的最后一天是9月18日。切勿错过在Disrupt展厅中获得高价值销售线索、接触投资人以及品牌曝光的机会。\n\nRevolut证实因虚假政府请求导致客户数据泄露\n\n受Astra需求激增影响，OpenAI暂停Pro订阅服务\n\n身份验证巨头IDScan证实发生数据泄露，超过1.5亿张驾照信息被盗\n\nAutomattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假\n\n苹果发布旗下首款折叠屏设备iPhone Duo\n\n纽约大学数学家称OpenAI在关乎其职业生涯的数学难题上采取了不光彩手段\n\n一部关于伊丽莎白·霍姆斯（Elizabeth Holmes）的神秘全新纪录片惊艳特柳良德电影节",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 20,
+        "keyTakeaways": [
+          "奥巴马在周四的民主党筹款活动中表示，民主党需要将人工智能列为“核心议程”，并制定“非常清晰的计划”来应对该技术带来的经济影响和安全担忧。",
+          "该筹款活动中，众议院少数党领袖哈基姆·杰弗里斯对奥巴马进行了采访，奥巴马办公室提供了部分活动记录。",
+          "来源叙事重点：聚焦前总统奥巴马督促民主党将AI安全与经济影响列为核心施政框架，并勾勒出政界两党（民主党强调建立公共安全防护框架 vs 特朗普政府主导的国家竞争优先与去监管化导向）及科技领袖（Anthropic与OpenAI支持独立评估）的立场互动"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:30:00.000Z",
+            "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4332-af34-ffc9ce45eadf-78ec92b8318b8677",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia strikes Ukraine train line moments after foreign dignitaries pass",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:11:26.000Z",
+        "pubTime": "2026-09-14 00:11",
+        "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b31a1c7-c48e-4c9e-8cad-139370d6b4f6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Train struck on route used by David Petraeus, Boris Johnson, Carl Bildt and other senior officials",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-14 00:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-13T16:11:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-o-devs-should-learn-odin-82e3165a7a942b00",
+        "title": "Golang 开发者应该尝试 Odin",
+        "originalTitle": "Golang developers should try Odin",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T15:23:41.000Z",
+        "pubTime": "2026-09-13 23:23",
+        "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+        "imageUrl": null,
+        "fullContent": "The Hitchhiker’s Guide to Valhalla\n\nOctober 24, 2024 · 14 min read\n\n(BEWARE: the article may cause seizures)\n\nI’ve been using Golang for 10 years, and even though I tried other programming languages, I always went back to it because of its simplicity.\n\nIt is so simple that reading the source code and playing around helped me pick up the majority of the syntax when I first got into Golang.\n\nHowever, it pains me to say that Golang has problems because of its garbage collector and runtime.\n\nSome of the problem are listed here:\n\nBut even with these problems, I still prefer Golang to other programming languages, until I met Odin a week ago, and it was love at first sight.\n\nThis article will show you the beauty of Odin.\n\nOdin is a new programming language that is\n\nPeople think that it is only for game development just because it includes 3D libraries with the compiler, but I disagree. Odin is also for backend development because it has a core library similar to Go’s standard library. Which means that it has all the building blocks for us to copy the rest of Go’s libraries like Chinese manufacturers.\n\nI know that some of you play around with Rust, Zig, C3 or Hare, but these do not have array programming and struct tags in their languages.\n\nIt even has quaternions! Do you know what that is? Me neither! But I am excited to learn.\n\nThe language will not change and it will stay stable until you retire. However, the compiler, toolchain, and core library are still in development and always improved.\n\nAlso, it is used in production from JangaFX and ChiAha™\n\nThe language has 31 keywords, but each keyword may have a #directive or @(attribute). It may seem too much for someone that cannot remember more than 26 keywords like me, but all the keywords, directives, and attributes connect so seamlessly together like reading English.\n\nFor example, the switch-case that works like in Golang requires from the user to specify every case, unless you put the #partial directive in front of it.\n\nIt will really make sense to you how easy it is for you to understand the code without knowing the language. Take 10 minutes to read demo.odin, its got almost everything you need to get started.\n\nYes, it does not have documentation (no, the overview is not a real documentation), but that is the beauty of it. You learn to code in Odin by reading other’s people code. Most of the standard library does not have comments or examples, but you can easily understand how to use it through its source code.\n\nNo, it does not have macros, or comptime, or constexpr or decorators and it is better that way because every language that has them makes developers to waste 90% of their time googling for every library that uses them.\n\nTrust me, stick with Odin’s pre-defined directives and attributes.\n\nYes, it has generics, and they are more well-designed than Golang’s generics.\n\nNo, it does not have a package manager, or go.mod file or anything else. The package is just a directory that you just copy to your project, and you call it relative to the path of the source code file.\n\nYes, compiler is as simple as Golang’s compiler.\n\nYes, it has VSCode plugin with autocompletion.\n\nOdin has manual memory management, which is why it does not have Closures, Composition, Goroutines, and Selectors. However, I will demonstrate how you can live without them.\n\nSecondly, it lacks libraries, which is why I’m trying to get you to learn it so you can copy your libraries from Go to Odin.\n\nLastly, it does not have documentation or books, but if you have years of experience in Go, then Odin will feel like home.\n\nLiving without a garbage collector means that you don’t have errors.New() or fmt.Errorf(). There is no error type in Odin. You only have Enums, Unions and Structs, and that is better than Go’s errors.\n\nGolang’s errors makes you push server-side error messages to users, and you cannot do anything to stop it. That is not a good thing because users don’t need to know what is SQL or that the bank_account is nil.\n\nFurthermore, another problem is that Go’s errors do not have stack traces.\n\nFor each function you create, also include an enum or a union or a struct to represent the error for that specific function.\n\nWhen a function returns an error that it received from another function, and so forth, you will receive an error value similar to this.\n\nFrom there you can create trees of switch statements that return proper user messages.\n\nAnd also you can print it like a stack trace using my library\n\nEven by looking the type of errors you can guess what the functions do.\n\nNo other programming language can do that.\n\nIf Odin can’t help the economy, then nothing can.\n\nBefore we talk about memory management let me clarify three things:\n\nIf you read demo.odin then you already know how pointers work, but if you haven’t already then just remember:\n\nIf you double delete() or double free() a pointer, then the you will get “Segmentation fault”\n\nIf you read pointer after free() or delete(), you will get random value\n\nIf you make() an array of new() pointers then you have to free() the pointers inside the array before deleting the array, or else it will cause a memory leak.\n\nFor your global pointers, assign nil after you deallocate them and check for nil before you deallocate, read, or assign the pointer.\n\nFor your local pointers, use defer to deallocate the pointer. Always put defer under the allocation so it is easy to see the deallocation.\n\nIf a procedure contains the parameter “allocator := context.allocator” then 99% of the time the results need to be deallocated. This means that you have to call delete()/free() or call another procedure from the same library that will deallocate the pointer for you.\n\nUse Arena_Allocator to allocate an array of pointers and then just destroy the arena.\n\nOdin does not have interfaces, which is why I say that they work like quantum entities. When you look at them, they act like interfaces, but when you don’t look at them, they are just pointers.\n\nThere are two ways to write interfaces in Odin.\n\nThis example emulates composition.\n\nAlso, this is how interfaces used in Odin’s standard library.\n\nFor example, sort.Interface in Odin is copied from Go using this type of interface structure.\n\nHere is an example that looks like Java’s abstract class.\n\nAlso, you can’t add more than one interface to a struct or you’ll start getting weird shit or segmentation faults. So in the end, it also works like in java.\n\nOdin does not have goroutines or selectors because they need garbage collectors to work.\n\nHowever, I have written a complete example just for you on how to emulate goroutines and selectors in Odin.\n\nThis example demonstrates the feeding process for baby birds from their parents.\n\n(You know the process. Mama bird throws up on the kids mouth to feed them. Isn’t nature beautiful?)\n\nIf you haven’t figured out what is the selector and the goroutines in this example, then look at the union and threadpool.\n\nOne channel that accepts the union type message is equivalent to using two channels and a selector in Golang because each individual type in the union is equivalent to a channel in a selector. The union emulates the selector.\n\nThe threadpool is equivalent to Golang’s runtime because it runs the threads in a head of time that will be used later on to run the goroutines.\n\nJust remember your university’s Java course on concurrency, use threads for long-running tasks, threadpools for small tasks and paracetamol for deadlocks.\n\nWith this article, I hope now you understand Odin’s potential for the future and as a Golang’s replacement for backend development.\n\nBy the way, if you read demo.odin and my explanations without skipping anything, then from now on you are a Senior Odin Developer. (ooops!)\n\nTo be a Grandmaster Odin Developer, just scroll overview and how to bind to C",
+        "fullTranslation": "英灵殿漫游指南（The Hitchhiker’s Guide to Valhalla）\n2024 年 10 月 24 日 · 阅读时长 14 分钟\n（警告：本文可能引发不适）\n我使用 Golang 已经 10 年了，尽管我也尝试过其他编程语言，但因为它的简洁性，我总是会重新回到它身边。\n它如此简单，以至于当我刚接触 Golang 时，仅靠阅读源码和动手实践就掌握了它的大部分语法。\n然而，不得不承认，由于垃圾回收器（GC）和运行时的存在，Golang 也有不少问题。\n这里列出了其中的一些问题：\n但即便存在这些问题，在遇到其他编程语言时我依然更倾向于 Golang，直到一周前我遇见了 Odin，那一刻真是一见钟情。\n这篇文章将带你领略 Odin 之美。\nOdin 是一门全新的编程语言，它\n人们仅仅因为它的编译器自带了 3D 库，就以为它只适用于游戏开发，但我并不认同。Odin 也同样适用于后端开发，因为它拥有一个类似于 Go 标准库的核心库。这意味着它具备了所有的基础构建块，能让我们像某些厂商模仿制造一样，把 Go 的其余库都复刻过来。\n我知道你们当中有些人会摆弄 Rust、Zig、C3 或 Hare，但这些语言并不具备数组编程（array programming）和结构体标签（struct tags）。\n它甚至还支持四元数（quaternions）！你知道那是什么吗？我也不知道！但我很兴奋能学到它。\n这门语言不会再发生变动，直到你退休前它都会保持稳定。不过，编译器、工具链和核心库仍在开发中，并且在不断得到改进。\n此外，它已被 JangaFX 和 ChiAha™ 应用于生产环境中。\n这门语言有 31 个关键字，但每个关键字都可能带有 #指令（#directive）或 @(属性)（@(attribute)）。对于像我这种记不住超过 26 个关键字的人来说，这可能显得有点多，但所有的关键字、指令和属性之间的衔接非常流畅，读起来就像读英语一样自然。\n例如，工作方式类似于 Golang 的 switch-case 语句要求用户明确指定每一个分支情况，除非你在它前面加上 #partial 指令。\n你会真正体会到，即使不懂这门语言，理解其代码也是多么容易。花上 10 分钟阅读 demo.odin，里面几乎涵盖了你入门所需的一切。\n是的，它没有正式文档（不，概览页面并不是真正的文档），但这正是其魅力所在。你是通过阅读别人的代码来学习用 Odin 编程的。标准库的大部分内容既没有注释也没有示例，但你完全可以通过其源代码轻松理解如何使用。\n不，它没有宏（macros），没有 comptime（编译期计算），没有 constexpr，也没有装饰器（decorators），而这样其实更好，因为拥有这些特性的每门语言都会让开发者把 90% 的时间浪费在 Google 搜索使用它们的各种库上。\n相信我，坚持使用 Odin 预定义的指令和属性就好。\n是的，它支持泛型，而且比 Golang 的泛型设计得更好。\n不，它没有包管理器，没有 go.mod 文件，也没有类似的其他东西。包仅仅就是一个目录，你只需将其复制到你的项目中，并根据源代码文件的相对路径来调用它。\n是的，它的编译器和 Golang 的编译器一样简单。\n是的，它有带自动补全功能的 VSCode 插件。\nOdin 采用手动内存管理，这也是它为什么没有闭包（Closures）、组合（Composition）、Goroutine 以及 Selector 的原因。不过，我将向你展示如何在没有这些特性的情况下也能过得很好。\n其次，它缺乏库生态，这也是为什么我正试图吸引你们来学习它，这样你们就可以把你们的库从 Go 复制移植到 Odin 中。\n最后，它缺乏文档和书籍，但如果你拥有多年的 Go 经验，那么 Odin 会让你感到宾至如归。\n没有垃圾回收器的生活意味着你不再拥有 errors.New() 或 fmt.Errorf()。Odin 中不存在 error 类型。你只有枚举（Enums）、联合体（Unions）和结构体（Structs），而这比 Go 的错误机制更好。\nGolang 的错误机制会迫使你将服务端的错误信息推送给用户，而你无能为力。这并不是一件好事，因为用户根本不需要知道什么是 SQL，或者 bank_account 为 nil。\n此外，另一个问题是 Go 的错误不带有堆栈跟踪（stack traces）。\n对于你创建的每个函数，同时包含一个枚举、联合体或结构体来表示该特定函数的错误。\n当一个函数返回它从另一个函数接收到的错误时，以此类推，你将收到一个类似于这样的错误值。\n从那里，你可以构建 switch 语句树，以返回恰当的用户提示信息。\n并且你还可以使用我的库把它像堆栈跟踪一样打印出来。\n甚至只需查看错误的类型，你就能猜出这些函数是做什么的。\n没有其他编程语言能做到这一点。\n如果 Odin 都救不了经济，那就没有什么能救了。\n在我们探讨内存管理之前，让我先澄清三件事：\n如果你读过 demo.odin，那么你已经知道指针是如何工作的了，但如果你还没读过，只需记住：\n如果你对一个指针执行重复 delete() 或重复 free()，你将会遇到“段错误”（Segmentation fault）。\n如果你在 free() 或 delete() 之后去读取指针，你将获得一个随机值。\n如果你通过 make() 创建了一个包含 new() 指针的数组，那么在删除该数组之前，你必须先释放数组内部的指针，否则会导致内存泄漏。\n对于全局指针，在释放它们之后将其赋值为 nil，并在释放、读取或给指针赋值之前检查是否为 nil。\n对于局部指针，使用 defer 来释放该指针。务必始终将 defer 写在分配语句的下方，这样很容易看清释放操作。\n如果一个过程（procedure）包含参数“allocator := context.allocator”，那么 99% 的情况下其返回结果都需要被释放。这意味着你必须调用 delete()/free()，或者调用来自同一库的另一个过程来替你释放该指针。\n使用 Arena_Allocator 来分配指针数组，之后只需直接销毁该 arena 即可。\nOdin 没有接口（interfaces），这也是为什么我说它们就像量子实体一样。当你观察它们时，它们表现得像接口；但当你不再观察它们时，它们就只是指针。\n在 Odin 中有两种编写接口的方法。\n这个例子模拟了组合（composition）。\n同时，这也是 Odin 标准库中使用接口的方式。\n例如，Odin 中的 sort.Interface 就是使用这种类型的接口结构从 Go 借鉴复制过来的。\n这里有一个看起来像 Java 抽象类的例子。\n另外，你不能给一个结构体添加多个接口，否则你就会开始遇到莫名其妙的问题或段错误。所以到头来，它用起来也和 Java 很像。\nOdin 没有 goroutine 或 selector，因为它们需要垃圾回收器才能运行。\n不过，我特意为你写了一个完整的示例，展示如何在 Odin 中模拟 goroutine 和 selector。\n这个例子演示了鸟妈妈给幼鸟喂食的过程。\n（你懂这个过程的。鸟妈妈呕吐到小鸟嘴里来喂养它们。大自然不是很美妙吗？）\n如果你在这个例子中还没搞清楚什么是 selector 和 goroutine，那就看看 union 和 threadpool（线程池）。\n\n一个接收联合类型（union type）消息的通道，相当于在 Golang 中使用两个通道外加一个 selector（选择器），因为联合类型中的每个独立类型都等同于 selector 中的一个通道。联合类型模拟了 selector 的功能。\n\n线程池相当于 Golang 的运行时，因为它会提前运行那些后续用于执行 goroutine 的线程。\n\n只要记住你在大学 Java 并发课程上学过的内容：长时间运行的任务使用线程，小型任务使用线程池，遇到死锁就吃扑热息痛。\n\n通过本文，我希望你现在能够理解 Odin 未来的潜力，以及它作为后端开发中 Golang 替代品的可能。\n\n顺便说一句，如果你一字不漏地阅读了 demo.odin 和我的解释，那么从现在起你就是一名高级 Odin 开发者了。（哎呀！）\n\n要成为特级大师级（Grandmaster）Odin 开发者，只需浏览一下概览以及如何绑定 C 语言即可。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 65,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "Odin 拥有 31 个关键字，并支持 #directive 指令与 @(attribute) 属性。",
+          "Odin 在编译器中附带了 3D 库，并原生支持数组编程、结构体标签（struct tags）与四元数（quaternions）。",
+          "来源叙事重点：强烈推荐 Golang 开发者尝试系统级编程语言 Odin，强调 Odin 在保持语法简洁性的同时，避开了 Go 语言的垃圾回收（GC）和运行时缺陷，并主张 Odin 完全有潜力替代 Go 进行后端开发。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T15:23:41.000Z",
+            "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/"
+          }
+        ]
+      },
+      {
+        "id": "story-ndustry-slowly-solo-html-784f1a8b8db4f9e9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The tourism industry is slowly waking up to solo travelers' needs",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:00:01.000Z",
+        "pubTime": "2026-09-14 00:00",
+        "url": "https://phys.org/news/2026-09-tourism-industry-slowly-solo.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/hiker-mountain-lake.jpg",
+        "fullContent": "Solo travel is surging—and an industry still largely built for two is taking note. Google reported in April 2026 that online searches involving \"solo travel\" hit an all-time high this year, with queries for \"women solo travel\" reaching a 15-year peak. Hilton's 2026 trends report found that 26% of travelers planned to take a trip alone this year and that nearly half said they planned to add solo days to the front or back of a family trip.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 00:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-tourism-industry-slowly-solo.html",
+            "publishedAt": "2026-09-13T16:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-harply-divides-travelers-01f22e42a9ab3be2",
+        "title": "邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧",
+        "originalTitle": "Cruise passengers erupt over 'rude' luggage habit that sharply divides travelers",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:55:21.000Z",
+        "pubTime": "2026-09-14 00:55",
+        "url": "https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/cruise-passengers-disembarking-sint-maarten.jpg?ve=1&tl=1",
+        "fullContent": "Cruise passengers are debating a heated topic among vacation travelers who take to the ocean.\n\nDoes bringing luggage into crowded ship elevators cross a major etiquette line, especially on hectic disembarkation mornings?\n\nThose carrying their own bags often depend on elevators to move between decks as thousands of passengers prepare to leave the ship. Now, social media posts are fueling a broader argument over whether squeezing suitcases into packed elevators is practical or just plain rude.\n\nOUTRAGED CRUISE PASSENGERS SOUND OFF ABOUT ‘IMMENSE DISAPPOINTMENT’ AFTER ABRUPT CANCELLATION\n\nDiane Gottsman, an etiquette expert based in Texas, said passengers can bring luggage into elevators , though they should be considerate of the limited space.\n\n\"When it comes to traveling, space is a priority,\" Gottsman told Fox News Digital. \"You always have to think about the people that are going to be around you.\"\n\nGottsman said passengers can leave larger suitcases outside their cabin the night before for crew members to collect.\n\n\"When possible, it's always best to keep your suitcases to a minimum when getting on a crowded cruise ship elevator,\" she said.\n\nMAJOR AIRLINE ROASTS PASSENGERS WHO JUMP UP RIGHT AFTER LANDING, IGNITING FIERCE BACKLASH\n\nPassengers who prefer to carry their own luggage can do so, she added, but should be prepared to manage it themselves.\n\nCruise lines also have their own procedures for handling bags.\n\nCarnival Cruise Line states on its website that checked baggage service during embarkation ends two hours before a ship's scheduled sailing time.\n\n\"Guests arriving after this time will be responsible for taking their bags on board,\" the cruise line states.\n\nCLICK HERE TO SIGN UP FOR OUR LIFESTYLE NEWSLETTER\n\nPlanning ahead is especially important on busy embarkation and disembarkation days, Gottsman said.\n\n\"We know when we're getting off a cruise ship, it's going to be busy,\" she said. \"Everyone is getting off the same cruise ship. So you have to plan in advance.\"\n\nShe advised passengers to let others exit before boarding and wait for another elevator if one is already packed.\n\n\"Don't just charge on with your luggage,\" Gottsman said.\n\nCLICK HERE FOR MORE LIFESTYLE STORIES\n\nPassengers with mobility issues should also be given priority, while those with extra luggage should be prepared to wait, she added.\n\nThe issue recently surfaced on Reddit after a first-time cruiser said the traveler and partner were scoffed at by another passenger while taking an elevator from Deck 14 to Deck 5 with their rolling suitcases.\n\nMany cruisers defended the couple — arguing that elevators are often the most practical option for passengers carrying luggage across multiple decks.\n\n\"I always hand-roll my luggage off. I always use the elevator,\" one Reddit user wrote. \"I'm not hauling my bags up and down stairs.\"\n\nAnother commenter asked, \"How else would you get your luggage down that many decks?\"\n\nSaid another person, \"People find any reason to complain [about] a ship elevator. My mom was on a scooter [due to] her bad back/knees, and people were so rude to her at the elevators.\"\n\nTEST YOURSELF WITH OUR LATEST LIFESTYLE QUIZ\n\nYet another person chimed in, \"The rudeness always seems higher on disembarkation day. You didn’t do anything wrong. I would only use the stairs if it was a flight or two just to save time, otherwise I would definitely use it.\"\n\nOther cruisers said bringing luggage into an elevator is fine as long as passengers remain considerate of those around them.\n\n\"You can absolutely use the elevators, just be cognizant of others and make space when you can,\" one commenter wrote.\n\nSome disagreed, arguing that using the ship's luggage service can make departure easier for everyone.\n\n\"The whole point of the luggage delivery is to make it easier for everyone,\" one person wrote.\n\nCruise industry experts projected a worldwide increase in the number of people taking to the ocean this year — breaking last year’s record, The Associated Press reported several months ago.\n\nIn an April report released by the Cruise Lines International Association, an estimated 38.3 million people were projected to travel on ships this year — a number that's 4% higher than last year’s 37.2 million record-breaking number of passengers.",
+        "fullTranslation": "邮轮乘客们正在就出海度假游客之间的一个热门话题展开激烈辩论。\n\n将行李带入拥挤的船舱电梯是否触犯了重大的礼仪底线，尤其是在忙乱的下船日早晨？\n\n当数以千计的乘客准备下船时，那些自行携带行李的人通常要依赖电梯在不同甲板层之间移动。如今，社交媒体上的帖子正引发一场更广泛的争论：将行李箱硬塞进满员的电梯究竟是务实之举，还是纯粹的无礼行为？\n\n愤怒的邮轮乘客在航程被突然取消后怒斥“极度失望”\n\n常驻得克萨斯州的礼仪专家黛安·戈茨曼（Diane Gottsman）表示，乘客可以把行李带进电梯，不过应当体谅有限的空间。\n\n“说到旅行，空间是首要考量，”戈茨曼在接受福克斯新闻数字频道（Fox News Digital）采访时表示，“你必须时刻考虑身边的其他人。”\n\n戈茨曼表示，乘客可以在前一天晚上将较大的行李箱放在客舱外，由船员负责统一收集托运。\n\n“在可能的情况下，进入拥挤的邮轮电梯时，最好尽量少带行李箱，”她说。\n\n大型航空公司嘲讽飞机刚着陆就跳起来的乘客，引发强烈抗议\n\n她补充说，更倾向于自己拿行李的乘客完全可以自便，但应做好自行照看管好的准备。\n\n各大邮轮公司对行李处理也有各自的规定程序。\n\n嘉年华邮轮公司（Carnival Cruise Line）在其官方网站上标明，登船期间的行李托运服务将在船舶预计启航时间前两小时截止。\n\n该邮轮公司表示：“在此时间之后抵达的宾客将自行负责把行李带上船。”\n\n点击此处订阅我们的生活方式简报\n\n戈茨曼表示，在繁忙的登船日和下船日，提前规划尤为重要。\n\n“我们知道从邮轮下船时现场会很繁忙，”她说，“所有人都要从同一艘邮轮上下船，所以必须提前做好规划。”\n\n她建议乘客在进电梯前先礼让里面的人出来，如果某部电梯已经挤满，就等下一趟。\n\n“不要带着行李硬往里冲，”戈茨曼说。\n\n点击此处查看更多生活方式报道\n\n她补充道，行动不便的乘客也应享有优先权，而携带额外行李的人则应做好等待的准备。\n\n这一话题最近在Reddit论坛上引发关注。一名初次乘坐邮轮的游客发帖称，自己和伴侣拖着拉杆箱乘电梯从14层甲板到5层甲板时，遭到了另一名乘客的嗤笑与嘲弄。\n\n许多邮轮乘客为这对伴侣辩护——他们认为，对于需要跨越多个甲板层搬运行李的乘客来说，电梯往往是最切合实际的选择。\n\n“我每次都是自己拖着行李下船，而且每次都坐电梯，”一名Reddit用户写道，“我可不会拎着大包小包去爬楼梯。”\n\n另一位评论者反问：“不然你还能怎么把行李运下那么多层甲板？”\n\n另一个人表示：“人们总能找出各种理由来抱怨船上的电梯。我母亲因为腰背和膝盖不好坐着代步轮椅，电梯里的人对她非常无礼。”\n\n参与我们最新的生活方式小测验，测试一下自己\n\n还有人附和道：“在下船日，无礼的现象似乎总是更多。你们没有做错任何事。如果只隔一两层楼，为了省时间我才会走楼梯，否则我肯定会坐电梯。”\n\n其他邮轮乘客表示，只要顾及周围的人，把行李带进电梯完全没有问题。\n\n“你绝对可以使用电梯，只要多留意周围的人并在可能的时候腾出空间即可，”一位留言者写道。\n\n也有人持不同看法，认为使用船上的行李托运服务能让每个人的离船过程变得更轻松。\n\n“行李运送服务的全部意义就是为了让每个人都更轻松，”一人写道。\n\n几个月前美联社曾报道，邮轮行业专家预测今年全球出海旅游的人数将迎来增长，并将打破去年的历史纪录。\n\n国际邮轮协会（Cruise Lines International Association）在4月份发布的一份报告中预计，今年将有约3830万人乘坐邮轮旅行——这一数字比去年创纪录的3720万名旅客高出4%。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 33,
+        "keyTakeaways": [
+          "美国得克萨斯州的礼仪专家黛安·戈茨曼（Diane Gottsman）表示，乘客可以将行李带入游轮电梯，但应考虑到空间有限并注意礼让。",
+          "嘉年华游轮（Carnival Cruise Line）在其官网上注明，登船期间托运行李服务在预定起航时间前两小时结束，在此之后抵达的宾客须自行携带行李登船。",
+          "来源叙事重点：报道围绕游轮下船日拥挤电梯内携带大件行李引发的社交礼仪争议，结合社交媒体用户讨论与礼仪专家建议，探讨实用需求与公共空间礼仪之间的平衡，并指出全球游轮旅客量创新高加剧了空间资源紧张。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:55:21.000Z",
+            "url": "https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers"
+          }
+        ]
+      },
+      {
+        "id": "story-ntered-the-robotaxi-chat-44cdc58c805a295b",
+        "title": "TechCrunch 出行专栏：Lyft 加入自动驾驶出租车（Robotaxi）群聊",
+        "originalTitle": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T16:04:00.000Z",
+        "pubTime": "2026-09-14 00:04",
+        "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+        "imageUrl": null,
+        "fullContent": "Lyft reached a new milestone this week when Waymo robotaxis landed on its app in Nashville. Under the partnership, Lyft handles fleet services, such as vehicle readiness and maintenance, as well as infrastructure and depot operations through its wholly owned subsidiary Flexdrive.\n\nIn Nashville, customers can hail a Waymo robotaxi directly from the Waymo app, or try their luck on the Lyft app, which will match riders with a Waymo depending on availability.\n\nLyft has more than dabbled in autonomous vehicle technology over the years, including through partnerships with Aptiv (now Motional) in Las Vegas, May Mobility in Atlanta, Baidu in London, and Waymo in Phoenix. But this week is notable because it marks Lyft’s first true entry into commercial robotaxi services using driverless vehicles without a human operator behind the wheel.\n\nLest you forget, the company spent four years and millions of dollars developing its own AV tech under its Level 5 business division. Lyft sold its autonomous vehicle unit to Toyota’s Woven Planet Holdings subsidiary for $550 million in 2021 — one of many acquisitions during a period of widespread consolidation across the nascent industry.\n\nLyft then took a break from AVs as it focused on its core ride-hailing business. But it didn’t dismiss the idea altogether.\n\nI spoke to Jeremy Bird, Lyft’s executive vice president of growth, about the milestone and thought I would share a few insights. In his role, Bird manages Lyft’s international, luxury, and autonomous vehicle plans — and sometimes all three may converge.\n\nWhen I asked Bird when we’ll see more robotaxis on the Lyft app — and where — he didn’t get too specific. But he did say the company went into 2026 focused on its partnership with Waymo in Nashville and Baidu in London (where commercial service has not yet launched).\n\n“I think next year what you’ll see is more diversification of that,” he said, adding that ideally this would include expanding Lyft’s partnership with both partners. “I think next year will be a big year for us.”\n\nAnd it seems international markets are a big part of that AV expansion plan. Bird called London a “fascinating market,” and throughout our conversation he repeatedly talked about Lyft as a global company, a notable shift from just a few years ago when it was focused on the U.S. market.\n\nSo, where is Lyft headed next? When it comes to international markets, Lyft seems to be prioritizing locations where it can operate a hybrid network — meaning AVs and human-driven vehicles — from the get-go.\n\n“We are a global company becoming more global, which is important for us,” he said. “And AVs will be the way we think about the future. Like any market we go into, is there an AV component to that? Is it a market where AVs are already open regulatorily, or that would put that market up higher on our list of the places we want to go?”\n\nA little bird noticed a couple of interesting hires over at Ford that sure look like the company is building up its defense tech muscles. Ford recently hired ex-Raytheon employee Tomaz Seignemartin as VP of continuous improvement and former General Dynamics staffer Shirish Srinivasan, who is now chief of staff to Ford’s chief strategy officer. Ford also hired Nathan Rigoni, who was Lockheed Martin’s generative AI team lead, as senior software engineer.\n\nNow, of course, a handful of defense tech hires at a company that employs thousands is hardly a trend. But it does illustrate how having a background in defense tech has become more valuable.\n\nGot a tip for us? Email Kirsten Korosec at kirsten.korosec@techcrunch.com or my Signal at kkorosec.07, or email Sean O’Kane at sean.okane@techcrunch.com.\n\nThe Boring Company, the startup founded by Elon Musk to “solve traffic” by creating a network of underground tunnels, raised $3 billion in a round led by the United Arab Emirates. The Boring Company is now valued at $23 billion, the company shared in its announcement. There is a reason for UAE’s support. The Boring Company, which already worked with the UAE on the Dubai Loop, said it will dig another 150 kilometers of tunnels in the Middle Eastern country.\n\nAndreessen Horowitz, Sequoia Capital, Human Capital, Vy Capital, and Valor Equity Partners also participated.\n\nIn the U.S., the Boring Company’s most visible work is in Las Vegas, where it has developed tunnels connecting hotel casinos such as Resorts World, Encore, and the Sahara, the convention center, and limited trips to the airport. Tesla vehicles, driven by a human, shuttle riders to and from these locations.\n\nOther deals that got my attention this week …\n\nARC Ride, the Kenya-based electric mobility startup, raised $33.3 million in a round led by Novastar Ventures and Norrsken22. Other backers included IFC, British International Investment, Proparco, Japanese supplier Musashi Seimitsu, and African impact investor Talanton.\n\nBeep, a startup known for operating autonomous shuttles at campuses and airports, raised $20 million in a Series B round led by Mobileye, one of its existing tech partners. The Orlando, Florida-based company that was founded in 2019 said it has raised $130 million to date.\n\nFryte Mobility, a Munich, Germany-based software startup focused on charging logistics for electric trucks, raised €3.5 million ($4 million) in seed funding co-led by 4impact capital and Rethink Ventures. Existing backers Revent, F-LOG, accilium ventures, and unnamed angel investors also participated.\n\nPorsche completed the sale of its stakes in Bugatti Rimac and Rimac Group to HOF Capital. Porsche received about 1 billion euros in the sale, and about 250 million euros of those proceeds will be used to further fund its pension obligations.\n\nPoseidon Aerospace raised $60 million ahead of the first test flight of its uncrewed cargo plane, Egret, expected by the end of this year. The Series A round was led by early-stage VC firm TQ Ventures and saw new investments from Hanwha Asset Management, G Squared, and JAWS. Existing backers Starship Ventures, Draper Associates, and Drover Ventures also invested.\n\nStoke Space may not be a traditional transportation player, but the reusable rocket company’s $1 billion raise, and some of its backers, got my attention. The round was led by Point72 Ventures (hedge fund billionaire Steve Cohen’s tech investment vehicle) and Spark Capital, and included investment from General Innovation, Glade Brook Capital, US Innovative Technology, Washington Harbour Partners, Woven Capital, and Y Combinator, among others.\n\nTern, the Austin, Texas-based startup developing an alternative to GPS, landed an $11.26 million contract from the U.S. Army. The startup said U.S. Army vehicles will use its “Google Maps for the battlefield” tech.\n\nUber invested $10 million in Indian fleet management startup Carrum Mobility in a Series B round. The new investment values Carrum at ₹16 billion (about $168 million) post-money.\n\nAutonomy, the California electric vehicle subscription service created by TrueCar founder Scott Painter, is pivoting. The company, which almost went out of business, is adding internal combustion engine vehicles to its fleet.\n\nBeta Technologies, Joby Aviation, and Wisk, three companies developing electric aircraft, began test flight demonstrations in Texas as part of the Federal Aviation Administration’s Advanced Air Mobility and Electric Vertical Takeoff and Landing (eVTOL) Integration Pilot Program (eIPP). The weeklong campaign will allow these companies to test real-world routes, including to the Dallas-Fort Worth Airport.\n\nTravis Kalanick’s startup Atoms is preparing for a hiring spree in a bid to go after the robotaxi business, the Financial Times reported.\n\nTechCrunch reporter Jagmeet Singh digs into Uber rival inDrive and its push to scale beyond ride-hailing.\n\nU.S.-based autonomous vehicle developers may get the bulk of the attention these days, but there is a lot of notable activity occurring outside of the country. This week alone we saw China AV developer Pony.ai and Croatia-based Verne (another Mate Rimac company) begin fully driverless test rides with passengers on public roads in Zagreb, while Spain issued the first national AV permits to WeRide and partners Uber and Avomo.\n\nMeanwhile, Chinese autonomous delivery company Neolix began testing on a closed course in Japan, and Pony.ai pulled the human safety operator out of its AV test vehicles during demonstrations in Doha, Qatar. Pony.ai, along with partner Mowasalat, still has human operators behind the wheel of robotaxis in its commercial service.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician\n\nA secret new Elizabeth Holmes documentary stuns Telluride",
+        "fullTranslation": "本周，随着 Waymo 的自动驾驶出租车（robotaxi）在其位于纳什维尔的应用程序上线，Lyft 迎来了一个新的里程碑。根据合作协议，Lyft 通过其全资子公司 Flexdrive 负责车队服务（例如车辆准备与维护）以及基础设施和车辆运营中心的运作。\n\n在纳什维尔，用户可以直接通过 Waymo 应用程序呼叫 Waymo 自动驾驶出租车，或者在 Lyft 应用程序上碰碰运气——Lyft 会视运力情况为乘客匹配 Waymo 车辆。\n\n多年来，Lyft 在自动驾驶汽车技术领域的涉足绝不仅限于浅尝辄止，包括曾在拉斯维加斯与 Aptiv（现为 Motional）、在亚特兰大与 May Mobility、在伦敦与百度以及在菲尼克斯与 Waymo 展开合作。但本周尤为引人注目，因为这标志着 Lyft 首次真正进入完全没有人类驾驶员在方向盘后操控的商业化无人驾驶出租车服务。\n\n免得大家遗忘，该公司曾设立 Level 5 业务部门，历时四年并投入数百万美元研发自己的自动驾驶技术。2021 年，Lyft 以 5.5 亿美元将其自动驾驶部门出售给丰田旗下的 Woven Planet Holdings 子公司——这是该新兴行业大规模整合浪潮中的诸多收购之一。\n\n随后，Lyft 暂时告别了自动驾驶汽车，专注于其核心网约车业务。但它并未彻底放弃这一构想。\n\n我与 Lyft 负责增长业务的执行副总裁杰里米·伯德（Jeremy Bird）探讨了这一里程碑，并打算在此分享一些见解。在这一职位上，伯德负责管理 Lyft 的国际化、豪华出行以及自动驾驶汽车业务计划——有时这三者甚至会交织在一起。\n\n当我询问伯德我们何时能在 Lyft 应用程序上看到更多自动驾驶出租车以及会在哪些地区时，他并未透露过多细节。但他确实表示，公司迈入 2026 年时的重点是其在纳什维尔与 Waymo 的合作，以及在伦敦与百度的合作（伦敦的商业化服务尚未启动）。\n\n“我认为明年大家将会看到更多样化的布局，”他说道，并补充称理想情况下这将包括扩大 Lyft 与这两个合作伙伴的合作关系。“我认为明年对我们来说将是重要的一年。”\n\n而且国际市场似乎是该自动驾驶扩张计划的重要组成部分。伯德称伦敦是一个“令人着迷的市场”，且在我们的整场交谈中，他反复将 Lyft 描述为一家全球性公司，这与几年前仅聚焦美国本土市场的战略相比是一个显著的转变。\n\n那么，Lyft 接下来将去往何方？在国际市场方面，Lyft 似乎优先考虑从一开始就能运营混合网络（即自动驾驶汽车与人类驾驶汽车并存）的地区。\n\n“我们是一家正在变得更加全球化的跨国公司，这对我们至关重要，”他表示。“而自动驾驶汽车将是我们构想未来的方式。就像我们进入任何市场一样，那里是否有自动驾驶的组成部分？在监管层面，它是否已经对自动驾驶开放，抑或是这会让该市场在我们希望进驻的地点清单中排名更靠前？”\n\n有消息灵通人士注意到福特近期完成了几项耐人寻味的人事招募，看起来这家公司显然正在增强其国防科技实力。福特最近聘请了雷神公司前员工托马斯·塞涅马丁（Tomaz Seignemartin）担任持续改进副总裁，并聘请了通用动力前员工希里什·斯里尼瓦桑（Shirish Srinivasan）出任福特首席战略官的幕僚长。福特还聘请了洛克希德·马丁公司的前生成式人工智能团队负责人内森·里戈尼（Nathan Rigoni）担任高级软件工程师。\n\n当然，对于一家拥有数万名员工的企业而言，少数几位国防科技背景的招聘很难称得上构成了一种趋势。但这确实表明，具备国防科技背景如今变得越来越有价值。\n\n有新闻爆料要提供给我们吗？请发送邮件至 Kirsten Korosec 的邮箱 kirsten.korosec@techcrunch.com，或通过 Signal 联系 kkorosec.07；也可发送邮件至 Sean O’Kane 的邮箱 sean.okane@techcrunch.com。\n\nThe Boring Company，这家由埃隆·马斯克创立、旨在通过建设地下隧道网络来“解决交通拥堵”的初创公司，在一轮由阿拉伯联合酋长国领投的融资中筹集了 30 亿美元。该公司在公告中表示，The Boring Company 目前的估值已达 230 亿美元。阿联酋的支持事出有因：此前已与阿联酋就“迪拜环线”（Dubai Loop）展开合作的 The Boring Company 表示，将在该中东国家再开挖 150 公里的隧道。\n\nAndreessen Horowitz、红杉资本（Sequoia Capital）、Human Capital、Vy Capital 以及 Valor Equity Partners 也参与了本轮投资。\n\n在美国，The Boring Company 最广为人知的项目位于拉斯维加斯，该公司在那里修建了连接名胜世界（Resorts World）、安可（Encore）和萨哈拉（Sahara）等赌场度假酒店、会议中心以及往返机场有限路线的隧道。由人类驾驶的特斯拉汽车负责接送往返于这些地点的乘客。\n\n本周引起我关注的其他交易包括……\n\n总部位于肯尼亚的电动出行初创公司 ARC Ride 在由 Novastar Ventures 和 Norrsken22 领投的一轮融资中筹集了 3330 万美元。其他投资方包括国际金融公司（IFC）、英国国际投资公司（BII）、Proparco、日本供应商武藏精密（Musashi Seimitsu）以及非洲影响力投资机构 Talanton。\n\n以在园区和机场运营自动驾驶无人小巴闻名的初创公司 Beep 在由其现有技术合作伙伴 Mobileye 领投的 B 轮融资中筹集了 2000 万美元。这家总部位于佛罗里达州奥兰多、成立于 2019 年的公司表示，迄今已筹集了 1.3 亿美元。\n\n专注于电动卡车充电物流的德国慕尼黑软件初创公司 Fryte Mobility 筹集了 350 万欧元（约合 400 万美元）的种子轮资金，由 4impact capital 和 Rethink Ventures 联合领投。现有投资方 Revent、F-LOG、accilium ventures 以及未公开的天使投资人也参与了跟投。\n\n保时捷完成了将其持有的 Bugatti Rimac 和 Rimac Group 股份向 HOF Capital 的出售。保时捷在本次出售中获得了约 10 亿欧元，其中约 2.5 亿欧元收益将用于进一步充实其养老金储备。\n\nPoseidon Aerospace 在其无人货运飞机“白鹭”（Egret）预计于今年底进行首飞之前筹集了 6000 万美元。该 A 轮融资由早期风投机构 TQ Ventures 领投，并获得了韩华资产管理（Hanwha Asset Management）、G Squared 和 JAWS 的新注资。现有投资方 Starship Ventures、Draper Associates 和 Drover Ventures 亦参与了投资。\n\nStoke Space 可能并非传统的交通运输公司，但这家可复用火箭公司的 10 亿美元融资及其部分支持者引起了我的注意。该轮融资由 Point72 Ventures（对冲基金亿万富翁史蒂夫·科恩的科技投资机构）和 Spark Capital 领投，参投方包括 General Innovation、Glade Brook Capital、US Innovative Technology、Washington Harbour Partners、Woven Capital 和 Y Combinator 等。\n\n总部位于德克萨斯州奥斯汀、致力于开发 GPS 替代方案的初创公司 Tern 获得了来自美国陆军的价值 1126 万美元的合同。该初创公司表示，美国陆军车辆将采用其被称作“战场谷歌地图”的技术。\n\nUber 在印度车队管理初创公司 Carrum Mobility 的 B 轮融资中投资了 1000 万美元。这笔新投资使 Carrum 的投后估值达到 160 亿卢比（约合 1.68 亿美元）。\n\n由TrueCar创始人斯科特·佩恩特（Scott Painter）创立的加州电动汽车订阅服务平台Autonomy正在进行业务转型。这家险些倒闭的公司正向其车队中引入内燃机车辆。\n\nBeta Technologies、Joby Aviation和Wisk这三家研发电动飞机的公司，作为美国联邦航空管理局（FAA）“先进空中交通与电动垂直起降（eVTOL）整合试点项目（eIPP）”的一部分，已在德克萨斯州启动试飞演示。这项为期一周的活动将允许这些公司测试实际飞行路线，包括前往达拉斯-沃思堡国际机场的航线。\n\n据《金融时报》报道，特拉维斯·卡兰尼克（Travis Kalanick）旗下的初创公司Atoms正准备大举招聘，旨在进军无人驾驶出租车业务。\n\nTechCrunch记者贾格米特·辛格（Jagmeet Singh）深入报道了Uber的竞争对手inDrive及其在网约车之外扩大业务规模的努力。\n\n总部位于美国的自动驾驶汽车研发商近来可能占据了大部分关注度，但美国本土之外同样涌现出许多值得关注的动态。仅在本周，我们就看到中国自动驾驶开发商小马智行（Pony.ai）以及克罗地亚的Verne（马特·里马克名下的另一家公司）开始在萨格勒布的公共道路上进行面向乘客的完全无人驾驶试乘测试；与此同时，西班牙向文远知行（WeRide）及其合作伙伴Uber和Avomo颁发了首批全国性自动驾驶汽车许可证。\n\n与此同时，中国无人配送车公司新石器（Neolix）开始在日本的封闭场地内进行测试；小马智行在卡塔尔多哈的演示中撤除了其自动驾驶测试车内的人类安全员。不过在商业化运营中，小马智行与其合作伙伴Mowasalat的无人出租车驾驶位后方仍配备有人类操作员。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取小额佣金。这不会影响我们的编辑独立性。\n\n交通出行版编辑\n\n预订展位桌的截止日期为9月18日。切勿错过在Disrupt展厅中获得高价值销售线索、接触投资人以及提升品牌曝光的机会。\n\nRevolut证实因虚假政府请求导致客户数据泄露\n\n由于Astra需求过大，OpenAI暂停Pro订阅服务\n\n身份验证巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照被盗\n\nAutomattic董事会迫使首席执行官马特·穆伦威格（Matt Mullenweg）休假离职\n\n苹果发布其首款折叠屏手机iPhone Duo\n\n纽约大学数学家称OpenAI在关乎职业前途的数学难题上采取了不光彩手段\n\n一部关于伊丽莎白·霍姆斯的秘密新纪录片震撼特柳赖德电影节",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 42,
+        "translationParagraphs": 42,
+        "keyTakeaways": [
+          "Waymo的Robotaxi正式上线纳什维尔的Lyft应用，Lyft通过全资子公司Flexdrive负责车辆就绪、维护、基础设施及车场运营等车队服务。",
+          "Lyft曾在2021年以5.5亿美元将其自动驾驶部门出售给丰田旗下的Woven Planet Holdings。",
+          "来源叙事重点：以Lyft在纳什维尔接入Waymo无人驾驶出租车为切入点，强调Lyft从自研自动驾驶转向通过合作伙伴进入商业Robotaxi服务，并将其置于全球化、混合运营网络和自动驾驶产业扩张的背景下。同时以行业简讯形式集中呈现融资、并购、人才流动、监管许可、测试活动及国防技术关联等动态，突出资本投入和企业战略信号。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T16:04:00.000Z",
+            "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/"
+          }
+        ]
+      },
+      {
+        "id": "story-5-4ff9-bfd9-3317413800ff-09a095205e8e7b80",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Le Pen vows to put French citizens first in campaign launch",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T15:49:12.000Z",
+        "pubTime": "2026-09-13 23:49",
+        "url": "https://www.ft.com/content/d25e4152-afc5-4ff9-bfd9-3317413800ff?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F83124629-99c8-4772-8f78-7142d25aa675.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Far-right candidate seeks to stamp her authority on her party after weeks of internal tensions",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-13 23:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d25e4152-afc5-4ff9-bfd9-3317413800ff?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-13T15:49:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ce-among-students-ntwnfb-7fc0c246275c67a6",
+        "title": "遭受性侵后重返校园的学生：“第二天你照样得回学校，只能默默承受”",
+        "originalTitle": "The students returning to school after sexual assault: ‘You go back the next day, and you just deal with it’",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T15:00:06.000Z",
+        "pubTime": "2026-09-13 23:00",
+        "url": "https://www.theguardian.com/society/2026/sep/14/how-should-australian-schools-deal-with-sexual-assault-violence-among-students-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/20e3f69432a3fa56db2096e0b806fc48a24fb4e0/1311_0_4139_3311/master/4139.jpg?width=140&quality=85&auto=format&fit=max&s=2db8b428eb7cd3b0533e445d1d5650ee",
+        "fullContent": "Peer-on-peer violence is on the rise. But when schools must balance a duty of care to both victims and perpetrators, where does this leave girls who have to pursue their education in the shadow of sexual assault?\n\nIn the wake of the latest headlines about alleged sexual assaults involving school boys and the death of a 16-year-old girl from suspected sexual choking, national cabinet has agreed to prioritise its plan to end sexual violence against women , the NSW government has flagged a new set of priorities with education ministers and the federal government has announced draft legislation for a digital duty of care . Meanwhile, the victim at the centre of an alleged gang-rape involving two students from a Sydney private school and another boy has prepared to sit her HSC exams.\n\n“I can’t imagine what she is going through,” police prosecutor Sergeant Rhonda Riley told the court last month. “But she will need to complete her HSC going through pain and fear – not only mentally – for some time going forward.”",
+        "fullTranslation": "同侪之间的暴力正在不断增加。但当学校必须兼顾对受害者和加害者双方的照护义务时，那些不得不在性侵阴影下继续求学的女孩们又该何去何从？\n\n近期，涉及男学生的涉嫌性侵事件频上头条，一名16岁少女亦疑似因性窒息死亡。在此背景下，澳大利亚国家内阁已同意优先推进消除针对女性性暴力的计划，新南威尔士州政府已向各教育部长提出了一系列新的优先工作事项，联邦政府也宣布了一项关于“数字照护义务”的立法草案。与此同时，在一起涉及悉尼一所私立学校两名学生和另一名男生的涉嫌轮奸案中，受害少女正在准备参加她所在州的高中毕业证书考试（HSC）。\n\n“我无法想象她正在经历着什么，”警方检控官朗达·莱利警长（Rhonda Riley）上个月向法庭表示，“但在接下来的这段时间里，她将不得不在痛苦与恐惧中——不仅是心理层面的——完成她的HSC考试。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "同龄人间暴力（Peer-on-peer violence）呈上升趋势。",
+          "澳大利亚国家内阁已同意优先推进终结针对女性性暴力的计划。",
+          "来源叙事重点：以遭受性侵的女学生为中心，强调她们在创伤、恐惧和持续求学之间承受的压力，并提出学校在保护受害者与履行对涉嫌施害者的照护责任之间如何平衡的问题。报道同时将个案置于澳大利亚政府拟推进终结针对女性性暴力、州政府教育优先事项及联邦数字注意义务立法的政策背景下。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T15:00:06.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/14/how-should-australian-schools-deal-with-sexual-assault-violence-among-students-ntwnfb"
+          }
+        ]
+      }
+    ]
+  }
+]

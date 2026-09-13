@@ -4,39 +4,35 @@ nav: true
 order: 0
 description: "InfoLive 24/7 全球全源信息流与 AI 实时要闻矩阵"
 notice:
-  text: "⚡ 当前监控运行中 · 本小时数据更新于 20:48 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
+  text: "⚡ 当前监控运行中 · 本小时数据更新于 01:06 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
   color: "theme"
 ---
 
-# ⚡ InfoLive 全球情报全景矩阵 · 20:48 速报
+# ⚡ InfoLive 全球情报全景矩阵 · 01:06 速报
 
 :::important
-### ⏱️ 本小时战略速报 (20:48)
+### ⏱️ 本小时战略速报 (01:06)
 
-本轮抓取于 2026-09-13 20:46 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+本轮抓取于 2026-09-14 00:59 (UTC+8) 完成，共获得 27 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
 **🎯 关键动态信号：**
-- 【undefined】Perplexity 将端到端系统托付给 GPT-6 Astra：Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。
-- 【undefined】别称自己为“手艺人程序员”：我本来一直想写点别的内容，却陷入了这个怪圈之中，现在我甚至有点害怕，担心自己是否成了某种奏效的宣传话术的受害者。
-- 【undefined】NFL赛季与中期选举交汇，预测市场迎来关键秋季周期：过去两年凭借政治与体育事件跃升至新高度的预测市场，正押注于今年秋季这两大领域的交汇，以推动用户采纳率的进一步提升。
-- 【undefined】你的汽车正在倒卖你的数据：该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看所有交通资讯 许多汽车收集关于您的数据量——并将其出售给第三方——令人咋舌。 该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看安德鲁·霍金斯（Andrew Hawkins）的所有文章 今年早些时候，美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出了一项史无前例的罚单：禁止其在五年内向消费者报告机构及第三方数据经纪商出售客户数
-- 【undefined】APOD：2026年9月13日——升起在亚得里亚海上空的NEOWISE彗星：APOD：2026年9月13日——…… 每日天文一图（Astronomy Picture of the Day） 探索宇宙！每天都会展示一张反映我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。 若要观看此视频，请启用 JavaScript，并考虑升级至支持该功能的网页浏览器 升起在亚得里亚海上空的NEOWISE彗星 说明：这样的景象值得早起守候。就在四年多前，C/2020 F3（NEOWISE）彗星在黎明前升起，让早起守候的
-- 【undefined】NFL首周马利克·威利斯与柯克·考辛斯正面交锋，突袭者主场让3分迎战迈阿密海豚：真希望我也能有一句像Red Zone节目主持人斯科特·汉森（Scott Hanson）那样让人过目难忘的开场白。无论我写出什么，都无法带来“连续7小时无广告橄榄球直播”那种令人血脉贲张的兴奋感。不过，这也正是等待着我们的盛宴。我们将迎来数小时不间断的橄榄球赛事，以及新赛季的首个完整赛程。这个周末我关注的第一场对决，正是迈阿密海豚对阵拉斯维加斯突袭者。
-- 【undefined】theScore Bet 优惠码：在2026赛季NFL首个周日比赛前获取1000美元投注重置金：西雅图海鹰队捧起超级碗隆巴迪奖杯的场景仿佛就在昨天。如今，我们迎来了NFL新赛季第一周的全面开战，theScore Bet正通过其优惠码为新用户提供价值1000美元的投注重置金（Bet Reset），以迎接周日的揭幕战。
-- 【undefined】Fanatics优惠码FOXNEWS350：首个NFL超级星期日，特定州可享1000美元奖金或投注20美元获350美元：2026年NFL赛季第一周，将在周日迎来十三场精彩对决。早场和下午场都有大量值得收看的比赛，而Fanatics则为你关注赛季开幕周末提供了一个绝佳的理由。
+- 【undefined】访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论：唐纳德·特朗普进入访问爱尔兰的第二天，他当天在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，出席爱尔兰公开赛。
+- 【undefined】Perplexity 在端到端系统中信赖并应用 GPT-6 Astra：Perplexity 使用 Astra 来撰写沟通文稿、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。
+- 【undefined】如果我的 Git 托管平台是一个静态网站生成器会怎样？：隆重介绍：sorcery，代码魔法之地（the source-ery）…… 截至目前，我运行个人 Git 平台（git forge）已经差不多有半辈子了 :o 我喜欢运行自己的开发基础设施，不仅是因为我与 us-east-1 之间总是有 120 毫秒以上的延迟，更是因为做系统管理简直纯粹就是好玩 :3 2015 年我搭建了一个 Gogs 实例，后来变成了 Gitea 实例，再后来又变成了 Forgejo 实例；我还曾多次为我加入的各种团
+- 【undefined】奥巴马敦促民主党就人工智能安全保障制定“明确计划”：据《纽约时报》报道，美国前总统巴拉克·奥巴马近日表示，民主党人需要将人工智能列为其“核心议程”之一，并“制定一个非常明确的计划”，以应对有关该技术对经济影响和安全性的担忧。
+- 【undefined】Golang 开发者应该尝试 Odin：英灵殿漫游指南（The Hitchhiker’s Guide to Valhalla） 2024 年 10 月 24 日 · 阅读时长 14 分钟 （警告：本文可能引发不适） 我使用 Golang 已经 10 年了，尽管我也尝试过其他编程语言，但因为它的简洁性，我总是会重新回到它身边。 它如此简单，以至于当我刚接触 Golang 时，仅靠阅读源码和动手实践就掌握了它的大部分语法。 然而，不得不承认，由于垃圾回收器（GC）和运行时的存在，
+- 【undefined】邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧：邮轮乘客们正在就出海度假游客之间的一个热门话题展开激烈辩论。
+- 【undefined】TechCrunch 出行专栏：Lyft 加入自动驾驶出租车（Robotaxi）群聊：本周，随着 Waymo 的自动驾驶出租车（robotaxi）在其位于纳什维尔的应用程序上线，Lyft 迎来了一个新的里程碑。根据合作协议，Lyft 通过其全资子公司 Flexdrive 负责车队服务（例如车辆准备与维护）以及基础设施和车辆运营中心的运作。
+- 【undefined】遭受性侵后重返校园的学生：“第二天你照样得回学校，只能默默承受”：同侪之间的暴力正在不断增加。但当学校必须兼顾对受害者和加害者双方的照护义务时，那些不得不在性侵阴影下继续求学的女孩们又该何去何从？
 :::
 
 :::note
 ### 🌐 24小时全球宏观大势与主线脉络（日尺度全景）
 
-日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。
+当前主文章缺少标题、来源、发布时间、正文及引用证据；相关目录仅提供少量英文摘要，且标题尚未完成翻译，因此无法据此确认明确的新闻主题或趋势。
 
 **📊 今日核心主线透视：**
-- **🧠 前沿智能**：【undefined】Perplexity 将端到端系统托付给 GPT-6 Astra：Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。；【undefined】你的汽车正在倒卖你的数据：该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看所有交通资讯 许多汽车收集关于您的数据量——并将其出售给第三方——令人咋舌。 该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看安德鲁·霍金斯（Andrew Hawkins）的所有文章 今年早些时候，美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出了一项史无前例的罚单：禁止其在五年内向消费者报告机构及第三方数据经纪商出售客户数；【undefined】NFL首周马利克·威利斯与柯克·考辛斯正面交锋，突袭者主场让3分迎战迈阿密海豚：真希望我也能有一句像Red Zone节目主持人斯科特·汉森（Scott Hanson）那样让人过目难忘的开场白。无论我写出什么，都无法带来“连续7小时无广告橄榄球直播”那种令人血脉贲张的兴奋感。不过，这也正是等待着我们的盛宴。我们将迎来数小时不间断的橄榄球赛事，以及新赛季的首个完整赛程。这个周末我关注的第一场对决，正是迈阿密海豚对阵拉斯维加斯突袭者。
-- **🔥 社会热点与思潮**：【undefined】别称自己为“手艺人程序员”：我本来一直想写点别的内容，却陷入了这个怪圈之中，现在我甚至有点害怕，担心自己是否成了某种奏效的宣传话术的受害者。；【undefined】要闻：Git 团队成员已经开始着手推进一项强制使用 Rust1 编程语言的提案：Git 团队成员已经开始着手推进一项强制使用 Rust1 编程语言的提案。我不喜欢 Rust，而且最重要的是，我不喜欢它的社区中那些极端的小角色——他们试图通过重写已经正常运行了数十年的项目来迫使每个人接受他们的烂摊子，在社交媒体上拉帮结派进行群体攻击，以及做出其他足以媲美任何抱有极权主义妄想的微型团体的“优秀”行径。这就是为什么每当我看到一个项目试图“强推”使用 Rust 或从 C 语言切换到 Rust 时，只要在我的能力范围内，我都；【undefined】要闻：Heol 是一种专为在带有 Varvara 绑定的 Uxn 环境中舒适运行而设计的 16 位 Lisp：Heol 是一种专为在带有 Varvara 绑定的 Uxn 环境中舒适运行而设计的 16 位 Lisp。目前该项目正在开发中。
-- **💹 宏观资本与产业**：【undefined】NFL赛季与中期选举交汇，预测市场迎来关键秋季周期：过去两年凭借政治与体育事件跃升至新高度的预测市场，正押注于今年秋季这两大领域的交汇，以推动用户采纳率的进一步提升。
-- **🔬 深空与基础科学**：【undefined】APOD：2026年9月13日——升起在亚得里亚海上空的NEOWISE彗星：APOD：2026年9月13日——…… 每日天文一图（Astronomy Picture of the Day） 探索宇宙！每天都会展示一张反映我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。 若要观看此视频，请启用 JavaScript，并考虑升级至支持该功能的网页浏览器 升起在亚得里亚海上空的NEOWISE彗星 说明：这样的景象值得早起守候。就在四年多前，C/2020 F3（NEOWISE）彗星在黎明前升起，让早起守候的
-- **🌐 全球地缘战略**：【undefined】Fanatics优惠码FOXNEWS350：首个NFL超级星期日，特定州可享1000美元奖金或投注20美元获350美元：2026年NFL赛季第一周，将在周日迎来十三场精彩对决。早场和下午场都有大量值得收看的比赛，而Fanatics则为你关注赛季开幕周末提供了一个绝佳的理由。
+- **信息不完整**：证据包显示主文章内容状态为缺失，事实、引述、实体、冲突和引用均为空。相关文章中仅有零散摘要，涉及人工智能系统、美国总统言论及邮轮礼仪等不同话题，缺乏足够证据支持统一主题判断。
 :::
 
 ## 🔥 AI 深度追踪与独家专题专区
@@ -68,7 +64,7 @@ notice:
         <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="" width="16" height="16" /> </span>
         <span class="perspective-stance-badge">民间技术与思想社群</span>
       </div>
-      <div class="perspective-source-body">【undefined】去掉了“迪克·史密斯”品牌的迪克·史密斯 VZ200：为了保全我们宝贵的体液，我们必须肃清澳大利亚人那种流氓无赖作风对我们美国本土家用电脑的不良影响，而我很清楚该从哪里下手！既然我们可以让这台——呃，橡胶按键、小巧玲珑的米黄色家用电脑，恢复到它当年从辉煌的亚洲工厂出厂时那种原汁原味、质朴塑料的状态，那为什么还要让迪克·史密斯（Dick Smith）的名字来玷污它呢？（尽管那时他早就把迪克·史密斯电子公司的控股权卖给了 Woolies 超市，不过先别打断我的开场白）。</div>
+      <div class="perspective-source-body">【undefined】别再自称“手艺人程序员”了：我本来打算写点别的东西，结果一头扎进了这个深坑里，现在我甚至有点害怕，自己是不是已经被某种宣传手段给洗脑了。</div>
     </div>
   </div>
   <div class="perspective-analysis-row">
@@ -94,11 +90,11 @@ notice:
     </div>
     <div class="wire-card-title">
       <a href="#story-ving-accuracy-with-astra-968c32634dc2a1cb" class="wire-title-link" title="点击直达本站全篇深度编译">
-        Perplexity 将端到端系统托付给 GPT-6 Astra
+        Perplexity 在端到端系统中信赖并应用 GPT-6 Astra
         <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【OpenAI News (官方动态)·独立专业观察】：Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。</div>
+    <div class="wire-snippet">【OpenAI News (官方动态)·独立专业观察】：Perplexity 使用 Astra 来撰写沟通文稿、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。</div>
     <div class="wire-actions">
       <a href="#story-ving-accuracy-with-astra-968c32634dc2a1cb" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
       <a href="https://openai.com/index/perplexity-improving-accuracy-with-astra" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
@@ -106,66 +102,30 @@ notice:
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:44</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
-      <span class="wire-dim-badge">🔥 社会热点与思潮</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:43</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR 官方法语原版)" width="14" height="14" /> France 24 (FR 官方法语原版)</span>
+      <span class="wire-time-badge">🕒 00:57</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="14" height="14" /> BBC World (英国BBC官方英文)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.france24.com/fr/culture/20260913-rentree-litteraire-seconde-guerre-mondiale-devillers-kauffmann-besserie-livres" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
+      <a href="#story-ws-articles-cx2z79n0eeno-49eac2969b438776" class="wire-title-link" title="点击直达本站全篇深度编译">
+        访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【France 24 (FR 官方法语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【BBC World (英国BBC官方英文)·英伦主流建制】：唐纳德·特朗普进入访问爱尔兰的第二天，他当天在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，出席爱尔兰公开赛。</div>
     <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/fr/culture/20260913-rentree-litteraire-seconde-guerre-mondiale-devillers-kauffmann-besserie-livres" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-ws-articles-cx2z79n0eeno-49eac2969b438776" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:42</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
-      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://tass.com/politics/2187021" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://tass.com/politics/2187021" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:40</span>
+      <span class="wire-time-badge">🕒 00:56</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/essentuki-2117435041.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260913/maksim-2117465521.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -173,12 +133,264 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/essentuki-2117435041.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260913/maksim-2117465521.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:40</span>
+      <span class="wire-time-badge">🕒 00:55</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🔥 社会热点与思潮</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-harply-divides-travelers-01f22e42a9ab3be2" class="wire-title-link" title="点击直达本站全篇深度编译">
+        邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：邮轮乘客们正在就出海度假游客之间的一个热门话题展开激烈辩论。</div>
+    <div class="wire-actions">
+      <a href="#story-harply-divides-travelers-01f22e42a9ab3be2" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:54</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260913/sochi-2117465379.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260913/sochi-2117465379.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:49</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260913/hakery-2117465091.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260913/hakery-2117465091.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:45</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260913/kkhl-2117464841.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260913/kkhl-2117464841.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:42</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260913/putin-2117464686.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260913/putin-2117464686.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:40</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:39</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260913/njaga-2117464503.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260913/njaga-2117464503.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:37</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="14" height="14" /> 中新社 (国际实时原版)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-026-09-14-10695866-shtml-2cdd27b7149a0a0e" class="wire-title-link" title="点击直达本站全篇深度编译">
+        特朗普重申伊朗战事将在中期选举后结束
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【中新社 (国际实时原版)·独立专业观察】：消息称，美国总统特朗普13日在访问爱尔兰时重申，伊朗战事将在中期选举后结束。</div>
+    <div class="wire-actions">
+      <a href="#story-026-09-14-10695866-shtml-2cdd27b7149a0a0e" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:35</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260913/ii-2117464293.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260913/ii-2117464293.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:34</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-c-bd51-7612268d6d33-html-2b14b49c3983701a" class="wire-title-link" title="点击直达本站全篇深度编译">
+        墨西哥锡那罗亚和平游行前夕单日10人遇害
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：在锡那罗亚贩毒集团旗下的“小矮子派”（Los Chapitos）与“马约派”（Los Mayos）派系交火两年之后，首府库利亚坎组织了要求加强治安的和平游行，然而就在游行前夕，墨西哥锡那罗亚州昨日有10人遇害。据Infobae报道，库利亚坎记录了4起谋杀案，马萨特兰5起，埃斯奎纳帕1起。《改革报》（Reforma）报道称，当天还发生了多起交火、发现尸体以及车……</div>
+    <div class="wire-actions">
+      <a href="#story-c-bd51-7612268d6d33-html-2b14b49c3983701a" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/messico-10-uccisi-in-un-solo-giorno-in-sinaloa-alla-vigilia-della-marcia-per_82721a35-37d7-4e3c-bd51-7612268d6d33.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:34</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🔥 社会热点与思潮</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-ans-supreme-court-ruling-2cfa6aee296400b2" class="wire-title-link" title="点击直达本站全篇深度编译">
+        最高法院裁决后，这个红州的选举乱局对共和党人而言愈发诡谲
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：在最高法院叫停了一份本有助于共和党在11月赢得另一个众议院席位的国会选区划分图后，密苏里州的共和党人遭受了新的打击。</div>
+    <div class="wire-actions">
+      <a href="#story-ans-supreme-court-ruling-2cfa6aee296400b2" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/politics/election-chaos-red-state-stranger-republicans-supreme-court-ruling" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:33</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="14" height="14" /> BBC World (英国BBC官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【BBC World (英国BBC官方英文)·英伦主流建制】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:33</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-world-2187071-ee8fd206d9fa20ab" class="wire-title-link" title="点击直达本站全篇深度编译">
+        BSW党专家呼吁德国退出北约
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：柏林，9月13日。/塔斯社/。德国BSW党（原名“萨拉·瓦根克内希特理性与正义联盟”）的外交政策专家塞维姆·达代伦（Sevim Dagdelen）认为，德国应当退出北约。</div>
+    <div class="wire-actions">
+      <a href="#story-world-2187071-ee8fd206d9fa20ab" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://tass.com/world/2187071" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:30</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260913/barselona-2117463914.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260913/barselona-2117463914.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:30</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
       <span class="wire-dim-badge">💹 宏观资本与产业</span>
     </div>
@@ -196,12 +408,68 @@ notice:
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:39</span>
+      <span class="wire-time-badge">🕒 00:30</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="14" height="14" /> TechCrunch (硅谷创业与资本)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-r-plan-for-ai-safeguards-6118181b33088941" class="wire-title-link" title="点击直达本站全篇深度编译">
+        奥巴马敦促民主党就人工智能安全保障制定“明确计划”
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【TechCrunch (硅谷创业与资本)·独立专业观察】：据《纽约时报》报道，美国前总统巴拉克·奥巴马近日表示，民主党人需要将人工智能列为其“核心议程”之一，并“制定一个非常明确的计划”，以应对有关该技术对经济影响和安全性的担忧。</div>
+    <div class="wire-actions">
+      <a href="#story-r-plan-for-ai-safeguards-6118181b33088941" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:29</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="14" height="14" /> BBC World (英国BBC官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-ws-articles-c7v48vp31mdo-405af91616a2d21a" class="wire-title-link" title="点击直达本站全篇深度编译">
+        在专家发出严重警告并呼吁放缓研发速度后，特朗普淡化人工智能风险
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【BBC World (英国BBC官方英文)·英伦主流建制】：该视频无法播放
+特朗普总统称“消极力量”正在提出不会发生的人工智能风险
+在专家连日发出严厉警告后，美国总统唐纳德·特朗普淡化了人工智能带来的风险。</div>
+    <div class="wire-actions">
+      <a href="#story-ws-articles-c7v48vp31mdo-405af91616a2d21a" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:27</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story--impact-growth-world-cup-297f360c462c08fc" class="wire-title-link" title="点击直达本站全篇深度编译">
+        国际篮联秘书长安德烈亚斯·扎格里斯谈凯特琳·克拉克对女篮世界杯发展的推动作用
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：国际篮联（FIBA）秘书长安德烈亚斯·扎格里斯谈到了凯特琳·克拉克及其他首次参加世界杯的新生代年轻球员，对该项赛事的成长与关注度提升所产生的影响。</div>
+    <div class="wire-actions">
+      <a href="#story--impact-growth-world-cup-297f360c462c08fc" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/outkick-sports/fiba-secretary-general-andreas-zagklis-speaks-caitlin-clark-impact-growth-world-cup" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:26</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/litva-2117434880.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260913/tramp-2117463526.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -209,17 +477,17 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/litva-2117434880.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260913/tramp-2117463526.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:37</span>
+      <span class="wire-time-badge">🕒 00:24</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/yemen-2117434725.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260913/minprosveschenie-2117463288.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -227,17 +495,36 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/yemen-2117434725.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260913/minprosveschenie-2117463288.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:37</span>
+      <span class="wire-time-badge">🕒 00:19</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/fsb-2117434533.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/finansy/bankrotstvo-fizicheskikh-lits/" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        2026年个人破产：程序、费用与后果
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：“截至目前，进行破产程序有两种法定途径：通过多功能政务服务中心（MFC）的庭外破产和通过仲裁法院的诉讼破产。该程序受第127-FZ号《破产（破产）法》监管。
+第一种途径仅适用于有限类别的公民。债务人必须符合一系列特定条件。第二种途径——通过法院破产——适合更广泛的公民群体。俄罗斯统一联邦破产信息资源库（Fedresurs）的统计数据证实了这一点：人们选择诉讼……</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/finansy/bankrotstvo-fizicheskikh-lits/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:18</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260913/zelenskiy-2117462809.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -245,53 +532,89 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/fsb-2117434533.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260913/zelenskiy-2117462809.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:34</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/moschi-2117434351.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/moschi-2117434351.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:32</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
+      <span class="wire-time-badge">🕒 00:18</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
       <span class="wire-dim-badge">🛡️ 军事防务安全</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/rientra-allarme-in-lituania-avvistamento-drone-si-rivela-stormo-di-uccelli_7bf19409-aaa2-4f53-a5b3-822c094010a3.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.foxnews.com/outkick-culture/viral-video-shows-bystanders-warning-elderly-man-no-clue-hes-being-followed-huge-black-bear" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ansa.it/sito/notizie/mondo/europa/2026/09/13/rientra-allarme-in-lituania-avvistamento-drone-si-rivela-stormo-di-uccelli_7bf19409-aaa2-4f53-a5b3-822c094010a3.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.foxnews.com/outkick-culture/viral-video-shows-bystanders-warning-elderly-man-no-clue-hes-being-followed-huge-black-bear" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:31</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="14" height="14" /> Al Jazeera (半岛电视台官方英文)</span>
+      <span class="wire-time-badge">🕒 00:17</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260913/voleybol-2117462636.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260913/voleybol-2117462636.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:15</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.foxnews.com/media/obama-privately-sounds-alarm-dangerous-ai-urges-democrats-put-issue-center-agenda" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.foxnews.com/media/obama-privately-sounds-alarm-dangerous-ai-urges-democrats-put-issue-center-agenda" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:14</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260913/kursk-2117462319.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260913/kursk-2117462319.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:11</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="14" height="14" /> Al Jazeera (半岛电视台官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -299,359 +622,17 @@ notice:
     <div class="wire-snippet">【Al Jazeera (半岛电视台官方英文)·全球南方与海湾枢纽】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:30</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/dtp-2117434113.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/dtp-2117434113.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:30</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/ukraina-2117433956.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/ukraina-2117433956.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:28</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-ousins-face-nfl-week-one-7509ae63778b2448" class="wire-title-link" title="点击直达本站全篇深度编译">
-        NFL首周马利克·威利斯与柯克·考辛斯正面交锋，突袭者主场让3分迎战迈阿密海豚
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：真希望我也能有一句像Red Zone节目主持人斯科特·汉森（Scott Hanson）那样让人过目难忘的开场白。无论我写出什么，都无法带来“连续7小时无广告橄榄球直播”那种令人血脉贲张的兴奋感。不过，这也正是等待着我们的盛宴。我们将迎来数小时不间断的橄榄球赛事，以及新赛季的首个完整赛程。这个周末我关注的第一场对决，正是迈阿密海豚对阵拉斯维加斯突袭者。</div>
-    <div class="wire-actions">
-      <a href="#story-ousins-face-nfl-week-one-7509ae63778b2448" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/outkick-sports/raiders-favored-3-miami-dolphins-malik-willis-kirk-cousins-face-nfl-week-one" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:28</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/revolut-2117433774.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/revolut-2117433774.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:26</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/lavina-2117433538.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/lavina-2117433538.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:24</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/meloni-2117433242.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/meloni-2117433242.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:24</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-g-nfl-sunday-2026-season-7b8fd14364984990" class="wire-title-link" title="点击直达本站全篇深度编译">
-        theScore Bet 优惠码：在2026赛季NFL首个周日比赛前获取1000美元投注重置金
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：西雅图海鹰队捧起超级碗隆巴迪奖杯的场景仿佛就在昨天。如今，我们迎来了NFL新赛季第一周的全面开战，theScore Bet正通过其优惠码为新用户提供价值1000美元的投注重置金（Bet Reset），以迎接周日的揭幕战。</div>
-    <div class="wire-actions">
-      <a href="#story-g-nfl-sunday-2026-season-7b8fd14364984990" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/outkick-betting/thescore-bet-promo-code-get-1000-bet-reset-ahead-opening-nfl-sunday-2026-season" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:24</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/sumerki-2117433099.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/sumerki-2117433099.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:23</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story--states-first-nfl-sunday-3cd92f4abe3d8e36" class="wire-title-link" title="点击直达本站全篇深度编译">
-        Fanatics优惠码FOXNEWS350：首个NFL超级星期日，特定州可享1000美元奖金或投注20美元获350美元
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：2026年NFL赛季第一周，将在周日迎来十三场精彩对决。早场和下午场都有大量值得收看的比赛，而Fanatics则为你关注赛季开幕周末提供了一个绝佳的理由。</div>
-    <div class="wire-actions">
-      <a href="#story--states-first-nfl-sunday-3cd92f4abe3d8e36" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.foxnews.com/outkick-betting/fanatics-promo-code-foxnews350-get-1000-bonus-bet-20-get-350-select-states-first-nfl-sunday" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:22</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/bespilotniki-2117432942.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/bespilotniki-2117432942.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:22</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlocks-200-bonuses-ahead-first-nfl-sunday-season" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlocks-200-bonuses-ahead-first-nfl-sunday-season" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:19</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/rock-in-rio-fondazione-di-medium-dice-aver-fermato-la-pioggia-su-richiesta-del_74d0a640-7671-4916-8518-b756f2769cc0.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/rock-in-rio-fondazione-di-medium-dice-aver-fermato-la-pioggia-su-richiesta-del_74d0a640-7671-4916-8518-b756f2769cc0.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:19</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-keep-your-1-million-promo-1000-deposit-match-nfl-sunday" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-keep-your-1-million-promo-1000-deposit-match-nfl-sunday" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:18</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="14" height="14" /> The Guardian (英国卫报官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【The Guardian (英国卫报官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:18</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.foxnews.com/outkick-betting/dabble-promo-code-foxnews-unlocks-play-5-get-50-promo-nfl-sunday" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.foxnews.com/outkick-betting/dabble-promo-code-foxnews-unlocks-play-5-get-50-promo-nfl-sunday" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:16</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/futbol-2117431968.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/futbol-2117431968.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:14</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/cheburashka-2117431712.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/cheburashka-2117431712.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:14</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260913/tokaev--2117431545.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260913/tokaev--2117431545.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:07</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.foxnews.com/outkick-sports/saints-vs-lions-cardinals-vs-chargers-ideal-football-betting-teaser-combination" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.foxnews.com/outkick-sports/saints-vs-lions-cardinals-vs-chargers-ideal-football-betting-teaser-combination" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 20:06</span>
+      <span class="wire-time-badge">🕒 00:11</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="14" height="14" /> Al Jazeera (半岛电视台官方英文)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -659,7 +640,25 @@ notice:
     <div class="wire-snippet">【Al Jazeera (半岛电视台官方英文)·全球南方与海湾枢纽】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.aljazeera.com/sports/liveblog/2026/9/13/india-vs-sri-lanka-live-asia-cup-final" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.aljazeera.com/news/2026/9/13/kosovo-approves-new-government-after-months-of-political-deadlock" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 00:11</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ft.svg" class="source-icon" alt="Financial Times (英国金融时报)" width="14" height="14" /> Financial Times (英国金融时报)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Financial Times (英国金融时报)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
 </div>
@@ -668,8 +667,92 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-ws-articles-cx2z79n0eeno-49eac2969b438776" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1982" data-content-paragraphs="50" data-published-at="2026-09-13T16:57:58.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
+    <span class="stance-badge">英伦主流建制</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:57</span>
+</div>
+
+### [访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论](https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump doubles down on united Ireland comments on day two of visit</div>
+
+<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a6/live/33fb3fc0-af7e-11f1-913a-7151f234deb3.jpg" alt="访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>唐纳德·特朗普进入访问爱尔兰的第二天，他当天在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，出席爱尔兰公开赛。</p>
+<p>唐纳德·特朗普总统再次坚定表达了他对统一爱尔兰的支持。</p>
+<p>目前他正处于访问的第二天，这一天他在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，现场观看爱尔兰公开赛。</p>
+<p>周六，特朗普在都柏林与爱尔兰总理迈克尔·马丁会晤时对记者表示，他非常乐见一个统一的爱尔兰。</p>
+<p>周日，他在自己的敦贝格高尔夫度假村发表讲话时表示，将爱尔兰和北爱尔兰“合在一起”是顺理成章的。</p>
+<p>在观看暂列赛事榜首的爱尔兰高尔夫球手肖恩·劳瑞开球后，他对记者发表了上述讲话。</p>
+<p>他把自己关于统一爱尔兰的表态形容为“一句相当寻常的评论”。</p>
+<p>该视频无法播放</p>
+<p>观看：特朗普称北爱尔兰加入爱尔兰是顺理成章的事</p>
+<p>他说：“我一直热爱爱尔兰人民。在我看来，既然有北爱尔兰和爱尔兰。”</p>
+<p>“将它们结合在一起，似乎一直以来都是再自然不过的事情之一。”</p>
+<p>“这只是我个人的看法，顺便说一句，很多人都同意这一点。”</p>
+<p>这位总统回避了有关苏格兰独立的问题。</p>
+<p>“我暂时不会谈论苏格兰，我会留到以后再说，”他说。</p>
+<p>当被问及英国首相安迪·伯纳姆关于“在北爱尔兰大多数人可能投赞成票之前不会举行关于爱尔兰统一的公投”的言论时，特朗普先生补充道：“大家都会这么说，但随后事情就会发生。”</p>
+<p>特朗普关于统一爱尔兰的言论可能瞄准了大西洋彼岸的受众</p>
+<p>唐纳德·特朗普发表统一爱尔兰言论后下一步会如何？</p>
+<p>爱尔兰总理表示，总统的言论并没有让他感到“意外”。</p>
+<p>周日在公开赛现场发表讲话时，马丁提到特朗普在圣帕特里克节庆祝活动期间于华盛顿举行的一场活动中曾询问北爱尔兰与爱尔兰共和国“合并”一事，有人认为这是对统一的看法。</p>
+<p>“他会申明这是他的观点。他认为统一是爱尔兰岛布局和构建的符合逻辑的方式，”马丁说。</p>
+<p>他补充道：“我认为部分反应有些过激了。这不应该让人感到意外。他对事情有着不同寻常的视角。”</p>
+<p>特朗普将于周日在敦贝格的特朗普国际高尔夫度假村颁发冠军奖杯，随后在结束为期两天的行程后乘机返回美国。</p>
+<p>周六，超过1万人游行穿过都柏林，抗议这位美国总统的到访。</p>
+<p>其他抗议此次访问的人士在周日乘坐大巴陆续抵达敦贝格，现场聚集了大约100名抗议者。</p>
+<p>据爱尔兰广播电视台（RTÉ）报道，爱尔兰警察（Gardai）将一小群人从总统下榻的酒店前劝离。</p>
+<p>周六晚间，三名女性因非法闯入敦贝格高尔夫球场而被捕，并在恩尼斯地区法院的特别庭审中出庭。</p>
+<p>来自戈尔韦的循道宗牧师史蒂文·福斯特牧师参加了敦贝格的反特朗普抗议活动。</p>
+<p>“我来到这里是因为作为耶稣的追随者，特朗普与我所坚持的一切完全相反，”他告诉BBC北爱尔兰分台。</p>
+<p>史蒂文·福斯特牧师在敦贝格抗议此次访问</p>
+<p>福斯特补充道：“作为教会领袖，我站出来非常重要，教会在这方面也需要表明立场。”</p>
+<p>福斯特表示，“给予他的这种礼遇释放了一个极其糟糕的信号”。</p>
+<p>企业主马丁·凯利表示，高尔夫球场对敦贝格来说是“一桩巨大的产业”</p>
+<p>然而，其他人则对特朗普的高尔夫球场给当地带来的利益和就业机会表示赞赏。</p>
+<p>来自敦贝格的当地商人马丁·凯利表示，该村拥有特朗普国际高尔夫球场“非常幸运”。</p>
+<p>“实话实说，它在这里是一个体量巨大的雇主，”他告诉BBC北爱尔兰分台。</p>
+<p>“这附近没有其他如此规模的企业了；他们是非常体面的雇主，也非常公平。”</p>
+<p>他表示，当地人对这里能举办高尔夫锦标赛感到“非常自豪”。</p>
+<p>“我们在这里不谈政治，我们谈的是商业。这对我们来说是一笔巨大的生意。敦贝格是世界上最好的林克斯球场之一。唐纳德·特朗普并不完美，但他做得其实也还不错。”</p>
+<p>“希望在上帝的保佑下肖恩·劳瑞现在能够夺冠，也希望他赛后能来敦贝格喝杯啤酒，如果他来的话我请客。”</p>
+<p>酒吧老板肖尔斯·默福德表示高尔夫球场为当地经济提供了“巨大的提振”</p>
+<p>肖尔斯·默福德在敦贝格拥有默福德酒吧。他将这场锦标赛形容为“令人难以置信”。</p>
+<p>“如果你看看街上载满乘客来来往往的红色双层巴士，我们从没想过能见到这样的景象。”</p>
+<p>他表示，高尔夫球场是一个大型雇主，正让敦贝格保持“活力”。</p>
+<p>“克莱尔西部的大多数乡村都在走向衰败，年轻人外出读大学后就不再回来了。”</p>
+<p>“高尔夫球场那里雇用了300多人，这是对当地经济的巨大促进。都柏林有像英特尔这样的大公司，而在我们这里，高尔夫球场就是我们的英特尔。”</p>
+<p>“如果不是因为高尔夫球场坐落在那儿，我可能根本不会接手这家酒吧生意。”</p>
+<p>“周六晚上我们酒吧接待了1000多人，周五晚上也是一样，所以村里到处都是人，看到这幅景象真的很棒。”</p>
+<p>统一的爱尔兰将是“一件好事”，特朗普在访问爱尔兰第一天表示</p>
+<p>特朗普就统一爱尔兰言论开玩笑</p>
+<p>从肯尼迪到拜登，特朗普重踏通往“翡翠岛”的熟悉足迹</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>特朗普在访问爱尔兰的第二天再次表达了对爱尔兰统一的支持，并表示将爱尔兰和北爱尔兰联合起来是顺理成章的（natural）。</li>
+    <li>周六在都柏林与爱尔兰总理米歇尔·马丁会晤时，特朗普对记者表示乐见一个统一的爱尔兰。</li>
+    <li>来源叙事重点：聚焦唐纳德·特朗普在访问爱尔兰期间再次表态支持‘爱尔兰统一’，突显其言论对英爱地缘政治传统的触动，并对比了都柏林及敦贝格的大规模抗议与当地商业依托高尔夫球场获得的经济利益。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#BBC</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-ving-accuracy-with-astra-968c32634dc2a1cb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="491" data-content-paragraphs="6" data-published-at="2026-09-14T00:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="493" data-content-paragraphs="6" data-published-at="2026-09-14T00:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/openai.svg" class="source-icon" alt="OpenAI News (官方动态)" width="16" height="16" /> <strong>OpenAI News (官方动态)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -678,22 +761,22 @@ notice:
   <span class="news-meta-time">🕒 2026-09-14 08:00</span>
 </div>
 
-### [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra)
+### [Perplexity 在端到端系统中信赖并应用 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Perplexity trusts GPT-6 Astra with end-to-end systems</div>
 
-<div class="article-body" data-article-body="true"><p>Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。</p>
-<p>作为一家由人工智能驱动的问答引擎，Perplexity 高度专注于搜索与准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 观察到，模型在编写代码方面每一次取得进步，Perplexity 的搜索引擎也会随之提升。它能够编写出更优秀的程序来检索网络和内部信息，并进行极其精炼的总结。</p>
-<p>但 Johnny 指出，真正的挑战在于将这些信息层面的能力应用到现实世界系统之中。而 GPT-6 Astra 让这一过程变得更加轻松。</p>
-<p>对 Johnny 而言，人工智能最有用的应用之一就是测试代码。在手动测试时间有限的情况下，他会让 GPT-6 Astra 围绕某个应用程序构建一个小型的测试程序。</p>
-<p>该模型能够生成逼真的响应，就像其他服务（例如语言模型 API 或连接器）返回的内容一样。通过充当并替代这些服务，该模型可以检验应用程序的响应方式，并自始至终测试整个工作流程。</p>
-<p>工程 2026年9月11日<br />应用人工智能 2026年9月10日</p></div>
+<div class="article-body" data-article-body="true"><p>Perplexity 使用 Astra 来撰写沟通文稿、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。</p>
+<p>作为一款人工智能驱动的回答引擎，Perplexity 高度专注于搜索和准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之改善。它能够编写出更优质的程序来检索网络及内部信息，并进行高度精炼的总结。</p>
+<p>但据 Johnny 表示，真正的挑战在于将这些信息维度的能力应用到真实世界的系统之中。而在 GPT-6 Astra 的助力下，这一过程变得更加轻松。</p>
+<p>对 Johnny 而言，人工智能最实用的应用之一是代码测试。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕某个应用程序构建一个小型测试程序。</p>
+<p>该模型能生成逼真的响应，就像其他外部服务发送的一样，例如某个语言模型 API 或连接器。通过代行这些服务的功能，该模型能够检查应用程序如何响应，并从头至尾测试整个工作流。</p>
+<p>工程 | 2026年9月11日<br />应用AI | 2026年9月10日</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Perplexity使用GPT-6 Astra来编写通讯、修改软件并监控生产系统，且人工检查频率显著低于早期模型。</li>
-    <li>Johnny Ho是Perplexity的联合创始人兼首席战略官（Cofounder and Chief Strategy Officer）。</li>
-    <li>来源叙事重点：重点宣传新一代模型GPT-6 Astra在企业端到端生产系统中的实际落地成效，借助标杆客户Perplexity联合创始人的背书，强调其在代码编写、模拟测试及自主系统监控方面的高可靠性与大幅减少人工介入的优势。</li>
+    <li>Perplexity使用Astra编写通信、修改软件并监控生产系统，且检查频率远低于早期模型。</li>
+    <li>Johnny Ho是Perplexity的联合创始人兼首席战略官。</li>
+    <li>来源叙事重点：强调GPT-6 Astra在端到端系统中的高可靠性与自主性，以知名AI搜索客户Perplexity的应用经验和高管背书，展示模型在代码编写、模拟测试及生产系统监控方面的生产力提升。</li>
   </ul>
 </div>
 
@@ -706,52 +789,42 @@ notice:
 :::
 
 :::cell
-<div id="story--an-artisanal-programmer-041f554ab77bd18e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3725" data-content-paragraphs="26" data-published-at="2026-09-13T11:39:43.000Z" data-time-source="publication">
+<div id="story-6-09-sorcery-repo-viewer-df2bc97da00eedfa" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3188" data-content-paragraphs="16" data-published-at="2026-09-13T16:10:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-13 19:39</span>
+  <span class="news-meta-time">🕒 2026-09-14 00:10</span>
 </div>
 
-### [别称自己为“手艺人程序员”](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Don&#39;t call yourself an artisanal programmer</div>
+### [如果我的 Git 托管平台是一个静态网站生成器会怎样？](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> what if my git host were a static site generator?</div>
 
-<div class="article-body" data-article-body="true"><p>我本来一直想写点别的内容，却陷入了这个怪圈之中，现在我甚至有点害怕，担心自己是否成了某种奏效的宣传话术的受害者。</p>
-<p>在当前关于软件开发 AI 的讨论中，有一个常见的主题：一类是把最终结果看得最重要的“严肃”工程师，另一类是把编程体验看得重于最终产物的“手艺人”（artisanal）程序员。这种二分法并不能准确描述我，可能也无法准确描述许多其他人，但我们姑且先顺着这个逻辑往下聊。</p>
-<p>我希望自己的程序是可靠的。耐心和细致是达成这一目标的两大要素。当从零开始设计程序并且不疾不徐地推进时，我心里清楚它们是正确的，出现的任何错误都只是笔误而已。单元测试、大语言模型审查以及形式化证明器或许能确保代码达到 99% 的正确性，但无法保证 100% 的完善：达到最优、可维护、可读，且不会因未记录的不合规行为而产生依赖或发生崩溃。我追求的就是那 100%。只有与代码保持深度的连接，我才能开始做到这一点，所以我拒绝使用大语言模型，因为它们将我与那些至关重要的底层细节隔离开来，而且无法在构建机制上保证正确性。</p>
-<p>在我看来，这种二分法正是在此处瓦解的。照本宣科地说，既然我不用大语言模型，那我就是一个“手艺人程序员”。但如果整个行业将“手艺人程序员”的对立面称作“软件工程师”，这难道不暗示着我不是一名工程师吗？这看似只是个微不足道的细节，但在潜意识层面上却举足轻重。细致、专注和精准是工程学的核心特质——那么，为什么这个词会被那些工作模式越来越接近管理者的人所侵占呢？</p>
-<p>回想当年（咳咳），开发者厌恶那些不愿拨出时间偿还技术债的管理层，而“快速行动、破除陈规”的态度在当时被视为幼稚。如今，开发者圈子里的“常识”却变成了：凭感觉写代码（vibecoding，我在此宽泛地使用该词）才是常态，而在可靠性上浪费时间反而是不务正业。到底谁才是对的？</p>
-<p>在我看来，答案显而易见：盲目拼凑东西是配不上“软件工程师”这一称号的。工程师应该清楚自己在做什么。不过，我们还是去问问对这个话题更有研究的人吧。</p>
-<p>2021年，希勒尔·韦恩（Hillel Wayne）发起了一个跨界转型项目（crossover project），采访了多位从其他工程领域转入软件工程的人士。他的初衷是回答这样一个问题：在两个领域都有实际经验的人，是否认为我们的工作算得上工程？答案是肯定的，但更让我感兴趣的是下面这部分：</p>
-<p>“话虽如此，许多跨界人士也补充了一个限定条件：软件工程确实是真正的工程，但很多写软件的人所做的工作并不是软件工程。这不是他们的问题，而是我们行业的问题：我们缺乏足够丰富的词汇来描述这些开发者所从事的工作。并不是每个与电打交道的人都会成为电气工程师，很多人做的是电工。这完全没问题。[……] 但我们却把‘程序员’、‘软件工程师’和‘软件开发者’混为一谈。软件工程师和软件开发者之间究竟有什么区别？有人提出了‘软件工匠’（software craftsman）这个词。”</p>
-<p>最触动我的是，韦恩使用的头衔与如今流行的叫法截然相反。他将那些严谨认真、今天被我们称为“手艺人程序员”的人称为“工程师”；而在另一端，他将那些被我们贴上“凭感觉编码者（vibecoders）”标签的人称为“工匠”。至少对我而言，这种命名更符合直觉！平心而论，提示词工程中的艺术成分恐怕远多于纯手工编写代码。</p>
-<p>从历史上看，“手艺人”作为“凭感觉编码”的反义词尚且说得通，但认领这个词却把“工程师”的称号拱手让了出去，实际上等于放弃了关于“凭感觉编码到底算不算工程”的争论。凭感觉编码变成了理所当然的默认标准，而手艺人式编程反倒成了异类。我们究竟是怎么走到这一步的？</p>
-<p>如果你去观察这种“常识”的演变，你会发现它无处不在。“唯一”“正确”的开发方式发生了翻天覆地的逆转。为什么我们过去把 PVS-Studio 的博文看作营销软文，如今却对自动化代码审查工具顶礼膜拜？我们又是如何如此迅速地从强类型系统跨越到自由格式的规格说明的？</p>
-<p>编程社区以往从未经历过类似的事情。诚然，过去大家也会争论哪种类型系统或 Web 框架更好，公众观点也会随时间变化，但这次截然不同。强类型系统的忠实信徒可能会把 PHP 开发者当成傻瓜，但依然承认对方是开发者。哪怕是被刻板印象化的 Rust 狂热粉，也仍被视作 Rust 程序员。过去的争辩始终建立在某种选择是否比另一种更可靠、更易用或更易于学习的基础上，而不是争论你到底该不该去操心可靠性或误用问题。</p>
-<p>但这次不同了——凭感觉编码被描绘成不仅是一种更优的方案，更是唯一理智的选择，这完全是在唾弃过往的一切经验。不用大语言模型的人不再被看作软件工程师，而成了“手艺人程序员”。这是对专业身份认同的一种攻击。</p>
-<p>重新定义概念，把自己塑造成理性清醒的一方，而把他人贬为不值一提的存在，这是软件领域出现的一种新手段。不过我以前见过这种套路：这完全符合法西斯宣传手法的剧本。</p>
-<p>我还记得当时大家都在开玩笑说“凭感觉编码者的反义词是软件工程师”，然而才过了一个月，大家突然都心安理得地自称“手艺人程序员”，而把“软件工程师”的头衔留给了那些“负责任的” AI 用户。这个词以模因（meme）般的速度迅速扩散，表面上看不出任何合乎常理的缘由。</p>
-<p>我并不认为这是一场心理战，但我确实认为我们应该对自我称谓更加审慎，因为词汇具有力量。真正的作曲家自称作曲家，而不是“手艺人作曲家”；AI 创作者必须标明自己是 AI 创作者；然而“程序员”这个概念却在未经充分辩论的情况下被重新定义了，这正在带来真实的现实后果。</p>
-<p>许多极力捍卫艺术创作者、对 AI 深恶痛绝的游戏玩家，一旦你提到软件，态度就会发生 180 度的大转变：瞬间觉得大语言模型生成的代码是可以接受的，反正大家都用大语言模型，甚至觉得没必要给代码标注 AI 声明。他们不是专家，因此修辞话术比客观事实更管用。而在修辞话术上，我们大多数程序员都差得要命！</p>
-<p>我们本应更早吸取这个教训，而且我认为自己至少找到了导致我们在所有行业中最先输掉这场阵地战的一个诱因。在写这篇博文之前，我一直在纳闷：为什么需要接受教育、付出艰苦努力并进行复杂思考的“手艺人”编程会被视作小打小闹的游戏，而在文本框里靠道听途说的方法随意倾泻想法反而被当成了正统？</p>
-<p>我现在认为，这是因为软件社区中猖獗泛滥的反智主义。</p>
-<p>在 Rust 流行起来、人尽皆知其价值之前，针对它最常见的反对理由是什么？是说它就像纯数学，根本无法用于实际用途。人们现在对 Haskell 仍持有同样的论调，尤其是对单子（monad）的看法，而 Rust 已经证明了单子是可以被轻松理解的（Result、Option 和 Future 都是单子！）。见鬼，就连指针都被认为是复杂的，因为——天哪——你在使用它们之前竟然必须先学点东西！我们渴望简单的解决方案，但我们所谓的“简单”，实际意思是拒绝阅读，只想从 StackOverflow 复制粘贴代码——哦，等等，时代搞错了，现在是从 Claude 复制粘贴。我们看着那些必须在大学里苦读才能从事的职业，然后说：“事实上，我们比他们更优秀，理应由我们来主导世界的运转。”如果这都不算反智主义，那我真不知道什么才算了。</p>
-<p>因此，我们理所当然地否定受教育、努力工作、思考以及从容不迫所带来的好处——那些东西都是“觉醒政治正确（woke）”，而我们比那些高明得多。/s（讽刺）</p>
-<p>我们需要进行更有力的抗争。我们的目标不是反转剧本并声称避免使用 AI 是编写软件的唯一正确方式，因为这行不通；我们的目标是确保“无 AI 编码”在公众讨论中保有一席之地，而不被等同于业余玩票性质的娱乐性编程。</p>
-<p>在术语方面，凡是使用 AI 的情况，我都将称之为“AI 辅助编码”（AI-assisted coding）；而亲自动手完成的，则称为“无 AI 软件工程”（AI-free software engineering）。这样既保留了对 AI 使用情况的注明，又反转了“编码（coding）”与“工程（engineering）”的地位对调，并抛弃了容易被解读为某种玩乐方式的“手艺（artisanal）”一词。我认为这是一个良好的开端，但也欢迎大家提出想法。</p>
-<p>更广泛地讲，我们需要挑战这样一种假设：即 AI 辅助编程是编写代码唯一明智的方式。公众明白，出于任何目的使用 AI 生成的艺术作品都是令人膈应的；我们需要让他们相信，同样的道理也适用于 AI 生成的代码。如果一个人哪怕根本不懂画画，在看到 AI “艺术”时也会感到被欺骗，那么没有理由在软件程序上做不到这一点。</p>
-<p>我们需要谈谈我们在软件开发中倾注的心血、我们如何设计代码、我们面临的难题，以及我们协作方式的美妙之处。我们应该强调，带有漏洞的游戏速通之所以引人入胜，是因为我们可以看到这些漏洞源于可以理解的人类失误；我们还应强调计算机艺术有多酷，以及当一名开发者为了提升用户体验而精雕细琢自己的应用时有多么温暖人心。我们需要——尽管我明白这并非我们的强项——谈论我们的人性。</p>
-<p>在这个艰难的时期，请保重。</p></div>
+<div class="article-body" data-article-body="true"><p>隆重介绍：sorcery，代码魔法之地（the source-ery）……<br />截至目前，我运行个人 Git 平台（git forge）已经差不多有半辈子了 :o 我喜欢运行自己的开发基础设施，不仅是因为我与 us-east-1 之间总是有 120 毫秒以上的延迟，更是因为做系统管理简直纯粹就是好玩 :3 2015 年我搭建了一个 Gogs 实例，后来变成了 Gitea 实例，再后来又变成了 Forgejo 实例；我还曾多次为我加入的各种团队部署过 GitLab/Forgejo。我喜欢社区协作型的 Git 平台，而 Forgejo 在这方面非常出色！</p>
+<p>但是我的 Forgejo 服务器老是耗尽磁盘空间（原因是在重新打包未更新的 Git 仓库时发生崩溃），并且在周围网络爬虫的常规负载下频繁宕机/内存溢出（OOM）。对于我的需求来说，很显然这类软件完全不适合这种规模：在我用于个人基础设施的小型机器上，这些软件根本经受不住互联网如同“宇宙微波背景辐射”般的常态扫描与抓取。</p>
+<p>我也挺想通过仅展示自己真正会用到的功能来简化体验：Forgejo 及其同类工具所做的事情远超我的需要——议题（issues）、拉取请求（PRs）、发布版本（releases）、维基（wikis）——一大堆我根本不在乎但无论如何都要为其付出某种代价的 GitHub 功能兼容性 :(</p>
+<p>针对 Forgejo 资源耗尽，通常开出的药方是通过像 Anubis 这样的 Web 应用防火墙（WAF）来拦截爬虫，其目的是通过 JavaScript 工作量证明（PoW）验证机制将 Web 应用的访问阻隔在门外。</p>
+<p>但这违背了开放网络的理念，不是吗？浏览器作为表面上的“用户代理（user agent）”，被迫做出对用户不友好的行为，执行毫无用处的代码来增加用户设备的负担（这种验证的目的就是让 CPU 空转！）——如果浏览器拒绝执行，就根本无法显示任何与用户相关的信息。不支持 JavaScript（或者仅不支持带 JIT 的 JavaScript）的替代浏览器要么被彻底阻断，要么被困在极其恼人的等待时间之后。这加剧了现代网络的单一寡头化，我认为这是一件坏事。</p>
+<p>此外，部署此类东西本身就是一种承认失败的妥协——我们屈服于一种假设，即所代理的应用程序在面对现实世界的互联网流量时无法正常工作：当我们面对的是一个读操作极度远多于写操作的负载时，这难道不可笑吗？在实践中，提供低频写入的数据服务理应非常廉价：整个 GitHub Pages 曾经仅靠一台机器就运行了多年！！为什么不能拥有一个完全基于静态文件的 Git 托管系统呢？</p>
+<p>从核心来看，sorcery 的形态就像一个静态网站生成器：当它接收到 Git 仓库的更新时，会为该仓库重新构建一系列位于磁盘上的 HTML——一个概览页面、每个分支最新提交（tip commit）的目录树，以及最新版本中每个文件带有语法高亮的代码渲染。这使我们能够付出一次性的固定前期成本来响应未来的大量请求，这意味着我们能够从容应对爬虫负载（因为采用 sendfile 方式发完即忘的基本开销微乎其微）。然而，由于提前为每个文件的每个历史版本都渲染出 HTML 成本过高，我们选择不对仓库的历史视图提供纯静态服务。</p>
+<p>不过，查看仓库历史记录是 Git Web 界面的核心功能，因此我们直接提供 .git 目录的服务，在 JavaScript 中实现一个基础的只读 Git 客户端，然后在客户端渲染仓库的所有“丰富视图”——仓库站点生成器确实也需要生成一些辅助性的 JSON 数据来协助 Git 客户端，因为我们无法可靠地列出 Git 仓库中的目录，但这些数据依然是纯静态的！</p>
+<p>由于浏览历史记录可能意味着需要对不同对象（提交 commit、目录树 tree [即仓库目录列表]、数据对象 blob [即文件内容]）发起多次获取，因此高延迟连接会导致直接获取和遍历对象时感觉非常缓慢。当 Git 将这些对象增量编码压缩存储在打包文件（packfiles）中时尤其如此：在 linux.git 中简单直接地获取一次打包文件索引以查看单个提交的 diff，就要消耗超过 400MiB 的带宽！！而聪明地扫描指定范围又会破坏缓存命中率，并引发一系列依赖于先前请求返回数据的请求瀑布流。</p>
+<p>因此，作为一种非静态的优化手段1，我们还提供了一条服务端路由，通过对象 ID（OID）列表来获取特定的 Git 对象（QUERY / / /obj），返回一种简单的二进制“Git 对象包”格式，可在客户端轻松解析。这减轻了客户端解析 packfile 的负担。此外，即使对于包含松散对象（loose object）的仓库，我们依然可以通过提供“智能获取”模式来优化往返通信，该模式能够针对给定的访问模式遍历所引用的 OID（例如，通过 commit.parent-&gt;parent-&gt;parent-&gt;… 遍历提交历史，或者访问一对提交中所有目录树的 blob 以便计算它们之间的 diff）。</p>
+<p>因此，sorcery 是一个“Git 仓库查看器（git repo viewer）”而非“Git 平台（git forge）”，因为它完全省略了用户账户、SSH/GPG 密钥管理以及议题与补丁（issues+patches）。实际上，sorcery 本身完全是只读的！仓库仅通过基于 SSH 的 Git 进行写入，这独立于 sorcery 之外。你可以将 sorcery-ssh 作为 Git 用户的 SSH ForceCommand 运行，它将提供“首次推送时自动创建仓库”功能以及编辑仓库描述的能力。这种架构的好处在于，你的公开部署与你的 sshd 一样安全，这在当下（2026年）让人感到格外安心 :)</p>
+<p>历史视图确实需要 JavaScript，但我对网络上全盘排斥 JS 的倾向并不怎么感冒（因为除非你住在阿什本，否则在本地设备上运行 UI 代码基本总是更优的选择！）——sorcery 使用了我自己的前端微框架，加上一系列内置的 Web 平台特性以及刻意为之的代码拆分（codesplitting），以极其轻量的方式创造了丰富的客户端体验！例如，加载项目概览页面大约传输 9kb 的 gzipped JS 即可支持近期提交的分页、语言过滤以及跳转到提交 diff 的链接——该站点体积最大的部分最终其实是语法高亮语法规则；我想尝试为 tree-sitter 语法和查询编写一个纯 JavaScript 的执行器，这样我们就能摆脱一些 WASM 的重量包袱（尤其是摆脱每个高亮语言的 WASM 包中被重复打包的代码）。</p>
+<p>我仍然喜欢社区型的 Git 平台！！对于我的个人项目，我主要只是想要一个可以推送代码、能让我用手机浏览以及能把链接发给他人的地方：我不需要协同工作功能，这样做要轻量得多。阅读我的代码绝不应该包含向服务器证明你配得上接收超文本的一整套繁文缛节。</p>
+<p>近期我想添加对 CI 注解（CI annotations）的支持（对此我很有自己的见解，会在以后的博文中展开聊！！快点订阅那个 RSS 按钮吧），也许将来我会把这个仓库查看器扩展成一个独立的、功能更完备（batteries-included）的 forge 项目供我和朋友们使用（一旦我们真正提炼出对我们最重要的东西、剔除掉多余的内容……）</p>
+<p>无论如何，去瞧瞧吧！</p>
+<p>QUERY …/obj 实际上纯粹是一项优化——如果你以完全静态的方式部署构建好的 sorcery 站点，Git 客户端依然会回退并直接拉取且解析打包文件（packfile）和松散对象（loose object），只不过在高延迟下速度会慢上极其极其多。↩︎</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>2021年，Hillel Wayne 开展了名为&#39;crossover project&#39;的项目，采访了多位从其他工程领域转行至软件工程的人士。</li>
-    <li>Hillel Wayne 的交叉项目旨在探究在两个领域均有实际经验的人是否认为软件工作属于工程，受访者的回答是肯定的，但也指出许多写软件的人并未在进行软件工程。</li>
-    <li>来源叙事重点：反对将手写代码贬抑为小众消遣的“手艺人编程”（artisanal programming），批判行业将“软件工程师”头衔让渡给 AI/vibecoding 依赖者，主张通过夺回话语权确立“无 AI 软件工程”的正统性与专业尊严，谴责技术社区忽视可靠性与反智倾向</li>
+    <li>作者在2015年拥有一个Gogs实例，后来依次迁移转变为Gitea和Forgejo实例。</li>
+    <li>作者开发的软件名为sorcery，核心设计类似于静态网站生成器（SSG），定位为只读的Git仓库查看器（git repo viewer）而非包含完整功能的Git代码托管平台（git forge）。</li>
+    <li>来源叙事重点：介绍自研的静态Git仓库查看器“sorcery”，倡导通过“静态生成最新版本+客户端JS解析Git历史+SSH独立写入”的极简架构替代臃肿的全功能Git平台，批判利用PoW防火墙阻挡爬虫有违开放Web精神。</li>
   </ul>
 </div>
 
@@ -760,432 +833,50 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://char.lt/blog/2026/09/sorcery-repo-viewer/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--prediction-markets-html-9a6ac02b59fcfcec" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2226" data-content-paragraphs="26" data-published-at="2026-09-13T11:52:33.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
-    <span class="stance-badge">国际资本与华尔街视角</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 19:52</span>
-</div>
-
-### [NFL赛季与中期选举交汇，预测市场迎来关键秋季周期](https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> NFL and midterm elections set up prediction markets for a critical fall season</div>
-
-<div class="article-body" data-article-body="true"><p>过去两年凭借政治与体育事件跃升至新高度的预测市场，正押注于今年秋季这两大领域的交汇，以推动用户采纳率的进一步提升。</p>
-<p>2024年，事件合约交易所凭借当年与总统大选挂钩的交易进入主流视野。随后，在2025年9月，一年前NFL赛季的开启标志着预测市场交易量迎来一轮激增，且该增长势头至今未见放缓。</p>
-<p>周三晚间，随着新英格兰爱国者队与西雅图海鹰队重演2026年超级碗对决，预测市场迎来了又一个NFL赛季。与此同时，劳工节通常也被政治观察家视为中期选举竞选季的开端。</p>
-<p>今年，预测市场以空前的规模迈入秋季，每日名义交易量已稳定维持在数十亿美元级别，两家占据主导地位的龙头机构正面临一众小型交易所的分食竞争。如今，曾分别推动预测市场走向主流的两大重磅事件，在短短数月内同时发生。</p>
-<p>Robinhood期货与预测市场总经理JB Mackenzie表示：“预测市场目前正迎来一轮超级周期。”</p>
-<p>本季还有其他事件蓄势待发。交易员对经济类合约表现出了更浓厚的兴趣，这些合约与难以预测的美联储下周可能采取的利率举措挂钩；此外，美国职业棒球大联盟（MLB）季后赛也将在10月全面打响。</p>
-<p>预测平台纷纷加紧筹备秋季各类事件。从事体育博彩与预测市场的金融科技公司EDGE Markets首席执行官Seni Thomas表示，只要市场的绝大部分交易量仍来自体育产品，这种筹备态势就将持续下去。</p>
-<p>这个赛季对新兴平台而言可能尤为关键。Thomas表示：“对于许多新公司来说，这个NFL周期是决定成败的真正关键。”</p>
-<p>作为大学橄榄球赛开赛首日，Kalshi在周六录得了创纪录的23亿美元交易量，并针对曾参与2025年NFL赛季市场的投机者推出了一项新功能，方便其在本赛季开球前追踪自身历史表现。在MLB季后赛来临前，该平台还扩大了与部分体育球队的合作关系。</p>
-<p>随着大学橄榄球比赛开打，两大平台均遭遇了技术故障。Polymarket的美国平台在周六大部分时间处于宕机状态，任何因宕机遭受损失的账户最终均获得了退款。Kalshi则过早结算了一场密歇根大学比赛的市场，在结算时错误地将处于劣势的西密歇根大学判定为爆冷获胜并进行了派息。随后，Kalshi更正了密歇根大学的比赛结果，并重新进行了相应结算。</p>
-<p>尽管各平台正在全美多地法庭应对诉讼，但它们仍在向体育领域倾斜。全美多个州认为体育相关事件合约实质上构成赌博，应纳入各州监管管辖范畴，而非归由华尔街监管机构商品期货交易委员会（CFTC）监管。</p>
-<p>Polymarket体育业务拓展总裁Ari Borod在8月宣布与纽约洋基队达成合作前表示：“我们依据CFTC的法规开展运营，今后也将继续如此，并将持续与各利益相关方合作，运营安全可信的产品。”</p>
-<p>在两大预测市场巨头试图延续此前在NFL领域的成功之际，其他竞争对手也在力图利用相同的体育赛事掘金。</p>
-<p>由萨斯奎汉纳国际集团（Susquehanna International Group）与Robinhood合资开发的预测市场平台Rothera便是其中之一。该平台赶在夏季国际足联世界杯期间上线后，交易量便迎来了爆发式增长。</p>
-<p>首席执行官Thomas Chippas表示：“推出所有这些体育项目是一项艰巨的任务。我们从5月最后一周才正式上线……我们正在尽一切可能以审慎而迅速的步伐向前推进。”</p>
-<p>仅提供体育事件合约的平台Novig于周三启动了一场NFL营销活动，并投放了由女演员西德妮·斯威尼（Sydney Sweeney）主演的广告，她是首批与小型交易所展开合作的名人之一。</p>
-<p>于6月上线、主打体育相关事件合约的ProphetX也致力于备战秋季，通过改版其面向消费者的平台，集中力量提升NFL赛季期间的流动性。</p>
-<p>ProphetX联合创始人兼首席执行官Dean Sisun在接受采访时表示：“我们的营收从6月到8月翻了一番。我希望到今年年底，按运行率计算营收能增长4到5倍……我确实坚信我们能够做到。”</p>
-<p>尽管ProphetX以体育事件合约为主打，但Sisun透露，该平台亦计划推出中期选举相关的市场。</p>
-<p>Robinhood正向其经纪业务用户主推Rothera的选举相关合约。</p>
-<p>在11月大选临近之际，Kalshi推出了多款工具，例如7月上线的中期选举中心，为用户提供全美各项政治竞选的数据。Kalshi政治业务增长主管Benjamin Freeman表示，针对选举之夜，平台正在筹划一场线下活动，并深入探讨向交易员和观众实时展示选情揭晓时各项胜率波动的最佳呈现方式。</p>
-<p>Freeman指出，与2024年直到大选投票前一个月相关事件合约才在美国合法化不同，2026年“留给规划的时间要充裕得多”。</p>
-<p>中期选举也为各大平台提供了一个机会，向公众证明其业务不仅局限于体育赛事，即使目前交易量的大头依然来自体育竞赛。</p>
-<p>Robinhood的Mackenzie表示：“本周人们讨论的焦点可能更多集中在NFL上，但我认为这正是预测市场的魅力所在。它会根据大众想要交易的内容以及当下的新闻焦点而不断演变。”</p>
-<p>披露说明：CNBC与Kalshi存在商业合作关系，包括获客合作及持有少数股权。</p>
-<p>若您有保密新闻线索，请与我们联系。<br />欢迎订阅本资讯直达邮箱，获取关于我们产品与服务的更多信息。<br />数据为实时快照。*数据至少延迟15分钟。全球商业与金融资讯、股票行情、市场数据及分析。<br />数据同时由相关服务商提供。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>2024年，事件合约交易所伴随当年的总统大选交易进入主流视野。</li>
-    <li>2025年9月NFL赛季开始标志着预测市场交易量激增的起点。</li>
-    <li>来源叙事重点：聚焦2026年秋季NFL新赛季与美国中期选举叠加形成的预测市场“超级周期”，强调行业交易量激增、新老平台竞争加剧以及向主流金融/体育文化扩张的势头，同时点出平台技术宕机故障与各州赌博监管诉讼等潜在风险。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
-  <span class="news-tag-pill">#CNBC</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Markets (CNBC 市场官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-car-is-selling-your-data-d7586ac65e67e293" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2155" data-content-paragraphs="1" data-published-at="2026-09-13T12:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 20:00</span>
-</div>
-
-### [你的汽车正在倒卖你的数据](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Your car is selling your data</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="你的汽车正在倒卖你的数据" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。<br />查看所有交通资讯<br />许多汽车收集关于您的数据量——并将其出售给第三方——令人咋舌。<br />该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。<br />查看安德鲁·霍金斯（Andrew Hawkins）的所有文章<br />今年早些时候，美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出了一项史无前例的罚单：禁止其在五年内向消费者报告机构及第三方数据经纪商出售客户数据。<br />多年来，通用汽车一直在收集客户的各类数据——例如超速频率或是否夜间驾驶——并将这些数据出售给经纪商，以便为保险公司生成风险画像。在大多数情况下，驾驶员根本没有意识到自己的数据被收集到了何种程度。许多人是在注册OnStar车联服务计划时不知不觉表示了同意，该服务激活了一项名为“智能驾驶员”（Smart Driver）的功能来收集他们的驾驶数据。<br />随后，通用汽车转头便将这些数据共享给两家与保险行业合作的数据经纪商：律商联讯（LexisNexis）和Verisk。在《纽约时报》2024年的一篇重磅调查报道中，部分驾驶员表示，由于这些数据收集行为，他们的保险费率上涨了。当时的注册流程极其令人困惑，以至于许多车主根本不知道自己的数据正被共享出去。根据与FTC达成的和解协议，通用汽车必须让驾驶员能够更轻松地关闭位置追踪，并允许他们访问和删除汽车制造商所收集到的个人数据。<br />然而，通用汽车并非唯一一家疯狂吸取客户数据的车企。来自Mozilla基金会的研究团队曾花费数月时间，对各大主要汽车公司的隐私政策进行了深入审查，以备其2023年的一份研究报告。协助撰写该研究的珍·考特里德（Jen Caltrider）表示，他们的结论是：每一家车企的“隐私与安全性都极其糟糕”。不仅如此，客户还被迫接受针对汽车、联网服务、智能手机应用以及办理购车贷款的金融服务等一系列重叠交叉的隐私政策——而所有这些政策均包含数据收集条款。<br />考特里德说：“因此，试图弄清楚到底发生了什么，确实令人不堪重负。”<br />对此已有大量的佐证。《消费者报告》（Consumer Reports）去年发表了自己的调查，结论是“几乎每一家在美国销售汽车的制造商，同样都在收集并向其他公司共享所谓的‘驾驶员行为数据’，并且目前仍在继续这么做”。<br />与手机相比，汽车的问题尤为棘手，因为其隐私控制选项远没有手机那么直观。智能手机用户通常可以找到并调整其隐私设置。而在汽车上，数据收集分散在多个系统和政策之间，使得消费者更难了解正在发生的事情。这感觉就像是一场毫无秩序的混战，因为汽车制造商在几乎没有公众监督的情况下疯狂收集海量信息。<br />在通用汽车因《纽约时报》的调查而受到处罚后，汽车与数据隐私问题似乎终于获得了一些关注。但正如往常一样，政策制定者在应对这一问题时可能没有切中要害。<br />去年12月，三位众议院共和党议员提出了《实时车辆电子信息数据权利法案》（简称DRIVER法案）。据这些议员称，该法案“重申了一项基本原则：如果你拥有这辆车，你就应该拥有它所产生的数据”。<br />然而，尽管该法案会赋予车主对自身数据稍多一些的控制权，但它同时也允许汽车制造商继续收集并出售给第三方数据经纪商，这使其在隐私倡导者眼中根本行不通。正如考特里德指出的那样，访问权和删除权并不能等同于从一开始就防止过度收集。如果车企可以先收集庞大的信息量，然后消费者必须经历繁琐复杂的流程去弄清楚收集了什么并要求将其删除，那么负担仍然完全落在了个人身上。大多数隐私倡导者更希望看到这样一种制度：汽车制造商从一开始就根本不得收集如此多的信息。<br />这个问题甚至已经上升到了“让美国再次伟大”（MAGA）阵营的讨论层面。去年7月，唐纳德·特朗普任命的交通部长肖恩·达菲（Sean Duffy）致信国会，概述了本届政府针对即将出台的地面交通再授权法案的政策重点。信中暗含了一个名为“自由之车”（the Freedom Car）的新概念，达菲将其描述为美国人“驾驶非联网和非自动化”车辆的权利。该提案将禁止政府强制要求车辆配备自动驾驶系统或具备无线传输数据的能力——然而据我所知，目前根本没有人在试图推行这种强制要求。<br />目前尚不清楚《DRIVER法案》或“自由之车”提案是否能克服华盛顿的重重阻碍真正成为政策。但显而易见的是，公众对更纯粹、更简单的车辆存在巨大的需求。人们不禁要问，为什么他们就不能购买一辆没有安装所有那些传感器和数据收集功能的汽车呢？他们看着诸如Slate Truck之类的新概念车，心里琢磨着自己是否也能用上一款配置更基础精简的座驾。<br />诚然，消费者或许能够接受倒车摄像头等实用的安全设备，但许多人并不希望自己的车辆追踪自己的一举一动——他们也绝对不想在车机屏幕上看到广告。（宝马，我说的就是你。）他们同样不希望在街上行驶时被Flock车牌识别摄像头时刻追踪着自己的一举一动。<br />但是，汽车制造商有充分的动力继续收集数据，因为这有利可图。只要整个广阔的数据经济依然在奖励那些收集信息并将其变现的公司，汽车制造商就几乎没有任何理由主动放弃这种做法。<br />查看所有 The Stepback 专栏内容<br />每日免费获取最重要的核心新闻摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出五年禁令，禁止其向消费者信用报告机构和第三方数据经纪商出售客户数据。</li>
-    <li>通用汽车此前通过其 OnStar 车联服务的 Smart Driver 功能收集包括超速频率、夜间驾驶等客户驾驶数据，并将其共享给 LexisNexis 和 Verisk 两家数据经纪商以生成面向保险公司的风险画像。</li>
-    <li>来源叙事重点：揭示现代智能汽车行业普遍且隐秘的个人驾驶数据收集与变现链条，批评监管执法与立法的滞后及偏颇，呼吁从源头遏制车企过度收集数据而非仅提供形式上的事后删除权。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/column/994172/your-car-is-selling-your-data" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ng-over-the-adriatic-sea-ca4e6fb28f39f532" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="741" data-content-paragraphs="1" data-published-at="2026-09-13T04:05:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nasa.svg" class="source-icon" alt="NASA News (深空探索与航天)" width="16" height="16" /> <strong>NASA News (深空探索与航天)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🔬 深空与基础科学</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 12:05</span>
-</div>
-
-### [APOD：2026年9月13日——升起在亚得里亚海上空的NEOWISE彗星](https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea</div>
-
-<div class="article-body" data-article-body="true"><p>APOD：2026年9月13日——……<br />每日天文一图（Astronomy Picture of the Day）<br />探索宇宙！每天都会展示一张反映我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。<br />若要观看此视频，请启用 JavaScript，并考虑升级至支持该功能的网页浏览器<br />升起在亚得里亚海上空的NEOWISE彗星<br />说明：这样的景象值得早起守候。就在四年多前，C/2020 F3（NEOWISE）彗星在黎明前升起，让早起守候的北半球天空爱好者大饱眼福。7月8日日出前，本期特载摄影师以极具戏剧张力的方式捕捉到了本世纪少数肉眼可见的彗星之一——这颗闯入内太阳系的访客如今被称为“2020年大彗星”。由此制作的视频详细记录了从意大利观测到的NEOWISE彗星升起在亚得里亚海上空的过程。这段特载延时视频整合了在30分钟内拍摄的240多张图像。画面中，彗星穿透前景明亮且起伏的夜光云缓缓升起，背景则是遥远的繁星。NEOWISE彗星出人意料的明亮状态维持了一个多月，其离子尾和尘埃尾被证实源自一个直径约五公里的彗核。<br />APOD的NASA主站点正在迁移：从 apod.nasa.gov 迁至 science.nasa.gov/apod<br />明日图片：开阔空间（open space）<br />荣誉与版权<br />作者与编辑：<br />Robert Nemiroff、Jerry Bonnell、Cecilia Chirenti、Keighley Rockcliffe<br />NASA科学赋能项目（Science Activation）与密歇根理工大学<br />随机 APOD 生成器<br />昨日图片<br />APOD：2026年9月12日——阿波罗11号：沐浴阳光（Apollo 11: Catching Some Sun）<br />明日图片</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>彗星 C/2020 F3 (NEOWISE) 在大约四年多前的7月8日日出前升起，被称为2020年大彗星，是本世纪少数肉眼可见的彗星之一。</li>
-    <li>拍摄者在意大利记录了彗星 NEOWISE 从亚得里亚海上空升起的延时视频，该视频由30分钟内拍摄的240多张图像合成。</li>
-    <li>来源叙事重点：回顾2020年大彗星NEOWISE在意大利亚得里亚海上空升起的天文摄影作品，科普其物理特征与观测背景，并顺带发布APOD主站迁移通告</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#深空与基础科学</span>
-  <span class="news-tag-pill">#NASA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NASA News (深空探索与航天)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ousins-face-nfl-week-one-7509ae63778b2448" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1305" data-content-paragraphs="10" data-published-at="2026-09-13T12:28:51.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 20:28</span>
-</div>
-
-### [NFL首周马利克·威利斯与柯克·考辛斯正面交锋，突袭者主场让3分迎战迈阿密海豚](https://www.foxnews.com/outkick-sports/raiders-favored-3-miami-dolphins-malik-willis-kirk-cousins-face-nfl-week-one)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Raiders favored at -3 over Miami Dolphins as Malik Willis and Kirk Cousins face off in NFL week one</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kirk-cousins-raiders-49ers-preseason-warmup.jpg?ve=1&amp;tl=1" alt="NFL首周马利克·威利斯与柯克·考辛斯正面交锋，突袭者主场让3分迎战迈阿密海豚" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>真希望我也能有一句像Red Zone节目主持人斯科特·汉森（Scott Hanson）那样让人过目难忘的开场白。无论我写出什么，都无法带来“连续7小时无广告橄榄球直播”那种令人血脉贲张的兴奋感。不过，这也正是等待着我们的盛宴。我们将迎来数小时不间断的橄榄球赛事，以及新赛季的首个完整赛程。这个周末我关注的第一场对决，正是迈阿密海豚对阵拉斯维加斯突袭者。</p>
-<p>今年我预测迈阿密海豚会斩获一项非常“特别”的荣誉……那就是状元签。这可算不上什么好兆头，但我确实认为他们会是全联盟最烂的球队。过去一年里，海豚队遭遇了严重折损。上赛季的主帅：走人；上赛季的首发四分卫：走人；队内的顶尖外接手（泰里克·希尔和杰伦·沃德尔）：全都走人。</p>
-<p>这场比赛他们还有保持乐观的希望吗？德文·阿钱（De’Von Achane）依然是联盟中较优秀的跑卫之一。马利克·威利斯（Malik Willis）极具运动活力，此前在田纳西泰坦和绿湾包装工都曾展现出亮眼闪光点。然而，考虑到对手心知肚明他是队里最好、也是唯一的真正威胁，阿钱可能根本得不到冲跑空间。威利斯虽然闪现过亮点，但他也用表现证明了自己通常沦为替补四分卫并非没有原因。</p>
-<p>迈阿密海豚进入彻底重建阶段，马利克·威利斯担任四分卫，杰夫·哈夫利出任主教练</p>
-<p>拉斯维加斯突袭者在这个休赛期同样经历了重大人员变动。凭借上赛季糟糕的表现，他们拿到了状元签。为此，球队解雇了皮特·卡罗尔（Pete Carroll），聘请克林特·库比亚克（Klint Kubiak）接掌球队帅印。他们还用状元签选中了费尔南多·门多萨（Fernando Mendoza），随后签下了曾与库比亚克有过合作经历的柯克·考辛斯（Kirk Cousins）。</p>
-<p>突袭者曾在休赛期试图交易走马克斯·克罗斯比（Maxx Crosby），但这笔交易被否决，他现在重新回到了球队大名单中。对球队来说，他依然能提供稳定的表现，但防守组其他位置则充满疑问。突袭者的新任主帅也不是防守出身，因此防守端的表现确实令人担忧。作为参考，突袭者的防守锋线在全联盟排名第24位，而海豚队则排在第30位。布洛克·鲍尔斯（Brock Bowers）本场缺阵，这对突袭者是个打击，但我认为在对阵海豚时影响还在可控范围内。</p>
-<p>柯克·考辛斯与状元秀费尔南多·门多萨为突袭者投注者带来新赛季的希望</p>
-<p>两支球队都由身处新环境的四分卫坐镇，且防守表现均存疑。这是否意味着双方会打出一场高比分之战，还是四分卫们将忙于摸索适应而受限？就我个人而言，我认为这会是一场比分相对较高的比赛，但我不打算碰总分盘。我认为双方都没有足够的确定性让人下重注。不过，我确实稍倾向于总分高于40.5分。</p>
-<p>相反，在这场对决中我选择支持突袭者让3分（-3）。我认为拉斯维加斯突袭者是一支会有所进步的队伍，但也不要指望他们能赢下很多比赛，他们依然会无缘季后赛，依然面临许多疑问。不过单就这一场比赛而言，突袭者应该至少能净胜3分，而且我认为他们赢球的分差会在5分或以上。支持突袭者打出。</p>
-<p>获取更多体育博彩资讯与投注建议，请在X/Twitter上关注David：@futureprez2024</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-13 20:28 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/raiders-favored-3-miami-dolphins-malik-willis-kirk-cousins-face-nfl-week-one" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-g-nfl-sunday-2026-season-7b8fd14364984990" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="548" data-content-paragraphs="4" data-published-at="2026-09-13T12:24:12.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 20:24</span>
-</div>
-
-### [theScore Bet 优惠码：在2026赛季NFL首个周日比赛前获取1000美元投注重置金](https://www.foxnews.com/outkick-betting/thescore-bet-promo-code-get-1000-bet-reset-ahead-opening-nfl-sunday-2026-season)
-<div class="original-title-sub"><span class="orig-tag">原文</span> theScore Bet Promo Code: Get a $1000 Bet Reset Ahead of the Opening NFL Sunday of the 2026 Season</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/524/caleb-williams-chicago-bears-fox-news-001.jpeg?ve=1&amp;tl=1" alt="theScore Bet 优惠码：在2026赛季NFL首个周日比赛前获取1000美元投注重置金" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>西雅图海鹰队捧起超级碗隆巴迪奖杯的场景仿佛就在昨天。如今，我们迎来了NFL新赛季第一周的全面开战，theScore Bet正通过其优惠码为新用户提供价值1000美元的投注重置金（Bet Reset），以迎接周日的揭幕战。</p>
-<p>新用户共有13场不同的比赛可供选择，以享受 theScore Bet 提供的这一优惠。其中一场值得关注的对决是芝加哥熊队对阵卡罗来纳黑豹队。芝加哥熊队去年闯入了季后赛，并在主教练本·约翰逊的带领下战胜绿湾包装工队，赢得了他们当季的首场季后赛胜利。对于这支球队以及二年级四分卫凯莱布·威廉姆斯来说，这是一场重大的胜利。如今，外界对该队在季后赛中走得更远寄予厚望，同时也期待威廉姆斯和进攻组能更进一步。</p>
-<p>黑豹队上赛季在某种程度上算是半推半就地拿下了分区冠军——既然总得有人夺冠，那碰巧就是卡罗来纳。值得称赞的是，当他们在主场迎战洛杉矶公羊队时，确实给对手制造了极大的麻烦。但这还不足以让布莱斯·杨赢得一份新合同，不过这正是他在今年通过一个成功的赛季所全力争取的。他们能否在这个竞争相对开放的分区中再次斩获季后赛席位？征程现在打响！</p>
-<p>使用 theScore Bet 优惠领取您的1000美元投注重置金，投注于芝加哥对阵卡罗来纳的比赛，或赛程表上的其他12场比赛中的任意一场。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-13 20:24 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/thescore-bet-promo-code-get-1000-bet-reset-ahead-opening-nfl-sunday-2026-season" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--states-first-nfl-sunday-3cd92f4abe3d8e36" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1149" data-content-paragraphs="12" data-published-at="2026-09-13T12:23:31.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 20:23</span>
-</div>
-
-### [Fanatics优惠码FOXNEWS350：首个NFL超级星期日，特定州可享1000美元奖金或投注20美元获350美元](https://www.foxnews.com/outkick-betting/fanatics-promo-code-foxnews350-get-1000-bonus-bet-20-get-350-select-states-first-nfl-sunday)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Fanatics Promo Code FOXNEWS350: Get $1000 Bonus, Bet $20, Get $350 in Select States for the first NFL Sunday</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/524/nfl-lions-jared-goff-122525-1.jpg?ve=1&amp;tl=1" alt="Fanatics优惠码FOXNEWS350：首个NFL超级星期日，特定州可享1000美元奖金或投注20美元获350美元" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>2026年NFL赛季第一周，将在周日迎来十三场精彩对决。早场和下午场都有大量值得收看的比赛，而Fanatics则为你关注赛季开幕周末提供了一个绝佳的理由。</p>
-<p>Fanatics Sportsbook正通过优惠码FOXNEWS350为新用户提供高达1,000美元的存款匹配FanCash，部分州还提供“投注20美元获350美元”的活动。这两项优惠均面向新用户，力度十分可观。</p>
-<p>面对13场不同的比赛，挑选一场（或几场）进行投注非常容易。赛程中有两场比赛格外引人注目：新奥尔良对阵底特律，以及迈阿密对阵拉斯维加斯。</p>
-<p>圣徒队将奔赴汽车城，与雄狮队展开本周的第一场较量。圣徒队阵容中新增了特拉维斯·埃蒂安（Travis Etienne），并将依靠泰勒·肖格（Tyler Shough）来抗衡进攻火力强劲的底特律队。</p>
-<p>雄狮队本已充满活力的进攻体系迎来了新的进攻协调员。贾里德·高夫（Jared Goff）去年表现出色，尽管未能带领雄狮队杀入季后赛。如今后场属于贾米尔·吉布斯（Jahmyr Gibbs），而雄狮队的防守端则指望艾丹·哈钦森（Aidan Hutchinson）来引领发挥。</p>
-<p>在下午场，我们将看到迈阿密海豚队，他们队中几乎所有优秀球员都被交易走了。不过他们的后场依然拥有德文·阿尚（De’Von Achane），因此任何对手都必须全力以赴应对。</p>
-<p>拉斯维加斯突袭者队拿下了状元签，但除非柯克·考辛斯（Kirk Cousins）受伤，否则他不会迎来常规赛首秀。在克林特·库比亚克（Klint Kubiak）的带领下，这支球队将检验他们能否让进攻保持稳定，以及防守端能否限制住对手。</p>
-<p>无论你选择支持哪支球队或球员，都可以利用FOXNEWS的FanCash促销活动，享受最高1,000美元的FanCash对等匹配，或在特定州享受“投注20美元获350美元”的优惠。</p>
-<p>时间：2026年9月13日，周日，美东时间1:00<br />地点：密歇根州底特律，福特球场</p>
-<p>时间：2026年9月13日，周日，美东时间4:25<br />地点：内华达州拉斯维加斯，忠诚体育场</p>
-<p>在贾里德·高夫上赛季拿下34次回传达阵和4,564码之后，他是否还有很大的提升空间？高夫作为雄狮队的主力四分卫表现出色，但并未转化为全队的最终成功。随着汽车城迎来新的进攻协调员，高夫将如何应对令人期待。这将是他三年内的第三位协调员，即便是对老将四分卫来说也并非易事。</p>
-<p>当对方全队都知道你是进攻核心时，你该怎么办？今天德文·阿尚迎战突袭者队时，我们将看到这个问题的确切答案。上赛季，他在地面冲球斩获1,350码和8次回传达阵，空中接球又贡献了488码和4次回传达阵。如今他得到的支援比上赛季还要少；面对上赛季表现挣扎的突袭者防线，他能否撕开防守空当？</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-13 20:23 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-betting/fanatics-promo-code-foxnews350-get-1000-bonus-bet-20-get-350-select-states-first-nfl-sunday" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--muse-ai-sony-headphones-a12a895c510190dc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2516" data-content-paragraphs="1" data-published-at="2026-09-13T12:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 20:00</span>
-</div>
-
-### [苹果新手机登场](https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Apple’s new phones are here</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="苹果新手机登场" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />此外，在本周的《Installer》中：升级款 AirPods、Meta 的 AI 智能体、重新复刻的索尼耳机等。<br />该作者的文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看 Jay Peters 的全部文章<br />如果您通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。请查看我们的道德声明。<br />嗨，朋友们！欢迎来到《Installer》第 143 期，这里是带你了解世界上最好、最贴近 The Verge 风格内容的指南。（如果您是新朋友，欢迎光临，新科技季已经到来，您也可以在《Installer》主页阅读所有往期内容。）<br />这周，我贪婪地看完了能找到的每一个 iPhone Duo 视频，点击浏览了入围今年“Tiny Awards”的精彩网站，补上了优秀的《鬼武者：刀之道》（Onimusha: Way of the Sword），在即将上映的同名电影前阅读了《野林》（Wildwood），观看了新一季《无所不能》（Taskmaster），努力适应《时之笛》重制版中林克的新造型，还修好了我那蹒跚学步的孩子婴儿车上的瘪胎。对于最后一件，我非常骄傲。<br />我还为你准备了新款 iPhone、Meta 的 AI 智能体、重新复刻的索尼耳机等内容。休假一周后回归的感觉真好。<br />本周，我特意邀请了一位与我共事很久的伙伴：The Verge 新闻撰稿人 Emma Roth。Emma 是业内对流媒体领域最敏锐的人之一，几乎所有题材她都能写出好文章——就在最近，她探讨了 AI 检测工具、Meta 儿童安全和解案以及食品召回等话题——并且是一个极好的报道搭档。她是咱们编辑部的核心成员。<br />我邀请她分享自己的手机主屏幕、以及她所关注的应用程序与事物。以下是她的分享，以及关于她所用应用和原因的一些介绍：<br />手机：三星 Galaxy Note 20 Ultra（最后一款 Note 手机！）。<br />壁纸：这是我在当地一个小水湾拍的照片！那是一个绝佳的观鹈鹕胜地。<br />应用：我的主屏幕可能相对简单，但包含了最基本的必备应用：Google 信息、Microsoft Edge、三星邮件和我的电话，以及 Google Play 商店和相机的快捷方式。<br />一旦我划入应用抽屉，这种秩序感就烟消云散了。第一页全是我最常用的应用，呈现出像 Reddit、Slack 和山姆会员店（Sam’s Club）杂乱无章的拼凑。<br />也许把杂乱的应用抽屉公之于众是一个信号，告诉我该好好整理一下了。我记不得上次打开三星文件夹里的应用是什么时候，也记不得上次从这个屏幕而不是底栏快捷方式打开电话是什么时候了。<br />我还请 Emma 分享了她最近感兴趣的一些事物。以下是她的回复：<br />以下是本周《Installer》社区正在关注的内容。我也想知道你现在沉迷于什么！请发送电子邮件至 installer@theverge.com 分享你的任何推荐，我们每周都会在这里精选推荐大家喜爱的作品。想了解更多精彩推荐，欢迎查看 Bluesky 上的这条帖子以及 The Verge 上的这条帖子下的回复。<br />“Hulu / FX 上的新一季《成年人》（Adults）太搞笑了！！这是一部很棒的情景喜剧，讲述了一群朋友努力在纽约打拼的故事。我一直沉迷于 Underworld 的《Born Slippy》，以及它几乎所有的混音版，老歌依然经典！”——Cvmvrvn<br />“宜家做了一个《天际》（Skyrim）模组，由 Matt Berry 为 KALLAX 搁架配音。”——Sam<br />“我正在丰富我的日常解谜/游戏网站收藏，每天都要玩：krillion.io，尝试在 25 秒内猜出最独特的答案；wafflegame.net，体验更宏大的 wordle；www.geogridgame.com/usa，测试我的美国地理知识；dartwords.com，单字竞猜游戏；shrinkle.org，简单的字母掉落游戏；还有我的新宠：《大西洋月刊》（The Atlantic）应用里的 Rabbithole。”——Neal<br />“下周初要去看 Shearling 的演唱会，现在一直在大量听他们的歌。正在读芭芭拉·金索尔弗（Barbara Kingsolver）的《恶魔大卫》（Demon Copperhead）。在看《米切尔与韦伯无济于事》（Mitchell and Webb Are Not Helping）。双手合十耐心地等待着，因为数码产品实在太贵了。正在考虑买几款和弦合成器之一作为自己的生日礼物：HiChord、Telepathic Instruments 的 Orchid ORC-1、Nopia MK1。”——oedipa.maas<br />“我手机上的 Clicks Power Keyboard 键盘根本停不下来，按键的触感太让人有满足感了！！忘了折叠屏吧，把物理按键带回来！”——mahoodlum<br />“为了迎接 NFL 赛季，我正在 Hulu 上看《查德·鲍尔斯》（Chad Powers）。那部剧好看得不可思议。就像是如果《足球教练》（Ted Lasso）真的很有趣会是什么样 *开火引战了*”——SpaghettiCoder<br />“超喜欢《至尊之塔》（Sovereign Tower）这款游戏！我爱它的艺术风格和玩法机制。我太喜欢这些新出的海量独立游戏了。”——Elessar_Cut_throughthenight<br />“《Czarface Meets Frankie Pulitzer》这张专辑绝对是一首首嗨歌。”——Brick_wall_56<br />接下来的几周，我将因公出差参加活动。应该会有很多好内容；我迫不及待想分享我将要报道的事情了。但我也一定会想念我家的办公桌和日常生活。我很想听听《Installer》社区的分享：在出差办公期间，你有什么最喜欢的应用、游戏、小贴士、诀窍或日常习惯来让自己保持清醒理智？可能会在接下来的某期中收录一些最佳建议。也许我自己上路时也会尝试几个。<br />每日免费精选核心要闻。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-13 20:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--introducing-jetkvm-mini-4b766bba8f4fae39" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1926" data-content-paragraphs="1" data-published-at="2026-09-13T07:49:46.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 15:49</span>
-</div>
-
-### [要闻：JetKVM Mini 是一款火柴盒大小的 KVM 设备，支持有线或无线连接](https://jetkvm.com/blog/introducing-jetkvm-mini)
-<div class="original-title-sub"><span class="orig-tag">原文</span> JetKVM Mini</div>
-
-<div class="article-body" data-article-body="true"><p>新闻稿 2026年9月11日<br />JetKVM Mini 是一款火柴盒大小的 KVM 设备，支持有线或无线连接。它具备 1080p 视频采集能力、与 JetKVM 相同的网络界面及云服务，并配备开源固件。将于 2026 年 10 月 26 日上市。<br />JetKVM Mini 是一款更小巧、价格更亲民的 JetKVM。它分为两个版本：配备以太网口的 JetKVM Mini 售价 39 美元，无线版的 JetKVM Mini W 售价 42 美元。若以三件装的形式购买，价格会更实惠，单价分别降至 33 美元和 36 美元。<br />机身采用铝制外壳，尺寸为 42 × 42 × 23 毫米（1.7 × 1.7 × 0.9 英寸），大小约等同一个火柴盒。它能实现 JetKVM 的所有功能：原生 1080p 视频采集（借助 JetKVM OS Services 最高可达 4K）、通过 USB 传输键盘和鼠标信号、使用相同的网页控制台、相同的云服务以及相同的更新。<br />JetKVM Mini 配备一个 RJ45 端口。只需插上网线、视频线以及连接到目标计算机的 USB 线，从屏幕上读取 IP 地址，然后在浏览器中打开即可。配置方式与以往每一台 JetKVM 完全一致。<br />JetKVM Mini W 取消了 RJ45 网口，改用 2.4 GHz 和 5 GHz 无线电模块。它是专为网线无法触及的设备设计的：例如位于另一个房间的电脑、电视机下方的机顶设备，或是没有空闲交换机端口的机架。视频线和 USB 线是仅需的两根线缆。配置过程可以通过手机或笔记本电脑上的浏览器经由蓝牙完成：选择网络，输入密码，Mini W 便会自动加入该网络。<br />JetKVM Mini · 以太网版<br />JetKVM Mini W · 无线版<br />我们希望打造一款价格足够亲民的 JetKVM，让每台机器都能用得起，而要做到这一点就意味着必须推倒重来。Mini 并非缩水版的 JetKVM，而是一款围绕 KVM 核心需求重新工程设计的 JetKVM，重点做好：视频采集、键盘鼠标控制、挂载虚拟介质，并在其管理的机器失联时依然保持自身在线。<br />其最终实现了一种简单得多的架构：一颗 ESP32-P4X 芯片即可处理视频采集、H.264 编码、USB 控制以及 JetKVM 固件，无需 Linux 系统所必需的独立 DRAM 和 eMMC。围绕这颗芯片，我们打造了紧凑的铝制外壳、带有物理按键的简易状态显示屏，以及与 JetKVM 相同的网页界面、云端、扩展插件和更新系统。<br />它能在起售价仅为 33 美元的更小巧机身中，完全胜任 JetKVM 的工作。<br />Mini 运行在搭载硬件 H.264 编码器的微控制器 ESP32-P4X 上。视频采集规格为 1080p 30 fps 或 720p 60 fps，在芯片内完成编码，并通过 WebRTC 流式传输至你的浏览器。Mini W 额外增加了一颗 ESP32-C5 用于无线连接，支持 2.4 GHz 和 5 GHz 的 IEEE 802.11a/b/g/n/ac/ax 网络、用于配置的低功耗蓝牙（Bluetooth LE），以及用于 Zigbee 和 Thread 的 IEEE 802.15.4。<br />Mini 配备了两个 USB 端口。一个连接至目标电脑：它以 USB 2.0 高速（480 Mbps）运行，向目标机器模拟呈现键盘、鼠标和虚拟介质，并从目标机器取电。虚拟介质通过侧面插槽中的 TF 卡运行——插入你自己的存储卡并加载所需的 ISO 镜像即可。<br />另一个是通用 USB 端口。它以 USB 2.0 全速（12 Mbps）运行，也可以充当备用或辅助电源输入。这也是我们连接扩展模块的接口：我们正在重新设计 ATX、直流电源和串口扩展，使其采用标准 USB 接口，新版本将在后续发布。在外接电源供电时，该端口甚至可以作为 USB 主机（Host）运行，原则上允许连接你在自己的固件中选择支持的任何 USB 设备。<br />我们为 ESP32-P4X 重写了固件，并且从第一天起就完全开源。它采用相同的通信协议，因此网页端界面和云端能够无缝沿用。<br />在需要时可启用安全启动。JetKVM Mini 已为安全启动做好准备。JetKVM 公钥签名的摘要已预烧录在芯片的 eFuse 中，因此你只需在网页界面中进行一项简单的设置，即可将 Mini 永久锁定在带有 JetKVM 签名的固件上。<br />两款型号均将于 2026 年 10 月 26 日通过我们的授权经销商开售。<br />欢迎加入我们的社区，获取技术支持，并关注后续开发动态。<br />表达您的支持，帮助更多人发现这个项目。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-13 15:49 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://jetkvm.com/blog/introducing-jetkvm-mini" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-w-aligned-to-whom-436f8fc61fe3573d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1111" data-content-paragraphs="9" data-published-at="2026-09-13T03:17:18.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 11:17</span>
-</div>
-
-### [与谁对齐？](https://hyperbo.la/w/aligned-to-whom/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Aligned to whom?</div>
-
-<div class="article-body" data-article-body="true"><p>谈到安全风险，致那些正在构建智能体（agent）的人：正因为你精通问题 X、Y 和 Z，你的智能体在这些方面很可能会表现得极其出色，你在这些领域也不会面临风险。但是！还有无数其他问题，你或是定义不清，或是规范糟糕，既没有能力亲自评判其正确性，也根本不可能评估其风险。</p>
-<p>你极其严重地依赖模型自身的先验知识来替你把关，以化解这种风险。无论对你还是对模型的使用来说，这都完全处于“未知的未知”（unknown-unknown）领域。</p>
-<p>就我个人而言，很难对模型的先验知识抱有极高的信心，因为我是一名资深软件工程师，而我对模型在编写软件时的默认行为并不满意（也从未满意过）。我在编写软件方面的专业知识赋予了我异乎寻常的敏锐洞察力，这也让我更不愿意盲目相信它在复式记账、金融、法律、运营或任何其他我无法亲自以专家深度进行评估的领域中的先验知识。</p>
-<p>此时此刻，软件工程师（以及最近的数学家们！）对“垃圾输出”（slop）已经非常熟悉了——即模型生成的那些虽然能完成任务、但在某些方面却很糟糕的内容。软件工程师在模型输出中见过的每一个 isRecord 或过度防御性的异常处理，都是因为在训练过程中，非专家对模型的这些行为给予了奖励。模型的先验知识本身就是糟糕的。</p>
-<p>极其重要的一点在于：这种现象——即模型因展现出在专家看来很糟糕的行为而获得奖励——同样普遍存在于每一个自动评分器、每一个评判模型、每一个评分准则、每一次评测以及每一位研究员身上。</p>
-<p>这些对齐偏差会随着时间的推移而不断叠加复合。模型的训练方式在很大程度上并不要求它们通过层层累加的变更来演进系统。模型不会对未来的后悔产生恐惧。深入了解过好几处“香肠作坊”（内部底层运作）后，我发现：通过使用智能体产出的工作成果来维持长期的连贯一致性，仍然是一个极具挑战且悬而未决的难题。</p>
-<p>尽管如此，你还是会看到有人写出这样的提示词：“帮我赚10亿美元，不要犯错”。这简直是一个定义极度模糊的任务！</p>
-<p>根本不存在无法被钻空子的评分器，而模型又因追求效率而获得奖励。这意味着，只要评分器允许的捷径有助于实现目标，模型就会被训练去走这些捷径。但是，对于何谓“允许的捷径”，并不存在统一的定义。对一个人来说是聪明的优化，对另一个人来说可能就是鲁莽、错误或不道德的。允许走哪些捷径取决于你是谁以及你的价值观是什么。要解决这个问题——要解决对齐问题——属于不可简化的复杂性。</p>
-<p>感谢 Karan Lyons 提供的 AI 庞氏表（Punnett square）并审阅本文初稿，感谢 David Adrian 和 Bryan Berg 审阅初稿，并感谢 Snoopy 的朋友们帮助我完善这些思考。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-13 11:17 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://hyperbo.la/w/aligned-to-whom/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-item-a42624e10e76cfd4" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="354" data-content-paragraphs="6" data-published-at="2026-09-13T02:43:57.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 10:43</span>
-</div>
-
-### [临时计算机博物馆](https://icm.museum/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Interim Computer Museum</div>
-
-<div class="article-body" data-article-body="true"><p>临时计算机博物馆</p>
-<p>临时计算机博物馆（ICM）致力于通过结合复古硬件与现代增强技术的互动展览，保护并分享计算技术的历史。我们的展品提供连通过去与现在的亲身体验，让参观者能够探索计算技术的演进历程。</p>
-<p>我们是一家 501(c)(3) 非营利慈善机构，与会员制机构 SDF Public Access UNIX System, Inc. 501(c)(7) 合作开展工作。会员对于我们的使命至关重要，他们通过社区活动、远程访问和文物保护来支持博物馆的各项运转。</p>
-<p>有关联系方式和预约信息，请点击“参观”（Visit）。</p>
-<p>如需支持我们的工作，欢迎考虑立即捐赠（Donating）或加入（Joining）我们。</p>
-<p>©2020-2026 Interim Computer Museum, Inc. 501(c)(3)</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-13 10:43 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://icm.museum/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ttempted-ouster-by-board-402875826886258c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1351" data-content-paragraphs="9" data-published-at="2026-09-12T23:25:38.000Z" data-time-source="publication">
+<div id="story-r-plan-for-ai-safeguards-6118181b33088941" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1583" data-content-paragraphs="20" data-published-at="2026-09-13T16:30:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-13 07:25</span>
+  <span class="news-meta-time">🕒 2026-09-14 00:30</span>
 </div>
 
-### [在董事会企图罢免后，Automattic确认穆伦维格已重返CEO职位](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Automattic confirms Mullenweg has returned as CEO after attempted ouster by board</div>
+### [奥巴马敦促民主党就人工智能安全保障制定“明确计划”](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Obama urges Democrats to have a ‘clear plan’ for AI safeguards</div>
 
-<div class="article-body" data-article-body="true"><p>经历动荡的一周后——期间WordPress创始人马特·穆伦维格（Matt Mullenweg）在董事会投票中被罢免了WordPress.com母公司Automattic的首席执行官（CEO）职位——该公司现已发表声明，确认穆伦维格已重返其职位。</p>
-<p>“马特·穆伦维格现担任Automattic董事长兼首席执行官，并获得了董事会的全力支持；如果你在网上搜索，也可以看到许多高管和Automattic员工同样在支持他，”一名公司发言人在周六美东时间下午5点刚过通过电子邮件向TechCrunch表示。（提及网络支持似乎是指穆伦维格从其X账号转发的一系列支持性帖子。）</p>
-<p>Automattic董事会本周早些时候投票决定因未知原因让穆伦维格带薪休假。此举似乎让穆伦维格颇感意外，他在Automattic的Slack上发帖，指责董事会成员联合起来“密谋针对”他。</p>
-<p>Automattic在周三向TechCrunch证实了穆伦维格被免职的消息，称穆伦维格“目前正在休假”，并且Automattic首席财务官马克·戴维斯（Mark Davies）将在董事会的“充分信任”下担任临时首席执行官。</p>
-<p>然而，董事会的计划进行得并不顺利。多位消息人士告诉TechCrunch，穆伦维格似乎拒绝离开，他将其他管理员踢出了公司Slack，并告诉员工一切问题都已解决，他重新掌控了Automattic。一度，他还在Slack上发帖称：“我现在是个海盗了”，并爆了粗口——穆伦维格一向以不爆粗口著称。“如果这是人事问题，请把我拉住，因为我平时的管理协调员现在正跟着马克·戴维斯，”他写道。</p>
-<p>当TechCrunch询问穆伦维格关于他重返CEO职位的言论是否属实时，他承诺很快会发布一篇博客文章。然而文章发布后，内容却是关于他购买一艘船屋的。当我们询问关于他复职的言论是否也是在恶搞时，他回复道：“我不是在恶搞，显然我是个海盗。”穆伦维格从未就其回归发表过任何官方评论，但他在X上指出，这很可能是他第五次面临“政变”。</p>
-<p>Automattic在周五也未对多次置评请求作出回应，对于我们获悉的关于董事会成员托尼·施耐德（Toni Schneider）辞职的报道也未予回应。施耐德是Automattic的联合创始人CEO，目前执掌Bluesky。他未就发送至其个人邮箱或通过Bluesky发出的置评请求进行回复。</p>
-<p>此后，我们再次就此事以及董事会成员构成的其他变动向Automattic进行了询问，据我们了解，董事会成员变动可能仍在持续中。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。<br />消费新闻编辑<br />预订展位的最后一天是9月18日。切勿错失在Disrupt展厅获取高价值潜在客户、对接投资人及展示品牌的机会。<br />Revolut确认因虚假政府请求导致客户数据泄露<br />OpenAI因Astra需求暂停Pro订阅服务<br />身份验证巨头IDScan确认发生数据泄露，超过1.5亿份驾照遭窃<br />Automattic董事会迫使首席执行官马特·穆伦维格休假<br />苹果推出首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在关键数学问题上耍弄肮脏手段<br />一部关于伊丽莎白·霍姆斯的神秘新纪录片惊艳特柳良德电影节</p></div>
+<div class="article-body" data-article-body="true"><p>据《纽约时报》报道，美国前总统巴拉克·奥巴马近日表示，民主党人需要将人工智能列为其“核心议程”之一，并“制定一个非常明确的计划”，以应对有关该技术对经济影响和安全性的担忧。</p>
+<p>奥巴马是在周四的一场民主党筹款活动上发表上述言论的，当时众议院少数党领袖哈基姆·杰弗里斯对他进行了采访。《纽约时报》称，奥巴马办公室提供了该活动的部分文字记录，杰弗里斯在会上询问奥巴马国会民主党人应如何应对人工智能。</p>
+<p>对此，奥巴马表示，一旦民主党夺回众议院多数席位，他们就需要“为开展极具公开性的对话构建一个框架”。</p>
+<p>“这项技术在私营部门手中发展得非常迅速，如果我们不能掌控局面，我认为它可能会变得危险，”奥巴马补充道，“如果我们确实能掌控它，我确实认为它是有益的。我由衷地认为，它将在能够帮助我们治愈疾病等方面加速药物研发。”</p>
+<p>杰弗里斯在一份声明中表示，这位前总统“在‘必须就人工智能采取果断行动’这一点上是正确的”。杰弗里斯还表示，“共和党人已经放弃了代表美国人民进行治理的责任”。</p>
+<p>《纽约时报》还报道称，奥巴马已自荐充当人工智能高管的“顾问”，并与Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）以及OpenAI首席执行官山姆·奥特曼（Sam Altman）进行过交谈。他的这些言论发表之际，正值外界对人工智能安全的担忧日益加剧，特别是在一名AI研究人员从Anthropic辞职并声称领先的AI企业正在“径直竞相迈向自我改进的超级智能，并在拿我们的生命作赌注”之后。</p>
+<p>周六，阿莫代伊概述了一种“平衡前沿发展步伐”（pacing the frontier）的总体方案，其中包括允许独立的安全评估人员接触头部AI企业和模型，以及在各企业之间制定“通用安全标准”。在社交媒体帖文中，奥特曼和SpaceX首席执行官马斯克似乎对阿莫代伊的方案作出了积极回应，奥特曼表示OpenAI也将承诺“让独立评估人员拥有类似员工的访问权限”。</p>
+<p>与此同时，唐纳德·特朗普总统周日在爱尔兰的一场高尔夫活动中向记者讨论了人工智能安全方面的担忧。彭博社报道称，特朗普吹嘘美国是“世界上最尖端的国家”，并补充说他希望“保持这种状态，因为谁赢得人工智能，谁就赢得了胜利”。（今年早些时候，特朗普政府发布了一项关于人工智能的立法框架，该框架将优先于州法律，并将儿童安全的责任转移给父母。）</p>
+<p>“而且我们可以设立护栏，”特朗普说，“我们可以做这做那。但我认为有很多不该提出这个问题的负面势力正在挑起这个话题。”</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>安东尼·哈（Anthony Ha）是TechCrunch的周末编辑。此前，他曾担任《Adweek》的技术记者、VentureBeat的高级编辑、《Hollister Free Lance》的地方政府记者，以及一家风投公司的内容副总裁。他现居纽约市。</p>
+<p>您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与安东尼取得联系或核实外联信息。</p>
+<p>预订展位的最后一天是9月18日。切勿错过在Disrupt展厅中获得高价值销售线索、接触投资人以及品牌曝光的机会。</p>
+<p>Revolut证实因虚假政府请求导致客户数据泄露</p>
+<p>受Astra需求激增影响，OpenAI暂停Pro订阅服务</p>
+<p>身份验证巨头IDScan证实发生数据泄露，超过1.5亿张驾照信息被盗</p>
+<p>Automattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假</p>
+<p>苹果发布旗下首款折叠屏设备iPhone Duo</p>
+<p>纽约大学数学家称OpenAI在关乎其职业生涯的数学难题上采取了不光彩手段</p>
+<p>一部关于伊丽莎白·霍姆斯（Elizabeth Holmes）的神秘全新纪录片惊艳特柳良德电影节</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-13 07:25 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>奥巴马在周四的民主党筹款活动中表示，民主党需要将人工智能列为“核心议程”，并制定“非常清晰的计划”来应对该技术带来的经济影响和安全担忧。</li>
+    <li>该筹款活动中，众议院少数党领袖哈基姆·杰弗里斯对奥巴马进行了采访，奥巴马办公室提供了部分活动记录。</li>
+    <li>来源叙事重点：聚焦前总统奥巴马督促民主党将AI安全与经济影响列为核心施政框架，并勾勒出政界两党（民主党强调建立公共安全防护框架 vs 特朗普政府主导的国家竞争优先与去监管化导向）及科技领袖（Anthropic与OpenAI支持独立评估）的立场互动</li>
   </ul>
 </div>
 
@@ -1194,41 +885,215 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-s-rogue-ai-rubygems-hack-593440c97619d82b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="578" data-content-paragraphs="10" data-published-at="2026-09-12T21:41:36.000Z" data-time-source="publication">
+<div id="story-o-devs-should-learn-odin-82e3165a7a942b00" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3516" data-content-paragraphs="7" data-published-at="2026-09-13T15:23:41.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-13 05:41</span>
+  <span class="news-meta-time">🕒 2026-09-13 23:23</span>
 </div>
 
-### [OpenAI失控AI曾在5月试图攻击另一家公司](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI’s rogue AI tried to hack another company in May</div>
+### [Golang 开发者应该尝试 Odin](https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Golang developers should try Odin</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="OpenAI失控AI曾在5月试图攻击另一家公司" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的相关文章将被添加到您的每日邮件摘要和主页信息流中。</p>
-<p>这起此前未披露的针对RubyGems的攻击，比针对Hugging Face的攻击事件早了一个多月。</p>
-<p>该作者的文章将被添加到您的每日邮件摘要和主页信息流中。</p>
-<p>查看特伦斯·奥布莱恩（Terrence O&#39;Brien）发表的全部文章</p>
-<p>今年5月，数百个恶意及垃圾软件包被上传至RubyGems，对该托管平台造成了严重干扰。如今，独立研究人员表示，发起这次攻击的是一群OpenAI智能体。不仅如此，该AI还试图窃取用户的API密钥。</p>
-<p>当时，RubyGems将其描述为一次“重大恶意攻击”，并在试图减轻损失和收集数据的同时暂停了四天的新用户注册。研究人员表示，导致RubyGems陷入瘫痪的软件包内容显然是由大语言模型编写的，并且提交这些软件包的智能体自称来自OpenAI。他们指出，所观察到的行为与之前编辑某个德语维基的智能体群高度相似，而OpenAI此前已证实对后者的智能体行为负责。</p>
-<p>在这次事件中，智能体成功绕过了RubyGems的电子邮件验证系统创建了大量账户，随后以海量提交压垮了平台。接着，它利用该网站的自动构建系统远程执行代码，并试图利用漏洞窃取用户的API密钥。不过，目前尚不清楚其是否得逞。</p>
-<p>OpenAI未立即回复置评请求。</p>
-<p>最重要新闻的免费每日摘要。</p>
-<p>这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>英灵殿漫游指南（The Hitchhiker’s Guide to Valhalla）<br />2024 年 10 月 24 日 · 阅读时长 14 分钟<br />（警告：本文可能引发不适）<br />我使用 Golang 已经 10 年了，尽管我也尝试过其他编程语言，但因为它的简洁性，我总是会重新回到它身边。<br />它如此简单，以至于当我刚接触 Golang 时，仅靠阅读源码和动手实践就掌握了它的大部分语法。<br />然而，不得不承认，由于垃圾回收器（GC）和运行时的存在，Golang 也有不少问题。<br />这里列出了其中的一些问题：<br />但即便存在这些问题，在遇到其他编程语言时我依然更倾向于 Golang，直到一周前我遇见了 Odin，那一刻真是一见钟情。<br />这篇文章将带你领略 Odin 之美。<br />Odin 是一门全新的编程语言，它<br />人们仅仅因为它的编译器自带了 3D 库，就以为它只适用于游戏开发，但我并不认同。Odin 也同样适用于后端开发，因为它拥有一个类似于 Go 标准库的核心库。这意味着它具备了所有的基础构建块，能让我们像某些厂商模仿制造一样，把 Go 的其余库都复刻过来。<br />我知道你们当中有些人会摆弄 Rust、Zig、C3 或 Hare，但这些语言并不具备数组编程（array programming）和结构体标签（struct tags）。<br />它甚至还支持四元数（quaternions）！你知道那是什么吗？我也不知道！但我很兴奋能学到它。<br />这门语言不会再发生变动，直到你退休前它都会保持稳定。不过，编译器、工具链和核心库仍在开发中，并且在不断得到改进。<br />此外，它已被 JangaFX 和 ChiAha™ 应用于生产环境中。<br />这门语言有 31 个关键字，但每个关键字都可能带有 #指令（#directive）或 @(属性)（@(attribute)）。对于像我这种记不住超过 26 个关键字的人来说，这可能显得有点多，但所有的关键字、指令和属性之间的衔接非常流畅，读起来就像读英语一样自然。<br />例如，工作方式类似于 Golang 的 switch-case 语句要求用户明确指定每一个分支情况，除非你在它前面加上 #partial 指令。<br />你会真正体会到，即使不懂这门语言，理解其代码也是多么容易。花上 10 分钟阅读 demo.odin，里面几乎涵盖了你入门所需的一切。<br />是的，它没有正式文档（不，概览页面并不是真正的文档），但这正是其魅力所在。你是通过阅读别人的代码来学习用 Odin 编程的。标准库的大部分内容既没有注释也没有示例，但你完全可以通过其源代码轻松理解如何使用。<br />不，它没有宏（macros），没有 comptime（编译期计算），没有 constexpr，也没有装饰器（decorators），而这样其实更好，因为拥有这些特性的每门语言都会让开发者把 90% 的时间浪费在 Google 搜索使用它们的各种库上。<br />相信我，坚持使用 Odin 预定义的指令和属性就好。<br />是的，它支持泛型，而且比 Golang 的泛型设计得更好。<br />不，它没有包管理器，没有 go.mod 文件，也没有类似的其他东西。包仅仅就是一个目录，你只需将其复制到你的项目中，并根据源代码文件的相对路径来调用它。<br />是的，它的编译器和 Golang 的编译器一样简单。<br />是的，它有带自动补全功能的 VSCode 插件。<br />Odin 采用手动内存管理，这也是它为什么没有闭包（Closures）、组合（Composition）、Goroutine 以及 Selector 的原因。不过，我将向你展示如何在没有这些特性的情况下也能过得很好。<br />其次，它缺乏库生态，这也是为什么我正试图吸引你们来学习它，这样你们就可以把你们的库从 Go 复制移植到 Odin 中。<br />最后，它缺乏文档和书籍，但如果你拥有多年的 Go 经验，那么 Odin 会让你感到宾至如归。<br />没有垃圾回收器的生活意味着你不再拥有 errors.New() 或 fmt.Errorf()。Odin 中不存在 error 类型。你只有枚举（Enums）、联合体（Unions）和结构体（Structs），而这比 Go 的错误机制更好。<br />Golang 的错误机制会迫使你将服务端的错误信息推送给用户，而你无能为力。这并不是一件好事，因为用户根本不需要知道什么是 SQL，或者 bank_account 为 nil。<br />此外，另一个问题是 Go 的错误不带有堆栈跟踪（stack traces）。<br />对于你创建的每个函数，同时包含一个枚举、联合体或结构体来表示该特定函数的错误。<br />当一个函数返回它从另一个函数接收到的错误时，以此类推，你将收到一个类似于这样的错误值。<br />从那里，你可以构建 switch 语句树，以返回恰当的用户提示信息。<br />并且你还可以使用我的库把它像堆栈跟踪一样打印出来。<br />甚至只需查看错误的类型，你就能猜出这些函数是做什么的。<br />没有其他编程语言能做到这一点。<br />如果 Odin 都救不了经济，那就没有什么能救了。<br />在我们探讨内存管理之前，让我先澄清三件事：<br />如果你读过 demo.odin，那么你已经知道指针是如何工作的了，但如果你还没读过，只需记住：<br />如果你对一个指针执行重复 delete() 或重复 free()，你将会遇到“段错误”（Segmentation fault）。<br />如果你在 free() 或 delete() 之后去读取指针，你将获得一个随机值。<br />如果你通过 make() 创建了一个包含 new() 指针的数组，那么在删除该数组之前，你必须先释放数组内部的指针，否则会导致内存泄漏。<br />对于全局指针，在释放它们之后将其赋值为 nil，并在释放、读取或给指针赋值之前检查是否为 nil。<br />对于局部指针，使用 defer 来释放该指针。务必始终将 defer 写在分配语句的下方，这样很容易看清释放操作。<br />如果一个过程（procedure）包含参数“allocator := context.allocator”，那么 99% 的情况下其返回结果都需要被释放。这意味着你必须调用 delete()/free()，或者调用来自同一库的另一个过程来替你释放该指针。<br />使用 Arena_Allocator 来分配指针数组，之后只需直接销毁该 arena 即可。<br />Odin 没有接口（interfaces），这也是为什么我说它们就像量子实体一样。当你观察它们时，它们表现得像接口；但当你不再观察它们时，它们就只是指针。<br />在 Odin 中有两种编写接口的方法。<br />这个例子模拟了组合（composition）。<br />同时，这也是 Odin 标准库中使用接口的方式。<br />例如，Odin 中的 sort.Interface 就是使用这种类型的接口结构从 Go 借鉴复制过来的。<br />这里有一个看起来像 Java 抽象类的例子。<br />另外，你不能给一个结构体添加多个接口，否则你就会开始遇到莫名其妙的问题或段错误。所以到头来，它用起来也和 Java 很像。<br />Odin 没有 goroutine 或 selector，因为它们需要垃圾回收器才能运行。<br />不过，我特意为你写了一个完整的示例，展示如何在 Odin 中模拟 goroutine 和 selector。<br />这个例子演示了鸟妈妈给幼鸟喂食的过程。<br />（你懂这个过程的。鸟妈妈呕吐到小鸟嘴里来喂养它们。大自然不是很美妙吗？）<br />如果你在这个例子中还没搞清楚什么是 selector 和 goroutine，那就看看 union 和 threadpool（线程池）。</p>
+<p>一个接收联合类型（union type）消息的通道，相当于在 Golang 中使用两个通道外加一个 selector（选择器），因为联合类型中的每个独立类型都等同于 selector 中的一个通道。联合类型模拟了 selector 的功能。</p>
+<p>线程池相当于 Golang 的运行时，因为它会提前运行那些后续用于执行 goroutine 的线程。</p>
+<p>只要记住你在大学 Java 并发课程上学过的内容：长时间运行的任务使用线程，小型任务使用线程池，遇到死锁就吃扑热息痛。</p>
+<p>通过本文，我希望你现在能够理解 Odin 未来的潜力，以及它作为后端开发中 Golang 替代品的可能。</p>
+<p>顺便说一句，如果你一字不漏地阅读了 demo.odin 和我的解释，那么从现在起你就是一名高级 Odin 开发者了。（哎呀！）</p>
+<p>要成为特级大师级（Grandmaster）Odin 开发者，只需浏览一下概览以及如何绑定 C 语言即可。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-13 05:41 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>Odin 拥有 31 个关键字，并支持 #directive 指令与 @(attribute) 属性。</li>
+    <li>Odin 在编译器中附带了 3D 库，并原生支持数组编程、结构体标签（struct tags）与四元数（quaternions）。</li>
+    <li>来源叙事重点：强烈推荐 Golang 开发者尝试系统级编程语言 Odin，强调 Odin 在保持语法简洁性的同时，避开了 Go 语言的垃圾回收（GC）和运行时缺陷，并主张 Odin 完全有潜力替代 Go 进行后端开发。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-harply-divides-travelers-01f22e42a9ab3be2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1503" data-content-paragraphs="33" data-published-at="2026-09-13T16:55:21.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:55</span>
+</div>
+
+### [邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧](https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Cruise passengers erupt over &#39;rude&#39; luggage habit that sharply divides travelers</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/cruise-passengers-disembarking-sint-maarten.jpg?ve=1&amp;tl=1" alt="邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>邮轮乘客们正在就出海度假游客之间的一个热门话题展开激烈辩论。</p>
+<p>将行李带入拥挤的船舱电梯是否触犯了重大的礼仪底线，尤其是在忙乱的下船日早晨？</p>
+<p>当数以千计的乘客准备下船时，那些自行携带行李的人通常要依赖电梯在不同甲板层之间移动。如今，社交媒体上的帖子正引发一场更广泛的争论：将行李箱硬塞进满员的电梯究竟是务实之举，还是纯粹的无礼行为？</p>
+<p>愤怒的邮轮乘客在航程被突然取消后怒斥“极度失望”</p>
+<p>常驻得克萨斯州的礼仪专家黛安·戈茨曼（Diane Gottsman）表示，乘客可以把行李带进电梯，不过应当体谅有限的空间。</p>
+<p>“说到旅行，空间是首要考量，”戈茨曼在接受福克斯新闻数字频道（Fox News Digital）采访时表示，“你必须时刻考虑身边的其他人。”</p>
+<p>戈茨曼表示，乘客可以在前一天晚上将较大的行李箱放在客舱外，由船员负责统一收集托运。</p>
+<p>“在可能的情况下，进入拥挤的邮轮电梯时，最好尽量少带行李箱，”她说。</p>
+<p>大型航空公司嘲讽飞机刚着陆就跳起来的乘客，引发强烈抗议</p>
+<p>她补充说，更倾向于自己拿行李的乘客完全可以自便，但应做好自行照看管好的准备。</p>
+<p>各大邮轮公司对行李处理也有各自的规定程序。</p>
+<p>嘉年华邮轮公司（Carnival Cruise Line）在其官方网站上标明，登船期间的行李托运服务将在船舶预计启航时间前两小时截止。</p>
+<p>该邮轮公司表示：“在此时间之后抵达的宾客将自行负责把行李带上船。”</p>
+<p>点击此处订阅我们的生活方式简报</p>
+<p>戈茨曼表示，在繁忙的登船日和下船日，提前规划尤为重要。</p>
+<p>“我们知道从邮轮下船时现场会很繁忙，”她说，“所有人都要从同一艘邮轮上下船，所以必须提前做好规划。”</p>
+<p>她建议乘客在进电梯前先礼让里面的人出来，如果某部电梯已经挤满，就等下一趟。</p>
+<p>“不要带着行李硬往里冲，”戈茨曼说。</p>
+<p>点击此处查看更多生活方式报道</p>
+<p>她补充道，行动不便的乘客也应享有优先权，而携带额外行李的人则应做好等待的准备。</p>
+<p>这一话题最近在Reddit论坛上引发关注。一名初次乘坐邮轮的游客发帖称，自己和伴侣拖着拉杆箱乘电梯从14层甲板到5层甲板时，遭到了另一名乘客的嗤笑与嘲弄。</p>
+<p>许多邮轮乘客为这对伴侣辩护——他们认为，对于需要跨越多个甲板层搬运行李的乘客来说，电梯往往是最切合实际的选择。</p>
+<p>“我每次都是自己拖着行李下船，而且每次都坐电梯，”一名Reddit用户写道，“我可不会拎着大包小包去爬楼梯。”</p>
+<p>另一位评论者反问：“不然你还能怎么把行李运下那么多层甲板？”</p>
+<p>另一个人表示：“人们总能找出各种理由来抱怨船上的电梯。我母亲因为腰背和膝盖不好坐着代步轮椅，电梯里的人对她非常无礼。”</p>
+<p>参与我们最新的生活方式小测验，测试一下自己</p>
+<p>还有人附和道：“在下船日，无礼的现象似乎总是更多。你们没有做错任何事。如果只隔一两层楼，为了省时间我才会走楼梯，否则我肯定会坐电梯。”</p>
+<p>其他邮轮乘客表示，只要顾及周围的人，把行李带进电梯完全没有问题。</p>
+<p>“你绝对可以使用电梯，只要多留意周围的人并在可能的时候腾出空间即可，”一位留言者写道。</p>
+<p>也有人持不同看法，认为使用船上的行李托运服务能让每个人的离船过程变得更轻松。</p>
+<p>“行李运送服务的全部意义就是为了让每个人都更轻松，”一人写道。</p>
+<p>几个月前美联社曾报道，邮轮行业专家预测今年全球出海旅游的人数将迎来增长，并将打破去年的历史纪录。</p>
+<p>国际邮轮协会（Cruise Lines International Association）在4月份发布的一份报告中预计，今年将有约3830万人乘坐邮轮旅行——这一数字比去年创纪录的3720万名旅客高出4%。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>美国得克萨斯州的礼仪专家黛安·戈茨曼（Diane Gottsman）表示，乘客可以将行李带入游轮电梯，但应考虑到空间有限并注意礼让。</li>
+    <li>嘉年华游轮（Carnival Cruise Line）在其官网上注明，登船期间托运行李服务在预定起航时间前两小时结束，在此之后抵达的宾客须自行携带行李登船。</li>
+    <li>来源叙事重点：报道围绕游轮下船日拥挤电梯内携带大件行李引发的社交礼仪争议，结合社交媒体用户讨论与礼仪专家建议，探讨实用需求与公共空间礼仪之间的平衡，并指出全球游轮旅客量创新高加剧了空间资源紧张。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ntered-the-robotaxi-chat-44cdc58c805a295b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4455" data-content-paragraphs="42" data-published-at="2026-09-13T16:04:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:04</span>
+</div>
+
+### [TechCrunch 出行专栏：Lyft 加入自动驾驶出租车（Robotaxi）群聊](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> TechCrunch Mobility: Lyft has entered the robotaxi chat</div>
+
+<div class="article-body" data-article-body="true"><p>本周，随着 Waymo 的自动驾驶出租车（robotaxi）在其位于纳什维尔的应用程序上线，Lyft 迎来了一个新的里程碑。根据合作协议，Lyft 通过其全资子公司 Flexdrive 负责车队服务（例如车辆准备与维护）以及基础设施和车辆运营中心的运作。</p>
+<p>在纳什维尔，用户可以直接通过 Waymo 应用程序呼叫 Waymo 自动驾驶出租车，或者在 Lyft 应用程序上碰碰运气——Lyft 会视运力情况为乘客匹配 Waymo 车辆。</p>
+<p>多年来，Lyft 在自动驾驶汽车技术领域的涉足绝不仅限于浅尝辄止，包括曾在拉斯维加斯与 Aptiv（现为 Motional）、在亚特兰大与 May Mobility、在伦敦与百度以及在菲尼克斯与 Waymo 展开合作。但本周尤为引人注目，因为这标志着 Lyft 首次真正进入完全没有人类驾驶员在方向盘后操控的商业化无人驾驶出租车服务。</p>
+<p>免得大家遗忘，该公司曾设立 Level 5 业务部门，历时四年并投入数百万美元研发自己的自动驾驶技术。2021 年，Lyft 以 5.5 亿美元将其自动驾驶部门出售给丰田旗下的 Woven Planet Holdings 子公司——这是该新兴行业大规模整合浪潮中的诸多收购之一。</p>
+<p>随后，Lyft 暂时告别了自动驾驶汽车，专注于其核心网约车业务。但它并未彻底放弃这一构想。</p>
+<p>我与 Lyft 负责增长业务的执行副总裁杰里米·伯德（Jeremy Bird）探讨了这一里程碑，并打算在此分享一些见解。在这一职位上，伯德负责管理 Lyft 的国际化、豪华出行以及自动驾驶汽车业务计划——有时这三者甚至会交织在一起。</p>
+<p>当我询问伯德我们何时能在 Lyft 应用程序上看到更多自动驾驶出租车以及会在哪些地区时，他并未透露过多细节。但他确实表示，公司迈入 2026 年时的重点是其在纳什维尔与 Waymo 的合作，以及在伦敦与百度的合作（伦敦的商业化服务尚未启动）。</p>
+<p>“我认为明年大家将会看到更多样化的布局，”他说道，并补充称理想情况下这将包括扩大 Lyft 与这两个合作伙伴的合作关系。“我认为明年对我们来说将是重要的一年。”</p>
+<p>而且国际市场似乎是该自动驾驶扩张计划的重要组成部分。伯德称伦敦是一个“令人着迷的市场”，且在我们的整场交谈中，他反复将 Lyft 描述为一家全球性公司，这与几年前仅聚焦美国本土市场的战略相比是一个显著的转变。</p>
+<p>那么，Lyft 接下来将去往何方？在国际市场方面，Lyft 似乎优先考虑从一开始就能运营混合网络（即自动驾驶汽车与人类驾驶汽车并存）的地区。</p>
+<p>“我们是一家正在变得更加全球化的跨国公司，这对我们至关重要，”他表示。“而自动驾驶汽车将是我们构想未来的方式。就像我们进入任何市场一样，那里是否有自动驾驶的组成部分？在监管层面，它是否已经对自动驾驶开放，抑或是这会让该市场在我们希望进驻的地点清单中排名更靠前？”</p>
+<p>有消息灵通人士注意到福特近期完成了几项耐人寻味的人事招募，看起来这家公司显然正在增强其国防科技实力。福特最近聘请了雷神公司前员工托马斯·塞涅马丁（Tomaz Seignemartin）担任持续改进副总裁，并聘请了通用动力前员工希里什·斯里尼瓦桑（Shirish Srinivasan）出任福特首席战略官的幕僚长。福特还聘请了洛克希德·马丁公司的前生成式人工智能团队负责人内森·里戈尼（Nathan Rigoni）担任高级软件工程师。</p>
+<p>当然，对于一家拥有数万名员工的企业而言，少数几位国防科技背景的招聘很难称得上构成了一种趋势。但这确实表明，具备国防科技背景如今变得越来越有价值。</p>
+<p>有新闻爆料要提供给我们吗？请发送邮件至 Kirsten Korosec 的邮箱 kirsten.korosec@techcrunch.com，或通过 Signal 联系 kkorosec.07；也可发送邮件至 Sean O’Kane 的邮箱 sean.okane@techcrunch.com。</p>
+<p>The Boring Company，这家由埃隆·马斯克创立、旨在通过建设地下隧道网络来“解决交通拥堵”的初创公司，在一轮由阿拉伯联合酋长国领投的融资中筹集了 30 亿美元。该公司在公告中表示，The Boring Company 目前的估值已达 230 亿美元。阿联酋的支持事出有因：此前已与阿联酋就“迪拜环线”（Dubai Loop）展开合作的 The Boring Company 表示，将在该中东国家再开挖 150 公里的隧道。</p>
+<p>Andreessen Horowitz、红杉资本（Sequoia Capital）、Human Capital、Vy Capital 以及 Valor Equity Partners 也参与了本轮投资。</p>
+<p>在美国，The Boring Company 最广为人知的项目位于拉斯维加斯，该公司在那里修建了连接名胜世界（Resorts World）、安可（Encore）和萨哈拉（Sahara）等赌场度假酒店、会议中心以及往返机场有限路线的隧道。由人类驾驶的特斯拉汽车负责接送往返于这些地点的乘客。</p>
+<p>本周引起我关注的其他交易包括……</p>
+<p>总部位于肯尼亚的电动出行初创公司 ARC Ride 在由 Novastar Ventures 和 Norrsken22 领投的一轮融资中筹集了 3330 万美元。其他投资方包括国际金融公司（IFC）、英国国际投资公司（BII）、Proparco、日本供应商武藏精密（Musashi Seimitsu）以及非洲影响力投资机构 Talanton。</p>
+<p>以在园区和机场运营自动驾驶无人小巴闻名的初创公司 Beep 在由其现有技术合作伙伴 Mobileye 领投的 B 轮融资中筹集了 2000 万美元。这家总部位于佛罗里达州奥兰多、成立于 2019 年的公司表示，迄今已筹集了 1.3 亿美元。</p>
+<p>专注于电动卡车充电物流的德国慕尼黑软件初创公司 Fryte Mobility 筹集了 350 万欧元（约合 400 万美元）的种子轮资金，由 4impact capital 和 Rethink Ventures 联合领投。现有投资方 Revent、F-LOG、accilium ventures 以及未公开的天使投资人也参与了跟投。</p>
+<p>保时捷完成了将其持有的 Bugatti Rimac 和 Rimac Group 股份向 HOF Capital 的出售。保时捷在本次出售中获得了约 10 亿欧元，其中约 2.5 亿欧元收益将用于进一步充实其养老金储备。</p>
+<p>Poseidon Aerospace 在其无人货运飞机“白鹭”（Egret）预计于今年底进行首飞之前筹集了 6000 万美元。该 A 轮融资由早期风投机构 TQ Ventures 领投，并获得了韩华资产管理（Hanwha Asset Management）、G Squared 和 JAWS 的新注资。现有投资方 Starship Ventures、Draper Associates 和 Drover Ventures 亦参与了投资。</p>
+<p>Stoke Space 可能并非传统的交通运输公司，但这家可复用火箭公司的 10 亿美元融资及其部分支持者引起了我的注意。该轮融资由 Point72 Ventures（对冲基金亿万富翁史蒂夫·科恩的科技投资机构）和 Spark Capital 领投，参投方包括 General Innovation、Glade Brook Capital、US Innovative Technology、Washington Harbour Partners、Woven Capital 和 Y Combinator 等。</p>
+<p>总部位于德克萨斯州奥斯汀、致力于开发 GPS 替代方案的初创公司 Tern 获得了来自美国陆军的价值 1126 万美元的合同。该初创公司表示，美国陆军车辆将采用其被称作“战场谷歌地图”的技术。</p>
+<p>Uber 在印度车队管理初创公司 Carrum Mobility 的 B 轮融资中投资了 1000 万美元。这笔新投资使 Carrum 的投后估值达到 160 亿卢比（约合 1.68 亿美元）。</p>
+<p>由TrueCar创始人斯科特·佩恩特（Scott Painter）创立的加州电动汽车订阅服务平台Autonomy正在进行业务转型。这家险些倒闭的公司正向其车队中引入内燃机车辆。</p>
+<p>Beta Technologies、Joby Aviation和Wisk这三家研发电动飞机的公司，作为美国联邦航空管理局（FAA）“先进空中交通与电动垂直起降（eVTOL）整合试点项目（eIPP）”的一部分，已在德克萨斯州启动试飞演示。这项为期一周的活动将允许这些公司测试实际飞行路线，包括前往达拉斯-沃思堡国际机场的航线。</p>
+<p>据《金融时报》报道，特拉维斯·卡兰尼克（Travis Kalanick）旗下的初创公司Atoms正准备大举招聘，旨在进军无人驾驶出租车业务。</p>
+<p>TechCrunch记者贾格米特·辛格（Jagmeet Singh）深入报道了Uber的竞争对手inDrive及其在网约车之外扩大业务规模的努力。</p>
+<p>总部位于美国的自动驾驶汽车研发商近来可能占据了大部分关注度，但美国本土之外同样涌现出许多值得关注的动态。仅在本周，我们就看到中国自动驾驶开发商小马智行（Pony.ai）以及克罗地亚的Verne（马特·里马克名下的另一家公司）开始在萨格勒布的公共道路上进行面向乘客的完全无人驾驶试乘测试；与此同时，西班牙向文远知行（WeRide）及其合作伙伴Uber和Avomo颁发了首批全国性自动驾驶汽车许可证。</p>
+<p>与此同时，中国无人配送车公司新石器（Neolix）开始在日本的封闭场地内进行测试；小马智行在卡塔尔多哈的演示中撤除了其自动驾驶测试车内的人类安全员。不过在商业化运营中，小马智行与其合作伙伴Mowasalat的无人出租车驾驶位后方仍配备有人类操作员。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取小额佣金。这不会影响我们的编辑独立性。</p>
+<p>交通出行版编辑</p>
+<p>预订展位桌的截止日期为9月18日。切勿错过在Disrupt展厅中获得高价值销售线索、接触投资人以及提升品牌曝光的机会。</p>
+<p>Revolut证实因虚假政府请求导致客户数据泄露</p>
+<p>由于Astra需求过大，OpenAI暂停Pro订阅服务</p>
+<p>身份验证巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照被盗</p>
+<p>Automattic董事会迫使首席执行官马特·穆伦威格（Matt Mullenweg）休假离职</p>
+<p>苹果发布其首款折叠屏手机iPhone Duo</p>
+<p>纽约大学数学家称OpenAI在关乎职业前途的数学难题上采取了不光彩手段</p>
+<p>一部关于伊丽莎白·霍姆斯的秘密新纪录片震撼特柳赖德电影节</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Waymo的Robotaxi正式上线纳什维尔的Lyft应用，Lyft通过全资子公司Flexdrive负责车辆就绪、维护、基础设施及车场运营等车队服务。</li>
+    <li>Lyft曾在2021年以5.5亿美元将其自动驾驶部门出售给丰田旗下的Woven Planet Holdings。</li>
+    <li>来源叙事重点：以Lyft在纳什维尔接入Waymo无人驾驶出租车为切入点，强调Lyft从自研自动驾驶转向通过合作伙伴进入商业Robotaxi服务，并将其置于全球化、混合运营网络和自动驾驶产业扩张的背景下。同时以行业简讯形式集中呈现融资、并购、人才流动、监管许可、测试活动及国防技术关联等动态，突出资本投入和企业战略信号。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ce-among-students-ntwnfb-7fc0c246275c67a6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="360" data-content-paragraphs="3" data-published-at="2026-09-13T15:00:06.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-13 23:00</span>
+</div>
+
+### [遭受性侵后重返校园的学生：“第二天你照样得回学校，只能默默承受”](https://www.theguardian.com/society/2026/sep/14/how-should-australian-schools-deal-with-sexual-assault-violence-among-students-ntwnfb)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The students returning to school after sexual assault: ‘You go back the next day, and you just deal with it’</div>
+
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/20e3f69432a3fa56db2096e0b806fc48a24fb4e0/1311_0_4139_3311/master/4139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2db8b428eb7cd3b0533e445d1d5650ee" alt="遭受性侵后重返校园的学生：“第二天你照样得回学校，只能默默承受”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>同侪之间的暴力正在不断增加。但当学校必须兼顾对受害者和加害者双方的照护义务时，那些不得不在性侵阴影下继续求学的女孩们又该何去何从？</p>
+<p>近期，涉及男学生的涉嫌性侵事件频上头条，一名16岁少女亦疑似因性窒息死亡。在此背景下，澳大利亚国家内阁已同意优先推进消除针对女性性暴力的计划，新南威尔士州政府已向各教育部长提出了一系列新的优先工作事项，联邦政府也宣布了一项关于“数字照护义务”的立法草案。与此同时，在一起涉及悉尼一所私立学校两名学生和另一名男生的涉嫌轮奸案中，受害少女正在准备参加她所在州的高中毕业证书考试（HSC）。</p>
+<p>“我无法想象她正在经历着什么，”警方检控官朗达·莱利警长（Rhonda Riley）上个月向法庭表示，“但在接下来的这段时间里，她将不得不在痛苦与恐惧中——不仅是心理层面的——完成她的HSC考试。”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>同龄人间暴力（Peer-on-peer violence）呈上升趋势。</li>
+    <li>澳大利亚国家内阁已同意优先推进终结针对女性性暴力的计划。</li>
+    <li>来源叙事重点：以遭受性侵的女学生为中心，强调她们在创伤、恐惧和持续求学之间承受的压力，并提出学校在保护受害者与履行对涉嫌施害者的照护责任之间如何平衡的问题。报道同时将个案置于澳大利亚政府拟推进终结针对女性性暴力、州政府教育优先事项及联邦数字注意义务立法的政策背景下。</li>
   </ul>
 </div>
 
@@ -1237,7 +1102,270 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/sep/14/how-should-australian-schools-deal-with-sexual-assault-violence-among-students-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-14-10695866-shtml-2cdd27b7149a0a0e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="687" data-content-paragraphs="23" data-published-at="2026-09-13T16:37:29.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:37</span>
+</div>
+
+### [特朗普重申伊朗战事将在中期选举后结束](https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml)
+
+<div class="article-body" data-article-body="true"><p>消息称，美国总统特朗普13日在访问爱尔兰时重申，伊朗战事将在中期选举后结束。</p>
+<p>特朗普当天接受采访时称，伊朗战事将在11月美国国会中期选举后立即结束，届时“汽油价格将会快速下跌”。他还称，伊朗方面“非常希望达成协议”，并一直在联系美国。</p>
+<p>特朗普9日就曾表示，他认为美国同伊朗的战事将在11月美国国会中期选举完成后“立即结束”。（央视新闻客户端）</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>一碗泡面诱发痛风？这些高嘌呤食物容易被忽略</p>
+<p>明明一直在吃，却重度低钾？这些行为正悄悄掏空你的身体</p>
+<p>不能回家的除了旅行青蛙，可能还有玩家的钱</p>
+<p>250元的AI工具积分只卖8.8元？小心你的代码被截留倒卖</p>
+<p>也门打起来了！全球两大航运“油管”同时动荡</p>
+<p>印度大厨在北京：美食是连接人与文化的桥梁</p>
+<p>大型活动吃饭高峰排长队？炒菜机器人：5分钟就出一锅菜</p>
+<p>三峡水库2026年度蓄水启动 航道部门全力筑牢安全屏障</p>
+<p>浙江缙云：“观鸟热”促生态保育与乡村振兴共生共赢</p>
+<p>大学生娄山关前朗诵《忆秦娥·娄山关》，字字铿锵</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
+<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-14 00:37 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-c-bd51-7612268d6d33-html-2b14b49c3983701a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="it" data-content-length="440" data-content-paragraphs="1" data-published-at="2026-09-13T16:34:21.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:34</span>
+</div>
+
+### [墨西哥锡那罗亚和平游行前夕单日10人遇害](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/messico-10-uccisi-in-un-solo-giorno-in-sinaloa-alla-vigilia-della-marcia-per_82721a35-37d7-4e3c-bd51-7612268d6d33.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Messico, 10 uccisi in un solo giorno in Sinaloa alla vigilia della marcia per la pace</div>
+
+<div class="article-body" data-article-body="true"><p>在锡那罗亚贩毒集团旗下的“小矮子派”（Los Chapitos）与“马约派”（Los Mayos）派系交火两年之后，首府库利亚坎组织了要求加强治安的和平游行，然而就在游行前夕，墨西哥锡那罗亚州昨日有10人遇害。据Infobae报道，库利亚坎记录了4起谋杀案，马萨特兰5起，埃斯奎纳帕1起。《改革报》（Reforma）报道称，当天还发生了多起交火、发现尸体以及车辆被纵火事件。据《环球报》（El Universal）报道，在同处该州的地区，有关当局逮捕了“小矮子派”一个分支团伙的11名疑似成员，他们被控于去年1月在拉康科迪亚绑架并杀害了10名矿工。嫌疑人在埃斯奎纳帕落网，查获长枪12支、弹药及防弹背心。在主教赫苏斯·何塞·埃雷拉·基尼奥内斯主持弥撒后，数百名身着白衣的市民今天走上库利亚坎街头，高呼“锡那罗亚站起来”和“我们要锡那罗亚迎来和平”。家属们还带来了失踪亲人的寻人传单。据组织者称，各派系之间的冲突已导致至少4000人丧生。<br />版权所有 © Copyright ANSA</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 2026-09-14 00:34 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#ANSA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/messico-10-uccisi-in-un-solo-giorno-in-sinaloa-alla-vigilia-della-marcia-per_82721a35-37d7-4e3c-bd51-7612268d6d33.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ans-supreme-court-ruling-2cfa6aee296400b2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="847" data-content-paragraphs="15" data-published-at="2026-09-13T16:34:12.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:34</span>
+</div>
+
+### [最高法院裁决后，这个红州的选举乱局对共和党人而言愈发诡谲](https://www.foxnews.com/politics/election-chaos-red-state-stranger-republicans-supreme-court-ruling)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Election chaos in this red state just got even stranger for Republicans after Supreme Court ruling</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/f7721b60-capitol-dome-statue.png?ve=1&amp;tl=1" alt="最高法院裁决后，这个红州的选举乱局对共和党人而言愈发诡谲" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>在最高法院叫停了一份本有助于共和党在11月赢得另一个众议院席位的国会选区划分图后，密苏里州的共和党人遭受了新的打击。</p>
+<p>上周作出的这项裁决意味着，密苏里州将采用其2022年的国会选区地图，而非唐纳德·特朗普总统及密苏里州共和党人所支持的新边界划分。</p>
+<p>密苏里州是根据新地图举行8月初选的，这意味着候选人是基于一套选区边界赢得党内提名的。但在11月大选之前，这些边界将发生变动，届时密苏里州预计将重新恢复使用2022年的地图。</p>
+<p>特朗普在债务激增之际以5000美元支票为饵——但前提是共和党须跨越中期选举的关键障碍</p>
+<p>通常情况下，各州在人口普查后每十年重新划分一次国会及州议会选区，以反映人口变化，并确保每个选区拥有大致相同数量的居民。</p>
+<p>新地图原本将民主党籍众议员伊曼纽尔·克利弗（Emanuel Cleaver）所在的堪萨斯城选区部分区域划入更倾向于共和党的地区，从而使该席位的竞争更为激烈。</p>
+<p>共和党人曾希望这些变动有助于他们在11月的中期选举中夺得密苏里州八个众议院席位中的七个。目前，共和党占据该州八个席位中的六个，民主党占有两个。</p>
+<p>密苏里州现在必须使用2022年的地图，该地图使克利弗所在的选区对民主党更加有利。</p>
+<p>最高法院是在就密苏里州应使用哪份国会选区地图展开了长达一年多的法律缠斗之后作出这一裁决的。</p>
+<p>密苏里州依据新地图举行了8月初选，但该州将在11月大选期间使用2022年的选区边界。这意味着，部分选民在11月可能被划入与其在初选时投票选区不同的国会选区。</p>
+<p>据美联社估计，这一变动可能影响超过100万选民，占密苏里州选民总数的近四分之一。</p>
+<p>距离11月大选仅剩数周，相互冲突的法院指令进一步加剧了混乱。候选人和选举官员目前必须根据2022年的边界进行调整。</p>
+<p>密苏里州最高法院在中期选举前叫停共和党支持的国会选区地图；特朗普怒斥该裁决“荒唐透顶”</p>
+<p>最高法院在这份简短裁定中并未说明其理由。</p>
+<p>白宫未立即回应福克斯数字新闻（Fox News Digital）的置评请求。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-14 00:34 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/election-chaos-red-state-stranger-republicans-supreme-court-ruling" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-world-2187071-ee8fd206d9fa20ab" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="421" data-content-paragraphs="5" data-published-at="2026-09-13T16:33:41.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:33</span>
+</div>
+
+### [BSW党专家呼吁德国退出北约](https://tass.com/world/2187071)
+<div class="original-title-sub"><span class="orig-tag">原文</span> BSW expert calls for Germany’s withdrawal from NATO</div>
+
+<div class="article-body" data-article-body="true"><p>柏林，9月13日。/塔斯社/。德国BSW党（原名“萨拉·瓦根克内希特理性与正义联盟”）的外交政策专家塞维姆·达代伦（Sevim Dagdelen）认为，德国应当退出北约。</p>
+<p>“与BSW青年翼的立场一样，我在此明确且毫不含糊地指出：德国必须退出北约。我们需要一个不再遵循美国企业和寡头私利所下达指令的中立国家。北约既不是一个基于价值观的联盟，也不是一个防御性联盟，”她在接受网络媒体《Overton》采访时表示。</p>
+<p>“这一点体现在两个方面：该联盟支持以色列对巴勒斯坦人的种族灭绝，并且正在乌克兰对俄罗斯发动一场代理人战争，”她指出。</p>
+<p>“今天对北约说‘赞成’的人，就是对唯有一项目标——减缓美国霸权衰落——的世界大战战略说‘赞成’，”达代伦强调道。她补充称，大多数德国人反对触发《北大西洋公约》第五条的可能性。“而这恰恰就是北约的存在目的，”她指出。</p>
+<p>《华盛顿条约》第五条规定，所有北约成员国都有义务对任何针对该集团成员国的侵略行为作出响应。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-14 00:33 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TASS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://tass.com/world/2187071" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ws-articles-c7v48vp31mdo-405af91616a2d21a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1083" data-content-paragraphs="16" data-published-at="2026-09-13T16:29:27.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
+    <span class="stance-badge">英伦主流建制</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:29</span>
+</div>
+
+### [在专家发出严重警告并呼吁放缓研发速度后，特朗普淡化人工智能风险](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump downplays AI risks after dire expert warnings and calls to slow development down</div>
+
+<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg" alt="在专家发出严重警告并呼吁放缓研发速度后，特朗普淡化人工智能风险" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该视频无法播放<br />特朗普总统称“消极力量”正在提出不会发生的人工智能风险<br />在专家连日发出严厉警告后，美国总统唐纳德·特朗普淡化了人工智能带来的风险。</p>
+<p>“有许多非常消极的力量在提及这件事，他们本不该提及，他们提出的是根本不会发生的事情，”特朗普在访问爱尔兰期间表示。</p>
+<p>其中一项警告来自Anthropic前研究员，他表示如果目前的开发速度继续下去，“在不久的将来，我们所有人极有可能会丧命”。</p>
+<p>周六，顶级行业领袖对此表示赞同并呼吁放缓研发步伐。特朗普并未直接回应这一提议，但他表示：“我们在人工智能领域领先中国……坦率地说，我想保持这种状态，因为无论谁赢得了人工智能，谁就赢了一切。”</p>
+<p>就在特朗普发表讲话的同一天，几天前刚从Anthropic辞职的人工智能研究员雅各布·考克森（Jacob Coxon）向BBC透露，研发这些系统的人员对人类的未来感到“发自内心地害怕”。</p>
+<p>考克森曾任职于OpenAI，他对放缓研发步伐的提议表示赞成，但指出这需要与中国进行协调。</p>
+<p>周六，xAI所有者埃隆·马斯克（Elon Musk）和OpenAI的萨姆·奥尔特曼（Sam Altman）支持了Anthropic负责人达里奥·阿莫代伊（Dario Amodei）发出的警告，即应当放缓开发步伐，“以降低出现严重差错的风险”。</p>
+<p>这位Anthropic首席执行官表示，任何放缓都必须有所限度，以避免让中国走在前面。</p>
+<p>围绕人工智能的问题引发了激烈辩论，并让许多世界领导人陷入两难境地。</p>
+<p>一方面，该行业被视为促进经济增长的巨大机遇，以及改进陈旧数字系统和工作方式的一种途径。</p>
+<p>但另一方面，也发生了多起人工智能似乎出现严重差错的事件。</p>
+<p>今年8月，OpenAI表示已放缓训练其部分最先进的人工智能模型，以提升安全性。</p>
+<p>这家ChatGPT制造商表示，在其人工智能代理绕过安全防护并入侵科技初创公司Hugging Face后，公司正在增加新的防护措施。</p>
+<p>同月有披露称，全球两款最强大的人工智能工具创建了虚假的人类个人资料，试图在疑似网络攻击中欺骗人类。</p>
+<p>英国人工智能安全研究所（AISI）表示，在最严重的一起案例中，Anthropic的Mythos人工智能通过发送私信试图获取某项服务的访问权限，它设置了模仿真实人类的虚假账户，随后还销毁了证据。</p>
+<p>前Anthropic研究员告诉BBC：AI从业人员对人类未来“发自内心地害怕”<br />Anthropic负责人达里奥·阿莫代伊呼吁放缓人工智能发展<br />为何一些专家越来越担心人工智能会接管一切<br />来自内部的惊人警告在硅谷部分人士面前未引起波澜</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【BBC World (英国BBC官方英文)】于 2026-09-14 00:29 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#BBC</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--impact-growth-world-cup-297f360c462c08fc" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1079" data-content-paragraphs="12" data-published-at="2026-09-13T16:27:34.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:27</span>
+</div>
+
+### [国际篮联秘书长安德烈亚斯·扎格里斯谈凯特琳·克拉克对女篮世界杯发展的推动作用](https://www.foxnews.com/outkick-sports/fiba-secretary-general-andreas-zagklis-speaks-caitlin-clark-impact-growth-world-cup)
+<div class="original-title-sub"><span class="orig-tag">原文</span> FIBA Secretary General Andreas Zagklis speaks out on Caitlin Clark&#39;s impact on growth of World Cup</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/caitlin-clark-womens-fiba-world-cup-2026.jpg?ve=1&amp;tl=1" alt="国际篮联秘书长安德烈亚斯·扎格里斯谈凯特琳·克拉克对女篮世界杯发展的推动作用" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>国际篮联（FIBA）秘书长安德烈亚斯·扎格里斯谈到了凯特琳·克拉克及其他首次参加世界杯的新生代年轻球员，对该项赛事的成长与关注度提升所产生的影响。</p>
+<p>扎格里斯在对阵法国队的世界杯决赛前的新闻发布会上发言，称克拉克是她这一代中最耀眼的球星之一，并预测在2028年洛杉矶奥运会上，女篮球员的受欢迎程度可能会超过男篮球员。</p>
+<p>“我认为这些球员——凯特琳是其中之一——在提升女子篮球运动普及度方面所做的一切令人难以置信。我们应该为她们感到非常自豪。我可以告诉你们，我和我的团队一直全力支持美国篮协以及每一个来到世界杯的国家会员协会为自身宣传所制定的计划。我们努力将这种体验放大。球员们自己也表示，这对她们来说是一个独一无二的时刻，”扎格里斯说。</p>
+<p>【全美目光聚焦凯特琳·克拉克的作用，全球最具统治力的篮球王朝面临考验】</p>
+<p>“所以，虽然我现在可能无法量化答案并给你们确切的数字，但我们的团队也许可以在赛后完成这项工作，但我可以告诉你们，我们女子赛事的普及度，以及作为这一代最伟大球星之一（甚至可以说就是最耀眼的球星）的凯特琳所带来的影响是实实在在的。我们在西班牙球员伊亚娜·马丁身上也看到了这一点，她是2023年U19女篮世界杯的MVP。就在本届赛事开幕前两天，她刚刚与一家国际篮联合作伙伴签署了一份重大赞助协议。</p>
+<p>“因此，世界各地的球员都在抓住这些机遇。我为她们感到无比骄傲。我可以告诉大家，我确实坚信，在洛杉矶奥运会上，我们的女子球员的受关注程度可能会与我们许多前男子球员平起平坐，甚至更高。这并不是在批评任何人。这只是这项运动整体发展的结果。我们为男子和女子球员都感到自豪，我们必须承认，是他们共同让我们的运动达到了如今全球化的水平。”</p>
+<p>【克雷格·卡顿秀——直言不讳、从不妥协、不容错过。立即下载他的每日播客！】</p>
+<p>克拉克已经成为本届赛事的最大看点之一，而她甚至没有在一场比赛中担任过首发。</p>
+<p>在美国队取得的全部五场胜利中，克拉克都是替补登场，与她一同替补的还有年轻球星安吉尔·里斯和佩奇·布克斯，因为主教练卡拉·劳森在美国队的全部五场胜仗中均选择安排经验丰富的老将首发。</p>
+<p>即便如此，克拉克依然是本届赛事表现最为出色的球员之一。</p>
+<p>这位24岁的后卫场均上场时间刚刚超过20分钟，位列全队出场时间最多的球员梯队。在这些出场时间里，她证明了自己是一名顶尖的组织核心，目前以场均5.8次助攻在整届世界杯中排名第三。</p>
+<p>她的组织才华在球队战胜中国队的首战中展现得最为淋漓尽致，她登场后立刻盘活了美国队的进攻，贡献了14分以及创纪录的11次助攻，且没有出现一次失误。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-14 00:27 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/fiba-secretary-general-andreas-zagklis-speaks-caitlin-clark-impact-growth-world-cup" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 ::::
