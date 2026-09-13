@@ -1,5 +1,1578 @@
 [
   {
+    "timestamp": 1789303700335,
+    "timeDisplay": "2026-09-13 20:48 (UTC+8)",
+    "date": "2026-09-13",
+    "runId": "feed-20260913T124631174Z-8qhskv",
+    "generatedAt": "2026-09-13T12:48:20.335Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 20:46",
+      "lead": "本轮抓取于 2026-09-13 20:46 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】Perplexity 将端到端系统托付给 GPT-6 Astra：Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。",
+        "【undefined】别称自己为“手艺人程序员”：我本来一直想写点别的内容，却陷入了这个怪圈之中，现在我甚至有点害怕，担心自己是否成了某种奏效的宣传话术的受害者。",
+        "【undefined】NFL赛季与中期选举交汇，预测市场迎来关键秋季周期：过去两年凭借政治与体育事件跃升至新高度的预测市场，正押注于今年秋季这两大领域的交汇，以推动用户采纳率的进一步提升。",
+        "【undefined】你的汽车正在倒卖你的数据：该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看所有交通资讯 许多汽车收集关于您的数据量——并将其出售给第三方——令人咋舌。 该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看安德鲁·霍金斯（Andrew Hawkins）的所有文章 今年早些时候，美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出了一项史无前例的罚单：禁止其在五年内向消费者报告机构及第三方数据经纪商出售客户数",
+        "【undefined】APOD：2026年9月13日——升起在亚得里亚海上空的NEOWISE彗星：APOD：2026年9月13日——…… 每日天文一图（Astronomy Picture of the Day） 探索宇宙！每天都会展示一张反映我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。 若要观看此视频，请启用 JavaScript，并考虑升级至支持该功能的网页浏览器 升起在亚得里亚海上空的NEOWISE彗星 说明：这样的景象值得早起守候。就在四年多前，C/2020 F3（NEOWISE）彗星在黎明前升起，让早起守候的",
+        "【undefined】NFL首周马利克·威利斯与柯克·考辛斯正面交锋，突袭者主场让3分迎战迈阿密海豚：真希望我也能有一句像Red Zone节目主持人斯科特·汉森（Scott Hanson）那样让人过目难忘的开场白。无论我写出什么，都无法带来“连续7小时无广告橄榄球直播”那种令人血脉贲张的兴奋感。不过，这也正是等待着我们的盛宴。我们将迎来数小时不间断的橄榄球赛事，以及新赛季的首个完整赛程。这个周末我关注的第一场对决，正是迈阿密海豚对阵拉斯维加斯突袭者。",
+        "【undefined】theScore Bet 优惠码：在2026赛季NFL首个周日比赛前获取1000美元投注重置金：西雅图海鹰队捧起超级碗隆巴迪奖杯的场景仿佛就在昨天。如今，我们迎来了NFL新赛季第一周的全面开战，theScore Bet正通过其优惠码为新用户提供价值1000美元的投注重置金（Bet Reset），以迎接周日的揭幕战。",
+        "【undefined】Fanatics优惠码FOXNEWS350：首个NFL超级星期日，特定州可享1000美元奖金或投注20美元获350美元：2026年NFL赛季第一周，将在周日迎来十三场精彩对决。早场和下午场都有大量值得收看的比赛，而Fanatics则为你关注赛季开幕周末提供了一个绝佳的理由。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-13",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】Perplexity 将端到端系统托付给 GPT-6 Astra：Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。；【undefined】你的汽车正在倒卖你的数据：该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看所有交通资讯 许多汽车收集关于您的数据量——并将其出售给第三方——令人咋舌。 该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看安德鲁·霍金斯（Andrew Hawkins）的所有文章 今年早些时候，美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出了一项史无前例的罚单：禁止其在五年内向消费者报告机构及第三方数据经纪商出售客户数；【undefined】NFL首周马利克·威利斯与柯克·考辛斯正面交锋，突袭者主场让3分迎战迈阿密海豚：真希望我也能有一句像Red Zone节目主持人斯科特·汉森（Scott Hanson）那样让人过目难忘的开场白。无论我写出什么，都无法带来“连续7小时无广告橄榄球直播”那种令人血脉贲张的兴奋感。不过，这也正是等待着我们的盛宴。我们将迎来数小时不间断的橄榄球赛事，以及新赛季的首个完整赛程。这个周末我关注的第一场对决，正是迈阿密海豚对阵拉斯维加斯突袭者。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】别称自己为“手艺人程序员”：我本来一直想写点别的内容，却陷入了这个怪圈之中，现在我甚至有点害怕，担心自己是否成了某种奏效的宣传话术的受害者。；【undefined】要闻：Git 团队成员已经开始着手推进一项强制使用 Rust1 编程语言的提案：Git 团队成员已经开始着手推进一项强制使用 Rust1 编程语言的提案。我不喜欢 Rust，而且最重要的是，我不喜欢它的社区中那些极端的小角色——他们试图通过重写已经正常运行了数十年的项目来迫使每个人接受他们的烂摊子，在社交媒体上拉帮结派进行群体攻击，以及做出其他足以媲美任何抱有极权主义妄想的微型团体的“优秀”行径。这就是为什么每当我看到一个项目试图“强推”使用 Rust 或从 C 语言切换到 Rust 时，只要在我的能力范围内，我都；【undefined】要闻：Heol 是一种专为在带有 Varvara 绑定的 Uxn 环境中舒适运行而设计的 16 位 Lisp：Heol 是一种专为在带有 Varvara 绑定的 Uxn 环境中舒适运行而设计的 16 位 Lisp。目前该项目正在开发中。"
+        },
+        {
+          "name": "💹 宏观资本与产业",
+          "analysis": "【undefined】NFL赛季与中期选举交汇，预测市场迎来关键秋季周期：过去两年凭借政治与体育事件跃升至新高度的预测市场，正押注于今年秋季这两大领域的交汇，以推动用户采纳率的进一步提升。"
+        },
+        {
+          "name": "🔬 深空与基础科学",
+          "analysis": "【undefined】APOD：2026年9月13日——升起在亚得里亚海上空的NEOWISE彗星：APOD：2026年9月13日——…… 每日天文一图（Astronomy Picture of the Day） 探索宇宙！每天都会展示一张反映我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。 若要观看此视频，请启用 JavaScript，并考虑升级至支持该功能的网页浏览器 升起在亚得里亚海上空的NEOWISE彗星 说明：这样的景象值得早起守候。就在四年多前，C/2020 F3（NEOWISE）彗星在黎明前升起，让早起守候的"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】Fanatics优惠码FOXNEWS350：首个NFL超级星期日，特定州可享1000美元奖金或投注20美元获350美元：2026年NFL赛季第一周，将在周日迎来十三场精彩对决。早场和下午场都有大量值得收看的比赛，而Fanatics则为你关注赛季开幕周末提供了一个绝佳的理由。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 72,
+      "completedTasks": 72,
+      "succeeded": 56,
+      "degraded": 16,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 72,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 109119,
+      "byRole": {
+        "translator": {
+          "attempts": 44,
+          "succeeded": 31,
+          "degraded": 13
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 72,
+          "succeeded": 56,
+          "degraded": 16
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-8-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-37-translator-0",
+      "hourly-editor",
+      "daily-analyst",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:11.998Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.778Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.004Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.506Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.863Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.991Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.888Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.045Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:14.017Z",
+        "lastSuccessAt": "2026-09-13T12:46:15.313Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.961Z",
+        "lastSuccessAt": "2026-09-13T12:46:15.173Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:15.434Z",
+        "lastSuccessAt": "2026-09-13T12:46:15.976Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.102Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.240Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.055Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.296Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.045Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.194Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.704Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.906Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.506Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.065Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.313Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.055Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.415Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.704Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:15.173Z",
+        "lastSuccessAt": "2026-09-13T12:46:15.831Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:14.231Z",
+        "lastSuccessAt": "2026-09-13T12:46:15.886Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:14.870Z",
+        "lastSuccessAt": "2026-09-13T12:46:15.434Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.101Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.487Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.778Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.863Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.752Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.888Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.068Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.102Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:10.555Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.068Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.434Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.565Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.312Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.622Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.194Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.279Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.356Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.484Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.622Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.961Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.065Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.213Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:15.229Z",
+        "lastSuccessAt": "2026-09-13T12:46:17.343Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.484Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.575Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.762Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.897Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.666Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.762Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.955Z",
+        "lastSuccessAt": "2026-09-13T12:46:14.231Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:15.313Z",
+        "lastSuccessAt": "2026-09-13T12:46:15.630Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.906Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.004Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.103Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.666Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.296Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.434Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.897Z",
+        "lastSuccessAt": "2026-09-13T12:46:14.017Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-13T12:46:13.575Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.565Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.955Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:10.554Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.415Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.690Z",
+        "lastSuccessAt": "2026-09-13T12:46:14.097Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:10.554Z",
+        "lastSuccessAt": "2026-09-13T12:46:14.026Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:14.026Z",
+        "lastSuccessAt": "2026-09-13T12:46:16.043Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.279Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.356Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.240Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.313Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.487Z",
+        "lastSuccessAt": "2026-09-13T12:46:14.031Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.213Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.312Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:14.031Z",
+        "lastSuccessAt": "2026-09-13T12:46:14.870Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:14.097Z",
+        "lastSuccessAt": "2026-09-13T12:46:15.229Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:13.004Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.103Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:12.991Z",
+        "lastSuccessAt": "2026-09-13T12:46:13.101Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:10.544Z",
+        "lastSuccessAt": "2026-09-13T12:46:11.998Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:10.552Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.004Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-13T12:46:10.553Z",
+        "lastSuccessAt": "2026-09-13T12:46:12.752Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story--far-right-weekly-editor-07059883adf76247",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Radio France staff strike over appointment of far-right weekly editor",
+        "source": "France 24 (EN 官方英语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:44:54.000Z",
+        "pubTime": "2026-09-13 20:44",
+        "url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
+        "imageUrl": "https://s.france24.com/media/display/02d53bbe-af04-11f1-9d7b-005056bf30b7/w:1024/p:16x9/e1d9fdbe2d48d1241c3b6d21d639c8533611857e.jpg",
+        "fullContent": "Staff at public broadcaster Radio France began a two-day strike on Sunday over the appointment of Charles Sapin, deputy editor-in-chief at far-right weekly Valeurs Actuelles. Unions accuse Sapin of promoting far-right ideas ahead of next spring's presidential election, while management has defended the appointment in the name of pluralism.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (EN 官方英语原版)】于 2026-09-13 20:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (EN 官方英语原版)",
+            "url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
+            "publishedAt": "2026-09-13T12:44:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 将端到端系统托付给 GPT-6 Astra",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。\n\n作为一家由人工智能驱动的问答引擎，Perplexity 高度专注于搜索与准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 观察到，模型在编写代码方面每一次取得进步，Perplexity 的搜索引擎也会随之提升。它能够编写出更优秀的程序来检索网络和内部信息，并进行极其精炼的总结。\n\n但 Johnny 指出，真正的挑战在于将这些信息层面的能力应用到现实世界系统之中。而 GPT-6 Astra 让这一过程变得更加轻松。\n\n对 Johnny 而言，人工智能最有用的应用之一就是测试代码。在手动测试时间有限的情况下，他会让 GPT-6 Astra 围绕某个应用程序构建一个小型的测试程序。\n\n该模型能够生成逼真的响应，就像其他服务（例如语言模型 API 或连接器）返回的内容一样。通过充当并替代这些服务，该模型可以检验应用程序的响应方式，并自始至终测试整个工作流程。\n\n工程 2026年9月11日\n应用人工智能 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用GPT-6 Astra来编写通讯、修改软件并监控生产系统，且人工检查频率显著低于早期模型。",
+          "Johnny Ho是Perplexity的联合创始人兼首席战略官（Cofounder and Chief Strategy Officer）。",
+          "来源叙事重点：重点宣传新一代模型GPT-6 Astra在企业端到端生产系统中的实际落地成效，借助标杆客户Perplexity联合创始人的背书，强调其在代码编写、模拟测试及自主系统监控方面的高可靠性与大幅减少人工介入的优势。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-g-is-that-legal-02143710-e44821b877a15f25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:40:00.000Z",
+        "pubTime": "2026-09-13 20:40",
+        "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-13 20:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-13T12:40:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--an-artisanal-programmer-041f554ab77bd18e",
+        "title": "别称自己为“手艺人程序员”",
+        "originalTitle": "Don't call yourself an artisanal programmer",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T11:39:43.000Z",
+        "pubTime": "2026-09-13 19:39",
+        "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+        "imageUrl": null,
+        "fullContent": "So I’ve been meaning to write about something, but got sucked into this rabbit hole, and now I’m kinda scared if I’ve been a subject of propaganda that worked on me.\n\nA common theme in software development AI discourse is that there are “serious” engineers who value the end result the most, and “artisanal” coders who value the experience of coding over the final product. This dichotomy doesn’t correctly describe me and likely many others, but let’s play along with it for now.\n\nI want my programs to be reliable. Patience and care are two important ingredients for this. When designing programs from ground up and taking my time, I just know that they’re correct, and that any mistake is due to a typo. Unit tests, LLM reviews, and provers can guarantee the code is 99% right, but not that it’s 100% right: optimal, maintainable, readable, and that it doesn’t rely or break due to undocumented incompliant behaviors. I want that 100%. I can only begin to achieve this with deep connection to code, so I refuse to use LLMs, since they isolate me from the low-level details that matter and cannot guarantee correctness by construction.\n\nWhich is where the dichotomy falls apart in my eyes. By the book, I’m an artisanal coder, since I don’t use LLMs. But if the industry calls the opposite of “artisanal programmer” a “software engineer”, isn’t there a subtext that I’m not an engineer? This may seem like a minor point, but it matters on a subconcious level. Care, attention, and precision are the defining characteristic of engineering – so why is this term appropriated by people who are becoming closer and closer to managers?\n\nBack in my day (ahem), developers hated management that wouldn’t allocate time to dealing with tech debt, and the “move fast and break things” attitude was considered childish. Nowadays, common knowledge among developers says that vibecoding (I’m using the term loosely) is the norm, and wasting time on reliability work is unserious. Who is in the right?\n\nTo me the answer seems obvious: you can’t earn the title of Software Engineer by building stuff blindly. An engineer should know what they’re doing. But let’s ask someone more knowledgeable about this topic.\n\nIn 2021, Hillel Wayne ran the crossover project, where he interviewed multiple people moving to software engineering from other engineering fields. His goal was to answer the question: do people with actual experience in both fields consider our job engineering? The answer was “yes”, but here’s the part that interests me more:\n\nThat said, many of the crossovers also added an additional qualification: software engineering is real engineering, but a lot of people who write software aren’t doing software engineering. This is not a problem with them, rather a problem with our field: we don’t have a rich enough vocabulary to talk about what these developers do. Not everybody who works with electricity is going to be an electrical engineer; many will be electricians. And this is okay. […] But we use things like “programmer”, “software engineer”, and “software developer” interchangeably. What is the difference between a software engineer and a software developer? Some people propose the word “software craftsman”.\n\nWhat jumps out to me is that the titles Wayne uses are completely opposite to the ones popular nowadays. He calls the people who care, and who today we call artisanal coders, “engineers”, and on the opposite side, he calls those who we label vibecoders “craftsmen”. At least to me, this is more intuitive naming! There is arguably more art in prompt engineering than writing code by hand.\n\n“Artisanal” made sense as the antonym of “vibecoded” historically, but claiming this term freed up “engineer” and effectively gave up the debate on whether vibecoding is a form of engineering. Vibecoding became the obvious default, and artisanal coding the outlier. How did we get here?\n\nIf you look for this change in “common sense”, you’ll find it everywhere. The “only” “correct” approach changed radically. Why did we use to consider PVS-Studio posts promotional material, but now we worship automated review tools? How did we jump from strong type systems to free-form specifications so quickly?\n\nNothing like this has happened before in the programming community. Sure, there were arguments about which type system or web framework is better, and the common opinion changed over time, but this is different. A devoted believer in strong type systems would consider a PHP developer an idiot, but still a developer. Even a caricature Rust zealot was still a Rust programmer. And the arguments were based on whether one option is more reliable, easier to use or learn than the other, not whether you should worry about reliability or misuse at all.\n\nThis is different – vibecoding is portrayed not as a better solution, but as the only sane solution, spitting in the face of past experience. Someone who doesn’t use LLMs is not a software engineer, they’re an artisanal coder. It’s an attack on an identity.\n\nRedefining terms and portraying yourself as the sane side and others as beings not worthy of consideration is a new tactic in the software world. I’ve seen it before, though: it’s very much part of the fascist playbook.\n\nI remember the time when we were all joking “the antonym of vibecoder is software engineer”, and then like a month passed and suddenly everyone was comfortable calling themselves artisanal programmers and leaving “software engineer” to “responsible” AI users. The term propagated with the speed of memes, seemingly without any natural reason.\n\nI don’t believe this is a psyop, but I do think we should be more mindful about what we call ourselves, because words have power. Real composers call themselves composers, not artisan composers; AI writers have to call themselves AI writers; but the term “programmer” has not been debated, and this has real-world consequences.\n\nMany gamers who defend artists and hate AI with a passion turn 180 once you mention software: suddenly LLM code is acceptable, and obviously everyone uses LLMs anyway, and AI disclaimers for code are unnecessary. They are not experts, so rhetoric matters more than facts. And most of us suck at rhetorics!\n\nWe should’ve learned this lesson earlier, and I think I know at least one factor that caused us to lose this battle first among all professions. Before I wrote this post, I wondered why “artisanal” programming that requires education, hard work, and complex thinking to perform is considered a game, while spewing ideas into a textarea using methods spread by word of mouth is considered the real thing.\n\nNow I’m thinking it’s due to rampant anti-intellectualism in software communities.\n\nBefore Rust was popular and everyone knew it has its uses, what was the most common counterargument against it? That it’s like raw math and unusable for practical purposes. The same thing is still said about Haskell, especially about monads, which Rust demonstrated can be easily understood (Result, Option, and Future are monads!). Hell, even pointers are considered complicated, because, oh no, you have to learn something before using them! We yearn for easy solutions, but what we actually mean by that is that we refuse to read and just want to copy-paste code from StackOverflow, oh, wait, wrong decade, Claude. We look at professions that have to study in college to work and say “actually, we’re better than them and deserve to dictate how the world runs”. If that’s not anti-intellectualism, I don’t know what is.\n\nSo of course we negate the benefits of education, and hard work, and thinking, and taking our time – those things are woke and we’re better than that. /s\n\nWe need to put up a better fight. The goal is not to flip the script and say avoiding AI is the only correct way to write software, because that won’t work; the goal is to make sure AI-free coding keeps its place in public discussions and is not equated to recreational programming.\n\nTerminology-wise, I’ll use “AI-assisted coding” whenever AI is used and “AI-free software engineering” when doing stuff by hand. It keeps the AI usage notice, but flips the programming vs engineering half and drops the word “artisanal” that can be interpreted as a form of play. I think it’s a good start, but ideas are welcome.\n\nMore generally, we need to challenge the assumption that AI-assisted programming is the only sane way to write code. The public understands that using AI-generated art for any purpose is icky; we need to convince it the same principle applies to AI-generated code. If a person witnessing AI “art” can feel lied to without knowing how to draw, there is no reason why this won’t work for programs.\n\nWe need to talk about the care we put into software development, how we design code, the problems we’re facing, and how beautiful the way we collaborate is. We should highlight that glitchful speedrunning is entertaining because we can see the glitches arise from understandable human mistakes, and how cool computer art is, and how heart-warming it is when a developer polishes their app to improve user experience. We need to, and I understand this is not our forte, talk about our humanity.\n\nKeep safe in these trying times.",
+        "fullTranslation": "我本来一直想写点别的内容，却陷入了这个怪圈之中，现在我甚至有点害怕，担心自己是否成了某种奏效的宣传话术的受害者。\n\n在当前关于软件开发 AI 的讨论中，有一个常见的主题：一类是把最终结果看得最重要的“严肃”工程师，另一类是把编程体验看得重于最终产物的“手艺人”（artisanal）程序员。这种二分法并不能准确描述我，可能也无法准确描述许多其他人，但我们姑且先顺着这个逻辑往下聊。\n\n我希望自己的程序是可靠的。耐心和细致是达成这一目标的两大要素。当从零开始设计程序并且不疾不徐地推进时，我心里清楚它们是正确的，出现的任何错误都只是笔误而已。单元测试、大语言模型审查以及形式化证明器或许能确保代码达到 99% 的正确性，但无法保证 100% 的完善：达到最优、可维护、可读，且不会因未记录的不合规行为而产生依赖或发生崩溃。我追求的就是那 100%。只有与代码保持深度的连接，我才能开始做到这一点，所以我拒绝使用大语言模型，因为它们将我与那些至关重要的底层细节隔离开来，而且无法在构建机制上保证正确性。\n\n在我看来，这种二分法正是在此处瓦解的。照本宣科地说，既然我不用大语言模型，那我就是一个“手艺人程序员”。但如果整个行业将“手艺人程序员”的对立面称作“软件工程师”，这难道不暗示着我不是一名工程师吗？这看似只是个微不足道的细节，但在潜意识层面上却举足轻重。细致、专注和精准是工程学的核心特质——那么，为什么这个词会被那些工作模式越来越接近管理者的人所侵占呢？\n\n回想当年（咳咳），开发者厌恶那些不愿拨出时间偿还技术债的管理层，而“快速行动、破除陈规”的态度在当时被视为幼稚。如今，开发者圈子里的“常识”却变成了：凭感觉写代码（vibecoding，我在此宽泛地使用该词）才是常态，而在可靠性上浪费时间反而是不务正业。到底谁才是对的？\n\n在我看来，答案显而易见：盲目拼凑东西是配不上“软件工程师”这一称号的。工程师应该清楚自己在做什么。不过，我们还是去问问对这个话题更有研究的人吧。\n\n2021年，希勒尔·韦恩（Hillel Wayne）发起了一个跨界转型项目（crossover project），采访了多位从其他工程领域转入软件工程的人士。他的初衷是回答这样一个问题：在两个领域都有实际经验的人，是否认为我们的工作算得上工程？答案是肯定的，但更让我感兴趣的是下面这部分：\n\n“话虽如此，许多跨界人士也补充了一个限定条件：软件工程确实是真正的工程，但很多写软件的人所做的工作并不是软件工程。这不是他们的问题，而是我们行业的问题：我们缺乏足够丰富的词汇来描述这些开发者所从事的工作。并不是每个与电打交道的人都会成为电气工程师，很多人做的是电工。这完全没问题。[……] 但我们却把‘程序员’、‘软件工程师’和‘软件开发者’混为一谈。软件工程师和软件开发者之间究竟有什么区别？有人提出了‘软件工匠’（software craftsman）这个词。”\n\n最触动我的是，韦恩使用的头衔与如今流行的叫法截然相反。他将那些严谨认真、今天被我们称为“手艺人程序员”的人称为“工程师”；而在另一端，他将那些被我们贴上“凭感觉编码者（vibecoders）”标签的人称为“工匠”。至少对我而言，这种命名更符合直觉！平心而论，提示词工程中的艺术成分恐怕远多于纯手工编写代码。\n\n从历史上看，“手艺人”作为“凭感觉编码”的反义词尚且说得通，但认领这个词却把“工程师”的称号拱手让了出去，实际上等于放弃了关于“凭感觉编码到底算不算工程”的争论。凭感觉编码变成了理所当然的默认标准，而手艺人式编程反倒成了异类。我们究竟是怎么走到这一步的？\n\n如果你去观察这种“常识”的演变，你会发现它无处不在。“唯一”“正确”的开发方式发生了翻天覆地的逆转。为什么我们过去把 PVS-Studio 的博文看作营销软文，如今却对自动化代码审查工具顶礼膜拜？我们又是如何如此迅速地从强类型系统跨越到自由格式的规格说明的？\n\n编程社区以往从未经历过类似的事情。诚然，过去大家也会争论哪种类型系统或 Web 框架更好，公众观点也会随时间变化，但这次截然不同。强类型系统的忠实信徒可能会把 PHP 开发者当成傻瓜，但依然承认对方是开发者。哪怕是被刻板印象化的 Rust 狂热粉，也仍被视作 Rust 程序员。过去的争辩始终建立在某种选择是否比另一种更可靠、更易用或更易于学习的基础上，而不是争论你到底该不该去操心可靠性或误用问题。\n\n但这次不同了——凭感觉编码被描绘成不仅是一种更优的方案，更是唯一理智的选择，这完全是在唾弃过往的一切经验。不用大语言模型的人不再被看作软件工程师，而成了“手艺人程序员”。这是对专业身份认同的一种攻击。\n\n重新定义概念，把自己塑造成理性清醒的一方，而把他人贬为不值一提的存在，这是软件领域出现的一种新手段。不过我以前见过这种套路：这完全符合法西斯宣传手法的剧本。\n\n我还记得当时大家都在开玩笑说“凭感觉编码者的反义词是软件工程师”，然而才过了一个月，大家突然都心安理得地自称“手艺人程序员”，而把“软件工程师”的头衔留给了那些“负责任的” AI 用户。这个词以模因（meme）般的速度迅速扩散，表面上看不出任何合乎常理的缘由。\n\n我并不认为这是一场心理战，但我确实认为我们应该对自我称谓更加审慎，因为词汇具有力量。真正的作曲家自称作曲家，而不是“手艺人作曲家”；AI 创作者必须标明自己是 AI 创作者；然而“程序员”这个概念却在未经充分辩论的情况下被重新定义了，这正在带来真实的现实后果。\n\n许多极力捍卫艺术创作者、对 AI 深恶痛绝的游戏玩家，一旦你提到软件，态度就会发生 180 度的大转变：瞬间觉得大语言模型生成的代码是可以接受的，反正大家都用大语言模型，甚至觉得没必要给代码标注 AI 声明。他们不是专家，因此修辞话术比客观事实更管用。而在修辞话术上，我们大多数程序员都差得要命！\n\n我们本应更早吸取这个教训，而且我认为自己至少找到了导致我们在所有行业中最先输掉这场阵地战的一个诱因。在写这篇博文之前，我一直在纳闷：为什么需要接受教育、付出艰苦努力并进行复杂思考的“手艺人”编程会被视作小打小闹的游戏，而在文本框里靠道听途说的方法随意倾泻想法反而被当成了正统？\n\n我现在认为，这是因为软件社区中猖獗泛滥的反智主义。\n\n在 Rust 流行起来、人尽皆知其价值之前，针对它最常见的反对理由是什么？是说它就像纯数学，根本无法用于实际用途。人们现在对 Haskell 仍持有同样的论调，尤其是对单子（monad）的看法，而 Rust 已经证明了单子是可以被轻松理解的（Result、Option 和 Future 都是单子！）。见鬼，就连指针都被认为是复杂的，因为——天哪——你在使用它们之前竟然必须先学点东西！我们渴望简单的解决方案，但我们所谓的“简单”，实际意思是拒绝阅读，只想从 StackOverflow 复制粘贴代码——哦，等等，时代搞错了，现在是从 Claude 复制粘贴。我们看着那些必须在大学里苦读才能从事的职业，然后说：“事实上，我们比他们更优秀，理应由我们来主导世界的运转。”如果这都不算反智主义，那我真不知道什么才算了。\n\n因此，我们理所当然地否定受教育、努力工作、思考以及从容不迫所带来的好处——那些东西都是“觉醒政治正确（woke）”，而我们比那些高明得多。/s（讽刺）\n\n我们需要进行更有力的抗争。我们的目标不是反转剧本并声称避免使用 AI 是编写软件的唯一正确方式，因为这行不通；我们的目标是确保“无 AI 编码”在公众讨论中保有一席之地，而不被等同于业余玩票性质的娱乐性编程。\n\n在术语方面，凡是使用 AI 的情况，我都将称之为“AI 辅助编码”（AI-assisted coding）；而亲自动手完成的，则称为“无 AI 软件工程”（AI-free software engineering）。这样既保留了对 AI 使用情况的注明，又反转了“编码（coding）”与“工程（engineering）”的地位对调，并抛弃了容易被解读为某种玩乐方式的“手艺（artisanal）”一词。我认为这是一个良好的开端，但也欢迎大家提出想法。\n\n更广泛地讲，我们需要挑战这样一种假设：即 AI 辅助编程是编写代码唯一明智的方式。公众明白，出于任何目的使用 AI 生成的艺术作品都是令人膈应的；我们需要让他们相信，同样的道理也适用于 AI 生成的代码。如果一个人哪怕根本不懂画画，在看到 AI “艺术”时也会感到被欺骗，那么没有理由在软件程序上做不到这一点。\n\n我们需要谈谈我们在软件开发中倾注的心血、我们如何设计代码、我们面临的难题，以及我们协作方式的美妙之处。我们应该强调，带有漏洞的游戏速通之所以引人入胜，是因为我们可以看到这些漏洞源于可以理解的人类失误；我们还应强调计算机艺术有多酷，以及当一名开发者为了提升用户体验而精雕细琢自己的应用时有多么温暖人心。我们需要——尽管我明白这并非我们的强项——谈论我们的人性。\n\n在这个艰难的时期，请保重。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 26,
+        "keyTakeaways": [
+          "2021年，Hillel Wayne 开展了名为'crossover project'的项目，采访了多位从其他工程领域转行至软件工程的人士。",
+          "Hillel Wayne 的交叉项目旨在探究在两个领域均有实际经验的人是否认为软件工作属于工程，受访者的回答是肯定的，但也指出许多写软件的人并未在进行软件工程。",
+          "来源叙事重点：反对将手写代码贬抑为小众消遣的“手艺人编程”（artisanal programming），批判行业将“软件工程师”头衔让渡给 AI/vibecoding 依赖者，主张通过夺回话语权确立“无 AI 软件工程”的正统性与专业尊严，谴责技术社区忽视可靠性与反智倾向"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T11:39:43.000Z",
+            "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/"
+          }
+        ]
+      },
+      {
+        "id": "story--universe-precision-html-21d98a9ce742af79",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Researchers pinpoint key early-universe measurement with record precision",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:00:01.000Z",
+        "pubTime": "2026-09-13 20:00",
+        "url": "https://phys.org/news/2026-09-key-early-universe-precision.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-pinpoint-k.jpg",
+        "fullContent": "An international team, including researchers from the University of Minnesota Twin Cities, has reached a major milestone in \"precision cosmology\" by measuring the amount of helium created in the universe's first five minutes with unprecedented accuracy.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-13 20:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-key-early-universe-precision.html",
+            "publishedAt": "2026-09-13T12:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-auffmann-besserie-livres-b9b37b17af54d56b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pendaisons, vengeance et spoliations : trois livres pour raconter les cicatrices de la guerre",
+        "source": "France 24 (FR 官方法语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "fr",
+        "publishedAt": "2026-09-13T12:43:01.000Z",
+        "pubTime": "2026-09-13 20:43",
+        "url": "https://www.france24.com/fr/culture/20260913-rentree-litteraire-seconde-guerre-mondiale-devillers-kauffmann-besserie-livres",
+        "imageUrl": "https://s.france24.com/media/display/af692c84-ac28-11f1-9c28-005056bfb2b6/w:1024/p:16x9/main-rentree-litteraire.png",
+        "fullContent": "Cette année, la rentrée littéraire fait une place notable aux romans et récits inspirés ou ancrés dans la Seconde Guerre mondiale. France 24 a sélectionné trois ouvrages qui explorent des aspects méconnus de cette période sombre de notre histoire.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (FR 官方法语原版)】于 2026-09-13 20:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (FR 官方法语原版)",
+            "url": "https://www.france24.com/fr/culture/20260913-rentree-litteraire-seconde-guerre-mondiale-devillers-kauffmann-besserie-livres",
+            "publishedAt": "2026-09-13T12:43:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-it-once-swallowed-planet-2b656074a0a07455",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:01:52.000Z",
+        "pubTime": "2026-09-13 20:01",
+        "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+        "imageUrl": null,
+        "fullContent": "drupal-media[data-view-mode=half_page_width] { display: inline-block; width: 50%; }\n\nIt is thought the Sun may have engulfed a super-Earth-sized planet early in its history.\n\nNow a new study has gone a step further by suggesting that such an event may have left behind detectable clues inside our star which could still be visible today.\n\nThis idea of a measurable signature or 'fingerprints' in the present-day solar interior was explored by research published today in Monthly Notices of the Royal Astronomical Society.\n\nProfessor Mutlu Yildiz, of Ege University in Turkey, said: \"Our new study suggests that a planet several times more massive than Earth may have fallen into the young Sun and left a lasting chemical imprint deep inside it.\n\n\"By modelling the Sun's evolution and comparing the results with precise observations of its interior, we find that the ingestion of a super-Earth could help explain long-standing differences between standard solar models and observations, including subtle changes in the Sun's internal structure and its depleted lithium abundance.\"\n\nResearchers also found that such a world could survive its passage through the Sun's outer layers while losing very little mass, which suggests that planets may leave detectable fingerprints inside their host stars long after they have disappeared.\n\nFor many years, solar models based on the standard physics of stellar evolution have had difficulty reproducing some helioseismic observations simultaneously, particularly the sound-speed structure just below the convection zone and the depth of the solar convection zone.\n\nAt the same time, the Sun shows a strong and well-known depletion of lithium at its surface.\n\n\"We were interested whether these problems might have a common origin in the early chemical history of the Sun,\" Professor Yildiz explained.\n\n\"Young stars are surrounded by protoplanetary discs, where substantial amounts of material can move between the disc and the star.\n\n\"Since planets are made of material that is chemically different from the gas in the disc, we wondered whether the early engulfment of a planet could have left a chemical signature inside the young Sun.\"\n\nThe researchers used the MESA stellar-evolution code to test their idea. They explored different accretion histories and compared the resulting solar models with helioseismic constraints and surface abundances, while also testing alternative explanations involving the equation of state, opacity, and different prescriptions for turbulent and convective mixing.\n\nTheir results favour a scenario in which the young Sun engulfed a super-Earth around 5–10 times the mass of Earth.\n\nImportantly, their modelling also does not explain just one puzzle. It simultaneously matches several independent measurements of the Sun, including observations of its interior and its unusually low lithium abundance.\n\n\"We thought planetary engulfment might affect the solar structure but did not expect the calculations to converge on such a specific super-Earth mass range,\" said Professor Yildiz. \"That was one of the most interesting outcomes of the study.\"\n\nHe added that while it may not be possible to definitively prove the Sun swallowed a planet, if the predicted structural and chemical signature could be independently identified through helioseismic or other observations, it would provide strong evidence for such an event happening billions of years ago.\n\nAstronomers have long wondered why many other star systems appear to have large super-Earths, while ours has none.\n\nThe new study cites previous research from a decade ago by Martin & Livio (2016), which suggested that one or more super-Earths could have formed inside the orbit of Mercury and migrated inward through the gas disc, potentially falling into the young Sun.\n\nHowever, although this research provided a theoretical pathway for an engulfment event, it did not require that such a planet was ultimately swallowed by our star.\n\n\"The earlier work proposed that a super-Earth could have formed and migrated into the young Sun. Our paper asks whether the Sun itself could still carry observable evidence that such an engulfment actually happened, and we believe it could,\" Professor Yildiz concluded.\n\n\"The next step is to see if these fingerprints can be independently detected.\"\n\nRoyal Astronomical Society\n\nMob: +44 (0)7802 877 700\n\nProfessor Mutlu Yildiz\n\nmutlu.yildiz@ege.edu.tr\n\nSwallowed by the Sun\n\nCaption: An artist's impression of a star engulfing a planet. The blue line traces the path of the planet as it spirals toward the star and ultimately collides with it.\n\nCredit: NASA, ESA, CSA, Ralf Crawford (STScI)\n\nThe paper 'Planetary engulfment as a solution to solar-model discrepancies and its implications for planetary systems' by M. Yildiz has been published in Monthly Notices of the Royal Astronomical Society. DOI: 10.1093/mnras/stag1527.\n\nAbout the Royal Astronomical Society\n\nThe Royal Astronomical Society (RAS), founded in 1820, encourages and promotes the study of astronomy, solar-system science, geophysics and closely related branches of science.\n\nThe RAS organises scientific meetings, publishes international research journals, recognises outstanding achievements by the award of medals and prizes, maintains an extensive library, supports education through grants and outreach activities and represents UK astronomy nationally and internationally. Its more than 4,000 members (Fellows), a third based overseas, include scientific researchers in universities, observatories and laboratories as well as historians of astronomy and others.\n\nThe RAS accepts papers for its journals based on the principle of successful peer review, following which experts on the Editorial Boards accept the papers for publication. The Society issues press releases based on a similar principle, but the organisations and scientists concerned have overall responsibility for their content.\n\nKeep up with the RAS on Instagram, Bluesky, LinkedIn, Facebook and YouTube.\n\nDownload the RAS Supermassive podcast",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 36,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "土耳其埃格大学（Ege University）的Mutlu Yildiz教授在《英国皇家天文学会月刊》（Monthly Notices of the Royal Astronomical Society）发表了一篇题为《Planetary engulfment as a solution to solar-model discrepancies and its implications for planetary systems》的研究论文（DOI: 10.1093/mnras/stag1527）。",
+          "该研究使用了MESA恒星演化计算代码来模拟太阳的演化历程及不同吸积情境。",
+          "来源叙事重点：重点报道土耳其埃格大学Mutlu Yildiz教授的最新恒星演化模拟研究，阐释该研究如何通过提出“年轻太阳曾吞噬一颗5至10倍地球质量的超级地球”假说，一次性解释日震观测中声速结构/对流区深度与标准模型不符、以及表面锂元素极度匮乏等长期存在的科学谜团，并探讨未来观测印证该假说的可能性。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T12:01:52.000Z",
+            "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
+          }
+        ]
+      },
+      {
+        "id": "story--prediction-markets-html-9a6ac02b59fcfcec",
+        "title": "NFL赛季与中期选举交汇，预测市场迎来关键秋季周期",
+        "originalTitle": "NFL and midterm elections set up prediction markets for a critical fall season",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T11:52:33.000Z",
+        "pubTime": "2026-09-13 19:52",
+        "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+        "imageUrl": null,
+        "fullContent": "Prediction markets that rode politics and sports to new heights the past two years are betting on their convergence this autumn to drive even more adoption.\n\nIn 2024, event contract exchanges entered the mainstream with trades tied to the presidential election that year. Then, in September 2025, the start of the NFL season a year ago marked the beginning of a surge in prediction market trading volume that has yet to slow down.\n\nPrediction markets began another NFL season on Wednesday night, when the New England Patriots and Seattle Seahawks dueled it out in a rematch of the 2026 Super Bowl. Labor Day also marked what political observers always consider the start of the midterm election campaign season.\n\nThis year, prediction markets enter the fall bigger than they've ever been, with daily notional trading volume now consistently in the billions, two dominant incumbents and a host of smaller exchanges chasing them to take some share of the market. And now the two events that separately brought prediction markets mainstream, are happening together over just a few months.\n\n\"You have a bit of a supercycle occurring right now within the prediction markets,\" said Robinhood's general manager for futures and prediction markets, JB Mackenzie.\n\nOther events are in the wings this season, too, with traders showing greater interest in economic contracts linked to where a hard-to-read Federal Reserve may take interest rates next week, and Major League Baseball playoffs in full swing in October.\n\nPrediction platforms have rushed to prepare for the fall's events. That will continue so long as the markets continue to get the majority of their volume from sports offerings, said Seni Thomas, CEO at EDGE Markets, a financial technology company working in sports betting and prediction markets.\n\nThis season could prove crucial, especially for newer platforms. \"This NFL cycle is the real key, make or break\" for many newer companies, Thomas said.\n\nKalshi experienced a record $2.3 billion in volume traded on Saturday, the first day of college football, and unveiled a feature for speculators who participated in 2025 NFL season markets to track how they performed before this season's kickoff. It has also expanded partnerships with individual sports teams ahead of the MLB playoff season.\n\nBoth platforms suffered glitches as college football play began. Polymarket's U.S. platform was down much of Saturday, and any account that experienced losses due to the outage was eventually refunded. Kalshi prematurely resolved a market on the University of Michigan game, paying traders as if the underdog Western Michigan had pulled off an upset. Later, Kalshi corrected the Michigan result and paid out accordingly.\n\nThe platforms are leaning into sports, even while battling in court with states across the country that say sports-related event contracts amount to gambling and should fall under their regulatory purview rather than the Commodity Futures Trading Commission, a Wall Street watchdog.\n\n\"We operate pursuant to the regulations of the CFTC, and we'll continue to do so, and continue to work with stakeholders to run a safe and trusted product,\" said Ari Borod, president of sports business development at Polymarket in August before announcing a partnership with the New York Yankees.\n\nWhile the two largest prediction market platforms seek to build on their previous NFL success, others are also trying to capitalize on the same sporting events.\n\nRothera, a prediction market platform developed in a joint venture between Susquehanna International Group and Robinhood, is one of them. It saw volumes boom after going online in time for the FIFA World Cup over the summer.\n\n\"Rolling out all these sports, that's a big lift,\" CEO Thomas Chippas said. \"We've only been live since the last week of May ... We're going as fast as we can, as prudently we can.\"\n\nNovig, a platform that only lists sports event contracts, started an NFL marketing campaign on Wednesday with an ad featuring actress Sydney Sweeney, one of the first celebrities to work with a smaller exchange.\n\nProphetX, which launched in June focusing on sports-related event contracts, also has worked to get ready for the fall by revamping its consumer platform and focusing on boosting liquidity during the NFL season.\n\n\"Our revenue doubled from June to August,\" ProphetX co-founder and CEO Dean Sisun said in an interview. \"I would love to see it four to 5x by the end of the year on a run rate basis … I really think we can do that.\"\n\nWhile ProphetX features sports event contracts, Sisun said the platform is planning to launch midterm election-related markets too.\n\nRobinhood is featuring Rothera's elections-related contracts to users on its brokerage.\n\nIn the lead-up to November, Kalshi has launched several tools, such as a midterm elections hub in July, giving users data about political races all across the country. For election night, it's working on an in-person event, as well as contemplating the best way for traders and viewers to see how odds across races are changing as results pour in, Kalshi's head of politics growth Benjamin Freeman said.\n\nUnlike in 2024, when election-related event contracts weren't legal in the U.S. until a month before the presidential vote, \"there's a much longer runway to plan\" in 2026, said Benjamin Freeman, head of politics growth at Kalshi.\n\nThe midterms also give platforms an opportunity to remind the public that they're more than just sports, even as the majority of trading volume continues to come from those contests.\n\n\"This week it's probably going to be a lot more about NFL,\" Mackenzie of Robinhood said, \"but I think that's what's interesting about prediction markets. It evolves based upon what people want to be trading and what's in the news cycle.\"\n\nDisclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "过去两年凭借政治与体育事件跃升至新高度的预测市场，正押注于今年秋季这两大领域的交汇，以推动用户采纳率的进一步提升。\n\n2024年，事件合约交易所凭借当年与总统大选挂钩的交易进入主流视野。随后，在2025年9月，一年前NFL赛季的开启标志着预测市场交易量迎来一轮激增，且该增长势头至今未见放缓。\n\n周三晚间，随着新英格兰爱国者队与西雅图海鹰队重演2026年超级碗对决，预测市场迎来了又一个NFL赛季。与此同时，劳工节通常也被政治观察家视为中期选举竞选季的开端。\n\n今年，预测市场以空前的规模迈入秋季，每日名义交易量已稳定维持在数十亿美元级别，两家占据主导地位的龙头机构正面临一众小型交易所的分食竞争。如今，曾分别推动预测市场走向主流的两大重磅事件，在短短数月内同时发生。\n\nRobinhood期货与预测市场总经理JB Mackenzie表示：“预测市场目前正迎来一轮超级周期。”\n\n本季还有其他事件蓄势待发。交易员对经济类合约表现出了更浓厚的兴趣，这些合约与难以预测的美联储下周可能采取的利率举措挂钩；此外，美国职业棒球大联盟（MLB）季后赛也将在10月全面打响。\n\n预测平台纷纷加紧筹备秋季各类事件。从事体育博彩与预测市场的金融科技公司EDGE Markets首席执行官Seni Thomas表示，只要市场的绝大部分交易量仍来自体育产品，这种筹备态势就将持续下去。\n\n这个赛季对新兴平台而言可能尤为关键。Thomas表示：“对于许多新公司来说，这个NFL周期是决定成败的真正关键。”\n\n作为大学橄榄球赛开赛首日，Kalshi在周六录得了创纪录的23亿美元交易量，并针对曾参与2025年NFL赛季市场的投机者推出了一项新功能，方便其在本赛季开球前追踪自身历史表现。在MLB季后赛来临前，该平台还扩大了与部分体育球队的合作关系。\n\n随着大学橄榄球比赛开打，两大平台均遭遇了技术故障。Polymarket的美国平台在周六大部分时间处于宕机状态，任何因宕机遭受损失的账户最终均获得了退款。Kalshi则过早结算了一场密歇根大学比赛的市场，在结算时错误地将处于劣势的西密歇根大学判定为爆冷获胜并进行了派息。随后，Kalshi更正了密歇根大学的比赛结果，并重新进行了相应结算。\n\n尽管各平台正在全美多地法庭应对诉讼，但它们仍在向体育领域倾斜。全美多个州认为体育相关事件合约实质上构成赌博，应纳入各州监管管辖范畴，而非归由华尔街监管机构商品期货交易委员会（CFTC）监管。\n\nPolymarket体育业务拓展总裁Ari Borod在8月宣布与纽约洋基队达成合作前表示：“我们依据CFTC的法规开展运营，今后也将继续如此，并将持续与各利益相关方合作，运营安全可信的产品。”\n\n在两大预测市场巨头试图延续此前在NFL领域的成功之际，其他竞争对手也在力图利用相同的体育赛事掘金。\n\n由萨斯奎汉纳国际集团（Susquehanna International Group）与Robinhood合资开发的预测市场平台Rothera便是其中之一。该平台赶在夏季国际足联世界杯期间上线后，交易量便迎来了爆发式增长。\n\n首席执行官Thomas Chippas表示：“推出所有这些体育项目是一项艰巨的任务。我们从5月最后一周才正式上线……我们正在尽一切可能以审慎而迅速的步伐向前推进。”\n\n仅提供体育事件合约的平台Novig于周三启动了一场NFL营销活动，并投放了由女演员西德妮·斯威尼（Sydney Sweeney）主演的广告，她是首批与小型交易所展开合作的名人之一。\n\n于6月上线、主打体育相关事件合约的ProphetX也致力于备战秋季，通过改版其面向消费者的平台，集中力量提升NFL赛季期间的流动性。\n\nProphetX联合创始人兼首席执行官Dean Sisun在接受采访时表示：“我们的营收从6月到8月翻了一番。我希望到今年年底，按运行率计算营收能增长4到5倍……我确实坚信我们能够做到。”\n\n尽管ProphetX以体育事件合约为主打，但Sisun透露，该平台亦计划推出中期选举相关的市场。\n\nRobinhood正向其经纪业务用户主推Rothera的选举相关合约。\n\n在11月大选临近之际，Kalshi推出了多款工具，例如7月上线的中期选举中心，为用户提供全美各项政治竞选的数据。Kalshi政治业务增长主管Benjamin Freeman表示，针对选举之夜，平台正在筹划一场线下活动，并深入探讨向交易员和观众实时展示选情揭晓时各项胜率波动的最佳呈现方式。\n\nFreeman指出，与2024年直到大选投票前一个月相关事件合约才在美国合法化不同，2026年“留给规划的时间要充裕得多”。\n\n中期选举也为各大平台提供了一个机会，向公众证明其业务不仅局限于体育赛事，即使目前交易量的大头依然来自体育竞赛。\n\nRobinhood的Mackenzie表示：“本周人们讨论的焦点可能更多集中在NFL上，但我认为这正是预测市场的魅力所在。它会根据大众想要交易的内容以及当下的新闻焦点而不断演变。”\n\n披露说明：CNBC与Kalshi存在商业合作关系，包括获客合作及持有少数股权。\n\n若您有保密新闻线索，请与我们联系。\n欢迎订阅本资讯直达邮箱，获取关于我们产品与服务的更多信息。\n数据为实时快照。*数据至少延迟15分钟。全球商业与金融资讯、股票行情、市场数据及分析。\n数据同时由相关服务商提供。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 26,
+        "keyTakeaways": [
+          "2024年，事件合约交易所伴随当年的总统大选交易进入主流视野。",
+          "2025年9月NFL赛季开始标志着预测市场交易量激增的起点。",
+          "来源叙事重点：聚焦2026年秋季NFL新赛季与美国中期选举叠加形成的预测市场“超级周期”，强调行业交易量激增、新老平台竞争加剧以及向主流金融/体育文化扩张的势头，同时点出平台技术宕机故障与各州赌博监管诉讼等潜在风险。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T11:52:33.000Z",
+            "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html"
+          }
+        ]
+      },
+      {
+        "id": "story-nt-target-building-homes-7e6ce5c880ad4a18",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Only slim chance target of building 1.5m homes in England will be met, minister says",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T11:23:10.000Z",
+        "pubTime": "2026-09-13 19:23",
+        "url": "https://www.theguardian.com/society/2026/sep/13/slim-chance-government-target-building-homes",
+        "imageUrl": "https://i.guim.co.uk/img/media/b2fa224f6632e69f64ab5361fca2a9ef8d6777e7/259_0_3050_2440/master/3050.jpg?width=140&quality=85&auto=format&fit=max&s=ba8477f813118ce9a4fdb287008db857",
+        "fullContent": "Angela Rayner says manifesto pledge is not being dropped but focus is now on building council houses\n\nUK politics live – latest updates\n\nThe government is unlikely to meet its target of building 1.5m homes in England, Angela Rayner has acknowledged, saying there was only a “slim chance” enough houses would be built before the next election.\n\nThe manifesto pledge to build 1.5m houses by the next election was a “stretch target”, the communities secretary added, but said it was not being ditched and she was “definitely not giving up”.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "安吉拉·雷纳承认，政府在下次大选前在英格兰建造150万套住房的目标不太可能实现，实现该目标的可能性很小（slim chance）。",
+          "安吉拉·雷纳表示，在下次大选前建造150万套住房的竞选宣言承诺是一个“延伸目标”（stretch target），但该承诺并未被放弃，目前的重点是建造市政公租房（council houses）。",
+          "来源叙事重点：聚焦副首相兼社区大臣安吉拉·雷纳公开承认政府难以实现大选前建造150万套住房的核心承诺，重点突出政府政策口径的微妙转向——将原量化目标重构为“延伸目标”，并将实际重心转向建设市政公租房。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T11:23:10.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/13/slim-chance-government-target-building-homes"
+          }
+        ]
+      },
+      {
+        "id": "story-sh-evolved-distinct-html-6848fe156e4ade4c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T08:13:44.000Z",
+        "pubTime": "2026-09-13 16:13",
+        "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/jaws-tell-tales-how-an-1.jpg",
+        "fullContent": "Long before dinosaurs appeared on Earth, fierce predatory fish developed crushing jaws and sharp teeth to survive and diversify in ancient oceans.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-13 16:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
+            "publishedAt": "2026-09-13T08:13:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-politics-2187021-92dca2f28f555a86",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Zelensky’s statement on retaliation for energy strikes escalatory — Kremlin",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:42:01.000Z",
+        "pubTime": "2026-09-13 20:42",
+        "url": "https://tass.com/politics/2187021",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 13. /TASS/. Vladimir Zelensky’s remarks about Ukraine retaliating for strikes on energy infrastructure represent another attempt to escalate tensions, Kremlin Spokesman Dmitry Peskov told Vesti journalist Pavel Zarubin.\n\nZelensky made the remarks earlier in an interview with journalist Fareed Zakaria.\n\n\"A 40-day plan to deal a crushing blow to Russia and its economy has already been mentioned many times. That was a significant escalatory step. This latest statement is in the same escalatory vein,\" the Kremlin spokesman said.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "克里姆林宫发言人德米特里·佩斯科夫对《Vesti》记者帕维尔·扎鲁宾表示，泽连斯基关于乌克兰报复能源基础设施遇袭的言论是升级局势的又一次企图。",
+          "泽连斯基此前在接受记者法里德·扎卡里亚（Fareed Zakaria）采访时发表了有关报复能源设施遇袭的相关言论。",
+          "来源叙事重点：将乌克兰关于报复能源设施遇袭的言论单方面定性为刻意升级局势的挑衅行为，并借此强化乌方企图通过所谓“40天计划”打击俄经济的对抗叙事。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T12:42:01.000Z",
+            "url": "https://tass.com/politics/2187021"
+          }
+        ]
+      },
+      {
+        "id": "story-car-is-selling-your-data-d7586ac65e67e293",
+        "title": "你的汽车正在倒卖你的数据",
+        "originalTitle": "Your car is selling your data",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:00:00.000Z",
+        "pubTime": "2026-09-13 20:00",
+        "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Transportation\n\nThe amount of data about you that many cars collect — and sell to third parties — is staggering.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Andrew Hawkins\n\nEarlier this year, the Federal Trade Commission issued an unprecedented penalty against General Motors: a five-year ban on selling customer data to consumer reporting agencies and third-party data brokers.\n\nFor years, GM had been collecting all sorts of data on its customers — such as how often they sped or whether they drove at night — and selling it to brokers to generate risk profiles for insurance companies. More often than not, drivers were unaware of the degree to which their data was being collected. Many had unknowingly consented to it by signing up for an OnStar connected services plan, which activated a feature called Smart Driver that collected their driving data.\n\nGM was then turning around and sharing that data with two data brokers, LexisNexis and Verisk, both of which work with the insurance industry. In a 2024 blockbuster investigative report by The New York Times, some drivers said their insurance rates went up as a result of the data collection. The enrollment process was so confusing that many vehicle owners had no idea their data was being shared. Under the settlement with the FTC, GM has to make it easier for drivers to turn off location tracking, as well as enable them to access and delete their data collected by the automaker.\n\nBut GM isn’t the only automaker vacuuming up data on its customers. A team of researchers from the Mozilla Foundation spent months examining the privacy policies of all the major car companies for a report they were working on in 2023. Their conclusion: Every single one had “horrible privacy and security,” said Jen Caltrider, who helped author the study. Not only that, but customers were forced to accept overlapping policies for the car, the connected services, the smartphone app, and the financial services through which they received their loan — all of which included data collection provisions.\n\n“And so it was really overwhelming trying to understand what was going on,” Caltrider said.\n\nThere has been plenty of corroborating evidence for this. Consumer Reports published its own investigation last year that concluded “nearly every automaker that sells cars in the U.S. is similarly collecting and sharing so-called ‘driver behavior data’ with other companies and continues to do so.”\n\nCars are particularly problematic compared to phones because the privacy controls are less intuitive. A smartphone owner can generally find and tweak their privacy settings. With a vehicle, the data collection is spread across multiple systems and policies, making it much harder for consumers to understand what is happening. It feels like a free-for-all because automakers are collecting enormous amounts of information without much public scrutiny.\n\nAfter GM was penalized as a result of the Times investigation, the issue of data privacy and cars appears to finally be getting some scrutiny. But as is often the case, policymakers may be missing the mark on how to address it.\n\nLast December, a trio of House Republicans introduced the Data Rights for Information and Vehicle Electronics in Real-time, or DRIVER, Act. According to these lawmakers, the bill “reaffirms a basic principle: if you own the vehicle, you should own the data it generates.”\n\nBut while the bill would give vehicle owners a bit more control over their data, it would also allow automakers to continue gathering and selling it to third-party data brokers, which makes it a nonstarter for privacy advocates. As Caltrider notes, access and deletion rights are not the same thing as preventing excess collection in the first place. If an automaker can collect enormous amounts of information and the consumer must then go through an arduous process to discover what was collected and request that it be deleted, the burden remains on the individual. Most privacy advocates would rather see a system in which automakers simply do not collect so much information to begin with.\n\nThe issue has even risen to the level of MAGA World. Last July, Donald Trump’s Transportation Secretary, Sean Duffy, sent a letter to Congress outlining the administration’s policy priorities for the upcoming surface transportation reauthorization bill. Tucked in the letter was a new concept called “the Freedom Car,” which Duffy described as Americans’ right to “drive disconnected and non-automated” vehicles. The proposal would ban the government from requiring that vehicles be equipped with automated driving systems or have the capability to transmit data wirelessly — which, to my knowledge, no one is trying to do.\n\nIt’s unclear whether the DRIVER Act or the Freedom Car will ever clear the hurdles in Washington to become real policies. What is clear is that there is significant demand for simpler vehicles. People are asking why they can’t just buy a car without all the sensors and data collection. They look at new concepts like the Slate Truck and wonder whether they could also use something more bare-bones.\n\nSure, consumers may accept useful safety equipment such as backup cameras, but many don’t want their vehicle tracking everything they do — and they definitely don’t want to see ads on their vehicle screens. (BMW, I’m looking at you.) Nor do they want Flock cameras tracking their every movement while they drive down the street.\n\nBut automakers have every incentive to keep collecting data because there is money to be made from it. As long as the broader data economy rewards companies for gathering and monetizing information, there’s little reason for automakers to voluntarily abandon the practice.\n\nSee All The Stepback\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。\n查看所有交通资讯\n许多汽车收集关于您的数据量——并将其出售给第三方——令人咋舌。\n该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。\n查看安德鲁·霍金斯（Andrew Hawkins）的所有文章\n今年早些时候，美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出了一项史无前例的罚单：禁止其在五年内向消费者报告机构及第三方数据经纪商出售客户数据。\n多年来，通用汽车一直在收集客户的各类数据——例如超速频率或是否夜间驾驶——并将这些数据出售给经纪商，以便为保险公司生成风险画像。在大多数情况下，驾驶员根本没有意识到自己的数据被收集到了何种程度。许多人是在注册OnStar车联服务计划时不知不觉表示了同意，该服务激活了一项名为“智能驾驶员”（Smart Driver）的功能来收集他们的驾驶数据。\n随后，通用汽车转头便将这些数据共享给两家与保险行业合作的数据经纪商：律商联讯（LexisNexis）和Verisk。在《纽约时报》2024年的一篇重磅调查报道中，部分驾驶员表示，由于这些数据收集行为，他们的保险费率上涨了。当时的注册流程极其令人困惑，以至于许多车主根本不知道自己的数据正被共享出去。根据与FTC达成的和解协议，通用汽车必须让驾驶员能够更轻松地关闭位置追踪，并允许他们访问和删除汽车制造商所收集到的个人数据。\n然而，通用汽车并非唯一一家疯狂吸取客户数据的车企。来自Mozilla基金会的研究团队曾花费数月时间，对各大主要汽车公司的隐私政策进行了深入审查，以备其2023年的一份研究报告。协助撰写该研究的珍·考特里德（Jen Caltrider）表示，他们的结论是：每一家车企的“隐私与安全性都极其糟糕”。不仅如此，客户还被迫接受针对汽车、联网服务、智能手机应用以及办理购车贷款的金融服务等一系列重叠交叉的隐私政策——而所有这些政策均包含数据收集条款。\n考特里德说：“因此，试图弄清楚到底发生了什么，确实令人不堪重负。”\n对此已有大量的佐证。《消费者报告》（Consumer Reports）去年发表了自己的调查，结论是“几乎每一家在美国销售汽车的制造商，同样都在收集并向其他公司共享所谓的‘驾驶员行为数据’，并且目前仍在继续这么做”。\n与手机相比，汽车的问题尤为棘手，因为其隐私控制选项远没有手机那么直观。智能手机用户通常可以找到并调整其隐私设置。而在汽车上，数据收集分散在多个系统和政策之间，使得消费者更难了解正在发生的事情。这感觉就像是一场毫无秩序的混战，因为汽车制造商在几乎没有公众监督的情况下疯狂收集海量信息。\n在通用汽车因《纽约时报》的调查而受到处罚后，汽车与数据隐私问题似乎终于获得了一些关注。但正如往常一样，政策制定者在应对这一问题时可能没有切中要害。\n去年12月，三位众议院共和党议员提出了《实时车辆电子信息数据权利法案》（简称DRIVER法案）。据这些议员称，该法案“重申了一项基本原则：如果你拥有这辆车，你就应该拥有它所产生的数据”。\n然而，尽管该法案会赋予车主对自身数据稍多一些的控制权，但它同时也允许汽车制造商继续收集并出售给第三方数据经纪商，这使其在隐私倡导者眼中根本行不通。正如考特里德指出的那样，访问权和删除权并不能等同于从一开始就防止过度收集。如果车企可以先收集庞大的信息量，然后消费者必须经历繁琐复杂的流程去弄清楚收集了什么并要求将其删除，那么负担仍然完全落在了个人身上。大多数隐私倡导者更希望看到这样一种制度：汽车制造商从一开始就根本不得收集如此多的信息。\n这个问题甚至已经上升到了“让美国再次伟大”（MAGA）阵营的讨论层面。去年7月，唐纳德·特朗普任命的交通部长肖恩·达菲（Sean Duffy）致信国会，概述了本届政府针对即将出台的地面交通再授权法案的政策重点。信中暗含了一个名为“自由之车”（the Freedom Car）的新概念，达菲将其描述为美国人“驾驶非联网和非自动化”车辆的权利。该提案将禁止政府强制要求车辆配备自动驾驶系统或具备无线传输数据的能力——然而据我所知，目前根本没有人在试图推行这种强制要求。\n目前尚不清楚《DRIVER法案》或“自由之车”提案是否能克服华盛顿的重重阻碍真正成为政策。但显而易见的是，公众对更纯粹、更简单的车辆存在巨大的需求。人们不禁要问，为什么他们就不能购买一辆没有安装所有那些传感器和数据收集功能的汽车呢？他们看着诸如Slate Truck之类的新概念车，心里琢磨着自己是否也能用上一款配置更基础精简的座驾。\n诚然，消费者或许能够接受倒车摄像头等实用的安全设备，但许多人并不希望自己的车辆追踪自己的一举一动——他们也绝对不想在车机屏幕上看到广告。（宝马，我说的就是你。）他们同样不希望在街上行驶时被Flock车牌识别摄像头时刻追踪着自己的一举一动。\n但是，汽车制造商有充分的动力继续收集数据，因为这有利可图。只要整个广阔的数据经济依然在奖励那些收集信息并将其变现的公司，汽车制造商就几乎没有任何理由主动放弃这种做法。\n查看所有 The Stepback 专栏内容\n每日免费获取最重要的核心新闻摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出五年禁令，禁止其向消费者信用报告机构和第三方数据经纪商出售客户数据。",
+          "通用汽车此前通过其 OnStar 车联服务的 Smart Driver 功能收集包括超速频率、夜间驾驶等客户驾驶数据，并将其共享给 LexisNexis 和 Verisk 两家数据经纪商以生成面向保险公司的风险画像。",
+          "来源叙事重点：揭示现代智能汽车行业普遍且隐秘的个人驾驶数据收集与变现链条，批评监管执法与立法的滞后及偏颇，呼吁从源头遏制车企过度收集数据而非仅提供形式上的事后删除权。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T12:00:00.000Z",
+            "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4332-af34-ffc9ce45eadf-a80e4c4196ad559d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia hits evacuated Kyiv-Warsaw train on line used by foreign leaders",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T11:47:41.000Z",
+        "pubTime": "2026-09-13 19:47",
+        "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b31a1c7-c48e-4c9e-8cad-139370d6b4f6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Engine carriage struck on route used minutes earlier by ex-Swedish Prime Minister Carl Bildt and other officials returning from summit",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-13 19:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf",
+            "publishedAt": "2026-09-13T11:47:41.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-train-2-km-from-polish-3e180d356c088600",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia attacks passenger train 2 km from Polish border",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T10:38:11.000Z",
+        "pubTime": "2026-09-13 18:38",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wf487h/russia_attacks_passenger_train_2_km_from_polish/",
+        "imageUrl": "https://external-preview.redd.it/-utVJBzqTiE0tvDTv-4JUBlp4OASyk5NxT3CZAvNIb4.jpeg?width=640&crop=smart&auto=webp&s=5e85a9e929711344953953ee66b7b1ab156e828e",
+        "fullContent": "submitted by /u/pravda_eng_official [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-13 18:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wf487h/russia_attacks_passenger_train_2_km_from_polish/",
+            "publishedAt": "2026-09-13T10:38:11.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story--far-right-weekly-editor-07059883adf76247",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Radio France staff strike over appointment of far-right weekly editor",
+        "source": "France 24 (EN 官方英语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:44:54.000Z",
+        "pubTime": "2026-09-13 20:44",
+        "url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
+        "imageUrl": "https://s.france24.com/media/display/02d53bbe-af04-11f1-9d7b-005056bf30b7/w:1024/p:16x9/e1d9fdbe2d48d1241c3b6d21d639c8533611857e.jpg",
+        "fullContent": "Staff at public broadcaster Radio France began a two-day strike on Sunday over the appointment of Charles Sapin, deputy editor-in-chief at far-right weekly Valeurs Actuelles. Unions accuse Sapin of promoting far-right ideas ahead of next spring's presidential election, while management has defended the appointment in the name of pluralism.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (EN 官方英语原版)】于 2026-09-13 20:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (EN 官方英语原版)",
+            "url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
+            "publishedAt": "2026-09-13T12:44:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 将端到端系统托付给 GPT-6 Astra",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。\n\n作为一家由人工智能驱动的问答引擎，Perplexity 高度专注于搜索与准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 观察到，模型在编写代码方面每一次取得进步，Perplexity 的搜索引擎也会随之提升。它能够编写出更优秀的程序来检索网络和内部信息，并进行极其精炼的总结。\n\n但 Johnny 指出，真正的挑战在于将这些信息层面的能力应用到现实世界系统之中。而 GPT-6 Astra 让这一过程变得更加轻松。\n\n对 Johnny 而言，人工智能最有用的应用之一就是测试代码。在手动测试时间有限的情况下，他会让 GPT-6 Astra 围绕某个应用程序构建一个小型的测试程序。\n\n该模型能够生成逼真的响应，就像其他服务（例如语言模型 API 或连接器）返回的内容一样。通过充当并替代这些服务，该模型可以检验应用程序的响应方式，并自始至终测试整个工作流程。\n\n工程 2026年9月11日\n应用人工智能 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用GPT-6 Astra来编写通讯、修改软件并监控生产系统，且人工检查频率显著低于早期模型。",
+          "Johnny Ho是Perplexity的联合创始人兼首席战略官（Cofounder and Chief Strategy Officer）。",
+          "来源叙事重点：重点宣传新一代模型GPT-6 Astra在企业端到端生产系统中的实际落地成效，借助标杆客户Perplexity联合创始人的背书，强调其在代码编写、模拟测试及自主系统监控方面的高可靠性与大幅减少人工介入的优势。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-g-is-that-legal-02143710-e44821b877a15f25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:40:00.000Z",
+        "pubTime": "2026-09-13 20:40",
+        "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-13 20:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-13T12:40:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--an-artisanal-programmer-041f554ab77bd18e",
+        "title": "别称自己为“手艺人程序员”",
+        "originalTitle": "Don't call yourself an artisanal programmer",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T11:39:43.000Z",
+        "pubTime": "2026-09-13 19:39",
+        "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+        "imageUrl": null,
+        "fullContent": "So I’ve been meaning to write about something, but got sucked into this rabbit hole, and now I’m kinda scared if I’ve been a subject of propaganda that worked on me.\n\nA common theme in software development AI discourse is that there are “serious” engineers who value the end result the most, and “artisanal” coders who value the experience of coding over the final product. This dichotomy doesn’t correctly describe me and likely many others, but let’s play along with it for now.\n\nI want my programs to be reliable. Patience and care are two important ingredients for this. When designing programs from ground up and taking my time, I just know that they’re correct, and that any mistake is due to a typo. Unit tests, LLM reviews, and provers can guarantee the code is 99% right, but not that it’s 100% right: optimal, maintainable, readable, and that it doesn’t rely or break due to undocumented incompliant behaviors. I want that 100%. I can only begin to achieve this with deep connection to code, so I refuse to use LLMs, since they isolate me from the low-level details that matter and cannot guarantee correctness by construction.\n\nWhich is where the dichotomy falls apart in my eyes. By the book, I’m an artisanal coder, since I don’t use LLMs. But if the industry calls the opposite of “artisanal programmer” a “software engineer”, isn’t there a subtext that I’m not an engineer? This may seem like a minor point, but it matters on a subconcious level. Care, attention, and precision are the defining characteristic of engineering – so why is this term appropriated by people who are becoming closer and closer to managers?\n\nBack in my day (ahem), developers hated management that wouldn’t allocate time to dealing with tech debt, and the “move fast and break things” attitude was considered childish. Nowadays, common knowledge among developers says that vibecoding (I’m using the term loosely) is the norm, and wasting time on reliability work is unserious. Who is in the right?\n\nTo me the answer seems obvious: you can’t earn the title of Software Engineer by building stuff blindly. An engineer should know what they’re doing. But let’s ask someone more knowledgeable about this topic.\n\nIn 2021, Hillel Wayne ran the crossover project, where he interviewed multiple people moving to software engineering from other engineering fields. His goal was to answer the question: do people with actual experience in both fields consider our job engineering? The answer was “yes”, but here’s the part that interests me more:\n\nThat said, many of the crossovers also added an additional qualification: software engineering is real engineering, but a lot of people who write software aren’t doing software engineering. This is not a problem with them, rather a problem with our field: we don’t have a rich enough vocabulary to talk about what these developers do. Not everybody who works with electricity is going to be an electrical engineer; many will be electricians. And this is okay. […] But we use things like “programmer”, “software engineer”, and “software developer” interchangeably. What is the difference between a software engineer and a software developer? Some people propose the word “software craftsman”.\n\nWhat jumps out to me is that the titles Wayne uses are completely opposite to the ones popular nowadays. He calls the people who care, and who today we call artisanal coders, “engineers”, and on the opposite side, he calls those who we label vibecoders “craftsmen”. At least to me, this is more intuitive naming! There is arguably more art in prompt engineering than writing code by hand.\n\n“Artisanal” made sense as the antonym of “vibecoded” historically, but claiming this term freed up “engineer” and effectively gave up the debate on whether vibecoding is a form of engineering. Vibecoding became the obvious default, and artisanal coding the outlier. How did we get here?\n\nIf you look for this change in “common sense”, you’ll find it everywhere. The “only” “correct” approach changed radically. Why did we use to consider PVS-Studio posts promotional material, but now we worship automated review tools? How did we jump from strong type systems to free-form specifications so quickly?\n\nNothing like this has happened before in the programming community. Sure, there were arguments about which type system or web framework is better, and the common opinion changed over time, but this is different. A devoted believer in strong type systems would consider a PHP developer an idiot, but still a developer. Even a caricature Rust zealot was still a Rust programmer. And the arguments were based on whether one option is more reliable, easier to use or learn than the other, not whether you should worry about reliability or misuse at all.\n\nThis is different – vibecoding is portrayed not as a better solution, but as the only sane solution, spitting in the face of past experience. Someone who doesn’t use LLMs is not a software engineer, they’re an artisanal coder. It’s an attack on an identity.\n\nRedefining terms and portraying yourself as the sane side and others as beings not worthy of consideration is a new tactic in the software world. I’ve seen it before, though: it’s very much part of the fascist playbook.\n\nI remember the time when we were all joking “the antonym of vibecoder is software engineer”, and then like a month passed and suddenly everyone was comfortable calling themselves artisanal programmers and leaving “software engineer” to “responsible” AI users. The term propagated with the speed of memes, seemingly without any natural reason.\n\nI don’t believe this is a psyop, but I do think we should be more mindful about what we call ourselves, because words have power. Real composers call themselves composers, not artisan composers; AI writers have to call themselves AI writers; but the term “programmer” has not been debated, and this has real-world consequences.\n\nMany gamers who defend artists and hate AI with a passion turn 180 once you mention software: suddenly LLM code is acceptable, and obviously everyone uses LLMs anyway, and AI disclaimers for code are unnecessary. They are not experts, so rhetoric matters more than facts. And most of us suck at rhetorics!\n\nWe should’ve learned this lesson earlier, and I think I know at least one factor that caused us to lose this battle first among all professions. Before I wrote this post, I wondered why “artisanal” programming that requires education, hard work, and complex thinking to perform is considered a game, while spewing ideas into a textarea using methods spread by word of mouth is considered the real thing.\n\nNow I’m thinking it’s due to rampant anti-intellectualism in software communities.\n\nBefore Rust was popular and everyone knew it has its uses, what was the most common counterargument against it? That it’s like raw math and unusable for practical purposes. The same thing is still said about Haskell, especially about monads, which Rust demonstrated can be easily understood (Result, Option, and Future are monads!). Hell, even pointers are considered complicated, because, oh no, you have to learn something before using them! We yearn for easy solutions, but what we actually mean by that is that we refuse to read and just want to copy-paste code from StackOverflow, oh, wait, wrong decade, Claude. We look at professions that have to study in college to work and say “actually, we’re better than them and deserve to dictate how the world runs”. If that’s not anti-intellectualism, I don’t know what is.\n\nSo of course we negate the benefits of education, and hard work, and thinking, and taking our time – those things are woke and we’re better than that. /s\n\nWe need to put up a better fight. The goal is not to flip the script and say avoiding AI is the only correct way to write software, because that won’t work; the goal is to make sure AI-free coding keeps its place in public discussions and is not equated to recreational programming.\n\nTerminology-wise, I’ll use “AI-assisted coding” whenever AI is used and “AI-free software engineering” when doing stuff by hand. It keeps the AI usage notice, but flips the programming vs engineering half and drops the word “artisanal” that can be interpreted as a form of play. I think it’s a good start, but ideas are welcome.\n\nMore generally, we need to challenge the assumption that AI-assisted programming is the only sane way to write code. The public understands that using AI-generated art for any purpose is icky; we need to convince it the same principle applies to AI-generated code. If a person witnessing AI “art” can feel lied to without knowing how to draw, there is no reason why this won’t work for programs.\n\nWe need to talk about the care we put into software development, how we design code, the problems we’re facing, and how beautiful the way we collaborate is. We should highlight that glitchful speedrunning is entertaining because we can see the glitches arise from understandable human mistakes, and how cool computer art is, and how heart-warming it is when a developer polishes their app to improve user experience. We need to, and I understand this is not our forte, talk about our humanity.\n\nKeep safe in these trying times.",
+        "fullTranslation": "我本来一直想写点别的内容，却陷入了这个怪圈之中，现在我甚至有点害怕，担心自己是否成了某种奏效的宣传话术的受害者。\n\n在当前关于软件开发 AI 的讨论中，有一个常见的主题：一类是把最终结果看得最重要的“严肃”工程师，另一类是把编程体验看得重于最终产物的“手艺人”（artisanal）程序员。这种二分法并不能准确描述我，可能也无法准确描述许多其他人，但我们姑且先顺着这个逻辑往下聊。\n\n我希望自己的程序是可靠的。耐心和细致是达成这一目标的两大要素。当从零开始设计程序并且不疾不徐地推进时，我心里清楚它们是正确的，出现的任何错误都只是笔误而已。单元测试、大语言模型审查以及形式化证明器或许能确保代码达到 99% 的正确性，但无法保证 100% 的完善：达到最优、可维护、可读，且不会因未记录的不合规行为而产生依赖或发生崩溃。我追求的就是那 100%。只有与代码保持深度的连接，我才能开始做到这一点，所以我拒绝使用大语言模型，因为它们将我与那些至关重要的底层细节隔离开来，而且无法在构建机制上保证正确性。\n\n在我看来，这种二分法正是在此处瓦解的。照本宣科地说，既然我不用大语言模型，那我就是一个“手艺人程序员”。但如果整个行业将“手艺人程序员”的对立面称作“软件工程师”，这难道不暗示着我不是一名工程师吗？这看似只是个微不足道的细节，但在潜意识层面上却举足轻重。细致、专注和精准是工程学的核心特质——那么，为什么这个词会被那些工作模式越来越接近管理者的人所侵占呢？\n\n回想当年（咳咳），开发者厌恶那些不愿拨出时间偿还技术债的管理层，而“快速行动、破除陈规”的态度在当时被视为幼稚。如今，开发者圈子里的“常识”却变成了：凭感觉写代码（vibecoding，我在此宽泛地使用该词）才是常态，而在可靠性上浪费时间反而是不务正业。到底谁才是对的？\n\n在我看来，答案显而易见：盲目拼凑东西是配不上“软件工程师”这一称号的。工程师应该清楚自己在做什么。不过，我们还是去问问对这个话题更有研究的人吧。\n\n2021年，希勒尔·韦恩（Hillel Wayne）发起了一个跨界转型项目（crossover project），采访了多位从其他工程领域转入软件工程的人士。他的初衷是回答这样一个问题：在两个领域都有实际经验的人，是否认为我们的工作算得上工程？答案是肯定的，但更让我感兴趣的是下面这部分：\n\n“话虽如此，许多跨界人士也补充了一个限定条件：软件工程确实是真正的工程，但很多写软件的人所做的工作并不是软件工程。这不是他们的问题，而是我们行业的问题：我们缺乏足够丰富的词汇来描述这些开发者所从事的工作。并不是每个与电打交道的人都会成为电气工程师，很多人做的是电工。这完全没问题。[……] 但我们却把‘程序员’、‘软件工程师’和‘软件开发者’混为一谈。软件工程师和软件开发者之间究竟有什么区别？有人提出了‘软件工匠’（software craftsman）这个词。”\n\n最触动我的是，韦恩使用的头衔与如今流行的叫法截然相反。他将那些严谨认真、今天被我们称为“手艺人程序员”的人称为“工程师”；而在另一端，他将那些被我们贴上“凭感觉编码者（vibecoders）”标签的人称为“工匠”。至少对我而言，这种命名更符合直觉！平心而论，提示词工程中的艺术成分恐怕远多于纯手工编写代码。\n\n从历史上看，“手艺人”作为“凭感觉编码”的反义词尚且说得通，但认领这个词却把“工程师”的称号拱手让了出去，实际上等于放弃了关于“凭感觉编码到底算不算工程”的争论。凭感觉编码变成了理所当然的默认标准，而手艺人式编程反倒成了异类。我们究竟是怎么走到这一步的？\n\n如果你去观察这种“常识”的演变，你会发现它无处不在。“唯一”“正确”的开发方式发生了翻天覆地的逆转。为什么我们过去把 PVS-Studio 的博文看作营销软文，如今却对自动化代码审查工具顶礼膜拜？我们又是如何如此迅速地从强类型系统跨越到自由格式的规格说明的？\n\n编程社区以往从未经历过类似的事情。诚然，过去大家也会争论哪种类型系统或 Web 框架更好，公众观点也会随时间变化，但这次截然不同。强类型系统的忠实信徒可能会把 PHP 开发者当成傻瓜，但依然承认对方是开发者。哪怕是被刻板印象化的 Rust 狂热粉，也仍被视作 Rust 程序员。过去的争辩始终建立在某种选择是否比另一种更可靠、更易用或更易于学习的基础上，而不是争论你到底该不该去操心可靠性或误用问题。\n\n但这次不同了——凭感觉编码被描绘成不仅是一种更优的方案，更是唯一理智的选择，这完全是在唾弃过往的一切经验。不用大语言模型的人不再被看作软件工程师，而成了“手艺人程序员”。这是对专业身份认同的一种攻击。\n\n重新定义概念，把自己塑造成理性清醒的一方，而把他人贬为不值一提的存在，这是软件领域出现的一种新手段。不过我以前见过这种套路：这完全符合法西斯宣传手法的剧本。\n\n我还记得当时大家都在开玩笑说“凭感觉编码者的反义词是软件工程师”，然而才过了一个月，大家突然都心安理得地自称“手艺人程序员”，而把“软件工程师”的头衔留给了那些“负责任的” AI 用户。这个词以模因（meme）般的速度迅速扩散，表面上看不出任何合乎常理的缘由。\n\n我并不认为这是一场心理战，但我确实认为我们应该对自我称谓更加审慎，因为词汇具有力量。真正的作曲家自称作曲家，而不是“手艺人作曲家”；AI 创作者必须标明自己是 AI 创作者；然而“程序员”这个概念却在未经充分辩论的情况下被重新定义了，这正在带来真实的现实后果。\n\n许多极力捍卫艺术创作者、对 AI 深恶痛绝的游戏玩家，一旦你提到软件，态度就会发生 180 度的大转变：瞬间觉得大语言模型生成的代码是可以接受的，反正大家都用大语言模型，甚至觉得没必要给代码标注 AI 声明。他们不是专家，因此修辞话术比客观事实更管用。而在修辞话术上，我们大多数程序员都差得要命！\n\n我们本应更早吸取这个教训，而且我认为自己至少找到了导致我们在所有行业中最先输掉这场阵地战的一个诱因。在写这篇博文之前，我一直在纳闷：为什么需要接受教育、付出艰苦努力并进行复杂思考的“手艺人”编程会被视作小打小闹的游戏，而在文本框里靠道听途说的方法随意倾泻想法反而被当成了正统？\n\n我现在认为，这是因为软件社区中猖獗泛滥的反智主义。\n\n在 Rust 流行起来、人尽皆知其价值之前，针对它最常见的反对理由是什么？是说它就像纯数学，根本无法用于实际用途。人们现在对 Haskell 仍持有同样的论调，尤其是对单子（monad）的看法，而 Rust 已经证明了单子是可以被轻松理解的（Result、Option 和 Future 都是单子！）。见鬼，就连指针都被认为是复杂的，因为——天哪——你在使用它们之前竟然必须先学点东西！我们渴望简单的解决方案，但我们所谓的“简单”，实际意思是拒绝阅读，只想从 StackOverflow 复制粘贴代码——哦，等等，时代搞错了，现在是从 Claude 复制粘贴。我们看着那些必须在大学里苦读才能从事的职业，然后说：“事实上，我们比他们更优秀，理应由我们来主导世界的运转。”如果这都不算反智主义，那我真不知道什么才算了。\n\n因此，我们理所当然地否定受教育、努力工作、思考以及从容不迫所带来的好处——那些东西都是“觉醒政治正确（woke）”，而我们比那些高明得多。/s（讽刺）\n\n我们需要进行更有力的抗争。我们的目标不是反转剧本并声称避免使用 AI 是编写软件的唯一正确方式，因为这行不通；我们的目标是确保“无 AI 编码”在公众讨论中保有一席之地，而不被等同于业余玩票性质的娱乐性编程。\n\n在术语方面，凡是使用 AI 的情况，我都将称之为“AI 辅助编码”（AI-assisted coding）；而亲自动手完成的，则称为“无 AI 软件工程”（AI-free software engineering）。这样既保留了对 AI 使用情况的注明，又反转了“编码（coding）”与“工程（engineering）”的地位对调，并抛弃了容易被解读为某种玩乐方式的“手艺（artisanal）”一词。我认为这是一个良好的开端，但也欢迎大家提出想法。\n\n更广泛地讲，我们需要挑战这样一种假设：即 AI 辅助编程是编写代码唯一明智的方式。公众明白，出于任何目的使用 AI 生成的艺术作品都是令人膈应的；我们需要让他们相信，同样的道理也适用于 AI 生成的代码。如果一个人哪怕根本不懂画画，在看到 AI “艺术”时也会感到被欺骗，那么没有理由在软件程序上做不到这一点。\n\n我们需要谈谈我们在软件开发中倾注的心血、我们如何设计代码、我们面临的难题，以及我们协作方式的美妙之处。我们应该强调，带有漏洞的游戏速通之所以引人入胜，是因为我们可以看到这些漏洞源于可以理解的人类失误；我们还应强调计算机艺术有多酷，以及当一名开发者为了提升用户体验而精雕细琢自己的应用时有多么温暖人心。我们需要——尽管我明白这并非我们的强项——谈论我们的人性。\n\n在这个艰难的时期，请保重。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 26,
+        "keyTakeaways": [
+          "2021年，Hillel Wayne 开展了名为'crossover project'的项目，采访了多位从其他工程领域转行至软件工程的人士。",
+          "Hillel Wayne 的交叉项目旨在探究在两个领域均有实际经验的人是否认为软件工作属于工程，受访者的回答是肯定的，但也指出许多写软件的人并未在进行软件工程。",
+          "来源叙事重点：反对将手写代码贬抑为小众消遣的“手艺人编程”（artisanal programming），批判行业将“软件工程师”头衔让渡给 AI/vibecoding 依赖者，主张通过夺回话语权确立“无 AI 软件工程”的正统性与专业尊严，谴责技术社区忽视可靠性与反智倾向"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T11:39:43.000Z",
+            "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/"
+          }
+        ]
+      },
+      {
+        "id": "story--universe-precision-html-21d98a9ce742af79",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Researchers pinpoint key early-universe measurement with record precision",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:00:01.000Z",
+        "pubTime": "2026-09-13 20:00",
+        "url": "https://phys.org/news/2026-09-key-early-universe-precision.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-pinpoint-k.jpg",
+        "fullContent": "An international team, including researchers from the University of Minnesota Twin Cities, has reached a major milestone in \"precision cosmology\" by measuring the amount of helium created in the universe's first five minutes with unprecedented accuracy.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-13 20:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-key-early-universe-precision.html",
+            "publishedAt": "2026-09-13T12:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-auffmann-besserie-livres-b9b37b17af54d56b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pendaisons, vengeance et spoliations : trois livres pour raconter les cicatrices de la guerre",
+        "source": "France 24 (FR 官方法语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "fr",
+        "publishedAt": "2026-09-13T12:43:01.000Z",
+        "pubTime": "2026-09-13 20:43",
+        "url": "https://www.france24.com/fr/culture/20260913-rentree-litteraire-seconde-guerre-mondiale-devillers-kauffmann-besserie-livres",
+        "imageUrl": "https://s.france24.com/media/display/af692c84-ac28-11f1-9c28-005056bfb2b6/w:1024/p:16x9/main-rentree-litteraire.png",
+        "fullContent": "Cette année, la rentrée littéraire fait une place notable aux romans et récits inspirés ou ancrés dans la Seconde Guerre mondiale. France 24 a sélectionné trois ouvrages qui explorent des aspects méconnus de cette période sombre de notre histoire.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (FR 官方法语原版)】于 2026-09-13 20:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (FR 官方法语原版)",
+            "url": "https://www.france24.com/fr/culture/20260913-rentree-litteraire-seconde-guerre-mondiale-devillers-kauffmann-besserie-livres",
+            "publishedAt": "2026-09-13T12:43:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-it-once-swallowed-planet-2b656074a0a07455",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:01:52.000Z",
+        "pubTime": "2026-09-13 20:01",
+        "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+        "imageUrl": null,
+        "fullContent": "drupal-media[data-view-mode=half_page_width] { display: inline-block; width: 50%; }\n\nIt is thought the Sun may have engulfed a super-Earth-sized planet early in its history.\n\nNow a new study has gone a step further by suggesting that such an event may have left behind detectable clues inside our star which could still be visible today.\n\nThis idea of a measurable signature or 'fingerprints' in the present-day solar interior was explored by research published today in Monthly Notices of the Royal Astronomical Society.\n\nProfessor Mutlu Yildiz, of Ege University in Turkey, said: \"Our new study suggests that a planet several times more massive than Earth may have fallen into the young Sun and left a lasting chemical imprint deep inside it.\n\n\"By modelling the Sun's evolution and comparing the results with precise observations of its interior, we find that the ingestion of a super-Earth could help explain long-standing differences between standard solar models and observations, including subtle changes in the Sun's internal structure and its depleted lithium abundance.\"\n\nResearchers also found that such a world could survive its passage through the Sun's outer layers while losing very little mass, which suggests that planets may leave detectable fingerprints inside their host stars long after they have disappeared.\n\nFor many years, solar models based on the standard physics of stellar evolution have had difficulty reproducing some helioseismic observations simultaneously, particularly the sound-speed structure just below the convection zone and the depth of the solar convection zone.\n\nAt the same time, the Sun shows a strong and well-known depletion of lithium at its surface.\n\n\"We were interested whether these problems might have a common origin in the early chemical history of the Sun,\" Professor Yildiz explained.\n\n\"Young stars are surrounded by protoplanetary discs, where substantial amounts of material can move between the disc and the star.\n\n\"Since planets are made of material that is chemically different from the gas in the disc, we wondered whether the early engulfment of a planet could have left a chemical signature inside the young Sun.\"\n\nThe researchers used the MESA stellar-evolution code to test their idea. They explored different accretion histories and compared the resulting solar models with helioseismic constraints and surface abundances, while also testing alternative explanations involving the equation of state, opacity, and different prescriptions for turbulent and convective mixing.\n\nTheir results favour a scenario in which the young Sun engulfed a super-Earth around 5–10 times the mass of Earth.\n\nImportantly, their modelling also does not explain just one puzzle. It simultaneously matches several independent measurements of the Sun, including observations of its interior and its unusually low lithium abundance.\n\n\"We thought planetary engulfment might affect the solar structure but did not expect the calculations to converge on such a specific super-Earth mass range,\" said Professor Yildiz. \"That was one of the most interesting outcomes of the study.\"\n\nHe added that while it may not be possible to definitively prove the Sun swallowed a planet, if the predicted structural and chemical signature could be independently identified through helioseismic or other observations, it would provide strong evidence for such an event happening billions of years ago.\n\nAstronomers have long wondered why many other star systems appear to have large super-Earths, while ours has none.\n\nThe new study cites previous research from a decade ago by Martin & Livio (2016), which suggested that one or more super-Earths could have formed inside the orbit of Mercury and migrated inward through the gas disc, potentially falling into the young Sun.\n\nHowever, although this research provided a theoretical pathway for an engulfment event, it did not require that such a planet was ultimately swallowed by our star.\n\n\"The earlier work proposed that a super-Earth could have formed and migrated into the young Sun. Our paper asks whether the Sun itself could still carry observable evidence that such an engulfment actually happened, and we believe it could,\" Professor Yildiz concluded.\n\n\"The next step is to see if these fingerprints can be independently detected.\"\n\nRoyal Astronomical Society\n\nMob: +44 (0)7802 877 700\n\nProfessor Mutlu Yildiz\n\nmutlu.yildiz@ege.edu.tr\n\nSwallowed by the Sun\n\nCaption: An artist's impression of a star engulfing a planet. The blue line traces the path of the planet as it spirals toward the star and ultimately collides with it.\n\nCredit: NASA, ESA, CSA, Ralf Crawford (STScI)\n\nThe paper 'Planetary engulfment as a solution to solar-model discrepancies and its implications for planetary systems' by M. Yildiz has been published in Monthly Notices of the Royal Astronomical Society. DOI: 10.1093/mnras/stag1527.\n\nAbout the Royal Astronomical Society\n\nThe Royal Astronomical Society (RAS), founded in 1820, encourages and promotes the study of astronomy, solar-system science, geophysics and closely related branches of science.\n\nThe RAS organises scientific meetings, publishes international research journals, recognises outstanding achievements by the award of medals and prizes, maintains an extensive library, supports education through grants and outreach activities and represents UK astronomy nationally and internationally. Its more than 4,000 members (Fellows), a third based overseas, include scientific researchers in universities, observatories and laboratories as well as historians of astronomy and others.\n\nThe RAS accepts papers for its journals based on the principle of successful peer review, following which experts on the Editorial Boards accept the papers for publication. The Society issues press releases based on a similar principle, but the organisations and scientists concerned have overall responsibility for their content.\n\nKeep up with the RAS on Instagram, Bluesky, LinkedIn, Facebook and YouTube.\n\nDownload the RAS Supermassive podcast",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 36,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "土耳其埃格大学（Ege University）的Mutlu Yildiz教授在《英国皇家天文学会月刊》（Monthly Notices of the Royal Astronomical Society）发表了一篇题为《Planetary engulfment as a solution to solar-model discrepancies and its implications for planetary systems》的研究论文（DOI: 10.1093/mnras/stag1527）。",
+          "该研究使用了MESA恒星演化计算代码来模拟太阳的演化历程及不同吸积情境。",
+          "来源叙事重点：重点报道土耳其埃格大学Mutlu Yildiz教授的最新恒星演化模拟研究，阐释该研究如何通过提出“年轻太阳曾吞噬一颗5至10倍地球质量的超级地球”假说，一次性解释日震观测中声速结构/对流区深度与标准模型不符、以及表面锂元素极度匮乏等长期存在的科学谜团，并探讨未来观测印证该假说的可能性。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T12:01:52.000Z",
+            "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet"
+          }
+        ]
+      },
+      {
+        "id": "story--prediction-markets-html-9a6ac02b59fcfcec",
+        "title": "NFL赛季与中期选举交汇，预测市场迎来关键秋季周期",
+        "originalTitle": "NFL and midterm elections set up prediction markets for a critical fall season",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T11:52:33.000Z",
+        "pubTime": "2026-09-13 19:52",
+        "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
+        "imageUrl": null,
+        "fullContent": "Prediction markets that rode politics and sports to new heights the past two years are betting on their convergence this autumn to drive even more adoption.\n\nIn 2024, event contract exchanges entered the mainstream with trades tied to the presidential election that year. Then, in September 2025, the start of the NFL season a year ago marked the beginning of a surge in prediction market trading volume that has yet to slow down.\n\nPrediction markets began another NFL season on Wednesday night, when the New England Patriots and Seattle Seahawks dueled it out in a rematch of the 2026 Super Bowl. Labor Day also marked what political observers always consider the start of the midterm election campaign season.\n\nThis year, prediction markets enter the fall bigger than they've ever been, with daily notional trading volume now consistently in the billions, two dominant incumbents and a host of smaller exchanges chasing them to take some share of the market. And now the two events that separately brought prediction markets mainstream, are happening together over just a few months.\n\n\"You have a bit of a supercycle occurring right now within the prediction markets,\" said Robinhood's general manager for futures and prediction markets, JB Mackenzie.\n\nOther events are in the wings this season, too, with traders showing greater interest in economic contracts linked to where a hard-to-read Federal Reserve may take interest rates next week, and Major League Baseball playoffs in full swing in October.\n\nPrediction platforms have rushed to prepare for the fall's events. That will continue so long as the markets continue to get the majority of their volume from sports offerings, said Seni Thomas, CEO at EDGE Markets, a financial technology company working in sports betting and prediction markets.\n\nThis season could prove crucial, especially for newer platforms. \"This NFL cycle is the real key, make or break\" for many newer companies, Thomas said.\n\nKalshi experienced a record $2.3 billion in volume traded on Saturday, the first day of college football, and unveiled a feature for speculators who participated in 2025 NFL season markets to track how they performed before this season's kickoff. It has also expanded partnerships with individual sports teams ahead of the MLB playoff season.\n\nBoth platforms suffered glitches as college football play began. Polymarket's U.S. platform was down much of Saturday, and any account that experienced losses due to the outage was eventually refunded. Kalshi prematurely resolved a market on the University of Michigan game, paying traders as if the underdog Western Michigan had pulled off an upset. Later, Kalshi corrected the Michigan result and paid out accordingly.\n\nThe platforms are leaning into sports, even while battling in court with states across the country that say sports-related event contracts amount to gambling and should fall under their regulatory purview rather than the Commodity Futures Trading Commission, a Wall Street watchdog.\n\n\"We operate pursuant to the regulations of the CFTC, and we'll continue to do so, and continue to work with stakeholders to run a safe and trusted product,\" said Ari Borod, president of sports business development at Polymarket in August before announcing a partnership with the New York Yankees.\n\nWhile the two largest prediction market platforms seek to build on their previous NFL success, others are also trying to capitalize on the same sporting events.\n\nRothera, a prediction market platform developed in a joint venture between Susquehanna International Group and Robinhood, is one of them. It saw volumes boom after going online in time for the FIFA World Cup over the summer.\n\n\"Rolling out all these sports, that's a big lift,\" CEO Thomas Chippas said. \"We've only been live since the last week of May ... We're going as fast as we can, as prudently we can.\"\n\nNovig, a platform that only lists sports event contracts, started an NFL marketing campaign on Wednesday with an ad featuring actress Sydney Sweeney, one of the first celebrities to work with a smaller exchange.\n\nProphetX, which launched in June focusing on sports-related event contracts, also has worked to get ready for the fall by revamping its consumer platform and focusing on boosting liquidity during the NFL season.\n\n\"Our revenue doubled from June to August,\" ProphetX co-founder and CEO Dean Sisun said in an interview. \"I would love to see it four to 5x by the end of the year on a run rate basis … I really think we can do that.\"\n\nWhile ProphetX features sports event contracts, Sisun said the platform is planning to launch midterm election-related markets too.\n\nRobinhood is featuring Rothera's elections-related contracts to users on its brokerage.\n\nIn the lead-up to November, Kalshi has launched several tools, such as a midterm elections hub in July, giving users data about political races all across the country. For election night, it's working on an in-person event, as well as contemplating the best way for traders and viewers to see how odds across races are changing as results pour in, Kalshi's head of politics growth Benjamin Freeman said.\n\nUnlike in 2024, when election-related event contracts weren't legal in the U.S. until a month before the presidential vote, \"there's a much longer runway to plan\" in 2026, said Benjamin Freeman, head of politics growth at Kalshi.\n\nThe midterms also give platforms an opportunity to remind the public that they're more than just sports, even as the majority of trading volume continues to come from those contests.\n\n\"This week it's probably going to be a lot more about NFL,\" Mackenzie of Robinhood said, \"but I think that's what's interesting about prediction markets. It evolves based upon what people want to be trading and what's in the news cycle.\"\n\nDisclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "过去两年凭借政治与体育事件跃升至新高度的预测市场，正押注于今年秋季这两大领域的交汇，以推动用户采纳率的进一步提升。\n\n2024年，事件合约交易所凭借当年与总统大选挂钩的交易进入主流视野。随后，在2025年9月，一年前NFL赛季的开启标志着预测市场交易量迎来一轮激增，且该增长势头至今未见放缓。\n\n周三晚间，随着新英格兰爱国者队与西雅图海鹰队重演2026年超级碗对决，预测市场迎来了又一个NFL赛季。与此同时，劳工节通常也被政治观察家视为中期选举竞选季的开端。\n\n今年，预测市场以空前的规模迈入秋季，每日名义交易量已稳定维持在数十亿美元级别，两家占据主导地位的龙头机构正面临一众小型交易所的分食竞争。如今，曾分别推动预测市场走向主流的两大重磅事件，在短短数月内同时发生。\n\nRobinhood期货与预测市场总经理JB Mackenzie表示：“预测市场目前正迎来一轮超级周期。”\n\n本季还有其他事件蓄势待发。交易员对经济类合约表现出了更浓厚的兴趣，这些合约与难以预测的美联储下周可能采取的利率举措挂钩；此外，美国职业棒球大联盟（MLB）季后赛也将在10月全面打响。\n\n预测平台纷纷加紧筹备秋季各类事件。从事体育博彩与预测市场的金融科技公司EDGE Markets首席执行官Seni Thomas表示，只要市场的绝大部分交易量仍来自体育产品，这种筹备态势就将持续下去。\n\n这个赛季对新兴平台而言可能尤为关键。Thomas表示：“对于许多新公司来说，这个NFL周期是决定成败的真正关键。”\n\n作为大学橄榄球赛开赛首日，Kalshi在周六录得了创纪录的23亿美元交易量，并针对曾参与2025年NFL赛季市场的投机者推出了一项新功能，方便其在本赛季开球前追踪自身历史表现。在MLB季后赛来临前，该平台还扩大了与部分体育球队的合作关系。\n\n随着大学橄榄球比赛开打，两大平台均遭遇了技术故障。Polymarket的美国平台在周六大部分时间处于宕机状态，任何因宕机遭受损失的账户最终均获得了退款。Kalshi则过早结算了一场密歇根大学比赛的市场，在结算时错误地将处于劣势的西密歇根大学判定为爆冷获胜并进行了派息。随后，Kalshi更正了密歇根大学的比赛结果，并重新进行了相应结算。\n\n尽管各平台正在全美多地法庭应对诉讼，但它们仍在向体育领域倾斜。全美多个州认为体育相关事件合约实质上构成赌博，应纳入各州监管管辖范畴，而非归由华尔街监管机构商品期货交易委员会（CFTC）监管。\n\nPolymarket体育业务拓展总裁Ari Borod在8月宣布与纽约洋基队达成合作前表示：“我们依据CFTC的法规开展运营，今后也将继续如此，并将持续与各利益相关方合作，运营安全可信的产品。”\n\n在两大预测市场巨头试图延续此前在NFL领域的成功之际，其他竞争对手也在力图利用相同的体育赛事掘金。\n\n由萨斯奎汉纳国际集团（Susquehanna International Group）与Robinhood合资开发的预测市场平台Rothera便是其中之一。该平台赶在夏季国际足联世界杯期间上线后，交易量便迎来了爆发式增长。\n\n首席执行官Thomas Chippas表示：“推出所有这些体育项目是一项艰巨的任务。我们从5月最后一周才正式上线……我们正在尽一切可能以审慎而迅速的步伐向前推进。”\n\n仅提供体育事件合约的平台Novig于周三启动了一场NFL营销活动，并投放了由女演员西德妮·斯威尼（Sydney Sweeney）主演的广告，她是首批与小型交易所展开合作的名人之一。\n\n于6月上线、主打体育相关事件合约的ProphetX也致力于备战秋季，通过改版其面向消费者的平台，集中力量提升NFL赛季期间的流动性。\n\nProphetX联合创始人兼首席执行官Dean Sisun在接受采访时表示：“我们的营收从6月到8月翻了一番。我希望到今年年底，按运行率计算营收能增长4到5倍……我确实坚信我们能够做到。”\n\n尽管ProphetX以体育事件合约为主打，但Sisun透露，该平台亦计划推出中期选举相关的市场。\n\nRobinhood正向其经纪业务用户主推Rothera的选举相关合约。\n\n在11月大选临近之际，Kalshi推出了多款工具，例如7月上线的中期选举中心，为用户提供全美各项政治竞选的数据。Kalshi政治业务增长主管Benjamin Freeman表示，针对选举之夜，平台正在筹划一场线下活动，并深入探讨向交易员和观众实时展示选情揭晓时各项胜率波动的最佳呈现方式。\n\nFreeman指出，与2024年直到大选投票前一个月相关事件合约才在美国合法化不同，2026年“留给规划的时间要充裕得多”。\n\n中期选举也为各大平台提供了一个机会，向公众证明其业务不仅局限于体育赛事，即使目前交易量的大头依然来自体育竞赛。\n\nRobinhood的Mackenzie表示：“本周人们讨论的焦点可能更多集中在NFL上，但我认为这正是预测市场的魅力所在。它会根据大众想要交易的内容以及当下的新闻焦点而不断演变。”\n\n披露说明：CNBC与Kalshi存在商业合作关系，包括获客合作及持有少数股权。\n\n若您有保密新闻线索，请与我们联系。\n欢迎订阅本资讯直达邮箱，获取关于我们产品与服务的更多信息。\n数据为实时快照。*数据至少延迟15分钟。全球商业与金融资讯、股票行情、市场数据及分析。\n数据同时由相关服务商提供。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 26,
+        "keyTakeaways": [
+          "2024年，事件合约交易所伴随当年的总统大选交易进入主流视野。",
+          "2025年9月NFL赛季开始标志着预测市场交易量激增的起点。",
+          "来源叙事重点：聚焦2026年秋季NFL新赛季与美国中期选举叠加形成的预测市场“超级周期”，强调行业交易量激增、新老平台竞争加剧以及向主流金融/体育文化扩张的势头，同时点出平台技术宕机故障与各州赌博监管诉讼等潜在风险。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T11:52:33.000Z",
+            "url": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html"
+          }
+        ]
+      },
+      {
+        "id": "story-nt-target-building-homes-7e6ce5c880ad4a18",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Only slim chance target of building 1.5m homes in England will be met, minister says",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T11:23:10.000Z",
+        "pubTime": "2026-09-13 19:23",
+        "url": "https://www.theguardian.com/society/2026/sep/13/slim-chance-government-target-building-homes",
+        "imageUrl": "https://i.guim.co.uk/img/media/b2fa224f6632e69f64ab5361fca2a9ef8d6777e7/259_0_3050_2440/master/3050.jpg?width=140&quality=85&auto=format&fit=max&s=ba8477f813118ce9a4fdb287008db857",
+        "fullContent": "Angela Rayner says manifesto pledge is not being dropped but focus is now on building council houses\n\nUK politics live – latest updates\n\nThe government is unlikely to meet its target of building 1.5m homes in England, Angela Rayner has acknowledged, saying there was only a “slim chance” enough houses would be built before the next election.\n\nThe manifesto pledge to build 1.5m houses by the next election was a “stretch target”, the communities secretary added, but said it was not being ditched and she was “definitely not giving up”.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "安吉拉·雷纳承认，政府在下次大选前在英格兰建造150万套住房的目标不太可能实现，实现该目标的可能性很小（slim chance）。",
+          "安吉拉·雷纳表示，在下次大选前建造150万套住房的竞选宣言承诺是一个“延伸目标”（stretch target），但该承诺并未被放弃，目前的重点是建造市政公租房（council houses）。",
+          "来源叙事重点：聚焦副首相兼社区大臣安吉拉·雷纳公开承认政府难以实现大选前建造150万套住房的核心承诺，重点突出政府政策口径的微妙转向——将原量化目标重构为“延伸目标”，并将实际重心转向建设市政公租房。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T11:23:10.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/13/slim-chance-government-target-building-homes"
+          }
+        ]
+      },
+      {
+        "id": "story-sh-evolved-distinct-html-6848fe156e4ade4c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ancient armored fish evolved two distinct ways to crush prey 385 million years ago",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T08:13:44.000Z",
+        "pubTime": "2026-09-13 16:13",
+        "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/jaws-tell-tales-how-an-1.jpg",
+        "fullContent": "Long before dinosaurs appeared on Earth, fierce predatory fish developed crushing jaws and sharp teeth to survive and diversify in ancient oceans.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-13 16:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-ancient-armored-fish-evolved-distinct.html",
+            "publishedAt": "2026-09-13T08:13:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-politics-2187021-92dca2f28f555a86",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Zelensky’s statement on retaliation for energy strikes escalatory — Kremlin",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:42:01.000Z",
+        "pubTime": "2026-09-13 20:42",
+        "url": "https://tass.com/politics/2187021",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 13. /TASS/. Vladimir Zelensky’s remarks about Ukraine retaliating for strikes on energy infrastructure represent another attempt to escalate tensions, Kremlin Spokesman Dmitry Peskov told Vesti journalist Pavel Zarubin.\n\nZelensky made the remarks earlier in an interview with journalist Fareed Zakaria.\n\n\"A 40-day plan to deal a crushing blow to Russia and its economy has already been mentioned many times. That was a significant escalatory step. This latest statement is in the same escalatory vein,\" the Kremlin spokesman said.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "克里姆林宫发言人德米特里·佩斯科夫对《Vesti》记者帕维尔·扎鲁宾表示，泽连斯基关于乌克兰报复能源基础设施遇袭的言论是升级局势的又一次企图。",
+          "泽连斯基此前在接受记者法里德·扎卡里亚（Fareed Zakaria）采访时发表了有关报复能源设施遇袭的相关言论。",
+          "来源叙事重点：将乌克兰关于报复能源设施遇袭的言论单方面定性为刻意升级局势的挑衅行为，并借此强化乌方企图通过所谓“40天计划”打击俄经济的对抗叙事。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T12:42:01.000Z",
+            "url": "https://tass.com/politics/2187021"
+          }
+        ]
+      },
+      {
+        "id": "story-car-is-selling-your-data-d7586ac65e67e293",
+        "title": "你的汽车正在倒卖你的数据",
+        "originalTitle": "Your car is selling your data",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T12:00:00.000Z",
+        "pubTime": "2026-09-13 20:00",
+        "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Transportation\n\nThe amount of data about you that many cars collect — and sell to third parties — is staggering.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Andrew Hawkins\n\nEarlier this year, the Federal Trade Commission issued an unprecedented penalty against General Motors: a five-year ban on selling customer data to consumer reporting agencies and third-party data brokers.\n\nFor years, GM had been collecting all sorts of data on its customers — such as how often they sped or whether they drove at night — and selling it to brokers to generate risk profiles for insurance companies. More often than not, drivers were unaware of the degree to which their data was being collected. Many had unknowingly consented to it by signing up for an OnStar connected services plan, which activated a feature called Smart Driver that collected their driving data.\n\nGM was then turning around and sharing that data with two data brokers, LexisNexis and Verisk, both of which work with the insurance industry. In a 2024 blockbuster investigative report by The New York Times, some drivers said their insurance rates went up as a result of the data collection. The enrollment process was so confusing that many vehicle owners had no idea their data was being shared. Under the settlement with the FTC, GM has to make it easier for drivers to turn off location tracking, as well as enable them to access and delete their data collected by the automaker.\n\nBut GM isn’t the only automaker vacuuming up data on its customers. A team of researchers from the Mozilla Foundation spent months examining the privacy policies of all the major car companies for a report they were working on in 2023. Their conclusion: Every single one had “horrible privacy and security,” said Jen Caltrider, who helped author the study. Not only that, but customers were forced to accept overlapping policies for the car, the connected services, the smartphone app, and the financial services through which they received their loan — all of which included data collection provisions.\n\n“And so it was really overwhelming trying to understand what was going on,” Caltrider said.\n\nThere has been plenty of corroborating evidence for this. Consumer Reports published its own investigation last year that concluded “nearly every automaker that sells cars in the U.S. is similarly collecting and sharing so-called ‘driver behavior data’ with other companies and continues to do so.”\n\nCars are particularly problematic compared to phones because the privacy controls are less intuitive. A smartphone owner can generally find and tweak their privacy settings. With a vehicle, the data collection is spread across multiple systems and policies, making it much harder for consumers to understand what is happening. It feels like a free-for-all because automakers are collecting enormous amounts of information without much public scrutiny.\n\nAfter GM was penalized as a result of the Times investigation, the issue of data privacy and cars appears to finally be getting some scrutiny. But as is often the case, policymakers may be missing the mark on how to address it.\n\nLast December, a trio of House Republicans introduced the Data Rights for Information and Vehicle Electronics in Real-time, or DRIVER, Act. According to these lawmakers, the bill “reaffirms a basic principle: if you own the vehicle, you should own the data it generates.”\n\nBut while the bill would give vehicle owners a bit more control over their data, it would also allow automakers to continue gathering and selling it to third-party data brokers, which makes it a nonstarter for privacy advocates. As Caltrider notes, access and deletion rights are not the same thing as preventing excess collection in the first place. If an automaker can collect enormous amounts of information and the consumer must then go through an arduous process to discover what was collected and request that it be deleted, the burden remains on the individual. Most privacy advocates would rather see a system in which automakers simply do not collect so much information to begin with.\n\nThe issue has even risen to the level of MAGA World. Last July, Donald Trump’s Transportation Secretary, Sean Duffy, sent a letter to Congress outlining the administration’s policy priorities for the upcoming surface transportation reauthorization bill. Tucked in the letter was a new concept called “the Freedom Car,” which Duffy described as Americans’ right to “drive disconnected and non-automated” vehicles. The proposal would ban the government from requiring that vehicles be equipped with automated driving systems or have the capability to transmit data wirelessly — which, to my knowledge, no one is trying to do.\n\nIt’s unclear whether the DRIVER Act or the Freedom Car will ever clear the hurdles in Washington to become real policies. What is clear is that there is significant demand for simpler vehicles. People are asking why they can’t just buy a car without all the sensors and data collection. They look at new concepts like the Slate Truck and wonder whether they could also use something more bare-bones.\n\nSure, consumers may accept useful safety equipment such as backup cameras, but many don’t want their vehicle tracking everything they do — and they definitely don’t want to see ads on their vehicle screens. (BMW, I’m looking at you.) Nor do they want Flock cameras tracking their every movement while they drive down the street.\n\nBut automakers have every incentive to keep collecting data because there is money to be made from it. As long as the broader data economy rewards companies for gathering and monetizing information, there’s little reason for automakers to voluntarily abandon the practice.\n\nSee All The Stepback\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。\n查看所有交通资讯\n许多汽车收集关于您的数据量——并将其出售给第三方——令人咋舌。\n该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。\n查看安德鲁·霍金斯（Andrew Hawkins）的所有文章\n今年早些时候，美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出了一项史无前例的罚单：禁止其在五年内向消费者报告机构及第三方数据经纪商出售客户数据。\n多年来，通用汽车一直在收集客户的各类数据——例如超速频率或是否夜间驾驶——并将这些数据出售给经纪商，以便为保险公司生成风险画像。在大多数情况下，驾驶员根本没有意识到自己的数据被收集到了何种程度。许多人是在注册OnStar车联服务计划时不知不觉表示了同意，该服务激活了一项名为“智能驾驶员”（Smart Driver）的功能来收集他们的驾驶数据。\n随后，通用汽车转头便将这些数据共享给两家与保险行业合作的数据经纪商：律商联讯（LexisNexis）和Verisk。在《纽约时报》2024年的一篇重磅调查报道中，部分驾驶员表示，由于这些数据收集行为，他们的保险费率上涨了。当时的注册流程极其令人困惑，以至于许多车主根本不知道自己的数据正被共享出去。根据与FTC达成的和解协议，通用汽车必须让驾驶员能够更轻松地关闭位置追踪，并允许他们访问和删除汽车制造商所收集到的个人数据。\n然而，通用汽车并非唯一一家疯狂吸取客户数据的车企。来自Mozilla基金会的研究团队曾花费数月时间，对各大主要汽车公司的隐私政策进行了深入审查，以备其2023年的一份研究报告。协助撰写该研究的珍·考特里德（Jen Caltrider）表示，他们的结论是：每一家车企的“隐私与安全性都极其糟糕”。不仅如此，客户还被迫接受针对汽车、联网服务、智能手机应用以及办理购车贷款的金融服务等一系列重叠交叉的隐私政策——而所有这些政策均包含数据收集条款。\n考特里德说：“因此，试图弄清楚到底发生了什么，确实令人不堪重负。”\n对此已有大量的佐证。《消费者报告》（Consumer Reports）去年发表了自己的调查，结论是“几乎每一家在美国销售汽车的制造商，同样都在收集并向其他公司共享所谓的‘驾驶员行为数据’，并且目前仍在继续这么做”。\n与手机相比，汽车的问题尤为棘手，因为其隐私控制选项远没有手机那么直观。智能手机用户通常可以找到并调整其隐私设置。而在汽车上，数据收集分散在多个系统和政策之间，使得消费者更难了解正在发生的事情。这感觉就像是一场毫无秩序的混战，因为汽车制造商在几乎没有公众监督的情况下疯狂收集海量信息。\n在通用汽车因《纽约时报》的调查而受到处罚后，汽车与数据隐私问题似乎终于获得了一些关注。但正如往常一样，政策制定者在应对这一问题时可能没有切中要害。\n去年12月，三位众议院共和党议员提出了《实时车辆电子信息数据权利法案》（简称DRIVER法案）。据这些议员称，该法案“重申了一项基本原则：如果你拥有这辆车，你就应该拥有它所产生的数据”。\n然而，尽管该法案会赋予车主对自身数据稍多一些的控制权，但它同时也允许汽车制造商继续收集并出售给第三方数据经纪商，这使其在隐私倡导者眼中根本行不通。正如考特里德指出的那样，访问权和删除权并不能等同于从一开始就防止过度收集。如果车企可以先收集庞大的信息量，然后消费者必须经历繁琐复杂的流程去弄清楚收集了什么并要求将其删除，那么负担仍然完全落在了个人身上。大多数隐私倡导者更希望看到这样一种制度：汽车制造商从一开始就根本不得收集如此多的信息。\n这个问题甚至已经上升到了“让美国再次伟大”（MAGA）阵营的讨论层面。去年7月，唐纳德·特朗普任命的交通部长肖恩·达菲（Sean Duffy）致信国会，概述了本届政府针对即将出台的地面交通再授权法案的政策重点。信中暗含了一个名为“自由之车”（the Freedom Car）的新概念，达菲将其描述为美国人“驾驶非联网和非自动化”车辆的权利。该提案将禁止政府强制要求车辆配备自动驾驶系统或具备无线传输数据的能力——然而据我所知，目前根本没有人在试图推行这种强制要求。\n目前尚不清楚《DRIVER法案》或“自由之车”提案是否能克服华盛顿的重重阻碍真正成为政策。但显而易见的是，公众对更纯粹、更简单的车辆存在巨大的需求。人们不禁要问，为什么他们就不能购买一辆没有安装所有那些传感器和数据收集功能的汽车呢？他们看着诸如Slate Truck之类的新概念车，心里琢磨着自己是否也能用上一款配置更基础精简的座驾。\n诚然，消费者或许能够接受倒车摄像头等实用的安全设备，但许多人并不希望自己的车辆追踪自己的一举一动——他们也绝对不想在车机屏幕上看到广告。（宝马，我说的就是你。）他们同样不希望在街上行驶时被Flock车牌识别摄像头时刻追踪着自己的一举一动。\n但是，汽车制造商有充分的动力继续收集数据，因为这有利可图。只要整个广阔的数据经济依然在奖励那些收集信息并将其变现的公司，汽车制造商就几乎没有任何理由主动放弃这种做法。\n查看所有 The Stepback 专栏内容\n每日免费获取最重要的核心新闻摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出五年禁令，禁止其向消费者信用报告机构和第三方数据经纪商出售客户数据。",
+          "通用汽车此前通过其 OnStar 车联服务的 Smart Driver 功能收集包括超速频率、夜间驾驶等客户驾驶数据，并将其共享给 LexisNexis 和 Verisk 两家数据经纪商以生成面向保险公司的风险画像。",
+          "来源叙事重点：揭示现代智能汽车行业普遍且隐秘的个人驾驶数据收集与变现链条，批评监管执法与立法的滞后及偏颇，呼吁从源头遏制车企过度收集数据而非仅提供形式上的事后删除权。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T12:00:00.000Z",
+            "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data"
+          }
+        ]
+      },
+      {
+        "id": "story-7-4332-af34-ffc9ce45eadf-a80e4c4196ad559d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia hits evacuated Kyiv-Warsaw train on line used by foreign leaders",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T11:47:41.000Z",
+        "pubTime": "2026-09-13 19:47",
+        "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b31a1c7-c48e-4c9e-8cad-139370d6b4f6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Engine carriage struck on route used minutes earlier by ex-Swedish Prime Minister Carl Bildt and other officials returning from summit",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-13 19:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf",
+            "publishedAt": "2026-09-13T11:47:41.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-train-2-km-from-polish-3e180d356c088600",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia attacks passenger train 2 km from Polish border",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T10:38:11.000Z",
+        "pubTime": "2026-09-13 18:38",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wf487h/russia_attacks_passenger_train_2_km_from_polish/",
+        "imageUrl": "https://external-preview.redd.it/-utVJBzqTiE0tvDTv-4JUBlp4OASyk5NxT3CZAvNIb4.jpeg?width=640&crop=smart&auto=webp&s=5e85a9e929711344953953ee66b7b1ab156e828e",
+        "fullContent": "submitted by /u/pravda_eng_official [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-13 18:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wf487h/russia_attacks_passenger_train_2_km_from_polish/",
+            "publishedAt": "2026-09-13T10:38:11.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789261776298,
     "timeDisplay": "2026-09-13 09:09 (UTC+8)",
     "date": "2026-09-13",

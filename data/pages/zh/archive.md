@@ -24,14 +24,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **29** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **30** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-13 09:09 (UTC+8)
+- **最新归档时间**：2026-09-13 20:48 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-13 20:48 (UTC+8)" title="全球要闻情报简报 · 20:48" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-13 20:46 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】Perplexity 将端到端系统托付给 GPT-6 Astra：Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。；【undefined】别称自己为“手艺人程序员”：我本来一直想写点别的内容，却陷入了这个怪圈之中，现在我甚至有点害怕，担心自己是否成了某种奏效的宣传话术的受害者。；【undefined】NFL赛季与中期选举交汇，预测市场迎来关键秋季周期：过去两年凭借政治与体育事件跃升至新高度的预测市场，正押注于今年秋季这两大领域的交汇，以推动用户采纳率的进一步提升。；【undefined】你的汽车正在倒卖你的数据：该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看所有交通资讯 许多汽车收集关于您的数据量——并将其出售给第三方——令人咋舌。 该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看安德鲁·霍金斯（Andrew Hawkins）的所有文章 今年早些时候，美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出了一项史无前例的罚单：禁止其在五年内向消费者报告机构及第三方数据经纪商出售客户数；【undefined】APOD：2026年9月13日——升起在亚得里亚海上空的NEOWISE彗星：APOD：2026年9月13日——…… 每日天文一图（Astronomy Picture of the Day） 探索宇宙！每天都会展示一张反映我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。 若要观看此视频，请启用 JavaScript，并考虑升级至支持该功能的网页浏览器 升起在亚得里亚海上空的NEOWISE彗星 说明：这样的景象值得早起守候。就在四年多前，C/2020 F3（NEOWISE）彗星在黎明前升起，让早起守候的；【undefined】NFL首周马利克·威利斯与柯克·考辛斯正面交锋，突袭者主场让3分迎战迈阿密海豚：真希望我也能有一句像Red Zone节目主持人斯科特·汉森（Scott Hanson）那样让人过目难忘的开场白。无论我写出什么，都无法带来“连续7小时无广告橄榄球直播”那种令人血脉贲张的兴奋感。不过，这也正是等待着我们的盛宴。我们将迎来数小时不间断的橄榄球赛事，以及新赛季的首个完整赛程。这个周末我关注的第一场对决，正是迈阿密海豚对阵拉斯维加斯突袭者。；【undefined】theScore Bet 优惠码：在2026赛季NFL首个周日比赛前获取1000美元投注重置金：西雅图海鹰队捧起超级碗隆巴迪奖杯的场景仿佛就在昨天。如今，我们迎来了NFL新赛季第一周的全面开战，theScore Bet正通过其优惠码为新用户提供价值1000美元的投注重置金（Bet Reset），以迎接周日的揭幕战。；【undefined】Fanatics优惠码FOXNEWS350：首个NFL超级星期日，特定州可享1000美元奖金或投注20美元获350美元：2026年NFL赛季第一周，将在周日迎来十三场精彩对决。早场和下午场都有大量值得收看的比赛，而Fanatics则为你关注赛季开幕周末提供了一个绝佳的理由。
+
+**重点要闻索引：**
+- [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor) <span class="news-meta-time">🕒 2026-09-13 20:44</span>
+- [OpenAI News (官方动态)] [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-13 20:40</span>
+- [Lobste.rs (极客思想社区)] [别称自己为“手艺人程序员”](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/) <span class="news-meta-time">🕒 2026-09-13 19:39</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-key-early-universe-precision.html) <span class="news-meta-time">🕒 2026-09-13 20:00</span>
+- [France 24 (FR 官方法语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/fr/culture/20260913-rentree-litteraire-seconde-guerre-mondiale-devillers-kauffmann-besserie-livres) <span class="news-meta-time">🕒 2026-09-13 20:43</span>
+:::
 :::timeline-item{start="2026-09-13 09:09 (UTC+8)" title="全球要闻情报简报 · 09:09" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-13 09:07 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
