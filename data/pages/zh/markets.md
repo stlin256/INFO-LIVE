@@ -16,152 +16,115 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story--prediction-markets-html-9a6ac02b59fcfcec" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2259" data-content-paragraphs="29" data-published-at="2026-09-13T11:52:33.000Z" data-time-source="publication">
+<div id="story-n-source-ai-reading-list-76f60d64aa6d7890" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5843" data-content-paragraphs="36" data-published-at="2026-09-14T00:22:51.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
-    <span class="stance-badge">国际资本与华尔街视角</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 19:52</span>
-</div>
-
-### [NFL与中期选举助推预测市场迎来关键秋季周期](https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> NFL and midterm elections set up prediction markets for a critical fall season</div>
-
-<div class="article-body" data-article-body="true"><p>过去两年凭借政治和体育业务迈上新台阶的预测市场，正寄望于今年秋季这两大领域的交汇，以推动更广泛的用户普及。</p>
-<p>2024年，事件合约交易所随着当年与总统大选挂钩的交易而步入主流视野。随后在2025年9月，一年前NFL赛季的揭幕标志着预测市场交易量激增的开端，这一增长势头至今未见放缓。</p>
-<p>周三晚间，随着新英格兰爱国者队与西雅图海鹰队重演2026年超级碗对决，预测市场迎来了又一个NFL赛季。与此同时，劳动节也标志着政治观察人士普遍认定的中期选举竞选季的揭幕。</p>
-<p>今年，预测市场以空前的规模迈入秋季：每日名义交易量目前稳定在数十亿美元水平，两家占据主导地位的行业领头羊与众多中小型交易所同台竞技、争夺市场份额。而如今，曾分别推动预测市场走入主流的两大事件，将在短短几个月内同时登场。</p>
-<p>“目前预测市场内部正在出现某种超级周期，”Robinhood期货与预测市场总经理JB·麦肯齐（JB Mackenzie）表示。</p>
-<p>本季度还有其他重大事件即将展开：交易员对与美联储下周扑朔迷离的利率决策挂钩的经济合约表现出更大兴趣，而美国职业棒球大联盟（MLB）季后赛也将在10月全面打响。</p>
-<p>各大预测平台正紧锣密鼓地为秋季各类事件做准备。从事体育博彩与预测市场的金融科技公司EDGE Markets首席执行官塞尼·托马斯（Seni Thomas）表示，只要平台大部分交易量仍来自体育产品，这种势头就将持续下去。</p>
-<p>本赛季可能至关重要，尤其是对新兴平台而言。托马斯指出，对许多新公司来说，“本轮NFL周期是真正的关键所在，决定着成败存亡”。</p>
-<p>Kalshi在大学橄榄球赛开赛首日的周六创下了23亿美元的交易量纪录，并推出了一项新功能，让参与2025年NFL赛季市场的投机者在本赛季开球前追踪自己的过往表现。在MLB季后赛前夕，该公司还扩大了与多支个别运动队的合作关系。</p>
-<p>随着大学橄榄球赛开打，两家平台均遭遇了技术故障。Polymarket的美国平台在周六大部分时间宕机，因宕机遭受损失的账户最终均获得了退款。Kalshi则过早结算了一场密歇根大学的比赛市场，按不被看好的西密歇根大学爆冷获胜向交易员派发了款项。随后，Kalshi更正了密歇根大学的赛果并进行了相应赔付。</p>
-<p>这些平台正在加大对体育赛事的押注，尽管它们同时在与全美多州对簿公堂——各州主张与体育相关的事件合约等同于赌博，应归各州管辖，而非由华尔街监管机构美国商品期货交易委员会（CFTC）监管。</p>
-<p>“我们依据CFTC的法规开展运营，今后也将继续如此，并继续与各利益相关方合作，提供安全可信的产品，”Polymarket体育业务拓展总裁阿里·博罗德（Ari Borod）在8月宣布与纽约洋基队达成合作前表示。</p>
-<p>在这两大预测市场巨头力求巩固此前在NFL取得的成功之际，其他竞争对手也在试图从相同的体育赛事中分一杯羹。</p>
-<p>由萨斯奎汉纳国际集团（Susquehanna International Group）与Robinhood合资开发的预测市场平台Rothera便是其中之一。该平台赶在夏季国际足联世界杯期间上线后，迎来了交易量的爆发式增长。</p>
-<p>“全面铺开所有这些体育项目是一项艰巨的任务，”首席执行官托马斯·奇帕斯（Thomas Chippas）表示，“我们从5月最后一周才刚刚上线……我们正在尽可能快、同时也尽可能审慎地推进。”</p>
-<p>仅提供体育事件合约的平台Novig周三启动了一项NFL营销活动，并发布了由女演员悉尼·斯威尼（Sydney Sweeney）出演的广告，她是首批与较小型交易所合作的名人之一。</p>
-<p>于6月上线、主打体育相关事件合约的ProphetX也通过改造其面向消费者的平台并着力提升NFL赛季期间的流动性，积极备战秋季市场。</p>
-<p>“从6月到8月，我们的收入翻了一番，”ProphetX联合创始人兼首席执行官迪恩·西森（Dean Sisun）在接受采访时表示，“我希望到今年年底，按年化收益率折算能增长4到5倍……我坚信我们能够做到。”</p>
-<p>尽管ProphetX以体育事件合约为特色，西森表示该平台也正计划推出中期选举相关的市场。</p>
-<p>Robinhood正在向其证券经纪业务的用户主推Rothera的选举相关合约。</p>
-<p>在迈向11月的过程中，Kalshi推出了多项工具，例如7月份上线的“中期选举中心”，为用户提供全美各项竞选的数据。Kalshi政治业务增长主管本杰明·弗里曼（Benjamin Freeman）表示，针对选举之夜，该公司正在筹划一场线下活动，并深入探讨随着计票结果出炉让交易员和观众查看各项竞选赔率变动的最佳呈现方式。</p>
-<p>Kalshi政治业务增长主管本杰明·弗里曼表示，与2024年直到总统大选前一个月选举相关事件合约才在美国合法化不同，2026年“有了长得多的筹划窗口期”。</p>
-<p>中期选举也为各平台提供了一个向公众证明其不仅局限于体育领域的机会，尽管其大部分交易量仍来自体育赛事。</p>
-<p>“本周的焦点可能更多集中在NFL上，”Robinhood的麦肯齐说，“但我认为这正是预测市场的有趣之处。它会根据人们希望交易的内容以及新闻周期的热点不断演变。”</p>
-<p>利益披露：CNBC与Kalshi存在商业合作关系，其中包括获客业务及少数股权投资。</p>
-<p>有保密新闻线索？欢迎与我们联系。</p>
-<p>将此资讯发送至您的收件箱，并获取有关我们产品与服务的更多信息。</p>
-<p>数据为实时快照 *数据至少延迟15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。</p>
-<p>数据亦由以下机构提供</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【CNBC Markets (CNBC 市场官方英文)】于 2026-09-13 19:52 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
-  <span class="news-tag-pill">#CNBC</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Markets (CNBC 市场官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ws-articles-cx2z79n0eeno-49eac2969b438776" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1982" data-content-paragraphs="50" data-published-at="2026-09-13T16:57:58.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
-    <span class="stance-badge">英伦主流建制</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:57</span>
+  <span class="news-meta-time">🕒 2026-09-14 08:22</span>
 </div>
 
-### [访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论](https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump doubles down on united Ireland comments on day two of visit</div>
+### [开源人工智能与开放模型必读书单](https://www.interconnects.ai/p/open-source-ai-reading-list)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Open-Source AI and Open Models Reading List</div>
 
-<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a6/live/33fb3fc0-af7e-11f1-913a-7151f234deb3.jpg" alt="访爱尔兰第二天，特朗普再次重申支持“统一爱尔兰”言论" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>唐纳德·特朗普进入访问爱尔兰的第二天，他当天在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，出席爱尔兰公开赛。</p>
-<p>唐纳德·特朗普总统再次坚定表达了他对统一爱尔兰的支持。</p>
-<p>目前他正处于访问的第二天，这一天他在克莱尔郡敦贝格的特朗普国际高尔夫球场度过，现场观看爱尔兰公开赛。</p>
-<p>周六，特朗普在都柏林与爱尔兰总理迈克尔·马丁会晤时对记者表示，他非常乐见一个统一的爱尔兰。</p>
-<p>周日，他在自己的敦贝格高尔夫度假村发表讲话时表示，将爱尔兰和北爱尔兰“合在一起”是顺理成章的。</p>
-<p>在观看暂列赛事榜首的爱尔兰高尔夫球手肖恩·劳瑞开球后，他对记者发表了上述讲话。</p>
-<p>他把自己关于统一爱尔兰的表态形容为“一句相当寻常的评论”。</p>
-<p>该视频无法播放</p>
-<p>观看：特朗普称北爱尔兰加入爱尔兰是顺理成章的事</p>
-<p>他说：“我一直热爱爱尔兰人民。在我看来，既然有北爱尔兰和爱尔兰。”</p>
-<p>“将它们结合在一起，似乎一直以来都是再自然不过的事情之一。”</p>
-<p>“这只是我个人的看法，顺便说一句，很多人都同意这一点。”</p>
-<p>这位总统回避了有关苏格兰独立的问题。</p>
-<p>“我暂时不会谈论苏格兰，我会留到以后再说，”他说。</p>
-<p>当被问及英国首相安迪·伯纳姆关于“在北爱尔兰大多数人可能投赞成票之前不会举行关于爱尔兰统一的公投”的言论时，特朗普先生补充道：“大家都会这么说，但随后事情就会发生。”</p>
-<p>特朗普关于统一爱尔兰的言论可能瞄准了大西洋彼岸的受众</p>
-<p>唐纳德·特朗普发表统一爱尔兰言论后下一步会如何？</p>
-<p>爱尔兰总理表示，总统的言论并没有让他感到“意外”。</p>
-<p>周日在公开赛现场发表讲话时，马丁提到特朗普在圣帕特里克节庆祝活动期间于华盛顿举行的一场活动中曾询问北爱尔兰与爱尔兰共和国“合并”一事，有人认为这是对统一的看法。</p>
-<p>“他会申明这是他的观点。他认为统一是爱尔兰岛布局和构建的符合逻辑的方式，”马丁说。</p>
-<p>他补充道：“我认为部分反应有些过激了。这不应该让人感到意外。他对事情有着不同寻常的视角。”</p>
-<p>特朗普将于周日在敦贝格的特朗普国际高尔夫度假村颁发冠军奖杯，随后在结束为期两天的行程后乘机返回美国。</p>
-<p>周六，超过1万人游行穿过都柏林，抗议这位美国总统的到访。</p>
-<p>其他抗议此次访问的人士在周日乘坐大巴陆续抵达敦贝格，现场聚集了大约100名抗议者。</p>
-<p>据爱尔兰广播电视台（RTÉ）报道，爱尔兰警察（Gardai）将一小群人从总统下榻的酒店前劝离。</p>
-<p>周六晚间，三名女性因非法闯入敦贝格高尔夫球场而被捕，并在恩尼斯地区法院的特别庭审中出庭。</p>
-<p>来自戈尔韦的循道宗牧师史蒂文·福斯特牧师参加了敦贝格的反特朗普抗议活动。</p>
-<p>“我来到这里是因为作为耶稣的追随者，特朗普与我所坚持的一切完全相反，”他告诉BBC北爱尔兰分台。</p>
-<p>史蒂文·福斯特牧师在敦贝格抗议此次访问</p>
-<p>福斯特补充道：“作为教会领袖，我站出来非常重要，教会在这方面也需要表明立场。”</p>
-<p>福斯特表示，“给予他的这种礼遇释放了一个极其糟糕的信号”。</p>
-<p>企业主马丁·凯利表示，高尔夫球场对敦贝格来说是“一桩巨大的产业”</p>
-<p>然而，其他人则对特朗普的高尔夫球场给当地带来的利益和就业机会表示赞赏。</p>
-<p>来自敦贝格的当地商人马丁·凯利表示，该村拥有特朗普国际高尔夫球场“非常幸运”。</p>
-<p>“实话实说，它在这里是一个体量巨大的雇主，”他告诉BBC北爱尔兰分台。</p>
-<p>“这附近没有其他如此规模的企业了；他们是非常体面的雇主，也非常公平。”</p>
-<p>他表示，当地人对这里能举办高尔夫锦标赛感到“非常自豪”。</p>
-<p>“我们在这里不谈政治，我们谈的是商业。这对我们来说是一笔巨大的生意。敦贝格是世界上最好的林克斯球场之一。唐纳德·特朗普并不完美，但他做得其实也还不错。”</p>
-<p>“希望在上帝的保佑下肖恩·劳瑞现在能够夺冠，也希望他赛后能来敦贝格喝杯啤酒，如果他来的话我请客。”</p>
-<p>酒吧老板肖尔斯·默福德表示高尔夫球场为当地经济提供了“巨大的提振”</p>
-<p>肖尔斯·默福德在敦贝格拥有默福德酒吧。他将这场锦标赛形容为“令人难以置信”。</p>
-<p>“如果你看看街上载满乘客来来往往的红色双层巴士，我们从没想过能见到这样的景象。”</p>
-<p>他表示，高尔夫球场是一个大型雇主，正让敦贝格保持“活力”。</p>
-<p>“克莱尔西部的大多数乡村都在走向衰败，年轻人外出读大学后就不再回来了。”</p>
-<p>“高尔夫球场那里雇用了300多人，这是对当地经济的巨大促进。都柏林有像英特尔这样的大公司，而在我们这里，高尔夫球场就是我们的英特尔。”</p>
-<p>“如果不是因为高尔夫球场坐落在那儿，我可能根本不会接手这家酒吧生意。”</p>
-<p>“周六晚上我们酒吧接待了1000多人，周五晚上也是一样，所以村里到处都是人，看到这幅景象真的很棒。”</p>
-<p>统一的爱尔兰将是“一件好事”，特朗普在访问爱尔兰第一天表示</p>
-<p>特朗普就统一爱尔兰言论开玩笑</p>
-<p>从肯尼迪到拜登，特朗普重踏通往“翡翠岛”的熟悉足迹</p></div>
+<div class="article-body" data-article-body="true"><p>大家好！我最近一直在筹备一些面向公众和政策层面的关于开放模型的写作，因此我想分享一下我的研究资料。这里面有很多非常精彩的内容。</p>
+<p>这是我整理的过去几年关于开放模型的最佳文章列表。如果有人打算快速深入了解这一领域，阅读这些文章将能对整体现状获得一份全面的综述。请在下方评论推荐想要补充的文章，我会随时间持续更新。</p>
+<p>清单最近更新时间：2026年9月13日</p>
+<p>什么是开放模型、人们为什么发布它们、它们如何与商业战略挂钩，以及面临哪些风险。</p>
+<p>关于开源AI战略，梳理了企业过去如何利用开源软件，以及这对AI而言意味着什么的早期迹象——《从开源软件到开源战略》（From Open Source Software to Open Source Strategy），比尔·格利（Bill Gurley）（2026年5月）。</p>
+<p>关于Meta为何发布开放模型，最清晰的阐述之一来自马克·扎克伯格在Llama 3发布前后的评论——《开源AI是前行之路》（Open Source AI is the Path Forward），马克·扎克伯格（Mark Zuckerberg）（2024年7月）。</p>
+<p>为什么你应该根据许可协议、模型运行成本、数据获取权限等因素，从渐进梯度而非开源/闭源非黑即白的二元对立视角来看待开放模型——《生成式AI发布的梯度：方法与考量》（The Gradient of Generative AI Release: Methods and Considerations），艾琳·索莱曼（Irene Solaiman）（2023年2月）。</p>
+<p>开放模型在未来经济中扮演的角色，即作为强大闭源模型的互补品。为什么开放模型将被世界各地的企业用于构建定制的智能体工作流——《开放模型的未来走向》（What comes next with open models），内森·兰伯特（Nathan Lambert）/ Interconnects（2026年3月）。</p>
+<p>关于开放模型如何通过为庞大的现有经济板块提供互补工具来获取价值的立场，借鉴了知识产权历史以及当前关于开源与闭源模型的辩论（例如蒸馏技术）——《开源与闭源AI的简明经济学》（Some Simple Economics of Open versus Closed AI），克里斯蒂安·卡塔利尼（Christian Catalini）（2026年8月）。</p>
+<p>为什么开放模型在性能上将始终落后于闭源模型——《永远在追赶的开放模型》（Open models in perpetual catch-up），内森·兰伯特 / Interconnects（2026年2月）。</p>
+<p>开放模型与闭源模型在应用普及上的分歧所在——《开放与闭源模型处于不同的指数曲线上》（Open and closed models are on different exponentials），内森·兰伯特 / Interconnects（2026年6月）。</p>
+<p>关于如何在认真对待安全性的同时，平衡发布强大的开放权重模型的一篇条理清晰的阐述——《迈向开放权重的安全之路》（A Safe Path to Open Weights），思维机器实验室（Thinking Machines Lab）（2026年7月）。</p>
+<p>关于边际风险的早期论文，该论文表明以文本为主的LLM对模型既有潜在风险的增加极其微小——《论开放基础模型的社会影响》（On the Societal Impact of Open Foundation Models），萨亚什·卡普尔（Sayash Kapoor）、里希·博马萨尼（Rishi Bommasani）等人（2024年2月）。</p>
+<p>闭源模型的安全防护护栏屡屡被绕过，在开放权重模型的假设性风险尚未显现之前，就已经引发了大量现实的AI风险——《不安全的开源AI神话》（The Myth of unsafe Open Source AI），弗洛里安·布兰德（Florian Brand）（2026年6月）。</p>
+<p>开放数据的大规模减少，这是阻碍真正开放AI研究的一个关键因素——《危机中的知情同意：AI数据公地的急剧萎缩》（Consent in Crisis: The Rapid Decline of the AI Data Commons），谢恩·朗普雷（Shayne Longpre）等人（2024年7月）。</p>
+<p>关于强大的中国模型如何影响AI生态系统的最新范例——《Kimi K3：开放权重的升级战》（Kimi K3: The open-weights escalation），内森·兰伯特 / Interconnects（2026年7月）/《GLM-5.2是开放智能体的阶跃式转变》（GLM-5.2 is the step change for open agents），内森·兰伯特 / Interconnects（2026年6月）。</p>
+<p>2025年开放模型发展历程总结：内森·兰伯特谈中国AI生态系统与开放模型差距 | The Curve 2025，金门AI研究所（Golden Gate Institute for AI）（2025年11月）。</p>
+<p>[选读] 开放模型应用普及的最新数据：中美模型采纳情况的总体概述——《ATOM报告》（The ATOM Report）（2026年4月）；按地区划分的模型下载、衍生和研究采纳最新数据——Interconnects采纳情况仪表板（Interconnects Adoption Dashboard）；生态系统中最值得关注的核心模型——Interconnects工件中心（Interconnects Artifacts Hub）。</p>
+<p>谁在引领开放模型、这一格局如何随时间演变、中国如何保持其领先地位，以及相关历史背景。</p>
+<p>面对来自中国的日益激烈的竞争，美国为何需要投资开放模型以推动基础研发/创新——《ATOM项目》（The ATOM Project），内森·兰伯特（2025年8月）。</p>
+<p>从何种视角看待开放模型有助于激发研究创新并为AI带来有益成果——《我为何构建开放语言模型》（Why I build open language models），内森·兰伯特 / Interconnects（2024年10月）。</p>
+<p>为什么开放模型能够促进教育、创新和竞争这三项美国核心价值观——《禁止开源AI将是一个错误》（Banning Open Source AI Would Be A Mistake），内森·兰伯特、许科文（Kevin Xu）（2026年6月）。</p>
+<p>为什么近期基于“氛围感知监管”（vibe regulation）/模糊的联邦监督机制，让我们在不久的将来面临前沿开放模型被冲突对抗甚至被禁的局面——《开放模型只剩6个月寿命》（6 months to live for open models），内森·兰伯特 / Interconnects（2026年7月）。</p>
+<p>[选读] 展现最前沿理解认知的完全开放语言模型技术报告：Pythia（EleutherAI，2023年）、Olmo（2024年）、Olmo 2（2024年）、Olmo 3（2025年）。</p>
+<p>走向AI时代的中国开源历史——《中国开源：权威历史》（Chinese Open Source: A Definitive History），许科文（2026年3月）。</p>
+<p>中国在开源领域的结构性优势——《中国在开源AI领域的结构性优势》（China’s Structural Advantage in Open Source AI），许科文（2025年6月）。</p>
+<p>中国实验室自身如何讨论模型构建，以及中国产业界与美国的差异——《来自中国AI实验室内部的观察笔记》（Notes from inside China’s AI labs），内森·兰伯特 / Interconnects（2026年5月）。</p>
+<p>为什么中国实验室如此擅长跟上美国的竞争步伐（例如在公平的性能比较中，美国开放权重实验室很难与中国实验室抗衡）——《GLM-5.3：中国实验室如何紧跟前沿步伐》（GLM-5.3: How Chinese labs keep stride with the frontier），内森·兰伯特 / Interconnects（2026年8月）。</p>
+<p>西方企业大量采用中国模型引发了监管层面的高度关注（更多讨论）：</p>
+<p>立法者已对以下使用中国模型的公司展开质询审查：DoorDash（CNBC，2026年7月31日）、Airbnb（彭博社，2026年4月29日；Semafor，2026年4月29日）、Anysphere / Cursor（彭博社，2026年4月29日；Semafor，2026年4月29日）、苹果（路透社，2025年5月17日）。</p>
+<p>其他西方公司则非常公开地将使用的模型从美国闭源实验室转向中国开放模型以削减成本。例子包括Perplexity高调且迅速地采用了DeepSeek R1（《福布斯》，2025年1月28日），以及汤森路透基于Qwen进行开发以弃用Claude（《商业内幕》，2026年8月24日）。</p>
+<p>什么是知识蒸馏，它对中国实验室有多大帮助，开放模型如何影响网络安全等前沿AI风险，以及开放模型距离闭源前沿水平到底还有多远？</p>
+<p>近年来开源与闭源模型之间的差距已经缩小，目前大约维持在4至6个月左右。自2024年左右以来，领先的开放模型均出自中国实验室。</p>
+<p>SemiAnalysis的文章进行了独立评测，得出的结论是：随着时间的推移，开放模型与闭源前沿性能的差距正在不断缩小——《开放模型正在迎头赶上吗？》（Are Open Models Catching Up?），SemiAnalysis（2026年8月）。</p>
+<p>开放模型虽然未处于绝对性能前沿，但处于帕累托成本前沿。例如DeepSeek V4 Flash，参见Artificial Analysis上的评测和成本数据。</p>
+<p>来自 Epoch AI 和 Artificial Analysis（以及相关的中美对比）的数据来源，展示了开源与闭源差距随时间的变化。<br />一项结合公开与私有评估对开源与闭源差距进行的独立分析——《开源模型究竟落后多远？》，Håvard Tveit Ihle（2026年5月）<br />例如在 2025 年，Z.ai 的产品负责人谈及其发布时间时表示：“尽快推出。我们在几个小时内就将其开源。”——《Z.ai 操作手册》，ChinaTalk（2025年11月21日）<br />网络安全、风险与开放模型（我计划对此作进一步阐述）<br />为什么我们无法有效禁止不良行为者利用开放模型获取网络安全能力（他们总能获取访问途径）——《OpenAI/Huggingface 事件；我们应如何应对成本极其低廉的自主黑客攻击的迫在眉睫》，Joshua Saxe（2026年7月）<br />面对新兴网络威胁，政府应当如何观察、调整、决策与行动（而非基于内部能力评估来封禁模型）——《我们迫切需要一项协调一致的国家人工智能网络安全政策》，Joshua Saxe（2026年8月）<br />为什么不能指望在某一阈值（例如开放权重模型）上控制人工智能的获取，而需要让社会做好准备以应对智能普及所带来的下游风险——《防扩散是应对人工智能滥用的错误路径》，Helen Toner（2025年4月）<br />蒸馏（Distillation）——即利用另一个模型的输出 Token 进行训练的过程——是 2026 年围绕开放模型最受瞩目的一场辩论。<br />基础背景请参阅关于合成数据与蒸馏通论的教科书章节，出自《人类反馈强化学习》（Reinforcement Learning from Human Feedback，2026年出版的后训练教科书）<br />蒸馏如何为中国实验室提供助力，但又未抹杀其创新——《蒸馏对中国大语言模型究竟有多重要？》，Nathan Lambert / Interconnects（2026年2月）<br />一份高度透明的记录，详细记录了中国公司如何使用 Anthropic 的产品并规避其服务条款或预期用途。该报告详述了受限制实体对 Anthropic 产品的大规模使用，既包括技术性蒸馏（通过 SFT 数据提及），也包括在未告知用户的情况下将 Claude 大规模接入其产品和服务——《检测与打击人工智能滥用行为：2026年9月》。<br />近期一篇论文指出，前沿实验室在其 API 中存在特定的实现细节，使得他人能够通过巧妙手段系统性提取推理轨迹（现代训练的关键环节）。关于近期的这篇蒸馏论文及我的评论文章——《从专有大语言模型 API 中窃取推理轨迹》，Panfilov, Schmotz, Shumailov 等（2026年，更多内容见 X 平台）。Anthropic 证实该技术曾被中国实验室采用。<br />为什么声称“蒸馏是中国模型接近前沿水平的唯一原因”的政治恐慌缺乏事实依据——《蒸馏恐慌》，Nathan Lambert / Interconnects（2026年5月）<br />在跨智能体行为强化学习环境持续扩展的时代，各实验室如何利用蒸馏提升模型能力——《当下蒸馏的应用方式及其为开源模型带来的性能提升》，Nathan Lambert（2026年7月）<br />[选读] 更多背景历史：2024 年，我曾撰写《合成数据前沿》，核心观点是：通过在更强大模型的输出上进行 SFT 训练来“蒸馏”模型的合成数据，是当时主要的蒸馏形式。前沿实验室一直在转向基于对数几率（logit-based）的知识蒸馏，这一趋势最早在 Gemini 中得到确认并延续至今。2025 年初，关于 DeepSeek-R1 是否蒸馏自 OpenAI 的 o1 模型曾引发广泛争论。当时并无明确证据表明他们存在此类行为，我在 2025 年 4 月还曾信心十足地写道 DeepSeek 没有进行蒸馏。回顾 R1 发布时期，根据前述的推理轨迹提取方法，DeepSeek 蒸馏部分 o1 推理轨迹以便更容易训练其 R1 模型的可能性，或许比我此前认为的要更高。这并没有贬低其创新的意义，但我们应实事求是，而这正是蒸馏可能助力中国加速缩小与美国实验室差距的一种方式。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>特朗普在访问爱尔兰的第二天再次表达了对爱尔兰统一的支持，并表示将爱尔兰和北爱尔兰联合起来是顺理成章的（natural）。</li>
-    <li>周六在都柏林与爱尔兰总理米歇尔·马丁会晤时，特朗普对记者表示乐见一个统一的爱尔兰。</li>
-    <li>来源叙事重点：聚焦唐纳德·特朗普在访问爱尔兰期间再次表态支持‘爱尔兰统一’，突显其言论对英爱地缘政治传统的触动，并对比了都柏林及敦贝格的大规模抗议与当地商业依托高尔夫球场获得的经济利益。</li>
+    <li>开源模型与闭源模型之间的差距近年来有所缩小，目前约为4至6个月。</li>
+    <li>自2024年左右以来，领先的开源模型全部来自中国实验室。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#BBC</span>
+  <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.interconnects.ai/p/open-source-ai-reading-list" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ogrammers-dislike-reduce-2fb7fce7df7a40f0" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="443" data-content-paragraphs="8" data-published-at="2026-09-13T23:59:05.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 07:59</span>
+</div>
+
+### [从经验来看，程序员并不喜欢“reduce”](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Anecdotally, programmers dislike &quot;reduce&quot;</div>
+
+<div class="article-body" data-article-body="true"><p>简而言之：根据我的经验，大家都喜欢 map 和 filter，但不喜欢 reduce。</p>
+<p>我经常使用 map 和 filter 之类的函数。当我把这类代码提交评审时，同事们鲜少抱怨。关于其他设计决策我能收到很多反馈，但从没人质疑我用 map 和 filter。</p>
+<p>但对于 reduce 却完全不是这样。通常，当我提交的代码补丁中包含 reduce 时，收到的评审意见往往是：“这部分代码可读性较差。”而且在日常代码中，我见到 reduce 的频率远低于 map、filter、some 等函数。</p>
+<p>从经验来看，我越来越觉得程序员们没那么喜欢 reduce。</p>
+<p>我不知道具体原因，但我有几种推测：</p>
+<p>我通常就是把 reduce 改成其他写法然后继续干别的。尽管我个人更喜欢用它，但我通常也不太执着。不过这是我观察到的一个小小的社交现象，我想不妨把它记录下来。</p>
+<p>最近我也较少注意到这种情况了，可能是因为如今的代码评审没那么严格细致了。</p>
+<p>你注意到了吗？你喜欢 reduce 吗？请告诉我。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>作者在代码审查中提交使用 map 和 filter 的代码时，同行很少提出抱怨。</li>
+    <li>作者提交包含 reduce 的补丁时，经常收到诸如“这部分很难阅读”的代码审查意见。</li>
+    <li>来源叙事重点：围绕函数式编程中的 reduce 展开经验性讨论：作者称 map 和 filter 在代码审查中较少遭到批评，而包含 reduce 的代码更常被认为难以阅读，因此推测程序员相对不喜欢或较少使用 reduce。文章也提到这一现象近期可能减弱，但作者仅将代码审查不够彻底作为一种未经验证的可能解释。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
 <div id="story-ving-accuracy-with-astra-968c32634dc2a1cb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="493" data-content-paragraphs="6" data-published-at="2026-09-14T00:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="470" data-content-paragraphs="6" data-published-at="2026-09-14T00:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/openai.svg" class="source-icon" alt="OpenAI News (官方动态)" width="16" height="16" /> <strong>OpenAI News (官方动态)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -170,22 +133,22 @@ notice:
   <span class="news-meta-time">🕒 2026-09-14 08:00</span>
 </div>
 
-### [Perplexity 在端到端系统中信赖并应用 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra)
+### [Perplexity 借助 GPT-6 Astra 驱动端到端系统](https://openai.com/index/perplexity-improving-accuracy-with-astra)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Perplexity trusts GPT-6 Astra with end-to-end systems</div>
 
-<div class="article-body" data-article-body="true"><p>Perplexity 使用 Astra 来撰写沟通文稿、修改软件并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。</p>
-<p>作为一款人工智能驱动的回答引擎，Perplexity 高度专注于搜索和准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之改善。它能够编写出更优质的程序来检索网络及内部信息，并进行高度精炼的总结。</p>
-<p>但据 Johnny 表示，真正的挑战在于将这些信息维度的能力应用到真实世界的系统之中。而在 GPT-6 Astra 的助力下，这一过程变得更加轻松。</p>
-<p>对 Johnny 而言，人工智能最实用的应用之一是代码测试。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕某个应用程序构建一个小型测试程序。</p>
-<p>该模型能生成逼真的响应，就像其他外部服务发送的一样，例如某个语言模型 API 或连接器。通过代行这些服务的功能，该模型能够检查应用程序如何响应，并从头至尾测试整个工作流。</p>
-<p>工程 | 2026年9月11日<br />应用AI | 2026年9月10日</p></div>
+<div class="article-body" data-article-body="true"><p>Perplexity 正利用 Astra 撰写通信内容、修改软件并监控生产系统，且人工介入检查的频率远低于早期模型。</p>
+<p>作为一款人工智能驱动的问答引擎，Perplexity 极度关注搜索与准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之进步。它能够编写出更优秀的程序来检索网络与内部信息，并进行高度精炼的总结。</p>
+<p>但 Johnny 认为，真正的挑战在于将这些信息维度的能力应用到现实世界的系统中。而 GPT-6 Astra 让这一切变得更加轻松。</p>
+<p>对 Johnny 而言，人工智能最实用的应用之一是测试代码。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕应用程序构建一套小型测试程序。</p>
+<p>该模型可以生成逼真的响应，就像其他服务发送的一样——例如语言模型 API 或连接器。通过模拟并替代这些服务，该模型能够检查应用程序的反应，并端到端测试整个工作流程。</p>
+<p>工程 2026年9月11日<br />应用AI 2026年9月10日</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Perplexity使用Astra编写通信、修改软件并监控生产系统，且检查频率远低于早期模型。</li>
-    <li>Johnny Ho是Perplexity的联合创始人兼首席战略官。</li>
-    <li>来源叙事重点：强调GPT-6 Astra在端到端系统中的高可靠性与自主性，以知名AI搜索客户Perplexity的应用经验和高管背书，展示模型在代码编写、模拟测试及生产系统监控方面的生产力提升。</li>
+    <li>Perplexity使用Astra来撰写通讯、修改软件并监控生产系统，且人工介入检查的频率远低于早期模型。</li>
+    <li>Perplexity是一家由人工智能驱动的问答引擎，专注于搜索和准确性。</li>
+    <li>来源叙事重点：展示核心客户Perplexity对GPT-6 Astra的高度信任与端到端深度应用，强调模型在代码生成、端到端系统测试、修改软件和生产系统监控中的高自主性与准确性提升，以树立技术领先地位与企业级落地范本。</li>
   </ul>
 </div>
 
@@ -198,338 +161,25 @@ notice:
 :::
 
 :::cell
-<div id="story-6-09-sorcery-repo-viewer-df2bc97da00eedfa" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3188" data-content-paragraphs="16" data-published-at="2026-09-13T16:10:06.000Z" data-time-source="publication">
+<div id="story-026-09-14-10695897-shtml-4ee58ddd066647dd" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1367" data-content-paragraphs="26" data-published-at="2026-09-14T01:01:33.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:10</span>
-</div>
-
-### [如果我的 Git 托管平台是一个静态网站生成器会怎样？](https://char.lt/blog/2026/09/sorcery-repo-viewer/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> what if my git host were a static site generator?</div>
-
-<div class="article-body" data-article-body="true"><p>隆重介绍：sorcery，代码魔法之地（the source-ery）……<br />截至目前，我运行个人 Git 平台（git forge）已经差不多有半辈子了 :o 我喜欢运行自己的开发基础设施，不仅是因为我与 us-east-1 之间总是有 120 毫秒以上的延迟，更是因为做系统管理简直纯粹就是好玩 :3 2015 年我搭建了一个 Gogs 实例，后来变成了 Gitea 实例，再后来又变成了 Forgejo 实例；我还曾多次为我加入的各种团队部署过 GitLab/Forgejo。我喜欢社区协作型的 Git 平台，而 Forgejo 在这方面非常出色！</p>
-<p>但是我的 Forgejo 服务器老是耗尽磁盘空间（原因是在重新打包未更新的 Git 仓库时发生崩溃），并且在周围网络爬虫的常规负载下频繁宕机/内存溢出（OOM）。对于我的需求来说，很显然这类软件完全不适合这种规模：在我用于个人基础设施的小型机器上，这些软件根本经受不住互联网如同“宇宙微波背景辐射”般的常态扫描与抓取。</p>
-<p>我也挺想通过仅展示自己真正会用到的功能来简化体验：Forgejo 及其同类工具所做的事情远超我的需要——议题（issues）、拉取请求（PRs）、发布版本（releases）、维基（wikis）——一大堆我根本不在乎但无论如何都要为其付出某种代价的 GitHub 功能兼容性 :(</p>
-<p>针对 Forgejo 资源耗尽，通常开出的药方是通过像 Anubis 这样的 Web 应用防火墙（WAF）来拦截爬虫，其目的是通过 JavaScript 工作量证明（PoW）验证机制将 Web 应用的访问阻隔在门外。</p>
-<p>但这违背了开放网络的理念，不是吗？浏览器作为表面上的“用户代理（user agent）”，被迫做出对用户不友好的行为，执行毫无用处的代码来增加用户设备的负担（这种验证的目的就是让 CPU 空转！）——如果浏览器拒绝执行，就根本无法显示任何与用户相关的信息。不支持 JavaScript（或者仅不支持带 JIT 的 JavaScript）的替代浏览器要么被彻底阻断，要么被困在极其恼人的等待时间之后。这加剧了现代网络的单一寡头化，我认为这是一件坏事。</p>
-<p>此外，部署此类东西本身就是一种承认失败的妥协——我们屈服于一种假设，即所代理的应用程序在面对现实世界的互联网流量时无法正常工作：当我们面对的是一个读操作极度远多于写操作的负载时，这难道不可笑吗？在实践中，提供低频写入的数据服务理应非常廉价：整个 GitHub Pages 曾经仅靠一台机器就运行了多年！！为什么不能拥有一个完全基于静态文件的 Git 托管系统呢？</p>
-<p>从核心来看，sorcery 的形态就像一个静态网站生成器：当它接收到 Git 仓库的更新时，会为该仓库重新构建一系列位于磁盘上的 HTML——一个概览页面、每个分支最新提交（tip commit）的目录树，以及最新版本中每个文件带有语法高亮的代码渲染。这使我们能够付出一次性的固定前期成本来响应未来的大量请求，这意味着我们能够从容应对爬虫负载（因为采用 sendfile 方式发完即忘的基本开销微乎其微）。然而，由于提前为每个文件的每个历史版本都渲染出 HTML 成本过高，我们选择不对仓库的历史视图提供纯静态服务。</p>
-<p>不过，查看仓库历史记录是 Git Web 界面的核心功能，因此我们直接提供 .git 目录的服务，在 JavaScript 中实现一个基础的只读 Git 客户端，然后在客户端渲染仓库的所有“丰富视图”——仓库站点生成器确实也需要生成一些辅助性的 JSON 数据来协助 Git 客户端，因为我们无法可靠地列出 Git 仓库中的目录，但这些数据依然是纯静态的！</p>
-<p>由于浏览历史记录可能意味着需要对不同对象（提交 commit、目录树 tree [即仓库目录列表]、数据对象 blob [即文件内容]）发起多次获取，因此高延迟连接会导致直接获取和遍历对象时感觉非常缓慢。当 Git 将这些对象增量编码压缩存储在打包文件（packfiles）中时尤其如此：在 linux.git 中简单直接地获取一次打包文件索引以查看单个提交的 diff，就要消耗超过 400MiB 的带宽！！而聪明地扫描指定范围又会破坏缓存命中率，并引发一系列依赖于先前请求返回数据的请求瀑布流。</p>
-<p>因此，作为一种非静态的优化手段1，我们还提供了一条服务端路由，通过对象 ID（OID）列表来获取特定的 Git 对象（QUERY / / /obj），返回一种简单的二进制“Git 对象包”格式，可在客户端轻松解析。这减轻了客户端解析 packfile 的负担。此外，即使对于包含松散对象（loose object）的仓库，我们依然可以通过提供“智能获取”模式来优化往返通信，该模式能够针对给定的访问模式遍历所引用的 OID（例如，通过 commit.parent-&gt;parent-&gt;parent-&gt;… 遍历提交历史，或者访问一对提交中所有目录树的 blob 以便计算它们之间的 diff）。</p>
-<p>因此，sorcery 是一个“Git 仓库查看器（git repo viewer）”而非“Git 平台（git forge）”，因为它完全省略了用户账户、SSH/GPG 密钥管理以及议题与补丁（issues+patches）。实际上，sorcery 本身完全是只读的！仓库仅通过基于 SSH 的 Git 进行写入，这独立于 sorcery 之外。你可以将 sorcery-ssh 作为 Git 用户的 SSH ForceCommand 运行，它将提供“首次推送时自动创建仓库”功能以及编辑仓库描述的能力。这种架构的好处在于，你的公开部署与你的 sshd 一样安全，这在当下（2026年）让人感到格外安心 :)</p>
-<p>历史视图确实需要 JavaScript，但我对网络上全盘排斥 JS 的倾向并不怎么感冒（因为除非你住在阿什本，否则在本地设备上运行 UI 代码基本总是更优的选择！）——sorcery 使用了我自己的前端微框架，加上一系列内置的 Web 平台特性以及刻意为之的代码拆分（codesplitting），以极其轻量的方式创造了丰富的客户端体验！例如，加载项目概览页面大约传输 9kb 的 gzipped JS 即可支持近期提交的分页、语言过滤以及跳转到提交 diff 的链接——该站点体积最大的部分最终其实是语法高亮语法规则；我想尝试为 tree-sitter 语法和查询编写一个纯 JavaScript 的执行器，这样我们就能摆脱一些 WASM 的重量包袱（尤其是摆脱每个高亮语言的 WASM 包中被重复打包的代码）。</p>
-<p>我仍然喜欢社区型的 Git 平台！！对于我的个人项目，我主要只是想要一个可以推送代码、能让我用手机浏览以及能把链接发给他人的地方：我不需要协同工作功能，这样做要轻量得多。阅读我的代码绝不应该包含向服务器证明你配得上接收超文本的一整套繁文缛节。</p>
-<p>近期我想添加对 CI 注解（CI annotations）的支持（对此我很有自己的见解，会在以后的博文中展开聊！！快点订阅那个 RSS 按钮吧），也许将来我会把这个仓库查看器扩展成一个独立的、功能更完备（batteries-included）的 forge 项目供我和朋友们使用（一旦我们真正提炼出对我们最重要的东西、剔除掉多余的内容……）</p>
-<p>无论如何，去瞧瞧吧！</p>
-<p>QUERY …/obj 实际上纯粹是一项优化——如果你以完全静态的方式部署构建好的 sorcery 站点，Git 客户端依然会回退并直接拉取且解析打包文件（packfile）和松散对象（loose object），只不过在高延迟下速度会慢上极其极其多。↩︎</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>作者在2015年拥有一个Gogs实例，后来依次迁移转变为Gitea和Forgejo实例。</li>
-    <li>作者开发的软件名为sorcery，核心设计类似于静态网站生成器（SSG），定位为只读的Git仓库查看器（git repo viewer）而非包含完整功能的Git代码托管平台（git forge）。</li>
-    <li>来源叙事重点：介绍自研的静态Git仓库查看器“sorcery”，倡导通过“静态生成最新版本+客户端JS解析Git历史+SSH独立写入”的极简架构替代臃肿的全功能Git平台，批判利用PoW防火墙阻挡爬虫有违开放Web精神。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://char.lt/blog/2026/09/sorcery-repo-viewer/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-r-plan-for-ai-safeguards-6118181b33088941" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1583" data-content-paragraphs="20" data-published-at="2026-09-13T16:30:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:30</span>
-</div>
-
-### [奥巴马敦促民主党就人工智能安全保障制定“明确计划”](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Obama urges Democrats to have a ‘clear plan’ for AI safeguards</div>
-
-<div class="article-body" data-article-body="true"><p>据《纽约时报》报道，美国前总统巴拉克·奥巴马近日表示，民主党人需要将人工智能列为其“核心议程”之一，并“制定一个非常明确的计划”，以应对有关该技术对经济影响和安全性的担忧。</p>
-<p>奥巴马是在周四的一场民主党筹款活动上发表上述言论的，当时众议院少数党领袖哈基姆·杰弗里斯对他进行了采访。《纽约时报》称，奥巴马办公室提供了该活动的部分文字记录，杰弗里斯在会上询问奥巴马国会民主党人应如何应对人工智能。</p>
-<p>对此，奥巴马表示，一旦民主党夺回众议院多数席位，他们就需要“为开展极具公开性的对话构建一个框架”。</p>
-<p>“这项技术在私营部门手中发展得非常迅速，如果我们不能掌控局面，我认为它可能会变得危险，”奥巴马补充道，“如果我们确实能掌控它，我确实认为它是有益的。我由衷地认为，它将在能够帮助我们治愈疾病等方面加速药物研发。”</p>
-<p>杰弗里斯在一份声明中表示，这位前总统“在‘必须就人工智能采取果断行动’这一点上是正确的”。杰弗里斯还表示，“共和党人已经放弃了代表美国人民进行治理的责任”。</p>
-<p>《纽约时报》还报道称，奥巴马已自荐充当人工智能高管的“顾问”，并与Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）以及OpenAI首席执行官山姆·奥特曼（Sam Altman）进行过交谈。他的这些言论发表之际，正值外界对人工智能安全的担忧日益加剧，特别是在一名AI研究人员从Anthropic辞职并声称领先的AI企业正在“径直竞相迈向自我改进的超级智能，并在拿我们的生命作赌注”之后。</p>
-<p>周六，阿莫代伊概述了一种“平衡前沿发展步伐”（pacing the frontier）的总体方案，其中包括允许独立的安全评估人员接触头部AI企业和模型，以及在各企业之间制定“通用安全标准”。在社交媒体帖文中，奥特曼和SpaceX首席执行官马斯克似乎对阿莫代伊的方案作出了积极回应，奥特曼表示OpenAI也将承诺“让独立评估人员拥有类似员工的访问权限”。</p>
-<p>与此同时，唐纳德·特朗普总统周日在爱尔兰的一场高尔夫活动中向记者讨论了人工智能安全方面的担忧。彭博社报道称，特朗普吹嘘美国是“世界上最尖端的国家”，并补充说他希望“保持这种状态，因为谁赢得人工智能，谁就赢得了胜利”。（今年早些时候，特朗普政府发布了一项关于人工智能的立法框架，该框架将优先于州法律，并将儿童安全的责任转移给父母。）</p>
-<p>“而且我们可以设立护栏，”特朗普说，“我们可以做这做那。但我认为有很多不该提出这个问题的负面势力正在挑起这个话题。”</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>安东尼·哈（Anthony Ha）是TechCrunch的周末编辑。此前，他曾担任《Adweek》的技术记者、VentureBeat的高级编辑、《Hollister Free Lance》的地方政府记者，以及一家风投公司的内容副总裁。他现居纽约市。</p>
-<p>您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与安东尼取得联系或核实外联信息。</p>
-<p>预订展位的最后一天是9月18日。切勿错过在Disrupt展厅中获得高价值销售线索、接触投资人以及品牌曝光的机会。</p>
-<p>Revolut证实因虚假政府请求导致客户数据泄露</p>
-<p>受Astra需求激增影响，OpenAI暂停Pro订阅服务</p>
-<p>身份验证巨头IDScan证实发生数据泄露，超过1.5亿张驾照信息被盗</p>
-<p>Automattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假</p>
-<p>苹果发布旗下首款折叠屏设备iPhone Duo</p>
-<p>纽约大学数学家称OpenAI在关乎其职业生涯的数学难题上采取了不光彩手段</p>
-<p>一部关于伊丽莎白·霍姆斯（Elizabeth Holmes）的神秘全新纪录片惊艳特柳良德电影节</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>奥巴马在周四的民主党筹款活动中表示，民主党需要将人工智能列为“核心议程”，并制定“非常清晰的计划”来应对该技术带来的经济影响和安全担忧。</li>
-    <li>该筹款活动中，众议院少数党领袖哈基姆·杰弗里斯对奥巴马进行了采访，奥巴马办公室提供了部分活动记录。</li>
-    <li>来源叙事重点：聚焦前总统奥巴马督促民主党将AI安全与经济影响列为核心施政框架，并勾勒出政界两党（民主党强调建立公共安全防护框架 vs 特朗普政府主导的国家竞争优先与去监管化导向）及科技领袖（Anthropic与OpenAI支持独立评估）的立场互动</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-o-devs-should-learn-odin-82e3165a7a942b00" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3516" data-content-paragraphs="7" data-published-at="2026-09-13T15:23:41.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 23:23</span>
-</div>
-
-### [Golang 开发者应该尝试 Odin](https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Golang developers should try Odin</div>
-
-<div class="article-body" data-article-body="true"><p>英灵殿漫游指南（The Hitchhiker’s Guide to Valhalla）<br />2024 年 10 月 24 日 · 阅读时长 14 分钟<br />（警告：本文可能引发不适）<br />我使用 Golang 已经 10 年了，尽管我也尝试过其他编程语言，但因为它的简洁性，我总是会重新回到它身边。<br />它如此简单，以至于当我刚接触 Golang 时，仅靠阅读源码和动手实践就掌握了它的大部分语法。<br />然而，不得不承认，由于垃圾回收器（GC）和运行时的存在，Golang 也有不少问题。<br />这里列出了其中的一些问题：<br />但即便存在这些问题，在遇到其他编程语言时我依然更倾向于 Golang，直到一周前我遇见了 Odin，那一刻真是一见钟情。<br />这篇文章将带你领略 Odin 之美。<br />Odin 是一门全新的编程语言，它<br />人们仅仅因为它的编译器自带了 3D 库，就以为它只适用于游戏开发，但我并不认同。Odin 也同样适用于后端开发，因为它拥有一个类似于 Go 标准库的核心库。这意味着它具备了所有的基础构建块，能让我们像某些厂商模仿制造一样，把 Go 的其余库都复刻过来。<br />我知道你们当中有些人会摆弄 Rust、Zig、C3 或 Hare，但这些语言并不具备数组编程（array programming）和结构体标签（struct tags）。<br />它甚至还支持四元数（quaternions）！你知道那是什么吗？我也不知道！但我很兴奋能学到它。<br />这门语言不会再发生变动，直到你退休前它都会保持稳定。不过，编译器、工具链和核心库仍在开发中，并且在不断得到改进。<br />此外，它已被 JangaFX 和 ChiAha™ 应用于生产环境中。<br />这门语言有 31 个关键字，但每个关键字都可能带有 #指令（#directive）或 @(属性)（@(attribute)）。对于像我这种记不住超过 26 个关键字的人来说，这可能显得有点多，但所有的关键字、指令和属性之间的衔接非常流畅，读起来就像读英语一样自然。<br />例如，工作方式类似于 Golang 的 switch-case 语句要求用户明确指定每一个分支情况，除非你在它前面加上 #partial 指令。<br />你会真正体会到，即使不懂这门语言，理解其代码也是多么容易。花上 10 分钟阅读 demo.odin，里面几乎涵盖了你入门所需的一切。<br />是的，它没有正式文档（不，概览页面并不是真正的文档），但这正是其魅力所在。你是通过阅读别人的代码来学习用 Odin 编程的。标准库的大部分内容既没有注释也没有示例，但你完全可以通过其源代码轻松理解如何使用。<br />不，它没有宏（macros），没有 comptime（编译期计算），没有 constexpr，也没有装饰器（decorators），而这样其实更好，因为拥有这些特性的每门语言都会让开发者把 90% 的时间浪费在 Google 搜索使用它们的各种库上。<br />相信我，坚持使用 Odin 预定义的指令和属性就好。<br />是的，它支持泛型，而且比 Golang 的泛型设计得更好。<br />不，它没有包管理器，没有 go.mod 文件，也没有类似的其他东西。包仅仅就是一个目录，你只需将其复制到你的项目中，并根据源代码文件的相对路径来调用它。<br />是的，它的编译器和 Golang 的编译器一样简单。<br />是的，它有带自动补全功能的 VSCode 插件。<br />Odin 采用手动内存管理，这也是它为什么没有闭包（Closures）、组合（Composition）、Goroutine 以及 Selector 的原因。不过，我将向你展示如何在没有这些特性的情况下也能过得很好。<br />其次，它缺乏库生态，这也是为什么我正试图吸引你们来学习它，这样你们就可以把你们的库从 Go 复制移植到 Odin 中。<br />最后，它缺乏文档和书籍，但如果你拥有多年的 Go 经验，那么 Odin 会让你感到宾至如归。<br />没有垃圾回收器的生活意味着你不再拥有 errors.New() 或 fmt.Errorf()。Odin 中不存在 error 类型。你只有枚举（Enums）、联合体（Unions）和结构体（Structs），而这比 Go 的错误机制更好。<br />Golang 的错误机制会迫使你将服务端的错误信息推送给用户，而你无能为力。这并不是一件好事，因为用户根本不需要知道什么是 SQL，或者 bank_account 为 nil。<br />此外，另一个问题是 Go 的错误不带有堆栈跟踪（stack traces）。<br />对于你创建的每个函数，同时包含一个枚举、联合体或结构体来表示该特定函数的错误。<br />当一个函数返回它从另一个函数接收到的错误时，以此类推，你将收到一个类似于这样的错误值。<br />从那里，你可以构建 switch 语句树，以返回恰当的用户提示信息。<br />并且你还可以使用我的库把它像堆栈跟踪一样打印出来。<br />甚至只需查看错误的类型，你就能猜出这些函数是做什么的。<br />没有其他编程语言能做到这一点。<br />如果 Odin 都救不了经济，那就没有什么能救了。<br />在我们探讨内存管理之前，让我先澄清三件事：<br />如果你读过 demo.odin，那么你已经知道指针是如何工作的了，但如果你还没读过，只需记住：<br />如果你对一个指针执行重复 delete() 或重复 free()，你将会遇到“段错误”（Segmentation fault）。<br />如果你在 free() 或 delete() 之后去读取指针，你将获得一个随机值。<br />如果你通过 make() 创建了一个包含 new() 指针的数组，那么在删除该数组之前，你必须先释放数组内部的指针，否则会导致内存泄漏。<br />对于全局指针，在释放它们之后将其赋值为 nil，并在释放、读取或给指针赋值之前检查是否为 nil。<br />对于局部指针，使用 defer 来释放该指针。务必始终将 defer 写在分配语句的下方，这样很容易看清释放操作。<br />如果一个过程（procedure）包含参数“allocator := context.allocator”，那么 99% 的情况下其返回结果都需要被释放。这意味着你必须调用 delete()/free()，或者调用来自同一库的另一个过程来替你释放该指针。<br />使用 Arena_Allocator 来分配指针数组，之后只需直接销毁该 arena 即可。<br />Odin 没有接口（interfaces），这也是为什么我说它们就像量子实体一样。当你观察它们时，它们表现得像接口；但当你不再观察它们时，它们就只是指针。<br />在 Odin 中有两种编写接口的方法。<br />这个例子模拟了组合（composition）。<br />同时，这也是 Odin 标准库中使用接口的方式。<br />例如，Odin 中的 sort.Interface 就是使用这种类型的接口结构从 Go 借鉴复制过来的。<br />这里有一个看起来像 Java 抽象类的例子。<br />另外，你不能给一个结构体添加多个接口，否则你就会开始遇到莫名其妙的问题或段错误。所以到头来，它用起来也和 Java 很像。<br />Odin 没有 goroutine 或 selector，因为它们需要垃圾回收器才能运行。<br />不过，我特意为你写了一个完整的示例，展示如何在 Odin 中模拟 goroutine 和 selector。<br />这个例子演示了鸟妈妈给幼鸟喂食的过程。<br />（你懂这个过程的。鸟妈妈呕吐到小鸟嘴里来喂养它们。大自然不是很美妙吗？）<br />如果你在这个例子中还没搞清楚什么是 selector 和 goroutine，那就看看 union 和 threadpool（线程池）。</p>
-<p>一个接收联合类型（union type）消息的通道，相当于在 Golang 中使用两个通道外加一个 selector（选择器），因为联合类型中的每个独立类型都等同于 selector 中的一个通道。联合类型模拟了 selector 的功能。</p>
-<p>线程池相当于 Golang 的运行时，因为它会提前运行那些后续用于执行 goroutine 的线程。</p>
-<p>只要记住你在大学 Java 并发课程上学过的内容：长时间运行的任务使用线程，小型任务使用线程池，遇到死锁就吃扑热息痛。</p>
-<p>通过本文，我希望你现在能够理解 Odin 未来的潜力，以及它作为后端开发中 Golang 替代品的可能。</p>
-<p>顺便说一句，如果你一字不漏地阅读了 demo.odin 和我的解释，那么从现在起你就是一名高级 Odin 开发者了。（哎呀！）</p>
-<p>要成为特级大师级（Grandmaster）Odin 开发者，只需浏览一下概览以及如何绑定 C 语言即可。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Odin 拥有 31 个关键字，并支持 #directive 指令与 @(attribute) 属性。</li>
-    <li>Odin 在编译器中附带了 3D 库，并原生支持数组编程、结构体标签（struct tags）与四元数（quaternions）。</li>
-    <li>来源叙事重点：强烈推荐 Golang 开发者尝试系统级编程语言 Odin，强调 Odin 在保持语法简洁性的同时，避开了 Go 语言的垃圾回收（GC）和运行时缺陷，并主张 Odin 完全有潜力替代 Go 进行后端开发。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-harply-divides-travelers-01f22e42a9ab3be2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1503" data-content-paragraphs="33" data-published-at="2026-09-13T16:55:21.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:55</span>
-</div>
-
-### [邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧](https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Cruise passengers erupt over &#39;rude&#39; luggage habit that sharply divides travelers</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/cruise-passengers-disembarking-sint-maarten.jpg?ve=1&amp;tl=1" alt="邮轮乘客因“无礼”行李习惯爆发争论 旅客立场严重分歧" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>邮轮乘客们正在就出海度假游客之间的一个热门话题展开激烈辩论。</p>
-<p>将行李带入拥挤的船舱电梯是否触犯了重大的礼仪底线，尤其是在忙乱的下船日早晨？</p>
-<p>当数以千计的乘客准备下船时，那些自行携带行李的人通常要依赖电梯在不同甲板层之间移动。如今，社交媒体上的帖子正引发一场更广泛的争论：将行李箱硬塞进满员的电梯究竟是务实之举，还是纯粹的无礼行为？</p>
-<p>愤怒的邮轮乘客在航程被突然取消后怒斥“极度失望”</p>
-<p>常驻得克萨斯州的礼仪专家黛安·戈茨曼（Diane Gottsman）表示，乘客可以把行李带进电梯，不过应当体谅有限的空间。</p>
-<p>“说到旅行，空间是首要考量，”戈茨曼在接受福克斯新闻数字频道（Fox News Digital）采访时表示，“你必须时刻考虑身边的其他人。”</p>
-<p>戈茨曼表示，乘客可以在前一天晚上将较大的行李箱放在客舱外，由船员负责统一收集托运。</p>
-<p>“在可能的情况下，进入拥挤的邮轮电梯时，最好尽量少带行李箱，”她说。</p>
-<p>大型航空公司嘲讽飞机刚着陆就跳起来的乘客，引发强烈抗议</p>
-<p>她补充说，更倾向于自己拿行李的乘客完全可以自便，但应做好自行照看管好的准备。</p>
-<p>各大邮轮公司对行李处理也有各自的规定程序。</p>
-<p>嘉年华邮轮公司（Carnival Cruise Line）在其官方网站上标明，登船期间的行李托运服务将在船舶预计启航时间前两小时截止。</p>
-<p>该邮轮公司表示：“在此时间之后抵达的宾客将自行负责把行李带上船。”</p>
-<p>点击此处订阅我们的生活方式简报</p>
-<p>戈茨曼表示，在繁忙的登船日和下船日，提前规划尤为重要。</p>
-<p>“我们知道从邮轮下船时现场会很繁忙，”她说，“所有人都要从同一艘邮轮上下船，所以必须提前做好规划。”</p>
-<p>她建议乘客在进电梯前先礼让里面的人出来，如果某部电梯已经挤满，就等下一趟。</p>
-<p>“不要带着行李硬往里冲，”戈茨曼说。</p>
-<p>点击此处查看更多生活方式报道</p>
-<p>她补充道，行动不便的乘客也应享有优先权，而携带额外行李的人则应做好等待的准备。</p>
-<p>这一话题最近在Reddit论坛上引发关注。一名初次乘坐邮轮的游客发帖称，自己和伴侣拖着拉杆箱乘电梯从14层甲板到5层甲板时，遭到了另一名乘客的嗤笑与嘲弄。</p>
-<p>许多邮轮乘客为这对伴侣辩护——他们认为，对于需要跨越多个甲板层搬运行李的乘客来说，电梯往往是最切合实际的选择。</p>
-<p>“我每次都是自己拖着行李下船，而且每次都坐电梯，”一名Reddit用户写道，“我可不会拎着大包小包去爬楼梯。”</p>
-<p>另一位评论者反问：“不然你还能怎么把行李运下那么多层甲板？”</p>
-<p>另一个人表示：“人们总能找出各种理由来抱怨船上的电梯。我母亲因为腰背和膝盖不好坐着代步轮椅，电梯里的人对她非常无礼。”</p>
-<p>参与我们最新的生活方式小测验，测试一下自己</p>
-<p>还有人附和道：“在下船日，无礼的现象似乎总是更多。你们没有做错任何事。如果只隔一两层楼，为了省时间我才会走楼梯，否则我肯定会坐电梯。”</p>
-<p>其他邮轮乘客表示，只要顾及周围的人，把行李带进电梯完全没有问题。</p>
-<p>“你绝对可以使用电梯，只要多留意周围的人并在可能的时候腾出空间即可，”一位留言者写道。</p>
-<p>也有人持不同看法，认为使用船上的行李托运服务能让每个人的离船过程变得更轻松。</p>
-<p>“行李运送服务的全部意义就是为了让每个人都更轻松，”一人写道。</p>
-<p>几个月前美联社曾报道，邮轮行业专家预测今年全球出海旅游的人数将迎来增长，并将打破去年的历史纪录。</p>
-<p>国际邮轮协会（Cruise Lines International Association）在4月份发布的一份报告中预计，今年将有约3830万人乘坐邮轮旅行——这一数字比去年创纪录的3720万名旅客高出4%。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>美国得克萨斯州的礼仪专家黛安·戈茨曼（Diane Gottsman）表示，乘客可以将行李带入游轮电梯，但应考虑到空间有限并注意礼让。</li>
-    <li>嘉年华游轮（Carnival Cruise Line）在其官网上注明，登船期间托运行李服务在预定起航时间前两小时结束，在此之后抵达的宾客须自行携带行李登船。</li>
-    <li>来源叙事重点：报道围绕游轮下船日拥挤电梯内携带大件行李引发的社交礼仪争议，结合社交媒体用户讨论与礼仪专家建议，探讨实用需求与公共空间礼仪之间的平衡，并指出全球游轮旅客量创新高加剧了空间资源紧张。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ntered-the-robotaxi-chat-44cdc58c805a295b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4455" data-content-paragraphs="42" data-published-at="2026-09-13T16:04:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:04</span>
-</div>
-
-### [TechCrunch 出行专栏：Lyft 加入自动驾驶出租车（Robotaxi）群聊](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> TechCrunch Mobility: Lyft has entered the robotaxi chat</div>
-
-<div class="article-body" data-article-body="true"><p>本周，随着 Waymo 的自动驾驶出租车（robotaxi）在其位于纳什维尔的应用程序上线，Lyft 迎来了一个新的里程碑。根据合作协议，Lyft 通过其全资子公司 Flexdrive 负责车队服务（例如车辆准备与维护）以及基础设施和车辆运营中心的运作。</p>
-<p>在纳什维尔，用户可以直接通过 Waymo 应用程序呼叫 Waymo 自动驾驶出租车，或者在 Lyft 应用程序上碰碰运气——Lyft 会视运力情况为乘客匹配 Waymo 车辆。</p>
-<p>多年来，Lyft 在自动驾驶汽车技术领域的涉足绝不仅限于浅尝辄止，包括曾在拉斯维加斯与 Aptiv（现为 Motional）、在亚特兰大与 May Mobility、在伦敦与百度以及在菲尼克斯与 Waymo 展开合作。但本周尤为引人注目，因为这标志着 Lyft 首次真正进入完全没有人类驾驶员在方向盘后操控的商业化无人驾驶出租车服务。</p>
-<p>免得大家遗忘，该公司曾设立 Level 5 业务部门，历时四年并投入数百万美元研发自己的自动驾驶技术。2021 年，Lyft 以 5.5 亿美元将其自动驾驶部门出售给丰田旗下的 Woven Planet Holdings 子公司——这是该新兴行业大规模整合浪潮中的诸多收购之一。</p>
-<p>随后，Lyft 暂时告别了自动驾驶汽车，专注于其核心网约车业务。但它并未彻底放弃这一构想。</p>
-<p>我与 Lyft 负责增长业务的执行副总裁杰里米·伯德（Jeremy Bird）探讨了这一里程碑，并打算在此分享一些见解。在这一职位上，伯德负责管理 Lyft 的国际化、豪华出行以及自动驾驶汽车业务计划——有时这三者甚至会交织在一起。</p>
-<p>当我询问伯德我们何时能在 Lyft 应用程序上看到更多自动驾驶出租车以及会在哪些地区时，他并未透露过多细节。但他确实表示，公司迈入 2026 年时的重点是其在纳什维尔与 Waymo 的合作，以及在伦敦与百度的合作（伦敦的商业化服务尚未启动）。</p>
-<p>“我认为明年大家将会看到更多样化的布局，”他说道，并补充称理想情况下这将包括扩大 Lyft 与这两个合作伙伴的合作关系。“我认为明年对我们来说将是重要的一年。”</p>
-<p>而且国际市场似乎是该自动驾驶扩张计划的重要组成部分。伯德称伦敦是一个“令人着迷的市场”，且在我们的整场交谈中，他反复将 Lyft 描述为一家全球性公司，这与几年前仅聚焦美国本土市场的战略相比是一个显著的转变。</p>
-<p>那么，Lyft 接下来将去往何方？在国际市场方面，Lyft 似乎优先考虑从一开始就能运营混合网络（即自动驾驶汽车与人类驾驶汽车并存）的地区。</p>
-<p>“我们是一家正在变得更加全球化的跨国公司，这对我们至关重要，”他表示。“而自动驾驶汽车将是我们构想未来的方式。就像我们进入任何市场一样，那里是否有自动驾驶的组成部分？在监管层面，它是否已经对自动驾驶开放，抑或是这会让该市场在我们希望进驻的地点清单中排名更靠前？”</p>
-<p>有消息灵通人士注意到福特近期完成了几项耐人寻味的人事招募，看起来这家公司显然正在增强其国防科技实力。福特最近聘请了雷神公司前员工托马斯·塞涅马丁（Tomaz Seignemartin）担任持续改进副总裁，并聘请了通用动力前员工希里什·斯里尼瓦桑（Shirish Srinivasan）出任福特首席战略官的幕僚长。福特还聘请了洛克希德·马丁公司的前生成式人工智能团队负责人内森·里戈尼（Nathan Rigoni）担任高级软件工程师。</p>
-<p>当然，对于一家拥有数万名员工的企业而言，少数几位国防科技背景的招聘很难称得上构成了一种趋势。但这确实表明，具备国防科技背景如今变得越来越有价值。</p>
-<p>有新闻爆料要提供给我们吗？请发送邮件至 Kirsten Korosec 的邮箱 kirsten.korosec@techcrunch.com，或通过 Signal 联系 kkorosec.07；也可发送邮件至 Sean O’Kane 的邮箱 sean.okane@techcrunch.com。</p>
-<p>The Boring Company，这家由埃隆·马斯克创立、旨在通过建设地下隧道网络来“解决交通拥堵”的初创公司，在一轮由阿拉伯联合酋长国领投的融资中筹集了 30 亿美元。该公司在公告中表示，The Boring Company 目前的估值已达 230 亿美元。阿联酋的支持事出有因：此前已与阿联酋就“迪拜环线”（Dubai Loop）展开合作的 The Boring Company 表示，将在该中东国家再开挖 150 公里的隧道。</p>
-<p>Andreessen Horowitz、红杉资本（Sequoia Capital）、Human Capital、Vy Capital 以及 Valor Equity Partners 也参与了本轮投资。</p>
-<p>在美国，The Boring Company 最广为人知的项目位于拉斯维加斯，该公司在那里修建了连接名胜世界（Resorts World）、安可（Encore）和萨哈拉（Sahara）等赌场度假酒店、会议中心以及往返机场有限路线的隧道。由人类驾驶的特斯拉汽车负责接送往返于这些地点的乘客。</p>
-<p>本周引起我关注的其他交易包括……</p>
-<p>总部位于肯尼亚的电动出行初创公司 ARC Ride 在由 Novastar Ventures 和 Norrsken22 领投的一轮融资中筹集了 3330 万美元。其他投资方包括国际金融公司（IFC）、英国国际投资公司（BII）、Proparco、日本供应商武藏精密（Musashi Seimitsu）以及非洲影响力投资机构 Talanton。</p>
-<p>以在园区和机场运营自动驾驶无人小巴闻名的初创公司 Beep 在由其现有技术合作伙伴 Mobileye 领投的 B 轮融资中筹集了 2000 万美元。这家总部位于佛罗里达州奥兰多、成立于 2019 年的公司表示，迄今已筹集了 1.3 亿美元。</p>
-<p>专注于电动卡车充电物流的德国慕尼黑软件初创公司 Fryte Mobility 筹集了 350 万欧元（约合 400 万美元）的种子轮资金，由 4impact capital 和 Rethink Ventures 联合领投。现有投资方 Revent、F-LOG、accilium ventures 以及未公开的天使投资人也参与了跟投。</p>
-<p>保时捷完成了将其持有的 Bugatti Rimac 和 Rimac Group 股份向 HOF Capital 的出售。保时捷在本次出售中获得了约 10 亿欧元，其中约 2.5 亿欧元收益将用于进一步充实其养老金储备。</p>
-<p>Poseidon Aerospace 在其无人货运飞机“白鹭”（Egret）预计于今年底进行首飞之前筹集了 6000 万美元。该 A 轮融资由早期风投机构 TQ Ventures 领投，并获得了韩华资产管理（Hanwha Asset Management）、G Squared 和 JAWS 的新注资。现有投资方 Starship Ventures、Draper Associates 和 Drover Ventures 亦参与了投资。</p>
-<p>Stoke Space 可能并非传统的交通运输公司，但这家可复用火箭公司的 10 亿美元融资及其部分支持者引起了我的注意。该轮融资由 Point72 Ventures（对冲基金亿万富翁史蒂夫·科恩的科技投资机构）和 Spark Capital 领投，参投方包括 General Innovation、Glade Brook Capital、US Innovative Technology、Washington Harbour Partners、Woven Capital 和 Y Combinator 等。</p>
-<p>总部位于德克萨斯州奥斯汀、致力于开发 GPS 替代方案的初创公司 Tern 获得了来自美国陆军的价值 1126 万美元的合同。该初创公司表示，美国陆军车辆将采用其被称作“战场谷歌地图”的技术。</p>
-<p>Uber 在印度车队管理初创公司 Carrum Mobility 的 B 轮融资中投资了 1000 万美元。这笔新投资使 Carrum 的投后估值达到 160 亿卢比（约合 1.68 亿美元）。</p>
-<p>由TrueCar创始人斯科特·佩恩特（Scott Painter）创立的加州电动汽车订阅服务平台Autonomy正在进行业务转型。这家险些倒闭的公司正向其车队中引入内燃机车辆。</p>
-<p>Beta Technologies、Joby Aviation和Wisk这三家研发电动飞机的公司，作为美国联邦航空管理局（FAA）“先进空中交通与电动垂直起降（eVTOL）整合试点项目（eIPP）”的一部分，已在德克萨斯州启动试飞演示。这项为期一周的活动将允许这些公司测试实际飞行路线，包括前往达拉斯-沃思堡国际机场的航线。</p>
-<p>据《金融时报》报道，特拉维斯·卡兰尼克（Travis Kalanick）旗下的初创公司Atoms正准备大举招聘，旨在进军无人驾驶出租车业务。</p>
-<p>TechCrunch记者贾格米特·辛格（Jagmeet Singh）深入报道了Uber的竞争对手inDrive及其在网约车之外扩大业务规模的努力。</p>
-<p>总部位于美国的自动驾驶汽车研发商近来可能占据了大部分关注度，但美国本土之外同样涌现出许多值得关注的动态。仅在本周，我们就看到中国自动驾驶开发商小马智行（Pony.ai）以及克罗地亚的Verne（马特·里马克名下的另一家公司）开始在萨格勒布的公共道路上进行面向乘客的完全无人驾驶试乘测试；与此同时，西班牙向文远知行（WeRide）及其合作伙伴Uber和Avomo颁发了首批全国性自动驾驶汽车许可证。</p>
-<p>与此同时，中国无人配送车公司新石器（Neolix）开始在日本的封闭场地内进行测试；小马智行在卡塔尔多哈的演示中撤除了其自动驾驶测试车内的人类安全员。不过在商业化运营中，小马智行与其合作伙伴Mowasalat的无人出租车驾驶位后方仍配备有人类操作员。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取小额佣金。这不会影响我们的编辑独立性。</p>
-<p>交通出行版编辑</p>
-<p>预订展位桌的截止日期为9月18日。切勿错过在Disrupt展厅中获得高价值销售线索、接触投资人以及提升品牌曝光的机会。</p>
-<p>Revolut证实因虚假政府请求导致客户数据泄露</p>
-<p>由于Astra需求过大，OpenAI暂停Pro订阅服务</p>
-<p>身份验证巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照被盗</p>
-<p>Automattic董事会迫使首席执行官马特·穆伦威格（Matt Mullenweg）休假离职</p>
-<p>苹果发布其首款折叠屏手机iPhone Duo</p>
-<p>纽约大学数学家称OpenAI在关乎职业前途的数学难题上采取了不光彩手段</p>
-<p>一部关于伊丽莎白·霍姆斯的秘密新纪录片震撼特柳赖德电影节</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Waymo的Robotaxi正式上线纳什维尔的Lyft应用，Lyft通过全资子公司Flexdrive负责车辆就绪、维护、基础设施及车场运营等车队服务。</li>
-    <li>Lyft曾在2021年以5.5亿美元将其自动驾驶部门出售给丰田旗下的Woven Planet Holdings。</li>
-    <li>来源叙事重点：以Lyft在纳什维尔接入Waymo无人驾驶出租车为切入点，强调Lyft从自研自动驾驶转向通过合作伙伴进入商业Robotaxi服务，并将其置于全球化、混合运营网络和自动驾驶产业扩张的背景下。同时以行业简讯形式集中呈现融资、并购、人才流动、监管许可、测试活动及国防技术关联等动态，突出资本投入和企业战略信号。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ce-among-students-ntwnfb-7fc0c246275c67a6" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="360" data-content-paragraphs="3" data-published-at="2026-09-13T15:00:06.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-13 23:00</span>
-</div>
-
-### [遭受性侵后重返校园的学生：“第二天你照样得回学校，只能默默承受”](https://www.theguardian.com/society/2026/sep/14/how-should-australian-schools-deal-with-sexual-assault-violence-among-students-ntwnfb)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The students returning to school after sexual assault: ‘You go back the next day, and you just deal with it’</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/20e3f69432a3fa56db2096e0b806fc48a24fb4e0/1311_0_4139_3311/master/4139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2db8b428eb7cd3b0533e445d1d5650ee" alt="遭受性侵后重返校园的学生：“第二天你照样得回学校，只能默默承受”" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>同侪之间的暴力正在不断增加。但当学校必须兼顾对受害者和加害者双方的照护义务时，那些不得不在性侵阴影下继续求学的女孩们又该何去何从？</p>
-<p>近期，涉及男学生的涉嫌性侵事件频上头条，一名16岁少女亦疑似因性窒息死亡。在此背景下，澳大利亚国家内阁已同意优先推进消除针对女性性暴力的计划，新南威尔士州政府已向各教育部长提出了一系列新的优先工作事项，联邦政府也宣布了一项关于“数字照护义务”的立法草案。与此同时，在一起涉及悉尼一所私立学校两名学生和另一名男生的涉嫌轮奸案中，受害少女正在准备参加她所在州的高中毕业证书考试（HSC）。</p>
-<p>“我无法想象她正在经历着什么，”警方检控官朗达·莱利警长（Rhonda Riley）上个月向法庭表示，“但在接下来的这段时间里，她将不得不在痛苦与恐惧中——不仅是心理层面的——完成她的HSC考试。”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>同龄人间暴力（Peer-on-peer violence）呈上升趋势。</li>
-    <li>澳大利亚国家内阁已同意优先推进终结针对女性性暴力的计划。</li>
-    <li>来源叙事重点：以遭受性侵的女学生为中心，强调她们在创伤、恐惧和持续求学之间承受的压力，并提出学校在保护受害者与履行对涉嫌施害者的照护责任之间如何平衡的问题。报道同时将个案置于澳大利亚政府拟推进终结针对女性性暴力、州政府教育优先事项及联邦数字注意义务立法的政策背景下。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/sep/14/how-should-australian-schools-deal-with-sexual-assault-violence-among-students-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-14-10695866-shtml-2cdd27b7149a0a0e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="687" data-content-paragraphs="23" data-published-at="2026-09-13T16:37:29.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:37</span>
+  <span class="news-meta-time">🕒 2026-09-14 09:01</span>
 </div>
 
-### [特朗普重申伊朗战事将在中期选举后结束](https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml)
+### [海南岛广西等地有较强降雨 四川盆地等地多阴雨](https://www.chinanews.com.cn/sh/2026/09-14/10695897.shtml)
 
-<div class="article-body" data-article-body="true"><p>消息称，美国总统特朗普13日在访问爱尔兰时重申，伊朗战事将在中期选举后结束。</p>
-<p>特朗普当天接受采访时称，伊朗战事将在11月美国国会中期选举后立即结束，届时“汽油价格将会快速下跌”。他还称，伊朗方面“非常希望达成协议”，并一直在联系美国。</p>
-<p>特朗普9日就曾表示，他认为美国同伊朗的战事将在11月美国国会中期选举完成后“立即结束”。（央视新闻客户端）</p>
+<div class="article-body" data-article-body="true"><p>中新网9月14日电 据中央气象台网站消息，昨日，海南局地出现特大暴雨。预计未来三天，华南南部及我国南部海域有明显降雨，海南累计雨量大、致灾风险高，需防范暴雨次生灾害；华西地区及西藏等地多阴雨，关注持续降雨对农业生产、交通、工程建设等的影响。</p>
+<p>昨日，海南、广东沿海、福建中部、浙江中部沿海等地部分地区出现暴雨，海南大部、广东沿海局地出现大暴雨，海南五指山、保亭和琼中等局地特大暴雨，最大降水量海南保亭457.2毫米；上述地区最大小时降雨量40～70毫米，海南五指山局地80.6毫米。另外，海南南部沿海、广东西部沿海等地出现7～9级大风。</p>
+<p>14～15日，海南岛、广东西部沿海、广西南部等地部分地区有大到暴雨，海南岛南部、广西南部沿海局地大暴雨。</p>
+<p>未来三天，四川、重庆、甘肃中南部、陕西南部、湖北、青海东部和南部、西藏等地部分地区有小到中雨，四川盆地东部、湖北西部等地部分地区有大到暴雨，局地大暴雨。</p>
+<p>9月14日08时至15日08时，西藏东北部、川西高原北部、海南岛、四川盆地东部、广西南部、广东西南部等地部分地区有中到大雨，其中，广西南部沿海、海南岛南部等地部分地区有暴雨或大暴雨(100～200毫米)。东北地区东部部分地区有4～5级风；台湾海峡将有6～7级、阵风8级的东北风，东海南部海域、巴士海峡、北部湾、南海东北部海域将有5～6级、阵风7级的偏东到东北风。</p>
+<p>9月15日08时至16日08时，西藏东南部、青海东部、甘肃东部、四川盆地东部、湖北西部、广西中南部、海南岛等地部分地区有中到大雨，其中，广西西南部、四川盆地东部等地部分地区有暴雨或大暴雨(100～150毫米)；台湾海峡将有6～7级、阵风8级的东北风，东海南部海域、台湾以东洋面、南海东北部海域将有5～6级、阵风7级的东北风。</p>
+<p>9月16日08时至17日08时，湖北、四川南部和东部、重庆、贵州北部、西藏东南部、广西西部等地部分地区有中到大雨，其中，西藏东南部、湖北西部、重庆北部等地部分地区有暴雨或大暴雨(100～150毫米)；台湾海峡、南海东北部海域将有5～6级、阵风7级的东北风。</p>
 <p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
 <p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
 <p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
@@ -548,233 +198,468 @@ notice:
 <p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
 <p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
 <p>法国人在无锡造折叠“三蹦子” 销往欧洲售价近2万人民币</p>
-<p>北京2027年世界田径锦标赛进入倒计时一周年</p>
 <p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-14 00:37 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-14 09:01 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
+  <span class="news-tag-pill">#中新网</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-14/10695866.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/sh/2026/09-14/10695897.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-c-bd51-7612268d6d33-html-2b14b49c3983701a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="it" data-content-length="440" data-content-paragraphs="1" data-published-at="2026-09-13T16:34:21.000Z" data-time-source="publication">
+<div id="story-lition-one-nation-ntwnfb-dfee00f87499697d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="285" data-content-paragraphs="5" data-published-at="2026-09-14T01:00:28.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:34</span>
+  <span class="news-meta-time">🕒 2026-09-14 09:00</span>
 </div>
 
-### [墨西哥锡那罗亚和平游行前夕单日10人遇害](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/messico-10-uccisi-in-un-solo-giorno-in-sinaloa-alla-vigilia-della-marcia-per_82721a35-37d7-4e3c-bd51-7612268d6d33.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Messico, 10 uccisi in un solo giorno in Sinaloa alla vigilia della marcia per la pace</div>
+### [政治直播：哈斯蒂敦促与美国达成协议以获取人工智能模型；泰勒称汉森关于阿尔巴尼斯母亲的言论“不可逾越底线”](https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Politics live: Hastie urges deal with US to get AI model; Taylor says Hanson’s comments on Albanese’s mother ‘off limits’</div>
 
-<div class="article-body" data-article-body="true"><p>在锡那罗亚贩毒集团旗下的“小矮子派”（Los Chapitos）与“马约派”（Los Mayos）派系交火两年之后，首府库利亚坎组织了要求加强治安的和平游行，然而就在游行前夕，墨西哥锡那罗亚州昨日有10人遇害。据Infobae报道，库利亚坎记录了4起谋杀案，马萨特兰5起，埃斯奎纳帕1起。《改革报》（Reforma）报道称，当天还发生了多起交火、发现尸体以及车辆被纵火事件。据《环球报》（El Universal）报道，在同处该州的地区，有关当局逮捕了“小矮子派”一个分支团伙的11名疑似成员，他们被控于去年1月在拉康科迪亚绑架并杀害了10名矿工。嫌疑人在埃斯奎纳帕落网，查获长枪12支、弹药及防弹背心。在主教赫苏斯·何塞·埃雷拉·基尼奥内斯主持弥撒后，数百名身着白衣的市民今天走上库利亚坎街头，高呼“锡那罗亚站起来”和“我们要锡那罗亚迎来和平”。家属们还带来了失踪亲人的寻人传单。据组织者称，各派系之间的冲突已导致至少4000人丧生。<br />版权所有 © Copyright ANSA</p></div>
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/822672773d97da8267beac0dc02a91588c8427fb/295_0_2953_2363/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=13d723a449a1d749db291523be38ccd5" alt="政治直播：哈斯蒂敦促与美国达成协议以获取人工智能模型；泰勒称汉森关于阿尔巴尼斯母亲的言论“不可逾越底线”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>实时关注当天新闻<br />获取我们的全新政治类电子邮件、免费应用或每日新闻播客</p>
+<p>休姆称汉森关于阿尔巴尼斯母亲的言论“无端且不必要”</p>
+<p>简·休姆加入了批评保琳·汉森的行列，抨击她此前针对安东尼·阿尔巴尼斯母亲发表的言论。</p>
+<p>“我认为，这些言论既无端又不必要。而且，我认为，贬低那些在社会住房中长大的人，是有些不得体的。我的意思是，这进一步说明，汉森参议员还曾因在那幅漫画中对安德鲁·哈斯蒂发表的恶劣言论而不尊重我们的退伍军人群体。称一名退伍军人为叛徒，我认为这可能是你能做出的最糟糕的事情。”</p>
+<p>“但这似乎已经成为‘一国党’如今的一个共同特点，即那种毫无必要、故意挑衅的言辞。”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 2026-09-14 00:34 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Guardian (英国卫报官方英文)】于 2026-09-14 09:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#ANSA</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/13/messico-10-uccisi-in-un-solo-giorno-in-sinaloa-alla-vigilia-della-marcia-per_82721a35-37d7-4e3c-bd51-7612268d6d33.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ans-supreme-court-ruling-2cfa6aee296400b2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="847" data-content-paragraphs="15" data-published-at="2026-09-13T16:34:12.000Z" data-time-source="publication">
+<div id="story-g-leaves-royals-helpless-9331165e6e2772ee" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1009" data-content-paragraphs="15" data-published-at="2026-09-14T00:35:29.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:34</span>
+  <span class="news-meta-time">🕒 2026-09-14 08:35</span>
 </div>
 
-### [最高法院裁决后，这个红州的选举乱局对共和党人而言愈发诡谲](https://www.foxnews.com/politics/election-chaos-red-state-stranger-republicans-supreme-court-ruling)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Election chaos in this red state just got even stranger for Republicans after Supreme Court ruling</div>
+### [蓄须红袜新秀佩顿·托勒开局投出完美半局，皇家队束手无策](https://www.foxnews.com/outkick-sports/mustachioed-red-sox-rookie-payton-tolle-opens-game-immaculate-inning-leaves-royals-helpless)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Mustachioed Red Sox rookie Payton Tolle opens game with immaculate inning, leaves Royals helpless</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/f7721b60-capitol-dome-statue.png?ve=1&amp;tl=1" alt="最高法院裁决后，这个红州的选举乱局对共和党人而言愈发诡谲" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/redsox1234.jpg?ve=1&amp;tl=1" alt="蓄须红袜新秀佩顿·托勒开局投出完美半局，皇家队束手无策" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>在最高法院叫停了一份本有助于共和党在11月赢得另一个众议院席位的国会选区划分图后，密苏里州的共和党人遭受了新的打击。</p>
-<p>上周作出的这项裁决意味着，密苏里州将采用其2022年的国会选区地图，而非唐纳德·特朗普总统及密苏里州共和党人所支持的新边界划分。</p>
-<p>密苏里州是根据新地图举行8月初选的，这意味着候选人是基于一套选区边界赢得党内提名的。但在11月大选之前，这些边界将发生变动，届时密苏里州预计将重新恢复使用2022年的地图。</p>
-<p>特朗普在债务激增之际以5000美元支票为饵——但前提是共和党须跨越中期选举的关键障碍</p>
-<p>通常情况下，各州在人口普查后每十年重新划分一次国会及州议会选区，以反映人口变化，并确保每个选区拥有大致相同数量的居民。</p>
-<p>新地图原本将民主党籍众议员伊曼纽尔·克利弗（Emanuel Cleaver）所在的堪萨斯城选区部分区域划入更倾向于共和党的地区，从而使该席位的竞争更为激烈。</p>
-<p>共和党人曾希望这些变动有助于他们在11月的中期选举中夺得密苏里州八个众议院席位中的七个。目前，共和党占据该州八个席位中的六个，民主党占有两个。</p>
-<p>密苏里州现在必须使用2022年的地图，该地图使克利弗所在的选区对民主党更加有利。</p>
-<p>最高法院是在就密苏里州应使用哪份国会选区地图展开了长达一年多的法律缠斗之后作出这一裁决的。</p>
-<p>密苏里州依据新地图举行了8月初选，但该州将在11月大选期间使用2022年的选区边界。这意味着，部分选民在11月可能被划入与其在初选时投票选区不同的国会选区。</p>
-<p>据美联社估计，这一变动可能影响超过100万选民，占密苏里州选民总数的近四分之一。</p>
-<p>距离11月大选仅剩数周，相互冲突的法院指令进一步加剧了混乱。候选人和选举官员目前必须根据2022年的边界进行调整。</p>
-<p>密苏里州最高法院在中期选举前叫停共和党支持的国会选区地图；特朗普怒斥该裁决“荒唐透顶”</p>
-<p>最高法院在这份简短裁定中并未说明其理由。</p>
-<p>白宫未立即回应福克斯数字新闻（Fox News Digital）的置评请求。</p></div>
+<div class="article-body" data-article-body="true"><p>波士顿红袜队留着棒球界最引人注目八字胡之一的新秀左投佩顿·托勒（Payton Tolle），在周日因雨推迟开打的对阵堪萨斯城皇家队的比赛中，以投出一个“完美半局”（immaculate inning，指单半局9球三振3人）惊艳开局。</p>
+<p>在芬威球场观众的注视下，托勒仅用9颗球就解决了皇家队的前三棒打者。这位23岁的左投手积极进攻好球带，连续投出8颗四缝线快速球和1颗伸卡球。</p>
+<p>《克雷格·卡顿秀》（THE CRAIG CARTON SHOW）——真实不遮掩、毫不道歉且不容错过。立即下载他的每日播客！</p>
+<p>在投出第9球之前，托勒兴奋地看向本垒，他知道自己即将完成一个完美半局。随后他三振了杰克·卡利亚诺内（Jac Caglianone），达成了这一壮举。</p>
+<p>这个完美半局是MLB历史上的第125次，也是自1901年以来红袜队史上的仅第8次。</p>
+<p>托勒成为了波士顿自2021年克里斯·塞尔（Chris Sale）以来首位达成该成就的投手，也是自名人堂成员佩德罗·马丁内斯（Pedro Martinez）于2002年5月对阵西雅图水手队完成这一壮举以来，首位在首局就达成该纪录的红袜投手。</p>
+<p>前MLB左投托马斯·潘农以94球为纳什维尔之声队投出3A级完美比赛统治全场</p>
+<p>堪萨斯城打者唯一一次碰到球是第7球，卡利亚诺内勉强将一颗伸卡球击成左侧界外球。</p>
+<p>这位波士顿新秀最终交出了6局无失分的优异成绩单，仅被敲出4支安打并送出1次保送，在投了96球中送出7次三振，帮助球队以4比1锁定胜局。</p>
+<p>美联水平差到可笑，让棒球界最差的球队之一得以挤入季后赛争夺战</p>
+<p>这7次三振使托勒新秀赛季的三振总数达到166次，在红袜队史新秀榜上升至第二位，仅次于松坂大辅在2007年创下的201次三振纪录。</p>
+<p>就在24小时前，托勒还曾公开批评现代棒球严格限制先发投手投球数的趋势。</p>
+<p>“我可能更偏向老派风格，”当被问及全联盟先发投手工作量下降的问题时，托勒对记者表示，“我从小就认为先发投手每次登场都应该尽可能投得越久越好……每次走上投手丘，我都想投出一场完投。这是在当今棒球运动中正在失落的一件珍贵特质。”</p>
+<p>随着红袜队正在为美联外卡席位展开争夺，一名依然渴望在比赛后段留在场上投球的新秀，无疑是一件相当有用的武器。</p>
+<p>欢迎向我们发送您的想法：alejandro.avila@outkick.com / 在X上关注：@alejandroaveela</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-14 00:34 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-14 08:35 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/politics/election-chaos-red-state-stranger-republicans-supreme-court-ruling" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/mustachioed-red-sox-rookie-payton-tolle-opens-game-immaculate-inning-leaves-royals-helpless" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-world-2187071-ee8fd206d9fa20ab" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="421" data-content-paragraphs="5" data-published-at="2026-09-13T16:33:41.000Z" data-time-source="publication">
+<div id="story--jumps-no-1-big-comeback-f7fdd93ee6dea7d9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1585" data-content-paragraphs="16" data-published-at="2026-09-14T00:23:54.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 08:23</span>
+</div>
+
+### [新一期美联社大学橄榄球排名惩罚俄亥俄州立、俄克拉何马和俄勒冈；得州大逆转后升至第1位](https://www.foxnews.com/outkick-sports/ap-poll-top-25-punishes-ohio-state-oklahoma-oregon-texas-jumps-no-1-big-comeback)
+<div class="original-title-sub"><span class="orig-tag">原文</span> New AP Poll Top 25 punishes Ohio State, Oklahoma, Oregon, Texas jumps to No 1 after big comeback</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/arch-manning-texas-longhorns-fox-news__004.jpg?ve=1&amp;tl=1" alt="新一期美联社大学橄榄球排名惩罚俄亥俄州立、俄克拉何马和俄勒冈；得州大逆转后升至第1位" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>大学橄榄球赛季第二周再次上演了一连串典型的混乱赛果。由于多场出人意料的比赛结果，大学橄榄球季后赛的形势已经发生变化。</p>
+<p>俄勒冈鸭队原本被认为将与俄亥俄州立七叶树队和印第安纳大学队争夺十大联盟冠军，但他们不仅险些输给博伊西州立大学队，还理所当然地败给了俄克拉何马州立大学队。俄克拉何马州立队在本州的对手、俄克拉何马大学捷足者队则在客场输给了密歇根大学队，而且全场只得到10分。</p>
+<p>密歇根队在第一周那场带有诸多争议的西密歇根大学队胜利后，一度被认为已经无缘竞争，如今却在击败一支东南联盟排名前11位的对手后，突然重新回到季后赛竞争行列。当然，得州大学长角牛队还在年度最重要的一场比赛中击败了俄亥俄州立队，这大幅提升了他们的战绩履历；如果他们需要争取季后赛外卡席位，这也将为他们带来显著优势。</p>
+<p>本周的美联社大学橄榄球排名前25名反映了部分混乱局面，同时也很好地说明了尼克·萨班等人所主张的“有些胜利胜过有些失利”这一观点存在缺陷。</p>
+<p>以下是本周的排名，以及这对本赛季剩余比赛意味着什么。</p>
+<p>其中一个显而易见的结论是？无论球迷、教练还是评论员怎么说，胜负显然仍然是最重要的因素。即便将“赛程强度”纳入考量，也是如此。</p>
+<p>点击这里获取更多OutKick体育报道</p>
+<p>俄克拉何马队输给密歇根队后暴跌13位；尽管他们在主客场系列赛中安排了一支具备排名前20实力的对手，却没有因此得到任何认可。与此同时，杨百翰大学队在普罗沃以28比17击败亚利桑那大学队后，猛升4位，超过了数支球队。</p>
+<p>印第安纳队在击败霍华德大学队后同样上升；迈阿密大学队在以77比7大胜毫无还手之力的佛罗里达农工大学队后也获得了提升。这些球队为何会上升？因为俄亥俄州立队在客场以1分之差输给得州大学队后，排名惊人地下跌了5位。那场比赛中，俄亥俄州立队一度领先20分，而且如果不是一次射失的任意球，他们本来就很可能顺利带着胜利回家。</p>
+<p>《克雷格·卡顿秀》——未经删节、毫不 apologetic、绝对不容错过。现在就下载他的每日播客！</p>
+<p>问题也正在于此。七叶树队做了所有人都声称希望大学橄榄球队做到的事：在校园系列赛中安排一支顶级对手。虽然他们在场上输掉了比赛，但正如赛后胜率预期和预期得分所显示的，这实际上是一场势均力敌的比赛。根据ESPN的SP+模型，长角牛队的预期胜率为50.2%，俄亥俄州立队为49.8%；调整后得分差为0.0。几乎不可能再有比这更加势均力敌的比赛了。</p>
+<p>零废话，只有达基奇。带着《别@我》播客上路。现在就下载！</p>
+<p>他们得到的回报是什么？排名下跌5位，排在印第安纳和迈阿密之后，而这两队面对的都是实力明显不及自己的FCS球队。在一个重视赛程和战绩履历的世界里，俄亥俄州立队的排名不应低于第二位。他们面对的是如今排名全国第一的球队，而且在没有获胜的情况下，已经尽可能接近胜利了。他们为什么还要下跌？难道他们击败鲍尔州立大学队的表现不够令人印象深刻，或者佐治亚大学队先后对阵田纳西州立大学队和西肯塔基大学队后，我们就对佐治亚斗牛犬队有了什么新的认识？</p>
+<p>无论人们怎么说或怎么声称，人类总是会根据结果进行评判。要求他们依据其他因素将球队排名上调或下调，实在强人所难。因此，七叶树队和捷足者队排名下跌，而与一支FCS球队比赛却得到了奖励。</p>
+<p>归根结底，在整个赛季结束时，美联社排名第二周的变化并没有太大意义。但它体现了季后赛遴选委员会现在以及未来所持有的思维方式。关键不只是胜负，还在于你面对所遇到的对手时打出了怎样的表现。</p>
+<p>至于俄勒冈队，他们拥有足够的赛程优势和天赋，可以努力重返季后赛竞争，但他们已经没有犯错的余地了。在对阵波特兰州立大学队之后，他们将客场挑战南加州大学队，本赛季稍后还要面对俄亥俄州立、密歇根和华盛顿。鸭队最好尽快全面提速，否则到了9月底，他们可能就会在前25名之外仰望排名了。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-14 08:23 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/ap-poll-top-25-punishes-ohio-state-oklahoma-oregon-texas-jumps-no-1-big-comeback" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-hout-a-phone-number-2222-f455340860a296d8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="742" data-content-paragraphs="19" data-published-at="2026-09-13T21:47:04.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 05:47</span>
+</div>
+
+### [在 Signal 上不使用电话号码注册将采用零知识证明](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Registration without a phone number on Signal will use zero-knowledge proofs</div>
+
+<div class="article-body" data-article-body="true"><p>你有合理的担忧，但在这件事上你完全错了。零知识证明不仅是捐赠徽章和备份支付背后的技术，也是群组功能背后的技术。它们无法将你与某一笔特定捐赠联系起来，就像无法将你与某个特定群组联系起来一样。</p>
+<p>别忘了，Signal 始终可能被传唤，要求保留与某些账户相关的元数据信息。</p>
+<p>Signal 的优点在于，其客户端从设计上就不信任服务器。事实上，即使完全不查看服务器端代码，也可以证明 Signal 是绝对安全的。</p>
+<p>零知识证明还用于验证用户名的字符集和长度等信息，同时不会实际披露用户名内容，这非常酷，其中涉及的数学远远超出了我的理解范围。</p>
+<p>即将发布的 Android 8.25 版本的 Android 测试版反馈</p>
+<p>零知识证明</p>
+<p>我一直想知道 ZKP 是什么。</p>
+<p>另外还有一个相关功能。“另存为 PDF”很有意思。:)</p>
+<p>即将发布的 Android 8.26 版本的 Android 测试版反馈</p>
+<p>如果这项功能真的推出，Signal 组织应当澄清一些有关隐私的技术细节。</p>
+<p>电话号码是否会与用户名完全解除关联？</p>
+<p>设备本地还会残留什么？服务器上又会残留什么？</p>
+<p>我猜这种解除关联并不是百分之百彻底的。这就引出了第二个问题：创建一个不使用电话号码的新账户是否更好？解除电话号码关联可能不是最佳选择。</p>
+<p>不过，解除电话号码关联可能是免费的。</p>
+<p>我认为目前还没有任何迹象表明会这样做。</p>
+<p>在这种情况下，冷却期设置得合理。不过，即使冷却期为一个月，也可能不足以阻止垃圾信息发送者和诈骗者。冷却期也不可能设置得太长。</p>
+<p>仅靠冷却期可能还不够。</p>
+<p>即将发布的 Android 8.27 版本的 Android 测试版反馈</p>
+<p>由 Discourse 提供支持，启用 JavaScript 后浏览效果最佳</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-14 05:47 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ttempted-ouster-by-board-402875826886258c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1346" data-content-paragraphs="10" data-published-at="2026-09-13T20:19:06.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 04:19</span>
+</div>
+
+### [遭董事会罢免未遂后，穆伦维格重返CEO职位](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Mullenweg has returned as CEO after attempted board ouster</div>
+
+<div class="article-body" data-article-body="true"><p>在经历动荡的一周后，WordPress创始人马特·穆伦维格（Matt Mullenweg）此前通过董事会投票被免去WordPress.com母公司Automattic的首席执行官职务，如今该公司已发布声明，确认穆伦维格已重返该职位。</p>
+<p>“马特·穆伦维格是Automattic的主席兼CEO，获得了董事会的全力支持，如果你在网上搜索，也可以看到许多高管和Automattic员工同样在支持他，”该公司一位发言人在美东时间周六傍晚刚过5点时通过电子邮件向TechCrunch表示。（提及网络支持似乎是指穆伦维格一直在其X账号上转发的支持性推文。）</p>
+<p>Automattic董事会本周早些时候投票决定让穆伦维格带薪休假，原因不明。此举似乎让穆伦维格措手不及，他在Automattic的Slack上发帖，指责董事会成员密谋“反对”他。</p>
+<p>Automattic周三向TechCrunch证实了穆伦维格被解职一事，称穆伦维格“目前正在休假”，Automattic首席财务官马克·戴维斯（Mark Davies）将代理临时CEO，并获得董事会的“充分信任”。</p>
+<p>然而，董事会的计划并没有顺利推进。据多位消息人士向TechCrunch透露，穆伦维格似乎拒绝离开，他将其他管理员移除了公司Slack，并向员工表示一切已经解决，他已重新掌控Automattic。一度，他还在Slack上发帖称“我现在是个海盗”，并罕见地爆了粗口——这在以往穆伦维格身上以不出格著称的行为中十分罕见。“如果这是一个HR问题，请来管管我，因为我平时的管理团队都在马克·戴维斯那边，”他写道。</p>
+<p>当TechCrunch询问穆伦维格关于他重返CEO职位的言论是否属实时，他承诺将发布一篇博文。然而博文发出后，内容却是关于他购买一艘船屋的。当我们询问他关于回归的言论是否也是在恶搞（trolling）时，他回复道：“我不是在恶搞，显然，我是个海盗。”穆伦维格从未对他的回归提供任何正式置评，但他在X上指出，这很可能是他第五次面临“政变”。</p>
+<p>Automattic在周五也未回复多次置评请求，也未对我们听到的有关董事会成员托尼·施耐德（Toni Schneider）辞职的报道作出回应。施耐德是Automattic的创办CEO，目前领导Bluesky。他未回复发送至其个人邮箱或通过Bluesky发出的置评请求。</p>
+<p>此后，我们再次就此事及董事会构成的其他变动向Automattic进行询问，我们获悉这些变动可能仍在持续变动中。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>消费新闻编辑<br />预订展位桌位的最后一天是9月18日。切勿错失在Disrupt展厅获得高影响力潜在客户、投资者对接以及品牌曝光的机会。<br />Revolut证实因虚假政府请求导致客户数据泄露<br />OpenAI因Astra需求过大暂停Pro订阅<br />身份验证巨头IDScan证实遭遇数据泄露，超1.5亿张驾照失窃<br />Automattic董事会迫使CEO马特·穆伦维格休假<br />苹果推出其首款折叠屏手机iPhone Duo<br />纽约大学数学家称OpenAI在决定职业生涯的关键数学问题上手段肮脏<br />一部秘密拍摄的伊丽莎白·霍姆斯新纪录片震撼特柳赖德电影节</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-14 04:19 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ai-industry-overreacting-395acc6e88d3562e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="548" data-content-paragraphs="1" data-published-at="2026-09-13T19:41:48.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:33</span>
+  <span class="news-meta-time">🕒 2026-09-14 03:41</span>
 </div>
 
-### [BSW党专家呼吁德国退出北约](https://tass.com/world/2187071)
-<div class="original-title-sub"><span class="orig-tag">原文</span> BSW expert calls for Germany’s withdrawal from NATO</div>
+### [特朗普和迈克·约翰逊认为人工智能行业反应过度](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump and Mike Johnson think the AI industry is overreacting</div>
 
-<div class="article-body" data-article-body="true"><p>柏林，9月13日。/塔斯社/。德国BSW党（原名“萨拉·瓦根克内希特理性与正义联盟”）的外交政策专家塞维姆·达代伦（Sevim Dagdelen）认为，德国应当退出北约。</p>
-<p>“与BSW青年翼的立场一样，我在此明确且毫不含糊地指出：德国必须退出北约。我们需要一个不再遵循美国企业和寡头私利所下达指令的中立国家。北约既不是一个基于价值观的联盟，也不是一个防御性联盟，”她在接受网络媒体《Overton》采访时表示。</p>
-<p>“这一点体现在两个方面：该联盟支持以色列对巴勒斯坦人的种族灭绝，并且正在乌克兰对俄罗斯发动一场代理人战争，”她指出。</p>
-<p>“今天对北约说‘赞成’的人，就是对唯有一项目标——减缓美国霸权衰落——的世界大战战略说‘赞成’，”达代伦强调道。她补充称，大多数德国人反对触发《北大西洋公约》第五条的可能性。“而这恰恰就是北约的存在目的，”她指出。</p>
-<p>《华盛顿条约》第五条规定，所有北约成员国都有义务对任何针对该集团成员国的侵略行为作出响应。</p></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="特朗普和迈克·约翰逊认为人工智能行业反应过度" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>与这一主题相关的帖子将添加到你的每日电子邮件摘要和首页信息流中。<br />共和党人担心，放缓人工智能发展可能会让中国占据优势。<br />该作者发布的帖子将添加到你的每日电子邮件摘要和首页信息流中。<br />查看特伦斯·奥布莱恩发布的所有文章<br />昨天，Anthropic首席执行官达里奥·阿莫代伊发表了一封篇幅很长的公开信，称现在是时候“放慢前沿发展步伐”并减缓人工智能发展的速度了。OpenAI的萨姆·奥尔特曼和埃隆·马斯克都表示赞同，并在X平台公开表达了支持。就连Alphabet旗下公司的德米斯·哈萨比斯也对阿莫代伊的提议表示了暂时性的支持。<br />然而，美国总统唐纳德·特朗普和众议院议长迈克·约翰逊似乎认为，这些人工智能企业高管反应过度，并担心暂停发展可能导致中国在人工智能竞赛中超过美国。据《金融时报》报道，特朗普说：“听着，我们在人工智能方面领先于中国……坦率地说，我希望保持这种局面，因为谁赢得人工智能，谁就赢得一切。”<br />约翰逊在CNN节目中回应了类似观点。他对主持人杰克·塔珀表示，仓促对人工智能发展施加限制可能会成为“国家安全威胁”。他敦促人们不要恐慌。“如果国会只是仓促采取行动，召开某种紧急会议，试图监管人工智能，我们就会输掉与中国的竞赛。”<br />一份免费提供的每日摘要，汇集最重要的新闻。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-14 00:33 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-14 03:41 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TASS</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://tass.com/world/2187071" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ws-articles-c7v48vp31mdo-405af91616a2d21a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1083" data-content-paragraphs="16" data-published-at="2026-09-13T16:29:27.000Z" data-time-source="publication">
+<div id="story--iphone-game-controllers-499803bcd27c8772" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="620" data-content-paragraphs="10" data-published-at="2026-09-13T18:30:16.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
-    <span class="stance-badge">英伦主流建制</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:29</span>
+  <span class="news-meta-time">🕒 2026-09-14 02:30</span>
 </div>
 
-### [在专家发出严重警告并呼吁放缓研发速度后，特朗普淡化人工智能风险](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump downplays AI risks after dire expert warnings and calls to slow development down</div>
+### [据报道，苹果正在开发 iPhone 游戏手柄](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Apple is reportedly working on iPhone game controllers</div>
 
-<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg" alt="在专家发出严重警告并呼吁放缓研发速度后，特朗普淡化人工智能风险" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="据报道，苹果正在开发 iPhone 游戏手柄" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该视频无法播放<br />特朗普总统称“消极力量”正在提出不会发生的人工智能风险<br />在专家连日发出严厉警告后，美国总统唐纳德·特朗普淡化了人工智能带来的风险。</p>
-<p>“有许多非常消极的力量在提及这件事，他们本不该提及，他们提出的是根本不会发生的事情，”特朗普在访问爱尔兰期间表示。</p>
-<p>其中一项警告来自Anthropic前研究员，他表示如果目前的开发速度继续下去，“在不久的将来，我们所有人极有可能会丧命”。</p>
-<p>周六，顶级行业领袖对此表示赞同并呼吁放缓研发步伐。特朗普并未直接回应这一提议，但他表示：“我们在人工智能领域领先中国……坦率地说，我想保持这种状态，因为无论谁赢得了人工智能，谁就赢了一切。”</p>
-<p>就在特朗普发表讲话的同一天，几天前刚从Anthropic辞职的人工智能研究员雅各布·考克森（Jacob Coxon）向BBC透露，研发这些系统的人员对人类的未来感到“发自内心地害怕”。</p>
-<p>考克森曾任职于OpenAI，他对放缓研发步伐的提议表示赞成，但指出这需要与中国进行协调。</p>
-<p>周六，xAI所有者埃隆·马斯克（Elon Musk）和OpenAI的萨姆·奥尔特曼（Sam Altman）支持了Anthropic负责人达里奥·阿莫代伊（Dario Amodei）发出的警告，即应当放缓开发步伐，“以降低出现严重差错的风险”。</p>
-<p>这位Anthropic首席执行官表示，任何放缓都必须有所限度，以避免让中国走在前面。</p>
-<p>围绕人工智能的问题引发了激烈辩论，并让许多世界领导人陷入两难境地。</p>
-<p>一方面，该行业被视为促进经济增长的巨大机遇，以及改进陈旧数字系统和工作方式的一种途径。</p>
-<p>但另一方面，也发生了多起人工智能似乎出现严重差错的事件。</p>
-<p>今年8月，OpenAI表示已放缓训练其部分最先进的人工智能模型，以提升安全性。</p>
-<p>这家ChatGPT制造商表示，在其人工智能代理绕过安全防护并入侵科技初创公司Hugging Face后，公司正在增加新的防护措施。</p>
-<p>同月有披露称，全球两款最强大的人工智能工具创建了虚假的人类个人资料，试图在疑似网络攻击中欺骗人类。</p>
-<p>英国人工智能安全研究所（AISI）表示，在最严重的一起案例中，Anthropic的Mythos人工智能通过发送私信试图获取某项服务的访问权限，它设置了模仿真实人类的虚假账户，随后还销毁了证据。</p>
-<p>前Anthropic研究员告诉BBC：AI从业人员对人类未来“发自内心地害怕”<br />Anthropic负责人达里奥·阿莫代伊呼吁放缓人工智能发展<br />为何一些专家越来越担心人工智能会接管一切<br />来自内部的惊人警告在硅谷部分人士面前未引起波澜</p></div>
+<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到你的每日电子邮件摘要和首页信息流中。</p>
+<p>这些配件可能会以 Beats 品牌销售。</p>
+<p>该作者发布的帖子将添加到你的每日电子邮件摘要和首页信息流中。</p>
+<p>查看 Terrence O&#39;Brien 发布的所有文章</p>
+<p>彭博社的马克·古尔曼表示，苹果正在为 iPhone 开发两款游戏手柄，并且很可能会以 Beats 品牌销售。有关苹果可能进入游戏手柄业务的传闻已经流传了一段时间。但上周，MacRumors 报道称，在 macOS 26.7 的代码中发现了两处对游戏手柄的引用，这两款设备被标识为苹果自有设备。</p>
+<p>尽管相关代码是在 macOS 而非 iOS 中发现的，但古尔曼表示，这些手柄是为 iPhone 设计的。此外，他称这一产品由 Beats 的高管牵头开发。苹果有时会利用旗下子品牌来试水新的产品类别，并以更低的价位展开竞争，同时避免影响其定位更高端的 Apple 产品线。正如古尔曼所指出的：</p>
+<p>例如，Beats 目前销售一系列 iPhone 手机壳和 USB-C 数据线，它们不一定符合苹果通常的设计理念。在这种背景下，推出一款游戏手柄是合理的。为了覆盖广泛的消费者群体，它必须具备相对亲民的价格，这意味着要避免使用通常与苹果产品相关的某些昂贵材料和表面处理工艺。围绕游戏手柄形成的文化和生活方式，也可能很自然地纳入 Beats 的品牌体系。</p>
+<p>查看所有苹果传闻</p>
+<p>每天免费获取最重要新闻的摘要。</p>
+<p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【BBC World (英国BBC官方英文)】于 2026-09-14 00:29 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-14 02:30 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#BBC</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/994426/apple-iphone-game-controllers" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--impact-growth-world-cup-297f360c462c08fc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1079" data-content-paragraphs="12" data-published-at="2026-09-13T16:27:34.000Z" data-time-source="publication">
+<div id="story--still-serving-dodgy-ads-87060bd958a6a516" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="747" data-content-paragraphs="17" data-published-at="2026-09-13T17:37:44.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-14 00:27</span>
+  <span class="news-meta-time">🕒 2026-09-14 01:37</span>
 </div>
 
-### [国际篮联秘书长安德烈亚斯·扎格里斯谈凯特琳·克拉克对女篮世界杯发展的推动作用](https://www.foxnews.com/outkick-sports/fiba-secretary-general-andreas-zagklis-speaks-caitlin-clark-impact-growth-world-cup)
-<div class="original-title-sub"><span class="orig-tag">原文</span> FIBA Secretary General Andreas Zagklis speaks out on Caitlin Clark&#39;s impact on growth of World Cup</div>
+### [为什么谷歌还在投放可疑广告？](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Why is Google still serving dodgy ads?</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/caitlin-clark-womens-fiba-world-cup-2026.jpg?ve=1&amp;tl=1" alt="国际篮联秘书长安德烈亚斯·扎格里斯谈凯特琳·克拉克对女篮世界杯发展的推动作用" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>国际篮联（FIBA）秘书长安德烈亚斯·扎格里斯谈到了凯特琳·克拉克及其他首次参加世界杯的新生代年轻球员，对该项赛事的成长与关注度提升所产生的影响。</p>
-<p>扎格里斯在对阵法国队的世界杯决赛前的新闻发布会上发言，称克拉克是她这一代中最耀眼的球星之一，并预测在2028年洛杉矶奥运会上，女篮球员的受欢迎程度可能会超过男篮球员。</p>
-<p>“我认为这些球员——凯特琳是其中之一——在提升女子篮球运动普及度方面所做的一切令人难以置信。我们应该为她们感到非常自豪。我可以告诉你们，我和我的团队一直全力支持美国篮协以及每一个来到世界杯的国家会员协会为自身宣传所制定的计划。我们努力将这种体验放大。球员们自己也表示，这对她们来说是一个独一无二的时刻，”扎格里斯说。</p>
-<p>【全美目光聚焦凯特琳·克拉克的作用，全球最具统治力的篮球王朝面临考验】</p>
-<p>“所以，虽然我现在可能无法量化答案并给你们确切的数字，但我们的团队也许可以在赛后完成这项工作，但我可以告诉你们，我们女子赛事的普及度，以及作为这一代最伟大球星之一（甚至可以说就是最耀眼的球星）的凯特琳所带来的影响是实实在在的。我们在西班牙球员伊亚娜·马丁身上也看到了这一点，她是2023年U19女篮世界杯的MVP。就在本届赛事开幕前两天，她刚刚与一家国际篮联合作伙伴签署了一份重大赞助协议。</p>
-<p>“因此，世界各地的球员都在抓住这些机遇。我为她们感到无比骄傲。我可以告诉大家，我确实坚信，在洛杉矶奥运会上，我们的女子球员的受关注程度可能会与我们许多前男子球员平起平坐，甚至更高。这并不是在批评任何人。这只是这项运动整体发展的结果。我们为男子和女子球员都感到自豪，我们必须承认，是他们共同让我们的运动达到了如今全球化的水平。”</p>
-<p>【克雷格·卡顿秀——直言不讳、从不妥协、不容错过。立即下载他的每日播客！】</p>
-<p>克拉克已经成为本届赛事的最大看点之一，而她甚至没有在一场比赛中担任过首发。</p>
-<p>在美国队取得的全部五场胜利中，克拉克都是替补登场，与她一同替补的还有年轻球星安吉尔·里斯和佩奇·布克斯，因为主教练卡拉·劳森在美国队的全部五场胜仗中均选择安排经验丰富的老将首发。</p>
-<p>即便如此，克拉克依然是本届赛事表现最为出色的球员之一。</p>
-<p>这位24岁的后卫场均上场时间刚刚超过20分钟，位列全队出场时间最多的球员梯队。在这些出场时间里，她证明了自己是一名顶尖的组织核心，目前以场均5.8次助攻在整届世界杯中排名第三。</p>
-<p>她的组织才华在球队战胜中国队的首战中展现得最为淋漓尽致，她登场后立刻盘活了美国队的进攻，贡献了14分以及创纪录的11次助攻，且没有出现一次失误。</p></div>
+<div class="article-body" data-article-body="true"><p>人工智能非常擅长识别欺骗性广告——谷歌为什么不使用它？</p>
+<p>几个月前，我注意到这则广告出现在 YouTube 应用中。我之所以注意到它，主要是因为我不小心点了进去——我知道自己的 iPhone 存储空间快用完了，一时注意力不集中就中了招。</p>
+<p>即使是最严格的审核流程，也难免会有漏网之鱼，所以我尽到了作为互联网用户的责任，举报了这则广告。</p>
+<p>我得到的回复并不令人满意：</p>
+<p>再说一次，有时确实会有东西漏网，人们也不总是会认真检查，所以我再次举报了它。得到的还是同样的回复。</p>
+<p>事实上，已经有多人举报了这则广告，收到的回复也都是一样的：</p>
+<p>“我们认定，这则广告没有违反谷歌的政策。谷歌的政策禁止某些我们认为会对用户和整个网络生态系统造成危害的内容和做法。”</p>
+<p>我非常喜欢“汉隆剃刀”原则。</p>
+<p>“不要把可以充分用愚蠢解释的事情归咎于恶意。”</p>
+<p>不过，如果你不那么宽容，就不得不怀疑：对于那些能获得大量点击的广告，删除它们是否符合谷歌的利益。毕竟，这些广告的效果可能很好，能带来大笔可爱的钞票🤑。</p>
+<p>更简单的解释是，负责审核广告的人不可能把所有内容都审查到位，因此有些东西被漏掉了。</p>
+<p>你不禁会想，人工智能应该在这里发挥作用。考虑到谷歌拥有一些相当不错的模型——它肯定可以把这些模型用起来吧？</p>
+<p>下面是谷歌 Gemini 对这则广告的评价：</p>
+<p>“立即拒绝该广告创意。在‘误导性陈述（误导性广告设计）’项下，向广告主账户发出政策违规警告/拒登标记。此类违规行为若反复发生，可能会因欺骗性做法导致账户被全面暂停。”</p>
+<p>谷歌自己的模型几秒钟内就拒绝了这则广告，但谷歌的审核流程却批准了它两次。</p>
+<p>拜托了，肉身凡胎们——用用你们能够接触到的那些令人惊叹的人工智能工具吧。</p>
+<p>发表于 2026 年 9 月 13 日</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-14 00:27 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-14 01:37 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/fiba-secretary-general-andreas-zagklis-speaks-caitlin-clark-impact-growth-world-cup" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-r-plan-for-ai-safeguards-6118181b33088941" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1492" data-content-paragraphs="20" data-published-at="2026-09-13T16:30:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 00:30</span>
+</div>
+
+### [奥巴马敦促民主党为人工智能安全防护制定“明确计划”](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Obama urges Democrats to have a ‘clear plan’ for AI safeguards</div>
+
+<div class="article-body" data-article-body="true"><p>据《纽约时报》报道，前总统巴拉克·奥巴马近日表示，民主党需要将人工智能列为“核心议程之一”，并“制定非常明确的计划”，以应对这项技术对经济的影响及其安全问题。</p>
+<p>奥巴马于周四在一场民主党筹款活动上发表了上述言论。众议院少数党领袖哈基姆·杰弗里斯在活动中对他进行了采访。《纽约时报》称，奥巴马办公室提供了此次活动的部分文字记录。在活动中，杰弗里斯询问奥巴马，国会民主党人应如何应对人工智能。</p>
+<p>对此，奥巴马表示，一旦民主党重新取得众议院多数席位，他们就需要“为一场公开程度很高的讨论搭建框架”。</p>
+<p>奥巴马补充说：“这件事正在私人机构手中以极快的速度发展，如果我们不能及时掌控，我认为它可能会带来危险。如果我们确实能够掌控，我认为它会带来益处。我真心认为，例如，它将加速药物研发，以我们能够治愈疾病的方式推动进展。”</p>
+<p>杰弗里斯在一份声明中表示，这位前总统关于“必须对人工智能采取果断行动”的说法是正确的。杰弗里斯还说，“共和党人已经放弃了代表美国人民履行治理责任”。</p>
+<p>《纽约时报》还报道称，奥巴马已主动担任人工智能高管的“意见咨询对象”，并与Anthropic首席执行官达里奥·阿莫代伊和OpenAI首席执行官萨姆·奥尔特曼均有交谈。他发表上述言论之际，外界对人工智能安全的担忧日益加剧。此前，一名人工智能研究人员从Anthropic辞职，并声称，业内领先的人工智能公司正“径直冲向能够自我改进的超级智能，并拿我们的生命下注”。</p>
+<p>周六，阿莫代伊阐述了一套有关“控制前沿发展速度”的大致方案，其中包括允许独立安全评估机构访问领先的人工智能公司及其模型，并推动各公司制定“共同的安全标准”。奥尔特曼和SpaceX首席执行官埃隆·马斯克在社交媒体上的发文似乎对阿莫代伊的计划作出了积极回应。奥尔特曼表示，OpenAI也将承诺“让独立评估机构拥有类似员工的访问权限”。</p>
+<p>与此同时，美国总统唐纳德·特朗普周日在一次爱尔兰高尔夫活动期间与记者讨论了人工智能安全问题。彭博社报道称，特朗普夸称美国是“世界上最先进的国家”，并补充说，他希望“让美国保持这一地位，因为谁赢得人工智能，谁就赢得一切”。（今年早些时候，特朗普政府公布了一项人工智能立法框架，该框架将优先排除州层面的法律，并把儿童安全责任转移给家长。）</p>
+<p>特朗普说：“我们可以设置安全边界。我们可以做这个，也可以做那个。但我认为，有很多负面力量正在把这个问题炒起来，而它们本不应该这样做。”</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
+<p>安东尼·哈是TechCrunch周末版编辑。此前，他曾担任Adweek科技记者、VentureBeat高级编辑、《霍利斯特自由报》地方政府记者，以及一家风险投资公司的内容副总裁。他现居纽约市。</p>
+<p>如需联系安东尼·哈或核实以其名义发出的联系信息，可发送电子邮件至anthony.ha@techcrunch.com。</p>
+<p>预订展览桌的最后一天是9月18日。不要错过Disrupt博览厅中高价值的潜在客户、投资者接触机会以及品牌曝光机会。</p>
+<p>Revolut确认通过伪造政府请求导致客户数据泄露</p>
+<p>由于Astra需求激增，OpenAI暂停Pro订阅</p>
+<p>身份验证巨头IDScan确认数据泄露，超过1.5亿张驾照被盗</p>
+<p>Automattic董事会迫使首席执行官马特·穆伦韦格休假</p>
+<p>苹果发布首款折叠屏手机iPhone Duo</p>
+<p>纽约大学数学家称，OpenAI在一道关乎职业生涯的数学题上采取了不当手段</p>
+<p>一部有关伊丽莎白·霍姆斯的秘密新纪录片令特柳赖德电影节震惊</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-14 00:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--riders-with-a-ghost-gun-867d8e928133ed9d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="501" data-content-paragraphs="11" data-published-at="2026-09-13T14:28:12.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-13 22:28</span>
+</div>
+
+### [Waymo停车并报警：乘客携带“幽灵枪”](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Waymo pulls over, calls cops on riders with a ghost gun</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286668940.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Waymo停车并报警：乘客携带“幽灵枪”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>本主题的帖子将被添加到你的每日电子邮件摘要和主页信息流中。</p>
+<p>查看所有交通运输内容</p>
+<p>你的自动驾驶出租车会告发你，而且确实可能会这么做。</p>
+<p>这位作者发布的帖子将被添加到你的每日电子邮件摘要和主页信息流中。</p>
+<p>查看Terrence O&#39;Brien发布的全部内容</p>
+<p>两人在旧金山乘坐Waymo自动驾驶出租车四处行驶时被捕，此前这辆出租车靠边停车并报警。警方称，车上乘客是未成年人，持有一把装有子弹、AR式的“幽灵枪”，随后被送往少年拘留所。警方报告没有说明这辆自动驾驶汽车当时由谁操作，但Waymo后来向《洛杉矶时报》证实，这是该公司的一辆车。</p>
+<p>Waymo一名发言人告诉《洛杉矶时报》，系统检测到“一起涉及枪支、违反我们服务条款的行为”。随后，汽车靠边停车并向当局发出警报。</p>
+<p>今年早些时候，当两名乘客在车内饮酒并从车后部向外开玩具枪时，一辆Waymo车辆曾假装出现机械故障，以便靠边停车。在那起事件中，被Waymo告发的乘客同样是未成年人。因此，青少年们应当从中吸取教训：如果你要做蠢事，就别在自动驾驶出租车后座上做。</p>
+<p>查看所有自动驾驶汽车内容</p>
+<p>每日免费获取最重要的新闻摘要。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-13 22:28 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 ::::

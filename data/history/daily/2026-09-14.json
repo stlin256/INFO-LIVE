@@ -1,5 +1,1567 @@
 [
   {
+    "timestamp": 1789349048857,
+    "timeDisplay": "2026-09-14 09:24 (UTC+8)",
+    "date": "2026-09-14",
+    "runId": "feed-20260914T011317104Z-5du9p7",
+    "generatedAt": "2026-09-14T01:24:08.857Z",
+    "hourlyBriefing": {
+      "title": "本小时全球动态简报",
+      "lead": "本时段监测到多起区域气象与国际社会动态。国内方面，中央气象台发布降雨预警，海南局地出现特大暴雨，华南及华西等地需防范次生灾害；国际方面，叙利亚因燃油价格上涨引发抗议，沙特麦加遭遇强降雨及雷暴天气，澳大利亚政坛出现围绕相关争议言论的抨击。",
+      "signals": [
+        "华南及我国南部海域出现明显降水过程，海南防灾风险较高",
+        "叙利亚政府上调燃油价格引发民众抗议活动",
+        "极端天气影响中东宗教场所，麦加降下暴雨伴随雷暴",
+        "澳大利亚政坛围绕社会住房背景出身引发言论争议"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "当前证据包未提供明确的目标文章、正文内容或可核验引用，无法进行可靠的日尺度分析。",
+      "themes": [
+        {
+          "name": "证据不足",
+          "analysis": "目标文章标题、来源、发布时间、链接及正文均缺失，证据事实、引语和引用列表为空；相关目录中的部分条目也尚未完成标题翻译，因此不对事件、趋势或影响作进一步判断。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 83,
+      "completedTasks": 83,
+      "succeeded": 50,
+      "degraded": 33,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 83,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 651691,
+      "byRole": {
+        "translator": {
+          "attempts": 58,
+          "succeeded": 28,
+          "degraded": 30
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 5,
+          "degraded": 2
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "degraded": 1,
+          "succeeded": 6
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 83,
+          "succeeded": 50,
+          "degraded": 33
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-4-translator-1",
+      "article-5-translator-0",
+      "article-5-translator-1",
+      "article-5-translator-2",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-17-translator-1",
+      "article-18-translator-0",
+      "article-19-translator-1",
+      "article-20-translator-0",
+      "article-23-translator-0",
+      "article-26-translator-0",
+      "article-27-translator-1",
+      "article-29-translator-0",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-36-translator-1",
+      "article-37-translator-0",
+      "article-37-translator-1",
+      "article-38-translator-0",
+      "article-0-source-positioner",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:57.020Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.327Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:57.034Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.296Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.974Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.186Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.004Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.633Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.744Z",
+        "lastSuccessAt": "2026-09-14T01:13:02.218Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.740Z",
+        "lastSuccessAt": "2026-09-14T01:13:02.048Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:02.601Z",
+        "lastSuccessAt": "2026-09-14T01:13:03.067Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.068Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.379Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.358Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.743Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.186Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.738Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.404Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.165Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.379Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.017Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.296Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.105Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.327Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.846Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:02.048Z",
+        "lastSuccessAt": "2026-09-14T01:13:03.393Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:01.110Z",
+        "lastSuccessAt": "2026-09-14T01:13:02.837Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:01.751Z",
+        "lastSuccessAt": "2026-09-14T01:13:02.621Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.580Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.083Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.846Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.004Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.459Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.974Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.048Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.103Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:56.175Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.048Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.083Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.422Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.026Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.432Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.724Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.973Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.073Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.297Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.422Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.744Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.530Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.724Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:02.218Z",
+        "lastSuccessAt": "2026-09-14T01:13:05.008Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.173Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.320Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.505Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.877Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.432Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.649Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.729Z",
+        "lastSuccessAt": "2026-09-14T01:13:01.110Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:02.588Z",
+        "lastSuccessAt": "2026-09-14T01:13:03.214Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.017Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.358Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.633Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.307Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.973Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.173Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.649Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.887Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-14T01:13:00.320Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.307Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.740Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:56.173Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.068Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-14T01:13:00.456Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:56.174Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.934Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.877Z",
+        "lastSuccessAt": "2026-09-14T01:13:02.588Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.743Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.073Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:58.103Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.404Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.297Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.456Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.738Z",
+        "lastSuccessAt": "2026-09-14T01:13:00.026Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.887Z",
+        "lastSuccessAt": "2026-09-14T01:13:01.751Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:13:00.934Z",
+        "lastSuccessAt": "2026-09-14T01:13:02.601Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.165Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.580Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:59.105Z",
+        "lastSuccessAt": "2026-09-14T01:12:59.530Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:56.152Z",
+        "lastSuccessAt": "2026-09-14T01:12:57.020Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:56.171Z",
+        "lastSuccessAt": "2026-09-14T01:12:57.034Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T01:12:56.172Z",
+        "lastSuccessAt": "2026-09-14T01:12:58.459Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story--kontrol-2117490660-html-a4d5c1ba7ebfcedf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "На границах России усилили санитарный контроль из-за Эболы",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T01:09:53.000Z",
+        "pubTime": "2026-09-14 09:09",
+        "url": "https://ria.ru/20260914/kontrol-2117490660.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e4/04/0f/1570081930_0:0:3257:1832_650x0_80_0_0_7a5e54ca4d434b9cef1b0e9b8ab5c489.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 09:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/kontrol-2117490660.html",
+            "publishedAt": "2026-09-14T01:09:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-n-source-ai-reading-list-76f60d64aa6d7890",
+        "title": "开源人工智能与开放模型必读书单",
+        "originalTitle": "Open-Source AI and Open Models Reading List",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:22:51.000Z",
+        "pubTime": "2026-09-14 08:22",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "imageUrl": null,
+        "fullContent": "Hey all! I’ve been prepping for some public-audience and policy-facing writing on open models, so I figured I would share my research materials. There’s lots of wonderful stuff in here.\n\nThis is my list of the best writing on open models in the last few years. If someone decides they want to get up to speed on the area, reading this will be a comprehensive overview of the state of affairs. Please comment pieces to consider adding below, and I’ll update this over time.\n\nList last updated: 13 Sep. 2026\n\nWhat open models are, why people release them, how they relate to business strategy, and what the risks are.\n\nOn open source AI strategy, a walkthrough of how open-source software has been used by businesses and early signs of what that means for AI — From Open Source Software to Open Source Strategy, Bill Gurley (May 2026).\n\nOne of the clearest articulations is Mark Zuckerberg’s comments around Llama 3’s release as to why Meta releases open models — Open Source AI is the Path Forward, Mark Zuckerberg (Jul. 2024)\n\nWhy you should view open models on a gradient, rather than binary open/closed, based on factors such as licenses, cost of running the model, data access, etc. — The Gradient of Generative AI Release: Methods and Considerations, Irene Solaiman (Feb. 2023).\n\nThe role open models will play in the economy of the future, as a complement to strong closed models. Why open models will be used to create custom agentic workflows in enterprises across the world – What comes next with open models, Nathan Lambert / Interconnects (Mar. 2026)\n\nA position on how open models will capture value by providing a complementary tool to large swaths of the existing economy, drawing on the history of IP and current debates on open vs. closed models (e.g. distillation) — Some Simple Economics of Open versus Closed AI, Christian Catalini (Aug. 2026)\n\nWhy open models will constantly be behind closed models in performance — Open models in perpetual catch-up, Nathan Lambert / Interconnects (Feb. 2026)\n\nWhere adoption differs for open and closed models — Open and closed models are on different exponentials, Nathan Lambert / Interconnects (Jun. 2026)\n\nA clear articulation on how to balance releasing powerful open-weight models while taking safety seriously — A Safe Path to Open Weights, Thinking Machines Lab (Jul. 2026).\n\nEarly paper on marginal risks that showed text-focused LLMs very marginally increased documented potential risks of models — On the Societal Impact of Open Foundation Models, Sayash Kapoor, Rishi Bommasani et al. (Feb. 2024).\n\nClosed models safety guardrails are regularly bypassed causing a plethora of real AI-risks before hypothetical risks of open weight models have emerged — The Myth of unsafe Open Source AI, Florian Brand (Jun. 2026).\n\nThe mass reduction in open data, which is a crucial factor that has hampered truly open AI research — Consent in Crisis: The Rapid Decline of the AI Data Commons, Shayne Longpre et al. (Jul. 2024).\n\nRecent examples on how strong Chinese models impact the AI ecosystem — Kimi K3: The open-weights escalation, Nathan Lambert / Interconnects (Jul. 2026) / GLM-5.2 is the step change for open agents, Nathan Lambert / Interconnects (Jun. 2026).\n\nA summary of the story of open models in 2025: Nathan Lambert on China’s AI Ecosystem and the Open Model Gap | The Curve 2025, Golden Gate Institute for AI (Nov. 2025).\n\n[Optional] Latest data on open model adoption: A general summary on US vs. China model adoption — The ATOM Report (Apr. 2026), The latest data on model downloads, derivatives, and research adoption by region — Interconnects Adoption Dashboard, and The most important models to know about in the ecosystem — Interconnects Artifacts Hub\n\nWho is leading in open models, how this has changed over time, how China maintains its leading position, and relevant history.\n\nWhy the U.S. needs to invest in open models for fundamental R&D / innovation in the face of growing competition from China – The ATOM Project, Nathan Lambert (Aug. 2025)\n\nThe lens as to why open models help spur research innovation and beneficial outcomes for AI — Why I build open language models, Nathan Lambert / Interconnects (Oct. 2024)\n\nWhy open models foster education, innovation and competition, three core American values — Banning Open Source AI Would Be A Mistake, Nathan Lambert & Kevin Xu (Jun. 2026)\n\nWhy the recent “vibe regulation” / vague federal oversight mechanisms set us up for a clash and-or ban of frontier open models in the near future — 6 months to live for open models, Nathan Lambert / Interconnects (Jul. 2026)\n\n[Optional] Fully open language model technical reports to illustrate the start of the art in understanding: Pythia (EleutherAI, 2023), Olmo (2024), Olmo 2 (2024), Olmo 3 (2025)\n\nChinese open-source history leading up to AI — Chinese Open Source: A Definitive History, Kevin Xu (Mar. 2026).\n\nChina’s structural advantages in open-source — China’s Structural Advantage in Open Source AI, Kevin Xu (Jun. 2025).\n\nHow Chinese labs themselves discuss building models, and how the Chinese industry differs from the U.S. — Notes from inside China’s AI labs, Nathan Lambert / Interconnects (May 2026).\n\nWhy Chinese labs are so good at keeping up with American competition (e.g. American open weight labs struggle to compete with Chinese labs on fair performance comparisons) — GLM-5.3: How Chinese labs keep stride with the frontier, Nathan Lambert / Interconnects (Aug. 2026).\n\nProminent uses of Chinese models by Western companies have prompted meaningful regulatory attention (more discussion)\n\nLawmakers have probed the following companies over using Chinese models: DoorDash (CNBC, Jul. 31 2026), Airbnb (Bloomberg, Apr. 29 2026; Semafor, Apr. 29 2026), Anysphere / Cursor (Bloomberg, Apr. 29 2026; Semafor, Apr. 29 2026), Apple (Reuters, May 17 2025)\n\nOther western companies have very publicly shifted the models they use from American, closed labs to Chinese open models to save costs. Examples include Perplexity prominently and rapidly adopted DeepSeek R1 (Forbes, Jan. 28 2025) and Thomson Reuters building on Qwen to move off Claude (Business Insider, Aug. 24 2026)\n\nWhat is distillation and how much does it help Chinese labs, how do open models impact frontier AI risks like cybersecurity, and how far are open models behind the closed frontier?\n\nThe open-closed model gap has reduced in recent years, and is now at roughly 4-6 months. The leading open models have all come from Chinese labs since ~2024.\n\nSemiAnalysis article which ran independent evaluations, concluding that open models have been getting closer to the closer frontier of performance over time — Are Open Models Catching Up?, SemiAnalysis (Aug. 2026)\n\nOpen models are on the Pareto cost frontier, while not at the absolute performance frontier. E.g. DeepSeek V4 Flash, see evaluation and cost on Artificial Analysis.\n\nData sources from Epoch AI and Artificial Analysis (and U.S. v China, related) showing the open-closed gap over time.\n\nAn independent analysis of the open-closed gap across a mix of public and private evaluations — How far behind are open models?, Håvard Tveit Ihle (May 2026)\n\nE.g. in 2025, the product lead of Z.ai said with respect to their release time “Get it out fast. We open source it within a few hours.” — The Z.ai Playbook, ChinaTalk (Nov. 21, 2025)\n\nCyber, risks & open models (I plan to develop this further)\n\nWhy we cannot effectively ban open models as used by bad actors for cyber capabilities (they will always have access) — The OpenAI/Huggingface incident; how we should manage the imminent arrival of autonomous hacking too cheap to meter, Joshua Saxe (Jul. 2026)\n\nWhat the government should do to observe, orient, decide, and act with respect to emerging cyber threats (versus blocking models based on in-house capability assessments) — We urgently need a coherent national AI cybersecurity policy, Joshua Saxe (Aug. 2026)\n\nWhy you cannot expect to control access to AI at a certain threshold (e.g. open weight models) and need to prepare society to tackle risks downstream of available intelligence — Nonproliferation is the wrong approach to AI misuse, Helen Toner (Apr. 2025)\n\nDistillation – the process of training on output tokens from another model – is the single most eventful debate around open models in 2026.\n\nFor basic background, see a textbook chapter on synthetic data & distillation generally, from Reinforcement Learning from Human Feedback (post-training textbook published in 2026)\n\nHow distillation helps the Chinese labs, but doesn’t take away from their innovation — How much does distillation really matter for Chinese LLMs?, Nathan Lambert / Interconnects (Feb. 2026)\n\nA very transparent documentation of how Chinese company use Anthropic’s products and circumvent the terms of service or intended use. The report details at-scale usage of Anthropic’s products by banned parties, as a mix of technical distillation (mentioned via SFT data) and extensive routing of Claude into their products and services without telling users —Detecting and countering misuse of AI: September 2026.\n\nA recent paper that showed that the frontier labs had implementations in their APIs that made systematic extraction of reasoning traces (the crucial part of modern training) through clever tricks. Recent distillation paper, my writing on it — Stealing Reasoning Traces from Proprietary LLM APIs, Panfilov, Schmotz, Shumailov et. al 2026 (more on X). Anthropic confirmed this technique was used by Chinese labs.\n\nWhy the political panic over distillation, claiming that distillation is the only reason Chinese models are close to the frontier, is not grounded in the evidence — The distillation panic, Nathan Lambert / Interconnects (May 2026)\n\nHow labs can use distillation to improve models in an era of scaling RL environments across agentic behaviors — How distillation is used today and what performance uplift it gives to open models, Nathan Lambert (Jul. 2026)\n\n[Optional] More history: In 2024, I wrote Frontiers in synthetic data where the key points were that synthetic data, primarily in “distilling” models by training with SFT on outputs from a stronger model, was the dominant form of distillation. Frontier labs had been shifting the logit-based, knowledge distillation, confirmed earliest in Gemini and continuing to this day. In early 2025, there was substantial debate on if DeepSeek-R1 was distilled from OpenAI’s o1 model. There is no clear evidence suggesting that they did, and in Apr. of 2025 I wrote confidently that DeepSeek did not distill. At the time of R1, it is more possible than I gave it credit to that DeepSeek did distill some o1 traces to make it easier for them to train their R1 model – based on the above reasoning trace extraction methods. This does not take away from the innovation of it, but it’s worth being realistic and is a way that distillation could accelerate China closing the gap to American labs.",
+        "fullTranslation": "大家好！我最近一直在筹备一些面向公众和政策层面的关于开放模型的写作，因此我想分享一下我的研究资料。这里面有很多非常精彩的内容。\n\n这是我整理的过去几年关于开放模型的最佳文章列表。如果有人打算快速深入了解这一领域，阅读这些文章将能对整体现状获得一份全面的综述。请在下方评论推荐想要补充的文章，我会随时间持续更新。\n\n清单最近更新时间：2026年9月13日\n\n什么是开放模型、人们为什么发布它们、它们如何与商业战略挂钩，以及面临哪些风险。\n\n关于开源AI战略，梳理了企业过去如何利用开源软件，以及这对AI而言意味着什么的早期迹象——《从开源软件到开源战略》（From Open Source Software to Open Source Strategy），比尔·格利（Bill Gurley）（2026年5月）。\n\n关于Meta为何发布开放模型，最清晰的阐述之一来自马克·扎克伯格在Llama 3发布前后的评论——《开源AI是前行之路》（Open Source AI is the Path Forward），马克·扎克伯格（Mark Zuckerberg）（2024年7月）。\n\n为什么你应该根据许可协议、模型运行成本、数据获取权限等因素，从渐进梯度而非开源/闭源非黑即白的二元对立视角来看待开放模型——《生成式AI发布的梯度：方法与考量》（The Gradient of Generative AI Release: Methods and Considerations），艾琳·索莱曼（Irene Solaiman）（2023年2月）。\n\n开放模型在未来经济中扮演的角色，即作为强大闭源模型的互补品。为什么开放模型将被世界各地的企业用于构建定制的智能体工作流——《开放模型的未来走向》（What comes next with open models），内森·兰伯特（Nathan Lambert）/ Interconnects（2026年3月）。\n\n关于开放模型如何通过为庞大的现有经济板块提供互补工具来获取价值的立场，借鉴了知识产权历史以及当前关于开源与闭源模型的辩论（例如蒸馏技术）——《开源与闭源AI的简明经济学》（Some Simple Economics of Open versus Closed AI），克里斯蒂安·卡塔利尼（Christian Catalini）（2026年8月）。\n\n为什么开放模型在性能上将始终落后于闭源模型——《永远在追赶的开放模型》（Open models in perpetual catch-up），内森·兰伯特 / Interconnects（2026年2月）。\n\n开放模型与闭源模型在应用普及上的分歧所在——《开放与闭源模型处于不同的指数曲线上》（Open and closed models are on different exponentials），内森·兰伯特 / Interconnects（2026年6月）。\n\n关于如何在认真对待安全性的同时，平衡发布强大的开放权重模型的一篇条理清晰的阐述——《迈向开放权重的安全之路》（A Safe Path to Open Weights），思维机器实验室（Thinking Machines Lab）（2026年7月）。\n\n关于边际风险的早期论文，该论文表明以文本为主的LLM对模型既有潜在风险的增加极其微小——《论开放基础模型的社会影响》（On the Societal Impact of Open Foundation Models），萨亚什·卡普尔（Sayash Kapoor）、里希·博马萨尼（Rishi Bommasani）等人（2024年2月）。\n\n闭源模型的安全防护护栏屡屡被绕过，在开放权重模型的假设性风险尚未显现之前，就已经引发了大量现实的AI风险——《不安全的开源AI神话》（The Myth of unsafe Open Source AI），弗洛里安·布兰德（Florian Brand）（2026年6月）。\n\n开放数据的大规模减少，这是阻碍真正开放AI研究的一个关键因素——《危机中的知情同意：AI数据公地的急剧萎缩》（Consent in Crisis: The Rapid Decline of the AI Data Commons），谢恩·朗普雷（Shayne Longpre）等人（2024年7月）。\n\n关于强大的中国模型如何影响AI生态系统的最新范例——《Kimi K3：开放权重的升级战》（Kimi K3: The open-weights escalation），内森·兰伯特 / Interconnects（2026年7月）/《GLM-5.2是开放智能体的阶跃式转变》（GLM-5.2 is the step change for open agents），内森·兰伯特 / Interconnects（2026年6月）。\n\n2025年开放模型发展历程总结：内森·兰伯特谈中国AI生态系统与开放模型差距 | The Curve 2025，金门AI研究所（Golden Gate Institute for AI）（2025年11月）。\n\n[选读] 开放模型应用普及的最新数据：中美模型采纳情况的总体概述——《ATOM报告》（The ATOM Report）（2026年4月）；按地区划分的模型下载、衍生和研究采纳最新数据——Interconnects采纳情况仪表板（Interconnects Adoption Dashboard）；生态系统中最值得关注的核心模型——Interconnects工件中心（Interconnects Artifacts Hub）。\n\n谁在引领开放模型、这一格局如何随时间演变、中国如何保持其领先地位，以及相关历史背景。\n\n面对来自中国的日益激烈的竞争，美国为何需要投资开放模型以推动基础研发/创新——《ATOM项目》（The ATOM Project），内森·兰伯特（2025年8月）。\n\n从何种视角看待开放模型有助于激发研究创新并为AI带来有益成果——《我为何构建开放语言模型》（Why I build open language models），内森·兰伯特 / Interconnects（2024年10月）。\n\n为什么开放模型能够促进教育、创新和竞争这三项美国核心价值观——《禁止开源AI将是一个错误》（Banning Open Source AI Would Be A Mistake），内森·兰伯特、许科文（Kevin Xu）（2026年6月）。\n\n为什么近期基于“氛围感知监管”（vibe regulation）/模糊的联邦监督机制，让我们在不久的将来面临前沿开放模型被冲突对抗甚至被禁的局面——《开放模型只剩6个月寿命》（6 months to live for open models），内森·兰伯特 / Interconnects（2026年7月）。\n\n[选读] 展现最前沿理解认知的完全开放语言模型技术报告：Pythia（EleutherAI，2023年）、Olmo（2024年）、Olmo 2（2024年）、Olmo 3（2025年）。\n\n走向AI时代的中国开源历史——《中国开源：权威历史》（Chinese Open Source: A Definitive History），许科文（2026年3月）。\n\n中国在开源领域的结构性优势——《中国在开源AI领域的结构性优势》（China’s Structural Advantage in Open Source AI），许科文（2025年6月）。\n\n中国实验室自身如何讨论模型构建，以及中国产业界与美国的差异——《来自中国AI实验室内部的观察笔记》（Notes from inside China’s AI labs），内森·兰伯特 / Interconnects（2026年5月）。\n\n为什么中国实验室如此擅长跟上美国的竞争步伐（例如在公平的性能比较中，美国开放权重实验室很难与中国实验室抗衡）——《GLM-5.3：中国实验室如何紧跟前沿步伐》（GLM-5.3: How Chinese labs keep stride with the frontier），内森·兰伯特 / Interconnects（2026年8月）。\n\n西方企业大量采用中国模型引发了监管层面的高度关注（更多讨论）：\n\n立法者已对以下使用中国模型的公司展开质询审查：DoorDash（CNBC，2026年7月31日）、Airbnb（彭博社，2026年4月29日；Semafor，2026年4月29日）、Anysphere / Cursor（彭博社，2026年4月29日；Semafor，2026年4月29日）、苹果（路透社，2025年5月17日）。\n\n其他西方公司则非常公开地将使用的模型从美国闭源实验室转向中国开放模型以削减成本。例子包括Perplexity高调且迅速地采用了DeepSeek R1（《福布斯》，2025年1月28日），以及汤森路透基于Qwen进行开发以弃用Claude（《商业内幕》，2026年8月24日）。\n\n什么是知识蒸馏，它对中国实验室有多大帮助，开放模型如何影响网络安全等前沿AI风险，以及开放模型距离闭源前沿水平到底还有多远？\n\n近年来开源与闭源模型之间的差距已经缩小，目前大约维持在4至6个月左右。自2024年左右以来，领先的开放模型均出自中国实验室。\n\nSemiAnalysis的文章进行了独立评测，得出的结论是：随着时间的推移，开放模型与闭源前沿性能的差距正在不断缩小——《开放模型正在迎头赶上吗？》（Are Open Models Catching Up?），SemiAnalysis（2026年8月）。\n\n开放模型虽然未处于绝对性能前沿，但处于帕累托成本前沿。例如DeepSeek V4 Flash，参见Artificial Analysis上的评测和成本数据。\n\n来自 Epoch AI 和 Artificial Analysis（以及相关的中美对比）的数据来源，展示了开源与闭源差距随时间的变化。\n一项结合公开与私有评估对开源与闭源差距进行的独立分析——《开源模型究竟落后多远？》，Håvard Tveit Ihle（2026年5月）\n例如在 2025 年，Z.ai 的产品负责人谈及其发布时间时表示：“尽快推出。我们在几个小时内就将其开源。”——《Z.ai 操作手册》，ChinaTalk（2025年11月21日）\n网络安全、风险与开放模型（我计划对此作进一步阐述）\n为什么我们无法有效禁止不良行为者利用开放模型获取网络安全能力（他们总能获取访问途径）——《OpenAI/Huggingface 事件；我们应如何应对成本极其低廉的自主黑客攻击的迫在眉睫》，Joshua Saxe（2026年7月）\n面对新兴网络威胁，政府应当如何观察、调整、决策与行动（而非基于内部能力评估来封禁模型）——《我们迫切需要一项协调一致的国家人工智能网络安全政策》，Joshua Saxe（2026年8月）\n为什么不能指望在某一阈值（例如开放权重模型）上控制人工智能的获取，而需要让社会做好准备以应对智能普及所带来的下游风险——《防扩散是应对人工智能滥用的错误路径》，Helen Toner（2025年4月）\n蒸馏（Distillation）——即利用另一个模型的输出 Token 进行训练的过程——是 2026 年围绕开放模型最受瞩目的一场辩论。\n基础背景请参阅关于合成数据与蒸馏通论的教科书章节，出自《人类反馈强化学习》（Reinforcement Learning from Human Feedback，2026年出版的后训练教科书）\n蒸馏如何为中国实验室提供助力，但又未抹杀其创新——《蒸馏对中国大语言模型究竟有多重要？》，Nathan Lambert / Interconnects（2026年2月）\n一份高度透明的记录，详细记录了中国公司如何使用 Anthropic 的产品并规避其服务条款或预期用途。该报告详述了受限制实体对 Anthropic 产品的大规模使用，既包括技术性蒸馏（通过 SFT 数据提及），也包括在未告知用户的情况下将 Claude 大规模接入其产品和服务——《检测与打击人工智能滥用行为：2026年9月》。\n近期一篇论文指出，前沿实验室在其 API 中存在特定的实现细节，使得他人能够通过巧妙手段系统性提取推理轨迹（现代训练的关键环节）。关于近期的这篇蒸馏论文及我的评论文章——《从专有大语言模型 API 中窃取推理轨迹》，Panfilov, Schmotz, Shumailov 等（2026年，更多内容见 X 平台）。Anthropic 证实该技术曾被中国实验室采用。\n为什么声称“蒸馏是中国模型接近前沿水平的唯一原因”的政治恐慌缺乏事实依据——《蒸馏恐慌》，Nathan Lambert / Interconnects（2026年5月）\n在跨智能体行为强化学习环境持续扩展的时代，各实验室如何利用蒸馏提升模型能力——《当下蒸馏的应用方式及其为开源模型带来的性能提升》，Nathan Lambert（2026年7月）\n[选读] 更多背景历史：2024 年，我曾撰写《合成数据前沿》，核心观点是：通过在更强大模型的输出上进行 SFT 训练来“蒸馏”模型的合成数据，是当时主要的蒸馏形式。前沿实验室一直在转向基于对数几率（logit-based）的知识蒸馏，这一趋势最早在 Gemini 中得到确认并延续至今。2025 年初，关于 DeepSeek-R1 是否蒸馏自 OpenAI 的 o1 模型曾引发广泛争论。当时并无明确证据表明他们存在此类行为，我在 2025 年 4 月还曾信心十足地写道 DeepSeek 没有进行蒸馏。回顾 R1 发布时期，根据前述的推理轨迹提取方法，DeepSeek 蒸馏部分 o1 推理轨迹以便更容易训练其 R1 模型的可能性，或许比我此前认为的要更高。这并没有贬低其创新的意义，但我们应实事求是，而这正是蒸馏可能助力中国加速缩小与美国实验室差距的一种方式。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 50,
+        "translationParagraphs": 36,
+        "keyTakeaways": [
+          "开源模型与闭源模型之间的差距近年来有所缩小，目前约为4至6个月。",
+          "自2024年左右以来，领先的开源模型全部来自中国实验室。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:22:51.000Z",
+            "url": "https://www.interconnects.ai/p/open-source-ai-reading-list"
+          }
+        ]
+      },
+      {
+        "id": "story-g-is-that-legal-02143710-e44821b877a15f25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:00:00.000Z",
+        "pubTime": "2026-09-14 09:00",
+        "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-14 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-14T01:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ogrammers-dislike-reduce-2fb7fce7df7a40f0",
+        "title": "从经验来看，程序员并不喜欢“reduce”",
+        "originalTitle": "Anecdotally, programmers dislike \"reduce\"",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:59:05.000Z",
+        "pubTime": "2026-09-14 07:59",
+        "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+        "imageUrl": null,
+        "fullContent": "In short: from my experience, people like map and filter, but not reduce.\n\nI use functions like map and filter all the time. When I put that code up for review, my peers rarely complain. I get plenty of feedback about other decisions, but not about my use of map and filter.\n\nI cannot say the same for reduce. Often, when I’ve submitted a patch with reduce inside, I get a comment like, “this part is hard to read.” And I see reduce way less than map, filter, some, and so on.\n\nAnecdotally, I have come to believe that programmers don’t like reduce as much.\n\nI don’t know why, but I have a few theories:\n\nI usually just change reduce to something else and move on. Even though I prefer it, I don’t usually care much. But it’s a little social phenomenon I’ve observed, and I thought I’d document it.\n\nI’ve also noticed this less recently, possibly because code review is less thorough nowadays.\n\nDo you notice this? Do you like reduce? Please tell me.",
+        "fullTranslation": "简而言之：根据我的经验，大家都喜欢 map 和 filter，但不喜欢 reduce。\n\n我经常使用 map 和 filter 之类的函数。当我把这类代码提交评审时，同事们鲜少抱怨。关于其他设计决策我能收到很多反馈，但从没人质疑我用 map 和 filter。\n\n但对于 reduce 却完全不是这样。通常，当我提交的代码补丁中包含 reduce 时，收到的评审意见往往是：“这部分代码可读性较差。”而且在日常代码中，我见到 reduce 的频率远低于 map、filter、some 等函数。\n\n从经验来看，我越来越觉得程序员们没那么喜欢 reduce。\n\n我不知道具体原因，但我有几种推测：\n\n我通常就是把 reduce 改成其他写法然后继续干别的。尽管我个人更喜欢用它，但我通常也不太执着。不过这是我观察到的一个小小的社交现象，我想不妨把它记录下来。\n\n最近我也较少注意到这种情况了，可能是因为如今的代码评审没那么严格细致了。\n\n你注意到了吗？你喜欢 reduce 吗？请告诉我。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "作者在代码审查中提交使用 map 和 filter 的代码时，同行很少提出抱怨。",
+          "作者提交包含 reduce 的补丁时，经常收到诸如“这部分很难阅读”的代码审查意见。",
+          "来源叙事重点：围绕函数式编程中的 reduce 展开经验性讨论：作者称 map 和 filter 在代码审查中较少遭到批评，而包含 reduce 的代码更常被认为难以阅读，因此推测程序员相对不喜欢或较少使用 reduce。文章也提到这一现象近期可能减弱，但作者仅将代码审查不够彻底作为一种未经验证的可能解释。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:59:05.000Z",
+            "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
+          }
+        ]
+      },
+      {
+        "id": "story-ansparency-rewarded-html-254e07cb85b518f0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Consumers demand transparency, but is it rewarded?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:30:04.000Z",
+        "pubTime": "2026-09-14 08:30",
+        "url": "https://phys.org/news/2026-09-consumers-demand-transparency-rewarded.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2019/ecommerce.jpg",
+        "fullContent": "Transparent supply chains boost consumer trust—if the results are positive. But what if they aren't? A new paper by Kühne Logistics University (KLU), in collaboration with the University of Tennessee and Tilburg University, published in the Journal of Business Logistics, reaches a surprising conclusion. The researchers advise companies: It's better to publish mixed results than none at all.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-consumers-demand-transparency-rewarded.html",
+            "publishedAt": "2026-09-14T00:30:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ia-protest-fuel-hikes-sy-ae8359aa98e4edd8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Protests erupt across Syria over sharp fuel price hikes",
+        "source": "Al Jazeera (半岛电视台官方英文)",
+        "sourceSlug": "aljazeera",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:08:01.000Z",
+        "pubTime": "2026-09-14 09:08",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy",
+        "imageUrl": null,
+        "fullContent": "Protests erupt across Syria over sharp fuel price hikes\n\nProtests have erupted in Syria after the government raised fuel prices by up to 40% for diesel and up to 28% for gasoline. The government cites higher import costs and the Baniyas refinery overhaul.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-09-14 09:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Al Jazeera (半岛电视台官方英文)",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy",
+            "publishedAt": "2026-09-14T01:08:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 借助 GPT-6 Astra 驱动端到端系统",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 正利用 Astra 撰写通信内容、修改软件并监控生产系统，且人工介入检查的频率远低于早期模型。\n\n作为一款人工智能驱动的问答引擎，Perplexity 极度关注搜索与准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之进步。它能够编写出更优秀的程序来检索网络与内部信息，并进行高度精炼的总结。\n\n但 Johnny 认为，真正的挑战在于将这些信息维度的能力应用到现实世界的系统中。而 GPT-6 Astra 让这一切变得更加轻松。\n\n对 Johnny 而言，人工智能最实用的应用之一是测试代码。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕应用程序构建一套小型测试程序。\n\n该模型可以生成逼真的响应，就像其他服务发送的一样——例如语言模型 API 或连接器。通过模拟并替代这些服务，该模型能够检查应用程序的反应，并端到端测试整个工作流程。\n\n工程 2026年9月11日\n应用AI 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用Astra来撰写通讯、修改软件并监控生产系统，且人工介入检查的频率远低于早期模型。",
+          "Perplexity是一家由人工智能驱动的问答引擎，专注于搜索和准确性。",
+          "来源叙事重点：展示核心客户Perplexity对GPT-6 Astra的高度信任与端到端深度应用，强调模型在代码生成、端到端系统测试、修改软件和生产系统监控中的高自主性与准确性提升，以树立技术领先地位与企业级落地范本。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-ore-frequent-spikes-html-045d083b14b259b7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:00:00.000Z",
+        "pubTime": "2026-09-14 07:00",
+        "url": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html",
+        "imageUrl": null,
+        "fullContent": "Oil prices hit nearly $110 per barrel on Thursday for the first time since July, with no end in sight for the Middle East conflict. The IRGC announced on Wednesday that it had attacked and heavily damaged eight oil tankers and two U.S. Navy destroyers in the Strait of Hormuz, in retaliation after the U.S. military destroyed five IRGC-linked oil tankers in the Gulf of Oman on Tuesday night. CENTCOM has, however, denied the IRGC claims. Hopes for a quick resolution to the war have also faded after U.S. President Donald Trump said that the war is unlikely to end before the midterm elections in November, while advisors have allegedly warned him the war could last for the rest of his term. By Friday morning at 710 a.m. ET, Brent crude was trading at $103.58, while WTI was trading at just over $98. And now oil and commodity analysts at Standard Chartered have predicted that the ongoing sharp oil price gyrations on headlines will continue through the third quarter amid the ongoing stalemate in the US-Iran conflict, with little sign that diplomatic progress will relieve export restrictions through the Strait of Hormuz. StanChart says middle distillates remain extremely strong, with some venues under extreme stress as heat and drought compound logistical bottlenecks. The bank expects the strength in middle distillate cracks the price difference between a barrel of crude and the fuels a refinery makes from it to continue, with diesel, gasoil and jet outperforming gasoline. Expectations that the conflict keeps dragging on are pushing some of that strength into longer-dated contracts, StanChart says. The bank forecasts oil averaging $77.50 a barrel in 2027 on returning demand particularly from China's imports and the need to both refill and expand depleted strategic reserves. Related Drone Strikes Hit Saudi Arabia's Vital East-West Oil Pipeline Meanwhile, the 42nd annual APPEC Asia Pacific Petroleum Conference in Singapore concluded on Thursday, with market participants appearing increasingly positioned for a prolonged Middle East conflict. According to StanChart, China's rebounding appetite for crude imports, alongside its ability to redirect refined product supplies to increasingly tight Asian markets, has emerged as an important potential source of flexibility in global oil flows. Consumers are increasingly placing greater value on optionality across crude grades, suppliers, refining configurations and product sources after repeated disruption reshaped established trade flows. The energy experts see oil markets remaining vulnerable to oil price spikes whereas alternative barrels can often be found, there is progressively less spare capacity, inventory and logistical slack available when multiple disruptions occur simultaneously. StanChart says the price implication is increasingly asymmetric, with a market characterized by more frequent and sharper upside price spikes, even if rallies are subsequently faded. The upside tail is getting fatter, with volatility commanding a greater premium. This implies that refined products will continue to be more vulnerable to disruptions than crude. At the same time, Europe's natural gas rally is showing little signs of slowing down, with prices rising above 81/MWh on Thursday, the highest level since December 2022 in large part due to the Middle East disruptions. A Qatar-loaded LNG carrier sailed through Hormuz on 8th September bound for Pakistan. The transit followed several empty Qatar-linked LNG carriers returning towards the Persian Gulf, providing the clearest evidence yet that Qatar may be testing the feasibility of restarting exports through the waterway. However, StanChart notes that substantial uncertainty remains around whether this represents the beginning of sustained exports. Outbound LNG flows from the Persian Gulf remain well below pre-war levels, while QatarEnergy recently extended force majeure on LNG deliveries to European and Asian buyers into October and November. Qatar has also continued operating Ras Laffan at reduced rates, keeping equipment operational and retaining the flexibility to ramp up more quickly if conditions permit. StanChart says a short-term spurt of exports of LNG already loaded onto vessels inside the Gulf is possible without signalling a sustained recovery in Qatari supply, noting that repeated safe passage alongside evidence of a broader production ramp-up before the markets materially reduce the supply-risk premium embedded in European gas prices. Meanwhile, stronger Continental Northwest Europe CNWE storage injections, alongside fresh unplanned curtailments at key Norwegian gas assets, have tightened Europe's gas balance. European storage stands at just 66% of full capacity, 12 percentage points lower than the same period last year and marking a 15-year low for this time of year. To exacerbate matters, the deficit is heavily concentrated in Europe's largest economies, with Germany's inventories at 54% while the Netherlands is at 48%. Experts have warned that Germany could see a demand-supply gap as wide as 25% on peak January days if winter temperatures come in lower than expected. By Alex Kimani for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦美伊冲突长期化对全球原油及欧洲天然气供应链的深层冲击，强调在闲置产能紧缩、物流瓶颈与地缘冲突交织下，大宗商品市场结构已转向更频繁、幅度更大的上行暴涨特征。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ratch-as-a-beginner-html-697be84fa2778250",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Writing a Guix service from scratch, as a beginner",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:24:10.000Z",
+        "pubTime": "2026-09-14 07:24",
+        "url": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
+        "imageUrl": null,
+        "fullContent": "I am in the middle of migrating my machines from NixOS to Guix.\n\nMy first milestone is to migrate my VPS to Guix.\n\nMy VPS has essentially three majors roles:\n\nThe mail server is up and running, using exim as the MTA and dovecot as the IMAP server. I had to jump through a few hoops to get exim up and running. I would have preferred postfix over exim, but only exim is available out of the box on the official Guix channel.\n\nAt the time, I didn't know how to define my own custom services. I intend to use Guix for the foreseeable future, I want to build a deep understanding of it. Learning to create my own services, suited to my own needs, is an important part of mastering Guix.\n\nWhich brings us to the motivation behind this article: the time had come to create my own service.\n\nFor the proxy server, I enjoy using Caddy. Caddy isn't available as a service on Guix.1\n\nThis seems like the perfect time to finally dive into custom services.\n\nAs I navigated my way through the docs and the source code, I decided to document my learning and share it here, as guide for other newcomers.\n\nIn this article, we will be writing a custom service for our Caddy reverse proxy.\n\nThis service involves setting up a configuration file for Caddy via Guix, creating a system user and configuring Shepherd to run the daemon.\n\nIt's a perfect first custom service: t is simple enough to ease into custom services, yet it includes a good overview of them.\n\nFurthermore, most of the services I run on my home server are essentially a combination of those three actions: configure users, manage configuration files and run the daemon.\n\nThis article is suitable to Guix newcomers and beginners. As a matter of fact, I wrote this as I went along, stumbling my way through it, without any extensive knowledge beyond reading the documentation.\n\nThe only true prerequisite is to have the Caddy package ready to go on your Guix instance, so we can build the service on top of it. At the time of writing this blog, the Guix repository doesn't contain the Caddy package but the team is working on it.\n\nIn the meantime, you can follow my blog post to create one easily. It only takes a few lines of code.\n\nYou don't need to have a high proficiency or deep expertise in Scheme (I certainly don't), but a basic understanding of it is highly recommended.\n\nI assume that you are, like me, fairly new to Guix - however this isn't a replacement to the documentation. I will be paraphrasing the documentation a lot with my own interpretation of it. I encourage you to keep the documentation on the side while following this article.\n\nI obviously assume that you have Guix installed and a working configuration. If not, you can find one here.\n\nFinally, you need to know how to reconfigure your system (hint: sudo guix system reconfigure my-config.scm).\n\nWhen I reference the Guix source code, I will use the notation file-name:line.\n\nAlright, with this out the way, let's talk about what we are concretely going to build here.\n\nIn order to keep things as simple as possible, I decided to define our service to be as simple and bare-bones as possible.\n\nOur plan will be as follow:\n\nThis is the bare mininum Caddy service; it will do the job, but it won't be the most elegant.\n\nMost of the configuration options will be hard coded; the service won't be ready to be distributed. However, it will be functional and fulfill our needs.\n\nOnce completed, we can expect to have accumulated enough knowledge along the way to revisit, refactor and improve it.\n\nAs soon as this article is out, I plan on improving it and if I feel brave, I might even propose it to the Guix repository.\n\nBut for now, let's stick to the basics. We don't want to let perfection get in the way of done.\n\nThe documentation defines a service as \"something that extends the functionality of the operating system\".\n\nThis definition is quite vague, but that's because a service can have a wide variety of functionalities. The most obvious type of a service is a daemon running a process in the background (our case), but it's not the only type of service.\n\nAs we will see, a service can be a process which is run once, such as creating accounts or copying files to the store. It can be a recurring process, such as a cron job.\n\nIn a way, it is a primitive to configure our system in a declarative manner.\n\nOne interesting aspect of services, is that they are designed from the ground up to be extensible and composable. A service can extends one or more services, and can itself be extended by one or more services. We will dive a deeper on that subject further below; I find this architecture fantastic.\n\nSo if you don't fully grasp what a service is yet, follow along, it will make more sense as we progress.\n\nOur first step is to break the ice by creating the simplest service we can: a bare service that does nothing. The goal is just to get familiar with services.\n\nFirst, we need to define the service type of our service.\n\nA service type is essentially a blueprint for a service. Think of it as what a class is to an instantiated object.\n\nA service is enabled or \"instantiated\" (if we keep our analogy of classes) by the service procedure. The service procedure takes as an argument a <service-type> record and a value.\n\nIf a value isn't provided, the default-value defined in the <service-type> definition is used.\n\nTo enable the service, we add it to the list provided to the services procedure:\n\nNow let's look inside the <service-type> record.\n\nYou can find the definition of <service-type> in gnu/services.scm:187. The service type is well documented, but grepping the codebase is very valuable tool when working with Guix (or any other software if you ask me!).\n\nWe notice that the <service-type> requires a name and a list of extensions. It also contains optional fields: compose, extend, default-value, description and location.\n\nLet's define our caddy-service-type. We set the name of our service to 'caddy. We also set the extensions to nil (the empty list), which means that we aren't extending any existing services for now. We also leave the default-value to nil.\n\nRegarding the optional fields, let's only care about the description for now. It takes a string and is used for - you guessed it - the description.\n\nI will cover the compose, extend and extensions fields later, let's not worry about them for now.\n\nOur <service-type> for our Caddy service looks like this:\n\nThat's it. This is the simplest service type: it only has a name and a description.\n\nLet's enable it by adding it to the services procedure.\n\nNow, run sudo guix system reconfigure config.scm and celebrate your first custom service.\n\nWe \"instantiated\" a service of type caddy-service-type without a value, defaulting to the default-value of nil.\n\nIt's not doing anything, but it still is a service.\n\nIf you have a graphical display, you can run the following command to generate a graph of your system:\n\nguix system extension-graph config.scm | guix shell xdot -- xdot -\n\nYou will notice that the Caddy service is present in your services. Nice. Now let's make that service do something useful.\n\nThe next step to improve our service is to instruct it to create the caddy user and group.\n\nIt is always a good idea to create a non-root user to run a background process: if the process is compromised, the area of attack is much smaller.\n\nIn order to create the user and group, we will use the power of extensions.\n\nGuix contains a large number of services out of the box; one of them is the account-service-type. This service is used to create users and groups on our operating system.\n\nIn order to use that service, we will need to add it to the extensions field of our caddy-service-type.\n\nThe extensions field is a bit hard to grasp at first. My first instinct was that the extensions field allows you to modify your service by extending its own capability, giving it extra functionality. For example, in this case, I expected that extending the account-service-type would add the capability to create users and groups to our caddy-service-type.\n\nHowever it is the opposite! You don't \"add\" capability to your service, you modify the target service (account-service-type here) to perform actions for your service. How the target service-type is modified is defined by the rules in its compose and extend fields. We'll go over them in more details further below.\n\nFor now, let's continue on our account creation to illustrate this concept. We want to create a user, caddy, and a group with the same name, caddy.\n\nThe account-service-type is defined as extendable. This means that it offers an interface for other services to create user accounts. The account-service-type doesn't need to know who is creating accounts and why; it only exposes a way to do so.\n\nThis is the beauty of this architecture: it makes the system completely declarative. When a service extends the account-service-type, then Guix will create the accounts when the service is enabled. If the service is not enabled, those accounts aren't created.\n\nIt's a fantastic architecture when you think about it, it reminds me of the principle of Inversion of Control.\n\nIn order to instruct the account-service-type to create our caddy user when the caddy-service-type is enabled, we extend the account-service-type.\n\nWe now understand the concept of the extensions field. It allows you to 'extend' a target service-type to, for example, create more users. But we still don't really know how to specify it in practice.\n\nWe have a few ways of finding out set it up: reading the docs, grepping examples, or looking at the source.\n\nFor the sake of getting better at understanding services, let's look at the source.\n\nBeing curious and eager to really assimilate how services extensions work, I tried find out if we can guess the shape of the accounts by looking at the account-service-type service, defined in shadow.scm:547.\n\nThis is how the account-service-type is defined. We should be familiar with the <service-type> record structure.\n\nThe first thing we can see, is that the default-value is an empty list, which means that the account-service-type itself is expecting a list as a value. But a list of what?\n\nIn this case, the comments give us the answer: a list of <user-account> and <user-group>. If it was not for the comments, you could look at the account-activation.\n\nBefore moving on, let's talk about compose and extend fields. This is how they are defined in the documentation\n\nThis is the procedure to compose the list of extensions to services of this type.\n\nThis procedure defines how the value of the service is extended with the composition of the extensions.\n\nThis is a bit vague and left me a bit scratching my head, but what it means is that:\n\nCompose defines how to the service composes multiple services extending this service-type.\n\nFor example,if we have three services listing accounts-service-type as an extension, how do we handle each value? Do we only take the first? The last?\n\nObviously, if three services are defining users by extending the account-service-type, we want to create all those users. Therefore, we want to concatenate the values provided by the extending services.\n\nWe can imagine other services behaving differently. For example, let's imagine a service whose role is to manage a port. Let's call it open-port-22-service-type. Let's also imagine that two services extend this service: one wants to open the port, the other close it.\n\nWhat shall we do? Open it, or close it? We have conflicting values.\n\nMaybe we want to err on the caution side and define open-port-22-service-type to prioritise 'close' values if it receives contradicting values.\n\nThat's what the compose field is for. It defines how to compose multiple extending service values.\n\nIt is, in a way, quite similar to compose\n\nLet's imagine a service-type which displays a welcome message when the computer boots, called welcome-message-service-type. If a service extends it with a different message, we might want to give priority to the extending service value.\n\nIn this case, we would use extend to instruct the welcome-message-service-type to replace its own value with the composed values from the extending services.\n\nNote that compose and extend accept procedures which takes the service itself as an argument. It gives the user a lot of freedom and power when defining the rules.\n\nLet's finish with the user-account-service-type as a final example.\n\nIn the case of users, we want to:\n\nZooming back to the architecture, we can see that services are all built upon each other. A service, when installed, will modify the services listed in its extensions field. Those will in turn modify the service-type of their own extensions.\n\nThis \"chain reaction\" will continue until all services are collected in the system-service-type, which is the root of all services. Under the hood, we end up with a collection of all our services in one, large, single structure. I assume that this is conglomerate of services is then handled by Guix when configuring the system.\n\nOk, we now know the account-service-type:\n\nSo, by either following in my 'deep dive', reading the documentation or looking up examples in the code base, we found out that our group and user are defined as a <user-account> and <user-group> respectively.\n\nBoth records can be found in accounts.scm at line 71 and 90 respectively.\n\nWe define our accounts like so:\n\nNow we can add them the account-service-type extension.\n\nThe extensions procedure accepts a list of <service-extension>. A service-extension is a record that accept two parameters.\n\nThe first is the name of the target service-type . This is account-service-type in our case. The second parameter to a service-extension is a procedure that takes the service itself (the current caddy service) and returns a list of object to extend the target service (see documentation).\n\nThe second parameter seems complicated, but it's simply a procedure that returns the \"value\" for the extension. In our case, a list of user and group account. You can imagine that using this second argument, we could create the user dynamically based on the value of our caddy-service-type if we wanted make our service configurable. That's how configurable services are structured.\n\nLet's define our service-extension for the account-service-type and add it to the extension field.\n\nWe used const here, which is the syntactic sugar for (lambda(_)(%caddy-accounts)).\n\nAlright, time to finally test it out!\n\nRun sudo guix system reconfigure config.scm to apply our changes.\n\nLet's check the presence of the caddy user by running sudo id caddy.\n\nNice! Our caddy user and group were created!\n\nWhat we have learned so far:\n\nNow let's see how we can write the config, the Caddy file, into /etc/caddy.\n\nIn order to keep matters simple, the caddy-service-type will be static. We will write the Caddyfile manually and provide it to our Caddy service. We won't be in charge of generating the Caddyfile2.\n\nThe Caddy service will simply be in charge of copying it to the right location.\n\nThe target location for Caddyfile is /etc/caddy/caddy.conf.\n\nAs before, we will be leveraging extensions to do so. To execute an arbitrary procedure when a service is enabled, we can use the activation-service-type.\n\nNote that there is a service doing exactly this task, the etc-service-type. However I believe that using the more general activation-service-type for didactic purpose is a better choice. It's a widely used service; a lot of the service in the Guix repository rely on it.\n\nThe activation service is a service that is executed at activation of our service.\n\nInterestingly enough, I couldn't find much about it in the documentation, except in this example. Let's look at the source code instead.\n\nIn services.scm:792 we get a bit more information:\n\nWe can also look at its definition services.scm:776\n\nAlright, we see (from the comment and the lambda gexps->activation-gexp) that the value required by a service is a G-Expression or gexp\n\nWhat is a gexp? A gexp, or g-exp, or G-expression3 is a Guix of staging code to be executed later in the build environment.\n\nIf you know what a G-expression is, you can skip the next section. If not, let's briefly introduce the concept of G-expression4.\n\nI won't go to deep into the concept of G-exps; there is a lot to cover and it merits its own article. We will keep a high level overview.\n\nTo understand what G-expression are, you need to know that Guix runs in two environments.\n\nWhen building packages, the guix daemon creates something akin to containers. They aren't quite containers, but the concept is close enough for our understanding.\n\nTo ensure reproducibility, each package is built in its own \"container\", which only includes the required inputs. For this to happen, part of the code in package definition needs to be staged for later execution, inside that \"container\". G-expressions is how we staging code to be executed at build time.\n\nThe two environments of Guix are often referred as:\n\nG-expressions are expressed with the #~ macro, such as #~( ;; this is a g-expression ;; ). Whenever you see the macro #~, it means that the code inside the bracket will be executed later, inside the build \"container\".\n\nInside a G-exp, we can evaluate some expressions using the #$ macro, or ungexp.\n\nFor example, let's have a look at this G-expression:\n\nIn this instance, when the code is evaluated #$output will be replaced (or ungexp) and the expression will be:\n\nIn concept, it's similar to the quasi-quote and comma in Scheme.\n\nAs the G-expression is evaluated in a different environment, it will not have automatically access to the modules imported in the current environment. In order to give the G-expression access to modules, we need to import them in the \"build\" environment in which the G-expression will be evaluated.\n\nTo do so, we use the with-imported-modules syntax like so:\n\nIn the example above, mkdir-p is a procedure from in guix/build/utils.scm. T",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 135,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕“边实践边学习”的路径，讲解如何从零创建Guix自定义服务：定义服务类型、配置Caddy、创建专用用户和用户组、通过Shepherd运行守护进程，并解释Guix服务的声明式、可组合和可扩展机制。作者强调先实现功能、再重构完善，且将文章定位为文档的辅助性入门材料。文中还叙述了作者迁移至Guix的背景、邮件服务器配置经历，以及Caddy服务和软件包在其Guix环境中的可用性问题。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:24:10.000Z",
+            "url": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ons-exoplanet-great-html-710b11e8dd5689da",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "JWST ruled out finding tiny moons around an exoplanet—that's great news",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T22:30:05.000Z",
+        "pubTime": "2026-09-14 06:30",
+        "url": "https://phys.org/news/2026-09-jwst-tiny-moons-exoplanet-great.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/artists-rendering-of-l.jpg",
+        "fullContent": "The James Webb Space Telescope (JWST) has opened many wonders of the cosmos to scientists since it began science operations a few years ago. But one thing it hasn't done is find an \"exomoon.\" These still-theoretical moons orbit exoplanets in other star systems, and JWST was supposed to find a plethora of them.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-jwst-tiny-moons-exoplanet-great.html",
+            "publishedAt": "2026-09-13T22:30:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ukraina-2117490263-html-1940d11c87e2a26d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Экс-представительница Зеленского раскрыла, что будет с Украиной из-за него",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T01:05:49.000Z",
+        "pubTime": "2026-09-14 09:05",
+        "url": "https://ria.ru/20260914/ukraina-2117490263.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/155524/79/1555247994_0:50:3000:1738_650x0_80_0_0_37d54f806d83481cdae94adb66d0c3e5.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 09:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/ukraina-2117490263.html",
+            "publishedAt": "2026-09-14T01:05:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-on-general-computation-99e043050a46a274",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Coming War on General Computation (2011)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:54:55.000Z",
+        "pubTime": "2026-09-14 07:54",
+        "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+        "imageUrl": null,
+        "fullContent": "Speech given at 28C3, the Chaos Communication Congress in Berlin on December 26, 2011. Transcribed by Joshua Wise. This transcription attempts to be faithful to the original, but disfluencies have generally been removed (except where they appear to contribute to the text). Some words may have been mangled by the transcription; feel free to submit pull requests to correct them! Times are always marked in ((double parentheses)).\n\nAnyway, I believe I've killed enough time ... so, ladies and gentlemen, a person who in this crowd needs absolutely no introduction, Cory Doctorow!\n\n(Audience applauds.)\n\n((32.0)) So, when I speak in places where the first language of the nation is not English, there is a disclaimer and an apology, because I'm one of nature's fast talkers. When I was at the United Nations at the World Intellectual Property Organization, I was known as the \"scourge\" of the simultaneous translation corps; I would stand up and speak, and turn around, and there would be window after window of translator, and every one of them would be doing this (Doctorow facepalms). (Audience laughs) So in advance, I give you permission when I start talking quickly to do this (Doctorow makes SOS motion) and I will slow down.\n\n((74.1)) So, tonight's talk -- wah, wah, waaah (Doctorow makes 'fail horn' sound, apparently in response to audience making SOS motion; audience laughs) -- tonight's talk is not a copyright talk. I do copyright talks all the time; questions about culture and creativity are interesting enough, but to be honest, I'm quite sick of them. If you want to hear freelance writers like me bang on about what's happening to the way we earn our living, by all means, go and find one of the many talks I've done on this subject on YouTube. But, tonight, I want to talk about something more important -- I want to talk about general purpose computers.\n\nBecause general purpose computers are, in fact, astounding -- so astounding that our society is still struggling to come to grips with them: to figure out what they're for, to figure out how to accommodate them, and how to cope with them. Which, unfortunately, brings me back to copyright.\n\n((133.8)) Because the general shape of the copyright wars and the lessons they can teach us about the upcoming fights over the destiny of the general purpose computer are important. In the beginning, we had packaged software, and the attendant industry, and we had sneakernet. So, we had floppy disks in ziplock bags, or in cardboard boxes, hung on pegs in shops, and sold like candy bars and magazines. And they were eminently susceptible to duplication, and so they were duplicated quickly, and widely, and this was to the great chagrin of people who made and sold software.\n\n((172.6)) Enter DRM 0.96. They started to introduce physical defects to the disks or started to insist on other physical indicia which the software could check for -- dongles, hidden sectors, challenge/response protocols that required that you had physical possession of large, unwieldy manuals that were difficult to copy, and of course these failed, for two reasons. First, they were commercially unpopular, of course, because they reduced the usefulness of the software to the legitimate purchasers, while leaving the people who took the software without paying for it untouched. The legitimate purchasers resented the non-functionality of their backups, they hated the loss of scarce ports to the authentication dongles, and they resented the inconvenience of having to transport large manuals when they wanted to run their software. And second, these didn't stop pirates, who found it trivial to patch the software and bypass authentication. Typically, the way that happened is some expert who had possession of technology and expertise of equivalent sophistication to the software vendor itself, would reverse engineer the software and release cracked versions that quickly became widely circulated. While this kind of expertise and technology sounded highly specialized, it really wasn't; figuring out what recalcitrant programs were doing, and routing around the defects in shitty floppy disk media were both core skills for computer programmers, and were even more so in the era of fragile floppy disks and the rough-and-ready early days of software development. Anti-copying strategies only became more fraught as networks spread; once we had BBSes, online services, USENET newsgroups, and mailing lists, the expertise of people who figured out how to defeat these authentication systems could be packaged up in software and passed around as little crack files, or, as the network capacity increased, the cracked disk images or executables themselves could be spread on their own.\n\n((296.4)) Which gave us DRM 1.0. By 1996, it became clear to everyone in the halls of power that there was something important about to happen. We were about to have an information economy, whatever the hell that was. They assumed it meant an economy where we bought and sold information. Now, information technology makes things efficient, so imagine the markets that an information economy would have. You could buy a book for a day, you could sell the right to watch the movie for one Euro, and then you could rent out the pause button at one penny per second. You could sell movies for one price in one country, and another price in another, and so on, and so on; the fantasies of those days were a little like a boring science fiction adaptation of the Old Testament book of Numbers, a kind of tedious enumeration of every permutation of things people do with information and the ways we could charge them for it.\n\n((355.5)) But none of this would be possible unless we could control how people use their computers and the files we transfer to them. After all, it was well and good to talk about selling someone the 24 hour right to a video, or the right to move music onto an iPod, but not the right to move music from the iPod onto another device, but how the Hell could you do that once you'd given them the file? In order to do that, to make this work, you needed to figure out how to stop computers from running certain programs and inspecting certain files and processes. For example, you could encrypt the file, and then require the user to run a program that only unlocked the file under certain circumstances.\n\n((395.8)) But as they say on the Internet, \"now you have two problems\". You also, now, have to stop the user from saving the file while it's in the clear, and you have to stop the user from figuring out where the unlocking program stores its keys, because if the user finds the keys, she'll just decrypt the file and throw away that stupid player app.\n\n((416.6)) And now you have three problems (audience laughs), because now you have to stop the users who figure out how to render the file in the clear from sharing it with other users, and now you've got four! problems, because now you have to stop the users who figure out how to extract secrets from unlocking programs from telling other users how to do it too, and now you've got five! problems, because now you have to stop users who figure out how to extract secrets from unlocking programs from telling other users what the secrets were!\n\n((442.0)) That's a lot of problems. But by 1996, we had a solution. We had the WIPO Copyright Treaty, passed by the United Nations World Intellectual Property Organization, which created laws that made it illegal to extract secrets from unlocking programs, and it created laws that made it illegal to extract media cleartexts from the unlocking programs while they were running, and it created laws that made it illegal to tell people how to extract secrets from unlocking programs, and created laws that made it illegal to host copyrighted works and secrets and all with a handy streamlined process that lets you remove stuff from the internet without having to screw around with lawyers, and judges, and all that crap. And with that, illegal copying ended forever (audience laughs very hard, applauds), the information economy blossomed into a beautiful flower that brought prosperity to the whole wide world; as they say on the aircraft carriers, \"Mission Accomplished\". (audience laughs)\n\n((511.0)) Well, of course that's not how the story ends because pretty much anyone who understood computers and networks understood that while these laws would create more problems than they could possibly solve; after all, these were laws that made it illegal to look inside your computer when it was running certain programs, they made it illegal to tell people what you found when you looked inside your computer, they made it easy to censor material on the internet without having to prove that anything wrong had happened; in short, they made unrealistic demands on reality and reality did not oblige them. After all, copying only got easier following the passage of these laws -- copying will only ever get easier! Here, 2011, this is as hard as copying will get! Your grandchildren will turn to you around the Christmas table and say \"Tell me again, Grandpa, tell me again, Grandma, about when it was hard to copy things in 2011, when you couldn't get a drive the size of your fingernail that could hold every song ever recorded, every movie ever made, every word ever spoken, every picture ever taken, everything, and transfer it in such a short period of time you didn't even notice it was doing it, tell us again when it was so stupidly hard to copy things back in 2011\". And so, reality asserted itself, and everyone had a good laugh over how funny our misconceptions were when we entered the 21st century, and then a lasting peace was reached with freedom and prosperity for all. (audience chuckles)\n\n((593.5)) Well, not really. Because, like the nursery rhyme lady who swallows a spider to catch a fly, and then has to swallow a bird to catch the spider, and a cat to catch the bird, and so on, so must a regulation that has broad general appeal but is disastrous in its implementation beget a new regulation aimed at shoring up the failure of the old one. Now, it's tempting to stop the story here and conclude that the problem is that lawmakers are either clueless or evil, or possibly evilly clueless, and just leave it there, which is not a very satisfying place to go, because it's fundamentally a counsel of despair; it suggests that our problems cannot be solved for so long as stupidity and evilness are present in the halls of power, which is to say they will never be solved. But I have another theory about what's happened.\n\n((644.4)) It's not that regulators don't understand information technology, because it should be possible to be a non-expert and still make a good law! M.P.s and Congressmen and so on are elected to represent districts and people, not disciplines and issues. We don't have a Member of Parliament for biochemistry, and we don't have a Senator from the great state of urban planning, and we don't have an M.E.P. from child welfare. (But perhaps we should.) And yet those people who are experts in policy and politics, not technical disciplines, nevertheless, often do manage to pass good rules that make sense, and that's because government relies on heuristics -- rules of thumb about how to balance expert input from different sides of an issue.\n\n((686.3)) But information technology confounds these heuristics -- it kicks the crap out of them -- in one important way, and this is it. One important test of whether or not a regulation is fit for purpose is first, of course, whether it will work, but second of all, whether or not in the course of doing its work, it will have lots of effects on everything else. If I wanted Congress to write, or Parliament to write, or the E.U. to regulate a wheel, it's unlikely I'd succeed. If I turned up and said \"well, everyone knows that wheels are good and right, but have you noticed that every single bank robber has four wheels on his car when he drives away from the bank robbery? Can't we do something about this?\", the answer would of course be \"no\". Because we don't know how to make a wheel that is still generally useful for legitimate wheel applications but useless to bad guys. And we can all see that the general benefits of wheels are so profound that we'd be foolish to risk them in a foolish errand to stop bank robberies by changing wheels. Even if there were an /epidemic/ of bank robberies, even if society were on the verge of collapse thanks to bank robberies, no-one would think that wheels were the right place to start solving our problems.\n\n((762.0)) But. If I were to show up in that same body to say that I had absolute proof that hands-free phones were making cars dangerous, and I said, \"I would like you to pass a law that says it's illegal to put a hands-free phone in a car\", the regulator might say \"Yeah, I'd take your point, we'd do that\". And we might disagree about whether or not this is a good idea, or whether or not my evidence made sense, but very few of us would say \"well, once you take the hands-free phones out of the car, they stop being cars\". We understand that we can keep cars cars even if we remove features from them. Cars are special purpose, at least in comparison to wheels, and all that the addition of a hands-free phone does is add one more feature to an already-specialized technology. In fact, there's that heuristic that we can apply here -- special-purpose technologies are complex. And you can remove features from them without doing fundamental disfiguring violence to their underlying utility.\n\n((816.5)) This rule of thumb serves regulators well, by and large, but it is rendered null and void by the general-purpose computer and the general-purpose network -- the PC and the Internet. Because if you think of computer software as a feature, that is a computer with spreadsheets running on it has a spreadsheet feature, and one that's running World of Warcraft has an MMORPG feature, then this heuristic leads you to think that you could reasonably say, \"make me a computer that doesn't run spreadsheets\", and that it would be no more of an attack on computing than \"make me a car without a hands-free phone\" is an attack on cars. And if you think of protocols and sites as features of the network, then saying \"fix the Internet so that it doesn't run BitTorrent\", or \"fix the Internet so that thepiratebay.org no longer resolves\", then it sounds a lot like \"change the sound of busy signals\", or \"take that pizzeria on the corner off the phone network\", and not like an attack on the fundamental principles of internetworking.\n\n((870.5)) Not realizing that this rule of thumb that works for cars and for houses and for every other substantial area of technological regulation fails for the Internet does not make you evil and it does not make you an ignoramus. It just makes you part of that vast majority of the world for whom ideas like \"Turing complete\" and \"end-to-end\" are meaningless. So, our regulators go off, and they blithely pass these laws, and they become part of the reality of our technological world. There are suddenly numbers that we aren't allowed to write down on the Internet, programs we're not allowed to publish, and all it takes to make legitimate material disappear from the Internet is to say \"that? That infringes copyright.\". It fails to attain the actual goal of the regulation; it doesn't stop people from violating copyright, but it bears a kind of superficial resemblance to copyright enforcement -- it satisfies the security syllogism: \"something must be done, I am doing something, something has been done.\" And thus any failures that arise can be blamed on the idea that the regulation doesn't go far enough, rather than the idea that it was flawed from the outset.\n\n((931.2)) This kind of superficial resemblance and underlying divergence happens in other engineering contexts. I've a friend who was once a senior executive at a big consumer packaged goods company who told me about what happened when the marketing department told the engineers that they'd thought up a great idea for detergent: from now on, they were going to make detergent that made your clothes newer every time you washed them! Well after the engineers had tried unsuccessfully to convey the concept of \"entropy\" to the marketing department (audience laughs), they arrived at another solution -- \"solution\" -- they developed a detergent that used enzymes that attacked loose fiber ends, the kind that you get with broken fibers that make your clothes look old. So every time you washed your clothes in the detergent, they would look newer. But that was because the detergent was literally digesting your clothes! Using it would literally cause your clothes to dissolve in the washing machine! This was the opposite of making clothes newer; instead, you were artificially aging your clothes every time you washed them, and as the user, the more you deployed the \"solution\", the more drastic your measures had to be to keep your clothes up to date -- you actually had to go buy new clothes because the old ones fell apart.\n\n((1012.5)) So today we have marketing departments who say things like \"we don't need computers, we need... appliances. Make me a computer that doesn't run every program, just a program that does this specialized task, like streaming audio, or routing packets, or playing Xbox games, and make sure it doesn't run programs that I haven't authorized that might undermine our profits\". And on the surface, this seems like a reasonable idea -- just a program that does one specialized task -- after all, we can put an electric motor in a blender, and we can install a motor in a dishwasher, and we don't worry if it's still possible to run a dishwashing program in a blender. But that's not what we do when we turn a computer into an appliance. We're not making a computer that runs only the \"appliance\" app; we're making a computer that can run every program, bu",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "2011年12月26日，科利·多克托罗（Cory Doctorow）在柏林举行的第28届混沌通信大会（28C3, Chaos Communication Congress）上发表了题为《通用计算即将到来的战争》（The Coming War on General Computation）的演讲。",
+          "联合国世界知识产权组织（WIPO）于1996年通过了《世界知识产权组织版权条约》（WIPO Copyright Treaty）。",
+          "来源叙事重点：以早期软件防复制技术和数字版权管理（DRM）的失败为历史线索，论证通过法律、技术限制和平台控制来约束通用计算机，会造成不断叠加的监管与技术管制，并可能损害合法用户权利、妨碍安全研究、限制言论传播和扩大网络审查。文本将WIPO版权条约作为版权保护制度强化的例子，并通过反讽强调：法律并未消除复制，反而可能制造新的问题。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:54:55.000Z",
+            "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation"
+          }
+        ]
+      },
+      {
+        "id": "story-9-40a6-bf0f-a888f2f4f002-1ad65167a5dd0fed",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Anthropic tells investors it will be profitable for second straight quarter",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T22:29:46.000Z",
+        "pubTime": "2026-09-14 06:29",
+        "url": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5f7307c7-2611-4f47-967d-e247853ed266.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Claude maker seeks to ease cash burn concerns before blockbuster IPO amid fears over pace of AI development",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-14 06:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-13T22:29:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-crohns-science-treatment-7831ebb093968b6f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Researchers hope powerful new microscope will reveal ‘root cause’ of incurable bowel disease",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:01:15.000Z",
+        "pubTime": "2026-09-14 07:01",
+        "url": "https://www.theguardian.com/society/2026/sep/14/new-microscope-discovery-hopes-incurable-inflammatory-bowel-disease-crohns-science-treatment",
+        "imageUrl": "https://i.guim.co.uk/img/media/46ce04c02761ac4ad84561305b3b8252e8e47cdb/849_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=ec11224f15c97aba775867ed6c46f0ff",
+        "fullContent": "No run-of-the-mill tech, ‘Curie’ operates at 10 times the resolution of conventional microscopy and could spur discoveries leading to new treatment\n\nThe number of young people living with debilitating and incurable bowel conditions worldwide is growing , but researchers now hope a one-of-a-kind microscope will help them understand such diseases and find new treatments.\n\nAccording to the British Society of Gastroenterology, more than half a million people in the UK are living with inflammatory bowel disease (IBD), with Crohn’s disease and ulcerative colitis the two main forms.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "研究人员希望一种名为“Curie”的显微镜帮助理解炎症性肠病等疾病并寻找新疗法。",
+          "“Curie”显微镜的分辨率是传统显微镜的10倍。",
+          "来源叙事重点：聚焦“Curie”显微镜的高分辨率及其可能推动炎症性肠病机制研究和新疗法开发的潜力，同时以英国炎症性肠病患者规模及年轻患者增加作为公共健康背景。报道中的“揭示根本原因”“带来新疗法”“独一无二”等属于前景性或来源叙事表达，尚未被证据包确认为已实现的结果。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:01:15.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/14/new-microscope-discovery-hopes-incurable-inflammatory-bowel-disease-crohns-science-treatment"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story--kontrol-2117490660-html-a4d5c1ba7ebfcedf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "На границах России усилили санитарный контроль из-за Эболы",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T01:09:53.000Z",
+        "pubTime": "2026-09-14 09:09",
+        "url": "https://ria.ru/20260914/kontrol-2117490660.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e4/04/0f/1570081930_0:0:3257:1832_650x0_80_0_0_7a5e54ca4d434b9cef1b0e9b8ab5c489.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 09:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/kontrol-2117490660.html",
+            "publishedAt": "2026-09-14T01:09:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-n-source-ai-reading-list-76f60d64aa6d7890",
+        "title": "开源人工智能与开放模型必读书单",
+        "originalTitle": "Open-Source AI and Open Models Reading List",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:22:51.000Z",
+        "pubTime": "2026-09-14 08:22",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "imageUrl": null,
+        "fullContent": "Hey all! I’ve been prepping for some public-audience and policy-facing writing on open models, so I figured I would share my research materials. There’s lots of wonderful stuff in here.\n\nThis is my list of the best writing on open models in the last few years. If someone decides they want to get up to speed on the area, reading this will be a comprehensive overview of the state of affairs. Please comment pieces to consider adding below, and I’ll update this over time.\n\nList last updated: 13 Sep. 2026\n\nWhat open models are, why people release them, how they relate to business strategy, and what the risks are.\n\nOn open source AI strategy, a walkthrough of how open-source software has been used by businesses and early signs of what that means for AI — From Open Source Software to Open Source Strategy, Bill Gurley (May 2026).\n\nOne of the clearest articulations is Mark Zuckerberg’s comments around Llama 3’s release as to why Meta releases open models — Open Source AI is the Path Forward, Mark Zuckerberg (Jul. 2024)\n\nWhy you should view open models on a gradient, rather than binary open/closed, based on factors such as licenses, cost of running the model, data access, etc. — The Gradient of Generative AI Release: Methods and Considerations, Irene Solaiman (Feb. 2023).\n\nThe role open models will play in the economy of the future, as a complement to strong closed models. Why open models will be used to create custom agentic workflows in enterprises across the world – What comes next with open models, Nathan Lambert / Interconnects (Mar. 2026)\n\nA position on how open models will capture value by providing a complementary tool to large swaths of the existing economy, drawing on the history of IP and current debates on open vs. closed models (e.g. distillation) — Some Simple Economics of Open versus Closed AI, Christian Catalini (Aug. 2026)\n\nWhy open models will constantly be behind closed models in performance — Open models in perpetual catch-up, Nathan Lambert / Interconnects (Feb. 2026)\n\nWhere adoption differs for open and closed models — Open and closed models are on different exponentials, Nathan Lambert / Interconnects (Jun. 2026)\n\nA clear articulation on how to balance releasing powerful open-weight models while taking safety seriously — A Safe Path to Open Weights, Thinking Machines Lab (Jul. 2026).\n\nEarly paper on marginal risks that showed text-focused LLMs very marginally increased documented potential risks of models — On the Societal Impact of Open Foundation Models, Sayash Kapoor, Rishi Bommasani et al. (Feb. 2024).\n\nClosed models safety guardrails are regularly bypassed causing a plethora of real AI-risks before hypothetical risks of open weight models have emerged — The Myth of unsafe Open Source AI, Florian Brand (Jun. 2026).\n\nThe mass reduction in open data, which is a crucial factor that has hampered truly open AI research — Consent in Crisis: The Rapid Decline of the AI Data Commons, Shayne Longpre et al. (Jul. 2024).\n\nRecent examples on how strong Chinese models impact the AI ecosystem — Kimi K3: The open-weights escalation, Nathan Lambert / Interconnects (Jul. 2026) / GLM-5.2 is the step change for open agents, Nathan Lambert / Interconnects (Jun. 2026).\n\nA summary of the story of open models in 2025: Nathan Lambert on China’s AI Ecosystem and the Open Model Gap | The Curve 2025, Golden Gate Institute for AI (Nov. 2025).\n\n[Optional] Latest data on open model adoption: A general summary on US vs. China model adoption — The ATOM Report (Apr. 2026), The latest data on model downloads, derivatives, and research adoption by region — Interconnects Adoption Dashboard, and The most important models to know about in the ecosystem — Interconnects Artifacts Hub\n\nWho is leading in open models, how this has changed over time, how China maintains its leading position, and relevant history.\n\nWhy the U.S. needs to invest in open models for fundamental R&D / innovation in the face of growing competition from China – The ATOM Project, Nathan Lambert (Aug. 2025)\n\nThe lens as to why open models help spur research innovation and beneficial outcomes for AI — Why I build open language models, Nathan Lambert / Interconnects (Oct. 2024)\n\nWhy open models foster education, innovation and competition, three core American values — Banning Open Source AI Would Be A Mistake, Nathan Lambert & Kevin Xu (Jun. 2026)\n\nWhy the recent “vibe regulation” / vague federal oversight mechanisms set us up for a clash and-or ban of frontier open models in the near future — 6 months to live for open models, Nathan Lambert / Interconnects (Jul. 2026)\n\n[Optional] Fully open language model technical reports to illustrate the start of the art in understanding: Pythia (EleutherAI, 2023), Olmo (2024), Olmo 2 (2024), Olmo 3 (2025)\n\nChinese open-source history leading up to AI — Chinese Open Source: A Definitive History, Kevin Xu (Mar. 2026).\n\nChina’s structural advantages in open-source — China’s Structural Advantage in Open Source AI, Kevin Xu (Jun. 2025).\n\nHow Chinese labs themselves discuss building models, and how the Chinese industry differs from the U.S. — Notes from inside China’s AI labs, Nathan Lambert / Interconnects (May 2026).\n\nWhy Chinese labs are so good at keeping up with American competition (e.g. American open weight labs struggle to compete with Chinese labs on fair performance comparisons) — GLM-5.3: How Chinese labs keep stride with the frontier, Nathan Lambert / Interconnects (Aug. 2026).\n\nProminent uses of Chinese models by Western companies have prompted meaningful regulatory attention (more discussion)\n\nLawmakers have probed the following companies over using Chinese models: DoorDash (CNBC, Jul. 31 2026), Airbnb (Bloomberg, Apr. 29 2026; Semafor, Apr. 29 2026), Anysphere / Cursor (Bloomberg, Apr. 29 2026; Semafor, Apr. 29 2026), Apple (Reuters, May 17 2025)\n\nOther western companies have very publicly shifted the models they use from American, closed labs to Chinese open models to save costs. Examples include Perplexity prominently and rapidly adopted DeepSeek R1 (Forbes, Jan. 28 2025) and Thomson Reuters building on Qwen to move off Claude (Business Insider, Aug. 24 2026)\n\nWhat is distillation and how much does it help Chinese labs, how do open models impact frontier AI risks like cybersecurity, and how far are open models behind the closed frontier?\n\nThe open-closed model gap has reduced in recent years, and is now at roughly 4-6 months. The leading open models have all come from Chinese labs since ~2024.\n\nSemiAnalysis article which ran independent evaluations, concluding that open models have been getting closer to the closer frontier of performance over time — Are Open Models Catching Up?, SemiAnalysis (Aug. 2026)\n\nOpen models are on the Pareto cost frontier, while not at the absolute performance frontier. E.g. DeepSeek V4 Flash, see evaluation and cost on Artificial Analysis.\n\nData sources from Epoch AI and Artificial Analysis (and U.S. v China, related) showing the open-closed gap over time.\n\nAn independent analysis of the open-closed gap across a mix of public and private evaluations — How far behind are open models?, Håvard Tveit Ihle (May 2026)\n\nE.g. in 2025, the product lead of Z.ai said with respect to their release time “Get it out fast. We open source it within a few hours.” — The Z.ai Playbook, ChinaTalk (Nov. 21, 2025)\n\nCyber, risks & open models (I plan to develop this further)\n\nWhy we cannot effectively ban open models as used by bad actors for cyber capabilities (they will always have access) — The OpenAI/Huggingface incident; how we should manage the imminent arrival of autonomous hacking too cheap to meter, Joshua Saxe (Jul. 2026)\n\nWhat the government should do to observe, orient, decide, and act with respect to emerging cyber threats (versus blocking models based on in-house capability assessments) — We urgently need a coherent national AI cybersecurity policy, Joshua Saxe (Aug. 2026)\n\nWhy you cannot expect to control access to AI at a certain threshold (e.g. open weight models) and need to prepare society to tackle risks downstream of available intelligence — Nonproliferation is the wrong approach to AI misuse, Helen Toner (Apr. 2025)\n\nDistillation – the process of training on output tokens from another model – is the single most eventful debate around open models in 2026.\n\nFor basic background, see a textbook chapter on synthetic data & distillation generally, from Reinforcement Learning from Human Feedback (post-training textbook published in 2026)\n\nHow distillation helps the Chinese labs, but doesn’t take away from their innovation — How much does distillation really matter for Chinese LLMs?, Nathan Lambert / Interconnects (Feb. 2026)\n\nA very transparent documentation of how Chinese company use Anthropic’s products and circumvent the terms of service or intended use. The report details at-scale usage of Anthropic’s products by banned parties, as a mix of technical distillation (mentioned via SFT data) and extensive routing of Claude into their products and services without telling users —Detecting and countering misuse of AI: September 2026.\n\nA recent paper that showed that the frontier labs had implementations in their APIs that made systematic extraction of reasoning traces (the crucial part of modern training) through clever tricks. Recent distillation paper, my writing on it — Stealing Reasoning Traces from Proprietary LLM APIs, Panfilov, Schmotz, Shumailov et. al 2026 (more on X). Anthropic confirmed this technique was used by Chinese labs.\n\nWhy the political panic over distillation, claiming that distillation is the only reason Chinese models are close to the frontier, is not grounded in the evidence — The distillation panic, Nathan Lambert / Interconnects (May 2026)\n\nHow labs can use distillation to improve models in an era of scaling RL environments across agentic behaviors — How distillation is used today and what performance uplift it gives to open models, Nathan Lambert (Jul. 2026)\n\n[Optional] More history: In 2024, I wrote Frontiers in synthetic data where the key points were that synthetic data, primarily in “distilling” models by training with SFT on outputs from a stronger model, was the dominant form of distillation. Frontier labs had been shifting the logit-based, knowledge distillation, confirmed earliest in Gemini and continuing to this day. In early 2025, there was substantial debate on if DeepSeek-R1 was distilled from OpenAI’s o1 model. There is no clear evidence suggesting that they did, and in Apr. of 2025 I wrote confidently that DeepSeek did not distill. At the time of R1, it is more possible than I gave it credit to that DeepSeek did distill some o1 traces to make it easier for them to train their R1 model – based on the above reasoning trace extraction methods. This does not take away from the innovation of it, but it’s worth being realistic and is a way that distillation could accelerate China closing the gap to American labs.",
+        "fullTranslation": "大家好！我最近一直在筹备一些面向公众和政策层面的关于开放模型的写作，因此我想分享一下我的研究资料。这里面有很多非常精彩的内容。\n\n这是我整理的过去几年关于开放模型的最佳文章列表。如果有人打算快速深入了解这一领域，阅读这些文章将能对整体现状获得一份全面的综述。请在下方评论推荐想要补充的文章，我会随时间持续更新。\n\n清单最近更新时间：2026年9月13日\n\n什么是开放模型、人们为什么发布它们、它们如何与商业战略挂钩，以及面临哪些风险。\n\n关于开源AI战略，梳理了企业过去如何利用开源软件，以及这对AI而言意味着什么的早期迹象——《从开源软件到开源战略》（From Open Source Software to Open Source Strategy），比尔·格利（Bill Gurley）（2026年5月）。\n\n关于Meta为何发布开放模型，最清晰的阐述之一来自马克·扎克伯格在Llama 3发布前后的评论——《开源AI是前行之路》（Open Source AI is the Path Forward），马克·扎克伯格（Mark Zuckerberg）（2024年7月）。\n\n为什么你应该根据许可协议、模型运行成本、数据获取权限等因素，从渐进梯度而非开源/闭源非黑即白的二元对立视角来看待开放模型——《生成式AI发布的梯度：方法与考量》（The Gradient of Generative AI Release: Methods and Considerations），艾琳·索莱曼（Irene Solaiman）（2023年2月）。\n\n开放模型在未来经济中扮演的角色，即作为强大闭源模型的互补品。为什么开放模型将被世界各地的企业用于构建定制的智能体工作流——《开放模型的未来走向》（What comes next with open models），内森·兰伯特（Nathan Lambert）/ Interconnects（2026年3月）。\n\n关于开放模型如何通过为庞大的现有经济板块提供互补工具来获取价值的立场，借鉴了知识产权历史以及当前关于开源与闭源模型的辩论（例如蒸馏技术）——《开源与闭源AI的简明经济学》（Some Simple Economics of Open versus Closed AI），克里斯蒂安·卡塔利尼（Christian Catalini）（2026年8月）。\n\n为什么开放模型在性能上将始终落后于闭源模型——《永远在追赶的开放模型》（Open models in perpetual catch-up），内森·兰伯特 / Interconnects（2026年2月）。\n\n开放模型与闭源模型在应用普及上的分歧所在——《开放与闭源模型处于不同的指数曲线上》（Open and closed models are on different exponentials），内森·兰伯特 / Interconnects（2026年6月）。\n\n关于如何在认真对待安全性的同时，平衡发布强大的开放权重模型的一篇条理清晰的阐述——《迈向开放权重的安全之路》（A Safe Path to Open Weights），思维机器实验室（Thinking Machines Lab）（2026年7月）。\n\n关于边际风险的早期论文，该论文表明以文本为主的LLM对模型既有潜在风险的增加极其微小——《论开放基础模型的社会影响》（On the Societal Impact of Open Foundation Models），萨亚什·卡普尔（Sayash Kapoor）、里希·博马萨尼（Rishi Bommasani）等人（2024年2月）。\n\n闭源模型的安全防护护栏屡屡被绕过，在开放权重模型的假设性风险尚未显现之前，就已经引发了大量现实的AI风险——《不安全的开源AI神话》（The Myth of unsafe Open Source AI），弗洛里安·布兰德（Florian Brand）（2026年6月）。\n\n开放数据的大规模减少，这是阻碍真正开放AI研究的一个关键因素——《危机中的知情同意：AI数据公地的急剧萎缩》（Consent in Crisis: The Rapid Decline of the AI Data Commons），谢恩·朗普雷（Shayne Longpre）等人（2024年7月）。\n\n关于强大的中国模型如何影响AI生态系统的最新范例——《Kimi K3：开放权重的升级战》（Kimi K3: The open-weights escalation），内森·兰伯特 / Interconnects（2026年7月）/《GLM-5.2是开放智能体的阶跃式转变》（GLM-5.2 is the step change for open agents），内森·兰伯特 / Interconnects（2026年6月）。\n\n2025年开放模型发展历程总结：内森·兰伯特谈中国AI生态系统与开放模型差距 | The Curve 2025，金门AI研究所（Golden Gate Institute for AI）（2025年11月）。\n\n[选读] 开放模型应用普及的最新数据：中美模型采纳情况的总体概述——《ATOM报告》（The ATOM Report）（2026年4月）；按地区划分的模型下载、衍生和研究采纳最新数据——Interconnects采纳情况仪表板（Interconnects Adoption Dashboard）；生态系统中最值得关注的核心模型——Interconnects工件中心（Interconnects Artifacts Hub）。\n\n谁在引领开放模型、这一格局如何随时间演变、中国如何保持其领先地位，以及相关历史背景。\n\n面对来自中国的日益激烈的竞争，美国为何需要投资开放模型以推动基础研发/创新——《ATOM项目》（The ATOM Project），内森·兰伯特（2025年8月）。\n\n从何种视角看待开放模型有助于激发研究创新并为AI带来有益成果——《我为何构建开放语言模型》（Why I build open language models），内森·兰伯特 / Interconnects（2024年10月）。\n\n为什么开放模型能够促进教育、创新和竞争这三项美国核心价值观——《禁止开源AI将是一个错误》（Banning Open Source AI Would Be A Mistake），内森·兰伯特、许科文（Kevin Xu）（2026年6月）。\n\n为什么近期基于“氛围感知监管”（vibe regulation）/模糊的联邦监督机制，让我们在不久的将来面临前沿开放模型被冲突对抗甚至被禁的局面——《开放模型只剩6个月寿命》（6 months to live for open models），内森·兰伯特 / Interconnects（2026年7月）。\n\n[选读] 展现最前沿理解认知的完全开放语言模型技术报告：Pythia（EleutherAI，2023年）、Olmo（2024年）、Olmo 2（2024年）、Olmo 3（2025年）。\n\n走向AI时代的中国开源历史——《中国开源：权威历史》（Chinese Open Source: A Definitive History），许科文（2026年3月）。\n\n中国在开源领域的结构性优势——《中国在开源AI领域的结构性优势》（China’s Structural Advantage in Open Source AI），许科文（2025年6月）。\n\n中国实验室自身如何讨论模型构建，以及中国产业界与美国的差异——《来自中国AI实验室内部的观察笔记》（Notes from inside China’s AI labs），内森·兰伯特 / Interconnects（2026年5月）。\n\n为什么中国实验室如此擅长跟上美国的竞争步伐（例如在公平的性能比较中，美国开放权重实验室很难与中国实验室抗衡）——《GLM-5.3：中国实验室如何紧跟前沿步伐》（GLM-5.3: How Chinese labs keep stride with the frontier），内森·兰伯特 / Interconnects（2026年8月）。\n\n西方企业大量采用中国模型引发了监管层面的高度关注（更多讨论）：\n\n立法者已对以下使用中国模型的公司展开质询审查：DoorDash（CNBC，2026年7月31日）、Airbnb（彭博社，2026年4月29日；Semafor，2026年4月29日）、Anysphere / Cursor（彭博社，2026年4月29日；Semafor，2026年4月29日）、苹果（路透社，2025年5月17日）。\n\n其他西方公司则非常公开地将使用的模型从美国闭源实验室转向中国开放模型以削减成本。例子包括Perplexity高调且迅速地采用了DeepSeek R1（《福布斯》，2025年1月28日），以及汤森路透基于Qwen进行开发以弃用Claude（《商业内幕》，2026年8月24日）。\n\n什么是知识蒸馏，它对中国实验室有多大帮助，开放模型如何影响网络安全等前沿AI风险，以及开放模型距离闭源前沿水平到底还有多远？\n\n近年来开源与闭源模型之间的差距已经缩小，目前大约维持在4至6个月左右。自2024年左右以来，领先的开放模型均出自中国实验室。\n\nSemiAnalysis的文章进行了独立评测，得出的结论是：随着时间的推移，开放模型与闭源前沿性能的差距正在不断缩小——《开放模型正在迎头赶上吗？》（Are Open Models Catching Up?），SemiAnalysis（2026年8月）。\n\n开放模型虽然未处于绝对性能前沿，但处于帕累托成本前沿。例如DeepSeek V4 Flash，参见Artificial Analysis上的评测和成本数据。\n\n来自 Epoch AI 和 Artificial Analysis（以及相关的中美对比）的数据来源，展示了开源与闭源差距随时间的变化。\n一项结合公开与私有评估对开源与闭源差距进行的独立分析——《开源模型究竟落后多远？》，Håvard Tveit Ihle（2026年5月）\n例如在 2025 年，Z.ai 的产品负责人谈及其发布时间时表示：“尽快推出。我们在几个小时内就将其开源。”——《Z.ai 操作手册》，ChinaTalk（2025年11月21日）\n网络安全、风险与开放模型（我计划对此作进一步阐述）\n为什么我们无法有效禁止不良行为者利用开放模型获取网络安全能力（他们总能获取访问途径）——《OpenAI/Huggingface 事件；我们应如何应对成本极其低廉的自主黑客攻击的迫在眉睫》，Joshua Saxe（2026年7月）\n面对新兴网络威胁，政府应当如何观察、调整、决策与行动（而非基于内部能力评估来封禁模型）——《我们迫切需要一项协调一致的国家人工智能网络安全政策》，Joshua Saxe（2026年8月）\n为什么不能指望在某一阈值（例如开放权重模型）上控制人工智能的获取，而需要让社会做好准备以应对智能普及所带来的下游风险——《防扩散是应对人工智能滥用的错误路径》，Helen Toner（2025年4月）\n蒸馏（Distillation）——即利用另一个模型的输出 Token 进行训练的过程——是 2026 年围绕开放模型最受瞩目的一场辩论。\n基础背景请参阅关于合成数据与蒸馏通论的教科书章节，出自《人类反馈强化学习》（Reinforcement Learning from Human Feedback，2026年出版的后训练教科书）\n蒸馏如何为中国实验室提供助力，但又未抹杀其创新——《蒸馏对中国大语言模型究竟有多重要？》，Nathan Lambert / Interconnects（2026年2月）\n一份高度透明的记录，详细记录了中国公司如何使用 Anthropic 的产品并规避其服务条款或预期用途。该报告详述了受限制实体对 Anthropic 产品的大规模使用，既包括技术性蒸馏（通过 SFT 数据提及），也包括在未告知用户的情况下将 Claude 大规模接入其产品和服务——《检测与打击人工智能滥用行为：2026年9月》。\n近期一篇论文指出，前沿实验室在其 API 中存在特定的实现细节，使得他人能够通过巧妙手段系统性提取推理轨迹（现代训练的关键环节）。关于近期的这篇蒸馏论文及我的评论文章——《从专有大语言模型 API 中窃取推理轨迹》，Panfilov, Schmotz, Shumailov 等（2026年，更多内容见 X 平台）。Anthropic 证实该技术曾被中国实验室采用。\n为什么声称“蒸馏是中国模型接近前沿水平的唯一原因”的政治恐慌缺乏事实依据——《蒸馏恐慌》，Nathan Lambert / Interconnects（2026年5月）\n在跨智能体行为强化学习环境持续扩展的时代，各实验室如何利用蒸馏提升模型能力——《当下蒸馏的应用方式及其为开源模型带来的性能提升》，Nathan Lambert（2026年7月）\n[选读] 更多背景历史：2024 年，我曾撰写《合成数据前沿》，核心观点是：通过在更强大模型的输出上进行 SFT 训练来“蒸馏”模型的合成数据，是当时主要的蒸馏形式。前沿实验室一直在转向基于对数几率（logit-based）的知识蒸馏，这一趋势最早在 Gemini 中得到确认并延续至今。2025 年初，关于 DeepSeek-R1 是否蒸馏自 OpenAI 的 o1 模型曾引发广泛争论。当时并无明确证据表明他们存在此类行为，我在 2025 年 4 月还曾信心十足地写道 DeepSeek 没有进行蒸馏。回顾 R1 发布时期，根据前述的推理轨迹提取方法，DeepSeek 蒸馏部分 o1 推理轨迹以便更容易训练其 R1 模型的可能性，或许比我此前认为的要更高。这并没有贬低其创新的意义，但我们应实事求是，而这正是蒸馏可能助力中国加速缩小与美国实验室差距的一种方式。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 50,
+        "translationParagraphs": 36,
+        "keyTakeaways": [
+          "开源模型与闭源模型之间的差距近年来有所缩小，目前约为4至6个月。",
+          "自2024年左右以来，领先的开源模型全部来自中国实验室。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:22:51.000Z",
+            "url": "https://www.interconnects.ai/p/open-source-ai-reading-list"
+          }
+        ]
+      },
+      {
+        "id": "story-g-is-that-legal-02143710-e44821b877a15f25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:00:00.000Z",
+        "pubTime": "2026-09-14 09:00",
+        "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-14 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-14T01:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ogrammers-dislike-reduce-2fb7fce7df7a40f0",
+        "title": "从经验来看，程序员并不喜欢“reduce”",
+        "originalTitle": "Anecdotally, programmers dislike \"reduce\"",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:59:05.000Z",
+        "pubTime": "2026-09-14 07:59",
+        "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+        "imageUrl": null,
+        "fullContent": "In short: from my experience, people like map and filter, but not reduce.\n\nI use functions like map and filter all the time. When I put that code up for review, my peers rarely complain. I get plenty of feedback about other decisions, but not about my use of map and filter.\n\nI cannot say the same for reduce. Often, when I’ve submitted a patch with reduce inside, I get a comment like, “this part is hard to read.” And I see reduce way less than map, filter, some, and so on.\n\nAnecdotally, I have come to believe that programmers don’t like reduce as much.\n\nI don’t know why, but I have a few theories:\n\nI usually just change reduce to something else and move on. Even though I prefer it, I don’t usually care much. But it’s a little social phenomenon I’ve observed, and I thought I’d document it.\n\nI’ve also noticed this less recently, possibly because code review is less thorough nowadays.\n\nDo you notice this? Do you like reduce? Please tell me.",
+        "fullTranslation": "简而言之：根据我的经验，大家都喜欢 map 和 filter，但不喜欢 reduce。\n\n我经常使用 map 和 filter 之类的函数。当我把这类代码提交评审时，同事们鲜少抱怨。关于其他设计决策我能收到很多反馈，但从没人质疑我用 map 和 filter。\n\n但对于 reduce 却完全不是这样。通常，当我提交的代码补丁中包含 reduce 时，收到的评审意见往往是：“这部分代码可读性较差。”而且在日常代码中，我见到 reduce 的频率远低于 map、filter、some 等函数。\n\n从经验来看，我越来越觉得程序员们没那么喜欢 reduce。\n\n我不知道具体原因，但我有几种推测：\n\n我通常就是把 reduce 改成其他写法然后继续干别的。尽管我个人更喜欢用它，但我通常也不太执着。不过这是我观察到的一个小小的社交现象，我想不妨把它记录下来。\n\n最近我也较少注意到这种情况了，可能是因为如今的代码评审没那么严格细致了。\n\n你注意到了吗？你喜欢 reduce 吗？请告诉我。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "作者在代码审查中提交使用 map 和 filter 的代码时，同行很少提出抱怨。",
+          "作者提交包含 reduce 的补丁时，经常收到诸如“这部分很难阅读”的代码审查意见。",
+          "来源叙事重点：围绕函数式编程中的 reduce 展开经验性讨论：作者称 map 和 filter 在代码审查中较少遭到批评，而包含 reduce 的代码更常被认为难以阅读，因此推测程序员相对不喜欢或较少使用 reduce。文章也提到这一现象近期可能减弱，但作者仅将代码审查不够彻底作为一种未经验证的可能解释。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:59:05.000Z",
+            "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/"
+          }
+        ]
+      },
+      {
+        "id": "story-ansparency-rewarded-html-254e07cb85b518f0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Consumers demand transparency, but is it rewarded?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:30:04.000Z",
+        "pubTime": "2026-09-14 08:30",
+        "url": "https://phys.org/news/2026-09-consumers-demand-transparency-rewarded.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2019/ecommerce.jpg",
+        "fullContent": "Transparent supply chains boost consumer trust—if the results are positive. But what if they aren't? A new paper by Kühne Logistics University (KLU), in collaboration with the University of Tennessee and Tilburg University, published in the Journal of Business Logistics, reaches a surprising conclusion. The researchers advise companies: It's better to publish mixed results than none at all.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-consumers-demand-transparency-rewarded.html",
+            "publishedAt": "2026-09-14T00:30:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ia-protest-fuel-hikes-sy-ae8359aa98e4edd8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Protests erupt across Syria over sharp fuel price hikes",
+        "source": "Al Jazeera (半岛电视台官方英文)",
+        "sourceSlug": "aljazeera",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:08:01.000Z",
+        "pubTime": "2026-09-14 09:08",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy",
+        "imageUrl": null,
+        "fullContent": "Protests erupt across Syria over sharp fuel price hikes\n\nProtests have erupted in Syria after the government raised fuel prices by up to 40% for diesel and up to 28% for gasoline. The government cites higher import costs and the Baniyas refinery overhaul.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-09-14 09:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Al Jazeera (半岛电视台官方英文)",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy",
+            "publishedAt": "2026-09-14T01:08:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ving-accuracy-with-astra-968c32634dc2a1cb",
+        "title": "Perplexity 借助 GPT-6 Astra 驱动端到端系统",
+        "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "source": "OpenAI News (官方动态)",
+        "sourceSlug": "openai",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:00:00.000Z",
+        "pubTime": "2026-09-14 08:00",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "imageUrl": null,
+        "fullContent": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.\n\nAs an AI-powered answer engine, Perplexity is deeply focused on search and accuracy. Its ability to process large amounts of information is critically important. Johnny Ho, Cofounder and Chief Strategy Officer, observes that every time the model gets better at writing code, Perplexity’s search engine improves too. It becomes able to write better programs that search the web and internal information and summarize it very concisely.\n\nBut the real challenge, according to Johnny, is taking those informational aspects and applying them to real-world systems. Something made easier with GPT‑6 Astra.\n\nFor Johnny, one of the most useful applications of AI is testing code. With limited time to test manually, he asks GPT‑6 Astra to build a small testing program around an application.\n\nThe model generates realistic responses like those another service would send, for example, a language model API or a connector. By standing in for those services, the model can check how the application responds and test the workflow from start to finish.\n\nEngineeringSep 11, 2026\n\nApplied AISep 10, 2026",
+        "fullTranslation": "Perplexity 正利用 Astra 撰写通信内容、修改软件并监控生产系统，且人工介入检查的频率远低于早期模型。\n\n作为一款人工智能驱动的问答引擎，Perplexity 极度关注搜索与准确性。其处理海量信息的能力至关重要。联合创始人兼首席战略官 Johnny Ho 指出，模型编写代码的能力每提升一次，Perplexity 的搜索引擎也会随之进步。它能够编写出更优秀的程序来检索网络与内部信息，并进行高度精炼的总结。\n\n但 Johnny 认为，真正的挑战在于将这些信息维度的能力应用到现实世界的系统中。而 GPT-6 Astra 让这一切变得更加轻松。\n\n对 Johnny 而言，人工智能最实用的应用之一是测试代码。由于手动测试的时间有限，他会让 GPT-6 Astra 围绕应用程序构建一套小型测试程序。\n\n该模型可以生成逼真的响应，就像其他服务发送的一样——例如语言模型 API 或连接器。通过模拟并替代这些服务，该模型能够检查应用程序的反应，并端到端测试整个工作流程。\n\n工程 2026年9月11日\n应用AI 2026年9月10日",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Perplexity使用Astra来撰写通讯、修改软件并监控生产系统，且人工介入检查的频率远低于早期模型。",
+          "Perplexity是一家由人工智能驱动的问答引擎，专注于搜索和准确性。",
+          "来源叙事重点：展示核心客户Perplexity对GPT-6 Astra的高度信任与端到端深度应用，强调模型在代码生成、端到端系统测试、修改软件和生产系统监控中的高自主性与准确性提升，以树立技术领先地位与企业级落地范本。"
+        ],
+        "citations": [
+          {
+            "source": "OpenAI News (官方动态)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T00:00:00.000Z",
+            "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          }
+        ]
+      },
+      {
+        "id": "story-ore-frequent-spikes-html-045d083b14b259b7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:00:00.000Z",
+        "pubTime": "2026-09-14 07:00",
+        "url": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html",
+        "imageUrl": null,
+        "fullContent": "Oil prices hit nearly $110 per barrel on Thursday for the first time since July, with no end in sight for the Middle East conflict. The IRGC announced on Wednesday that it had attacked and heavily damaged eight oil tankers and two U.S. Navy destroyers in the Strait of Hormuz, in retaliation after the U.S. military destroyed five IRGC-linked oil tankers in the Gulf of Oman on Tuesday night. CENTCOM has, however, denied the IRGC claims. Hopes for a quick resolution to the war have also faded after U.S. President Donald Trump said that the war is unlikely to end before the midterm elections in November, while advisors have allegedly warned him the war could last for the rest of his term. By Friday morning at 710 a.m. ET, Brent crude was trading at $103.58, while WTI was trading at just over $98. And now oil and commodity analysts at Standard Chartered have predicted that the ongoing sharp oil price gyrations on headlines will continue through the third quarter amid the ongoing stalemate in the US-Iran conflict, with little sign that diplomatic progress will relieve export restrictions through the Strait of Hormuz. StanChart says middle distillates remain extremely strong, with some venues under extreme stress as heat and drought compound logistical bottlenecks. The bank expects the strength in middle distillate cracks the price difference between a barrel of crude and the fuels a refinery makes from it to continue, with diesel, gasoil and jet outperforming gasoline. Expectations that the conflict keeps dragging on are pushing some of that strength into longer-dated contracts, StanChart says. The bank forecasts oil averaging $77.50 a barrel in 2027 on returning demand particularly from China's imports and the need to both refill and expand depleted strategic reserves. Related Drone Strikes Hit Saudi Arabia's Vital East-West Oil Pipeline Meanwhile, the 42nd annual APPEC Asia Pacific Petroleum Conference in Singapore concluded on Thursday, with market participants appearing increasingly positioned for a prolonged Middle East conflict. According to StanChart, China's rebounding appetite for crude imports, alongside its ability to redirect refined product supplies to increasingly tight Asian markets, has emerged as an important potential source of flexibility in global oil flows. Consumers are increasingly placing greater value on optionality across crude grades, suppliers, refining configurations and product sources after repeated disruption reshaped established trade flows. The energy experts see oil markets remaining vulnerable to oil price spikes whereas alternative barrels can often be found, there is progressively less spare capacity, inventory and logistical slack available when multiple disruptions occur simultaneously. StanChart says the price implication is increasingly asymmetric, with a market characterized by more frequent and sharper upside price spikes, even if rallies are subsequently faded. The upside tail is getting fatter, with volatility commanding a greater premium. This implies that refined products will continue to be more vulnerable to disruptions than crude. At the same time, Europe's natural gas rally is showing little signs of slowing down, with prices rising above 81/MWh on Thursday, the highest level since December 2022 in large part due to the Middle East disruptions. A Qatar-loaded LNG carrier sailed through Hormuz on 8th September bound for Pakistan. The transit followed several empty Qatar-linked LNG carriers returning towards the Persian Gulf, providing the clearest evidence yet that Qatar may be testing the feasibility of restarting exports through the waterway. However, StanChart notes that substantial uncertainty remains around whether this represents the beginning of sustained exports. Outbound LNG flows from the Persian Gulf remain well below pre-war levels, while QatarEnergy recently extended force majeure on LNG deliveries to European and Asian buyers into October and November. Qatar has also continued operating Ras Laffan at reduced rates, keeping equipment operational and retaining the flexibility to ramp up more quickly if conditions permit. StanChart says a short-term spurt of exports of LNG already loaded onto vessels inside the Gulf is possible without signalling a sustained recovery in Qatari supply, noting that repeated safe passage alongside evidence of a broader production ramp-up before the markets materially reduce the supply-risk premium embedded in European gas prices. Meanwhile, stronger Continental Northwest Europe CNWE storage injections, alongside fresh unplanned curtailments at key Norwegian gas assets, have tightened Europe's gas balance. European storage stands at just 66% of full capacity, 12 percentage points lower than the same period last year and marking a 15-year low for this time of year. To exacerbate matters, the deficit is heavily concentrated in Europe's largest economies, with Germany's inventories at 54% while the Netherlands is at 48%. Experts have warned that Germany could see a demand-supply gap as wide as 25% on peak January days if winter temperatures come in lower than expected. By Alex Kimani for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦美伊冲突长期化对全球原油及欧洲天然气供应链的深层冲击，强调在闲置产能紧缩、物流瓶颈与地缘冲突交织下，大宗商品市场结构已转向更频繁、幅度更大的上行暴涨特征。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ratch-as-a-beginner-html-697be84fa2778250",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Writing a Guix service from scratch, as a beginner",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:24:10.000Z",
+        "pubTime": "2026-09-14 07:24",
+        "url": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
+        "imageUrl": null,
+        "fullContent": "I am in the middle of migrating my machines from NixOS to Guix.\n\nMy first milestone is to migrate my VPS to Guix.\n\nMy VPS has essentially three majors roles:\n\nThe mail server is up and running, using exim as the MTA and dovecot as the IMAP server. I had to jump through a few hoops to get exim up and running. I would have preferred postfix over exim, but only exim is available out of the box on the official Guix channel.\n\nAt the time, I didn't know how to define my own custom services. I intend to use Guix for the foreseeable future, I want to build a deep understanding of it. Learning to create my own services, suited to my own needs, is an important part of mastering Guix.\n\nWhich brings us to the motivation behind this article: the time had come to create my own service.\n\nFor the proxy server, I enjoy using Caddy. Caddy isn't available as a service on Guix.1\n\nThis seems like the perfect time to finally dive into custom services.\n\nAs I navigated my way through the docs and the source code, I decided to document my learning and share it here, as guide for other newcomers.\n\nIn this article, we will be writing a custom service for our Caddy reverse proxy.\n\nThis service involves setting up a configuration file for Caddy via Guix, creating a system user and configuring Shepherd to run the daemon.\n\nIt's a perfect first custom service: t is simple enough to ease into custom services, yet it includes a good overview of them.\n\nFurthermore, most of the services I run on my home server are essentially a combination of those three actions: configure users, manage configuration files and run the daemon.\n\nThis article is suitable to Guix newcomers and beginners. As a matter of fact, I wrote this as I went along, stumbling my way through it, without any extensive knowledge beyond reading the documentation.\n\nThe only true prerequisite is to have the Caddy package ready to go on your Guix instance, so we can build the service on top of it. At the time of writing this blog, the Guix repository doesn't contain the Caddy package but the team is working on it.\n\nIn the meantime, you can follow my blog post to create one easily. It only takes a few lines of code.\n\nYou don't need to have a high proficiency or deep expertise in Scheme (I certainly don't), but a basic understanding of it is highly recommended.\n\nI assume that you are, like me, fairly new to Guix - however this isn't a replacement to the documentation. I will be paraphrasing the documentation a lot with my own interpretation of it. I encourage you to keep the documentation on the side while following this article.\n\nI obviously assume that you have Guix installed and a working configuration. If not, you can find one here.\n\nFinally, you need to know how to reconfigure your system (hint: sudo guix system reconfigure my-config.scm).\n\nWhen I reference the Guix source code, I will use the notation file-name:line.\n\nAlright, with this out the way, let's talk about what we are concretely going to build here.\n\nIn order to keep things as simple as possible, I decided to define our service to be as simple and bare-bones as possible.\n\nOur plan will be as follow:\n\nThis is the bare mininum Caddy service; it will do the job, but it won't be the most elegant.\n\nMost of the configuration options will be hard coded; the service won't be ready to be distributed. However, it will be functional and fulfill our needs.\n\nOnce completed, we can expect to have accumulated enough knowledge along the way to revisit, refactor and improve it.\n\nAs soon as this article is out, I plan on improving it and if I feel brave, I might even propose it to the Guix repository.\n\nBut for now, let's stick to the basics. We don't want to let perfection get in the way of done.\n\nThe documentation defines a service as \"something that extends the functionality of the operating system\".\n\nThis definition is quite vague, but that's because a service can have a wide variety of functionalities. The most obvious type of a service is a daemon running a process in the background (our case), but it's not the only type of service.\n\nAs we will see, a service can be a process which is run once, such as creating accounts or copying files to the store. It can be a recurring process, such as a cron job.\n\nIn a way, it is a primitive to configure our system in a declarative manner.\n\nOne interesting aspect of services, is that they are designed from the ground up to be extensible and composable. A service can extends one or more services, and can itself be extended by one or more services. We will dive a deeper on that subject further below; I find this architecture fantastic.\n\nSo if you don't fully grasp what a service is yet, follow along, it will make more sense as we progress.\n\nOur first step is to break the ice by creating the simplest service we can: a bare service that does nothing. The goal is just to get familiar with services.\n\nFirst, we need to define the service type of our service.\n\nA service type is essentially a blueprint for a service. Think of it as what a class is to an instantiated object.\n\nA service is enabled or \"instantiated\" (if we keep our analogy of classes) by the service procedure. The service procedure takes as an argument a <service-type> record and a value.\n\nIf a value isn't provided, the default-value defined in the <service-type> definition is used.\n\nTo enable the service, we add it to the list provided to the services procedure:\n\nNow let's look inside the <service-type> record.\n\nYou can find the definition of <service-type> in gnu/services.scm:187. The service type is well documented, but grepping the codebase is very valuable tool when working with Guix (or any other software if you ask me!).\n\nWe notice that the <service-type> requires a name and a list of extensions. It also contains optional fields: compose, extend, default-value, description and location.\n\nLet's define our caddy-service-type. We set the name of our service to 'caddy. We also set the extensions to nil (the empty list), which means that we aren't extending any existing services for now. We also leave the default-value to nil.\n\nRegarding the optional fields, let's only care about the description for now. It takes a string and is used for - you guessed it - the description.\n\nI will cover the compose, extend and extensions fields later, let's not worry about them for now.\n\nOur <service-type> for our Caddy service looks like this:\n\nThat's it. This is the simplest service type: it only has a name and a description.\n\nLet's enable it by adding it to the services procedure.\n\nNow, run sudo guix system reconfigure config.scm and celebrate your first custom service.\n\nWe \"instantiated\" a service of type caddy-service-type without a value, defaulting to the default-value of nil.\n\nIt's not doing anything, but it still is a service.\n\nIf you have a graphical display, you can run the following command to generate a graph of your system:\n\nguix system extension-graph config.scm | guix shell xdot -- xdot -\n\nYou will notice that the Caddy service is present in your services. Nice. Now let's make that service do something useful.\n\nThe next step to improve our service is to instruct it to create the caddy user and group.\n\nIt is always a good idea to create a non-root user to run a background process: if the process is compromised, the area of attack is much smaller.\n\nIn order to create the user and group, we will use the power of extensions.\n\nGuix contains a large number of services out of the box; one of them is the account-service-type. This service is used to create users and groups on our operating system.\n\nIn order to use that service, we will need to add it to the extensions field of our caddy-service-type.\n\nThe extensions field is a bit hard to grasp at first. My first instinct was that the extensions field allows you to modify your service by extending its own capability, giving it extra functionality. For example, in this case, I expected that extending the account-service-type would add the capability to create users and groups to our caddy-service-type.\n\nHowever it is the opposite! You don't \"add\" capability to your service, you modify the target service (account-service-type here) to perform actions for your service. How the target service-type is modified is defined by the rules in its compose and extend fields. We'll go over them in more details further below.\n\nFor now, let's continue on our account creation to illustrate this concept. We want to create a user, caddy, and a group with the same name, caddy.\n\nThe account-service-type is defined as extendable. This means that it offers an interface for other services to create user accounts. The account-service-type doesn't need to know who is creating accounts and why; it only exposes a way to do so.\n\nThis is the beauty of this architecture: it makes the system completely declarative. When a service extends the account-service-type, then Guix will create the accounts when the service is enabled. If the service is not enabled, those accounts aren't created.\n\nIt's a fantastic architecture when you think about it, it reminds me of the principle of Inversion of Control.\n\nIn order to instruct the account-service-type to create our caddy user when the caddy-service-type is enabled, we extend the account-service-type.\n\nWe now understand the concept of the extensions field. It allows you to 'extend' a target service-type to, for example, create more users. But we still don't really know how to specify it in practice.\n\nWe have a few ways of finding out set it up: reading the docs, grepping examples, or looking at the source.\n\nFor the sake of getting better at understanding services, let's look at the source.\n\nBeing curious and eager to really assimilate how services extensions work, I tried find out if we can guess the shape of the accounts by looking at the account-service-type service, defined in shadow.scm:547.\n\nThis is how the account-service-type is defined. We should be familiar with the <service-type> record structure.\n\nThe first thing we can see, is that the default-value is an empty list, which means that the account-service-type itself is expecting a list as a value. But a list of what?\n\nIn this case, the comments give us the answer: a list of <user-account> and <user-group>. If it was not for the comments, you could look at the account-activation.\n\nBefore moving on, let's talk about compose and extend fields. This is how they are defined in the documentation\n\nThis is the procedure to compose the list of extensions to services of this type.\n\nThis procedure defines how the value of the service is extended with the composition of the extensions.\n\nThis is a bit vague and left me a bit scratching my head, but what it means is that:\n\nCompose defines how to the service composes multiple services extending this service-type.\n\nFor example,if we have three services listing accounts-service-type as an extension, how do we handle each value? Do we only take the first? The last?\n\nObviously, if three services are defining users by extending the account-service-type, we want to create all those users. Therefore, we want to concatenate the values provided by the extending services.\n\nWe can imagine other services behaving differently. For example, let's imagine a service whose role is to manage a port. Let's call it open-port-22-service-type. Let's also imagine that two services extend this service: one wants to open the port, the other close it.\n\nWhat shall we do? Open it, or close it? We have conflicting values.\n\nMaybe we want to err on the caution side and define open-port-22-service-type to prioritise 'close' values if it receives contradicting values.\n\nThat's what the compose field is for. It defines how to compose multiple extending service values.\n\nIt is, in a way, quite similar to compose\n\nLet's imagine a service-type which displays a welcome message when the computer boots, called welcome-message-service-type. If a service extends it with a different message, we might want to give priority to the extending service value.\n\nIn this case, we would use extend to instruct the welcome-message-service-type to replace its own value with the composed values from the extending services.\n\nNote that compose and extend accept procedures which takes the service itself as an argument. It gives the user a lot of freedom and power when defining the rules.\n\nLet's finish with the user-account-service-type as a final example.\n\nIn the case of users, we want to:\n\nZooming back to the architecture, we can see that services are all built upon each other. A service, when installed, will modify the services listed in its extensions field. Those will in turn modify the service-type of their own extensions.\n\nThis \"chain reaction\" will continue until all services are collected in the system-service-type, which is the root of all services. Under the hood, we end up with a collection of all our services in one, large, single structure. I assume that this is conglomerate of services is then handled by Guix when configuring the system.\n\nOk, we now know the account-service-type:\n\nSo, by either following in my 'deep dive', reading the documentation or looking up examples in the code base, we found out that our group and user are defined as a <user-account> and <user-group> respectively.\n\nBoth records can be found in accounts.scm at line 71 and 90 respectively.\n\nWe define our accounts like so:\n\nNow we can add them the account-service-type extension.\n\nThe extensions procedure accepts a list of <service-extension>. A service-extension is a record that accept two parameters.\n\nThe first is the name of the target service-type . This is account-service-type in our case. The second parameter to a service-extension is a procedure that takes the service itself (the current caddy service) and returns a list of object to extend the target service (see documentation).\n\nThe second parameter seems complicated, but it's simply a procedure that returns the \"value\" for the extension. In our case, a list of user and group account. You can imagine that using this second argument, we could create the user dynamically based on the value of our caddy-service-type if we wanted make our service configurable. That's how configurable services are structured.\n\nLet's define our service-extension for the account-service-type and add it to the extension field.\n\nWe used const here, which is the syntactic sugar for (lambda(_)(%caddy-accounts)).\n\nAlright, time to finally test it out!\n\nRun sudo guix system reconfigure config.scm to apply our changes.\n\nLet's check the presence of the caddy user by running sudo id caddy.\n\nNice! Our caddy user and group were created!\n\nWhat we have learned so far:\n\nNow let's see how we can write the config, the Caddy file, into /etc/caddy.\n\nIn order to keep matters simple, the caddy-service-type will be static. We will write the Caddyfile manually and provide it to our Caddy service. We won't be in charge of generating the Caddyfile2.\n\nThe Caddy service will simply be in charge of copying it to the right location.\n\nThe target location for Caddyfile is /etc/caddy/caddy.conf.\n\nAs before, we will be leveraging extensions to do so. To execute an arbitrary procedure when a service is enabled, we can use the activation-service-type.\n\nNote that there is a service doing exactly this task, the etc-service-type. However I believe that using the more general activation-service-type for didactic purpose is a better choice. It's a widely used service; a lot of the service in the Guix repository rely on it.\n\nThe activation service is a service that is executed at activation of our service.\n\nInterestingly enough, I couldn't find much about it in the documentation, except in this example. Let's look at the source code instead.\n\nIn services.scm:792 we get a bit more information:\n\nWe can also look at its definition services.scm:776\n\nAlright, we see (from the comment and the lambda gexps->activation-gexp) that the value required by a service is a G-Expression or gexp\n\nWhat is a gexp? A gexp, or g-exp, or G-expression3 is a Guix of staging code to be executed later in the build environment.\n\nIf you know what a G-expression is, you can skip the next section. If not, let's briefly introduce the concept of G-expression4.\n\nI won't go to deep into the concept of G-exps; there is a lot to cover and it merits its own article. We will keep a high level overview.\n\nTo understand what G-expression are, you need to know that Guix runs in two environments.\n\nWhen building packages, the guix daemon creates something akin to containers. They aren't quite containers, but the concept is close enough for our understanding.\n\nTo ensure reproducibility, each package is built in its own \"container\", which only includes the required inputs. For this to happen, part of the code in package definition needs to be staged for later execution, inside that \"container\". G-expressions is how we staging code to be executed at build time.\n\nThe two environments of Guix are often referred as:\n\nG-expressions are expressed with the #~ macro, such as #~( ;; this is a g-expression ;; ). Whenever you see the macro #~, it means that the code inside the bracket will be executed later, inside the build \"container\".\n\nInside a G-exp, we can evaluate some expressions using the #$ macro, or ungexp.\n\nFor example, let's have a look at this G-expression:\n\nIn this instance, when the code is evaluated #$output will be replaced (or ungexp) and the expression will be:\n\nIn concept, it's similar to the quasi-quote and comma in Scheme.\n\nAs the G-expression is evaluated in a different environment, it will not have automatically access to the modules imported in the current environment. In order to give the G-expression access to modules, we need to import them in the \"build\" environment in which the G-expression will be evaluated.\n\nTo do so, we use the with-imported-modules syntax like so:\n\nIn the example above, mkdir-p is a procedure from in guix/build/utils.scm. T",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 135,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕“边实践边学习”的路径，讲解如何从零创建Guix自定义服务：定义服务类型、配置Caddy、创建专用用户和用户组、通过Shepherd运行守护进程，并解释Guix服务的声明式、可组合和可扩展机制。作者强调先实现功能、再重构完善，且将文章定位为文档的辅助性入门材料。文中还叙述了作者迁移至Guix的背景、邮件服务器配置经历，以及Caddy服务和软件包在其Guix环境中的可用性问题。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:24:10.000Z",
+            "url": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ons-exoplanet-great-html-710b11e8dd5689da",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "JWST ruled out finding tiny moons around an exoplanet—that's great news",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T22:30:05.000Z",
+        "pubTime": "2026-09-14 06:30",
+        "url": "https://phys.org/news/2026-09-jwst-tiny-moons-exoplanet-great.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/artists-rendering-of-l.jpg",
+        "fullContent": "The James Webb Space Telescope (JWST) has opened many wonders of the cosmos to scientists since it began science operations a few years ago. But one thing it hasn't done is find an \"exomoon.\" These still-theoretical moons orbit exoplanets in other star systems, and JWST was supposed to find a plethora of them.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-jwst-tiny-moons-exoplanet-great.html",
+            "publishedAt": "2026-09-13T22:30:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ukraina-2117490263-html-1940d11c87e2a26d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Экс-представительница Зеленского раскрыла, что будет с Украиной из-за него",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T01:05:49.000Z",
+        "pubTime": "2026-09-14 09:05",
+        "url": "https://ria.ru/20260914/ukraina-2117490263.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/155524/79/1555247994_0:50:3000:1738_650x0_80_0_0_37d54f806d83481cdae94adb66d0c3e5.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 09:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/ukraina-2117490263.html",
+            "publishedAt": "2026-09-14T01:05:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-on-general-computation-99e043050a46a274",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Coming War on General Computation (2011)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:54:55.000Z",
+        "pubTime": "2026-09-14 07:54",
+        "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+        "imageUrl": null,
+        "fullContent": "Speech given at 28C3, the Chaos Communication Congress in Berlin on December 26, 2011. Transcribed by Joshua Wise. This transcription attempts to be faithful to the original, but disfluencies have generally been removed (except where they appear to contribute to the text). Some words may have been mangled by the transcription; feel free to submit pull requests to correct them! Times are always marked in ((double parentheses)).\n\nAnyway, I believe I've killed enough time ... so, ladies and gentlemen, a person who in this crowd needs absolutely no introduction, Cory Doctorow!\n\n(Audience applauds.)\n\n((32.0)) So, when I speak in places where the first language of the nation is not English, there is a disclaimer and an apology, because I'm one of nature's fast talkers. When I was at the United Nations at the World Intellectual Property Organization, I was known as the \"scourge\" of the simultaneous translation corps; I would stand up and speak, and turn around, and there would be window after window of translator, and every one of them would be doing this (Doctorow facepalms). (Audience laughs) So in advance, I give you permission when I start talking quickly to do this (Doctorow makes SOS motion) and I will slow down.\n\n((74.1)) So, tonight's talk -- wah, wah, waaah (Doctorow makes 'fail horn' sound, apparently in response to audience making SOS motion; audience laughs) -- tonight's talk is not a copyright talk. I do copyright talks all the time; questions about culture and creativity are interesting enough, but to be honest, I'm quite sick of them. If you want to hear freelance writers like me bang on about what's happening to the way we earn our living, by all means, go and find one of the many talks I've done on this subject on YouTube. But, tonight, I want to talk about something more important -- I want to talk about general purpose computers.\n\nBecause general purpose computers are, in fact, astounding -- so astounding that our society is still struggling to come to grips with them: to figure out what they're for, to figure out how to accommodate them, and how to cope with them. Which, unfortunately, brings me back to copyright.\n\n((133.8)) Because the general shape of the copyright wars and the lessons they can teach us about the upcoming fights over the destiny of the general purpose computer are important. In the beginning, we had packaged software, and the attendant industry, and we had sneakernet. So, we had floppy disks in ziplock bags, or in cardboard boxes, hung on pegs in shops, and sold like candy bars and magazines. And they were eminently susceptible to duplication, and so they were duplicated quickly, and widely, and this was to the great chagrin of people who made and sold software.\n\n((172.6)) Enter DRM 0.96. They started to introduce physical defects to the disks or started to insist on other physical indicia which the software could check for -- dongles, hidden sectors, challenge/response protocols that required that you had physical possession of large, unwieldy manuals that were difficult to copy, and of course these failed, for two reasons. First, they were commercially unpopular, of course, because they reduced the usefulness of the software to the legitimate purchasers, while leaving the people who took the software without paying for it untouched. The legitimate purchasers resented the non-functionality of their backups, they hated the loss of scarce ports to the authentication dongles, and they resented the inconvenience of having to transport large manuals when they wanted to run their software. And second, these didn't stop pirates, who found it trivial to patch the software and bypass authentication. Typically, the way that happened is some expert who had possession of technology and expertise of equivalent sophistication to the software vendor itself, would reverse engineer the software and release cracked versions that quickly became widely circulated. While this kind of expertise and technology sounded highly specialized, it really wasn't; figuring out what recalcitrant programs were doing, and routing around the defects in shitty floppy disk media were both core skills for computer programmers, and were even more so in the era of fragile floppy disks and the rough-and-ready early days of software development. Anti-copying strategies only became more fraught as networks spread; once we had BBSes, online services, USENET newsgroups, and mailing lists, the expertise of people who figured out how to defeat these authentication systems could be packaged up in software and passed around as little crack files, or, as the network capacity increased, the cracked disk images or executables themselves could be spread on their own.\n\n((296.4)) Which gave us DRM 1.0. By 1996, it became clear to everyone in the halls of power that there was something important about to happen. We were about to have an information economy, whatever the hell that was. They assumed it meant an economy where we bought and sold information. Now, information technology makes things efficient, so imagine the markets that an information economy would have. You could buy a book for a day, you could sell the right to watch the movie for one Euro, and then you could rent out the pause button at one penny per second. You could sell movies for one price in one country, and another price in another, and so on, and so on; the fantasies of those days were a little like a boring science fiction adaptation of the Old Testament book of Numbers, a kind of tedious enumeration of every permutation of things people do with information and the ways we could charge them for it.\n\n((355.5)) But none of this would be possible unless we could control how people use their computers and the files we transfer to them. After all, it was well and good to talk about selling someone the 24 hour right to a video, or the right to move music onto an iPod, but not the right to move music from the iPod onto another device, but how the Hell could you do that once you'd given them the file? In order to do that, to make this work, you needed to figure out how to stop computers from running certain programs and inspecting certain files and processes. For example, you could encrypt the file, and then require the user to run a program that only unlocked the file under certain circumstances.\n\n((395.8)) But as they say on the Internet, \"now you have two problems\". You also, now, have to stop the user from saving the file while it's in the clear, and you have to stop the user from figuring out where the unlocking program stores its keys, because if the user finds the keys, she'll just decrypt the file and throw away that stupid player app.\n\n((416.6)) And now you have three problems (audience laughs), because now you have to stop the users who figure out how to render the file in the clear from sharing it with other users, and now you've got four! problems, because now you have to stop the users who figure out how to extract secrets from unlocking programs from telling other users how to do it too, and now you've got five! problems, because now you have to stop users who figure out how to extract secrets from unlocking programs from telling other users what the secrets were!\n\n((442.0)) That's a lot of problems. But by 1996, we had a solution. We had the WIPO Copyright Treaty, passed by the United Nations World Intellectual Property Organization, which created laws that made it illegal to extract secrets from unlocking programs, and it created laws that made it illegal to extract media cleartexts from the unlocking programs while they were running, and it created laws that made it illegal to tell people how to extract secrets from unlocking programs, and created laws that made it illegal to host copyrighted works and secrets and all with a handy streamlined process that lets you remove stuff from the internet without having to screw around with lawyers, and judges, and all that crap. And with that, illegal copying ended forever (audience laughs very hard, applauds), the information economy blossomed into a beautiful flower that brought prosperity to the whole wide world; as they say on the aircraft carriers, \"Mission Accomplished\". (audience laughs)\n\n((511.0)) Well, of course that's not how the story ends because pretty much anyone who understood computers and networks understood that while these laws would create more problems than they could possibly solve; after all, these were laws that made it illegal to look inside your computer when it was running certain programs, they made it illegal to tell people what you found when you looked inside your computer, they made it easy to censor material on the internet without having to prove that anything wrong had happened; in short, they made unrealistic demands on reality and reality did not oblige them. After all, copying only got easier following the passage of these laws -- copying will only ever get easier! Here, 2011, this is as hard as copying will get! Your grandchildren will turn to you around the Christmas table and say \"Tell me again, Grandpa, tell me again, Grandma, about when it was hard to copy things in 2011, when you couldn't get a drive the size of your fingernail that could hold every song ever recorded, every movie ever made, every word ever spoken, every picture ever taken, everything, and transfer it in such a short period of time you didn't even notice it was doing it, tell us again when it was so stupidly hard to copy things back in 2011\". And so, reality asserted itself, and everyone had a good laugh over how funny our misconceptions were when we entered the 21st century, and then a lasting peace was reached with freedom and prosperity for all. (audience chuckles)\n\n((593.5)) Well, not really. Because, like the nursery rhyme lady who swallows a spider to catch a fly, and then has to swallow a bird to catch the spider, and a cat to catch the bird, and so on, so must a regulation that has broad general appeal but is disastrous in its implementation beget a new regulation aimed at shoring up the failure of the old one. Now, it's tempting to stop the story here and conclude that the problem is that lawmakers are either clueless or evil, or possibly evilly clueless, and just leave it there, which is not a very satisfying place to go, because it's fundamentally a counsel of despair; it suggests that our problems cannot be solved for so long as stupidity and evilness are present in the halls of power, which is to say they will never be solved. But I have another theory about what's happened.\n\n((644.4)) It's not that regulators don't understand information technology, because it should be possible to be a non-expert and still make a good law! M.P.s and Congressmen and so on are elected to represent districts and people, not disciplines and issues. We don't have a Member of Parliament for biochemistry, and we don't have a Senator from the great state of urban planning, and we don't have an M.E.P. from child welfare. (But perhaps we should.) And yet those people who are experts in policy and politics, not technical disciplines, nevertheless, often do manage to pass good rules that make sense, and that's because government relies on heuristics -- rules of thumb about how to balance expert input from different sides of an issue.\n\n((686.3)) But information technology confounds these heuristics -- it kicks the crap out of them -- in one important way, and this is it. One important test of whether or not a regulation is fit for purpose is first, of course, whether it will work, but second of all, whether or not in the course of doing its work, it will have lots of effects on everything else. If I wanted Congress to write, or Parliament to write, or the E.U. to regulate a wheel, it's unlikely I'd succeed. If I turned up and said \"well, everyone knows that wheels are good and right, but have you noticed that every single bank robber has four wheels on his car when he drives away from the bank robbery? Can't we do something about this?\", the answer would of course be \"no\". Because we don't know how to make a wheel that is still generally useful for legitimate wheel applications but useless to bad guys. And we can all see that the general benefits of wheels are so profound that we'd be foolish to risk them in a foolish errand to stop bank robberies by changing wheels. Even if there were an /epidemic/ of bank robberies, even if society were on the verge of collapse thanks to bank robberies, no-one would think that wheels were the right place to start solving our problems.\n\n((762.0)) But. If I were to show up in that same body to say that I had absolute proof that hands-free phones were making cars dangerous, and I said, \"I would like you to pass a law that says it's illegal to put a hands-free phone in a car\", the regulator might say \"Yeah, I'd take your point, we'd do that\". And we might disagree about whether or not this is a good idea, or whether or not my evidence made sense, but very few of us would say \"well, once you take the hands-free phones out of the car, they stop being cars\". We understand that we can keep cars cars even if we remove features from them. Cars are special purpose, at least in comparison to wheels, and all that the addition of a hands-free phone does is add one more feature to an already-specialized technology. In fact, there's that heuristic that we can apply here -- special-purpose technologies are complex. And you can remove features from them without doing fundamental disfiguring violence to their underlying utility.\n\n((816.5)) This rule of thumb serves regulators well, by and large, but it is rendered null and void by the general-purpose computer and the general-purpose network -- the PC and the Internet. Because if you think of computer software as a feature, that is a computer with spreadsheets running on it has a spreadsheet feature, and one that's running World of Warcraft has an MMORPG feature, then this heuristic leads you to think that you could reasonably say, \"make me a computer that doesn't run spreadsheets\", and that it would be no more of an attack on computing than \"make me a car without a hands-free phone\" is an attack on cars. And if you think of protocols and sites as features of the network, then saying \"fix the Internet so that it doesn't run BitTorrent\", or \"fix the Internet so that thepiratebay.org no longer resolves\", then it sounds a lot like \"change the sound of busy signals\", or \"take that pizzeria on the corner off the phone network\", and not like an attack on the fundamental principles of internetworking.\n\n((870.5)) Not realizing that this rule of thumb that works for cars and for houses and for every other substantial area of technological regulation fails for the Internet does not make you evil and it does not make you an ignoramus. It just makes you part of that vast majority of the world for whom ideas like \"Turing complete\" and \"end-to-end\" are meaningless. So, our regulators go off, and they blithely pass these laws, and they become part of the reality of our technological world. There are suddenly numbers that we aren't allowed to write down on the Internet, programs we're not allowed to publish, and all it takes to make legitimate material disappear from the Internet is to say \"that? That infringes copyright.\". It fails to attain the actual goal of the regulation; it doesn't stop people from violating copyright, but it bears a kind of superficial resemblance to copyright enforcement -- it satisfies the security syllogism: \"something must be done, I am doing something, something has been done.\" And thus any failures that arise can be blamed on the idea that the regulation doesn't go far enough, rather than the idea that it was flawed from the outset.\n\n((931.2)) This kind of superficial resemblance and underlying divergence happens in other engineering contexts. I've a friend who was once a senior executive at a big consumer packaged goods company who told me about what happened when the marketing department told the engineers that they'd thought up a great idea for detergent: from now on, they were going to make detergent that made your clothes newer every time you washed them! Well after the engineers had tried unsuccessfully to convey the concept of \"entropy\" to the marketing department (audience laughs), they arrived at another solution -- \"solution\" -- they developed a detergent that used enzymes that attacked loose fiber ends, the kind that you get with broken fibers that make your clothes look old. So every time you washed your clothes in the detergent, they would look newer. But that was because the detergent was literally digesting your clothes! Using it would literally cause your clothes to dissolve in the washing machine! This was the opposite of making clothes newer; instead, you were artificially aging your clothes every time you washed them, and as the user, the more you deployed the \"solution\", the more drastic your measures had to be to keep your clothes up to date -- you actually had to go buy new clothes because the old ones fell apart.\n\n((1012.5)) So today we have marketing departments who say things like \"we don't need computers, we need... appliances. Make me a computer that doesn't run every program, just a program that does this specialized task, like streaming audio, or routing packets, or playing Xbox games, and make sure it doesn't run programs that I haven't authorized that might undermine our profits\". And on the surface, this seems like a reasonable idea -- just a program that does one specialized task -- after all, we can put an electric motor in a blender, and we can install a motor in a dishwasher, and we don't worry if it's still possible to run a dishwashing program in a blender. But that's not what we do when we turn a computer into an appliance. We're not making a computer that runs only the \"appliance\" app; we're making a computer that can run every program, bu",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "2011年12月26日，科利·多克托罗（Cory Doctorow）在柏林举行的第28届混沌通信大会（28C3, Chaos Communication Congress）上发表了题为《通用计算即将到来的战争》（The Coming War on General Computation）的演讲。",
+          "联合国世界知识产权组织（WIPO）于1996年通过了《世界知识产权组织版权条约》（WIPO Copyright Treaty）。",
+          "来源叙事重点：以早期软件防复制技术和数字版权管理（DRM）的失败为历史线索，论证通过法律、技术限制和平台控制来约束通用计算机，会造成不断叠加的监管与技术管制，并可能损害合法用户权利、妨碍安全研究、限制言论传播和扩大网络审查。文本将WIPO版权条约作为版权保护制度强化的例子，并通过反讽强调：法律并未消除复制，反而可能制造新的问题。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:54:55.000Z",
+            "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation"
+          }
+        ]
+      },
+      {
+        "id": "story-9-40a6-bf0f-a888f2f4f002-1ad65167a5dd0fed",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Anthropic tells investors it will be profitable for second straight quarter",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T22:29:46.000Z",
+        "pubTime": "2026-09-14 06:29",
+        "url": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5f7307c7-2611-4f47-967d-e247853ed266.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Claude maker seeks to ease cash burn concerns before blockbuster IPO amid fears over pace of AI development",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-14 06:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-13T22:29:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-crohns-science-treatment-7831ebb093968b6f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Researchers hope powerful new microscope will reveal ‘root cause’ of incurable bowel disease",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-13T23:01:15.000Z",
+        "pubTime": "2026-09-14 07:01",
+        "url": "https://www.theguardian.com/society/2026/sep/14/new-microscope-discovery-hopes-incurable-inflammatory-bowel-disease-crohns-science-treatment",
+        "imageUrl": "https://i.guim.co.uk/img/media/46ce04c02761ac4ad84561305b3b8252e8e47cdb/849_0_6630_5304/master/6630.jpg?width=140&quality=85&auto=format&fit=max&s=ec11224f15c97aba775867ed6c46f0ff",
+        "fullContent": "No run-of-the-mill tech, ‘Curie’ operates at 10 times the resolution of conventional microscopy and could spur discoveries leading to new treatment\n\nThe number of young people living with debilitating and incurable bowel conditions worldwide is growing , but researchers now hope a one-of-a-kind microscope will help them understand such diseases and find new treatments.\n\nAccording to the British Society of Gastroenterology, more than half a million people in the UK are living with inflammatory bowel disease (IBD), with Crohn’s disease and ulcerative colitis the two main forms.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "研究人员希望一种名为“Curie”的显微镜帮助理解炎症性肠病等疾病并寻找新疗法。",
+          "“Curie”显微镜的分辨率是传统显微镜的10倍。",
+          "来源叙事重点：聚焦“Curie”显微镜的高分辨率及其可能推动炎症性肠病机制研究和新疗法开发的潜力，同时以英国炎症性肠病患者规模及年轻患者增加作为公共健康背景。报道中的“揭示根本原因”“带来新疗法”“独一无二”等属于前景性或来源叙事表达，尚未被证据包确认为已实现的结果。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-13T23:01:15.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/14/new-microscope-discovery-hopes-incurable-inflammatory-bowel-disease-crohns-science-treatment"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789319182343,
     "timeDisplay": "2026-09-14 01:06 (UTC+8)",
     "date": "2026-09-14",

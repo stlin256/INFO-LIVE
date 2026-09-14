@@ -25,14 +25,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **31** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **32** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-14 01:06 (UTC+8)
+- **最新归档时间**：2026-09-14 09:24 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-14 09:24 (UTC+8)" title="全球要闻情报简报 · 09:24" org="ARCHIVE"}
+**速报纪要：** 本时段监测到多起区域气象与国际社会动态。国内方面，中央气象台发布降雨预警，海南局地出现特大暴雨，华南及华西等地需防范次生灾害；国际方面，叙利亚因燃油价格上涨引发抗议，沙特麦加遭遇强降雨及雷暴天气，澳大利亚政坛出现围绕相关争议言论的抨击。
+
+**关键信号：** 华南及我国南部海域出现明显降水过程，海南防灾风险较高；叙利亚政府上调燃油价格引发民众抗议活动；极端天气影响中东宗教场所，麦加降下暴雨伴随雷暴；澳大利亚政坛围绕社会住房背景出身引发言论争议
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260914/kontrol-2117490660.html) <span class="news-meta-time">🕒 2026-09-14 09:09</span>
+- [Hacker News (科技前沿论坛)] [开源人工智能与开放模型必读书单](https://www.interconnects.ai/p/open-source-ai-reading-list) <span class="news-meta-time">🕒 2026-09-14 08:22</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-14 09:00</span>
+- [Lobste.rs (极客思想社区)] [从经验来看，程序员并不喜欢“reduce”](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/) <span class="news-meta-time">🕒 2026-09-14 07:59</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-consumers-demand-transparency-rewarded.html) <span class="news-meta-time">🕒 2026-09-14 08:30</span>
+- [Al Jazeera (半岛电视台官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy) <span class="news-meta-time">🕒 2026-09-14 09:08</span>
+:::
 :::timeline-item{start="2026-09-14 01:06 (UTC+8)" title="全球要闻情报简报 · 01:06" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-14 00:59 (UTC+8) 完成，共获得 27 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
