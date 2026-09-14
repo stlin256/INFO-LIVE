@@ -1,5 +1,1564 @@
 [
   {
+    "timestamp": 1789367810677,
+    "timeDisplay": "2026-09-14 14:36 (UTC+8)",
+    "date": "2026-09-14",
+    "runId": "feed-20260914T062638052Z-hbr5gv",
+    "generatedAt": "2026-09-14T06:36:50.677Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 14:26",
+      "lead": "本轮抓取于 2026-09-14 14:26 (UTC+8) 完成，共获得 13 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】APOD：2026年9月14日——你的元素来自何方：APOD：2026年9月14日——…… 每日天文图 探索宇宙！每天都会呈现一幅展现我们迷人宇宙的不同图像或照片，并附有专业天文学家撰写的简短说明。 你的元素来自何方 说明：你身体中的氢，以及水的每个分子中所含的氢，都来自宇宙大爆炸。宇宙中没有其他可观的氢来源。你身体中的碳是在恒星内部通过核聚变产生的，氧也是如此。你身体中的许多铁是在很久以前、很遥远的地方发生的恒星超新星爆发中形成的。你首饰中的黄金很可能是在中子星碰撞过程中形成的；这类碰",
+        "【undefined】整这么臭？！绍兴，你的胆子真是肥嘟嘟的：最近，凭借爆火的“葫芦娃爷爷”一事，浙江绍兴这座江南古城被不少网友列入年度旅行清单。大批游客涌进绍兴，坐乌篷船，看青砖黛瓦，逛街巷烟火。",
+        "【undefined】尼泊尔泥石流灾害遇难人数升至1392人：根据尼泊尔警方公布的数据，截至当地时间14日上午11时，尼泊尔泥石流灾害造成的遇难人数升至1392人。",
+        "【undefined】政治直播：逃亡开发商让·纳西夫详述与大卫·埃利奥特的争执，告诉廉政委员会自由党“拒绝了我的所有房产”；怀阿拉500名员工将失业：实时关注当天新闻",
+        "【undefined】Perplexity 借助 GPT-6 Astra 驾驭端到端系统：Perplexity 使用 Astra 撰写通信内容、修改软件并监控生产系统；与早期模型相比，它的检查频率大幅降低。",
+        "【undefined】在 Signal 上无需电话号码注册将使用零知识证明：你有合理的担忧，但你对此的看法大错特错。零知识证明不仅是捐赠徽章和备份支付背后的技术，也是群组功能背后的技术。它们无法将你与某一笔具体捐赠关联起来，就像无法将你与某个具体群组关联起来一样。",
+        "【undefined】拉里·埃里森取消75亿美元的甲骨文股票出售计划：甲骨文联合创始人兼执行董事长拉里·埃里森已取消原定的甲骨文股票出售计划，公司于周六宣布了这一消息。",
+        "【undefined】董事会试图罢免后，穆伦维格重新出任首席执行官：经历了动荡的一周后，WordPress创始人马特·穆伦维格曾因董事会投票被罢免WordPress.com母公司Automattic的首席执行官一职。如今，该公司已发表声明，确认穆伦维格重新回到了这一职位。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-14",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🔬 深空与基础科学",
+          "analysis": "【undefined】APOD：2026年9月14日——你的元素来自何方：APOD：2026年9月14日——…… 每日天文图 探索宇宙！每天都会呈现一幅展现我们迷人宇宙的不同图像或照片，并附有专业天文学家撰写的简短说明。 你的元素来自何方 说明：你身体中的氢，以及水的每个分子中所含的氢，都来自宇宙大爆炸。宇宙中没有其他可观的氢来源。你身体中的碳是在恒星内部通过核聚变产生的，氧也是如此。你身体中的许多铁是在很久以前、很遥远的地方发生的恒星超新星爆发中形成的。你首饰中的黄金很可能是在中子星碰撞过程中形成的；这类碰"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】整这么臭？！绍兴，你的胆子真是肥嘟嘟的：最近，凭借爆火的“葫芦娃爷爷”一事，浙江绍兴这座江南古城被不少网友列入年度旅行清单。大批游客涌进绍兴，坐乌篷船，看青砖黛瓦，逛街巷烟火。；【undefined】尼泊尔泥石流灾害遇难人数升至1392人：根据尼泊尔警方公布的数据，截至当地时间14日上午11时，尼泊尔泥石流灾害造成的遇难人数升至1392人。"
+        },
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】政治直播：逃亡开发商让·纳西夫详述与大卫·埃利奥特的争执，告诉廉政委员会自由党“拒绝了我的所有房产”；怀阿拉500名员工将失业：实时关注当天新闻；【undefined】Perplexity 借助 GPT-6 Astra 驾驭端到端系统：Perplexity 使用 Astra 撰写通信内容、修改软件并监控生产系统；与早期模型相比，它的检查频率大幅降低。；【undefined】在 Signal 上无需电话号码注册将使用零知识证明：你有合理的担忧，但你对此的看法大错特错。零知识证明不仅是捐赠徽章和备份支付背后的技术，也是群组功能背后的技术。它们无法将你与某一笔具体捐赠关联起来，就像无法将你与某个具体群组关联起来一样。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 77,
+      "completedTasks": 77,
+      "succeeded": 39,
+      "degraded": 38,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 77,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 612571,
+      "byRole": {
+        "translator": {
+          "attempts": 49,
+          "degraded": 27,
+          "succeeded": 22
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 3,
+          "degraded": 5
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 4,
+          "degraded": 4
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 77,
+          "degraded": 38,
+          "succeeded": 39
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-15-translator-0",
+      "article-15-translator-1",
+      "article-16-translator-0",
+      "article-18-translator-1",
+      "article-19-translator-0",
+      "article-22-translator-0",
+      "article-26-translator-0",
+      "article-26-translator-1",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-30-translator-0",
+      "article-30-translator-1",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-1-source-positioner",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:19.581Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.617Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:19.593Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.205Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.653Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.710Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.677Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.832Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.538Z",
+        "lastSuccessAt": "2026-09-14T06:26:23.020Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.531Z",
+        "lastSuccessAt": "2026-09-14T06:26:22.852Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:23.020Z",
+        "lastSuccessAt": "2026-09-14T06:26:23.268Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:19.994Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.280Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.787Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.838Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.772Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.922Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.485Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.653Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.451Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.635Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.271Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.772Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.280Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.485Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:22.808Z",
+        "lastSuccessAt": "2026-09-14T06:26:23.634Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.816Z",
+        "lastSuccessAt": "2026-09-14T06:26:23.274Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:22.614Z",
+        "lastSuccessAt": "2026-09-14T06:26:22.808Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 13,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.807Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.394Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.635Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.701Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.617Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.677Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:19.944Z",
+        "lastSuccessAt": "2026-09-14T06:26:19.994Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:18.886Z",
+        "lastSuccessAt": "2026-09-14T06:26:19.944Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.954Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.099Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.928Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.251Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.838Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.928Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.949Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.127Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.251Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.816Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.800Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.845Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:22.818Z",
+        "lastSuccessAt": "2026-09-14T06:26:26.418Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.029Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.154Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.394Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.531Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.253Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.450Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.470Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.556Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:22.852Z",
+        "lastSuccessAt": "2026-09-14T06:26:23.094Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.701Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.787Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.832Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.574Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.922Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.029Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.450Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.538Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.154Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.553Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-14T06:26:21.127Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:18.884Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.451Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.268Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.470Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:18.885Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.949Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.553Z",
+        "lastSuccessAt": "2026-09-14T06:26:23.302Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.907Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.954Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.205Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.271Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.099Z",
+        "lastSuccessAt": "2026-09-14T06:26:21.268Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.845Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.907Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.556Z",
+        "lastSuccessAt": "2026-09-14T06:26:22.614Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:21.574Z",
+        "lastSuccessAt": "2026-09-14T06:26:22.818Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.731Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.807Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:20.710Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.800Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:18.869Z",
+        "lastSuccessAt": "2026-09-14T06:26:19.581Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:18.882Z",
+        "lastSuccessAt": "2026-09-14T06:26:19.593Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T06:26:18.883Z",
+        "lastSuccessAt": "2026-09-14T06:26:20.731Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story--rossija-2117510418-html-d20292d2b48334eb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В России за сутки потушили 18 лесных пожаров",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T06:25:32.000Z",
+        "pubTime": "2026-09-14 14:25",
+        "url": "https://ria.ru/20260914/rossija-2117510418.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/08/17/1968129992_0:0:3072:1728_650x0_80_0_0_9413fb77b9251cf528a8efbcc694a1bd.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 14:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/rossija-2117510418.html",
+            "publishedAt": "2026-09-14T06:25:32.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-abs-1802-07228-14e0d91b4194cd13",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Malicious Use of Artificial Intelligence",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:22:35.000Z",
+        "pubTime": "2026-09-14 09:22",
+        "url": "https://arxiv.org/abs/1802.07228",
+        "imageUrl": null,
+        "fullContent": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "该条目的原始标题为“The Malicious Use of Artificial Intelligence”。",
+          "该条目来源标注为 Hacker News（科技前沿论坛），原文语言为英语。",
+          "来源叙事重点：标题指向人工智能的恶意使用议题；正文叙事则集中于 arXivLabs 的开放、社区、卓越、用户数据隐私及合作伙伴准入价值观，并邀请读者参与项目建设。不能据此推断论文关于人工智能恶意使用的具体论点。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T01:22:35.000Z",
+            "url": "https://arxiv.org/abs/1802.07228"
+          }
+        ]
+      },
+      {
+        "id": "story-eepens-supply-fears-html-3160594906cbc1e0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T05:37:04.000Z",
+        "pubTime": "2026-09-14 13:37",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html",
+        "imageUrl": null,
+        "fullContent": "Brent crude hit $108 per barrel earlier today, following the latest escalation in the Middle East, before retreating to $107.22 per barrel at the time of writing. West Texas Intermediate was trading at $102.66 per barrel. The surge follows the news of a drone attack on Saudi Arabia&rsquo;s East-West pipeline that could cut off another 4% of global oil supply and signs that efforts at diplomacy are failing. According to unnamed sources quoted by Reuters, Saudi Arabia&rsquo;s Yanbu port on the Red Sea has only enough oil for five to seven days of exports&mdash;and the Yemeni Houthis are expanding their control of the waterway. &ldquo;It&rsquo;s unclear how severe any potential damage is, or how long it will be out of action,&rdquo; ING commodity strategists wrote in a note earlier today, referring to the East-West pipeline, which has a capacity to carry 7 million barrels of crude daily. The ING team remains relatively optimistic, however, maintaining its base case of $80 per barrel of Brent crude for the final quarter of the year. &ldquo;The situation is fluid as we continue to see sizeable volumes of oil still moving through the Strait of Hormuz,&rdquo; Warren Patterson and Ewa Manthey wrote. Meanwhile, President Trump said on Sunday that the United States could stay in Iran and &ldquo;keep the oil&rdquo;. &ldquo;We'll ultimately get out of Iran, unless we decide to stay and keep the oil like Venezuela,&rdquo; the U.S. Commander in Chief said, as quoted by Reuters, noting that the money that the U.S. has made so far from selling Venezuelan oil had &ldquo;paid for the war many times.&rdquo; Trump also said gasoline prices would &ldquo;drop like a rock&rdquo; once the war with Iran ended. The prospects of peace, however, remain elusive, with the latest news there being the cancellation of a meeting to be hosted by Oman, which was supposed to take place today. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "布伦特原油价格一度触及每桶108美元，发稿时回落至每桶107.22美元；WTI原油交易价格为每桶102.66美元。",
+          "有消息称沙特阿拉伯的东西管道（East-West pipeline）遭遇无人机袭击，该管道每日输送能力为700万桶原油，或可能切断全球4%的原油供应。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T05:37:04.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html"
+          }
+        ]
+      },
+      {
+        "id": "story-oldnewthing-20260910-00-89e9d02f5f9e1076",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why is the x86 undefined instruction called ud2? Why 2?",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T03:34:33.000Z",
+        "pubTime": "2026-09-14 11:34",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+        "imageUrl": null,
+        "fullContent": "If you look at x86 compiler output (or if, like me, you’re looking at a crash caused by some software that tried to detour an API), you may see an instruction ud2. What’s up with that?\n\nThe ud2 instruction is an architecturally undefined instruction, guaranteed to raise an “invalid opcode” exception. Some compilers generate it to mark “unreachable” code, so that if execution somehow manages to reach it, you get a crash rather than executing random instructions. For example, if a function marked [[noreturn]] somehow returns, the compiler will put a ud2 after the call so that the program crashes instead of falling through to the next function.\n\nAnyway, why is this instruction called ud2 instead of just ud? Was there a ud1? What was so wrong about ud1 that we had to make a ud2?\n\nI think I can reconstruct what happened.\n\nOriginally, there was no architecturally undefined instruction on x86. So people who wanted to force an invalid opcode exception went looking for some byte sequence that reliably raised the invalid opcode exception when executed.\n\nMeanwhile, somebody else found that the 0F B9 sequence also had the same properties. So you now had two factions, the 0F FF believers and the 0F B9 adherents. There really wasn’t much of a battle between them, because both techniques seemed to work, and it’s not like one was coming at the detriment of the other.\n\nIntel then worked on their next processor, and maybe they made some changes that resulted in 0F FF no longer raising an invalid opcode exception. Maybe they tried introducing a new instruction that uses 0F FF. Or maybe it was still undefined but just performed some random operation instead of raising the invalid opcode instruction. And when they started running software on their new processor, they found that some programs stopped working, and after laborious investigation, they discovered that the programs were relying on 0F FF being an invalid opcode.\n\nIn other words, they ran into Hyrum’s Law: With a sufficient number of users, all observable behaviors will be depended upon by somebody. Obligatory XKCD.\n\nA similar discovery was made with 0F B9.\n\nNow that they realized that people wanted a reliable way to trigger an invalid opcode exception, the folks at Intel decided to make it official, and they created an actual supported permanently-invalid instruction and called it ud2.\n\nIt’s called ud2 because the 0F FF variant was retroactively named ud0, and the 0F B9 variant was retroactively named ud1, leaving ud2 as the recommended undefined opcode.\n\nOne advantage of ud2 is that it is a two-byte instruction with no parameters, so you don’t have to deal with the random decoded-but-unused source and destinations.\n\nBonus chatter: But why do we care about the unused parameters to ud0 and ud1? Can’t we just say that ud0 and ud1 are also two-byte invalid opcodes? I mean, sure, there’s a third byte, or possibly more if the memory operand has an offset or a scaled index, but the processor doesn’t use it.\n\nIt matters, because even though the processor doesn’t use it, it still decodes it. And if the decoding of the instruction crosses into a not-present page, you don’t get an invalid opcode exception at all. You get an access violation.\n\nBonus bonus chatter: Except that some older processors raised the invalid opcode instruction as soon as they decoded the 0F FF without checking whether the rest of the instruction decoded properly. So if your 0F FF is at the end of a page, and the next page is not present, you sometimes got an invalid opcode exception and you sometimes got an access violation.\n\nBetter to stick with ud2. Its behavior is consistent and architecturally guaranteed.\n\nRaymond has been involved in the evolution of Windows for more than 30 years. In 2003, he began a Web site known as The Old New Thing which has grown in popularity far beyond his wildest imagination, a development which still gives him the heebie-jeebies. The Web site spawned a book, coincidentally also titled The Old New Thing (Addison Wesley 2007). He occasionally appears on the Windows Dev Docs Twitter account to tell stories which convey no useful information.\n\nJoin the discussion.\n\nI think we really shouldn’t need to worry about assembly anymore as compilers are quite good at doing their thing these days. Of course if you want to be on a Microsoft core team that’s a different story but I wonder how many genz are assembly knowledgeable at all\n\nWorry about it? No, you don't need to do that. But you need to know the basics if you ever need to write performance-critical code. Even today's amazing compilers won't necessarily fix a badly chosen algorithm that contains unpredictable jumps or has poor cache utilization. They won't replace a linked list with a vector even if the latter would be faster and more memory-efficient. If you have at least a general idea about what your source code turns into, you can help the compiler make the best out of it.\n\nMost of us won't need to hand-write assembly code anymore, I'll...\n\nWorry about it? No, you don’t need to do that. But you need to know the basics if you ever need to write performance-critical code. Even today’s amazing compilers won’t necessarily fix a badly chosen algorithm that contains unpredictable jumps or has poor cache utilization. They won’t replace a linked list with a vector even if the latter would be faster and more memory-efficient. If you have at least a general idea about what your source code turns into, you can help the compiler make the best out of it.\n\nMost of us won’t need to hand-write assembly code anymore, I’ll grant you that. Being able to read it could be helpful in rare cases where you don’t have the source code available. It can also help you appreciate what your compiler does for you, when you play around on godbolt.org 😀\n\nI’ve never really heard of UD2 and friends.. I’ve always seen and used 0xCC (INT 3) when I want my program to crash.. and break in the debugger, if present.\n\nHow does the handling of UD2 compare to 0xCC?\n\nCC (INT 3) is a trap. Mostly used to signal precondition/contract breach\n\nUD2 is more a hard stop because “executing random instructions”, as Raymond put it, can cause a lot of bugs.\n\nReminds me of programming the 6502: if you had a bug and the processor jumped into unknown territory, if the unused RAM had been zeroed out, you might catch those bugs easier. because the 0x00 opcode is BRK (force break).\n\nFor x86, I guess that UD2 instruction came pretty late to the party so all “handy” opcodes like 0x00 of 0xFF were already taken 🙁\n\nOn the Acorn machines, the BRK vector caught such instructions and read the following bytes as an error message. (Well, technically, an error code, then the ASCII message.) This allowed language and service ROMs to report errors very simply, and also allowed errors to be caught from any ROM or application via a single interface. Thus, BASIC's ON ERROR could catch errors not just from BASIC, but also the file system, the network, some ROM that supported some new hardware you plugged in, whatever. And so could your wordprocessor, FORTH program, game, debugger software, etc.\n\nOf course, should your code hit...\n\nOn the Acorn machines, the BRK vector caught such instructions and read the following bytes as an error message. (Well, technically, an error code, then the ASCII message.) This allowed language and service ROMs to report errors very simply, and also allowed errors to be caught from any ROM or application via a single interface. Thus, BASIC’s ON ERROR could catch errors not just from BASIC, but also the file system, the network, some ROM that supported some new hardware you plugged in, whatever. And so could your wordprocessor, FORTH program, game, debugger software, etc.\n\nOf course, should your code hit a random 0x00 in memory, the screen would fill with garbage until the next 0x00 was hit. Since the character output routine managed all graphics and text output, it could also clear the screen, change screen mode, redefine characters, activate the printer, even suppress all output if the right bytes were read.\n\nSo you could say, while making error handling much easier, it also made it much more confusing.\n\n0x00 is taken. it’s an ADD instruction all the way back on the 8086 0xFF is a prefix byte of a two byte instruction. However 0xFF 0xFF is not a valid instruction even today (as least as far as my disassembler is concerned).",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T03:34:33.000Z",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689"
+          }
+        ]
+      },
+      {
+        "id": "story--your-elements-came-from-a34825fffd076549",
+        "title": "APOD：2026年9月14日——你的元素来自何方",
+        "originalTitle": "APOD: 2026 September 14 – Where Your Elements Came From",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T04:05:00.000Z",
+        "pubTime": "2026-09-14 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg?w=6000&#038;h=4000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 14 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nWhere Your Elements Came From\n\nExplanation: The hydrogen in your body and present in every molecule of water came from the Big Bang . There are no other appreciable sources of hydrogen in the universe. The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen . Much of the iron in your body was made during supernova s of stars that occurred long ago and far away. The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events . Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life . The featured periodic table is color coded to indicate humanity ‘s best guess as to the nuclear origin of all known elements. The sites of nuclear creation of some elements , such as copper , are not really well known and are continuing topics of observational and computational research.\n\nAPOD’s main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: Sun triple\n\nAuthors &#038; editors:\n\nRobert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "APOD：2026年9月14日——……\n每日天文图\n探索宇宙！每天都会呈现一幅展现我们迷人宇宙的不同图像或照片，并附有专业天文学家撰写的简短说明。\n你的元素来自何方\n说明：你身体中的氢，以及水的每个分子中所含的氢，都来自宇宙大爆炸。宇宙中没有其他可观的氢来源。你身体中的碳是在恒星内部通过核聚变产生的，氧也是如此。你身体中的许多铁是在很久以前、很遥远的地方发生的恒星超新星爆发中形成的。你首饰中的黄金很可能是在中子星碰撞过程中形成的；这类碰撞可能会以持续时间较短的伽马射线暴或引力波事件的形式被观测到。磷和铜等元素在我们体内的含量很少，但却是所有已知生命正常运作所必需的。图中所示的元素周期表采用颜色编码，表示人类对所有已知元素核起源的最佳推测。一些元素的核合成地点，例如铜的形成地点，目前尚未得到很好的确定，仍是观测和计算研究持续探讨的课题。\nAPOD的NASA主站正在迁移：从apod.nasa.gov迁移至science.nasa.gov/apod\n明日图片：太阳三重奏\n作者及编辑：\nRobert Nemiroff、Jerry Bonnell、Cecilia Chirenti、Keighley Rockcliffe\nNASA科学启蒙项目与密歇根理工大学\n随机APOD生成器\n昨日图片\nAPOD：2026年9月13日——亚得里亚海上空升起的NEOWISE彗星\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "该文章的原标题为“APOD: 2026 September 14 – Where Your Elements Came From”。",
+          "文章来源标注为 NASA News（深空探索与航天），原文语言为英语。",
+          "来源叙事重点：以元素周期表为叙事框架，解释人体和日常物质中的元素可能如何在宇宙中形成：氢与大爆炸相关，碳和氧与恒星内部核聚变相关，铁与超新星相关，金可能与中子星碰撞相关；同时强调部分元素的核合成地点仍存在研究不确定性。文章将这些内容组织成面向公众的宇宙起源科普，并突出人类与恒星、超新星及中子星事件的联系。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/"
+          }
+        ]
+      },
+      {
+        "id": "story-14-nepal-2117510085-html-e573589861d4d51e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Родственники рассказали о поисках якутского музыканта, пропавшего в Непале",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T06:22:38.000Z",
+        "pubTime": "2026-09-14 14:22",
+        "url": "https://ria.ru/20260914/nepal-2117510085.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 14:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/nepal-2117510085.html",
+            "publishedAt": "2026-09-14T06:22:38.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-post-case-against-jxl-5e69b5a408da545c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The case against JPEG XL",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:02:37.000Z",
+        "pubTime": "2026-09-14 09:02",
+        "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+        "imageUrl": null,
+        "fullContent": "Investigating JPEG XL's place as a Web image codec.\n\nJPEG XL is a technically impressive image codec; it is a definitive upgrade over JPEG, more versatile than WebP, and well-equipped to serve use cases beyond the Web. However, it was famously rejected from Chrome in 2023. Because this happened to a royalty-free, flexible, compression-efficient codec from the JPEG Committee that was receiving attention from large companies, the decision didn't land well with many.\n\nRecently, a JPEG XL decoder in Rust has made its way into Firefox and Chrome in some capacity. The Web's major stakeholders may therefore be reversing course on JPEG XL given that the new decoder may protect the Web from reliving 2023's WebP vulnerability. Is this all it took to justify JPEG XL for the Web?\n\nHistorically, I've been a big proponent of JPEG XL for all use cases. I endorsed JPEG XL for Interop 2024, and I've interacted with Jon Sneyers and Jyrki Alakuijala (two of the format's primary authors) personally many times. I'm consistently impressed with their public conduct, level-headedness, technical aptitude, and passion for the field.\n\nThis piece does not seek to discredit the format's authors or their work, nor to claim any political affiliation relative to the codec's symbolism in free software. The spirit of this post is educational; I want to offer an empirical look at the current state of image compression and the Web platform in 2026. Some inspiration is drawn from RISC-V: They Should Have Known Better by Dmitry Grinberg.\n\nI do image compression work, coming from video compression originally. While working on an AV1 encoder, Julio Barba and I made significant advancements to AVIF, and I learned a lot in the process. When I decided to start building my own encoder, I had to think very hard about which formats I felt had the highest ceilings, could be effectively optimized, and had the most present and potential utility. I decided not to work with JPEG XL.\n\nBy volume, there are very few use cases on the Web that aren't served by versatile lossy compression. The average Web consumer doesn't need lossless; they just need a lossy codec versatile enough to prevent terrible artifacts (e.g. JPEG on non-photographic content). This rules out JPEG XL's lossless advantage, which in practice is only roughly 11.9% smaller than lossless WebP anyway – and on an unrealistic test dataset for the Web (157 MP photos, 10 MP illustrations, and 27 MP books). It cannot be worth bringing a new image codec to browsers to save 12% on a tiny volume of image content with use cases inherently less sensitive to bandwidth constraints. I say this because JPEG XL isn't competitive for lossy, so lossless would be its only real advantage.\n\nOne of the original arguments for JPEG XL was that its reference encoder was more perceptually optimized than competing encoders. Now, on both speed and fidelity per bit, other encoders are stronger.\n\nThe AV1 reference encoder received specialized perceptual tuning based on controlled subjective human trials to strengthen its efficiency while maintaining a tuning mode optimized for perceptual metrics. SVT-AV1 has similar tuning modes. There is no compelling argument that modern encoders aren't tuned for the human eye.\n\nMetrics aren't perfect, but they paint a daunting picture for JPEG XL:\n\naperture-alpha is Halide Compression's upcoming encoder, codenamed Aperture. I included it to show just how much ground libjxl needs to make up to compete at the frontier.\n\nSome analysis claims that JPEG XL underperforms in metrics relative to its perceptual strength, but I don't see sufficient evidence that this is to the degree that graphs like the ones I shared could be secretly completely reversed. CVVDP and SSIMULACRA2 are very strong perceptual metrics, and definitely tell us something when the differences are this great. For AVIF, libaom's perceptually optimized tune (tune IQ) is only a couple of points lower than its perceptual-metric-optimized tune (tune SSIMULACRA2). Plus, the JPEG XL reference encoder has historically suffered from percep tual issues that remain largely unresolved.\n\nThere's no such thing as a codec benchmark, only an encoder benchmark; in theory, the ceiling for JPEG XL as a format is higher than libjxl is getting. But how hard would it be to close the gap? As a compression engineer, I believe it is disadvantaged here. Some reasons:\n\nFor non-photographic images, the argument that “they should be vector images” doesn't hold up because many images could be vector images but aren't, and they can't be vectorized perfectly. “The world should be different” is not a justifiable defense against optimizing for the way the world actually is.\n\nIt is tempting to think these points mean the ceiling is higher than libjxl lets us reach and that we could do better, but I'm not confident it can eclipse well-optimized AVIF encoders quickly, given its less intuitive (and potentially weaker) coding tools.\n\nJPEG XL has an impressively flexible specification. In addition to its coding tools, it supports up to 4096 channels, arbitrary color depth, progressive decode, JPEG recompression, and more. Many of these features are not broadly useful on the Web; you need 4 channels (RGB/YUV + alpha), reasonable color depth to support HDR (10-bit is fine), and the ability to load quickly.\n\nProgressive rendering (which AVIF supports) decodes a low-fidelity rendition before the full image arrives. AVIF didn't support progressive rendering for a while, and during that time I believe it was deeply oversold. Now that libavif has implemented it (it was always possible), the conversation appears to be over. I think this is because the results speak for themselves:\n\nThis is from the JPEG-XL info site, where AVIF shows a usable image much earlier than JXL at just ~2-3% of the full image's size. Combined with the fact that the AVIF is smaller overall, this is an easy win. I've screenshotted the page because the AVIF progressive decode only works in Chrome, as it is using the browser's native decoder; JPEG XL uses a polyfill because even in Safari where it is supported, progressive decode isn't.\n\nJPEG recompression is the ability to losslessly re-encode JPEGs as JXL images while saving bits; the oft-cited number is 20% savings. However, the user pays for this in decode time, as recompressed JPEGs take ~33% longer to decode. Modern consumer devices are powerful, but the argument that the savings come “for free” is misleading.\n\nOn that topic, decode time is not competitive with the best:\n\nIn public discourse, AVIF is considered slow to decode; what does that make JXL? This is also a 10-bit AVIF, and all images were size-matched encodes of the same source. The JPEG was 2,478,828 bytes, the JPEG XL was 2,599,428, the AVIF 2,649,949, and WebP 2,693,794. WebP is over 90kb larger and still manages to decode over 10x faster than jxl-rs with wpd.\n\nDue to the codec's expressivity, it is possible to craft images that take obscenely long to decode. Take this example (open with caution) that computes primes up to 33,599 and takes 17.43s of user time to decode on my M5 Pro with the Rust decoder. Additionally, keep in mind that this is the decoder making its way into Chrome, Firefox, etc – the prime wall image is just 1,918 bytes, so it's about to become trivially easy to JXL-bomb low-end devices. You can already ship a couple dozen of these on a Web page and slow Apple devices down, as they natively support JPEG XL in Safari.\n\nI believe Web codecs should be purpose-built, efficient, and narrowly scoped to the needs of the Web. I think WebP was a bit too narrowly scoped, but the idea was there; AVIF's container could be better, and the AV1 spec could be a bit more specific about handling certain properties of images (e.g. normative 4:2:0 upsampling), but AVIF was always a guaranteed addition to the Web due to AV1 and benefits from a very mature ecosystem.\n\nDo we need JPEG XL then? It isn't narrowly scoped whatsoever; it is meant to be everything to everyone, by design. I think a lot of other use cases need this, but the Web needs to save bandwidth, decode fast, and prevent foot-guns; I don't see how JPEG XL is even as good a fit as WebP. Not to mention an additional compatibility headache now exists for anyone just trying to download an image from the Internet and use it somewhere – it was hard enough to get widespread WebP adoption, and I don't think it's worth doubling the pain by having to climb the same hill for AVIF and JPEG XL. Especially when JPEG XL doesn't appear to add anything to the Web platform.\n\n3½ years ago, I said:\n\nI want a web where both AVIF and JPEG XL can exist, and developers decide which format to use for its merits. [...] In my opinion, JPEG XL and AVIF have fundamentally different strengths which lend them to different use cases.\n\nAt the time, JPEG XL was a much stronger contender for medium-high fidelity lossy image compression. AVIF now dominates the entire fidelity range, so JPEG XL's one real advantage has disappeared.\n\nJPEG XL came from Cloudinary and Google, but I think the codec is discussed in a way that doesn't make this clear. Also worth mentioning both JPEG XL and AVIF are royalty-free. Because of the politics around Google's browser market dominance, AV1 coming from Google, and the controversy around Google's WebP, it is my opinion that most of the argument for JPEG XL comes from wanting a Web with more developer choice as opposed to wanting a technologically superior image codec. I understand this, and I think JPEG XL can still thrive outside the Web in places AVIF never could. In the same article:\n\nMy current optimistic hope is that JXL takes off outside the web among professionals working with tools like the Adobe suite or alternatives, and camera manufacturers, smartphone OEMs, and others take notice and begin to think about JXL more seriously.\n\nJPEG XL isn't useless; it is genuinely compelling technology for use cases beyond the Web. I'm just not personally convinced we need it in browsers any time soon.\n\nSoftware and environment details.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T01:02:37.000Z",
+            "url": "https://giannirosato.com/blog/post/case-against-jxl/"
+          }
+        ]
+      },
+      {
+        "id": "story-0-44b7-bcd3-31fd0a44de08-00bbb2c09316753b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Global AI stocks slip on concerns over risks",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T05:24:00.000Z",
+        "pubTime": "2026-09-14 13:24",
+        "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0507c6a7-e813-450e-8ac3-6a2f383a9f36.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "OpenAI backer SoftBank falls as much as 13% after tech leaders call for slowdown of development",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-14 13:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-14T05:24:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-post-case-against-jxl-0386281387e0321f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The case against JPEG XL",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:18:11.000Z",
+        "pubTime": "2026-09-14 09:18",
+        "url": "https://giannirosato.com/blog/post/case-against-jxl",
+        "imageUrl": null,
+        "fullContent": "Investigating JPEG XL's place as a Web image codec.\n\nJPEG XL is a technically impressive image codec; it is a definitive upgrade over JPEG, more versatile than WebP, and well-equipped to serve use cases beyond the Web. However, it was famously rejected from Chrome in 2023. Because this happened to a royalty-free, flexible, compression-efficient codec from the JPEG Committee that was receiving attention from large companies, the decision didn't land well with many.\n\nRecently, a JPEG XL decoder in Rust has made its way into Firefox and Chrome in some capacity. The Web's major stakeholders may therefore be reversing course on JPEG XL given that the new decoder may protect the Web from reliving 2023's WebP vulnerability. Is this all it took to justify JPEG XL for the Web?\n\nHistorically, I've been a big proponent of JPEG XL for all use cases. I endorsed JPEG XL for Interop 2024, and I've interacted with Jon Sneyers and Jyrki Alakuijala (two of the format's primary authors) personally many times. I'm consistently impressed with their public conduct, level-headedness, technical aptitude, and passion for the field.\n\nThis piece does not seek to discredit the format's authors or their work, nor to claim any political affiliation relative to the codec's symbolism in free software. The spirit of this post is educational; I want to offer an empirical look at the current state of image compression and the Web platform in 2026. Some inspiration is drawn from RISC-V: They Should Have Known Better by Dmitry Grinberg.\n\nI do image compression work, coming from video compression originally. While working on an AV1 encoder, Julio Barba and I made significant advancements to AVIF, and I learned a lot in the process. When I decided to start building my own encoder, I had to think very hard about which formats I felt had the highest ceilings, could be effectively optimized, and had the most present and potential utility. I decided not to work with JPEG XL.\n\nBy volume, there are very few use cases on the Web that aren't served by versatile lossy compression. The average Web consumer doesn't need lossless; they just need a lossy codec versatile enough to prevent terrible artifacts (e.g. JPEG on non-photographic content). This rules out JPEG XL's lossless advantage, which in practice is only roughly 11.9% smaller than lossless WebP anyway – and on an unrealistic test dataset for the Web (157 MP photos, 10 MP illustrations, and 27 MP books). It cannot be worth bringing a new image codec to browsers to save 12% on a tiny volume of image content with use cases inherently less sensitive to bandwidth constraints. I say this because JPEG XL isn't competitive for lossy, so lossless would be its only real advantage.\n\nOne of the original arguments for JPEG XL was that its reference encoder was more perceptually optimized than competing encoders. Now, on both speed and fidelity per bit, other encoders are stronger.\n\nThe AV1 reference encoder received specialized perceptual tuning based on controlled subjective human trials to strengthen its efficiency while maintaining a tuning mode optimized for perceptual metrics. SVT-AV1 has similar tuning modes. There is no compelling argument that modern encoders aren't tuned for the human eye.\n\nMetrics aren't perfect, but they paint a daunting picture for JPEG XL:\n\naperture-alpha is Halide Compression's upcoming encoder, codenamed Aperture. I included it to show just how much ground libjxl needs to make up to compete at the frontier.\n\nSome analysis claims that JPEG XL underperforms in metrics relative to its perceptual strength, but I don't see sufficient evidence that this is to the degree that graphs like the ones I shared could be secretly completely reversed. CVVDP and SSIMULACRA2 are very strong perceptual metrics, and definitely tell us something when the differences are this great. For AVIF, libaom's perceptually optimized tune (tune IQ) is only a couple of points lower than its perceptual-metric-optimized tune (tune SSIMULACRA2). Plus, the JPEG XL reference encoder has historically suffered from percep tual issues that remain largely unresolved.\n\nThere's no such thing as a codec benchmark, only an encoder benchmark; in theory, the ceiling for JPEG XL as a format is higher than libjxl is getting. But how hard would it be to close the gap? As a compression engineer, I believe it is disadvantaged here. Some reasons:\n\nFor non-photographic images, the argument that “they should be vector images” doesn't hold up because many images could be vector images but aren't, and they can't be vectorized perfectly. “The world should be different” is not a justifiable defense against optimizing for the way the world actually is.\n\nIt is tempting to think these points mean the ceiling is higher than libjxl lets us reach and that we could do better, but I'm not confident it can eclipse well-optimized AVIF encoders quickly, given its less intuitive (and potentially weaker) coding tools.\n\nJPEG XL has an impressively flexible specification. In addition to its coding tools, it supports up to 4096 channels, arbitrary color depth, progressive decode, JPEG recompression, and more. Many of these features are not broadly useful on the Web; you need 4 channels (RGB/YUV + alpha), reasonable color depth to support HDR (10-bit is fine), and the ability to load quickly.\n\nProgressive rendering (which AVIF supports) decodes a low-fidelity rendition before the full image arrives. AVIF didn't support progressive rendering for a while, and during that time I believe it was deeply oversold. Now that libavif has implemented it (it was always possible), the conversation appears to be over. I think this is because the results speak for themselves:\n\nThis is from the JPEG-XL info site, where AVIF shows a usable image much earlier than JXL at just ~2-3% of the full image's size. Combined with the fact that the AVIF is smaller overall, this is an easy win. I've screenshotted the page because the AVIF progressive decode only works in Chrome, as it is using the browser's native decoder; JPEG XL uses a polyfill because even in Safari where it is supported, progressive decode isn't.\n\nJPEG recompression is the ability to losslessly re-encode JPEGs as JXL images while saving bits; the oft-cited number is 20% savings. However, the user pays for this in decode time, as recompressed JPEGs take ~33% longer to decode. Modern consumer devices are powerful, but the argument that the savings come “for free” is misleading.\n\nOn that topic, decode time is not competitive with the best:\n\nIn public discourse, AVIF is considered slow to decode; what does that make JXL? This is also a 10-bit AVIF, and all images were size-matched encodes of the same source. The JPEG was 2,478,828 bytes, the JPEG XL was 2,599,428, the AVIF 2,649,949, and WebP 2,693,794. WebP is over 90kb larger and still manages to decode over 10x faster than jxl-rs with wpd.\n\nDue to the codec's expressivity, it is possible to craft images that take obscenely long to decode. Take this example (open with caution) that computes primes up to 33,599 and takes 17.43s of user time to decode on my M5 Pro with the Rust decoder. Additionally, keep in mind that this is the decoder making its way into Chrome, Firefox, etc – the prime wall image is just 1,918 bytes, so it's about to become trivially easy to JXL-bomb low-end devices. You can already ship a couple dozen of these on a Web page and slow Apple devices down, as they natively support JPEG XL in Safari.\n\nI believe Web codecs should be purpose-built, efficient, and narrowly scoped to the needs of the Web. I think WebP was a bit too narrowly scoped, but the idea was there; AVIF's container could be better, and the AV1 spec could be a bit more specific about handling certain properties of images (e.g. normative 4:2:0 upsampling), but AVIF was always a guaranteed addition to the Web due to AV1 and benefits from a very mature ecosystem.\n\nDo we need JPEG XL then? It isn't narrowly scoped whatsoever; it is meant to be everything to everyone, by design. I think a lot of other use cases need this, but the Web needs to save bandwidth, decode fast, and prevent foot-guns; I don't see how JPEG XL is even as good a fit as WebP. Not to mention an additional compatibility headache now exists for anyone just trying to download an image from the Internet and use it somewhere – it was hard enough to get widespread WebP adoption, and I don't think it's worth doubling the pain by having to climb the same hill for AVIF and JPEG XL. Especially when JPEG XL doesn't appear to add anything to the Web platform.\n\n3½ years ago, I said:\n\nI want a web where both AVIF and JPEG XL can exist, and developers decide which format to use for its merits. [...] In my opinion, JPEG XL and AVIF have fundamentally different strengths which lend them to different use cases.\n\nAt the time, JPEG XL was a much stronger contender for medium-high fidelity lossy image compression. AVIF now dominates the entire fidelity range, so JPEG XL's one real advantage has disappeared.\n\nJPEG XL came from Cloudinary and Google, but I think the codec is discussed in a way that doesn't make this clear. Also worth mentioning both JPEG XL and AVIF are royalty-free. Because of the politics around Google's browser market dominance, AV1 coming from Google, and the controversy around Google's WebP, it is my opinion that most of the argument for JPEG XL comes from wanting a Web with more developer choice as opposed to wanting a technologically superior image codec. I understand this, and I think JPEG XL can still thrive outside the Web in places AVIF never could. In the same article:\n\nMy current optimistic hope is that JXL takes off outside the web among professionals working with tools like the Adobe suite or alternatives, and camera manufacturers, smartphone OEMs, and others take notice and begin to think about JXL more seriously.\n\nJPEG XL isn't useless; it is genuinely compelling technology for use cases beyond the Web. I'm just not personally convinced we need it in browsers any time soon.\n\nSoftware and environment details.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T01:18:11.000Z",
+            "url": "https://giannirosato.com/blog/post/case-against-jxl"
+          }
+        ]
+      },
+      {
+        "id": "story-oon-isnt-scientists-html-57d3dc51cf6405f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "No cities on the moon—there isn't enough water, scientists say",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T04:00:02.000Z",
+        "pubTime": "2026-09-14 12:00",
+        "url": "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-moon.jpg",
+        "fullContent": "The discovery of water in dark craters at the moon's poles has sparked a \"moon rush\" to establish bases there, followed by villages, cities and heavy industry. How sustainable is this rush?",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
+            "publishedAt": "2026-09-14T04:00:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-u-carney-says-a-79254541-f7711865b23b3aa7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Canada seeks 'unique alliance' with EU, Carney says",
+        "source": "Deutsche Welle (EN 官方英语)",
+        "sourceSlug": "dw",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T06:22:00.000Z",
+        "pubTime": "2026-09-14 14:22",
+        "url": "https://www.dw.com/en/canada-seeks-unique-alliance-with-eu-carney-says/a-79254541",
+        "imageUrl": null,
+        "fullContent": "Mark Carney clarified Canada's EU ambitions amid a WSJ report that Ottawa was exploring an \"associate membership\" with the bloc.\n\nCanadian Prime Minister Mark Carney on Sunday said he was pursuing unprecedented closeness with the European Union to reduce its dependence on its economically hostile neighbor, but not a membership with the bloc.\n\n\"We're not looking to become a member of the European Union,\" Carney told reporters at the Toronto International Film Festival.\n\n\"What we are looking — and will begin discussions for — is a unique ​alliance between Canada and the European Union,\" he said. \"We share the same values, we have the same priorities and ​we have very complementary strengths.\"\n\nCarney's clarification came after a report by the Wall Street Journal claimed he was exploring whether Canada could become an \"associate member\" of the bloc. The newspaper reported that the EU was open to the idea of granting Canada associate membership — a status it would have to create for the North American nation.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nThe remarks precede the Canadian prime minister's scheduled trip to France this week.\n\nIn Strasbourg, France, Carney will become the first head of government to attend the \"State of the European Union\" address before delivering his own speech at the European Parliament.\n\nHis visit is a \"tremendous symbol,\" said Tobias Cremer, a European lawmaker from Germany and the main sponsor of a March resolution calling for stronger EU-Canada cooperation.\n\n\"Canada has many of the resources that Europe is very much short of, whether it's in terms of energy, whether it's rare earths (and) raw minerals,\" Cremer said.\n\nCanada is already the first non-EU Nation to join the bloc's defense procurement program, while Carney was involved in Canada joining the Eurovision Song Contest for 2027.\n\nMeanwhile, Montreal is set to host an EU-Canada summit where Carney said discussions will begin on building a \"much stronger and deeper economic and security partnership.\"\n\nCanada's increasing closeness with the EU comes when the country is in the middle of an escalating trade war with its largest trading partner and neighbor, the United States.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将加拿大寻求与欧盟建立“独特联盟”置于加美贸易冲突和跨大西洋关系重组背景下，重点强调卡尼否认寻求欧盟成员资格、但推动更紧密的经济与安全合作；报道同时突出加拿大资源、欧洲安全需求以及卡尼即将访问法国和欧洲议会等象征性与制度性动向。"
+        ],
+        "citations": [
+          {
+            "source": "Deutsche Welle (EN 官方英语)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T06:22:00.000Z",
+            "url": "https://www.dw.com/en/canada-seeks-unique-alliance-with-eu-carney-says/a-79254541"
+          }
+        ]
+      },
+      {
+        "id": "story-se-for-optimistic-sci-fi-08d6688705146e22",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Writing a better reality: The case for optimistic sci-fi (2022)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:27:11.000Z",
+        "pubTime": "2026-09-14 08:27",
+        "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-14 08:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+            "publishedAt": "2026-09-14T00:27:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-4eab-bcad-147acebfd2a9-8b9d5d7cb3d94156",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China’s spy agency warns of AI risk to national security",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T05:15:49.000Z",
+        "pubTime": "2026-09-14 13:15",
+        "url": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb6058f2-9993-422a-9b92-b9342ed37120.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Beijing signals growing concern over how rapid advances in technology could be used against the country",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-14 13:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-14T05:15:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-or-misusing-flock-camera-4f59c24ce24baf6f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "San Jose officer fired for misusing Flock camera database in domestic abuse case",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:13:18.000Z",
+        "pubTime": "2026-09-14 09:13",
+        "url": "https://www.reddit.com/r/technology/comments/1wfpdzc/san_jose_officer_fired_for_misusing_flock_camera/",
+        "imageUrl": "https://external-preview.redd.it/9C2lZUfjFij8tEFtedK6VpS2psSBtqVRQfZuWrhFk-g.jpeg?width=640&crop=smart&auto=webp&s=1b1d575adf5b7f002cd5e57d7d5cccd5b281e5a3",
+        "fullContent": "submitted by /u/ArgentineBeauty [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-14 09:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wfpdzc/san_jose_officer_fired_for_misusing_flock_camera/",
+            "publishedAt": "2026-09-14T01:13:18.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story--rossija-2117510418-html-d20292d2b48334eb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В России за сутки потушили 18 лесных пожаров",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T06:25:32.000Z",
+        "pubTime": "2026-09-14 14:25",
+        "url": "https://ria.ru/20260914/rossija-2117510418.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/08/17/1968129992_0:0:3072:1728_650x0_80_0_0_9413fb77b9251cf528a8efbcc694a1bd.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 14:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/rossija-2117510418.html",
+            "publishedAt": "2026-09-14T06:25:32.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-abs-1802-07228-14e0d91b4194cd13",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Malicious Use of Artificial Intelligence",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:22:35.000Z",
+        "pubTime": "2026-09-14 09:22",
+        "url": "https://arxiv.org/abs/1802.07228",
+        "imageUrl": null,
+        "fullContent": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\n\nBoth individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.\n\nHave an idea for a project that will add value for arXiv's community? Learn more about arXivLabs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "该条目的原始标题为“The Malicious Use of Artificial Intelligence”。",
+          "该条目来源标注为 Hacker News（科技前沿论坛），原文语言为英语。",
+          "来源叙事重点：标题指向人工智能的恶意使用议题；正文叙事则集中于 arXivLabs 的开放、社区、卓越、用户数据隐私及合作伙伴准入价值观，并邀请读者参与项目建设。不能据此推断论文关于人工智能恶意使用的具体论点。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T01:22:35.000Z",
+            "url": "https://arxiv.org/abs/1802.07228"
+          }
+        ]
+      },
+      {
+        "id": "story-eepens-supply-fears-html-3160594906cbc1e0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T05:37:04.000Z",
+        "pubTime": "2026-09-14 13:37",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html",
+        "imageUrl": null,
+        "fullContent": "Brent crude hit $108 per barrel earlier today, following the latest escalation in the Middle East, before retreating to $107.22 per barrel at the time of writing. West Texas Intermediate was trading at $102.66 per barrel. The surge follows the news of a drone attack on Saudi Arabia&rsquo;s East-West pipeline that could cut off another 4% of global oil supply and signs that efforts at diplomacy are failing. According to unnamed sources quoted by Reuters, Saudi Arabia&rsquo;s Yanbu port on the Red Sea has only enough oil for five to seven days of exports&mdash;and the Yemeni Houthis are expanding their control of the waterway. &ldquo;It&rsquo;s unclear how severe any potential damage is, or how long it will be out of action,&rdquo; ING commodity strategists wrote in a note earlier today, referring to the East-West pipeline, which has a capacity to carry 7 million barrels of crude daily. The ING team remains relatively optimistic, however, maintaining its base case of $80 per barrel of Brent crude for the final quarter of the year. &ldquo;The situation is fluid as we continue to see sizeable volumes of oil still moving through the Strait of Hormuz,&rdquo; Warren Patterson and Ewa Manthey wrote. Meanwhile, President Trump said on Sunday that the United States could stay in Iran and &ldquo;keep the oil&rdquo;. &ldquo;We'll ultimately get out of Iran, unless we decide to stay and keep the oil like Venezuela,&rdquo; the U.S. Commander in Chief said, as quoted by Reuters, noting that the money that the U.S. has made so far from selling Venezuelan oil had &ldquo;paid for the war many times.&rdquo; Trump also said gasoline prices would &ldquo;drop like a rock&rdquo; once the war with Iran ended. The prospects of peace, however, remain elusive, with the latest news there being the cancellation of a meeting to be hosted by Oman, which was supposed to take place today. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "布伦特原油价格一度触及每桶108美元，发稿时回落至每桶107.22美元；WTI原油交易价格为每桶102.66美元。",
+          "有消息称沙特阿拉伯的东西管道（East-West pipeline）遭遇无人机袭击，该管道每日输送能力为700万桶原油，或可能切断全球4%的原油供应。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T05:37:04.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html"
+          }
+        ]
+      },
+      {
+        "id": "story-oldnewthing-20260910-00-89e9d02f5f9e1076",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why is the x86 undefined instruction called ud2? Why 2?",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T03:34:33.000Z",
+        "pubTime": "2026-09-14 11:34",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+        "imageUrl": null,
+        "fullContent": "If you look at x86 compiler output (or if, like me, you’re looking at a crash caused by some software that tried to detour an API), you may see an instruction ud2. What’s up with that?\n\nThe ud2 instruction is an architecturally undefined instruction, guaranteed to raise an “invalid opcode” exception. Some compilers generate it to mark “unreachable” code, so that if execution somehow manages to reach it, you get a crash rather than executing random instructions. For example, if a function marked [[noreturn]] somehow returns, the compiler will put a ud2 after the call so that the program crashes instead of falling through to the next function.\n\nAnyway, why is this instruction called ud2 instead of just ud? Was there a ud1? What was so wrong about ud1 that we had to make a ud2?\n\nI think I can reconstruct what happened.\n\nOriginally, there was no architecturally undefined instruction on x86. So people who wanted to force an invalid opcode exception went looking for some byte sequence that reliably raised the invalid opcode exception when executed.\n\nMeanwhile, somebody else found that the 0F B9 sequence also had the same properties. So you now had two factions, the 0F FF believers and the 0F B9 adherents. There really wasn’t much of a battle between them, because both techniques seemed to work, and it’s not like one was coming at the detriment of the other.\n\nIntel then worked on their next processor, and maybe they made some changes that resulted in 0F FF no longer raising an invalid opcode exception. Maybe they tried introducing a new instruction that uses 0F FF. Or maybe it was still undefined but just performed some random operation instead of raising the invalid opcode instruction. And when they started running software on their new processor, they found that some programs stopped working, and after laborious investigation, they discovered that the programs were relying on 0F FF being an invalid opcode.\n\nIn other words, they ran into Hyrum’s Law: With a sufficient number of users, all observable behaviors will be depended upon by somebody. Obligatory XKCD.\n\nA similar discovery was made with 0F B9.\n\nNow that they realized that people wanted a reliable way to trigger an invalid opcode exception, the folks at Intel decided to make it official, and they created an actual supported permanently-invalid instruction and called it ud2.\n\nIt’s called ud2 because the 0F FF variant was retroactively named ud0, and the 0F B9 variant was retroactively named ud1, leaving ud2 as the recommended undefined opcode.\n\nOne advantage of ud2 is that it is a two-byte instruction with no parameters, so you don’t have to deal with the random decoded-but-unused source and destinations.\n\nBonus chatter: But why do we care about the unused parameters to ud0 and ud1? Can’t we just say that ud0 and ud1 are also two-byte invalid opcodes? I mean, sure, there’s a third byte, or possibly more if the memory operand has an offset or a scaled index, but the processor doesn’t use it.\n\nIt matters, because even though the processor doesn’t use it, it still decodes it. And if the decoding of the instruction crosses into a not-present page, you don’t get an invalid opcode exception at all. You get an access violation.\n\nBonus bonus chatter: Except that some older processors raised the invalid opcode instruction as soon as they decoded the 0F FF without checking whether the rest of the instruction decoded properly. So if your 0F FF is at the end of a page, and the next page is not present, you sometimes got an invalid opcode exception and you sometimes got an access violation.\n\nBetter to stick with ud2. Its behavior is consistent and architecturally guaranteed.\n\nRaymond has been involved in the evolution of Windows for more than 30 years. In 2003, he began a Web site known as The Old New Thing which has grown in popularity far beyond his wildest imagination, a development which still gives him the heebie-jeebies. The Web site spawned a book, coincidentally also titled The Old New Thing (Addison Wesley 2007). He occasionally appears on the Windows Dev Docs Twitter account to tell stories which convey no useful information.\n\nJoin the discussion.\n\nI think we really shouldn’t need to worry about assembly anymore as compilers are quite good at doing their thing these days. Of course if you want to be on a Microsoft core team that’s a different story but I wonder how many genz are assembly knowledgeable at all\n\nWorry about it? No, you don't need to do that. But you need to know the basics if you ever need to write performance-critical code. Even today's amazing compilers won't necessarily fix a badly chosen algorithm that contains unpredictable jumps or has poor cache utilization. They won't replace a linked list with a vector even if the latter would be faster and more memory-efficient. If you have at least a general idea about what your source code turns into, you can help the compiler make the best out of it.\n\nMost of us won't need to hand-write assembly code anymore, I'll...\n\nWorry about it? No, you don’t need to do that. But you need to know the basics if you ever need to write performance-critical code. Even today’s amazing compilers won’t necessarily fix a badly chosen algorithm that contains unpredictable jumps or has poor cache utilization. They won’t replace a linked list with a vector even if the latter would be faster and more memory-efficient. If you have at least a general idea about what your source code turns into, you can help the compiler make the best out of it.\n\nMost of us won’t need to hand-write assembly code anymore, I’ll grant you that. Being able to read it could be helpful in rare cases where you don’t have the source code available. It can also help you appreciate what your compiler does for you, when you play around on godbolt.org 😀\n\nI’ve never really heard of UD2 and friends.. I’ve always seen and used 0xCC (INT 3) when I want my program to crash.. and break in the debugger, if present.\n\nHow does the handling of UD2 compare to 0xCC?\n\nCC (INT 3) is a trap. Mostly used to signal precondition/contract breach\n\nUD2 is more a hard stop because “executing random instructions”, as Raymond put it, can cause a lot of bugs.\n\nReminds me of programming the 6502: if you had a bug and the processor jumped into unknown territory, if the unused RAM had been zeroed out, you might catch those bugs easier. because the 0x00 opcode is BRK (force break).\n\nFor x86, I guess that UD2 instruction came pretty late to the party so all “handy” opcodes like 0x00 of 0xFF were already taken 🙁\n\nOn the Acorn machines, the BRK vector caught such instructions and read the following bytes as an error message. (Well, technically, an error code, then the ASCII message.) This allowed language and service ROMs to report errors very simply, and also allowed errors to be caught from any ROM or application via a single interface. Thus, BASIC's ON ERROR could catch errors not just from BASIC, but also the file system, the network, some ROM that supported some new hardware you plugged in, whatever. And so could your wordprocessor, FORTH program, game, debugger software, etc.\n\nOf course, should your code hit...\n\nOn the Acorn machines, the BRK vector caught such instructions and read the following bytes as an error message. (Well, technically, an error code, then the ASCII message.) This allowed language and service ROMs to report errors very simply, and also allowed errors to be caught from any ROM or application via a single interface. Thus, BASIC’s ON ERROR could catch errors not just from BASIC, but also the file system, the network, some ROM that supported some new hardware you plugged in, whatever. And so could your wordprocessor, FORTH program, game, debugger software, etc.\n\nOf course, should your code hit a random 0x00 in memory, the screen would fill with garbage until the next 0x00 was hit. Since the character output routine managed all graphics and text output, it could also clear the screen, change screen mode, redefine characters, activate the printer, even suppress all output if the right bytes were read.\n\nSo you could say, while making error handling much easier, it also made it much more confusing.\n\n0x00 is taken. it’s an ADD instruction all the way back on the 8086 0xFF is a prefix byte of a two byte instruction. However 0xFF 0xFF is not a valid instruction even today (as least as far as my disassembler is concerned).",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T03:34:33.000Z",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689"
+          }
+        ]
+      },
+      {
+        "id": "story--your-elements-came-from-a34825fffd076549",
+        "title": "APOD：2026年9月14日——你的元素来自何方",
+        "originalTitle": "APOD: 2026 September 14 – Where Your Elements Came From",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T04:05:00.000Z",
+        "pubTime": "2026-09-14 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/ElementOrigins2_svs_6000.jpg?w=6000&#038;h=4000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 14 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nWhere Your Elements Came From\n\nExplanation: The hydrogen in your body and present in every molecule of water came from the Big Bang . There are no other appreciable sources of hydrogen in the universe. The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen . Much of the iron in your body was made during supernova s of stars that occurred long ago and far away. The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events . Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life . The featured periodic table is color coded to indicate humanity ‘s best guess as to the nuclear origin of all known elements. The sites of nuclear creation of some elements , such as copper , are not really well known and are continuing topics of observational and computational research.\n\nAPOD’s main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: Sun triple\n\nAuthors &#038; editors:\n\nRobert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "APOD：2026年9月14日——……\n每日天文图\n探索宇宙！每天都会呈现一幅展现我们迷人宇宙的不同图像或照片，并附有专业天文学家撰写的简短说明。\n你的元素来自何方\n说明：你身体中的氢，以及水的每个分子中所含的氢，都来自宇宙大爆炸。宇宙中没有其他可观的氢来源。你身体中的碳是在恒星内部通过核聚变产生的，氧也是如此。你身体中的许多铁是在很久以前、很遥远的地方发生的恒星超新星爆发中形成的。你首饰中的黄金很可能是在中子星碰撞过程中形成的；这类碰撞可能会以持续时间较短的伽马射线暴或引力波事件的形式被观测到。磷和铜等元素在我们体内的含量很少，但却是所有已知生命正常运作所必需的。图中所示的元素周期表采用颜色编码，表示人类对所有已知元素核起源的最佳推测。一些元素的核合成地点，例如铜的形成地点，目前尚未得到很好的确定，仍是观测和计算研究持续探讨的课题。\nAPOD的NASA主站正在迁移：从apod.nasa.gov迁移至science.nasa.gov/apod\n明日图片：太阳三重奏\n作者及编辑：\nRobert Nemiroff、Jerry Bonnell、Cecilia Chirenti、Keighley Rockcliffe\nNASA科学启蒙项目与密歇根理工大学\n随机APOD生成器\n昨日图片\nAPOD：2026年9月13日——亚得里亚海上空升起的NEOWISE彗星\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "该文章的原标题为“APOD: 2026 September 14 – Where Your Elements Came From”。",
+          "文章来源标注为 NASA News（深空探索与航天），原文语言为英语。",
+          "来源叙事重点：以元素周期表为叙事框架，解释人体和日常物质中的元素可能如何在宇宙中形成：氢与大爆炸相关，碳和氧与恒星内部核聚变相关，铁与超新星相关，金可能与中子星碰撞相关；同时强调部分元素的核合成地点仍存在研究不确定性。文章将这些内容组织成面向公众的宇宙起源科普，并突出人类与恒星、超新星及中子星事件的联系。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/"
+          }
+        ]
+      },
+      {
+        "id": "story-14-nepal-2117510085-html-e573589861d4d51e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Родственники рассказали о поисках якутского музыканта, пропавшего в Непале",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T06:22:38.000Z",
+        "pubTime": "2026-09-14 14:22",
+        "url": "https://ria.ru/20260914/nepal-2117510085.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 14:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/nepal-2117510085.html",
+            "publishedAt": "2026-09-14T06:22:38.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-post-case-against-jxl-5e69b5a408da545c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The case against JPEG XL",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:02:37.000Z",
+        "pubTime": "2026-09-14 09:02",
+        "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+        "imageUrl": null,
+        "fullContent": "Investigating JPEG XL's place as a Web image codec.\n\nJPEG XL is a technically impressive image codec; it is a definitive upgrade over JPEG, more versatile than WebP, and well-equipped to serve use cases beyond the Web. However, it was famously rejected from Chrome in 2023. Because this happened to a royalty-free, flexible, compression-efficient codec from the JPEG Committee that was receiving attention from large companies, the decision didn't land well with many.\n\nRecently, a JPEG XL decoder in Rust has made its way into Firefox and Chrome in some capacity. The Web's major stakeholders may therefore be reversing course on JPEG XL given that the new decoder may protect the Web from reliving 2023's WebP vulnerability. Is this all it took to justify JPEG XL for the Web?\n\nHistorically, I've been a big proponent of JPEG XL for all use cases. I endorsed JPEG XL for Interop 2024, and I've interacted with Jon Sneyers and Jyrki Alakuijala (two of the format's primary authors) personally many times. I'm consistently impressed with their public conduct, level-headedness, technical aptitude, and passion for the field.\n\nThis piece does not seek to discredit the format's authors or their work, nor to claim any political affiliation relative to the codec's symbolism in free software. The spirit of this post is educational; I want to offer an empirical look at the current state of image compression and the Web platform in 2026. Some inspiration is drawn from RISC-V: They Should Have Known Better by Dmitry Grinberg.\n\nI do image compression work, coming from video compression originally. While working on an AV1 encoder, Julio Barba and I made significant advancements to AVIF, and I learned a lot in the process. When I decided to start building my own encoder, I had to think very hard about which formats I felt had the highest ceilings, could be effectively optimized, and had the most present and potential utility. I decided not to work with JPEG XL.\n\nBy volume, there are very few use cases on the Web that aren't served by versatile lossy compression. The average Web consumer doesn't need lossless; they just need a lossy codec versatile enough to prevent terrible artifacts (e.g. JPEG on non-photographic content). This rules out JPEG XL's lossless advantage, which in practice is only roughly 11.9% smaller than lossless WebP anyway – and on an unrealistic test dataset for the Web (157 MP photos, 10 MP illustrations, and 27 MP books). It cannot be worth bringing a new image codec to browsers to save 12% on a tiny volume of image content with use cases inherently less sensitive to bandwidth constraints. I say this because JPEG XL isn't competitive for lossy, so lossless would be its only real advantage.\n\nOne of the original arguments for JPEG XL was that its reference encoder was more perceptually optimized than competing encoders. Now, on both speed and fidelity per bit, other encoders are stronger.\n\nThe AV1 reference encoder received specialized perceptual tuning based on controlled subjective human trials to strengthen its efficiency while maintaining a tuning mode optimized for perceptual metrics. SVT-AV1 has similar tuning modes. There is no compelling argument that modern encoders aren't tuned for the human eye.\n\nMetrics aren't perfect, but they paint a daunting picture for JPEG XL:\n\naperture-alpha is Halide Compression's upcoming encoder, codenamed Aperture. I included it to show just how much ground libjxl needs to make up to compete at the frontier.\n\nSome analysis claims that JPEG XL underperforms in metrics relative to its perceptual strength, but I don't see sufficient evidence that this is to the degree that graphs like the ones I shared could be secretly completely reversed. CVVDP and SSIMULACRA2 are very strong perceptual metrics, and definitely tell us something when the differences are this great. For AVIF, libaom's perceptually optimized tune (tune IQ) is only a couple of points lower than its perceptual-metric-optimized tune (tune SSIMULACRA2). Plus, the JPEG XL reference encoder has historically suffered from percep tual issues that remain largely unresolved.\n\nThere's no such thing as a codec benchmark, only an encoder benchmark; in theory, the ceiling for JPEG XL as a format is higher than libjxl is getting. But how hard would it be to close the gap? As a compression engineer, I believe it is disadvantaged here. Some reasons:\n\nFor non-photographic images, the argument that “they should be vector images” doesn't hold up because many images could be vector images but aren't, and they can't be vectorized perfectly. “The world should be different” is not a justifiable defense against optimizing for the way the world actually is.\n\nIt is tempting to think these points mean the ceiling is higher than libjxl lets us reach and that we could do better, but I'm not confident it can eclipse well-optimized AVIF encoders quickly, given its less intuitive (and potentially weaker) coding tools.\n\nJPEG XL has an impressively flexible specification. In addition to its coding tools, it supports up to 4096 channels, arbitrary color depth, progressive decode, JPEG recompression, and more. Many of these features are not broadly useful on the Web; you need 4 channels (RGB/YUV + alpha), reasonable color depth to support HDR (10-bit is fine), and the ability to load quickly.\n\nProgressive rendering (which AVIF supports) decodes a low-fidelity rendition before the full image arrives. AVIF didn't support progressive rendering for a while, and during that time I believe it was deeply oversold. Now that libavif has implemented it (it was always possible), the conversation appears to be over. I think this is because the results speak for themselves:\n\nThis is from the JPEG-XL info site, where AVIF shows a usable image much earlier than JXL at just ~2-3% of the full image's size. Combined with the fact that the AVIF is smaller overall, this is an easy win. I've screenshotted the page because the AVIF progressive decode only works in Chrome, as it is using the browser's native decoder; JPEG XL uses a polyfill because even in Safari where it is supported, progressive decode isn't.\n\nJPEG recompression is the ability to losslessly re-encode JPEGs as JXL images while saving bits; the oft-cited number is 20% savings. However, the user pays for this in decode time, as recompressed JPEGs take ~33% longer to decode. Modern consumer devices are powerful, but the argument that the savings come “for free” is misleading.\n\nOn that topic, decode time is not competitive with the best:\n\nIn public discourse, AVIF is considered slow to decode; what does that make JXL? This is also a 10-bit AVIF, and all images were size-matched encodes of the same source. The JPEG was 2,478,828 bytes, the JPEG XL was 2,599,428, the AVIF 2,649,949, and WebP 2,693,794. WebP is over 90kb larger and still manages to decode over 10x faster than jxl-rs with wpd.\n\nDue to the codec's expressivity, it is possible to craft images that take obscenely long to decode. Take this example (open with caution) that computes primes up to 33,599 and takes 17.43s of user time to decode on my M5 Pro with the Rust decoder. Additionally, keep in mind that this is the decoder making its way into Chrome, Firefox, etc – the prime wall image is just 1,918 bytes, so it's about to become trivially easy to JXL-bomb low-end devices. You can already ship a couple dozen of these on a Web page and slow Apple devices down, as they natively support JPEG XL in Safari.\n\nI believe Web codecs should be purpose-built, efficient, and narrowly scoped to the needs of the Web. I think WebP was a bit too narrowly scoped, but the idea was there; AVIF's container could be better, and the AV1 spec could be a bit more specific about handling certain properties of images (e.g. normative 4:2:0 upsampling), but AVIF was always a guaranteed addition to the Web due to AV1 and benefits from a very mature ecosystem.\n\nDo we need JPEG XL then? It isn't narrowly scoped whatsoever; it is meant to be everything to everyone, by design. I think a lot of other use cases need this, but the Web needs to save bandwidth, decode fast, and prevent foot-guns; I don't see how JPEG XL is even as good a fit as WebP. Not to mention an additional compatibility headache now exists for anyone just trying to download an image from the Internet and use it somewhere – it was hard enough to get widespread WebP adoption, and I don't think it's worth doubling the pain by having to climb the same hill for AVIF and JPEG XL. Especially when JPEG XL doesn't appear to add anything to the Web platform.\n\n3½ years ago, I said:\n\nI want a web where both AVIF and JPEG XL can exist, and developers decide which format to use for its merits. [...] In my opinion, JPEG XL and AVIF have fundamentally different strengths which lend them to different use cases.\n\nAt the time, JPEG XL was a much stronger contender for medium-high fidelity lossy image compression. AVIF now dominates the entire fidelity range, so JPEG XL's one real advantage has disappeared.\n\nJPEG XL came from Cloudinary and Google, but I think the codec is discussed in a way that doesn't make this clear. Also worth mentioning both JPEG XL and AVIF are royalty-free. Because of the politics around Google's browser market dominance, AV1 coming from Google, and the controversy around Google's WebP, it is my opinion that most of the argument for JPEG XL comes from wanting a Web with more developer choice as opposed to wanting a technologically superior image codec. I understand this, and I think JPEG XL can still thrive outside the Web in places AVIF never could. In the same article:\n\nMy current optimistic hope is that JXL takes off outside the web among professionals working with tools like the Adobe suite or alternatives, and camera manufacturers, smartphone OEMs, and others take notice and begin to think about JXL more seriously.\n\nJPEG XL isn't useless; it is genuinely compelling technology for use cases beyond the Web. I'm just not personally convinced we need it in browsers any time soon.\n\nSoftware and environment details.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T01:02:37.000Z",
+            "url": "https://giannirosato.com/blog/post/case-against-jxl/"
+          }
+        ]
+      },
+      {
+        "id": "story-0-44b7-bcd3-31fd0a44de08-00bbb2c09316753b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Global AI stocks slip on concerns over risks",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T05:24:00.000Z",
+        "pubTime": "2026-09-14 13:24",
+        "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0507c6a7-e813-450e-8ac3-6a2f383a9f36.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "OpenAI backer SoftBank falls as much as 13% after tech leaders call for slowdown of development",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-14 13:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-14T05:24:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-post-case-against-jxl-0386281387e0321f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The case against JPEG XL",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:18:11.000Z",
+        "pubTime": "2026-09-14 09:18",
+        "url": "https://giannirosato.com/blog/post/case-against-jxl",
+        "imageUrl": null,
+        "fullContent": "Investigating JPEG XL's place as a Web image codec.\n\nJPEG XL is a technically impressive image codec; it is a definitive upgrade over JPEG, more versatile than WebP, and well-equipped to serve use cases beyond the Web. However, it was famously rejected from Chrome in 2023. Because this happened to a royalty-free, flexible, compression-efficient codec from the JPEG Committee that was receiving attention from large companies, the decision didn't land well with many.\n\nRecently, a JPEG XL decoder in Rust has made its way into Firefox and Chrome in some capacity. The Web's major stakeholders may therefore be reversing course on JPEG XL given that the new decoder may protect the Web from reliving 2023's WebP vulnerability. Is this all it took to justify JPEG XL for the Web?\n\nHistorically, I've been a big proponent of JPEG XL for all use cases. I endorsed JPEG XL for Interop 2024, and I've interacted with Jon Sneyers and Jyrki Alakuijala (two of the format's primary authors) personally many times. I'm consistently impressed with their public conduct, level-headedness, technical aptitude, and passion for the field.\n\nThis piece does not seek to discredit the format's authors or their work, nor to claim any political affiliation relative to the codec's symbolism in free software. The spirit of this post is educational; I want to offer an empirical look at the current state of image compression and the Web platform in 2026. Some inspiration is drawn from RISC-V: They Should Have Known Better by Dmitry Grinberg.\n\nI do image compression work, coming from video compression originally. While working on an AV1 encoder, Julio Barba and I made significant advancements to AVIF, and I learned a lot in the process. When I decided to start building my own encoder, I had to think very hard about which formats I felt had the highest ceilings, could be effectively optimized, and had the most present and potential utility. I decided not to work with JPEG XL.\n\nBy volume, there are very few use cases on the Web that aren't served by versatile lossy compression. The average Web consumer doesn't need lossless; they just need a lossy codec versatile enough to prevent terrible artifacts (e.g. JPEG on non-photographic content). This rules out JPEG XL's lossless advantage, which in practice is only roughly 11.9% smaller than lossless WebP anyway – and on an unrealistic test dataset for the Web (157 MP photos, 10 MP illustrations, and 27 MP books). It cannot be worth bringing a new image codec to browsers to save 12% on a tiny volume of image content with use cases inherently less sensitive to bandwidth constraints. I say this because JPEG XL isn't competitive for lossy, so lossless would be its only real advantage.\n\nOne of the original arguments for JPEG XL was that its reference encoder was more perceptually optimized than competing encoders. Now, on both speed and fidelity per bit, other encoders are stronger.\n\nThe AV1 reference encoder received specialized perceptual tuning based on controlled subjective human trials to strengthen its efficiency while maintaining a tuning mode optimized for perceptual metrics. SVT-AV1 has similar tuning modes. There is no compelling argument that modern encoders aren't tuned for the human eye.\n\nMetrics aren't perfect, but they paint a daunting picture for JPEG XL:\n\naperture-alpha is Halide Compression's upcoming encoder, codenamed Aperture. I included it to show just how much ground libjxl needs to make up to compete at the frontier.\n\nSome analysis claims that JPEG XL underperforms in metrics relative to its perceptual strength, but I don't see sufficient evidence that this is to the degree that graphs like the ones I shared could be secretly completely reversed. CVVDP and SSIMULACRA2 are very strong perceptual metrics, and definitely tell us something when the differences are this great. For AVIF, libaom's perceptually optimized tune (tune IQ) is only a couple of points lower than its perceptual-metric-optimized tune (tune SSIMULACRA2). Plus, the JPEG XL reference encoder has historically suffered from percep tual issues that remain largely unresolved.\n\nThere's no such thing as a codec benchmark, only an encoder benchmark; in theory, the ceiling for JPEG XL as a format is higher than libjxl is getting. But how hard would it be to close the gap? As a compression engineer, I believe it is disadvantaged here. Some reasons:\n\nFor non-photographic images, the argument that “they should be vector images” doesn't hold up because many images could be vector images but aren't, and they can't be vectorized perfectly. “The world should be different” is not a justifiable defense against optimizing for the way the world actually is.\n\nIt is tempting to think these points mean the ceiling is higher than libjxl lets us reach and that we could do better, but I'm not confident it can eclipse well-optimized AVIF encoders quickly, given its less intuitive (and potentially weaker) coding tools.\n\nJPEG XL has an impressively flexible specification. In addition to its coding tools, it supports up to 4096 channels, arbitrary color depth, progressive decode, JPEG recompression, and more. Many of these features are not broadly useful on the Web; you need 4 channels (RGB/YUV + alpha), reasonable color depth to support HDR (10-bit is fine), and the ability to load quickly.\n\nProgressive rendering (which AVIF supports) decodes a low-fidelity rendition before the full image arrives. AVIF didn't support progressive rendering for a while, and during that time I believe it was deeply oversold. Now that libavif has implemented it (it was always possible), the conversation appears to be over. I think this is because the results speak for themselves:\n\nThis is from the JPEG-XL info site, where AVIF shows a usable image much earlier than JXL at just ~2-3% of the full image's size. Combined with the fact that the AVIF is smaller overall, this is an easy win. I've screenshotted the page because the AVIF progressive decode only works in Chrome, as it is using the browser's native decoder; JPEG XL uses a polyfill because even in Safari where it is supported, progressive decode isn't.\n\nJPEG recompression is the ability to losslessly re-encode JPEGs as JXL images while saving bits; the oft-cited number is 20% savings. However, the user pays for this in decode time, as recompressed JPEGs take ~33% longer to decode. Modern consumer devices are powerful, but the argument that the savings come “for free” is misleading.\n\nOn that topic, decode time is not competitive with the best:\n\nIn public discourse, AVIF is considered slow to decode; what does that make JXL? This is also a 10-bit AVIF, and all images were size-matched encodes of the same source. The JPEG was 2,478,828 bytes, the JPEG XL was 2,599,428, the AVIF 2,649,949, and WebP 2,693,794. WebP is over 90kb larger and still manages to decode over 10x faster than jxl-rs with wpd.\n\nDue to the codec's expressivity, it is possible to craft images that take obscenely long to decode. Take this example (open with caution) that computes primes up to 33,599 and takes 17.43s of user time to decode on my M5 Pro with the Rust decoder. Additionally, keep in mind that this is the decoder making its way into Chrome, Firefox, etc – the prime wall image is just 1,918 bytes, so it's about to become trivially easy to JXL-bomb low-end devices. You can already ship a couple dozen of these on a Web page and slow Apple devices down, as they natively support JPEG XL in Safari.\n\nI believe Web codecs should be purpose-built, efficient, and narrowly scoped to the needs of the Web. I think WebP was a bit too narrowly scoped, but the idea was there; AVIF's container could be better, and the AV1 spec could be a bit more specific about handling certain properties of images (e.g. normative 4:2:0 upsampling), but AVIF was always a guaranteed addition to the Web due to AV1 and benefits from a very mature ecosystem.\n\nDo we need JPEG XL then? It isn't narrowly scoped whatsoever; it is meant to be everything to everyone, by design. I think a lot of other use cases need this, but the Web needs to save bandwidth, decode fast, and prevent foot-guns; I don't see how JPEG XL is even as good a fit as WebP. Not to mention an additional compatibility headache now exists for anyone just trying to download an image from the Internet and use it somewhere – it was hard enough to get widespread WebP adoption, and I don't think it's worth doubling the pain by having to climb the same hill for AVIF and JPEG XL. Especially when JPEG XL doesn't appear to add anything to the Web platform.\n\n3½ years ago, I said:\n\nI want a web where both AVIF and JPEG XL can exist, and developers decide which format to use for its merits. [...] In my opinion, JPEG XL and AVIF have fundamentally different strengths which lend them to different use cases.\n\nAt the time, JPEG XL was a much stronger contender for medium-high fidelity lossy image compression. AVIF now dominates the entire fidelity range, so JPEG XL's one real advantage has disappeared.\n\nJPEG XL came from Cloudinary and Google, but I think the codec is discussed in a way that doesn't make this clear. Also worth mentioning both JPEG XL and AVIF are royalty-free. Because of the politics around Google's browser market dominance, AV1 coming from Google, and the controversy around Google's WebP, it is my opinion that most of the argument for JPEG XL comes from wanting a Web with more developer choice as opposed to wanting a technologically superior image codec. I understand this, and I think JPEG XL can still thrive outside the Web in places AVIF never could. In the same article:\n\nMy current optimistic hope is that JXL takes off outside the web among professionals working with tools like the Adobe suite or alternatives, and camera manufacturers, smartphone OEMs, and others take notice and begin to think about JXL more seriously.\n\nJPEG XL isn't useless; it is genuinely compelling technology for use cases beyond the Web. I'm just not personally convinced we need it in browsers any time soon.\n\nSoftware and environment details.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T01:18:11.000Z",
+            "url": "https://giannirosato.com/blog/post/case-against-jxl"
+          }
+        ]
+      },
+      {
+        "id": "story-oon-isnt-scientists-html-57d3dc51cf6405f5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "No cities on the moon—there isn't enough water, scientists say",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T04:00:02.000Z",
+        "pubTime": "2026-09-14 12:00",
+        "url": "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2019/1-moon.jpg",
+        "fullContent": "The discovery of water in dark craters at the moon's poles has sparked a \"moon rush\" to establish bases there, followed by villages, cities and heavy industry. How sustainable is this rush?",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-14 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cities-moon-isnt-scientists.html",
+            "publishedAt": "2026-09-14T04:00:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-u-carney-says-a-79254541-f7711865b23b3aa7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Canada seeks 'unique alliance' with EU, Carney says",
+        "source": "Deutsche Welle (EN 官方英语)",
+        "sourceSlug": "dw",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T06:22:00.000Z",
+        "pubTime": "2026-09-14 14:22",
+        "url": "https://www.dw.com/en/canada-seeks-unique-alliance-with-eu-carney-says/a-79254541",
+        "imageUrl": null,
+        "fullContent": "Mark Carney clarified Canada's EU ambitions amid a WSJ report that Ottawa was exploring an \"associate membership\" with the bloc.\n\nCanadian Prime Minister Mark Carney on Sunday said he was pursuing unprecedented closeness with the European Union to reduce its dependence on its economically hostile neighbor, but not a membership with the bloc.\n\n\"We're not looking to become a member of the European Union,\" Carney told reporters at the Toronto International Film Festival.\n\n\"What we are looking — and will begin discussions for — is a unique ​alliance between Canada and the European Union,\" he said. \"We share the same values, we have the same priorities and ​we have very complementary strengths.\"\n\nCarney's clarification came after a report by the Wall Street Journal claimed he was exploring whether Canada could become an \"associate member\" of the bloc. The newspaper reported that the EU was open to the idea of granting Canada associate membership — a status it would have to create for the North American nation.\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nThe remarks precede the Canadian prime minister's scheduled trip to France this week.\n\nIn Strasbourg, France, Carney will become the first head of government to attend the \"State of the European Union\" address before delivering his own speech at the European Parliament.\n\nHis visit is a \"tremendous symbol,\" said Tobias Cremer, a European lawmaker from Germany and the main sponsor of a March resolution calling for stronger EU-Canada cooperation.\n\n\"Canada has many of the resources that Europe is very much short of, whether it's in terms of energy, whether it's rare earths (and) raw minerals,\" Cremer said.\n\nCanada is already the first non-EU Nation to join the bloc's defense procurement program, while Carney was involved in Canada joining the Eurovision Song Contest for 2027.\n\nMeanwhile, Montreal is set to host an EU-Canada summit where Carney said discussions will begin on building a \"much stronger and deeper economic and security partnership.\"\n\nCanada's increasing closeness with the EU comes when the country is in the middle of an escalating trade war with its largest trading partner and neighbor, the United States.\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将加拿大寻求与欧盟建立“独特联盟”置于加美贸易冲突和跨大西洋关系重组背景下，重点强调卡尼否认寻求欧盟成员资格、但推动更紧密的经济与安全合作；报道同时突出加拿大资源、欧洲安全需求以及卡尼即将访问法国和欧洲议会等象征性与制度性动向。"
+        ],
+        "citations": [
+          {
+            "source": "Deutsche Welle (EN 官方英语)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T06:22:00.000Z",
+            "url": "https://www.dw.com/en/canada-seeks-unique-alliance-with-eu-carney-says/a-79254541"
+          }
+        ]
+      },
+      {
+        "id": "story-se-for-optimistic-sci-fi-08d6688705146e22",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Writing a better reality: The case for optimistic sci-fi (2022)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T00:27:11.000Z",
+        "pubTime": "2026-09-14 08:27",
+        "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-14 08:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+            "publishedAt": "2026-09-14T00:27:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-4eab-bcad-147acebfd2a9-8b9d5d7cb3d94156",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China’s spy agency warns of AI risk to national security",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T05:15:49.000Z",
+        "pubTime": "2026-09-14 13:15",
+        "url": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb6058f2-9993-422a-9b92-b9342ed37120.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Beijing signals growing concern over how rapid advances in technology could be used against the country",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-14 13:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-14T05:15:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-or-misusing-flock-camera-4f59c24ce24baf6f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "San Jose officer fired for misusing Flock camera database in domestic abuse case",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T01:13:18.000Z",
+        "pubTime": "2026-09-14 09:13",
+        "url": "https://www.reddit.com/r/technology/comments/1wfpdzc/san_jose_officer_fired_for_misusing_flock_camera/",
+        "imageUrl": "https://external-preview.redd.it/9C2lZUfjFij8tEFtedK6VpS2psSBtqVRQfZuWrhFk-g.jpeg?width=640&crop=smart&auto=webp&s=1b1d575adf5b7f002cd5e57d7d5cccd5b281e5a3",
+        "fullContent": "submitted by /u/ArgentineBeauty [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-14 09:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wfpdzc/san_jose_officer_fired_for_misusing_flock_camera/",
+            "publishedAt": "2026-09-14T01:13:18.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789349048857,
     "timeDisplay": "2026-09-14 09:24 (UTC+8)",
     "date": "2026-09-14",
