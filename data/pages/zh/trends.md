@@ -27,8 +27,339 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story--ally-van-tillo-obituary-c9840f75173c84f9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="402" data-content-paragraphs="2" data-published-at="2026-09-14T17:23:43.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 01:23</span>
+</div>
+
+### [阿莉·范蒂洛讣告](https://www.theguardian.com/society/2026/sep/14/ally-van-tillo-obituary)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Ally Van Tillo obituary</div>
+
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/b111b80933a456428eaf85a22a6cc72f9dd827d0/70_0_6538_5233/master/6538.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de56956222707b8b8360c2c1db30db93" alt="阿莉·范蒂洛讣告" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>活动家阿莉·范蒂洛（Ally Van Tillo）因慢性阻塞性肺疾病去世，享年67岁，他是英国艾滋病纪念被（UK Aids Memorial Quilt）的创始人。该项目是全球最大社区艺术项目的一部分，起源于美国并在世界各地设有分支，由死于艾滋病相关疾病者的朋友、伴侣、家人或同事制作的拼布被面组成。该纪念被旨在用于纪念与行动倡导，并反对污名化与同性恋恐惧症。</p>
+<p>阿莉出生于伦弗鲁郡的海滨小镇古罗克；婴儿时期被钢琴家伊丽莎白·泰勒（Elizabeth Taylor）和电气工程师约翰·休谟（John Hume）收养，并取名为阿拉斯泰尔·休谟（Alastair Hume）。早年他在古罗克与妹妹维维安（Vivienne）一起长大，随后举家迁往爱丁堡，阿莉在当地就读于乔治·赫里奥特学校（George Heriot’s school）。他在成长过程中被鼓励做真实的自己；而在他13岁时，母亲帮助他完成了出柜。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>活动家 Ally Van Tillo 因慢性阻塞性肺疾病去世，享年 67 岁。</li>
+    <li>Ally Van Tillo 是英国艾滋病纪念拼布（UK Aids Memorial Quilt）的创始人。</li>
+    <li>来源叙事重点：聚焦活动家 Ally Van Tillo 的逝世与生平贡献，着重突出其创立“英国艾滋病纪念拼布”的社会维权价值，以及其包容平稳的早期家庭成长经历</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/sep/14/ally-van-tillo-obituary" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-13-the-contagion-of-fear-746d15f88a6404de" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2596" data-content-paragraphs="15" data-published-at="2026-09-14T16:53:14.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 00:53</span>
+</div>
+
+### [恐惧的蔓延](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The contagion of fear</div>
+
+<div class="article-body" data-article-body="true"><p>我有一件难以启齿的事情需要坦白——一段我从未向任何人提起过的可耻往事，哪怕是对我最亲近的人也是如此。</p>
+<p>那是在我大一的一个深夜，当时我已经认定计算机科学是我一生的使命。彼时我正坐在大型计算机科学实验室的后排，和几名低年级同学闲聊。我们带着只有年轻和早熟才能滋生出的那种傲慢与自负，冷嘲热讽地指责大众缺乏对技术的理解。在这场讨论中的某个时刻，一个可怕的念头冒了出来：如果我们去隔壁的公共电脑实验室，告诉那里的文科生有一股电脑病毒正在他们的电脑里蔓延，会怎样？他们会相信吗？</p>
+<p>让我永生悔恨的是，我们竟然按照这个丑陋的冲动付诸行动了：我们走向隔壁挤满了正在赶期末论文的学生的实验室，用装出来的惊慌声音大喊：计算机科学实验室泄露了一种病毒，大家必须立刻弹出软盘以防扩散。</p>
+<p>接下来发生的事情彻底失控了——在技术领域，这无异于在座无虚席的剧院里高喊“着火了”。人们陷入了极度恐慌：他们不仅弹出了软盘，还直接拔掉了电脑电源；把已经断电的机器线缆强行拽下；尖叫声此起彼伏；人们四散奔逃冲出房间。我们瞬间意识到自己做了一件极其恶劣的错事，但也发现我们根本无法遏制自己点燃的这把野火。我们试图解释这只是“一个恶作剧”；有些人（理所当然地！）报以狂怒（我们到底有什么毛病才会干出这种事？！），而另一些人则根本不信：恐惧一旦生根，我们便无法将其拔除。</p>
+<p>后来的余波有些模糊——但情况非常糟糕。那是期末考试前的一周，那些拔掉电源的人丢失了劳动成果。他们怒不可遏，而我们惹上了大麻烦。</p>
+<p>第二天早上，我们被叫到了设施主管的办公室（他是一个出了名威严极盛的人），我们在那里面壁受训，低着头看着脚尖。他罚我们每人写检讨书（鉴于我内心的羞愧完全是真诚的，这封信并不难写），并让我们交出两份：一份送给我们伤害过的人，另一份留存在他的抽屉里。他态度极其坚决地告诉我们，只要我们胆敢再有任何一丝一毫类似的行为，就得另谋高就换所大学就读——而我们向他保证已经吸取了教训。（四年后我毕业时，他特意把那封信还给了我——对于他处理整件事时所展现的庄严与共情，我至今心存感激。）</p>
+<p>我本可以（也许原本也会？）把这段可耻的经历带进坟墓，但我现在觉得不得不把它坦白出来，因为在人工智能和人类灭绝威胁（！）的问题上，我从未见过所谓的科技界人士如此不负责任地散播恐惧。令人震惊的是，这绝非夸大其词：就在本周，前 Anthropic 员工雅各布·考克森（Jacob Coxon）声称——随后 Anthropic 对齐科学主管埃文·休宾格（Evan Hubinger）也表示赞同——人工智能“杀死全人类”的概率在“未来十年内大于 10%”（！！）。</p>
+<p>也就是说，这一论调不仅仅是说人工智能可能会杀死成千上万、数百万甚至数十亿人类（这些说法本身就已经足够耸人听闻！），而是说人工智能有超过 10% 的几率会消灭全人类。换句话说，如果你现在有一个刚出生的婴儿，他们的意思是在你的孩子升入初中之前，有超过 10% 的几率会以某种方式惨死在人工智能之手。</p>
+<p>这些令人毛骨悚然的言论肆无忌惮地击中了家庭的软肋，考虑到人工智能显而易见的重要性，它们跃升为主流话题并不令人意外，人们自然会问：这到底会怎么发生？但答案永远依赖于对未来的空泛推演；例如，雅各布·考克森提到了“黑客入侵关键基础设施”和“灭绝级生物武器”，却没有做进一步阐述。但考克森既不是关键基础设施方面的专家，也不是生物武器方面的专家——就此而言，他也根本不是研究人类灭绝的专家。</p>
+<p>这位 27 岁的考克森真正称得上专家的——哪怕是偶然为之——是恐惧的蔓延。我们不能指望公众理解所有技术的内部运作方式（这也是 18 岁时的我所犯下的谬误！）：技术太宽广、太深奥，且已深深扎根于我们所有人的生活之中，以至于不可能指望每个人都懂所有事情；我们在某种程度上必须信任领域专家。当这些领域专家散播恐惧时，生根发芽的往往正是这种恐惧，它的传播速度远比后续跟进的任何事实证据都要快得多。（正如乔纳森·斯威夫特在三个多世纪前的名言：“谎言展翅高飞，真相却一瘸一拐地在后头赶路。”）从这个角度来看，考克森更像是一个传播媒介而非首例病例：无可争辩的是，对灭绝风险的恐惧已经非常普遍，考克森本人很可能也是因为从别人那里听说了这些，才产生了这种恐惧。不幸的是，随着恐惧占据上风，惊慌失措的专家数量本身竟变成了一种伪证据，相反的声音被表面上一致的喧嚣浪潮彻底淹没。</p>
+<p>尽管我充分意识到这种恐惧正变得根深蒂固，但我仍然想从我自己（狭窄）的专业领域——构建计算机——提出反驳。正如我在 2023 年 Monktoberfest 演讲《仅有智能是不够的》中所反思的那样，工程行为绝不仅仅是智能行为。它们不仅需要我们人类性格维度的特质，还需要我们在物理世界中付诸行动（并在其中进行推理）。那些深信恐惧的人喜欢忽略这些细节（“机器人会搞定这些的！”），但这样做等于忽视了现实世界的物理现实：机器人如今根本无法做到这一点——而且在与这种灭绝恐慌相吻合的时间线内，它们似乎也不太可能做到这一点。</p>
+<p>更宽泛地说，数字系统在物理世界中具备何种程度的能动性，完全取决于我们——我们这些拥有臂膀、双腿、大脑、父母和孩子的人类——所赋予的权限：人工智能是在物理系统上运行的，而这些系统在设计之初就融入了人类的问责与控制机制。智能并不能让一个系统摆脱现实物理世界的法则！</p>
+<p>对于那些像考克森一样被坚定不移的恐惧所裹挟的人来说，这番话或许带不来多少安慰。但对于那些第一次听到这些恐惧言论的人：请明白，你们的怀疑是完全正当的。我们应该牢记已故学者卡尔·萨根的至理名言：非凡的主张需要非凡的证据。考克森及其同类所抛出的论调，是科技界人士所能作出的最非同寻常的主张，我们必须要求他们拿出与这种主张相匹配的真凭实据。</p>
+<p>话虽如此，我们不应指望公众去理解大语言模型、关键基础设施、生物武器、灭绝生物学等领域——这种解释的责任必须由提出主张的人来承担。数十年前我（深感惭愧地）吸取的教训是：领域专家凭借其专业知识，自然而然地赢得了公众的信任——而我们绝不能滥用这种信任。我们有责任对自己的主张保持审慎——而在拉响警报时更应极尽谨慎。</p>
+<p>因此，对于三十多年前那个深夜实验室里的人们，我很抱歉：你们当时完全无需恐惧——而且（至少就灭绝风险而言！）你们现在也完全无需恐惧。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>前 Anthropic 员工 Jacob Coxon 声称未来十年内 AI 导致全人类灭绝（kill all humans）的概率大于 10%。</li>
+    <li>Anthropic 对齐科学负责人（Alignment Science lead）Evan Hubinger 对 Jacob Coxon 关于未来十年 AI 灭绝人类概率大于 10% 的观点表示认同。</li>
+    <li>来源叙事重点：以自身大学时期散布病毒谣言引发集体恐慌的忏悔往事为隐喻，尖锐批评以 Anthropic 研究员为代表的‘AI 十年内灭绝人类概率超 10%’的末日预言是缺乏物理与工程常识的不负责任恐慌传播，呼吁公众保持怀疑，要求警报散布者承担举证责任。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--the-best-in-the-offline-a48eb15e9f714400" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1388" data-content-paragraphs="7" data-published-at="2026-09-14T16:39:55.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 00:39</span>
+</div>
+
+### [愿你在“离线世界”一切安好](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> I wish you the best in the Offline</div>
+
+<div class="article-body" data-article-body="true"><p>2026年9月14日 #生活方式</p>
+<p>我关注和认识的几个人最近相继宣布了他们的“离开”。并非从某份工作中离职（尽管这种事现在也屡见不鲜），而是离开了社交媒体、停止使用人工智能，甚至在更极端的情况下，彻底断开与互联网的连接。</p>
+<p>在《大概是永远再见吧》（Goodbye, Forever, Probably）一文中，萨尔玛（Salma）宣布退网。她给出了离开开发者关系（DevRel）岗位的充分理由——这是一份要求极高却指标模糊的工作，在产品与营销之间难以找到真正归属，因为社区建设本就不属于这两者中的任何一个。我完全理解萨尔玛为何想摆脱对指标的追逐，以及不再承担每天作为公众面孔抛头露面的要求。萨尔玛对此早有铺垫，她此前在网络上的言论中已经流露出对该行业显而易见的失望。而她真的做到了。她毅然跨入了“离线世界”，发帖之后便在互联网上销声匿迹。我没有直接联系过她，但辗转听说她信守了承诺，正在一家好公司里安分地做一名个人贡献者（IC）。我祝愿她一切顺利，也希望这段“数字脱毒”过程进展良好。</p>
+<p>还有查德·惠特克（Chad Whitacre），他用一封打字机敲出的信宣布退网。他的计划是什么？低调隐退，制作一份关于宗教的独立杂志（zine）。这听起来是个迷人的项目，但每当看到有人能做出如此不对称的重大抉择时，我总会对他们的财务状况充满好奇。他住在匹兹堡附近的一个乡村小镇，靠售卖10美元一本的独立杂志就能支撑这种生活方式吗？医保怎么解决？他有信托基金吗？是继承了一笔遗产？持有比特币？还是多年早期退休策略终于见效？我本不该用这种琐碎的资本主义现实问题去破坏反资本主义的浪漫氛围，但我确实很着迷，脑子不由自主地开始为自己计算起账目来。无论如何，我都祝愿他在离线世界里一切安好。</p>
+<p>Brett Codes分享了他的帖子《我不再使用AI（以及视频）了》（I’m done using AI (and video)）。这在算法推荐中掀起了波澜。根据后续的视频来看，布雷特似乎对自己的决定很满意，这或许归因于他是一个恪守信念的人——他是纯素食者，用的是非智能功能机等等——我认为他在摒弃世俗常规中获得了充实感。但我很钦佩他的视角：作为一个曾使用过AI、但最终决定彻底放手的人。押上自己的职业生涯去对抗所有公司似乎都在全力扩张的技术趋势，这是一个巨大的赌注。要么你是对的，这个世界永远都需要懂得软件底层如何运作的人；要么你错了，被时代抛在尘埃之后……又或者，我们大家都会被这个失控的机械怪物彻底碾压。无论如何，我都祝愿他成功拔掉插头、摆脱这台机器。</p>
+<p>我还知道其他类似的故事，但鉴于“三”是一个人们喜闻乐见的和谐数字，我就讲到这里吧。当有人彻底抛弃社交媒体时，带有一种令人伤感的讽刺：他们从我们的“在线世界”消失了，但我又发自内心地为他们感到高兴。同时我也惋惜再也听不到他们的音讯——我们无从得知他们现在的感觉有多棒，皮肤变得多么透亮，心理健康恢复得如何；我们不知道他们是赚得更多还是更少了；我们也无法从他们那里获得更多离开在线世界的启发。然而，如果能从“在线世界”窥视“离线世界”，或许就会破坏其间隐藏的魔力与神秘。它就像藏在旧衣柜深处的一扇门，你必须亲自穿过去，才能真正领会。</p>
+<p>总之，如果你也打算离开我们、追随那些先行者的脚步，我祝你在离线世界一切安好。我希望不久后也能去那里与你们相聚。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Salma 在其文章《Goodbye, Forever, Probably》中宣布退出互联网并离开 DevRel 职位。</li>
+    <li>Chad Whitacre 用打字机打出的信件宣布退休，计划在匹兹堡附近的乡村小镇制作关于宗教的独立杂志（zine）。</li>
+    <li>来源叙事重点：通过三位同行选择退出社交网络、辞去开发者关系岗位或拒绝使用AI的个案，探讨科技行业的数字化倦怠与‘逃离在线世界’趋势，反思其背后的经济门槛、职业风险与离线生活的神秘感。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-bout-unix-domain-sockets-ac1293c0d8ff5578" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4169" data-content-paragraphs="24" data-published-at="2026-09-14T16:27:12.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 00:27</span>
+</div>
+
+### [你怎么能不对 UNIX 域套接字心生浪漫？](https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets)
+<div class="original-title-sub"><span class="orig-tag">原文</span> How can you not be romantic about UNIX domain sockets?</div>
+
+<div class="article-body" data-article-body="true"><p>今年夏天早些时候，我在 DEFCON 34 大会上做了一场关于 iOS 的技术演讲（可以搜索“Rage Against the Sandbox”），而在台上展示 Demo 时，程序一启动就崩溃了。我假装淡定地直接重新运行了一遍 Demo，随后一切运行得都相当顺畅。</p>
+<p>老实说，当时我正为一个成功率仅有 36% 且即将展示的 1-day 本地提权（LPE）漏洞利用（DarkSword）紧张得不行，以至于这次崩溃压根没让我分心。但毕竟是在拉斯维加斯，我想着“去他的”，结果老天眷顾，在台上第一次尝试就大获成功（不算最开始那次崩溃，因为它与漏洞利用无关）。</p>
+<p>回家后，在公开代码之前，我开始对该项目进行收尾工作，这也让我想要深入排查那次崩溃的原因。</p>
+<p>我注意到，这种崩溃总是只在 iOS 设备刚开机（冷启动）后才会发生，从第二次运行开始就绝不会出现。这很奇怪，因为这意味着它不受 ASLR（地址空间布局随机化）或多线程竞态条件等随机因素的影响。</p>
+<p>我们来了解一下技术细节。我的项目是一个在 iOS 应用程序内部运行 SSH 服务器的虚拟机（VM）。其前提是 iOS 不允许应用程序创建子进程。该虚拟机通过覆写进程创建相关函数来实现多进程语义。它并非真正创建新进程，而是在同一个进程中创建拥有复制资源与内存的线程。此外，该虚拟机还实现了一种逻辑上的代码签名绕过机制；在演示中，所有这些组件配合协作，通过一个天生需要多进程支持作业控制（Job Control）与 TTY 的 SSH 连接，运行了一个未签名的 1-day 漏洞利用程序。</p>
+<p>由于 TTY 规范规定每个进程只能有 1 个控制终端，我们无法依赖 iOS 内核的原生实现，否则我们将无法通过同一个 iOS 应用进程建立多个 SSH 会话。该虚拟机在用户空间实现 TTY：通过创建一对相互连接的 UNIX 域套接字（UNIX domain socket），并对传入两端的数据进行预处理（例如当主端发送 Ctrl+C 时，从端会收到 SIGINT 信号等）。崩溃正是发生在 SSH 连接初始化期间的某个位置，该阶段正在为该会话配置 TTY 的主/从端。</p>
+<p>由于文件描述符可以被 dup() 随意复制，我保留了 UNIX 域套接字两端最初的 inode 编号，并借此区分文件的 TTY 模式（主端/从端）。崩溃发生在 VERIFY(tt-&gt;t_sfd_ino == st.st_ino) 处。该完整性检查失败，导致虚拟机崩溃（panic）。在我看来，这似乎是某种内存损坏，因为文件描述符不可能无缘无故改变其关联的 inode。</p>
+<p>崩溃本身发生在 SSH 连接建立之初，当时 SSH 服务器正通过其主端修改 TTY 的某些终端属性，进而调用到了用户空间的 TTY 实现。该 SSH 服务器使用的是 dropbear——一个流行的开源嵌入式 SSH 实现，而我的代码挂钩（hook）了操作系统函数，将执行流程重定向到虚拟机中。我原以为问题出在我自己的代码实现中，而不是存在于那些历经多年考验的代码库里。</p>
+<p>在对虚拟机内部 fstat() 返回的 inode 编号进行调试后，怪事出现了。这看起来已经不再像是内存损坏了。现象表明：对套接字某一端调用一次 fstat()，接着在对该套接字的同一端发起第二次 fstat() 调用时，居然返回了不同的 inode（第二次调用位于上文所示的代码片段中）。</p>
+<p>在进行了更多调试以试图说服自己是自己的代码出了问题之后（难道是我执行 fstat() 的套接字发生了变动？？），我彻底懵了，觉得一切都讲不通。代码看起来没毛病，系统重启后首次运行 Demo 时崩溃百分之百复现，必然是别的地方出了问题。于是，我做了那个我一直在回避却显而易见的选择：直接去看内核源码。于是我翻开了代码：</p>
+<p>uipc_sense() 的那段代码实现了将套接字的 inode 提取到 struct stat 的 st_ino 字段中的逻辑。可以看到，该实现采用了延迟赋值（lazy assignment）：在对目标套接字首次调用 stat 时（unp-&gt;unp_ino == 0），从名为 unp_ino 的全局变量中为其分配一个 inode。</p>
+<p>你能看出这里的 Bug 吗？</p>
+<p>如果你还想自己找找看，最好先停下来别往下读，因为下一句话就会揭晓答案。这个 Bug 与全局变量上的竞态条件无关（其确定性表现已证明了这一点），而纯粹是全局变量的使用方式有误——代码本应写成 ++unp_ino，而不是 unp_ino++。全局变量 unp_ino 被初始化为 0（大多数全局数据理应如此），而条件检查 (unp-&gt;unp_ino == 0) 假定 0 意味着套接字上的 inode 字段未初始化。然而，系统启动后对 uipc_sense() 的有史以来第一次调用，会导致 unp_ino++ 返回 0（而 ++unp_ino 则会返回 1）。这导致系统中有史以来第一个被调用 fstat() 的套接字（获得了 inode 0），在第二次对其进行 stat 调用时，其 inode 会变成其他值，原因正是系统误认为 0 代表未初始化的 inode。</p>
+<p>首先，尽管从安全角度来看这并不是一个非常高危的 Bug，但在 DEFCON 演讲台上发现了一个能破坏用户空间的内核逻辑漏洞，着实让我大吃一惊。当时，我还不知道这个 Bug 在操作系统中存在了多久，但我忍不住想：到底有多少程序会受此 Bug 影响？此外，我的 Demo 到底何德何能，竟然成了整台 iPhone 上有史以来第一个对 UNIX 域套接字调用 fstat() 的进程？市面上的每台 iPhone 中，是否都有某个系统服务持有着某个 UNIX 域套接字的错误 inode 呢？</p>
+<p>其次，内核端的修复极其简单。但由于我的代码需要向下兼容旧版本，我可能需要添加一个苹果平台专有的检查：如果拿到的 inode 编号为 0，就重新调用一次 fstat()。这激发了我的好奇心：如果修复该漏洞之前的所有 iOS 版本都受其影响，那么这个 Bug 到底是在什么时候引入的？它可以追溯到多久以前？</p>
+<p>搞清楚这个 Bug 资历有多老的最直接办法是：直接翻开 GitHub 上 XNU 的最早一次提交，查看 uipc_sense()。这是 2001 年 3 月 24 日随 Mac OS X 10.0 一起发布的 XNU 123.5：</p>
+<p>代码更简单，但 Bug 依旧赫然在列。这可以追溯到 25 年前，即 Mac OS X 发布之时。我们开始逐渐摸清了情况：这个 Bug 早在互联网泡沫刚过、Mac OS X 的第一个版本发布时就已经存在了。这意味着所有现代 macOS 和 iOS 软件都受到了该 Bug 的影响。很好，既然大家都会中招，那我更想顺藤摸瓜找出这个 Bug 的源头了。</p>
+<p>2001 年发布的 XNU 内核是 Rhapsody 内核的延续，而 Rhapsody 内核基于 Mach 2.5 和 4.4BSD 内核。Mach 一直是核心，BSD 层则构建于其上。因此，你会看到有人将 XNU 称为“混合”内核（2 个内核混编为一个）。但真正重要的是，该内核是对苹果在 1997 年收购 NeXT 后引入的 NeXTSTEP 内核的彻底重构。NeXTSTEP 内核最初于 1989 年发布，基于 Mach 和 4.3BSD。由于该代码闭源，直接去查阅大约同一时期的 4.3BSD 源代码（4.3BSD-Tahoe）会省事得多：</p>
+<p>当时，uipc_sense() 并不是一个独立的函数形式，而是处理 UNIX 域套接字所有用户空间请求的庞大 switch-case 语句中的一小段 case 代码片段。有趣的是，你可以看到 XNU 123.5 和 4.3BSD Tahoe 的逻辑几乎保持着一模一样的方式，因此完全可以说，这个 bug 一路幸存并贯穿了 NeXT 到苹果（NeXT-Apple）时代。从 2001 年往前推 12 年到 1989 年，真是绝了！</p>
+<p>进一步深挖一些历史“提交”（毕竟当时还没有 Git），发现 unp_ino++ 这一行最后一次更改似乎是在 1985 年 12 月 20 日（unix-history-repo 提交 18a9fea），当时此前的代码是：</p>
+<p>看起来在该次提交之前，UNIX 套接字的 inode 机制根本就是彻底坏掉的：每次调用 fstat() 都会分发一个不同的 inode。而在此之前该区域的变更发生在 1985 年 5 月 28 日（提交 628f1f5）：</p>
+<p>根本没有 st_dev 或 st_ino，对 UNIX 域套接字执行 fstat() 只会返回单纯的零。引起我注意的是，这次 5 月 28 日变更的提交信息（可能是从当时的版本控制软件中提取出来的）是“为天真的人伪造 inode 编号与 dev”（fake up inode numbers and dev for the naive）。虽然我们无法确切知道最初的开发者究竟是什么意思，但我想，我刚刚被一条 41 年前的提交信息骂成了“天真”。</p>
+<p>我们在此可以推测出的故事是：大约在 1985 年 5 月，第一个用户空间程序在 BSD 上对 UNIX 域套接字依赖了 fstat()，并且有人足够在意并要求实现它。不仅如此，到了 1985 年 12 月，还有人非常在意并要求同一个套接字的 inode 应当保持一致（正如你所期望的那样），而不仅仅是每次调用 fstat() 都吐出一个不断递增的数字。看起来，在内核开发者眼中，那个人似乎也很“天真”，哈哈。好吧，我无法确切知道 40 年前的伯克利究竟发生了什么，但 UNIX 域套接字的 inode 似乎确实只是一个可能被当作实验性原型的微小特性，此后从未被真正妥善地重新审视过。看到这样一个小状况如何从伯克利的实验室穿过海湾大桥来到库比蒂诺，并在最新版本的 iPhone 中留下印记，真是令人感慨。</p>
+<p>在登上 DEFCON 主舞台之前，务必把演示 demo 验证得更充分一些。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-15 00:27 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ll-id-be-in-real-trouble-f588386e5de80f3d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="311" data-content-paragraphs="5" data-published-at="2026-09-14T16:09:12.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 00:09</span>
+</div>
+
+### [如果眼神能杀人，我可就真惹上大麻烦了 | 读者来信摘要](https://www.theguardian.com/lifeandstyle/2026/sep/14/if-looks-could-kill-id-be-in-real-trouble)
+<div class="original-title-sub"><span class="orig-tag">原文</span> If looks could kill, I’d be in real trouble | Brief letters</div>
+
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/4c2fe9ceabe8158e0c9e9320597bb7a16a582560/818_0_3874_3100/master/3874.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=321e3d448f699b1cecebd9bd8d16829b" alt="如果眼神能杀人，我可就真惹上大麻烦了 | 读者来信摘要" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>默认面部表情 | 咖啡温度计 | 离开英国 | 姓名决定论之乐</p>
+<p>阿德里安·奇尔斯真该庆幸自己的面容仅仅是看起来“愁眉苦脸”（见9月9日《我一辈子都看起来愁眉苦脸。是时候做出改变了》）。在我那令人敬重的妻子建议下，每当我向新同事做自我介绍时，我都会提醒他们：如果我看起来像是想要杀了他们，那只是我的默认表情，我仅仅是在思考，并非在评判。</p>
+<p>白金汉郡哈登汉姆</p>
+<p>• 既然大名鼎鼎的牛津大学都告诉我们，弄清热饮的温度如今至关重要（见9月9日《研究发现，饮用极烫饮料可能使患食管癌风险增加两倍》），那我可就期待着收到英国国家医疗服务体系（NHS）发放的咖啡温度计了——同时也期待着下一届搞笑诺贝尔奖的颁发。</p>
+<p>阿盖尔-比特区奥本</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-15 00:09 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theguardian.com/lifeandstyle/2026/sep/14/if-looks-could-kill-id-be-in-real-trouble" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-influenced-your-thinking-b8e2d98727c9398d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1881" data-content-paragraphs="1" data-published-at="2026-09-14T15:27:32.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 23:27</span>
+</div>
+
+### [哪些博文对你的思维影响最大？](https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking)
+<div class="original-title-sub"><span class="orig-tag">原文</span> What blog posts influenced your thinking the most?</div>
+
+<div class="article-body" data-article-body="true"><p>很想听听大家的看法，我通常能从中获益匪浅。<br />对我来说，必定是《解析，勿验证》（Parse, Don’t Validate）以及早期的“Joel谈软件”（joelonsoftware）。<br />我的清单记录在这里。大约三年前我开始整理，因为当时我已经遗憾地遗漏了不少好文。<br />哇，太棒了，谢谢，这成了我近期必读的书单！<br />关于简单性，我还很喜欢《为什么瓦萨号沉没了，C++却能扬帆起航》（Why C++ Sails When The Vasa Sank）。<br />我的一份类似清单在这里：https://matklad.github.io/links.html<br />太好了，多谢。我一直想扩充元数据（meta）部分的内容。消磨时间时很管用 :)<br />我是桑迪·梅茨（Sandi Metz）的忠实粉丝，我最喜欢的作品之一是《错误的抽象》（The Wrong Abstraction）。抽象在我们的手艺中极其重要，但错误的抽象比完全不抽象还要危险。<br />自智能体（agent）时代开启以来，我还没重读过这篇文章。现在读来感觉有些不同，因为天哪，智能体真的非常喜欢墨守前人留下的陈规陋习，甚至比人类还要严重。对于人类，我只需把这篇文章链接发给他们，告诉他们不要为不太可能出现的未来编写便利代码。有时需要提醒一两次，但他们总能理解。而智能体永远学不会，代码最终会变成一堆难以处理的上下文对象，以及逻辑分布在毫无意义之处的烂摊子。<br />他在社区里有一些黑粉（值得注意的是，人们对一个博主抱有任何看法本身就说明其影响力），但我真的很喜欢肖恩·戈德克（Sean Goedecke）关于如何切实交付成果的文章：https://www.seangoedecke.com/how-to-ship/<br />实际上，在大型科技公司里，即使从未真正交付过任何东西，也完全有可能建立起成功的职业生涯。在进行越来越多的测试和验证时，我很容易陷入完美主义者那无休止创造力的魔咒，导致出现某种芝诺悖论般的境地：在完成某件事之前，我被解决没完没了的琐碎问题弄得精疲力竭。因此，我觉得这篇文章非常实用，它强调要不断扪心自问此时此刻交付某样东西的最短路径是什么，以及“交付”在社会层面上是如何被构建的。<br />《你不需要攻克难题》（You Don&#39;t Need to Work on Hard Problems）用文字表达出了我在职业生涯第七或第八年时的感悟。我认为很多人都会从中受益。<br />https://www.benkuhn.net/hard/<br />《与基础程序员为伍》（slumming with basic programmers）很好地提醒了人们：交付最终产品的价值远高于拥有完美的代码库。它并没有真正影响我的工作方式，但绝对改变了我审视整个行业的视角。<br />我经常思考这篇：https://calebhearth.com/dont-get-distracted<br />相比阅读博文，撰写博文对我的影响更大。这就像是我完整的思考过程。<br />这可能出乎你的意料，但 aphyr 写的《技术面试排字记》（Typing the technical interview）及其相关文章让我看到了写编程文章可以多么风趣幽默，并永远激励着我（我真的非常想找机会模仿写一篇，但我敢肯定写不了那么好）。<br />引起共鸣的技术文章不胜枚举，但我记不清那么多了。<br />近年来对我影响排第一的是：《形式化方法只能解决我一半的问题》（Formal Methods Only Solve Half My Problems）https://brooker.co.za/blog/2022/06/02/formal.html。<br />Moron Lab 的这篇博文对我影响极深。此后我构建的许多应用程序都采用了这种模式：包含一个或一组消息循环，其纯函数式核心返回新状态及副作用。这篇文章还阐述了标准应当趋于稳定而非盲目演进的观点。<br />（这并不代表我认可该作者的其他文章，也不代表我认可文中所概述的项目在16年后的今天所演变成的样子。）<br />此外，虽然不是博文，但里奇·希基（Rich Hickey）的《简单即容易》（Simple Made Easy）和《价值的价值》（The Value of Values）在宏观层面探讨的也是同一主题。<br />塔可贝尔式编程（Taco Bell Programming）<br />https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-14 23:27 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--only-twelve-4x4-sudokus-62e5bd49e30a1c3b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5644" data-content-paragraphs="53" data-published-at="2026-09-14T15:00:16.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-14 23:00</span>
+</div>
+
+### [4x4 数独其实只有十二种——以及寻找极小线索子集的一个巧妙绝招](https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets</div>
+
+<div class="article-body" data-article-body="true"><p>4x4 数独其实只有 12 种！……或者 288 种，这取决于你如何定义“不同解”。</p>
+<p>今天我们要钻的牛角尖是：究竟存在多少种独特的 4x4 数独解（以及可能的数独题）？为什么探究这个？我也不知道，脑子里突然冒出了这个问题，而且我觉得答案还挺有意思的。</p>
+<p>如果你不熟悉的话，4x4 数独是一个由行、列和 2x2 宫格组成的 4x4 网格，目标是在每个单元格填入 1 到 4 的数字，使得每一行、每一列和每一个宫格中，每个数字都恰好出现一次。</p>
+<p>这实际上是更为标准的 9x9 数独（类似地被划分为 3x3 宫格）的一个缩小版特例。它可以推广到 N×N 的数独，其中 N = n²（n 为某个整数）。当 n=2 时就是 4x4 数独，下一步当 n=3 时则是 9x9 数独。</p>
+<p>通常这类谜题始于一个部分已填好的网格（毕竟为空白网格寻找一种解法轻而易举）。不过，暂时而言，我们把从全空格初始状态出发的任何一种合法填法都视为“解”。</p>
+<p>例如，以下是 4x4 数独的三种不同合法解：</p>
+<p>如果我们仔细观察给出的这些解，会发现它们各自的“不同”并不属于同一种性质。解 (B) 实际上只是把解 (A) 中所有的 1 和 2 互换后的结果。</p>
+<p>在常规数独（即非变体数独）的语境下，我们用来填入网格的数字只是一组没有实际数学意义的符号。如果我们愿意，完全可以用“🔴、🟣、🔵、🟢”代替“1、2、3、4”来解同一道题，谜题的本质毫无变化。同理，如果我们不是把数字换成带颜色的形状，而是将数字与其他数字进行互换，谜题本质同样保持不变。</p>
+<p>从这个角度来看，我们可以将解 (A) 和 (B) 理解为对同一个谜题使用了不同的符号：它们具有相同的底层结构。反之，(A) 和 (C) 在结构上是不同的：无论我们怎么置换数字，在解 (A) 中，第 2 行第 1 列和第 1 行第 4 列的单元格包含相同的符号，而在解 (C) 中，这两个单元格包含的则是不同的符号。</p>
+<p>因此，我们要问的问题是：<br />总共存在多少个 4x4 数独解？在这些解中，究竟有多少个是真正（结构上）不同的？</p>
+<p>我们先从简单的问题入手：一共存在多少个 4x4 数独解（允许结构相同）？幸运的是，我们处理的数据规模非常小，这意味着我们可以在零点几秒内通过暴力穷举来解决这个问题。</p>
+<p>（朴素的）做法是从一个空网格开始，针对每个单元格计算剩余的可能取值，并通过深度优先的方式递归探索每一个可能的值：</p>
+<p>在大约半秒钟内，这段代码应该会输出：<br />只有 288 种可能的解！与标准 9x9 数独的 6,670,903,752,021,072,936,960 种可能解[1]相比，这简直微不足道（9x9 是 n=3 时的下一个可能规模[2]）！</p>
+<p>与此同时，通过一些极其粗糙的草算，我们可以给出关于解的数量随 N 变化的极粗略近似：如果忽略列和宫的约束，仅考虑行约束，那么每一行都有 N! 种可能组合，总共有 N 行，使得可能组合的总数为 N!^N = (n²!)^(n²)。</p>
+<p>需要注意，这是一个非常糟糕的上限：如果我们把这个公式用在 n=3 上，会得到 ≈10⁵⁰，远高于正确答案 ≈6.6 × 10²¹。</p>
+<p>尽管如此，n=2 很小，n=3 很大！</p>
+<p>现在我们要计算真正不同的解，也就是一个解可能具备的不同结构形态。</p>
+<p>我们已经看到，对于任意一个解，我们都可以对数字 1、2、3、4 进行任意置换从而得到一个新解。由于存在 4! = 24 种这样的置换，这意味着每种结构都被重复计算了 24 倍。因此在理论上，真正不同的解的数量应该是：<br />288 / 24 = 12 种不同的解</p>
+<p>还有另一种思考该问题的方法，它能让我们复用前面那段糟糕的 Python 代码。关键事实如下：</p>
+<p>那么，思路如下：对于任意给定的解结构，我们把第一行的第一个符号称为 1，第一行的第二个符号称为 2，依此类推至 3 和 4。通过这种方式，我们就可以用第一行以 1 2 3 4 开头的对应解来代表每一种结构。</p>
+<p>注意，如果两个不同的解 S₁ 和 S₂ 都以 1 2 3 4 开头，那么它们在结构上也必须是不同的：</p>
+<p>这就为“所有可能存在的不同结构”与“以 1 2 3 4 开头的可能解”之间建立了一一对应关系。因此，为了获得所有可能结构的数目，我们只需计算所有以 1 2 3 4 开头的可能解即可。要统计这些，我们只需将代码中的 emptySudoku 初始化为以 1 2 3 4 开头：</p>
+<p>如果我们运行这段代码，就会得到……<br />太棒了！我们糟糕的 Python 代码给出了与理论预期完全一致的结果。以下是除去数字置换后所有可能存在的不同解：</p>
+<p>到目前为止，我们都忽略了数独谜题的一个核心要素：初始配置。数独谜题始于预先填好的部分数字，例如下面的网格：</p>
+<p>而解题过程就是将网格的剩余部分填满。一般来说，它要求这个部分填写的状态具有且仅有一个唯一解：例如，仅填入一个数字的网格就不是一道合法的数独题，因为仅基于这一个数字去填满剩余网格会有许多种可能的方式。</p>
+<p>我们想知道一共存在多少道这样的数独题（部分填满的网格）。在开始之前先做个明确说明：我们要剔除无趣的谜题。例如，以下谜题就是无趣的：</p>
+<p>虽然它的确是部分填写的且拥有唯一解，但它不是极小（minimal）的：我们本可以用更少的提示数得到完全相同的唯一解。</p>
+<p>因此我们只对极小谜题感兴趣：如果拿掉已给出的任何一个数字，该谜题的解就会变得不唯一，那么该谜题就是极小的。</p>
+<p>那么，一共存在多少个 4x4 极小数独谜题？</p>
+<p>我们可以写一些更加糟糕的暴力穷举 Python 代码来找出答案。其基本思路如下：</p>
+<p>如果你运行上述代码，（在煎熬地等待 2 到 3 分钟之后……）你会得到可能谜题的数量是 85632，但我认为真正有趣的部分在于我们究竟是如何找到它们的。</p>
+<p>首先，我们需要对解的所有子集进行遍历。虽然 Python 原生并没有针对任意给定列表生成子集迭代器的函数，但我们可以通过将子集表示为位掩码（bitmask）来自己实现：给定一个元素列表和一个子集，对于每个元素，如果它不在子集中则标记为 0，如果在子集中则标记为 1。这就得到了子集的二进制表示。至关重要的是，如果原始列表的大小为 S，我们恰好分配 S 个比特位，因此对应子集的二进制数将介于 0 到 2^S - 1 之间（在我们的例子中 S = N^2）。因此，如果我们遍历从 0 到 2^S - 1 的每一个数字并将每个数字视为二进制掩码，就能遍历每一个子集。</p>
+<p>真正绝妙的技巧在于：回想一下，我们必须确保接受的任何谜题都是极小的（minimal），这意味着不存在任何其他谜题是当前谜题的子集。这与我们在代码中所做的非常接近，但有一个微妙的区别：在代码中，为了接受一个谜题，我们仅仅检查是否有“先前已经见过”的谜题是当前谜题的子集。我们只针对已知的谜题进行比对，而不是所有可能的谜题。</p>
+<p>然而，这两种做法是等价的！例如，假设我们发现了一个有效的谜题 P，但它不是极小的。这意味着存在另一个谜题 Q 是 P 的子集。如果是这种情况，凡是 Q 的位掩码中为 1 的位置，P 的位掩码中也必定为 1。这为我们提供了一种通过位掩码和位运算高效检查“子集性”的方法：bitmask(P) &amp; bitmask(Q) == bitmask(Q)。但至关重要的是，这也意味着 bitmask(Q) 是一个小于 bitmask(P) 的数值。鉴于我们的遍历顺序，这意味着当我们遍历到 P 时，我们已经遍历过了 P 的所有可能子子集（sub-subsets），因此仅与“已见过的”谜题比对，就等价于与所有可能的子子集进行比对！</p>
+<p>同理，如果你在寻找极大子集而不是极小子集，也可以应用同样的技巧。要检查某个子集 Q 是否是 P 的超集，检查条件变为 bitmask(P) &amp; bitmask(Q) == bitmask(P)，并且必须反转遍历顺序。</p>
+<p>我们当然可以直接用 n=3 来运行这段代码，但按现有写法，该代码的复杂度（至少？大约？[3]）为：<br />O(2^{N^2 \cdot N!})<br />我们很幸运，它在 n=2 时能在合理的时间内运行完成。根据上述近似公式，并已知 n=2 的情况运行了约 200 秒，我们可以看出 n=3 的情况至少需要宇宙年龄的 10^8848128 倍时间。</p>
+<p>如果你在网上查阅，会发现 9x9 情况下的可能谜题数量至今未知（目前仅给出了一些上下界[4]）。</p>
+<p>4x4 的不同解其实只有 12 种！如果不考虑置换等价，则有 288 种！并且只有 85632 个可能的起始盘面，若按置换等价归类，则仅有 3568 个！</p>
+<p>如果将它们以 4 厘米见方的大小打印在 A4 纸上（我认为这个尺寸比较舒适，但你也可以印得更小），置换等价归类后的盘面仅需 102 页，而有史以来所有可能的 4x4 谜题总共也只需 2247 页！</p>
+<p>如果你每天解一页（我估计一旦熟练起来，你大约 30 秒就能解出一道，因此每页用时不到 20 分钟），你就能在不到 7 年内解完所有可能的 4x4 谜题（或者 102 天解完全部置换等价类）。</p>
+<p>之后你就可以到处对人说：“我已经把 4x4 数独全做完了。”货真价实地做完了所有的题。</p>
+<p>你应该这么做吗？我不知道。也许吧？每天花 20 分钟做这个总比做更糟糕的事强，这算是一种轻松的脑力锻炼，如果你进入心流状态，它还能让人放松并带有某种冥想的效果。而且你还可以到处吹嘘：“我已经把 4x4 数独全做完了。”</p>
+<p>此外，我发现这些数字挺有趣的，但或许我们原本就应该预料到类似的数量级。毕竟，4x4 数独并没有那么复杂，而比它低一级的（2x2 数独）又微不足道，所以这个结果并不出人意料。与此同时，市面上有大量售卖 4x4 数独的书籍和应用，这就让“可能解只有 288 种”这个事实显得有点奇特了。</p>
+<p>并非所有的解都是平等的。大多数解（288 个中的 192 个）对应有 304 个极小谜题能解出它们，但相当一部分解（288 个中的 96 个）仅对应 284 个极小谜题。为什么会这样？这种结构的何种特征导致部分解对应更多谜题，而另一些解对应的更少？</p>
+<p>正如我们前面所说，一共有 12 种不同的解，即 12 = 3x2x2。将第一行固定为 1 2 3 4（这正是允许我们计算不同结构的方法），这个 3x2x2 似乎暗示了这样一种可能：或许可以在网格中找到三个单元格——一个有 3 种可能填入的数字，另两个分别有 2 种可能填入的数字（彼此之间完全独立）——它们一旦确定，就能唯一确定整个解。</p>
+<p>情况……几乎是这样，但并不完全是，而且我找不到一种方法将其组织成一个优雅的论证。</p>
+<p>例如，让我们看看三个看似大致独立的单元格的情况：第 2 行第 1 列（r2c1）、第 3 行第 3 列（r3c3）、第 4 行第 2 列（r4c2）。<br />确实，r2c1 有两种可能的值（3、4），这贡献了总数 12 中的因子 2；而无论 r2c1 取何值，r3c3 都有三种可能的值（1、2、4），这贡献了总数 12 中的因子 3。然而，r4c2 的情况就稍微复杂一些了。</p>
+<p>例如，如果我们选择 r3c3 = 2，那么 r4c2 可以是 1 或 3（两者都会导向唯一的解）；但如果我们选择 r3c3 = 1，那么 r4c2 就被迫只能是 1。r3c3 = 4 的情况更糟糕！如果我们选择 r3c3 = 4 且 r2c1 = 3，那么 r4c2 有两个可能的值（1 和 3），但选择 3 并不能得到唯一解！</p>
+<p>当然，我们完全可以采用树状分支的方式逐步推进，先确定一个单元格的值，再确定另一个，然后再确定下一个，以此证明总共有 12 个叶节点。但是，接下来选择哪个单元格取决于我们处于哪个分支，这会导致论证过程极其繁琐凌乱，写起来非常折磨人。</p>
+<p>在上面那些糟糕的代码中，为了寻找谜题，我们遍历了所有可能的子集。然而，这种做法极其浪费算力。例如，如果一个子集的单元格数量少于 N-2，则其对应的解经证明绝不唯一（谜题中必定至少有两个数字从未出现过，在解中互换它们会产生一个新解，但谜题本身保持不变）。</p>
+<p>类似地，如果子集过大，它极有可能不再是极小的。问题在于多大才算“过大”。例如在 9x9 的情况下，存在给出 40 或 41 个数字的极小谜题[1:1]，这意味着为了保险起见，子集大小的上限至少应设为 N^2 / 2，甚至更多。</p>
+<p>一旦我们确定了子集单元格数量的上限和下限，就可以按如下方式进行过滤：<br />包含糟糕 Python 代码的仓库：github.com/Fran314/how-many-4x4-sudokus<br />谜题与解（CSV）：</p>
+<p>谜题与解法（txt/ascii）：<br />谜题与解法（txt/unicode）：<br />puzzles-with-solutions.tar.gz (tar.gz, 694 KB)<br />https://en.wikipedia.org/wiki/Mathematics_of_Sudoku ↩︎ ↩︎<br />是兴奋/感叹，不是阶乘 ↩︎<br />我认为，在不知道给定解的可能谜题数量闭式公式或可能解的数量闭式公式的情况下，无法计算出该代码的实际计算复杂度。我通过一种大刀阔斧的粗略近似来获得这个数值：我将子集迭代内部的逻辑视为常数，并假设至少存在 N!N!N! 个解（显然，实际解的数量要多得多：N!N!N! 仅仅是从单个解的所有排列中所能得到的数量）↩︎<br />https://math.stackexchange.com/questions/856478/how-many-sudoku-puzzles-are-there-with-at-least-one-solution ↩︎</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-14 23:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-l-maps-within-30-minutes-fc35228dec994854" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1250" data-content-paragraphs="18" data-published-at="2026-09-14T13:37:36.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1219" data-content-paragraphs="18" data-published-at="2026-09-14T13:37:36.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -37,34 +368,33 @@ notice:
   <span class="news-meta-time">🕒 2026-09-14 21:37</span>
 </div>
 
-### [30分钟内搞定航测制图](https://blog.zm.is/finished-aerial-maps-within-30-minutes/)
+### [30分钟内完成航测建图](https://blog.zm.is/finished-aerial-maps-within-30-minutes/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Finished aerial maps in under 30 minutes</div>
 
-<div class="article-body" data-article-body="true"><p>我最近入手了一台大疆 DJI Lito X1，并决定看看能把它推向什么极限。航空测绘听起来令人兴奋：短短几分钟内，你就能超越谷歌地图的影像质量，并永久拥有一张某个地点的参考地图。</p>
+<div class="article-body" data-article-body="true"><p>我最近入手了一台 DJI Lito X1，并决定看看能把它推到什么极限。航测建图听起来令人兴奋：只需几分钟，你就能超越谷歌地图的影像质量，并永久拥有某个地点的参考地图。</p>
 <p>我们需要确保飞行速度不要太快，否则相机将无法跟上，最终生成的地图中就会出现缝隙和错位。</p>
-<p>正如你所见，我发现飞行高度 80 米、速度 3.5 米/秒的效果很好。较低高度的飞行分辨率更高（显而易见），但耗时更长。毕竟这完全是三角学原理：相同的视场角（FOV）在较低高度覆盖的范围更小。</p>
-<p>大疆并没有让这一切变得轻松。DJI Fly 应用程序没有航线导入功能。</p>
-<p>在应用中打开“航线飞行”（Waypoint Flight），添加几个毫无用处的航点，以此创建一个占位任务。我们不会用到这些航点，但添加它们是必不可少的。</p>
-<p>是的，真的如此，这意味着你必须专程起飞一次，只为了添加这些你根本用不上的航点，因为你在地面上无法添加任何航点。</p>
-<p>这会在设备上生成 /sdcard/Android/data/dji.go.v5/files/waypoint/ / .kmz 文件，令人沮丧的是，你只能通过将设备连接到电脑才能看到它。我使用了 adb。你需要找到下载好的 KMZ 文件，并用它替换掉原来在那里的 .kmz 文件。不要更改文件名。</p>
-<p>乍看该文件夹，应该看不出你做过任何修改。</p>
-<p>幸运的是，大疆提供了如何进入航线飞行的教程，但既然你之前已经添加过航点，你应该知道该点哪里。你会注意到之前添加的航点已经消失，预设好的航线现在已经在设备上清晰可见。</p>
-<p>你真的只需要点击开始并等待。我简直无法形容这有多么酷炫。它会自动起飞，飞往第一个航点，飞完全程航线，一路上拍照（本例中拍摄了 36 张），然后自动降落。</p>
-<p>我在这里把地图视图最大化了，因为那里比空旷的田野有更多有趣的东西可以看，但以防万一，你可能还是需要留意相机画面。</p>
-<p>降落后，只需直接全选当天的照片，目标是让照片数量与在“航线飞行”中看到的一致。如果拍了 36 张，你就需要下载 36 张。如果在测绘完成后你还进行了休闲飞行，请务必先选齐所有测绘照片。</p>
-<p>如有疑虑，全部下载即可。每张照片都带有地理标记。我们并不太在乎照片是否严格在航线的每个航点上精确拍摄。瓦片处理服务器会根据每张照片中的地理信息来计算生成地图，并丢弃云台没有垂直朝下的照片。因此，就算不小心把非测绘照片也提交给了处理服务器也没关系——我知道在移动设备上管理这么多照片确实很繁琐。</p>
-<p>这一步可以通过手机或电脑以多种不同方式完成，具体取决于遇到了什么故障（反正迟早会出点岔子）。</p>
-<p>为了处理这些照片，我使用了一台通过 Tailscale 连接的现场机器。</p>
-<p>随后它会拼接地图，生成完毕的瓦片会被拉取回 Zeitgeist Survey 的云端服务器。</p>
-<p>搞定！这就是 Zeitgeist Survey 能力的端到端演示。从规划到最终交付地图，耗时不到 30 分钟。</p>
+<p>如你所见，我发现 80 米高度下 3.5 米/秒的速度非常有效。较低高度的飞行分辨率显然更高，但耗时也更长。毕竟这都是三角学问题——相同的视场角（FOV）在较低处覆盖的范围更小。</p>
+<p>大疆并没让这件事变简单。DJI Fly 应用没有航线导入功能。</p>
+<p>通过在应用中打开“航点飞行”并添加一些无用的航点，来创建一个占位任务。我们不会用到它们，但添加它们是必不可少的。</p>
+<p>是的，真就这么离谱，这意味着你必须单纯为了添加这些根本不会用到的航点而起飞，因为在地面上时你无法添加任何航点。</p>
+<p>这将在设备上生成 /sdcard/Android/data/dji.go.v5/files/waypoint/ / .kmz 文件，令人沮丧的是，你只能通过将设备连接到电脑才能看到它。我使用了 adb。你需要找到下载的 KMZ 文件，并用它替换那里现有的 .kmz 文件。不要更改文件名。</p>
+<p>乍一看文件夹，应该看不出你做过任何更改。</p>
+<p>幸运的是，大疆提供了如何进入“航点飞行”的教程，不过既然你已经添加过一些航点，你应该知道去哪里找。你会注意到之前添加的航点不见了，而在设备上现在显示的是预先规划好的飞行航线。</p>
+<p>你真的只需要点击开始，然后等待即可。我再怎么强调这有多酷也不为过。它会起飞，飞往第一个航点，飞完整条航线，沿途拍摄照片（在本例中为 36 张），然后自动降落。</p>
+<p>在这里我把地图窗口最大化了，因为地图上可看的内容比空旷的田野更多，但为了以防万一，你可能还是想留意一下相机的画面。</p>
+<p>降落后，你只需全选今天的照片，目标是让照片数量与你在“航点飞行”中看到的一致。如果拍了 36 张，你就需要下载 36 张。如果你在建图之后还进行了一些娱乐性飞行，请确保先选中所有的测绘照片。</p>
+<p>如有疑虑，全部下载就是了。每张图片都带有地理标记。我们并不太在乎照片是否精确拍在航线的每一个点上。瓦片处理服务器会根据每张照片中的地理信息来计算合成地图，并丢弃云台没有垂直向下的照片。因此，不小心将非测绘照片提交给处理服务器也完全没问题——我知道在移动设备上管理这么多照片确实很棘手。</p>
+<p>这可以通过手机或电脑以几种不同的方式完成，具体取决于哪里出了岔子（反正迟早会出岔子的）。</p>
+<p>为了处理这些照片，我使用了一台通过 Tailscale 连接的现场本地机器。</p>
+<p>随后它会拼接地图，生成的最终瓦片会被拉取回 Zeitgeist Survey 云端服务器。</p>
+<p>大功告成，这就是 Zeitgeist Survey 整体能力的端到端演示。从规划到交付地图耗时不到 30 分钟。</p>
 <p>你可以点击下方的按钮查看实时交互式地图。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>作者使用 DJI Lito X1 进行航拍测绘测试，在80米高度以3.5米/秒的速度飞行测绘被证实有效。</li>
-    <li>DJI Fly 应用没有直接导入航线任务的功能，用户无法在地面直接添加航路点，必须先起飞以添加占位航路点。</li>
-    <li>来源叙事重点：通过逆向探索与系统工作流编排（利用 adb 替换 KMZ 航线文件、Tailscale 局域网组网与 Zeitgeist Survey 云端处理），展示如何在 30 分钟内绕过 DJI 官方软件限制，实现高效的全流程低空自主航测与高精地图拼图。</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-14 21:37 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -77,43 +407,8 @@ notice:
 :::
 
 :::cell
-<div id="story-idelines-overprescribing-59ca95360efcd543" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="398" data-content-paragraphs="1" data-published-at="2026-09-14T12:00:58.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 20:00</span>
-</div>
-
-### [英格兰抗抑郁药使用率高企的原因其实很简单：很多人确实需要它们 | 迪安·伯内特](https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing)
-<div class="original-title-sub"><span class="orig-tag">原文</span> There’s a surprisingly simple reason for England’s high antidepressant use: lots of people need them | Dean Burnett</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/d08e5cf1ac4b23439982230785edce3c486c6947/0_549_4035_3229/master/4035.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d48205d2c761a5a9595eb5c868dce71" alt="英格兰抗抑郁药使用率高企的原因其实很简单：很多人确实需要它们 | 迪安·伯内特" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>全科医生无视指南并“过度开药”的说法根本站不住脚。相反，我们应该审视自身的社会与经济危机。<br />迪安·伯内特是一位神经科学博士。<br />英国国家医疗服务体系（NHS）的一份新报告披露，英格兰记录的抗抑郁药使用率达到了历史最高水平，在2025至2026年间，大约每七个人中就有一人被开具了抗抑郁药物处方。这引发了大批媒体报道，表达了对这一增幅的震惊，并就如何逆转、或是否应当逆转这一趋势提出了质疑。<br />如此高的抗抑郁药使用水平自然应当引发关注与反思。但目前广为流传的一种说法是，抗抑郁药使用率过高是因为“过度开药”，正如临床心理学教授约翰·里德博士在《每日邮报》上所言。这种观点认为，患者在不应该使用抗抑郁药，或者有更好、更安全的替代方案时，仍被开具了此类药物。<br />迪安·伯内特是一位神经科学博士，著有《蠢蠢欲动的大脑》（The Idiot Brain）和《情感无知》（Emotional Ignorance）。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>一份新的NHS报告显示英格兰抗抑郁药使用量创下历史新高，2025-26年度大约每七个人中就有一人被开具抗抑郁药处方。</li>
-    <li>迪恩·伯内特（Dean Burnett）是神经科学博士，著有《The Idiot Brain》和《Emotional Ignorance》。</li>
-    <li>来源叙事重点：英格兰抗抑郁药处方量创新高反映了真实且广泛的社会心理需求，而非全科医生（GP）违规‘过度开药’；应当从社会和经济危机寻找根源，而非将责任转嫁给基层医疗系统</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
 <div id="story-ead-therapist-collective-eaf88a8860f169bf" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="573" data-content-paragraphs="3" data-published-at="2026-09-14T12:00:58.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="600" data-content-paragraphs="3" data-published-at="2026-09-14T12:00:58.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -122,21 +417,20 @@ notice:
   <span class="news-meta-time">🕒 2026-09-14 20:00</span>
 </div>
 
-### [巡演可能将音乐人推向孤立与焦虑的极端。巡回途中的心理治疗支持至关重要](https://www.theguardian.com/music/2026/sep/14/touring-mental-health-support-scheme-radiohead-therapist-collective)
+### [巡演可能将音乐人推向孤立、焦虑的极端：巡演途中的心理咨询支持至关重要](https://www.theguardian.com/music/2026/sep/14/touring-mental-health-support-scheme-radiohead-therapist-collective)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Touring can take musicians to isolating, anxious extremes. Access to therapy on the road is a vital support</div>
 
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/4a77fe05c374b85fcdecce3adf38743859f93467/368_0_2415_1932/master/2415.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84da70516cd26e0e9c02ae620da9d72b" alt="巡演可能将音乐人推向孤立与焦虑的极端。巡回途中的心理治疗支持至关重要" loading="lazy" /></div>
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/4a77fe05c374b85fcdecce3adf38743859f93467/368_0_2415_1932/master/2415.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84da70516cd26e0e9c02ae620da9d72b" alt="巡演可能将音乐人推向孤立、焦虑的极端：巡演途中的心理咨询支持至关重要" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>从我们早期的经历中，我深知巡演路上的生活压力有多大。虽然大型巡演通常会聘请心理治疗师，但草根艺人却无法负担这笔费用。我很高兴能支持一项旨在改变这种现状的新计划。</p>
-<p>当电台司令（Radiohead）刚开始巡演时，那种感觉极其令人兴奋，但我们在签约前已经组建了五六年，而且实际上只在牛津演出过。突然之间，你步入了一个全新的世界：初尝成名的滋味、被拿来与所有人比较、乐队走红时那如熔炉般的体验，以及熬夜、劣质伙食和围绕现场音乐发生的一切所构成的新常态。所有感官都被放大了，而这可能会让人感到非常孤立。</p>
-<p>1992年，我们还开着一辆厢型货车在小型场地演出，而到了1993年下半年，我们突然就来到了美国巡演。在那一年的第二次长途巡演中，一切压力都找上了门。我整个人有些封闭起来。在美国的那种环境不知怎地让我产生了“冒充者综合征”。我真切地感到自己离家极其遥远。所有这些焦虑总得找个宣泄口——对有些人来说是借酒消愁或吸毒——但对我而言，它在我的演奏中爆发了。有一次特别的演出，我们为惊惧之泪（Tears for Fears）以及另一支由[金发女郎乐队的]克莱姆·伯克（Clem Burke）担任鼓手的乐队开场暖场。克莱姆是我心目中绝对的鼓手偶像，但我当时却崩溃到了极点，我的鼓技直线下滑。四肢仿佛都在按各自的节奏乱走，踩底鼓的感觉就像是在推开一扇沉重的铁门。</p></div>
+<div class="article-body" data-article-body="true"><p>从我们早期的经历中，我深知巡演生活会带来多么巨大的压力。虽然大型巡演通常会雇佣心理治疗师，但草根独立音乐人却无力承担。我很高兴能支持一项旨在改变这一现状的新计划。</p>
+<p>当电台司令（Radiohead）刚开始巡演时，那令人无比兴奋，但我们在签约前已经组队了五六年，且实际上只在牛津演出过。突然之间，你步入了一个全新的世界：初尝成名的滋味、被拿来与所有其他人作比较、乐队走红时如置身熔炉般的体验，以及熬夜、糟糕的伙食和现场音乐周边的一切所构成的新日常。所有的感官与压力都被无限放大，这可能会让人感到非常孤立无援。</p>
+<p>1992年，我们还开着一辆小货车在小型场地辗转演出，紧接着到了1993年，下半年我们突然就全在美国度过了。在那一年的第二次长途巡演中，一切压力如潮水般将我吞没。我开始变得自我封闭。身处美国的环境让我产生了“冒充者综合征”。我确实感到了自己离家无比遥远。所有这些焦虑总要有一个宣泄口——对某些人来说是酗酒和药物——但对我来说，它直接反映在我的演奏中。有一场演出尤为明显，当时我们为惊惧之泪（Tears for Fears）以及另一支由［金发女郎乐队（Blondie）的］克莱姆·伯克（Clem Burke）担任鼓手的乐队做开场演出。克莱姆是我绝对的鼓手偶像，但我当时却彻底崩溃了，鼓技呈断崖式下滑。我的每一个肢体似乎都在以各自不同的速度动作。踩底鼓的感觉就像是在吃力地试图推开一扇沉重的大门。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>大型巡演通常会聘请心理治疗师，而基层音乐人无力承担此类费用。</li>
-    <li>文章作者支持一项旨在为巡演音乐人提供心理治疗支持的新计划。</li>
-    <li>来源叙事重点：通过Radiohead成员早期巡演经历中的高度孤独、心理崩溃和冒名顶替综合征，揭示巡演环境对音乐人心理健康造成的严重压力；重点倡导为缺乏经济承受能力的基层音乐人建立可负担的巡演心理治疗支持计划。</li>
+    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-14 20:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -149,318 +443,37 @@ notice:
 :::
 
 :::cell
-<div id="story--are-you-doing-this-week-fd6085f4c156927e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1964" data-content-paragraphs="1" data-published-at="2026-09-14T07:47:47.000Z" data-time-source="publication">
+<div id="story-idelines-overprescribing-59ca95360efcd543" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="429" data-content-paragraphs="1" data-published-at="2026-09-14T12:00:58.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-14 15:47</span>
+  <span class="news-meta-time">🕒 2026-09-14 20:00</span>
 </div>
 
-### [这周你在忙些什么？](https://lobste.rs/s/0inlyw/what_are_you_doing_this_week)
-<div class="original-title-sub"><span class="orig-tag">原文</span> What are you doing this week?</div>
+### [英格兰抗抑郁药使用率高企背后有一个出人意料的简单原因：确实有很多人需要它们 | 迪恩·伯内特](https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing)
+<div class="original-title-sub"><span class="orig-tag">原文</span> There’s a surprisingly simple reason for England’s high antidepressant use: lots of people need them | Dean Burnett</div>
 
-<div class="article-body" data-article-body="true"><p>你这周在忙些什么？欢迎随意分享！<br />也要记住，完全什么都不做也完全没问题。<br />我发布了这款多人乒乓球 SSH 游戏。网页版运行效果不错，所以为什么不把它搬到终端里呢？<br />试一试吧：ssh ssh.antics.gg<br />正在准备今年 NixCon 的演讲，主题是用 NixOS 运行一个业余自治系统（AS）。我以前从未去过波兰，所以总体上非常期待这次旅行。<br />除了本职工作，主要是备考 A2 摩托车驾照。我对计算机的兴趣最近进入了低谷期，主要是因为目前行业的发展方向（在我看来）实在太糟糕了，所以做一些与计算机无关的事。<br />太酷了，祝你考驾照顺利！<br />搞定了我的“让 Emacs 与 Dyalog APL 通信”插件：https://github.com/vlnn/ride-apl，现在正在用实际任务进行测试，为最终用户编写文档等。我希望它能成为 APL 用户的 Cider，不过当然还有大量工作要做。<br />工作中：我正在努力提高自己遵循的工程实践质量。周末我突然意识到，自己一直因为害怕失败而没有使用手头现成的工具（GitHub Actions、ArgoCD），我应该克服这种恐惧，至少为自己编写的软件搭建一个初级的 CI/CD。公司提供了充足的流水线配置资源，如果需要的话，也有几位同事可以帮我。<br />我打算完成几项功能的实现并编写测试，然后开始推进部署标准化流程并撰写文档。<br />生活上：继续为我们迎来的新小狗做准备。我正在读索菲亚·殷博士（Dr. Sophia Yin）写的《7天打造完美幼犬》（Perfect Puppy in 7 Days）。目前感觉非常扎实且实用。我迫不及待想把这些建议付诸实践了。<br />我正在用 Gleam 写一个小服务器，实现 AntennaPod 和 gPodder 所使用的播客同步服务器接口，我想大概两三天就能搞定。没什么花哨的东西，但这是一个我能完成、能在自己服务器上运行并感到开心的项目。<br />为比赛做了一张《半条命》（Half-Life）地图之后，我开始修复 noclip 的 GoldSrc 渲染器中的问题，这样就能在自己的 noclip 实例中查看我的地图了（对移动端不友好）。<br />我也在找工作，但最近工作机会并不多。<br />你能把镜头彻底倒过来挺酷的。我想象不出玩家角色做出那种扭曲姿态的动画会是什么样，肯定很有喜感。<br />《半条命1》既好玩，又足够老旧以至于可以在浏览器里运行，这里面可能大有可为。另外 Shift 键加速也很棒！速度非常快。<br />地图下方的火车是打算渲染在远处，还是只是个彩蛋？<br />那是一个光照烘焙和存放区，火车会每隔一段时间穿过地图，它既是地面上的危险障碍，也是跳上去拿到高斯枪的唯一途径。<br />啊，太棒了！我都忘了这本来就不是只在浏览器里玩的。在浏览了像 https://noclip.leo-peltier.fr/#PerfectDark64/mp_cryp;ShareData=Am$2NWUN-hV@Pav=ROQ6h= 这样的其他地图后，我注意到了更多控制选项。我猜要想完全正常工作，得把整个 GoldSrc 引擎都移植过来才行。<br />我还记得《半条命1》里的高斯枪……强到变态，但 Valve 在《半条命2》越野车上的陶式加农炮（Tau Cannon）并没有真正展现出它的威力。<br />我自己开发的 septum 交互式代码搜索工具已经用了 5 年，所以我打算把即将发布的 0.4 版本直接改为真正的 1.0 版本。我需要添加删除路径过滤器的支持，然后移除之前匆忙加入的 MCP 支持——那部分代码 Bug 很多，而且感觉格格不入。程序永远都可以继续改进，但在目前这个节点，它可以算作“完工”了。<br />好久没写 Rust 了，所以也许我会考虑写一个 Forth 解释器。<br />我为 Playdate 掌机制作并发布了一款武侠和江湖题材的 RPG 游戏。它是 2000 年代一款怀旧游戏的重制版，那时候我还是个初中生，那款游戏只能在一款叫“文曲星”的掌上设备上玩。也许这更多是对那个年代的怀念吧——当时全班男生都在偷偷玩这个，上课都不专心听讲 :)<br />正在为接下来几周断断续续的旅行做准备，每周至少有部分时间不在家，正在努力提前把生活和日常事务处理好。同时也在琢磨冬天可以用什么运动来替代骑行，虽然英国 9 月的天气总是能给我留出不用淋雨骑车的窗口期，所以这倒没有那么紧迫。<br />另外还开始为宝马 Z4 打印一些车顶盖配件，尺寸超出了 3D 打印机的最大打印幅面，所以我把第一个切成两半，预计分两次共打印 15 小时即可完成。后来又重新切成了三块（在第一块打印了 5 个小时之后才切，因为我太蠢了），看起来第二个总共大概需要打印 10 个小时。反正我无论如何都得拼接/粘合，然后填缝/上底漆/喷漆，所以有两个接缝也不会太糟。</p></div>
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/d08e5cf1ac4b23439982230785edce3c486c6947/0_549_4035_3229/master/4035.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d48205d2c761a5a9595eb5c868dce71" alt="英格兰抗抑郁药使用率高企背后有一个出人意料的简单原因：确实有很多人需要它们 | 迪恩·伯内特" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>全科医生忽视指导准则并“过度开药”的说法根本站不住脚。相反，应当去审视我们所面临的社会与经济危机。<br />迪恩·伯内特（Dean Burnett）为神经科学博士。<br />英国国家医疗服务体系（NHS）的一份新报告披露，英格兰记录在册的抗抑郁药使用水平达到历史最高值，在2025至2026年间，大约每七个人中就有一人被开具抗抑郁处方药物。这引发了大量媒体报道对这一增长表示担忧，并对能够或应当采取何种措施来扭转这一趋势提出了质疑。<br />如此高水平的抗抑郁药使用率，当然应当引起关切与反思。但正如临床心理学教授约翰·里德（John Read）博士在《每日邮报》上所言，一种占据主流的普遍说法认为，抗抑郁药使用率过高是因为“过度开药”。这种观点认为，患者在不应该使用抗抑郁药，或者有更好、更安全的替代疗法可用时，被开具了这类药物。<br />迪恩·伯内特是一名神经科学博士，著有《蠢蠢欲动的大脑》（The Idiot Brain）与《情感的无知》（Emotional Ignorance）。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-14 15:47 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-14 20:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://lobste.rs/s/0inlyw/what_are_you_doing_this_week" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-oldnewthing-20260910-00-89e9d02f5f9e1076" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3226" data-content-paragraphs="28" data-published-at="2026-09-14T03:34:33.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 11:34</span>
-</div>
-
-### [为什么 x86 未定义指令被称为 ud2？为什么是 2？](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Why is the x86 undefined instruction called ud2? Why 2?</div>
-
-<div class="article-body" data-article-body="true"><p>如果你查看过 x86 编译器的输出（或者像我一样，正在排查由某些试图 Hook API 的软件引发的崩溃），你可能会看到一条名为 ud2 的指令。这到底是怎么回事？</p>
-<p>ud2 指令是一条在架构层面上未定义的指令，确保会引发“无效操作码”（invalid opcode）异常。某些编译器生成它是为了标记“不可达”（unreachable）代码，这样一旦执行流因某种原因进入该处，程序就会直接崩溃，而不是去执行未知的随机指令。例如，如果一个被标记为 [[noreturn]] 的函数因某种意外返回了，编译器就会在调用后放置一个 ud2，从而让程序直接崩溃，而不是顺延执行进入下一个函数。</p>
-<p>话说回来，为什么这条指令叫 ud2 而不是直接叫 ud 呢？曾经存在过 ud1 吗？ud1 到底出了什么大问题，以至于我们非得搞出一个 ud2？</p>
-<p>我想我可以还原当时发生的事情。</p>
-<p>最初，x86 架构上并没有专门定义的“未定义指令”。因此，那些想要强制触发无效操作码异常的人，便开始寻找某种在执行时能可靠引发无效操作码异常的字节序列。</p>
-<p>与此同时，有人发现 0F B9 序列也具备同样的特性。于是当时形成了两大阵营：0F FF 的信徒和 0F B9 的拥趸。两者之间其实并没有发生太激烈的争论，因为两种技巧似乎都管用，而且也不存在一种方案会损害另一种方案的情况。</p>
-<p>后来英特尔开始研发下一代处理器，他们可能做出了一些调整，导致 0F FF 不再引发无效操作码异常。也许他们尝试引入了一条使用 0F FF 的新指令；或者它依然是未定义的，但只是执行了某些随机操作，而没有引发无效操作码异常。当他们开始在新处理器上运行软件时，发现某些程序无法正常工作了。经过费时费力的调查，他们发现这些程序依赖于 0F FF 作为无效操作码的特性。</p>
-<p>换句话说，他们撞上了海勒姆定律（Hyrum&#39;s Law）：当拥有足够多的用户时，所有可观察到的行为都会被某个人所依赖。必须附上相关的 XKCD 漫画梗。</p>
-<p>针对 0F B9 也得出了类似的发现。</p>
-<p>既然意识到人们需要一种可靠的方式来触发无效操作码异常，英特尔的工程师们决定将其正式化。他们创建了一条真正获得官方支持、永久无效的指令，并将其命名为 ud2。</p>
-<p>它被称为 ud2，是因为 0F FF 变体被追溯命名为 ud0，而 0F B9 变体被追溯命名为 ud1，于是留下 ud2 作为官方推荐的未定义操作码。</p>
-<p>ud2 的一个优势在于它是一条没有参数的双字节指令，因此你无需处理那些解码了却未被使用的随机源操作数和目的操作数。</p>
-<p>额外闲聊：但我们为什么要在意 ud0 和 ud1 那些未使用的参数呢？难道不能直接说 ud0 和 ud1 也是双字节无效操作码吗？我的意思是，没错，确实存在第三个字节，或者如果内存操作数带有偏移量或比例变址，可能还会有更多字节，但处理器根本不用它啊。</p>
-<p>这确实很关键，因为即便处理器不去使用它，它仍然会对其进行解码。如果指令的解码跨越到了一个不存在（not-present）的内存页中，你根本不会得到无效操作码异常，而是会得到一个访问冲突（Access Violation）。</p>
-<p>再多一点闲聊：不过某些较老的处理器只要一解码出 0F FF，就会立即引发无效操作码异常，根本不检查指令的其余部分是否正确解码。因此，如果你的 0F FF 恰好位于页面末尾，而下一页又不存在，你有时会得到无效操作码异常，有时则会得到访问冲突。</p>
-<p>所以最好还是坚持使用 ud2。它的行为是一致的，并且在架构上得到了保证。</p>
-<p>Raymond 参与 Windows 的演进已超过 30 年。2003 年，他创办了名为 The Old New Thing 的网站，其受欢迎程度远远超出了他最狂野的想象，这一发展至今仍让他感到既惊又喜。该网站后来促成了一本书的出版，巧合的是书名也叫《The Old New Thing》（Addison Wesley 2007 年出版）。他偶尔也会在 Windows Dev Docs 的 Twitter 账号上露面，讲述一些不含任何实用信息的故事。</p>
-<p>加入讨论。</p>
-<p>我认为我们现在真的不需要再操心汇编了，因为如今的编译器在处理代码方面已经相当出色。当然，如果你想加入微软的核心团队，那就是另一回事了，不过我很好奇现在的 Z 世代究竟有多少人懂汇编。</p>
-<p>操心汇编？不，你确实不需要操心。但如果你需要编写对性能至关重要的代码，你就需要了解基础知识。即使是当今极其出色的编译器，也不一定能纠正一个包含不可预测跳转或缓存利用率低下的糟糕算法。即使向量（vector）比链表更快且内存效率更高，它们也不会自动将链表替换为向量。如果你对自己源代码转换后的形态至少有一个大致的了解，你就能协助编译器发挥出最佳效果。</p>
-<p>我们大多数人确实不再需要手写汇编代码了，我承认这一点。在没有源代码的罕见情况下，能够阅读汇编可能会有所帮助。当你在 godbolt.org 上把玩探索时，它也能帮你体会到编译器为你做了多少工作 😀</p>
-<p>我以前真没怎么听说过 UD2 及相关指令……每当我想让程序崩溃并在调试器中中断（如果附加了调试器的话）时，我见到的和使用的都是 0xCC (INT 3)。</p>
-<p>UD2 的处理机制与 0xCC 相比如何？</p>
-<p>CC (INT 3) 属于陷阱（trap），主要用于指示前提条件/契约违规。</p>
-<p>而 UD2 则更偏向于硬性终止（hard stop），正如 Raymond 所说，“执行随机指令”可能会导致大量 Bug。</p>
-<p>这让我想起了给 6502 处理器编程的经历：如果你的代码出现了 Bug，处理器跳转到了未知领域，只要未使用的 RAM 已经被清零，你就更容易捕获这些 Bug，因为 0x00 操作码就是 BRK（强制中断）。</p>
-<p>至于 x86，我猜 UD2 指令出现得相当晚，所以像 0x00 或 0xFF 这样所有“唾手可得”的操作码早就被占满了 🙁</p>
-<p>在 Acorn 机器上，BRK 向量会捕获此类指令，并将接下来的字节读取为错误信息。（好吧，严格来说，是一个错误代码，接着是 ASCII 文本信息。）这使得语言和系统服务 ROM 能够非常简便地报告错误，也允许通过单一接口捕获来自任何 ROM 或应用程序的错误。因此，BASIC 的 ON ERROR 不仅可以捕获来自 BASIC 本身的错误，还可以捕获来自文件系统、网络，或是支持你接入的新硬件的某个 ROM 等等产生的错误。你的文字处理器、FORTH 程序、游戏、调试器软件等同样也可以做到这一点。<br />当然，如果你的代码碰到了……<br />在 Acorn 机器上，BRK 向量会捕获此类指令，并将接下来的字节读取为错误信息。（好吧，严格来说，是一个错误代码，接着是 ASCII 文本信息。）这使得语言和系统服务 ROM 能够非常简便地报告错误，也允许通过单一接口捕获来自任何 ROM 或应用程序的错误。因此，BASIC 的 ON ERROR 不仅可以捕获来自 BASIC 本身的错误，还可以捕获来自文件系统、网络，或是支持你接入的新硬件的某个 ROM 等等产生的错误。你的文字处理器、FORTH 程序、游戏、调试器软件等同样也可以做到这一点。<br />当然，如果你的代码恰好碰到了内存中随机的 0x00，屏幕就会被乱码填满，直到碰到下一个 0x00 为止。由于字符输出例程统管所有图形和文本输出，如果读取到了特定的字节，它还可能执行清屏、切换显示模式、重新定义字符、启动打印机，乃至完全抑制所有输出。<br />因此可以说，它在大幅简化错误处理的同时，也带来了极大的混乱。<br />0x00 已经被占用了。早在 8086 时代它就是一条 ADD 指令。0xFF 是双字节指令的前缀字节。然而即便在今天，0xFF 0xFF 依然不是一条有效指令（至少在我的反汇编器看来是如此）。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-14 11:34 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-og-post-case-against-jxl-0386281387e0321f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4347" data-content-paragraphs="9" data-published-at="2026-09-14T01:18:11.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 09:18</span>
-</div>
-
-### [反对 JPEG XL 的理由](https://giannirosato.com/blog/post/case-against-jxl)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The case against JPEG XL</div>
-
-<div class="article-body" data-article-body="true"><p>探讨 JPEG XL 作为 Web 图像编解码器的定位。<br />JPEG XL 是一款在技术上令人印象深刻的图像编解码器；它是对 JPEG 的决定性升级，比 WebP 更全能，并且完全有能力满足 Web 之外的应用场景。然而，众所周知，它在 2023 年遭到了 Chrome 的弃用。由于这件事发生在一个免版税、灵活、压缩高效、出自 JPEG 委员会且正受到大公司关注的编解码器身上，这一决定让许多人感到难以接受。<br />最近，一个用 Rust 编写的 JPEG XL 解码器以某种形式进入了 Firefox 和 Chrome。鉴于这个新解码器有望保护 Web 免遭 2023 年 WebP 漏洞的重演，Web 的主要利益相关者或许正在扭转针对 JPEG XL 的态度。但这足以成为 Web 采用 JPEG XL 的理由吗？<br />从历史上看，我一直是在所有场景下推广 JPEG XL 的坚定支持者。我在 Interop 2024 中支持了 JPEG XL，并多次与 Jon Sneyers 和 Jyrki Alakuijala（该格式的两位主要作者）有过个人交流。他们展现出的公开处事作风、冷静理智、技术才能以及对该领域的热情，始终令我印象深刻。<br />本文绝非旨在贬低该格式作者及其成果，也不打算就该编解码器在自由软件领域的象征意义表达任何政治立场。这篇博文的宗旨是科普性的；我希望提供一个审视 2026 年图像压缩与 Web 平台现状的实证视角。部分灵感汲取自 Dmitry Grinberg 所著的《RISC-V：他们本应更明白》（RISC-V: They Should Have Known Better）。<br />我从事图像压缩工作，最初出身于视频压缩领域。在研发 AV1 编码器期间，Julio Barba 和我对 AVIF 做出了重大改进，我也在此过程中学到了很多。当我决定着手构建自己的编码器时，我不得不深入思考哪些格式上限最高、能够被有效优化，并且具备最大的现实与潜在实用价值。最终，我决定不采用 JPEG XL。<br />从体量上看，Web 上极少有通用有损压缩无法满足的应用场景。普通 Web 用户并不需要无损压缩；他们只需要一款足够通用、能避免严重瑕疵的有损编解码器（例如针对非摄影内容的 JPEG 瑕疵）。这就排除了 JPEG XL 的无损优势——在实践中，它实际上仅比无损 WebP 体积小约 11.9%，而且这一结果还是建立在一个对 Web 而言不切实际的测试数据集上的（157 MP 照片、10 MP 插画和 27 MP 书籍）。为了在极小体量的图像内容上节省 12% 的体积，而这些内容的场景本身对带宽限制又不够敏感，引入一款新的浏览器图像编解码器根本不值得。我之所以这么说，是因为 JPEG XL 在有损压缩方面并不具备竞争力，因此无损本该是它唯一的真正优势。<br />支持 JPEG XL 的最初论点之一，是其参考编码器比竞争对手的编码器更具感知优化能力。而如今，无论在速度还是每比特保真度上，其他编码器都更具优势。<br />AV1 参考编码器接受了基于受控主观人类实验的专门感知调校，以在增强其效率的同时保留专为感知指标优化的调校模式。SVT-AV1 也有类似的调校模式。没有任何令人信服的理由能说明现代编码器没有针对人眼进行调校。<br />指标固然不完美，但它们给 JPEG XL 描绘了一幅严峻的前景：<br />aperture-alpha 是 Halide Compression 即将推出的编码器，代号为 Aperture。我将其纳入对比，是为了展示 libjxl 要在前沿领域竞争究竟需要弥补多大的差距。<br />一些分析称，JPEG XL 在各项指标上的表现低于其实际的感知优势，但我没有看到足够的证据表明这种差距足以彻底颠覆我所分享的这些图表。CVVDP 和 SSIMULACRA2 是非常强大的感知指标，当差异如此巨大时，它们无疑说明了问题。对于 AVIF，libaom 针对感知的调校模式（tune IQ）仅比针对感知指标优化的模式（tune SSIMULACRA2）低几个点。此外，JPEG XL 参考编码器在历史上一直存在感知问题，且至今仍未得到充分解决。<br />世上本没有编解码器基准测试，只有编码器基准测试；从理论上讲，JPEG XL 作为一种格式的上限要高于 libjxl 目前达到的水平。但要缩小这一差距有多难？作为一名压缩工程师，我认为它在这方面处于劣势。原因包括：<br />针对非摄影图像，所谓“它们本应是矢量图像”的说法是站不住脚的，因为许多图像本可以制成矢量图但并没有这么做，而且它们也无法被完美矢量化。“世界本该是另一种样子”并不能成为拒绝针对世界现实情况进行优化的合理辩护。<br />人们很容易认为这些要点意味着上限高于 libjxl 所能达到的水平、并且我们可以做得更好，但鉴于其不够直观（且可能更弱）的编码工具，我并不确信它能迅速超越优化良好的 AVIF 编码器。<br />JPEG XL 拥有一份令人印象深刻、极具灵活性的规范。除了编码工具之外，它还支持多达 4096 个通道、任意色彩深度、渐进式解码、JPEG 重压缩等。其中许多特性在 Web 上并不具备广泛的实用价值；你需要的只是 4 个通道（RGB/YUV + Alpha）、足以支持 HDR 的合理色彩深度（10 位即可），以及快速加载的能力。<br />渐进式渲染（AVIF 亦支持）可在完整图像传输完成之前先解码出低保真度的画面。AVIF 曾有一段时间不支持渐进式渲染，在那期间，我认为该特性被严重过度鼓吹了。如今 libavif 已经实现了它（这在技术上一直都是可行的），相关争论似乎已经尘埃落定。我认为这是因为实际效果说明了一切：<br />这是来自 JPEG-XL 信息网站的示例，AVIF 在仅传输完整图像约 2-3% 大小时就显示出了可用的图像，远远早于 JXL。结合 AVIF 整体体积更小的事实，这是一场毫无悬念的胜利。我对该页面进行了截图，因为 AVIF 渐进式解码仅在 Chrome 中有效（使用的是浏览器的原生解码器）；而 JPEG XL 使用了 Polyfill，因为即使在支持它的 Safari 中，渐进式解码也未获支持。<br />JPEG 重压缩是指在节省体积的同时将 JPEG 无损重新编码为 JXL 图像的能力；经常被引用的数据是可以节省 20%。然而，用户为此付出的代价是解码时间，因为重新压缩的 JPEG 解码耗时大约要多出 33%。现代消费级设备性能固然强大，但声称这种体积节省是“免费获得”的说法是具有误导性的。<br />说到这里，其解码时间与顶级水平相比毫无竞争力：<br />在公众讨论中，AVIF 被认为解码缓慢；那 JXL 又算什么呢？这还是一个 10 位的 AVIF，并且所有图像都是针对同一源文件进行体积对齐后编码的。JPEG 体积为 2,478,828 字节，JPEG XL 为 2,599,428 字节，AVIF 为 2,649,949 字节，WebP 为 2,693,794 字节。WebP 比它大了 90 多 KB，但搭配 wpd 的解码速度仍然比 jxl-rs 快了 10 倍以上。</p>
-<p>由于该编解码器的表达能力极强，完全有可能精心制作出解码耗时极长的图像。以这个范例为例（请谨慎打开）：它计算了高达 33,599 的素数，在我搭载 M5 Pro 芯片的设备上使用 Rust 解码器解码耗费了 17.43 秒的用户时间。此外，别忘了这正是目前正在逐步集成进 Chrome、Firefox 等浏览器的解码器——这张“素数墙”图像的大小仅为 1,918 字节，因此对低端设备实施“JXL 炸弹”攻击即将变得轻而易举。你现在就已经可以在网页上投放几十张这类图片来拖慢 Apple 设备的速度，因为它们在 Safari 中原生支持 JPEG XL。</p>
-<p>我认为 Web 编解码器应当是专用、高效且严格针对 Web 需求限定范围的。我认为 WebP 的范围界定略显狭隘，但其设计思路是正确的；AVIF 的容器还可以做得更好，而 AV1 规范在处理图像某些特定属性（例如规范性的 4:2:0 上采样）方面也可以更具体一些，但凭借 AV1 以及高度成熟的生态系统，AVIF 始终注定会成为 Web 标准的一员。</p>
-<p>那么我们真的需要 JPEG XL 吗？它的定位根本称不上狭窄专一；在设计之初，它就旨在满足所有人的全部需求。我认为很多其他使用场景确实需要这一点，但 Web 需要的是节省带宽、快速解码以及防止搬起石头砸自己的脚；我看不出 JPEG XL 在契合度上甚至能比得上 WebP。更不用说对于任何只想从互联网下载一张图片并在别处使用的人而言，如今又多了一层兼容性烦恼——当初要让 WebP 获得广泛普及就已经足够困难了，我认为没有必要既为 AVIF 克服重重阻碍，又为 JPEG XL 再经历一次相同的痛苦，从而承受双倍折磨。特别是考虑到 JPEG XL 似乎并没有为 Web 平台增添任何实质价值。</p>
-<p>三年半前，我曾说过：<br />“我希望看到一个 AVIF 和 JPEG XL 可以共存的 Web 环境，由开发者根据其优缺点自行决定使用哪种格式。[……] 在我看来，JPEG XL 和 AVIF 拥有截然不同的优势，适用于不同的使用场景。”</p>
-<p>当时，JPEG XL 在中高保真度有损图像压缩方面是强有力的竞争者。而如今 AVIF 在全保真度区间都占据了主导地位，因此 JPEG XL 唯一的真正优势已经荡然无存。</p>
-<p>JPEG XL 源自 Cloudinary 和 Google，但我认为人们在讨论该编解码器时并没有把这一点说清楚。另外值得一提的是，JPEG XL 和 AVIF 都是免版税的。由于围绕 Google 浏览器市场主导地位的争端、源自 Google 的 AV1 以及围绕 Google WebP 的争议，我认为支持 JPEG XL 的大多数论调本质上源于希望为 Web 开发者提供更多选择，而不是追求一种在技术上更为优越的图像编解码器。我理解这一点，并且我认为 JPEG XL 仍然可以在 Web 之外、AVIF 永远无法涉足的领域蓬勃发展。正如同一篇文章中所述：<br />“目前我的乐观期望是，JXL 能够在 Web 之外流行开来，受到使用 Adobe 套件或替代工具的专业人士青睐，同时相机制造商、智能手机 OEM 厂商以及其他相关方也能注意到它，并开始更认真地考虑 JXL。”</p>
-<p>JPEG XL 并非毫无用处；对于 Web 以外的使用场景，它确实是一项引人注目的技术。只是我个人并不信服我们在短期内需要在浏览器中引入它。</p>
-<p>软件与环境详情。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-14 09:18 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://giannirosato.com/blog/post/case-against-jxl" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-l-operating-systems-1982-de27b9c178c40874" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="294" data-content-paragraphs="2" data-published-at="2026-09-14T00:03:38.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 08:03</span>
-</div>
-
-### [纯函数式操作系统](https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Purely Functional Operating Systems</div>
-
-<div class="article-body" data-article-body="true"><p>彼得·亨德森（Peter Henderson）1982年的论文《纯函数式操作系统》（Purely Functional Operating Systems）在网上似乎很难找到。几年前在攻读博士学位期间，我从大学图书馆的纸质藏书中扫描了这篇论文。以下是我制作的扫描件。</p>
-<p>彼得·亨德森。《纯函数式操作系统》。载于《函数式编程及其应用》（Functional Programming and Its Applications），J·达灵顿（J. Darlington）、P·亨德森（P. Henderson）与D·特纳（D. Turner）编，第177–192页。剑桥大学出版社，1982年。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-14 08:03 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ogrammers-dislike-reduce-2fb7fce7df7a40f0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="472" data-content-paragraphs="8" data-published-at="2026-09-13T23:59:05.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 07:59</span>
-</div>
-
-### [从经验来看，程序员似乎不喜欢“reduce”](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Anecdotally, programmers dislike &quot;reduce&quot;</div>
-
-<div class="article-body" data-article-body="true"><p>简而言之：根据我的经验，大家喜欢 map 和 filter，但并不喜欢 reduce。</p>
-<p>我经常使用像 map 和 filter 这样的函数。每当我提交这些代码进行评审时，同事们很少抱怨。我收到过很多关于其他技术决策的反馈，但几乎没有针对我使用 map 和 filter 的异议。</p>
-<p>但对于 reduce 而言，情况就完全不同了。通常，当我提交包含 reduce 的补丁时，总会收到诸如“这部分代码可读性较差”之类的评价。而且相比 map、filter、some 等函数，我看到 reduce 被使用的频率要低得多。</p>
-<p>从日常轶事经验来看，我逐渐倾向于认为程序员没那么喜欢 reduce。</p>
-<p>我不知道确切原因，但我有几点推测：</p>
-<p>遇到这种情况，我通常只是把 reduce 改成其他写法就翻篇了。尽管我更倾向于使用它，但我通常也不太计较。但这确实是我观察到的一个小小的群体现象，所以我想把它记录下来。</p>
-<p>最近我也较少注意到这种反馈了，这可能是因为如今的代码评审没有以前那么细致了。</p>
-<p>你注意到了这种现象吗？你喜欢 reduce 吗？欢迎留言交流。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-14 07:59 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ratch-as-a-beginner-html-697be84fa2778250" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7532" data-content-paragraphs="81" data-published-at="2026-09-13T23:24:10.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-14 07:24</span>
-</div>
-
-### [初学者从零开始编写 Guix 服务](https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Writing a Guix service from scratch, as a beginner</div>
-
-<div class="article-body" data-article-body="true"><p>我目前正在将我的机器从 NixOS 迁移到 Guix。<br />我的第一个里程碑是将我的 VPS 迁移到 Guix。<br />我的 VPS 基本上承担三大角色：<br />邮件服务器已启动并运行，使用 exim 作为 MTA，dovecot 作为 IMAP 服务器。为了让 exim 正常运行，我费了一番周折。我本来更倾向于使用 postfix 而非 exim，但在 Guix 官方 channel 中只有 exim 是开箱即用的。<br />当时，我还不知道如何定义自己的自定义服务。我打算在可预见的未来继续使用 Guix，因此我想对它建立深入的理解。学习创建符合自己需求的自定义服务，是精通 Guix 的重要一环。<br />这就引出了撰写本文的动机：是时候创建我自己的服务了。<br />对于代理服务器，我喜欢使用 Caddy。而在 Guix 上，Caddy 并没有作为一项服务提供。1<br />这似乎是深入研究自定义服务的绝佳时机。<br />在查阅文档和源代码的过程中，我决定记录下自己的学习过程并分享在这里，作为其他新手的指南。<br />在本文中，我们将为我们的 Caddy 反向代理编写一个自定义服务。<br />该服务包括通过 Guix 为 Caddy 设置配置文件、创建一个系统用户，并配置 Shepherd 来运行该守护进程。<br />这是一个完美的第一个自定义服务：它足够简单，易于入门自定义服务，同时又涵盖了对服务的良好概览。<br />此外，我在家用服务器上运行的大多数服务本质上都是这三个操作的组合：配置用户、管理配置文件以及运行守护进程。<br />本文适合 Guix 的新人和初学者。事实上，我也是边做边写、一路摸索过来的，除了阅读文档之外并没有任何高深的专业知识。<br />唯一真正的先决条件是在你的 Guix 实例上准备好 Caddy 软件包，这样我们才能在其之上构建服务。在撰写这篇博客时，Guix 仓库中尚不包含 Caddy 软件包，但团队正在为此努力。<br />与此同时，你可以参考我的博客文章轻松创建一个。它只需要几行代码。<br />你不需要精通 Scheme 或具备深厚的 Scheme 专业知识（我显然也没有），但强烈建议对其有基本的了解。<br />我假设你和我一样，对 Guix 还相对陌生——不过本文并不能替代官方文档。我会用自己的理解大量转述文档内容。我建议你在阅读本文的同时，把官方文档放在手边参考。<br />我显然假设你已经安装了 Guix 并且拥有一个可用的配置。如果没有，你可以在这里找到一个。<br />最后，你需要知道如何重新配置你的系统（提示：sudo guix system reconfigure my-config.scm）。<br />当我引用 Guix 源代码时，我将使用“文件名:行号”的表示法。<br />好了，闲话少叙，让我们谈谈具体要在这里构建什么。<br />为了使事情尽可能简单，我决定将我们的服务定义得尽可能简单、精简。<br />我们的计划如下：<br />这是最基础的 Caddy 服务；它能够完成任务，但不会是最优雅的。<br />大部分配置选项将被硬编码；该服务尚未准备好进行分发。然而，它将具备完整功能并满足我们的需求。<br />一旦完成，我们有望一路积累足够的知识来重新审视、重构并改进它。<br />本文发布后，我打算对其进行改进，如果我足够大胆，甚至可能会将其提交给 Guix 官方仓库。<br />但现在，让我们立足基础。我们不想让对完美的追求阻碍事情的完成。<br />文档将服务定义为“扩展操作系统功能的东西”。<br />这个定义相当模糊，但那是因为服务可以拥有极其多样化的功能。服务最常见的形式是在后台运行进程的守护进程（就像我们的情况），但这并不是服务的唯一类型。<br />正如我们将看到的，服务可以是一个只运行一次的进程，例如创建账户或将文件复制到 store。它也可以是一个周期性进程，例如 cron 任务。<br />在某种程度上，它是以声明方式配置系统的一种原语。<br />服务的一个有趣之处在于，它们从底层设计上就是可扩展和可组合的。一个服务可以扩展一个或多个服务，其本身也可以被一个或多个服务所扩展。我们将在下文中对此进行更深入的探讨；我觉得这种架构非常棒。<br />因此，如果你现在还没完全理解什么是服务，别担心，跟着做下去，随着我们的推进，一切都会变得更加清晰。<br />我们的第一步是通过创建我们所能创建的最简单的服务来打破僵局：一个什么都不做的空服务。目的仅仅是熟悉服务机制。<br />首先，我们需要为我们的服务定义 service-type（服务类型）。<br />服务类型本质上是服务的蓝图。可以把它想象成类与其实例化对象之间的关系。<br />服务通过 service 过程进行启用或“实例化”（如果沿用类的比喻）。service 过程接受一个记录和一个值作为参数。<br />如果未提供值，则使用定义中设定的 default-value。<br />要启用该服务，我们将其添加到提供给 services 过程的列表中：<br />现在让我们看一下记录的内部。<br />你可以在 gnu/services.scm:187 找到它的定义。该服务类型的文档很完善，但在使用 Guix（或者在我看来，使用任何其他软件）时，在代码库中进行 grep 搜索都是非常有价值的工具。<br />我们注意到它需要一个名称和一个 extensions 列表。它还包含可选字段：compose、extend、default-value、description 和 location。<br />让我们定义我们的 caddy-service-type。我们将服务的名称设置为 &#39;caddy。我们还将 extensions 设置为 nil（空列表），这意味着我们目前没有扩展任何现有的服务。我们同样将 default-value 保留为 nil。<br />关于可选字段，我们目前只关注 description。它接受一个字符串，正如你所猜想的，它用于提供描述。<br />我稍后会介绍 compose、extend 和 extensions 字段，现在先不必担心它们。<br />我们针对 Caddy 服务的定义如下所示：<br />就是这样。这是最简单的服务类型：它只有一个名称和一个描述。<br />让我们通过将其添加到 services 过程来启用它。<br />现在，运行 sudo guix system reconfigure config.scm，为你的第一个自定义服务庆祝吧。<br />我们“实例化”了一个 caddy-service-type 类型的服务，没有传入值，默认使用了 nil 这一 default-value。<br />它什么也没做，但它仍然是一个服务。<br />如果你有图形显示环境，可以运行以下命令来生成系统的依赖关系图：<br />guix system extension-graph config.scm | guix shell xdot -- xdot -</p>
-<p>你会注意到 Caddy 服务已经出现在你的服务列表中了。很好。现在让我们让这个服务做点有用的事情。</p>
-<p>改进我们服务的下一步是让它创建 caddy 用户和用户组。</p>
-<p>创建一个非 root 用户来运行后台进程始终是个好主意：如果该进程受到攻击，受攻击面会小得多。</p>
-<p>为了创建该用户和用户组，我们将借助扩展（extensions）的强大功能。</p>
-<p>Guix 开箱即包含了大量的服务；其中之一就是 account-service-type。该服务用于在我们的操作系统上创建用户和用户组。</p>
-<p>为了使用该服务，我们需要将其添加到 caddy-service-type 的 extensions 字段中。</p>
-<p>extensions 字段起初有点难以理解。我的第一直觉是，extensions 字段允许你通过扩展自身功能来修改服务，赋予其额外的特性。例如在当前情况下，我本以为扩展 account-service-type 会为我们的 caddy-service-type 增加创建用户和组的能力。</p>
-<p>然而事实恰恰相反！你并不是在给自己的服务“添加”能力，而是在修改目标服务（这里是 account-service-type），让它为你的服务执行操作。目标服务类型如何被修改，由其自身的 compose 和 extend 字段中的规则所定义。我们稍后会更详细地讨论它们。</p>
-<p>现在，让我们继续以账户创建为例来说明这个概念。我们想要创建一个用户 caddy，以及一个同名的用户组 caddy。</p>
-<p>account-service-type 被定义为可扩展的（extendable）。这意味着它为其他服务提供了创建用户账户的接口。account-service-type 不需要知道是谁在创建账户以及为什么要创建；它只提供了一种实现途径。</p>
-<p>这就是这种架构的精妙之处：它使系统变得完全声明式。当某个服务扩展了 account-service-type 时，Guix 就会在该服务启用时创建这些账户。如果该服务未被启用，这些账户就不会被创建。</p>
-<p>仔细想想，这真是一个绝妙的架构，它让我想起了控制反转（Inversion of Control）的原则。</p>
-<p>为了在启用 caddy-service-type 时让 account-service-type 创建我们的 caddy 用户，我们对其扩展了 account-service-type。</p>
-<p>现在我们理解了 extensions 字段的概念。它允许你“扩展”一个目标服务类型，例如用于创建更多用户。但我们在实践中仍然不清楚具体该如何声明它。</p>
-<p>我们有几种方法来弄清楚如何设置：阅读文档、通过 grep 搜索示例，或者直接看源码。</p>
-<p>为了能够更好地理解服务，我们来看一下源码。</p>
-<p>出于好奇以及想要真正掌握服务扩展工作原理的渴望，我尝试看看能否通过查看定义在 shadow.scm:547 中的 account-service-type 服务来推测账户的结构。</p>
-<p>这就是 account-service-type 的定义方式。我们应该对这种 record 结构很熟悉了。</p>
-<p>我们首先能看到的是，default-value 是一个空列表，这意味着 account-service-type 本身期望接收一个列表作为值。但具体是什么的列表呢？</p>
-<p>在这里，注释给出了答案：一个包含  和  的列表。如果没有这些注释，你也可以查看 account-activation。</p>
-<p>在继续之前，我们先来聊聊 compose 和 extend 字段。以下是文档中对它们的定义：</p>
-<p>这是用于组合该类型服务扩展列表的过程（procedure）。</p>
-<p>该过程定义了如何使用扩展的组合结果来扩展服务的值。</p>
-<p>这有些抽象，曾让我有些摸不着头脑，但它的实际含义是：</p>
-<p>Compose 定义了该服务如何组合扩展了此服务类型的多个服务。</p>
-<p>例如，如果有三个服务将 accounts-service-type 列为扩展，我们该如何处理每个值？我们是只取第一个？还是取最后一个？</p>
-<p>显然，如果三个服务都通过扩展 account-service-type 来定义用户，我们希望创建所有这些用户。因此，我们希望将这些扩展服务提供的值拼接起来。</p>
-<p>我们也可以设想其他服务表现出不同的行为。例如，假设有一个负责管理端口的服务，我们称之为 open-port-22-service-type。再假设有两个服务扩展了它：一个想打开端口，另一个想关闭端口。</p>
-<p>我们应该怎么做？打开还是关闭？我们遇到了相互冲突的值。</p>
-<p>也许我们出于谨慎考虑，将 open-port-22-service-type 定义为：如果接收到冲突的值，则优先采用“关闭”值。</p>
-<p>这就是 compose 字段的作用。它定义了如何组合多个扩展服务的值。</p>
-<p>从某种意义上说，它与 compose 非常相似。</p>
-<p>让我们设想一个在计算机启动时显示欢迎信息的服务类型，称为 welcome-message-service-type。如果某个服务使用不同的消息对其进行了扩展，我们可能希望优先采用该扩展服务提供的值。</p>
-<p>在这种情况下，我们将使用 extend 来指示 welcome-message-service-type 用来自扩展服务的组合值替换其自身的值。</p>
-<p>请注意，compose 和 extend 接受以服务本身为参数的过程。这为用户在定义规则时提供了极大的自由度和控制力。</p>
-<p>最后，让我们以 user-account-service-type 作为收尾示例。</p>
-<p>在用户账户的情况下，我们希望：</p>
-<p>重新把视角放回到整体架构上，我们可以看到服务都是层层构建的。一个服务在安装时，会修改其 extensions 字段中列出的服务。而这些被修改的服务反过来又会修改它们自己扩展的服务类型。</p>
-<p>这种“链式反应”将一直持续，直到所有服务都被汇总到 system-service-type（所有服务的根）中。在底层，我们最终会将所有服务收集到一个庞大的单一结构中。我认为，当 Guix 配置系统时，正是对这一服务集合体进行处理。</p>
-<p>好了，现在我们了解了 account-service-type：</p>
-<p>因此，无论是通过跟着我进行“深入探究”，还是阅读文档，抑或在代码库中查找示例，我们都发现我们的用户组和用户分别被定义为  和 。</p>
-<p>这两个 record 分别可以在 accounts.scm 的第 71 行和第 90 行找到。</p>
-<p>我们像这样定义我们的账户：</p>
-<p>现在我们可以将它们添加到 account-service-type 扩展中。</p>
-<p>extensions 过程接受一个  列表。service-extension 是一个接受两个参数的 record。</p>
-<p>第一个参数是目标服务类型的名称。在我们的例子中就是 account-service-type。service-extension 的第二个参数是一个过程，该过程接受服务本身（当前的 caddy 服务）并返回一个对象列表以扩展目标服务（参见文档）。</p>
-<p>第二个参数看似复杂，但它其实只是一个为扩展返回“值”的过程（procedure）。在我们的场景中，它返回的是一个用户和用户组账户的列表。你可以想象，利用这个第二个参数，如果我们希望让服务支持可配置，就可以根据我们的 caddy-service-type 的值来动态创建用户。这就是可配置服务的组织方式。</p>
-<p>让我们为 account-service-type 定义 service-extension，并将其添加到 extension 字段中。</p>
-<p>这里我们使用了 const，它是 (lambda(_)(%caddy-accounts)) 的语法糖。</p>
-<p>好了，终于到了测试的时候了！</p>
-<p>运行 sudo guix system reconfigure config.scm 来应用我们的更改。</p>
-<p>让我们通过运行 sudo id caddy 来检查 caddy 用户的存在。</p>
-<p>太棒了！我们的 caddy 用户和用户组已经成功创建！</p>
-<p>到目前为止我们所学到的内容：</p>
-<p>现在让我们来看看如何将配置——即 Caddy 文件——写入到 /etc/caddy 中。</p>
-<p>为了保持简单，caddy-service-type 将是静态的。我们将手动编写 Caddyfile 并将其提供给我们的 Caddy 服务。我们不会负责生成 Caddyfile²。</p>
-<p>Caddy 服务只需负责将其复制到正确的位置即可。</p>
-<p>Caddyfile 的目标路径是 /etc/caddy/caddy.conf。</p>
-<p>与之前一样，我们将利用扩展来实现这一点。要在服务启用时执行任意过程，我们可以使用 activation-service-type。</p>
-<p>请注意，其实有一个专门执行此任务的服务，即 etc-service-type。不过我认为出于教学目的，使用更通用的 activation-service-type 是更好的选择。它是一个被广泛使用的服务；Guix 仓库中的许多服务都依赖于它。</p>
-<p>激活服务（activation service）是在我们的服务激活时执行的服务。</p>
-<p>颇为有趣的是，除了在这个示例中，我在文档中几乎找不到关于它的太多信息。让我们直接看看源代码。</p>
-<p>在 services.scm:792 中我们能获得更多信息：</p>
-<p>我们也可以查看它的定义 services.scm:776</p>
-<p>好的，我们看到（从注释和 lambda gexps-&gt;activation-gexp 中）服务所需的值是一个 G-表达式（G-Expression 或 gexp）。</p>
-<p>什么是 gexp？gexp，或者 g-exp，即 G-expression³，是 Guix 中一种用于暂存代码以便稍后在构建环境中执行的机制。</p>
-<p>如果你已经知道什么是 G-表达式，可以跳过下一节。如果不知道，让我们简要介绍一下 G-表达式的概念⁴。</p>
-<p>我不会对 G-exp 的概念做过于深入的探讨；它涉及的内容很多，值得单独写一篇文章。我们将保持高层次的概览。</p>
-<p>要理解什么是 G-表达式，你需要知道 Guix 运行在两个环境中。</p>
-<p>在构建软件包时，guix daemon 会创建类似于容器的东西。它们并不完全等同于容器，但这个概念对于我们的理解来说已经足够接近了。</p>
-<p>为了确保可重现性，每个软件包都在各自独立的“容器”中构建，其中仅包含所需的输入。为了实现这一点，软件包定义中的部分代码需要暂存起来，以便稍后在那个“容器”内部执行。G-表达式就是我们在构建时暂存待执行代码的方式。</p>
-<p>Guix 的这两个环境通常被称为：</p>
-<p>G-表达式使用 #~ 宏来表示，例如 #~( ;; 这是一个 g-expression ;; )。每当你看到宏 #~ 时，就意味着括号内的代码将稍后在构建“容器”内执行。</p>
-<p>在 G-exp 内部，我们可以使用 #$ 宏（即 ungexp）来对某些表达式求值。</p>
-<p>例如，让我们看一下这个 G-表达式：</p>
-<p>在这种情况下，当代码被求值时，#$output 将被替换（或 ungexp 解引用），表达式将变为：</p>
-<p>在概念上，它类似于 Scheme 中的准引用（quasi-quote）和逗号（comma）。</p>
-<p>由于 G-表达式是在不同的环境中求值的，它不会自动拥有对当前环境中导入的模块的访问权限。为了让 G-表达式能够访问模块，我们需要将它们导入到 G-表达式将在其中求值的“构建”环境中。</p>
-<p>为此，我们像这样使用 with-imported-modules 语法：</p>
-<p>在上面的例子中，mkdir-p 是来自 guix/build/utils.scm 的过程。T</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-14 07:24 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
 :::
 
 ::::

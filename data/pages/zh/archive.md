@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-14 · 今日](/INFO-LIVE/archive-2026-09-14/)
+- [2026-09-15 · 今日](/INFO-LIVE/archive-2026-09-15/)
+- [2026-09-14 · 历史快照](/INFO-LIVE/archive-2026-09-14/)
 - [2026-09-13 · 历史快照](/INFO-LIVE/archive-2026-09-13/)
 - [2026-09-12 · 历史快照](/INFO-LIVE/archive-2026-09-12/)
 - [2026-09-11 · 历史快照](/INFO-LIVE/archive-2026-09-11/)
@@ -25,14 +26,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **34** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **35** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-14 22:16 (UTC+8)
+- **最新归档时间**：2026-09-15 03:31 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-15 03:31 (UTC+8)" title="全球要闻情报简报 · 03:31" org="ARCHIVE"}
+**速报纪要：** 本小时重点资讯涵盖中东地缘安全与前沿材料科学领域：也门胡塞武装发起全面进攻后，沙特王储穆罕默德·本·萨勒曼向美国寻求增派军事援助；学术界在艺术史料分析与半导体共价有机框架（COF）材料合成方面取得最新研究进展。
+
+**关键信号：** 沙特阿拉伯王储因胡塞武装进攻向美国请求更多军事援助，反映出也门及周边区域安全态势的变化。；乌普萨拉大学科研人员通过材料科学手段分析署名“L daVinci”的历史画作颜料，为艺术品溯源提供技术依据。；圣地亚哥-德孔波斯特拉大学CiQUS团队成功研发无需化学掺杂的半导体共价有机框架制备新策略。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260914/sport-2117681157.html) <span class="news-meta-time">🕒 2026-09-15 03:26</span>
+- [TechCrunch (硅谷创业与资本)] [亚马逊Prime Video上线短视频新闻片段，正面迎战TikTok](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/) <span class="news-meta-time">🕒 2026-09-15 02:14</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-15 03:01</span>
+- [The Guardian Society (卫报社会与民生)] [阿莉·范蒂洛讣告](https://www.theguardian.com/society/2026/sep/14/ally-van-tillo-obituary) <span class="news-meta-time">🕒 2026-09-15 01:23</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-davinci-analysis-reveals-renaissance-pigments.html) <span class="news-meta-time">🕒 2026-09-15 03:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260914/festival-2117680954.html) <span class="news-meta-time">🕒 2026-09-15 03:24</span>
+:::
 :::timeline-item{start="2026-09-14 22:16 (UTC+8)" title="全球要闻情报简报 · 22:16" org="ARCHIVE"}
 **速报纪要：** 本小时内，前沿基础物理取得重大实验突破，牛津大学团队与 CERN 合作证实极重且短暂粒子中存在量子纠缠；同时，地缘冲突对全球能源供需与核安全持续造成冲击，中东局势令航运受阻预期升高并推升煤炭需求至历史新高，俄方亦针对核电设施安全与建设进展发声。
 
