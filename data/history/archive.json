@@ -1,5 +1,1583 @@
 [
   {
+    "timestamp": 1789395373499,
+    "timeDisplay": "2026-09-14 22:16 (UTC+8)",
+    "date": "2026-09-14",
+    "runId": "feed-20260914T141334998Z-ynqoup",
+    "generatedAt": "2026-09-14T14:16:13.499Z",
+    "hourlyBriefing": {
+      "title": "整点快讯：欧洲强子对撞机证实极重粒子量子纠缠，中东地缘局势推动全球煤炭需求创新高",
+      "lead": "本小时内，前沿基础物理取得重大实验突破，牛津大学团队与 CERN 合作证实极重且短暂粒子中存在量子纠缠；同时，地缘冲突对全球能源供需与核安全持续造成冲击，中东局势令航运受阻预期升高并推升煤炭需求至历史新高，俄方亦针对核电设施安全与建设进展发声。",
+      "keySignals": [
+        "牛津大学物理学家参与的研究证实，量子纠缠现象可在极重且寿命极短的粒子间发生，成果发表于《Physical Review Letters》。",
+        "受美以与伊朗冲突及霍尔木兹海峡航运受阻风险影响，多国加大高污染燃料使用，国际能源署（IEA）预测今年全球煤炭需求将增长1.2%至89.4亿吨新纪录。",
+        "Rosatom 首席执行官 Alexey Likhachev 指责乌克兰意图使核电站陷入危急状态，并就相关设施建设进展作出说明。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-14",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】“涉谷黑胶酒吧”是一家无需任何AI提示词即可提供趣味音乐应用的初创公司：随着人工智能热潮持续发酵，不少新创公司纷纷推出各种工具，让人们能够借助生成式AI提示词，以任意心仪艺术家的风格来创作音乐。而“涉谷黑胶酒吧”（A Vinyl Bar in Shibuya，原文有拼写作 A Vinly Bar in Shibuya）这家听起来更像独立乐队名字的初创公司，则专注于推出一系列轻量级应用程序，让用户能尽情摆弄声音与人声。；【undefined】长达四小时的埃隆·马斯克纪录片或许只是在向认同者说教：该主题的相关文章将被添加到您的每日电子邮件文摘和主页动态中。 查看所有娱乐内容 查看所有影评 亚历克斯·吉布尼（Alex Gibney）的最新力作篇幅极其宏大，以至于可能会错失其预期的目标受众。 该作者的相关文章将被添加到您的每日电子邮件文摘和主页动态中。 查看安德鲁·韦伯斯特（Andrew Webster）的所有文章 《马斯克》（Musk）是一部篇幅很长的电影，这合情合理。曾执导过有关西拉诺斯（Theranos）和史蒂夫·乔布斯（St；【undefined】蜗牛壳是令人意想不到的气象时间胶囊：来自昆士兰大学 编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与政策进行了审核。编辑在确保内容可信度的同时强调了以下属性： 经同行评审的出版物"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】30分钟内搞定航测制图：我最近入手了一台大疆 DJI Lito X1，并决定看看能把它推向什么极限。航空测绘听起来令人兴奋：短短几分钟内，你就能超越谷歌地图的影像质量，并永久拥有一张某个地点的参考地图。；【undefined】英格兰抗抑郁药使用率高企的原因其实很简单：很多人确实需要它们 | 迪安·伯内特：全科医生无视指南并“过度开药”的说法根本站不住脚。相反，我们应该审视自身的社会与经济危机。 迪安·伯内特是一位神经科学博士。 英国国家医疗服务体系（NHS）的一份新报告披露，英格兰记录的抗抑郁药使用率达到了历史最高水平，在2025至2026年间，大约每七个人中就有一人被开具了抗抑郁药物处方。这引发了大批媒体报道，表达了对这一增幅的震惊，并就如何逆转、或是否应当逆转这一趋势提出了质疑。 如此高的抗抑郁药使用水平自然应当引发关注与反思。但目；【undefined】这周你在忙些什么？：你这周在忙些什么？欢迎随意分享！ 也要记住，完全什么都不做也完全没问题。 我发布了这款多人乒乓球 SSH 游戏。网页版运行效果不错，所以为什么不把它搬到终端里呢？ 试一试吧：ssh ssh.antics.gg 正在准备今年 NixCon 的演讲，主题是用 NixOS 运行一个业余自治系统（AS）。我以前从未去过波兰，所以总体上非常期待这次旅行。 除了本职工作，主要是备考 A2 摩托车驾照。我对计算机的兴趣最近进入了低谷期，主要是因为目前"
+        },
+        {
+          "name": "🔬 深空与基础科学",
+          "analysis": "【undefined】物理学家助力在大型强子对撞机中揭示“幽灵般的”量子效应：来自牛津大学 由莉萨·洛克（Lisa Lock）编辑，罗伯特·伊根（Robert Egan）审阅 本文已根据 Science X 的编辑流程与规范进行审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审出版物"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】俄罗斯国家原子能公司总经理：公司拥有处于不同完工阶段的30座RITM小型反应堆：塔斯社维也纳9月14日电 俄罗斯国家原子能公司（Rosatom）总经理阿列克谢·利哈乔夫在国际原子能机构（IAEA）大会第70届会议期间对记者表示，该公司拥有处于不同完工阶段的30座RITM小型反应堆，其中15座已经建成，另有大致相当数量的反应堆正在建设中。；【undefined】《伦敦生活》与《驯鹿宝贝》制片人发掘爆款的秘诀是什么？别刻意去寻找：弗朗西丝卡·穆迪（Francesca Moody），《伦敦生活》（Fleabag）与《驯鹿宝贝》（Baby Reindeer）的戏剧制片人，摄于2025年夏天的爱丁堡边缘艺术节（Edinburgh Fringe Festival）。杰夫·J·米切尔/盖蒂图片社欧洲分社 隐藏图片说明"
+        },
+        {
+          "name": "🛡️ 军事防务安全",
+          "analysis": "【undefined】用这些50美元以下的平价好物 让你的家在金秋更显温馨：在亚马逊（Amazon）、Wayfair和Michaels，毯子、炊具和照明灯具均低于50美元。（图源：iStock）"
+        },
+        {
+          "name": "💹 宏观资本与产业",
+          "analysis": "【undefined】NFL与中期选举助力预测市场迎来关键秋季周期：在过去两年中凭借政治和体育赛事的推动迈上新台阶的预测市场，正寄望于今年秋季这两大领域的交汇，以带动更大规模的普及。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 93,
+      "completedTasks": 93,
+      "succeeded": 83,
+      "degraded": 10,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 93,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 158419,
+      "byRole": {
+        "translator": {
+          "attempts": 56,
+          "degraded": 9,
+          "succeeded": 47
+        },
+        "fact-extractor": {
+          "attempts": 11,
+          "succeeded": 11
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 11,
+          "succeeded": 11
+        },
+        "topic-classifier": {
+          "attempts": 11,
+          "succeeded": 11
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 93,
+          "degraded": 10,
+          "succeeded": 83
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-6-translator-0",
+      "article-10-translator-1",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-21-translator-0",
+      "article-28-translator-0",
+      "article-36-translator-0",
+      "article-43-translator-0",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:11.705Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.449Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:11.729Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.709Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.669Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.823Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.709Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.968Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.450Z",
+        "lastSuccessAt": "2026-09-14T14:13:14.854Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.444Z",
+        "lastSuccessAt": "2026-09-14T14:13:14.652Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:14.854Z",
+        "lastSuccessAt": "2026-09-14T14:13:15.025Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.265Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.430Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.835Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.014Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.823Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.031Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.564Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.760Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.449Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.737Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.400Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.597Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.430Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.563Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:14.652Z",
+        "lastSuccessAt": "2026-09-14T14:13:15.406Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.738Z",
+        "lastSuccessAt": "2026-09-14T14:13:15.066Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:14.379Z",
+        "lastSuccessAt": "2026-09-14T14:13:14.799Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.954Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.197Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.645Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.669Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.598Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.645Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.237Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.265Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:11.489Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.237Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.197Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.254Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.092Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.327Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.990Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.261Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.180Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.295Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.311Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.734Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.949Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.990Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:14.794Z",
+        "lastSuccessAt": "2026-09-14T14:13:18.268Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.254Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.376Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.364Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.444Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.327Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.412Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.412Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.738Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:14.799Z",
+        "lastSuccessAt": "2026-09-14T14:13:14.968Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.737Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.835Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.968Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.364Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.060Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.180Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.376Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.606Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-14T14:13:13.295Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.270Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.507Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:11.487Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.321Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.337Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.450Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:11.488Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.270Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.507Z",
+        "lastSuccessAt": "2026-09-14T14:13:15.360Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.031Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.092Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.321Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.400Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.261Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.311Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.014Z",
+        "lastSuccessAt": "2026-09-14T14:13:13.060Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.606Z",
+        "lastSuccessAt": "2026-09-14T14:13:14.379Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:13.734Z",
+        "lastSuccessAt": "2026-09-14T14:13:14.794Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.786Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.954Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:12.760Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.949Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:11.471Z",
+        "lastSuccessAt": "2026-09-14T14:13:11.729Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:11.485Z",
+        "lastSuccessAt": "2026-09-14T14:13:11.705Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-14T14:13:11.486Z",
+        "lastSuccessAt": "2026-09-14T14:13:12.786Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-economy-2187421-b54dfe8612683a6a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Kiev’s attacks on Zaporozhye plant aim to create noxious conditions for staff — Likhachev",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:11:49.000Z",
+        "pubTime": "2026-09-14 22:11",
+        "url": "https://tass.com/economy/2187421",
+        "imageUrl": null,
+        "fullContent": "VIENNA, September 14. /TASS/. By attacking the Zaporozhye nuclear power station, Kiev intends to create unbearable conditions for the staff and put the plant in a critical situation, Rosatom CEO Alexey Likhachev told reporters.\n\n\"This is a common concern -- to ensure the safety of this largest nuclear facility in Europe. We may seem far away, we’re in Vienna. The distance here is about 1,400 kilometers. And even with a moderate wind, God forbid, the radioactive cloud will reach here in just over two days. This is why, of course, this is a common European concern, a task, and our main goal here is to explain what the main risks are in the ongoing escalation and intensification of attacks on the Zaporozhye plant,\" he said.\n\nHe reminded that in recent months, about 100 people have been injured by shelling, and nine plant workers and civilians in Energodar killed.\n\n\"Unfortunately, about 20 Energodar residents were killed in these attacks. The chief engineer, Alexander Yakovlevich, was killed. The latest events, when the Ukrainian Armed Forces struck a convoy of refuelers delivering fuel necessary for the safety of the station, I think have put everything in place. Who is doing what, and for what purpose. Almost everyone is acknowledging that this escalation, the desire to put the station and its personnel in a hopeless situation, will not achieve the intended goal,\" he said.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯国家原子能公司（Rosatom）总经理阿列克谢·利哈乔夫在维也纳对媒体表示，基辅袭击扎波罗热核电站旨在为员工制造无法承受的工作环境，并使电站陷入危急局面。",
+          "利哈乔夫表示扎波罗热核电站距离维也纳约1400公里，在中等风力情况下，放射性云层在两天多时间内即可抵达维也纳。",
+          "来源叙事重点：重点转述俄罗斯国家原子能公司（Rosatom）总经理利哈乔夫的指控，指责乌克兰军方持续袭击扎波罗热核电站及周边设施（包括运油车队），强调袭击导致包括总工程师在内的平民与员工伤亡，并以“核辐射云两天内可飘至维也纳”向欧洲施压，突出核安全风险的连带责任。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:11:49.000Z",
+            "url": "https://tass.com/economy/2187421"
+          }
+        ]
+      },
+      {
+        "id": "story-without-any-ai-prompting-973ebfd21f1da134",
+        "title": "“涉谷黑胶酒吧”是一家无需任何AI提示词即可提供趣味音乐应用的初创公司",
+        "originalTitle": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:55:00.000Z",
+        "pubTime": "2026-09-14 21:55",
+        "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+        "imageUrl": null,
+        "fullContent": "As AI rages on, new startups are creating tools for people to create music using generative AI prompts in the style of any artist they want. A Vinly Bar in Shibuya, a startup that sounds more like an indie band name, is focused on releasing a series of small apps that let you play around with sounds and vocals.\n\nThe company has raised a $5.5m pre-seed round from Mantis VC, SV Angel, Boxgroup, Quiet Capital, ERA, Common Metal, Gold House, Liquid 2 Ventures, Breakers VC, Systemic Ventures, and former Spotify chief content and advertising business officer, Dawn Ostroff, who joined the company as an advisor.\n\nThe startup is built by Máuhan M Zonoozy, who was the former head of innovation at Spotify. Prior to that, he founded a video clipping and remixing startup called Bubbl, which was acquired by Cricket Media.\n\nZonoozy, who left Spotify in 2024, said that he always wanted to go back to building something of his own. He thought that while streaming solved the access problem, most of the interaction with music was still around consumption.\n\n“I think when I looked at emergent behaviors and younger audiences, like everyone’s growing up playing with culture through games, through filters, through creation tools. And I just felt like there was an opportunity to empower people to do something similar with music,” he told TechCrunch.\n\nThe startup releases these experiments like “singles” that are part of an album. The common theme between all of these apps or websites is interacting with different elements to create music or modify sound. For instance, Speed Surfer is a Chrome extension that changes the speed and filter of sound playing in your browser window.\n\nUsersound is a website where you can create an “audio” username with each letter representing a note. Stacks is a stem player where you can create mixes by turning bars on or off in a 3×3 grid. Drops is about placing plaques in a pattern to deflect marbles falling down, which creates musical notes. Sampler is a website that turns YouTube videos into music samplers based on beats of different parts of the songs.\n\nThe company’s more ambitious product is an iOS app called bop. This lets you place musical instruments and effects in a grid to create different mixes of a base song. You can also adjust tempo and add one-time effects. Once you create these mixes, you can easily export them to TikTok or Instagram. A Vinly Bar in Shibuya is also working on a multiplayer version, which would let users remix songs with others.\n\nZonoozy said that it is making an informed choice not to infuse AI into every part of these apps. He is open to using AI to build these products and to make infrastructure solid, though.\n\n“AI is obviously extraordinarily powerful, but I think we just don’t necessarily believe that the future of music is simply generation, like song generation via AI. And I think if AI starts to make that content more abundant, it actually makes taste and human perspective and interaction and participation even more important and even more valuable. And we’re just trying to make sure it doesn’t make it even rarer,” he said.\n\nThis year, the company aims to release a “musical sandbox mixer” product that would let users play around with different elements of music-making, including being able to create instruments.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\n\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\n‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "fullTranslation": "随着人工智能热潮持续发酵，不少新创公司纷纷推出各种工具，让人们能够借助生成式AI提示词，以任意心仪艺术家的风格来创作音乐。而“涉谷黑胶酒吧”（A Vinyl Bar in Shibuya，原文有拼写作 A Vinly Bar in Shibuya）这家听起来更像独立乐队名字的初创公司，则专注于推出一系列轻量级应用程序，让用户能尽情摆弄声音与人声。\n\n该公司已完成550万美元的种子轮前（pre-seed）融资，投资方包括 Mantis VC、SV Angel、Boxgroup、Quiet Capital、ERA、Common Metal、Gold House、Liquid 2 Ventures、Breakers VC、Systemic Ventures，以及前 Spotify 首席内容与广告业务官道恩·奥斯特罗夫（Dawn Ostroff），她也以顾问身份加入了该公司。\n\n这家初创公司由前 Spotify 创新主管莫汉·M·佐努齐（Máuhan M Zonoozy）创办。在此之前，他曾创立视频剪辑与混剪初创公司 Bubbl，该公司后来被 Cricket Media 收购。\n\n佐努齐于2024年离开 Spotify，他表示自己一直想重回自主创业的道路。他认为，虽然流媒体解决了音乐获取的门槛问题，但大部分与音乐的互动仍仅仅停留在消费层面。\n\n他在接受 TechCrunch 采访时表示：“我认为，当我观察新兴行为和更年轻的受众时，大家都是通过游戏、滤镜、创作工具在玩转文化中成长的。我只是觉得，存在这样一个契机，可以让人们在音乐领域也能做到类似的事情。”\n\n该初创公司像发行专辑里的“单曲”一样推出这些实验性产品。所有这些应用或网站的共同主线，都是通过与不同元素互动来创作音乐或修改声音。例如，Speed Surfer 是一款 Chrome 浏览器扩展程序，可以改变浏览器窗口中正在播放的声音的速度和滤镜效果。\n\nUsersound 是一个网站，用户可以在上面创建一个“音频”用户名，其中每个字母代表一个音符。Stacks 是一款分轨播放器（stem player），用户可以通过在 3×3 网格中开启或关闭音轨条来制作混音。Drops 则是通过按特定模式放置薄片来弹开下落的弹珠，从而发出乐音。Sampler 则是一个能根据歌曲不同部分的节拍将 YouTube 视频转化为音乐采样器的网站。\n\n该公司更具雄心的产品是一款名为 bop 的 iOS 应用。它允许用户在网格中放置乐器和音效，从而为一首基础歌曲制作出不同的混音版本。用户还可以调整节奏并添加一次性效果。制作好这些混音后，可以轻松导出到 TikTok 或 Instagram。“涉谷黑胶酒吧”目前还在开发多人协作版本，让用户能够与他人共同混音歌曲。\n\n佐努齐表示，不将 AI 注入这些应用的每一个角落，是公司经过深思熟虑后做出的抉择。不过，他对使用 AI 来构建这些产品以及加固底层基础设施持开放态度。\n\n他说：“AI 显然极其强大，但我认为我们并不一定相信音乐的未来仅仅是生成——比如通过 AI 进行歌曲生成。我认为，如果 AI 开始让这类内容变得越来越丰富过剩，那么品味、人类视角、互动以及参与实际上会变得更加重要、更具价值。而我们只是在努力确保这些特质不至于变得更加稀缺。”\n\n今年，该公司的目标是推出一款“音乐沙盒混音器”产品，让用户能够摆弄音乐制作中的各种不同元素，包括能够自己创造乐器。\n\n当你通过我们文章中的链接进行购买时，我们可能会赚取微薄的佣金。这不会影响我们的编辑独立性。\n\nIvan 在 TechCrunch 负责报道全球消费科技动态。他常驻印度，此前曾供职于《赫芬顿邮报》（Huffington Post）和 The Next Web 等媒体。\n\n你可以通过发送邮件至 im@ivanmehta.com 或在 Signal 上向 ivan.42 发送加密消息来联系 Ivan 或核实其采访意向。\n\n预订展位的最后一天是9月18日。切勿错过在 Disrupt 展厅获取高价值潜在客户、接触投资者以及提升品牌知名度的良机。\n\nRevolut 证实因虚假政府请求导致客户数据泄露\n\n因 Astra 需求过大，OpenAI 暂停 Pro 订阅服务\n\n身份验证巨头 IDScan 证实发生数据泄露，超1.5亿张驾照遭窃\n\nAutomattic 董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）暂时休假\n\n苹果发布首款折叠屏手机 iPhone Duo\n\n“拿我们的生命作赌注”：Anthropic 研究员辞职，对自我改进型 AI 发出警告\n\n纽约大学数学家指责 OpenAI 在事关职业生涯的关键数学难题上使用不当手段",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 22,
+        "keyTakeaways": [
+          "初创公司 A Vinyl Bar in Shibuya 专注于推出一系列让用户体验声音和人声的小型音乐应用，且不依赖生成式 AI 提示词。",
+          "A Vinyl Bar in Shibuya 完成了 550 万美元的种子前轮（pre-seed）融资，投资方包括 Mantis VC、SV Angel、Boxgroup、Quiet Capital、ERA、Common Metal、Gold House、Liquid 2 Ventures、Breakers VC、Systemic Ventures 以及 Spotify 前首席内容和广告业务官 Dawn Ostroff。",
+          "来源叙事重点：聚焦前 Spotify 创新高管创办的音乐互动初创公司获得 550 万美元融资，重点报道其‘反生成式 AI 提示词’的产品理念，强调通过趣味交互与人类参与重新定义音乐创作体验。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T13:55:00.000Z",
+            "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/"
+          }
+        ]
+      },
+      {
+        "id": "story-eight-loss-wars-a406161a-f8b0ece3e54c93ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Novo Nordisk is changing its name and its culture to try to compete in the GLP-1 diet-drug wars",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:05:00.000Z",
+        "pubTime": "2026-09-14 22:05",
+        "url": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The Danish drug giant behind Ozempic is competing with Eli Lilly in the market for weight-loss drugs.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-14 22:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-14T14:05:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-l-maps-within-30-minutes-fc35228dec994854",
+        "title": "30分钟内搞定航测制图",
+        "originalTitle": "Finished aerial maps in under 30 minutes",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:37:36.000Z",
+        "pubTime": "2026-09-14 21:37",
+        "url": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
+        "imageUrl": null,
+        "fullContent": "I recently got a DJI Lito X1 and decided to see just how far I can push it. Aerial mapping sounded exciting: in a few minutes you can surpass Google Maps imagery and forever have a reference map of a place.\n\nWe need to ensure not to have the speed too high, otherwise the camera won't be able to keep up, and there will be gaps and misalignment in the finished map.\n\nAs you can see, I found 3.5 m/s at 80 m altitude to be effective. Lower altitude flights are higher resolution (obviously), but take longer. It's all trigonometry after all. The same FOV lower down sees less.\n\nDJI doesn't make this easy. DJI Fly has no import.\n\nCreate a placeholder mission in the app by opening Waypoint Flight and adding some useless waypoints. We're not going to use them, but it is essential that we add them.\n\nYes, really, it means you need to take off for the sole purpose of adding these waypoints that you're not going to use, since you cannot add any waypoints while on the ground.\n\nThis will create /sdcard/Android/data/dji.go.v5/files/waypoint/<GUID>/<GUID>.kmz on the device, which, frustratingly, you can only see by connecting your device to a computer. I used adb. You'll need to find the KMZ you downloaded and replace the <GUID>.kmz already there with it. Don't change the names.\n\nAt first glance in the folder, it shouldn't look like you changed anything.\n\nLuckily DJI has a tutorial on how to get to Waypoint Flight, but since you already added some waypoints, you should know where to go. You will note that the waypoints you added are gone, and the programmed flight path is now visible on the device.\n\nYou really only need to click start and wait. I cannot stress enough how fantastically cool this is. It will take off, fly to the first point, fly the whole route, capturing photos on the way (36 in this case), and then automatically land.\n\nI maximised the map here since there are more interesting things to see there than on an empty field, but you might want to keep an eye on the camera just in case.\n\nAfter you land, you can simply select all from today, aiming to match up the number of images with what you saw in Waypoint Flight. If you captured 36, you will want to download 36. If you did some recreational flying after your mapping, ensure you select all of the mapping photographs first.\n\nIf in doubt, download it. Each image is geotagged. We don't much care that the images were taken precisely at each point on the flight path. The tile processing server computes the map from the geographical information in each photograph, and discards images where the gimbal was not pointing exactly down. Ergo, it's fine to accidentally submit non-mapping images to the processing server - I know it's hard to juggle so many images on a mobile device.\n\nThis can be done from the phone or computer in several different ways, depending on what goes wrong (something will eventually go wrong).\n\nTo process the photographs, I'm using an on-site machine connected over Tailscale.\n\nIt then stitches the map, and the finished tiles are pulled back to the Zeitgeist Survey cloud server.\n\nThere we have it, an end-to-end demonstration of the Zeitgeist Survey capabilities. Plan to delivered map in under 30 minutes.\n\nYou can press the button below to see the live interactive map.",
+        "fullTranslation": "我最近入手了一台大疆 DJI Lito X1，并决定看看能把它推向什么极限。航空测绘听起来令人兴奋：短短几分钟内，你就能超越谷歌地图的影像质量，并永久拥有一张某个地点的参考地图。\n\n我们需要确保飞行速度不要太快，否则相机将无法跟上，最终生成的地图中就会出现缝隙和错位。\n\n正如你所见，我发现飞行高度 80 米、速度 3.5 米/秒的效果很好。较低高度的飞行分辨率更高（显而易见），但耗时更长。毕竟这完全是三角学原理：相同的视场角（FOV）在较低高度覆盖的范围更小。\n\n大疆并没有让这一切变得轻松。DJI Fly 应用程序没有航线导入功能。\n\n在应用中打开“航线飞行”（Waypoint Flight），添加几个毫无用处的航点，以此创建一个占位任务。我们不会用到这些航点，但添加它们是必不可少的。\n\n是的，真的如此，这意味着你必须专程起飞一次，只为了添加这些你根本用不上的航点，因为你在地面上无法添加任何航点。\n\n这会在设备上生成 /sdcard/Android/data/dji.go.v5/files/waypoint/ / .kmz 文件，令人沮丧的是，你只能通过将设备连接到电脑才能看到它。我使用了 adb。你需要找到下载好的 KMZ 文件，并用它替换掉原来在那里的 .kmz 文件。不要更改文件名。\n\n乍看该文件夹，应该看不出你做过任何修改。\n\n幸运的是，大疆提供了如何进入航线飞行的教程，但既然你之前已经添加过航点，你应该知道该点哪里。你会注意到之前添加的航点已经消失，预设好的航线现在已经在设备上清晰可见。\n\n你真的只需要点击开始并等待。我简直无法形容这有多么酷炫。它会自动起飞，飞往第一个航点，飞完全程航线，一路上拍照（本例中拍摄了 36 张），然后自动降落。\n\n我在这里把地图视图最大化了，因为那里比空旷的田野有更多有趣的东西可以看，但以防万一，你可能还是需要留意相机画面。\n\n降落后，只需直接全选当天的照片，目标是让照片数量与在“航线飞行”中看到的一致。如果拍了 36 张，你就需要下载 36 张。如果在测绘完成后你还进行了休闲飞行，请务必先选齐所有测绘照片。\n\n如有疑虑，全部下载即可。每张照片都带有地理标记。我们并不太在乎照片是否严格在航线的每个航点上精确拍摄。瓦片处理服务器会根据每张照片中的地理信息来计算生成地图，并丢弃云台没有垂直朝下的照片。因此，就算不小心把非测绘照片也提交给了处理服务器也没关系——我知道在移动设备上管理这么多照片确实很繁琐。\n\n这一步可以通过手机或电脑以多种不同方式完成，具体取决于遇到了什么故障（反正迟早会出点岔子）。\n\n为了处理这些照片，我使用了一台通过 Tailscale 连接的现场机器。\n\n随后它会拼接地图，生成完毕的瓦片会被拉取回 Zeitgeist Survey 的云端服务器。\n\n搞定！这就是 Zeitgeist Survey 能力的端到端演示。从规划到最终交付地图，耗时不到 30 分钟。\n\n你可以点击下方的按钮查看实时交互式地图。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "作者使用 DJI Lito X1 进行航拍测绘测试，在80米高度以3.5米/秒的速度飞行测绘被证实有效。",
+          "DJI Fly 应用没有直接导入航线任务的功能，用户无法在地面直接添加航路点，必须先起飞以添加占位航路点。",
+          "来源叙事重点：通过逆向探索与系统工作流编排（利用 adb 替换 KMZ 航线文件、Tailscale 局域网组网与 Zeitgeist Survey 云端处理），展示如何在 30 分钟内绕过 DJI 官方软件限制，实现高效的全流程低空自主航测与高精地图拼图。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T13:37:36.000Z",
+            "url": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/"
+          }
+        ]
+      },
+      {
+        "id": "story-ooky-quantum-effect-html-d1bda61e8e4b79e2",
+        "title": "物理学家助力在大型强子对撞机中揭示“幽灵般的”量子效应",
+        "originalTitle": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:12:41.000Z",
+        "pubTime": "2026-09-14 22:12",
+        "url": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxford-physicists-help.jpg",
+        "fullContent": "by University of Oxford\n\nedited by Lisa Lock, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nPhysicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics—quantum entanglement—occurs even among some of the heaviest and most fleeting particles ever created. The discovery, made using the world's most powerful particle collider at CERN, has been published in Physical Review Letters.\n\nEntanglement is the phenomenon in which two particles from the same origin remain connected, even if they move far apart in time and space. If something affects one particle, it will also affect all the particles with which it is entangled. This means that measuring a property of one particle instantly tells you something about its entangled partners, no matter how distant they are.\n\nAlbert Einstein famously called entanglement \"spooky action at a distance,\" and the phenomenon has been demonstrated in a range of systems, including photons, electrons and trapped ions. Today, entanglement is no longer just a curiosity: It underpins emerging technologies such as quantum computers, ultra-secure quantum communication networks and next-generation sensors. For instance, in quantum computing, entanglement is used to manipulate multiple qubits in a single operation rather than individually. This allows multiple calculations to be performed simultaneously.\n\nHowever, it was unknown whether quantum entanglement remains intact under more extreme conditions—such as the short-lived particles produced during highly energetic collisions. To test this, an international collaboration used the ATLAS experiment at CERN's Large Hadron Collider (LHC) near Geneva, Switzerland. The team looked for entanglement in an entirely new setting: pairs of Z bosons that exist for only a fraction of a second before decaying.\n\n\"Quantum mechanics underpins computing, security and many areas of physics. However, quantum mechanics has mysteries and puzzles that are not yet fully understood. Using particle colliders allows us to test quantum mechanics at energies a trillion times higher and over distances smaller than the size of the nucleus. This probes some of the extreme conditions where quantum mechanics might break down, which would have profound consequences for the foundations of science,\" said study co-author Professor Alan Barr of the Department of Physics.\n\nThe Z bosons studied were produced in the decay of a Higgs boson—the particle discovered at the LHC in 2012—which briefly split into two Z bosons before each decayed further into pairs of electrons or muons. The Higgs bosons are generated by smashing together protons traveling at 99.99% the speed of light in collisions with energies of 13 trillion electron volts.\n\nAlthough the Z bosons vanish almost instantly, the ATLAS detector can precisely track the electrons and muons they leave behind. By reconstructing the angles at which these particles were emitted, the researchers could infer the spins of the original Z bosons and test whether they were linked by quantum entanglement. The results showed strong evidence that they were. This makes it one of the highest-energy confirmations of quantum entanglement ever recorded.\n\nStudy co-author Professor Barr, at Oxford's Department of Physics, was one of the first to propose that particle colliders could be used to investigate quantum entanglement at vastly higher energy levels than all previous tests. Having been involved in the construction of the LHC, he realized that the colossal apparatus could be used for more than discovering new particles. His ideas informed a 2023 experiment, also using the ATLAS detector, which demonstrated entanglement between pairs of top quarks, the heaviest known elementary particle.\n\nProfessor Barr said, \"We're used to thinking of entanglement as something delicate, seen in laboratory experiments with single photons. Finding it alive and well among particles as heavy and short-lived as Z bosons, created in some of the most violent collisions we can produce on Earth, shows just how fundamental and robust this quantum effect really is. It's a nice reminder that the same strange rules of quantum mechanics that may one day power quantum computers are at work everywhere in nature, even at the extreme energies of the Large Hadron Collider.\"\n\n\"It has been gratifying to see that the use of particle colliders to test quantum effects has now become a major subfield in physics, with more than a hundred researchers working on it worldwide,\" said study co-author Professor Barr of the Department of Physics.\n\nBeyond its fundamental significance, the research adds to a growing effort by physicists to borrow tools and ideas from quantum information science (the field behind quantum computing) and apply them to particle physics. This cross-pollination is helping scientists develop new, more sensitive ways of analyzing collider data, with the potential to reveal subtle effects that might point to physics beyond our current understanding of the universe.\n\nAt Oxford University, Professor Barr co-leads a major interdisciplinary project exploring the foundations of quantum mechanics at high energies. Besides empirically testing quantum effects at the smallest possible scales and highest energies, the project is also investigating the philosophical implications of these measurements and what they may tell us about the fundamental nature of reality.\n\nProject co-principal investigator Professor Chris Timpson (Faculty of Philosophy) said, \"Entanglement is both the most promising and the most puzzling aspect of quantum reality; these collider experiments detecting entanglement present a new frontier in investigations of the foundations of quantum mechanics.\"\n\nOxford University researchers are also involved in the upgrade currently taking place on the ATLAS detector. Combined with the upgraded High-Luminosity Large Hadron Collider, this will allow researchers to undertake even more profound explorations of quantum phenomena and apply novel quantum information techniques to exploit the huge data sets that this machine will deliver.\n\nProfessor Daniela Bortoletto (Department of Physics, University of Oxford), who is the U.K. coordinator for producing the modules for the upgraded ATLAS detector's pixel system, said, \"This measurement demonstrates the scientific power of the ATLAS collaboration and the unique capabilities of CERN's Large Hadron Collider. Oxford researchers have played a leading role in developing these new approaches to studying quantum phenomena at the highest energies, and we are proud to contribute to an international effort that is opening new ways to explore the fundamental laws of nature.\"\n\nG. Aad et al, Measurements of Z-Boson Pair Entanglement in Decays of Higgs Bosons at the ATLAS Experiment, Physical Review Letters (2026). DOI: 10.1103/y1nh-1b82\n\nJournal information: Physical Review Letters\n\nProvided by University of Oxford\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "来自牛津大学\n由莉萨·洛克（Lisa Lock）编辑，罗伯特·伊根（Robert Egan）审阅\n本文已根据 Science X 的编辑流程与规范进行审核。编辑在确保内容可信度的同时强调了以下属性：\n同行评审出版物\n\n牛津大学的物理学家助力证实，物理学中最奇特的现象之一——量子纠缠——即使在有史以来产生的某些最重且最转瞬即逝的粒子之间也依然存在。这项利用欧洲核子研究中心（CERN）全球最强大的粒子对撞机取得的发现，已发表在《物理评论快报》（Physical Review Letters）上。\n\n量子纠缠是指同源的两个粒子即使在时空上相距遥远也能保持关联的现象。如果某种因素影响了其中一个粒子，它也会影响所有与其纠缠的粒子。这意味着测量一个粒子的某种性质，就能立即获知关于其纠缠伙伴的信息，无论它们相距多远。\n\n阿尔伯特·爱因斯坦曾著名地将量子纠缠称为“鬼魅般的超距作用”，这一现象已在一系列系统中得到证实，包括光子、电子和俘获离子。如今，纠缠已不再仅仅是一种令人好奇的现象：它支撑着量子计算机、超安全量子通信网络和下一代传感器等新兴技术。例如，在量子计算中，纠缠被用于在单次操作中同时操控多个量子比特，而不是逐一进行。这使得多项计算可以同时执行。\n\n然而，量子纠缠在更为极端的条件下——例如在超高能碰撞期间产生的短寿命粒子中——是否仍能保持完好，此前尚属未知。为了检验这一点，一个国际合作团队利用了位于瑞士日内瓦附近的 CERN 大型强子对撞机（LHC）上的 ATLAS 实验。该团队在一种全新的环境中寻找纠缠：仅存在几分之一秒便衰变的一对对 Z 玻色子。\n\n该研究合著者、物理系教授艾伦·巴尔（Alan Barr）表示：“量子力学构成了计算、安全以及诸多物理学领域的基础。然而，量子力学仍有尚未被完全理解的谜团和难题。利用粒子对撞机，我们能够在高出万亿倍的能量级以及小于原子核尺寸的距离尺度上检验量子力学。这将探究量子力学可能崩溃的某些极端条件，而这会对科学的基石产生深远的影响。”\n\n研究所涉及的 Z 玻色子是在希格斯玻色子（2012年在 LHC 上发现的粒子）的衰变过程中产生的，希格斯玻色子短暂地分裂成两个 Z 玻色子，随后每个 Z 玻色子又进一步衰变为成对的电子或缪子。希格斯玻色子是通过让以 99.99% 光速运行的质子在 13 万亿电子伏特的能量下发生对撞而产生的。\n\n尽管 Z 玻色子几乎瞬间消失，但 ATLAS 探测器能够精确追踪它们遗留下的电子和缪子。通过重建这些粒子发射的角度，研究人员可以推断出最初 Z 玻色子的自旋，并检验它们是否通过量子纠缠关联在一起。结果显示了支持这一点的强有力证据。这使其成为有记录以来能量最高的量子纠缠证实之一。\n\n该研究合著者、牛津大学物理系的巴尔教授是最早提出可以利用粒子对撞机在远高于以往所有测试的能级上研究量子纠缠的学者之一。巴尔曾参与 LHC 的建造，他意识到这个庞大的装置不仅能用于发现新粒子。他的构想为 2023 年同样利用 ATLAS 探测器进行的一项实验提供了依据，该实验证实了已知最重的基本粒子——顶夸克对之间的纠缠。\n\n巴尔教授表示：“我们通常认为纠缠是一种脆弱的现象，见于单光子的实验室实验中。但在像 Z 玻色子这样重且转瞬即逝的粒子之间发现它完好存在——这些粒子产生于我们在地球上所能制造的最剧烈的碰撞中——这表明这种量子效应究竟有多么基本和稳健。这是一个很好的提醒：有朝一日可能为量子计算机提供动力的奇特量子力学规则，在自然界的任何地方都在起作用，哪怕是在大型强子对撞机的极端能量下。”\n\n该研究合著者、物理系教授巴尔表示：“令人欣慰的是，利用粒子对撞机检验量子效应现在已经成为物理学的一个主要分支领域，全球有超过一百名研究人员正在为此工作。”\n\n除了其基础意义之外，这项研究还加入了一项不断发展的努力之中，即物理学家借鉴量子信息科学（量子计算背后的领域）的工具和理念，并将其应用于粒子物理学。这种跨领域的交融正在帮助科学家开发全新、更灵敏的对撞机数据分析方法，有望揭示可能指向超越我们当前对宇宙理解的物理现象的微妙效应。\n\n在牛津大学，巴尔教授共同领导着一个重大跨学科项目，探索高能条件下的量子力学基础。除了在尽可能最小的尺度和最高能量下对量子效应进行实证检验外，该项目还在探究这些测量的哲学意涵，以及它们能揭示关于现实基本本质的何种内涵。\n\n项目共同负责人、哲学系教授克里斯·廷普森（Chris Timpson）表示：“纠缠既是量子现实中最具前景的方面，也是最令人费解的方面；这些探测纠缠的对撞机实验为量子力学基础的研究开辟了新的前沿。”\n\n牛津大学的研究人员还参与了 ATLAS 探测器目前正在进行的升级工作。结合升级后的高亮度大型强子对撞机（High-Luminosity Large Hadron Collider），这将使研究人员能够对量子现象展开更深入的探索，并应用新颖的量子信息技术来利用该装置将提供的庞大数据集。\n\n负责英国为升级后的 ATLAS 探测器像素系统生产模块的协调人、牛津大学物理系丹妮拉·博尔托莱托（Daniela Bortoletto）教授表示：“这一测量证明了 ATLAS 合作组的科学实力以及 CERN 大型强子对撞机的独特能力。牛津大学的研究人员在开发这些于最高能量下研究量子现象的新方法中发挥了主导作用，我们为能够为这项开辟探索自然基本定律新途径的国际努力做出贡献而感到自豪。”\n\nG. Aad 等人，《ATLAS 实验中希格斯玻色子衰变中 Z 玻色子对纠缠的测量》（Measurements of Z-Boson Pair Entanglement in Decays of Higgs Bosons at the ATLAS Experiment），《物理评论快报》（Physical Review Letters，2026 年）。DOI: 10.1103/y1nh-1b82\n期刊信息：《物理评论快报》（Physical Review Letters）\n内容提供：牛津大学（University of Oxford）\n艺术史学士，物质文化硕士。曾任博物馆编辑、急救医士及器官移植协调员。自 2021 年起为 Science X 担任编辑。查看完整简介 →\n数学生物学学士，创意写作硕士。游历广泛，对科学与语言持有独到见解。查看完整简介 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "牛津大学物理学家参与的一项国际合作研究证实，在欧洲核子研究中心（CERN）大型强子对撞机（LHC）的ATLAS实验中，希格斯玻色子衰变产生的Z玻色子对之间存在量子纠缠。",
+          "该研究成果已发表在《物理评论快报》（Physical Review Letters）上，论文第一作者为G. Aad等人。",
+          "来源叙事重点：重点阐述牛津大学物理学家主导/参与的国际合作团队在欧洲核子研究中心（CERN）LHC的ATLAS实验中，成功于希格斯玻色子衰变产生的极重、短寿命Z玻色子对间观测到高能态量子纠缠；突出这一成果在检验极端条件下量子力学稳健性、推动量子信息科学与高能粒子物理跨学科交叉、以及未来结合高亮度大型强子对撞机升级拓展基础物理学研究前沿的重大科学价值。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:12:41.000Z",
+            "url": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html"
+          }
+        ]
+      },
+      {
+        "id": "story-economy-2187415-aac1361c6caa263e",
+        "title": "俄罗斯国家原子能公司总经理：公司拥有处于不同完工阶段的30座RITM小型反应堆",
+        "originalTitle": "Rosatom has 30 RITM small reactors at various stages of completion — CEO",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:09:11.000Z",
+        "pubTime": "2026-09-14 22:09",
+        "url": "https://tass.com/economy/2187415",
+        "imageUrl": null,
+        "fullContent": "VIENNA, September 14. /TASS/. Rosatom has 30 RITM small reactors at various stages of completion, with 15 already built and roughly the same number under construction, Rosatom Director General Alexey Likhachev told reporters on the sidelines of the 70th session of the IAEA General Conference.\n\n\"We currently have 30 RITM small reactors at various stages: 15 have already been built, and 13-14 are at various stages of development,\" the Rosatom chief said. He noted that the world is gradually realizing that Small Modular Reactors (SMRs) are not a one-size-fits-all solution, but are instead required for specific market segments.\n\n\"Small reactors -- whether in remote, isolated micro-economic systems, large-scale industrial projects, or mobile floating configurations -- are in demand within specific segments,\" Likhachev noted.",
+        "fullTranslation": "塔斯社维也纳9月14日电 俄罗斯国家原子能公司（Rosatom）总经理阿列克谢·利哈乔夫在国际原子能机构（IAEA）大会第70届会议期间对记者表示，该公司拥有处于不同完工阶段的30座RITM小型反应堆，其中15座已经建成，另有大致相当数量的反应堆正在建设中。\n\n这位俄国家原子能公司负责人表示：“我们目前拥有处于不同阶段的30座RITM小型反应堆：15座已经建成，还有13至14座处于不同的研发与建设阶段。”他指出，全球正在逐渐认识到，小型模块化反应堆（SMR）并非通用型解决方案，而是特定细分市场所需要的。\n\n利哈乔夫指出：“小型反应堆——无论是在偏远、孤立的微型经济体系、大型工业项目，还是移动式浮动平台配置中——在特定细分领域都存在需求。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "俄罗斯国家原子能公司（Rosatom）拥有30座处于不同建造或研发阶段的RITM小型反应堆。",
+          "在Rosatom的30座RITM小型反应堆中，有15座已经建造完成。",
+          "来源叙事重点：重点报道Rosatom在小型模块化反应堆（SMR，具体为RITM系列）上的规模化建造和交付进展，突出俄罗斯在全球小堆商用与建造方面的领先地位，并传达SMR适用于特定细分市场的务实市场定位。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:09:11.000Z",
+            "url": "https://tass.com/economy/2187415"
+          }
+        ]
+      },
+      {
+        "id": "story-mentary-review-tiff-2026-50192dca1a689225",
+        "title": "长达四小时的埃隆·马斯克纪录片或许只是在向认同者说教",
+        "originalTitle": "The four-hour-long Elon Musk documentary might be preaching to the choir",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:50:00.000Z",
+        "pubTime": "2026-09-14 21:50",
+        "url": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/MUSK-_-Still-2-Credit_-Ken-Cedenoupi-UPI-Alamy-News.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Entertainment\n\nSee All Movie Review\n\nAlex Gibney’s latest feature is so gigantic in scope that it might miss its intended audience.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Andrew Webster\n\nIt makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of Elon Musk, from his early days as a dot-com millionaire to “taking a wood chipper” to vital US government departments. In order to understand Musk’s rise to power, you need to know the whole story. Musk tells it compellingly and convincingly, but doesn’t offer much in the way of revelations if you’re aware of Musk’s catastrophic influence on the world. For everyone else, a demanding runtime just shy of four hours might prove too much of a barrier to being convinced.\n\nThe film opens with shots of space and a voiceover of Musk detailing some of his sci-fi ambitions. From there, it’s a fairly chronological narrative of how we got to this point. The first section of the film reveals how Musk’s mythology was built, while also steadily seeding doubts that he’s the Tony Stark–style tycoon that many believe him to be. It starts off with the basic details, like when Musk was ousted as CEO from PayPal or how he convinced the world he founded Tesla, a company that existed before he was involved. The film juxtaposes his many bombastic claims about autonomous vehicles with visceral footage of a deadly crash involving a Tesla on autopilot. It drops in poignant interviews, like when former MAGA influencer Ashley St Clair, mother to one of Musk’s many children, declares in a terrified voice: “Elon is a nuke.”\n\nAt the outset, Gibney makes it clear that his goal is to answer two questions with interrelated answers: how Musk got so powerful, and why we allowed it to happen. By gradually accruing power through Tesla, X, SpaceX, and Starlink, Musk ingratiated himself with governments all over the world, in particular the US, and then used that political power to further his own interests once it became so hard to extricate his influence. The documentary lays out the plot clearly and concisely, all in one place.\n\nMusk himself didn’t participate in the documentary. Instead, he sent Gibney a legal threat over it. So Gibney built in a digital doppelgänger that mouths to audio of things Musk actually said, based on a database the team created of existing clips. The avatar Musk veers into uncanny valley territory, with its overly expressive face and unsettling heavy breathing, but it’s a smart way of putting Musk’s face to his words, in a manner of speaking. And it fits well with Musk’s belief in simulation theory. Additionally, the movie uses plenty of sim and video game imagery to illustrate things throughout, like a fictional first-person shooter that depicts Musk dismantling Twitter and the US government with a chainsaw that shoots lasers. It’s over-the-top and absurd, but then again we’re here, in part, because of a kid bureaucrat named Big Balls.\n\nIn many ways, Musk is successful. It lays out how he got to power and why he was able to accrue so much of it without being stopped, which boils down to him being far too rich and ingrained by the time most people realized what was going on. Unfortunately, as someone who has followed the story over the years, I can’t say I learned much or gained new insights into the man while watching Musk.\n\nWhich makes me wonder who this film is for. Many people have already woken up to the fact that Musk is something quite different than some kind of genius inventor, but there are still plenty who only associate his name with past wins like incremental advances in reusable rockets or pre-Tesla Cybertruck vehicles. The film even interviews one fan who says he intentionally ignores the things about Musk that he doesn’t agree with. That’s exactly the kind of person who would benefit most from watching Musk lay it out all in one place.\n\nBut in a world of dwindling attention spans, four hours in a theater is a lot to ask (even if it does have a 10-minute intermission). It could miss the people who need to see it the most.\n\nMusk is in theaters on October 16th. This review is based on a screening at the Toronto International Film Festival.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关文章将被添加到您的每日电子邮件文摘和主页动态中。\n查看所有娱乐内容\n查看所有影评\n亚历克斯·吉布尼（Alex Gibney）的最新力作篇幅极其宏大，以至于可能会错失其预期的目标受众。\n该作者的相关文章将被添加到您的每日电子邮件文摘和主页动态中。\n查看安德鲁·韦伯斯特（Andrew Webster）的所有文章\n《马斯克》（Musk）是一部篇幅很长的电影，这合情合理。曾执导过有关西拉诺斯（Theranos）和史蒂夫·乔布斯（Steve Jobs）纪录片的亚历克斯·吉布尼，其最新作品对埃隆·马斯克的故事进行了令人印象深刻且极为详尽的重述，从他早年作为互联网百万富翁的岁月，一直讲到对美国关键政府部门“大刀阔斧削减”（taking a wood chipper）。为了理解马斯克如何崛起掌握大权，你需要了解整个来龙去脉。《马斯克》的讲述极具吸引力和说服力，但如果你已经知晓马斯克对世界造成的灾难性影响，这部影片并没有提供太多新揭秘。对于其他人来说，接近四个小时的高门槛片长可能会成为被其说服的过大障碍。\n\n影片以太空镜头和马斯克详细阐述其某些科幻雄心的旁白开场。从那里开始，影片以相当连贯的时间线叙述了我们是如何走到今天这一步的。影片的第一部分揭示了马斯克的神话是如何建立起来的，同时也稳步埋下了怀疑的种子，质疑他并非许多人所认为的托尼·斯塔克式的科技大亨。它从基本细节开始，比如马斯克当年如何被赶出PayPal的CEO职位，或者他是如何让全世界相信他创立了特斯拉——而这家公司在他加入之前就已经存在。影片将他对自动驾驶汽车的诸多夸张宣称，与特斯拉在Autopilot状态下发生致命车祸的触目惊心的画面并列呈现。它还穿插了令人心酸的采访，例如前MAGA网红、马斯克众多孩子的母亲之一阿什莉·圣克莱尔（Ashley St Clair）用恐惧的声音宣称：“埃隆就是一枚核弹。”\n\n一开篇，吉布尼就明确表示他的目标是回答两个答案相互关联的问题：马斯克是如何变得如此权势滔天的，以及我们为何允许这种情况发生。通过特斯拉、X、SpaceX和星链（Starlink）逐步积聚权力，马斯克赢得了包括美国在内的世界各地政府的青睐，随后在外界极难摆脱其影响时，利用这种政治权力来进一步谋求自身利益。这部纪录片条理清晰、简明扼要地在一处集中展示了这一全局图景。\n\n马斯克本人没有参与这部纪录片。相反，他为此向吉布尼发出了法律威胁。因此，吉布尼根据团队建立的现有视频片段数据库，构建了一个数字替身，让其根据马斯克实际讲过的话对口型。这个虚拟马斯克由于其过于夸张的面部表情和令人不安的粗重呼吸，陷入了“恐怖谷”领域，但从某种意义上说，这是一种将马斯克的面孔与其言论结合起来的巧妙方式。而且这也非常契合马斯克对模拟理论（simulation theory）的笃信。此外，整部影片大量使用了模拟游戏和视频游戏的意象来进行阐释，比如一款虚构的第一人称射击游戏，描绘了马斯克手持发射激光的电锯拆解Twitter和美国政府的场景。这虽然夸张且荒谬，但话说回来，我们之所以走到今天，在某种程度上也是因为一个名为Big Balls的初级官僚。\n\n在很多方面，《马斯克》是成功的。它阐明了他如何获得权力，以及为什么他能够不受阻拦地积聚如此多的权力——这归结为等到大多数人意识到发生了什么的时候，他已经太过富有且根深蒂固。不幸的是，作为多年来一直关注这一事件的人，我不能说自己在观看《马斯克》时学到了很多东西，或者对这个人获得了什么新的见解。\n\n这让我不禁思考这部电影到底拍给谁看。许多人已经意识到马斯克绝非某种天才发明家，但仍有许多人仅将他的名字与过去的成就联系在一起，比如可重复使用火箭的渐进式进展，或者特斯拉Cybertruck问世之前的电动车产品。影片甚至采访了一位粉丝，他表示自己会刻意忽略那些他不认同的关于马斯克的事情。这类人恰恰是最能从观看《马斯克》这种一站式全面梳理中获益的群体。\n\n但在一个注意力持续时间不断缩短的世界里，要求人们在电影院里坐上四个小时是一件要求过高的事情（即便它包含10分钟的中场休息）。它很可能会错过那些最需要看到它的人。\n\n《马斯克》将于10月16日在影院上映。本篇影评基于多伦多国际电影节的放映版本。\n最重要新闻的每日免费文摘。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "Alex Gibney执导了一部关于Elon Musk的纪录片《Musk》，该片时长将近4小时，并设有10分钟的中场休息。",
+          "Alex Gibney此前曾执导过关于Theranos和Steve Jobs的纪录片。",
+          "来源叙事重点：评析纪录片导演亚历克斯·吉布尼关于埃隆·马斯克长达近四小时的新作《Musk》，既肯定其详尽梳理马斯克发家史及权力扩张的批判性叙事，又质疑过长片长可能导致其仅在“已觉醒”的批评者圈层中传播（即‘向唱诗班讲道’），难以触达最需要被警示的普通大众或马斯克支持者。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T13:50:00.000Z",
+            "url": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026"
+          }
+        ]
+      },
+      {
+        "id": "story-muz-using-pipelines-html-63de17e277931357",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Problem With Trying to Bypass Hormuz Using Pipelines",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:00:00.000Z",
+        "pubTime": "2026-09-14 22:00",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Problem-With-Trying-to-Bypass-Hormuz-Using-Pipelines.html",
+        "imageUrl": null,
+        "fullContent": "The East-West Pipeline in Saudi Arabia, which delivers oil to the shores of the Red Sea, has been an important workaround to the choking of tanker traffic by Iran in the Strait of Hormuz, the only exit for tankers from the Persian Gulf to the open sea. The Saudi government claims that 7 million barrels per day mbpd of crude oil can flow westward through the pipeline to the port of Yanbu, though the current exports are thought to be lower perhaps 5 mbpd than that given infrastructure restraints. But now that pipeline has been bombed and put out of service. The Saudis are saying that the pipeline has been closed \"as a precautionary measure.\" But that statement seems to underplay what has happened. Satellite images show that the attacks damaged at least two pumping stations. Repairing or replacing these stations may be more involved than simply replacing a section of damaged pipeline since the pipeline sits mostly above ground. And, of course, once repaired, the pipeline could simply be attacked again. The 1200-kilometer length of the pipeline is not easily defended. The oil-starved importers of the world have been gushing about how much oil has been getting out of the Persian Gulf right under the noses of a threatening Iranian Revolutionary Guard Corps IRGC who are standing watch with missiles and drones on the shores of the Strait of Hormuz. But even these surreptitious transits have carried volumes far below those transported before the war began, only 7 mbpd versus 20 mbpd. The East-West Pipeline became a crucial source of oil to the world after the Iranians closed the Strait of Hormuz. Now a missile and drone attack has put to rest the idea that pipelines are, in fact, a genuine solution to the current and any future closure of the Strait of Hormuz. Given how obvious it is that pipelines are easy to attack with drones and missiles, it has been puzzling to read all the talk about building new pipelines in and around the Persian Gulf region to lessen dependence on the Strait of Hormuz. Only a simpleton would believe that these pipelines would somehow escape attack during a conflict in the region. The pipeline \"solution\" demonstrates perfectly 1 how one-dimensional much of the media coverage of the U.S.-Israeli war with Iran has been and 2 how one-dimensional the strategic thinking on the part of the United States has been. All any observer needs to do is look up in the sky and discover that there are second and third dimensions, making it possible for aerial weapons to come from far away to destroy any pipeline. It is difficult not to ridicule those who failed to make this simple observation before committing their typing fingers or their mouths to such a nonsense solution to the Strait of Hormuz closure as pipelines. By Kurt Cobb via Resource Insights",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "沙特阿拉伯的东西管道（East-West Pipeline）将原油输送至红海沿岸的延布港（port of Yanbu），全长1200公里且大部分位于地上。",
+          "沙特政府声称东西管道每天可向西输送700万桶原油，但目前实际出口量被认为因基础设施限制而低于该水平（约为500万桶/日）。",
+          "来源叙事重点：质疑‘通过陆上管道绕过霍尔木兹海峡’的可行性，重点强调陆地管道在空中打击（无人机、导弹）面前的脆弱性，并尖锐批评美以与主流媒体在能源安全上的‘一维’短视思维。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/The-Problem-With-Trying-to-Bypass-Hormuz-Using-Pipelines.html"
+          }
+        ]
+      },
+      {
+        "id": "story-idelines-overprescribing-59ca95360efcd543",
+        "title": "英格兰抗抑郁药使用率高企的原因其实很简单：很多人确实需要它们 | 迪安·伯内特",
+        "originalTitle": "There’s a surprisingly simple reason for England’s high antidepressant use: lots of people need them | Dean Burnett",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T12:00:58.000Z",
+        "pubTime": "2026-09-14 20:00",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing",
+        "imageUrl": "https://i.guim.co.uk/img/media/d08e5cf1ac4b23439982230785edce3c486c6947/0_549_4035_3229/master/4035.jpg?width=140&quality=85&auto=format&fit=max&s=2d48205d2c761a5a9595eb5c868dce71",
+        "fullContent": "The idea that GPs are ignoring guidelines and ‘overprescribing’ doesn’t hold water. Instead, look to our social and economic crises\n\nDean Burnett is a doctor of neuroscience\n\nA new NHS report has revealed the highest ever levels of antidepressant use recorded in England, with roughly one in seven people prescribed an antidepressant item in 2025-26. This has resulted in a swathe of media coverage expressing alarm over the increase, with questions about what could, or should, be done to reverse the trend.\n\nSuch a high level of antidepressant use should, of course, prompt concern and reflection. But the popular claim that has taken hold is that antidepressant use is too high because of “ overprescribing ”, as Dr John Read, a professor of clinical psychology, says in the Daily Mail. This is the idea that patients are being prescribed antidepressants when they shouldn’t be, or when better, safer alternatives are available.\n\nDean Burnett is a doctor of neuroscience and the author of The Idiot Brain and Emotional Ignorance",
+        "fullTranslation": "全科医生无视指南并“过度开药”的说法根本站不住脚。相反，我们应该审视自身的社会与经济危机。\n迪安·伯内特是一位神经科学博士。\n英国国家医疗服务体系（NHS）的一份新报告披露，英格兰记录的抗抑郁药使用率达到了历史最高水平，在2025至2026年间，大约每七个人中就有一人被开具了抗抑郁药物处方。这引发了大批媒体报道，表达了对这一增幅的震惊，并就如何逆转、或是否应当逆转这一趋势提出了质疑。\n如此高的抗抑郁药使用水平自然应当引发关注与反思。但目前广为流传的一种说法是，抗抑郁药使用率过高是因为“过度开药”，正如临床心理学教授约翰·里德博士在《每日邮报》上所言。这种观点认为，患者在不应该使用抗抑郁药，或者有更好、更安全的替代方案时，仍被开具了此类药物。\n迪安·伯内特是一位神经科学博士，著有《蠢蠢欲动的大脑》（The Idiot Brain）和《情感无知》（Emotional Ignorance）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "一份新的NHS报告显示英格兰抗抑郁药使用量创下历史新高，2025-26年度大约每七个人中就有一人被开具抗抑郁药处方。",
+          "迪恩·伯内特（Dean Burnett）是神经科学博士，著有《The Idiot Brain》和《Emotional Ignorance》。",
+          "来源叙事重点：英格兰抗抑郁药处方量创新高反映了真实且广泛的社会心理需求，而非全科医生（GP）违规‘过度开药’；应当从社会和经济危机寻找根源，而非将责任转嫁给基层医疗系统"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T12:00:58.000Z",
+            "url": "https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing"
+          }
+        ]
+      },
+      {
+        "id": "story-ls-weather-capsules-html-243b71024ace5c37",
+        "title": "蜗牛壳是令人意想不到的气象时间胶囊",
+        "originalTitle": "Snail shells are surprise weather time capsules",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:00:04.000Z",
+        "pubTime": "2026-09-14 22:00",
+        "url": "https://phys.org/news/2026-09-snail-shells-weather-capsules.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/snail-shells-offer-a-n.jpg",
+        "fullContent": "by University of Queensland\n\nedited by Sadie Harley, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nSnails carry weather records on their backs that could be used to map prehistoric cyclones, a University of Queensland study has shown. The project led by School of the Environment researchers examined the rings on the shell of a Biggenden Banded Snail (Figuladra bayensis) collected from Coalstoun Lakes National Park in southeast Queensland.\n\nThe paper is published in The Holocene journal.\n\nDr. Nicholas Patton said tiny samples of the shell taken at millimeter intervals revealed the age of the snail, when it lived and the weather during its lifetime. \"We used high-resolution radiocarbon dating to determine the age of the growth bands in the shell,\" Patton said.\n\n\"It contained elevated levels of radiocarbon from the nuclear tests in Australia in the 1960s, meaning we could date the growth bands and reveal the snail had lived for about 4.5 years.\n\n\"Analyzing the oxygen and carbon stable isotopes of the different bands revealed insights into the rainfall the snail experienced.\n\n\"What we saw was the shell did not grow continuously during the snail's life; there were periods of rapid growth separated by periods of little or no growth.\"\n\nHonorary Professor Jamie Shulmeister said the team initially expected the rapid growth phases to correspond to years with heavier rainfall, making more food available for the snail.\n\n\"But the results showed the snail was responding to extreme rainfall events rather than annual wetness,\" Shulmeister said.\n\n\"Because we knew when the snail lived, the growth spurts could be linked to periods immediately following cyclones in 2015 and 2017.\n\n\"Severe Tropical Cyclone Marcia and Tropical Cyclone Debbie both caused extreme rainfall within Coalstoun Lakes National Park.\n\n\"It shows that snail shells could be used to map extreme weather events during periods before modern meteorological records.\n\n\"It was surprising and quite exciting that the humble snail could be a tool to reconstruct the paths of past cyclones even in prehistoric times.\"\n\nThe researchers' next step is to test the approach.\n\n\"If we are able to find shells within different layers of sediment deposits, we can combine the individual shell records together to extend this information further back in time,\" Patton said.\n\nNicholas R. Patton et al, Evaluating the Biggenden Banded Snail ( Figuladra bayensis ) as a climate archive for SE Queensland, Australia, using stable isotopes and 14 C dating, The Holocene (2026). DOI: 10.1177/09596836261477272\n\nJournal information: The Holocene\n\nProvided by University of Queensland\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "来自昆士兰大学\n编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策进行了审核。编辑在确保内容可信度的同时强调了以下属性：\n经同行评审的出版物\n\n昆士兰大学的一项研究表明，蜗牛背上承载着天气记录，这些记录可用于绘制史前气旋图景。该项目由该校环境学院的研究人员主导，对采集自昆士兰州东南部科尔斯顿湖国家公园（Coalstoun Lakes National Park）的一只比根登条纹蜗牛（Figuladra bayensis）壳上的生长轮纹进行了检测。\n\n该论文发表在《全新世》（The Holocene）期刊上。\n\n尼古拉斯·帕顿博士（Dr. Nicholas Patton）表示，以毫米为间隔采集的微小贝壳样本揭示了蜗牛的年龄、生活年代以及其生命周期内的天气情况。“我们利用高分辨率放射性碳测年法测定了贝壳中生长纹的年代，”帕顿说。\n\n“它含有来自20世纪60年代澳大利亚核试验产生的偏高水平放射性碳，这意味着我们能够对生长纹进行测年，并揭示出这只蜗牛生活了约4.5年。\n\n“通过分析不同生长纹中的氧和碳稳定同位素，揭示了这只蜗牛所经历的降雨情况。\n\n“我们观察到，蜗牛壳在其一生中并非持续生长；而是经历了一个个快速生长期，中间穿插着几乎不生长或完全停滞的时期。”\n\n名誉教授杰米·舒尔迈斯特（Jamie Shulmeister）表示，研究团队最初预计快速生长阶段会对应降雨量更充沛的年份，因为降雨会为蜗牛提供更多食物。\n\n“但结果显示，蜗牛是在对极端降雨事件作出反应，而不是年降水量，”舒尔迈斯特说。\n\n“由于我们知道这只蜗牛生活的具体年代，其生长突增可以与2015年和2017年气旋发生后的时期直接关联。\n\n“强热带气旋‘玛西亚’（Marcia）和热带气旋‘黛比’（Debbie）均在科尔斯顿湖国家公园引发了极端降雨。\n\n“这表明，蜗牛壳可用于绘制现代气象记录建立之前的极端天气事件。\n\n“令人惊讶且非常令人兴奋的是，这种不起眼的蜗牛竟能成为重现过去（乃至史前时期）气旋路径的工具。”\n\n研究人员的下一步计划是检验该方法。\n\n“如果我们能在不同层的沉积矿床中找到贝壳，就可以将各个贝壳的记录结合起来，将这一信息进一步延伸到更久远的历史时期，”帕顿说。\n\nNicholas R. Patton 等人，《利用稳定同位素和 14C 测年法评估比根登条纹蜗牛（Figuladra bayensis）作为澳大利亚昆士兰东南部的气候档案》（Evaluating the Biggenden Banded Snail (Figuladra bayensis) as a climate archive for SE Queensland, Australia, using stable isotopes and 14C dating），《全新世》（2026）。DOI: 10.1177/09596836261477272\n\n期刊信息：《全新世》（The Holocene）\n信息来源：昆士兰大学\n\n理学学士（生命科学与生态学）。微生物学实验室背景，在石油、天然气和可再生能源行业拥有医药新闻报道经验。完整个人资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学与语言持有独到见解。完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "昆士兰大学环境学院研究人员主导的研究显示，蜗牛壳上的纹路携带天气记录，可用于绘制史前气旋图。",
+          "该研究分析了采集自昆士兰州东南部科尔斯顿湖国家公园的Biggenden带状蜗牛（Figuladra bayensis）外壳。",
+          "来源叙事重点：聚焦昆士兰大学团队发表于《全新世》期刊的新发现，强调研究人员利用蜗牛壳上的生长纹、放射性碳测年和同位素分析，成功关联历史热带气旋极端降雨，展望利用陆生蜗牛壳作为‘气候时间胶囊’重建史前气旋路径的应用前景。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:00:04.000Z",
+            "url": "https://phys.org/news/2026-09-snail-shells-weather-capsules.html"
+          }
+        ]
+      },
+      {
+        "id": "story-0914-tsb-2117624279-html-e0aecf736be3e66c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Центробанк продолжит внедрять ИИ в финансовые услуги",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T14:08:58.000Z",
+        "pubTime": "2026-09-14 22:08",
+        "url": "https://ria.ru/20260914/tsb-2117624279.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/08/0b/1889557141_0:132:3074:1861_650x0_80_0_0_c7718232f460a161f137b06b597763f0.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 22:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/tsb-2117624279.html",
+            "publishedAt": "2026-09-14T14:08:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-al-imagery-brain-network-fdcd2ec9df5a76f8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "People Who Can't Picture Anything Are Rewriting the Science of Imagination",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:23:53.000Z",
+        "pubTime": "2026-09-14 21:23",
+        "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-14 21:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+            "publishedAt": "2026-09-14T13:23:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rest-rate-moves-ac306c90-36f3af65e61f6fb2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here’s how to prepare your portfolio for the Fed’s next interest-rate moves",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:45:00.000Z",
+        "pubTime": "2026-09-14 21:45",
+        "url": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "History suggests the bull market in stocks will continue if the Fed raises interest rates this week, but there are things investors can do to take some precaution if hikes continue.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-14 21:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-14T13:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ead-therapist-collective-eaf88a8860f169bf",
+        "title": "巡演可能将音乐人推向孤立与焦虑的极端。巡回途中的心理治疗支持至关重要",
+        "originalTitle": "Touring can take musicians to isolating, anxious extremes. Access to therapy on the road is a vital support",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T12:00:58.000Z",
+        "pubTime": "2026-09-14 20:00",
+        "url": "https://www.theguardian.com/music/2026/sep/14/touring-mental-health-support-scheme-radiohead-therapist-collective",
+        "imageUrl": "https://i.guim.co.uk/img/media/4a77fe05c374b85fcdecce3adf38743859f93467/368_0_2415_1932/master/2415.jpg?width=140&quality=85&auto=format&fit=max&s=84da70516cd26e0e9c02ae620da9d72b",
+        "fullContent": "I know from our early days how high-pressure road life can be. While big tours often hire therapists, grassroots acts can’t afford it. I’m pleased to back a new scheme that aims to change that\n\nWhen Radiohead started touring, it was hugely exciting, but we got signed when we had been going for five or six years and had only really played in Oxford. Suddenly you’re entering a new world: the first flush of fame, being compared to everyone else, the furnace-like experience when a band takes off and a whole new routine of late nights, bad food and everything else that goes on around live music. Everything is heightened and it can be very isolating.\n\nIn 1992 we were playing small venues in a van and then suddenly in 1993 we were spending the second half of the year in the US. On our second long tour that year, everything caught up with me. I kind of withdrew into myself. Something about being in the US made me feel “impostor syndrome”. I really did feel a very long way from home. All that anxiety has to come out somewhere – for some it’s drink and drugs – but for me it came out in my playing. There was one particular show where we were opening for Tears for Fears and another band who had [Blondie’s] Clem Burke on drums. Clem was my absolute drummer hero but I just hit peak overwhelm, and my drumming went off a cliff. Every limb seemed to be going at its own speed. The kick drum became like trying to open a heavy door.",
+        "fullTranslation": "从我们早期的经历中，我深知巡演路上的生活压力有多大。虽然大型巡演通常会聘请心理治疗师，但草根艺人却无法负担这笔费用。我很高兴能支持一项旨在改变这种现状的新计划。\n\n当电台司令（Radiohead）刚开始巡演时，那种感觉极其令人兴奋，但我们在签约前已经组建了五六年，而且实际上只在牛津演出过。突然之间，你步入了一个全新的世界：初尝成名的滋味、被拿来与所有人比较、乐队走红时那如熔炉般的体验，以及熬夜、劣质伙食和围绕现场音乐发生的一切所构成的新常态。所有感官都被放大了，而这可能会让人感到非常孤立。\n\n1992年，我们还开着一辆厢型货车在小型场地演出，而到了1993年下半年，我们突然就来到了美国巡演。在那一年的第二次长途巡演中，一切压力都找上了门。我整个人有些封闭起来。在美国的那种环境不知怎地让我产生了“冒充者综合征”。我真切地感到自己离家极其遥远。所有这些焦虑总得找个宣泄口——对有些人来说是借酒消愁或吸毒——但对我而言，它在我的演奏中爆发了。有一次特别的演出，我们为惊惧之泪（Tears for Fears）以及另一支由[金发女郎乐队的]克莱姆·伯克（Clem Burke）担任鼓手的乐队开场暖场。克莱姆是我心目中绝对的鼓手偶像，但我当时却崩溃到了极点，我的鼓技直线下滑。四肢仿佛都在按各自的节奏乱走，踩底鼓的感觉就像是在推开一扇沉重的铁门。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "大型巡演通常会聘请心理治疗师，而基层音乐人无力承担此类费用。",
+          "文章作者支持一项旨在为巡演音乐人提供心理治疗支持的新计划。",
+          "来源叙事重点：通过Radiohead成员早期巡演经历中的高度孤独、心理崩溃和冒名顶替综合征，揭示巡演环境对音乐人心理健康造成的严重压力；重点倡导为缺乏经济承受能力的基层音乐人建立可负担的巡演心理治疗支持计划。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T12:00:58.000Z",
+            "url": "https://www.theguardian.com/music/2026/sep/14/touring-mental-health-support-scheme-radiohead-therapist-collective"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-economy-2187421-b54dfe8612683a6a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Kiev’s attacks on Zaporozhye plant aim to create noxious conditions for staff — Likhachev",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:11:49.000Z",
+        "pubTime": "2026-09-14 22:11",
+        "url": "https://tass.com/economy/2187421",
+        "imageUrl": null,
+        "fullContent": "VIENNA, September 14. /TASS/. By attacking the Zaporozhye nuclear power station, Kiev intends to create unbearable conditions for the staff and put the plant in a critical situation, Rosatom CEO Alexey Likhachev told reporters.\n\n\"This is a common concern -- to ensure the safety of this largest nuclear facility in Europe. We may seem far away, we’re in Vienna. The distance here is about 1,400 kilometers. And even with a moderate wind, God forbid, the radioactive cloud will reach here in just over two days. This is why, of course, this is a common European concern, a task, and our main goal here is to explain what the main risks are in the ongoing escalation and intensification of attacks on the Zaporozhye plant,\" he said.\n\nHe reminded that in recent months, about 100 people have been injured by shelling, and nine plant workers and civilians in Energodar killed.\n\n\"Unfortunately, about 20 Energodar residents were killed in these attacks. The chief engineer, Alexander Yakovlevich, was killed. The latest events, when the Ukrainian Armed Forces struck a convoy of refuelers delivering fuel necessary for the safety of the station, I think have put everything in place. Who is doing what, and for what purpose. Almost everyone is acknowledging that this escalation, the desire to put the station and its personnel in a hopeless situation, will not achieve the intended goal,\" he said.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯国家原子能公司（Rosatom）总经理阿列克谢·利哈乔夫在维也纳对媒体表示，基辅袭击扎波罗热核电站旨在为员工制造无法承受的工作环境，并使电站陷入危急局面。",
+          "利哈乔夫表示扎波罗热核电站距离维也纳约1400公里，在中等风力情况下，放射性云层在两天多时间内即可抵达维也纳。",
+          "来源叙事重点：重点转述俄罗斯国家原子能公司（Rosatom）总经理利哈乔夫的指控，指责乌克兰军方持续袭击扎波罗热核电站及周边设施（包括运油车队），强调袭击导致包括总工程师在内的平民与员工伤亡，并以“核辐射云两天内可飘至维也纳”向欧洲施压，突出核安全风险的连带责任。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:11:49.000Z",
+            "url": "https://tass.com/economy/2187421"
+          }
+        ]
+      },
+      {
+        "id": "story-without-any-ai-prompting-973ebfd21f1da134",
+        "title": "“涉谷黑胶酒吧”是一家无需任何AI提示词即可提供趣味音乐应用的初创公司",
+        "originalTitle": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:55:00.000Z",
+        "pubTime": "2026-09-14 21:55",
+        "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+        "imageUrl": null,
+        "fullContent": "As AI rages on, new startups are creating tools for people to create music using generative AI prompts in the style of any artist they want. A Vinly Bar in Shibuya, a startup that sounds more like an indie band name, is focused on releasing a series of small apps that let you play around with sounds and vocals.\n\nThe company has raised a $5.5m pre-seed round from Mantis VC, SV Angel, Boxgroup, Quiet Capital, ERA, Common Metal, Gold House, Liquid 2 Ventures, Breakers VC, Systemic Ventures, and former Spotify chief content and advertising business officer, Dawn Ostroff, who joined the company as an advisor.\n\nThe startup is built by Máuhan M Zonoozy, who was the former head of innovation at Spotify. Prior to that, he founded a video clipping and remixing startup called Bubbl, which was acquired by Cricket Media.\n\nZonoozy, who left Spotify in 2024, said that he always wanted to go back to building something of his own. He thought that while streaming solved the access problem, most of the interaction with music was still around consumption.\n\n“I think when I looked at emergent behaviors and younger audiences, like everyone’s growing up playing with culture through games, through filters, through creation tools. And I just felt like there was an opportunity to empower people to do something similar with music,” he told TechCrunch.\n\nThe startup releases these experiments like “singles” that are part of an album. The common theme between all of these apps or websites is interacting with different elements to create music or modify sound. For instance, Speed Surfer is a Chrome extension that changes the speed and filter of sound playing in your browser window.\n\nUsersound is a website where you can create an “audio” username with each letter representing a note. Stacks is a stem player where you can create mixes by turning bars on or off in a 3×3 grid. Drops is about placing plaques in a pattern to deflect marbles falling down, which creates musical notes. Sampler is a website that turns YouTube videos into music samplers based on beats of different parts of the songs.\n\nThe company’s more ambitious product is an iOS app called bop. This lets you place musical instruments and effects in a grid to create different mixes of a base song. You can also adjust tempo and add one-time effects. Once you create these mixes, you can easily export them to TikTok or Instagram. A Vinly Bar in Shibuya is also working on a multiplayer version, which would let users remix songs with others.\n\nZonoozy said that it is making an informed choice not to infuse AI into every part of these apps. He is open to using AI to build these products and to make infrastructure solid, though.\n\n“AI is obviously extraordinarily powerful, but I think we just don’t necessarily believe that the future of music is simply generation, like song generation via AI. And I think if AI starts to make that content more abundant, it actually makes taste and human perspective and interaction and participation even more important and even more valuable. And we’re just trying to make sure it doesn’t make it even rarer,” he said.\n\nThis year, the company aims to release a “musical sandbox mixer” product that would let users play around with different elements of music-making, including being able to create instruments.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\n\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\n‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI\n\nOpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "fullTranslation": "随着人工智能热潮持续发酵，不少新创公司纷纷推出各种工具，让人们能够借助生成式AI提示词，以任意心仪艺术家的风格来创作音乐。而“涉谷黑胶酒吧”（A Vinyl Bar in Shibuya，原文有拼写作 A Vinly Bar in Shibuya）这家听起来更像独立乐队名字的初创公司，则专注于推出一系列轻量级应用程序，让用户能尽情摆弄声音与人声。\n\n该公司已完成550万美元的种子轮前（pre-seed）融资，投资方包括 Mantis VC、SV Angel、Boxgroup、Quiet Capital、ERA、Common Metal、Gold House、Liquid 2 Ventures、Breakers VC、Systemic Ventures，以及前 Spotify 首席内容与广告业务官道恩·奥斯特罗夫（Dawn Ostroff），她也以顾问身份加入了该公司。\n\n这家初创公司由前 Spotify 创新主管莫汉·M·佐努齐（Máuhan M Zonoozy）创办。在此之前，他曾创立视频剪辑与混剪初创公司 Bubbl，该公司后来被 Cricket Media 收购。\n\n佐努齐于2024年离开 Spotify，他表示自己一直想重回自主创业的道路。他认为，虽然流媒体解决了音乐获取的门槛问题，但大部分与音乐的互动仍仅仅停留在消费层面。\n\n他在接受 TechCrunch 采访时表示：“我认为，当我观察新兴行为和更年轻的受众时，大家都是通过游戏、滤镜、创作工具在玩转文化中成长的。我只是觉得，存在这样一个契机，可以让人们在音乐领域也能做到类似的事情。”\n\n该初创公司像发行专辑里的“单曲”一样推出这些实验性产品。所有这些应用或网站的共同主线，都是通过与不同元素互动来创作音乐或修改声音。例如，Speed Surfer 是一款 Chrome 浏览器扩展程序，可以改变浏览器窗口中正在播放的声音的速度和滤镜效果。\n\nUsersound 是一个网站，用户可以在上面创建一个“音频”用户名，其中每个字母代表一个音符。Stacks 是一款分轨播放器（stem player），用户可以通过在 3×3 网格中开启或关闭音轨条来制作混音。Drops 则是通过按特定模式放置薄片来弹开下落的弹珠，从而发出乐音。Sampler 则是一个能根据歌曲不同部分的节拍将 YouTube 视频转化为音乐采样器的网站。\n\n该公司更具雄心的产品是一款名为 bop 的 iOS 应用。它允许用户在网格中放置乐器和音效，从而为一首基础歌曲制作出不同的混音版本。用户还可以调整节奏并添加一次性效果。制作好这些混音后，可以轻松导出到 TikTok 或 Instagram。“涉谷黑胶酒吧”目前还在开发多人协作版本，让用户能够与他人共同混音歌曲。\n\n佐努齐表示，不将 AI 注入这些应用的每一个角落，是公司经过深思熟虑后做出的抉择。不过，他对使用 AI 来构建这些产品以及加固底层基础设施持开放态度。\n\n他说：“AI 显然极其强大，但我认为我们并不一定相信音乐的未来仅仅是生成——比如通过 AI 进行歌曲生成。我认为，如果 AI 开始让这类内容变得越来越丰富过剩，那么品味、人类视角、互动以及参与实际上会变得更加重要、更具价值。而我们只是在努力确保这些特质不至于变得更加稀缺。”\n\n今年，该公司的目标是推出一款“音乐沙盒混音器”产品，让用户能够摆弄音乐制作中的各种不同元素，包括能够自己创造乐器。\n\n当你通过我们文章中的链接进行购买时，我们可能会赚取微薄的佣金。这不会影响我们的编辑独立性。\n\nIvan 在 TechCrunch 负责报道全球消费科技动态。他常驻印度，此前曾供职于《赫芬顿邮报》（Huffington Post）和 The Next Web 等媒体。\n\n你可以通过发送邮件至 im@ivanmehta.com 或在 Signal 上向 ivan.42 发送加密消息来联系 Ivan 或核实其采访意向。\n\n预订展位的最后一天是9月18日。切勿错过在 Disrupt 展厅获取高价值潜在客户、接触投资者以及提升品牌知名度的良机。\n\nRevolut 证实因虚假政府请求导致客户数据泄露\n\n因 Astra 需求过大，OpenAI 暂停 Pro 订阅服务\n\n身份验证巨头 IDScan 证实发生数据泄露，超1.5亿张驾照遭窃\n\nAutomattic 董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）暂时休假\n\n苹果发布首款折叠屏手机 iPhone Duo\n\n“拿我们的生命作赌注”：Anthropic 研究员辞职，对自我改进型 AI 发出警告\n\n纽约大学数学家指责 OpenAI 在事关职业生涯的关键数学难题上使用不当手段",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 22,
+        "keyTakeaways": [
+          "初创公司 A Vinyl Bar in Shibuya 专注于推出一系列让用户体验声音和人声的小型音乐应用，且不依赖生成式 AI 提示词。",
+          "A Vinyl Bar in Shibuya 完成了 550 万美元的种子前轮（pre-seed）融资，投资方包括 Mantis VC、SV Angel、Boxgroup、Quiet Capital、ERA、Common Metal、Gold House、Liquid 2 Ventures、Breakers VC、Systemic Ventures 以及 Spotify 前首席内容和广告业务官 Dawn Ostroff。",
+          "来源叙事重点：聚焦前 Spotify 创新高管创办的音乐互动初创公司获得 550 万美元融资，重点报道其‘反生成式 AI 提示词’的产品理念，强调通过趣味交互与人类参与重新定义音乐创作体验。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T13:55:00.000Z",
+            "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/"
+          }
+        ]
+      },
+      {
+        "id": "story-eight-loss-wars-a406161a-f8b0ece3e54c93ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Novo Nordisk is changing its name and its culture to try to compete in the GLP-1 diet-drug wars",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:05:00.000Z",
+        "pubTime": "2026-09-14 22:05",
+        "url": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The Danish drug giant behind Ozempic is competing with Eli Lilly in the market for weight-loss drugs.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-14 22:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-14T14:05:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-l-maps-within-30-minutes-fc35228dec994854",
+        "title": "30分钟内搞定航测制图",
+        "originalTitle": "Finished aerial maps in under 30 minutes",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:37:36.000Z",
+        "pubTime": "2026-09-14 21:37",
+        "url": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
+        "imageUrl": null,
+        "fullContent": "I recently got a DJI Lito X1 and decided to see just how far I can push it. Aerial mapping sounded exciting: in a few minutes you can surpass Google Maps imagery and forever have a reference map of a place.\n\nWe need to ensure not to have the speed too high, otherwise the camera won't be able to keep up, and there will be gaps and misalignment in the finished map.\n\nAs you can see, I found 3.5 m/s at 80 m altitude to be effective. Lower altitude flights are higher resolution (obviously), but take longer. It's all trigonometry after all. The same FOV lower down sees less.\n\nDJI doesn't make this easy. DJI Fly has no import.\n\nCreate a placeholder mission in the app by opening Waypoint Flight and adding some useless waypoints. We're not going to use them, but it is essential that we add them.\n\nYes, really, it means you need to take off for the sole purpose of adding these waypoints that you're not going to use, since you cannot add any waypoints while on the ground.\n\nThis will create /sdcard/Android/data/dji.go.v5/files/waypoint/<GUID>/<GUID>.kmz on the device, which, frustratingly, you can only see by connecting your device to a computer. I used adb. You'll need to find the KMZ you downloaded and replace the <GUID>.kmz already there with it. Don't change the names.\n\nAt first glance in the folder, it shouldn't look like you changed anything.\n\nLuckily DJI has a tutorial on how to get to Waypoint Flight, but since you already added some waypoints, you should know where to go. You will note that the waypoints you added are gone, and the programmed flight path is now visible on the device.\n\nYou really only need to click start and wait. I cannot stress enough how fantastically cool this is. It will take off, fly to the first point, fly the whole route, capturing photos on the way (36 in this case), and then automatically land.\n\nI maximised the map here since there are more interesting things to see there than on an empty field, but you might want to keep an eye on the camera just in case.\n\nAfter you land, you can simply select all from today, aiming to match up the number of images with what you saw in Waypoint Flight. If you captured 36, you will want to download 36. If you did some recreational flying after your mapping, ensure you select all of the mapping photographs first.\n\nIf in doubt, download it. Each image is geotagged. We don't much care that the images were taken precisely at each point on the flight path. The tile processing server computes the map from the geographical information in each photograph, and discards images where the gimbal was not pointing exactly down. Ergo, it's fine to accidentally submit non-mapping images to the processing server - I know it's hard to juggle so many images on a mobile device.\n\nThis can be done from the phone or computer in several different ways, depending on what goes wrong (something will eventually go wrong).\n\nTo process the photographs, I'm using an on-site machine connected over Tailscale.\n\nIt then stitches the map, and the finished tiles are pulled back to the Zeitgeist Survey cloud server.\n\nThere we have it, an end-to-end demonstration of the Zeitgeist Survey capabilities. Plan to delivered map in under 30 minutes.\n\nYou can press the button below to see the live interactive map.",
+        "fullTranslation": "我最近入手了一台大疆 DJI Lito X1，并决定看看能把它推向什么极限。航空测绘听起来令人兴奋：短短几分钟内，你就能超越谷歌地图的影像质量，并永久拥有一张某个地点的参考地图。\n\n我们需要确保飞行速度不要太快，否则相机将无法跟上，最终生成的地图中就会出现缝隙和错位。\n\n正如你所见，我发现飞行高度 80 米、速度 3.5 米/秒的效果很好。较低高度的飞行分辨率更高（显而易见），但耗时更长。毕竟这完全是三角学原理：相同的视场角（FOV）在较低高度覆盖的范围更小。\n\n大疆并没有让这一切变得轻松。DJI Fly 应用程序没有航线导入功能。\n\n在应用中打开“航线飞行”（Waypoint Flight），添加几个毫无用处的航点，以此创建一个占位任务。我们不会用到这些航点，但添加它们是必不可少的。\n\n是的，真的如此，这意味着你必须专程起飞一次，只为了添加这些你根本用不上的航点，因为你在地面上无法添加任何航点。\n\n这会在设备上生成 /sdcard/Android/data/dji.go.v5/files/waypoint/ / .kmz 文件，令人沮丧的是，你只能通过将设备连接到电脑才能看到它。我使用了 adb。你需要找到下载好的 KMZ 文件，并用它替换掉原来在那里的 .kmz 文件。不要更改文件名。\n\n乍看该文件夹，应该看不出你做过任何修改。\n\n幸运的是，大疆提供了如何进入航线飞行的教程，但既然你之前已经添加过航点，你应该知道该点哪里。你会注意到之前添加的航点已经消失，预设好的航线现在已经在设备上清晰可见。\n\n你真的只需要点击开始并等待。我简直无法形容这有多么酷炫。它会自动起飞，飞往第一个航点，飞完全程航线，一路上拍照（本例中拍摄了 36 张），然后自动降落。\n\n我在这里把地图视图最大化了，因为那里比空旷的田野有更多有趣的东西可以看，但以防万一，你可能还是需要留意相机画面。\n\n降落后，只需直接全选当天的照片，目标是让照片数量与在“航线飞行”中看到的一致。如果拍了 36 张，你就需要下载 36 张。如果在测绘完成后你还进行了休闲飞行，请务必先选齐所有测绘照片。\n\n如有疑虑，全部下载即可。每张照片都带有地理标记。我们并不太在乎照片是否严格在航线的每个航点上精确拍摄。瓦片处理服务器会根据每张照片中的地理信息来计算生成地图，并丢弃云台没有垂直朝下的照片。因此，就算不小心把非测绘照片也提交给了处理服务器也没关系——我知道在移动设备上管理这么多照片确实很繁琐。\n\n这一步可以通过手机或电脑以多种不同方式完成，具体取决于遇到了什么故障（反正迟早会出点岔子）。\n\n为了处理这些照片，我使用了一台通过 Tailscale 连接的现场机器。\n\n随后它会拼接地图，生成完毕的瓦片会被拉取回 Zeitgeist Survey 的云端服务器。\n\n搞定！这就是 Zeitgeist Survey 能力的端到端演示。从规划到最终交付地图，耗时不到 30 分钟。\n\n你可以点击下方的按钮查看实时交互式地图。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "作者使用 DJI Lito X1 进行航拍测绘测试，在80米高度以3.5米/秒的速度飞行测绘被证实有效。",
+          "DJI Fly 应用没有直接导入航线任务的功能，用户无法在地面直接添加航路点，必须先起飞以添加占位航路点。",
+          "来源叙事重点：通过逆向探索与系统工作流编排（利用 adb 替换 KMZ 航线文件、Tailscale 局域网组网与 Zeitgeist Survey 云端处理），展示如何在 30 分钟内绕过 DJI 官方软件限制，实现高效的全流程低空自主航测与高精地图拼图。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T13:37:36.000Z",
+            "url": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/"
+          }
+        ]
+      },
+      {
+        "id": "story-ooky-quantum-effect-html-d1bda61e8e4b79e2",
+        "title": "物理学家助力在大型强子对撞机中揭示“幽灵般的”量子效应",
+        "originalTitle": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:12:41.000Z",
+        "pubTime": "2026-09-14 22:12",
+        "url": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/oxford-physicists-help.jpg",
+        "fullContent": "by University of Oxford\n\nedited by Lisa Lock, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nPhysicists at the University of Oxford have helped confirm that one of the strangest phenomena in physics—quantum entanglement—occurs even among some of the heaviest and most fleeting particles ever created. The discovery, made using the world's most powerful particle collider at CERN, has been published in Physical Review Letters.\n\nEntanglement is the phenomenon in which two particles from the same origin remain connected, even if they move far apart in time and space. If something affects one particle, it will also affect all the particles with which it is entangled. This means that measuring a property of one particle instantly tells you something about its entangled partners, no matter how distant they are.\n\nAlbert Einstein famously called entanglement \"spooky action at a distance,\" and the phenomenon has been demonstrated in a range of systems, including photons, electrons and trapped ions. Today, entanglement is no longer just a curiosity: It underpins emerging technologies such as quantum computers, ultra-secure quantum communication networks and next-generation sensors. For instance, in quantum computing, entanglement is used to manipulate multiple qubits in a single operation rather than individually. This allows multiple calculations to be performed simultaneously.\n\nHowever, it was unknown whether quantum entanglement remains intact under more extreme conditions—such as the short-lived particles produced during highly energetic collisions. To test this, an international collaboration used the ATLAS experiment at CERN's Large Hadron Collider (LHC) near Geneva, Switzerland. The team looked for entanglement in an entirely new setting: pairs of Z bosons that exist for only a fraction of a second before decaying.\n\n\"Quantum mechanics underpins computing, security and many areas of physics. However, quantum mechanics has mysteries and puzzles that are not yet fully understood. Using particle colliders allows us to test quantum mechanics at energies a trillion times higher and over distances smaller than the size of the nucleus. This probes some of the extreme conditions where quantum mechanics might break down, which would have profound consequences for the foundations of science,\" said study co-author Professor Alan Barr of the Department of Physics.\n\nThe Z bosons studied were produced in the decay of a Higgs boson—the particle discovered at the LHC in 2012—which briefly split into two Z bosons before each decayed further into pairs of electrons or muons. The Higgs bosons are generated by smashing together protons traveling at 99.99% the speed of light in collisions with energies of 13 trillion electron volts.\n\nAlthough the Z bosons vanish almost instantly, the ATLAS detector can precisely track the electrons and muons they leave behind. By reconstructing the angles at which these particles were emitted, the researchers could infer the spins of the original Z bosons and test whether they were linked by quantum entanglement. The results showed strong evidence that they were. This makes it one of the highest-energy confirmations of quantum entanglement ever recorded.\n\nStudy co-author Professor Barr, at Oxford's Department of Physics, was one of the first to propose that particle colliders could be used to investigate quantum entanglement at vastly higher energy levels than all previous tests. Having been involved in the construction of the LHC, he realized that the colossal apparatus could be used for more than discovering new particles. His ideas informed a 2023 experiment, also using the ATLAS detector, which demonstrated entanglement between pairs of top quarks, the heaviest known elementary particle.\n\nProfessor Barr said, \"We're used to thinking of entanglement as something delicate, seen in laboratory experiments with single photons. Finding it alive and well among particles as heavy and short-lived as Z bosons, created in some of the most violent collisions we can produce on Earth, shows just how fundamental and robust this quantum effect really is. It's a nice reminder that the same strange rules of quantum mechanics that may one day power quantum computers are at work everywhere in nature, even at the extreme energies of the Large Hadron Collider.\"\n\n\"It has been gratifying to see that the use of particle colliders to test quantum effects has now become a major subfield in physics, with more than a hundred researchers working on it worldwide,\" said study co-author Professor Barr of the Department of Physics.\n\nBeyond its fundamental significance, the research adds to a growing effort by physicists to borrow tools and ideas from quantum information science (the field behind quantum computing) and apply them to particle physics. This cross-pollination is helping scientists develop new, more sensitive ways of analyzing collider data, with the potential to reveal subtle effects that might point to physics beyond our current understanding of the universe.\n\nAt Oxford University, Professor Barr co-leads a major interdisciplinary project exploring the foundations of quantum mechanics at high energies. Besides empirically testing quantum effects at the smallest possible scales and highest energies, the project is also investigating the philosophical implications of these measurements and what they may tell us about the fundamental nature of reality.\n\nProject co-principal investigator Professor Chris Timpson (Faculty of Philosophy) said, \"Entanglement is both the most promising and the most puzzling aspect of quantum reality; these collider experiments detecting entanglement present a new frontier in investigations of the foundations of quantum mechanics.\"\n\nOxford University researchers are also involved in the upgrade currently taking place on the ATLAS detector. Combined with the upgraded High-Luminosity Large Hadron Collider, this will allow researchers to undertake even more profound explorations of quantum phenomena and apply novel quantum information techniques to exploit the huge data sets that this machine will deliver.\n\nProfessor Daniela Bortoletto (Department of Physics, University of Oxford), who is the U.K. coordinator for producing the modules for the upgraded ATLAS detector's pixel system, said, \"This measurement demonstrates the scientific power of the ATLAS collaboration and the unique capabilities of CERN's Large Hadron Collider. Oxford researchers have played a leading role in developing these new approaches to studying quantum phenomena at the highest energies, and we are proud to contribute to an international effort that is opening new ways to explore the fundamental laws of nature.\"\n\nG. Aad et al, Measurements of Z-Boson Pair Entanglement in Decays of Higgs Bosons at the ATLAS Experiment, Physical Review Letters (2026). DOI: 10.1103/y1nh-1b82\n\nJournal information: Physical Review Letters\n\nProvided by University of Oxford\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "来自牛津大学\n由莉萨·洛克（Lisa Lock）编辑，罗伯特·伊根（Robert Egan）审阅\n本文已根据 Science X 的编辑流程与规范进行审核。编辑在确保内容可信度的同时强调了以下属性：\n同行评审出版物\n\n牛津大学的物理学家助力证实，物理学中最奇特的现象之一——量子纠缠——即使在有史以来产生的某些最重且最转瞬即逝的粒子之间也依然存在。这项利用欧洲核子研究中心（CERN）全球最强大的粒子对撞机取得的发现，已发表在《物理评论快报》（Physical Review Letters）上。\n\n量子纠缠是指同源的两个粒子即使在时空上相距遥远也能保持关联的现象。如果某种因素影响了其中一个粒子，它也会影响所有与其纠缠的粒子。这意味着测量一个粒子的某种性质，就能立即获知关于其纠缠伙伴的信息，无论它们相距多远。\n\n阿尔伯特·爱因斯坦曾著名地将量子纠缠称为“鬼魅般的超距作用”，这一现象已在一系列系统中得到证实，包括光子、电子和俘获离子。如今，纠缠已不再仅仅是一种令人好奇的现象：它支撑着量子计算机、超安全量子通信网络和下一代传感器等新兴技术。例如，在量子计算中，纠缠被用于在单次操作中同时操控多个量子比特，而不是逐一进行。这使得多项计算可以同时执行。\n\n然而，量子纠缠在更为极端的条件下——例如在超高能碰撞期间产生的短寿命粒子中——是否仍能保持完好，此前尚属未知。为了检验这一点，一个国际合作团队利用了位于瑞士日内瓦附近的 CERN 大型强子对撞机（LHC）上的 ATLAS 实验。该团队在一种全新的环境中寻找纠缠：仅存在几分之一秒便衰变的一对对 Z 玻色子。\n\n该研究合著者、物理系教授艾伦·巴尔（Alan Barr）表示：“量子力学构成了计算、安全以及诸多物理学领域的基础。然而，量子力学仍有尚未被完全理解的谜团和难题。利用粒子对撞机，我们能够在高出万亿倍的能量级以及小于原子核尺寸的距离尺度上检验量子力学。这将探究量子力学可能崩溃的某些极端条件，而这会对科学的基石产生深远的影响。”\n\n研究所涉及的 Z 玻色子是在希格斯玻色子（2012年在 LHC 上发现的粒子）的衰变过程中产生的，希格斯玻色子短暂地分裂成两个 Z 玻色子，随后每个 Z 玻色子又进一步衰变为成对的电子或缪子。希格斯玻色子是通过让以 99.99% 光速运行的质子在 13 万亿电子伏特的能量下发生对撞而产生的。\n\n尽管 Z 玻色子几乎瞬间消失，但 ATLAS 探测器能够精确追踪它们遗留下的电子和缪子。通过重建这些粒子发射的角度，研究人员可以推断出最初 Z 玻色子的自旋，并检验它们是否通过量子纠缠关联在一起。结果显示了支持这一点的强有力证据。这使其成为有记录以来能量最高的量子纠缠证实之一。\n\n该研究合著者、牛津大学物理系的巴尔教授是最早提出可以利用粒子对撞机在远高于以往所有测试的能级上研究量子纠缠的学者之一。巴尔曾参与 LHC 的建造，他意识到这个庞大的装置不仅能用于发现新粒子。他的构想为 2023 年同样利用 ATLAS 探测器进行的一项实验提供了依据，该实验证实了已知最重的基本粒子——顶夸克对之间的纠缠。\n\n巴尔教授表示：“我们通常认为纠缠是一种脆弱的现象，见于单光子的实验室实验中。但在像 Z 玻色子这样重且转瞬即逝的粒子之间发现它完好存在——这些粒子产生于我们在地球上所能制造的最剧烈的碰撞中——这表明这种量子效应究竟有多么基本和稳健。这是一个很好的提醒：有朝一日可能为量子计算机提供动力的奇特量子力学规则，在自然界的任何地方都在起作用，哪怕是在大型强子对撞机的极端能量下。”\n\n该研究合著者、物理系教授巴尔表示：“令人欣慰的是，利用粒子对撞机检验量子效应现在已经成为物理学的一个主要分支领域，全球有超过一百名研究人员正在为此工作。”\n\n除了其基础意义之外，这项研究还加入了一项不断发展的努力之中，即物理学家借鉴量子信息科学（量子计算背后的领域）的工具和理念，并将其应用于粒子物理学。这种跨领域的交融正在帮助科学家开发全新、更灵敏的对撞机数据分析方法，有望揭示可能指向超越我们当前对宇宙理解的物理现象的微妙效应。\n\n在牛津大学，巴尔教授共同领导着一个重大跨学科项目，探索高能条件下的量子力学基础。除了在尽可能最小的尺度和最高能量下对量子效应进行实证检验外，该项目还在探究这些测量的哲学意涵，以及它们能揭示关于现实基本本质的何种内涵。\n\n项目共同负责人、哲学系教授克里斯·廷普森（Chris Timpson）表示：“纠缠既是量子现实中最具前景的方面，也是最令人费解的方面；这些探测纠缠的对撞机实验为量子力学基础的研究开辟了新的前沿。”\n\n牛津大学的研究人员还参与了 ATLAS 探测器目前正在进行的升级工作。结合升级后的高亮度大型强子对撞机（High-Luminosity Large Hadron Collider），这将使研究人员能够对量子现象展开更深入的探索，并应用新颖的量子信息技术来利用该装置将提供的庞大数据集。\n\n负责英国为升级后的 ATLAS 探测器像素系统生产模块的协调人、牛津大学物理系丹妮拉·博尔托莱托（Daniela Bortoletto）教授表示：“这一测量证明了 ATLAS 合作组的科学实力以及 CERN 大型强子对撞机的独特能力。牛津大学的研究人员在开发这些于最高能量下研究量子现象的新方法中发挥了主导作用，我们为能够为这项开辟探索自然基本定律新途径的国际努力做出贡献而感到自豪。”\n\nG. Aad 等人，《ATLAS 实验中希格斯玻色子衰变中 Z 玻色子对纠缠的测量》（Measurements of Z-Boson Pair Entanglement in Decays of Higgs Bosons at the ATLAS Experiment），《物理评论快报》（Physical Review Letters，2026 年）。DOI: 10.1103/y1nh-1b82\n期刊信息：《物理评论快报》（Physical Review Letters）\n内容提供：牛津大学（University of Oxford）\n艺术史学士，物质文化硕士。曾任博物馆编辑、急救医士及器官移植协调员。自 2021 年起为 Science X 担任编辑。查看完整简介 →\n数学生物学学士，创意写作硕士。游历广泛，对科学与语言持有独到见解。查看完整简介 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "牛津大学物理学家参与的一项国际合作研究证实，在欧洲核子研究中心（CERN）大型强子对撞机（LHC）的ATLAS实验中，希格斯玻色子衰变产生的Z玻色子对之间存在量子纠缠。",
+          "该研究成果已发表在《物理评论快报》（Physical Review Letters）上，论文第一作者为G. Aad等人。",
+          "来源叙事重点：重点阐述牛津大学物理学家主导/参与的国际合作团队在欧洲核子研究中心（CERN）LHC的ATLAS实验中，成功于希格斯玻色子衰变产生的极重、短寿命Z玻色子对间观测到高能态量子纠缠；突出这一成果在检验极端条件下量子力学稳健性、推动量子信息科学与高能粒子物理跨学科交叉、以及未来结合高亮度大型强子对撞机升级拓展基础物理学研究前沿的重大科学价值。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:12:41.000Z",
+            "url": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html"
+          }
+        ]
+      },
+      {
+        "id": "story-economy-2187415-aac1361c6caa263e",
+        "title": "俄罗斯国家原子能公司总经理：公司拥有处于不同完工阶段的30座RITM小型反应堆",
+        "originalTitle": "Rosatom has 30 RITM small reactors at various stages of completion — CEO",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:09:11.000Z",
+        "pubTime": "2026-09-14 22:09",
+        "url": "https://tass.com/economy/2187415",
+        "imageUrl": null,
+        "fullContent": "VIENNA, September 14. /TASS/. Rosatom has 30 RITM small reactors at various stages of completion, with 15 already built and roughly the same number under construction, Rosatom Director General Alexey Likhachev told reporters on the sidelines of the 70th session of the IAEA General Conference.\n\n\"We currently have 30 RITM small reactors at various stages: 15 have already been built, and 13-14 are at various stages of development,\" the Rosatom chief said. He noted that the world is gradually realizing that Small Modular Reactors (SMRs) are not a one-size-fits-all solution, but are instead required for specific market segments.\n\n\"Small reactors -- whether in remote, isolated micro-economic systems, large-scale industrial projects, or mobile floating configurations -- are in demand within specific segments,\" Likhachev noted.",
+        "fullTranslation": "塔斯社维也纳9月14日电 俄罗斯国家原子能公司（Rosatom）总经理阿列克谢·利哈乔夫在国际原子能机构（IAEA）大会第70届会议期间对记者表示，该公司拥有处于不同完工阶段的30座RITM小型反应堆，其中15座已经建成，另有大致相当数量的反应堆正在建设中。\n\n这位俄国家原子能公司负责人表示：“我们目前拥有处于不同阶段的30座RITM小型反应堆：15座已经建成，还有13至14座处于不同的研发与建设阶段。”他指出，全球正在逐渐认识到，小型模块化反应堆（SMR）并非通用型解决方案，而是特定细分市场所需要的。\n\n利哈乔夫指出：“小型反应堆——无论是在偏远、孤立的微型经济体系、大型工业项目，还是移动式浮动平台配置中——在特定细分领域都存在需求。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "俄罗斯国家原子能公司（Rosatom）拥有30座处于不同建造或研发阶段的RITM小型反应堆。",
+          "在Rosatom的30座RITM小型反应堆中，有15座已经建造完成。",
+          "来源叙事重点：重点报道Rosatom在小型模块化反应堆（SMR，具体为RITM系列）上的规模化建造和交付进展，突出俄罗斯在全球小堆商用与建造方面的领先地位，并传达SMR适用于特定细分市场的务实市场定位。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:09:11.000Z",
+            "url": "https://tass.com/economy/2187415"
+          }
+        ]
+      },
+      {
+        "id": "story-mentary-review-tiff-2026-50192dca1a689225",
+        "title": "长达四小时的埃隆·马斯克纪录片或许只是在向认同者说教",
+        "originalTitle": "The four-hour-long Elon Musk documentary might be preaching to the choir",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:50:00.000Z",
+        "pubTime": "2026-09-14 21:50",
+        "url": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/MUSK-_-Still-2-Credit_-Ken-Cedenoupi-UPI-Alamy-News.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Entertainment\n\nSee All Movie Review\n\nAlex Gibney’s latest feature is so gigantic in scope that it might miss its intended audience.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Andrew Webster\n\nIt makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of Elon Musk, from his early days as a dot-com millionaire to “taking a wood chipper” to vital US government departments. In order to understand Musk’s rise to power, you need to know the whole story. Musk tells it compellingly and convincingly, but doesn’t offer much in the way of revelations if you’re aware of Musk’s catastrophic influence on the world. For everyone else, a demanding runtime just shy of four hours might prove too much of a barrier to being convinced.\n\nThe film opens with shots of space and a voiceover of Musk detailing some of his sci-fi ambitions. From there, it’s a fairly chronological narrative of how we got to this point. The first section of the film reveals how Musk’s mythology was built, while also steadily seeding doubts that he’s the Tony Stark–style tycoon that many believe him to be. It starts off with the basic details, like when Musk was ousted as CEO from PayPal or how he convinced the world he founded Tesla, a company that existed before he was involved. The film juxtaposes his many bombastic claims about autonomous vehicles with visceral footage of a deadly crash involving a Tesla on autopilot. It drops in poignant interviews, like when former MAGA influencer Ashley St Clair, mother to one of Musk’s many children, declares in a terrified voice: “Elon is a nuke.”\n\nAt the outset, Gibney makes it clear that his goal is to answer two questions with interrelated answers: how Musk got so powerful, and why we allowed it to happen. By gradually accruing power through Tesla, X, SpaceX, and Starlink, Musk ingratiated himself with governments all over the world, in particular the US, and then used that political power to further his own interests once it became so hard to extricate his influence. The documentary lays out the plot clearly and concisely, all in one place.\n\nMusk himself didn’t participate in the documentary. Instead, he sent Gibney a legal threat over it. So Gibney built in a digital doppelgänger that mouths to audio of things Musk actually said, based on a database the team created of existing clips. The avatar Musk veers into uncanny valley territory, with its overly expressive face and unsettling heavy breathing, but it’s a smart way of putting Musk’s face to his words, in a manner of speaking. And it fits well with Musk’s belief in simulation theory. Additionally, the movie uses plenty of sim and video game imagery to illustrate things throughout, like a fictional first-person shooter that depicts Musk dismantling Twitter and the US government with a chainsaw that shoots lasers. It’s over-the-top and absurd, but then again we’re here, in part, because of a kid bureaucrat named Big Balls.\n\nIn many ways, Musk is successful. It lays out how he got to power and why he was able to accrue so much of it without being stopped, which boils down to him being far too rich and ingrained by the time most people realized what was going on. Unfortunately, as someone who has followed the story over the years, I can’t say I learned much or gained new insights into the man while watching Musk.\n\nWhich makes me wonder who this film is for. Many people have already woken up to the fact that Musk is something quite different than some kind of genius inventor, but there are still plenty who only associate his name with past wins like incremental advances in reusable rockets or pre-Tesla Cybertruck vehicles. The film even interviews one fan who says he intentionally ignores the things about Musk that he doesn’t agree with. That’s exactly the kind of person who would benefit most from watching Musk lay it out all in one place.\n\nBut in a world of dwindling attention spans, four hours in a theater is a lot to ask (even if it does have a 10-minute intermission). It could miss the people who need to see it the most.\n\nMusk is in theaters on October 16th. This review is based on a screening at the Toronto International Film Festival.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关文章将被添加到您的每日电子邮件文摘和主页动态中。\n查看所有娱乐内容\n查看所有影评\n亚历克斯·吉布尼（Alex Gibney）的最新力作篇幅极其宏大，以至于可能会错失其预期的目标受众。\n该作者的相关文章将被添加到您的每日电子邮件文摘和主页动态中。\n查看安德鲁·韦伯斯特（Andrew Webster）的所有文章\n《马斯克》（Musk）是一部篇幅很长的电影，这合情合理。曾执导过有关西拉诺斯（Theranos）和史蒂夫·乔布斯（Steve Jobs）纪录片的亚历克斯·吉布尼，其最新作品对埃隆·马斯克的故事进行了令人印象深刻且极为详尽的重述，从他早年作为互联网百万富翁的岁月，一直讲到对美国关键政府部门“大刀阔斧削减”（taking a wood chipper）。为了理解马斯克如何崛起掌握大权，你需要了解整个来龙去脉。《马斯克》的讲述极具吸引力和说服力，但如果你已经知晓马斯克对世界造成的灾难性影响，这部影片并没有提供太多新揭秘。对于其他人来说，接近四个小时的高门槛片长可能会成为被其说服的过大障碍。\n\n影片以太空镜头和马斯克详细阐述其某些科幻雄心的旁白开场。从那里开始，影片以相当连贯的时间线叙述了我们是如何走到今天这一步的。影片的第一部分揭示了马斯克的神话是如何建立起来的，同时也稳步埋下了怀疑的种子，质疑他并非许多人所认为的托尼·斯塔克式的科技大亨。它从基本细节开始，比如马斯克当年如何被赶出PayPal的CEO职位，或者他是如何让全世界相信他创立了特斯拉——而这家公司在他加入之前就已经存在。影片将他对自动驾驶汽车的诸多夸张宣称，与特斯拉在Autopilot状态下发生致命车祸的触目惊心的画面并列呈现。它还穿插了令人心酸的采访，例如前MAGA网红、马斯克众多孩子的母亲之一阿什莉·圣克莱尔（Ashley St Clair）用恐惧的声音宣称：“埃隆就是一枚核弹。”\n\n一开篇，吉布尼就明确表示他的目标是回答两个答案相互关联的问题：马斯克是如何变得如此权势滔天的，以及我们为何允许这种情况发生。通过特斯拉、X、SpaceX和星链（Starlink）逐步积聚权力，马斯克赢得了包括美国在内的世界各地政府的青睐，随后在外界极难摆脱其影响时，利用这种政治权力来进一步谋求自身利益。这部纪录片条理清晰、简明扼要地在一处集中展示了这一全局图景。\n\n马斯克本人没有参与这部纪录片。相反，他为此向吉布尼发出了法律威胁。因此，吉布尼根据团队建立的现有视频片段数据库，构建了一个数字替身，让其根据马斯克实际讲过的话对口型。这个虚拟马斯克由于其过于夸张的面部表情和令人不安的粗重呼吸，陷入了“恐怖谷”领域，但从某种意义上说，这是一种将马斯克的面孔与其言论结合起来的巧妙方式。而且这也非常契合马斯克对模拟理论（simulation theory）的笃信。此外，整部影片大量使用了模拟游戏和视频游戏的意象来进行阐释，比如一款虚构的第一人称射击游戏，描绘了马斯克手持发射激光的电锯拆解Twitter和美国政府的场景。这虽然夸张且荒谬，但话说回来，我们之所以走到今天，在某种程度上也是因为一个名为Big Balls的初级官僚。\n\n在很多方面，《马斯克》是成功的。它阐明了他如何获得权力，以及为什么他能够不受阻拦地积聚如此多的权力——这归结为等到大多数人意识到发生了什么的时候，他已经太过富有且根深蒂固。不幸的是，作为多年来一直关注这一事件的人，我不能说自己在观看《马斯克》时学到了很多东西，或者对这个人获得了什么新的见解。\n\n这让我不禁思考这部电影到底拍给谁看。许多人已经意识到马斯克绝非某种天才发明家，但仍有许多人仅将他的名字与过去的成就联系在一起，比如可重复使用火箭的渐进式进展，或者特斯拉Cybertruck问世之前的电动车产品。影片甚至采访了一位粉丝，他表示自己会刻意忽略那些他不认同的关于马斯克的事情。这类人恰恰是最能从观看《马斯克》这种一站式全面梳理中获益的群体。\n\n但在一个注意力持续时间不断缩短的世界里，要求人们在电影院里坐上四个小时是一件要求过高的事情（即便它包含10分钟的中场休息）。它很可能会错过那些最需要看到它的人。\n\n《马斯克》将于10月16日在影院上映。本篇影评基于多伦多国际电影节的放映版本。\n最重要新闻的每日免费文摘。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "Alex Gibney执导了一部关于Elon Musk的纪录片《Musk》，该片时长将近4小时，并设有10分钟的中场休息。",
+          "Alex Gibney此前曾执导过关于Theranos和Steve Jobs的纪录片。",
+          "来源叙事重点：评析纪录片导演亚历克斯·吉布尼关于埃隆·马斯克长达近四小时的新作《Musk》，既肯定其详尽梳理马斯克发家史及权力扩张的批判性叙事，又质疑过长片长可能导致其仅在“已觉醒”的批评者圈层中传播（即‘向唱诗班讲道’），难以触达最需要被警示的普通大众或马斯克支持者。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T13:50:00.000Z",
+            "url": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026"
+          }
+        ]
+      },
+      {
+        "id": "story-muz-using-pipelines-html-63de17e277931357",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Problem With Trying to Bypass Hormuz Using Pipelines",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:00:00.000Z",
+        "pubTime": "2026-09-14 22:00",
+        "url": "https://oilprice.com/Energy/Energy-General/The-Problem-With-Trying-to-Bypass-Hormuz-Using-Pipelines.html",
+        "imageUrl": null,
+        "fullContent": "The East-West Pipeline in Saudi Arabia, which delivers oil to the shores of the Red Sea, has been an important workaround to the choking of tanker traffic by Iran in the Strait of Hormuz, the only exit for tankers from the Persian Gulf to the open sea. The Saudi government claims that 7 million barrels per day mbpd of crude oil can flow westward through the pipeline to the port of Yanbu, though the current exports are thought to be lower perhaps 5 mbpd than that given infrastructure restraints. But now that pipeline has been bombed and put out of service. The Saudis are saying that the pipeline has been closed \"as a precautionary measure.\" But that statement seems to underplay what has happened. Satellite images show that the attacks damaged at least two pumping stations. Repairing or replacing these stations may be more involved than simply replacing a section of damaged pipeline since the pipeline sits mostly above ground. And, of course, once repaired, the pipeline could simply be attacked again. The 1200-kilometer length of the pipeline is not easily defended. The oil-starved importers of the world have been gushing about how much oil has been getting out of the Persian Gulf right under the noses of a threatening Iranian Revolutionary Guard Corps IRGC who are standing watch with missiles and drones on the shores of the Strait of Hormuz. But even these surreptitious transits have carried volumes far below those transported before the war began, only 7 mbpd versus 20 mbpd. The East-West Pipeline became a crucial source of oil to the world after the Iranians closed the Strait of Hormuz. Now a missile and drone attack has put to rest the idea that pipelines are, in fact, a genuine solution to the current and any future closure of the Strait of Hormuz. Given how obvious it is that pipelines are easy to attack with drones and missiles, it has been puzzling to read all the talk about building new pipelines in and around the Persian Gulf region to lessen dependence on the Strait of Hormuz. Only a simpleton would believe that these pipelines would somehow escape attack during a conflict in the region. The pipeline \"solution\" demonstrates perfectly 1 how one-dimensional much of the media coverage of the U.S.-Israeli war with Iran has been and 2 how one-dimensional the strategic thinking on the part of the United States has been. All any observer needs to do is look up in the sky and discover that there are second and third dimensions, making it possible for aerial weapons to come from far away to destroy any pipeline. It is difficult not to ridicule those who failed to make this simple observation before committing their typing fingers or their mouths to such a nonsense solution to the Strait of Hormuz closure as pipelines. By Kurt Cobb via Resource Insights",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "沙特阿拉伯的东西管道（East-West Pipeline）将原油输送至红海沿岸的延布港（port of Yanbu），全长1200公里且大部分位于地上。",
+          "沙特政府声称东西管道每天可向西输送700万桶原油，但目前实际出口量被认为因基础设施限制而低于该水平（约为500万桶/日）。",
+          "来源叙事重点：质疑‘通过陆上管道绕过霍尔木兹海峡’的可行性，重点强调陆地管道在空中打击（无人机、导弹）面前的脆弱性，并尖锐批评美以与主流媒体在能源安全上的‘一维’短视思维。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/The-Problem-With-Trying-to-Bypass-Hormuz-Using-Pipelines.html"
+          }
+        ]
+      },
+      {
+        "id": "story-idelines-overprescribing-59ca95360efcd543",
+        "title": "英格兰抗抑郁药使用率高企的原因其实很简单：很多人确实需要它们 | 迪安·伯内特",
+        "originalTitle": "There’s a surprisingly simple reason for England’s high antidepressant use: lots of people need them | Dean Burnett",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T12:00:58.000Z",
+        "pubTime": "2026-09-14 20:00",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing",
+        "imageUrl": "https://i.guim.co.uk/img/media/d08e5cf1ac4b23439982230785edce3c486c6947/0_549_4035_3229/master/4035.jpg?width=140&quality=85&auto=format&fit=max&s=2d48205d2c761a5a9595eb5c868dce71",
+        "fullContent": "The idea that GPs are ignoring guidelines and ‘overprescribing’ doesn’t hold water. Instead, look to our social and economic crises\n\nDean Burnett is a doctor of neuroscience\n\nA new NHS report has revealed the highest ever levels of antidepressant use recorded in England, with roughly one in seven people prescribed an antidepressant item in 2025-26. This has resulted in a swathe of media coverage expressing alarm over the increase, with questions about what could, or should, be done to reverse the trend.\n\nSuch a high level of antidepressant use should, of course, prompt concern and reflection. But the popular claim that has taken hold is that antidepressant use is too high because of “ overprescribing ”, as Dr John Read, a professor of clinical psychology, says in the Daily Mail. This is the idea that patients are being prescribed antidepressants when they shouldn’t be, or when better, safer alternatives are available.\n\nDean Burnett is a doctor of neuroscience and the author of The Idiot Brain and Emotional Ignorance",
+        "fullTranslation": "全科医生无视指南并“过度开药”的说法根本站不住脚。相反，我们应该审视自身的社会与经济危机。\n迪安·伯内特是一位神经科学博士。\n英国国家医疗服务体系（NHS）的一份新报告披露，英格兰记录的抗抑郁药使用率达到了历史最高水平，在2025至2026年间，大约每七个人中就有一人被开具了抗抑郁药物处方。这引发了大批媒体报道，表达了对这一增幅的震惊，并就如何逆转、或是否应当逆转这一趋势提出了质疑。\n如此高的抗抑郁药使用水平自然应当引发关注与反思。但目前广为流传的一种说法是，抗抑郁药使用率过高是因为“过度开药”，正如临床心理学教授约翰·里德博士在《每日邮报》上所言。这种观点认为，患者在不应该使用抗抑郁药，或者有更好、更安全的替代方案时，仍被开具了此类药物。\n迪安·伯内特是一位神经科学博士，著有《蠢蠢欲动的大脑》（The Idiot Brain）和《情感无知》（Emotional Ignorance）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "一份新的NHS报告显示英格兰抗抑郁药使用量创下历史新高，2025-26年度大约每七个人中就有一人被开具抗抑郁药处方。",
+          "迪恩·伯内特（Dean Burnett）是神经科学博士，著有《The Idiot Brain》和《Emotional Ignorance》。",
+          "来源叙事重点：英格兰抗抑郁药处方量创新高反映了真实且广泛的社会心理需求，而非全科医生（GP）违规‘过度开药’；应当从社会和经济危机寻找根源，而非将责任转嫁给基层医疗系统"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T12:00:58.000Z",
+            "url": "https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing"
+          }
+        ]
+      },
+      {
+        "id": "story-ls-weather-capsules-html-243b71024ace5c37",
+        "title": "蜗牛壳是令人意想不到的气象时间胶囊",
+        "originalTitle": "Snail shells are surprise weather time capsules",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T14:00:04.000Z",
+        "pubTime": "2026-09-14 22:00",
+        "url": "https://phys.org/news/2026-09-snail-shells-weather-capsules.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/snail-shells-offer-a-n.jpg",
+        "fullContent": "by University of Queensland\n\nedited by Sadie Harley, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nSnails carry weather records on their backs that could be used to map prehistoric cyclones, a University of Queensland study has shown. The project led by School of the Environment researchers examined the rings on the shell of a Biggenden Banded Snail (Figuladra bayensis) collected from Coalstoun Lakes National Park in southeast Queensland.\n\nThe paper is published in The Holocene journal.\n\nDr. Nicholas Patton said tiny samples of the shell taken at millimeter intervals revealed the age of the snail, when it lived and the weather during its lifetime. \"We used high-resolution radiocarbon dating to determine the age of the growth bands in the shell,\" Patton said.\n\n\"It contained elevated levels of radiocarbon from the nuclear tests in Australia in the 1960s, meaning we could date the growth bands and reveal the snail had lived for about 4.5 years.\n\n\"Analyzing the oxygen and carbon stable isotopes of the different bands revealed insights into the rainfall the snail experienced.\n\n\"What we saw was the shell did not grow continuously during the snail's life; there were periods of rapid growth separated by periods of little or no growth.\"\n\nHonorary Professor Jamie Shulmeister said the team initially expected the rapid growth phases to correspond to years with heavier rainfall, making more food available for the snail.\n\n\"But the results showed the snail was responding to extreme rainfall events rather than annual wetness,\" Shulmeister said.\n\n\"Because we knew when the snail lived, the growth spurts could be linked to periods immediately following cyclones in 2015 and 2017.\n\n\"Severe Tropical Cyclone Marcia and Tropical Cyclone Debbie both caused extreme rainfall within Coalstoun Lakes National Park.\n\n\"It shows that snail shells could be used to map extreme weather events during periods before modern meteorological records.\n\n\"It was surprising and quite exciting that the humble snail could be a tool to reconstruct the paths of past cyclones even in prehistoric times.\"\n\nThe researchers' next step is to test the approach.\n\n\"If we are able to find shells within different layers of sediment deposits, we can combine the individual shell records together to extend this information further back in time,\" Patton said.\n\nNicholas R. Patton et al, Evaluating the Biggenden Banded Snail ( Figuladra bayensis ) as a climate archive for SE Queensland, Australia, using stable isotopes and 14 C dating, The Holocene (2026). DOI: 10.1177/09596836261477272\n\nJournal information: The Holocene\n\nProvided by University of Queensland\n\nBSc Life Sciences & Ecology. Microbiology lab background with pharmaceutical news experience in oil, gas, and renewable industries. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "来自昆士兰大学\n编辑：萨迪·哈利（Sadie Harley），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策进行了审核。编辑在确保内容可信度的同时强调了以下属性：\n经同行评审的出版物\n\n昆士兰大学的一项研究表明，蜗牛背上承载着天气记录，这些记录可用于绘制史前气旋图景。该项目由该校环境学院的研究人员主导，对采集自昆士兰州东南部科尔斯顿湖国家公园（Coalstoun Lakes National Park）的一只比根登条纹蜗牛（Figuladra bayensis）壳上的生长轮纹进行了检测。\n\n该论文发表在《全新世》（The Holocene）期刊上。\n\n尼古拉斯·帕顿博士（Dr. Nicholas Patton）表示，以毫米为间隔采集的微小贝壳样本揭示了蜗牛的年龄、生活年代以及其生命周期内的天气情况。“我们利用高分辨率放射性碳测年法测定了贝壳中生长纹的年代，”帕顿说。\n\n“它含有来自20世纪60年代澳大利亚核试验产生的偏高水平放射性碳，这意味着我们能够对生长纹进行测年，并揭示出这只蜗牛生活了约4.5年。\n\n“通过分析不同生长纹中的氧和碳稳定同位素，揭示了这只蜗牛所经历的降雨情况。\n\n“我们观察到，蜗牛壳在其一生中并非持续生长；而是经历了一个个快速生长期，中间穿插着几乎不生长或完全停滞的时期。”\n\n名誉教授杰米·舒尔迈斯特（Jamie Shulmeister）表示，研究团队最初预计快速生长阶段会对应降雨量更充沛的年份，因为降雨会为蜗牛提供更多食物。\n\n“但结果显示，蜗牛是在对极端降雨事件作出反应，而不是年降水量，”舒尔迈斯特说。\n\n“由于我们知道这只蜗牛生活的具体年代，其生长突增可以与2015年和2017年气旋发生后的时期直接关联。\n\n“强热带气旋‘玛西亚’（Marcia）和热带气旋‘黛比’（Debbie）均在科尔斯顿湖国家公园引发了极端降雨。\n\n“这表明，蜗牛壳可用于绘制现代气象记录建立之前的极端天气事件。\n\n“令人惊讶且非常令人兴奋的是，这种不起眼的蜗牛竟能成为重现过去（乃至史前时期）气旋路径的工具。”\n\n研究人员的下一步计划是检验该方法。\n\n“如果我们能在不同层的沉积矿床中找到贝壳，就可以将各个贝壳的记录结合起来，将这一信息进一步延伸到更久远的历史时期，”帕顿说。\n\nNicholas R. Patton 等人，《利用稳定同位素和 14C 测年法评估比根登条纹蜗牛（Figuladra bayensis）作为澳大利亚昆士兰东南部的气候档案》（Evaluating the Biggenden Banded Snail (Figuladra bayensis) as a climate archive for SE Queensland, Australia, using stable isotopes and 14C dating），《全新世》（2026）。DOI: 10.1177/09596836261477272\n\n期刊信息：《全新世》（The Holocene）\n信息来源：昆士兰大学\n\n理学学士（生命科学与生态学）。微生物学实验室背景，在石油、天然气和可再生能源行业拥有医药新闻报道经验。完整个人资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学与语言持有独到见解。完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "昆士兰大学环境学院研究人员主导的研究显示，蜗牛壳上的纹路携带天气记录，可用于绘制史前气旋图。",
+          "该研究分析了采集自昆士兰州东南部科尔斯顿湖国家公园的Biggenden带状蜗牛（Figuladra bayensis）外壳。",
+          "来源叙事重点：聚焦昆士兰大学团队发表于《全新世》期刊的新发现，强调研究人员利用蜗牛壳上的生长纹、放射性碳测年和同位素分析，成功关联历史热带气旋极端降雨，展望利用陆生蜗牛壳作为‘气候时间胶囊’重建史前气旋路径的应用前景。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T14:00:04.000Z",
+            "url": "https://phys.org/news/2026-09-snail-shells-weather-capsules.html"
+          }
+        ]
+      },
+      {
+        "id": "story-0914-tsb-2117624279-html-e0aecf736be3e66c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Центробанк продолжит внедрять ИИ в финансовые услуги",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-14T14:08:58.000Z",
+        "pubTime": "2026-09-14 22:08",
+        "url": "https://ria.ru/20260914/tsb-2117624279.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/08/0b/1889557141_0:132:3074:1861_650x0_80_0_0_c7718232f460a161f137b06b597763f0.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-14 22:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260914/tsb-2117624279.html",
+            "publishedAt": "2026-09-14T14:08:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-al-imagery-brain-network-fdcd2ec9df5a76f8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "People Who Can't Picture Anything Are Rewriting the Science of Imagination",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:23:53.000Z",
+        "pubTime": "2026-09-14 21:23",
+        "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-14 21:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+            "publishedAt": "2026-09-14T13:23:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rest-rate-moves-ac306c90-36f3af65e61f6fb2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here’s how to prepare your portfolio for the Fed’s next interest-rate moves",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T13:45:00.000Z",
+        "pubTime": "2026-09-14 21:45",
+        "url": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "History suggests the bull market in stocks will continue if the Fed raises interest rates this week, but there are things investors can do to take some precaution if hikes continue.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-14 21:45 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-14T13:45:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ead-therapist-collective-eaf88a8860f169bf",
+        "title": "巡演可能将音乐人推向孤立与焦虑的极端。巡回途中的心理治疗支持至关重要",
+        "originalTitle": "Touring can take musicians to isolating, anxious extremes. Access to therapy on the road is a vital support",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-14T12:00:58.000Z",
+        "pubTime": "2026-09-14 20:00",
+        "url": "https://www.theguardian.com/music/2026/sep/14/touring-mental-health-support-scheme-radiohead-therapist-collective",
+        "imageUrl": "https://i.guim.co.uk/img/media/4a77fe05c374b85fcdecce3adf38743859f93467/368_0_2415_1932/master/2415.jpg?width=140&quality=85&auto=format&fit=max&s=84da70516cd26e0e9c02ae620da9d72b",
+        "fullContent": "I know from our early days how high-pressure road life can be. While big tours often hire therapists, grassroots acts can’t afford it. I’m pleased to back a new scheme that aims to change that\n\nWhen Radiohead started touring, it was hugely exciting, but we got signed when we had been going for five or six years and had only really played in Oxford. Suddenly you’re entering a new world: the first flush of fame, being compared to everyone else, the furnace-like experience when a band takes off and a whole new routine of late nights, bad food and everything else that goes on around live music. Everything is heightened and it can be very isolating.\n\nIn 1992 we were playing small venues in a van and then suddenly in 1993 we were spending the second half of the year in the US. On our second long tour that year, everything caught up with me. I kind of withdrew into myself. Something about being in the US made me feel “impostor syndrome”. I really did feel a very long way from home. All that anxiety has to come out somewhere – for some it’s drink and drugs – but for me it came out in my playing. There was one particular show where we were opening for Tears for Fears and another band who had [Blondie’s] Clem Burke on drums. Clem was my absolute drummer hero but I just hit peak overwhelm, and my drumming went off a cliff. Every limb seemed to be going at its own speed. The kick drum became like trying to open a heavy door.",
+        "fullTranslation": "从我们早期的经历中，我深知巡演路上的生活压力有多大。虽然大型巡演通常会聘请心理治疗师，但草根艺人却无法负担这笔费用。我很高兴能支持一项旨在改变这种现状的新计划。\n\n当电台司令（Radiohead）刚开始巡演时，那种感觉极其令人兴奋，但我们在签约前已经组建了五六年，而且实际上只在牛津演出过。突然之间，你步入了一个全新的世界：初尝成名的滋味、被拿来与所有人比较、乐队走红时那如熔炉般的体验，以及熬夜、劣质伙食和围绕现场音乐发生的一切所构成的新常态。所有感官都被放大了，而这可能会让人感到非常孤立。\n\n1992年，我们还开着一辆厢型货车在小型场地演出，而到了1993年下半年，我们突然就来到了美国巡演。在那一年的第二次长途巡演中，一切压力都找上了门。我整个人有些封闭起来。在美国的那种环境不知怎地让我产生了“冒充者综合征”。我真切地感到自己离家极其遥远。所有这些焦虑总得找个宣泄口——对有些人来说是借酒消愁或吸毒——但对我而言，它在我的演奏中爆发了。有一次特别的演出，我们为惊惧之泪（Tears for Fears）以及另一支由[金发女郎乐队的]克莱姆·伯克（Clem Burke）担任鼓手的乐队开场暖场。克莱姆是我心目中绝对的鼓手偶像，但我当时却崩溃到了极点，我的鼓技直线下滑。四肢仿佛都在按各自的节奏乱走，踩底鼓的感觉就像是在推开一扇沉重的铁门。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "大型巡演通常会聘请心理治疗师，而基层音乐人无力承担此类费用。",
+          "文章作者支持一项旨在为巡演音乐人提供心理治疗支持的新计划。",
+          "来源叙事重点：通过Radiohead成员早期巡演经历中的高度孤独、心理崩溃和冒名顶替综合征，揭示巡演环境对音乐人心理健康造成的严重压力；重点倡导为缺乏经济承受能力的基层音乐人建立可负担的巡演心理治疗支持计划。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-14T12:00:58.000Z",
+            "url": "https://www.theguardian.com/music/2026/sep/14/touring-mental-health-support-scheme-radiohead-therapist-collective"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789367810677,
     "timeDisplay": "2026-09-14 14:36 (UTC+8)",
     "date": "2026-09-14",

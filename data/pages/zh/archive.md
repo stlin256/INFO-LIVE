@@ -25,14 +25,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **33** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **34** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-14 14:36 (UTC+8)
+- **最新归档时间**：2026-09-14 22:16 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-14 22:16 (UTC+8)" title="全球要闻情报简报 · 22:16" org="ARCHIVE"}
+**速报纪要：** 本小时内，前沿基础物理取得重大实验突破，牛津大学团队与 CERN 合作证实极重且短暂粒子中存在量子纠缠；同时，地缘冲突对全球能源供需与核安全持续造成冲击，中东局势令航运受阻预期升高并推升煤炭需求至历史新高，俄方亦针对核电设施安全与建设进展发声。
+
+**重点要闻索引：**
+- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/economy/2187421) <span class="news-meta-time">🕒 2026-09-14 22:11</span>
+- [TechCrunch (硅谷创业与资本)] [“涉谷黑胶酒吧”是一家无需任何AI提示词即可提供趣味音乐应用的初创公司](https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/) <span class="news-meta-time">🕒 2026-09-14 21:55</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-14 22:05</span>
+- [Lobste.rs (极客思想社区)] [30分钟内搞定航测制图](https://blog.zm.is/finished-aerial-maps-within-30-minutes/) <span class="news-meta-time">🕒 2026-09-14 21:37</span>
+- [Phys.org (基础物理与技术前沿)] [物理学家助力在大型强子对撞机中揭示“幽灵般的”量子效应](https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html) <span class="news-meta-time">🕒 2026-09-14 22:12</span>
+- [TASS (塔斯社官方英文)] [俄罗斯国家原子能公司总经理：公司拥有处于不同完工阶段的30座RITM小型反应堆](https://tass.com/economy/2187415) <span class="news-meta-time">🕒 2026-09-14 22:09</span>
+:::
 :::timeline-item{start="2026-09-14 14:36 (UTC+8)" title="全球要闻情报简报 · 14:36" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-14 14:26 (UTC+8) 完成，共获得 13 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
