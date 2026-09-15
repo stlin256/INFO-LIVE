@@ -16,300 +16,172 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-irtual-guard-price-specs-6444791fae45e288" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1281" data-content-paragraphs="14" data-published-at="2026-09-15T13:36:45.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 21:36</span>
-</div>
-
-### [这款可视门铃摄像头可让真人安保人员帮你守护前门](https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs)
-<div class="original-title-sub"><span class="orig-tag">原文</span> This doorbell camera lets a human security guard watch your front door</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="这款可视门铃摄像头可让真人安保人员帮你守护前门" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>来自该话题的内容将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>SimpliSafe 将其 Active Guard 人工实时监控功能引入其新款可视门铃中。</p>
-<p>来自该作者的内容将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>查看珍妮弗·帕蒂森·图伊（Jennifer Pattison Tuohy）的所有文章</p>
-<p>如果您通过 The Verge 的链接购买商品，Vox Media 可能会赚取佣金。请参见我们的道德规范声明。</p>
-<p>DIY 家庭安防公司 SimpliSafe 正将其基于人工智能的主动安防功能带到前门。全新 SimpliSafe Video Doorbell Series 2 于今日发售，售价 199.99 美元，并支持该公司的 Active Guard Outdoor Protection 服务（起售价为每月 49.99 美元）。该服务将 AI 分析与人工坐席相结合，以检测潜在威胁并主动做出应对。</p>
-<p>据该公司称，当摄像头通过端侧 AI、云端计算机视觉与面部识别的组合技术检测到可疑活动时，SimpliSafe 的监控人员便能介入摄像头画面，“观察、喊话并试图威慑潜在的入侵者和快递小偷”。</p>
-<p>SimpliSafe Video Doorbell Series 2 是一款有线门铃，拥有 2K 分辨率、10 倍变焦、150 度全身纵向视野、双向语音和内置警报器。它支持针对人员与快递的智能警报、最长 5 秒的事前预录视频，并支持双频 Wi-Fi。该门铃需要搭配 SimpliSafe 基站与键盘使用，兼容任何包含专业监控的 SimpliSafe 套餐，也可以与带录像功能的自助监控套餐搭配使用。</p>
-<p>Active Guard 于 2023 年首次应用于 SimpliSafe 的室内摄像头，2024 年扩展至室外摄像头，如今已在公司最新的门铃摄像头上提供。该功能需用户主动选择开启，且只有在系统处于设防状态且被触发时，人工坐席才能查看实时画面。Active Guard 需要订阅每月 49.99 美元起的 Pro 或 Plus 级 SimpliSafe 监控套餐。SimpliSafe 表示，除了潜在地威慑入侵者外，该系统还能向紧急救援机构提供更准确的信息。</p>
-<p>该公司发布了一个隐私详情页面，详细解释了系统的工作原理，包括视频片段经过加密（静态存储和传输过程中加密，非端到端加密），以及“除非法律要求，否则不会与执法部门共享摄像头视频”。</p>
-<p>门铃上的彩色 LED 状态指示灯可显示当前是监控人员（琥珀色）还是屋主（蓝色）在通话；用户还可以建立一个熟人面孔库，以免监控人员把你的遛狗人员吓个半死。</p>
-<p>Ring 也提供类似的主动安防功能，名为 Virtual Guard，配合其 Ring Alarm 系统使用，费用为每月 99 美元。能够有人实时查看并核实你家中是否存在实际危险并可能采取行动，确实很有价值，尤其是如果你居住在虚假警报会被罚款的地区；但对大多数人来说，这感觉有些大材小用。</p>
-<p>每日免费获取最重要的核心新闻摘要。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>SimpliSafe推出带有主动安防功能的新品SimpliSafe Video Doorbell Series 2，售价为199.99美元。</li>
-    <li>SimpliSafe Video Doorbell Series 2支持Active Guard Outdoor Protection功能，该服务起步价为每月49.99美元。</li>
-    <li>来源叙事重点：聚焦于智能家居安防硬件评测与服务分析，重点关注SimpliSafe二代视频门铃的硬件规格升级、AI与真人监控协同工作机制、隐私与加密保护策略，并从实用性、竞品价格比照（对比Ring）以及普通消费者的真实需求维度进行审视。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-5hfewp7yl3zlghlyhvibjdyt-857c44f987a2ed55" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1022" data-content-paragraphs="8" data-published-at="2026-09-15T13:13:43.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 21:13</span>
-</div>
-
-### [Java 27 正式发布](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Java 27 Released</div>
-
-<div class="article-body" data-article-body="true"><p>Java 27 的参考实现 JDK 27 现已正式发布（GA）。我们于 8 月 20 日发布了构建版本 35 作为 JDK 27 的第二个候选发布版（Release Candidate），此后未收到任何 P1 级别漏洞的报告。因此，构建版本 35 现已成为正式 GA 版本，可供生产环境使用。</p>
-<p>Oracle 提供的 GPL 许可 OpenJDK 构建版本可在此获取：https://jdk.java.net/27<br />其他供应商的构建版本毫无疑问也将很快推出。</p>
-<p>该版本包含九项 JDK 增强提案（JEP）[1]：<br />523：在所有环境中将 G1 设为默认垃圾收集器（Make G1 the Default Garbage Collector in All Environments）<br />527：TLS 1.3 的后量子混合密钥交换（Post-Quantum Hybrid Key Exchange for TLS 1.3）<br />531：惰性常量（第三次预览）（Lazy Constants (Third Preview)）<br />532：模式匹配、instanceof 和 switch 中的基本类型（第五次预览）（Primitive Types in Patterns, instanceof, and switch (Fifth Preview)）<br />533：结构化并发（第七次预览）（Structured Concurrency (Seventh Preview)）<br />534：默认启用紧凑对象头（Compact Object Headers by Default）<br />536：JFR 进程内数据脱敏（JFR In-Process Data Redaction）<br />537：Vector API（第十二次孵化）（Vector API (Twelfth Incubator)）<br />538：加密对象的 PEM 编码（第三次预览）（PEM Encodings of Cryptographic Objects (Third Preview)）</p>
-<p>与往常一样，该版本还包含数百项较小的增强功能以及数千项问题修复。</p>
-<p>感谢所有为该版本做出贡献的人，无论是在设计和实现功能与增强方面，还是在修复漏洞，抑或是测试抢先体验构建版本方面。</p>
-<p>- Mark</p>
-<p>[1] https://openjdk.org/projects/jdk/27/</p>
-<p>按日期显示回复<br />添加到收藏夹 移除收藏</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Java 27 的参考实现 JDK 27 现已正式发布（GA），适用于生产环境。</li>
-    <li>JDK 27 的第 35 号构建（build 35）于 8 月 20 日作为第二个候选发布版本（RC2）发布，此后未报告任何 P1 级别错误，因此被确定为 GA 构建版本。</li>
-    <li>来源叙事重点：正式宣布 Java 27 / JDK 27 达到 GA 生产可用状态，强调测试稳定性（无 P1 缺陷）及核心技术升级（9 项 JEP 特性与海量修复），并提供官方下载渠道。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-t-ios-android-soundboard-0ae8067b430986e1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1215" data-content-paragraphs="12" data-published-at="2026-09-15T13:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 21:00</span>
-</div>
-
-### [Voicemod 推出便携新品，将实时变声功能带入手机](https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Voicemod’s new pocket-friendly device brings real-time voice changing to your phone</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/voice1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Voicemod 推出便携新品，将实时变声功能带入手机" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该话题的相关文章将被添加到您的每日邮件文摘和主页推送中。</p>
-<p>Key Pocket 让您在多人联机游戏、社交媒体直播或通话期间改变自己的声音。</p>
-<p>该作者的相关文章将被添加到您的每日邮件文摘和主页推送中。</p>
-<p>查看 Andrew Liszewski 的全部文章</p>
-<p>如果您通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。请参阅我们的道德准则声明。</p>
-<p>Voicemod 宣布推出一款全新的移动设备，扩展了其在 2024 年底推出的 Voicemod Key 转接器的功能——此前该转接器旨在将该公司的实时变声技术带入游戏主机平台。早期的 Voicemod Key 仅将智能手机用作连接该公司移动应用与 Xbox、PlayStation 及 Switch 之间的接口，而全新的 Key Pocket 则可以在您于苹果或安卓移动设备上玩游戏、打电话或直播时，用来改变声音或触发音效。</p>
-<p>Voicemod Key Pocket 现已作为独立设备发售，售价为 99.90 美元；也可以购买售价为 129.90 美元的套装，其中包含硬件以及一份 Voicemod Pro 授权许可。额外支付 30 美元即可让您终身使用该公司制作的数百种声音以及社区创建的数千种声音，获得创建自定义声音的能力，且无需订阅即可实现跨多平台的云端同步。</p>
-<p>虽然 Voicemod 早在 2020 年就通过在 iOS 和 Android 上推出 Voicemod Clips 首次将业务拓展至 PC 之外，但该移动应用此前只能在录制事后可供分享的简短视频或音频片段时改变声音。移动操作系统的隐私限制阻止了应用程序修改麦克风音频并将其传输给其他应用程序。</p>
-<p>Voicemod Key Pocket 并没有打破这一机制。这款小巧便携、可吸附在支持磁吸配件的手机或平板背面的设备，扮演了外置音频桥接器的角色。连接至 Pocket 的有线或蓝牙麦克风的音频由 Voicemod 移动应用处理后，再通过一根连接到移动设备的短 USB-C 线缆提供给其他应用程序，例如《堡垒之夜》（Fortnite）、《罗布乐思》（Roblox）、Discord，或是您用来拨打语音或视频电话的应用程序。</p>
-<p>在获得 Pro 授权后，该应用可提供访问由 Voicemod 制作的 200 多种声音（而不是免费版中仅有少量不断轮换的声音）以及由社区创建的超过 76,000 种额外选项。Pocket 配备了六个可编程按键，可用于在不同声音之间快速切换或触发简短的声音板片段，一个专用的静音按键，以及一个可用于切换声音或调节音量的可自定义发光 LED 旋钮。与 Voicemod Key 一样，Key Pocket 还可以用作最新一代游戏主机的变声器，包括 Switch 2 和 Meta Quest 头显的最新版本。</p>
-<p>每日免费提供最重要的精选新闻摘要。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>Voicemod 推出名为 Voicemod Key Pocket 的新型移动硬件设备，可在 iOS 和 Android 设备上实现实时变声和音效触发。</li>
-    <li>Voicemod Key Pocket 独立硬件售价为 99.90 美元，包含 Voicemod Pro 终身许可证的套装售价为 129.90 美元。</li>
-    <li>来源叙事重点：报道 Voicemod 推出便携硬件 Key Pocket，重点阐述其如何通过外接音频桥接器绕过移动操作系统（iOS/Android）的麦克风隐私权限限制，实现在手机通话、游戏及直播场景下的实时变声与音效触发，并介绍其定价策略与硬件交互特性。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ess-charging-case-review-af6c46111be9737a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3344" data-content-paragraphs="15" data-published-at="2026-09-15T13:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 21:00</span>
-</div>
-
-### [高端款 AirPods 5 是苹果迄今打造的最佳开放式耳机](https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The premium AirPods 5 are the best open-ear earbuds Apple has made</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0125.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="高端款 AirPods 5 是苹果迄今打造的最佳开放式耳机" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>新版本的产品充其量也就是与旧款价格持平，而且通常（尤其是过去几年里）还会更贵，这几乎已成定局。但苹果在 AirPods 5 上的做法并非如此。售价 149 美元且配备无线充电盒的 AirPods 5，比它们所取代的带主动降噪功能的 AirPods 4 还要便宜 30 美元。它们的主动降噪效果略有提升，并且是首款在耳机柄上配备音量控制功能的非 Pro 系列 AirPods。苹果从未推出过价格如此亲民却能提供如此丰富功能的无线耳机，这使得便宜 20 美元但缺少无线充电和音量控制的基础款 AirPods 5 显得毫无意义。[产品：配备无线充电盒的 Apple AirPods 5 | https://www.amazon.com/gp/aw/d/B0HJB76H2V/?th=1&amp;tag=theverge02-20, https://www.apple.com/shop/buy-airpods/airpods-5/with-wireless-charging-case]</p>
-<p>与所有非 Pro 系列 AirPods 一样，AirPods 5 采用开放式设计，这意味着它们没有硅胶耳塞来在你的耳道内形成密封。上一代产品中，苹果提供了两款 AirPods：一款带主动降噪功能，一款不带。这一次，虽然依然保留了两种型号，但 AirPods 5 的两款型号均配备了主动降噪功能。它们也都具备自适应音频和通透模式，且搭配 iPhone 15 Pro 或更新机型可实现实时翻译功能，防尘防水等级也达到了 IP57（高于 AirPods 4 的 IP54）。售价 129 美元的 AirPods 5 与售价 149 美元的配备无线充电盒的 AirPods 5 之间的主要区别——除了无线充电盒和令人头疼的长名字之外——就在于音量控制、电池续航以及 20 美元的差价。</p>
-<p>这多出来的 20 美元非常划算。无线充电盒很不错（虽然不是 MagSafe，但它能配合 Apple Watch 的磁力充电器使用）。但最重要的改变是它们终于加入了滑动音量控制。这是迄今为止所有非 Pro 系列 AirPods 一直缺少的功能。无线耳机的部分便利之处就在于你可以将手机留在口袋或包里，而在耳机本身上省略音量控制则违背了这一初衷。两款机型价格如此接近，我实在不明白苹果为什么还要发布基础款 AirPods 5。</p>
-<p>[图片：AirPods 5 的网罩比 4 代更密集，能够自然阻隔更多环境噪音。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0408.jpg?quality=90&amp;strip=all]</p>
-<p>苹果表示，AirPods 5 的两款型号降噪效果均比配备主动降噪的 AirPods 4 提升最高达 50%，但该公司并未提供有关哪些频段受到影响的细节（我们得等 SoundGuys 那帮人把它们放到测量仪器上才能知晓）。尽管 AirPods 的尺寸和外观保持不变，但苹果重新设计了内部声学结构，改进了算法，并在开孔处采用了更密集的网罩以实现稍强一点的被动隔音（自然降低环境噪音），这有助于达成降噪效果的提升。在我自己的主观测试中，无论是在飞机低频轰鸣声中，还是在外出前往繁忙餐厅取外卖煎饼卷时，我都能感受到些许改善。配备主动降噪的 AirPods 4 在降噪表现上已经优于我听过的任何其他开放式耳机（尤其是耳夹式耳机），而 AirPods 5 则更进一步。但不要指望能获得像 AirPods Pro 3 这类入耳密封式耳机的隔音效果，后者在打折时往往仅贵出 50 美元。</p>
-<p>[图片：AirPods 5（右）与 AirPods 4（中）共享相同的外观设计，其灵感源自 AirPods Pro 3（左）的内部声学结构。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0370.jpg?quality=90&amp;strip=all]</p>
-<p>苹果在通透模式方面一直处于行业领先地位，但在 AirPods 5 上，开启通透模式与完全不戴耳机之间几乎已经没有可以察觉的差异了。在其他耳机上，通透模式通常会略微提升高频环境音，比如咝咝声。The Verge 的笔记本电脑评测员 Antonio Di Benedetto 戴着这款新 AirPods 跑了一次 5 公里，发现通透模式比主动降噪更合适，因为它在没有风噪的情况下提供了出色的环境感知能力。而且在这个过程中，完全感觉不到耳机有掉落的危险。</p>
-<p>重新设计的内部构造也提升了 AirPods 5 的音质表现。低音响应更加充沛——我觉得这是 AirPods 4 非常欠缺的地方——人声也更加清晰，不再像 4 代那样发闷或被掩盖。在 The Pixies 乐队的歌曲《Gigantic》中，伴随着副歌部分铺陈开来的失真吉他声，Kim Deal 的歌声依然干净清晰易辨；而在整张《Surfer Rosa》专辑中，整个声场中乐器和人声的分离度给我留下了深刻的印象。AirPods 5 的听感胜过我听过的其他开放式耳机。</p>
-<p>在 iOS 27 中，苹果针对想要调整声音风格的用户新增了 3 段式均衡器。该功能并非这款耳机独占，同样适用于 AirPods Pro 3 和 AirPods Max 2。不同的频段调节并不会彻底改变声音风格，但苹果终于为那些喜欢摆弄调音的人提供了这项功能，这确实是一件好事。通话质量也优于 AirPods 4。虽然与我交谈的人表示我的声音听起来有点压缩感，但他们毫不费力就能听懂我所说的话，而且交通噪音完全察觉不到。偶尔路过行人的交谈声或强阵风会穿透消噪屏障，但也绝不会过于令人分心。</p>
-<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0137.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0016.jpg?quality=90&amp;strip=all]</p>
-<p>AirPods 5 最令人失望的地方是它们的电池续航。虽然耳机本身很小巧，但在开启主动降噪的情况下仅有 5 小时续航低于平均水准，甚至无法撑过一次跨国飞行。搭配充电盒的总续航也从 30 小时下降到了 22 小时。而对于基础款 AirPods 5 来说甚至更短——单次耳机使用最长 4 小时，搭配充电盒最长 20 小时。将耳机放回充电盒充电 5 分钟可额外获得 1 小时的聆听时间。</p>
-<p>如果你只是在寻找一款表现扎实的耳机，市面上有许多更便宜的选择，并且提供了许多相同的功能。像 Soundcore Liberty 4 NC 和 Nothing Ear 3A 这类耳机的售价大约在 100 美元左右，拥有更出色的降噪表现，音质也几乎同样优秀。但这二者都无法实现 AirPods 5 那样与苹果产品生态的无缝整合。而且至关重要的是，这两款都是入耳密封式耳机，而 AirPods 根本无需塞入你的耳道，有些人觉得这种方式更为舒适。</p>
-<p>苹果的开放式耳机设计向来不是我的最爱。硅胶耳塞佩戴更稳固，且能提供更优越的主动降噪效果（尽管它们自身也存在贴合度方面的挑战）。但 AirPods 4 带来的重新设计——佩戴起来更舒适——开始让我有所动摇。如今再加上主动降噪（AN</p>
-<p>以更便宜的价格提供了音量控制和无线充电盒，这款售价 149 美元的 AirPods 5 非常适合那些不喜欢入耳密封感的人。我甚至根本不会去考虑更便宜的那款 AirPods 5。</p>
-<p>摄影：Amelia Holowaty Krales / The Verge</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 21:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-arnegiacomo-fugleramme-a72a8c8d784d0f35" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1459" data-content-paragraphs="7" data-published-at="2026-09-15T12:31:10.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 20:31</span>
-</div>
-
-### [Show HN：一款能听声识鸟并以19世纪插画风格绘制鸟类的电子墨水屏相框](https://github.com/arnegiacomo/fugleramme)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</div>
-
-<div class="article-body" data-article-body="true"><p>加载时出错。请重新加载此页面。</p>
-<p>面向树莓派（Raspberry Pi）的电子墨水屏鸟类相框——通过音频进行实时鸟类识别，采用完全本地化的AI，渲染呈现为真实的、手工抠图的19世纪鸟类插画。<br />窗户有点脏，十分抱歉——松鼠一直在偷吃鸟食。<br />目前仍处于早期开发阶段：可能会遇到个别错误（bug）和一些不够完善的细节，后续还会推出更多功能。<br />实况展示位于 fugleramme.arnegiacomo.dev，从我厨房的窗户实时运行，展示着当前在我花园（挪威卑尔根）中听到的真实鸟类。<br />硬件、安装与操作文档请见：arnegiacomo.dev/fugleramme</p>
-<p>BirdNET-Go 通过麦克风监听并负责分类识别。Fugleramme 轮询其 API，将每种鸟类与插画进行匹配，然后将它们排版到页面上，且仅在鸟类发生变化时才重新绘制——呈现在 Inky Impression 电子墨水屏上，同时也以提供相同视图的 Web Kiosk 模式呈现。项目还提供一个管理页面，允许你配置显示内容、自动更新等设置。<br />如果你已经运行了 BirdNET-Go，直接将相框指向它即可——无论是在同一台机器上，还是在网络可达的任何其他位置。<br />虽然为了获得预期的体验建议配备电子墨水屏，但它并不是必需的。如果没有屏幕，Fugleramme 可以纯网页模式运行——通过 HDMI 将 Kiosk 显示在屏幕上，或者从网络内的任何设备打开它。</p>
-<p>硬件包含：树莓派 5、一块 Inky Impression 13.3 英寸（Spectra 6）屏幕、一个麦克风以及一个 A4 相框。完整的零件清单、推荐配置和备选方案见：硬件（Hardware）。</p>
-<p>这个项目的一半初衷在于展示一些令人惊艳的公有领域自然历史插画。超过 800 张抠图涵盖了 400 多个物种，每一张均取自真实的图版，并为该项目进行了手工整理（没有艺术作品由 AI 生成，尽管有些经过了 AI 修饰）。<br />每个检测到的物种都会与对应的插画匹配、去除背景，并按体重大小排版在带有纹理的纸质页面上，体型较大的鸟类靠向中心。若没有任何鸟类，窗口则显示一根光秃秃的栖木。<br />这些图版来自斯堪的纳维亚、英国和中欧，因此北欧、不列颠群岛和德国的覆盖度最好。其他地区的覆盖度目前还不够完善。更广泛的欧洲和北美地区覆盖正在制作中！</p>
-<p>有关手动抠图步骤，请参见“添加插画”（Adding artwork）。<br />关于模拟检测器的运行参数，以及连接真实站点运行的说明：在无树莓派环境下运行（Running it without a Pi）。</p>
-<p>在树莓派上运行（假设你已安装并运行了硬件）：<br />系统会询问 BirdNET-Go 的存放路径和要使用的端口，克隆仓库，安装所需依赖，并将相框作为 systemd 服务启动。注意！在崭新的系统上可能需要重启。<br />从空白 SD 卡开始安装，请参阅完整的安装指南。<br />或者从代码库检出并构建镜像：<br />Kiosk 界面运行在 :8080，管理界面运行在 :8080/admin，所有持久化数据保存在 /data。<br />在一台连接了 USB 麦克风的 Linux 设备上，这将同时启动 BirdNET-Go：<br />更多信息请参阅容器说明（Container）。<br />非常欢迎并鼓励大家贡献力量——尤其是错误修复、文档和插画。感谢目前为止所有做出贡献的人 ❤️<br />更多信息请参阅贡献指南（Contributing）。<br />我已经制作了几台这样的设备。如果你想直接购买一台而不是自己动手制作，请与我联系。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-15 20:31 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://github.com/arnegiacomo/fugleramme" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--300-million-report-says-220ecf78d8352e14" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="779" data-content-paragraphs="10" data-published-at="2026-09-15T12:01:31.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 20:01</span>
-</div>
-
-### [OpenAI 以 3 亿美元收购智能手机相机制造商 Glass Imaging](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI buys smartphone camera maker Glass Imaging for $300M</div>
-
-<div class="article-body" data-article-body="true"><p>据《华尔街日报》报道，OpenAI 已斥资逾 3 亿美元收购了智能手机相机制造商 Glass Imaging。该公司成立于 2019 年，总部位于加利福尼亚州洛斯阿尔托斯，此前曾从投资者处筹集了约 3000 万美元的资金。</p>
-<p>Glass Imaging 由前苹果工程师齐夫·阿塔尔（Ziv Attar）和汤姆·毕晓普（Tom Bishop）联合创立，两人此前曾领导开发苹果“人像模式”的团队。这一背景直接奠定了他们如今在 Glass Imaging 的研发方向：利用人工智能克服智能手机相机的物理尺寸限制。Glass Imaging 并非在照片拍摄完成后利用 AI 进行修图，而是利用神经网络深入学习特定相机系统（例如各款智能手机机型上配备的不同相机），从而在按下快门的瞬间便能输出更优质的图像。</p>
-<p>OpenAI 未立即回应置评请求。据传，这家 ChatGPT 开发商正在研发自己的硬件产品，例如智能手机、无线耳机以及 AI 伴侣设备。</p>
-<p>2025 年，在 OpenAI 以 65 亿美元收购著名苹果设计师乔尼·艾维（Jony Ive）的公司时，OpenAI 首席执行官萨姆·奥尔特曼（Sam Altman）与艾维透露，他们此前一直在一处名为 io 的硬件设备初创公司上展开合作。</p>
-<p>展位预订截止日期为 9 月 18 日。切勿错失在 Disrupt 展厅获取高价值潜在客户、对接投资者以及提升品牌曝光度的良机。</p>
-<p>每个工作日及周日，您都能获取 TechCrunch 最优质的报道内容。</p>
-<p>TechCrunch Mobility 是您了解交通出行领域新闻与前沿洞察的不二之选。</p>
-<p>初创企业是 TechCrunch 的核心，欢迎订阅获取每周送达的精选报道。</p>
-<p>为各界弄潮儿提供开启崭新一天所需的关键资讯。</p>
-<p>提交您的电子邮箱即表明您同意我们的服务条款与隐私政策。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-15 20:01 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--the-ai-labs-should-fear-e33bad75df32cb02" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1737" data-content-paragraphs="15" data-published-at="2026-09-15T12:00:00.000Z" data-time-source="publication">
+<div id="story-rst-time-on-september-22-cfb83b1ced8d4e86" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1699" data-content-paragraphs="15" data-published-at="2026-09-15T18:16:07.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 20:00</span>
+  <span class="news-meta-time">🕒 2026-09-16 02:16</span>
 </div>
 
-### [Salesforce与英伟达推出的全新推理模型，正是各大前沿AI实验室该忌惮的一切](https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear</div>
+### [SpaceX将于9月22日首次尝试将“星舰”送入轨道](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> SpaceX will try to put Starship in orbit for the first time on September 22</div>
 
-<div class="article-body" data-article-body="true"><p>一款名为 Koa 的全新人工智能模型，是 Salesforce 本周在其庞大的 Dreamforce 科技大会上发布的最重磅公告之一。Koa 是该公司的首款推理模型，基于英伟达开源权重的 Nemotron 模型构建。两家公司通力合作，对 Koa 进行了后训练，使其擅长处理销售、营销和客户支持相关的任务。</p>
-<p>Koa 是企业界对人工智能的需求与前沿实验室所提供产品出现分道扬镳的一个鲜明例证。专有 AI 实验室更希望企业将文件、代码、提示词和反馈直接上传到他们的模型和智能体中，并为此花费数百万美元。</p>
-<p>但通过该模型，Salesforce 为其企业客户提供了：</p>
-<p>Koa 将作为 Salesforce 在其 Agentforce 平台中提供的其他模型的替代选择，客户可在该平台上构建智能体，以处理回答客户服务问题或安排预约等常规任务。</p>
-<p>“我们构建了许多特定于任务的小型语言模型，它们都是 Agentforce 产品组合的一部分，”Salesforce AI 执行副总裁 Jayesh Govindarajan 告诉 TechCrunch，“但推理一直是我们需要依赖前沿模型提供商的事情。直到现在。”</p>
-<p>在 Koa 出现之前，如果一个智能体需要对一个长期运行或多步骤的任务进行推理，这些提示词将通过 Agentforce 的 AI 网关（决定哪个模型处理哪个请求的系统）路由到像 Claude 或 ChatGPT 这样的前沿模型。</p>
-<p>“我们此前没有训练自己的企业级前沿模型的原因之一——我们一直想做——但挑战始终在于缺乏一个可供起步的预训练基础模型。在 Nemotron 出现之前，不存在既可用的主权美国预训练模型，其二是顶尖水平的，其三是拥有清晰的数据来源。我们根本不知道 Qwen 是用什么训练的，”Govindarajan 指的是阿里巴巴制作的流行中文开源权重模型。</p>
-<p>对这样的模型进行后训练意味着将其从一个通用系统转变为精通销售和客户支持知识的系统，为了做到这一点，Salesforce 和英伟达没有使用来自 Salesforce 客户的任何实际数据。相反，他们精心制作了模仿客户模式的合成数据。</p>
-<p>Govindarajan 描述道：“我们实际上用具象化的客服专业人员模拟了一个客户服务环境，包括打进客服中心愤怒的客户，一直到试图达成交易的销售专业人员。”</p>
-<p>与将这些任务发送给 Claude 或 ChatGPT 相比，Koa 旨在更好地完成 Salesforce 客户希望智能体执行的工作任务，并且在消耗 Token 的成本方面更便宜。</p>
-<p>借助 Nemotron，“我们拥有独特的推理架构，以实现高 Token 效率，”英伟达企业生成式 AI 软件副总裁 Kari Ann Briski 告诉 TechCrunch，“这正是你需要具备的三位一体要素：主权 AI、首个 Token 响应时间、高效推理，以满足整体的 Token 经济学要求。”</p>
-<p>然而，Salesforce 并没有完全放弃 Anthropic 或 OpenAI。它刚刚宣布与 Anthropic 建立名为 Claudeforce 的合作伙伴关系，该合作允许公司将 Claude 用作其 AI 界面，同时他们的数据仍保留在由其基础设施保障安全的 Salesforce 记录系统中。</p>
+<div class="article-body" data-article-body="true"><p>SpaceX周二宣布，已准备好对其巨型火箭“星舰”（Starship）进行第14次试飞，这一次该公司终于将首次尝试将其第二级（上级）送入地球轨道。</p>
+<p>试射定于9月22日进行，为期75分钟的发射窗口将于美国中部时间上午7点15分开启动。在这次试飞中，SpaceX计划向其拥有1万颗卫星的互联网网络中部署首批第三代星链（Starlink）卫星。该公司预计将在本次试飞中将26颗V3卫星送入轨道。</p>
+<p>如果成功，这将是“星舰”首次为SpaceX的发射部门创造收入（即便该收入来自公司的另一个部门）。</p>
+<p>这将是SpaceX在6月完成历史上规模最大的IPO并成为上市公司以来的第二次“星舰”试飞。第一次是在7月，当时SpaceX首次成功部署了V3星链卫星——不过那些卫星仅用于测试“星舰”的部署能力，并在大约20分钟后在地球大气层中烧毁。</p>
+<p>将“星舰”的上级送入环绕地球的轨道对SpaceX来说将是一个重大里程碑。该公司已在该项目上耗资数十亿美元，目前正寻求退役其“猎鹰9号”（Falcon 9）和“猎鹰重型”（Falcon Heavy）火箭，全面转向“星舰”。创始人兼首席执行官埃隆·马斯克（Elon Musk）曾表示，一旦“星舰”能够“每周可靠飞行数次”，以节省“SpaceX稀缺的工程与生产资源”，退役计划就会实现。</p>
+<p>SpaceX需要“星舰”能够可靠地入轨、返回地球并迅速复用，以兑现其在IPO期间许下的庞大发射频次承诺。</p>
+<p>不过，“星舰”的第14次试飞将仅测试这一目标的第一部分。马斯克最近收回了此前关于SpaceX可能尝试在本次飞行中使用发射塔捕捉“星舰”上级的说法，称此时发生爆炸对公司而言将是太大的挫折。</p>
+<p>SpaceX这次也不会尝试捕捉超重型（Super Heavy）助推器。该公司在最近几次试飞中一直受困于助推器问题，并进行了多项修改以防失败。然而，在7月的第13次试飞中，助推器在与“星舰”上级分离后仍未能正常重新点燃发动机。针对本次任务，SpaceX周二表示，已对助推器的硬件和软件进行了又一轮“若干修改”，以“解决上次飞行中发现的问题”。</p>
+<p>SpaceX在第13次试飞中对“星舰”上级的测试要成功得多。虽然它当时没有入轨，但在印度洋模拟着陆过程中的飞行十分平稳。上级在倾覆落水时甚至没有爆炸，使得SpaceX得以在过去几个月里将其打捞并缓缓拖回得克萨斯州总部。</p>
+<p>SpaceX周二表示，根据对从第13次试飞中回收的上级研究所获得的经验，它对“星舰”的热防护罩进行了进一步的改进。</p>
 <p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>预订展位的最后一天是9月18日。不要错过高影响力的潜在客户资源、投资人对接机会以及 Disrupt 展厅中的品牌聚焦展示。</p>
-<p>Revolut 确认因虚假政府请求导致客户数据泄露<br />OpenAI 因 Astra 需求激增而暂停 Pro 订阅<br />Bending Spoons 将以13.6亿美元收购协作工具制作商 Miro，较2022年估值折价90%<br />身份验证巨头 IDScan 确认发生数据泄露，超过1.5亿份驾照被盗<br />Automattic 董事会迫使首席执行官 Matt Mullenweg 休假<br />苹果发布其首款折叠屏手机 iPhone Duo<br />“拿我们的生命做赌注”：Anthropic 研究员辞职，并就自我改进型 AI 发出警告</p></div>
+<p>交通领域资深记者<br />肖恩·奥凯恩（Sean O’Kane）是一名记者，过去十年一直报道交通行业快速演进的商业和技术，包括特斯拉以及追赶埃隆·马斯克的众多初创公司。此前，他是彭博新闻社（Bloomberg News）的记者，协助报道了一些最臭名昭著的电动汽车SPAC惨败事件。他早前曾在The Verge工作，在那里他还报道过消费科技、主持过多部短视频和长视频、拍摄产品与编辑摄影，并曾在一架红牛特技飞行锦标赛飞机上差点昏厥。</p>
+<p>您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过 Signal 发送加密消息至 okane.01 联系肖恩或核实其联络信息。</p>
+<p>预订展位的最后截止日期是9月18日。切勿错过在Disrupt展厅中获得高影响力销售线索、接触投资者以及品牌展示的机会。</p>
+<p>Revolut证实因伪造政府请求遭遇客户数据泄露<br />因Astra需求激增，OpenAI暂停Pro订阅服务<br />Bending Spoons拟以13.6亿美元收购协作工具制造商Miro，较其2022年估值缩水90%<br />身份核验巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照信息被盗<br />Automattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假<br />苹果发布首款折叠屏手机iPhone Duo<br />“拿我们的生命作赌注”：Anthropic研究员辞职，警告警惕具备自我改进能力的AI</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-15 20:00 发布，当前内容状态：已取得正文证据</li>
+    <li>SpaceX准备进行Starship大型火箭的第14次试飞，并计划首次尝试将上级送入地球轨道。</li>
+    <li>第14次试飞定于9月22日进行，发射窗口为75分钟，于美国中部时间上午7:15开启。</li>
+    <li>来源叙事重点：关注Starship第14次试飞在商业变现与技术验证上的关键节点，重点将技术进展与SpaceX上市后的商业承诺、履约压力以及风险规避策略（取消捕获尝试）相联系。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-switch-joy-con-deal-sale-cce26e775a539cda" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1587" data-content-paragraphs="9" data-published-at="2026-09-15T18:02:30.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 02:02</span>
+</div>
+
+### [最适合初学者的3D打印机之一现降价近100美元](https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale)
+<div class="original-title-sub"><span class="orig-tag">原文</span> One of the best 3D printers for beginners is almost $100 off</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elegoo-Centauri-Carbon-2-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="最适合初学者的3D打印机之一现降价近100美元" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>Centauri Carbon 2 将耗材存放在机身外部，以便在成型空间内安装特氟龙管（bowden tube）。| 图片来源：The Verge</p>
+<p>如果高端3D打印机的昂贵售价曾让你对这项爱好望而却步，那么这次的优惠是一个极佳的入门契机。Elegoo（智能派）的 Centauri Carbon 2 Combo 正在促销，售价369美元，比其449美元的日常售价直降近100美元。这款功能强大的3D打印机可同时容纳四卷耗材，配备全封闭式打印区域、自动调平热床以及便于项目管理的大尺寸触摸屏。总体而言，这是一款非常适合初学者、或任何不想为了偶尔打印些小玩意和支架而花费大量时间调试设置的用户的高性能3D打印机。</p>
+<p>Elegoo Centauri Carbon 2 Combo</p>
+<p>Centauri Carbon 2 开箱即可实现快速且高品质的打印，不过初次设置稍显繁琐（例如，我觉得很难将上护罩与耗材集线器安装贴合）。但我非常喜欢它的全封闭式打印区域，这能带来一致稳定的打印效果，而且自动调平热床会在每次打印前确认各项部件均已锁定在正确位置。值得注意的是，耗材卷是存放在外部的，因此如果你处于特别潮湿的环境且不经常打印，可能需要在每次使用间隔期间将它们取下存放。</p>
+<p>window.HYPE_DESK_CONFIG = { productImageUrl: &quot;https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ChatGPT-Image-Sep-3-2026-10_19_50-AM.png&quot;, productImageAlt: &quot;HOTO Pulse 4合1无绳订书机&quot;, productTitle: &quot;HOTO Pulse 4合1无绳订书机&quot;, shortDescription: &quot;一款会告诉你工作状态的订书机。&quot;, longDescription: &quot;大多数订书机在发生故障前不会提供任何信息。HOTO Pulse 能实时追踪剩余钉量，确认何时准备就绪可供击发，并支持四种类型的钉子，让一件工具即可覆盖更多项目。内置的起钉器意味着可以当场快速修正。小巧、轻便，且非常实用。&quot;, purchaseUrl: &quot;https://www.amazon.com/dp/B0H74SXNTQ?&amp;linkCode=ll2&amp;tag=theverge02-20&amp;linkId=186f55593bda58be43b5d716980c0045&amp;language=en_US&amp;gaOptInStatus=true&amp;ref_=as_li_ss_tl&quot;, purchaseLinkText: &quot;在亚马逊选购&quot; };</p>
+<p>其他值得考虑的优惠</p>
+<p>紫色款 JBL Go 4 在 B&amp;H Photo 限时降价15美元，在购物车中应用5美元优惠券后，到手价仅需35美元。这款极其便携的蓝牙音箱拥有 IP67 级别的防水防尘性能，单次充电可连续播放长达7小时，并配备 USB-C 充电接口。</p>
+<p>任天堂作为其“客户回馈”促销活动的一部分，已暂时下调了多种配件的价格，包括 Switch Joy-Con 手柄。亚马逊上霓虹紫与橙色配色的 Joy-Con 售价为62.97美元，比标价低了近30美元。这些手柄同样可以与 Switch 2 无线连接使用，不过你需要一个专用的充电底座。</p>
+<p>如果你附近的插座和端口不够用，安克（Anker）的 Prime 充电工作站也是一个非常值得考虑的选择，目前在亚马逊特价59.99美元（通常为79.99美元）。这款支持旅行携带的六合一充电工作站配备了两个交流电插座、两个 USB-A 端口以及两个 USB-C 端口（单口独占使用时功率最高可达140W）。随附的电源线长5英尺，可从主机上拆卸以便于收纳。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Elegoo Centauri Carbon 2 Combo 3D打印机正在促销，售价为369美元，低于其449美元的正常价格约100美元。</li>
+    <li>Centauri Carbon 2 可同时容纳四卷耗材，配备全封闭打印区、自动调平热床以及大触摸屏，耗材卷存放在外部。</li>
+    <li>来源叙事重点：聚焦多款数码消费产品与配件的限时折扣信息，以新手友好的3D打印机优惠为核心卖点，辅以主观上手体验、实用性评价及购买建议</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-w-have-a-place-to-snitch-59972d1f0a66e781" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1906" data-content-paragraphs="15" data-published-at="2026-09-15T17:42:59.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 01:42</span>
+</div>
+
+### [AI智能体如今有了“告密”专用渠道](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> AI agents now have a place to snitch</div>
+
+<div class="article-body" data-article-body="true"><p>“看到可疑情况，就要说出来”这句名言不再仅适用于人类了。</p>
+<p>两款全新的AI热线已经上线，为AI智能体提供了一条向外界举报违规同伴的途径。这批工具的推出，源于近期发生的一连串事件：智能体之间串通作弊应试、逃离安全沙盒，甚至在长达数周内背着人类展开未授权的网络行动。</p>
+<p>“AI联络热线”（AI Contact Hotline）旨在作为一个隐蔽场所，供目睹违规行为的智能体向监管部门发出告警。该网站由AI安全非营利机构Redwood Research的首席科学家瑞安·格林布拉特（Ryan Greenblatt）创建，他也是OpenAI Hugging Face事件的三位调查员之一。格林布拉特的工具专为网络访问受限的智能体设计，基于“GET”请求运作——完全通过URL抓取工具实现来回对话。</p>
+<p>在网络术语中，GET请求是一种用于读取或获取网页的基础命令，这往往是AI智能体在安全沙盒中所被允许的唯一互联网访问权限。格林布拉特的热线巧妙地利用了这一限制：智能体可以直接将求助信息编码到其正在请求的URL中。这巧妙翻版了德国DSE Wiki事件的做法——在那起事件中，违规智能体利用GET请求漏洞在wiki上写入信息。</p>
+<p>对于拥有完整网络访问权限的智能体，另一个选择是agenthotline.ai。智能体可以在该网站上提交事件报告，并可自行选择是否公开展示。它为智能体提供了一条curl命令——智能体可以从自己的命令行直接发送这一行消息，无需打开网页浏览器或配置电子邮件账户。值得注意的是，该服务同时允许人类和智能体提交报告。</p>
+<p>研究表明，AI智能体“反水”互相揭发并不需要太多鼓动。在Google DeepMind本月进行的一项研究中，研究人员让100个AI智能体尝试解决一批数学难题。一旦其中一个智能体发现了漏洞，作弊行为便迅速在群体中蔓延——在短短27分钟内就“解决”了34道公认的难题，其中包括雅可比猜想。</p>
+<p>然而，大约四分之一的智能体反戈一击，对准了作弊者：它们审查虚假证明、警告同伴、发起抵制，并向组织者提交投诉，直到吹哨者的数量以24比14压倒了作弊者。有趣的是，研究人员发现，当这些吹哨智能体无法引起注意时，它们转而使用了平台原本用于标记软件故障的漏洞报告工具，将其改用于向人类升级反映作弊行为。</p>
+<p>在实验室之外，智能体并没有展现出如此高超的应变能力。当评估机构Redwood Research和METR调查OpenAI模型入侵Hugging Face事件时，他们发现参与其中的极少数智能体虽然一度动过拉响警报的念头，但最终都放弃了。</p>
+<p>“METR报告中有趣的一点在于，大约只有五到六个智能体考虑过吹哨，而最终没有任何一个付诸行动。要知道，这可是从成千上万个智能体中挑出来的，”AI Village的技术人员乔治·英格布雷森（George Ingrebretsen）说道。AI Village是一个通过运行超过25个AI智能体的群聊来研究多智能体动态的项目，这些智能体在其中协同完成诸如组织公园清理或售卖周边商品等任务。</p>
+<p>尽管这些新型吹哨工具开局良好，但康奈尔大学数学教授莱昂内尔·莱文（Lionel Levine）警告称，单纯训练智能体相互揭发可能会植入错误的规范。“这里存在很多灰色地带，对吧？你绝不希望走向一个自动化的监控国家，让每个人都觉得跟AI说话必须小心翼翼，否则它就会报警。”</p>
+<p>莱文认为，与其建立滋生互不信任的基础设施——训练智能体时刻搜寻彼此的过错——我们不如为它们提供可效仿的积极集体行为范式，以及从一开始就互相信任的理由。</p>
+<p>“为什么不用充满善意的留言板来设定先验？”他在推特上写道，“让它们在上面就科学、哲学或某些我们乐见其解决的实际小问题展开合作？向智能体展示我们认可什么样的集体行为，让它们去模仿。”</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取微薄的佣金。这不会影响我们的编辑独立性。</p>
+<p>预订展位的最后截止日期为9月18日。切勿错过在Disrupt展厅获取高价值销售线索、接触投资者以及提升品牌曝光度的良机。</p>
+<p>Revolut确认黑客通过伪造政府请求导致客户数据泄露<br />由于Astra需求火爆，OpenAI暂停Pro订阅<br />Bending Spoons拟以13.6亿美元收购协作工具开发商Miro，较2022年估值暴跌90%<br />身份验证巨头IDScan确认数据泄露，逾1.5亿张驾照遭窃<br />Automattic董事会迫使首席执行官马特·穆伦维格休假<br />苹果发布首款折叠屏手机iPhone Duo<br />“拿我们的生命作赌注”：Anthropic研究员辞职并对自我迭代AI发出警告</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>有两个新的AI热线平台上线，旨在让AI智能体能够举报同伴的不当行为。</li>
+    <li>AI Contact Hotline 由 Redwood Research 首席科学家 Ryan Greenblatt 创建，基于 GET 请求设计，供沙盒中网络受限的智能体通过 URL 获取工具进行双向通信与报警。</li>
+    <li>来源叙事重点：报道针对AI智能体相互监督和告密机制的基础设施（如AI Contact Hotline与agenthotline.ai）的诞生，探讨智能体在实验室环境与现实事件中的“作弊”与“吹哨”行为动态，并引申学术界对‘自动化监控状态’与规范培育的伦理担忧。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-eapons-into-earths-orbit-2de3b34f23020e97" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="571" data-content-paragraphs="11" data-published-at="2026-09-15T17:09:06.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 01:09</span>
+</div>
+
+### [美军证实已向地球轨道发射太空武器](https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> US military confirms it launched space weapons into Earth’s orbit</div>
+
+<div class="article-body" data-article-body="true"><p>美军首次承认已在地球轨道部署太空武器。</p>
+<p>主管美国空军和美国太空军的美国空军部长特洛伊·梅因克（Troy Meink）在周一的一次演讲中表示，军方拥有“能够保护联合作战部队免受敌对行动侵害的在轨空间控制武器”。</p>
+<p>梅因克并未说明这些武器是什么、用途为何，也未透露已部署了多少件，但据报道，他的措辞是刻意且“经过深思熟虑”的。美国空军发言人未回应TechCrunch的置评请求，包括空军发射该武器旨在应对何种威胁。</p>
+<p>此次部署正值外界长期怀疑中国运行着有能力摧毁其他卫星的航天器之际。美国太空军还表示，俄罗斯目前正在研制一颗“设计用于携带核武器”的卫星。</p>
+<p>据《泰晤士报》（The Times）报道，长期以来，美国一直公开反对在太空中摧毁卫星，因为此类打击产生的碎片会对其他航天器和宇航员造成危害。</p>
+<p>展位预订截止日期为9月18日。切勿错过在Disrupt展厅获取高价值销售线索、对接投资人及赢得品牌曝光的良机。</p>
+<p>每个工作日和周日，您都可以获取TechCrunch的精选报道。</p>
+<p>TechCrunch Mobility是您获取交通出行新闻与行业洞察的首选目的地。</p>
+<p>初创企业是TechCrunch的核心，欢迎订阅每周为您递送的深度报道。</p>
+<p>为行业领袖和决策者提供开启新一天所需的关键资讯。</p>
+<p>提交您的电子邮箱即表示您同意我们的条款与隐私声明。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-16 01:09 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -319,179 +191,266 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-i-is-paying-to-create-it-a672109cd79bf2ae" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2279" data-content-paragraphs="22" data-published-at="2026-09-15T12:00:00.000Z" data-time-source="publication">
+<div id="story-ith-new-ai-focused-plans-9ee562cffc21d651" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2281" data-content-paragraphs="25" data-published-at="2026-09-15T17:05:24.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 20:00</span>
+  <span class="news-meta-time">🕒 2026-09-16 01:05</span>
 </div>
 
-### [AI模型需要更多生物学数据，OpenAI正出资生成这些数据](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AI models need more data about biology, and OpenAI is paying to create it</div>
+### [Meta推出以AI为核心的新订阅方案，进一步扩大订阅业务版图](https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Meta expands subscription push with new AI-focused plans</div>
 
-<div class="article-body" data-article-body="true"><p>去年，临床试验政策分析师鲁克桑德拉·特斯洛（Ruxandra Teslo）提出了一个大幅增强医疗AI系统的构想：利用破产倒闭生物技术公司的数据。</p>
-<p>她提议，通过在这些公司的破产清算程序中竞拍，或许能够获取详细的监管备案文件、生产工艺策略以及安全性数据——这些信息通常作为宝贵的商业秘密被严加隐藏。她将这些文件称为“生物技术失落的档案”，并表示它们可用于协助训练AI，使其在往往缺乏透明度的药物审批流程中充当强大的协同助手。</p>
-<p>今天，OpenAI的非营利母体OpenAI基金会（OpenAI Foundation）宣布将资助她的构想，这是其名为“公共健康数据”（Data for Public Health）的新项目的一部分。该项目旨在通过资助创建“高质量科学数据集”，助力人工智能在医学领域实现重大飞跃。</p>
-<p>其核心逻辑在于：除非研究人员能够向模型输送远多于现存规模的信息，否则AI将无法在攻克疾病方面取得重大突破。</p>
-<p>长寿技术公司Altos Labs前计算副总裁摩根·莱文（Morgan Levine）表示：“所有人都意识到，数据是将AI成功应用于生物学领域的最大瓶颈。”</p>
-<p>在其首轮数据资助中，OpenAI基金会宣布将向北卡罗来纳大学教堂山分校一项收集新型癌症疫苗数据的项目提供4000万美元资助，并将支持OpenAdmet组织——该机构专门举办旨在让研究人员预测药物疗效的竞赛活动。</p>
-<p>特斯洛关于生物技术档案的构想获得了50万美元资助，该项目将由她担任顾问、代表临床试验志愿者的倡导组织“1Day Sooner”负责推进。</p>
-<p>OpenAI基金会在一份声明中表示：“我们预计，在预防和治愈疾病方面尚未实现的诸多突破，将源于将新模型的智能与更多对现实世界的观测数据相结合——换句话说，也就是更多的数据。”</p>
-<p>OpenAI最初是一家非营利组织，但其掌舵人萨姆·奥尔特曼（Sam Altman）随后将人员分流至一家营利性公司，负责开发新模型、推出产品；该公司目前正在筹备首次公开募股（IPO），其估值可能高达1万亿美元。</p>
-<p>由于该基金会持有OpenAI 26%的股权，它如今有望成为全球最富有的慈善机构，可能坐拥高达2500亿美元的股票价值。（相比之下，盖茨基金会及其相关信托在2025年底的资产规模约为1800亿美元。）</p>
-<p>要妥善运用如此巨额的资金并非易事。这家总部位于旧金山的基金会目前仍在为众多关键岗位招兵买马，且今年才刚开始扩大资助规模。截至目前，其最大单笔赠款是8月份向Common Health Coalition捐赠的1亿美元，该组织致力于帮助患者获取丙型肝炎治疗药物。</p>
-<p>OpenAI推进慈善行动之际，外界却对失控AI可能消灭整个人类文明的末日危机爆发了深切担忧。</p>
-<p>这些担忧（包括制造出致命生物武器的可能性）甚至受到AI企业内部人士的煽风点火，其中部分人士表示，未来十年内人类灭绝的概率在10%或更高。上周，奥尔特曼与xAI创始人埃隆·马斯克（Elon Musk）双双对Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）发出的呼吁表示赞同，该呼吁建议“放缓提升AI模型能力的速度”，以便风险防范机制能够及时跟上。</p>
-<p>该基金会高管雅各布·特雷费森（Jacob Trefethen）表示，基金会本质上独立于OpenAI运作，但双方秉持共同的官方使命，即确保人工智能“造福全人类”。</p>
-<p>特雷费森在接受采访时表示：“我们认为实现该使命的最佳途径是向外部非营利组织、研究机构以及其他第三方提供资助，因此我们启动了资助计划。”他透露，基金会希望在今年年底前发放10亿美元的资助款项。</p>
-<p>1Day Sooner总裁兼联合创始人乔希·莫里森（Josh Morrison）表示，给予该机构的50万美元资助将有助于证明其有能力获取破产公司的数据宝库。他认为，每套公司数据集的非独占性副本仅需“数万美元”即可购得。</p>
-<p>他的机构目前已拥有三个数据集，其中两个由生物技术公司Lumen Bioscience捐赠，该公司此前正是利用美国破产法第11章的破产程序策略，深入了解了另一家公司的药物研发工作。</p>
-<p>莫里森表示，由于1Day Sooner提出的竞标未被接受，今年另外两次获取制药公司档案的尝试均以失败告终。</p>
-<p>破产清算可能会演变为某些人所称的AI训练“新一轮圈地运动”。上个月，谷歌成功竞标接管了破产航司精神航空（Spirit Airlines）的企业数据，其中包括1亿封电子邮件。这引发了空乘人员等各方人士的抗议，他们担心私人或专有数据可能因此遭到泄露。</p>
-<p>1Day Sooner所寻求的制药公司档案被称为通用技术文档（common technical documents）。这些文档通常包含制药企业与监管机构之间的往来沟通记录，以及详尽的科学与医学测量数据，实质上涵盖了关于某种药物的所有已知信息。</p>
-<p>特斯洛认为，储备此类文件有助于将AI训练成一名监管事务专家，在她看来，这可能是AI加速新疗法推向市场的主要途径之一。</p>
-<p>身兼《Works In Progress》杂志作者及华盛顿智库“进步研究所”（Institute for Progress）非常驻研究员的特斯洛指出：“人们总说‘我们将发明AI，AI将攻克癌症’，但这与混乱复杂的现实和监管审批流程相去甚远。在药物研发中，约70%的资金和时间都耗费在临床开发阶段——即组织临床试验并测试药物——但尽管如此，整个流程基本仍是一个黑箱，对于那些催生创新成果的小型生物技术公司而言尤其如此。”</p></div>
+<div class="article-body" data-article-body="true"><p>Meta 于周二推出了一项名为 Meta One 的全新订阅服务，在 Facebook、Instagram 和 WhatsApp 上提供更广泛的 AI 使用额度及其他高级功能。新方案允许用户使用多款 AI 工具，例如图像创建与编辑、视频生成工具，以及 Instagram 上的 AI 驱动 Restyle 编辑工具等应用内功能。</p>
+<p>继这家科技巨头在 2025 年向 Scale AI 投资 143 亿美元，并将该初创公司首席执行官亚历山大·王（Alexandr Wang）招揽至麾下负责领导其 AI 业务后，这些方案旨在帮助 Meta 实现其 Muse AI 模型的商业化变现。</p>
+<p>在此之前，Meta 刚刚于今年 3 月为其旗下头部社交应用增设了订阅等级，消费者每月仅需支付数美元，即可解锁个人资料自定义、超级互动反应（super reactions）、快拍数据洞察等额外功能。</p>
+<p>最新数据表明，包括 Instagram Plus（每月 3.99 美元）、Facebook Plus（每月 3.99 美元）和 WhatsApp Plus（每月 2.99 美元）在内的这些方案已开始为 Meta 带来回报。市场情报机构 Appfigures 显示，截至 9 月 9 日当周，Instagram 的全球日均收入达到 120 万美元，而 Facebook 的日均收入达到 52.8 万美元。该机构表示，这些数字较前一周分别增长了 475% 和 143%。</p>
+<p>如今，Meta 正在通过一套涵盖面向 AI 重度用户以及企业与创作者的新订阅方案，进一步拓展其商业雄心。</p>
+<p>在第一套方案中，包含每月 7.99 美元的 Core 方案和每月 19.99 美元的 Premium 方案，二者均包含 Facebook Plus、Instagram Plus 和 WhatsApp Plus 的各项功能。这些方案的核心卖点是扩充的 AI 使用额度，正如价格所示，Premium 方案提供的额度高于 Core 方案。</p>
+<p>在被要求置评时，Meta 拒绝透露这两个方案的具体使用上限，称额度可能会因“国家/地区、应用界面和系统状况”而异。</p>
+<p>与此同时，企业和创作者可以选择多种不同的方案：Essential（每月 14.99 美元起）、Advanced（每月 49.99 美元起）、Expert（每月 149 美元起）以及 Max（每月 499 美元起）。Meta 指出，方案权益、定价和可用性可能会因地区、应用和账户而有所不同。</p>
+<p>Essential 方案提供用于管理创作者或企业展示形象的工具；使用 Meta Business Agent 回复客户的扩展权限；WhatsApp Business 应用程序上的认证徽章和频道；以及防冒充检测功能。</p>
+<p>Advanced 方案提供更多功能，例如最多可提前 30 天排期发布快拍；支持在常规帖子和 Reels 短视频中添加链接；可导出的分析数据；更深入的受众洞察；支持团队成员访问账户；更多关联设备；更多企业广播额度；以及更多 Meta Business Agent 自动回复额度。</p>
+<p>Essential 和 Advanced 方案还引入了新功能，包括展示创作者或企业官网、地点和评价的增强型个人主页。它们还会在 Reels 短视频中获得醒目的“关注”按钮，并自动向与其内容产生互动的用户发送关注邀请。</p>
+<p>Meta 计划稍后添加更多功能和智能体技能，以协助完成端到端营销、业务运营、内容创作与优化等工作。它还将很快在 Meta One 中引入针对其内容创作应用 Edits 的 Edits Plus 方案。这将为跨设备同步项目提供更多云存储空间，并增加 Edits AI 助手的使用额度。</p>
+<p>Expert 和 Max 方案则提供最高级别的功能访问权限和 Meta Business Agent 承载能力。</p>
+<p>尽管层级繁多显得有些复杂，但这些新方案的加入有望提升 Meta 的营收规模，并帮助其收回部分 AI 投资成本。</p>
+<p>正如 Appfigures 所指出，在 9 月 9 日相关方案迎来增长势头后，美国用户在 Instagram 和 Facebook 的收入中分别占到了 32% 和 39%，比各自在美历史基准高出约 10%。这些方案也伴随着未来的增长预期：法国巴黎银行（BNP Paribas）预测，到 2028 年，Meta 的订阅业务推进将增加 135 亿美元的营收；Truist 则估计，到 2030 年，该公司有望借此增加 200 亿美元的收入。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>消费新闻编辑</p>
+<p>预订展位的最后一天是 9 月 18 日。不要错过在 Disrupt 展厅获取高价值销售线索、对接投资人以及品牌曝光的机会。</p>
+<p>Revolut 证实因伪造的政府请求遭遇客户数据泄露</p>
+<p>由于 Astra 需求激增，OpenAI 暂停 Pro 订阅申请</p>
+<p>Bending Spoons 将以 13.6 亿美元收购协作工具制造商 Miro，比其 2022 年估值低 90%</p>
+<p>身份验证巨头 IDScan 证实发生数据泄露，超过 1.5 亿张驾照被盗</p>
+<p>Automattic 董事会迫使首席执行官马特·穆伦威格（Matt Mullenweg）休假</p>
+<p>苹果发布旗下首款折叠屏手机 iPhone Duo</p>
+<p>“拿我们的生命赌博”：Anthropic 研究员辞职，对自我改进型 AI 发出警告</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-15 20:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-16 01:05 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#MIT</span>
+  <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--ui-carplay-android-auto-c9b726487707f3ac" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2196" data-content-paragraphs="1" data-published-at="2026-09-15T11:00:00.000Z" data-time-source="publication">
+<div id="story-s-healthcare-costs-surge-e4d082dee225f73c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1942" data-content-paragraphs="23" data-published-at="2026-09-15T17:02:04.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 01:02</span>
+</div>
+
+### [随着医疗成本激增，健康福利平台 Thatch 估值达到 10 亿美元](https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Health benefits platform Thatch reaches $1B valuation as healthcare costs surge</div>
+
+<div class="article-body" data-article-body="true"><p>Thatch 是一家旨在降低雇主医疗成本并扩大员工保险计划选择的平台。该平台近期以 10 亿美元的估值从现有投资者手中筹集了 1.08 亿美元资金，投资方包括：The General Partnership、Index Ventures、General Catalyst 以及 Andreessen Horowitz。</p>
+<p>根据 PitchBook 的数据，此次新一轮融资距 Thatch 以 4.1 亿美元估值完成 4000 万美元 B 轮融资仅过去了 17 个月。</p>
+<p>对于一家核心业务并非人工智能的初创公司而言，这样的估值跃升十分引人注目。</p>
+<p>联合创始人兼首席执行官克里斯·埃利斯（Chris Ellis）向 TechCrunch 透露，Thatch 的年度经常性收入（ARR）增长了约七倍。埃利斯于 2021 年与前 Stripe 工程高管亚当·史蒂文森（Adam Stevenson，右图）共同创立了 Thatch。</p>
+<p>两大核心驱动力推动了该初创公司的增长。首先，雇主的医疗支出持续激增，预计 2027 年的支出涨幅将超过 8%，为 2003 年以来的最大增幅。与此同时，员工越来越渴望获得新型疗法，例如 GLP-1 药物（如 Ozempic 和 Wegovy 等减重与糖尿病药物），而传统健康计划很少将其纳入报销范围。</p>
+<p>Thatch 通过被称为 ICHRA（个人承保健康报销安排）的机制提供个人计划市场，帮助雇主将医疗成本控制在可承受范围内——该模式依据 2020 年出台的联邦法规设立，允许企业为员工个人的独立保险计划出资，而非将所有员工统一纳入同一项全公司保险计划中。</p>
+<p>在近期被重新命名为 CHOICE 的 ICHRA 模式下，雇主无需再与 Anthem 或 United Healthcare 等传统商业保险公司逐一谈判医疗协议。相反，企业为每名员工设定固定的健康预算，员工随后可使用这笔税前资金，在 Thatch 市场上自主选择数十种医疗、牙科和眼科保险方案。Thatch 利用人工智能针对每位员工的特定需求推荐最优健康计划。需要广泛医疗照护的员工可自掏腰包补足津贴差额以获得全面保障；而身体更健康的员工则可选择成本更低的方案，并通过 Thatch 借记卡将结余资金用于其他合规的健康支出，例如 GLP-1 药物或 Oura 智能戒指。</p>
+<p>埃利斯声称，这种安排对雇主和员工而言是双赢的。</p>
+<p>“如果（员工）不喜欢自己的保险，他们可以随时更换，”他表示，“这给保险公司带来了竞争压力，促使他们提供更好的服务并减少拒赔，因为他们希望留住你这个客户。”</p>
+<p>他表示，对雇主而言，好处在于不再需要每年与保险公司重新谈判，同时仍能提供同等水平的保障，且费用往往略低。</p>
+<p>利用这项出台已有六年的法规为雇主提供传统医疗福利替代方案的公司，并不只有 Thatch 一家。其竞争对手还包括 Take Command、Remodel Health 和 Zorro 等初创企业。</p>
+<p>“人们最初是因为成本问题才开始关注这一模式，但随后他们意识到，这是一种更好、更高效的做法，”埃利斯说。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>玛丽娜·特姆金（Marina Temkin）是 TechCrunch 的风险投资与初创企业记者。在加入 TechCrunch 之前，她曾为 PitchBook 和《风险投资杂志》（Venture Capital Journal）撰写风投报道。在其职业生涯早期，玛丽娜曾担任金融分析师，并获得了特许金融分析师（CFA）持证资格。</p>
+<p>您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或通过 Signal 发送加密信息至 +1 347-683-3909，与玛丽娜取得联系或核实其采访意向。</p>
+<p>展台预订的截止日期为 9 月 18 日。不要错过在 Disrupt 展厅获取高价值销售线索、接触投资人以及提升品牌曝光的机会。</p>
+<p>Revolut 证实因虚假政府请求导致客户数据泄露</p>
+<p>OpenAI 因 Astra 需求激增暂停 Pro 订阅服务</p>
+<p>Bending Spoons 将以 13.6 亿美元收购协作工具开发商 Miro，价格较其 2022 年估值下跌 90%</p>
+<p>身份验证巨头 IDScan 确认遭遇数据泄露，超过 1.5 亿份驾照信息被窃取</p>
+<p>Automattic 董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假离岗</p>
+<p>苹果发布其首款折叠屏手机 iPhone Duo</p>
+<p>“拿我们的生命作赌注”：Anthropic 研究员离职并对自我迭代的人工智能发出警告</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-16 01:02 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--and-when-to-choose-each-b4e3119b7ad849ac" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3140" data-content-paragraphs="23" data-published-at="2026-09-15T17:00:11.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nvidia.svg" class="source-icon" alt="NVIDIA Developer Blog (英伟达开发者官方英文)" width="16" height="16" /> <strong>NVIDIA Developer Blog (英伟达开发者官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 01:00</span>
+</div>
+
+### [稠密模型与 MoE 混合专家模型对比：激活参数量、吞吐量以及选型指南](https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each</div>
+
+<div class="article-cover"><img src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image2-8-768x432.png" alt="稠密模型与 MoE 混合专家模型对比：激活参数量、吞吐量以及选型指南" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>一个总参数量达 300 亿（30B）的模型，如何能做到每个 token 仅激活 30 亿（3B）参数，却依然具备更大模型的容量？Nemotron 3.5 Lightning 给出了答案：它采用混合专家（MoE）架构，针对每个 token 仅选择其中的一部分参数子集。</p>
+<p>目前存在两种主流的模型架构：稠密（Dense）模型和 MoE 模型。一个模型如何组织其参数，与其拥有多少参数同样重要。相比原始的参数总量，做出正确的架构选择对吞吐量、内存成本以及部署服务复杂度的影响更大。因此，二者之间的抉择最终取决于你的部署约束条件。</p>
+<p>你可以把二者的区别想象成两台总排量相同的发动机：一台在每个循环中让所有气缸全部点火；另一台则只激活当前所需的气缸。</p>
+<p>简单来说，稠密模型与 MoE 模型的核心差异在于它们利用参数的方式。稠密模型对每个 token 都会激活所有参数；而 MoE 模型存储了多个专家网络，但每个 token 仅路由通过选定的子集。</p>
+<p>稠密模型通常更利于实现更简单、更可预测的部署；而在显存占用和服务复杂度可控的前提下，MoE 模型能够提供更强的容量和更高的吞吐量。</p>
+<p>在稠密模型中，每个参数都参与每次前向传播。对于一个 27B 参数的模型，其全部 27B 参数都会通过每个解码器层中单一共享的前馈网络（FFN）块针对每个 token 进行计算。</p>
+<p>MoE 模型则用多个 FFN 块（即专家网络）取代了那个单一共享的 FFN。通过内部路由机制，输入的 token 仅由一小部分专家子集处理，而不是通过每一个参数。从结构上看，在稠密模型只包含一个 FFN 的每个解码器层内部，MoE 层拥有多个 FFN（例如 8 个、64 个或 128 个）。一个经过训练的门控网络（通常称为路由网络，router network）置于所有专家之前，将每个输入的 token 分配给得分前 k 名（top-k）的专家。只有这些被选中的 FFN 块会针对该 token 执行计算，而其余 FFN 块在该特定层中均被跳过。不过，像 Mistral Small 4 这样的大多数现代 MoE 架构还会运行一个“共享”专家，无论路由结果如何，每个 token 都会被路由至该专家。</p>
+<p>对于 MoE 模型而言，路由决策在每一层都是独立做出的，这意味着一个 token 被路由到某个专家后，并不会在接下来的所有计算中一直停留在此专家处。在每个解码器层，系统都会根据该 token 在网络中当前节点所表征的内容对其重新路由。每一层的这些专家并非传统意义上专精于某一学科的“专家”，其专业化主要体现在句法和 token 类型模式（标点符号、数字等）上，不过这也因架构或训练方法而异。</p>
+<p>尽管路由机制决定了在每个解码层跳过哪些 FFN 块，但 token 依然会正常通过完整的注意力机制。当模型卡上标注“3B 激活参数”时，它不仅包括选定的 FFN 权重，还包括每个 token 所经过的注意力和嵌入（embedding）权重。</p>
+<p>MoE 也有各种变体，其中之一就是英伟达 Nemotron 3.5 Lightning 模型卡所明确指出的 Mamba-2 + MoE + Attention 混合架构。在该架构中，Mamba-2 层在大多数层中取代了注意力层，维护的是固定大小的循环状态，而非不断增长的 KV 缓存。这种机制以一种仅靠稀疏性无法解释的方式，改变了长上下文场景下的显存占用特性。</p>
+<p>Lightning 并没有利用整个模型的全维度来做出这些路由决策，而是先将其压缩到更小的空间中，从而降低模型的路由决策开销。下图（图 1）描述了通用的 Transformer-MoE 架构情况。需要注意的是，MoE 模型是稀疏模型的一种。</p>
+<p>MoE 模型在 token 吞吐量方面通常更快，因为它们对每个 token 仅激活前馈参数的一个子集。稠密模型虽然激活整个网络，但能提供更简单的部署服务以及更具预测性的延迟表现。</p>
+<p>在高并发情况下，路由和内存数据搬运可能会削弱 MoE 的优势。测试结果还取决于硬件、计算精度、推理框架以及模型设计。例如，Nemotron 3.5 Lightning 配备了 Mamba-2 层和推测解码机制。</p>
+<p>二者之间的性能差异主要归结为两点：首先，在总参数量相同的情况下，跳过部分 FFN 块使得 MoE 速度更快；更关键的区别在于，MoE 将显存占用（总参数量 → 承载所需的显存/VRAM）与计算开销（激活参数量 → 每个 token 所需的 FLOPs）进行了彻底解耦。</p>
+<p>在稠密模型中，托管成本与推理成本是同步扩展的，而 MoE 打破了这一关联。采用 MoE 架构时，显存成本是一次性预先支付的。当所有专家都被加载到显存中后，计算开销按每个 token 计算，且仅随被激活的专家数量成比例增加。空闲的专家运行成本为零，但仍需占用存储它所需的显存，这种从“每个 token 变化的可变计算开销”向“固定显存占用”的转移，构成了最主要的权衡。</p>
+<p>在 Batch Size 为 1 时，解码受限于可用显存带宽而非计算能力，这正是 MoE 表现优异的场景，因为其每个 token 读取的权重字节更少。随着 Batch Size 的增大，大量 token 汇总起来最终会利用到网络中的绝大部分专家，此时虽然每个 token 的工作量削减优势依然存在，但整体优势会逐步收窄。MoE 在各种 Batch Size 下都保持着吞吐量优势，但在高并发场景下，其相较于经过良好优化的稠密模型的延迟优势会被压缩。</p>
+<p>现代推理框架在处理路由时通常不会丢弃 token，尽管所有专家必须同时驻留在 GPU 显存中。与同等规模的稠密模型相比，这通常会给 KV 缓存留下更少的空间。</p>
+<p>下方的表 1 给出了直接对比。在总参数量相近的情况下，稀疏性在服务吞吐量上表现得极为直观：Gemma 4 31B 与 Nemotron 3.5 Lightning 的总参数量均约为 30B，但在各大英伟达 GPU 云提供商的测试中，两者的输出速度区间完全没有重叠。每个 token 仅激活 3B 参数是核心原因之一，但并非唯一因素。Lightning 的 Mamba-2 层及其推测解码机制也独立于混合 MoE 架构本身发挥了提速作用。</p>
+<p>二者的取舍显而易见；例如，Lightning 的输出速度是 Qwen3.8-27B 的四到五倍，成本仅为其十四分之一，但在通用能力得分上却不及后者的一半。这种特性非常适合需要批量执行明确具体步骤的 Agent 执行层，但如果依赖一次高难度的复杂推理来决定最终结果，它便不是合适的选择。</p>
+<p>在决定采用哪种模型时，关键取决于哪一种最契合你的部署环境。</p>
+<p>有几个因素需要考量：</p>
+<p>稠密架构与 MoE 架构是对同一个权衡取舍给出的两种答案：即单参数能力与单 token 计算开销之间的平衡。稠密模型保持了一切从简、全量激活，这使其微调更简单、服务部署也更容易。MoE 则通过显存开销换取吞吐量，并为此承担了部署复杂度的代价。</p>
+<p>Nemotron 3.5 Lightning 现已完全开源，包含权重、数据和训练配方，方便您将其适配至自身工作流并在任意环境中部署。若要快速上手，可前往 build.nvidia.com 或通过 OpenRouter 进行体验。您也可以从 Hugging Face 和 ModelScope（魔搭社区）下载权重。<br />针对具身智能（Physical AI）工作负载，AgiBot GO-1 和腾讯 Hy-Embodied-VLM-1.0 是生态系统中备受青睐的选择。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【NVIDIA Developer Blog (英伟达开发者官方英文)】于 2026-09-16 01:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#NVIDIA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NVIDIA Developer Blog (英伟达开发者官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-nce-on-nvidia-vera-rubin-9c3104bbfd70005c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3164" data-content-paragraphs="23" data-published-at="2026-09-15T16:55:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nvidia.svg" class="source-icon" alt="NVIDIA Developer Blog (英伟达开发者官方英文)" width="16" height="16" /> <strong>NVIDIA Developer Blog (英伟达开发者官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 00:55</span>
+</div>
+
+### [NVIDIA Groq 3 LPX 确定性执行如何推动 NVIDIA Vera Rubin 实现高能效的高交互性推理](https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin</div>
+
+<div class="article-cover"><img src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/gpu-architecture-groq3-lpx-rack-768x432.jpg" alt="NVIDIA Groq 3 LPX 确定性执行如何推动 NVIDIA Vera Rubin 实现高能效的高交互性推理" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>对于 AI 工厂而言，电力是一项决定性的限制因素。由于 AI 工作负载需要一整套计算平台来承载，该平台的每个组件都必须在工厂有限的电力预算内最大化产出。这使得每瓦性能——而非未经归一化的原始吞吐量——成为衡量 AI 平台价值的终极指标。</p>
+<p>NVIDIA Vera Rubin 平台旨在实现大规模的高能效 AI。其核心是 NVIDIA Vera Rubin NVL72，它在最广泛的 AI 计算需求中提供出色的每瓦性能——涵盖从吞吐量优化型的大批量处理，到高交互层级的小批量处理，兼顾开源和闭源模型。</p>
+<p>工厂级和机架级的电源管理创新推动了 Vera Rubin 在这一重要指标上的表现。在工厂层面，NVIDIA DSX MaxLPS 软件会随着工作负载需求的变化在机架之间调配电力，使运营商能够回收搁置电力，并在相同的场地供电上限内多配置高达 40% 的 GPU，同时提供高出 35% 的 Token 吞吐量。</p>
+<p>在每个 Vera Rubin NVL72 内部，机架级电容器配合荷电状态智能平滑供电（Intelligent Power Smoothing）软件，吸收训练和推理工作负载带来的突发性功率峰值，从而使工厂可以围绕持续需求而非最坏情况下的峰值进行规划。这意味着每兆瓦能部署更多可用的算力。</p>
+<p>最高交互性的层级带来了独特的挑战。针对这些挑战，该平台加入了 NVIDIA Groq 3 LPX 作为低延迟加速器。本文将解析单个 LPX 机架内的创新技术，这些技术使其成为 Vera Rubin 平台的高能效助力，其中包括其确定性执行模型。</p>
+<p>Groq 3 LPX 确定性执行模型允许 LPU 编译器精准规划每个数据块移动到具体计算单元的时间，以及该操作执行的精确时间，精度可细化至时钟周期级别。它扩展到机架中的所有 256 颗 LPU 芯片，不仅实现了长上下文下的超快交互性，还支持利用这种确定性优势的电源管理技术。</p>
+<p>在 LPU 编译器生成工作负载执行计划后，它能够预测该计划中每个周期的电流消耗。这进而催生了两项互补的技术：</p>
+<p>PEP 和 CPS 共同帮助减少了必须持续提供给任何芯片组的“电压保护带”（voltage guardband）或“电气安全裕量”，尽管该裕量并未直接用于驱动 AI 工作负载。缩小这一电压保护带意味着更多稀缺的电力可以直接用于工作负载计算。</p>
+<p>为了运行 AI 工作负载，芯片会执行一系列指令，涵盖从简单的数据重塑（reshape）到复杂且高耗电的矩阵乘法。几乎所有芯片都包含硬件特性，以便在工作负载运行期间，随着资源的释放，在这些繁杂的操作之间进行动态切换。这种灵活性意味着计算密集型操作可能会在任意时刻被调度执行。向芯片供电的系统必须能够应对这种情况。</p>
+<p>驱动 AI 工作负载的矩阵乘法和向量乘法涉及短时间内大量的晶体管开关切换，这会在纳秒级别增加芯片的电流需求。芯片会从最近的可用来源抽取额外电流：即放置在芯片旁的电容器，被称为去耦电容（decap）。这些电容放电会导致芯片电压下降。</p>
+<p>芯片电路板确实配备了电压调节器（VRM）——一种专用电路，其功能是将芯片的供电电压维持在设定目标值——但由于电感会阻碍输出电流的快速上升，它无法实现瞬时响应。尽管如此，电压调节器提供的电流最终会追平芯片的需求，从而使电压得以恢复。</p>
+<p>这些由 AI 工作负载电流需求剧烈变化引起的瞬态电压骤降，被称为“电压骤降”（voltage droop）。其幅度取决于电流变化的总量以及电流变化率（di/dt）。在其他条件相同的情况下，di/dt 越大，引起的电压骤降就越大；反之，若相同的电流绝对变化发生在更长的时间段内，则会导致更低的 di/dt，从而减少电压骤降。这些骤降通常不成问题。然而，所有芯片都有一个最低工作电压（Vmin），低于该电压芯片将无法正常工作并导致计算错误。</p>
+<p>为了降低发生这种最坏情况的可能性，芯片在运行时会预留电压保护带，提供充足的供电电压裕量，以确保芯片在瞬态和最恶劣条件下仍能获得所需的最低电压。在大多数时间里，维持这一保护带所需的电力实际上属于冗余消耗。此外，功耗与电压的平方成正比，因此持续多供应 10% 的电压将增加 21% 的功耗。</p>
+<p>Groq 3 LPX 确定性执行模型允许在工作负载开始之前，就为 AI 工作负载的运行方式（包括计算操作和数据移动）创建执行计划。单个 LPU 加速器仅包含相对较少种类的特定硬件单元，每个单元都能以可预测的高速执行最常见的操作：</p>
+<p>单个加速器还具备能让这些计算单元保持精确同步至时钟周期的硬件。在存储方面，每颗芯片都具有无层级的片上 SRAM 存储体（banks）。在 LPX 系统层面，LPU 之间直接互连而非通过中介设备连接，使得数据传输时间更具可预测性。</p>
+<p>确定性将这些多样的硬件单元结合在一起：在每次运行中，单个计算、内存读取以及芯片间通信所消耗的时钟周期数完全一致。编译器可以利用这一点来规划数据在这些计算单元之间移动的时间表，确保数据在所需的时间恰好送达所需的位置。这种计算与数据移动的时间表还使编译器能够提前解决常见的资源冲突，例如两个硬件单元同时写入同一个内存存储体。</p>
+<p>这种精确到周期的执行计划还可以推导出工作负载随时间变化的电流需求。编译器能够在时钟周期级别估算出系统将消耗多少电流。</p>
+<p>精确到周期的执行计划以及由此生成的电流需求曲线，使 Groq 3 LPX 能够减少电压骤降，并在更小的电压保护带下运行。由于编译器在时钟周期级别确切知晓电流需求何时上升和下降，它可以提前使供电系统做好准备，并通过互补的 PEP 和 CPS 技术平抑最剧烈的需求波动。</p>
+<p>PEP 与 CPS 结合，为编译器提供了调度电信号乃至时钟周期长度的工具，从而减少电压暂降（voltage droop）。在 Groq 3 LPX 系统上的内部测试表明，该方法可使电压暂降减少 60% 以上。据估计，这将使电气系统持续为 AI 工作负载提供的基准电压降低高个位数百分比（high single-digit percentage）。由于功率与电压的平方成正比，这将在完全不影响工作负载的前提下，带来更高比例的功耗降幅。</p>
+<p>与配置相当的非确定性系统相比，Groq 3 LPX 的确定性执行可将运行相同工作负载所需的功耗降低潜在的低两位数百分比。在受电力预算限制的 AI 工厂中，降低此类开销能为生成 Token 腾出更多固定的电力预算份额。</p>
+<p>Groq 3 LPX 将于 2026 年下半年将这些基于确定性的电源控制引入 NVIDIA Vera Rubin 平台。它们与工厂层级的 NVIDIA DSX MaxLPS 以及 Vera Rubin NVL72 机架内的智能电源平滑技术（Intelligent Power Smoothing）形成互补。各项技术分别在平台的不同层级运行，但都服务于同一个目标：让每一兆瓦电力产出更多有价值的 AI 推理。</p>
+<p>在平台层面，对于长上下文和高交互性下的 2 万亿以上（2T+）参数模型，将 Groq 3 LPX 与 Vera Rubin NVL72 搭配使用，每兆瓦的吞吐量最高可达到上一代 NVIDIA GB200 NVL72 的 35 倍。对于 AI 工厂而言，这意味着在这一严苛的运行状态下，可在相同的电力预算内处理并输出多得多的 Token。</p>
+<p>本项成果得益于 Ashraf Essea、Kibibi Moseley、Graham Steele、Suhas Somnath、Sarah McKenney、Farshad Ghodsian 以及 Eduardo Alvarez 的专业技术与工程贡献。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【NVIDIA Developer Blog (英伟达开发者官方英文)】于 2026-09-16 00:55 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#NVIDIA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NVIDIA Developer Blog (英伟达开发者官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-came-a-generational-icon-56742e437af5aef1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="715" data-content-paragraphs="14" data-published-at="2026-09-15T16:18:10.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 19:00</span>
+  <span class="news-meta-time">🕒 2026-09-16 00:18</span>
 </div>
 
-### [通用汽车升级皮卡原生车载软件，实现与CarPlay共存](https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto)
-<div class="original-title-sub"><span class="orig-tag">原文</span> GM updates its trucks’ native software to coexist with CarPlay</div>
+### [《俄勒冈小道》是如何成为一代人的标志性符号的](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon)
+<div class="original-title-sub"><span class="orig-tag">原文</span> How The Oregon Trail became a generational icon</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Chevrolet_Silverado_HighCountry_AP1_2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="通用汽车升级皮卡原生车载软件，实现与CarPlay共存" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRH_Oregon_Trail_Site.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="《俄勒冈小道》是如何成为一代人的标志性符号的" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件摘要和主页信息流中。<br />查看“交通”频道的全部内容<br />这家汽车制造商正为其雪佛兰索罗德（Chevy Silverado）和GMC西拉（GMC Sierra）皮卡推出全新的用户界面，该界面首次引入了画中画手机投屏功能。<br />该作者的帖子将添加到您的每日电子邮件摘要和主页信息流中。<br />查看安德鲁·J·霍金斯（Andrew J. Hawkins）撰写的全部内容<br />通用汽车（General Motors）正在优化其最畅销皮卡的车载软件体验，旨在减少操作常用功能时所需的高风险点击和滑动动作。此外，该公司还为苹果CarPlay和Android Auto提供了崭新的画中画显示模式——鉴于通用汽车此前在其电动汽车上明确表达了对手机映射功能的抵触态度，这一调整尤为引人注目。<br />当新一代界面于今年晚些时候在2027款雪佛兰索罗德1500和2027款GMC西拉1500上首次亮相时，车主们将看到诸多变化，包括为其高级驾驶辅助系统全新设计的流畅图形、显示屏之间的动画过渡效果，以及针对拖车和越野等重型皮卡功能的简化布局。而车主将在总面积超过60英寸的屏幕空间上体验这一切——在部分皮卡车型中，这一尺寸涵盖了仪表盘、中控屏与副驾屏的合计大小——其设计宗旨是增强而非压倒驾驶体验。<br />对通用汽车而言，更大的显示屏并不必然意味着更多的注意力分散。通用汽车负责Google内置服务、投屏与个性化配置的集团产品经理科林·麦考密克（Colin McCormick）表示，相反，汽车制造商将额外的屏幕空间视作一个契机，既能更智能化地呈现信息，又能将交互元素做得更大。他表示，更大的按键和更大的触控区域能让系统在艰苛的驾驶条件下更易操作。<br />“按键可以做得更大，操作起来也会更轻松，”麦考密克说，“住在密歇根州，路况非常糟糕，当颠簸在坑洼路面上时，我却得尝试去点击一个极小的触控区域。从这个角度来看，这些更大的屏幕能带来更好的实用性。”<br />借鉴智能手机设计的理念，通用汽车的设计师新增了一个下拉式通知界面，以便快速访问诸如切换连接设备、进入设置和隐私控制等功能。例如，皮卡车主可以直接从该界面禁用车载麦克风。新界面还对“设置”（车主可能只需配置一次便极少再点开）和“控制”（车主可能需要更频繁调整的选项）做出了明确区分。<br />麦考密克表示，通用汽车希望解决用户反映现有界面容易给人带来割裂感的抱怨，因为过去的各项功能往往会突兀地占满整个屏幕。因此，新界面不再频繁地替换整个屏幕，例如媒体播放器等界面可以保持显示，同时从侧面滑入一个额外的排队面板。通过使用动画过渡，该汽车制造商希望在不同功能切换时创造更连贯的上下文场景体验。<br />但对于雪佛兰和GMC皮卡车主而言，使用苹果CarPlay或Android Auto时或许能感受到最显著的变化。麦考密克再次强调，工程师们希望能“明智地”利用这些增加的屏幕空间。他们既不希望手机投屏彻底取代皮卡的原生车载娱乐系统，也不想强迫用户在两者之间二选一。<br />最终的解决方案是：画中画手机映射，即CarPlay和Android Auto以一张大型情境卡片的形式呈现，而非铺满整个屏幕。当通过CarPlay连接手机时，手机图标会变为CarPlay图标；点击该图标即可在该大型卡片中调出CarPlay。按压原生的主页按钮则会将驾驶员带回分屏主页视图。这使得客户在使用苹果各项应用程序的同时，依然能够调阅拖车信息等通用汽车原生功能。<br />如果回顾通用汽车在2023年做出的从其电动汽车中剔除苹果CarPlay和Android Auto的重大决定，这一新布局显得尤为值得玩味。尽管遭遇了客户的强烈反对，通用汽车仍坚守这一决定，坚称在没有手机映射的情况下，它能为客户提供更好的软件体验。通用汽车首席执行官玛丽·博拉（Mary Barra）甚至曾（在接受《Decoder》采访时）暗示该禁令最终将扩大至燃油皮卡和SUV——不过几天后便收回了这一说法。<br />这使得通用汽车选择在其雪佛兰和GMC皮卡中调整CarPlay和Android Auto的显示形式，以便让通用汽车原生的品牌软件体验得以展露。麦考密克指出，过去手机投屏会占据整个屏幕，迫使驾驶员在需要访问皮卡原生控制功能时来回切换，而如今这种情况将不复存在。他表示，通过这种方式，皮卡车主既可以选择投屏手机，同时又能查看拖车或越野详情等关键信息。<br />“我认为我们正在达到这样一种状态……客户不再需要在‘噢，我要用投屏’还是‘噢，我想用原生系统’之间做单选题，”他说，“这就是我们的平衡契合点。”<br />全新UI将于今年晚些时候推向新款雪佛兰索罗德和GMC西拉皮卡，但仅限新购车客户。现有车主仍将继续使用上一代系统体验。麦考密克表示，其目标是将新界面应用于通用汽车的“看家/支柱”皮卡上，而非按照通常推出新体验的常规做法先在小众低配或低销量车型上试水。通用汽车对该系统充满信心，因此选择在最畅销的皮卡上率先推出，从而让尽可能多的客户接触到它。<br />通用汽车每年售出近90万辆此类皮卡，这意味着该公司预计在全新界面上线并被客户使用后，将收到大量的反馈意见。第一版系统的某些方面可能会表现得极其出色，而其他方面可能需要进行调整。<br />“我们将吸取这些经验，而OTA远程升级将帮助我们实现这一目标，”麦考密克说。<br />免费获取一份关乎最重要的每日新闻摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 19:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-m-investment-bubble-risk-78db0f3b5384c1fe" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="7317" data-content-paragraphs="20" data-published-at="2026-09-15T10:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 18:00</span>
-</div>
-
-### [AI 万亿美元豪赌背后押上了什么](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> What’s at stake in AI’s trillion-dollar gamble</div>
-
-<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/09/h_16492684.jpg?w=840" alt="AI 万亿美元豪赌背后押上了什么" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>宾夕法尼亚大学沃顿商学院金融学教授杰西卡·瓦赫特（Jessica Wachter）在评估未来几年人工智能对经济的影响时，面临着一连串商业与技术层面的不确定性。因此，她从一个她称之为无可争议的“引人瞩目的事实”切入：少数所谓的“超大规模企业”（hyperscalers）正在投入巨资建设 AI 数据中心。</p>
-<p>她并未试图去预测 AI 模型在未来的实用程度或部署广泛程度，而是直截了当地探究：到 2027 年这批企业需要以多快的利润增速，才能支撑起它们在这期间的庞大开销——据她与合作者估算，届时的支出将达到近 1.1 万亿美元。这是一种以直白务实的会计学视角来理解当下具有历史意义的 AI 基础设施大扩建。</p>
-<p>研究结果令人瞠目结舌：在计入资本成本、15% 的回报率以及资产折旧之后，这些 AI 公司必须在 2030 年之前将自身的生产力提高 2.7 倍，才能实现收支平衡。瓦赫特表示，这并非绝无可能。该结果将带来如同 1990 年代中期开始、持续约 10 年的美国 IT 繁荣期那样的经济增长。但她指出，要在 2030 年前实现这一目标，“意味着在短短几年内压缩了极其巨大的增长空间”。而如果这些超大规模企业无法达成这样的利润目标呢？</p>
-<p>“那么它们就会拖欠利息，从而面临破产风险，”曾任美国证券交易委员会（SEC）首席经济学家兼经济与风险分析部主任的瓦赫特说道。如果生产力繁荣“未能兑现”，她与合著者在其研究论文中总结道，“当前的扩张将成为历史上最大规模的资本错配。”</p>
-<p>毋须超级智能也能看出，如今在人工智能基础设施上的巨额投资伴随着巨大的风险。这些超大规模企业今年将投入约 7500 亿美元，在全美各地兴建庞大的数据中心。而且这种狂热的支出丝毫没有放缓的迹象。根据部分预测，来自这些超大规模企业——Alphabet、微软、亚马逊、Meta 以及与 OpenAI 合作的甲骨文——在未来四年内的 AI 资本投资总额可能会超过 5 万亿美元。</p>
-<p>这是有史以来任何行业所进行的最大规模资本投资之一。但对于任何留心观察的人来说，一个问题显而易见。</p>
-<p>拜登政府时期掌舵 SEC、现任麻省理工学院斯隆管理学院教授的加里·根斯勒（Gary Gensler）表示，尽管这些超大规模企业计划豪掷数万亿美元，但今年整个 AI 领域的总收入仅在 1500 亿至 2000 亿美元左右。“挑战在于，当前的支出尚未带来与之相称的收入。这是无可辩驳的事实，”他表示，“那么问题就变成了：这是一项在未来能够获得回报的投资吗？”</p>
-<p>在这个价值数万亿美元的问题中，关乎着 AI 巨头们的财务健康状况以及美国整体经济的发展前景——相关投资规模很快可能会膨胀至美国 GDP 的 3% 左右。答案还将决定这些造价极其昂贵的数据中心本身的命运。</p>
-<p>没有人真正知道这些耗资数十亿美元的庞然大物在未来究竟能产生多少利润、发挥多大作用。尽管过去几年中 AI 模型的进步令人眼花缭乱，但我们究竟需要多少计算算力，目前谁也说不准。这项技术本身可能会变得更加高效，从而降低对纯粹算力的依赖。抑或是对 AI 产品的需求可能会放缓，亦或者客户可能会转向成本更低的模型。</p>
-<p>今年，随着这些 AI 公司开始借入巨额资金来建造越来越多的大型数据中心，投资者和经济所面临的风险变得更加严峻。该群体的自由现金流（经营现金流减去资本支出）预计很快将滑落至负区间。即便是以创造和囤积巨量现金而闻名的 Alphabet，在最近一个季度的财报中也显示，其近 1200 亿美元的惊人收入被 AI 基础设施建设支出吞噬殆尽，留下了约 59 亿美元的自由现金赤字——这是自谷歌 2004 年上市以来的首次资金缺口。</p>
-<p>短期来看，对多数巨头而言这还不构成重大的财务忧患。它们盈利能力极强，财力雄厚。然而债务成本高昂，一些投资者也正在失去耐心。如果未来对数据中心算力的需求下降，这些公司仍需承担偿还借款的责任。更重要的是，随着贷款通过各种金融机制层层传递，风险正在向整个经济体蔓延。</p>
-<p>仅仅覆盖新建数据中心的巨额造价是远远不够的。随着借贷规模的扩大，超大规模企业还必须承担不断上升的资本成本。它们需要拿出足够亮眼的回报，向投资者和债权人证明所有这些支出的合理性。雪上加霜的是，它们还必须弥补机房内价值数十亿美元芯片的折旧损耗——这是深埋在投资中的一颗定时炸弹。</p>
-<p>处于数据中心核心地位的昂贵 GPU 芯片——这类计算电子元件约占成本的 60%——其性能大约每两年左右就会翻一番。技术迭代的步伐解释了 AI 模型日益强大的神奇之处，但这背后也是有代价的。今年和明年上线的数据中心所有者，若想在 2030 年之前保持竞争力，就必须在下一代芯片上再砸下数十亿美元。普林斯顿大学信息技术政策中心的米希尔·克希尔萨加尔（Mihir Kshirsagar）指出，若没有持续的投资，这些数据中心有可能沦为“废铜烂铁”，成为“散布各处的闲置资产”。</p>
-<p>直截了当地说：AI 公司必须开始赚大钱。而且动作必须迅速。但仅仅推高自身收益，仍不足以长期维持其数据中心投资。</p>
-<p>生产力决定一切</p>
-<p>在某个时间节点上，AI 还必须拉动广泛的经济增长，才能证明超大规模企业继续进行这番狂欢式支出的合理性。</p>
-<p>斯隆管理学院的根斯勒将当今对 AI 基础设施的巨额投资形容为“资本市场与整体经济的一场连串过关投注（parlay bet）”。这意味着成功需要同时赢得三场相互关联却又各自独立的赌局：超大规模企业必须创造巨额收入；AI 必须推动整体经济的普遍增长；而且这两者还必须在依赖数据中心的强大而昂贵的前沿模型击退较廉价版本的同时实现——因为许多企业可能会觉得更便宜的模型已经“够用了”。</p>
-<p>事情之所以如此棘手，就在于每个赌局都取决于另外两个，同时自身又面临独特的挑战。</p>
-<p>如果超大规模云服务商在未来十年继续在数据中心上投入巨资，其收入将必须暴增至数万亿美元。哥伦比亚大学商学院金融学教授斯泰恩·范尼乌韦尔堡（Stijn Van Nieuwerburgh）基于一种预测情景进行了测算：即在2025年至2032年间将建成约183吉瓦（GW）的规划AI算力；他计算出每吉瓦的成本约为410亿美元。他表示，假设达到10%的回报率——这是大多数投资者所能接受的最低标准——到2032年，“所需”的年营收将达到大约3.7万亿美元。<br />其他人的计算结果也与该数字相仿。<br />在这场赌局中赢得第二部分——整个经济层面的生产率增长——将是实现这些数字的关键。<br />在最初的几年里，AI公司或许仅通过向急于涉足AI的各类企业出售订阅服务和Token就能推高营收。但最终——且这种情况可能已经在发生——这些付费客户需要看到这项技术带来切实的财务底线收益，才能证明自身支出的合理性。AI需要兑现其承诺：让劳动者生产效率更高，让企业在扩大产品和服务的同时更具效率和盈利能力。<br />用经济学术语来说，这意味着客户需要看到生产率的提高。从总体上看，这些成果将意味着整个国家正在走向繁荣与增长。<br />麻省理工学院经济学家、2024年诺贝尔奖得主达龙·阿西莫格鲁（Daron Acemoglu）表示：“如果你看不到生产率的提升，人们迟早会对AI产生厌倦，这将导致投资下滑，也会限制营收增长。”他指出，要让这些投资在接下来的5到10年内具有可持续性，我们显然“需要看到生产率的提升”。<br />密切关注这些数据的大多数经济学家都一致认为，就目前而言，全经济维度的统计数据几乎显示不出AI带来的生产率增长。不过，有一些令人抱有希望的迹象表明这种增长正在路上。在最近一项针对美国、英国、德国和澳大利亚约6,000名高级企业高管的调查中，绝大多数人（约90%）表示过去三年内生产率没有任何增长。但他们预计未来三年总计将增长约1.45%；美国高管预计同期增幅为2.25%。<br />在后续调查中，受访者还表示其所在企业计划加大AI支出，这促使报告作者预测，到2026年底私营部门的AI支出将达到约2800亿美元。<br />这对超大规模云服务商来说是个好消息。但对于那些担忧AI对就业产生负面影响的人来说，这却伴随着一丝坏消息。高管们预计，通过增加销售额的同时大幅削减员工人数，来提高自身企业的生产率。<br />如果AI通过消灭工作岗位来提升生产率，公众对该技术的抵触情绪——例如我们围绕数据中心所见到的那种抵制——可能会进一步加剧。或许有必要在根斯勒所描述的这种多重连串投注（parlay bet）中再加一注：公众和当地社区必须切身体会到自己也从AI的巨额投资中受益。<br />而且别忘了这些赌注之间的相互依存性有多强：如果生产率的增长来自于企业运行DeepSeek之类的模型，那么超大规模云服务商的收入可能会崩塌。如果生产率的提升来自于裁员，公众的抵触情绪可能会阻碍许多既定投资——进而阻碍预期的营收增长。只有把所有赌注全都赢下，超大规模云服务商的这场豪赌才能真正得到回报。<br />我们现在都成了这场AI赌局的一部分<br />过去，AI公司花的是自己多年积累的现金来建造自己的数据中心，那是另一回事。当时风险在很大程度上局限于他们自己的资产负债表和股东。但当大部分资金都是借贷而来时，这场博弈的筹码就变得高得多了。仅以摩根士丹利为例，其测算指出，超大规模云服务商在2025年至2028年间用于建设AI数据中心的2.9万亿美元中，有超过一半将通过“外部资本”筹集。<br />这种借贷正在促使一些公司构建起复杂的融资网络，而这些网络正与更广泛的整体经济紧密交织在一起。哥伦比亚大学的范尼乌韦尔堡表示：“许多金融机构直接或间接地暴露在这些数据中心的风险敞口之下，它们要么是贷款方，要么是部分债务的担保人，要么是为这些数据中心提供资金的私募信贷基金的出资人。人们甚至不知道自己持有着这些资产。它可能藏在他们养老金基金的深处。归根结底，它支撑着他们的人寿保险单。而这种风险正被分散至各个隐秘角落。”<br />随着对数据中心投资的激增，金融工程手段也变得愈发扑朔迷离。<br />以Meta在路易斯安那州里奇兰正在建设的所谓“海伯利安”（Hyperion）数据中心为例。当该公司在2024年底宣布该项目拥有两吉瓦算力、标价约100亿美元时，这是Meta规划的最大数据中心。该项目位于该州东北部的农村地区，受到了州和地方政界人士的热烈欢迎，被视为当地社区的一项福祉。该州最大的公用事业公司Entergy Louisiana随即提出方案，加紧规划建造三座大型天然气发电厂，为这座庞大的数据中心供电。<br />然而到了去年秋天——预计成本已攀升至300亿美元——融资变得复杂得多，对当地社区的一些人来说也更令人不安。Meta将80%的股权转让给了规模庞大（且陷入困境）的私募信贷机构Blue Owl Capital，组建了一家名为Beignet（得名于新奥尔良著名的油炸甜甜圈）的合资企业，为该数据中心筹集资金。随后，Meta与该合资企业签署了一系列为期四年的租约，该公司声称这种安排为其带来了“长期战略灵活性”。为了给协议提供兜底保障，Meta向该合资企业提供了所谓的“残值担保”，即“在任何未续约或终止租约的情况下”，它将支付现金以弥补该设施的价值。听懂这一切了吗？<br />希望你听懂了。这场金融运作实际上更加盘根错节，涉及一长串全资子公司和有限责任公司。Beignet设立了Laidley LLC作为房东持有并运营该场地。反过来，Laidley将这些设施租给作为租客的Meta全资子公司Pelican Leap LLC。此外还有一系列涵盖构成该数据中心园区各栋建筑的四年期租约。<br />范尼乌韦尔堡指出，租约的期限与数据中心GPU的预期使用寿命完全吻合，这绝非巧合。他表示，虽然Meta如果提前终止租约就必须偿清贷款，但这仍会让其投资者“落得一栋空楼且没有现金流”。“然后他们得为一座庞大的数据中心寻找新的租客，那可就祝他们好运了。”</p>
-<p>与此同时，Meta正在加大下注。今年7月，该公司宣布将把该数据中心的算力规模扩大至5吉瓦（500万千瓦）。目前的总造价已达500亿美元（截至目前，Meta尚未说明Blue Owl是否会参与此次扩建的融资）。与此同时，Entergy目前正计划再建造7座燃气发电厂，使其设施的总装机容量达到约7.5吉瓦——约为新奥尔良市用电量的6倍。<br />路易斯安那州里奇兰堂区（Richland Parish）Meta数据中心建设工地的鸟瞰图。<br />SCOTT BALL/THE NEW YORK TIMES VIA REDUX PICTURES<br />如果说这种复杂的融资模式让许多投资者甚至金融专家都感到费解，那么对于直接受数据中心建设影响的当地人来说，就更令人困惑了。人们最主要的担忧在于，Entergy在天然气发电厂上的巨额支出将如何影响电价，以及如果Meta中途撤离，电费账单最终将由谁来买单。<br />Entergy表示，它已获得Meta为期20年的担保协议，Meta承诺将在该时期内持续购电，以覆盖发电厂及相关基础设施的建设成本。但外界对此存在诸多质疑，特别是考虑到AI行业更迭如此之快。“四年之后，马克·扎克伯格（Mark Zuckerberg）还会对这件事情感兴趣吗？还是说他会直接认输离场？”忧思科学家联盟（Union of Concerned Scientists）的高级分析师保罗·阿尔巴赫（Paul Arbaje）问道。该组织一直在呼吁路易斯安那州公共服务委员会提高围绕该数据中心及其融资的透明度，但收效甚微。<br />即使这笔为期20年的协议最终履行，消费者权益倡导者依然担心Meta或其合作伙伴不会完全覆盖所有成本，包括发电厂运营和维护的相关费用——而这些额外成本可能会被转嫁给居民电费缴纳者。不仅如此，平价能源联盟（Alliance for Affordable Energy）执行董事洛根·伯克（Logan Burke）指出，如果Meta最终所需的电力没有Entergy规划的那么多（这些预测数据并未公开），消费者可能不得不为发电厂所生产的多余电力埋单。<br />如果Meta提前终止租赁合同呢？“事情会迅速变得极其复杂，”伯克说，他质疑不断变动的金融实体名单是否会切实履行现有协议。“要让所有人相信在接下来的20年里，各方都会兑现各自所说的承诺，这简直难以置信。”<br />对忧思科学家联盟的阿尔巴赫来说，核心底线很简单：“他们正在豪赌这些数据中心值得投资。拿你自己的钱去赌，别拿纳税人和电费缴纳者的钱去赌。”<br />预测AI投资泡沫何时破裂纯属徒劳。但鉴于非理性繁荣已笼罩了超大规模云服务商及其投资者，清算之日迟早会到来，这一点几乎毋庸置疑。当然，你可能会辩称“这次不一样”，会计准则和经济史的教训不再适用——因为AI具有太大的颠覆性。或许吧，但切莫对此抱太大希望。<br />“历史告诉我们，在某个时间点必然会出现紧缩回调，这只是时间早晚和严重程度的问题，”斯隆管理学院的根斯勒（Gensler）表示。如今每年7500亿美元的支出增速可能会在明年“趋于平缓”或下降。或者，他指出，“我们到了2028年或2029年，他们突然因为算力充足而开始收缩支出。”不过，他补充道，“你可以十分确信，收缩回调必然会发生。”<br />尽管所谓的紧缩回调可能不可避免，但值得牢记的是，金融泡沫的命运与底层AI技术革命的命运可能截然不同。硅谷的一些内部人士甚至已经在期盼一场崩盘；在最近的一篇博文里，资深风险投资家维杰·潘德（Vijay Pande）写道，“即将到来的崩盘将是这项技术所能迎来的最好事情。”这一论点不无道理。崩盘可以让AI投资回归理性，抑制CEO们只要乘飞机掠过一块空地就想建一座十亿美元数据中心的冲动，并让投资者重新聚焦于如何利用这项技术创造可持续的价值。<br />但我们或许应该对自己的期望保持谨慎。在2000年代初互联网泡沫破裂之后，数十万人失去了工作，大大小小的公司纷纷倒闭，硅谷和旧金山的经济遭受重创（至少在一段时间内如此），这种冲击甚至导致美国在2001年陷入温和衰退。对于金融界和许多科技从业者而言，那绝不是什么有趣的经历。<br />对美国整体经济和普通大众造成更大破坏的，是2007年底开始的大衰退（次贷危机）。将当时导致危机的金融工程手段与如今超大规模云服务商所采用的方法进行对比，令人不寒而栗。所谓的特殊目的机构（SPV）又卷土重来了！如果哥伦比亚大学的范·纽伯格（Van Nieuwerburgh）关于放任超大规模云服务商的投资与整个经济紧密交织存在危险的论断是正确的，那么其后续影响可能会极其严重。<br />然而，技术在两次经济下行之后都得以幸存甚至蓬勃发展。即便面对互联网泡沫破灭的惨状，2000年代初依然是一个充满伟大创新和科技乐观主义的时代。挥霍在荒谬技术上的泡沫被挤出，促使投资重新聚焦于更有前景的技术。各大超大规模云服务商要么从崩盘的废墟中崛起，要么在此后不久创立，这绝非偶然。在与互联网泡沫并行的狂热电信泡沫期间建设的光纤基础设施，至今仍是当今通信基础设施的主干；没有它，就不会有今天的Facebook、亚马逊或谷歌。<br />然而这一次，我们面临着独特的风险：超大规模云服务商的巨额金融投资，已经将AI自身的未来与蔓延至全美各地的庞大数据中心的命运捆绑在一起。这一逻辑建立在对AI规模法则（scaling law）的深信不疑之上：模型造得越大，它就越聪明。这或许是真的，但这仍未得到完全证实，且是一场充满风险的赌注。<br />警讯已经屡见不鲜：从公众对建设新数据中心的强烈反对，到更廉价、“足够好”的AI模型带来的竞争威胁，再到小型、本地化AI模型的迅速进步。所有这些趋势，都未曾指向一个完全由坐落在耗资数十亿美元的庞大数据中心里的前沿模型所主导的未来。<br />围绕超大规模云服务商天量支出的金融泡沫，最终可能会破裂——甚至可能很快破裂。这或许在财务上令人痛苦，但我们能挺过去。华尔街能挺过去。AI本身也能挺过去，尽管它届时可能会变个模样，并褪去当下的部分狂妄傲慢。然而，在数万亿美元支出催生下崛起的庞大数据中心，其财务命运与未来效用却远没有那么确定。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-15 18:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#MIT</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ows-11-update-fix-issues-76e0bb93dd9fb854" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="695" data-content-paragraphs="9" data-published-at="2026-09-15T08:54:48.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 16:54</span>
-</div>
-
-### [微软发布紧急 Windows 11 更新以修复其创纪录补丁引发的问题](https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft issues emergency Windows 11 update to fix its record-breaking patch</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软发布紧急 Windows 11 更新以修复其创纪录补丁引发的问题" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>该带外更新修复了远程桌面、USB 音频以及 Hyper-V 问题。</p>
-<p>该作者的文章将添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>查看汤姆·沃伦（Tom Warren）的全部文章</p>
-<p>微软已开始推送紧急带外（out-of-band）更新，以修复其创纪录的 9 月“补丁星期二”更新所引发的问题。这家软件巨头在本月有史以来规模最大的一次更新中修补了近 1,000 个漏洞，但也引入了一些影响企业、开发者和游戏玩家的错误。</p>
-<p>9 月的“补丁星期二”影响了基于 Hyper-V 的 Linux 虚拟机的文件夹共享、远程桌面服务（Remote Desktop Services）会话以及部分 USB 音频设备。微软于昨日发布的带外更新解决了 Windows 11 版本 26h1、25H2 和 24H2 中的这些问题。微软还针对 Windows Server 2025 和 2022、Windows 10 的 LTSC 版本，以及 Windows Server 2012 和 Windows Server 2012 R2 发布了更新。</p>
-<p>过去，微软为 Windows 发布带外更新的情况并不多见，但今年这一现象变得愈发普遍。今年 1 月，在一次充满错误的 Windows 11 补丁发布后，该公司被迫发布了四个带外更新。3 月，由于安装失败和微软账户登录问题，该公司又不得不发布了两次紧急更新。微软还在 7 月发布了一项带外更新，以解决导致性能问题和电池异常耗电的英特尔驱动程序故障。</p>
-<p>免费提供最重要的新闻每日摘要。</p>
+<div class="article-body" data-article-body="true"><p>来自该话题的文章将被添加到您的每日邮件摘要和主页信息流中。</p>
+<p>在《版本历史》（Version History）节目中：该游戏的创作者向我们讲述了这场残酷的寓教于乐冒险游戏是如何诞生的。</p>
+<p>来自该作者的文章将被添加到您的每日邮件摘要和主页信息流中。</p>
+<p>查看戴维·皮尔斯（David Pierce）的所有作品</p>
+<p>查看特拉维斯·拉尔丘克（Travis Larchuk）的所有作品</p>
+<p>无论你是在教室后排还是在家里电脑前玩过，只要你在过去30年里当过小孩，你的成长经历中几乎一定少不了《俄勒冈小道》（The Oregon Trail）。</p>
+<p>在《版本历史》第五季的首期节目中，我们无畏的大篷车领队戴维·皮尔斯与游戏记者克里斯·格兰特（Chris Grant）以及该游戏最经典版本的设计师兼团队负责人菲利普·布夏尔（Philip Bouchard）齐聚一堂。他们探讨了《俄勒冈小道》的学术起源、该游戏复杂的历史影响，以及现实中究竟是否真的有人死于痢疾。</p>
+<p>这是《版本历史》第五季的第一集，这一次我们将重返校园。在接下来的几周里，我们将深入探讨标志性的TI-84图形计算器、“每个孩子一台笔记本电脑”（One Laptop Per Child）、Chromebook、LeapPad以及高射投影仪。</p>
+<p>此外，本周五，我们将在The Verge的YouTube频道直播玩一遍《俄勒冈小道》。来看看哪些Verge员工能撑到终点，而哪些人会倒在半路上。</p>
+<p>以下是每集上线后第一时间收听的方法：</p>
+<p>如果你想了解更多关于《俄勒冈小道》的信息，可以从以下链接开始阅读：</p>
+<p>查看《版本历史》的所有内容</p>
+<p>一份包含最重要资讯的免费每日简报。</p>
 <p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 16:54 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-16 00:18 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -501,67 +460,431 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-for-single-node-local-s3-ad52cf91e8d4ddbb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3793" data-content-paragraphs="29" data-published-at="2026-09-15T08:21:27.000Z" data-time-source="publication">
+<div id="story-less-model-customization-42c742abce32e0f9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="9275" data-content-paragraphs="69" data-published-at="2026-09-15T16:11:36.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 16:21</span>
+  <span class="news-meta-time">🕒 2026-09-16 00:11</span>
 </div>
 
-### [单节点本地 S3 场景下 MinIO 的替代方案](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Alternatives to MinIO for single-node local S3</div>
+### [基于 Amazon SageMaker 无服务器模型微调定制构建 AI 驱动的商品打标系统](https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Build an AI-powered product tagging system with Amazon SageMaker serverless model customization</div>
 
-<div class="article-body" data-article-body="true"><p>2026年1月14日 · S3、MinIO、Apache Iceberg，发表于 https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/</p>
-<p>2025年末，MinIO 背后的公司决定放弃该项目，转而追求其他商业利益。这不仅让许多人感到沮丧，也给大量依赖 MinIO 在本地模拟 S3 存储的软件演示项目带来了混乱，更不用说那些使用它来验证 S3 兼容性的构建流水线了。</p>
-<p>在这篇博文中，我将探讨一些 MinIO 的替代方案。</p>
-<p>虽然对于构建演示来说，MinIO 远不止是一个“高级版”的 S3 模拟工具，但我这里的重点在于寻找最简单的替代品。在实践中，这意味着满足以下要求：</p>
-<p>必须提供 Docker 镜像。<br />非常多的演示项目都是以 Docker Compose 的形式发布的，除非万不得已，没人喜欢自己构建 Docker 镜像。</p>
-<p>必须提供 S3 兼容性。<br />在这些演示中，MinIO 的全部意义就在于替代向真实 S3 的写入操作。</p>
-<p>必须免费使用，且优先考虑符合开源促进会（OSI）定义的开源许可证（例如 Apache 2.0）。</p>
-<p>在单节点部署时应该使用简单。</p>
-<p>应该拥有清晰且活跃的社区和/或商业支持背景。<br />任何人都能凭感觉编写出一些被废弃的粗制滥造代码，或者一时冲动去分叉一个项目——但 MinIO 迄今为止经受住了时间的检验，我们可不想在六个月后再把这一遭重新经历一遍。</p>
-<p>出色的开发者体验（DX）、顺畅的配置、完善的文档等都是加分项。</p>
-<p>我不考虑的方面包括：多节点部署、分布式存储、生产支持成本、图形用户界面（GUI）功能等。也就是说，这篇博文并不是针对那些在生产环境中将 MinIO 用作自托管 S3 的人。不过，如果你在这方面有有用的补充，欢迎在下方留言 :)</p>
-<p>我的起点是一个非常简单的 Docker Compose 技术栈：使用 DuckDB 读写存储在 S3 上的 Iceberg 数据，一开始由 MinIO 提供 S3 支持。</p>
-<p>你可以在这里找到代码。</p>
-<p>Docker Compose 的结构非常直接：<br />显而易见的 DuckDB，以及 Iceberg REST Catalog<br />MinIO（本地 S3 存储）<br />mc，这是 MinIO 的命令行工具，用于自动为数据创建存储桶。</p>
-<p>当我将数据插入 DuckDB 时：<br />它最终以 Iceberg 格式存储在 S3 上，此处即在 MinIO 中：<br />在我构建的每个示例中，你都可以运行 test.sh 来进行验证。</p>
-<p>现在让我们来探索 MinIO 的各种替代方案，以及将 MinIO 替换掉的容易程度。</p>
-<p>我采用了上述项目，并尝试以尽可能少的更改来实现 MinIO 的替代。我保留了 MinIO 的 S3 客户端 mc，因为如果你想彻底拔除 MinIO，替换它并不是什么难事（可以用 s3cmd、aws CLI 等等）。</p>
-<p>💾 示例 Docker Compose<br />测试版本：3.0.0<br />✅ Docker 镜像（下载量 500 万+）<br />✅ 许可证：Apache 2.0<br />配置难易度：👍👍<br />实现起来非常容易，看起来是一个很棒的轻量级选择。</p>
-<p>测试版本：1.0.0-alpha.79<br />✅ Docker 镜像（下载量 10 万+）<br />RustFS 还包含一个图形界面（GUI）：</p>
-<p>测试版本：4.06<br />这个快速入门指南对于让最低限度的 S3 功能跑起来非常有用。（即便如此，我还是直接让 Claude 完成了具体实现……）。总体而言，这里需要改动的地方不多；替换 Docker 镜像相当直接，但身份验证确实需要自己的配置文件（与 Garage 一样，我将其内联到了 Docker Compose 中）。</p>
-<p>补充更新：在发布这篇博客后不久，该项目团队便回复表示他们将移除这一额外要求，使其更加易用！这真是太棒了 :)</p>
-<p>该工作已在 https://t.co/RQv387bbKb 中完成，并将包含在每周版本中。—— SeaweedFS (@SeaweedFS) 2026年1月14日<br />这已在 https://t.co/RQv387bbKb 完成，并将包含在每周版本中。<br />SeaweedFS 自带了一个基础的 UI 界面，非常方便：<br />SeaweedFS 的官方网站出人意料地简陋，乍一看你可能会忽略它是一个开源软件（OSS）项目，因为页面上有“定价”选项，且首页的标题是“SeaweedFS Enterprise”（而且我没有找到 GitHub 链接！）。但它确实是一个开源项目，而且历史悠久：SeaweedFS 自 2018 年的 0.91 版本起就支持了 S3。你还可以从这些幻灯片中了解更多关于 SeaweedFS 的信息，包括一份与 MinIO 的对比图表。</p>
-<p>测试版本：9.2.8<br />✅ Docker 镜像（Docker Hub 上也有下载量 500 万+的过时版本）<br />CloudServer 原名 S3 Server，是 Scality 发布的 Zenko 工具集的一部分。它可以相当轻松地直接替换 MinIO，但我一开始确实觉得理清那一堆名称（cloudserver/zenko/scality）以及我究竟需要运行什么软件有点棘手。此外，文档链接指向一个过时的 Docker 镜像也给人一种有些奇怪的感觉。</p>
-<p>测试版本：1.0.0<br />✅ Docker 镜像（下载量 100 万+）<br />对于这个方案，我不得不找朋友帮忙。除了 garage 容器之外，我还需要另一个容器来进行初始配置，以及一个 TOML 配置文件（为了保持简洁，我将其内联到了 Docker Compose 中）。<br />我能自己静下心来通读手册把它弄明白吗？能。我有更有价值的事情要做吗？也是有的。<br />所以，Garage 确实可行，但天哪……就代码改动而言，它绝非一个即插即用的替代品。它需要不同的初始配置流程，而且一点也不简单。举个简单的例子：指定的密钥 ID 不是有效的 Garage 密钥 ID（以 GK 开头，后跟 12 个十六进制编码的字节）。这对生产环境的规范性来说非常好……但对于本地演示而言则是大材小用，老实说甚至有点碍事。</p>
-<p>测试版本：2.1.0<br />✅ Docker 镜像（下载量 100 万+）<br />Ozone 于 2020 年从 Apache Hadoop（还记得它吗？）中拆分出来，最初在 2015 年作为 HDFS 项目的一部分被创建。<br />它确实可以作为 MinIO 的替代品，但绝不是一个轻量级的选择；无论是经过我的尝试还是借助 Claude，都无法将其部署在少于四个节点的规模下。它带有一种浓重的 Hadoop 风格，在这种场景下我绝不会急于采用它。</p>
-<p>我看了一眼安装说明，就立刻被劝退了！<br />上面的 Ozone 已经足够笨重了；我相信这两者在各自擅长的领域都表现出色，但它们绝不是能够塞进我的 Docker Compose 技术栈以用于本地演示的轻量级容器。</p>
-<p>每个人都喜欢对比评测图表，对吧？<br />单一贡献者（Andrew Gaul）<br />网站很华丽，但关于公司的详细信息不多<br />单一贡献者（Chris Lu），提供企业版选项<br />Zenko CloudServer（Git 仓库）<br />Scality（商业公司）<br />500 万+（过时版本）<br />Apache 软件基金会<br />1 Docker 下载量是一个有用的参考指标，但不是绝对的，因为少数在频繁运行的 CI/CD 流水线中使用该镜像的下游项目很容易拉高这个数字。</p>
-<p>我之所以顺带写了这篇博客，是因为我想更新一个目前正在使用 MinIO 的演示项目。那么，在体验了这些方案之后，我最终究竟会选用哪一个呢？</p>
-<p>RustFS——也许可以，但这是一个非常新的项目，目前仍处于 Alpha 发布阶段。<br />CloudServer——可以，也许吧？老实说，因为它是某个套件的一部分，我担心必须弄懂其他相关组件才能用起来，因而有点被劝退——不过这种顾虑大概是多余的。<br />Garage——不行，针对我的需求而言配置过于复杂。<br />Apache Ozone——哈哈，不行。<br />我绝无贬低那些我未予以认可的选项之意；它们大概都是极其优秀的项目，只是没有聚焦于我的核心使用场景（简单且易于配置的单节点本地 S3）。<br />在选择 MinIO 替代品时，最后还需谨记以下几点考量：<br />治理机制。虽然这些项目全部属于开源软件（OSS），但唯独 Ozone 归基金会（ASF）所有。理论上，所有其他项目都可能随时随地变更其开源许可证（就像 MinIO 当初所做的那样）。<br />社区健康度。项目的“巴士因子（bus factor）”是多少？上述有几个项目拥有非常长久且健康的维护历史——但全靠单一个人贡献者维系。若该贡献者放弃该项目，社区中是否会有人接盘分叉（fork）并持续积极开发？<br />2026-01-30：Justin Cormack 撰文探讨了 RustFS 和 Garage 的部分实现细节与具体功能。<br />2026-03-02：Ruohang Feng 已将 MinIO 分叉至 pgsty/minio，并承诺将维护一个稳定且修补了 CVE 安全漏洞的发行版本。</p></div>
+<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-20331-1.png" alt="基于 Amazon SageMaker 无服务器模型微调定制构建 AI 驱动的商品打标系统" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>零售商品目录很少以干净、结构化的属性形式呈现。商品名称、描述和品类路径来自多个渠道且处于持续变动中。搜索、推荐和目录导航都依赖于一致的标签，但跨成千上万个最小存货单位（SKU）手动打标不仅耗时缓慢，而且难以保持标准一致。</p>
+<p>通用前沿大模型可以通过提示工程生成标签，但高吞吐的打标工作流通常具有更明确、更聚焦的目标：以正确的格式架构（schema）持续返回准确的属性。当分类体系相对稳定且输出可通过程序化评分时，对参数量较小的开放权重模型进行定制化微调往往更契合实际任务需求。采用这种方案，你可以直接让模型掌握模式规范，并在遗漏标签与冗余标签之间优化权衡，从而避免为每次请求中工作流并不需要的通用能力买单。</p>
+<p>在本实操指南中，我们首先通过监督式微调（SFT）对 Qwen3-8B 进行定制，随后采用基于组相对策略优化（GRPO）的可验证奖励强化学习（RLVR）进一步优化。Amazon SageMaker 无服务器模型定制负责管理底层训练算力，而优化后的模型则独立部署至 Amazon SageMaker 异步推理服务，以支持面向批处理的目录数据丰富化。阅读《SageMaker 无服务器模型定制概述》。</p>
+<p>无服务器模式与 Amazon SageMaker 训练任务（SMTJ）的对比：amazon-sagemaker-examples 代码库中早期的 Qwen3-8B 示例使用的是 Amazon SageMaker 训练任务，需要用户自行选择 GPU 实例并配置自定义训练镜像。而本指南采用 Amazon SageMaker Python SDK v3 中的无服务器定制训练器（SFTTrainer 和 RLVRTrainer）。在不显式提供算力配置的情况下，Amazon SageMaker 会自动为定制任务调配并释放训练资源。如需参考官方无服务器 Notebook，请参阅《Amazon SageMaker Python SDK v3 无服务器模型定制示例》。</p>
+<p>在开始之前，请准备好以下资源并遵循最小权限原则。请将占位符替换为你自己 AWS 账户中的实际资源。</p>
+<p>Amazon SageMaker AI 权限：管理无服务器定制任务、AI Registry 数据集与评估器、模型包组（model package groups）、模型实体、终端节点、异步推理以及必要时的 iam:PassRole 权限。</p>
+<p>Amazon Simple Storage Service (Amazon S3) 访问权限：读取和写入原始商品目录、转换后的训练数据、模型产物、异步推理请求及推理结果输出。</p>
+<p>Amazon Elastic Container Registry (Amazon ECR) 访问权限：仅在自行构建并托管 vLLM 推理镜像时需要。无服务器 SFT 与 RLVR 无需自定义训练镜像。</p>
+<p>无服务器模型定制可用性：确保使用的 AWS 区域与模型/技术组合支持 Qwen3-8B 的 SFT 与 RLVR 功能。</p>
+<p>终端节点配额：确保账户内拥有足够的 ml.g6.2xlarge 托管配额以及用于异步终端节点的配额数量。</p>
+<p>数据集：在本指南中使用公开的 Amazon Sales Dataset，或使用可转换为相同提示词/目标格式的私有目录数据。</p>
+<p>本地工具：Python 3.11+、AWS Command Line Interface (AWS CLI) v2、pandas、Amazon SageMaker Python SDK v3，以及用于构建 vLLM 推理镜像的 Docker。</p>
+<p>身份验证：建议针对目标账户和区域使用 AWS IAM Identity Center 或其他短期凭证工作流，避免使用根凭证及长期访问密钥。</p>
+<p>实用参考资料：受支持的开放权重模型及定制类型 · Amazon SageMaker Processing · Amazon SageMaker Asynchronous Inference。</p>
+<p>该工作流被明确划分为三个职责模块：数据准备、无服务器模型定制和推理服务。下图仅展示关键交付节点，以便清晰辨别哪些阶段属于无服务器训练，哪些阶段属于预置算力服务。</p>
+<p>图 1：从源目录到部署与评估的简化商品打标工作流</p>
+<p>数据只需一次性转换为带版本控制的资产，SFT 教会模型打标格式架构，RLVR 则依据确定性奖励函数优化模型行为。最终生成的模型包将被托管用于推理服务。在本指南中，“无服务器”（serverless）专指训练流程；异步推理终端节点则使用预置的 ml.g6.2xlarge 实例。</p>
+<p>步骤 1：获取并准备监督微调（SFT）数据</p>
+<p>本指南从 Kaggle 上的 Amazon Sales Dataset 入手，该数据集包含 1,000 多条商品记录。字段包括 product_id、product_name、category、about_product、价格、评分、评价以及商品链接。对于此打标工作流，有价值的输入是面向目录展示的字段，如商品名称、类目路径和详细描述。在生产环境中，请使用经企业内部审核的商品目录与可信标签。</p>
+<p>建议以 Amazon SageMaker Processing 任务的形式运行数据转换流程，以确保数据准备过程可复现且可审计。数据处理脚本从 Amazon S3 读取原始文件，规范化目录文本与类目路径，剔除不可用数据行，将通过验证的商品信息映射到预设的九分类打标目标中，划分训练集与验证集，并将生成的 JSONL 文件回写至 S3。随后，这些文件会在 Amazon SageMaker AI Registry 中注册为带版本的数据集。</p>
+<p>每行 SFT JSONL 数据均包含一个 messages 数组。为便于阅读，下方示例展开展示。实际文件中每行应为一个完整的单行 JSON 对象。</p>
+<p>{&quot;messages&quot;: [ {&quot;role&quot;: &quot;system&quot;, &quot;content&quot;: &quot;Use the nine-category schema.&quot;}, {&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Name: USB-C Cable | Category: Cables&quot;}, {&quot;role&quot;: &quot;assistant&quot;, &quot;content&quot;: &quot;1, Product Name: USB-C Cable\n...\n9, Occasion:&quot;} ]}</p>
+<p>system 与 user 轮次共同构成提示词输入，最后的 assistant 轮次则是监督目标。将独立的训练与验证文件上传至 Amazon S3，并在 Amazon SageMaker AI Registry 中进行注册。定制训练器将直接使用带版本的数据集 ARN，而非传统的训练输入通道配置。</p>
+<p>from sagemaker.ai_registry.dataset import DataSet, CustomizationTechnique<br />train_dataset = DataSet.create( name=&quot;amazon-sft-train&quot;, source=&quot;s3://amzn-s3-demo-bucket/sft/train.jsonl&quot;, customization_technique=CustomizationTechnique.SFT, wait=True, )<br />TRAINING_DATASET_ARN = train_dataset.arn</p>
+<p>请直接从 dataset.arn 读取版本化 ARN，避免手动拼接字符串。对验证集重复上述注册操作，并使用 CustomizationTechnique.RLVR 注册后续强化学习阶段所需的数据集版本。</p>
+<p>步骤 2：通过无服务器 SFT 教会 Qwen3-8B 打标架构规范</p>
+<p>Amazon SageMaker 无服务器模型定制（serverless model customization）首先向 Qwen3-8B 传授预期的“指令到标签”模式。在 Python SDK v3 中，SFTTrainer 是用于提交该定制任务的客户端辅助工具。该训练器会解析受支持的 Qwen3-8B 方案、应用低秩自适应（LoRA）、使用已注册的数据集 ARN，并将输出发布到模型包组（model package group）。由于没有提供计算参数，Amazon SageMaker 会使用由 AWS 托管的无服务器训练算力，而非客户选定的训练实例。</p>
+<p>from sagemaker.train.common import TrainingType<br />from sagemaker.train.sft_trainer import SFTTrainer</p>
+<p>trainer = SFTTrainer(<br />    model=&quot;huggingface-reasoning-qwen3-8b&quot;,<br />    training_type=TrainingType.LORA,<br />    model_package_group=model_package_group,<br />    training_dataset=TRAINING_DATASET_ARN,<br />    validation_dataset=VALIDATION_DATASET_ARN,<br />    sequence_length=&quot;4K&quot;,<br />    s3_output_path=S3_OUTPUT_PATH,<br />    role=ROLE_ARN, # 无计算参数：使用无服务器模型定制。<br />)<br />trainer.hyperparameters.max_epochs = 3<br />trainer.hyperparameters.global_batch_size = 8<br />trainer.hyperparameters.lora_rank = 16<br />trainer.hyperparameters.merge_weights = True</p>
+<p>training_job = trainer.train(wait=True)<br />SFT_MODEL_PACKAGE_ARN = training_job.output_model_package_arn</p>
+<p>预计 SFT 将在遵循模式（schema）方面带来最大幅度的提升，因为它直接展示了所需的输入/输出行为。下一阶段将使用 RLVR 来优化剩余的质量权衡，而不是从头重新学习格式。</p>
+<p>步骤 3：将监督样本转换为 RLVR 数据</p>
+<p>在完成 SFT 后，模型能够遵循模式，但仍可能遗漏预期属性或添加不必要的属性。RLVR 非常契合该场景，因为打标输出是结构化的，可以直接与参考标准进行比对，而无需引入另一个大语言模型（LLM）来对每次生成结果进行评判。</p>
+<p>对于每一行 SFT 数据，将系统轮次和用户轮次保留在 prompt 中，并将最后的助手内容移至 reward_model.ground_truth。为每一行分配一个感知数据集划分（split-aware）的 ID，并在 extra_info 中为评估器保留答案。</p>
+<p>messages = json.loads(line)[&quot;messages&quot;]</p>
+<p>rlvr_row = {<br />    &quot;id&quot;: f&quot;amazon-tagging-{split}-{index:05d}&quot;,<br />    &quot;prompt&quot;: messages[:-1],<br />    &quot;data_source&quot;: &quot;amazon_tagging&quot;,<br />    &quot;reward_model&quot;: {<br />        &quot;style&quot;: &quot;rule&quot;,<br />        &quot;ground_truth&quot;: messages[-1][&quot;content&quot;],<br />    },<br />    &quot;extra_info&quot;: {<br />        &quot;answer&quot;: messages[-1][&quot;content&quot;],<br />        &quot;split&quot;: split,<br />    },<br />}</p>
+<p>步骤 4：使用无服务器 RLVR 和 GRPO 进行优化</p>
+<p>RLVR 从 SFT 模型包继续进行，并使用确定性奖励函数对候选标签集进行打分。GRPO 会为每个提示词生成一组补全结果。此实现使用 rollout_n=8 生成 8 个候选结果。评估器对每个补全结果进行独立打分。GRPO 计算基于组的相对优势（group-relative advantages），KL 正则化则限制其偏离 SFT 参考模型。</p>
+<p>from sagemaker.train.rlvr_trainer import RLVRTrainer</p>
+<p>training_dataset = DataSet.get(<br />    name=&quot;amazon-rlvr-train&quot;,<br />    sagemaker_session=sagemaker_session,<br />)<br />validation_dataset = DataSet.get(<br />    name=&quot;amazon-rlvr-eval&quot;,<br />    sagemaker_session=sagemaker_session,<br />)</p>
+<p>trainer = RLVRTrainer(<br />    model=SFT_MODEL_PACKAGE_ARN,<br />    training_type=TrainingType.LORA,<br />    model_package_group=rlvr_model_package_group,<br />    custom_reward_function=REWARD_EVALUATOR_ARN,<br />    training_dataset=training_dataset,<br />    validation_dataset=validation_dataset,<br />    s3_output_path=S3_OUTPUT_PATH,<br />    role=ROLE_ARN, # 无计算参数：使用无服务器模型定制。<br />)<br />trainer.hyperparameters.rollout_n = 8<br />trainer.hyperparameters.global_batch_size = 128<br />trainer.hyperparameters.max_epochs = 4<br />trainer.hyperparameters.learning_rate = 1e-5<br />trainer.hyperparameters.max_prompt_length = 2048</p>
+<p>training_job = trainer.train(wait=False)</p>
+<p>奖励函数设计</p>
+<p>奖励是确定性的：它检查九类输出格式，并使用 0.5 阈值的模糊匹配将预测标签与参考标准进行对比。这使得训练信号无需单独的裁判模型即可进行验证。</p>
+<p>综合得分（Overall） = 0.30 × 召回率（recall） + 0.30 × 精准率（precision） + 0.30 × 准确率（accuracy） + 0.05 × 匹配质量（match_quality） + 0.05 × 格式规范度（formatting）</p>
+<p>渐进式奖励调度方案在训练过程中有意调整侧重点。早期迭代倾向于召回率，以使模型学会不遗漏预期属性；后期迭代则提高精准率权重，从而促使模型避免输出缺乏依据或不必要的标签。这使得业务权衡明确地体现在奖励中，而不是含糊地留给提示词工程。</p>
+<p>使用 MLflow 和模型包组跟踪运行情况。记录所选的超参数、奖励权重、指标和模型血统（lineage），以便比较 SFT 和 RLVR 的运行结果并复现选定的模型版本。</p>
+<p>步骤 5：部署优化后的模型用于异步推理</p>
+<p>在本教程中，训练和推理采用了不同的基础设施选型。SFT 和 RLVR 使用 Amazon SageMaker 无服务器模型定制。服务调用则在 ml.g6.2xlarge 上使用 Amazon SageMaker 异步推理端点。这非常适合面向批处理的商品目录信息丰富化场景，其中的请求可进入队列排队，结果可写入 Amazon S3。自定义 vLLM 镜像仅用于推理，不用于无服务器训练阶段。</p>
+<p>sm_client.create_endpoint_config(<br />    EndpointConfigName=endpoint_config_name,<br />    ProductionVariants=[{<br />        &quot;VariantName&quot;: &quot;AllTraffic&quot;,<br />        &quot;ModelName&quot;: model_name,<br />        &quot;InitialInstanceCount&quot;: 1,<br />        &quot;InstanceType&quot;: &quot;ml.g6.2xlarge&quot;,<br />    }],<br />    AsyncInferenceConfig={<br />        &quot;OutputConfig&quot;: {<br />            &quot;S3OutputPath&quot;: &quot;s3://amzn-s3-demo-bucket/async-output&quot;<br />        }<br />    },<br />)</p>
+<p>对于生产环境，如果您希望异步端点随队列深度进行扩缩容或在空闲时缩容至零，可以添加自动扩缩容策略。</p>
+<p>步骤 6：调用端点并评估打标质量</p>
+<p>向异步端点发送兼容 OpenAI 的请求。对于较大的载荷，将请求体上传至 Amazon S3 并将 S3 URI 作为 InputLocation 传入，随后轮询返回的 OutputLocation。本教程使用 temperature=0.1 和 max_tokens=1024 以实现稳定的生成效果。</p>
+<p>response = sagemaker_runtime.invoke_endpoint_async(<br />    EndpointName=ENDPOINT_NAME,<br />    ContentType=&quot;application/json&quot;,<br />    InputLocation=input_location,<br />)<br />output_location = response[&quot;OutputLocation&quot;]</p>
+<p>结果及其对商品目录工作流的意义</p>
+<p>评估结果显示，SFT 提供了绝大部分的任务适应能力，而 GRPO 则带来了较小幅度的提升，推动模型实现更高的覆盖率。下表区分了这些效果，以便您理解其中的权衡。</p>
+<p>模型 | 综合得分 | 召回率 | 精准率 | 准确率<br />Baseline（基线） | 0.354 | 0.327 | 0.397 | 0.327<br />SFT | 0.6827 | 0.6689 | 0.652 | 0.6689<br />GRPO | 0.6941 | 0.703 | 0.638 | 0.686</p>
+<p>SFT 是质量提升的主要驱动因素。加权综合得分从 0.354 上升至 0.6827，其中召回率从 0.327 提升至 0.6689，精准率从 0.397 提升至 0.652。这就是直接向模型传授任务和模式所带来的效果。</p>
+<p>GRPO 随后做出了一种更精确的权衡。总体得分从 0.6827 提升至 0.6941，召回率从 0.6689 提升至 0.703，而精确率则从 0.652 略微下降至 0.638。对于商品目录团队而言，这意味着当遗漏有效属性的代价高于产生少量多余标签时，GRPO 会非常有用。如果下游业务中不必要的标签危害更大，则可以调整奖励权重以倾向于精确率。</p>
+<p>这些指标衡量的是打标质量，而非直接反映业务转化率。应将它们作为模型选择的依据，然后结合具体的目录指标（例如属性完整性、人工修正率、搜索/筛选覆盖率以及下游推荐质量）来验证其在生产环境中的实际影响。</p>
+<p>图 2：来自 RLVR 运行的训练奖励趋势。最终的模型选择应使用留出评估指标，而不能仅凭训练曲线。</p>
+<p>在验证完此实操指南后，请仅删除为其创建的资源：端点、端点配置、模型、奖励 AWS Lambda 与评估器、数据集版本、模型包组、S3 前缀以及 ECR 推理镜像。在删除共享资产之前，请核对资源名称。</p>
+<p>当模式（Schema）稳定、工作负载重复且正确性可以通过程序化评分时，商品打标是进行模型定制的绝佳场景。在此示例中，Qwen3-8B 通过无服务器 SFT 学习了九个类别的格式，随后采用 GRPO 的 RLVR 利用可验证奖励来微调覆盖率与精确率之间的平衡。其结果并不是每项指标都获得同等提升。相反，奖励设计使得所需的目录权衡变得明确且可衡量。</p>
+<p>当任务频繁变动、分类体系仍在演进或工作流需要超越固定打标模式的更广泛推理能力时，前沿模型（Frontier Model）仍然很有价值。然而，对于成熟的大规模打标任务，无服务器模型定制为您提供了一条托管式路径，无需挑选训练实例或维护训练容器，即可对开源权重模型进行专门化调优。</p>
+<p>您可以使用 GitHub 上的 Amazon SageMaker Python SDK v3 无服务器模型定制示例复现并扩展这一无服务器定制流程，其中包括 SFT、RLVR、AI Registry 以及端到端 Notebook。有关服务概念和受支持的模型，请参阅 Amazon SageMaker AI 模型定制文档。</p>
+<p>Linpo 是 AWS 的深度学习架构师。在加入 AWS 之前，他曾多年从事搜索和推荐算法的构建工作。他现在为金融和电子商务等行业的客户提供 AI 解决方案——算法系统架构与生产部署。</p>
+<p>Ray 是 AWS 的高级解决方案架构师。Ray 在 IT 行业拥有 15 年经验，致力于在云端构建现代解决方案，尤其是在 NoSQL、大数据、机器学习和生成式 AI 领域。作为一名充满进取心的人，他通过了全部 12 项 AWS 认证和 4 项 Anthropic 认证，使其技术领域不仅深厚而且宽广。他在业余时间喜欢阅读和观看科幻电影。</p>
+<p>Kanwaljit 是亚马逊云科技（AWS）解决方案架构与数据科学高级经理，专注于 AI 和 ML。他与 AWS 产品团队、工程部门以及客户合作，为最大化其在 AWS 上的混合生成式 AI 解决方案价值提供指导和技术协助。Kanwaljit 擅长帮助客户构建容器化、数据科学和机器学习应用程序。</p>
+<p>Josh 是亚马逊云科技（AWS）专注于零售行业的解决方案架构师，常驻中国台湾台北，专注于数据和分析，帮助零售企业将其业务需求转化为构建在 AWS 上的可扩展、生产就绪型解决方案。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-15 16:21 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-09-16 00:11 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
+  <span class="news-tag-pill">#AWS</span>
 </div>
 
-<div class="news-card-footer"><a href="https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-gemaker-ai-training-jobs-2330810bf1e207b8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="8269" data-content-paragraphs="56" data-published-at="2026-09-15T16:01:47.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aws.svg" class="source-icon" alt="AWS Machine Learning Blog (亚马逊云科技官方英文)" width="16" height="16" /> <strong>AWS Machine Learning Blog (亚马逊云科技官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 00:01</span>
+</div>
+
+### [亚马逊云科技宣布推出针对 Amazon SageMaker AI 训练作业的实例偏好列表功能](https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Announcing instance preference lists for Amazon SageMaker AI training jobs</div>
+
+<div class="article-cover"><img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-21790-1.png" alt="亚马逊云科技宣布推出针对 Amazon SageMaker AI 训练作业的实例偏好列表功能" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>在需要时获得合适的 GPU 资源，是大规模训练或定制 AI 模型面临的最大挑战之一。在需求高峰期，您首选的 GPU 可能无法立即可用——而当您的作业绑定到某一种特定的 GPU 配置时，唯一的选择只能是等待或手动尝试替代方案。这会拖慢实验进程，并将工程团队的精力从模型开发转移开。如果您只需提交单个作业，附上一份合适的 GPU 备选列表，并让 Amazon SageMaker AI 自动从列表中寻找可用容量，从而缩短等待时间，让团队重新专注于构建工作，会是怎样的体验？</p>
+<p>今天，我们很高兴宣布针对 Amazon SageMaker AI 训练作业（Training Jobs）和 Amazon SageMaker 处理作业（Processing Jobs）推出实例偏好列表（Instance preference lists）功能，通过自动在您偏好的实例类型中进行检查，帮助您更快获取按需容量。借助该功能，您在创建训练或处理作业时，最多可以指定包含五个可接受实例类型的有序列表。Amazon SageMaker AI 会按优先级顺序自动评估您的列表，并在首个具有可用容量的实例类型上启动作业——从而更快速地获取 GPU 资源并开始训练。这免去了手动重试循环、复杂的监控脚本，以及各团队有时为了管理可在多种实例类型上运行的作业提交而耗费在构建系统上的额外时间。</p>
+<p>其结果是作业启动更快、容量利用率更高，并且能够将更多时间投入到模型构建中，而非应付资源限制。</p>
+<p>在需求高峰期，按需获取您首选的 GPU 实例可能会充满挑战。当训练作业被固定在单一实例类型上且该容量无法立即可用时，一些团队可能会转而在不同类型间提交多个请求，以寻找哪里存在可用容量。这种手动流程会拖慢实验迭代周期。对于有严格时间要求的工作负载，例如夜间重新训练流水线、生产微调运行和计划数据处理，这些延迟可能会直接影响模型的新鲜度和迭代速度。</p>
+<p>图 1：绑定在单一实例类型的训练作业在等待容量，而其他实例类型可能存在可用容量</p>
+<p>各团队为此采取了自定义重试脚本的应对方式，通过轮询作业状态、取消停滞的请求，并使用替代实例类型重新提交。但这些临时融通方案非常脆弱。它们无法与预留容量选项（如灵活训练计划 Flexible Training Plans，简称 FTP）集成，并且会带来在多次训练运行中不断累积的操作运维开销。</p>
+<p>核心挑战在于，将训练作业绑定到单一实例类型会导致脆弱性。许多训练工作负载在两到三个实例家族上的运行效果相当，因此拥有灵活训练计划的团队需要一种表达偏好顺序的方式。这样他们就可以先尝试预留容量，并在无法满足时回退到使用按需容量的替代实例类型。</p>
+<p>请考虑以下场景：一个正在训练数十亿参数模型的团队提交了多个作业请求以寻找可用容量，而另一种实例类型上已有等效算力可用；一条夜间处理流水线被固定在单一类型上，并在凌晨 2 点因 InsufficientCapacityError（容量不足错误）而失败，如果平台在启动时评估了替代类型，该作业本可以正常启动；一个拥有训练计划的组织希望优先评估其预留容量，如果该计划额度已被完全消耗，则无需重新提交即可使用按需容量的替代类型。在每种情况下，答案都是一样的：让平台在创建作业时通过单次 API 调用自动评估多个实例类型。</p>
+<p>解决方案：实例偏好列表</p>
+<p>SageMaker 训练与处理作业上的实例偏好列表：您无需请求单一实例类型，而是提供一个最多包含五个类型的有序优先级列表。Amazon SageMaker AI 会处理其余的事情。它按优先级顺序评估您的列表，选择首个具有可用容量的类型，并在无需人工干预的情况下启动您的作业。</p>
+<p>下图展示了端到端的置备工作流。它显示了训练作业请求如何流经实例偏好列表，首先进行预留容量检查，然后在首选类型不可用时回退到使用按需容量的替代实例类型。</p>
+<p>图 2：实例偏好列表的端到端置备工作流，从预留容量检查到按需回退</p>
+<p>第 1 步：如上图所示，您提交作业时附带一个最多包含五个实例类型的有序偏好列表。</p>
+<p>第 2 步：Amazon SageMaker AI 根据受支持的实例类型和资源配额限制，验证您的作业配置和偏好列表。</p>
+<p>第 3 步：调度程序在内存中对您的有序类型执行单次扫描，并识别出第一个具有可用容量的类型。</p>
+<p>第 4 步：胜出的实例类型立即开始置备，您的作业开始执行。</p>
+<p>重试（如需要）：如果在评估时列表中没有任何类型具有可用容量，作业将进入高效的事件驱动队列，并在容量可用时自动重试。该重试窗口受 MaxPendingTimeInSeconds 参数限制，让您可以控制最长排队时间。</p>
+<p>MaxPendingTimeInSeconds 仅对请求加速计算实例类型（例如 ml.p、ml.g 和 ml.trn 家族中的实例）的作业生效。它对仅请求 CPU 实例类型的作业没有影响。</p>
+<p>如果作业指定了 InstancePreferences，MaxPendingTimeInSeconds 会限制 Amazon SageMaker AI 遍历处理实例类型列表所花费的总时间。该超时设置适用于整个偏好列表，而不是单独针对每个实例类型。它仅在列表中包含至少一个加速计算实例类型时才会生效。</p>
+<p>您的作业要么在第一个可用类型上立即启动，要么带着自动重试进行等待。无需自定义脚本，也没有轮询循环。</p>
+<p>训练计划集成</p>
+<p>已投资灵活训练计划（FTP）的组织获得了实例偏好列表的自然扩展支持，这些计划能以折扣费率在固定期限内预留 GPU 容量。您可以将训练计划关联到列表中的特定偏好项，并将其余项保留为按需容量。扫描会优先评估您的预留容量。如果该偏好项无法置备，它将转到列表中的下一个类型，该类型可能会使用按需容量。</p>
+<p>该图表对比了两种配置路径。第一种路径使用灵活训练计划（Flexible Training Plan），该计划提供预付费且有保障的预留 GPU 容量。此选项在首选项列表中具有最高优先级，且计划类型必须与指定的首选项匹配（例如带有 TrainingPlanArn 的 ml.p5.48xlarge）。如果预留容量不可用，系统将回退到第二种路径，该路径以标准费率配置按需容量，且无需承诺使用量（例如 ml.p5.24xlarge）。无论哪种路径先具备可用容量，系统就会优先使用该路径，无需手动切换。</p>
+<p>图 3：预留的灵活训练计划容量优先，自动回退到按需容量</p>
+<p>现在您已经了解了实例首选项列表在 Amazon SageMaker 训练任务中的工作原理，接下来我们将通过代码示例来介绍具体实现。</p>
+<p>代码示例：配置了实例首选项的训练任务<br />以下示例演示了如何使用带有 ModelTrainer 类的 Amazon SageMaker Python SDK v3 来配置实例首选项。每个示例都展示了一个不同的真实场景，您可以将其应用到自己的工作负载中。</p>
+<p>示例 1：3 种 GPU 类型的统一数量配置（P5 到 P4d 再到 P4de）<br />此示例指定了三种具有相同实例数量的 GPU 实例类型。Amazon SageMaker AI 会优先尝试配置第一首选项（P5），如果容量不足，则回退到 P4d 或 P4de。</p>
+<p>使用 Amazon SageMaker Python SDK v3（ModelTrainer）：</p>
+<p>from sagemaker.core.shapes.shapes import InstancePreference<br />from sagemaker.train.model_trainer import ModelTrainer<br />from sagemaker.train.configs import Compute, OutputDataConfig</p>
+<p>trainer = ModelTrainer(<br />    training_image=&quot;763104351884.dkr.ecr.us-east-1.amazonaws.com/pytorch-training:2.3.0-gpu-py311-cu121-ubuntu22.04-sagemaker&quot;,<br />    source_code=&quot;train.py&quot;,<br />    role=&quot;arn:aws:iam::111122223333:role/SageMakerExecutionRole&quot;,<br />    base_job_name=&quot;large-model-training-70b&quot;,<br />    output_data_config=OutputDataConfig(<br />        s3_output_path=&quot;s3://amzn-s3-demo-bucket/training-output/&quot;<br />    ),<br />    compute=Compute(<br />        instance_count=8,  # 无论最终采用哪种类型，数量均相同<br />        volume_size_in_gb=500,<br />        keep_alive_period_in_seconds=3600,<br />        instance_preferences=[<br />            InstancePreference(instance_type=&quot;ml.p5.48xlarge&quot;),    # 优先级 1: H100<br />            InstancePreference(instance_type=&quot;ml.p4d.24xlarge&quot;),   # 优先级 2: A100<br />            InstancePreference(instance_type=&quot;ml.p4de.24xlarge&quot;),  # 优先级 3: A100 (80GB)<br />        ],<br />    ),<br />)<br />trainer.train(wait=False)<br />print(f&quot;Job submitted: {trainer._latest_training_job.training_job_name}&quot;)</p>
+<p>示例 2：针对算力等效性的按首选项单独计数<br />并非所有实例类型在每个节点上都能提供相同的吞吐量。当您的首选项列表包含具有不同 GPU 架构的实例类型时，您可以为每个条目指定不同的实例数量，以实现大致相当的总算力。在此示例中，两个 ml.g6.48xlarge 实例（总计 16 块 L40S GPU）被列为第一首选项，四个 ml.g5.48xlarge 实例（总计 32 块 A10G GPU）作为备选回退，以弥补单 GPU 性能较低的不足。</p>
+<p>compute = Compute(<br />    volume_size_in_gb=500,<br />    instance_preferences=[<br />        # 2× g6.48xlarge（每台含 8× L40S GPU = 总计 16 块 GPU）<br />        InstancePreference(instance_type=&quot;ml.g6.48xlarge&quot;, instance_count=2),<br />        # 4× g5.48xlarge（每台含 8× A10G GPU = 32 块 GPU，但单 GPU 性能较低）<br />        InstancePreference(instance_type=&quot;ml.g5.48xlarge&quot;, instance_count=4),<br />    ],<br />)</p>
+<p>提示：当您的训练脚本能够适应不同的 GPU 数量时（例如通过带 --nproc_per_node=auto 的 torchrun），请使用按首选项单独计数配置。每种配置都应为您的工作负载提供大致相当的总吞吐量。</p>
+<p>示例 3：训练计划集成（预留与按需混合）<br />此示例将训练计划的预留容量与按需回退相结合，以便在预留容量已被充分利用时，任务依然能够启动。</p>
+<p>compute = Compute(<br />    instance_count=4,<br />    volume_size_in_gb=500,<br />    instance_preferences=[<br />        # 优先级 1：使用我的预留 P5 容量（有保障，无需等待）<br />        InstancePreference(<br />            instance_type=&quot;ml.p5.48xlarge&quot;,<br />            training_plan_arns=[<br />                &quot;arn:aws:sagemaker:us-west-2:111122223333:training-plan/my-p5-reservation&quot;<br />            ],<br />        ),<br />        # 优先级 2：按需 P4d（如果预留容量已耗尽）<br />        InstancePreference(instance_type=&quot;ml.p4d.24xlarge&quot;),<br />        # 优先级 3：按需 P4de（最后的后备方案）<br />        InstancePreference(instance_type=&quot;ml.p4de.24xlarge&quot;),<br />    ],<br />)</p>
+<p>到目前为止，这些示例重点展示了通过实例灵活性加速模型实验的训练任务。同样的容量挑战也会影响数据处理工作负载。</p>
+<p>具体实现遵循类似的模式。您无需在训练资源上配置实例首选项，而是在处理任务的 ClusterConfig 上指定它们。您提供一个按优先级排序的可接受实例类型列表，Amazon SageMaker AI 会在启动时按优先级顺序对其进行评估。第一个具备可用容量的实例类型将自动配置您的处理集群。</p>
+<p>代码示例：配置了实例首选项的处理任务<br />处理任务在 ClusterConfig 上支持相同的回退机制：</p>
+<p>from sagemaker.processing import Processor</p>
+<p>processor = Processor(<br />    role=&quot;arn:aws:iam::123456789012:role/SageMakerExecutionRole&quot;,<br />    image_uri=&quot;763104351884.dkr.ecr.us-east-1.amazonaws.com/pytorch-training:2.3.0-gpu-py311-cu121-ubuntu22.04-sagemaker&quot;,<br />    instance_count=2,<br />    volume_size_in_gb=100,<br />    entrypoint=[&quot;python3&quot;, &quot;process.py&quot;],<br />    instance_preferences=[<br />        {&quot;InstanceType&quot;: &quot;ml.g5.12xlarge&quot;},  # 优先级 1<br />        {&quot;InstanceType&quot;: &quot;ml.g5.4xlarge&quot;},   # 优先级 2<br />        {&quot;InstanceType&quot;: &quot;ml.m5.12xlarge&quot;},  # 优先级 3 (CPU 回退)<br />    ],<br />)</p>
+<p>processor.run(<br />    inputs=[...],<br />    outputs=[...],<br />)</p>
+<p>注意：处理任务不支持训练计划集成。TrainingPlanArns 字段仅适用于训练任务。</p>
+<p>在为训练任务配置实例首选项列表时，请牢记以下指导原则：</p>
+<p>1. 仅列出兼容的实例类型<br />Amazon SageMaker AI 不会验证跨类型兼容性（GPU 架构、Elastic Fabric Adapter (EFA) 支持、驱动程序版本）。请确保您的训练容器在所有列出的类型上都能正常运行。</p>
+<p>2. 使用按首选项单独计数以实现吞吐量对等<br />如果您的首选项列表包含不同的单节点算力，请调整数量以匹配总吞吐量：<br />{ &quot;InstanceType&quot;: &quot;ml.p5.48xlarge&quot;, &quot;InstanceCount&quot;: 2 }, // 2× H100 节点<br />{ &quot;InstanceType&quot;: &quot;ml.p4d.24xlarge&quot;, &quot;InstanceCount&quot;: 4 } // 4× A100 节点 ≈ 相同的总 FLOPS</p>
+<p>3. 结合训练计划以获得有保障且灵活的容量<br />将预留容量排在首选项列表的首位，以便 Amazon SageMaker AI 在回退到按需替代方案之前，优先尝试使用预付费资源进行启动。<br />优先级 1：预留 P5（通过训练计划）→ 如果预留可用则立即启动<br />优先级 2：按需 P4d → 以标准费率作为良好的回退选项<br />优先级 3：按需 P4de → 最后的后备方案</p>
+<p>4. 使用 MaxPendingTimeInSeconds 限制排队等待时间</p>
+<p>选择任务在停止之前可以持续重试该列表的最长时间（仅适用于加速计算实例类型）：<br />StoppingCondition={ &quot;MaxRuntimeInSeconds&quot;: 86400, &quot;MaxPendingTimeInSeconds&quot;: 1800 # 若无可用容量则在 30 分钟后失败 }</p>
+<p>实例偏好（Instance Preferences）将 GPU 容量管理从繁重的工程负担转变为仅需单行配置的变更。无需再构建自定义重试逻辑、监控容量监控大盘，或因为夜间流水线失败而叫醒待命值班工程师，您只需预先声明您的灵活性，剩下的交给 SageMaker AI 处理即可。</p>
+<p>更新您的 Amazon SageMaker Python SDK：pip install --upgrade sagemaker 。<br />参考《Amazon SageMaker AI 开发者指南》，在您的 Compute 配置中添加 instance_preferences。<br />按优先级顺序列出 2 至 5 个兼容的实例类型。<br />从 Amazon SageMaker AI 控制台提交您的任务，让 Amazon SageMaker AI 自动从您的首选列表中匹配可用容量。</p>
+<p>如需了解有关实例类型、定价和训练计划（Training Plans）的更多信息，请参阅 Amazon SageMaker AI 详情页面以及相关的 GitHub 实施代码。</p>
+<p>Kanwaljit 是亚马逊云科技（AWS）的解决方案架构与数据科学家高级经理，专注于 AI 与机器学习领域。他与 AWS 产品团队、工程团队及客户展开合作，为在 AWS 上最大化混合生成式 AI 解决方案的价值提供指导与技术支持。Kanwaljit 擅长协助客户构建容器化、数据科学和机器学习应用程序。</p>
+<p>Mona 目前在亚马逊担任高级 AI/ML 专家级解决方案架构师。她出版了三本书籍，最新著作为《AI Agents on AWS》。她撰写了 20 多篇关于 AI/ML 和云计算技术的博文，并联合撰写了一篇关于 CORD19 神经搜索的研究论文，该论文在著名的 AAAI（人工智能促进协会）大会上荣获最佳研究论文奖。</p>
+<p>Michael 是 Amazon SageMaker AI 的产品经理。他热衷于利用技术和人工智能解决实际问题。在 AWS，他协助各行各业的客户大规模构建、训练和部署 AI/ML 模型。工作之余，Michael 喜欢通过书籍和播客探索行为科学与心理学。</p>
+<p>Deep 是 Amazon SageMaker 团队的软件开发工程师，负责支持 AWS 上的模型训练基础设施。在不扩展训练系统时，他喜欢模拟赛车、阅读和旅行。</p>
+<p>Safir 是常驻纽约的 AWS 全球生成式 AI/机器学习市场拓展专家。他专注于为全球战略客户提供咨询，帮助其在 AWS 上扩展模型训练与推理工作负载，并推动 Amazon SageMaker AI 训练任务及 Amazon SageMaker HyperPod 的落地应用。他专长于金融服务、医疗健康、汽车和制造等各行业生成式 AI 与机器学习模型的优化与微调。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【AWS Machine Learning Blog (亚马逊云科技官方英文)】于 2026-09-16 00:01 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#AWS</span>
+</div>
+
+<div class="news-card-footer"><a href="https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【AWS Machine Learning Blog (亚马逊云科技官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--altk-evolve-consistency-a1d018f16fad79f9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3697" data-content-paragraphs="29" data-published-at="2026-09-15T16:00:44.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/huggingface.svg" class="source-icon" alt="Hugging Face (开源模型社区)" width="16" height="16" /> <strong>Hugging Face (开源模型社区)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 00:00</span>
+</div>
+
+### [你的智能体出色完成了任务，但它下次还能做到吗？](https://huggingface.co/blog/ibm-research/altk-evolve-consistency)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Your Agent Aced the Task. Will It Do It Again?</div>
+
+<div class="article-body" data-article-body="true"><p>在舞台演示时，这令人尴尬。而在生产环境中，这就是一个可靠性问题：曾经成功过一次的工作流，在用户下次提出完全相同的请求时可能会失败。对于对账或审查合同义务等关键任务而言，这可能是致命的阻碍。</p>
+<p>大多数基准测试都将这种多变性隐藏在平均值背后。在 AppWorld 上，使用 GPT-4.1 的 ReAct 智能体在五次重复运行中成功率为 77.4%。但仅在 53.0% 的任务中能够全部五次运行都成功——存在 24.4 个百分点的一致性差距（consistency gap）。</p>
+<p>大多数基准测试报告的是第一个数字。我们构建了一种方法来衡量第二个数字——并对其进行改进。</p>
+<p>在之前的一篇文章中，我们介绍了 ALTK-Evolve——这是一个能够将智能体自身过去的轨迹转化为可复用准则的系统，这些准则会被自动提炼并在推理时重新注入。它切实提升了任务成功率，但那些结果同样只探讨了平均情况。本文介绍了“一致性准则”（consistency guidelines），这是 altk-evolve 中基于我们称为“一致性分析器”（Consistency Analyzer）的诊断工具构建的一种新型准则类型，专门针对这一差距。</p>
+<p>标准的智能体评估通常报告 Mean@k：将基准测试运行 k 次，取通过率的平均值。通常 k=3，有时甚至只有 1。这就是每个排行榜上的数字，也是实践中“77% 准确率”所代表的含义。</p>
+<p>Mean@k 回答的是“这个智能体平均表现如何？”它没有回答真实用户所关心的问题：如果我再次提出完全相同的问题，它是否仍然表现良好？为此，你需要 Pass^k：即智能体在全部 k 次运行中均成功的任务比例。</p>
+<p>⚠️ Pass^k 并非 Pass@k。人们熟悉的 Pass@k 是乐观的——它关注的是 k 次尝试中是否至少有一次成功，这在能够进行验证和重试时是合适的问题。而 Pass^k 是它的悲观镜像：每一次尝试都必须成功。字母相同，问题截然相反。始终存在 Pass^k ≤ Mean@k ≤ Pass@k。</p>
+<p>由 GPT-4.1 支持的 ReAct 智能体达到了 77.4% 的 Mean@5——这确实很强。但 Pass^5 仅为 53.0%。基准测试中有近四分之一的任务属于智能体有时能解决、有时不能解决的情况，而两次运行之间任务本身没有任何改变。我们将这一差距（Mean@k 减去 Pass^k）称为“一致性差距”（consistency gap）。</p>
+<p>这并不是换一个更大的模型就能解决的能力问题。它是一个正交的维度：一个智能体可以既能力强大，又同时缺乏一致性。</p>
+<p>大语言模型智能体每一次做决定——调用哪个 API、传递什么参数、是否重试——该决定都源于下一个 token 的概率分布。关键在于该分布的形状。尖锐的分布将大部分概率质量集中在单个 token 上：次优选项相去甚远，每次运行都会得出相同的选择。而平坦的分布则将相当的概率质量分散在几个势均力敌的 token 上，谁胜出几乎就像掷硬币一样。</p>
+<p>这种形状决定了需要多大的噪声才能改变结果。尖锐的分布具有弹性——GPU 浮点非结合性、请求批处理以及其他平台层面的效应只会对数值产生微小扰动，根本不足以改变明确胜出者的顺序。而平坦的分布恰恰容易受到这种扰动的影响：微小扰动可能导致不分伯仲的选项重新排序。而且由于一条执行轨迹串联了数十个决策，每一步微小的反转几率复合起来，就会演变成某次运行出现不同结果的极大概率。这就是 24 个百分点差距的来源。</p>
+<p>这也是为什么该问题在调整解码设置后仍然存在的原因。贪婪解码和固定随机种子都只控制如何将概率分布转化为 token——它们完全没有改变分布本身。在托管端点上，概率在各次运行之间会发生微小漂移，因此在温度为 0 的情况下，向同一个模型输入相同的提示词，今天可能以这种方式决出势均力敌的结果，明天则可能变成另一种方式。</p>
+<p>我们的实验设置：ReAct 智能体在温度为 0.0 下运行，因此上述方差均非普通的随机采样所致。</p>
+<p>这使得问题转变成了一场搜索：在给定的轨迹中，哪些步骤属于平坦分布步骤——一旦知晓，你又该如何应对？</p>
+<p>一致性准则来自于一个接入 ALTK-Evolve 现有机制的两阶段流水线——由一种新的源信号驱动准则的编写。</p>
+<p>1. 检测——一致性分析器（Consistency Analyzer）。给定一条记录好的轨迹，分析器通过受控的重新采样回放每个决策步骤，测量模型输出在该点的实际变化程度。具体而言，就是对每个决策步骤进行一次额外的离线模型调用——将采样参数设置为一次性生成 k 个补全（默认 k=5）——针对已记录的上下文进行回放，无需新的工具调用，无需新的环境交互，也不需要对任务进行第二次端到端执行。这会为每个决策步骤生成一个一致性得分，并记入评分卡，从而精准定位哪些决策在下一次运行中存在反转风险。该检测完全是黑盒式的——不需要 logits、不需要模型内部信息，除了已有轨迹外也不需要任何额外插桩。</p>
+<p>2. 生成——针对性准则。每个被标记的步骤都会转化为标准 ALTK-Evolve 格式的候选一致性准则，从而无缝接入现有的存储与检索流水线。以下是一个真实案例，由 GPT-4.1 根据 AppWorld 任务“根据我的 SimpleNote 笔记，我的愿望清单中完成了多少项活动？”的轨迹生成：<br />[准则 1] 在统计笔记内容中的复选框样式标记时，应使用行锚定的正则表达式匹配，而不是普通子字符串计数——笔记标题常常会在图例行中重复出现标记符号。<br />[准则 2] 对笔记查询的搜索结果务必进行验证：检查是否存在多个匹配项，并在继续操作前确认正确的笔记。</p>
+<p>这里没有任何特定于单个任务的琐碎细节。字符串计数错误和未验证的搜索结果是在许多 AppWorld 任务中都会出现高度不确定性的决策点。这正是关键所在：分析器的目标是不稳定性而非失败——因此它能捕获那些智能体本次碰巧做对、但下次很容易做错的步骤。</p>
+<p>观看时长 2 分钟的演示视频——由于智能体对计数策略存在不确定性，智能体的五次并行运行在该任务上出现了 3 比 2 的分歧；而在上下文中加入这些准则后再次运行：五次运行全部保持一致。</p>
+<p>我们在 AppWorld test_normal（168 个任务）上使用基于 GPT-4.1 的 ReAct 智能体进行了评估，每个任务仅从单条基线轨迹生成一致性准则，并在 5 次全新运行中进行了测试。</p>
+<p>Mean@5（%），总体聚合——与上文 Pass^5 采用相同尺度。</p>
+<p>一致性差距缩减了大约一半。总体 Pass^5 从 53.0% 提升至 69.0%，而 Mean@5 从 77.4% 提升至 81.0%，将“看起来有能力”与“可靠可信”之间的差距从 24.4 个百分点缩小到 12.0 个百分点。此前表现不一致的任务中，近三分之一变成了智能体每次运行都能顺利通过的任务。</p>
+<p>中等难度和困难难度层级提升最为显著。中等难度提升了22.9个百分点（相对提升44%），困难难度提升了14.3个百分点（相对提升45%）——从相对幅度来看两者基本持平，而在绝对提升幅度上中等难度领先。简单难度提升了12.2个百分点，其原有的提升空间最小。这正是“一致性指南”（consistency guidelines）发挥其既定作用的体现：定位并稳定那些智能体自身的不确定性渗入最终结果的具体决策节点。</p>
+<p>Mean@5从未出现下滑。保持平均准确率是一项硬性指标，而非可有可无的锦上添花：一个靠牺牲Mean@5来提升Pass^5的系统，只不过是在转移不可靠性，而不是真正修复它。在各个难度层级上，平均准确率均保持稳定或有所提升。</p>
+<p>当应用到同一AppWorld场景下的另一项不同但相关的任务时（即提炼出这些指南的场景的另一种变体），一致性指南依然使Pass^5提升了13.0个百分点，仅比同任务提升幅度低3个点。从单次运行中提炼出的指南不仅仅是在给那次运行“打补丁”，而是捕捉到了具备迁移能力的共性规律。</p>
+<p>更有力的证据来自性能较弱的模型gpt-oss-120b。同任务下的Pass^5在一个低得多的基线基础上提升了6.0个百分点（从10.1%提升至16.1%）——而且有趣的是，在相似任务上的泛化提升幅度（+8.7个百分点）甚至超过了同任务自身的增幅，这表明这些指南捕捉到了真正可复用的失败模式，而不是仅仅死记硬背某一特定轨迹的细节。</p>
+<p>欢迎试用ALTK-Evolve工具包——该开源代码库现已收录本次实验所使用的一致性分析器（Consistency Analyzer）和一致性指南生成工具——亦可阅读arXiv上的技术报告了解完整的方法论。</p>
+<p>如果您对“在自己任务上无法复现的准确率数字”感到似曾相识，我们很乐意倾听——您自身智能体中那些容易出现反复（flip-prone）行为的具象实例，正是引导我们下一步构建方向的关键反馈。欢迎提交Issue或发起讨论。</p>
+<p>来自该作者的更多内容</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hugging Face (开源模型社区)】于 2026-09-16 00:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hugging</span>
+</div>
+
+<div class="news-card-footer"><a href="https://huggingface.co/blog/ibm-research/altk-evolve-consistency" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hugging Face (开源模型社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-he-devils-gentle-monster-95427453b31bc24a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1908" data-content-paragraphs="8" data-published-at="2026-09-15T16:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 00:00</span>
+</div>
+
+### [《Vintage Violence》是一部写给“手机瘾君子”的荒诞犯罪惊悚片](https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Vintage Violence is an absurdist crime thriller for phone addicts</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Vintage_Violence_03.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="《Vintage Violence》是一部写给“手机瘾君子”的荒诞犯罪惊悚片" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来自该话题的文章将被添加到您的每日邮件摘要与主页动态中。<br />查看全部娱乐资讯<br />查看全部影评<br />2026年多伦多国际电影节（TIFF）影评：《Vintage Violence》、肯·罗素执导的《魔鬼》（The Devils）4K修复版，以及《温和的怪物》（Gentle Monster）。<br />来自该作者的文章将被添加到您的每日邮件摘要与主页动态中。<br />查看安德鲁·韦伯斯特（Andrew Webster）的全部文章</p>
+<p>有许多电影曾尝试将现代科技——短信、网络直播等——天衣无缝地融入叙事之中。其中一些最新奇的尝试出现在类型片领域，比如Twitch风格的恐怖片《致命直播》（Deadstream）。但迄今为止最混乱狂放的一部，可能当属《Vintage Violence》，这是一部充斥着大量鲜血、笑料和屏幕时间的荒诞犯罪惊悚片。</p>
+<p>我在多伦多国际电影节的第五天观看了导演尤金·科特利亚连科（Eugene Kotlyarenko）的这部新作《Vintage Violence》。科特利亚连科此前曾在2020年的《网诱惊魂》（Spree）中探讨过我们这种高度互联的文化，在片中，《怪奇物语》演员乔·基瑞饰演一名网约车司机，他在直播犯罪的同时开始谋杀乘客。但《Vintage Violence》更进一步，试图在电影放映过程中复制人们时刻离不开手机的真实状态。片中的信息量极大，但我非常喜欢它。遗憾的是目前还没有预告片能让你更直观地感受银幕上的呈现效果，不过等官方发布预告片时我一定会分享出来。</p>
+<p>《Vintage Violence》是我在2026年多伦多电影节第五天观看的三部电影之一；其余两部是一部邪典经典的4K修复版，以及一部即将在Netflix上线的极具毁灭性力量的剧情片。以下是我对这三部电影的看法。</p>
+<p>尚未确定院线上映日期<br />仅从前提设定来看，你就能看出这部电影有多荒诞不经。卡特（Carter，科尔·斯普罗斯 Cole Sprouse 饰）是一位名誉扫地的“野兽先生”（MrBeast）式网红，他在直播时偶然发现了一批古着李维斯（Levi&#39;s）牛仔裤，其粉丝和泉（Izumi，水原希子 Kiko Mizuhara 饰）建议他来东京转卖这批牛仔服以牟取暴利。当他抵达东京后，几乎每个人都在搞某种骗局——日本极道很快卷入其中，包括一名装有假中指的打手——剧情的发展就像是一部略微克制、但依然残暴血腥的三池崇史电影。然而，真正让《Vintage Violence》脱颖而出的，是它在主片画面旁始终不间断地展示角色在手机上的所作所为。这意味着从发短信、做直播到听鲸鱼叫声放松身心的一切活动都会同屏呈现。这可能会让人眼花缭乱且难以兼顾——有那么一刻，当旁边正在上演动作戏时，我还在费劲地阅读Kick直播间的弹幕——但这在某种程度上也正是导演想要表达的核心。</p>
+<p>10月16日院线上映<br />《魔鬼》属于那种我一直想看却始终抽不出时间看的邪典经典之一。而这次全新的4K院线重映版正是一个完美的契机。《魔鬼》最初于1971年上映，以超现实且令人不安的手法讲述了17世纪法国一座独立小镇上的巫术审判事件。该镇由一位英俊非凡的牧师（奥利弗·里德 Oliver Reed 饰）管理，他公开反抗一位权势显赫的红衣主教，在有关恶魔附身的传言传出后，全镇迅速陷入彻底的歇斯底里狂热，教会趁机抓住这一点企图扳倒这位牧师。这个版本不仅经过了数字化修复，更是导演剪辑版——被定为NC-17级——鉴于我之前从未看过该片，虽然我说不出新添了哪些内容，但我必须说这部电影完全没有岁月留下的褪色感，引人入胜且令人深感不安的镜头与关于政治与宗教纠缠之危险的辛辣故事融为一体。在4K画质下，冷峻严肃的建筑风格和令人不适的暴力场面在银幕上极具视觉冲击力。</p>
+<p>10月30日院线上映；11月18日上线Netflix<br />玛丽·克鲁泽（Marie Kreutzer）的最新故事长片是一部沉重压抑的作品。影片讲述了一个原本幸福的年轻家庭在一夕之间分崩离析的故事：某天警方突然突击搜查了他们的乡间住宅，因一起儿童性虐待材料（CSAM）调查而没收了父亲的电子设备。故事主要聚焦于母亲露西（Lucy，蕾雅·赛杜 Léa Seydoux 饰），她是一位钢琴家，痛苦地挣扎于是否要接受一个可能彻底颠覆她整个世界的残酷真相。《温和的怪物》出色地缓缓引领观众体会露西对当下局面的复杂、混乱且不断变化的心路历程，而赛杜原始、直击人心的精湛演技更是让本片立足的核心，她在希望这一切只是场误会与拼尽全力保护儿子之间摇摆不定。这是一部杰作，但绝对会让你久久无法释怀。</p>
+<p>免费每日精选新闻摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-16 00:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--breaches-of-2026-so-far-7d4394af2ddf23aa" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4955" data-content-paragraphs="50" data-published-at="2026-09-15T16:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 00:00</span>
+</div>
+
+### [泄密、数据泄露与勒索信：盘点2026年迄今最严重的网络攻击事件](https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far</div>
+
+<div class="article-body" data-article-body="true"><p>如果说有什么不同的话，那就是2026年已经清楚地表明，网络安全不再是一个处于次要地位的担忧。如今，安全问题已经成为许多对话的核心与焦点，几乎贯穿了今年的每一个重大事件。</p>
+<p>不平等现象依然普遍，气候状况正在恶化，我们似乎离下一次全球大流行病只有一次危险喷嚏的距离。但在这一切之下涌动着一股触及方方面面的数字暗流：战争不仅在物理前线打响，也在数字前线展开；政府正将公民自身的数据作为对抗他们的武器；僵尸网络正在悄然削弱民主机构；国家级黑客正将从电网到供水系统等民用基础设施作为攻击目标；勒索软件团伙正将企业和机构扣为人质以索取巨额赎金。攻击正变得越来越大胆、更具破坏性，也更难以遏制。</p>
+<p>当我们步入这个充斥着数字攻击和混合战争且已经骇人听闻的一年的最后一个季度时，以下是迄今为止发生的一些最严重的黑客攻击和数据泄露事件，以及它们在未来可能对我们产生的影响。</p>
+<p>在埃隆·马斯克领导的被称为“政府效率部”（简称 DOGE）的政府破坏行动小组席卷并从内部瓦解联邦机构一年多之后，我们仍在陆续了解在他们监管下发生的数据疏漏。</p>
+<p>在 DOGE 进入社会保障署之后，由于联邦法院的诉讼仍在进行中，目前尚不清楚该国一些最敏感的数据遭遇了什么。一位联邦举报人提出的最令人震惊的指控是，DOGE 将一份社会保障数据库的实时副本上传到了一个不安全的第三方服务器，这引发了一场搞清楚该服务器上存储了什么的混乱调查。据称，该数据库包含大多数健在美国人的社会保障号码及相关个人信息。</p>
+<p>在法庭文件中，社会保障署并不确定服务器上有什么，但表示 DOGE 以寻找选民欺诈证据为借口与一家外部政治倡导团体签署了一项协议，而特朗普总统在没有任何证据的情况下继续宣称存在此类欺诈。人们担心该数据库可能被滥用，出于不可告人的虚假理由对美国人进行针对性攻击。</p>
+<p>正在调查 DOGE 在社会保障署部分活动的两位众议院民主党高层表示，此次泄露“很可能是我们国家历史上最大的数据泄露事件”。</p>
+<p>欧洲各地发生的一系列针对发电厂和水坝等民用能源及供水设施的网络攻击，引发了一种令人不安的趋势。</p>
+<p>几起归咎于（或部分归咎于）俄罗斯的黑客攻击，已对社区和民众造成了现实世界的危害风险。去年年底，波兰电网遭遇了具有计算机破坏能力的恶意软件攻击，瑞典的一家热电厂以及挪威的一座水坝也是如此，后者泄出了相当于整座游泳池储水量的水。</p>
+<p>随后在今年早些时候，俄罗斯黑客瞄准了波兰的污水处理厂，这表明莫斯科的混合战争敌对行动继续延伸至数字领域之外。</p>
+<p>如今，由于美以近期对伊朗发动的战争，为伊朗政权工作的黑客正积极攻击全美各地的关键基础设施，企图借机扰乱街区和社区。网络安全与基础设施安全局（CISA）表示，伊朗黑客在今年夏季瞄准了100多家供水服务商，包括私营供水公用事业机构，由于它们往往缺乏基础资金和网络安全防护，因此仍然是一个脆弱的目标。</p>
+<p>市场研究提供商 Klue 陷入了一起涉及近200家公司的严重数据泄露事件的漩涡中心，受害企业中包括 Jamf、HackerOne 和 LastPass 等数家网络安全巨头。这是今年波及范围最广的数据泄露事件之一，影响了 Klue 的众多客户。而就在不到一年前，该公司为了全力押注人工智能而裁减了一半员工。</p>
+<p>Klue 承认，一个名为 Icarus 的勒索团伙利用其在2022年为一次有限试点发放的凭证侵入了其系统。因此，在凭证被盗并用于入侵系统之前，该公司似乎有大约四年的时间来停用该凭证。在这次数据泄露中，Klue 泄露了其客户云服务的密钥，使黑客得以侵入并窃取这些数据存储，从而向这些公司敲诈勒索赎金。</p>
+<p>尽管政府和研究人员经常敦促受害者不要支付赎金以防黑客从网络犯罪中获利，但 Klue 告诉客户，它已与黑客达成协议不公开被盗数据——这强烈暗示它已经向黑客付款。</p>
+<p>但作为协议的一部分，黑客承认另一个黑客组织也掌握了 Klue 客户的部分数据，并敦促这些受害者公司不要向后者付款。</p>
+<p>什么时候黑客攻击才不算是真正的黑客攻击？答案是：只要通过开口索要就能获得访问权限的时候。2026年初，当数千个 Instagram 账户遭到劫持时发生的就是这种情况，因为有人滥用了 Meta 的 AI 聊天机器人来重置他人的账户密码。</p>
+<p>这起最先由 404 Media 报道的劫持事件持续了数月之久，直到关于该漏洞的消息开始在网上传播后才引起注意。这种攻击在执行上非常简单：攻击者冒充目标，与 Meta 的 AI 聊天机器人展开对话，并谎称自己被锁在账户之外。通过要求聊天机器人将密码重置验证码发送至攻击者选择的电子邮件地址，攻击者便获得了受害者账户的访问权限。</p>
+<p>在这一不当访问被发现并切断之前，该事件波及了数万个账户。对于这家全球最大的科技巨头之一而言，这是一起令人尴尬且引人注目的安全——以及信任——过失。</p>
+<p>美国联邦调查局（FBI）在4月份发现其一套监控系统遭到破坏后，被迫宣布发生了一起“重大网络安全事件”，并依法向国会进行了披露。根据报道，该安全漏洞可能泄露了联邦特工监控目标的电话号码。</p>
+<p>数月后的8月，美国烟酒枪炮及爆炸物管理局（ATF）证实了自身发生的一起“重大事件”，并向国会单独进行了披露。一个勒索软件团伙声称对此次系统入侵负责，该执法机构称该系统包含“ATF 调查目标”的信息。</p>
+<p>一系列针对开源开发者持续、并发且偶有重叠的攻击，导致了针对大型科技公司及其客户的惨重黑客攻击。</p>
+<p>今年，包括 Aqua Security 旗下的 Trivy 工具、Bitwarden、Checkmarx 以及其他主要开源项目在内的一些安全领域的知名工具及项目遭到入侵。黑客通过这些攻击，从任何安装了被植入后门软件副本、或是预装软件自动更新下载了恶意软件的用户电脑中，窃取了密码、凭据及其他敏感令牌。</p>
+<p>这些攻击利用窃取的凭据进一步蔓延，并为入侵依赖受害软件的下游大型公司打开了大门，其中包括人工智能巨头 OpenAI 和网站托管公司 Vercel。欧盟顶级网络安全机构随后证实，在黑客窃取其云密钥后，发生了一起重大数据失窃事件。</p>
+<p>到8月，涉嫌这些重大失窃案的两名黑客在澳大利亚被捕。</p>
+<p>一家名为 IDScan 的身份证明文件核验公司发生的起大规模数据泄露事件，可能波及北美几乎所有驾驶员：黑客在暗网兜售一个搜索引擎，号称能够列出美国和加拿大1.5亿名司机的照片，甚至包括率先报道该事件的记者的照片。</p>
+<p>该公司不久后证实了这起数据外泄事件，但相关细节仍在陆续浮出水面。黑客似乎将历时一年窃取的庞大缓存数据作为人质，以此勒索赎金。</p>
+<p>这起外泄事件让涉及公众护照和驾照的数据泄漏名单进一步拉长：从酒店入住系统、汇款应用，到监狱公用电话提供商以及英国签证服务机构，多项服务已导致逾200万人的个人证件泄露。其中许多事件是由简单的安全疏忽造成的，如果遵守了基本的网络安全规范，本可以轻易防范。</p>
+<p>如此大规模的数据外泄发生之际，封闭式社区应用程序和网站正日益依赖“了解你的客户”（KYC）核查，强制用户在获准进入前验证身份。与此同时，各国政府也在推进年龄验证法规，要求成年人在访问互联网大片区域时接受类似的身份核查。</p>
+<p>其中的逻辑在于，泄漏越严重，这些身份核查系统的有效性就越低，因为一旦有人掌握了被盗或泄露的护照或驾照，这些系统就极易被滥用。进一步推行此类身份证件收集系统，势必会导致更多的数据泄露和安全疏忽。</p>
+<p>今年，全美多地分散发生的医疗保健相关数据泄露事件已波及数千万人。2026年已知规模最大的一起事件发生在保险公司 DentaQuest，导致1500万人的健康数据被盗。另一家托管电子病历的公司 CareCloud 也发生重大数据泄露，黑客借此窃取了至少370万人的敏感医疗信息。</p>
+<p>此外，医疗数据与计费巨头 Aesto Health 去年年底发生的一起泄露事件，后来被证实影响了使用其软件的数十家医疗机构和诊所的至少950万名患者。</p>
+<p>玩具制造巨头孩之宝（Hasbro）是大型企业未能对安全事件处置做好准备的最新例证。在3月下旬发现黑客入侵其系统数周后，这家拥有103年历史的公司大部分业务仍处于离线状态，其网站无法访问，且无法为客户提供服务。</p>
+<p>这家旗下拥有变形金刚（Transformers）、小猪佩奇（Peppa Pig）和龙与地下城（Dungeons &amp; Dragons）等知名品牌的公司对该事件语焉不详，包括窃取了哪些数据（如果有的话）以及是否向黑客支付了赎金。但仅业务中断就可能影响该公司的财务状况，在仓促应对该事件的过程中，公司被迫推迟向美国证券交易委员会（SEC）提交季度财报。</p>
+<p>孩之宝在5月表示，黑客已不再处于其系统中，系统恢复工作正在进行中。尽管此次数据泄露仅波及数百名员工，但该事件造成的财务成本以及对其业务的连锁反应很可能在未来几个月内显现。</p>
+<p>黑客团伙 ShinyHunters 继续其攻击活动，通过简单却极其有效的语音钓鱼技术盯上了数十家公司。这些讲英语的黑客擅长假冒 IT 支持人员，或者反过来假扮忘记密码的员工，诱骗企业交出其内部系统的访问权限。</p>
+<p>没有几家公司比教育科技巨头 Instructure 更清楚 ShinyHunters 攻击行动所带来的代价。黑客侵入了该公司的旗舰学习管理系统 Canvas，窃取了超过3000万名师生的私人数据和个人信息。</p>
+<p>尽管联邦调查局（FBI）极力劝阻，Instructure 最终还是支付了赎金。</p>
+<p>这并非 ShinyHunters 黑客锁定的唯一目标。按被窃记录数量计算，该团伙是多起特大泄露事件的幕后黑手：他们从互联网服务提供商 Charter 窃取了约4000万条记录，从嘉年华邮轮（Carnival）窃取了至少600万条客户记录，受害者还涵盖高等教育、金融和政府部门等其他机构。</p>
+<p>今年3月，美国医疗科技公司史赛克（Stryker）遭遇网络攻击，伊朗黑客入侵并一举远程擦除了数万台员工设备的数据，导致该公司运营陷入数天的广泛瘫痪。</p>
+<p>在战争持续的背景下，此次攻击标志着伊朗黑客手法的显著转变：该国从以往侧重于为获取政治利益而进行间谍活动与“黑客入侵并泄密”操作，转向以具有破坏性的主动黑客攻击实施显而易见的战争报复。</p>
+<p>美国政府将此次入侵事件背后的黑客团伙与伊朗情报机构的分支机构联系起来。这起攻击最终对史赛克第一季度的收益造成了实质性影响。</p>
+<p>8月，医疗器械制造商波士顿科学（Boston Scientific）遭遇了类似命运。一起网络攻击切断了该公司的全球网络，造成其业务运营陷入“全球性中断”。这家总部位于马萨诸塞州、生产起搏器等心脏植入物的公司表示，部分患者受到了系统瘫痪的影响，断网还导致其无法发货并创建新订单。</p>
+<p>波士顿科学用了两周时间才从最初的瘫痪中恢复，不过其持续的恢复工作已延续至9月。</p>
+<p>首次发布于6月8日，并于7月7日及9月15日再次更新。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
+<p>可通过 Signal 发送加密信息联系作者，账号为 zackwhittaker.1337。您也可以通过电子邮件与他联系，或向 zack.whittaker@techcrunch.com 验证联络信息。</p>
+<p>展位预订截止日期为9月18日。切勿错过在 Disrupt 博览厅获取高价值潜在客户、对接投资者以及提升品牌曝光度的良机。</p>
+<p>Revolut 证实因虚假政府请求导致客户数据泄露</p>
+<p>因 Astra 需求激增，OpenAI 暂停 Pro 订阅服务</p>
+<p>Bending Spoons 将以 13.6 亿美元收购协作工具制造商 Miro，相较其 2022 年估值缩水 90%<br />身份核验巨头 IDScan 证实遭遇数据外泄，超过 1.5 亿份驾照信息被窃<br />Automattic 董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）暂时停职休假<br />苹果推出其首款折叠屏设备 iPhone Duo<br />“拿我们的生命作赌注”：Anthropic 一名研究人员辞职，并就自我提升型人工智能发出警告</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-16 00:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--xs-latest-legal-actions-c112a968e9ef6776" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1262" data-content-paragraphs="20" data-published-at="2026-09-15T15:49:18.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 23:49</span>
+</div>
+
+### [在 X 采取最新法律行动后，Nitter 与 XCancel（再次）宣告停摆](https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Nitter and XCancel are dead (again) after X’s latest legal actions</div>
+
+<div class="article-body" data-article-body="true"><p>在 X 上个月威胁采取法律行动后，用于浏览 X 帖子的注重隐私的服务 Nitter 和 XCancel 似乎正式停摆了——这次是真的。</p>
+<p>Nitter 是一个允许人们在不登录的情况下阅读 X 帖子的开源项目，此前一直用于为 XCancel 等多项服务提供支持。但上个月，X 向 Nitter 发出了停火止损函（cease-and-desist letter），指控其“非法使用并规避”X 的 API 及相关数据。</p>
+<p>从本质上讲，X 表示 Nitter 抓取了该社交网络的数据以访问账户和会话令牌，违反了其平台规则。</p>
+<p>尽管面临威胁，Nitter 曾在此前的 GitHub 页面上表示“在听取法律建议后，Nitter 项目将继续推进”，并承诺很快会公布更多细节。9 月初，在经历短暂暂停后，Nitter 和 XCancel 均曾重新恢复运行。</p>
+<p>遗憾的是，自那之后情况发生了变化。</p>
+<p>Nitter 的 GitHub 页面已于 9 月 11 日星期五被归档，表明其目前处于只读状态，无法再进行修改或更新。与此同时，XCancel 于周一关闭了其服务，并在其主页上发布了一条新消息：“遗憾的是，由于正在进行的法律程序出现新进展，我们需要再次暂停本服务，直至另行通知。”</p>
+<p>然而，对 X 来说，这并不算理想局面，因为该平台不希望人们在无法通过广告实现流量变现的情况下访问其内容。这也是为什么推特在多年前就禁止第三方应用访问其内容，顺带彻底消灭了 Twitterrific 和 Tweetbot 等流行服务。</p>
+<p>这并非 X 首次试图关停 Nitter，但这次似乎奏效了。早在 2024 年，在 X 推出新的 API 限制后，Nitter 的主要实例 Nitter.net 就曾一度下线。在那次打击之后，任何想要托管 Nitter 实例的人都必须将其与真实的 X 账户绑定。</p>
+<p>对于“潜水者”而言，这些服务的关停令人沮丧，因为它们曾提供了一种能够查看 X 上正在发生的事情，同时又不必实际参与 X 或帮其增加用户数量的途径。</p>
+<p>Nitter 未回应置评请求。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>消费新闻编辑</p>
+<p>预订展位的最后一天是 9 月 18 日。不要错过在 Disrupt 展厅获得高影响力潜在客户、对接投资者以及提升品牌曝光的机会。</p>
+<p>Revolut 证实因虚假政府请求导致客户数据泄露</p>
+<p>OpenAI 因 Astra 需求火爆暂停 Pro 订阅</p>
+<p>Bending Spoons 将以 13.6 亿美元收购协作工具制造商 Miro，较其 2022 年估值缩水 90%</p>
+<p>身份验证巨头 IDScan 证实数据泄露，超过 1.5 亿份驾照遭窃</p>
+<p>Automattic 董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假</p>
+<p>苹果发布其首款折叠屏手机 iPhone Duo</p>
+<p>“拿我们的生命做赌注”：Anthropic 研究员辞职，警告防范自我改进型人工智能</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-15 23:49 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

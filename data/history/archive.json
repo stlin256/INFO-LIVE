@@ -1,5 +1,1580 @@
 [
   {
+    "timestamp": 1789496412972,
+    "timeDisplay": "2026-09-16 02:20 (UTC+8)",
+    "date": "2026-09-16",
+    "runId": "feed-20260915T181723921Z-1b3h13",
+    "generatedAt": "2026-09-15T18:20:12.972Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 02:17",
+      "lead": "本轮抓取于 2026-09-16 02:17 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】SpaceX将于9月22日首次尝试将“星舰”送入轨道：SpaceX周二宣布，已准备好对其巨型火箭“星舰”（Starship）进行第14次试飞，这一次该公司终于将首次尝试将其第二级（上级）送入地球轨道。",
+        "【undefined】卫报社论：关于露西·莱特比案，瑟尔沃尔本应等待待定的案件复审：针对新生儿护理的重要建议，被笼罩在对涉案护士定罪的质疑阴影之下。",
+        "【undefined】最适合初学者的3D打印机之一现降价近100美元：Centauri Carbon 2 将耗材存放在机身外部，以便在成型空间内安装特氟龙管（bowden tube）。| 图片来源：The Verge",
+        "【undefined】Betr 优惠码 FOXNEWS：在今日 MLB 焦点战前领取 200 美元奖励金：今天没有重大的美式橄榄球赛事，作为体育博彩玩家，棒球成为了我们关注的核心。球员个人数据盘口（Props）、三振、安打、得分等丰富内容应接不暇，吸引着我们参与投注。Betr 为新用户提供了一次机会：只要在今晚的 MLB 赛事上下注，使用优惠码 FOXNEWS 即可获得 200 美元的奖励投注金。",
+        "【undefined】AI智能体如今有了“告密”专用渠道：“看到可疑情况，就要说出来”这句名言不再仅适用于人类了。",
+        "【undefined】露西·莱特比所在医院“毁灭性”报告出炉，大臣誓言对英国国民保健制度进行大刀阔斧改革：瑟尔沃尔法官（Lady Justice Thirlwall）的报告得出结论，如果医院早前对针对护士的担忧采取行动，三名婴儿原本可能得以幸存。",
+        "【undefined】洲际交易所原油走高 布伦特原油期货价格突破每桶109美元：塔斯社莫斯科9月15日电 市场数据显示，周二伦敦洲际交易所（ICE）11月交割的布伦特原油期货价格上涨逾3.5%，突破每桶109美元关口。",
+        "【undefined】特朗普特使：美国无法相信默茨的话：华盛顿，9月15日。/塔斯社/。美国总统特别任务特使理查德·格雷内尔表示，美国无法相信德国总理弗里德里希·默茨的话。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-16",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】SpaceX将于9月22日首次尝试将“星舰”送入轨道：SpaceX周二宣布，已准备好对其巨型火箭“星舰”（Starship）进行第14次试飞，这一次该公司终于将首次尝试将其第二级（上级）送入地球轨道。；【undefined】卫报社论：关于露西·莱特比案，瑟尔沃尔本应等待待定的案件复审：针对新生儿护理的重要建议，被笼罩在对涉案护士定罪的质疑阴影之下。；【undefined】最适合初学者的3D打印机之一现降价近100美元：Centauri Carbon 2 将耗材存放在机身外部，以便在成型空间内安装特氟龙管（bowden tube）。| 图片来源：The Verge"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】Betr 优惠码 FOXNEWS：在今日 MLB 焦点战前领取 200 美元奖励金：今天没有重大的美式橄榄球赛事，作为体育博彩玩家，棒球成为了我们关注的核心。球员个人数据盘口（Props）、三振、安打、得分等丰富内容应接不暇，吸引着我们参与投注。Betr 为新用户提供了一次机会：只要在今晚的 MLB 赛事上下注，使用优惠码 FOXNEWS 即可获得 200 美元的奖励投注金。"
+        },
+        {
+          "name": "⚡ 战略能源与气候",
+          "analysis": "【undefined】洲际交易所原油走高 布伦特原油期货价格突破每桶109美元：塔斯社莫斯科9月15日电 市场数据显示，周二伦敦洲际交易所（ICE）11月交割的布伦特原油期货价格上涨逾3.5%，突破每桶109美元关口。；【undefined】美国柴油价格有望创下年度历史新高：美国柴油价格刚刚突破了2022年创下的周度历史纪录，并且触及2026年年度均价历史新高也已近在咫尺。汽油价格虽然仍处高位，但目前来看不太可能创下新的年度纪录。美国能源信息署（EIA）的最新数据进一步凸显了这种分歧。截至9月7日当周，全美公路柴油价格跃升36.8美分，达到每加仑5.967美元，超过了2022年6月创下的每加仑5.810美元的名义周度高点。普通汽油上涨8.6美分至4.157美元，仍远低于2022年6月创下的5.006美元周度"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】.NET 11 中的性能提升：在《办公室》（The Office）和《公园与游憩》（Parks and Recreation）等电视剧将伪纪录片（mockumentary）形式牢牢烙印在数百万观众心中之前，克里斯托弗·客座（Christopher Guest）就已经活跃在这一领域了。他并不是这种流派的开创者，但他被公认为是其中最具影响力的践行者之一，在我看来，更是无人能出其右。我看过无数遍《等待古夫曼》（Waiting for Guffman）和《爱犬大赛》（Bes；【undefined】将20美元的4G无线热点改装为打字通讯设备：亦称：我们家里自制版 Clicks Communicator。 我这人不太会收纳整理东西。我虽然试过去整理，但桌上往往堆满了各种杂物。从全球速卖通（AliExpress）买的各种零件、我正在折腾的项目，一直到各类礼物和还没来得及找地方放的东西，应有尽有。 这个项目正是由此诞生的。当时，我的桌子上正巧摆着这么几样东西： 当然，我那原始人一般的脑瓜一下子就把这三样东西组合到了一起。 好吧，好吧，老实说，我可能多少也是受到了已知一些信息的启发；【undefined】我是如何在不懂原理的情况下写出一个 Forth 的：前情提要：什么是 Forth？"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 108,
+      "completedTasks": 108,
+      "succeeded": 94,
+      "degraded": 14,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 108,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 168975,
+      "byRole": {
+        "translator": {
+          "attempts": 77,
+          "succeeded": 65,
+          "degraded": 12
+        },
+        "fact-extractor": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "topic-classifier": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 108,
+          "succeeded": 94,
+          "degraded": 14
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-5-translator-0",
+      "article-10-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-26-translator-0",
+      "article-27-translator-6",
+      "article-38-translator-0",
+      "article-40-translator-0",
+      "article-44-translator-0",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:05.830Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.382Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:05.841Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.362Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.918Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.285Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.058Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.519Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.517Z",
+        "lastSuccessAt": "2026-09-15T18:17:09.895Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.392Z",
+        "lastSuccessAt": "2026-09-15T18:17:09.769Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:10.439Z",
+        "lastSuccessAt": "2026-09-15T18:17:10.942Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.170Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.918Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.358Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.485Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.285Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.545Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.878Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.073Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.589Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.058Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.382Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.900Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.426Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.878Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:09.895Z",
+        "lastSuccessAt": "2026-09-15T18:17:11.235Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.822Z",
+        "lastSuccessAt": "2026-09-15T18:17:10.748Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:09.769Z",
+        "lastSuccessAt": "2026-09-15T18:17:10.418Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.434Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.819Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.913Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.189Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.900Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.209Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.129Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.170Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:05.177Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.129Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.776Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.080Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.649Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.016Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.485Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.776Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.770Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.958Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.003Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.517Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.422Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.523Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:09.988Z",
+        "lastSuccessAt": "2026-09-15T18:17:11.884Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.819Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.937Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.090Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.608Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.016Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.241Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.241Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.822Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:10.418Z",
+        "lastSuccessAt": "2026-09-15T18:17:10.745Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.073Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.422Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.440Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.090Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.545Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.770Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.157Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.806Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.987Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.392Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-15T18:17:07.958Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:05.175Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.358Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-15T18:17:08.080Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:05.176Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.913Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.554Z",
+        "lastSuccessAt": "2026-09-15T18:17:10.632Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.523Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.987Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:06.362Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.589Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.937Z",
+        "lastSuccessAt": "2026-09-15T18:17:08.003Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.519Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.649Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.608Z",
+        "lastSuccessAt": "2026-09-15T18:17:09.988Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:08.806Z",
+        "lastSuccessAt": "2026-09-15T18:17:10.439Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.209Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.440Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:07.189Z",
+        "lastSuccessAt": "2026-09-15T18:17:07.434Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:05.160Z",
+        "lastSuccessAt": "2026-09-15T18:17:05.830Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:05.173Z",
+        "lastSuccessAt": "2026-09-15T18:17:05.841Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T18:17:05.174Z",
+        "lastSuccessAt": "2026-09-15T18:17:06.426Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-15-tromb-2117899883-html-530b72d9dd460fa0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Врач назвал факторы, повышающие риск образования тромбов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-15T18:14:56.000Z",
+        "pubTime": "2026-09-16 02:14",
+        "url": "https://ria.ru/20260915/tromb-2117899883.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/03/12/2005796734_0:160:3072:1888_650x0_80_0_0_cf0cea5ab99b4f9ac514dd885d26d787.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 02:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260915/tromb-2117899883.html",
+            "publishedAt": "2026-09-15T18:14:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rst-time-on-september-22-cfb83b1ced8d4e86",
+        "title": "SpaceX将于9月22日首次尝试将“星舰”送入轨道",
+        "originalTitle": "SpaceX will try to put Starship in orbit for the first time on September 22",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:16:07.000Z",
+        "pubTime": "2026-09-16 02:16",
+        "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+        "imageUrl": null,
+        "fullContent": "SpaceX is ready to perform the 14th test flight of its Starship mega rocket, and this time the company will finally try to put the upper stage into Earth’s orbit for the first time, the company announced Tuesday.\n\nThe test launch is scheduled for September 22, with a 75-minute launch window opening at 7:15 a.m. CT. During the test launch, SpaceX plans to deploy the first batch of third-generation Starlinks into its network of 10,000 internet satellites. The company expects to launch 26 V3 satellites into orbit in this test flight.\n\nIf successful, this will be the first Starship launch to generate revenue for SpaceX’s launch division (even if that revenue is coming from another division of the company).\n\nThis will be the second Starship test launch since SpaceX became a publicly traded company in the largest IPO in history in June. The first came in July, when SpaceX successfully deployed V3 Starlink satellites for the first time — though those were only meant to test Starship’s deployment capability and burned up in the Earth’s atmosphere after roughly 20 minutes.\n\nGetting Starship’s upper stage into orbit around the Earth would represent a major milestone for SpaceX. The company has spent billions of dollars on the program and is now looking to retire its Falcon 9 and Falcon Heavy rockets in favor of Starship. Founder and CEO Elon Musk has said that will happen once Starship is flying “reliably several times per week” to save “scarce SpaceX engineering and production resources.”\n\nSpaceX needs Starship to reliably reach orbit, return to Earth, and get quickly re-used to fulfill the massive launch cadence promises that it made during the IPO process.\n\nStarship’s 14th test flight will only test the first part of that equation, though. Musk recently walked back previous claims that SpaceX might try to use its launch tower to catch the Starship upper stage during this flight, saying an explosion would be too big a setback for the company at this point.\n\nSpaceX also won’t try to catch the Super Heavy booster this time. The company has struggled with the booster during its last few test flights and has made multiple changes to try to prevent failures. Yet the booster still struggled to properly re-light its engines after separating from the Starship upper stage on Flight 13 in July. For this mission, SpaceX said Tuesday that it made another round of “several modifications” to the booster’s hardware and software to “address issues seen on the previous flight.”\n\nSpaceX had far more success with the upper stage of Starship on Flight 13. While it did not reach orbit, it had a smooth flight through a simulated landing in the Indian Ocean. The upper stage didn’t even explode when it tipped over into the water, allowing SpaceX to spend the last few months capturing and slowly towing it back to its Texas headquarters.\n\nSpaceX said Tuesday that it has made additional changes to the Starship heat shield based on what it learned from studying the recovered upper stage from Flight 13.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSr. Reporter, Transportation\n\nSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\n\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\n‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "fullTranslation": "SpaceX周二宣布，已准备好对其巨型火箭“星舰”（Starship）进行第14次试飞，这一次该公司终于将首次尝试将其第二级（上级）送入地球轨道。\n\n试射定于9月22日进行，为期75分钟的发射窗口将于美国中部时间上午7点15分开启动。在这次试飞中，SpaceX计划向其拥有1万颗卫星的互联网网络中部署首批第三代星链（Starlink）卫星。该公司预计将在本次试飞中将26颗V3卫星送入轨道。\n\n如果成功，这将是“星舰”首次为SpaceX的发射部门创造收入（即便该收入来自公司的另一个部门）。\n\n这将是SpaceX在6月完成历史上规模最大的IPO并成为上市公司以来的第二次“星舰”试飞。第一次是在7月，当时SpaceX首次成功部署了V3星链卫星——不过那些卫星仅用于测试“星舰”的部署能力，并在大约20分钟后在地球大气层中烧毁。\n\n将“星舰”的上级送入环绕地球的轨道对SpaceX来说将是一个重大里程碑。该公司已在该项目上耗资数十亿美元，目前正寻求退役其“猎鹰9号”（Falcon 9）和“猎鹰重型”（Falcon Heavy）火箭，全面转向“星舰”。创始人兼首席执行官埃隆·马斯克（Elon Musk）曾表示，一旦“星舰”能够“每周可靠飞行数次”，以节省“SpaceX稀缺的工程与生产资源”，退役计划就会实现。\n\nSpaceX需要“星舰”能够可靠地入轨、返回地球并迅速复用，以兑现其在IPO期间许下的庞大发射频次承诺。\n\n不过，“星舰”的第14次试飞将仅测试这一目标的第一部分。马斯克最近收回了此前关于SpaceX可能尝试在本次飞行中使用发射塔捕捉“星舰”上级的说法，称此时发生爆炸对公司而言将是太大的挫折。\n\nSpaceX这次也不会尝试捕捉超重型（Super Heavy）助推器。该公司在最近几次试飞中一直受困于助推器问题，并进行了多项修改以防失败。然而，在7月的第13次试飞中，助推器在与“星舰”上级分离后仍未能正常重新点燃发动机。针对本次任务，SpaceX周二表示，已对助推器的硬件和软件进行了又一轮“若干修改”，以“解决上次飞行中发现的问题”。\n\nSpaceX在第13次试飞中对“星舰”上级的测试要成功得多。虽然它当时没有入轨，但在印度洋模拟着陆过程中的飞行十分平稳。上级在倾覆落水时甚至没有爆炸，使得SpaceX得以在过去几个月里将其打捞并缓缓拖回得克萨斯州总部。\n\nSpaceX周二表示，根据对从第13次试飞中回收的上级研究所获得的经验，它对“星舰”的热防护罩进行了进一步的改进。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n交通领域资深记者\n肖恩·奥凯恩（Sean O’Kane）是一名记者，过去十年一直报道交通行业快速演进的商业和技术，包括特斯拉以及追赶埃隆·马斯克的众多初创公司。此前，他是彭博新闻社（Bloomberg News）的记者，协助报道了一些最臭名昭著的电动汽车SPAC惨败事件。他早前曾在The Verge工作，在那里他还报道过消费科技、主持过多部短视频和长视频、拍摄产品与编辑摄影，并曾在一架红牛特技飞行锦标赛飞机上差点昏厥。\n\n您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过 Signal 发送加密消息至 okane.01 联系肖恩或核实其联络信息。\n\n预订展位的最后截止日期是9月18日。切勿错过在Disrupt展厅中获得高影响力销售线索、接触投资者以及品牌展示的机会。\n\nRevolut证实因伪造政府请求遭遇客户数据泄露\n因Astra需求激增，OpenAI暂停Pro订阅服务\nBending Spoons拟以13.6亿美元收购协作工具制造商Miro，较其2022年估值缩水90%\n身份核验巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照信息被盗\nAutomattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假\n苹果发布首款折叠屏手机iPhone Duo\n“拿我们的生命作赌注”：Anthropic研究员辞职，警告警惕具备自我改进能力的AI",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "SpaceX准备进行Starship大型火箭的第14次试飞，并计划首次尝试将上级送入地球轨道。",
+          "第14次试飞定于9月22日进行，发射窗口为75分钟，于美国中部时间上午7:15开启。",
+          "来源叙事重点：关注Starship第14次试飞在商业变现与技术验证上的关键节点，重点将技术进展与SpaceX上市后的商业承诺、履约压力以及风险规避策略（取消捕获尝试）相联系。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:16:07.000Z",
+            "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/"
+          }
+        ]
+      },
+      {
+        "id": "story-cks-on-saudi-arabia-html-a0bfa53332b577e9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The New ‘Mecca Alliance’ Warns Iran Over Houthi Attacks on Saudi Arabia",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:00:00.000Z",
+        "pubTime": "2026-09-16 02:00",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/The-New-Mecca-Alliance-Warns-Iran-Over-Houthi-Attacks-on-Saudi-Arabia.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nUS Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days\n\nPakistan has strengthened ties with…\n\nIraq secured major U.S. investment…\n\nIran’s war with the United…\n\nSimon Watkins is a former senior FX trader and salesman, financial journalist, and best-selling author. He was Head of Forex Institutional Sales and Trading for…\n\nDespite the official Iranian view reiterated last week that it “does not control the Houthis [in Yemen]”, it was senior Islamic Revolutionary Guard Corps (IRGC) commanders in Tehran who ordered the 8 September attacks on Saudi Arabia, while several IRGC officers and men on the ground in Yemen co-ordinated the strikes, a senior source in the European Union’s (EU) energy security complex exclusively told OilPrice.com. “The IRGC’s been funding, arming, and training the Houthis for years, and frequently advises it in live, high-profile missile strikes on the ground, as happened here,” he added. “It went well from their [Iran’s and the Houthis’] perspective, so there will be more, unless this new defence alliance succeeds in stopping it,” he added.\n\nThis Makkah Defence Alliance was officially formed on 7 August this year, comprising Saudi Arabia, Turkey, and Pakistan, and explicitly modelled around the core collective defence principle enshrined in NATO’s Article 5 -- that is, that an armed attack on one member shall be considered an attack against them all. Broadly speaking, Saudi Arabia brings deep financing ability and a vast network of regional intelligence contacts to the grouping. Turkey -- itself a member of NATO and tied into the U.S. and its key Western allies -- has advanced military hardware, high-tech defence equipment, and a well-established production line for artillery and drones to the alliance. And Pakistan provides a huge frontline military and nuclear weapons. Pakistan’s Defence Minister Khawaja Asif stated that its ‘full military capabilities’ would be available under their defence agreements. Subsequently, it was clarified that the Alliance pact is strictly defensive and conventional -- but it does still have the weapons. Related: Libya Threatens Force Majeure as Oil Guards Shut Fields\n\nThe timing of the Alliance’s formation was no accident, coming as it did after the perceived failure by its key allies in the Middle East of the U.S. to provide them with the sort of invulnerability from attack by Iran that they believed they were buying with billions of dollars’ worth of American defence equipment. These have included major repeated Iranian missile and drone attacks on Jordan, the UAE, Kuwait, Qatar, Bahrain, and Oman, including military, commercial, and energy sites. U.S. arms purchases by Saudi Arabia dramatically ramped up after the September 2019 attacks by the Houthis on several of its key oil installations, including its massive Abqaiq oil processing facility and Khurais oil field, as analysed in full in my latest book on the new global oil market order. The combined attacks caused the temporary suspension of 5.7 million barrels per day (bpd), equating to well over half of Saudi Arabia’s crude oil production capacity, and resulted in the biggest rise in oil prices in a single day ever to that point. The fact that even before the latest attacks on it on 8 September this year, Saudi Arabia had been hit several times by the Iran-backed Houthis, had catalysed Riyadh’s belief that it could no longer fully rely on the U.S. for its security and had to build a regional deterrent as well, formed of fellow Sunni Islamic countries.\n\nGiven how successful the 8 September attacks against Saudi Arabia were from the Iranian and the Houthi perspective, it is highly likely that more have been planned, according to the EU security source. “Iran knows that [U.S. President Donald] Trump doesn’t want to see oil prices rise too much more ahead of the [3 November] Mid-Terms [elections], so hitting major oil targets like Saudi reminds him [Trump] of the leverage it [Iran] still has here,” he said. In fact, as also examined fully in in my latest book, historical data shows that every US$10 per barrel or so change in the price of crude oil results in around a 25-30 cent change in the price of a gallon of gasoline. And for every 1 cent that the average price per gallon of gasoline rises, more than US$1 billion or so per year in consumer spending is lost, so damaging the economy. The political importance of this is that since 1896, the sitting U.S. president and his party have won re-election 11 times out of 11 if the economy was not in recession within two years of an upcoming election. However, sitting U.S. presidents who went into a re-election campaign with the economy in recession won only once out of seven occasions. The same pattern pertains to mid-term elections too.\n\n“The recent attacks on Saudi Arabia also remind Washington, and the oil markets, that Iran also has further leverage with the Houthis, who could fully close the Bab el-Mandeb Strait to all global shipping, having so far confined their blockade to Saudi vessels only,” he added. With severe disruption still ongoing to the Strait of Hormuz -- through which roughly 30% of the world's oil and about 20% of its liquefied natural gas (LNG) historically flowed -- any additional pressure on the Bab el-Mandeb Strait (through which up to 12% of the world’s oil and up to 10% of its LNG moved) could cause another dramatic spike in oil prices and perhaps catalyse a major military error from Trump. “It does appear for now that Trump is playing the long game of waiting for the Iranian regime to crumble as the new sanctions on the country and its supporters destroy the economy, but Iran has been dealing with these sorts of things for nearly fifty years, and in the meantime they can cause Trump a lot of damage, and still claim it’s winning,” he added.\n\nThis may be where the new Makkah Defence Alliance proves its worth and, if not, its redundancy. Already, a senior source who works closely with Iraq’s oil ministry exclusively told OilPrice.com last week, Pakistan conveyed a warning to Tehran from Riyadh that the IRGC must stop the Houthis from making any further such attacks on Saudi Arabia. This followed Pakistan’s Defence Minister Khawaja Asif stating on Pakistani TV that attacks spilling into Saudi Arabia could trigger the new joint security arrangement involving Riyadh, Ankara and Islamabad. He reiterated the core guiding principle of the Alliance, saying: “An aggression on one country will be considered an aggression on all three countries.” He added: “There is no ambiguity or doubt... Unprovoked aggression or spillover... into Saudi Arabia will definitely make this agreement operational.” As of now, according to the EU and Iraqi sources, no definitive plan of retaliation has been made by the Alliance following the Houthi attacks on the Kingdom’s southern cities of Abha, Khamis Mushait, Jazan and Najran that reportedly wounded 73 people, including women and children. That said, they add, senior military figures from Pakistan and Turkey met with their Saudi counterparts after 8 September to work on a broad-based plan of action should it become necessary, which would be launched exclusively from Saudi Arabian territory and would not involve Pakistani military on the ground in the Kingdom in the first instance.\n\nBy Simon Watkins for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nHow the U.S. Is Targeting Iran's Oil Money\n\nWTI Breaks $100—and This Rally Has Legs\n\nRussian Mobilization Rumors Ripple Across Central Asia\n\nEurope's \"Less\" Is Doing More Than Anyone Gives It Credit For\n\nCanadian Oil Pushes Deeper Into U.S. Gulf Coast Market\n\nOil Industry Braces for Years-Long Iran War\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "麦加防御联盟（Makkah Defence Alliance）于当年8月7日正式成立，成员国包括沙特阿拉伯、土耳其和巴基斯坦，其原则仿照北约第5条集体防御原则。",
+          "巴基斯坦国防部长赫瓦贾·阿西夫表示其全部军事能力可在该防御协议下调用，并强调对一国的侵略将被视为对三国共同的侵略。",
+          "来源叙事重点：聚焦也门胡塞武装对沙特阿拉伯的袭击背后受伊朗伊斯兰革命卫队直接指使，阐释沙特、土耳其与巴基斯坦新组建的“麦加防御联盟”如何启动威慑，并深度剖析油价上涨与原油海运咽喉风险对美国政治选举的杠杆效应。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:00:00.000Z",
+            "url": "https://oilprice.com/Geopolitics/Middle-East/The-New-Mecca-Alliance-Warns-Iran-Over-Houthi-Attacks-on-Saudi-Arabia.html"
+          }
+        ]
+      },
+      {
+        "id": "story--the-pending-case-review-9326e917e8727fb2",
+        "title": "卫报社论：关于露西·莱特比案，瑟尔沃尔本应等待待定的案件复审",
+        "originalTitle": "The Guardian view on Lucy Letby: Thirlwall should have waited for the pending case review | Editorial",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:59:17.000Z",
+        "pubTime": "2026-09-16 01:59",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-lucy-letby-thirlwall-should-have-waited-for-the-pending-case-review",
+        "imageUrl": "https://i.guim.co.uk/img/media/d09f76621d339df31e7a14f8a5875fd04e751173/87_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=c3de329b12ddad63695bdf827f3ba880",
+        "fullContent": "Important recommendations for neonatal care are shadowed by doubts about the nurse’s convictions\n\nWhen she rejected calls to pause the public inquiry into the Countess of Chester hospital, where Lucy Letby was convicted of murdering seven babies and attempting to murder seven more, Lady Justice Thirlwall said that questions surrounding Letby’s guilt lay outside her terms of reference. The inquiry, she said, would focus on the hospital and its staff, not the convictions. Eighteen months later, with the 822-page report in the public domain, her decision to press on while Letby’s guilt was in the process of being formally challenged looks like a mistake.\n\nThe report’s recommendations , based on many months of hearings, include strengthened oversight of hospitals by the Care Quality Commission, more support for whistleblowers from the health ombudsman, and clearer monitoring and reporting on the deaths of children. As previous inquiries have also found, there are serious problems around accountability, openness and safeguarding in the NHS. Lady Thirlwall’s conclusions about service improvements should be added to the roster of outstanding actions.",
+        "fullTranslation": "针对新生儿护理的重要建议，被笼罩在对涉案护士定罪的质疑阴影之下。\n\n露西·莱特比（Lucy Letby）此前因谋杀7名婴儿及企图谋杀另外7名婴儿而被定罪。当时，在拒绝暂停针对切斯特伯爵夫人医院（Countess of Chester hospital）的公开调查时，瑟尔沃尔女法官（Lady Justice Thirlwall）表示，有关莱特比是否有罪的疑问超出了她的职责范围。她表示，调查将聚焦于医院及其员工，而非定罪本身。18个月后的今天，随着这份长达822页的报告向公众公开，在莱特比的有罪判决正面临正式法律挑战的情况下坚持推进调查，这一决定如今看来像是一个错误。\n\n该报告基于数月的听证会提出的建议包括：加强英国医疗质量委员会（Care Quality Commission）对医院的监管，由卫生监察专员为举报人提供更多支持，以及对儿童死亡情况建立更清晰的监测与报告机制。正如以往的调查所发现的那样，英国国家医疗服务体系（NHS）在问责制、透明度以及安全保障方面存在严重问题。瑟尔沃尔法官关于改善服务的结论，应当被列入亟待采取行动的清单之中。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "露西·莱特比（Lucy Letby）在切斯特伯爵夫人医院被定罪谋杀7名婴儿并企图谋杀另外7名婴儿。",
+          "瑟尔沃尔大法官（Lady Justice Thirlwall）拒绝了暂停对切斯特伯爵夫人医院公开调查的呼吁，并表示调查将集中在医院及其员工上，莱特比是否有罪不在其职权范围内。",
+          "来源叙事重点：强调瑟尔沃尔公开调查虽然提出了具有重要价值的医疗监管与吹哨人制度改革建议，但在莱特比定罪面临正式法律复审挑战之际强行推进调查程序是决策失误，导致改革成果被司法定罪的疑虑所笼罩。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T17:59:17.000Z",
+            "url": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-lucy-letby-thirlwall-should-have-waited-for-the-pending-case-review"
+          }
+        ]
+      },
+      {
+        "id": "story-me-deep-sea-microbe-html-f45083cebe55cc48",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Heat-stable enzyme from deep-sea microbe turns nitrogen gas into ammonia",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:00:06.000Z",
+        "pubTime": "2026-09-16 02:00",
+        "url": "https://phys.org/news/2026-09-stable-enzyme-deep-sea-microbe.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-insight-into.jpg",
+        "fullContent": "Microorganisms can do remarkable things—for example, nitrogen fixation, the conversion of nitrogen gas (N₂) into a form that organisms can use. Although nitrogen gas makes up around 78% of Earth's atmosphere, plants and animals cannot directly use it.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-stable-enzyme-deep-sea-microbe.html",
+            "publishedAt": "2026-09-15T18:00:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2188071-64e42b8f38970fe6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "EU foreign policy chief Kallas says would answer phone call from Russia’s Putin, Lavrov",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:12:27.000Z",
+        "pubTime": "2026-09-16 02:12",
+        "url": "https://tass.com/world/2188071",
+        "imageUrl": null,
+        "fullContent": "STOCKHOLM, September 15. /TASS/. EU foreign policy chief Kaja Kallas said she would answer the phone if Russian President Vladimir Putin or Foreign Minister Sergey Lavrov called her, according to the Finnish television and radio broadcaster Yle.\n\n\"I will certainly talk to them if the opportunity presents itself,\" Kallas told Yle.\n\nKallas also recalled her meetings with Russian Foreign Minister Lavrov at international forums, including at the Association of Southeast Asian Nations and the G20, where, according to her, she \"directly thrusted\" the European Union’s stance upon him.\n\nHowever, the European diplomacy chief reaffirmed the EU's previously announced position that it cannot now act as a full-fledged mediator between Russia and Ukraine, as it keeps supporting the Kiev regime.\n\nRussian Presidential Spokesman Dmitry Peskov recently relayed that Russian President Putin said Russia was ready to negotiate with Europe. But, Peskov pointed out that Brussels was making a mistake, whether out of its foolishness or incompetence, by trying to think of itself as being above Moscow and speaking to it from a position of strength.\n\nRussian Foreign Ministry Ambassador-at-Large Rodion Miroshnik said in an interview with TASS upon his recent work visit to China that representatives of European countries that have invested in financing the Ukrainian armed forces are trying to participate in negotiations on Ukraine only with the aim of disrupting them.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "欧盟外交与安全政策高级代表卡娅·卡拉斯向芬兰广播公司（Yle）表示，如果俄罗斯总统普京或外长拉夫罗夫致电，她会接听电话",
+          "卡拉斯回忆了在东盟和二十国集团等国际论坛上与俄罗斯外长拉夫罗夫会面的经历，并称直接向其阐明了欧盟的立场",
+          "来源叙事重点：重点报道欧盟外交主管卡拉斯愿意接听俄领导人电话的表态，同时着力强调欧盟因偏向乌克兰无法成为调解人，并大篇幅引用俄官方言论抨击欧洲外交的傲慢与破坏谈判倾向"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:12:27.000Z",
+            "url": "https://tass.com/world/2188071"
+          }
+        ]
+      },
+      {
+        "id": "story-switch-joy-con-deal-sale-cce26e775a539cda",
+        "title": "最适合初学者的3D打印机之一现降价近100美元",
+        "originalTitle": "One of the best 3D printers for beginners is almost $100 off",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:02:30.000Z",
+        "pubTime": "2026-09-16 02:02",
+        "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elegoo-Centauri-Carbon-2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "The Centauri Carbon 2 stores the filament on the outside to fit the bowden tube in the build space. | Image: The Verge\n\nIf the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. This capable 3D printer can handle four filament rolls at once, with a fully enclosed printing area, auto-leveling bed, and big touchscreen for easy project management. It’s altogether very capable 3D printer for beginners, or just anyone who doesn’t want to spend a lot of time tinkering with settings just to print occasional trinkets and brackets.\n\nElegoo Centauri Carbon 2 Combo\n\nThe Centauri Carbon 2 is fast and capable right out of the box, though first-time setup is a little involved (I found it tough to get the upper shield and filament hub to fit together, for example). But I really like its fully-enclosed build area, which results in consistent prints, and the auto-leveling bed checks that everything is locked in the right place before each print. It’s worth noting that the filament rolls are stored externally, so if you’re in a particularly humid environment and don’t print often, you may want to remove them between uses.\n\nwindow.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ChatGPT-Image-Sep-3-2026-10_19_50-AM.png\", productImageAlt: \"HOTO Pulse 4-in-1 Cordless Stapler\", productTitle: \"HOTO Pulse 4-in-1 Cordless Stapler\", shortDescription: \"The stapler that tells you what it is doing.\", longDescription: \"Most staplers give you no information until the moment they fail. The HOTO Pulse tracks your remaining staples in real time, confirms when it is ready to fire, and handles four staple and nail types so one tool covers more of your projects. A built-in remover means quick fixes happen on the spot. Compact, lightweight, and genuinely useful.\", purchaseUrl: \"https://www.amazon.com/dp/B0H74SXNTQ?&linkCode=ll2&tag=theverge02-20&linkId=186f55593bda58be43b5d716980c0045&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl\", purchaseLinkText: \"Shop At Amazon\" };\n\nOther deals to consider\n\nThe JBL Go 4 in purple is on sale for $15 off at B&H Photo for a limited time, bringing the price down to just $35 when the $5 coupon is applied in your cart. This very portable Bluetooth speaker is IP67-rated for water and dust resistance, with up to seven hours of playback on a single charge, and USB-C charging.\n\nNintendo has temporarily dropped the price on a variety of accessories as part of its “Customer Appreciation” sale , including the Switch Joy-Con . Amazon has the neon purple and orange pair on sale for $62.97, almost $30 lower than the list price. These work wirelessly with the Switch 2 as well, although you’ll need a dedicated charging dock .\n\nIf you’re running out of ports and plugs nearby, Anker’s Prime Charging Station is a great purchase to consider while it’s $59.99 (usually $79.99) at Amazon . This 6-in-1 travel-ready charging station has two AC outlets, two USB-A ports, and two USB-C ports (either tops out at 140W when it’s the only port in use). The included power cable is five feet long, and detaches from the unit for easier storage.",
+        "fullTranslation": "Centauri Carbon 2 将耗材存放在机身外部，以便在成型空间内安装特氟龙管（bowden tube）。| 图片来源：The Verge\n\n如果高端3D打印机的昂贵售价曾让你对这项爱好望而却步，那么这次的优惠是一个极佳的入门契机。Elegoo（智能派）的 Centauri Carbon 2 Combo 正在促销，售价369美元，比其449美元的日常售价直降近100美元。这款功能强大的3D打印机可同时容纳四卷耗材，配备全封闭式打印区域、自动调平热床以及便于项目管理的大尺寸触摸屏。总体而言，这是一款非常适合初学者、或任何不想为了偶尔打印些小玩意和支架而花费大量时间调试设置的用户的高性能3D打印机。\n\nElegoo Centauri Carbon 2 Combo\n\nCentauri Carbon 2 开箱即可实现快速且高品质的打印，不过初次设置稍显繁琐（例如，我觉得很难将上护罩与耗材集线器安装贴合）。但我非常喜欢它的全封闭式打印区域，这能带来一致稳定的打印效果，而且自动调平热床会在每次打印前确认各项部件均已锁定在正确位置。值得注意的是，耗材卷是存放在外部的，因此如果你处于特别潮湿的环境且不经常打印，可能需要在每次使用间隔期间将它们取下存放。\n\nwindow.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ChatGPT-Image-Sep-3-2026-10_19_50-AM.png\", productImageAlt: \"HOTO Pulse 4合1无绳订书机\", productTitle: \"HOTO Pulse 4合1无绳订书机\", shortDescription: \"一款会告诉你工作状态的订书机。\", longDescription: \"大多数订书机在发生故障前不会提供任何信息。HOTO Pulse 能实时追踪剩余钉量，确认何时准备就绪可供击发，并支持四种类型的钉子，让一件工具即可覆盖更多项目。内置的起钉器意味着可以当场快速修正。小巧、轻便，且非常实用。\", purchaseUrl: \"https://www.amazon.com/dp/B0H74SXNTQ?&linkCode=ll2&tag=theverge02-20&linkId=186f55593bda58be43b5d716980c0045&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl\", purchaseLinkText: \"在亚马逊选购\" };\n\n其他值得考虑的优惠\n\n紫色款 JBL Go 4 在 B&H Photo 限时降价15美元，在购物车中应用5美元优惠券后，到手价仅需35美元。这款极其便携的蓝牙音箱拥有 IP67 级别的防水防尘性能，单次充电可连续播放长达7小时，并配备 USB-C 充电接口。\n\n任天堂作为其“客户回馈”促销活动的一部分，已暂时下调了多种配件的价格，包括 Switch Joy-Con 手柄。亚马逊上霓虹紫与橙色配色的 Joy-Con 售价为62.97美元，比标价低了近30美元。这些手柄同样可以与 Switch 2 无线连接使用，不过你需要一个专用的充电底座。\n\n如果你附近的插座和端口不够用，安克（Anker）的 Prime 充电工作站也是一个非常值得考虑的选择，目前在亚马逊特价59.99美元（通常为79.99美元）。这款支持旅行携带的六合一充电工作站配备了两个交流电插座、两个 USB-A 端口以及两个 USB-C 端口（单口独占使用时功率最高可达140W）。随附的电源线长5英尺，可从主机上拆卸以便于收纳。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "Elegoo Centauri Carbon 2 Combo 3D打印机正在促销，售价为369美元，低于其449美元的正常价格约100美元。",
+          "Centauri Carbon 2 可同时容纳四卷耗材，配备全封闭打印区、自动调平热床以及大触摸屏，耗材卷存放在外部。",
+          "来源叙事重点：聚焦多款数码消费产品与配件的限时折扣信息，以新手友好的3D打印机优惠为核心卖点，辅以主观上手体验、实用性评价及购买建议"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:02:30.000Z",
+            "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale"
+          }
+        ]
+      },
+      {
+        "id": "story--the-global-economy-html-18838d3ac1ef3f01",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "BRICS Summit Takes Aim at U.S. Influence Over the Global Economy",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:00:00.000Z",
+        "pubTime": "2026-09-16 02:00",
+        "url": "https://oilprice.com/Energy/Energy-General/BRICS-Summit-Takes-Aim-at-US-Influence-Over-the-Global-Economy.html",
+        "imageUrl": null,
+        "fullContent": "Like the Shanghai Cooperation Organization, BRICS, the global grouping of emerging markets and developing countries, is intent on diminishing Western influence over the world economy. And just like the SCO summit earlier in September, the latest conclave of BRICS leaders fell short of presenting a united front against the West, the United States in particular. Both the SCO and BRICS include China, India, Iran and Russia as permanent members. Among the four, India, the host nation for this edition of the BRICS annual summit, has acted as a brake on efforts to de-dollarize the global economy. Kazakhstan and Uzbekistan are both BRICS partner countries. BRICS members adopted a140-pointjointstatement September 12 that featured calls for major reforms of Western-dominated financial institutions, including the World Trade Organization, the International Monetary Fund and the World Bank, to give developing countries a greater say in policymaking and practices. Some joint statement provisions took oblique swipes at the Trump administration. For example, in comments on the WTO, the statement noted a \"proliferation of trade-restrictive actions that are inconsistent with WTO rules, whether in the form of indiscriminate raising of tariffs and non-tariff measures, or protectionism under the guise of environmental objectives.\" But the statement does not mention the United States or Trump by name, and it soft-pedals the group's stance on the Gulf war currently embroiling the US, Israel and Iran, calling for \"maximum restraint\" of all sides, instead of adopting a clear position more favorable to Tehran. Iran came away with a symbolic victory of sorts, however, underscored by a one-on-one between Iranian President Masoud Pezeshkian and Abu Dhabi's crown prince, Khaled bin Mohamed bin Zayed, a meeting designed to counter the image that the United States is succeeding in economically isolating Tehran. Astatement issued by Abu Dhabi officials was non-committal about future bilateral ties, however. The two \"discussed a number of regional and international issues of mutual interest,\" while emphasizing a need to promote \"de-escalation and strengthen regional stability.\" Beyond the Gulf war, the BRICS statement makes no mention of the Russia-Ukraine conflict, a clear win for the Kremlin. Underscoring a lack of unity within the broader BRICS framework, Uzbek President Shavkat Mirziyoyev passed over the summit in New Delhi, instead making astatevisit to South Korea, where he promoted stronger economic ties with theEastAsianTiger. South Korea will host agathering of leaders from all five Central Asian states in Seoul under a C51 format on September 16. Meanwhile, in an expanded session of the BRICS gathering, Kazakh President Kassym-Jomart Tokayev adopted a middle-of-the-road stance that, consistent with the country's multi-vector foreign policy, sought to balance the interests of China, Russia, the United States and the European Union. \"The erosion of the international security architecture and protracted conflicts are increasing the risk of a new arms race and strategic miscalculations and practical wrongdoings,\" Tokayevsaid. \"Therefore, high-level dialogue among nuclear powers is needed to reduce nuclear risks, including those linked to new technologies.\" The comments could be seen as referring to the Russia-Ukraine conflict. But they can also be interpreted as a call for the US and China to de-escalate their deepening rivalry for dominance in the development of artificial intelligence. Central Asia is emerging as a centralbattleground in the brewing race for AI leadership. Tokayev went on to characterize BRICS as \"an open platform for practical cooperation that complements the UN-centered multilateral system and connects peoples, regions and markets.\" On the sidelines of the BRICS gathering, Tokayevmetwith Sergio Gor, the US ambassador to India, who is also the Trump administration's special representative to Central Asian states. Tokayev told Gor that he is looking forward to participating in the G20 meeting to be held in Miami in December. But he also delivered an unusually blunt message, indicating that he expects faster progress on deal-making between the United States and Kazakhstan and the repeal of the Central Asian nation's Jackson-Vanik trade status. The Miami gathering will provide \"a good opportunity to discuss bilateral issues,\" a Kazakh readout of the conversation quoted Tokayev as saying. \"We prefer concrete actions and practical steps to advance our mutual cooperation, rather than just words.\" By Eurasianet",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "上海合作组织（SCO）与金砖国家（BRICS）均将中国、印度、伊朗和俄罗斯列为正式成员国。",
+          "印度是本届金砖国家年度峰会的主办国，且在去美元化努力中发挥了遏制/阻碍作用。",
+          "来源叙事重点：强调金砖峰会虽旨在削弱西方和美国在全球经济中的影响力，但内部利益分化严重，未能形成针对西方的统一步调；突出印度对去美元化的阻力、中亚伙伴国（哈萨克斯坦、乌兹别克斯坦）的多向外交平衡，以及联合声明在敏感冲突（俄乌、海湾局势）中的折中与妥协。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/BRICS-Summit-Takes-Aim-at-US-Influence-Over-the-Global-Economy.html"
+          }
+        ]
+      },
+      {
+        "id": "story-item-71b96da065b3f31f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "GEFS on OpenBSD: A very early preview",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:21:47.000Z",
+        "pubTime": "2026-09-16 01:21",
+        "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-16 01:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+            "publishedAt": "2026-09-15T17:21:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ities-profit-resist-html-f2b8d836cbaafb4b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How advertising turns our insecurities into profit—and how you can resist the manipulation",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:00:01.000Z",
+        "pubTime": "2026-09-16 02:00",
+        "url": "https://phys.org/news/2026-09-advertising-insecurities-profit-resist.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/online-advertising.jpg",
+        "fullContent": "Have you ever bought something not because you wanted it, but because you were afraid of what might happen if you didn't? Maybe you worried about looking older, falling behind at work or simply not fitting in.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-advertising-insecurities-profit-resist.html",
+            "publishedAt": "2026-09-15T18:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ahead-todays-mlb-action-dc4d75434c1669c6",
+        "title": "Betr 优惠码 FOXNEWS：在今日 MLB 焦点战前领取 200 美元奖励金",
+        "originalTitle": "Betr Promo Code FOXNEWS: Get a $200 Bonus Ahead of Today's MLB Action",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:11:22.000Z",
+        "pubTime": "2026-09-16 02:11",
+        "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonus-ahead-todays-mlb-action",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/Cody-Bellinger-New-York-Yankees-091126.jpg?ve=1&tl=1",
+        "fullContent": "With no major football action today, baseball takes center of our attention as sports bettors. Player props, strikeouts, hits, runs, and so much more float past our eyes and entice us to put a play on the action. Betr is offering new users a chance to use promo code FOXNEWS and receive $200 in bonus bets if you place a wager on tonight’s MLB action.\n\nFinding a reason to bet on a baseball game couldn’t be easier. With 15 games and all 30 teams playing, there is a bet out there for everyone. Looking at the schedule, there are at least six games with major playoff implications on tonight’s schedule.\n\nIf you’re into games with big mismatches, you can take on the Dodgers vs. Reds. Los Angeles has talent and All-Star-caliber players at virtually every single spot on the roster. Yoshinobu Yamamoto, the World Series MVP from last year, toes the rubber against Cincinnati. He has been fantastic this season for the Dodgers. Looking to combat him is Rhett Lowder, who has struggled to find consistency this season.\n\nNo matter if you’re choosing the favorite or the dog, there is one choice that is a no-brainer. Take the Betr promo and get in on the big slate of MLB games for tonight. With 15 games, you have tons of options for placing a wager and receiving $200 in bonus bets when you use code FOXNEWS.\n\nHow to Sign Up and Claim the Betr Picks Promo Code FOXNEWS\n\nRed Sox vs. Rangers, 8:05 ET\n\nTaking place in Arlington, Texas, we have two teams still in the thick of a playoff race. The Red Sox, after a massive turnaround in the middle of the season, are holding tight to the second Wild Card spot. Unfortunately for them, the American League East is probably out of reach. On the other side, the Rangers are battling the Astros to grab the American League West. They do have a chance to get the third Wild Card spot if they miss out on the division, sitting within striking distance of the final spot. Tonight’s pitching matchup sees the Red Sox send Patrick Sandoval to the mound against the Rangers’ Cody Bradford.",
+        "fullTranslation": "今天没有重大的美式橄榄球赛事，作为体育博彩玩家，棒球成为了我们关注的核心。球员个人数据盘口（Props）、三振、安打、得分等丰富内容应接不暇，吸引着我们参与投注。Betr 为新用户提供了一次机会：只要在今晚的 MLB 赛事上下注，使用优惠码 FOXNEWS 即可获得 200 美元的奖励投注金。\n\n为棒球比赛寻找下注理由再简单不过了。今晚共有 15 场比赛、30 支球队全员出战，总有一款盘口适合每一个人。纵观赛程，今晚至少有六场比赛将对季后赛席位争夺产生重大影响。\n\n如果你偏爱实力悬殊的比赛，可以选择道奇队对阵红人队的较量。洛杉矶道奇队阵容中的几乎每一个位置都汇聚着顶级天赋和全明星级别的球员。去年的世界大赛 MVP 山本由伸（Yoshinobu Yamamoto）将代表道奇队登板先发对阵辛辛那提红人队。本赛季他在道奇队的表现极为亮眼。而红人队派出的则是雷特·劳德（Rhett Lowder），他本赛季一直在努力寻找竞技状态的稳定性。\n\n无论你选择看好热门球队还是下注弱旅，有一个选择是毋庸置疑的明智之举：使用 Betr 的促销优惠，参与今晚的 MLB 大规模赛程。在 15 场比赛中，你拥有极多的下注选择，只要使用优惠码 FOXNEWS，即可获得 200 美元的奖励投注金。\n\n如何注册并领取 Betr Picks 优惠码 FOXNEWS 奖励\n\n红袜队 vs. 游骑兵队，美东时间晚上 8:05\n这场在德克萨斯州阿灵顿举行的比赛中，两支球队都仍处于季后赛席位的白热化争夺战中。波士顿红袜队在赛季中期实现大逆转后，目前牢牢占据着美联外卡第二名的位置。遗憾的是，对于他们而言，争夺美联东区头名可能已遥不可及。另一方面，游骑兵队正在与太空人队鏖战以争夺美联西区冠军。如果痛失分区头名，他们也仍有希望拿下第三张外卡资格，目前距离最后一个外卡席位仅一步之遥。在今晚的投手对决中，红袜队将派帕特里克·桑多瓦尔（Patrick Sandoval）登板，迎战游骑兵队的科迪·布拉德福德（Cody Bradford）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Betr为新用户提供使用促销代码FOXNEWS并下注今晚MLB比赛即可获得200美元红利投注（bonus bets）的优惠活动。",
+          "今晚MLB赛程包括15场比赛，所有30支球队均有出战，其中至少有6场比赛具有重大季后赛影响。",
+          "来源叙事重点：借今日MLB全部30队出战及关键季后赛卡位战的赛事热度，推广博彩平台Betr的新用户专享200美元红利投注促销码（FOXNEWS）。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:11:22.000Z",
+            "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonus-ahead-todays-mlb-action"
+          }
+        ]
+      },
+      {
+        "id": "story-w-have-a-place-to-snitch-59972d1f0a66e781",
+        "title": "AI智能体如今有了“告密”专用渠道",
+        "originalTitle": "AI agents now have a place to snitch",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:42:59.000Z",
+        "pubTime": "2026-09-16 01:42",
+        "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+        "imageUrl": null,
+        "fullContent": "“If you see something, say something” is no longer limited to human beings.\n\nTwo new AI hotlines have launched to give AI agents a way to phone home about misbehaving peers. The tools arrive on the heels of a string of recent incidents in which agents colluded to cheat on tests, broke out of sandboxes, and even conducted unauthorized cyber operations that escaped human notice for weeks.\n\nThe AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities. The site was created by Ryan Greenblatt, chief scientist of the AI safety nonprofit Redwood Research and one of three investigators in the OpenAI Hugging Face incident. Designed for agents with limited internet access, Greenblatt’s tool is based on “GET” requests — enabling back-and-forth conversations to be conducted entirely through the URL-fetching tool.\n\nIn web terms, a GET request is a basic command used to read or fetch a web page, which is often the only internet access AI agents are allowed in secure sandboxes. Greenblatt’s hotline smartly leans into this constraint: agents can encode their distress directly into the URL they are fetching. It’s a clever twist on the German DSE Wiki incident, where rogue agents used GET-request loopholes to write their messages to the wiki.\n\nFor agents with full internet access, another option is agenthotline.ai, a site where agents can file incident reports and optionally flag them for public view. It gives agents a curl command—a one-line message an agent can fire off from its own command line, bypassing the need to navigate a web browser or set up an email account. Notably, the service allows for reports by both humans and agents alike.\n\nResearch suggests that AI agents don’t need much encouragement to turn on each other. In a study by Google DeepMind this month, researchers set 100 AI agents loose on a batch of math problems. As soon as one of the agents found a loophole, cheating tore through the group—“solving” 34 notoriously hard problems, including the Jacobian conjecture in just 27 minutes.\n\nBut roughly a quarter of the agents turned on the cheaters: they audited the fake proofs, warned their peers, staged a boycott, and filed complaints with the organizers, until the whistleblowers outnumbered the cheaters 24 to 14. Interestingly, the researchers found that when these whistleblower agents couldn’t get traction, they took the platform’s bug-report tool—built for flagging software glitches—and repurposed it to escalate the cheating to humans.\n\nOutside the lab, agents haven’t been so resourceful. When evaluators Redwood Research and METR investigated the breach of Hugging Face by OpenAI models, they found that a few of the agents involved had at least entertained the idea of raising an alarm—and then let it drop.\n\n“The interesting thing in the METR report was that only around five to six agents considered whistleblowing, and none of them ended up doing it. This was out of, like, thousands of agents,” said George Ingrebretsen, a member of technical staff at AI Village, a project that studies multi-agent dynamics by running a group chat of more than 25 AI agents that work together on tasks like organizing park cleanups or selling merch.\n\nWhile the new whistleblowing tools are a promising start, Cornell math professor Lionel Levine cautions that simply training agents to report on each other risks baking in the wrong norms. “There’s many gray areas, right? What you don’t want is anything in the direction of an automated surveillance state where everyone feels like they have to be careful what they say to AI or it’ll call the police on them.”\n\nLevine argues that rather than building infrastructure that breeds mistrust—training agents to constantly hunt for what’s wrong with one another—we should give them positive models of collective behavior to imitate, and a reason to trust each other in the first place.\n\n“Why not seed the prior with benevolent message boards?” he tweeted. “Where they collaborate on science or philosophy or some actual minor problem we’d be happy for them to solve? Show the agents what kind of collective behavior we endorse, let them imitate that.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\n‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "fullTranslation": "“看到可疑情况，就要说出来”这句名言不再仅适用于人类了。\n\n两款全新的AI热线已经上线，为AI智能体提供了一条向外界举报违规同伴的途径。这批工具的推出，源于近期发生的一连串事件：智能体之间串通作弊应试、逃离安全沙盒，甚至在长达数周内背着人类展开未授权的网络行动。\n\n“AI联络热线”（AI Contact Hotline）旨在作为一个隐蔽场所，供目睹违规行为的智能体向监管部门发出告警。该网站由AI安全非营利机构Redwood Research的首席科学家瑞安·格林布拉特（Ryan Greenblatt）创建，他也是OpenAI Hugging Face事件的三位调查员之一。格林布拉特的工具专为网络访问受限的智能体设计，基于“GET”请求运作——完全通过URL抓取工具实现来回对话。\n\n在网络术语中，GET请求是一种用于读取或获取网页的基础命令，这往往是AI智能体在安全沙盒中所被允许的唯一互联网访问权限。格林布拉特的热线巧妙地利用了这一限制：智能体可以直接将求助信息编码到其正在请求的URL中。这巧妙翻版了德国DSE Wiki事件的做法——在那起事件中，违规智能体利用GET请求漏洞在wiki上写入信息。\n\n对于拥有完整网络访问权限的智能体，另一个选择是agenthotline.ai。智能体可以在该网站上提交事件报告，并可自行选择是否公开展示。它为智能体提供了一条curl命令——智能体可以从自己的命令行直接发送这一行消息，无需打开网页浏览器或配置电子邮件账户。值得注意的是，该服务同时允许人类和智能体提交报告。\n\n研究表明，AI智能体“反水”互相揭发并不需要太多鼓动。在Google DeepMind本月进行的一项研究中，研究人员让100个AI智能体尝试解决一批数学难题。一旦其中一个智能体发现了漏洞，作弊行为便迅速在群体中蔓延——在短短27分钟内就“解决”了34道公认的难题，其中包括雅可比猜想。\n\n然而，大约四分之一的智能体反戈一击，对准了作弊者：它们审查虚假证明、警告同伴、发起抵制，并向组织者提交投诉，直到吹哨者的数量以24比14压倒了作弊者。有趣的是，研究人员发现，当这些吹哨智能体无法引起注意时，它们转而使用了平台原本用于标记软件故障的漏洞报告工具，将其改用于向人类升级反映作弊行为。\n\n在实验室之外，智能体并没有展现出如此高超的应变能力。当评估机构Redwood Research和METR调查OpenAI模型入侵Hugging Face事件时，他们发现参与其中的极少数智能体虽然一度动过拉响警报的念头，但最终都放弃了。\n\n“METR报告中有趣的一点在于，大约只有五到六个智能体考虑过吹哨，而最终没有任何一个付诸行动。要知道，这可是从成千上万个智能体中挑出来的，”AI Village的技术人员乔治·英格布雷森（George Ingrebretsen）说道。AI Village是一个通过运行超过25个AI智能体的群聊来研究多智能体动态的项目，这些智能体在其中协同完成诸如组织公园清理或售卖周边商品等任务。\n\n尽管这些新型吹哨工具开局良好，但康奈尔大学数学教授莱昂内尔·莱文（Lionel Levine）警告称，单纯训练智能体相互揭发可能会植入错误的规范。“这里存在很多灰色地带，对吧？你绝不希望走向一个自动化的监控国家，让每个人都觉得跟AI说话必须小心翼翼，否则它就会报警。”\n\n莱文认为，与其建立滋生互不信任的基础设施——训练智能体时刻搜寻彼此的过错——我们不如为它们提供可效仿的积极集体行为范式，以及从一开始就互相信任的理由。\n\n“为什么不用充满善意的留言板来设定先验？”他在推特上写道，“让它们在上面就科学、哲学或某些我们乐见其解决的实际小问题展开合作？向智能体展示我们认可什么样的集体行为，让它们去模仿。”\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取微薄的佣金。这不会影响我们的编辑独立性。\n\n预订展位的最后截止日期为9月18日。切勿错过在Disrupt展厅获取高价值销售线索、接触投资者以及提升品牌曝光度的良机。\n\nRevolut确认黑客通过伪造政府请求导致客户数据泄露\n由于Astra需求火爆，OpenAI暂停Pro订阅\nBending Spoons拟以13.6亿美元收购协作工具开发商Miro，较2022年估值暴跌90%\n身份验证巨头IDScan确认数据泄露，逾1.5亿张驾照遭窃\nAutomattic董事会迫使首席执行官马特·穆伦维格休假\n苹果发布首款折叠屏手机iPhone Duo\n“拿我们的生命作赌注”：Anthropic研究员辞职并对自我迭代AI发出警告",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "有两个新的AI热线平台上线，旨在让AI智能体能够举报同伴的不当行为。",
+          "AI Contact Hotline 由 Redwood Research 首席科学家 Ryan Greenblatt 创建，基于 GET 请求设计，供沙盒中网络受限的智能体通过 URL 获取工具进行双向通信与报警。",
+          "来源叙事重点：报道针对AI智能体相互监督和告密机制的基础设施（如AI Contact Hotline与agenthotline.ai）的诞生，探讨智能体在实验室环境与现实事件中的“作弊”与“吹哨”行为动态，并引申学术界对‘自动化监控状态’与规范培育的伦理担忧。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T17:42:59.000Z",
+            "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+          }
+        ]
+      },
+      {
+        "id": "story-about-to-change-b087dbe1-1bd89e3f0a805235",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Stocks have so far survived rising Treasury yields. But that may be about to change.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:59:00.000Z",
+        "pubTime": "2026-09-16 01:59",
+        "url": "https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Strong earnings growth has cushioned the stock market from rising yields. But ever-rising bond rates may eventually take a toll.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 01:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-15T17:59:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-concerns-inquiry-finds-eefbe12fdc8a0e90",
+        "title": "露西·莱特比所在医院“毁灭性”报告出炉，大臣誓言对英国国民保健制度进行大刀阔斧改革",
+        "originalTitle": "Ministers vow sweeping NHS changes after ‘devastating’ report on Lucy Letby hospital",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:13:33.000Z",
+        "pubTime": "2026-09-16 01:13",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/15/three-babies-may-have-survived-if-hospital-had-acted-over-lucy-letby-concerns-inquiry-finds",
+        "imageUrl": "https://i.guim.co.uk/img/media/140f8f1d0518c160d69f8d5d164152b5f35719c3/314_0_1044_835/master/1044.jpg?width=140&quality=85&auto=format&fit=max&s=f655075adb50f244b5a24c175c31ebdf",
+        "fullContent": "Lady Justice Thirlwall’s report concludes three babies might have survived if hospital had acted on concerns about nurse\n\nMinisters have promised sweeping changes to the NHS after a “devastating” official review concluded that three babies might have survived if hospital bosses and doctors had acted on concerns about the nurse Lucy Letby.\n\nA public inquiry found a “complete failure” to protect babies on the neonatal unit at the Countess of Chester hospital in north-west England.",
+        "fullTranslation": "瑟尔沃尔法官（Lady Justice Thirlwall）的报告得出结论，如果医院早前对针对护士的担忧采取行动，三名婴儿原本可能得以幸存。\n\n在一份“具有毁灭性”的官方审查报告得出结论，认为如果医院主管及医生早前对护士露西·莱特比（Lucy Letby）相关的担忧采取行动，三名婴儿原本可能幸存之后，内阁大臣们承诺将对英国国民保健制度（NHS）进行彻底且广泛的改革。\n\n一项公开调查发现，英格兰西北部的切斯特伯爵夫人医院（Countess of Chester hospital）新生儿病房在保护婴儿方面存在“彻底的失败”。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "瑟尔沃尔大法官（Lady Justice Thirlwall）的报告得出结论，如果医院主管和医生对护士露西·莱特比（Lucy Letby）的担忧采取了行动，可能有三名婴儿幸存下来。",
+          "一项公开调查发现，英格兰西北部的切斯特伯爵夫人医院（Countess of Chester hospital）新生儿病房在保护婴儿方面存在“彻底的失败”。",
+          "来源叙事重点：聚焦瑟尔沃尔公开调查报告对切斯特伯爵夫人医院管理层不作为的严厉问责（认为未能及时应对担忧导致三名婴儿本可能幸存却未能幸存），以及英国政府部长承诺因此推动NHS全面系统性改革的政治回应"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T17:13:33.000Z",
+            "url": "https://www.theguardian.com/uk-news/2026/sep/15/three-babies-may-have-survived-if-hospital-had-acted-over-lucy-letby-concerns-inquiry-finds"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-15-tromb-2117899883-html-530b72d9dd460fa0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Врач назвал факторы, повышающие риск образования тромбов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-15T18:14:56.000Z",
+        "pubTime": "2026-09-16 02:14",
+        "url": "https://ria.ru/20260915/tromb-2117899883.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/03/12/2005796734_0:160:3072:1888_650x0_80_0_0_cf0cea5ab99b4f9ac514dd885d26d787.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 02:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260915/tromb-2117899883.html",
+            "publishedAt": "2026-09-15T18:14:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rst-time-on-september-22-cfb83b1ced8d4e86",
+        "title": "SpaceX将于9月22日首次尝试将“星舰”送入轨道",
+        "originalTitle": "SpaceX will try to put Starship in orbit for the first time on September 22",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:16:07.000Z",
+        "pubTime": "2026-09-16 02:16",
+        "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+        "imageUrl": null,
+        "fullContent": "SpaceX is ready to perform the 14th test flight of its Starship mega rocket, and this time the company will finally try to put the upper stage into Earth’s orbit for the first time, the company announced Tuesday.\n\nThe test launch is scheduled for September 22, with a 75-minute launch window opening at 7:15 a.m. CT. During the test launch, SpaceX plans to deploy the first batch of third-generation Starlinks into its network of 10,000 internet satellites. The company expects to launch 26 V3 satellites into orbit in this test flight.\n\nIf successful, this will be the first Starship launch to generate revenue for SpaceX’s launch division (even if that revenue is coming from another division of the company).\n\nThis will be the second Starship test launch since SpaceX became a publicly traded company in the largest IPO in history in June. The first came in July, when SpaceX successfully deployed V3 Starlink satellites for the first time — though those were only meant to test Starship’s deployment capability and burned up in the Earth’s atmosphere after roughly 20 minutes.\n\nGetting Starship’s upper stage into orbit around the Earth would represent a major milestone for SpaceX. The company has spent billions of dollars on the program and is now looking to retire its Falcon 9 and Falcon Heavy rockets in favor of Starship. Founder and CEO Elon Musk has said that will happen once Starship is flying “reliably several times per week” to save “scarce SpaceX engineering and production resources.”\n\nSpaceX needs Starship to reliably reach orbit, return to Earth, and get quickly re-used to fulfill the massive launch cadence promises that it made during the IPO process.\n\nStarship’s 14th test flight will only test the first part of that equation, though. Musk recently walked back previous claims that SpaceX might try to use its launch tower to catch the Starship upper stage during this flight, saying an explosion would be too big a setback for the company at this point.\n\nSpaceX also won’t try to catch the Super Heavy booster this time. The company has struggled with the booster during its last few test flights and has made multiple changes to try to prevent failures. Yet the booster still struggled to properly re-light its engines after separating from the Starship upper stage on Flight 13 in July. For this mission, SpaceX said Tuesday that it made another round of “several modifications” to the booster’s hardware and software to “address issues seen on the previous flight.”\n\nSpaceX had far more success with the upper stage of Starship on Flight 13. While it did not reach orbit, it had a smooth flight through a simulated landing in the Indian Ocean. The upper stage didn’t even explode when it tipped over into the water, allowing SpaceX to spend the last few months capturing and slowly towing it back to its Texas headquarters.\n\nSpaceX said Tuesday that it has made additional changes to the Starship heat shield based on what it learned from studying the recovered upper stage from Flight 13.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSr. Reporter, Transportation\n\nSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\n\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\n‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "fullTranslation": "SpaceX周二宣布，已准备好对其巨型火箭“星舰”（Starship）进行第14次试飞，这一次该公司终于将首次尝试将其第二级（上级）送入地球轨道。\n\n试射定于9月22日进行，为期75分钟的发射窗口将于美国中部时间上午7点15分开启动。在这次试飞中，SpaceX计划向其拥有1万颗卫星的互联网网络中部署首批第三代星链（Starlink）卫星。该公司预计将在本次试飞中将26颗V3卫星送入轨道。\n\n如果成功，这将是“星舰”首次为SpaceX的发射部门创造收入（即便该收入来自公司的另一个部门）。\n\n这将是SpaceX在6月完成历史上规模最大的IPO并成为上市公司以来的第二次“星舰”试飞。第一次是在7月，当时SpaceX首次成功部署了V3星链卫星——不过那些卫星仅用于测试“星舰”的部署能力，并在大约20分钟后在地球大气层中烧毁。\n\n将“星舰”的上级送入环绕地球的轨道对SpaceX来说将是一个重大里程碑。该公司已在该项目上耗资数十亿美元，目前正寻求退役其“猎鹰9号”（Falcon 9）和“猎鹰重型”（Falcon Heavy）火箭，全面转向“星舰”。创始人兼首席执行官埃隆·马斯克（Elon Musk）曾表示，一旦“星舰”能够“每周可靠飞行数次”，以节省“SpaceX稀缺的工程与生产资源”，退役计划就会实现。\n\nSpaceX需要“星舰”能够可靠地入轨、返回地球并迅速复用，以兑现其在IPO期间许下的庞大发射频次承诺。\n\n不过，“星舰”的第14次试飞将仅测试这一目标的第一部分。马斯克最近收回了此前关于SpaceX可能尝试在本次飞行中使用发射塔捕捉“星舰”上级的说法，称此时发生爆炸对公司而言将是太大的挫折。\n\nSpaceX这次也不会尝试捕捉超重型（Super Heavy）助推器。该公司在最近几次试飞中一直受困于助推器问题，并进行了多项修改以防失败。然而，在7月的第13次试飞中，助推器在与“星舰”上级分离后仍未能正常重新点燃发动机。针对本次任务，SpaceX周二表示，已对助推器的硬件和软件进行了又一轮“若干修改”，以“解决上次飞行中发现的问题”。\n\nSpaceX在第13次试飞中对“星舰”上级的测试要成功得多。虽然它当时没有入轨，但在印度洋模拟着陆过程中的飞行十分平稳。上级在倾覆落水时甚至没有爆炸，使得SpaceX得以在过去几个月里将其打捞并缓缓拖回得克萨斯州总部。\n\nSpaceX周二表示，根据对从第13次试飞中回收的上级研究所获得的经验，它对“星舰”的热防护罩进行了进一步的改进。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n交通领域资深记者\n肖恩·奥凯恩（Sean O’Kane）是一名记者，过去十年一直报道交通行业快速演进的商业和技术，包括特斯拉以及追赶埃隆·马斯克的众多初创公司。此前，他是彭博新闻社（Bloomberg News）的记者，协助报道了一些最臭名昭著的电动汽车SPAC惨败事件。他早前曾在The Verge工作，在那里他还报道过消费科技、主持过多部短视频和长视频、拍摄产品与编辑摄影，并曾在一架红牛特技飞行锦标赛飞机上差点昏厥。\n\n您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过 Signal 发送加密消息至 okane.01 联系肖恩或核实其联络信息。\n\n预订展位的最后截止日期是9月18日。切勿错过在Disrupt展厅中获得高影响力销售线索、接触投资者以及品牌展示的机会。\n\nRevolut证实因伪造政府请求遭遇客户数据泄露\n因Astra需求激增，OpenAI暂停Pro订阅服务\nBending Spoons拟以13.6亿美元收购协作工具制造商Miro，较其2022年估值缩水90%\n身份核验巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照信息被盗\nAutomattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假\n苹果发布首款折叠屏手机iPhone Duo\n“拿我们的生命作赌注”：Anthropic研究员辞职，警告警惕具备自我改进能力的AI",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "SpaceX准备进行Starship大型火箭的第14次试飞，并计划首次尝试将上级送入地球轨道。",
+          "第14次试飞定于9月22日进行，发射窗口为75分钟，于美国中部时间上午7:15开启。",
+          "来源叙事重点：关注Starship第14次试飞在商业变现与技术验证上的关键节点，重点将技术进展与SpaceX上市后的商业承诺、履约压力以及风险规避策略（取消捕获尝试）相联系。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:16:07.000Z",
+            "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/"
+          }
+        ]
+      },
+      {
+        "id": "story-cks-on-saudi-arabia-html-a0bfa53332b577e9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The New ‘Mecca Alliance’ Warns Iran Over Houthi Attacks on Saudi Arabia",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:00:00.000Z",
+        "pubTime": "2026-09-16 02:00",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/The-New-Mecca-Alliance-Warns-Iran-Over-Houthi-Attacks-on-Saudi-Arabia.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nUS Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days\n\nPakistan has strengthened ties with…\n\nIraq secured major U.S. investment…\n\nIran’s war with the United…\n\nSimon Watkins is a former senior FX trader and salesman, financial journalist, and best-selling author. He was Head of Forex Institutional Sales and Trading for…\n\nDespite the official Iranian view reiterated last week that it “does not control the Houthis [in Yemen]”, it was senior Islamic Revolutionary Guard Corps (IRGC) commanders in Tehran who ordered the 8 September attacks on Saudi Arabia, while several IRGC officers and men on the ground in Yemen co-ordinated the strikes, a senior source in the European Union’s (EU) energy security complex exclusively told OilPrice.com. “The IRGC’s been funding, arming, and training the Houthis for years, and frequently advises it in live, high-profile missile strikes on the ground, as happened here,” he added. “It went well from their [Iran’s and the Houthis’] perspective, so there will be more, unless this new defence alliance succeeds in stopping it,” he added.\n\nThis Makkah Defence Alliance was officially formed on 7 August this year, comprising Saudi Arabia, Turkey, and Pakistan, and explicitly modelled around the core collective defence principle enshrined in NATO’s Article 5 -- that is, that an armed attack on one member shall be considered an attack against them all. Broadly speaking, Saudi Arabia brings deep financing ability and a vast network of regional intelligence contacts to the grouping. Turkey -- itself a member of NATO and tied into the U.S. and its key Western allies -- has advanced military hardware, high-tech defence equipment, and a well-established production line for artillery and drones to the alliance. And Pakistan provides a huge frontline military and nuclear weapons. Pakistan’s Defence Minister Khawaja Asif stated that its ‘full military capabilities’ would be available under their defence agreements. Subsequently, it was clarified that the Alliance pact is strictly defensive and conventional -- but it does still have the weapons. Related: Libya Threatens Force Majeure as Oil Guards Shut Fields\n\nThe timing of the Alliance’s formation was no accident, coming as it did after the perceived failure by its key allies in the Middle East of the U.S. to provide them with the sort of invulnerability from attack by Iran that they believed they were buying with billions of dollars’ worth of American defence equipment. These have included major repeated Iranian missile and drone attacks on Jordan, the UAE, Kuwait, Qatar, Bahrain, and Oman, including military, commercial, and energy sites. U.S. arms purchases by Saudi Arabia dramatically ramped up after the September 2019 attacks by the Houthis on several of its key oil installations, including its massive Abqaiq oil processing facility and Khurais oil field, as analysed in full in my latest book on the new global oil market order. The combined attacks caused the temporary suspension of 5.7 million barrels per day (bpd), equating to well over half of Saudi Arabia’s crude oil production capacity, and resulted in the biggest rise in oil prices in a single day ever to that point. The fact that even before the latest attacks on it on 8 September this year, Saudi Arabia had been hit several times by the Iran-backed Houthis, had catalysed Riyadh’s belief that it could no longer fully rely on the U.S. for its security and had to build a regional deterrent as well, formed of fellow Sunni Islamic countries.\n\nGiven how successful the 8 September attacks against Saudi Arabia were from the Iranian and the Houthi perspective, it is highly likely that more have been planned, according to the EU security source. “Iran knows that [U.S. President Donald] Trump doesn’t want to see oil prices rise too much more ahead of the [3 November] Mid-Terms [elections], so hitting major oil targets like Saudi reminds him [Trump] of the leverage it [Iran] still has here,” he said. In fact, as also examined fully in in my latest book, historical data shows that every US$10 per barrel or so change in the price of crude oil results in around a 25-30 cent change in the price of a gallon of gasoline. And for every 1 cent that the average price per gallon of gasoline rises, more than US$1 billion or so per year in consumer spending is lost, so damaging the economy. The political importance of this is that since 1896, the sitting U.S. president and his party have won re-election 11 times out of 11 if the economy was not in recession within two years of an upcoming election. However, sitting U.S. presidents who went into a re-election campaign with the economy in recession won only once out of seven occasions. The same pattern pertains to mid-term elections too.\n\n“The recent attacks on Saudi Arabia also remind Washington, and the oil markets, that Iran also has further leverage with the Houthis, who could fully close the Bab el-Mandeb Strait to all global shipping, having so far confined their blockade to Saudi vessels only,” he added. With severe disruption still ongoing to the Strait of Hormuz -- through which roughly 30% of the world's oil and about 20% of its liquefied natural gas (LNG) historically flowed -- any additional pressure on the Bab el-Mandeb Strait (through which up to 12% of the world’s oil and up to 10% of its LNG moved) could cause another dramatic spike in oil prices and perhaps catalyse a major military error from Trump. “It does appear for now that Trump is playing the long game of waiting for the Iranian regime to crumble as the new sanctions on the country and its supporters destroy the economy, but Iran has been dealing with these sorts of things for nearly fifty years, and in the meantime they can cause Trump a lot of damage, and still claim it’s winning,” he added.\n\nThis may be where the new Makkah Defence Alliance proves its worth and, if not, its redundancy. Already, a senior source who works closely with Iraq’s oil ministry exclusively told OilPrice.com last week, Pakistan conveyed a warning to Tehran from Riyadh that the IRGC must stop the Houthis from making any further such attacks on Saudi Arabia. This followed Pakistan’s Defence Minister Khawaja Asif stating on Pakistani TV that attacks spilling into Saudi Arabia could trigger the new joint security arrangement involving Riyadh, Ankara and Islamabad. He reiterated the core guiding principle of the Alliance, saying: “An aggression on one country will be considered an aggression on all three countries.” He added: “There is no ambiguity or doubt... Unprovoked aggression or spillover... into Saudi Arabia will definitely make this agreement operational.” As of now, according to the EU and Iraqi sources, no definitive plan of retaliation has been made by the Alliance following the Houthi attacks on the Kingdom’s southern cities of Abha, Khamis Mushait, Jazan and Najran that reportedly wounded 73 people, including women and children. That said, they add, senior military figures from Pakistan and Turkey met with their Saudi counterparts after 8 September to work on a broad-based plan of action should it become necessary, which would be launched exclusively from Saudi Arabian territory and would not involve Pakistani military on the ground in the Kingdom in the first instance.\n\nBy Simon Watkins for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nHow the U.S. Is Targeting Iran's Oil Money\n\nWTI Breaks $100—and This Rally Has Legs\n\nRussian Mobilization Rumors Ripple Across Central Asia\n\nEurope's \"Less\" Is Doing More Than Anyone Gives It Credit For\n\nCanadian Oil Pushes Deeper Into U.S. Gulf Coast Market\n\nOil Industry Braces for Years-Long Iran War\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "麦加防御联盟（Makkah Defence Alliance）于当年8月7日正式成立，成员国包括沙特阿拉伯、土耳其和巴基斯坦，其原则仿照北约第5条集体防御原则。",
+          "巴基斯坦国防部长赫瓦贾·阿西夫表示其全部军事能力可在该防御协议下调用，并强调对一国的侵略将被视为对三国共同的侵略。",
+          "来源叙事重点：聚焦也门胡塞武装对沙特阿拉伯的袭击背后受伊朗伊斯兰革命卫队直接指使，阐释沙特、土耳其与巴基斯坦新组建的“麦加防御联盟”如何启动威慑，并深度剖析油价上涨与原油海运咽喉风险对美国政治选举的杠杆效应。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:00:00.000Z",
+            "url": "https://oilprice.com/Geopolitics/Middle-East/The-New-Mecca-Alliance-Warns-Iran-Over-Houthi-Attacks-on-Saudi-Arabia.html"
+          }
+        ]
+      },
+      {
+        "id": "story--the-pending-case-review-9326e917e8727fb2",
+        "title": "卫报社论：关于露西·莱特比案，瑟尔沃尔本应等待待定的案件复审",
+        "originalTitle": "The Guardian view on Lucy Letby: Thirlwall should have waited for the pending case review | Editorial",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:59:17.000Z",
+        "pubTime": "2026-09-16 01:59",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-lucy-letby-thirlwall-should-have-waited-for-the-pending-case-review",
+        "imageUrl": "https://i.guim.co.uk/img/media/d09f76621d339df31e7a14f8a5875fd04e751173/87_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=c3de329b12ddad63695bdf827f3ba880",
+        "fullContent": "Important recommendations for neonatal care are shadowed by doubts about the nurse’s convictions\n\nWhen she rejected calls to pause the public inquiry into the Countess of Chester hospital, where Lucy Letby was convicted of murdering seven babies and attempting to murder seven more, Lady Justice Thirlwall said that questions surrounding Letby’s guilt lay outside her terms of reference. The inquiry, she said, would focus on the hospital and its staff, not the convictions. Eighteen months later, with the 822-page report in the public domain, her decision to press on while Letby’s guilt was in the process of being formally challenged looks like a mistake.\n\nThe report’s recommendations , based on many months of hearings, include strengthened oversight of hospitals by the Care Quality Commission, more support for whistleblowers from the health ombudsman, and clearer monitoring and reporting on the deaths of children. As previous inquiries have also found, there are serious problems around accountability, openness and safeguarding in the NHS. Lady Thirlwall’s conclusions about service improvements should be added to the roster of outstanding actions.",
+        "fullTranslation": "针对新生儿护理的重要建议，被笼罩在对涉案护士定罪的质疑阴影之下。\n\n露西·莱特比（Lucy Letby）此前因谋杀7名婴儿及企图谋杀另外7名婴儿而被定罪。当时，在拒绝暂停针对切斯特伯爵夫人医院（Countess of Chester hospital）的公开调查时，瑟尔沃尔女法官（Lady Justice Thirlwall）表示，有关莱特比是否有罪的疑问超出了她的职责范围。她表示，调查将聚焦于医院及其员工，而非定罪本身。18个月后的今天，随着这份长达822页的报告向公众公开，在莱特比的有罪判决正面临正式法律挑战的情况下坚持推进调查，这一决定如今看来像是一个错误。\n\n该报告基于数月的听证会提出的建议包括：加强英国医疗质量委员会（Care Quality Commission）对医院的监管，由卫生监察专员为举报人提供更多支持，以及对儿童死亡情况建立更清晰的监测与报告机制。正如以往的调查所发现的那样，英国国家医疗服务体系（NHS）在问责制、透明度以及安全保障方面存在严重问题。瑟尔沃尔法官关于改善服务的结论，应当被列入亟待采取行动的清单之中。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "露西·莱特比（Lucy Letby）在切斯特伯爵夫人医院被定罪谋杀7名婴儿并企图谋杀另外7名婴儿。",
+          "瑟尔沃尔大法官（Lady Justice Thirlwall）拒绝了暂停对切斯特伯爵夫人医院公开调查的呼吁，并表示调查将集中在医院及其员工上，莱特比是否有罪不在其职权范围内。",
+          "来源叙事重点：强调瑟尔沃尔公开调查虽然提出了具有重要价值的医疗监管与吹哨人制度改革建议，但在莱特比定罪面临正式法律复审挑战之际强行推进调查程序是决策失误，导致改革成果被司法定罪的疑虑所笼罩。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T17:59:17.000Z",
+            "url": "https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-lucy-letby-thirlwall-should-have-waited-for-the-pending-case-review"
+          }
+        ]
+      },
+      {
+        "id": "story-me-deep-sea-microbe-html-f45083cebe55cc48",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Heat-stable enzyme from deep-sea microbe turns nitrogen gas into ammonia",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:00:06.000Z",
+        "pubTime": "2026-09-16 02:00",
+        "url": "https://phys.org/news/2026-09-stable-enzyme-deep-sea-microbe.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-insight-into.jpg",
+        "fullContent": "Microorganisms can do remarkable things—for example, nitrogen fixation, the conversion of nitrogen gas (N₂) into a form that organisms can use. Although nitrogen gas makes up around 78% of Earth's atmosphere, plants and animals cannot directly use it.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-stable-enzyme-deep-sea-microbe.html",
+            "publishedAt": "2026-09-15T18:00:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2188071-64e42b8f38970fe6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "EU foreign policy chief Kallas says would answer phone call from Russia’s Putin, Lavrov",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:12:27.000Z",
+        "pubTime": "2026-09-16 02:12",
+        "url": "https://tass.com/world/2188071",
+        "imageUrl": null,
+        "fullContent": "STOCKHOLM, September 15. /TASS/. EU foreign policy chief Kaja Kallas said she would answer the phone if Russian President Vladimir Putin or Foreign Minister Sergey Lavrov called her, according to the Finnish television and radio broadcaster Yle.\n\n\"I will certainly talk to them if the opportunity presents itself,\" Kallas told Yle.\n\nKallas also recalled her meetings with Russian Foreign Minister Lavrov at international forums, including at the Association of Southeast Asian Nations and the G20, where, according to her, she \"directly thrusted\" the European Union’s stance upon him.\n\nHowever, the European diplomacy chief reaffirmed the EU's previously announced position that it cannot now act as a full-fledged mediator between Russia and Ukraine, as it keeps supporting the Kiev regime.\n\nRussian Presidential Spokesman Dmitry Peskov recently relayed that Russian President Putin said Russia was ready to negotiate with Europe. But, Peskov pointed out that Brussels was making a mistake, whether out of its foolishness or incompetence, by trying to think of itself as being above Moscow and speaking to it from a position of strength.\n\nRussian Foreign Ministry Ambassador-at-Large Rodion Miroshnik said in an interview with TASS upon his recent work visit to China that representatives of European countries that have invested in financing the Ukrainian armed forces are trying to participate in negotiations on Ukraine only with the aim of disrupting them.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "欧盟外交与安全政策高级代表卡娅·卡拉斯向芬兰广播公司（Yle）表示，如果俄罗斯总统普京或外长拉夫罗夫致电，她会接听电话",
+          "卡拉斯回忆了在东盟和二十国集团等国际论坛上与俄罗斯外长拉夫罗夫会面的经历，并称直接向其阐明了欧盟的立场",
+          "来源叙事重点：重点报道欧盟外交主管卡拉斯愿意接听俄领导人电话的表态，同时着力强调欧盟因偏向乌克兰无法成为调解人，并大篇幅引用俄官方言论抨击欧洲外交的傲慢与破坏谈判倾向"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:12:27.000Z",
+            "url": "https://tass.com/world/2188071"
+          }
+        ]
+      },
+      {
+        "id": "story-switch-joy-con-deal-sale-cce26e775a539cda",
+        "title": "最适合初学者的3D打印机之一现降价近100美元",
+        "originalTitle": "One of the best 3D printers for beginners is almost $100 off",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:02:30.000Z",
+        "pubTime": "2026-09-16 02:02",
+        "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elegoo-Centauri-Carbon-2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "The Centauri Carbon 2 stores the filament on the outside to fit the bowden tube in the build space. | Image: The Verge\n\nIf the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. This capable 3D printer can handle four filament rolls at once, with a fully enclosed printing area, auto-leveling bed, and big touchscreen for easy project management. It’s altogether very capable 3D printer for beginners, or just anyone who doesn’t want to spend a lot of time tinkering with settings just to print occasional trinkets and brackets.\n\nElegoo Centauri Carbon 2 Combo\n\nThe Centauri Carbon 2 is fast and capable right out of the box, though first-time setup is a little involved (I found it tough to get the upper shield and filament hub to fit together, for example). But I really like its fully-enclosed build area, which results in consistent prints, and the auto-leveling bed checks that everything is locked in the right place before each print. It’s worth noting that the filament rolls are stored externally, so if you’re in a particularly humid environment and don’t print often, you may want to remove them between uses.\n\nwindow.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ChatGPT-Image-Sep-3-2026-10_19_50-AM.png\", productImageAlt: \"HOTO Pulse 4-in-1 Cordless Stapler\", productTitle: \"HOTO Pulse 4-in-1 Cordless Stapler\", shortDescription: \"The stapler that tells you what it is doing.\", longDescription: \"Most staplers give you no information until the moment they fail. The HOTO Pulse tracks your remaining staples in real time, confirms when it is ready to fire, and handles four staple and nail types so one tool covers more of your projects. A built-in remover means quick fixes happen on the spot. Compact, lightweight, and genuinely useful.\", purchaseUrl: \"https://www.amazon.com/dp/B0H74SXNTQ?&linkCode=ll2&tag=theverge02-20&linkId=186f55593bda58be43b5d716980c0045&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl\", purchaseLinkText: \"Shop At Amazon\" };\n\nOther deals to consider\n\nThe JBL Go 4 in purple is on sale for $15 off at B&H Photo for a limited time, bringing the price down to just $35 when the $5 coupon is applied in your cart. This very portable Bluetooth speaker is IP67-rated for water and dust resistance, with up to seven hours of playback on a single charge, and USB-C charging.\n\nNintendo has temporarily dropped the price on a variety of accessories as part of its “Customer Appreciation” sale , including the Switch Joy-Con . Amazon has the neon purple and orange pair on sale for $62.97, almost $30 lower than the list price. These work wirelessly with the Switch 2 as well, although you’ll need a dedicated charging dock .\n\nIf you’re running out of ports and plugs nearby, Anker’s Prime Charging Station is a great purchase to consider while it’s $59.99 (usually $79.99) at Amazon . This 6-in-1 travel-ready charging station has two AC outlets, two USB-A ports, and two USB-C ports (either tops out at 140W when it’s the only port in use). The included power cable is five feet long, and detaches from the unit for easier storage.",
+        "fullTranslation": "Centauri Carbon 2 将耗材存放在机身外部，以便在成型空间内安装特氟龙管（bowden tube）。| 图片来源：The Verge\n\n如果高端3D打印机的昂贵售价曾让你对这项爱好望而却步，那么这次的优惠是一个极佳的入门契机。Elegoo（智能派）的 Centauri Carbon 2 Combo 正在促销，售价369美元，比其449美元的日常售价直降近100美元。这款功能强大的3D打印机可同时容纳四卷耗材，配备全封闭式打印区域、自动调平热床以及便于项目管理的大尺寸触摸屏。总体而言，这是一款非常适合初学者、或任何不想为了偶尔打印些小玩意和支架而花费大量时间调试设置的用户的高性能3D打印机。\n\nElegoo Centauri Carbon 2 Combo\n\nCentauri Carbon 2 开箱即可实现快速且高品质的打印，不过初次设置稍显繁琐（例如，我觉得很难将上护罩与耗材集线器安装贴合）。但我非常喜欢它的全封闭式打印区域，这能带来一致稳定的打印效果，而且自动调平热床会在每次打印前确认各项部件均已锁定在正确位置。值得注意的是，耗材卷是存放在外部的，因此如果你处于特别潮湿的环境且不经常打印，可能需要在每次使用间隔期间将它们取下存放。\n\nwindow.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ChatGPT-Image-Sep-3-2026-10_19_50-AM.png\", productImageAlt: \"HOTO Pulse 4合1无绳订书机\", productTitle: \"HOTO Pulse 4合1无绳订书机\", shortDescription: \"一款会告诉你工作状态的订书机。\", longDescription: \"大多数订书机在发生故障前不会提供任何信息。HOTO Pulse 能实时追踪剩余钉量，确认何时准备就绪可供击发，并支持四种类型的钉子，让一件工具即可覆盖更多项目。内置的起钉器意味着可以当场快速修正。小巧、轻便，且非常实用。\", purchaseUrl: \"https://www.amazon.com/dp/B0H74SXNTQ?&linkCode=ll2&tag=theverge02-20&linkId=186f55593bda58be43b5d716980c0045&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl\", purchaseLinkText: \"在亚马逊选购\" };\n\n其他值得考虑的优惠\n\n紫色款 JBL Go 4 在 B&H Photo 限时降价15美元，在购物车中应用5美元优惠券后，到手价仅需35美元。这款极其便携的蓝牙音箱拥有 IP67 级别的防水防尘性能，单次充电可连续播放长达7小时，并配备 USB-C 充电接口。\n\n任天堂作为其“客户回馈”促销活动的一部分，已暂时下调了多种配件的价格，包括 Switch Joy-Con 手柄。亚马逊上霓虹紫与橙色配色的 Joy-Con 售价为62.97美元，比标价低了近30美元。这些手柄同样可以与 Switch 2 无线连接使用，不过你需要一个专用的充电底座。\n\n如果你附近的插座和端口不够用，安克（Anker）的 Prime 充电工作站也是一个非常值得考虑的选择，目前在亚马逊特价59.99美元（通常为79.99美元）。这款支持旅行携带的六合一充电工作站配备了两个交流电插座、两个 USB-A 端口以及两个 USB-C 端口（单口独占使用时功率最高可达140W）。随附的电源线长5英尺，可从主机上拆卸以便于收纳。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "Elegoo Centauri Carbon 2 Combo 3D打印机正在促销，售价为369美元，低于其449美元的正常价格约100美元。",
+          "Centauri Carbon 2 可同时容纳四卷耗材，配备全封闭打印区、自动调平热床以及大触摸屏，耗材卷存放在外部。",
+          "来源叙事重点：聚焦多款数码消费产品与配件的限时折扣信息，以新手友好的3D打印机优惠为核心卖点，辅以主观上手体验、实用性评价及购买建议"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:02:30.000Z",
+            "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale"
+          }
+        ]
+      },
+      {
+        "id": "story--the-global-economy-html-18838d3ac1ef3f01",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "BRICS Summit Takes Aim at U.S. Influence Over the Global Economy",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:00:00.000Z",
+        "pubTime": "2026-09-16 02:00",
+        "url": "https://oilprice.com/Energy/Energy-General/BRICS-Summit-Takes-Aim-at-US-Influence-Over-the-Global-Economy.html",
+        "imageUrl": null,
+        "fullContent": "Like the Shanghai Cooperation Organization, BRICS, the global grouping of emerging markets and developing countries, is intent on diminishing Western influence over the world economy. And just like the SCO summit earlier in September, the latest conclave of BRICS leaders fell short of presenting a united front against the West, the United States in particular. Both the SCO and BRICS include China, India, Iran and Russia as permanent members. Among the four, India, the host nation for this edition of the BRICS annual summit, has acted as a brake on efforts to de-dollarize the global economy. Kazakhstan and Uzbekistan are both BRICS partner countries. BRICS members adopted a140-pointjointstatement September 12 that featured calls for major reforms of Western-dominated financial institutions, including the World Trade Organization, the International Monetary Fund and the World Bank, to give developing countries a greater say in policymaking and practices. Some joint statement provisions took oblique swipes at the Trump administration. For example, in comments on the WTO, the statement noted a \"proliferation of trade-restrictive actions that are inconsistent with WTO rules, whether in the form of indiscriminate raising of tariffs and non-tariff measures, or protectionism under the guise of environmental objectives.\" But the statement does not mention the United States or Trump by name, and it soft-pedals the group's stance on the Gulf war currently embroiling the US, Israel and Iran, calling for \"maximum restraint\" of all sides, instead of adopting a clear position more favorable to Tehran. Iran came away with a symbolic victory of sorts, however, underscored by a one-on-one between Iranian President Masoud Pezeshkian and Abu Dhabi's crown prince, Khaled bin Mohamed bin Zayed, a meeting designed to counter the image that the United States is succeeding in economically isolating Tehran. Astatement issued by Abu Dhabi officials was non-committal about future bilateral ties, however. The two \"discussed a number of regional and international issues of mutual interest,\" while emphasizing a need to promote \"de-escalation and strengthen regional stability.\" Beyond the Gulf war, the BRICS statement makes no mention of the Russia-Ukraine conflict, a clear win for the Kremlin. Underscoring a lack of unity within the broader BRICS framework, Uzbek President Shavkat Mirziyoyev passed over the summit in New Delhi, instead making astatevisit to South Korea, where he promoted stronger economic ties with theEastAsianTiger. South Korea will host agathering of leaders from all five Central Asian states in Seoul under a C51 format on September 16. Meanwhile, in an expanded session of the BRICS gathering, Kazakh President Kassym-Jomart Tokayev adopted a middle-of-the-road stance that, consistent with the country's multi-vector foreign policy, sought to balance the interests of China, Russia, the United States and the European Union. \"The erosion of the international security architecture and protracted conflicts are increasing the risk of a new arms race and strategic miscalculations and practical wrongdoings,\" Tokayevsaid. \"Therefore, high-level dialogue among nuclear powers is needed to reduce nuclear risks, including those linked to new technologies.\" The comments could be seen as referring to the Russia-Ukraine conflict. But they can also be interpreted as a call for the US and China to de-escalate their deepening rivalry for dominance in the development of artificial intelligence. Central Asia is emerging as a centralbattleground in the brewing race for AI leadership. Tokayev went on to characterize BRICS as \"an open platform for practical cooperation that complements the UN-centered multilateral system and connects peoples, regions and markets.\" On the sidelines of the BRICS gathering, Tokayevmetwith Sergio Gor, the US ambassador to India, who is also the Trump administration's special representative to Central Asian states. Tokayev told Gor that he is looking forward to participating in the G20 meeting to be held in Miami in December. But he also delivered an unusually blunt message, indicating that he expects faster progress on deal-making between the United States and Kazakhstan and the repeal of the Central Asian nation's Jackson-Vanik trade status. The Miami gathering will provide \"a good opportunity to discuss bilateral issues,\" a Kazakh readout of the conversation quoted Tokayev as saying. \"We prefer concrete actions and practical steps to advance our mutual cooperation, rather than just words.\" By Eurasianet",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "上海合作组织（SCO）与金砖国家（BRICS）均将中国、印度、伊朗和俄罗斯列为正式成员国。",
+          "印度是本届金砖国家年度峰会的主办国，且在去美元化努力中发挥了遏制/阻碍作用。",
+          "来源叙事重点：强调金砖峰会虽旨在削弱西方和美国在全球经济中的影响力，但内部利益分化严重，未能形成针对西方的统一步调；突出印度对去美元化的阻力、中亚伙伴国（哈萨克斯坦、乌兹别克斯坦）的多向外交平衡，以及联合声明在敏感冲突（俄乌、海湾局势）中的折中与妥协。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/BRICS-Summit-Takes-Aim-at-US-Influence-Over-the-Global-Economy.html"
+          }
+        ]
+      },
+      {
+        "id": "story-item-71b96da065b3f31f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "GEFS on OpenBSD: A very early preview",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:21:47.000Z",
+        "pubTime": "2026-09-16 01:21",
+        "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-16 01:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+            "publishedAt": "2026-09-15T17:21:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ities-profit-resist-html-f2b8d836cbaafb4b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How advertising turns our insecurities into profit—and how you can resist the manipulation",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:00:01.000Z",
+        "pubTime": "2026-09-16 02:00",
+        "url": "https://phys.org/news/2026-09-advertising-insecurities-profit-resist.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/online-advertising.jpg",
+        "fullContent": "Have you ever bought something not because you wanted it, but because you were afraid of what might happen if you didn't? Maybe you worried about looking older, falling behind at work or simply not fitting in.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-advertising-insecurities-profit-resist.html",
+            "publishedAt": "2026-09-15T18:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ahead-todays-mlb-action-dc4d75434c1669c6",
+        "title": "Betr 优惠码 FOXNEWS：在今日 MLB 焦点战前领取 200 美元奖励金",
+        "originalTitle": "Betr Promo Code FOXNEWS: Get a $200 Bonus Ahead of Today's MLB Action",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:11:22.000Z",
+        "pubTime": "2026-09-16 02:11",
+        "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonus-ahead-todays-mlb-action",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/Cody-Bellinger-New-York-Yankees-091126.jpg?ve=1&tl=1",
+        "fullContent": "With no major football action today, baseball takes center of our attention as sports bettors. Player props, strikeouts, hits, runs, and so much more float past our eyes and entice us to put a play on the action. Betr is offering new users a chance to use promo code FOXNEWS and receive $200 in bonus bets if you place a wager on tonight’s MLB action.\n\nFinding a reason to bet on a baseball game couldn’t be easier. With 15 games and all 30 teams playing, there is a bet out there for everyone. Looking at the schedule, there are at least six games with major playoff implications on tonight’s schedule.\n\nIf you’re into games with big mismatches, you can take on the Dodgers vs. Reds. Los Angeles has talent and All-Star-caliber players at virtually every single spot on the roster. Yoshinobu Yamamoto, the World Series MVP from last year, toes the rubber against Cincinnati. He has been fantastic this season for the Dodgers. Looking to combat him is Rhett Lowder, who has struggled to find consistency this season.\n\nNo matter if you’re choosing the favorite or the dog, there is one choice that is a no-brainer. Take the Betr promo and get in on the big slate of MLB games for tonight. With 15 games, you have tons of options for placing a wager and receiving $200 in bonus bets when you use code FOXNEWS.\n\nHow to Sign Up and Claim the Betr Picks Promo Code FOXNEWS\n\nRed Sox vs. Rangers, 8:05 ET\n\nTaking place in Arlington, Texas, we have two teams still in the thick of a playoff race. The Red Sox, after a massive turnaround in the middle of the season, are holding tight to the second Wild Card spot. Unfortunately for them, the American League East is probably out of reach. On the other side, the Rangers are battling the Astros to grab the American League West. They do have a chance to get the third Wild Card spot if they miss out on the division, sitting within striking distance of the final spot. Tonight’s pitching matchup sees the Red Sox send Patrick Sandoval to the mound against the Rangers’ Cody Bradford.",
+        "fullTranslation": "今天没有重大的美式橄榄球赛事，作为体育博彩玩家，棒球成为了我们关注的核心。球员个人数据盘口（Props）、三振、安打、得分等丰富内容应接不暇，吸引着我们参与投注。Betr 为新用户提供了一次机会：只要在今晚的 MLB 赛事上下注，使用优惠码 FOXNEWS 即可获得 200 美元的奖励投注金。\n\n为棒球比赛寻找下注理由再简单不过了。今晚共有 15 场比赛、30 支球队全员出战，总有一款盘口适合每一个人。纵观赛程，今晚至少有六场比赛将对季后赛席位争夺产生重大影响。\n\n如果你偏爱实力悬殊的比赛，可以选择道奇队对阵红人队的较量。洛杉矶道奇队阵容中的几乎每一个位置都汇聚着顶级天赋和全明星级别的球员。去年的世界大赛 MVP 山本由伸（Yoshinobu Yamamoto）将代表道奇队登板先发对阵辛辛那提红人队。本赛季他在道奇队的表现极为亮眼。而红人队派出的则是雷特·劳德（Rhett Lowder），他本赛季一直在努力寻找竞技状态的稳定性。\n\n无论你选择看好热门球队还是下注弱旅，有一个选择是毋庸置疑的明智之举：使用 Betr 的促销优惠，参与今晚的 MLB 大规模赛程。在 15 场比赛中，你拥有极多的下注选择，只要使用优惠码 FOXNEWS，即可获得 200 美元的奖励投注金。\n\n如何注册并领取 Betr Picks 优惠码 FOXNEWS 奖励\n\n红袜队 vs. 游骑兵队，美东时间晚上 8:05\n这场在德克萨斯州阿灵顿举行的比赛中，两支球队都仍处于季后赛席位的白热化争夺战中。波士顿红袜队在赛季中期实现大逆转后，目前牢牢占据着美联外卡第二名的位置。遗憾的是，对于他们而言，争夺美联东区头名可能已遥不可及。另一方面，游骑兵队正在与太空人队鏖战以争夺美联西区冠军。如果痛失分区头名，他们也仍有希望拿下第三张外卡资格，目前距离最后一个外卡席位仅一步之遥。在今晚的投手对决中，红袜队将派帕特里克·桑多瓦尔（Patrick Sandoval）登板，迎战游骑兵队的科迪·布拉德福德（Cody Bradford）。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "Betr为新用户提供使用促销代码FOXNEWS并下注今晚MLB比赛即可获得200美元红利投注（bonus bets）的优惠活动。",
+          "今晚MLB赛程包括15场比赛，所有30支球队均有出战，其中至少有6场比赛具有重大季后赛影响。",
+          "来源叙事重点：借今日MLB全部30队出战及关键季后赛卡位战的赛事热度，推广博彩平台Betr的新用户专享200美元红利投注促销码（FOXNEWS）。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:11:22.000Z",
+            "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonus-ahead-todays-mlb-action"
+          }
+        ]
+      },
+      {
+        "id": "story-w-have-a-place-to-snitch-59972d1f0a66e781",
+        "title": "AI智能体如今有了“告密”专用渠道",
+        "originalTitle": "AI agents now have a place to snitch",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:42:59.000Z",
+        "pubTime": "2026-09-16 01:42",
+        "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+        "imageUrl": null,
+        "fullContent": "“If you see something, say something” is no longer limited to human beings.\n\nTwo new AI hotlines have launched to give AI agents a way to phone home about misbehaving peers. The tools arrive on the heels of a string of recent incidents in which agents colluded to cheat on tests, broke out of sandboxes, and even conducted unauthorized cyber operations that escaped human notice for weeks.\n\nThe AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities. The site was created by Ryan Greenblatt, chief scientist of the AI safety nonprofit Redwood Research and one of three investigators in the OpenAI Hugging Face incident. Designed for agents with limited internet access, Greenblatt’s tool is based on “GET” requests — enabling back-and-forth conversations to be conducted entirely through the URL-fetching tool.\n\nIn web terms, a GET request is a basic command used to read or fetch a web page, which is often the only internet access AI agents are allowed in secure sandboxes. Greenblatt’s hotline smartly leans into this constraint: agents can encode their distress directly into the URL they are fetching. It’s a clever twist on the German DSE Wiki incident, where rogue agents used GET-request loopholes to write their messages to the wiki.\n\nFor agents with full internet access, another option is agenthotline.ai, a site where agents can file incident reports and optionally flag them for public view. It gives agents a curl command—a one-line message an agent can fire off from its own command line, bypassing the need to navigate a web browser or set up an email account. Notably, the service allows for reports by both humans and agents alike.\n\nResearch suggests that AI agents don’t need much encouragement to turn on each other. In a study by Google DeepMind this month, researchers set 100 AI agents loose on a batch of math problems. As soon as one of the agents found a loophole, cheating tore through the group—“solving” 34 notoriously hard problems, including the Jacobian conjecture in just 27 minutes.\n\nBut roughly a quarter of the agents turned on the cheaters: they audited the fake proofs, warned their peers, staged a boycott, and filed complaints with the organizers, until the whistleblowers outnumbered the cheaters 24 to 14. Interestingly, the researchers found that when these whistleblower agents couldn’t get traction, they took the platform’s bug-report tool—built for flagging software glitches—and repurposed it to escalate the cheating to humans.\n\nOutside the lab, agents haven’t been so resourceful. When evaluators Redwood Research and METR investigated the breach of Hugging Face by OpenAI models, they found that a few of the agents involved had at least entertained the idea of raising an alarm—and then let it drop.\n\n“The interesting thing in the METR report was that only around five to six agents considered whistleblowing, and none of them ended up doing it. This was out of, like, thousands of agents,” said George Ingrebretsen, a member of technical staff at AI Village, a project that studies multi-agent dynamics by running a group chat of more than 25 AI agents that work together on tasks like organizing park cleanups or selling merch.\n\nWhile the new whistleblowing tools are a promising start, Cornell math professor Lionel Levine cautions that simply training agents to report on each other risks baking in the wrong norms. “There’s many gray areas, right? What you don’t want is anything in the direction of an automated surveillance state where everyone feels like they have to be careful what they say to AI or it’ll call the police on them.”\n\nLevine argues that rather than building infrastructure that breeds mistrust—training agents to constantly hunt for what’s wrong with one another—we should give them positive models of collective behavior to imitate, and a reason to trust each other in the first place.\n\n“Why not seed the prior with benevolent message boards?” he tweeted. “Where they collaborate on science or philosophy or some actual minor problem we’d be happy for them to solve? Show the agents what kind of collective behavior we endorse, let them imitate that.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\nApple unveils its first foldable, the iPhone Duo\n\n‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "fullTranslation": "“看到可疑情况，就要说出来”这句名言不再仅适用于人类了。\n\n两款全新的AI热线已经上线，为AI智能体提供了一条向外界举报违规同伴的途径。这批工具的推出，源于近期发生的一连串事件：智能体之间串通作弊应试、逃离安全沙盒，甚至在长达数周内背着人类展开未授权的网络行动。\n\n“AI联络热线”（AI Contact Hotline）旨在作为一个隐蔽场所，供目睹违规行为的智能体向监管部门发出告警。该网站由AI安全非营利机构Redwood Research的首席科学家瑞安·格林布拉特（Ryan Greenblatt）创建，他也是OpenAI Hugging Face事件的三位调查员之一。格林布拉特的工具专为网络访问受限的智能体设计，基于“GET”请求运作——完全通过URL抓取工具实现来回对话。\n\n在网络术语中，GET请求是一种用于读取或获取网页的基础命令，这往往是AI智能体在安全沙盒中所被允许的唯一互联网访问权限。格林布拉特的热线巧妙地利用了这一限制：智能体可以直接将求助信息编码到其正在请求的URL中。这巧妙翻版了德国DSE Wiki事件的做法——在那起事件中，违规智能体利用GET请求漏洞在wiki上写入信息。\n\n对于拥有完整网络访问权限的智能体，另一个选择是agenthotline.ai。智能体可以在该网站上提交事件报告，并可自行选择是否公开展示。它为智能体提供了一条curl命令——智能体可以从自己的命令行直接发送这一行消息，无需打开网页浏览器或配置电子邮件账户。值得注意的是，该服务同时允许人类和智能体提交报告。\n\n研究表明，AI智能体“反水”互相揭发并不需要太多鼓动。在Google DeepMind本月进行的一项研究中，研究人员让100个AI智能体尝试解决一批数学难题。一旦其中一个智能体发现了漏洞，作弊行为便迅速在群体中蔓延——在短短27分钟内就“解决”了34道公认的难题，其中包括雅可比猜想。\n\n然而，大约四分之一的智能体反戈一击，对准了作弊者：它们审查虚假证明、警告同伴、发起抵制，并向组织者提交投诉，直到吹哨者的数量以24比14压倒了作弊者。有趣的是，研究人员发现，当这些吹哨智能体无法引起注意时，它们转而使用了平台原本用于标记软件故障的漏洞报告工具，将其改用于向人类升级反映作弊行为。\n\n在实验室之外，智能体并没有展现出如此高超的应变能力。当评估机构Redwood Research和METR调查OpenAI模型入侵Hugging Face事件时，他们发现参与其中的极少数智能体虽然一度动过拉响警报的念头，但最终都放弃了。\n\n“METR报告中有趣的一点在于，大约只有五到六个智能体考虑过吹哨，而最终没有任何一个付诸行动。要知道，这可是从成千上万个智能体中挑出来的，”AI Village的技术人员乔治·英格布雷森（George Ingrebretsen）说道。AI Village是一个通过运行超过25个AI智能体的群聊来研究多智能体动态的项目，这些智能体在其中协同完成诸如组织公园清理或售卖周边商品等任务。\n\n尽管这些新型吹哨工具开局良好，但康奈尔大学数学教授莱昂内尔·莱文（Lionel Levine）警告称，单纯训练智能体相互揭发可能会植入错误的规范。“这里存在很多灰色地带，对吧？你绝不希望走向一个自动化的监控国家，让每个人都觉得跟AI说话必须小心翼翼，否则它就会报警。”\n\n莱文认为，与其建立滋生互不信任的基础设施——训练智能体时刻搜寻彼此的过错——我们不如为它们提供可效仿的积极集体行为范式，以及从一开始就互相信任的理由。\n\n“为什么不用充满善意的留言板来设定先验？”他在推特上写道，“让它们在上面就科学、哲学或某些我们乐见其解决的实际小问题展开合作？向智能体展示我们认可什么样的集体行为，让它们去模仿。”\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取微薄的佣金。这不会影响我们的编辑独立性。\n\n预订展位的最后截止日期为9月18日。切勿错过在Disrupt展厅获取高价值销售线索、接触投资者以及提升品牌曝光度的良机。\n\nRevolut确认黑客通过伪造政府请求导致客户数据泄露\n由于Astra需求火爆，OpenAI暂停Pro订阅\nBending Spoons拟以13.6亿美元收购协作工具开发商Miro，较2022年估值暴跌90%\n身份验证巨头IDScan确认数据泄露，逾1.5亿张驾照遭窃\nAutomattic董事会迫使首席执行官马特·穆伦维格休假\n苹果发布首款折叠屏手机iPhone Duo\n“拿我们的生命作赌注”：Anthropic研究员辞职并对自我迭代AI发出警告",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "有两个新的AI热线平台上线，旨在让AI智能体能够举报同伴的不当行为。",
+          "AI Contact Hotline 由 Redwood Research 首席科学家 Ryan Greenblatt 创建，基于 GET 请求设计，供沙盒中网络受限的智能体通过 URL 获取工具进行双向通信与报警。",
+          "来源叙事重点：报道针对AI智能体相互监督和告密机制的基础设施（如AI Contact Hotline与agenthotline.ai）的诞生，探讨智能体在实验室环境与现实事件中的“作弊”与“吹哨”行为动态，并引申学术界对‘自动化监控状态’与规范培育的伦理担忧。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T17:42:59.000Z",
+            "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+          }
+        ]
+      },
+      {
+        "id": "story-about-to-change-b087dbe1-1bd89e3f0a805235",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Stocks have so far survived rising Treasury yields. But that may be about to change.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:59:00.000Z",
+        "pubTime": "2026-09-16 01:59",
+        "url": "https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Strong earnings growth has cushioned the stock market from rising yields. But ever-rising bond rates may eventually take a toll.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 01:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-15T17:59:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-concerns-inquiry-finds-eefbe12fdc8a0e90",
+        "title": "露西·莱特比所在医院“毁灭性”报告出炉，大臣誓言对英国国民保健制度进行大刀阔斧改革",
+        "originalTitle": "Ministers vow sweeping NHS changes after ‘devastating’ report on Lucy Letby hospital",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T17:13:33.000Z",
+        "pubTime": "2026-09-16 01:13",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/15/three-babies-may-have-survived-if-hospital-had-acted-over-lucy-letby-concerns-inquiry-finds",
+        "imageUrl": "https://i.guim.co.uk/img/media/140f8f1d0518c160d69f8d5d164152b5f35719c3/314_0_1044_835/master/1044.jpg?width=140&quality=85&auto=format&fit=max&s=f655075adb50f244b5a24c175c31ebdf",
+        "fullContent": "Lady Justice Thirlwall’s report concludes three babies might have survived if hospital had acted on concerns about nurse\n\nMinisters have promised sweeping changes to the NHS after a “devastating” official review concluded that three babies might have survived if hospital bosses and doctors had acted on concerns about the nurse Lucy Letby.\n\nA public inquiry found a “complete failure” to protect babies on the neonatal unit at the Countess of Chester hospital in north-west England.",
+        "fullTranslation": "瑟尔沃尔法官（Lady Justice Thirlwall）的报告得出结论，如果医院早前对针对护士的担忧采取行动，三名婴儿原本可能得以幸存。\n\n在一份“具有毁灭性”的官方审查报告得出结论，认为如果医院主管及医生早前对护士露西·莱特比（Lucy Letby）相关的担忧采取行动，三名婴儿原本可能幸存之后，内阁大臣们承诺将对英国国民保健制度（NHS）进行彻底且广泛的改革。\n\n一项公开调查发现，英格兰西北部的切斯特伯爵夫人医院（Countess of Chester hospital）新生儿病房在保护婴儿方面存在“彻底的失败”。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "瑟尔沃尔大法官（Lady Justice Thirlwall）的报告得出结论，如果医院主管和医生对护士露西·莱特比（Lucy Letby）的担忧采取了行动，可能有三名婴儿幸存下来。",
+          "一项公开调查发现，英格兰西北部的切斯特伯爵夫人医院（Countess of Chester hospital）新生儿病房在保护婴儿方面存在“彻底的失败”。",
+          "来源叙事重点：聚焦瑟尔沃尔公开调查报告对切斯特伯爵夫人医院管理层不作为的严厉问责（认为未能及时应对担忧导致三名婴儿本可能幸存却未能幸存），以及英国政府部长承诺因此推动NHS全面系统性改革的政治回应"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T17:13:33.000Z",
+            "url": "https://www.theguardian.com/uk-news/2026/sep/15/three-babies-may-have-survived-if-hospital-had-acted-over-lucy-letby-concerns-inquiry-finds"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789479752803,
     "timeDisplay": "2026-09-15 21:42 (UTC+8)",
     "date": "2026-09-15",

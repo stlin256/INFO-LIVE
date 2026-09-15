@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-15 · 今日](/INFO-LIVE/archive-2026-09-15/)
+- [2026-09-16 · 今日](/INFO-LIVE/archive-2026-09-16/)
+- [2026-09-15 · 历史快照](/INFO-LIVE/archive-2026-09-15/)
 - [2026-09-14 · 历史快照](/INFO-LIVE/archive-2026-09-14/)
 - [2026-09-13 · 历史快照](/INFO-LIVE/archive-2026-09-13/)
 - [2026-09-12 · 历史快照](/INFO-LIVE/archive-2026-09-12/)
@@ -26,14 +27,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **36** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **37** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-15 21:42 (UTC+8)
+- **最新归档时间**：2026-09-16 02:20 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-16 02:20 (UTC+8)" title="全球要闻情报简报 · 02:20" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-16 02:17 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】SpaceX将于9月22日首次尝试将“星舰”送入轨道：SpaceX周二宣布，已准备好对其巨型火箭“星舰”（Starship）进行第14次试飞，这一次该公司终于将首次尝试将其第二级（上级）送入地球轨道。；【undefined】卫报社论：关于露西·莱特比案，瑟尔沃尔本应等待待定的案件复审：针对新生儿护理的重要建议，被笼罩在对涉案护士定罪的质疑阴影之下。；【undefined】最适合初学者的3D打印机之一现降价近100美元：Centauri Carbon 2 将耗材存放在机身外部，以便在成型空间内安装特氟龙管（bowden tube）。| 图片来源：The Verge；【undefined】Betr 优惠码 FOXNEWS：在今日 MLB 焦点战前领取 200 美元奖励金：今天没有重大的美式橄榄球赛事，作为体育博彩玩家，棒球成为了我们关注的核心。球员个人数据盘口（Props）、三振、安打、得分等丰富内容应接不暇，吸引着我们参与投注。Betr 为新用户提供了一次机会：只要在今晚的 MLB 赛事上下注，使用优惠码 FOXNEWS 即可获得 200 美元的奖励投注金。；【undefined】AI智能体如今有了“告密”专用渠道：“看到可疑情况，就要说出来”这句名言不再仅适用于人类了。；【undefined】露西·莱特比所在医院“毁灭性”报告出炉，大臣誓言对英国国民保健制度进行大刀阔斧改革：瑟尔沃尔法官（Lady Justice Thirlwall）的报告得出结论，如果医院早前对针对护士的担忧采取行动，三名婴儿原本可能得以幸存。；【undefined】洲际交易所原油走高 布伦特原油期货价格突破每桶109美元：塔斯社莫斯科9月15日电 市场数据显示，周二伦敦洲际交易所（ICE）11月交割的布伦特原油期货价格上涨逾3.5%，突破每桶109美元关口。；【undefined】特朗普特使：美国无法相信默茨的话：华盛顿，9月15日。/塔斯社/。美国总统特别任务特使理查德·格雷内尔表示，美国无法相信德国总理弗里德里希·默茨的话。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260915/tromb-2117899883.html) <span class="news-meta-time">🕒 2026-09-16 02:14</span>
+- [TechCrunch (硅谷创业与资本)] [SpaceX将于9月22日首次尝试将“星舰”送入轨道](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/) <span class="news-meta-time">🕒 2026-09-16 02:16</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Geopolitics/Middle-East/The-New-Mecca-Alliance-Warns-Iran-Over-Houthi-Attacks-on-Saudi-Arabia.html) <span class="news-meta-time">🕒 2026-09-16 02:00</span>
+- [The Guardian Society (卫报社会与民生)] [卫报社论：关于露西·莱特比案，瑟尔沃尔本应等待待定的案件复审](https://www.theguardian.com/commentisfree/2026/sep/15/the-guardian-view-on-lucy-letby-thirlwall-should-have-waited-for-the-pending-case-review) <span class="news-meta-time">🕒 2026-09-16 01:59</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-stable-enzyme-deep-sea-microbe.html) <span class="news-meta-time">🕒 2026-09-16 02:00</span>
+- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2188071) <span class="news-meta-time">🕒 2026-09-16 02:12</span>
+:::
 :::timeline-item{start="2026-09-15 21:42 (UTC+8)" title="全球要闻情报简报 · 21:42" org="ARCHIVE"}
 **速报纪要：** 本监测周期内，人工智能技术的应用场景呈现向家庭安全硬件与社会公益项目延伸的趋势。SimpliSafe正式推出支持AI分析的主动式可视门铃，而比尔·盖茨方面则计划将捐赠资金投入用于缩小社会不平等差距的AI项目。
 
