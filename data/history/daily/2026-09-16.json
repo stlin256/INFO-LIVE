@@ -1,5 +1,1569 @@
 [
   {
+    "timestamp": 1789508057843,
+    "timeDisplay": "2026-09-16 05:34 (UTC+8)",
+    "date": "2026-09-16",
+    "runId": "feed-20260915T213213651Z-2xxzps",
+    "generatedAt": "2026-09-15T21:34:17.843Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 05:32",
+      "lead": "本轮抓取于 2026-09-16 05:32 (UTC+8) 完成，共获得 33 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】媒体：特朗普在2024年大选后身家激增27亿美元：塔斯社纽约9月16日电 据《福布斯》杂志报道，美国总统唐纳德·特朗普目前的净资产为70亿美元，据估计比他在赢得2024年大选时增加了27亿美元。",
+        "【undefined】韦伯望远镜揭示恒星形成动态全景，发现已知质量最小的褐矮星：编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）",
+        "【undefined】微软宣布将于10月7日举办Windows与Surface发布会：该话题的内容将添加到您的每日电子邮件摘要和主页信息流中。 该作者发布的内容将添加到您的每日电子邮件摘要和主页信息流中。 查看汤姆·沃伦（Tom Warren）的全部文章 距离上一次重大的Windows发布活动已过去两年多，因此微软将于下个月前往旧金山，勾勒Windows和Surface设备的未来蓝图。在定于10月7日举行的活动中，该公司表示将主办一场关于“本地AI将如何塑造个人电脑下一篇章”的对话。 微软首席执行官萨蒂亚·纳德拉（Sat",
+        "【undefined】无序原子通过匹配运动与时序引导共享光脉冲：作者：达姆施塔特工业大学 编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性： 同行评审出版物 德国达姆施塔特工业大学（TU Darmstadt）应用物理研究所的一个研究团队首次表明，完全无序且处于恒定运动中的原子，即使原子本身及其所处环境都不具备方向性，依然能够优先朝单一方向共同发射定向光，并且这种",
+        "【undefined】澳大利亚政坛动态直播：兰比将“危险的”汉森比作特朗普；新南威尔士州一国党党魁希望“阻止”堕胎：实时追踪当日新闻 订阅我们的全新政治电邮简报、免费应用程序或每日新闻播客 早上好，我是克里沙尼·丹吉（Krishani Dhanji），感谢马丁·法勒（Martin Farrer）为我们开启今日报道。 一国党（One Nation）今天将继续主导议会各处的热议话题；如果您还没读过，不妨阅读一下我的同事萨拉·马丁（Sarah Martin）关于宝琳·汉森（Pauline Hanson）之女在未经部长批准的情况下远程办公的报道。 在BetS",
+        "【undefined】麦克勒莫被除名后，艾德·希兰美国巡演全部助阵嘉宾退出：艾德·希兰（Ed Sheeran）周二发表声明表示，将麦克勒莫（Macklemore）从其即将举行的美国巡演场次中除名是主办方的决定。 在说唱歌手麦克勒莫因在舞台上发表支持巴勒斯坦的言论而被从演出阵容中除名后，艾德·希兰美国巡演的所有剩余助阵嘉宾均已退出。 其中包括流行歌星比莉·艾利什（Billie Eilish）的哥哥芬尼亚斯（Finneas），他在一份声明中表示：“当艺术家为受压迫者发声时，绝不能让他们被噤声。” 爱尔兰创作歌手艾伦",
+        "【undefined】德国选择党寻求与俄罗斯关系全面正常化——《图片报》：柏林，9月15日。/塔斯社/。《图片报》援引消息人士报道，德国选择党（AfD）打算寻求与俄罗斯实现关系全面正常化，并恢复双边贸易。",
+        "【undefined】迈克尔·拉帕波特对麦克莫尔被踢出艾德·希兰巡演表示欢呼，破口大骂“去你的”：周一，演员迈克尔·拉帕波特（Michael Rapaport）对歌手麦克莫尔（Macklemore）被踢出艾德·希兰（Ed Sheeran）巡演表示庆祝，此前麦克莫尔在作为开场嘉宾时，反复高呼“解放巴勒斯坦”，并演唱了他的反以色列歌曲《欣德大厅》（Hind’s Hall）。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "多维动态简报：政经财政表现与前沿科学环境研究",
+      "lead": "本期简报梳理了跨领域的国际政经动态与前沿科学研究，涵盖政要资产与海外交易关注、宏观财政通胀博弈、地方生态环境风险评估，以及韦伯望远镜关于超低质量褐矮星的最新天文发现。",
+      "themes": [
+        {
+          "name": "国际政经与民调财政动向",
+          "analysis": "根据媒体披露，相关报道涉及美国总统通过加密货币投资及海外商业合作获利的分析；在宏观财政方面，有政府设定了1.3%的财政盈余目标，但通胀率预计仍高达18%；政治舆情方面，有临时领导人的民调呈现分化，正面评价为28.8%，负面评价达64.3%。"
+        },
+        {
+          "name": "生态环境与前沿天文学新进展",
+          "analysis": "在生态治理领域，犹他大学研究团队联合威尔克斯气候科学与政策中心发布报告，为当地环境部门及政策制定者提供了大盐湖裸露湖床粉尘风险评估、治理成本及湖泊水位长期稳定的综合效益分析。在天文学领域，NASA詹姆斯·韦伯太空望远镜公布了IC 348恒星形成区的大尺寸图像，天文学家在该区域发现了质量仅为木星两倍的极低质量褐矮星，拓展了恒星形成过程的研究边界。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 92,
+      "completedTasks": 92,
+      "succeeded": 81,
+      "degraded": 11,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 92,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 124136,
+      "byRole": {
+        "translator": {
+          "attempts": 58,
+          "succeeded": 48,
+          "degraded": 10
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 92,
+          "succeeded": 81,
+          "degraded": 11
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-14-translator-0",
+      "article-19-translator-0",
+      "article-43-translator-0",
+      "article-44-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:56.906Z",
+        "lastSuccessAt": "2026-09-15T21:31:57.706Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:56.917Z",
+        "lastSuccessAt": "2026-09-15T21:31:57.677Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.180Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.337Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.220Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.560Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:59.222Z",
+        "lastSuccessAt": "2026-09-15T21:32:00.547Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:59.186Z",
+        "lastSuccessAt": "2026-09-15T21:32:00.263Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:32:00.862Z",
+        "lastSuccessAt": "2026-09-15T21:32:01.104Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:57.503Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.180Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.330Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.617Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.310Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.582Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:57.981Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.310Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:57.833Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.283Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:57.677Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.086Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:57.706Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.096Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-15T21:32:00.547Z",
+        "lastSuccessAt": "2026-09-15T21:32:01.390Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-15T21:32:00.263Z",
+        "lastSuccessAt": "2026-09-15T21:32:01.201Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:32:00.341Z",
+        "lastSuccessAt": "2026-09-15T21:32:00.915Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.460Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.897Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.096Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.256Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.086Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.220Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:57.474Z",
+        "lastSuccessAt": "2026-09-15T21:31:57.503Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:56.140Z",
+        "lastSuccessAt": "2026-09-15T21:31:57.474Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.876Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.953Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.790Z",
+        "lastSuccessAt": "2026-09-15T21:31:59.038Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.560Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.957Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.805Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.985Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.995Z",
+        "lastSuccessAt": "2026-09-15T21:32:00.862Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.337Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.761Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T21:32:00.793Z",
+        "lastSuccessAt": "2026-09-15T21:32:04.574Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.897Z",
+        "lastSuccessAt": "2026-09-15T21:31:59.022Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:59.038Z",
+        "lastSuccessAt": "2026-09-15T21:31:59.235Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:59.023Z",
+        "lastSuccessAt": "2026-09-15T21:31:59.090Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:59.090Z",
+        "lastSuccessAt": "2026-09-15T21:31:59.471Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:32:00.857Z",
+        "lastSuccessAt": "2026-09-15T21:32:01.008Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.256Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.330Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.467Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.995Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.761Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.876Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:59.040Z",
+        "lastSuccessAt": "2026-09-15T21:31:59.271Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-15T21:31:58.985Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.957Z",
+        "lastSuccessAt": "2026-09-15T21:31:59.186Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:56.138Z",
+        "lastSuccessAt": "2026-09-15T21:31:57.538Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-15T21:31:59.031Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:56.139Z",
+        "lastSuccessAt": "2026-09-15T21:31:57.981Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:59.235Z",
+        "lastSuccessAt": "2026-09-15T21:32:00.857Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.617Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.805Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:57.538Z",
+        "lastSuccessAt": "2026-09-15T21:31:57.833Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.953Z",
+        "lastSuccessAt": "2026-09-15T21:31:59.031Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.582Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.790Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:59.271Z",
+        "lastSuccessAt": "2026-09-15T21:32:00.341Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:59.471Z",
+        "lastSuccessAt": "2026-09-15T21:32:00.793Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.294Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.460Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:58.283Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.467Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:56.123Z",
+        "lastSuccessAt": "2026-09-15T21:31:56.917Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:56.136Z",
+        "lastSuccessAt": "2026-09-15T21:31:56.906Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-15T21:31:56.137Z",
+        "lastSuccessAt": "2026-09-15T21:31:58.294Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-world-2188113-9b9d3407b2fe278b",
+        "title": "媒体：特朗普在2024年大选后身家激增27亿美元",
+        "originalTitle": "Trump became $2.7 bln richer after 2024 election — media",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:27:36.000Z",
+        "pubTime": "2026-09-16 05:27",
+        "url": "https://tass.com/world/2188113",
+        "imageUrl": null,
+        "fullContent": "NEW YORK, September 16. /TASS/. US President Donald Trump is currently worth $7 billion, an estimated $2.7 billion more than when he won the 2024 election, Forbes reported.\n\nAccording to the magazine, Trump cashed in on crypto ventures and overseas deals. \"No one in American history has made so much money on politics,\" Forbes noted.\n\nThe Washington Post reported in July that Trump’s wealth had grown on a scale unprecedented for a US president. In a later interview with CNBC, Trump rejected any links between the growth in his wealth and his being US president. \"I don’t do anything having to do with my business. My kids run it,\" he said.",
+        "fullTranslation": "塔斯社纽约9月16日电 据《福布斯》杂志报道，美国总统唐纳德·特朗普目前的净资产为70亿美元，据估计比他在赢得2024年大选时增加了27亿美元。\n\n该杂志称，特朗普通过加密货币投资项目和海外交易大赚了一笔。《福布斯》指出：“美国历史上从未有人通过政治赚到这么多钱。”\n\n《华盛顿邮报》今年7月曾报道称，特朗普财富的增长规模对历任美国总统而言是史无前例的。随后在接受CNBC采访时，特朗普否认了其财富增长与其担任美国总统之间存在任何关联。他表示：“我从不插手任何与我的生意有关的事情。都是我的孩子们在经营。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "据《福布斯》报道，美国总统唐纳德·特朗普目前身价为70亿美元，估计比他赢得2024年大选时增加了27亿美元。",
+          "《福布斯》报道称，特朗普通过加密货币投资和海外交易获利，并指出“美国历史上没有人通过政治赚过这么多钱”。",
+          "来源叙事重点：聚焦特朗普在2024年胜选后身价大幅飙升，重点援引西方财经媒体对其涉足加密货币、海外交易及‘利用政治牟利’的指控，同时简要补充特朗普本人的否认声明以维持报道形式上的平衡。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:27:36.000Z",
+            "url": "https://tass.com/world/2188113"
+          }
+        ]
+      },
+      {
+        "id": "story-tation-9-10-0-index-html-171b3d65d5ad162d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:07:47.000Z",
+        "pubTime": "2026-09-16 05:07",
+        "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+        "imageUrl": null,
+        "fullContent": "The onboardapi interface library and middleware is designed for seamless communication between sensor systems and software components. It provides a standardized data model that ensures interoperability across complex hardware and software environments.\n\nBy leveraging DDS XTypes and XCDR2 encoding, this library ensures full backward compatibility. This allows different versions of your software to coexist and communicate seamlessly, even as the data model evolves.\n\nWhile the core library is provided in C++, the API supports multi-language integration via wrappers for Java, C# / .NET, and Python.\n\nLicenses / Disclaimer",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "onboardapi 是一个接口库和中间件，专为传感器系统与软件组件之间的无缝通信而设计。",
+          "该库提供标准化数据模型，确保复杂软硬件环境间的互操作性。",
+          "来源叙事重点：聚焦德国军工巨头莱茵金属开源其 onboardapi 接口库与中间件（社区标题指称为 Battlesuite 联网武器系统协议），强调其传感器与软件间的无缝通信、DDS XTypes/XCDR2 向后兼容性及多语言互操作能力。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:07:47.000Z",
+            "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html"
+          }
+        ]
+      },
+      {
+        "id": "story-owdown-in-sight-8fd99c4b-ef5ecfecd865c211",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:15:00.000Z",
+        "pubTime": "2026-09-16 05:15",
+        "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 05:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-15T21:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ration-is-preparing-a-28-d5325cd74c52e57e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Trump administration is preparing a $2.8 billion sale of 2,000-pound bombs to Israel, the largest single sale of the controversial munitions in recent years, a U.S. official told The Post.",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T19:49:35.000Z",
+        "pubTime": "2026-09-16 03:49",
+        "url": "https://www.reddit.com/r/worldnews/comments/1whau6b/the_trump_administration_is_preparing_a_28/",
+        "imageUrl": "https://external-preview.redd.it/21spW7ko3LvBN5oskZPqOeFreqdHlqhluRUXv0f1UpU.jpeg?width=640&crop=smart&auto=webp&s=db5079d21513b280c3915a7c516ccb7b8bf30a95",
+        "fullContent": "submitted by /u/Express_Dot3535 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-16 03:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1whau6b/the_trump_administration_is_preparing_a_28/",
+            "publishedAt": "2026-09-15T19:49:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-09-options-gsl-html-2d30278bf4d7b5c4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What are best options for controlling GSL dust, and what would they cost?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:20:04.000Z",
+        "pubTime": "2026-09-16 05:20",
+        "url": "https://phys.org/news/2026-09-options-gsl.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-are-best-options.jpg",
+        "fullContent": "by Ross Chambless, University of Utah\n\nedited by Lisa Lock, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nA new collaborative report from University of Utah researchers and coordinated by the Wilkes Center for Climate Science & Policy provides Utah Department of Natural Resources, Department of Environmental Quality and policymakers with a comprehensive analysis of the growing risks posed by dust from the exposed lakebed of Great Salt Lake, the potential costs of controlling that dust, and the long-term benefits of stabilizing lake levels.\n\nCommissioned by the Utah Division of Water Resources as a key input for the Great Salt Lake Basin Integrated Plan, the report \"Options and Costs for Great Salt Lake Dust Control,\" provides state planners with scientific, economic and engineering data to evaluate when and where lakebed dust control measures may be warranted.\n\n\"We have an opportunity to be strategic about how we address Great Salt Lake dust,\" said Kevin Perry, a professor of atmospheric sciences at the University of Utah and lead author of the report. \"That means using better data to identify the highest-risk areas, protecting communities that face the greatest exposure, stabilizing the lake wherever we can, and reserving engineered controls for places where the evidence shows they are necessary.\"\n\nAs Great Salt Lake water levels declined in recent years, more than 800 square miles of lakebed have been exposed to potential wind erosion. Perry's research has identified approximately 70 square miles as active dust hotspots, with that area potentially expanding to as much as 187 square miles if protective surface crusts continue to degrade or groundwater levels decline.\n\nThe report emphasizes that the state faces costs whether it acts or fails to act—and that decisions made today can significantly affect those future costs.\n\n\"The state commissioned this research to give our agencies the empirical data needed to make informed policy decisions,\" said Laura Vernon, Great Salt Lake Basin Planner at the Utah Division of Water Resources. \"As we finalize the Basin Integrated Plan, these findings will shape long-term water management recommendations and emphasize the point that delivering water to the lake is the single most cost-effective way to suppress dust and prevent billions in taxpayer-funded mitigation.\"\n\nGreat Salt Lake dust is a growing regional air-quality concern—but not all exposed lakebed poses the same risk. The research distinguishes between exposed lakebed and areas that are actively generating dust that reaches populated areas. The authors recommend sustained, comprehensive monitoring and source attribution to identify the locations creating the greatest risks before committing to large-scale engineered controls. Better data can help Utah avoid both underreacting to significant health risks and spending billions on areas that do not pose material public exposure.\n\nDust exposure is not shared equally across northern Utah communities. Tooele County residents have the highest average modeled exposure, followed by Salt Lake County. The analysis also identifies higher modeled exposure among several racial and ethnic groups, foreign-born residents, non-citizens, people with lower educational attainment and people without health insurance. The findings underscore the importance of considering community-level exposure and population vulnerability when setting monitoring and mitigation priorities.\n\nThe health costs of continued lake decline are substantial. At a lake elevation of 4,192 feet, Great Salt Lake dust is associated with an estimated $115.79 million in annual health costs, including approximately 6.24 premature deaths, 17,052 work-loss days and nearly 17,748 school absences each year. Under the report's low-lake scenario of 4,183 feet, annual health costs rise to $133.67 million. At the minimum healthy elevation of 4,198 feet, they fall to $73.39 million. Through 2060, the report estimates that maintaining current conditions would result in $5.79 billion in cumulative health costs, compared with $3.71 billion if the lake were restored to and maintained at the minimum healthy elevation. At the historical average elevation, cumulative health costs fall to an estimated $1.89 billion.\n\nEngineered dust controls are possible, but potentially expensive and water-intensive. The report evaluates numerous approaches, including precision surface wetting, flooding, dynamic water management, brine caps, managed vegetation, chemical suppressants, gravel, tillage and artificial surface roughness. No single approach is appropriate for every location. Estimated 50-year costs range from about $3.3 million to $448 million per square mile, depending on the technology and site. Applied across the currently identified 70 square miles of active hotspots, projected costs range from approximately $3.2 billion to more than $31 billion. Those costs could increase by roughly 2.7 times if active hotspots expand to 187 square miles.\n\nStabilizing lake levels may be the most durable long-term way to reduce dust at its source. Higher lake levels cover exposed playa, reduce dust-generating surfaces and can reduce the amount of water needed for some peripheral mitigation measures. The modeling estimates that average dust exposure in northern Utah would be approximately 15% lower under a healthy-lake scenario than under a very-low-lake scenario, with reductions exceeding 50% for some communities bordering the lake. The report concludes that lake-level stabilization and targeted engineered controls should be viewed as complementary strategies, not alternatives.\n\nThe report recommends that Utah pursue a phased, evidence-based approach to dust management. Other policy recommendations include:\n\nReport: Options and Costs for Great Salt Lake Dust Control\n\nProvided by University of Utah\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "犹他大学研究人员发布由威尔克斯气候科学与政策中心协调的报告《大盐湖防尘方案与成本》（Options and Costs for Great Salt Lake Dust Control），由犹他州水资源部委托编写。",
+          "近年来大盐湖水位下降，导致超过800平方英里的湖床暴露并面临风蚀风险。",
+          "来源叙事重点：报道犹他大学受州政府委托撰写的最新科学评估报告，重点阐述大盐湖干涸湖床沙尘造成的公共健康损失、工程控尘措施的高昂成本，强调稳定湖泊水位与靶向工程控尘相结合是兼具经济效益与长期可持续性的防尘方案。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:20:04.000Z",
+            "url": "https://phys.org/news/2026-09-options-gsl.html"
+          }
+        ]
+      },
+      {
+        "id": "story-7-9dfa-17ca6126c2ba-html-645f8f98627b5e17",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Milei presenta la legge di bilancio per il 2027, crescita prevista al 4%",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-15T21:27:14.000Z",
+        "pubTime": "2026-09-16 05:27",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/milei-presenta-la-legge-di-bilancio-per-il-2027-crescita-prevista-al-4_e78f3b6b-5adb-4927-9dfa-17ca6126c2ba.html",
+        "imageUrl": null,
+        "fullContent": "Il governo ultraliberista di Javier Milei ha presentato oggi la nuova Legge di Bilancio per il 2027 in cui si propone nuovamente di raggiungere un avanzo dell'1,3% mantenendo un ritmo di crescita del 4%. Non scompare tuttavia l'inflazione che, negli obiettivi iniziali del governo, al suo quarto anno di mandato doveva già essere \"annichilata\" e che viene adesso stimata invece al 18%. L'anno scorso, il governo aveva previsto nella finanziaria una crescita del pil del 5% e un'inflazione del 10,1% per il 2026, stime rivelatesi entrambe ottimistiche fino ad ora, tenendo conto che al ritmo attuale si prevede per l'anno in corso un'espansione tra il 2 e il 3% e un'inflazione ancora attestata attorno al 30%. In un messaggio sui social il ministro dell'Economia, Luis Caputo, ha sottolineato che grazie alla nuova Legge di Bilancio \"sarà la prima volta nella nostra storia con quattro anni consecutivi di avanzo fiscale senza che il Paese sia in default\".\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "哈维尔·米莱政府提交了2027年度预算草案，目标是实现1.3%的财政盈余，并预计经济增长率为4%。",
+          "2027年预算草案中预估的通胀率为18%，而在政府最初目标中该阶段通胀应已被消除。",
+          "来源叙事重点：聚焦阿根廷米莱政府提交的2027年预算案，一方面转述官方对财政盈余与经济增长的承诺，另一方面着重对比历史预测与实际数据的落差，质疑其过于乐观的经济预估和未达预期的控通胀成效"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-15T21:27:14.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/milei-presenta-la-legge-di-bilancio-per-il-2027-crescita-prevista-al-4_e78f3b6b-5adb-4927-9dfa-17ca6126c2ba.html"
+          }
+        ]
+      },
+      {
+        "id": "story-biographies-serre-b416af198b57a2ec",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jean-Pierre Serre is 100 years old today",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T20:57:18.000Z",
+        "pubTime": "2026-09-16 04:57",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+        "imageUrl": null,
+        "fullContent": "Other pages about Jean-Pierre Serre:\n\nOther websites about Jean-Pierre Serre:\n\nHonours awarded to Jean-Pierre Serre",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-16 04:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+            "publishedAt": "2026-09-15T20:57:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ggest-wild-card-ec273da8-47bafb3021f04251",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "2 charts showing how oil is becoming the market’s biggest wild card",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:07:00.000Z",
+        "pubTime": "2026-09-16 05:07",
+        "url": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Oil is increasingly calling the tune in global markets as rising energy prices make investors nervous.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 05:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-15T21:07:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-a-measles-outbreak-death-d6e3c48de85985a9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fourth person dies of measles-associated illness in US",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:42:28.000Z",
+        "pubTime": "2026-09-16 02:42",
+        "url": "https://www.theguardian.com/us-news/2026/sep/15/pennsylvania-measles-outbreak-death",
+        "imageUrl": "https://i.guim.co.uk/img/media/3cd307152c6a1d868153f9fa5577433f17059b06/277_0_2770_2216/master/2770.jpg?width=140&quality=85&auto=format&fit=max&s=f2b2eafcc9cc3e85c601f02876df72b2",
+        "fullContent": "All deaths occurred in Pennsylvania, in worst year since 1992 for one of the most contagious diseases\n\nPennsylvania health officials said a fourth person had died of measles-associated illness in the worst year for the disease since 1992 . All four US deaths have occurred in the state.\n\nDue to the Trump administration changing how it reports measles deaths, the Centers for Disease Control and Prevention (CDC) does not count any of the deaths in its national tally. Three people died in 2025.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "宾夕法尼亚州卫生官员表示，已有第四人死于与麻疹相关的疾病。",
+          "美国目前报告的全部4起麻疹相关死亡病例均发生在宾夕法尼亚州。",
+          "来源叙事重点：聚焦宾夕法尼亚州麻疹死亡病例攀升，并重点批判特朗普政府调整死亡报告标准导致联邦CDC统计数据与地方实际脱节的现象。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:42:28.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/15/pennsylvania-measles-outbreak-death"
+          }
+        ]
+      },
+      {
+        "id": "story-namic-panorama-star-html-8be2cc529c294039",
+        "title": "韦伯望远镜揭示恒星形成动态全景，发现已知质量最小的褐矮星",
+        "originalTitle": "Webb reveals dynamic panorama of star formation, including smallest known brown dwarfs",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:20:01.000Z",
+        "pubTime": "2026-09-16 05:20",
+        "url": "https://phys.org/news/2026-09-webb-reveals-dynamic-panorama-star.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-star-forming-region-1.jpg",
+        "fullContent": "edited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nThis starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA's James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range and revealing new insights about the star-formation process.\n\nThe star-forming region IC 348 is located just 1,000 light-years (5.9 quadrillion miles) away in the constellation Perseus. In regions like IC 348, cold clouds of molecular hydrogen gas collapse to form new stars, creating glowing, sculpted scenes like this one. The star-formation process can create widely varied objects, from massive stars that expire after only a few million years in core-collapse supernova explosions to the smallest and most common stars, which are long-lived and produce powerful stellar storms.\n\nThe smallest stars weigh in at around 8% of the sun's mass. Below this mass lies a strange class of objects called brown dwarfs. Brown dwarfs form in the same way stars do, through the collapse of molecular clouds. However, unlike stars, the cores of brown dwarfs never become hot enough to fuse ordinary hydrogen into helium (though many briefly fuse deuterium, or heavy hydrogen, early in their lives).\n\nWhat's still not clear, and what researchers hoped to learn by using Webb's sensitive instruments to study IC 348, is how small the smallest objects created by the star-formation process are. In other words, how small is the smallest brown dwarf?\n\nResearchers seeking to answer this question first used Webb to study IC 348 in 2022, when they discovered brown dwarfs with masses as low as three to four times the mass of Jupiter. Now, the same research team has used Webb to probe even deeper into this region in search of even smaller brown dwarfs.\n\nThe team used Webb's NIRCam (Near-Infrared Camera) in 2024 to capture the warm glow of young brown dwarfs and newborn stars seen in this new image of IC 348. After selecting candidate brown dwarfs based on their colors and brightness, they followed up with Webb's NIRSpec (Near-Infrared Spectrograph) in 2025 to conduct spectroscopic observations to study the masses of the brown dwarfs.\n\nPublished last year in the The Astrophysical Journal Letters, these deep Webb observations revealed something remarkable to the researchers: brown dwarfs with masses as low as just twice the mass of Jupiter, or only 0.19% of the sun's mass—far smaller than theory predicts brown dwarfs should be. These are the least massive brown dwarfs known, and their existence poses a challenge to models of how stars form.\n\nIn addition to the discovery of these unexpectedly lightweight brown dwarfs, the Webb observations contained even more surprises. One of the lightest newfound brown dwarfs showed signs of a disk, suggesting that small planets could be forming around an object that is itself only the mass of a planet.\n\nWhile inspecting the spectra of IC 348's brown dwarfs, the research team also found a feature they attributed to an unidentified hydrocarbon—a molecule made only of hydrogen and carbon atoms. This specific feature has only been seen in the atmospheres of the lowest-mass brown dwarfs, suggesting that these extreme objects might exist in a spectral class of their own.\n\nThe stars and brown dwarfs of IC 348 aren't the only attractions in this image. A brilliantly detailed collection of protostars occupies the upper right corner. Several of these protostars are accompanied by Herbig-Haro objects, which are luminous regions that form when jets from growing newborn stars crash into the gas and dust around the star.\n\nThe long, narrow feature oriented horizontally in this corner is the Herbig-Haro object HH 797. Upon close inspection, this source is revealed to be two protostars with nearly parallel outflows. Just to the right of HH 797 is the propeller-shaped source HH 211, which features both narrow jets and broader outflows.\n\nThe data used to create this image comes from the Webb General Observer Program 4866. In addition to studying the lowest-mass objects created through the star-formation process, this program also seeks to understand how the populations of planetary-mass objects like brown dwarfs vary between star-forming regions, as well as the origins of the hydrocarbon feature in the lowest-mass brown dwarfs.\n\nJournal information: Astrophysical Journal Letters\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）\n\n本文已按照 Science X 的编辑流程与规范进行审核。编辑在确保内容可信度的同时强调了以下属性：\n经过同行评审的出版物\n\n这张附近恒星形成区 IC 348 繁星密布的景象，是美国国家航空航天局（NASA）詹姆斯·韦伯空间望远镜迄今为止发布的最大图像之一。天文学家利用韦伯望远镜在 IC 348 中搜寻褐矮星——这类天体的质量比最小的恒星还要小。研究人员发现了质量仅为木星两倍的褐矮星，将对这些奇特天体的研究推进到了一个全新的质量区间，并揭示了关于恒星形成过程的新见解。\n\n恒星形成区 IC 348 距离地球仅 1000 光年（约合 5.9 万亿英里），位于英仙座。在像 IC 348 这样的区域，冷的氢分子气体云发生坍缩形成新恒星，塑造出如图中所示那般发光而富有层次的壮丽景象。恒星形成过程可以产生形形色色各不相同的天体，从短短几百万年后就在核心坍缩超新星爆发中消亡的大质量恒星，到寿命极长且会产生强烈恒星风暴的最小且最常见的恒星。\n\n最小的恒星质量约为太阳质量的 8%。低于这个质量阈值的是一类奇特的天体，被称为褐矮星。褐矮星的形成方式与恒星相同，均源自分子云的坍缩。然而与恒星不同的是，褐矮星的核心温度永远不足以使普通氢核聚变为氦（尽管许多褐矮星在其生命早期会短暂聚变氘，即重氢）。\n\n目前尚不明确、且研究人员希望利用韦伯灵敏仪器研究 IC 348 来探明的问题是：由恒星形成过程所产生的最小天体究竟有多小？换句话说，最小的褐矮星有多小？\n\n试图解答这一问题的研究人员于 2022 年首次使用韦伯望远镜研究了 IC 348，当时他们发现了质量低至木星质量三到四倍的褐矮星。如今，同一个研究团队再次利用韦伯对该区域进行了更深入的探测，以搜寻质量更小的褐矮星。\n\n该团队于 2024 年利用韦伯的近红外相机（NIRCam）捕捉到了这幅 IC 348 新图像中所展示的年轻褐矮星和新生恒星的温暖光芒。在根据颜色和亮度筛选出候选褐矮星后，他们于 2025 年利用韦伯的近红外光谱仪（NIRSpec）进行了后续光谱观测，以研究这些褐矮星的质量。\n\n这些韦伯的深度观测结果于去年发表在《天体物理学杂志快报》（The Astrophysical Journal Letters）上，向研究人员揭示了非凡的发现：质量仅为木星两倍、或者说仅占太阳质量 0.19% 的褐矮星——这远远小于理论预测中褐矮星应有的质量下限。这些是已知质量最小的褐矮星，它们的存在对现有的恒星形成模型构成了挑战。\n\n除了发现这些出人意料轻盈的褐矮星外，韦伯的观测还带来了更多惊喜。其中一颗最新发现的最轻褐矮星表现出了存在星周盘的迹象，这表明一个小行星可能正在围绕一个自身质量仅相当于行星大小的天体形成。\n\n在检查 IC 348 褐矮星的光谱时，研究团队还发现了一个归因于某种未知碳氢化合物（仅由氢原子和碳原子组成的分子）的特征谱线。这一特定特征此前仅在最低质量的褐矮星大气中被观察到，暗示这类极端天体可能构成了其独有的光谱类别。\n\nIC 348 中的恒星和褐矮星并不是这张图像中仅有的亮点。右上角展示了一组细节极为精致的原恒星集合体。其中几颗原恒星伴有赫比格-哈罗天体（Herbig-Haro objects），这是当正在生长的新生恒星喷出的喷流撞击恒星周围的气体和尘埃时形成的发光区域。\n\n位于该区域右上角沿水平方向延伸的狭长特征是赫比格-哈罗天体 HH 797。仔细观察可以发现，该源实际上是两颗具有几乎平行外流的原恒星。在 HH 797 的正右侧是螺旋桨形状的源 HH 211，它同时具备狭窄的喷流和更宽阔的外流特征。\n\n用于合成这张图像的数据来自韦伯通用观测者计划 4866（Webb General Observer Program 4866）。除了研究通过恒星形成过程产生的最低质量天体外，该计划还旨在了解褐矮星等行星质量天体种群在不同恒星形成区之间的差异，以及最低质量褐矮星中碳氢化合物特征谱线的起源。\n\n期刊信息：《天体物理学杂志快报》（Astrophysical Journal Letters）\n英语硕士，自 2021 年起担任文字编辑，在高等教育和健康领域内容方面拥有丰富经验。致力于提供可信赖的科学新闻。查看完整个人资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学和语言持有独特视角。查看完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "恒星形成区IC 348位于英仙座，距离地球约1,000光年（5.9千万亿英里）。",
+          "最小的恒星质量约为太阳质量的8%，低于该质量的为褐矮星，其核心无法达到聚变普通氢为氦的温度。",
+          "来源叙事重点：聚焦詹姆斯·韦布空间望远镜在恒星形成区IC 348中刷新纪录的观测成果，强调发现了质量仅为木星2倍的已知最小褐矮星，以及该发现对现行恒星形成理论模型带来的挑战，同时展示了星周盘迹象与未识别碳氢化合物等新奇天体物理现象"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:20:01.000Z",
+            "url": "https://phys.org/news/2026-09-webb-reveals-dynamic-panorama-star.html"
+          }
+        ]
+      },
+      {
+        "id": "story-b-a4b6-f009a21b6b55-html-50adbfc0d79dab73",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Venezuela, Delcy Rodríguez penultima per gradimento tra leader latinoamericani",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-15T21:25:41.000Z",
+        "pubTime": "2026-09-16 05:25",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/venezuela-delcy-rodriguez-penultima-per-gradimento-tra-leader-latinoamericani_3e8d41fe-2d04-44bb-a4b6-f009a21b6b55.html",
+        "imageUrl": null,
+        "fullContent": "La presidente ad interim del Venezuela, Delcy Rodríguez, è penultima per gradimento tra i leader latinoamericani, con il 28,8% di giudizi positivi e il 64,3% di giudizi negativi. Lo rileva il sondaggio di CB Global Data relativo a settembre, secondo quanto riferito dall'agenzia EFE. Rodríguez precede soltanto il presidente del Guatemala, Bernardo Arévalo. In testa alla classifica figura la presidente del Messico, Claudia Sheinbaum, con il 69% di approvazione, seguita dal presidente di El Salvador, Nayib Bukele, con il 66,2%. Il colombiano Abelardo de la Espriella è terzo con il 53,6%, mentre il brasiliano Luiz Inácio Lula da Silva registra il 48,5%. La rilevazione indica inoltre per Rodríguez il 6,9% di giudizi neutrali. Tra gli altri leader considerati figurano il presidente dell'Argentina, Javier Milei, e quello dell'Uruguay, Yamandú Orsi, entrambi con livelli di consenso inferiori a quelli dei primi classificati.\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "根据CB Global Data截至9月的民意调查（由埃菲社报道），委内瑞拉临时总统德尔茜·罗德里格斯在拉美领导人支持率排名中位列倒数第二。",
+          "德尔茜·罗德里格斯获得28.8%的正面评价、64.3%的负面评价以及6.9%的中立评价。",
+          "来源叙事重点：聚焦委内瑞拉临时总统德尔茜·罗德里格斯（Delcy Rodríguez）在拉美领导人民调中极低的民意认可度（倒数第二，负面评价高达64.3%），并对比列举拉美其他国家领导人的高低排名。"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-15T21:25:41.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/venezuela-delcy-rodriguez-penultima-per-gradimento-tra-leader-latinoamericani_3e8d41fe-2d04-44bb-a4b6-f009a21b6b55.html"
+          }
+        ]
+      },
+      {
+        "id": "story--october-7-san-francisco-746e67bf33bbd6eb",
+        "title": "微软宣布将于10月7日举办Windows与Surface发布会",
+        "originalTitle": "Microsoft announces Windows and Surface event for October 7th",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T20:36:59.000Z",
+        "pubTime": "2026-09-16 04:36",
+        "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Tom Warren\n\nIt’s been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a “conversation on how local AI will shape the next chapter of the PC.”\n\nMicrosoft CEO Satya Nadella will be in attendance, alongside Windows and Surface chief Pavan Davuluri. Even Nvidia CEO Jensen Huang will be appearing at the event, which suggests that RTX Spark PCs could be the main focus of this event. If that’s the case, don’t be surprised to hear more about the Microsoft Surface Laptop Ultra pricing and availability.\n\nI am also expecting Microsoft to focus on its quality improvements to Windows, and what’s coming next. I am not expecting a surprise announce of Windows 12, though.\n\nMicrosoft last held a major Windows event in May 2024, to unveil new Arm-based Copilot Plus PCs and its renewed partnership with Qualcomm. The last major Windows event before that was in June 2021, when Microsoft announced Windows 11 during a live stream.\n\nThe Verge will be covering Microsoft’s Windows event next month live from San Francisco on October 7th at 10AM PT / 1PM ET.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该话题的内容将添加到您的每日电子邮件摘要和主页信息流中。\n该作者发布的内容将添加到您的每日电子邮件摘要和主页信息流中。\n查看汤姆·沃伦（Tom Warren）的全部文章\n距离上一次重大的Windows发布活动已过去两年多，因此微软将于下个月前往旧金山，勾勒Windows和Surface设备的未来蓝图。在定于10月7日举行的活动中，该公司表示将主办一场关于“本地AI将如何塑造个人电脑下一篇章”的对话。\n微软首席执行官萨蒂亚·纳德拉（Satya Nadella）将出席本次活动，Windows与Surface业务主管帕万·达武鲁里（Pavan Davuluri）也将一同亮相。甚至英伟达首席执行官黄仁勋也将在此次活动中登场，这表明RTX Spark PC可能会成为本次发布会的重点。如果真是这样，届时听到关于微软Surface Laptop Ultra的定价与发售信息的更多细节也就不足为奇了。\n我还预计微软将重点关注其对Windows的质量改进以及接下来的发展方向。不过，我并不指望会突然宣布Windows 12。\n微软上一次举办大型Windows发布活动是在2024年5月，当时发布了基于Arm架构的新款Copilot Plus PC，并公布了与高通的续约合作。而在那之前的大型Windows活动则是在2021年6月，当时微软在直播中正式宣布了Windows 11。\nThe Verge将于下个月在旧金山现场直播报道微软的Windows发布活动，时间定于太平洋时间10月7日上午10点/东部时间下午1点。\n免费每日摘要，汇集最重要的资讯。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "微软宣布将于10月7日在旧金山举办 Windows 和 Surface 活动，探讨本地 AI 如何重塑 PC 的下一篇章。",
+          "微软 CEO 萨蒂亚·纳德拉（Satya Nadella）、Windows 和 Surface 主管帕万·达武鲁里（Pavan Davuluri）以及英伟达 CEO 黄仁勋（Jensen Huang）将出席该活动。",
+          "来源叙事重点：聚焦微软将于10月7日举办的Windows与Surface特别发布会，重点关注本地AI对PC生态的重构、英伟达高管参会所暗示的RTX Spark PC硬件合作，以及对Windows质量改进而非版本换代（排除Windows 12）的预期"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T20:36:59.000Z",
+            "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco"
+          }
+        ]
+      },
+      {
+        "id": "story-stocks-keep-falling-html-5b9f923030bb1652",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:01:48.000Z",
+        "pubTime": "2026-09-16 05:01",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Inventories-Jump-as-Cushing-Stocks-Keep-Falling.html",
+        "imageUrl": null,
+        "fullContent": "The American Petroleum Institute API estimated that crude oil inventories in the United States rose by a very large 7.14 million barrels in the week ending September 11. In the week prior, US crude oil inventories fell by 300,000 barrels. Commercial crude oil inventories excluding the SPR have lost just over 41 million barrels over the last 22 weeks, with US crude inventories up nearly 10 million for the year, according to API data, kept in check by draws from the SPR. For the week ending September 11, another 400,000 barrels left the SPR to aid commercial inventories, bringing the new total inventory held in the SPR to 285 million barrels&mdash;a level that is 446 million barrels shy of maximum capacity. The generally accepted operational minimum for oil in the SPR is between 250-300 million barrels, below which the reserve may find it difficult to pump and process oil efficiently. US production for the week ending Sept 4 rose to 13.947 million bpd, up from 13.862 in the week prior, and up 452,000 bpd from a year earlier. At 413 pm ET on Wednesday, Brent crude was trading up on the day at $108.68 2.84%, a more than $7 per barrel gain week over week. WTI was also trading up on the day, by $3.83 per barrel 3.70% at $107.38, up roughly $11 per barrel from this time last week. Gasoline inventories rose 1.46 million barrels in the week ending September 11. In the week prior, gasoline inventories fell by 1.9 million barrels. In the week prior, gasoline inventories were 5% below the five-year average for this time of year, according to the latest EIA data. Distillate inventories gained 1.61 million barrels, on top of the 2-million-barrel gain in the week prior. Distillate inventories were 13% below the five-year average heading into this reporting period, the latest EIA data shows. Cushing inventory&mdash;the inventory kept at the delivery hub for the WTI Crude futures contract&mdash;fell by 246,000 barrels over the reporting period after falling by 300,000 barrels in the week prior. By Julianne Geiger for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国石油学会（API）估计，截至9月11日当周美国原油库存大幅增加714万桶，而前一周减少了30万桶。",
+          "不计战略石油储备（SPR）的商业原油库存在过去22周内减少了刚超过4100万桶，但今年以来美国原油库存累计仍增加近1000万桶。",
+          "来源叙事重点：聚焦美国原油及成品油周度库存变动（API数据），强调全美商业库存大幅增加与库欣交割地库存持续下滑的反差，并提示战略石油储备（SPR）接近运行下限的安全风险与国际油价高位震荡态势。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:01:48.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Inventories-Jump-as-Cushing-Stocks-Keep-Falling.html"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-09-levels-html-e16eb355e3c3ac80",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "From Intern to Software Architect",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:38:43.000Z",
+        "pubTime": "2026-09-16 02:38",
+        "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-16 02:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
+            "publishedAt": "2026-09-15T18:38:43.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-world-2188113-9b9d3407b2fe278b",
+        "title": "媒体：特朗普在2024年大选后身家激增27亿美元",
+        "originalTitle": "Trump became $2.7 bln richer after 2024 election — media",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:27:36.000Z",
+        "pubTime": "2026-09-16 05:27",
+        "url": "https://tass.com/world/2188113",
+        "imageUrl": null,
+        "fullContent": "NEW YORK, September 16. /TASS/. US President Donald Trump is currently worth $7 billion, an estimated $2.7 billion more than when he won the 2024 election, Forbes reported.\n\nAccording to the magazine, Trump cashed in on crypto ventures and overseas deals. \"No one in American history has made so much money on politics,\" Forbes noted.\n\nThe Washington Post reported in July that Trump’s wealth had grown on a scale unprecedented for a US president. In a later interview with CNBC, Trump rejected any links between the growth in his wealth and his being US president. \"I don’t do anything having to do with my business. My kids run it,\" he said.",
+        "fullTranslation": "塔斯社纽约9月16日电 据《福布斯》杂志报道，美国总统唐纳德·特朗普目前的净资产为70亿美元，据估计比他在赢得2024年大选时增加了27亿美元。\n\n该杂志称，特朗普通过加密货币投资项目和海外交易大赚了一笔。《福布斯》指出：“美国历史上从未有人通过政治赚到这么多钱。”\n\n《华盛顿邮报》今年7月曾报道称，特朗普财富的增长规模对历任美国总统而言是史无前例的。随后在接受CNBC采访时，特朗普否认了其财富增长与其担任美国总统之间存在任何关联。他表示：“我从不插手任何与我的生意有关的事情。都是我的孩子们在经营。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "据《福布斯》报道，美国总统唐纳德·特朗普目前身价为70亿美元，估计比他赢得2024年大选时增加了27亿美元。",
+          "《福布斯》报道称，特朗普通过加密货币投资和海外交易获利，并指出“美国历史上没有人通过政治赚过这么多钱”。",
+          "来源叙事重点：聚焦特朗普在2024年胜选后身价大幅飙升，重点援引西方财经媒体对其涉足加密货币、海外交易及‘利用政治牟利’的指控，同时简要补充特朗普本人的否认声明以维持报道形式上的平衡。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:27:36.000Z",
+            "url": "https://tass.com/world/2188113"
+          }
+        ]
+      },
+      {
+        "id": "story-tation-9-10-0-index-html-171b3d65d5ad162d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:07:47.000Z",
+        "pubTime": "2026-09-16 05:07",
+        "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+        "imageUrl": null,
+        "fullContent": "The onboardapi interface library and middleware is designed for seamless communication between sensor systems and software components. It provides a standardized data model that ensures interoperability across complex hardware and software environments.\n\nBy leveraging DDS XTypes and XCDR2 encoding, this library ensures full backward compatibility. This allows different versions of your software to coexist and communicate seamlessly, even as the data model evolves.\n\nWhile the core library is provided in C++, the API supports multi-language integration via wrappers for Java, C# / .NET, and Python.\n\nLicenses / Disclaimer",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "onboardapi 是一个接口库和中间件，专为传感器系统与软件组件之间的无缝通信而设计。",
+          "该库提供标准化数据模型，确保复杂软硬件环境间的互操作性。",
+          "来源叙事重点：聚焦德国军工巨头莱茵金属开源其 onboardapi 接口库与中间件（社区标题指称为 Battlesuite 联网武器系统协议），强调其传感器与软件间的无缝通信、DDS XTypes/XCDR2 向后兼容性及多语言互操作能力。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:07:47.000Z",
+            "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html"
+          }
+        ]
+      },
+      {
+        "id": "story-owdown-in-sight-8fd99c4b-ef5ecfecd865c211",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:15:00.000Z",
+        "pubTime": "2026-09-16 05:15",
+        "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 05:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-15T21:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ration-is-preparing-a-28-d5325cd74c52e57e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Trump administration is preparing a $2.8 billion sale of 2,000-pound bombs to Israel, the largest single sale of the controversial munitions in recent years, a U.S. official told The Post.",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T19:49:35.000Z",
+        "pubTime": "2026-09-16 03:49",
+        "url": "https://www.reddit.com/r/worldnews/comments/1whau6b/the_trump_administration_is_preparing_a_28/",
+        "imageUrl": "https://external-preview.redd.it/21spW7ko3LvBN5oskZPqOeFreqdHlqhluRUXv0f1UpU.jpeg?width=640&crop=smart&auto=webp&s=db5079d21513b280c3915a7c516ccb7b8bf30a95",
+        "fullContent": "submitted by /u/Express_Dot3535 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-16 03:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1whau6b/the_trump_administration_is_preparing_a_28/",
+            "publishedAt": "2026-09-15T19:49:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-09-options-gsl-html-2d30278bf4d7b5c4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What are best options for controlling GSL dust, and what would they cost?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:20:04.000Z",
+        "pubTime": "2026-09-16 05:20",
+        "url": "https://phys.org/news/2026-09-options-gsl.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-are-best-options.jpg",
+        "fullContent": "by Ross Chambless, University of Utah\n\nedited by Lisa Lock, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nA new collaborative report from University of Utah researchers and coordinated by the Wilkes Center for Climate Science & Policy provides Utah Department of Natural Resources, Department of Environmental Quality and policymakers with a comprehensive analysis of the growing risks posed by dust from the exposed lakebed of Great Salt Lake, the potential costs of controlling that dust, and the long-term benefits of stabilizing lake levels.\n\nCommissioned by the Utah Division of Water Resources as a key input for the Great Salt Lake Basin Integrated Plan, the report \"Options and Costs for Great Salt Lake Dust Control,\" provides state planners with scientific, economic and engineering data to evaluate when and where lakebed dust control measures may be warranted.\n\n\"We have an opportunity to be strategic about how we address Great Salt Lake dust,\" said Kevin Perry, a professor of atmospheric sciences at the University of Utah and lead author of the report. \"That means using better data to identify the highest-risk areas, protecting communities that face the greatest exposure, stabilizing the lake wherever we can, and reserving engineered controls for places where the evidence shows they are necessary.\"\n\nAs Great Salt Lake water levels declined in recent years, more than 800 square miles of lakebed have been exposed to potential wind erosion. Perry's research has identified approximately 70 square miles as active dust hotspots, with that area potentially expanding to as much as 187 square miles if protective surface crusts continue to degrade or groundwater levels decline.\n\nThe report emphasizes that the state faces costs whether it acts or fails to act—and that decisions made today can significantly affect those future costs.\n\n\"The state commissioned this research to give our agencies the empirical data needed to make informed policy decisions,\" said Laura Vernon, Great Salt Lake Basin Planner at the Utah Division of Water Resources. \"As we finalize the Basin Integrated Plan, these findings will shape long-term water management recommendations and emphasize the point that delivering water to the lake is the single most cost-effective way to suppress dust and prevent billions in taxpayer-funded mitigation.\"\n\nGreat Salt Lake dust is a growing regional air-quality concern—but not all exposed lakebed poses the same risk. The research distinguishes between exposed lakebed and areas that are actively generating dust that reaches populated areas. The authors recommend sustained, comprehensive monitoring and source attribution to identify the locations creating the greatest risks before committing to large-scale engineered controls. Better data can help Utah avoid both underreacting to significant health risks and spending billions on areas that do not pose material public exposure.\n\nDust exposure is not shared equally across northern Utah communities. Tooele County residents have the highest average modeled exposure, followed by Salt Lake County. The analysis also identifies higher modeled exposure among several racial and ethnic groups, foreign-born residents, non-citizens, people with lower educational attainment and people without health insurance. The findings underscore the importance of considering community-level exposure and population vulnerability when setting monitoring and mitigation priorities.\n\nThe health costs of continued lake decline are substantial. At a lake elevation of 4,192 feet, Great Salt Lake dust is associated with an estimated $115.79 million in annual health costs, including approximately 6.24 premature deaths, 17,052 work-loss days and nearly 17,748 school absences each year. Under the report's low-lake scenario of 4,183 feet, annual health costs rise to $133.67 million. At the minimum healthy elevation of 4,198 feet, they fall to $73.39 million. Through 2060, the report estimates that maintaining current conditions would result in $5.79 billion in cumulative health costs, compared with $3.71 billion if the lake were restored to and maintained at the minimum healthy elevation. At the historical average elevation, cumulative health costs fall to an estimated $1.89 billion.\n\nEngineered dust controls are possible, but potentially expensive and water-intensive. The report evaluates numerous approaches, including precision surface wetting, flooding, dynamic water management, brine caps, managed vegetation, chemical suppressants, gravel, tillage and artificial surface roughness. No single approach is appropriate for every location. Estimated 50-year costs range from about $3.3 million to $448 million per square mile, depending on the technology and site. Applied across the currently identified 70 square miles of active hotspots, projected costs range from approximately $3.2 billion to more than $31 billion. Those costs could increase by roughly 2.7 times if active hotspots expand to 187 square miles.\n\nStabilizing lake levels may be the most durable long-term way to reduce dust at its source. Higher lake levels cover exposed playa, reduce dust-generating surfaces and can reduce the amount of water needed for some peripheral mitigation measures. The modeling estimates that average dust exposure in northern Utah would be approximately 15% lower under a healthy-lake scenario than under a very-low-lake scenario, with reductions exceeding 50% for some communities bordering the lake. The report concludes that lake-level stabilization and targeted engineered controls should be viewed as complementary strategies, not alternatives.\n\nThe report recommends that Utah pursue a phased, evidence-based approach to dust management. Other policy recommendations include:\n\nReport: Options and Costs for Great Salt Lake Dust Control\n\nProvided by University of Utah\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "犹他大学研究人员发布由威尔克斯气候科学与政策中心协调的报告《大盐湖防尘方案与成本》（Options and Costs for Great Salt Lake Dust Control），由犹他州水资源部委托编写。",
+          "近年来大盐湖水位下降，导致超过800平方英里的湖床暴露并面临风蚀风险。",
+          "来源叙事重点：报道犹他大学受州政府委托撰写的最新科学评估报告，重点阐述大盐湖干涸湖床沙尘造成的公共健康损失、工程控尘措施的高昂成本，强调稳定湖泊水位与靶向工程控尘相结合是兼具经济效益与长期可持续性的防尘方案。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:20:04.000Z",
+            "url": "https://phys.org/news/2026-09-options-gsl.html"
+          }
+        ]
+      },
+      {
+        "id": "story-7-9dfa-17ca6126c2ba-html-645f8f98627b5e17",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Milei presenta la legge di bilancio per il 2027, crescita prevista al 4%",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-15T21:27:14.000Z",
+        "pubTime": "2026-09-16 05:27",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/milei-presenta-la-legge-di-bilancio-per-il-2027-crescita-prevista-al-4_e78f3b6b-5adb-4927-9dfa-17ca6126c2ba.html",
+        "imageUrl": null,
+        "fullContent": "Il governo ultraliberista di Javier Milei ha presentato oggi la nuova Legge di Bilancio per il 2027 in cui si propone nuovamente di raggiungere un avanzo dell'1,3% mantenendo un ritmo di crescita del 4%. Non scompare tuttavia l'inflazione che, negli obiettivi iniziali del governo, al suo quarto anno di mandato doveva già essere \"annichilata\" e che viene adesso stimata invece al 18%. L'anno scorso, il governo aveva previsto nella finanziaria una crescita del pil del 5% e un'inflazione del 10,1% per il 2026, stime rivelatesi entrambe ottimistiche fino ad ora, tenendo conto che al ritmo attuale si prevede per l'anno in corso un'espansione tra il 2 e il 3% e un'inflazione ancora attestata attorno al 30%. In un messaggio sui social il ministro dell'Economia, Luis Caputo, ha sottolineato che grazie alla nuova Legge di Bilancio \"sarà la prima volta nella nostra storia con quattro anni consecutivi di avanzo fiscale senza che il Paese sia in default\".\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "哈维尔·米莱政府提交了2027年度预算草案，目标是实现1.3%的财政盈余，并预计经济增长率为4%。",
+          "2027年预算草案中预估的通胀率为18%，而在政府最初目标中该阶段通胀应已被消除。",
+          "来源叙事重点：聚焦阿根廷米莱政府提交的2027年预算案，一方面转述官方对财政盈余与经济增长的承诺，另一方面着重对比历史预测与实际数据的落差，质疑其过于乐观的经济预估和未达预期的控通胀成效"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-15T21:27:14.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/milei-presenta-la-legge-di-bilancio-per-il-2027-crescita-prevista-al-4_e78f3b6b-5adb-4927-9dfa-17ca6126c2ba.html"
+          }
+        ]
+      },
+      {
+        "id": "story-biographies-serre-b416af198b57a2ec",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jean-Pierre Serre is 100 years old today",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T20:57:18.000Z",
+        "pubTime": "2026-09-16 04:57",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+        "imageUrl": null,
+        "fullContent": "Other pages about Jean-Pierre Serre:\n\nOther websites about Jean-Pierre Serre:\n\nHonours awarded to Jean-Pierre Serre",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-16 04:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+            "publishedAt": "2026-09-15T20:57:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ggest-wild-card-ec273da8-47bafb3021f04251",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "2 charts showing how oil is becoming the market’s biggest wild card",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:07:00.000Z",
+        "pubTime": "2026-09-16 05:07",
+        "url": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Oil is increasingly calling the tune in global markets as rising energy prices make investors nervous.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 05:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-15T21:07:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-a-measles-outbreak-death-d6e3c48de85985a9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fourth person dies of measles-associated illness in US",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:42:28.000Z",
+        "pubTime": "2026-09-16 02:42",
+        "url": "https://www.theguardian.com/us-news/2026/sep/15/pennsylvania-measles-outbreak-death",
+        "imageUrl": "https://i.guim.co.uk/img/media/3cd307152c6a1d868153f9fa5577433f17059b06/277_0_2770_2216/master/2770.jpg?width=140&quality=85&auto=format&fit=max&s=f2b2eafcc9cc3e85c601f02876df72b2",
+        "fullContent": "All deaths occurred in Pennsylvania, in worst year since 1992 for one of the most contagious diseases\n\nPennsylvania health officials said a fourth person had died of measles-associated illness in the worst year for the disease since 1992 . All four US deaths have occurred in the state.\n\nDue to the Trump administration changing how it reports measles deaths, the Centers for Disease Control and Prevention (CDC) does not count any of the deaths in its national tally. Three people died in 2025.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "宾夕法尼亚州卫生官员表示，已有第四人死于与麻疹相关的疾病。",
+          "美国目前报告的全部4起麻疹相关死亡病例均发生在宾夕法尼亚州。",
+          "来源叙事重点：聚焦宾夕法尼亚州麻疹死亡病例攀升，并重点批判特朗普政府调整死亡报告标准导致联邦CDC统计数据与地方实际脱节的现象。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T18:42:28.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/15/pennsylvania-measles-outbreak-death"
+          }
+        ]
+      },
+      {
+        "id": "story-namic-panorama-star-html-8be2cc529c294039",
+        "title": "韦伯望远镜揭示恒星形成动态全景，发现已知质量最小的褐矮星",
+        "originalTitle": "Webb reveals dynamic panorama of star formation, including smallest known brown dwarfs",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:20:01.000Z",
+        "pubTime": "2026-09-16 05:20",
+        "url": "https://phys.org/news/2026-09-webb-reveals-dynamic-panorama-star.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-star-forming-region-1.jpg",
+        "fullContent": "edited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nThis starry view of the nearby star-forming region IC 348 is one of the largest images released to date from NASA's James Webb Space Telescope. Using Webb, astronomers searched IC 348 for brown dwarfs, which are less massive than the smallest stars. The researchers discovered brown dwarfs just twice the mass of Jupiter, bringing the study of these curious objects into a new mass range and revealing new insights about the star-formation process.\n\nThe star-forming region IC 348 is located just 1,000 light-years (5.9 quadrillion miles) away in the constellation Perseus. In regions like IC 348, cold clouds of molecular hydrogen gas collapse to form new stars, creating glowing, sculpted scenes like this one. The star-formation process can create widely varied objects, from massive stars that expire after only a few million years in core-collapse supernova explosions to the smallest and most common stars, which are long-lived and produce powerful stellar storms.\n\nThe smallest stars weigh in at around 8% of the sun's mass. Below this mass lies a strange class of objects called brown dwarfs. Brown dwarfs form in the same way stars do, through the collapse of molecular clouds. However, unlike stars, the cores of brown dwarfs never become hot enough to fuse ordinary hydrogen into helium (though many briefly fuse deuterium, or heavy hydrogen, early in their lives).\n\nWhat's still not clear, and what researchers hoped to learn by using Webb's sensitive instruments to study IC 348, is how small the smallest objects created by the star-formation process are. In other words, how small is the smallest brown dwarf?\n\nResearchers seeking to answer this question first used Webb to study IC 348 in 2022, when they discovered brown dwarfs with masses as low as three to four times the mass of Jupiter. Now, the same research team has used Webb to probe even deeper into this region in search of even smaller brown dwarfs.\n\nThe team used Webb's NIRCam (Near-Infrared Camera) in 2024 to capture the warm glow of young brown dwarfs and newborn stars seen in this new image of IC 348. After selecting candidate brown dwarfs based on their colors and brightness, they followed up with Webb's NIRSpec (Near-Infrared Spectrograph) in 2025 to conduct spectroscopic observations to study the masses of the brown dwarfs.\n\nPublished last year in the The Astrophysical Journal Letters, these deep Webb observations revealed something remarkable to the researchers: brown dwarfs with masses as low as just twice the mass of Jupiter, or only 0.19% of the sun's mass—far smaller than theory predicts brown dwarfs should be. These are the least massive brown dwarfs known, and their existence poses a challenge to models of how stars form.\n\nIn addition to the discovery of these unexpectedly lightweight brown dwarfs, the Webb observations contained even more surprises. One of the lightest newfound brown dwarfs showed signs of a disk, suggesting that small planets could be forming around an object that is itself only the mass of a planet.\n\nWhile inspecting the spectra of IC 348's brown dwarfs, the research team also found a feature they attributed to an unidentified hydrocarbon—a molecule made only of hydrogen and carbon atoms. This specific feature has only been seen in the atmospheres of the lowest-mass brown dwarfs, suggesting that these extreme objects might exist in a spectral class of their own.\n\nThe stars and brown dwarfs of IC 348 aren't the only attractions in this image. A brilliantly detailed collection of protostars occupies the upper right corner. Several of these protostars are accompanied by Herbig-Haro objects, which are luminous regions that form when jets from growing newborn stars crash into the gas and dust around the star.\n\nThe long, narrow feature oriented horizontally in this corner is the Herbig-Haro object HH 797. Upon close inspection, this source is revealed to be two protostars with nearly parallel outflows. Just to the right of HH 797 is the propeller-shaped source HH 211, which features both narrow jets and broader outflows.\n\nThe data used to create this image comes from the Webb General Observer Program 4866. In addition to studying the lowest-mass objects created through the star-formation process, this program also seeks to understand how the populations of planetary-mass objects like brown dwarfs vary between star-forming regions, as well as the origins of the hydrocarbon feature in the lowest-mass brown dwarfs.\n\nJournal information: Astrophysical Journal Letters\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）\n\n本文已按照 Science X 的编辑流程与规范进行审核。编辑在确保内容可信度的同时强调了以下属性：\n经过同行评审的出版物\n\n这张附近恒星形成区 IC 348 繁星密布的景象，是美国国家航空航天局（NASA）詹姆斯·韦伯空间望远镜迄今为止发布的最大图像之一。天文学家利用韦伯望远镜在 IC 348 中搜寻褐矮星——这类天体的质量比最小的恒星还要小。研究人员发现了质量仅为木星两倍的褐矮星，将对这些奇特天体的研究推进到了一个全新的质量区间，并揭示了关于恒星形成过程的新见解。\n\n恒星形成区 IC 348 距离地球仅 1000 光年（约合 5.9 万亿英里），位于英仙座。在像 IC 348 这样的区域，冷的氢分子气体云发生坍缩形成新恒星，塑造出如图中所示那般发光而富有层次的壮丽景象。恒星形成过程可以产生形形色色各不相同的天体，从短短几百万年后就在核心坍缩超新星爆发中消亡的大质量恒星，到寿命极长且会产生强烈恒星风暴的最小且最常见的恒星。\n\n最小的恒星质量约为太阳质量的 8%。低于这个质量阈值的是一类奇特的天体，被称为褐矮星。褐矮星的形成方式与恒星相同，均源自分子云的坍缩。然而与恒星不同的是，褐矮星的核心温度永远不足以使普通氢核聚变为氦（尽管许多褐矮星在其生命早期会短暂聚变氘，即重氢）。\n\n目前尚不明确、且研究人员希望利用韦伯灵敏仪器研究 IC 348 来探明的问题是：由恒星形成过程所产生的最小天体究竟有多小？换句话说，最小的褐矮星有多小？\n\n试图解答这一问题的研究人员于 2022 年首次使用韦伯望远镜研究了 IC 348，当时他们发现了质量低至木星质量三到四倍的褐矮星。如今，同一个研究团队再次利用韦伯对该区域进行了更深入的探测，以搜寻质量更小的褐矮星。\n\n该团队于 2024 年利用韦伯的近红外相机（NIRCam）捕捉到了这幅 IC 348 新图像中所展示的年轻褐矮星和新生恒星的温暖光芒。在根据颜色和亮度筛选出候选褐矮星后，他们于 2025 年利用韦伯的近红外光谱仪（NIRSpec）进行了后续光谱观测，以研究这些褐矮星的质量。\n\n这些韦伯的深度观测结果于去年发表在《天体物理学杂志快报》（The Astrophysical Journal Letters）上，向研究人员揭示了非凡的发现：质量仅为木星两倍、或者说仅占太阳质量 0.19% 的褐矮星——这远远小于理论预测中褐矮星应有的质量下限。这些是已知质量最小的褐矮星，它们的存在对现有的恒星形成模型构成了挑战。\n\n除了发现这些出人意料轻盈的褐矮星外，韦伯的观测还带来了更多惊喜。其中一颗最新发现的最轻褐矮星表现出了存在星周盘的迹象，这表明一个小行星可能正在围绕一个自身质量仅相当于行星大小的天体形成。\n\n在检查 IC 348 褐矮星的光谱时，研究团队还发现了一个归因于某种未知碳氢化合物（仅由氢原子和碳原子组成的分子）的特征谱线。这一特定特征此前仅在最低质量的褐矮星大气中被观察到，暗示这类极端天体可能构成了其独有的光谱类别。\n\nIC 348 中的恒星和褐矮星并不是这张图像中仅有的亮点。右上角展示了一组细节极为精致的原恒星集合体。其中几颗原恒星伴有赫比格-哈罗天体（Herbig-Haro objects），这是当正在生长的新生恒星喷出的喷流撞击恒星周围的气体和尘埃时形成的发光区域。\n\n位于该区域右上角沿水平方向延伸的狭长特征是赫比格-哈罗天体 HH 797。仔细观察可以发现，该源实际上是两颗具有几乎平行外流的原恒星。在 HH 797 的正右侧是螺旋桨形状的源 HH 211，它同时具备狭窄的喷流和更宽阔的外流特征。\n\n用于合成这张图像的数据来自韦伯通用观测者计划 4866（Webb General Observer Program 4866）。除了研究通过恒星形成过程产生的最低质量天体外，该计划还旨在了解褐矮星等行星质量天体种群在不同恒星形成区之间的差异，以及最低质量褐矮星中碳氢化合物特征谱线的起源。\n\n期刊信息：《天体物理学杂志快报》（Astrophysical Journal Letters）\n英语硕士，自 2021 年起担任文字编辑，在高等教育和健康领域内容方面拥有丰富经验。致力于提供可信赖的科学新闻。查看完整个人资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学和语言持有独特视角。查看完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "恒星形成区IC 348位于英仙座，距离地球约1,000光年（5.9千万亿英里）。",
+          "最小的恒星质量约为太阳质量的8%，低于该质量的为褐矮星，其核心无法达到聚变普通氢为氦的温度。",
+          "来源叙事重点：聚焦詹姆斯·韦布空间望远镜在恒星形成区IC 348中刷新纪录的观测成果，强调发现了质量仅为木星2倍的已知最小褐矮星，以及该发现对现行恒星形成理论模型带来的挑战，同时展示了星周盘迹象与未识别碳氢化合物等新奇天体物理现象"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:20:01.000Z",
+            "url": "https://phys.org/news/2026-09-webb-reveals-dynamic-panorama-star.html"
+          }
+        ]
+      },
+      {
+        "id": "story-b-a4b6-f009a21b6b55-html-50adbfc0d79dab73",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Venezuela, Delcy Rodríguez penultima per gradimento tra leader latinoamericani",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-15T21:25:41.000Z",
+        "pubTime": "2026-09-16 05:25",
+        "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/venezuela-delcy-rodriguez-penultima-per-gradimento-tra-leader-latinoamericani_3e8d41fe-2d04-44bb-a4b6-f009a21b6b55.html",
+        "imageUrl": null,
+        "fullContent": "La presidente ad interim del Venezuela, Delcy Rodríguez, è penultima per gradimento tra i leader latinoamericani, con il 28,8% di giudizi positivi e il 64,3% di giudizi negativi. Lo rileva il sondaggio di CB Global Data relativo a settembre, secondo quanto riferito dall'agenzia EFE. Rodríguez precede soltanto il presidente del Guatemala, Bernardo Arévalo. In testa alla classifica figura la presidente del Messico, Claudia Sheinbaum, con il 69% di approvazione, seguita dal presidente di El Salvador, Nayib Bukele, con il 66,2%. Il colombiano Abelardo de la Espriella è terzo con il 53,6%, mentre il brasiliano Luiz Inácio Lula da Silva registra il 48,5%. La rilevazione indica inoltre per Rodríguez il 6,9% di giudizi neutrali. Tra gli altri leader considerati figurano il presidente dell'Argentina, Javier Milei, e quello dell'Uruguay, Yamandú Orsi, entrambi con livelli di consenso inferiori a quelli dei primi classificati.\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "根据CB Global Data截至9月的民意调查（由埃菲社报道），委内瑞拉临时总统德尔茜·罗德里格斯在拉美领导人支持率排名中位列倒数第二。",
+          "德尔茜·罗德里格斯获得28.8%的正面评价、64.3%的负面评价以及6.9%的中立评价。",
+          "来源叙事重点：聚焦委内瑞拉临时总统德尔茜·罗德里格斯（Delcy Rodríguez）在拉美领导人民调中极低的民意认可度（倒数第二，负面评价高达64.3%），并对比列举拉美其他国家领导人的高低排名。"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-15T21:25:41.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/15/venezuela-delcy-rodriguez-penultima-per-gradimento-tra-leader-latinoamericani_3e8d41fe-2d04-44bb-a4b6-f009a21b6b55.html"
+          }
+        ]
+      },
+      {
+        "id": "story--october-7-san-francisco-746e67bf33bbd6eb",
+        "title": "微软宣布将于10月7日举办Windows与Surface发布会",
+        "originalTitle": "Microsoft announces Windows and Surface event for October 7th",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T20:36:59.000Z",
+        "pubTime": "2026-09-16 04:36",
+        "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Tom Warren\n\nIt’s been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a “conversation on how local AI will shape the next chapter of the PC.”\n\nMicrosoft CEO Satya Nadella will be in attendance, alongside Windows and Surface chief Pavan Davuluri. Even Nvidia CEO Jensen Huang will be appearing at the event, which suggests that RTX Spark PCs could be the main focus of this event. If that’s the case, don’t be surprised to hear more about the Microsoft Surface Laptop Ultra pricing and availability.\n\nI am also expecting Microsoft to focus on its quality improvements to Windows, and what’s coming next. I am not expecting a surprise announce of Windows 12, though.\n\nMicrosoft last held a major Windows event in May 2024, to unveil new Arm-based Copilot Plus PCs and its renewed partnership with Qualcomm. The last major Windows event before that was in June 2021, when Microsoft announced Windows 11 during a live stream.\n\nThe Verge will be covering Microsoft’s Windows event next month live from San Francisco on October 7th at 10AM PT / 1PM ET.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该话题的内容将添加到您的每日电子邮件摘要和主页信息流中。\n该作者发布的内容将添加到您的每日电子邮件摘要和主页信息流中。\n查看汤姆·沃伦（Tom Warren）的全部文章\n距离上一次重大的Windows发布活动已过去两年多，因此微软将于下个月前往旧金山，勾勒Windows和Surface设备的未来蓝图。在定于10月7日举行的活动中，该公司表示将主办一场关于“本地AI将如何塑造个人电脑下一篇章”的对话。\n微软首席执行官萨蒂亚·纳德拉（Satya Nadella）将出席本次活动，Windows与Surface业务主管帕万·达武鲁里（Pavan Davuluri）也将一同亮相。甚至英伟达首席执行官黄仁勋也将在此次活动中登场，这表明RTX Spark PC可能会成为本次发布会的重点。如果真是这样，届时听到关于微软Surface Laptop Ultra的定价与发售信息的更多细节也就不足为奇了。\n我还预计微软将重点关注其对Windows的质量改进以及接下来的发展方向。不过，我并不指望会突然宣布Windows 12。\n微软上一次举办大型Windows发布活动是在2024年5月，当时发布了基于Arm架构的新款Copilot Plus PC，并公布了与高通的续约合作。而在那之前的大型Windows活动则是在2021年6月，当时微软在直播中正式宣布了Windows 11。\nThe Verge将于下个月在旧金山现场直播报道微软的Windows发布活动，时间定于太平洋时间10月7日上午10点/东部时间下午1点。\n免费每日摘要，汇集最重要的资讯。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "微软宣布将于10月7日在旧金山举办 Windows 和 Surface 活动，探讨本地 AI 如何重塑 PC 的下一篇章。",
+          "微软 CEO 萨蒂亚·纳德拉（Satya Nadella）、Windows 和 Surface 主管帕万·达武鲁里（Pavan Davuluri）以及英伟达 CEO 黄仁勋（Jensen Huang）将出席该活动。",
+          "来源叙事重点：聚焦微软将于10月7日举办的Windows与Surface特别发布会，重点关注本地AI对PC生态的重构、英伟达高管参会所暗示的RTX Spark PC硬件合作，以及对Windows质量改进而非版本换代（排除Windows 12）的预期"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T20:36:59.000Z",
+            "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco"
+          }
+        ]
+      },
+      {
+        "id": "story-stocks-keep-falling-html-5b9f923030bb1652",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:01:48.000Z",
+        "pubTime": "2026-09-16 05:01",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Inventories-Jump-as-Cushing-Stocks-Keep-Falling.html",
+        "imageUrl": null,
+        "fullContent": "The American Petroleum Institute API estimated that crude oil inventories in the United States rose by a very large 7.14 million barrels in the week ending September 11. In the week prior, US crude oil inventories fell by 300,000 barrels. Commercial crude oil inventories excluding the SPR have lost just over 41 million barrels over the last 22 weeks, with US crude inventories up nearly 10 million for the year, according to API data, kept in check by draws from the SPR. For the week ending September 11, another 400,000 barrels left the SPR to aid commercial inventories, bringing the new total inventory held in the SPR to 285 million barrels&mdash;a level that is 446 million barrels shy of maximum capacity. The generally accepted operational minimum for oil in the SPR is between 250-300 million barrels, below which the reserve may find it difficult to pump and process oil efficiently. US production for the week ending Sept 4 rose to 13.947 million bpd, up from 13.862 in the week prior, and up 452,000 bpd from a year earlier. At 413 pm ET on Wednesday, Brent crude was trading up on the day at $108.68 2.84%, a more than $7 per barrel gain week over week. WTI was also trading up on the day, by $3.83 per barrel 3.70% at $107.38, up roughly $11 per barrel from this time last week. Gasoline inventories rose 1.46 million barrels in the week ending September 11. In the week prior, gasoline inventories fell by 1.9 million barrels. In the week prior, gasoline inventories were 5% below the five-year average for this time of year, according to the latest EIA data. Distillate inventories gained 1.61 million barrels, on top of the 2-million-barrel gain in the week prior. Distillate inventories were 13% below the five-year average heading into this reporting period, the latest EIA data shows. Cushing inventory&mdash;the inventory kept at the delivery hub for the WTI Crude futures contract&mdash;fell by 246,000 barrels over the reporting period after falling by 300,000 barrels in the week prior. By Julianne Geiger for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国石油学会（API）估计，截至9月11日当周美国原油库存大幅增加714万桶，而前一周减少了30万桶。",
+          "不计战略石油储备（SPR）的商业原油库存在过去22周内减少了刚超过4100万桶，但今年以来美国原油库存累计仍增加近1000万桶。",
+          "来源叙事重点：聚焦美国原油及成品油周度库存变动（API数据），强调全美商业库存大幅增加与库欣交割地库存持续下滑的反差，并提示战略石油储备（SPR）接近运行下限的安全风险与国际油价高位震荡态势。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:01:48.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Inventories-Jump-as-Cushing-Stocks-Keep-Falling.html"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-09-levels-html-e16eb355e3c3ac80",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "From Intern to Software Architect",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T18:38:43.000Z",
+        "pubTime": "2026-09-16 02:38",
+        "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-16 02:38 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
+            "publishedAt": "2026-09-15T18:38:43.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789496412972,
     "timeDisplay": "2026-09-16 02:20 (UTC+8)",
     "date": "2026-09-16",
