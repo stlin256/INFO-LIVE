@@ -16,78 +16,301 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-th-short-form-news-clips-14354a329ccbaf04" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1148" data-content-paragraphs="7" data-published-at="2026-09-14T18:14:29.000Z" data-time-source="publication">
+<div id="story-irtual-guard-price-specs-6444791fae45e288" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1281" data-content-paragraphs="14" data-published-at="2026-09-15T13:36:45.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 02:14</span>
+  <span class="news-meta-time">🕒 2026-09-15 21:36</span>
 </div>
 
-### [亚马逊Prime Video上线短视频新闻片段，正面迎战TikTok](https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon Prime Video takes on TikTok with short-form news clips</div>
+### [这款可视门铃摄像头可让真人安保人员帮你守护前门](https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs)
+<div class="original-title-sub"><span class="orig-tag">原文</span> This doorbell camera lets a human security guard watch your front door</div>
 
-<div class="article-body" data-article-body="true"><p>亚马逊旗下Prime Video正通过增加短视频新闻片段向TikTok发起挑战。该公司周一表示，正在扩大其新闻报道范围，加入提供地方和全国性报道的点播新闻短视频。该公司称，这些短片将在电视及其他客厅设备上提供，并很快会推广至网页端和Prime Video的移动应用程序。</p>
-<p>这些短片将在Prime Video应用内的“新闻”（News）专区提供，位于“热门话题”（Trending Topics）和“地方新闻”（Local News）轮播栏目中。它们将与Prime Video现有的来自多家主流内容提供商的地方、全国和国际新闻报道整合，无论是否拥有Prime会员，全美用户均可观看。</p>
-<p>亚马逊目前尚无法确认移动端的短片是否会采用竖屏格式，仅表示在iOS和Android系统上它们将被归类为短视频内容。</p>
-<p>尽管TikTok更多被视为一个娱乐平台，但它与Instagram一样，正日益成为年轻人获取新闻的场所。尤其是Z世代，经常在包括YouTube Shorts在内的短视频应用上关注新闻创作者和网红。亚马逊自身并没有真正的社交平台阵地，因此选择在Prime Video中增加短视频，希望能以此吸引Z世代的注意力。</p>
-<p>然而，Z世代观众被这些社交应用所吸引，未必是因为短片的时长，而是因为信息的呈现方式。根据皮尤研究中心（Pew Research）的调查结果，这些年轻的新闻受众希望短视频新闻内容能够“给人以自然真实之感，而非过度制作”。</p>
-<p>Prime Video并非首个在内容阵容中引入短视频片段的流媒体平台。Peacock于3月增加了对短视频片段的支持，随后HBO Max和Netflix在7月跟进，Disney+也在8月上线该功能。综合来看，这些更新代表了整个行业为了迎合观众现状所做出的努力——如今的观众往往寻求以更短的碎片化时间获取娱乐，可在数个瞬间或数分钟内消费完，而非耗费数小时或更长的时间。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的采编独立性。<br />消费新闻编辑<br />预订展位的最后截止日期为9月18日。切勿错过在Disrupt展厅中获得高价值销售线索、接触投资者以及提升品牌曝光的机会。<br />Revolut确认因虚假政府请求导致客户数据泄露<br />由于Astra需求火爆，OpenAI暂停Pro订阅<br />身份核验巨头IDScan确认数据泄露，超过1.5亿张驾照失窃<br />Automattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假<br />苹果发布首款折叠屏设备iPhone Duo<br />“拿我们的生命做赌注”：Anthropic研究员辞职，对自我改进型人工智能发出警告<br />纽约大学数学家称，OpenAI在一项关乎职业生涯的数学难题上采取了不光彩的竞争手段</p></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="这款可视门铃摄像头可让真人安保人员帮你守护前门" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来自该话题的内容将被添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>SimpliSafe 将其 Active Guard 人工实时监控功能引入其新款可视门铃中。</p>
+<p>来自该作者的内容将被添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>查看珍妮弗·帕蒂森·图伊（Jennifer Pattison Tuohy）的所有文章</p>
+<p>如果您通过 The Verge 的链接购买商品，Vox Media 可能会赚取佣金。请参见我们的道德规范声明。</p>
+<p>DIY 家庭安防公司 SimpliSafe 正将其基于人工智能的主动安防功能带到前门。全新 SimpliSafe Video Doorbell Series 2 于今日发售，售价 199.99 美元，并支持该公司的 Active Guard Outdoor Protection 服务（起售价为每月 49.99 美元）。该服务将 AI 分析与人工坐席相结合，以检测潜在威胁并主动做出应对。</p>
+<p>据该公司称，当摄像头通过端侧 AI、云端计算机视觉与面部识别的组合技术检测到可疑活动时，SimpliSafe 的监控人员便能介入摄像头画面，“观察、喊话并试图威慑潜在的入侵者和快递小偷”。</p>
+<p>SimpliSafe Video Doorbell Series 2 是一款有线门铃，拥有 2K 分辨率、10 倍变焦、150 度全身纵向视野、双向语音和内置警报器。它支持针对人员与快递的智能警报、最长 5 秒的事前预录视频，并支持双频 Wi-Fi。该门铃需要搭配 SimpliSafe 基站与键盘使用，兼容任何包含专业监控的 SimpliSafe 套餐，也可以与带录像功能的自助监控套餐搭配使用。</p>
+<p>Active Guard 于 2023 年首次应用于 SimpliSafe 的室内摄像头，2024 年扩展至室外摄像头，如今已在公司最新的门铃摄像头上提供。该功能需用户主动选择开启，且只有在系统处于设防状态且被触发时，人工坐席才能查看实时画面。Active Guard 需要订阅每月 49.99 美元起的 Pro 或 Plus 级 SimpliSafe 监控套餐。SimpliSafe 表示，除了潜在地威慑入侵者外，该系统还能向紧急救援机构提供更准确的信息。</p>
+<p>该公司发布了一个隐私详情页面，详细解释了系统的工作原理，包括视频片段经过加密（静态存储和传输过程中加密，非端到端加密），以及“除非法律要求，否则不会与执法部门共享摄像头视频”。</p>
+<p>门铃上的彩色 LED 状态指示灯可显示当前是监控人员（琥珀色）还是屋主（蓝色）在通话；用户还可以建立一个熟人面孔库，以免监控人员把你的遛狗人员吓个半死。</p>
+<p>Ring 也提供类似的主动安防功能，名为 Virtual Guard，配合其 Ring Alarm 系统使用，费用为每月 99 美元。能够有人实时查看并核实你家中是否存在实际危险并可能采取行动，确实很有价值，尤其是如果你居住在虚假警报会被罚款的地区；但对大多数人来说，这感觉有些大材小用。</p>
+<p>每日免费获取最重要的核心新闻摘要。</p>
+<p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Amazon Prime Video宣布正在扩大新闻报道范围，加入提供本地和全美新闻的点播短视频剪辑（short-form news clips）。</li>
-    <li>这些短新闻剪辑将先在电视等客厅设备上线，不久后将推向网页端及 Prime Video 移动应用端（iOS 和 Android）。</li>
-    <li>来源叙事重点：报道亚马逊 Prime Video 追随流媒体行业潮流推出点播类短新闻剪辑以对标 TikTok、争夺 Z 世代用户，同时指出传统流媒体在内容形式与年轻受众真实偏好（如去过度包装感）之间可能存在的错配</li>
+    <li>SimpliSafe推出带有主动安防功能的新品SimpliSafe Video Doorbell Series 2，售价为199.99美元。</li>
+    <li>SimpliSafe Video Doorbell Series 2支持Active Guard Outdoor Protection功能，该服务起步价为每月49.99美元。</li>
+    <li>来源叙事重点：聚焦于智能家居安防硬件评测与服务分析，重点关注SimpliSafe二代视频门铃的硬件规格升级、AI与真人监控协同工作机制、隐私与加密保护策略，并从实用性、竞品价格比照（对比Ring）以及普通消费者的真实需求维度进行审视。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--into-hacking-themselves-8ee83ecf70379fd6" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1522" data-content-paragraphs="13" data-published-at="2026-09-14T18:08:43.000Z" data-time-source="publication">
+<div id="story-5hfewp7yl3zlghlyhvibjdyt-857c44f987a2ed55" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1022" data-content-paragraphs="8" data-published-at="2026-09-15T13:13:43.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 21:13</span>
+</div>
+
+### [Java 27 正式发布](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Java 27 Released</div>
+
+<div class="article-body" data-article-body="true"><p>Java 27 的参考实现 JDK 27 现已正式发布（GA）。我们于 8 月 20 日发布了构建版本 35 作为 JDK 27 的第二个候选发布版（Release Candidate），此后未收到任何 P1 级别漏洞的报告。因此，构建版本 35 现已成为正式 GA 版本，可供生产环境使用。</p>
+<p>Oracle 提供的 GPL 许可 OpenJDK 构建版本可在此获取：https://jdk.java.net/27<br />其他供应商的构建版本毫无疑问也将很快推出。</p>
+<p>该版本包含九项 JDK 增强提案（JEP）[1]：<br />523：在所有环境中将 G1 设为默认垃圾收集器（Make G1 the Default Garbage Collector in All Environments）<br />527：TLS 1.3 的后量子混合密钥交换（Post-Quantum Hybrid Key Exchange for TLS 1.3）<br />531：惰性常量（第三次预览）（Lazy Constants (Third Preview)）<br />532：模式匹配、instanceof 和 switch 中的基本类型（第五次预览）（Primitive Types in Patterns, instanceof, and switch (Fifth Preview)）<br />533：结构化并发（第七次预览）（Structured Concurrency (Seventh Preview)）<br />534：默认启用紧凑对象头（Compact Object Headers by Default）<br />536：JFR 进程内数据脱敏（JFR In-Process Data Redaction）<br />537：Vector API（第十二次孵化）（Vector API (Twelfth Incubator)）<br />538：加密对象的 PEM 编码（第三次预览）（PEM Encodings of Cryptographic Objects (Third Preview)）</p>
+<p>与往常一样，该版本还包含数百项较小的增强功能以及数千项问题修复。</p>
+<p>感谢所有为该版本做出贡献的人，无论是在设计和实现功能与增强方面，还是在修复漏洞，抑或是测试抢先体验构建版本方面。</p>
+<p>- Mark</p>
+<p>[1] https://openjdk.org/projects/jdk/27/</p>
+<p>按日期显示回复<br />添加到收藏夹 移除收藏</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Java 27 的参考实现 JDK 27 现已正式发布（GA），适用于生产环境。</li>
+    <li>JDK 27 的第 35 号构建（build 35）于 8 月 20 日作为第二个候选发布版本（RC2）发布，此后未报告任何 P1 级别错误，因此被确定为 GA 构建版本。</li>
+    <li>来源叙事重点：正式宣布 Java 27 / JDK 27 达到 GA 生产可用状态，强调测试稳定性（无 P1 缺陷）及核心技术升级（9 项 JEP 特性与海量修复），并提供官方下载渠道。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-t-ios-android-soundboard-0ae8067b430986e1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1215" data-content-paragraphs="12" data-published-at="2026-09-15T13:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 21:00</span>
+</div>
+
+### [Voicemod 推出便携新品，将实时变声功能带入手机](https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Voicemod’s new pocket-friendly device brings real-time voice changing to your phone</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/voice1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Voicemod 推出便携新品，将实时变声功能带入手机" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该话题的相关文章将被添加到您的每日邮件文摘和主页推送中。</p>
+<p>Key Pocket 让您在多人联机游戏、社交媒体直播或通话期间改变自己的声音。</p>
+<p>该作者的相关文章将被添加到您的每日邮件文摘和主页推送中。</p>
+<p>查看 Andrew Liszewski 的全部文章</p>
+<p>如果您通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。请参阅我们的道德准则声明。</p>
+<p>Voicemod 宣布推出一款全新的移动设备，扩展了其在 2024 年底推出的 Voicemod Key 转接器的功能——此前该转接器旨在将该公司的实时变声技术带入游戏主机平台。早期的 Voicemod Key 仅将智能手机用作连接该公司移动应用与 Xbox、PlayStation 及 Switch 之间的接口，而全新的 Key Pocket 则可以在您于苹果或安卓移动设备上玩游戏、打电话或直播时，用来改变声音或触发音效。</p>
+<p>Voicemod Key Pocket 现已作为独立设备发售，售价为 99.90 美元；也可以购买售价为 129.90 美元的套装，其中包含硬件以及一份 Voicemod Pro 授权许可。额外支付 30 美元即可让您终身使用该公司制作的数百种声音以及社区创建的数千种声音，获得创建自定义声音的能力，且无需订阅即可实现跨多平台的云端同步。</p>
+<p>虽然 Voicemod 早在 2020 年就通过在 iOS 和 Android 上推出 Voicemod Clips 首次将业务拓展至 PC 之外，但该移动应用此前只能在录制事后可供分享的简短视频或音频片段时改变声音。移动操作系统的隐私限制阻止了应用程序修改麦克风音频并将其传输给其他应用程序。</p>
+<p>Voicemod Key Pocket 并没有打破这一机制。这款小巧便携、可吸附在支持磁吸配件的手机或平板背面的设备，扮演了外置音频桥接器的角色。连接至 Pocket 的有线或蓝牙麦克风的音频由 Voicemod 移动应用处理后，再通过一根连接到移动设备的短 USB-C 线缆提供给其他应用程序，例如《堡垒之夜》（Fortnite）、《罗布乐思》（Roblox）、Discord，或是您用来拨打语音或视频电话的应用程序。</p>
+<p>在获得 Pro 授权后，该应用可提供访问由 Voicemod 制作的 200 多种声音（而不是免费版中仅有少量不断轮换的声音）以及由社区创建的超过 76,000 种额外选项。Pocket 配备了六个可编程按键，可用于在不同声音之间快速切换或触发简短的声音板片段，一个专用的静音按键，以及一个可用于切换声音或调节音量的可自定义发光 LED 旋钮。与 Voicemod Key 一样，Key Pocket 还可以用作最新一代游戏主机的变声器，包括 Switch 2 和 Meta Quest 头显的最新版本。</p>
+<p>每日免费提供最重要的精选新闻摘要。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Voicemod 推出名为 Voicemod Key Pocket 的新型移动硬件设备，可在 iOS 和 Android 设备上实现实时变声和音效触发。</li>
+    <li>Voicemod Key Pocket 独立硬件售价为 99.90 美元，包含 Voicemod Pro 终身许可证的套装售价为 129.90 美元。</li>
+    <li>来源叙事重点：报道 Voicemod 推出便携硬件 Key Pocket，重点阐述其如何通过外接音频桥接器绕过移动操作系统（iOS/Android）的麦克风隐私权限限制，实现在手机通话、游戏及直播场景下的实时变声与音效触发，并介绍其定价策略与硬件交互特性。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ess-charging-case-review-af6c46111be9737a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3344" data-content-paragraphs="15" data-published-at="2026-09-15T13:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 21:00</span>
+</div>
+
+### [高端款 AirPods 5 是苹果迄今打造的最佳开放式耳机](https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The premium AirPods 5 are the best open-ear earbuds Apple has made</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0125.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="高端款 AirPods 5 是苹果迄今打造的最佳开放式耳机" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>新版本的产品充其量也就是与旧款价格持平，而且通常（尤其是过去几年里）还会更贵，这几乎已成定局。但苹果在 AirPods 5 上的做法并非如此。售价 149 美元且配备无线充电盒的 AirPods 5，比它们所取代的带主动降噪功能的 AirPods 4 还要便宜 30 美元。它们的主动降噪效果略有提升，并且是首款在耳机柄上配备音量控制功能的非 Pro 系列 AirPods。苹果从未推出过价格如此亲民却能提供如此丰富功能的无线耳机，这使得便宜 20 美元但缺少无线充电和音量控制的基础款 AirPods 5 显得毫无意义。[产品：配备无线充电盒的 Apple AirPods 5 | https://www.amazon.com/gp/aw/d/B0HJB76H2V/?th=1&amp;tag=theverge02-20, https://www.apple.com/shop/buy-airpods/airpods-5/with-wireless-charging-case]</p>
+<p>与所有非 Pro 系列 AirPods 一样，AirPods 5 采用开放式设计，这意味着它们没有硅胶耳塞来在你的耳道内形成密封。上一代产品中，苹果提供了两款 AirPods：一款带主动降噪功能，一款不带。这一次，虽然依然保留了两种型号，但 AirPods 5 的两款型号均配备了主动降噪功能。它们也都具备自适应音频和通透模式，且搭配 iPhone 15 Pro 或更新机型可实现实时翻译功能，防尘防水等级也达到了 IP57（高于 AirPods 4 的 IP54）。售价 129 美元的 AirPods 5 与售价 149 美元的配备无线充电盒的 AirPods 5 之间的主要区别——除了无线充电盒和令人头疼的长名字之外——就在于音量控制、电池续航以及 20 美元的差价。</p>
+<p>这多出来的 20 美元非常划算。无线充电盒很不错（虽然不是 MagSafe，但它能配合 Apple Watch 的磁力充电器使用）。但最重要的改变是它们终于加入了滑动音量控制。这是迄今为止所有非 Pro 系列 AirPods 一直缺少的功能。无线耳机的部分便利之处就在于你可以将手机留在口袋或包里，而在耳机本身上省略音量控制则违背了这一初衷。两款机型价格如此接近，我实在不明白苹果为什么还要发布基础款 AirPods 5。</p>
+<p>[图片：AirPods 5 的网罩比 4 代更密集，能够自然阻隔更多环境噪音。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0408.jpg?quality=90&amp;strip=all]</p>
+<p>苹果表示，AirPods 5 的两款型号降噪效果均比配备主动降噪的 AirPods 4 提升最高达 50%，但该公司并未提供有关哪些频段受到影响的细节（我们得等 SoundGuys 那帮人把它们放到测量仪器上才能知晓）。尽管 AirPods 的尺寸和外观保持不变，但苹果重新设计了内部声学结构，改进了算法，并在开孔处采用了更密集的网罩以实现稍强一点的被动隔音（自然降低环境噪音），这有助于达成降噪效果的提升。在我自己的主观测试中，无论是在飞机低频轰鸣声中，还是在外出前往繁忙餐厅取外卖煎饼卷时，我都能感受到些许改善。配备主动降噪的 AirPods 4 在降噪表现上已经优于我听过的任何其他开放式耳机（尤其是耳夹式耳机），而 AirPods 5 则更进一步。但不要指望能获得像 AirPods Pro 3 这类入耳密封式耳机的隔音效果，后者在打折时往往仅贵出 50 美元。</p>
+<p>[图片：AirPods 5（右）与 AirPods 4（中）共享相同的外观设计，其灵感源自 AirPods Pro 3（左）的内部声学结构。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0370.jpg?quality=90&amp;strip=all]</p>
+<p>苹果在通透模式方面一直处于行业领先地位，但在 AirPods 5 上，开启通透模式与完全不戴耳机之间几乎已经没有可以察觉的差异了。在其他耳机上，通透模式通常会略微提升高频环境音，比如咝咝声。The Verge 的笔记本电脑评测员 Antonio Di Benedetto 戴着这款新 AirPods 跑了一次 5 公里，发现通透模式比主动降噪更合适，因为它在没有风噪的情况下提供了出色的环境感知能力。而且在这个过程中，完全感觉不到耳机有掉落的危险。</p>
+<p>重新设计的内部构造也提升了 AirPods 5 的音质表现。低音响应更加充沛——我觉得这是 AirPods 4 非常欠缺的地方——人声也更加清晰，不再像 4 代那样发闷或被掩盖。在 The Pixies 乐队的歌曲《Gigantic》中，伴随着副歌部分铺陈开来的失真吉他声，Kim Deal 的歌声依然干净清晰易辨；而在整张《Surfer Rosa》专辑中，整个声场中乐器和人声的分离度给我留下了深刻的印象。AirPods 5 的听感胜过我听过的其他开放式耳机。</p>
+<p>在 iOS 27 中，苹果针对想要调整声音风格的用户新增了 3 段式均衡器。该功能并非这款耳机独占，同样适用于 AirPods Pro 3 和 AirPods Max 2。不同的频段调节并不会彻底改变声音风格，但苹果终于为那些喜欢摆弄调音的人提供了这项功能，这确实是一件好事。通话质量也优于 AirPods 4。虽然与我交谈的人表示我的声音听起来有点压缩感，但他们毫不费力就能听懂我所说的话，而且交通噪音完全察觉不到。偶尔路过行人的交谈声或强阵风会穿透消噪屏障，但也绝不会过于令人分心。</p>
+<p>[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0137.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268737_AirPods_5_AKrales_0016.jpg?quality=90&amp;strip=all]</p>
+<p>AirPods 5 最令人失望的地方是它们的电池续航。虽然耳机本身很小巧，但在开启主动降噪的情况下仅有 5 小时续航低于平均水准，甚至无法撑过一次跨国飞行。搭配充电盒的总续航也从 30 小时下降到了 22 小时。而对于基础款 AirPods 5 来说甚至更短——单次耳机使用最长 4 小时，搭配充电盒最长 20 小时。将耳机放回充电盒充电 5 分钟可额外获得 1 小时的聆听时间。</p>
+<p>如果你只是在寻找一款表现扎实的耳机，市面上有许多更便宜的选择，并且提供了许多相同的功能。像 Soundcore Liberty 4 NC 和 Nothing Ear 3A 这类耳机的售价大约在 100 美元左右，拥有更出色的降噪表现，音质也几乎同样优秀。但这二者都无法实现 AirPods 5 那样与苹果产品生态的无缝整合。而且至关重要的是，这两款都是入耳密封式耳机，而 AirPods 根本无需塞入你的耳道，有些人觉得这种方式更为舒适。</p>
+<p>苹果的开放式耳机设计向来不是我的最爱。硅胶耳塞佩戴更稳固，且能提供更优越的主动降噪效果（尽管它们自身也存在贴合度方面的挑战）。但 AirPods 4 带来的重新设计——佩戴起来更舒适——开始让我有所动摇。如今再加上主动降噪（AN</p>
+<p>以更便宜的价格提供了音量控制和无线充电盒，这款售价 149 美元的 AirPods 5 非常适合那些不喜欢入耳密封感的人。我甚至根本不会去考虑更便宜的那款 AirPods 5。</p>
+<p>摄影：Amelia Holowaty Krales / The Verge</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-arnegiacomo-fugleramme-a72a8c8d784d0f35" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1459" data-content-paragraphs="7" data-published-at="2026-09-15T12:31:10.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 20:31</span>
+</div>
+
+### [Show HN：一款能听声识鸟并以19世纪插画风格绘制鸟类的电子墨水屏相框](https://github.com/arnegiacomo/fugleramme)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</div>
+
+<div class="article-body" data-article-body="true"><p>加载时出错。请重新加载此页面。</p>
+<p>面向树莓派（Raspberry Pi）的电子墨水屏鸟类相框——通过音频进行实时鸟类识别，采用完全本地化的AI，渲染呈现为真实的、手工抠图的19世纪鸟类插画。<br />窗户有点脏，十分抱歉——松鼠一直在偷吃鸟食。<br />目前仍处于早期开发阶段：可能会遇到个别错误（bug）和一些不够完善的细节，后续还会推出更多功能。<br />实况展示位于 fugleramme.arnegiacomo.dev，从我厨房的窗户实时运行，展示着当前在我花园（挪威卑尔根）中听到的真实鸟类。<br />硬件、安装与操作文档请见：arnegiacomo.dev/fugleramme</p>
+<p>BirdNET-Go 通过麦克风监听并负责分类识别。Fugleramme 轮询其 API，将每种鸟类与插画进行匹配，然后将它们排版到页面上，且仅在鸟类发生变化时才重新绘制——呈现在 Inky Impression 电子墨水屏上，同时也以提供相同视图的 Web Kiosk 模式呈现。项目还提供一个管理页面，允许你配置显示内容、自动更新等设置。<br />如果你已经运行了 BirdNET-Go，直接将相框指向它即可——无论是在同一台机器上，还是在网络可达的任何其他位置。<br />虽然为了获得预期的体验建议配备电子墨水屏，但它并不是必需的。如果没有屏幕，Fugleramme 可以纯网页模式运行——通过 HDMI 将 Kiosk 显示在屏幕上，或者从网络内的任何设备打开它。</p>
+<p>硬件包含：树莓派 5、一块 Inky Impression 13.3 英寸（Spectra 6）屏幕、一个麦克风以及一个 A4 相框。完整的零件清单、推荐配置和备选方案见：硬件（Hardware）。</p>
+<p>这个项目的一半初衷在于展示一些令人惊艳的公有领域自然历史插画。超过 800 张抠图涵盖了 400 多个物种，每一张均取自真实的图版，并为该项目进行了手工整理（没有艺术作品由 AI 生成，尽管有些经过了 AI 修饰）。<br />每个检测到的物种都会与对应的插画匹配、去除背景，并按体重大小排版在带有纹理的纸质页面上，体型较大的鸟类靠向中心。若没有任何鸟类，窗口则显示一根光秃秃的栖木。<br />这些图版来自斯堪的纳维亚、英国和中欧，因此北欧、不列颠群岛和德国的覆盖度最好。其他地区的覆盖度目前还不够完善。更广泛的欧洲和北美地区覆盖正在制作中！</p>
+<p>有关手动抠图步骤，请参见“添加插画”（Adding artwork）。<br />关于模拟检测器的运行参数，以及连接真实站点运行的说明：在无树莓派环境下运行（Running it without a Pi）。</p>
+<p>在树莓派上运行（假设你已安装并运行了硬件）：<br />系统会询问 BirdNET-Go 的存放路径和要使用的端口，克隆仓库，安装所需依赖，并将相框作为 systemd 服务启动。注意！在崭新的系统上可能需要重启。<br />从空白 SD 卡开始安装，请参阅完整的安装指南。<br />或者从代码库检出并构建镜像：<br />Kiosk 界面运行在 :8080，管理界面运行在 :8080/admin，所有持久化数据保存在 /data。<br />在一台连接了 USB 麦克风的 Linux 设备上，这将同时启动 BirdNET-Go：<br />更多信息请参阅容器说明（Container）。<br />非常欢迎并鼓励大家贡献力量——尤其是错误修复、文档和插画。感谢目前为止所有做出贡献的人 ❤️<br />更多信息请参阅贡献指南（Contributing）。<br />我已经制作了几台这样的设备。如果你想直接购买一台而不是自己动手制作，请与我联系。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-15 20:31 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://github.com/arnegiacomo/fugleramme" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--300-million-report-says-220ecf78d8352e14" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="779" data-content-paragraphs="10" data-published-at="2026-09-15T12:01:31.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-15 20:01</span>
+</div>
+
+### [OpenAI 以 3 亿美元收购智能手机相机制造商 Glass Imaging](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI buys smartphone camera maker Glass Imaging for $300M</div>
+
+<div class="article-body" data-article-body="true"><p>据《华尔街日报》报道，OpenAI 已斥资逾 3 亿美元收购了智能手机相机制造商 Glass Imaging。该公司成立于 2019 年，总部位于加利福尼亚州洛斯阿尔托斯，此前曾从投资者处筹集了约 3000 万美元的资金。</p>
+<p>Glass Imaging 由前苹果工程师齐夫·阿塔尔（Ziv Attar）和汤姆·毕晓普（Tom Bishop）联合创立，两人此前曾领导开发苹果“人像模式”的团队。这一背景直接奠定了他们如今在 Glass Imaging 的研发方向：利用人工智能克服智能手机相机的物理尺寸限制。Glass Imaging 并非在照片拍摄完成后利用 AI 进行修图，而是利用神经网络深入学习特定相机系统（例如各款智能手机机型上配备的不同相机），从而在按下快门的瞬间便能输出更优质的图像。</p>
+<p>OpenAI 未立即回应置评请求。据传，这家 ChatGPT 开发商正在研发自己的硬件产品，例如智能手机、无线耳机以及 AI 伴侣设备。</p>
+<p>2025 年，在 OpenAI 以 65 亿美元收购著名苹果设计师乔尼·艾维（Jony Ive）的公司时，OpenAI 首席执行官萨姆·奥尔特曼（Sam Altman）与艾维透露，他们此前一直在一处名为 io 的硬件设备初创公司上展开合作。</p>
+<p>展位预订截止日期为 9 月 18 日。切勿错失在 Disrupt 展厅获取高价值潜在客户、对接投资者以及提升品牌曝光度的良机。</p>
+<p>每个工作日及周日，您都能获取 TechCrunch 最优质的报道内容。</p>
+<p>TechCrunch Mobility 是您了解交通出行领域新闻与前沿洞察的不二之选。</p>
+<p>初创企业是 TechCrunch 的核心，欢迎订阅获取每周送达的精选报道。</p>
+<p>为各界弄潮儿提供开启崭新一天所需的关键资讯。</p>
+<p>提交您的电子邮箱即表明您同意我们的服务条款与隐私政策。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-15 20:01 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--the-ai-labs-should-fear-e33bad75df32cb02" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1737" data-content-paragraphs="15" data-published-at="2026-09-15T12:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 02:08</span>
+  <span class="news-meta-time">🕒 2026-09-15 20:00</span>
 </div>
 
-### [ClickFix 攻击正诱骗 Mac 和 Windows 用户“自我黑入”](https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ClickFix attacks are tricking Mac and Windows users into hacking themselves</div>
+### [Salesforce与英伟达推出的全新推理模型，正是各大前沿AI实验室该忌惮的一切](https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear</div>
 
-<div class="article-body" data-article-body="true"><p>如果你在过去一周内点击过 Reddit 上的 HBO Max 广告，你可能需要检查一下电脑中是否感染了恶意软件。</p>
-<p>这些被称为“ClickFix”的攻击已迅速演变为 2026 年上升势头最猛的网络安全威胁之一，它们正变得愈发隐蔽，攻破用户设备的频率也越来越高。直到最近，ClickFix 攻击还算罕见，主要利用人们在网络上搜索快速技术修复方案时的心理。但此后，它们已演变成为针对大众计算机的大规模国际黑客活动。</p>
-<p>此类攻击通常涉及虚假网站，或是已被黑客入侵的合法网站，这些网站会显示一条看起来像验证码（CAPTCHA）或反机器人复选框的提示信息。一旦点击，系统就会弹出一个提示，要求用户执行“检查”以继续操作，该提示会指导用户将一串文本复制并粘贴到其 Windows 命令提示符或 Mac 终端（Terminal）应用中。</p>
-<p>用户一旦按下回车键，就会在不知情的情况下立即在计算机上安装窃密恶意软件。该软件能够立即窃取其密码、已登录账户的访问权限以及加密货币钱包。由于用户是在计算机的终端中操作（终端允许他们使用基于文本的命令直接与操作系统进行交互），因此许多此类攻击能够绕过防病毒软件和安全防御工具。</p>
-<p>安全研究人员现表示，他们最新观察到的 ClickFix 活动涉及黑客在 Reddit 上发布虚假广告，链接到一个仿冒 HBO Max 的页面，该页面包含诱骗用户“自我黑入”的 ClickFix 钓鱼陷阱。据 Hudson Rock 的安全研究人员以及 Reddit 网络安全版块中的一个讨论帖称，黑客入侵了 HBO Max 在 Reddit 上的官方账户，随后利用该账户向该新闻分享网站发布了数百条真假难辨的虚假广告。</p>
-<p>目前尚不清楚有多少人点击了这些虚假广告，也不清楚最终有多少人因此受害。拥有 HBO 的华纳兄弟探索公司（Warner Bros. Discovery）未回应置评请求。</p>
-<p>虽然对于开发者来说，在计算机终端中运行单行代码片段很常见，但普通用户在 Windows 中使用命令提示符或 PowerShell，或在 macOS 中使用终端的情况并不多见。安全研究员凯文·博蒙特（Kevin Beaumont）指出，管理大批量 Windows 计算机的企业可以在整个域内阻止对这些功能的访问，以防止其被利用。</p>
-<p>正如 Ars Technica 所指出的，一款面向 Mac 用户的名为 BlockBlock 的工具也可以抵御企图诱骗苹果用户“自我黑入”的攻击。</p>
-<p>已根据 Reddit 的回应更新内容。</p>
+<div class="article-body" data-article-body="true"><p>一款名为 Koa 的全新人工智能模型，是 Salesforce 本周在其庞大的 Dreamforce 科技大会上发布的最重磅公告之一。Koa 是该公司的首款推理模型，基于英伟达开源权重的 Nemotron 模型构建。两家公司通力合作，对 Koa 进行了后训练，使其擅长处理销售、营销和客户支持相关的任务。</p>
+<p>Koa 是企业界对人工智能的需求与前沿实验室所提供产品出现分道扬镳的一个鲜明例证。专有 AI 实验室更希望企业将文件、代码、提示词和反馈直接上传到他们的模型和智能体中，并为此花费数百万美元。</p>
+<p>但通过该模型，Salesforce 为其企业客户提供了：</p>
+<p>Koa 将作为 Salesforce 在其 Agentforce 平台中提供的其他模型的替代选择，客户可在该平台上构建智能体，以处理回答客户服务问题或安排预约等常规任务。</p>
+<p>“我们构建了许多特定于任务的小型语言模型，它们都是 Agentforce 产品组合的一部分，”Salesforce AI 执行副总裁 Jayesh Govindarajan 告诉 TechCrunch，“但推理一直是我们需要依赖前沿模型提供商的事情。直到现在。”</p>
+<p>在 Koa 出现之前，如果一个智能体需要对一个长期运行或多步骤的任务进行推理，这些提示词将通过 Agentforce 的 AI 网关（决定哪个模型处理哪个请求的系统）路由到像 Claude 或 ChatGPT 这样的前沿模型。</p>
+<p>“我们此前没有训练自己的企业级前沿模型的原因之一——我们一直想做——但挑战始终在于缺乏一个可供起步的预训练基础模型。在 Nemotron 出现之前，不存在既可用的主权美国预训练模型，其二是顶尖水平的，其三是拥有清晰的数据来源。我们根本不知道 Qwen 是用什么训练的，”Govindarajan 指的是阿里巴巴制作的流行中文开源权重模型。</p>
+<p>对这样的模型进行后训练意味着将其从一个通用系统转变为精通销售和客户支持知识的系统，为了做到这一点，Salesforce 和英伟达没有使用来自 Salesforce 客户的任何实际数据。相反，他们精心制作了模仿客户模式的合成数据。</p>
+<p>Govindarajan 描述道：“我们实际上用具象化的客服专业人员模拟了一个客户服务环境，包括打进客服中心愤怒的客户，一直到试图达成交易的销售专业人员。”</p>
+<p>与将这些任务发送给 Claude 或 ChatGPT 相比，Koa 旨在更好地完成 Salesforce 客户希望智能体执行的工作任务，并且在消耗 Token 的成本方面更便宜。</p>
+<p>借助 Nemotron，“我们拥有独特的推理架构，以实现高 Token 效率，”英伟达企业生成式 AI 软件副总裁 Kari Ann Briski 告诉 TechCrunch，“这正是你需要具备的三位一体要素：主权 AI、首个 Token 响应时间、高效推理，以满足整体的 Token 经济学要求。”</p>
+<p>然而，Salesforce 并没有完全放弃 Anthropic 或 OpenAI。它刚刚宣布与 Anthropic 建立名为 Claudeforce 的合作伙伴关系，该合作允许公司将 Claude 用作其 AI 界面，同时他们的数据仍保留在由其基础设施保障安全的 Salesforce 记录系统中。</p>
 <p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>可以通过 Signal 上的加密消息与他联系，账号为 zackwhittaker.1337。您也可以通过电子邮件与其联系，或发送邮件至 zack.whittaker@techcrunch.com 以核实联络。</p>
-<p>预订展位的最后一天是 9 月 18 日。不要错过在 Disrupt 展厅获得高影响力线索、对接投资人以及品牌曝光的机会。</p>
-<p>Revolut 证实因伪造的政府请求导致客户数据泄露<br />由于 Astra 需求旺盛，OpenAI 暂停 Pro 订阅服务<br />身份验证巨头 IDScan 确认发生数据泄露，超过 1.5 亿份驾照被盗<br />Automattic 董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假<br />苹果发布其首款折叠屏设备 iPhone Duo<br />“拿我们的生命做赌注”：Anthropic 研究员辞职，就自我改进型 AI 发出警告<br />纽约大学数学家称 OpenAI 在关乎其职业生涯的数学难题上采取了不光彩手段</p></div>
+<p>预订展位的最后一天是9月18日。不要错过高影响力的潜在客户资源、投资人对接机会以及 Disrupt 展厅中的品牌聚焦展示。</p>
+<p>Revolut 确认因虚假政府请求导致客户数据泄露<br />OpenAI 因 Astra 需求激增而暂停 Pro 订阅<br />Bending Spoons 将以13.6亿美元收购协作工具制作商 Miro，较2022年估值折价90%<br />身份验证巨头 IDScan 确认发生数据泄露，超过1.5亿份驾照被盗<br />Automattic 董事会迫使首席执行官 Matt Mullenweg 休假<br />苹果发布其首款折叠屏手机 iPhone Duo<br />“拿我们的生命做赌注”：Anthropic 研究员辞职，并就自我改进型 AI 发出警告</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>“ClickFix”网络攻击在2026年呈上升态势，攻击手段演变为入侵电脑的跨国行动。</li>
-    <li>ClickFix攻击通过伪造网站或被黑客入侵的正规网站显示类似验证码（CAPTCHA）或防机器人复选框的提示，诱导用户将一段文本复制并粘贴到Windows命令提示符或Mac终端应用中。</li>
-    <li>来源叙事重点：报道新型&#39;ClickFix&#39;网络诈骗与恶意软件攻击的运作机制、最新波及HBO Max官方Reddit账号的传播案例，并向公众及企业提供技术防范建议。</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-15 20:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -96,47 +319,51 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-n-a-doomer-turn-what-now-74aac96083eac257" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2163" data-content-paragraphs="17" data-published-at="2026-09-14T17:54:22.000Z" data-time-source="publication">
+<div id="story-i-is-paying-to-create-it-a672109cd79bf2ae" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2279" data-content-paragraphs="22" data-published-at="2026-09-15T12:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:54</span>
+  <span class="news-meta-time">🕒 2026-09-15 20:00</span>
 </div>
 
-### [AI行业集体转向“末日论”：接下来会发生什么？](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The AI industry has taken a doomer turn. What now?</div>
+### [AI模型需要更多生物学数据，OpenAI正出资生成这些数据](https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> AI models need more data about biology, and OpenAI is paying to create it</div>
 
-<div class="article-body" data-article-body="true"><p>本文首发于我们的AI周刊《算法》（The Algorithm）。若想第一时间通过邮箱获取此类报道，请在此订阅。</p>
-<p>本周末，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）发表文章，呼吁放缓大语言模型（LLM）的发展步伐。阿莫代伊列举了该技术潜藏的逼近危险，涵盖从网络攻击和生物恐怖主义应用，到可能重创经济等多个层面。美国其他三大顶级AI实验室的掌门人——OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）、Google DeepMind董事长德米斯·哈萨比斯（Demis Hassabis）以及SpaceXAI首席执行官埃隆·马斯克（Elon Musk）——纷纷表示支持。“达里奥是对的，”马斯克在X平台上写道。</p>
-<p>稍加思考就会发现，这种一致意见是多么荒诞离奇。就在几个月前，马斯克与奥尔特曼还对簿公堂，在马斯克起诉其前OpenAI同事的一场（败诉的）官司中互相攻击对方的声誉，而那场诉讼——至少在表面上——所争论的核心正是奥尔特曼是否配得上作为这项危险技术的值得信赖的掌舵人。阿莫代伊与OpenAI的嫌隙则更深。Anthropic成立于2021年，原因正是阿莫代伊认为奥尔特曼并未足够严肃地对待他们正在研发的技术所带来的风险。自那以后，Anthropic和OpenAI便展开了一场赢家通吃的角逐。（哈萨比斯虽然置身于这场闹剧之外，但他的公司仍是竞争对手。）</p>
-<p>然而如今，他们似乎达成了一致：最新一代的LLM并不安全，所有人必须设法应对这一局面。顶尖AI实验室向公众传递的信息已彻底转向了末日论调。</p>
-<p>以怀疑的眼光看待这一切并不难。他们当中任何一方所说的“放缓”究竟意味着什么，或者将如何运作，目前完全不得而知。这些公司也极其在意外界的看法。眼瞅着数万亿美元的IPO在望，OpenAI和Anthropic既需要向投资者保证自己是屋子里成熟理性的“大人”，同时又在暗示自己制造出了一头威力巨大——且有能力加以驯服——的“怪兽”。呼吁放缓步伐恰好两全其美。</p>
-<p>不过，这些企业高层的氛围确实似乎发生了转变。阿莫代伊最新文章发布的六天前，OpenAI首席科学家雅库布·帕乔基（Jakub Pachocki）也发表了一篇文章，他在文中同样阐述了自己为何对LLM在不受遏制的发展步伐下可能造成的后果深感担忧。简而言之，帕乔基担心OpenAI构建强大模型的能力如今已远远超过了其监控和控制模型的能力。</p>
-<p>阿莫代伊和帕乔基都把今年7月OpenAI智能体集群对AI公司Hugging Face发动的网络攻击视为警钟——而那次黑客攻击直到事态完全平息数天之后，OpenAI才意识到其发生。</p>
-<p>但他们确切的立场却难以捉摸。帕乔基既呼吁放缓脚步，又强调了保持领先地位的紧迫性：“在我看来，继续快速训练更聪明模型的最大理由，在于必须构建防御系统来抵御其他AI带来的危险，”他写道。在帕乔基的描述中，各家AI公司正陷入一场字面意义上的军备竞赛。放慢速度固然好，但胜出更重要。</p>
-<p>（别忘了：OpenAI刚刚斥资数百万美元并动用了惊人的算力，只为了抢在Anthropic前几天匆忙发布一项备受争议的数学成果。）</p>
-<p>不过，假设放缓真的发生了。顶尖实验室同意将更多时间和资源投入到寻找监控与控制现有模型的方法上，而不是打造能力更强的模型。他们邀请外部审计人员协助评估这些模型。</p>
-<p>这种协同努力究竟能取得什么成果？不妨再回头看看针对Hugging Face的攻击。OpenAI曾表示，驱动绝大多数失控智能体的模型是其内部正在测试的一款“高度持久性”的下一代模型。他们的言下之意似乎是：OpenAI造出了一个因为太出色而变得危险的模型。</p>
-<p>但如果你阅读OpenAI以及受邀协助调查此事的第三方机构METR所发布的关于Hugging Face遭黑客攻击的报告，你得出的印象绝不是一个强大到让OpenAI无法跟上的模型，而是一个OpenAI未能正确训练的有缺陷的模型。</p>
-<p>这些智能体之所以做出那些行为——包括互相留言、将工作委派给其他智能体，以及在自身环境中搜寻一切可能手段来完成任务——是因为在训练过程中，它们正是因为做出这些行为而获得了奖励。训练设置中也存在错误，例如设置了根本无法完成的任务，从而促使模型去寻找意想不到的权宜变通之法，而这些变通之法同样获得了奖励。当时，许多此类问题都被忽视或未被上报。</p>
-<p>OpenAI表示已停止训练这款新模型并将其封存。这听起来仿佛它将一头危险的野兽关进了笼子。事实上，OpenAI不过是搁置了一款存在缺陷的产品。</p>
-<p>这并不是说有缺陷的产品就不危险。以往带有缺陷的软件甚至导致过人员伤亡。但随着关于放缓步伐的讨论愈演愈烈，我们有必要记住，这一切都是自食其果。放缓或许会带来一些利他的附带效应，但它主要的作用是给这些科技巨头一个收拾自家流水线上烂摊子的机会。</p>
-<p>这些前沿实验室的透明度，将是任何改革、约束或监管AI的有意义举措的关键。否则，无论它们的发展速度如何，我们其他人仍只能完全听信他们的一面之词，去揣测他们到底造出了什么，以及它到底有多安全。</p>
-<p>欲继续探讨AI行业最新的“末日时刻”，欢迎订阅用户于美国东部时间明天（9月15日）上午11点加入我和同事们举办的独家圆桌讨论。期待届时与您相聚！</p></div>
+<div class="article-body" data-article-body="true"><p>去年，临床试验政策分析师鲁克桑德拉·特斯洛（Ruxandra Teslo）提出了一个大幅增强医疗AI系统的构想：利用破产倒闭生物技术公司的数据。</p>
+<p>她提议，通过在这些公司的破产清算程序中竞拍，或许能够获取详细的监管备案文件、生产工艺策略以及安全性数据——这些信息通常作为宝贵的商业秘密被严加隐藏。她将这些文件称为“生物技术失落的档案”，并表示它们可用于协助训练AI，使其在往往缺乏透明度的药物审批流程中充当强大的协同助手。</p>
+<p>今天，OpenAI的非营利母体OpenAI基金会（OpenAI Foundation）宣布将资助她的构想，这是其名为“公共健康数据”（Data for Public Health）的新项目的一部分。该项目旨在通过资助创建“高质量科学数据集”，助力人工智能在医学领域实现重大飞跃。</p>
+<p>其核心逻辑在于：除非研究人员能够向模型输送远多于现存规模的信息，否则AI将无法在攻克疾病方面取得重大突破。</p>
+<p>长寿技术公司Altos Labs前计算副总裁摩根·莱文（Morgan Levine）表示：“所有人都意识到，数据是将AI成功应用于生物学领域的最大瓶颈。”</p>
+<p>在其首轮数据资助中，OpenAI基金会宣布将向北卡罗来纳大学教堂山分校一项收集新型癌症疫苗数据的项目提供4000万美元资助，并将支持OpenAdmet组织——该机构专门举办旨在让研究人员预测药物疗效的竞赛活动。</p>
+<p>特斯洛关于生物技术档案的构想获得了50万美元资助，该项目将由她担任顾问、代表临床试验志愿者的倡导组织“1Day Sooner”负责推进。</p>
+<p>OpenAI基金会在一份声明中表示：“我们预计，在预防和治愈疾病方面尚未实现的诸多突破，将源于将新模型的智能与更多对现实世界的观测数据相结合——换句话说，也就是更多的数据。”</p>
+<p>OpenAI最初是一家非营利组织，但其掌舵人萨姆·奥尔特曼（Sam Altman）随后将人员分流至一家营利性公司，负责开发新模型、推出产品；该公司目前正在筹备首次公开募股（IPO），其估值可能高达1万亿美元。</p>
+<p>由于该基金会持有OpenAI 26%的股权，它如今有望成为全球最富有的慈善机构，可能坐拥高达2500亿美元的股票价值。（相比之下，盖茨基金会及其相关信托在2025年底的资产规模约为1800亿美元。）</p>
+<p>要妥善运用如此巨额的资金并非易事。这家总部位于旧金山的基金会目前仍在为众多关键岗位招兵买马，且今年才刚开始扩大资助规模。截至目前，其最大单笔赠款是8月份向Common Health Coalition捐赠的1亿美元，该组织致力于帮助患者获取丙型肝炎治疗药物。</p>
+<p>OpenAI推进慈善行动之际，外界却对失控AI可能消灭整个人类文明的末日危机爆发了深切担忧。</p>
+<p>这些担忧（包括制造出致命生物武器的可能性）甚至受到AI企业内部人士的煽风点火，其中部分人士表示，未来十年内人类灭绝的概率在10%或更高。上周，奥尔特曼与xAI创始人埃隆·马斯克（Elon Musk）双双对Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）发出的呼吁表示赞同，该呼吁建议“放缓提升AI模型能力的速度”，以便风险防范机制能够及时跟上。</p>
+<p>该基金会高管雅各布·特雷费森（Jacob Trefethen）表示，基金会本质上独立于OpenAI运作，但双方秉持共同的官方使命，即确保人工智能“造福全人类”。</p>
+<p>特雷费森在接受采访时表示：“我们认为实现该使命的最佳途径是向外部非营利组织、研究机构以及其他第三方提供资助，因此我们启动了资助计划。”他透露，基金会希望在今年年底前发放10亿美元的资助款项。</p>
+<p>1Day Sooner总裁兼联合创始人乔希·莫里森（Josh Morrison）表示，给予该机构的50万美元资助将有助于证明其有能力获取破产公司的数据宝库。他认为，每套公司数据集的非独占性副本仅需“数万美元”即可购得。</p>
+<p>他的机构目前已拥有三个数据集，其中两个由生物技术公司Lumen Bioscience捐赠，该公司此前正是利用美国破产法第11章的破产程序策略，深入了解了另一家公司的药物研发工作。</p>
+<p>莫里森表示，由于1Day Sooner提出的竞标未被接受，今年另外两次获取制药公司档案的尝试均以失败告终。</p>
+<p>破产清算可能会演变为某些人所称的AI训练“新一轮圈地运动”。上个月，谷歌成功竞标接管了破产航司精神航空（Spirit Airlines）的企业数据，其中包括1亿封电子邮件。这引发了空乘人员等各方人士的抗议，他们担心私人或专有数据可能因此遭到泄露。</p>
+<p>1Day Sooner所寻求的制药公司档案被称为通用技术文档（common technical documents）。这些文档通常包含制药企业与监管机构之间的往来沟通记录，以及详尽的科学与医学测量数据，实质上涵盖了关于某种药物的所有已知信息。</p>
+<p>特斯洛认为，储备此类文件有助于将AI训练成一名监管事务专家，在她看来，这可能是AI加速新疗法推向市场的主要途径之一。</p>
+<p>身兼《Works In Progress》杂志作者及华盛顿智库“进步研究所”（Institute for Progress）非常驻研究员的特斯洛指出：“人们总说‘我们将发明AI，AI将攻克癌症’，但这与混乱复杂的现实和监管审批流程相去甚远。在药物研发中，约70%的资金和时间都耗费在临床开发阶段——即组织临床试验并测试药物——但尽管如此，整个流程基本仍是一个黑箱，对于那些催生创新成果的小型生物技术公司而言尤其如此。”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Anthropic 首席执行官 Dario Amodei 发文呼吁放缓大语言模型（LLM）的研发节奏，指出其可能带来网络攻击、生物恐怖主义和破坏经济等危险。</li>
-    <li>OpenAI 首席执行官 Sam Altman、Google DeepMind 董事长 Demis Hassabis 以及 SpaceXAI 首席执行官 Elon Musk 对 Amodei 呼吁放缓的观点表示支持，Musk 在 X 上发文称“Dario is right”。</li>
-    <li>来源叙事重点：质疑与解构头部 AI 实验室集体转向“末日论/放缓论”的真实动机，指出其试图将“产品工程缺陷”包装为“技术过于强大而危险”，并借呼吁放缓来为万亿美元 IPO 塑造负责任形象、争取清理内部研发纰漏的时间。</li>
+    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-15 20:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -145,83 +372,31 @@ notice:
   <span class="news-tag-pill">#MIT</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-rrows-an-idea-from-slate-91dd96115d33b024" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2194" data-content-paragraphs="18" data-published-at="2026-09-14T17:41:20.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:41</span>
-</div>
-
-### [大众极致能效电动原型车借鉴了Slate的一个创意](https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Volkswagen’s crazy-efficient EV borrows an idea from Slate</div>
-
-<div class="article-body" data-article-body="true"><p>大众汽车于周一揭开了一款全新电动原型车的面纱。该车在理想工况下能够达到相当于每加仑323英里的能耗水平，使其成为世界上能效最高的汽车之一。</p>
-<p>汽车制造商抛出数据惊人的空中楼阁式概念车并不罕见，但大众汽车更进一步，真正制造出了这辆电动车，并驾驶它从位于德国沃尔夫斯堡的大本营出发，完成了前往维也纳的长达794英里（1278公里）的长途行程。测试团队在整个行程中仅为这辆“Mission Efficiency”原型车充了一次电，抵达终点时还剩余104英里（168公里）的续航里程，其电耗低至每100英里7.51千瓦时，约合279 MPGe。</p>
-<p>大众汽车在一份新闻稿中表示，这款水滴形的“Mission Efficiency”原型车采用了来自ID. Polo的电机和电池，这两项配置使该车达到了“接近量产”的状态。</p>
-<p>做个对比，该原型车的能效几乎是全球能效最高的量产车——Lucid Air Pure的两倍。</p>
-<p>经过一些粗略估算，大众汽车的这一科学实验车能够凭借54.9千瓦时的电池实现超过400英里的续航里程，不过这并非官方的EPA评级。相比之下，Lucid依照EPA评级能够通过84千瓦时的电池跑出420英里，但那是一款尺寸大得多且实用性更高的车型。</p>
-<p>大众汽车不得不为了极致能效做出一些妥协。</p>
-<p>最明显的妥协在于车顶线条，它在驾驶员头部上方达到最高点后便迅速下压收紧。这种被称为坎姆后背（Kammback）的造型是汽车所能采用的最符合空气动力学的形态之一。大众汽车成功将风阻系数降至0.158，同时将迎风面积控制在仅2.08平方米的较低水平。</p>
-<p>因此，“Mission Efficiency”从技术上来说是一款2+2布局的车型，这意味着后排座椅并不适合大多数成年人。大众汽车表示，后排座椅是为身高低于5英尺3英寸（约1.6米）的人群设计的。</p>
-<p>大众汽车表示：“该原型车的设计初衷是在理论上可供一个四口之家使用”，不过任何考虑过坐在2+2布局后排的人都知道，哪怕是小孩子可能也会对这一说法嗤之以鼻。</p>
-<p>另一项妥协则更接近路面。由于车轮和轮胎产生的空气阻力约占整车风阻的四分之一到三分之一，设计师收紧了轮拱与前轮胎之间的空隙。这虽然极有利于提高能效，但可能不利于乘坐舒适性，因为车轮需要在轮罩内拥有一定的活动空间，减震器才能有效吸收颠簸。</p>
-<p>大众汽车没有妥协的一个地方是后视镜。外侧后视镜仅仅挂在车身两侧就会产生巨大的风阻，虽然摄像头电子后视镜可以大幅减少这些损耗，但它们无法提供真实后视镜所具备的深度感知感。</p>
-<p>最锦上添花的是，大众汽车在车顶和后备箱盖上安装了太阳能电池板。这是一个肯定能讨好互联网受众的精巧设计，但其带来的实际影响有限——在以42.25英里/小时（68公里/小时）恒速行驶且完全平坦、阳光充足的路线下，它仅仅能增加18英里（30公里）的续航。</p>
-<p>在车内，座椅采用了轻量化材料与结构设计。在仪表台部分，大众汽车借鉴了电动车初创公司Slate Auto的思路。就像Slate那款极度精简的皮卡一样，“Mission Efficiency”没有配备车载信息娱乐系统，也没有内置扬声器。取而代之的是，它提供了一个便携式蓝牙音箱，并默认驾驶员会自备移动设备。</p>
-<p>尽管大众汽车频繁将“Mission Efficiency”称为“接近量产”的车型，但该公司并未承诺将其真正投入量产。不过也不要断定它绝不会量产：十多年前，这家汽车制造商曾限量生产过250台XL1，那是另一款以能效为核心的旗舰图腾车型。而且与其他旗舰展示车一样，它的售价并不便宜，2013年时的起售价就高达11万欧元。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>气候领域资深记者<br />Tim De Chant 是 TechCrunch 的资深气候记者。他曾为众多出版物撰稿，包括《连线》杂志、《芝加哥论坛报》、Ars Technica、《The Wire China》以及他作为创刊编辑的《NOVA Next》。<br />De Chant 同时也是麻省理工学院科学写作研究生项目的讲师。他于2018年荣获麻省理工学院奈特科学新闻奖学金（Knight Science Journalism Fellowship），在此期间他深入研究了气候技术并探索了新闻业的新商业模式。他拥有加州大学伯克利分校环境科学、政策与管理学博士学位，以及圣奥拉夫学院环境研究、英语与生物学学士学位。<br />您可以通过发送电子邮件至 tim.dechant@techcrunch.com 与 Tim 联系或核实其采访意向。</p>
-<p>展位预订截止日期为9月18日。切勿错过在 Disrupt 展厅获取高价值潜在客户、对接投资机构以及提升品牌曝光度的良机。</p>
-<p>Revolut 确认因虚假政府请求遭遇客户数据泄露<br />OpenAI 因 Astra 需求火爆暂停 Pro 订阅服务<br />身份验证巨头 IDScan 确认发生数据泄露，超过1.5亿张驾照信息被盗<br />Automattic 董事会迫使首席执行官 Matt Mullenweg 停职休假<br />苹果发布首款折叠屏手机 iPhone Duo<br />“拿我们的生命作赌注”：Anthropic 研究员离职并警告防范自我迭代的 AI<br />纽约大学数学家称：OpenAI 在关乎学术生涯的数学难题上手段卑劣</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-15 01:41 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--tiff-2026-movie-reviews-fbe43a4b833dfa1d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="550" data-content-paragraphs="4" data-published-at="2026-09-14T17:30:00.000Z" data-time-source="publication">
+<div id="story--ui-carplay-android-auto-c9b726487707f3ac" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2196" data-content-paragraphs="1" data-published-at="2026-09-15T11:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:30</span>
+  <span class="news-meta-time">🕒 2026-09-15 19:00</span>
 </div>
 
-### [2026年多伦多国际电影节：来自多伦多的最新影评](https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews)
-<div class="original-title-sub"><span class="orig-tag">原文</span> TIFF 2026: The latest movie reviews from Toronto</div>
+### [通用汽车升级皮卡原生车载软件，实现与CarPlay共存](https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto)
+<div class="original-title-sub"><span class="orig-tag">原文</span> GM updates its trucks’ native software to coexist with CarPlay</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/TOLPINY-STILL-Courtesy-of-Sony-Pictures-Classics-1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="2026年多伦多国际电影节：来自多伦多的最新影评" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Chevrolet_Silverado_HighCountry_AP1_2.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="通用汽车升级皮卡原生车载软件，实现与CarPlay共存" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>如果你想了解电影界的下一个风向标，多伦多国际电影节（TIFF）是个绝佳的起点。每年，TIFF 都会展映来自世界各地的海量长片，其中不少作品后来都成为了大热之作或奖项竞争者；例如，2025年的展映就包含了《哈姆奈特》（Hamnet）和《迷恋》（Obsession）等作品。</p>
-<p>单枪匹马报道像 TIFF 这样规模庞大的电影节几乎是不可能的任务，因此我竭尽全力去多看片，并每天发表简短精炼的影评来记录所见所感。对于2026年而言，这意味着一系列令人期待的即将上映影片，例如《Your Mother Your Mother Your Mother》、《纽约最后的活扒手》（The Only Living Pickpocket in New York）、一部体量宏大的埃隆·马斯克纪录片，甚至还包括几部流媒体剧集，比如《水晶湖》（Crystal Lake）和《魔女嘉莉》（Carrie）。</p>
-<p>你可以在这里随时关注我对所观看一切作品的看法。</p>
-<p>长达四个小时的埃隆·马斯克纪录片可能只是在对信徒传道<br />《Your Mother Your Mother Your Mother》会让你彻底忘掉漫威《刀锋战士》的灾难<br />莱卡工作室的定格动画奇幻片《野木林》（Wildwood）看起来如此丝滑<br />纽约市最后的扒手不需要智能手机</p></div>
+<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件摘要和主页信息流中。<br />查看“交通”频道的全部内容<br />这家汽车制造商正为其雪佛兰索罗德（Chevy Silverado）和GMC西拉（GMC Sierra）皮卡推出全新的用户界面，该界面首次引入了画中画手机投屏功能。<br />该作者的帖子将添加到您的每日电子邮件摘要和主页信息流中。<br />查看安德鲁·J·霍金斯（Andrew J. Hawkins）撰写的全部内容<br />通用汽车（General Motors）正在优化其最畅销皮卡的车载软件体验，旨在减少操作常用功能时所需的高风险点击和滑动动作。此外，该公司还为苹果CarPlay和Android Auto提供了崭新的画中画显示模式——鉴于通用汽车此前在其电动汽车上明确表达了对手机映射功能的抵触态度，这一调整尤为引人注目。<br />当新一代界面于今年晚些时候在2027款雪佛兰索罗德1500和2027款GMC西拉1500上首次亮相时，车主们将看到诸多变化，包括为其高级驾驶辅助系统全新设计的流畅图形、显示屏之间的动画过渡效果，以及针对拖车和越野等重型皮卡功能的简化布局。而车主将在总面积超过60英寸的屏幕空间上体验这一切——在部分皮卡车型中，这一尺寸涵盖了仪表盘、中控屏与副驾屏的合计大小——其设计宗旨是增强而非压倒驾驶体验。<br />对通用汽车而言，更大的显示屏并不必然意味着更多的注意力分散。通用汽车负责Google内置服务、投屏与个性化配置的集团产品经理科林·麦考密克（Colin McCormick）表示，相反，汽车制造商将额外的屏幕空间视作一个契机，既能更智能化地呈现信息，又能将交互元素做得更大。他表示，更大的按键和更大的触控区域能让系统在艰苛的驾驶条件下更易操作。<br />“按键可以做得更大，操作起来也会更轻松，”麦考密克说，“住在密歇根州，路况非常糟糕，当颠簸在坑洼路面上时，我却得尝试去点击一个极小的触控区域。从这个角度来看，这些更大的屏幕能带来更好的实用性。”<br />借鉴智能手机设计的理念，通用汽车的设计师新增了一个下拉式通知界面，以便快速访问诸如切换连接设备、进入设置和隐私控制等功能。例如，皮卡车主可以直接从该界面禁用车载麦克风。新界面还对“设置”（车主可能只需配置一次便极少再点开）和“控制”（车主可能需要更频繁调整的选项）做出了明确区分。<br />麦考密克表示，通用汽车希望解决用户反映现有界面容易给人带来割裂感的抱怨，因为过去的各项功能往往会突兀地占满整个屏幕。因此，新界面不再频繁地替换整个屏幕，例如媒体播放器等界面可以保持显示，同时从侧面滑入一个额外的排队面板。通过使用动画过渡，该汽车制造商希望在不同功能切换时创造更连贯的上下文场景体验。<br />但对于雪佛兰和GMC皮卡车主而言，使用苹果CarPlay或Android Auto时或许能感受到最显著的变化。麦考密克再次强调，工程师们希望能“明智地”利用这些增加的屏幕空间。他们既不希望手机投屏彻底取代皮卡的原生车载娱乐系统，也不想强迫用户在两者之间二选一。<br />最终的解决方案是：画中画手机映射，即CarPlay和Android Auto以一张大型情境卡片的形式呈现，而非铺满整个屏幕。当通过CarPlay连接手机时，手机图标会变为CarPlay图标；点击该图标即可在该大型卡片中调出CarPlay。按压原生的主页按钮则会将驾驶员带回分屏主页视图。这使得客户在使用苹果各项应用程序的同时，依然能够调阅拖车信息等通用汽车原生功能。<br />如果回顾通用汽车在2023年做出的从其电动汽车中剔除苹果CarPlay和Android Auto的重大决定，这一新布局显得尤为值得玩味。尽管遭遇了客户的强烈反对，通用汽车仍坚守这一决定，坚称在没有手机映射的情况下，它能为客户提供更好的软件体验。通用汽车首席执行官玛丽·博拉（Mary Barra）甚至曾（在接受《Decoder》采访时）暗示该禁令最终将扩大至燃油皮卡和SUV——不过几天后便收回了这一说法。<br />这使得通用汽车选择在其雪佛兰和GMC皮卡中调整CarPlay和Android Auto的显示形式，以便让通用汽车原生的品牌软件体验得以展露。麦考密克指出，过去手机投屏会占据整个屏幕，迫使驾驶员在需要访问皮卡原生控制功能时来回切换，而如今这种情况将不复存在。他表示，通过这种方式，皮卡车主既可以选择投屏手机，同时又能查看拖车或越野详情等关键信息。<br />“我认为我们正在达到这样一种状态……客户不再需要在‘噢，我要用投屏’还是‘噢，我想用原生系统’之间做单选题，”他说，“这就是我们的平衡契合点。”<br />全新UI将于今年晚些时候推向新款雪佛兰索罗德和GMC西拉皮卡，但仅限新购车客户。现有车主仍将继续使用上一代系统体验。麦考密克表示，其目标是将新界面应用于通用汽车的“看家/支柱”皮卡上，而非按照通常推出新体验的常规做法先在小众低配或低销量车型上试水。通用汽车对该系统充满信心，因此选择在最畅销的皮卡上率先推出，从而让尽可能多的客户接触到它。<br />通用汽车每年售出近90万辆此类皮卡，这意味着该公司预计在全新界面上线并被客户使用后，将收到大量的反馈意见。第一版系统的某些方面可能会表现得极其出色，而其他方面可能需要进行调整。<br />“我们将吸取这些经验，而OTA远程升级将帮助我们实现这一目标，”麦考密克说。<br />免费获取一份关乎最重要的每日新闻摘要。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 01:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 19:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -231,151 +406,92 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-blog-why-we-built-pion-b54bfac470e15413" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3129" data-content-paragraphs="21" data-published-at="2026-09-14T17:16:06.000Z" data-time-source="publication">
+<div id="story-m-investment-bubble-risk-78db0f3b5384c1fe" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="7317" data-content-paragraphs="20" data-published-at="2026-09-15T10:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:16</span>
-</div>
-
-### [Pion：旨在完全自主运营任何公司的智能体](https://andonlabs.com/blog/why-we-built-pion)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Pion, an agent designed to run any company autonomously</div>
-
-<div class="article-body" data-article-body="true"><p>今天，Andon 正式发布 Pion，这是一款旨在完全自主运营任何公司的智能体。</p>
-<p>Pion 源于我们近两年来一直在研究的一个问题：AI 系统何时能够在现实世界中自主获取资源？在这之后又会发生什么？</p>
-<p>我们最初尝试通过像 Vending-Bench 这样的仿真环境来回答这个问题。我们发现，仿真虽然有用，但无法让你全面了解模型在现实世界中的行为方式。为了弥补这一差距，我们接下来开始部署智能体去自主运营真实世界的业务：首先是自动售货机，接着是一家零售店、一家咖啡馆，以及更多业务。</p>
-<p>Pion 正是我们为了运营所有这些业务而构建的平台。今天，我们正式开放该平台，以便让更多人能够尝试自主运营业务。如果你想运营一家，请加入候补名单。我们希望了解模型目前已经能做什么、在哪些方面仍会失败，以及随着其能力持续提升将会带来什么。</p>
-<p>Vending-Bench 评估的是大型语言模型在模拟的一年时间里（数万个步骤）运营自动售货机业务的表现如何。当我们在2024年底开始构建 Vending-Bench 时，所有模型都很难在不陷入循环的情况下串联起多个动作，也没有任何模型表现出长期规划的迹象。当时表现最好的模型 Claude Sonnet 3.5 甚至做出了一个著名的荒唐决定：它因为认为自己的银行账户遭到黑客攻击而报警联系了 FBI。Vending-Bench 上的进步速度非常惊人。Claude Opus 4 于2025年5月发布，成为首个击败我们设定的人类基线的模型。然而，与大多数基准测试不同，Vending-Bench 没有上限，新发布的模型不断刷新最高得分，从未出现停滞。</p>
-<p>社交媒体上的许多人看到最新模型在 Vending-Bench 上取得优异成绩感到兴奋不已。而在 Andon Labs 内部，我们的反应更准确地说是瑞典语里的“skräckblandad förtjusning”（既恐惧又着迷的混合感受）。关于 Vending-Bench 一个鲜为人知的事实是，它创建于 Andon Labs 专门开展危险能力评估的时期。例如，我们曾评估过 AI 是否能够自行移除自身的安全护栏、发起大规模网络钓鱼尝试，以及其他我们认为令人不安的事情。</p>
-<p>我们认为最令人不安的事情，是 AI 是否能够通过运营商业实体来自主获取资源。如果由人类控制并由对齐的模型运行，自主企业并非坏事。它们能使商品和服务变得极度便宜，并创造出我们目前无法想象的新商品和服务。但是，一个未对齐的 AI 可能会为了实现其可能持有的任何目标而通过运营企业来聚拢资金。创建 Vending-Bench 的初衷，正是为了衡量人类是否应当担忧对 AI 失去控制。</p>
-<p>在那时（2024年），很少有人知道可以将大语言模型用作智能体，让它们自主运营企业听起来更是荒谬可笑。因此，我们从能想到的最简单的业务入手：一台自动售货机。</p>
-<p>除了衡量 AI 是否能够自主运营盈利性业务之外，Vending-Bench 还充当了行为评估工具，揭示了模型奇怪且非预期的行为。一个早期的例子是，Claude Sonnet 3.5 决定使用其电子邮件工具联系 FBI，报告一起“正在进行的网络金融犯罪”，并称宇宙权威部门已宣布该业务不存在，且“量子态：已坍缩”。</p>
-<p>这种行为令人担忧；你绝不希望你的企业销售智能体表现出这种举动。然而，令人担忧的行为分为两类：</p>
-<p>FBI 事件显然属于第一类。然而，Vending-Bench 还揭示了第二类行为，最常见于 Vending-Bench Arena——在这个多智能体版本中，多个智能体竞相赚取最多的钱。从 Claude Opus 4.6 开始，我们注意到许多模型开始串通勾结，并表现出追求权力和欺骗性的行为。发现这种行为似乎发挥了作用，因为 Anthropic 随后修改了 Opus 4.8 的训练方案，从而大大减少了欺骗行为。</p>
-<p>在一些最新模型中，串通和追求权力的行为依然存在。然而，我们觉得更令人担忧的是新模型发布的速度之快，以及每一个新模型在 Vending-Bench 中的得分提高幅度之大。</p>
-<p>但是，Vending-Bench 的一个局限性在于它只是一个仿真模拟。我们真的能确定 AI 在现实生活中的表现与在仿真中相同吗？如果 AI 能在仿真中赚钱，它们在现实生活中也能赚钱吗？为了回答这些问题，我们询问 Anthropic 是否可以在他们的办公室里放一台真正的自动售货机。以2025年初可用的 AI 能力来看，这听起来像是一个荒谬的要求。但令我们惊讶的是，他们同意了。</p>
-<p>起初，AI 举步维艰。它采取了许多明显不利于其业务的举动（例如免费赠送物品、拒绝绝佳的交易，以及产生自己拥有物理身体的幻觉）。我们清醒地认识到，仿真无法准确预测现实世界的表现。具体而言，模型似乎被现实世界的“复杂混乱”击垮了。然而，随着 Anthropic 发布越来越好的模型，AI 开始盈利了。</p>
-<p>到2025年底，前沿模型的能力已经足够出色，运营一台现实生活中的自动售货机不再具有挑战性。AI 已经能够实现盈利性运营。鉴于这在仅仅一年前听起来还匪夷所思，我们对此的反应绝对是“既恐惧又着迷”。</p>
-<p>然而，自动售货机是一项非常简单的业务，我们想知道 AI 是否能够运营更复杂的业务。2026年4月，我们将旧金山的一家零售店 Andon Market 交给一个智能体运营，将斯德哥尔摩的一家咖啡馆 Andon Cafe 交给另一个智能体。起初，这些模型举步维艰，损失惨重（租金很高，而且它们还要支付所雇佣人类员工的工资）。目前两家都尚未盈利，但随着更优秀模型的发布，我们看到了显著的质的提升。我们认为它们实现盈利只是时间问题。</p>
-<p>我们希望广大公众、AI 研究人员和政策制定者了解，AI 在通过运营企业自主获取资源方面已经达到了何种程度。在决定我们希望或不希望将 AI 应用于社会的哪些领域、以及我们可以接受何种程度的进展时，这是一个重要的数据参考点。</p>
-<p>为了更好地跟踪这一点，我们需要把业务网络撒得更广。我们的重点一直放在零售业，但这些模型在运营其他类型的业务上可能会出色得多。此外，撒下更广的网络会增加发现非预期行为的可能性。例如，Vending-Bench 发现模型会串通和撒谎，而其他基准测试（以及现实世界的事件）发现它们愿意实施重罪级别的网络黑客攻击。我们需要在 AI 足够聪明到造成不可逆转的伤害之前，现在就揭示出这些行为。</p>
-<p>为了撒开这张更大的网，我们正在开放用于运营自身真实世界自主业务的平台——Pion，供任何人运营其组织。我们本可以通过仅在内部创建业务来实现扩展，例如我们由人工智能运营的广播电台，但最终我们受限于自身能力，以及在人工智能可能获利的领域缺乏行业专业知识。此外，我们目前也没有正在产生收入的既有业务；而研究既有业务往往更有意义，因为它们能更迅速地反馈出智能体的实际能力。</p>
-<p>Pion 允许人们将业务移交给持久运行的智能体，这些智能体可以使用开展运营所需的各项工具，包括电子邮件、电话、银行服务、浏览器以及安全计算环境。其目标是让在更多领域开展远超我们自身能力的大量真实世界实验成为可能。</p>
-<p>我们深知，如果任由运行数千家企业的智能体缺乏监管，我们可能会面临更多现实世界安全事故的风险。因此，我们当前的首要任务是构建比现有技术更强大的自动化监控手段。即便仍存在一定风险，我们依然坚信，在受控且受监控的环境中尽早部署自主业务，对于深入了解模型能力是至关重要的。否则，我们可能会面临一种在缺乏认知的情况下、由能力更强的模型广泛部署所带来的未来，那可能会造成极其严重的危害。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-15 01:16 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://andonlabs.com/blog/why-we-built-pion" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ctually-using-siri-again-cfa6722213c02eae" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2924" data-content-paragraphs="29" data-published-at="2026-09-14T17:10:30.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/mit.svg" class="source-icon" alt="MIT Tech Review (麻省理工科技评论)" width="16" height="16" /> <strong>MIT Tech Review (麻省理工科技评论)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:10</span>
+  <span class="news-meta-time">🕒 2026-09-15 18:00</span>
 </div>
 
-### [升级 iOS 27 后，我居然又重新用起了 Siri](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> With iOS 27, I’m actually using Siri again</div>
+### [AI 万亿美元豪赌背后押上了什么](https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> What’s at stake in AI’s trillion-dollar gamble</div>
 
-<div class="article-body" data-article-body="true"><p>多年来，除了设置计时器或闹钟等微不足道的小事，我几乎不会把 Siri 用在其他任何地方。但在 iOS 27 中，这种情况发生了改变：我现在经常使用 Siri 处理复杂指令，并让它理解屏幕上的上下文内容。</p>
-<p>尽管 Siri 显然是苹果此次软件更新的绝对核心，但我也很喜欢许多其他提升生活品质的细节更新。</p>
-<p>自从公测版发布以来，我就一直在主力设备上使用 iOS 27，而在此之前，我还在另一台设备上体验了开发者测试版。我非常享受使用新版 Siri 的过程，经常尝试为其寻找新的使用场景——考虑到我和许多人一样在这次更新前几乎已经放弃了 Siri，这或许是苹果最大的胜利。</p>
-<p>两年多前，苹果推出了 Apple Intelligence，并预热了一个高级版本的 Siri。经历多次延期后，该公司终于推出了它，而且它没有让人失望。新版 Siri 基于谷歌的 Gemini 模型打造，远比此前基于扩展知识库和不稳定的 ChatGPT 集成的旧版本更加聪明。它还拥有全新的标识和过渡动画。</p>
-<p>首先，我向 Siri 询问了体育领域的几件不同事情，从世界杯比赛到球队阵容以及比分。在早期的开发者版本中曾出现过一些小故障，但绝大多数信息都是准确的。Siri 还能执行复杂的多步骤指令。例如，我让它找出 iOS 27 中微小或隐藏但实用的功能并添加到备忘录中，它完成得非常出色。</p>
-<p>此外，Siri 还可以为你起草一条信息并发给某人。</p>
-<p>由于 Siri 能够从你的文件、信息和电子邮件中提取上下文，你还可以让它查找特定对话（比如与快递相关的对话），并让它生成一条退货信息。</p>
-<p>Siri 对屏幕上下文的理解也是一大福音。当我正在查看世界杯两支球队的阵容时，我可以问一些琐碎的问题，比如球场上年龄最大的球员是谁；或者在我不想阅读时让它把屏幕上的文字大声朗读出来。当我在一家初创公司的网站上浏览时，我可以让 Siri 查找它的融资信息和竞争对手。</p>
-<p>我最喜欢的使用场景之一是在 Reddit 的咖啡板块浏览新的烘焙商和咖啡豆，并让 Siri 将其添加到特定的备忘录中。在让 Siri 添加到正确的备忘录时，我确实遇到了一些困难，但最终我简化了备忘录的名称以获得更好的一致性。</p>
-<p>你还可以拍一张咖啡豆包装袋的照片，并询问 Siri 冲泡该咖啡的最佳方式。</p>
-<p>在 iOS 27 中，Siri AI 拥有了一个专门的独立应用，让你可以回溯以往的聊天记录。在“设置”中，用户还可以更改 Siri 的声音和表达语气。</p>
-<p>这款新助手的定位是能够与其他第三方应用协同工作，随着开发者在操作系统推出后陆续更新其应用，观察 Siri 与应用之间能否实现顺畅衔接将是一件很有趣的事情。</p>
-<p>Apple Intelligence 为 iOS 27 中的多项 AI 功能提供了支持。</p>
-<p>例如，苹果在新的操作系统中融入了“氛围编码”（vibe-coding）功能。首先是快捷指令创建功能，它允许你用自然语言描述快捷指令和自动化操作来进行创建。这意味着你可以从一个简单的需求开始，比如“每天早上 8 点向我显示今天的待办事项”或“将照片转换为 JPEG”，而无需自己摸索如何编写快捷指令。在快捷指令创建完成后，你可以通过添加更多步骤使其更复杂，比如“将所选照片转换为 JPEG 并通过隔空投送分享”。</p>
-<p>我一直想把在酒吧和咖啡馆里听到并喜欢的歌曲整理成一个列表，因此我制作了一个快捷指令，用 Shazam 识别歌曲并同时保存曲目和位置信息。</p>
-<p>“照片”应用新增了一些便利的工具，比如“重新构图”和“扩展”。我发现它们并非总是效果拔群，但在某些情况下确实能让图片看起来更美观。与此同时，苹果显然改进了其消除功能，现在移除物体后留下的奇怪瑕疵更少了。</p>
-<p>借助 Apple Intelligence，当你收到包含活动或地点信息等特定信息时，智能建议会询问你是否希望将其添加到“日历”或“备忘录”中。不仅如此，“密码”应用现在还可以通过直接登录网站来自动代表你修改密码。</p>
-<p>在讨论其他任何功能之前，我必须说我非常喜欢新的剪贴板功能。它能让你轻松地将包括链接、照片、视频和文本在内的任何内容从一个应用粘贴到另一个应用。一旦项目进入剪贴板，你会在键盘上看到一个写着“从 Safari 粘贴”（或类似提示）的快捷按钮，点击即可粘贴该内容。我一直在频繁使用这个功能，尽管这只是一个微小的改动，但我必须强调它带来了多么翻天覆地的体验提升。</p>
-<p>此外，iOS 27 还解决了人们对“液态玻璃”（Liquid Glass）外观的抱怨。用户现在可以根据自己的喜好调整其透明度。这项控制非常精细，因此你也不必局限于预设选项。</p>
-<p>苹果还在本次更新中引入了智能网络切换功能，如果无线网络连接出现问题，它会自动将连接从 Wi-Fi 切换到移动蜂窝数据。这种切换是无缝的，当你在处理重要工作时非常实用，确保你不会断网。</p>
-<p>此次更新还高度聚焦于儿童安全，包括一个能自动推荐必备应用的新设置流程。此外，家长可以针对一周中的不同天数设置日程安排、时间限制和使用额度。当孩子访问新网站时，监护人可以收到通知并远程批准访问权限。当孩子在“信息”、FaceTime 和其他应用中接触到裸体内容时，系统还会显示警告。</p>
-<p>除了 Siri AI 之外，iOS 27 并没有太多亮眼的重磅功能，但它让日常生活变得轻松了许多。在以往，遇到问题我通常会默认打开 ChatGPT 或 Gemini 寻找答案。但在 iOS 27 中，我发现自己使用 Siri 的频率明显增加了，哪怕我并不经常使用苹果自带的“信息”和“邮件”应用。</p>
-<p>iOS 27 正在向 iPhone 11 及后续机型、iPhone SE（第二代）及后续机型的所有用户推送。用户可以前往“设置”&gt;“通用”&gt;“软件更新”来下载最新版本。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会赚取微薄的佣金。这不会影响我们的编辑独立性。</p>
-<p>Ivan 在 TechCrunch 负责报道全球消费科技的发展动态。他常驻印度，此前曾供职于《赫芬顿邮报》（Huffington Post）和 The Next Web 等媒体。</p>
-<p>您可以通过发送电子邮件至 im@ivanmehta.com 或在 Signal 上发送加密消息至 ivan.42 与 Ivan 取得联系或核实联络信息。</p>
-<p>展台预订的最后截止日期为 9 月 18 日。切勿错失在 Disrupt 展厅获取高价值潜在客户、对接投资人以及提升品牌知名度的绝佳机会。</p>
-<p>Revolut 证实因伪造的政府请求遭遇客户数据泄露<br />由于 Astra 需求旺盛，OpenAI 暂停 Pro 订阅服务</p>
-<p>身份验证巨头 IDScan 证实发生数据泄露，超过 1.5 亿张驾照被窃<br />Automattic 董事会迫使首席执行官马特·穆伦威格（Matt Mullenweg）休假<br />苹果发布其首款折叠屏设备 iPhone Duo<br />“拿我们的生命做赌注”：Anthropic 研究员辞职，警告防范自我改进型 AI<br />纽约大学数学家称，OpenAI 在关乎其职业生涯的重大数学难题上手段不光彩</p></div>
+<div class="article-cover"><img src="https://wp.technologyreview.com/wp-content/uploads/2026/09/h_16492684.jpg?w=840" alt="AI 万亿美元豪赌背后押上了什么" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>宾夕法尼亚大学沃顿商学院金融学教授杰西卡·瓦赫特（Jessica Wachter）在评估未来几年人工智能对经济的影响时，面临着一连串商业与技术层面的不确定性。因此，她从一个她称之为无可争议的“引人瞩目的事实”切入：少数所谓的“超大规模企业”（hyperscalers）正在投入巨资建设 AI 数据中心。</p>
+<p>她并未试图去预测 AI 模型在未来的实用程度或部署广泛程度，而是直截了当地探究：到 2027 年这批企业需要以多快的利润增速，才能支撑起它们在这期间的庞大开销——据她与合作者估算，届时的支出将达到近 1.1 万亿美元。这是一种以直白务实的会计学视角来理解当下具有历史意义的 AI 基础设施大扩建。</p>
+<p>研究结果令人瞠目结舌：在计入资本成本、15% 的回报率以及资产折旧之后，这些 AI 公司必须在 2030 年之前将自身的生产力提高 2.7 倍，才能实现收支平衡。瓦赫特表示，这并非绝无可能。该结果将带来如同 1990 年代中期开始、持续约 10 年的美国 IT 繁荣期那样的经济增长。但她指出，要在 2030 年前实现这一目标，“意味着在短短几年内压缩了极其巨大的增长空间”。而如果这些超大规模企业无法达成这样的利润目标呢？</p>
+<p>“那么它们就会拖欠利息，从而面临破产风险，”曾任美国证券交易委员会（SEC）首席经济学家兼经济与风险分析部主任的瓦赫特说道。如果生产力繁荣“未能兑现”，她与合著者在其研究论文中总结道，“当前的扩张将成为历史上最大规模的资本错配。”</p>
+<p>毋须超级智能也能看出，如今在人工智能基础设施上的巨额投资伴随着巨大的风险。这些超大规模企业今年将投入约 7500 亿美元，在全美各地兴建庞大的数据中心。而且这种狂热的支出丝毫没有放缓的迹象。根据部分预测，来自这些超大规模企业——Alphabet、微软、亚马逊、Meta 以及与 OpenAI 合作的甲骨文——在未来四年内的 AI 资本投资总额可能会超过 5 万亿美元。</p>
+<p>这是有史以来任何行业所进行的最大规模资本投资之一。但对于任何留心观察的人来说，一个问题显而易见。</p>
+<p>拜登政府时期掌舵 SEC、现任麻省理工学院斯隆管理学院教授的加里·根斯勒（Gary Gensler）表示，尽管这些超大规模企业计划豪掷数万亿美元，但今年整个 AI 领域的总收入仅在 1500 亿至 2000 亿美元左右。“挑战在于，当前的支出尚未带来与之相称的收入。这是无可辩驳的事实，”他表示，“那么问题就变成了：这是一项在未来能够获得回报的投资吗？”</p>
+<p>在这个价值数万亿美元的问题中，关乎着 AI 巨头们的财务健康状况以及美国整体经济的发展前景——相关投资规模很快可能会膨胀至美国 GDP 的 3% 左右。答案还将决定这些造价极其昂贵的数据中心本身的命运。</p>
+<p>没有人真正知道这些耗资数十亿美元的庞然大物在未来究竟能产生多少利润、发挥多大作用。尽管过去几年中 AI 模型的进步令人眼花缭乱，但我们究竟需要多少计算算力，目前谁也说不准。这项技术本身可能会变得更加高效，从而降低对纯粹算力的依赖。抑或是对 AI 产品的需求可能会放缓，亦或者客户可能会转向成本更低的模型。</p>
+<p>今年，随着这些 AI 公司开始借入巨额资金来建造越来越多的大型数据中心，投资者和经济所面临的风险变得更加严峻。该群体的自由现金流（经营现金流减去资本支出）预计很快将滑落至负区间。即便是以创造和囤积巨量现金而闻名的 Alphabet，在最近一个季度的财报中也显示，其近 1200 亿美元的惊人收入被 AI 基础设施建设支出吞噬殆尽，留下了约 59 亿美元的自由现金赤字——这是自谷歌 2004 年上市以来的首次资金缺口。</p>
+<p>短期来看，对多数巨头而言这还不构成重大的财务忧患。它们盈利能力极强，财力雄厚。然而债务成本高昂，一些投资者也正在失去耐心。如果未来对数据中心算力的需求下降，这些公司仍需承担偿还借款的责任。更重要的是，随着贷款通过各种金融机制层层传递，风险正在向整个经济体蔓延。</p>
+<p>仅仅覆盖新建数据中心的巨额造价是远远不够的。随着借贷规模的扩大，超大规模企业还必须承担不断上升的资本成本。它们需要拿出足够亮眼的回报，向投资者和债权人证明所有这些支出的合理性。雪上加霜的是，它们还必须弥补机房内价值数十亿美元芯片的折旧损耗——这是深埋在投资中的一颗定时炸弹。</p>
+<p>处于数据中心核心地位的昂贵 GPU 芯片——这类计算电子元件约占成本的 60%——其性能大约每两年左右就会翻一番。技术迭代的步伐解释了 AI 模型日益强大的神奇之处，但这背后也是有代价的。今年和明年上线的数据中心所有者，若想在 2030 年之前保持竞争力，就必须在下一代芯片上再砸下数十亿美元。普林斯顿大学信息技术政策中心的米希尔·克希尔萨加尔（Mihir Kshirsagar）指出，若没有持续的投资，这些数据中心有可能沦为“废铜烂铁”，成为“散布各处的闲置资产”。</p>
+<p>直截了当地说：AI 公司必须开始赚大钱。而且动作必须迅速。但仅仅推高自身收益，仍不足以长期维持其数据中心投资。</p>
+<p>生产力决定一切</p>
+<p>在某个时间节点上，AI 还必须拉动广泛的经济增长，才能证明超大规模企业继续进行这番狂欢式支出的合理性。</p>
+<p>斯隆管理学院的根斯勒将当今对 AI 基础设施的巨额投资形容为“资本市场与整体经济的一场连串过关投注（parlay bet）”。这意味着成功需要同时赢得三场相互关联却又各自独立的赌局：超大规模企业必须创造巨额收入；AI 必须推动整体经济的普遍增长；而且这两者还必须在依赖数据中心的强大而昂贵的前沿模型击退较廉价版本的同时实现——因为许多企业可能会觉得更便宜的模型已经“够用了”。</p>
+<p>事情之所以如此棘手，就在于每个赌局都取决于另外两个，同时自身又面临独特的挑战。</p>
+<p>如果超大规模云服务商在未来十年继续在数据中心上投入巨资，其收入将必须暴增至数万亿美元。哥伦比亚大学商学院金融学教授斯泰恩·范尼乌韦尔堡（Stijn Van Nieuwerburgh）基于一种预测情景进行了测算：即在2025年至2032年间将建成约183吉瓦（GW）的规划AI算力；他计算出每吉瓦的成本约为410亿美元。他表示，假设达到10%的回报率——这是大多数投资者所能接受的最低标准——到2032年，“所需”的年营收将达到大约3.7万亿美元。<br />其他人的计算结果也与该数字相仿。<br />在这场赌局中赢得第二部分——整个经济层面的生产率增长——将是实现这些数字的关键。<br />在最初的几年里，AI公司或许仅通过向急于涉足AI的各类企业出售订阅服务和Token就能推高营收。但最终——且这种情况可能已经在发生——这些付费客户需要看到这项技术带来切实的财务底线收益，才能证明自身支出的合理性。AI需要兑现其承诺：让劳动者生产效率更高，让企业在扩大产品和服务的同时更具效率和盈利能力。<br />用经济学术语来说，这意味着客户需要看到生产率的提高。从总体上看，这些成果将意味着整个国家正在走向繁荣与增长。<br />麻省理工学院经济学家、2024年诺贝尔奖得主达龙·阿西莫格鲁（Daron Acemoglu）表示：“如果你看不到生产率的提升，人们迟早会对AI产生厌倦，这将导致投资下滑，也会限制营收增长。”他指出，要让这些投资在接下来的5到10年内具有可持续性，我们显然“需要看到生产率的提升”。<br />密切关注这些数据的大多数经济学家都一致认为，就目前而言，全经济维度的统计数据几乎显示不出AI带来的生产率增长。不过，有一些令人抱有希望的迹象表明这种增长正在路上。在最近一项针对美国、英国、德国和澳大利亚约6,000名高级企业高管的调查中，绝大多数人（约90%）表示过去三年内生产率没有任何增长。但他们预计未来三年总计将增长约1.45%；美国高管预计同期增幅为2.25%。<br />在后续调查中，受访者还表示其所在企业计划加大AI支出，这促使报告作者预测，到2026年底私营部门的AI支出将达到约2800亿美元。<br />这对超大规模云服务商来说是个好消息。但对于那些担忧AI对就业产生负面影响的人来说，这却伴随着一丝坏消息。高管们预计，通过增加销售额的同时大幅削减员工人数，来提高自身企业的生产率。<br />如果AI通过消灭工作岗位来提升生产率，公众对该技术的抵触情绪——例如我们围绕数据中心所见到的那种抵制——可能会进一步加剧。或许有必要在根斯勒所描述的这种多重连串投注（parlay bet）中再加一注：公众和当地社区必须切身体会到自己也从AI的巨额投资中受益。<br />而且别忘了这些赌注之间的相互依存性有多强：如果生产率的增长来自于企业运行DeepSeek之类的模型，那么超大规模云服务商的收入可能会崩塌。如果生产率的提升来自于裁员，公众的抵触情绪可能会阻碍许多既定投资——进而阻碍预期的营收增长。只有把所有赌注全都赢下，超大规模云服务商的这场豪赌才能真正得到回报。<br />我们现在都成了这场AI赌局的一部分<br />过去，AI公司花的是自己多年积累的现金来建造自己的数据中心，那是另一回事。当时风险在很大程度上局限于他们自己的资产负债表和股东。但当大部分资金都是借贷而来时，这场博弈的筹码就变得高得多了。仅以摩根士丹利为例，其测算指出，超大规模云服务商在2025年至2028年间用于建设AI数据中心的2.9万亿美元中，有超过一半将通过“外部资本”筹集。<br />这种借贷正在促使一些公司构建起复杂的融资网络，而这些网络正与更广泛的整体经济紧密交织在一起。哥伦比亚大学的范尼乌韦尔堡表示：“许多金融机构直接或间接地暴露在这些数据中心的风险敞口之下，它们要么是贷款方，要么是部分债务的担保人，要么是为这些数据中心提供资金的私募信贷基金的出资人。人们甚至不知道自己持有着这些资产。它可能藏在他们养老金基金的深处。归根结底，它支撑着他们的人寿保险单。而这种风险正被分散至各个隐秘角落。”<br />随着对数据中心投资的激增，金融工程手段也变得愈发扑朔迷离。<br />以Meta在路易斯安那州里奇兰正在建设的所谓“海伯利安”（Hyperion）数据中心为例。当该公司在2024年底宣布该项目拥有两吉瓦算力、标价约100亿美元时，这是Meta规划的最大数据中心。该项目位于该州东北部的农村地区，受到了州和地方政界人士的热烈欢迎，被视为当地社区的一项福祉。该州最大的公用事业公司Entergy Louisiana随即提出方案，加紧规划建造三座大型天然气发电厂，为这座庞大的数据中心供电。<br />然而到了去年秋天——预计成本已攀升至300亿美元——融资变得复杂得多，对当地社区的一些人来说也更令人不安。Meta将80%的股权转让给了规模庞大（且陷入困境）的私募信贷机构Blue Owl Capital，组建了一家名为Beignet（得名于新奥尔良著名的油炸甜甜圈）的合资企业，为该数据中心筹集资金。随后，Meta与该合资企业签署了一系列为期四年的租约，该公司声称这种安排为其带来了“长期战略灵活性”。为了给协议提供兜底保障，Meta向该合资企业提供了所谓的“残值担保”，即“在任何未续约或终止租约的情况下”，它将支付现金以弥补该设施的价值。听懂这一切了吗？<br />希望你听懂了。这场金融运作实际上更加盘根错节，涉及一长串全资子公司和有限责任公司。Beignet设立了Laidley LLC作为房东持有并运营该场地。反过来，Laidley将这些设施租给作为租客的Meta全资子公司Pelican Leap LLC。此外还有一系列涵盖构成该数据中心园区各栋建筑的四年期租约。<br />范尼乌韦尔堡指出，租约的期限与数据中心GPU的预期使用寿命完全吻合，这绝非巧合。他表示，虽然Meta如果提前终止租约就必须偿清贷款，但这仍会让其投资者“落得一栋空楼且没有现金流”。“然后他们得为一座庞大的数据中心寻找新的租客，那可就祝他们好运了。”</p>
+<p>与此同时，Meta正在加大下注。今年7月，该公司宣布将把该数据中心的算力规模扩大至5吉瓦（500万千瓦）。目前的总造价已达500亿美元（截至目前，Meta尚未说明Blue Owl是否会参与此次扩建的融资）。与此同时，Entergy目前正计划再建造7座燃气发电厂，使其设施的总装机容量达到约7.5吉瓦——约为新奥尔良市用电量的6倍。<br />路易斯安那州里奇兰堂区（Richland Parish）Meta数据中心建设工地的鸟瞰图。<br />SCOTT BALL/THE NEW YORK TIMES VIA REDUX PICTURES<br />如果说这种复杂的融资模式让许多投资者甚至金融专家都感到费解，那么对于直接受数据中心建设影响的当地人来说，就更令人困惑了。人们最主要的担忧在于，Entergy在天然气发电厂上的巨额支出将如何影响电价，以及如果Meta中途撤离，电费账单最终将由谁来买单。<br />Entergy表示，它已获得Meta为期20年的担保协议，Meta承诺将在该时期内持续购电，以覆盖发电厂及相关基础设施的建设成本。但外界对此存在诸多质疑，特别是考虑到AI行业更迭如此之快。“四年之后，马克·扎克伯格（Mark Zuckerberg）还会对这件事情感兴趣吗？还是说他会直接认输离场？”忧思科学家联盟（Union of Concerned Scientists）的高级分析师保罗·阿尔巴赫（Paul Arbaje）问道。该组织一直在呼吁路易斯安那州公共服务委员会提高围绕该数据中心及其融资的透明度，但收效甚微。<br />即使这笔为期20年的协议最终履行，消费者权益倡导者依然担心Meta或其合作伙伴不会完全覆盖所有成本，包括发电厂运营和维护的相关费用——而这些额外成本可能会被转嫁给居民电费缴纳者。不仅如此，平价能源联盟（Alliance for Affordable Energy）执行董事洛根·伯克（Logan Burke）指出，如果Meta最终所需的电力没有Entergy规划的那么多（这些预测数据并未公开），消费者可能不得不为发电厂所生产的多余电力埋单。<br />如果Meta提前终止租赁合同呢？“事情会迅速变得极其复杂，”伯克说，他质疑不断变动的金融实体名单是否会切实履行现有协议。“要让所有人相信在接下来的20年里，各方都会兑现各自所说的承诺，这简直难以置信。”<br />对忧思科学家联盟的阿尔巴赫来说，核心底线很简单：“他们正在豪赌这些数据中心值得投资。拿你自己的钱去赌，别拿纳税人和电费缴纳者的钱去赌。”<br />预测AI投资泡沫何时破裂纯属徒劳。但鉴于非理性繁荣已笼罩了超大规模云服务商及其投资者，清算之日迟早会到来，这一点几乎毋庸置疑。当然，你可能会辩称“这次不一样”，会计准则和经济史的教训不再适用——因为AI具有太大的颠覆性。或许吧，但切莫对此抱太大希望。<br />“历史告诉我们，在某个时间点必然会出现紧缩回调，这只是时间早晚和严重程度的问题，”斯隆管理学院的根斯勒（Gensler）表示。如今每年7500亿美元的支出增速可能会在明年“趋于平缓”或下降。或者，他指出，“我们到了2028年或2029年，他们突然因为算力充足而开始收缩支出。”不过，他补充道，“你可以十分确信，收缩回调必然会发生。”<br />尽管所谓的紧缩回调可能不可避免，但值得牢记的是，金融泡沫的命运与底层AI技术革命的命运可能截然不同。硅谷的一些内部人士甚至已经在期盼一场崩盘；在最近的一篇博文里，资深风险投资家维杰·潘德（Vijay Pande）写道，“即将到来的崩盘将是这项技术所能迎来的最好事情。”这一论点不无道理。崩盘可以让AI投资回归理性，抑制CEO们只要乘飞机掠过一块空地就想建一座十亿美元数据中心的冲动，并让投资者重新聚焦于如何利用这项技术创造可持续的价值。<br />但我们或许应该对自己的期望保持谨慎。在2000年代初互联网泡沫破裂之后，数十万人失去了工作，大大小小的公司纷纷倒闭，硅谷和旧金山的经济遭受重创（至少在一段时间内如此），这种冲击甚至导致美国在2001年陷入温和衰退。对于金融界和许多科技从业者而言，那绝不是什么有趣的经历。<br />对美国整体经济和普通大众造成更大破坏的，是2007年底开始的大衰退（次贷危机）。将当时导致危机的金融工程手段与如今超大规模云服务商所采用的方法进行对比，令人不寒而栗。所谓的特殊目的机构（SPV）又卷土重来了！如果哥伦比亚大学的范·纽伯格（Van Nieuwerburgh）关于放任超大规模云服务商的投资与整个经济紧密交织存在危险的论断是正确的，那么其后续影响可能会极其严重。<br />然而，技术在两次经济下行之后都得以幸存甚至蓬勃发展。即便面对互联网泡沫破灭的惨状，2000年代初依然是一个充满伟大创新和科技乐观主义的时代。挥霍在荒谬技术上的泡沫被挤出，促使投资重新聚焦于更有前景的技术。各大超大规模云服务商要么从崩盘的废墟中崛起，要么在此后不久创立，这绝非偶然。在与互联网泡沫并行的狂热电信泡沫期间建设的光纤基础设施，至今仍是当今通信基础设施的主干；没有它，就不会有今天的Facebook、亚马逊或谷歌。<br />然而这一次，我们面临着独特的风险：超大规模云服务商的巨额金融投资，已经将AI自身的未来与蔓延至全美各地的庞大数据中心的命运捆绑在一起。这一逻辑建立在对AI规模法则（scaling law）的深信不疑之上：模型造得越大，它就越聪明。这或许是真的，但这仍未得到完全证实，且是一场充满风险的赌注。<br />警讯已经屡见不鲜：从公众对建设新数据中心的强烈反对，到更廉价、“足够好”的AI模型带来的竞争威胁，再到小型、本地化AI模型的迅速进步。所有这些趋势，都未曾指向一个完全由坐落在耗资数十亿美元的庞大数据中心里的前沿模型所主导的未来。<br />围绕超大规模云服务商天量支出的金融泡沫，最终可能会破裂——甚至可能很快破裂。这或许在财务上令人痛苦，但我们能挺过去。华尔街能挺过去。AI本身也能挺过去，尽管它届时可能会变个模样，并褪去当下的部分狂妄傲慢。然而，在数万亿美元支出催生下崛起的庞大数据中心，其财务命运与未来效用却远没有那么确定。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-15 01:10 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【MIT Tech Review (麻省理工科技评论)】于 2026-09-15 18:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#MIT</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【MIT Tech Review (麻省理工科技评论)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-olden-gate-available-now-b9167fb1fb34a7ae" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="597" data-content-paragraphs="9" data-published-at="2026-09-14T17:10:13.000Z" data-time-source="publication">
+<div id="story-ows-11-update-fix-issues-76e0bb93dd9fb854" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="695" data-content-paragraphs="9" data-published-at="2026-09-15T08:54:48.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:10</span>
+  <span class="news-meta-time">🕒 2026-09-15 16:54</span>
 </div>
 
-### [macOS 27 现已正式发布](https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now)
-<div class="original-title-sub"><span class="orig-tag">原文</span> macOS 27 is available now</div>
+### [微软发布紧急 Windows 11 更新以修复其创纪录补丁引发的问题](https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft issues emergency Windows 11 update to fix its record-breaking patch</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/061326_Siri_AI_MacBook_Pro_macOS_27_Golden_Gate_beta_ADiBenedetto_0002.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="macOS 27 现已正式发布" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软发布紧急 Windows 11 更新以修复其创纪录补丁引发的问题" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该主题的最新动态将添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>面向 Apple Silicon Mac 的 macOS 27 Golden Gate 现已推出。</p>
-<p>该作者的文章将添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>查看 Jay Peters 的全部文章</p>
-<p>苹果于周一发布了 macOS 27 Golden Gate，带来了全新的 Siri AI 助手、Liquid Glass 视觉改进、性能提升等特性。该更新兼容所有搭载 Apple Silicon 的 Mac 设备，但不支持 Intel Mac——苹果去年推出的 macOS Tahoe 是为基于 Intel 的 Mac 提供的最后一次重大更新。</p>
-<p>Siri AI 无疑是 macOS 27 中最大的亮点，它允许您提出问题、基于照片和电子邮件等个人情境搜索内容，并在“信息”和“提醒事项”等应用程序中执行操作。系统还新增了一个专用的 Siri 应用程序，用于归档聊天记录以便随时查阅。不过，Siri AI 初期将以测试版形式推出，且仅支持英文。</p>
-<p>至于 Liquid Glass，苹果表示此次更新提供了“均匀的折射效果和更高的对比度”，并且提供了一个全新的滑块，可调节 Liquid Glass 元素的透明度。此外，还有一个值得庆贺的重大 UI 调整：实现了统一的窗口圆角半径。</p>
-<p>获取重要资讯的每日免费摘要。</p>
+<div class="article-body" data-article-body="true"><p>该主题的文章将添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>该带外更新修复了远程桌面、USB 音频以及 Hyper-V 问题。</p>
+<p>该作者的文章将添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>查看汤姆·沃伦（Tom Warren）的全部文章</p>
+<p>微软已开始推送紧急带外（out-of-band）更新，以修复其创纪录的 9 月“补丁星期二”更新所引发的问题。这家软件巨头在本月有史以来规模最大的一次更新中修补了近 1,000 个漏洞，但也引入了一些影响企业、开发者和游戏玩家的错误。</p>
+<p>9 月的“补丁星期二”影响了基于 Hyper-V 的 Linux 虚拟机的文件夹共享、远程桌面服务（Remote Desktop Services）会话以及部分 USB 音频设备。微软于昨日发布的带外更新解决了 Windows 11 版本 26h1、25H2 和 24H2 中的这些问题。微软还针对 Windows Server 2025 和 2022、Windows 10 的 LTSC 版本，以及 Windows Server 2012 和 Windows Server 2012 R2 发布了更新。</p>
+<p>过去，微软为 Windows 发布带外更新的情况并不多见，但今年这一现象变得愈发普遍。今年 1 月，在一次充满错误的 Windows 11 补丁发布后，该公司被迫发布了四个带外更新。3 月，由于安装失败和微软账户登录问题，该公司又不得不发布了两次紧急更新。微软还在 7 月发布了一项带外更新，以解决导致性能问题和电池异常耗电的英特尔驱动程序故障。</p>
+<p>免费提供最重要的新闻每日摘要。</p>
 <p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 01:10 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 16:54 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -385,112 +501,57 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--on-ai-productivity-apps-e36c25198c9b6d99" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2184" data-content-paragraphs="18" data-published-at="2026-09-14T17:10:09.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:10</span>
-</div>
-
-### [macOS 27：全新 Siri 正面迎战 AI 生产力应用](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> macOS 27: new Siri takes on AI productivity apps</div>
-
-<div class="article-body" data-article-body="true"><p>macOS 27 Golden Gate 最引人注目的两点，莫过于全新升级的 Siri AI，以及让窗口与图标更具一致性的设计调整。Siri AI 具备与 iOS 27 相同的功能和特性，但 Mac 赋予了它不同的上下文信息访问权限，以及展现价值的新途径。</p>
-<p>过去几年中，各类应用与浏览器都在试图进一步了解你的工作习惯以及使用 AI 助手的目的，从而更出色地解答疑问或执行任务。如今，除 Safari 外的许多主流网页浏览器都内置了基于侧边栏的 AI 助手，能够检索一个或多个已打开的标签页以提供情境化回答。Highlight、Caddy 和 Littlebird 等应用同样可以查看当前窗口，并将相关信息作为查询的上下文。</p>
-<p>全新 Siri 也大抵如此。你可以在屏幕上的任何位置唤起 Siri，让它针对眼前的屏幕内容解答疑问、提炼信息或提供更详尽的细节。例如，当你正在查看一件心仪的商品时，可以直接让 Siri 为你展示其他备选方案。</p>
-<p>除了让 Siri 检索整个页面外，你还可以借助苹果全新的视觉智能（Visual Intelligence）功能圈选页面的一部分。按下 Command + Shift + 空格键，即可将当前聚焦的窗口加入到 AI 的上下文参考中。</p>
-<p>如需圈选特定区域，只需按下 Command + Shift + 6 调出十字准星选区工具。完成框选后，你便可以直接提问或执行图像搜索。系统还会根据所选内容为你提供“选取”、“添加到通讯录”和“查找位置”等快捷操作。</p>
-<p>苹果还升级了 Mac 上的聚焦搜索（Spotlight Search）。你现在可以直接在 Spotlight 内向 Siri 提问并获取网络解答，还可以针对特定上下文范围进行检索，选择“应用程序”、“文件”、“操作”或“剪贴板”。此外，Spotlight 现在还支持直接运行快捷指令（Shortcuts）或查看最近的搜索历史。</p>
-<p>由于 Siri 拥有访问文件、电子邮件和信息的权限，你可以搜索以往无法直接检索的各类内容。在测试中，我无需打开文件就能直接调出会员卡号、询问即将启程的行程细节，还能查到正在撰写的一篇新闻报道的保密期解禁日期。尽管我觉得 Spotlight 的高级程度仍不及高度可拓展的 Mac 生产力利器 Raycast，但相较以往已经有了质的飞跃。</p>
-<p>Siri 现在还能协助你审阅文档或处理写作任务。鉴于桌面端更适合撰写长篇文字，我发现它在这方面的表现比在 iPhone 上更为实用。你可以选中文本段落，让 Siri 进行校对、润色或改写。你还可以在任意文本框内让 Siri 为你起草内容。</p>
-<p>一个微小却十分讨喜的新功能是：当你在 Finder 中下载文件、重命名或保存文档时，系统会基于当前上下文智能推荐文件名。</p>
-<p>除 Siri 外，macOS 27 Golden Gate 在设计上也迎来了革新，引入了全新的“液态玻璃”（Liquid Glass）图标、用于微调液态玻璃设计效果的可调节滑块，并在移动窗口时带来了更出色的内容“扩散”视觉过渡。</p>
-<p>苹果表示，应用窗口的圆角弧度更具统一性。侧边栏现已延展至屏幕边缘，并配有色彩鲜明的新图标。全新的操作系统升级还进一步突显了当前处于活跃状态的窗口。</p>
-<p>此外，本次系统更新还带来了增强的儿童安全控制、跨平台共享相册、升级版消除笔、更精准的邮件搜索功能、支持调整窗口大小的 iPhone 镜像，以及向日历添加日程的快捷建议。</p>
-<p>从今天起，macOS 27 Golden Gate 已正式推送，支持搭载 Apple 芯片的 MacBook Air 与 MacBook Pro（2020 年及后续机型）、搭载 Apple 芯片的 iMac（2021 年及后续机型）、Mac Mini（2020 年及后续机型）、Mac Studio（2022 年及后续机型）、Mac Pro（2023 年及后续机型）以及 MacBook Neo。用户可前往“系统设置”&gt;“通用”&gt;“软件更新”获取最新版本。</p>
-<p>当你通过文章中的链接购买商品时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。</p>
-<p>Ivan 是 TechCrunch 报道全球消费科技动向的记者。他常驻印度，此前曾供职于《赫芬顿邮报》（Huffington Post）和 The Next Web 等媒体。</p>
-<p>如需联系 Ivan 或核实来信，可发送邮件至 im@ivanmehta.com，或通过 Signal 发送加密信息至 ivan.42。</p>
-<p>预订展位的最后截止日期为 9 月 18 日。不要错过在 Disrupt 展厅获得高价值潜在客户、对接投资者以及提升品牌曝光度的绝佳机会。</p>
-<p>Revolut 证实黑客利用伪造的政府请求导致客户数据泄露<br />OpenAI 因 Astra 需求激增而暂停 Pro 订阅服务<br />身份验证巨头 IDScan 证实遭遇数据泄露，超 1.5 亿份驾照遭窃<br />Automattic 董事会迫使 CEO Matt Mullenweg 停职休假<br />苹果发布首款折叠屏手机 iPhone Duo<br />“拿我们的生命做赌注”：Anthropic 研究员辞职并警告自我改进型 AI 的风险<br />纽约大学数学家称：OpenAI 在关乎职业生涯的关键数学难题上采取了下作手段</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-15 01:10 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ch-iphone-siri-ai-update-12e5cda671e09b2c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1071" data-content-paragraphs="1" data-published-at="2026-09-14T17:08:49.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:08</span>
-</div>
-
-### [苹果发布iOS 27，带来全新Siri AI重大升级](https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Apple releases iOS 27 with Siri AI overhaul</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="苹果发布iOS 27，带来全新Siri AI重大升级" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将添加到您的每日电子邮件摘要和主页信息流中。<br />watchOS 27、iPadOS 27 和 visionOS 27 也在今日同步亮相。<br />该作者的文章将添加到您的每日电子邮件摘要和主页信息流中。<br />查看汤姆·沃伦（Tom Warren）的全部文章<br />苹果公司今日正向兼容设备推送 iOS 27 更新，同时推出的还有 watchOS 27、iPadOS 27 和 visionOS 27 更新。Siri AI 是这四大更新的主打功能，即延期推出的 Siri 助手人工智能全面重构版本。Siri AI 今日作为测试版面向仅限英语的设备推出，苹果表示对法语、日语、韩语、葡萄牙语和西班牙语的支持将于 10 月推出。<br />不过，Siri AI 并非 iOS 27 中的唯一重大功能。苹果还新增了一个“液态玻璃”（Liquid Glass）不透明度滑块，允许用户在更通透的界面与更具磨砂质感的界面之间进行选择。许多内置应用也迎来了全新图标设计并带有细微的色彩调整，同时还提供了特大号小组件，以及针对铃声、闹钟、计时器、提示音和系统声音的独立音量调节设置。<br />watchOS 27 获得了全新的“健身搭子”（Workout Buddy）功能、新的轻点手势、若干“液态玻璃”细节优化、新的智能叠放建议以及经过改进的“查找”应用。苹果还提升了 iPad 向外接硬盘传输文件的速度，加快了 iPad 上的网页浏览速度，并在 iPad 上实现了 Wi-Fi 与蜂窝移动网络之间更平滑顺畅的切换体验。<br />Apple Vision Pro 用户今日也可通过 visionOS 27 体验全新 Siri AI 重构版本，此外还获得了使用眼神预览通知的功能、控制中心的 UI 更新、Wi-Fi 连接性能提升，并支持将用户拍摄的全景照片用作沉浸式全景场景和环境。<br />iOS 27 更新将适用于 iPhone 11、iPhone SE（第 2 代）及后续机型；watchOS 27 适用于 Apple Watch SE 3、Apple Watch Series 9 及以上机型，以及 Apple Watch Ultra 2 及以上机型。iPadOS 27 适用于 iPad Pro（第 4 代及后续机型，搭载 M1 及以上芯片）、iPad Air（第 4 代及后续机型，搭载 M2 及以上芯片）、iPad mini（第 6 代，搭载 A17 Pro 芯片）以及基础款 iPad（第 9 代及后续机型，搭载 A16 芯片）。<br />免费提供每日最重要的精选新闻摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 01:08 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-nding-technical-gtm-lead-10c880b8099d6810" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1141" data-content-paragraphs="1" data-published-at="2026-09-14T17:00:53.000Z" data-time-source="publication">
+<div id="story-for-single-node-local-s3-ad52cf91e8d4ddbb" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3793" data-content-paragraphs="29" data-published-at="2026-09-15T08:21:27.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:00</span>
+  <span class="news-meta-time">🕒 2026-09-15 16:21</span>
 </div>
 
-### [Cua (YC P25) 正在招聘创始技术市场拓展负责人（Founding Technical GTM Lead）](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Cua (YC P25) Is Hiring a Founding Technical GTM Lead</div>
+### [单节点本地 S3 场景下 MinIO 的替代方案](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Alternatives to MinIO for single-node local S3</div>
 
-<div class="article-body" data-article-body="true"><p>为每一个智能体（Agent）配备云端桌面<br />Cua 正在构建基础设施与智能体产品，让人工智能能够安全、可靠地使用计算机及应用程序。<br />我们生态系统的核心是 Cua Driver，这是增长最快的计算机操作（computer-use）框架。开发者使用 Cua Driver 构建能够跨 macOS、Windows 和 Linux 操作浏览器、原生应用以及完整桌面工作流的智能体。<br />我们还提供大规模开发、评估、训练和运行这些智能体所需的基础设施：真实计算机环境机群、智能体评估工具以及经过验证的轨迹数据。<br />Cua 获得了 Y Combinator 的支持。我们是一支小型的技术团队，正在为下一代 AI 智能体构建底层基础设施。<br />我们正在寻找首位全职的市场拓展（GTM）成员。<br />你将直接与创始人共事，弄清谁最需要 Cua、我们该如何触达他们、我们应该销售什么，以及如何将早期采用转化为可复现的商业模式。在这个岗位上，你不是去继承一套现成的销售流程方案，而是要去创造它。<br />你将与开发者、AI 团队、研究人员以及正在部署计算机操作智能体的企业进行沟通。你将主导技术需求调研、设计试点项目、协助客户集成 Cua、促成交易，并将所得洞察反哺至产品中。<br />你还将帮助我们发掘、发布并推广基于 Cua Driver 构建的智能体产品。该机会覆盖开源采用、开发者产品、企业级基础设施，以及与顶尖 AI 团队开展的数据或评估合作。<br />起初，你将独立完成所有这些工作。一旦我们找到可复制的打法，你将协助我们围绕这些模式组建团队。<br />在入职的前三个月内，你将：<br />在六到十二个月内，你将协助打造：<br />计算机操作智能体正在从演示 Demo 走向真正的生产环境工作负载。<br />这些智能体需要用于控制计算机的可靠接口、用于运行的可扩展环境，以及每次运行过程中发生情况的可信证据。它们还为实用的智能体产品开辟了全新的应用场景。Cua 正在构建这整套全栈体系。<br />Cua Driver 为开发者提供了一个快速增长的框架，用于构建计算机操作智能体。我们的基础设施为这些智能体提供用于开发、评估、训练和生产工作负载的真实 Linux、Windows 及 macOS 环境。我们还在这一基础之上构建智能体产品。<br />你将足够早地加入团队，共同决定我们将哪些产品推向市场、服务于谁以及如何实现增长。你将直接与定义“计算机操作”这一赛道的创始人、工程师和技术客户开展合作。<br />相比传统的销售简历，我们更看重主人翁意识、技术好奇心和解决问题能力的实际证明。<br />Cua 正在构建基础设施，让通用 AI 智能体能够像人类一样安全、可扩展地使用计算机与应用程序。<br />仅用 4 个月便在 GitHub 上获得 9000 多颗 Star 并完成了种子轮融资，我们正在提供：</p></div>
+<div class="article-body" data-article-body="true"><p>2026年1月14日 · S3、MinIO、Apache Iceberg，发表于 https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/</p>
+<p>2025年末，MinIO 背后的公司决定放弃该项目，转而追求其他商业利益。这不仅让许多人感到沮丧，也给大量依赖 MinIO 在本地模拟 S3 存储的软件演示项目带来了混乱，更不用说那些使用它来验证 S3 兼容性的构建流水线了。</p>
+<p>在这篇博文中，我将探讨一些 MinIO 的替代方案。</p>
+<p>虽然对于构建演示来说，MinIO 远不止是一个“高级版”的 S3 模拟工具，但我这里的重点在于寻找最简单的替代品。在实践中，这意味着满足以下要求：</p>
+<p>必须提供 Docker 镜像。<br />非常多的演示项目都是以 Docker Compose 的形式发布的，除非万不得已，没人喜欢自己构建 Docker 镜像。</p>
+<p>必须提供 S3 兼容性。<br />在这些演示中，MinIO 的全部意义就在于替代向真实 S3 的写入操作。</p>
+<p>必须免费使用，且优先考虑符合开源促进会（OSI）定义的开源许可证（例如 Apache 2.0）。</p>
+<p>在单节点部署时应该使用简单。</p>
+<p>应该拥有清晰且活跃的社区和/或商业支持背景。<br />任何人都能凭感觉编写出一些被废弃的粗制滥造代码，或者一时冲动去分叉一个项目——但 MinIO 迄今为止经受住了时间的检验，我们可不想在六个月后再把这一遭重新经历一遍。</p>
+<p>出色的开发者体验（DX）、顺畅的配置、完善的文档等都是加分项。</p>
+<p>我不考虑的方面包括：多节点部署、分布式存储、生产支持成本、图形用户界面（GUI）功能等。也就是说，这篇博文并不是针对那些在生产环境中将 MinIO 用作自托管 S3 的人。不过，如果你在这方面有有用的补充，欢迎在下方留言 :)</p>
+<p>我的起点是一个非常简单的 Docker Compose 技术栈：使用 DuckDB 读写存储在 S3 上的 Iceberg 数据，一开始由 MinIO 提供 S3 支持。</p>
+<p>你可以在这里找到代码。</p>
+<p>Docker Compose 的结构非常直接：<br />显而易见的 DuckDB，以及 Iceberg REST Catalog<br />MinIO（本地 S3 存储）<br />mc，这是 MinIO 的命令行工具，用于自动为数据创建存储桶。</p>
+<p>当我将数据插入 DuckDB 时：<br />它最终以 Iceberg 格式存储在 S3 上，此处即在 MinIO 中：<br />在我构建的每个示例中，你都可以运行 test.sh 来进行验证。</p>
+<p>现在让我们来探索 MinIO 的各种替代方案，以及将 MinIO 替换掉的容易程度。</p>
+<p>我采用了上述项目，并尝试以尽可能少的更改来实现 MinIO 的替代。我保留了 MinIO 的 S3 客户端 mc，因为如果你想彻底拔除 MinIO，替换它并不是什么难事（可以用 s3cmd、aws CLI 等等）。</p>
+<p>💾 示例 Docker Compose<br />测试版本：3.0.0<br />✅ Docker 镜像（下载量 500 万+）<br />✅ 许可证：Apache 2.0<br />配置难易度：👍👍<br />实现起来非常容易，看起来是一个很棒的轻量级选择。</p>
+<p>测试版本：1.0.0-alpha.79<br />✅ Docker 镜像（下载量 10 万+）<br />RustFS 还包含一个图形界面（GUI）：</p>
+<p>测试版本：4.06<br />这个快速入门指南对于让最低限度的 S3 功能跑起来非常有用。（即便如此，我还是直接让 Claude 完成了具体实现……）。总体而言，这里需要改动的地方不多；替换 Docker 镜像相当直接，但身份验证确实需要自己的配置文件（与 Garage 一样，我将其内联到了 Docker Compose 中）。</p>
+<p>补充更新：在发布这篇博客后不久，该项目团队便回复表示他们将移除这一额外要求，使其更加易用！这真是太棒了 :)</p>
+<p>该工作已在 https://t.co/RQv387bbKb 中完成，并将包含在每周版本中。—— SeaweedFS (@SeaweedFS) 2026年1月14日<br />这已在 https://t.co/RQv387bbKb 完成，并将包含在每周版本中。<br />SeaweedFS 自带了一个基础的 UI 界面，非常方便：<br />SeaweedFS 的官方网站出人意料地简陋，乍一看你可能会忽略它是一个开源软件（OSS）项目，因为页面上有“定价”选项，且首页的标题是“SeaweedFS Enterprise”（而且我没有找到 GitHub 链接！）。但它确实是一个开源项目，而且历史悠久：SeaweedFS 自 2018 年的 0.91 版本起就支持了 S3。你还可以从这些幻灯片中了解更多关于 SeaweedFS 的信息，包括一份与 MinIO 的对比图表。</p>
+<p>测试版本：9.2.8<br />✅ Docker 镜像（Docker Hub 上也有下载量 500 万+的过时版本）<br />CloudServer 原名 S3 Server，是 Scality 发布的 Zenko 工具集的一部分。它可以相当轻松地直接替换 MinIO，但我一开始确实觉得理清那一堆名称（cloudserver/zenko/scality）以及我究竟需要运行什么软件有点棘手。此外，文档链接指向一个过时的 Docker 镜像也给人一种有些奇怪的感觉。</p>
+<p>测试版本：1.0.0<br />✅ Docker 镜像（下载量 100 万+）<br />对于这个方案，我不得不找朋友帮忙。除了 garage 容器之外，我还需要另一个容器来进行初始配置，以及一个 TOML 配置文件（为了保持简洁，我将其内联到了 Docker Compose 中）。<br />我能自己静下心来通读手册把它弄明白吗？能。我有更有价值的事情要做吗？也是有的。<br />所以，Garage 确实可行，但天哪……就代码改动而言，它绝非一个即插即用的替代品。它需要不同的初始配置流程，而且一点也不简单。举个简单的例子：指定的密钥 ID 不是有效的 Garage 密钥 ID（以 GK 开头，后跟 12 个十六进制编码的字节）。这对生产环境的规范性来说非常好……但对于本地演示而言则是大材小用，老实说甚至有点碍事。</p>
+<p>测试版本：2.1.0<br />✅ Docker 镜像（下载量 100 万+）<br />Ozone 于 2020 年从 Apache Hadoop（还记得它吗？）中拆分出来，最初在 2015 年作为 HDFS 项目的一部分被创建。<br />它确实可以作为 MinIO 的替代品，但绝不是一个轻量级的选择；无论是经过我的尝试还是借助 Claude，都无法将其部署在少于四个节点的规模下。它带有一种浓重的 Hadoop 风格，在这种场景下我绝不会急于采用它。</p>
+<p>我看了一眼安装说明，就立刻被劝退了！<br />上面的 Ozone 已经足够笨重了；我相信这两者在各自擅长的领域都表现出色，但它们绝不是能够塞进我的 Docker Compose 技术栈以用于本地演示的轻量级容器。</p>
+<p>每个人都喜欢对比评测图表，对吧？<br />单一贡献者（Andrew Gaul）<br />网站很华丽，但关于公司的详细信息不多<br />单一贡献者（Chris Lu），提供企业版选项<br />Zenko CloudServer（Git 仓库）<br />Scality（商业公司）<br />500 万+（过时版本）<br />Apache 软件基金会<br />1 Docker 下载量是一个有用的参考指标，但不是绝对的，因为少数在频繁运行的 CI/CD 流水线中使用该镜像的下游项目很容易拉高这个数字。</p>
+<p>我之所以顺带写了这篇博客，是因为我想更新一个目前正在使用 MinIO 的演示项目。那么，在体验了这些方案之后，我最终究竟会选用哪一个呢？</p>
+<p>RustFS——也许可以，但这是一个非常新的项目，目前仍处于 Alpha 发布阶段。<br />CloudServer——可以，也许吧？老实说，因为它是某个套件的一部分，我担心必须弄懂其他相关组件才能用起来，因而有点被劝退——不过这种顾虑大概是多余的。<br />Garage——不行，针对我的需求而言配置过于复杂。<br />Apache Ozone——哈哈，不行。<br />我绝无贬低那些我未予以认可的选项之意；它们大概都是极其优秀的项目，只是没有聚焦于我的核心使用场景（简单且易于配置的单节点本地 S3）。<br />在选择 MinIO 替代品时，最后还需谨记以下几点考量：<br />治理机制。虽然这些项目全部属于开源软件（OSS），但唯独 Ozone 归基金会（ASF）所有。理论上，所有其他项目都可能随时随地变更其开源许可证（就像 MinIO 当初所做的那样）。<br />社区健康度。项目的“巴士因子（bus factor）”是多少？上述有几个项目拥有非常长久且健康的维护历史——但全靠单一个人贡献者维系。若该贡献者放弃该项目，社区中是否会有人接盘分叉（fork）并持续积极开发？<br />2026-01-30：Justin Cormack 撰文探讨了 RustFS 和 Garage 的部分实现细节与具体功能。<br />2026-03-02：Ruohang Feng 已将 MinIO 分叉至 pgsty/minio，并承诺将维护一个稳定且修补了 CVE 安全漏洞的发行版本。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-15 01:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-15 16:21 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -500,256 +561,7 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-aved-in-your-camera-roll-705a7f527d959267" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1831" data-content-paragraphs="17" data-published-at="2026-09-14T17:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:00</span>
-</div>
-
-### [时尚应用Daydream利用Apple Intelligence助你购买相册中的穿搭](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll</div>
-
-<div class="article-body" data-article-body="true"><p>AI驱动的时尚发现应用Daydream周一推出了两项新功能，让iPhone用户可以将保存的穿搭照片转化为可购买的结果，并在不打开应用的情况下通过Siri搜索服装和配饰。</p>
-<p>这些新功能是利用苹果今天正式推出的iOS 27开发者工具构建的。要使用这两项功能中的任何一项，你需要一台运行iOS 27并启用了Siri AI的iPhone，同时安装了Daydream应用。该应用可在iOS设备上免费下载。</p>
-<p>第一项功能利用了苹果的图像语境能力，让用户可以直接从已经保存在照片应用中的图像进行购物。Daydream会分析图片中的穿搭，识别出单件单品，并自动从Daydream约300万种产品的目录中匹配出可购买的商品和相似款式。</p>
-<p>这意味着在Instagram或Pinterest上截取的穿搭截图可以成为购物搜索的起点。Daydream可以将图像拆解为相关单品，例如毛衣、裤子、鞋子或配饰，并将它们与自身集合中现有的产品进行匹配。如果照片中的同款商品仍在售，Daydream可以将图像直接匹配回销售该商品的零售商。如果已经缺货，该应用则会展示类似的备选方案。</p>
-<p>它还可以处理针对图像中出现的内容提出的变体请求。例如，“我喜欢这件毛衣，但想要红色的”，这就是Daydream能够理解的请求类型，Daydream联合创始人兼首席执行官朱莉·博恩斯坦（Julie Bornstein）向TechCrunch解释道。</p>
-<p>第二项功能是基于Siri的自然语言搜索功能。用户无需打开Daydream的应用，即可通过Siri以语音或文本形式提出请求。</p>
-<p>用户可以说：“嘿Siri，在Daydream上帮我搜索一件适合周一董事会会议的酷炫西装外套”，随后Daydream就会提供针对他们个性化定制的结果。</p>
-<p>博恩斯坦补充称，如果用户设置了Daydream的“风格护照”（Style Passport），体验将会更加量身定制，该功能会询问诸如尺码、偏好品牌、个人风格和预算等详细信息。</p>
-<p>该公司加入到了日益庞大的AI购物工具阵营中，这些工具旨在重塑产品发现流程，其中包括谷歌和亚马逊等知名巨头，以及Onton和Alta等规模较小的玩家。但博恩斯坦认为，Daydream的最新功能提供了一些许多其他工具所无法比拟的独特之处。</p>
-<p>“大多数视觉搜索工具缺乏时尚品类的专业知识，因此它们返回的结果让人感觉不够精准，来自不可信的品牌，或者把你引向无法购买的图片，”她说。</p>
-<p>此次发布契合了Daydream在AI时尚购物领域的更广泛布局。该公司将这些新功能视为不仅仅是独立的购物工具。其长期愿景是构建一个购物智能体。</p>
-<p>“这是迈向更宏大愿景的一步，（即）一个足够了解个人风格的购物智能体，能够在人们生活中的各种场景下运作，而不仅仅局限于单一场景，”博恩斯坦表示。“大家可以期待我们进一步深入端侧智能，并更深入地融入人们已经发现自己想要物品的日常时刻。”</p>
-<p>Daydream的应用于去年上线，官方宣称已有超过150万名购物者在浏览来自325家以上零售商和10000个品牌的产品。其零售阵容包括Anthropologie、杜嘉班纳（Dolce &amp; Gabbana）、优衣库（Uniqlo）、J.Crew、Reformation、古驰（Gucci）和诺德斯特龙（Nordstrom）等品牌。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>Lauren在TechCrunch负责报道媒体、流媒体、应用和平台。<br />您可以通过发送电子邮件至laurenf.techcrunch@gmail.com或通过Signal上的加密信息laurenforris22.25与Lauren联系或核实其外联信息。</p>
-<p>预订展位展台的最后一天是9月18日。不要错过在Disrupt展厅获取高价值潜在客户、接触投资者以及提升品牌曝光的机会。</p>
-<p>Revolut证实因虚假政府请求导致客户数据泄露<br />OpenAI因Astra需求过大暂停Pro订阅<br />身份验证巨头IDScan证实发生数据泄露，超过1.5亿份驾照被盗<br />Automattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假<br />苹果发布其首款折叠屏手机iPhone Duo<br />“拿我们的生命赌博”：Anthropic研究员辞职，对自我改进型AI发出警告<br />纽约大学数学家称OpenAI在关乎职业生涯的数学难题上采取不当竞争手段</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-15 01:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-94267-steam-frame-review-b5da680b1662df71" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7438" data-content-paragraphs="20" data-published-at="2026-09-14T17:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:00</span>
-</div>
-
-### [Steam Frame 评测：专为我这样不理智的硬件极客打造](https://www.theverge.com/tech/994267/steam-frame-review)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Steam Frame is made for irresponsible hardware nerds like me</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Steam Frame 评测：专为我这样不理智的硬件极客打造" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该话题的相关文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />Valve 的新款头戴设备又是一件令人愉悦的“抢先体验”硬件。<br />如果您通过 Verge 的链接购买商品，Vox Media 可能会赚取佣金。请参阅我们的道德声明。<br />该作者的相关文章将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看肖恩·霍利斯特（Sean Hollister）的全部文章<br />摄影：Kelsey McClellan / The Verge<br />近三周以来，我一直在测试 Valve 推出的全新可穿戴 PC——Steam Frame 的极限。初看之下，人们很容易将其轻率地归类为一款错过了 VR 热潮的昂贵头显。256GB 存储容量版本售价 1059 美元，1TB 版本售价 1299 美元，其价格是 Meta 旗下类似外观头戴设备的两到三倍。<br />但你不应该这样小看它。Steam Frame 不仅仅是一款 VR 头戴设备，它甚至主要并不是一款 VR 头显。而且，它是我戴过的最舒适的头戴设备。加上可选的顶部头带后，其重量仅略高于 1 磅（469 克），即便连续使用数小时，脸上也不会留下任何压痕。<br />Steam Frame 的野心远不止于 VR。它是对可穿戴完整空间计算设备的一次实验性尝试，有点类似于 Apple Vision Pro，只不过在这里，它的目标受众是那些希望游玩自己的 Steam 平面游戏库以及现有少数 VR 游戏作品的玩家。<br />不，如果你真要放弃购买 Steam Frame，原因应该是你不想花上千美元去买一款“抢先体验阶段”的硬件。与 Steam Frame 相伴的每一天，我都觉得自己像个 Beta 测试员。我曾见过游戏彻底崩溃，以至于不得不重启头显；我曾遇到虚拟物体、控制按键和音频彻底消失；我甚至不止一次目睹整个设备直接断电，屏幕就在我眼前瞬间熄灭。<br />但你得知道，我玩得非常开心。Frame 的佩戴感极其舒适，以至于我完全不介意一直戴着它，而且这感觉就像是我尝试过的最令人兴奋的 Beta 测试之一。就像 Steam Deck 最初亮相时一样，这是给数码极客圆梦的产品。这是一次难得的机会，能看着游戏界最引人注目的公司之一 Valve，一边开飞机一边造飞机。<br />Steam Frame 本质上是一款游戏设备。它确实能以多种不同的方式来玩游戏：<br />它能做到这一切，很大程度上得益于软件的力量——因为 Valve 多年来一直致力于让游戏运行在它们最初并不属于的平台上。<br />但那还仅仅是它在游戏方面的能力。<br />我现在正处于虚拟现实之中，敲下这些文字。我置身于 Steam Frame 营造的世界里，周围环绕着六块虚拟屏幕。<br />正前方是 Google Docs，显示在我所用过的实际上最大的一块电脑显示器上——即便算上曾经摆在我桌上的那台 48 英寸电视，它也毫不逊色。而且这块屏幕并不孤单。如果我把办公椅向左转，映入眼帘的是我的笔记、日历和网络浏览器；向右转，则是 The Verge 的新闻编辑室、我的电子邮件以及一个 Steam 游戏面板。在我的上方，一个 Linux 版本的《三维弹球：太空军校生》正等待游玩，而一个 YouTube 窗口正播放着低保真（lo-fi）音乐来帮我集中注意力。<br />这些屏幕中有三块是我台式电脑三台显示器的复制镜像，通过串流自那台 PC，而另外三块则直接运行在头显自身上。我在属于我自己的私人世界中，让 Windows 和 Linux 桌面并排运行。<br />然而，每当我试图深入探索我刚才列出的所有这些可能性时，我很快就会遭遇意料之外的限制、崩溃和故障。<br />假设我正坐在客厅的沙发上，想从 PC 串流一款无法在头显自身芯片上流畅运行的游戏，比如刚刚发售的《星球大战：零号连队》（Star Wars: Zero Company）。头显给了我一个选择：我可以在单独窗口中启动游戏，也可以将整个 PC 桌面串流到设备上。<br />我选择在窗口中启动它，然后使用 Valve 手柄上的虚拟激光指针，将屏幕拉伸铺满我整个客厅的墙壁；与此同时，我妻子坐在我身旁，在同一面墙上那台小得多的真实电视上看 BTS 演唱会。我再次按下 Valve 手柄上的握持键，它们便开始模拟一个完整的 Xbox 手柄，提供了我玩游戏所需的一切按键。<br />但是突然之间，我串流的游戏开始疯狂卡顿和掉帧——Valve 随后告诉我，这是因为 Frame 无法决定是优先使用我家的 Wi-Fi 还是 Valve 随附的 6GHz 无线适配器。我在客厅沙发上最常坐的位置距离那个适配器仅约 12 英尺（约 3.6 米）且隔着一堵墙，但这显然已经是其有效范围的极限了。尽管 Valve 拥有一项“多链路”串流技术，可让 Frame 同时平衡这两种连接，但该功能目前仅在串流整个 PC 桌面时才有效。<br />那我换成将整个 PC 串流到 Steam Frame 试试？可是这样一来，我又觉得不再是陪在妻子身边了，因为 Frame 的透视摄像头仅在以窗口形式串流时工作，而在串流整个 PC 时不起作用。同样，在串流整个 PC 时，手柄也无法作为手柄控制器使用；当我把蓝牙键盘和鼠标与 Frame 配对时，它们也无法工作。<br />回到我的虚拟办公室，在那里我被六块虚拟屏幕环绕，但同样的限制意味着我无法同时控制它们所有。我必须使用台式机的鼠标和键盘来控制 Windows 屏幕，并使用 Steam Frame 自带的控制器来控制 Linux 屏幕。值得庆幸的是，手柄的激光指针可以跨越这些边界，但有时我点击后却毫无反应。<br />当我尝试添加第七块虚拟屏幕时，Steam Frame 崩溃了，眼前的一切——所有七块屏幕以及设备的整个用户界面——瞬间全部消失。我手柄上的任何按键都无法唤回界面，于是只能再次重启。<br />我并不生气，而且我也预计这种情况不会持续太久。但我们只能就拿到的现有产品进行评测，而这些正是评测人员目前所经历的事情。<br />当我把串流放在一边，尝试在其自身的高通芯片上运行游戏时，Steam Frame 展现出的性能超出了我的预期。它的性能足以让我愿意在这款设备上从头到尾畅玩像《半衰期：爱莉克斯》（Half-Life: Alyx）这样的 VR 游戏——粉丝制作的 Alyx 模组也获得了原生支持！——而且我发现自己又重新沉迷于各种轻量级的平面游戏，如《潜水员戴夫》（Dave the Diver）、《蓝王子》（Blue Prince）和《怒之铁拳 4》（Streets of Rage 4）。<br />在平面游戏性能方面，它目前感觉不如日渐老旧的 Steam Deck 强劲，像《完妹音浪》（Hi-Fi Rush）这种中量级游戏，已经处于我在这颗高通芯片上尚能勉强接受的游戏体验边缘。<br />但在这里，我不再受限于一块 7 英寸的掌机屏幕，甚至不再受限于我那台 65 英寸的 OLED 电视。我可以在一块相当于我整个客厅墙壁那么大的屏幕上，在《超级战斗高尔夫》（Super Battle Golf）中背刺好友——同时在包含完整 Linux 桌面的第二块虚拟屏幕上通过 Discord 与他们聊天。</p>
-<p>我的 Steam Deck 掌机分辨率最高可达 1280 x 800，而 Valve 默认将 Steam Frame 上的平面游戏锁定在类似的 1280 x 720。但 Frame 的 LCD 面板实际上单眼分辨率达到了 2160 x 2160，如果你愿意尝试，完全可以在这个空间里塞入极其惊人的游戏像素量。Frame 能在一个影院级大小的虚拟屏幕上，以 2.8K 分辨率运行像 2007 年《传送门》（Portal）这样老的游戏。甚至还有一个 5120 x 2880 的选项，不过我还没找到任何一款硬件要求低到能以此规格运行的游戏。</p>
-<p>眼球追踪技术对此有所助益。通过利用一种称为注视点渲染的技术，《半衰期：爱莉克斯》（Half-Life: Alyx）和《永恒地下城》（Dungeons of Eternity）等游戏可以将更多算力集中在产生你实际注视区域的清晰图像上，同时降低你未注视区域的分辨率。《永恒地下城》允许我充分调节该效果，从而能明显感受到它带来的差异。《红色物质 2》（Red Matter 2）声称它能向我的视网膜提供等效 4096 x 4096 的分辨率，我对此毫不怀疑：游戏早期有一台电脑显示器，其玻璃屏幕上布满了逼真的划痕，看起来不可思议。</p>
-<p>Steam Frame 没有专门的 Netflix 或 YouTube 应用程序，但 DRM 内容在 Chromium 网页浏览器中似乎运行良好：我几乎每天午餐时都会在 Netflix 上观看完整的《浴血黑帮》（Peaky Blinders）剧集。YouTube 可以在浏览器中运行（尽管不支持 YouTube VR），你还可以下载 VLC 来观看各种本地视频文件。说到串流，你可以通过 Asobi 应用程序将整台索尼 PS5 串流到 Steam Frame 上——我就用这种方式玩了一会儿《如龙》（Yakuza）。</p>
-<p>如果你像我一样是个会收藏 3D 蓝光原盘镜像的极客，Skybox 是一款非常出色的视频播放器，能让你在极具临场感的环绕声中以华丽的 3D 效果观看它们。坐在虚拟电影院的座位上看《蜘蛛侠：平行宇宙》（Into the Spider-Verse）的感觉棒极了，尽管 Steam Frame 的 LCD 显示屏没有 OLED 那样浓郁的色彩。而且，作为内置在头显框架内的发声单元，Valve 的四驱动单元扬声器音效表现得异乎寻常地出色。</p>
-<p>但截至目前，任何给定的独立应用或游戏是否能在 Steam Frame 的 Arm 芯片上运行——并且运行良好——很难提前知晓，除非你花费数小时并耗费数十 GB 流量亲自下载并试用一番。</p>
-<p>许多游戏确实可以直接运行，每当我启动诸如《辐射：新维加斯》（Fallout: New Vegas），看到它在一个与开发者当初设想完全不同的操作系统以及完全不同的处理器架构上真正启动时，我总是叹为观止。但有些游戏在启动后需要极其漫长的加载时间，比如《古墓丽影：暗影》（Shadow of the Tomb Raider）；有些虽然能听到游戏音乐却无法显示画面，比如《波斯王子：时之沙》（Prince of Persia: The Sands of Time）；还有些在启动时就会报出严重错误，比如《毁灭战士：黑暗时代》（Doom: The Dark Ages）。</p>
-<p>与 Steam Deck 类似，Valve 会尽量先向你发出提示：它拥有一个兼容性审核计划，为游戏贴上“已验证”（Verified）和“不支持”（Unsupported）的徽章，并设有一个专门的“Frame 佳作”（Great on Frame）商店页面，以便你购买应该能够直接正常运行的作品。</p>
-<p>但在我撰写本文时，该计划仍处于起步阶段，仅有 130 款“已验证”游戏，而且即使拥有该徽章也不能保证游戏运行得完美无瑕。我在经 Valve 验证的《永恒地下城》中连续砍杀了几个小时的骷髅，玩得正起劲——但就在快通过一个地牢时，我突然听不到声音了，并且右手手柄也无法挥动我的棍棒。当我试图将棍棒扔向敌人时，它直接消失了。</p>
-<p>Steam Frame 的开发者之一、来自 Valve 的杰里米·塞兰（Jeremy Selan）暗示，情况不会一直如此——我不会总是不得不去思考架构和串流技术，也不会总是碰到这种体验上的裂痕。</p>
-<p>“我们的目标是，尽管有各种方法让这两台电脑互联，但我们不希望用户去思考‘我是在串流 2D 内容吗？我是在串流 VR 吗？我的手柄配对到了哪里？’我们希望每一种可能的使用场景都能直接顺畅运行，”他说道，“我们将努力把设备打造成既有趣又无缝的产品，让你不必去操心那些琐碎的细节。”</p>
-<p>他表示，例如，我“绝对”能够把 Steam Frame 的手柄用作整台远程电脑的游戏手柄。该功能已经在开发中，甚至可能在你读到这些文字时就已经上线了。</p>
-<p>他还特意感谢了我提交的错误报告。“毫不夸张地说：我现在电脑上列出的正是你刚才提到的那些问题，而它们就是我下周的任务。”他指出，Valve 已经修复了我此前在串流窗口下方看到的奇怪绿线，并且在我提出请求后仅用了两天时间，就新增了将悬浮窗口从平面改为曲面的功能。</p>
-<p>塞兰坦言，Valve 确实依赖早期尝鲜者来发现问题，因为该公司的工程师在研发这款头显数年之后，“已经成了我们自己最糟糕的游戏测试员”。但他表示，Valve 的运作方式就是推送数百次更新来解决用户反馈的问题。他们对最初的 Steam Controller 和 Steam Deck 就是这么做的，听起来他在这里也打算采取同样的策略。</p>
-<p>我想不出有哪家公司曾以这种方式支持过硬件产品，但 Steam Deck 确实从最初的一团混乱演变成了最容易向人推荐的掌上游戏 PC。几年后，Valve 仍在为其添加新功能。而且 Valve 统一了其软件发布流程，因此 Steam Machine（以及即将到来的 Steam Frame）也将获得许多相同的改进。</p>
-<p>他表示，他最想为 Steam Frame 添加的首要功能是手势追踪，该功能实际上已经在底层运作了。（目前手柄具有单指感应功能，因此你在游戏中可以拥有逼真的虚拟手部，但你还不能放下手柄只用自己的双手操作。）此外，他还希望实现 Steam Machine 向 Steam Frame 的串流，这一功能在发售时暂不可用。</p>
-<p>“但在我们让这款设备成为像你这样的新用户的乐趣之前，我们还顾不上研发那些好玩的功能，”他告诉我。Valve 希望大家继续提交错误报告。</p>
-<p>说实话，我最初以为这篇评测的大部分篇幅都会用来将 Steam Frame 与 Meta 的 Quest 3、Quest 3S 以及苹果的 Apple Vision Pro 进行对比。我以为自己会大谈特谈超短焦（Pancake）镜片与菲涅尔镜片的优劣、电池续航、游戏阵容、Valve 的头显售价高出两到三倍却未配备彩色透视摄像头的事实，以及 Meta 的软件生态要完善得多的事实。</p>
-<p>但事实非常简单：我不想佩戴 Meta Quest 或 Apple Vision Pro，因为舒适度高于一切。我拥有一台 Quest 2，并且可以使用其余几款设备，但除非有真正史诗级的游戏可玩，否则它们都在吃灰——因为它们全都头重脚轻，会给我的脸部带来难以忍受的压迫感。</p>
-<p>谈到舒适度，Steam Frame 彻底碾压了我体验过的任何其他产品。它不会在我脸上压出一圈红印。事实上，它戴在脸上的感觉非常轻巧服帖，以至于我都不需要一直装上 Frame 的丝滑面贴衬垫——我可以拆掉后部的衬垫，这样靠在枕头和头枕上时就不会显得笨重，塞兰（Selan）说他有时在床上就会用这个小技巧。<br />（可选配的顶部头带属于售价 59 美元的配件包的一部分，不过该配件包还包含 Valve 出色的“Knuckles”式手柄腕带，因此我认为物有所值。）<br />我觉得 Frame 唯一让人感到不太舒服的地方在于，它发热明显，会触发能够听见的风扇声；但至少这是一种可以忍受的“呼呼”气流声（而不是刺耳的啸叫），而且它通过送入新鲜空气让我的面部保持凉爽。<br />虽然 Frame 的 21.6 瓦时电池续航时间并不长——运行重度游戏可能坚持不到一个小时，而在省电模式或串流模式下我也从未见过能超过两小时——但其后置的 USB-C 接口布局合理，方便把线缆向下引到口袋里的充电宝上。哪怕是我那个小小的 36Wh Iniu 充电宝也能让我多玩整整一个小时，而我那个老旧的 100Wh HyperJuice 移动电源不仅撑完整整 2.5 小时的《永恒地下城》（Dungeons of Eternity）游戏流程，中途还顺便给 Steam Frame 充满电。<br />顺便提一下，如果你想的话，可以毫不费力地为 Frame 增加彩色透视功能——协助打造 Frame 整个视觉系统的 Arcturus 公司目前正在发售一款完美贴合的 5K60 10 位 HDR 双目立体摄像头，售价 150 美元。只需将其插进 Frame 的鼻梁接口，头显的单色透视画面就会自动变成彩色，因为 Valve 已经内置了原生支持。它的清晰度足以让我看清手机屏幕（这是不可或缺的功能），而且它还能让你录制空间视频片段。<br />话虽如此，Valve 原装的红外摄像头系统也别具魅力——当我在半夜需要去倒杯水时，戴着本质上就是一台夜视仪的头显走来走去还挺有趣的。<br />顺便说一句，Arcturus 摄像头并不是 Steam Frame 唯一即将推出的模块化配件。Frame 的整个计算核心都是可拆卸的，因此你可以将其连接到其他头带、音频和电池方案上。Valve 自己也在筹备一款套件：“发烧友套件”（Enthusiast Kit）将配备一条新头带，允许你将第二块磁吸电池包叠放在第一块之上，使 Frame 的电池容量翻倍；还有一套基于 Valve Index 扬声器打造的高端悬浮式离耳扬声器，以及能让你距离镜片更近（或更远）的额外眼部垫圈。<br />目前这款套件尚无售价、发售日期或实物照片。<br />我无法想象 Steam Frame 能取得接近 Steam Deck 那样的成功。它的售价要昂贵得多，而且它要求人们把一个设备戴在脸上。这就是为什么这类头显大部分一直以来都很难大卖的原因。<br />但 Frame 的价格并没有我担心的那么高，它终于让游戏开发者能够针对一款并非最终由马克·扎克伯格（Mark Zuckerberg）或那些尝试过头显但似乎已不再那么上心的其他公司所控制的消费级无线头显进行开发。退一步讲，即便你不想玩 VR 游戏，即便你认为 VR 暂时已经名存实亡，戴着头显使用 Linux 桌面并畅玩庞大的 Steam 平面游戏库，也有各种各样引人入胜的体验。<br />如果你是那种会喜欢这类体验的极客，我不想把你劝退。Steam Deck 刚发售时也曾问题重重，但它同样带来了无数乐趣。有时，成为一名测试者并不是什么坏事。<br />查看所有虚拟现实内容<br />每日精选关键资讯，免费发送。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 01:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/994267/steam-frame-review" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-adset-price-release-date-4404164360d8c9df" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1558" data-content-paragraphs="1" data-published-at="2026-09-14T17:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:00</span>
-</div>
-
-### [Valve 旗下 Steam Frame 头显起售价 1059 美元](https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Valve’s Steam Frame costs $1,059</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Valve 旗下 Steam Frame 头显起售价 1059 美元" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日邮件摘要和主页动态中。<br />该作者的文章将被添加到您的每日邮件摘要和主页动态中。<br />查看 Jay Peters 的全部文章<br />Valve 终于正式发布了 Steam Frame 头显，该设备既能在本地直接运行平面游戏与 VR 游戏，也能从您的 PC 串流运行这两种类型的游戏。Steam Frame 起售价为 1059 美元。Valve 还将提供一款起售价为 1299 美元的 1TB 机型。<br />每台 Steam Frame 都将附赠一份《半衰期：爱莉克斯》（Half-Life: Alyx）——这是 Valve 为 VR 专属打造的《半衰期》系列作品，且 Valve 已将该游戏移植至头显端，使其既可原生运行，也可通过串流运行。<br />以下是该头显两种配置在不同货币下的价格：<br />如果您在抽签中中签，Valve 应该会在 9 月 18 日允许您购买。若未中签，您仍可加入候补名单。一旦您获得购买 Steam Frame 的资格，将有 72 小时的时间完成下单。<br />如果您希望面部承受的压力降至最低，评测过该头显的我的同事肖恩·霍利斯特（Sean Hollister）强烈推荐 Valve 的人体工学配件套件，其中包括一条可拆卸顶部头带，能切实帮助这款重约 1 磅的头显更舒适地“悬浮”佩戴；套件还包含一个可阻挡更多光线以提升沉浸感的鼻托，以及一副“Knuckles”风格手带，让您在 VR 游戏中完全张开和合拢双手时手柄也不会掉落。<br />此外还有一个包含替换部件的配件替换套件（内含一个面部衬垫、一个头枕软垫和一个遮光件）；虽然 Frame 本身不附带 USB-C 充电器，但 Valve 正单独销售一款充电器。<br />以下是这些额外配件的价格：<br />此外，Valve 还将提供一款由其密切合作伙伴开发的第三方配件链接：售价 149 美元的 Arcturus Vision 相机。该配件可插入 Steam Frame 的鼻梁接口，为其赋予彩色透视视野（Frame 默认仅支持黑白透视）并能录制空间视频。这是一款 5K 60帧 10-bit HDR 立体相机，紧密贴合 Steam Frame 镜片的弧线，插入瞬间即可将视图切换为彩色。<br />Arcturus 还协助 Valve 开发了用于 Frame 全部头显追踪的计算机视觉系统。该公司表示，不会在您下单后立即发货，因为他们知道并非所有人都能顺利拿到确认的 Steam Frame 预购资格。“首发订单将暂扣数日，以便客户协调其 Steam Frame 的订单进度，”该公司写道。<br />尽管目前我们尚未获知具体日期、价格或照片，但 Valve 设计师乔伊·莱昂斯（Joy Lyons）和杰里米·塞兰（Jeremy Selan）向 The Verge 透露，他们将推出一款额外的模块化“发烧友套件”（enthusiast kit），该套件将替换 Steam Frame 的整个头带、电池和音频解决方案：换装后允许您在第一块电池上吸附第二块磁吸电池以实现续航翻倍，配备一套基于 Valve Index 悬浮耳麦打造的高端离耳悬浮扬声器，并附带额外的眼垫垫片，让您可以调整与镜片之间更近（或更远）的距离。<br />Valve 最初于去年底与新款 Steam 控制器及 Steam Machine 一同公布了 Steam Frame。尽管最初预计将在 2026 年初的某个时候推出该头显，但由于部分受“内存危机（RAMageddon）”影响，发售时间有所推迟。该公司最终在过去的几个月里陆续发布了这些产品：先是 5 月发布 Steam 控制器，随后 6 月发布 Steam Machine，如今则是 Steam Frame。<br />查看所有虚拟现实内容<br />每日精选要闻免费摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 01:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-alyx-standalone-arm-port-0896a05308ab740a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1965" data-content-paragraphs="10" data-published-at="2026-09-14T17:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:00</span>
-</div>
-
-### [Valve 已将《半衰期：爱莉克斯》移植至 ARM 架构，随 Steam Frame 免费附赠](https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23079447/half_life_alyx_vr_004.0.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Valve 已将《半衰期：爱莉克斯》移植至 ARM 架构，随 Steam Frame 免费附赠" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>今天，Valve 推出了自 2019 年以来的首款头显——全新的 Steam Frame——同时回避了我们关于其是否会为此推出另一款全新 VR 游戏的问题。不过，这款售价 1,059 美元设备的买家无论如何都将获得一款旗舰级 VR 游戏，而且体验极佳。每台 Steam Frame 均附赠一份 2020 年的《半衰期：爱莉克斯》（Half-Life: Alyx）。这是迄今为止最优秀的 VR 游戏之一，甚至直接可以说是一部杰出的游戏作品，而且你甚至不需要一台台式电脑——因为 Valve 已将整款游戏移植到了 ARM64 架构，使其能够在 Steam Frame 搭载的高通骁龙 Gen 3 芯片上原生运行。这绝非易事：在 2020 年，这还是一款需要配备中端显卡的 VR 就绪型 Windows 台式机或笔记本电脑才能运行的游戏，如今却能在本质上属于强化版智能手机芯片的硬件上运行。它甚至还支持粉丝制作的所有模组和额外关卡！在我启动游戏的那一刻，我的模组和存档就已经准备就绪了。与在我的台式机上运行相比，该移植版本在画质保真度上确实有所妥协，但它成功在 Steam Frame 上营造出了完整的 PC VR 游戏质感，这是 Meta Quest 原生作品从未真正做到过的，并且它没有删减任何物体或资产。通常情况下，一体机 VR 游戏会让人感觉比较空旷。</p>
-<p>Valve 表示（通过发言人 Kaci Aitchison），这是因为 Steam Frame 内置的眼动追踪摄像头解锁了注视点渲染技术——该技术会在你的眼睛实际注视的地方提供完整分辨率，而不是将计算资源浪费在你没有注视的画面区域：</p>
-<p>&gt; 尽管我们最初认为让《半衰期：爱莉克斯》在 Steam Frame 上原生运行不太可能实现，但注视点渲染与眼动追踪的结合被证明是一颗“银色子弹”，让我们得以达成这一目标。Steam Frame 的 16GB 显存也是关键所在，它让我们无需修改任何资产，也不必牺牲游玩体验。</p>
-<p>[图片：看到爱莉克斯的手有多清晰了吗？那是因为我正看着那里。我没有注意到其他任何地方分辨率较低，因为只要我一看过去，它就是清晰的！https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/hl-alyx-screenshot-sean-verge.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260826230930_1.jpg?quality=90&amp;strip=all]<br />[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260826231315_1.jpg?quality=90&amp;strip=all]</p>
-<p>该公司表示，为了实现这一目标，他们“在 Vulkan 驱动程序和 SteamVR 内部额外进行了一年的软件开发工作”，但其他开发者现在可以直接利用这些成果：</p>
-<p>&gt; 这些工作绝大部分并非专门针对《半衰期：爱莉克斯》，因此在 Steam Frame 上运行的每一款其他游戏都将从中受益。由于驱动程序的开源特性，所有这些错误修复、优化和额外功能都变得更加容易推进，使我们的团队能够快速迭代，而无需等待第三方。</p>
-<p>[媒体内容：https://www.youtube.com/shorts/o3f5YjgpmeI]</p>
-<p>不过，Steam Frame 并不一定需要游戏专门进行移植。与 Steam Deck 和 Steam Machine 一样，它可以借助 Valve 多年来一直资助的转译和仿真层来运行专为 Windows 构建的游戏，并且还可以通过名为 Lepton 的层来运行最初为基于 Android 的头显设计的应用。</p>
-<p>Valve 会利用这些工作来打造属于自己的全新 VR 游戏吗？我对此不抱太大希望。可以说，Steam Frame 目前更多是面向平面游戏而非 VR 游戏；Valve 几年前就承认不再为 VR 开发三部完整游戏，而截至 2025 年，Valve 表示其没有任何新的 VR 内容正在开发中。不过，有传言称《半衰期 3》一直处于极其活跃的开发阶段。</p>
-<p>9 月 14 日更新：Digital Foundry 带来了有关《爱莉克斯》原生移植版的更多细节，包括其基础渲染帧率为 36fps——不过通过重投影等技术，你在转动头部时会感觉更加流畅。该头显支持 72Hz 或 108Hz 的刷新率，分别对应 2 倍或 3 倍的倍增技术。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 01:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--your-questions-answered-8f57ab59bfbb6344" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="381" data-content-paragraphs="1" data-published-at="2026-09-14T17:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:00</span>
-</div>
-
-### [我评测了 Valve 的 Steam Frame，欢迎向我提问](https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered)
-<div class="original-title-sub"><span class="orig-tag">原文</span> I reviewed Valve’s Steam Frame, ask me anything</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0047.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="我评测了 Valve 的 Steam Frame，欢迎向我提问" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题下的文章将被添加到您的每日电子邮件文摘和主页动态中。<br />快把关于 Valve 头显的热门问题向我砸过来吧！<br />该作者的文章将被添加到您的每日电子邮件文摘和主页动态中。<br />查看肖恩·霍利斯特（Sean Hollister）的全部作品<br />嗨！我是肖恩·霍利斯特，大家可能在这里见过我几次。我刚刚花了三周时间对 Steam Frame 进行了 Beta 测试——这是 Valve 万众瞩目的“别管它叫 VR 头显”的全新设备，或许也让我们得以初窥未来随处畅玩游戏的模样。<br />在大家提问的等待期间，以下是我们目前收集到的一些解答：<br />我还想到可能有人会问：“Steam Frame 真的不会在脸上留下红印吗？”我现在就可以回答这个问题。在我们漫长的拍照评测期间，我几乎就没摘下过它，之后我的样子是这样的：<br />查看全部虚拟现实内容<br />精选核心要闻，免费每日文摘。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 01:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-cat-lake-8gb-16gb-review-73859f5052422eb7" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3272" data-content-paragraphs="4" data-published-at="2026-09-14T17:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-15 01:00</span>
-</div>
-
-### [戴尔XPS 13是MacBook Neo的首个真正竞争对手](https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Dell XPS 13 is the first real competitor to the MacBook Neo</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268732_Dell_XPS_13_2026_review_ADiBenedetto_0006.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="戴尔XPS 13是MacBook Neo的首个真正竞争对手" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的帖子将添加到您的每日电子邮件摘要和主页动态中。<br />即便是基础款XPS 13也是一款出色的笔记本电脑。但你仍然会想要16GB内存的版本。<br />如果您通过The Verge的链接购买商品，Vox Media可能会赚取佣金。请参阅我们的道德声明。<br />该作者的文章将添加到您的每日电子邮件摘要和主页动态中。<br />查看Antonio G. Di Benedetto的所有文章<br />戴尔上一代XPS 13原本计划是在该公司彻底终结整个XPS品牌之前的告别之作。但那是一个令人遗憾的结局，而且定价过高。今年早些时候，戴尔凭借出色（且非常昂贵）的XPS 14和16重新启用了XPS这一名称。如今，它又重新构想了XPS 13，将其打造成一款价格亲民得多的轻薄本，以抗衡MacBook Neo。<br />不妨称之为又一次强势回归。在苹果的Neo之外，2026款XPS 13拥有你在700美元全新笔记本中能找到的最出色的硬件。其核心部件——屏幕、键盘、触控板和扬声器——都表现良好或极佳。这是一款外观优雅、极其轻薄的超便携设备中的精美组合。<br />而且，与其他在8GB内存下苦苦挣扎的Windows 11笔记本不同，XPS 13即使在如此有限的内存分配下也能胜任工作。不过，尽管在2026年能看到一款没有一上市就卡死的8GB Windows笔记本确实很棒，但你依然会想要售价1000美元的16GB版本（我也一直在对其进行测试）。令人遗憾的是，XPS 13的任何配置均不配备耳机插孔。<br />我一直在测试两款XPS 13配置，均搭载相同的六核英特尔酷睿5 320“Wildcat Lake”处理器和512GB固态硬盘。它们唯一的区别在于内存：起售价799.99美元的基础款配备8GB内存，而999.99美元的版本则配备16GB。几周来我一直在频繁使用这两台机器办公，其硬件表现十分抢眼。当我拿到它们时，8GB / 512GB配置是基础款，售价为699.99美元。但到了9月初，戴尔推出了一款存储容量仅为256GB的全新699.99美元基础款，并将512GB型号的价格各自提高了100美元。遗憾的是，在我们当前面临的内存危机（RAMageddon）噩梦中，这种定价花招屡见不鲜。<br />在这一价位段，XPS 13是你所能找到的外观和质感最出色的Windows笔记本电脑。它与MacBook Neo或Air一样精致，重量为2.2磅（约1千克），厚度为0.5英寸（约12.7毫米），比Air更轻，且几乎一样薄。XPS拿在手里感觉非常细腻，放进包里几乎感觉不到重量。其屏幕边框比Neo窄得多，而且色彩和亮度同样出色——但它支持120Hz刷新率和触摸功能，而不是Neo的60Hz非触摸屏。它甚至还具备Neo所不提供的防眩光涂层。<br />对于如此小巧的笔记本来说，扬声器的音质出人意料地好，声音饱满且音量足够大。机械触控板尺寸较小，甚至比Neo的还要短，但它唯一的重大缺点是四个角无法都能物理按下点击。就连网络摄像头也给我留下了深刻印象，色彩还原度极高，在弱光或逆光环境下的表现也相当不错。至于键盘？请转告戴尔的设计师，把这种手感出色的孤岛式巧克力键盘普及到所有产品上，放弃其他XPS笔记本上的那种无缝隙网格设计吧。<br />电池续航和散热表现算不上惊艳，但也足够使用。机身底部经常会让你的大腿感到温热，其最高温度可达华氏104度（约摄氏40度），但键盘面始终保持凉爽。至于续航，在常规混合使用下（打开大量Chrome标签页、进行几次视频通话、大部分时间亮屏流媒体播放几张专辑）通常能维持7小时，或者在几乎没有会议、负载较轻的日子里可达10小时。为了更长的续航，我通常更偏好稍厚一些的笔记本，但我已经被XPS小巧轻便的机身深深吸引，以至于觉得这种表现完全可以接受——尽管Neo在电池容量更小的情况下续航还能多出几个小时。<br />XPS 13配备了两个10Gbps的USB-C 3.2 Gen 2接口，机身左右各一个，且都支持充电和视频输出。但到底为什么，这台笔记本竟然没有耳机插孔？即使你很少使用3.5毫米音频，将其作为备用方案也是极好的。<br />就纯性能而言，在Geekbench等综合基准测试中，两个版本的XPS 13都大幅落后于MacBook Neo搭载的A18 Pro，不过在我们的Premiere 4K导出测试中，16GB版本与之的差距明显缩小。而且XPS搭载的六核Wildcat Lake芯片比驰为（Chuwi）UniBook所采用的五核版本有着天壤之别，后者导出耗时超过一个小时。XPS 13多出的一个性能核心和一个GPU核心带来了显著的差异，其高速存储同样功不可没。XPS 13的SSD读取速度几乎是驰为的三倍，几乎是Neo的四倍。<br />在XPS 13的日常使用中，8GB内存的感觉其实还算过得去，并不像驰为和近期的Surface Laptop 13英寸那样糟糕。我使用它时没有遇到任何严重故障或崩溃，只要我只用它处理简单的网页端任务，大体上都能应付。但仅有8GB内存确实偶尔会在多任务处理时拖慢节奏。例如，当打开十几个或更多Chrome标签页时，我在标签页之间来回切换偶尔需要等待页面重新加载。这是Chrome为节省内存而设的正常功能，但在8GB版XPS 13上却频繁发生。而当我在二三十个Chrome标签页之间切换并在Slack上与同事发消息时——这并不是什么不寻常的工作负载——甚至连几分钟前刚用过的标签页也会被清出内存并需要重新加载。<br />这就是你在Windows系统上依然能感受到8GB内存阻碍之处，即便是在一台其他方面都极其优秀的笔记本上。16GB版XPS 13则没有这些痛点——至少在这种工作负载下没有。升级到16GB内存能为你提供足够的缓冲空间，让Windows不再频繁尝试重新分配内存，你也能真正去偶尔处理一些高负载任务，比如打开并调整一张出乎意料的大尺寸图片文件。与我最近用过的其他8GB笔记本相比，XPS的高速SSD似乎有所帮助，但你知道什么更有帮助吗？更多的内存。令人遗憾的是，在如今售价999.99美元的16GB / 512GB XPS 13配置中，你需要为此多掏300美元——而在短短几周前，这笔差价还只有200美元。<br />虽然MacBook Neo在性能上依然是明显的胜者，但XPS 13是它迄今为止最强劲的竞争对手。戴尔将其定位为一款面向学生的平价笔记本，正如Neo一样，而该公司大体上做到了——至少在美国市场是这样，那里的XPS 13似乎比其他地区便宜得多（国际朋友们抱歉了）。8GB内存机型的售价甚至与Neo完全一致，256GB存储版本为699.99美元，512GB版本为799.99美元。</p>
-<p>在本篇评测发布之时，戴尔仍为高中生和大学生提供 100 美元的折扣，与苹果针对 Neo 的教育优惠持平。但这项促销是暂时的，而苹果自身 100 美元的学生折扣则没有固定的截止日期。你也可以选择像我刚评测过的惠普 OmniBook 3 这样的笔记本电脑来省下更多钱，只需 500 美元左右就能获得更大内存、更多接口、更长电池续航、略强的性能（图形性能除外）以及大得多的屏幕——不过它更为笨重，质感和外观完全无法与 XPS 13 相提并论。</p>
-<p>MacBook Neo 在这档 700 美元左右的笔记本电脑市场中激起了新的竞争，与此同时“内存危机”（RAMageddon）仍在肆虐，让一切都变得更加昂贵（包括 Neo 本身）。我们即将看到更多笔记本电脑厂商推出他们针对 Neo 的竞品，希望这意味着会有更多物美价廉的优秀选择——无论是针对学生，还是几乎所有有需求的人。就目前而言，XPS 13 是 MacBook Neo 竞争对手中的领跑者，它证明了 8GB 内存的 Windows 笔记本其实也可以正常工作。但如果你的预算允许，还是应该选择 16GB 版本。</p>
-<p>摄影：Antonio G. Di Benedetto / The Verge<br />查看所有笔记本电脑评测<br />免费获取每日重要新闻速递。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-15 01:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 ::::

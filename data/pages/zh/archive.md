@@ -26,14 +26,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **35** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **36** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-15 03:31 (UTC+8)
+- **最新归档时间**：2026-09-15 21:42 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-15 21:42 (UTC+8)" title="全球要闻情报简报 · 21:42" org="ARCHIVE"}
+**速报纪要：** 本监测周期内，人工智能技术的应用场景呈现向家庭安全硬件与社会公益项目延伸的趋势。SimpliSafe正式推出支持AI分析的主动式可视门铃，而比尔·盖茨方面则计划将捐赠资金投入用于缩小社会不平等差距的AI项目。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260915/voditeli-2117849756.html) <span class="news-meta-time">🕒 2026-09-15 21:38</span>
+- [The Verge (前沿数码科技)] [这款可视门铃摄像头可让真人安保人员帮你守护前门](https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs) <span class="news-meta-time">🕒 2026-09-15 21:36</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Latest-Energy-News/World-News/Chinas-Yuan-Crude-Oil-Futures-Jump-to-Record-High.html) <span class="news-meta-time">🕒 2026-09-15 21:30</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/15/patients-health-doctors-doubt-on-nhs-streatment-endometriosis) <span class="news-meta-time">🕒 2026-09-15 21:22</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-hyperbird-imaging-platform-grape-diseases.html) <span class="news-meta-time">🕒 2026-09-15 21:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260915/zaharova-2117849403.html) <span class="news-meta-time">🕒 2026-09-15 21:36</span>
+:::
 :::timeline-item{start="2026-09-15 03:31 (UTC+8)" title="全球要闻情报简报 · 03:31" org="ARCHIVE"}
 **速报纪要：** 本小时重点资讯涵盖中东地缘安全与前沿材料科学领域：也门胡塞武装发起全面进攻后，沙特王储穆罕默德·本·萨勒曼向美国寻求增派军事援助；学术界在艺术史料分析与半导体共价有机框架（COF）材料合成方面取得最新研究进展。
 
