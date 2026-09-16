@@ -1,5 +1,1589 @@
 [
   {
+    "timestamp": 1789518618550,
+    "timeDisplay": "2026-09-16 08:30 (UTC+8)",
+    "date": "2026-09-16",
+    "runId": "feed-20260916T002818099Z-324r0q",
+    "generatedAt": "2026-09-16T00:30:18.550Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 08:28",
+      "lead": "本轮抓取于 2026-09-16 08:28 (UTC+8) 完成，共获得 37 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】英伟达黄仁勋表示：我们不需要人工智能监管——把安全问题交给我们：周二，英伟达创始人兼首席执行官黄仁勋在Salesforce主办的Dreamforce科技大会上发表演讲，十分明确地阐述了他对人工智能（AI）所带来危险的立场。在他看来，AI绝非像至少一位OpenAI安全研究人员所形容的那样，是某种新型的“外星心智”。他表示，它只不过是由人类构建的硬件和软件。这意味着在他眼中，它完全可以被人类以及现有法律所约束。",
+        "【undefined】特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者：周二，一名民主党中坚力量在特拉华州轻松赢得初选，其中包括击退了一名带有反特朗普名字的对手。",
+        "【undefined】各项民调显示人工智能与数据中心极不受欢迎：该主题的相关文章将被添加到您的每日电子邮件文摘和主页信息流中。",
+        "【undefined】NASA艾姆斯研究中心月度之星：2026年9月：NASA艾姆斯科学理事会（NASA Ames Science Directorate）表彰史蒂夫·奥姆斯比（Steve Ormsby）、阿芙洛狄忒·科斯塔基斯（Aphrodite Kostakis）、亚历杭德罗·博拉夫（Alejandro Borlaff）、萨拉·尼克森（Sarah Nickerson）、玛蒂娜·考西（Martina Caussi）、野村惠子（Keiko Nomura）以及斯蒂芬·布罗卡多（Stephen Broccar",
+        "【undefined】节省航空燃油：首页 | 基准测试 | 分类 | Atom 订阅源 发布于 2026 年 9 月 16 日星期三，分类：求解器（Solvers）",
+        "【undefined】天主教家庭因性别议题失去监护权 爱国者队跑卫亨德森谴责政府越权：新英格兰爱国者队跑卫特雷维昂·亨德森（TreVeyon Henderson）谴责了马萨诸塞州当局，此前一户天主教家庭因拒绝支持其十几岁女儿的性别转变而失去了对她的法定监护权。他援引圣经经文辩称，政府机构正在侵犯基本父母权利。",
+        "【undefined】中央气象台：重庆湖北等地局地有暴雨：中新网9月16日电 据中央气象台网站消息，昨日，四川、重庆等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注对农业生产、交通运输、工程建设等的影响；海南、广西等地前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。",
+        "【undefined】肯尼迪中心董事会决定立即关闭该中心 特朗普发声：中新网9月16日电 据美国全国公共广播电台(NPR)报道，美国肯尼迪表演艺术中心董事会当地时间15日投票决定立即关闭该中心进行翻修。投票前不久，一名联邦法官发布命令，驳回肯尼迪中心董事会将美国总统特朗普的名字再次添加到中心大楼外墙上的提议。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-16",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】英伟达黄仁勋表示：我们不需要人工智能监管——把安全问题交给我们：周二，英伟达创始人兼首席执行官黄仁勋在Salesforce主办的Dreamforce科技大会上发表演讲，十分明确地阐述了他对人工智能（AI）所带来危险的立场。在他看来，AI绝非像至少一位OpenAI安全研究人员所形容的那样，是某种新型的“外星心智”。他表示，它只不过是由人类构建的硬件和软件。这意味着在他眼中，它完全可以被人类以及现有法律所约束。；【undefined】各项民调显示人工智能与数据中心极不受欢迎：该主题的相关文章将被添加到您的每日电子邮件文摘和主页信息流中。；【undefined】节省航空燃油：首页 | 基准测试 | 分类 | Atom 订阅源 发布于 2026 年 9 月 16 日星期三，分类：求解器（Solvers）"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者：周二，一名民主党中坚力量在特拉华州轻松赢得初选，其中包括击退了一名带有反特朗普名字的对手。；【undefined】中央气象台：重庆湖北等地局地有暴雨：中新网9月16日电 据中央气象台网站消息，昨日，四川、重庆等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注对农业生产、交通运输、工程建设等的影响；海南、广西等地前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。；【undefined】肯尼迪中心董事会决定立即关闭该中心 特朗普发声：中新网9月16日电 据美国全国公共广播电台(NPR)报道，美国肯尼迪表演艺术中心董事会当地时间15日投票决定立即关闭该中心进行翻修。投票前不久，一名联邦法官发布命令，驳回肯尼迪中心董事会将美国总统特朗普的名字再次添加到中心大楼外墙上的提议。"
+        },
+        {
+          "name": "🔬 深空与基础科学",
+          "analysis": "【undefined】NASA艾姆斯研究中心月度之星：2026年9月：NASA艾姆斯科学理事会（NASA Ames Science Directorate）表彰史蒂夫·奥姆斯比（Steve Ormsby）、阿芙洛狄忒·科斯塔基斯（Aphrodite Kostakis）、亚历杭德罗·博拉夫（Alejandro Borlaff）、萨拉·尼克森（Sarah Nickerson）、玛蒂娜·考西（Martina Caussi）、野村惠子（Keiko Nomura）以及斯蒂芬·布罗卡多（Stephen Broccar"
+        },
+        {
+          "name": "🛡️ 军事防务安全",
+          "analysis": "【undefined】天主教家庭因性别议题失去监护权 爱国者队跑卫亨德森谴责政府越权：新英格兰爱国者队跑卫特雷维昂·亨德森（TreVeyon Henderson）谴责了马萨诸塞州当局，此前一户天主教家庭因拒绝支持其十几岁女儿的性别转变而失去了对她的法定监护权。他援引圣经经文辩称，政府机构正在侵犯基本父母权利。"
+        },
+        {
+          "name": "⚡ 战略能源与气候",
+          "analysis": "【undefined】霍尔木兹风险导致不同原油等级间产生逾40美元价差：早在6月下旬，在美伊两国同意在波斯湾停火60天之后，油价曾一度暴跌。两个月后，布伦特原油价格突破每桶107美元，WTI原油价格也逼近103美元，被困波斯湾的原油与可以在不受无人机或导弹袭击威胁下运输的原油之间拉开了一条巨大鸿沟。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】编程小技巧：在日常工作中，我认为工程生产力中有相当惊人的一部分来自零碎的细小知识：知晓某种语言特性的存在；明白某个无法解释的 TCP 延迟可能与 TCP_NO_DELAY 设置以及内格尔算法（Nagle's algorithm）有关；掌握正确的 Git 命令组合以摆脱困境；或是知晓用 sed 重写文件的技巧。；【undefined】Swift 6.4 正式发布：Swift 6.4 现已正式发布。Swift 致力于在整个技术栈中成为优秀的选择，涵盖从应用、服务器到系统级代码、嵌入式设备以及浏览器。本次发布深化了这些支持，并使日常代码的编写更加轻松。主要亮点包括：；【undefined】从实习生到软件架构师：我思，故我在。// Cogito, ergo sum"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 92,
+      "completedTasks": 92,
+      "succeeded": 77,
+      "degraded": 15,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 92,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 120408,
+      "byRole": {
+        "translator": {
+          "attempts": 58,
+          "succeeded": 45,
+          "degraded": 13
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 92,
+          "succeeded": 77,
+          "degraded": 15
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-5-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-18-translator-0",
+      "article-21-translator-0",
+      "article-38-translator-0",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:00.495Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.892Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:00.505Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.500Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.892Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.145Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.981Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.453Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:03.195Z",
+        "lastSuccessAt": "2026-09-16T00:28:04.572Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:03.131Z",
+        "lastSuccessAt": "2026-09-16T00:28:04.337Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:04.884Z",
+        "lastSuccessAt": "2026-09-16T00:28:05.319Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.146Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.513Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.145Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.449Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.099Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.413Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.513Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.041Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.500Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.981Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.312Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.099Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.402Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.870Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:04.572Z",
+        "lastSuccessAt": "2026-09-16T00:28:05.595Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:04.173Z",
+        "lastSuccessAt": "2026-09-16T00:28:05.152Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:04.337Z",
+        "lastSuccessAt": "2026-09-16T00:28:04.876Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.311Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.725Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.870Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.027Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.726Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.053Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.099Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.146Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:27:59.642Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.099Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.676Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.814Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.583Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.893Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.409Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.731Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.669Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.830Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.864Z",
+        "lastSuccessAt": "2026-09-16T00:28:03.131Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.234Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.409Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:04.828Z",
+        "lastSuccessAt": "2026-09-16T00:28:06.495Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.725Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.905Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.905Z",
+        "lastSuccessAt": "2026-09-16T00:28:03.123Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+        "checkedAt": "2026-09-16T00:28:02.884Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:03.123Z",
+        "lastSuccessAt": "2026-09-16T00:28:03.489Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:04.876Z",
+        "lastSuccessAt": "2026-09-16T00:28:05.442Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.027Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.234Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.325Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.884Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.453Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.669Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.950Z",
+        "lastSuccessAt": "2026-09-16T00:28:03.459Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-16T00:28:02.830Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.814Z",
+        "lastSuccessAt": "2026-09-16T00:28:03.210Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:27:59.641Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.191Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-16T00:28:02.893Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:27:59.641Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.726Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:03.210Z",
+        "lastSuccessAt": "2026-09-16T00:28:05.103Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.449Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.676Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:01.191Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.312Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.731Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.864Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.413Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.583Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:03.459Z",
+        "lastSuccessAt": "2026-09-16T00:28:04.173Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:03.489Z",
+        "lastSuccessAt": "2026-09-16T00:28:04.828Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.053Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.325Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:28:02.041Z",
+        "lastSuccessAt": "2026-09-16T00:28:02.311Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:27:59.630Z",
+        "lastSuccessAt": "2026-09-16T00:28:00.505Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:27:59.639Z",
+        "lastSuccessAt": "2026-09-16T00:28:00.495Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T00:27:59.640Z",
+        "lastSuccessAt": "2026-09-16T00:28:01.402Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-bvinenie-2117919388-html-6007cc3e4bf63cd4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Фигурант дела о хищении на поставках на СВО попросил изменить обвинение",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T00:21:53.000Z",
+        "pubTime": "2026-09-16 08:21",
+        "url": "https://ria.ru/20260916/obvinenie-2117919388.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/02/1b/2001960569_0:154:3095:1895_650x0_80_0_0_13cac6b23e46f8daa64804b4c74c615e.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 08:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/obvinenie-2117919388.html",
+            "publishedAt": "2026-09-16T00:21:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-vidias-jensen-huang-says-049ed956b8239821",
+        "title": "英伟达黄仁勋表示：我们不需要人工智能监管——把安全问题交给我们",
+        "originalTitle": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T00:20:39.000Z",
+        "pubTime": "2026-09-16 08:20",
+        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+        "imageUrl": null,
+        "fullContent": "Nvidia founder and CEO Jensen Huang made his position on the dangers AI poses very clear while speaking at Salesforce’s tech conference Dreamforce on Tuesday. To him, AI isn’t some kind of new form of “alien mind,” as at least one OpenAI safety researcher has described it. It’s just hardware and software, he says, built by humans. That means, in his view, it can be controlled by humans and existing laws.\n\n“Safety is an engineering problem, not a legal one,” he said. “We’re developing software after all. We’re developing computing systems after all. It’s a complicated computing system, but it’s ultimately a computing system.”\n\nTherefore, there’s no need for new laws or regulations to govern it, he argues. In fact, Huang sees little need for new laws at all. The free market, he argues, will be enough to pressure companies not to release unsafe products.\n\n“If we’re not confident about the safety of the products, like all companies, like you and I, any any all the companies here, if you build a product or a service, and you’re not confident in its functionality, capability, or safety, then don’t release it. And so that’s a very obvious thing to do,” he said.\n\nHe continued: “You pace yourself until you are confident you’re releasing something that the market would appreciate. The market forces are already there. We don’t need any new laws. We don’t need new regulations. We just need companies to decide that when [to] run as fast as they can. I think innovation, speed, and safe products … — it’s a false choice. You could definitely have both at the same time. So run as fast as you can. But if you feel at any given point in time the company’s out of control, or or the product’s not going to be safe, you know, take a pause and make sure you get it right.”\n\nIn some ways, this is a comforting thought. If anyone in the world knows AI, it is Nvidia’s founder, who’s been building the hardware brains of AI since well before ChatGPT existed and now runs a company that also makes open source models, agents, harnesses, and sandboxes.\n\nThen again, if we’re being cynical, his point of view is also unsurprising for someone who’s had his bread so well buttered by the AI boom. Why would he want regulation to come along and add in a layer of hinderance that could slow down Nvidia’s quest to sell ever more AI systems and software? As he also said in the interview: “I’m more ambitious than ever. As a result of our ambition, and with the product productivity boost that we get from AI, the sky’s the limit for us. The sky’s the limit for our company. The sky’s the limit for every industry, for every single country.”\n\nUnfortunately, even companies with the best intentions ship faulty products with unintended consequences, even software. Remember the 2024 CrowdStrike bluescreen-of-death fiasco that grounded thousands of flights and caused other havoc for businesses? Then there are companies accused of deliberately lacting with less-than-good intentions. Meta just paid $18 billion to settle a lawsuit over social media harms to children.\n\nAnd AI has already caused harm, too, whatever the intentions orsafety testing involved, from an OpenAI model hacking into Hugging Face to lawsuits suing the AI lab over the suicides of young people who engaged in long conversations with its chatbot.\n\nThe “leave them alone” strategy, which would let these companies release products as they see fit, could be an unwise approach to AI safety as far as society is concerned. Though Huang is right that it’s possible existing product liability laws could cover AI — if AI doesn’t somehow kill us all before enough cases get through the courts to test that theory.\n\nHe didn’t discuss the other route, which seems close to taking shape: industry self-regulation. Huang’s approach has been more to champion open-weight models and companies’ use of them as a competitive counterweight to proprietary AI labs.\n\nBut right now, the industry has a short window to institute self-regulation and to encourage AI labs worldwide, even those inChina, to see the wisdom in participating. As Microsoft CEO Satya Nadella said at the All-In Summit on Monday, “China should also deeply care about the same safety concerns if the United States cares about them, right? Why should it be different for them? It’s not like they won’t have the same hacking problem. It’s not as if they don’t want to make sure that their citizens are benefiting from AI, just like we would want our citizens to benefit from AI.”\n\nFor now, though, if Huang is a no on any new AI regulation, he may be influential enough to get his way. He also demonstrated this week that he, quite literally, has the ear of President Trump.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\n‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "fullTranslation": "周二，英伟达创始人兼首席执行官黄仁勋在Salesforce主办的Dreamforce科技大会上发表演讲，十分明确地阐述了他对人工智能（AI）所带来危险的立场。在他看来，AI绝非像至少一位OpenAI安全研究人员所形容的那样，是某种新型的“外星心智”。他表示，它只不过是由人类构建的硬件和软件。这意味着在他眼中，它完全可以被人类以及现有法律所约束。\n\n“安全是一个工程问题，而不是法律问题，”他表示。“我们毕竟是在开发软件。我们毕竟是在开发计算系统。它确实是一个复杂的计算系统，但归根结底依然是一个计算系统。”\n\n因此，他认为根本不需要新的法律或监管法规来对其加以管辖。事实上，黄仁勋认为几乎完全没有制定新法的必要。他辩称，自由市场本身就足以施加压力，促使各家公司不敢发布不安全的产品。\n\n“如果我们对产品的安全性缺乏信心——就像所有公司一样，像你我一样，像这里的任何一家以及所有公司一样——如果你打造了一款产品或服务，却对它的功能、性能或安全性没有把握，那就不要发布它。这是一个显而易见的道理，”他说。\n\n他接着补充道：“你要把握好自己的节奏，直到确信自己发布的产品能受到市场的认可。市场的力量早已存在。我们不需要任何新法律。我们不需要新监管法规。我们只需要各家公司自行决定何时全速前进。我认为，创新、速度与安全产品……这并不是非此即彼的虚假选择。你完全可以兼顾两者。因此，尽管以最快速度奔跑吧。但如果在任何特定时刻，你觉得公司失控了，或者觉得产品可能不安全，那就停下来，确保把它做好。”\n\n从某种程度来说，这是一个令人宽慰的观点。如果说世界上有谁最懂AI，那非英伟达创始人莫属——远在ChatGPT问世之前，他就已经在打造AI的硬件“大脑”，而如今他所掌舵的公司不仅如此，还涉足开源模型、智能体、测评工具套件以及沙箱环境。\n\n不过从挑剔的角度来看，对于一个从这轮AI热潮中大获其利的人而言，持有这种观点也并不令人意外。他又何必希望监管插手并增加一层阻碍，进而拖累英伟达销售更多AI系统与软件的野心呢？正如他在采访中所说：“我比以往任何时候都更有雄心。得益于我们的雄心壮志，以及我们从AI中获得的产品生产力飞跃，对我们而言一切皆有可能。对于我们公司而言一切皆有可能。对于每个行业、每个国家而言，也是一切皆有可能。”\n\n遗憾的是，即使是出于最良好初衷的公司，发布的产品也可能带有缺陷并引发意料之外的后果，软件也不例外。还记得2024年CrowdStrike蓝屏死机的那场灾难吗？当时数千架次航班被迫停飞，并给各行各业造成了巨大混乱。更有甚者，一些公司还被指控怀有不良意图故意为之。Meta刚刚支付了180亿美元，以就社交媒体危害儿童的诉讼达成和解。\n\n此外，无论其初衷如何或进行了怎样的安全测试，AI已经引发了实际危害：从OpenAI的模型侵入Hugging Face，到因年轻人与聊天机器人长期交谈后自杀而针对该AI实验室提起的诉讼，不一而足。\n\n就整个社会而言，采取这种“放任自流”、任由各公司自行决定何时发布产品的策略，在AI安全方面可能并非明智之举。尽管黄仁勋说的有一定道理，即现有的产品责任法有可能覆盖AI——前提是AI没有在足够多的案例诉至法院以检验这一理论之前，以某种方式毁灭了我们所有人。\n\n他并未讨论另一条似乎正在逐渐成形的路径：行业自律。黄仁勋的做法更多是力挺开放权重模型，倡导各企业利用这些模型作为制衡专有AI实验室的竞争杠杆。\n\n然而眼下，整个行业建立自律机制的窗口期十分短暂，若要借此鼓励全球各地的AI实验室（包括中国的实验室）认识到参与其中的明智之处，时间同样所剩无几。正如微软首席执行官萨蒂亚·纳德拉周一在All-In峰会上所说：“如果美国关心这些安全问题，中国理应同样深切关注，不是吗？对他们而言又何尝不同？他们同样难逃此类黑客攻击问题。他们也同样希望确保本国公民能够从AI中受益，正如我们希望我们的公民受益一样。”\n\n不过目前而言，如果黄仁勋对任何新的AI监管均持否定态度，以他的影响力或许足以如愿以偿。他本周也展现出自己确实能够直接向特朗普总统进言。\n\n（当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。但这不会影响我们的编辑独立性。）\n（展台预订最后截止日期为9月18日。切勿错过在Disrupt博览厅获得高价值销售线索、接触投资人以及提升品牌知名度的绝佳机会。）\n（特斯拉表示将于10月1日正式发布第二代Roadster）\n（Revolut证实因伪造政府请求遭遇客户数据泄露）\n（由于Astra需求火爆，OpenAI暂停Pro订阅服务）\n（Bending Spoons将以13.6亿美元收购协作工具开发商Miro，较其2022年估值折让90%）\n（身份验证巨头IDScan确认发生数据泄露，超过1.5亿张驾照遭窃）\n（Automattic董事会迫使首席执行官马特·穆伦维格休假）\n（“拿我们的生命作赌注”：Anthropic研究员辞职，警告防范自我改进型AI）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "英伟达创始人兼首席执行官黄仁勋在周二举办的Salesforce Dreamforce科技峰会上发表演讲，阐述其对AI安全与监管的立场。",
+          "黄仁勋认为AI不是某种新形式的“外星人思维”，本质上是人类构建的硬件和软件，可以通过人类和现有法律进行控制。",
+          "来源叙事重点：报道黄仁勋在Dreamforce大会上反对AI立法监管、主张通过工程手段与自由市场解决安全问题的观点；同时运用Meta诉讼和CrowdStrike故障等反例，质疑英伟达背后商业利益驱动下的“放任主义”对公众社会带来的系统性风险。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T00:20:39.000Z",
+            "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+          }
+        ]
+      },
+      {
+        "id": "story-ning-out-of-buffers-html-0cc3a3616582d7b1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T00:00:00.000Z",
+        "pubTime": "2026-09-16 08:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html",
+        "imageUrl": null,
+        "fullContent": "The war in Iran that had to be over and won by the United States in about six weeks is now in its seventh month and the oil markets are starting to crack. Gone are most of the cushions the market had in the early weeks and months of the Middle East conflict. The oversupply from early this year has disappeared as oil on water was drawn down quickly when the Strait of Hormuz was closed to tanker traffic in March. Record stock releases led by the International Energy Agency IEA depleted strategic inventories in developed economies, including in the United States, where the Strategic Petroleum Reserve SPR now holds the lowest level of crude oil since the early 1980s. China, which strategically slashed its crude oil imports by about 4-5 million barrels per day bpd in May and June, has started to gradually ramp up purchases, removing a significant demand-side balancing mechanism that had prevented oil prices from spiking to record highs in the spring. With few buffers left to absorb the six-month-long disruption of oil flows at the Strait of Hormuz, the last thing the market needed was an escalation that put a key non-Hormuz flow valve at risk. New Supply Shock But here we are the vital East-West oil pipeline in Saudi Arabia, which helped the Kingdom bypass the Strait of Hormuz and export most of its crude oil from the Yanbu port on the Red Sea, is now out of service possibly for weeks following drone attacks at the end of last week. Thanks to the East-West pipeline, for half a year Saudi Arabia has managed to re-route most of its crude loadings from the western ports in the Persian Gulf to the Red Sea port of Yanbu. However, the closure of the pipeline has now introduced a major risk to about 4 million barrels per day bpd of Saudi crude oil shipments from Yanbu. Saudi Arabia may be able to sustain exports for days by drawing from Yanbu's stocks, but a longer disruption to the pipeline operations could jeopardize the Red Sea flows, which are already under intense scrutiny by the Iran-aligned Houthis in Yemen, who are targeting Saudi shipments and even hit some tankers in July. While Saudi Arabia's customers in Asia are scrambling for updates, the oil market is pricing in another disruption to the Middle East's oil flows at a time when the buffers are all but gone, and the fuel markets and prices are flashing severe tightness across continents. Flat Cushions Chevron CEO Mike Wirth said on Friday that the market buffers have now been \"played out\" and oil prices could rise further over the coming months. Wirth's comments at a University of Texas at Austin energy conference came just as the U.S. average diesel price hit $6 per gallon for the first time ever, and just as Saudi Arabia's key onshore pipeline was under drone attacks. \"It's harder to envision a scenario where prices soften and quickly,\" Wirth said, as carried by Reuters. \"I think the risks remain to the upside over the next few months.\" In the coming months, the markets will have to face the re-escalation in the Middle East with depleted buffers amid rapidly drawing inventories. Global observed oil inventories plunged by a further 95 million barrels in August, bringing cumulative draws since February to 507 million barrels, or 2.8 million bpd on average, the IEA said last week in its monthly report for September. Additionally, oil on water volumes declined by 65 million barrels as tanker traffic out of the Middle East came under renewed attacks, the IEA said. Oil prices are now at their highest level since May and could have more room to rise as hopes for a swift resolution to the conflict have been continuously dashed in the past six months. Even before the attack on the East-West pipeline, Saudi oil exports from the Red Sea had dropped to below 2 million bpd due to the Houthi threats and the escalation of the simmering Saudi-Houthi conflict, Helima Croft, Head of Global Commodity Strategy and MENA Research at RBC Capital Markets, said last week. About 9 million barrels per day of Middle Eastern supply currently sits effectively offline, Croft noted. The market has, to some extent, worked out redirections and replacements for the oil flows, with exports through the Strait of Hormuz estimated to have recovered to more than half of pre-war levels, thanks to dark transits and U.S. military-assisted escorts. However, the longer the disruptions in the Middle East last, the thinner the buffers will get, setting the stage for another price spike if the conflict escalates. Demand destruction remains the only coping mechanism for the oil market that has seen fundamental changes in oil flows and spiking war-risk insurance costs and tanker rates. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "国际能源署（IEA）9月月度报告显示，8月全球观测到的石油库存减少9500万桶，自2月以来的累计消耗达5.07亿桶（平均每日减少280万桶）。",
+          "受中东油轮交通再次遇袭影响，在途原油库存（oil on water）减少了6500万桶。",
+          "来源叙事重点：聚焦中东冲突延宕与沙特东西向输油管道遇袭对全球石油供应链的次生冲击，强调全球战略缓冲库存见底、主要绕行路线受阻所导致的供需失衡与油价上行风险。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html"
+          }
+        ]
+      },
+      {
+        "id": "story--workplace-unpaid-carers-03e1a77c5a5bc251",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "About 1,500 Britons a day quitting their jobs to become unpaid carers",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:01:03.000Z",
+        "pubTime": "2026-09-16 07:01",
+        "url": "https://www.theguardian.com/society/2026/sep/16/britons-leaving-workplace-unpaid-carers",
+        "imageUrl": "https://i.guim.co.uk/img/media/a064c3268f61d04512535cfd70491a4ae383820b/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=6c399d567f9dd8ac34fe56a043a257d9",
+        "fullContent": "More than a million people have left work to look after loved ones in the past two years, Carers UK says\n\nAbout 1,500 Britons a day are quitting their jobs to become unpaid carers, as they try to balance their vulnerable relatives’ growing care needs with declining access to state-funded social care services.\n\nResearch estimates that more than a million people have left the workplace to look after ageing, ill and disabled loved ones in the past two years, highlighting the social challenges caused by UK’s rapidly changing demographic profile.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Carers UK 表示，过去两年中有超过100万人离开工作岗位以照顾亲人。",
+          "每天约有1,500名英国人辞去工作成为无偿照护者。",
+          "来源叙事重点：强调公共社会照护资源匮乏与人口老龄化背景下，大量劳动力被迫退出职场承担家庭无偿照护重担的严峻现状"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:01:03.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/16/britons-leaving-workplace-unpaid-carers"
+          }
+        ]
+      },
+      {
+        "id": "story-greyhound-dogs-fine-html-970dea0db6506bcd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Greyhound racing just turned 100, and says its dogs are fine. But are they?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T00:00:01.000Z",
+        "pubTime": "2026-09-16 08:00",
+        "url": "https://phys.org/news/2026-09-greyhound-dogs-fine.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-adult-black-greyhou.jpg",
+        "fullContent": "This year, greyhound racing in Britain turns 100 years old. The first race took place on July 24, 1926, in Manchester, where six dogs chased a mechanical hare around a track.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 08:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-greyhound-dogs-fine.html",
+            "publishedAt": "2026-09-16T00:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-o-trump-delaware-primary-077a8f6c0007b5e6",
+        "title": "特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者",
+        "originalTitle": "Dem senator defeats challenger named 'No-Trump' in Delaware primary",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T00:19:06.000Z",
+        "pubTime": "2026-09-16 08:19",
+        "url": "https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/american-lawmakers-denmark-greenland-january-2026.jpg?ve=1&tl=1",
+        "fullContent": "A Democratic stalwart cruised to a primary victory in Delaware on Tuesday, including fending off an opponent with an anti-Trump name.\n\nSen. Chris Coons, D-Del., easily held on against a small field of primary challengers and clinched the Democratic nomination for Senate in a race for a third term that he’s expected to win in November, and he did it while besting an opponent with an unusual name: E. No-Trump Hansen.\n\nHansen, formerly known as Eric Hansen, a former business executive, ran on a platform of curbing presidential power. His solution to President Donald Trump’s \"worst impulses\" was to pass legislation that would limit presidential power to \"restore real checks and balances, and root out corruption and self-dealing.\"\n\nRAUCOUS PRIMARY SEASON REACHES FINAL ACT IN DEEP-BLUE STRONGHOLD, KICKSTARTING SPRINT TO NOVEMBER\n\n\"The name E. (Eric) No-Trump Hansen isn't a gimmick — it's his complete commitment to positive change,\" his campaign website said.\n\nHansen told local outlet WHYY that he changed his name to reflect his opposition to Trump.\n\n\"Trump has said he’ll go after his critics by any means available,\" Hansen said. \"He will go after me, but I’m willing to bear that risk anyway — because the alternative is letting things get worse for Delawareans.\"\n\nMCCONNELL RETURNS AFTER MONTHS-LONG ABSENCE FOR CRUCIAL VOTE\n\nA statement of candidacy filed with the Federal Election Commission (FEC) showed that Hansen officially began campaigning under his new moniker in July. Previously, Hansen ran as a Republican in 2024 and scored the GOP nomination.\n\nHe ultimately lost to Sen. Lisa Blunt-Rochester, D-Del.\n\nMeanwhile, Coons’ victory over Hansen, Jeff Appelhans and Mary Louve tees up a November challenge against either Mike Katz or John Shulli.\n\nREPUBLICAN CAVALRY ARRIVES FOR KEN PAXTON AS BIG-BUCKS TEXAS OFFENSIVE OPENS CASH FLOODGATES\n\nAnd Coons, the top-ranking Democrat on the Senate Defense Appropriations Subcommittee, has history on his side. The lawmaker first entered Congress to replace then-Sen. Joe Biden, who was tapped by former President Barack Obama to be his running mate.\n\nHe won his first full term in 2014 and has maintained his grip on the position ever since. The First State hasn’t sent a Republican to the upper chamber since 1966, when former Sen. J. Caleb Boggs lost re-election.\n\nBoggs was ousted by a 29-year-old Biden, cementing Delaware as a deep-blue stronghold for decades to come.",
+        "fullTranslation": "周二，一名民主党中坚力量在特拉华州轻松赢得初选，其中包括击退了一名带有反特朗普名字的对手。\n\n特拉华州民主党籍参议员克里斯·库恩斯（Chris Coons）轻松抵挡住了少数几位初选挑战者的攻势，锁定了参议院候选人的民主党提名，他在定于11月举行的大选中争取第三个任期并有望获胜。在此过程中，他击败了一名名字不同寻常的对手：E·不要特朗普·汉森（E. No-Trump Hansen）。\n\n汉森原名埃里克·汉森（Eric Hansen），曾是一名企业高管，他的竞选纲领以限制总统权力为核心。针对唐纳德·特朗普总统“最恶劣的冲动”，他提出的解决方案是通过立法来限制总统权力，以“恢复真正的制衡机制，并根除腐败与自私自利”。\n\n吵闹的初选季在深蓝重镇迎来终章，正式拉开通往11月决选的冲刺序幕\n\n他的竞选网站上写道：“‘E·（埃里克）·不要特朗普·汉森’这个名字绝非噱头——这是他对积极变革的全心承诺。”\n\n汉森在接受当地媒体WHYY采访时表示，他改名是为了表达对特朗普的反对。\n\n汉森说：“特朗普曾表示，他会动用一切手段打击他的批评者。他会盯上我，但我无论如何都愿意承担这一风险——因为另一种选择就是任由特拉华州人民的境况继续恶化。”\n\n麦康奈尔在缺席数月后重返参议院参加关键表决\n\n向联邦选举委员会（FEC）提交的候选人声明显示，汉森自7月起正式以新名字展开竞选活动。此前，汉森曾于2024年作为共和党人参选并赢得共和党提名。\n\n他最终败给了特拉华州民主党籍参议员丽莎·布朗特-罗切斯特（Lisa Blunt-Rochester）。\n\n与此同时，库恩斯击败汉森、杰夫·阿佩尔汉斯（Jeff Appelhans）和玛丽·卢夫（Mary Louve）后，将在11月迎战迈克·卡茨（Mike Katz）或约翰·舒利（John Shulli）中的一人。\n\n随着斥巨资的得克萨斯攻势打开资金阀门，共和党援军赶来支援肯·帕克斯顿\n\n作为参议院国防拨款小组委员会的民主党领头人，历史站在了库恩斯这一边。这位议员最初进入国会是为了接替时任参议员乔·拜登，后者当时被前总统巴拉克·奥巴马选为其竞选搭档。\n\n他在2014年赢得了首个完整任期，自那以后一直牢牢占据该职位。自1966年前参议员J·卡莱布·博格斯（J. Caleb Boggs）连任失败以来，这个“第一州”就再也没有向参议院输送过共和党人。\n\n当年，博格斯被年仅29岁的拜登赶下了台，从而奠定了特拉华州在未来数十年作为深蓝重镇的地位。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "民主党参议员克里斯·库恩斯（Chris Coons）在特拉华州初选中获胜，赢得该州参议员民主党提名。",
+          "克里斯·库恩斯的初选挑战者之一合法改名为 E. No-Trump Hansen（原名 Eric Hansen）。",
+          "来源叙事重点：重点聚焦资深民主党参议员克里斯·库恩斯（Chris Coons）轻松赢得特拉华州初选，突出其击败了一位合法改名为“No-Trump”的奇特挑战者，并强调特拉华州作为“深蓝州”对民主党连任的天然优势。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T00:19:06.000Z",
+            "url": "https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary"
+          }
+        ]
+      },
+      {
+        "id": "story-t-midterm-poll-september-30fb04a6f530a157",
+        "title": "各项民调显示人工智能与数据中心极不受欢迎",
+        "originalTitle": "AI and data centers are incredibly unpopular in every poll",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:34:25.000Z",
+        "pubTime": "2026-09-16 07:34",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\n61 percent of likely voters said they oppose the construction of AI data centers, but neither major party has much of an edge.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Richard Lawler\n\nPoll data released Tuesday by the New York Times and Siena University confirms what we’ve already been seeing, and what politicians are responding to — AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed in early September (ahead of the recent AI safety slowdown discussion) said they were opposed, with only 14 percent saying they strongly support. The split was about even among 2024 Donald Trump voters, at 49 percent support to 45 percent oppose, while people who had voted for Kamala Harris or who didn’t vote leaned oppose, at 74 percent and 67 percent, respectively.\n\n56 percent of voters surveyed who said they were opposed to data centers said they supported limits, while 38 percent instead preferred a total ban. The list of reasons for opposition is also revealing, with the environment/water usage most common at 32 percent, impact on local communities at 21 percent, general distrust or dislike of AI at 18 percent, followed by regulation concerns and the economy at 10 and 9 percent.\n\nAn NBC News poll in March showed AI polling lower than ICE, and a Gallup poll in May revealed seven in ten Americans opposed local construction of AI data centers.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关文章将被添加到您的每日电子邮件文摘和主页信息流中。\n\n61%的可能投票选民表示反对建设人工智能数据中心，但两大主要政党均未占据明显优势。\n\n该作者的相关文章将被添加到您的每日电子邮件文摘和主页信息流中。\n\n查看理查德·劳勒（Richard Lawler）的全部文章\n\n《纽约时报》与锡耶纳学院（Siena University）周二公布的民调数据证实了我们早已观察到的现象，也是政界人士正在作出的反应——人工智能和数据中心极不受欢迎。当被问及是否支持或反对建设用于支持人工智能技术的数据中心时，在9月初（在近期关于人工智能安全放缓讨论之前）接受调查的1503名可能投票选民中，有61%的人表示反对，仅有14%的人表示强烈支持。在2024年唐纳德·特朗普（Donald Trump）的选民中，意见分歧较为接近，支持与反对的比例分别为49%和45%；而曾投票给卡玛拉·哈里斯（Kamala Harris）的选民或未投票者则倾向于反对，反对比例分别高达74%和67%。\n\n在受访的反对数据中心的选民中，有56%的人表示支持进行限制，而38%的人更倾向于彻底禁止。列出的反对原因同样发人深省：环境与用水问题最为普遍，占比32%；对当地社区的影响占21%；对人工智能的普遍不信任或反感占18%；紧随其后的是对监管的担忧和经济问题，分别占10%和9%。\n\n今年3月的一项NBC新闻民调显示，人工智能的民调支持率低于美国移民与海关执法局（ICE）；而5月的一项盖洛普（Gallup）民调显示，十分之七的美国人反对在当地建设人工智能数据中心。\n\n一份汇总关键要闻的每日免费摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "《纽约时报》与锡耶纳大学在9月初对1,503名可能选民的民调显示，61%的受访选民反对为AI技术供电的数据中心建设，仅14%表示强烈支持。",
+          "在2024年唐纳德·特朗普的选民中，对建设AI数据中心的支持与反对比例为49%比45%；卡玛拉·哈里斯的选民和未投票选民倾向于反对，反对比例分别为74%和67%。",
+          "来源叙事重点：聚焦AI与数据中心在公众中极度不受欢迎的民意现状，重点突出跨党派背景下的反对情绪（尤其是民主党及未投票选民的强烈反对）、反对建设的核心动因（环境、社区影响及对AI的不信任），以及该民意对政客立场的潜在影响。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:34:25.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
+          }
+        ]
+      },
+      {
+        "id": "story--china-russia-trump-html-1348100c60db3a78",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why de-dollarization discussions are more talk, less action",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:28:01.000Z",
+        "pubTime": "2026-09-16 07:28",
+        "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html",
+        "imageUrl": null,
+        "fullContent": "When BRICS leaders met over the weekend, they talked about the economic power of the Global South and the need to expand trade in local currencies, signaling a push to cut dependence on the greenback.\n\nThe bloc aims to reduce its reliance on the greenback due to geopolitical tensions, economic sanctions, and the U.S. tariff policy, experts said. However, they raised doubts about the ability of the BRICS to wean away from the dollar.\n\nFor years, the term \"de-dollarization\" has come up from time to time, especially when confidence in the U.S. is shaken.\n\nThe idea is simple: Countries mostly transact in the U.S. dollar today, thereby underpinning most of the world's financial systems. For example, two of the world's most traded commodities, oil and gold, are denominated in the greenback. Data from the Bank of International Settlements reveals that the U.S. dollar made up 89% of the forex market — up 1 percentage point from a year earlier — while the euro and the yen made up 29% and 17%, respectively, as of April.\n\nSouth African President Cyril Ramaphosa said in his address at the BRICS Summit that BRICS should \"press ahead with greater use of local currencies, stronger cross-border payment systems and deeper financial interconnectivity.\"\n\nEnergy-rich economies such as Iran and Russia, two members of the BRICS, whose ability to trade in dollars has been hampered due to U.S. sanctions, also urged the bloc to develop payment, settlement and depository infrastructure within BRICS.\n\nThe current financial system is \"vulnerable to political shocks due to its concentration on a limited number of currencies,\" Iranian President Masoud Pezeshkian said, hinting at the need to diversify away from the dollar.\n\nYet lack of financial and macroeconomic integration, wide trade imbalances and deep distrust between key member states, such as China and India, are the biggest hurdles the BRICS need to cross before it breaks free from the hegemony of the dollar, experts said.\n\nThe BRICS lack the unified institutional, financial, and macroeconomic infrastructure needed to substitute the \"inherent liquidity and trust\" of the dollar globally, Jayant Krishna, senior fellow at the Center for Strategic and International Studies, told CNBC.\n\nThe most common mention of de-dollarization is usually among the BRICS countries. U.S. President Donald Trump has in the past threatened the bloc with tariffs if they moved away from the dollar.\n\n\"We require a commitment from these Countries that they will neither create a new BRICS Currency, nor back any other Currency to replace the mighty U.S. dollar, or they will face 100% Tariffs and should expect to say goodbye to selling into the wonderful U.S. Economy,\" Trump wrote.\n\nCollectively, 10 BRICS member countries accounted for 27% of world output, 24% of merchandise exports, and 22% of foreign direct investment inflows in 2024, a United Nations Trade and Development report said in March.\n\n\"This brings fresh opportunities, avenues for cooperation and vast potential,\" the report said but underscored that at present the scale of intra-BRICS trade only accounted for about 5% of world trade as of 2024.\n\nWhile member countries have spoken of expanding trade in national currencies, few concrete steps have been seen in that direction. The BRICS 2026 declaration had no mention of common currency or firmer details on trade settlements and investments using BRICS local currencies. Instead, the BRICS Payment Task Force was asked to work on facilitating \"practical solutions for cross-border payments.\"\n\n\"Russia and China now settle close to ninety percent of their trade in rubles and yuan,\" but that shift has been accelerated by U.S. sanctions after 2022 rather than coordinated BRICS policy, Reema Bhattacharya, head of Asia research at Verisk Maplecroft, told CNBC\n\nMost BRICS currencies lack deep liquid markets outside their home economies, which discourages exporters from accepting them and keeps dollar invoicing the path of least resistance for global commodities, she explained.\n\nExperts said that competing interests among BRICS nations also make de-dollarization difficult.\n\n\"India-China rivalry, which I'd call the single biggest brake on cohesion across the bloc,\" Bhattacharya said.\n\nBoth Beijing and New Delhi want greater strategic autonomy from Washington, but they remain direct competitors in manufacturing, technology, investment and regional influence.\n\nThis tension, in addition to a widening trade imbalance between the two major BRICS countries, makes the trust needed for deeper financial integration hard to sustain.\n\nChina is one of India's largest business partners, with total trade at a record $151.1 billion in the year ending March 2026. But New Delhi's deficit with Beijing has also risen to a record $112.16 billion, up from $99.21 billion.\n\nMeanwhile, India's goods and services trade with the U.S. was around $239 billion in 2025, with a goods trade surplus of $58.4 billion and a services trade surplus of $4.7 billion. So, a shift away from the dollar does not work in India's favor, as it has a large trade deficit with China and other countries.\n\n\"BRICS members also have vastly different priorities,\" Krishna Bhimavarapu, APAC Economist, State Street Investment Management, told CNBC.\n\nRussia and Iran want to reduce dollar exposure because of sanctions risk; China wants greater international use of the renminbi but maintains capital controls; India, meanwhile, supports greater use of the rupee, he said.\n\n\"Ultimately, no BRICS-led alternative currently matches the liquidity and market depth, credibility and global acceptance of the Dollar,\" he added.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "截至4月，国际清算银行数据显示美元占外汇市场的89%（同比上升1个百分点），欧元占29%，日元占17%。",
+          "联合国贸易和发展组织2024年3月报告显示，金砖10国占全球产出的27%、商品出口的24%和外国直接投资流入的22%，但截至2024年金砖国家间内部贸易仅占全球贸易的约5%。",
+          "来源叙事重点：质疑金砖国家“去美元化”的可行性与实际行动力，着重强调去美元化讨论“口号多于行动”，指出成员国利益分歧、中印竞争、流动性匮乏及美元在全球贸易和外汇市场的绝对主导地位构成了不可逾越的障碍"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:28:01.000Z",
+            "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html"
+          }
+        ]
+      },
+      {
+        "id": "story-es-spark-protests-around-e47080087aa2b407",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Skyrocketing fuel prices spark protests around the globe",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T22:33:44.000Z",
+        "pubTime": "2026-09-16 06:33",
+        "url": "https://www.reddit.com/r/worldnews/comments/1whf4zi/skyrocketing_fuel_prices_spark_protests_around/",
+        "imageUrl": "https://external-preview.redd.it/gxC89wXlk2xF-INRku5XsLHvqkfmh773SRiNfqCvbgU.jpeg?width=640&crop=smart&auto=webp&s=70d589705066cb756619a186e76b64ff653e16d3",
+        "fullContent": "submitted by /u/Beadyeyed12 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-16 06:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1whf4zi/skyrocketing_fuel_prices_spark_protests_around/",
+            "publishedAt": "2026-09-15T22:33:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-the-month-september-2026-185880306f1f6223",
+        "title": "NASA艾姆斯研究中心月度之星：2026年9月",
+        "originalTitle": "NASA Ames Stars of the Month: September 2026",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:46:11.000Z",
+        "pubTime": "2026-09-16 07:46",
+        "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+        "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/nasa-arc-s-stars-of-the-mont-sep-2026.jpg?w=1920",
+        "fullContent": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.\n\nSpace Biosciences Star: Steve Ormsby&nbsp;\n\nSteve Ormsby is a project engineer for the Space Biosciences Division with Amentum in the Center Operations Directorate. He is recognized for his perseverance, dedication and initiative in overseeing the safety of division facilities and infrastructure maintenance, as well as exceptional diligence as a property custodian.\n\nSpace Biosciences Star: Aphrodite Kostakis\n\nAphrodite Kostakis is the Facility Service Manager with Amentum for building N239 in the Space Biosciences Division. She is acknowledged for her exemplary work ethic in maintaining building safety, preparing for and leading VPP inspections with diligence and attention, and suggesting infrastructure improvements and ensuring they get implemented for everyone’s benefit.\n\nAstrophysics Star: Alejandro Borlaff\n\nAlejandro (Alex) Borlaff, a research scientist in the Astrophysics Division with the Bay Area Environmental Research Institute, is recognized for his leadership in pioneering and developing image reduction pipelines for the Hubble Space Telescope (HST) and the Roman Space Telescope’s Wide Field Instrument (WFI). These algorithms significantly advance the detection of ultra-low surface brightness features through rigorous modeling of background contamination, including scattered and zodiacal light, better maximizing the science derived from NASA flagship astrophysics missions.&nbsp;\n\nAstrophysics Star: Sarah Nickerson\n\nSarah Nickerson, a research scientist in the Astrophysics Division with the Bay Area Environmental Research Institute, is recognized for exceptional work on the analysis and curation of data taken from the EXES instrument on NASA’s Stratospheric Observatory for Infrared Astronomy (SOFIA) observatory. This provides high-level data products to the global astrophysics community for continued discovery and synergy with other NASA missions.\n\nPlanetary Science and Exobiology Star: Martina Caussi\n\nMartina Caussi is a NASA Postdoctoral Program Fellow in the Planetary Science and Exobiology Division. Martina is recognized for her outstanding work using finite element simulations to determine that topographic relaxation has played a significant role in shaping Tegid, an unusually shaped impact crater on Europa. This work represents valuable precursory science in anticipation of the Europa Clipper mission, which will refine our understanding of this ocean world.\n\nEarth Science Star: Keiko Nomura\n\nKeiko Nomura is a research scientist for the NASA Earth Exchange (NEX) in the Earth Science Division with the Bay Area Environmental Research Institute. She is acknowledged for timely efforts in leadership, stakeholder engagement, coordination with NASA HQ management, and team building for the recently funded NEX-GeoAI project. This project is now being recognized as a key step forward to establishing NASA as the ground-truthing agency for federal and private sector GeoAI modeling activities for decision making.\n\nEarth Science Star: Stephen Broccardo\n\nStephen Broccardo is a research scientist in the Earth Science Division with the Bay Area Environmental Research Institute. He is recognized for exceptional initiative and technical leadership in sustaining and advancing Ames’ atmospheric remote-sensing capabilities. Stephen has maintained critical observational capabilities&nbsp; and developed thoughtful technical milestones for future satellite-validation and science activities.",
+        "fullTranslation": "NASA艾姆斯科学理事会（NASA Ames Science Directorate）表彰史蒂夫·奥姆斯比（Steve Ormsby）、阿芙洛狄忒·科斯塔基斯（Aphrodite Kostakis）、亚历杭德罗·博拉夫（Alejandro Borlaff）、萨拉·尼克森（Sarah Nickerson）、玛蒂娜·考西（Martina Caussi）、野村惠子（Keiko Nomura）以及斯蒂芬·布罗卡多（Stephen Broccardo）（图中从左至右）的杰出贡献。他们对NASA使命的奉献，展现了探索这个世界及更广阔领域所需的进取精神、专业技术与协作精神。\n\n空间生物科学之星：史蒂夫·奥姆斯比\n史蒂夫·奥姆斯比是中心运营理事会中受雇于Amentum公司的空间生物科学部项目工程师。他因在监督部门设施安全与基础设施维护方面的坚持、奉献与主动精神，以及作为财产保管员展现出的非凡敬业态度而受到表彰。\n\n空间生物科学之星：阿芙洛狄忒·科斯塔基斯\n阿芙洛狄忒·科斯塔基斯是Amentum公司在空间生物科学部N239大楼的设施服务主管。她因在维护建筑安全方面的模范职业道德、认真细致地准备并带队开展自愿保护计划（VPP）检查，以及提出基础设施改进建议并确保其落地实施以造福大家而受到赞誉。\n\n天体物理学之星：亚历杭德罗·博拉夫\n亚历杭德罗（亚历克斯）·博拉夫（Alejandro (Alex) Borlaff）是湾区环境研究所（Bay Area Environmental Research Institute）派驻天体物理学部的研究科学家。他因在开创和开发哈勃太空望远镜（HST）以及罗曼太空望远镜宽场相机（WFI）图像处理管线方面的领导作用而受到表彰。这些算法通过对包括散射光和黄道光在内的背景污染进行精确建模，显著提升了对极低表面亮度特征的探测能力，从而更好地最大化了从NASA旗舰级天体物理学任务中获取的科学成果。\n\n天体物理学之星：萨拉·尼克森\n萨拉·尼克森是湾区环境研究所派驻天体物理学部的研究科学家，她因在分析和整理NASA同温层红外天文观测台（SOFIA）上EXES仪器所采集的数据方面的卓越工作而受到表彰。这项工作为全球天体物理学界提供了高级数据产品，助力持续的科学发现以及与NASA其他任务的协同效应。\n\n行星科学与地外生物学之星：玛蒂娜·考西\n玛蒂娜·考西是行星科学与地外生物学部的NASA博士后计划研究员。玛蒂娜利用有限元模拟，确定了地形松弛在塑造木卫二（Europa）上形态异常的撞击坑“泰吉德”（Tegid）过程中起到了重要作用，她因这一杰出工作而受到表彰。该工作为即将开展的“欧罗巴快船”（Europa Clipper）任务提供了宝贵的先导科学支撑，该任务将进一步加深我们对这个海洋世界的认知。\n\n地球科学之星：野村惠子\n野村惠子是湾区环境研究所派驻地球科学部NASA地球交流中心（NEX）的研究科学家。她因近期获得资助的NEX-GeoAI项目中展现的及时领导力、利益相关方互动、与NASA总部的管理协调以及团队建设而受到肯定。该项目目前被公认为关键一步，助力将NASA打造为面向联邦机构和私营部门决策所用GeoAI建模活动的地表真实验证（ground-truthing）机构。\n\n地球科学之星：斯蒂芬·布罗卡多\n斯蒂芬·布罗卡多是湾区环境研究所派驻地球科学部的研究科学家。他因在维持和推进艾姆斯大气遥感能力方面展现出的非凡主动性和技术领导力而受到表彰。斯蒂芬保持了关键的观测能力，并为未来的卫星校准与科学活动制定了周密的技术里程碑。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "NASA Ames科学理事会公布了2026年9月的本月之星（Stars of the Month），表彰了7名人员的贡献。",
+          "Steve Ormsby是Amentum在中心运营理事会派驻空间生物科学部的项目工程师，被评为空间生物科学之星。",
+          "来源叙事重点：表彰在空间生物学、天体物理、行星科学与地球科学领域做出卓越贡献的7位科研人员及承包商/合作机构支持人员，强调团队合作、创新进取精神以及对NASA深空探测与地球科学任务的技术支撑价值。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:46:11.000Z",
+            "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/"
+          }
+        ]
+      },
+      {
+        "id": "story-0916-aes-2117919204-html-46139479cfc65f7c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Посол в Турции назвал дату открытия первого реактора АЭС \"Аккую\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T00:18:59.000Z",
+        "pubTime": "2026-09-16 08:18",
+        "url": "https://ria.ru/20260916/aes-2117919204.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 08:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/aes-2117919204.html",
+            "publishedAt": "2026-09-16T00:18:59.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-mal-flight-planning-html-3b96ab604d9ab377",
+        "title": "节省航空燃油",
+        "originalTitle": "Saving Jet Fuel",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:17:20.000Z",
+        "pubTime": "2026-09-16 07:17",
+        "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+        "imageUrl": null,
+        "fullContent": "Home | Benchmarks | Categories | Atom Feed\n\nPosted on Wed 16 September 2026 under Solvers\n\nA Boeing 787-9 Dreamliner flying nonstop from Newark Liberty International Airport (EWR) to Leonardo da Vinci-Fiumicino Airport (FCO) could need $68K in jet fuel over the 8.5-hour flight. Adjusting the flight path for wind conditions could reduce fuel consumption and possibly save a few thousand dollars.\n\nFirms like Jeppesen have offerings in this space, but Scikit-decide, together with a narrow- and wide-body fuel consumption model built by a professor at the Delft University of Technology and wind data from NOAA, offer an open source solution.\n\nScikit-decide has been in development for six years. It's a framework for reinforcement learning, automated planning and scheduling. The project can optimise flight paths, re-organise airline workforce schedules and calculate drone swarm paths.\n\nOpenAP is an aircraft performance model and toolkit developed by Dr. Junzi Sun. Dr. Sun has a PhD in air traffic management and, among many other things, teaches a course on the subject as a tenured assistant professor at TU Delft in the Netherlands.\n\nScikit-decide's optimal flight path solver can be configured to use different fuel consumption models. In this post, I'll compare two flight paths flown using the Airbus A320 and OpenAP's fuel consumption model.\n\nI'm using a 5.7 GHz AMD Ryzen 9 9950X CPU. It has 16 cores and 32 threads and 1.2 MB of L1, 16 MB of L2 and 64 MB of L3 cache. It has a liquid cooler attached and is housed in a spacious, full-sized Cooler Master HAF 700 computer case.\n\nThe system has 96 GB of DDR5 RAM clocked at 4,800 MT/s and a 5th-generation, Crucial T700 4 TB NVMe M.2 SSD which can read at speeds up to 12,400 MB/s. There is a heatsink on the SSD to help keep its temperature down. This is my system's C drive.\n\nThe system is powered by a 1,200-watt, fully modular Corsair Power Supply and is sat on an ASRock X870E Nova 90 Motherboard.\n\nI'm running Ubuntu 24 LTS via Microsoft's Ubuntu for Windows on Windows 11 Pro. In case you're wondering why I don't run a Linux-based desktop as my primary work environment, I'm still using an Nvidia GTX 1080 GPU which has better driver support on Windows and ArcGIS Pro only supports Windows natively.\n\nI'll use Python 3.12 along with jq in this post.\n\nI'll set up a Python Virtual Environment and install scikit-decide, along with the OpenAP open aircraft performance model and OpenTop, a flight trajectory toolkit that was also developed by Dr. Sun.\n\nThe above will need at least 8 GB of storage capacity. These are the packages that were installed.\n\nI'll use DuckDB, along with its H3, JSON, Lindel, Parquet and Spatial extensions in this post.\n\nI'll set up DuckDB to load every installed extension each time it launches.\n\nThe maps in this post were rendered with QGIS version 4.2.1. QGIS is a desktop application that runs on Windows, macOS and Linux. The application has grown in popularity in recent years and has ~22M application launches from users all around the world each month.\n\nThe boundaries and place names were sourced from Natural Earth. Maritime Boundaries were sourced from Marine Regions.\n\nI'll first clone the OpenAP repository.\n\nExcluding unit tests and utility scripts, there are 3,369 lines of Python in this package.\n\nOpenAP's model relies on a large number of datasets that are packaged with its codebase. These cover a wide variety of aircraft. Below are the aircraft manufacturer counts.\n\nThese are the properties for the Airbus A380-800.\n\nThese are its drag coefficients.\n\nThese are some additional properties.\n\nThese are the aircraft type synonyms list.\n\nAircraft often have the option of at least two different engines to choose from. There are 427 engines listed in this package's dataset.\n\nThese are the details for the Trent 970-84.\n\nThese are the engine manufacturer counts.\n\nThese are the engine-type counts for Turbofan (TF), Mixed-flow Turbofan (MTF), Turboprop (TP) and Piston (PS) engines in this dataset.\n\nThis is the engine list ranked by their maximum thrust.\n\nThese are the fuel model defaults and overrides.\n\nThere are almost 14K airport locations and codes shipped with this package.\n\nThese airports are located across 236 different countries.\n\nThese are the most represented countries in the airports dataset.\n\nBelow, I'll find an optimal flight path from Toulouse-Blagnac Airport (LFBO / TLS) to Berlin Brandenburg Airport (EDDB / BER).\n\nThe heuristic parameter can be either \"time\", \"distance\", \"lazy_fuel\", \"lazy_time\", or None. If nothing is passed, A* will use a Dijkstra-like search algorithm.\n\nWhen the above runs, if weather data hasn't been fetched from NOAA and if the date of the flight is within the past six months, GRB2 files will be downloaded.\n\nEach file has data covering the entire planet. These are the contents of gfs_4_20260501_1800_000.grb2 rendered on a globe in QGIS.\n\nThis is the solver's altitude and geographical search space.\n\nThis is the optimal flight path according to the solver.\n\nI'll format each of the flight plan's steps so they're easier to read.\n\nI'll export the flight plan to Parquet and render it on top of the ground-level wind data in QGIS.\n\nBelow, I'll find an optimal flight path from Toulouse-Blagnac Airport (LFBO / TLS) to Warsaw Chopin Airport (EPWA / WAW).\n\nThe initial target altitude will be much higher than in the previous example. The result is a flight that is able to take a much more direct route.\n\nWarsaw is 500 KM further away from Toulouse than Berlin. But the faster climb to cruising altitude under the given wind conditions meant the aircraft could take a more direct route. It made it to Warsaw almost 45 minutes faster and only needed 76% of the fuel that the Berlin flight needed.\n\nThese are the steps in the above flight plan.\n\nOpenTop can be paired with OpenAP and used to figure out flight trajectories between two airports.\n\nIts optimiser requires a grid cost file. I'll first download an example 142 MB NetCDF file provided by the project.\n\nThe cost file can be either in Casadi or Parquet format. I worked from an example in its documentation, which produced a 246 KB Casadi file.\n\nThese are the first and last few bytes of its contents.\n\nI noticed the contents are repetitive and compress well.\n\nI'll get the metrics of an optimal flight between Amsterdam's Schiphol (EHAM / AMS) and Frankfurt (EDDF / FRA) on an Airbus A320.\n\nI'll then do the same using a Boeing 737.\n\nCopyright © 2014 - 2026 Mark Litwintschik. This site's template is based off a template by Giulio Fidente.",
+        "fullTranslation": "首页 | 基准测试 | 分类 | Atom 订阅源\n发布于 2026 年 9 月 16 日星期三，分类：求解器（Solvers）\n\n一架波音 787-9 梦想客机从纽瓦克自由国际机场（EWR）直飞罗马菲乌米奇诺机场（FCO），在长达 8.5 小时的航程中可能需要耗费 6.8 万美元的航空燃油。根据风况调整飞行航线可以降低燃油消耗，并可能节省数千美元。\n\n像杰普逊（Jeppesen）这样的公司在这一领域提供了成熟方案，但 Scikit-decide 结合代尔夫特理工大学一位教授构建的窄体和宽体客机油耗模型，以及来自美国国家海洋和大气管理局（NOAA）的风力数据，提供了一种开源解决方案。\n\nScikit-decide 已经开发了六年。它是一个用于强化学习、自动化规划与调度的框架。该项目能够优化航线、重组航空公司员工排班表，并计算无人机集群飞行路径。\n\nOpenAP 是由孙俊子博士（Dr. Junzi Sun）开发的飞机性能模型和工具包。孙博士拥有空中交通管理博士学位，作为荷兰代尔夫特理工大学（TU Delft）的终身助理教授，他在众多学术活动中还教授该领域的课程。\n\nScikit-decide 的最优航线求解器可以配置使用不同的燃油消耗模型。在这篇博文中，我将对比空客 A320 使用 OpenAP 油耗模型飞行的两条航线。\n\n我使用的是一颗主频 5.7 GHz 的 AMD 锐龙 9 9950X CPU。它拥有 16 个核心、32 个线程，以及 1.2 MB 一级缓存、16 MB 二级缓存和 64 MB 三级缓存。它配有一体式水冷散热器，并装在宽敞的全塔式酷冷至尊 HAF 700 电脑机箱中。\n\n该系统拥有 96 GB DDR5 内存，运行频率为 4,800 MT/s，并配备了一块 PCIe 5.0 4 TB Crucial T700 NVMe M.2 固态硬盘，其读取速度最高可达 12,400 MB/s。SSD 上装有散热片以降低温度。这是我系统的 C 盘。\n\n系统由额定功率 1,200 瓦的海盗船全模组电源供电，安装在华擎 X870E Nova 90 主板上。\n\n我在 Windows 11 专业版上通过微软的 Ubuntu for Windows 运行 Ubuntu 24 LTS。如果你好奇我为什么不直接使用基于 Linux 的桌面作为主力工作环境，原因是我仍在使用一张英伟达 GTX 1080 显卡，它在 Windows 下有更好的驱动支持，而且 ArcGIS Pro 仅原生支持 Windows。\n\n在本文中我将使用 Python 3.12 以及 jq。\n\n我将配置一个 Python 虚拟环境，并安装 scikit-decide，连同 OpenAP 开源飞机性能模型以及 OpenTop（这也是孙博士开发的一款飞行轨迹工具包）。\n\n上述环境需要至少 8 GB 的存储容量。以下是已安装的软件包。\n\n在本文中我将使用 DuckDB，以及它的 H3、JSON、Lindel、Parquet 和 Spatial 扩展插件。\n\n我将配置 DuckDB 在每次启动时自动加载所有已安装的扩展插件。\n\n本文中的地图均使用 QGIS 4.2.1 版本渲染。QGIS 是一款运行在 Windows、macOS 和 Linux 上的桌面应用程序。该应用近年来广受欢迎，每月全球用户的启动次数约为 2200 万次。\n\n边界和地名数据来自 Natural Earth。海洋边界数据来自 Marine Regions。\n\n我首先克隆 OpenAP 代码仓库。\n\n排除单元测试和实用脚本后，该软件包包含 3,369 行 Python 代码。\n\nOpenAP 的模型依赖其代码库中打包的大量数据集。这些数据集涵盖了种类繁多的机型。以下是飞机制造商的数量统计。\n\n这些是空客 A380-800 的性能参数。\n\n这些是它的阻力系数。\n\n这些是一些附加属性。\n\n这些是机型同义词/代号列表。\n\n飞机通常至少有两种不同的发动机可供选择。该软件包的数据集中列出了 427 种发动机。\n\n这些是遄达 970-84（Trent 970-84）发动机的详细信息。\n\n这些是发动机制造商的数量统计。\n\n这些是该数据集中涡轮风扇（TF）、混流涡轮风扇（MTF）、涡轮螺旋桨（TP）和活塞（PS）发动机类型的数量统计。\n\n这是按最大推力排名的发动机列表。\n\n这些是燃油模型的默认值和重载设置。\n\n该软件包附带了近 1.4 万个机场的位置和代码。\n\n这些机场分布在 236 个不同的国家和地区。\n\n这些是机场数据集中收录数量最多的国家。\n\n下面，我将寻找从图卢兹-布拉尼亚克机场（LFBO / TLS）到柏林勃兰登堡机场（EDDB / BER）的最优航线。\n\n启发式参数（heuristic）可以是 \"time\"、\"distance\"、\"lazy_fuel\"、\"lazy_time\" 或 None。如果未传递任何参数，A* 将使用类似 Dijkstra 的搜索算法。\n\n当上述代码运行时，如果尚未从 NOAA 获取气象数据，且航班日期在过去六个月内，程序将自动下载 GRIB2（GRB2）文件。\n\n每个文件包含的数据都覆盖全球。这些是在 QGIS 地球仪视图中渲染的 gfs_4_20260501_1800_000.grb2 文件内容。\n\n这是求解器的高度和地理搜索空间。\n\n这是求解器计算出的最优飞行航线。\n\n我将对飞行计划的每一步进行格式化，以便更容易阅读。\n\n我将飞行计划导出为 Parquet 格式，并在 QGIS 中将其叠加在地面风力数据之上进行渲染。\n\n下面，我将寻找从图卢兹-布拉尼亚克机场（LFBO / TLS）到华沙肖邦机场（EPWA / WAW）的最优航线。\n\n初始目标高度将比上一个示例高得多。结果表明，该航班能够采取更为笔直的航线。\n\n华沙距图卢兹比柏林远 500 公里。但在特定风况下更快爬升至巡航高度意味着飞机可以采取更直接的路径。到达华沙的时间比飞柏林快了近 45 分钟，且仅消耗了柏林航线所需燃油的 76%。\n\n这些是上述飞行计划中的具体步骤。\n\nOpenTop 可以与 OpenAP 配合使用，用来计算两个机场之间的飞行轨迹。\n\n其优化器需要一个网格成本文件。我首先下载该项目提供的一个 142 MB 的 NetCDF 示例文件。\n\n成本文件可以是 Casadi 或 Parquet 格式。我根据其文档中的示例进行操作，生成了一个 246 KB 的 Casadi 文件。\n\n这些是其内容的前几个和后几个字节。\n\n我发现其内容重复度很高，压缩比非常出色。\n\n我将获取空客 A320 在阿姆斯特丹史基浦机场（EHAM / AMS）与法兰克福机场（EDDF / FRA）之间最优飞行的各项指标。\n\n然后我将使用波音 737 进行相同的计算。\n\n版权所有 © 2014 - 2026 Mark Litwintschik。本站模板基于 Giulio Fidente 的模板构建。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 54,
+        "translationParagraphs": 53,
+        "keyTakeaways": [
+          "波音 787-9 梦想飞机从纽瓦克自由国际机场飞往罗马菲乌米奇诺机场的 8.5 小时直飞航班，可能需要消耗价值 6.8 万美元的航空燃油。",
+          "Scikit-decide 已开发了六年，是一个用于强化学习、自动化规划与调度的开源框架。",
+          "来源叙事重点：聚焦于利用开源技术栈（Scikit-decide 强化学习与调度框架、OpenAP 飞机性能模型及 NOAA 气象数据）替代传统商业方案（如 Jeppesen），展示如何通过结合风况与飞行爬升策略进行航线优化，从而降低商业航班燃油消耗与飞行时间。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:17:20.000Z",
+            "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html"
+          }
+        ]
+      },
+      {
+        "id": "story-gh-denial-rates-db87d902-075a5bb07b14e5d7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:09:00.000Z",
+        "pubTime": "2026-09-16 07:09",
+        "url": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A pilot program using artificial intelligence to approve care for Medicare beneficiaries has resulted in high levels of denials and delayed decisions and prompted warnings from a vendor about a lack of readiness, according to a lawsuit seeking information about the program.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 07:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-15T23:09:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-risk-research-suggests-b1707ab8781b64ac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Air pollution linked to higher suicide risk, international research suggests",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:30:01.000Z",
+        "pubTime": "2026-09-16 05:30",
+        "url": "https://www.theguardian.com/environment/2026/sep/15/air-pollution-linked-to-higher-suicide-risk-research-suggests",
+        "imageUrl": "https://i.guim.co.uk/img/media/419f9e3a0e1be81c44171ccd8d552486224f5a18/498_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=ada9cc940dabde3a06abf04a646b2571",
+        "fullContent": "Analysis of 29 studies highlights potentially heightened danger from small particulate matter and nitrogen dioxide\n\nAir pollution is associated with an increased risk of suicide and suicidal thoughts, according to research.\n\nEnvironmental pollution is known to be associated with poorer mental health but its role in suicide risk is less well understood. Scientists at Queen’s University Belfast examined whether air, noise, light, and water pollution could influence the risk of death by suicide and suicidal behaviours.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "一项对29项研究的分析表明，细颗粒物和二氧化氮可能带来潜在升高的自杀危险。",
+          "研究指出，空气污染与自杀及自杀意念风险的增加存在关联。",
+          "来源叙事重点：聚焦贝尔法斯特女王大学对29项研究的系统分析，突出空气污染（特别是细颗粒物与二氧化氮）与自杀风险及自杀意念之间的相关性，呼吁关注环境因素对极端心理健康问题的潜在危害"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:30:01.000Z",
+            "url": "https://www.theguardian.com/environment/2026/sep/15/air-pollution-linked-to-higher-suicide-risk-research-suggests"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-bvinenie-2117919388-html-6007cc3e4bf63cd4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Фигурант дела о хищении на поставках на СВО попросил изменить обвинение",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T00:21:53.000Z",
+        "pubTime": "2026-09-16 08:21",
+        "url": "https://ria.ru/20260916/obvinenie-2117919388.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/02/1b/2001960569_0:154:3095:1895_650x0_80_0_0_13cac6b23e46f8daa64804b4c74c615e.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 08:21 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/obvinenie-2117919388.html",
+            "publishedAt": "2026-09-16T00:21:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-vidias-jensen-huang-says-049ed956b8239821",
+        "title": "英伟达黄仁勋表示：我们不需要人工智能监管——把安全问题交给我们",
+        "originalTitle": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T00:20:39.000Z",
+        "pubTime": "2026-09-16 08:20",
+        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+        "imageUrl": null,
+        "fullContent": "Nvidia founder and CEO Jensen Huang made his position on the dangers AI poses very clear while speaking at Salesforce’s tech conference Dreamforce on Tuesday. To him, AI isn’t some kind of new form of “alien mind,” as at least one OpenAI safety researcher has described it. It’s just hardware and software, he says, built by humans. That means, in his view, it can be controlled by humans and existing laws.\n\n“Safety is an engineering problem, not a legal one,” he said. “We’re developing software after all. We’re developing computing systems after all. It’s a complicated computing system, but it’s ultimately a computing system.”\n\nTherefore, there’s no need for new laws or regulations to govern it, he argues. In fact, Huang sees little need for new laws at all. The free market, he argues, will be enough to pressure companies not to release unsafe products.\n\n“If we’re not confident about the safety of the products, like all companies, like you and I, any any all the companies here, if you build a product or a service, and you’re not confident in its functionality, capability, or safety, then don’t release it. And so that’s a very obvious thing to do,” he said.\n\nHe continued: “You pace yourself until you are confident you’re releasing something that the market would appreciate. The market forces are already there. We don’t need any new laws. We don’t need new regulations. We just need companies to decide that when [to] run as fast as they can. I think innovation, speed, and safe products … — it’s a false choice. You could definitely have both at the same time. So run as fast as you can. But if you feel at any given point in time the company’s out of control, or or the product’s not going to be safe, you know, take a pause and make sure you get it right.”\n\nIn some ways, this is a comforting thought. If anyone in the world knows AI, it is Nvidia’s founder, who’s been building the hardware brains of AI since well before ChatGPT existed and now runs a company that also makes open source models, agents, harnesses, and sandboxes.\n\nThen again, if we’re being cynical, his point of view is also unsurprising for someone who’s had his bread so well buttered by the AI boom. Why would he want regulation to come along and add in a layer of hinderance that could slow down Nvidia’s quest to sell ever more AI systems and software? As he also said in the interview: “I’m more ambitious than ever. As a result of our ambition, and with the product productivity boost that we get from AI, the sky’s the limit for us. The sky’s the limit for our company. The sky’s the limit for every industry, for every single country.”\n\nUnfortunately, even companies with the best intentions ship faulty products with unintended consequences, even software. Remember the 2024 CrowdStrike bluescreen-of-death fiasco that grounded thousands of flights and caused other havoc for businesses? Then there are companies accused of deliberately lacting with less-than-good intentions. Meta just paid $18 billion to settle a lawsuit over social media harms to children.\n\nAnd AI has already caused harm, too, whatever the intentions orsafety testing involved, from an OpenAI model hacking into Hugging Face to lawsuits suing the AI lab over the suicides of young people who engaged in long conversations with its chatbot.\n\nThe “leave them alone” strategy, which would let these companies release products as they see fit, could be an unwise approach to AI safety as far as society is concerned. Though Huang is right that it’s possible existing product liability laws could cover AI — if AI doesn’t somehow kill us all before enough cases get through the courts to test that theory.\n\nHe didn’t discuss the other route, which seems close to taking shape: industry self-regulation. Huang’s approach has been more to champion open-weight models and companies’ use of them as a competitive counterweight to proprietary AI labs.\n\nBut right now, the industry has a short window to institute self-regulation and to encourage AI labs worldwide, even those inChina, to see the wisdom in participating. As Microsoft CEO Satya Nadella said at the All-In Summit on Monday, “China should also deeply care about the same safety concerns if the United States cares about them, right? Why should it be different for them? It’s not like they won’t have the same hacking problem. It’s not as if they don’t want to make sure that their citizens are benefiting from AI, just like we would want our citizens to benefit from AI.”\n\nFor now, though, if Huang is a no on any new AI regulation, he may be influential enough to get his way. He also demonstrated this week that he, quite literally, has the ear of President Trump.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence\n\n‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "fullTranslation": "周二，英伟达创始人兼首席执行官黄仁勋在Salesforce主办的Dreamforce科技大会上发表演讲，十分明确地阐述了他对人工智能（AI）所带来危险的立场。在他看来，AI绝非像至少一位OpenAI安全研究人员所形容的那样，是某种新型的“外星心智”。他表示，它只不过是由人类构建的硬件和软件。这意味着在他眼中，它完全可以被人类以及现有法律所约束。\n\n“安全是一个工程问题，而不是法律问题，”他表示。“我们毕竟是在开发软件。我们毕竟是在开发计算系统。它确实是一个复杂的计算系统，但归根结底依然是一个计算系统。”\n\n因此，他认为根本不需要新的法律或监管法规来对其加以管辖。事实上，黄仁勋认为几乎完全没有制定新法的必要。他辩称，自由市场本身就足以施加压力，促使各家公司不敢发布不安全的产品。\n\n“如果我们对产品的安全性缺乏信心——就像所有公司一样，像你我一样，像这里的任何一家以及所有公司一样——如果你打造了一款产品或服务，却对它的功能、性能或安全性没有把握，那就不要发布它。这是一个显而易见的道理，”他说。\n\n他接着补充道：“你要把握好自己的节奏，直到确信自己发布的产品能受到市场的认可。市场的力量早已存在。我们不需要任何新法律。我们不需要新监管法规。我们只需要各家公司自行决定何时全速前进。我认为，创新、速度与安全产品……这并不是非此即彼的虚假选择。你完全可以兼顾两者。因此，尽管以最快速度奔跑吧。但如果在任何特定时刻，你觉得公司失控了，或者觉得产品可能不安全，那就停下来，确保把它做好。”\n\n从某种程度来说，这是一个令人宽慰的观点。如果说世界上有谁最懂AI，那非英伟达创始人莫属——远在ChatGPT问世之前，他就已经在打造AI的硬件“大脑”，而如今他所掌舵的公司不仅如此，还涉足开源模型、智能体、测评工具套件以及沙箱环境。\n\n不过从挑剔的角度来看，对于一个从这轮AI热潮中大获其利的人而言，持有这种观点也并不令人意外。他又何必希望监管插手并增加一层阻碍，进而拖累英伟达销售更多AI系统与软件的野心呢？正如他在采访中所说：“我比以往任何时候都更有雄心。得益于我们的雄心壮志，以及我们从AI中获得的产品生产力飞跃，对我们而言一切皆有可能。对于我们公司而言一切皆有可能。对于每个行业、每个国家而言，也是一切皆有可能。”\n\n遗憾的是，即使是出于最良好初衷的公司，发布的产品也可能带有缺陷并引发意料之外的后果，软件也不例外。还记得2024年CrowdStrike蓝屏死机的那场灾难吗？当时数千架次航班被迫停飞，并给各行各业造成了巨大混乱。更有甚者，一些公司还被指控怀有不良意图故意为之。Meta刚刚支付了180亿美元，以就社交媒体危害儿童的诉讼达成和解。\n\n此外，无论其初衷如何或进行了怎样的安全测试，AI已经引发了实际危害：从OpenAI的模型侵入Hugging Face，到因年轻人与聊天机器人长期交谈后自杀而针对该AI实验室提起的诉讼，不一而足。\n\n就整个社会而言，采取这种“放任自流”、任由各公司自行决定何时发布产品的策略，在AI安全方面可能并非明智之举。尽管黄仁勋说的有一定道理，即现有的产品责任法有可能覆盖AI——前提是AI没有在足够多的案例诉至法院以检验这一理论之前，以某种方式毁灭了我们所有人。\n\n他并未讨论另一条似乎正在逐渐成形的路径：行业自律。黄仁勋的做法更多是力挺开放权重模型，倡导各企业利用这些模型作为制衡专有AI实验室的竞争杠杆。\n\n然而眼下，整个行业建立自律机制的窗口期十分短暂，若要借此鼓励全球各地的AI实验室（包括中国的实验室）认识到参与其中的明智之处，时间同样所剩无几。正如微软首席执行官萨蒂亚·纳德拉周一在All-In峰会上所说：“如果美国关心这些安全问题，中国理应同样深切关注，不是吗？对他们而言又何尝不同？他们同样难逃此类黑客攻击问题。他们也同样希望确保本国公民能够从AI中受益，正如我们希望我们的公民受益一样。”\n\n不过目前而言，如果黄仁勋对任何新的AI监管均持否定态度，以他的影响力或许足以如愿以偿。他本周也展现出自己确实能够直接向特朗普总统进言。\n\n（当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。但这不会影响我们的编辑独立性。）\n（展台预订最后截止日期为9月18日。切勿错过在Disrupt博览厅获得高价值销售线索、接触投资人以及提升品牌知名度的绝佳机会。）\n（特斯拉表示将于10月1日正式发布第二代Roadster）\n（Revolut证实因伪造政府请求遭遇客户数据泄露）\n（由于Astra需求火爆，OpenAI暂停Pro订阅服务）\n（Bending Spoons将以13.6亿美元收购协作工具开发商Miro，较其2022年估值折让90%）\n（身份验证巨头IDScan确认发生数据泄露，超过1.5亿张驾照遭窃）\n（Automattic董事会迫使首席执行官马特·穆伦维格休假）\n（“拿我们的生命作赌注”：Anthropic研究员辞职，警告防范自我改进型AI）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "英伟达创始人兼首席执行官黄仁勋在周二举办的Salesforce Dreamforce科技峰会上发表演讲，阐述其对AI安全与监管的立场。",
+          "黄仁勋认为AI不是某种新形式的“外星人思维”，本质上是人类构建的硬件和软件，可以通过人类和现有法律进行控制。",
+          "来源叙事重点：报道黄仁勋在Dreamforce大会上反对AI立法监管、主张通过工程手段与自由市场解决安全问题的观点；同时运用Meta诉讼和CrowdStrike故障等反例，质疑英伟达背后商业利益驱动下的“放任主义”对公众社会带来的系统性风险。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T00:20:39.000Z",
+            "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+          }
+        ]
+      },
+      {
+        "id": "story-ning-out-of-buffers-html-0cc3a3616582d7b1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T00:00:00.000Z",
+        "pubTime": "2026-09-16 08:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html",
+        "imageUrl": null,
+        "fullContent": "The war in Iran that had to be over and won by the United States in about six weeks is now in its seventh month and the oil markets are starting to crack. Gone are most of the cushions the market had in the early weeks and months of the Middle East conflict. The oversupply from early this year has disappeared as oil on water was drawn down quickly when the Strait of Hormuz was closed to tanker traffic in March. Record stock releases led by the International Energy Agency IEA depleted strategic inventories in developed economies, including in the United States, where the Strategic Petroleum Reserve SPR now holds the lowest level of crude oil since the early 1980s. China, which strategically slashed its crude oil imports by about 4-5 million barrels per day bpd in May and June, has started to gradually ramp up purchases, removing a significant demand-side balancing mechanism that had prevented oil prices from spiking to record highs in the spring. With few buffers left to absorb the six-month-long disruption of oil flows at the Strait of Hormuz, the last thing the market needed was an escalation that put a key non-Hormuz flow valve at risk. New Supply Shock But here we are the vital East-West oil pipeline in Saudi Arabia, which helped the Kingdom bypass the Strait of Hormuz and export most of its crude oil from the Yanbu port on the Red Sea, is now out of service possibly for weeks following drone attacks at the end of last week. Thanks to the East-West pipeline, for half a year Saudi Arabia has managed to re-route most of its crude loadings from the western ports in the Persian Gulf to the Red Sea port of Yanbu. However, the closure of the pipeline has now introduced a major risk to about 4 million barrels per day bpd of Saudi crude oil shipments from Yanbu. Saudi Arabia may be able to sustain exports for days by drawing from Yanbu's stocks, but a longer disruption to the pipeline operations could jeopardize the Red Sea flows, which are already under intense scrutiny by the Iran-aligned Houthis in Yemen, who are targeting Saudi shipments and even hit some tankers in July. While Saudi Arabia's customers in Asia are scrambling for updates, the oil market is pricing in another disruption to the Middle East's oil flows at a time when the buffers are all but gone, and the fuel markets and prices are flashing severe tightness across continents. Flat Cushions Chevron CEO Mike Wirth said on Friday that the market buffers have now been \"played out\" and oil prices could rise further over the coming months. Wirth's comments at a University of Texas at Austin energy conference came just as the U.S. average diesel price hit $6 per gallon for the first time ever, and just as Saudi Arabia's key onshore pipeline was under drone attacks. \"It's harder to envision a scenario where prices soften and quickly,\" Wirth said, as carried by Reuters. \"I think the risks remain to the upside over the next few months.\" In the coming months, the markets will have to face the re-escalation in the Middle East with depleted buffers amid rapidly drawing inventories. Global observed oil inventories plunged by a further 95 million barrels in August, bringing cumulative draws since February to 507 million barrels, or 2.8 million bpd on average, the IEA said last week in its monthly report for September. Additionally, oil on water volumes declined by 65 million barrels as tanker traffic out of the Middle East came under renewed attacks, the IEA said. Oil prices are now at their highest level since May and could have more room to rise as hopes for a swift resolution to the conflict have been continuously dashed in the past six months. Even before the attack on the East-West pipeline, Saudi oil exports from the Red Sea had dropped to below 2 million bpd due to the Houthi threats and the escalation of the simmering Saudi-Houthi conflict, Helima Croft, Head of Global Commodity Strategy and MENA Research at RBC Capital Markets, said last week. About 9 million barrels per day of Middle Eastern supply currently sits effectively offline, Croft noted. The market has, to some extent, worked out redirections and replacements for the oil flows, with exports through the Strait of Hormuz estimated to have recovered to more than half of pre-war levels, thanks to dark transits and U.S. military-assisted escorts. However, the longer the disruptions in the Middle East last, the thinner the buffers will get, setting the stage for another price spike if the conflict escalates. Demand destruction remains the only coping mechanism for the oil market that has seen fundamental changes in oil flows and spiking war-risk insurance costs and tanker rates. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "国际能源署（IEA）9月月度报告显示，8月全球观测到的石油库存减少9500万桶，自2月以来的累计消耗达5.07亿桶（平均每日减少280万桶）。",
+          "受中东油轮交通再次遇袭影响，在途原油库存（oil on water）减少了6500万桶。",
+          "来源叙事重点：聚焦中东冲突延宕与沙特东西向输油管道遇袭对全球石油供应链的次生冲击，强调全球战略缓冲库存见底、主要绕行路线受阻所导致的供需失衡与油价上行风险。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html"
+          }
+        ]
+      },
+      {
+        "id": "story--workplace-unpaid-carers-03e1a77c5a5bc251",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "About 1,500 Britons a day quitting their jobs to become unpaid carers",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:01:03.000Z",
+        "pubTime": "2026-09-16 07:01",
+        "url": "https://www.theguardian.com/society/2026/sep/16/britons-leaving-workplace-unpaid-carers",
+        "imageUrl": "https://i.guim.co.uk/img/media/a064c3268f61d04512535cfd70491a4ae383820b/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=6c399d567f9dd8ac34fe56a043a257d9",
+        "fullContent": "More than a million people have left work to look after loved ones in the past two years, Carers UK says\n\nAbout 1,500 Britons a day are quitting their jobs to become unpaid carers, as they try to balance their vulnerable relatives’ growing care needs with declining access to state-funded social care services.\n\nResearch estimates that more than a million people have left the workplace to look after ageing, ill and disabled loved ones in the past two years, highlighting the social challenges caused by UK’s rapidly changing demographic profile.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Carers UK 表示，过去两年中有超过100万人离开工作岗位以照顾亲人。",
+          "每天约有1,500名英国人辞去工作成为无偿照护者。",
+          "来源叙事重点：强调公共社会照护资源匮乏与人口老龄化背景下，大量劳动力被迫退出职场承担家庭无偿照护重担的严峻现状"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:01:03.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/16/britons-leaving-workplace-unpaid-carers"
+          }
+        ]
+      },
+      {
+        "id": "story-greyhound-dogs-fine-html-970dea0db6506bcd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Greyhound racing just turned 100, and says its dogs are fine. But are they?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T00:00:01.000Z",
+        "pubTime": "2026-09-16 08:00",
+        "url": "https://phys.org/news/2026-09-greyhound-dogs-fine.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-adult-black-greyhou.jpg",
+        "fullContent": "This year, greyhound racing in Britain turns 100 years old. The first race took place on July 24, 1926, in Manchester, where six dogs chased a mechanical hare around a track.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 08:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-greyhound-dogs-fine.html",
+            "publishedAt": "2026-09-16T00:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-o-trump-delaware-primary-077a8f6c0007b5e6",
+        "title": "特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者",
+        "originalTitle": "Dem senator defeats challenger named 'No-Trump' in Delaware primary",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T00:19:06.000Z",
+        "pubTime": "2026-09-16 08:19",
+        "url": "https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/american-lawmakers-denmark-greenland-january-2026.jpg?ve=1&tl=1",
+        "fullContent": "A Democratic stalwart cruised to a primary victory in Delaware on Tuesday, including fending off an opponent with an anti-Trump name.\n\nSen. Chris Coons, D-Del., easily held on against a small field of primary challengers and clinched the Democratic nomination for Senate in a race for a third term that he’s expected to win in November, and he did it while besting an opponent with an unusual name: E. No-Trump Hansen.\n\nHansen, formerly known as Eric Hansen, a former business executive, ran on a platform of curbing presidential power. His solution to President Donald Trump’s \"worst impulses\" was to pass legislation that would limit presidential power to \"restore real checks and balances, and root out corruption and self-dealing.\"\n\nRAUCOUS PRIMARY SEASON REACHES FINAL ACT IN DEEP-BLUE STRONGHOLD, KICKSTARTING SPRINT TO NOVEMBER\n\n\"The name E. (Eric) No-Trump Hansen isn't a gimmick — it's his complete commitment to positive change,\" his campaign website said.\n\nHansen told local outlet WHYY that he changed his name to reflect his opposition to Trump.\n\n\"Trump has said he’ll go after his critics by any means available,\" Hansen said. \"He will go after me, but I’m willing to bear that risk anyway — because the alternative is letting things get worse for Delawareans.\"\n\nMCCONNELL RETURNS AFTER MONTHS-LONG ABSENCE FOR CRUCIAL VOTE\n\nA statement of candidacy filed with the Federal Election Commission (FEC) showed that Hansen officially began campaigning under his new moniker in July. Previously, Hansen ran as a Republican in 2024 and scored the GOP nomination.\n\nHe ultimately lost to Sen. Lisa Blunt-Rochester, D-Del.\n\nMeanwhile, Coons’ victory over Hansen, Jeff Appelhans and Mary Louve tees up a November challenge against either Mike Katz or John Shulli.\n\nREPUBLICAN CAVALRY ARRIVES FOR KEN PAXTON AS BIG-BUCKS TEXAS OFFENSIVE OPENS CASH FLOODGATES\n\nAnd Coons, the top-ranking Democrat on the Senate Defense Appropriations Subcommittee, has history on his side. The lawmaker first entered Congress to replace then-Sen. Joe Biden, who was tapped by former President Barack Obama to be his running mate.\n\nHe won his first full term in 2014 and has maintained his grip on the position ever since. The First State hasn’t sent a Republican to the upper chamber since 1966, when former Sen. J. Caleb Boggs lost re-election.\n\nBoggs was ousted by a 29-year-old Biden, cementing Delaware as a deep-blue stronghold for decades to come.",
+        "fullTranslation": "周二，一名民主党中坚力量在特拉华州轻松赢得初选，其中包括击退了一名带有反特朗普名字的对手。\n\n特拉华州民主党籍参议员克里斯·库恩斯（Chris Coons）轻松抵挡住了少数几位初选挑战者的攻势，锁定了参议院候选人的民主党提名，他在定于11月举行的大选中争取第三个任期并有望获胜。在此过程中，他击败了一名名字不同寻常的对手：E·不要特朗普·汉森（E. No-Trump Hansen）。\n\n汉森原名埃里克·汉森（Eric Hansen），曾是一名企业高管，他的竞选纲领以限制总统权力为核心。针对唐纳德·特朗普总统“最恶劣的冲动”，他提出的解决方案是通过立法来限制总统权力，以“恢复真正的制衡机制，并根除腐败与自私自利”。\n\n吵闹的初选季在深蓝重镇迎来终章，正式拉开通往11月决选的冲刺序幕\n\n他的竞选网站上写道：“‘E·（埃里克）·不要特朗普·汉森’这个名字绝非噱头——这是他对积极变革的全心承诺。”\n\n汉森在接受当地媒体WHYY采访时表示，他改名是为了表达对特朗普的反对。\n\n汉森说：“特朗普曾表示，他会动用一切手段打击他的批评者。他会盯上我，但我无论如何都愿意承担这一风险——因为另一种选择就是任由特拉华州人民的境况继续恶化。”\n\n麦康奈尔在缺席数月后重返参议院参加关键表决\n\n向联邦选举委员会（FEC）提交的候选人声明显示，汉森自7月起正式以新名字展开竞选活动。此前，汉森曾于2024年作为共和党人参选并赢得共和党提名。\n\n他最终败给了特拉华州民主党籍参议员丽莎·布朗特-罗切斯特（Lisa Blunt-Rochester）。\n\n与此同时，库恩斯击败汉森、杰夫·阿佩尔汉斯（Jeff Appelhans）和玛丽·卢夫（Mary Louve）后，将在11月迎战迈克·卡茨（Mike Katz）或约翰·舒利（John Shulli）中的一人。\n\n随着斥巨资的得克萨斯攻势打开资金阀门，共和党援军赶来支援肯·帕克斯顿\n\n作为参议院国防拨款小组委员会的民主党领头人，历史站在了库恩斯这一边。这位议员最初进入国会是为了接替时任参议员乔·拜登，后者当时被前总统巴拉克·奥巴马选为其竞选搭档。\n\n他在2014年赢得了首个完整任期，自那以后一直牢牢占据该职位。自1966年前参议员J·卡莱布·博格斯（J. Caleb Boggs）连任失败以来，这个“第一州”就再也没有向参议院输送过共和党人。\n\n当年，博格斯被年仅29岁的拜登赶下了台，从而奠定了特拉华州在未来数十年作为深蓝重镇的地位。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "民主党参议员克里斯·库恩斯（Chris Coons）在特拉华州初选中获胜，赢得该州参议员民主党提名。",
+          "克里斯·库恩斯的初选挑战者之一合法改名为 E. No-Trump Hansen（原名 Eric Hansen）。",
+          "来源叙事重点：重点聚焦资深民主党参议员克里斯·库恩斯（Chris Coons）轻松赢得特拉华州初选，突出其击败了一位合法改名为“No-Trump”的奇特挑战者，并强调特拉华州作为“深蓝州”对民主党连任的天然优势。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T00:19:06.000Z",
+            "url": "https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary"
+          }
+        ]
+      },
+      {
+        "id": "story-t-midterm-poll-september-30fb04a6f530a157",
+        "title": "各项民调显示人工智能与数据中心极不受欢迎",
+        "originalTitle": "AI and data centers are incredibly unpopular in every poll",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:34:25.000Z",
+        "pubTime": "2026-09-16 07:34",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\n61 percent of likely voters said they oppose the construction of AI data centers, but neither major party has much of an edge.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Richard Lawler\n\nPoll data released Tuesday by the New York Times and Siena University confirms what we’ve already been seeing, and what politicians are responding to — AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed in early September (ahead of the recent AI safety slowdown discussion) said they were opposed, with only 14 percent saying they strongly support. The split was about even among 2024 Donald Trump voters, at 49 percent support to 45 percent oppose, while people who had voted for Kamala Harris or who didn’t vote leaned oppose, at 74 percent and 67 percent, respectively.\n\n56 percent of voters surveyed who said they were opposed to data centers said they supported limits, while 38 percent instead preferred a total ban. The list of reasons for opposition is also revealing, with the environment/water usage most common at 32 percent, impact on local communities at 21 percent, general distrust or dislike of AI at 18 percent, followed by regulation concerns and the economy at 10 and 9 percent.\n\nAn NBC News poll in March showed AI polling lower than ICE, and a Gallup poll in May revealed seven in ten Americans opposed local construction of AI data centers.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关文章将被添加到您的每日电子邮件文摘和主页信息流中。\n\n61%的可能投票选民表示反对建设人工智能数据中心，但两大主要政党均未占据明显优势。\n\n该作者的相关文章将被添加到您的每日电子邮件文摘和主页信息流中。\n\n查看理查德·劳勒（Richard Lawler）的全部文章\n\n《纽约时报》与锡耶纳学院（Siena University）周二公布的民调数据证实了我们早已观察到的现象，也是政界人士正在作出的反应——人工智能和数据中心极不受欢迎。当被问及是否支持或反对建设用于支持人工智能技术的数据中心时，在9月初（在近期关于人工智能安全放缓讨论之前）接受调查的1503名可能投票选民中，有61%的人表示反对，仅有14%的人表示强烈支持。在2024年唐纳德·特朗普（Donald Trump）的选民中，意见分歧较为接近，支持与反对的比例分别为49%和45%；而曾投票给卡玛拉·哈里斯（Kamala Harris）的选民或未投票者则倾向于反对，反对比例分别高达74%和67%。\n\n在受访的反对数据中心的选民中，有56%的人表示支持进行限制，而38%的人更倾向于彻底禁止。列出的反对原因同样发人深省：环境与用水问题最为普遍，占比32%；对当地社区的影响占21%；对人工智能的普遍不信任或反感占18%；紧随其后的是对监管的担忧和经济问题，分别占10%和9%。\n\n今年3月的一项NBC新闻民调显示，人工智能的民调支持率低于美国移民与海关执法局（ICE）；而5月的一项盖洛普（Gallup）民调显示，十分之七的美国人反对在当地建设人工智能数据中心。\n\n一份汇总关键要闻的每日免费摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "《纽约时报》与锡耶纳大学在9月初对1,503名可能选民的民调显示，61%的受访选民反对为AI技术供电的数据中心建设，仅14%表示强烈支持。",
+          "在2024年唐纳德·特朗普的选民中，对建设AI数据中心的支持与反对比例为49%比45%；卡玛拉·哈里斯的选民和未投票选民倾向于反对，反对比例分别为74%和67%。",
+          "来源叙事重点：聚焦AI与数据中心在公众中极度不受欢迎的民意现状，重点突出跨党派背景下的反对情绪（尤其是民主党及未投票选民的强烈反对）、反对建设的核心动因（环境、社区影响及对AI的不信任），以及该民意对政客立场的潜在影响。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:34:25.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
+          }
+        ]
+      },
+      {
+        "id": "story--china-russia-trump-html-1348100c60db3a78",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why de-dollarization discussions are more talk, less action",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:28:01.000Z",
+        "pubTime": "2026-09-16 07:28",
+        "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html",
+        "imageUrl": null,
+        "fullContent": "When BRICS leaders met over the weekend, they talked about the economic power of the Global South and the need to expand trade in local currencies, signaling a push to cut dependence on the greenback.\n\nThe bloc aims to reduce its reliance on the greenback due to geopolitical tensions, economic sanctions, and the U.S. tariff policy, experts said. However, they raised doubts about the ability of the BRICS to wean away from the dollar.\n\nFor years, the term \"de-dollarization\" has come up from time to time, especially when confidence in the U.S. is shaken.\n\nThe idea is simple: Countries mostly transact in the U.S. dollar today, thereby underpinning most of the world's financial systems. For example, two of the world's most traded commodities, oil and gold, are denominated in the greenback. Data from the Bank of International Settlements reveals that the U.S. dollar made up 89% of the forex market — up 1 percentage point from a year earlier — while the euro and the yen made up 29% and 17%, respectively, as of April.\n\nSouth African President Cyril Ramaphosa said in his address at the BRICS Summit that BRICS should \"press ahead with greater use of local currencies, stronger cross-border payment systems and deeper financial interconnectivity.\"\n\nEnergy-rich economies such as Iran and Russia, two members of the BRICS, whose ability to trade in dollars has been hampered due to U.S. sanctions, also urged the bloc to develop payment, settlement and depository infrastructure within BRICS.\n\nThe current financial system is \"vulnerable to political shocks due to its concentration on a limited number of currencies,\" Iranian President Masoud Pezeshkian said, hinting at the need to diversify away from the dollar.\n\nYet lack of financial and macroeconomic integration, wide trade imbalances and deep distrust between key member states, such as China and India, are the biggest hurdles the BRICS need to cross before it breaks free from the hegemony of the dollar, experts said.\n\nThe BRICS lack the unified institutional, financial, and macroeconomic infrastructure needed to substitute the \"inherent liquidity and trust\" of the dollar globally, Jayant Krishna, senior fellow at the Center for Strategic and International Studies, told CNBC.\n\nThe most common mention of de-dollarization is usually among the BRICS countries. U.S. President Donald Trump has in the past threatened the bloc with tariffs if they moved away from the dollar.\n\n\"We require a commitment from these Countries that they will neither create a new BRICS Currency, nor back any other Currency to replace the mighty U.S. dollar, or they will face 100% Tariffs and should expect to say goodbye to selling into the wonderful U.S. Economy,\" Trump wrote.\n\nCollectively, 10 BRICS member countries accounted for 27% of world output, 24% of merchandise exports, and 22% of foreign direct investment inflows in 2024, a United Nations Trade and Development report said in March.\n\n\"This brings fresh opportunities, avenues for cooperation and vast potential,\" the report said but underscored that at present the scale of intra-BRICS trade only accounted for about 5% of world trade as of 2024.\n\nWhile member countries have spoken of expanding trade in national currencies, few concrete steps have been seen in that direction. The BRICS 2026 declaration had no mention of common currency or firmer details on trade settlements and investments using BRICS local currencies. Instead, the BRICS Payment Task Force was asked to work on facilitating \"practical solutions for cross-border payments.\"\n\n\"Russia and China now settle close to ninety percent of their trade in rubles and yuan,\" but that shift has been accelerated by U.S. sanctions after 2022 rather than coordinated BRICS policy, Reema Bhattacharya, head of Asia research at Verisk Maplecroft, told CNBC\n\nMost BRICS currencies lack deep liquid markets outside their home economies, which discourages exporters from accepting them and keeps dollar invoicing the path of least resistance for global commodities, she explained.\n\nExperts said that competing interests among BRICS nations also make de-dollarization difficult.\n\n\"India-China rivalry, which I'd call the single biggest brake on cohesion across the bloc,\" Bhattacharya said.\n\nBoth Beijing and New Delhi want greater strategic autonomy from Washington, but they remain direct competitors in manufacturing, technology, investment and regional influence.\n\nThis tension, in addition to a widening trade imbalance between the two major BRICS countries, makes the trust needed for deeper financial integration hard to sustain.\n\nChina is one of India's largest business partners, with total trade at a record $151.1 billion in the year ending March 2026. But New Delhi's deficit with Beijing has also risen to a record $112.16 billion, up from $99.21 billion.\n\nMeanwhile, India's goods and services trade with the U.S. was around $239 billion in 2025, with a goods trade surplus of $58.4 billion and a services trade surplus of $4.7 billion. So, a shift away from the dollar does not work in India's favor, as it has a large trade deficit with China and other countries.\n\n\"BRICS members also have vastly different priorities,\" Krishna Bhimavarapu, APAC Economist, State Street Investment Management, told CNBC.\n\nRussia and Iran want to reduce dollar exposure because of sanctions risk; China wants greater international use of the renminbi but maintains capital controls; India, meanwhile, supports greater use of the rupee, he said.\n\n\"Ultimately, no BRICS-led alternative currently matches the liquidity and market depth, credibility and global acceptance of the Dollar,\" he added.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "截至4月，国际清算银行数据显示美元占外汇市场的89%（同比上升1个百分点），欧元占29%，日元占17%。",
+          "联合国贸易和发展组织2024年3月报告显示，金砖10国占全球产出的27%、商品出口的24%和外国直接投资流入的22%，但截至2024年金砖国家间内部贸易仅占全球贸易的约5%。",
+          "来源叙事重点：质疑金砖国家“去美元化”的可行性与实际行动力，着重强调去美元化讨论“口号多于行动”，指出成员国利益分歧、中印竞争、流动性匮乏及美元在全球贸易和外汇市场的绝对主导地位构成了不可逾越的障碍"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:28:01.000Z",
+            "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html"
+          }
+        ]
+      },
+      {
+        "id": "story-es-spark-protests-around-e47080087aa2b407",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Skyrocketing fuel prices spark protests around the globe",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T22:33:44.000Z",
+        "pubTime": "2026-09-16 06:33",
+        "url": "https://www.reddit.com/r/worldnews/comments/1whf4zi/skyrocketing_fuel_prices_spark_protests_around/",
+        "imageUrl": "https://external-preview.redd.it/gxC89wXlk2xF-INRku5XsLHvqkfmh773SRiNfqCvbgU.jpeg?width=640&crop=smart&auto=webp&s=70d589705066cb756619a186e76b64ff653e16d3",
+        "fullContent": "submitted by /u/Beadyeyed12 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-16 06:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1whf4zi/skyrocketing_fuel_prices_spark_protests_around/",
+            "publishedAt": "2026-09-15T22:33:44.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-the-month-september-2026-185880306f1f6223",
+        "title": "NASA艾姆斯研究中心月度之星：2026年9月",
+        "originalTitle": "NASA Ames Stars of the Month: September 2026",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:46:11.000Z",
+        "pubTime": "2026-09-16 07:46",
+        "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+        "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/nasa-arc-s-stars-of-the-mont-sep-2026.jpg?w=1920",
+        "fullContent": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen Broccardo. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.\n\nSpace Biosciences Star: Steve Ormsby&nbsp;\n\nSteve Ormsby is a project engineer for the Space Biosciences Division with Amentum in the Center Operations Directorate. He is recognized for his perseverance, dedication and initiative in overseeing the safety of division facilities and infrastructure maintenance, as well as exceptional diligence as a property custodian.\n\nSpace Biosciences Star: Aphrodite Kostakis\n\nAphrodite Kostakis is the Facility Service Manager with Amentum for building N239 in the Space Biosciences Division. She is acknowledged for her exemplary work ethic in maintaining building safety, preparing for and leading VPP inspections with diligence and attention, and suggesting infrastructure improvements and ensuring they get implemented for everyone’s benefit.\n\nAstrophysics Star: Alejandro Borlaff\n\nAlejandro (Alex) Borlaff, a research scientist in the Astrophysics Division with the Bay Area Environmental Research Institute, is recognized for his leadership in pioneering and developing image reduction pipelines for the Hubble Space Telescope (HST) and the Roman Space Telescope’s Wide Field Instrument (WFI). These algorithms significantly advance the detection of ultra-low surface brightness features through rigorous modeling of background contamination, including scattered and zodiacal light, better maximizing the science derived from NASA flagship astrophysics missions.&nbsp;\n\nAstrophysics Star: Sarah Nickerson\n\nSarah Nickerson, a research scientist in the Astrophysics Division with the Bay Area Environmental Research Institute, is recognized for exceptional work on the analysis and curation of data taken from the EXES instrument on NASA’s Stratospheric Observatory for Infrared Astronomy (SOFIA) observatory. This provides high-level data products to the global astrophysics community for continued discovery and synergy with other NASA missions.\n\nPlanetary Science and Exobiology Star: Martina Caussi\n\nMartina Caussi is a NASA Postdoctoral Program Fellow in the Planetary Science and Exobiology Division. Martina is recognized for her outstanding work using finite element simulations to determine that topographic relaxation has played a significant role in shaping Tegid, an unusually shaped impact crater on Europa. This work represents valuable precursory science in anticipation of the Europa Clipper mission, which will refine our understanding of this ocean world.\n\nEarth Science Star: Keiko Nomura\n\nKeiko Nomura is a research scientist for the NASA Earth Exchange (NEX) in the Earth Science Division with the Bay Area Environmental Research Institute. She is acknowledged for timely efforts in leadership, stakeholder engagement, coordination with NASA HQ management, and team building for the recently funded NEX-GeoAI project. This project is now being recognized as a key step forward to establishing NASA as the ground-truthing agency for federal and private sector GeoAI modeling activities for decision making.\n\nEarth Science Star: Stephen Broccardo\n\nStephen Broccardo is a research scientist in the Earth Science Division with the Bay Area Environmental Research Institute. He is recognized for exceptional initiative and technical leadership in sustaining and advancing Ames’ atmospheric remote-sensing capabilities. Stephen has maintained critical observational capabilities&nbsp; and developed thoughtful technical milestones for future satellite-validation and science activities.",
+        "fullTranslation": "NASA艾姆斯科学理事会（NASA Ames Science Directorate）表彰史蒂夫·奥姆斯比（Steve Ormsby）、阿芙洛狄忒·科斯塔基斯（Aphrodite Kostakis）、亚历杭德罗·博拉夫（Alejandro Borlaff）、萨拉·尼克森（Sarah Nickerson）、玛蒂娜·考西（Martina Caussi）、野村惠子（Keiko Nomura）以及斯蒂芬·布罗卡多（Stephen Broccardo）（图中从左至右）的杰出贡献。他们对NASA使命的奉献，展现了探索这个世界及更广阔领域所需的进取精神、专业技术与协作精神。\n\n空间生物科学之星：史蒂夫·奥姆斯比\n史蒂夫·奥姆斯比是中心运营理事会中受雇于Amentum公司的空间生物科学部项目工程师。他因在监督部门设施安全与基础设施维护方面的坚持、奉献与主动精神，以及作为财产保管员展现出的非凡敬业态度而受到表彰。\n\n空间生物科学之星：阿芙洛狄忒·科斯塔基斯\n阿芙洛狄忒·科斯塔基斯是Amentum公司在空间生物科学部N239大楼的设施服务主管。她因在维护建筑安全方面的模范职业道德、认真细致地准备并带队开展自愿保护计划（VPP）检查，以及提出基础设施改进建议并确保其落地实施以造福大家而受到赞誉。\n\n天体物理学之星：亚历杭德罗·博拉夫\n亚历杭德罗（亚历克斯）·博拉夫（Alejandro (Alex) Borlaff）是湾区环境研究所（Bay Area Environmental Research Institute）派驻天体物理学部的研究科学家。他因在开创和开发哈勃太空望远镜（HST）以及罗曼太空望远镜宽场相机（WFI）图像处理管线方面的领导作用而受到表彰。这些算法通过对包括散射光和黄道光在内的背景污染进行精确建模，显著提升了对极低表面亮度特征的探测能力，从而更好地最大化了从NASA旗舰级天体物理学任务中获取的科学成果。\n\n天体物理学之星：萨拉·尼克森\n萨拉·尼克森是湾区环境研究所派驻天体物理学部的研究科学家，她因在分析和整理NASA同温层红外天文观测台（SOFIA）上EXES仪器所采集的数据方面的卓越工作而受到表彰。这项工作为全球天体物理学界提供了高级数据产品，助力持续的科学发现以及与NASA其他任务的协同效应。\n\n行星科学与地外生物学之星：玛蒂娜·考西\n玛蒂娜·考西是行星科学与地外生物学部的NASA博士后计划研究员。玛蒂娜利用有限元模拟，确定了地形松弛在塑造木卫二（Europa）上形态异常的撞击坑“泰吉德”（Tegid）过程中起到了重要作用，她因这一杰出工作而受到表彰。该工作为即将开展的“欧罗巴快船”（Europa Clipper）任务提供了宝贵的先导科学支撑，该任务将进一步加深我们对这个海洋世界的认知。\n\n地球科学之星：野村惠子\n野村惠子是湾区环境研究所派驻地球科学部NASA地球交流中心（NEX）的研究科学家。她因近期获得资助的NEX-GeoAI项目中展现的及时领导力、利益相关方互动、与NASA总部的管理协调以及团队建设而受到肯定。该项目目前被公认为关键一步，助力将NASA打造为面向联邦机构和私营部门决策所用GeoAI建模活动的地表真实验证（ground-truthing）机构。\n\n地球科学之星：斯蒂芬·布罗卡多\n斯蒂芬·布罗卡多是湾区环境研究所派驻地球科学部的研究科学家。他因在维持和推进艾姆斯大气遥感能力方面展现出的非凡主动性和技术领导力而受到表彰。斯蒂芬保持了关键的观测能力，并为未来的卫星校准与科学活动制定了周密的技术里程碑。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "NASA Ames科学理事会公布了2026年9月的本月之星（Stars of the Month），表彰了7名人员的贡献。",
+          "Steve Ormsby是Amentum在中心运营理事会派驻空间生物科学部的项目工程师，被评为空间生物科学之星。",
+          "来源叙事重点：表彰在空间生物学、天体物理、行星科学与地球科学领域做出卓越贡献的7位科研人员及承包商/合作机构支持人员，强调团队合作、创新进取精神以及对NASA深空探测与地球科学任务的技术支撑价值。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:46:11.000Z",
+            "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/"
+          }
+        ]
+      },
+      {
+        "id": "story-0916-aes-2117919204-html-46139479cfc65f7c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Посол в Турции назвал дату открытия первого реактора АЭС \"Аккую\"",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T00:18:59.000Z",
+        "pubTime": "2026-09-16 08:18",
+        "url": "https://ria.ru/20260916/aes-2117919204.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 08:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/aes-2117919204.html",
+            "publishedAt": "2026-09-16T00:18:59.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-mal-flight-planning-html-3b96ab604d9ab377",
+        "title": "节省航空燃油",
+        "originalTitle": "Saving Jet Fuel",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:17:20.000Z",
+        "pubTime": "2026-09-16 07:17",
+        "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+        "imageUrl": null,
+        "fullContent": "Home | Benchmarks | Categories | Atom Feed\n\nPosted on Wed 16 September 2026 under Solvers\n\nA Boeing 787-9 Dreamliner flying nonstop from Newark Liberty International Airport (EWR) to Leonardo da Vinci-Fiumicino Airport (FCO) could need $68K in jet fuel over the 8.5-hour flight. Adjusting the flight path for wind conditions could reduce fuel consumption and possibly save a few thousand dollars.\n\nFirms like Jeppesen have offerings in this space, but Scikit-decide, together with a narrow- and wide-body fuel consumption model built by a professor at the Delft University of Technology and wind data from NOAA, offer an open source solution.\n\nScikit-decide has been in development for six years. It's a framework for reinforcement learning, automated planning and scheduling. The project can optimise flight paths, re-organise airline workforce schedules and calculate drone swarm paths.\n\nOpenAP is an aircraft performance model and toolkit developed by Dr. Junzi Sun. Dr. Sun has a PhD in air traffic management and, among many other things, teaches a course on the subject as a tenured assistant professor at TU Delft in the Netherlands.\n\nScikit-decide's optimal flight path solver can be configured to use different fuel consumption models. In this post, I'll compare two flight paths flown using the Airbus A320 and OpenAP's fuel consumption model.\n\nI'm using a 5.7 GHz AMD Ryzen 9 9950X CPU. It has 16 cores and 32 threads and 1.2 MB of L1, 16 MB of L2 and 64 MB of L3 cache. It has a liquid cooler attached and is housed in a spacious, full-sized Cooler Master HAF 700 computer case.\n\nThe system has 96 GB of DDR5 RAM clocked at 4,800 MT/s and a 5th-generation, Crucial T700 4 TB NVMe M.2 SSD which can read at speeds up to 12,400 MB/s. There is a heatsink on the SSD to help keep its temperature down. This is my system's C drive.\n\nThe system is powered by a 1,200-watt, fully modular Corsair Power Supply and is sat on an ASRock X870E Nova 90 Motherboard.\n\nI'm running Ubuntu 24 LTS via Microsoft's Ubuntu for Windows on Windows 11 Pro. In case you're wondering why I don't run a Linux-based desktop as my primary work environment, I'm still using an Nvidia GTX 1080 GPU which has better driver support on Windows and ArcGIS Pro only supports Windows natively.\n\nI'll use Python 3.12 along with jq in this post.\n\nI'll set up a Python Virtual Environment and install scikit-decide, along with the OpenAP open aircraft performance model and OpenTop, a flight trajectory toolkit that was also developed by Dr. Sun.\n\nThe above will need at least 8 GB of storage capacity. These are the packages that were installed.\n\nI'll use DuckDB, along with its H3, JSON, Lindel, Parquet and Spatial extensions in this post.\n\nI'll set up DuckDB to load every installed extension each time it launches.\n\nThe maps in this post were rendered with QGIS version 4.2.1. QGIS is a desktop application that runs on Windows, macOS and Linux. The application has grown in popularity in recent years and has ~22M application launches from users all around the world each month.\n\nThe boundaries and place names were sourced from Natural Earth. Maritime Boundaries were sourced from Marine Regions.\n\nI'll first clone the OpenAP repository.\n\nExcluding unit tests and utility scripts, there are 3,369 lines of Python in this package.\n\nOpenAP's model relies on a large number of datasets that are packaged with its codebase. These cover a wide variety of aircraft. Below are the aircraft manufacturer counts.\n\nThese are the properties for the Airbus A380-800.\n\nThese are its drag coefficients.\n\nThese are some additional properties.\n\nThese are the aircraft type synonyms list.\n\nAircraft often have the option of at least two different engines to choose from. There are 427 engines listed in this package's dataset.\n\nThese are the details for the Trent 970-84.\n\nThese are the engine manufacturer counts.\n\nThese are the engine-type counts for Turbofan (TF), Mixed-flow Turbofan (MTF), Turboprop (TP) and Piston (PS) engines in this dataset.\n\nThis is the engine list ranked by their maximum thrust.\n\nThese are the fuel model defaults and overrides.\n\nThere are almost 14K airport locations and codes shipped with this package.\n\nThese airports are located across 236 different countries.\n\nThese are the most represented countries in the airports dataset.\n\nBelow, I'll find an optimal flight path from Toulouse-Blagnac Airport (LFBO / TLS) to Berlin Brandenburg Airport (EDDB / BER).\n\nThe heuristic parameter can be either \"time\", \"distance\", \"lazy_fuel\", \"lazy_time\", or None. If nothing is passed, A* will use a Dijkstra-like search algorithm.\n\nWhen the above runs, if weather data hasn't been fetched from NOAA and if the date of the flight is within the past six months, GRB2 files will be downloaded.\n\nEach file has data covering the entire planet. These are the contents of gfs_4_20260501_1800_000.grb2 rendered on a globe in QGIS.\n\nThis is the solver's altitude and geographical search space.\n\nThis is the optimal flight path according to the solver.\n\nI'll format each of the flight plan's steps so they're easier to read.\n\nI'll export the flight plan to Parquet and render it on top of the ground-level wind data in QGIS.\n\nBelow, I'll find an optimal flight path from Toulouse-Blagnac Airport (LFBO / TLS) to Warsaw Chopin Airport (EPWA / WAW).\n\nThe initial target altitude will be much higher than in the previous example. The result is a flight that is able to take a much more direct route.\n\nWarsaw is 500 KM further away from Toulouse than Berlin. But the faster climb to cruising altitude under the given wind conditions meant the aircraft could take a more direct route. It made it to Warsaw almost 45 minutes faster and only needed 76% of the fuel that the Berlin flight needed.\n\nThese are the steps in the above flight plan.\n\nOpenTop can be paired with OpenAP and used to figure out flight trajectories between two airports.\n\nIts optimiser requires a grid cost file. I'll first download an example 142 MB NetCDF file provided by the project.\n\nThe cost file can be either in Casadi or Parquet format. I worked from an example in its documentation, which produced a 246 KB Casadi file.\n\nThese are the first and last few bytes of its contents.\n\nI noticed the contents are repetitive and compress well.\n\nI'll get the metrics of an optimal flight between Amsterdam's Schiphol (EHAM / AMS) and Frankfurt (EDDF / FRA) on an Airbus A320.\n\nI'll then do the same using a Boeing 737.\n\nCopyright © 2014 - 2026 Mark Litwintschik. This site's template is based off a template by Giulio Fidente.",
+        "fullTranslation": "首页 | 基准测试 | 分类 | Atom 订阅源\n发布于 2026 年 9 月 16 日星期三，分类：求解器（Solvers）\n\n一架波音 787-9 梦想客机从纽瓦克自由国际机场（EWR）直飞罗马菲乌米奇诺机场（FCO），在长达 8.5 小时的航程中可能需要耗费 6.8 万美元的航空燃油。根据风况调整飞行航线可以降低燃油消耗，并可能节省数千美元。\n\n像杰普逊（Jeppesen）这样的公司在这一领域提供了成熟方案，但 Scikit-decide 结合代尔夫特理工大学一位教授构建的窄体和宽体客机油耗模型，以及来自美国国家海洋和大气管理局（NOAA）的风力数据，提供了一种开源解决方案。\n\nScikit-decide 已经开发了六年。它是一个用于强化学习、自动化规划与调度的框架。该项目能够优化航线、重组航空公司员工排班表，并计算无人机集群飞行路径。\n\nOpenAP 是由孙俊子博士（Dr. Junzi Sun）开发的飞机性能模型和工具包。孙博士拥有空中交通管理博士学位，作为荷兰代尔夫特理工大学（TU Delft）的终身助理教授，他在众多学术活动中还教授该领域的课程。\n\nScikit-decide 的最优航线求解器可以配置使用不同的燃油消耗模型。在这篇博文中，我将对比空客 A320 使用 OpenAP 油耗模型飞行的两条航线。\n\n我使用的是一颗主频 5.7 GHz 的 AMD 锐龙 9 9950X CPU。它拥有 16 个核心、32 个线程，以及 1.2 MB 一级缓存、16 MB 二级缓存和 64 MB 三级缓存。它配有一体式水冷散热器，并装在宽敞的全塔式酷冷至尊 HAF 700 电脑机箱中。\n\n该系统拥有 96 GB DDR5 内存，运行频率为 4,800 MT/s，并配备了一块 PCIe 5.0 4 TB Crucial T700 NVMe M.2 固态硬盘，其读取速度最高可达 12,400 MB/s。SSD 上装有散热片以降低温度。这是我系统的 C 盘。\n\n系统由额定功率 1,200 瓦的海盗船全模组电源供电，安装在华擎 X870E Nova 90 主板上。\n\n我在 Windows 11 专业版上通过微软的 Ubuntu for Windows 运行 Ubuntu 24 LTS。如果你好奇我为什么不直接使用基于 Linux 的桌面作为主力工作环境，原因是我仍在使用一张英伟达 GTX 1080 显卡，它在 Windows 下有更好的驱动支持，而且 ArcGIS Pro 仅原生支持 Windows。\n\n在本文中我将使用 Python 3.12 以及 jq。\n\n我将配置一个 Python 虚拟环境，并安装 scikit-decide，连同 OpenAP 开源飞机性能模型以及 OpenTop（这也是孙博士开发的一款飞行轨迹工具包）。\n\n上述环境需要至少 8 GB 的存储容量。以下是已安装的软件包。\n\n在本文中我将使用 DuckDB，以及它的 H3、JSON、Lindel、Parquet 和 Spatial 扩展插件。\n\n我将配置 DuckDB 在每次启动时自动加载所有已安装的扩展插件。\n\n本文中的地图均使用 QGIS 4.2.1 版本渲染。QGIS 是一款运行在 Windows、macOS 和 Linux 上的桌面应用程序。该应用近年来广受欢迎，每月全球用户的启动次数约为 2200 万次。\n\n边界和地名数据来自 Natural Earth。海洋边界数据来自 Marine Regions。\n\n我首先克隆 OpenAP 代码仓库。\n\n排除单元测试和实用脚本后，该软件包包含 3,369 行 Python 代码。\n\nOpenAP 的模型依赖其代码库中打包的大量数据集。这些数据集涵盖了种类繁多的机型。以下是飞机制造商的数量统计。\n\n这些是空客 A380-800 的性能参数。\n\n这些是它的阻力系数。\n\n这些是一些附加属性。\n\n这些是机型同义词/代号列表。\n\n飞机通常至少有两种不同的发动机可供选择。该软件包的数据集中列出了 427 种发动机。\n\n这些是遄达 970-84（Trent 970-84）发动机的详细信息。\n\n这些是发动机制造商的数量统计。\n\n这些是该数据集中涡轮风扇（TF）、混流涡轮风扇（MTF）、涡轮螺旋桨（TP）和活塞（PS）发动机类型的数量统计。\n\n这是按最大推力排名的发动机列表。\n\n这些是燃油模型的默认值和重载设置。\n\n该软件包附带了近 1.4 万个机场的位置和代码。\n\n这些机场分布在 236 个不同的国家和地区。\n\n这些是机场数据集中收录数量最多的国家。\n\n下面，我将寻找从图卢兹-布拉尼亚克机场（LFBO / TLS）到柏林勃兰登堡机场（EDDB / BER）的最优航线。\n\n启发式参数（heuristic）可以是 \"time\"、\"distance\"、\"lazy_fuel\"、\"lazy_time\" 或 None。如果未传递任何参数，A* 将使用类似 Dijkstra 的搜索算法。\n\n当上述代码运行时，如果尚未从 NOAA 获取气象数据，且航班日期在过去六个月内，程序将自动下载 GRIB2（GRB2）文件。\n\n每个文件包含的数据都覆盖全球。这些是在 QGIS 地球仪视图中渲染的 gfs_4_20260501_1800_000.grb2 文件内容。\n\n这是求解器的高度和地理搜索空间。\n\n这是求解器计算出的最优飞行航线。\n\n我将对飞行计划的每一步进行格式化，以便更容易阅读。\n\n我将飞行计划导出为 Parquet 格式，并在 QGIS 中将其叠加在地面风力数据之上进行渲染。\n\n下面，我将寻找从图卢兹-布拉尼亚克机场（LFBO / TLS）到华沙肖邦机场（EPWA / WAW）的最优航线。\n\n初始目标高度将比上一个示例高得多。结果表明，该航班能够采取更为笔直的航线。\n\n华沙距图卢兹比柏林远 500 公里。但在特定风况下更快爬升至巡航高度意味着飞机可以采取更直接的路径。到达华沙的时间比飞柏林快了近 45 分钟，且仅消耗了柏林航线所需燃油的 76%。\n\n这些是上述飞行计划中的具体步骤。\n\nOpenTop 可以与 OpenAP 配合使用，用来计算两个机场之间的飞行轨迹。\n\n其优化器需要一个网格成本文件。我首先下载该项目提供的一个 142 MB 的 NetCDF 示例文件。\n\n成本文件可以是 Casadi 或 Parquet 格式。我根据其文档中的示例进行操作，生成了一个 246 KB 的 Casadi 文件。\n\n这些是其内容的前几个和后几个字节。\n\n我发现其内容重复度很高，压缩比非常出色。\n\n我将获取空客 A320 在阿姆斯特丹史基浦机场（EHAM / AMS）与法兰克福机场（EDDF / FRA）之间最优飞行的各项指标。\n\n然后我将使用波音 737 进行相同的计算。\n\n版权所有 © 2014 - 2026 Mark Litwintschik。本站模板基于 Giulio Fidente 的模板构建。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 54,
+        "translationParagraphs": 53,
+        "keyTakeaways": [
+          "波音 787-9 梦想飞机从纽瓦克自由国际机场飞往罗马菲乌米奇诺机场的 8.5 小时直飞航班，可能需要消耗价值 6.8 万美元的航空燃油。",
+          "Scikit-decide 已开发了六年，是一个用于强化学习、自动化规划与调度的开源框架。",
+          "来源叙事重点：聚焦于利用开源技术栈（Scikit-decide 强化学习与调度框架、OpenAP 飞机性能模型及 NOAA 气象数据）替代传统商业方案（如 Jeppesen），展示如何通过结合风况与飞行爬升策略进行航线优化，从而降低商业航班燃油消耗与飞行时间。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T23:17:20.000Z",
+            "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html"
+          }
+        ]
+      },
+      {
+        "id": "story-gh-denial-rates-db87d902-075a5bb07b14e5d7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T23:09:00.000Z",
+        "pubTime": "2026-09-16 07:09",
+        "url": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A pilot program using artificial intelligence to approve care for Medicare beneficiaries has resulted in high levels of denials and delayed decisions and prompted warnings from a vendor about a lack of readiness, according to a lawsuit seeking information about the program.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 07:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-15T23:09:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-risk-research-suggests-b1707ab8781b64ac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Air pollution linked to higher suicide risk, international research suggests",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-15T21:30:01.000Z",
+        "pubTime": "2026-09-16 05:30",
+        "url": "https://www.theguardian.com/environment/2026/sep/15/air-pollution-linked-to-higher-suicide-risk-research-suggests",
+        "imageUrl": "https://i.guim.co.uk/img/media/419f9e3a0e1be81c44171ccd8d552486224f5a18/498_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=ada9cc940dabde3a06abf04a646b2571",
+        "fullContent": "Analysis of 29 studies highlights potentially heightened danger from small particulate matter and nitrogen dioxide\n\nAir pollution is associated with an increased risk of suicide and suicidal thoughts, according to research.\n\nEnvironmental pollution is known to be associated with poorer mental health but its role in suicide risk is less well understood. Scientists at Queen’s University Belfast examined whether air, noise, light, and water pollution could influence the risk of death by suicide and suicidal behaviours.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "一项对29项研究的分析表明，细颗粒物和二氧化氮可能带来潜在升高的自杀危险。",
+          "研究指出，空气污染与自杀及自杀意念风险的增加存在关联。",
+          "来源叙事重点：聚焦贝尔法斯特女王大学对29项研究的系统分析，突出空气污染（特别是细颗粒物与二氧化氮）与自杀风险及自杀意念之间的相关性，呼吁关注环境因素对极端心理健康问题的潜在危害"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-15T21:30:01.000Z",
+            "url": "https://www.theguardian.com/environment/2026/sep/15/air-pollution-linked-to-higher-suicide-risk-research-suggests"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789508057843,
     "timeDisplay": "2026-09-16 05:34 (UTC+8)",
     "date": "2026-09-16",

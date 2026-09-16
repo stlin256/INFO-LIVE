@@ -27,14 +27,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **38** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **39** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-16 05:34 (UTC+8)
+- **最新归档时间**：2026-09-16 08:30 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-16 08:30 (UTC+8)" title="全球要闻情报简报 · 08:30" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-16 08:28 (UTC+8) 完成，共获得 37 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】英伟达黄仁勋表示：我们不需要人工智能监管——把安全问题交给我们：周二，英伟达创始人兼首席执行官黄仁勋在Salesforce主办的Dreamforce科技大会上发表演讲，十分明确地阐述了他对人工智能（AI）所带来危险的立场。在他看来，AI绝非像至少一位OpenAI安全研究人员所形容的那样，是某种新型的“外星心智”。他表示，它只不过是由人类构建的硬件和软件。这意味着在他眼中，它完全可以被人类以及现有法律所约束。；【undefined】特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者：周二，一名民主党中坚力量在特拉华州轻松赢得初选，其中包括击退了一名带有反特朗普名字的对手。；【undefined】各项民调显示人工智能与数据中心极不受欢迎：该主题的相关文章将被添加到您的每日电子邮件文摘和主页信息流中。；外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】节省航空燃油：首页 | 基准测试 | 分类 | Atom 订阅源 发布于 2026 年 9 月 16 日星期三，分类：求解器（Solvers）；【undefined】天主教家庭因性别议题失去监护权 爱国者队跑卫亨德森谴责政府越权：新英格兰爱国者队跑卫特雷维昂·亨德森（TreVeyon Henderson）谴责了马萨诸塞州当局，此前一户天主教家庭因拒绝支持其十几岁女儿的性别转变而失去了对她的法定监护权。他援引圣经经文辩称，政府机构正在侵犯基本父母权利。；【undefined】中央气象台：重庆湖北等地局地有暴雨：中新网9月16日电 据中央气象台网站消息，昨日，四川、重庆等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注对农业生产、交通运输、工程建设等的影响；海南、广西等地前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。；【undefined】肯尼迪中心董事会决定立即关闭该中心 特朗普发声：中新网9月16日电 据美国全国公共广播电台(NPR)报道，美国肯尼迪表演艺术中心董事会当地时间15日投票决定立即关闭该中心进行翻修。投票前不久，一名联邦法官发布命令，驳回肯尼迪中心董事会将美国总统特朗普的名字再次添加到中心大楼外墙上的提议。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/obvinenie-2117919388.html) <span class="news-meta-time">🕒 2026-09-16 08:21</span>
+- [TechCrunch (硅谷创业与资本)] [英伟达黄仁勋表示：我们不需要人工智能监管——把安全问题交给我们](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/) <span class="news-meta-time">🕒 2026-09-16 08:20</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html) <span class="news-meta-time">🕒 2026-09-16 08:00</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/16/britons-leaving-workplace-unpaid-carers) <span class="news-meta-time">🕒 2026-09-16 07:01</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-greyhound-dogs-fine.html) <span class="news-meta-time">🕒 2026-09-16 08:00</span>
+- [FOX News Latest (美国FOX快讯)] [特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者](https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary) <span class="news-meta-time">🕒 2026-09-16 08:19</span>
+:::
 :::timeline-item{start="2026-09-16 05:34 (UTC+8)" title="全球要闻情报简报 · 05:34" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-16 05:32 (UTC+8) 完成，共获得 33 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 

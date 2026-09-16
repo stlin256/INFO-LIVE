@@ -16,194 +16,395 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-world-2188113-9b9d3407b2fe278b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="253" data-content-paragraphs="3" data-published-at="2026-09-15T21:27:36.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:27</span>
-</div>
-
-### [媒体：特朗普在2024年大选后身家激增27亿美元](https://tass.com/world/2188113)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump became $2.7 bln richer after 2024 election — media</div>
-
-<div class="article-body" data-article-body="true"><p>塔斯社纽约9月16日电 据《福布斯》杂志报道，美国总统唐纳德·特朗普目前的净资产为70亿美元，据估计比他在赢得2024年大选时增加了27亿美元。</p>
-<p>该杂志称，特朗普通过加密货币投资项目和海外交易大赚了一笔。《福布斯》指出：“美国历史上从未有人通过政治赚到这么多钱。”</p>
-<p>《华盛顿邮报》今年7月曾报道称，特朗普财富的增长规模对历任美国总统而言是史无前例的。随后在接受CNBC采访时，特朗普否认了其财富增长与其担任美国总统之间存在任何关联。他表示：“我从不插手任何与我的生意有关的事情。都是我的孩子们在经营。”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>据《福布斯》报道，美国总统唐纳德·特朗普目前身价为70亿美元，估计比他赢得2024年大选时增加了27亿美元。</li>
-    <li>《福布斯》报道称，特朗普通过加密货币投资和海外交易获利，并指出“美国历史上没有人通过政治赚过这么多钱”。</li>
-    <li>来源叙事重点：聚焦特朗普在2024年胜选后身价大幅飙升，重点援引西方财经媒体对其涉足加密货币、海外交易及‘利用政治牟利’的指控，同时简要补充特朗普本人的否认声明以维持报道形式上的平衡。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#TASS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://tass.com/world/2188113" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-cial-intelligence-ntwnfb-72f7a4cee2184e77" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="368" data-content-paragraphs="1" data-published-at="2026-09-15T21:17:02.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:17</span>
-</div>
-
-### [澳大利亚政坛动态直播：兰比将“危险的”汉森比作特朗普；新南威尔士州一国党党魁希望“阻止”堕胎](https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Australian politics live: Lambie compares ‘dangerous’ Hanson to Trump; NSW One Nation leader wants abortion ‘stopped’</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/a7a279c70064ed929102d387cef390b5db3c1bd9/669_0_6690_5352/master/6690.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8fd704a4ef159cababc9c122d4e3d939" alt="澳大利亚政坛动态直播：兰比将“危险的”汉森比作特朗普；新南威尔士州一国党党魁希望“阻止”堕胎" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>实时追踪当日新闻<br />订阅我们的全新政治电邮简报、免费应用程序或每日新闻播客<br />早上好，我是克里沙尼·丹吉（Krishani Dhanji），感谢马丁·法勒（Martin Farrer）为我们开启今日报道。<br />一国党（One Nation）今天将继续主导议会各处的热议话题；如果您还没读过，不妨阅读一下我的同事萨拉·马丁（Sarah Martin）关于宝琳·汉森（Pauline Hanson）之女在未经部长批准的情况下远程办公的报道。<br />在BetStop登记的人员已作出明确决定，将自己排除在网络博彩之外。博彩服务提供商必须尊重该决定，及时注销其账户，并确保他们不会成为博彩促销的目标对象。<br />BetStop是一项重要的消费者保护措施，但前提是博彩公司遵守相关规则。对于未能履行其义务的博彩提供商，澳大利亚通信与媒体管理局（Acma）将采取行动。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian (英国卫报官方英文)】于 2026-09-16 05:17 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-s-articles-c3vgyn49y4l7o-10372e66d638a672" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2830" data-content-paragraphs="4" data-published-at="2026-09-15T21:07:13.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
-    <span class="stance-badge">英伦主流建制</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:07</span>
-</div>
-
-### [麦克勒莫被除名后，艾德·希兰美国巡演全部助阵嘉宾退出](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss)
-<div class="original-title-sub"><span class="orig-tag">原文</span> All support acts on Ed Sheeran&#39;s US tour quit after Macklemore dropped</div>
-
-<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg" alt="麦克勒莫被除名后，艾德·希兰美国巡演全部助阵嘉宾退出" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>艾德·希兰（Ed Sheeran）周二发表声明表示，将麦克勒莫（Macklemore）从其即将举行的美国巡演场次中除名是主办方的决定。<br />在说唱歌手麦克勒莫因在舞台上发表支持巴勒斯坦的言论而被从演出阵容中除名后，艾德·希兰美国巡演的所有剩余助阵嘉宾均已退出。<br />其中包括流行歌星比莉·艾利什（Billie Eilish）的哥哥芬尼亚斯（Finneas），他在一份声明中表示：“当艺术家为受压迫者发声时，绝不能让他们被噤声。”<br />爱尔兰创作歌手艾伦·罗威（Aaron Rowe）和丹麦乐队卢卡斯·格拉汉姆（Lukas Graham）也宣布退出。每晚与希兰同台演出的爱尔兰民谣乐队Beoga也同样退出了巡演。<br />这些声明发布前数小时，希兰曾表示自己不会卷入关于加沙的公众辩论，并强调麦克勒莫被移出巡演阵容并非由他负责。<br />“麦克勒莫离开巡演是主办方的决定，不是我的决定，”希兰在Instagram上说。<br />“我绝不会让已经做好计划的歌迷失望，也不会抛弃巡演团队以及其他依赖我工作和谋生的助阵嘉宾及音乐人。”<br />本月早些时候，麦克勒莫——原名本杰明·哈格蒂（Benjamin Haggerty）——在新泽西州的两场演唱会期间呼吁“解放巴勒斯坦”，并展示了加沙遭受破坏的画面。<br />他的言论引发了犹太团体的批评，随后一些演出场馆向巡演主办方施压，要求将其从巡演中除名。<br />希兰在其声明中表示，他“整周都在与各场馆进行长时间沟通，试图搭建沟通的桥梁”——但主办方墨西拿巡演集团（Messina Touring Group）最终还是终止了其演出安排。<br />麦克勒莫在周一的声明中表示，照片中拍摄于2014年的艾德·希兰与麦克勒莫已有13年的友谊。<br />尽管这位明星表示自己对“以色列和巴勒斯坦之间的冲突深感震惊”，并称“双方遭受的苦难和痛苦是一场人类悲剧”，但他同时也试图解释自己与政治问题保持距离的决定。<br />“我并非同谋，”他写道。“对于这场毁灭性的冲突，我有我个人的看法。仅仅因为我选择不在公开场合发声，并不意味着我没有这些看法，也不意味着我不在乎。<br />“这也不意味着我没有以我自己的、私人的方式去支持这些事业。”<br />他继续说道：“我不在我的专业平台谈论政治是有原因的——我的受众包括来自各种背景的年轻人，往往还有儿童。<br />“来到我演唱会现场的人并不是为了看一场政治论坛。我尊重麦克勒莫为自己所坚信的事物挺身而出并大声呼吁的坚定决心。<br />“然而，要达到同一个目标——和平，可以有多种途径。<br />“我选择利用我的知名度和平台来营造一个安全和庇护的场所，保持外交斡旋，让对话保持开放而不是关闭。如果我们只专注于谁喊得最响，那就永远不会改变任何事情。倡导变革有不同的途径。”<br />希兰补充说，“就像我所有的助阵嘉宾一样”，麦克勒莫此前一直被允许自行挑选曲目单。<br />如果该声明旨在安抚他的歌迷和巡演阵容中的其他艺术家，那么它似乎起到了相反的效果。<br />卢卡斯·格拉汉姆在Instagram上写道：“我们应该能够谈论战争、谈论被杀害的平民、谈论理应长大的孩子们。无论他们住在哪里，无论他们头顶飘扬着什么旗帜。”<br />罗威今年早些时候曾担任巡演澳大利亚站的开场嘉宾，并在6月重新作为美国站的助阵嘉宾，他表示自己“做出（退出的）决定并非轻率之举”，并补充道：“艾德一直是我的朋友，改变了我的生活，我对他的感激无以言表。”<br />这场争议始于9月4日，当时麦克勒莫在艾德·希兰于新泽西州大都会人寿体育场（MetLife Stadium）举行的演唱会上演出。<br />他向观众说道：“我最初想参加这次巡演的很大一部分原因，就是为了能站在像这样的体育场里，说出两个在我心中非常非常珍贵的词：解放巴勒斯坦。”<br />随后，他演唱了歌曲《欣德的大厅》（Hind&#39;s Hall），这首歌献给哥伦比亚大学支持巴勒斯坦的抗议者，并谴责了以色列在加沙的军事行动，大屏幕上同时播放了加沙遭受破坏的视频画面。<br />现场部分观众欢呼雀跃——但网络上几乎立刻就出现了批评声。<br />以色列美籍人士理事会（Israeli American Council）发起请愿，要求将其移出巡演阵容；倡导团体“阻止反犹太主义”（StopAntisemitism）则表示，这位音乐人用宣传文宣对歌迷进行了突袭式灌输——流行歌星粉红佳人（Pink）在Instagram上转发了这一说法，使之进一步发酵。<br />第二天晚上，麦克勒莫重返同一舞台，直接对台下的“犹太兄弟姐妹”发表讲话。<br />“对以色列的批评、对种族隔离的批评、反对种族灭绝，绝非是对你们的批评，”他说，并补充说他希望加沙和约旦河西岸的人们知道他们没有被遗忘。<br />以色列否认有关种族灭绝的指控。以方表示，其部队在加沙和被占领的约旦河西岸开展的行动是符合国际法的自卫行动。<br />2023年10月7日，哈马斯对以色列南部发动了前所未有的袭击，造成约1200人死亡，251人被扣为人质；以色列军方随后在加沙发起军事行动以作为回应。<br />据该地区由哈马斯运营的卫生部门称，在以色列于加沙开展军事行动期间，已有超过73780人丧生，联合国认为该部门的数据是可靠的。<br />经过数天的媒体报道后，麦克勒莫于周一宣布自己已被从阵容中除名。<br />在Instagram上的一份声明中，他表示这场抵制是由马萨诸塞州吉列体育场（Gillette Stadium）的亿万富翁老板罗伯特·克拉夫特（Robert Kraft）组织的。<br />曾聘请艾德·希兰在其婚礼上表演的克拉夫特证实，他做出了禁止麦克勒莫演出的决定，称其场馆不会“为仇恨言论提供平台”，并指责该说唱歌手“有着更广泛的反犹太主义言论史”。<br />“我同意麦克勒莫的看法，逝去的生命太多了，苦难也太深了，但只选择性地分享信息而无视哈马斯的行径是不诚实的，只会加剧更多的分裂和仇恨，”克拉夫特说。<br />然而，他并未就关于他曾要求其他场馆向巡演施压的说法作出回应。<br />巡演主办方墨西拿巡演集团告诉《滚石》（Rolling Stone）杂志，场馆方面已告知他们将不允许麦克勒莫演出，“这将导致巡演被取消，并影响数十万歌迷”。<br />周二晚上宣布退出的许多艺人表示，克拉夫特的介入影响了他们的决定。<br />“金钱并不赋予你掌控话语权的权利，”卢卡斯·格拉汉姆表示。<br />“任何人的银行存款余额都不应该决定谁能发言，或者允许我们承认哪种苦难。”<br />麦克勒莫在声明中表示，他对希兰所处的两难境地深表同情，但批评这位英国歌手没有表明立场。</p>
-<p>“选边站队会让你付出代价。金钱、品牌代言、赞助、音乐节演出、私人堂会、人际关系和各种门路。我已经失去了所有这些。但在压迫者与被压迫者之间，不存在中立的立场，”他写道。</p>
-<p>他还强调，尽管他只完成了巡演中的两场演出，但如果他的话成功地“将话题拉回巴勒斯坦，那么这就是我参加过的最成功的一次巡演”。</p>
-<p>麦可莫在发表“自由巴勒斯坦”言论后被移出艾德·希兰巡演阵容<br />麦可莫表示呼吁“自由巴勒斯坦”并非针对犹太群体的攻击<br />美国说唱歌手麦可莫因苏丹战争取消迪拜演出</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【BBC World (英国BBC官方英文)】于 2026-09-16 05:07 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#BBC</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-world-2188111-ff213bb235ca96c5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="280" data-content-paragraphs="3" data-published-at="2026-09-15T21:04:47.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:04</span>
-</div>
-
-### [德国选择党寻求与俄罗斯关系全面正常化——《图片报》](https://tass.com/world/2188111)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AfD seeks full normalization of relations with Russia — Bild</div>
-
-<div class="article-body" data-article-body="true"><p>柏林，9月15日。/塔斯社/。《图片报》援引消息人士报道，德国选择党（AfD）打算寻求与俄罗斯实现关系全面正常化，并恢复双边贸易。</p>
-<p>该党的外交政策工作组已通过了一份关于俄罗斯的政策文件，并计划于本月敲定一份关于美国的文件。德国选择党寻求恢复与俄罗斯的贸易以及对俄石油和天然气的采购，改善双边关系，并终止对乌克兰的军事援助。</p>
-<p>德国联邦议院德国选择党议员马库斯·弗罗恩迈尔（Markus Frohnmaier）表示，该小组一致支持基于德国国家利益的外交政策。该党还欢迎美国总统唐纳德·特朗普治下“美国外交政策的重新调整”，以及他摆脱“以往的全球干预主义政策”。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-16 05:04 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TASS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://tass.com/world/2188111" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--tour-free-palestine-cry-f14c7c852f4cb543" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1507" data-content-paragraphs="18" data-published-at="2026-09-15T21:00:41.000Z" data-time-source="publication">
+<div id="story-o-trump-delaware-primary-077a8f6c0007b5e6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1037" data-content-paragraphs="15" data-published-at="2026-09-16T00:19:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
+    <span class="dimension-pill">🛡️ 军事防务安全</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:00</span>
+  <span class="news-meta-time">🕒 2026-09-16 08:19</span>
 </div>
 
-### [迈克尔·拉帕波特对麦克莫尔被踢出艾德·希兰巡演表示欢呼，破口大骂“去你的”](https://www.foxnews.com/media/michael-rapaport-cheers-macklemore-dropped-ed-sheeran-tour-free-palestine-cry)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Michael Rapaport cheers Macklemore getting dropped from Ed Sheeran&#39;s tour, says &#39;f--- you&#39;</div>
+### [特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者](https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Dem senator defeats challenger named &#39;No-Trump&#39; in Delaware primary</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/macklemore-concert.jpg?ve=1&amp;tl=1" alt="迈克尔·拉帕波特对麦克莫尔被踢出艾德·希兰巡演表示欢呼，破口大骂“去你的”" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/american-lawmakers-denmark-greenland-january-2026.jpg?ve=1&amp;tl=1" alt="特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>周一，演员迈克尔·拉帕波特（Michael Rapaport）对歌手麦克莫尔（Macklemore）被踢出艾德·希兰（Ed Sheeran）巡演表示庆祝，此前麦克莫尔在作为开场嘉宾时，反复高呼“解放巴勒斯坦”，并演唱了他的反以色列歌曲《欣德大厅》（Hind’s Hall）。</p>
-<p>“麦克莫尔别再唱说唱了，你被踢出巡演了。这句押韵比你在那可笑的非说唱歌手生涯中所创作的任何东西都要强，”拉帕波特在X平台上的一段视频中说道。</p>
-<p>“反犹‘说唱歌手’麦克莫尔被艾德·希兰的巡演踢出去了，”他补充道。“现在你可以回到你位于华盛顿州被偷来土地上的家里，去学一门乐器了。去上上舞蹈课，上上唱歌课。去学学怎么弹钢琴。因为当人们来看音乐演出时，你需要表演音乐，而不是去散布关于假种族灭绝、假占领和假种族隔离的胡扯谎言。去你的，听懂了吗？”</p>
-<p>麦克莫尔在因亲巴勒斯坦立场被踢出艾德·希兰巡演后变本加厉</p>
-<p>“你现在有的是时间。我要你和你们那些喊着‘解放巴勒斯坦’的怂包混蛋们回去看看10月7日的一些视频。听懂了吗，混蛋？麦克莫尔，你这个既不会唱歌又不会跳舞的扯淡艺人，还有你们剩下的那帮推销‘解放巴勒斯坦’宣传的混蛋。哦是吗？新年快乐（犹太新年祝词，L&#39;shana Tova）！”拉帕波特总结道。</p>
-<p>福克斯新闻数字频道（Fox News Digital）联系了麦克莫尔的代表以征求评论，但未立即收到回应。</p>
-<p>在此之前，该说唱歌手在一则视频中发表演讲，为其利用舞台传递政治信息的做法辩护，拉帕波特随后对其发起了抨击。</p>
-<p>麦克莫尔在社交媒体上分享的一段视频中说道：“我当初之所以想参加这次巡演，很大一部分原因就是为了能够站上这样的体育场，大声说出两个深深烙印在我心中的词：解放巴勒斯坦。”</p>
-<p>P!nk因批评麦克莫尔在演唱会上的亲巴勒斯坦言论遭反弹后进行反击</p>
-<p>“我说过，‘解放巴勒斯坦！’我希望这些话能响亮且清晰地传递出去，以便从加沙一路到被占领的约旦河西岸的人们都能知道，我们没有忘记他们，”他继续说道。</p>
-<p>“想象一下，你去买票看艾德·希兰，而这个毫无才华、不会唱、不会rap、不会跳的小丑麦克莫尔作为开场嘉宾，而且因为他根本没有任何真本领或特定技能，他就到处瞎蹦跶，大肆宣扬加沙一场从未发生过的种族灭绝，”拉帕波特写道，并补充说，“这真是一场噩梦。”</p>
-<p>拉帕波特是犹太人，经常公开为以色列辩护。他在克雷格·卡顿（Craig Carton）的新OutKick节目《克雷格·卡顿秀》（The Craig Carton Show）中表示，他的亲以色列立场在2026年对他而言成了一个“麻烦”。</p>
-<p>“不，这——是的，事业方面一直是个问题，”拉帕波特说。“确实成了个麻烦。演出正在遭到抵制。太糟糕了。这让谁都觉得不舒服。这让俱乐部不舒服，也让其他喜剧演员感到不自在。”</p>
-<p>比尔·马赫痛批麦克莫尔在加沙问题上的立场，称名人的“道德困惑”正在助长反犹主义</p>
-<p>他补充说，自己在纽约市因其立场遭到言语攻击和威胁。</p>
-<p>“反犹太主义、反犹太人的言论，”拉帕波特说。“这刺痛了我，让我感到难堪，我不希望我身后的任何其他犹太人感到不舒服、害怕或犹豫去反抗、站出来并为此感到骄傲，无论他们以何种方式。”</p>
-<p>然而，包括极左翼Twitch主播哈桑·皮克（Hasan Piker）在内的几位知名人士批评了将麦克莫尔踢出巡演的决定。</p>
-<p>“这完全是一个被比比（内塔尼亚胡）表彰过的极端锡安主义特朗普支持者的荒谬立场，他因打击以色列的批评者而获奖。很显然，我们的亿万富翁们将他们情感寄托的种族隔离国家及其种族灭绝置于言论自由之上。我们绝不能让这种事情发生，”皮克周一在X上写道。</p></div>
+<div class="article-body" data-article-body="true"><p>周二，一名民主党中坚力量在特拉华州轻松赢得初选，其中包括击退了一名带有反特朗普名字的对手。</p>
+<p>特拉华州民主党籍参议员克里斯·库恩斯（Chris Coons）轻松抵挡住了少数几位初选挑战者的攻势，锁定了参议院候选人的民主党提名，他在定于11月举行的大选中争取第三个任期并有望获胜。在此过程中，他击败了一名名字不同寻常的对手：E·不要特朗普·汉森（E. No-Trump Hansen）。</p>
+<p>汉森原名埃里克·汉森（Eric Hansen），曾是一名企业高管，他的竞选纲领以限制总统权力为核心。针对唐纳德·特朗普总统“最恶劣的冲动”，他提出的解决方案是通过立法来限制总统权力，以“恢复真正的制衡机制，并根除腐败与自私自利”。</p>
+<p>吵闹的初选季在深蓝重镇迎来终章，正式拉开通往11月决选的冲刺序幕</p>
+<p>他的竞选网站上写道：“‘E·（埃里克）·不要特朗普·汉森’这个名字绝非噱头——这是他对积极变革的全心承诺。”</p>
+<p>汉森在接受当地媒体WHYY采访时表示，他改名是为了表达对特朗普的反对。</p>
+<p>汉森说：“特朗普曾表示，他会动用一切手段打击他的批评者。他会盯上我，但我无论如何都愿意承担这一风险——因为另一种选择就是任由特拉华州人民的境况继续恶化。”</p>
+<p>麦康奈尔在缺席数月后重返参议院参加关键表决</p>
+<p>向联邦选举委员会（FEC）提交的候选人声明显示，汉森自7月起正式以新名字展开竞选活动。此前，汉森曾于2024年作为共和党人参选并赢得共和党提名。</p>
+<p>他最终败给了特拉华州民主党籍参议员丽莎·布朗特-罗切斯特（Lisa Blunt-Rochester）。</p>
+<p>与此同时，库恩斯击败汉森、杰夫·阿佩尔汉斯（Jeff Appelhans）和玛丽·卢夫（Mary Louve）后，将在11月迎战迈克·卡茨（Mike Katz）或约翰·舒利（John Shulli）中的一人。</p>
+<p>随着斥巨资的得克萨斯攻势打开资金阀门，共和党援军赶来支援肯·帕克斯顿</p>
+<p>作为参议院国防拨款小组委员会的民主党领头人，历史站在了库恩斯这一边。这位议员最初进入国会是为了接替时任参议员乔·拜登，后者当时被前总统巴拉克·奥巴马选为其竞选搭档。</p>
+<p>他在2014年赢得了首个完整任期，自那以后一直牢牢占据该职位。自1966年前参议员J·卡莱布·博格斯（J. Caleb Boggs）连任失败以来，这个“第一州”就再也没有向参议院输送过共和党人。</p>
+<p>当年，博格斯被年仅29岁的拜登赶下了台，从而奠定了特拉华州在未来数十年作为深蓝重镇的地位。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-16 05:00 发布，当前内容状态：已取得正文证据</li>
+    <li>民主党参议员克里斯·库恩斯（Chris Coons）在特拉华州初选中获胜，赢得该州参议员民主党提名。</li>
+    <li>克里斯·库恩斯的初选挑战者之一合法改名为 E. No-Trump Hansen（原名 Eric Hansen）。</li>
+    <li>来源叙事重点：重点聚焦资深民主党参议员克里斯·库恩斯（Chris Coons）轻松赢得特拉华州初选，突出其击败了一位合法改名为“No-Trump”的奇特挑战者，并强调特拉华州作为“深蓝州”对民主党连任的天然优势。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#军事防务安全</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-oses-custody-gender-case-b39483a9df0652e5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1140" data-content-paragraphs="20" data-published-at="2026-09-16T00:17:05.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🛡️ 军事防务安全</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 08:17</span>
+</div>
+
+### [天主教家庭因性别议题失去监护权 爱国者队跑卫亨德森谴责政府越权](https://www.foxnews.com/outkick-sports/patriots-rb-trevevon-henderson-slams-state-overreach-catholic-family-loses-custody-gender-case)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Patriots RB TreVeyon Henderson slams state overreach after Catholic family loses custody in gender case</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/new-england-patriots-treveyon-henderson-2.jpg?ve=1&amp;tl=1" alt="天主教家庭因性别议题失去监护权 爱国者队跑卫亨德森谴责政府越权" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>新英格兰爱国者队跑卫特雷维昂·亨德森（TreVeyon Henderson）谴责了马萨诸塞州当局，此前一户天主教家庭因拒绝支持其十几岁女儿的性别转变而失去了对她的法定监护权。他援引圣经经文辩称，政府机构正在侵犯基本父母权利。</p>
+<p>亨德森在社交媒体上针对约瑟夫·库茨科（Joseph Kutzko）和阿琳·库茨科（Arlene Kutzko）一案作出回应，这对夫妇15岁的女儿此前已被儿童福利机构从家中带走。</p>
+<p>这位NFL球员引用经文，强调了父母肩负的根据自身宗教信仰引导子女的神圣职责。</p>
+<p>【福克斯新闻：特朗普司法部在最高法院重大裁决后扩大宗教自由保护】</p>
+<p>“我们所侍奉的神吩咐父母：‘教养孩童，使他走当行的道，就是到老他也不偏离。’（箴言 22:6），”亨德森写道。“然而，这些父母拥有的这项神赐权利，如今正被州政府剥夺。”</p>
+<p>亨德森强调，这对父母反对性别转变是出于信仰和爱意。</p>
+<p>“这些父母希望荣耀我们的主，引导他们的女儿走向真理，远离她所看不见的、将毁灭她的事物，正如神托付给父母做的那样，”他发帖称。“愿正义得到伸张。”</p>
+<p>【福克斯独家：家长指控学校依据学区政策撒谎并隐瞒女儿的性别转变】</p>
+<p>该案始于马萨诸塞州北伯勒的阿冈昆地区高中（Algonquin Regional High School），据称该校一名心理咨询师在父母不知情或未同意的情况下，对这名少女实施了社交层面的性别转变。</p>
+<p>当库茨科夫妇发现该咨询师用男性名字和男性代词称呼其女儿时，他们基于传统天主教信仰表达了反对。</p>
+<p>在父母表示反对后，该咨询师向儿童与家庭部（DCF）提交了一份报告。</p>
+<p>州政府官员随后获得了该未成年人的完全法定监护权，并签发了限制令，禁止父母及其哥哥与她发生任何接触。</p>
+<p>尽管针对父亲身体虐待的指控已被认定不成立，但儿童与家庭部依然维持了州政府的监护权。</p>
+<p>【特朗普指示医保局局长穆罕默德·奥兹终止医疗补助对未成年人性别人士转变的资助】</p>
+<p>该家庭最近获得了一项关键的法律胜利：一名州法官批准了一项临时禁令，在该诉讼审理期间，禁止儿童与家庭部对该未成年人实施跨性别激素治疗，包括大剂量睾酮。</p>
+<p>【克雷格·卡顿秀——直率真实、毫不妥协且不容错过。立即下载其每日播客！】</p>
+<p>代表父母的律师辩称，未经父母同意的医疗干预将造成不可逆转的伤害。</p>
+<p>新英格兰爱国者队在2025年NFL选秀中从俄亥俄州立大学选中了亨德森，他经常利用自己的平台分享基督教信仰。</p>
+<p>库茨科夫妇目前仍在继续其法律抗争，以推翻州政府的监护权决定并恢复其父母权利，下一场预定法庭听证会定于10月29日举行。</p>
+<p>发送您的想法至：alejandro.avila@outkick.com / 在X上关注：@alejandroaveela</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>新英格兰爱国者队跑卫特雷维昂·亨德森（TreVeyon Henderson）在社交媒体引用《箴言》22:6谴责马萨诸塞州政府，指责州当局侵犯天主教家庭父母的基本权利。</li>
+    <li>约瑟夫·库茨科（Joseph Kutzko）和阿琳·库茨科（Arlene Kutzko）夫妇因拒绝认同其15岁女儿的性别转变，被儿童和家庭部（DCF）剥夺了法定监护权，孩子被从家中带走。</li>
+    <li>来源叙事重点：借NFL球员特雷维昂·亨德森（TreVeyon Henderson）引用圣经发声，聚焦马萨诸塞州儿童福利机构（DCF）剥夺天主教父母监护权的争议，着重批判公立学校越权秘密实施社交性别转变和州政府侵犯宗教信仰自由与父母权利，强调法官签发禁止给未成年人使用跨性别激素禁令的维权进展</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#军事防务安全</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/patriots-rb-trevevon-henderson-slams-state-overreach-catholic-family-loses-custody-gender-case" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697162-shtml-4af0ca26500f8da3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1265" data-content-paragraphs="26" data-published-at="2026-09-16T00:11:45.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 08:11</span>
+</div>
+
+### [中央气象台：重庆湖北等地局地有暴雨](https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网9月16日电 据中央气象台网站消息，昨日，四川、重庆等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注对农业生产、交通运输、工程建设等的影响；海南、广西等地前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。</p>
+<p>昨日，四川东北部、重庆西部和北部、广西东南部、广东中部、台湾东部等地部分地区出现大雨或暴雨；上述地区最大小时降雨量30～75毫米。</p>
+<p>未来三天，四川、重庆、湖北、湖南西北部、贵州北部以及陕西南部、云南南部、西藏东南部等地部分地区有中到大雨，其中，重庆、湖北、湖南西北部、贵州北部等地部分地区有大到暴雨，局地大暴雨。</p>
+<p>9月16日08时至17日08时，湖北大部、陕西南部、重庆、湖南西北部、贵州北部、四川南部、云南东南部、广西北部和南部、广东西北部、海南岛西部、西藏东南部等地部分地区有中到大雨，其中，湖北中部和西南部、重庆东部、贵州北部等地部分地区有暴雨(50～90毫米)。台湾海峡将有6～7级、阵风8级的东北风，巴士海峡、南海东北部海域将有5～6级、阵风7级的东北风。</p>
+<p>9月17日08时至18日08时，安徽西南部、湖北中南部、重庆、湖南西部、贵州北部、四川南部、广西南部、云南南部、西藏东南部、新疆南疆西部山区等地部分地区有中到大雨，其中，湖北东部和西南部、重庆东南部、贵州东北部等地部分地区有暴雨(50～90毫米)。新疆南部部分地区有5～7级风，其中，新疆北部部分地区有6～7级风；台湾海峡将有5～6级、阵风7级的东北风。</p>
+<p>9月18日08时至19日08时，内蒙古东北部、黑龙江西北部、陕西南部、新疆南疆盆地西部、湖北西部、四川南部和东北部、重庆、贵州北部、云南南部和北部、西藏东南部等地部分地区有中到大雨，其中，重庆北部、四川东北部等地局地有暴雨(50～70毫米)。</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-16 08:11 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#中新网</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/media/michael-rapaport-cheers-macklemore-dropped-ed-sheeran-tour-free-palestine-cry" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697160-shtml-76916fbe64f55289" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="934" data-content-paragraphs="24" data-published-at="2026-09-16T00:01:07.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 08:01</span>
+</div>
+
+### [肯尼迪中心董事会决定立即关闭该中心 特朗普发声](https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网9月16日电 据美国全国公共广播电台(NPR)报道，美国肯尼迪表演艺术中心董事会当地时间15日投票决定立即关闭该中心进行翻修。投票前不久，一名联邦法官发布命令，驳回肯尼迪中心董事会将美国总统特朗普的名字再次添加到中心大楼外墙上的提议。</p>
+<p>特朗普随即表态称，除非上级法院推翻这项判决，否则他将取消肯尼迪中心原定的翻新工程。</p>
+<p>特朗普在社交媒体上写道：“肯尼迪中心将立即关闭，但这项规模庞大、工序复杂的翻新重建工程，须等到哥伦比亚特区巡回上诉法院就董事会批准的名称作出裁决后才能开始。如果裁决结果不利(虽然不应该如此)，并且没有被美国最高法院推翻，那么肯尼迪中心的重建翻新工程将无法进行。”</p>
+<p>报道称，肯尼迪表演艺术中心董事会坚持认为，只有特朗普才能“拯救”肯尼迪中心。肯尼迪中心现任董事会成员大多是特朗普的盟友，由特朗普亲自挑选，包括前司法部长帕姆·邦迪、福克斯新闻主持人劳拉·英格拉姆，以及新英格兰爱国者队老板罗伯特·克拉夫特的妻子达娜·克拉夫特。</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-16 08:01 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697159-shtml-c130ea22221f58b0" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1512" data-content-paragraphs="39" data-published-at="2026-09-15T23:58:50.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 07:58</span>
+</div>
+
+### [特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”](https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml)
+
+<div class="article-body" data-article-body="true"><p>特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸” | 国际早察</p>
+<p>这是美东时间9月14日，美国总统特朗普在社交媒体高调宣布的“惊人成果”。</p>
+<p>特朗普还特别宣称，全球柴油价格暴涨的锅都在俄乌战争上，而不是伊朗。</p>
+<p>言外之意，这个棘手难题，迎来了难得的突破口。</p>
+<p>帖文的热乎劲儿还没过，俄乌双方就在15日这天用呼啸的无人机群和滚滚浓烟，给出另一重现实：“能源停火”，并未真正落地。</p>
+<p>当地时间9月15日凌晨，俄罗斯的攻击无人机群呼啸着直扑乌克兰首都基辅和其他城市。</p>
+<p>根据乌克兰方面发布的紧急通报，这次袭击并非针对隐蔽军事目标，而是集中指向民用和能源设施——基辅的两处加油站，以及敖德萨港口和物流仓储设施等，连夜遭到袭击。</p>
+<p>现场燃起的熊熊大火，以及至少两人死亡、多人受伤的残酷现实，似乎在说明，寒冬来临前，俄罗斯并不打算轻易放下手里最致命的“能源底牌”。</p>
+<p>乌克兰与俄罗斯几乎同步的打击，也没有让特朗普帖文的“效力”挺过15日。</p>
+<p>就在基辅加油站起火的同一时刻，乌克兰的远程无人机群已经完成了跨国奔袭，精准突击了俄罗斯萨马拉州的核心炼油厂。</p>
+<p>不仅如此，俄罗斯罗斯托夫州的一处重要无人机生产工厂和物流中心也在剧烈的爆炸中陷入火海。</p>
+<p>乌克兰用行动给出了态度：你想停火？可以，除非美国能确保莫斯科真的愿意停手，否则乌克兰的远程反击不会停止。</p>
+<p>《纽约时报》分析，特朗普之所以对于推动能源领域局部休战“情有独钟”，和美国国内高企的油价所带来的政治压力紧密相关。</p>
+<p>据美国汽车协会(AAA)披露，美国柴油平均价格15日创下历史新高，逼近每加仑6.27美元；</p>
+<p>高油价直接牵动美国国内民意。此前在采访中，他甚至直接对泽连斯基喊话，要求乌克兰必须“立刻停止”对俄罗斯炼油厂的袭击，称这导致美国出现短缺。</p>
+<p>然而，现实剧本未能如特朗普所愿那般进展。</p>
+<p>泽连斯基15日在社交平台发布声明并在随后的例行全国电视讲话中公开说，特朗普关于停击能源的构想是强有力的，但目前没有迹象显示俄方真的想要停战，乌克兰也不确定俄罗斯有意遵守任何相关协议。</p>
+<p>克里姆林宫发言人佩斯科夫在15日的例行新闻简报会上夸奖“能源停火”是个“好主意”，但佩斯科夫却没给出兑现的承诺，反而“借坡下驴”提出，要求美方确保俄罗斯燃料油轮的安全，并解除针对莫斯科能源出口的制裁。</p>
+<p>特朗普的“能源停火”宣言，从抛出到被现实“泼冷水”，只用了不到24小时。</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-16 07:58 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697157-shtml-24786e892c9efb10" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1023" data-content-paragraphs="26" data-published-at="2026-09-15T23:54:34.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 07:54</span>
+</div>
+
+### [南非确定首批绿色氢能项目 明年启动建设](https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社约翰内斯堡9月15日电 (记者 孙翔)南非15日在非洲绿色氢能峰会期间宣布，该国已确定首批6个绿色氢能优先项目。其中，电制可持续航空燃料项目计划于2027年第一季度开工建设。</p>
+<p>2026年非洲绿色氢能峰会15日至16日在南非开普敦举行。南非总统拉马福萨当天的开幕致辞由该国电力和能源部长科西恩乔·拉莫豪帕代为宣读。</p>
+<p>拉马福萨在致辞中说，根据南非国家绿色氢能计划，确定首批6个绿色氢能优先项目。其中，位于西开普省萨尔达尼亚湾的电制可持续航空燃料项目预计2027年第一季度开工建设，2029年第一季度出口首批电制可持续航空燃料。</p>
+<p>他介绍，其他5个项目涵盖绿色氨、绿色钢铁和绿色甲醇等领域，面向南非国内市场及欧洲市场。</p>
+<p>“非洲必须参与整个价值链，成为所有者、制造商、技术合作伙伴、生产者和市场参与者。”拉马福萨说，凭借丰富的可再生能源、水资源和关键矿产储备，非洲有机会成为全球重要的绿色氢能产业中心。</p>
+<p>他冀望绿色氢能以可持续方式支持非洲大陆能源转型和脱碳进程，并通过化肥生产、绿色钢铁、可持续燃料、设备制造、工程及相关服务等领域推动非洲工业化。非洲大陆自由贸易区也将通过扩大市场规模，为建立区域绿色氢能产业链创造条件。(完)</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-16 07:54 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697156-shtml-c8c86b5964bf9176" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="989" data-content-paragraphs="24" data-published-at="2026-09-15T23:54:14.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 07:54</span>
+</div>
+
+### [俄外交部：日本应铭记九一八历史  “再军事化”必蹈覆辙](https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社莫斯科9月15日电 在九一八事变爆发95周年之际，俄罗斯外交部发言人扎哈罗娃15日表示，这段历史不仅我们要铭记，日本人自己更应该铭记。</p>
+<p>扎哈罗娃当天在例行记者会上说，1931年9月18日，日军在找不到其他借口进攻中国的情况下，制造了一起直接挑衅事件，炸毁沈阳附近的铁路路轨并反诬中方所为，随之攻占沈阳，占领整个东北地区。日方毫不掩饰其针对平民的令人发指的残暴行径，并扶持成立伪满洲国傀儡政权，实施殖民统治。</p>
+<p>扎哈罗娃指出，九一八事变是日本军国主义发动侵华战争的开端，也揭开了其在亚洲实施进一步侵略的序幕。在20世纪上半叶，包括中国在内的亚洲受害国家人民曾深受日本军国主义之害，使他们经历了无尽的灾难与磨难。</p>
+<p>扎哈罗娃说，“重要的是，这段历史不仅我们要铭记，日本人自己更应该铭记。”如今，日本再次走上“再军事化”道路，包括企图歪曲美化其在20世纪30年代至40年代犯下的侵略罪行。她再次呼吁日本当局应全面承认第二次世界大战的结果，重返和平发展之路。“这条道路曾为日本带来切实的利益，未来也将带来更多的福祉，而‘再军事化’只会给他们带来痛苦与灾难”。(完)</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-16 07:54 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 ::::

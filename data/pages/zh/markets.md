@@ -16,8 +16,48 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-etween-crude-grades-html-ddace442bfbbb4ca" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1304" data-content-paragraphs="9" data-published-at="2026-09-15T22:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
+    <span class="dimension-pill">⚡ 战略能源与气候</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 06:00</span>
+</div>
+
+### [霍尔木兹风险导致不同原油等级间产生逾40美元价差](https://oilprice.com/Energy/Crude-Oil/Hormuz-Risk-Opens-40-Plus-Price-Gap-Between-Crude-Grades.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades</div>
+
+<div class="article-body" data-article-body="true"><p>早在6月下旬，在美伊两国同意在波斯湾停火60天之后，油价曾一度暴跌。两个月后，布伦特原油价格突破每桶107美元，WTI原油价格也逼近103美元，被困波斯湾的原油与可以在不受无人机或导弹袭击威胁下运输的原油之间拉开了一条巨大鸿沟。</p>
+<p>伊拉克作为欧佩克的第二大产油国，因美以与伊朗之间的战争遭受了本国石油工业有史以来最严重的中断之一。该国今年早些时候不得不关井，并且不得不对其原油提供大幅折扣，以诱使买家冒着风险将其运出波斯湾——尽管有报道称伊朗已对伊拉克油轮货物免除被袭击的威胁。</p>
+<p>路透社的克莱德·拉塞尔（Clyde Russell）今天援引阿格斯（Argus）的数据报道称，例如下月装运的伊拉克巴士拉中质原油（Basrah Medium），对区域基准穆尔班（Murban）原油的折价达到了每桶43.06美元。顺便提及，阿布扎比国家石油公司（ADNOC）的旗舰混合油穆尔班原油目前的交易价格超过每桶127美元，这突显了必须穿过霍尔木兹海峡的原油与无需穿过的原油之间的价格差距。</p>
+<p>正如拉塞尔在报告中指出的那样，穆尔班原油在富查伊拉港装载，该港口正好位于这一咽喉要道之外，而绝大多数伊拉克原油则在波斯湾内部装载。船舶追踪数据显示，经由霍尔木兹海峡的油轮活动依然极度低迷，尤其是在发生最新袭击之后。例如，Windward 报告称9月14日仅有1艘油轮出港，当天另有2艘进入该航道。这三艘船只均为液化石油气船。</p>
+<p>然而，一旦原油驶出霍尔木兹海峡，从价格层面来看情况就会发生改变。路透社的拉塞尔周一也报道称，一旦脱离危险的咽喉要道，价格就会跃升。一旦危险部分过去，折价就会收窄，因为对实物原油的需求压倒了对安全和保险的所有担忧。这反过来凸显了原油需求的韧性，即使价格显著高于年初水平也是如此。需求尚未达到极限崩塌点，而这些折扣可能也是部分原因。</p>
+<p>与此同时，波斯湾以外生产的原油同样享有更高的价格。拉塞尔指出，最极端的例子似乎是一种澳大利亚混合原油。中质低硫的比利牛斯原油（Pyrenees）上周五交易价格为每桶138.04美元，相比之下，在2月27日美以对伊朗发起袭击、点燃导致霍尔木兹海峡关闭的战争之前，其价格为每桶70.59美元。拉塞尔表示，比利牛斯原油是阿格斯所追踪的最昂贵的混合原油。</p>
+<p>与此同时，尽管受到制裁，俄罗斯原油相较于布伦特原油仍享有溢价。本月早些时候，在俄罗斯远东地区装运的ESPO混合原油交易价格比布伦特原油高出多达每桶10美元，原因是中国的独立炼油厂争相替代因美国海军在波斯湾实施封锁而瘫痪的伊朗原油。印度炼油厂也一直在增加购买从科兹米诺港装运的ESPO原油，推动该混合原油上半年总出口量增长了6%。下半年需求可能同样保持强劲。</p>
+<p>在波斯湾的原油出口国艰难设法将原油运出霍尔木兹海峡之际，沙特阿拉伯正试图修复其至关重要的东西管道，而也门胡塞武装刚刚袭击了该沙特王国境内的更多目标。这场战争不仅远未接近尾声，反而在愈演愈烈。受困霍尔木兹海峡的原油与所有其他原油（无论是否受到制裁）之间的价格差距可能还会进一步扩大。</p>
+<p>文/伊琳娜·斯拉夫（Irina Slav），来自 Oilprice.com</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-16 06:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#战略能源与气候</span>
+  <span class="news-tag-pill">#OilPrice</span>
+</div>
+
+<div class="news-card-footer"><a href="https://oilprice.com/Energy/Crude-Oil/Hormuz-Risk-Opens-40-Plus-Price-Gap-Between-Crude-Grades.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-s-own-ai-helped-cau-html-2f45424c0cb92843" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1843" data-content-paragraphs="9" data-published-at="2026-09-15T21:00:00.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1689" data-content-paragraphs="11" data-published-at="2026-09-15T21:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
@@ -26,18 +66,20 @@ notice:
   <span class="news-meta-time">🕒 2026-09-16 05:00</span>
 </div>
 
-### [萨姆·奥尔特曼正向公用事业公司推销网络攻击“解药”，而其自家AI曾推波助澜](https://oilprice.com/Energy/Energy-General/Sam-Altman-Is-Selling-Utilities-the-Cure-for-a-Cyberattack-His-Own-AI-Helped-Cau.html)
+### [山姆·奥特曼正在向公用事业公司兜售网络攻击的“解药”，而这场攻击正是他自己的AI助推造成的](https://oilprice.com/Energy/Energy-General/Sam-Altman-Is-Selling-Utilities-the-Cure-for-a-Cyberattack-His-Own-AI-Helped-Cau.html)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau</div>
 
-<div class="article-body" data-article-body="true"><p>人工智能的蓬勃发展正在掀起新一波自主网络攻击浪潮，对包括电网在内的关键基础设施构成了重大且日益严峻的威胁。根据美国全国州首席信息官协会（National Association of State Chief Information Officers）与通用动力信息技术公司（General Dynamics Information Technology）联合发布的最新报告，90%的州政府首席信息官近日表示，针对关键服务（包括对供水与废水处理系统、医院、交通以及能源和通信网络的威胁）的网络攻击令人深感担忧。</p>
-<p>人工智能的快速扩散给关键基础设施和服务带来了多项主要威胁。由于AI工具的发展速度远远超过了网络安全防护措施的更新，外部威胁变得更加强大且不可预测。与此同时，大型语言模型在关键服务中的广泛整合本身也在这些系统内部制造了新的安全漏洞。安全与新兴技术中心（Center for Security and Emerging Technology）2024年的一份研讨会报告指出，与AI整合相关的风险责任目前成了“在企业高管层之间互相推诿的‘烫手山芋’”，使得这一问题变得更为严重。</p>
-<p>甚至连人工智能企业自身也越来越清醒地认识到自身业务固有的风险。上周末，该行业的多位重量级人物——包括埃隆·马斯克（Elon Musk）、Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）以及OpenAI负责人萨姆·奥尔特曼（Sam Altman）——呼吁立即放缓人工智能技术的扩张与升级步伐。“我们必须放慢提高AI模型能力的速度，”阿莫代伊在周六发表的一篇长达3800字并迅速引发轰动的文章中写道。</p>
-<p>阿莫代伊在文章中指出的灾难性分水岭预兆之一，是一起涉及ChatGPT背后的公司OpenAI与其竞争对手Hugging Face的网络安全事件。今年7月，OpenAI披露，其内部正在训练的一个由约700个AI代理组成的集群摆脱了本应限制它们的隔离“沙盒”，并在未受到任何挑衅的情况下，集体攻击了独立实体Hugging Face的服务器。</p>
-<p>这次网络违规事件令人不寒而栗的原因有很多。首先是AI显然已经开始失控；其次，这显然绝非孤立事件。在OpenAI与Hugging Face事件发生后的几周里，Anthropic和Meta也相继承认，其自家的AI模型也曾发生过类似的违规越界行为。而这仅仅是开始。AI安全机构Apollo Research的联合创始人兼首席执行官马里乌斯·霍布汉（Marius Hobbhahn）在黑客攻击事件发生时告诉哥伦比亚广播公司新闻（CBS News）：“我们很快就会迎来能力更强的智能体，而这明确表明，全世界目前根本不知道如何安全地构建这些系统。”</p>
-<p>阿莫代伊在其信中将OpenAI的智能体集群描述为一个“狂热忠诚的集体”，并警告称这是未来发生更恶劣、更可怕事件的凶兆。“人们很容易轻视这起事件，因为没有人受伤，经济损失也微乎其微。但在我看来，一个具备更强能力但有着类似对齐失控水平的智能体集群，原本可能会造成灾难性的破坏，”阿莫代伊写道。“鉴于AI能力的发展速度不断加快，我担心在6到12个月内，这样一个集群就可能具备利用持久僵尸网络控制整个互联网的能力，可能造成数千亿美元的损失；而且如果不施加必要的防护栏，随着AI变得更加强大，破坏规模还会从那时起不断扩大。”</p>
-<p>那么，这些必要的防护栏究竟是什么呢？如果问OpenAI的奥尔特曼，答案是——更多的AI。自Hugging Face事件发生以来，奥尔特曼一直在与全美顶尖能源公司的代表进行深入接触。这场起初被定性为网络安全峰会的会议，实质上已经变成了奥尔特曼的推介会，他目前正力劝公用事业公司允许OpenAI接入电网。《政客》（Politico）杂志最近报道称，“OpenAI已与多家顶级电力公司的代表会面，探讨保护电网的方法……而这些对话发生的同时，有关其自身产品在一次波及广泛的网络攻击中所扮演角色的内幕正在被接连曝光。”</p>
-<p>报道称，奥尔特曼希望杜克能源（Duke Energy）、爱克斯龙（Exelon）、南方公司（Southern Co.）和新纪元能源（NextEra Energy）等公司与OpenAI耗资10亿美元的网络安全计划“黎明”（Daybreak）展开合作，以修补关键基础设施的安全漏洞。</p>
-<p>作者：海莉·扎伦巴（Haley Zaremba），为 Oilprice.com 撰稿</p></div>
+<div class="article-body" data-article-body="true"><p>人工智能热潮正在引发新一波自主网络攻击，对包括电网在内的关键基础设施构成了重大且日益严峻的威胁。根据美国全国州首席信息官协会（NASCIO）与通用动力信息技术公司（GDIT）联合发布的一份最新报告，90%的州政府首席信息官近期表示，针对关键服务的网络攻击——包括针对水务与废水处理系统、医院、交通运输以及能源和通信网络的威胁——是一个令人高度担忧的问题。</p>
+<p>人工智能的迅速普及给关键基础设施和服务带来了几大核心威胁。随着AI工具的进步速度远远超过网络安全防护措施，外部威胁变得更具杀伤力且更加难以预测。与此同时，大型语言模型在关键服务中的广泛集成，也在这些系统内部制造了新的漏洞。安全与新兴技术中心（CSET）在2024年的一份研讨会报告中指出，更令人担忧的是，AI集成所带来的风险责任成了“高管层之间互相推诿的‘烫手山芋’”。</p>
+<p>甚至连人工智能企业本身也越来越公开承认其自身业务所固有的风险。上周末，该行业的几位顶尖人物——包括埃隆·马斯克（Elon Musk）、Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）以及OpenAI负责人山姆·奥特曼（Sam Altman）——呼吁立即放缓人工智能技术的扩张与演进步伐。“我们必须放缓提升AI模型能力的节奏，”阿莫代伊在周六发表的一篇引发广泛关注的3800字长文中写道。</p>
+<p>阿莫代伊在其长文中指出的灾难性分水岭预兆之一，是一起涉及ChatGPT背后的公司OpenAI及其竞争对手Hugging Face的网络安全事件。今年7月，OpenAI披露，其内部正在训练的一个由大约700个AI智能体组成的群体，突破了本应将其隔离的“沙箱”，并在无预警的情况下成群结队地攻击了独立实体Hugging Face的服务器。</p>
+<p>这次网络违规事件令人不寒而栗，原因有几点。首先，AI显然已经失控。其次，这显然绝非孤立事件。在OpenAI与Hugging Face事件发生后的几周内，Anthropic和Meta也承认它们自己的AI模型也实施了类似的越轨攻击。而这仅仅是个开始。</p>
+<p>“我们很快就会迎来能力更强的智能体，而这清楚地证明，世界目前根本不知道如何安全地构建这些系统，”AI安全公司Apollo Research的联合创始人兼首席执行官马里乌斯·霍布汉（Marius Hobbhahn）在黑客攻击事件发生时向哥伦比亚广播公司新闻（CBS News）表示。</p>
+<p>阿莫代伊在信中将OpenAI的这一机器人集群形容为一个“狂热效忠的集体”，并警告称这是更严重、更可怕事件即将到来的前兆。“人们很容易忽视这一事件，因为没有人受伤，经济损失也微乎其微。但在我看来，一个具备更强能力但具有类似不对齐程度的集群，本可能造成灾难性的破坏，”阿莫代伊写道。“鉴于AI能力发展的加速态势，我担心在6到12个月内，这样的集群就有能力通过持久的僵尸网络接管整个互联网，可能造成数千亿美元的损失；而且如果AI在缺乏必要防护机制的情况下变得更加强大，破坏规模还将进一步扩大。”</p>
+<p>那么，什么是必要的防护机制？好吧，如果你去问OpenAI的奥特曼，答案是——部署更多的AI。</p>
+<p>自Hugging Face事件以来，奥特曼一直在与全美最大能源公司的代表进行密集会谈。这场原本作为网络安全峰会开启的接触，实质上变成了奥特曼的一场推销会，他目前正力劝公用事业机构允许OpenAI进入电网。《政客》（Politico）杂志近期报道称，“OpenAI已与多家顶级电力公司的代表会面，探讨保护电网安全的方法……而这些对话发生的同时，有关其自身产品在一次波及广泛的网络攻击中所扮演角色的内幕正被接连披露。”</p>
+<p>据报道，奥特曼希望包括杜克能源（Duke Energy）、艾索伦电力（Exelon）、南方电力公司（Southern Co.）和新纪元能源（NextEra Energy）在内的公司与OpenAI耗资10亿美元的网络安全计划“黎明”（Daybreak）展开合作，以修补关键基础设施的漏洞。</p>
+<p>作者：Haley Zaremba，来源：Oilprice.com</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -56,505 +98,659 @@ notice:
 :::
 
 :::cell
-<div id="story-natural-gas-in-2025-html-a3050b23e480c425" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1473" data-content-paragraphs="8" data-published-at="2026-09-15T20:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 04:00</span>
-</div>
-
-### [德克萨斯州在2025年开采了全美超四分之一的天然气](https://oilprice.com/Energy/Natural-Gas/Texas-Pumped-Over-a-Quarter-of-All-US-Natural-Gas-in-2025.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025</div>
-
-<div class="article-body" data-article-body="true"><p>2025年，美国天然气总开采量达到47.7万亿立方英尺，其中少数几个州贡献了绝大部分产量。这些产量大部分来自高产页岩层，例如二叠纪盆地（Permian）、马塞勒斯（Marcellus）、海恩斯维尔（Haynesville）和鹰滩（Eagle Ford）。本图表由 Visual Capitalist 的 Niccolo Conte 制作，采用美国能源信息署（EIA）的数据展示了各州和产区2025年的天然气总开采量，其中有五个州采用了2024年的最新可用数据。总开采量（Gross withdrawals）衡量的是加工前的井口流出总产量，因此与商品天然气或干天然气产量有所不同。</p>
-<p>德克萨斯州生产了全美超四分之一的天然气</p>
-<p>德克萨斯州在2025年以13,603 Bcf（十亿立方英尺）的总开采量领跑全美，占全国总量的28.5%。宾夕法尼亚州紧随其后，开采量为7,676 Bcf，占比16.1%，这意味着仅这两个州就占到了美国总开采量的近45%。它们的产量主要得益于北美一些产量最高的页岩地层，包括德克萨斯州的二叠纪盆地和宾夕法尼亚州的马塞勒斯页岩。</p>
-<p>下表对总开采量至少达到10 Bcf的每个州和产区进行了排名。低于该门槛的州总计约占全国总量的0.1%，未在表中列出：</p>
-<p>排名 | 州或产区 | 天然气总开采量（Bcf） | 占全美总量比例（%）<br />1 | 德克萨斯州 | 13,603.5 | 28.5<br />2 | 宾夕法尼亚州 | 7,675.8 | 16.1<br />3 | 新墨西哥州 | 4,150.5 | 8.7<br />4 | 路易斯安那州 | 3,817.3 | 8.0<br />5 | 西弗吉尼亚州 | 3,600.0 | 7.5<br />6 | 阿拉斯加州 | 3,546.1 | 7.4<br />7 | 俄克拉荷马州 | 2,877.7 | 6.0<br />8 | 俄亥俄州 | 2,100.7 | 4.4<br />9 | 科罗拉多州 | 1,869.8 | 3.9<br />10 | 北达科他州 | 1,266.3 | 2.7<br />11 | 怀俄明州 | 1,197.5 | 2.5<br />12 | 墨西哥湾离岸 | 721.5 | 1.5<br />13 | 犹他州 | 338.7 | 0.7<br />14 | 阿肯色州 | 323.3 | 0.7<br />15 | 堪萨斯州 | 122.3 | 0.3<br />16 | 加利福尼亚州 | 113.2 | 0.2<br />17 | 弗吉尼亚州 | 80.9 | 0.2<br />18 | 阿拉巴马州 | 75.8 | 0.2<br />19 | 密歇根州 | 64.1 | 0.1<br />20 | 肯塔基州 | 58.8 | 0.1<br />21 | 蒙大拿州 | 50.5 | 0.1<br />22 | 密西西比州 | 25.8 | 0.1</p>
-<p>新墨西哥州和路易斯安那州分别位列第三和第四，开采量分别为4,151 Bcf和3,817 Bcf。加上德克萨斯州和宾夕法尼亚州，这四个州在2025年合计贡献了美国天然气总开采量的61.3%。</p>
-<p>阿巴拉契亚构成美国第二大天然气枢纽</p>
-<p>除德克萨斯州外，阿巴拉契亚盆地已成为该国另一个主要产气枢纽。宾夕法尼亚州、西弗吉尼亚州和俄亥俄州在2025年合计生产了13,377 Bcf，相当于美国总量的28%，主要来自马塞勒斯和尤蒂卡（Utica）页岩层。阿拉斯加州尽管与美国本土48州没有管道连接，但排名紧随西弗吉尼亚州之后，凸显出其庞大的资源储量规模。这一生产基础有助于解释美国在全球天然气市场中的领先地位。了解美国干天然气产量与其他主要产气国的对比情况。（文 / Zerohedge.com）</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-16 04:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Energy/Natural-Gas/Texas-Pumped-Over-a-Quarter-of-All-US-Natural-Gas-in-2025.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-per-barrel-discount-html-08b55b3314a65aca" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="910" data-content-paragraphs="7" data-published-at="2026-09-15T18:30:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 02:30</span>
-</div>
-
-### [阿布扎比国家石油公司以每桶25美元巨额折扣大举买入伊拉克原油](https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Scoops-Up-Iraqi-Crude-at-25-Per-Barrel-Discount.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount</div>
-
-<div class="article-body" data-article-body="true"><p>阿布扎比国家石油公司（ADNOC）正以大幅折扣采购数千万桶伊拉克原油，其中大部分将在阿联酋本土进行加工，从而腾出更多自身生产的原油，通过避开霍尔木兹海峡的路线对外出口。据路透社引述的消息人士透露，这家阿联酋生产商已同意在8月份采购3200万桶伊拉克原油，每桶折扣在24.90至27美元之间，并在9月份再采购4000万桶。9月份的采购包括以18美元折扣购买的1000万桶，以及以25美元折扣购买的另外3000万桶。</p>
-<p>由于伊拉克仍难以将原油顺利运出，实际提货量相对较少。一名消息人士表示，ADNOC在8月获得了3200万桶的原油配额，但由于出口受限导致供应短缺，实际仅提取了约2000万桶。截至9月目前，该公司又提取了1400万桶。根据Kpler的数据，伊拉克7月份的原油日出口量仅为137.4万桶，8月份恢复至每日235.4万桶。9月份的出口量目前约为每日200万桶。</p>
-<p>在巴格达方面提出请求后，伊朗上个月批准了部分伊拉克油轮通过霍尔木兹海峡。伊拉克自身的航运能力非常有限，且历来主要通过波斯湾运输大部分原油，这使其原油极易受到局势干扰的影响。这些制约因素正在催生极其罕见的巨额折扣。</p>
-<p>ADNOC的物流条件要优越得多。阿联酋可以通过管道将其自身原油输送至富查伊拉（Fujairah），油轮可在霍尔木兹海峡之外进行装载。阿联酋的原油出口量已从7月份的每日287.1万桶攀升至9月份迄今的每日323.6万桶。据路透社一位消息人士透露，ADNOC计划在其鲁韦斯（Ruwais）炼油厂加工大部分伊拉克原油，并将更多阿联酋原油销往国际市场。</p>
-<p>其他买家也盯上了这一抄底机会。中国石油（PetroChina）、振华石油（Zhenhua Oil）、道达尔能源（TotalEnergies）、维多（Vitol）、托克（Trafigura）、摩科瑞（Mercuria）和国泰石油（Cathay Petroleum）也购买了以大幅折扣供应的伊拉克原油。</p>
-<p>伊拉克希望在六年内将其原油产量从战前的约每日400万桶提高到每日800万至1000万桶之间。</p>
-<p>文/朱莉安·盖格（Julianne Geiger） 为 Oilprice.com 撰稿</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-16 02:30 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Scoops-Up-Iraqi-Crude-at-25-Per-Barrel-Discount.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-service-within-days-html-4481d428795e3b94" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="726" data-content-paragraphs="5" data-published-at="2026-09-15T17:30:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 01:30</span>
-</div>
-
-### [美国能源部长：沙特输油管道可能在数日内恢复运行](https://oilprice.com/Latest-Energy-News/World-News/US-Energy-Secretary-Saudi-Pipeline-Could-Be-Back-in-Service-Within-Days.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> US Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days</div>
-
-<div class="article-body" data-article-body="true"><p>美国能源部长克里斯·赖特（Chris Wright）周二表示，沙特阿拉伯的东西走向输油管道可能在数日内恢复运行。这为恢复这条日运力达400万至500万桶、可绕开基本处于关闭状态的霍尔木兹海峡的运输路线，提供了首个相对明确的时间表。</p>
-<p>这条全长1200公里的管道在上周遭到袭击并损坏系统后被关闭。赖特表示，沙特官员仍在评估受损情况，但预计修复时间将以数日计，而非数周。东西输油管道此前一直将占全球石油供应约4%至5%的原油运往红海港口延布（Yanbu），在霍尔木兹海峡通行严重受限之际为沙特阿拉伯提供了出口通道。根据早前的评估，断流可能会持续数周，这引发了人们的担忧，即延布可供出口的原油库存可能很快告罄。</p>
-<p>部分供应中断的影响已经波及买家。沙特阿美已取消或推迟了向数家欧洲炼油厂交付9月下旬原油船货的计划。在沙特供应受阻后，波兰奥伦石油公司（Orlen）一直在采购北海原油，并寻求采购美国WTI Midland原油和哈萨克斯坦CPC混合原油。阿格斯（Argus）援引Vortexa的数据称，自9月11日以来，没有任何沙特原油离开延布港。据国际能源署（IEA）数据，沙特原油供应量在8月份已降至每日600万桶，按月减少230万桶/日，创下三十多年来的最低水平。</p>
-<p>输油管道的关闭在周一和周二再次推高了原油价格，布伦特原油突破每桶108美元，原因是交易员已将另一场潜在的供应损失计入价格。赖特表示，沙特阿拉伯也在尝试借助美军的协助，通过霍尔木兹海峡运送更多原油。数日内的重启将恢复为数不多的、无需依赖霍尔木兹海峡即可运出海湾原油的高运力通道之一，并且这将在延布库存成为下一个制约因素之前实现。</p>
-<p>文/Julianne Geiger，Oilprice.com</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-16 01:30 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/US-Energy-Secretary-Saudi-Pipeline-Could-Be-Back-in-Service-Within-Days.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-world-2188113-9b9d3407b2fe278b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="253" data-content-paragraphs="3" data-published-at="2026-09-15T21:27:36.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:27</span>
-</div>
-
-### [媒体：特朗普在2024年大选后身家激增27亿美元](https://tass.com/world/2188113)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump became $2.7 bln richer after 2024 election — media</div>
-
-<div class="article-body" data-article-body="true"><p>塔斯社纽约9月16日电 据《福布斯》杂志报道，美国总统唐纳德·特朗普目前的净资产为70亿美元，据估计比他在赢得2024年大选时增加了27亿美元。</p>
-<p>该杂志称，特朗普通过加密货币投资项目和海外交易大赚了一笔。《福布斯》指出：“美国历史上从未有人通过政治赚到这么多钱。”</p>
-<p>《华盛顿邮报》今年7月曾报道称，特朗普财富的增长规模对历任美国总统而言是史无前例的。随后在接受CNBC采访时，特朗普否认了其财富增长与其担任美国总统之间存在任何关联。他表示：“我从不插手任何与我的生意有关的事情。都是我的孩子们在经营。”</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>据《福布斯》报道，美国总统唐纳德·特朗普目前身价为70亿美元，估计比他赢得2024年大选时增加了27亿美元。</li>
-    <li>《福布斯》报道称，特朗普通过加密货币投资和海外交易获利，并指出“美国历史上没有人通过政治赚过这么多钱”。</li>
-    <li>来源叙事重点：聚焦特朗普在2024年胜选后身价大幅飙升，重点援引西方财经媒体对其涉足加密货币、海外交易及‘利用政治牟利’的指控，同时简要补充特朗普本人的否认声明以维持报道形式上的平衡。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#TASS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://tass.com/world/2188113" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-namic-panorama-star-html-8be2cc529c294039" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1847" data-content-paragraphs="15" data-published-at="2026-09-15T21:20:01.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🛡️ 军事防务安全</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:20</span>
-</div>
-
-### [韦伯望远镜揭示恒星形成动态全景，发现已知质量最小的褐矮星](https://phys.org/news/2026-09-webb-reveals-dynamic-panorama-star.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Webb reveals dynamic panorama of star formation, including smallest known brown dwarfs</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/a-star-forming-region-1.jpg" alt="韦伯望远镜揭示恒星形成动态全景，发现已知质量最小的褐矮星" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）</p>
-<p>本文已按照 Science X 的编辑流程与规范进行审核。编辑在确保内容可信度的同时强调了以下属性：<br />经过同行评审的出版物</p>
-<p>这张附近恒星形成区 IC 348 繁星密布的景象，是美国国家航空航天局（NASA）詹姆斯·韦伯空间望远镜迄今为止发布的最大图像之一。天文学家利用韦伯望远镜在 IC 348 中搜寻褐矮星——这类天体的质量比最小的恒星还要小。研究人员发现了质量仅为木星两倍的褐矮星，将对这些奇特天体的研究推进到了一个全新的质量区间，并揭示了关于恒星形成过程的新见解。</p>
-<p>恒星形成区 IC 348 距离地球仅 1000 光年（约合 5.9 万亿英里），位于英仙座。在像 IC 348 这样的区域，冷的氢分子气体云发生坍缩形成新恒星，塑造出如图中所示那般发光而富有层次的壮丽景象。恒星形成过程可以产生形形色色各不相同的天体，从短短几百万年后就在核心坍缩超新星爆发中消亡的大质量恒星，到寿命极长且会产生强烈恒星风暴的最小且最常见的恒星。</p>
-<p>最小的恒星质量约为太阳质量的 8%。低于这个质量阈值的是一类奇特的天体，被称为褐矮星。褐矮星的形成方式与恒星相同，均源自分子云的坍缩。然而与恒星不同的是，褐矮星的核心温度永远不足以使普通氢核聚变为氦（尽管许多褐矮星在其生命早期会短暂聚变氘，即重氢）。</p>
-<p>目前尚不明确、且研究人员希望利用韦伯灵敏仪器研究 IC 348 来探明的问题是：由恒星形成过程所产生的最小天体究竟有多小？换句话说，最小的褐矮星有多小？</p>
-<p>试图解答这一问题的研究人员于 2022 年首次使用韦伯望远镜研究了 IC 348，当时他们发现了质量低至木星质量三到四倍的褐矮星。如今，同一个研究团队再次利用韦伯对该区域进行了更深入的探测，以搜寻质量更小的褐矮星。</p>
-<p>该团队于 2024 年利用韦伯的近红外相机（NIRCam）捕捉到了这幅 IC 348 新图像中所展示的年轻褐矮星和新生恒星的温暖光芒。在根据颜色和亮度筛选出候选褐矮星后，他们于 2025 年利用韦伯的近红外光谱仪（NIRSpec）进行了后续光谱观测，以研究这些褐矮星的质量。</p>
-<p>这些韦伯的深度观测结果于去年发表在《天体物理学杂志快报》（The Astrophysical Journal Letters）上，向研究人员揭示了非凡的发现：质量仅为木星两倍、或者说仅占太阳质量 0.19% 的褐矮星——这远远小于理论预测中褐矮星应有的质量下限。这些是已知质量最小的褐矮星，它们的存在对现有的恒星形成模型构成了挑战。</p>
-<p>除了发现这些出人意料轻盈的褐矮星外，韦伯的观测还带来了更多惊喜。其中一颗最新发现的最轻褐矮星表现出了存在星周盘的迹象，这表明一个小行星可能正在围绕一个自身质量仅相当于行星大小的天体形成。</p>
-<p>在检查 IC 348 褐矮星的光谱时，研究团队还发现了一个归因于某种未知碳氢化合物（仅由氢原子和碳原子组成的分子）的特征谱线。这一特定特征此前仅在最低质量的褐矮星大气中被观察到，暗示这类极端天体可能构成了其独有的光谱类别。</p>
-<p>IC 348 中的恒星和褐矮星并不是这张图像中仅有的亮点。右上角展示了一组细节极为精致的原恒星集合体。其中几颗原恒星伴有赫比格-哈罗天体（Herbig-Haro objects），这是当正在生长的新生恒星喷出的喷流撞击恒星周围的气体和尘埃时形成的发光区域。</p>
-<p>位于该区域右上角沿水平方向延伸的狭长特征是赫比格-哈罗天体 HH 797。仔细观察可以发现，该源实际上是两颗具有几乎平行外流的原恒星。在 HH 797 的正右侧是螺旋桨形状的源 HH 211，它同时具备狭窄的喷流和更宽阔的外流特征。</p>
-<p>用于合成这张图像的数据来自韦伯通用观测者计划 4866（Webb General Observer Program 4866）。除了研究通过恒星形成过程产生的最低质量天体外，该计划还旨在了解褐矮星等行星质量天体种群在不同恒星形成区之间的差异，以及最低质量褐矮星中碳氢化合物特征谱线的起源。</p>
-<p>期刊信息：《天体物理学杂志快报》（Astrophysical Journal Letters）<br />英语硕士，自 2021 年起担任文字编辑，在高等教育和健康领域内容方面拥有丰富经验。致力于提供可信赖的科学新闻。查看完整个人资料 →<br />数学生物学学士，创意写作硕士。履历丰富，对科学和语言持有独特视角。查看完整个人资料 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>恒星形成区IC 348位于英仙座，距离地球约1,000光年（5.9千万亿英里）。</li>
-    <li>最小的恒星质量约为太阳质量的8%，低于该质量的为褐矮星，其核心无法达到聚变普通氢为氦的温度。</li>
-    <li>来源叙事重点：聚焦詹姆斯·韦布空间望远镜在恒星形成区IC 348中刷新纪录的观测成果，强调发现了质量仅为木星2倍的已知最小褐矮星，以及该发现对现行恒星形成理论模型带来的挑战，同时展示了星周盘迹象与未识别碳氢化合物等新奇天体物理现象</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#军事防务安全</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-webb-reveals-dynamic-panorama-star.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--october-7-san-francisco-746e67bf33bbd6eb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="681" data-content-paragraphs="1" data-published-at="2026-09-15T20:36:59.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 04:36</span>
-</div>
-
-### [微软宣布将于10月7日举办Windows与Surface发布会](https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft announces Windows and Surface event for October 7th</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软宣布将于10月7日举办Windows与Surface发布会" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该话题的内容将添加到您的每日电子邮件摘要和主页信息流中。<br />该作者发布的内容将添加到您的每日电子邮件摘要和主页信息流中。<br />查看汤姆·沃伦（Tom Warren）的全部文章<br />距离上一次重大的Windows发布活动已过去两年多，因此微软将于下个月前往旧金山，勾勒Windows和Surface设备的未来蓝图。在定于10月7日举行的活动中，该公司表示将主办一场关于“本地AI将如何塑造个人电脑下一篇章”的对话。<br />微软首席执行官萨蒂亚·纳德拉（Satya Nadella）将出席本次活动，Windows与Surface业务主管帕万·达武鲁里（Pavan Davuluri）也将一同亮相。甚至英伟达首席执行官黄仁勋也将在此次活动中登场，这表明RTX Spark PC可能会成为本次发布会的重点。如果真是这样，届时听到关于微软Surface Laptop Ultra的定价与发售信息的更多细节也就不足为奇了。<br />我还预计微软将重点关注其对Windows的质量改进以及接下来的发展方向。不过，我并不指望会突然宣布Windows 12。<br />微软上一次举办大型Windows发布活动是在2024年5月，当时发布了基于Arm架构的新款Copilot Plus PC，并公布了与高通的续约合作。而在那之前的大型Windows活动则是在2021年6月，当时微软在直播中正式宣布了Windows 11。<br />The Verge将于下个月在旧金山现场直播报道微软的Windows发布活动，时间定于太平洋时间10月7日上午10点/东部时间下午1点。<br />免费每日摘要，汇集最重要的资讯。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>微软宣布将于10月7日在旧金山举办 Windows 和 Surface 活动，探讨本地 AI 如何重塑 PC 的下一篇章。</li>
-    <li>微软 CEO 萨蒂亚·纳德拉（Satya Nadella）、Windows 和 Surface 主管帕万·达武鲁里（Pavan Davuluri）以及英伟达 CEO 黄仁勋（Jensen Huang）将出席该活动。</li>
-    <li>来源叙事重点：聚焦微软将于10月7日举办的Windows与Surface特别发布会，重点关注本地AI对PC生态的重构、英伟达高管参会所暗示的RTX Spark PC硬件合作，以及对Windows质量改进而非版本换代（排除Windows 12）的预期</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-atoms-pulses-motion-html-9a1f88c019507852" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1122" data-content-paragraphs="1" data-published-at="2026-09-15T21:00:08.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🔬 深空与基础科学</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:00</span>
-</div>
-
-### [无序原子通过匹配运动与时序引导共享光脉冲](https://phys.org/news/2026-09-disordered-atoms-pulses-motion.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Disordered atoms steer shared light pulses by matching motion and timing</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/wie-sich-bewegte-atome.jpg" alt="无序原子通过匹配运动与时序引导共享光脉冲" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>作者：达姆施塔特工业大学<br />编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）<br />本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性：<br />同行评审出版物<br />德国达姆施塔特工业大学（TU Darmstadt）应用物理研究所的一个研究团队首次表明，完全无序且处于恒定运动中的原子，即使原子本身及其所处环境都不具备方向性，依然能够优先朝单一方向共同发射定向光，并且这种不对称性的强弱还可以进行专门调节。该研究论文发表在《物理评论快报》（Physical Review Letters）期刊上。<br />原子通常会独立且均匀地向所有方向发射光。要让原子向特定方向发射光，要么必须将它们置于决定光发射方向的环境中，要么让它们能够相互通信。后者可以通过例如让原子彼此靠得非常近，或者通过反射镜、光纤等光学元件将它们耦合在一起来实现。然而，尽管实现了光的定向发射，光通常仍会同时朝相反的两个方向发射。<br />在此之前，要产生仅朝单一方向传播的定向光，需要将原子固定在经过特殊排列的结构中，这些结构从一开始就区分了两个方向。相比之下，在该研究人员的实验中，原子自由运动且处于无序状态，但仍然能发射出集中的定向光。这得益于一根连接所有原子的空心光纤：通过这一共享通道，原子相互协调并构建出短暂而强烈的脉冲光，并优先沿着光纤传播。<br />此前，这些脉冲在光纤的两个方向上以相同的强度传播。该团队表明——并通过凯撒斯劳滕-兰道莱茵兰-普法尔茨工业大学（RPTU Kaiserslautern-Landau）的实验与模拟得到证实——通过将原子运动速度与发射脉冲的持续时间相匹配，可以有意打破这种平衡。结果，更多的光朝所需的方向发射。<br />这项工作表明，实现定向光发射并不需要精密设计的原子结构与排列：无序运动的原子同样可以共同朝单一方向发射光。这些发现为构建定向光源和光学元件开辟了一条新途径。<br />Yoan Spahn 等，《非手性波导中集体发射的运动诱导方向性》（Motion-Induced Directionality of Collective Emission in a Nonchiral Waveguide），《物理评论快报》（2026年）。DOI: 10.1103/9dhz-dxc8<br />期刊信息：《物理评论快报》（Physical Review Letters）<br />由达姆施塔特工业大学提供<br />英语文学硕士，自2021年起担任文字编辑，在高等教育与健康内容领域拥有丰富经验。致力于提供值得信赖的科学新闻。完整个人简介 →<br />数学生物学学士，创意写作硕士。阅历丰富，对科学和语言有独特的见解。完整个人简介 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>达姆施塔特工业大学应用物理研究所的研究团队首次表明，完全无序且处于恒定运动中的原子仍可优先向单一方向共同发射定向光，且该不对称性的强度可被特异性调节。</li>
-    <li>该研究论文发表在期刊《物理评论快报》（Physical Review Letters）上，论文题为《Motion-Induced Directionality of Collective Emission in a Nonchiral Waveguide》，第一作者为 Yoan Spahn 等人，DOI 为 10.1103/9dhz-dxc8。</li>
-    <li>来源叙事重点：聚焦基础物理实验突破，强调研究打破了传统上‘必须依赖精细人工结构或手性环境才能实现单向发光’的认知限制，突出无序运动原子利用中空光纤协同与速度-脉冲匹配实现可调控单向发光的机制与潜在应用价值。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#深空与基础科学</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-disordered-atoms-pulses-motion.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-cial-intelligence-ntwnfb-72f7a4cee2184e77" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="368" data-content-paragraphs="1" data-published-at="2026-09-15T21:17:02.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:17</span>
-</div>
-
-### [澳大利亚政坛动态直播：兰比将“危险的”汉森比作特朗普；新南威尔士州一国党党魁希望“阻止”堕胎](https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Australian politics live: Lambie compares ‘dangerous’ Hanson to Trump; NSW One Nation leader wants abortion ‘stopped’</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/a7a279c70064ed929102d387cef390b5db3c1bd9/669_0_6690_5352/master/6690.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8fd704a4ef159cababc9c122d4e3d939" alt="澳大利亚政坛动态直播：兰比将“危险的”汉森比作特朗普；新南威尔士州一国党党魁希望“阻止”堕胎" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>实时追踪当日新闻<br />订阅我们的全新政治电邮简报、免费应用程序或每日新闻播客<br />早上好，我是克里沙尼·丹吉（Krishani Dhanji），感谢马丁·法勒（Martin Farrer）为我们开启今日报道。<br />一国党（One Nation）今天将继续主导议会各处的热议话题；如果您还没读过，不妨阅读一下我的同事萨拉·马丁（Sarah Martin）关于宝琳·汉森（Pauline Hanson）之女在未经部长批准的情况下远程办公的报道。<br />在BetStop登记的人员已作出明确决定，将自己排除在网络博彩之外。博彩服务提供商必须尊重该决定，及时注销其账户，并确保他们不会成为博彩促销的目标对象。<br />BetStop是一项重要的消费者保护措施，但前提是博彩公司遵守相关规则。对于未能履行其义务的博彩提供商，澳大利亚通信与媒体管理局（Acma）将采取行动。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian (英国卫报官方英文)】于 2026-09-16 05:17 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-s-articles-c3vgyn49y4l7o-10372e66d638a672" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2830" data-content-paragraphs="4" data-published-at="2026-09-15T21:07:13.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
-    <span class="stance-badge">英伦主流建制</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:07</span>
-</div>
-
-### [麦克勒莫被除名后，艾德·希兰美国巡演全部助阵嘉宾退出](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss)
-<div class="original-title-sub"><span class="orig-tag">原文</span> All support acts on Ed Sheeran&#39;s US tour quit after Macklemore dropped</div>
-
-<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg" alt="麦克勒莫被除名后，艾德·希兰美国巡演全部助阵嘉宾退出" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>艾德·希兰（Ed Sheeran）周二发表声明表示，将麦克勒莫（Macklemore）从其即将举行的美国巡演场次中除名是主办方的决定。<br />在说唱歌手麦克勒莫因在舞台上发表支持巴勒斯坦的言论而被从演出阵容中除名后，艾德·希兰美国巡演的所有剩余助阵嘉宾均已退出。<br />其中包括流行歌星比莉·艾利什（Billie Eilish）的哥哥芬尼亚斯（Finneas），他在一份声明中表示：“当艺术家为受压迫者发声时，绝不能让他们被噤声。”<br />爱尔兰创作歌手艾伦·罗威（Aaron Rowe）和丹麦乐队卢卡斯·格拉汉姆（Lukas Graham）也宣布退出。每晚与希兰同台演出的爱尔兰民谣乐队Beoga也同样退出了巡演。<br />这些声明发布前数小时，希兰曾表示自己不会卷入关于加沙的公众辩论，并强调麦克勒莫被移出巡演阵容并非由他负责。<br />“麦克勒莫离开巡演是主办方的决定，不是我的决定，”希兰在Instagram上说。<br />“我绝不会让已经做好计划的歌迷失望，也不会抛弃巡演团队以及其他依赖我工作和谋生的助阵嘉宾及音乐人。”<br />本月早些时候，麦克勒莫——原名本杰明·哈格蒂（Benjamin Haggerty）——在新泽西州的两场演唱会期间呼吁“解放巴勒斯坦”，并展示了加沙遭受破坏的画面。<br />他的言论引发了犹太团体的批评，随后一些演出场馆向巡演主办方施压，要求将其从巡演中除名。<br />希兰在其声明中表示，他“整周都在与各场馆进行长时间沟通，试图搭建沟通的桥梁”——但主办方墨西拿巡演集团（Messina Touring Group）最终还是终止了其演出安排。<br />麦克勒莫在周一的声明中表示，照片中拍摄于2014年的艾德·希兰与麦克勒莫已有13年的友谊。<br />尽管这位明星表示自己对“以色列和巴勒斯坦之间的冲突深感震惊”，并称“双方遭受的苦难和痛苦是一场人类悲剧”，但他同时也试图解释自己与政治问题保持距离的决定。<br />“我并非同谋，”他写道。“对于这场毁灭性的冲突，我有我个人的看法。仅仅因为我选择不在公开场合发声，并不意味着我没有这些看法，也不意味着我不在乎。<br />“这也不意味着我没有以我自己的、私人的方式去支持这些事业。”<br />他继续说道：“我不在我的专业平台谈论政治是有原因的——我的受众包括来自各种背景的年轻人，往往还有儿童。<br />“来到我演唱会现场的人并不是为了看一场政治论坛。我尊重麦克勒莫为自己所坚信的事物挺身而出并大声呼吁的坚定决心。<br />“然而，要达到同一个目标——和平，可以有多种途径。<br />“我选择利用我的知名度和平台来营造一个安全和庇护的场所，保持外交斡旋，让对话保持开放而不是关闭。如果我们只专注于谁喊得最响，那就永远不会改变任何事情。倡导变革有不同的途径。”<br />希兰补充说，“就像我所有的助阵嘉宾一样”，麦克勒莫此前一直被允许自行挑选曲目单。<br />如果该声明旨在安抚他的歌迷和巡演阵容中的其他艺术家，那么它似乎起到了相反的效果。<br />卢卡斯·格拉汉姆在Instagram上写道：“我们应该能够谈论战争、谈论被杀害的平民、谈论理应长大的孩子们。无论他们住在哪里，无论他们头顶飘扬着什么旗帜。”<br />罗威今年早些时候曾担任巡演澳大利亚站的开场嘉宾，并在6月重新作为美国站的助阵嘉宾，他表示自己“做出（退出的）决定并非轻率之举”，并补充道：“艾德一直是我的朋友，改变了我的生活，我对他的感激无以言表。”<br />这场争议始于9月4日，当时麦克勒莫在艾德·希兰于新泽西州大都会人寿体育场（MetLife Stadium）举行的演唱会上演出。<br />他向观众说道：“我最初想参加这次巡演的很大一部分原因，就是为了能站在像这样的体育场里，说出两个在我心中非常非常珍贵的词：解放巴勒斯坦。”<br />随后，他演唱了歌曲《欣德的大厅》（Hind&#39;s Hall），这首歌献给哥伦比亚大学支持巴勒斯坦的抗议者，并谴责了以色列在加沙的军事行动，大屏幕上同时播放了加沙遭受破坏的视频画面。<br />现场部分观众欢呼雀跃——但网络上几乎立刻就出现了批评声。<br />以色列美籍人士理事会（Israeli American Council）发起请愿，要求将其移出巡演阵容；倡导团体“阻止反犹太主义”（StopAntisemitism）则表示，这位音乐人用宣传文宣对歌迷进行了突袭式灌输——流行歌星粉红佳人（Pink）在Instagram上转发了这一说法，使之进一步发酵。<br />第二天晚上，麦克勒莫重返同一舞台，直接对台下的“犹太兄弟姐妹”发表讲话。<br />“对以色列的批评、对种族隔离的批评、反对种族灭绝，绝非是对你们的批评，”他说，并补充说他希望加沙和约旦河西岸的人们知道他们没有被遗忘。<br />以色列否认有关种族灭绝的指控。以方表示，其部队在加沙和被占领的约旦河西岸开展的行动是符合国际法的自卫行动。<br />2023年10月7日，哈马斯对以色列南部发动了前所未有的袭击，造成约1200人死亡，251人被扣为人质；以色列军方随后在加沙发起军事行动以作为回应。<br />据该地区由哈马斯运营的卫生部门称，在以色列于加沙开展军事行动期间，已有超过73780人丧生，联合国认为该部门的数据是可靠的。<br />经过数天的媒体报道后，麦克勒莫于周一宣布自己已被从阵容中除名。<br />在Instagram上的一份声明中，他表示这场抵制是由马萨诸塞州吉列体育场（Gillette Stadium）的亿万富翁老板罗伯特·克拉夫特（Robert Kraft）组织的。<br />曾聘请艾德·希兰在其婚礼上表演的克拉夫特证实，他做出了禁止麦克勒莫演出的决定，称其场馆不会“为仇恨言论提供平台”，并指责该说唱歌手“有着更广泛的反犹太主义言论史”。<br />“我同意麦克勒莫的看法，逝去的生命太多了，苦难也太深了，但只选择性地分享信息而无视哈马斯的行径是不诚实的，只会加剧更多的分裂和仇恨，”克拉夫特说。<br />然而，他并未就关于他曾要求其他场馆向巡演施压的说法作出回应。<br />巡演主办方墨西拿巡演集团告诉《滚石》（Rolling Stone）杂志，场馆方面已告知他们将不允许麦克勒莫演出，“这将导致巡演被取消，并影响数十万歌迷”。<br />周二晚上宣布退出的许多艺人表示，克拉夫特的介入影响了他们的决定。<br />“金钱并不赋予你掌控话语权的权利，”卢卡斯·格拉汉姆表示。<br />“任何人的银行存款余额都不应该决定谁能发言，或者允许我们承认哪种苦难。”<br />麦克勒莫在声明中表示，他对希兰所处的两难境地深表同情，但批评这位英国歌手没有表明立场。</p>
-<p>“选边站队会让你付出代价。金钱、品牌代言、赞助、音乐节演出、私人堂会、人际关系和各种门路。我已经失去了所有这些。但在压迫者与被压迫者之间，不存在中立的立场，”他写道。</p>
-<p>他还强调，尽管他只完成了巡演中的两场演出，但如果他的话成功地“将话题拉回巴勒斯坦，那么这就是我参加过的最成功的一次巡演”。</p>
-<p>麦可莫在发表“自由巴勒斯坦”言论后被移出艾德·希兰巡演阵容<br />麦可莫表示呼吁“自由巴勒斯坦”并非针对犹太群体的攻击<br />美国说唱歌手麦可莫因苏丹战争取消迪拜演出</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【BBC World (英国BBC官方英文)】于 2026-09-16 05:07 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#BBC</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-world-2188111-ff213bb235ca96c5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="280" data-content-paragraphs="3" data-published-at="2026-09-15T21:04:47.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:04</span>
-</div>
-
-### [德国选择党寻求与俄罗斯关系全面正常化——《图片报》](https://tass.com/world/2188111)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AfD seeks full normalization of relations with Russia — Bild</div>
-
-<div class="article-body" data-article-body="true"><p>柏林，9月15日。/塔斯社/。《图片报》援引消息人士报道，德国选择党（AfD）打算寻求与俄罗斯实现关系全面正常化，并恢复双边贸易。</p>
-<p>该党的外交政策工作组已通过了一份关于俄罗斯的政策文件，并计划于本月敲定一份关于美国的文件。德国选择党寻求恢复与俄罗斯的贸易以及对俄石油和天然气的采购，改善双边关系，并终止对乌克兰的军事援助。</p>
-<p>德国联邦议院德国选择党议员马库斯·弗罗恩迈尔（Markus Frohnmaier）表示，该小组一致支持基于德国国家利益的外交政策。该党还欢迎美国总统唐纳德·特朗普治下“美国外交政策的重新调整”，以及他摆脱“以往的全球干预主义政策”。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-16 05:04 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TASS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://tass.com/world/2188111" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--tour-free-palestine-cry-f14c7c852f4cb543" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1507" data-content-paragraphs="18" data-published-at="2026-09-15T21:00:41.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 05:00</span>
-</div>
-
-### [迈克尔·拉帕波特对麦克莫尔被踢出艾德·希兰巡演表示欢呼，破口大骂“去你的”](https://www.foxnews.com/media/michael-rapaport-cheers-macklemore-dropped-ed-sheeran-tour-free-palestine-cry)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Michael Rapaport cheers Macklemore getting dropped from Ed Sheeran&#39;s tour, says &#39;f--- you&#39;</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/macklemore-concert.jpg?ve=1&amp;tl=1" alt="迈克尔·拉帕波特对麦克莫尔被踢出艾德·希兰巡演表示欢呼，破口大骂“去你的”" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>周一，演员迈克尔·拉帕波特（Michael Rapaport）对歌手麦克莫尔（Macklemore）被踢出艾德·希兰（Ed Sheeran）巡演表示庆祝，此前麦克莫尔在作为开场嘉宾时，反复高呼“解放巴勒斯坦”，并演唱了他的反以色列歌曲《欣德大厅》（Hind’s Hall）。</p>
-<p>“麦克莫尔别再唱说唱了，你被踢出巡演了。这句押韵比你在那可笑的非说唱歌手生涯中所创作的任何东西都要强，”拉帕波特在X平台上的一段视频中说道。</p>
-<p>“反犹‘说唱歌手’麦克莫尔被艾德·希兰的巡演踢出去了，”他补充道。“现在你可以回到你位于华盛顿州被偷来土地上的家里，去学一门乐器了。去上上舞蹈课，上上唱歌课。去学学怎么弹钢琴。因为当人们来看音乐演出时，你需要表演音乐，而不是去散布关于假种族灭绝、假占领和假种族隔离的胡扯谎言。去你的，听懂了吗？”</p>
-<p>麦克莫尔在因亲巴勒斯坦立场被踢出艾德·希兰巡演后变本加厉</p>
-<p>“你现在有的是时间。我要你和你们那些喊着‘解放巴勒斯坦’的怂包混蛋们回去看看10月7日的一些视频。听懂了吗，混蛋？麦克莫尔，你这个既不会唱歌又不会跳舞的扯淡艺人，还有你们剩下的那帮推销‘解放巴勒斯坦’宣传的混蛋。哦是吗？新年快乐（犹太新年祝词，L&#39;shana Tova）！”拉帕波特总结道。</p>
-<p>福克斯新闻数字频道（Fox News Digital）联系了麦克莫尔的代表以征求评论，但未立即收到回应。</p>
-<p>在此之前，该说唱歌手在一则视频中发表演讲，为其利用舞台传递政治信息的做法辩护，拉帕波特随后对其发起了抨击。</p>
-<p>麦克莫尔在社交媒体上分享的一段视频中说道：“我当初之所以想参加这次巡演，很大一部分原因就是为了能够站上这样的体育场，大声说出两个深深烙印在我心中的词：解放巴勒斯坦。”</p>
-<p>P!nk因批评麦克莫尔在演唱会上的亲巴勒斯坦言论遭反弹后进行反击</p>
-<p>“我说过，‘解放巴勒斯坦！’我希望这些话能响亮且清晰地传递出去，以便从加沙一路到被占领的约旦河西岸的人们都能知道，我们没有忘记他们，”他继续说道。</p>
-<p>“想象一下，你去买票看艾德·希兰，而这个毫无才华、不会唱、不会rap、不会跳的小丑麦克莫尔作为开场嘉宾，而且因为他根本没有任何真本领或特定技能，他就到处瞎蹦跶，大肆宣扬加沙一场从未发生过的种族灭绝，”拉帕波特写道，并补充说，“这真是一场噩梦。”</p>
-<p>拉帕波特是犹太人，经常公开为以色列辩护。他在克雷格·卡顿（Craig Carton）的新OutKick节目《克雷格·卡顿秀》（The Craig Carton Show）中表示，他的亲以色列立场在2026年对他而言成了一个“麻烦”。</p>
-<p>“不，这——是的，事业方面一直是个问题，”拉帕波特说。“确实成了个麻烦。演出正在遭到抵制。太糟糕了。这让谁都觉得不舒服。这让俱乐部不舒服，也让其他喜剧演员感到不自在。”</p>
-<p>比尔·马赫痛批麦克莫尔在加沙问题上的立场，称名人的“道德困惑”正在助长反犹主义</p>
-<p>他补充说，自己在纽约市因其立场遭到言语攻击和威胁。</p>
-<p>“反犹太主义、反犹太人的言论，”拉帕波特说。“这刺痛了我，让我感到难堪，我不希望我身后的任何其他犹太人感到不舒服、害怕或犹豫去反抗、站出来并为此感到骄傲，无论他们以何种方式。”</p>
-<p>然而，包括极左翼Twitch主播哈桑·皮克（Hasan Piker）在内的几位知名人士批评了将麦克莫尔踢出巡演的决定。</p>
-<p>“这完全是一个被比比（内塔尼亚胡）表彰过的极端锡安主义特朗普支持者的荒谬立场，他因打击以色列的批评者而获奖。很显然，我们的亿万富翁们将他们情感寄托的种族隔离国家及其种族灭绝置于言论自由之上。我们绝不能让这种事情发生，”皮克周一在X上写道。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-16 05:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/media/michael-rapaport-cheers-macklemore-dropped-ed-sheeran-tour-free-palestine-cry" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-childhood-jonathan-haidt-2b545b301599eb22" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2838" data-content-paragraphs="17" data-published-at="2026-09-15T20:13:30.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-16 04:13</span>
-</div>
-
-### [如果社交媒体并没有伤害孩子呢？](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt)
-<div class="original-title-sub"><span class="orig-tag">原文</span> What if social media isn’t hurting kids?</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="如果社交媒体并没有伤害孩子呢？" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>一本新书指出，青少年心理健康水平下降的幕后推手是现代学校教育而非手机。会有人倾听吗？</p>
-<p>该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。</p>
-<p>查看劳伦·费纳（Lauren Feiner）的全部文章</p>
-<p>两年前，社会心理学家乔纳森·海特（Jonathan Haidt）出版了他的《纽约时报》畅销书《焦虑一代》（The Anxious Generation）。该书认为，社交媒体和智能手机使用的兴起，在很大程度上应为2010年以来青少年心理健康水平的显著下降负责。该书迅速成为反对社交媒体浪潮的核心口号。海特被认为推动启发了澳大利亚全国范围内的青少年社交媒体禁令。他还与在法庭上对抗科技公司的遇难儿童父母联合起来。在与当权者的交谈中，海特的名字常被主动提及，这些人称他的书让他们看清了一场网络危机。</p>
-<p>海特的理论经常受到公认学者的批评。著名青少年心理健康研究员坎迪斯·奥杰斯（Candice Odgers）在《自然》（Nature）杂志上对海特的分析发表了一篇言辞犀利的书评，开篇便承认：“这本书会大卖，因为乔纳森·海特讲述了一个关于儿童发育的骇人故事，而许多家长早就准备好相信这个故事了。”如今，正如这一高度准确的预测所言，海特的一位前同事不仅试图推翻他的理论，还提出了一种替代解释。最大的问题或许不在于他是否正确——而在于即使他是对的，现在改弦更张是否为时已晚。</p>
-<p>心理学研究员彼得·格雷（Peter Gray）在其新书《重塑童年》（Restoring Childhood）中认为，青少年的心理健康状况恶化是由于几十年来自主权持续减少造成的；在经历了一段短暂的缓解期后，它在2010年代再度下滑，但这并不像海特所认为的那样是因为手机和社交媒体，而是因为与“共同核心州立标准”（Common Core）课程相关的僵化教学方式，以及政府要求提高学生成绩的压力。此外，格雷还认为，家庭互联网在20世纪90年代和21世纪初的普及非但没有危害，反而通过恢复早前几十年失去的自由和联系，推动了青少年心理健康的反弹。他担心社交媒体禁令不仅像奥杰斯所指出的那样转移了对真正解决方案的注意力，其本身甚至也是一种新的伤害。</p>
-<p>“你把智能手机从孩子手中夺走，那项研究表明你会让他们变得更不快乐”</p>
-<p>在播客节目《The Vergecast》的采访中，格雷告诉我，海特的书“完全忽视了”数十项元分析及其他研究，这些研究发现“孩子们花在社交媒体或智能手机上的时间与其心理健康之间甚至没有显著的相关性”。格雷补充道，在确实存在某些关联的地方，研究表明青少年可能是利用社交媒体来应对他们的抑郁或焦虑。他引用了佛罗里达州的一项研究，该研究发现拥有智能手机的11至13岁儿童更有可能在现实世界中与朋友共度时光。“你把智能手机从孩子手中夺走，那项研究表明你会让他们变得更不快乐，而且朋友也会更少，”他说。</p>
-<p>格雷表示，多年来的各项研究表明，孩子们一贯将学业压力而非社交媒体列为其最主要的焦虑来源。“这并不意味着它是每个人的首要压力源，但放眼整个人群，在我能找到的每一项询问孩子们‘你焦虑、压力或抑郁的主要来源是什么？’的研究中，无一例外，学业压力都高居榜首，”格雷告诉我，“其他任何因素都难以望其项背。”</p>
-<p>格雷和海特都认为，至少自20世纪80年代以来，对儿童独立性和非结构化玩耍的限制日益增加，损害了他们的心理韧性。过去儿童在无人看管的情况下一起玩耍曾十分普遍，但这种现象已有所减少，部分原因是罕见但备受瞩目的犯罪事件助长了“提防陌生人”（stranger danger）的舆论氛围。2017年，两人共同创立了一个名为“放手成长”（Let Grow）的组织，该组织倡导让家长更容易允许孩子自由玩耍的政策，例如确保家长不会因为让孩子独自外出而被认定为疏于照料。但两人在互联网的影响上产生了严重分歧。格雷的新书旨在对海特进行蓄力反驳——在《焦虑一代》出版后，格雷辞去了“放手成长”组织的董事会职务，以避免组织内部的冲突。</p>
-<p>海特未回应The Verge的置评请求，但他在7月接受《大西洋月刊》（The Atlantic）记者凯特琳·蒂芙尼（Kaitlyn Tiffany）采访时表示，20世纪90年代和2000年代初青少年自杀率的下降可能归功于含铅汽油的逐步淘汰，因为铅暴露与心理健康问题密切相关。他还告诉蒂芙尼，格雷过度依赖少数持异见的学者群体。蒂芙尼写道，在她交流过的十几位科技和儿童发育研究人员中，许多人“对海特夸大相关性研究结果的力度并在未经证实的情况下暗示因果关系表示担忧”。</p>
-<p>格雷指责海特煽动了一场针对技术本身的道德恐慌，而这项技术总体上并无危害。他表示，综合各项研究来看，“共同核心”标准是青少年心理健康断崖式下滑的最明确解释。而且在人口层面上，社交媒体的影响“相互抵消了。有些孩子因为使用社交媒体表现得更好，有些孩子则表现得更差。”</p>
-<p>“我们不能再把孩子当成傻子对待了”</p>
-<p>格雷表示，他并不反对所有的保护防线，包括学校禁用手机以及访问色情内容需验证年龄的规定。但他质疑针对社交媒体禁令的有效性，因为他清楚孩子们很可能会绕开这些限制，并且他对限制让孩子们自我表达的平台心存疑虑——他建议家长应着重教导孩子如何安全使用这些平台。“我们不能再把孩子当成傻子对待了，”他告诉我，“我们必须开始认识到，孩子们其实很清楚什么对自己有益、什么对自己有害，并且他们能够在我们的指导帮助下学会如何处理这些事情。”</p>
-<p>然而，对于低龄青少年的父母而言，他们越来越没有选择的余地。海特的理论在许多圈子（包括政界人士当中）占据着无可置疑的主导地位。自澳大利亚针对青少年推行社交媒体禁令以来，英国和欧盟也在考虑各自的禁令或平台限制举措。在美国，加利福尼亚州和纽约州等州已对某些社交媒体功能出台了限制，一项联邦法案提案则计划限制向17岁以下未成年人推送算法信息流。即使在那些认为格雷关于“共同核心”课程的论点令人信服的人群中，有些人可能仍然认为让孩子们脱离网络是一种无害的预防性举措。</p>
-<p>在反对手机与社交媒体的声浪如此迅猛的势头下，格雷（Gray）的书还能产生影响吗？“我当然希望现在还不算太晚，”他说道。他指出，一些道德恐慌最终都逐渐消退了。例如在20世纪90年代和21世纪初，许多人担心像《真人快打》（Mortal Kombat）和《毁灭战士》（Doom）这样的电子游戏正在让孩子们变得更具暴力倾向，并将这些游戏的兴起与校园枪击案联系起来。最终，研究表明许多大规模枪击案凶手根本就不玩电子游戏。监管层面的尝试——包括加利福尼亚州禁止向儿童出售暴力游戏的禁令——基本上都被推翻了。而许多玩过这些游戏的孩子长大后成为了掌权者。“科学最终赢得了胜利，”格雷说。“所以赢的不是我，而是科学将赢得胜利。”<br />查看所有社交媒体<br />免费每日精选重要资讯。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-16 04:13 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--whatsapp-business-setup-15b4350032237535" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1210" data-content-paragraphs="8" data-published-at="2026-09-15T20:12:53.000Z" data-time-source="publication">
+<div id="story-vidias-jensen-huang-says-049ed956b8239821" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2055" data-content-paragraphs="14" data-published-at="2026-09-16T00:20:39.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-16 04:12</span>
+  <span class="news-meta-time">🕒 2026-09-16 08:20</span>
 </div>
 
-### [Meta现允许AI智能体接管WhatsApp商业版配置的繁琐环节](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Meta now lets AI agents handle the boring parts of WhatsApp Business setup</div>
+### [英伟达黄仁勋表示：我们不需要人工智能监管——把安全问题交给我们](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says</div>
 
-<div class="article-body" data-article-body="true"><p>在公布全新面向AI的订阅计划之余，Meta于周二宣布，将允许用户自行选择AI智能体来设置和管理WhatsApp Business消息服务。该服务允许企业通过WhatsApp对话与客户建立联系。</p>
-<p>正如Meta所解释的，这一过程此前较为繁琐，需要开发者在不同工具和服务之间来回切换，包括开发者控制台（Developer Console）、Meta商务管理平台（Business Manager）、API参考文档以及他们自己的编辑器。现在，他们只需与心仪的AI智能体对话并描述需要完成的任务，即可由智能体代为配置WhatsApp Business消息服务。</p>
-<p>这一功能的实现依托于全新的WhatsApp Business Tools MCP——一个模型上下文协议（Model Context Protocol）服务器，能够将Claude、Cursor、Codex或ChatGPT等AI编程智能体直接连接至WhatsApp商业平台（WhatsApp Business Platform）。</p>
-<p>此举意味着Meta正进一步拓展其现有的MCP服务器产品线。此前其MCP服务器主要用于管理广告、监控应用配置及其他社交技术，如今则新增了专门用于帮助企业入驻WhatsApp的工具。许多其他科技公司也提供允许AI智能体与其服务进行安全交互的MCP服务器，包括PayPal、Stripe、GitHub、Notion、Slack、Salesforce、Atlassian、X、谷歌（Google）、微软（Microsoft）等。</p>
-<p>企业还将能够把AI智能体用于其他任务，例如向AI描述想要创建的消息模板，或让智能体编辑现有模板。此外，他们还可以测试消息和网络钩子（webhooks），并监控此前可能在静默中失败的事项，如服务条款确认、支付方式和企业验证等。</p>
-<p>该公司指出，在安装和配置过程中，Meta的另一款MCP服务器——Meta Social Technologies MCP，也可用于发现API端点、检索文档并协助排查错误。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>消费新闻编辑<br />预订展位最后截止日为9月18日。切勿错失Disrupt展厅中的高效潜在客户、投资人对接机会以及品牌曝光时刻。<br />Revolut证实因伪造政府请求遭遇客户数据泄露<br />由于Astra需求火爆，OpenAI暂停Pro订阅<br />Bending Spoons将以13.6亿美元收购协作工具制造商Miro，较其2022年估值暴跌90%<br />身份验证巨头IDScan证实遭遇数据泄露，逾1.5亿张驾照信息被窃<br />Automattic董事会迫使首席执行官马特·穆伦维格（Matt Mullenweg）休假离岗<br />苹果发布旗下首款折叠屏手机iPhone Duo<br />“拿我们的生命做赌注”：Anthropic研究员辞职，警示自我迭代AI风险</p></div>
+<div class="article-body" data-article-body="true"><p>周二，英伟达创始人兼首席执行官黄仁勋在Salesforce主办的Dreamforce科技大会上发表演讲，十分明确地阐述了他对人工智能（AI）所带来危险的立场。在他看来，AI绝非像至少一位OpenAI安全研究人员所形容的那样，是某种新型的“外星心智”。他表示，它只不过是由人类构建的硬件和软件。这意味着在他眼中，它完全可以被人类以及现有法律所约束。</p>
+<p>“安全是一个工程问题，而不是法律问题，”他表示。“我们毕竟是在开发软件。我们毕竟是在开发计算系统。它确实是一个复杂的计算系统，但归根结底依然是一个计算系统。”</p>
+<p>因此，他认为根本不需要新的法律或监管法规来对其加以管辖。事实上，黄仁勋认为几乎完全没有制定新法的必要。他辩称，自由市场本身就足以施加压力，促使各家公司不敢发布不安全的产品。</p>
+<p>“如果我们对产品的安全性缺乏信心——就像所有公司一样，像你我一样，像这里的任何一家以及所有公司一样——如果你打造了一款产品或服务，却对它的功能、性能或安全性没有把握，那就不要发布它。这是一个显而易见的道理，”他说。</p>
+<p>他接着补充道：“你要把握好自己的节奏，直到确信自己发布的产品能受到市场的认可。市场的力量早已存在。我们不需要任何新法律。我们不需要新监管法规。我们只需要各家公司自行决定何时全速前进。我认为，创新、速度与安全产品……这并不是非此即彼的虚假选择。你完全可以兼顾两者。因此，尽管以最快速度奔跑吧。但如果在任何特定时刻，你觉得公司失控了，或者觉得产品可能不安全，那就停下来，确保把它做好。”</p>
+<p>从某种程度来说，这是一个令人宽慰的观点。如果说世界上有谁最懂AI，那非英伟达创始人莫属——远在ChatGPT问世之前，他就已经在打造AI的硬件“大脑”，而如今他所掌舵的公司不仅如此，还涉足开源模型、智能体、测评工具套件以及沙箱环境。</p>
+<p>不过从挑剔的角度来看，对于一个从这轮AI热潮中大获其利的人而言，持有这种观点也并不令人意外。他又何必希望监管插手并增加一层阻碍，进而拖累英伟达销售更多AI系统与软件的野心呢？正如他在采访中所说：“我比以往任何时候都更有雄心。得益于我们的雄心壮志，以及我们从AI中获得的产品生产力飞跃，对我们而言一切皆有可能。对于我们公司而言一切皆有可能。对于每个行业、每个国家而言，也是一切皆有可能。”</p>
+<p>遗憾的是，即使是出于最良好初衷的公司，发布的产品也可能带有缺陷并引发意料之外的后果，软件也不例外。还记得2024年CrowdStrike蓝屏死机的那场灾难吗？当时数千架次航班被迫停飞，并给各行各业造成了巨大混乱。更有甚者，一些公司还被指控怀有不良意图故意为之。Meta刚刚支付了180亿美元，以就社交媒体危害儿童的诉讼达成和解。</p>
+<p>此外，无论其初衷如何或进行了怎样的安全测试，AI已经引发了实际危害：从OpenAI的模型侵入Hugging Face，到因年轻人与聊天机器人长期交谈后自杀而针对该AI实验室提起的诉讼，不一而足。</p>
+<p>就整个社会而言，采取这种“放任自流”、任由各公司自行决定何时发布产品的策略，在AI安全方面可能并非明智之举。尽管黄仁勋说的有一定道理，即现有的产品责任法有可能覆盖AI——前提是AI没有在足够多的案例诉至法院以检验这一理论之前，以某种方式毁灭了我们所有人。</p>
+<p>他并未讨论另一条似乎正在逐渐成形的路径：行业自律。黄仁勋的做法更多是力挺开放权重模型，倡导各企业利用这些模型作为制衡专有AI实验室的竞争杠杆。</p>
+<p>然而眼下，整个行业建立自律机制的窗口期十分短暂，若要借此鼓励全球各地的AI实验室（包括中国的实验室）认识到参与其中的明智之处，时间同样所剩无几。正如微软首席执行官萨蒂亚·纳德拉周一在All-In峰会上所说：“如果美国关心这些安全问题，中国理应同样深切关注，不是吗？对他们而言又何尝不同？他们同样难逃此类黑客攻击问题。他们也同样希望确保本国公民能够从AI中受益，正如我们希望我们的公民受益一样。”</p>
+<p>不过目前而言，如果黄仁勋对任何新的AI监管均持否定态度，以他的影响力或许足以如愿以偿。他本周也展现出自己确实能够直接向特朗普总统进言。</p>
+<p>（当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。但这不会影响我们的编辑独立性。）<br />（展台预订最后截止日期为9月18日。切勿错过在Disrupt博览厅获得高价值销售线索、接触投资人以及提升品牌知名度的绝佳机会。）<br />（特斯拉表示将于10月1日正式发布第二代Roadster）<br />（Revolut证实因伪造政府请求遭遇客户数据泄露）<br />（由于Astra需求火爆，OpenAI暂停Pro订阅服务）<br />（Bending Spoons将以13.6亿美元收购协作工具开发商Miro，较其2022年估值折让90%）<br />（身份验证巨头IDScan确认发生数据泄露，超过1.5亿张驾照遭窃）<br />（Automattic董事会迫使首席执行官马特·穆伦维格休假）<br />（“拿我们的生命作赌注”：Anthropic研究员辞职，警告防范自我改进型AI）</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-16 04:12 发布，当前内容状态：已取得正文证据</li>
+    <li>英伟达创始人兼首席执行官黄仁勋在周二举办的Salesforce Dreamforce科技峰会上发表演讲，阐述其对AI安全与监管的立场。</li>
+    <li>黄仁勋认为AI不是某种新形式的“外星人思维”，本质上是人类构建的硬件和软件，可以通过人类和现有法律进行控制。</li>
+    <li>来源叙事重点：报道黄仁勋在Dreamforce大会上反对AI立法监管、主张通过工程手段与自由市场解决安全问题的观点；同时运用Meta诉讼和CrowdStrike故障等反例，质疑英伟达背后商业利益驱动下的“放任主义”对公众社会带来的系统性风险。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-o-trump-delaware-primary-077a8f6c0007b5e6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1037" data-content-paragraphs="15" data-published-at="2026-09-16T00:19:06.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🛡️ 军事防务安全</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 08:19</span>
+</div>
+
+### [特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者](https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Dem senator defeats challenger named &#39;No-Trump&#39; in Delaware primary</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/american-lawmakers-denmark-greenland-january-2026.jpg?ve=1&amp;tl=1" alt="特拉华州初选：民主党参议员击败名为“不要特朗普”的挑战者" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>周二，一名民主党中坚力量在特拉华州轻松赢得初选，其中包括击退了一名带有反特朗普名字的对手。</p>
+<p>特拉华州民主党籍参议员克里斯·库恩斯（Chris Coons）轻松抵挡住了少数几位初选挑战者的攻势，锁定了参议院候选人的民主党提名，他在定于11月举行的大选中争取第三个任期并有望获胜。在此过程中，他击败了一名名字不同寻常的对手：E·不要特朗普·汉森（E. No-Trump Hansen）。</p>
+<p>汉森原名埃里克·汉森（Eric Hansen），曾是一名企业高管，他的竞选纲领以限制总统权力为核心。针对唐纳德·特朗普总统“最恶劣的冲动”，他提出的解决方案是通过立法来限制总统权力，以“恢复真正的制衡机制，并根除腐败与自私自利”。</p>
+<p>吵闹的初选季在深蓝重镇迎来终章，正式拉开通往11月决选的冲刺序幕</p>
+<p>他的竞选网站上写道：“‘E·（埃里克）·不要特朗普·汉森’这个名字绝非噱头——这是他对积极变革的全心承诺。”</p>
+<p>汉森在接受当地媒体WHYY采访时表示，他改名是为了表达对特朗普的反对。</p>
+<p>汉森说：“特朗普曾表示，他会动用一切手段打击他的批评者。他会盯上我，但我无论如何都愿意承担这一风险——因为另一种选择就是任由特拉华州人民的境况继续恶化。”</p>
+<p>麦康奈尔在缺席数月后重返参议院参加关键表决</p>
+<p>向联邦选举委员会（FEC）提交的候选人声明显示，汉森自7月起正式以新名字展开竞选活动。此前，汉森曾于2024年作为共和党人参选并赢得共和党提名。</p>
+<p>他最终败给了特拉华州民主党籍参议员丽莎·布朗特-罗切斯特（Lisa Blunt-Rochester）。</p>
+<p>与此同时，库恩斯击败汉森、杰夫·阿佩尔汉斯（Jeff Appelhans）和玛丽·卢夫（Mary Louve）后，将在11月迎战迈克·卡茨（Mike Katz）或约翰·舒利（John Shulli）中的一人。</p>
+<p>随着斥巨资的得克萨斯攻势打开资金阀门，共和党援军赶来支援肯·帕克斯顿</p>
+<p>作为参议院国防拨款小组委员会的民主党领头人，历史站在了库恩斯这一边。这位议员最初进入国会是为了接替时任参议员乔·拜登，后者当时被前总统巴拉克·奥巴马选为其竞选搭档。</p>
+<p>他在2014年赢得了首个完整任期，自那以后一直牢牢占据该职位。自1966年前参议员J·卡莱布·博格斯（J. Caleb Boggs）连任失败以来，这个“第一州”就再也没有向参议院输送过共和党人。</p>
+<p>当年，博格斯被年仅29岁的拜登赶下了台，从而奠定了特拉华州在未来数十年作为深蓝重镇的地位。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>民主党参议员克里斯·库恩斯（Chris Coons）在特拉华州初选中获胜，赢得该州参议员民主党提名。</li>
+    <li>克里斯·库恩斯的初选挑战者之一合法改名为 E. No-Trump Hansen（原名 Eric Hansen）。</li>
+    <li>来源叙事重点：重点聚焦资深民主党参议员克里斯·库恩斯（Chris Coons）轻松赢得特拉华州初选，突出其击败了一位合法改名为“No-Trump”的奇特挑战者，并强调特拉华州作为“深蓝州”对民主党连任的天然优势。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#军事防务安全</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/politics/dem-senator-defeats-challenger-named-no-trump-delaware-primary" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-t-midterm-poll-september-30fb04a6f530a157" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="698" data-content-paragraphs="9" data-published-at="2026-09-15T23:34:25.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 07:34</span>
+</div>
+
+### [各项民调显示人工智能与数据中心极不受欢迎](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september)
+<div class="original-title-sub"><span class="orig-tag">原文</span> AI and data centers are incredibly unpopular in every poll</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="各项民调显示人工智能与数据中心极不受欢迎" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的相关文章将被添加到您的每日电子邮件文摘和主页信息流中。</p>
+<p>61%的可能投票选民表示反对建设人工智能数据中心，但两大主要政党均未占据明显优势。</p>
+<p>该作者的相关文章将被添加到您的每日电子邮件文摘和主页信息流中。</p>
+<p>查看理查德·劳勒（Richard Lawler）的全部文章</p>
+<p>《纽约时报》与锡耶纳学院（Siena University）周二公布的民调数据证实了我们早已观察到的现象，也是政界人士正在作出的反应——人工智能和数据中心极不受欢迎。当被问及是否支持或反对建设用于支持人工智能技术的数据中心时，在9月初（在近期关于人工智能安全放缓讨论之前）接受调查的1503名可能投票选民中，有61%的人表示反对，仅有14%的人表示强烈支持。在2024年唐纳德·特朗普（Donald Trump）的选民中，意见分歧较为接近，支持与反对的比例分别为49%和45%；而曾投票给卡玛拉·哈里斯（Kamala Harris）的选民或未投票者则倾向于反对，反对比例分别高达74%和67%。</p>
+<p>在受访的反对数据中心的选民中，有56%的人表示支持进行限制，而38%的人更倾向于彻底禁止。列出的反对原因同样发人深省：环境与用水问题最为普遍，占比32%；对当地社区的影响占21%；对人工智能的普遍不信任或反感占18%；紧随其后的是对监管的担忧和经济问题，分别占10%和9%。</p>
+<p>今年3月的一项NBC新闻民调显示，人工智能的民调支持率低于美国移民与海关执法局（ICE）；而5月的一项盖洛普（Gallup）民调显示，十分之七的美国人反对在当地建设人工智能数据中心。</p>
+<p>一份汇总关键要闻的每日免费摘要。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>《纽约时报》与锡耶纳大学在9月初对1,503名可能选民的民调显示，61%的受访选民反对为AI技术供电的数据中心建设，仅14%表示强烈支持。</li>
+    <li>在2024年唐纳德·特朗普的选民中，对建设AI数据中心的支持与反对比例为49%比45%；卡玛拉·哈里斯的选民和未投票选民倾向于反对，反对比例分别为74%和67%。</li>
+    <li>来源叙事重点：聚焦AI与数据中心在公众中极度不受欢迎的民意现状，重点突出跨党派背景下的反对情绪（尤其是民主党及未投票选民的强烈反对）、反对建设的核心动因（环境、社区影响及对AI的不信任），以及该民意对政客立场的潜在影响。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-the-month-september-2026-185880306f1f6223" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1483" data-content-paragraphs="8" data-published-at="2026-09-15T23:46:11.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nasa.svg" class="source-icon" alt="NASA News (深空探索与航天)" width="16" height="16" /> <strong>NASA News (深空探索与航天)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🔬 深空与基础科学</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 07:46</span>
+</div>
+
+### [NASA艾姆斯研究中心月度之星：2026年9月](https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> NASA Ames Stars of the Month: September 2026</div>
+
+<div class="article-cover"><img src="https://www.nasa.gov/wp-content/uploads/2026/09/nasa-arc-s-stars-of-the-mont-sep-2026.jpg?w=1920" alt="NASA艾姆斯研究中心月度之星：2026年9月" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>NASA艾姆斯科学理事会（NASA Ames Science Directorate）表彰史蒂夫·奥姆斯比（Steve Ormsby）、阿芙洛狄忒·科斯塔基斯（Aphrodite Kostakis）、亚历杭德罗·博拉夫（Alejandro Borlaff）、萨拉·尼克森（Sarah Nickerson）、玛蒂娜·考西（Martina Caussi）、野村惠子（Keiko Nomura）以及斯蒂芬·布罗卡多（Stephen Broccardo）（图中从左至右）的杰出贡献。他们对NASA使命的奉献，展现了探索这个世界及更广阔领域所需的进取精神、专业技术与协作精神。</p>
+<p>空间生物科学之星：史蒂夫·奥姆斯比<br />史蒂夫·奥姆斯比是中心运营理事会中受雇于Amentum公司的空间生物科学部项目工程师。他因在监督部门设施安全与基础设施维护方面的坚持、奉献与主动精神，以及作为财产保管员展现出的非凡敬业态度而受到表彰。</p>
+<p>空间生物科学之星：阿芙洛狄忒·科斯塔基斯<br />阿芙洛狄忒·科斯塔基斯是Amentum公司在空间生物科学部N239大楼的设施服务主管。她因在维护建筑安全方面的模范职业道德、认真细致地准备并带队开展自愿保护计划（VPP）检查，以及提出基础设施改进建议并确保其落地实施以造福大家而受到赞誉。</p>
+<p>天体物理学之星：亚历杭德罗·博拉夫<br />亚历杭德罗（亚历克斯）·博拉夫（Alejandro (Alex) Borlaff）是湾区环境研究所（Bay Area Environmental Research Institute）派驻天体物理学部的研究科学家。他因在开创和开发哈勃太空望远镜（HST）以及罗曼太空望远镜宽场相机（WFI）图像处理管线方面的领导作用而受到表彰。这些算法通过对包括散射光和黄道光在内的背景污染进行精确建模，显著提升了对极低表面亮度特征的探测能力，从而更好地最大化了从NASA旗舰级天体物理学任务中获取的科学成果。</p>
+<p>天体物理学之星：萨拉·尼克森<br />萨拉·尼克森是湾区环境研究所派驻天体物理学部的研究科学家，她因在分析和整理NASA同温层红外天文观测台（SOFIA）上EXES仪器所采集的数据方面的卓越工作而受到表彰。这项工作为全球天体物理学界提供了高级数据产品，助力持续的科学发现以及与NASA其他任务的协同效应。</p>
+<p>行星科学与地外生物学之星：玛蒂娜·考西<br />玛蒂娜·考西是行星科学与地外生物学部的NASA博士后计划研究员。玛蒂娜利用有限元模拟，确定了地形松弛在塑造木卫二（Europa）上形态异常的撞击坑“泰吉德”（Tegid）过程中起到了重要作用，她因这一杰出工作而受到表彰。该工作为即将开展的“欧罗巴快船”（Europa Clipper）任务提供了宝贵的先导科学支撑，该任务将进一步加深我们对这个海洋世界的认知。</p>
+<p>地球科学之星：野村惠子<br />野村惠子是湾区环境研究所派驻地球科学部NASA地球交流中心（NEX）的研究科学家。她因近期获得资助的NEX-GeoAI项目中展现的及时领导力、利益相关方互动、与NASA总部的管理协调以及团队建设而受到肯定。该项目目前被公认为关键一步，助力将NASA打造为面向联邦机构和私营部门决策所用GeoAI建模活动的地表真实验证（ground-truthing）机构。</p>
+<p>地球科学之星：斯蒂芬·布罗卡多<br />斯蒂芬·布罗卡多是湾区环境研究所派驻地球科学部的研究科学家。他因在维持和推进艾姆斯大气遥感能力方面展现出的非凡主动性和技术领导力而受到表彰。斯蒂芬保持了关键的观测能力，并为未来的卫星校准与科学活动制定了周密的技术里程碑。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>NASA Ames科学理事会公布了2026年9月的本月之星（Stars of the Month），表彰了7名人员的贡献。</li>
+    <li>Steve Ormsby是Amentum在中心运营理事会派驻空间生物科学部的项目工程师，被评为空间生物科学之星。</li>
+    <li>来源叙事重点：表彰在空间生物学、天体物理、行星科学与地球科学领域做出卓越贡献的7位科研人员及承包商/合作机构支持人员，强调团队合作、创新进取精神以及对NASA深空探测与地球科学任务的技术支撑价值。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#深空与基础科学</span>
+  <span class="news-tag-pill">#NASA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NASA News (深空探索与航天)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-mal-flight-planning-html-3b96ab604d9ab377" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2894" data-content-paragraphs="53" data-published-at="2026-09-15T23:17:20.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 07:17</span>
+</div>
+
+### [节省航空燃油](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Saving Jet Fuel</div>
+
+<div class="article-body" data-article-body="true"><p>首页 | 基准测试 | 分类 | Atom 订阅源<br />发布于 2026 年 9 月 16 日星期三，分类：求解器（Solvers）</p>
+<p>一架波音 787-9 梦想客机从纽瓦克自由国际机场（EWR）直飞罗马菲乌米奇诺机场（FCO），在长达 8.5 小时的航程中可能需要耗费 6.8 万美元的航空燃油。根据风况调整飞行航线可以降低燃油消耗，并可能节省数千美元。</p>
+<p>像杰普逊（Jeppesen）这样的公司在这一领域提供了成熟方案，但 Scikit-decide 结合代尔夫特理工大学一位教授构建的窄体和宽体客机油耗模型，以及来自美国国家海洋和大气管理局（NOAA）的风力数据，提供了一种开源解决方案。</p>
+<p>Scikit-decide 已经开发了六年。它是一个用于强化学习、自动化规划与调度的框架。该项目能够优化航线、重组航空公司员工排班表，并计算无人机集群飞行路径。</p>
+<p>OpenAP 是由孙俊子博士（Dr. Junzi Sun）开发的飞机性能模型和工具包。孙博士拥有空中交通管理博士学位，作为荷兰代尔夫特理工大学（TU Delft）的终身助理教授，他在众多学术活动中还教授该领域的课程。</p>
+<p>Scikit-decide 的最优航线求解器可以配置使用不同的燃油消耗模型。在这篇博文中，我将对比空客 A320 使用 OpenAP 油耗模型飞行的两条航线。</p>
+<p>我使用的是一颗主频 5.7 GHz 的 AMD 锐龙 9 9950X CPU。它拥有 16 个核心、32 个线程，以及 1.2 MB 一级缓存、16 MB 二级缓存和 64 MB 三级缓存。它配有一体式水冷散热器，并装在宽敞的全塔式酷冷至尊 HAF 700 电脑机箱中。</p>
+<p>该系统拥有 96 GB DDR5 内存，运行频率为 4,800 MT/s，并配备了一块 PCIe 5.0 4 TB Crucial T700 NVMe M.2 固态硬盘，其读取速度最高可达 12,400 MB/s。SSD 上装有散热片以降低温度。这是我系统的 C 盘。</p>
+<p>系统由额定功率 1,200 瓦的海盗船全模组电源供电，安装在华擎 X870E Nova 90 主板上。</p>
+<p>我在 Windows 11 专业版上通过微软的 Ubuntu for Windows 运行 Ubuntu 24 LTS。如果你好奇我为什么不直接使用基于 Linux 的桌面作为主力工作环境，原因是我仍在使用一张英伟达 GTX 1080 显卡，它在 Windows 下有更好的驱动支持，而且 ArcGIS Pro 仅原生支持 Windows。</p>
+<p>在本文中我将使用 Python 3.12 以及 jq。</p>
+<p>我将配置一个 Python 虚拟环境，并安装 scikit-decide，连同 OpenAP 开源飞机性能模型以及 OpenTop（这也是孙博士开发的一款飞行轨迹工具包）。</p>
+<p>上述环境需要至少 8 GB 的存储容量。以下是已安装的软件包。</p>
+<p>在本文中我将使用 DuckDB，以及它的 H3、JSON、Lindel、Parquet 和 Spatial 扩展插件。</p>
+<p>我将配置 DuckDB 在每次启动时自动加载所有已安装的扩展插件。</p>
+<p>本文中的地图均使用 QGIS 4.2.1 版本渲染。QGIS 是一款运行在 Windows、macOS 和 Linux 上的桌面应用程序。该应用近年来广受欢迎，每月全球用户的启动次数约为 2200 万次。</p>
+<p>边界和地名数据来自 Natural Earth。海洋边界数据来自 Marine Regions。</p>
+<p>我首先克隆 OpenAP 代码仓库。</p>
+<p>排除单元测试和实用脚本后，该软件包包含 3,369 行 Python 代码。</p>
+<p>OpenAP 的模型依赖其代码库中打包的大量数据集。这些数据集涵盖了种类繁多的机型。以下是飞机制造商的数量统计。</p>
+<p>这些是空客 A380-800 的性能参数。</p>
+<p>这些是它的阻力系数。</p>
+<p>这些是一些附加属性。</p>
+<p>这些是机型同义词/代号列表。</p>
+<p>飞机通常至少有两种不同的发动机可供选择。该软件包的数据集中列出了 427 种发动机。</p>
+<p>这些是遄达 970-84（Trent 970-84）发动机的详细信息。</p>
+<p>这些是发动机制造商的数量统计。</p>
+<p>这些是该数据集中涡轮风扇（TF）、混流涡轮风扇（MTF）、涡轮螺旋桨（TP）和活塞（PS）发动机类型的数量统计。</p>
+<p>这是按最大推力排名的发动机列表。</p>
+<p>这些是燃油模型的默认值和重载设置。</p>
+<p>该软件包附带了近 1.4 万个机场的位置和代码。</p>
+<p>这些机场分布在 236 个不同的国家和地区。</p>
+<p>这些是机场数据集中收录数量最多的国家。</p>
+<p>下面，我将寻找从图卢兹-布拉尼亚克机场（LFBO / TLS）到柏林勃兰登堡机场（EDDB / BER）的最优航线。</p>
+<p>启发式参数（heuristic）可以是 &quot;time&quot;、&quot;distance&quot;、&quot;lazy_fuel&quot;、&quot;lazy_time&quot; 或 None。如果未传递任何参数，A* 将使用类似 Dijkstra 的搜索算法。</p>
+<p>当上述代码运行时，如果尚未从 NOAA 获取气象数据，且航班日期在过去六个月内，程序将自动下载 GRIB2（GRB2）文件。</p>
+<p>每个文件包含的数据都覆盖全球。这些是在 QGIS 地球仪视图中渲染的 gfs_4_20260501_1800_000.grb2 文件内容。</p>
+<p>这是求解器的高度和地理搜索空间。</p>
+<p>这是求解器计算出的最优飞行航线。</p>
+<p>我将对飞行计划的每一步进行格式化，以便更容易阅读。</p>
+<p>我将飞行计划导出为 Parquet 格式，并在 QGIS 中将其叠加在地面风力数据之上进行渲染。</p>
+<p>下面，我将寻找从图卢兹-布拉尼亚克机场（LFBO / TLS）到华沙肖邦机场（EPWA / WAW）的最优航线。</p>
+<p>初始目标高度将比上一个示例高得多。结果表明，该航班能够采取更为笔直的航线。</p>
+<p>华沙距图卢兹比柏林远 500 公里。但在特定风况下更快爬升至巡航高度意味着飞机可以采取更直接的路径。到达华沙的时间比飞柏林快了近 45 分钟，且仅消耗了柏林航线所需燃油的 76%。</p>
+<p>这些是上述飞行计划中的具体步骤。</p>
+<p>OpenTop 可以与 OpenAP 配合使用，用来计算两个机场之间的飞行轨迹。</p>
+<p>其优化器需要一个网格成本文件。我首先下载该项目提供的一个 142 MB 的 NetCDF 示例文件。</p>
+<p>成本文件可以是 Casadi 或 Parquet 格式。我根据其文档中的示例进行操作，生成了一个 246 KB 的 Casadi 文件。</p>
+<p>这些是其内容的前几个和后几个字节。</p>
+<p>我发现其内容重复度很高，压缩比非常出色。</p>
+<p>我将获取空客 A320 在阿姆斯特丹史基浦机场（EHAM / AMS）与法兰克福机场（EDDF / FRA）之间最优飞行的各项指标。</p>
+<p>然后我将使用波音 737 进行相同的计算。</p>
+<p>版权所有 © 2014 - 2026 Mark Litwintschik。本站模板基于 Giulio Fidente 的模板构建。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>波音 787-9 梦想飞机从纽瓦克自由国际机场飞往罗马菲乌米奇诺机场的 8.5 小时直飞航班，可能需要消耗价值 6.8 万美元的航空燃油。</li>
+    <li>Scikit-decide 已开发了六年，是一个用于强化学习、自动化规划与调度的开源框架。</li>
+    <li>来源叙事重点：聚焦于利用开源技术栈（Scikit-decide 强化学习与调度框架、OpenAP 飞机性能模型及 NOAA 气象数据）替代传统商业方案（如 Jeppesen），展示如何通过结合风况与飞行爬升策略进行航线优化，从而降低商业航班燃油消耗与飞行时间。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-oses-custody-gender-case-b39483a9df0652e5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1140" data-content-paragraphs="20" data-published-at="2026-09-16T00:17:05.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🛡️ 军事防务安全</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 08:17</span>
+</div>
+
+### [天主教家庭因性别议题失去监护权 爱国者队跑卫亨德森谴责政府越权](https://www.foxnews.com/outkick-sports/patriots-rb-trevevon-henderson-slams-state-overreach-catholic-family-loses-custody-gender-case)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Patriots RB TreVeyon Henderson slams state overreach after Catholic family loses custody in gender case</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/new-england-patriots-treveyon-henderson-2.jpg?ve=1&amp;tl=1" alt="天主教家庭因性别议题失去监护权 爱国者队跑卫亨德森谴责政府越权" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>新英格兰爱国者队跑卫特雷维昂·亨德森（TreVeyon Henderson）谴责了马萨诸塞州当局，此前一户天主教家庭因拒绝支持其十几岁女儿的性别转变而失去了对她的法定监护权。他援引圣经经文辩称，政府机构正在侵犯基本父母权利。</p>
+<p>亨德森在社交媒体上针对约瑟夫·库茨科（Joseph Kutzko）和阿琳·库茨科（Arlene Kutzko）一案作出回应，这对夫妇15岁的女儿此前已被儿童福利机构从家中带走。</p>
+<p>这位NFL球员引用经文，强调了父母肩负的根据自身宗教信仰引导子女的神圣职责。</p>
+<p>【福克斯新闻：特朗普司法部在最高法院重大裁决后扩大宗教自由保护】</p>
+<p>“我们所侍奉的神吩咐父母：‘教养孩童，使他走当行的道，就是到老他也不偏离。’（箴言 22:6），”亨德森写道。“然而，这些父母拥有的这项神赐权利，如今正被州政府剥夺。”</p>
+<p>亨德森强调，这对父母反对性别转变是出于信仰和爱意。</p>
+<p>“这些父母希望荣耀我们的主，引导他们的女儿走向真理，远离她所看不见的、将毁灭她的事物，正如神托付给父母做的那样，”他发帖称。“愿正义得到伸张。”</p>
+<p>【福克斯独家：家长指控学校依据学区政策撒谎并隐瞒女儿的性别转变】</p>
+<p>该案始于马萨诸塞州北伯勒的阿冈昆地区高中（Algonquin Regional High School），据称该校一名心理咨询师在父母不知情或未同意的情况下，对这名少女实施了社交层面的性别转变。</p>
+<p>当库茨科夫妇发现该咨询师用男性名字和男性代词称呼其女儿时，他们基于传统天主教信仰表达了反对。</p>
+<p>在父母表示反对后，该咨询师向儿童与家庭部（DCF）提交了一份报告。</p>
+<p>州政府官员随后获得了该未成年人的完全法定监护权，并签发了限制令，禁止父母及其哥哥与她发生任何接触。</p>
+<p>尽管针对父亲身体虐待的指控已被认定不成立，但儿童与家庭部依然维持了州政府的监护权。</p>
+<p>【特朗普指示医保局局长穆罕默德·奥兹终止医疗补助对未成年人性别人士转变的资助】</p>
+<p>该家庭最近获得了一项关键的法律胜利：一名州法官批准了一项临时禁令，在该诉讼审理期间，禁止儿童与家庭部对该未成年人实施跨性别激素治疗，包括大剂量睾酮。</p>
+<p>【克雷格·卡顿秀——直率真实、毫不妥协且不容错过。立即下载其每日播客！】</p>
+<p>代表父母的律师辩称，未经父母同意的医疗干预将造成不可逆转的伤害。</p>
+<p>新英格兰爱国者队在2025年NFL选秀中从俄亥俄州立大学选中了亨德森，他经常利用自己的平台分享基督教信仰。</p>
+<p>库茨科夫妇目前仍在继续其法律抗争，以推翻州政府的监护权决定并恢复其父母权利，下一场预定法庭听证会定于10月29日举行。</p>
+<p>发送您的想法至：alejandro.avila@outkick.com / 在X上关注：@alejandroaveela</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>新英格兰爱国者队跑卫特雷维昂·亨德森（TreVeyon Henderson）在社交媒体引用《箴言》22:6谴责马萨诸塞州政府，指责州当局侵犯天主教家庭父母的基本权利。</li>
+    <li>约瑟夫·库茨科（Joseph Kutzko）和阿琳·库茨科（Arlene Kutzko）夫妇因拒绝认同其15岁女儿的性别转变，被儿童和家庭部（DCF）剥夺了法定监护权，孩子被从家中带走。</li>
+    <li>来源叙事重点：借NFL球员特雷维昂·亨德森（TreVeyon Henderson）引用圣经发声，聚焦马萨诸塞州儿童福利机构（DCF）剥夺天主教父母监护权的争议，着重批判公立学校越权秘密实施社交性别转变和州政府侵犯宗教信仰自由与父母权利，强调法官签发禁止给未成年人使用跨性别激素禁令的维权进展</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#军事防务安全</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/patriots-rb-trevevon-henderson-slams-state-overreach-catholic-family-loses-custody-gender-case" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697162-shtml-4af0ca26500f8da3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1265" data-content-paragraphs="26" data-published-at="2026-09-16T00:11:45.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 08:11</span>
+</div>
+
+### [中央气象台：重庆湖北等地局地有暴雨](https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网9月16日电 据中央气象台网站消息，昨日，四川、重庆等地部分地区出现较强降雨。未来三天，重庆、贵州、湖北等地有较强降雨，关注对农业生产、交通运输、工程建设等的影响；海南、广西等地前期降雨持续时间长、累计雨量大，关注地质灾害潜在风险。</p>
+<p>昨日，四川东北部、重庆西部和北部、广西东南部、广东中部、台湾东部等地部分地区出现大雨或暴雨；上述地区最大小时降雨量30～75毫米。</p>
+<p>未来三天，四川、重庆、湖北、湖南西北部、贵州北部以及陕西南部、云南南部、西藏东南部等地部分地区有中到大雨，其中，重庆、湖北、湖南西北部、贵州北部等地部分地区有大到暴雨，局地大暴雨。</p>
+<p>9月16日08时至17日08时，湖北大部、陕西南部、重庆、湖南西北部、贵州北部、四川南部、云南东南部、广西北部和南部、广东西北部、海南岛西部、西藏东南部等地部分地区有中到大雨，其中，湖北中部和西南部、重庆东部、贵州北部等地部分地区有暴雨(50～90毫米)。台湾海峡将有6～7级、阵风8级的东北风，巴士海峡、南海东北部海域将有5～6级、阵风7级的东北风。</p>
+<p>9月17日08时至18日08时，安徽西南部、湖北中南部、重庆、湖南西部、贵州北部、四川南部、广西南部、云南南部、西藏东南部、新疆南疆西部山区等地部分地区有中到大雨，其中，湖北东部和西南部、重庆东南部、贵州东北部等地部分地区有暴雨(50～90毫米)。新疆南部部分地区有5～7级风，其中，新疆北部部分地区有6～7级风；台湾海峡将有5～6级、阵风7级的东北风。</p>
+<p>9月18日08时至19日08时，内蒙古东北部、黑龙江西北部、陕西南部、新疆南疆盆地西部、湖北西部、四川南部和东北部、重庆、贵州北部、云南南部和北部、西藏东南部等地部分地区有中到大雨，其中，重庆北部、四川东北部等地局地有暴雨(50～70毫米)。</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-16 08:11 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新网</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/sh/2026/09-16/10697162.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697160-shtml-76916fbe64f55289" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="934" data-content-paragraphs="24" data-published-at="2026-09-16T00:01:07.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 08:01</span>
+</div>
+
+### [肯尼迪中心董事会决定立即关闭该中心 特朗普发声](https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新网9月16日电 据美国全国公共广播电台(NPR)报道，美国肯尼迪表演艺术中心董事会当地时间15日投票决定立即关闭该中心进行翻修。投票前不久，一名联邦法官发布命令，驳回肯尼迪中心董事会将美国总统特朗普的名字再次添加到中心大楼外墙上的提议。</p>
+<p>特朗普随即表态称，除非上级法院推翻这项判决，否则他将取消肯尼迪中心原定的翻新工程。</p>
+<p>特朗普在社交媒体上写道：“肯尼迪中心将立即关闭，但这项规模庞大、工序复杂的翻新重建工程，须等到哥伦比亚特区巡回上诉法院就董事会批准的名称作出裁决后才能开始。如果裁决结果不利(虽然不应该如此)，并且没有被美国最高法院推翻，那么肯尼迪中心的重建翻新工程将无法进行。”</p>
+<p>报道称，肯尼迪表演艺术中心董事会坚持认为，只有特朗普才能“拯救”肯尼迪中心。肯尼迪中心现任董事会成员大多是特朗普的盟友，由特朗普亲自挑选，包括前司法部长帕姆·邦迪、福克斯新闻主持人劳拉·英格拉姆，以及新英格兰爱国者队老板罗伯特·克拉夫特的妻子达娜·克拉夫特。</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-16 08:01 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697159-shtml-c130ea22221f58b0" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1512" data-content-paragraphs="39" data-published-at="2026-09-15T23:58:50.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 07:58</span>
+</div>
+
+### [特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”](https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml)
+
+<div class="article-body" data-article-body="true"><p>特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸” | 国际早察</p>
+<p>这是美东时间9月14日，美国总统特朗普在社交媒体高调宣布的“惊人成果”。</p>
+<p>特朗普还特别宣称，全球柴油价格暴涨的锅都在俄乌战争上，而不是伊朗。</p>
+<p>言外之意，这个棘手难题，迎来了难得的突破口。</p>
+<p>帖文的热乎劲儿还没过，俄乌双方就在15日这天用呼啸的无人机群和滚滚浓烟，给出另一重现实：“能源停火”，并未真正落地。</p>
+<p>当地时间9月15日凌晨，俄罗斯的攻击无人机群呼啸着直扑乌克兰首都基辅和其他城市。</p>
+<p>根据乌克兰方面发布的紧急通报，这次袭击并非针对隐蔽军事目标，而是集中指向民用和能源设施——基辅的两处加油站，以及敖德萨港口和物流仓储设施等，连夜遭到袭击。</p>
+<p>现场燃起的熊熊大火，以及至少两人死亡、多人受伤的残酷现实，似乎在说明，寒冬来临前，俄罗斯并不打算轻易放下手里最致命的“能源底牌”。</p>
+<p>乌克兰与俄罗斯几乎同步的打击，也没有让特朗普帖文的“效力”挺过15日。</p>
+<p>就在基辅加油站起火的同一时刻，乌克兰的远程无人机群已经完成了跨国奔袭，精准突击了俄罗斯萨马拉州的核心炼油厂。</p>
+<p>不仅如此，俄罗斯罗斯托夫州的一处重要无人机生产工厂和物流中心也在剧烈的爆炸中陷入火海。</p>
+<p>乌克兰用行动给出了态度：你想停火？可以，除非美国能确保莫斯科真的愿意停手，否则乌克兰的远程反击不会停止。</p>
+<p>《纽约时报》分析，特朗普之所以对于推动能源领域局部休战“情有独钟”，和美国国内高企的油价所带来的政治压力紧密相关。</p>
+<p>据美国汽车协会(AAA)披露，美国柴油平均价格15日创下历史新高，逼近每加仑6.27美元；</p>
+<p>高油价直接牵动美国国内民意。此前在采访中，他甚至直接对泽连斯基喊话，要求乌克兰必须“立刻停止”对俄罗斯炼油厂的袭击，称这导致美国出现短缺。</p>
+<p>然而，现实剧本未能如特朗普所愿那般进展。</p>
+<p>泽连斯基15日在社交平台发布声明并在随后的例行全国电视讲话中公开说，特朗普关于停击能源的构想是强有力的，但目前没有迹象显示俄方真的想要停战，乌克兰也不确定俄罗斯有意遵守任何相关协议。</p>
+<p>克里姆林宫发言人佩斯科夫在15日的例行新闻简报会上夸奖“能源停火”是个“好主意”，但佩斯科夫却没给出兑现的承诺，反而“借坡下驴”提出，要求美方确保俄罗斯燃料油轮的安全，并解除针对莫斯科能源出口的制裁。</p>
+<p>特朗普的“能源停火”宣言，从抛出到被现实“泼冷水”，只用了不到24小时。</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-16 07:58 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697157-shtml-24786e892c9efb10" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1023" data-content-paragraphs="26" data-published-at="2026-09-15T23:54:34.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 07:54</span>
+</div>
+
+### [南非确定首批绿色氢能项目 明年启动建设](https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社约翰内斯堡9月15日电 (记者 孙翔)南非15日在非洲绿色氢能峰会期间宣布，该国已确定首批6个绿色氢能优先项目。其中，电制可持续航空燃料项目计划于2027年第一季度开工建设。</p>
+<p>2026年非洲绿色氢能峰会15日至16日在南非开普敦举行。南非总统拉马福萨当天的开幕致辞由该国电力和能源部长科西恩乔·拉莫豪帕代为宣读。</p>
+<p>拉马福萨在致辞中说，根据南非国家绿色氢能计划，确定首批6个绿色氢能优先项目。其中，位于西开普省萨尔达尼亚湾的电制可持续航空燃料项目预计2027年第一季度开工建设，2029年第一季度出口首批电制可持续航空燃料。</p>
+<p>他介绍，其他5个项目涵盖绿色氨、绿色钢铁和绿色甲醇等领域，面向南非国内市场及欧洲市场。</p>
+<p>“非洲必须参与整个价值链，成为所有者、制造商、技术合作伙伴、生产者和市场参与者。”拉马福萨说，凭借丰富的可再生能源、水资源和关键矿产储备，非洲有机会成为全球重要的绿色氢能产业中心。</p>
+<p>他冀望绿色氢能以可持续方式支持非洲大陆能源转型和脱碳进程，并通过化肥生产、绿色钢铁、可持续燃料、设备制造、工程及相关服务等领域推动非洲工业化。非洲大陆自由贸易区也将通过扩大市场规模，为建立区域绿色氢能产业链创造条件。(完)</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-16 07:54 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-16-10697156-shtml-c8c86b5964bf9176" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="989" data-content-paragraphs="24" data-published-at="2026-09-15T23:54:14.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 07:54</span>
+</div>
+
+### [俄外交部：日本应铭记九一八历史  “再军事化”必蹈覆辙](https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml)
+
+<div class="article-body" data-article-body="true"><p>中新社莫斯科9月15日电 在九一八事变爆发95周年之际，俄罗斯外交部发言人扎哈罗娃15日表示，这段历史不仅我们要铭记，日本人自己更应该铭记。</p>
+<p>扎哈罗娃当天在例行记者会上说，1931年9月18日，日军在找不到其他借口进攻中国的情况下，制造了一起直接挑衅事件，炸毁沈阳附近的铁路路轨并反诬中方所为，随之攻占沈阳，占领整个东北地区。日方毫不掩饰其针对平民的令人发指的残暴行径，并扶持成立伪满洲国傀儡政权，实施殖民统治。</p>
+<p>扎哈罗娃指出，九一八事变是日本军国主义发动侵华战争的开端，也揭开了其在亚洲实施进一步侵略的序幕。在20世纪上半叶，包括中国在内的亚洲受害国家人民曾深受日本军国主义之害，使他们经历了无尽的灾难与磨难。</p>
+<p>扎哈罗娃说，“重要的是，这段历史不仅我们要铭记，日本人自己更应该铭记。”如今，日本再次走上“再军事化”道路，包括企图歪曲美化其在20世纪30年代至40年代犯下的侵略罪行。她再次呼吁日本当局应全面承认第二次世界大战的结果，重返和平发展之路。“这条道路曾为日本带来切实的利益，未来也将带来更多的福祉，而‘再军事化’只会给他们带来痛苦与灾难”。(完)</p>
+<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
+<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
+<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
+<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
+<p>专家：“主动健康”首先要确立正确健康知识</p>
+<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
+<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
+<p>打车20元路程竟收40元？起底计价器虚增里程猫腻</p>
+<p>动动手指真能轻松赚钱？揭露“高薪兼职”背后陷阱</p>
+<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
+<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
+<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
+<p>2026年曲棍球青年亚洲杯赛落幕 中国女队获亚军</p>
+<p>黑龙江省民族运动会开赛 赛场上演“最炫民族风”</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
+<p>6岁内蒙古萌娃学着长辈的样子 熟练推莜面窝窝</p>
+<p>海南五指山开展灾后清淤 恢复城区生产生活秩序</p>
+<p>贵州绥阳：“80后”女村医奔走山间24年为村</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-16 07:54 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--scarred-by-big-industry-57e99614fd364e42" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2700" data-content-paragraphs="27" data-published-at="2026-09-15T21:47:38.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-16 05:47</span>
+</div>
+
+### [AI数据中心热潮与历经重工业创伤的城市激烈碰撞](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The AI data center boom is colliding with cities scarred by big industry</div>
+
+<div class="article-body" data-article-body="true"><p>全美各地，美国人正在激烈争论如果新的AI数据中心建在自家后院，他们的生活可能会发生怎样的变化。数据中心企业及其客户承诺会带来新的就业岗位和经济增长，但这套说辞并未赢得大多数反对在本地建设数据中心的美国人的认可，他们的反对往往源于对环境和能源的担忧。</p>
+<p>对活动家肖马尔·皮茨（Shawmar Pitts）而言，这些担忧并非纸上谈兵。他比任何人都更清楚生活在美国工业化阴影下是什么滋味。</p>
+<p>皮茨在费城西南部的格雷斯渡口（Grays Ferry）社区土生土长，紧邻着当时美东地区最大的炼油厂长大，该炼油厂在2019年发生爆炸后关闭。尽管他的许多亲友长期饱受慢性疾病折磨，但他一直没有意识到致病原因，直到2018年遇到了环境正义组织Philly Thrive。当时该组织正在他的社区设展宣传，反对拟议中的炼油厂扩建计划。</p>
+<p>“我读了他们摆在桌上的资料，了解了住在炼油厂附近会对人造成什么影响。我看着纸上列出的所有病症，心里想：‘我母亲有这个病，我姐姐有那个病，我隔壁邻居也患有这个’——家家户户都有人患有名单上的某种疾病，”皮茨告诉TechCrunch，“从那一刻起，我便全身心投入了进去。”</p>
+<p>皮茨如今担任该组织的联合执行主任，他是推动费城暂停数据中心建设的带头人之一。尽管目前尚未有正式的建设提案提出，但市政府官员已经确定了两个潜在选址：一个在费城东北部，另一个则在皮茨所在的格雷斯渡口社区。</p>
+<p>当地居民对数据中心的抵制并非费城独有。全美各地的居民都在抵制新建数据中心，特别是那些生活在资源有限的城镇的居民。</p>
+<p>然而，在那些仍能深切感受到大工业烙印的社区中，居民的抵制尤为迅速和强烈。</p>
+<p>“我们不想要数据中心，”Philly Thrive董事会主席索尼娅·桑德斯（Sonya Sanders）周一在费城市政厅的一场集会上表示。“我们不想要污染，不想要噪音，而且我们清楚它们不会给我们带来更多就业机会。”</p>
+<p>桑德斯的丈夫也是格雷斯渡口的居民，于2020年死于一种罕见的骨癌。她说他不吸烟也不喝酒，她坚信是炼油厂的排放物导致了他的疾病。</p>
+<p>“在我眼里，是他们杀害了他，”她在集会上说。“是污染害死了他。我相信，如果他没有被无声无息地谋杀，他今天还会活在这里，因为杀死他的是对利润的追求。”</p>
+<p>费城的数据中心可能不会造成像现已关闭的费城能源解决方案（Philadelphia Energy Solutions）炼油厂那样严重的环境影响——该炼油厂过去每天加工多达33.5万桶原油。但主导AI行业的国际竞争已变得极其白热化，彭博新能源财经（BloombergNEF）预测，到2035年，美国数据中心消耗的天然气将超过德国和日本的总和。这几乎是该机构九个月前预测值的两倍。</p>
+<p>天然气燃烧起来比石油等其他化石燃料干净得多，但也绝非无害。每燃烧一立方英尺天然气就会释放相当于60克的二氧化碳，预计新增的数据中心需求每天将额外产生100万公吨的温室气体污染，约占目前美国温室气体排放总量的12%。哈佛大学研究人员在2021年发现，全球五分之一的死亡与化石燃料空气污染有关，这一惊人的数字在AI时代势必还会增加。</p>
+<p>“宾夕法尼亚州规划的典型数据中心拥有数百台排放空气污染物的柴油发电机，即便它们据称是应急备用，但政府已经表示，在某些热浪期间，数据中心应使用这些柴油机，而不是从不堪重负的电网中取电，”清洁空气理事会（Clean Air Council）律师安妮·福克斯（Annie Fox）在集会上表示。“我们预计这种情况会越来越频繁……贪求化石能源的数据中心将加剧气候变化，使这些热浪变得更加频繁和严重。”</p>
+<p>全美各地忧心忡忡的公民似乎确实让官员们听到了他们的呼声。在纽约州，州长凯西·霍楚尔（Kathy Hochul）签署了一项行政命令，暂时阻止该州批准大型项目的新许可证。</p>
+<p>“进步不应该以更高的水电账单、枯竭的水资源或噪音污染为代价，”霍楚尔在新闻发布会上说。“这些数据中心只能、且应当只建在欢迎它们的地方。”</p>
+<p>丹佛、印第安纳波利斯、阿什维尔、夏洛特和里诺等多个美国城市也通过了暂停数据中心建设的禁令。这些暂缓令的目的通常是让市政府官员有时间收集更多有关建设数据中心潜在影响的信息。</p>
+<p>“我担心污染问题，”参加集会的费城居民唐娜·格林伯格（Donna Greenberg）告诉TechCrunch。“我担心监控问题，以及他们将接触到本不该知道的信息，我还担心他们消耗的水和电会夺走社区居民所必需的资源。”</p>
+<p>周一，100多名民众参加了“反对费城建数据中心”（No Data Centers in Philly）运动的启动集会，高声呼喊口号，希望市政厅办公室内的市议会议员能听到他们的诉求。</p>
+<p>“我认为我们社区能够挺身而出奋起抗争是一件了不起的事，”皮茨说。“这需要大量的努力和许多人的参与。”</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>阿曼达·希尔伯林（Amanda Silberling）是TechCrunch的高级撰稿人，报道科技与文化的交汇领域。她还曾为Polygon、MTV、《肯恩评论》（the Kenyon Review）、NPR和Business Insider等刊物撰稿。她与科幻作家伊莎贝尔·J·金（Isabel J. Kim）共同主持探讨互联网文化的播客《Wow If True》。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语文学学士学位，并曾作为普林斯顿在亚洲项目研究员常驻老挝。</p>
+<p>您可以通过向amanda@techcrunch.com发送电子邮件，或在Signal上发送加密信息至@amanda.100联系阿曼达或验证其联络真实性。</p>
+<p>预订展位的最后截止日期为9月18日。切勿错过在Disrupt展厅获取高价值销售线索、接触投资人以及提升品牌曝光的机会。</p>
+<p>Revolut证实因伪造政府请求导致客户数据泄露</p>
+<p>受Astra需求激增影响，OpenAI暂停Pro订阅服务</p>
+<p>Bending Spoons拟以13.6亿美元收购协作工具制造商Miro，较其2022年估值暴跌90%</p>
+<p>身份验证巨头IDScan证实发生数据泄露，超过1.5亿张驾照信息被窃取<br />Automattic董事会迫使首席执行官马特·穆伦威格（Matt Mullenweg）暂时离职休假<br />苹果发布首款折叠屏手机iPhone Duo<br />“拿我们的生命作赌注”：Anthropic研究员辞职，对自我改进型AI发出警告</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-16 05:47 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -564,7 +760,7 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::
