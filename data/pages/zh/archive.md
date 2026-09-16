@@ -27,14 +27,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **39** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **40** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-16 08:30 (UTC+8)
+- **最新归档时间**：2026-09-16 14:21 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-16 14:21 (UTC+8)" title="全球要闻情报简报 · 14:21" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-16 14:08 (UTC+8) 完成，共获得 10 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】改变我的那一刻：我曾对自己的皮肤极度自卑——直到我恍然大悟：多年来，白癜风一直左右着我的生活，我总是在拼命掩盖它。但有一天，我意识到自己可以采取一种截然不同且令人无比释怀的态度。；【undefined】天文每日一图：2026年9月16日——韦布望远镜眼中的M64：天文每日一图：2026年9月16日——……；【undefined】那个求生意志坚强的女孩：抚养埃尔西——我那位1.63亿分之一的女儿——其中的爱、希望与痛苦：她出生时患有一种极其罕见的遗传疾病。在从事了数十年电影公关工作后，如今我面临着最大的一场宣传战役：为她的生命而战；【undefined】今年非洲萨赫勒地带与“基地”组织及“伊斯兰国”有关的暴力活动将达到创纪录水平：“9·11”事件25年后，冲突监测机构汇编的数据凸显萨赫勒地区已成为伊斯兰主义恐怖活动的中心；【undefined】Boox Palma 3 获得手写笔支持并采用时尚新设计：该主题的文章将被加入你的每日电子邮件摘要和首页信息流。；【undefined】EOS R8 Mark II 是佳能最轻的带防抖全画幅相机：该主题的文章将被添加到你的每日电子邮件摘要和首页信息流中。；【undefined】人工智能和数据中心在每项民调中都极不受欢迎：有关这一主题的文章会被添加到您的每日电子邮件摘要和主页信息流中。；【undefined】微软宣布将于10月7日举行Windows和Surface活动：关于这一主题的帖子将添加到您的每日电子邮件摘要和主页信息流中。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/ursula-2117938027.html) <span class="news-meta-time">🕒 2026-09-16 14:06</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://github.com/rapiddweller/datamimic) <span class="news-meta-time">🕒 2026-09-16 12:58</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Latest-Energy-News/World-News/China-Could-Curb-Fuel-Exports-as-Diesel-and-Gasoline-Stocks-Sink.html) <span class="news-meta-time">🕒 2026-09-16 13:45</span>
+- [The Guardian Society (卫报社会与民生)] [改变我的那一刻：我曾对自己的皮肤极度自卑——直到我恍然大悟](https://www.theguardian.com/lifeandstyle/2026/sep/16/a-moment-that-changed-me-i-felt-hugely-self-conscious-about-my-skin-until-i-had-a-revelation) <span class="news-meta-time">🕒 2026-09-16 13:30</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-violence-affects-millions-links-health.html) <span class="news-meta-time">🕒 2026-09-16 13:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/tsb-2117937796.html) <span class="news-meta-time">🕒 2026-09-16 14:05</span>
+:::
 :::timeline-item{start="2026-09-16 08:30 (UTC+8)" title="全球要闻情报简报 · 08:30" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-16 08:28 (UTC+8) 完成，共获得 37 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 

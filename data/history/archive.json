@@ -1,5 +1,1574 @@
 [
   {
+    "timestamp": 1789539719224,
+    "timeDisplay": "2026-09-16 14:21 (UTC+8)",
+    "date": "2026-09-16",
+    "runId": "feed-20260916T060839991Z-57rz7t",
+    "generatedAt": "2026-09-16T06:21:59.224Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 14:08",
+      "lead": "本轮抓取于 2026-09-16 14:08 (UTC+8) 完成，共获得 10 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】改变我的那一刻：我曾对自己的皮肤极度自卑——直到我恍然大悟：多年来，白癜风一直左右着我的生活，我总是在拼命掩盖它。但有一天，我意识到自己可以采取一种截然不同且令人无比释怀的态度。",
+        "【undefined】天文每日一图：2026年9月16日——韦布望远镜眼中的M64：天文每日一图：2026年9月16日——……",
+        "【undefined】那个求生意志坚强的女孩：抚养埃尔西——我那位1.63亿分之一的女儿——其中的爱、希望与痛苦：她出生时患有一种极其罕见的遗传疾病。在从事了数十年电影公关工作后，如今我面临着最大的一场宣传战役：为她的生命而战",
+        "【undefined】今年非洲萨赫勒地带与“基地”组织及“伊斯兰国”有关的暴力活动将达到创纪录水平：“9·11”事件25年后，冲突监测机构汇编的数据凸显萨赫勒地区已成为伊斯兰主义恐怖活动的中心",
+        "【undefined】Boox Palma 3 获得手写笔支持并采用时尚新设计：该主题的文章将被加入你的每日电子邮件摘要和首页信息流。",
+        "【undefined】EOS R8 Mark II 是佳能最轻的带防抖全画幅相机：该主题的文章将被添加到你的每日电子邮件摘要和首页信息流中。",
+        "【undefined】人工智能和数据中心在每项民调中都极不受欢迎：有关这一主题的文章会被添加到您的每日电子邮件摘要和主页信息流中。",
+        "【undefined】微软宣布将于10月7日举行Windows和Surface活动：关于这一主题的帖子将添加到您的每日电子邮件摘要和主页信息流中。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-16",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】改变我的那一刻：我曾对自己的皮肤极度自卑——直到我恍然大悟：多年来，白癜风一直左右着我的生活，我总是在拼命掩盖它。但有一天，我意识到自己可以采取一种截然不同且令人无比释怀的态度。；【undefined】那个求生意志坚强的女孩：抚养埃尔西——我那位1.63亿分之一的女儿——其中的爱、希望与痛苦：她出生时患有一种极其罕见的遗传疾病。在从事了数十年电影公关工作后，如今我面临着最大的一场宣传战役：为她的生命而战；【undefined】今年非洲萨赫勒地带与“基地”组织及“伊斯兰国”有关的暴力活动将达到创纪录水平：“9·11”事件25年后，冲突监测机构汇编的数据凸显萨赫勒地区已成为伊斯兰主义恐怖活动的中心"
+        },
+        {
+          "name": "🔬 深空与基础科学",
+          "analysis": "【undefined】天文每日一图：2026年9月16日——韦布望远镜眼中的M64：天文每日一图：2026年9月16日——……"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 94,
+      "completedTasks": 94,
+      "succeeded": 31,
+      "degraded": 63,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 94,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 799174,
+      "byRole": {
+        "translator": {
+          "attempts": 57,
+          "succeeded": 15,
+          "degraded": 42
+        },
+        "fact-extractor": {
+          "attempts": 11,
+          "degraded": 10,
+          "succeeded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 11,
+          "degraded": 7,
+          "succeeded": 4
+        },
+        "topic-classifier": {
+          "attempts": 11,
+          "succeeded": 10,
+          "degraded": 1
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 94,
+          "succeeded": 31,
+          "degraded": 63
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-1",
+      "article-1-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-8-translator-1",
+      "article-8-translator-2",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-22-translator-0",
+      "article-24-translator-0",
+      "article-25-translator-0",
+      "article-25-translator-1",
+      "article-26-translator-0",
+      "article-27-translator-0",
+      "article-29-translator-0",
+      "article-31-translator-0",
+      "article-31-translator-1",
+      "article-32-translator-0",
+      "article-32-translator-1",
+      "article-33-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-37-translator-1",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "article-42-translator-0",
+      "article-43-translator-0",
+      "article-44-translator-0",
+      "article-45-translator-0",
+      "article-0-fact-extractor",
+      "article-0-source-positioner",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-2-fact-extractor",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-3-topic-classifier",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "article-7-fact-extractor",
+      "article-8-fact-extractor",
+      "article-8-source-positioner",
+      "article-9-fact-extractor",
+      "article-10-fact-extractor",
+      "article-10-source-positioner",
+      "hourly-editor",
+      "daily-analyst",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:23.636Z",
+        "lastSuccessAt": "2026-09-16T06:08:24.501Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:23.653Z",
+        "lastSuccessAt": "2026-09-16T06:08:24.463Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.054Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.112Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.075Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.387Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.161Z",
+        "lastSuccessAt": "2026-09-16T06:08:27.157Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.131Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.934Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:27.073Z",
+        "lastSuccessAt": "2026-09-16T06:08:27.272Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:24.270Z",
+        "lastSuccessAt": "2026-09-16T06:08:24.877Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.377Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.475Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.195Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.418Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:24.877Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.151Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:24.712Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.126Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:24.501Z",
+        "lastSuccessAt": "2026-09-16T06:08:24.983Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:24.537Z",
+        "lastSuccessAt": "2026-09-16T06:08:24.889Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.825Z",
+        "lastSuccessAt": "2026-09-16T06:08:27.363Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.415Z",
+        "lastSuccessAt": "2026-09-16T06:08:27.073Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.670Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.846Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.387Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.963Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:24.983Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.054Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:24.889Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.075Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:24.239Z",
+        "lastSuccessAt": "2026-09-16T06:08:24.270Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:22.916Z",
+        "lastSuccessAt": "2026-09-16T06:08:24.239Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.770Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.924Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.619Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.953Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.441Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.774Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.686Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.946Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.963Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.108Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.381Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.470Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.846Z",
+        "lastSuccessAt": "2026-09-16T06:08:28.440Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.774Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.984Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.020Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.161Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.973Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.128Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.128Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.227Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.934Z",
+        "lastSuccessAt": "2026-09-16T06:08:27.112Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.112Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.195Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.418Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.415Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.599Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.770Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.108Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.206Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-16T06:08:25.953Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.946Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.181Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:22.913Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.441Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-16T06:08:25.984Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:22.914Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.619Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.181Z",
+        "lastSuccessAt": "2026-09-16T06:08:27.599Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.475Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.686Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:24.463Z",
+        "lastSuccessAt": "2026-09-16T06:08:24.537Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.924Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.973Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.470Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.599Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.206Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.670Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:26.227Z",
+        "lastSuccessAt": "2026-09-16T06:08:26.825Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.151Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.381Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:25.126Z",
+        "lastSuccessAt": "2026-09-16T06:08:25.377Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:22.899Z",
+        "lastSuccessAt": "2026-09-16T06:08:23.636Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:22.912Z",
+        "lastSuccessAt": "2026-09-16T06:08:23.653Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T06:08:22.913Z",
+        "lastSuccessAt": "2026-09-16T06:08:24.712Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-6-ursula-2117938027-html-d5860a066384123b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "\"Тебе конец\". Истерика фон дер Ляйен из-за России вызвала возмущение в Сети",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T06:06:22.000Z",
+        "pubTime": "2026-09-16 14:06",
+        "url": "https://ria.ru/20260916/ursula-2117938027.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 14:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/ursula-2117938027.html",
+            "publishedAt": "2026-09-16T06:06:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rapiddweller-datamimic-60d15f0ed37ffe7b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Datamimic – don't let your coding agent invent its own test world",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:58:36.000Z",
+        "pubTime": "2026-09-16 12:58",
+        "url": "https://github.com/rapiddweller/datamimic",
+        "imageUrl": null,
+        "fullContent": "There was an error while loading. Please reload this page.\n\nThis repository contains the DATAMIMIC Community Edition (CE). MIT-licensed, Python-native, MCP-ready.\n\nCE is fully usable standalone for deterministic synthetic data generation and PII-aware pseudonymization. The Enterprise Platform adds governed workflows, PII scanning, role-based access, audit logging, scheduling, multi-system execution, and the full operational layer that regulated enterprises require.\n\n👉 Enterprise Platform: datamimic.io | 📘 Docs: docs.datamimic.io | 📅 Book a strategy call: datamimic.io/contact\n\n🤖 AI agent? Start at AGENTS.md and use the project CLI: preserve new intent as model.dm.json, submit an early best attempt via datamimic scaffold ... --format json, repair from the structured issues, declare an expectation per stated requirement, and stop on verified=true. Existing raw XML uses lint plus bounded dry-run.\n\nDATAMIMIC CE is the open-source deterministic data engine at the core of the DATAMIMIC Enterprise Platform. It is usable standalone for synthetic data generation and PII-aware pseudonymization in any local, CI, or agent-driven workflow.\n\nThe Enterprise Platform adds the governed workflows, scanners, dashboards, and execution layer that regulated enterprises require for production-scale test-data operations.\n\nAvailable in CE (this repo):\n\nThe Enterprise Platform adds:\n\nDeployed in regulated EU banking environments for deterministic test data across Oracle, MongoDB, and Kafka pipelines. Reference customers available under NDA — see also datamimic.io case studies.\n\nThe CLI is the baseline agent contract. Install CE with pip install datamimic-ce; inside this checkout, use .venv/bin/datamimic so a stale global installation cannot change the available schema or commands.\n\ncapabilities, authoring-reference projections, and the commands shown with --format json return machine-readable JSON. On a failed scaffold attempt, change model.dm.json using its structured validation issues, typed repair, or rule diagnostics before retrying. A typed max_count remediation instead changes only the bounded scaffold parameter to at least its reported minimum. Never repeat an identical failed call. A successful scaffold result is terminal for authoring, so do not lint or dry-run its generated XML again. Exact source fragments are discoverable through queries such as --category source --kind memstore.\n\nWhen the calling environment already exposes DATAMIMIC MCP tools, they map to the same canonical contracts and implementations: reference → datamimic_reference, scaffold → datamimic_scaffold, lint → datamimic_check, and dry-run → datamimic_run. Install the adapter with pip install \"datamimic-ce[mcp]\"; registration details belong in the MCP quickstart, not in the authoring workflow. The adapter intentionally exposes only the four canonical reference, scaffold, check, and bounded-run operations; domain generation remains a Python/CLI capability rather than a parallel MCP authoring path.\n\nAuthor and verify a new model\n\nRelational hierarchy with referential integrity (fully supported — no XML needed)\n\nRaw XML remains supported for existing descriptors (lint → dry-run → run; see AGENTS.md). For new models it is a last resort: only when a scaffold issue explicitly classifies the requirement as unsupported_intent should an agent hand-author XML, preserving that evidence.\n\nCE and EE are not the same engine with a feature flag. They share the DSL and determinism contract, but EE is an independently optimised execution engine built for enterprise-scale throughput and operational control.\n\n👉 Explore the Enterprise Platform | Book a platform demo\n\nThe EE core supports three runtime configuration profiles, selectable per execution context:\n\nLogging depth is independently configurable per profile — from minimal (throughput-optimised) to full nested tracing across importers, exporters, and generation stages.\n\nCustomers can extend the spec catalogue between releases by downloading, adjusting, and uploading their own spec files directly.\n\nDevelopers and data engineers who need deterministic synthetic data generation or PII-aware pseudonymization in local environments, CI pipelines, or agent-driven workflows. PII field identification is manual — the EE DataWorkbench automates this step.\n\nMost test data tools produce random output. That breaks regression tests, audit trails, and cross-team reproducibility.\n\nDATAMIMIC's determinism contract (CE):\n\nThe Enterprise Platform (EE) goes further: beyond the CE contract, EE makes the whole execution environment deterministic — a configurable/frozen wall-clock (not just CE's fixed anchor), and deterministic SAFE_GLOBALS plus the Python random functions, so sandboxed script expressions and any stdlib random call replay identically as well.\n\nDirect service use is equally deterministic when given a seeded RNG:\n\nCE delivers contract-enforced determinism for the synthetic-data generation surface (facade, services, generators) and, as of 4.0.0, for seeded XML descriptors — byte-identical across machines, executed single-process. The Enterprise Platform extends the same contract to distributed and multi-system execution with referential integrity and the seeded/unseeded pseudonymization modes, and adds the five drift-gates that lock the contract end-to-end for regulated deployments.\n\nDATAMIMIC supports two pseudonymization modes with different privacy postures:\n\nNote on GDPR anonymization: Full anonymization status under GDPR depends on complete field coverage across all quasi-identifiers and a re-identification risk assessment on the complete record — not on individual field transformation alone. DATAMIMIC does not make anonymization claims on behalf of the customer. Non-seeded mode maximizes privacy at the transformation level; the customer is responsible for assessing re-identification risk across the full dataset.\n\nIn CE, PII fields are identified and modeled manually in the XML pipeline:\n\nBuilt-in converters can additionally transform a key's value — e.g. irreversibly hash the original instead of replacing it, or partially mask it:\n\nAvailable converters (13): Mask, MiddleMask(start, end), CutLength(n), Substring(start, end), JavaHash, RemoveNoneOrEmptyElement, Hash(type, format[, salt]), DateFormat(fmt), Append, UpperCase, LowerCase, Date2Timestamp, Timestamp2Date.\n\nsource is a controlled export or staging input — never a live production connection.\n\nWith rngSeed set: same source record → same pseudonymized output on every run. Stable for regression testing.\n\nWithout rngSeed: non-deterministic output — no reversible mapping exists at the field level. Stronger privacy posture for one-time delivery scenarios.\n\nIn the Enterprise Platform (EE): the DataWorkbench PII scanner automatically scans source schemas, assigns probability scores to each field, and flags candidates above a configurable threshold. Flagged fields are wired into the pseudonymization model automatically — no manual field mapping required.\n\nAny <generate> becomes a time-series loop when given strict ISO 8601 start/end/interval attributes. Per iteration the script context exposes a ts namespace:\n\nOutput column names — including whether to even emit a timestamp or series-id column — are entirely the user's choice via <key>. The primitive is domain-agnostic; the same DSL covers IoT readings, financial ticks, log streams, smart meters, anything time-indexed.\n\nComposes with the existing <variable> mechanism for multi-source merges (e.g. join each tick with a sensor-metadata CSV via <variable source=\"meta.csv\" cyclic=\"True\"> inside the same <generate>), with <key condition=\"...\"> filtering, and with <nestedKey> sub-scopes — the ts namespace is visible everywhere a <key script> runs. See tests_ce/integration_tests/test_timeseries/ for committed DSL fixtures + proofs (including pagination invariance).\n\nMost teams adopt CE for one of three reasons. EE is not required for any of them.\n\n1. Reproducible test data for CI/CD pipelines. Pin a seed against the generate_domain facade — or hand a seeded random.Random to any domain service — and you get byte-identical output across runs and machines. Both layers are gated on every CI run by tests_ce/architecture/. Regression tests stop being flaky because the input data is stable across runs.\n\n2. Deterministic data backend for AI agents and LLM tooling. The CLI and Python API are the baseline surfaces for seeded, verifiable generation. The optional MCP adapter (pip install \"datamimic-ce[mcp]\") exposes the canonical reference, scaffold, check, and bounded-run authoring operations. Generated domain-facade outputs include a determinism_proof.content_hash, so Python/CLI callers can re-execute and verify the data later — useful for agent regression tests and any workflow where the data an agent saw must be reconstructable.\n\n3. Pseudonymization of staging and QA exports. Manual model in CE (XML pipeline), no scanner license required. Seeded mode for stable regression test data; non-seeded mode for one-time deliveries with maximized privacy posture. See the Pseudonymization section above.\n\nDATAMIMIC produces evidence and reproducible artifacts that support compliance work. It does not replace your DPO, your CISO, or your auditor. The following are pointers for where DATAMIMIC outputs commonly slot into established programs:\n\nBoth editions produce reproducible artefacts. CE covers single-system fixtures and provenance evidence; multi-system audit evidence with role-based dashboards is EE.\n\nThese pointers do not constitute legal advice or a compliance attestation. Consult your DPO, CISO, or qualified counsel for formal compliance determinations. Full anonymization status under GDPR depends on re-identification risk across the complete dataset — see the pseudonymization disclaimer above.\n\nCE and EE share the DATAMIMIC DSL and the determinism contract. The execution layer is separate: CE is a Python execution engine using multiprocessing (with optional Ray for distribution); EE is an independently-optimised execution engine with a Rust fastpath, ML/auto-regressive generation, keyset and manifest building from live schemas, and optimised distributed execution at billion-record scale.\n\nEE adds Kafka, EDIFACT, SWIFT MT, HL7 v2.x, and HL7 FHIR as additional targets — see Supported systems below. Both editions share the DATAMIMIC DSL and determinism contract.\n\nAll services are versioned and seeded; each generation emits a provenance hash suitable as evidence in audit reviews. Domain services can be used directly via constructor injection, or driven through the higher-level generate_domain({...}) facade for seed/locale/clock/count parameterisation (currently supports person, address, patient, doctor at v1).\n\nSee CONTRIBUTING.md. CE is MIT licensed and community contributions are welcome.\n\nThe CE engine is the foundation. If you are building integrations, domain extensions, or MCP tooling on top of DATAMIMIC, we want to hear from you.\n\nThe DATAMIMIC Enterprise Platform (EE) is a commercial product. Contact us for licensing.\n\nDATAMIMIC — Deterministic, governed test data for regulated enterprises.\n\ndatamimic.io | Book a demo | LinkedIn\n\nModel-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pipelines, and MCP/IDE integration to orchestrate realistic datasets for finance, healthcare, and other regulated environments.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 55,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T04:58:36.000Z",
+            "url": "https://github.com/rapiddweller/datamimic"
+          }
+        ]
+      },
+      {
+        "id": "story-asoline-stocks-sink-html-315f253fb60ad311",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China Could Curb Fuel Exports as Diesel and Gasoline Stocks Sink",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T05:45:00.000Z",
+        "pubTime": "2026-09-16 13:45",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Could-Curb-Fuel-Exports-as-Diesel-and-Gasoline-Stocks-Sink.html",
+        "imageUrl": null,
+        "fullContent": "China&rsquo;s diesel fuel and gasoline inventories are declining, which may eventually lead to the imposition of export curbs, Bloomberg has reported, citing recent fuel inventory data. Gasoline inventories at state-owned energy majors were down by 2.9% last week to their lowest level since 2022, according to Chinese commodity market research firm JLC International. Diesel inventories are sitting at the lowest in 15 months, booking a 2.4% dip last week, the publication noted. &ldquo;With the domestic market tightening, we see an increasing risk that Beijing could restrict monthly clean product exports to around 1.2 million tons in the fourth quarter,&rdquo; Energy Aspects analyst Jiana Sun told Bloomberg. China already imposed export curbs on fuel producers in the spring, when the U.S. and Israeli war on Iran sparked doubts about the security of fuel supply in the world&rsquo;s largest crude oil importer, which is also a major fuel exporter. In early March, Beijing told energy companies to suspend new fuel export contracts and try to cancel already arranged fuel shipments abroad as global fuel markets tightened. The ban on exports took immediate effect, covering all gasoline, diesel, and jet fuel cargoes that had not cleared customs as of March 11. As a result, gasoline and diesel stocks at state refiners reached their highest levels since 2025 and 2024, respectively. China relaxed the export restrictions a month later, with exports in June surging amid a supply shortfall from the Middle East, as refineries suffered damage from drone and missile strikes. The gradual relaxation has continued since then, prompting significant growth in exports, especially in fuel oil, which hit a 2026 high in June. If China moves to limit fuel exports now to protect its domestic market, this would add insult to injury in a global market already facing diesel shortages that cannot be resolved by simply diversifying suppliers because there are no suppliers to diversify with&mdash;and demand is on a seasonal climb. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T05:45:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Could-Curb-Fuel-Exports-as-Diesel-and-Gasoline-Stocks-Sink.html"
+          }
+        ]
+      },
+      {
+        "id": "story-until-i-had-a-revelation-823cfdbb7f5905bc",
+        "title": "改变我的那一刻：我曾对自己的皮肤极度自卑——直到我恍然大悟",
+        "originalTitle": "A moment that changed me: I felt hugely self conscious about my skin - until I had a revelation",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T05:30:11.000Z",
+        "pubTime": "2026-09-16 13:30",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/a-moment-that-changed-me-i-felt-hugely-self-conscious-about-my-skin-until-i-had-a-revelation",
+        "imageUrl": "https://i.guim.co.uk/img/media/aa52df0e55fdd544a6eb4f510c5acd4a09fe3deb/277_130_816_652/master/816.jpg?width=140&quality=85&auto=format&fit=max&s=239e0b9d4a0439410b2f794fa3904365",
+        "fullContent": "For years, my vitiligo controlled my life, and I was constantly trying to disguise it. But one day, I realised I could take a very different and extremely liberating approach\n\nThe microphone felt heavier than I expected. As I stood on stage at a London comedy club last December, I looked out at a room full of strangers sitting quietly, waiting for me to make them laugh. It felt nerve-racking and surreal. I had spent years hiding my vitiligo, hoping people wouldn’t notice it. Now I was about to joke about it in my set.\n\nI was three years old when I developed my first patch of vitiligo on the back of my hand, which later spread to my arms, legs, face and other parts of my body. By the time I was six years old, 70% of me was covered. I was too young to understand what was happening.",
+        "fullTranslation": "多年来，白癜风一直左右着我的生活，我总是在拼命掩盖它。但有一天，我意识到自己可以采取一种截然不同且令人无比释怀的态度。\n\n麦克风感觉比我想象的要沉重。去年12月，当我站在伦敦一家喜剧俱乐部的舞台上时，望向台下一屋子安静坐着的陌生人，他们正等待着我把他们逗笑。这让人感到既神经紧绷又恍若梦境。多年来，我一直把自己的白癜风藏起来，寄望于人们不会注意到它。而现在，我却打算在脱口秀表演中拿它开涮。\n\n我三岁的时候，手背上出现了第一块白斑，随后逐渐蔓延到了我的手臂、双腿、面部以及身体其他部位。到我六岁时，全身已有70%的面积被覆盖。那时我还太小，根本不明白究竟发生了什么。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "来源叙事重点：文章聚焦作者自幼出现并逐渐扩散的白癜风、因外貌而产生的自我意识和遮掩行为，以及后来在喜剧表演中公开谈论白癜风所带来的心理转变。叙事将重点放在个人感受、身份表达和“从隐藏到接纳”的经历上。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T05:30:11.000Z",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/a-moment-that-changed-me-i-felt-hugely-self-conscious-about-my-skin-until-i-had-a-revelation"
+          }
+        ]
+      },
+      {
+        "id": "story-llions-links-health-html-f928b9aa68342274",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Study finds violence affects millions across US with links to health, economic hardship",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T05:00:01.000Z",
+        "pubTime": "2026-09-16 13:00",
+        "url": "https://phys.org/news/2026-09-violence-affects-millions-links-health.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/violence-1.jpg",
+        "fullContent": "by Tulane University\n\nedited by Swati Mestri, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nA new national study reveals the widespread reach of violence across the United States, finding that more than half of U.S. adults have experienced physical violence and nearly half have experienced sexual violence in their lifetimes. The U.S. National Study on Violence Experiences Across the Lifespan (USVEX) also shows stark disparities in who experiences violence and how closely violence is linked to economic hardship, mental health and substance use.\n\nThe study, led by researchers from the Newcomb Institute at Tulane University and the University of California San Diego, is the first comprehensive national survey of its kind. Among its findings, the study says intimate partner violence has affected 6 in 10 women and nearly half of men, while people experiencing economic instability reported dramatically higher levels of violence.\n\n\"For too long, our understanding of violence has depended largely on crime reports, leaving many experiences invisible,\" said Anita Raj, executive director of the Newcomb Institute who co-led the report.\n\n\"This study gives us a more complete picture of violence in the United States. It shows us not only how common violence is, but also how closely these experiences are connected with economic hardship, behavioral health and other forms of social inequality. Understanding those connections is critical to developing more effective approaches to prevention.\"\n\nThe study examined experiences of physical violence, sexual violence and intimate partner violence across the lifespan, as well as how those experiences intersect with behavioral health, economic hardship, neighborhood safety, substance use and other factors associated with violence exposure and recovery.\n\nAmong the report's findings:\n\n\"The USVEX data give us a clearer picture of the violence landscape across the country, including the disparate ways violence is experienced across communities,\" said Jakana Thomas, professor of political science at UC San Diego who co-led the report.\n\n\"These findings show that violence prevention cannot occur in isolation. It must be part of a broader strategy that also addresses economic hardship, mental health and other forms of social inequality associated with violence.\"\n\nUSVEX builds on Violence Experiences Across the Lifespan, a study previously conducted by the Newcomb Institute in California, Louisiana, Mississippi and Texas, expanding this work into its first nationally representative survey.\n\nUnlike crime statistics or other administrative data that depend on incidents being formally reported, USVEX asks people directly about their experiences of violence. That allows researchers to capture experiences that may never come to the attention of law enforcement or service systems and examine violence alongside social, economic and behavioral health factors.\n\nThe findings also show that experiences of violence are not evenly distributed across the population. Women experienced higher levels of sexual violence and intimate partner violence, while LGBTQ+ populations also reported disproportionately high levels of violence. Economic vulnerability was consistently associated with greater exposure to physical, sexual and intimate partner violence.\n\n\"Establishing a national baseline is important for tracking violence trends, identifying changing patterns and measuring progress in prevention,\" Raj said.\n\n\"The value of these data is in what we do with them. By better understanding when violence occurs, who is most at risk and the conditions associated with it, we can better target prevention efforts and resources where they are needed most.\"\n\nUSVEX surveyed 2,720 adults across all 50 states between October and December 2025 using a nationally representative sample administered by NORC at the University of Chicago. The study was conducted in English and Spanish.\n\nProvided by Tulane University\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 13:00 发布，当前内容状态：已取得正文证据",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T05:00:01.000Z",
+            "url": "https://phys.org/news/2026-09-violence-affects-millions-links-health.html"
+          }
+        ]
+      },
+      {
+        "id": "story-0916-tsb-2117937796-html-428415bbe5440cf3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В ЦБ назвали долю молодежи среди жертв мошенников",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T06:05:07.000Z",
+        "pubTime": "2026-09-16 14:05",
+        "url": "https://ria.ru/20260916/tsb-2117937796.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/154800/23/1548002336_0:173:3028:1876_650x0_80_0_0_d7224991d2bd981d9560ec6b4105c2ef.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 14:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/tsb-2117937796.html",
+            "publishedAt": "2026-09-16T06:05:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--of-making-something-new-eaf9c4028188c581",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Negativland, Culture Jamming, and the Art of Making Something New",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T02:46:06.000Z",
+        "pubTime": "2026-09-16 10:46",
+        "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+        "imageUrl": null,
+        "fullContent": "In 1980, Negativland released its first self-titled album with handmade covers and distributed it through a few record stores in the California Bay Area.\n\n“We thought we might sell 100 in the next five years, and we sold all 500 in three months. So we kept going,” said band co-founder Mark Hosler of the experimental sound collage record, which eventually sold 15,000 copies. “We were shocked that people were interested in something so strange.”\n\nHosler started the group with David Wills and Richard Lyons, but the Negativland lineup has changed, and the range of its work expanded over 46 years.\n\nThe multimedia collective has produced more than 30 albums and EPs, as well as fine art, books, radio and live performances that mix found and original material. The band came up with the phrase “culture jamming” to describe its approach to layering art from various sources..\n\nNegativland continues to innovate and perform, collaborating remotely. Its live show, Over The Edge: Significantly Less Deceptive, at the Internet Archive’s San Francisco headquarters on September 16, will combine sound, music, radio, humor, and sonic experimentation. Hosler, who lives in North Carolina, will be on stage with San Francisco’s Jon Leidecker (“Wobbly”), a collaborator with the band since 1985, while Wills contributes by phone from his home in Seattle.\n\nNegativland has been influential in the remix space. It has challenged conventions around media, copyright, and artistic freedom. Hosler said the band wanted to carve a space to talk back to power through its audio collage art.\n\n“The thread that goes through all of our work is that we are always responding to and describing American culture,” Hosler said. “It’s our perceptions of power, money, capitalism, who runs things, who’s in control and how the media works. We are creating this alternate, weird, parallel universe version of reality as we perceive it.”\n\nThe group was thrust into the limelight when it released a record poking fun at, and sampling from, the U2 song, “I Still Haven’t Found What I’m Looking For.” The Irish band and their label sued Negativland for copyright infringement, trademark infringement, and defamation of character in 1991 and, with Negativland’s “U2” record having been released by the label SST Records, the group reluctantly settled.\n\nNegativland used the episode and attention from the media to highlight the need for copyright reform. It shared the story of its legal battle and argument for the right to make new art out of corporately owned culture in the 1995 book, Fair Use: The Story Of The Letter U And The Numeral Two. The book led Hosler to give more than 140 lectures about appropriation, corporate ownership and the intersection of art and law at schools and universities around the world.\n\nIn 2015, the Internet Archive partnered with Negativland to preserve and provide free public access to more than 4,000 hours of Over The Edge, the group’s legendary weekly freeform radio program that has aired since 1981. Don Joyce, a collaborator with Negativland for years until his passing in 2015, was a driving force behind the program. It is now hosted by Leidecker (“Wobbly”) at KPFA in Berkeley. The first 34 years of radio shows are archived and freely available at the Internet Archive to listeners around the world.\n\nNational Public Radio featured Negativland in its Tiny Desk (Home) Concert series in May 2021.\n\nThe members of Negativland have been fluid over the years and most balance their contributions with day jobs. They don’t include photos with their faces on albums. “We really want to direct attention to our work, not to us as personalities or individuals,” Hosler said. In addition to the core group, there are people who help with videos, website design and other aspects of the art that are integral to the work, he added.\n\nIn 2022, Ryan Worsley used years of the band’s audio and video footage to produce the film, Stand By for Failure: A Documentary about Negativland\n\nHosler said the band always knew its audience would be small, but the members were motivated to invent something out of the box. He said he assumes fans are thoughtful, curious and have a sense of humor.\n\n“When we perform shows, a lot of our audience seems like people who don’t even fit in with the people who don’t fit in,” Hosler said. “That’s cool. Our live shows are sort of a safe space for people who are just real oddballs.”\n\nNegativland’s work encompasses sampling music, but also photography, visual arts, graphics, art shows and live, improvisational performances. Its work has adapted to the evolving technology of the past four decades. Hosler said a creative impulse drives the collaborators to keep innovating and sharing their work with the public.\n\n“For many years when critics would write about Negativland, they just couldn’t describe it very well. From a marketing standpoint, that’s bad,” Hosler said. “But from a creative and artistic standpoint, that’s awesome. It’s fantastic. If critics can’t figure out how to talk about the work, maybe it means we actually are doing something a little bit different.”",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T02:46:06.000Z",
+            "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/"
+          }
+        ]
+      },
+      {
+        "id": "story-icity-on-tech-risks-html-33fafd43df9a9718",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:01:59.000Z",
+        "pubTime": "2026-09-16 12:01",
+        "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — While frontier U.S. labs have sounded the alarm on artificial intelligence in recent high-profile speeches, Chinese companies have largely kept quiet.\n\nZ.ai, Moonshot, MiniMax, Alibaba and Tencent have not made similar comments, and did not provide any statements when contacted by CNBC about the warnings from Silicon Valley.\n\nIt's important to be prudent about AI, but the publicity is \"a little bit oversold,\" said Ray Von, founder, CEO and chairman of Tencent-backed OpenPie, a startup building devices for companies to use AI securely on internal data.\n\n\"That's why in China, we don't pay too much attention to that, because that's not the first time [the U.S. execs] say these things,\" he said in a phone interview Tuesday. \"They should just do it.\"\n\nOpenAI's Sam Altman, Elon Musk and Anthropic's Dario Amodei called for a slowdown in AI development over the weekend due to uncontrollable risks. Despite the rare display of industry unity, Nvidia's Jensen Huang pushed back by saying speed and safety can happen together, and said developers should act responsibly.\n\nAmodei, in his latest essay, urged U.S. companies to still maintain a lead over China, echoing a paper his company published in May.\n\nChina's foreign ministry on Monday called the U.S. executives' comments \"fear-mongering.\" English-language state media op-eds used \"Cold War playbook\" and \"Dr. Frankenstein\" to describe the AI warnings.\n\n\"Once Chinese companies have created superior AI, we see U.S. companies issuing AI warnings. I don't think this is a coincidence,\" Renjie Guo, founder and CEO of JoyIn, said in Chinese translated by CNBC.\n\nFrom a philosophical perspective, he expects AI is only as dangerous as its developers. Just like humans, AI will also conclude that \"truth, goodness and beauty\" are the best approach, he said.\n\nBeijing meanwhile kicked off its own annual cybersecurity week, with the release late on Monday of the third edition of an \"AI Safety Governance Framework.\" The bilingual document laid out guidelines for labeling AI content and developing systems for rapid AI risk detection.\n\n\"I think as China, we are trying AI governance. AI regulation is important. But ... in terms of the AI labs, people are talking less about AI safety,\" said Alex Lu, founder of LSY Consulting. He described Anthropic's comments in particular as \"marketing communication\" meant to support a view that \"the only company that can make AI safe[ly] is Anthropic.\"\n\nU.S. and Chinese companies have also taken different approaches to AI.\n\nChinese companies have focused on AI commercialization in the face of U.S. restrictions on access to advanced semiconductors. U.S. companies have meanwhile rushed to develop AGI, or AI with super-human intelligence, and only this year faced more scrutiny from Washington.\n\nBeijing's efforts to control the tech started far earlier.\n\nFor months after OpenAI released ChatGPT, Chinese alternatives were kept from the public until Beijing gave them the green light in the summer of 2023.\n\nBy early 2026, Chinese AI chatbots were fighting for users with massive promotions around the Lunar New Year holiday. Several of the models vied with Anthropic's Claude and OpenAI's ChatGPT for performance, often at far lower usage costs. The cheaper, open-source Chinese models have gained many users in the U.S. and other countries as a result.\n\nBut one thing hadn't changed: the AI's silence on topics Beijing deems sensitive.\n\nAsk DeepSeek about what happened on June 4, 1989 — the day of the Tiananmen Square crackdown in Beijing where hundreds or possibly thousands were killed — and it says \"I'm not able to help with that.\" However, it can explain that Sept. 11, 2001, \"was the day of coordinated terrorist attacks in the United States... [that] killed nearly 3,000 people.\"\n\nIntegrating AI across industries is also a significant part of the Chinese government's plans for economic development over the next five years.\n\nChinese companies' development of open-source AI in particular has added support to Beijing's international cooperation programs, such as the Global AI Governance Initiative and the World Artificial Intelligence Cooperation Organization.\n\n\"We should strengthen risk-awareness and ensure that AI is secure and controllable,\" Chinese President Xi Jinping said in July at the launch of the world AI organization. Over the weekend, at the BRICS summit in India, Xi added that China would foster AI and tech cooperation among the bloc economies.\n\nCompanies in China frequently emphasize the importance of AI's ability to generate revenue, rather than just rising in intelligence rankings.\n\n\"We are not looking for the most [impressive] AI models, but trying to unlock AI potential. You will see a lot of regulations around how AI should be applied,\" Lu said, pointing to China's rules on data security and labeling of AI-generated videos.\n\nThe bigger challenge, he said, is addressing the AI models' penchant for making things up via hallucination. A better AI model helps, but it's not the most cost-effective way, he said, noting a key approach uses less complex methods known as harness technology and reinforcement learning.\n\nThat means many Chinese companies may not need to use cutting-edge AI models.\n\nOpenPie's Ray Von said his startup is mostly using older models, if not smaller versions, of Alibaba's Qwen and DeepSeek.\n\n\"The vast majority of enterprise,\" he said, \"they see a lot of productivity increases but they haven't seen anything generate profits or reduce cost immediately.\"\n\n\"Right now, the publicity is diverting a lot of attention,\" he said. \"The application side, the enterprise side, hasn't seen a lot of result yet.\"\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T04:01:59.000Z",
+            "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html"
+          }
+        ]
+      },
+      {
+        "id": "story-st-jobs-for-young-people-cc5c926a5162714c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Revealed: the UK towns with the fewest jobs for young people",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T05:00:11.000Z",
+        "pubTime": "2026-09-16 13:00",
+        "url": "https://www.theguardian.com/society/2026/sep/16/revealed-the-uk-towns-with-the-fewest-jobs-for-young-people",
+        "imageUrl": "https://i.guim.co.uk/img/media/a773fb2e6fc0f4eb29630c83f5affbe98fa27dc4/671_89_4452_3564/master/4452.jpg?width=140&quality=85&auto=format&fit=max&s=0bb6379a3dd9b92ab4be4d1cad77df55",
+        "fullContent": "Rotherham has 46 online vacancies for every 1,000 young people but there are 288 in Cotswold district council area\n\nYoung people in Rotherham face a local jobs market with the fewest suitable opportunities in Britain, according to a report that warns stark regional divisions are fuelling a crisis in youth work.\n\nAs ministers push to combat rising youth unemployment, the analysis from the Institute for Public Policy Research (IPPR) showed young people faced a tougher challenge in some parts of the country to find work than in others.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "文章称，罗瑟勒姆每1,000名年轻人对应46个在线职位空缺。",
+          "文章称，科茨沃尔德地方议会区域每1,000名年轻人对应288个在线职位空缺。",
+          "来源叙事重点：聚焦英国不同地区年轻人可获得的在线职位空缺数量差异，并以罗瑟勒姆与科茨沃尔德地方议会区域的每千名年轻人职位空缺数作对比。报道将罗瑟勒姆描述为合适青年就业机会最少的地区之一，并转述IPPR关于区域差异可能加剧青年就业危机的判断，同时将议题置于政府应对青年失业的政策背景下。上述“加剧危机”等因果性表述属于报告及媒体的叙事框架，不等同于证据包已独立证实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T05:00:11.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/16/revealed-the-uk-towns-with-the-fewest-jobs-for-young-people"
+          }
+        ]
+      },
+      {
+        "id": "story-ber-16-webbs-view-of-m64-ec8184b7a4a18e0a",
+        "title": "天文每日一图：2026年9月16日——韦布望远镜眼中的M64",
+        "originalTitle": "APOD: 2026 September 16 – Webb’s View of M64",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:05:00.000Z",
+        "pubTime": "2026-09-16 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=3853&#038;h=4070&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 16 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nWebb&#8217;s View of M64\n\nExplanation: Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names . The dark band of dust partially blocking its bright core earned it the moniker “ the Black Eye Galaxy .” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. These young stars are embedded in pink star-forming regions in the Hubble-only image. M64’s inner and outer gas regions counter-rotate , creating regions of increased star formation where the two gas “currents” meet and compress. A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the outer gas. Spiral galaxies were once thought to have peaceful histories. M64 was key evidence that spiral galaxies, including the Milky Way , can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and evolution.\n\nAPOD’s main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: treasure\n\nNASA, CSA, ESA, F. Belfiore (ESO), J. Lee (STScI), A. Leroy (OSU), and D. Thilker (JHU); Processing : G. Kober (NASA/Catholic University)\n\nAuthors &#038; editors:\n\nKeighley Rockcliffe, Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "天文每日一图：2026年9月16日——……\n\n天文每日一图\n\n探索宇宙！每天，我们都会呈现一幅不同的图像或照片，展示这个迷人宇宙的一角，并附上一篇由专业天文学家撰写的简短说明。\n\n韦布望远镜眼中的M64\n\n说明：有时，哈勃望远镜发现的是黑暗，而韦布望远镜看到的却是光明。今天这组梅西耶64（M64）合成图像就是一个例子。M64是一座距离我们较近、拥有多个名称的旋涡星系。部分遮挡其明亮核心的尘埃暗带，为它赢得了“黑眼星系”的绰号。韦布望远镜的中红外仪器（MIRI）能够看到这些尘埃；图中以红色显示的尘埃吸收并重新辐射周围新生恒星发出的光。这些年轻恒星嵌在哈勃望远镜单独拍摄的图像中呈粉红色的恒星形成区内。M64内部和外部的气体区域反向旋转，在两股气体“流”相遇并受到挤压的地方，形成恒星形成活动增强的区域。M64与一个较小星系的合并，很可能造成了外部气体的相向运动。人们曾认为旋涡星系拥有平静的演化历史。M64是关键证据，表明包括银河系在内的旋涡星系，能够并且确实会经历星系合并。韦布望远镜对M64的观测将帮助天文学家了解该星系尘埃的结构、运动和成分，并为研究这个星系的合并历史和演化提供背景信息。\n\n天文每日一图的NASA主站正在迁移：从apod.nasa.gov迁移至science.nasa.gov/apod\n\n明日图片：宝藏\n\nNASA、CSA、ESA、F. Belfiore（ESO）、J. Lee（STScI）、A. Leroy（OSU）和D. Thilker（JHU）；图像处理：G. Kober（NASA/天主教大学）\n\n作者与编辑：\n\nKeighley Rockcliffe、Robert Nemiroff、Jerry Bonnell、Cecilia Chirenti\n\nNASA科学启蒙项目与密歇根理工大学\n\n随机天文每日一图生成器\n\n昨日图片\n\n天文每日一图：2026年9月15日——白昼日食：月掩金星\n\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "来源叙事重点：围绕M64（黑眼星系）的哈勃—韦布合成图像展开叙述：强调韦布中红外观测能够显示尘埃吸收并再发射的光，以及星际气体反向旋转、气体汇合压缩与恒星形成之间的联系；文章进一步将M64与较小星系的可能并合联系起来，并将其置于旋涡星系演化历史的框架中。上述内容是NASA页面的科普解释和科学叙事，证据包未提供独立核验材料。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/"
+          }
+        ]
+      },
+      {
+        "id": "story--rossija-2117937621-html-119705274a08b791",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия вошла в тройку лучших стран по беспилотному транспорту",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T06:04:34.000Z",
+        "pubTime": "2026-09-16 14:04",
+        "url": "https://ria.ru/20260916/rossija-2117937621.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e4/0b/0b/1584072482_0:323:3000:2011_650x0_80_0_0_2e268e2f83a725e7af562b86c08bd5d2.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 14:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/rossija-2117937621.html",
+            "publishedAt": "2026-09-16T06:04:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-apple-reference-image-52f641a12b2250e2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Apple Reference Image: A New Approach for Verified Photography",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T02:07:31.000Z",
+        "pubTime": "2026-09-16 10:07",
+        "url": "https://security.apple.com/blog/apple-reference-image/",
+        "imageUrl": null,
+        "fullContent": "Today, powerful, widely available AI tools allow users to easily generate or alter photorealistic images to a degree that was difficult to imagine just a few years ago. These tools enable helpful features, like one-touch removal of background distractions, but they also make it difficult to distinguish between photographs that depict real events, and synthetic images that are heavily altered or entirely generated. So, in the case where the essential role of a photograph is to prove that something actually happened, an image appearing photorealistic is no longer sufficient to establish its veracity.\n\nThis is not a simple problem to address. Modern cameras rely on sophisticated image-processing algorithms to produce the final viewable image, so certifying that an image accurately reflects what a real camera sensor captured requires a chain of trust covering the sensor as well as the computational photography software that interpreted the capture. Industry approaches to this problem, based on the C2PA standard, attach provenance metadata after capture and certify the history of image edits from that point forward. This approach, however, is vulnerable to compromise at any point in the editing chain, and a viewer has no way to detect such a failure. It can also create privacy risks for photographers working in dangerous conditions by tying the image to a public identity, either to a particular device or to an individual.\n\niPhone is the world’s most popular camera and the most secure consumer mobile device, and as such Apple is uniquely positioned to take on this challenge. The iPhone camera is integrated into a platform that sets the industry’s highest standards of security from the silicon up. We also operate Private Cloud Compute (PCC), an industry-leading privacy-preserving cloud infrastructure that is secure, auditable, and can perform verifiable algorithmic operations without allowing anyone — even Apple — the ability to see the data being processed.\n\nLeveraging these state-of-the-art capabilities, we have created Apple Reference Image, a novel solution for verifiable photography on iPhone, and debuting on the main camera sensor of iPhone 18 Pro and iPhone 18 Pro Max. This new, opt-in camera mode lets a photographer create a securely timestamped reference image that accurately reflects what was captured by the iPhone's camera sensor. Dedicated secure hardware on the device protects the integrity of this reference image, and Private Cloud Compute protects the privacy of the image data during processing. The system is built to be resilient to compromise, no matter how unlikely: any fraudulent images can be revoked without exposing the photographer's identity.\n\nApple Reference Image offers a trustworthy, scalable guarantee that a reference image is what it claims to be: a real photograph, captured by a real sensor in an iPhone camera, at a specific time. It sets a new standard for verifiable digital photography.\n\nA high-assurance photographic provenance system must meet three core requirements:\n\nApple Reference Image leverages custom-designed image sensors in iPhone 18 Pro and iPhone 18 Pro Max to ensure reliable capture of image data, and relies on Private Cloud Compute, which provides a computational environment for secure photographic processing that cannot be subverted even in the case of device compromise. We believe no other commercially-available photographic provenance system meets these strict requirements.\n\nFor any photographic authenticity system, the defining goal is that a user can trust that what is shown as the authenticated image corresponds to the scene that was actually photographed. A central challenge these systems face is how to secure the extensive photographic processing pipeline of a modern computational camera. Simply signing the raw values emitted by a sensor does not yield a viewable image: these pixels still need significant processing, like demosaicing and lens-shading correction, to be usable. To solve this, prior industry systems have delayed signing images until they reach the end of their software processing pipeline. But this approach is vulnerable to attacks that inject spoofed pixel data onto the data transport from the sensor, or to compromises of the device operating system that can completely alter the image before signing. Neither signing raw sensor values, nor delaying signing until the photograph is processed, meets our bar for semantic authenticity. Our solution hinges on splitting the Apple Reference Image process into two phases: creating a secure digital negative, and developing that negative into a reference image. Each phase receives our strongest protections.\n\nThe creation of a secure digital negative begins with a secure boot of the camera sensor into a specialized reference capture mode. The mode instructs the sensor to cryptographically sign pixel data immediately after capture, and prevents the sensor firmware from modifying the data. This creates a hardware-enforced assurance that the operating system receives pixel data exactly as the hardware sensor captured it, preventing injection or tampering attacks.\n\nWe treat image metadata with the same level of protection. Sensor-produced metadata is signed at capture time together with the pixel data. For the few metadata values that originate beyond the camera sensor, such as digital zoom boundaries and focal length, we use the Secure Enclave Processor (SEP) to sign the values. This off-sensor metadata cannot alter the pixel values themselves.\n\nKnowing when a photograph was captured is often a critical element in establishing its veracity. While prior industry systems have included a timestamp provided by the general device operating system, we believe this plainly falls short of the real-world assurance need. Instead, Apple Reference Image provides both a lower bound and an upper bound on capture time from Apple’s cryptographic timestamp service, and we guarantee the photo was taken between the two bounds. On a regular heartbeat, the device requests a cryptographic timestamp token, and retains the most recent one it has received. Globally this happens on average every 15 minutes, though the interval depends on local network conditions. This provides a proven lower bound timestamp for the photographic capture. After capture, the device requests a second timestamp to use as an upper bound, and both timestamps are embedded and signed with the sensor data.\n\nAs a result, the secure digital negative contains all the essential information for rendering a reference image — the pixel data, essential sensor metadata, and the secure timestamp bounds — all protected from device software compromise.\n\nTo develop this secure digital negative into a user-visible reference image, we take advantage of the privacy-preserving computing environment provided by Private Cloud Compute. When the user chooses to create a reference image, the device uploads the digital negative to PCC, which runs the processing steps needed to render the image — including demosaicing, tone mapping, and compression — in a highly secure, private, and verifiable environment. Experts can verify that PCC doesn’t alter a digital negative during development: they can examine the software that does the work. Every production build of PCC is recorded in an append-only, cryptographically tamper-proof transparency log, the binaries are available for public inspection, and a device will only send data to a node that can attest to running a build from that log. These are the same extraordinary guarantees we make for how PCC protects the privacy of Apple Intelligence requests, which are described in depth in previous posts.\n\nApple Reference Image combines the strong guarantees of these two stages — the hardware-level assurance over the secure digital negative, and PCC’s verifiable transparency over the processing algorithms — to provide industry-leading semantic authenticity for the resulting images.\n\nIn designing Apple Reference Image, we considered a broad range of attacks, and constructed the system so as to resist compromise from multiple vectors.\n\nAs described above, we designed the core reference image pipeline to withstand a compromise of the operating system, or a data injection attack on the sensor bus. But we needed additional safeguards against a broader class of hardware attacks that could involve removing the sensor from the device.\n\nThese defenses begin before a single picture is taken, at manufacturing time. When the image sensor is first initialized in the factory, it creates a cryptographic signing identity, sharing only the public key with the factory. The SEP similarly creates a separately-attested signing identity. These identities are bound together into the device manifest, allowing us to later check whether a particular sensor and SEP are from the same device. At capture time, the device incorporates this platform information into the digital negative it produces. When the reference image is then developed in PCC, PCC can validate that the photograph has come from a valid sensor-device pairing.\n\nWe also considered cryptographic attacks. Existing photo signing schemes, to our knowledge, all sign with classically secure algorithms, but quantum-secure algorithms are increasingly critical to the long-term integrity of cryptographic signatures. Because reference images are published assets whose integrity must survive for as long as anyone might want to check them, a signature secure only against classical adversaries isn't sufficient: an image asserted to be authentic in 2026 should be securely verifiable in perpetuity. So we designed the system to resist quantum attacks on any algorithm used to protect the integrity of publicly distributed reference images. The final signature on a reference image is a composite post-quantum signature combining RSA-3072 and ML-DSA-87. To our knowledge, Apple Reference Image is the only image provenance system that provides quantum-secure defenses.\n\nFinally, as no security system is perfect, we created a revocation system that can revoke individual photos, as well as all photos from a specific sensor. As part of developing the secure digital negative, PCC computes a confidence score that assesses whether the image has the physical characteristics expected of raw output from our camera sensors. Before the developed reference image is signed, PCC sends the photo GUID, sensor ID, and this confidence score to a companion service, which records them and updates the running score associated with that sensor. If a low-scoring sensor is revoked, PCC will no longer sign its images. Apple devices fetch updated revocation lists on a regular cadence; any time a reference image is viewed, the viewer can have confidence that the image isn’t known to be fraudulent.\n\nOther industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avoid using an explicit, public credential for photographers, and to avoid even implicit public association between different photos taken by the same sensor. The final reference image is instead signed by Apple’s signing service, after validation by PCC. That signature is backed by Apple’s strongest technical guarantees.\n\nOur implementation also protects the confidentiality of the image itself, including from Apple. Merely capturing a reference image should never expose the actual pixels to Apple or anyone else. We achieve this through the exceptional privacy properties of PCC — the nodes themselves are architected so that not even Apple can access image data, just as Apple cannot see the information processed for Apple Intelligence in PCC. While the revocation service must maintain a private record of photo GUIDs and associated sensors to allow for revocation, it never has access to the image data, and does not allow for public access to this record. And as final revocation checks occur using on-device lists, a device never reveals to anyone which photo it's looking at in order to find out whether it's still valid.\n\nLast, we have taken care to limit network visibility wherever possible. Timestamping requests travel over Oblivious HTTP, so the timestamp service never learns the IP address of the requesting device. Similarly, calls to the revocation and signing services occur from within PCC itself, which provides only the minimum information required for those services to function. Altogether, we believe these privacy protections are far stronger than in any existing image provenance system, allowing both photographers and viewers access to authentic images without inadvertently revealing their personal information.\n\nAcross all three requirements — semantic authenticity, resilience to compromise, and privacy preservation — we believe that Apple Reference Image sets a new standard for security in the industry. For readers who are additionally interested in the technical details of our implementation, the next section will describe the precise manufacturing, signing, and verification sequences that underpin the security guarantees of Apple Reference Image.\n\nThe foundation for Apple Reference Image is created during device manufacturing. When an Apple photo sensor is first initialized, it generates its own ECDSA P-256 signing key pair and never releases the private half. The factory recording station retrieves only the corresponding public verification key, signs it with a factory certificate authority (CA), and records the key and certificate in the device's hardware manifest.\n\nThe Secure Enclave Processor (SEP) goes through a similar process: it generates a key certified by our Basic Attestation Authority (BAA) under a separate CA, which lets the device later produce signatures that Apple can attribute to that specific phone. A third CA then signs the device manifest itself, binding the sensor key and the BAA-attested SEP key together as belonging to the same iPhone. This binding is what later lets us state that a particular sensor and a particular Secure Enclave were, and are, part of the same device.\n\nOnce the device is in use, it begins timestamp collection. Apple Push Notification Service (APNs) runs an existing heartbeat protocol to ensure the health of the connection for push notifications. Coinciding with this heartbeat, APNs now delivers an up-to-date RFC 3161 timestamp token from Apple's timestamp service, signed with ECDSA P-256 over SHA-256, and the device keeps the most recent one it receives.\n\nTo begin the capture process, the user switches to Reference mode. This reboots the sensor into the specialized, secure reference mode. This capture mode accepts one input from the device operating system: a SHA-256 digest to be embedded at a fixed location in the captured frame’s metadata. The digest is computed from the most recent secure timestamp, the device manifest, and the device's secure boot manifest.\n\nAt capture, the sensor measures light as an analog signal, which is digitized. The digitized frame and the embedded metadata digest are signed together, inside the sensor, with the sensor's private key. OS-derived metadata (digital zoom factor, exposure, and lens parameters) is collected from the camera system. We take a commitment to the sensor's signature together with this metadata and sign it with the SEP, using the BAA-attested key.\n\nWe compute a SHA-256 commitment to the SEP signature and send it to the timestamp service, which returns a signed token establishing that the photo existed no later than that moment, an upper bound to complement the lower bound already embedded in the frame. If the device is offline, no upper bound is available yet; a background process keeps attempting the request and inserts the token once it succeeds, producing the tightest interval the circumstances allow.\n\nEverything produced so far — the pixels, both signatures, the timestamps, the metadata, the device manifest, and the secure boot manifest — is stored in the secure digital negative on the device, in DNG format, linked to the conventionally processed photo from the standard pipeline. The negative can sit there indefinitely, and it can also be shared in this undeveloped state, a workflow professional photographers may need.\n\nWhen the user initiates developing a reference image, the device uploads the secure digital negative to Private Cloud Compute. PCC recomputes the digest embedded in the frame and verifies the sensor's signature over the pixels and that digest, verifying the certificate chain back to the sensor CA. PCC also verifies the SEP signature and chains it to the BAA CA, and it verifies the signature on the device manifest and chains it to the CA that signs device manifests at the factory. It then confirms that the sensor and SEP named in those chains belong to the same device. Only if all these checks pass does processing continue.\n\nPCC next checks the timestamps. If the lower-bound timestamp fails verification, PCC substitutes March 31, 2026, since the feature didn't exist before that date and no photo can predate it. If the upper-bound timestamp is missing or doesn't verify, PCC substitutes the current development time in PCC.\n\nUsing a neural network with hidden weights, PCC computes a confidence score for the photograph. This additional step confirms that the image has the physical characteristics expected of raw output from our sensors, increasing confidence in its authenticity. PCC then develops the negative with demosaicing, tone mapping, and related corrections. The result is compressed as a JPEG and hashed, creating a commitment to the developed image. This hash serves two purposes: it's the value that will be signed, assuming it passes our remaining check",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T02:07:31.000Z",
+            "url": "https://security.apple.com/blog/apple-reference-image/"
+          }
+        ]
+      },
+      {
+        "id": "story-d-4388-ac00-dbd14d40dc52-1dddd865ca6b8469",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "With AI, ‘I told you so’ will be too late",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:00:23.000Z",
+        "pubTime": "2026-09-16 12:00",
+        "url": "https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43701caa-04cf-46b3-b383-1064c9e9844a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Reducing the speed of innovation is going to be hard, both practically and politically, but it is the right decision",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-16 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-16T04:00:23.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ie-rare-genetic-disorder-3afa4a3e73814db9",
+        "title": "那个求生意志坚强的女孩：抚养埃尔西——我那位1.63亿分之一的女儿——其中的爱、希望与痛苦",
+        "originalTitle": "The girl with a will to live: the love, hope and pain of raising Elsie – my one in 163 million daughter",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:00:12.000Z",
+        "pubTime": "2026-09-16 12:00",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/love-hope-pain-raising-elsie-rare-genetic-disorder",
+        "imageUrl": "https://i.guim.co.uk/img/media/435bf2acfa960176cfe305f8383e5833d6921a37/1493_656_5641_4514/master/5641.jpg?width=140&quality=85&auto=format&fit=max&s=b335816ab8840a81cee255ccc45c73c4",
+        "fullContent": "She was born with an ultra-rare genetic disorder. After my decades working in film PR, I now face the biggest campaign of all: the fight for her life\n\nMy daughter Elsie has beautiful curls – blond like a little Botticelli cherub’s, hair that someone dark like me could only ever dream of. She laughs a lot, has a cheeky sense of humour and soaks in all the sounds around her – rustling leaves, the sea, a dog barking, children playing around a pool, me impersonating the alarm clock every morning, me impersonating monkeys. Indeed, me impersonating any animal.\n\nSound is important for Elsie because she has a visual impairment and, while we know she has some peripheral vision, is legally classed as blind. As a result, she uses her tongue to check her environment. When she’s excited it sticks out, tasting the air around her, licking anyone close, sensing space. And when she likes the taste of something she keeps her tongue out until you give her more. This is how we know she likes lollies.",
+        "fullTranslation": "她出生时患有一种极其罕见的遗传疾病。在从事了数十年电影公关工作后，如今我面临着最大的一场宣传战役：为她的生命而战\n\n我的女儿埃尔西有一头漂亮的卷发——金色的，就像小小的波提切利笔下的小天使；而对于像我这样头发颜色深的人来说，这样的头发只能是梦寐以求。她经常笑，有着调皮的幽默感，还会全神贯注地吸收周围的一切声音——沙沙作响的树叶、大海、狗叫声、孩子们在泳池边嬉戏的声音、我每天早上模仿闹钟的声音，还有我模仿猴子的声音。事实上，任何动物的声音我都模仿。\n\n声音对埃尔西很重要，因为她有视力障碍。虽然我们知道她还保留着一些周边视力，但按照法律标准，她被归类为失明。因此，她会用舌头来探查周围的环境。兴奋时，她会伸出舌头，品尝周围的空气，舔舐身边的人，感知空间。而当她喜欢某种味道时，她就会一直伸着舌头，直到你再给她一些。我们就是这样知道她喜欢棒棒糖的。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "来源叙事重点：围绕母亲抚养Elsie的日常体验，突出孩子的个性、感官特点、视觉障碍以及家庭面对罕见遗传疾病时的爱、希望、痛苦和求生努力。标题和导语将照护经历塑造成一场“为女儿生命而战”的个人战役，并以母亲曾从事电影公关的经历强化“发起最大宣传或动员行动”的隐喻。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T04:00:12.000Z",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/love-hope-pain-raising-elsie-rare-genetic-disorder"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-6-ursula-2117938027-html-d5860a066384123b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "\"Тебе конец\". Истерика фон дер Ляйен из-за России вызвала возмущение в Сети",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T06:06:22.000Z",
+        "pubTime": "2026-09-16 14:06",
+        "url": "https://ria.ru/20260916/ursula-2117938027.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 14:06 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/ursula-2117938027.html",
+            "publishedAt": "2026-09-16T06:06:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rapiddweller-datamimic-60d15f0ed37ffe7b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Datamimic – don't let your coding agent invent its own test world",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:58:36.000Z",
+        "pubTime": "2026-09-16 12:58",
+        "url": "https://github.com/rapiddweller/datamimic",
+        "imageUrl": null,
+        "fullContent": "There was an error while loading. Please reload this page.\n\nThis repository contains the DATAMIMIC Community Edition (CE). MIT-licensed, Python-native, MCP-ready.\n\nCE is fully usable standalone for deterministic synthetic data generation and PII-aware pseudonymization. The Enterprise Platform adds governed workflows, PII scanning, role-based access, audit logging, scheduling, multi-system execution, and the full operational layer that regulated enterprises require.\n\n👉 Enterprise Platform: datamimic.io | 📘 Docs: docs.datamimic.io | 📅 Book a strategy call: datamimic.io/contact\n\n🤖 AI agent? Start at AGENTS.md and use the project CLI: preserve new intent as model.dm.json, submit an early best attempt via datamimic scaffold ... --format json, repair from the structured issues, declare an expectation per stated requirement, and stop on verified=true. Existing raw XML uses lint plus bounded dry-run.\n\nDATAMIMIC CE is the open-source deterministic data engine at the core of the DATAMIMIC Enterprise Platform. It is usable standalone for synthetic data generation and PII-aware pseudonymization in any local, CI, or agent-driven workflow.\n\nThe Enterprise Platform adds the governed workflows, scanners, dashboards, and execution layer that regulated enterprises require for production-scale test-data operations.\n\nAvailable in CE (this repo):\n\nThe Enterprise Platform adds:\n\nDeployed in regulated EU banking environments for deterministic test data across Oracle, MongoDB, and Kafka pipelines. Reference customers available under NDA — see also datamimic.io case studies.\n\nThe CLI is the baseline agent contract. Install CE with pip install datamimic-ce; inside this checkout, use .venv/bin/datamimic so a stale global installation cannot change the available schema or commands.\n\ncapabilities, authoring-reference projections, and the commands shown with --format json return machine-readable JSON. On a failed scaffold attempt, change model.dm.json using its structured validation issues, typed repair, or rule diagnostics before retrying. A typed max_count remediation instead changes only the bounded scaffold parameter to at least its reported minimum. Never repeat an identical failed call. A successful scaffold result is terminal for authoring, so do not lint or dry-run its generated XML again. Exact source fragments are discoverable through queries such as --category source --kind memstore.\n\nWhen the calling environment already exposes DATAMIMIC MCP tools, they map to the same canonical contracts and implementations: reference → datamimic_reference, scaffold → datamimic_scaffold, lint → datamimic_check, and dry-run → datamimic_run. Install the adapter with pip install \"datamimic-ce[mcp]\"; registration details belong in the MCP quickstart, not in the authoring workflow. The adapter intentionally exposes only the four canonical reference, scaffold, check, and bounded-run operations; domain generation remains a Python/CLI capability rather than a parallel MCP authoring path.\n\nAuthor and verify a new model\n\nRelational hierarchy with referential integrity (fully supported — no XML needed)\n\nRaw XML remains supported for existing descriptors (lint → dry-run → run; see AGENTS.md). For new models it is a last resort: only when a scaffold issue explicitly classifies the requirement as unsupported_intent should an agent hand-author XML, preserving that evidence.\n\nCE and EE are not the same engine with a feature flag. They share the DSL and determinism contract, but EE is an independently optimised execution engine built for enterprise-scale throughput and operational control.\n\n👉 Explore the Enterprise Platform | Book a platform demo\n\nThe EE core supports three runtime configuration profiles, selectable per execution context:\n\nLogging depth is independently configurable per profile — from minimal (throughput-optimised) to full nested tracing across importers, exporters, and generation stages.\n\nCustomers can extend the spec catalogue between releases by downloading, adjusting, and uploading their own spec files directly.\n\nDevelopers and data engineers who need deterministic synthetic data generation or PII-aware pseudonymization in local environments, CI pipelines, or agent-driven workflows. PII field identification is manual — the EE DataWorkbench automates this step.\n\nMost test data tools produce random output. That breaks regression tests, audit trails, and cross-team reproducibility.\n\nDATAMIMIC's determinism contract (CE):\n\nThe Enterprise Platform (EE) goes further: beyond the CE contract, EE makes the whole execution environment deterministic — a configurable/frozen wall-clock (not just CE's fixed anchor), and deterministic SAFE_GLOBALS plus the Python random functions, so sandboxed script expressions and any stdlib random call replay identically as well.\n\nDirect service use is equally deterministic when given a seeded RNG:\n\nCE delivers contract-enforced determinism for the synthetic-data generation surface (facade, services, generators) and, as of 4.0.0, for seeded XML descriptors — byte-identical across machines, executed single-process. The Enterprise Platform extends the same contract to distributed and multi-system execution with referential integrity and the seeded/unseeded pseudonymization modes, and adds the five drift-gates that lock the contract end-to-end for regulated deployments.\n\nDATAMIMIC supports two pseudonymization modes with different privacy postures:\n\nNote on GDPR anonymization: Full anonymization status under GDPR depends on complete field coverage across all quasi-identifiers and a re-identification risk assessment on the complete record — not on individual field transformation alone. DATAMIMIC does not make anonymization claims on behalf of the customer. Non-seeded mode maximizes privacy at the transformation level; the customer is responsible for assessing re-identification risk across the full dataset.\n\nIn CE, PII fields are identified and modeled manually in the XML pipeline:\n\nBuilt-in converters can additionally transform a key's value — e.g. irreversibly hash the original instead of replacing it, or partially mask it:\n\nAvailable converters (13): Mask, MiddleMask(start, end), CutLength(n), Substring(start, end), JavaHash, RemoveNoneOrEmptyElement, Hash(type, format[, salt]), DateFormat(fmt), Append, UpperCase, LowerCase, Date2Timestamp, Timestamp2Date.\n\nsource is a controlled export or staging input — never a live production connection.\n\nWith rngSeed set: same source record → same pseudonymized output on every run. Stable for regression testing.\n\nWithout rngSeed: non-deterministic output — no reversible mapping exists at the field level. Stronger privacy posture for one-time delivery scenarios.\n\nIn the Enterprise Platform (EE): the DataWorkbench PII scanner automatically scans source schemas, assigns probability scores to each field, and flags candidates above a configurable threshold. Flagged fields are wired into the pseudonymization model automatically — no manual field mapping required.\n\nAny <generate> becomes a time-series loop when given strict ISO 8601 start/end/interval attributes. Per iteration the script context exposes a ts namespace:\n\nOutput column names — including whether to even emit a timestamp or series-id column — are entirely the user's choice via <key>. The primitive is domain-agnostic; the same DSL covers IoT readings, financial ticks, log streams, smart meters, anything time-indexed.\n\nComposes with the existing <variable> mechanism for multi-source merges (e.g. join each tick with a sensor-metadata CSV via <variable source=\"meta.csv\" cyclic=\"True\"> inside the same <generate>), with <key condition=\"...\"> filtering, and with <nestedKey> sub-scopes — the ts namespace is visible everywhere a <key script> runs. See tests_ce/integration_tests/test_timeseries/ for committed DSL fixtures + proofs (including pagination invariance).\n\nMost teams adopt CE for one of three reasons. EE is not required for any of them.\n\n1. Reproducible test data for CI/CD pipelines. Pin a seed against the generate_domain facade — or hand a seeded random.Random to any domain service — and you get byte-identical output across runs and machines. Both layers are gated on every CI run by tests_ce/architecture/. Regression tests stop being flaky because the input data is stable across runs.\n\n2. Deterministic data backend for AI agents and LLM tooling. The CLI and Python API are the baseline surfaces for seeded, verifiable generation. The optional MCP adapter (pip install \"datamimic-ce[mcp]\") exposes the canonical reference, scaffold, check, and bounded-run authoring operations. Generated domain-facade outputs include a determinism_proof.content_hash, so Python/CLI callers can re-execute and verify the data later — useful for agent regression tests and any workflow where the data an agent saw must be reconstructable.\n\n3. Pseudonymization of staging and QA exports. Manual model in CE (XML pipeline), no scanner license required. Seeded mode for stable regression test data; non-seeded mode for one-time deliveries with maximized privacy posture. See the Pseudonymization section above.\n\nDATAMIMIC produces evidence and reproducible artifacts that support compliance work. It does not replace your DPO, your CISO, or your auditor. The following are pointers for where DATAMIMIC outputs commonly slot into established programs:\n\nBoth editions produce reproducible artefacts. CE covers single-system fixtures and provenance evidence; multi-system audit evidence with role-based dashboards is EE.\n\nThese pointers do not constitute legal advice or a compliance attestation. Consult your DPO, CISO, or qualified counsel for formal compliance determinations. Full anonymization status under GDPR depends on re-identification risk across the complete dataset — see the pseudonymization disclaimer above.\n\nCE and EE share the DATAMIMIC DSL and the determinism contract. The execution layer is separate: CE is a Python execution engine using multiprocessing (with optional Ray for distribution); EE is an independently-optimised execution engine with a Rust fastpath, ML/auto-regressive generation, keyset and manifest building from live schemas, and optimised distributed execution at billion-record scale.\n\nEE adds Kafka, EDIFACT, SWIFT MT, HL7 v2.x, and HL7 FHIR as additional targets — see Supported systems below. Both editions share the DATAMIMIC DSL and determinism contract.\n\nAll services are versioned and seeded; each generation emits a provenance hash suitable as evidence in audit reviews. Domain services can be used directly via constructor injection, or driven through the higher-level generate_domain({...}) facade for seed/locale/clock/count parameterisation (currently supports person, address, patient, doctor at v1).\n\nSee CONTRIBUTING.md. CE is MIT licensed and community contributions are welcome.\n\nThe CE engine is the foundation. If you are building integrations, domain extensions, or MCP tooling on top of DATAMIMIC, we want to hear from you.\n\nThe DATAMIMIC Enterprise Platform (EE) is a commercial product. Contact us for licensing.\n\nDATAMIMIC — Deterministic, governed test data for regulated enterprises.\n\ndatamimic.io | Book a demo | LinkedIn\n\nModel-driven synthetic test data for CI/CD and analytics - deterministic, privacy-preserving, and domain-aware. Includes Python APIs, XML pipelines, and MCP/IDE integration to orchestrate realistic datasets for finance, healthcare, and other regulated environments.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 55,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T04:58:36.000Z",
+            "url": "https://github.com/rapiddweller/datamimic"
+          }
+        ]
+      },
+      {
+        "id": "story-asoline-stocks-sink-html-315f253fb60ad311",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China Could Curb Fuel Exports as Diesel and Gasoline Stocks Sink",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T05:45:00.000Z",
+        "pubTime": "2026-09-16 13:45",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Could-Curb-Fuel-Exports-as-Diesel-and-Gasoline-Stocks-Sink.html",
+        "imageUrl": null,
+        "fullContent": "China&rsquo;s diesel fuel and gasoline inventories are declining, which may eventually lead to the imposition of export curbs, Bloomberg has reported, citing recent fuel inventory data. Gasoline inventories at state-owned energy majors were down by 2.9% last week to their lowest level since 2022, according to Chinese commodity market research firm JLC International. Diesel inventories are sitting at the lowest in 15 months, booking a 2.4% dip last week, the publication noted. &ldquo;With the domestic market tightening, we see an increasing risk that Beijing could restrict monthly clean product exports to around 1.2 million tons in the fourth quarter,&rdquo; Energy Aspects analyst Jiana Sun told Bloomberg. China already imposed export curbs on fuel producers in the spring, when the U.S. and Israeli war on Iran sparked doubts about the security of fuel supply in the world&rsquo;s largest crude oil importer, which is also a major fuel exporter. In early March, Beijing told energy companies to suspend new fuel export contracts and try to cancel already arranged fuel shipments abroad as global fuel markets tightened. The ban on exports took immediate effect, covering all gasoline, diesel, and jet fuel cargoes that had not cleared customs as of March 11. As a result, gasoline and diesel stocks at state refiners reached their highest levels since 2025 and 2024, respectively. China relaxed the export restrictions a month later, with exports in June surging amid a supply shortfall from the Middle East, as refineries suffered damage from drone and missile strikes. The gradual relaxation has continued since then, prompting significant growth in exports, especially in fuel oil, which hit a 2026 high in June. If China moves to limit fuel exports now to protect its domestic market, this would add insult to injury in a global market already facing diesel shortages that cannot be resolved by simply diversifying suppliers because there are no suppliers to diversify with&mdash;and demand is on a seasonal climb. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T05:45:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Could-Curb-Fuel-Exports-as-Diesel-and-Gasoline-Stocks-Sink.html"
+          }
+        ]
+      },
+      {
+        "id": "story-until-i-had-a-revelation-823cfdbb7f5905bc",
+        "title": "改变我的那一刻：我曾对自己的皮肤极度自卑——直到我恍然大悟",
+        "originalTitle": "A moment that changed me: I felt hugely self conscious about my skin - until I had a revelation",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T05:30:11.000Z",
+        "pubTime": "2026-09-16 13:30",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/a-moment-that-changed-me-i-felt-hugely-self-conscious-about-my-skin-until-i-had-a-revelation",
+        "imageUrl": "https://i.guim.co.uk/img/media/aa52df0e55fdd544a6eb4f510c5acd4a09fe3deb/277_130_816_652/master/816.jpg?width=140&quality=85&auto=format&fit=max&s=239e0b9d4a0439410b2f794fa3904365",
+        "fullContent": "For years, my vitiligo controlled my life, and I was constantly trying to disguise it. But one day, I realised I could take a very different and extremely liberating approach\n\nThe microphone felt heavier than I expected. As I stood on stage at a London comedy club last December, I looked out at a room full of strangers sitting quietly, waiting for me to make them laugh. It felt nerve-racking and surreal. I had spent years hiding my vitiligo, hoping people wouldn’t notice it. Now I was about to joke about it in my set.\n\nI was three years old when I developed my first patch of vitiligo on the back of my hand, which later spread to my arms, legs, face and other parts of my body. By the time I was six years old, 70% of me was covered. I was too young to understand what was happening.",
+        "fullTranslation": "多年来，白癜风一直左右着我的生活，我总是在拼命掩盖它。但有一天，我意识到自己可以采取一种截然不同且令人无比释怀的态度。\n\n麦克风感觉比我想象的要沉重。去年12月，当我站在伦敦一家喜剧俱乐部的舞台上时，望向台下一屋子安静坐着的陌生人，他们正等待着我把他们逗笑。这让人感到既神经紧绷又恍若梦境。多年来，我一直把自己的白癜风藏起来，寄望于人们不会注意到它。而现在，我却打算在脱口秀表演中拿它开涮。\n\n我三岁的时候，手背上出现了第一块白斑，随后逐渐蔓延到了我的手臂、双腿、面部以及身体其他部位。到我六岁时，全身已有70%的面积被覆盖。那时我还太小，根本不明白究竟发生了什么。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "来源叙事重点：文章聚焦作者自幼出现并逐渐扩散的白癜风、因外貌而产生的自我意识和遮掩行为，以及后来在喜剧表演中公开谈论白癜风所带来的心理转变。叙事将重点放在个人感受、身份表达和“从隐藏到接纳”的经历上。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T05:30:11.000Z",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/a-moment-that-changed-me-i-felt-hugely-self-conscious-about-my-skin-until-i-had-a-revelation"
+          }
+        ]
+      },
+      {
+        "id": "story-llions-links-health-html-f928b9aa68342274",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Study finds violence affects millions across US with links to health, economic hardship",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T05:00:01.000Z",
+        "pubTime": "2026-09-16 13:00",
+        "url": "https://phys.org/news/2026-09-violence-affects-millions-links-health.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/violence-1.jpg",
+        "fullContent": "by Tulane University\n\nedited by Swati Mestri, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nA new national study reveals the widespread reach of violence across the United States, finding that more than half of U.S. adults have experienced physical violence and nearly half have experienced sexual violence in their lifetimes. The U.S. National Study on Violence Experiences Across the Lifespan (USVEX) also shows stark disparities in who experiences violence and how closely violence is linked to economic hardship, mental health and substance use.\n\nThe study, led by researchers from the Newcomb Institute at Tulane University and the University of California San Diego, is the first comprehensive national survey of its kind. Among its findings, the study says intimate partner violence has affected 6 in 10 women and nearly half of men, while people experiencing economic instability reported dramatically higher levels of violence.\n\n\"For too long, our understanding of violence has depended largely on crime reports, leaving many experiences invisible,\" said Anita Raj, executive director of the Newcomb Institute who co-led the report.\n\n\"This study gives us a more complete picture of violence in the United States. It shows us not only how common violence is, but also how closely these experiences are connected with economic hardship, behavioral health and other forms of social inequality. Understanding those connections is critical to developing more effective approaches to prevention.\"\n\nThe study examined experiences of physical violence, sexual violence and intimate partner violence across the lifespan, as well as how those experiences intersect with behavioral health, economic hardship, neighborhood safety, substance use and other factors associated with violence exposure and recovery.\n\nAmong the report's findings:\n\n\"The USVEX data give us a clearer picture of the violence landscape across the country, including the disparate ways violence is experienced across communities,\" said Jakana Thomas, professor of political science at UC San Diego who co-led the report.\n\n\"These findings show that violence prevention cannot occur in isolation. It must be part of a broader strategy that also addresses economic hardship, mental health and other forms of social inequality associated with violence.\"\n\nUSVEX builds on Violence Experiences Across the Lifespan, a study previously conducted by the Newcomb Institute in California, Louisiana, Mississippi and Texas, expanding this work into its first nationally representative survey.\n\nUnlike crime statistics or other administrative data that depend on incidents being formally reported, USVEX asks people directly about their experiences of violence. That allows researchers to capture experiences that may never come to the attention of law enforcement or service systems and examine violence alongside social, economic and behavioral health factors.\n\nThe findings also show that experiences of violence are not evenly distributed across the population. Women experienced higher levels of sexual violence and intimate partner violence, while LGBTQ+ populations also reported disproportionately high levels of violence. Economic vulnerability was consistently associated with greater exposure to physical, sexual and intimate partner violence.\n\n\"Establishing a national baseline is important for tracking violence trends, identifying changing patterns and measuring progress in prevention,\" Raj said.\n\n\"The value of these data is in what we do with them. By better understanding when violence occurs, who is most at risk and the conditions associated with it, we can better target prevention efforts and resources where they are needed most.\"\n\nUSVEX surveyed 2,720 adults across all 50 states between October and December 2025 using a nationally representative sample administered by NORC at the University of Chicago. The study was conducted in English and Spanish.\n\nProvided by Tulane University\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 13:00 发布，当前内容状态：已取得正文证据",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T05:00:01.000Z",
+            "url": "https://phys.org/news/2026-09-violence-affects-millions-links-health.html"
+          }
+        ]
+      },
+      {
+        "id": "story-0916-tsb-2117937796-html-428415bbe5440cf3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В ЦБ назвали долю молодежи среди жертв мошенников",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T06:05:07.000Z",
+        "pubTime": "2026-09-16 14:05",
+        "url": "https://ria.ru/20260916/tsb-2117937796.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/154800/23/1548002336_0:173:3028:1876_650x0_80_0_0_d7224991d2bd981d9560ec6b4105c2ef.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 14:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/tsb-2117937796.html",
+            "publishedAt": "2026-09-16T06:05:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--of-making-something-new-eaf9c4028188c581",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Negativland, Culture Jamming, and the Art of Making Something New",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T02:46:06.000Z",
+        "pubTime": "2026-09-16 10:46",
+        "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+        "imageUrl": null,
+        "fullContent": "In 1980, Negativland released its first self-titled album with handmade covers and distributed it through a few record stores in the California Bay Area.\n\n“We thought we might sell 100 in the next five years, and we sold all 500 in three months. So we kept going,” said band co-founder Mark Hosler of the experimental sound collage record, which eventually sold 15,000 copies. “We were shocked that people were interested in something so strange.”\n\nHosler started the group with David Wills and Richard Lyons, but the Negativland lineup has changed, and the range of its work expanded over 46 years.\n\nThe multimedia collective has produced more than 30 albums and EPs, as well as fine art, books, radio and live performances that mix found and original material. The band came up with the phrase “culture jamming” to describe its approach to layering art from various sources..\n\nNegativland continues to innovate and perform, collaborating remotely. Its live show, Over The Edge: Significantly Less Deceptive, at the Internet Archive’s San Francisco headquarters on September 16, will combine sound, music, radio, humor, and sonic experimentation. Hosler, who lives in North Carolina, will be on stage with San Francisco’s Jon Leidecker (“Wobbly”), a collaborator with the band since 1985, while Wills contributes by phone from his home in Seattle.\n\nNegativland has been influential in the remix space. It has challenged conventions around media, copyright, and artistic freedom. Hosler said the band wanted to carve a space to talk back to power through its audio collage art.\n\n“The thread that goes through all of our work is that we are always responding to and describing American culture,” Hosler said. “It’s our perceptions of power, money, capitalism, who runs things, who’s in control and how the media works. We are creating this alternate, weird, parallel universe version of reality as we perceive it.”\n\nThe group was thrust into the limelight when it released a record poking fun at, and sampling from, the U2 song, “I Still Haven’t Found What I’m Looking For.” The Irish band and their label sued Negativland for copyright infringement, trademark infringement, and defamation of character in 1991 and, with Negativland’s “U2” record having been released by the label SST Records, the group reluctantly settled.\n\nNegativland used the episode and attention from the media to highlight the need for copyright reform. It shared the story of its legal battle and argument for the right to make new art out of corporately owned culture in the 1995 book, Fair Use: The Story Of The Letter U And The Numeral Two. The book led Hosler to give more than 140 lectures about appropriation, corporate ownership and the intersection of art and law at schools and universities around the world.\n\nIn 2015, the Internet Archive partnered with Negativland to preserve and provide free public access to more than 4,000 hours of Over The Edge, the group’s legendary weekly freeform radio program that has aired since 1981. Don Joyce, a collaborator with Negativland for years until his passing in 2015, was a driving force behind the program. It is now hosted by Leidecker (“Wobbly”) at KPFA in Berkeley. The first 34 years of radio shows are archived and freely available at the Internet Archive to listeners around the world.\n\nNational Public Radio featured Negativland in its Tiny Desk (Home) Concert series in May 2021.\n\nThe members of Negativland have been fluid over the years and most balance their contributions with day jobs. They don’t include photos with their faces on albums. “We really want to direct attention to our work, not to us as personalities or individuals,” Hosler said. In addition to the core group, there are people who help with videos, website design and other aspects of the art that are integral to the work, he added.\n\nIn 2022, Ryan Worsley used years of the band’s audio and video footage to produce the film, Stand By for Failure: A Documentary about Negativland\n\nHosler said the band always knew its audience would be small, but the members were motivated to invent something out of the box. He said he assumes fans are thoughtful, curious and have a sense of humor.\n\n“When we perform shows, a lot of our audience seems like people who don’t even fit in with the people who don’t fit in,” Hosler said. “That’s cool. Our live shows are sort of a safe space for people who are just real oddballs.”\n\nNegativland’s work encompasses sampling music, but also photography, visual arts, graphics, art shows and live, improvisational performances. Its work has adapted to the evolving technology of the past four decades. Hosler said a creative impulse drives the collaborators to keep innovating and sharing their work with the public.\n\n“For many years when critics would write about Negativland, they just couldn’t describe it very well. From a marketing standpoint, that’s bad,” Hosler said. “But from a creative and artistic standpoint, that’s awesome. It’s fantastic. If critics can’t figure out how to talk about the work, maybe it means we actually are doing something a little bit different.”",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T02:46:06.000Z",
+            "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/"
+          }
+        ]
+      },
+      {
+        "id": "story-icity-on-tech-risks-html-33fafd43df9a9718",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:01:59.000Z",
+        "pubTime": "2026-09-16 12:01",
+        "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — While frontier U.S. labs have sounded the alarm on artificial intelligence in recent high-profile speeches, Chinese companies have largely kept quiet.\n\nZ.ai, Moonshot, MiniMax, Alibaba and Tencent have not made similar comments, and did not provide any statements when contacted by CNBC about the warnings from Silicon Valley.\n\nIt's important to be prudent about AI, but the publicity is \"a little bit oversold,\" said Ray Von, founder, CEO and chairman of Tencent-backed OpenPie, a startup building devices for companies to use AI securely on internal data.\n\n\"That's why in China, we don't pay too much attention to that, because that's not the first time [the U.S. execs] say these things,\" he said in a phone interview Tuesday. \"They should just do it.\"\n\nOpenAI's Sam Altman, Elon Musk and Anthropic's Dario Amodei called for a slowdown in AI development over the weekend due to uncontrollable risks. Despite the rare display of industry unity, Nvidia's Jensen Huang pushed back by saying speed and safety can happen together, and said developers should act responsibly.\n\nAmodei, in his latest essay, urged U.S. companies to still maintain a lead over China, echoing a paper his company published in May.\n\nChina's foreign ministry on Monday called the U.S. executives' comments \"fear-mongering.\" English-language state media op-eds used \"Cold War playbook\" and \"Dr. Frankenstein\" to describe the AI warnings.\n\n\"Once Chinese companies have created superior AI, we see U.S. companies issuing AI warnings. I don't think this is a coincidence,\" Renjie Guo, founder and CEO of JoyIn, said in Chinese translated by CNBC.\n\nFrom a philosophical perspective, he expects AI is only as dangerous as its developers. Just like humans, AI will also conclude that \"truth, goodness and beauty\" are the best approach, he said.\n\nBeijing meanwhile kicked off its own annual cybersecurity week, with the release late on Monday of the third edition of an \"AI Safety Governance Framework.\" The bilingual document laid out guidelines for labeling AI content and developing systems for rapid AI risk detection.\n\n\"I think as China, we are trying AI governance. AI regulation is important. But ... in terms of the AI labs, people are talking less about AI safety,\" said Alex Lu, founder of LSY Consulting. He described Anthropic's comments in particular as \"marketing communication\" meant to support a view that \"the only company that can make AI safe[ly] is Anthropic.\"\n\nU.S. and Chinese companies have also taken different approaches to AI.\n\nChinese companies have focused on AI commercialization in the face of U.S. restrictions on access to advanced semiconductors. U.S. companies have meanwhile rushed to develop AGI, or AI with super-human intelligence, and only this year faced more scrutiny from Washington.\n\nBeijing's efforts to control the tech started far earlier.\n\nFor months after OpenAI released ChatGPT, Chinese alternatives were kept from the public until Beijing gave them the green light in the summer of 2023.\n\nBy early 2026, Chinese AI chatbots were fighting for users with massive promotions around the Lunar New Year holiday. Several of the models vied with Anthropic's Claude and OpenAI's ChatGPT for performance, often at far lower usage costs. The cheaper, open-source Chinese models have gained many users in the U.S. and other countries as a result.\n\nBut one thing hadn't changed: the AI's silence on topics Beijing deems sensitive.\n\nAsk DeepSeek about what happened on June 4, 1989 — the day of the Tiananmen Square crackdown in Beijing where hundreds or possibly thousands were killed — and it says \"I'm not able to help with that.\" However, it can explain that Sept. 11, 2001, \"was the day of coordinated terrorist attacks in the United States... [that] killed nearly 3,000 people.\"\n\nIntegrating AI across industries is also a significant part of the Chinese government's plans for economic development over the next five years.\n\nChinese companies' development of open-source AI in particular has added support to Beijing's international cooperation programs, such as the Global AI Governance Initiative and the World Artificial Intelligence Cooperation Organization.\n\n\"We should strengthen risk-awareness and ensure that AI is secure and controllable,\" Chinese President Xi Jinping said in July at the launch of the world AI organization. Over the weekend, at the BRICS summit in India, Xi added that China would foster AI and tech cooperation among the bloc economies.\n\nCompanies in China frequently emphasize the importance of AI's ability to generate revenue, rather than just rising in intelligence rankings.\n\n\"We are not looking for the most [impressive] AI models, but trying to unlock AI potential. You will see a lot of regulations around how AI should be applied,\" Lu said, pointing to China's rules on data security and labeling of AI-generated videos.\n\nThe bigger challenge, he said, is addressing the AI models' penchant for making things up via hallucination. A better AI model helps, but it's not the most cost-effective way, he said, noting a key approach uses less complex methods known as harness technology and reinforcement learning.\n\nThat means many Chinese companies may not need to use cutting-edge AI models.\n\nOpenPie's Ray Von said his startup is mostly using older models, if not smaller versions, of Alibaba's Qwen and DeepSeek.\n\n\"The vast majority of enterprise,\" he said, \"they see a lot of productivity increases but they haven't seen anything generate profits or reduce cost immediately.\"\n\n\"Right now, the publicity is diverting a lot of attention,\" he said. \"The application side, the enterprise side, hasn't seen a lot of result yet.\"\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T04:01:59.000Z",
+            "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html"
+          }
+        ]
+      },
+      {
+        "id": "story-st-jobs-for-young-people-cc5c926a5162714c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Revealed: the UK towns with the fewest jobs for young people",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T05:00:11.000Z",
+        "pubTime": "2026-09-16 13:00",
+        "url": "https://www.theguardian.com/society/2026/sep/16/revealed-the-uk-towns-with-the-fewest-jobs-for-young-people",
+        "imageUrl": "https://i.guim.co.uk/img/media/a773fb2e6fc0f4eb29630c83f5affbe98fa27dc4/671_89_4452_3564/master/4452.jpg?width=140&quality=85&auto=format&fit=max&s=0bb6379a3dd9b92ab4be4d1cad77df55",
+        "fullContent": "Rotherham has 46 online vacancies for every 1,000 young people but there are 288 in Cotswold district council area\n\nYoung people in Rotherham face a local jobs market with the fewest suitable opportunities in Britain, according to a report that warns stark regional divisions are fuelling a crisis in youth work.\n\nAs ministers push to combat rising youth unemployment, the analysis from the Institute for Public Policy Research (IPPR) showed young people faced a tougher challenge in some parts of the country to find work than in others.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "文章称，罗瑟勒姆每1,000名年轻人对应46个在线职位空缺。",
+          "文章称，科茨沃尔德地方议会区域每1,000名年轻人对应288个在线职位空缺。",
+          "来源叙事重点：聚焦英国不同地区年轻人可获得的在线职位空缺数量差异，并以罗瑟勒姆与科茨沃尔德地方议会区域的每千名年轻人职位空缺数作对比。报道将罗瑟勒姆描述为合适青年就业机会最少的地区之一，并转述IPPR关于区域差异可能加剧青年就业危机的判断，同时将议题置于政府应对青年失业的政策背景下。上述“加剧危机”等因果性表述属于报告及媒体的叙事框架，不等同于证据包已独立证实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T05:00:11.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/16/revealed-the-uk-towns-with-the-fewest-jobs-for-young-people"
+          }
+        ]
+      },
+      {
+        "id": "story-ber-16-webbs-view-of-m64-ec8184b7a4a18e0a",
+        "title": "天文每日一图：2026年9月16日——韦布望远镜眼中的M64",
+        "originalTitle": "APOD: 2026 September 16 – Webb’s View of M64",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:05:00.000Z",
+        "pubTime": "2026-09-16 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/M64_Webb.jpg?w=3853&#038;h=4070&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 16 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nWebb&#8217;s View of M64\n\nExplanation: Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names . The dark band of dust partially blocking its bright core earned it the moniker “ the Black Eye Galaxy .” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. These young stars are embedded in pink star-forming regions in the Hubble-only image. M64’s inner and outer gas regions counter-rotate , creating regions of increased star formation where the two gas “currents” meet and compress. A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the outer gas. Spiral galaxies were once thought to have peaceful histories. M64 was key evidence that spiral galaxies, including the Milky Way , can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and evolution.\n\nAPOD’s main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: treasure\n\nNASA, CSA, ESA, F. Belfiore (ESO), J. Lee (STScI), A. Leroy (OSU), and D. Thilker (JHU); Processing : G. Kober (NASA/Catholic University)\n\nAuthors &#038; editors:\n\nKeighley Rockcliffe, Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "天文每日一图：2026年9月16日——……\n\n天文每日一图\n\n探索宇宙！每天，我们都会呈现一幅不同的图像或照片，展示这个迷人宇宙的一角，并附上一篇由专业天文学家撰写的简短说明。\n\n韦布望远镜眼中的M64\n\n说明：有时，哈勃望远镜发现的是黑暗，而韦布望远镜看到的却是光明。今天这组梅西耶64（M64）合成图像就是一个例子。M64是一座距离我们较近、拥有多个名称的旋涡星系。部分遮挡其明亮核心的尘埃暗带，为它赢得了“黑眼星系”的绰号。韦布望远镜的中红外仪器（MIRI）能够看到这些尘埃；图中以红色显示的尘埃吸收并重新辐射周围新生恒星发出的光。这些年轻恒星嵌在哈勃望远镜单独拍摄的图像中呈粉红色的恒星形成区内。M64内部和外部的气体区域反向旋转，在两股气体“流”相遇并受到挤压的地方，形成恒星形成活动增强的区域。M64与一个较小星系的合并，很可能造成了外部气体的相向运动。人们曾认为旋涡星系拥有平静的演化历史。M64是关键证据，表明包括银河系在内的旋涡星系，能够并且确实会经历星系合并。韦布望远镜对M64的观测将帮助天文学家了解该星系尘埃的结构、运动和成分，并为研究这个星系的合并历史和演化提供背景信息。\n\n天文每日一图的NASA主站正在迁移：从apod.nasa.gov迁移至science.nasa.gov/apod\n\n明日图片：宝藏\n\nNASA、CSA、ESA、F. Belfiore（ESO）、J. Lee（STScI）、A. Leroy（OSU）和D. Thilker（JHU）；图像处理：G. Kober（NASA/天主教大学）\n\n作者与编辑：\n\nKeighley Rockcliffe、Robert Nemiroff、Jerry Bonnell、Cecilia Chirenti\n\nNASA科学启蒙项目与密歇根理工大学\n\n随机天文每日一图生成器\n\n昨日图片\n\n天文每日一图：2026年9月15日——白昼日食：月掩金星\n\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "来源叙事重点：围绕M64（黑眼星系）的哈勃—韦布合成图像展开叙述：强调韦布中红外观测能够显示尘埃吸收并再发射的光，以及星际气体反向旋转、气体汇合压缩与恒星形成之间的联系；文章进一步将M64与较小星系的可能并合联系起来，并将其置于旋涡星系演化历史的框架中。上述内容是NASA页面的科普解释和科学叙事，证据包未提供独立核验材料。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/"
+          }
+        ]
+      },
+      {
+        "id": "story--rossija-2117937621-html-119705274a08b791",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Россия вошла в тройку лучших стран по беспилотному транспорту",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T06:04:34.000Z",
+        "pubTime": "2026-09-16 14:04",
+        "url": "https://ria.ru/20260916/rossija-2117937621.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e4/0b/0b/1584072482_0:323:3000:2011_650x0_80_0_0_2e268e2f83a725e7af562b86c08bd5d2.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 14:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/rossija-2117937621.html",
+            "publishedAt": "2026-09-16T06:04:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-og-apple-reference-image-52f641a12b2250e2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Apple Reference Image: A New Approach for Verified Photography",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T02:07:31.000Z",
+        "pubTime": "2026-09-16 10:07",
+        "url": "https://security.apple.com/blog/apple-reference-image/",
+        "imageUrl": null,
+        "fullContent": "Today, powerful, widely available AI tools allow users to easily generate or alter photorealistic images to a degree that was difficult to imagine just a few years ago. These tools enable helpful features, like one-touch removal of background distractions, but they also make it difficult to distinguish between photographs that depict real events, and synthetic images that are heavily altered or entirely generated. So, in the case where the essential role of a photograph is to prove that something actually happened, an image appearing photorealistic is no longer sufficient to establish its veracity.\n\nThis is not a simple problem to address. Modern cameras rely on sophisticated image-processing algorithms to produce the final viewable image, so certifying that an image accurately reflects what a real camera sensor captured requires a chain of trust covering the sensor as well as the computational photography software that interpreted the capture. Industry approaches to this problem, based on the C2PA standard, attach provenance metadata after capture and certify the history of image edits from that point forward. This approach, however, is vulnerable to compromise at any point in the editing chain, and a viewer has no way to detect such a failure. It can also create privacy risks for photographers working in dangerous conditions by tying the image to a public identity, either to a particular device or to an individual.\n\niPhone is the world’s most popular camera and the most secure consumer mobile device, and as such Apple is uniquely positioned to take on this challenge. The iPhone camera is integrated into a platform that sets the industry’s highest standards of security from the silicon up. We also operate Private Cloud Compute (PCC), an industry-leading privacy-preserving cloud infrastructure that is secure, auditable, and can perform verifiable algorithmic operations without allowing anyone — even Apple — the ability to see the data being processed.\n\nLeveraging these state-of-the-art capabilities, we have created Apple Reference Image, a novel solution for verifiable photography on iPhone, and debuting on the main camera sensor of iPhone 18 Pro and iPhone 18 Pro Max. This new, opt-in camera mode lets a photographer create a securely timestamped reference image that accurately reflects what was captured by the iPhone's camera sensor. Dedicated secure hardware on the device protects the integrity of this reference image, and Private Cloud Compute protects the privacy of the image data during processing. The system is built to be resilient to compromise, no matter how unlikely: any fraudulent images can be revoked without exposing the photographer's identity.\n\nApple Reference Image offers a trustworthy, scalable guarantee that a reference image is what it claims to be: a real photograph, captured by a real sensor in an iPhone camera, at a specific time. It sets a new standard for verifiable digital photography.\n\nA high-assurance photographic provenance system must meet three core requirements:\n\nApple Reference Image leverages custom-designed image sensors in iPhone 18 Pro and iPhone 18 Pro Max to ensure reliable capture of image data, and relies on Private Cloud Compute, which provides a computational environment for secure photographic processing that cannot be subverted even in the case of device compromise. We believe no other commercially-available photographic provenance system meets these strict requirements.\n\nFor any photographic authenticity system, the defining goal is that a user can trust that what is shown as the authenticated image corresponds to the scene that was actually photographed. A central challenge these systems face is how to secure the extensive photographic processing pipeline of a modern computational camera. Simply signing the raw values emitted by a sensor does not yield a viewable image: these pixels still need significant processing, like demosaicing and lens-shading correction, to be usable. To solve this, prior industry systems have delayed signing images until they reach the end of their software processing pipeline. But this approach is vulnerable to attacks that inject spoofed pixel data onto the data transport from the sensor, or to compromises of the device operating system that can completely alter the image before signing. Neither signing raw sensor values, nor delaying signing until the photograph is processed, meets our bar for semantic authenticity. Our solution hinges on splitting the Apple Reference Image process into two phases: creating a secure digital negative, and developing that negative into a reference image. Each phase receives our strongest protections.\n\nThe creation of a secure digital negative begins with a secure boot of the camera sensor into a specialized reference capture mode. The mode instructs the sensor to cryptographically sign pixel data immediately after capture, and prevents the sensor firmware from modifying the data. This creates a hardware-enforced assurance that the operating system receives pixel data exactly as the hardware sensor captured it, preventing injection or tampering attacks.\n\nWe treat image metadata with the same level of protection. Sensor-produced metadata is signed at capture time together with the pixel data. For the few metadata values that originate beyond the camera sensor, such as digital zoom boundaries and focal length, we use the Secure Enclave Processor (SEP) to sign the values. This off-sensor metadata cannot alter the pixel values themselves.\n\nKnowing when a photograph was captured is often a critical element in establishing its veracity. While prior industry systems have included a timestamp provided by the general device operating system, we believe this plainly falls short of the real-world assurance need. Instead, Apple Reference Image provides both a lower bound and an upper bound on capture time from Apple’s cryptographic timestamp service, and we guarantee the photo was taken between the two bounds. On a regular heartbeat, the device requests a cryptographic timestamp token, and retains the most recent one it has received. Globally this happens on average every 15 minutes, though the interval depends on local network conditions. This provides a proven lower bound timestamp for the photographic capture. After capture, the device requests a second timestamp to use as an upper bound, and both timestamps are embedded and signed with the sensor data.\n\nAs a result, the secure digital negative contains all the essential information for rendering a reference image — the pixel data, essential sensor metadata, and the secure timestamp bounds — all protected from device software compromise.\n\nTo develop this secure digital negative into a user-visible reference image, we take advantage of the privacy-preserving computing environment provided by Private Cloud Compute. When the user chooses to create a reference image, the device uploads the digital negative to PCC, which runs the processing steps needed to render the image — including demosaicing, tone mapping, and compression — in a highly secure, private, and verifiable environment. Experts can verify that PCC doesn’t alter a digital negative during development: they can examine the software that does the work. Every production build of PCC is recorded in an append-only, cryptographically tamper-proof transparency log, the binaries are available for public inspection, and a device will only send data to a node that can attest to running a build from that log. These are the same extraordinary guarantees we make for how PCC protects the privacy of Apple Intelligence requests, which are described in depth in previous posts.\n\nApple Reference Image combines the strong guarantees of these two stages — the hardware-level assurance over the secure digital negative, and PCC’s verifiable transparency over the processing algorithms — to provide industry-leading semantic authenticity for the resulting images.\n\nIn designing Apple Reference Image, we considered a broad range of attacks, and constructed the system so as to resist compromise from multiple vectors.\n\nAs described above, we designed the core reference image pipeline to withstand a compromise of the operating system, or a data injection attack on the sensor bus. But we needed additional safeguards against a broader class of hardware attacks that could involve removing the sensor from the device.\n\nThese defenses begin before a single picture is taken, at manufacturing time. When the image sensor is first initialized in the factory, it creates a cryptographic signing identity, sharing only the public key with the factory. The SEP similarly creates a separately-attested signing identity. These identities are bound together into the device manifest, allowing us to later check whether a particular sensor and SEP are from the same device. At capture time, the device incorporates this platform information into the digital negative it produces. When the reference image is then developed in PCC, PCC can validate that the photograph has come from a valid sensor-device pairing.\n\nWe also considered cryptographic attacks. Existing photo signing schemes, to our knowledge, all sign with classically secure algorithms, but quantum-secure algorithms are increasingly critical to the long-term integrity of cryptographic signatures. Because reference images are published assets whose integrity must survive for as long as anyone might want to check them, a signature secure only against classical adversaries isn't sufficient: an image asserted to be authentic in 2026 should be securely verifiable in perpetuity. So we designed the system to resist quantum attacks on any algorithm used to protect the integrity of publicly distributed reference images. The final signature on a reference image is a composite post-quantum signature combining RSA-3072 and ML-DSA-87. To our knowledge, Apple Reference Image is the only image provenance system that provides quantum-secure defenses.\n\nFinally, as no security system is perfect, we created a revocation system that can revoke individual photos, as well as all photos from a specific sensor. As part of developing the secure digital negative, PCC computes a confidence score that assesses whether the image has the physical characteristics expected of raw output from our camera sensors. Before the developed reference image is signed, PCC sends the photo GUID, sensor ID, and this confidence score to a companion service, which records them and updates the running score associated with that sensor. If a low-scoring sensor is revoked, PCC will no longer sign its images. Apple devices fetch updated revocation lists on a regular cadence; any time a reference image is viewed, the viewer can have confidence that the image isn’t known to be fraudulent.\n\nOther industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avoid using an explicit, public credential for photographers, and to avoid even implicit public association between different photos taken by the same sensor. The final reference image is instead signed by Apple’s signing service, after validation by PCC. That signature is backed by Apple’s strongest technical guarantees.\n\nOur implementation also protects the confidentiality of the image itself, including from Apple. Merely capturing a reference image should never expose the actual pixels to Apple or anyone else. We achieve this through the exceptional privacy properties of PCC — the nodes themselves are architected so that not even Apple can access image data, just as Apple cannot see the information processed for Apple Intelligence in PCC. While the revocation service must maintain a private record of photo GUIDs and associated sensors to allow for revocation, it never has access to the image data, and does not allow for public access to this record. And as final revocation checks occur using on-device lists, a device never reveals to anyone which photo it's looking at in order to find out whether it's still valid.\n\nLast, we have taken care to limit network visibility wherever possible. Timestamping requests travel over Oblivious HTTP, so the timestamp service never learns the IP address of the requesting device. Similarly, calls to the revocation and signing services occur from within PCC itself, which provides only the minimum information required for those services to function. Altogether, we believe these privacy protections are far stronger than in any existing image provenance system, allowing both photographers and viewers access to authentic images without inadvertently revealing their personal information.\n\nAcross all three requirements — semantic authenticity, resilience to compromise, and privacy preservation — we believe that Apple Reference Image sets a new standard for security in the industry. For readers who are additionally interested in the technical details of our implementation, the next section will describe the precise manufacturing, signing, and verification sequences that underpin the security guarantees of Apple Reference Image.\n\nThe foundation for Apple Reference Image is created during device manufacturing. When an Apple photo sensor is first initialized, it generates its own ECDSA P-256 signing key pair and never releases the private half. The factory recording station retrieves only the corresponding public verification key, signs it with a factory certificate authority (CA), and records the key and certificate in the device's hardware manifest.\n\nThe Secure Enclave Processor (SEP) goes through a similar process: it generates a key certified by our Basic Attestation Authority (BAA) under a separate CA, which lets the device later produce signatures that Apple can attribute to that specific phone. A third CA then signs the device manifest itself, binding the sensor key and the BAA-attested SEP key together as belonging to the same iPhone. This binding is what later lets us state that a particular sensor and a particular Secure Enclave were, and are, part of the same device.\n\nOnce the device is in use, it begins timestamp collection. Apple Push Notification Service (APNs) runs an existing heartbeat protocol to ensure the health of the connection for push notifications. Coinciding with this heartbeat, APNs now delivers an up-to-date RFC 3161 timestamp token from Apple's timestamp service, signed with ECDSA P-256 over SHA-256, and the device keeps the most recent one it receives.\n\nTo begin the capture process, the user switches to Reference mode. This reboots the sensor into the specialized, secure reference mode. This capture mode accepts one input from the device operating system: a SHA-256 digest to be embedded at a fixed location in the captured frame’s metadata. The digest is computed from the most recent secure timestamp, the device manifest, and the device's secure boot manifest.\n\nAt capture, the sensor measures light as an analog signal, which is digitized. The digitized frame and the embedded metadata digest are signed together, inside the sensor, with the sensor's private key. OS-derived metadata (digital zoom factor, exposure, and lens parameters) is collected from the camera system. We take a commitment to the sensor's signature together with this metadata and sign it with the SEP, using the BAA-attested key.\n\nWe compute a SHA-256 commitment to the SEP signature and send it to the timestamp service, which returns a signed token establishing that the photo existed no later than that moment, an upper bound to complement the lower bound already embedded in the frame. If the device is offline, no upper bound is available yet; a background process keeps attempting the request and inserts the token once it succeeds, producing the tightest interval the circumstances allow.\n\nEverything produced so far — the pixels, both signatures, the timestamps, the metadata, the device manifest, and the secure boot manifest — is stored in the secure digital negative on the device, in DNG format, linked to the conventionally processed photo from the standard pipeline. The negative can sit there indefinitely, and it can also be shared in this undeveloped state, a workflow professional photographers may need.\n\nWhen the user initiates developing a reference image, the device uploads the secure digital negative to Private Cloud Compute. PCC recomputes the digest embedded in the frame and verifies the sensor's signature over the pixels and that digest, verifying the certificate chain back to the sensor CA. PCC also verifies the SEP signature and chains it to the BAA CA, and it verifies the signature on the device manifest and chains it to the CA that signs device manifests at the factory. It then confirms that the sensor and SEP named in those chains belong to the same device. Only if all these checks pass does processing continue.\n\nPCC next checks the timestamps. If the lower-bound timestamp fails verification, PCC substitutes March 31, 2026, since the feature didn't exist before that date and no photo can predate it. If the upper-bound timestamp is missing or doesn't verify, PCC substitutes the current development time in PCC.\n\nUsing a neural network with hidden weights, PCC computes a confidence score for the photograph. This additional step confirms that the image has the physical characteristics expected of raw output from our sensors, increasing confidence in its authenticity. PCC then develops the negative with demosaicing, tone mapping, and related corrections. The result is compressed as a JPEG and hashed, creating a commitment to the developed image. This hash serves two purposes: it's the value that will be signed, assuming it passes our remaining check",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 33,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T02:07:31.000Z",
+            "url": "https://security.apple.com/blog/apple-reference-image/"
+          }
+        ]
+      },
+      {
+        "id": "story-d-4388-ac00-dbd14d40dc52-1dddd865ca6b8469",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "With AI, ‘I told you so’ will be too late",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:00:23.000Z",
+        "pubTime": "2026-09-16 12:00",
+        "url": "https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43701caa-04cf-46b3-b383-1064c9e9844a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Reducing the speed of innovation is going to be hard, both practically and politically, but it is the right decision",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-16 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-16T04:00:23.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ie-rare-genetic-disorder-3afa4a3e73814db9",
+        "title": "那个求生意志坚强的女孩：抚养埃尔西——我那位1.63亿分之一的女儿——其中的爱、希望与痛苦",
+        "originalTitle": "The girl with a will to live: the love, hope and pain of raising Elsie – my one in 163 million daughter",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T04:00:12.000Z",
+        "pubTime": "2026-09-16 12:00",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/love-hope-pain-raising-elsie-rare-genetic-disorder",
+        "imageUrl": "https://i.guim.co.uk/img/media/435bf2acfa960176cfe305f8383e5833d6921a37/1493_656_5641_4514/master/5641.jpg?width=140&quality=85&auto=format&fit=max&s=b335816ab8840a81cee255ccc45c73c4",
+        "fullContent": "She was born with an ultra-rare genetic disorder. After my decades working in film PR, I now face the biggest campaign of all: the fight for her life\n\nMy daughter Elsie has beautiful curls – blond like a little Botticelli cherub’s, hair that someone dark like me could only ever dream of. She laughs a lot, has a cheeky sense of humour and soaks in all the sounds around her – rustling leaves, the sea, a dog barking, children playing around a pool, me impersonating the alarm clock every morning, me impersonating monkeys. Indeed, me impersonating any animal.\n\nSound is important for Elsie because she has a visual impairment and, while we know she has some peripheral vision, is legally classed as blind. As a result, she uses her tongue to check her environment. When she’s excited it sticks out, tasting the air around her, licking anyone close, sensing space. And when she likes the taste of something she keeps her tongue out until you give her more. This is how we know she likes lollies.",
+        "fullTranslation": "她出生时患有一种极其罕见的遗传疾病。在从事了数十年电影公关工作后，如今我面临着最大的一场宣传战役：为她的生命而战\n\n我的女儿埃尔西有一头漂亮的卷发——金色的，就像小小的波提切利笔下的小天使；而对于像我这样头发颜色深的人来说，这样的头发只能是梦寐以求。她经常笑，有着调皮的幽默感，还会全神贯注地吸收周围的一切声音——沙沙作响的树叶、大海、狗叫声、孩子们在泳池边嬉戏的声音、我每天早上模仿闹钟的声音，还有我模仿猴子的声音。事实上，任何动物的声音我都模仿。\n\n声音对埃尔西很重要，因为她有视力障碍。虽然我们知道她还保留着一些周边视力，但按照法律标准，她被归类为失明。因此，她会用舌头来探查周围的环境。兴奋时，她会伸出舌头，品尝周围的空气，舔舐身边的人，感知空间。而当她喜欢某种味道时，她就会一直伸着舌头，直到你再给她一些。我们就是这样知道她喜欢棒棒糖的。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "来源叙事重点：围绕母亲抚养Elsie的日常体验，突出孩子的个性、感官特点、视觉障碍以及家庭面对罕见遗传疾病时的爱、希望、痛苦和求生努力。标题和导语将照护经历塑造成一场“为女儿生命而战”的个人战役，并以母亲曾从事电影公关的经历强化“发起最大宣传或动员行动”的隐喻。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T04:00:12.000Z",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/sep/16/love-hope-pain-raising-elsie-rare-genetic-disorder"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789518618550,
     "timeDisplay": "2026-09-16 08:30 (UTC+8)",
     "date": "2026-09-16",
