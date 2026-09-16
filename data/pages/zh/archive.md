@@ -28,14 +28,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **42** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **43** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-17 04:26 (UTC+8)
+- **最新归档时间**：2026-09-17 07:15 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-17 07:15 (UTC+8)" title="全球要闻情报简报 · 07:15" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-17 07:02 (UTC+8) 完成，共获得 11 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】美国车企或很快被强制免费配备AM收音机：事实证明，显然有一件事能够弥合华盛顿的党派分歧，那就是AM广播收音机。美国汽车制造商可能在未来一年内被迫在新车中配备AM收音机。；【undefined】Pulley——Carta的竞争对手——将关闭：股权结构表管理平台Pulley本周在其网站上宣布将停止运营，最终运营和服务日期为12月8日。出人意料的是，该公司表示已与竞争对手Carta达成合作，将客户转交给Carta；此外，Pulley还将潜在客户引导至Carta。；【undefined】澳大利亚政治直播：乔伊斯称伯克是“自阿梅莉亚·埃尔哈特以来最严重的缺席者”；卡纳万为弟兄会教会介入选举辩护：实时关注当天新闻 订阅我们的突发新闻电子邮件，下载免费应用，或收听每日新闻播客 巴纳比·乔伊斯表示，工党正在抄袭一国党的“作业”，因为就目前所知，工党正在考虑的措施——阻止国际学生的家属入境，以及防止签证跳转——与保琳·汉森提出的建议有一些相似之处。 乔伊斯稍早接受《今日》节目采访时表示，伯克最后一刻取消在新闻俱乐部的活动，是“自阿梅莉亚·埃尔哈特以来最严重的缺席”。 “伯克不可能是在准备宣布一国党的政策。我是说，托尼是个很棒的人，对吧；【undefined】外媒：美联储三年多来首次加息，特朗普强烈反对：中新网9月17日电 据英国广播公司(BBC)报道，当地时间16日，美国利率三年多来首次上调，为了遏制物价上涨，美联储可能还会进一步提高利率。；【undefined】众议院通过对俄制裁法案，将以林赛·格雷厄姆命名的法案送交特朗普案头：美国国会大厦于2026年9月14日星期一在华盛顿特区拍摄。Mariam Zuhaib/AP 图片说明已隐藏；【undefined】以下是周三美联储加息的五大要点：美联储周三如市场普遍预期宣布加息，随后美联储主席凯文·沃什举行了一场格外简短的新闻发布会，并强调政策制定者坚定致力于应对通胀。；【undefined】在被指责销售“色狼眼镜”后，Meta准备推出一款不带摄像头的眼镜：Meta配备摄像头的智能眼镜已经证明比市场上的其他竞争产品更为成功，但这类产品也让一些消费者深感不安。在他们看来，这些眼镜是失控的反乌托邦监控社会的入侵性象征。如今，在应对外界指责其销售“色狼眼镜”之际，据报道，Meta决定推出一款不配备集成式窥探设备的眼镜。；【undefined】X现在将允许美国用户通过Cashtag进行交易：X现在将允许用户直接在时间线上进行交易。这家由埃隆·马斯克持有的社交网络周三推出了一项名为Cashtag的功能，允许在X上的美国用户通过参与其中的券商买卖股票。该项目的首批合作伙伴包括盈透证券（Interactive Brokers）、Moomoo、Gemini、Kraken和Coinbase。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260917/razrabotchik-2118154127.html) <span class="news-meta-time">🕒 2026-09-17 07:00</span>
+- [TechCrunch (硅谷创业与资本)] [美国车企或很快被强制免费配备AM收音机](https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/) <span class="news-meta-time">🕒 2026-09-17 06:37</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html) <span class="news-meta-time">🕒 2026-09-17 07:00</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wi8fn0/your_computer_might_demand_your_age_soon_no/) <span class="news-meta-time">🕒 2026-09-17 04:13</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-volatile-compounds-underestimated-carbon.html) <span class="news-meta-time">🕒 2026-09-17 07:00</span>
+- [NY Times World (纽约时报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html) <span class="news-meta-time">🕒 2026-09-17 06:59</span>
+:::
 :::timeline-item{start="2026-09-17 04:26 (UTC+8)" title="全球要闻情报简报 · 04:26" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-17 04:14 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 

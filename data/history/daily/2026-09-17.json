@@ -1,5 +1,1594 @@
 [
   {
+    "timestamp": 1789600557090,
+    "timeDisplay": "2026-09-17 07:15 (UTC+8)",
+    "date": "2026-09-17",
+    "runId": "feed-20260916T230218016Z-aj7vha",
+    "generatedAt": "2026-09-16T23:15:57.090Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 07:02",
+      "lead": "本轮抓取于 2026-09-17 07:02 (UTC+8) 完成，共获得 11 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】美国车企或很快被强制免费配备AM收音机：事实证明，显然有一件事能够弥合华盛顿的党派分歧，那就是AM广播收音机。美国汽车制造商可能在未来一年内被迫在新车中配备AM收音机。",
+        "【undefined】Pulley——Carta的竞争对手——将关闭：股权结构表管理平台Pulley本周在其网站上宣布将停止运营，最终运营和服务日期为12月8日。出人意料的是，该公司表示已与竞争对手Carta达成合作，将客户转交给Carta；此外，Pulley还将潜在客户引导至Carta。",
+        "【undefined】澳大利亚政治直播：乔伊斯称伯克是“自阿梅莉亚·埃尔哈特以来最严重的缺席者”；卡纳万为弟兄会教会介入选举辩护：实时关注当天新闻 订阅我们的突发新闻电子邮件，下载免费应用，或收听每日新闻播客 巴纳比·乔伊斯表示，工党正在抄袭一国党的“作业”，因为就目前所知，工党正在考虑的措施——阻止国际学生的家属入境，以及防止签证跳转——与保琳·汉森提出的建议有一些相似之处。 乔伊斯稍早接受《今日》节目采访时表示，伯克最后一刻取消在新闻俱乐部的活动，是“自阿梅莉亚·埃尔哈特以来最严重的缺席”。 “伯克不可能是在准备宣布一国党的政策。我是说，托尼是个很棒的人，对吧",
+        "【undefined】外媒：美联储三年多来首次加息，特朗普强烈反对：中新网9月17日电 据英国广播公司(BBC)报道，当地时间16日，美国利率三年多来首次上调，为了遏制物价上涨，美联储可能还会进一步提高利率。",
+        "【undefined】众议院通过对俄制裁法案，将以林赛·格雷厄姆命名的法案送交特朗普案头：美国国会大厦于2026年9月14日星期一在华盛顿特区拍摄。Mariam Zuhaib/AP 图片说明已隐藏",
+        "【undefined】以下是周三美联储加息的五大要点：美联储周三如市场普遍预期宣布加息，随后美联储主席凯文·沃什举行了一场格外简短的新闻发布会，并强调政策制定者坚定致力于应对通胀。",
+        "【undefined】在被指责销售“色狼眼镜”后，Meta准备推出一款不带摄像头的眼镜：Meta配备摄像头的智能眼镜已经证明比市场上的其他竞争产品更为成功，但这类产品也让一些消费者深感不安。在他们看来，这些眼镜是失控的反乌托邦监控社会的入侵性象征。如今，在应对外界指责其销售“色狼眼镜”之际，据报道，Meta决定推出一款不配备集成式窥探设备的眼镜。",
+        "【undefined】X现在将允许美国用户通过Cashtag进行交易：X现在将允许用户直接在时间线上进行交易。这家由埃隆·马斯克持有的社交网络周三推出了一项名为Cashtag的功能，允许在X上的美国用户通过参与其中的券商买卖股票。该项目的首批合作伙伴包括盈透证券（Interactive Brokers）、Moomoo、Gemini、Kraken和Coinbase。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "全球速递：霍尔木兹海峡油轮运费创新高与防务安全动态",
+      "lead": "今日焦点集中在中东局势对全球能源航运的剧烈冲击，油轮日租金历史性突破百万美元；同时，美国情报部门对军用航空技术流转表达关切，自然科学与历史考古领域亦有最新学术成果发布。",
+      "themes": [
+        {
+          "name": "中东地缘局势与原油航运承压",
+          "analysis": "受霍尔木兹海峡航运风险影响，愿意承运原油及燃料的船只供应持续趋紧，油轮每日佣金费率历史上首次突破100万美元，从波斯湾内部提运原油的费率高达103万美元，且船只面临网络安全威胁，显著推高了原油实物交付成本。与此同时，美国总统表示认为德黑兰方面正在寻求和平协议。"
+        },
+        {
+          "name": "防务情报与关键技术安全关注",
+          "analysis": "美国五角大楼国防情报局等部门的内部报告显示，相关评估认为中国可能通过间谍活动或与沙特阿拉伯的合作获取美国的战机技术，引发美方对敏感军用技术流转的警惕。"
+        },
+        {
+          "name": "生态与考古科研新进展",
+          "analysis": "科学研究方面，最新成果指出雨水在湿沉降过程中充当化学传送带，连接了陆地与大气的生物地球化学循环；考古学方面，《Antiquity》期刊刊登的研究显示，科研人员通过分析大加那利岛Cruz de la Esquina墓穴中的昆虫遗存，证实该公元7至9世纪的墓穴在改造为墓地前曾被当地原住民用作粮食储存库。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 85,
+      "completedTasks": 85,
+      "succeeded": 38,
+      "degraded": 47,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 85,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 819038,
+      "byRole": {
+        "translator": {
+          "attempts": 63,
+          "succeeded": 21,
+          "degraded": 42
+        },
+        "fact-extractor": {
+          "attempts": 6,
+          "succeeded": 5,
+          "degraded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 6,
+          "succeeded": 5,
+          "degraded": 1
+        },
+        "topic-classifier": {
+          "attempts": 6,
+          "degraded": 2,
+          "succeeded": 4
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 85,
+          "succeeded": 38,
+          "degraded": 47
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-11-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-15-translator-1",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-0",
+      "article-21-translator-0",
+      "article-22-translator-0",
+      "article-23-translator-0",
+      "article-26-translator-0",
+      "article-27-translator-0",
+      "article-29-translator-0",
+      "article-29-translator-1",
+      "article-29-translator-2",
+      "article-29-translator-3",
+      "article-30-translator-0",
+      "article-30-translator-1",
+      "article-30-translator-2",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-32-translator-1",
+      "article-32-translator-2",
+      "article-33-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-43-translator-0",
+      "article-44-translator-0",
+      "article-44-translator-1",
+      "article-0-topic-classifier",
+      "article-1-source-positioner",
+      "article-2-fact-extractor",
+      "article-3-topic-classifier",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.547Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.985Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.555Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.258Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.581Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.667Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.599Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.734Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.489Z",
+        "lastSuccessAt": "2026-09-16T23:02:05.736Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.424Z",
+        "lastSuccessAt": "2026-09-16T23:02:05.583Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:05.695Z",
+        "lastSuccessAt": "2026-09-16T23:02:05.839Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.909Z",
+        "lastSuccessAt": "2026-09-16T23:02:02.981Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.743Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.788Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.734Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.939Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.394Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.607Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.314Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.544Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.038Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.424Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.258Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.314Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:05.447Z",
+        "lastSuccessAt": "2026-09-16T23:02:05.794Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.667Z",
+        "lastSuccessAt": "2026-09-16T23:02:06.009Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:05.243Z",
+        "lastSuccessAt": "2026-09-16T23:02:05.579Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.755Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.086Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.544Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.599Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.424Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.581Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.887Z",
+        "lastSuccessAt": "2026-09-16T23:02:02.909Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.115Z",
+        "lastSuccessAt": "2026-09-16T23:02:02.887Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.985Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.126Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.939Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.336Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.795Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.870Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.947Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.079Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.126Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.667Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.751Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.795Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:05.579Z",
+        "lastSuccessAt": "2026-09-16T23:02:08.072Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.020Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.099Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.233Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.424Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.143Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.172Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.347Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.498Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:05.583Z",
+        "lastSuccessAt": "2026-09-16T23:02:05.695Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.607Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.710Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.788Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.489Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.893Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.020Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.336Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.493Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.099Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.556Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-16T23:02:04.086Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.113Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.394Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-16T23:02:04.172Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.114Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.751Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.493Z",
+        "lastSuccessAt": "2026-09-16T23:02:06.396Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.870Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.947Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.981Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.038Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.079Z",
+        "lastSuccessAt": "2026-09-16T23:02:04.143Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.825Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.893Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.498Z",
+        "lastSuccessAt": "2026-09-16T23:02:05.243Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:04.556Z",
+        "lastSuccessAt": "2026-09-16T23:02:05.447Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.710Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.755Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:03.667Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.743Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.101Z",
+        "lastSuccessAt": "2026-09-16T23:02:02.547Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.111Z",
+        "lastSuccessAt": "2026-09-16T23:02:02.555Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T23:02:02.112Z",
+        "lastSuccessAt": "2026-09-16T23:02:03.825Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-abotchik-2118154127-html-a67e8df13986d782",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Open AI раскрыла подробности шести инцидентов с ее моделями",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T23:00:54.000Z",
+        "pubTime": "2026-09-17 07:00",
+        "url": "https://ria.ru/20260917/razrabotchik-2118154127.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-17 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260917/razrabotchik-2118154127.html",
+            "publishedAt": "2026-09-16T23:00:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nclude-am-radio-for-free-184edc7bac226a34",
+        "title": "美国车企或很快被强制免费配备AM收音机",
+        "originalTitle": "US automakers could soon be forced to include AM radio for free",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:37:08.000Z",
+        "pubTime": "2026-09-17 06:37",
+        "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+        "imageUrl": null,
+        "fullContent": "It turns out that the one thing that can apparently bridge Washington’s partisan divide is AM radio. U.S. automakers may be forced to build AM radio into new vehicles within the next year.\n\nThe House of Representatives, in a rare instance of bipartisan support, overwhelmingly approved legislation on Wednesday that would require new cars, trucks, and SUVs to be built with AM radio at no additional charge to consumers. The AM Radio for Every Vehicle Act, which would direct the National Highway Traffic Safety Administration to require automakers to include AM radio in new passenger vehicles as standard equipment, will now head to the Senate.\n\nUntil recently, proponents of AM radio have waged an unsuccessful lobbying effort for a mandate, arguing that it offers critical information during emergencies because its signal can travel long distances. But a groundswell of support from Democrats and Republicans, the broadcast industry, emergency responder organizations and even former administrators of the Federal Emergency Management Agency is pushing this legislation closer to becoming law.\n\nAnd there is reason to believe the Senate will follow the House’s lead on the bill, which was co-sponsored by Sens. Ed Markey (D-Mass.) and Ted Cruz (R-Texas). Earlier this year, the senators secured 60 co-sponsors for their version of the bill, a critical threshold to overcoming a filibuster.\n\nCruz, who chairs the Senate Commerce, Science, and Transportation Committee, and Markey hailed the decision in a joint statement Wednesday.\n\n“This vote sends a clear message to car manufacturers that AM Radio is a lifeline that must be protected in new vehicles. From emergency response to sports, entertainment, and news, AM radio is an essential communication tool for tens of millions of Americans. It is now time for the Senate to pass the AM Radio for Every Vehicle Act and for this legislation to become law so AM radio remains a trusted and essential resource for commuters and communities across the country.”\n\nA growing number of automakers have moved away from the century-old broadcast band in favor of software-defined vehicles that offer streaming services like TuneIn and SiriusXM. EV makers have led the charge because the electromagnetic interference generated by electric motors can affect the frequencies used by AM radio. Automakers have argued that this interference degrades the AM signal and audio quality.\n\nA growing number of automakers no longer have traditional AM receivers, including BMW, Rivian, Tesla, and Volvo. Ford had also removed AM radio from some vehicles but has since reversed course. Tesla couldn’t be reached for comment; Rivian declined to comment for this story.\n\nTesla doesn’t have AM receivers in the base versions of its Model 3 and Model Y vehicles. Rivian’s new R2 SUV doesn’t have an FM or AM receiver, however, the vehicle model offers AM/FM radio through the digital radio platform iHeartRadio for free. The Rivian R1S and R1T models allow customers to access FM content digitally or via built‐in receiver.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+        "fullTranslation": "事实证明，显然有一件事能够弥合华盛顿的党派分歧，那就是AM广播收音机。美国汽车制造商可能在未来一年内被迫在新车中配备AM收音机。\n\n在罕见获得两党支持的情况下，美国众议院于周三以压倒性多数通过了一项立法，要求新制造的轿车、卡车和SUV配备AM收音机，且不得向消费者收取额外费用。该项名为《为每辆车配备AM广播法案》（AM Radio for Every Vehicle Act）的提案将指示美国国家公路交通安全管理局（NHTSA）要求车企将AM收音机作为新乘用车的标配，接下来将提交参议院审议。\n\n直到最近，AM广播的支持者一直在为强制推行该规定进行游说，但未获成功；他们主张AM广播在紧急情况下能提供至关重要的信息，因为其信号传播距离极远。如今，来自民主党与共和党、广播业、应急响应组织乃至联邦紧急事务管理局（FEMA）前主管的广泛支持，正在推动该立法距离成为法律更近一步。\n\n而且有理由相信，参议院将跟随众议院的步伐推进该法案。该法案由参议员埃德·马基（Ed Markey，马萨诸塞州民主党籍）和特德·克鲁兹（Ted Cruz，得克萨斯州共和党籍）共同发起。今年早些时候，两位参议员为其版本的法案争取到了60位共同提案人，这是克服阻挠议事（filibuster）的关键门槛。\n\n担任参议院商业、科学和运输委员会主席的克鲁兹与马基在周三的一份联合声明中对这一决定表示赞赏。\n\n“此次投票向汽车制造商传递了一个明确信息：AM广播是一条生命线，必须在新车中予以保护。从应急响应到体育、娱乐和新闻，AM广播是数以千万计美国人的基本通信工具。现在是参议院通过《为每辆车配备AM广播法案》并使其成为法律的时候了，以此让AM广播继续作为全国通勤者和社区值得信赖且不可或缺的资源。”\n\n越来越多的汽车制造商已经逐渐放弃这个拥有百年历史的广播频段，转而支持提供TuneIn和SiriusXM等流媒体服务的软件定义汽车。电动汽车制造商率先采取了这一举动，因为电动机产生的电磁干扰会影响AM广播所使用的频率。车企辩称，这种干扰会降低AM信号和音频质量。\n\n越来越多的汽车制造商不再配备传统的AM接收器，包括宝马（BMW）、Rivian、特斯拉（Tesla）和沃尔沃（Volvo）。福特（Ford）也曾从部分车辆中移除了AM广播，但此后改变了做法。特斯拉未能联系到置评；Rivian拒绝就本报道置评。\n\n特斯拉在其Model 3和Model Y车型的基础版中没有配备AM接收器。Rivian的新款R2 SUV既没有配备FM接收器也没有配备AM接收器，不过该车型通过数字广播平台iHeartRadio免费提供AM/FM广播。Rivian的R1S和R1T车型则允许客户通过数字化方式或内置接收器收听FM内容。\n\n当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的采编独立性。\n\n交通版块编辑\n\n预订展位的最后一天是9月18日。切勿错过在Disrupt展厅获取高价值潜在客户、对接投资者以及提升品牌曝光的机会。\n\n黄仁勋接听了来自特朗普的电话，并展示了另外一些东西\n根据风投机构评选出的Y Combinator最新Demo Day上最受关注的9家初创企业\n特斯拉表示终于将在10月1日揭晓第二代Roadster跑车\nRevolut证实因虚假政府请求遭遇客户数据泄露\n由于Astra需求激增，OpenAI暂停Pro订阅\nBending Spoons将以13.6亿美元收购协作工具开发商Miro，较其2022年估值折价90%\n身份核验巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照被盗",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "美国众议院周三以罕见的跨党派压倒性多数通过法案，要求新车、卡车和SUV将AM广播作为标配免费提供给消费者。",
+          "《每辆车配备AM广播法案》(AM Radio for Every Vehicle Act)将指示美国国家公路交通安全管理局(NHTSA)要求汽车制造商在新客车中将AM广播作为标准配置，法案下一步将提交参议院。",
+          "来源叙事重点：将该法案框架为罕见的跨党派共识，突出AM广播作为紧急信息、新闻、体育和娱乐传播工具的公共价值，以及电动汽车电磁干扰和流媒体替代方案对传统AM接收器的冲击。报道倾向于强调法案接近成为法律，但参议院最终是否通过仍属未证实事项。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T22:37:08.000Z",
+            "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/"
+          }
+        ]
+      },
+      {
+        "id": "story-ping-crisis-deepens-html-44fb7283c138dbef",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T23:00:00.000Z",
+        "pubTime": "2026-09-17 07:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
+        "imageUrl": null,
+        "fullContent": "The daily rate for commissioning a tanker topped $1 million for the first time in history amid a tightening supply of vessels to carry crude oil and fuels whose owners are willing to dare the Strait of Hormuz. The squeeze is adding extra costs to the price of oil for physical delivery, just as tankers become a cybersecurity target. Bloomberg reported record-high tanker rates earlier this week, noting that tankers commissioned to pick up crude from inside the Persian Gulf fetched as much as $1.035 per day, based on data from the Baltic Exchange. Rates for tankers outside the Gulf have also gone up substantially, the publication noted, citing a daily rate of $644,000 for a tanker carrying crude from the Gulf of Omanwhich is outside Hormuzto China. Yet the Middle East is not the only place where tankers are commanding much higher rates. Costs are rising at Russia's key Black Sea port of Novorossiysk because of the risk of Ukrainian drone attacks on both vessels and port infrastructure. In the week to September 6, the key tanker rate for shipping crude oil on an Aframax tanker from Novorossiysk to West India and North China rose for the seventh straight week, by 2.7% and 3.1% from the week prior, respectively, local pricing indexes showed. Higher freight rates mean higher end prices for the crude, adding to already substantial pain for buyers as the war between the United States and Israel against Iran extends into its seventh month with little prospect of peace on the horizon. This week, prices saw some downward pressure after the U.S. Energy Information Administration estimated an inventory build of over 7 million barrels for last week, but the effect will not last long. Seven million barrels of oil is not really a solution to the world's deepening supply problem, with Saudi Arabia's East-West pipeline out, potentially for weeks, after a drone attack. Related Continental Strikes Venezuela Oil Deal with PDVSA According to the International Energy Agency, global observed oil inventories shed 95 million barrels in August, for a cumulative loss of 507 million barrels since February, equal to around 2.8 million barrels daily. Oil on water also declined by 65 million barrels amid attacks on vessels in the Strait of Hormuz. It is in this fraught context that U.S. federal authorities said they were investigating a possible cyberattack on tankers traveling from Europe to the United States. The Wall Street Journal reported the news this week, saying at least two vessels had become the target of a cyberattack and were subjected to inspections when they arrived at the Gulf Coast in August. The inspections showed the tankersone loaded with crude oil and the other with liquefied gaswere attacked around Gibraltar, raising suspicions that an unfriendly nation could be behind it, according to the WSJ report, which cited unnamed government officials. Gibraltar is a central energy artery for global markets, with daily traffic at around 300 ships. The report pointed out that a cyberattack could lead to a collision, a spill, or even an explosion, since tankers run on apparently hackable software. \"For a vessel that's carrying tens of millions of gallons of crude oil, which is highly volatile, there's always a risk of fire explosion,\" the head of the U.S. Coast Guard's Cyber Command told the Wall Street Journal. \"The atmosphere in the tanks has to be very carefully managed to ensure that you're not going to get a situation where there's a fire explosion. And then there's always a risk of an oil spill,\" Rear Admiral Jason Tama explained. Meanwhile, due to the higher tanker rates, energy market players are looking to buy their own vessels instead of paying others to rent one, especially since insurance costs have skyrocketed as well. \"The price of second-hand oil tankers has surged since the closure of the Strait of Hormuz, and some used vessels are now valued more highly than new ones because it would take two to three years to build a new ship,\" Argus analyst Erica Tsirikou told Spain's El Pas earlier this month. Second-hand tankers are selling at a premium to newbuids, too. A second-hand very large crude carrier now fetches some $182 million, versus $130 million for a newbuild. \"There is fierce competition to acquire these second-hand tankers, which has pushed sale prices sharply higher,\" Argus' Tsirikou also told the Spanish daily, adding that used Suezmaxes are selling for $130 million and second-hand Aframaxes are fetching $95 million, compared with $89 million and $75 million, respectively, for newbuilds. These developments were, in fairness, inevitable. The paralysis of the Strait of Hormuz has tipped the tanker market into imbalance, and this imbalance has only deepened since March. And it just got worse, as Saudi Arabia tries to repair its East-West pipeline and cancels oil cargoes that were to be shipped to Europe this month. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "受愿冒险穿越霍尔木兹海峡的油轮供应趋紧影响，油轮日租金历史上首次突破100万美元大关。",
+          "从波斯湾内装载原油的油轮日租金最高达到103.5万美元（原文写为$1.035 per day，结合标题百万美元级别对应数据）；从阿曼湾运往中国的油轮日租金达到64.4万美元。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html"
+          }
+        ]
+      },
+      {
+        "id": "story--demand-your-age-soon-no-6a8fb9475e743da8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Your Computer Might Demand Your Age Soon, No Matter Where You Live | New state laws are pushing age verification into macOS and Windows. By 2027, logging in might require a facial scan or government ID.",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T20:13:34.000Z",
+        "pubTime": "2026-09-17 04:13",
+        "url": "https://www.reddit.com/r/technology/comments/1wi8fn0/your_computer_might_demand_your_age_soon_no/",
+        "imageUrl": "https://external-preview.redd.it/p8DaoDEQYrlqAjgN5f1Gt8CB9yTykWqrCfliP1-okC0.jpeg?width=640&crop=smart&auto=webp&s=706abde24e8134ff4f5b67935075d32fbb021ecf",
+        "fullContent": "submitted by /u/spherocytes [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-17 04:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wi8fn0/your_computer_might_demand_your_age_soon_no/",
+            "publishedAt": "2026-09-16T20:13:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-derestimated-carbon-html-7171aa6aea488c82",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Volatile organic compounds may be underestimated in the carbon cycle",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T23:00:10.000Z",
+        "pubTime": "2026-09-17 07:00",
+        "url": "https://phys.org/news/2026-09-volatile-compounds-underestimated-carbon.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-series-of-buildings.jpg",
+        "fullContent": "Rainwater connects the biogeochemical cycles of land and the atmosphere. It's effectively a chemical conveyor belt that delivers compounds to the ground during a process called wet deposition.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-17 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-volatile-compounds-underestimated-carbon.html",
+            "publishedAt": "2026-09-16T23:00:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ina-f35-jets-saudis-html-052df4f6a3b78219",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:59:42.000Z",
+        "pubTime": "2026-09-17 06:59",
+        "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/16/multimedia/16dc-saudi-planes-wzfg/16dc-saudi-planes-wzfg-mediumSquareAt3X.jpg",
+        "fullContent": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-17 06:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+            "publishedAt": "2026-09-16T22:59:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-me-paid-content-creators-50e5dc4c43e023af",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Noise wants to help everyday people  become paid content creators",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T21:35:00.000Z",
+        "pubTime": "2026-09-17 05:35",
+        "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+        "imageUrl": null,
+        "fullContent": "Marketing platform Noise aims to connect brands with content creators at a much lower cost than hiring traditional influencers or running standard ad campaigns.\n\nOn Wednesday, Noise announced a $5.5 million seed led by Capital Midwest, M25, and Grishin Robotics, bringing its total raise to $7.2 million. Others in the round include Capitalize VC and operators from companies like DoorDash.\n\nThe startup is tapping into the ever-expanding influencer market, in which 57% of young people and just a little over 40% of U.S. adults overall now want to take part. It joins other content creator infrastructure companies like Billo and JoinBrands.\n\nDiego Kafie, Stu Feldt, and Nic Weber launched Noise in 2025 after spending two years building a mobile game app called Playbite, and it now touts 1.5 million creators on the platform.\n\nCEO Kafie said the company’s top creators make more than six figures a year, and the platform takes a fee from what brands pay creators once views are delivered.\n\n“Our top brands work with several thousand creators on autopilot,” he said. Right now, many of its customers are mobile apps, those working with startup budgets that want to employ influencer marketers. The goal is to one day work with companies of all sizes.\n\n“They are the most interested in reaching a really wide range of potential customers, making them the prime users for something like Noise, where they can easily recruit a small army of people to become their biggest users and advocates,” Kafie said. “This gives brands unprecedented level of content diversity and reach at a fraction of the cost of other traditional marketing playbooks.”\n\nKafie, Feldt, and Weber came to this idea from their experiences at Playbite. “We tried a bunch of different creative marketing strategies,” Kafie said of how they tried to scale Playbite. For example, they attempted to recruit their own gamers and teach them how to create social content that promoted the app. “We started with five, ten, 25, then 100 people,” he continued. “Before we knew it, our installs were skyrocketing as this small army of people went to places like TikTok and posted engaging content daily about mobile games and our app specifically.”\n\nMost importantly, he noted, this happened “at a fraction of the cost of traditional marketing playbooks,” because they were teaching regular people how to be content creators from scratch. “Had we gone to established creators with big followings and clout, their rates would’ve been cost-prohibitive for our scrappy startup budget.”\n\nThat gave them the idea for Noise. The fresh capital will be used to expand product capabilities and to hire. Noise also just launched its Organic-to-Ads program, letting brands take the videos that Noise creators make and run them as paid ads on Meta and TikTok, in addition to the creators’ posts.\n\n“The creators still post to platforms,” he said. “But in addition, the brands can now put paid ads spend behind those creatives to reach more people.”\n\nHe pushed back when asked if this was a way to pay creators less than they could make on their own if a brand approached them. He said that brands will name their rates and creators can decide whether to say yes or no. He also emphasized that the platform specializes in working with “everyday people and turning them into brand-new creators.”\n\nIt’s harder to become an influencer these days, so this, Kafie believes, could be a way for many people to get around the stress, time, and money it takes to make it big in content creation on their own.\n\nHe said when a user first joins the platform, they take Noise creator training modules that teach them how to create content for brands. Those early creators can access only certain campaigns, but as they do more training and get hired for more work, higher-paid opportunities can come to them, Kafie said.\n\n“By democratizing ‘becoming a creator’ to literally anyone with a smartphone,” he said, “we’re bringing costs down for brands, but enabling millions of people to make their first dollar on the internet.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Venture\n\nDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\n\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将Noise呈现为一种面向普通智能手机用户的创作者营销基础设施：平台帮助品牌以较低成本批量招募和培训非知名创作者，制作内容并进一步投放到Meta和TikTok。报道重点包括550万美元种子轮融资、累计融资720万美元、平台声称拥有150万创作者、创始团队的Playbite经历，以及公司关于降低品牌营销成本和帮助普通人获得网络收入的愿景。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T21:35:00.000Z",
+            "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/"
+          }
+        ]
+      },
+      {
+        "id": "story-d-47e2-bdf3-ae26f5dd7317-6c73769699137629",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Walter and Boehly sell Chelsea FC stakes to Clearlake for £950mn",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:32:36.000Z",
+        "pubTime": "2026-09-17 06:32",
+        "url": "https://www.ft.com/content/a9099b59-b5ed-47e2-bdf3-ae26f5dd7317?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb49cd0cd-87c8-44c0-b0eb-7dca83188b3d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Deal to sell 25% of football club helps financiers raise funds as their insurance empires come under scrutiny",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-17 06:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/a9099b59-b5ed-47e2-bdf3-ae26f5dd7317?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-16T22:32:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-sles-deaths-pennsylvania-1a7fc962d33321f1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Republican senator blames Trump administration policies for measles deaths in Pennsylvania",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T19:01:55.000Z",
+        "pubTime": "2026-09-17 03:01",
+        "url": "https://www.theguardian.com/us-news/2026/sep/16/republican-senator-bill-cassidy-blames-trump-administration-measles-deaths-pennsylvania",
+        "imageUrl": "https://i.guim.co.uk/img/media/da16b40c422ef524a01bbb2047f73dc27bf1f7ea/789_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=31bf89eb682d3b890e2f475af06c36b2",
+        "fullContent": "Health committee chair Bill Cassidy said fatal outbreak of disease is a ‘terrible legacy’ for Trump administration\n\nUS politics live – latest updates\n\nSenator Bill Cassidy, the Republican chair of the US Senate health committee, blamed the Trump administration ’s vaccine-skeptical approach for ‌recent measles deaths in Pennsylvania and challenged Donald Trump’s pick for surgeon general to directly state that vaccines do not cause autism on Wednesday.\n\nCassidy, a Louisiana physician who chairs the panel, said three people in Pennsylvania had died of measles, with a fourth death under review, because ​of misinformation and misguided policies. His remarks come as the US grapples with its worst measles outbreak in over three decades.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "比尔·卡西迪是共和党参议员，也是美国参议院卫生委员会主席。",
+          "卡西迪是一名来自路易斯安那州的医生。",
+          "来源叙事重点：将宾夕法尼亚州近期麻疹死亡与特朗普政府被指称的“对疫苗持怀疑态度”及错误信息、误导性政策联系起来；同时突出卡西迪要求特朗普提名的卫生局局长候选人明确表态“疫苗不会导致自闭症”，并将事件置于美国严重麻疹疫情的背景下。上述因果联系和“最严重疫情”等表述属于报道中的归因或叙事框架，不能仅据此视为已独立证实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T19:01:55.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/16/republican-senator-bill-cassidy-blames-trump-administration-measles-deaths-pennsylvania"
+          }
+        ]
+      },
+      {
+        "id": "story-enous-burial-canary-html-30c20d6ebf308eac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Insect remains reveal Indigenous burial practices in the Canary Islands",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T23:00:08.000Z",
+        "pubTime": "2026-09-17 07:00",
+        "url": "https://phys.org/news/2026-09-insect-reveal-indigenous-burial-canary.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/excavation-of-cruz-de.jpg",
+        "fullContent": "Archaeologists have analyzed insect remains preserved in the 7th to 9th centuries AD funerary cave of Cruz de la Esquina, Gran Canaria, and found that it was used by the island's Indigenous people for food storage before being adapted into a burial site. The findings have been published in the journal Antiquity.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-17 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-insect-reveal-indigenous-burial-canary.html",
+            "publishedAt": "2026-09-16T23:00:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2188709-d4f4e6bd8d6bbc71",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump hopes war with Iran about to end",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:59:16.000Z",
+        "pubTime": "2026-09-17 06:59",
+        "url": "https://tass.com/world/2188709",
+        "imageUrl": null,
+        "fullContent": "WASHINGTON, September 17. /TASS/. US President Donald Trump hopes that the conflict with Iran is nearing its end because, in his opinion, Tehran is seeking to strike a peace deal.\n\n\"We are hopefully moving toward the end of the war. They want to make a deal. We’ll see how that works,\" the US leader told reporters in North Carolina.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国总统唐纳德·特朗普表示，他希望与伊朗的冲突已接近结束。",
+          "唐纳德·特朗普称，据他判断，德黑兰正寻求达成和平协议。",
+          "来源叙事重点：直接转述美国总统特朗普对美伊冲突有望结束的乐观预期，强调其关于伊朗正寻求达成和平协议的主观判断"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T22:59:16.000Z",
+            "url": "https://tass.com/world/2188709"
+          }
+        ]
+      },
+      {
+        "id": "story-a-rival-is-shutting-down-e7793479eefadba9",
+        "title": "Pulley——Carta的竞争对手——将关闭",
+        "originalTitle": "Pulley, a Carta rival, is shutting down",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T21:23:19.000Z",
+        "pubTime": "2026-09-17 05:23",
+        "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+        "imageUrl": null,
+        "fullContent": "Cap table management platform Pulley announced this week on its website that it was shutting down, and its final day of operations and services will be December 8. In a twist, it said it has partnered with its rival, Carta, to offload customers; it’s also redirecting prospective clients to Carta.\n\nYin Wu, a serial founder and ex-Microsoftie, started building Pulley in 2020 and went on to raise over $50 million from top investors, including General Catalyst, Stripe, and Founders Fund.\n\nPulley didn’t offer a reason for the shutdown (we’ve reached out to Wu for comment, but she didn’t immediately respond). However, a former employee speculated online that Pulley wasn’t so much competing with Carta as it was with spreadsheets. And these days, startups can easily use AI to keep, improve, and maintain their spreadsheets.\n\nIn a statement posted to LinkedIn, Wu thanked her team and backers, writing that “though this is the closing of one chapter, I, along with many of our strongest team members, have no intention of riding off quietly into the night.”\n\n“There has never been a better time to solve big problems,” she continued. “Thank you again to everyone who supported us over the years.”\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "股权结构表管理平台Pulley本周在其网站上宣布将停止运营，最终运营和服务日期为12月8日。出人意料的是，该公司表示已与竞争对手Carta达成合作，将客户转交给Carta；此外，Pulley还将潜在客户引导至Carta。\n\n连续创业者、前微软员工Yin Wu于2020年开始打造Pulley，随后从General Catalyst、Stripe和Founders Fund等顶级投资者处筹集了超过5000万美元。\n\nPulley没有说明关闭的原因（我们已联系Wu寻求置评，但她没有立即回应）。不过，一名前员工在网上推测，Pulley与其说是在和Carta竞争，不如说是在与电子表格竞争。而如今，初创企业可以轻松利用人工智能来创建、改进和维护电子表格。\n\nWu在LinkedIn上发布的一份声明中感谢了她的团队和支持者。她写道：“尽管这意味着一个篇章的结束，但我以及我们许多最优秀的团队成员，都无意悄无声息地消失在夜色中。”\n\n她继续写道：“从未有过比现在更适合解决重大问题的时刻。再次感谢这些年来支持我们的每一个人。”\n\n预订展位的最后日期是9月18日。不要错过在Disrupt展览大厅获取高价值潜在客户、接触投资者以及展示品牌的机会。\n\n每个工作日和周日，您都可以获得TechCrunch报道的精华内容。\n\nTechCrunch Mobility是您获取交通行业新闻和洞察的首选平台。\n\n初创企业是TechCrunch报道的核心，因此请每周接收我们最精彩的报道。\n\n为行业风云人物提供开启一天所需的信息。\n\n提交电子邮件即表示您同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "Pulley宣布将停止运营和提供服务，最后一天为12月8日。",
+          "Pulley已与竞争对手Carta合作，将客户转交给Carta，并把潜在客户引导至Carta。",
+          "来源叙事重点：将事件框架为一家获得知名投资者支持的股权结构管理平台退出市场，并突出其与竞争对手Carta合作转移客户这一反常安排。报道同时提及Pulley的融资、创始人背景及未披露的停业原因，并以一名前员工关于“与电子表格竞争”以及人工智能降低电子表格管理门槛的推测，提出可能的行业解释，但未将其确认为事实。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T21:23:19.000Z",
+            "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/"
+          }
+        ]
+      },
+      {
+        "id": "story-crease-expected-cde3060d-eb370cdea9613505",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:25:00.000Z",
+        "pubTime": "2026-09-17 06:25",
+        "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The Fed’s policy-making committee was unanimous in its decision to hike, but forward guidance was split.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-17 06:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-16T22:25:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ck-camera-its-data-shows-048c8a7502d497b3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T18:49:21.000Z",
+        "pubTime": "2026-09-17 02:49",
+        "url": "https://www.reddit.com/r/technology/comments/1wi63ao/hackers_got_inside_a_flock_camera_its_data_shows/",
+        "imageUrl": "https://external-preview.redd.it/QKBY7EPTXAlyviVInIQ6I7t2-Qlc93IxjdMVGeFZdgY.jpeg?width=640&crop=smart&auto=webp&s=48796798aede71dee56c4df68d3a5a0a4a539fd5",
+        "fullContent": "submitted by /u/AdSpecialist6598 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-17 02:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wi63ao/hackers_got_inside_a_flock_camera_its_data_shows/",
+            "publishedAt": "2026-09-16T18:49:21.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-abotchik-2118154127-html-a67e8df13986d782",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Open AI раскрыла подробности шести инцидентов с ее моделями",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T23:00:54.000Z",
+        "pubTime": "2026-09-17 07:00",
+        "url": "https://ria.ru/20260917/razrabotchik-2118154127.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-17 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260917/razrabotchik-2118154127.html",
+            "publishedAt": "2026-09-16T23:00:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nclude-am-radio-for-free-184edc7bac226a34",
+        "title": "美国车企或很快被强制免费配备AM收音机",
+        "originalTitle": "US automakers could soon be forced to include AM radio for free",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:37:08.000Z",
+        "pubTime": "2026-09-17 06:37",
+        "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+        "imageUrl": null,
+        "fullContent": "It turns out that the one thing that can apparently bridge Washington’s partisan divide is AM radio. U.S. automakers may be forced to build AM radio into new vehicles within the next year.\n\nThe House of Representatives, in a rare instance of bipartisan support, overwhelmingly approved legislation on Wednesday that would require new cars, trucks, and SUVs to be built with AM radio at no additional charge to consumers. The AM Radio for Every Vehicle Act, which would direct the National Highway Traffic Safety Administration to require automakers to include AM radio in new passenger vehicles as standard equipment, will now head to the Senate.\n\nUntil recently, proponents of AM radio have waged an unsuccessful lobbying effort for a mandate, arguing that it offers critical information during emergencies because its signal can travel long distances. But a groundswell of support from Democrats and Republicans, the broadcast industry, emergency responder organizations and even former administrators of the Federal Emergency Management Agency is pushing this legislation closer to becoming law.\n\nAnd there is reason to believe the Senate will follow the House’s lead on the bill, which was co-sponsored by Sens. Ed Markey (D-Mass.) and Ted Cruz (R-Texas). Earlier this year, the senators secured 60 co-sponsors for their version of the bill, a critical threshold to overcoming a filibuster.\n\nCruz, who chairs the Senate Commerce, Science, and Transportation Committee, and Markey hailed the decision in a joint statement Wednesday.\n\n“This vote sends a clear message to car manufacturers that AM Radio is a lifeline that must be protected in new vehicles. From emergency response to sports, entertainment, and news, AM radio is an essential communication tool for tens of millions of Americans. It is now time for the Senate to pass the AM Radio for Every Vehicle Act and for this legislation to become law so AM radio remains a trusted and essential resource for commuters and communities across the country.”\n\nA growing number of automakers have moved away from the century-old broadcast band in favor of software-defined vehicles that offer streaming services like TuneIn and SiriusXM. EV makers have led the charge because the electromagnetic interference generated by electric motors can affect the frequencies used by AM radio. Automakers have argued that this interference degrades the AM signal and audio quality.\n\nA growing number of automakers no longer have traditional AM receivers, including BMW, Rivian, Tesla, and Volvo. Ford had also removed AM radio from some vehicles but has since reversed course. Tesla couldn’t be reached for comment; Rivian declined to comment for this story.\n\nTesla doesn’t have AM receivers in the base versions of its Model 3 and Model Y vehicles. Rivian’s new R2 SUV doesn’t have an FM or AM receiver, however, the vehicle model offers AM/FM radio through the digital radio platform iHeartRadio for free. The Rivian R1S and R1T models allow customers to access FM content digitally or via built‐in receiver.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+        "fullTranslation": "事实证明，显然有一件事能够弥合华盛顿的党派分歧，那就是AM广播收音机。美国汽车制造商可能在未来一年内被迫在新车中配备AM收音机。\n\n在罕见获得两党支持的情况下，美国众议院于周三以压倒性多数通过了一项立法，要求新制造的轿车、卡车和SUV配备AM收音机，且不得向消费者收取额外费用。该项名为《为每辆车配备AM广播法案》（AM Radio for Every Vehicle Act）的提案将指示美国国家公路交通安全管理局（NHTSA）要求车企将AM收音机作为新乘用车的标配，接下来将提交参议院审议。\n\n直到最近，AM广播的支持者一直在为强制推行该规定进行游说，但未获成功；他们主张AM广播在紧急情况下能提供至关重要的信息，因为其信号传播距离极远。如今，来自民主党与共和党、广播业、应急响应组织乃至联邦紧急事务管理局（FEMA）前主管的广泛支持，正在推动该立法距离成为法律更近一步。\n\n而且有理由相信，参议院将跟随众议院的步伐推进该法案。该法案由参议员埃德·马基（Ed Markey，马萨诸塞州民主党籍）和特德·克鲁兹（Ted Cruz，得克萨斯州共和党籍）共同发起。今年早些时候，两位参议员为其版本的法案争取到了60位共同提案人，这是克服阻挠议事（filibuster）的关键门槛。\n\n担任参议院商业、科学和运输委员会主席的克鲁兹与马基在周三的一份联合声明中对这一决定表示赞赏。\n\n“此次投票向汽车制造商传递了一个明确信息：AM广播是一条生命线，必须在新车中予以保护。从应急响应到体育、娱乐和新闻，AM广播是数以千万计美国人的基本通信工具。现在是参议院通过《为每辆车配备AM广播法案》并使其成为法律的时候了，以此让AM广播继续作为全国通勤者和社区值得信赖且不可或缺的资源。”\n\n越来越多的汽车制造商已经逐渐放弃这个拥有百年历史的广播频段，转而支持提供TuneIn和SiriusXM等流媒体服务的软件定义汽车。电动汽车制造商率先采取了这一举动，因为电动机产生的电磁干扰会影响AM广播所使用的频率。车企辩称，这种干扰会降低AM信号和音频质量。\n\n越来越多的汽车制造商不再配备传统的AM接收器，包括宝马（BMW）、Rivian、特斯拉（Tesla）和沃尔沃（Volvo）。福特（Ford）也曾从部分车辆中移除了AM广播，但此后改变了做法。特斯拉未能联系到置评；Rivian拒绝就本报道置评。\n\n特斯拉在其Model 3和Model Y车型的基础版中没有配备AM接收器。Rivian的新款R2 SUV既没有配备FM接收器也没有配备AM接收器，不过该车型通过数字广播平台iHeartRadio免费提供AM/FM广播。Rivian的R1S和R1T车型则允许客户通过数字化方式或内置接收器收听FM内容。\n\n当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的采编独立性。\n\n交通版块编辑\n\n预订展位的最后一天是9月18日。切勿错过在Disrupt展厅获取高价值潜在客户、对接投资者以及提升品牌曝光的机会。\n\n黄仁勋接听了来自特朗普的电话，并展示了另外一些东西\n根据风投机构评选出的Y Combinator最新Demo Day上最受关注的9家初创企业\n特斯拉表示终于将在10月1日揭晓第二代Roadster跑车\nRevolut证实因虚假政府请求遭遇客户数据泄露\n由于Astra需求激增，OpenAI暂停Pro订阅\nBending Spoons将以13.6亿美元收购协作工具开发商Miro，较其2022年估值折价90%\n身份核验巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照被盗",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "美国众议院周三以罕见的跨党派压倒性多数通过法案，要求新车、卡车和SUV将AM广播作为标配免费提供给消费者。",
+          "《每辆车配备AM广播法案》(AM Radio for Every Vehicle Act)将指示美国国家公路交通安全管理局(NHTSA)要求汽车制造商在新客车中将AM广播作为标准配置，法案下一步将提交参议院。",
+          "来源叙事重点：将该法案框架为罕见的跨党派共识，突出AM广播作为紧急信息、新闻、体育和娱乐传播工具的公共价值，以及电动汽车电磁干扰和流媒体替代方案对传统AM接收器的冲击。报道倾向于强调法案接近成为法律，但参议院最终是否通过仍属未证实事项。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T22:37:08.000Z",
+            "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/"
+          }
+        ]
+      },
+      {
+        "id": "story-ping-crisis-deepens-html-44fb7283c138dbef",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T23:00:00.000Z",
+        "pubTime": "2026-09-17 07:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
+        "imageUrl": null,
+        "fullContent": "The daily rate for commissioning a tanker topped $1 million for the first time in history amid a tightening supply of vessels to carry crude oil and fuels whose owners are willing to dare the Strait of Hormuz. The squeeze is adding extra costs to the price of oil for physical delivery, just as tankers become a cybersecurity target. Bloomberg reported record-high tanker rates earlier this week, noting that tankers commissioned to pick up crude from inside the Persian Gulf fetched as much as $1.035 per day, based on data from the Baltic Exchange. Rates for tankers outside the Gulf have also gone up substantially, the publication noted, citing a daily rate of $644,000 for a tanker carrying crude from the Gulf of Omanwhich is outside Hormuzto China. Yet the Middle East is not the only place where tankers are commanding much higher rates. Costs are rising at Russia's key Black Sea port of Novorossiysk because of the risk of Ukrainian drone attacks on both vessels and port infrastructure. In the week to September 6, the key tanker rate for shipping crude oil on an Aframax tanker from Novorossiysk to West India and North China rose for the seventh straight week, by 2.7% and 3.1% from the week prior, respectively, local pricing indexes showed. Higher freight rates mean higher end prices for the crude, adding to already substantial pain for buyers as the war between the United States and Israel against Iran extends into its seventh month with little prospect of peace on the horizon. This week, prices saw some downward pressure after the U.S. Energy Information Administration estimated an inventory build of over 7 million barrels for last week, but the effect will not last long. Seven million barrels of oil is not really a solution to the world's deepening supply problem, with Saudi Arabia's East-West pipeline out, potentially for weeks, after a drone attack. Related Continental Strikes Venezuela Oil Deal with PDVSA According to the International Energy Agency, global observed oil inventories shed 95 million barrels in August, for a cumulative loss of 507 million barrels since February, equal to around 2.8 million barrels daily. Oil on water also declined by 65 million barrels amid attacks on vessels in the Strait of Hormuz. It is in this fraught context that U.S. federal authorities said they were investigating a possible cyberattack on tankers traveling from Europe to the United States. The Wall Street Journal reported the news this week, saying at least two vessels had become the target of a cyberattack and were subjected to inspections when they arrived at the Gulf Coast in August. The inspections showed the tankersone loaded with crude oil and the other with liquefied gaswere attacked around Gibraltar, raising suspicions that an unfriendly nation could be behind it, according to the WSJ report, which cited unnamed government officials. Gibraltar is a central energy artery for global markets, with daily traffic at around 300 ships. The report pointed out that a cyberattack could lead to a collision, a spill, or even an explosion, since tankers run on apparently hackable software. \"For a vessel that's carrying tens of millions of gallons of crude oil, which is highly volatile, there's always a risk of fire explosion,\" the head of the U.S. Coast Guard's Cyber Command told the Wall Street Journal. \"The atmosphere in the tanks has to be very carefully managed to ensure that you're not going to get a situation where there's a fire explosion. And then there's always a risk of an oil spill,\" Rear Admiral Jason Tama explained. Meanwhile, due to the higher tanker rates, energy market players are looking to buy their own vessels instead of paying others to rent one, especially since insurance costs have skyrocketed as well. \"The price of second-hand oil tankers has surged since the closure of the Strait of Hormuz, and some used vessels are now valued more highly than new ones because it would take two to three years to build a new ship,\" Argus analyst Erica Tsirikou told Spain's El Pas earlier this month. Second-hand tankers are selling at a premium to newbuids, too. A second-hand very large crude carrier now fetches some $182 million, versus $130 million for a newbuild. \"There is fierce competition to acquire these second-hand tankers, which has pushed sale prices sharply higher,\" Argus' Tsirikou also told the Spanish daily, adding that used Suezmaxes are selling for $130 million and second-hand Aframaxes are fetching $95 million, compared with $89 million and $75 million, respectively, for newbuilds. These developments were, in fairness, inevitable. The paralysis of the Strait of Hormuz has tipped the tanker market into imbalance, and this imbalance has only deepened since March. And it just got worse, as Saudi Arabia tries to repair its East-West pipeline and cancels oil cargoes that were to be shipped to Europe this month. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "受愿冒险穿越霍尔木兹海峡的油轮供应趋紧影响，油轮日租金历史上首次突破100万美元大关。",
+          "从波斯湾内装载原油的油轮日租金最高达到103.5万美元（原文写为$1.035 per day，结合标题百万美元级别对应数据）；从阿曼湾运往中国的油轮日租金达到64.4万美元。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html"
+          }
+        ]
+      },
+      {
+        "id": "story--demand-your-age-soon-no-6a8fb9475e743da8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Your Computer Might Demand Your Age Soon, No Matter Where You Live | New state laws are pushing age verification into macOS and Windows. By 2027, logging in might require a facial scan or government ID.",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T20:13:34.000Z",
+        "pubTime": "2026-09-17 04:13",
+        "url": "https://www.reddit.com/r/technology/comments/1wi8fn0/your_computer_might_demand_your_age_soon_no/",
+        "imageUrl": "https://external-preview.redd.it/p8DaoDEQYrlqAjgN5f1Gt8CB9yTykWqrCfliP1-okC0.jpeg?width=640&crop=smart&auto=webp&s=706abde24e8134ff4f5b67935075d32fbb021ecf",
+        "fullContent": "submitted by /u/spherocytes [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-17 04:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wi8fn0/your_computer_might_demand_your_age_soon_no/",
+            "publishedAt": "2026-09-16T20:13:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-derestimated-carbon-html-7171aa6aea488c82",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Volatile organic compounds may be underestimated in the carbon cycle",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T23:00:10.000Z",
+        "pubTime": "2026-09-17 07:00",
+        "url": "https://phys.org/news/2026-09-volatile-compounds-underestimated-carbon.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-series-of-buildings.jpg",
+        "fullContent": "Rainwater connects the biogeochemical cycles of land and the atmosphere. It's effectively a chemical conveyor belt that delivers compounds to the ground during a process called wet deposition.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-17 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-volatile-compounds-underestimated-carbon.html",
+            "publishedAt": "2026-09-16T23:00:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ina-f35-jets-saudis-html-052df4f6a3b78219",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:59:42.000Z",
+        "pubTime": "2026-09-17 06:59",
+        "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/16/multimedia/16dc-saudi-planes-wzfg/16dc-saudi-planes-wzfg-mediumSquareAt3X.jpg",
+        "fullContent": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-17 06:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+            "publishedAt": "2026-09-16T22:59:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-me-paid-content-creators-50e5dc4c43e023af",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Noise wants to help everyday people  become paid content creators",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T21:35:00.000Z",
+        "pubTime": "2026-09-17 05:35",
+        "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+        "imageUrl": null,
+        "fullContent": "Marketing platform Noise aims to connect brands with content creators at a much lower cost than hiring traditional influencers or running standard ad campaigns.\n\nOn Wednesday, Noise announced a $5.5 million seed led by Capital Midwest, M25, and Grishin Robotics, bringing its total raise to $7.2 million. Others in the round include Capitalize VC and operators from companies like DoorDash.\n\nThe startup is tapping into the ever-expanding influencer market, in which 57% of young people and just a little over 40% of U.S. adults overall now want to take part. It joins other content creator infrastructure companies like Billo and JoinBrands.\n\nDiego Kafie, Stu Feldt, and Nic Weber launched Noise in 2025 after spending two years building a mobile game app called Playbite, and it now touts 1.5 million creators on the platform.\n\nCEO Kafie said the company’s top creators make more than six figures a year, and the platform takes a fee from what brands pay creators once views are delivered.\n\n“Our top brands work with several thousand creators on autopilot,” he said. Right now, many of its customers are mobile apps, those working with startup budgets that want to employ influencer marketers. The goal is to one day work with companies of all sizes.\n\n“They are the most interested in reaching a really wide range of potential customers, making them the prime users for something like Noise, where they can easily recruit a small army of people to become their biggest users and advocates,” Kafie said. “This gives brands unprecedented level of content diversity and reach at a fraction of the cost of other traditional marketing playbooks.”\n\nKafie, Feldt, and Weber came to this idea from their experiences at Playbite. “We tried a bunch of different creative marketing strategies,” Kafie said of how they tried to scale Playbite. For example, they attempted to recruit their own gamers and teach them how to create social content that promoted the app. “We started with five, ten, 25, then 100 people,” he continued. “Before we knew it, our installs were skyrocketing as this small army of people went to places like TikTok and posted engaging content daily about mobile games and our app specifically.”\n\nMost importantly, he noted, this happened “at a fraction of the cost of traditional marketing playbooks,” because they were teaching regular people how to be content creators from scratch. “Had we gone to established creators with big followings and clout, their rates would’ve been cost-prohibitive for our scrappy startup budget.”\n\nThat gave them the idea for Noise. The fresh capital will be used to expand product capabilities and to hire. Noise also just launched its Organic-to-Ads program, letting brands take the videos that Noise creators make and run them as paid ads on Meta and TikTok, in addition to the creators’ posts.\n\n“The creators still post to platforms,” he said. “But in addition, the brands can now put paid ads spend behind those creatives to reach more people.”\n\nHe pushed back when asked if this was a way to pay creators less than they could make on their own if a brand approached them. He said that brands will name their rates and creators can decide whether to say yes or no. He also emphasized that the platform specializes in working with “everyday people and turning them into brand-new creators.”\n\nIt’s harder to become an influencer these days, so this, Kafie believes, could be a way for many people to get around the stress, time, and money it takes to make it big in content creation on their own.\n\nHe said when a user first joins the platform, they take Noise creator training modules that teach them how to create content for brands. Those early creators can access only certain campaigns, but as they do more training and get hired for more work, higher-paid opportunities can come to them, Kafie said.\n\n“By democratizing ‘becoming a creator’ to literally anyone with a smartphone,” he said, “we’re bringing costs down for brands, but enabling millions of people to make their first dollar on the internet.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Venture\n\nDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\n\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将Noise呈现为一种面向普通智能手机用户的创作者营销基础设施：平台帮助品牌以较低成本批量招募和培训非知名创作者，制作内容并进一步投放到Meta和TikTok。报道重点包括550万美元种子轮融资、累计融资720万美元、平台声称拥有150万创作者、创始团队的Playbite经历，以及公司关于降低品牌营销成本和帮助普通人获得网络收入的愿景。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T21:35:00.000Z",
+            "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/"
+          }
+        ]
+      },
+      {
+        "id": "story-d-47e2-bdf3-ae26f5dd7317-6c73769699137629",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Walter and Boehly sell Chelsea FC stakes to Clearlake for £950mn",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:32:36.000Z",
+        "pubTime": "2026-09-17 06:32",
+        "url": "https://www.ft.com/content/a9099b59-b5ed-47e2-bdf3-ae26f5dd7317?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb49cd0cd-87c8-44c0-b0eb-7dca83188b3d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Deal to sell 25% of football club helps financiers raise funds as their insurance empires come under scrutiny",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-17 06:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/a9099b59-b5ed-47e2-bdf3-ae26f5dd7317?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-16T22:32:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-sles-deaths-pennsylvania-1a7fc962d33321f1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Republican senator blames Trump administration policies for measles deaths in Pennsylvania",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T19:01:55.000Z",
+        "pubTime": "2026-09-17 03:01",
+        "url": "https://www.theguardian.com/us-news/2026/sep/16/republican-senator-bill-cassidy-blames-trump-administration-measles-deaths-pennsylvania",
+        "imageUrl": "https://i.guim.co.uk/img/media/da16b40c422ef524a01bbb2047f73dc27bf1f7ea/789_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=31bf89eb682d3b890e2f475af06c36b2",
+        "fullContent": "Health committee chair Bill Cassidy said fatal outbreak of disease is a ‘terrible legacy’ for Trump administration\n\nUS politics live – latest updates\n\nSenator Bill Cassidy, the Republican chair of the US Senate health committee, blamed the Trump administration ’s vaccine-skeptical approach for ‌recent measles deaths in Pennsylvania and challenged Donald Trump’s pick for surgeon general to directly state that vaccines do not cause autism on Wednesday.\n\nCassidy, a Louisiana physician who chairs the panel, said three people in Pennsylvania had died of measles, with a fourth death under review, because ​of misinformation and misguided policies. His remarks come as the US grapples with its worst measles outbreak in over three decades.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "比尔·卡西迪是共和党参议员，也是美国参议院卫生委员会主席。",
+          "卡西迪是一名来自路易斯安那州的医生。",
+          "来源叙事重点：将宾夕法尼亚州近期麻疹死亡与特朗普政府被指称的“对疫苗持怀疑态度”及错误信息、误导性政策联系起来；同时突出卡西迪要求特朗普提名的卫生局局长候选人明确表态“疫苗不会导致自闭症”，并将事件置于美国严重麻疹疫情的背景下。上述因果联系和“最严重疫情”等表述属于报道中的归因或叙事框架，不能仅据此视为已独立证实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T19:01:55.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/16/republican-senator-bill-cassidy-blames-trump-administration-measles-deaths-pennsylvania"
+          }
+        ]
+      },
+      {
+        "id": "story-enous-burial-canary-html-30c20d6ebf308eac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Insect remains reveal Indigenous burial practices in the Canary Islands",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T23:00:08.000Z",
+        "pubTime": "2026-09-17 07:00",
+        "url": "https://phys.org/news/2026-09-insect-reveal-indigenous-burial-canary.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/excavation-of-cruz-de.jpg",
+        "fullContent": "Archaeologists have analyzed insect remains preserved in the 7th to 9th centuries AD funerary cave of Cruz de la Esquina, Gran Canaria, and found that it was used by the island's Indigenous people for food storage before being adapted into a burial site. The findings have been published in the journal Antiquity.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-17 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-insect-reveal-indigenous-burial-canary.html",
+            "publishedAt": "2026-09-16T23:00:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2188709-d4f4e6bd8d6bbc71",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump hopes war with Iran about to end",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:59:16.000Z",
+        "pubTime": "2026-09-17 06:59",
+        "url": "https://tass.com/world/2188709",
+        "imageUrl": null,
+        "fullContent": "WASHINGTON, September 17. /TASS/. US President Donald Trump hopes that the conflict with Iran is nearing its end because, in his opinion, Tehran is seeking to strike a peace deal.\n\n\"We are hopefully moving toward the end of the war. They want to make a deal. We’ll see how that works,\" the US leader told reporters in North Carolina.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国总统唐纳德·特朗普表示，他希望与伊朗的冲突已接近结束。",
+          "唐纳德·特朗普称，据他判断，德黑兰正寻求达成和平协议。",
+          "来源叙事重点：直接转述美国总统特朗普对美伊冲突有望结束的乐观预期，强调其关于伊朗正寻求达成和平协议的主观判断"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T22:59:16.000Z",
+            "url": "https://tass.com/world/2188709"
+          }
+        ]
+      },
+      {
+        "id": "story-a-rival-is-shutting-down-e7793479eefadba9",
+        "title": "Pulley——Carta的竞争对手——将关闭",
+        "originalTitle": "Pulley, a Carta rival, is shutting down",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T21:23:19.000Z",
+        "pubTime": "2026-09-17 05:23",
+        "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+        "imageUrl": null,
+        "fullContent": "Cap table management platform Pulley announced this week on its website that it was shutting down, and its final day of operations and services will be December 8. In a twist, it said it has partnered with its rival, Carta, to offload customers; it’s also redirecting prospective clients to Carta.\n\nYin Wu, a serial founder and ex-Microsoftie, started building Pulley in 2020 and went on to raise over $50 million from top investors, including General Catalyst, Stripe, and Founders Fund.\n\nPulley didn’t offer a reason for the shutdown (we’ve reached out to Wu for comment, but she didn’t immediately respond). However, a former employee speculated online that Pulley wasn’t so much competing with Carta as it was with spreadsheets. And these days, startups can easily use AI to keep, improve, and maintain their spreadsheets.\n\nIn a statement posted to LinkedIn, Wu thanked her team and backers, writing that “though this is the closing of one chapter, I, along with many of our strongest team members, have no intention of riding off quietly into the night.”\n\n“There has never been a better time to solve big problems,” she continued. “Thank you again to everyone who supported us over the years.”\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "股权结构表管理平台Pulley本周在其网站上宣布将停止运营，最终运营和服务日期为12月8日。出人意料的是，该公司表示已与竞争对手Carta达成合作，将客户转交给Carta；此外，Pulley还将潜在客户引导至Carta。\n\n连续创业者、前微软员工Yin Wu于2020年开始打造Pulley，随后从General Catalyst、Stripe和Founders Fund等顶级投资者处筹集了超过5000万美元。\n\nPulley没有说明关闭的原因（我们已联系Wu寻求置评，但她没有立即回应）。不过，一名前员工在网上推测，Pulley与其说是在和Carta竞争，不如说是在与电子表格竞争。而如今，初创企业可以轻松利用人工智能来创建、改进和维护电子表格。\n\nWu在LinkedIn上发布的一份声明中感谢了她的团队和支持者。她写道：“尽管这意味着一个篇章的结束，但我以及我们许多最优秀的团队成员，都无意悄无声息地消失在夜色中。”\n\n她继续写道：“从未有过比现在更适合解决重大问题的时刻。再次感谢这些年来支持我们的每一个人。”\n\n预订展位的最后日期是9月18日。不要错过在Disrupt展览大厅获取高价值潜在客户、接触投资者以及展示品牌的机会。\n\n每个工作日和周日，您都可以获得TechCrunch报道的精华内容。\n\nTechCrunch Mobility是您获取交通行业新闻和洞察的首选平台。\n\n初创企业是TechCrunch报道的核心，因此请每周接收我们最精彩的报道。\n\n为行业风云人物提供开启一天所需的信息。\n\n提交电子邮件即表示您同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "Pulley宣布将停止运营和提供服务，最后一天为12月8日。",
+          "Pulley已与竞争对手Carta合作，将客户转交给Carta，并把潜在客户引导至Carta。",
+          "来源叙事重点：将事件框架为一家获得知名投资者支持的股权结构管理平台退出市场，并突出其与竞争对手Carta合作转移客户这一反常安排。报道同时提及Pulley的融资、创始人背景及未披露的停业原因，并以一名前员工关于“与电子表格竞争”以及人工智能降低电子表格管理门槛的推测，提出可能的行业解释，但未将其确认为事实。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T21:23:19.000Z",
+            "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/"
+          }
+        ]
+      },
+      {
+        "id": "story-crease-expected-cde3060d-eb370cdea9613505",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T22:25:00.000Z",
+        "pubTime": "2026-09-17 06:25",
+        "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The Fed’s policy-making committee was unanimous in its decision to hike, but forward guidance was split.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-17 06:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-16T22:25:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ck-camera-its-data-shows-048c8a7502d497b3",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T18:49:21.000Z",
+        "pubTime": "2026-09-17 02:49",
+        "url": "https://www.reddit.com/r/technology/comments/1wi63ao/hackers_got_inside_a_flock_camera_its_data_shows/",
+        "imageUrl": "https://external-preview.redd.it/QKBY7EPTXAlyviVInIQ6I7t2-Qlc93IxjdMVGeFZdgY.jpeg?width=640&crop=smart&auto=webp&s=48796798aede71dee56c4df68d3a5a0a4a539fd5",
+        "fullContent": "submitted by /u/AdSpecialist6598 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-17 02:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wi63ao/hackers_got_inside_a_flock_camera_its_data_shows/",
+            "publishedAt": "2026-09-16T18:49:21.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789590391290,
     "timeDisplay": "2026-09-17 04:26 (UTC+8)",
     "date": "2026-09-17",
