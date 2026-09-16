@@ -1,5 +1,1549 @@
 [
   {
+    "timestamp": 1789559339846,
+    "timeDisplay": "2026-09-16 19:48 (UTC+8)",
+    "date": "2026-09-16",
+    "runId": "feed-20260916T114705849Z-th86uq",
+    "generatedAt": "2026-09-16T11:48:59.846Z",
+    "hourlyBriefing": {
+      "title": "联合国大会外交聚焦与区域防务能源动态简报",
+      "lead": "本时段信息聚焦于每年九月在纽约联合国总部举行的全球多边外交集会。同时，俄罗斯国家武器出口商展示新型打击系统，哈萨克斯坦方面评价卢克石油公司为历史合作伙伴，体现了军工防务与跨国能源合作方面的最新动态。",
+      "signals": [
+        "全球多边外交互动进入九月联合国大会集聚期",
+        "俄罗斯国家武器出口公司Rosoboronexport联合展示打击武器系统",
+        "哈萨克斯坦与俄罗斯卢克石油公司（Lukoil）维系能源合作关系"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-16",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】重塑议题跟踪：本地优先与原生 Git 化：协作的核心要素之一是共享的议题跟踪（issue tracking）环境。在为 Manganin 设计议题跟踪功能时，我脑海中已经有了一些明确需求。；【undefined】Apple Reference Image：可信摄影认证的全新方案：如今，功能强大且唾手可得的人工智能工具让用户能够轻松生成或修改具有逼真质感的图像，其精细程度在短短几年前还是难以想象的。这些工具固然带来了诸如一键消除背景杂物等实用功能，但也让人们愈发难以分辨哪些是记录真实事件的照片，哪些是经过深度修改或完全合成生成的图像。因此，当一张照片的核心作用是证明某件事确实发生过时，仅凭视觉上的逼真度已不再足以确立其真实性。；【undefined】在 Tmux 状态行中显示智能体状态：当在 tmux 窗口中打开多个智能体（agent）会话时，要弄清哪一个仍在运行、哪一个在等待用户决策、哪一个已经完成，就必须逐个切换查看每个窗口。"
+        },
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】亚马逊在印度推出支持印地语的Alexa+：亚马逊今日宣布，其Alexa+对话式助手已在印度上线，并提供印地语支持。该全新助手能够进行更长时间的对话，并在对话过程中保持上下文连贯。；【undefined】哈萨克斯坦将欢迎卢克石油公司就该国项目作出的任何决定：秋明，9月16日。/塔斯社/。哈萨克斯坦能源部副部长凯尔汗·图特基什巴耶夫（Kaiyrkhan Tutkyshbayev）表示，哈萨克斯坦当局无意将外国公司排挤出油气项目，并补充称，该国将欢迎俄罗斯卢克石油公司（Lukoil）就其在哈项目作出的任何决定。；【undefined】日本最大液化天然气买家计划向全球市场销售过剩天然气：一名高级管理人员表示，日本最大的液化天然气（LNG）进口商兼最大电力生产商JERA计划长期对外销售液化天然气，作为进军全球LNG市场并在国内需求疲软时转售多余天然气供应战略的一部分。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 72,
+      "completedTasks": 72,
+      "succeeded": 60,
+      "degraded": 12,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 72,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 113929,
+      "byRole": {
+        "translator": {
+          "attempts": 53,
+          "succeeded": 42,
+          "degraded": 11
+        },
+        "fact-extractor": {
+          "attempts": 5,
+          "succeeded": 5
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 5,
+          "succeeded": 5
+        },
+        "topic-classifier": {
+          "attempts": 5,
+          "succeeded": 5
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 72,
+          "succeeded": 60,
+          "degraded": 12
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-1",
+      "article-25-translator-0",
+      "article-31-translator-0",
+      "article-40-translator-0",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:48.576Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.039Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:48.587Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.052Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.124Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.188Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.177Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.322Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:50.005Z",
+        "lastSuccessAt": "2026-09-16T11:46:51.333Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.898Z",
+        "lastSuccessAt": "2026-09-16T11:46:51.177Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:51.421Z",
+        "lastSuccessAt": "2026-09-16T11:46:51.564Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:48.804Z",
+        "lastSuccessAt": "2026-09-16T11:46:48.849Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.311Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.356Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.245Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.360Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.039Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.226Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.028Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.211Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:48.964Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.006Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.006Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.028Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:51.333Z",
+        "lastSuccessAt": "2026-09-16T11:46:51.593Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:50.099Z",
+        "lastSuccessAt": "2026-09-16T11:46:51.880Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:51.177Z",
+        "lastSuccessAt": "2026-09-16T11:46:51.421Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.322Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.600Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.097Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.124Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.052Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.097Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:48.782Z",
+        "lastSuccessAt": "2026-09-16T11:46:48.804Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:47.596Z",
+        "lastSuccessAt": "2026-09-16T11:46:48.782Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.558Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.672Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.463Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.807Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.360Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.463Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.470Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.625Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.708Z",
+        "lastSuccessAt": "2026-09-16T11:46:50.099Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.316Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.368Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:51.345Z",
+        "lastSuccessAt": "2026-09-16T11:46:53.071Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.586Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.708Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-16T11:46:49.807Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.767Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.798Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.842Z",
+        "lastSuccessAt": "2026-09-16T11:46:50.044Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:51.393Z",
+        "lastSuccessAt": "2026-09-16T11:46:52.038Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.188Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.245Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.356Z",
+        "lastSuccessAt": "2026-09-16T11:46:50.033Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.450Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.558Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.837Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.898Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-16T11:46:49.672Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.625Z",
+        "lastSuccessAt": "2026-09-16T11:46:50.005Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:47.594Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.400Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.798Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.837Z"
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:47.595Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.586Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:50.033Z",
+        "lastSuccessAt": "2026-09-16T11:46:51.911Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.400Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.470Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:48.849Z",
+        "lastSuccessAt": "2026-09-16T11:46:48.964Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.600Z",
+        "lastSuccessAt": "2026-09-16T11:46:50.066Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.368Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.450Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:50.044Z",
+        "lastSuccessAt": "2026-09-16T11:46:51.393Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:50.066Z",
+        "lastSuccessAt": "2026-09-16T11:46:51.345Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.226Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.316Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:49.211Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.311Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:47.579Z",
+        "lastSuccessAt": "2026-09-16T11:46:48.576Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:47.592Z",
+        "lastSuccessAt": "2026-09-16T11:46:48.587Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-16T11:46:47.593Z",
+        "lastSuccessAt": "2026-09-16T11:46:49.177Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-en-story-2026-09-1168344-395cb62c9ea1aac2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The world comes to New York: What’s at stake at UN General Assembly high-level week",
+        "source": "UN News (联合国官方英文)",
+        "sourceSlug": "un",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T12:00:00.000Z",
+        "pubTime": "2026-09-16 20:00",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168344",
+        "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/8-4-2025_UN%20HQ.jpg/image560x340cropped.jpg",
+        "fullContent": "Each September, New York becomes the centre of global diplomacy as presidents, prime ministers, ministers and diplomats from around the world gather at United Nations Headquarters.\n\nAt a time of mounting geopolitical tensions and overlapping global crises, leaders will tackle a packed agenda that includes conflicts and international security, climate change, pandemic preparedness, sea-level rise, the fight against racism and progress towards the Sustainable Development Goals (SDGs).The high-level week of the UN General Assembly’s 81st session unfolds against a backdrop of growing divisions between countries and pressure on the multilateral system. The session will be presided over by newly elected Assembly President Khalilur Rahman of Bangladesh under the theme: “Restoring trust, managing transformation: A United Nations that delivers for all.”The world’s biggest diplomatic gatheringThe centrepiece of High-Level Week is the General Debate, which begins on 22 September. Over several days, presidents, prime ministers and senior representatives of all 193 UN Member States will address the General Assembly from its iconic green marble podium.The speeches provide a global snapshot of national priorities and concerns, with conflicts, economic challenges, humanitarian crises, climate change, development and emerging technologies expected to feature prominently.Yet much of the diplomacy takes place behind closed doors, where hundreds of bilateral and multilateral meetings offer leaders a rare opportunity to meet allies, partners and rivals in one place. UN Photo/Loey Felipe The UN says that progress on half of all SDG targets is weak and insufficient. Can the world still meet the 2030 deadline?Ahead of the General Debate begins, leaders will gather on 18 September for the annual SDG Moment.In 2015, countries adopted 17 Sustainable Development Goals aimed at tackling challenges ranging from poverty and hunger to education, clean water and access to energy by 2030.With less than five years remaining, the meeting will focus not only on assessing progress but also on highlighting practical solutions that can be expanded and replicated elsewhere.Climate action in a warming worldOn 23 September, UN Secretary-General António Guterres will convene world leaders for a High-Level Event on Climate Action and the Just Transition.With global temperatures continuing to rise, discussions will focus on accelerating the shift to renewable energy, expanding climate finance for developing countries and strengthening support for communities already experiencing the impacts of climate change.The following day, leaders will turn their attention to sea-level rise, one of the most visible consequences of global warming. For many small island developing States and low-lying coastal communities, rising seas are already threatening homes, infrastructure and freshwater supplies.The meeting aims to strengthen international cooperation and mobilize support for countries most at risk. UN/Mohammad Abu Ghoush Almost four million people have received the COVID-19 vaccine in Jordan. Preparing for the next pandemic On 25 September, Heads of State and Government will revisit the lessons of COVID-19.The pandemic demonstrated how quickly a local outbreak can become a global emergency and exposed major inequalities in access to vaccines, medicines and other essential resources.Leaders meeting on pandemic prevention, preparedness and response will discuss how to strengthen health systems, improve readiness, and ensure a more equitable international response to future health crises.Rights, equality and inclusionAnother major meeting on 23 September will mark the 40th anniversary of the Declaration on the Right to Development, adopted by the General Assembly in 1986. The declaration established that development is about more than economic growth, emphasizing participation, opportunity and equity.On 28 September, the UN will also commemorate the 25th anniversary of the Durban Declaration and Programme of Action, one of the principal international frameworks for combating racism, racial discrimination, xenophobia and related intolerance.The anniversary provides an opportunity to assess progress and examine why discrimination remains a persistent challenge in many parts of the world. © ICAN/Darren Ornitz Campaigners in New York call for a ban on nuclear weapons (file) Keeping nuclear disarmament on the agendaThe series of major meetings concludes on 29 September with a high-level plenary meeting marking the International Day for the Total Elimination of Nuclear Weapons.Nuclear disarmament was among the first issues addressed by the United Nations, yet nearly eight decades later nuclear weapons remain part of the global security landscape. The UN continues to regard their complete elimination as its highest disarmament priority.‘We the peoples’This year's High-Level Week takes place at a moment when international cooperation is under strain. From armed conflicts and climate change to widening inequality, countries face a growing number of challenges that no nation can solve alone.Reflecting on the opening words of the UN Charter, Secretary-General António Guterres recently offered a reminder of the organization's founding purpose:\"Not we the powerful. Not we the victorious. We the peoples – all of us – bound by a single conviction: that we are safer, stronger and more human when we stand together.\"Over several days in September, world leaders will have an opportunity to demonstrate how far they are prepared to turn that principle into action.A changing of the guardThe 81st session will also be the final General Assembly session to begin under António Guterres as Secretary-General. His second and final term ends on 31 December 2026, concluding a decade at the helm of the Organization.The process of selecting his successor is already under way. The next Secretary-General will take office on 1 January 2027, inheriting an Organization confronting many of the same challenges likely to dominate this year's High-Level Week.\n\nAt a time of mounting geopolitical tensions and overlapping global crises, leaders will tackle a packed agenda that includes conflicts and international security, climate change, pandemic preparedness, sea-level rise, the fight against racism and progress towards the Sustainable Development Goals (SDGs).\n\nThe high-level week of the UN General Assembly’s 81st session unfolds against a backdrop of growing divisions between countries and pressure on the multilateral system. The session will be presided over by newly elected Assembly President Khalilur Rahman of Bangladesh under the theme: “Restoring trust, managing transformation: A United Nations that delivers for all.”\n\nThe centrepiece of High-Level Week is the General Debate, which begins on 22 September. Over several days, presidents, prime ministers and senior representatives of all 193 UN Member States will address the General Assembly from its iconic green marble podium.\n\nThe speeches provide a global snapshot of national priorities and concerns, with conflicts, economic challenges, humanitarian crises, climate change, development and emerging technologies expected to feature prominently.\n\nYet much of the diplomacy takes place behind closed doors, where hundreds of bilateral and multilateral meetings offer leaders a rare opportunity to meet allies, partners and rivals in one place.\n\nCan the world still meet the 2030 deadline?\n\nAhead of the General Debate begins, leaders will gather on 18 September for the annual SDG Moment.\n\nIn 2015, countries adopted 17 Sustainable Development Goals aimed at tackling challenges ranging from poverty and hunger to education, clean water and access to energy by 2030.\n\nWith less than five years remaining, the meeting will focus not only on assessing progress but also on highlighting practical solutions that can be expanded and replicated elsewhere.\n\nOn 23 September, UN Secretary-General António Guterres will convene world leaders for a High-Level Event on Climate Action and the Just Transition.\n\nWith global temperatures continuing to rise, discussions will focus on accelerating the shift to renewable energy, expanding climate finance for developing countries and strengthening support for communities already experiencing the impacts of climate change.\n\nThe following day, leaders will turn their attention to sea-level rise, one of the most visible consequences of global warming. For many small island developing States and low-lying coastal communities, rising seas are already threatening homes, infrastructure and freshwater supplies.\n\nThe meeting aims to strengthen international cooperation and mobilize support for countries most at risk.\n\nOn 25 September, Heads of State and Government will revisit the lessons of COVID-19.\n\nThe pandemic demonstrated how quickly a local outbreak can become a global emergency and exposed major inequalities in access to vaccines, medicines and other essential resources.\n\nLeaders meeting on pandemic prevention, preparedness and response will discuss how to strengthen health systems, improve readiness, and ensure a more equitable international response to future health crises.\n\nAnother major meeting on 23 September will mark the 40th anniversary of the Declaration on the Right to Development, adopted by the General Assembly in 1986. The declaration established that development is about more than economic growth, emphasizing participation, opportunity and equity.\n\nOn 28 September, the UN will also commemorate the 25th anniversary of the Durban Declaration and Programme of Action, one of the principal international frameworks for combating racism, racial discrimination, xenophobia and related intolerance.\n\nThe anniversary provides an opportunity to assess progress and examine why discrimination remains a persistent challenge in many parts of the world.\n\nThe series of major meetings concludes on 29 September with a high-level plenary meeting marking the International Day for the Total Elimination of Nuclear Weapons.\n\nNuclear disarmament was among the first issues addressed by the United Nations, yet nearly eight decades later nuclear weapons remain part of the global security landscape. The UN continues to regard their complete elimination as its highest disarmament priority.\n\nThis year's High-Level Week takes place at a moment when international cooperation is under strain. From armed conflicts and climate change to widening inequality, countries face a growing number of challenges that no nation can solve alone.\n\nReflecting on the opening words of the UN Charter, Secretary-General António Guterres recently offered a reminder of the organization's founding purpose:\n\n\"Not we the powerful. Not we the victorious. We the peoples – all of us – bound by a single conviction: that we are safer, stronger and more human when we stand together.\"\n\nOver several days in September, world leaders will have an opportunity to demonstrate how far they are prepared to turn that principle into action.\n\nThe 81st session will also be the final General Assembly session to begin under António Guterres as Secretary-General. His second and final term ends on 31 December 2026, concluding a decade at the helm of the Organization.\n\nThe process of selecting his successor is already under way. The next Secretary-General will take office on 1 January 2027, inheriting an Organization confronting many of the same challenges likely to dominate this year's High-Level Week.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "联合国大会第81届会议高级别周将在孟加拉国新当选的联大主席哈利勒·拉赫曼（Khalilur Rahman）的主持下举行，主题为“恢复信任，管理变革：一个为所有人服务的联合国”。",
+          "联大一般性辩论将于9月22日开始，来自193个联合国会员国的国家元首、政府首脑和高级代表将发表演讲。",
+          "来源叙事重点：前瞻联合国大会第81届会议高级别周日程与关键议程，强调在多边体系承压和地缘紧张背景下团结协作的紧迫性，聚焦可持续发展、气候行动、卫生防范及秘书长换届过渡。"
+        ],
+        "citations": [
+          {
+            "source": "UN News (联合国官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T12:00:00.000Z",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168344"
+          }
+        ]
+      },
+      {
+        "id": "story-aniel-117280438824908947-ee7e1277b46f7d3d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Google Play app review process now regularly takes longer than a week",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:19:11.000Z",
+        "pubTime": "2026-09-16 19:19",
+        "url": "https://gultsch.social/@daniel/117280438824908947",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-16 19:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://gultsch.social/@daniel/117280438824908947",
+            "publishedAt": "2026-09-16T11:19:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--its-turnaround-a276608f-d7085b0f4618e1b2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:39:00.000Z",
+        "pubTime": "2026-09-16 19:39",
+        "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 19:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-16T11:39:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rs-pollution-electronics-7a6fb8d1f624e72b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Datacenter rush will create ‘tsunami’ of discarded electronics, report says",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:00:19.000Z",
+        "pubTime": "2026-09-16 19:00",
+        "url": "https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics",
+        "imageUrl": "https://i.guim.co.uk/img/media/270f4637897c7f81dc57fb1ca480d1f92f505036/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=45a5c69895447b13aca4ed82766fbcf6",
+        "fullContent": "Global push will triple toxic e-waste annually in 25 years, filling enough shipping containers to circle globe six times\n\nThe ongoing campaign to build thousands of massive datacenters for AI will create a “tsunami” of discarded electronics, putting the world on a course to triple its annual generation of toxic e-waste in the next 25 years, a new report projects.\n\nThe electronic trash AI generates in the next 25 years could fill enough shipping containers to encircle the globe six times, it said. Yet, says the report by the non-profit environmental group Basel Action Network (BAN), there is no plan to deal with that waste – which typically contains toxics like lead, mercury, cadmium and forever chemicals, as well as valuable metals that are challenging to reclaim.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "非营利环保组织巴塞尔行动网络（BAN）发布报告指出，为AI建设数千座大型数据中心的活动将导致废弃电子产品激增。",
+          "报告预测，未来25年全球有毒电子垃圾年产生量将增至三倍。",
+          "来源叙事重点：聚焦人工智能（AI）热潮及大规模数据中心建设对生态环境的长期隐患，强调未来25年电子垃圾激增与有毒废弃物治理机制缺失的危机叙事"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T11:00:19.000Z",
+            "url": "https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics"
+          }
+        ]
+      },
+      {
+        "id": "story-rop-rotations-yield-html-b7100fb6af0f0cf8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New breeding approach targets crop rotations, not yield alone",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:40:07.000Z",
+        "pubTime": "2026-09-16 19:40",
+        "url": "https://phys.org/news/2026-09-approach-crop-rotations-yield.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/breeding-for-better-ro.jpg",
+        "fullContent": "Breeding crops for farming systems rather than yield alone could exploit untapped genetic potential and help farmers cut fertilizer bills.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 19:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-approach-crop-rotations-yield.html",
+            "publishedAt": "2026-09-16T11:40:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-6-lavrov-2118035402-html-42e4a660f0f4968e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Диалог с США назрел, заявил Лавров",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T11:44:50.000Z",
+        "pubTime": "2026-09-16 19:44",
+        "url": "https://ria.ru/20260916/lavrov-2118035402.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/08/19/2113089703_0:0:3064:1724_650x0_80_0_0_5192e473903a17a9173df99bab34d5be.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 19:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/lavrov-2118035402.html",
+            "publishedAt": "2026-09-16T11:44:50.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-products-all-5069b05c4ab509d0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Salesforce Global Outage",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T10:37:08.000Z",
+        "pubTime": "2026-09-16 18:37",
+        "url": "https://status.salesforce.com/products/all",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-16 18:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://status.salesforce.com/products/all",
+            "publishedAt": "2026-09-16T10:37:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-do-this-anymore-e2141455-7fc2317a0974ca21",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:30:00.000Z",
+        "pubTime": "2026-09-16 19:30",
+        "url": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“We also pay for the daughter’s food and drinks and she doesn’t usually even eat half of the meal.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 19:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-16T11:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-inventing-issue-tracking-f1c01296d68f1a42",
+        "title": "重塑议题跟踪：本地优先与原生 Git 化",
+        "originalTitle": "Reinventing issue tracking: Local-first and Git-native",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T10:17:30.000Z",
+        "pubTime": "2026-09-16 18:17",
+        "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
+        "imageUrl": null,
+        "fullContent": "A core ingredient of collaboration is a shared issue tracking environment. When I went to design issue tracking for Manganin, I already had some requirements in mind.\n\nI soon realized that having both of these while maintaining usability was more difficult than it seemed. This devlog explains my approach to issue tracking that meets these requirements, and documents some of my (many) failures along the way.\n\nThe naive solution is to just have a .issues/ directory in the project root, with each file within representing an issue. I thought this was neat because the issues were tied with the code—every branch has its own issue state, so you close an issue in the same commit as fixing it. But once I followed this benefit to its logical conclusion, I realized that it is also the fatal flaw. When a new issue is opened (on the main branch), to which active branches does it apply? Should you rebase constantly to keep up with new issues? Oh no-\n\nIssue churn generally happens with a much higher frequency than actual code commits. Every time someone opens, edits, closes, reopens an issue, you have to pull. This would get old pretty fast once the project achieved any kind of velocity.\n\nGit stores tracking information in refs. Branches are stored in refs/heads, tags are typically enumerated in refs/tags, and so on. I learned about a trick at the Recurse Center: you can point to arbitrary data with unconventionally named refs to store data in Git, in a way that is completely opaque to (but still faithfully propagated by) repository hosts such as GitHub. You can put issue tracking information in here so that it doesn't clutter up the source tree but is still stored and cloned with the repo. Each issue is assigned an autoincrementing integer and put in a ref addressed by that index, such as refs/issues/12.\n\nThe problem is, this makes issues massively annoying to edit locally. Using this method for actual local development would probably require downloading a separate tool to manage this complexity. Git was not designed to be used in this manner, and it shows in the ergonomics. There are a lot of layers of complexity wrapping what is essentially just a small text file. More layers means more chances for things to go wrong and more unneeded redundancy of information—there are 4 different IDs that have to be created that essentially refer to a single issue.\n\nThere are additional problems with this method, particularly surrounding avoiding conflicts and race conditions with other people editing the same issues. Implementing this method raised questions around what should be done about conflicts and invalid data, and what exactly an issue ID represents.\n\nI took a step back for a couple weeks to think. I had preconceived notions of what issue tracking should be, formed from working with existing software built for SQL backends. What would it look like if I forgot all of that, and tried to work with Git? The solution seems obvious in retrospect: just work in the way I want to work, and build a tool that facilitates that workflow.\n\nTrying to force Git to work like a relational database results in massively overcomplicating things. If you're going to have Git track changes in something distinct from your source code, it should be stored distinctly. Instead of trying to force two disparate things to be stored together, why not just store them apart in the most ergonomic way, and use tooling to bridge the gap between them?\n\nManganin now uses a separate repo for storing issue data. Whenever a new repo is created, a hidden sister repo is also made for tracking issues. You don't see it in the list of repositories on the frontends. Instead, the data inside is parsed and presented in a manner similar to other forges: a list of issue titles and their bodies. The repo is cloneable from a special path, so not everyone who clones the codebase needs to download all of the issue tracking data.\n\nThe issues are simply stored transparently as files. Every part of the file is semantic: the issue title is the name of the file (you would be surprised by what constitutes a valid path). The contents of the file store the issue body. Workflows like this are ubiquitous, so Git, the filesystem, and other tools support it well. I use FZF in Neovim for my normal issue-browsing and triage workflow.\n\nThere's no need for an autoincrementing integer for issue IDs. The filesystem guarantees unique filenames. If the filename fails to be a sufficient identifier—I have yet to come across a use case that it doesn't satisfy—then the Git OID can be used.\n\nIt takes time to refine a complex idea into a simple one. Finding the most elegant solution requires trial and error. The result should be a system that feels so obvious that it's impossible to perceive the effort that went into it. The ideal tool is one that stays out of your way so that you can do your best work.\n\nThe refinement process is iterative. As I continue to use Manganin for issue tracking, I note pain points. These are places where subtle tooling can smooth out the workflow. The key to making it better, and not more obtuse, is to start with what the user experience should be, then design architecture to facilitate it.",
+        "fullTranslation": "协作的核心要素之一是共享的议题跟踪（issue tracking）环境。在为 Manganin 设计议题跟踪功能时，我脑海中已经有了一些明确需求。\n\n我很快意识到，在兼顾这些需求的同时保持可用性，比想象中要困难得多。这篇开发日志阐述了我满足这些需求的议题跟踪方案，并记录了我在探索过程中经历的（诸多）失败。\n\n最直接朴素的解决方案就是在项目根目录下设立一个 .issues/ 目录，其中的每个文件对应一个 issue。我当时觉得这很简洁巧妙，因为 issue 和代码紧密绑定——每个分支都有自己的 issue 状态，因此你可以在修复 issue 的同一个提交中将其关闭。但当我把这一优势推演到逻辑终点时，我意识到这也是其致命缺陷所在。当（在主分支上）发起一个新 issue 时，它适用于哪些正在活跃开发的分支？你是否需要为了跟上新的 issue 而不断进行 rebase？天哪，完全行不通——\n\n议题变动（churn）的发生频率通常远高于实际的代码提交。每当有人创建、编辑、关闭或重新打开一个 issue 时，你都必须执行 pull。一旦项目具备一定的发展速度，这种做法很快就会令人厌烦。\n\nGit 在 refs（引用）中存储跟踪信息。分支存储在 refs/heads 中，标签通常枚举在 refs/tags 中，依此类推。我在 Recurse Center 学到了一个小技巧：你可以利用非规范命名的 refs 指向任意数据，从而在 Git 中存储数据；这种方式对 GitHub 等代码托管平台而言完全不可见（opaque），但仍会被忠实地同步传播。你可以将议题跟踪信息存放在这里，这样它既不会弄乱源码树，又能随代码仓库一同存储与克隆。每个 issue 被分配一个自增整数，并存放在由该索引寻址的 ref 中，例如 refs/issues/12。\n\n问题在于，这导致在本地编辑 issue 变得极其繁琐恼人。若要在实际本地开发中使用这种方法，可能需要下载一个独立的工具来管理这种复杂性。Git 的设计初衷并不是为了这种用法，其人体工程学体验（使用手感）也印证了这一点。本质上只是一个微小的文本文件，外层却包裹了太多复杂的抽象。层级越多，出错几率就越大，且产生更多不必要的信息冗余——实质上同一个 issue 竟然必须创建 4 种不同的 ID 来指代。\n\n这种方法还存在其他问题，尤其是避免与其他人编辑同一 issue 时发生的冲突和竞态条件。实现这一方法引出了一系列疑问：面对冲突和无效数据该如何处理？一个 issue ID 究竟代表了什么？\n\n我停下来思考了几个星期。此前我对议题跟踪应该是什么样子抱有先入为主的刻板印象，这些印象来自于使用基于 SQL 后端构建的现成软件。如果我把那些全部忘掉，尝试完全顺应 Git 的特性来做，会是什么样？回过头来看，解决方案显而易见：就按照我想要的方式工作，并构建一个能够促进这种工作流程的工具。\n\n强行让 Git 表现得像关系型数据库，会导致事情变得极其复杂。如果你要让 Git 跟踪独立于源代码的事物的变更，那么它就应当独立存储。与其强行把两件截然不同的事物塞在一起存储，何不顺应最符合人体工程学的方式将它们分开存储，并利用工具来弥合它们之间的鸿沟呢？\n\nManganin 现在使用一个独立的仓库来存储议题数据。每当创建一个新仓库时，系统也会同时创建一个用于跟踪 issue 的隐藏姊妹仓库。在前端的仓库列表中你看不到它。相反，其内部数据会被解析并以类似于其他代码托管平台的方式呈现：展示 issue 标题列表及其正文内容。该仓库可以通过特殊路径克隆，因此并非每个克隆代码库的人都需要下载所有的议题跟踪数据。\n\n这些 issue 就透明地以文件形式直接存储。文件的每个部分都具备语义：issue 标题就是文件名（你会惊讶地发现什么字符都能构成有效路径）。文件内容则存放 issue 正文。这类工作流随处可见，因此 Git、文件系统以及其他工具都能良好支持。我自己在日常的 issue 浏览与分拣（triage）流程中，就直接在 Neovim 里搭配使用 FZF。\n\nissue ID 无需使用自增整数。文件系统本身就能保证文件名唯一。如果文件名不足以作为标识符——到目前为止我还没遇到过无法满足的场景——那么可以使用 Git 的 OID（对象标识符）。\n\n将一个复杂的想法淬炼为简单方案需要时间。找到最优雅的解法必然伴随着反复试错。最终的成果应当是一个看起来顺理成章、自然而然的系统，以至于人们根本察觉不到背后付出的心血。理想的工具应当不挡道、不碍事，让你能够专注于做到最好。\n\n打磨提炼是一个迭代的过程。随着我持续使用 Manganin 进行议题跟踪，我记录下了诸多痛点。这些正是可以通过精巧的工具来抚平工作流阻碍的地方。让它变得更好而不是更加笨拙难用的关键在于：以理想的用户体验为起点，进而设计支撑这一体验的系统架构。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "Manganin 采用独立的隐藏 sister 仓库专门存储 issue 数据，在前端仓库列表中不可见。",
+          "Manganin 的 issue 以纯文件透明存储，文件名即为 issue 标题，文件内容为 issue 正文。",
+          "来源叙事重点：探讨本地优先（Local-first）与 Git 原生的问题追踪系统设计演进，详细阐述从直接在代码树存储（.issues/ 目录）到利用 Git refs，最终落脚于使用独立隐藏 sister 仓库及纯文本语义文件方案的权衡与心路历程。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T10:17:30.000Z",
+            "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/"
+          }
+        ]
+      },
+      {
+        "id": "story--free-fair-midterms-html-fa65b7cb532a9584",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fewer than half of Americans expect free and fair midterms",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:40:04.000Z",
+        "pubTime": "2026-09-16 19:40",
+        "url": "https://phys.org/news/2026-09-americans-free-fair-midterms.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/election.jpg",
+        "fullContent": "Americans are heading into the 2026 midterm elections with widespread uncertainty about the integrity of the vote, according to a new national survey from the University of California San Diego.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 19:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-americans-free-fair-midterms.html",
+            "publishedAt": "2026-09-16T11:40:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--italiya-2118035113-html-a96a6c70b5dc8190",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "\"Время пришло\". В Италии высказались о разрыве отношений с Россией",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T11:44:09.000Z",
+        "pubTime": "2026-09-16 19:44",
+        "url": "https://ria.ru/20260916/italiya-2118035113.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/153145/81/1531458131_0:114:2200:1352_650x0_80_0_0_344b01ff73af89525e1eb46837e2e9b9.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 19:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/italiya-2118035113.html",
+            "publishedAt": "2026-09-16T11:44:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-india-with-hindi-support-c184e60c159ebe1d",
+        "title": "亚马逊在印度推出支持印地语的Alexa+",
+        "originalTitle": "Amazon launches Alexa+ in India with Hindi support",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T10:34:47.000Z",
+        "pubTime": "2026-09-16 18:34",
+        "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+        "imageUrl": null,
+        "fullContent": "Amazon today announced that its Alexa+ conversational assistant is available in India with Hindi support. The new assistant can hold conversations for longer and maintain context while doing so.\n\nThe feature is available to all customers in the country in Early Access in Hindi and English. After the early testing period, the company will make the assistant free for Prime customers. For non-Prime customers, the price would be ₹2,000 per month ($20.85).\n\nThe company said that the new Alexa has a more expressive voice and can handle complex multi-step tasks, including ordering groceries from Amazon’s quick commerce service Amazon Now and turning on/off smart home devices. Users can switch between English and Hindi mid-sentence.\n\nAmazon added that Alexa+ is integrated with India-based services such as food delivery service Swiggy, Zomato’s ticket booking platform District, travel websites like TripAdvisor and MakeMyTrip, and restaurant reservation app EazyDiner. The upgraded assistant is also integrated with music streaming services such as Amazon Music and JioSaavn.\n\nIn June, TechCrunch reported that the company had invited users to enroll in a testing program for Alexa+, through which they could have conversations with the assistant in Hindi. After that, the company also started testing an English version of Alexa+.\n\nAmazon launched Alexa in India in English in 2017 and added Hindi support in 2019. The country has more than 600 million Hindi speakers, and Amazon is trying to tap into that market with its smart devices and new features. The company didn’t give absolute numbers, but said that its smart home devices have grown by 20% from last year.\n\nAmazon initially announced gen AI-powered Alexa+ in 2025 and made it available to all U.S.-based users in 2026. This year, the company has also launched its new assistant in markets such as the U.K., Canada, Brazil, Mexico, Italy, and Germany with local language context.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\n\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence",
+        "fullTranslation": "亚马逊今日宣布，其Alexa+对话式助手已在印度上线，并提供印地语支持。该全新助手能够进行更长时间的对话，并在对话过程中保持上下文连贯。\n\n该功能目前以抢先体验模式向印度所有客户开放，支持印地语和英语。早期测试期结束后，该公司将对Prime会员免费开放该助手；对于非Prime会员，收费标准为每月2,000卢比（约合20.85美元）。\n\n该公司表示，全新Alexa拥有更具表现力的声音，并能处理复杂的多步骤任务，包括从亚马逊即时零售服务Amazon Now订购杂货以及开关智能家居设备等。用户甚至可以在说话中途在英语和印地语之间自由切换。\n\n亚马逊还补充道，Alexa+已整合多家印度本地服务，例如外卖配送服务Swiggy、Zomato旗下的票务预订平台District、猫途鹰（TripAdvisor）和MakeMyTrip等旅游网站，以及餐厅预订应用EazyDiner。此外，升级后的助手还整合了Amazon Music和JioSaavn等流媒体音乐服务。\n\nTechCrunch曾于6月报道，该公司已邀请用户报名参加Alexa+的测试计划，用户可通过该计划与助手用印地语对话。此后，该公司也开始测试Alexa+的英文版本。\n\n亚马逊于2017年在印度推出了英语版Alexa，并于2019年增加了对印地语的支持。印度拥有超过6亿印地语人口，亚马逊正试图通过其智能设备和新功能开拓这一市场。该公司未提供绝对数值，但表示其智能家居设备较去年增长了20%。\n\n亚马逊最初于2025年发布了由生成式AI驱动的Alexa+，并于2026年向美国所有用户开放。今年，该公司还在英国、加拿大、巴西、墨西哥、意大利和德国等市场推出了具备本地语言环境适配的全新助手。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nIvan在TechCrunch负责全球消费科技动态报道。他常驻印度，此前曾任职于《赫芬顿邮报》（Huffington Post）和The Next Web等出版媒体。\n\n您可以通过发送电子邮件至 im@ivanmehta.com 或在Signal上通过加密消息（ivan.42）联系或核实Ivan的外联信息。\n\n预订展位的最后截止日期为9月18日。切勿错失Disrupt展厅中的高价值潜在客户、投资人对接以及品牌曝光机会。\n\n风险投资人眼中的Y Combinator最新Demo Day最火爆的9家初创公司\n特斯拉称终于将于10月1日正式发布第二代Roadster\nRevolut证实因虚假政府请求导致客户数据泄露\nOpenAI因Astra需求过大暂停Pro订阅\nBending Spoons将以13.6亿美元收购协作工具制造商Miro，较其2022年估值暴跌90%\n身份验证巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照被盗\nAutomattic董事会迫使首席执行官Matt Mullenweg休假停职",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "亚马逊宣布在印度推出支持印地语的对话式助手 Alexa+，所有印度用户均可在早期访问阶段以印地语和英语体验该功能。",
+          "早期测试期结束后，Alexa+ 将对 Prime 用户免费开放；非 Prime 用户的收费标准为每月 2000 卢比（约合 20.85 美元）。",
+          "来源叙事重点：聚焦亚马逊在印度市场推出支持印地语的生成式AI对话助手Alexa+，强调其多语言自由切换能力、本土第三方服务生态整合、商业化定价策略（绑定Prime会员以拉新变现），以及抢占印度6亿印地语受众市场的全球化布局。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T10:34:47.000Z",
+            "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
+          }
+        ]
+      },
+      {
+        "id": "story--stress-anymore-284aa87a-537fcda26109e58b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:30:00.000Z",
+        "pubTime": "2026-09-16 19:30",
+        "url": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Workers used to want higher salaries and flexibility, but now they’re chasing a sense of safety",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 19:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-16T11:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-weeks-after-profit-boost-1d982ac07d28b1f0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ladbrokes owner prepares to cut 400 jobs weeks after profit boost",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T09:44:40.000Z",
+        "pubTime": "2026-09-16 17:44",
+        "url": "https://www.theguardian.com/society/2026/sep/16/ladbrokes-owner-entain-prepares-to-cut-400-jobs-weeks-after-profit-boost",
+        "imageUrl": "https://i.guim.co.uk/img/media/3eb5cbfec7f7577e7d9e1fa318b9d4cdc19ce542/313_0_2816_2254/master/2816.jpg?width=140&quality=85&auto=format&fit=max&s=788348e9486decba2f953137481642e5",
+        "fullContent": "Entain, which also owns Coral and BetMGM, starts consultation process over customer care roles\n\nBusiness live – latest updates\n\nThe Ladbrokes owner, Entain, has said it is preparing to cut 400 jobs, only weeks after the FTSE 100 business reported better than expected profit in its first half of the year.\n\nThe gambling group, which also owns Coral and BetMGM, has started a consultation process that could remove one in five of its 2,000 customer care jobs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Ladbrokes 的母公司 Entain 准备裁减 400 个工作岗位。",
+          "富时100指数（FTSE 100）成分股企业 Entain 在今年上半年公布了高于预期的利润。",
+          "来源叙事重点：重点突出博彩巨头 Entain 在上半年实现超预期盈利仅数周后便计划裁减两成客服岗位的矛盾，强化企业盈利与裁员之间的道义张力。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T09:44:40.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/16/ladbrokes-owner-entain-prepares-to-cut-400-jobs-weeks-after-profit-boost"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-en-story-2026-09-1168344-395cb62c9ea1aac2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The world comes to New York: What’s at stake at UN General Assembly high-level week",
+        "source": "UN News (联合国官方英文)",
+        "sourceSlug": "un",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T12:00:00.000Z",
+        "pubTime": "2026-09-16 20:00",
+        "url": "https://news.un.org/feed/view/en/story/2026/09/1168344",
+        "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/8-4-2025_UN%20HQ.jpg/image560x340cropped.jpg",
+        "fullContent": "Each September, New York becomes the centre of global diplomacy as presidents, prime ministers, ministers and diplomats from around the world gather at United Nations Headquarters.\n\nAt a time of mounting geopolitical tensions and overlapping global crises, leaders will tackle a packed agenda that includes conflicts and international security, climate change, pandemic preparedness, sea-level rise, the fight against racism and progress towards the Sustainable Development Goals (SDGs).The high-level week of the UN General Assembly’s 81st session unfolds against a backdrop of growing divisions between countries and pressure on the multilateral system. The session will be presided over by newly elected Assembly President Khalilur Rahman of Bangladesh under the theme: “Restoring trust, managing transformation: A United Nations that delivers for all.”The world’s biggest diplomatic gatheringThe centrepiece of High-Level Week is the General Debate, which begins on 22 September. Over several days, presidents, prime ministers and senior representatives of all 193 UN Member States will address the General Assembly from its iconic green marble podium.The speeches provide a global snapshot of national priorities and concerns, with conflicts, economic challenges, humanitarian crises, climate change, development and emerging technologies expected to feature prominently.Yet much of the diplomacy takes place behind closed doors, where hundreds of bilateral and multilateral meetings offer leaders a rare opportunity to meet allies, partners and rivals in one place. UN Photo/Loey Felipe The UN says that progress on half of all SDG targets is weak and insufficient. Can the world still meet the 2030 deadline?Ahead of the General Debate begins, leaders will gather on 18 September for the annual SDG Moment.In 2015, countries adopted 17 Sustainable Development Goals aimed at tackling challenges ranging from poverty and hunger to education, clean water and access to energy by 2030.With less than five years remaining, the meeting will focus not only on assessing progress but also on highlighting practical solutions that can be expanded and replicated elsewhere.Climate action in a warming worldOn 23 September, UN Secretary-General António Guterres will convene world leaders for a High-Level Event on Climate Action and the Just Transition.With global temperatures continuing to rise, discussions will focus on accelerating the shift to renewable energy, expanding climate finance for developing countries and strengthening support for communities already experiencing the impacts of climate change.The following day, leaders will turn their attention to sea-level rise, one of the most visible consequences of global warming. For many small island developing States and low-lying coastal communities, rising seas are already threatening homes, infrastructure and freshwater supplies.The meeting aims to strengthen international cooperation and mobilize support for countries most at risk. UN/Mohammad Abu Ghoush Almost four million people have received the COVID-19 vaccine in Jordan. Preparing for the next pandemic On 25 September, Heads of State and Government will revisit the lessons of COVID-19.The pandemic demonstrated how quickly a local outbreak can become a global emergency and exposed major inequalities in access to vaccines, medicines and other essential resources.Leaders meeting on pandemic prevention, preparedness and response will discuss how to strengthen health systems, improve readiness, and ensure a more equitable international response to future health crises.Rights, equality and inclusionAnother major meeting on 23 September will mark the 40th anniversary of the Declaration on the Right to Development, adopted by the General Assembly in 1986. The declaration established that development is about more than economic growth, emphasizing participation, opportunity and equity.On 28 September, the UN will also commemorate the 25th anniversary of the Durban Declaration and Programme of Action, one of the principal international frameworks for combating racism, racial discrimination, xenophobia and related intolerance.The anniversary provides an opportunity to assess progress and examine why discrimination remains a persistent challenge in many parts of the world. © ICAN/Darren Ornitz Campaigners in New York call for a ban on nuclear weapons (file) Keeping nuclear disarmament on the agendaThe series of major meetings concludes on 29 September with a high-level plenary meeting marking the International Day for the Total Elimination of Nuclear Weapons.Nuclear disarmament was among the first issues addressed by the United Nations, yet nearly eight decades later nuclear weapons remain part of the global security landscape. The UN continues to regard their complete elimination as its highest disarmament priority.‘We the peoples’This year's High-Level Week takes place at a moment when international cooperation is under strain. From armed conflicts and climate change to widening inequality, countries face a growing number of challenges that no nation can solve alone.Reflecting on the opening words of the UN Charter, Secretary-General António Guterres recently offered a reminder of the organization's founding purpose:\"Not we the powerful. Not we the victorious. We the peoples – all of us – bound by a single conviction: that we are safer, stronger and more human when we stand together.\"Over several days in September, world leaders will have an opportunity to demonstrate how far they are prepared to turn that principle into action.A changing of the guardThe 81st session will also be the final General Assembly session to begin under António Guterres as Secretary-General. His second and final term ends on 31 December 2026, concluding a decade at the helm of the Organization.The process of selecting his successor is already under way. The next Secretary-General will take office on 1 January 2027, inheriting an Organization confronting many of the same challenges likely to dominate this year's High-Level Week.\n\nAt a time of mounting geopolitical tensions and overlapping global crises, leaders will tackle a packed agenda that includes conflicts and international security, climate change, pandemic preparedness, sea-level rise, the fight against racism and progress towards the Sustainable Development Goals (SDGs).\n\nThe high-level week of the UN General Assembly’s 81st session unfolds against a backdrop of growing divisions between countries and pressure on the multilateral system. The session will be presided over by newly elected Assembly President Khalilur Rahman of Bangladesh under the theme: “Restoring trust, managing transformation: A United Nations that delivers for all.”\n\nThe centrepiece of High-Level Week is the General Debate, which begins on 22 September. Over several days, presidents, prime ministers and senior representatives of all 193 UN Member States will address the General Assembly from its iconic green marble podium.\n\nThe speeches provide a global snapshot of national priorities and concerns, with conflicts, economic challenges, humanitarian crises, climate change, development and emerging technologies expected to feature prominently.\n\nYet much of the diplomacy takes place behind closed doors, where hundreds of bilateral and multilateral meetings offer leaders a rare opportunity to meet allies, partners and rivals in one place.\n\nCan the world still meet the 2030 deadline?\n\nAhead of the General Debate begins, leaders will gather on 18 September for the annual SDG Moment.\n\nIn 2015, countries adopted 17 Sustainable Development Goals aimed at tackling challenges ranging from poverty and hunger to education, clean water and access to energy by 2030.\n\nWith less than five years remaining, the meeting will focus not only on assessing progress but also on highlighting practical solutions that can be expanded and replicated elsewhere.\n\nOn 23 September, UN Secretary-General António Guterres will convene world leaders for a High-Level Event on Climate Action and the Just Transition.\n\nWith global temperatures continuing to rise, discussions will focus on accelerating the shift to renewable energy, expanding climate finance for developing countries and strengthening support for communities already experiencing the impacts of climate change.\n\nThe following day, leaders will turn their attention to sea-level rise, one of the most visible consequences of global warming. For many small island developing States and low-lying coastal communities, rising seas are already threatening homes, infrastructure and freshwater supplies.\n\nThe meeting aims to strengthen international cooperation and mobilize support for countries most at risk.\n\nOn 25 September, Heads of State and Government will revisit the lessons of COVID-19.\n\nThe pandemic demonstrated how quickly a local outbreak can become a global emergency and exposed major inequalities in access to vaccines, medicines and other essential resources.\n\nLeaders meeting on pandemic prevention, preparedness and response will discuss how to strengthen health systems, improve readiness, and ensure a more equitable international response to future health crises.\n\nAnother major meeting on 23 September will mark the 40th anniversary of the Declaration on the Right to Development, adopted by the General Assembly in 1986. The declaration established that development is about more than economic growth, emphasizing participation, opportunity and equity.\n\nOn 28 September, the UN will also commemorate the 25th anniversary of the Durban Declaration and Programme of Action, one of the principal international frameworks for combating racism, racial discrimination, xenophobia and related intolerance.\n\nThe anniversary provides an opportunity to assess progress and examine why discrimination remains a persistent challenge in many parts of the world.\n\nThe series of major meetings concludes on 29 September with a high-level plenary meeting marking the International Day for the Total Elimination of Nuclear Weapons.\n\nNuclear disarmament was among the first issues addressed by the United Nations, yet nearly eight decades later nuclear weapons remain part of the global security landscape. The UN continues to regard their complete elimination as its highest disarmament priority.\n\nThis year's High-Level Week takes place at a moment when international cooperation is under strain. From armed conflicts and climate change to widening inequality, countries face a growing number of challenges that no nation can solve alone.\n\nReflecting on the opening words of the UN Charter, Secretary-General António Guterres recently offered a reminder of the organization's founding purpose:\n\n\"Not we the powerful. Not we the victorious. We the peoples – all of us – bound by a single conviction: that we are safer, stronger and more human when we stand together.\"\n\nOver several days in September, world leaders will have an opportunity to demonstrate how far they are prepared to turn that principle into action.\n\nThe 81st session will also be the final General Assembly session to begin under António Guterres as Secretary-General. His second and final term ends on 31 December 2026, concluding a decade at the helm of the Organization.\n\nThe process of selecting his successor is already under way. The next Secretary-General will take office on 1 January 2027, inheriting an Organization confronting many of the same challenges likely to dominate this year's High-Level Week.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "联合国大会第81届会议高级别周将在孟加拉国新当选的联大主席哈利勒·拉赫曼（Khalilur Rahman）的主持下举行，主题为“恢复信任，管理变革：一个为所有人服务的联合国”。",
+          "联大一般性辩论将于9月22日开始，来自193个联合国会员国的国家元首、政府首脑和高级代表将发表演讲。",
+          "来源叙事重点：前瞻联合国大会第81届会议高级别周日程与关键议程，强调在多边体系承压和地缘紧张背景下团结协作的紧迫性，聚焦可持续发展、气候行动、卫生防范及秘书长换届过渡。"
+        ],
+        "citations": [
+          {
+            "source": "UN News (联合国官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T12:00:00.000Z",
+            "url": "https://news.un.org/feed/view/en/story/2026/09/1168344"
+          }
+        ]
+      },
+      {
+        "id": "story-aniel-117280438824908947-ee7e1277b46f7d3d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Google Play app review process now regularly takes longer than a week",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:19:11.000Z",
+        "pubTime": "2026-09-16 19:19",
+        "url": "https://gultsch.social/@daniel/117280438824908947",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-16 19:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://gultsch.social/@daniel/117280438824908947",
+            "publishedAt": "2026-09-16T11:19:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--its-turnaround-a276608f-d7085b0f4618e1b2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:39:00.000Z",
+        "pubTime": "2026-09-16 19:39",
+        "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 19:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-16T11:39:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rs-pollution-electronics-7a6fb8d1f624e72b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Datacenter rush will create ‘tsunami’ of discarded electronics, report says",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:00:19.000Z",
+        "pubTime": "2026-09-16 19:00",
+        "url": "https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics",
+        "imageUrl": "https://i.guim.co.uk/img/media/270f4637897c7f81dc57fb1ca480d1f92f505036/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=45a5c69895447b13aca4ed82766fbcf6",
+        "fullContent": "Global push will triple toxic e-waste annually in 25 years, filling enough shipping containers to circle globe six times\n\nThe ongoing campaign to build thousands of massive datacenters for AI will create a “tsunami” of discarded electronics, putting the world on a course to triple its annual generation of toxic e-waste in the next 25 years, a new report projects.\n\nThe electronic trash AI generates in the next 25 years could fill enough shipping containers to encircle the globe six times, it said. Yet, says the report by the non-profit environmental group Basel Action Network (BAN), there is no plan to deal with that waste – which typically contains toxics like lead, mercury, cadmium and forever chemicals, as well as valuable metals that are challenging to reclaim.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "非营利环保组织巴塞尔行动网络（BAN）发布报告指出，为AI建设数千座大型数据中心的活动将导致废弃电子产品激增。",
+          "报告预测，未来25年全球有毒电子垃圾年产生量将增至三倍。",
+          "来源叙事重点：聚焦人工智能（AI）热潮及大规模数据中心建设对生态环境的长期隐患，强调未来25年电子垃圾激增与有毒废弃物治理机制缺失的危机叙事"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T11:00:19.000Z",
+            "url": "https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics"
+          }
+        ]
+      },
+      {
+        "id": "story-rop-rotations-yield-html-b7100fb6af0f0cf8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New breeding approach targets crop rotations, not yield alone",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:40:07.000Z",
+        "pubTime": "2026-09-16 19:40",
+        "url": "https://phys.org/news/2026-09-approach-crop-rotations-yield.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/breeding-for-better-ro.jpg",
+        "fullContent": "Breeding crops for farming systems rather than yield alone could exploit untapped genetic potential and help farmers cut fertilizer bills.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 19:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-approach-crop-rotations-yield.html",
+            "publishedAt": "2026-09-16T11:40:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-6-lavrov-2118035402-html-42e4a660f0f4968e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Диалог с США назрел, заявил Лавров",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T11:44:50.000Z",
+        "pubTime": "2026-09-16 19:44",
+        "url": "https://ria.ru/20260916/lavrov-2118035402.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/08/19/2113089703_0:0:3064:1724_650x0_80_0_0_5192e473903a17a9173df99bab34d5be.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 19:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/lavrov-2118035402.html",
+            "publishedAt": "2026-09-16T11:44:50.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-products-all-5069b05c4ab509d0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Salesforce Global Outage",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T10:37:08.000Z",
+        "pubTime": "2026-09-16 18:37",
+        "url": "https://status.salesforce.com/products/all",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-16 18:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://status.salesforce.com/products/all",
+            "publishedAt": "2026-09-16T10:37:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-do-this-anymore-e2141455-7fc2317a0974ca21",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:30:00.000Z",
+        "pubTime": "2026-09-16 19:30",
+        "url": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“We also pay for the daughter’s food and drinks and she doesn’t usually even eat half of the meal.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 19:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-16T11:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-inventing-issue-tracking-f1c01296d68f1a42",
+        "title": "重塑议题跟踪：本地优先与原生 Git 化",
+        "originalTitle": "Reinventing issue tracking: Local-first and Git-native",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T10:17:30.000Z",
+        "pubTime": "2026-09-16 18:17",
+        "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
+        "imageUrl": null,
+        "fullContent": "A core ingredient of collaboration is a shared issue tracking environment. When I went to design issue tracking for Manganin, I already had some requirements in mind.\n\nI soon realized that having both of these while maintaining usability was more difficult than it seemed. This devlog explains my approach to issue tracking that meets these requirements, and documents some of my (many) failures along the way.\n\nThe naive solution is to just have a .issues/ directory in the project root, with each file within representing an issue. I thought this was neat because the issues were tied with the code—every branch has its own issue state, so you close an issue in the same commit as fixing it. But once I followed this benefit to its logical conclusion, I realized that it is also the fatal flaw. When a new issue is opened (on the main branch), to which active branches does it apply? Should you rebase constantly to keep up with new issues? Oh no-\n\nIssue churn generally happens with a much higher frequency than actual code commits. Every time someone opens, edits, closes, reopens an issue, you have to pull. This would get old pretty fast once the project achieved any kind of velocity.\n\nGit stores tracking information in refs. Branches are stored in refs/heads, tags are typically enumerated in refs/tags, and so on. I learned about a trick at the Recurse Center: you can point to arbitrary data with unconventionally named refs to store data in Git, in a way that is completely opaque to (but still faithfully propagated by) repository hosts such as GitHub. You can put issue tracking information in here so that it doesn't clutter up the source tree but is still stored and cloned with the repo. Each issue is assigned an autoincrementing integer and put in a ref addressed by that index, such as refs/issues/12.\n\nThe problem is, this makes issues massively annoying to edit locally. Using this method for actual local development would probably require downloading a separate tool to manage this complexity. Git was not designed to be used in this manner, and it shows in the ergonomics. There are a lot of layers of complexity wrapping what is essentially just a small text file. More layers means more chances for things to go wrong and more unneeded redundancy of information—there are 4 different IDs that have to be created that essentially refer to a single issue.\n\nThere are additional problems with this method, particularly surrounding avoiding conflicts and race conditions with other people editing the same issues. Implementing this method raised questions around what should be done about conflicts and invalid data, and what exactly an issue ID represents.\n\nI took a step back for a couple weeks to think. I had preconceived notions of what issue tracking should be, formed from working with existing software built for SQL backends. What would it look like if I forgot all of that, and tried to work with Git? The solution seems obvious in retrospect: just work in the way I want to work, and build a tool that facilitates that workflow.\n\nTrying to force Git to work like a relational database results in massively overcomplicating things. If you're going to have Git track changes in something distinct from your source code, it should be stored distinctly. Instead of trying to force two disparate things to be stored together, why not just store them apart in the most ergonomic way, and use tooling to bridge the gap between them?\n\nManganin now uses a separate repo for storing issue data. Whenever a new repo is created, a hidden sister repo is also made for tracking issues. You don't see it in the list of repositories on the frontends. Instead, the data inside is parsed and presented in a manner similar to other forges: a list of issue titles and their bodies. The repo is cloneable from a special path, so not everyone who clones the codebase needs to download all of the issue tracking data.\n\nThe issues are simply stored transparently as files. Every part of the file is semantic: the issue title is the name of the file (you would be surprised by what constitutes a valid path). The contents of the file store the issue body. Workflows like this are ubiquitous, so Git, the filesystem, and other tools support it well. I use FZF in Neovim for my normal issue-browsing and triage workflow.\n\nThere's no need for an autoincrementing integer for issue IDs. The filesystem guarantees unique filenames. If the filename fails to be a sufficient identifier—I have yet to come across a use case that it doesn't satisfy—then the Git OID can be used.\n\nIt takes time to refine a complex idea into a simple one. Finding the most elegant solution requires trial and error. The result should be a system that feels so obvious that it's impossible to perceive the effort that went into it. The ideal tool is one that stays out of your way so that you can do your best work.\n\nThe refinement process is iterative. As I continue to use Manganin for issue tracking, I note pain points. These are places where subtle tooling can smooth out the workflow. The key to making it better, and not more obtuse, is to start with what the user experience should be, then design architecture to facilitate it.",
+        "fullTranslation": "协作的核心要素之一是共享的议题跟踪（issue tracking）环境。在为 Manganin 设计议题跟踪功能时，我脑海中已经有了一些明确需求。\n\n我很快意识到，在兼顾这些需求的同时保持可用性，比想象中要困难得多。这篇开发日志阐述了我满足这些需求的议题跟踪方案，并记录了我在探索过程中经历的（诸多）失败。\n\n最直接朴素的解决方案就是在项目根目录下设立一个 .issues/ 目录，其中的每个文件对应一个 issue。我当时觉得这很简洁巧妙，因为 issue 和代码紧密绑定——每个分支都有自己的 issue 状态，因此你可以在修复 issue 的同一个提交中将其关闭。但当我把这一优势推演到逻辑终点时，我意识到这也是其致命缺陷所在。当（在主分支上）发起一个新 issue 时，它适用于哪些正在活跃开发的分支？你是否需要为了跟上新的 issue 而不断进行 rebase？天哪，完全行不通——\n\n议题变动（churn）的发生频率通常远高于实际的代码提交。每当有人创建、编辑、关闭或重新打开一个 issue 时，你都必须执行 pull。一旦项目具备一定的发展速度，这种做法很快就会令人厌烦。\n\nGit 在 refs（引用）中存储跟踪信息。分支存储在 refs/heads 中，标签通常枚举在 refs/tags 中，依此类推。我在 Recurse Center 学到了一个小技巧：你可以利用非规范命名的 refs 指向任意数据，从而在 Git 中存储数据；这种方式对 GitHub 等代码托管平台而言完全不可见（opaque），但仍会被忠实地同步传播。你可以将议题跟踪信息存放在这里，这样它既不会弄乱源码树，又能随代码仓库一同存储与克隆。每个 issue 被分配一个自增整数，并存放在由该索引寻址的 ref 中，例如 refs/issues/12。\n\n问题在于，这导致在本地编辑 issue 变得极其繁琐恼人。若要在实际本地开发中使用这种方法，可能需要下载一个独立的工具来管理这种复杂性。Git 的设计初衷并不是为了这种用法，其人体工程学体验（使用手感）也印证了这一点。本质上只是一个微小的文本文件，外层却包裹了太多复杂的抽象。层级越多，出错几率就越大，且产生更多不必要的信息冗余——实质上同一个 issue 竟然必须创建 4 种不同的 ID 来指代。\n\n这种方法还存在其他问题，尤其是避免与其他人编辑同一 issue 时发生的冲突和竞态条件。实现这一方法引出了一系列疑问：面对冲突和无效数据该如何处理？一个 issue ID 究竟代表了什么？\n\n我停下来思考了几个星期。此前我对议题跟踪应该是什么样子抱有先入为主的刻板印象，这些印象来自于使用基于 SQL 后端构建的现成软件。如果我把那些全部忘掉，尝试完全顺应 Git 的特性来做，会是什么样？回过头来看，解决方案显而易见：就按照我想要的方式工作，并构建一个能够促进这种工作流程的工具。\n\n强行让 Git 表现得像关系型数据库，会导致事情变得极其复杂。如果你要让 Git 跟踪独立于源代码的事物的变更，那么它就应当独立存储。与其强行把两件截然不同的事物塞在一起存储，何不顺应最符合人体工程学的方式将它们分开存储，并利用工具来弥合它们之间的鸿沟呢？\n\nManganin 现在使用一个独立的仓库来存储议题数据。每当创建一个新仓库时，系统也会同时创建一个用于跟踪 issue 的隐藏姊妹仓库。在前端的仓库列表中你看不到它。相反，其内部数据会被解析并以类似于其他代码托管平台的方式呈现：展示 issue 标题列表及其正文内容。该仓库可以通过特殊路径克隆，因此并非每个克隆代码库的人都需要下载所有的议题跟踪数据。\n\n这些 issue 就透明地以文件形式直接存储。文件的每个部分都具备语义：issue 标题就是文件名（你会惊讶地发现什么字符都能构成有效路径）。文件内容则存放 issue 正文。这类工作流随处可见，因此 Git、文件系统以及其他工具都能良好支持。我自己在日常的 issue 浏览与分拣（triage）流程中，就直接在 Neovim 里搭配使用 FZF。\n\nissue ID 无需使用自增整数。文件系统本身就能保证文件名唯一。如果文件名不足以作为标识符——到目前为止我还没遇到过无法满足的场景——那么可以使用 Git 的 OID（对象标识符）。\n\n将一个复杂的想法淬炼为简单方案需要时间。找到最优雅的解法必然伴随着反复试错。最终的成果应当是一个看起来顺理成章、自然而然的系统，以至于人们根本察觉不到背后付出的心血。理想的工具应当不挡道、不碍事，让你能够专注于做到最好。\n\n打磨提炼是一个迭代的过程。随着我持续使用 Manganin 进行议题跟踪，我记录下了诸多痛点。这些正是可以通过精巧的工具来抚平工作流阻碍的地方。让它变得更好而不是更加笨拙难用的关键在于：以理想的用户体验为起点，进而设计支撑这一体验的系统架构。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "Manganin 采用独立的隐藏 sister 仓库专门存储 issue 数据，在前端仓库列表中不可见。",
+          "Manganin 的 issue 以纯文件透明存储，文件名即为 issue 标题，文件内容为 issue 正文。",
+          "来源叙事重点：探讨本地优先（Local-first）与 Git 原生的问题追踪系统设计演进，详细阐述从直接在代码树存储（.issues/ 目录）到利用 Git refs，最终落脚于使用独立隐藏 sister 仓库及纯文本语义文件方案的权衡与心路历程。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T10:17:30.000Z",
+            "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/"
+          }
+        ]
+      },
+      {
+        "id": "story--free-fair-midterms-html-fa65b7cb532a9584",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fewer than half of Americans expect free and fair midterms",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:40:04.000Z",
+        "pubTime": "2026-09-16 19:40",
+        "url": "https://phys.org/news/2026-09-americans-free-fair-midterms.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/election.jpg",
+        "fullContent": "Americans are heading into the 2026 midterm elections with widespread uncertainty about the integrity of the vote, according to a new national survey from the University of California San Diego.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-16 19:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-americans-free-fair-midterms.html",
+            "publishedAt": "2026-09-16T11:40:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--italiya-2118035113-html-a96a6c70b5dc8190",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "\"Время пришло\". В Италии высказались о разрыве отношений с Россией",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-16T11:44:09.000Z",
+        "pubTime": "2026-09-16 19:44",
+        "url": "https://ria.ru/20260916/italiya-2118035113.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/153145/81/1531458131_0:114:2200:1352_650x0_80_0_0_344b01ff73af89525e1eb46837e2e9b9.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-16 19:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260916/italiya-2118035113.html",
+            "publishedAt": "2026-09-16T11:44:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-india-with-hindi-support-c184e60c159ebe1d",
+        "title": "亚马逊在印度推出支持印地语的Alexa+",
+        "originalTitle": "Amazon launches Alexa+ in India with Hindi support",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T10:34:47.000Z",
+        "pubTime": "2026-09-16 18:34",
+        "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+        "imageUrl": null,
+        "fullContent": "Amazon today announced that its Alexa+ conversational assistant is available in India with Hindi support. The new assistant can hold conversations for longer and maintain context while doing so.\n\nThe feature is available to all customers in the country in Early Access in Hindi and English. After the early testing period, the company will make the assistant free for Prime customers. For non-Prime customers, the price would be ₹2,000 per month ($20.85).\n\nThe company said that the new Alexa has a more expressive voice and can handle complex multi-step tasks, including ordering groceries from Amazon’s quick commerce service Amazon Now and turning on/off smart home devices. Users can switch between English and Hindi mid-sentence.\n\nAmazon added that Alexa+ is integrated with India-based services such as food delivery service Swiggy, Zomato’s ticket booking platform District, travel websites like TripAdvisor and MakeMyTrip, and restaurant reservation app EazyDiner. The upgraded assistant is also integrated with music streaming services such as Amazon Music and JioSaavn.\n\nIn June, TechCrunch reported that the company had invited users to enroll in a testing program for Alexa+, through which they could have conversations with the assistant in Hindi. After that, the company also started testing an English version of Alexa+.\n\nAmazon launched Alexa in India in English in 2017 and added Hindi support in 2019. The country has more than 600 million Hindi speakers, and Amazon is trying to tap into that market with its smart devices and new features. The company didn’t give absolute numbers, but said that its smart home devices have grown by 20% from last year.\n\nAmazon initially announced gen AI-powered Alexa+ in 2025 and made it available to all U.S.-based users in 2026. This year, the company has also launched its new assistant in markets such as the U.K., Canada, Brazil, Mexico, Italy, and Germany with local language context.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nIvan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.\n\nYou can contact or verify outreach from Ivan by emailing im@ivanmehta.com or via encrypted message at ivan.42 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nOpenAI puts Pro subscriptions on hold due to Astra demand\n\nBending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation\n\nID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen\n\nAutomattic’s board forces CEO Matt Mullenweg into leave of absence",
+        "fullTranslation": "亚马逊今日宣布，其Alexa+对话式助手已在印度上线，并提供印地语支持。该全新助手能够进行更长时间的对话，并在对话过程中保持上下文连贯。\n\n该功能目前以抢先体验模式向印度所有客户开放，支持印地语和英语。早期测试期结束后，该公司将对Prime会员免费开放该助手；对于非Prime会员，收费标准为每月2,000卢比（约合20.85美元）。\n\n该公司表示，全新Alexa拥有更具表现力的声音，并能处理复杂的多步骤任务，包括从亚马逊即时零售服务Amazon Now订购杂货以及开关智能家居设备等。用户甚至可以在说话中途在英语和印地语之间自由切换。\n\n亚马逊还补充道，Alexa+已整合多家印度本地服务，例如外卖配送服务Swiggy、Zomato旗下的票务预订平台District、猫途鹰（TripAdvisor）和MakeMyTrip等旅游网站，以及餐厅预订应用EazyDiner。此外，升级后的助手还整合了Amazon Music和JioSaavn等流媒体音乐服务。\n\nTechCrunch曾于6月报道，该公司已邀请用户报名参加Alexa+的测试计划，用户可通过该计划与助手用印地语对话。此后，该公司也开始测试Alexa+的英文版本。\n\n亚马逊于2017年在印度推出了英语版Alexa，并于2019年增加了对印地语的支持。印度拥有超过6亿印地语人口，亚马逊正试图通过其智能设备和新功能开拓这一市场。该公司未提供绝对数值，但表示其智能家居设备较去年增长了20%。\n\n亚马逊最初于2025年发布了由生成式AI驱动的Alexa+，并于2026年向美国所有用户开放。今年，该公司还在英国、加拿大、巴西、墨西哥、意大利和德国等市场推出了具备本地语言环境适配的全新助手。\n\n当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nIvan在TechCrunch负责全球消费科技动态报道。他常驻印度，此前曾任职于《赫芬顿邮报》（Huffington Post）和The Next Web等出版媒体。\n\n您可以通过发送电子邮件至 im@ivanmehta.com 或在Signal上通过加密消息（ivan.42）联系或核实Ivan的外联信息。\n\n预订展位的最后截止日期为9月18日。切勿错失Disrupt展厅中的高价值潜在客户、投资人对接以及品牌曝光机会。\n\n风险投资人眼中的Y Combinator最新Demo Day最火爆的9家初创公司\n特斯拉称终于将于10月1日正式发布第二代Roadster\nRevolut证实因虚假政府请求导致客户数据泄露\nOpenAI因Astra需求过大暂停Pro订阅\nBending Spoons将以13.6亿美元收购协作工具制造商Miro，较其2022年估值暴跌90%\n身份验证巨头IDScan证实遭遇数据泄露，超过1.5亿张驾照被盗\nAutomattic董事会迫使首席执行官Matt Mullenweg休假停职",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "亚马逊宣布在印度推出支持印地语的对话式助手 Alexa+，所有印度用户均可在早期访问阶段以印地语和英语体验该功能。",
+          "早期测试期结束后，Alexa+ 将对 Prime 用户免费开放；非 Prime 用户的收费标准为每月 2000 卢比（约合 20.85 美元）。",
+          "来源叙事重点：聚焦亚马逊在印度市场推出支持印地语的生成式AI对话助手Alexa+，强调其多语言自由切换能力、本土第三方服务生态整合、商业化定价策略（绑定Prime会员以拉新变现），以及抢占印度6亿印地语受众市场的全球化布局。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T10:34:47.000Z",
+            "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/"
+          }
+        ]
+      },
+      {
+        "id": "story--stress-anymore-284aa87a-537fcda26109e58b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T11:30:00.000Z",
+        "pubTime": "2026-09-16 19:30",
+        "url": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Workers used to want higher salaries and flexibility, but now they’re chasing a sense of safety",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-16 19:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-16T11:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-weeks-after-profit-boost-1d982ac07d28b1f0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ladbrokes owner prepares to cut 400 jobs weeks after profit boost",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-16T09:44:40.000Z",
+        "pubTime": "2026-09-16 17:44",
+        "url": "https://www.theguardian.com/society/2026/sep/16/ladbrokes-owner-entain-prepares-to-cut-400-jobs-weeks-after-profit-boost",
+        "imageUrl": "https://i.guim.co.uk/img/media/3eb5cbfec7f7577e7d9e1fa318b9d4cdc19ce542/313_0_2816_2254/master/2816.jpg?width=140&quality=85&auto=format&fit=max&s=788348e9486decba2f953137481642e5",
+        "fullContent": "Entain, which also owns Coral and BetMGM, starts consultation process over customer care roles\n\nBusiness live – latest updates\n\nThe Ladbrokes owner, Entain, has said it is preparing to cut 400 jobs, only weeks after the FTSE 100 business reported better than expected profit in its first half of the year.\n\nThe gambling group, which also owns Coral and BetMGM, has started a consultation process that could remove one in five of its 2,000 customer care jobs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Ladbrokes 的母公司 Entain 准备裁减 400 个工作岗位。",
+          "富时100指数（FTSE 100）成分股企业 Entain 在今年上半年公布了高于预期的利润。",
+          "来源叙事重点：重点突出博彩巨头 Entain 在上半年实现超预期盈利仅数周后便计划裁减两成客服岗位的矛盾，强化企业盈利与裁员之间的道义张力。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-16T09:44:40.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/16/ladbrokes-owner-entain-prepares-to-cut-400-jobs-weeks-after-profit-boost"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789539719224,
     "timeDisplay": "2026-09-16 14:21 (UTC+8)",
     "date": "2026-09-16",

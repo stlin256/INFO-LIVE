@@ -27,14 +27,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **40** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **41** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-16 14:21 (UTC+8)
+- **最新归档时间**：2026-09-16 19:48 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-16 19:48 (UTC+8)" title="全球要闻情报简报 · 19:48" org="ARCHIVE"}
+**速报纪要：** 本时段信息聚焦于每年九月在纽约联合国总部举行的全球多边外交集会。同时，俄罗斯国家武器出口商展示新型打击系统，哈萨克斯坦方面评价卢克石油公司为历史合作伙伴，体现了军工防务与跨国能源合作方面的最新动态。
+
+**关键信号：** 全球多边外交互动进入九月联合国大会集聚期；俄罗斯国家武器出口公司Rosoboronexport联合展示打击武器系统；哈萨克斯坦与俄罗斯卢克石油公司（Lukoil）维系能源合作关系
+
+**重点要闻索引：**
+- [UN News (联合国官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://news.un.org/feed/view/en/story/2026/09/1168344) <span class="news-meta-time">🕒 2026-09-16 20:00</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://gultsch.social/@daniel/117280438824908947) <span class="news-meta-time">🕒 2026-09-16 19:19</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-16 19:39</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/world/2026/sep/16/datacenters-pollution-electronics) <span class="news-meta-time">🕒 2026-09-16 19:00</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-approach-crop-rotations-yield.html) <span class="news-meta-time">🕒 2026-09-16 19:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/lavrov-2118035402.html) <span class="news-meta-time">🕒 2026-09-16 19:44</span>
+:::
 :::timeline-item{start="2026-09-16 14:21 (UTC+8)" title="全球要闻情报简报 · 14:21" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-16 14:08 (UTC+8) 完成，共获得 10 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
