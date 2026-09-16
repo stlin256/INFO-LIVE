@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-16 · 今日](/INFO-LIVE/archive-2026-09-16/)
+- [2026-09-17 · 今日](/INFO-LIVE/archive-2026-09-17/)
+- [2026-09-16 · 历史快照](/INFO-LIVE/archive-2026-09-16/)
 - [2026-09-15 · 历史快照](/INFO-LIVE/archive-2026-09-15/)
 - [2026-09-14 · 历史快照](/INFO-LIVE/archive-2026-09-14/)
 - [2026-09-13 · 历史快照](/INFO-LIVE/archive-2026-09-13/)
@@ -27,14 +28,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **41** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **42** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-16 19:48 (UTC+8)
+- **最新归档时间**：2026-09-17 04:26 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-17 04:26 (UTC+8)" title="全球要闻情报简报 · 04:26" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-17 04:14 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】在被指责售卖“偷窥眼镜”后，Meta准备推出一款不带摄像头的眼镜：Meta配备摄像头的智能眼镜已经证明比市场上的其他产品更为成功，但它们也让一些消费者深感不安。这些消费者认为，这类产品是失控的反乌托邦监控社会的入侵性象征。如今，在应对外界指责其售卖“偷窥眼镜”之际，据报道，该公司已决定推出一款不配备集成式间谍设备的眼镜。；【undefined】X现在将允许美国用户通过Cashtags进行交易：X现在将允许用户直接在时间线上进行交易。这家由埃隆·马斯克持有的社交网络周三推出了一项名为Cashtag的功能，允许X平台上的美国用户通过参与合作的券商下达股票交易指令。该项目的初始合作伙伴包括盈透证券（Interactive Brokers）、Moomoo、Gemini、Kraken和Coinbase。；【undefined】我们最喜欢的秋季好物：从火盆到舒适叠穿：这款7夸脱容量的Crock-Pot正在促销，售价45美元。（亚马逊） 如果您通过我们的链接购买商品，FOX News Deals可能会获得报酬或赚取佣金。 秋天意味着橄榄球、家庭聚会，以及供一大群人享用的舒适美食。本月已有超过9,000名亚马逊购物者购买了这款7夸脱容量的Crock-Pot，目前售价45美元。这款慢炖锅最多可供9人使用，能够容纳一块重达7磅的烤肉。选择低温或高温档，饭菜做好后切换至保温档即可。 本月已有超过9,000名亚；【undefined】斯潘伯格治下的弗吉尼亚州“失控”杀戮达“疯狂”地步，一非法移民因连环持刀伤人案被起诉：在美国移民与海关执法局（ICE）请求弗吉尼亚州切勿释放又一名被控实施连环持刀伤人案的非法移民后，针对该州民主党籍州长阿比盖尔·斯潘伯格（Abigail Spanberger）及庇护友好型政客在全州范围内“失控”杀戮事件的愤怒情绪正在彻底爆发。；【undefined】大陆资源公司与委内瑞拉国家石油公司达成石油协议：大陆资源公司周三宣布，已与委内瑞拉国营石油公司PDVSA签署谅解备忘录，将运营并开发奥里诺科带的阿亚库乔2区块。该区块位于安索阿特吉州，占地约12.6万英亩，预计原地资源量达300亿桶。双方计划在未来几周推进签署一项长期的生产参与合同（Contrato de Participación Productiva）；合同签署后，大陆资源公司将以100%的工作权益运营该区块。此次协议是特朗普政府呼吁美国能源企业帮助重建委内瑞拉石油产业后达成的一；【undefined】Waymo前首席财务官加盟自动驾驶初创公司Wayve：曾任Alphabet旗下自动驾驶汽车公司Waymo首席财务官的Elisa de Martel，已被自动驾驶汽车初创公司Wayve聘为同一职位。自2024年起担任Wayve首席财务官的Max Warburton即将离任，转任战略顾问，为公司领导团队提供支持。；【undefined】在TechCrunch Disrupt 2026上，听Science Corp首席执行官马克斯·霍达克解释屏幕时代为何正在终结：当你想象自己使用电脑时，你可能会想到键盘、点击，或是在手机上打字。Science Corporation首席执行官马克斯·霍达克过去几个月一直在推进一种不同的愿景。他的公司已邀请一位顶尖神经生物学家，负责开展其生物混合脑机接口项目在美国的首次人体试验。霍达克将在TechCrunch Disrupt 2026上，向1万多名科技行业领导者、创始人和投资者分享公司迄今的发现。；【undefined】沃尔玛下调《银河战士：Ravenous》实体版预购价格：萨姆斯已经整装待发，准备迎接又一次冒险。| 图片：任天堂
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260916/chp-2118142093.html) <span class="news-meta-time">🕒 2026-09-17 04:12</span>
+- [TechCrunch (硅谷创业与资本)] [在被指责售卖“偷窥眼镜”后，Meta准备推出一款不带摄像头的眼镜](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/) <span class="news-meta-time">🕒 2026-09-17 04:12</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Natural-Gas/AI-Data-Centers-Are-Driving-Southeast-Asias-LNG-Demand-Through-the-Roof.html) <span class="news-meta-time">🕒 2026-09-17 04:00</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/us-news/2026/sep/16/republican-senator-bill-cassidy-blames-trump-administration-measles-deaths-pennsylvania) <span class="news-meta-time">🕒 2026-09-17 03:01</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-shouldnt-overcook-proteins.html) <span class="news-meta-time">🕒 2026-09-17 04:10</span>
+- [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](http://www.france24.com/en/amnesty-says-iran-committed-crimes-against-humanity-in-protests-crackdown) <span class="news-meta-time">🕒 2026-09-17 04:09</span>
+:::
 :::timeline-item{start="2026-09-16 19:48 (UTC+8)" title="全球要闻情报简报 · 19:48" org="ARCHIVE"}
 **速报纪要：** 本时段信息聚焦于每年九月在纽约联合国总部举行的全球多边外交集会。同时，俄罗斯国家武器出口商展示新型打击系统，哈萨克斯坦方面评价卢克石油公司为历史合作伙伴，体现了军工防务与跨国能源合作方面的最新动态。
 
