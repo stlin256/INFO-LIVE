@@ -28,14 +28,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **44** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **45** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-17 09:47 (UTC+8)
+- **最新归档时间**：2026-09-17 21:37 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-17 21:37 (UTC+8)" title="全球要闻情报简报 · 21:37" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-17 21:35 (UTC+8) 完成，共获得 27 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】Lucid Motors 迎来潜在欧洲无人出租车合作伙伴：Lucid Motors 已与欧洲出行平台 Bolt 达成合作，此举或将把这家加州公司生产的自动驾驶出租车（robotaxi）引入欧洲大陆。；【undefined】气价飙升，英国能源账单自明年1月起或暴涨25%至30%：分析师表示，随着中东危机持续拖累局势导致天然气价格飙升，英国居民家庭能源账单在2027年第一季度可能会猛增25%至30%。他们警告称，政府可能不得不投入更多资金采取措施以缓解生活成本危机。；【undefined】Bose下一代开放式耳塞带来更强低音、更高音量及更长续航：该主题的相关文章将添加到您的每日电子邮件摘要和主页信息流中。；【undefined】《海上女王》影评：令人心碎的认知症题材佳作，刻画震撼人心的亲密关系：在汤姆·康特奈与安娜·考尔德-马歇尔的精湛演绎下，兰斯·哈默的这部回归之作以其悲剧性的坦率令人难以承受，同时在道德拷问上也显得至关重要。；【undefined】Spotify推出Fresh Finds Forward计划：为音乐人提供免费录音室使用时长等支持：该主题下的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看所有娱乐资讯 Spotify正在为新兴音乐人提供大量资源，包括免费心理咨询。 该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看Terrence O'Brien的所有文章 入选Spotify的Fresh Finds歌单，对于试图在流媒体竞争中脱颖而出的音乐人而言，可能是一个重大突破。如今，Spotify正推出一项名为Fresh Finds Forward的计划，；【undefined】HYROX失禁选手发声明道歉：中新网9月17日电 综合报道，9月17日，HYROX选手乔安娜·维特日克(Joanna Wietrzyk)发表声明，就北京站比赛期间发生的事件向中国观众、参赛选手及赛事组织方致以诚挚歉意。；【undefined】俄罗斯国防出口公司在比勒陀利亚展示“阿穆尔-1650”潜艇与“红蜘蛛”级护卫舰：塔斯社比勒陀利亚9月17日电 据塔斯社记者报道，677E型“阿穆尔 1650”（Amur 1650）潜艇与22800E型“红蜘蛛-E”（Karakurt-E）小型护卫舰在南非比勒陀利亚举行的2026年非洲航空航天与防务展（AAD 2026）上展出。；【undefined】南非总统因身体不适暂停公开活动：中新网9月17日电 综合报道，南非总统府16日发表声明说，南非总统拉马福萨因身体不适，暂停参加公开活动，并遵医嘱休息恢复。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260917/sud-2118290802.html) <span class="news-meta-time">🕒 2026-09-17 21:33</span>
+- [TechCrunch (硅谷创业与资本)] [Lucid Motors 迎来潜在欧洲无人出租车合作伙伴](https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/) <span class="news-meta-time">🕒 2026-09-17 21:26</span>
+- [OilPrice (全球能源与原油大宗)] [气价飙升，英国能源账单自明年1月起或暴涨25%至30%](https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Bills-Could-Jump-25-30-From-January-as-Gas-Prices-Soar.html) <span class="news-meta-time">🕒 2026-09-17 21:30</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/17/plan-limit-number-nhs-patients-diagnosed-adhd-rationing-healthcare) <span class="news-meta-time">🕒 2026-09-17 21:14</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-laser-scans-reveal-hidden-ship.html) <span class="news-meta-time">🕒 2026-09-17 21:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260917/zelenskiy-2118290484.html) <span class="news-meta-time">🕒 2026-09-17 21:32</span>
+:::
 :::timeline-item{start="2026-09-17 09:47 (UTC+8)" title="全球要闻情报简报 · 09:47" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-17 09:31 (UTC+8) 完成，共获得 16 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 

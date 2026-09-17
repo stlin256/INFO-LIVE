@@ -1,5 +1,1562 @@
 [
   {
+    "timestamp": 1789652232418,
+    "timeDisplay": "2026-09-17 21:37 (UTC+8)",
+    "date": "2026-09-17",
+    "runId": "feed-20260917T133512095Z-i1nt6j",
+    "generatedAt": "2026-09-17T13:37:12.418Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 21:35",
+      "lead": "本轮抓取于 2026-09-17 21:35 (UTC+8) 完成，共获得 27 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】Lucid Motors 迎来潜在欧洲无人出租车合作伙伴：Lucid Motors 已与欧洲出行平台 Bolt 达成合作，此举或将把这家加州公司生产的自动驾驶出租车（robotaxi）引入欧洲大陆。",
+        "【undefined】气价飙升，英国能源账单自明年1月起或暴涨25%至30%：分析师表示，随着中东危机持续拖累局势导致天然气价格飙升，英国居民家庭能源账单在2027年第一季度可能会猛增25%至30%。他们警告称，政府可能不得不投入更多资金采取措施以缓解生活成本危机。",
+        "【undefined】Bose下一代开放式耳塞带来更强低音、更高音量及更长续航：该主题的相关文章将添加到您的每日电子邮件摘要和主页信息流中。",
+        "【undefined】《海上女王》影评：令人心碎的认知症题材佳作，刻画震撼人心的亲密关系：在汤姆·康特奈与安娜·考尔德-马歇尔的精湛演绎下，兰斯·哈默的这部回归之作以其悲剧性的坦率令人难以承受，同时在道德拷问上也显得至关重要。",
+        "【undefined】Spotify推出Fresh Finds Forward计划：为音乐人提供免费录音室使用时长等支持：该主题下的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看所有娱乐资讯 Spotify正在为新兴音乐人提供大量资源，包括免费心理咨询。 该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看Terrence O'Brien的所有文章 入选Spotify的Fresh Finds歌单，对于试图在流媒体竞争中脱颖而出的音乐人而言，可能是一个重大突破。如今，Spotify正推出一项名为Fresh Finds Forward的计划，",
+        "【undefined】HYROX失禁选手发声明道歉：中新网9月17日电 综合报道，9月17日，HYROX选手乔安娜·维特日克(Joanna Wietrzyk)发表声明，就北京站比赛期间发生的事件向中国观众、参赛选手及赛事组织方致以诚挚歉意。",
+        "【undefined】俄罗斯国防出口公司在比勒陀利亚展示“阿穆尔-1650”潜艇与“红蜘蛛”级护卫舰：塔斯社比勒陀利亚9月17日电 据塔斯社记者报道，677E型“阿穆尔 1650”（Amur 1650）潜艇与22800E型“红蜘蛛-E”（Karakurt-E）小型护卫舰在南非比勒陀利亚举行的2026年非洲航空航天与防务展（AAD 2026）上展出。",
+        "【undefined】南非总统因身体不适暂停公开活动：中新网9月17日电 综合报道，南非总统府16日发表声明说，南非总统拉马福萨因身体不适，暂停参加公开活动，并遵医嘱休息恢复。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章目录信息有限，暂无法形成完整日尺度判断",
+      "lead": "当前证据包未提供主文章内容、标题、来源或引用信息。目录中仅有两条可识别摘要：HYROX选手乔安娜·维特日克就北京站比赛期间事件致歉；埃塞俄比亚教育部称，提格雷地区约2万名大学生将因安全局势临时转移至其他公立校园。",
+      "themes": [
+        {
+          "name": "体育赛事与公众回应",
+          "analysis": "目录摘要显示，乔安娜·维特日克已就北京站比赛期间发生的事件向中国观众、参赛选手及赛事组织方致歉。由于缺少完整文章、事件细节和来源信息，暂无法进一步判断后续影响。"
+        },
+        {
+          "name": "提格雷安全局势与高等教育",
+          "analysis": "目录摘要称，埃塞俄比亚教育部指控提格雷人民解放阵线将大学作为军事基地，并计划临时转移约2万名大学生；摘要同时提到当地战事和无人机袭击仍在持续。由于缺少可核验引用和完整背景，无法对局势规模或政策效果作进一步结论。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 72,
+      "completedTasks": 72,
+      "succeeded": 60,
+      "degraded": 12,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 72,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 120259,
+      "byRole": {
+        "translator": {
+          "attempts": 44,
+          "succeeded": 33,
+          "degraded": 11
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 72,
+          "succeeded": 60,
+          "degraded": 12
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-2-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-29-translator-0",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:51.548Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.914Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:51.557Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.509Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.864Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.975Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.895Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.240Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:54.038Z",
+        "lastSuccessAt": "2026-09-17T13:34:55.773Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:54.003Z",
+        "lastSuccessAt": "2026-09-17T13:34:55.615Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:55.773Z",
+        "lastSuccessAt": "2026-09-17T13:34:55.999Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.191Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.323Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.150Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.221Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.006Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.316Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.509Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.966Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.494Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.150Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.365Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.175Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.404Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.784Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:55.451Z",
+        "lastSuccessAt": "2026-09-17T13:34:56.360Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:55.256Z",
+        "lastSuccessAt": "2026-09-17T13:34:56.167Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:55.447Z",
+        "lastSuccessAt": "2026-09-17T13:34:55.665Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 14,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.211Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.552Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.809Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.895Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.784Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.864Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:51.805Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.494Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:50.485Z",
+        "lastSuccessAt": "2026-09-17T13:34:51.805Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.442Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.717Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.354Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.678Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.221Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.442Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.436Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.632Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.665Z",
+        "lastSuccessAt": "2026-09-17T13:34:54.047Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.175Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.287Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:55.615Z",
+        "lastSuccessAt": "2026-09-17T13:34:58.353Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.450Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.665Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.764Z",
+        "lastSuccessAt": "2026-09-17T13:34:54.038Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": false,
+        "itemCount": 0,
+        "error": "Attribute without value\nLine: 13\nColumn: 5\nChar: /",
+        "checkedAt": "2026-09-17T13:34:53.678Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.910Z",
+        "lastSuccessAt": "2026-09-17T13:34:54.003Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:55.665Z",
+        "lastSuccessAt": "2026-09-17T13:34:55.911Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.914Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.006Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.216Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.910Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.316Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.436Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.853Z",
+        "lastSuccessAt": "2026-09-17T13:34:54.043Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-17T13:34:53.632Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.600Z",
+        "lastSuccessAt": "2026-09-17T13:34:54.053Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:50.483Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.191Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-17T13:34:53.717Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:50.484Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.809Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:54.043Z",
+        "lastSuccessAt": "2026-09-17T13:34:56.567Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.287Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.450Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.323Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.404Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.552Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.600Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:53.240Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.354Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:54.047Z",
+        "lastSuccessAt": "2026-09-17T13:34:55.256Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:54.053Z",
+        "lastSuccessAt": "2026-09-17T13:34:55.447Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.975Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.216Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:52.966Z",
+        "lastSuccessAt": "2026-09-17T13:34:53.211Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:50.468Z",
+        "lastSuccessAt": "2026-09-17T13:34:51.548Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:50.481Z",
+        "lastSuccessAt": "2026-09-17T13:34:51.557Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T13:34:50.482Z",
+        "lastSuccessAt": "2026-09-17T13:34:52.365Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-0917-sud-2118290802-html-cead15792b6c1787",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Челябинске осудили подростка, стрелявшего из ракетницы в знакомого",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T13:33:19.000Z",
+        "pubTime": "2026-09-17 21:33",
+        "url": "https://ria.ru/20260917/sud-2118290802.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/156115/95/1561159562_0:180:3004:1870_650x0_80_0_0_d54ae5d36afd91ffb5018296652c9735.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-17 21:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260917/sud-2118290802.html",
+            "publishedAt": "2026-09-17T13:33:19.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-otaxi-partner-for-europe-e2e8cc1abed18415",
+        "title": "Lucid Motors 迎来潜在欧洲无人出租车合作伙伴",
+        "originalTitle": "Lucid Motors has a potential robotaxi partner for Europe",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:26:32.000Z",
+        "pubTime": "2026-09-17 21:26",
+        "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+        "imageUrl": null,
+        "fullContent": "Lucid Motors has entered into a partnership with European mobility platform Bolt that could bring robotaxis made by the California company to the continent.\n\nThe two companies announced Thursday that Bolt “aims to deploy at least 25,000 fully autonomous vehicles” built on Lucid’s upcoming mid-size EV architecture, which is supposed to be smaller and cheaper than its current offerings.\n\nThe announcement follows a major restructuring at Lucid Motors under its new CEO, Silvio Napoli, who recently laid off nearly 20% of the company’s workforce and delayed the launch of the first vehicle to be built on the mid-size platform by almost a year to the second half of 2027.\n\nLucid Motors has yet to deploy a commercial robotaxi version of either of its two existing vehicles. The company has spent the last year working in partnership with Uber and autonomous vehicle firm Nuro to launch a robotaxi version of its Gravity SUV. That is supposed to happen by the end of 2026.\n\nNapoli has said he believes the business of becoming a robotaxi provider would have margins that “vastly” exceed those of “the traditional retail model.”\n\nBolt intends to own and operate the fleet, according to a press release. The two companies “will work together from the product-development stage on an autonomous driving system (ADS)-ready vehicle platform,” it says.\n\nThe vehicles will use Nvidia’s autonomous vehicle compute and sensing architecture (called Hyperion), but the companies did not say which company (or companies) will provide the autonomous driving software. Lucid declined to offer any more information beyond what was in the press release.\n\nNo money has changed hands, and Bolt has not placed an order for the vehicles. There is also no public timeline for deployment — only that Bolt considers this a “major step toward” its “ambition of 100,000 autonomous vehicles on its platform by 2035.”\n\n“Autonomous driving in Europe requires data, software, vehicles, and operations to work as one system built for European roads and regulation,” Markus Villig, founder and CEO of Bolt, said in a statement. “Lucid brings a world-class platform, and together, we will co-design the vehicle and software based on our data and more than a decade of operating experience across more than 850 cities. No one is better placed to operate autonomous mobility services efficiently at scale.”\n\nNapoli, in a statement, said, “Bolt’s reach and operating expertise make it an ideal partner to scale autonomous mobility across Europe.” .\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSr. Reporter, Transportation\n\nSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\n\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nMatt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster\n\nOpenAI puts Pro subscriptions on hold due to Astra demand",
+        "fullTranslation": "Lucid Motors 已与欧洲出行平台 Bolt 达成合作，此举或将把这家加州公司生产的自动驾驶出租车（robotaxi）引入欧洲大陆。\n\n两家公司于周四宣布，Bolt“计划部署至少 2.5 万辆完全自动驾驶汽车”，这些车辆将基于 Lucid 即将推出的中型电动汽车架构打造。该架构的产品预计将比该公司目前在售的车型尺寸更小、价格更便宜。\n\n在这一合作发布之前，Lucid Motors 在新任首席执行官西尔维奥·纳波利（Silvio Napoli）的领导下进行了重大重组。纳波利最近裁员了近 20%，并将首款基于该中型平台打造的汽车的发布时间推迟了近一年，至 2027 年下半年。\n\nLucid Motors 迄今尚未对其现有的两款车型推出任何商业化运营的无人出租车版本。在过去一年里，该公司一直与 Uber 及自动驾驶公司 Nuro 合作，计划推出其 Gravity SUV 的无人出租车版本，预计将在 2026 年底实现。\n\n纳波利曾表示，他相信成为无人出租车供应商的利润率将“大幅”超越“传统零售模式”。\n\n根据新闻稿，Bolt 打算拥有并运营该车队。新闻稿称，两家公司“将从产品开发阶段展开合作，打造一个支持自动驾驶系统（ADS-ready）的汽车平台”。\n\n这些车辆将采用英伟达（Nvidia）的自动驾驶汽车计算和传感架构（名为 Hyperion），但两家公司未透露将由哪家（或哪几家）公司提供自动驾驶软件。Lucid 拒绝在新闻稿之外提供更多信息。\n\n双方目前尚未发生资金交易，Bolt 也未正式下单订购车辆。目前也没有公开的部署时间表，Bolt 仅表示这是迈向其“到 2035 年在平台上部署 10 万辆自动驾驶汽车雄心”的“重要一步”。\n\nBolt 创始人兼首席执行官马库斯·维利格（Markus Villig）在一份声明中表示：“欧洲的自动驾驶需要数据、软件、车辆和运营作为一个专为欧洲道路和法规构建的整体系统协同工作。Lucid 带来了世界级的平台，双方将基于我们的数据以及在 850 多个城市超过十年的运营经验，共同设计车辆和软件。没有人比我们更有优势高效地实现规模化自动驾驶出行服务运营。”\n\n纳波利在一份声明中表示：“Bolt 的业务覆盖范围和运营专长使其成为在全欧洲规模化推进自动驾驶出行的理想合作伙伴。”\n\n当您通过我们文章中的链接购买商品时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。\n\n交通领域资深记者\n肖恩·奥凯恩（Sean O'Kane）是一名拥有十年报道经验的记者，长期报道交通行业快速演变的商业和技术动态，包括特斯拉以及众多追赶埃隆·马斯克的初创公司。在此之前，他是彭博新闻社（Bloomberg News）的记者，曾参与报道了一些最受瞩目的电动车 SPAC 破产爆雷事件。他此前还曾在 The Verge 工作，期间报道消费科技、主持多档长短视频节目、从事产品及新闻摄影，并曾在一架红牛特技飞行赛飞机上险些昏厥。\n您可以通过发送邮件至 sean.okane@techcrunch.com 或通过 Signal 加密信息（okane.01）联系肖恩或验证其外联信息。\n\n预订展位的最后截止日期为 9 月 18 日。不要错过在 Disrupt 展厅获取高价值潜在客户、对接投资者以及提升品牌曝光的机会。\n\n清洁科技初创公司 Fluxnium 发现开发可用 5 万年的核燃料的方法\n黄仁勋接听特朗普电话，并展示了另一项成果\n风险投资人眼中的 Y Combinator 最新 Demo Day 9 大最热门初创公司\n特斯拉称终于将在 10 月 1 日发布第二代 Roadster\nRevolut 证实因虚假政府调取要求导致客户数据泄露\n马特·穆伦维格（Matt Mullenweg）向 Automattic 员工表态（或是调侃？），称在 CEO 被逐后重掌控制权\n由于 Astra 需求过大，OpenAI 暂停 Pro 订阅",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "Lucid Motors 与欧洲移动出行平台 Bolt 达成合作，可能将加州制造的自动驾驶出租车（robotaxi）引入欧洲。",
+          "Bolt 目标部署至少 25,000 辆基于 Lucid 即将推出的中型纯电架构打造的全自动驾驶汽车。",
+          "来源叙事重点：报道一方面呈现 Lucid 与 Bolt 宣布在欧洲部署 2.5 万辆 Robotaxi 的合作远景，另一方面重点揭示该合作实质处于极早期阶段——无资金交易、无采购订单、无软件供应商、缺乏明确落地时间表，并将其置于 Lucid 刚经历 20% 大裁员及中型平台车型延期至 2027 年下半年的重组困境背景下审视。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:26:32.000Z",
+            "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/"
+          }
+        ]
+      },
+      {
+        "id": "story--as-gas-prices-soar-html-0ea9fd4c07f2f651",
+        "title": "气价飙升，英国能源账单自明年1月起或暴涨25%至30%",
+        "originalTitle": "UK Energy Bills Could Jump 25-30% From January as Gas Prices Soar",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:30:00.000Z",
+        "pubTime": "2026-09-17 21:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Bills-Could-Jump-25-30-From-January-as-Gas-Prices-Soar.html",
+        "imageUrl": null,
+        "fullContent": "The UK household energy bills could jump by between 25% and 30% in the first quarter of 2027 amid surging natural gas prices as the Middle East crisis drags on, analysts say, warning that the government may have to spend more money on measures to ease the cost-of-living crisis. Household energy bills will rise by 4% from October for the fourth quarter of this year. But the jump for the first quarter of 2027 could be as high as 30%, according to a forecast by France's EDF, one of the biggest energy providers in the UK, cited by the Independent. Earlier this week, another forecast, from Bloomberg Economics, projected UK household energy bills to spike by 25% for the period January to March 2027, as international gas prices soar with the escalation of the Middle East conflict. UK's energy regulator Ofgem last month raised the energy price cap on household bills by 4% for October through December 2026, which means bills would be at a three-year high at the beginning of the winter. The UK has a so-called Energy Price Cap in place, which protects households from excessively high bills by capping the price that energy utility providers can pass on to them. The price cap is a limit on what suppliers can charge domestic consumers per kilowatt hour of energy used. The quarterly adjustment of this energy cap could see a sharp spike for the rest of this winter in January to March 2027, as gas prices continue to rally and global LNG supply remains reduced by Qatari and UAE cargoes not leaving the Strait of Hormuz. EDF projects the regulator Ofgem to hike the energy price cap by 30% to &pound;2,165 $2,897 a year for a typical household for January-March, compared to &pound;1,723, or $2,306, for October-December 2026. Bloomberg Economics, for its part, expects the price cap to jump by about 25%, or by &pound;427 $571 to about &pound;2,150 $2,878 per UK household per year. By Michael Kern for Oilprice.com",
+        "fullTranslation": "分析师表示，随着中东危机持续拖累局势导致天然气价格飙升，英国居民家庭能源账单在2027年第一季度可能会猛增25%至30%。他们警告称，政府可能不得不投入更多资金采取措施以缓解生活成本危机。\n\n今年第四季度，自10月起家庭能源账单将上涨4%。但据《独立报》（The Independent）援引英国最大能源供应商之一——法国电力公司（EDF）的预测，2027年第一季度的涨幅可能高达30%。\n\n本周早些时候，彭博经济研究（Bloomberg Economics）发布的另一份预测也显示，随着中东冲突升级带动国际天然气价格飙升，2027年1月至3月期间英国居民家庭能源账单预计将暴涨25%。\n\n英国能源监管机构天然气与电力市场办公室（Ofgem）上个月将2026年10月至12月的家庭能源价格上限上调了4%，这意味着入冬之初账单金额将达到三年来的最高水平。\n\n英国实行所谓的“能源价格上限”（Energy Price Cap）机制，通过限制公用事业能源供应商可转嫁给家庭的价格，防止居民承担过高的账单。该价格上限规定了供货商向国内消费者收取的每千瓦时能源费用的最高限额。\n\n随着天然气价格持续走高，且由于卡塔尔和阿联酋的货轮无法离开霍尔木兹海峡导致全球液化天然气（LNG）供应持续受限，在2027年1月至3月这个冬季的剩余阶段，能源价格上限的季度调整可能会出现急剧飙升。\n\n法国电力公司预计，监管机构Ofgem将在1月至3月期间将普通家庭的能源价格上限上调30%，达到每年2,165英镑（约合2,897美元），而2026年10月至12月期间则为1,723英镑（约合2,306美元）。\n\n彭博经济研究则预计，价格上限将上涨约25%（即每户每年增加427英镑/571美元），达到每户每年约2,150英镑（约合2,878美元）。\n\n记者：迈克尔·科恩（Michael Kern），Oilprice.com报道",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "英国能源监管机构Ofgem上月将2026年10月至12月的家庭能源价格上限上调了4%，使账单在入冬初期达到三年来的高点。",
+          "英国实行能源价格上限（Energy Price Cap）机制，限制公用事业供应商向家庭消费者收取的每千瓦时能源费用。",
+          "来源叙事重点：聚焦中东地缘政治危机导致霍尔木兹海峡LNG运输受阻、国际气价暴涨，进而预测2027年第一季度英国家庭能源账单将面临25%至30%的大幅跳涨，加剧生活成本危机并给政府财政施加更大压力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Bills-Could-Jump-25-30-From-January-as-Gas-Prices-Soar.html"
+          }
+        ]
+      },
+      {
+        "id": "story-dhd-rationing-healthcare-7a2272d0793f1777",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Plan to limit number of NHS patients diagnosed with ADHD attacked as ‘rationing’ healthcare",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:14:43.000Z",
+        "pubTime": "2026-09-17 21:14",
+        "url": "https://www.theguardian.com/society/2026/sep/17/plan-limit-number-nhs-patients-diagnosed-adhd-rationing-healthcare",
+        "imageUrl": "https://i.guim.co.uk/img/media/4dd3c839648b26311d05a5dc92b361607b27cf15/254_0_4242_3394/master/4242.jpg?width=140&quality=85&auto=format&fit=max&s=74a76c9ad35ede7b3931440e7c13d6e8",
+        "fullContent": "Review due next week expected to say patients should be ‘triaged’ and offered support without formal diagnosis\n\nProposals to limit the number of patients being formally diagnosed with attention deficit hyperactivity disorder have been atacked as “rationing” healthcare and pushing children and adults to self-diagnosis via social media.\n\nThe comments come ahead of a government review due next week, which is expected to say that patients with ADHD symptoms should not automatically be formally diagnosed, but should be “triaged” and offered support without the need for a formal diagnosis.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "限制正式确诊注意缺陷多动障碍（ADHD）患者人数的提议受到批评，被指责为“配给制”医疗服务，并将儿童和成年人推向通过社交媒体进行自我诊断。",
+          "英国政府预计于下周发布一项审查报告。",
+          "来源叙事重点：聚焦于批评英国政府和NHS拟限制ADHD正式确诊数量的计划，重点突出批评者将该提议指责为医疗资源“配给制”（配额限制），并警示此举可能迫使患者转向社交媒体自我诊断的风险"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:14:43.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/17/plan-limit-number-nhs-patients-diagnosed-adhd-rationing-healthcare"
+          }
+        ]
+      },
+      {
+        "id": "story--reveal-hidden-ship-html-a91127e49eb91939",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Laser scans reveal 23 hidden ship carvings on Bronze Age temple wall in Cyprus",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:20:06.000Z",
+        "pubTime": "2026-09-17 21:20",
+        "url": "https://phys.org/news/2026-09-laser-scans-reveal-hidden-ship.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-scans-reveal-23.jpg",
+        "fullContent": "About 40 years ago, researchers found ancient ship carvings on a temple wall in Cyprus, possibly all carved at once at the tail end of the Bronze Age, around the time of the infamous Bronze Age collapse. Then, decades later, a new study revealed they had missed nearly two dozen ancient carvings.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-17 21:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-laser-scans-reveal-hidden-ship.html",
+            "publishedAt": "2026-09-17T13:20:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-elenskiy-2118290484-html-07c09d61d109db55",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Зеленский взбесил пользователей Сети словами о давлении на Россию",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T13:32:35.000Z",
+        "pubTime": "2026-09-17 21:32",
+        "url": "https://ria.ru/20260917/zelenskiy-2118290484.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-17 21:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260917/zelenskiy-2118290484.html",
+            "publishedAt": "2026-09-17T13:32:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-econd-gen-wireless-sport-2c8cb78011bc2d19",
+        "title": "Bose下一代开放式耳塞带来更强低音、更高音量及更长续航",
+        "originalTitle": "Bose’s next open earbuds have more bass, more volume, and more battery life",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:00:00.000Z",
+        "pubTime": "2026-09-17 21:00",
+        "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bose1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe second-gen Ultra Open Earbuds are joined by a new sport option providing a more secure fit when you’re active.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Andrew Liszewski\n\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\n\nBose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They’re also joined by a new cheaper alternative called the Bose Sport Open Earbuds designed to provide a more secure and stable fit during physical activities.\n\nThe Bose Ultra Open Earbuds (2nd Gen) will be available for preorder on September 19th for $299 with availability starting on October 1st. Color options include black, white smoke, cherry chocolate, olive green, and sky pink. Preorders and availability for the Bose Sport Open Earbuds are the same, but they’re $100 cheaper at $199. Colors include black, white smoke, and eucalyptus green.\n\nLike the original version, the new Ultra Open Earbuds (2nd Gen) feature a design that clips to your outer ear with a transducer that directs audio into your ear canal with “minimal sound leakage,” Bose claims. There’s still no ANC because these are designed to do the exact opposite and let you hear what’s going on around you while enjoying music or a podcast.\n\nIn addition to a refreshed design with a new beveled finish on each earbud’s metal cap, the 2nd Gen feature a new driver delivering higher volume with automatic adjustments and deeper bass. A new Cinema Mode simulates a “wider, more immersive soundstage” using Bose’s TrueSpatial technology while keeping dialogue clear and centered. Battery life with the buds alone has been boosted to up to nine hours (from seven hours) with an additional 19.5 hours of playback from the redesigned case that can now stand upright for use on a wireless charger.\n\nThe Bose Sport Open Earbuds take a similar approach with a design that clips to your ear to project sounds inward, but they feature a thinner cuff with a “soft silicone matte finish” providing more grip to keep them in place. Bose says the Sport version will stay secure during head shakes, cartwheels, and running. They also feature automatic volume adjustments that adapt to ambient noise levels to ensure what you’re listening to isn’t drowned out, and the customizable shortcut button on the end of each battery barrel has an added texture, so they’re easier to find while working out. Battery life is rated at up to seven hours of playback plus an additional 22 hours with the wireless charging case.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关文章将添加到您的每日电子邮件摘要和主页信息流中。\n\n第二代 Ultra Open Earbuds 还迎来了一款新的运动版选择，能在运动时提供更加稳固的贴合度。\n\n该作者的相关文章将添加到您的每日电子邮件摘要和主页信息流中。\n\n查看 Andrew Liszewski 的全部文章\n\n如果您通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。详见我们的道德声明。\n\nBose 发布了其 Ultra Open Earbuds 的新版本。近两年半前，正是这款产品推动了夹耳式无线耳机的行业潮流。新款 Ultra Open Earbuds（第二代）外观微调，在音质和电池续航方面均有性能提升。此外，Bose 还推出了一款售价更低的替代产品——Bose Sport Open Earbuds，旨在为体育运动期间提供更加安全、稳定的佩戴体验。\n\nBose Ultra Open Earbuds（第二代）将于 9 月 19 日开启预订，售价 299 美元，10 月 1 日正式发售。配色包括黑色、烟白、樱桃巧克力色、橄榄绿和天空粉。Bose Sport Open Earbuds 的预订和发售时间相同，但价格便宜了 100 美元，售价为 199 美元。配色包括黑色、烟白和尤加利绿。\n\n与初代产品一样，新款 Ultra Open Earbuds（第二代）采用夹在耳廓上的设计，并通过换能器将声音传递入耳道，Bose 称其具有“极小的漏音”。该耳机仍不支持主动降噪（ANC），因为其设计初衷恰恰相反——让用户在享受音乐或播客的同时，能够听清周围环境的声音。\n\n除了在每个耳塞金属端盖上采用全新斜角倒角处理的翻新设计外，第二代耳机还配备了新驱动单元，可带来更高的音量（支持自动调节）和更深沉的低音。全新的“影院模式”（Cinema Mode）利用 Bose 的 TrueSpatial 空间音频技术模拟出“更宽广、更身临其境的声场”，同时保持人声对白清晰且居中。单次充电下耳塞本身的续航时间已提升至最长 9 小时（原为 7 小时），重新设计的充电盒还可额外提供 19.5 小时的播放时间，且该充电盒现在可以直立放置在无线充电器上使用。\n\nBose Sport Open Earbuds 采用了类似的设计理念，同样通过夹在耳朵上向内投射声音，但其耳夹更薄，并配有“哑光软硅胶涂层”，可提供更强的抓附力以防脱落。Bose 表示，运动版即使在晃头、侧手翻和跑步时也能保持稳固。该耳机同样支持根据环境噪音水平自动调节音量，确保所听内容不会被淹没；每个电池柱末端的可定制快捷按键还增加了纹理，方便在运动时盲操摸索。该耳机的标称播放续航长达 7 小时，搭配无线充电盒还可额外使用 22 小时。\n\n一份汇聚最重要的资讯的免费每日要闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "Bose宣布推出第二代Ultra Open Earbuds以及更便宜的替代款Bose Sport Open Earbuds",
+          "Bose Ultra Open Earbuds（第二代）售价为299美元，将于9月19日开启预售，10月1日正式发售",
+          "来源叙事重点：重点介绍Bose发布的第二代Ultra Open Earbuds及平价运动款Sport Open Earbuds，突出其在音质提升、续航增强、佩戴稳定性及价格区间上的定位与规格更新。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:00:00.000Z",
+            "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport"
+          }
+        ]
+      },
+      {
+        "id": "story--a-50-000-heloc-d094bbc5-be01d1a76a11f64b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:15:00.000Z",
+        "pubTime": "2026-09-17 21:15",
+        "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-17 21:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-17T13:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ing-portrait-of-intimacy-e683c19ecf8e13bb",
+        "title": "《海上女王》影评：令人心碎的认知症题材佳作，刻画震撼人心的亲密关系",
+        "originalTitle": "Queen at Sea review – crushingly sad dementia drama offers a startling portrait of intimacy",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:05:02.000Z",
+        "pubTime": "2026-09-17 21:05",
+        "url": "https://www.theguardian.com/film/2026/feb/18/queen-at-sea-review-crushingly-sad-dementia-drama-offers-a-startling-portrait-of-intimacy",
+        "imageUrl": "https://i.guim.co.uk/img/media/0ae9b3ec0d5c5dc0d5129a1b8b2c8d9147261f63/667_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=c03f61428367f0d9181943656a66b13d",
+        "fullContent": "Driven by fine performances from Tom Courtenay and Anna Calder-Marshall, Lance Hammer’s comeback is unbearable in its tragic candour and essential in its moral questioning\n\nThis inexpressibly painful and sad story – featuring angry, complex, brilliant late-career performances from Tom Courtenay and Anna Calder-Marshall – is about dementia, the endgame of care and the decisions that need to be made when the spouse-carer is as vulnerable as the patient (and whose right it is to take those decisions). It is about the nature of intimacy between the two; and about the moment this becomes a problem for the grownup children with a conflicting sense of their own responsibilities.\n\nQueen at Sea is directed by indie US film-maker Lance Hammer, absent since his 2008 Sundance winner, Ballast . This is an almighty comeback, a lacerating movie bearing comparison with Michael Haneke’s Amour or Gaspar Noé’s Vortex . It concludes with a heartbreakingly ironic and enigmatic final sequence refusing the traditional final cadence; a diptych of love, contrasting the pleasures and expectations of intimacy across the generations.",
+        "fullTranslation": "在汤姆·康特奈与安娜·考尔德-马歇尔的精湛演绎下，兰斯·哈默的这部回归之作以其悲剧性的坦率令人难以承受，同时在道德拷问上也显得至关重要。\n\n这个难以言喻、痛苦而悲伤的故事——展现了汤姆·康特奈与安娜·考尔德-马歇尔在演艺生涯后期充满愤怒、复杂而精彩的表演——围绕认知症、照护的终局，以及当身为照料者的配偶与患者同样脆弱时所需做出的抉择（以及究竟谁有权做出这些决定）展开。它关乎两人之间亲密关系的本质；也关乎当这份关系成为成年子女的难题时，他们内心对自身责任产生的矛盾与纠葛。\n\n《海上女王》由美国独立电影导演兰斯·哈默执导，他自2008年在日舞影展获奖的作品《压舱石》之后便一直沉寂。这是一次震撼人心的强势回归，一部足可与迈克尔·哈内克的《爱》或加斯帕·诺的《漩涡》相媲美的心碎之作。影片以一段令人心碎、充满讽刺且神秘莫测的结尾收束，拒绝了传统意义上的终曲收尾；宛如一幅关于爱的双联画，对比了不同世代在亲密关系中的欢愉与期许。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "电影《Queen at Sea》由美国独立导演兰斯·汉默（Lance Hammer）执导。",
+          "电影《Queen at Sea》由汤姆·康特奈（Tom Courtenay）与安娜·考尔德-马歇尔（Anna Calder-Marshall）主演。",
+          "来源叙事重点：聚焦独立电影《Queen at Sea》对失智症照护终局、伴侣亲密关系与代际照护冲突的深刻剖析，高度评价导演兰斯·汉默的回归以及主演的表演与道德叩问。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:05:02.000Z",
+            "url": "https://www.theguardian.com/film/2026/feb/18/queen-at-sea-review-crushingly-sad-dementia-drama-offers-a-startling-portrait-of-intimacy"
+          }
+        ]
+      },
+      {
+        "id": "story-an-wrong-indigenous-html-be13d28787c466da",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What major tests like PISA and NAPLAN get wrong about Indigenous students",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:20:01.000Z",
+        "pubTime": "2026-09-17 21:20",
+        "url": "https://phys.org/news/2026-09-major-pisa-naplan-wrong-indigenous.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/-aboriginal-australian.jpg",
+        "fullContent": "We've just received the results of the latest PISA test—the international assessment of 15-year-olds' science, math and reading skills.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-17 21:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-major-pisa-naplan-wrong-indigenous.html",
+            "publishedAt": "2026-09-17T13:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-uzhchina-2118290332-html-50c8229959750f46",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Волгоградской области задержали подозреваемого в оправдании терроризма",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T13:32:26.000Z",
+        "pubTime": "2026-09-17 21:32",
+        "url": "https://ria.ru/20260917/muzhchina-2118290332.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/07/18/1961800044_0:38:3571:2047_650x0_80_0_0_ab118daa42b665ede82f0db4f52317ff.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-17 21:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260917/muzhchina-2118290332.html",
+            "publishedAt": "2026-09-17T13:32:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tify-fresh-finds-forward-f268307ce1efb2d7",
+        "title": "Spotify推出Fresh Finds Forward计划：为音乐人提供免费录音室使用时长等支持",
+        "originalTitle": "Spotify’s Fresh Finds Forward gives artists free studio time and more",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:00:00.000Z",
+        "pubTime": "2026-09-17 21:00",
+        "url": "https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/FFF-graphic-16x9-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Entertainment\n\nSpotify is providing emerging artists with a ton of resources, including free therapy.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nGetting added to Spotify’s Fresh Finds playlists can be a huge break for artists trying to cut through the noise on streaming. Now Spotify is launching a program called Fresh Finds Forward, which aims to give artists the tools to capitalize on that exposure. Artists added to any Fresh Finds playlist after January 1st, 2026, can join the program and get 12 months of additional resources, the most extravagant of which is free studio time for US-based artists at Electric Lady Studios in NYC, The Lighthouse at Ocean Way Nashville, or Spotify Studios in LA.\n\nBeyond that, artists will get early access to Spotify tools and features, priority access to tour and music video partnerships, as well as 12 months of Landr Studio Pro and Splice’s Creator Plan. Spotify is also offering artists six months of free therapy through BetterHelp, because we all know trying to make it as a musician is stressful and potentially soul-crushing, as scoring a Fresh Finds placement doesn’t guarantee there won’t be further rejections and failures.\n\nUnlike with the so-called Discovery Mode, where artists were paid a “promotional royalty rate,” in exchange for higher algorithmic promotion, Spotify says the Fresh Finds Forward program doesn’t change royalty rates, and is provided completely free of charge to participating artists.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题下的文章将被添加到您的每日电子邮件文摘和主页推送中。\n查看所有娱乐资讯\nSpotify正在为新兴音乐人提供大量资源，包括免费心理咨询。\n该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。\n查看Terrence O'Brien的所有文章\n入选Spotify的Fresh Finds歌单，对于试图在流媒体竞争中脱颖而出的音乐人而言，可能是一个重大突破。如今，Spotify正推出一项名为Fresh Finds Forward的计划，旨在为音乐人提供将此类曝光变现并加以利用的工具。凡在2026年1月1日之后被添加到任何Fresh Finds歌单的音乐人均可加入该计划，并获得为期12个月的额外资源支持，其中最丰厚的一项是为常驻美国的音乐人提供免费录音室使用时长，可选地点包括纽约市的Electric Lady Studios、纳什维尔的The Lighthouse at Ocean Way以及洛杉矶的Spotify Studios。\n除此之外，音乐人还将获得提前使用Spotify工具与新功能的资格、巡演及音乐录像带合作的优先机会，以及为期12个月的Landr Studio Pro和Splice Creator Plan订阅。Spotify还通过BetterHelp为音乐人提供为期6个月的免费心理咨询，因为众所周知，在这个行业谋求成功充满压力且极易让人心力交瘁，毕竟登上Fresh Finds歌单并不能保证后续不会遭遇更多拒绝与挫折。\n与所谓的“发现模式”（Discovery Mode，即音乐人接受较低的“推广版税率”以换取更多算法推荐）不同，Spotify表示Fresh Finds Forward计划不会变动版税率，且完全向参与音乐人免费提供。\n汇集核心重磅资讯的免费每日文摘。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Spotify 推出名为 Fresh Finds Forward 的新项目，旨在为新秀艺术家提供利用曝光机会的工具与资源。",
+          "在 2026 年 1 月 1 日之后被加入任何 Fresh Finds 播放列表的艺术家可以加入该项目，并获得 12 个月的额外资源。",
+          "来源叙事重点：报道聚焦于 Spotify 针对新兴艺术家推出的“Fresh Finds Forward”扶持计划，详细列举其包含的免费录音室工时、创作软件订阅、心理健康支持等具体福利，并着重与此前饱受争议的“削减版税换取曝光”的 Discovery Mode 进行对比，强调该计划免费且不改变版税分配的正面属性"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:00:00.000Z",
+            "url": "https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward"
+          }
+        ]
+      },
+      {
+        "id": "story-5-4c1d-af93-deb5810f635a-d666d8784612a5b5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Bank of England says rates likely to rise as it overhauls gilt sales",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:13:12.000Z",
+        "pubTime": "2026-09-17 21:13",
+        "url": "https://www.ft.com/content/44bc4245-f235-4c1d-af93-deb5810f635a?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb3d2323c-267e-483c-8264-8369d81c9ef4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "BoE holds rates at 3.75% but signals higher borrowing costs are likely",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-17 21:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/44bc4245-f235-4c1d-af93-deb5810f635a?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-17T13:13:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--local-vaccine-campaigns-26910da920fc880d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "With US measles deaths on the rise, local officials are stepping in where RFK Jr won’t",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T12:00:50.000Z",
+        "pubTime": "2026-09-17 20:00",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/measles-deaths-local-vaccine-campaigns",
+        "imageUrl": "https://i.guim.co.uk/img/media/cda33a5b7d3a311c0ebbe3e95d784d3086b7c380/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b4bcdb4923ef03ca191b6e1635bc6a9b",
+        "fullContent": "As the country’s top public health official spends his time in office undermining science, doctors and advocates mount an urgent campaign for childhood vaccines\n\nOn an early September morning, dozens of families stood in line outside a clinic in Yeadon, Pennsylvania. It was “exclusion day”, the deadline by which students without complete immunizations are barred from returning to class.\n\nInstead of turning families away, school district leaders partnered with the county health department to vaccinate kids nearby so they could go back to their desks. That day, 42 middle and high school students were vaccinated to protect against tetanus, pertussis and meningitis, among other diseases.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "9月初的一个早晨，宾夕法尼亚州耶登（Yeadon）数十个家庭在诊所外排队，当天是未完成免疫接种学生禁止返校的截止日期（“排斥日”）。",
+          "当地学区负责人与县卫生局合作，在附近为学生接种疫苗以便返校。",
+          "来源叙事重点：重点描摹地方学区与基层公共卫生官员在联邦监管角色缺位及科学遭侵蚀的背景下，主动介入填补疫苗接种空白，确保学龄儿童获得必要免疫防护并重返课堂。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T12:00:50.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/17/measles-deaths-local-vaccine-campaigns"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-0917-sud-2118290802-html-cead15792b6c1787",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Челябинске осудили подростка, стрелявшего из ракетницы в знакомого",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T13:33:19.000Z",
+        "pubTime": "2026-09-17 21:33",
+        "url": "https://ria.ru/20260917/sud-2118290802.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/156115/95/1561159562_0:180:3004:1870_650x0_80_0_0_d54ae5d36afd91ffb5018296652c9735.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-17 21:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260917/sud-2118290802.html",
+            "publishedAt": "2026-09-17T13:33:19.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-otaxi-partner-for-europe-e2e8cc1abed18415",
+        "title": "Lucid Motors 迎来潜在欧洲无人出租车合作伙伴",
+        "originalTitle": "Lucid Motors has a potential robotaxi partner for Europe",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:26:32.000Z",
+        "pubTime": "2026-09-17 21:26",
+        "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+        "imageUrl": null,
+        "fullContent": "Lucid Motors has entered into a partnership with European mobility platform Bolt that could bring robotaxis made by the California company to the continent.\n\nThe two companies announced Thursday that Bolt “aims to deploy at least 25,000 fully autonomous vehicles” built on Lucid’s upcoming mid-size EV architecture, which is supposed to be smaller and cheaper than its current offerings.\n\nThe announcement follows a major restructuring at Lucid Motors under its new CEO, Silvio Napoli, who recently laid off nearly 20% of the company’s workforce and delayed the launch of the first vehicle to be built on the mid-size platform by almost a year to the second half of 2027.\n\nLucid Motors has yet to deploy a commercial robotaxi version of either of its two existing vehicles. The company has spent the last year working in partnership with Uber and autonomous vehicle firm Nuro to launch a robotaxi version of its Gravity SUV. That is supposed to happen by the end of 2026.\n\nNapoli has said he believes the business of becoming a robotaxi provider would have margins that “vastly” exceed those of “the traditional retail model.”\n\nBolt intends to own and operate the fleet, according to a press release. The two companies “will work together from the product-development stage on an autonomous driving system (ADS)-ready vehicle platform,” it says.\n\nThe vehicles will use Nvidia’s autonomous vehicle compute and sensing architecture (called Hyperion), but the companies did not say which company (or companies) will provide the autonomous driving software. Lucid declined to offer any more information beyond what was in the press release.\n\nNo money has changed hands, and Bolt has not placed an order for the vehicles. There is also no public timeline for deployment — only that Bolt considers this a “major step toward” its “ambition of 100,000 autonomous vehicles on its platform by 2035.”\n\n“Autonomous driving in Europe requires data, software, vehicles, and operations to work as one system built for European roads and regulation,” Markus Villig, founder and CEO of Bolt, said in a statement. “Lucid brings a world-class platform, and together, we will co-design the vehicle and software based on our data and more than a decade of operating experience across more than 850 cities. No one is better placed to operate autonomous mobility services efficiently at scale.”\n\nNapoli, in a statement, said, “Bolt’s reach and operating expertise make it an ideal partner to scale autonomous mobility across Europe.” .\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSr. Reporter, Transportation\n\nSean O’Kane is a reporter who has spent a decade covering the rapidly-evolving business and technology of the transportation industry, including Tesla and the many startups chasing Elon Musk. Most recently, he was a reporter at Bloomberg News where he helped break stories about some of the most notorious EV SPAC flops. He previously worked at The Verge, where he also covered consumer technology, hosted many short- and long-form videos, performed product and editorial photography, and once nearly passed out in a Red Bull Air Race plane.\n\nYou can contact or verify outreach from Sean by emailing sean.okane@techcrunch.com or via encrypted message at okane.01 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nMatt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster\n\nOpenAI puts Pro subscriptions on hold due to Astra demand",
+        "fullTranslation": "Lucid Motors 已与欧洲出行平台 Bolt 达成合作，此举或将把这家加州公司生产的自动驾驶出租车（robotaxi）引入欧洲大陆。\n\n两家公司于周四宣布，Bolt“计划部署至少 2.5 万辆完全自动驾驶汽车”，这些车辆将基于 Lucid 即将推出的中型电动汽车架构打造。该架构的产品预计将比该公司目前在售的车型尺寸更小、价格更便宜。\n\n在这一合作发布之前，Lucid Motors 在新任首席执行官西尔维奥·纳波利（Silvio Napoli）的领导下进行了重大重组。纳波利最近裁员了近 20%，并将首款基于该中型平台打造的汽车的发布时间推迟了近一年，至 2027 年下半年。\n\nLucid Motors 迄今尚未对其现有的两款车型推出任何商业化运营的无人出租车版本。在过去一年里，该公司一直与 Uber 及自动驾驶公司 Nuro 合作，计划推出其 Gravity SUV 的无人出租车版本，预计将在 2026 年底实现。\n\n纳波利曾表示，他相信成为无人出租车供应商的利润率将“大幅”超越“传统零售模式”。\n\n根据新闻稿，Bolt 打算拥有并运营该车队。新闻稿称，两家公司“将从产品开发阶段展开合作，打造一个支持自动驾驶系统（ADS-ready）的汽车平台”。\n\n这些车辆将采用英伟达（Nvidia）的自动驾驶汽车计算和传感架构（名为 Hyperion），但两家公司未透露将由哪家（或哪几家）公司提供自动驾驶软件。Lucid 拒绝在新闻稿之外提供更多信息。\n\n双方目前尚未发生资金交易，Bolt 也未正式下单订购车辆。目前也没有公开的部署时间表，Bolt 仅表示这是迈向其“到 2035 年在平台上部署 10 万辆自动驾驶汽车雄心”的“重要一步”。\n\nBolt 创始人兼首席执行官马库斯·维利格（Markus Villig）在一份声明中表示：“欧洲的自动驾驶需要数据、软件、车辆和运营作为一个专为欧洲道路和法规构建的整体系统协同工作。Lucid 带来了世界级的平台，双方将基于我们的数据以及在 850 多个城市超过十年的运营经验，共同设计车辆和软件。没有人比我们更有优势高效地实现规模化自动驾驶出行服务运营。”\n\n纳波利在一份声明中表示：“Bolt 的业务覆盖范围和运营专长使其成为在全欧洲规模化推进自动驾驶出行的理想合作伙伴。”\n\n当您通过我们文章中的链接购买商品时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。\n\n交通领域资深记者\n肖恩·奥凯恩（Sean O'Kane）是一名拥有十年报道经验的记者，长期报道交通行业快速演变的商业和技术动态，包括特斯拉以及众多追赶埃隆·马斯克的初创公司。在此之前，他是彭博新闻社（Bloomberg News）的记者，曾参与报道了一些最受瞩目的电动车 SPAC 破产爆雷事件。他此前还曾在 The Verge 工作，期间报道消费科技、主持多档长短视频节目、从事产品及新闻摄影，并曾在一架红牛特技飞行赛飞机上险些昏厥。\n您可以通过发送邮件至 sean.okane@techcrunch.com 或通过 Signal 加密信息（okane.01）联系肖恩或验证其外联信息。\n\n预订展位的最后截止日期为 9 月 18 日。不要错过在 Disrupt 展厅获取高价值潜在客户、对接投资者以及提升品牌曝光的机会。\n\n清洁科技初创公司 Fluxnium 发现开发可用 5 万年的核燃料的方法\n黄仁勋接听特朗普电话，并展示了另一项成果\n风险投资人眼中的 Y Combinator 最新 Demo Day 9 大最热门初创公司\n特斯拉称终于将在 10 月 1 日发布第二代 Roadster\nRevolut 证实因虚假政府调取要求导致客户数据泄露\n马特·穆伦维格（Matt Mullenweg）向 Automattic 员工表态（或是调侃？），称在 CEO 被逐后重掌控制权\n由于 Astra 需求过大，OpenAI 暂停 Pro 订阅",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "Lucid Motors 与欧洲移动出行平台 Bolt 达成合作，可能将加州制造的自动驾驶出租车（robotaxi）引入欧洲。",
+          "Bolt 目标部署至少 25,000 辆基于 Lucid 即将推出的中型纯电架构打造的全自动驾驶汽车。",
+          "来源叙事重点：报道一方面呈现 Lucid 与 Bolt 宣布在欧洲部署 2.5 万辆 Robotaxi 的合作远景，另一方面重点揭示该合作实质处于极早期阶段——无资金交易、无采购订单、无软件供应商、缺乏明确落地时间表，并将其置于 Lucid 刚经历 20% 大裁员及中型平台车型延期至 2027 年下半年的重组困境背景下审视。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:26:32.000Z",
+            "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/"
+          }
+        ]
+      },
+      {
+        "id": "story--as-gas-prices-soar-html-0ea9fd4c07f2f651",
+        "title": "气价飙升，英国能源账单自明年1月起或暴涨25%至30%",
+        "originalTitle": "UK Energy Bills Could Jump 25-30% From January as Gas Prices Soar",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:30:00.000Z",
+        "pubTime": "2026-09-17 21:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Bills-Could-Jump-25-30-From-January-as-Gas-Prices-Soar.html",
+        "imageUrl": null,
+        "fullContent": "The UK household energy bills could jump by between 25% and 30% in the first quarter of 2027 amid surging natural gas prices as the Middle East crisis drags on, analysts say, warning that the government may have to spend more money on measures to ease the cost-of-living crisis. Household energy bills will rise by 4% from October for the fourth quarter of this year. But the jump for the first quarter of 2027 could be as high as 30%, according to a forecast by France's EDF, one of the biggest energy providers in the UK, cited by the Independent. Earlier this week, another forecast, from Bloomberg Economics, projected UK household energy bills to spike by 25% for the period January to March 2027, as international gas prices soar with the escalation of the Middle East conflict. UK's energy regulator Ofgem last month raised the energy price cap on household bills by 4% for October through December 2026, which means bills would be at a three-year high at the beginning of the winter. The UK has a so-called Energy Price Cap in place, which protects households from excessively high bills by capping the price that energy utility providers can pass on to them. The price cap is a limit on what suppliers can charge domestic consumers per kilowatt hour of energy used. The quarterly adjustment of this energy cap could see a sharp spike for the rest of this winter in January to March 2027, as gas prices continue to rally and global LNG supply remains reduced by Qatari and UAE cargoes not leaving the Strait of Hormuz. EDF projects the regulator Ofgem to hike the energy price cap by 30% to &pound;2,165 $2,897 a year for a typical household for January-March, compared to &pound;1,723, or $2,306, for October-December 2026. Bloomberg Economics, for its part, expects the price cap to jump by about 25%, or by &pound;427 $571 to about &pound;2,150 $2,878 per UK household per year. By Michael Kern for Oilprice.com",
+        "fullTranslation": "分析师表示，随着中东危机持续拖累局势导致天然气价格飙升，英国居民家庭能源账单在2027年第一季度可能会猛增25%至30%。他们警告称，政府可能不得不投入更多资金采取措施以缓解生活成本危机。\n\n今年第四季度，自10月起家庭能源账单将上涨4%。但据《独立报》（The Independent）援引英国最大能源供应商之一——法国电力公司（EDF）的预测，2027年第一季度的涨幅可能高达30%。\n\n本周早些时候，彭博经济研究（Bloomberg Economics）发布的另一份预测也显示，随着中东冲突升级带动国际天然气价格飙升，2027年1月至3月期间英国居民家庭能源账单预计将暴涨25%。\n\n英国能源监管机构天然气与电力市场办公室（Ofgem）上个月将2026年10月至12月的家庭能源价格上限上调了4%，这意味着入冬之初账单金额将达到三年来的最高水平。\n\n英国实行所谓的“能源价格上限”（Energy Price Cap）机制，通过限制公用事业能源供应商可转嫁给家庭的价格，防止居民承担过高的账单。该价格上限规定了供货商向国内消费者收取的每千瓦时能源费用的最高限额。\n\n随着天然气价格持续走高，且由于卡塔尔和阿联酋的货轮无法离开霍尔木兹海峡导致全球液化天然气（LNG）供应持续受限，在2027年1月至3月这个冬季的剩余阶段，能源价格上限的季度调整可能会出现急剧飙升。\n\n法国电力公司预计，监管机构Ofgem将在1月至3月期间将普通家庭的能源价格上限上调30%，达到每年2,165英镑（约合2,897美元），而2026年10月至12月期间则为1,723英镑（约合2,306美元）。\n\n彭博经济研究则预计，价格上限将上涨约25%（即每户每年增加427英镑/571美元），达到每户每年约2,150英镑（约合2,878美元）。\n\n记者：迈克尔·科恩（Michael Kern），Oilprice.com报道",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 9,
+        "keyTakeaways": [
+          "英国能源监管机构Ofgem上月将2026年10月至12月的家庭能源价格上限上调了4%，使账单在入冬初期达到三年来的高点。",
+          "英国实行能源价格上限（Energy Price Cap）机制，限制公用事业供应商向家庭消费者收取的每千瓦时能源费用。",
+          "来源叙事重点：聚焦中东地缘政治危机导致霍尔木兹海峡LNG运输受阻、国际气价暴涨，进而预测2027年第一季度英国家庭能源账单将面临25%至30%的大幅跳涨，加剧生活成本危机并给政府财政施加更大压力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Bills-Could-Jump-25-30-From-January-as-Gas-Prices-Soar.html"
+          }
+        ]
+      },
+      {
+        "id": "story-dhd-rationing-healthcare-7a2272d0793f1777",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Plan to limit number of NHS patients diagnosed with ADHD attacked as ‘rationing’ healthcare",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:14:43.000Z",
+        "pubTime": "2026-09-17 21:14",
+        "url": "https://www.theguardian.com/society/2026/sep/17/plan-limit-number-nhs-patients-diagnosed-adhd-rationing-healthcare",
+        "imageUrl": "https://i.guim.co.uk/img/media/4dd3c839648b26311d05a5dc92b361607b27cf15/254_0_4242_3394/master/4242.jpg?width=140&quality=85&auto=format&fit=max&s=74a76c9ad35ede7b3931440e7c13d6e8",
+        "fullContent": "Review due next week expected to say patients should be ‘triaged’ and offered support without formal diagnosis\n\nProposals to limit the number of patients being formally diagnosed with attention deficit hyperactivity disorder have been atacked as “rationing” healthcare and pushing children and adults to self-diagnosis via social media.\n\nThe comments come ahead of a government review due next week, which is expected to say that patients with ADHD symptoms should not automatically be formally diagnosed, but should be “triaged” and offered support without the need for a formal diagnosis.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "限制正式确诊注意缺陷多动障碍（ADHD）患者人数的提议受到批评，被指责为“配给制”医疗服务，并将儿童和成年人推向通过社交媒体进行自我诊断。",
+          "英国政府预计于下周发布一项审查报告。",
+          "来源叙事重点：聚焦于批评英国政府和NHS拟限制ADHD正式确诊数量的计划，重点突出批评者将该提议指责为医疗资源“配给制”（配额限制），并警示此举可能迫使患者转向社交媒体自我诊断的风险"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:14:43.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/17/plan-limit-number-nhs-patients-diagnosed-adhd-rationing-healthcare"
+          }
+        ]
+      },
+      {
+        "id": "story--reveal-hidden-ship-html-a91127e49eb91939",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Laser scans reveal 23 hidden ship carvings on Bronze Age temple wall in Cyprus",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:20:06.000Z",
+        "pubTime": "2026-09-17 21:20",
+        "url": "https://phys.org/news/2026-09-laser-scans-reveal-hidden-ship.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-scans-reveal-23.jpg",
+        "fullContent": "About 40 years ago, researchers found ancient ship carvings on a temple wall in Cyprus, possibly all carved at once at the tail end of the Bronze Age, around the time of the infamous Bronze Age collapse. Then, decades later, a new study revealed they had missed nearly two dozen ancient carvings.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-17 21:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-laser-scans-reveal-hidden-ship.html",
+            "publishedAt": "2026-09-17T13:20:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-elenskiy-2118290484-html-07c09d61d109db55",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Зеленский взбесил пользователей Сети словами о давлении на Россию",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T13:32:35.000Z",
+        "pubTime": "2026-09-17 21:32",
+        "url": "https://ria.ru/20260917/zelenskiy-2118290484.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-17 21:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260917/zelenskiy-2118290484.html",
+            "publishedAt": "2026-09-17T13:32:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-econd-gen-wireless-sport-2c8cb78011bc2d19",
+        "title": "Bose下一代开放式耳塞带来更强低音、更高音量及更长续航",
+        "originalTitle": "Bose’s next open earbuds have more bass, more volume, and more battery life",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:00:00.000Z",
+        "pubTime": "2026-09-17 21:00",
+        "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bose1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nThe second-gen Ultra Open Earbuds are joined by a new sport option providing a more secure fit when you’re active.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Andrew Liszewski\n\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\n\nBose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They’re also joined by a new cheaper alternative called the Bose Sport Open Earbuds designed to provide a more secure and stable fit during physical activities.\n\nThe Bose Ultra Open Earbuds (2nd Gen) will be available for preorder on September 19th for $299 with availability starting on October 1st. Color options include black, white smoke, cherry chocolate, olive green, and sky pink. Preorders and availability for the Bose Sport Open Earbuds are the same, but they’re $100 cheaper at $199. Colors include black, white smoke, and eucalyptus green.\n\nLike the original version, the new Ultra Open Earbuds (2nd Gen) feature a design that clips to your outer ear with a transducer that directs audio into your ear canal with “minimal sound leakage,” Bose claims. There’s still no ANC because these are designed to do the exact opposite and let you hear what’s going on around you while enjoying music or a podcast.\n\nIn addition to a refreshed design with a new beveled finish on each earbud’s metal cap, the 2nd Gen feature a new driver delivering higher volume with automatic adjustments and deeper bass. A new Cinema Mode simulates a “wider, more immersive soundstage” using Bose’s TrueSpatial technology while keeping dialogue clear and centered. Battery life with the buds alone has been boosted to up to nine hours (from seven hours) with an additional 19.5 hours of playback from the redesigned case that can now stand upright for use on a wireless charger.\n\nThe Bose Sport Open Earbuds take a similar approach with a design that clips to your ear to project sounds inward, but they feature a thinner cuff with a “soft silicone matte finish” providing more grip to keep them in place. Bose says the Sport version will stay secure during head shakes, cartwheels, and running. They also feature automatic volume adjustments that adapt to ambient noise levels to ensure what you’re listening to isn’t drowned out, and the customizable shortcut button on the end of each battery barrel has an added texture, so they’re easier to find while working out. Battery life is rated at up to seven hours of playback plus an additional 22 hours with the wireless charging case.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的相关文章将添加到您的每日电子邮件摘要和主页信息流中。\n\n第二代 Ultra Open Earbuds 还迎来了一款新的运动版选择，能在运动时提供更加稳固的贴合度。\n\n该作者的相关文章将添加到您的每日电子邮件摘要和主页信息流中。\n\n查看 Andrew Liszewski 的全部文章\n\n如果您通过 The Verge 的链接购买商品，Vox Media 可能会获得佣金。详见我们的道德声明。\n\nBose 发布了其 Ultra Open Earbuds 的新版本。近两年半前，正是这款产品推动了夹耳式无线耳机的行业潮流。新款 Ultra Open Earbuds（第二代）外观微调，在音质和电池续航方面均有性能提升。此外，Bose 还推出了一款售价更低的替代产品——Bose Sport Open Earbuds，旨在为体育运动期间提供更加安全、稳定的佩戴体验。\n\nBose Ultra Open Earbuds（第二代）将于 9 月 19 日开启预订，售价 299 美元，10 月 1 日正式发售。配色包括黑色、烟白、樱桃巧克力色、橄榄绿和天空粉。Bose Sport Open Earbuds 的预订和发售时间相同，但价格便宜了 100 美元，售价为 199 美元。配色包括黑色、烟白和尤加利绿。\n\n与初代产品一样，新款 Ultra Open Earbuds（第二代）采用夹在耳廓上的设计，并通过换能器将声音传递入耳道，Bose 称其具有“极小的漏音”。该耳机仍不支持主动降噪（ANC），因为其设计初衷恰恰相反——让用户在享受音乐或播客的同时，能够听清周围环境的声音。\n\n除了在每个耳塞金属端盖上采用全新斜角倒角处理的翻新设计外，第二代耳机还配备了新驱动单元，可带来更高的音量（支持自动调节）和更深沉的低音。全新的“影院模式”（Cinema Mode）利用 Bose 的 TrueSpatial 空间音频技术模拟出“更宽广、更身临其境的声场”，同时保持人声对白清晰且居中。单次充电下耳塞本身的续航时间已提升至最长 9 小时（原为 7 小时），重新设计的充电盒还可额外提供 19.5 小时的播放时间，且该充电盒现在可以直立放置在无线充电器上使用。\n\nBose Sport Open Earbuds 采用了类似的设计理念，同样通过夹在耳朵上向内投射声音，但其耳夹更薄，并配有“哑光软硅胶涂层”，可提供更强的抓附力以防脱落。Bose 表示，运动版即使在晃头、侧手翻和跑步时也能保持稳固。该耳机同样支持根据环境噪音水平自动调节音量，确保所听内容不会被淹没；每个电池柱末端的可定制快捷按键还增加了纹理，方便在运动时盲操摸索。该耳机的标称播放续航长达 7 小时，搭配无线充电盒还可额外使用 22 小时。\n\n一份汇聚最重要的资讯的免费每日要闻摘要。\n\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "Bose宣布推出第二代Ultra Open Earbuds以及更便宜的替代款Bose Sport Open Earbuds",
+          "Bose Ultra Open Earbuds（第二代）售价为299美元，将于9月19日开启预售，10月1日正式发售",
+          "来源叙事重点：重点介绍Bose发布的第二代Ultra Open Earbuds及平价运动款Sport Open Earbuds，突出其在音质提升、续航增强、佩戴稳定性及价格区间上的定位与规格更新。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:00:00.000Z",
+            "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport"
+          }
+        ]
+      },
+      {
+        "id": "story--a-50-000-heloc-d094bbc5-be01d1a76a11f64b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:15:00.000Z",
+        "pubTime": "2026-09-17 21:15",
+        "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-17 21:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-17T13:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ing-portrait-of-intimacy-e683c19ecf8e13bb",
+        "title": "《海上女王》影评：令人心碎的认知症题材佳作，刻画震撼人心的亲密关系",
+        "originalTitle": "Queen at Sea review – crushingly sad dementia drama offers a startling portrait of intimacy",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:05:02.000Z",
+        "pubTime": "2026-09-17 21:05",
+        "url": "https://www.theguardian.com/film/2026/feb/18/queen-at-sea-review-crushingly-sad-dementia-drama-offers-a-startling-portrait-of-intimacy",
+        "imageUrl": "https://i.guim.co.uk/img/media/0ae9b3ec0d5c5dc0d5129a1b8b2c8d9147261f63/667_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=c03f61428367f0d9181943656a66b13d",
+        "fullContent": "Driven by fine performances from Tom Courtenay and Anna Calder-Marshall, Lance Hammer’s comeback is unbearable in its tragic candour and essential in its moral questioning\n\nThis inexpressibly painful and sad story – featuring angry, complex, brilliant late-career performances from Tom Courtenay and Anna Calder-Marshall – is about dementia, the endgame of care and the decisions that need to be made when the spouse-carer is as vulnerable as the patient (and whose right it is to take those decisions). It is about the nature of intimacy between the two; and about the moment this becomes a problem for the grownup children with a conflicting sense of their own responsibilities.\n\nQueen at Sea is directed by indie US film-maker Lance Hammer, absent since his 2008 Sundance winner, Ballast . This is an almighty comeback, a lacerating movie bearing comparison with Michael Haneke’s Amour or Gaspar Noé’s Vortex . It concludes with a heartbreakingly ironic and enigmatic final sequence refusing the traditional final cadence; a diptych of love, contrasting the pleasures and expectations of intimacy across the generations.",
+        "fullTranslation": "在汤姆·康特奈与安娜·考尔德-马歇尔的精湛演绎下，兰斯·哈默的这部回归之作以其悲剧性的坦率令人难以承受，同时在道德拷问上也显得至关重要。\n\n这个难以言喻、痛苦而悲伤的故事——展现了汤姆·康特奈与安娜·考尔德-马歇尔在演艺生涯后期充满愤怒、复杂而精彩的表演——围绕认知症、照护的终局，以及当身为照料者的配偶与患者同样脆弱时所需做出的抉择（以及究竟谁有权做出这些决定）展开。它关乎两人之间亲密关系的本质；也关乎当这份关系成为成年子女的难题时，他们内心对自身责任产生的矛盾与纠葛。\n\n《海上女王》由美国独立电影导演兰斯·哈默执导，他自2008年在日舞影展获奖的作品《压舱石》之后便一直沉寂。这是一次震撼人心的强势回归，一部足可与迈克尔·哈内克的《爱》或加斯帕·诺的《漩涡》相媲美的心碎之作。影片以一段令人心碎、充满讽刺且神秘莫测的结尾收束，拒绝了传统意义上的终曲收尾；宛如一幅关于爱的双联画，对比了不同世代在亲密关系中的欢愉与期许。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "电影《Queen at Sea》由美国独立导演兰斯·汉默（Lance Hammer）执导。",
+          "电影《Queen at Sea》由汤姆·康特奈（Tom Courtenay）与安娜·考尔德-马歇尔（Anna Calder-Marshall）主演。",
+          "来源叙事重点：聚焦独立电影《Queen at Sea》对失智症照护终局、伴侣亲密关系与代际照护冲突的深刻剖析，高度评价导演兰斯·汉默的回归以及主演的表演与道德叩问。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:05:02.000Z",
+            "url": "https://www.theguardian.com/film/2026/feb/18/queen-at-sea-review-crushingly-sad-dementia-drama-offers-a-startling-portrait-of-intimacy"
+          }
+        ]
+      },
+      {
+        "id": "story-an-wrong-indigenous-html-be13d28787c466da",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What major tests like PISA and NAPLAN get wrong about Indigenous students",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:20:01.000Z",
+        "pubTime": "2026-09-17 21:20",
+        "url": "https://phys.org/news/2026-09-major-pisa-naplan-wrong-indigenous.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/-aboriginal-australian.jpg",
+        "fullContent": "We've just received the results of the latest PISA test—the international assessment of 15-year-olds' science, math and reading skills.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-17 21:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-major-pisa-naplan-wrong-indigenous.html",
+            "publishedAt": "2026-09-17T13:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-uzhchina-2118290332-html-50c8229959750f46",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Волгоградской области задержали подозреваемого в оправдании терроризма",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T13:32:26.000Z",
+        "pubTime": "2026-09-17 21:32",
+        "url": "https://ria.ru/20260917/muzhchina-2118290332.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/07/18/1961800044_0:38:3571:2047_650x0_80_0_0_ab118daa42b665ede82f0db4f52317ff.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-17 21:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260917/muzhchina-2118290332.html",
+            "publishedAt": "2026-09-17T13:32:26.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tify-fresh-finds-forward-f268307ce1efb2d7",
+        "title": "Spotify推出Fresh Finds Forward计划：为音乐人提供免费录音室使用时长等支持",
+        "originalTitle": "Spotify’s Fresh Finds Forward gives artists free studio time and more",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:00:00.000Z",
+        "pubTime": "2026-09-17 21:00",
+        "url": "https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/FFF-graphic-16x9-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nSee All Entertainment\n\nSpotify is providing emerging artists with a ton of resources, including free therapy.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nGetting added to Spotify’s Fresh Finds playlists can be a huge break for artists trying to cut through the noise on streaming. Now Spotify is launching a program called Fresh Finds Forward, which aims to give artists the tools to capitalize on that exposure. Artists added to any Fresh Finds playlist after January 1st, 2026, can join the program and get 12 months of additional resources, the most extravagant of which is free studio time for US-based artists at Electric Lady Studios in NYC, The Lighthouse at Ocean Way Nashville, or Spotify Studios in LA.\n\nBeyond that, artists will get early access to Spotify tools and features, priority access to tour and music video partnerships, as well as 12 months of Landr Studio Pro and Splice’s Creator Plan. Spotify is also offering artists six months of free therapy through BetterHelp, because we all know trying to make it as a musician is stressful and potentially soul-crushing, as scoring a Fresh Finds placement doesn’t guarantee there won’t be further rejections and failures.\n\nUnlike with the so-called Discovery Mode, where artists were paid a “promotional royalty rate,” in exchange for higher algorithmic promotion, Spotify says the Fresh Finds Forward program doesn’t change royalty rates, and is provided completely free of charge to participating artists.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题下的文章将被添加到您的每日电子邮件文摘和主页推送中。\n查看所有娱乐资讯\nSpotify正在为新兴音乐人提供大量资源，包括免费心理咨询。\n该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。\n查看Terrence O'Brien的所有文章\n入选Spotify的Fresh Finds歌单，对于试图在流媒体竞争中脱颖而出的音乐人而言，可能是一个重大突破。如今，Spotify正推出一项名为Fresh Finds Forward的计划，旨在为音乐人提供将此类曝光变现并加以利用的工具。凡在2026年1月1日之后被添加到任何Fresh Finds歌单的音乐人均可加入该计划，并获得为期12个月的额外资源支持，其中最丰厚的一项是为常驻美国的音乐人提供免费录音室使用时长，可选地点包括纽约市的Electric Lady Studios、纳什维尔的The Lighthouse at Ocean Way以及洛杉矶的Spotify Studios。\n除此之外，音乐人还将获得提前使用Spotify工具与新功能的资格、巡演及音乐录像带合作的优先机会，以及为期12个月的Landr Studio Pro和Splice Creator Plan订阅。Spotify还通过BetterHelp为音乐人提供为期6个月的免费心理咨询，因为众所周知，在这个行业谋求成功充满压力且极易让人心力交瘁，毕竟登上Fresh Finds歌单并不能保证后续不会遭遇更多拒绝与挫折。\n与所谓的“发现模式”（Discovery Mode，即音乐人接受较低的“推广版税率”以换取更多算法推荐）不同，Spotify表示Fresh Finds Forward计划不会变动版税率，且完全向参与音乐人免费提供。\n汇集核心重磅资讯的免费每日文摘。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Spotify 推出名为 Fresh Finds Forward 的新项目，旨在为新秀艺术家提供利用曝光机会的工具与资源。",
+          "在 2026 年 1 月 1 日之后被加入任何 Fresh Finds 播放列表的艺术家可以加入该项目，并获得 12 个月的额外资源。",
+          "来源叙事重点：报道聚焦于 Spotify 针对新兴艺术家推出的“Fresh Finds Forward”扶持计划，详细列举其包含的免费录音室工时、创作软件订阅、心理健康支持等具体福利，并着重与此前饱受争议的“削减版税换取曝光”的 Discovery Mode 进行对比，强调该计划免费且不改变版税分配的正面属性"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T13:00:00.000Z",
+            "url": "https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward"
+          }
+        ]
+      },
+      {
+        "id": "story-5-4c1d-af93-deb5810f635a-d666d8784612a5b5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Bank of England says rates likely to rise as it overhauls gilt sales",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T13:13:12.000Z",
+        "pubTime": "2026-09-17 21:13",
+        "url": "https://www.ft.com/content/44bc4245-f235-4c1d-af93-deb5810f635a?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb3d2323c-267e-483c-8264-8369d81c9ef4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "BoE holds rates at 3.75% but signals higher borrowing costs are likely",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-17 21:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/44bc4245-f235-4c1d-af93-deb5810f635a?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-17T13:13:12.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--local-vaccine-campaigns-26910da920fc880d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "With US measles deaths on the rise, local officials are stepping in where RFK Jr won’t",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T12:00:50.000Z",
+        "pubTime": "2026-09-17 20:00",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/measles-deaths-local-vaccine-campaigns",
+        "imageUrl": "https://i.guim.co.uk/img/media/cda33a5b7d3a311c0ebbe3e95d784d3086b7c380/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b4bcdb4923ef03ca191b6e1635bc6a9b",
+        "fullContent": "As the country’s top public health official spends his time in office undermining science, doctors and advocates mount an urgent campaign for childhood vaccines\n\nOn an early September morning, dozens of families stood in line outside a clinic in Yeadon, Pennsylvania. It was “exclusion day”, the deadline by which students without complete immunizations are barred from returning to class.\n\nInstead of turning families away, school district leaders partnered with the county health department to vaccinate kids nearby so they could go back to their desks. That day, 42 middle and high school students were vaccinated to protect against tetanus, pertussis and meningitis, among other diseases.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "9月初的一个早晨，宾夕法尼亚州耶登（Yeadon）数十个家庭在诊所外排队，当天是未完成免疫接种学生禁止返校的截止日期（“排斥日”）。",
+          "当地学区负责人与县卫生局合作，在附近为学生接种疫苗以便返校。",
+          "来源叙事重点：重点描摹地方学区与基层公共卫生官员在联邦监管角色缺位及科学遭侵蚀的背景下，主动介入填补疫苗接种空白，确保学龄儿童获得必要免疫防护并重返课堂。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T12:00:50.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/17/measles-deaths-local-vaccine-campaigns"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789609645549,
     "timeDisplay": "2026-09-17 09:47 (UTC+8)",
     "date": "2026-09-17",
