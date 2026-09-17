@@ -1,5 +1,1569 @@
 [
   {
+    "timestamp": 1789684023927,
+    "timeDisplay": "2026-09-18 06:27 (UTC+8)",
+    "date": "2026-09-18",
+    "runId": "feed-20260917T221602588Z-oq1v29",
+    "generatedAt": "2026-09-17T22:27:03.927Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 06:16",
+      "lead": "本轮抓取于 2026-09-18 06:16 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】美国联邦航空管理局解决空中交通问题的计划？价值8.75亿美元的人工智能：美国联邦航空管理局一直在努力应对全国范围内的空中交通管制员短缺问题。造成短缺的原因多种多样，但美国政府已明确表示，正在寻找这一问题的创新解决方案。",
+        "【undefined】Flock监控摄像头被曝充斥着安全漏洞与硬编码凭据：今天上午，DDoSecrets 发布了一份令人兴奋的新数据集：一台正在使用中的 Flock 自动车牌识别（ALPR）摄像头各分区的类文件系统镜像。404 Media 与《连线》（Wired）对此联合发布了调查报道。我下载了该数据集，现在已经完全沉迷于技术逆向之中。",
+        "【undefined】我恨你，微软：难得有一次，我需要打开一个 PowerPoint 文档，而这一刻到了。和往常一样，我用机构账号登录了他们的“服务”，因为我的大学每年与这家大型软件供应商签订的合同金额大约高达数十万欧元，把钱付给微软这个垃圾公司（microslop）。",
+        "【undefined】NFL收入最高的近端锋乔治·基特尔透露最喜欢的消费：为巨型美国国旗建一根50英尺高的旗杆：乔治·基特尔于2025年4月签下了NFL历史上近端锋金额最高的合同，但那也是他的第三份大合同。到最终合同于2029年到期时，这三份合同将为他带来约1.55亿美元的收入。",
+        "【undefined】福克斯新闻民调：71%选民认为特朗普政府缺乏结束伊朗战争的计划：在对伊朗战争爆发近七个月之际，福克斯新闻（Fox News）的一项最新全国民意调查显示，选民态度正日趋恶化：选民认为特朗普政府缺乏结束战争的明确战略，越来越多的人认为这场冲突将使美国变得更加不安全，且大多数人认为采取军事行动的决定是错误的。",
+        "【undefined】福克斯新闻民调：多数人认为移民执法已经越界：福克斯新闻最新民调显示，53%的登记选民认为，特朗普政府对移民法的执行已经走得太远；自2025年6月以来，这一看法一直保持稳定。",
+        "【undefined】中方反对在安理会强推恢复对伊朗制裁：中国常驻联合国代表傅聪17日在安理会就伊朗制裁委员会专家小组授权延期决议草案投票后发言，表示中方反对在安理会强推恢复对伊朗制裁。",
+        "【undefined】俄罗斯第九届国家杜马选举开始投票：俄罗斯第九届国家杜马(议会下院)选举于当地时间9月18日8时在堪察加边疆区和楚科奇自治州率先开始投票。这是俄罗斯自2022年对乌克兰开展特别军事行动以来首次举行全国性议会选举。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-18",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】美国联邦航空管理局解决空中交通问题的计划？价值8.75亿美元的人工智能：美国联邦航空管理局一直在努力应对全国范围内的空中交通管制员短缺问题。造成短缺的原因多种多样，但美国政府已明确表示，正在寻找这一问题的创新解决方案。；【undefined】我恨你，微软：难得有一次，我需要打开一个 PowerPoint 文档，而这一刻到了。和往常一样，我用机构账号登录了他们的“服务”，因为我的大学每年与这家大型软件供应商签订的合同金额大约高达数十万欧元，把钱付给微软这个垃圾公司（microslop）。；【undefined】美国正在为燃料支付高价，但并没有耗尽汽油：汽油价格昂贵，柴油价格更糟。社交媒体陷入失控状态，似乎已经认定美国正在耗尽燃料。美国能源信息署（EIA）的数据显示，上周美国汽油库存增加了80万桶，达到2.077亿桶。库存水平较往年同期五年平均值低5%。库存确实偏紧，但远没有到“油箱见底”的程度。上周炼油厂日均加工原油1,730万桶，产能利用率为96.8%。汽油产量增至日均960万桶。过去四周，汽油需求日均为880万桶，较上年同期下降1%。但这并未阻止汽油价格上涨。美国汽车协会（AAA"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】Flock监控摄像头被曝充斥着安全漏洞与硬编码凭据：今天上午，DDoSecrets 发布了一份令人兴奋的新数据集：一台正在使用中的 Flock 自动车牌识别（ALPR）摄像头各分区的类文件系统镜像。404 Media 与《连线》（Wired）对此联合发布了调查报道。我下载了该数据集，现在已经完全沉迷于技术逆向之中。；【undefined】请提高警惕：针对知名 Rust 开发者的定向攻击：我们认为，目前有人正在开展一场针对 rust-lang 成员和热门 crate 的维护者的持续攻击活动，企图入侵设备和账户，以利用这些设备和账户发布恶意软件。；【undefined】我不喜欢大语言模型：我对人工智能和大语言模型技术有着许多复杂的感受。我着迷于它对我们这个职业的影响，也对生产力提升的潜力感到兴奋——这意味着我们可以快速构建出各种产品。但另一方面，我又担心人工智能可能造成的破坏：智能体蜂群接管我们的虚拟和实体基础设施，设计生物武器。不过，换个角度看，大语言模型也可能设计出奇效药，想出巧妙的办法来提高我们的繁荣程度。从根本上说，我认为我们没有选择，只能登上人工智能技术这列火车。这是一段狂野的旅程，我只希望我们最终能平安度过。"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】NFL收入最高的近端锋乔治·基特尔透露最喜欢的消费：为巨型美国国旗建一根50英尺高的旗杆：乔治·基特尔于2025年4月签下了NFL历史上近端锋金额最高的合同，但那也是他的第三份大合同。到最终合同于2029年到期时，这三份合同将为他带来约1.55亿美元的收入。；【undefined】福克斯新闻民调：多数人认为移民执法已经越界：福克斯新闻最新民调显示，53%的登记选民认为，特朗普政府对移民法的执行已经走得太远；自2025年6月以来，这一看法一直保持稳定。；【undefined】中方反对在安理会强推恢复对伊朗制裁：中国常驻联合国代表傅聪17日在安理会就伊朗制裁委员会专家小组授权延期决议草案投票后发言，表示中方反对在安理会强推恢复对伊朗制裁。"
+        },
+        {
+          "name": "🛡️ 军事防务安全",
+          "analysis": "【undefined】福克斯新闻民调：71%选民认为特朗普政府缺乏结束伊朗战争的计划：在对伊朗战争爆发近七个月之际，福克斯新闻（Fox News）的一项最新全国民意调查显示，选民态度正日趋恶化：选民认为特朗普政府缺乏结束战争的明确战略，越来越多的人认为这场冲突将使美国变得更加不安全，且大多数人认为采取军事行动的决定是错误的。"
+        },
+        {
+          "name": "⚡ 战略能源与气候",
+          "analysis": "【undefined】一架由食用油驱动的飞机将搭载游客飞往南极洲：想象一下从南非飞往南极洲——地球上最偏远的地方之一。再设想一下，这趟旅程所乘坐的喷气式飞机，部分使用由剩余食用油制成的燃料。Business Insider Africa今天的一则标题报道了这一消息：豪华旅游公司White Desert很快将运营开普敦与南非之间的航班，所用航空燃油由南非能源和化工企业Sasol供应。根据旅游套餐的不同，乘客将支付1.65万至12万美元，换取这一体验。\\n\\n这片“白色大陆”上，企鹅数量多于人类。南极洲每"
+        },
+        {
+          "name": "💹 宏观资本与产业",
+          "analysis": "【undefined】监管机构批准部分代币化美国股票交易后，Securitize股价大涨：周四，在美国联邦监管机构批准部分交易平台发行代币化股票后，Securitize股价大幅上涨。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 77,
+      "completedTasks": 77,
+      "succeeded": 40,
+      "degraded": 37,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 77,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 661304,
+      "byRole": {
+        "translator": {
+          "attempts": 52,
+          "succeeded": 27,
+          "degraded": 25
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "degraded": 6,
+          "succeeded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "degraded": 4,
+          "succeeded": 3
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 77,
+          "succeeded": 40,
+          "degraded": 37
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-23-translator-0",
+      "article-24-translator-0",
+      "article-24-translator-1",
+      "article-25-translator-0",
+      "article-26-translator-0",
+      "article-27-translator-0",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-33-translator-0",
+      "article-38-translator-0",
+      "article-40-translator-0",
+      "article-41-translator-0",
+      "article-43-translator-0",
+      "article-45-translator-0",
+      "article-0-fact-extractor",
+      "article-0-source-positioner",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "article-6-source-positioner",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:45.465Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.383Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:45.521Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.146Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.617Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.866Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.672Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.322Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:48.057Z",
+        "lastSuccessAt": "2026-09-17T22:15:49.204Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:48.035Z",
+        "lastSuccessAt": "2026-09-17T22:15:49.104Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:49.204Z",
+        "lastSuccessAt": "2026-09-17T22:15:49.784Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:45.728Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.051Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.940Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.630Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.866Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.352Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.146Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.741Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.086Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.718Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.023Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.991Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.051Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.598Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:49.104Z",
+        "lastSuccessAt": "2026-09-17T22:15:49.653Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:48.325Z",
+        "lastSuccessAt": "2026-09-17T22:15:49.907Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:48.805Z",
+        "lastSuccessAt": "2026-09-17T22:15:49.161Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.129Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.758Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.598Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.672Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.383Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.699Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:45.694Z",
+        "lastSuccessAt": "2026-09-17T22:15:45.728Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:44.421Z",
+        "lastSuccessAt": "2026-09-17T22:15:45.694Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.595Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.755Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.539Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.869Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.311Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.539Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.556Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.716Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.777Z",
+        "lastSuccessAt": "2026-09-17T22:15:48.071Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.991Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.311Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:49.147Z",
+        "lastSuccessAt": "2026-09-17T22:15:51.111Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.630Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.843Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.869Z",
+        "lastSuccessAt": "2026-09-17T22:15:48.057Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.798Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.966Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.966Z",
+        "lastSuccessAt": "2026-09-17T22:15:48.325Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:49.161Z",
+        "lastSuccessAt": "2026-09-17T22:15:49.864Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.699Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.940Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.140Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.798Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.446Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.595Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.880Z",
+        "lastSuccessAt": "2026-09-17T22:15:48.239Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.758Z",
+        "lastSuccessAt": "2026-09-17T22:15:48.099Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-17T22:15:47.755Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:44.420Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.023Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-17T22:15:47.843Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:44.420Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.617Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:48.071Z",
+        "lastSuccessAt": "2026-09-17T22:15:49.737Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.352Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.446Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:45.980Z",
+        "lastSuccessAt": "2026-09-17T22:15:46.086Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.716Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.777Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:47.322Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.556Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:48.099Z",
+        "lastSuccessAt": "2026-09-17T22:15:48.805Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:48.239Z",
+        "lastSuccessAt": "2026-09-17T22:15:49.147Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.741Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.140Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:46.718Z",
+        "lastSuccessAt": "2026-09-17T22:15:47.129Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:44.409Z",
+        "lastSuccessAt": "2026-09-17T22:15:45.465Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:44.418Z",
+        "lastSuccessAt": "2026-09-17T22:15:45.521Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T22:15:44.419Z",
+        "lastSuccessAt": "2026-09-17T22:15:45.980Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-promtorg-2118357474-html-49a96b73b0aa1a99",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "СМИ: Минпромторг предлагает закрепить производство рыбопромыслового флота",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T22:14:10.000Z",
+        "pubTime": "2026-09-18 06:14",
+        "url": "https://ria.ru/20260918/minpromtorg-2118357474.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/04/0e/1865261308_0:67:3522:2048_650x0_80_0_0_898f40c577a554e0ba9b917713228b67.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 06:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/minpromtorg-2118357474.html",
+            "publishedAt": "2026-09-17T22:14:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--875-million-worth-of-ai-e47aee430f77a8f7",
+        "title": "美国联邦航空管理局解决空中交通问题的计划？价值8.75亿美元的人工智能",
+        "originalTitle": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:14:59.000Z",
+        "pubTime": "2026-09-18 06:14",
+        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+        "imageUrl": null,
+        "fullContent": "The Federal Aviation Administration has been struggling to manage an air traffic control shortage throughout the country. The reasons for the shortage are diverse, but the government has made it known that it’s on the lookout for innovative solutions to the problem.\n\nOne of those solutions appears to be an $875 million AI software program that is expected to help air traffic controllers manage their workflows and more safely navigate flight routes.\n\nThe Wall Street Journal reports that the FAA will soon launch Smart, which stands for Strategic Management of Airspace, Routes and Trajectories — an automated software program designed to help streamline air traffic operations.\n\nA one-page readout on the program describes Smart as “a cloud-based platform system that enhances existing FAA air traffic management systems.” It adds that the program uses AI to assess “airline schedules, weather, airport capacity, airspace conditions, and operational constraints to predict traffic flows and identify potential conflicts before they occur.”\n\nSmart, the product of a firm called Air Space Intelligence, will cost the government that amount over a 12-year period, the outlet writes. The software will roll out in the Washington, D.C., metropolitan area first before expanding to other regions, it says.\n\nEarlier this year, the FAA also announced a “bold, new” hiring plan that the agency said would “erase the longstanding staffing shortage,” and the government is separately engaged in a broad effort to modernize the nation’s aging air traffic systems.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "美国联邦航空管理局一直在努力应对全国范围内的空中交通管制员短缺问题。造成短缺的原因多种多样，但美国政府已明确表示，正在寻找这一问题的创新解决方案。\n\n其中一项解决方案似乎是一套价值8.75亿美元的人工智能软件程序。预计该程序将帮助空中交通管制员管理工作流程，并以更安全的方式规划航线。\n\n《华尔街日报》报道称，美国联邦航空管理局即将推出Smart，该名称是“空域、航线和轨迹战略管理”（Strategic Management of Airspace, Routes and Trajectories）的缩写。这是一套自动化软件程序，旨在帮助简化空中交通运行。\n\n一份关于该项目的单页说明将Smart描述为“一个基于云的平台系统，用于增强美国联邦航空管理局现有的空中交通管理系统”。说明还称，该项目利用人工智能评估“航空公司的航班时刻表、天气、机场容量、空域状况和运行限制，以预测交通流量，并在潜在冲突发生之前识别这些冲突”。\n\n报道称，Smart由一家名为Air Space Intelligence的公司开发，政府将在12年期间为此支付上述金额。报道还称，该软件将首先在华盛顿特区大都会地区部署，随后扩展至其他地区。\n\n今年早些时候，美国联邦航空管理局还宣布了一项“大胆、全新”的招聘计划。该机构称，这项计划将“消除长期存在的人员短缺”，而美国政府也在单独推进一项广泛工作，以实现全国老旧空中交通系统的现代化。\n\n预订展位桌的最后一天是9月18日。不要错过Disrupt展厅带来的高价值潜在客户、投资者接触机会以及品牌曝光。\n\n每个工作日和周日，你都可以获取TechCrunch最精彩的报道。\n\nTechCrunch Mobility是你获取交通领域新闻和洞察的去处。\n\n初创企业是TechCrunch报道的核心，因此请每周接收我们最优质的报道。\n\n为各界风云人物提供开启一天所需的信息。\n\n提交电子邮件即表示你同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T22:14:59.000Z",
+            "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-1-4083-ac34-00bbe67ef8db-ae8a36296aedf744",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI discloses new ‘concerning’ model behaviour",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:03:41.000Z",
+        "pubTime": "2026-09-18 06:03",
+        "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fca7c7d2b-13f1-41b6-aebf-da885a5c4bc0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Developer launches system to track and report AI model misconduct",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-18 06:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-17T22:03:41.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-hard-coded-credentials-fb40b54821d28e66",
+        "title": "Flock监控摄像头被曝充斥着安全漏洞与硬编码凭据",
+        "originalTitle": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:21:18.000Z",
+        "pubTime": "2026-09-18 05:21",
+        "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+        "imageUrl": null,
+        "fullContent": "This morning, DDoSecrets published an exciting new dataset: Filesystem images of the partitions from an in-use Flock ALPR camera. 404 Media and Wired published a joint investigation into it. I downloaded the dataset and am now thoroughly nerd-sniped.\n\nHackers from a collective called stegan0gram collected the data. “Why just destroy [Flock cameras] when we can reverse engineer them and find the secrets of those spying on us?” one of the hackers told 404 Media and Wired in an interview. “We liberated hardware in the field, disarmed them, and proceeded with reverse engineering of the cameras and associated solar equipment.”\n\nBelow are a few of the secrets that I've found so far.\n\nFlock cameras run on a modified version of Android. The specific build that this Flock camera was running at the point in time the firmware was extracted was from June 5, 2025.\n\nDespite being a relatively recent build, the Flock camera was running Android 8.1. This version of Android was released in 2017, and officially stopped getting support from Google in 2021 (see the Android end-of-life page for more info). And despite Google publishing security fixes for Android 8.1 until 2021, the Android patch level is 2018-06-05. This camera is missing Android security updates for the last eight years.\n\nAndroid runs on the Linux kernel. This Flock camera was running Linux 3.18.71, released in 2017. The 3.18 series was maintained until May 2019, ending at 3.18.140 — this camera is 69 releases short of even that. This kernel is over nine years out-of-date.\n\nHere are a few publicly-known vulnerabilities that this camera is probably vulnerable to, and that affect components that this camera ships with. I don't actually have this Flock camera to test these on and confirm that the hacks work, but what I do know is that this Flock camera's patch level predates all of these vulns, despite patches being available for many years.\n\nIn a statement to 404 Media and Wired, a Flock spokesperson said:\n\nIf you want to follow along, DDoSecrets published this dataset here.\n\nThe Android version and patch level are listed in multiple places, but the easiest place to find it is in the system partition. If you download partitions/24_system.img (1.5 GB) and extract it, you'll find a file, build.prop, which includes these lines:\n\nThe Linux version can be found in the boot partition. If you download partitions/21_boot.img (32 MB) and extract it, you'll find the kernel image in a file called kernel. You can find the Linux version with:\n\nBefore I go into detail here, I want to emphasize something real quick:\n\nIt's illegal to connect to Flock's servers using leaked credentials without their permission.\n\nThe Android firmware for this Flock camera includes 20 separate Flock apps, 19 of which all share a library called com.flocksafety.android.common.lib. If you decompile the library, there's an interesting method in the CameraSettings class:\n\nThis is an API key, hard-coded straight into the app. Flock runs a backend service at hpnotiq.flocksafety.com. When the camera needs new credentials, it makes an API request to hpnotiq that looks like this:\n\nNote that this specific Flock camera's MAC address is F4:6A:DD:57:46:FB.\n\nPresumably, you can use this hard-coded API key to obtain credentials for any Flock camera, based on its MAC address.\n\nThe API appears to respond with an Auth0 client ID and secret. Auth0 is an identity management company owned by Okta. The camera then stores those credentials in plaintext.\n\nBtw, those credentials, which might actually still be live and active (I'm honestly not sure because I didn't try them), are:\n\nThe API key is in the system partition. Download partitions/24_system.img (1.5 GB), extract it, and you'll find 19 Flock apps under app/: flock-sambuca, flock-collins, flock-phone-home, etc., each containing an APK. Decompile any one of them and look for CameraSettings in com.flocksafety.android.common.lib. The shared library is bundled into all 19 apps, so the key is in every one of them.\n\nThe Auth0 client ID and secret are on a different partition. Download partitions/27_persist.img (32 MB) and extract it. The file is at flock/auth0/auth0_cred. This is the camera's /persist partition, which is not encrypted and is designed to survive a factory reset.\n\nThe MAC address and the 2,264 calls to hpnotiq come from the camera's logs, in partitions/53_media.img (18 GB). Those sit inside an encrypted container, though the key to it is stored on the same partition in a file called expand_1fcdafef903c40cab3aff81bec914d01.key, lol. Once it's unlocked, the logs are gzipped tarballs under media/0/media/crashpack/.\n\nThe Flock camera's logs include camera location GPS coordinates 155 times, all within about 100 meters of each other, which I think is ordinary GPS jitter for a receiver that never moves. The coordinates that appear most often are 43.10151313, -88.05270186. If you search for that in Google Maps, you'll end up in a suburb just northwest of Milwaukee.\n\nI've never been to the Milwaukee area, but it looks like this Flock camera is in a city called Wauwatosa, on N Mayfair Rd, just off of Webster Park.\n\nUsing Google Street View, I walked around N Mayfair Rd looking for a Flock camera. It looks like the GPS is slightly off, and it's actually on the west side of the street, near a parking lot for the park.\n\nThere you are, Flock camera serial number 23091220026 with MAC address F4:6A:DD:57:46:FB!\n\nWho could have realized that this little camera, spending all its time spying on the innocent people driving by, would some day find its way into the hands of hackers from the stegan0gram collective?\n\nDownload partitions/53_media.img (18 GB), extract it, mount the (barely) encrypted filesystem, and then look at the logs in media/0/media/crashpack/. Extract one of the log files – any of them, it doesn't matter. Inside there, there are many logs with filenames like ciroc.2026-*.log. Grep those for Location and you'll see the GPS coordinates:\n\nWith luck, this reporting will encourage city councils everywhere to cancel their contracts with Flock and other ALPR vendors, and to stop giving the police more surveillance tools at the expense of everyone's privacy.",
+        "fullTranslation": "今天上午，DDoSecrets 发布了一份令人兴奋的新数据集：一台正在使用中的 Flock 自动车牌识别（ALPR）摄像头各分区的类文件系统镜像。404 Media 与《连线》（Wired）对此联合发布了调查报道。我下载了该数据集，现在已经完全沉迷于技术逆向之中。\n\n一个名为 stegan0gram 的黑客组织收集了这些数据。“既然我们可以逆向工程它们，并找出那些监视我们的人的秘密，为什么只是一砸了之呢？”该组织的其中一名黑客在接受 404 Media 和《连线》采访时说道。“我们在现场‘解放’了这台硬件，拆除了它的武装，并着手对摄像头及配套的太阳能设备进行了逆向工程。”\n\n以下是我目前发现的一些秘密。\n\nFlock 摄像头运行在修改版的 Android 系统上。固件提取时，该 Flock 摄像头运行的具体构建版本来自 2025 年 6 月 5 日。\n\n尽管构建版本相对较新，但这台 Flock 摄像头运行的却是 Android 8.1。该版本的 Android 于 2017 年发布，并于 2021 年正式终止了 Google 的官方支持（更多信息请参阅 Android 生命周期终止页面）。尽管 Google 持续为 Android 8.1 提供安全修复程序直至 2021 年，但其 Android 安全补丁级别却停留在 2018-06-05。这意味着该摄像头缺少过去八年来的 Android 安全更新。\n\nAndroid 运行在 Linux 内核之上。这台 Flock 摄像头运行的是 2017 年发布的 Linux 3.18.71。3.18 系列维护到了 2019 年 5 月，以 3.18.140 终止——即便与该分支的最终版本相比，该摄像头还落后了 69 个小版本发布。这一内核已经过时了九年以上。\n\n以下是该摄像头可能受到影响的几个公开已知漏洞，这些漏洞波及了该摄像头随附的组件。我手头并没有这台 Flock 摄像头去实测并验证攻击是否有效，但我确实知道的是，该 Flock 摄像头的补丁级别早于所有这些漏洞，尽管相关补丁已经发布了多年。\n\n在向 404 Media 和《连线》发表的一份声明中，Flock 的一位发言人表示：\n\n如果你想跟着一起操作，DDoSecrets 在此处发布了该数据集。\n\nAndroid 版本和补丁级别记录在多处，但最容易找到的地方是系统分区。如果你下载 partitions/24_system.img（1.5 GB）并将其解包，你会找到一个名为 build.prop 的文件，其中包含以下几行：\n\nLinux 版本可以在启动分区中找到。如果你下载 partitions/21_boot.img（32 MB）并解包，你会发现名为 kernel 的内核镜像文件。你可以通过以下命令找到 Linux 版本：\n\n在深入探讨细节之前，我想迅速强调一件事：\n\n未经允许擅自利用泄露的凭据连接到 Flock 的服务器属于违法行为。\n\n该 Flock 摄像头的 Android 固件包含了 20 个独立的 Flock 应用，其中 19 个共享一个名为 com.flocksafety.android.common.lib 的库。如果你反编译该库，会在 CameraSettings 类中发现一个有趣的方法：\n\n这是一个直接硬编码在应用中的 API 密钥。Flock 在 hpnotiq.flocksafety.com 运行着一个后端服务。当摄像头需要新凭据时，它会向 hpnotiq 发出一个如下所示的 API 请求：\n\n请注意，这台特定 Flock 摄像头的 MAC 地址是 F4:6A:DD:57:46:FB。\n\n据推测，你可以使用这个硬编码的 API 密钥，根据 MAC 地址获取任意一台 Flock 摄像头的凭据。\n\n该 API 似乎返回了 Auth0 客户端 ID 和密钥。Auth0 是一家隶属于 Okta 的身份管理公司。随后摄像头将这些凭据以明文形式存储。\n\n顺便提一下，这些凭据可能仍然有效并处于活动状态（坦率地说，我不确定，因为我没有尝试使用它们）：\n\n该 API 密钥位于系统分区。下载 partitions/24_system.img（1.5 GB），解包后，你会在 app/ 目录下找到 19 个 Flock 应用：flock-sambuca、flock-collins、flock-phone-home 等，每个都包含一个 APK。反编译其中任何一个并在 com.flocksafety.android.common.lib 中查找 CameraSettings。由于该共享库被打包进了所有 19 个应用中，因此每个应用里都包含该密钥。\n\nAuth0 客户端 ID 和密钥位于另一个分区。下载 partitions/27_persist.img（32 MB）并解包。文件位于 flock/auth0/auth0_cred。这是摄像头的 /persist 分区，它没有加密，并且被设计为在恢复出厂设置后依然保留。\n\nMAC 地址以及对 hpnotiq 的 2,264 次调用来自摄像头的日志，位于 partitions/53_media.img（18 GB）中。它们存放在一个加密容器内部，尽管该容器的密钥就保存在同一分区名为 expand_1fcdafef903c40cab3aff81bec914d01.key 的文件中，真是搞笑。解密后，日志位于 media/0/media/crashpack/ 路径下，是以 gzip 压缩的 tar 包形式存在。\n\n这台 Flock 摄像头的日志记录了 155 次摄像机定位 GPS 坐标，相互之间的距离都在 100 米以内，我认为对于一个固定不动的接收机而言，这属于正常的 GPS 抖动。出现频率最高的坐标是 43.10151313, -88.05270186。如果在 Google 地图上搜索该坐标，你会来到密尔沃基西北部的一个郊区。\n\n我从未去过密尔沃基地区，但看起来这台 Flock 摄像头位于一个叫沃瓦托萨（Wauwatosa）的城市，在韦伯斯特公园附近的北梅费尔路（N Mayfair Rd）上。\n\n使用 Google 街景，我在北梅费尔路周围“走动”寻找这台 Flock 摄像头。看起来 GPS 略有偏差，它实际上位于街道西侧，靠近公园的一个停车场。\n\n找到了，序列号为 23091220026、MAC 地址为 F4:6A:DD:57:46:FB 的 Flock 摄像头！\n\n谁能想到，这台成天都在监视无辜过往行车的小摄像头，有朝一日会落入来自 stegan0gram 组织的黑客手中？\n\n下载 partitions/53_media.img（18 GB），解包，挂载那个（几乎形同虚设的）加密文件系统，然后查看 media/0/media/crashpack/ 下的日志。解压其中一个日志文件——任何一个都可以，无所谓。在里面，有许多文件名类似于 ciroc.2026-*.log 的日志。通过 grep 搜索 Location，你就会看到 GPS 坐标：\n\n希望这篇报道能促使各地的市议会取消与 Flock 及其他 ALPR 供应商的合同，不要再以牺牲所有人的隐私为代价向警方提供更多的监控工具。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 29,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T21:21:18.000Z",
+            "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/"
+          }
+        ]
+      },
+      {
+        "id": "story-st-glacial-thinning-html-fed3203f2a3d607d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Climate change contributing to permafrost thawing and glacial thinning",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:00:04.000Z",
+        "pubTime": "2026-09-18 06:00",
+        "url": "https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-contrib-5.jpg",
+        "fullContent": "An international team of glaciologists and climate scientists, including professor Bethan Davies from Newcastle University, carried out a rapid scientific analysis and identified the role of climate change and its impacts on the high-altitude landscape.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html",
+            "publishedAt": "2026-09-17T22:00:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ovechkin-2118357303-html-ffb5b33a98daac8f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Карбери прокомментировал участие Овечкина в предвыборном ролике",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T22:10:04.000Z",
+        "pubTime": "2026-09-18 06:10",
+        "url": "https://ria.ru/20260918/ovechkin-2118357303.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 06:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/ovechkin-2118357303.html",
+            "publishedAt": "2026-09-17T22:10:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-osts-you-did-it-again-ms-3c7cc1062ec97bd7",
+        "title": "我恨你，微软",
+        "originalTitle": "I Hate You Microsoft",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:41:48.000Z",
+        "pubTime": "2026-09-18 05:41",
+        "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
+        "imageUrl": null,
+        "fullContent": "The rare moment when I need to open a powerpoint document is here. As usual, I have my institutional account logged into their “services”, because my university pays microslop something in the ballpark of hundreds of thousands of euros in contracts with this large software provider.\n\nThe first thing this nice software greets me with is:\n\nLIKE REALLY? Like WHAT THE ACTUAL FUCK REALLY?\n\n“Your account does not allow editing on a mac,” so fuck you? Like go get a fucking windows machine, or that’s it for you?\n\nThis is disrespectful at best. In reality this is unethical, buried money making schemes buried into the fine lines of some obscure contract that also steers our institution into using windows machines. Again the windows machines which you pay the license for and still are “greeted” with ads in the apps, a calculator app consuming hundreds of MB of RAM, bugs everywhere, and espionage. Let’s not talk about copilot and windows recall. The reality is bleak.\n\nPlease stop using windows. Please stop using proprietary document formats. We need to unite or we are in deep shit.\n\nI know I am hosting this website on github pages, but I will do better in the future. Thank you.",
+        "fullTranslation": "难得有一次，我需要打开一个 PowerPoint 文档，而这一刻到了。和往常一样，我用机构账号登录了他们的“服务”，因为我的大学每年与这家大型软件供应商签订的合同金额大约高达数十万欧元，把钱付给微软这个垃圾公司（microslop）。\n\n这款“贴心”的软件首先这样迎接我：\n\n这到底是什么鬼？真的？到底他妈的怎么回事？\n\n“你的账号不允许在 Mac 上编辑。”所以去你的？意思是让我去弄一台他妈的 Windows 电脑，否则就到此为止？\n\n这至少是不尊重人的。实际上，这是不道德的：一些埋藏在晦涩合同细则中的、以赚钱为目的的套路，还把我们的机构引向使用 Windows 电脑。没错，就是那些你已经支付了许可证费用、却仍然会在应用里“迎接”到广告的 Windows 电脑；还有占用数百 MB 内存的计算器应用、到处都是的漏洞，以及监视行为。更别提 Copilot 和 Windows Recall 了。现实一片惨淡。\n\n请停止使用 Windows。请停止使用专有文档格式。我们必须团结起来，否则就要陷入大麻烦。\n\n我知道自己把这个网站托管在 GitHub Pages 上，但今后我会做得更好。谢谢。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "文章作者称，自己偶尔需要打开 PowerPoint 文档。",
+          "文章作者称，其机构账户已登录微软的相关服务。",
+          "来源叙事重点：围绕作者在 Mac 上使用机构微软账户编辑 PowerPoint 受限的经历，构建对微软商业模式、Windows 生态、专有文档格式及相关产品功能的强烈批评叙事。作者将账户权限限制、机构采购合同、软件广告、资源占用、漏洞与隐私担忧联系起来，并据此主张停止使用 Windows 和专有文档格式。文中部分内容属于作者的评价、推断或未经独立核实的概括，不应直接视为已证实事实。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T21:41:48.000Z",
+            "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/"
+          }
+        ]
+      },
+      {
+        "id": "story-panding-oil-and-gas-html-f956900739fc7680",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:00:00.000Z",
+        "pubTime": "2026-09-18 06:00",
+        "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Turkey-Bets-108-Billion-on-Wind-and-Solar-While-Expanding-Oil-and-Gas.html",
+        "imageUrl": null,
+        "fullContent": "Turkey plans to spend $108 billion over the next ten years to develop its alternative energy infrastructure, eyeing 120 GW in installed wind and solar capacity. At the same time, Turkey is also spending heavily on securing long-term oil and gas supplyand planning to become a major regional gas hub for Europe. \"Under our Renewable Energy 2035 Road Map, we aim to reach an installed capacity of 120 gigawatts in wind and solar power,\" Turkey's energy minister Arpaslan Bayraktar told Anadolu Agency. \"To achieve this, we project investments of approximately $80 billion in generation and $28 billion in transmission infrastructure,\" Bayraktar added. The investment plans are in line with European transition priorities that call for further expansion in wind and solar generation capacity and grid upgrades that would allow more of the output from this wind and solar capacity to reach end consumers instead of getting wasted during times of high generation and low demand. Turkey plans to cover as much as 35% of its final energy demand with electricity by 2035, again in keeping with other countries' electrification plans, motivated by the assertion that electricity is generated domestically and not importedeven though some major proponents of the idea, such as the UK, are heavy electricity importers. Related Continental Strikes Venezuela Oil Deal with PDVSA \"By electrifying daily life, from transport to buildings and industry, we can protect families and businesses from volatile energy markets. This 35% by 2035 target will be one of the defining priorities of our COP31 presidency,\" Turkey's environment minister, Murat Kurum, said earlier this year. Turkey is hosting the COP event this year. The matter of market volatility in energy this year became extremely urgent as the war between the United States and Israel, and Iran, pushed oil and gas prices to the highest levels in years, with the chance of a major decline slim at the moment. The energy commodity price surge has lent additional momentum for the energy transition in the countries that are investing in it most heavilyexcept China, where subsidies are being cut back, and wind and solar growth is slowing down. Turkey is already building out its alternative energy capacity at speed. Last month, energy minister Bayraktar said that the country had \"quadrupled its installed electricity capacity, from 32,000 megawatts to 126,000 megawatts,\" over the 24 years since 2001. He also boasted that Turkey had commissioned some 96 GW of new capacity in the period and now has the third-largest installed generation capacity in Europe, after France and Germany. Installed capacity, however, is rather misleading when it comes to alternative energy generation. In baseload, installed capacity can be fully utilized on demand. In wind and solar, installed capacity serves as a reference point and little else, due to the complete dependence of wind and solar installations on the weather. This is probably why Turkey is as active in oil and gas drillingat home and abroadas it is in building wind and solar installations. At home, the state energy company, TPAO, operates the massive Sakarya field in the Black Sea, which is currently producing gas at a daily rate of 9.5 million cubic meters. Abroad, TPAO has interests in Pakistan, Libya, and, recently, Somalia. The country is also exploring for oil and gas offshore Cyprus, which has caused tensions with the Cypriot government, which has accused Turkey of drilling within its exclusive economic zone. Turkey already sources a lot of its electricity from non-hydrocarbon sources. Hydropower accounts for around 17% of total generation. Wind and solar together accounted for some 22% last year. Coal, however, remains at a higher share of the country's energy mix, at 34%. The Turkish government appears to be aware of the importance of baseload generationmuch like the Chinese government, with its all-of-the-above approach to energy security. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将土耳其扩大风电和光伏投资与继续发展油气、争取成为欧洲区域天然气枢纽并置呈现，强调“能源转型”与“能源安全”并行的务实路线。文章突出土耳其未来十年拟投资1080亿美元、2035年风光装机达到120吉瓦、终端能源需求电气化率达到35%等政府目标，同时提醒风光装机容量不等同于实际发电量，并以煤电占比较高、国内外油气开发及塞浦路斯海域争议说明其“全能源组合”特征。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T22:00:00.000Z",
+            "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Turkey-Bets-108-Billion-on-Wind-and-Solar-While-Expanding-Oil-and-Gas.html"
+          }
+        ]
+      },
+      {
+        "id": "story--ai-scraping-the-largest-e8dd0e9b20e33b9c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T19:55:35.000Z",
+        "pubTime": "2026-09-18 03:55",
+        "url": "https://www.reddit.com/r/technology/comments/1wj4gkx/microsoft_exec_called_ai_scraping_the_largest/",
+        "imageUrl": "https://external-preview.redd.it/fSi_WWxJJAndk8kq6B3rqr3XctplsOFdCofjJZeKGQo.jpeg?width=640&crop=smart&auto=webp&s=ce8c53ad9911402891dea7be33fe99a5c54dcebb",
+        "fullContent": "submitted by /u/Conscious-Quarter423 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-18 03:55 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wj4gkx/microsoft_exec_called_ai_scraping_the_largest/",
+            "publishedAt": "2026-09-17T19:55:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-stay-steady-storm-html-a5fb5d1ae0a6411a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why global wind energy may stay steady even as storm tracks shift poleward",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:00:01.000Z",
+        "pubTime": "2026-09-18 06:00",
+        "url": "https://phys.org/news/2026-09-global-energy-stay-steady-storm.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-red-and-white-windso.jpg",
+        "fullContent": "Understanding how wind changes in response to global warming is necessary for accurately modeling climate and weather, identifying risks to infrastructure, and assessing global wind power capacity.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-global-energy-stay-steady-storm.html",
+            "publishedAt": "2026-09-17T22:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--legacy-missing-millions-39cccebcd4620153",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Meyer Lansky’s grandson reflects on late mobster's crime empire, Las Vegas legacy and missing millions",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:07:07.000Z",
+        "pubTime": "2026-09-18 06:07",
+        "url": "https://www.foxnews.com/us/meyer-lansky-grandson-reflects-late-mobster-crime-empire-las-vegas-legacy-missing-millions",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Meyer-Lansky-002.jpg?ve=1&tl=1",
+        "fullContent": "To Prohibition-era gangsters, history buffs and true crime aficionados, he was Meyer Lansky — the financial mastermind who built an international gambling empire. To his namesake, he was simply \"grandpa.\"\n\nMeyer Lansky II, the grandson of the late mob boss who helped establish organized crime across the nation, reflects on his grandfather through personal letters, photographs, and firsthand memories in his new book with S. J. Peddie, \"The Lansky Legacy: The Life and Letters of Meyer Lansky.\"\n\n\"He never mentioned the names of anybody that he worked with. He was always cautious with that,\" Lansky told Fox News Digital.\n\nCHARLES MANSON'S GRANDDAUGHTER REVEALS MOMENT SHE DISCOVERED DARK FAMILY SECRET: 'IT WAS DEVASTATING'\n\nGrowing up in Washington state , the younger Lansky initially saw his grandfather as a stern, serious figure who strictly compartmentalized his life. The elder Lansky never brought up his underworld dealings; instead, he focused on teaching his grandson how to present himself to the world, introducing him to fine details like tie pins and shoehorns.\n\n\"Growing up in Washington state, I wasn't exposed to those kinds of things anywhere else,\" Lansky said. \"He was always asking me about my grades, my studies, and what books I was reading.\n\n\"He’d give me basic advice: ‘Whatever you do, do a good job. Be honest with people, provide good service, and people will come back to you.’\"\n\nSAMMY 'THE BULL' REVEALS WHY HIS LOVE FOR JOHN GOTTI TURNED INTO PRISON HATE\n\nThe elder Lansky, widely dubbed the \"mob's accountant,\" rose to prominence in the early 20th century alongside childhood friends Benjamin \"Bugsy\" Siegel and Charles \"Lucky\" Luciano. Together, they revolutionized organized crime, building lucrative gambling operations from Havana to Las Vegas .\n\n\"He was right alongside Luciano and Bugsy Siegel during the transformation of the syndicate into the modern American Mafia,\" Lansky said.\n\nThat reputation carried real-world danger. The younger Lansky recalled a chilling incident from his childhood, when his grandfather's notoriety and perceived wealth nearly led to his kidnapping.\n\nAs he grew older, the veil began to slip.\n\nEX-MOB CAPO ALLEGES FURIOUS RFK WEAPONIZED THE FBI AGAINST HIS FATHER OVER MARILYN MONROE\n\n\"One day I was listening to the radio and heard that Treasury Secretary John Connally was going to Las Vegas to investigate Meyer Lansky,\" he said, referencing the decades-long, unsuccessful federal effort to convict his grandfather.\n\n\"When my grandfather visited a week later, I told him, ‘Hey, I heard your name on the radio.’ He looked at me, smiled, and said, ‘You did?’ He didn't elaborate, but I knew at that point he realized I was going to figure out who he really was.\"\n\nEX-COLOMBO CRIME FAMILY CAPO REVEALS HOW GAS TAX SCHEME RAKED IN MILLIONS OF DOLLARS WEEKLY\n\nWhile mob historians contend that the Polish-born gangster perfected modern money laundering and amassed vast fortunes, a central mystery remains: what happened to the money?\n\nIf the elder Lansky stashed away millions, his grandson noted, the family never saw it.\n\nYet, the physical legacy remains impossible to ignore.\n\nREDDIT DEBATE REVEALS LAS VEGAS HAS BECOME FAR MORE THAN A GAMBLING DESTINATION FOR MILLIONS OF VISITORS\n\n\"He was heavily involved in transforming the American Mafia into something that still holds an irresistible, nostalgic grip on culture,\" Lansky said. \"These guys are major figures of history.\n\n\"They took a barren desert and turned it into a sophisticated gambling empire.\"",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T22:07:07.000Z",
+            "url": "https://www.foxnews.com/us/meyer-lansky-grandson-reflects-late-mobster-crime-empire-las-vegas-legacy-missing-millions"
+          }
+        ]
+      },
+      {
+        "id": "story-news-bonsai-2-27b-b99c151f8719568d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:13:31.000Z",
+        "pubTime": "2026-09-18 05:13",
+        "url": "https://prismml.com/news/bonsai-2-27b",
+        "imageUrl": null,
+        "fullContent": "Two months ago, we released our first Bonsai 27B models and showed that a 27B-class multimodal model could be compressed enough to run efficiently on a local device. Today, we’re releasing Ternary Bonsai 2 27B, our most capable model yet.\n\nBased on Qwen3.8 27B, Ternary Bonsai 2 27B brings stronger reasoning, coding, vision, and agentic capability to the Bonsai series while preserving the deployment profile that defines it: a dramatically smaller memory footprint, high local throughput, and better energy efficiency.\n\nTernary Bonsai 2 27B uses ternary {−1, 0, +1} weights with FP16 group-wise scaling, for 1.76 effective bits per weight and a total model footprint of 5.9GB. The low-bit representation is applied end to end across the language model. It supports a 262K-token context window, multimodal text-and-image input, and is released under the Apache 2.0 license.\n\nAgainst its full-precision counterpart, Ternary Bonsai 2 27B is more than 9x smaller while retaining 98.2% of aggregate benchmark performance. At this level of retention, compression becomes a deployment unlock: nearly the same capability, in a footprint that can run in far more places.\n\nOur first Bonsai 27B release was an important milestone, offering a practical way to run 27B-class intelligence on local devices. Bonsai 2 27B focuses on the next step: improving the model quality and runtime performance needed for real-world local applications. Compared with the previous Bonsai 27B generation, Bonsai 2 27B brings:\n\nAcross a benchmark suite spanning reasoning, math, coding, instruction following, vision, and agentic tool use, Ternary Bonsai 2 27B scores 83.9, retaining 98.2% of Qwen3.8 27B’s aggregate performance.\n\nThe key result is not only the aggregate score, but where the capability is retained. Coding agents, tool-use systems, multimodal workflows, and long-horizon tasks are particularly sensitive to model degradation because small errors can compound over many steps. Bonsai 2 27B preserves much of the full-precision model’s performance in exactly these areas while operating at a fraction of the memory footprint.\n\nCompared with the full-precision model and other low-bit alternatives, Bonsai 2 27B stands out as an outlier on intelligence density. Many low-bit alternatives become deployable only by giving up meaningful capability in coding, vision, or agentic tool use. Bonsai 2 27B pushes the frontier toward both higher capability and lower memory usage.\n\nWith Bonsai 2 27B, local models can start to take on real knowledge work: coding-agent loops, computer-use workflows, private document analysis, multimodal debugging, and hybrid orchestration where local models handle sensitive or high-frequency tasks while escalating selectively to the cloud.\n\nTernary Bonsai 2 27B reaches up to 143 tokens/second on NVIDIA GeForce RTX 5090 and 46.8 tokens/second on M5 Max. On an RTX 4090, Ternary Bonsai 2 27B consumes just 0.714 mWh/token, making it 40% more energy-efficient than an 8B model running in full-precision.\n\nFor coding assistants, higher throughput means faster edit-debug loops. For multimodal agents, it means quicker iterations over screenshots, documents, and tool calls. For private local workflows, better energy efficiency means more useful inference on the same device, longer battery life, and a more realistic path to assistants that can stay available in the background without constantly calling the cloud.\n\nCompared to Ternary Bonsai 27B, the new Ternary Bonsai 2 27B has closed the retention gap between the full precision model from 95% to over 98%. This is a significant improvement that makes the current release practically “lossless”. It further cements the notion that low-bit models can be the best way to deploy AI.\n\nThat has implications well beyond local inference. Low-bit models can change the economics and architecture of AI systems across devices, workstations, and datacenters: fitting larger models into the same memory envelope, serving more users on the same hardware, reducing energy per inference, and enabling hybrid systems that dynamically decide what should run locally and what should run in the cloud.\n\nThe question will increasingly be not just how capable a model is, but how much useful intelligence can be delivered within a given memory, compute, and power budget. If capability can continue to scale while those requirements fall dramatically, the deployment envelope for future models expands across the stack: from personal devices to large-scale datacenters.\n\nBonsai 2 27B runs on NVIDIA GPUs via CUDA and on Apple devices (Mac, iPhone, iPad) via MLX, through custom low-bit kernels. Model weights are available today under the Apache 2.0 License.\n\nFull technical details of our compression, evaluation, and benchmarking processes are available in our whitepaper.\n\nWe work with teams to tailor Bonsai models to their applications, from post-training on domain-specific data to optimizing inference for target hardware. If you’re building AI products with tight memory, latency, or power requirements, we’d love to explore how Bonsai can help. Reach out at contact@prismml.com.\n\nPrismML emerged from a team of Caltech researchers and was founded with support from Khosla Ventures, Cerberus, and Google, with continuing support from Samsung. We've spent years tackling one of the field's hardest problems: compressing neural networks without sacrificing their reasoning ability.\n\nIf you want to help build the next generation of state-of-the-art AI, we'd love to hear from you. Check out our careers page.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：宣传三值化（Ternary）模型 Bonsai 2 27B 在极端压缩（9倍体积缩减至5.9GB、有效位宽1.76-bit）下实现近乎无损（保留98.2%性能）的技术突破，强调其本地化运行、高能效、高吞吐量以及对端侧AI与混合架构部署的经济价值。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T21:13:31.000Z",
+            "url": "https://prismml.com/news/bonsai-2-27b"
+          }
+        ]
+      },
+      {
+        "id": "story-ying-now-anyway-065a2f9f-ad2f6d3b763d96ca",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:22:00.000Z",
+        "pubTime": "2026-09-18 05:22",
+        "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The higher that yields go — for at least new money — it becomes more enticing to think about putting money into bonds,” one strategist notes.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-18 05:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-17T21:22:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-like-nintendo-capcom-and-37ab29b53440e274",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Japanese companies like Nintendo, Capcom, and Konami are healthier because they have smaller teams, don't have frequent layoffs, and don't pay executives $30 million, says expert",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:55:18.000Z",
+        "pubTime": "2026-09-18 02:55",
+        "url": "https://www.reddit.com/r/technology/comments/1wj2tc4/japanese_companies_like_nintendo_capcom_and/",
+        "imageUrl": "https://external-preview.redd.it/cBkUY_Itz-N2NINgEgJzt7C3uZUT4RLgX1q64qT203g.jpeg?width=640&crop=smart&auto=webp&s=046140bdf44e5084be1448094555044eeb22a109",
+        "fullContent": "submitted by /u/yourfavchoom [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-18 02:55 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wj2tc4/japanese_companies_like_nintendo_capcom_and/",
+            "publishedAt": "2026-09-17T18:55:18.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-promtorg-2118357474-html-49a96b73b0aa1a99",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "СМИ: Минпромторг предлагает закрепить производство рыбопромыслового флота",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T22:14:10.000Z",
+        "pubTime": "2026-09-18 06:14",
+        "url": "https://ria.ru/20260918/minpromtorg-2118357474.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/04/0e/1865261308_0:67:3522:2048_650x0_80_0_0_898f40c577a554e0ba9b917713228b67.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 06:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/minpromtorg-2118357474.html",
+            "publishedAt": "2026-09-17T22:14:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--875-million-worth-of-ai-e47aee430f77a8f7",
+        "title": "美国联邦航空管理局解决空中交通问题的计划？价值8.75亿美元的人工智能",
+        "originalTitle": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:14:59.000Z",
+        "pubTime": "2026-09-18 06:14",
+        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+        "imageUrl": null,
+        "fullContent": "The Federal Aviation Administration has been struggling to manage an air traffic control shortage throughout the country. The reasons for the shortage are diverse, but the government has made it known that it’s on the lookout for innovative solutions to the problem.\n\nOne of those solutions appears to be an $875 million AI software program that is expected to help air traffic controllers manage their workflows and more safely navigate flight routes.\n\nThe Wall Street Journal reports that the FAA will soon launch Smart, which stands for Strategic Management of Airspace, Routes and Trajectories — an automated software program designed to help streamline air traffic operations.\n\nA one-page readout on the program describes Smart as “a cloud-based platform system that enhances existing FAA air traffic management systems.” It adds that the program uses AI to assess “airline schedules, weather, airport capacity, airspace conditions, and operational constraints to predict traffic flows and identify potential conflicts before they occur.”\n\nSmart, the product of a firm called Air Space Intelligence, will cost the government that amount over a 12-year period, the outlet writes. The software will roll out in the Washington, D.C., metropolitan area first before expanding to other regions, it says.\n\nEarlier this year, the FAA also announced a “bold, new” hiring plan that the agency said would “erase the longstanding staffing shortage,” and the government is separately engaged in a broad effort to modernize the nation’s aging air traffic systems.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "美国联邦航空管理局一直在努力应对全国范围内的空中交通管制员短缺问题。造成短缺的原因多种多样，但美国政府已明确表示，正在寻找这一问题的创新解决方案。\n\n其中一项解决方案似乎是一套价值8.75亿美元的人工智能软件程序。预计该程序将帮助空中交通管制员管理工作流程，并以更安全的方式规划航线。\n\n《华尔街日报》报道称，美国联邦航空管理局即将推出Smart，该名称是“空域、航线和轨迹战略管理”（Strategic Management of Airspace, Routes and Trajectories）的缩写。这是一套自动化软件程序，旨在帮助简化空中交通运行。\n\n一份关于该项目的单页说明将Smart描述为“一个基于云的平台系统，用于增强美国联邦航空管理局现有的空中交通管理系统”。说明还称，该项目利用人工智能评估“航空公司的航班时刻表、天气、机场容量、空域状况和运行限制，以预测交通流量，并在潜在冲突发生之前识别这些冲突”。\n\n报道称，Smart由一家名为Air Space Intelligence的公司开发，政府将在12年期间为此支付上述金额。报道还称，该软件将首先在华盛顿特区大都会地区部署，随后扩展至其他地区。\n\n今年早些时候，美国联邦航空管理局还宣布了一项“大胆、全新”的招聘计划。该机构称，这项计划将“消除长期存在的人员短缺”，而美国政府也在单独推进一项广泛工作，以实现全国老旧空中交通系统的现代化。\n\n预订展位桌的最后一天是9月18日。不要错过Disrupt展厅带来的高价值潜在客户、投资者接触机会以及品牌曝光。\n\n每个工作日和周日，你都可以获取TechCrunch最精彩的报道。\n\nTechCrunch Mobility是你获取交通领域新闻和洞察的去处。\n\n初创企业是TechCrunch报道的核心，因此请每周接收我们最优质的报道。\n\n为各界风云人物提供开启一天所需的信息。\n\n提交电子邮件即表示你同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T22:14:59.000Z",
+            "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-1-4083-ac34-00bbe67ef8db-ae8a36296aedf744",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI discloses new ‘concerning’ model behaviour",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:03:41.000Z",
+        "pubTime": "2026-09-18 06:03",
+        "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fca7c7d2b-13f1-41b6-aebf-da885a5c4bc0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Developer launches system to track and report AI model misconduct",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-18 06:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-17T22:03:41.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-hard-coded-credentials-fb40b54821d28e66",
+        "title": "Flock监控摄像头被曝充斥着安全漏洞与硬编码凭据",
+        "originalTitle": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:21:18.000Z",
+        "pubTime": "2026-09-18 05:21",
+        "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+        "imageUrl": null,
+        "fullContent": "This morning, DDoSecrets published an exciting new dataset: Filesystem images of the partitions from an in-use Flock ALPR camera. 404 Media and Wired published a joint investigation into it. I downloaded the dataset and am now thoroughly nerd-sniped.\n\nHackers from a collective called stegan0gram collected the data. “Why just destroy [Flock cameras] when we can reverse engineer them and find the secrets of those spying on us?” one of the hackers told 404 Media and Wired in an interview. “We liberated hardware in the field, disarmed them, and proceeded with reverse engineering of the cameras and associated solar equipment.”\n\nBelow are a few of the secrets that I've found so far.\n\nFlock cameras run on a modified version of Android. The specific build that this Flock camera was running at the point in time the firmware was extracted was from June 5, 2025.\n\nDespite being a relatively recent build, the Flock camera was running Android 8.1. This version of Android was released in 2017, and officially stopped getting support from Google in 2021 (see the Android end-of-life page for more info). And despite Google publishing security fixes for Android 8.1 until 2021, the Android patch level is 2018-06-05. This camera is missing Android security updates for the last eight years.\n\nAndroid runs on the Linux kernel. This Flock camera was running Linux 3.18.71, released in 2017. The 3.18 series was maintained until May 2019, ending at 3.18.140 — this camera is 69 releases short of even that. This kernel is over nine years out-of-date.\n\nHere are a few publicly-known vulnerabilities that this camera is probably vulnerable to, and that affect components that this camera ships with. I don't actually have this Flock camera to test these on and confirm that the hacks work, but what I do know is that this Flock camera's patch level predates all of these vulns, despite patches being available for many years.\n\nIn a statement to 404 Media and Wired, a Flock spokesperson said:\n\nIf you want to follow along, DDoSecrets published this dataset here.\n\nThe Android version and patch level are listed in multiple places, but the easiest place to find it is in the system partition. If you download partitions/24_system.img (1.5 GB) and extract it, you'll find a file, build.prop, which includes these lines:\n\nThe Linux version can be found in the boot partition. If you download partitions/21_boot.img (32 MB) and extract it, you'll find the kernel image in a file called kernel. You can find the Linux version with:\n\nBefore I go into detail here, I want to emphasize something real quick:\n\nIt's illegal to connect to Flock's servers using leaked credentials without their permission.\n\nThe Android firmware for this Flock camera includes 20 separate Flock apps, 19 of which all share a library called com.flocksafety.android.common.lib. If you decompile the library, there's an interesting method in the CameraSettings class:\n\nThis is an API key, hard-coded straight into the app. Flock runs a backend service at hpnotiq.flocksafety.com. When the camera needs new credentials, it makes an API request to hpnotiq that looks like this:\n\nNote that this specific Flock camera's MAC address is F4:6A:DD:57:46:FB.\n\nPresumably, you can use this hard-coded API key to obtain credentials for any Flock camera, based on its MAC address.\n\nThe API appears to respond with an Auth0 client ID and secret. Auth0 is an identity management company owned by Okta. The camera then stores those credentials in plaintext.\n\nBtw, those credentials, which might actually still be live and active (I'm honestly not sure because I didn't try them), are:\n\nThe API key is in the system partition. Download partitions/24_system.img (1.5 GB), extract it, and you'll find 19 Flock apps under app/: flock-sambuca, flock-collins, flock-phone-home, etc., each containing an APK. Decompile any one of them and look for CameraSettings in com.flocksafety.android.common.lib. The shared library is bundled into all 19 apps, so the key is in every one of them.\n\nThe Auth0 client ID and secret are on a different partition. Download partitions/27_persist.img (32 MB) and extract it. The file is at flock/auth0/auth0_cred. This is the camera's /persist partition, which is not encrypted and is designed to survive a factory reset.\n\nThe MAC address and the 2,264 calls to hpnotiq come from the camera's logs, in partitions/53_media.img (18 GB). Those sit inside an encrypted container, though the key to it is stored on the same partition in a file called expand_1fcdafef903c40cab3aff81bec914d01.key, lol. Once it's unlocked, the logs are gzipped tarballs under media/0/media/crashpack/.\n\nThe Flock camera's logs include camera location GPS coordinates 155 times, all within about 100 meters of each other, which I think is ordinary GPS jitter for a receiver that never moves. The coordinates that appear most often are 43.10151313, -88.05270186. If you search for that in Google Maps, you'll end up in a suburb just northwest of Milwaukee.\n\nI've never been to the Milwaukee area, but it looks like this Flock camera is in a city called Wauwatosa, on N Mayfair Rd, just off of Webster Park.\n\nUsing Google Street View, I walked around N Mayfair Rd looking for a Flock camera. It looks like the GPS is slightly off, and it's actually on the west side of the street, near a parking lot for the park.\n\nThere you are, Flock camera serial number 23091220026 with MAC address F4:6A:DD:57:46:FB!\n\nWho could have realized that this little camera, spending all its time spying on the innocent people driving by, would some day find its way into the hands of hackers from the stegan0gram collective?\n\nDownload partitions/53_media.img (18 GB), extract it, mount the (barely) encrypted filesystem, and then look at the logs in media/0/media/crashpack/. Extract one of the log files – any of them, it doesn't matter. Inside there, there are many logs with filenames like ciroc.2026-*.log. Grep those for Location and you'll see the GPS coordinates:\n\nWith luck, this reporting will encourage city councils everywhere to cancel their contracts with Flock and other ALPR vendors, and to stop giving the police more surveillance tools at the expense of everyone's privacy.",
+        "fullTranslation": "今天上午，DDoSecrets 发布了一份令人兴奋的新数据集：一台正在使用中的 Flock 自动车牌识别（ALPR）摄像头各分区的类文件系统镜像。404 Media 与《连线》（Wired）对此联合发布了调查报道。我下载了该数据集，现在已经完全沉迷于技术逆向之中。\n\n一个名为 stegan0gram 的黑客组织收集了这些数据。“既然我们可以逆向工程它们，并找出那些监视我们的人的秘密，为什么只是一砸了之呢？”该组织的其中一名黑客在接受 404 Media 和《连线》采访时说道。“我们在现场‘解放’了这台硬件，拆除了它的武装，并着手对摄像头及配套的太阳能设备进行了逆向工程。”\n\n以下是我目前发现的一些秘密。\n\nFlock 摄像头运行在修改版的 Android 系统上。固件提取时，该 Flock 摄像头运行的具体构建版本来自 2025 年 6 月 5 日。\n\n尽管构建版本相对较新，但这台 Flock 摄像头运行的却是 Android 8.1。该版本的 Android 于 2017 年发布，并于 2021 年正式终止了 Google 的官方支持（更多信息请参阅 Android 生命周期终止页面）。尽管 Google 持续为 Android 8.1 提供安全修复程序直至 2021 年，但其 Android 安全补丁级别却停留在 2018-06-05。这意味着该摄像头缺少过去八年来的 Android 安全更新。\n\nAndroid 运行在 Linux 内核之上。这台 Flock 摄像头运行的是 2017 年发布的 Linux 3.18.71。3.18 系列维护到了 2019 年 5 月，以 3.18.140 终止——即便与该分支的最终版本相比，该摄像头还落后了 69 个小版本发布。这一内核已经过时了九年以上。\n\n以下是该摄像头可能受到影响的几个公开已知漏洞，这些漏洞波及了该摄像头随附的组件。我手头并没有这台 Flock 摄像头去实测并验证攻击是否有效，但我确实知道的是，该 Flock 摄像头的补丁级别早于所有这些漏洞，尽管相关补丁已经发布了多年。\n\n在向 404 Media 和《连线》发表的一份声明中，Flock 的一位发言人表示：\n\n如果你想跟着一起操作，DDoSecrets 在此处发布了该数据集。\n\nAndroid 版本和补丁级别记录在多处，但最容易找到的地方是系统分区。如果你下载 partitions/24_system.img（1.5 GB）并将其解包，你会找到一个名为 build.prop 的文件，其中包含以下几行：\n\nLinux 版本可以在启动分区中找到。如果你下载 partitions/21_boot.img（32 MB）并解包，你会发现名为 kernel 的内核镜像文件。你可以通过以下命令找到 Linux 版本：\n\n在深入探讨细节之前，我想迅速强调一件事：\n\n未经允许擅自利用泄露的凭据连接到 Flock 的服务器属于违法行为。\n\n该 Flock 摄像头的 Android 固件包含了 20 个独立的 Flock 应用，其中 19 个共享一个名为 com.flocksafety.android.common.lib 的库。如果你反编译该库，会在 CameraSettings 类中发现一个有趣的方法：\n\n这是一个直接硬编码在应用中的 API 密钥。Flock 在 hpnotiq.flocksafety.com 运行着一个后端服务。当摄像头需要新凭据时，它会向 hpnotiq 发出一个如下所示的 API 请求：\n\n请注意，这台特定 Flock 摄像头的 MAC 地址是 F4:6A:DD:57:46:FB。\n\n据推测，你可以使用这个硬编码的 API 密钥，根据 MAC 地址获取任意一台 Flock 摄像头的凭据。\n\n该 API 似乎返回了 Auth0 客户端 ID 和密钥。Auth0 是一家隶属于 Okta 的身份管理公司。随后摄像头将这些凭据以明文形式存储。\n\n顺便提一下，这些凭据可能仍然有效并处于活动状态（坦率地说，我不确定，因为我没有尝试使用它们）：\n\n该 API 密钥位于系统分区。下载 partitions/24_system.img（1.5 GB），解包后，你会在 app/ 目录下找到 19 个 Flock 应用：flock-sambuca、flock-collins、flock-phone-home 等，每个都包含一个 APK。反编译其中任何一个并在 com.flocksafety.android.common.lib 中查找 CameraSettings。由于该共享库被打包进了所有 19 个应用中，因此每个应用里都包含该密钥。\n\nAuth0 客户端 ID 和密钥位于另一个分区。下载 partitions/27_persist.img（32 MB）并解包。文件位于 flock/auth0/auth0_cred。这是摄像头的 /persist 分区，它没有加密，并且被设计为在恢复出厂设置后依然保留。\n\nMAC 地址以及对 hpnotiq 的 2,264 次调用来自摄像头的日志，位于 partitions/53_media.img（18 GB）中。它们存放在一个加密容器内部，尽管该容器的密钥就保存在同一分区名为 expand_1fcdafef903c40cab3aff81bec914d01.key 的文件中，真是搞笑。解密后，日志位于 media/0/media/crashpack/ 路径下，是以 gzip 压缩的 tar 包形式存在。\n\n这台 Flock 摄像头的日志记录了 155 次摄像机定位 GPS 坐标，相互之间的距离都在 100 米以内，我认为对于一个固定不动的接收机而言，这属于正常的 GPS 抖动。出现频率最高的坐标是 43.10151313, -88.05270186。如果在 Google 地图上搜索该坐标，你会来到密尔沃基西北部的一个郊区。\n\n我从未去过密尔沃基地区，但看起来这台 Flock 摄像头位于一个叫沃瓦托萨（Wauwatosa）的城市，在韦伯斯特公园附近的北梅费尔路（N Mayfair Rd）上。\n\n使用 Google 街景，我在北梅费尔路周围“走动”寻找这台 Flock 摄像头。看起来 GPS 略有偏差，它实际上位于街道西侧，靠近公园的一个停车场。\n\n找到了，序列号为 23091220026、MAC 地址为 F4:6A:DD:57:46:FB 的 Flock 摄像头！\n\n谁能想到，这台成天都在监视无辜过往行车的小摄像头，有朝一日会落入来自 stegan0gram 组织的黑客手中？\n\n下载 partitions/53_media.img（18 GB），解包，挂载那个（几乎形同虚设的）加密文件系统，然后查看 media/0/media/crashpack/ 下的日志。解压其中一个日志文件——任何一个都可以，无所谓。在里面，有许多文件名类似于 ciroc.2026-*.log 的日志。通过 grep 搜索 Location，你就会看到 GPS 坐标：\n\n希望这篇报道能促使各地的市议会取消与 Flock 及其他 ALPR 供应商的合同，不要再以牺牲所有人的隐私为代价向警方提供更多的监控工具。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 29,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T21:21:18.000Z",
+            "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/"
+          }
+        ]
+      },
+      {
+        "id": "story-st-glacial-thinning-html-fed3203f2a3d607d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Climate change contributing to permafrost thawing and glacial thinning",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:00:04.000Z",
+        "pubTime": "2026-09-18 06:00",
+        "url": "https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-contrib-5.jpg",
+        "fullContent": "An international team of glaciologists and climate scientists, including professor Bethan Davies from Newcastle University, carried out a rapid scientific analysis and identified the role of climate change and its impacts on the high-altitude landscape.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-climate-contributing-permafrost-glacial-thinning.html",
+            "publishedAt": "2026-09-17T22:00:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ovechkin-2118357303-html-ffb5b33a98daac8f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Карбери прокомментировал участие Овечкина в предвыборном ролике",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-17T22:10:04.000Z",
+        "pubTime": "2026-09-18 06:10",
+        "url": "https://ria.ru/20260918/ovechkin-2118357303.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 06:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/ovechkin-2118357303.html",
+            "publishedAt": "2026-09-17T22:10:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-osts-you-did-it-again-ms-3c7cc1062ec97bd7",
+        "title": "我恨你，微软",
+        "originalTitle": "I Hate You Microsoft",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:41:48.000Z",
+        "pubTime": "2026-09-18 05:41",
+        "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
+        "imageUrl": null,
+        "fullContent": "The rare moment when I need to open a powerpoint document is here. As usual, I have my institutional account logged into their “services”, because my university pays microslop something in the ballpark of hundreds of thousands of euros in contracts with this large software provider.\n\nThe first thing this nice software greets me with is:\n\nLIKE REALLY? Like WHAT THE ACTUAL FUCK REALLY?\n\n“Your account does not allow editing on a mac,” so fuck you? Like go get a fucking windows machine, or that’s it for you?\n\nThis is disrespectful at best. In reality this is unethical, buried money making schemes buried into the fine lines of some obscure contract that also steers our institution into using windows machines. Again the windows machines which you pay the license for and still are “greeted” with ads in the apps, a calculator app consuming hundreds of MB of RAM, bugs everywhere, and espionage. Let’s not talk about copilot and windows recall. The reality is bleak.\n\nPlease stop using windows. Please stop using proprietary document formats. We need to unite or we are in deep shit.\n\nI know I am hosting this website on github pages, but I will do better in the future. Thank you.",
+        "fullTranslation": "难得有一次，我需要打开一个 PowerPoint 文档，而这一刻到了。和往常一样，我用机构账号登录了他们的“服务”，因为我的大学每年与这家大型软件供应商签订的合同金额大约高达数十万欧元，把钱付给微软这个垃圾公司（microslop）。\n\n这款“贴心”的软件首先这样迎接我：\n\n这到底是什么鬼？真的？到底他妈的怎么回事？\n\n“你的账号不允许在 Mac 上编辑。”所以去你的？意思是让我去弄一台他妈的 Windows 电脑，否则就到此为止？\n\n这至少是不尊重人的。实际上，这是不道德的：一些埋藏在晦涩合同细则中的、以赚钱为目的的套路，还把我们的机构引向使用 Windows 电脑。没错，就是那些你已经支付了许可证费用、却仍然会在应用里“迎接”到广告的 Windows 电脑；还有占用数百 MB 内存的计算器应用、到处都是的漏洞，以及监视行为。更别提 Copilot 和 Windows Recall 了。现实一片惨淡。\n\n请停止使用 Windows。请停止使用专有文档格式。我们必须团结起来，否则就要陷入大麻烦。\n\n我知道自己把这个网站托管在 GitHub Pages 上，但今后我会做得更好。谢谢。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "文章作者称，自己偶尔需要打开 PowerPoint 文档。",
+          "文章作者称，其机构账户已登录微软的相关服务。",
+          "来源叙事重点：围绕作者在 Mac 上使用机构微软账户编辑 PowerPoint 受限的经历，构建对微软商业模式、Windows 生态、专有文档格式及相关产品功能的强烈批评叙事。作者将账户权限限制、机构采购合同、软件广告、资源占用、漏洞与隐私担忧联系起来，并据此主张停止使用 Windows 和专有文档格式。文中部分内容属于作者的评价、推断或未经独立核实的概括，不应直接视为已证实事实。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T21:41:48.000Z",
+            "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/"
+          }
+        ]
+      },
+      {
+        "id": "story-panding-oil-and-gas-html-f956900739fc7680",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:00:00.000Z",
+        "pubTime": "2026-09-18 06:00",
+        "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Turkey-Bets-108-Billion-on-Wind-and-Solar-While-Expanding-Oil-and-Gas.html",
+        "imageUrl": null,
+        "fullContent": "Turkey plans to spend $108 billion over the next ten years to develop its alternative energy infrastructure, eyeing 120 GW in installed wind and solar capacity. At the same time, Turkey is also spending heavily on securing long-term oil and gas supplyand planning to become a major regional gas hub for Europe. \"Under our Renewable Energy 2035 Road Map, we aim to reach an installed capacity of 120 gigawatts in wind and solar power,\" Turkey's energy minister Arpaslan Bayraktar told Anadolu Agency. \"To achieve this, we project investments of approximately $80 billion in generation and $28 billion in transmission infrastructure,\" Bayraktar added. The investment plans are in line with European transition priorities that call for further expansion in wind and solar generation capacity and grid upgrades that would allow more of the output from this wind and solar capacity to reach end consumers instead of getting wasted during times of high generation and low demand. Turkey plans to cover as much as 35% of its final energy demand with electricity by 2035, again in keeping with other countries' electrification plans, motivated by the assertion that electricity is generated domestically and not importedeven though some major proponents of the idea, such as the UK, are heavy electricity importers. Related Continental Strikes Venezuela Oil Deal with PDVSA \"By electrifying daily life, from transport to buildings and industry, we can protect families and businesses from volatile energy markets. This 35% by 2035 target will be one of the defining priorities of our COP31 presidency,\" Turkey's environment minister, Murat Kurum, said earlier this year. Turkey is hosting the COP event this year. The matter of market volatility in energy this year became extremely urgent as the war between the United States and Israel, and Iran, pushed oil and gas prices to the highest levels in years, with the chance of a major decline slim at the moment. The energy commodity price surge has lent additional momentum for the energy transition in the countries that are investing in it most heavilyexcept China, where subsidies are being cut back, and wind and solar growth is slowing down. Turkey is already building out its alternative energy capacity at speed. Last month, energy minister Bayraktar said that the country had \"quadrupled its installed electricity capacity, from 32,000 megawatts to 126,000 megawatts,\" over the 24 years since 2001. He also boasted that Turkey had commissioned some 96 GW of new capacity in the period and now has the third-largest installed generation capacity in Europe, after France and Germany. Installed capacity, however, is rather misleading when it comes to alternative energy generation. In baseload, installed capacity can be fully utilized on demand. In wind and solar, installed capacity serves as a reference point and little else, due to the complete dependence of wind and solar installations on the weather. This is probably why Turkey is as active in oil and gas drillingat home and abroadas it is in building wind and solar installations. At home, the state energy company, TPAO, operates the massive Sakarya field in the Black Sea, which is currently producing gas at a daily rate of 9.5 million cubic meters. Abroad, TPAO has interests in Pakistan, Libya, and, recently, Somalia. The country is also exploring for oil and gas offshore Cyprus, which has caused tensions with the Cypriot government, which has accused Turkey of drilling within its exclusive economic zone. Turkey already sources a lot of its electricity from non-hydrocarbon sources. Hydropower accounts for around 17% of total generation. Wind and solar together accounted for some 22% last year. Coal, however, remains at a higher share of the country's energy mix, at 34%. The Turkish government appears to be aware of the importance of baseload generationmuch like the Chinese government, with its all-of-the-above approach to energy security. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将土耳其扩大风电和光伏投资与继续发展油气、争取成为欧洲区域天然气枢纽并置呈现，强调“能源转型”与“能源安全”并行的务实路线。文章突出土耳其未来十年拟投资1080亿美元、2035年风光装机达到120吉瓦、终端能源需求电气化率达到35%等政府目标，同时提醒风光装机容量不等同于实际发电量，并以煤电占比较高、国内外油气开发及塞浦路斯海域争议说明其“全能源组合”特征。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T22:00:00.000Z",
+            "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Turkey-Bets-108-Billion-on-Wind-and-Solar-While-Expanding-Oil-and-Gas.html"
+          }
+        ]
+      },
+      {
+        "id": "story--ai-scraping-the-largest-e8dd0e9b20e33b9c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T19:55:35.000Z",
+        "pubTime": "2026-09-18 03:55",
+        "url": "https://www.reddit.com/r/technology/comments/1wj4gkx/microsoft_exec_called_ai_scraping_the_largest/",
+        "imageUrl": "https://external-preview.redd.it/fSi_WWxJJAndk8kq6B3rqr3XctplsOFdCofjJZeKGQo.jpeg?width=640&crop=smart&auto=webp&s=ce8c53ad9911402891dea7be33fe99a5c54dcebb",
+        "fullContent": "submitted by /u/Conscious-Quarter423 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-18 03:55 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wj4gkx/microsoft_exec_called_ai_scraping_the_largest/",
+            "publishedAt": "2026-09-17T19:55:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-stay-steady-storm-html-a5fb5d1ae0a6411a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Why global wind energy may stay steady even as storm tracks shift poleward",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:00:01.000Z",
+        "pubTime": "2026-09-18 06:00",
+        "url": "https://phys.org/news/2026-09-global-energy-stay-steady-storm.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-red-and-white-windso.jpg",
+        "fullContent": "Understanding how wind changes in response to global warming is necessary for accurately modeling climate and weather, identifying risks to infrastructure, and assessing global wind power capacity.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-global-energy-stay-steady-storm.html",
+            "publishedAt": "2026-09-17T22:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--legacy-missing-millions-39cccebcd4620153",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Meyer Lansky’s grandson reflects on late mobster's crime empire, Las Vegas legacy and missing millions",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:07:07.000Z",
+        "pubTime": "2026-09-18 06:07",
+        "url": "https://www.foxnews.com/us/meyer-lansky-grandson-reflects-late-mobster-crime-empire-las-vegas-legacy-missing-millions",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Meyer-Lansky-002.jpg?ve=1&tl=1",
+        "fullContent": "To Prohibition-era gangsters, history buffs and true crime aficionados, he was Meyer Lansky — the financial mastermind who built an international gambling empire. To his namesake, he was simply \"grandpa.\"\n\nMeyer Lansky II, the grandson of the late mob boss who helped establish organized crime across the nation, reflects on his grandfather through personal letters, photographs, and firsthand memories in his new book with S. J. Peddie, \"The Lansky Legacy: The Life and Letters of Meyer Lansky.\"\n\n\"He never mentioned the names of anybody that he worked with. He was always cautious with that,\" Lansky told Fox News Digital.\n\nCHARLES MANSON'S GRANDDAUGHTER REVEALS MOMENT SHE DISCOVERED DARK FAMILY SECRET: 'IT WAS DEVASTATING'\n\nGrowing up in Washington state , the younger Lansky initially saw his grandfather as a stern, serious figure who strictly compartmentalized his life. The elder Lansky never brought up his underworld dealings; instead, he focused on teaching his grandson how to present himself to the world, introducing him to fine details like tie pins and shoehorns.\n\n\"Growing up in Washington state, I wasn't exposed to those kinds of things anywhere else,\" Lansky said. \"He was always asking me about my grades, my studies, and what books I was reading.\n\n\"He’d give me basic advice: ‘Whatever you do, do a good job. Be honest with people, provide good service, and people will come back to you.’\"\n\nSAMMY 'THE BULL' REVEALS WHY HIS LOVE FOR JOHN GOTTI TURNED INTO PRISON HATE\n\nThe elder Lansky, widely dubbed the \"mob's accountant,\" rose to prominence in the early 20th century alongside childhood friends Benjamin \"Bugsy\" Siegel and Charles \"Lucky\" Luciano. Together, they revolutionized organized crime, building lucrative gambling operations from Havana to Las Vegas .\n\n\"He was right alongside Luciano and Bugsy Siegel during the transformation of the syndicate into the modern American Mafia,\" Lansky said.\n\nThat reputation carried real-world danger. The younger Lansky recalled a chilling incident from his childhood, when his grandfather's notoriety and perceived wealth nearly led to his kidnapping.\n\nAs he grew older, the veil began to slip.\n\nEX-MOB CAPO ALLEGES FURIOUS RFK WEAPONIZED THE FBI AGAINST HIS FATHER OVER MARILYN MONROE\n\n\"One day I was listening to the radio and heard that Treasury Secretary John Connally was going to Las Vegas to investigate Meyer Lansky,\" he said, referencing the decades-long, unsuccessful federal effort to convict his grandfather.\n\n\"When my grandfather visited a week later, I told him, ‘Hey, I heard your name on the radio.’ He looked at me, smiled, and said, ‘You did?’ He didn't elaborate, but I knew at that point he realized I was going to figure out who he really was.\"\n\nEX-COLOMBO CRIME FAMILY CAPO REVEALS HOW GAS TAX SCHEME RAKED IN MILLIONS OF DOLLARS WEEKLY\n\nWhile mob historians contend that the Polish-born gangster perfected modern money laundering and amassed vast fortunes, a central mystery remains: what happened to the money?\n\nIf the elder Lansky stashed away millions, his grandson noted, the family never saw it.\n\nYet, the physical legacy remains impossible to ignore.\n\nREDDIT DEBATE REVEALS LAS VEGAS HAS BECOME FAR MORE THAN A GAMBLING DESTINATION FOR MILLIONS OF VISITORS\n\n\"He was heavily involved in transforming the American Mafia into something that still holds an irresistible, nostalgic grip on culture,\" Lansky said. \"These guys are major figures of history.\n\n\"They took a barren desert and turned it into a sophisticated gambling empire.\"",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T22:07:07.000Z",
+            "url": "https://www.foxnews.com/us/meyer-lansky-grandson-reflects-late-mobster-crime-empire-las-vegas-legacy-missing-millions"
+          }
+        ]
+      },
+      {
+        "id": "story-news-bonsai-2-27b-b99c151f8719568d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:13:31.000Z",
+        "pubTime": "2026-09-18 05:13",
+        "url": "https://prismml.com/news/bonsai-2-27b",
+        "imageUrl": null,
+        "fullContent": "Two months ago, we released our first Bonsai 27B models and showed that a 27B-class multimodal model could be compressed enough to run efficiently on a local device. Today, we’re releasing Ternary Bonsai 2 27B, our most capable model yet.\n\nBased on Qwen3.8 27B, Ternary Bonsai 2 27B brings stronger reasoning, coding, vision, and agentic capability to the Bonsai series while preserving the deployment profile that defines it: a dramatically smaller memory footprint, high local throughput, and better energy efficiency.\n\nTernary Bonsai 2 27B uses ternary {−1, 0, +1} weights with FP16 group-wise scaling, for 1.76 effective bits per weight and a total model footprint of 5.9GB. The low-bit representation is applied end to end across the language model. It supports a 262K-token context window, multimodal text-and-image input, and is released under the Apache 2.0 license.\n\nAgainst its full-precision counterpart, Ternary Bonsai 2 27B is more than 9x smaller while retaining 98.2% of aggregate benchmark performance. At this level of retention, compression becomes a deployment unlock: nearly the same capability, in a footprint that can run in far more places.\n\nOur first Bonsai 27B release was an important milestone, offering a practical way to run 27B-class intelligence on local devices. Bonsai 2 27B focuses on the next step: improving the model quality and runtime performance needed for real-world local applications. Compared with the previous Bonsai 27B generation, Bonsai 2 27B brings:\n\nAcross a benchmark suite spanning reasoning, math, coding, instruction following, vision, and agentic tool use, Ternary Bonsai 2 27B scores 83.9, retaining 98.2% of Qwen3.8 27B’s aggregate performance.\n\nThe key result is not only the aggregate score, but where the capability is retained. Coding agents, tool-use systems, multimodal workflows, and long-horizon tasks are particularly sensitive to model degradation because small errors can compound over many steps. Bonsai 2 27B preserves much of the full-precision model’s performance in exactly these areas while operating at a fraction of the memory footprint.\n\nCompared with the full-precision model and other low-bit alternatives, Bonsai 2 27B stands out as an outlier on intelligence density. Many low-bit alternatives become deployable only by giving up meaningful capability in coding, vision, or agentic tool use. Bonsai 2 27B pushes the frontier toward both higher capability and lower memory usage.\n\nWith Bonsai 2 27B, local models can start to take on real knowledge work: coding-agent loops, computer-use workflows, private document analysis, multimodal debugging, and hybrid orchestration where local models handle sensitive or high-frequency tasks while escalating selectively to the cloud.\n\nTernary Bonsai 2 27B reaches up to 143 tokens/second on NVIDIA GeForce RTX 5090 and 46.8 tokens/second on M5 Max. On an RTX 4090, Ternary Bonsai 2 27B consumes just 0.714 mWh/token, making it 40% more energy-efficient than an 8B model running in full-precision.\n\nFor coding assistants, higher throughput means faster edit-debug loops. For multimodal agents, it means quicker iterations over screenshots, documents, and tool calls. For private local workflows, better energy efficiency means more useful inference on the same device, longer battery life, and a more realistic path to assistants that can stay available in the background without constantly calling the cloud.\n\nCompared to Ternary Bonsai 27B, the new Ternary Bonsai 2 27B has closed the retention gap between the full precision model from 95% to over 98%. This is a significant improvement that makes the current release practically “lossless”. It further cements the notion that low-bit models can be the best way to deploy AI.\n\nThat has implications well beyond local inference. Low-bit models can change the economics and architecture of AI systems across devices, workstations, and datacenters: fitting larger models into the same memory envelope, serving more users on the same hardware, reducing energy per inference, and enabling hybrid systems that dynamically decide what should run locally and what should run in the cloud.\n\nThe question will increasingly be not just how capable a model is, but how much useful intelligence can be delivered within a given memory, compute, and power budget. If capability can continue to scale while those requirements fall dramatically, the deployment envelope for future models expands across the stack: from personal devices to large-scale datacenters.\n\nBonsai 2 27B runs on NVIDIA GPUs via CUDA and on Apple devices (Mac, iPhone, iPad) via MLX, through custom low-bit kernels. Model weights are available today under the Apache 2.0 License.\n\nFull technical details of our compression, evaluation, and benchmarking processes are available in our whitepaper.\n\nWe work with teams to tailor Bonsai models to their applications, from post-training on domain-specific data to optimizing inference for target hardware. If you’re building AI products with tight memory, latency, or power requirements, we’d love to explore how Bonsai can help. Reach out at contact@prismml.com.\n\nPrismML emerged from a team of Caltech researchers and was founded with support from Khosla Ventures, Cerberus, and Google, with continuing support from Samsung. We've spent years tackling one of the field's hardest problems: compressing neural networks without sacrificing their reasoning ability.\n\nIf you want to help build the next generation of state-of-the-art AI, we'd love to hear from you. Check out our careers page.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：宣传三值化（Ternary）模型 Bonsai 2 27B 在极端压缩（9倍体积缩减至5.9GB、有效位宽1.76-bit）下实现近乎无损（保留98.2%性能）的技术突破，强调其本地化运行、高能效、高吞吐量以及对端侧AI与混合架构部署的经济价值。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T21:13:31.000Z",
+            "url": "https://prismml.com/news/bonsai-2-27b"
+          }
+        ]
+      },
+      {
+        "id": "story-ying-now-anyway-065a2f9f-ad2f6d3b763d96ca",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:22:00.000Z",
+        "pubTime": "2026-09-18 05:22",
+        "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“The higher that yields go — for at least new money — it becomes more enticing to think about putting money into bonds,” one strategist notes.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-18 05:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-17T21:22:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-like-nintendo-capcom-and-37ab29b53440e274",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Japanese companies like Nintendo, Capcom, and Konami are healthier because they have smaller teams, don't have frequent layoffs, and don't pay executives $30 million, says expert",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:55:18.000Z",
+        "pubTime": "2026-09-18 02:55",
+        "url": "https://www.reddit.com/r/technology/comments/1wj2tc4/japanese_companies_like_nintendo_capcom_and/",
+        "imageUrl": "https://external-preview.redd.it/cBkUY_Itz-N2NINgEgJzt7C3uZUT4RLgX1q64qT203g.jpeg?width=640&crop=smart&auto=webp&s=046140bdf44e5084be1448094555044eeb22a109",
+        "fullContent": "submitted by /u/yourfavchoom [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-18 02:55 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wj2tc4/japanese_companies_like_nintendo_capcom_and/",
+            "publishedAt": "2026-09-17T18:55:18.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789670002110,
     "timeDisplay": "2026-09-18 02:33 (UTC+8)",
     "date": "2026-09-18",
