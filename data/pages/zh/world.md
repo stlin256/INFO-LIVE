@@ -16,145 +16,57 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-026-09-17-10698544-shtml-f316e701393a34f4" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="828" data-content-paragraphs="23" data-published-at="2026-09-17T13:32:22.000Z" data-time-source="publication">
+<div id="story--sparked-suicide-attempt-32a7afb9372d3776" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1155" data-content-paragraphs="21" data-published-at="2026-09-17T18:07:58.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-17 21:32</span>
+  <span class="news-meta-time">🕒 2026-09-18 02:07</span>
 </div>
 
-### [HYROX失禁选手发声明道歉](https://www.chinanews.com.cn/gj/2026/09-17/10698544.shtml)
+### [《侠探杰克》主演艾伦·里奇森曝光据称引发其自杀未遂的敲诈阴谋](https://www.foxnews.com/entertainment/reacher-star-alan-ritchson-exposes-alleged-extortion-plot-sparked-suicide-attempt)
+<div class="original-title-sub"><span class="orig-tag">原文</span> &#39;Reacher&#39; star Alan Ritchson exposes alleged extortion plot that sparked suicide attempt</div>
 
-<div class="article-body" data-article-body="true"><p>中新网9月17日电 综合报道，9月17日，HYROX选手乔安娜·维特日克(Joanna Wietrzyk)发表声明，就北京站比赛期间发生的事件向中国观众、参赛选手及赛事组织方致以诚挚歉意。</p>
-<p>维特日克写道，比赛开始时感觉身体状况良好，没有预料到会出现不适，但回顾当时的决定，她认为自己本应离开赛道。</p>
-<p>维特日克表示，她为选择继续完成比赛承担责任，她知道自己的行为影响了其他人，对于因此受到影响的每一个人，深表歉意。她称将从此次经历中吸取教训，包括明白生活不止于比赛，以及懂得何时该及时退场。</p>
-<p>维特日克称，经过深思熟虑，她已决定追溯性退出该场比赛，并放弃此前获得的积分，感谢在这段时间里伸出援手、给予关怀与支持的人。接下来，她将远离喧嚣，花些时间休养身心、反思过往，并好好照顾自己和家人。</p>
-<p>“父亲背8个鸡蛋接考”，贺永辉作为新生代表发言</p>
-<p>中新网评：三九胃泰的营销病，比胃病更该治</p>
-<p>特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”</p>
-<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
-<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
-<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
-<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
-<p>专家：“主动健康”首先要确立正确健康知识</p>
-<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
-<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
-<p>三大国宝壁画齐聚山西芮城 同空间并置展千年文脉</p>
-<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
-<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
-<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
-<p>亚运男篮1/4决赛：中国男篮战胜沙特男篮</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/alan-ritchson-actor.jpg?ve=1&amp;tl=1" alt="《侠探杰克》主演艾伦·里奇森曝光据称引发其自杀未遂的敲诈阴谋" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>本文涉及自杀。如果你或你认识的人有自杀念头，请拨打988联系自杀与危机生命线。</p>
+<p>艾伦·里奇森分享了一段极其私人的经历。他说，在那段时期，他的生活开始瓦解。</p>
+<p>《侠探杰克》主演表示，一名前商业伙伴曾威胁称，如果他不愿在法国戛纳的一家酒店与她见面，她就会指控他强奸。里奇森说，这一据称的威胁让他陷入了不堪重负的迷茫与抑郁之中。</p>
+<p>“我是一名自杀未遂幸存者。”他近日在加拿大FAN EXPO活动上如此表示。</p>
+<p>《侠探杰克》主演艾伦·里奇森与妻子凯瑟琳结束20年婚姻</p>
+<p>里奇森声称：“当时我大概30多岁。我第一次感到抑郁。我之所以抑郁，是因为我把一切都做对了，却和一名商业伙伴闹翻了。她威胁说，如果我不去她的酒店房间——当时我在戛纳的Hotel du Cap出售一部电影，那部电影对我经营的公司来说取得了巨大成功——她就会打电话给TMZ，告诉那名记者我在戛纳强奸了她，她会毁掉我的人生。”</p>
+<p>他继续说：“所以她实际上是在敲诈我，逼我上楼去见她。我当时想，‘不，我不会这么做。’我不想这么做。”</p>
+<p>里奇森在这番讲话中没有透露这名女子的姓名。</p>
+<p>这名演员表示，他拒绝前往酒店房间，转而采取法律行动，聘请诉讼律师应对这一据称的威胁。他说，双方商业关系的破裂十分严重，最终他达成了一项和解协议——但离开时却觉得，有些比金钱更难挽回的东西已经消失了。</p>
+<p>里奇森说：“我失去了那段关系中的一切；她是亿万富翁，而且她实际上让我们所有的业务都陷入停滞，给我造成了巨大损失。此外，还有那个始终悬在我头上的威胁——我聘请了一名诉讼律师进行反击，确保这种事不会发生。”</p>
+<p>“最终我赢得了一项和解协议，但我什么也没赢得，因为我剩下的是一种不确定感：当你做好事、当你竭尽全力时，人生究竟会发生什么。”</p>
+<p>这名演员说，他“感到无助”，并表示这一状况让他“彻底崩溃、陷入抑郁”，还让他觉得，如果家人不必承受这起据称阴谋所带来的后果，对家人来说反而会是“一份礼物”。</p>
+<p>测试你的娱乐知识，看看你能得多少分</p>
+<p>点击这里，将娱乐圈最新消息直接发送到你的电子邮箱</p>
+<p>里奇森发表上述言论之际，正处于个人生活中一个重要的新阶段。</p>
+<p>本月早些时候，里奇森和妻子凯瑟琳宣布，他们将结束20年的婚姻关系。</p>
+<p>喜欢你正在阅读的内容吗？点击这里获取更多娱乐新闻</p>
+<p>两人本月在Instagram上发布的一份联合声明中表示，他们“决定结束婚姻，并以另一种方式继续陪伴彼此走下去”。</p>
+<p>两人十几岁时首次相识，后来重新联系，并于2006年5月12日结婚。他们育有三个儿子——卡勒姆、伊丹和阿莫里。</p>
+<p>里奇森因出演《超人前传》《蓝山球队》《饥饿游戏：星火燎原》和《泰坦》等作品而广为人知。</p>
+<p>2022年，他获得了《侠探杰克》的主角一角，这部作品帮助他确立了好莱坞动作明星的地位。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>9月17日，HYROX选手乔安娜·维特日克（Joanna Wietrzyk）发表声明，就北京站比赛期间发生的事件向中国观众、参赛选手及赛事组织方致歉。</li>
-    <li>维特日克决定追溯性退出该场HYROX北京站比赛，并放弃此前获得的积分。</li>
-    <li>来源叙事重点：聚焦涉事选手乔安娜·维特日克（Joanna Wietrzyk）就HYROX北京站突发事件发布的公开道歉与退赛声明，重点呈现其承认决策失误、承担责任、主动退赛放弃积分并向中国观众及主办方致歉的态度。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-17/10698544.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-defense-2189081-39f3e072725f8b18" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="571" data-content-paragraphs="4" data-published-at="2026-09-17T13:29:19.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🛡️ 军事防务安全</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-17 21:29</span>
-</div>
-
-### [俄罗斯国防出口公司在比勒陀利亚展示“阿穆尔-1650”潜艇与“红蜘蛛”级护卫舰](https://tass.com/defense/2189081)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Rosoboronexport presents Amur-1650 submarine, Karakurt corvette in Pretoria</div>
-
-<div class="article-body" data-article-body="true"><p>塔斯社比勒陀利亚9月17日电 据塔斯社记者报道，677E型“阿穆尔 1650”（Amur 1650）潜艇与22800E型“红蜘蛛-E”（Karakurt-E）小型护卫舰在南非比勒陀利亚举行的2026年非洲航空航天与防务展（AAD 2026）上展出。</p>
-<p>作为俄罗斯国家武器出口商俄罗斯国防出口公司（Rosoboronexport）在南非比勒陀利亚组织的俄罗斯联合展区的一部分，配备不依赖空气推进系统（AIP）的677E型非核动力潜艇“阿穆尔 1650”正在进行展示。该潜艇是俄罗斯677型“拉达”级潜艇的出口版本，由“红宝石”设计局研制。展台公布的信息显示，“阿穆尔-1650”在非核动力潜艇中拥有全球最大的载弹量之一——最多可搭载28件武器。这艘配备垂直发射系统的潜艇可装载“俱乐部-S”（Club-S）巡航导弹或俄印联合研发的“布拉莫斯”（BrahMos）超音速导弹。该潜艇能够在公海及浅水水域持续作业长达60天。</p>
-<p>此外，俄罗斯展区还展示了22800E型“红蜘蛛-E”小型护卫舰的出口版本。该舰由“金刚石”设计局结合外国客户需求设计，融合了精确制导武器、自卫系统、防空及军用造船领域的最新成果。</p>
-<p>“红蜘蛛-E”配备了能够远距离打击陆上与海上目标的巡航导弹发射装置。该舰以高机动性、增强的适航性以及采用降低雷达可见度技术的独特设计而著称。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-17 21:29 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-18 02:07 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#军事防务安全</span>
-  <span class="news-tag-pill">#TASS</span>
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://tass.com/defense/2189081" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-17-10698535-shtml-13550e8cb7f2e6e7" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="782" data-content-paragraphs="23" data-published-at="2026-09-17T13:26:36.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-17 21:26</span>
-</div>
-
-### [南非总统因身体不适暂停公开活动](https://www.chinanews.com.cn/gj/2026/09-17/10698535.shtml)
-
-<div class="article-body" data-article-body="true"><p>中新网9月17日电 综合报道，南非总统府16日发表声明说，南非总统拉马福萨因身体不适，暂停参加公开活动，并遵医嘱休息恢复。</p>
-<p>声明说，拉马福萨14日结束在印度举行的金砖国家领导人会晤行程返回南非，医疗团队建议他休息并进行身体恢复。声明还表示，拉马福萨已尽可能安排相关内阁部长代其出席原定公开活动。</p>
-<p>南非总统没有透露拉马福萨身体不适的具体情况，也未说明他何时恢复公开活动。</p>
-<p>与此同时，南非副总统马沙蒂莱也正处于身体恢复期。马沙蒂莱15日表示，他此前接受了一项“小型医疗手术”，身体正在逐步恢复，将根据医生建议继续休养。南非总统府此前表示，马沙蒂莱休养期间仍以线上方式参与部分议会及其他公务活动。</p>
-<p>“父亲背8个鸡蛋接考”，贺永辉作为新生代表发言</p>
-<p>中新网评：三九胃泰的营销病，比胃病更该治</p>
-<p>特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”</p>
-<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
-<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
-<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
-<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
-<p>专家：“主动健康”首先要确立正确健康知识</p>
-<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
-<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
-<p>三大国宝壁画齐聚山西芮城 同空间并置展千年文脉</p>
-<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
-<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
-<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>蟒蛇入户狂吃9只鸭子 民警赶到后全部“退赃”</p>
-<p>亚运男篮1/4决赛：中国男篮战胜沙特男篮</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-17 21:26 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-17/10698535.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/reacher-star-alan-ritchson-exposes-alleged-extortion-plot-sparked-suicide-attempt" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 ::::

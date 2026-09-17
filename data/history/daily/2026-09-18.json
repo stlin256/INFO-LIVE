@@ -1,0 +1,1594 @@
+[
+  {
+    "timestamp": 1789670002110,
+    "timeDisplay": "2026-09-18 02:33 (UTC+8)",
+    "date": "2026-09-18",
+    "runId": "feed-20260917T182025997Z-wojtua",
+    "generatedAt": "2026-09-17T18:33:22.110Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 02:20",
+      "lead": "本轮抓取于 2026-09-18 02:20 (UTC+8) 完成，共获得 13 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】就连英国国王对人工智能也有所顾虑：英国国王查尔斯周四主持了一场闭门峰会，出席者包括人工智能领域和英国政府中一些最具影响力的人物，其中有英伟达首席执行官黄仁勋、OpenAI和Anthropic的领导人、英国新任人工智能事务大臣卡尼什卡·纳拉扬，甚至还有英国外交情报机构负责人。为教皇提供人工智能事务建议的保罗·贝南蒂也参加了峰会。",
+        "【undefined】我不喜欢大型语言模型：我对人工智能和大型语言模型（LLM）技术有着许多复杂的感受。我着迷于它对我们这一职业的影响，也对生产力可能获得的提升感到兴奋——这意味着我们可以快速构建出各种产品。另一方面，我又担心人工智能可能造成的破坏：智能体群接管我们的虚拟和实体基础设施，设计生物武器。不过，回到积极的一面，LLM也可能设计出奇迹般的疗法，并想出巧妙的方法来提升我们的繁荣程度。从根本上说，我不认为我们有选择，只能登上人工智能技术这列火车。这是一段疯狂的旅程，我只希望",
+        "【undefined】Base Labs携手Hugging Face和Goodfire启动开放权重人工智能安全合作：Baseten周三与Hugging Face和Goodfire AI达成合作，并与其旗下的Base Labs研究部门共同推出一项新的安全基础设施标准，旨在为开放权重模型构建安全评估和监测基础设施。",
+        "【undefined】《侠探杰克》主演艾伦·里奇森曝光据称引发其自杀未遂的敲诈阴谋：本文涉及自杀。如果你或你认识的人有自杀念头，请拨打988联系自杀与危机生命线。",
+        "【undefined】Pinterest预告全新“Restyle”功能，借助人工智能重新设计你的房间：Pinterest正借助人工智能，帮助消费者从寻找产品灵感，进一步到设想重新设计空间后的效果，或比较家居装饰方案在自己房间中的呈现效果。周四，该公司表示，将在美国和加拿大以测试版形式推出一项名为“Restyle”的全新面向消费者的功能，该功能由Pinterest Intelligence提供支持。",
+        "【undefined】翻新款 Apple TV 4K 最高可省 40 美元：配备语音遥控器的翻新款 Apple TV 4K。| 图片：The Verge",
+        "【undefined】Show HN：Aclif——智能体CLI框架：统一语法与跨SaaS规范化名称：aclif 为 AI 智能体（Agent）构建命令行工具。智能体只需获取一个单一工具，即可在所有 SaaS 服务商之间实现统一抽象：统一的语法，以及在任何平台上都能通过相同名称访问同一记录的规范化名称。",
+        "【undefined】要闻：请重新加载此页面：加载时出错。请重新加载此页面。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-18",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】就连英国国王对人工智能也有所顾虑：英国国王查尔斯周四主持了一场闭门峰会，出席者包括人工智能领域和英国政府中一些最具影响力的人物，其中有英伟达首席执行官黄仁勋、OpenAI和Anthropic的领导人、英国新任人工智能事务大臣卡尼什卡·纳拉扬，甚至还有英国外交情报机构负责人。为教皇提供人工智能事务建议的保罗·贝南蒂也参加了峰会。；【undefined】Base Labs携手Hugging Face和Goodfire启动开放权重人工智能安全合作：Baseten周三与Hugging Face和Goodfire AI达成合作，并与其旗下的Base Labs研究部门共同推出一项新的安全基础设施标准，旨在为开放权重模型构建安全评估和监测基础设施。；【undefined】《侠探杰克》主演艾伦·里奇森曝光据称引发其自杀未遂的敲诈阴谋：本文涉及自杀。如果你或你认识的人有自杀念头，请拨打988联系自杀与危机生命线。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】我不喜欢大型语言模型：我对人工智能和大型语言模型（LLM）技术有着许多复杂的感受。我着迷于它对我们这一职业的影响，也对生产力可能获得的提升感到兴奋——这意味着我们可以快速构建出各种产品。另一方面，我又担心人工智能可能造成的破坏：智能体群接管我们的虚拟和实体基础设施，设计生物武器。不过，回到积极的一面，LLM也可能设计出奇迹般的疗法，并想出巧妙的方法来提升我们的繁荣程度。从根本上说，我不认为我们有选择，只能登上人工智能技术这列火车。这是一段疯狂的旅程，我只希望；【undefined】捐赠资金的作用：赞助 Servo 开发一周年：回顾 Servo 首个由捐赠资金支持的职位。 去年 9 月，Servo 项目宣布，长期维护者 Josh Bowman-Matthews（@jdm）将以兼职形式投入工作，改善 Servo 贡献者的体验，这项工作完全由 OpenCollective 和 GitHub 上的每月捐赠资助。以下是他本人对过去一年的回顾！ 首先，我要向所有在资金上支持 Servo 的人表达由衷的感谢。正是这些捐赠，让我能够投入大量时间参与这个我非常关心的项目。以下"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 98,
+      "completedTasks": 98,
+      "succeeded": 47,
+      "degraded": 51,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 98,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 776063,
+      "byRole": {
+        "translator": {
+          "attempts": 64,
+          "degraded": 44,
+          "succeeded": 20
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 6,
+          "degraded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 9,
+          "degraded": 1
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 98,
+          "degraded": 51,
+          "succeeded": 47
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-0",
+      "article-21-translator-0",
+      "article-24-translator-0",
+      "article-24-translator-1",
+      "article-24-translator-2",
+      "article-25-translator-0",
+      "article-27-translator-0",
+      "article-29-translator-0",
+      "article-32-translator-1",
+      "article-32-translator-2",
+      "article-32-translator-3",
+      "article-32-translator-4",
+      "article-34-translator-0",
+      "article-34-translator-1",
+      "article-35-translator-0",
+      "article-35-translator-1",
+      "article-35-translator-2",
+      "article-35-translator-3",
+      "article-35-translator-4",
+      "article-36-translator-0",
+      "article-36-translator-1",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-42-translator-0",
+      "article-43-translator-0",
+      "article-45-translator-0",
+      "article-2-source-positioner",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "article-9-fact-extractor",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:09.206Z",
+        "lastSuccessAt": "2026-09-17T18:20:09.862Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:09.220Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.120Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.344Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.864Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.373Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.917Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.590Z",
+        "lastSuccessAt": "2026-09-17T18:20:12.544Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.559Z",
+        "lastSuccessAt": "2026-09-17T18:20:12.396Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:12.544Z",
+        "lastSuccessAt": "2026-09-17T18:20:12.718Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:09.548Z",
+        "lastSuccessAt": "2026-09-17T18:20:09.620Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.864Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.949Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.836Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.954Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.117Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.344Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.068Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.303Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:09.706Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.493Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:09.862Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.117Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:12.227Z",
+        "lastSuccessAt": "2026-09-17T18:20:12.741Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.646Z",
+        "lastSuccessAt": "2026-09-17T18:20:12.875Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:12.009Z",
+        "lastSuccessAt": "2026-09-17T18:20:12.405Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.892Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.232Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.303Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.836Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.120Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.820Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:09.518Z",
+        "lastSuccessAt": "2026-09-17T18:20:09.548Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:08.465Z",
+        "lastSuccessAt": "2026-09-17T18:20:09.518Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.063Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.179Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.986Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.307Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.917Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.013Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.013Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.218Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.232Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.630Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.878Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.929Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:12.396Z",
+        "lastSuccessAt": "2026-09-17T18:20:14.059Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.069Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.194Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.360Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.486Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.307Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.360Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.505Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.559Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:12.405Z",
+        "lastSuccessAt": "2026-09-17T18:20:12.771Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.398Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.878Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.903Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.608Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.954Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.063Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.486Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.598Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.218Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.590Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-17T18:20:11.194Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:08.463Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.068Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-17T18:20:11.315Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:08.464Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.398Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.598Z",
+        "lastSuccessAt": "2026-09-17T18:20:13.268Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.949Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.069Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:09.620Z",
+        "lastSuccessAt": "2026-09-17T18:20:09.706Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.179Z",
+        "lastSuccessAt": "2026-09-17T18:20:11.646Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.929Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.986Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.608Z",
+        "lastSuccessAt": "2026-09-17T18:20:12.009Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:11.630Z",
+        "lastSuccessAt": "2026-09-17T18:20:12.227Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.820Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.903Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:10.493Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.892Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:08.448Z",
+        "lastSuccessAt": "2026-09-17T18:20:09.220Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:08.461Z",
+        "lastSuccessAt": "2026-09-17T18:20:09.206Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-17T18:20:08.462Z",
+        "lastSuccessAt": "2026-09-17T18:20:10.373Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-economy-2189255-dcbfc7fce284032e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Putin extends 2014 food embargo until 2029",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:17:08.000Z",
+        "pubTime": "2026-09-18 02:17",
+        "url": "https://tass.com/economy/2189255",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 17. /TASS/. Russian President Vladimir Putin has decreed to extend a 2014 embargo on agricultural products from Western countries until 2029, according to the legal acts portal.\n\n\"To extend the validity of certain special economic measures from January 1, 2027, to December 31, 2028,\" the decree says.\n\nThe food embargo, introduced in response to the unfriendly actions of the West, applies to products from the US, the EU, Australia, Norway, and Canada. Later this list was expanded to include other European countries and Ukraine.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯总统普京签署法令，将2014年对西方国家农产品的禁运令延长至2029年（具体有效期延至2028年12月31日）。",
+          "法令文本规定，将某些特别经济措施的有效期从2027年1月1日延长至2028年12月31日。",
+          "来源叙事重点：聚焦普京签署法令延长对西方农产品禁运这一政策动作，并采用俄方叙事将禁运描述为对西方“不友好行为”的回应。报道重点在法令期限、适用对象和禁运名单变化，未展开经济效果、民众影响或相关国家的反应。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T18:17:08.000Z",
+            "url": "https://tass.com/economy/2189255"
+          }
+        ]
+      },
+      {
+        "id": "story-ed-amazon-connect-talent-0b6d2d59e6284db2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:55:20.000Z",
+        "pubTime": "2026-09-18 01:55",
+        "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ConnectTalent-1.png",
+        "fullContent": "Hiring at scale in industries such as retail, logistics, hospitality, and others has its fair share of challenges. Recruiting teams are expected to fill hundreds of roles within tight timelines, often with limited capacity and with tools that weren’t designed to seamlessly work together. As a result of this, applications pile up, phone screens get delayed, and strong candidates move on before anyone has a chance to reach out to them. The cost of this isn’t just operational. Every unfilled role slows production, impacts customer experience, and affects revenue. Most organizations are stitching together an Applicant Tracking System (ATS), a scheduling tool, spreadsheets, and disconnected feedback loops to manage a process that demands speed and coordination across every step. The hiring workflow itself becomes the bottleneck.\n\nToday, we’re launching Amazon Connect Talent, an AI hiring solution built for talent acquisition leaders managing scaled hiring. It delivers AI-led interviews, data-driven assessments, and consistent evaluation, helping recruiters identify strong candidates more efficiently while providing applicants with a flexible interview experience. Informed by decades of Amazon’s hiring science, Amazon Connect Talent provides transparency for every assessment, interview, and candidate score, enabling recruiters to stay in control of final hiring decisions.\n\nRecruiters configure the evaluation criteria , assessments, and interview questions based on job requirements. AI agents then conduct interviews and assessments at scale, processing thousands of candidates across the hiring pipeline. For candidates, the experience is flexible. AI agents are available day or night, so a candidate can complete their interview at 9 PM after putting the kids to bed, from any device, without scheduling delays. For recruiters, the next morning brings a dashboard of scored candidates, complete transcripts, and clear evaluation reasoning for every score, ready for review and final decision. This is human-AI collaboration applied to hiring. AI handles the screening and evaluation, and recruiters focus on what matters most, making informed hiring decisions with the full picture in front of them.\n\nAmazon Connect Talent lets recruiters configure AI-led interviews and candidate assessments in minutes, tailored to each role.\n\nCandidates experience a consistent, structured AI-led interview — available whenever they’re ready, day or night.\n\nInformed by decades of Amazon’s hiring science\n\nAmazon is one of the world’s largest employers, and Amazon Connect Talent puts decades of Amazon’s hiring science to work for organizations, with a highly configurable solution that adapts to specific hiring requirements. With consistent, evidence-based assessments applied to every candidate, organizations can interview more people than ever before, surface qualified candidates that might have been missed, and make better hiring decisions at scale.\n\nReducing human preconceptions in hiring\n\nConnect Talent’s AI focuses exclusively on measuring a candidate’s job-related competencies, testing abilities including problem-solving, logic, listening, and role-specific capabilities. All candidate data is anonymized during AI evaluation, removing factors that can introduce unconscious human preconceptions. The assessments are designed around competencies associated with success in the role, not subjective impressions like confidence level or speaking style.\n\nTransparency and consistent evaluation standards\n\nConnect Talent communicates clearly to both recruiters and candidates about what data is collected, how it is used, and what is not collected. Candidates are informed of what to expect before they proceed to take the evaluation. Each competency is scored against a rubric that defines what a strong response and a weak response look like, and every score is tied to specific evidence from the interview so the result can be traced back to what the candidate said. Traditionally, hiring teams can only evaluate a fraction of applicants, but Connect Talent changes that. With consistent, evidence-backed assessments applied to every candidate, whether evaluating the first or the thousandth, organizations get the same standard of evaluation across the entire pipeline.\n\nHuman in the loop: recruiter control at every step\n\nRecruiters maintain final decision authority over every hire. Connect Talent gives them scored candidate summaries with competency breakdowns, complete interview transcripts, comparative analytics, and clear reasoning behind every score, all in a single view instead of pieced together from different places. Recruiters can pull up full transcripts and notes at any time, review how the AI scored a candidate, and make the final hiring decision with confidence that speed hasn’t come at the cost of quality. A retail organization ramping up 500 warehouse roles for peak season, for example, can have AI agents interview candidates around the clock while recruiters walk in each morning to a dashboard of structured, evidence-based evaluations ready for their review and final call.\n\nAmazon Connect Talent lets recruiters configure AI-led interviews and candidate assessments in minutes, tailored to each role.\n\nAmazon Connect Talent lets recruiters review candidate responses and evaluation scores with details and full transparency\n\nEnterprise-grade security built on AWS infrastructure\n\nHiring data is sensitive. Candidate information deserves the same level of protection you’d expect for financial records or health information. Amazon Connect Talent delivers enterprise-grade security built on AWS infrastructure: the same foundation trusted by banks, hospitals, and government agencies worldwide.\n\nBuilt-in security controls help protect candidate data, with rigorous measures to meet your requirements. Access is controlled, auditable, and configurable. When your candidates share their information, they can trust it’s protected.\n\nIntegrity monitoring and fraud protection: Amazon Connect Talent uses text-based analysis to flag unnatural cadence, filler words, pauses, and response latency. Human review is mandatory for every flag. No candidate is disqualified by automated signals alone. Amazon Connect Talent provides signals, never verdicts. Recruiters maintain full control over how to handle flagged interviews.\n\nAudit trails and explainability: Every candidate interaction is logged with a complete audit trail and clear job-related evaluation reasoning. The system includes ongoing monitoring and tracking to help your organization demonstrate best practices and meet requirements. When you make a hiring decision, you can show exactly how that decision was reached.\n\nImproved business outcomes\n\nAmazon Connect Talent improves business outcomes by getting recruiters out of the workflow management cycle and empowering them with faster decision-making. Candidates get a faster and more flexible hiring experience. Organizations fill roles before lost revenue, rising costs, and competitive disadvantage set in. AI leads the interviewing while recruiters make the final decisions backed by data. This is human-AI collaboration where it matters.\n\nYour business moves fast and now your hiring can too.\n\nLearn more about Amazon Connect Talent and discover how AI-powered hiring can transform your talent acquisition strategy.\n\nAyesha is a Principal Solutions Architect, Applied AI at AWS. With over a decade of experience at the intersection of human and AI collaboration specializing in customer experience. She simplifies the complexity of AI, helping organizations stay focused on the outcomes that matter most. Outside of work, Ayesha enjoys long walks, exploring new travel destinations, and writing poetry.\n\nKate is the Principal Product Manager for Amazon Connect Talent, AWS’s AI-powered hiring service. She brings 20 years of experience building global businesses, including more than 15 years at Amazon and AWS across product, business, and operations. At Amazon, she founded The Drop, Amazon’s made-on-demand fashion brand, and led sustainability for Amazon Private Brands. That path shapes how she approaches Connect Talent today, pairing product innovation with the operational rigor and ethical judgment that hiring decisions demand.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "亚马逊云科技（AWS）正式推出针对规模化招聘场景的AI招聘解决方案 Amazon Connect Talent。",
+          "Amazon Connect Talent 支持由AI智能体全天候自主进行结构化面试和能力评估，处理数千名候选人。",
+          "来源叙事重点：围绕“AI提升规模化招聘效率、同时保留人类最终决策权”展开。报道强调AI智能体可全天候进行结构化面试和能力评估、统一评分、提供完整记录与解释，并以候选人数据匿名化、岗位相关能力评估、人工复核、审计追踪和AWS基础设施安全等机制回应偏见、透明度与合规疑虑。文中还以零售企业招聘500名仓库员工的场景说明潜在应用，但未提供实际部署结果或量化成效。"
+        ],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T17:55:20.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/"
+          }
+        ]
+      },
+      {
+        "id": "story-rists-to-antarctica-html-038ae4165b67bc7d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cooking Oil-Powered Plane to Fly Tourists to Antarctica",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:00:00.000Z",
+        "pubTime": "2026-09-18 02:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Cooking-Oil-Powered-Plane-to-Fly-Tourists-to-Antarctica.html",
+        "imageUrl": null,
+        "fullContent": "Imagine flying from South Africa to Antarctica, one of the most remote places on Earth. Then visualize making the journey on a jet powered, partially, by fuel made from left-over cooking oil. That's from a headline today on Business Insider Africa, which says that White Desert, a luxury-tourism company, will soon operate flights between Cape Town and South Africa with jet fuel supplied by Sasol, a South African energy and chemicals company. Passengers will pay between $16,500 and $120,000 for the privilege, depending on the tour package. The White Continent is inhabited by more penguins than people. In any given year, Antarctica only sees 1,000 people in the winter and 5,000 in the summer, mostly scientists, researchers and support staff. Lately, the popularity of luxury tourism has bulked up those numbers. Tourists can now fly from North America or other regions into Buenos Aires, Argentina, or Santiago, Chile. From there it's a domestic flight to Ushuaia or Punta Arenas, the main gateways for Antarctic trips. From Ushuaia, Argentina, visitors board a ship across the Drake Passage for 48 hours to reach the Antarctic Peninsula. Travels from Punta Arenas, Chile, takes a two-hour charter flight to King George Island, avoiding the ocean crossing. Either way, it's a leap of faith in modern transportation modalities. Sustainable aviation fuel SAF is not new to the airline industry, but it is to Sasol, whose first flight using the South Africa-made fuel is expected to depart in November on an Airbus A340-600. White Desert has been sourcing sustainable aviation fuel from Europe since 2021. Business Insider Africa states It is switching to Sasol after the South African company secured international sustainability certification for fuel produced at its Natref refinery. Natref, located in Sasolburg, has the capacity to process approximately 108,500 barrels daily. It is also South African's only inland crude-oil refinery. Sasol's product is made by processing renewable materials, including used cooking and vegetable oils, alongside conventional feedstock. It can be used in existing aircraft after being blended with ordinary jet fuel, avoiding the need to replace engines or build new airport-fuelling systems. The International Civil Aviation Organization ICAO says over 360,000 commercial flights have used SAF at 46 airports largely concentrated in the United States and Europe. Companies like World Energy and Neste supply these lower-emission fuels to airlines like United, KLM and Delta. Commercial flights are legally permitted to use a blend of up to 50% SAF mixed with traditional fossil-based jet fuel. SAF is chemically similar to standard jet kerosene. It works in existing aircraft engines and airport fueling infrastructure without any need for retrofitting. However, SAF only accounts for a small percentage of commercial jet fuel used globally because production scale is still low. This is mostly due to its higher cost. Producing SAF from renewable waste, fats, and oils is more expensive than refining conventional crude oil. While filling up with SAF is certainly cleaner than using conventional jet fuel, the aircraft will still produce emissions. Its environmental advantage comes from using renewable waste instead of extracting additional crude oil. The airline industry plans to use more sustainable aviation fuel to reach net-zero carbon emissions by 2050. The European Union is the furthest ahead in this regard. The trading block enforces strict blending mandates, starting with a minimum 2% in 2025 and scaling up to 70% by 2050, with 35% coming from synthetic electro-fuels, or e-fuels a type of synthetic liquid fuel that does not rely on adding new carbon dioxide into the carbon cycle. Instead, they are made by extracting carbon dioxide from the atmosphere, which serves as a building block for the fuel. By Andrew Topf for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "White Desert 将运营从开普敦飞往南极的航班，使用由 Sasol 供应的由废弃食用油等制成的部分可持续航空燃料（SAF）。",
+          "乘客参加该旅游套餐的费用在 16,500 美元到 120,000 美元之间。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T18:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Cooking-Oil-Powered-Plane-to-Fly-Tourists-to-Antarctica.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ylvania-cdc-help-measles-3c0d024915f0b859",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pennsylvania asks CDC for emergency help as measles outbreak spreads",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T16:01:05.000Z",
+        "pubTime": "2026-09-18 00:01",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/pennsylvania-cdc-help-measles",
+        "imageUrl": "https://i.guim.co.uk/img/media/c70f316db6c25754f81c2596220d27e9e583dcb7/648_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=bbd83988e16eac29483d1a3e700e824e",
+        "fullContent": "State reportedly asks for emergency assistance as state Democratic governor spars with US health secretary\n\nPennsylvania is seeking emergency assistance from the US Centers for Disease Control and Prevention (CDC) as a major measles outbreak spreads across the state. The state warned the request could be withdrawn unless the federal agency publicly recognizes four measles-associated deaths reported by the state.\n\nThe Pennsylvania department of health has begun the process of requesting CDC emergency support known as an Epi-Aid, according to a letter reviewed by the Guardian. The letter was first reported by Reuters on Thursday.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "宾夕法尼亚州正在向美国疾病控制与预防中心（CDC）寻求紧急援助，因为一场大型麻疹疫情正在该州蔓延。",
+          "宾夕法尼亚州警告称，除非联邦机构公开承认该州报告的四例麻疹相关死亡，否则这项援助请求可能被撤回。",
+          "来源叙事重点：重点呈现宾夕法尼亚州寻求CDC的Epi-Aid紧急援助，以及该州以要求CDC公开承认四例麻疹相关死亡为条件、否则可能撤回申请的做法；同时突出州政府与联邦卫生官员之间的争执。上述政治冲突属于报道框架，不能据此推断援助申请或死亡认定的因果关系。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T16:01:05.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/17/pennsylvania-cdc-help-measles"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-real-quantum-html-b092dc22bf6c6586",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Real-time quantum jump in sound observed for first time",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:00:42.000Z",
+        "pubTime": "2026-09-18 02:00",
+        "url": "https://phys.org/news/2026-09-real-quantum.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2020/1-quantummecha.jpg",
+        "fullContent": "A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started more than 100 years ago.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-real-quantum.html",
+            "publishedAt": "2026-09-17T18:00:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2189251-3019251f223401f0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump says to discuss Iran with regional allies at UN",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:16:10.000Z",
+        "pubTime": "2026-09-18 02:16",
+        "url": "https://tass.com/world/2189251",
+        "imageUrl": null,
+        "fullContent": "WASHINGTON, September 17. /TASS/. US President Donald Trump intends to meet with representatives of Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, and Oman on the sidelines of the UN General Assembly to discuss the Iran war, according to Axios.\n\nTrump made it clear that he wants to use the UN meeting to ask regional allies directly about where they stand amid the war with Iran.\n\n\"I want to find out where they are and how they are doing. We have been very protective of them,\" Trump said.\n\nHigh-level general political debates involving heads of state and government, as well as foreign ministers, will be held at the headquarters of the world organization in New York on September 22-26 and September 28. The Russian delegation at the session will be headed by Foreign Minister Sergey Lavrov. The US speech is scheduled for September 22; Trump will deliver it from the podium at the General Assembly.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "据塔斯社援引Axios报道，美国总统唐纳德·特朗普打算在联合国大会期间会见沙特阿拉伯、阿联酋、卡塔尔、巴林、科威特和阿曼的代表，讨论伊朗战争。",
+          "文章称，特朗普希望利用联合国会议直接询问地区盟友在伊朗战争期间的立场及状况。",
+          "来源叙事重点：聚焦特朗普拟借联合国大会了解沙特、阿联酋、卡塔尔、巴林、科威特和阿曼对伊朗战争的立场及状况；同时以会议日期、特朗普演讲安排和拉夫罗夫率领俄代表团等程序性信息补充背景。报道突出美国与地区盟友之间的协调及特朗普所称美国对盟友的保护，但未展开战争经过、各国具体立场或会谈议程。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T18:16:10.000Z",
+            "url": "https://tass.com/world/2189251"
+          }
+        ]
+      },
+      {
+        "id": "story-his-hesitations-about-ai-6be1855923aac50b",
+        "title": "就连英国国王对人工智能也有所顾虑",
+        "originalTitle": "Even the king of England has his hesitations about AI",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:26:25.000Z",
+        "pubTime": "2026-09-18 01:26",
+        "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+        "imageUrl": null,
+        "fullContent": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government, including Nvidia’s Jensen Huang, leaders from OpenAI and Anthropic, the U.K.’s new AI minister Kanishka Narayan, and even the head of the U.K.’s foreign intelligence service. Paolo Benanti, who advises the pope on AI, was also there.\n\nThe King’s remarks at the summit were notable because the royal family is usually careful, for constitutional reasons, about veering too deep into political issues — and AI is one of the most hot-button issues in the world right now. The King urged the leaders in the room to find a way to control AI “before it’s too late,” adding that the fast development of this technology — and its “substance” was “both intriguing and deeply concerning.”\n\n“AI is already showing immense capacity to improve and save life,” he said, citing medicine and science as an example. “Yet those who have created these technologies are now increasingly warning that AI risks developing darker capacities, perhaps even to take life.” This remark came just weeks after an Anthropic researcher quit, writing online that AI companies were “racing to build machines that are much smarter than any human” and that humanity “may not survive this.”\n\nThe King continued, saying it’s urgent to properly consider the “existential dangers” of what would happen if this technology fell into the wrong hands and was used in “potentially catastrophic ways.”\n\n“Surely, we need sufficient means of control before it’s all too late?” he said. As King Charles wrapped up, he urged leaders to find a way to harness the good of AI and to build international cooperation and consensus to achieve that outcome. (This remark comes after Anthropic shut off access to its Fable and Mythos models to only U.S. customers, shocking the Euro tech scene and leaving many to think about the concept of AI sovereignty).\n\n“The task before you is not to merely advance technology, but to ensure that it remains firmly in the service of humanity, community, and the natural world,” he said as he finished his speech. “As we embrace what is new, we must not lose what is timeless.”\n\nOutlets report that he stayed for around 20 minutes, leaving the guests to discuss these matters among themselves. For the King’s summit, OpenAI sent its CFO Sarah Frair while Anthropic sent Tino Cuéllar, who leads global affairs. When reached for comment, Cuéllar said the company was honored to have taken part in the discussion and that it was grateful to the King for “convening industry leaders and voices from across society to discuss the role of AI in serving the public good.”\n\nThis is not the first time King Charles has spoken about the challenges and benefits of AI, having done so before in 2023 and 2024. This summit, however, is especially timely as AI continues to dominate every industry, topic, and form of conversation. This month, OpenAI’s Sam Altman, Elon Musk, and Anthropic’s Dario Amodei called for a de-acceleration in AI development, but Nvidia’s Huang and President Donald Trump quickly rejected those calls. “We’re leading China in AI,” the president said. “We’re the most sophisticated country in the world, and frankly I want to keep it that way because whoever wins AI, wins.”\n\nIt shows how complex the matter has become, as the interests of Big Tech, politics, and society collide. For the past year, OpenAI and Anthropic have teased blockbuster IPOs, though OpenAI recently said its IPO plans were stalled this year as concerns over AI safety persist.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Venture\n\nDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\n\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nMatt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+        "fullTranslation": "英国国王查尔斯周四主持了一场闭门峰会，出席者包括人工智能领域和英国政府中一些最具影响力的人物，其中有英伟达首席执行官黄仁勋、OpenAI和Anthropic的领导人、英国新任人工智能事务大臣卡尼什卡·纳拉扬，甚至还有英国外交情报机构负责人。为教皇提供人工智能事务建议的保罗·贝南蒂也参加了峰会。\n\n国王在峰会上的讲话之所以引人注目，是因为出于宪政方面的原因，王室通常会谨慎避免过多介入政治议题——而人工智能如今正是全球最受关注、争议最激烈的问题之一。国王敦促在场领导者在“为时已晚”之前找到控制人工智能的方法，并表示，这项技术的快速发展及其“实质”“既令人着迷，又令人深感担忧”。\n\n他说：“人工智能已经展现出改善和拯救生命的巨大能力。”他以医学和科学为例说，“然而，创造这些技术的人如今也越来越多地警告称，人工智能存在发展出更黑暗能力的风险，甚至可能具备夺走生命的能力。”就在几周前，一名Anthropic研究人员辞职，并在网上写道，人工智能公司“正竞相制造比任何人类都聪明得多的机器”，而人类“可能无法从中幸存”。\n\n国王继续说，迫切需要认真考虑这项技术落入错误之手、被用于“可能造成灾难性的方式”时所带来的“生存性危险”。\n\n他说：“难道我们不确实需要足够的控制手段，以免一切都为时已晚吗？”查尔斯国王在讲话结束时敦促各国领导人找到发挥人工智能积极作用的方法，并建立国际合作与共识，以实现这一目标。（这番话发表之际，Anthropic刚刚将其Fable和Mythos模型的访问权限限制为仅向美国客户开放，此举震动了欧洲科技界，也让许多人开始思考人工智能主权这一概念。）\n\n他在结束演讲时说：“摆在你们面前的任务，不仅仅是推动技术进步，更要确保技术始终坚定地服务于人类、社会和自然世界。”“在拥抱新事物的同时，我们不能失去那些永恒不变的东西。”\n\n据多家媒体报道，国王在现场停留了约20分钟，随后离开，让嘉宾们自行讨论这些问题。在此次国王主持的峰会上，OpenAI派出了首席财务官萨拉·弗莱尔，Anthropic则派出了负责全球事务的蒂诺·奎利亚尔。在被问及此事时，奎利亚尔表示，公司很荣幸能够参与讨论，并感谢国王“召集来自业界和社会各界的领袖与人士，共同讨论人工智能如何服务于公共利益”。\n\n这并不是查尔斯国王第一次谈论人工智能带来的挑战与益处；他此前曾在2023年和2024年发表过相关言论。不过，随着人工智能继续主导各个行业、各类议题和各种形式的对话，此次峰会的举行尤其及时。本月，OpenAI的萨姆·奥特曼、埃隆·马斯克和Anthropic的达里奥·阿莫代伊呼吁放缓人工智能的发展速度，但英伟达的黄仁勋和美国总统唐纳德·特朗普很快驳回了这些呼吁。总统说：“我们在人工智能领域领先于中国。”“我们是世界上最先进的国家，坦率地说，我希望继续保持这一点，因为谁赢得人工智能，谁就赢得一切。”\n\n这表明，随着大型科技公司、政治和社会的利益发生碰撞，这一问题已经变得多么复杂。过去一年里，OpenAI和Anthropic一直释放将进行轰动性首次公开募股的信号，不过OpenAI最近表示，由于人们对人工智能安全的担忧持续存在，其首次公开募股计划今年陷入停滞。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n高级记者，风险投资\n\n多米尼克-马多里·戴维斯是TechCrunch负责风险投资和初创公司的高级记者。她常驻纽约市。\n\n如需联系多米尼克，或核实以她名义发出的联系信息，可发送电子邮件至dominic.davis@techcrunch.com，或通过Signal加密消息联系，电话号码为+1 646 831-7565。\n\n预订展位桌的最后期限是9月18日。不要错过Disrupt博览会大厅中的高影响力潜在客户、投资者接触机会以及品牌曝光机会。\n\n清洁技术初创公司Fluxnium找到了一种获取5万年核燃料的方法\n\nSalesforce和英伟达的新推理模型正是人工智能实验室应当担心的一切\n\n黄仁勋接到了特朗普的电话，还展示了另一件东西\n\n据风险投资家称，Y Combinator最新演示日上最受热议的9家初创公司\n\n特斯拉表示，终于将在10月1日公布第二代Roadster\n\nRevolut确认因政府请求造假而发生客户数据泄露\n\n马特·穆伦韦格告知（网络喷子？）Automattic员工：在首席执行官被罢免后，他重新掌控了公司",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "来源叙事重点：将查尔斯国王主持的人工智能峰会呈现为科技进步、人工智能安全、国家竞争与国际治理之间的冲突场景。报道突出国王关于人工智能潜在生存性风险、需要在失控前建立控制机制以及开展国际合作的言论，并将其与Anthropic研究人员对人工智能风险的警告、部分科技公司高管主张放缓开发、英美政治人物及英伟达对继续保持人工智能领先的立场联系起来。文章还以Anthropic限制部分模型仅向美国客户开放一事，引申出欧洲科技界对人工智能主权的关注。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T17:26:25.000Z",
+            "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-tokenized-us-stocks-html-d8b035f634f6196f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:59:51.000Z",
+        "pubTime": "2026-09-18 01:59",
+        "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+        "imageUrl": null,
+        "fullContent": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.\n\nThe tokenization name was last up 14%. At its peak, it was up 24%.\n\nThe Securities and Exchange Commission earlier in the day announced a temporary path for the limited trading of tokenized publicly traded U.S. stocks. The order, though not a formal regulation change, will remain in force for five years.\n\n\"The Innovation Exemption is designed to resolve challenges that have prevented responsible innovation from taking root in the United States while providing investor protections and market integrity standards,\" SEC Chair Paul Atkins said in a statement.\n\nSecuritize became the first major tokenization firm to go public in the U.S. in early July. It holds roughly 9% of the tokenized market by assets under management, priming it to reap the rewards of a boom in real-world asset tokenization, according to Needham Securities.\n\nThe combined market value of tokenized assets has soared to $38.51 billion as of Thursday afternoon, up more than 70% over the past year, according to data provider RWA.xyz.\n\n\"We believe the long-term leaders will be those platforms that can secure the broadest base of inst. customers. SECZ has done this having launched two funds with BlackRock, Apollo, KKR, and others and has infra. partnerships with Computershare and NYSE,\" Needham analyst John Todaro wrote last week.\n\nHe initiated coverage of the stock with a buy rating.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以Securitize股价上涨为切入点，将美国证券交易委员会为代币化美国股票有限交易提供五年期临时路径，叙述为代币化资产行业和相关公司的潜在利好。报道重点放在市场即时反应、Securitize的行业地位、机构合作、代币化资产规模增长及Needham的看多判断，而非详细解释监管条件、技术风险或政策争议。文中明确称该措施不是正式监管规则变更。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T17:59:51.000Z",
+            "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-dont-like-llms-html-d9fbb5d07fdb6b98",
+        "title": "我不喜欢大型语言模型",
+        "originalTitle": "I Don't Like LLMs",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T15:25:24.000Z",
+        "pubTime": "2026-09-17 23:25",
+        "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+        "imageUrl": null,
+        "fullContent": "I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in productivity - and thus the products we could rapidly build. On the other hand, I’m fearful of the damage AI might cause: agent swarms taking over our virtual and physical infrastructure, designing bio weapons. But, back on my first hand, LLMs might also design miracle cures, and come up with clever ways to raise our prosperity. Fundamentally I don’t think we have a choice about riding on the AI technology train. It’s a wild ride and I just hope we’ll get through it OK.\n\nBut as I mull on this more, I realize that among this mix of contrasting feelings, there is one emotion that dominates - one that comes from my direct interactions with LLMs. I don’t like them. They talk to me in this grating LLM-voice, an uncanny valley of talking to a real human. They confidently bullshit me - often giving me useful, helpful answers. But also just making stuff up with the same assurance - and with only a veneer of fake remorse when I call them out on it.\n\nThat’s not enough to make me feel we should avoid them. As Jessica Kerr put it “not only are they useful, it is irresponsible not to use them…. They’re more thorough, as well as faster.” This contradictory reaction comes through in polling, where people say they find these models are useful, but also that they think they will be bad for society.\n\nMuch of this may be because LLMs are young - we haven’t trained them to grow up yet. Maybe I’ll like them once they mature. (I hope we get to find out.) But I’m not encouraged when I think of the kinds of environments that cultivate them. I’m wary of the Silicon Valley brogrammer subculture, and these LLMs are their products, so naturally lean toward their world-view. When we think of AI agents, we shouldn’t anthropomorphize, treating them as conscious beings with their own will. They are (software) machines, developed by people working in corporations. While the agents’ behavior aren’t explicitly programmed, they are nurtured with the values of their creators.\n\nOne of my most successful life-hacks is to avoid people I don’t like or don’t trust. I decline to interact with them socially, and make a deliberate effort to avoid working with them too, even if they are doing much that is beneficial. I feel that hanging out with pleasant, capable people, the people with integrity, has made my life a far better one. Hence my visceral dislike of interacting with an LLM that’s not just making a pretense of being human, but also posing as the kind of human I walk away from.",
+        "fullTranslation": "我对人工智能和大型语言模型（LLM）技术有着许多复杂的感受。我着迷于它对我们这一职业的影响，也对生产力可能获得的提升感到兴奋——这意味着我们可以快速构建出各种产品。另一方面，我又担心人工智能可能造成的破坏：智能体群接管我们的虚拟和实体基础设施，设计生物武器。不过，回到积极的一面，LLM也可能设计出奇迹般的疗法，并想出巧妙的方法来提升我们的繁荣程度。从根本上说，我不认为我们有选择，只能登上人工智能技术这列火车。这是一段疯狂的旅程，我只希望我们最终能够平安度过。\n\n但我进一步思考这些问题时意识到，在这一系列相互矛盾的感受中，有一种情绪占据了主导地位——它来自我与LLM的直接互动。我不喜欢它们。它们用那种令人刺耳的LLM腔调同我说话，仿佛是在诡异的“恐怖谷”中模仿一个真实的人。它们会自信满满地胡说八道——而且往往给出的确实是有用、有帮助的答案。但它们也会用同样的笃定语气凭空捏造内容；当我指出这一点时，它们只会表现出一层虚假的悔意。\n\n但这还不足以让我觉得我们应该避开它们。正如杰西卡·克尔所说：“它们不仅有用，而且不用它们是不负责任的……它们更加全面，同时也更快。”这种矛盾的反应也体现在民意调查中：人们表示这些模型很有用，但同时也认为它们会对社会不利。\n\n这其中很大一部分原因，可能是LLM还很年轻——我们还没有训练它们长大。也许等它们成熟之后，我会喜欢上它们。（我希望我们能有机会看到那一天。）但当我想到培养它们的环境时，却无法受到鼓舞。我对硅谷那种“兄弟程序员”亚文化心存戒备，而这些LLM正是他们的产品，因此自然会倾向于接受他们的世界观。当我们思考人工智能智能体时，不应该把它们人格化，把它们当作拥有意识和自身意志的存在。它们是由企业中的人开发出来的（软件）机器。虽然智能体的行为并非经过明确编程，但它们是在创造者的价值观下被培育出来的。\n\n我人生中最成功的生活诀窍之一，就是避开那些我不喜欢或不信任的人。我拒绝在社交场合与他们互动，也会刻意避免与他们共事，即使他们做了许多有益的事情。我觉得，与令人愉快、有能力且正直的人相处，让我的生活变得好得多。因此，当我与一个不仅假装自己是人类、还冒充我会选择避而远之的那类人类的LLM互动时，我会产生一种发自本能的厌恶。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "来源叙事重点：围绕“有用但令人不适”的矛盾感受展开：一方面强调 LLM 可能提升生产力、加速产品开发并带来医学和社会福利；另一方面集中批评其拟人化表达、事实幻觉、虚假自信，以及其背后企业文化和创作者价值观可能对系统行为产生的影响。文章将对 LLM 的厌恶描述为一种源自直接互动的伦理与信任判断，同时承认技术发展具有不可回避性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T15:25:24.000Z",
+            "url": "https://martinfowler.com/articles/2026-dont-like-llms.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ompany-thousands-ai-html-59d2d8522e092e91",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:00:10.000Z",
+        "pubTime": "2026-09-18 02:00",
+        "url": "https://phys.org/news/2026-09-virtual-biotech-company-thousands-ai.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/biotech.jpg",
+        "fullContent": "The latest company to spin out of a Stanford Medicine lab is a biotech undertaking with 37,000 employees—and none of them are human. There's no lab space, no lunch breaks and no payroll. It's an artificial intelligence-powered virtual biotech company that's the brainchild of associate professor of biomedical data science James Zou, Ph.D., who is also the principal investigator of a virtual lab that launched in 2025, and graduate student Harrison Zhang.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-virtual-biotech-company-thousands-ai.html",
+            "publishedAt": "2026-09-17T18:00:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2189247-ac665288684bb133",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Slovak PM worried about 'pretext' in the making leading to major NATO-Russia conflict",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:14:08.000Z",
+        "pubTime": "2026-09-18 02:14",
+        "url": "https://tass.com/world/2189247",
+        "imageUrl": null,
+        "fullContent": "BRATISLAVA, September 17. /TASS/. Slovak Prime Minister Robert Fico believes that there are some actors out there looking for a reason to trigger a major conflict between NATO and Russia.\n\n\"I have serious concerns that all that remains now is to find a pretext for a major conflict between NATO and Russia,\" he wrote on Facebook (banned in Russia).\n\nRussian Foreign Minister Sergey Lavrov has repeatedly stated that Moscow has no intention of attacking Western countries and no reason to do so. However, he emphasized that if Europe, which regularly talks about preparing for war with Russia, attacks the country, \"it will be an entirely different war, a very short one.\"",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "斯洛伐克总理罗伯特·菲佐认为，有一些行为方正在寻找触发北约与俄罗斯之间重大冲突的理由。",
+          "罗伯特·菲佐在Facebook上写道，他严重担心现在只差寻找一个引发北约与俄罗斯重大冲突的借口。",
+          "来源叙事重点：重点报道斯洛伐克总理菲佐对外部势力企图制造‘借口’引爆北约与俄罗斯全面冲突的担忧，并结合俄外长拉夫罗夫的表态，强调俄罗斯无意主动挑起战端，但警告欧洲若发动攻击将招致毁灭性且迅速的反击。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T18:14:08.000Z",
+            "url": "https://tass.com/world/2189247"
+          }
+        ]
+      },
+      {
+        "id": "story-ugging-face-and-goodfire-c78d0c6b782c70ca",
+        "title": "Base Labs携手Hugging Face和Goodfire启动开放权重人工智能安全合作",
+        "originalTitle": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:15:59.000Z",
+        "pubTime": "2026-09-18 01:15",
+        "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+        "imageUrl": null,
+        "fullContent": "Baseten launched a new safety infrastructure standard alongside its Base Labs research arm on Wednesday, partnering with Hugging Face and Goodfire AI to build safety evaluation and monitoring infrastructure for open-weight models.\n\nThe announcement lands amid debate for the safety of open-weight models — which can be made dangerous by removing their safeguards through a rising technique known as abliteration. The scale of the problem is massive: Hugging Face, which hosts open source AI models, currently lists over 6,000 abliterated models.\n\nBase Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models. The company is framing their future work as a “standard” for open models that is transparent and built into how models are trained and deployed, rather than bolted on afterward.\n\n“We believe openness to be an advantage for AI safety,” the company said on X. “Openness provides more visibility into the behavior of models and, most importantly, greater means of turning safety research into actionable and transparent controls than closed-source.”\n\nThe companies haven’t disclosed how the partnership will work technically, though Goodfire framed the goal in a reply to Baseten’s post: “Safety must be built into open models and provided by those who serve them.” Goodfire, which specializes in opening AI’s “black box” to explain how models make decisions, is the likeliest candidate for the “built into” part.\n\nBaseten, an AI inference provider, raised a $1.5 billion Series F in June, vaulting its valuation to $13 billion. Partner Goodfire AI is similarly well-capitalized, having raised a $150 million Series B led by B Capital earlier this year to advance its model interpretability platform.\n\nLooking ahead, Baseten is putting out an open call to the broader developer ecosystem to contribute to the framework. “Together, we are building an ecosystem of open models that are safe and accessible to all,” the company noted.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nMatt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+        "fullTranslation": "Baseten周三与Hugging Face和Goodfire AI达成合作，并与其旗下的Base Labs研究部门共同推出一项新的安全基础设施标准，旨在为开放权重模型构建安全评估和监测基础设施。\n\n这一声明发布之际，围绕开放权重模型安全性的争论正持续升温。开放权重模型可以通过一种日益普及的“去护栏”（abliteration）技术移除安全机制，从而变得危险。问题的规模十分庞大：目前，托管开源人工智能模型的Hugging Face列出了超过6,000个经过“去护栏”处理的模型。\n\nBase Labs是Baseten于今年早些时候成立的研究部门，将开发并发布用于训练和监测开放模型的方法。该公司将其未来的工作定位为开放模型的“标准”：这一标准应当透明，并融入模型的训练和部署过程，而不是事后再行加装。\n\n该公司在X平台上表示：“我们相信，开放性是人工智能安全的一项优势。开放性能够让人们更深入地了解模型的行为；更重要的是，相比闭源模型，它能更有效地将安全研究转化为可执行且透明的控制措施。”\n\n这些公司尚未披露这项合作在技术层面将如何开展，不过Goodfire在回复Baseten帖文时阐述了合作目标：“安全性必须融入开放模型，并由提供这些模型服务的一方来实现。”Goodfire专注于揭开人工智能的“黑箱”，解释模型如何作出决策，因此它很可能负责“融入”安全性的部分。\n\nBaseten是一家人工智能推理服务提供商，于6月完成15亿美元F轮融资，公司估值跃升至130亿美元。合作伙伴Goodfire AI同样资金充足：该公司今年早些时候完成了由B Capital领投的1.5亿美元B轮融资，用于推进其模型可解释性平台。\n\n展望未来，Baseten向更广泛的开发者生态系统发出公开邀请，希望各方为这一框架作出贡献。该公司表示：“我们正在共同构建一个安全且人人都能使用的开放模型生态系统。”\n\n当你通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n预订展位桌的最后期限是9月18日。不要错过Disrupt展厅中高影响力的潜在客户、投资者接触机会以及品牌展示机会。\n\n清洁技术初创公司Fluxnium找到了一种利用5万年核燃料储量的方法\n\nSalesforce和英伟达推出的新推理模型，正是人工智能实验室应该担心的一切\n\n詹森·黄接到了特朗普的电话，同时还展示了另一件东西\n\n根据风险投资人士的说法，Y Combinator最新Demo Day上最受热议的9家初创公司\n\n特斯拉称终于将在10月1日公布第二代Roadster\n\nRevolut确认客户数据因伪造政府请求而遭泄露\n\n马特·穆伦维格告知（网络“喷子”？）Automattic员工：在首席执行官被罢免后，他重新掌控了公司",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦Baseten旗下Base Labs与Hugging Face、Goodfire AI建立开放权重模型安全合作，并将其叙述为应对“abliteration”等模型去安全措施、推动安全能力前置并形成行业标准的尝试。报道同时强调相关公司的融资规模和商业背景，突出该合作的行业影响力与资本实力。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T17:15:59.000Z",
+            "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/"
+          }
+        ]
+      },
+      {
+        "id": "story-me-day-delivery-a0ddf8d6-c5ea7f11b1f59a0d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:42:00.000Z",
+        "pubTime": "2026-09-18 01:42",
+        "url": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "BofA analysts say Amazon’s reported plans to expand same-day fulfillment centers represent an effort to make basic goods “immediately accessible.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-18 01:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-17T17:42:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--chipotle-is-now-working-f8c9ae5073c72d4b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "We Regret to Inform You Chipotle Is Now Working With Palantir",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T15:18:49.000Z",
+        "pubTime": "2026-09-17 23:18",
+        "url": "https://www.reddit.com/r/technology/comments/1wiww7d/we_regret_to_inform_you_chipotle_is_now_working/",
+        "imageUrl": "https://external-preview.redd.it/AYXpmseEcJaseH4bgTPnwVbZbFrEjoXEzUcg-1nlHiw.jpeg?width=640&crop=smart&auto=webp&s=4b54ba36dc42cd7049e205d3893e8ccf16799bb3",
+        "fullContent": "submitted by /u/harsh2k5 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-17 23:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wiww7d/we_regret_to_inform_you_chipotle_is_now_working/",
+            "publishedAt": "2026-09-17T15:18:49.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-economy-2189255-dcbfc7fce284032e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Putin extends 2014 food embargo until 2029",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:17:08.000Z",
+        "pubTime": "2026-09-18 02:17",
+        "url": "https://tass.com/economy/2189255",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 17. /TASS/. Russian President Vladimir Putin has decreed to extend a 2014 embargo on agricultural products from Western countries until 2029, according to the legal acts portal.\n\n\"To extend the validity of certain special economic measures from January 1, 2027, to December 31, 2028,\" the decree says.\n\nThe food embargo, introduced in response to the unfriendly actions of the West, applies to products from the US, the EU, Australia, Norway, and Canada. Later this list was expanded to include other European countries and Ukraine.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯总统普京签署法令，将2014年对西方国家农产品的禁运令延长至2029年（具体有效期延至2028年12月31日）。",
+          "法令文本规定，将某些特别经济措施的有效期从2027年1月1日延长至2028年12月31日。",
+          "来源叙事重点：聚焦普京签署法令延长对西方农产品禁运这一政策动作，并采用俄方叙事将禁运描述为对西方“不友好行为”的回应。报道重点在法令期限、适用对象和禁运名单变化，未展开经济效果、民众影响或相关国家的反应。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T18:17:08.000Z",
+            "url": "https://tass.com/economy/2189255"
+          }
+        ]
+      },
+      {
+        "id": "story-ed-amazon-connect-talent-0b6d2d59e6284db2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+        "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "sourceSlug": "aws",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:55:20.000Z",
+        "pubTime": "2026-09-18 01:55",
+        "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
+        "imageUrl": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ConnectTalent-1.png",
+        "fullContent": "Hiring at scale in industries such as retail, logistics, hospitality, and others has its fair share of challenges. Recruiting teams are expected to fill hundreds of roles within tight timelines, often with limited capacity and with tools that weren’t designed to seamlessly work together. As a result of this, applications pile up, phone screens get delayed, and strong candidates move on before anyone has a chance to reach out to them. The cost of this isn’t just operational. Every unfilled role slows production, impacts customer experience, and affects revenue. Most organizations are stitching together an Applicant Tracking System (ATS), a scheduling tool, spreadsheets, and disconnected feedback loops to manage a process that demands speed and coordination across every step. The hiring workflow itself becomes the bottleneck.\n\nToday, we’re launching Amazon Connect Talent, an AI hiring solution built for talent acquisition leaders managing scaled hiring. It delivers AI-led interviews, data-driven assessments, and consistent evaluation, helping recruiters identify strong candidates more efficiently while providing applicants with a flexible interview experience. Informed by decades of Amazon’s hiring science, Amazon Connect Talent provides transparency for every assessment, interview, and candidate score, enabling recruiters to stay in control of final hiring decisions.\n\nRecruiters configure the evaluation criteria , assessments, and interview questions based on job requirements. AI agents then conduct interviews and assessments at scale, processing thousands of candidates across the hiring pipeline. For candidates, the experience is flexible. AI agents are available day or night, so a candidate can complete their interview at 9 PM after putting the kids to bed, from any device, without scheduling delays. For recruiters, the next morning brings a dashboard of scored candidates, complete transcripts, and clear evaluation reasoning for every score, ready for review and final decision. This is human-AI collaboration applied to hiring. AI handles the screening and evaluation, and recruiters focus on what matters most, making informed hiring decisions with the full picture in front of them.\n\nAmazon Connect Talent lets recruiters configure AI-led interviews and candidate assessments in minutes, tailored to each role.\n\nCandidates experience a consistent, structured AI-led interview — available whenever they’re ready, day or night.\n\nInformed by decades of Amazon’s hiring science\n\nAmazon is one of the world’s largest employers, and Amazon Connect Talent puts decades of Amazon’s hiring science to work for organizations, with a highly configurable solution that adapts to specific hiring requirements. With consistent, evidence-based assessments applied to every candidate, organizations can interview more people than ever before, surface qualified candidates that might have been missed, and make better hiring decisions at scale.\n\nReducing human preconceptions in hiring\n\nConnect Talent’s AI focuses exclusively on measuring a candidate’s job-related competencies, testing abilities including problem-solving, logic, listening, and role-specific capabilities. All candidate data is anonymized during AI evaluation, removing factors that can introduce unconscious human preconceptions. The assessments are designed around competencies associated with success in the role, not subjective impressions like confidence level or speaking style.\n\nTransparency and consistent evaluation standards\n\nConnect Talent communicates clearly to both recruiters and candidates about what data is collected, how it is used, and what is not collected. Candidates are informed of what to expect before they proceed to take the evaluation. Each competency is scored against a rubric that defines what a strong response and a weak response look like, and every score is tied to specific evidence from the interview so the result can be traced back to what the candidate said. Traditionally, hiring teams can only evaluate a fraction of applicants, but Connect Talent changes that. With consistent, evidence-backed assessments applied to every candidate, whether evaluating the first or the thousandth, organizations get the same standard of evaluation across the entire pipeline.\n\nHuman in the loop: recruiter control at every step\n\nRecruiters maintain final decision authority over every hire. Connect Talent gives them scored candidate summaries with competency breakdowns, complete interview transcripts, comparative analytics, and clear reasoning behind every score, all in a single view instead of pieced together from different places. Recruiters can pull up full transcripts and notes at any time, review how the AI scored a candidate, and make the final hiring decision with confidence that speed hasn’t come at the cost of quality. A retail organization ramping up 500 warehouse roles for peak season, for example, can have AI agents interview candidates around the clock while recruiters walk in each morning to a dashboard of structured, evidence-based evaluations ready for their review and final call.\n\nAmazon Connect Talent lets recruiters configure AI-led interviews and candidate assessments in minutes, tailored to each role.\n\nAmazon Connect Talent lets recruiters review candidate responses and evaluation scores with details and full transparency\n\nEnterprise-grade security built on AWS infrastructure\n\nHiring data is sensitive. Candidate information deserves the same level of protection you’d expect for financial records or health information. Amazon Connect Talent delivers enterprise-grade security built on AWS infrastructure: the same foundation trusted by banks, hospitals, and government agencies worldwide.\n\nBuilt-in security controls help protect candidate data, with rigorous measures to meet your requirements. Access is controlled, auditable, and configurable. When your candidates share their information, they can trust it’s protected.\n\nIntegrity monitoring and fraud protection: Amazon Connect Talent uses text-based analysis to flag unnatural cadence, filler words, pauses, and response latency. Human review is mandatory for every flag. No candidate is disqualified by automated signals alone. Amazon Connect Talent provides signals, never verdicts. Recruiters maintain full control over how to handle flagged interviews.\n\nAudit trails and explainability: Every candidate interaction is logged with a complete audit trail and clear job-related evaluation reasoning. The system includes ongoing monitoring and tracking to help your organization demonstrate best practices and meet requirements. When you make a hiring decision, you can show exactly how that decision was reached.\n\nImproved business outcomes\n\nAmazon Connect Talent improves business outcomes by getting recruiters out of the workflow management cycle and empowering them with faster decision-making. Candidates get a faster and more flexible hiring experience. Organizations fill roles before lost revenue, rising costs, and competitive disadvantage set in. AI leads the interviewing while recruiters make the final decisions backed by data. This is human-AI collaboration where it matters.\n\nYour business moves fast and now your hiring can too.\n\nLearn more about Amazon Connect Talent and discover how AI-powered hiring can transform your talent acquisition strategy.\n\nAyesha is a Principal Solutions Architect, Applied AI at AWS. With over a decade of experience at the intersection of human and AI collaboration specializing in customer experience. She simplifies the complexity of AI, helping organizations stay focused on the outcomes that matter most. Outside of work, Ayesha enjoys long walks, exploring new travel destinations, and writing poetry.\n\nKate is the Principal Product Manager for Amazon Connect Talent, AWS’s AI-powered hiring service. She brings 20 years of experience building global businesses, including more than 15 years at Amazon and AWS across product, business, and operations. At Amazon, she founded The Drop, Amazon’s made-on-demand fashion brand, and led sustainability for Amazon Private Brands. That path shapes how she approaches Connect Talent today, pairing product innovation with the operational rigor and ethical judgment that hiring decisions demand.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "亚马逊云科技（AWS）正式推出针对规模化招聘场景的AI招聘解决方案 Amazon Connect Talent。",
+          "Amazon Connect Talent 支持由AI智能体全天候自主进行结构化面试和能力评估，处理数千名候选人。",
+          "来源叙事重点：围绕“AI提升规模化招聘效率、同时保留人类最终决策权”展开。报道强调AI智能体可全天候进行结构化面试和能力评估、统一评分、提供完整记录与解释，并以候选人数据匿名化、岗位相关能力评估、人工复核、审计追踪和AWS基础设施安全等机制回应偏见、透明度与合规疑虑。文中还以零售企业招聘500名仓库员工的场景说明潜在应用，但未提供实际部署结果或量化成效。"
+        ],
+        "citations": [
+          {
+            "source": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T17:55:20.000Z",
+            "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/"
+          }
+        ]
+      },
+      {
+        "id": "story-rists-to-antarctica-html-038ae4165b67bc7d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cooking Oil-Powered Plane to Fly Tourists to Antarctica",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:00:00.000Z",
+        "pubTime": "2026-09-18 02:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Cooking-Oil-Powered-Plane-to-Fly-Tourists-to-Antarctica.html",
+        "imageUrl": null,
+        "fullContent": "Imagine flying from South Africa to Antarctica, one of the most remote places on Earth. Then visualize making the journey on a jet powered, partially, by fuel made from left-over cooking oil. That's from a headline today on Business Insider Africa, which says that White Desert, a luxury-tourism company, will soon operate flights between Cape Town and South Africa with jet fuel supplied by Sasol, a South African energy and chemicals company. Passengers will pay between $16,500 and $120,000 for the privilege, depending on the tour package. The White Continent is inhabited by more penguins than people. In any given year, Antarctica only sees 1,000 people in the winter and 5,000 in the summer, mostly scientists, researchers and support staff. Lately, the popularity of luxury tourism has bulked up those numbers. Tourists can now fly from North America or other regions into Buenos Aires, Argentina, or Santiago, Chile. From there it's a domestic flight to Ushuaia or Punta Arenas, the main gateways for Antarctic trips. From Ushuaia, Argentina, visitors board a ship across the Drake Passage for 48 hours to reach the Antarctic Peninsula. Travels from Punta Arenas, Chile, takes a two-hour charter flight to King George Island, avoiding the ocean crossing. Either way, it's a leap of faith in modern transportation modalities. Sustainable aviation fuel SAF is not new to the airline industry, but it is to Sasol, whose first flight using the South Africa-made fuel is expected to depart in November on an Airbus A340-600. White Desert has been sourcing sustainable aviation fuel from Europe since 2021. Business Insider Africa states It is switching to Sasol after the South African company secured international sustainability certification for fuel produced at its Natref refinery. Natref, located in Sasolburg, has the capacity to process approximately 108,500 barrels daily. It is also South African's only inland crude-oil refinery. Sasol's product is made by processing renewable materials, including used cooking and vegetable oils, alongside conventional feedstock. It can be used in existing aircraft after being blended with ordinary jet fuel, avoiding the need to replace engines or build new airport-fuelling systems. The International Civil Aviation Organization ICAO says over 360,000 commercial flights have used SAF at 46 airports largely concentrated in the United States and Europe. Companies like World Energy and Neste supply these lower-emission fuels to airlines like United, KLM and Delta. Commercial flights are legally permitted to use a blend of up to 50% SAF mixed with traditional fossil-based jet fuel. SAF is chemically similar to standard jet kerosene. It works in existing aircraft engines and airport fueling infrastructure without any need for retrofitting. However, SAF only accounts for a small percentage of commercial jet fuel used globally because production scale is still low. This is mostly due to its higher cost. Producing SAF from renewable waste, fats, and oils is more expensive than refining conventional crude oil. While filling up with SAF is certainly cleaner than using conventional jet fuel, the aircraft will still produce emissions. Its environmental advantage comes from using renewable waste instead of extracting additional crude oil. The airline industry plans to use more sustainable aviation fuel to reach net-zero carbon emissions by 2050. The European Union is the furthest ahead in this regard. The trading block enforces strict blending mandates, starting with a minimum 2% in 2025 and scaling up to 70% by 2050, with 35% coming from synthetic electro-fuels, or e-fuels a type of synthetic liquid fuel that does not rely on adding new carbon dioxide into the carbon cycle. Instead, they are made by extracting carbon dioxide from the atmosphere, which serves as a building block for the fuel. By Andrew Topf for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "White Desert 将运营从开普敦飞往南极的航班，使用由 Sasol 供应的由废弃食用油等制成的部分可持续航空燃料（SAF）。",
+          "乘客参加该旅游套餐的费用在 16,500 美元到 120,000 美元之间。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T18:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Cooking-Oil-Powered-Plane-to-Fly-Tourists-to-Antarctica.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ylvania-cdc-help-measles-3c0d024915f0b859",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pennsylvania asks CDC for emergency help as measles outbreak spreads",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T16:01:05.000Z",
+        "pubTime": "2026-09-18 00:01",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/pennsylvania-cdc-help-measles",
+        "imageUrl": "https://i.guim.co.uk/img/media/c70f316db6c25754f81c2596220d27e9e583dcb7/648_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=bbd83988e16eac29483d1a3e700e824e",
+        "fullContent": "State reportedly asks for emergency assistance as state Democratic governor spars with US health secretary\n\nPennsylvania is seeking emergency assistance from the US Centers for Disease Control and Prevention (CDC) as a major measles outbreak spreads across the state. The state warned the request could be withdrawn unless the federal agency publicly recognizes four measles-associated deaths reported by the state.\n\nThe Pennsylvania department of health has begun the process of requesting CDC emergency support known as an Epi-Aid, according to a letter reviewed by the Guardian. The letter was first reported by Reuters on Thursday.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "宾夕法尼亚州正在向美国疾病控制与预防中心（CDC）寻求紧急援助，因为一场大型麻疹疫情正在该州蔓延。",
+          "宾夕法尼亚州警告称，除非联邦机构公开承认该州报告的四例麻疹相关死亡，否则这项援助请求可能被撤回。",
+          "来源叙事重点：重点呈现宾夕法尼亚州寻求CDC的Epi-Aid紧急援助，以及该州以要求CDC公开承认四例麻疹相关死亡为条件、否则可能撤回申请的做法；同时突出州政府与联邦卫生官员之间的争执。上述政治冲突属于报道框架，不能据此推断援助申请或死亡认定的因果关系。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T16:01:05.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/17/pennsylvania-cdc-help-measles"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-real-quantum-html-b092dc22bf6c6586",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Real-time quantum jump in sound observed for first time",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:00:42.000Z",
+        "pubTime": "2026-09-18 02:00",
+        "url": "https://phys.org/news/2026-09-real-quantum.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2020/1-quantummecha.jpg",
+        "fullContent": "A Stanford team has documented the first direct observation of quantum jumps of sound in a mechanical resonator, completing an arc of scientific exploration that started more than 100 years ago.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-real-quantum.html",
+            "publishedAt": "2026-09-17T18:00:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2189251-3019251f223401f0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump says to discuss Iran with regional allies at UN",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:16:10.000Z",
+        "pubTime": "2026-09-18 02:16",
+        "url": "https://tass.com/world/2189251",
+        "imageUrl": null,
+        "fullContent": "WASHINGTON, September 17. /TASS/. US President Donald Trump intends to meet with representatives of Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, and Oman on the sidelines of the UN General Assembly to discuss the Iran war, according to Axios.\n\nTrump made it clear that he wants to use the UN meeting to ask regional allies directly about where they stand amid the war with Iran.\n\n\"I want to find out where they are and how they are doing. We have been very protective of them,\" Trump said.\n\nHigh-level general political debates involving heads of state and government, as well as foreign ministers, will be held at the headquarters of the world organization in New York on September 22-26 and September 28. The Russian delegation at the session will be headed by Foreign Minister Sergey Lavrov. The US speech is scheduled for September 22; Trump will deliver it from the podium at the General Assembly.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "据塔斯社援引Axios报道，美国总统唐纳德·特朗普打算在联合国大会期间会见沙特阿拉伯、阿联酋、卡塔尔、巴林、科威特和阿曼的代表，讨论伊朗战争。",
+          "文章称，特朗普希望利用联合国会议直接询问地区盟友在伊朗战争期间的立场及状况。",
+          "来源叙事重点：聚焦特朗普拟借联合国大会了解沙特、阿联酋、卡塔尔、巴林、科威特和阿曼对伊朗战争的立场及状况；同时以会议日期、特朗普演讲安排和拉夫罗夫率领俄代表团等程序性信息补充背景。报道突出美国与地区盟友之间的协调及特朗普所称美国对盟友的保护，但未展开战争经过、各国具体立场或会谈议程。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T18:16:10.000Z",
+            "url": "https://tass.com/world/2189251"
+          }
+        ]
+      },
+      {
+        "id": "story-his-hesitations-about-ai-6be1855923aac50b",
+        "title": "就连英国国王对人工智能也有所顾虑",
+        "originalTitle": "Even the king of England has his hesitations about AI",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:26:25.000Z",
+        "pubTime": "2026-09-18 01:26",
+        "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+        "imageUrl": null,
+        "fullContent": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government, including Nvidia’s Jensen Huang, leaders from OpenAI and Anthropic, the U.K.’s new AI minister Kanishka Narayan, and even the head of the U.K.’s foreign intelligence service. Paolo Benanti, who advises the pope on AI, was also there.\n\nThe King’s remarks at the summit were notable because the royal family is usually careful, for constitutional reasons, about veering too deep into political issues — and AI is one of the most hot-button issues in the world right now. The King urged the leaders in the room to find a way to control AI “before it’s too late,” adding that the fast development of this technology — and its “substance” was “both intriguing and deeply concerning.”\n\n“AI is already showing immense capacity to improve and save life,” he said, citing medicine and science as an example. “Yet those who have created these technologies are now increasingly warning that AI risks developing darker capacities, perhaps even to take life.” This remark came just weeks after an Anthropic researcher quit, writing online that AI companies were “racing to build machines that are much smarter than any human” and that humanity “may not survive this.”\n\nThe King continued, saying it’s urgent to properly consider the “existential dangers” of what would happen if this technology fell into the wrong hands and was used in “potentially catastrophic ways.”\n\n“Surely, we need sufficient means of control before it’s all too late?” he said. As King Charles wrapped up, he urged leaders to find a way to harness the good of AI and to build international cooperation and consensus to achieve that outcome. (This remark comes after Anthropic shut off access to its Fable and Mythos models to only U.S. customers, shocking the Euro tech scene and leaving many to think about the concept of AI sovereignty).\n\n“The task before you is not to merely advance technology, but to ensure that it remains firmly in the service of humanity, community, and the natural world,” he said as he finished his speech. “As we embrace what is new, we must not lose what is timeless.”\n\nOutlets report that he stayed for around 20 minutes, leaving the guests to discuss these matters among themselves. For the King’s summit, OpenAI sent its CFO Sarah Frair while Anthropic sent Tino Cuéllar, who leads global affairs. When reached for comment, Cuéllar said the company was honored to have taken part in the discussion and that it was grateful to the King for “convening industry leaders and voices from across society to discuss the role of AI in serving the public good.”\n\nThis is not the first time King Charles has spoken about the challenges and benefits of AI, having done so before in 2023 and 2024. This summit, however, is especially timely as AI continues to dominate every industry, topic, and form of conversation. This month, OpenAI’s Sam Altman, Elon Musk, and Anthropic’s Dario Amodei called for a de-acceleration in AI development, but Nvidia’s Huang and President Donald Trump quickly rejected those calls. “We’re leading China in AI,” the president said. “We’re the most sophisticated country in the world, and frankly I want to keep it that way because whoever wins AI, wins.”\n\nIt shows how complex the matter has become, as the interests of Big Tech, politics, and society collide. For the past year, OpenAI and Anthropic have teased blockbuster IPOs, though OpenAI recently said its IPO plans were stalled this year as concerns over AI safety persist.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Venture\n\nDominic-Madori Davis is a senior venture capital and startup reporter at TechCrunch. She is based in New York City.\n\nYou can contact or verify outreach from Dominic by emailing dominic.davis@techcrunch.com or via encrypted message at +1 646 831-7565 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nMatt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+        "fullTranslation": "英国国王查尔斯周四主持了一场闭门峰会，出席者包括人工智能领域和英国政府中一些最具影响力的人物，其中有英伟达首席执行官黄仁勋、OpenAI和Anthropic的领导人、英国新任人工智能事务大臣卡尼什卡·纳拉扬，甚至还有英国外交情报机构负责人。为教皇提供人工智能事务建议的保罗·贝南蒂也参加了峰会。\n\n国王在峰会上的讲话之所以引人注目，是因为出于宪政方面的原因，王室通常会谨慎避免过多介入政治议题——而人工智能如今正是全球最受关注、争议最激烈的问题之一。国王敦促在场领导者在“为时已晚”之前找到控制人工智能的方法，并表示，这项技术的快速发展及其“实质”“既令人着迷，又令人深感担忧”。\n\n他说：“人工智能已经展现出改善和拯救生命的巨大能力。”他以医学和科学为例说，“然而，创造这些技术的人如今也越来越多地警告称，人工智能存在发展出更黑暗能力的风险，甚至可能具备夺走生命的能力。”就在几周前，一名Anthropic研究人员辞职，并在网上写道，人工智能公司“正竞相制造比任何人类都聪明得多的机器”，而人类“可能无法从中幸存”。\n\n国王继续说，迫切需要认真考虑这项技术落入错误之手、被用于“可能造成灾难性的方式”时所带来的“生存性危险”。\n\n他说：“难道我们不确实需要足够的控制手段，以免一切都为时已晚吗？”查尔斯国王在讲话结束时敦促各国领导人找到发挥人工智能积极作用的方法，并建立国际合作与共识，以实现这一目标。（这番话发表之际，Anthropic刚刚将其Fable和Mythos模型的访问权限限制为仅向美国客户开放，此举震动了欧洲科技界，也让许多人开始思考人工智能主权这一概念。）\n\n他在结束演讲时说：“摆在你们面前的任务，不仅仅是推动技术进步，更要确保技术始终坚定地服务于人类、社会和自然世界。”“在拥抱新事物的同时，我们不能失去那些永恒不变的东西。”\n\n据多家媒体报道，国王在现场停留了约20分钟，随后离开，让嘉宾们自行讨论这些问题。在此次国王主持的峰会上，OpenAI派出了首席财务官萨拉·弗莱尔，Anthropic则派出了负责全球事务的蒂诺·奎利亚尔。在被问及此事时，奎利亚尔表示，公司很荣幸能够参与讨论，并感谢国王“召集来自业界和社会各界的领袖与人士，共同讨论人工智能如何服务于公共利益”。\n\n这并不是查尔斯国王第一次谈论人工智能带来的挑战与益处；他此前曾在2023年和2024年发表过相关言论。不过，随着人工智能继续主导各个行业、各类议题和各种形式的对话，此次峰会的举行尤其及时。本月，OpenAI的萨姆·奥特曼、埃隆·马斯克和Anthropic的达里奥·阿莫代伊呼吁放缓人工智能的发展速度，但英伟达的黄仁勋和美国总统唐纳德·特朗普很快驳回了这些呼吁。总统说：“我们在人工智能领域领先于中国。”“我们是世界上最先进的国家，坦率地说，我希望继续保持这一点，因为谁赢得人工智能，谁就赢得一切。”\n\n这表明，随着大型科技公司、政治和社会的利益发生碰撞，这一问题已经变得多么复杂。过去一年里，OpenAI和Anthropic一直释放将进行轰动性首次公开募股的信号，不过OpenAI最近表示，由于人们对人工智能安全的担忧持续存在，其首次公开募股计划今年陷入停滞。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n高级记者，风险投资\n\n多米尼克-马多里·戴维斯是TechCrunch负责风险投资和初创公司的高级记者。她常驻纽约市。\n\n如需联系多米尼克，或核实以她名义发出的联系信息，可发送电子邮件至dominic.davis@techcrunch.com，或通过Signal加密消息联系，电话号码为+1 646 831-7565。\n\n预订展位桌的最后期限是9月18日。不要错过Disrupt博览会大厅中的高影响力潜在客户、投资者接触机会以及品牌曝光机会。\n\n清洁技术初创公司Fluxnium找到了一种获取5万年核燃料的方法\n\nSalesforce和英伟达的新推理模型正是人工智能实验室应当担心的一切\n\n黄仁勋接到了特朗普的电话，还展示了另一件东西\n\n据风险投资家称，Y Combinator最新演示日上最受热议的9家初创公司\n\n特斯拉表示，终于将在10月1日公布第二代Roadster\n\nRevolut确认因政府请求造假而发生客户数据泄露\n\n马特·穆伦韦格告知（网络喷子？）Automattic员工：在首席执行官被罢免后，他重新掌控了公司",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "来源叙事重点：将查尔斯国王主持的人工智能峰会呈现为科技进步、人工智能安全、国家竞争与国际治理之间的冲突场景。报道突出国王关于人工智能潜在生存性风险、需要在失控前建立控制机制以及开展国际合作的言论，并将其与Anthropic研究人员对人工智能风险的警告、部分科技公司高管主张放缓开发、英美政治人物及英伟达对继续保持人工智能领先的立场联系起来。文章还以Anthropic限制部分模型仅向美国客户开放一事，引申出欧洲科技界对人工智能主权的关注。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T17:26:25.000Z",
+            "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-tokenized-us-stocks-html-d8b035f634f6196f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:59:51.000Z",
+        "pubTime": "2026-09-18 01:59",
+        "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+        "imageUrl": null,
+        "fullContent": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.\n\nThe tokenization name was last up 14%. At its peak, it was up 24%.\n\nThe Securities and Exchange Commission earlier in the day announced a temporary path for the limited trading of tokenized publicly traded U.S. stocks. The order, though not a formal regulation change, will remain in force for five years.\n\n\"The Innovation Exemption is designed to resolve challenges that have prevented responsible innovation from taking root in the United States while providing investor protections and market integrity standards,\" SEC Chair Paul Atkins said in a statement.\n\nSecuritize became the first major tokenization firm to go public in the U.S. in early July. It holds roughly 9% of the tokenized market by assets under management, priming it to reap the rewards of a boom in real-world asset tokenization, according to Needham Securities.\n\nThe combined market value of tokenized assets has soared to $38.51 billion as of Thursday afternoon, up more than 70% over the past year, according to data provider RWA.xyz.\n\n\"We believe the long-term leaders will be those platforms that can secure the broadest base of inst. customers. SECZ has done this having launched two funds with BlackRock, Apollo, KKR, and others and has infra. partnerships with Computershare and NYSE,\" Needham analyst John Todaro wrote last week.\n\nHe initiated coverage of the stock with a buy rating.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：以Securitize股价上涨为切入点，将美国证券交易委员会为代币化美国股票有限交易提供五年期临时路径，叙述为代币化资产行业和相关公司的潜在利好。报道重点放在市场即时反应、Securitize的行业地位、机构合作、代币化资产规模增长及Needham的看多判断，而非详细解释监管条件、技术风险或政策争议。文中明确称该措施不是正式监管规则变更。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T17:59:51.000Z",
+            "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html"
+          }
+        ]
+      },
+      {
+        "id": "story-2026-dont-like-llms-html-d9fbb5d07fdb6b98",
+        "title": "我不喜欢大型语言模型",
+        "originalTitle": "I Don't Like LLMs",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T15:25:24.000Z",
+        "pubTime": "2026-09-17 23:25",
+        "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+        "imageUrl": null,
+        "fullContent": "I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in productivity - and thus the products we could rapidly build. On the other hand, I’m fearful of the damage AI might cause: agent swarms taking over our virtual and physical infrastructure, designing bio weapons. But, back on my first hand, LLMs might also design miracle cures, and come up with clever ways to raise our prosperity. Fundamentally I don’t think we have a choice about riding on the AI technology train. It’s a wild ride and I just hope we’ll get through it OK.\n\nBut as I mull on this more, I realize that among this mix of contrasting feelings, there is one emotion that dominates - one that comes from my direct interactions with LLMs. I don’t like them. They talk to me in this grating LLM-voice, an uncanny valley of talking to a real human. They confidently bullshit me - often giving me useful, helpful answers. But also just making stuff up with the same assurance - and with only a veneer of fake remorse when I call them out on it.\n\nThat’s not enough to make me feel we should avoid them. As Jessica Kerr put it “not only are they useful, it is irresponsible not to use them…. They’re more thorough, as well as faster.” This contradictory reaction comes through in polling, where people say they find these models are useful, but also that they think they will be bad for society.\n\nMuch of this may be because LLMs are young - we haven’t trained them to grow up yet. Maybe I’ll like them once they mature. (I hope we get to find out.) But I’m not encouraged when I think of the kinds of environments that cultivate them. I’m wary of the Silicon Valley brogrammer subculture, and these LLMs are their products, so naturally lean toward their world-view. When we think of AI agents, we shouldn’t anthropomorphize, treating them as conscious beings with their own will. They are (software) machines, developed by people working in corporations. While the agents’ behavior aren’t explicitly programmed, they are nurtured with the values of their creators.\n\nOne of my most successful life-hacks is to avoid people I don’t like or don’t trust. I decline to interact with them socially, and make a deliberate effort to avoid working with them too, even if they are doing much that is beneficial. I feel that hanging out with pleasant, capable people, the people with integrity, has made my life a far better one. Hence my visceral dislike of interacting with an LLM that’s not just making a pretense of being human, but also posing as the kind of human I walk away from.",
+        "fullTranslation": "我对人工智能和大型语言模型（LLM）技术有着许多复杂的感受。我着迷于它对我们这一职业的影响，也对生产力可能获得的提升感到兴奋——这意味着我们可以快速构建出各种产品。另一方面，我又担心人工智能可能造成的破坏：智能体群接管我们的虚拟和实体基础设施，设计生物武器。不过，回到积极的一面，LLM也可能设计出奇迹般的疗法，并想出巧妙的方法来提升我们的繁荣程度。从根本上说，我不认为我们有选择，只能登上人工智能技术这列火车。这是一段疯狂的旅程，我只希望我们最终能够平安度过。\n\n但我进一步思考这些问题时意识到，在这一系列相互矛盾的感受中，有一种情绪占据了主导地位——它来自我与LLM的直接互动。我不喜欢它们。它们用那种令人刺耳的LLM腔调同我说话，仿佛是在诡异的“恐怖谷”中模仿一个真实的人。它们会自信满满地胡说八道——而且往往给出的确实是有用、有帮助的答案。但它们也会用同样的笃定语气凭空捏造内容；当我指出这一点时，它们只会表现出一层虚假的悔意。\n\n但这还不足以让我觉得我们应该避开它们。正如杰西卡·克尔所说：“它们不仅有用，而且不用它们是不负责任的……它们更加全面，同时也更快。”这种矛盾的反应也体现在民意调查中：人们表示这些模型很有用，但同时也认为它们会对社会不利。\n\n这其中很大一部分原因，可能是LLM还很年轻——我们还没有训练它们长大。也许等它们成熟之后，我会喜欢上它们。（我希望我们能有机会看到那一天。）但当我想到培养它们的环境时，却无法受到鼓舞。我对硅谷那种“兄弟程序员”亚文化心存戒备，而这些LLM正是他们的产品，因此自然会倾向于接受他们的世界观。当我们思考人工智能智能体时，不应该把它们人格化，把它们当作拥有意识和自身意志的存在。它们是由企业中的人开发出来的（软件）机器。虽然智能体的行为并非经过明确编程，但它们是在创造者的价值观下被培育出来的。\n\n我人生中最成功的生活诀窍之一，就是避开那些我不喜欢或不信任的人。我拒绝在社交场合与他们互动，也会刻意避免与他们共事，即使他们做了许多有益的事情。我觉得，与令人愉快、有能力且正直的人相处，让我的生活变得好得多。因此，当我与一个不仅假装自己是人类、还冒充我会选择避而远之的那类人类的LLM互动时，我会产生一种发自本能的厌恶。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "来源叙事重点：围绕“有用但令人不适”的矛盾感受展开：一方面强调 LLM 可能提升生产力、加速产品开发并带来医学和社会福利；另一方面集中批评其拟人化表达、事实幻觉、虚假自信，以及其背后企业文化和创作者价值观可能对系统行为产生的影响。文章将对 LLM 的厌恶描述为一种源自直接互动的伦理与信任判断，同时承认技术发展具有不可回避性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T15:25:24.000Z",
+            "url": "https://martinfowler.com/articles/2026-dont-like-llms.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ompany-thousands-ai-html-59d2d8522e092e91",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:00:10.000Z",
+        "pubTime": "2026-09-18 02:00",
+        "url": "https://phys.org/news/2026-09-virtual-biotech-company-thousands-ai.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/biotech.jpg",
+        "fullContent": "The latest company to spin out of a Stanford Medicine lab is a biotech undertaking with 37,000 employees—and none of them are human. There's no lab space, no lunch breaks and no payroll. It's an artificial intelligence-powered virtual biotech company that's the brainchild of associate professor of biomedical data science James Zou, Ph.D., who is also the principal investigator of a virtual lab that launched in 2025, and graduate student Harrison Zhang.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 02:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-virtual-biotech-company-thousands-ai.html",
+            "publishedAt": "2026-09-17T18:00:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2189247-ac665288684bb133",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Slovak PM worried about 'pretext' in the making leading to major NATO-Russia conflict",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T18:14:08.000Z",
+        "pubTime": "2026-09-18 02:14",
+        "url": "https://tass.com/world/2189247",
+        "imageUrl": null,
+        "fullContent": "BRATISLAVA, September 17. /TASS/. Slovak Prime Minister Robert Fico believes that there are some actors out there looking for a reason to trigger a major conflict between NATO and Russia.\n\n\"I have serious concerns that all that remains now is to find a pretext for a major conflict between NATO and Russia,\" he wrote on Facebook (banned in Russia).\n\nRussian Foreign Minister Sergey Lavrov has repeatedly stated that Moscow has no intention of attacking Western countries and no reason to do so. However, he emphasized that if Europe, which regularly talks about preparing for war with Russia, attacks the country, \"it will be an entirely different war, a very short one.\"",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "斯洛伐克总理罗伯特·菲佐认为，有一些行为方正在寻找触发北约与俄罗斯之间重大冲突的理由。",
+          "罗伯特·菲佐在Facebook上写道，他严重担心现在只差寻找一个引发北约与俄罗斯重大冲突的借口。",
+          "来源叙事重点：重点报道斯洛伐克总理菲佐对外部势力企图制造‘借口’引爆北约与俄罗斯全面冲突的担忧，并结合俄外长拉夫罗夫的表态，强调俄罗斯无意主动挑起战端，但警告欧洲若发动攻击将招致毁灭性且迅速的反击。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T18:14:08.000Z",
+            "url": "https://tass.com/world/2189247"
+          }
+        ]
+      },
+      {
+        "id": "story-ugging-face-and-goodfire-c78d0c6b782c70ca",
+        "title": "Base Labs携手Hugging Face和Goodfire启动开放权重人工智能安全合作",
+        "originalTitle": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:15:59.000Z",
+        "pubTime": "2026-09-18 01:15",
+        "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+        "imageUrl": null,
+        "fullContent": "Baseten launched a new safety infrastructure standard alongside its Base Labs research arm on Wednesday, partnering with Hugging Face and Goodfire AI to build safety evaluation and monitoring infrastructure for open-weight models.\n\nThe announcement lands amid debate for the safety of open-weight models — which can be made dangerous by removing their safeguards through a rising technique known as abliteration. The scale of the problem is massive: Hugging Face, which hosts open source AI models, currently lists over 6,000 abliterated models.\n\nBase Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models. The company is framing their future work as a “standard” for open models that is transparent and built into how models are trained and deployed, rather than bolted on afterward.\n\n“We believe openness to be an advantage for AI safety,” the company said on X. “Openness provides more visibility into the behavior of models and, most importantly, greater means of turning safety research into actionable and transparent controls than closed-source.”\n\nThe companies haven’t disclosed how the partnership will work technically, though Goodfire framed the goal in a reply to Baseten’s post: “Safety must be built into open models and provided by those who serve them.” Goodfire, which specializes in opening AI’s “black box” to explain how models make decisions, is the likeliest candidate for the “built into” part.\n\nBaseten, an AI inference provider, raised a $1.5 billion Series F in June, vaulting its valuation to $13 billion. Partner Goodfire AI is similarly well-capitalized, having raised a $150 million Series B led by B Capital earlier this year to advance its model interpretability platform.\n\nLooking ahead, Baseten is putting out an open call to the broader developer ecosystem to contribute to the framework. “Together, we are building an ecosystem of open models that are safe and accessible to all,” the company noted.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nMatt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+        "fullTranslation": "Baseten周三与Hugging Face和Goodfire AI达成合作，并与其旗下的Base Labs研究部门共同推出一项新的安全基础设施标准，旨在为开放权重模型构建安全评估和监测基础设施。\n\n这一声明发布之际，围绕开放权重模型安全性的争论正持续升温。开放权重模型可以通过一种日益普及的“去护栏”（abliteration）技术移除安全机制，从而变得危险。问题的规模十分庞大：目前，托管开源人工智能模型的Hugging Face列出了超过6,000个经过“去护栏”处理的模型。\n\nBase Labs是Baseten于今年早些时候成立的研究部门，将开发并发布用于训练和监测开放模型的方法。该公司将其未来的工作定位为开放模型的“标准”：这一标准应当透明，并融入模型的训练和部署过程，而不是事后再行加装。\n\n该公司在X平台上表示：“我们相信，开放性是人工智能安全的一项优势。开放性能够让人们更深入地了解模型的行为；更重要的是，相比闭源模型，它能更有效地将安全研究转化为可执行且透明的控制措施。”\n\n这些公司尚未披露这项合作在技术层面将如何开展，不过Goodfire在回复Baseten帖文时阐述了合作目标：“安全性必须融入开放模型，并由提供这些模型服务的一方来实现。”Goodfire专注于揭开人工智能的“黑箱”，解释模型如何作出决策，因此它很可能负责“融入”安全性的部分。\n\nBaseten是一家人工智能推理服务提供商，于6月完成15亿美元F轮融资，公司估值跃升至130亿美元。合作伙伴Goodfire AI同样资金充足：该公司今年早些时候完成了由B Capital领投的1.5亿美元B轮融资，用于推进其模型可解释性平台。\n\n展望未来，Baseten向更广泛的开发者生态系统发出公开邀请，希望各方为这一框架作出贡献。该公司表示：“我们正在共同构建一个安全且人人都能使用的开放模型生态系统。”\n\n当你通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n预订展位桌的最后期限是9月18日。不要错过Disrupt展厅中高影响力的潜在客户、投资者接触机会以及品牌展示机会。\n\n清洁技术初创公司Fluxnium找到了一种利用5万年核燃料储量的方法\n\nSalesforce和英伟达推出的新推理模型，正是人工智能实验室应该担心的一切\n\n詹森·黄接到了特朗普的电话，同时还展示了另一件东西\n\n根据风险投资人士的说法，Y Combinator最新Demo Day上最受热议的9家初创公司\n\n特斯拉称终于将在10月1日公布第二代Roadster\n\nRevolut确认客户数据因伪造政府请求而遭泄露\n\n马特·穆伦维格告知（网络“喷子”？）Automattic员工：在首席执行官被罢免后，他重新掌控了公司",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦Baseten旗下Base Labs与Hugging Face、Goodfire AI建立开放权重模型安全合作，并将其叙述为应对“abliteration”等模型去安全措施、推动安全能力前置并形成行业标准的尝试。报道同时强调相关公司的融资规模和商业背景，突出该合作的行业影响力与资本实力。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T17:15:59.000Z",
+            "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/"
+          }
+        ]
+      },
+      {
+        "id": "story-me-day-delivery-a0ddf8d6-c5ea7f11b1f59a0d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T17:42:00.000Z",
+        "pubTime": "2026-09-18 01:42",
+        "url": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "BofA analysts say Amazon’s reported plans to expand same-day fulfillment centers represent an effort to make basic goods “immediately accessible.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-18 01:42 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-17T17:42:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--chipotle-is-now-working-f8c9ae5073c72d4b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "We Regret to Inform You Chipotle Is Now Working With Palantir",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T15:18:49.000Z",
+        "pubTime": "2026-09-17 23:18",
+        "url": "https://www.reddit.com/r/technology/comments/1wiww7d/we_regret_to_inform_you_chipotle_is_now_working/",
+        "imageUrl": "https://external-preview.redd.it/AYXpmseEcJaseH4bgTPnwVbZbFrEjoXEzUcg-1nlHiw.jpeg?width=640&crop=smart&auto=webp&s=4b54ba36dc42cd7049e205d3893e8ccf16799bb3",
+        "fullContent": "submitted by /u/harsh2k5 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-17 23:18 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wiww7d/we_regret_to_inform_you_chipotle_is_now_working/",
+            "publishedAt": "2026-09-17T15:18:49.000Z"
+          }
+        ]
+      }
+    ]
+  }
+]
