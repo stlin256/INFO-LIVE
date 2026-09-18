@@ -16,147 +16,59 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-le-massive-american-flag-3bc89c4db1f51224" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="839" data-content-paragraphs="19" data-published-at="2026-09-17T22:00:14.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-18 06:00</span>
-</div>
-
-### [NFL收入最高的近端锋乔治·基特尔透露最喜欢的消费：为巨型美国国旗建一根50英尺高的旗杆](https://www.foxnews.com/outkick-sports/nfl-highest-paid-te-george-kittle-reveals-favorite-purchase-50-foot-flagpole-massive-american-flag)
-<div class="original-title-sub"><span class="orig-tag">原文</span> NFL&#39;s highest-paid TE George Kittle reveals favorite purchase: A 50-foot flagpole for a massive American flag</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/george-kittle-claire-kittle-glendale-fox-news-001.jpeg?ve=1&amp;tl=1" alt="NFL收入最高的近端锋乔治·基特尔透露最喜欢的消费：为巨型美国国旗建一根50英尺高的旗杆" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>乔治·基特尔于2025年4月签下了NFL历史上近端锋金额最高的合同，但那也是他的第三份大合同。到最终合同于2029年到期时，这三份合同将为他带来约1.55亿美元的收入。</p>
-<p>因此，“Bussin&#39; With the Boys”播客的主持人问了许多运动员经常会被问到的那个显而易见的问题：基特尔有史以来最喜欢的一笔挥霍性消费是什么？</p>
-<p>基特尔说：“在我家建一座橄榄球场，建一处训练设施，再竖起一根50英尺高的美国国旗杆。这可能是我在这处房产上做过的最喜欢的一笔消费。我妻子也非常喜欢那根旗杆。”</p>
-<p>美国庆祝250岁生日之际：贝琪·罗斯与第一面美国国旗背后的故事</p>
-<p>如今，这根50英尺高的美国国旗杆就矗立在基特尔的休赛期住所——田纳西州纳什维尔地区一座约178英亩的牧场上。</p>
-<p>当然，这根与普通四层或五层建筑一样高的旗杆上，展示着一面巨大的旗帜。</p>
-<p>基特尔说：“它真的他妈的巨大。你一开车进来，它就立在橄榄球场旁边。你他妈的只能看见它。”</p>
-<p>老荣耀——以及它所代表的一切——在风中飘扬的景象，一定会让基特尔热血沸腾。</p>
-<p>《克雷格·卡顿秀》——不加过滤、不道歉、不容错过。立即下载他的每日播客！</p>
-<p>他说：“确实如此。我昨晚看到了它。我们用灯照着它，我刚下车，就想：‘天啊，太美了。’</p>
-<p>“所以，是的，那是我最喜欢的消费之一。”</p>
-<p>话说回来，NFL有时会因为部分雇员涉及家庭暴力或酒后驾车等问题而遭到大量负面宣传。</p>
-<p>由于在球场上发布社会正义信息，该联盟本身也受到保守派人士的抨击；此外，联盟还被指责利用1961年《体育广播法》赋予的反垄断豁免权谋取利益。</p>
-<p>但这件事提醒人们，联盟中有许多人像基特尔一样。</p>
-<p>他们热爱美国。他们以自己是美国人为荣。</p>
-<p>说到底，他们是真正的爱国者。</p>
-<p>不，并不是这些人每个人都会竖起一根50英尺高的旗杆。但至少就今年而言，在国歌奏响、国旗成为关注中心时，没有人跪下。</p>
-<p>乔治·基特尔是个好人。</p>
-<p>在X上关注阿曼多·萨尔格罗：@ARMANDOSALGUERO</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-18 06:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/nfl-highest-paid-te-george-kittle-reveals-favorite-purchase-50-foot-flagpole-massive-american-flag" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--lacks-plan-end-iran-war-60bfc04945e26576" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1799" data-content-paragraphs="18" data-published-at="2026-09-17T22:00:05.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🛡️ 军事防务安全</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-18 06:00</span>
-</div>
-
-### [福克斯新闻民调：71%选民认为特朗普政府缺乏结束伊朗战争的计划](https://www.foxnews.com/politics/fox-news-poll-71-think-trump-administration-lacks-plan-end-iran-war)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Fox News Poll: 71% think Trump administration lacks plan to end Iran war</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/1200/675/trump_iran-1.jpg?ve=1&amp;tl=1" alt="福克斯新闻民调：71%选民认为特朗普政府缺乏结束伊朗战争的计划" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>在对伊朗战争爆发近七个月之际，福克斯新闻（Fox News）的一项最新全国民意调查显示，选民态度正日趋恶化：选民认为特朗普政府缺乏结束战争的明确战略，越来越多的人认为这场冲突将使美国变得更加不安全，且大多数人认为采取军事行动的决定是错误的。</p>
-<p>十分之七的选民认为特朗普政府缺乏结束该冲突的明确战略，其中包括95%的民主党人、83%的独立人士以及43%的共和党人。</p>
-<p>福克斯新闻民调：受物价成本挤压，沮丧的选民转向民主党</p>
-<p>此外，越来越多的选民（47%）表示，从长远来看，该冲突将使美国变得更加不安全，高于4月份的39%。相比之下，32%的人认为这会让国家更安全，20%的人表示没有区别。白人选民、45岁以下选民以及独立人士中对这一问题的担忧上升幅度最大。</p>
-<p>60%的人表示，美国对伊朗采取军事行动是错误的决定，而37%的人表示这是正确的——差距扩大至23个百分点，高于6月份的17个百分点（58%对41%）。在大多数人群中，反战态度均有适度上升，其中拉美裔选民、30岁以下选民、温和派以及65岁及以上选民的转变幅度最大。</p>
-<p>福克斯新闻民调：经济焦虑与候选人担忧主导俄亥俄州参议院竞选</p>
-<p>“通常情况下，面对外交政策危机，公众会团结在总统周围，”与民主党民调专家克里斯·安德森（Chris Anderson）共同主持福克斯新闻民调的共和党民调专家达伦·肖（Daron Shaw）表示。“但在这里有两点不同。首先，特朗普总统并未持续且有力地为这场战争进行辩护论证，且美国并没有派出地面部队。这两点对民意都很关键。”</p>
-<p>特朗普的整体工作支持率为39%，不支持率为61%。</p>
-<p>总统在外交政策上的净支持率为负24个百分点。他37%的外交政策支持率创下第二任期新低，仅比他2019年9月第一任期创下的历史最低点（36%）高出1个百分点。</p>
-<p>当被要求用自己的语言说出国家面临的最重要问题时，只有4%的选民提到了伊朗，仅有微不足道的1%提到了普遍的外交政策。相比之下，34%的人提到了头号问题——生活成本。</p>
-<p>与此同时，在外交政策的处理能力上，认为民主党更胜一筹的选民比例比共和党高出10个百分点——这与上一个中期选举周期相比发生了逆转，2022年9月时共和党在此项上的受信任度曾高出6个百分点。</p>
-<p>在持续进行的加沙冲突中，仅有48%的选民表示他们更支持以色列人，而非巴勒斯坦人（38%），创下新低。该比例低于6月份的54%，更远低于2023年10月冲突爆发初期的68%高点。</p>
-<p>自2023年以来，对以色列支持度下降最为急剧的人群（降幅至少达20个百分点）包括女性、拉美裔选民、45岁以下选民、拥有大学学历的选民以及民主党人。在此期间，共和党人的支持度也下降了10个百分点。</p>
-<p>在乌克兰问题上，选民以16个百分点的优势（55%对39%）支持美国继续提供财政援助对抗俄罗斯，该数据在过去两年中大致保持不变。民主党人赞成支持乌克兰，而共和党人和独立人士则意见分歧。</p>
-<p>在中国国家主席习近平即将访美之际，认为特朗普对中国“不够强硬”的选民比例（45%）是认为他“过于强硬”的选民比例（20%）的两倍多。三成选民（30%）认为他的做法大体适度。</p>
-<p>这一点上存在两党共识：民主党人（44%）、共和党人（47%）和独立人士（44%）中占比最大的人群均认为特朗普对中国不够强硬。共和党内部的分歧更为明显，有43%的人认为他的做法大体适度。</p>
-<p>点击此处查看交叉分析表及民调详情</p>
-<p>该福克斯新闻调查于2026年9月11日至14日在信标研究公司（Beacon Research，民主党背景）和肖研究公司（Shaw &amp; Company Research，共和党背景）的指导下进行，采访了从全美选民名册中随机抽取的1,211名登记选民样本。受访者通过座机（96人）和手机（821人）接受了人工访员的采访，或在收到短信后在线完成了问卷调查（294人）。基于全样本的结果抽样误差范围为±3个百分点。各子群体的结果抽样误差更大。除抽样误差外，提问措辞和顺序也会影响结果。调查通常对年龄、种族、教育程度和地区变量进行加权，以确保人口统计特征能够代表登记选民群体。制定加权目标的依据包括最新的《美国社区调查》（American Community Survey）、福克斯新闻选民分析（Fox News Voter Analysis）以及选民名册数据。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-18 06:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#军事防务安全</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/politics/fox-news-poll-71-think-trump-administration-lacks-plan-end-iran-war" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-rcement-has-crossed-line-2ad90e1b96d89828" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1402" data-content-paragraphs="18" data-published-at="2026-09-17T22:00:02.000Z" data-time-source="publication">
+<div id="story-plit-husband-andrew-form-c5d83f34832a6072" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1448" data-content-paragraphs="33" data-published-at="2026-09-18T00:04:32.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-18 06:00</span>
+  <span class="news-meta-time">🕒 2026-09-18 08:04</span>
 </div>
 
-### [福克斯新闻民调：多数人认为移民执法已经越界](https://www.foxnews.com/politics/fox-news-poll-majority-says-immigration-enforcement-has-crossed-line)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Fox News Poll: Majority says immigration enforcement has crossed the line</div>
+### [与丈夫安德鲁·福姆分居数月后，亚历山德拉·达达里奥身穿格纹比基尼惊艳亮相](https://www.foxnews.com/entertainment/alexandra-daddario-stuns-gingham-bikini-months-after-split-husband-andrew-form)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Alexandra Daddario stuns in gingham bikini months after split from husband Andrew Form</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/1200/675/ice-agents-garage.jpg?ve=1&amp;tl=1" alt="福克斯新闻民调：多数人认为移民执法已经越界" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/alexandra-daddario-comic-con-2024.jpg?ve=1&amp;tl=1" alt="与丈夫安德鲁·福姆分居数月后，亚历山德拉·达达里奥身穿格纹比基尼惊艳亮相" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>福克斯新闻最新民调显示，53%的登记选民认为，特朗普政府对移民法的执行已经走得太远；自2025年6月以来，这一看法一直保持稳定。</p>
-<p>其余选民的意见则在“执法力度不够”和“执法力度恰到好处”之间各占23%。</p>
-<p>调查结果呈现出明显的党派差异：87%的民主党人和60%的独立选民认为执法已经走得太远；而大多数共和党人则在“力度不够”（40%）和“恰到好处”（43%）之间分歧。</p>
-<p>在认为执法已经走得太远的人中，选民对于原因也存在分歧：45%认为政府使用了过度武力，49%则认为执法针对了错误的人群。</p>
-<p>福克斯新闻民调：受生活成本挤压、感到沮丧的选民转向民主党</p>
-<p>民主党人认为政府针对了错误的人群（高出7个百分点），而独立选民则认为原因在于政府使用了过度武力（高出2个百分点）。由于认为移民执法已经走得太远的共和党人数量不足，无法得出有意义的结论。</p>
-<p>因此，特朗普总统在移民问题上的支持率为43%，低于去年夏季48%的高点。</p>
-<p>在过去四年中，直到今年夏季，选民一直认为共和党处理移民问题会比民主党做得更好。这一优势几乎已经消失，选民在两党之间分化（民主党48%，共和党49%）。民主党在移民问题上具有竞争力，原因在于独立选民对民主党的支持率比共和党高出6个百分点，同时15%的非“让美国再次伟大”（MAGA）共和党人更倾向于民主党。</p>
-<p>福克斯新闻民调：让服务器冷静！选民拒绝数据中心</p>
-<p>“自拜登执政时期以来，移民问题一直是围绕边境安全来界定的，”协助民主党民调专家克里斯·安德森开展这项调查的共和党民调专家达龙·肖说。“但如今选民想到的是移民与海关执法局（ICE）的严厉打击，许多人认为这些行动过于激进。”</p>
-<p>尽管只有不到十分之一（8%）的选民将移民问题列为优先事项，但在当前美国面临的最重要问题中，移民问题的重要性仅次于生活成本（34%）和更广泛的经济问题（14%）。</p>
-<p>近三分之二的选民（63%）同意，在美国出生、父母为非法移民的儿童应自动成为美国公民。尽管总体支持率已从此前约67%至69%的高点回落，但仍远高于2006年45%的低点。</p>
-<p>点击此处查看交叉表和主要数据</p>
-<p>同样，结果受到党派立场的明显影响：大约十分之九的民主党人和十分之六的独立选民支持出生公民权，而十分之六的共和党人反对这一权利。</p>
-<p>在西语裔选民中，三分之二不认可特朗普的总体工作表现以及他处理移民问题的表现。他们在这一问题上对民主党的信任度比共和党高出19个百分点，另有60%的人认为移民执法已经走得太远。</p>
-<p>四分之三的西语裔选民认为，在美国出生、父母为非法移民的人应获得公民身份保障。</p>
-<p>这项福克斯新闻民调于2026年9月11日至14日进行，由Beacon Research（民主党方）和Shaw &amp; Company Research（共和党方）负责。调查通过从全国选民名册中随机抽取的样本，对1211名登记选民进行了访谈。受访者中，96人通过固定电话、821人通过手机接受了人工访谈；另有294人在收到短信后在线完成调查。</p>
-<p>基于完整样本的结果，其抽样误差幅度为正负3个百分点。各分组结果的抽样误差更大。除抽样误差外，问题的措辞和排列顺序也可能影响结果。调查通常会对年龄、种族、教育程度和地区等变量进行加权，以确保人口统计特征能够代表登记选民总体。制定加权目标所使用的来源包括最新的美国社区调查、福克斯新闻选民分析以及选民名册数据。</p></div>
+<div class="article-body" data-article-body="true"><p>亚历山德拉·达达里奥正在享受远离喧嚣的时光，而这一年她经历了诸多重大变化。</p>
+<p>这位40岁的女演员周三在Instagram上分享了一组度假照片，其中包括两张她身穿蓝白格纹比基尼、在户外放松的照片。</p>
+<p>达达里奥在这组Instagram照片的开头，斜倚在一张铺有软垫的躺椅上，直视镜头。她穿着这套格纹两件式泳装，棕色长发披散着，掠过脸的一侧。</p>
+<p>杰西卡·辛普森晒土克斯和凯科斯群岛旅行比基尼照，吸引众人目光</p>
+<p>这位《白莲花》明星似乎保持了自然妆容，仅以一枚银戒指作简单装饰。她用一只手臂支撑身体，拍下这张特写照片。</p>
+<p>达达里奥为这条动态配文：“度假细节。”</p>
+<p>第二张照片从不同角度拍摄了达达里奥。她在同一张躺椅上伸展身体，将头靠在一只手臂上，同时侧望镜头，再次展示了这套浅蓝色格纹泳装。</p>
+<p>粉丝们很快注意到了这些度假照片。</p>
+<p>一人开玩笑说：“如果她伤了我的心，我会道歉……”</p>
+<p>另一人评论道：“我们想念达达里奥一家人了。”</p>
+<p>另一位粉丝补充说：“@alexandradaddario，你不能毫不费力地看起来这么漂亮。”</p>
+<p>在这组照片的其他部分，达达里奥换上了更加正式的造型。</p>
+<p>在一张镜自拍中，这位《海滩游侠》女演员赤脚摆出姿势，穿着一套奶油色同款服装，上面印有醒目的花鸟图案。这套造型包括一件修身无袖上衣和一条及地长裙，腰部一侧设有镂空设计。</p>
+<p>达达里奥一手拿着手机，另一只手臂向上伸展，贴在墙上，拍下了完整造型。</p>
+<p>《白莲花》明星米歇尔·莫娜汉在印度尼西亚度假期间身穿系带比基尼，展示健美身材</p>
+<p>这组度假照片发布之际，距离达达里奥与电影制片人安德鲁·福姆宣布结束婚姻已有七个月。</p>
+<p>今年2月，在结婚三年多后，达达里奥的代表向《人物》杂志证实了两人分居的消息。</p>
+<p>她的代表告诉该媒体：“亚历山德拉·达达里奥和安德鲁·福姆决定结束婚姻。”</p>
+<p>声明继续说：“这一决定是在爱与尊重中作出的。他们将继续共同抚养孩子，并在适应这一转变的过程中，希望外界尊重他们的隐私。”</p>
+<p>测试你的娱乐知识，看看你能得多少分</p>
+<p>达达里奥和福姆于2022年6月在新奥尔良结婚，此前一年两人已在Instagram上公开恋情。</p>
+<p>这对前夫妻于2024年10月迎来了他们的第一个孩子，一个儿子。福姆与前妻、女演员乔丹娜·布鲁斯特还育有两个儿子。</p>
+<p>詹妮弗·洛佩兹身穿印花泳装惊艳亮相，享受夏日最后时光</p>
+<p>此前，达达里奥曾谈及自己成为母亲的经历。她在2024年接受《Vogue》采访时透露，在迎来儿子之前，她曾经历过一次妊娠流失。</p>
+<p>当时她告诉该媒体：“这段经历漫长而复杂，所以我不想透露太多细节。除非亲身经历过，否则很难解释那种失去和创伤。”</p>
+<p>点击这里，直接将娱乐圈最新消息发送到你的邮箱</p>
+<p>“我真的能够以一种以前无法完全理解的方式，体会所有经历过这类事情的女性。那非常、非常痛苦。”</p>
+<p>在个人生活发生变化之际，这位女演员的事业依然忙碌。</p>
+<p>本月早些时候，达达里奥现身纽约时装周，在曼哈顿克莱恩俱乐部参加万宝龙“皮革100年”庆祝活动。</p>
+<p>喜欢你正在阅读的内容吗？点击这里获取更多娱乐新闻</p>
+<p>在活动上，达达里奥谈到了随着年龄增长，自己的观念如何发生变化。</p>
+<p>在谈到那些她过去只在特殊场合才舍得使用的奢侈品时，她告诉《女装日报》：“我年轻时从来不想使用它们。我不想使用最好的护肤品，也不想使用我那只漂亮的包。”</p>
+<p>“而现在，随着年龄增长，我会想：‘我还活着。这些东西就是用来使用的。你应该一直用到它们磨损，而这正是它们的价值所在。’”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-18 06:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-18 08:04 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -166,27 +78,67 @@ notice:
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/politics/fox-news-poll-majority-says-immigration-enforcement-has-crossed-line" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/alexandra-daddario-stuns-gingham-bikini-months-after-split-husband-andrew-form" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-026-09-18-10698621-shtml-6a5a677de4ed57e1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1078" data-content-paragraphs="23" data-published-at="2026-09-17T21:53:36.000Z" data-time-source="publication">
+<div id="story-026-09-18-10698641-shtml-bc304bc2bac78bea" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="6209" data-content-paragraphs="63" data-published-at="2026-09-18T00:02:48.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-18 05:53</span>
+  <span class="news-meta-time">🕒 2026-09-18 08:02</span>
 </div>
 
-### [中方反对在安理会强推恢复对伊朗制裁](https://www.chinanews.com.cn/gj/2026/09-18/10698621.shtml)
+### [人类数学遭遇至暗时刻？](https://www.chinanews.com.cn/gj/2026/09-18/10698641.shtml)
 
-<div class="article-body" data-article-body="true"><p>中国常驻联合国代表傅聪17日在安理会就伊朗制裁委员会专家小组授权延期决议草案投票后发言，表示中方反对在安理会强推恢复对伊朗制裁。</p>
-<p>傅聪说，当前中东地区战事延宕，伊朗核问题政治解决进程深陷僵局。形势越是动荡，安理会越要展现领导力，以负责任态度采取行动，避免双重标准、政治操弄、施压对抗。中方从捍卫公道正义、维护中东地区和平稳定出发，着眼伊核问题政治外交解决大局，对决议草案投了反对票。</p>
-<p>他说，核可伊朗核问题全面协议的安理会第2231号决议已于2025年10月18日到期终止，安理会已终止审议伊朗核问题。无视上述事实，在安理会强推恢复对伊朗制裁、提出明显具有争议的决议草案，只会损害安理会团结和信誉，给外交努力制造障碍。中方对此坚决反对。</p>
-<p>傅聪说，国际社会包括安理会的当务之急是推动当事方保持冷静克制，停止使用武力或以武力相威胁，缓和紧张局势，积极为当事方恢复落实停火、重返谈判、达成和平协议创造必要条件。军事手段和制裁施压无助于解决问题，只会加剧紧张，升级局势不符合任何一方利益，平等对话谈判才是唯一正途。安理会的任何行动应有助于当事方在平等基础上开展谈判，找到兼顾彼此合理关切的最大公约数，达成符合国际社会期待的解决方案。</p>
-<p>联合国安理会17日未能通过伊朗制裁委员会专家小组授权延期决议。这一由美国起草的决议草案表决结果为：11票赞成、2票反对、2票弃权。安理会常任理事国俄罗斯和中国投了反对票，决议草案被否决。(央视记者 曹健）</p>
+<div class="article-body" data-article-body="true"><p>发于2026.9.21总第1253期《中国新闻周刊》杂志</p>
+<p>当地时间9月11日，包括陶哲轩、邓煜在内的25位菲尔兹奖得主联合发表《人工智能在数学中的严重错位》的声明(以下称“联合声明”)，将OpenAI、Anthropic等AI公司与数学界的一场“大战”推向高潮。联合声明称，AI公司将解决数学难题作为模型能力基准的做法，对数学科学本身及数学界造成了损害，与数学共同体追求概念理解的根本目标产生了显著分歧。</p>
+<p>这一分歧近期越发明显。9月8日，OpenAI宣称其未公开的内部AI模型用88个小时解决了纳维-斯托克斯方程(N-S方程)的存在性与光滑性问题。N-S方程是描述流体运动的核心方程，广泛应用于天气预报、飞机设计等领域。美国克雷数学研究所(CMI)2000年将这一问题列为七大千禧年大奖难题之一，悬赏100万美元。然而，纽约大学的一位数学家却声称，OpenAI的模型在解题过程中，半路截走了他的成果。</p>
+<p>OpenAI的做法迅速引发了一场关于学术优先权、数据伦理与AI科研边界的激烈争论。多位签署联合声明的菲尔兹奖得主对《中国新闻周刊》称“感到威胁”。不过，除了成果可能被窃取、工作或被取代外，他们眼中真正的威胁，要复杂得多。</p>
+<p>就在联合声明发布前一周，美国芝加哥大学数学系教授邓煜发了一条朋友圈，说最近数学界似乎弥漫着一股浮躁不安的氛围。他用半开玩笑的语气劝说那些感到焦虑迷茫、想转行的同行，等这一波喧嚣过去，数学界自然会慢慢适应，“过一两年再决定也为时不晚”。</p>
+<p>然后，OpenAI于9月8日的声明便引爆了整个数学界。一个“能力显著强于”其刚发布的GPT-6 Astra的内部模型，率领约1万个AI智能体并行工作约88小时，找到了N-S方程的一个反例。</p>
+<p>这一反例看上去像是一个不断向内旋转的涡旋。原本，N-S方程是描述流体的一项“铁律”。它将水、空气等看作是光滑连续的，通过速度、压力、黏性和外力等来解析流体的运动。但在OpenAI构造的这一独特涡旋中，流体不断向中心旋转，核心持续收缩并在纵向被拉长，就像一根越来越细长的意面。这个过程不断加速，出现了N-S方程所不能描述的“奇点”。流体光滑不再，数学家们称这一结果为“爆破”。</p>
+<p>此前，纽约大学柯朗数学科学研究所数学教授特里斯坦·巴克马斯特与Anthropic研究员莱文特·阿尔珀格已就N-S方程相关的流体问题取得了关键进展，并于9月7日午夜前公开了成果，比OpenAI官宣早约12小时。巴克马斯特随后抨击OpenAI，认为其在听闻他们取得进展后才加大投入。他透露，自己曾将未发表的草稿和推导放在OpenAI的代码工具中使用，怀疑被OpenAI的模型“偷看”。</p>
+<p>哈佛大学数学系讲席教授柯蒂斯·麦克马伦是1998年菲尔兹奖得主，也是签署此次联合声明的25人之一。他将整个事件类比为登山。“世界有许多尚未登顶的高山，数学家就是每天盘算如何登顶的登山者。多年来许多人已在一座名为N-S方程的山上爬到了相当高的位置。”麦克马伦对《中国新闻周刊》说，巴克马斯特与阿尔珀格在山腰建立了营地，也许离顶峰只差几个月路程。</p>
+<p>但OpenAI做了一件令人愤懑的事。麦克马伦说，他们四处物色可以空投的位置，在发现上述营地后，就立刻往那儿空投了一队机械登山者，然后抢在所有人之前，登上了峰顶。而这一切仅因为，他们拥有一架飞得比任何人都高的直升机。</p>
+<p>最令麦克马伦感到不可接受的是，多年来为N-S方程研究做出贡献的人们，在OpenAI勾勒的证明图景里被完全排除了。“没有恰当的引用，没有对此前工作的说明，只是按下了一个按钮，然后得到了一个结果。这是对人类知识的一次公然背弃。”</p>
+<p>瑞士日内瓦大学教授斯坦尼斯拉夫·斯米尔诺夫是2010年菲尔兹奖得主，同样签署了联合声明。他对《中国新闻周刊》分析：“有人认为AI抄袭人类是可以接受的，我很难认同这种观点。”</p>
+<p>事发之初，OpenAI方面对巴克马斯特的指控予以否认，但承认无法完全排除用户数据在模型训练中发挥的间接作用。OpenAI也承认巴克马斯特团队在相关成果上拥有优先权。但在9月10日《纽约时报》的采访中，OpenAI方面则更加强硬地表示，巴克马斯特过去两个月在代码工具上写的提示词，绝不可能以任何方式影响其内部模型。目前，OpenAI没有申领CMI悬赏的打算。数学界尚未对OpenAI的证明给出正式认可。</p>
+<p>巴克马斯特等人的成果是否被窃取，多数受访者持谨慎态度。2018年菲尔兹奖得主、瑞士苏黎世联邦理工学院教授阿莱西奥·菲加利指出，根据现有信息还无法对这场纠纷做出责任判断。他认为，这件事的重要性在于其揭示了一个更普遍的问题。“数学极其依赖非正式交流，我们会告诉同事我们正在做什么，在会议上讨论尚未完善的想法。这种开放只有在人们确信不会使其处于竞争劣势的情况下，才有正当性。”</p>
+<p>况且，数学家越来越有可能在研究成果尚未发表时，就与AI讨论和交互。菲加利告诉《中国新闻周刊》，现在的问题是，只要传出有人即将解决某个数学问题的风言风语，AI公司就会趋之若鹜。在他看来，学术研究的基本原则，例如保密、署名、对未发表成果的保护等，在AI时代必须继续适用。</p>
+<p>显然，AI公司不会考虑这些。在解决N-S方程难题后，OpenAI几乎马上宣布，其已着手突破另一千禧年大奖难题霍奇猜想。麦克马伦指出，AI 公司靠这样的方式吸引投资、扩张商业版图，本无可厚非。但商业世界的伦理图景与学术界截然不同，二者的游戏规则有着明显差异。</p>
+<p>巴克马斯特提到，OpenAI曾提议将阿尔珀格从联合署名中移除，因为后者在竞争对手Anthropic任职。阿尔珀格本科在哈佛大学学习时，麦克马伦曾教过他，二人如今是好友。麦克马伦回忆，OpenAI方面确实曾直接要求除名。“显然，只要不用和Anthropic分享功劳，他们很乐意和巴克马斯特合作。这是纯粹金钱驱动的伦理失范，坦率地说，是一种霸凌。”</p>
+<p>更令他生气的还是那句“你想毁掉自己的职业生涯吗？”。OpenAI发言人坦言其对巴克马斯特说过这句话，但当时就收回并道歉了。“我们说不出这种话。”麦克马伦认为，此时此刻，AI公司背后耸立的傲慢，灼伤了他。</p>
+<p>“(数学界)每个人都因眼下正在发生的事情辗转反侧。数学是我们的职业和生命，而它本身正面临生存危机。”南方科技大学讲席教授叶菲姆·泽尔曼诺夫称。</p>
+<p>这位1994年菲尔兹奖得主接受《中国新闻周刊》采访时，正在前往德国海德堡的路上。他将参加第13届海德堡桂冠论坛，今年将有专门的议程探讨AI与数学间的关系。他虽然没有参与联合声明的撰写，但在看到它的一瞬间，他感到情绪有了出口。</p>
+<p>麦克马伦确信，联合声明最初的牵头者包括陶哲轩、德国马克斯·普朗克数学研究所所长彼得·朔尔策等。这些当今数学界赫赫有名的人物都在诉说着同一件事：数学界内部正在积累深切的忧虑与不安，而AI 公司一直在主导着媒体叙事。“是时候集体发声了。”</p>
+<p>这并不是数学家第一次针对AI集体发声。今年6月，国际数学联盟发布《人工智能与数学莱顿宣言》(以下称《莱顿宣言》)，旨在应对AI给数学研究带来的挑战，强调数学核心价值与科研诚信。《莱顿宣言》历经半年多打磨才最终面世，与之相比，联合声明从起草到发布仅用了一周。</p>
+<p>在菲加利看来，这不是草率，而是紧迫。更长时间的磋商肯定会产生一份更全面的声明，但现在需尽快提出问题，鼓励广泛的讨论。联合声明想要讨论的是，如果人类将解决复杂数学问题作为衡量AI能力的基准，是否等于抛弃了数学学科的传统价值。</p>
+<p>什么是数学的传统价值？泽尔曼诺夫解释，数学家钻研某个问题时，往往不在乎它有什么应用，而仅是因为它美。在此之上，数学生长出了一套绵延几千年的体系。人们提出问题的目的，其一是发展理论，因为人们发现不建立新的数学工具就不可能解决这一问题。“这不只是为了登顶一座山，更是为了修路。”</p>
+<p>另一个目的，是培养做数学的人。作为导师，泽尔曼诺夫要为不同层次的学生设计问题。“带研究生时，我不能一上来就让他去推导费马大定理，而是设计一些中等难度的问题，让他们钻研、推导新理论。然后他们发表论文、获得学位、找到工作，这是一套固有体系。”</p>
+<p>现在，AI登场了。多位受访者提到，AI擅长构造反例，因为它算力强大，能遍历人类短时间很难遍历的各种可能性。其次，如果数学家已在某个领域耕耘良久，AI能把这些成果拼接到一起，有时候确实能更快做出结果。“但在这个过程中，我们对问题的理解增进了吗？AI帮助我们培养人才了吗？”泽尔曼诺夫说。</p>
+<p>他认为，数学不是国际象棋这样的纯粹智力游戏，而更像是骑自行车。你无法“教会”一个人骑自行车，他必须自己骑上去。但AI公司正将数学变成一盘国际象棋。</p>
+<p>因此，“严重错位”这一说法多次出现在联合声明的正文里。麦克马伦称，除了价值取向的错位，社会对数学本身的理解也有错位。最典型的是，人们很容易将数学和解题等同。麦克马伦在哈佛大学当了近三十年的教授，见过大量解题能力惊人的学生，他们中许多人最终没能在数学上有所建树。他认为，“既然有了AI，我们为什么还需要数学家”是一个离谱的想法，因为我们同样可以问：“既然AI会解微积分，我们为什么还要教本科生微积分？”</p>
+<p>以费马大定理为例，其在1994年被证明前，作为一个猜想悬置了数百年。它问的是，当n大于2时，是否存在整数 x、y、z，使得 xn + yn= zn成立。光看这个问题，泽尔曼诺夫直呼“谁在乎呢？”。但学界共识是，要解决它，人们必须发展新的数学工具。于是，数论、代数几何和模形式等现代数学工具接连诞生。在这条路上，无数年轻人成长为了杰出的数学家。“而现在，AI把这一切毁了。”</p>
+<p>这背后是AI对数学研究生态的深层冲击。近日，康奈尔大学数学家史蒂文·斯特罗加茨对《连线》杂志表示，他感到深刻的恐惧。AI攻克N-S方程问题后，真正受影响的是数学家的自我认知。他的合作者则坦言，自己花了15年成为世界级研究者，而“我的技能已不再属于我”，他感到“完全被威胁”。</p>
+<p>如今，研究生们开始犹豫，自己还该不该进入这一领域。麦克马伦说，那些从一进大学就想着“读个数学博士，运气好的话去普林斯顿当教授”的本科生们，现在要重新考虑，研究数学基本的价值观是否已发生改变。“以阿尔珀格为例，一个哈佛大学毕业生，有数学博士学位，如今在AI大厂工作。培养他们的正是这个即将被AI摧毁的数学生态系统，某种程度上，他们在搬起石头砸自己的脚。”</p>
+<p>有位菲尔兹奖得主告诉泽尔曼诺夫，他已开始拒绝接收研究生了，因为数学家这一职业正在死去。在泽尔曼诺夫看来，这有些“反应过度”了，数学的火炬仍需传承。</p>
+<p>今年以来，AI在数学领域的一系列成果密集涌现，模型之间的竞赛也愈演愈烈。</p>
+<p>5月，OpenAI内部模型给出Erdős单位距离猜想的反例，推翻了这一悬置约80年的组合几何问题。7月，Anthropic公布雅可比猜想的反例，该猜想已悬置87年。8月，Anthropic宣布旗下大模型Claude在黎曼猜想相关问题上取得进展。OpenAI则毫不示弱，公布了与孪生素数猜想密切相关的一项新成果。</p>
+<p>一个很自然的问题是：既然人类已有了“直升机”，为什么还要费劲去爬山？泽尔曼诺夫的回答是，因为“直升机”还不具备自己飞到“营地”的能力。更重要的是，人们还完全看不懂它登顶的过程。</p>
+<p>关于N-S方程问题的突破，OpenAI给出了一份长达166页的完整数学推导论文及配套的Lean形式化验证代码。泽尔曼诺夫介绍，Lean是现在唯一验证AI证明正确性的方式，这是一种代码语言，可以理解为证明器。人们可以将数学证明输入Lean，转译成AI能看懂的一套代码“跑一遍”，如果能跑通，则说明这一证明严谨可接受。</p>
+<p>但人类不理解，当Lean说验证成功时，究竟代表着什么。麦克马伦指出，AI在一个个神经网络里工作，针对同一个题目，它给出的结果可能并不确定。人们可以把OpenAI的证明放到Lean里面再跑上100个小时、用上亿个词元(Token)，它却可能说“我解不出来”。这种不可重复性让AI证明的学术严谨性受到质疑。“这就像面对一个长达一英里的等式，你从头开始一步步核对到最后，发现等式是对的，但你什么也没看懂，什么也没学到。”麦克马伦说。</p>
+<p>他进一步指出，Lean 如今被AI公司广泛用作绕过传统评审流程的捷径。AI公司发布的论文不再送审稿人、投期刊，因为期刊会说“等你们写出人类可读的论文再来投”。而AI公司很可能会说，“我们不写人类可读的论文，我们的成果也不必经数学共同体审视”。</p>
+<p>曾有朋友告诉斯米尔诺夫，数学家对AI证明怨声载道，就像掘土的工人抱怨被挖掘机取代一样。他倒觉得应该把这个比喻放进考古挖掘的场景里。挖掘机的速度确实更快，但可能会破坏珍贵文物。这些文物如果由一群工作速度慢得多的工人来发掘，将得到很好的保存。</p>
+<p>不过，仍然会有人觉得，数学家们反应如此激烈，是害怕自己的饭碗被AI抢走。麦克马伦笑称，所有签署联合声明的数学家，其对AI 的态度也是天壤之别：有的完全拒绝使用AI，有的则像麦克马伦一样，早已开始使用AI提供思路、攻克难题。</p>
+<p>联合声明之外，数学家们的真正诉求是什么？多位受访者提到了对话，斯米尔诺夫指出，如果AI公司能与数学家共享资源，情况或许会好得多。菲加利依然认同维持深层次数学训练的重要性，即使这不能立即带来成果。</p>
+<p>麦克马伦则提出了三个关键词：研究范式、规则，以及 AI 公司自身信奉的价值观。他认为，上层监管短期内很难解决AI争端，真正的转型必须发生在 AI 公司以及数学家群体内部。前者应该重新审视模型“军备竞赛”给社会带来的负面影响，而后者应积极探索AI辅助下的成果评估体系。这也许将意味着数学界很长一段时间的阵痛，但这是必要的。</p>
+<p>数学家会不会消失？泽尔曼诺夫的答案是不会，因为总要有人去探索人类知识的边界，AI还做不到这一点。没有人能禁止AI，和所有人一样，数学家也必须重塑自己。</p>
+<p>“我不会感到不安，甚至觉得相当振奋。变革从来都是有趣的。”麦克马伦说。</p>
+<p>声明：刊用《中国新闻周刊》稿件务经书面授权</p>
 <p>“父亲背8个鸡蛋接考”，贺永辉作为新生代表发言</p>
 <p>中新网评：三九胃泰的营销病，比胃病更该治</p>
 <p>特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”</p>
@@ -209,7 +161,7 @@ notice:
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-18 05:53 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-18 08:02 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -219,60 +171,7 @@ notice:
   <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-18/10698621.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-18-10698619-shtml-ceb275500f494084" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="931" data-content-paragraphs="23" data-published-at="2026-09-17T21:50:45.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-18 05:50</span>
-</div>
-
-### [俄罗斯第九届国家杜马选举开始投票](https://www.chinanews.com.cn/gj/2026/09-18/10698619.shtml)
-
-<div class="article-body" data-article-body="true"><p>俄罗斯第九届国家杜马(议会下院)选举于当地时间9月18日8时在堪察加边疆区和楚科奇自治州率先开始投票。这是俄罗斯自2022年对乌克兰开展特别军事行动以来首次举行全国性议会选举。</p>
-<p>根据俄中央选举委员会发布的信息，本次选举投票时间为9月18日至20日，9月20日为全俄统一投票日。为适应俄罗斯横跨11个时区的国土特点，各地投票时段将因地错峰展开，同时开通远程电子投票渠道。选举还将开设319个境外投票点，境外选民人数超过181.6万人。</p>
-<p>全俄共有超过3000名候选人完成官方登记，10个政党获得联邦候选人名单参选资格，其中包括执政党统一俄罗斯党(统俄党)、俄罗斯联邦共产党(俄共)、公正俄罗斯党、俄罗斯自由民主党和新人党5个现议会党，以及祖国党、绿党等5个非议会党。</p>
-<p>本届俄国家杜马选举席位设置延续传统模式，450个议席中，225席依据政党名单按比例分配，参选政党需达到5%的得票门槛方可获得议席；剩余225席通过全国单席位选区以相对多数投票制产生。</p>
-<p>俄中央选举委员会此前表示，本届杜马选举结果最迟不晚于10月5日宣布。(总台记者 王斌）</p>
-<p>“父亲背8个鸡蛋接考”，贺永辉作为新生代表发言</p>
-<p>中新网评：三九胃泰的营销病，比胃病更该治</p>
-<p>特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”</p>
-<p>美国对伊战损全景首曝光：损失重大、先进武器告急</p>
-<p>前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台</p>
-<p>威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？</p>
-<p>打降糖针减肥、吃药问AI靠谱吗？专业医师解答</p>
-<p>专家：“主动健康”首先要确立正确健康知识</p>
-<p>“大金砖合作”凝聚力量，全球南方共谋发展</p>
-<p>中新网评宁大校长雨中三句话致辞：比仪式更重要的是体谅</p>
-<p>三大国宝壁画齐聚山西芮城 同空间并置展千年文脉</p>
-<p>小猫悬于三楼外墙，小朋友默契配合成功施救</p>
-<p>都市版绿野仙踪！上海国际光影节黄浦主会场抢先看</p>
-<p>当义乌遇上AI：逛完要一年，出款只要几分钟</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>亚运男篮1/4决赛：中国男篮战胜沙特男篮</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-18 05:50 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-18/10698619.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-18/10698641.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 ::::

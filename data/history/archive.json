@@ -1,5 +1,1566 @@
 [
   {
+    "timestamp": 1789692038882,
+    "timeDisplay": "2026-09-18 08:40 (UTC+8)",
+    "date": "2026-09-18",
+    "runId": "feed-20260918T002939312Z-iijlo3",
+    "generatedAt": "2026-09-18T00:40:38.882Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 08:29",
+      "lead": "本轮抓取于 2026-09-18 08:29 (UTC+8) 完成，共获得 17 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】获得科斯拉支持的 Mazama Energy 刚筹集1.35亿美元，拟向超高温岩石地热领域钻得更深：这笔新融资将帮助该公司在超高温岩石中开发水平井；每口井能够产生15兆瓦电力。",
+        "【undefined】Crusoe融资39亿美元用于建设大型数据中心及小型模块化“AI工厂”：数据中心开发商Crusoe周四表示，公司已在F轮融资中筹集39亿美元，使其估值推高至309亿美元。据Crusoe称，本轮大规模融资由Atreides Management、穆巴达拉资本（Mubadala Capital）和Valor Equity Partners联合领投。Founders Fund、新加坡政府投资公司（GIC）、英伟达（Nvidia）、卡塔尔投资局（QIA）、Radical Ventures以及TPG也参与了投资。",
+        "【undefined】与丈夫安德鲁·福姆分居数月后，亚历山德拉·达达里奥身穿格纹比基尼惊艳亮相：亚历山德拉·达达里奥正在享受远离喧嚣的时光，而这一年她经历了诸多重大变化。",
+        "【undefined】人类数学遭遇至暗时刻？：发于2026.9.21总第1253期《中国新闻周刊》杂志",
+        "【undefined】美国正在为燃料支付高昂代价，但并没有耗尽汽油：汽油价格昂贵，柴油价格更糟。社交媒体正在陷入混乱，而且似乎已经认定美国的燃料快用光了。美国能源信息署（EIA）称，上周美国汽油库存增加了80万桶，达到2.077亿桶。库存比往年同期五年平均水平低5%。供应确实偏紧，但远没有到油箱见底的程度。上周炼油厂日均加工原油1,730万桶，产能利用率为96.8%。汽油产量增至日均960万桶。过去四周汽油需求日均为880万桶，较上年同期下降1%。但这并没有阻止汽油价格上涨。美国汽车协会（AAA）称，周",
+        "【undefined】亚马逊旗下Zoox在内华达州的100辆自动驾驶出租车上限即将取消：内华达州限制Zoox最多运营100辆自动驾驶出租车的监管上限将于本月到期。这将为这家亚马逊旗下公司扩大其在拉斯维加斯运营的定制自动驾驶出租车车队扫清障碍，而此时市场竞争正日益升温。",
+        "【undefined】PrismML希望其微型大语言模型改变我们所有人使用人工智能的方式：如果你还没有关注人工智能实验室PrismML，那么现在应该关注了——这并不是因为它已经筹集了大笔资金（目前还没有，它只有一轮2,225万美元的种子融资），而是因为参与其中的技术人才，以及它正在开发的、可能改变行业的技术。",
+        "【undefined】FAA解决空中交通问题的计划？价值8.75亿美元的人工智能：美国联邦航空管理局一直在努力应对全国范围内的空中交通管制员短缺问题。造成这一短缺的原因多种多样，但政府已表示正在寻找解决这一问题的创新方案。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-18",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】获得科斯拉支持的 Mazama Energy 刚筹集1.35亿美元，拟向超高温岩石地热领域钻得更深：这笔新融资将帮助该公司在超高温岩石中开发水平井；每口井能够产生15兆瓦电力。；【undefined】Crusoe融资39亿美元用于建设大型数据中心及小型模块化“AI工厂”：数据中心开发商Crusoe周四表示，公司已在F轮融资中筹集39亿美元，使其估值推高至309亿美元。据Crusoe称，本轮大规模融资由Atreides Management、穆巴达拉资本（Mubadala Capital）和Valor Equity Partners联合领投。Founders Fund、新加坡政府投资公司（GIC）、英伟达（Nvidia）、卡塔尔投资局（QIA）、Radical Ventures以及TPG也参与了投资。；【undefined】美国正在为燃料支付高昂代价，但并没有耗尽汽油：汽油价格昂贵，柴油价格更糟。社交媒体正在陷入混乱，而且似乎已经认定美国的燃料快用光了。美国能源信息署（EIA）称，上周美国汽油库存增加了80万桶，达到2.077亿桶。库存比往年同期五年平均水平低5%。供应确实偏紧，但远没有到油箱见底的程度。上周炼油厂日均加工原油1,730万桶，产能利用率为96.8%。汽油产量增至日均960万桶。过去四周汽油需求日均为880万桶，较上年同期下降1%。但这并没有阻止汽油价格上涨。美国汽车协会（AAA）称，周"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】与丈夫安德鲁·福姆分居数月后，亚历山德拉·达达里奥身穿格纹比基尼惊艳亮相：亚历山德拉·达达里奥正在享受远离喧嚣的时光，而这一年她经历了诸多重大变化。；【undefined】人类数学遭遇至暗时刻？：发于2026.9.21总第1253期《中国新闻周刊》杂志"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】请保持警惕：针对知名 Rust 社区成员的定向攻击：我们认为，目前正有一场持续进行的攻击行动，目标是 rust-lang 成员和热门 crate 的维护者，企图攻陷他们的设备和账户，以利用这些设备和账户发布恶意软件。；【undefined】我不喜欢大语言模型：我对人工智能和大语言模型技术有很多复杂的感受。我着迷于它对我们这个职业的影响，也对生产力可能获得的提升感到兴奋——这意味着我们可以快速构建出各种产品。另一方面，我又担心人工智能可能造成的破坏：代理群接管我们的虚拟和实体基础设施，设计生物武器。不过，回到最初的想法，大语言模型也可能设计出奇效药，想出巧妙的办法来提高我们的繁荣程度。从根本上说，我不认为我们有选择是否登上人工智能技术列车的余地。这是一段疯狂的旅程，我只希望我们能平安度过。；【undefined】我在2014年临时写的 PHP 修复程序已接近2000万次安装。今天我将其弃用：十二年前，我为美国在线（AOL）的内容管理系统临时写了174行 PHP 代码，作为权宜之计。我把它发布到了 Packagist，以防其他人也需要同样的补丁。没想到，自那以后它的安装次数竟接近2000万。今天，我将其标记为弃用。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 77,
+      "completedTasks": 77,
+      "succeeded": 34,
+      "degraded": 43,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 77,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 659534,
+      "byRole": {
+        "translator": {
+          "attempts": 52,
+          "succeeded": 22,
+          "degraded": 30
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 1,
+          "degraded": 6
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "degraded": 4,
+          "succeeded": 3
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 6,
+          "degraded": 1
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 77,
+          "succeeded": 34,
+          "degraded": 43
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-1-translator-1",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-22-translator-0",
+      "article-22-translator-1",
+      "article-23-translator-0",
+      "article-27-translator-0",
+      "article-27-translator-1",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-30-translator-0",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-36-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-41-translator-0",
+      "article-42-translator-0",
+      "article-0-source-positioner",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-2-fact-extractor",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "article-6-source-positioner",
+      "article-6-topic-classifier",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:21.444Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.577Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:21.476Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.710Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.906Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.103Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.942Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.211Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.545Z",
+        "lastSuccessAt": "2026-09-18T00:29:25.527Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.422Z",
+        "lastSuccessAt": "2026-09-18T00:29:25.390Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:26.123Z",
+        "lastSuccessAt": "2026-09-18T00:29:26.563Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.111Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.334Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.217Z",
+        "lastSuccessAt": "2026-09-18T00:29:24.823Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.211Z",
+        "lastSuccessAt": "2026-09-18T00:29:25.227Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.710Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.146Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.577Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.942Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.351Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.405Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.519Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.412Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:25.527Z",
+        "lastSuccessAt": "2026-09-18T00:29:26.488Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:25.227Z",
+        "lastSuccessAt": "2026-09-18T00:29:26.484Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:25.390Z",
+        "lastSuccessAt": "2026-09-18T00:29:26.123Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.329Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.642Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.879Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.906Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.771Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.879Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.053Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.111Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:20.682Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.053Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.769Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.886Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.592Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.973Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.412Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.492Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.642Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.769Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.012Z",
+        "lastSuccessAt": "2026-09-18T00:29:24.582Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.239Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.329Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:25.979Z",
+        "lastSuccessAt": "2026-09-18T00:29:28.828Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.886Z",
+        "lastSuccessAt": "2026-09-18T00:29:24.012Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.330Z",
+        "lastSuccessAt": "2026-09-18T00:29:24.422Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.130Z",
+        "lastSuccessAt": "2026-09-18T00:29:24.223Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.372Z",
+        "lastSuccessAt": "2026-09-18T00:29:24.545Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:26.118Z",
+        "lastSuccessAt": "2026-09-18T00:29:26.656Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.103Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.206Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.405Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.997Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.547Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.955Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.367Z",
+        "lastSuccessAt": "2026-09-18T00:29:24.639Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.997Z",
+        "lastSuccessAt": "2026-09-18T00:29:24.372Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-18T00:29:23.973Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:20.680Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.351Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-18T00:29:24.223Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:20.681Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.217Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.582Z",
+        "lastSuccessAt": "2026-09-18T00:29:26.280Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.492Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.547Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:22.334Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.519Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.955Z",
+        "lastSuccessAt": "2026-09-18T00:29:24.367Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.482Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.592Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.639Z",
+        "lastSuccessAt": "2026-09-18T00:29:25.979Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:24.823Z",
+        "lastSuccessAt": "2026-09-18T00:29:26.118Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.206Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.482Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:23.146Z",
+        "lastSuccessAt": "2026-09-18T00:29:23.239Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:20.668Z",
+        "lastSuccessAt": "2026-09-18T00:29:21.476Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:20.679Z",
+        "lastSuccessAt": "2026-09-18T00:29:21.444Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T00:29:20.680Z",
+        "lastSuccessAt": "2026-09-18T00:29:22.771Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-stody-in-central-nigeria-1d616cfc5edd5aea",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "37 suspected illegal miners die in custody in central Nigeria",
+        "source": "France 24 (EN 官方英语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:27:53.000Z",
+        "pubTime": "2026-09-18 08:27",
+        "url": "https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria",
+        "imageUrl": "https://s.france24.com/media/display/fd53c6ca-b2f4-11f1-8166-5570cf9529c5/w:1024/p:16x9/AP24346673836644.jpg",
+        "fullContent": "Nigerian authorities launched an investigation Thursday after 37 suspected illegal miners died in a civil defence detention facility in central Niger state, with conflicting accounts blaming either a disease outbreak or overcrowding and poor ventilation.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (EN 官方英语原版)】于 2026-09-18 08:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (EN 官方英语原版)",
+            "url": "https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria",
+            "publishedAt": "2026-09-18T00:27:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-uper-hot-rock-geothermal-1e6796b12b2f8ea1",
+        "title": "获得科斯拉支持的 Mazama Energy 刚筹集1.35亿美元，拟向超高温岩石地热领域钻得更深",
+        "originalTitle": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:02:36.000Z",
+        "pubTime": "2026-09-18 08:02",
+        "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+        "imageUrl": null,
+        "fullContent": "The fresh funding will help the company develop horizontal wells in super-hot rocks capable of generating 15 megawatts of electricity per well.\n\nMazama plans to start generating electricity sometime next year and said its first site in Oregon is capable of producing 10 gigawatts of electricity. That’s a sharp upward revision from the company’s estimate last year, when investor Vinod Khosla said the site had the potential to produce 5 gigawatts.\n\nEnhanced geothermal startups are shaping up to be the dark horse in the battle to power AI data centers and other large loads on the grid. While tech companies and data center developers have been throwing their weight behind natural gas, geothermal startups have been quickly advancing their technology.\n\nUnlike previous geothermal projects, enhanced geothermal startups are targeting deeper and hotter rock. Mazama, for example, has drilled past 10,000 feet in 15 days on its way to about 15,000 feet deep. At those depths, the company can access 750˚ F (400˚ C) heat, which at high pressures turns water into a “supercritical” fluid that’s neither fully liquid nor fully gas — a state that lets it absorb far more energy than ordinary steam. Mazama said that will allow each well to produce up to 10 times more power than traditional geothermal technologies.\n\nGiven the depths Mazama is targeting, the potential payoff is significant. Tapping just 1% of super-hot rock worldwide could generate more than 63 terawatts of electricity, according to the University of Twente and the Clean Air Task Force.\n\nWhile work at its Oregon site is still in the early stages, the startup has already secured land for a second development. Mazama aims to complete development of the first site by 2030, at which point it says it should generate 200 megawatts of electricity.\n\nThe new round was led by Centaurus Capital and Doerr Capital, with participation from ConocoPhillips and Shell Ventures. Existing investors including Khosla Ventures and Gates Frontier returned, and new investors SiteGround Capital, H. Barton Asset Management, and the Jeffrey and Marieke Rothschild Foundation also joined the round.\n\nMazama was incubated at Khosla Ventures.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Climate\n\nTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.\n\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\n\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nMatt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+        "fullTranslation": "这笔新融资将帮助该公司在超高温岩石中开发水平井；每口井能够产生15兆瓦电力。\n\nMazama计划在明年某个时候开始发电，并表示其位于俄勒冈州的首个项目具备生产10吉瓦电力的能力。相比之下，这一数字较该公司去年的估计大幅上调。当时，投资者维诺德·科斯拉曾表示，该项目的潜力为5吉瓦。\n\n增强型地热初创公司正逐渐成为为人工智能数据中心及电网其他大型负荷供电之战中的“黑马”。科技公司和数据中心开发商一直在大力支持天然气，而地热初创公司则在快速推进相关技术。\n\n与以往的地热项目不同，增强型地热初创公司瞄准的是更深、更热的岩石。例如，Mazama在向约15,000英尺（约4,572米）深处钻进的过程中，仅用15天就钻过了10,000英尺（约3,048米）。在这一深度，公司能够获取750华氏度（400摄氏度）的热量；在高压下，这种热量会将水转化为一种“超临界”流体，既不是完全的液体，也不是完全的气体。这种状态使其能够吸收远多于普通蒸汽的能量。Mazama表示，这将使每口井的发电量最高达到传统地热技术的10倍。\n\n鉴于Mazama瞄准的深度，其潜在回报相当可观。根据特温特大学和清洁空气工作组的数据，只要利用全球超高温岩石资源的1%，就能产生超过63太瓦的电力。\n\n虽然其俄勒冈州项目仍处于早期阶段，但这家初创公司已经为第二个开发项目 확보了土地。Mazama的目标是在2030年前完成首个项目的开发；届时，公司表示该项目应能产生200兆瓦电力。\n\n新一轮融资由Centaurus Capital和Doerr Capital领投，ConocoPhillips和Shell Ventures参与。包括Khosla Ventures和Gates Frontier在内的现有投资者继续跟投；SiteGround Capital、H. Barton Asset Management以及杰弗里·罗斯柴尔德和玛丽克·罗斯柴尔德基金会等新投资者也加入了本轮融资。\n\nMazama由Khosla Ventures孵化。\n\n当您通过我们文章中的链接购买产品时，我们可能会获得一小笔佣金。但这不会影响我们的编辑独立性。\n\n气候事务高级记者\n\n蒂姆·德尚是TechCrunch的气候事务高级记者。他曾为包括《连线》杂志、《芝加哥论坛报》、Ars Technica、《中美印象》和NOVA Next在内的多家媒体撰稿，并曾担任NOVA Next的创刊编辑。\n\n德尚还是麻省理工学院科学写作研究生项目的讲师。2018年，他获得了麻省理工学院奈特科学新闻奖学金，并在此期间研究气候技术、探索新闻业的新商业模式。他拥有加州大学伯克利分校环境科学、政策与管理专业博士学位，以及圣奥拉夫学院环境研究、英语和生物学专业文学学士学位。\n\n如需联系蒂姆或核实其外联信息，可发送电子邮件至tim.dechant@techcrunch.com。\n\n预订展位的最后一天是9月18日。不要错过Disrupt展览大厅中的高价值潜在客户、投资者接触机会以及品牌曝光机会。\n\n清洁技术初创公司Fluxnium找到了利用可供使用50,000年的核燃料的方法\n\nSalesforce和英伟达的新推理模型正是人工智能实验室应该担心的一切\n\n詹森·黄接到了特朗普的电话，还展示了另一件东西\n\n据风投人士介绍，Y Combinator最近一次Demo Day上最受关注的9家初创公司\n\n特斯拉称终于将在10月1日发布第二代Roadster\n\nRevolut确认，客户数据通过伪造政府请求遭到泄露\n\n马特·穆伦维格告诉（在“挑衅者”？）Automattic员工，称自己在首席执行官被罢免后重新掌控了公司",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "地热初创公司 Mazama Energy 完成了 1.35 亿美元融资，用于深化超干热岩地热能开发。",
+          "本轮融资由 Centaurus Capital 和 Doerr Capital 领投，ConocoPhillips、Shell Ventures、SiteGround Capital、H. Barton Asset Management、Jeffrey and Marieke Rothschild Foundation 参投，老股东 Khosla Ventures 和 Gates Frontier 跟投。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T00:02:36.000Z",
+            "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/"
+          }
+        ]
+      },
+      {
+        "id": "story--to-the-us-iran-war-html-62afff4b282269c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What Yemen Really Means to the U.S.-Iran War",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "pubTime": "2026-09-18 08:00",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/What-Yemen-Really-Means-to-the-US-Iran-War.html",
+        "imageUrl": null,
+        "fullContent": "Yemen's Houthis aren't fighting Iran's war, which complicates things further. They're running their own war and letting Iran's war pay for it. Their September 8 demands are the same ones they've held since rejecting a 2023 UN roadmap that would have paid Houthi salaries and given them a share of Yemen's oil and gas revenue. That roadmap called for an end to Saudi military operations in Yemen, the removal of restrictions on Houthi-controlled ports and airports, back pay for officials, and war reparations. The one operation Iran is confirmed to be directing is the offensive against Mocha and the Hanish Islands, providing arms and guidance, and overseen by IRGC Quds Force commander Abdolreza Shahlai, gives the Houthis what they have wanted forever control of the coast. The relationship between Iran and the Houthis is such that the Houthis alone will determine how involved they will be in assisting Iran with its own objectives. Last weekend, US officials met Houthi representatives at the American embassy in Muscat, arranged by Oman, days after the group seized Yemen's Red Sea coastline. The Houthi delegation reportedly told American officials they don't intend to attack US vessels and remain committed to the ceasefire deal reached with Washington in May 2025. There were also reports that the Houthis pledged not to target Israeli or other commercial ships, sparing everyone except Saudi vessels even though all of this was originally tied to Gaza. In other words, the Houthis are telling Washington, in writing, that everyone gets a pass except Saudi Arabia. This is a bilateral war with Riyadh that the Houthis are actively insulating from becoming anything broader. Because of that, we might be tempted to think that there is a clean way out of at least the Red Sea blockade in the form of concessions to the Houthis. However, we see some high-level challenges here, as well. The 2023 Houthi demands are still negotiable, and the Saudis agreed to something close to those at the time. But this war has taken on a life of its own, and this is no longer 2023. In 2026, Bab el-Mandeb is now a different kind of asset. There is intelligence floating around that the IRGC is directing the design of a Houthi-enforced toll system for Bab el-Mandeb, mirroring Iran's for Hormuz, a claim the Houthis themselves have denied. That means the Saudis have lost some leverage here. How Much Damage Have the Houthis Really Done On September 8, Houthi missiles and drones hit oil facilities and utilities across four southern Saudi cities Abha, Khamis Mushait, Jazan, and Najran, igniting fires, wounding 73 people, and forcing a temporary halt to operations at some sites. The Saudi Energy Ministry confirmed the fires and the shutdown. That attack came hours after a Saudi coalition strike on the Sanaa airport runway blocked a Houthi-arranged flight from Tehran, and after an earlier Saudi strike killed civilians at a Jawf prison. Everything after September 8 is on weaker ground. The East-West pipeline damage on September 10-11 the strike that actually moved oil markets came from drones launched out of Iraq by an Iran-backed militia, not the Houthis. The Mecca drone on September 16 drove most of this week's coverage, with the Saudis intercepting the drone before it entered restricted airspace over the holy city. The Houthis deny targeting Mecca at all, and Iran has suggested the incident could be a false flag. No independent evidence has surfaced supporting either the Saudi account or the false-flag claim. Either way, it caused no damage. Separate claims of a strike on Yanbu's export terminal and a second strike on the Khamis Mushait airbase are claimed by Houthis, but there is nothing to substantiate it. Saudi Arabia has confirmed neither. Related Saudi Pipeline Outage Could Deepen the Global Fuel Crunch The Houthis don't have the range or precision to hit Abqaiq themselves. Their weapons reach western and southwestern Saudi Arabia, not the Eastern Province, which is over 1,000 kilometers away. The only strike that ever reached that far, in 2019, was long-range, precision-guided, and ultimately Iran's own weapon, not the Houthis'. Hitting Abqaiq today would need that same Iranian-grade system, and using one would end the fiction that this is a Houthi-Saudi war rather than an Iranian one. The Houthis are not looking to invite the US into a fight it has so far stayed out of. They have their own agenda. The Situation on the Ground in Yemen On the ground in Yemen, the Houthi restraint so far has paid off. They've taken Mocha, Perim Island, and the Bab al-Mandeb approaches without pulling the US into the war. In the capital, Sanaa, the Houthi administration is in control. While there is some burgeoning unrest among populations under their control due to fuel prices, the public has no real voice at the moment and is not much of a threat for the time being. The Houthis are actually running a currency more stable than the internationally recognized government's, not because their economy is healthier, but because they control the exchange mechanism directly. So, the war is popular where it's winning territory and unpopular at the gas pump, but they maintain an authoritarian grip that lets them fight a contained, deniable war against Saudi Arabia. And in the meantime, the Yemeni government has lost the coast. The unit that lost Mocha to the Houthis was forced to retreat and is now regrouping in Marib, but morale is at an all-time low. Nearly 1,800 families were displaced in the first 48 hours of the fight for Mocha, and that fighting has since spread to four more provinces. The UAE-backed Southern Transitional Council STC, a separatist force in southern Yemen, fought the Saudi-backed government for control of the south for years. In January, government and Saudi forces retook Aden, and the STC dissolved itself. There was some internal politics that led to that decision, but the STC is now back, and stepping into the chaos. For starters, STC forces besieged Saudi Arabia's defense minister during tensions in al-Dhalea. But not every southern faction is moving against the government Southern Resistance leader Wajdi al-Nakhai called on cells in Aden to integrate temporarily with government forces, specifically because a Houthi offensive was expected. There have also been claims of other STC forces blocking retreating government troops from entering Aden and Lahij after Mocha fell, but we cannot independently confirm that. The point is, this can't be neatly packaged and adds another variable to the explosive mix in Yemen. Prices at the Pump are Prices at the Pump No one is planning to save Americans from surging prices at the pump. Gas rose from $4.31 to $4.43 nationally in four days this week, according to AAA, and diesel rose 42 cents. In Charleston, South Carolina, the average jumped 15 cents overnight to $4.08; the statewide average hit $4.11 Thursday, up from $4.05 Wednesday. This traces straight back to supply Saudi Arabia exported just 3.2 million barrels a day last month, per Kpler data, its lowest level in more than a decade, because both of its normal routes are compromised, making it necessary to sail crude through Suez to the Mediterranean, or fully around Africa via the Cape of Good Hope to reach Asian buyers instead. House Speaker Mike Johnson pulled a vote on suspending the federal gas tax this week, citing disagreement among his own members rather than Democratic opposition. South Carolina's Republican governor, Henry McMaster, made the same call at the state level, suggesting he didn't think we'd reach emergency levels quite yet. Trump told a rally crowd on Wednesday that high prices at the pump were a small price to pay for the war against Iran. Frighteningly, JPMorgan commodities strategist Natasha Kaneva told clients Thursday that \"for the first time since the start of the Iran conflict, we don't have a baseline view\" and \"we simply don't know how to model the endgame.\" Where does this wild uncertainty leave midterm elections The generic ballot average sits at Democrats 8.3 as of September 13, per Polling USA's model, up from a tighter race before Labor Day. It puts Democrats' likely range at 221 to 263 House seats against Republicans' 172 to 214, a 90-95% probability of a Democratic majority. Republicans hold the House 218-212 with four vacancies, meaning Democrats need to flip only four net seats. History is already stacked against the incumbent party only 3 of the last 41 midterm elections have seen the president's party gain seats. Daily Kos reported polling this month showing GOP candidates barely ahead in districts Trump carried by double digits in 2024. Yemen might be a sideshow that looks louder than it is, because the Houthis have no real desire to draw Washington into this fight and aren't fully controlled by Iran or necessarily aligned with its broader agenda. The attacks on Saudi Arabia may be exaggerated, muddled by claims that go unconfirmed and denials that go unanswered. But for the Trump administration, it's a mess that keeps compounding, one that Americans, and the rest of the world, are footing the bill for in more ways than one. By Charles Kennedy for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T00:00:00.000Z",
+            "url": "https://oilprice.com/Geopolitics/Middle-East/What-Yemen-Really-Means-to-the-US-Iran-War.html"
+          }
+        ]
+      },
+      {
+        "id": "story-etically-reliant-on-food-9a0a92e62ddc24ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon has become pathetically reliant on food stamps to power its empire — “These are families that are really barely able to make ends meet, and yet they are working, and they are working a lot.”",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:37:54.000Z",
+        "pubTime": "2026-09-18 05:37",
+        "url": "https://www.reddit.com/r/technology/comments/1wj75jm/amazon_has_become_pathetically_reliant_on_food/",
+        "imageUrl": "https://external-preview.redd.it/IybuTdvx-NJD14jTN6-VUqsUzvWvG_7URecYz9tI0qI.jpeg?width=640&crop=smart&auto=webp&s=ea995be0c54915e2abf48e298a3278b177a3a016",
+        "fullContent": "submitted by /u/marketrent [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-18 05:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wj75jm/amazon_has_become_pathetically_reliant_on_food/",
+            "publishedAt": "2026-09-17T21:37:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-st-glacier-loss-day-html-46a37165bac9daaf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Europe's earliest glacier loss day in years signals a reckoning for the Alps",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:20:02.000Z",
+        "pubTime": "2026-09-18 08:20",
+        "url": "https://phys.org/news/2026-09-europe-earliest-glacier-loss-day.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/europes-earliest-glaci.jpg",
+        "fullContent": "On June 29, 2026, the snow accumulated by Switzerland's glaciers over the course of the previous winter had melted. Known as Glacier Loss Day, this date marks the point at which further melting begins to erode the glaciers' mass until snow accumulation resumes in the fall. Matthias Huss, the network head of Glacier Monitoring in Switzerland (GLAMOS), told Agence France-Presse (AFP) that this year's Glacier Loss Day was \"three months too early, compared to a healthy state.\"",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 08:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-europe-earliest-glacier-loss-day.html",
+            "publishedAt": "2026-09-18T00:20:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-8-vybory-2118364799-html-f674ffacedae8fe2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Губернатор Забайкалья проголосовал на выборах в Госдуму",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T00:26:59.000Z",
+        "pubTime": "2026-09-18 08:26",
+        "url": "https://ria.ru/20260918/vybory-2118364799.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/09/08/1971423018_0:0:3117:1753_650x0_80_0_0_d19ada056c778502f622b47a0386571e.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 08:26 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/vybory-2118364799.html",
+            "publishedAt": "2026-09-18T00:26:59.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-all-modular-ai-factories-8981793a8aaf98b7",
+        "title": "Crusoe融资39亿美元用于建设大型数据中心及小型模块化“AI工厂”",
+        "originalTitle": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T23:25:52.000Z",
+        "pubTime": "2026-09-18 07:25",
+        "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+        "imageUrl": null,
+        "fullContent": "Data center developer Crusoe said Thursday it raised $3.9 billion in a Series F round that pushes its valuation to $30.9 billion. The massive round was co-led by Atreides Management, Mubadala Capital, and Valor Equity Partners. Founders Fund, GIC, Nvidia, Qatar Investment Authority (QIA), Radical Ventures, and TPG also participated, according to Crusoe.\n\nCrusoe also announced three new board members, including Cloudflare CFO Thomas Seifert, Bill Stein, partner and CIO at Primary Digital Infrastructure, and Redwood Materials founder and CEO JB Straubel, who also sits on Tesla’s board. Straubel already has ties to Crusoe; he personally invested in the company in 2021, and Crusoe later became the first customer of Redwood’s energy storage business.\n\nThe eight-year-old company’s fresh capital infusion will help finance existing data center projects, including a large site in Abilene, Texas, used by OpenAI, as well as smaller, modular AI factories that can be transported by truck and connected to large power sources almost anywhere.\n\nBy manufacturing these modular data centers, called Spark, at its own facilities, Crusoe can deploy compute capacity quickly and without the need for large construction workforces. The smaller centers could also help Crusoe sidestep, at least in part, another major obstacle facing data center developers: backlash from local communities protesting massive complexes near their neighborhoods.\n\nCrusoe co-founder and CEO, who is pictured above, said in a statement he believes AI will usher in an era of abundance, but to get there will mean “controlling the infrastructure from electrons to tokens, and we’re grateful to have investors who share that conviction.”\n\nThe company makes money by leasing data center space to customers that bring their own GPUs, by renting out its own GPUs, and by selling compute power used to run AI models, known as inference.\n\nThis three-pronged business model has helped make Crusoe one of the most valuable AI infrastructure companies. Crusoe recently signed a massive $13 billion, five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported.\n\nThe company recently met with investment bankers, including Goldman Sachs and Morgan Stanley, to discuss a potential IPO in the near future, Axios reported last month.\n\nThe fresh fundraise comes 10 months after Crusoe raised $1.38 billion at a $10 billion valuation last October.\n\nThe company was founded in 2018 as a crypto mining operation powered by flared natural gas, but pivoted to AI infrastructure as demand for computing power skyrocketed. Crusoe’s customers include Meta, Microsoft, and Oracle.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\n\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nThe AI graveyard: a running list of projects and startups that didn’t make it\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "数据中心开发商Crusoe周四表示，公司已在F轮融资中筹集39亿美元，使其估值推高至309亿美元。据Crusoe称，本轮大规模融资由Atreides Management、穆巴达拉资本（Mubadala Capital）和Valor Equity Partners联合领投。Founders Fund、新加坡政府投资公司（GIC）、英伟达（Nvidia）、卡塔尔投资局（QIA）、Radical Ventures以及TPG也参与了投资。\n\nCrusoe还宣布了三位新董事会成员，包括Cloudflare首席财务官托马斯·塞弗特（Thomas Seifert）、Primary Digital Infrastructure合伙人兼首席投资官比尔·斯坦（Bill Stein），以及Redwood Materials创始人兼首席执行官、同时兼任特斯拉董事会成员的JB·斯特劳贝尔（JB Straubel）。斯特劳贝尔此前已与Crusoe有所渊源；他曾于2021年对该公司进行了个人投资，随后Crusoe成为了Redwood储能业务的首位客户。\n\n这家拥有八年历史的公司获得的新注资将用于支持现有的数据中心项目，包括位于德克萨斯州阿比林（Abilene）、供OpenAI使用的大型设施，以及可通过卡车运输并在几乎任何地方接入大型电源的小型模块化AI工厂。\n\n通过在其自有工厂中制造这些名为“Spark”的模块化数据中心，Crusoe能够快速部署算力，且无需庞大的施工队伍。这些较小的数据中心还能在一定程度上帮助Crusoe规避数据中心开发商所面临的另一大障碍：当地社区对社区附近建设大型设施的抗议与反对。\n\nCrusoe联合创始人兼首席执行官（上图所示）在一份声明中表示，他相信人工智能将开启一个丰裕时代，但要实现这一目标，意味着需要“掌控从电子到Token的整个基础设施，我们非常感谢拥有秉持同样信念的投资者。”\n\n公司的盈利模式包括：向自带GPU的客户出租数据中心空间、对外出租自有GPU，以及出售用于运行AI模型（即推理）的计算能力。\n\n这种“三管齐下”的商业模式帮助Crusoe成为了最具价值的人工智能基础设施公司之一。据彭博社报道，Crusoe最近签署了一项价值高达130亿美元、为期五年的巨额云服务合同，为量化交易公司简街资本（Jane Street）提供GPU和AI基础设施。\n\n据Axios上个月报道，该公司最近与包括高盛（Goldman Sachs）和摩根士丹利（Morgan Stanley）在内的投资银行进行了会面，探讨了在不久的将来进行首次公开募股（IPO）的可能性。\n\n本轮新融资是在去年10月Crusoe以100亿美元估值筹集13.8亿美元仅10个月后完成的。\n\n该公司成立于2018年，最初是一家利用油气伴生气（火炬气）发电的加密货币挖矿运营公司，但随着计算能力需求的激增，公司转型投身于AI基础设施。Crusoe的客户包括Meta、微软（Microsoft）和甲骨文（Oracle）。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nMarina Temkin是TechCrunch的风险投资与初创企业条线记者。在加入TechCrunch之前，她曾为PitchBook和《风险投资杂志》（Venture Capital Journal）撰写风险投资报道。在其职业生涯早期，Marina曾是一名金融分析师，并获得了特许金融分析师（CFA）资格证书。\n\n您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或通过Signal加密消息发送至 +1 347-683-3909 来联系Marina或核实其发出的联络信息。\n\n展位预订截止日期为9月18日。不要错过在Disrupt展厅获取高价值潜在客户、对接投资者以及提升品牌曝光度的良机。\n\n清洁科技初创公司Fluxnium找到了开发足够使用5万年的核燃料的方法\n\nAI公墓：未能生存下来的项目与初创公司动态名录\n\nSalesforce与英伟达的新推理模型正是所有AI实验室应当警惕的\n\n黄仁勋接到了特朗普的电话，并展示了另一件东西\n\n风险投资人评选出的Y Combinator最新Demo Day上最受瞩目的9家初创企业\n\n特斯拉表示终于将在10月1日揭晓第二代Roadster跑车\n\nRevolut证实因虚假政府请求导致客户数据遭泄露",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "来源叙事重点：将Crusoe塑造为快速扩张的AI基础设施公司，重点突出39亿美元融资、309亿美元估值、模块化“AI工厂”Spark的部署效率、主要客户与商业模式，并将模块化数据中心叙述为应对建设周期、劳动力和社区反对等障碍的方案。文中关于“AI带来丰裕时代”及“从电子到代币控制基础设施”属于公司管理层的愿景和叙事，不应视为已验证事实。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T23:25:52.000Z",
+            "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+          }
+        ]
+      },
+      {
+        "id": "story--global-fuel-crunch-html-12cb06ecf47353b5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T23:00:00.000Z",
+        "pubTime": "2026-09-18 07:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Could-Deepen-the-Global-Fuel-Crunch.html",
+        "imageUrl": null,
+        "fullContent": "The temporary closure of the key onshore pipeline Saudi Arabia uses to bypass the Strait of Hormuz has added another shock to an oil market already struggling with six months of Middle East supply disruptions. And the damage now appears to be more extensive than initially believed. Three pumping stations along Saudi Arabia's East-West pipeline were damaged in last week's attack, Reuters reported on Thursday, citing satellite imagery and industry sources. Earlier assessments had identified damage at two stations. Three sources told Reuters that repairs could take five to six weeks, although partial pumping could resume sooner. Before the attack, the system was moving between 4 million and 5 million barrels per day bpd, equivalent to roughly 4%5% of global oil supply. Its total capacity is around 7 million bpd, including approximately 2 million bpd supplied to refineries. SAUDI ARABIA Emergency bypass work underway on EastWest PipelineNew Vantor satellite imagery from September 16 appears to show Saudi crews rapidly constructing a temporary bypass around one of the pumping stations damaged in last week's attack.Workers can reportedly be pic.twitter.com/U8wSUHntMx MizarVision MizarVision September 17, 2026 Saudi Arabia shut the pipeline following multiple attacks on September 10. Satellite imagery previously published by MizarVision showed extensive fire and structural damage around pumping stations along the route. Saudi Arabia Races to Restore Pipeline Flows The revised damage assessment comes as Saudi Aramco races to restore at least part of the pipeline's capacity. Aramco is seeking to bring roughly half of the route's capacity back online within days, according to Bloomberg, potentially by bypassing damaged infrastructure. Full operations could take around six weeks to restore. That broadly corresponds with the latest Reuters assessment that repairs could take five to six weeks, although some pumping could resume while work continues. Related America Is Paying a Lot for Fuel, Not Running Out of Gasoline Even a partial restart would provide some relief to an increasingly strained physical oil market. With the East-West pipeline shut down, Brent crude surged to around $108 per barrel earlier this week as traders confronted the loss of the biggest Middle Eastern oil export route that does not involve Hormuz. Saudi Arabia has relied heavily on the pipeline since the war began, moving roughly 4 million to 5 million bpd through the system during the past six months. Meanwhile, crude inventories at Yanbu offer only a limited buffer. Stocks at the Red Sea hub have fallen by nearly 6 million barrels over the past two months, from around 21 million barrels in July to below 15 million barrels, according to Kpler. \"At 3.5 million bpd, 15 million barrels represents little more than four days of theoretical supply,\" Kpler analysts Amena Bakr and Michelle Brouhard noted earlier this week. Not every barrel in storage is operationally available, meaning Saudi Arabia cannot simply maintain exports at previous levels until the tanks run dry. Saudi Arabia Turns Back to Hormuz Ironically, the pipeline outage is forcing Saudi Arabia to increase its reliance on the very waterway the East-West system was designed to bypass. Saudi Arabia has sold as many as 20 million barrels of crude on the spot market this week for loading this month and next, Bloomberg reported, with buyers expected to receive barrels through ship-to-ship transfers outside Hormuz. That allows buyers to avoid sending their own tankers deep into the Persian Gulf, but adds another layer of logistical complexity and cost. The pipeline shutdown has exposed a deeper weakness in the market's assumed supply optionality. In effect, the market has attempted to bypass one chokepoint only to discover new concentrations of vulnerability. Physical Oil Moves Into Scarcity Pricing The consequences are increasingly visible in physical crude and refined-product markets. \"Brent near USD 110 signals considerable stress, but arguably understates the severity of the current physical squeeze,\" Saxo Bank commodity strategist Ole Hansen said this week, pointing to Dated Brent above $130 and diesel above $200 as clearer indicators of immediate scarcity. Steep backwardation and exceptionally strong refining margins show that buyers are paying increasingly large premiums for barrels available immediately. The pressure is particularly severe in diesel. U.S. diesel prices have climbed to record highs despite the United States being a major net exporter of distillates, as shortages elsewhere pull American barrels into the global market and drive refining margins higher. Gasoline prices have also risen despite entering a period when seasonal demand would normally begin weakening. The resulting energy-price surge is feeding into inflation at precisely the wrong time. The Federal Reserve raised its benchmark interest rate this week for the first time since 2023 as policymakers responded to renewed inflationary pressure. For the oil market, meanwhile, the significance of the Saudi attack extends well beyond the immediate loss of pipeline capacity. The East-West system was supposed to provide redundancy when Hormuz became unreliable. Its shutdown demonstrates that pipelines, storage tanks and alternative export terminals provide flexibilitybut cannot eliminate geopolitical risk when the infrastructure itself becomes a target. And with three pumping stations now reported damaged, restoring one of the global oil market's most important safety valves may prove considerably more complicated than initially hoped. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Could-Deepen-the-Global-Fuel-Crunch.html"
+          }
+        ]
+      },
+      {
+        "id": "story-d-hard-coded-credentials-fb40b54821d28e66",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:21:18.000Z",
+        "pubTime": "2026-09-18 05:21",
+        "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+        "imageUrl": null,
+        "fullContent": "This morning, DDoSecrets published an exciting new dataset: Filesystem images of the partitions from an in-use Flock ALPR camera. 404 Media and Wired published a joint investigation into it. I downloaded the dataset and am now thoroughly nerd-sniped.\n\nHackers from a collective called stegan0gram collected the data. “Why just destroy [Flock cameras] when we can reverse engineer them and find the secrets of those spying on us?” one of the hackers told 404 Media and Wired in an interview. “We liberated hardware in the field, disarmed them, and proceeded with reverse engineering of the cameras and associated solar equipment.”\n\nBelow are a few of the secrets that I've found so far.\n\nFlock cameras run on a modified version of Android. The specific build that this Flock camera was running at the point in time the firmware was extracted was from June 5, 2025.\n\nDespite being a relatively recent build, the Flock camera was running Android 8.1. This version of Android was released in 2017, and officially stopped getting support from Google in 2021 (see the Android end-of-life page for more info). And despite Google publishing security fixes for Android 8.1 until 2021, the Android patch level is 2018-06-05. This camera is missing Android security updates for the last eight years.\n\nAndroid runs on the Linux kernel. This Flock camera was running Linux 3.18.71, released in 2017. The 3.18 series was maintained until May 2019, ending at 3.18.140 — this camera is 69 releases short of even that. This kernel is over nine years out-of-date.\n\nHere are a few publicly-known vulnerabilities that this camera is probably vulnerable to, and that affect components that this camera ships with. I don't actually have this Flock camera to test these on and confirm that the hacks work, but what I do know is that this Flock camera's patch level predates all of these vulns, despite patches being available for many years.\n\nIn a statement to 404 Media and Wired, a Flock spokesperson said:\n\nIf you want to follow along, DDoSecrets published this dataset here.\n\nThe Android version and patch level are listed in multiple places, but the easiest place to find it is in the system partition. If you download partitions/24_system.img (1.5 GB) and extract it, you'll find a file, build.prop, which includes these lines:\n\nThe Linux version can be found in the boot partition. If you download partitions/21_boot.img (32 MB) and extract it, you'll find the kernel image in a file called kernel. You can find the Linux version with:\n\nBefore I go into detail here, I want to emphasize something real quick:\n\nIt's illegal to connect to Flock's servers using leaked credentials without their permission.\n\nThe Android firmware for this Flock camera includes 20 separate Flock apps, 19 of which all share a library called com.flocksafety.android.common.lib. If you decompile the library, there's an interesting method in the CameraSettings class:\n\nThis is an API key, hard-coded straight into the app. Flock runs a backend service at hpnotiq.flocksafety.com. When the camera needs new credentials, it makes an API request to hpnotiq that looks like this:\n\nNote that this specific Flock camera's MAC address is F4:6A:DD:57:46:FB.\n\nPresumably, you can use this hard-coded API key to obtain credentials for any Flock camera, based on its MAC address.\n\nThe API appears to respond with an Auth0 client ID and secret. Auth0 is an identity management company owned by Okta. The camera then stores those credentials in plaintext.\n\nBtw, those credentials, which might actually still be live and active (I'm honestly not sure because I didn't try them), are:\n\nThe API key is in the system partition. Download partitions/24_system.img (1.5 GB), extract it, and you'll find 19 Flock apps under app/: flock-sambuca, flock-collins, flock-phone-home, etc., each containing an APK. Decompile any one of them and look for CameraSettings in com.flocksafety.android.common.lib. The shared library is bundled into all 19 apps, so the key is in every one of them.\n\nThe Auth0 client ID and secret are on a different partition. Download partitions/27_persist.img (32 MB) and extract it. The file is at flock/auth0/auth0_cred. This is the camera's /persist partition, which is not encrypted and is designed to survive a factory reset.\n\nThe MAC address and the 2,264 calls to hpnotiq come from the camera's logs, in partitions/53_media.img (18 GB). Those sit inside an encrypted container, though the key to it is stored on the same partition in a file called expand_1fcdafef903c40cab3aff81bec914d01.key, lol. Once it's unlocked, the logs are gzipped tarballs under media/0/media/crashpack/.\n\nThe Flock camera's logs include camera location GPS coordinates 155 times, all within about 100 meters of each other, which I think is ordinary GPS jitter for a receiver that never moves. The coordinates that appear most often are 43.10151313, -88.05270186. If you search for that in Google Maps, you'll end up in a suburb just northwest of Milwaukee.\n\nI've never been to the Milwaukee area, but it looks like this Flock camera is in a city called Wauwatosa, on N Mayfair Rd, just off of Webster Park.\n\nUsing Google Street View, I walked around N Mayfair Rd looking for a Flock camera. It looks like the GPS is slightly off, and it's actually on the west side of the street, near a parking lot for the park.\n\nThere you are, Flock camera serial number 23091220026 with MAC address F4:6A:DD:57:46:FB!\n\nWho could have realized that this little camera, spending all its time spying on the innocent people driving by, would some day find its way into the hands of hackers from the stegan0gram collective?\n\nDownload partitions/53_media.img (18 GB), extract it, mount the (barely) encrypted filesystem, and then look at the logs in media/0/media/crashpack/. Extract one of the log files – any of them, it doesn't matter. Inside there, there are many logs with filenames like ciroc.2026-*.log. Grep those for Location and you'll see the GPS coordinates:\n\nWith luck, this reporting will encourage city councils everywhere to cancel their contracts with Flock and other ALPR vendors, and to stop giving the police more surveillance tools at the expense of everyone's privacy.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦Flock自动车牌识别摄像头的过时软件、潜在安全漏洞、硬编码凭据、未加密或弱保护的数据、日志中的地理位置，以及由此引发的监控与隐私风险。文章通过列出固件版本、分区文件、API密钥和日志路径来强化技术可验证性，同时使用“监视无辜者”等措辞，将技术缺陷置于反对扩大警察监控工具的立场中。文中关于部分漏洞“可能受影响”及凭据是否仍有效，作者明确表示未实际验证。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T21:21:18.000Z",
+            "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/"
+          }
+        ]
+      },
+      {
+        "id": "story-lls-reveal-nitrogen-html-9769f99211c7a900",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fossil plankton shells reveal reduced nitrogen fixation in warmer oceans 3 million years ago",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:00:05.000Z",
+        "pubTime": "2026-09-18 08:00",
+        "url": "https://phys.org/news/2026-09-fossil-plankton-shells-reveal-nitrogen.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/marine-microbial-nitro.jpg",
+        "fullContent": "Nitrogen is a key nutrient because it fuels the growth of plankton, which forms the basis of the marine food web. Two opposing processes determine the global nitrogen cycle: nitrogen fixation and denitrification.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 08:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-fossil-plankton-shells-reveal-nitrogen.html",
+            "publishedAt": "2026-09-18T00:00:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-8-vybory-2118364592-html-2d61f10f7f46c294",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Кандидат в генсеки ООН заявила о готовности помочь Киеву с выборами",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T00:22:53.000Z",
+        "pubTime": "2026-09-18 08:22",
+        "url": "https://ria.ru/20260918/vybory-2118364592.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 08:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/vybory-2118364592.html",
+            "publishedAt": "2026-09-18T00:22:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--to-widen-the-agi-debate-10eee90727fdae7e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Google DeepMind launches institute to widen the AGI debate",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T23:21:17.000Z",
+        "pubTime": "2026-09-18 07:21",
+        "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+        "imageUrl": null,
+        "fullContent": "Google and Google DeepMind researchers launched the DeepMind Institute on Wednesday to advance the conversation around artificial general intelligence. The institute lists DeepMind co-founder Shane Legg, Google executive James Manyika, and Google DeepMind chair Demis Hassabis as directors, with Legg serving as managing editor.\n\nThe new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. “They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier,” the announcement read.\n\nThe inaugural collection of four essays covers a range of topics: economic policies for managing potential AGI disruption, preserving human-readable model reasoning, principles for human flourishing, and a framework for evaluating frontier AI models.\n\nOne essay, by DeepMind safety researchers Rohin Shah and Anca Dragan, argues that AI’s shrinking window of transparency—the ability to see and check a model’s step-by-step reasoning — is not inevitable. As new architectures make the most powerful models harder to monitor, the authors say developers and regulators should confront the safety trade-offs directly. That could mean limiting “opaque serial depth”—the amount of sequential computation a model can perform without producing a readable reasoning trace—or requiring developers to demonstrate that less transparent systems remain just as monitorable.\n\nIn another essay, Hassabis proposes a U.S.-led frontier AI standards body to evaluate the most advanced AI models. Under his framework, developers would initially submit models voluntarily for review up to 30 days before release. Once the evaluation system has proved effective, passing its tests could become a requirement for deploying frontier models in the United States.\n\nThe body would at first design assessments in consultation with AI companies, but would eventually develop independent, undisclosed evaluations — what the essay calls “held-out” tests —to prevent labs from tailoring their models to known evaluations. Hassabis said the framework could be “ratcheted up if the seriousness of the situation demands,” potentially including a coordinated slowdown among frontier AI developers.\n\nThe essays arrive as the industry’s safety debate shifts from broad statements of concern toward concrete proposals for disclosure, outside scrutiny and, if safeguards fall behind, coordinated slowdowns. That shift accelerated this week as industry leaders endorsed elements of Anthropic CEO Dario Amodei’s call to “pace” frontier AI development.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nThe AI graveyard: a running list of projects and startups that didn’t make it\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将DeepMind Institute呈现为扩大AGI公共讨论、公开呈现内部及学界分歧的平台，并突出四项议题：AGI可能带来的经济政策挑战、模型推理过程的可读性与可监测性、人类福祉原则、前沿模型评估框架。报道尤其强调从笼统的AI安全担忧转向披露、外部审查、标准评估和必要时协调放缓等具体治理方案。上述重点反映报道组织方式，不等同于这些方案已获社会共识或证明有效。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T23:21:17.000Z",
+            "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+          }
+        ]
+      },
+      {
+        "id": "story-1-4083-ac34-00bbe67ef8db-ae8a36296aedf744",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI discloses new ‘concerning’ model behaviour",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:03:41.000Z",
+        "pubTime": "2026-09-18 06:03",
+        "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fca7c7d2b-13f1-41b6-aebf-da885a5c4bc0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Developer launches system to track and report AI model misconduct",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-18 06:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-17T22:03:41.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ai-scraping-the-largest-e8dd0e9b20e33b9c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T19:55:35.000Z",
+        "pubTime": "2026-09-18 03:55",
+        "url": "https://www.reddit.com/r/technology/comments/1wj4gkx/microsoft_exec_called_ai_scraping_the_largest/",
+        "imageUrl": "https://external-preview.redd.it/fSi_WWxJJAndk8kq6B3rqr3XctplsOFdCofjJZeKGQo.jpeg?width=640&crop=smart&auto=webp&s=ce8c53ad9911402891dea7be33fe99a5c54dcebb",
+        "fullContent": "submitted by /u/Conscious-Quarter423 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-18 03:55 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wj4gkx/microsoft_exec_called_ai_scraping_the_largest/",
+            "publishedAt": "2026-09-17T19:55:35.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-stody-in-central-nigeria-1d616cfc5edd5aea",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "37 suspected illegal miners die in custody in central Nigeria",
+        "source": "France 24 (EN 官方英语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:27:53.000Z",
+        "pubTime": "2026-09-18 08:27",
+        "url": "https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria",
+        "imageUrl": "https://s.france24.com/media/display/fd53c6ca-b2f4-11f1-8166-5570cf9529c5/w:1024/p:16x9/AP24346673836644.jpg",
+        "fullContent": "Nigerian authorities launched an investigation Thursday after 37 suspected illegal miners died in a civil defence detention facility in central Niger state, with conflicting accounts blaming either a disease outbreak or overcrowding and poor ventilation.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (EN 官方英语原版)】于 2026-09-18 08:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (EN 官方英语原版)",
+            "url": "https://www.france24.com/en/africa/20260918-37-suspected-illegal-miners-die-in-custody-in-central-nigeria",
+            "publishedAt": "2026-09-18T00:27:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-uper-hot-rock-geothermal-1e6796b12b2f8ea1",
+        "title": "获得科斯拉支持的 Mazama Energy 刚筹集1.35亿美元，拟向超高温岩石地热领域钻得更深",
+        "originalTitle": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:02:36.000Z",
+        "pubTime": "2026-09-18 08:02",
+        "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+        "imageUrl": null,
+        "fullContent": "The fresh funding will help the company develop horizontal wells in super-hot rocks capable of generating 15 megawatts of electricity per well.\n\nMazama plans to start generating electricity sometime next year and said its first site in Oregon is capable of producing 10 gigawatts of electricity. That’s a sharp upward revision from the company’s estimate last year, when investor Vinod Khosla said the site had the potential to produce 5 gigawatts.\n\nEnhanced geothermal startups are shaping up to be the dark horse in the battle to power AI data centers and other large loads on the grid. While tech companies and data center developers have been throwing their weight behind natural gas, geothermal startups have been quickly advancing their technology.\n\nUnlike previous geothermal projects, enhanced geothermal startups are targeting deeper and hotter rock. Mazama, for example, has drilled past 10,000 feet in 15 days on its way to about 15,000 feet deep. At those depths, the company can access 750˚ F (400˚ C) heat, which at high pressures turns water into a “supercritical” fluid that’s neither fully liquid nor fully gas — a state that lets it absorb far more energy than ordinary steam. Mazama said that will allow each well to produce up to 10 times more power than traditional geothermal technologies.\n\nGiven the depths Mazama is targeting, the potential payoff is significant. Tapping just 1% of super-hot rock worldwide could generate more than 63 terawatts of electricity, according to the University of Twente and the Clean Air Task Force.\n\nWhile work at its Oregon site is still in the early stages, the startup has already secured land for a second development. Mazama aims to complete development of the first site by 2030, at which point it says it should generate 200 megawatts of electricity.\n\nThe new round was led by Centaurus Capital and Doerr Capital, with participation from ConocoPhillips and Shell Ventures. Existing investors including Khosla Ventures and Gates Frontier returned, and new investors SiteGround Capital, H. Barton Asset Management, and the Jeffrey and Marieke Rothschild Foundation also joined the round.\n\nMazama was incubated at Khosla Ventures.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Climate\n\nTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.\n\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\n\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests\n\nMatt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+        "fullTranslation": "这笔新融资将帮助该公司在超高温岩石中开发水平井；每口井能够产生15兆瓦电力。\n\nMazama计划在明年某个时候开始发电，并表示其位于俄勒冈州的首个项目具备生产10吉瓦电力的能力。相比之下，这一数字较该公司去年的估计大幅上调。当时，投资者维诺德·科斯拉曾表示，该项目的潜力为5吉瓦。\n\n增强型地热初创公司正逐渐成为为人工智能数据中心及电网其他大型负荷供电之战中的“黑马”。科技公司和数据中心开发商一直在大力支持天然气，而地热初创公司则在快速推进相关技术。\n\n与以往的地热项目不同，增强型地热初创公司瞄准的是更深、更热的岩石。例如，Mazama在向约15,000英尺（约4,572米）深处钻进的过程中，仅用15天就钻过了10,000英尺（约3,048米）。在这一深度，公司能够获取750华氏度（400摄氏度）的热量；在高压下，这种热量会将水转化为一种“超临界”流体，既不是完全的液体，也不是完全的气体。这种状态使其能够吸收远多于普通蒸汽的能量。Mazama表示，这将使每口井的发电量最高达到传统地热技术的10倍。\n\n鉴于Mazama瞄准的深度，其潜在回报相当可观。根据特温特大学和清洁空气工作组的数据，只要利用全球超高温岩石资源的1%，就能产生超过63太瓦的电力。\n\n虽然其俄勒冈州项目仍处于早期阶段，但这家初创公司已经为第二个开发项目 확보了土地。Mazama的目标是在2030年前完成首个项目的开发；届时，公司表示该项目应能产生200兆瓦电力。\n\n新一轮融资由Centaurus Capital和Doerr Capital领投，ConocoPhillips和Shell Ventures参与。包括Khosla Ventures和Gates Frontier在内的现有投资者继续跟投；SiteGround Capital、H. Barton Asset Management以及杰弗里·罗斯柴尔德和玛丽克·罗斯柴尔德基金会等新投资者也加入了本轮融资。\n\nMazama由Khosla Ventures孵化。\n\n当您通过我们文章中的链接购买产品时，我们可能会获得一小笔佣金。但这不会影响我们的编辑独立性。\n\n气候事务高级记者\n\n蒂姆·德尚是TechCrunch的气候事务高级记者。他曾为包括《连线》杂志、《芝加哥论坛报》、Ars Technica、《中美印象》和NOVA Next在内的多家媒体撰稿，并曾担任NOVA Next的创刊编辑。\n\n德尚还是麻省理工学院科学写作研究生项目的讲师。2018年，他获得了麻省理工学院奈特科学新闻奖学金，并在此期间研究气候技术、探索新闻业的新商业模式。他拥有加州大学伯克利分校环境科学、政策与管理专业博士学位，以及圣奥拉夫学院环境研究、英语和生物学专业文学学士学位。\n\n如需联系蒂姆或核实其外联信息，可发送电子邮件至tim.dechant@techcrunch.com。\n\n预订展位的最后一天是9月18日。不要错过Disrupt展览大厅中的高价值潜在客户、投资者接触机会以及品牌曝光机会。\n\n清洁技术初创公司Fluxnium找到了利用可供使用50,000年的核燃料的方法\n\nSalesforce和英伟达的新推理模型正是人工智能实验室应该担心的一切\n\n詹森·黄接到了特朗普的电话，还展示了另一件东西\n\n据风投人士介绍，Y Combinator最近一次Demo Day上最受关注的9家初创公司\n\n特斯拉称终于将在10月1日发布第二代Roadster\n\nRevolut确认，客户数据通过伪造政府请求遭到泄露\n\n马特·穆伦维格告诉（在“挑衅者”？）Automattic员工，称自己在首席执行官被罢免后重新掌控了公司",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "地热初创公司 Mazama Energy 完成了 1.35 亿美元融资，用于深化超干热岩地热能开发。",
+          "本轮融资由 Centaurus Capital 和 Doerr Capital 领投，ConocoPhillips、Shell Ventures、SiteGround Capital、H. Barton Asset Management、Jeffrey and Marieke Rothschild Foundation 参投，老股东 Khosla Ventures 和 Gates Frontier 跟投。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T00:02:36.000Z",
+            "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/"
+          }
+        ]
+      },
+      {
+        "id": "story--to-the-us-iran-war-html-62afff4b282269c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What Yemen Really Means to the U.S.-Iran War",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:00:00.000Z",
+        "pubTime": "2026-09-18 08:00",
+        "url": "https://oilprice.com/Geopolitics/Middle-East/What-Yemen-Really-Means-to-the-US-Iran-War.html",
+        "imageUrl": null,
+        "fullContent": "Yemen's Houthis aren't fighting Iran's war, which complicates things further. They're running their own war and letting Iran's war pay for it. Their September 8 demands are the same ones they've held since rejecting a 2023 UN roadmap that would have paid Houthi salaries and given them a share of Yemen's oil and gas revenue. That roadmap called for an end to Saudi military operations in Yemen, the removal of restrictions on Houthi-controlled ports and airports, back pay for officials, and war reparations. The one operation Iran is confirmed to be directing is the offensive against Mocha and the Hanish Islands, providing arms and guidance, and overseen by IRGC Quds Force commander Abdolreza Shahlai, gives the Houthis what they have wanted forever control of the coast. The relationship between Iran and the Houthis is such that the Houthis alone will determine how involved they will be in assisting Iran with its own objectives. Last weekend, US officials met Houthi representatives at the American embassy in Muscat, arranged by Oman, days after the group seized Yemen's Red Sea coastline. The Houthi delegation reportedly told American officials they don't intend to attack US vessels and remain committed to the ceasefire deal reached with Washington in May 2025. There were also reports that the Houthis pledged not to target Israeli or other commercial ships, sparing everyone except Saudi vessels even though all of this was originally tied to Gaza. In other words, the Houthis are telling Washington, in writing, that everyone gets a pass except Saudi Arabia. This is a bilateral war with Riyadh that the Houthis are actively insulating from becoming anything broader. Because of that, we might be tempted to think that there is a clean way out of at least the Red Sea blockade in the form of concessions to the Houthis. However, we see some high-level challenges here, as well. The 2023 Houthi demands are still negotiable, and the Saudis agreed to something close to those at the time. But this war has taken on a life of its own, and this is no longer 2023. In 2026, Bab el-Mandeb is now a different kind of asset. There is intelligence floating around that the IRGC is directing the design of a Houthi-enforced toll system for Bab el-Mandeb, mirroring Iran's for Hormuz, a claim the Houthis themselves have denied. That means the Saudis have lost some leverage here. How Much Damage Have the Houthis Really Done On September 8, Houthi missiles and drones hit oil facilities and utilities across four southern Saudi cities Abha, Khamis Mushait, Jazan, and Najran, igniting fires, wounding 73 people, and forcing a temporary halt to operations at some sites. The Saudi Energy Ministry confirmed the fires and the shutdown. That attack came hours after a Saudi coalition strike on the Sanaa airport runway blocked a Houthi-arranged flight from Tehran, and after an earlier Saudi strike killed civilians at a Jawf prison. Everything after September 8 is on weaker ground. The East-West pipeline damage on September 10-11 the strike that actually moved oil markets came from drones launched out of Iraq by an Iran-backed militia, not the Houthis. The Mecca drone on September 16 drove most of this week's coverage, with the Saudis intercepting the drone before it entered restricted airspace over the holy city. The Houthis deny targeting Mecca at all, and Iran has suggested the incident could be a false flag. No independent evidence has surfaced supporting either the Saudi account or the false-flag claim. Either way, it caused no damage. Separate claims of a strike on Yanbu's export terminal and a second strike on the Khamis Mushait airbase are claimed by Houthis, but there is nothing to substantiate it. Saudi Arabia has confirmed neither. Related Saudi Pipeline Outage Could Deepen the Global Fuel Crunch The Houthis don't have the range or precision to hit Abqaiq themselves. Their weapons reach western and southwestern Saudi Arabia, not the Eastern Province, which is over 1,000 kilometers away. The only strike that ever reached that far, in 2019, was long-range, precision-guided, and ultimately Iran's own weapon, not the Houthis'. Hitting Abqaiq today would need that same Iranian-grade system, and using one would end the fiction that this is a Houthi-Saudi war rather than an Iranian one. The Houthis are not looking to invite the US into a fight it has so far stayed out of. They have their own agenda. The Situation on the Ground in Yemen On the ground in Yemen, the Houthi restraint so far has paid off. They've taken Mocha, Perim Island, and the Bab al-Mandeb approaches without pulling the US into the war. In the capital, Sanaa, the Houthi administration is in control. While there is some burgeoning unrest among populations under their control due to fuel prices, the public has no real voice at the moment and is not much of a threat for the time being. The Houthis are actually running a currency more stable than the internationally recognized government's, not because their economy is healthier, but because they control the exchange mechanism directly. So, the war is popular where it's winning territory and unpopular at the gas pump, but they maintain an authoritarian grip that lets them fight a contained, deniable war against Saudi Arabia. And in the meantime, the Yemeni government has lost the coast. The unit that lost Mocha to the Houthis was forced to retreat and is now regrouping in Marib, but morale is at an all-time low. Nearly 1,800 families were displaced in the first 48 hours of the fight for Mocha, and that fighting has since spread to four more provinces. The UAE-backed Southern Transitional Council STC, a separatist force in southern Yemen, fought the Saudi-backed government for control of the south for years. In January, government and Saudi forces retook Aden, and the STC dissolved itself. There was some internal politics that led to that decision, but the STC is now back, and stepping into the chaos. For starters, STC forces besieged Saudi Arabia's defense minister during tensions in al-Dhalea. But not every southern faction is moving against the government Southern Resistance leader Wajdi al-Nakhai called on cells in Aden to integrate temporarily with government forces, specifically because a Houthi offensive was expected. There have also been claims of other STC forces blocking retreating government troops from entering Aden and Lahij after Mocha fell, but we cannot independently confirm that. The point is, this can't be neatly packaged and adds another variable to the explosive mix in Yemen. Prices at the Pump are Prices at the Pump No one is planning to save Americans from surging prices at the pump. Gas rose from $4.31 to $4.43 nationally in four days this week, according to AAA, and diesel rose 42 cents. In Charleston, South Carolina, the average jumped 15 cents overnight to $4.08; the statewide average hit $4.11 Thursday, up from $4.05 Wednesday. This traces straight back to supply Saudi Arabia exported just 3.2 million barrels a day last month, per Kpler data, its lowest level in more than a decade, because both of its normal routes are compromised, making it necessary to sail crude through Suez to the Mediterranean, or fully around Africa via the Cape of Good Hope to reach Asian buyers instead. House Speaker Mike Johnson pulled a vote on suspending the federal gas tax this week, citing disagreement among his own members rather than Democratic opposition. South Carolina's Republican governor, Henry McMaster, made the same call at the state level, suggesting he didn't think we'd reach emergency levels quite yet. Trump told a rally crowd on Wednesday that high prices at the pump were a small price to pay for the war against Iran. Frighteningly, JPMorgan commodities strategist Natasha Kaneva told clients Thursday that \"for the first time since the start of the Iran conflict, we don't have a baseline view\" and \"we simply don't know how to model the endgame.\" Where does this wild uncertainty leave midterm elections The generic ballot average sits at Democrats 8.3 as of September 13, per Polling USA's model, up from a tighter race before Labor Day. It puts Democrats' likely range at 221 to 263 House seats against Republicans' 172 to 214, a 90-95% probability of a Democratic majority. Republicans hold the House 218-212 with four vacancies, meaning Democrats need to flip only four net seats. History is already stacked against the incumbent party only 3 of the last 41 midterm elections have seen the president's party gain seats. Daily Kos reported polling this month showing GOP candidates barely ahead in districts Trump carried by double digits in 2024. Yemen might be a sideshow that looks louder than it is, because the Houthis have no real desire to draw Washington into this fight and aren't fully controlled by Iran or necessarily aligned with its broader agenda. The attacks on Saudi Arabia may be exaggerated, muddled by claims that go unconfirmed and denials that go unanswered. But for the Trump administration, it's a mess that keeps compounding, one that Americans, and the rest of the world, are footing the bill for in more ways than one. By Charles Kennedy for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T00:00:00.000Z",
+            "url": "https://oilprice.com/Geopolitics/Middle-East/What-Yemen-Really-Means-to-the-US-Iran-War.html"
+          }
+        ]
+      },
+      {
+        "id": "story-etically-reliant-on-food-9a0a92e62ddc24ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amazon has become pathetically reliant on food stamps to power its empire — “These are families that are really barely able to make ends meet, and yet they are working, and they are working a lot.”",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:37:54.000Z",
+        "pubTime": "2026-09-18 05:37",
+        "url": "https://www.reddit.com/r/technology/comments/1wj75jm/amazon_has_become_pathetically_reliant_on_food/",
+        "imageUrl": "https://external-preview.redd.it/IybuTdvx-NJD14jTN6-VUqsUzvWvG_7URecYz9tI0qI.jpeg?width=640&crop=smart&auto=webp&s=ea995be0c54915e2abf48e298a3278b177a3a016",
+        "fullContent": "submitted by /u/marketrent [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-18 05:37 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wj75jm/amazon_has_become_pathetically_reliant_on_food/",
+            "publishedAt": "2026-09-17T21:37:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-st-glacier-loss-day-html-46a37165bac9daaf",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Europe's earliest glacier loss day in years signals a reckoning for the Alps",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:20:02.000Z",
+        "pubTime": "2026-09-18 08:20",
+        "url": "https://phys.org/news/2026-09-europe-earliest-glacier-loss-day.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/europes-earliest-glaci.jpg",
+        "fullContent": "On June 29, 2026, the snow accumulated by Switzerland's glaciers over the course of the previous winter had melted. Known as Glacier Loss Day, this date marks the point at which further melting begins to erode the glaciers' mass until snow accumulation resumes in the fall. Matthias Huss, the network head of Glacier Monitoring in Switzerland (GLAMOS), told Agence France-Presse (AFP) that this year's Glacier Loss Day was \"three months too early, compared to a healthy state.\"",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 08:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-europe-earliest-glacier-loss-day.html",
+            "publishedAt": "2026-09-18T00:20:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-8-vybory-2118364799-html-f674ffacedae8fe2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Губернатор Забайкалья проголосовал на выборах в Госдуму",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T00:26:59.000Z",
+        "pubTime": "2026-09-18 08:26",
+        "url": "https://ria.ru/20260918/vybory-2118364799.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/09/08/1971423018_0:0:3117:1753_650x0_80_0_0_d19ada056c778502f622b47a0386571e.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 08:26 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/vybory-2118364799.html",
+            "publishedAt": "2026-09-18T00:26:59.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-all-modular-ai-factories-8981793a8aaf98b7",
+        "title": "Crusoe融资39亿美元用于建设大型数据中心及小型模块化“AI工厂”",
+        "originalTitle": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T23:25:52.000Z",
+        "pubTime": "2026-09-18 07:25",
+        "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+        "imageUrl": null,
+        "fullContent": "Data center developer Crusoe said Thursday it raised $3.9 billion in a Series F round that pushes its valuation to $30.9 billion. The massive round was co-led by Atreides Management, Mubadala Capital, and Valor Equity Partners. Founders Fund, GIC, Nvidia, Qatar Investment Authority (QIA), Radical Ventures, and TPG also participated, according to Crusoe.\n\nCrusoe also announced three new board members, including Cloudflare CFO Thomas Seifert, Bill Stein, partner and CIO at Primary Digital Infrastructure, and Redwood Materials founder and CEO JB Straubel, who also sits on Tesla’s board. Straubel already has ties to Crusoe; he personally invested in the company in 2021, and Crusoe later became the first customer of Redwood’s energy storage business.\n\nThe eight-year-old company’s fresh capital infusion will help finance existing data center projects, including a large site in Abilene, Texas, used by OpenAI, as well as smaller, modular AI factories that can be transported by truck and connected to large power sources almost anywhere.\n\nBy manufacturing these modular data centers, called Spark, at its own facilities, Crusoe can deploy compute capacity quickly and without the need for large construction workforces. The smaller centers could also help Crusoe sidestep, at least in part, another major obstacle facing data center developers: backlash from local communities protesting massive complexes near their neighborhoods.\n\nCrusoe co-founder and CEO, who is pictured above, said in a statement he believes AI will usher in an era of abundance, but to get there will mean “controlling the infrastructure from electrons to tokens, and we’re grateful to have investors who share that conviction.”\n\nThe company makes money by leasing data center space to customers that bring their own GPUs, by renting out its own GPUs, and by selling compute power used to run AI models, known as inference.\n\nThis three-pronged business model has helped make Crusoe one of the most valuable AI infrastructure companies. Crusoe recently signed a massive $13 billion, five-year cloud contract to supply quantitative trading firm Jane Street with GPUs and AI infrastructure, Bloomberg reported.\n\nThe company recently met with investment bankers, including Goldman Sachs and Morgan Stanley, to discuss a potential IPO in the near future, Axios reported last month.\n\nThe fresh fundraise comes 10 months after Crusoe raised $1.38 billion at a $10 billion valuation last October.\n\nThe company was founded in 2018 as a crypto mining operation powered by flared natural gas, but pivoted to AI infrastructure as demand for computing power skyrocketed. Crusoe’s customers include Meta, Microsoft, and Oracle.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\n\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nThe AI graveyard: a running list of projects and startups that didn’t make it\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "数据中心开发商Crusoe周四表示，公司已在F轮融资中筹集39亿美元，使其估值推高至309亿美元。据Crusoe称，本轮大规模融资由Atreides Management、穆巴达拉资本（Mubadala Capital）和Valor Equity Partners联合领投。Founders Fund、新加坡政府投资公司（GIC）、英伟达（Nvidia）、卡塔尔投资局（QIA）、Radical Ventures以及TPG也参与了投资。\n\nCrusoe还宣布了三位新董事会成员，包括Cloudflare首席财务官托马斯·塞弗特（Thomas Seifert）、Primary Digital Infrastructure合伙人兼首席投资官比尔·斯坦（Bill Stein），以及Redwood Materials创始人兼首席执行官、同时兼任特斯拉董事会成员的JB·斯特劳贝尔（JB Straubel）。斯特劳贝尔此前已与Crusoe有所渊源；他曾于2021年对该公司进行了个人投资，随后Crusoe成为了Redwood储能业务的首位客户。\n\n这家拥有八年历史的公司获得的新注资将用于支持现有的数据中心项目，包括位于德克萨斯州阿比林（Abilene）、供OpenAI使用的大型设施，以及可通过卡车运输并在几乎任何地方接入大型电源的小型模块化AI工厂。\n\n通过在其自有工厂中制造这些名为“Spark”的模块化数据中心，Crusoe能够快速部署算力，且无需庞大的施工队伍。这些较小的数据中心还能在一定程度上帮助Crusoe规避数据中心开发商所面临的另一大障碍：当地社区对社区附近建设大型设施的抗议与反对。\n\nCrusoe联合创始人兼首席执行官（上图所示）在一份声明中表示，他相信人工智能将开启一个丰裕时代，但要实现这一目标，意味着需要“掌控从电子到Token的整个基础设施，我们非常感谢拥有秉持同样信念的投资者。”\n\n公司的盈利模式包括：向自带GPU的客户出租数据中心空间、对外出租自有GPU，以及出售用于运行AI模型（即推理）的计算能力。\n\n这种“三管齐下”的商业模式帮助Crusoe成为了最具价值的人工智能基础设施公司之一。据彭博社报道，Crusoe最近签署了一项价值高达130亿美元、为期五年的巨额云服务合同，为量化交易公司简街资本（Jane Street）提供GPU和AI基础设施。\n\n据Axios上个月报道，该公司最近与包括高盛（Goldman Sachs）和摩根士丹利（Morgan Stanley）在内的投资银行进行了会面，探讨了在不久的将来进行首次公开募股（IPO）的可能性。\n\n本轮新融资是在去年10月Crusoe以100亿美元估值筹集13.8亿美元仅10个月后完成的。\n\n该公司成立于2018年，最初是一家利用油气伴生气（火炬气）发电的加密货币挖矿运营公司，但随着计算能力需求的激增，公司转型投身于AI基础设施。Crusoe的客户包括Meta、微软（Microsoft）和甲骨文（Oracle）。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nMarina Temkin是TechCrunch的风险投资与初创企业条线记者。在加入TechCrunch之前，她曾为PitchBook和《风险投资杂志》（Venture Capital Journal）撰写风险投资报道。在其职业生涯早期，Marina曾是一名金融分析师，并获得了特许金融分析师（CFA）资格证书。\n\n您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或通过Signal加密消息发送至 +1 347-683-3909 来联系Marina或核实其发出的联络信息。\n\n展位预订截止日期为9月18日。不要错过在Disrupt展厅获取高价值潜在客户、对接投资者以及提升品牌曝光度的良机。\n\n清洁科技初创公司Fluxnium找到了开发足够使用5万年的核燃料的方法\n\nAI公墓：未能生存下来的项目与初创公司动态名录\n\nSalesforce与英伟达的新推理模型正是所有AI实验室应当警惕的\n\n黄仁勋接到了特朗普的电话，并展示了另一件东西\n\n风险投资人评选出的Y Combinator最新Demo Day上最受瞩目的9家初创企业\n\n特斯拉表示终于将在10月1日揭晓第二代Roadster跑车\n\nRevolut证实因虚假政府请求导致客户数据遭泄露",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "来源叙事重点：将Crusoe塑造为快速扩张的AI基础设施公司，重点突出39亿美元融资、309亿美元估值、模块化“AI工厂”Spark的部署效率、主要客户与商业模式，并将模块化数据中心叙述为应对建设周期、劳动力和社区反对等障碍的方案。文中关于“AI带来丰裕时代”及“从电子到代币控制基础设施”属于公司管理层的愿景和叙事，不应视为已验证事实。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T23:25:52.000Z",
+            "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+          }
+        ]
+      },
+      {
+        "id": "story--global-fuel-crunch-html-12cb06ecf47353b5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T23:00:00.000Z",
+        "pubTime": "2026-09-18 07:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Could-Deepen-the-Global-Fuel-Crunch.html",
+        "imageUrl": null,
+        "fullContent": "The temporary closure of the key onshore pipeline Saudi Arabia uses to bypass the Strait of Hormuz has added another shock to an oil market already struggling with six months of Middle East supply disruptions. And the damage now appears to be more extensive than initially believed. Three pumping stations along Saudi Arabia's East-West pipeline were damaged in last week's attack, Reuters reported on Thursday, citing satellite imagery and industry sources. Earlier assessments had identified damage at two stations. Three sources told Reuters that repairs could take five to six weeks, although partial pumping could resume sooner. Before the attack, the system was moving between 4 million and 5 million barrels per day bpd, equivalent to roughly 4%5% of global oil supply. Its total capacity is around 7 million bpd, including approximately 2 million bpd supplied to refineries. SAUDI ARABIA Emergency bypass work underway on EastWest PipelineNew Vantor satellite imagery from September 16 appears to show Saudi crews rapidly constructing a temporary bypass around one of the pumping stations damaged in last week's attack.Workers can reportedly be pic.twitter.com/U8wSUHntMx MizarVision MizarVision September 17, 2026 Saudi Arabia shut the pipeline following multiple attacks on September 10. Satellite imagery previously published by MizarVision showed extensive fire and structural damage around pumping stations along the route. Saudi Arabia Races to Restore Pipeline Flows The revised damage assessment comes as Saudi Aramco races to restore at least part of the pipeline's capacity. Aramco is seeking to bring roughly half of the route's capacity back online within days, according to Bloomberg, potentially by bypassing damaged infrastructure. Full operations could take around six weeks to restore. That broadly corresponds with the latest Reuters assessment that repairs could take five to six weeks, although some pumping could resume while work continues. Related America Is Paying a Lot for Fuel, Not Running Out of Gasoline Even a partial restart would provide some relief to an increasingly strained physical oil market. With the East-West pipeline shut down, Brent crude surged to around $108 per barrel earlier this week as traders confronted the loss of the biggest Middle Eastern oil export route that does not involve Hormuz. Saudi Arabia has relied heavily on the pipeline since the war began, moving roughly 4 million to 5 million bpd through the system during the past six months. Meanwhile, crude inventories at Yanbu offer only a limited buffer. Stocks at the Red Sea hub have fallen by nearly 6 million barrels over the past two months, from around 21 million barrels in July to below 15 million barrels, according to Kpler. \"At 3.5 million bpd, 15 million barrels represents little more than four days of theoretical supply,\" Kpler analysts Amena Bakr and Michelle Brouhard noted earlier this week. Not every barrel in storage is operationally available, meaning Saudi Arabia cannot simply maintain exports at previous levels until the tanks run dry. Saudi Arabia Turns Back to Hormuz Ironically, the pipeline outage is forcing Saudi Arabia to increase its reliance on the very waterway the East-West system was designed to bypass. Saudi Arabia has sold as many as 20 million barrels of crude on the spot market this week for loading this month and next, Bloomberg reported, with buyers expected to receive barrels through ship-to-ship transfers outside Hormuz. That allows buyers to avoid sending their own tankers deep into the Persian Gulf, but adds another layer of logistical complexity and cost. The pipeline shutdown has exposed a deeper weakness in the market's assumed supply optionality. In effect, the market has attempted to bypass one chokepoint only to discover new concentrations of vulnerability. Physical Oil Moves Into Scarcity Pricing The consequences are increasingly visible in physical crude and refined-product markets. \"Brent near USD 110 signals considerable stress, but arguably understates the severity of the current physical squeeze,\" Saxo Bank commodity strategist Ole Hansen said this week, pointing to Dated Brent above $130 and diesel above $200 as clearer indicators of immediate scarcity. Steep backwardation and exceptionally strong refining margins show that buyers are paying increasingly large premiums for barrels available immediately. The pressure is particularly severe in diesel. U.S. diesel prices have climbed to record highs despite the United States being a major net exporter of distillates, as shortages elsewhere pull American barrels into the global market and drive refining margins higher. Gasoline prices have also risen despite entering a period when seasonal demand would normally begin weakening. The resulting energy-price surge is feeding into inflation at precisely the wrong time. The Federal Reserve raised its benchmark interest rate this week for the first time since 2023 as policymakers responded to renewed inflationary pressure. For the oil market, meanwhile, the significance of the Saudi attack extends well beyond the immediate loss of pipeline capacity. The East-West system was supposed to provide redundancy when Hormuz became unreliable. Its shutdown demonstrates that pipelines, storage tanks and alternative export terminals provide flexibilitybut cannot eliminate geopolitical risk when the infrastructure itself becomes a target. And with three pumping stations now reported damaged, restoring one of the global oil market's most important safety valves may prove considerably more complicated than initially hoped. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Could-Deepen-the-Global-Fuel-Crunch.html"
+          }
+        ]
+      },
+      {
+        "id": "story-d-hard-coded-credentials-fb40b54821d28e66",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T21:21:18.000Z",
+        "pubTime": "2026-09-18 05:21",
+        "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+        "imageUrl": null,
+        "fullContent": "This morning, DDoSecrets published an exciting new dataset: Filesystem images of the partitions from an in-use Flock ALPR camera. 404 Media and Wired published a joint investigation into it. I downloaded the dataset and am now thoroughly nerd-sniped.\n\nHackers from a collective called stegan0gram collected the data. “Why just destroy [Flock cameras] when we can reverse engineer them and find the secrets of those spying on us?” one of the hackers told 404 Media and Wired in an interview. “We liberated hardware in the field, disarmed them, and proceeded with reverse engineering of the cameras and associated solar equipment.”\n\nBelow are a few of the secrets that I've found so far.\n\nFlock cameras run on a modified version of Android. The specific build that this Flock camera was running at the point in time the firmware was extracted was from June 5, 2025.\n\nDespite being a relatively recent build, the Flock camera was running Android 8.1. This version of Android was released in 2017, and officially stopped getting support from Google in 2021 (see the Android end-of-life page for more info). And despite Google publishing security fixes for Android 8.1 until 2021, the Android patch level is 2018-06-05. This camera is missing Android security updates for the last eight years.\n\nAndroid runs on the Linux kernel. This Flock camera was running Linux 3.18.71, released in 2017. The 3.18 series was maintained until May 2019, ending at 3.18.140 — this camera is 69 releases short of even that. This kernel is over nine years out-of-date.\n\nHere are a few publicly-known vulnerabilities that this camera is probably vulnerable to, and that affect components that this camera ships with. I don't actually have this Flock camera to test these on and confirm that the hacks work, but what I do know is that this Flock camera's patch level predates all of these vulns, despite patches being available for many years.\n\nIn a statement to 404 Media and Wired, a Flock spokesperson said:\n\nIf you want to follow along, DDoSecrets published this dataset here.\n\nThe Android version and patch level are listed in multiple places, but the easiest place to find it is in the system partition. If you download partitions/24_system.img (1.5 GB) and extract it, you'll find a file, build.prop, which includes these lines:\n\nThe Linux version can be found in the boot partition. If you download partitions/21_boot.img (32 MB) and extract it, you'll find the kernel image in a file called kernel. You can find the Linux version with:\n\nBefore I go into detail here, I want to emphasize something real quick:\n\nIt's illegal to connect to Flock's servers using leaked credentials without their permission.\n\nThe Android firmware for this Flock camera includes 20 separate Flock apps, 19 of which all share a library called com.flocksafety.android.common.lib. If you decompile the library, there's an interesting method in the CameraSettings class:\n\nThis is an API key, hard-coded straight into the app. Flock runs a backend service at hpnotiq.flocksafety.com. When the camera needs new credentials, it makes an API request to hpnotiq that looks like this:\n\nNote that this specific Flock camera's MAC address is F4:6A:DD:57:46:FB.\n\nPresumably, you can use this hard-coded API key to obtain credentials for any Flock camera, based on its MAC address.\n\nThe API appears to respond with an Auth0 client ID and secret. Auth0 is an identity management company owned by Okta. The camera then stores those credentials in plaintext.\n\nBtw, those credentials, which might actually still be live and active (I'm honestly not sure because I didn't try them), are:\n\nThe API key is in the system partition. Download partitions/24_system.img (1.5 GB), extract it, and you'll find 19 Flock apps under app/: flock-sambuca, flock-collins, flock-phone-home, etc., each containing an APK. Decompile any one of them and look for CameraSettings in com.flocksafety.android.common.lib. The shared library is bundled into all 19 apps, so the key is in every one of them.\n\nThe Auth0 client ID and secret are on a different partition. Download partitions/27_persist.img (32 MB) and extract it. The file is at flock/auth0/auth0_cred. This is the camera's /persist partition, which is not encrypted and is designed to survive a factory reset.\n\nThe MAC address and the 2,264 calls to hpnotiq come from the camera's logs, in partitions/53_media.img (18 GB). Those sit inside an encrypted container, though the key to it is stored on the same partition in a file called expand_1fcdafef903c40cab3aff81bec914d01.key, lol. Once it's unlocked, the logs are gzipped tarballs under media/0/media/crashpack/.\n\nThe Flock camera's logs include camera location GPS coordinates 155 times, all within about 100 meters of each other, which I think is ordinary GPS jitter for a receiver that never moves. The coordinates that appear most often are 43.10151313, -88.05270186. If you search for that in Google Maps, you'll end up in a suburb just northwest of Milwaukee.\n\nI've never been to the Milwaukee area, but it looks like this Flock camera is in a city called Wauwatosa, on N Mayfair Rd, just off of Webster Park.\n\nUsing Google Street View, I walked around N Mayfair Rd looking for a Flock camera. It looks like the GPS is slightly off, and it's actually on the west side of the street, near a parking lot for the park.\n\nThere you are, Flock camera serial number 23091220026 with MAC address F4:6A:DD:57:46:FB!\n\nWho could have realized that this little camera, spending all its time spying on the innocent people driving by, would some day find its way into the hands of hackers from the stegan0gram collective?\n\nDownload partitions/53_media.img (18 GB), extract it, mount the (barely) encrypted filesystem, and then look at the logs in media/0/media/crashpack/. Extract one of the log files – any of them, it doesn't matter. Inside there, there are many logs with filenames like ciroc.2026-*.log. Grep those for Location and you'll see the GPS coordinates:\n\nWith luck, this reporting will encourage city councils everywhere to cancel their contracts with Flock and other ALPR vendors, and to stop giving the police more surveillance tools at the expense of everyone's privacy.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦Flock自动车牌识别摄像头的过时软件、潜在安全漏洞、硬编码凭据、未加密或弱保护的数据、日志中的地理位置，以及由此引发的监控与隐私风险。文章通过列出固件版本、分区文件、API密钥和日志路径来强化技术可验证性，同时使用“监视无辜者”等措辞，将技术缺陷置于反对扩大警察监控工具的立场中。文中关于部分漏洞“可能受影响”及凭据是否仍有效，作者明确表示未实际验证。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T21:21:18.000Z",
+            "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/"
+          }
+        ]
+      },
+      {
+        "id": "story-lls-reveal-nitrogen-html-9769f99211c7a900",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Fossil plankton shells reveal reduced nitrogen fixation in warmer oceans 3 million years ago",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:00:05.000Z",
+        "pubTime": "2026-09-18 08:00",
+        "url": "https://phys.org/news/2026-09-fossil-plankton-shells-reveal-nitrogen.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/marine-microbial-nitro.jpg",
+        "fullContent": "Nitrogen is a key nutrient because it fuels the growth of plankton, which forms the basis of the marine food web. Two opposing processes determine the global nitrogen cycle: nitrogen fixation and denitrification.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-18 08:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-fossil-plankton-shells-reveal-nitrogen.html",
+            "publishedAt": "2026-09-18T00:00:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-8-vybory-2118364592-html-2d61f10f7f46c294",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Кандидат в генсеки ООН заявила о готовности помочь Киеву с выборами",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T00:22:53.000Z",
+        "pubTime": "2026-09-18 08:22",
+        "url": "https://ria.ru/20260918/vybory-2118364592.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 08:22 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/vybory-2118364592.html",
+            "publishedAt": "2026-09-18T00:22:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--to-widen-the-agi-debate-10eee90727fdae7e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Google DeepMind launches institute to widen the AGI debate",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T23:21:17.000Z",
+        "pubTime": "2026-09-18 07:21",
+        "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+        "imageUrl": null,
+        "fullContent": "Google and Google DeepMind researchers launched the DeepMind Institute on Wednesday to advance the conversation around artificial general intelligence. The institute lists DeepMind co-founder Shane Legg, Google executive James Manyika, and Google DeepMind chair Demis Hassabis as directors, with Legg serving as managing editor.\n\nThe new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. “They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier,” the announcement read.\n\nThe inaugural collection of four essays covers a range of topics: economic policies for managing potential AGI disruption, preserving human-readable model reasoning, principles for human flourishing, and a framework for evaluating frontier AI models.\n\nOne essay, by DeepMind safety researchers Rohin Shah and Anca Dragan, argues that AI’s shrinking window of transparency—the ability to see and check a model’s step-by-step reasoning — is not inevitable. As new architectures make the most powerful models harder to monitor, the authors say developers and regulators should confront the safety trade-offs directly. That could mean limiting “opaque serial depth”—the amount of sequential computation a model can perform without producing a readable reasoning trace—or requiring developers to demonstrate that less transparent systems remain just as monitorable.\n\nIn another essay, Hassabis proposes a U.S.-led frontier AI standards body to evaluate the most advanced AI models. Under his framework, developers would initially submit models voluntarily for review up to 30 days before release. Once the evaluation system has proved effective, passing its tests could become a requirement for deploying frontier models in the United States.\n\nThe body would at first design assessments in consultation with AI companies, but would eventually develop independent, undisclosed evaluations — what the essay calls “held-out” tests —to prevent labs from tailoring their models to known evaluations. Hassabis said the framework could be “ratcheted up if the seriousness of the situation demands,” potentially including a coordinated slowdown among frontier AI developers.\n\nThe essays arrive as the industry’s safety debate shifts from broad statements of concern toward concrete proposals for disclosure, outside scrutiny and, if safeguards fall behind, coordinated slowdowns. That shift accelerated this week as industry leaders endorsed elements of Anthropic CEO Dario Amodei’s call to “pace” frontier AI development.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nThe AI graveyard: a running list of projects and startups that didn’t make it\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nTesla says it will finally unveil the second-generation Roadster on October 1\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将DeepMind Institute呈现为扩大AGI公共讨论、公开呈现内部及学界分歧的平台，并突出四项议题：AGI可能带来的经济政策挑战、模型推理过程的可读性与可监测性、人类福祉原则、前沿模型评估框架。报道尤其强调从笼统的AI安全担忧转向披露、外部审查、标准评估和必要时协调放缓等具体治理方案。上述重点反映报道组织方式，不等同于这些方案已获社会共识或证明有效。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-17T23:21:17.000Z",
+            "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+          }
+        ]
+      },
+      {
+        "id": "story-1-4083-ac34-00bbe67ef8db-ae8a36296aedf744",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI discloses new ‘concerning’ model behaviour",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T22:03:41.000Z",
+        "pubTime": "2026-09-18 06:03",
+        "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fca7c7d2b-13f1-41b6-aebf-da885a5c4bc0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Developer launches system to track and report AI model misconduct",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-18 06:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-17T22:03:41.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--ai-scraping-the-largest-e8dd0e9b20e33b9c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-17T19:55:35.000Z",
+        "pubTime": "2026-09-18 03:55",
+        "url": "https://www.reddit.com/r/technology/comments/1wj4gkx/microsoft_exec_called_ai_scraping_the_largest/",
+        "imageUrl": "https://external-preview.redd.it/fSi_WWxJJAndk8kq6B3rqr3XctplsOFdCofjJZeKGQo.jpeg?width=640&crop=smart&auto=webp&s=ce8c53ad9911402891dea7be33fe99a5c54dcebb",
+        "fullContent": "submitted by /u/Conscious-Quarter423 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-18 03:55 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wj4gkx/microsoft_exec_called_ai_scraping_the_largest/",
+            "publishedAt": "2026-09-17T19:55:35.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789684023927,
     "timeDisplay": "2026-09-18 06:27 (UTC+8)",
     "date": "2026-09-18",
