@@ -1,5 +1,1570 @@
 [
   {
+    "timestamp": 1789711984417,
+    "timeDisplay": "2026-09-18 14:13 (UTC+8)",
+    "date": "2026-09-18",
+    "runId": "feed-20260918T060130065Z-7pqamw",
+    "generatedAt": "2026-09-18T06:13:04.417Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 14:01",
+      "lead": "本轮抓取于 2026-09-18 14:01 (UTC+8) 完成，共获得 8 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】APOD：2026年9月18日——M33：三角座星系：APOD：2026年9月18日——…… 每日天文图片 探索宇宙！每天都会展示一幅迷人宇宙的不同图像或照片，并附有专业天文学家撰写的简短说明。",
+        "【undefined】李在明：韩国不会向霍尔木兹海峡派兵：中新网9月18日电 据韩国MBC电视台报道，韩国总统李在明18日强调，韩国不会派兵参与或介入伊朗战事。",
+        "【undefined】Waymo称新加坡将成为其下一个国际Robotaxi城市：该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看全部交通运输内容 查看全部自动驾驶汽车内容",
+        "【undefined】获科斯拉支持的Mazama Energy刚融资1.35亿美元，向超高温岩石地热钻探更深处：这笔新融资将帮助该公司在能够使每口井发电1500万千瓦的超高温岩石中开发水平井。",
+        "【undefined】美国联邦航空管理局解决空中交通问题的计划？价值8.75亿美元的人工智能：美国联邦航空管理局一直在努力应对全国范围内的空中交通管制人员短缺问题。造成短缺的原因多种多样，但政府已表示，正在寻求创新方案来解决这一问题。",
+        "【undefined】Bend——一种通过证明在 CPU 和 GPU 上阻止 AI 犯错的语言：一种通过证明阻止 AI 犯错的高速语言 C 语言速度 · CUDA 并行能力 · Lean 证明 · Python 语法 在后 AGI 经济中，人类最终将不再编写和阅读代码，但我们仍然需要一种无歧义的方式，告诉那些正在构建我们周围世界的 AI 我们希望它们完成什么。 借助法则，我们的意图可以比自然语言精确得多。借助证明，我们可以验证 AI 是否正确实现了我们的提示。而快速的编译器则能让它高速运行。 这就是 Bend——别无其他。 Ben",
+        "【undefined】请提高警惕：针对知名 Rust 社区成员的定向攻击：我们认为，目前正有一场持续进行的行动，目标是 Rust-lang 成员和热门 crate 的维护者，企图入侵他们的设备和账户，进而利用这些设备和账户发布恶意软件。",
+        "【undefined】我不喜欢大型语言模型：我对人工智能和大型语言模型技术有着许多复杂的感受。一方面，我着迷于它对我们这个职业的影响，也对生产力可能获得的提升感到兴奋——这意味着我们能够迅速构建出各种产品。另一方面，我又担心人工智能可能造成的破坏：代理群接管我们的虚拟和物理基础设施，设计生物武器。不过，换个角度想，大型语言模型也可能设计出奇效药物，想出巧妙的方法来提高我们的繁荣程度。从根本上说，我不认为我们可以选择不登上人工智能技术这列火车。这是一段疯狂的旅程，我只希望我们最终能"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "当前证据包缺少文章标题、正文、来源、发布时间、链接及可引用事实，无法形成可靠的日尺度分析。",
+      "themes": [
+        {
+          "name": "信息不足",
+          "analysis": "目标文章内容状态为缺失，相关目录中的多数条目仍显示为待翻译占位标题，且未提供可核验的证据或引用。因此，无法判断具体事件、主题趋势或影响。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 81,
+      "completedTasks": 81,
+      "succeeded": 31,
+      "degraded": 50,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 81,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 694304,
+      "byRole": {
+        "translator": {
+          "attempts": 50,
+          "degraded": 38,
+          "succeeded": 12
+        },
+        "fact-extractor": {
+          "attempts": 9,
+          "succeeded": 2,
+          "degraded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 9,
+          "succeeded": 6,
+          "degraded": 3
+        },
+        "topic-classifier": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 81,
+          "degraded": 50,
+          "succeeded": 31
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-4-translator-0",
+      "article-4-translator-1",
+      "article-4-translator-2",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-10-translator-1",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-15-translator-1",
+      "article-15-translator-2",
+      "article-16-translator-0",
+      "article-16-translator-1",
+      "article-17-translator-0",
+      "article-20-translator-0",
+      "article-21-translator-0",
+      "article-22-translator-0",
+      "article-23-translator-0",
+      "article-25-translator-0",
+      "article-26-translator-0",
+      "article-28-translator-0",
+      "article-29-translator-0",
+      "article-29-translator-1",
+      "article-30-translator-0",
+      "article-30-translator-1",
+      "article-31-translator-0",
+      "article-32-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-1-fact-extractor",
+      "article-2-fact-extractor",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "article-6-fact-extractor",
+      "article-8-fact-extractor",
+      "article-8-source-positioner",
+      "hourly-editor",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:10.884Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.382Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.081Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.604Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.679Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.809Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.710Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.010Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.609Z",
+        "lastSuccessAt": "2026-09-18T06:01:13.790Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.596Z",
+        "lastSuccessAt": "2026-09-18T06:01:13.673Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:13.790Z",
+        "lastSuccessAt": "2026-09-18T06:01:14.054Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.284Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.432Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.854Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.022Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.809Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.131Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.571Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.721Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.509Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.710Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.432Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.782Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.473Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.571Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:13.542Z",
+        "lastSuccessAt": "2026-09-18T06:01:13.923Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.872Z",
+        "lastSuccessAt": "2026-09-18T06:01:14.071Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:13.398Z",
+        "lastSuccessAt": "2026-09-18T06:01:13.602Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.992Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.288Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.657Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.679Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.604Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.657Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.263Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.284Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:10.117Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.263Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.280Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.358Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.195Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.477Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.022Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.443Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.212Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.280Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.457Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.596Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.985Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.030Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:13.602Z",
+        "lastSuccessAt": "2026-09-18T06:01:17.424Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.288Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.469Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.483Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.609Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.469Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.508Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.509Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.872Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:13.673Z",
+        "lastSuccessAt": "2026-09-18T06:01:13.885Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.721Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.801Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.010Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.483Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.190Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.436Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.508Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.751Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-18T06:01:12.443Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.436Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.671Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:10.114Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.509Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-18T06:01:12.477Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:10.116Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.212Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.671Z",
+        "lastSuccessAt": "2026-09-18T06:01:14.191Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.131Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.195Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.382Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.473Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.358Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.457Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.030Z",
+        "lastSuccessAt": "2026-09-18T06:01:12.190Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.738Z",
+        "lastSuccessAt": "2026-09-18T06:01:13.398Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:12.751Z",
+        "lastSuccessAt": "2026-09-18T06:01:13.542Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.801Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.985Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:11.782Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.992Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:10.091Z",
+        "lastSuccessAt": "2026-09-18T06:01:10.884Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:10.112Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.081Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-18T06:01:10.113Z",
+        "lastSuccessAt": "2026-09-18T06:01:11.854Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-18-nauka-2118295421-html-0e37f388f054f270",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Российские ученые проведут мастер-классы для молодежи семи стран",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T06:00:00.000Z",
+        "pubTime": "2026-09-18 14:00",
+        "url": "https://ria.ru/20260918/nauka-2118295421.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/0f/2117855386_0:0:1673:941_650x0_80_0_0_0c29a3c14c136e217494fe73b4e80079.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 14:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/nauka-2118295421.html",
+            "publishedAt": "2026-09-18T06:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-alloc-releases-tag-5-4-0-f435854cfdeec955",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jemalloc 5.4.0",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:20:24.000Z",
+        "pubTime": "2026-09-18 12:20",
+        "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+        "imageUrl": null,
+        "fullContent": "There was an error while loading. Please reload this page.\n\nThis release contains over 160 commits, focusing on the technical debts cleaning including refactorings, bug fixes, test coverage improvement, and option cleanups. The release also includes portability improvements per upstream issues report.\n\nIncompatible changes:\n\nOptimizations and refactors:\n\nPortability improvements:",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "该文章对应的原始标题为“Jemalloc 5.4.0”。",
+          "该版本包含超过160次提交。",
+          "来源叙事重点：聚焦 Jemalloc 5.4.0 的版本变更概况：超过160次提交，重点包括技术债务清理、重构、漏洞修复、测试覆盖率改进、选项清理，以及根据上游问题报告进行可移植性改进。页面还列出“不兼容变更”“优化与重构”“可移植性改进”等章节，但具体内容未加载。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T04:20:24.000Z",
+            "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0"
+          }
+        ]
+      },
+      {
+        "id": "story-i-export-fears-ease-html-f92c66b5ce490a76",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oil Prices Head for Weekly Loss as Saudi Export Fears Ease",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T05:30:00.000Z",
+        "pubTime": "2026-09-18 13:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Loss-as-Saudi-Export-Fears-Ease.html",
+        "imageUrl": null,
+        "fullContent": "Crude oil prices were on course for a weekly decline after a three-week series of gains, as traders' fears about Saudi Arabia&rsquo;s ability to continue exporting oil appeared to have been quelled by reports about ship-to-ship transfers in the Gulf of Oman. At the time of writing, Brent crude was trading at $103.65 per barrel, with West Texas Intermediate at $101.04 per barrel, both set for a modest loss. However, it bears noting that both remain above $100 per barrel, which keeps the pressure on end fuel prices that are frustrating drivers and making governments nervous. Fears about Saudi oil exports arose after the Yemeni Houthis attacked the East-West pipeline that carried Saudi oil to the Red Sea, and from there to global markets. Saudi Arabia has relied heavily on the pipeline since the war began, moving roughly 4 million to 5 million bpd through the system during the past six months. Now, this is temporarily gone, and there is only a limited amount of supply in tanks at the port of Yanbu. Because of this, Saudi Arabia earlier this week canceled several cargoes of crude that were supposed to be shipped to Europe. This deepened concerns but not for long, after reports emerged that Aramco had switched to the Persian Gulf, moving the oil out via ship-to-ship transfers off the coast of Oman, in the Gulf of Oman, which is outside the Strait of Hormuz. Reports about Aramco expecting to restore half of the daily flows via the East-West pipeline also contributed to the shift in trader mood, even though the global shortfall will not disappear if Aramco starts pumping 2 to 2.5 million barrels daily via the pipe. &ldquo;The key question is whether physical flows can normalise and what could be the timeline. If we see a sustained improvement in Hormuz traffic, some of the geopolitical premium can unwind further,&rdquo; Phillip Nova analyst Priyanka Sachdeva said, as quoted by Reuters. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将油价周度下跌与市场对沙特原油出口中断风险的缓解联系起来，重点叙述也门胡塞武装袭击东西部管道、沙特通过阿曼湾船对船转运调整出口路线，以及有关恢复部分管道流量的报道；同时强调布伦特和WTI仍高于每桶100美元，供应短缺和地缘政治溢价尚未完全消失。文中关于风险缓解和出口恢复的判断属于市场报道与交易者情绪框架，并非独立核实的结论。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T05:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Loss-as-Saudi-Export-Fears-Ease.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ing-mid-race-why-and-how-aca59ee2b3ee46f1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "There’s a long history of athletes pooing themselves mid-race – why, and how can you avoid it?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T02:00:04.000Z",
+        "pubTime": "2026-09-18 10:00",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/18/hyrox-joanna-wietrzyk-history-of-athletes-pooing-mid-race-why-and-how",
+        "imageUrl": "https://i.guim.co.uk/img/media/91d26d4e45144eec5fc7a5c8d5fb996443a4f5fb/1012_82_2359_1887/master/2359.jpg?width=140&quality=85&auto=format&fit=max&s=21543254ffe0fb4e51bd5b76954a4d82",
+        "fullContent": "Since the ancient Olympics, athletes like Hyrox competitor Joanna Wietrzyk have experienced runner’s diarrhoea. What does the science say about extreme exercise’s ‘mechanical jostling of the intestines’?\n\nSoiling yourself in public sounds like a bad dream. But the Australian athlete Joanna Wietrzyk has now apologised for doing just that at the Hyrox games in Beijing on Saturday.\n\nWietrzyk won the fitness race but not before using communal equipment with faecal matter visibly running down her legs – and muddying Hyrox’s reputation.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将Joanna Wietrzyk在北京Hyrox比赛中的排便失控置于运动员类似经历的历史背景中，重点讨论高强度运动可能造成的肠道机械刺激及其预防问题。报道同时以公共场合失禁、共用器材和赛事形象受影响等元素强化事件的尴尬性与公共卫生关注。文中关于“损害Hyrox声誉”的表述属于来源的评价性叙事，而非已独立核实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T02:00:04.000Z",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/sep/18/hyrox-joanna-wietrzyk-history-of-athletes-pooing-mid-race-why-and-how"
+          }
+        ]
+      },
+      {
+        "id": "story-33-the-triangulum-galaxy-5ca9809aa46fb908",
+        "title": "APOD：2026年9月18日——M33：三角座星系",
+        "originalTitle": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:05:00.000Z",
+        "pubTime": "2026-09-18 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=2996&#038;h=2504&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 18 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nMessier 33: The Triangulum Galaxy\n\nExplanation: The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy . M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other’s grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33’s blue star clusters and pinkish star forming regions along the galaxy’s loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o’clock position from the galaxy center. Like M31, M33’s population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe .\n\nAPOD’s main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: star party weekend\n\nCredit &#038; Copyright:\n\nGeorge Chatzifrantzis\n\nAuthors &#038; editors:\n\nJerry Bonnell, Cecilia Chirenti, Robert Nemiroff, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 17 – A Treasure Chest in the Carina Nebula\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "APOD：2026年9月18日——……\n每日天文图片\n探索宇宙！每天都会展示一幅迷人宇宙的不同图像或照片，并附有专业天文学家撰写的简短说明。\n\nM33：三角座星系\n\n说明：北天小星座三角座中，坐落着这座美丽的正面朝向螺旋星系——梅西耶33。它的通俗名称包括风车星系，也简称三角座星系。M33的直径超过5万光年，是本星系群中规模第三大的星系，仅次于仙女座星系（M31）和我们自己的银河系。M33距离银河系约300万光年，人们认为它本身是仙女座星系的一颗卫星；位于这两个星系中的天文学家，很可能都能壮观地看到对方宏伟的螺旋状恒星系统。至于从银河系望去的景象，这幅清晰的望远镜图像展现了M33蓝色的星团，以及沿着星系松散缠绕的旋臂分布的粉红色恒星形成区。事实上，洞穴般的NGC 604是其中最明亮的恒星形成区，在图中位于相对于星系中心约5点钟方向的位置。与M31一样，M33中大量经过精确测量的变星，也帮助天文学家成为建立宇宙距离尺度的“宇宙标尺”。\n\nAPOD的NASA主站正在迁移：从apod.nasa.gov迁至science.nasa.gov/apod\n\n明日图片：观星聚会周末\n\n图片版权：\nGeorge Chatzifrantzis\n\n作者与编辑：\nJerry Bonnell、Cecilia Chirenti、Robert Nemiroff、Keighley Rockcliffe\n\nNASA科学启蒙项目与密歇根理工大学\n\nAPOD随机图片生成器\n\n昨日图片\nAPOD：2026年9月17日——船底座星云中的宝箱\n\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "来源叙事重点：以高分辨率望远镜图像为核心，介绍三角座星系（M33）的基本特征、在本星系群中的位置、与仙女座星系的可能关系，以及其变星在测量宇宙距离中的用途。文章采用由宏观宇宙景观引入具体天体特征的科普叙事，将蓝色星团、粉红色恒星形成区和NGC 604等视觉元素作为重点。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/"
+          }
+        ]
+      },
+      {
+        "id": "story-razdniki-2118391522-html-02f2425fbfe217bd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Правительство утвердило праздничные и выходные дни в 2027 году",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T05:59:34.000Z",
+        "pubTime": "2026-09-18 13:59",
+        "url": "https://ria.ru/20260918/prazdniki-2118391522.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 13:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/prazdniki-2118391522.html",
+            "publishedAt": "2026-09-18T05:59:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-scourge-of-emulation-1d4f76206f8b1ae7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Scourge of x86 Emulation",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:09:48.000Z",
+        "pubTime": "2026-09-18 12:09",
+        "url": "https://fex-emu.com/Scourge-of-emulation/",
+        "imageUrl": null,
+        "fullContent": "Welcome to the first feature article on our site. We’re going to cover an ongoing problem with x86 emulation that affects every application that we emulate. This comes down to a single over-arching term that has wide-reaching ramifications; Emulating the x86 Total Store Ordering memory model (x86-TSO).\n\nThe problems with emulating this memory model on the weak ordering memory model that ARM defines is multi-faceted and covers multiple issues. We’re going to go over all the problems that we can encounter and the ways we solve (or in some cases can’t solve) in this article. Get yourself a snack and a warm drink to enjoy, this is going to be a long one.\n\nBefore diving in to how we work around the x86 memory model problem, we need to first discuss exactly what it is. A memory model is a set of rules for how memory accesses in a system behave in relation to each other. The rules will dictate how loads and stores interact in a single-threaded or a multi-threaded environment. There’s a handful of popular memory memory models implemented in various forms of hardware, but the two we care about today is ARM’s relaxed (or weak) consistency model, and the x86 variant of Total-Store-Ordering consistency model. These two models are basically the two extremes of the spectrum; where ARM is the most relaxed, allowing significant hardware optimizations; and x86 is the most strict, enforcing a very strong coherency model that doesn’t allow a lot of room for optimization. One thing to be careful about when discussing memory models is the difference between consistency and atomicity. While these are related, they are not the same nor guaranteed in all cases.\n\nThe best way to explain how the differences in memory models work is to start with how x86 handles this. With TSO being very strict in how it operates, the programmer can assume that when a memory store occurs, that this will be coherently visible to all other processors in the system. This additionally means that when a memory load occurs, all stores before it “logically” will have been completed, or at least visible. This matches programmer expectations, you write to memory, it becomes visible as at the point of writing, as this is intuitive to think about when programming. The stores are effectively ordering the visibility of the loads, thus the name of the model. There’s a bit of nuance with how this operates but isn’t strictly necessary to understand.\n\nThe weak memory model that ARM has is a bit less intuitive about how it operates. By default the regular memory loads and stores that ARM uses aren’t strictly coherent across processors in your system, allowing the CPU to operate more efficiently most of the time. When a store instruction executes, that piece of memory (the cacheline) isn’t immediately visible to other processors in the system. Saving on precious power and efficiency because it’s expensive in hardware to invalidate other core’s cachelines, or allow them to snoop another processor’s caches. Relatedly if a processor is loading data from memory that another processor has written to, it’s not guaranteed that this load will even see this updated memory. This sounds like it would cause some significant problems in a multi-threaded application right? Older versions of ARM (ARMv7 and older) used a memory barrier instruction to ensure ordering, which had significant performance implications.\n\nTo get around this limitation of consistency, ARM also introduced load-acquire, and store-release memory instructions. In C++ parlance this maps to std::atomic’s memory_order_acquire and memory_order_release definitions respectively. In ARM’s terminology, these instructions also aren’t technically considered to be atomic operations, but programmers conflate the two. FEX has used the terms atomic-load and atomic-store to mean the same thing! The distinction usually doesn’t matter, but when discussing these topics it may be better to be pedantic about it.\n\nThe primary use case for these instructions is to force memory ordering between these class of instructions. ARM calls this the “Release Consistency sequentially consistent (RCsc)” model. Without getting too far in to the weeds about how this model operates, the basic gist is that the load-acquire instructions must be observed sequentially without reordering, and the store-release instructions must as well while fulfilling “barrier-ordered-before” semantics. Removing the costly memory barrier instruction required in older ARM architecture versions.\n\nThis is the premise of where we start in ARMv8.0-a when we’re emulating the x86-TSO memory model. We make all x86 memory loads turn in to ARM’s load-acquire instructions, and x86 memory stores turn in to store-release instructions. This gives FEX effectively the same memory semantics as x86, although we are actually being more strict than what is necessary. This is because we had no middle-ground which exactly matches behaviour. As one might think, it is exceedingly costly to emulate TSO wth this instructions and we have microbenchmarks that can show this. As ARM CPUs weren’t designed to have these relatively rare acquire/release instructions suddenly become the vast majority of instructions executed.\n\nFirst let’s start with something easy and use a microbenchmark that is fairly nice to the hardware. No tricky edge-cases, just accessing memory in in the common case. This gives us some baseline numbers for what the best-case situation should be.\n\nLet’s break down this graph as it tells us a few interesting stories. The Load and Store columns of each machine is representing our baseline performance number that our hardware should be attempting to achieve. These aren’t trying to max out the memory bandwidth of each system, but do the same amount of work for each type of operation. If we turn our attention to the acquire-load results, we can see that out of the five CPUs tests, three of them have their performance hindered quite a bit by using acquire-loads! Additionally we can see that the AmpereOne CPU has release-store instructions that are strikingly low compared to the other results, and the M1 Acquire/LRCPC load instructions are quite a bit lower than the baseline as well.\n\nThe AmpereOne results in particular showcase how bad this legacy path can get. These instructions were never designed to be used this way. Using acquire-release semantics for every load for x86 emulation actually imposes some really strict limitations on ARM CPUs in that the load instructions can no longer be ordered around each other at all. So when you have millions of them in flight per second, the performance isn’t really expected to be good. But because these are the only instructions we had with ARMv8.0-a, it’s what we had to use. While Cortex-X4 and Cortex-X925 have amazing performance for these, you can see how the Oryon-3 has deprioritized their importance.\n\nLet’s take a closer look at the LRCPC-load instructions, which is mandatory since ARMv8.3. This extension adds a bunch of new load instructions to the ARM ISA and adds a new memory model on top of ARM’s RCsc model from before. This new “Release Consistency processor consistent (RCpc)” memory model is what we’ve been wanting! This extension is designed around the requirements that x86 emulation requires, and is expected to get utilized heavily on hardware that implements it. As you can see from the graph, almost all of the platforms have their LRCPC-loads matching their regular loads in performance.\n\nWith this new extension that is mandated by newer ARM versions, we basically get solved memory performance. At least according to this microbenchmark that seems to be the case. Once FEX detects this extension we stop using Acquire-Load instructions entirely and switch over to LRCPC-Load instead. But what’s going on with that Apple M1 result..?\n\nThis is where we need to commend Apple’s path towards solving this problem. With their Apple Silicon processors they directly added support for the x86-TSO memory model. When the CPU feature is toggled, their regular load/store ARM instructions change behaviour to match what x86 requires. They went this route knowing that they will need a high performance solution for their hardware when switching to the ARM ecosystem exclusively. This is why on their hardware the LRCPC-load instructions are actually aliases of their acquire-load instructions, because their x86 emulator doesn’t even use these instructions! Because they implement the x86-memory model, they just use regular load/store instructions, which can be seen in our microbench results as indiscernable performance overhead. To be fair to the other platforms, this thread-wide TSO mode toggle does have some performance impact, we just don’t see it here. When FEX detects this CPU feature from Asahi Linux we will also enable this and get the “free” performance improvement. A potential concern is that when jumping between x86 emulation and ARM code, that the ARM code will pay unnecessary overhead due to all its accesses being TSO now. While this is a reasonable concern, the amount of ARM native code executing under emulation approaches 0%. As a developer, you don’t care about 1% of memory accesses becoming 10% slower, you care about 99% of accesses becoming 15% of the “ideal” (As shown in AmpereOne results).\n\nAs a note, we think a TSO mode is the best path forward for ensuring high performance x86 emulation on the platform. Because this ensures that every memory access instruction behaves how we want or expect. This is shown with the official FEAT_LRCPC extension actually having three versions that apply bandages to the implementation each time.\n\nEven with these three extensions, there is edge-case behaviour that can’t be emulated as nicely as if we had a TSO hardware toggle. We are expecting there to be additional extensions versions as time goes on, trying to fix some of the additional problems we’ll discuss later in the article.\n\nIn the previous section, we were being nice to the ARM hardware and playing along with the underlying hardware’s alignment requirements to get a baseline for what the performance should look like. When emulating x86 although, we run face first in to a glaring problem right from the start. Your favourite x86 applications don’t care about alignment! They’ll access memory however they please, crossing cacheline granularities, doing atomics that aren’t aligned. You think of the alignment problems, these games are doing it. This problem is so bad that we have a term associated with it, called split-locks. These are such a big deal that even the Linux kernel will capture when these occur and slow down games when they do it! Causing many gamers to tinker with kernel options to avoid the slowdown!\n\nBut we aren’t going to talk about full on split-locks yet, let’s get started with just load-store instructions in an environment that doesn’t care about alignment. x86 makes certain guarantees to the programmer; if you do a load-store and it is inside of a cacheline then that load-store will be both atomic and still match the coherency model as described before. However, to be a little bit nice to the hardware developers, if the load-store does cross a cacheline, the data isn’t atomic and other threads can and will see it tear. So the programmer needs to be careful as a basic load-store is not a split-lock.\n\nThe problem with emulating these basic accesses with load-acquire/store-release is that ARMv8.0 requires what is known as natural alignment. This means that for whatever size of data being accessed, the offset in memory must match the size. So for an 8-byte access, it must be at offsets; 0, 8, 16, 24, etc. This works well for native ARM applications, but what happens when we don’t obey natural alignment requirements? For ARM, this means the instruction with raise an alignment fault. The hardware validates that the alignment requirements are fulfilled and if they are not then the CPU will fault. This usually results in a crash but FEX does special handling.\n\nInside of FEX’s JIT mechanism we keep track of memory load-store instructions that are emulating the x86 load-stores. When we know that a load-store can cause an alignment fault we have what is known as a patchpoint in the code. For load-store instructions, this shows up as a NOP instruction either before or after the load-store. When a alignment fault occurs as one of these patchpoints, FEX will capture the fault, patch the code from a load-acquire/store-release instruction to a basic equivalent load-store, and wraps the instruction in a data memory barrier. Then it continues executing!\n\nBefore then after patching\n\nThat entire discussion from before about how ARMv8.0-a added these new fancy load-acquire, store-release instructions? We immediately fall back to the classic memory barrier instruction instead when alignment behaviour doesn’t match. Our previous chart didn’t show this bad case, so let’s bring in some fresh data.\n\nOh, that’s a lot of data to sift through. While again good to see how far away the hardware is from the “optimal” path while emulating TSO, it’s not what we care about here. It is interesting to note that this microbench doesn’t showcase much of a difference between aligned and unaligned for regular load/stores so we just calculated an average between the two. We’ll be removing the x86 CPU and the regular load-store data from the ARM columns, as these aren’t the common FEX paths. This way we’ll have a more targeted view about how badly unaligned memory accesses hurt under emulation.\n\nNow that we have a much more reasonable graph of data, let’s walk from left to right on this and discuss what is going on.\n\nThis one is pretty interesting, both the aligned and unaligned load instructions are roughly equivalent and fall within noise. This means that even though the unaligned loads are getting hit with a data memory barrier penalty, the CPU just handles it. This might be the case that the benchmark is bottlenecked by other things, considering how much lower the performance is compared to other platforms.\n\nMeanwhile the store side is not looking to be in a good shape even without unaligned. It nearly isn’t visible on the chart! When hitting unaligned stores we’re looking at ~8.5% of a performance hit, but because we are already starting so low it is hard to notice. This is also in stark contrast to regular store instructions getting ~28GB/s in this bench.\n\nThe only conclusion we can come to here is that Ampere is optimizing for some server class workload and doesn’t really match consumer hardware behaviour. It’s an interesting datapoint, but our users aren’t typically running games on this class of hardware.\n\nThis is a highly popular CPU core that is living inside the Qualcomm Snapdragon 8 Gen 3. We only tested this one core from the SoC to not overwhelm the chart with data. Quite a large number of handhelds ship with this so it’s an interesting target. This CPU actually does surprisingly well considering it’s the only cellphone SoC on this list. Overall this core kind of falls in line with what we would expect from it and the graph trends follow with the next-generation Cortex in that chart.\n\nThe main topics for this CPU are that its aligned loads and stores are reasonably powerful, getting around 11.5GB/s and 6.7GB/s respectively. What’s interesting is the performance falloff when it needs to deal with unaligned loadstores, hitting the DMB instructions penalizes the core roughly evenly between loads and stores at around 50% in this benchmark.\n\nThis seems to imply that the CPU can keep a decent number of LRCPC-release loadstores in flight so the DMB instructions hurt more when they are encountered, but it isn’t causing world-ending performance. Just that a 50% performance hit due to alignment isn’t an amazing result.\n\nFollowing up the X4, let’s stop by the DGX Spark and its X925 cores. Not only is this a newer CPU core from ARM, it’s running on a system with dramatically more memory bandwidth. 273GB/s in the platform versus the previous 76.8GB/s. This means that we get fairly similar results to the X4 even, just the graph scales a little higher. Interestingly enough, the performance penalty for unaligned accesses roughly match the X4 even. Although it looks like the stores can recover a little faster, likely due to the faster memory helping out. No surprises here, just consistently matching performance across the generations.\n\nThis CPU core design is hot off the presses from Qualcomm. Linux support is still in the process of coming up but it already has a strong showing. The most interesting result from this actually comes from the fact that aligned LRCPC-load instructions are matching the performance of regular loads! That means in the case of a well-behaved application we can typically expect full performance. This continues onward to the release-store instructions being quite capable, although it doesn’t quite match regular stores with only 68% of the bandwidth. Not a bad showing in the slightest.\n\nThis CPU also can’t escape from the penalty of unaligned LRCPC-release loadstores. The load side is roughly matching the ~70% performance penalty of the Cortex-X925, likely because the Snapdragon X2 Elite also has tons of bandwidth. But the store side actually gets off a little worse at ~43% of the performance. Even with these performance hits of unaligned accesses, this platform is actually faster than the aligned accesses from the Cortex offerings.\n\nOne of the weird things about this platform is that it was advertised to have “Fully coherent 96KB 6-way L1 cache with 64B coherency granules.” Which to our reading implied that unaligned accesses should have dramatically less of a performance impact. Interesting… keep that in mind.\n\nThis is the big one we need to talk about. This is the one that was a game changer, it was the “Apple moment.” It showed everyone that ARM was not only feasible, it could be faster. These numb",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T04:09:48.000Z",
+            "url": "https://fex-emu.com/Scourge-of-emulation/"
+          }
+        ]
+      },
+      {
+        "id": "story-d-425f-bcd6-cfe9d5d4890c-845020a6433a4ed0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Venezuela nears deal to move $4bn gold reserve to New York",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:00:29.000Z",
+        "pubTime": "2026-09-18 12:00",
+        "url": "https://www.ft.com/content/8f1f3047-372d-425f-bcd6-cfe9d5d4890c?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F95c6dd18-82ae-4a4e-bc77-b24758572c3c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Agreement would allow interim government of Delcy Rodríguez to access funding",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-18 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/8f1f3047-372d-425f-bcd6-cfe9d5d4890c?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-18T04:00:29.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ing-nearly-a-third-of-us-0c2b1ad062aee9bc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pentagon weighs pulling nearly a third of U.S. forces from Europe | The potentially drastic drawdown of 25,000 or more U.S. troops comes amid warnings from NATO allies about a growing threat posed by Russia.",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T01:33:29.000Z",
+        "pubTime": "2026-09-18 09:33",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wjclck/pentagon_weighs_pulling_nearly_a_third_of_us/",
+        "imageUrl": "https://external-preview.redd.it/v4SIEWkMzsaT0T11caZWBzTBLGP4ucFNwXqVcTZsFMg.jpeg?width=640&crop=smart&auto=webp&s=0510bab6a9a83a16df5a2f07d81999d8db8be02b",
+        "fullContent": "submitted by /u/RollSafer [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-18 09:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wjclck/pentagon_weighs_pulling_nearly_a_third_of_us/",
+            "publishedAt": "2026-09-18T01:33:29.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-grass-clover-animal-html-84dab9ff5d00f651",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Grass and clover can provide more than animal feed",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T02:40:06.000Z",
+        "pubTime": "2026-09-18 10:40",
+        "url": "https://phys.org/news/2026-09-grass-clover-animal.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/grass-and-clover-can-p.jpg",
+        "fullContent": "by Chalmers University of Technology\n\nedited by Swati Mestri, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nGrowing leys—grass and clover—is nothing new in Swedish agriculture. But in the arable farming regions dominated by cereal production, leys are less common. One reason is that there needs to be a market for what is harvested.\n\nThis was one of the starting points when researchers at Chalmers began exploring the potential of green biorefineries, where grass and clover can be processed into several different products.\n\nThe findings are published in the journal GCB Bioenergy.\n\n\"From a cultivation and soil perspective, introducing grass and clover leys into a crop rotation dominated by cereals has a range of positive effects on both the soil and the environment. Farmers are well aware that growing grass and clover improves soil quality, but the challenge is finding a market for this biomass resource,\" says Christel Cederberg, professor of sustainable agricultural systems at Chalmers.\n\nOne opportunity became apparent when Danish researchers began extracting protein from fresh grass in pilot facilities.\n\n\"When we heard that Danish researchers had begun extracting protein from fresh grass in pilot plants and producing a protein feed that could replace imported feed, we saw another major advantage: by biorefining the protein from leys, we could reduce dependence on soy protein, which is associated with a number of environmental problems,\" says Göran Berndes, professor of biomass and land use at Chalmers.\n\n\"It was quite natural for us to pursue this opportunity, as it is in line with our previous research into ways of developing the production and processing of biomass to provide a wider range of bio-based products while at the same time mitigating the negative environmental impacts of agriculture,\" he continues.\n\nCederberg and Berndes work at the Division of Physical Resource Theory, Department of Environmental and Energy Sciences at Chalmers University of Technology.\n\nIn a green biorefinery, freshly harvested grass and clover are pressed and the protein is separated. The protein can be used as animal feed, thereby replacing some of the soy imported into Europe.\n\nCederberg points to several potential environmental benefits of such a shift:\n\n\"If we can replace soy with grass protein, there are a number of environmental benefits. Particularly important are substantially reduced negative impacts from pesticides, more circular nutrient systems, maintained soil fertility and better conditions for biodiversity in agricultural landscapes.\"\n\nBut protein is only one component of the biomass. The refining process also produces large quantities of fiber-rich residual streams that can be used in several ways.\n\n\"So far, the byproducts have mainly been used to produce biogas, but we see many additional possibilities, including biochar, textiles and even carbon capture, where the captured CO₂ can either be stored permanently underground or used as an industrial feedstock instead of fossil carbon dioxide,\" says Berndes.\n\nThe potential to use the fiber-rich biomass as a raw material for various bio-based materials is also being investigated. Cederberg stresses, however, that this is still an area that requires further development.\n\n\"It is too early to say which applications are the most promising today. More development work is needed.\"\n\nThe ability of agricultural soils to cope with a changing climate has become particularly relevant following the summer of 2026. Repeated heat waves and a prolonged lack of rainfall depleted soil moisture in parts of Europe. In August, the European Commission's Joint Research Centre (JRC) reported worsening prospects for several summer crops and severe losses in the areas most affected. The same prolonged drought and extreme heat also contributed to extensive forest fires and wildfires.\n\nCould increasing the amount of land under grass and clover make agriculture more resilient? Cederberg explains what research tells us about the agricultural soil itself.\n\n\"Yes, but this is a long-term strategy. We know from long-term field experiments—trials conducted at the same site for several decades—that more diverse crop rotations and particularly the inclusion of leys increase the amount of carbon in the soil. Or, to put it more simply: the soil's organic matter content increases.\"\n\nThis, in turn, affects the soil's ability to withstand periods without rainfall.\n\n\"The soil's water-holding capacity increases, making it better able to withstand dry periods. A higher organic matter content also improves soil structure, particularly in clay soils, allowing roots to penetrate deeper and access water,\" says Cederberg.\n\nThis is therefore not a quick solution to a single dry summer, but rather a question of how agricultural soils develop over the longer term.\n\nGrowing more grass and clover also means using land that could otherwise be used for other crops. Could expanding ley cultivation therefore reduce food production?\n\nIn Sweden's cereal-growing regions, increased ley cultivation would primarily replace cereals.\n\n\"When farmers replace cereals with what is known as a break crop—in this case a ley crop—they do so with the least productive cereal crop in the rotation, meaning the one with the lowest margin and yield. Introducing leys into the crop rotation also has positive effects on the yields of other crops, although these effects are difficult to quantify and can vary from year to year depending on weather conditions,\" says Cederberg.\n\nShe also points out that in a normal year, Sweden produces enough cereals to be a net exporter.\n\n\"Ley cultivation obviously uses agricultural land in Sweden and could lead to reduced cereal exports. But when we use grass to extract protein feed and reduce soy imports, land is freed up in South America, which reduces competition for land and pressure from deforestation in that part of the world.\"\n\n\"On a global level, agriculture's land requirements could either increase or decrease if Europe expands ley-based production of protein feed,\" says Berndes. \"The net effect depends on which soy production is displaced, as well as on how ley cultivation affects crop yields within European agriculture.\"\n\nThe researchers have also investigated land-use effects in a study in which they modeled the large-scale introduction of perennial grass into crop rotations across more than 81,000 areas in the EU and the UK. When the researchers accounted for the effects on the yields of other crops and the potential to replace soy protein with protein from grass, the additional global demand for agricultural land was relatively small. In some of the scenarios studied, land requirements instead decreased.\n\nThe study also showed potential for increased carbon sequestration, reduced erosion and lower nitrogen losses to water.\n\nHow the rest of the grass biomass is used also matters.\n\n\"If we also take into account the use of side streams to produce biogas and other bio-based products—and assume that these products would otherwise be produced from other cultivated biomass—land requirements decrease further.\"\n\nPart of the research has been carried out within Green Valleys, a Swedish–Danish research and collaboration project focusing on green biorefineries. Chalmers is one of several partners, together with organizations including Agroväst, the Swedish University of Agricultural Sciences (SLU), Hushållningssällskapet Sjuhärad and Aarhus University. The project includes two demonstration facilities: one at the Sötåsen agricultural college in Region Västra Götaland, Sweden, and one at Aarhus University in Denmark.\n\nCederberg has served as Chalmers' contact person within Green Valleys, and both she and Berndes have participated as researchers in the project. The work is now continuing in a new project constellation called Land2Value, which also includes Norwegian partners.\n\n\"By taking a broad approach—from land use to industrial processes and the use of bio-based products—and examining a wide range of sustainability aspects, our research can contribute to the further development of today's bio-based systems and help ensure that the transition from fossil-based to bio-based systems delivers multiple benefits,\" says Berndes.\n\nWork at the demonstration facilities has provided both practical experience and broader insights.\n\n\"In terms of both knowledge and practical know-how, we have learned a great deal from building and operating the biorefineries at the demonstration facilities: the challenges of handling different types of grass and clover biomass under different weather conditions, how these conditions affect product quality, and how the press cake performs as a feedstock for biogas production,\" says Cederberg.\n\nBut an important lesson is that the technology itself is only one part of what needs to work.\n\n\"One particular lesson is that the whole concept really requires a systems perspective, in which logistics, infrastructure and scale are important components. The entire system, including the people who operate within it, needs to be considered—and what kind of business model is best suited to making it work? There are challenges here.\"\n\nIf grass and clover can provide protein, energy and materials while also contributing to healthier soils, the obvious question is why green biorefineries have not yet become more widespread.\n\nThere are both practical and economic barriers.\n\n\"These are complex systems to establish. Investment costs have risen in recent years. What kind of business model should the system have? It is also very difficult to compete in markets—feed, agriculture and food—where low prices currently seem to outweigh almost everything else,\" says Cederberg.\n\nLong-term policy conditions also influence the willingness to invest.\n\n\"As with other activities, willingness to invest is affected by the long-term conditions. Stakeholders need confidence that policies and policy instruments will maintain favorable conditions over the long term,\" says Berndes.\n\nOskar Englund et al, Large‐scale deployment of grass in crop rotations as a multifunctional climate mitigation strategy, GCB Bioenergy (2022). DOI: 10.1111/gcbb.13015\n\nJournal information: GCB Bioenergy\n\nProvided by Chalmers University of Technology\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 52,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T02:40:06.000Z",
+            "url": "https://phys.org/news/2026-09-grass-clover-animal.html"
+          }
+        ]
+      },
+      {
+        "id": "story-razdniki-2118391212-html-79a8e48398e9cff9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Майские праздники в 2027 году продлятся шесть дней",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T05:57:53.000Z",
+        "pubTime": "2026-09-18 13:57",
+        "url": "https://ria.ru/20260918/prazdniki-2118391212.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/04/1d/2014059805_0:211:3264:2047_650x0_80_0_0_f50a557c4e03dae2cd478e5ef5a25fce.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 13:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/prazdniki-2118391212.html",
+            "publishedAt": "2026-09-18T05:57:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-waymo-in-singapore-684c89eaddcfdbb9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Waymo in Singapore",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T03:49:24.000Z",
+        "pubTime": "2026-09-18 11:49",
+        "url": "https://waymo.com/waymo-in-singapore/",
+        "imageUrl": null,
+        "fullContent": "Your web browser does not support this video.\n\nLion City, meet autonomous rides\n\nAcross a landscape shaped by world-class infrastructure and connectivity, we look forward to introducing Singaporeans to our future all-electric autonomous ride-hail fleet. We aim to provide a safe and accessible new mobility option in partnership with government officials to support Singapore in its green journey and vision to becoming a leader in smart mobility.\n\nWaymo aims to complement the city’s vision for sustainable development and support the Singapore Green Plan 2030 by delivering safe, efficient, zero-emission rides.\n\nWe’re proud to expand access to electric vehicles through our shared, autonomous fleet, and source renewable energy to power our vehicles whenever possible.\n\nIncreased road safety\n\nWaymo is committed to enhancing community well-being in Singapore, aligning with local efforts to make streets safer. The Waymo Driver has the potential to reduce traffic injuries and fatalities, while improving mobility, especially for pedestrians and cyclists, and offer more consistent and reliable rides.\n\nStrengthening public transport\n\nWe aim to complement Singapore’s existing transportation network. Working alongside government agencies, transport authorities, and local communities, we’re collaborating on solutions that promote multi-modal mobility with existing public transport options.\n\nEnhanced accessibility\n\nWe can increase independence and expand mobility options for the aging population and those who cannot or do not drive.\n\nNavigating with confidence\n\nThe Waymo Driver uses cameras, radar, and lidar, and compute power to maintain a 360-degree view around the vehicle, up to 300 meters away, while looking to detect and navigate safely around other road users.\n\nWaymo is on its way to Singapore\n\nThank you! You’re all set.\n\nThank you for following us on our journey. We’re excited to share more about our company and our progress as we work to build the World’s Most Experienced Driver™.\n\nWith 300+ million kilometers driven on public roads, we are designing the Waymo Driver to confidently navigate Singapore’s unique streets, layouts and traffic patterns so you can safely move around your city.\n\n360-degree visibility\n\nOur powerful suite of sensors—lidar, cameras, and radar—gives the Waymo Driver a 360-degree view of its surroundings, day or night, rain or shine, up to 300 metres away.\n\nAnticipating the road ahead\n\nThe Waymo Driver is trained to anticipate the actions of other road users, from vehicles to pedestrians and cyclists, allowing it to navigate complex urban scenarios with confidence.\n\nOur technology is the product of over 17 years of experience, with hundreds of millions of kilometers driven on public roads and billions more in simulation. Safety is our foundation.\n\n94% fewer injury causing crashes\n\ncompared to a human driving the same distance in the cities where we operate in the U.S.\n\nwhere we operate, including publicly available services in San Francisco, Los Angeles, Phoenix, and more.\n\n300+ million km on public roads\n\nHundreds of thousands of weekly riders in the U.S. love the clean and consistent experience we provide, while data demonstrates we’re improving road safety in the cities where we operate.\n\nWe intend to begin initial driving operations next year.\n\nWe will start by operating the vehicles manually, beginning with mapping and validation driving. As we’ve done in other cities, we’ll take a phased approach as we scale. After a period of manual driving, we’ll begin autonomous driving with trained, local autonomous specialists behind the wheel, before moving to fully autonomous operations.\n\nWe will work closely with the Ministry of Transport, the Land Transport Authority, and other local authorities to secure necessary approvals, and keep the public up to date as our operations progress.\n\nWe will be driving day and night and intend to initially manually drive and map all regions of Singapore, to collect the necessary data for Waymo to seek Land Transport Authority approval for our autonomous driving system in 2027\n\nWhen we begin operations, we will still be in preparation mode with autonomous specialists behind the wheel who will be manually driving. We will let the public know when we begin autonomous operations with autonomous vehicle specialists, and later fully autonomous operations.\n\nWe will notify you as soon as our commercial service becomes available in your area.\n\nSingapore has long stood at the forefront of global innovation and we believe the city and Waymo’s focus on innovation and safety are very complimentary. Singapore has built one of the world’s most advanced multimodal transit systems as well as a commitment to sustainability. The benefits that autonomous shared mobility can provide in Singapore are described in the Land Transport Master Plan 2040 and on the Land Transport Authority's website.\n\nWe are working closely with all the relevant government agencies to ensure full alignment with Singapore’s land transport goals and safety regulation.\n\nWe will take the same methodical approach to testing and deploying the Waymo Driver in Singapore that we’ve taken in the other cities where we operate.\n\nWe are confident that we will be able to meet Singapore’s high AV regulatory standards based on the significant real-world experience we have to-date and look forward to seeking the corresponding government approvals for future phases.\n\nThe data shows Waymo is making roads safer in the communities in which we operate fully autonomously, reducing the number of injury-causing collisions on the roads compared to human benchmarks.\n\nThe Waymo Driver has fully autonomously driven hundreds of millions of kilometres across major cities in the U.S., and is already gathering autonomous driving experience in large global cities like London and Tokyo. We expect this experience to translate well to Singapore, and will take a rigorous approach to safely validating that experience every step of the way.\n\nWe will start with our all-electric Jaguar I-PACE vehicles equipped with our fifth generation Waymo Driver, and plan to include future vehicle platforms as the fleet expands.\n\nWaymo vehicles are equipped with a sophisticated suite of sensors—including cameras, lidar, and radar—that build a detailed, 360-degree understanding of their surroundings and are able to see and distinguish between vulnerable road users like cyclists and pedestrians. Our software predicts the behavior of these road users and maneuvers our vehicles to interact safely and respectfully, giving them ample space. We also utilise visual and audio cues to clearly communicate the Waymo Driver’s intentions to people outside the vehicle, fostering predictable and safe interactions in busy urban settings with high numbers of cyclists and pedestrians. Additionally, we’ve created Safe Exit features to ensure our riders remain respectful of approaching cyclists upon their arrival at their destination.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 41,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：Waymo将进入新加坡的计划包装为绿色、共享、提升道路安全和补充公共交通的智慧出行项目。页面强调其传感器能力、累计道路测试里程、美国运营数据以及分阶段部署路径；具体计划包括次年开始人工驾驶、测绘和验证，之后在获得批准后开展配备安全员的自动驾驶，目标是在2027年申请新加坡陆路交通管理局批准，并最终推进完全无人驾驶商业服务。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T03:49:24.000Z",
+            "url": "https://waymo.com/waymo-in-singapore/"
+          }
+        ]
+      },
+      {
+        "id": "story-2-4e48-b8e2-968a3e4d2181-569604b306ba1ef5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Liechtenstein royals threaten lawsuit over dynasty reforms",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:00:18.000Z",
+        "pubTime": "2026-09-18 12:00",
+        "url": "https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F52b6cfb8-5d8b-4de7-b4b4-f887fe1bfc0d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Feud in Europe’s wealthiest monarchy deepens after Prince Alois tightens control over family members",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-18 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-18T04:00:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hanol-alcohol-brew-drink-5f3b45ae9b210c0f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:23:31.000Z",
+        "pubTime": "2026-09-18 08:23",
+        "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
+        "imageUrl": "https://i.guim.co.uk/img/media/71fdac6096eda7c5dea33c289145b44460bfb090/163_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=75727651742e1bd620443b7f6b192771",
+        "fullContent": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated\n\nAt least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally brewed alcoholic concoction suspected to contain methanol, officials said on Thursday.\n\nBanji Ajaka, Ondo state’s commissioner for health, said the cases had been reported in the Odigbo and Irele local government areas. A total of 182 people are believed to have been affected and some are being treated in the hospital, he said.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "尼日利亚南部至少有48人死亡。",
+          "约100人在接受治疗。",
+          "来源叙事重点：聚焦尼日利亚南部疑似甲醇污染的当地酿造酒精饮品引发的死亡和就医事件，并将其置于农村地区当地酒精饮品价格较低、监管较弱且消费较常见的背景下。报道将甲醇污染表述为疑似原因，而非已确认结论。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T00:23:31.000Z",
+            "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-18-nauka-2118295421-html-0e37f388f054f270",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Российские ученые проведут мастер-классы для молодежи семи стран",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T06:00:00.000Z",
+        "pubTime": "2026-09-18 14:00",
+        "url": "https://ria.ru/20260918/nauka-2118295421.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/0f/2117855386_0:0:1673:941_650x0_80_0_0_0c29a3c14c136e217494fe73b4e80079.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 14:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/nauka-2118295421.html",
+            "publishedAt": "2026-09-18T06:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-alloc-releases-tag-5-4-0-f435854cfdeec955",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jemalloc 5.4.0",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:20:24.000Z",
+        "pubTime": "2026-09-18 12:20",
+        "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+        "imageUrl": null,
+        "fullContent": "There was an error while loading. Please reload this page.\n\nThis release contains over 160 commits, focusing on the technical debts cleaning including refactorings, bug fixes, test coverage improvement, and option cleanups. The release also includes portability improvements per upstream issues report.\n\nIncompatible changes:\n\nOptimizations and refactors:\n\nPortability improvements:",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "该文章对应的原始标题为“Jemalloc 5.4.0”。",
+          "该版本包含超过160次提交。",
+          "来源叙事重点：聚焦 Jemalloc 5.4.0 的版本变更概况：超过160次提交，重点包括技术债务清理、重构、漏洞修复、测试覆盖率改进、选项清理，以及根据上游问题报告进行可移植性改进。页面还列出“不兼容变更”“优化与重构”“可移植性改进”等章节，但具体内容未加载。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T04:20:24.000Z",
+            "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0"
+          }
+        ]
+      },
+      {
+        "id": "story-i-export-fears-ease-html-f92c66b5ce490a76",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oil Prices Head for Weekly Loss as Saudi Export Fears Ease",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T05:30:00.000Z",
+        "pubTime": "2026-09-18 13:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Loss-as-Saudi-Export-Fears-Ease.html",
+        "imageUrl": null,
+        "fullContent": "Crude oil prices were on course for a weekly decline after a three-week series of gains, as traders' fears about Saudi Arabia&rsquo;s ability to continue exporting oil appeared to have been quelled by reports about ship-to-ship transfers in the Gulf of Oman. At the time of writing, Brent crude was trading at $103.65 per barrel, with West Texas Intermediate at $101.04 per barrel, both set for a modest loss. However, it bears noting that both remain above $100 per barrel, which keeps the pressure on end fuel prices that are frustrating drivers and making governments nervous. Fears about Saudi oil exports arose after the Yemeni Houthis attacked the East-West pipeline that carried Saudi oil to the Red Sea, and from there to global markets. Saudi Arabia has relied heavily on the pipeline since the war began, moving roughly 4 million to 5 million bpd through the system during the past six months. Now, this is temporarily gone, and there is only a limited amount of supply in tanks at the port of Yanbu. Because of this, Saudi Arabia earlier this week canceled several cargoes of crude that were supposed to be shipped to Europe. This deepened concerns but not for long, after reports emerged that Aramco had switched to the Persian Gulf, moving the oil out via ship-to-ship transfers off the coast of Oman, in the Gulf of Oman, which is outside the Strait of Hormuz. Reports about Aramco expecting to restore half of the daily flows via the East-West pipeline also contributed to the shift in trader mood, even though the global shortfall will not disappear if Aramco starts pumping 2 to 2.5 million barrels daily via the pipe. &ldquo;The key question is whether physical flows can normalise and what could be the timeline. If we see a sustained improvement in Hormuz traffic, some of the geopolitical premium can unwind further,&rdquo; Phillip Nova analyst Priyanka Sachdeva said, as quoted by Reuters. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道将油价周度下跌与市场对沙特原油出口中断风险的缓解联系起来，重点叙述也门胡塞武装袭击东西部管道、沙特通过阿曼湾船对船转运调整出口路线，以及有关恢复部分管道流量的报道；同时强调布伦特和WTI仍高于每桶100美元，供应短缺和地缘政治溢价尚未完全消失。文中关于风险缓解和出口恢复的判断属于市场报道与交易者情绪框架，并非独立核实的结论。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T05:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Loss-as-Saudi-Export-Fears-Ease.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ing-mid-race-why-and-how-aca59ee2b3ee46f1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "There’s a long history of athletes pooing themselves mid-race – why, and how can you avoid it?",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T02:00:04.000Z",
+        "pubTime": "2026-09-18 10:00",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/18/hyrox-joanna-wietrzyk-history-of-athletes-pooing-mid-race-why-and-how",
+        "imageUrl": "https://i.guim.co.uk/img/media/91d26d4e45144eec5fc7a5c8d5fb996443a4f5fb/1012_82_2359_1887/master/2359.jpg?width=140&quality=85&auto=format&fit=max&s=21543254ffe0fb4e51bd5b76954a4d82",
+        "fullContent": "Since the ancient Olympics, athletes like Hyrox competitor Joanna Wietrzyk have experienced runner’s diarrhoea. What does the science say about extreme exercise’s ‘mechanical jostling of the intestines’?\n\nSoiling yourself in public sounds like a bad dream. But the Australian athlete Joanna Wietrzyk has now apologised for doing just that at the Hyrox games in Beijing on Saturday.\n\nWietrzyk won the fitness race but not before using communal equipment with faecal matter visibly running down her legs – and muddying Hyrox’s reputation.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将Joanna Wietrzyk在北京Hyrox比赛中的排便失控置于运动员类似经历的历史背景中，重点讨论高强度运动可能造成的肠道机械刺激及其预防问题。报道同时以公共场合失禁、共用器材和赛事形象受影响等元素强化事件的尴尬性与公共卫生关注。文中关于“损害Hyrox声誉”的表述属于来源的评价性叙事，而非已独立核实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T02:00:04.000Z",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/sep/18/hyrox-joanna-wietrzyk-history-of-athletes-pooing-mid-race-why-and-how"
+          }
+        ]
+      },
+      {
+        "id": "story-33-the-triangulum-galaxy-5ca9809aa46fb908",
+        "title": "APOD：2026年9月18日——M33：三角座星系",
+        "originalTitle": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+        "source": "NASA News (深空探索与航天)",
+        "sourceSlug": "nasa",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:05:00.000Z",
+        "pubTime": "2026-09-18 12:05",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
+        "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/m33m14_rasa3NM.jpg?w=2996&#038;h=2504&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+        "fullContent": "APOD: 2026 September 18 –…\n\nAstronomy Picture of the Day\n\nDiscover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\n\nMessier 33: The Triangulum Galaxy\n\nExplanation: The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy . M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other’s grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33’s blue star clusters and pinkish star forming regions along the galaxy’s loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o’clock position from the galaxy center. Like M31, M33’s population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe .\n\nAPOD’s main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod\n\nTomorrow’s picture: star party weekend\n\nCredit &#038; Copyright:\n\nGeorge Chatzifrantzis\n\nAuthors &#038; editors:\n\nJerry Bonnell, Cecilia Chirenti, Robert Nemiroff, Keighley Rockcliffe\n\nNASA Science Activation &#038; Michigan Tech. U.\n\nRandom APOD Generator\n\nYesterday&#8217;s Image\n\nAPOD: 2026 September 17 – A Treasure Chest in the Carina Nebula\n\nTomorrow&#8217;s Image",
+        "fullTranslation": "APOD：2026年9月18日——……\n每日天文图片\n探索宇宙！每天都会展示一幅迷人宇宙的不同图像或照片，并附有专业天文学家撰写的简短说明。\n\nM33：三角座星系\n\n说明：北天小星座三角座中，坐落着这座美丽的正面朝向螺旋星系——梅西耶33。它的通俗名称包括风车星系，也简称三角座星系。M33的直径超过5万光年，是本星系群中规模第三大的星系，仅次于仙女座星系（M31）和我们自己的银河系。M33距离银河系约300万光年，人们认为它本身是仙女座星系的一颗卫星；位于这两个星系中的天文学家，很可能都能壮观地看到对方宏伟的螺旋状恒星系统。至于从银河系望去的景象，这幅清晰的望远镜图像展现了M33蓝色的星团，以及沿着星系松散缠绕的旋臂分布的粉红色恒星形成区。事实上，洞穴般的NGC 604是其中最明亮的恒星形成区，在图中位于相对于星系中心约5点钟方向的位置。与M31一样，M33中大量经过精确测量的变星，也帮助天文学家成为建立宇宙距离尺度的“宇宙标尺”。\n\nAPOD的NASA主站正在迁移：从apod.nasa.gov迁至science.nasa.gov/apod\n\n明日图片：观星聚会周末\n\n图片版权：\nGeorge Chatzifrantzis\n\n作者与编辑：\nJerry Bonnell、Cecilia Chirenti、Robert Nemiroff、Keighley Rockcliffe\n\nNASA科学启蒙项目与密歇根理工大学\n\nAPOD随机图片生成器\n\n昨日图片\nAPOD：2026年9月17日——船底座星云中的宝箱\n\n明日图片",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "来源叙事重点：以高分辨率望远镜图像为核心，介绍三角座星系（M33）的基本特征、在本星系群中的位置、与仙女座星系的可能关系，以及其变星在测量宇宙距离中的用途。文章采用由宏观宇宙景观引入具体天体特征的科普叙事，将蓝色星团、粉红色恒星形成区和NGC 604等视觉元素作为重点。"
+        ],
+        "citations": [
+          {
+            "source": "NASA News (深空探索与航天)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T04:05:00.000Z",
+            "url": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/"
+          }
+        ]
+      },
+      {
+        "id": "story-razdniki-2118391522-html-02f2425fbfe217bd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Правительство утвердило праздничные и выходные дни в 2027 году",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T05:59:34.000Z",
+        "pubTime": "2026-09-18 13:59",
+        "url": "https://ria.ru/20260918/prazdniki-2118391522.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 13:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/prazdniki-2118391522.html",
+            "publishedAt": "2026-09-18T05:59:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-scourge-of-emulation-1d4f76206f8b1ae7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Scourge of x86 Emulation",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:09:48.000Z",
+        "pubTime": "2026-09-18 12:09",
+        "url": "https://fex-emu.com/Scourge-of-emulation/",
+        "imageUrl": null,
+        "fullContent": "Welcome to the first feature article on our site. We’re going to cover an ongoing problem with x86 emulation that affects every application that we emulate. This comes down to a single over-arching term that has wide-reaching ramifications; Emulating the x86 Total Store Ordering memory model (x86-TSO).\n\nThe problems with emulating this memory model on the weak ordering memory model that ARM defines is multi-faceted and covers multiple issues. We’re going to go over all the problems that we can encounter and the ways we solve (or in some cases can’t solve) in this article. Get yourself a snack and a warm drink to enjoy, this is going to be a long one.\n\nBefore diving in to how we work around the x86 memory model problem, we need to first discuss exactly what it is. A memory model is a set of rules for how memory accesses in a system behave in relation to each other. The rules will dictate how loads and stores interact in a single-threaded or a multi-threaded environment. There’s a handful of popular memory memory models implemented in various forms of hardware, but the two we care about today is ARM’s relaxed (or weak) consistency model, and the x86 variant of Total-Store-Ordering consistency model. These two models are basically the two extremes of the spectrum; where ARM is the most relaxed, allowing significant hardware optimizations; and x86 is the most strict, enforcing a very strong coherency model that doesn’t allow a lot of room for optimization. One thing to be careful about when discussing memory models is the difference between consistency and atomicity. While these are related, they are not the same nor guaranteed in all cases.\n\nThe best way to explain how the differences in memory models work is to start with how x86 handles this. With TSO being very strict in how it operates, the programmer can assume that when a memory store occurs, that this will be coherently visible to all other processors in the system. This additionally means that when a memory load occurs, all stores before it “logically” will have been completed, or at least visible. This matches programmer expectations, you write to memory, it becomes visible as at the point of writing, as this is intuitive to think about when programming. The stores are effectively ordering the visibility of the loads, thus the name of the model. There’s a bit of nuance with how this operates but isn’t strictly necessary to understand.\n\nThe weak memory model that ARM has is a bit less intuitive about how it operates. By default the regular memory loads and stores that ARM uses aren’t strictly coherent across processors in your system, allowing the CPU to operate more efficiently most of the time. When a store instruction executes, that piece of memory (the cacheline) isn’t immediately visible to other processors in the system. Saving on precious power and efficiency because it’s expensive in hardware to invalidate other core’s cachelines, or allow them to snoop another processor’s caches. Relatedly if a processor is loading data from memory that another processor has written to, it’s not guaranteed that this load will even see this updated memory. This sounds like it would cause some significant problems in a multi-threaded application right? Older versions of ARM (ARMv7 and older) used a memory barrier instruction to ensure ordering, which had significant performance implications.\n\nTo get around this limitation of consistency, ARM also introduced load-acquire, and store-release memory instructions. In C++ parlance this maps to std::atomic’s memory_order_acquire and memory_order_release definitions respectively. In ARM’s terminology, these instructions also aren’t technically considered to be atomic operations, but programmers conflate the two. FEX has used the terms atomic-load and atomic-store to mean the same thing! The distinction usually doesn’t matter, but when discussing these topics it may be better to be pedantic about it.\n\nThe primary use case for these instructions is to force memory ordering between these class of instructions. ARM calls this the “Release Consistency sequentially consistent (RCsc)” model. Without getting too far in to the weeds about how this model operates, the basic gist is that the load-acquire instructions must be observed sequentially without reordering, and the store-release instructions must as well while fulfilling “barrier-ordered-before” semantics. Removing the costly memory barrier instruction required in older ARM architecture versions.\n\nThis is the premise of where we start in ARMv8.0-a when we’re emulating the x86-TSO memory model. We make all x86 memory loads turn in to ARM’s load-acquire instructions, and x86 memory stores turn in to store-release instructions. This gives FEX effectively the same memory semantics as x86, although we are actually being more strict than what is necessary. This is because we had no middle-ground which exactly matches behaviour. As one might think, it is exceedingly costly to emulate TSO wth this instructions and we have microbenchmarks that can show this. As ARM CPUs weren’t designed to have these relatively rare acquire/release instructions suddenly become the vast majority of instructions executed.\n\nFirst let’s start with something easy and use a microbenchmark that is fairly nice to the hardware. No tricky edge-cases, just accessing memory in in the common case. This gives us some baseline numbers for what the best-case situation should be.\n\nLet’s break down this graph as it tells us a few interesting stories. The Load and Store columns of each machine is representing our baseline performance number that our hardware should be attempting to achieve. These aren’t trying to max out the memory bandwidth of each system, but do the same amount of work for each type of operation. If we turn our attention to the acquire-load results, we can see that out of the five CPUs tests, three of them have their performance hindered quite a bit by using acquire-loads! Additionally we can see that the AmpereOne CPU has release-store instructions that are strikingly low compared to the other results, and the M1 Acquire/LRCPC load instructions are quite a bit lower than the baseline as well.\n\nThe AmpereOne results in particular showcase how bad this legacy path can get. These instructions were never designed to be used this way. Using acquire-release semantics for every load for x86 emulation actually imposes some really strict limitations on ARM CPUs in that the load instructions can no longer be ordered around each other at all. So when you have millions of them in flight per second, the performance isn’t really expected to be good. But because these are the only instructions we had with ARMv8.0-a, it’s what we had to use. While Cortex-X4 and Cortex-X925 have amazing performance for these, you can see how the Oryon-3 has deprioritized their importance.\n\nLet’s take a closer look at the LRCPC-load instructions, which is mandatory since ARMv8.3. This extension adds a bunch of new load instructions to the ARM ISA and adds a new memory model on top of ARM’s RCsc model from before. This new “Release Consistency processor consistent (RCpc)” memory model is what we’ve been wanting! This extension is designed around the requirements that x86 emulation requires, and is expected to get utilized heavily on hardware that implements it. As you can see from the graph, almost all of the platforms have their LRCPC-loads matching their regular loads in performance.\n\nWith this new extension that is mandated by newer ARM versions, we basically get solved memory performance. At least according to this microbenchmark that seems to be the case. Once FEX detects this extension we stop using Acquire-Load instructions entirely and switch over to LRCPC-Load instead. But what’s going on with that Apple M1 result..?\n\nThis is where we need to commend Apple’s path towards solving this problem. With their Apple Silicon processors they directly added support for the x86-TSO memory model. When the CPU feature is toggled, their regular load/store ARM instructions change behaviour to match what x86 requires. They went this route knowing that they will need a high performance solution for their hardware when switching to the ARM ecosystem exclusively. This is why on their hardware the LRCPC-load instructions are actually aliases of their acquire-load instructions, because their x86 emulator doesn’t even use these instructions! Because they implement the x86-memory model, they just use regular load/store instructions, which can be seen in our microbench results as indiscernable performance overhead. To be fair to the other platforms, this thread-wide TSO mode toggle does have some performance impact, we just don’t see it here. When FEX detects this CPU feature from Asahi Linux we will also enable this and get the “free” performance improvement. A potential concern is that when jumping between x86 emulation and ARM code, that the ARM code will pay unnecessary overhead due to all its accesses being TSO now. While this is a reasonable concern, the amount of ARM native code executing under emulation approaches 0%. As a developer, you don’t care about 1% of memory accesses becoming 10% slower, you care about 99% of accesses becoming 15% of the “ideal” (As shown in AmpereOne results).\n\nAs a note, we think a TSO mode is the best path forward for ensuring high performance x86 emulation on the platform. Because this ensures that every memory access instruction behaves how we want or expect. This is shown with the official FEAT_LRCPC extension actually having three versions that apply bandages to the implementation each time.\n\nEven with these three extensions, there is edge-case behaviour that can’t be emulated as nicely as if we had a TSO hardware toggle. We are expecting there to be additional extensions versions as time goes on, trying to fix some of the additional problems we’ll discuss later in the article.\n\nIn the previous section, we were being nice to the ARM hardware and playing along with the underlying hardware’s alignment requirements to get a baseline for what the performance should look like. When emulating x86 although, we run face first in to a glaring problem right from the start. Your favourite x86 applications don’t care about alignment! They’ll access memory however they please, crossing cacheline granularities, doing atomics that aren’t aligned. You think of the alignment problems, these games are doing it. This problem is so bad that we have a term associated with it, called split-locks. These are such a big deal that even the Linux kernel will capture when these occur and slow down games when they do it! Causing many gamers to tinker with kernel options to avoid the slowdown!\n\nBut we aren’t going to talk about full on split-locks yet, let’s get started with just load-store instructions in an environment that doesn’t care about alignment. x86 makes certain guarantees to the programmer; if you do a load-store and it is inside of a cacheline then that load-store will be both atomic and still match the coherency model as described before. However, to be a little bit nice to the hardware developers, if the load-store does cross a cacheline, the data isn’t atomic and other threads can and will see it tear. So the programmer needs to be careful as a basic load-store is not a split-lock.\n\nThe problem with emulating these basic accesses with load-acquire/store-release is that ARMv8.0 requires what is known as natural alignment. This means that for whatever size of data being accessed, the offset in memory must match the size. So for an 8-byte access, it must be at offsets; 0, 8, 16, 24, etc. This works well for native ARM applications, but what happens when we don’t obey natural alignment requirements? For ARM, this means the instruction with raise an alignment fault. The hardware validates that the alignment requirements are fulfilled and if they are not then the CPU will fault. This usually results in a crash but FEX does special handling.\n\nInside of FEX’s JIT mechanism we keep track of memory load-store instructions that are emulating the x86 load-stores. When we know that a load-store can cause an alignment fault we have what is known as a patchpoint in the code. For load-store instructions, this shows up as a NOP instruction either before or after the load-store. When a alignment fault occurs as one of these patchpoints, FEX will capture the fault, patch the code from a load-acquire/store-release instruction to a basic equivalent load-store, and wraps the instruction in a data memory barrier. Then it continues executing!\n\nBefore then after patching\n\nThat entire discussion from before about how ARMv8.0-a added these new fancy load-acquire, store-release instructions? We immediately fall back to the classic memory barrier instruction instead when alignment behaviour doesn’t match. Our previous chart didn’t show this bad case, so let’s bring in some fresh data.\n\nOh, that’s a lot of data to sift through. While again good to see how far away the hardware is from the “optimal” path while emulating TSO, it’s not what we care about here. It is interesting to note that this microbench doesn’t showcase much of a difference between aligned and unaligned for regular load/stores so we just calculated an average between the two. We’ll be removing the x86 CPU and the regular load-store data from the ARM columns, as these aren’t the common FEX paths. This way we’ll have a more targeted view about how badly unaligned memory accesses hurt under emulation.\n\nNow that we have a much more reasonable graph of data, let’s walk from left to right on this and discuss what is going on.\n\nThis one is pretty interesting, both the aligned and unaligned load instructions are roughly equivalent and fall within noise. This means that even though the unaligned loads are getting hit with a data memory barrier penalty, the CPU just handles it. This might be the case that the benchmark is bottlenecked by other things, considering how much lower the performance is compared to other platforms.\n\nMeanwhile the store side is not looking to be in a good shape even without unaligned. It nearly isn’t visible on the chart! When hitting unaligned stores we’re looking at ~8.5% of a performance hit, but because we are already starting so low it is hard to notice. This is also in stark contrast to regular store instructions getting ~28GB/s in this bench.\n\nThe only conclusion we can come to here is that Ampere is optimizing for some server class workload and doesn’t really match consumer hardware behaviour. It’s an interesting datapoint, but our users aren’t typically running games on this class of hardware.\n\nThis is a highly popular CPU core that is living inside the Qualcomm Snapdragon 8 Gen 3. We only tested this one core from the SoC to not overwhelm the chart with data. Quite a large number of handhelds ship with this so it’s an interesting target. This CPU actually does surprisingly well considering it’s the only cellphone SoC on this list. Overall this core kind of falls in line with what we would expect from it and the graph trends follow with the next-generation Cortex in that chart.\n\nThe main topics for this CPU are that its aligned loads and stores are reasonably powerful, getting around 11.5GB/s and 6.7GB/s respectively. What’s interesting is the performance falloff when it needs to deal with unaligned loadstores, hitting the DMB instructions penalizes the core roughly evenly between loads and stores at around 50% in this benchmark.\n\nThis seems to imply that the CPU can keep a decent number of LRCPC-release loadstores in flight so the DMB instructions hurt more when they are encountered, but it isn’t causing world-ending performance. Just that a 50% performance hit due to alignment isn’t an amazing result.\n\nFollowing up the X4, let’s stop by the DGX Spark and its X925 cores. Not only is this a newer CPU core from ARM, it’s running on a system with dramatically more memory bandwidth. 273GB/s in the platform versus the previous 76.8GB/s. This means that we get fairly similar results to the X4 even, just the graph scales a little higher. Interestingly enough, the performance penalty for unaligned accesses roughly match the X4 even. Although it looks like the stores can recover a little faster, likely due to the faster memory helping out. No surprises here, just consistently matching performance across the generations.\n\nThis CPU core design is hot off the presses from Qualcomm. Linux support is still in the process of coming up but it already has a strong showing. The most interesting result from this actually comes from the fact that aligned LRCPC-load instructions are matching the performance of regular loads! That means in the case of a well-behaved application we can typically expect full performance. This continues onward to the release-store instructions being quite capable, although it doesn’t quite match regular stores with only 68% of the bandwidth. Not a bad showing in the slightest.\n\nThis CPU also can’t escape from the penalty of unaligned LRCPC-release loadstores. The load side is roughly matching the ~70% performance penalty of the Cortex-X925, likely because the Snapdragon X2 Elite also has tons of bandwidth. But the store side actually gets off a little worse at ~43% of the performance. Even with these performance hits of unaligned accesses, this platform is actually faster than the aligned accesses from the Cortex offerings.\n\nOne of the weird things about this platform is that it was advertised to have “Fully coherent 96KB 6-way L1 cache with 64B coherency granules.” Which to our reading implied that unaligned accesses should have dramatically less of a performance impact. Interesting… keep that in mind.\n\nThis is the big one we need to talk about. This is the one that was a game changer, it was the “Apple moment.” It showed everyone that ARM was not only feasible, it could be faster. These numb",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T04:09:48.000Z",
+            "url": "https://fex-emu.com/Scourge-of-emulation/"
+          }
+        ]
+      },
+      {
+        "id": "story-d-425f-bcd6-cfe9d5d4890c-845020a6433a4ed0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Venezuela nears deal to move $4bn gold reserve to New York",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:00:29.000Z",
+        "pubTime": "2026-09-18 12:00",
+        "url": "https://www.ft.com/content/8f1f3047-372d-425f-bcd6-cfe9d5d4890c?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F95c6dd18-82ae-4a4e-bc77-b24758572c3c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Agreement would allow interim government of Delcy Rodríguez to access funding",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-18 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/8f1f3047-372d-425f-bcd6-cfe9d5d4890c?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-18T04:00:29.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ing-nearly-a-third-of-us-0c2b1ad062aee9bc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pentagon weighs pulling nearly a third of U.S. forces from Europe | The potentially drastic drawdown of 25,000 or more U.S. troops comes amid warnings from NATO allies about a growing threat posed by Russia.",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T01:33:29.000Z",
+        "pubTime": "2026-09-18 09:33",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wjclck/pentagon_weighs_pulling_nearly_a_third_of_us/",
+        "imageUrl": "https://external-preview.redd.it/v4SIEWkMzsaT0T11caZWBzTBLGP4ucFNwXqVcTZsFMg.jpeg?width=640&crop=smart&auto=webp&s=0510bab6a9a83a16df5a2f07d81999d8db8be02b",
+        "fullContent": "submitted by /u/RollSafer [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-18 09:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wjclck/pentagon_weighs_pulling_nearly_a_third_of_us/",
+            "publishedAt": "2026-09-18T01:33:29.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-grass-clover-animal-html-84dab9ff5d00f651",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Grass and clover can provide more than animal feed",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T02:40:06.000Z",
+        "pubTime": "2026-09-18 10:40",
+        "url": "https://phys.org/news/2026-09-grass-clover-animal.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/grass-and-clover-can-p.jpg",
+        "fullContent": "by Chalmers University of Technology\n\nedited by Swati Mestri, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nGrowing leys—grass and clover—is nothing new in Swedish agriculture. But in the arable farming regions dominated by cereal production, leys are less common. One reason is that there needs to be a market for what is harvested.\n\nThis was one of the starting points when researchers at Chalmers began exploring the potential of green biorefineries, where grass and clover can be processed into several different products.\n\nThe findings are published in the journal GCB Bioenergy.\n\n\"From a cultivation and soil perspective, introducing grass and clover leys into a crop rotation dominated by cereals has a range of positive effects on both the soil and the environment. Farmers are well aware that growing grass and clover improves soil quality, but the challenge is finding a market for this biomass resource,\" says Christel Cederberg, professor of sustainable agricultural systems at Chalmers.\n\nOne opportunity became apparent when Danish researchers began extracting protein from fresh grass in pilot facilities.\n\n\"When we heard that Danish researchers had begun extracting protein from fresh grass in pilot plants and producing a protein feed that could replace imported feed, we saw another major advantage: by biorefining the protein from leys, we could reduce dependence on soy protein, which is associated with a number of environmental problems,\" says Göran Berndes, professor of biomass and land use at Chalmers.\n\n\"It was quite natural for us to pursue this opportunity, as it is in line with our previous research into ways of developing the production and processing of biomass to provide a wider range of bio-based products while at the same time mitigating the negative environmental impacts of agriculture,\" he continues.\n\nCederberg and Berndes work at the Division of Physical Resource Theory, Department of Environmental and Energy Sciences at Chalmers University of Technology.\n\nIn a green biorefinery, freshly harvested grass and clover are pressed and the protein is separated. The protein can be used as animal feed, thereby replacing some of the soy imported into Europe.\n\nCederberg points to several potential environmental benefits of such a shift:\n\n\"If we can replace soy with grass protein, there are a number of environmental benefits. Particularly important are substantially reduced negative impacts from pesticides, more circular nutrient systems, maintained soil fertility and better conditions for biodiversity in agricultural landscapes.\"\n\nBut protein is only one component of the biomass. The refining process also produces large quantities of fiber-rich residual streams that can be used in several ways.\n\n\"So far, the byproducts have mainly been used to produce biogas, but we see many additional possibilities, including biochar, textiles and even carbon capture, where the captured CO₂ can either be stored permanently underground or used as an industrial feedstock instead of fossil carbon dioxide,\" says Berndes.\n\nThe potential to use the fiber-rich biomass as a raw material for various bio-based materials is also being investigated. Cederberg stresses, however, that this is still an area that requires further development.\n\n\"It is too early to say which applications are the most promising today. More development work is needed.\"\n\nThe ability of agricultural soils to cope with a changing climate has become particularly relevant following the summer of 2026. Repeated heat waves and a prolonged lack of rainfall depleted soil moisture in parts of Europe. In August, the European Commission's Joint Research Centre (JRC) reported worsening prospects for several summer crops and severe losses in the areas most affected. The same prolonged drought and extreme heat also contributed to extensive forest fires and wildfires.\n\nCould increasing the amount of land under grass and clover make agriculture more resilient? Cederberg explains what research tells us about the agricultural soil itself.\n\n\"Yes, but this is a long-term strategy. We know from long-term field experiments—trials conducted at the same site for several decades—that more diverse crop rotations and particularly the inclusion of leys increase the amount of carbon in the soil. Or, to put it more simply: the soil's organic matter content increases.\"\n\nThis, in turn, affects the soil's ability to withstand periods without rainfall.\n\n\"The soil's water-holding capacity increases, making it better able to withstand dry periods. A higher organic matter content also improves soil structure, particularly in clay soils, allowing roots to penetrate deeper and access water,\" says Cederberg.\n\nThis is therefore not a quick solution to a single dry summer, but rather a question of how agricultural soils develop over the longer term.\n\nGrowing more grass and clover also means using land that could otherwise be used for other crops. Could expanding ley cultivation therefore reduce food production?\n\nIn Sweden's cereal-growing regions, increased ley cultivation would primarily replace cereals.\n\n\"When farmers replace cereals with what is known as a break crop—in this case a ley crop—they do so with the least productive cereal crop in the rotation, meaning the one with the lowest margin and yield. Introducing leys into the crop rotation also has positive effects on the yields of other crops, although these effects are difficult to quantify and can vary from year to year depending on weather conditions,\" says Cederberg.\n\nShe also points out that in a normal year, Sweden produces enough cereals to be a net exporter.\n\n\"Ley cultivation obviously uses agricultural land in Sweden and could lead to reduced cereal exports. But when we use grass to extract protein feed and reduce soy imports, land is freed up in South America, which reduces competition for land and pressure from deforestation in that part of the world.\"\n\n\"On a global level, agriculture's land requirements could either increase or decrease if Europe expands ley-based production of protein feed,\" says Berndes. \"The net effect depends on which soy production is displaced, as well as on how ley cultivation affects crop yields within European agriculture.\"\n\nThe researchers have also investigated land-use effects in a study in which they modeled the large-scale introduction of perennial grass into crop rotations across more than 81,000 areas in the EU and the UK. When the researchers accounted for the effects on the yields of other crops and the potential to replace soy protein with protein from grass, the additional global demand for agricultural land was relatively small. In some of the scenarios studied, land requirements instead decreased.\n\nThe study also showed potential for increased carbon sequestration, reduced erosion and lower nitrogen losses to water.\n\nHow the rest of the grass biomass is used also matters.\n\n\"If we also take into account the use of side streams to produce biogas and other bio-based products—and assume that these products would otherwise be produced from other cultivated biomass—land requirements decrease further.\"\n\nPart of the research has been carried out within Green Valleys, a Swedish–Danish research and collaboration project focusing on green biorefineries. Chalmers is one of several partners, together with organizations including Agroväst, the Swedish University of Agricultural Sciences (SLU), Hushållningssällskapet Sjuhärad and Aarhus University. The project includes two demonstration facilities: one at the Sötåsen agricultural college in Region Västra Götaland, Sweden, and one at Aarhus University in Denmark.\n\nCederberg has served as Chalmers' contact person within Green Valleys, and both she and Berndes have participated as researchers in the project. The work is now continuing in a new project constellation called Land2Value, which also includes Norwegian partners.\n\n\"By taking a broad approach—from land use to industrial processes and the use of bio-based products—and examining a wide range of sustainability aspects, our research can contribute to the further development of today's bio-based systems and help ensure that the transition from fossil-based to bio-based systems delivers multiple benefits,\" says Berndes.\n\nWork at the demonstration facilities has provided both practical experience and broader insights.\n\n\"In terms of both knowledge and practical know-how, we have learned a great deal from building and operating the biorefineries at the demonstration facilities: the challenges of handling different types of grass and clover biomass under different weather conditions, how these conditions affect product quality, and how the press cake performs as a feedstock for biogas production,\" says Cederberg.\n\nBut an important lesson is that the technology itself is only one part of what needs to work.\n\n\"One particular lesson is that the whole concept really requires a systems perspective, in which logistics, infrastructure and scale are important components. The entire system, including the people who operate within it, needs to be considered—and what kind of business model is best suited to making it work? There are challenges here.\"\n\nIf grass and clover can provide protein, energy and materials while also contributing to healthier soils, the obvious question is why green biorefineries have not yet become more widespread.\n\nThere are both practical and economic barriers.\n\n\"These are complex systems to establish. Investment costs have risen in recent years. What kind of business model should the system have? It is also very difficult to compete in markets—feed, agriculture and food—where low prices currently seem to outweigh almost everything else,\" says Cederberg.\n\nLong-term policy conditions also influence the willingness to invest.\n\n\"As with other activities, willingness to invest is affected by the long-term conditions. Stakeholders need confidence that policies and policy instruments will maintain favorable conditions over the long term,\" says Berndes.\n\nOskar Englund et al, Large‐scale deployment of grass in crop rotations as a multifunctional climate mitigation strategy, GCB Bioenergy (2022). DOI: 10.1111/gcbb.13015\n\nJournal information: GCB Bioenergy\n\nProvided by Chalmers University of Technology\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 52,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T02:40:06.000Z",
+            "url": "https://phys.org/news/2026-09-grass-clover-animal.html"
+          }
+        ]
+      },
+      {
+        "id": "story-razdniki-2118391212-html-79a8e48398e9cff9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Майские праздники в 2027 году продлятся шесть дней",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-18T05:57:53.000Z",
+        "pubTime": "2026-09-18 13:57",
+        "url": "https://ria.ru/20260918/prazdniki-2118391212.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/04/1d/2014059805_0:211:3264:2047_650x0_80_0_0_f50a557c4e03dae2cd478e5ef5a25fce.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-18 13:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260918/prazdniki-2118391212.html",
+            "publishedAt": "2026-09-18T05:57:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-waymo-in-singapore-684c89eaddcfdbb9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Waymo in Singapore",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T03:49:24.000Z",
+        "pubTime": "2026-09-18 11:49",
+        "url": "https://waymo.com/waymo-in-singapore/",
+        "imageUrl": null,
+        "fullContent": "Your web browser does not support this video.\n\nLion City, meet autonomous rides\n\nAcross a landscape shaped by world-class infrastructure and connectivity, we look forward to introducing Singaporeans to our future all-electric autonomous ride-hail fleet. We aim to provide a safe and accessible new mobility option in partnership with government officials to support Singapore in its green journey and vision to becoming a leader in smart mobility.\n\nWaymo aims to complement the city’s vision for sustainable development and support the Singapore Green Plan 2030 by delivering safe, efficient, zero-emission rides.\n\nWe’re proud to expand access to electric vehicles through our shared, autonomous fleet, and source renewable energy to power our vehicles whenever possible.\n\nIncreased road safety\n\nWaymo is committed to enhancing community well-being in Singapore, aligning with local efforts to make streets safer. The Waymo Driver has the potential to reduce traffic injuries and fatalities, while improving mobility, especially for pedestrians and cyclists, and offer more consistent and reliable rides.\n\nStrengthening public transport\n\nWe aim to complement Singapore’s existing transportation network. Working alongside government agencies, transport authorities, and local communities, we’re collaborating on solutions that promote multi-modal mobility with existing public transport options.\n\nEnhanced accessibility\n\nWe can increase independence and expand mobility options for the aging population and those who cannot or do not drive.\n\nNavigating with confidence\n\nThe Waymo Driver uses cameras, radar, and lidar, and compute power to maintain a 360-degree view around the vehicle, up to 300 meters away, while looking to detect and navigate safely around other road users.\n\nWaymo is on its way to Singapore\n\nThank you! You’re all set.\n\nThank you for following us on our journey. We’re excited to share more about our company and our progress as we work to build the World’s Most Experienced Driver™.\n\nWith 300+ million kilometers driven on public roads, we are designing the Waymo Driver to confidently navigate Singapore’s unique streets, layouts and traffic patterns so you can safely move around your city.\n\n360-degree visibility\n\nOur powerful suite of sensors—lidar, cameras, and radar—gives the Waymo Driver a 360-degree view of its surroundings, day or night, rain or shine, up to 300 metres away.\n\nAnticipating the road ahead\n\nThe Waymo Driver is trained to anticipate the actions of other road users, from vehicles to pedestrians and cyclists, allowing it to navigate complex urban scenarios with confidence.\n\nOur technology is the product of over 17 years of experience, with hundreds of millions of kilometers driven on public roads and billions more in simulation. Safety is our foundation.\n\n94% fewer injury causing crashes\n\ncompared to a human driving the same distance in the cities where we operate in the U.S.\n\nwhere we operate, including publicly available services in San Francisco, Los Angeles, Phoenix, and more.\n\n300+ million km on public roads\n\nHundreds of thousands of weekly riders in the U.S. love the clean and consistent experience we provide, while data demonstrates we’re improving road safety in the cities where we operate.\n\nWe intend to begin initial driving operations next year.\n\nWe will start by operating the vehicles manually, beginning with mapping and validation driving. As we’ve done in other cities, we’ll take a phased approach as we scale. After a period of manual driving, we’ll begin autonomous driving with trained, local autonomous specialists behind the wheel, before moving to fully autonomous operations.\n\nWe will work closely with the Ministry of Transport, the Land Transport Authority, and other local authorities to secure necessary approvals, and keep the public up to date as our operations progress.\n\nWe will be driving day and night and intend to initially manually drive and map all regions of Singapore, to collect the necessary data for Waymo to seek Land Transport Authority approval for our autonomous driving system in 2027\n\nWhen we begin operations, we will still be in preparation mode with autonomous specialists behind the wheel who will be manually driving. We will let the public know when we begin autonomous operations with autonomous vehicle specialists, and later fully autonomous operations.\n\nWe will notify you as soon as our commercial service becomes available in your area.\n\nSingapore has long stood at the forefront of global innovation and we believe the city and Waymo’s focus on innovation and safety are very complimentary. Singapore has built one of the world’s most advanced multimodal transit systems as well as a commitment to sustainability. The benefits that autonomous shared mobility can provide in Singapore are described in the Land Transport Master Plan 2040 and on the Land Transport Authority's website.\n\nWe are working closely with all the relevant government agencies to ensure full alignment with Singapore’s land transport goals and safety regulation.\n\nWe will take the same methodical approach to testing and deploying the Waymo Driver in Singapore that we’ve taken in the other cities where we operate.\n\nWe are confident that we will be able to meet Singapore’s high AV regulatory standards based on the significant real-world experience we have to-date and look forward to seeking the corresponding government approvals for future phases.\n\nThe data shows Waymo is making roads safer in the communities in which we operate fully autonomously, reducing the number of injury-causing collisions on the roads compared to human benchmarks.\n\nThe Waymo Driver has fully autonomously driven hundreds of millions of kilometres across major cities in the U.S., and is already gathering autonomous driving experience in large global cities like London and Tokyo. We expect this experience to translate well to Singapore, and will take a rigorous approach to safely validating that experience every step of the way.\n\nWe will start with our all-electric Jaguar I-PACE vehicles equipped with our fifth generation Waymo Driver, and plan to include future vehicle platforms as the fleet expands.\n\nWaymo vehicles are equipped with a sophisticated suite of sensors—including cameras, lidar, and radar—that build a detailed, 360-degree understanding of their surroundings and are able to see and distinguish between vulnerable road users like cyclists and pedestrians. Our software predicts the behavior of these road users and maneuvers our vehicles to interact safely and respectfully, giving them ample space. We also utilise visual and audio cues to clearly communicate the Waymo Driver’s intentions to people outside the vehicle, fostering predictable and safe interactions in busy urban settings with high numbers of cyclists and pedestrians. Additionally, we’ve created Safe Exit features to ensure our riders remain respectful of approaching cyclists upon their arrival at their destination.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 41,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：Waymo将进入新加坡的计划包装为绿色、共享、提升道路安全和补充公共交通的智慧出行项目。页面强调其传感器能力、累计道路测试里程、美国运营数据以及分阶段部署路径；具体计划包括次年开始人工驾驶、测绘和验证，之后在获得批准后开展配备安全员的自动驾驶，目标是在2027年申请新加坡陆路交通管理局批准，并最终推进完全无人驾驶商业服务。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T03:49:24.000Z",
+            "url": "https://waymo.com/waymo-in-singapore/"
+          }
+        ]
+      },
+      {
+        "id": "story-2-4e48-b8e2-968a3e4d2181-569604b306ba1ef5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Liechtenstein royals threaten lawsuit over dynasty reforms",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T04:00:18.000Z",
+        "pubTime": "2026-09-18 12:00",
+        "url": "https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F52b6cfb8-5d8b-4de7-b4b4-f887fe1bfc0d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Feud in Europe’s wealthiest monarchy deepens after Prince Alois tightens control over family members",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-18 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-18T04:00:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-hanol-alcohol-brew-drink-5f3b45ae9b210c0f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T00:23:31.000Z",
+        "pubTime": "2026-09-18 08:23",
+        "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
+        "imageUrl": "https://i.guim.co.uk/img/media/71fdac6096eda7c5dea33c289145b44460bfb090/163_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=75727651742e1bd620443b7f6b192771",
+        "fullContent": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated\n\nAt least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally brewed alcoholic concoction suspected to contain methanol, officials said on Thursday.\n\nBanji Ajaka, Ondo state’s commissioner for health, said the cases had been reported in the Odigbo and Irele local government areas. A total of 182 people are believed to have been affected and some are being treated in the hospital, he said.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "尼日利亚南部至少有48人死亡。",
+          "约100人在接受治疗。",
+          "来源叙事重点：聚焦尼日利亚南部疑似甲醇污染的当地酿造酒精饮品引发的死亡和就医事件，并将其置于农村地区当地酒精饮品价格较低、监管较弱且消费较常见的背景下。报道将甲醇污染表述为疑似原因，而非已确认结论。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T00:23:31.000Z",
+            "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789692038882,
     "timeDisplay": "2026-09-18 08:40 (UTC+8)",
     "date": "2026-09-18",
