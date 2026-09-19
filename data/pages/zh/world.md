@@ -16,87 +16,29 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-s-after-daughters-murder-50df0d51fa12b122" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1010" data-content-paragraphs="18" data-published-at="2026-09-19T11:00:02.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-19 19:00</span>
-</div>
-
-### [加比·佩蒂托遇害五年后，其母亲呼吁公众形成“涟漪效应”以协助寻找失踪人员](https://www.foxnews.com/us/gabby-petito-mother-urges-public-ripple-effect-help-find-missing-5-years-after-daughters-murder)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Gabby Petito&#39;s mother urges public &#39;ripple effect&#39; to help find the missing 5 years after daughter&#39;s murder</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/nichole-schmidt-next-to-gabby-petito-mural-in-blue-point-ny.png?ve=1&amp;tl=1" alt="加比·佩蒂托遇害五年后，其母亲呼吁公众形成“涟漪效应”以协助寻找失踪人员" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>如果您或您认识的人是家庭暴力的受害者，请拨打全国家庭暴力求助热线：800-799-7233。</p>
-<p>纽约州蓝点——在加比·佩蒂托（Gabby Petito）的遗骸于怀俄明州被发现五年后，她的母亲呼吁公众更加关注社交媒体推送中出现的寻人启事，因为哪怕一次转发都能产生“涟漪效应”，从而帮助找到失踪人员。</p>
-<p>“关于失踪案件，我想说的是，如果你在推送中看到寻人启事，请停下来仔细看一下，”她的母亲妮可·施密特（Nichole Schmidt）周五接受福克斯新闻数字频道（Fox News Digital）采访时表示，“不要只是匆忙转发。”</p>
-<p>最新纪录片披露：加比·佩蒂托在遇害前曾告诉前任，自己害怕离开布赖恩·劳德里但仍想离开</p>
-<p>据报道：失踪青少年在其家中被发现，俄亥俄州前教师在263天后被控罪</p>
-<p>她建议，先看清楚内容，查看评论区是否有最新进展，并核实信息来源。</p>
-<p>“如果看起来属实，不妨转发一下，”她说，“因为你永远不知道经你转发后会有谁看到，从而引发涟漪效应——而且确实有失踪人员正是因为普通人转发寻人启事而被找到的。”</p>
-<p>在X上关注福克斯真实犯罪报道团队</p>
-<p>2021年9月19日，佩蒂托的遗骸在怀俄明州杰克逊以北的一处偏远露营地被发现。据信她在三周前被其前未婚夫布赖恩·劳德里（Brian Laundrie）杀害。</p>
-<p>喜欢阅读本文？点击此处了解更多</p>
-<p>劳德里驾驶佩蒂托的福特全顺（Ford Transit）面包车回到了位于佛罗里达州的父母家中，随后在迈卡哈奇溪环境公园（Myakkahatchee Creek Environmental Park）的大雨来临前自杀身亡。在一场全国搜寻行动持续了一个月之后，随着洪水退去，劳德里的父母带领侦探来到他在保护区内最喜欢的一处林间空地，其遗骸才最终被发现。</p>
-<p>自那时起，佩蒂托的父母和继父母以她的名义成立了一家基金会，致力于打击家庭暴力，并提高公众对其他失踪人员案件的关注。</p>
-<p>收听全新播客《与唐娜·罗通诺聊犯罪与正义》</p>
-<p>莱内特·胡克在巴哈马失踪：密歇根州女子失踪事件时间线及丈夫被捕经过</p>
-<p>他们已经在佛罗里达州、犹他州和纽约州等多个州乃至联邦层面游说推进立法。</p>
-<p>通过电子邮件获取突发新闻</p>
-<p>但他们的另一个重点是，为那些未能像他们的女儿那样获得广泛新闻报道的失踪人员家庭争取关注。</p>
-<p>如果您或您认识的人是家庭暴力的受害者，请拨打全国家庭暴力求助热线：800-799-7233。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-19 19:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/us/gabby-petito-mother-urges-public-ripple-effect-help-find-missing-5-years-after-daughters-murder" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-atvienko-2118745984-html-3911262c5dffb990" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="ru" data-content-length="385" data-content-paragraphs="9" data-published-at="2026-09-19T10:56:16.000Z" data-time-source="publication">
+<div id="story-19-yavka-2118781919-html-822b359d1d803f81" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="ru" data-content-length="382" data-content-paragraphs="1" data-published-at="2026-09-19T14:23:58.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 18:56</span>
+  <span class="news-meta-time">🕒 2026-09-19 22:23</span>
 </div>
 
-### [马特维延科表示：俄罗斯每位选民的选票都将被计入](https://ria.ru/20260919/matvienko-2118745984.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Каждый голос избирателя в России будет учтен, заявила Матвиенко</div>
+### [库兹巴斯选举投票率超过58%](https://ria.ru/20260919/yavka--2118781919.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Явка на выборах в Кузбассе превысила 58 процентов</div>
 
-<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07ea/09/13/2118745590_0:0:2944:1656_650x0_80_0_0_ba056960d31422748763e3d5c5abbd88.jpg" alt="马特维延科表示：俄罗斯每位选民的选票都将被计入" loading="lazy" /></div>
+<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07ea/09/13/2118780919_0:0:3062:1722_650x0_80_0_0_7ebb21f652c1ea0e38fed88507f8f4ff.jpg" alt="库兹巴斯选举投票率超过58%" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>统一投票日正在如火如荼地进行中。</p>
-<p>投票将持续三天——从9月18日至20日。</p>
-<p>在联邦选区参选的党派包括：“统一俄罗斯党”、俄罗斯自由民主党（LDPR）、直接民主党、“绿党”、“公正俄罗斯党”、“祖国党”、俄罗斯联邦共产党（KPRF）、退休人员党、“俄罗斯共产党人党”和“新人党”。</p>
-<p>总共将举行2200多场不同级别的选举活动。俄罗斯民众将选出2.07万名议员和行政长官。</p>
-<p>大多数投票站的开放时间为08:00至20:00。部分位于边境地区的投票站属于例外——那里的投票时间有所缩短。</p>
-<p>顿涅茨克人民共和国、卢甘斯克人民共和国、扎波罗热州和赫尔松州的居民将首次选举议会下院代表。</p>
-<p>针对他们以及部分边境地区的选民，设立了提前投票的机制。在海外，已于152个国家设立了333个投票站。</p>
-<p>此外，俄罗斯公民也可以在境外参与投票。</p>
-<p>图片说明：设在俄罗斯驻北京大使馆的投票站。</p></div>
+<div class="article-body" data-article-body="true"><p>统一投票日正处于最关键阶段。<br />投票将持续三天——从9月18日到20日。<br />在联邦选区参选的党派包括：“统一俄罗斯”党、俄罗斯自由民主党（LDPR）、直接民主党、“绿党”、“公正俄罗斯”党、“祖国”党、俄罗斯联邦共产党（KPRF）、退休者党、“俄罗斯共产党人”党以及“新人”党。<br />总计将举行2200多场不同级别的竞选活动。俄罗斯人将选出2.07万名议员和行政长官。<br />大多数投票站的开放时间为08:00至20:00。边境地区的部分投票站属于例外——那里的投票时间有所缩短。<br />顿涅茨克人民共和国（DNR）、卢甘斯克人民共和国（LNR）、扎波罗热州和赫尔松州的居民将首次选举下议院（国家杜马）代表。<br />对于他们以及某些边境地区的选民，提供了提前投票的途径。在海外152个国家开设了333个投票站。<br />此外，俄罗斯人也有机会在境外进行投票。<br />图为：设在俄罗斯驻北京大使馆的投票站。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 18:56 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>俄罗斯库兹巴斯地区选举投票率超过58%</li>
+    <li>统一投票日持续三天，从9月18日至20日举行</li>
+    <li>来源叙事重点：重点展现俄罗斯统一投票日期间全国及海外投票活动的有序、广泛开展，突出参选政党多样性、投票规模（涵盖各级选举超2200场）、新加入地区（顿涅茨克、卢甘斯克、扎波罗热、赫尔松）选民首次参选的象征意义，以及地方高投票率（如库兹巴斯超58%）。</li>
   </ul>
 </div>
 
@@ -105,107 +47,64 @@ notice:
   <span class="news-tag-pill">#RIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260919/matvienko-2118745984.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ria.ru/20260919/yavka--2118781919.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-black-sea-vessel-strikes-9dc5f70e2d682b58" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1290" data-content-paragraphs="18" data-published-at="2026-09-19T10:51:21.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台官方英文)</strong></span>
-    <span class="stance-badge">全球南方与海湾枢纽</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-19 18:51</span>
-</div>
-
-### [俄罗斯在乌克兰致死8人，并袭击黑海两艘船只](https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Russia kills eight people in Ukraine, attacks two vessels in Black Sea</div>
-
-<div class="article-body" data-article-body="true"><p>乌克兰空军表示，俄罗斯在夜间向该国发射了数十架无人机和两枚反舰导弹。</p>
-<p>俄军在乌克兰全境发动了广泛的导弹、无人机和火炮袭击，造成平民伤亡，同时击中了地方基础设施以及黑海的商业航运船只。</p>
-<p>乌克兰空军周六通报称，遭遇了来自俄罗斯各地及被兼并的克里米亚半岛的大规模夜间袭击，涉及174架无人机，以及从俄罗斯库尔斯克地区发射的两枚“锆石”反舰导弹。</p>
-<p>空军在Telegram上的一份声明中表示，防空部队拦截或干扰了141个来袭目标，在15个地点记录到了击落情况，在另外9个地点发现坠落碎片。“敌方的[‘锆石’反舰]导弹未能命中目标，”声明称。</p>
-<p>与此同时，俄罗斯国防部声称，其部队使用“天竺葵-4 追踪者”（Geran-4 Seeker）巡飞弹袭击了黑海的两艘商船——一艘驶往敖德萨的乌克兰干货船和一艘停泊在敖德萨港的油轮，并坚称两艘船均载有军事物资。</p>
-<p>在哈尔科夫地区，州长奥列格·西涅胡博夫（Oleh Syniehubov）证实，俄军对14个定居点的袭击导致5人死亡、15人受伤，在巴拉基利亚（Balakliya）和利普库瓦季夫卡（Lypkuvativka）等城镇造成严重破坏。</p>
-<p>在赫尔松地区，据州长亚历山大·普罗库金（Oleksandr Prokudin）称，针对25个社区的炮击造成3人死亡、5人受伤。他表示，轰炸还损毁了高层公寓、民宅、一座蜂窝通信基站和一条天然气管道。</p>
-<p>第聂伯罗彼得罗夫斯克地区遭受密集打击，区域行政长官亚历山大·甘扎（Oleksandr Ganzha）表示，该地区四个区域遭受了俄罗斯利用无人机、火炮和航空炸弹发动的10余次袭击。</p>
-<p>“两人受伤。敌人在四个区域使用无人机、火炮和航空炸弹发动了10多次袭击。”</p>
-<p>袭击破坏了第聂伯罗的当地仓库、帕夫洛赫拉德（Pavlohrad）的一家门诊诊所、尼科波尔（Nikopol）的一家购物中心，以及克里维里赫（Kryvyi Rih）和锡内利尼科沃（Synelnyky）的多处住宅。</p>
-<p>与此同时，由于俄罗斯对邻国乌克兰发动大规模空袭，波兰紧急出动战机，并将其防空系统置于高度戒备状态。</p>
-<p>波兰武装部队作战司令部周六在社交平台X上发布声明表示，鉴于邻近地区频繁的俄罗斯无人机活动，已在本国领空内启动军机巡航行动。</p>
-<p>“鉴于俄罗斯联邦在乌克兰领土上使用喷气式无人机进行打击，波兰领空已开展军事航空行动，”波兰作战司令部表示。</p>
-<p>该司令部进一步表示，已“启动其可支配的所有必要部队和资源”，“地面防空与雷达侦察系统已达到最高戒备状态”。</p>
-<p>司令部在后续声明中称，这次短暂的行动不久后便结束，地面防空和雷达部队已恢复标准值班状态。</p>
-<p>司令部证实未发生领空侵犯事件，并表示武装部队保持警惕，继续监视边境局势以确保波兰领空安全。</p>
-<p>与此同时，俄罗斯国防部还声称其部队正在前线多个战线加速推进攻势，称今年占领的领土面积已超过5300平方公里（2046平方英里），其中仅9月份就夺取了670平方公里（259平方英里）。</p>
-<p>俄国防部还提到向扎波罗热方向稳步推进，并表示最激烈的战斗发生在通往克拉马托尔斯克-斯拉维扬斯克城市群的沿线。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-09-19 18:51 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Al</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Al Jazeera (半岛电视台官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ago-sidewalk-viral-video-ba7131f2464a6d50" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2651" data-content-paragraphs="28" data-published-at="2026-09-19T10:48:30.000Z" data-time-source="publication">
+<div id="story-ped-florida-1990-murders-4f3e15dfa02d5bbf" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2665" data-content-paragraphs="34" data-published-at="2026-09-19T14:22:33.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 18:48</span>
+  <span class="news-meta-time">🕒 2026-09-19 22:22</span>
 </div>
 
-### [网络热传视频显示：配送机器人成群拥堵芝加哥人行道](https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Delivery robots swarm Chicago sidewalk in viral video</div>
+### [盖恩斯维尔遗忘橄榄球的一周：揭秘1990年连环谋杀案笼罩下的佛罗里达恐慌](https://www.foxnews.com/outkick-sports/week-gainesville-forgot-football-inside-terror-gripped-florida-1990-murders)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The week Gainesville forgot about football: Inside the terror that gripped Florida during the 1990 murders</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Coco-Delivery-Photo-3.jpg?ve=1&amp;tl=1" alt="网络热传视频显示：配送机器人成群拥堵芝加哥人行道" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/university-florida-students-shotgun-protection.jpg?ve=1&amp;tl=1" alt="盖恩斯维尔遗忘橄榄球的一周：揭秘1990年连环谋杀案笼罩下的佛罗里达恐慌" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>你预料到芝加哥的街道上会出现交通拥堵，但你可能没想到人行道上也会堵车，而且还是由一群外卖配送机器人引起的。这正是跑步者贝卡·奥斯汀（Becca Ostien）在林肯公园附近所遭遇的场景。至少有十几台 Coco 配送机器人聚集在北克拉克街上，迫使她在看起来像微型机器人大堵塞的狭缝中穿行。</p>
-<p>这一离奇画面迅速在网络上传播开来。然而，在这段网络热传视频的背后，隐藏着一个关于越来越多配送机器人在美国各大城市穿梭所引发的更大问题：当旨在让配送更便捷的技术开始阻碍通行时，究竟会发生什么？</p>
-<p>最新！🩺 免费 CyberGuy 线上直播课：利用 AI 获得更好的医疗保健，美东时间9月26日周六上午11点 / 美西时间上午8点<br />库尔特·“CyberGuy”·克努特森（Kurt &quot;CyberGuy&quot; Knutsson）将向您展示 AI 如何帮助您整理健康病史、记住重要就诊细节、理解复杂的医疗信息、查询处方药并为医生准备更明智问题的五种实用方法。无需任何技术经验。<br />即刻前往 CyberGuyLive.com 锁定您的免费名额。</p>
-<p>优步外卖（UBER EATS）无人机配送可能很快送达您的家中</p>
-<p>奥斯汀经常经过林肯公园附近的区域。在最近一次晨间外出时，她遇到了挤在人行道上的一群 Coco 机器人。有些机器人似乎在尝试从机群中调头驶离，另一些则原地不动。</p>
-<p>奥斯汀将这些机器人的状态形容为“蜂拥成群”，并表示若脚步不够灵巧，通行会相当吃力。现场拍摄的视频显示，约有十几台机器人挤在狭窄的人行道上。随着它们在彼此之间打转却无路可走，身上的警示灯不停闪烁。</p>
-<p>这在社交媒体上可能几秒钟内看起来颇有趣味。但对于依赖无障碍步行通道的人而言，情况可能会严重得多。一名评论者将此场景描述为残障人士的“真正噩梦”。其他反馈也对使用轮椅或助行器的人士如何通过表示担忧。</p>
-<p>Coco Robotics 承认了该问题并致歉。在给 CyberGuy 的一份声明中，Coco 表示，一次“人行道部署错误”导致数台机器人在离开基站开始日常路线时同时重新规划路线。</p>
-<p>“我们的机器人并不是这样设计的，我们理解这所造成的干扰，”Coco 对 CyberGuy 表示。该公司表示其团队迅速发现并纠正了问题，在数分钟内疏散了机器人并使其恢复正常运转。</p>
-<p>“此后我们已解决了导致该情况的路线规划逻辑，并增加了防范措施以防止再次发生，”该公司称。Coco 称这种情况极为罕见，并表示在芝加哥运营的两年中，其已完成了数万次配送行程。</p>
-<p>该公司还估计，这些配送为消费者节省了约50万美元，创造了技术性车队维护岗位，并减少了机动车交通流量。</p>
-<p>机器狗可能为您的下一个包裹送货上门并附带广告</p>
-<p>林肯公园的这起拥堵事件并非孤立存在。配送机器人一直在通过一项试点项目在芝加哥运营，而这一推广举措此前已遭到部分居民的抵制。</p>
-<p>已有请愿书呼吁该市暂停该试点项目。此外，还曾有配送机器人与公交候车亭相撞的事故记录。</p>
-<p>这些事件解释了为何又一起在网络上疯传的机器人故障会迅速引发公众的不满情绪。这项技术带来了显而易见的便利：一台小型自动驾驶机器便可负责街区内短距离的外卖配送。</p>
-<p>然而，城市人行道上本就有限的空间早已竞争激烈。自动驾驶机器的加入引发了新问题：究竟应该为它们预留多少空间？当它们的导航系统失灵时又该如何应对？</p>
-<p>更大的问题在于行人的通行权。公共人行道必须满足不同行动能力人群的需求。成群的机器人可能会使轮椅或其它移动辅助设备使用者的通行道路变窄或完全受阻。盲人行人可能难以绕开意料之外的障碍物。推婴儿车的父母也可能面临相同的困扰。</p>
-<p>对于无法安全绕开机器人或无法离开人行道的人来说，暂时的阻碍可能演变成严重的障碍。Coco 表示，他们目前正通过与面向盲人和低视力群体的 GPS 应用程序 BlindSquare 合作，致力于改善无障碍通行环境。</p>
-<p>这项合作已在芝加哥及其他城市开展。据 Coco 介绍，其机器人会记录人行道上的危险隐患，例如倒伏的共享电动滑板车和损坏的人行道缘石斜坡。这些数据会同步至 BlindSquare，后者随后会以26种语言对前方约10米处的危险发出语音警报。</p>
-<p>Coco 表示，BlindSquare 用户还可以上报障碍物已被清除的情况，使公司能够实时更新路线地图。“专为在步行环境中穿行而建造的机器人，有责任为共享该空间的所有人改善这一环境，”Coco 告诉 CyberGuy。这种合作关系为围绕配送机器人的无障碍关切提供了重要的背景补充。</p>
-<p>然而，芝加哥的这次事件也凸显了这一挑战：机器人本身不能成为人行道上的新障碍。因此，随着这些车队的扩张，防止部署和路径规划出现故障显得尤为重要。</p>
-<p>配送机器人在公共场所变得越来越普遍。我们已经看到各家公司正将这些机器从大学校园推向杂货配送和繁忙的城市社区。这意味着更多人可能很快就会在普通的散步中遇到自动驾驶机器人。</p>
-<p>对于消费者而言，便利性依然是其最大吸引力。你订购午餐，机器人便沿着人行道送达。但各城市也必须决定这些机器应如何融入拥挤的步行空间。一个成功的系统必须照顾到那些无法轻松迈过停滞机器人或挤过狭窄缝隙的人群。芝加哥那个离奇的早晨，为我们生动地预演了这一挑战。</p>
-<p>如果 WAYMO 电脑系统瘫痪会发生什么？</p>
-<p>配送机器人可能会成为拥挤城市中运送食物和包裹的常规组成部分。我完全理解各家公司为何大力投资这一领域。它们可以使某些短途配送更快捷，并减少一辆行驶在路上的汽车。</p>
-<p>Coco 的回应补充了重要背景。该公司表示这只是一起罕见的路线规划故障，已经修复了背后的逻辑，并设立了新的安全保障。我也认为与 BlindSquare 的合作十分有意义，因为 Coco 的机器人本就在那些无障碍隐患极易引发严重问题的人行道上穿行。</p>
-<p>利用这些机器人来识别障碍物确实有其实用价值。但芝加哥的这起扎堆事件也表明，可靠性必须放在第一位。一个警告他人前方人行道受阻的机器人，绝不能成为阻挡人行道本身的障碍。随着更多此类机器出现在城市中，相关企业必须证明其安全机制在意外情况发生时能够发挥作用。人们在人行道上安全通行，不应被外卖机器挤压争夺空间。</p>
-<p>Coco公司的回应及其与BlindSquare的合作，是否会让您对送货机器人出现在您所在社区感到更加放心，还是您依然认为它们应该远离人行道？请在Cyberguy.com致信告诉我们。<br />版权所有 2026 CyberGuy.com。保留所有权利。</p></div>
+<div class="article-body" data-article-body="true"><p>在盖恩斯维尔，大学橄榄球赛季就是一切。</p>
+<p>这座小镇历来都围绕着佛罗里达短吻鳄队（Florida Gators）运转。盖恩斯维尔是一座大学城，围绕着佛罗里达大学而建。球队的起伏，牵动着整座小镇的脉搏。</p>
+<p>无意冒犯迈阿密大学和佛罗里达州立大学，但大多数人都会认为佛罗里达州是短吻鳄队的天下。是的，我知道这可能会惹恼一些人。请大家别在这点上纠结，姑且听我说下去。</p>
+<p>我想表达的是什么？在橄榄球赛季期间，生活中极少有事情能真正转移人们对短吻鳄队的关注——尤其是像史蒂夫·斯珀里尔（Steve Spurrier）这样的传奇人物即将回归，这一次是以主教练的身份挂帅执教。</p>
+<p>然而，1990年8月却打破了这一切。</p>
+<p>【播客社区如何帮助佛罗里达橄榄球队恢复备受争议的“短吻鳄诱饵”助威呐喊】</p>
+<p>“我记得在沃尔玛，排队买枪的队伍一直延伸到了走道里，”前佛罗里达大学学生埃里克·塔尔巴卡（Erik Tallbacka）本周对OutKick表示。“当飓风来袭时，你如果在家得宝（Home Depot）采购物资做准备，空气中就会有那种紧绷感，就像暴风雨将至。当时就是那种飓风来临前的感觉。”</p>
+<p>“但那并不是飓风要来，而是连续三个晚上，每天晚上都有人遇害。整个校园、整座小镇，都笼罩在那股清晰可感的‘大家同舟共济、共渡难关’的氛围中。”</p>
+<p>本周早些时候，我写过关于ESPN近期《30 for 30》栏目讲述丹尼·罗林（Danny Rolling，又被称为“盖恩斯维尔开膛手”）的报道。1990年8月，也就是在劳动节周末的前几天、新橄榄球赛季开始前约两周，罗林残忍杀害了五名大学生。</p>
+<p>罗林最终被捕，并对这几起谋杀案——以及在路易斯安那州什里夫波特犯下的数起凶杀案——表示认罪，随后被判处死刑。他于2006年被注射死刑。</p>
+<p>罗林被称为“盖恩斯维尔开膛手”。他毫无实际动机的疯狂杀戮催生了数本书籍和一部电影。编剧凯文·威廉姆森（Kevin Williamson）透露，恐怖电影系列《惊声尖叫》（Scream）的灵感就大致源自盖恩斯维尔连环谋杀案。</p>
+<p>因此，没错——36年过去了，那段臭名昭著的一周依然历历在目。经历过那样的事情，你怎么可能轻易忘记？</p>
+<p>周三我发表那篇文章后，收到了数十位读者的来信——他们中的大多数都是在罗林在逃期间身在校园的佛罗里达大学校友。</p>
+<p>他们所有人用到的同一个词就是：骇人听闻（Horrific）。</p>
+<p>“当你开车穿行在路上或公寓区时，人们都在窗户上装了铁撑条，以防有人撬窗而入，”杜安·恩格尔（Duane Engel）回忆道。“谁都不知道到底是谁干的。”</p>
+<p>【克雷格·卡顿秀——毫无滤镜、直言不讳、不容错过。立即下载他的每日播客！】</p>
+<p>当然，那时也没有社交媒体。那距离X平台（原推特）问世还有几十年。塔尔巴卡说，大家只能守着看晚间新闻以获取最新消息，那就是你能得到的一切信息来源。</p>
+<p>人人都处于极度紧绷的状态。</p>
+<p>“当你漫步在镇上和校园里，我记得，如果走进一家店，你会审视每一个人，觉得任何一个家伙都有可能是凶手，”他回忆说。“我们完全一无所知。晚上上床睡觉时，特别是到了第三天，已经发生了五起命案，我是说，那天晚上你会止不住想：会有人闯进我的公寓吗？”</p>
+<p>“所以睡觉变得特别诡异。我和几个男生住在一起，我女朋友和几个女生住在一起，我们就睡在她们那边。就像我刚才提到的，我们手头没有枪。我虽然是个打猎狂热者，但在大学里没带枪。于是我们拿来了高尔夫球杆和棒球棒，睡在沙发上。只要听到任何声响，比如车门砰的一声关上，神经就会瞬间高度紧绷。”</p>
+<p>斯珀里尔做出了一个著名的决定：允许球员的女友们留宿在永恩楼（Yon Hall）——这是整个橄榄球队所居住的高安保等级宿舍楼。</p>
+<p>马特·索维克（Matt Sovic）当时刚返校升入大四，在凶案开始发生的那个周末去参加了一个派对。他当时借住在威廉斯堡村（Williamsburg Village）的朋友家——也就是新生索尼娅·拉森（Sonja Larson）和克里斯蒂娜·鲍威尔（Christina Powell）所居住的同一个公寓区。</p>
+<p>“我当时把车直接停在了一楼四户单元的门正前方，那里正是第一批受害者居住的寓所，”他说。“周六晚上我们动身去参加派对时，我的老室友一坐进车里，就顺手把手里的啤酒罐扔出了我的车窗，掉在院子里。”</p>
+<p>“第二天，我们眼睁睁看着它被装进了证物袋。我可以向你保证，那个证物袋里的啤酒是一个高罐百威。当时还不知道发生了双重谋杀案，我们还开玩笑对朋友说，既然警方现在掌握了他的指纹，不管发生了啥事他都成嫌疑犯了。”</p>
+<p>罗林在8月24日至8月27日期间共杀害了五名学生。其中四名为棕发褐瞳的女性，特征与其母亲一致。</p>
+<p>第五名受害者是23岁的曼尼·塔博阿达（Manny Taboada）——一名身高6英尺2英寸（约188厘米）、体重200磅（约90公斤）的男性。</p>
+<p>“直到我们得知他杀害了那个在阿彻路（Archer）和大约第34街街角工作的高大男子，校园里所有人的自大傲慢才彻底破灭，”刚升入大四的凯文·莱蒂泽（Kevin Letize）回忆道。“在那起案子曝光之前，我们都以为这只是个典型的变态杀手。”</p>
+<p>“一旦那个高大强壮的男生遇害，所有自命不凡的‘硬汉’学生也都开始严阵以待了。”</p>
+<p>那么，橄榄球与这一切又是如何联系起来的呢？其实毫无联系——除了一点，它或许为小镇历史上最惊心动魄、恐慌万状的一周画上了一个急需的句号。</p>
+<p>经过反复磋商，佛罗里达大学和斯珀里尔率领的球队于9月8日迎战俄克拉荷马州立大学，揭开了新赛季的大幕。连环凶案已经停止，至少停息了几天，但许多学生当时已彻底撤离离开。留下来的人则竭尽全力试图重回某种正常生活。</p>
+<p>短吻鳄队以50比7大获全胜。谢恩·马修斯（Shane Matthews）一战成名、家喻户晓。斯珀里尔让佛罗里达橄榄球重获新生。更重要的是，这支球队让一座极度渴望微笑由头的小镇重新焕发生机。</p>
+<p>“我从未见过一个地方遭受如此恐慌的折磨，”格伦·萨默斯（Glenn Summers）说道。</p>
+<p>塔尔巴卡补充说：“我想当时每个人都像置身于迷雾之中。但我认为，到了那场比赛打响的时候，已经有一个多星期没人遇害了。回想起来，我确实认为，观看那场比赛让大家的生活重归正轨。不再只是去上课却发现停课了，或者连续三天每天晚上都有人惨遭杀害。”</p>
+<p>“随着一周的时间过去，随着那场橄榄球比赛的到来，我认为那正是大家终于能够松一口气的时刻。我认为那就是恐慌的终曲。”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-19 18:48 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-19 22:22 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -215,7 +114,41 @@ notice:
   <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/week-gainesville-forgot-football-inside-terror-gripped-florida-1990-murders" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-6-88ea-603b266fc8c4-html-6ccf4c4264d87333" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="542" data-content-paragraphs="1" data-published-at="2026-09-19T14:21:39.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-19 22:21</span>
+</div>
+
+### [意大利驻安卡拉大使馆举办反洗钱研讨会](https://www.ansa.it/english/news/news_from_embassies/2026/09/19/seminar-on-anti-money-laundering-organized-by-the-italian-embassy-in-ankara_e8a6ea1e-3ef6-43e6-88ea-603b266fc8c4.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Seminar on anti-money laundering organized by the Italian Embassy in Ankara</div>
+
+<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/19/d7dd80b92b0cf8b4cc69eba8d7c4340e.jpg" alt="意大利驻安卡拉大使馆举办反洗钱研讨会" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>（安莎社）- 伊斯坦布尔，9月19日 - 意大利与土耳其在反洗钱领域的经验交流成为在安卡拉举行的一场研讨会的焦点。该研讨会由意大利大使馆与土耳其财政部联合举办，共有200名与会者出席，其中包括土耳其政府官员、外交官以及来自20多个国家的专家。“我们在地中海地区是土耳其最大的贸易伙伴。我们正在加强双边经贸关系，这部分得益于外交部的出口计划，而在打击非法资金流动方面的合作是深化这一伙伴关系的极佳工具，”意大利驻土耳其大使朱塞佩·曼佐（Giuseppe Manzo）表示。他与土耳其财政部副部长伊尔汗·哈蒂波奥卢（Ilhan Hatipoglu）共同为研讨会揭幕。近几个月来，意大利的出口额录得显著增长（6月同比增长11.3%，7月同比增长6.6%），加强意大利与土耳其之间的经贸和投资往来也是副总理兼外交与国际合作部部长安东尼奥·塔亚尼（Antonio Tajani）昨日在罗马举行的会议的核心议题。作为使馆“Ideha26”系列活动的一部分，此次在安卡拉举行的研讨会还包括意大利央行金融情报局（UIF）局长恩佐·塞拉塔（Enzo Serata）以及土耳其对口机构金融犯罪调查委员会（MASAK）主席哈桑·卡伊马克（Hasan Kaymak）的发言，两位官员阐述了两种模式的具体特征。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-19 22:21 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#ANSA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.ansa.it/english/news/news_from_embassies/2026/09/19/seminar-on-anti-money-laundering-organized-by-the-italian-embassy-in-ankara_e8a6ea1e-3ef6-43e6-88ea-603b266fc8c4.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::
