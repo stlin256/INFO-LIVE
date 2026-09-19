@@ -1,5 +1,1573 @@
 [
   {
+    "timestamp": 1789816379180,
+    "timeDisplay": "2026-09-19 19:12 (UTC+8)",
+    "date": "2026-09-19",
+    "runId": "feed-20260919T111046774Z-z04dho",
+    "generatedAt": "2026-09-19T11:12:59.180Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 19:10",
+      "lead": "本轮抓取于 2026-09-19 19:10 (UTC+8) 完成，共获得 27 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】AI生成的活动海报不一定非要丑得千篇一律：一条如今广为人知的脸书（Facebook）帖子向我们展示了AI生成的千篇一律的海报所带来的灾难。 这里有一篇来自《独立报》（The Independent）关于该话题的文章。 这是我在现实中发现的另一个例子。在此向皇家利明顿温泉啤酒节（Leamington Beer Festival）致歉——他们绝非个例。 这些海报的问题并不完全在于它们设计得有多差。其实还行，我谈不上喜欢。核心问题在于，当你把同一种风格看过20次后，仅仅是那种纯粹的重",
+        "【undefined】OpenAI 如何利用自家大语言模型设计 Jalapeño 芯片：8月25日，OpenAI 正式发布了其首款人工智能加速芯片 Jalapeño。Jalapeño 提供高达 13.4 petaflops 的 4 位浮点计算能力，并可访问 232 GB 目前最先进的内存，连接带宽达到惊人的每秒 15.4 TB。OpenAI 引用的基准测试表明，与该公司目前依赖的英伟达 GB300 相比，Jalapeño 可将端到端延迟（从输入提示词到输出最后一个 token 的时间）降低多达 3.6 倍，同时功耗更低。",
+        "【undefined】尊敬的客户：去你的吧：一家前沿人工智能实验室带着一张金额足够庞大的支票登门，让“我们是否该出售用户数据？”这个问题变成了多此一举的反问。既不是“也许我们可以做匿名化和聚合处理”，也不是“仅在用户主动同意时才出售”。只有一句：这就是报价。这个数字足以终结公司内部的一切争论，并让法务团队开始起草“继续使用即视为接受”的条款表述。这个数字正是“老子不伺候了/爱谁谁（fuck-you money）”的全新定义。正因为拿到了这笔巨款，一家公司才会欣然接受该实验室的条件",
+        "【undefined】GPT-6 Astra 破译一战德国无线电密码：德国科学博客门户网站 Scienceblogs.de 曾列出一份较为著名的“50大未解密码”清单，其中包括从连环杀手发布的密码信到著名的伏尼契手稿等各类谜题。",
+        "【undefined】如果数学不仅是证明，我们就需要更好地赞赏它的其他部分：[这是格兰特·桑德森（Grant Sanderson）的一篇特邀博文。这篇博文最初以另一种文件格式撰写，并使用人工智能进行了格式转换。——T.]",
+        "【undefined】加比·佩蒂托遇害五年后，其母亲呼吁公众形成“涟漪效应”以协助寻找失踪人员：如果您或您认识的人是家庭暴力的受害者，请拨打全国家庭暴力求助热线：800-799-7233。",
+        "【undefined】马特维延科表示：俄罗斯每位选民的选票都将被计入：统一投票日正在如火如荼地进行中。",
+        "【undefined】俄罗斯在乌克兰致死8人，并袭击黑海两艘船只：乌克兰空军表示，俄罗斯在夜间向该国发射了数十架无人机和两枚反舰导弹。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章目录信息摘要",
+      "lead": "当前证据包未提供主文章标题、来源、正文或可核验引用，仅包含若干未翻译标题及零散摘要，无法形成完整的单篇新闻分析。",
+      "themes": [
+        {
+          "name": "古巴能源与供电危机",
+          "analysis": "摘要显示，古巴于9月18日再次发生大范围停电，这是年内第七次；相关背景包括严重燃料短缺及美国方面的压力。古巴政府据摘要称谴责相关举措并指责美国干涉，但证据包未提供具体来源和完整上下文。"
+        },
+        {
+          "name": "格陵兰安全与控制议题",
+          "analysis": "一则摘要称，美国总统特朗普表示相关协议将赋予美国对格陵兰安全及其他需求的“永久控制”，但丹麦官员尚未确认具体内容。由于缺少完整报道，无法判断协议性质及其实际进展。"
+        },
+        {
+          "name": "选举投票动态",
+          "analysis": "一则摘要提到，在实施戒严的12个地区，已有超过440万人提前投票。证据包未说明相关国家、选举名称、投票时间及数据来源，因此无法进一步分析其政治影响。"
+        },
+        {
+          "name": "其他社会文化与体育资讯",
+          "analysis": "目录还涉及戴安娜王妃1994年穿着的黑色礼服进行国际巡展，以及一场比赛的赛前预测、球队消息和首发阵容。但现有摘要不足以支持更深入的新闻判断。"
+        },
+        {
+          "name": "证据完整性限制",
+          "analysis": "主文章内容缺失，事实、引语、实体、冲突和引用字段均为空；相关文章标题仍处于待翻译状态，且未提供来源和链接。因此，本次输出仅限于对现有摘要的谨慎归纳，不对未提供的信息作推断。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 88,
+      "completedTasks": 88,
+      "succeeded": 73,
+      "degraded": 15,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 88,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 132344,
+      "byRole": {
+        "translator": {
+          "attempts": 60,
+          "degraded": 14,
+          "succeeded": 46
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 88,
+          "degraded": 15,
+          "succeeded": 73
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-22-translator-1",
+      "article-27-translator-0",
+      "article-41-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:28.460Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.035Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:28.471Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.046Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.157Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.234Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.188Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.285Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:30.123Z",
+        "lastSuccessAt": "2026-09-19T11:10:31.581Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:30.089Z",
+        "lastSuccessAt": "2026-09-19T11:10:31.399Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:31.528Z",
+        "lastSuccessAt": "2026-09-19T11:10:31.658Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:28.925Z",
+        "lastSuccessAt": "2026-09-19T11:10:28.970Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.285Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.523Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.274Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.586Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.108Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.256Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.076Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.424Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.035Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.108Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.046Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.127Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:31.206Z",
+        "lastSuccessAt": "2026-09-19T11:10:31.756Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:30.337Z",
+        "lastSuccessAt": "2026-09-19T11:10:31.759Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:31.012Z",
+        "lastSuccessAt": "2026-09-19T11:10:31.344Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.439Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.747Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.142Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.206Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.127Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.188Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:28.898Z",
+        "lastSuccessAt": "2026-09-19T11:10:28.924Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:27.961Z",
+        "lastSuccessAt": "2026-09-19T11:10:28.898Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.671Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.859Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.657Z",
+        "lastSuccessAt": "2026-09-19T11:10:30.089Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.467Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.671Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.667Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.903Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.903Z",
+        "lastSuccessAt": "2026-09-19T11:10:30.282Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.424Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.467Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:31.344Z",
+        "lastSuccessAt": "2026-09-19T11:10:34.015Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.735Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.968Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:30.016Z",
+        "lastSuccessAt": "2026-09-19T11:10:30.076Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.968Z",
+        "lastSuccessAt": "2026-09-19T11:10:30.016Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:30.076Z",
+        "lastSuccessAt": "2026-09-19T11:10:30.271Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:31.399Z",
+        "lastSuccessAt": "2026-09-19T11:10:31.528Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.206Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.274Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.444Z",
+        "lastSuccessAt": "2026-09-19T11:10:30.123Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.618Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.735Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:30.033Z",
+        "lastSuccessAt": "2026-09-19T11:10:30.137Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-19T11:10:29.859Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.784Z",
+        "lastSuccessAt": "2026-09-19T11:10:30.337Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:27.959Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.157Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-19T11:10:29.994Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:27.960Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.667Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:30.137Z",
+        "lastSuccessAt": "2026-09-19T11:10:32.285Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.586Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.657Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:28.970Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.076Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.747Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.784Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.523Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.618Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:30.271Z",
+        "lastSuccessAt": "2026-09-19T11:10:31.012Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:30.282Z",
+        "lastSuccessAt": "2026-09-19T11:10:31.206Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.256Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.444Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:29.234Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.439Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:27.944Z",
+        "lastSuccessAt": "2026-09-19T11:10:28.460Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:27.957Z",
+        "lastSuccessAt": "2026-09-19T11:10:28.471Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T11:10:27.958Z",
+        "lastSuccessAt": "2026-09-19T11:10:29.142Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-politics-2190063-7d05a9c622552124",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Over 4.6 mln people cast votes early in Russian election — CEC chief Pamfilova",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T11:08:48.000Z",
+        "pubTime": "2026-09-19 19:08",
+        "url": "https://tass.com/politics/2190063",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 19. /TASS/. More than 4.6 million people voted early in the elections across Russia, Central Election Commission (CEC) Chair Ella Pamfilova said.\n\n\"A total of 4,663.96 million people cast their votes ahead of the schedule on the territory of the Russian Federation,\" she said at a news briefing.\n\nShe added that over 4.4 million people cast their votes early in 12 regions with the martial law in place.\n\nThe single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20. For the first time ever, residents of the recently incorporated Donetsk and Lugansk People’s Republics, as well as the Kherson and Zaporozhye Regions, are participating in legislative elections for the lower house of the Russian parliament.\n\nA total of ten parties are taking part in the election: United Russia, the Communist Party of the Russian Federation (CPRF), the Liberal Democratic Party of the Russian Federation (LDPR), New People, A Just Russia - For Truth, the Party of Pensioners for Social Justice, the Communists of Russia, Rodina, the Party of Direct Democracy, as well as the Greens Ecological Party.\n\nElections for regional legislative bodies are also be held in 39 Russian constituent entities, alongside elections for regional leaders. In eight regions, the leaders will be elected directly, while in three regions, they will be chosen by the regional parliaments. A total of 23,000 seats will be filled.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯中央选举委员会主席埃拉·帕姆菲洛娃称，全俄罗斯有超过460万人提前参与了投票（具体为4,663.96千人/约466.396万人）。",
+          "帕姆菲洛娃表示，在实施戒严令的12个地区，有超过440万人提前进行了投票。",
+          "来源叙事重点：报道聚焦于俄罗斯选举的高投票率与顺利推进，特别是强调在戒严状态及新并入乌克兰东南部四地（顿涅茨克、卢甘斯克、赫尔松、扎波罗热）提前投票的广泛参与，突出展示多党参选的程序合法性与政治一体化进程。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T11:08:48.000Z",
+            "url": "https://tass.com/politics/2190063"
+          }
+        ]
+      },
+      {
+        "id": "story-07-ai-event-posters-html-b9c21ef0e3f58c4a",
+        "title": "AI生成的活动海报不一定非要丑得千篇一律",
+        "originalTitle": "AI-generated posters don’t have to be horrible",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T09:20:58.000Z",
+        "pubTime": "2026-09-19 17:20",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "imageUrl": null,
+        "fullContent": "A now famous Facebook post shows us the scourge of identikit posters generated by AI.\n\nHere’s an article on the subject from the Independent.\n\nHere’s another I found in the wild. With apologies for picking on the Leamington Beer Festival - they are by no means unique\n\nThe problem with these is not so much that they’re bad. They’re OK, I don’t love them. The problem is that once you’ve seen that style 20 times it starts to irritate just from the sheer repetition.\n\nI knew that even ChatGPT was capable of a broader variety of styles than this, so I set out to prove it.\n\nI gave ChatGPT some invented event details and asked it to produce a poster. Rather than go with the default look it would choose for a spring fayre, I made a point of specifying what I thought was a different style:\n\nProduce a poster for a spring fayre. 21 April - 11am to 3pm Mill Beach Park, Honeyford Free entry Tombola Cakes and drinks Performance by a samba band and a dhol band. Craft stalls Circus Skills workshop\n\nGo for a clean, unfussy, bright layout with a bold striking spring-themed graphic. Avoid pastel/airbrush/oil style art or images of people.\n\nThis is what came back.\n\nNot as successful as I hoped. To me it still feels like what I’m trying to avoid.\n\nI asked for something deliberately different.\n\nMake another one using a completely different design aesthetic of your choice. Treat the current one as a “what not to do” – not that there is anything wrong with it, but we want ours to stand out from other posters that look similar.\n\nI think this is already much better. It stands out just be being different. I wondered what I would call this style if I wanted to ask for it again?\n\nMe: What is this design style you’ve used called?\n\nChatGPT: This one is leaning into a modernist / Bauhaus-influenced graphic style, with a bit of contemporary “flat illustration” layered on top.\n\nMore specifically, you could describe it as:\n\nBauhaus / Modernist Poster Design\n\nGeometric Minimalism\n\nSwiss Style (International Typographic Style) influence\n\nIf you wanted a shorthand label for a designer or printer, you could call it:\n\n“Bauhaus-inspired geometric minimalist poster”\n\nIf you’re trying to stand out, this direction works well because most local event posters default to:\n\nWhereas this feels more like:\n\nIf you want, I can push it further into a really distinctive niche (e.g. brutalist, risograph, 90s rave flyer, Japanese minimal, etc.).\n\nWell, thanks GPT. I knew there was an endless array of design styles that it could produce. Instead of trying to dredge some names from my memory, I asked for suggestions.\n\nIt replied with a list of styles, some of which I’d never heard of, some I recognised but couldn’t picture, some which were names I didn’t know for styles I did.\n\nMe: Give me a list of styles to choose from\n\n🎨 Clean but Characterful\n\n1. Bauhaus / Modernist (What you just saw) Geometric shapes, primary colours, strong type Feels cultural / design-led rather than “craft fair”\n\n2. Swiss Style strict grid, lots of whitespace Black/white + one accent colour Very “information design”, almost institutional\n\n3. Contemporary Editorial (Magazine-style) Big headline, elegant serif + sans mix Think weekend supplement or gallery leaflet Could feel surprisingly premium for a fayre\n\n🌿 Graphic & Illustrative (but not twee)\n\n5. Cut Paper / Collage (Matisse-inspired) Inspired by Henri Matisse cut-outs Organic shapes, bold colour blocks Very striking from a distance\n\n6. Botanical Scientific Illustration (Modernised) Clean line drawings of plants, labelled or diagram-like Monochrome + one highlight colour Quietly distinctive, slightly academic\n\n⚡ Bold / Unusual Directions\n\n7. Brutalist Graphic Design Raw, high-contrast, almost “ugly on purpose” Heavy black blocks, stark type Feels rebellious—very different from typical village posters\n\n8. 90s Rave Flyer / Acid Graphics Neon colours, warped type, energetic layout Could echo the samba/dhol energy Surprisingly effective if done with restraint\n\n9. Memphis Design (80s Postmodern) Playful shapes, squiggles, clashing colours Inspired by Memphis Group Fun but still graphic and bold\n\n🧭 Quietly Distinct / Understated\n\n10. Japanese Minimal Poster Very restrained layout, lots of empty space One strong graphic element Elegant, calm, and unusual in this context\n\n11. Monochrome + Single Accent (Ultra-minimal) Black, white, and e.g. bright green or orange Typography-led, almost no illustration Relies on composition rather than decoration\n\n12. Wayfinding / Signage Style Looks like a park map or transport signage Icons, arrows, structured layout Functional but visually interesting\n\n🎪 Slightly Playful but Still Clean\n\n13. Modern Icon System Everything represented as simple icons Consistent stroke weight, grid-based Feels like an app UI or transport system\n\n14. Stamp / Letterpress Style (Modernised) Bold inked shapes, slight imperfections Limited palette, strong contrast Suggests “event” without being twee\n\n15. Festival Poster (Contemporary Indie) Big central graphic + stacked lineup text Borrow cues from music festivals Works nicely given the bands\n\nGiven your brief (“clean, unfussy, bold, no twee imagery”), the strongest stand-out options are:\n\nIf one of these clicks, I can generate a poster in that exact style—and push it properly, not just superficially.\n\nAsking for specific aesthetics produced a variety of posters.\n\nNow, I’m not claiming these don’t have a whiff of AI about them. I don’t think that’s really my goal - we can be honest that we’re using AI, we just don’t want it to have that look that everyone’s sick of.\n\nMe: Please give me Stamp / Letterpress Style (Modernised)\n\nMe: and now please Japanese Minimal Poster\n\nMe: Now do Memphis Design please\n\n(I didn’t know what Memphis Group design was, but I recognised if when I saw it.\n\nThen I got a bit silly. Designers Republic is a design agency famous for record covers from the late 80s onwards.\n\nMe: And now in the style of Designers Republic\n\nOne note here is that along the way, the poster has acquired extra text (“A day of music making and family fun”) – it’s decided that Designers Republic would have thrown in some text of that kind, so it’s come up with some words. Those words are now in the chat context, so they appear in subsequent posters.\n\nIf you were working from scratch, you’d just ask for the style you want in the first place, and avoid picking up trappings as you go.\n\nMe: Now as if a professional graphic designer has added typography to a poster paint drawing by his young child.\n\nMe: Now with the aesthetic of a photocopied 1980 punk fanzine. But with some colour snuck in.\n\nMe: Now please make one in the style of a 90s drum n bass gig flyer, with early 3D/fractal computer imagery\n\nBack to sensible ideas, naming an art style but asking for a poster that movement might have used, seems like a strong tactic.\n\nMe: Now in the style of a contemporary 40s poster for a cubist exhibition.\n\nSo there we are. The sharp-eyed are still going to recognise these as AI-generated, but they’re distinctive, and I think they’re not ugly.\n\nSo that’s the moral - you don’t have to make posters that look like everyone else’s.\n\nThere’s a further step - you don’t have to ask AI for posters as images that can’t be edited. Claude and Gemini can generate HTML, PNG, PDF, where the text is real text, layers are real layers, you can change fonts, move things around, edit the text – but that’s more than I want to talk about today.\n\nInspired by this blog post, I went on to make a catalogue of one hundred poster styles, with ready-to-paste prompts and example images for each one.",
+        "fullTranslation": "一条如今广为人知的脸书（Facebook）帖子向我们展示了AI生成的千篇一律的海报所带来的灾难。\n这里有一篇来自《独立报》（The Independent）关于该话题的文章。\n这是我在现实中发现的另一个例子。在此向皇家利明顿温泉啤酒节（Leamington Beer Festival）致歉——他们绝非个例。\n这些海报的问题并不完全在于它们设计得有多差。其实还行，我谈不上喜欢。核心问题在于，当你把同一种风格看过20次后，仅仅是那种纯粹的重复就足以让人感到烦躁。\n我知道即使是ChatGPT也有能力驾驭比这丰富得多的风格，所以我决定着手证明这一点。\n我给ChatGPT提供了一些虚构的活动详情，并让它生成一张海报。我没有采用它默认会为春季集市选择的视觉风格，而是特意指定了一种自认为与众不同的风格：\n“为春季集市制作一张海报。4月21日——上午11点至下午3点，米尔海滩公园，霍尼福德，免费入场，抽奖，蛋糕与饮品，桑巴乐队与印度多尔鼓（dhol）乐队表演，手工艺品摊位，马戏技能工作坊。\n追求干净、利落、明快的排版，配以醒目突出的春季主题图形。避免粉彩/喷笔/油画风格的艺术作品，也不要有真实的人物图像。”\n得到的结果是这样的。\n没有我想象中那么成功。对我来说，它感觉仍然像是我极力想要避开的那种东西。\n我要求尝试一些完全不同的风格：\n“由你选择一种完全不同的设计美学再做一张。将当前这张作为‘反面教材’——并不是说它有什么问题，而是我们希望自己的海报能从其他看起来相似的海报中脱颖而出。”\n我认为这一版已经好得多了。仅仅因为与众不同，它就显得格外突出。我在想，如果以后还想要这种风格，我该怎么称呼它？\n我：你使用的这种设计风格叫什么名字？\nChatGPT：这一款倾向于现代主义 / 受包豪斯风格影响的平面风格，并在其上叠加了一点当代的“扁平化插画”（flat illustration）。\n更具体地说，你可以将其描述为：\n包豪斯 / 现代主义海报设计\n几何极简主义\n受瑞士风格（国际主义平面设计风格）影响\n如果你想给设计师或印刷商一个简要的标签称呼，你可以称之为：\n“受包豪斯启发的几何极简主义海报”\n如果你试图脱颖而出，这个方向非常有效，因为大多数本地活动海报默认是：\n而这个感觉更像是：\n如果你愿意，我还可以进一步将其推向非常独特的小众风格（例如：粗野主义、孔版印刷 Risograph、90年代狂欢派对传单、日式极简等）。\n好吧，多谢GPT。我知道它可以生成无穷无尽的设计风格。与其费力去脑海中挖掘一些名称，我不如直接让它给我提建议。\n它回复了一份风格清单，其中有些我从未听说过，有些我认得但脑海中没有画面，还有一些是我见过但不知道名字的风格。\n我：给我一份可供选择的风格清单\n🎨 干净但富有个性\n1. 包豪斯 / 现代主义（正如你刚才看到的） 几何图形、三原色、强烈的排版字体 感觉具有文化感 / 设计驱动，而非普通的“手工艺集市”\n2. 瑞士风格 严格的网格、大量的留白 黑/白 + 一种点缀色 极具“信息设计”感，几乎带有体制/机构风格\n3. 当代社论风格（杂志风格） 大标题、优雅的衬线体与无衬线体混排 类似周末副刊或画廊宣传折页 可能会给集市带来出人意料的高级感\n🌿 图形与插画（但不做作矫情）\n5. 剪纸 / 拼贴（受马蒂斯启发） 灵感来自亨利·马蒂斯的剪纸 具象/有机形态、大胆的色块 远距离看非常醒目\n6. 植物学科学插画（现代化） 线条干净的植物线描图，带有标注或图解风格 单色 + 一种强调色 低调而独特，略带学术气息\n⚡ 大胆 / 不寻常的方向\n7. 粗野主义平面设计（Brutalist） 原始粗犷、高对比度、几乎是“故意做丑” 沉重的黑色色块、直白的字体排印 给人反叛叛逆之感——与典型的乡村海报截然不同\n8. 90年代狂欢派对（Rave）传单 / 迷幻图形（Acid Graphics） 霓虹色彩、扭曲变形的字体、充满活力的排版布局 可以呼应桑巴/多尔鼓的能量 如果克制得当，效果会出奇地好\n9. 孟菲斯设计（80年代后现代风格） 趣味十足的几何图形、波浪涂鸦线、撞色 灵感来自孟菲斯集团 趣味横生但仍保持图形感与大胆视觉\n🧭 低调独特 / 克制内敛\n10. 日式极简海报 极其克制的排版，大量留白 单一强烈的图形元素 优雅、平静，在此类情境中显得很不寻常\n11. 单色 + 单一强调色（超极简） 黑、白，加上例如亮绿或橙色 以文字排版为主导，几乎没有插画 依靠构图而非装饰\n12. 导向标识 / 路标风格 看起来像公园地图或交通路标 图标、箭头、结构化的布局 具备功能性且视觉上引人入胜\n🎪 略带趣味但依然干净\n13. 现代图标系统 所有内容均以简单图标呈现 一致的描边粗细，基于网格构建 感觉像应用程序的UI或交通系统\n14. 印章 / 凸版印刷风格（现代化） 大胆的油墨印痕形态、轻微的不完美感 极其有限的配色方案，强烈的对比 传达出“活动”氛围而不显俗套\n15. 音乐节海报（当代独立音乐风格） 居中的大型图形元素 + 层叠排列的演出阵容文字 借鉴音乐节的视觉语言 鉴于有乐队表演，这种风格非常契合\n鉴于你的需求简报（“干净、利落、大胆、无俗套图像”），最突出的亮眼选择是：\n如果其中某一项符合心意，我完全可以按照那一特定风格生成海报——并且是真正深入到位，而不仅仅是停留在表面。\n指定具体的美学风格后，生成了各种各样的海报。\n现在，我并不是说这些海报完全没有AI的味道。我不认为那是我的目标——我们可以坦然承认我们在使用AI，我们只是不想让它带有那种让所有人都看腻了的千篇一律的外观。\n我：请给我制作“印章 / 凸版印刷风格（现代化）”\n我：现在请来一张“日式极简海报”\n我：现在请做“孟菲斯设计”\n（我以前不知道什么是孟菲斯集团的设计，但当我看到它时就认出来了。）\n接着我开始变得有点爱玩了。Designers Republic 是一家因自80年代末起设计唱片封面而闻名的设计机构。\n我：现在来一张 Designers Republic 风格的\n这里需要说明一点，在这个过程中，海报多出了一些额外文字（“音乐创作与家庭同乐的一天”）——AI认为 Designers Republic 可能会加上诸如此类的文案，所以它自作主张编了一些话。这些字词现在留在了聊天上下文中，因此也出现在了后续的海报中。\n如果是从零开始制作，你一开始直接指定你想要的风格即可，免得沿途拾取不必要的包袱。\n我：现在仿照专业平面设计师给自家年幼孩子的水粉画添加排版字体的风格。\n我：现在换成1980年代复印朋克自制刊物（fanzine）的美学风格。不过要悄悄融入一点色彩。\n我：现在请来一张90年代鼓打贝斯（drum n bass）演出传单风格的海报，带有早期3D/分形计算机图像。\n回到更正经的想法上：指明一种艺术流派，但要求制作一张该流派运动可能采用过的海报，似乎是一个非常有效的策略。\n我：现在以40年代立体主义展览现代海报的风格来做。\n\n事情就是这样。眼尖的人依然能看出这些是 AI 生成的，但它们独具特色，而且我认为它们并不难看。\n\n这就是其中的启示——你完全没必要制作出那种千篇一律、与他人别无二致的海报。\n\n还有更进一步的思路——你不必非要让 AI 生成无法进行二次编辑的图片海报。Claude 和 Gemini 能够生成 HTML、PNG、PDF，在这些格式中，文字是真正的可编辑文本，图层也是真正的图层，你可以自由更改字体、挪动元素排版、修改文本——但这已经超出了我今天想要展开讨论的范畴。\n\n受这篇博文的启发，我随后整理了一份包含 100 种海报风格的目录，每种风格都配有可直接复制粘贴的提示词以及示例图片。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 67,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "作者通过输入虚构的春季集市活动细节测试 ChatGPT 生成海报的能力，旨在探索并证明其能突破千篇一律的 AI 默认风格。",
+          "ChatGPT 提供了包括包豪斯/现代主义、瑞士风格、当代社论、剪纸/拼贴、植物科学插画、粗野主义图形设计、90年代锐舞传单、孟菲斯设计、日式极简海报等在内的多种设计风格建议。",
+          "来源叙事重点：探讨并展示如何通过具象化的艺术风格提示词（如包豪斯、孟菲斯、粗野主义等）引导 AI 生成跳脱出千篇一律、陈词滥调模版的活动海报，论证 AI 生成设计不必然低质与同质化。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T09:20:58.000Z",
+            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+          }
+        ]
+      },
+      {
+        "id": "story-lowdown-but-how-d8347418-915520a55cd4b25c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T11:00:00.000Z",
+        "pubTime": "2026-09-19 19:00",
+        "url": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Tech giants are attempting to unite on AI safety, but they’re clashing over how an actual slowdown would work",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-19 19:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-19T11:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-llms-for-chip-design-3e1dd1f8d6770e09",
+        "title": "OpenAI 如何利用自家大语言模型设计 Jalapeño 芯片",
+        "originalTitle": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T09:52:30.000Z",
+        "pubTime": "2026-09-19 17:52",
+        "url": "https://spectrum.ieee.org/llms-for-chip-design",
+        "imageUrl": null,
+        "fullContent": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6 times when compared to Nvidia’s GB300—a chip the company currently relies on—and do so while consuming less power.\n\nThat’s a rapid timeline, yet experts believe it could soon look slow as LLMs improve and become more deeply integrated into chip design tools. OpenAI, unsurprisingly, is bullish about the opportunities. “The models are giving superpowers to our engineers,” says Richard Ho, vice president of hardware at OpenAI. “Our engineers are still driving the work. They’re still the final arbiter of what’s going on. But they can do things a lot faster. They can explore a lot more paths.”\n\nHo says the group that designed Jalapeño averaged fewer than 100 people over the course of the project and continues to stand at roughly 100 today as the team pursues second and third-generation designs. That number includes a broad swath of roles across the hardware team, from system design to software and supply chain, but not those at Broadcom, which partnered with OpenAI on the project.\n\nThe division of labor between OpenAI and Broadcom was generally split between design and implementation. OpenAI’s team was responsible for end-to-end system design including the inference accelerator, the memory hierarchy, and networking. Broadcom handled “physical design from the gates onward,” Ho says.The partnership with Broadcom dampened some opinions on OpenAI’s speed. David Chin, co-founder at agentic chip design startup Verkor.io, says “the schedule they gave us is quite credible,” but believes that Broadcom’s help was essential to Jalapeño’s rapid timeline. “If you have somebody else start from scratch, it won’t be possible,” he says. Ravi Krishna, also a co-founder at Verkor, called OpenAI’s speed “a relatively impressive result,” but added that he expects that improvements in the capabilities of LLMs could result in even quicker timelines if the project started today.\n\nAndrew Kahng, distinguished professor at the University of California, San Diego, also found OpenAI’s speed notable, saying it’s “likely best in class today.” Kahng recalls a 2016 IEEE Design Automation Futures workshop, which he co-organized. The workshop included Richard Ho, at the time an engineer at Google, as a keynote speaker. Ho had strong opinions on design automation and framed the time required to complete a chip’s design as a function of the number of iterations a team could complete in a day.\n\n“Automation itself has existed in chip design for many decades. It’s not a new problem,” says Ankur Srivastava, director of semiconductor initiative and innovation at the University of Maryland, in College Park. Where LLMs differ from prior automation tools, however, is their ability to understand language and code. He says this makes them particularly suited for chip design tasks that “are still in the linguistic domain of the problem.”\n\nThe team at OpenAI designed a workflow that takes advantage of this strength. OpenAI’s front-end workflow was built around Accelerated Hardware Synthesis (XLS), an open-source high-level synthesis chain of tools originally developed at Google. High-level synthesis is a form of chip design automation that allows engineers to design a chip in a more familiar programming environment. In the case of XLS, chip designers can write in languages such as DSLX (a domain-specific language inspired by Rust) and C++. XLS then converts these to Verilog, a hardware description language used to describe electronic systems.\n\n“We were thinking about how to leverage AI to make the project faster, and the AI was much better at software-looking things,” says Chris Leary, member of technical staff at OpenAI. “XLS in some ways looks like software, so it got that benefit.” It helped, too, that Leary was extremely familiar with how XLS should function, as he started it during his time at Google.\n\nKahng agrees that the decision to use AI to accelerate high-level synthesis, such as XLS, makes sense, as it’s “more natural for the LLM to work with” and provides the opportunity for fast iteration. “I see this as a generally useful workflow, and it’s one that ‘has legs’ going into the future,” he says.\n\nThe same logic led the Jalapeño team to focus on software optimization. When the first chips came back from the foundry in May, the team pointed its internal AI models at designing software to run benchmarks such as SemiAnalysis’s InferenceX. On DeepSeek’s multi-head latent attention kernel benchmark, performance climbed from 0.31 percent of the theoretical ceiling (set by the chip’s compute and memory bandwidth) to 88.94 percent in roughly 40 hours. Ho says this result is repeatable, so the time between when foundries deliver the first chips and when production ramps up can be reduced. “All our schedule assumptions are going to be based on the fact we have this capability now,” he says.\n\nJalapeño is designed for deployment in pods that include 2,048 chips.OpenAI\n\nWhile the broad strokes of the Jalapeño teams’ AI-assisted workflow were guessed by Ho and Leary up front, improvements in OpenAI’s models did offer a few surprises.\n\nLeary says that the project began with assistance from models like OpenAI’s o3, which was released to the public in April of 2025 (but available to the Jalapeño team earlier). By the time the project had wrapped up, however, the team had access to models that were precursors to GPT-6 Astra, which wasn’t publicly released until 3 September 2026. The newer model can work directly in Verilog without needing XLS’s translation from ordinary programming languages, and it’s close to being able to operate proprietary design tools on its own, Leary says.\n\nHo also confirmed that the team had access to internal LLMs fine-tuned for chip design that are not available to the public. He declined to detail the models used. However, he added that the Jalapeño team partnered with OpenAI’s research team. While not all specific models used to design Jalapeño are publicly available, Ho says the goal is to bring lessons learned from the project into the company’s commercial LLMs. “It’s safe to say that Astra and following models will be very good at chip design,” he says.\n\nAs mentioned, the bulk of OpenAI’s work on Jalapeño focused on the “front end” of chip design, which spans the tasks that take a chip from initial concept, through writing RTL code to define the design, and through verification that the design will work when physically implemented. Much of the “backend” design—which includes tasks like routing interconnects, completing and verifying the clock and power specifications, and sending the required design information to the foundry—was handed off to Broadcom, which carried the chip through production.\n\nThat’s not to say OpenAI’s workflow ignored the backend, though. The Jalapeño team includes physical design engineers who work with their counterparts at Broadcom to provide guidance on the chip’s floor plan and routing, among other things.At IEEE Hot Chips 2026, Ho and Leary put numbers on the gains from AI-guided physical design optimization, including an area reduction of 10 percent for the matrix multiplication units as measured against an optimized human baseline. In other words, OpenAI claims AI-guided optimization helped design more circuits into the same area of silicon than would have been possible before.\n\nBroadcom used its own internal workflow. The company’s team did not have access to the internal models OpenAI used to help design Jalapeño, but it did have access to OpenAI’s public, commercial models.\n\nVerkor’s Ravi Krishna says that OpenAI’s approach to backend design already feels a bit conservative. He believes that to be an artifact of when the project, which began in October of 2024, took place. “The models from the last four to five months have improved. From April [2026] onwards…is when they really started to be able to handle those tasks better,” he says. Verkor co-founder Suresh Krishna agreed, saying “there’s no reason you couldn’t have an agentic loop that largely accelerates the backend of the process as well.”\n\nHo and Leary also hinted that the workflow used to design Jalapeño may look old-fashioned compared to the team’s next efforts.\n\n“As you can imagine with [Jalapeño], we were trying to go as fast as we could. So there’s a trade-off between ‘do we want to take time to do some innovation, or do we want to do things that we know work historically?’” Leary says. “With the second generation, we have a kind of reset opportunity to ask about all the things we want to get set up for.”\n\nHo says the second-generation chip’s workflow has “a lot of places that we are introducing [AI].” He mentions opportunities to do more with AI in verification and physical design. Leary adds that the team now has tools for automatic waveform manipulation and viewing. This automates analysis to identify chip clock signals associated with failures and could improve debugging the hardware while it’s still being designed. Despite these expected improvements, Ho and Leary were clear that they don’t believe chip design can be fully automated. “We’re not saying that anyone can come and just build state-of-the-art, frontier AI/ML accelerator chips using just [OpenAI’s coding platform] Codex,” Ho explains. “We are saying some very specific things about how to be better at Codex and how we are focusing on a small team and fast timelines to reach quality results.”",
+        "fullTranslation": "8月25日，OpenAI 正式发布了其首款人工智能加速芯片 Jalapeño。Jalapeño 提供高达 13.4 petaflops 的 4 位浮点计算能力，并可访问 232 GB 目前最先进的内存，连接带宽达到惊人的每秒 15.4 TB。OpenAI 引用的基准测试表明，与该公司目前依赖的英伟达 GB300 相比，Jalapeño 可将端到端延迟（从输入提示词到输出最后一个 token 的时间）降低多达 3.6 倍，同时功耗更低。\n\n这是一个极其迅速的时间线，但专家们认为，随着大语言模型（LLM）的进步以及它们更深度地融入芯片设计工具，这一速度可能很快就会显得平淡无奇。不出所料，OpenAI 对这些机遇持乐观态度。“这些模型赋予了我们工程师超能力，”OpenAI 硬件副总裁理查德·何（Richard Ho）表示，“我们的工程师依然主导着各项工作。他们依然是最终决断者。但他们能够以快得多的速度完成任务，探索更多路径。”\n\n何表示，在整个项目期间，设计 Jalapeño 的团队平均人数不足 100 人，随着团队着手推进第二代和第三代设计，目前该团队规模依然维持在约 100 人。这一数字涵盖了硬件团队内的广泛职能，从系统设计到软件和供应链，但不包括与 OpenAI 在该项目上开展合作的博通（Broadcom）人员。\n\nOpenAI 与博通之间的分工大致划分为设计与落地实现两部分。OpenAI 团队负责端到端系统设计，包括推理加速器、存储层次结构和网络。何表示，博通负责“门电路及之后的物理设计”。与博通的合作削弱了外界对 OpenAI 研发速度的一些赞誉。智能芯片设计初创公司 Verkor.io 联合创始人戴维·秦（David Chin）表示，“他们给出的时间表相当可信”，但他认为博通的帮助对 Jalapeño 的快速交付至关重要。“如果让别人从零开始，这是不可能做到的，”他说。Verkor 另一位联合创始人拉维·克里希纳（Ravi Krishna）称 OpenAI 的速度是“一个相对令人印象深刻的结果”，但补充道，如果项目从今天启动，大模型能力的提升有望实现更短的研发周期。\n\n加利福尼亚大学圣迭戈分校特聘教授安德鲁·康（Andrew Kahng）也认为 OpenAI 的研发速度引人注目，称其“目前很可能是同类中最优秀的”。康回忆起 2016 年他共同组织的 IEEE 设计自动化未来研讨会。当时在谷歌任工程师的理查德·何是研讨会的主旨演讲嘉宾之一。何对设计自动化持有鲜明见解，将完成芯片设计所需的时间定义为团队一天内能够完成迭代次数的函数。\n\n“芯片设计中的自动化本身已经存在数十年了。这并非一个新课题，”马里兰大学帕克分校半导体计划与创新总监安库尔·斯里瓦斯塔瓦（Ankur Srivastava）说道。然而，大语言模型与以往自动化工具的不同之处在于其理解语言和代码的能力。他表示，这使得它们尤其适合那些“仍处于问题语言学范畴”的芯片设计任务。\n\nOpenAI 团队设计了一套充分利用这一优势的工作流程。OpenAI 的前端工作流围绕加速硬件综合（XLS）构建，这是一套最初由谷歌开发的开源高级综合工具链。高级综合是一种芯片设计自动化形式，允许工程师在更为熟悉的编程环境中设计芯片。在 XLS 的案例中，芯片设计师可以用诸如 DSLX（一种受 Rust 启发而开发的领域专用语言）和 C++ 等语言编写代码。随后，XLS 会将这些代码转换为 Verilog——一种用于描述电子系统的硬件描述语言。\n\n“我们当时在思考如何利用 AI 让项目跑得更快，而 AI 在处理类似软件的内容时表现要好得多，”OpenAI 技术团队成员克里斯·利里（Chris Leary）表示，“XLS 在某些方面看起来就像软件，因此吃到了这一红利。”利里对 XLS 的运行机制极为熟悉也带来了帮助，因为该项目正是他在谷歌工作期间主导发起的。\n\n康认同利用 AI 加速高级综合（如 XLS）的决策是合理的，因为这对大语言模型来说“处理起来更自然”，并提供了快速迭代的机会。“我认为这是一种普遍有用的工作流，而且在未来‘大有可为’，”他说。\n\n同样的逻辑也促使 Jalapeño 团队将重心放在软件优化上。当首批芯片于 5 月从晶圆代工厂送回时，团队运用其内部 AI 模型来设计运行诸如 SemiAnalysis 的 InferenceX 等基准测试所需的软件。在 DeepSeek 的多头潜在注意力（multi-head latent attention）内核基准测试中，其性能在大约 40 小时内从理论上限（由芯片的算力和内存带宽决定）的 0.31% 跃升至 88.94%。何表示这一结果是可复现的，因此晶圆厂交付首批芯片到产能爬坡之间的时间可以大幅缩短。“我们所有关于进度的假设都将建立在如今已具备这一能力的基础之上，”他说。\n\nJalapeño 旨在以包含 2,048 颗芯片的计算单元组（pods）进行部署。OpenAI\n\n尽管 Jalapeño 团队 AI 辅助工作流程的大致框架早在前期就被何和利里预见到了，但 OpenAI 模型的持续进步确实带来了一些惊喜。\n\n利里表示，该项目最初是在 OpenAI 的 o3 等模型的协助下启动的，o3 于 2025 年 4 月公开发布（但 Jalapeño 团队较早便已获得使用权）。然而，到项目收尾时，团队已能接触到作为 GPT-6 Astra 前身的原型模型，而 Astra 直到 2026 年 9 月 3 日才公开发布。利里透露，这一更新的模型可以直接在 Verilog 层面开展工作，无需 XLS 将普通编程语言进行转换，而且它已接近能够自主操作专有设计工具的水平。\n\n何还证实，该团队获得了未经公开、专门针对芯片设计进行微调的内部大语言模型的使用权限。他拒绝详细透露所用模型的具体细节。不过，他补充道，Jalapeño 团队与 OpenAI 研究团队展开了密切合作。尽管并非所有用于设计 Jalapeño 的特定模型都已公开，但何表示，其目标是将从该项目中汲取的经验融入公司的商业化大模型中。“可以肯定地说，Astra 以及后续模型将在芯片设计方面表现得极为出色，”他说。\n\n如前所述，OpenAI在Jalapeño芯片上的大部分工作都集中在芯片设计的“前端”，涵盖了将芯片从最初概念构想、编写定义设计的RTL（寄存器传输级）代码，再到验证设计在实际物理实现时能否正常运行的各项任务。而“后端”设计的很大一部分——包括互连布线、完成并验证时钟和电源规范，以及将所需的设计信息交付给晶圆代工厂等任务——则交给了博通（Broadcom），由其负责推进该芯片的生产制造。\n\n不过，这并不意味着OpenAI的工作流程完全忽略了后端。Jalapeño团队拥有物理设计工程师，他们与博通的同行合作，就芯片的布局规划（floor plan）和布线等方面提供指导。在IEEE Hot Chips 2026大会上，Ho和Leary量化了AI引导物理设计优化所带来的收益，包括与经过优化的人工基准相比，矩阵乘法单元的面积缩小了10%。换句话说，OpenAI声称AI引导的优化帮助他们在相同硅片面积上集成比以往更多的电路。\n\n博通采用了自己的内部工作流程。该公司的团队无法访问OpenAI用来辅助设计Jalapeño的内部模型，但他们可以使用OpenAI公开的商用模型。\n\nVerkor的Ravi Krishna表示，OpenAI在后端设计上的做法如今看来略显保守。他认为这是由于该项目启动于2024年10月这一时间背景所致。“过去四到五个月的模型已经有所改进。从[2026年]4月起……它们才真正开始能够更好地处理这些任务，”他说道。Verkor联合创始人Suresh Krishna表示赞同，并称“完全没有理由不能建立一个智能体循环（agentic loop），在很大程度上同样加速后端流程。”\n\nHo和Leary还暗示，与团队接下来的工作相比，用于设计Jalapeño的工作流程可能显得有些过时。\n\n“正如你可以想象的那样，在[Jalapeño]项目中，我们试图以最快速度推进。因此在‘我们是想花时间做一些创新，还是想做那些以往已知行之有效的事情？’之间存在权衡，”Leary表示，“到了第二代，我们有了一次重新审视的机会，可以考量我们想要筹备的所有事情。”\n\nHo表示，第二代芯片的工作流程在“很多环节都引入了[AI]”。他提到在验证和物理设计中利用AI进行更多探索的机会。Leary补充道，团队现在拥有用于自动化波形操作和查看的工具。这实现了分析自动化，用以识别与故障相关的芯片时钟信号，并能在硬件仍处于设计阶段时改进调试工作。尽管有这些预期的改进，Ho和Leary明确表示，他们并不认为芯片设计可以完全自动化。“我们并不是说任何人只要使用[OpenAI的代码编写平台]Codex，就能凭空打造出最先进的前沿AI/机器学习加速芯片，”Ho解释道，“我们谈论的是一些非常具体的方法，即如何更好地运用Codex，以及我们如何依靠精干团队在紧凑的时间线内达成高质量成果。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "OpenAI于2026年8月25日正式发布了其首款AI加速芯片Jalapeño。",
+          "Jalapeño芯片可提供高达13.4 Petaflops的4位计算能力，支持访问232 GB内存，互连带宽达15.4 TB/s。",
+          "来源叙事重点：详细拆解OpenAI如何利用自研大语言模型与开源工具链（XLS）在极小团队规模下完成首款AI芯片Jalapeño的前端设计，并剖析大模型与博通代工分工对缩短芯片研发周期的实际效能与局限性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T09:52:30.000Z",
+            "url": "https://spectrum.ieee.org/llms-for-chip-design"
+          }
+        ]
+      },
+      {
+        "id": "story-te-cosmic-icy-moons-html-51027c76385d44f8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Scientists simulate cosmic crashes to test whether icy moons gain or lose their ability to sustain life",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T11:00:06.000Z",
+        "pubTime": "2026-09-19 19:00",
+        "url": "https://phys.org/news/2026-09-scientists-simulate-cosmic-icy-moons.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-simulate-co.jpg",
+        "fullContent": "Many of the moons orbiting Saturn, Uranus and Neptune likely conceal oceans of liquid water beneath miles of icy shell. Because life as we know it needs water, these buried oceans rank among the most promising places to search for life beyond Earth.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 19:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-scientists-simulate-cosmic-icy-moons.html",
+            "publishedAt": "2026-09-19T11:00:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-19-vrach-2118747457-html-5521347bfb2551fb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Врач рассказал, как поддержать иммунитет осенью",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T11:07:49.000Z",
+        "pubTime": "2026-09-19 19:07",
+        "url": "https://ria.ru/20260919/vrach-2118747457.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/02/03/2071871164_0:9:3072:1737_650x0_80_0_0_65cd3ea99a846605ad73e5f759d9b6d4.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 19:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/vrach-2118747457.html",
+            "publishedAt": "2026-09-19T11:07:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-749fd8829ea7d85b",
+        "title": "尊敬的客户：去你的吧",
+        "originalTitle": "Dear Customer, Fuck You",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T08:58:34.000Z",
+        "pubTime": "2026-09-19 16:58",
+        "url": "https://fuck-off.ai/",
+        "imageUrl": null,
+        "fullContent": "A frontier AI lab showed up with a check large enough to make the question \"should we sell our users' data?\" feel rhetorical. Not \"maybe we can anonymize and aggregate.\" Not \"only if users opt in.\" Just: here is the number. The number at which the internal debate ends and the legal team starts drafting the \"continued use constitutes acceptance\" language. That number is the new definition of fuck-you money. It is the amount required for a company to accept the lab's terms and then turn around and tell you that if you object, you can fuck off.\n\nThis is not rare. It has become routine. Developer platforms, consumer apps, productivity tools, and social services have been quietly rewriting the same clause for a couple of years. Free and lower-tier users are often opted in by default. Paid tiers sometimes get a slightly softer default or a self-serve toggle. Enterprise gets the polished contract language that says \"we won't train on your data\" while the consumer side of the same company does the opposite. Opt-outs exist in many places, but they are usually account-level, non-retroactive, and full of exceptions for \"safety,\" \"feedback,\" and \"already-trained models.\" Data that already went into a previous training run does not come back out.\n\nThe public licensing market gives a rough sense of the scale of the checks involved. Multi-year deals in the tens to low hundreds of millions of dollars for high-value content sources are no longer surprising. Most of the money never reaches the people who actually generated the data. It reaches the platforms that sit between the users and the labs. The ToS update is simply the mechanism that turns your ordinary use of a product into a licensable asset.\n\nThe legal form is familiar: notice plus continued use. Clickwrap for the original agreement, then passive acceptance for the expansion. Courts often uphold it when the notice is clear enough. Regulators have warned that quietly expanding prior privacy promises can cross into unfair or deceptive territory, but the updates keep coming. The practical effect is the same in almost every case. The company keeps the data rights. You keep the product, or you leave.\n\nSo the email you receive is accurate, if incomplete. We found our price. The lab found our price. You are now being informed of the transaction after the fact, with the traditional customer-service flourish: if you disagree, cancel.",
+        "fullTranslation": "一家前沿人工智能实验室带着一张金额足够庞大的支票登门，让“我们是否该出售用户数据？”这个问题变成了多此一举的反问。既不是“也许我们可以做匿名化和聚合处理”，也不是“仅在用户主动同意时才出售”。只有一句：这就是报价。这个数字足以终结公司内部的一切争论，并让法务团队开始起草“继续使用即视为接受”的条款表述。这个数字正是“老子不伺候了/爱谁谁（fuck-you money）”的全新定义。正因为拿到了这笔巨款，一家公司才会欣然接受该实验室的条件，转过头来通知你：如果你有异议，那就滚蛋。\n\n这种情况绝非罕见，早已成为行业惯例。开发者平台、消费级应用、生产力工具以及社交服务平台，两三年间一直在悄然重写同一类条款。免费和低阶层级的用户往往被默认勾选同意。付费层级有时能享受稍显温和的默认设置，或是提供一个自助开关。企业级客户则能拿到措辞考究的合同条款，承诺“我们绝不会用您的数据进行训练”——与此同时，同一家公司的消费端产品却在背道而驰。退出机制（opt-out）在不少地方确实存在，但它们通常局限于账户级别、不具备追溯效力，并且充斥着针对“安全”、“反馈”以及“已训练模型”的种种豁免。已经进入往期训练轮次的数据，绝无可能被剔除收回。\n\n公开的内容授权市场大致展现了涉及支票金额的庞大规模。对于高价值内容源而言，数千万至上亿美元不等的多年期交易早已屡见不鲜。而这笔巨款绝大多数从未流入真正生成数据的用户手中，而是落入了横亘在用户与前沿实验室之间的平台口袋。服务条款（ToS）的更新，不过是将你对产品的日常使用转化为可授权变现资产的机制罢了。\n\n其法律形式大家早已司空见惯：发出通知加继续使用。最初签署协议时采用点击确认（Clickwrap），其后扩张权限时则采用被动接受。只要通知足够明确，法庭往往会予以支持。监管机构曾发出警告，指出悄悄扩大原先的隐私承诺可能会越界构成不公平或欺骗性行为，但条款更新依然接踵而至。其产生的实际结果在几乎所有案例中都如出一辙：公司牢牢保留数据权利；你要么继续用这个产品，要么直接走人。\n\n因此，你收到的那封通知邮件纵然语焉不详，却也是句句属实。我们找到了我们的心理价位，实验室也接受了这一报价。而你如今只是在事后被告知了这笔交易，并附带一句典型的客服式套话修饰：如果您不同意，请注销账号。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "高价值内容来源的多年度数据许可交易规模达到数千万至数亿美元低位已屡见不鲜。",
+          "开发者平台、消费级应用、生产力工具及社交服务在过去几年中持续修改用户协议条款，将用户数据转为许可资产。",
+          "来源叙事重点：揭批前沿AI实验室以数千万至数亿美元的天价资金诱使各类软件平台违背隐私承诺，通过单方面修改服务条款（ToS）和被动接受机制，将普通用户产生的数据低成本打包变现，并将用户置于“要么接受被用于训练、要么离开”的不对称权力困境"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T08:58:34.000Z",
+            "url": "https://fuck-off.ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-4-4208-a789-ffa864b43666-38701d43e7dcee06",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI chatbots give wrong answers to financial queries ‘most of the time’",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T04:49:57.000Z",
+        "pubTime": "2026-09-19 12:49",
+        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F55ab023f-71c0-4ffb-8eaa-9befa8dc11b8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Report finds some chatbots ignored upcoming tax changes and hallucinated rules",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-19 12:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+            "publishedAt": "2026-09-19T04:49:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lds-crimes-minister-says-13394caeb9b08727",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Parents in England and Wales could be fined or jailed for child’s crimes, minister says",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T09:14:02.000Z",
+        "pubTime": "2026-09-19 17:14",
+        "url": "https://www.theguardian.com/society/2026/sep/19/parents-in-england-and-wales-could-be-fined-or-jailed-for-childs-crimes-minister-says",
+        "imageUrl": "https://i.guim.co.uk/img/media/f212e148133ad7d92131e74cbce0513b2e8e9fac/1065_0_2236_1790/master/2236.jpg?width=140&quality=85&auto=format&fit=max&s=f383358a3061f02af1317cb118fbfcc4",
+        "fullContent": "Jake Richards says changes would be part of ‘carrot-and-stick’ approach to try to turn around young offenders\n\nParents whose children commit crimes could lose their benefits, face fines and even be jailed, a minister has said.\n\nJake Richards said the youth justice system “should hold parents to account in a proportionate way for ensuring that they play their role in keeping communities safe”.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "一名部长表示，如果孩子犯罪，英格兰和威尔士的父母可能会失去福利、面临罚款甚至入狱。",
+          "Jake Richards 表示相关调整是“胡萝卜加大棒”方式的一部分，旨在促使青少年犯罪者改过自新。",
+          "来源叙事重点：聚焦英格兰与威尔士官员提出的青少年司法改革新动向，重点突出‘父母可能因子女犯罪面临剥夺福利、罚款甚至监禁’的惩罚性政策提议，以及官方主张的‘胡萝卜加大棒’式家庭责任追究机制"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T09:14:02.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/19/parents-in-england-and-wales-could-be-fined-or-jailed-for-childs-crimes-minister-says"
+          }
+        ]
+      },
+      {
+        "id": "story--child-school-peers-html-cb1993f5964201b4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Kids involved with child protective services miss much more school than their peers",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T11:00:04.000Z",
+        "pubTime": "2026-09-19 19:00",
+        "url": "https://phys.org/news/2026-09-kids-involved-child-school-peers.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2022/school-1.jpg",
+        "fullContent": "Across the country, kids are settling into new school-year routines. Parents buy backpacks, teachers arrange desks and lesson plans, and friends reconnect. But in recent years, empty chairs are becoming a more common sight—especially in classrooms where students are already facing the most adversity.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 19:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-kids-involved-child-school-peers.html",
+            "publishedAt": "2026-09-19T11:00:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0919-uik-2118747163-html-5776eb0ce16f9b7b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Орловской области членов УИК отстранили после инцидента с 250 бюллетенями",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T11:05:47.000Z",
+        "pubTime": "2026-09-19 19:05",
+        "url": "https://ria.ru/20260919/uik-2118747163.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/12/2118389823_0:147:3118:1901_650x0_80_0_0_aff6e2751c96b383cd34d712999718e2.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 19:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/uik-2118747163.html",
+            "publishedAt": "2026-09-19T11:05:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-olves-a-wwi-german-radio-caa03cc38739079c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T06:41:44.000Z",
+        "pubTime": "2026-09-19 14:41",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "imageUrl": null,
+        "fullContent": "Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.\n\nAmong these ciphers is a set of German radio messages from World War I that were encoded using the ADFGVX method.\n\nThis method is illustrated by the following example using the word “HOUSE” as the key:\n\nAs you can see, ADFGVX is used both horizontally and vertically to give each “cell” in the table a value. For example, in this text, “AA” corresponds to the letter H, “AD” corresponds to the letter O, “DA” corresponds to the letter B, and so on. And so, the word “PRINZ” would be encoded as:\n\nUsing an encryption word other than “HOUSE” would result in a completely different table.\n\nThere is a list of known keys used by the Germans to encrypt these radio.messages, and hundreds of these messages have already been decoded, including by codebreaking expert George Lasry. Still, over a dozen have thus far eluded efforts to solve them, including (to my knowledge) this one, originally transmitted on November 27, 1918 (pg. 217):\n\nGPT-6 Astra solved this cipher, and believes that the original message was as follows:\n\nThe model used “TRUPPENVERSCHIEBUNG” as the encryption word, as described on pgs. 214-215 of J. Rives Childs's “The History and Principles of German Military Ciphers, 1914–1918”. This encryption word yields the following table:\n\nBefore even using this table, the word “TRUPPENVERSCHIEBUNG” is required to be rearranged, so that the letters in the word are in an alphabetical order (e.g., T is 16th and R is 13th).\n\nThen, the same “TRUPPENVERSCHIEBUNG” is written out horizontally, with letters from the encrypted message written under it, in rows of 19 (resulting in 8 rows of 19 symbols each, plus 1 row of 18 symbols, since there are 170 characters total). This also means that we have 18 columns with 9 symbols each and 1 column with 8 symbols (column “G”). From here, because T is the 16th column, it has 14 9-symbol columns before it, plus 1 8-symbol G column; 9×14 + 1×8 = 134, so “T” will correspond to the following, 135th, symbols in the message, which is “A”. Similarly, the next letter, “R”, corresponds to the letter “V” (because R is the 13th letter alphabetically and thus has 11×9 + 1×8 = 107 symbols before it; the 108th symbol in the message is “V”).\n\nIn the table above, “AV” corresponds to “E”, the first letter in “EIN”. We repeat this process until we decode the entire message.\n\nAstra's hypothesis for why this particular message was previously unsolved is that “TRUPPENVERSCHIEBUNG” was used as the key starting on December 9, 1918 - whereas, as noted above, this message was transmitted earlier, on November 27, 1918. The reason for this discrepancy is unknown.\n\nAstra felt compelled to check its work and found that, in fact, the English cruiser HMS Canterbury arrived in Sevastopol on November 24, 1918, based on its original logs:\n\n… and an allied squadron did follow on November 26 (see right below line 11, which says that an allied squadron arrived):\n\nI am not aware of this particular message having ever been decoded before, so sharing it here as a minor (but I think really cool) result and illustration of the capabilities of this model.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "德国科学博客门户网站 Scienceblogs.de 曾列出一份包含 50 个未解密密码的著名清单，其中包括一组一战期间采用 ADFGVX 方法加密的德国无线电信息。",
+          "密码破译专家 George Lasry 等人已破译了数百条一战德国无线电信息，但仍有十几条此前未被破解，其中包括一条 1918 年 11 月 27 日发送的密文。",
+          "来源叙事重点：展示大语言模型（GPT-6 Astra）在复杂历史密码破译与交叉历史文献核验上的推理能力，强调其成功破解了此前未解的一战德军 ADFGVX 密文"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T06:41:44.000Z",
+            "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+          }
+        ]
+      },
+      {
+        "id": "story-5-495c-a907-a5217d589f9d-fd6d5a37b7e43d6d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Unpacking the real fiscal costs of immigration",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T04:00:34.000Z",
+        "pubTime": "2026-09-19 12:00",
+        "url": "https://www.ft.com/content/124c1cf0-4885-495c-a907-a5217d589f9d?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F27460663-1206-4645-a8ba-baeac11394b1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Low taxes on low earners mean the same immigrants cost the UK more than they would elsewhere",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-19 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/124c1cf0-4885-495c-a907-a5217d589f9d?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-19T04:00:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rature-biases-shift-html-c99adab92cd23210",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Sea surface temperature biases shift the North Pacific jet stream southward, study finds",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T09:50:01.000Z",
+        "pubTime": "2026-09-19 17:50",
+        "url": "https://phys.org/news/2026-09-sea-surface-temperature-biases-shift.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-surface-temperatur.jpg",
+        "fullContent": "Climate models are numerical models used to project future climate change. They simulate the climate from the present into the future by calculating changes in the atmosphere, ocean and other components of the climate system. However, simulations of the present-day climate do not perfectly reproduce observations and contain various biases. The model characteristics that cause these biases can also affect simulations of the future climate. Understanding the causes and impacts of present-day climate biases is therefore important for improving the reliability of future climate projections.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 17:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-sea-surface-temperature-biases-shift.html",
+            "publishedAt": "2026-09-19T09:50:01.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-politics-2190063-7d05a9c622552124",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Over 4.6 mln people cast votes early in Russian election — CEC chief Pamfilova",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T11:08:48.000Z",
+        "pubTime": "2026-09-19 19:08",
+        "url": "https://tass.com/politics/2190063",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 19. /TASS/. More than 4.6 million people voted early in the elections across Russia, Central Election Commission (CEC) Chair Ella Pamfilova said.\n\n\"A total of 4,663.96 million people cast their votes ahead of the schedule on the territory of the Russian Federation,\" she said at a news briefing.\n\nShe added that over 4.4 million people cast their votes early in 12 regions with the martial law in place.\n\nThe single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20. For the first time ever, residents of the recently incorporated Donetsk and Lugansk People’s Republics, as well as the Kherson and Zaporozhye Regions, are participating in legislative elections for the lower house of the Russian parliament.\n\nA total of ten parties are taking part in the election: United Russia, the Communist Party of the Russian Federation (CPRF), the Liberal Democratic Party of the Russian Federation (LDPR), New People, A Just Russia - For Truth, the Party of Pensioners for Social Justice, the Communists of Russia, Rodina, the Party of Direct Democracy, as well as the Greens Ecological Party.\n\nElections for regional legislative bodies are also be held in 39 Russian constituent entities, alongside elections for regional leaders. In eight regions, the leaders will be elected directly, while in three regions, they will be chosen by the regional parliaments. A total of 23,000 seats will be filled.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯中央选举委员会主席埃拉·帕姆菲洛娃称，全俄罗斯有超过460万人提前参与了投票（具体为4,663.96千人/约466.396万人）。",
+          "帕姆菲洛娃表示，在实施戒严令的12个地区，有超过440万人提前进行了投票。",
+          "来源叙事重点：报道聚焦于俄罗斯选举的高投票率与顺利推进，特别是强调在戒严状态及新并入乌克兰东南部四地（顿涅茨克、卢甘斯克、赫尔松、扎波罗热）提前投票的广泛参与，突出展示多党参选的程序合法性与政治一体化进程。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T11:08:48.000Z",
+            "url": "https://tass.com/politics/2190063"
+          }
+        ]
+      },
+      {
+        "id": "story-07-ai-event-posters-html-b9c21ef0e3f58c4a",
+        "title": "AI生成的活动海报不一定非要丑得千篇一律",
+        "originalTitle": "AI-generated posters don’t have to be horrible",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T09:20:58.000Z",
+        "pubTime": "2026-09-19 17:20",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "imageUrl": null,
+        "fullContent": "A now famous Facebook post shows us the scourge of identikit posters generated by AI.\n\nHere’s an article on the subject from the Independent.\n\nHere’s another I found in the wild. With apologies for picking on the Leamington Beer Festival - they are by no means unique\n\nThe problem with these is not so much that they’re bad. They’re OK, I don’t love them. The problem is that once you’ve seen that style 20 times it starts to irritate just from the sheer repetition.\n\nI knew that even ChatGPT was capable of a broader variety of styles than this, so I set out to prove it.\n\nI gave ChatGPT some invented event details and asked it to produce a poster. Rather than go with the default look it would choose for a spring fayre, I made a point of specifying what I thought was a different style:\n\nProduce a poster for a spring fayre. 21 April - 11am to 3pm Mill Beach Park, Honeyford Free entry Tombola Cakes and drinks Performance by a samba band and a dhol band. Craft stalls Circus Skills workshop\n\nGo for a clean, unfussy, bright layout with a bold striking spring-themed graphic. Avoid pastel/airbrush/oil style art or images of people.\n\nThis is what came back.\n\nNot as successful as I hoped. To me it still feels like what I’m trying to avoid.\n\nI asked for something deliberately different.\n\nMake another one using a completely different design aesthetic of your choice. Treat the current one as a “what not to do” – not that there is anything wrong with it, but we want ours to stand out from other posters that look similar.\n\nI think this is already much better. It stands out just be being different. I wondered what I would call this style if I wanted to ask for it again?\n\nMe: What is this design style you’ve used called?\n\nChatGPT: This one is leaning into a modernist / Bauhaus-influenced graphic style, with a bit of contemporary “flat illustration” layered on top.\n\nMore specifically, you could describe it as:\n\nBauhaus / Modernist Poster Design\n\nGeometric Minimalism\n\nSwiss Style (International Typographic Style) influence\n\nIf you wanted a shorthand label for a designer or printer, you could call it:\n\n“Bauhaus-inspired geometric minimalist poster”\n\nIf you’re trying to stand out, this direction works well because most local event posters default to:\n\nWhereas this feels more like:\n\nIf you want, I can push it further into a really distinctive niche (e.g. brutalist, risograph, 90s rave flyer, Japanese minimal, etc.).\n\nWell, thanks GPT. I knew there was an endless array of design styles that it could produce. Instead of trying to dredge some names from my memory, I asked for suggestions.\n\nIt replied with a list of styles, some of which I’d never heard of, some I recognised but couldn’t picture, some which were names I didn’t know for styles I did.\n\nMe: Give me a list of styles to choose from\n\n🎨 Clean but Characterful\n\n1. Bauhaus / Modernist (What you just saw) Geometric shapes, primary colours, strong type Feels cultural / design-led rather than “craft fair”\n\n2. Swiss Style strict grid, lots of whitespace Black/white + one accent colour Very “information design”, almost institutional\n\n3. Contemporary Editorial (Magazine-style) Big headline, elegant serif + sans mix Think weekend supplement or gallery leaflet Could feel surprisingly premium for a fayre\n\n🌿 Graphic & Illustrative (but not twee)\n\n5. Cut Paper / Collage (Matisse-inspired) Inspired by Henri Matisse cut-outs Organic shapes, bold colour blocks Very striking from a distance\n\n6. Botanical Scientific Illustration (Modernised) Clean line drawings of plants, labelled or diagram-like Monochrome + one highlight colour Quietly distinctive, slightly academic\n\n⚡ Bold / Unusual Directions\n\n7. Brutalist Graphic Design Raw, high-contrast, almost “ugly on purpose” Heavy black blocks, stark type Feels rebellious—very different from typical village posters\n\n8. 90s Rave Flyer / Acid Graphics Neon colours, warped type, energetic layout Could echo the samba/dhol energy Surprisingly effective if done with restraint\n\n9. Memphis Design (80s Postmodern) Playful shapes, squiggles, clashing colours Inspired by Memphis Group Fun but still graphic and bold\n\n🧭 Quietly Distinct / Understated\n\n10. Japanese Minimal Poster Very restrained layout, lots of empty space One strong graphic element Elegant, calm, and unusual in this context\n\n11. Monochrome + Single Accent (Ultra-minimal) Black, white, and e.g. bright green or orange Typography-led, almost no illustration Relies on composition rather than decoration\n\n12. Wayfinding / Signage Style Looks like a park map or transport signage Icons, arrows, structured layout Functional but visually interesting\n\n🎪 Slightly Playful but Still Clean\n\n13. Modern Icon System Everything represented as simple icons Consistent stroke weight, grid-based Feels like an app UI or transport system\n\n14. Stamp / Letterpress Style (Modernised) Bold inked shapes, slight imperfections Limited palette, strong contrast Suggests “event” without being twee\n\n15. Festival Poster (Contemporary Indie) Big central graphic + stacked lineup text Borrow cues from music festivals Works nicely given the bands\n\nGiven your brief (“clean, unfussy, bold, no twee imagery”), the strongest stand-out options are:\n\nIf one of these clicks, I can generate a poster in that exact style—and push it properly, not just superficially.\n\nAsking for specific aesthetics produced a variety of posters.\n\nNow, I’m not claiming these don’t have a whiff of AI about them. I don’t think that’s really my goal - we can be honest that we’re using AI, we just don’t want it to have that look that everyone’s sick of.\n\nMe: Please give me Stamp / Letterpress Style (Modernised)\n\nMe: and now please Japanese Minimal Poster\n\nMe: Now do Memphis Design please\n\n(I didn’t know what Memphis Group design was, but I recognised if when I saw it.\n\nThen I got a bit silly. Designers Republic is a design agency famous for record covers from the late 80s onwards.\n\nMe: And now in the style of Designers Republic\n\nOne note here is that along the way, the poster has acquired extra text (“A day of music making and family fun”) – it’s decided that Designers Republic would have thrown in some text of that kind, so it’s come up with some words. Those words are now in the chat context, so they appear in subsequent posters.\n\nIf you were working from scratch, you’d just ask for the style you want in the first place, and avoid picking up trappings as you go.\n\nMe: Now as if a professional graphic designer has added typography to a poster paint drawing by his young child.\n\nMe: Now with the aesthetic of a photocopied 1980 punk fanzine. But with some colour snuck in.\n\nMe: Now please make one in the style of a 90s drum n bass gig flyer, with early 3D/fractal computer imagery\n\nBack to sensible ideas, naming an art style but asking for a poster that movement might have used, seems like a strong tactic.\n\nMe: Now in the style of a contemporary 40s poster for a cubist exhibition.\n\nSo there we are. The sharp-eyed are still going to recognise these as AI-generated, but they’re distinctive, and I think they’re not ugly.\n\nSo that’s the moral - you don’t have to make posters that look like everyone else’s.\n\nThere’s a further step - you don’t have to ask AI for posters as images that can’t be edited. Claude and Gemini can generate HTML, PNG, PDF, where the text is real text, layers are real layers, you can change fonts, move things around, edit the text – but that’s more than I want to talk about today.\n\nInspired by this blog post, I went on to make a catalogue of one hundred poster styles, with ready-to-paste prompts and example images for each one.",
+        "fullTranslation": "一条如今广为人知的脸书（Facebook）帖子向我们展示了AI生成的千篇一律的海报所带来的灾难。\n这里有一篇来自《独立报》（The Independent）关于该话题的文章。\n这是我在现实中发现的另一个例子。在此向皇家利明顿温泉啤酒节（Leamington Beer Festival）致歉——他们绝非个例。\n这些海报的问题并不完全在于它们设计得有多差。其实还行，我谈不上喜欢。核心问题在于，当你把同一种风格看过20次后，仅仅是那种纯粹的重复就足以让人感到烦躁。\n我知道即使是ChatGPT也有能力驾驭比这丰富得多的风格，所以我决定着手证明这一点。\n我给ChatGPT提供了一些虚构的活动详情，并让它生成一张海报。我没有采用它默认会为春季集市选择的视觉风格，而是特意指定了一种自认为与众不同的风格：\n“为春季集市制作一张海报。4月21日——上午11点至下午3点，米尔海滩公园，霍尼福德，免费入场，抽奖，蛋糕与饮品，桑巴乐队与印度多尔鼓（dhol）乐队表演，手工艺品摊位，马戏技能工作坊。\n追求干净、利落、明快的排版，配以醒目突出的春季主题图形。避免粉彩/喷笔/油画风格的艺术作品，也不要有真实的人物图像。”\n得到的结果是这样的。\n没有我想象中那么成功。对我来说，它感觉仍然像是我极力想要避开的那种东西。\n我要求尝试一些完全不同的风格：\n“由你选择一种完全不同的设计美学再做一张。将当前这张作为‘反面教材’——并不是说它有什么问题，而是我们希望自己的海报能从其他看起来相似的海报中脱颖而出。”\n我认为这一版已经好得多了。仅仅因为与众不同，它就显得格外突出。我在想，如果以后还想要这种风格，我该怎么称呼它？\n我：你使用的这种设计风格叫什么名字？\nChatGPT：这一款倾向于现代主义 / 受包豪斯风格影响的平面风格，并在其上叠加了一点当代的“扁平化插画”（flat illustration）。\n更具体地说，你可以将其描述为：\n包豪斯 / 现代主义海报设计\n几何极简主义\n受瑞士风格（国际主义平面设计风格）影响\n如果你想给设计师或印刷商一个简要的标签称呼，你可以称之为：\n“受包豪斯启发的几何极简主义海报”\n如果你试图脱颖而出，这个方向非常有效，因为大多数本地活动海报默认是：\n而这个感觉更像是：\n如果你愿意，我还可以进一步将其推向非常独特的小众风格（例如：粗野主义、孔版印刷 Risograph、90年代狂欢派对传单、日式极简等）。\n好吧，多谢GPT。我知道它可以生成无穷无尽的设计风格。与其费力去脑海中挖掘一些名称，我不如直接让它给我提建议。\n它回复了一份风格清单，其中有些我从未听说过，有些我认得但脑海中没有画面，还有一些是我见过但不知道名字的风格。\n我：给我一份可供选择的风格清单\n🎨 干净但富有个性\n1. 包豪斯 / 现代主义（正如你刚才看到的） 几何图形、三原色、强烈的排版字体 感觉具有文化感 / 设计驱动，而非普通的“手工艺集市”\n2. 瑞士风格 严格的网格、大量的留白 黑/白 + 一种点缀色 极具“信息设计”感，几乎带有体制/机构风格\n3. 当代社论风格（杂志风格） 大标题、优雅的衬线体与无衬线体混排 类似周末副刊或画廊宣传折页 可能会给集市带来出人意料的高级感\n🌿 图形与插画（但不做作矫情）\n5. 剪纸 / 拼贴（受马蒂斯启发） 灵感来自亨利·马蒂斯的剪纸 具象/有机形态、大胆的色块 远距离看非常醒目\n6. 植物学科学插画（现代化） 线条干净的植物线描图，带有标注或图解风格 单色 + 一种强调色 低调而独特，略带学术气息\n⚡ 大胆 / 不寻常的方向\n7. 粗野主义平面设计（Brutalist） 原始粗犷、高对比度、几乎是“故意做丑” 沉重的黑色色块、直白的字体排印 给人反叛叛逆之感——与典型的乡村海报截然不同\n8. 90年代狂欢派对（Rave）传单 / 迷幻图形（Acid Graphics） 霓虹色彩、扭曲变形的字体、充满活力的排版布局 可以呼应桑巴/多尔鼓的能量 如果克制得当，效果会出奇地好\n9. 孟菲斯设计（80年代后现代风格） 趣味十足的几何图形、波浪涂鸦线、撞色 灵感来自孟菲斯集团 趣味横生但仍保持图形感与大胆视觉\n🧭 低调独特 / 克制内敛\n10. 日式极简海报 极其克制的排版，大量留白 单一强烈的图形元素 优雅、平静，在此类情境中显得很不寻常\n11. 单色 + 单一强调色（超极简） 黑、白，加上例如亮绿或橙色 以文字排版为主导，几乎没有插画 依靠构图而非装饰\n12. 导向标识 / 路标风格 看起来像公园地图或交通路标 图标、箭头、结构化的布局 具备功能性且视觉上引人入胜\n🎪 略带趣味但依然干净\n13. 现代图标系统 所有内容均以简单图标呈现 一致的描边粗细，基于网格构建 感觉像应用程序的UI或交通系统\n14. 印章 / 凸版印刷风格（现代化） 大胆的油墨印痕形态、轻微的不完美感 极其有限的配色方案，强烈的对比 传达出“活动”氛围而不显俗套\n15. 音乐节海报（当代独立音乐风格） 居中的大型图形元素 + 层叠排列的演出阵容文字 借鉴音乐节的视觉语言 鉴于有乐队表演，这种风格非常契合\n鉴于你的需求简报（“干净、利落、大胆、无俗套图像”），最突出的亮眼选择是：\n如果其中某一项符合心意，我完全可以按照那一特定风格生成海报——并且是真正深入到位，而不仅仅是停留在表面。\n指定具体的美学风格后，生成了各种各样的海报。\n现在，我并不是说这些海报完全没有AI的味道。我不认为那是我的目标——我们可以坦然承认我们在使用AI，我们只是不想让它带有那种让所有人都看腻了的千篇一律的外观。\n我：请给我制作“印章 / 凸版印刷风格（现代化）”\n我：现在请来一张“日式极简海报”\n我：现在请做“孟菲斯设计”\n（我以前不知道什么是孟菲斯集团的设计，但当我看到它时就认出来了。）\n接着我开始变得有点爱玩了。Designers Republic 是一家因自80年代末起设计唱片封面而闻名的设计机构。\n我：现在来一张 Designers Republic 风格的\n这里需要说明一点，在这个过程中，海报多出了一些额外文字（“音乐创作与家庭同乐的一天”）——AI认为 Designers Republic 可能会加上诸如此类的文案，所以它自作主张编了一些话。这些字词现在留在了聊天上下文中，因此也出现在了后续的海报中。\n如果是从零开始制作，你一开始直接指定你想要的风格即可，免得沿途拾取不必要的包袱。\n我：现在仿照专业平面设计师给自家年幼孩子的水粉画添加排版字体的风格。\n我：现在换成1980年代复印朋克自制刊物（fanzine）的美学风格。不过要悄悄融入一点色彩。\n我：现在请来一张90年代鼓打贝斯（drum n bass）演出传单风格的海报，带有早期3D/分形计算机图像。\n回到更正经的想法上：指明一种艺术流派，但要求制作一张该流派运动可能采用过的海报，似乎是一个非常有效的策略。\n我：现在以40年代立体主义展览现代海报的风格来做。\n\n事情就是这样。眼尖的人依然能看出这些是 AI 生成的，但它们独具特色，而且我认为它们并不难看。\n\n这就是其中的启示——你完全没必要制作出那种千篇一律、与他人别无二致的海报。\n\n还有更进一步的思路——你不必非要让 AI 生成无法进行二次编辑的图片海报。Claude 和 Gemini 能够生成 HTML、PNG、PDF，在这些格式中，文字是真正的可编辑文本，图层也是真正的图层，你可以自由更改字体、挪动元素排版、修改文本——但这已经超出了我今天想要展开讨论的范畴。\n\n受这篇博文的启发，我随后整理了一份包含 100 种海报风格的目录，每种风格都配有可直接复制粘贴的提示词以及示例图片。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 67,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "作者通过输入虚构的春季集市活动细节测试 ChatGPT 生成海报的能力，旨在探索并证明其能突破千篇一律的 AI 默认风格。",
+          "ChatGPT 提供了包括包豪斯/现代主义、瑞士风格、当代社论、剪纸/拼贴、植物科学插画、粗野主义图形设计、90年代锐舞传单、孟菲斯设计、日式极简海报等在内的多种设计风格建议。",
+          "来源叙事重点：探讨并展示如何通过具象化的艺术风格提示词（如包豪斯、孟菲斯、粗野主义等）引导 AI 生成跳脱出千篇一律、陈词滥调模版的活动海报，论证 AI 生成设计不必然低质与同质化。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T09:20:58.000Z",
+            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html"
+          }
+        ]
+      },
+      {
+        "id": "story-lowdown-but-how-d8347418-915520a55cd4b25c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T11:00:00.000Z",
+        "pubTime": "2026-09-19 19:00",
+        "url": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Tech giants are attempting to unite on AI safety, but they’re clashing over how an actual slowdown would work",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-19 19:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-19T11:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-llms-for-chip-design-3e1dd1f8d6770e09",
+        "title": "OpenAI 如何利用自家大语言模型设计 Jalapeño 芯片",
+        "originalTitle": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T09:52:30.000Z",
+        "pubTime": "2026-09-19 17:52",
+        "url": "https://spectrum.ieee.org/llms-for-chip-design",
+        "imageUrl": null,
+        "fullContent": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6 times when compared to Nvidia’s GB300—a chip the company currently relies on—and do so while consuming less power.\n\nThat’s a rapid timeline, yet experts believe it could soon look slow as LLMs improve and become more deeply integrated into chip design tools. OpenAI, unsurprisingly, is bullish about the opportunities. “The models are giving superpowers to our engineers,” says Richard Ho, vice president of hardware at OpenAI. “Our engineers are still driving the work. They’re still the final arbiter of what’s going on. But they can do things a lot faster. They can explore a lot more paths.”\n\nHo says the group that designed Jalapeño averaged fewer than 100 people over the course of the project and continues to stand at roughly 100 today as the team pursues second and third-generation designs. That number includes a broad swath of roles across the hardware team, from system design to software and supply chain, but not those at Broadcom, which partnered with OpenAI on the project.\n\nThe division of labor between OpenAI and Broadcom was generally split between design and implementation. OpenAI’s team was responsible for end-to-end system design including the inference accelerator, the memory hierarchy, and networking. Broadcom handled “physical design from the gates onward,” Ho says.The partnership with Broadcom dampened some opinions on OpenAI’s speed. David Chin, co-founder at agentic chip design startup Verkor.io, says “the schedule they gave us is quite credible,” but believes that Broadcom’s help was essential to Jalapeño’s rapid timeline. “If you have somebody else start from scratch, it won’t be possible,” he says. Ravi Krishna, also a co-founder at Verkor, called OpenAI’s speed “a relatively impressive result,” but added that he expects that improvements in the capabilities of LLMs could result in even quicker timelines if the project started today.\n\nAndrew Kahng, distinguished professor at the University of California, San Diego, also found OpenAI’s speed notable, saying it’s “likely best in class today.” Kahng recalls a 2016 IEEE Design Automation Futures workshop, which he co-organized. The workshop included Richard Ho, at the time an engineer at Google, as a keynote speaker. Ho had strong opinions on design automation and framed the time required to complete a chip’s design as a function of the number of iterations a team could complete in a day.\n\n“Automation itself has existed in chip design for many decades. It’s not a new problem,” says Ankur Srivastava, director of semiconductor initiative and innovation at the University of Maryland, in College Park. Where LLMs differ from prior automation tools, however, is their ability to understand language and code. He says this makes them particularly suited for chip design tasks that “are still in the linguistic domain of the problem.”\n\nThe team at OpenAI designed a workflow that takes advantage of this strength. OpenAI’s front-end workflow was built around Accelerated Hardware Synthesis (XLS), an open-source high-level synthesis chain of tools originally developed at Google. High-level synthesis is a form of chip design automation that allows engineers to design a chip in a more familiar programming environment. In the case of XLS, chip designers can write in languages such as DSLX (a domain-specific language inspired by Rust) and C++. XLS then converts these to Verilog, a hardware description language used to describe electronic systems.\n\n“We were thinking about how to leverage AI to make the project faster, and the AI was much better at software-looking things,” says Chris Leary, member of technical staff at OpenAI. “XLS in some ways looks like software, so it got that benefit.” It helped, too, that Leary was extremely familiar with how XLS should function, as he started it during his time at Google.\n\nKahng agrees that the decision to use AI to accelerate high-level synthesis, such as XLS, makes sense, as it’s “more natural for the LLM to work with” and provides the opportunity for fast iteration. “I see this as a generally useful workflow, and it’s one that ‘has legs’ going into the future,” he says.\n\nThe same logic led the Jalapeño team to focus on software optimization. When the first chips came back from the foundry in May, the team pointed its internal AI models at designing software to run benchmarks such as SemiAnalysis’s InferenceX. On DeepSeek’s multi-head latent attention kernel benchmark, performance climbed from 0.31 percent of the theoretical ceiling (set by the chip’s compute and memory bandwidth) to 88.94 percent in roughly 40 hours. Ho says this result is repeatable, so the time between when foundries deliver the first chips and when production ramps up can be reduced. “All our schedule assumptions are going to be based on the fact we have this capability now,” he says.\n\nJalapeño is designed for deployment in pods that include 2,048 chips.OpenAI\n\nWhile the broad strokes of the Jalapeño teams’ AI-assisted workflow were guessed by Ho and Leary up front, improvements in OpenAI’s models did offer a few surprises.\n\nLeary says that the project began with assistance from models like OpenAI’s o3, which was released to the public in April of 2025 (but available to the Jalapeño team earlier). By the time the project had wrapped up, however, the team had access to models that were precursors to GPT-6 Astra, which wasn’t publicly released until 3 September 2026. The newer model can work directly in Verilog without needing XLS’s translation from ordinary programming languages, and it’s close to being able to operate proprietary design tools on its own, Leary says.\n\nHo also confirmed that the team had access to internal LLMs fine-tuned for chip design that are not available to the public. He declined to detail the models used. However, he added that the Jalapeño team partnered with OpenAI’s research team. While not all specific models used to design Jalapeño are publicly available, Ho says the goal is to bring lessons learned from the project into the company’s commercial LLMs. “It’s safe to say that Astra and following models will be very good at chip design,” he says.\n\nAs mentioned, the bulk of OpenAI’s work on Jalapeño focused on the “front end” of chip design, which spans the tasks that take a chip from initial concept, through writing RTL code to define the design, and through verification that the design will work when physically implemented. Much of the “backend” design—which includes tasks like routing interconnects, completing and verifying the clock and power specifications, and sending the required design information to the foundry—was handed off to Broadcom, which carried the chip through production.\n\nThat’s not to say OpenAI’s workflow ignored the backend, though. The Jalapeño team includes physical design engineers who work with their counterparts at Broadcom to provide guidance on the chip’s floor plan and routing, among other things.At IEEE Hot Chips 2026, Ho and Leary put numbers on the gains from AI-guided physical design optimization, including an area reduction of 10 percent for the matrix multiplication units as measured against an optimized human baseline. In other words, OpenAI claims AI-guided optimization helped design more circuits into the same area of silicon than would have been possible before.\n\nBroadcom used its own internal workflow. The company’s team did not have access to the internal models OpenAI used to help design Jalapeño, but it did have access to OpenAI’s public, commercial models.\n\nVerkor’s Ravi Krishna says that OpenAI’s approach to backend design already feels a bit conservative. He believes that to be an artifact of when the project, which began in October of 2024, took place. “The models from the last four to five months have improved. From April [2026] onwards…is when they really started to be able to handle those tasks better,” he says. Verkor co-founder Suresh Krishna agreed, saying “there’s no reason you couldn’t have an agentic loop that largely accelerates the backend of the process as well.”\n\nHo and Leary also hinted that the workflow used to design Jalapeño may look old-fashioned compared to the team’s next efforts.\n\n“As you can imagine with [Jalapeño], we were trying to go as fast as we could. So there’s a trade-off between ‘do we want to take time to do some innovation, or do we want to do things that we know work historically?’” Leary says. “With the second generation, we have a kind of reset opportunity to ask about all the things we want to get set up for.”\n\nHo says the second-generation chip’s workflow has “a lot of places that we are introducing [AI].” He mentions opportunities to do more with AI in verification and physical design. Leary adds that the team now has tools for automatic waveform manipulation and viewing. This automates analysis to identify chip clock signals associated with failures and could improve debugging the hardware while it’s still being designed. Despite these expected improvements, Ho and Leary were clear that they don’t believe chip design can be fully automated. “We’re not saying that anyone can come and just build state-of-the-art, frontier AI/ML accelerator chips using just [OpenAI’s coding platform] Codex,” Ho explains. “We are saying some very specific things about how to be better at Codex and how we are focusing on a small team and fast timelines to reach quality results.”",
+        "fullTranslation": "8月25日，OpenAI 正式发布了其首款人工智能加速芯片 Jalapeño。Jalapeño 提供高达 13.4 petaflops 的 4 位浮点计算能力，并可访问 232 GB 目前最先进的内存，连接带宽达到惊人的每秒 15.4 TB。OpenAI 引用的基准测试表明，与该公司目前依赖的英伟达 GB300 相比，Jalapeño 可将端到端延迟（从输入提示词到输出最后一个 token 的时间）降低多达 3.6 倍，同时功耗更低。\n\n这是一个极其迅速的时间线，但专家们认为，随着大语言模型（LLM）的进步以及它们更深度地融入芯片设计工具，这一速度可能很快就会显得平淡无奇。不出所料，OpenAI 对这些机遇持乐观态度。“这些模型赋予了我们工程师超能力，”OpenAI 硬件副总裁理查德·何（Richard Ho）表示，“我们的工程师依然主导着各项工作。他们依然是最终决断者。但他们能够以快得多的速度完成任务，探索更多路径。”\n\n何表示，在整个项目期间，设计 Jalapeño 的团队平均人数不足 100 人，随着团队着手推进第二代和第三代设计，目前该团队规模依然维持在约 100 人。这一数字涵盖了硬件团队内的广泛职能，从系统设计到软件和供应链，但不包括与 OpenAI 在该项目上开展合作的博通（Broadcom）人员。\n\nOpenAI 与博通之间的分工大致划分为设计与落地实现两部分。OpenAI 团队负责端到端系统设计，包括推理加速器、存储层次结构和网络。何表示，博通负责“门电路及之后的物理设计”。与博通的合作削弱了外界对 OpenAI 研发速度的一些赞誉。智能芯片设计初创公司 Verkor.io 联合创始人戴维·秦（David Chin）表示，“他们给出的时间表相当可信”，但他认为博通的帮助对 Jalapeño 的快速交付至关重要。“如果让别人从零开始，这是不可能做到的，”他说。Verkor 另一位联合创始人拉维·克里希纳（Ravi Krishna）称 OpenAI 的速度是“一个相对令人印象深刻的结果”，但补充道，如果项目从今天启动，大模型能力的提升有望实现更短的研发周期。\n\n加利福尼亚大学圣迭戈分校特聘教授安德鲁·康（Andrew Kahng）也认为 OpenAI 的研发速度引人注目，称其“目前很可能是同类中最优秀的”。康回忆起 2016 年他共同组织的 IEEE 设计自动化未来研讨会。当时在谷歌任工程师的理查德·何是研讨会的主旨演讲嘉宾之一。何对设计自动化持有鲜明见解，将完成芯片设计所需的时间定义为团队一天内能够完成迭代次数的函数。\n\n“芯片设计中的自动化本身已经存在数十年了。这并非一个新课题，”马里兰大学帕克分校半导体计划与创新总监安库尔·斯里瓦斯塔瓦（Ankur Srivastava）说道。然而，大语言模型与以往自动化工具的不同之处在于其理解语言和代码的能力。他表示，这使得它们尤其适合那些“仍处于问题语言学范畴”的芯片设计任务。\n\nOpenAI 团队设计了一套充分利用这一优势的工作流程。OpenAI 的前端工作流围绕加速硬件综合（XLS）构建，这是一套最初由谷歌开发的开源高级综合工具链。高级综合是一种芯片设计自动化形式，允许工程师在更为熟悉的编程环境中设计芯片。在 XLS 的案例中，芯片设计师可以用诸如 DSLX（一种受 Rust 启发而开发的领域专用语言）和 C++ 等语言编写代码。随后，XLS 会将这些代码转换为 Verilog——一种用于描述电子系统的硬件描述语言。\n\n“我们当时在思考如何利用 AI 让项目跑得更快，而 AI 在处理类似软件的内容时表现要好得多，”OpenAI 技术团队成员克里斯·利里（Chris Leary）表示，“XLS 在某些方面看起来就像软件，因此吃到了这一红利。”利里对 XLS 的运行机制极为熟悉也带来了帮助，因为该项目正是他在谷歌工作期间主导发起的。\n\n康认同利用 AI 加速高级综合（如 XLS）的决策是合理的，因为这对大语言模型来说“处理起来更自然”，并提供了快速迭代的机会。“我认为这是一种普遍有用的工作流，而且在未来‘大有可为’，”他说。\n\n同样的逻辑也促使 Jalapeño 团队将重心放在软件优化上。当首批芯片于 5 月从晶圆代工厂送回时，团队运用其内部 AI 模型来设计运行诸如 SemiAnalysis 的 InferenceX 等基准测试所需的软件。在 DeepSeek 的多头潜在注意力（multi-head latent attention）内核基准测试中，其性能在大约 40 小时内从理论上限（由芯片的算力和内存带宽决定）的 0.31% 跃升至 88.94%。何表示这一结果是可复现的，因此晶圆厂交付首批芯片到产能爬坡之间的时间可以大幅缩短。“我们所有关于进度的假设都将建立在如今已具备这一能力的基础之上，”他说。\n\nJalapeño 旨在以包含 2,048 颗芯片的计算单元组（pods）进行部署。OpenAI\n\n尽管 Jalapeño 团队 AI 辅助工作流程的大致框架早在前期就被何和利里预见到了，但 OpenAI 模型的持续进步确实带来了一些惊喜。\n\n利里表示，该项目最初是在 OpenAI 的 o3 等模型的协助下启动的，o3 于 2025 年 4 月公开发布（但 Jalapeño 团队较早便已获得使用权）。然而，到项目收尾时，团队已能接触到作为 GPT-6 Astra 前身的原型模型，而 Astra 直到 2026 年 9 月 3 日才公开发布。利里透露，这一更新的模型可以直接在 Verilog 层面开展工作，无需 XLS 将普通编程语言进行转换，而且它已接近能够自主操作专有设计工具的水平。\n\n何还证实，该团队获得了未经公开、专门针对芯片设计进行微调的内部大语言模型的使用权限。他拒绝详细透露所用模型的具体细节。不过，他补充道，Jalapeño 团队与 OpenAI 研究团队展开了密切合作。尽管并非所有用于设计 Jalapeño 的特定模型都已公开，但何表示，其目标是将从该项目中汲取的经验融入公司的商业化大模型中。“可以肯定地说，Astra 以及后续模型将在芯片设计方面表现得极为出色，”他说。\n\n如前所述，OpenAI在Jalapeño芯片上的大部分工作都集中在芯片设计的“前端”，涵盖了将芯片从最初概念构想、编写定义设计的RTL（寄存器传输级）代码，再到验证设计在实际物理实现时能否正常运行的各项任务。而“后端”设计的很大一部分——包括互连布线、完成并验证时钟和电源规范，以及将所需的设计信息交付给晶圆代工厂等任务——则交给了博通（Broadcom），由其负责推进该芯片的生产制造。\n\n不过，这并不意味着OpenAI的工作流程完全忽略了后端。Jalapeño团队拥有物理设计工程师，他们与博通的同行合作，就芯片的布局规划（floor plan）和布线等方面提供指导。在IEEE Hot Chips 2026大会上，Ho和Leary量化了AI引导物理设计优化所带来的收益，包括与经过优化的人工基准相比，矩阵乘法单元的面积缩小了10%。换句话说，OpenAI声称AI引导的优化帮助他们在相同硅片面积上集成比以往更多的电路。\n\n博通采用了自己的内部工作流程。该公司的团队无法访问OpenAI用来辅助设计Jalapeño的内部模型，但他们可以使用OpenAI公开的商用模型。\n\nVerkor的Ravi Krishna表示，OpenAI在后端设计上的做法如今看来略显保守。他认为这是由于该项目启动于2024年10月这一时间背景所致。“过去四到五个月的模型已经有所改进。从[2026年]4月起……它们才真正开始能够更好地处理这些任务，”他说道。Verkor联合创始人Suresh Krishna表示赞同，并称“完全没有理由不能建立一个智能体循环（agentic loop），在很大程度上同样加速后端流程。”\n\nHo和Leary还暗示，与团队接下来的工作相比，用于设计Jalapeño的工作流程可能显得有些过时。\n\n“正如你可以想象的那样，在[Jalapeño]项目中，我们试图以最快速度推进。因此在‘我们是想花时间做一些创新，还是想做那些以往已知行之有效的事情？’之间存在权衡，”Leary表示，“到了第二代，我们有了一次重新审视的机会，可以考量我们想要筹备的所有事情。”\n\nHo表示，第二代芯片的工作流程在“很多环节都引入了[AI]”。他提到在验证和物理设计中利用AI进行更多探索的机会。Leary补充道，团队现在拥有用于自动化波形操作和查看的工具。这实现了分析自动化，用以识别与故障相关的芯片时钟信号，并能在硬件仍处于设计阶段时改进调试工作。尽管有这些预期的改进，Ho和Leary明确表示，他们并不认为芯片设计可以完全自动化。“我们并不是说任何人只要使用[OpenAI的代码编写平台]Codex，就能凭空打造出最先进的前沿AI/机器学习加速芯片，”Ho解释道，“我们谈论的是一些非常具体的方法，即如何更好地运用Codex，以及我们如何依靠精干团队在紧凑的时间线内达成高质量成果。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "OpenAI于2026年8月25日正式发布了其首款AI加速芯片Jalapeño。",
+          "Jalapeño芯片可提供高达13.4 Petaflops的4位计算能力，支持访问232 GB内存，互连带宽达15.4 TB/s。",
+          "来源叙事重点：详细拆解OpenAI如何利用自研大语言模型与开源工具链（XLS）在极小团队规模下完成首款AI芯片Jalapeño的前端设计，并剖析大模型与博通代工分工对缩短芯片研发周期的实际效能与局限性。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T09:52:30.000Z",
+            "url": "https://spectrum.ieee.org/llms-for-chip-design"
+          }
+        ]
+      },
+      {
+        "id": "story-te-cosmic-icy-moons-html-51027c76385d44f8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Scientists simulate cosmic crashes to test whether icy moons gain or lose their ability to sustain life",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T11:00:06.000Z",
+        "pubTime": "2026-09-19 19:00",
+        "url": "https://phys.org/news/2026-09-scientists-simulate-cosmic-icy-moons.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-simulate-co.jpg",
+        "fullContent": "Many of the moons orbiting Saturn, Uranus and Neptune likely conceal oceans of liquid water beneath miles of icy shell. Because life as we know it needs water, these buried oceans rank among the most promising places to search for life beyond Earth.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 19:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-scientists-simulate-cosmic-icy-moons.html",
+            "publishedAt": "2026-09-19T11:00:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-19-vrach-2118747457-html-5521347bfb2551fb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Врач рассказал, как поддержать иммунитет осенью",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T11:07:49.000Z",
+        "pubTime": "2026-09-19 19:07",
+        "url": "https://ria.ru/20260919/vrach-2118747457.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/02/03/2071871164_0:9:3072:1737_650x0_80_0_0_65cd3ea99a846605ad73e5f759d9b6d4.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 19:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/vrach-2118747457.html",
+            "publishedAt": "2026-09-19T11:07:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-749fd8829ea7d85b",
+        "title": "尊敬的客户：去你的吧",
+        "originalTitle": "Dear Customer, Fuck You",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T08:58:34.000Z",
+        "pubTime": "2026-09-19 16:58",
+        "url": "https://fuck-off.ai/",
+        "imageUrl": null,
+        "fullContent": "A frontier AI lab showed up with a check large enough to make the question \"should we sell our users' data?\" feel rhetorical. Not \"maybe we can anonymize and aggregate.\" Not \"only if users opt in.\" Just: here is the number. The number at which the internal debate ends and the legal team starts drafting the \"continued use constitutes acceptance\" language. That number is the new definition of fuck-you money. It is the amount required for a company to accept the lab's terms and then turn around and tell you that if you object, you can fuck off.\n\nThis is not rare. It has become routine. Developer platforms, consumer apps, productivity tools, and social services have been quietly rewriting the same clause for a couple of years. Free and lower-tier users are often opted in by default. Paid tiers sometimes get a slightly softer default or a self-serve toggle. Enterprise gets the polished contract language that says \"we won't train on your data\" while the consumer side of the same company does the opposite. Opt-outs exist in many places, but they are usually account-level, non-retroactive, and full of exceptions for \"safety,\" \"feedback,\" and \"already-trained models.\" Data that already went into a previous training run does not come back out.\n\nThe public licensing market gives a rough sense of the scale of the checks involved. Multi-year deals in the tens to low hundreds of millions of dollars for high-value content sources are no longer surprising. Most of the money never reaches the people who actually generated the data. It reaches the platforms that sit between the users and the labs. The ToS update is simply the mechanism that turns your ordinary use of a product into a licensable asset.\n\nThe legal form is familiar: notice plus continued use. Clickwrap for the original agreement, then passive acceptance for the expansion. Courts often uphold it when the notice is clear enough. Regulators have warned that quietly expanding prior privacy promises can cross into unfair or deceptive territory, but the updates keep coming. The practical effect is the same in almost every case. The company keeps the data rights. You keep the product, or you leave.\n\nSo the email you receive is accurate, if incomplete. We found our price. The lab found our price. You are now being informed of the transaction after the fact, with the traditional customer-service flourish: if you disagree, cancel.",
+        "fullTranslation": "一家前沿人工智能实验室带着一张金额足够庞大的支票登门，让“我们是否该出售用户数据？”这个问题变成了多此一举的反问。既不是“也许我们可以做匿名化和聚合处理”，也不是“仅在用户主动同意时才出售”。只有一句：这就是报价。这个数字足以终结公司内部的一切争论，并让法务团队开始起草“继续使用即视为接受”的条款表述。这个数字正是“老子不伺候了/爱谁谁（fuck-you money）”的全新定义。正因为拿到了这笔巨款，一家公司才会欣然接受该实验室的条件，转过头来通知你：如果你有异议，那就滚蛋。\n\n这种情况绝非罕见，早已成为行业惯例。开发者平台、消费级应用、生产力工具以及社交服务平台，两三年间一直在悄然重写同一类条款。免费和低阶层级的用户往往被默认勾选同意。付费层级有时能享受稍显温和的默认设置，或是提供一个自助开关。企业级客户则能拿到措辞考究的合同条款，承诺“我们绝不会用您的数据进行训练”——与此同时，同一家公司的消费端产品却在背道而驰。退出机制（opt-out）在不少地方确实存在，但它们通常局限于账户级别、不具备追溯效力，并且充斥着针对“安全”、“反馈”以及“已训练模型”的种种豁免。已经进入往期训练轮次的数据，绝无可能被剔除收回。\n\n公开的内容授权市场大致展现了涉及支票金额的庞大规模。对于高价值内容源而言，数千万至上亿美元不等的多年期交易早已屡见不鲜。而这笔巨款绝大多数从未流入真正生成数据的用户手中，而是落入了横亘在用户与前沿实验室之间的平台口袋。服务条款（ToS）的更新，不过是将你对产品的日常使用转化为可授权变现资产的机制罢了。\n\n其法律形式大家早已司空见惯：发出通知加继续使用。最初签署协议时采用点击确认（Clickwrap），其后扩张权限时则采用被动接受。只要通知足够明确，法庭往往会予以支持。监管机构曾发出警告，指出悄悄扩大原先的隐私承诺可能会越界构成不公平或欺骗性行为，但条款更新依然接踵而至。其产生的实际结果在几乎所有案例中都如出一辙：公司牢牢保留数据权利；你要么继续用这个产品，要么直接走人。\n\n因此，你收到的那封通知邮件纵然语焉不详，却也是句句属实。我们找到了我们的心理价位，实验室也接受了这一报价。而你如今只是在事后被告知了这笔交易，并附带一句典型的客服式套话修饰：如果您不同意，请注销账号。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 5,
+        "keyTakeaways": [
+          "高价值内容来源的多年度数据许可交易规模达到数千万至数亿美元低位已屡见不鲜。",
+          "开发者平台、消费级应用、生产力工具及社交服务在过去几年中持续修改用户协议条款，将用户数据转为许可资产。",
+          "来源叙事重点：揭批前沿AI实验室以数千万至数亿美元的天价资金诱使各类软件平台违背隐私承诺，通过单方面修改服务条款（ToS）和被动接受机制，将普通用户产生的数据低成本打包变现，并将用户置于“要么接受被用于训练、要么离开”的不对称权力困境"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T08:58:34.000Z",
+            "url": "https://fuck-off.ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-4-4208-a789-ffa864b43666-38701d43e7dcee06",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI chatbots give wrong answers to financial queries ‘most of the time’",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T04:49:57.000Z",
+        "pubTime": "2026-09-19 12:49",
+        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F55ab023f-71c0-4ffb-8eaa-9befa8dc11b8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Report finds some chatbots ignored upcoming tax changes and hallucinated rules",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-19 12:49 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+            "publishedAt": "2026-09-19T04:49:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lds-crimes-minister-says-13394caeb9b08727",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Parents in England and Wales could be fined or jailed for child’s crimes, minister says",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T09:14:02.000Z",
+        "pubTime": "2026-09-19 17:14",
+        "url": "https://www.theguardian.com/society/2026/sep/19/parents-in-england-and-wales-could-be-fined-or-jailed-for-childs-crimes-minister-says",
+        "imageUrl": "https://i.guim.co.uk/img/media/f212e148133ad7d92131e74cbce0513b2e8e9fac/1065_0_2236_1790/master/2236.jpg?width=140&quality=85&auto=format&fit=max&s=f383358a3061f02af1317cb118fbfcc4",
+        "fullContent": "Jake Richards says changes would be part of ‘carrot-and-stick’ approach to try to turn around young offenders\n\nParents whose children commit crimes could lose their benefits, face fines and even be jailed, a minister has said.\n\nJake Richards said the youth justice system “should hold parents to account in a proportionate way for ensuring that they play their role in keeping communities safe”.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "一名部长表示，如果孩子犯罪，英格兰和威尔士的父母可能会失去福利、面临罚款甚至入狱。",
+          "Jake Richards 表示相关调整是“胡萝卜加大棒”方式的一部分，旨在促使青少年犯罪者改过自新。",
+          "来源叙事重点：聚焦英格兰与威尔士官员提出的青少年司法改革新动向，重点突出‘父母可能因子女犯罪面临剥夺福利、罚款甚至监禁’的惩罚性政策提议，以及官方主张的‘胡萝卜加大棒’式家庭责任追究机制"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T09:14:02.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/19/parents-in-england-and-wales-could-be-fined-or-jailed-for-childs-crimes-minister-says"
+          }
+        ]
+      },
+      {
+        "id": "story--child-school-peers-html-cb1993f5964201b4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Kids involved with child protective services miss much more school than their peers",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T11:00:04.000Z",
+        "pubTime": "2026-09-19 19:00",
+        "url": "https://phys.org/news/2026-09-kids-involved-child-school-peers.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2022/school-1.jpg",
+        "fullContent": "Across the country, kids are settling into new school-year routines. Parents buy backpacks, teachers arrange desks and lesson plans, and friends reconnect. But in recent years, empty chairs are becoming a more common sight—especially in classrooms where students are already facing the most adversity.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 19:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-kids-involved-child-school-peers.html",
+            "publishedAt": "2026-09-19T11:00:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0919-uik-2118747163-html-5776eb0ce16f9b7b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Орловской области членов УИК отстранили после инцидента с 250 бюллетенями",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T11:05:47.000Z",
+        "pubTime": "2026-09-19 19:05",
+        "url": "https://ria.ru/20260919/uik-2118747163.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/12/2118389823_0:147:3118:1901_650x0_80_0_0_aff6e2751c96b383cd34d712999718e2.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 19:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/uik-2118747163.html",
+            "publishedAt": "2026-09-19T11:05:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-olves-a-wwi-german-radio-caa03cc38739079c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T06:41:44.000Z",
+        "pubTime": "2026-09-19 14:41",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "imageUrl": null,
+        "fullContent": "Scienceblogs.de, a German science blogging portal, includes a relatively famous list of 50 unsolved ciphers, which range from cryptograms published by serial killers to the famous Voynich manuscript.\n\nAmong these ciphers is a set of German radio messages from World War I that were encoded using the ADFGVX method.\n\nThis method is illustrated by the following example using the word “HOUSE” as the key:\n\nAs you can see, ADFGVX is used both horizontally and vertically to give each “cell” in the table a value. For example, in this text, “AA” corresponds to the letter H, “AD” corresponds to the letter O, “DA” corresponds to the letter B, and so on. And so, the word “PRINZ” would be encoded as:\n\nUsing an encryption word other than “HOUSE” would result in a completely different table.\n\nThere is a list of known keys used by the Germans to encrypt these radio.messages, and hundreds of these messages have already been decoded, including by codebreaking expert George Lasry. Still, over a dozen have thus far eluded efforts to solve them, including (to my knowledge) this one, originally transmitted on November 27, 1918 (pg. 217):\n\nGPT-6 Astra solved this cipher, and believes that the original message was as follows:\n\nThe model used “TRUPPENVERSCHIEBUNG” as the encryption word, as described on pgs. 214-215 of J. Rives Childs's “The History and Principles of German Military Ciphers, 1914–1918”. This encryption word yields the following table:\n\nBefore even using this table, the word “TRUPPENVERSCHIEBUNG” is required to be rearranged, so that the letters in the word are in an alphabetical order (e.g., T is 16th and R is 13th).\n\nThen, the same “TRUPPENVERSCHIEBUNG” is written out horizontally, with letters from the encrypted message written under it, in rows of 19 (resulting in 8 rows of 19 symbols each, plus 1 row of 18 symbols, since there are 170 characters total). This also means that we have 18 columns with 9 symbols each and 1 column with 8 symbols (column “G”). From here, because T is the 16th column, it has 14 9-symbol columns before it, plus 1 8-symbol G column; 9×14 + 1×8 = 134, so “T” will correspond to the following, 135th, symbols in the message, which is “A”. Similarly, the next letter, “R”, corresponds to the letter “V” (because R is the 13th letter alphabetically and thus has 11×9 + 1×8 = 107 symbols before it; the 108th symbol in the message is “V”).\n\nIn the table above, “AV” corresponds to “E”, the first letter in “EIN”. We repeat this process until we decode the entire message.\n\nAstra's hypothesis for why this particular message was previously unsolved is that “TRUPPENVERSCHIEBUNG” was used as the key starting on December 9, 1918 - whereas, as noted above, this message was transmitted earlier, on November 27, 1918. The reason for this discrepancy is unknown.\n\nAstra felt compelled to check its work and found that, in fact, the English cruiser HMS Canterbury arrived in Sevastopol on November 24, 1918, based on its original logs:\n\n… and an allied squadron did follow on November 26 (see right below line 11, which says that an allied squadron arrived):\n\nI am not aware of this particular message having ever been decoded before, so sharing it here as a minor (but I think really cool) result and illustration of the capabilities of this model.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "德国科学博客门户网站 Scienceblogs.de 曾列出一份包含 50 个未解密密码的著名清单，其中包括一组一战期间采用 ADFGVX 方法加密的德国无线电信息。",
+          "密码破译专家 George Lasry 等人已破译了数百条一战德国无线电信息，但仍有十几条此前未被破解，其中包括一条 1918 年 11 月 27 日发送的密文。",
+          "来源叙事重点：展示大语言模型（GPT-6 Astra）在复杂历史密码破译与交叉历史文献核验上的推理能力，强调其成功破解了此前未解的一战德军 ADFGVX 密文"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T06:41:44.000Z",
+            "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+          }
+        ]
+      },
+      {
+        "id": "story-5-495c-a907-a5217d589f9d-fd6d5a37b7e43d6d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Unpacking the real fiscal costs of immigration",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T04:00:34.000Z",
+        "pubTime": "2026-09-19 12:00",
+        "url": "https://www.ft.com/content/124c1cf0-4885-495c-a907-a5217d589f9d?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F27460663-1206-4645-a8ba-baeac11394b1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Low taxes on low earners mean the same immigrants cost the UK more than they would elsewhere",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-19 12:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/124c1cf0-4885-495c-a907-a5217d589f9d?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-19T04:00:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rature-biases-shift-html-c99adab92cd23210",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Sea surface temperature biases shift the North Pacific jet stream southward, study finds",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T09:50:01.000Z",
+        "pubTime": "2026-09-19 17:50",
+        "url": "https://phys.org/news/2026-09-sea-surface-temperature-biases-shift.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/sea-surface-temperatur.jpg",
+        "fullContent": "Climate models are numerical models used to project future climate change. They simulate the climate from the present into the future by calculating changes in the atmosphere, ocean and other components of the climate system. However, simulations of the present-day climate do not perfectly reproduce observations and contain various biases. The model characteristics that cause these biases can also affect simulations of the future climate. Understanding the causes and impacts of present-day climate biases is therefore important for improving the reliability of future climate projections.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 17:50 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-sea-surface-temperature-biases-shift.html",
+            "publishedAt": "2026-09-19T09:50:01.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789780784498,
     "timeDisplay": "2026-09-19 09:19 (UTC+8)",
     "date": "2026-09-19",
