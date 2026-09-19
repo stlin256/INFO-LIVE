@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ESA">
+  <rect width="64" height="64" rx="14" fill="#173c82"/>
+  <path d="M9 48h46" stroke="#fff" stroke-opacity=".28" stroke-width="2"/>
+  <text x="32" y="37" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="1" fill="#fff">ESA</text>
+</svg>
