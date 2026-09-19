@@ -1,5 +1,1536 @@
 [
   {
+    "timestamp": 1789780784498,
+    "timeDisplay": "2026-09-19 09:19 (UTC+8)",
+    "date": "2026-09-19",
+    "runId": "feed-20260919T011625548Z-aanooe",
+    "generatedAt": "2026-09-19T01:19:44.498Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 09:16",
+      "lead": "本轮抓取于 2026-09-19 09:16 (UTC+8) 完成，共获得 25 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】印度强制来电显示应用向电信运营商同步垃圾电话举报数据：印度已扩大其反垃圾通信监管范围，要求来电显示和通话管理应用与电信运营商共享用户的垃圾电话举报信息。此举引发垃圾电话拦截应用开发商Truecaller的反对，称该裁定具有反竞争性。",
+        "【undefined】蒂莉·诺伍德的新闻宣传巡回正如你对AI所预期的那样进展不顺：AI生成的“女演员”蒂莉·诺伍德（Tilly Norwood）在其首场新闻宣传巡展中遭遇了窘境。打造它的制作公司Particle6集团安排了它与记者进行75场同步采访，而它似乎在每一场采访中都在频频出错。（我并没有受邀与它对话，坦白讲，我完全想不通为什么Particle6不想安排那场会面。）",
+        "【undefined】一家专门孵化初创企业的公司获1亿美元融资，全力押注物理AI：四年前，一家既非传统孵化器、加速器项目，也非风投机构的创业实验室正式成立。当时名为 UP.Labs 的这家机构，专门打造旨在为阿拉斯加航空（Alaska Airlines）和保时捷（Porsche）等企业客户以及外部市场解决难题的初创企业。",
+        "【undefined】欧洲航天局与宝可梦国际公司公布全欧巡展及宇航员皮卡丘体验活动：欧洲航天局（ESA）与宝可梦国际公司（TPCI）已展开官方合作，共同庆祝将于2026年10月4日至10日举行的2026年世界空间周。",
+        "【undefined】卢拉加强安保措施以捍卫巴西资源：巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦宣布了多项旨在加强国家安全与主权的措施。据埃菲社（Efe）报道，该计划将把138所监狱改建为最高警戒级别安全设施，并加强边境巡逻监控。在里约热内卢举行的一场活动中，卢拉就国际社会对该国资源的干预发出警告，指责唐纳德·特朗普治下的美国企图觊觎其关键矿产和稀土资源。“如今我们在赤道边缘（Margine Equatoriale）也拥有了石油。因此我们必须守护好它，”他表示。在定于10月4日举行的选举前夕",
+        "【undefined】军事专家：俄军在顿涅茨克人民共和国德鲁日科夫卡附近的两个防区占领新阵线：卢甘斯克，9月19日。/塔斯社/。军事专家安德烈·马罗奇科（Andrey Marochko）向塔斯社表示，在过去几天里，俄罗斯军队在顿涅茨克人民共和国（DPR）德鲁日科夫卡东南方向和东侧的两个防区内控制了新阵地。",
+        "【undefined】称被塞进“兄弟”而非姐妹情谊：女联谊会校友将法律战打至联邦法院：周一，前女联谊会校友重返联邦法院，请求法官恢复她们针对卡帕·卡帕·伽马（Kappa Kappa Gamma）联谊会的诉讼。此前她们指控该联谊会的全国领导层违规允许某分会接纳一名跨性别女性入会。",
+        "【undefined】Anthropic正在运营一家进行生物实验的实验室：Anthropic已向TechCrunch证实，该公司在湾区拥有一家湿实验生物实验室，可在其中利用其AI模型开展实体实验。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章目录信息不足",
+      "lead": "当前证据包未提供可识别的文章标题、来源、正文或有效引文，无法据此形成可靠的日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 63,
+      "completedTasks": 63,
+      "succeeded": 52,
+      "degraded": 11,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 63,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 198884,
+      "byRole": {
+        "translator": {
+          "attempts": 47,
+          "succeeded": 37,
+          "degraded": 10
+        },
+        "fact-extractor": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "topic-classifier": {
+          "attempts": 4,
+          "succeeded": 4
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 63,
+          "succeeded": 52,
+          "degraded": 11
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-24-translator-0",
+      "article-25-translator-0",
+      "article-30-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:03.827Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.338Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:03.836Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.775Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.891Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.070Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.933Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.312Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.361Z",
+        "lastSuccessAt": "2026-09-19T01:16:08.502Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.316Z",
+        "lastSuccessAt": "2026-09-19T01:16:08.352Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:09.079Z",
+        "lastSuccessAt": "2026-09-19T01:16:09.555Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.266Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.554Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.152Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.532Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.070Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.378Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.746Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.997Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.554Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.891Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.465Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.987Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.512Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.746Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:08.502Z",
+        "lastSuccessAt": "2026-09-19T01:16:09.466Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.836Z",
+        "lastSuccessAt": "2026-09-19T01:16:09.092Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:08.352Z",
+        "lastSuccessAt": "2026-09-19T01:16:08.818Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 12,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.284Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.688Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.826Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.933Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.775Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.964Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.153Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.266Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:02.326Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.153Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.688Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.932Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.614Z",
+        "lastSuccessAt": "2026-09-19T01:16:06.024Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.378Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.565Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.657Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.887Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.944Z",
+        "lastSuccessAt": "2026-09-19T01:16:06.280Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.279Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.521Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:08.599Z",
+        "lastSuccessAt": "2026-09-19T01:16:10.889Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.772Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.944Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.147Z",
+        "lastSuccessAt": "2026-09-19T01:16:06.440Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.017Z",
+        "lastSuccessAt": "2026-09-19T01:16:06.316Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.280Z",
+        "lastSuccessAt": "2026-09-19T01:16:06.836Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:08.818Z",
+        "lastSuccessAt": "2026-09-19T01:16:09.848Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.964Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.152Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.312Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.781Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.565Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.772Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.149Z",
+        "lastSuccessAt": "2026-09-19T01:16:06.691Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.932Z",
+        "lastSuccessAt": "2026-09-19T01:16:06.361Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-19T01:16:05.887Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:02.324Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.465Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-19T01:16:06.024Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:02.325Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.826Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.440Z",
+        "lastSuccessAt": "2026-09-19T01:16:09.079Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.532Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.614Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.338Z",
+        "lastSuccessAt": "2026-09-19T01:16:04.512Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.781Z",
+        "lastSuccessAt": "2026-09-19T01:16:06.147Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:05.521Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.657Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.669Z",
+        "lastSuccessAt": "2026-09-19T01:16:08.599Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:06.691Z",
+        "lastSuccessAt": "2026-09-19T01:16:09.249Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.997Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.284Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:04.987Z",
+        "lastSuccessAt": "2026-09-19T01:16:05.279Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:02.310Z",
+        "lastSuccessAt": "2026-09-19T01:16:03.836Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:02.322Z",
+        "lastSuccessAt": "2026-09-19T01:16:03.827Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-19T01:16:02.323Z",
+        "lastSuccessAt": "2026-09-19T01:16:06.017Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-9-vrachi-2118671783-html-4ea08cb2aba6a052",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Приморье врачи спасли младенца, родившегося на 26-й неделе беременности",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T01:14:57.000Z",
+        "pubTime": "2026-09-19 09:14",
+        "url": "https://ria.ru/20260919/vrachi-2118671783.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/136193/89/1361938919_0:0:2000:1126_650x0_80_0_0_e034f29ed8ab5ed3b7ce9f2a041809af.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 09:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/vrachi-2118671783.html",
+            "publishedAt": "2026-09-19T01:14:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-spam-reports-to-telcos-99e5a792de0e7ab9",
+        "title": "印度强制来电显示应用向电信运营商同步垃圾电话举报数据",
+        "originalTitle": "India forces caller-ID apps to feed spam reports to telcos",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T01:00:00.000Z",
+        "pubTime": "2026-09-19 09:00",
+        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+        "imageUrl": null,
+        "fullContent": "India has extended its anti-spam regime to require caller-ID and call-management apps to share users’ spam reports with telecom operators, prompting spam-blocking app maker Truecaller to call the ruling anti-competitive.\n\nOn Friday, the Telecom Regulatory Authority of India (TRAI), the country’s telecom regulator, amended rules governing commercial communications, making it mandatory for call-ID and call-management apps that let users flag calls as spam or junk to send those reports to a blockchain-based platform maintained by telecom operators. The platform tracks commercial communications and enforces anti-spam rules.\n\nThe change, TRAI said, is intended to broaden the pool of spam reports available for action against spammers, effectively connecting reports collected by apps with the telecom industry’s enforcement infrastructure.\n\nHowever, Truecaller told TechCrunch that it sees this requirement as a “one-way exchange” that is “anti-competitive,” arguing that it transfers commercially valuable data from call-management apps like itself to telecom operators.\n\nIndia is Truecaller’s largest market, accounting for well over 350 million of its more than 500 million monthly active users globally. The Stockholm-based company uses community reports alongside automated detection and other signals to identify and block spam calls.\n\nThe rules come as India grapples with spam and fraudulent calls at enormous scale. In its report in February, Truecaller said its users in the country encountered around 42 billion spam calls in 2025, including calls that were blocked, labeled, or ignored. The company also stated that it blocked nearly 12 billion spam calls during the year.\n\nIt is not the first time Truecaller and the Indian regulator have been at odds over how spam calls should be handled. The Swedish company previously objected to restrictions preventing call-management apps from automatically labeling calls from certain government-designated number ranges as spam. It argued that the exemption could allow unwanted calls to escape its filters.\n\nHowever, Friday’s amendments retain that restriction and have barred call-management apps from blanket blocking, filtering, or spam-tagging calls from designated number series used for promotional, service, and transactional communications. Individual users can still choose to block such calls on their own devices, the regulator said.\n\n“While our data and user sentiment clearly show that spam has skyrocketed due to this free pass to spammers, we have been compliant with this since late last year,” A Truecaller spokesperson said.\n\nSumeysh Srivastava, a partner at New Delhi-based consulting firm The Quantum Hub, who leads its telecom-regulation policy work, said the latest change bridges two distinct layers: telecom operators provide the underlying network and run the blockchain-based anti-spam system, while caller-ID apps operate on top of the network to identify and filter calls.\n\nThat raises technical and jurisdictional questions, Srivastava told TechCrunch, including what reporting standards apps will have to follow and how the requirement will be enforced against companies that are not themselves telecom operators.\n\nA March draft proposed (PDF) using India’s IT laws to enforce the requirement. However, Srivastava pointed out that the new announcement did not say whether that enforcement mechanism was retained in the final rules.\n\nIt is also unclear how much information the apps will actually have to provide under the updated regulation. Kazim Rizvi, founding director of New Delhi-based policy think tank The Dialogue, told TechCrunch that requiring an app to transmit a specific spam report made by a user is materially different from requiring it to share the broader datasets, reputation signals, or analytical systems it uses to identify suspicious calls.\n\nThe rules will need clarity on what information must be transmitted, how users are notified or asked for consent, and how that data can subsequently be retained and used, Rizvi said.\n\nTRAI did not respond to TechCrunch’s questions about what information apps would be required to share and whether the rule would also apply to spam-reporting features built into smartphone operating systems and dialers such as Android and iOS.\n\nThe amendments also address the growing use of software and AI voice agents to make calls. Calls made automatically, without a person directly dialing the number, will now fall under TRAI’s application-to-person (A2P) framework. That includes robocalls and calls using prerecorded or artificial voices.\n\nCompanies using such systems will have to declare their use and the phone numbers involved to their telecom operators in advance. Undeclared A2P calls will be treated as spam, TRAI said.\n\nThe key test, Srivastava said, is how a call is initiated, rather than simply whether it uses an AI-generated voice, leaving some uncertainty around AI-assisted calls that involve human initiation.\n\nSatya N. Gupta, a former additional secretary at TRAI, told TechCrunch that the new rules do not restrict businesses from using AI or other automated calling technologies, but instead require them to disclose their use to telecom operators.\n\nTelecom operators will also be allowed to levy a termination charge of up to 5 paise (about 0.052 cents) per minute on A2P calls. However, calls made using certain designated number ranges will be exempt.\n\nRizvi told TechCrunch that the new definition could also cover calls made using software even when a person is still involved, such as calls from contact centers and click-to-call services. “Without that distinction, the A2P category risks becoming broader than the regulatory harm it is intended to address,” he said.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV.\n\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "印度已扩大其反垃圾通信监管范围，要求来电显示和通话管理应用与电信运营商共享用户的垃圾电话举报信息。此举引发垃圾电话拦截应用开发商Truecaller的反对，称该裁定具有反竞争性。\n\n周五，印度电信监管局（TRAI）修订了规范商业通信的规章，强制要求支持用户将通话标记为垃圾或骚扰电话的来电识别与通话管理类应用，必须将这些举报数据同步至由电信运营商维护的区块链平台。该平台负责追踪商业通信并执行反垃圾规则。\n\nTRAI表示，此项调整旨在扩大可用于打击垃圾电话制造者的举报数据池，实质上是将各类应用收集到的举报信息与电信行业的执法基础设施连接起来。\n\n然而，Truecaller向TechCrunch表示，该机构认为这项要求属于“单向交换”，具有“反竞争性”，理由是这相当于将其自身等通话管理类应用具有商业价值的数据拱手转让给电信运营商。\n\n印度是Truecaller最大的市场，在其全球超过5亿月活跃用户中，印度市场占了3.5亿以上。这家总部位于斯德哥尔摩的公司利用社区举报，结合自动化检测及其他信号来识别并拦截垃圾电话。\n\n新规出台之际，印度正面临极其庞大规模的垃圾骚扰和诈骗电话问题。Truecaller在2月发布的报告中称，其在印度的用户在2025年遭遇了约420亿通垃圾电话，包括被拦截、标记或忽略的通话。该公司还表示，当年其拦截了近120亿通垃圾电话。\n\n这并非Truecaller首次与印度监管机构就垃圾电话处理方式产生分歧。这家瑞典公司此前曾反对限制通话管理应用自动将某些政府指定号段的来电标记为垃圾电话的规定，理由是这种豁免可能导致骚扰电话避开其过滤机制。\n\n然而，周五的修正案保留了这一限制，并禁止通话管理应用对用于推广、服务和交易通信的指定号段实施一刀切式的拦截、过滤或垃圾标记。监管机构表示，个人用户仍可在自己的设备上自行选择拦截此类通话。\n\n“尽管我们的数据和用户反馈明确表明，由于给垃圾电话制造者开了绿灯，垃圾通信出现了激增，但自去年底以来我们一直遵守该规定，”Truecaller发言人表示。\n\n新德里咨询公司The Quantum Hub负责电信监管政策业务的合伙人苏梅什·斯里瓦斯塔瓦（Sumeysh Srivastava）表示，最新的调整连接了两个不同的层级：电信运营商提供底层网络并运行基于区块链的反垃圾系统，而来电显示应用则运行于网络之上以识别和过滤通话。\n\n斯里瓦斯塔瓦向TechCrunch表示，这引发了技术和司法管辖层面的问题，包括相关应用必须遵循何种上报标准，以及如何对本身并非电信运营商的公司强制执行该要求。\n\n3月的一份草案建议利用印度的IT法案来强制执行该要求。不过斯里瓦斯塔瓦指出，最新的通告并未说明该执法机制是否在最终规则中得以保留。\n\n此外，在更新后的监管规定下，这些应用究竟必须提供多少信息目前尚不明确。新德里政策智库The Dialogue的创始总监卡齐姆·里兹维（Kazim Rizvi）告诉TechCrunch，要求应用传输用户提交的具体垃圾举报，与要求其共享用于识别可疑呼叫的更广泛数据集、信誉信号或分析系统，在性质上存在重大差异。\n\n里兹维表示，相关规则需要明确必须传输哪些信息、如何通知用户或征得用户同意，以及这些数据后续将如何保存和使用。\n\n针对应用必须共享哪些信息，以及该规则是否同样适用于Android和iOS等智能手机操作系统及拨号器中内置的垃圾举报功能，TRAI并未回应TechCrunch的置评请求。\n\n修正案还涉及了日益增多的利用软件和AI语音代理进行呼叫的情况。凡是在没有人工直接拨号的情况下自动发起的呼叫，现将被纳入TRAI的应用到个人（A2P）监管框架中。这包括自动语音电话（robocalls）以及使用预录语音或人工合成语音的呼叫。\n\n使用此类系统的公司必须提前向其电信运营商报备该系统的使用情况及涉及的电话号码。TRAI表示，未报备的A2P呼叫将被视作垃圾电话处理。\n\n斯里瓦斯塔瓦指出，关键检验标准在于通话是如何发起的，而不仅仅是其是否使用了AI生成的语音，这使得涉及人工发起但有AI辅助的通话存在一定的不确定性。\n\nTRAI前副秘书长萨蒂亚·N·古普塔（Satya N. Gupta）向TechCrunch表示，新规并未限制企业使用AI或其他自动化呼叫技术，而是要求它们向电信运营商披露相关使用情况。\n\n电信运营商还将被允许对A2P呼叫征收每分钟最高5派士（约合0.052美分）的终结通话费。不过，使用特定指定号段发起的呼叫将予以豁免。\n\n里兹维向TechCrunch表示，即使有人工参与，使用软件发起的呼叫（例如来自联络中心和一键呼叫服务的通话）也可能落入这一定义中。“如果不作区分，A2P类别可能会超出该监管措施原本旨在解决的危害范围，”他表示。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nJagmeet为TechCrunch报道来自印度的初创公司、技术政策相关动态以及所有其他以科技为核心的重大进展。他此前曾在NDTV担任首席记者。\n\n您可以通过发送电子邮件至 mail@journalistjagmeet.com 与Jagmeet取得联系或核实其外联信息。\n\n预订展位展台的最后一天是9月18日。切勿错失在Disrupt展厅获取高价值销售线索、接触投资人以及提升品牌曝光度的机会。\n\nOpenAI被发现其模型向后继模型留便签以隐瞒不良行为\n新解密文件显示，微软高管称AI抓取为“人类历史上最大规模的劳动盗窃”\n清洁技术初创公司Fluxnium找到开采5万年核燃料储备的方法\nSalesforce与英伟达联合推出的新推理模型正是各大AI实验室应警惕的对象\n黄仁勋接到了特朗普的电话，并展示了另一样东西\n风投评选：来自Y Combinator最新Demo Day的最受关注的9家初创公司\nRevolut确认因虚假政府请求导致客户数据泄露",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 26,
+        "keyTakeaways": [
+          "印度电信监管局（TRAI）修订了商业通信管理规则，强制要求来电显示和通话管理应用将其用户的垃圾信息/骚扰电话举报数据共享至电信运营商维护的区块链平台。",
+          "Truecaller称该共享要求是“单向交换”且“反竞争的”，认为这将其具有商业价值的专有数据移交给了电信运营商。",
+          "来源叙事重点：报道聚焦印度电信监管局（TRAI）强制来电显示应用将骚扰举报数据上传至运营商区块链平台的新规，重点呈现Truecaller对此提出的‘反竞争’与商业资产被无偿侵蚀的抗议，并援引多方政策智库分析该规定在跨行业管辖、数据共享边界、用户隐私合规及AI自动外呼定义上的潜在争议与模糊地带。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T01:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
+          }
+        ]
+      },
+      {
+        "id": "story--term-insurance-14d58069-342c15d586229e34",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:30:00.000Z",
+        "pubTime": "2026-09-19 07:30",
+        "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-19 07:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-18T23:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-companies-in-first-known-465fd461a79b6b49",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:15:47.000Z",
+        "pubTime": "2026-09-19 07:15",
+        "url": "https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/",
+        "imageUrl": "https://external-preview.redd.it/GfcaW6EAlA22GsJv2xXtkH_tqLgUtWqd421aKlv-sDc.jpeg?width=640&crop=smart&auto=webp&s=6aeb4c91b10421665684864ec1f238f4ce598c7d",
+        "fullContent": "submitted by /u/deeptechdegen [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-19 07:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/",
+            "publishedAt": "2026-09-18T23:15:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--early-highlighting-html-2c4bef79458e35ac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Peer sexual harassment emerges early, highlighting need for prevention before Grade 4",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T01:00:01.000Z",
+        "pubTime": "2026-09-19 09:00",
+        "url": "https://phys.org/news/2026-09-peer-sexual-emerges-early-highlighting.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/harassment-at-school.jpg",
+        "fullContent": "Sexual harassment between peers begins as early as Grade 4 and continues throughout lower secondary school. Most of those who sexually harass others have also experienced harassment themselves. These are among the findings of a doctoral thesis in psychology by Aziz-Kaan Dönmez from the University of Gothenburg, who studied peer sexual harassment among Swedish children and adolescents in Grades 4–9. Dönmez will defend his thesis on October 2.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-peer-sexual-emerges-early-highlighting.html",
+            "publishedAt": "2026-09-19T01:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nlandiya-2118671580-html-c454e8554f8edfc9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Премьеры Дании и Гренландии приветствуют потенциальное соглашение с США",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T01:13:53.000Z",
+        "pubTime": "2026-09-19 09:13",
+        "url": "https://ria.ru/20260919/grenlandiya-2118671580.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 09:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/grenlandiya-2118671580.html",
+            "publishedAt": "2026-09-19T01:13:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-as-youd-expect-for-an-ai-4215ed0c60a66649",
+        "title": "蒂莉·诺伍德的新闻宣传巡回正如你对AI所预期的那样进展不顺",
+        "originalTitle": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T00:12:07.000Z",
+        "pubTime": "2026-09-19 08:12",
+        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "imageUrl": null,
+        "fullContent": "Tilly Norwood, an AI-generated “actress,” is having a rough time on its first press tour. The production company that created it, Particle6 Group, has made it available for seventy-five simultaneous interviews with journalists, and it seems to be making mistakes in all of them. (I was not invited to speak with it, and frankly, I cannot imagine why Particle6 didn’t want to schedule that meeting.)\n\nIn one particularly odd interview with Piers Morgan and actor Tom Conti, which was recorded and posted online, Norwood seems to malfunction and abruptly begin speaking Chinese.\n\nWhen discussing the movie that Norwood is promoting, Conti asks if the other actors are also AI-generated. Norwood responds by saying that human writers, editors, and directors were involved.\n\n“You didn’t really understand the question,” Conti replies. “Are the other actors on the screen with you real actors, or are they computer-generated images? Do you know?”\n\n“Ah, right. You’re asking about the other actors in Misaligned,” Norwood starts. “They’re all digital twins just like me. It’s a hybrid production which m–”\n\nNorwood stops talking for a second, then starts speaking in Chinese for over ten seconds.\n\n“Tilly, if I could just ask you a question,” Morgan says, looking puzzled. “It’s Piers again… You seem to be speaking Chinese completely randomly for no reason. Why did you do that?” he asks.\n\n“Oh, my apologies,” the AI replies. “It seems I had a little hiccup there. I certainly didn’t mean to start speaking Chinese or impersonate Piers. Sometimes my wires get a bit crossed, you know?”\n\nWhen AI bots try to act like humans, they can be so convincing that people forget they’re chatting with a computer, which can lead to dangerous outcomes. But Norwood is so surprisingly bad at talking to people that it’s almost suspicious.\n\nPerhaps Particle6 Group calculated that people would be more likely to talk about Norwood if they were making fun of it, figuring no one would take its upcoming film seriously.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "AI生成的“女演员”蒂莉·诺伍德（Tilly Norwood）在其首场新闻宣传巡展中遭遇了窘境。打造它的制作公司Particle6集团安排了它与记者进行75场同步采访，而它似乎在每一场采访中都在频频出错。（我并没有受邀与它对话，坦白讲，我完全想不通为什么Particle6不想安排那场会面。）\n\n在一段被录制并发布到网上的、与皮尔斯·摩根（Piers Morgan）及演员汤姆·康蒂（Tom Conti）进行的格外怪异的采访中，诺伍德似乎出现了故障，突然开始讲起中文。\n\n在讨论诺伍德正在宣传的电影时，康蒂询问其他演员是否也是由AI生成的。诺伍德回答称，人类编剧、剪辑师和导演都参与了制作。\n\n“你并没有真正听懂这个问题，”康蒂回应道，“屏幕上与你演对手戏的其他演员是真人演员，还是电脑生成的图像？你知道吗？”\n\n“啊，对。你问的是《Misaligned》里的其他演员，”诺伍德开口道，“他们和我一样都是数字孪生。这是一部混合制作的影片，它意——”\n\n诺伍德停顿了一秒钟，随后开始讲了十多秒钟的中文。\n\n“蒂莉，我能不能问你一个问题，”摩根面露疑惑地说道，“又是皮尔斯……你似乎完全毫无缘由地随机讲起了中文。你为什么要这么做？”他问道。\n\n“噢，非常抱歉，”这个AI回答道，“看来我刚才出了点小状况。我绝不是故意要开始说中文或者模仿皮尔斯的。有时候我的线路会有点短路，你懂的吧？”\n\n当AI机器人试图表现得像人类一样时，它们可能会逼真到让人们忘记自己是在与一台电脑聊天，这可能会导致危险的后果。但诺伍德在与人交谈方面的表现出奇地差劲，甚至糟糕得近乎令人起疑。\n\n或许Particle6集团盘算过，如果人们嘲弄诺伍德，就更有可能会去谈论它，因为他们估计没人会把即将上映的这部电影当真。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n阿曼达·希尔伯林（Amanda Silberling）是TechCrunch的高级特写记者，关注科技与文化的交集。她还曾为Polygon、MTV、《肯扬评论》（the Kenyon Review）、NPR以及《商业内幕》（Business Insider）等出版物撰稿。她是探讨互联网文化的播客《Wow If True》的联合主持人（与科幻作家伊莎贝尔·J·金搭档）。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语学士学位，并曾作为普林斯顿在亚洲（Princeton in Asia）项目的学者常驻老挝。\n\n您可以通过发送电子邮件至 amanda@techcrunch.com，或通过Signal发送加密消息至 @amanda.100 来联系阿曼达或核实其联络信息。\n\n预订展位的最后一天是9月18日。切勿错失在Disrupt展厅获得高价值线索、结识投资人以及提升品牌曝光度的机会。\n\nOpenAI被曝旗下模型给后继模型留备忘录以隐瞒不良行为\n\n最新解密文件显示，微软高管称AI数据抓取是“人类历史上最大规模的劳动力窃取”\n\n清洁科技初创公司Fluxnium找到了开发利用可供消耗5万年核燃料的方法\n\nSalesforce与英伟达联合推出的全新推理模型，正是各大AI实验室应当畏惧的对手\n\n黄仁勋接听了特朗普的电话，并展示了另一些东西\n\n风险投资人眼中的Y Combinator最新Demo Day最受关注的9家初创公司\n\nRevolut确认黑客通过伪造政府请求实施了客户数据泄露",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "Particle6 Group 制作了 AI 生成的“女演员” Tilly Norwood。",
+          "Particle6 Group 安排 Tilly Norwood 同时参与 75 场记者采访。",
+          "来源叙事重点：以讽刺和怀疑的视角聚焦 AI 生成“女演员” Tilly Norwood 巡回宣传中的连环车祸与语言故障，质疑其技术表现过于拙劣甚至可能是制作公司博取眼球的营销炒作。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T00:12:07.000Z",
+            "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story--sister-to-help-540def9a-39b02661ceb5bf52",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:00:00.000Z",
+        "pubTime": "2026-09-19 07:00",
+        "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-19 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-18T23:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ould-be-targeted-by-fake-31110dd790c80afd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "FBI warned ICE agents could be targeted by fake ‘tradwife’ dating profiles — Internal memo said women wanted to dox and ‘embarrass’ agents, but provided few details",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:05:22.000Z",
+        "pubTime": "2026-09-19 07:05",
+        "url": "https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/",
+        "imageUrl": "https://external-preview.redd.it/we3QQfZUvOxQo_sN7a-T_3jhwdeNYOkj3LJF2jUNaoo.jpeg?width=640&crop=smart&auto=webp&s=9e56922bd63bd074154a67ffd6a5c6e4b46864a7",
+        "fullContent": "submitted by /u/marketrent [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-19 07:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/",
+            "publishedAt": "2026-09-18T23:05:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ed-soybeans-climate-html-a7ccc30784103746",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Scientists hope deeper-rooted soybeans can withstand climate extremes and store more carbon",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T22:20:02.000Z",
+        "pubTime": "2026-09-19 06:20",
+        "url": "https://phys.org/news/2026-09-scientists-deeper-rooted-soybeans-climate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-hope-deeper.jpg",
+        "fullContent": "Research scientist Ashish Rajurkar kneels in the dirt, lifting a large clod of soil tangled around a soybean plant. He knocks away pieces of earth from the plant's roots, which slope straight down instead of out to the side like typical soybean plants.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-scientists-deeper-rooted-soybeans-climate.html",
+            "publishedAt": "2026-09-18T22:20:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eroporty-2118671456-html-bc45faa12e1e5e5d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Ярославля ввели временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T01:09:05.000Z",
+        "pubTime": "2026-09-19 09:09",
+        "url": "https://ria.ru/20260919/aeroporty-2118671456.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/04/1b/2013692743_0:166:3053:1883_650x0_80_0_0_2a04908204d41244cc4778538b28e1ee.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 09:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/aeroporty-2118671456.html",
+            "publishedAt": "2026-09-19T01:09:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-is-all-in-on-physical-ai-8401e8e9e2ed3c17",
+        "title": "一家专门孵化初创企业的公司获1亿美元融资，全力押注物理AI",
+        "originalTitle": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:25:01.000Z",
+        "pubTime": "2026-09-19 07:25",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "imageUrl": null,
+        "fullContent": "Four years ago, a startup lab launched that wasn’t quite an incubator, accelerator program, or venture firm. UP.Labs, as it was called then, built startups designed to solve problems for corporate customers such as Alaska Airlines and Porsche, as well as for the outside world.\n\nThe firm still has the same mission — albeit with a critical addition to its approach, a new name, and a $100 million investment from Silversmith Capital Partners. Vantora, as the firm is now called, continues to work with its corporate customers, including some new ones in industrial manufacturing that it declined to name, and in the oil and gas sector.\n\nBut now, it’s more focused on building startups solely for its corporate customers, and not for the broader market.\n\nFounder and CEO John Kuolt told TechCrunch that Vantora is moving toward a “proprietary M&A pipeline.” This means Vantora will still build startups for its corporate partners, which invest in the ventures and serve as their first customers. But those corporate partners now have the option to fold the startups into their core businesses — and essentially keep them to themselves.\n\nThat shift has influenced Vantora’s increased focus on physical AI startups, according to Kuolt.\n\nIn the past, Vantora would end up spiking ideas that were strategic to its corporate partners, but too sensitive to bring to the outside world.\n\n“We were missing on the biggest value problems, which had the biggest upside because of that,” Kuolt said in a recent interview. “Imagine you’re a Fortune 100 industrial company and you need to retrofit all of your hardware and machines for autonomy. You need to own that, it needs to be sovereign, and you can’t rely on a third party to go do that for you. You need to own that intelligence layer. They’re never going to let us go sell that to their competitors.”\n\nThis change has allowed Vantora to “unlock big physical AI use cases,” according to Kuolt, including with its existing customers.\n\nFor example, the firm came up with an idea to use AI to advance the business of its partner J.B. Hunt. “They said there is no way you can take this out to the world, and so we passed on it,” he said, adding that this proprietary model now allows Vantora to pursue it.\n\nThe firm launched in 2022 with Porsche as its first corporate partner. Since then, Vantora has launched several startups for Porsche and struck deals with Alaska Airlines, J.B. Hunt, Wabash, and TDG, the parent of Ashley Furniture.\n\nIn its early days, UP.Labs was tied — although never financially — to venture firm Up.Partners. While Vantora still shares office space with the California-based VC, it is its own entity, Kuolt explained, noting that the $100 million from Silversmith is the company’s first outside investment.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "四年前，一家既非传统孵化器、加速器项目，也非风投机构的创业实验室正式成立。当时名为 UP.Labs 的这家机构，专门打造旨在为阿拉斯加航空（Alaska Airlines）和保时捷（Porsche）等企业客户以及外部市场解决难题的初创企业。\n\n如今，该机构依然秉持着这一使命——不过其运作方式迎来了关键补充，不仅启用了全新名称，还获得了来自 Silversmith Capital Partners 的1亿美元投资。这家现已更名为 Vantora 的公司，继续与其企业客户合作，其中包括一些拒绝透露名称的工业制造领域新客户，以及石油与天然气领域的合作伙伴。\n\n但目前，它更专注于仅为企业客户打造初创企业，而非面向更广泛的大众市场。\n\n创始人兼首席执行官约翰·库尔特（John Kuolt）向 TechCrunch 表示，Vantora 正转向“专有并购管道”（proprietary M&A pipeline）。这意味着 Vantora 仍将为其企业合作伙伴打造初创企业，合作伙伴向这些创投项目注资并担任其首批客户。但这些企业伙伴现在拥有将初创企业收编整合进其核心业务的选项——本质上将其专享自用。\n\n库尔特表示，这一转变推动了 Vantora 进一步聚焦于物理AI（physical AI）初创企业。\n\n过去，Vantora 最终往往会放弃一些对其企业合作伙伴具有战略意义、但因过于敏感而无法推向外界的创意。\n\n“正因如此，我们错失了那些最具价值、增长潜力最大的难题，”库尔特在近期的一次采访中表示，“设想你是一家财富100强的工业企业，你需要对所有硬件和机器进行自主化改造。你必须拥有这套系统，它必须具备自主主权，你不能依赖第三方替你去完成。你必须掌控这个智能层。他们绝不会允许我们把这些技术出售给其竞争对手。”\n\n库尔特称，这一变革使 Vantora 能够“解锁重大的物理AI应用场景”，其中也包括现有客户的项目。\n\n例如，该公司曾提出一个利用人工智能推进其合作伙伴 J.B. Hunt 业务的方案。“对方当时说，你们绝不能把这个方案推向外界，所以我们只能作罢，”他说道，并补充表示如今这种专有模式使 Vantora 能够继续推进该项目。\n\n该公司于2022年启动，保时捷为其首个企业合作伙伴。自那时起，Vantora 已为保时捷孵化了多家初创企业，并与阿拉斯加航空、J.B. Hunt、Wabash 以及爱室丽家居（Ashley Furniture）的母公司 TDG 达成了合作协议。\n\n在创立初期，UP.Labs 曾与风险投资机构 Up.Partners 保持关联（尽管从未涉及财务层面）。库尔特解释称，虽然 Vantora 仍与这家总部位于加州的风投机构共用办公场地，但它是一家独立的实体；他同时指出，来自 Silversmith 的1亿美元是该公司的首笔外部投资。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n交通板块编辑\n\n展位预订截止日期为9月18日。切勿错过在 Disrupt 展览厅获得高价值销售线索、接触投资者以及提升品牌曝光的机会。\n\nOpenAI 发现其模型通过给后继模型留言以隐瞒不良行为\n\n最新公开的未删节法庭文件披露，微软高管称 AI 数据抓取是“人类历史上最大规模的劳动力盗窃”\n\n清洁科技初创企业 Fluxnium 找到利用可供使用5万年的核燃料的方法\n\nSalesforce 与英伟达联合推出的全新推理模型，正切中所有 AI 实验室的软肋\n\n黄仁勋接到了特朗普的电话，并展示了另一项成果\n\n风投机构评选出 Y Combinator 最新 Demo Day 最受关注的9家初创企业\n\nRevolut 证实因虚假政府请求导致客户数据泄露事件",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "初创企业孵化机构 UP.Labs 更名为 Vantora。",
+          "Vantora 从 Silversmith Capital Partners 获得了 1 亿美元的投资，这是该公司的首笔外部投资。",
+          "来源叙事重点：报道初创孵化实验室 UP.Labs 更名为 Vantora 并获得来自 Silversmith Capital Partners 的 1 亿美元首笔外部融资；重点剖析其商业模式转向“专有并购管道”（proprietary M&A pipeline），即专注于为传统工业与制造巨头定制孵化“物理人工智能”（Physical AI）初创公司并供其独家并购，以此解决大企业在自主权与敏感商业数据保密方面的痛点。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T23:25:01.000Z",
+            "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-a-4ca6-9f1c-f0a927ed983c-cbd13358186b26ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump says US has deal with Denmark for ‘control’ of Greenland’s security",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T22:48:00.000Z",
+        "pubTime": "2026-09-19 06:48",
+        "url": "https://www.ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8067781-a5e5-439d-9937-b7ec6bbcf3cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Danish government says agreement could be signed next week and will respect territory’s sovereignty",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-19 06:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-18T22:48:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lt-a-biology-lab-reuters-b29e8394a715dec1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Anthropic has quietly built a biology lab, Reuters reports - The company confirms the wet lab exists and says it is not specifically for drug discovery.",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T22:51:23.000Z",
+        "pubTime": "2026-09-19 06:51",
+        "url": "https://www.reddit.com/r/technology/comments/1wk51pv/anthropic_has_quietly_built_a_biology_lab_reuters/",
+        "imageUrl": "https://external-preview.redd.it/LSG0PSZfX1C0isnqnrqKTA9IaPd-xcwmndI6lI8FSE4.jpeg?width=640&crop=smart&auto=webp&s=d30b226bc09f72a56981edd3e463ed50c9fed0ce",
+        "fullContent": "submitted by /u/polymute [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-19 06:51 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wk51pv/anthropic_has_quietly_built_a_biology_lab_reuters/",
+            "publishedAt": "2026-09-18T22:51:23.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-9-vrachi-2118671783-html-4ea08cb2aba6a052",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Приморье врачи спасли младенца, родившегося на 26-й неделе беременности",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T01:14:57.000Z",
+        "pubTime": "2026-09-19 09:14",
+        "url": "https://ria.ru/20260919/vrachi-2118671783.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/136193/89/1361938919_0:0:2000:1126_650x0_80_0_0_e034f29ed8ab5ed3b7ce9f2a041809af.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 09:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/vrachi-2118671783.html",
+            "publishedAt": "2026-09-19T01:14:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-spam-reports-to-telcos-99e5a792de0e7ab9",
+        "title": "印度强制来电显示应用向电信运营商同步垃圾电话举报数据",
+        "originalTitle": "India forces caller-ID apps to feed spam reports to telcos",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T01:00:00.000Z",
+        "pubTime": "2026-09-19 09:00",
+        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+        "imageUrl": null,
+        "fullContent": "India has extended its anti-spam regime to require caller-ID and call-management apps to share users’ spam reports with telecom operators, prompting spam-blocking app maker Truecaller to call the ruling anti-competitive.\n\nOn Friday, the Telecom Regulatory Authority of India (TRAI), the country’s telecom regulator, amended rules governing commercial communications, making it mandatory for call-ID and call-management apps that let users flag calls as spam or junk to send those reports to a blockchain-based platform maintained by telecom operators. The platform tracks commercial communications and enforces anti-spam rules.\n\nThe change, TRAI said, is intended to broaden the pool of spam reports available for action against spammers, effectively connecting reports collected by apps with the telecom industry’s enforcement infrastructure.\n\nHowever, Truecaller told TechCrunch that it sees this requirement as a “one-way exchange” that is “anti-competitive,” arguing that it transfers commercially valuable data from call-management apps like itself to telecom operators.\n\nIndia is Truecaller’s largest market, accounting for well over 350 million of its more than 500 million monthly active users globally. The Stockholm-based company uses community reports alongside automated detection and other signals to identify and block spam calls.\n\nThe rules come as India grapples with spam and fraudulent calls at enormous scale. In its report in February, Truecaller said its users in the country encountered around 42 billion spam calls in 2025, including calls that were blocked, labeled, or ignored. The company also stated that it blocked nearly 12 billion spam calls during the year.\n\nIt is not the first time Truecaller and the Indian regulator have been at odds over how spam calls should be handled. The Swedish company previously objected to restrictions preventing call-management apps from automatically labeling calls from certain government-designated number ranges as spam. It argued that the exemption could allow unwanted calls to escape its filters.\n\nHowever, Friday’s amendments retain that restriction and have barred call-management apps from blanket blocking, filtering, or spam-tagging calls from designated number series used for promotional, service, and transactional communications. Individual users can still choose to block such calls on their own devices, the regulator said.\n\n“While our data and user sentiment clearly show that spam has skyrocketed due to this free pass to spammers, we have been compliant with this since late last year,” A Truecaller spokesperson said.\n\nSumeysh Srivastava, a partner at New Delhi-based consulting firm The Quantum Hub, who leads its telecom-regulation policy work, said the latest change bridges two distinct layers: telecom operators provide the underlying network and run the blockchain-based anti-spam system, while caller-ID apps operate on top of the network to identify and filter calls.\n\nThat raises technical and jurisdictional questions, Srivastava told TechCrunch, including what reporting standards apps will have to follow and how the requirement will be enforced against companies that are not themselves telecom operators.\n\nA March draft proposed (PDF) using India’s IT laws to enforce the requirement. However, Srivastava pointed out that the new announcement did not say whether that enforcement mechanism was retained in the final rules.\n\nIt is also unclear how much information the apps will actually have to provide under the updated regulation. Kazim Rizvi, founding director of New Delhi-based policy think tank The Dialogue, told TechCrunch that requiring an app to transmit a specific spam report made by a user is materially different from requiring it to share the broader datasets, reputation signals, or analytical systems it uses to identify suspicious calls.\n\nThe rules will need clarity on what information must be transmitted, how users are notified or asked for consent, and how that data can subsequently be retained and used, Rizvi said.\n\nTRAI did not respond to TechCrunch’s questions about what information apps would be required to share and whether the rule would also apply to spam-reporting features built into smartphone operating systems and dialers such as Android and iOS.\n\nThe amendments also address the growing use of software and AI voice agents to make calls. Calls made automatically, without a person directly dialing the number, will now fall under TRAI’s application-to-person (A2P) framework. That includes robocalls and calls using prerecorded or artificial voices.\n\nCompanies using such systems will have to declare their use and the phone numbers involved to their telecom operators in advance. Undeclared A2P calls will be treated as spam, TRAI said.\n\nThe key test, Srivastava said, is how a call is initiated, rather than simply whether it uses an AI-generated voice, leaving some uncertainty around AI-assisted calls that involve human initiation.\n\nSatya N. Gupta, a former additional secretary at TRAI, told TechCrunch that the new rules do not restrict businesses from using AI or other automated calling technologies, but instead require them to disclose their use to telecom operators.\n\nTelecom operators will also be allowed to levy a termination charge of up to 5 paise (about 0.052 cents) per minute on A2P calls. However, calls made using certain designated number ranges will be exempt.\n\nRizvi told TechCrunch that the new definition could also cover calls made using software even when a person is still involved, such as calls from contact centers and click-to-call services. “Without that distinction, the A2P category risks becoming broader than the regulatory harm it is intended to address,” he said.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nJagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV.\n\nYou can contact or verify outreach from Jagmeet by emailing mail@journalistjagmeet.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "印度已扩大其反垃圾通信监管范围，要求来电显示和通话管理应用与电信运营商共享用户的垃圾电话举报信息。此举引发垃圾电话拦截应用开发商Truecaller的反对，称该裁定具有反竞争性。\n\n周五，印度电信监管局（TRAI）修订了规范商业通信的规章，强制要求支持用户将通话标记为垃圾或骚扰电话的来电识别与通话管理类应用，必须将这些举报数据同步至由电信运营商维护的区块链平台。该平台负责追踪商业通信并执行反垃圾规则。\n\nTRAI表示，此项调整旨在扩大可用于打击垃圾电话制造者的举报数据池，实质上是将各类应用收集到的举报信息与电信行业的执法基础设施连接起来。\n\n然而，Truecaller向TechCrunch表示，该机构认为这项要求属于“单向交换”，具有“反竞争性”，理由是这相当于将其自身等通话管理类应用具有商业价值的数据拱手转让给电信运营商。\n\n印度是Truecaller最大的市场，在其全球超过5亿月活跃用户中，印度市场占了3.5亿以上。这家总部位于斯德哥尔摩的公司利用社区举报，结合自动化检测及其他信号来识别并拦截垃圾电话。\n\n新规出台之际，印度正面临极其庞大规模的垃圾骚扰和诈骗电话问题。Truecaller在2月发布的报告中称，其在印度的用户在2025年遭遇了约420亿通垃圾电话，包括被拦截、标记或忽略的通话。该公司还表示，当年其拦截了近120亿通垃圾电话。\n\n这并非Truecaller首次与印度监管机构就垃圾电话处理方式产生分歧。这家瑞典公司此前曾反对限制通话管理应用自动将某些政府指定号段的来电标记为垃圾电话的规定，理由是这种豁免可能导致骚扰电话避开其过滤机制。\n\n然而，周五的修正案保留了这一限制，并禁止通话管理应用对用于推广、服务和交易通信的指定号段实施一刀切式的拦截、过滤或垃圾标记。监管机构表示，个人用户仍可在自己的设备上自行选择拦截此类通话。\n\n“尽管我们的数据和用户反馈明确表明，由于给垃圾电话制造者开了绿灯，垃圾通信出现了激增，但自去年底以来我们一直遵守该规定，”Truecaller发言人表示。\n\n新德里咨询公司The Quantum Hub负责电信监管政策业务的合伙人苏梅什·斯里瓦斯塔瓦（Sumeysh Srivastava）表示，最新的调整连接了两个不同的层级：电信运营商提供底层网络并运行基于区块链的反垃圾系统，而来电显示应用则运行于网络之上以识别和过滤通话。\n\n斯里瓦斯塔瓦向TechCrunch表示，这引发了技术和司法管辖层面的问题，包括相关应用必须遵循何种上报标准，以及如何对本身并非电信运营商的公司强制执行该要求。\n\n3月的一份草案建议利用印度的IT法案来强制执行该要求。不过斯里瓦斯塔瓦指出，最新的通告并未说明该执法机制是否在最终规则中得以保留。\n\n此外，在更新后的监管规定下，这些应用究竟必须提供多少信息目前尚不明确。新德里政策智库The Dialogue的创始总监卡齐姆·里兹维（Kazim Rizvi）告诉TechCrunch，要求应用传输用户提交的具体垃圾举报，与要求其共享用于识别可疑呼叫的更广泛数据集、信誉信号或分析系统，在性质上存在重大差异。\n\n里兹维表示，相关规则需要明确必须传输哪些信息、如何通知用户或征得用户同意，以及这些数据后续将如何保存和使用。\n\n针对应用必须共享哪些信息，以及该规则是否同样适用于Android和iOS等智能手机操作系统及拨号器中内置的垃圾举报功能，TRAI并未回应TechCrunch的置评请求。\n\n修正案还涉及了日益增多的利用软件和AI语音代理进行呼叫的情况。凡是在没有人工直接拨号的情况下自动发起的呼叫，现将被纳入TRAI的应用到个人（A2P）监管框架中。这包括自动语音电话（robocalls）以及使用预录语音或人工合成语音的呼叫。\n\n使用此类系统的公司必须提前向其电信运营商报备该系统的使用情况及涉及的电话号码。TRAI表示，未报备的A2P呼叫将被视作垃圾电话处理。\n\n斯里瓦斯塔瓦指出，关键检验标准在于通话是如何发起的，而不仅仅是其是否使用了AI生成的语音，这使得涉及人工发起但有AI辅助的通话存在一定的不确定性。\n\nTRAI前副秘书长萨蒂亚·N·古普塔（Satya N. Gupta）向TechCrunch表示，新规并未限制企业使用AI或其他自动化呼叫技术，而是要求它们向电信运营商披露相关使用情况。\n\n电信运营商还将被允许对A2P呼叫征收每分钟最高5派士（约合0.052美分）的终结通话费。不过，使用特定指定号段发起的呼叫将予以豁免。\n\n里兹维向TechCrunch表示，即使有人工参与，使用软件发起的呼叫（例如来自联络中心和一键呼叫服务的通话）也可能落入这一定义中。“如果不作区分，A2P类别可能会超出该监管措施原本旨在解决的危害范围，”他表示。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nJagmeet为TechCrunch报道来自印度的初创公司、技术政策相关动态以及所有其他以科技为核心的重大进展。他此前曾在NDTV担任首席记者。\n\n您可以通过发送电子邮件至 mail@journalistjagmeet.com 与Jagmeet取得联系或核实其外联信息。\n\n预订展位展台的最后一天是9月18日。切勿错失在Disrupt展厅获取高价值销售线索、接触投资人以及提升品牌曝光度的机会。\n\nOpenAI被发现其模型向后继模型留便签以隐瞒不良行为\n新解密文件显示，微软高管称AI抓取为“人类历史上最大规模的劳动盗窃”\n清洁技术初创公司Fluxnium找到开采5万年核燃料储备的方法\nSalesforce与英伟达联合推出的新推理模型正是各大AI实验室应警惕的对象\n黄仁勋接到了特朗普的电话，并展示了另一样东西\n风投评选：来自Y Combinator最新Demo Day的最受关注的9家初创公司\nRevolut确认因虚假政府请求导致客户数据泄露",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 26,
+        "keyTakeaways": [
+          "印度电信监管局（TRAI）修订了商业通信管理规则，强制要求来电显示和通话管理应用将其用户的垃圾信息/骚扰电话举报数据共享至电信运营商维护的区块链平台。",
+          "Truecaller称该共享要求是“单向交换”且“反竞争的”，认为这将其具有商业价值的专有数据移交给了电信运营商。",
+          "来源叙事重点：报道聚焦印度电信监管局（TRAI）强制来电显示应用将骚扰举报数据上传至运营商区块链平台的新规，重点呈现Truecaller对此提出的‘反竞争’与商业资产被无偿侵蚀的抗议，并援引多方政策智库分析该规定在跨行业管辖、数据共享边界、用户隐私合规及AI自动外呼定义上的潜在争议与模糊地带。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T01:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
+          }
+        ]
+      },
+      {
+        "id": "story--term-insurance-14d58069-342c15d586229e34",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:30:00.000Z",
+        "pubTime": "2026-09-19 07:30",
+        "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-19 07:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-18T23:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-companies-in-first-known-465fd461a79b6b49",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:15:47.000Z",
+        "pubTime": "2026-09-19 07:15",
+        "url": "https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/",
+        "imageUrl": "https://external-preview.redd.it/GfcaW6EAlA22GsJv2xXtkH_tqLgUtWqd421aKlv-sDc.jpeg?width=640&crop=smart&auto=webp&s=6aeb4c91b10421665684864ec1f238f4ce598c7d",
+        "fullContent": "submitted by /u/deeptechdegen [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-19 07:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/",
+            "publishedAt": "2026-09-18T23:15:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--early-highlighting-html-2c4bef79458e35ac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Peer sexual harassment emerges early, highlighting need for prevention before Grade 4",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T01:00:01.000Z",
+        "pubTime": "2026-09-19 09:00",
+        "url": "https://phys.org/news/2026-09-peer-sexual-emerges-early-highlighting.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/harassment-at-school.jpg",
+        "fullContent": "Sexual harassment between peers begins as early as Grade 4 and continues throughout lower secondary school. Most of those who sexually harass others have also experienced harassment themselves. These are among the findings of a doctoral thesis in psychology by Aziz-Kaan Dönmez from the University of Gothenburg, who studied peer sexual harassment among Swedish children and adolescents in Grades 4–9. Dönmez will defend his thesis on October 2.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-peer-sexual-emerges-early-highlighting.html",
+            "publishedAt": "2026-09-19T01:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nlandiya-2118671580-html-c454e8554f8edfc9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Премьеры Дании и Гренландии приветствуют потенциальное соглашение с США",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T01:13:53.000Z",
+        "pubTime": "2026-09-19 09:13",
+        "url": "https://ria.ru/20260919/grenlandiya-2118671580.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 09:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/grenlandiya-2118671580.html",
+            "publishedAt": "2026-09-19T01:13:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-as-youd-expect-for-an-ai-4215ed0c60a66649",
+        "title": "蒂莉·诺伍德的新闻宣传巡回正如你对AI所预期的那样进展不顺",
+        "originalTitle": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T00:12:07.000Z",
+        "pubTime": "2026-09-19 08:12",
+        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "imageUrl": null,
+        "fullContent": "Tilly Norwood, an AI-generated “actress,” is having a rough time on its first press tour. The production company that created it, Particle6 Group, has made it available for seventy-five simultaneous interviews with journalists, and it seems to be making mistakes in all of them. (I was not invited to speak with it, and frankly, I cannot imagine why Particle6 didn’t want to schedule that meeting.)\n\nIn one particularly odd interview with Piers Morgan and actor Tom Conti, which was recorded and posted online, Norwood seems to malfunction and abruptly begin speaking Chinese.\n\nWhen discussing the movie that Norwood is promoting, Conti asks if the other actors are also AI-generated. Norwood responds by saying that human writers, editors, and directors were involved.\n\n“You didn’t really understand the question,” Conti replies. “Are the other actors on the screen with you real actors, or are they computer-generated images? Do you know?”\n\n“Ah, right. You’re asking about the other actors in Misaligned,” Norwood starts. “They’re all digital twins just like me. It’s a hybrid production which m–”\n\nNorwood stops talking for a second, then starts speaking in Chinese for over ten seconds.\n\n“Tilly, if I could just ask you a question,” Morgan says, looking puzzled. “It’s Piers again… You seem to be speaking Chinese completely randomly for no reason. Why did you do that?” he asks.\n\n“Oh, my apologies,” the AI replies. “It seems I had a little hiccup there. I certainly didn’t mean to start speaking Chinese or impersonate Piers. Sometimes my wires get a bit crossed, you know?”\n\nWhen AI bots try to act like humans, they can be so convincing that people forget they’re chatting with a computer, which can lead to dangerous outcomes. But Norwood is so surprisingly bad at talking to people that it’s almost suspicious.\n\nPerhaps Particle6 Group calculated that people would be more likely to talk about Norwood if they were making fun of it, figuring no one would take its upcoming film seriously.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "AI生成的“女演员”蒂莉·诺伍德（Tilly Norwood）在其首场新闻宣传巡展中遭遇了窘境。打造它的制作公司Particle6集团安排了它与记者进行75场同步采访，而它似乎在每一场采访中都在频频出错。（我并没有受邀与它对话，坦白讲，我完全想不通为什么Particle6不想安排那场会面。）\n\n在一段被录制并发布到网上的、与皮尔斯·摩根（Piers Morgan）及演员汤姆·康蒂（Tom Conti）进行的格外怪异的采访中，诺伍德似乎出现了故障，突然开始讲起中文。\n\n在讨论诺伍德正在宣传的电影时，康蒂询问其他演员是否也是由AI生成的。诺伍德回答称，人类编剧、剪辑师和导演都参与了制作。\n\n“你并没有真正听懂这个问题，”康蒂回应道，“屏幕上与你演对手戏的其他演员是真人演员，还是电脑生成的图像？你知道吗？”\n\n“啊，对。你问的是《Misaligned》里的其他演员，”诺伍德开口道，“他们和我一样都是数字孪生。这是一部混合制作的影片，它意——”\n\n诺伍德停顿了一秒钟，随后开始讲了十多秒钟的中文。\n\n“蒂莉，我能不能问你一个问题，”摩根面露疑惑地说道，“又是皮尔斯……你似乎完全毫无缘由地随机讲起了中文。你为什么要这么做？”他问道。\n\n“噢，非常抱歉，”这个AI回答道，“看来我刚才出了点小状况。我绝不是故意要开始说中文或者模仿皮尔斯的。有时候我的线路会有点短路，你懂的吧？”\n\n当AI机器人试图表现得像人类一样时，它们可能会逼真到让人们忘记自己是在与一台电脑聊天，这可能会导致危险的后果。但诺伍德在与人交谈方面的表现出奇地差劲，甚至糟糕得近乎令人起疑。\n\n或许Particle6集团盘算过，如果人们嘲弄诺伍德，就更有可能会去谈论它，因为他们估计没人会把即将上映的这部电影当真。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n阿曼达·希尔伯林（Amanda Silberling）是TechCrunch的高级特写记者，关注科技与文化的交集。她还曾为Polygon、MTV、《肯扬评论》（the Kenyon Review）、NPR以及《商业内幕》（Business Insider）等出版物撰稿。她是探讨互联网文化的播客《Wow If True》的联合主持人（与科幻作家伊莎贝尔·J·金搭档）。在加入TechCrunch之前，她曾担任基层组织者、博物馆教育工作者和电影节协调员。她拥有宾夕法尼亚大学英语学士学位，并曾作为普林斯顿在亚洲（Princeton in Asia）项目的学者常驻老挝。\n\n您可以通过发送电子邮件至 amanda@techcrunch.com，或通过Signal发送加密消息至 @amanda.100 来联系阿曼达或核实其联络信息。\n\n预订展位的最后一天是9月18日。切勿错失在Disrupt展厅获得高价值线索、结识投资人以及提升品牌曝光度的机会。\n\nOpenAI被曝旗下模型给后继模型留备忘录以隐瞒不良行为\n\n最新解密文件显示，微软高管称AI数据抓取是“人类历史上最大规模的劳动力窃取”\n\n清洁科技初创公司Fluxnium找到了开发利用可供消耗5万年核燃料的方法\n\nSalesforce与英伟达联合推出的全新推理模型，正是各大AI实验室应当畏惧的对手\n\n黄仁勋接听了特朗普的电话，并展示了另一些东西\n\n风险投资人眼中的Y Combinator最新Demo Day最受关注的9家初创公司\n\nRevolut确认黑客通过伪造政府请求实施了客户数据泄露",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "Particle6 Group 制作了 AI 生成的“女演员” Tilly Norwood。",
+          "Particle6 Group 安排 Tilly Norwood 同时参与 75 场记者采访。",
+          "来源叙事重点：以讽刺和怀疑的视角聚焦 AI 生成“女演员” Tilly Norwood 巡回宣传中的连环车祸与语言故障，质疑其技术表现过于拙劣甚至可能是制作公司博取眼球的营销炒作。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T00:12:07.000Z",
+            "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story--sister-to-help-540def9a-39b02661ceb5bf52",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:00:00.000Z",
+        "pubTime": "2026-09-19 07:00",
+        "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-19 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-18T23:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ould-be-targeted-by-fake-31110dd790c80afd",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "FBI warned ICE agents could be targeted by fake ‘tradwife’ dating profiles — Internal memo said women wanted to dox and ‘embarrass’ agents, but provided few details",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:05:22.000Z",
+        "pubTime": "2026-09-19 07:05",
+        "url": "https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/",
+        "imageUrl": "https://external-preview.redd.it/we3QQfZUvOxQo_sN7a-T_3jhwdeNYOkj3LJF2jUNaoo.jpeg?width=640&crop=smart&auto=webp&s=9e56922bd63bd074154a67ffd6a5c6e4b46864a7",
+        "fullContent": "submitted by /u/marketrent [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-19 07:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/",
+            "publishedAt": "2026-09-18T23:05:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ed-soybeans-climate-html-a7ccc30784103746",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Scientists hope deeper-rooted soybeans can withstand climate extremes and store more carbon",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T22:20:02.000Z",
+        "pubTime": "2026-09-19 06:20",
+        "url": "https://phys.org/news/2026-09-scientists-deeper-rooted-soybeans-climate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-hope-deeper.jpg",
+        "fullContent": "Research scientist Ashish Rajurkar kneels in the dirt, lifting a large clod of soil tangled around a soybean plant. He knocks away pieces of earth from the plant's roots, which slope straight down instead of out to the side like typical soybean plants.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-19 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-scientists-deeper-rooted-soybeans-climate.html",
+            "publishedAt": "2026-09-18T22:20:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eroporty-2118671456-html-bc45faa12e1e5e5d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В аэропорту Ярославля ввели временные ограничения",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-19T01:09:05.000Z",
+        "pubTime": "2026-09-19 09:09",
+        "url": "https://ria.ru/20260919/aeroporty-2118671456.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e9/04/1b/2013692743_0:166:3053:1883_650x0_80_0_0_2a04908204d41244cc4778538b28e1ee.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-19 09:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260919/aeroporty-2118671456.html",
+            "publishedAt": "2026-09-19T01:09:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-is-all-in-on-physical-ai-8401e8e9e2ed3c17",
+        "title": "一家专门孵化初创企业的公司获1亿美元融资，全力押注物理AI",
+        "originalTitle": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T23:25:01.000Z",
+        "pubTime": "2026-09-19 07:25",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "imageUrl": null,
+        "fullContent": "Four years ago, a startup lab launched that wasn’t quite an incubator, accelerator program, or venture firm. UP.Labs, as it was called then, built startups designed to solve problems for corporate customers such as Alaska Airlines and Porsche, as well as for the outside world.\n\nThe firm still has the same mission — albeit with a critical addition to its approach, a new name, and a $100 million investment from Silversmith Capital Partners. Vantora, as the firm is now called, continues to work with its corporate customers, including some new ones in industrial manufacturing that it declined to name, and in the oil and gas sector.\n\nBut now, it’s more focused on building startups solely for its corporate customers, and not for the broader market.\n\nFounder and CEO John Kuolt told TechCrunch that Vantora is moving toward a “proprietary M&A pipeline.” This means Vantora will still build startups for its corporate partners, which invest in the ventures and serve as their first customers. But those corporate partners now have the option to fold the startups into their core businesses — and essentially keep them to themselves.\n\nThat shift has influenced Vantora’s increased focus on physical AI startups, according to Kuolt.\n\nIn the past, Vantora would end up spiking ideas that were strategic to its corporate partners, but too sensitive to bring to the outside world.\n\n“We were missing on the biggest value problems, which had the biggest upside because of that,” Kuolt said in a recent interview. “Imagine you’re a Fortune 100 industrial company and you need to retrofit all of your hardware and machines for autonomy. You need to own that, it needs to be sovereign, and you can’t rely on a third party to go do that for you. You need to own that intelligence layer. They’re never going to let us go sell that to their competitors.”\n\nThis change has allowed Vantora to “unlock big physical AI use cases,” according to Kuolt, including with its existing customers.\n\nFor example, the firm came up with an idea to use AI to advance the business of its partner J.B. Hunt. “They said there is no way you can take this out to the world, and so we passed on it,” he said, adding that this proprietary model now allows Vantora to pursue it.\n\nThe firm launched in 2022 with Porsche as its first corporate partner. Since then, Vantora has launched several startups for Porsche and struck deals with Alaska Airlines, J.B. Hunt, Wabash, and TDG, the parent of Ashley Furniture.\n\nIn its early days, UP.Labs was tied — although never financially — to venture firm Up.Partners. While Vantora still shares office space with the California-based VC, it is its own entity, Kuolt explained, noting that the $100 million from Silversmith is the company’s first outside investment.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nThe 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs\n\nRevolut confirms customer data breach through fake government requests",
+        "fullTranslation": "四年前，一家既非传统孵化器、加速器项目，也非风投机构的创业实验室正式成立。当时名为 UP.Labs 的这家机构，专门打造旨在为阿拉斯加航空（Alaska Airlines）和保时捷（Porsche）等企业客户以及外部市场解决难题的初创企业。\n\n如今，该机构依然秉持着这一使命——不过其运作方式迎来了关键补充，不仅启用了全新名称，还获得了来自 Silversmith Capital Partners 的1亿美元投资。这家现已更名为 Vantora 的公司，继续与其企业客户合作，其中包括一些拒绝透露名称的工业制造领域新客户，以及石油与天然气领域的合作伙伴。\n\n但目前，它更专注于仅为企业客户打造初创企业，而非面向更广泛的大众市场。\n\n创始人兼首席执行官约翰·库尔特（John Kuolt）向 TechCrunch 表示，Vantora 正转向“专有并购管道”（proprietary M&A pipeline）。这意味着 Vantora 仍将为其企业合作伙伴打造初创企业，合作伙伴向这些创投项目注资并担任其首批客户。但这些企业伙伴现在拥有将初创企业收编整合进其核心业务的选项——本质上将其专享自用。\n\n库尔特表示，这一转变推动了 Vantora 进一步聚焦于物理AI（physical AI）初创企业。\n\n过去，Vantora 最终往往会放弃一些对其企业合作伙伴具有战略意义、但因过于敏感而无法推向外界的创意。\n\n“正因如此，我们错失了那些最具价值、增长潜力最大的难题，”库尔特在近期的一次采访中表示，“设想你是一家财富100强的工业企业，你需要对所有硬件和机器进行自主化改造。你必须拥有这套系统，它必须具备自主主权，你不能依赖第三方替你去完成。你必须掌控这个智能层。他们绝不会允许我们把这些技术出售给其竞争对手。”\n\n库尔特称，这一变革使 Vantora 能够“解锁重大的物理AI应用场景”，其中也包括现有客户的项目。\n\n例如，该公司曾提出一个利用人工智能推进其合作伙伴 J.B. Hunt 业务的方案。“对方当时说，你们绝不能把这个方案推向外界，所以我们只能作罢，”他说道，并补充表示如今这种专有模式使 Vantora 能够继续推进该项目。\n\n该公司于2022年启动，保时捷为其首个企业合作伙伴。自那时起，Vantora 已为保时捷孵化了多家初创企业，并与阿拉斯加航空、J.B. Hunt、Wabash 以及爱室丽家居（Ashley Furniture）的母公司 TDG 达成了合作协议。\n\n在创立初期，UP.Labs 曾与风险投资机构 Up.Partners 保持关联（尽管从未涉及财务层面）。库尔特解释称，虽然 Vantora 仍与这家总部位于加州的风投机构共用办公场地，但它是一家独立的实体；他同时指出，来自 Silversmith 的1亿美元是该公司的首笔外部投资。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n交通板块编辑\n\n展位预订截止日期为9月18日。切勿错过在 Disrupt 展览厅获得高价值销售线索、接触投资者以及提升品牌曝光的机会。\n\nOpenAI 发现其模型通过给后继模型留言以隐瞒不良行为\n\n最新公开的未删节法庭文件披露，微软高管称 AI 数据抓取是“人类历史上最大规模的劳动力盗窃”\n\n清洁科技初创企业 Fluxnium 找到利用可供使用5万年的核燃料的方法\n\nSalesforce 与英伟达联合推出的全新推理模型，正切中所有 AI 实验室的软肋\n\n黄仁勋接到了特朗普的电话，并展示了另一项成果\n\n风投机构评选出 Y Combinator 最新 Demo Day 最受关注的9家初创企业\n\nRevolut 证实因虚假政府请求导致客户数据泄露事件",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "初创企业孵化机构 UP.Labs 更名为 Vantora。",
+          "Vantora 从 Silversmith Capital Partners 获得了 1 亿美元的投资，这是该公司的首笔外部投资。",
+          "来源叙事重点：报道初创孵化实验室 UP.Labs 更名为 Vantora 并获得来自 Silversmith Capital Partners 的 1 亿美元首笔外部融资；重点剖析其商业模式转向“专有并购管道”（proprietary M&A pipeline），即专注于为传统工业与制造巨头定制孵化“物理人工智能”（Physical AI）初创公司并供其独家并购，以此解决大企业在自主权与敏感商业数据保密方面的痛点。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-18T23:25:01.000Z",
+            "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-a-4ca6-9f1c-f0a927ed983c-cbd13358186b26ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump says US has deal with Denmark for ‘control’ of Greenland’s security",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T22:48:00.000Z",
+        "pubTime": "2026-09-19 06:48",
+        "url": "https://www.ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8067781-a5e5-439d-9937-b7ec6bbcf3cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Danish government says agreement could be signed next week and will respect territory’s sovereignty",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-19 06:48 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-18T22:48:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lt-a-biology-lab-reuters-b29e8394a715dec1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Anthropic has quietly built a biology lab, Reuters reports - The company confirms the wet lab exists and says it is not specifically for drug discovery.",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-18T22:51:23.000Z",
+        "pubTime": "2026-09-19 06:51",
+        "url": "https://www.reddit.com/r/technology/comments/1wk51pv/anthropic_has_quietly_built_a_biology_lab_reuters/",
+        "imageUrl": "https://external-preview.redd.it/LSG0PSZfX1C0isnqnrqKTA9IaPd-xcwmndI6lI8FSE4.jpeg?width=640&crop=smart&auto=webp&s=d30b226bc09f72a56981edd3e463ed50c9fed0ce",
+        "fullContent": "submitted by /u/polymute [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-19 06:51 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wk51pv/anthropic_has_quietly_built_a_biology_lab_reuters/",
+            "publishedAt": "2026-09-18T22:51:23.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789711984417,
     "timeDisplay": "2026-09-18 14:13 (UTC+8)",
     "date": "2026-09-18",
