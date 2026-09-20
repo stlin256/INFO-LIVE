@@ -16,29 +16,100 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-19-yavka-2118781919-html-822b359d1d803f81" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="ru" data-content-length="382" data-content-paragraphs="1" data-published-at="2026-09-19T14:23:58.000Z" data-time-source="publication">
+<div id="story-s-articles-cm780ll1de18o-478e73a6c211621e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1700" data-content-paragraphs="32" data-published-at="2026-09-20T01:10:01.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
+    <span class="stance-badge">英伦主流建制</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-20 09:10</span>
+</div>
+
+### [埃德·希兰就麦克勒莫尔争议发声并承认“犯了错”](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Ed Sheeran admits &#39;mistakes&#39; as he addresses Macklemore controversy</div>
+
+<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c0/live/a2a58bf0-b48e-11f1-8168-ab6075de3970.jpg" alt="埃德·希兰就麦克勒莫尔争议发声并承认“犯了错”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>歌手埃德·希兰（Ed Sheeran）在他最新一场演唱会中独自登台开场，并就处理美国说唱歌手麦克勒莫尔（Macklemore）因发表亲巴勒斯坦言论被踢出巡演所引发的争议向歌迷道歉，承认自己犯了“错误”。</p>
+<p>“我从不想成为一名激进主义音乐人，但这件事却把我推向了一场关乎言论自由和全球最复杂政治议题的重要而激烈的辩论中心，”他说道。</p>
+<p>周六在费城一座体育场举行的演出，是他首次就此事当面作出回应。</p>
+<p>这是一场经过精简的演出，在多位音乐人因这起风波退出后，希兰在没有开场嘉宾的情况下登台。</p>
+<p>“我的演唱会一直都是属于每个人的安全空间，”他在演出开始时表示，并补充称自己对歌迷怀有承诺，这正是他重返舞台的原因。</p>
+<p>“现在，我想回应一个问题，那就是我在以色列和巴勒斯坦局势中的立场是什么，以及我今晚在这里举办这场演唱会是否意味着我的立场，”他说道。</p>
+<p>“在我的职业生涯中，我一直努力不成为任何形式的政治评论员，因为我希望我的音乐和演出传递的是团结而不是分裂；是人性而不是政治。但这关乎人道主义问题，我再也无法隐瞒自己的感受了。”</p>
+<p>希兰表示，2023年10月7日袭击事件中在以色列发生的事情是“可怕的，并且加剧了犹太人几个世纪以来的痛苦”。</p>
+<p>他补充道：“加沙正在发生的事情是灾难性的、毫无道理的且是不成比例的。看到平民特别是儿童丧生的规模和遭受的毁灭，我的心碎了，我们在约旦河西岸看到的系统性不公也不容忽视。”</p>
+<p>他表示，自己正在努力“想办法做出贡献，以帮助这个可怕时期的受害者，并正在倾听和学习，因为我了解得还不够多”。</p>
+<p>随后，希兰在发言结尾表示，他希望自己的演唱会能成为一个让所有人无论持有何种信仰都能齐聚一堂的地方。</p>
+<p>受这一争议影响，他“Loop巡演”剩余美国场次的门票价格出现下跌，销量也有所下滑。</p>
+<p>这位歌手曾表示，取消麦克勒莫尔演出的决定是由他的主办方做出的，而不是他本人。</p>
+<p>演出比原计划推迟了将近三个小时，歌迷们在开演前陆续入场。</p>
+<p>希兰剩余的巡演日程包括横跨北美和南美的多场演出。尽管这位巨星此前的巡演曾位列史上票房最高之列，但本场演出的部分门票价格已跌至32美元（约合24英镑）。</p>
+<p>歌迷还反映能够获得退票，不过票务平台Ticketmaster和巡演承办方Messina Touring Group尚未确认已在办理退款。</p>
+<p>演出开始前约一个小时，数百名观演观众开始涌入现场。</p>
+<p>入场大门外聚集着几台媒体摄像机，不过大多数歌迷都避开了媒体采访。</p>
+<p>在持票观众涌向林肯金融球场（Lincoln Financial Field）之际，几十名抗议者出现在最近的地铁站外挥舞旗帜——但演唱会总体上在未受实质阻碍的情况下继续进行。</p>
+<p>埃德·希兰与麦克勒莫尔：一场巡演如何演变成风波</p>
+<p>在少数停下来接受BBC采访的观众中，大家表达出一种既要享受音乐之夜、同时又支持言论自由的坚定态度。</p>
+<p>一对每张票支付了450美元的夫妇表示，他们尊重麦克勒莫尔自由表达的权利。</p>
+<p>另有两位女士表示，她们是在降价后以“划算的价格”买到今晚演唱会门票的，她们既支持巴勒斯坦自由，同时也热爱希兰的音乐。</p>
+<p>最后，一个家庭让他们的两个十几岁的小女儿接受了采访，分别是15岁的维多利亚和13岁的萨迪。</p>
+<p>当被问及对这场争议以及麦克勒莫尔被除名有何看法时，她们回答道：“麦克勒莫尔是谁？”</p>
+<p>一名自称库珀（Cooper）的抗议者告诉BBC，他前来是“为了支持巴勒斯坦人民的抗争”。</p>
+<p>“我们需要更多像麦克勒莫尔这样有话语权、有公共平台的艺术家，代表巴勒斯坦人民及其争取解放的抗争发声，尤其是在美国，”他说道。</p>
+<p>库珀表示，演唱会上最好的情况是希兰能做出道歉，但他对此并不乐观。</p>
+<p>在周六的演唱会开始前，现场曾有小规模抗议活动。</p>
+<p>“这是不可能发生的。我希望能听到他说种族灭绝是真实的，我们必须竭尽所能去制止它。但我并不真正抱有这种指望，”他说道。</p>
+<p>以色列否认了所有关于种族灭绝的指控。以方表示，其军队在加沙和约旦河西岸被占领土的行动是符合国际法的自卫行动。</p>
+<p>手持埃德·希兰门票的美国歌迷因麦克勒莫尔引发的争议而左右为难。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>来源叙事重点：聚焦黄老板（Ed Sheeran）费城演唱会首度公开回应巡演风波，呈现其承认处理有失误、对巴以人道危机的平衡表态，以及现场观众、抗议者与主办方的多方反应和票房冲击</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#BBC</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-0-vybory-2118840396-html-14830efe3aa2673f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="ru" data-content-length="376" data-content-paragraphs="9" data-published-at="2026-09-20T00:39:15.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 22:23</span>
+  <span class="news-meta-time">🕒 2026-09-20 08:39</span>
 </div>
 
-### [库兹巴斯选举投票率超过58%](https://ria.ru/20260919/yavka--2118781919.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Явка на выборах в Кузбассе превысила 58 процентов</div>
+### [国家杜马选举马来西亚投票站开放](https://ria.ru/20260920/vybory-2118840396.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> В Малайзии открылся избирательный участок на выборах в Госдуму</div>
 
-<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07ea/09/13/2118780919_0:0:3062:1722_650x0_80_0_0_7ebb21f652c1ea0e38fed88507f8f4ff.jpg" alt="库兹巴斯选举投票率超过58%" loading="lazy" /></div>
+<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07e9/09/0f/2041962371_0:0:2934:1651_650x0_80_0_0_0dc2fda2d90ec0753e514ad8af92696a.jpg" alt="国家杜马选举马来西亚投票站开放" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>统一投票日正处于最关键阶段。<br />投票将持续三天——从9月18日到20日。<br />在联邦选区参选的党派包括：“统一俄罗斯”党、俄罗斯自由民主党（LDPR）、直接民主党、“绿党”、“公正俄罗斯”党、“祖国”党、俄罗斯联邦共产党（KPRF）、退休者党、“俄罗斯共产党人”党以及“新人”党。<br />总计将举行2200多场不同级别的竞选活动。俄罗斯人将选出2.07万名议员和行政长官。<br />大多数投票站的开放时间为08:00至20:00。边境地区的部分投票站属于例外——那里的投票时间有所缩短。<br />顿涅茨克人民共和国（DNR）、卢甘斯克人民共和国（LNR）、扎波罗热州和赫尔松州的居民将首次选举下议院（国家杜马）代表。<br />对于他们以及某些边境地区的选民，提供了提前投票的途径。在海外152个国家开设了333个投票站。<br />此外，俄罗斯人也有机会在境外进行投票。<br />图为：设在俄罗斯驻北京大使馆的投票站。</p></div>
+<div class="article-body" data-article-body="true"><p>统一投票日正在全面展开。</p>
+<p>投票将持续三天——从9月18日至20日。</p>
+<p>在联邦选区参选的政党包括：“统一俄罗斯”党、俄罗斯自由民主党（LDPR）、直接民主党、“绿党”、“公正俄罗斯”党、“祖国”党、俄罗斯联邦共产党（KPRF）、退休人员党、“俄罗斯共产党人”党以及“新人”党。</p>
+<p>总共将举行2200多场各级别选举。俄罗斯公民将选出2.07万名议员和各级行政长官。</p>
+<p>绝大多数投票站的开放时间为08:00至20:00。部分边境地区的投票站属于例外情况——那里的投票时间有所缩短。</p>
+<p>顿涅茨克人民共和国、卢甘斯克人民共和国、扎波罗热州和赫尔松州的居民将首次参与选举议会下院代表。</p>
+<p>上述地区以及部分边境地区的选民可进行提前投票。在海外，已在152个国家开设了333个投票站。</p>
+<p>此外，俄罗斯人也有机会在国外进行投票。</p>
+<p>图注：俄罗斯驻北京大使馆内的投票站。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>俄罗斯库兹巴斯地区选举投票率超过58%</li>
-    <li>统一投票日持续三天，从9月18日至20日举行</li>
-    <li>来源叙事重点：重点展现俄罗斯统一投票日期间全国及海外投票活动的有序、广泛开展，突出参选政党多样性、投票规模（涵盖各级选举超2200场）、新加入地区（顿涅茨克、卢甘斯克、扎波罗热、赫尔松）选民首次参选的象征意义，以及地方高投票率（如库兹巴斯超58%）。</li>
+    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-20 08:39 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -47,108 +118,54 @@ notice:
   <span class="news-tag-pill">#RIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260919/yavka--2118781919.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ria.ru/20260920/vybory-2118840396.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ped-florida-1990-murders-4f3e15dfa02d5bbf" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2665" data-content-paragraphs="34" data-published-at="2026-09-19T14:22:33.000Z" data-time-source="publication">
+<div id="story-kers-as-death-toll-rises-c704047dd86824ff" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="961" data-content-paragraphs="16" data-published-at="2026-09-20T00:36:05.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台官方英文)</strong></span>
+    <span class="stance-badge">全球南方与海湾枢纽</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 22:22</span>
+  <span class="news-meta-time">🕒 2026-09-20 08:36</span>
 </div>
 
-### [盖恩斯维尔遗忘橄榄球的一周：揭秘1990年连环谋杀案笼罩下的佛罗里达恐慌](https://www.foxnews.com/outkick-sports/week-gainesville-forgot-football-inside-terror-gripped-florida-1990-murders)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The week Gainesville forgot about football: Inside the terror that gripped Florida during the 1990 murders</div>
+### [死亡人数攀升 刚果（金）为卫生工作者推广接种埃博拉疫苗](https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises)
+<div class="original-title-sub"><span class="orig-tag">原文</span> DR Congo rolls out Ebola vaccine for health workers as death toll rises</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/university-florida-students-shotgun-protection.jpg?ve=1&amp;tl=1" alt="盖恩斯维尔遗忘橄榄球的一周：揭秘1990年连环谋杀案笼罩下的佛罗里达恐慌" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>在盖恩斯维尔，大学橄榄球赛季就是一切。</p>
-<p>这座小镇历来都围绕着佛罗里达短吻鳄队（Florida Gators）运转。盖恩斯维尔是一座大学城，围绕着佛罗里达大学而建。球队的起伏，牵动着整座小镇的脉搏。</p>
-<p>无意冒犯迈阿密大学和佛罗里达州立大学，但大多数人都会认为佛罗里达州是短吻鳄队的天下。是的，我知道这可能会惹恼一些人。请大家别在这点上纠结，姑且听我说下去。</p>
-<p>我想表达的是什么？在橄榄球赛季期间，生活中极少有事情能真正转移人们对短吻鳄队的关注——尤其是像史蒂夫·斯珀里尔（Steve Spurrier）这样的传奇人物即将回归，这一次是以主教练的身份挂帅执教。</p>
-<p>然而，1990年8月却打破了这一切。</p>
-<p>【播客社区如何帮助佛罗里达橄榄球队恢复备受争议的“短吻鳄诱饵”助威呐喊】</p>
-<p>“我记得在沃尔玛，排队买枪的队伍一直延伸到了走道里，”前佛罗里达大学学生埃里克·塔尔巴卡（Erik Tallbacka）本周对OutKick表示。“当飓风来袭时，你如果在家得宝（Home Depot）采购物资做准备，空气中就会有那种紧绷感，就像暴风雨将至。当时就是那种飓风来临前的感觉。”</p>
-<p>“但那并不是飓风要来，而是连续三个晚上，每天晚上都有人遇害。整个校园、整座小镇，都笼罩在那股清晰可感的‘大家同舟共济、共渡难关’的氛围中。”</p>
-<p>本周早些时候，我写过关于ESPN近期《30 for 30》栏目讲述丹尼·罗林（Danny Rolling，又被称为“盖恩斯维尔开膛手”）的报道。1990年8月，也就是在劳动节周末的前几天、新橄榄球赛季开始前约两周，罗林残忍杀害了五名大学生。</p>
-<p>罗林最终被捕，并对这几起谋杀案——以及在路易斯安那州什里夫波特犯下的数起凶杀案——表示认罪，随后被判处死刑。他于2006年被注射死刑。</p>
-<p>罗林被称为“盖恩斯维尔开膛手”。他毫无实际动机的疯狂杀戮催生了数本书籍和一部电影。编剧凯文·威廉姆森（Kevin Williamson）透露，恐怖电影系列《惊声尖叫》（Scream）的灵感就大致源自盖恩斯维尔连环谋杀案。</p>
-<p>因此，没错——36年过去了，那段臭名昭著的一周依然历历在目。经历过那样的事情，你怎么可能轻易忘记？</p>
-<p>周三我发表那篇文章后，收到了数十位读者的来信——他们中的大多数都是在罗林在逃期间身在校园的佛罗里达大学校友。</p>
-<p>他们所有人用到的同一个词就是：骇人听闻（Horrific）。</p>
-<p>“当你开车穿行在路上或公寓区时，人们都在窗户上装了铁撑条，以防有人撬窗而入，”杜安·恩格尔（Duane Engel）回忆道。“谁都不知道到底是谁干的。”</p>
-<p>【克雷格·卡顿秀——毫无滤镜、直言不讳、不容错过。立即下载他的每日播客！】</p>
-<p>当然，那时也没有社交媒体。那距离X平台（原推特）问世还有几十年。塔尔巴卡说，大家只能守着看晚间新闻以获取最新消息，那就是你能得到的一切信息来源。</p>
-<p>人人都处于极度紧绷的状态。</p>
-<p>“当你漫步在镇上和校园里，我记得，如果走进一家店，你会审视每一个人，觉得任何一个家伙都有可能是凶手，”他回忆说。“我们完全一无所知。晚上上床睡觉时，特别是到了第三天，已经发生了五起命案，我是说，那天晚上你会止不住想：会有人闯进我的公寓吗？”</p>
-<p>“所以睡觉变得特别诡异。我和几个男生住在一起，我女朋友和几个女生住在一起，我们就睡在她们那边。就像我刚才提到的，我们手头没有枪。我虽然是个打猎狂热者，但在大学里没带枪。于是我们拿来了高尔夫球杆和棒球棒，睡在沙发上。只要听到任何声响，比如车门砰的一声关上，神经就会瞬间高度紧绷。”</p>
-<p>斯珀里尔做出了一个著名的决定：允许球员的女友们留宿在永恩楼（Yon Hall）——这是整个橄榄球队所居住的高安保等级宿舍楼。</p>
-<p>马特·索维克（Matt Sovic）当时刚返校升入大四，在凶案开始发生的那个周末去参加了一个派对。他当时借住在威廉斯堡村（Williamsburg Village）的朋友家——也就是新生索尼娅·拉森（Sonja Larson）和克里斯蒂娜·鲍威尔（Christina Powell）所居住的同一个公寓区。</p>
-<p>“我当时把车直接停在了一楼四户单元的门正前方，那里正是第一批受害者居住的寓所，”他说。“周六晚上我们动身去参加派对时，我的老室友一坐进车里，就顺手把手里的啤酒罐扔出了我的车窗，掉在院子里。”</p>
-<p>“第二天，我们眼睁睁看着它被装进了证物袋。我可以向你保证，那个证物袋里的啤酒是一个高罐百威。当时还不知道发生了双重谋杀案，我们还开玩笑对朋友说，既然警方现在掌握了他的指纹，不管发生了啥事他都成嫌疑犯了。”</p>
-<p>罗林在8月24日至8月27日期间共杀害了五名学生。其中四名为棕发褐瞳的女性，特征与其母亲一致。</p>
-<p>第五名受害者是23岁的曼尼·塔博阿达（Manny Taboada）——一名身高6英尺2英寸（约188厘米）、体重200磅（约90公斤）的男性。</p>
-<p>“直到我们得知他杀害了那个在阿彻路（Archer）和大约第34街街角工作的高大男子，校园里所有人的自大傲慢才彻底破灭，”刚升入大四的凯文·莱蒂泽（Kevin Letize）回忆道。“在那起案子曝光之前，我们都以为这只是个典型的变态杀手。”</p>
-<p>“一旦那个高大强壮的男生遇害，所有自命不凡的‘硬汉’学生也都开始严阵以待了。”</p>
-<p>那么，橄榄球与这一切又是如何联系起来的呢？其实毫无联系——除了一点，它或许为小镇历史上最惊心动魄、恐慌万状的一周画上了一个急需的句号。</p>
-<p>经过反复磋商，佛罗里达大学和斯珀里尔率领的球队于9月8日迎战俄克拉荷马州立大学，揭开了新赛季的大幕。连环凶案已经停止，至少停息了几天，但许多学生当时已彻底撤离离开。留下来的人则竭尽全力试图重回某种正常生活。</p>
-<p>短吻鳄队以50比7大获全胜。谢恩·马修斯（Shane Matthews）一战成名、家喻户晓。斯珀里尔让佛罗里达橄榄球重获新生。更重要的是，这支球队让一座极度渴望微笑由头的小镇重新焕发生机。</p>
-<p>“我从未见过一个地方遭受如此恐慌的折磨，”格伦·萨默斯（Glenn Summers）说道。</p>
-<p>塔尔巴卡补充说：“我想当时每个人都像置身于迷雾之中。但我认为，到了那场比赛打响的时候，已经有一个多星期没人遇害了。回想起来，我确实认为，观看那场比赛让大家的生活重归正轨。不再只是去上课却发现停课了，或者连续三天每天晚上都有人惨遭杀害。”</p>
-<p>“随着一周的时间过去，随着那场橄榄球比赛的到来，我认为那正是大家终于能够松一口气的时刻。我认为那就是恐慌的终曲。”</p></div>
+<div class="article-body" data-article-body="true"><p>5万名前线人员将接种针对另一种埃博拉病毒毒株的疫苗，其中2万人已参与为期一年的临床试验。</p>
+<p>刚果民主共和国（刚果（金））部分地区的医务工作者已开始接种一种疫苗，许多人希望该疫苗能针对埃博拉病毒提供一定程度的保护。</p>
+<p>疫苗接种推广于周六在刚果（金）东北部伊图里省首府布尼亚启动。伊图里省是历史上蔓延最快的埃博拉疫情的震中。</p>
+<p>该省省长加比·卡松戈·穆伦巴少将（Major-General Gaby Kasongo Mulumba）表示，当地的医务人员“暴露风险极高，且深度参与了应对工作”。</p>
+<p>卫生部门表示，该行动得到了世界卫生组织（WHO）和无国界医生组织（法文缩写为MSF）的支持，还将覆盖病例急剧上升的北基伍省。</p>
+<p>约5万名医护及其他前线工作人员将接种Ervebo疫苗，该疫苗原本是针对更为常见的扎伊尔型埃博拉病毒株研发的。</p>
+<p>它对当前由本迪布焦（Bundibugyo）病毒引起的埃博拉毒株的有效性，将在2万名接种者中进行长达一年的监测。</p>
+<p>目前正在进行临床试验，以寻找针对此次最新疫情的获批疫苗。此次疫情尚无获批的疫苗或经证实的治疗方法。</p>
+<p>刚果（金）抗击埃博拉疫情卫生工作组成员、官方官员史蒂夫·阿胡卡（Steve Ahuka）表示：“我们尚不清楚它在多大程度上对本迪布焦毒株有效。”</p>
+<p>让诺·埃卢阿医生（Dr Jeannot Elua）在布尼亚的一家医疗机构表示，该疫苗“是有益的”。</p>
+<p>“我们医护人员其实没有选择。我们都会去接种，”他向美联社表示，“这里的一些人此前已经接种过上一款疫苗。我自己也接种过，因为那是强制性的。”</p>
+<p>世卫组织专家表示，关于Ervebo疫苗的早期数据（尤其是动物试验数据）表明，它可能在当前的疫情中提供一定保护。</p>
+<p>根据地方当局的最新数据，自5月以来，该病毒已造成至少3639人死亡、约7541人感染。约有1823人已康复。</p>
+<p>世卫组织8月表示，已批准7万剂Ervebo疫苗供刚果（金）使用。</p>
+<p>该疫苗目前依据“同情使用”（compassionate-use）计划进行接种，该机制允许在面临严重疾病的情况下使用某种医疗产品，即便它尚未被专门批准用于该特定用途。</p>
+<p>尽管世卫组织官员提到了传播可能正在放缓的“令人鼓舞的迹象”，但无国界医生组织周五警告称，尚无明确证据表明疫情已得到控制。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-19 22:22 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-09-20 08:36 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#Al</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/week-gainesville-forgot-football-inside-terror-gripped-florida-1990-murders" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-6-88ea-603b266fc8c4-html-6ccf4c4264d87333" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="542" data-content-paragraphs="1" data-published-at="2026-09-19T14:21:39.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-19 22:21</span>
-</div>
-
-### [意大利驻安卡拉大使馆举办反洗钱研讨会](https://www.ansa.it/english/news/news_from_embassies/2026/09/19/seminar-on-anti-money-laundering-organized-by-the-italian-embassy-in-ankara_e8a6ea1e-3ef6-43e6-88ea-603b266fc8c4.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Seminar on anti-money laundering organized by the Italian Embassy in Ankara</div>
-
-<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/19/d7dd80b92b0cf8b4cc69eba8d7c4340e.jpg" alt="意大利驻安卡拉大使馆举办反洗钱研讨会" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>（安莎社）- 伊斯坦布尔，9月19日 - 意大利与土耳其在反洗钱领域的经验交流成为在安卡拉举行的一场研讨会的焦点。该研讨会由意大利大使馆与土耳其财政部联合举办，共有200名与会者出席，其中包括土耳其政府官员、外交官以及来自20多个国家的专家。“我们在地中海地区是土耳其最大的贸易伙伴。我们正在加强双边经贸关系，这部分得益于外交部的出口计划，而在打击非法资金流动方面的合作是深化这一伙伴关系的极佳工具，”意大利驻土耳其大使朱塞佩·曼佐（Giuseppe Manzo）表示。他与土耳其财政部副部长伊尔汗·哈蒂波奥卢（Ilhan Hatipoglu）共同为研讨会揭幕。近几个月来，意大利的出口额录得显著增长（6月同比增长11.3%，7月同比增长6.6%），加强意大利与土耳其之间的经贸和投资往来也是副总理兼外交与国际合作部部长安东尼奥·塔亚尼（Antonio Tajani）昨日在罗马举行的会议的核心议题。作为使馆“Ideha26”系列活动的一部分，此次在安卡拉举行的研讨会还包括意大利央行金融情报局（UIF）局长恩佐·塞拉塔（Enzo Serata）以及土耳其对口机构金融犯罪调查委员会（MASAK）主席哈桑·卡伊马克（Hasan Kaymak）的发言，两位官员阐述了两种模式的具体特征。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-19 22:21 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#ANSA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ansa.it/english/news/news_from_embassies/2026/09/19/seminar-on-anti-money-laundering-organized-by-the-italian-embassy-in-ankara_e8a6ea1e-3ef6-43e6-88ea-603b266fc8c4.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Al Jazeera (半岛电视台官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::

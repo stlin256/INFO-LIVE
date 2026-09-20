@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-19 · 今日](/INFO-LIVE/archive-2026-09-19/)
+- [2026-09-20 · 今日](/INFO-LIVE/archive-2026-09-20/)
+- [2026-09-19 · 历史快照](/INFO-LIVE/archive-2026-09-19/)
 - [2026-09-18 · 历史快照](/INFO-LIVE/archive-2026-09-18/)
 - [2026-09-17 · 历史快照](/INFO-LIVE/archive-2026-09-17/)
 - [2026-09-16 · 历史快照](/INFO-LIVE/archive-2026-09-16/)
@@ -30,14 +31,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **52** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **53** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-19 22:33 (UTC+8)
+- **最新归档时间**：2026-09-20 09:22 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-20 09:22 (UTC+8)" title="全球要闻情报简报 · 09:22" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-20 09:18 (UTC+8) 完成，共获得 24 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】埃德·希兰就麦克勒莫尔争议发声并承认“犯了错”：歌手埃德·希兰（Ed Sheeran）在他最新一场演唱会中独自登台开场，并就处理美国说唱歌手麦克勒莫尔（Macklemore）因发表亲巴勒斯坦言论被踢出巡演所引发的争议向歌迷道歉，承认自己犯了“错误”。；【undefined】国家杜马选举马来西亚投票站开放：统一投票日正在全面展开。；【undefined】死亡人数攀升 刚果（金）为卫生工作者推广接种埃博拉疫苗：5万名前线人员将接种针对另一种埃博拉病毒毒株的疫苗，其中2万人已参与为期一年的临床试验。；【undefined】五月谜题：2026年6月22日 - 2026年6月22日 我平时不太沉迷于 Facebook，但是——哇——MM（五月谜题）Facebook 群组里的人确实多得惊人。 近期内容：来自 phoenixmag.com 的《亚利桑那的达·芬奇密码》 万物皆有终结，但谜题依然存在。 嘿，快看——这里有个 Facebook 群组。另外：该 Facebook 群组现在也有了邮政信箱 :) 信箱由罗伯特打理，地址为：Robert Bannon 2719 Gol；【undefined】Hacker News 排名机制解析：评分、争议与惩罚（2013）：通过对 Hacker News 前 60 篇热门文章进行为期数天的仔细分析，我可以回答这些问题以及更多细节。官方公开的排名公式大体上是准确的。但排名的微调程度远超你的想象，首页上有 20% 的文章会受到各种形式的惩罚。标题中包含“NSA”（美国国家安全局）的任何内容都会受到惩罚并迅速下榜。一篇“具争议性”的文章在达到 40 条评论后会受到严厉惩罚。本文详细介绍了其评分机制和惩罚机制。[编辑说明：HN 现已不再对涉及 NSA 的文章施加惩；【undefined】Meta 的 Muse 令人毛骨悚然，但原因或许与你想的不同：来自该话题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。；【undefined】报道称Flock试图通过员工买断计划缩减人员规模：据《连线》（Wired）杂志报道，深陷舆论漩涡的监控技术公司Flock Safety于周五公布了一项针对员工自愿离职的“丰厚”遣散方案。；【undefined】监测互联网审查。为规模最大的开放数据集贡献力量：为全球最大的互联网审查开放数据集贡献力量。
+
+**重点要闻索引：**
+- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/politics/2190179) <span class="news-meta-time">🕒 2026-09-20 09:14</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://github.com/theguysudo/ENZO) <span class="news-meta-time">🕒 2026-09-20 07:47</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-20 09:03</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wl0j57/no_warrant_needed_border_agents_in_ny_ct_and_vt/) <span class="news-meta-time">🕒 2026-09-20 07:10</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-steel-site-pittsburgh-bacteria-evolved.html) <span class="news-meta-time">🕒 2026-09-20 07:30</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/shkola-2118841702.html) <span class="news-meta-time">🕒 2026-09-20 09:13</span>
+:::
 :::timeline-item{start="2026-09-19 22:33 (UTC+8)" title="全球要闻情报简报 · 22:33" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-19 22:31 (UTC+8) 完成，共获得 31 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -602,12 +616,6 @@ notice:
 - [Lobste.rs (极客思想社区)] [更优秀的AI代码注释检测器](https://entropicthoughts.com/better-ai-comment-classifier) <span class="news-meta-time">🕒 09-10 02:27</span>
 - [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
 - [RIA Novosti (俄新社官方俄文)] [别尔哥罗德一名物流师因为恐怖主义辩护被判刑](https://ria.ru/20260909/sud-2116684404.html) <span class="news-meta-time">🕒 09-10 02:46</span>
-:::
-:::timeline-item{start="实时" title="全球要闻情报简报 · 实时" org="ARCHIVE"}
-**速报纪要：** 本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。
-
-**关键信号：** 克宫与美方特使就阿布扎比三方会谈释放密集测试信号，欧洲因乌财政赤字危机陷入援助审计内讧；Anthropic核心资深研究人员公开请辞抗议超智能失控风险，AI治理与代理人安全从学术争议进入立法深水区；喀拉喀托之子火山强烈喷发重创东南亚跨国航线，极端气候与地质事件对全球供应链形成系统性倒逼
-
 :::
 :::timeline-item{start="实时" title="全球要闻情报简报 · 实时" org="ARCHIVE"}
 **速报纪要：** 本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。

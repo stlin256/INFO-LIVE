@@ -16,219 +16,100 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story--consumer-sentiment-html-d4be99391473a84f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="938" data-content-paragraphs="11" data-published-at="2026-09-19T12:50:49.000Z" data-time-source="publication">
+<div id="story-s-articles-cm780ll1de18o-478e73a6c211621e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1700" data-content-paragraphs="32" data-published-at="2026-09-20T01:10:01.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Economy (CNBC 宏观经济)" width="16" height="16" /> <strong>CNBC Economy (CNBC 宏观经济)</strong></span>
-    <span class="stance-badge">国际资本与华尔街视角</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
+    <span class="stance-badge">英伦主流建制</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 20:50</span>
+  <span class="news-meta-time">🕒 2026-09-20 09:10</span>
 </div>
 
-### [尽管经济表现稳健消费者信心却持续低迷，高盛归咎于“幸福感下降”](https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames &#39;lower happiness&#39;</div>
+### [埃德·希兰就麦克勒莫尔争议发声并承认“犯了错”](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Ed Sheeran admits &#39;mistakes&#39; as he addresses Macklemore controversy</div>
 
-<div class="article-body" data-article-body="true"><p>高盛（Goldman Sachs）指出了导致消费者信心数据低迷的一个潜在元凶：幸福感下降。</p>
-<p>由密歇根大学跟踪的消费者信心指数今年触及历史低点。该指数在9月份同比下降13%，仅较8月份就下滑了近8%。</p>
-<p>经济学家们广泛质疑，为何自新冠疫情以来，即便从账面数据来看经济持续稳步发展，消费者信心却依然处于低迷状态。高盛经济学家约瑟夫·布里格斯（Joseph Briggs）本周在致客户的报告中表示，这种下行压力可能源于社会层面更为普遍的悲观情绪。</p>
-<p>布里格斯在报告中写道：“报告中较低的经济信心，可能反映出人们对世界现状持有更为根本性且低迷的评估，而不仅局限于经济本身。”</p>
-<p>诚然，布里格斯表示通胀压力很可能也在打击信心。但他指出，总体上“较低的幸福感”可以部分解释信心指数与国内生产总值（GDP）增长或股市表现等呈现更乐观景象的经济表现衡量指标之间持续存在的脱节。</p>
-<p>布里格斯援引芝加哥大学综合社会调查（General Social Survey）的数据指出，人们的幸福感在疫情期间遭受挫折后从未完全恢复。调查数据显示，感到“非常幸福”的受访者比例从2016年的31%降至2024年的23%。数据显示，同期表示“不太幸福”的受访者比例则从13%升至20%。</p>
-<p>根据布里格斯对数据的分析，总体幸福感的降幅要大于该调查跟踪的财务满意度感知指标的降幅。</p>
-<p>布里格斯并非唯一将问题归咎于幸福感指标下降的经济学家。密歇根大学调查负责人徐巧玲（Joanne Hsu）今年早些时候曾向CNBC表示，消费者信心的下行趋势反映了幸福感以及对公共机构信任度双双下降的数据。</p>
-<p>布里格斯还提到了总体幸福感下降与对各类机构信任度下降之间的联系。他发现，对这些机构信任度的降低在近年来净幸福感下降中占了“不成比例的高份额”。</p>
-<p>布里格斯表示，鉴于与非经济变量的联系，即使经济继续保持稳定增长，消费者信心数据也可能不会有所改善。他指出，因此，消费者信心在预测经济动态方面的作用可能会降低。</p>
-<p>有保密新闻线索？我们期待听到您的声音。<br />订阅此内容直接发送至您的收件箱，并获取有关我们产品和服务的更多信息。<br />数据为实时快照 *数据至少延迟15分钟。全球商业和财经新闻、股票行情以及市场数据与分析。<br />数据同时由提供</p></div>
+<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c0/live/a2a58bf0-b48e-11f1-8168-ab6075de3970.jpg" alt="埃德·希兰就麦克勒莫尔争议发声并承认“犯了错”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>歌手埃德·希兰（Ed Sheeran）在他最新一场演唱会中独自登台开场，并就处理美国说唱歌手麦克勒莫尔（Macklemore）因发表亲巴勒斯坦言论被踢出巡演所引发的争议向歌迷道歉，承认自己犯了“错误”。</p>
+<p>“我从不想成为一名激进主义音乐人，但这件事却把我推向了一场关乎言论自由和全球最复杂政治议题的重要而激烈的辩论中心，”他说道。</p>
+<p>周六在费城一座体育场举行的演出，是他首次就此事当面作出回应。</p>
+<p>这是一场经过精简的演出，在多位音乐人因这起风波退出后，希兰在没有开场嘉宾的情况下登台。</p>
+<p>“我的演唱会一直都是属于每个人的安全空间，”他在演出开始时表示，并补充称自己对歌迷怀有承诺，这正是他重返舞台的原因。</p>
+<p>“现在，我想回应一个问题，那就是我在以色列和巴勒斯坦局势中的立场是什么，以及我今晚在这里举办这场演唱会是否意味着我的立场，”他说道。</p>
+<p>“在我的职业生涯中，我一直努力不成为任何形式的政治评论员，因为我希望我的音乐和演出传递的是团结而不是分裂；是人性而不是政治。但这关乎人道主义问题，我再也无法隐瞒自己的感受了。”</p>
+<p>希兰表示，2023年10月7日袭击事件中在以色列发生的事情是“可怕的，并且加剧了犹太人几个世纪以来的痛苦”。</p>
+<p>他补充道：“加沙正在发生的事情是灾难性的、毫无道理的且是不成比例的。看到平民特别是儿童丧生的规模和遭受的毁灭，我的心碎了，我们在约旦河西岸看到的系统性不公也不容忽视。”</p>
+<p>他表示，自己正在努力“想办法做出贡献，以帮助这个可怕时期的受害者，并正在倾听和学习，因为我了解得还不够多”。</p>
+<p>随后，希兰在发言结尾表示，他希望自己的演唱会能成为一个让所有人无论持有何种信仰都能齐聚一堂的地方。</p>
+<p>受这一争议影响，他“Loop巡演”剩余美国场次的门票价格出现下跌，销量也有所下滑。</p>
+<p>这位歌手曾表示，取消麦克勒莫尔演出的决定是由他的主办方做出的，而不是他本人。</p>
+<p>演出比原计划推迟了将近三个小时，歌迷们在开演前陆续入场。</p>
+<p>希兰剩余的巡演日程包括横跨北美和南美的多场演出。尽管这位巨星此前的巡演曾位列史上票房最高之列，但本场演出的部分门票价格已跌至32美元（约合24英镑）。</p>
+<p>歌迷还反映能够获得退票，不过票务平台Ticketmaster和巡演承办方Messina Touring Group尚未确认已在办理退款。</p>
+<p>演出开始前约一个小时，数百名观演观众开始涌入现场。</p>
+<p>入场大门外聚集着几台媒体摄像机，不过大多数歌迷都避开了媒体采访。</p>
+<p>在持票观众涌向林肯金融球场（Lincoln Financial Field）之际，几十名抗议者出现在最近的地铁站外挥舞旗帜——但演唱会总体上在未受实质阻碍的情况下继续进行。</p>
+<p>埃德·希兰与麦克勒莫尔：一场巡演如何演变成风波</p>
+<p>在少数停下来接受BBC采访的观众中，大家表达出一种既要享受音乐之夜、同时又支持言论自由的坚定态度。</p>
+<p>一对每张票支付了450美元的夫妇表示，他们尊重麦克勒莫尔自由表达的权利。</p>
+<p>另有两位女士表示，她们是在降价后以“划算的价格”买到今晚演唱会门票的，她们既支持巴勒斯坦自由，同时也热爱希兰的音乐。</p>
+<p>最后，一个家庭让他们的两个十几岁的小女儿接受了采访，分别是15岁的维多利亚和13岁的萨迪。</p>
+<p>当被问及对这场争议以及麦克勒莫尔被除名有何看法时，她们回答道：“麦克勒莫尔是谁？”</p>
+<p>一名自称库珀（Cooper）的抗议者告诉BBC，他前来是“为了支持巴勒斯坦人民的抗争”。</p>
+<p>“我们需要更多像麦克勒莫尔这样有话语权、有公共平台的艺术家，代表巴勒斯坦人民及其争取解放的抗争发声，尤其是在美国，”他说道。</p>
+<p>库珀表示，演唱会上最好的情况是希兰能做出道歉，但他对此并不乐观。</p>
+<p>在周六的演唱会开始前，现场曾有小规模抗议活动。</p>
+<p>“这是不可能发生的。我希望能听到他说种族灭绝是真实的，我们必须竭尽所能去制止它。但我并不真正抱有这种指望，”他说道。</p>
+<p>以色列否认了所有关于种族灭绝的指控。以方表示，其军队在加沙和约旦河西岸被占领土的行动是符合国际法的自卫行动。</p>
+<p>手持埃德·希兰门票的美国歌迷因麦克勒莫尔引发的争议而左右为难。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【CNBC Economy (CNBC 宏观经济)】于 2026-09-19 20:50 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>来源叙事重点：聚焦黄老板（Ed Sheeran）费城演唱会首度公开回应巡演风波，呈现其承认处理有失误、对巴以人道危机的平衡表态，以及现场观众、抗议者与主办方的多方反应和票房冲击</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#CNBC</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#BBC</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Economy (CNBC 宏观经济)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-6ceb26d9008976e49c9bfbbb-41c070cae9d0b3e5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="618" data-content-paragraphs="1" data-published-at="2026-09-19T12:38:11.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-19 20:38</span>
-</div>
-
-### [要闻：即时分享代码、笔记和代码片段](https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb)
-<div class="original-title-sub"><span class="orig-tag">原文</span> kicking the tires on jev (TypeSafe&#39;s System One model) with 2048</div>
-
-<div class="article-body" data-article-body="true"><p>即时分享代码、笔记和代码片段。<br />我终于有机会实测体验一下 jev（jev-1.13.0）了。我原以为它在玩 2048 游戏时会表现得非常出色。<br />我采用的策略是：将当前的棋盘状态提供给它，并给它“上、下、左、右”这几个选项。我尝试了 4 种方式（即表格中对应 jev 的各行）……每一行都链接到了我发送的请求。<br />如果仅提供棋盘状态，它的表现大概和随机走法差不多。当由代码预先计算出每一步移动会对棋盘产生什么结果、再由 jev 从中进行选择时，它的表现最好……此时它的水平大约与固定规则相当（例如：如果能移动任何方块就始终向左，否则向下，否则向右，否则向上）。<br />我没有花太长时间在这上面，所以我很可能遗漏了某些东西。<br />每一局游戏都玩到了终局。<br />首选无效：jev 的第一选择有多少次是无法改变棋盘状态的移动（例如：向左移动，但此时所有方块都已经靠在左侧墙壁且没有任何方块可以合并）。当发生这种情况时，我便采用它的下一个选择。<br />不适用（n/a）：随机规则和固定规则只会选择能够产生有效变化的走法，而在最后一行 jev 中，提供给它的也仅有这些有效走法。<br />每个 jev 行对应一个请求，且全部针对同一个棋盘状态。<br />jev，仅提供棋盘状态。<br />jev，提供棋盘状态、规则以及对每一步移动的描述。<br />jev，提供棋盘状态和一个操作提示。<br />jev，提供每一步移动后形成的棋盘状态、所获分数以及相同的操作提示。“向下”缺失是因为在此情况下它不会产生任何变化。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>测试者对 TypeSafe 的 System One 模型 jev（版本 jev-1.13.0）在玩 2048 游戏上的表现进行了初步测试。</li>
-    <li>测试采用的策略是将当前棋盘状态提供给 jev，并给出上、下、左、右四个操作选项，共尝试了 4 种输入方式。</li>
-    <li>来源叙事重点：通过设计 4 种不同提示词及状态输入的实验，实测评估 TypeSafe 的 System One 模型 jev (jev-1.13.0) 在 2048 游戏中的决策能力，指出其原生表现接近随机移动，仅在外部代码预计算结果并辅助提示后才接近简单固定规则水平。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-lt-like-coming-from-rust-05ef42e6240ab09a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4545" data-content-paragraphs="39" data-published-at="2026-09-19T13:55:18.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-19 21:55</span>
-</div>
-
-### [从 Rust 转向 Zig 是怎样一种体验](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> What Zig felt like, coming from Rust</div>
-
-<div class="article-body" data-article-body="true"><p>过去 7 年里我一直是一名 Rust 开发者，主要从事开源项目的工作。我觉得一路走来，自己对这门语言及其生态系统已经建立起了扎实的体会。我偏爱 Rust 中偏函数式的一面，比如纯净的函数、富有表达力的类型等等。但我对其他语言始终抱有好奇心，而 Zig 作为 C 语言继任者的候选之一，已经进入我的视野有一段时间了：它更偏底层、更轻量，并且正在稳步赢得作为人们认真对待的编程语言的一席之地。我职业生涯早期接触过 C，因此做一番对比总觉得会很有意思。</p>
-<p>有一点需要事先说明：我对 Zig 的使用经验正是从这个项目开始的。对于日常使用 Zig 的人来说，我的部分观察可能会显得幼稚而显而易见；我在此过程中做出的某些决定也几乎肯定不是最优解，它们更多是受从 Rust 带来的习惯所影响，而非出于对 Zig 惯用法的深刻理解。这没关系，每个人都得有个起点，在此期间，不管是好是坏，我都倚仗着多年积累起来的跨语言直觉。</p>
-<p>为了让对比保持公正，我决定用 Zig 重新实现一个我此前已经用 Rust 写过的项目——它不是一个玩具项目，但也不是过于庞杂的巨型工程，理想情况下是社区真正能用得上的东西。我最终选定了 JSONPath：一个在 RFC 9535 中规范的 JSON 查询语言。Rust 版本已经存在（jsonpath-rust），我的目标是将同样的东西移植到 Zig：zig-jsonpath。</p>
-<p>第一件让我猝不及防的事——说实话，谁能想到这会成为最难忘的部分——是 IDE 支持，或者说几乎完全缺乏 IDE 支持。我此前一直用 RustRover 写 Rust，用 JetBrains 的各种版本写其他语言，相比之下，Zig 除了语法高亮和基本的自动补全之外，几乎提供不了什么支持。这并不完全令人意外，但它确实逼迫我回归基础：学会主要通过命令行来使用这门语言。最初看似是一项劣势，最终却变成了整个体验中最有趣的部分之一。事实证明，我只是忘了单纯依赖原生 CLI 工具也可以如此直接高效。</p>
-<p>这里学到的第一个真正的教训是 build.zig，它处理起构建任务来出奇地轻松。我最终敲定了这套配置：</p>
-<p>一旦你接受了这种设定，用起来真的令人耳目一新。</p>
-<p>在某种程度上，我还要感谢 Zig 触发了更宏大的连锁反应，那就是促使我彻底告别完整 IDE，转向了 helix + alacritty + zellij 的配置组合。</p>
-<p>在 Rust 以及大多数其他语言中，我总会花相当多的时间反复权衡，试图在单个文件大小和文件夹层级深度之间找到合适的平衡点。你可以随意拆分文件，把文件夹层级建得多深都行。事实证明 Zig 也允许这样做，但某种程度上并不鼓励（类似 C，这对于一门低级系统级语言来说不足为奇）。如果你想，你可以嵌套文件和文件夹，但这样做会带来一些 import 上的阻力，真正的疑问随之而来：何必呢？把所有东西分散到更多文件和文件夹中，你在可读性上到底能获得什么？理论上可读性更好了；而在实践中，当你把相关的事物归拢到一个更大的文件中时，你只需要切分它并按段落进行浏览跳转即可，把所有东西放在一个地方能带来实实在在的好处。在大多数情况下，Zig 会推着你走向扁平化。如果某个模型需要配套的辅助内容，我只需在它旁边新建一个 model_ 文件然后继续往下写即可。</p>
-<p>我不认为这种方式可以扩展到超大型项目中，也就是说在某个节点你必然需要真正的层级结构，但是在 Zig 中，触发这种需求的门槛比我想象的要高得多。在 Rust 中，我往往很早就开始构建文件夹结构，几乎是下意识的习惯。在 Zig 中，我一直在推迟这一步，而直到这个项目结束，我根本就没需要过它。</p>
-<p>这种反差带来的启发超越了 Zig 本身，因为它让我重新审视——即使在其他语言中也是如此——自己组织文件究竟是因为项目真正需要，还是纯粹出于习惯。这也是衡量一个项目实际规模的一种相当实在的方式：如果你在第一天就忍不住去建文件夹，也许它并没有你感觉的那么大。</p>
-<p>以下是两者并排对比的实际差异：</p>
-<p>暂且把 rfc9535 合规测试套件放在一边，纯粹聚焦于语言本身：</p>
-<p>在 Rust 中，我通常坚持两种测试方式：</p>
-<p>我原本预期 Zig 也会有大致相同的划分。在纸面上看它们很相似：你可以直接在同一个文件内编写测试。但问题在于——至少对我而言——过于冗长。鉴于我已经适应了扁平结构，我只剩下两个选择：要么为每个 model 提供一个单独的 model_test 文件，要么将测试直接内联到 model 文件本身。这两种方法最终都会让东西显得杂乱：要么杂乱出现在单个文件内部，要么出现在整个主文件夹中。</p>
-<p>我选择了第二种方案，这意味着需要在 build.zig 中进行显式配置。不过，一旦配置妥当，它运行良好且保持了整洁。</p>
-<p>所以总体而言：在 Rust 中编写和管理测试对我来说感觉更容易。但就 Zig 而言，许多额外的阻力是源于语言特性的，归根结底是因为 Zig 的手动内存管理，而非测试基础设施本身。</p>
-<p>Rust 从技术上讲是一门命令式语言，但它大量吸收了函数式概念：零成本迭代器、惰性求值、代数数据类型（ADT）、模式匹配、单子类型（monadic types）、traits、闭包等等。由于我也接触过 Haskell 和 Erlang，我已经相当倾向于函数式风格，这也体现在了这个库中。它极度依赖函数式编程（FP）惯用法：</p>
-<p>一开始我就知道自己无法将所有这些都照搬到 Zig 中，但我希望至少能保留核心概念。而在实践中，Rust 倾向于使用不可变性和组合子，而 Zig 则推着我走向就地修改（in-place mutation）以及命令式世界中最原生、最自然的模式。</p>
-<p>两者高度接近的地方：和类型（sum types）。</p>
-<p>Rust 中纯粹而直接：</p>
-<p>递归在两边也都能很好地支持。</p>
-<p>但该语言很快就会迫使你脱离函数式风格，主要是因为你现在需要直接与分配器（allocator）打交道，而真正纯粹的函数式方法意味着需要不断构造新的数据结构。这要么在内存上代价高昂，要么为了避免额外开销而在手动记账维护上代价高昂。</p>
-<p>可变修改 vs. 不可变单子，这是核心区别。</p>
-<p>Rust 进行直截了当的单子变换：</p>
-<p>Zig 则切换为可变修改：</p>
-<p>组合子 vs. 循环。</p>
-<p>总的来说，这反映了每门语言各自的设计目标与应用领域，这是一个合理的权衡取舍；但从主观角度来看，我觉得最终写出来的 Zig 代码在可读性上不如对应的 Rust 代码。</p>
-<p>分配器无处不在。几乎每个函数都接受一个分配器；每个结构体都持有一个分配器。这是显式的，一旦你接受将其作为入门门槛，理解起来相对直接。这差不多是这门语言的标志性特征，所以我不能说自己没有心理准备。</p>
-<p>然而在实践中，这个过程十分繁琐。你必须严谨地遵循 init/deinit 约定，而一旦调用栈变长，这种自律就容易动摇。与 C 语言中毫无声息的段错误（segfault）或内存损坏相比，这无疑是一大进步；但如果来自 Rust 背景，你依然得手动执行这些规则：每次都得分配内存、处理失败路径、决定谁来负责 deinit，无一例外。</p>
-<p>幸运的是，Zig 的 TestAllocator 在这里发挥了救援作用。它不会自动捕获所有问题，你仍然需要编写触发失败路径的测试用例——但只要你写了，它就相当可靠。这也正是陷阱所在：理论上这一切看起来浅显易懂，直到代码变得更加复杂，这些 bug 便会盘根错节并隐藏起来。</p>
-<p>以下是几类最令人头疼的情况，每一项都与 Rust 处理同类模式的方式进行了对比：</p>
-<p>捕获方式：MemoryLeakDetected，指向 append 内部的 dupe 调用。<br />修复方案：紧随 init 之后加上 defer iter.deinit();。<br />Rust：Drop 会在作用域结束时自动运行，因此这类特定 bug 根本不存在。虽然从技术上讲，Rust 中依然可能发生泄漏（例如 Rc 循环引用或显式的 Box::leak），所以“永不泄漏”并不是绝对保证，但你必须特意去做才会触发。</p>
-<p>捕获方式：FailingAllocator{ .fail_index = 1 }，强制第二次 append 触发 MemoryLeakDetected。<br />修复方案：紧随 init 之后加上 errdefer iter.deinit();。<br />Rust：彻底杜绝。Drop::drop 会在任何离开作用域时无条件触发，包括由 ? 提前返回的情况。</p>
-<p>捕获方式：在 std.testing.allocator 下运行，在 processAll 的清理阶段，第二次查询的 cache.items[0].deinit() 失败，DoubleFree 同时指向两处释放位置，证实这是一个跨函数的所有权 bug，而非单行拼写错误。<br />修复方案：只能有一层持有该值。由于 cache 的生命周期长于 cacheAndLog，所有权归属于第三层；第二层在交出所有权后绝不能再 defer deinit：<br />Rust：这种模式在语法上就无法编译。cache.push(result) 会移动 result——在此行之后，result 作为可用绑定便不再存在，因此后续绝无可能意外调用 drop(result)。</p>
-<p>捕获方式：FailingAllocator{ .fail_index = 1 } 导致数组扩容失败（第二次分配），从而使 duped（第一次分配）成为孤儿。<br />这种泄漏与第一种情况不同：iter.deinit() 正常运行，只是它根本看不到这个特定字符串。<br />Rust：凭借语言架构本身保证。Vec::push(item) 将 item 移入，要么成功，要么在内存不足（OOM）时中止，标准 API 中根本没有可能失败且把“已分配但未挂接”的值退还给你从而导致意外丢失的 push 操作。errdefer 在这里填补的空白，在 Rust 中从一开始就不存在。</p>
-<p>该生态系统目前仍非常年轻。库资源极为匮乏，甚至像正则表达式这样基础的功能都尚未完全成熟，例如 Zig 可用的正则引擎 mvzr 就不支持 Unicode 属性转义（\p{...}），这在实现 RFC 9535 的过滤函数时直接显现为一处缺失。此外，该语言自身的标准库 API 在不同版本之间也会发生变动。虽然在接触之前对这些早有预期，但依然值得记录在案。</p>
-<p>这门语言与 Rust 大相径庭（谁能料到呢，确实如此），但它留下了真正良好的印象。它简单直接、现代且极致飞快。我相信它真正具备成为 C 语言接班人的潜力。另一方面，它仍然年轻，这一点也显露无遗：语言本身的形态在某些地方感觉尚未完工，我猜想随着它的成熟，会引入更多优秀的体验改善功能和语法糖。</p>
-<p>对我个人而言，我希望继续为该生态做出贡献，只要遇到值得构建的项目，我都会去做。</p>
-<p>免责声明：本文的格式润色及错误处理均在 AI 协助下完成。<br />#Zig #Rust #Systems-Programming #Jsonpath</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>作者拥有7年的Rust开发者经验，主要参与开源项目。</li>
-    <li>作者此前曾用Rust开发过JSONPath（RFC 9535标准）库jsonpath-rust，此次项目使用Zig重新实现并命名为zig-jsonpath。</li>
-    <li>来源叙事重点：以7年Rust开发者的第一人称视角，通过重新实现RFC 9535标准JSONPath库的具体工程实践，深入对比Zig与Rust在工具链/IDE支持、项目组织哲学、函数式编程与命令式变异范式、手动显式内存管理及生态成熟度等维度的差异与体验</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-life-of-circuits-is-here-cc1d399ef9c4fc87" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1054" data-content-paragraphs="12" data-published-at="2026-09-19T12:12:18.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-19 20:12</span>
-</div>
-
-### [《电路的秘密生活》现已面世](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here)
-<div class="original-title-sub"><span class="orig-tag">原文</span> “The Secret Life of Circuits” is here</div>
-
-<div class="article-body" data-article-body="true"><p>就在我们说话的同时，出版社的直销订单正在陆续发货；你可以在这里订购：<br />No Starch 订购页面</p>
-<p>《电路的秘密生活》（The Secret Life of Circuits）也可在巴诺书店（Barnes &amp; Noble）以及亚马逊（包括德国、法国、波兰、西班牙、荷兰、瑞典、意大利、英国和加拿大等各区域分站）购买。不过物流确实不易，因此这些订单将在10月份发货。<br />在亚马逊订购，10月送达</p>
-<p>这本书正是我最初学习这门手艺时梦寐以求的参考书。它给出了切实的解答，但并不要求你提前学过一年的微积分。它讲解的是如何构思出你自己的设计，而不是如何抄袭他人的作品。而且它专注于现代问题的解决，而非电路“考古”。</p>
-<p>如果你是本博客的常客，一定了解我的风格。《电路的秘密生活》采用了相似的思路，同时还享有精细排版设计与资深编辑打磨的额外优势。它也很精美：大开本、全彩精装，内附近300幅为此书专门绘制的图表和插图。</p>
-<p>你可以在这里查看试读样章，或者通过以下博文来领会其中的方法：</p>
-<p>如果你还在犹豫不决，以下是一些同好爱好者的推荐评语：</p>
-<p>“阅读这本瑰宝之作，就像在 RadioShack 的元件抽屉里淘宝，身边还有一位专家随时向你讲解每个零件的作用以及如何用它们设计电子设备。再没有比这更好的入门书了。”——特拉维斯·古德斯皮德（Travis Goodspeed），《微控制器漏洞利用》（Microcontroller Exploits）作者</p>
-<p>“《电路的秘密生活》既不是枯燥的教科书，也不是浅薄的入门书；它恰到好处地融合了实用知识、数学以及摆脱了陈词滥调类比的概念解释。”——埃里克·施莱普弗（Eric Schlaepfer），《开放式电路》（Open Circuits）合著者</p>
-<p>“一次从底层物理到现代微控制器的完整电子学之旅，沿途提供动手实验与深刻洞见，让阻抗匹配和天线等复杂主题都变得直观易懂。”——科林·奥弗林（Colin O’flynn），《硬件黑客手册》（The Hardware Hacking Handbook）合著者、电气与计算机工程助理教授</p>
-<p>“米哈尔（Michal）的书通过精美的插图和通俗易懂的电子物理学架构，架起了理论与实践之间的艰难鸿沟。”——克里斯·甘梅尔（Chris Gammell），《The Amp Hour》联合主持人</p>
-<p>我还收到了来自 Hacker News 的第一条评价：“我看了一眼样章，字体和版式在视觉上简直令人反感。”所以，选它准没错。</p>
-<p>一如既往，本书与本博客均为：</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>新书《The Secret Life of Circuits》目前已由出版商 No Starch 发货直邮。</li>
-    <li>《The Secret Life of Circuits》可在 Barnes &amp; Noble 以及 Amazon 订购（包含德国、法国、波兰、西班牙、荷兰、瑞典、意大利、英国、加拿大等区域站点）。</li>
-    <li>来源叙事重点：重点宣布新书《The Secret Life of Circuits》正式发售，强调该书兼具实用性、现代解题思路与高质量全彩图表，并列举多位硬件与安全领域专家的背书推荐以促进购买与传播。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-19-yavka-2118781919-html-822b359d1d803f81" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="ru" data-content-length="382" data-content-paragraphs="1" data-published-at="2026-09-19T14:23:58.000Z" data-time-source="publication">
+<div id="story-0-vybory-2118840396-html-14830efe3aa2673f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="ru" data-content-length="376" data-content-paragraphs="9" data-published-at="2026-09-20T00:39:15.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="16" height="16" /> <strong>RIA Novosti (俄新社官方俄文)</strong></span>
     <span class="stance-badge">莫斯科官方视角</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 22:23</span>
+  <span class="news-meta-time">🕒 2026-09-20 08:39</span>
 </div>
 
-### [库兹巴斯选举投票率超过58%](https://ria.ru/20260919/yavka--2118781919.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Явка на выборах в Кузбассе превысила 58 процентов</div>
+### [国家杜马选举马来西亚投票站开放](https://ria.ru/20260920/vybory-2118840396.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> В Малайзии открылся избирательный участок на выборах в Госдуму</div>
 
-<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07ea/09/13/2118780919_0:0:3062:1722_650x0_80_0_0_7ebb21f652c1ea0e38fed88507f8f4ff.jpg" alt="库兹巴斯选举投票率超过58%" loading="lazy" /></div>
+<div class="article-cover"><img src="https://cdnn21.img.ria.ru/images/07e9/09/0f/2041962371_0:0:2934:1651_650x0_80_0_0_0dc2fda2d90ec0753e514ad8af92696a.jpg" alt="国家杜马选举马来西亚投票站开放" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>统一投票日正处于最关键阶段。<br />投票将持续三天——从9月18日到20日。<br />在联邦选区参选的党派包括：“统一俄罗斯”党、俄罗斯自由民主党（LDPR）、直接民主党、“绿党”、“公正俄罗斯”党、“祖国”党、俄罗斯联邦共产党（KPRF）、退休者党、“俄罗斯共产党人”党以及“新人”党。<br />总计将举行2200多场不同级别的竞选活动。俄罗斯人将选出2.07万名议员和行政长官。<br />大多数投票站的开放时间为08:00至20:00。边境地区的部分投票站属于例外——那里的投票时间有所缩短。<br />顿涅茨克人民共和国（DNR）、卢甘斯克人民共和国（LNR）、扎波罗热州和赫尔松州的居民将首次选举下议院（国家杜马）代表。<br />对于他们以及某些边境地区的选民，提供了提前投票的途径。在海外152个国家开设了333个投票站。<br />此外，俄罗斯人也有机会在境外进行投票。<br />图为：设在俄罗斯驻北京大使馆的投票站。</p></div>
+<div class="article-body" data-article-body="true"><p>统一投票日正在全面展开。</p>
+<p>投票将持续三天——从9月18日至20日。</p>
+<p>在联邦选区参选的政党包括：“统一俄罗斯”党、俄罗斯自由民主党（LDPR）、直接民主党、“绿党”、“公正俄罗斯”党、“祖国”党、俄罗斯联邦共产党（KPRF）、退休人员党、“俄罗斯共产党人”党以及“新人”党。</p>
+<p>总共将举行2200多场各级别选举。俄罗斯公民将选出2.07万名议员和各级行政长官。</p>
+<p>绝大多数投票站的开放时间为08:00至20:00。部分边境地区的投票站属于例外情况——那里的投票时间有所缩短。</p>
+<p>顿涅茨克人民共和国、卢甘斯克人民共和国、扎波罗热州和赫尔松州的居民将首次参与选举议会下院代表。</p>
+<p>上述地区以及部分边境地区的选民可进行提前投票。在海外，已在152个国家开设了333个投票站。</p>
+<p>此外，俄罗斯人也有机会在国外进行投票。</p>
+<p>图注：俄罗斯驻北京大使馆内的投票站。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>俄罗斯库兹巴斯地区选举投票率超过58%</li>
-    <li>统一投票日持续三天，从9月18日至20日举行</li>
-    <li>来源叙事重点：重点展现俄罗斯统一投票日期间全国及海外投票活动的有序、广泛开展，突出参选政党多样性、投票规模（涵盖各级选举超2200场）、新加入地区（顿涅茨克、卢甘斯克、扎波罗热、赫尔松）选民首次参选的象征意义，以及地方高投票率（如库兹巴斯超58%）。</li>
+    <li>权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-20 08:39 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -237,158 +118,76 @@ notice:
   <span class="news-tag-pill">#RIA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ria.ru/20260919/yavka--2118781919.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ria.ru/20260920/vybory-2118840396.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【RIA Novosti (俄新社官方俄文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ped-florida-1990-murders-4f3e15dfa02d5bbf" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2665" data-content-paragraphs="34" data-published-at="2026-09-19T14:22:33.000Z" data-time-source="publication">
+<div id="story-kers-as-death-toll-rises-c704047dd86824ff" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="961" data-content-paragraphs="16" data-published-at="2026-09-20T00:36:05.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台官方英文)</strong></span>
+    <span class="stance-badge">全球南方与海湾枢纽</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 22:22</span>
+  <span class="news-meta-time">🕒 2026-09-20 08:36</span>
 </div>
 
-### [盖恩斯维尔遗忘橄榄球的一周：揭秘1990年连环谋杀案笼罩下的佛罗里达恐慌](https://www.foxnews.com/outkick-sports/week-gainesville-forgot-football-inside-terror-gripped-florida-1990-murders)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The week Gainesville forgot about football: Inside the terror that gripped Florida during the 1990 murders</div>
+### [死亡人数攀升 刚果（金）为卫生工作者推广接种埃博拉疫苗](https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises)
+<div class="original-title-sub"><span class="orig-tag">原文</span> DR Congo rolls out Ebola vaccine for health workers as death toll rises</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/university-florida-students-shotgun-protection.jpg?ve=1&amp;tl=1" alt="盖恩斯维尔遗忘橄榄球的一周：揭秘1990年连环谋杀案笼罩下的佛罗里达恐慌" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>在盖恩斯维尔，大学橄榄球赛季就是一切。</p>
-<p>这座小镇历来都围绕着佛罗里达短吻鳄队（Florida Gators）运转。盖恩斯维尔是一座大学城，围绕着佛罗里达大学而建。球队的起伏，牵动着整座小镇的脉搏。</p>
-<p>无意冒犯迈阿密大学和佛罗里达州立大学，但大多数人都会认为佛罗里达州是短吻鳄队的天下。是的，我知道这可能会惹恼一些人。请大家别在这点上纠结，姑且听我说下去。</p>
-<p>我想表达的是什么？在橄榄球赛季期间，生活中极少有事情能真正转移人们对短吻鳄队的关注——尤其是像史蒂夫·斯珀里尔（Steve Spurrier）这样的传奇人物即将回归，这一次是以主教练的身份挂帅执教。</p>
-<p>然而，1990年8月却打破了这一切。</p>
-<p>【播客社区如何帮助佛罗里达橄榄球队恢复备受争议的“短吻鳄诱饵”助威呐喊】</p>
-<p>“我记得在沃尔玛，排队买枪的队伍一直延伸到了走道里，”前佛罗里达大学学生埃里克·塔尔巴卡（Erik Tallbacka）本周对OutKick表示。“当飓风来袭时，你如果在家得宝（Home Depot）采购物资做准备，空气中就会有那种紧绷感，就像暴风雨将至。当时就是那种飓风来临前的感觉。”</p>
-<p>“但那并不是飓风要来，而是连续三个晚上，每天晚上都有人遇害。整个校园、整座小镇，都笼罩在那股清晰可感的‘大家同舟共济、共渡难关’的氛围中。”</p>
-<p>本周早些时候，我写过关于ESPN近期《30 for 30》栏目讲述丹尼·罗林（Danny Rolling，又被称为“盖恩斯维尔开膛手”）的报道。1990年8月，也就是在劳动节周末的前几天、新橄榄球赛季开始前约两周，罗林残忍杀害了五名大学生。</p>
-<p>罗林最终被捕，并对这几起谋杀案——以及在路易斯安那州什里夫波特犯下的数起凶杀案——表示认罪，随后被判处死刑。他于2006年被注射死刑。</p>
-<p>罗林被称为“盖恩斯维尔开膛手”。他毫无实际动机的疯狂杀戮催生了数本书籍和一部电影。编剧凯文·威廉姆森（Kevin Williamson）透露，恐怖电影系列《惊声尖叫》（Scream）的灵感就大致源自盖恩斯维尔连环谋杀案。</p>
-<p>因此，没错——36年过去了，那段臭名昭著的一周依然历历在目。经历过那样的事情，你怎么可能轻易忘记？</p>
-<p>周三我发表那篇文章后，收到了数十位读者的来信——他们中的大多数都是在罗林在逃期间身在校园的佛罗里达大学校友。</p>
-<p>他们所有人用到的同一个词就是：骇人听闻（Horrific）。</p>
-<p>“当你开车穿行在路上或公寓区时，人们都在窗户上装了铁撑条，以防有人撬窗而入，”杜安·恩格尔（Duane Engel）回忆道。“谁都不知道到底是谁干的。”</p>
-<p>【克雷格·卡顿秀——毫无滤镜、直言不讳、不容错过。立即下载他的每日播客！】</p>
-<p>当然，那时也没有社交媒体。那距离X平台（原推特）问世还有几十年。塔尔巴卡说，大家只能守着看晚间新闻以获取最新消息，那就是你能得到的一切信息来源。</p>
-<p>人人都处于极度紧绷的状态。</p>
-<p>“当你漫步在镇上和校园里，我记得，如果走进一家店，你会审视每一个人，觉得任何一个家伙都有可能是凶手，”他回忆说。“我们完全一无所知。晚上上床睡觉时，特别是到了第三天，已经发生了五起命案，我是说，那天晚上你会止不住想：会有人闯进我的公寓吗？”</p>
-<p>“所以睡觉变得特别诡异。我和几个男生住在一起，我女朋友和几个女生住在一起，我们就睡在她们那边。就像我刚才提到的，我们手头没有枪。我虽然是个打猎狂热者，但在大学里没带枪。于是我们拿来了高尔夫球杆和棒球棒，睡在沙发上。只要听到任何声响，比如车门砰的一声关上，神经就会瞬间高度紧绷。”</p>
-<p>斯珀里尔做出了一个著名的决定：允许球员的女友们留宿在永恩楼（Yon Hall）——这是整个橄榄球队所居住的高安保等级宿舍楼。</p>
-<p>马特·索维克（Matt Sovic）当时刚返校升入大四，在凶案开始发生的那个周末去参加了一个派对。他当时借住在威廉斯堡村（Williamsburg Village）的朋友家——也就是新生索尼娅·拉森（Sonja Larson）和克里斯蒂娜·鲍威尔（Christina Powell）所居住的同一个公寓区。</p>
-<p>“我当时把车直接停在了一楼四户单元的门正前方，那里正是第一批受害者居住的寓所，”他说。“周六晚上我们动身去参加派对时，我的老室友一坐进车里，就顺手把手里的啤酒罐扔出了我的车窗，掉在院子里。”</p>
-<p>“第二天，我们眼睁睁看着它被装进了证物袋。我可以向你保证，那个证物袋里的啤酒是一个高罐百威。当时还不知道发生了双重谋杀案，我们还开玩笑对朋友说，既然警方现在掌握了他的指纹，不管发生了啥事他都成嫌疑犯了。”</p>
-<p>罗林在8月24日至8月27日期间共杀害了五名学生。其中四名为棕发褐瞳的女性，特征与其母亲一致。</p>
-<p>第五名受害者是23岁的曼尼·塔博阿达（Manny Taboada）——一名身高6英尺2英寸（约188厘米）、体重200磅（约90公斤）的男性。</p>
-<p>“直到我们得知他杀害了那个在阿彻路（Archer）和大约第34街街角工作的高大男子，校园里所有人的自大傲慢才彻底破灭，”刚升入大四的凯文·莱蒂泽（Kevin Letize）回忆道。“在那起案子曝光之前，我们都以为这只是个典型的变态杀手。”</p>
-<p>“一旦那个高大强壮的男生遇害，所有自命不凡的‘硬汉’学生也都开始严阵以待了。”</p>
-<p>那么，橄榄球与这一切又是如何联系起来的呢？其实毫无联系——除了一点，它或许为小镇历史上最惊心动魄、恐慌万状的一周画上了一个急需的句号。</p>
-<p>经过反复磋商，佛罗里达大学和斯珀里尔率领的球队于9月8日迎战俄克拉荷马州立大学，揭开了新赛季的大幕。连环凶案已经停止，至少停息了几天，但许多学生当时已彻底撤离离开。留下来的人则竭尽全力试图重回某种正常生活。</p>
-<p>短吻鳄队以50比7大获全胜。谢恩·马修斯（Shane Matthews）一战成名、家喻户晓。斯珀里尔让佛罗里达橄榄球重获新生。更重要的是，这支球队让一座极度渴望微笑由头的小镇重新焕发生机。</p>
-<p>“我从未见过一个地方遭受如此恐慌的折磨，”格伦·萨默斯（Glenn Summers）说道。</p>
-<p>塔尔巴卡补充说：“我想当时每个人都像置身于迷雾之中。但我认为，到了那场比赛打响的时候，已经有一个多星期没人遇害了。回想起来，我确实认为，观看那场比赛让大家的生活重归正轨。不再只是去上课却发现停课了，或者连续三天每天晚上都有人惨遭杀害。”</p>
-<p>“随着一周的时间过去，随着那场橄榄球比赛的到来，我认为那正是大家终于能够松一口气的时刻。我认为那就是恐慌的终曲。”</p></div>
+<div class="article-body" data-article-body="true"><p>5万名前线人员将接种针对另一种埃博拉病毒毒株的疫苗，其中2万人已参与为期一年的临床试验。</p>
+<p>刚果民主共和国（刚果（金））部分地区的医务工作者已开始接种一种疫苗，许多人希望该疫苗能针对埃博拉病毒提供一定程度的保护。</p>
+<p>疫苗接种推广于周六在刚果（金）东北部伊图里省首府布尼亚启动。伊图里省是历史上蔓延最快的埃博拉疫情的震中。</p>
+<p>该省省长加比·卡松戈·穆伦巴少将（Major-General Gaby Kasongo Mulumba）表示，当地的医务人员“暴露风险极高，且深度参与了应对工作”。</p>
+<p>卫生部门表示，该行动得到了世界卫生组织（WHO）和无国界医生组织（法文缩写为MSF）的支持，还将覆盖病例急剧上升的北基伍省。</p>
+<p>约5万名医护及其他前线工作人员将接种Ervebo疫苗，该疫苗原本是针对更为常见的扎伊尔型埃博拉病毒株研发的。</p>
+<p>它对当前由本迪布焦（Bundibugyo）病毒引起的埃博拉毒株的有效性，将在2万名接种者中进行长达一年的监测。</p>
+<p>目前正在进行临床试验，以寻找针对此次最新疫情的获批疫苗。此次疫情尚无获批的疫苗或经证实的治疗方法。</p>
+<p>刚果（金）抗击埃博拉疫情卫生工作组成员、官方官员史蒂夫·阿胡卡（Steve Ahuka）表示：“我们尚不清楚它在多大程度上对本迪布焦毒株有效。”</p>
+<p>让诺·埃卢阿医生（Dr Jeannot Elua）在布尼亚的一家医疗机构表示，该疫苗“是有益的”。</p>
+<p>“我们医护人员其实没有选择。我们都会去接种，”他向美联社表示，“这里的一些人此前已经接种过上一款疫苗。我自己也接种过，因为那是强制性的。”</p>
+<p>世卫组织专家表示，关于Ervebo疫苗的早期数据（尤其是动物试验数据）表明，它可能在当前的疫情中提供一定保护。</p>
+<p>根据地方当局的最新数据，自5月以来，该病毒已造成至少3639人死亡、约7541人感染。约有1823人已康复。</p>
+<p>世卫组织8月表示，已批准7万剂Ervebo疫苗供刚果（金）使用。</p>
+<p>该疫苗目前依据“同情使用”（compassionate-use）计划进行接种，该机制允许在面临严重疾病的情况下使用某种医疗产品，即便它尚未被专门批准用于该特定用途。</p>
+<p>尽管世卫组织官员提到了传播可能正在放缓的“令人鼓舞的迹象”，但无国界医生组织周五警告称，尚无明确证据表明疫情已得到控制。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-19 22:22 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-09-20 08:36 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#Al</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/week-gainesville-forgot-football-inside-terror-gripped-florida-1990-murders" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Al Jazeera (半岛电视台官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-6-88ea-603b266fc8c4-html-6ccf4c4264d87333" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="542" data-content-paragraphs="1" data-published-at="2026-09-19T14:21:39.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-19 22:21</span>
-</div>
-
-### [意大利驻安卡拉大使馆举办反洗钱研讨会](https://www.ansa.it/english/news/news_from_embassies/2026/09/19/seminar-on-anti-money-laundering-organized-by-the-italian-embassy-in-ankara_e8a6ea1e-3ef6-43e6-88ea-603b266fc8c4.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Seminar on anti-money laundering organized by the Italian Embassy in Ankara</div>
-
-<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/19/d7dd80b92b0cf8b4cc69eba8d7c4340e.jpg" alt="意大利驻安卡拉大使馆举办反洗钱研讨会" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>（安莎社）- 伊斯坦布尔，9月19日 - 意大利与土耳其在反洗钱领域的经验交流成为在安卡拉举行的一场研讨会的焦点。该研讨会由意大利大使馆与土耳其财政部联合举办，共有200名与会者出席，其中包括土耳其政府官员、外交官以及来自20多个国家的专家。“我们在地中海地区是土耳其最大的贸易伙伴。我们正在加强双边经贸关系，这部分得益于外交部的出口计划，而在打击非法资金流动方面的合作是深化这一伙伴关系的极佳工具，”意大利驻土耳其大使朱塞佩·曼佐（Giuseppe Manzo）表示。他与土耳其财政部副部长伊尔汗·哈蒂波奥卢（Ilhan Hatipoglu）共同为研讨会揭幕。近几个月来，意大利的出口额录得显著增长（6月同比增长11.3%，7月同比增长6.6%），加强意大利与土耳其之间的经贸和投资往来也是副总理兼外交与国际合作部部长安东尼奥·塔亚尼（Antonio Tajani）昨日在罗马举行的会议的核心议题。作为使馆“Ideha26”系列活动的一部分，此次在安卡拉举行的研讨会还包括意大利央行金融情报局（UIF）局长恩佐·塞拉塔（Enzo Serata）以及土耳其对口机构金融犯罪调查委员会（MASAK）主席哈桑·卡伊马克（Hasan Kaymak）的发言，两位官员阐述了两种模式的具体特征。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-19 22:21 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#ANSA</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.ansa.it/english/news/news_from_embassies/2026/09/19/seminar-on-anti-money-laundering-organized-by-the-italian-embassy-in-ankara_e8a6ea1e-3ef6-43e6-88ea-603b266fc8c4.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-blog-introducing-tin-664ff934106327ad" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6996" data-content-paragraphs="29" data-published-at="2026-09-19T13:52:06.000Z" data-time-source="publication">
+<div id="story-mayday-aaa78c0f7e1b19df" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="247" data-content-paragraphs="1" data-published-at="2026-09-19T21:43:09.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 21:52</span>
+  <span class="news-meta-time">🕒 2026-09-20 05:43</span>
 </div>
 
-### [Tin：面向 Postgres 的全文搜索扩展](https://planetscale.com/blog/introducing-tin)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Tin: full-text search for Postgres</div>
+### [五月谜题](http://www.maydaymystery.org/mayday/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Mayday Mysteries</div>
 
-<div class="article-body" data-article-body="true"><p>博客 | 工程 | PostgreSQL<br />PlanetScale，最快速的云端 Postgres，每月 5 美元起。<br />Eric Ridge, Patrick Reynolds | 2026年9月16日<br />客户向我们提出最多的 Postgres 功能需求之一就是全文搜索。今天，我们非常激动地宣布推出 TIN：一个快速、功能完备且可靠的 Postgres 全文搜索扩展。TIN 代表“文本索引”（Text INdex），而这也正是它的功能所在。<br />TIN 现已作为正式商用版本（GA）立即可供所有 Postgres 和 Neki 数据库使用。欢迎了解：<br />我们构建 TIN，是因为我们认为一个优秀的文本索引应当支持：<br />Postgres 中优秀的文本索引不仅必须支持上述所有特性，还必须能够处理连接（JOIN）、跨全文及其他列类型的复杂 WHERE 子句、持续更新、复制、备份以及正确的事务可见性。<br />尽管 Postgres 目前已经至少存在三种现有的文本搜索索引，但没有一个能够满足所有这些要求。TIN 做到了。此外，TIN 的速度也快得令人叹为观止。<br />应用开发者利用文本索引来构建各种搜索功能。电子商务平台可能需要搜索包含搜索词中所有关键词的前十名商品：<br />法律调查（Legal Discovery）平台可能需要返回包含一组关键词中一个或多个词的所有文档，但完全不在乎相关性排序：<br />照片打标平台可能需要显示带有特定标签的照片的精确计数：<br />大多数应用程序在持续查询索引的同时，还需要插入、更新和删除文档。搜索查询必须在新行或变更行提交后，立即返回基于这些行的匹配结果。<br />我们运行了基准测试，以评估上述所有用例及更多场景下的性能表现。我们测试了以下工作负载：<br />我们针对多种文本语料库测量了 TIN：整个维基百科、总计 2.3 TB 的 Reddit 评论集，以及一个我们简称为“pile”的混合工作负载，其中包含 797 GB 的开放获取研究论文、法律文件、公有领域图书和安然公司（Enron）电子邮件。我们在本文中分享的基准测试结果来自 Stack Exchange 的问答导出数据：这是一个包含 1.5 亿篇文档、大小为 85 GB 的语料库。由于该语料库没有标准查询跟踪记录（query trace），我们通过采样 2 到 15 个词项的子字符串生成了合成查询。我们将每个子字符串按三种方式解释：合取（AND）、析取（OR）以及短语查询，总计 1,719 个查询。<br />我们在配备本地 NVMe 存储和支持现代 AVX-512 指令集 CPU 的 AWS i7i.8xlarge EC2 实例上运行了基准测试。对于每个文本搜索扩展，我们在限制为 8 个 vCPU 和 32 GB 内存的隔离容器中搭建了 Postgres 18.6。这个配置规模足够小，可以展示出当索引无法完全放入 Postgres 缓冲区时各个索引系统的性能表现。基准测试阶段是按顺序运行的，因此各引擎之间不会争抢资源。我们选择独立的 EC2 实例是为了尽量减少运维开销和复制的影响，并确保任何想要复现我们针对竞品文本搜索索引基准测试的人，都可以使用相同的实例类型和容器限制来完成。<br />为了向 Postgres 容器发送搜索流量，我们使用了 ParadeDB Benchmarker。我们使用了一个分支版本，在开始测量前会进行预热，并增加了读取字节数和写入 WAL 字节数的指标。除了三项以外，我们让所有 Postgres 参数保持 Benchmarker 提供的默认值：我们将 max_parallel_workers 从 40 设为 8，将 shared_buffers 从 128 MB 设为 24 GB，将 maintenance_work_mem 从 64 MB 设为 24 GB，以最佳匹配容器的资源。我们在目标 Postgres 服务器所在的同一台 EC2 实例上运行了 Benchmarker，以确保网络延迟不会影响测量结果。<br />针对每种场景，我们测量了 TIN v1.0.2 与其他所有能够运行该工作负载的 Postgres 文本搜索索引的性能对比，包括：ParadeDB v0.25.2、pg_textsearch v1.4.0 以及 Postgres v18.6 内置的 GIN 索引。除 TIN 外，仅有 ParadeDB 能够跑完所有的基准测试。<br />索引大小占语料库大小的 33% 到 61% 不等，它们耗费了 8 到 129 分钟来进行准备、构建和收尾。除 TIN 之外的其他三个引擎在容器配置的 32 GB 限制下均构建失败，因此仅针对索引构建阶段，我们按表中所列增加了可用内存。在运行查询之前，我们将所有引擎的容器内存重新调回 32 GB。<br />我们的第一项基准测试比较了在混合查询（合取、析取和短语查询）、按 BM25 得分取前 10 个结果、且对索引无并发写入的工作负载下 TIN 与 ParadeDB 的表现。TIN 每秒处理的查询量（QPS）是 ParadeDB 的 25 倍，且 p99 延迟低 26 倍。GIN 无法完成这项测试，因为它在执行析取搜索时发生了内存不足（OOM）。pg_textsearch 无法完成测试，因为它只支持析取搜索。<br />我们的下一项基准测试对比了无并发写入情况下，针对取前 10 个结果的合取和短语查询中 TIN、ParadeDB 与 Postgres GIN 的表现。TIN 和 ParadeDB 使用 BM25 进行排序，而 GIN 使用 ts_rank_cd 排序。TIN 处理的查询量是 ParadeDB 的 10 倍，是 GIN 的 541 倍，且 p99 延迟分别降低了 6 倍和 1,356 倍。pg_textsearch 同样缺席，因为它只支持析取查询。<br />我们的第三项结果对比了在析取查询、按 BM25 得分取前 10 个结果、且有并发客户端以每秒 1,000 次 UPDATE 查询为目标的工作负载下，TIN 与 ParadeDB 及 pg_textsearch 的表现。TIN 处理的查询量是 pg_textsearch 的 36 倍，是 ParadeDB 的 57 倍，p99 延迟分别降低了 24 倍和 36 倍。在持续 10 分钟的运行中，TIN 完成了 270,279 次更新，而 ParadeDB 完成了 185,584 次，pg_textsearch 仅完成了 735 次。<br />ParadeDB 接受写入的方法牺牲了读取吞吐量和延迟。pg_textsearch 在有写入和无写入的情况下读取端均保持相同的 3.5 QPS，这是因为持续的读取流量阻碍了写入流量获取所需的锁，导致写入在短短几秒后陷入停滞。GIN 再次缺席，因为它在析取查询中发生内存不足。<br />在引言中，我们曾声称 TIN 的速度快得令人叹为观止。<br />我们的最后一个图表展示了当索引完全适合放入 shared buffers 时，TIN、ParadeDB 和 Postgres GIN 的表现。该工作负载对维基百科（一个 8.0 GB 的语料库）执行析取查询，对匹配的文档进行计数（但不进行排序）。pg_textsearch 在此处缺席，因为它只能执行 top-k 查询，无法执行计数查询。<br />图表展示或许已经足够，但这并未涵盖我们的全部用例。以下是以表格形式呈现的这些场景及其他若干场景。“MB/query”（每查询兆字节数）列显示了每个索引在每次查询中从磁盘或块缓存中读取的数据量。TIN 较低的 MB/query 数值是其速度更快的部分原因，这也减少了 TIN 查询对块缓存和 I/O 能力的影响，意味着同一服务器上的其他查询也能保持快速。</p>
-<p>正如您所见，在广泛的场景中，TIN的吞吐量比替代方案至少高出8倍，从磁盘读取的数据要少得多，而且即使索引每秒更新数百行，其性能也仅有轻微下降。</p>
-<p>TIN在基准测试中的表现可能令人难以置信。为了让它更具说服力，或者至少满足读者的好奇心，我们将简要解释一些让TIN如此之快的架构选择。简而言之：所有文档的倒排项（postings）都是Postgres的ctid，而非连续的文档标识符，这在现代CPU上非常适合实现高度向量化的交集和并集操作。</p>
-<p>文本索引需要为其索引的每个文档的每个版本提供一个标识符。它将这些标识符分组到高度压缩的倒排表（postings lists）中；每个倒排表跟踪包含某个特定词项的所有文档。在一个庞大的语料库中，像“the”这样常见词的倒排表可能包含数十亿条倒排记录，而像“xyz-9876”这样词项的倒排表则可能仅包含寥寥数条。</p>
-<p>大多数全文检索系统将其索引组织成段（segments）。在某个段中存在倒排记录的n个文档通常被分配为文档标识符1到n。连续的文档标识符使得倒排表能够利用差分编码（delta-encoding）和位打包（bit-packing）等各种技术实现高度压缩。但这同时也意味着不同段中的文档标识符是独立分配的；段4中的文档ID 42与段7中的文档ID 42是完全不同的文档。</p>
-<p>TIN同样将其索引组织成段，但目的并非为了文档编号。相反，TIN直接使用Postgres的ctid值作为文档标识符。</p>
-<p>存储在Postgres表中的每行（元组）的每个版本都有一个关联的ctid值。ctid是“当前元组标识符”（current tuple identifier）的缩写。插入或更新的任何行都会获得一个新的ctid。它是一个48位数字，直接标识元组在Postgres堆（heap）中的物理位置。在文本表示上为 (, )，高32位表示块编号（block number），低16位表示该块内的偏移量。从现在起，我们将该部分称为“页号”或“页”。</p>
-<p>给定ctid为(190, 17)，我们便知道它所代表的元组位于第190页的第17个槽位上。瞬时的O(1)查找！您甚至可以直接使用ctid从堆中查询并检索行：</p>
-<p>TIN直接使用ctid，是因为Postgres内部本身就使用ctid。实现新索引类型的Postgres扩展必须返回ctid。Postgres位图扫描底层由可能存在有损的ctid位图支持。Postgres的内置索引类型（b-tree、GIN、GiST和hash）都使用ctid作为其倒排项。ctid在Postgres中无处不在。</p>
-<p>为了在Postgres中运行，分配连续标识符的全文检索系统必须在某一时刻将这些标识符转换回ctid，以便Postgres能够处理它。ParadeDB和pg_textsearch都维护了一个单独的数据结构，专门用于执行这种映射。如果一次全文检索匹配到1000万行，ParadeDB和pg_textsearch必须在其ctid映射中查找1000万个标识符。TIN完全避免了这项工作。</p>
-<p>常规的倒排表压缩技术对于不连续的48位数字效果不佳。差分编码在每个页边界处都会失效，而位图又过于稀疏以至于效率低下。幸运的是，Postgres数据页的一些有趣特性使得两级位图编码（two-level bitmap encoding）变得切实可行。一个8KB的数据页最多只能容纳291个元组（8192字节减去24字节的页头，再除以非空元组每条至少28字节），而对于包含TEXT等列的表结构，数据页通常仅容纳32个或更少的元组。因此，页号列表足够密集以使用位图，而在每个页内部，偏移量列表也足够密集（且足够小），可以在每页使用微型位图。</p>
-<p>相比天真地直接存储48位ctid值，这种方式节省的空间相当显著。在整个语料库中，高频词项接近每条倒排项1位（bit），中频词项稳定在每条倒排项7位左右，而低频词项可接近每条倒排项25位。仅出现一次的词项则完全不作为位图存储。</p>
-<p>以查询“the AND rareword”为例。TIN一次对256位（即256个页）的页级位图执行按位与（AND）操作。交集中任何缺失的位所对应的页，TIN都完全无需解码其偏移量级别的位图。</p>
-<p>对于像“the OR rareword”这样的COUNT(*)析取查询，TIN通常可以完全跳过读取倒排表。TIN的索引元数据存储了每个词项的精确倒排计数。如果两个词的页级位图没有共同的位，则它们析取后的总数就是这些精确倒排计数的总和。</p>
-<p>需要返回具体数据行而非计数的查询，会直接根据位位置计算出ctid，而不是在磁盘上查找它。置位（set bit）所在的位置就是ctid。</p>
-<p>TIN从给定段返回给Postgres的文档ctid自然是按照堆顺序来标识页以及页内的元组的。这意味着当Postgres需要从堆中读取匹配的元组时，读取是按堆顺序进行的。即使在现代NVMe磁盘上，顺序访问也远快于随机访问；TIN免费获得了这一优化。</p>
-<p>TIN返回符合MVCC正确性的结果，这意味着在任何时间点执行的语句只能看到或操作当前对其可见的元组。这代表着每个基于堆的查询结果都需要对照当前快照进行可见性检查。</p>
-<p>对此有几种不同的处理方式。某些查询本质上就需要进行堆检查：</p>
-<p>因为该查询返回实际的堆数据（a, b, c列），所以TIN无论如何都必须从堆中获取由 ==&gt; &#39;give you up&#39; 返回的所有匹配ctid。当TIN向Postgres请求每个ctid背后的物理元组数据时，Postgres会告知TIN该元组对当前快照是否可见。如果可见，TIN便返回它；否则，TIN转向下一个匹配的ctid，直到返回所有可见的匹配项。</p>
-<p>其他查询形式的执行方式可以类似于Postgres的“仅索引扫描”（Index Only Scan），即直接从索引返回结果而无需触碰堆（或者至少希望能不必触碰所有的堆）。以如下仅计数的查询为例：</p>
-<p>如果每个堆数据页都被标记为全可见（all-visible），TIN便可以在不触碰任何单个堆数据页的情况下直接返回该计数。</p>
-<p>当然，并非所有数据都是静态的。对于发生变更的堆表，TIN 会通过直接与 Postgres 的可见性映射（visibility map）进行交集运算，进行额外的优化，以确保其仅统计可见行。TIN 的页级位图正好是与 Postgres 可见性映射进行高效求交的理想机制，因为后者同样是页级位图。只有位于“非全可见”（not-all-visible）页面上的 ctid 才需要对照堆表进行检查。通常情况下，Postgres 索引会返回所有匹配的 ctid 而不考虑可见性，再由 Postgres 执行器逐一检查其可见性。TIN 则规划了自定义扫描，将可见性检查移至 TIN 内部，从而能够利用页级位图上的向量化指令。</p>
-<p>支持删除文档的文本索引通常会维护某种适合其引擎的“墓碑”（tombstone）列表。TIN 也不例外。TIN 为每个分段（segment）维护一个活跃度位图（liveness bitmap），每个 ctid 对应一位，其组织方式与页级和偏移位图的工作机制相同。当 VACUUM 运行并确定某个 ctid 已从堆中删除时（因 UPDATE 或 DELETE 导致），TIN 会清除该 ctid 的活跃位。包含至少一个被清除位的页面组会被标记；当查询触及被标记的页面组时，TIN 还会将倒排索引列表中的偏移位图与活跃度位图进行“与”（AND）运算，因此它绝不会返回或统计真正已被删除的元组。</p>
-<p>当首次为表创建新索引时，TIN 会创建 n 个不可变分段，每个分段包含堆中与该表关联的 1/n 页面的倒排项。随着数据发生更改，TIN 会创建可变分段，这些分段虽然搜索效率较低，但易于插入新文档。最终，后台工作线程会将每个可变分段晋升为不可变分段：数据保持不变，但搜索效率大幅提高。</p>
-<p>一段时间后，TIN 将开始把不可变分段合并为更大的不可变分段。这同样在后台进行。</p>
-<p>采用顺序文档标识符的文本索引系统在创建合并后的新分段时，必须对所有文档进行重新编号。如前所述，分段 4 中的文档 ID 42 与分段 7 中的 ID 42 并不相同。因此，当分段 4 和分段 7 合并时，必须对合并后的文档集应用新的编号规则，且每个分段的全部数据都需要重新打包、重新压缩和重写。合并两个分段所需的存储开销虽不至于完全达到 2 倍，但也很接近。</p>
-<p>TIN 则完全没有重新编号的问题，也没有其下游带来的写放大影响。</p>
-<p>因为 TIN 直接使用 Postgres 的 ctid 值作为其文档标识符，所以无需进行任何重新编号。像 (190, 17) 这样的倒排记录项在每个分段中的含义完全一致。页级和偏移级位图在每个分段中的含义也完全一致。当 TIN 合并分段时，来自各个旧分段的许多位图可以在新分段中原封不动地重用。它们不必重新压缩，甚至无需复制；TIN 只需将磁盘上存储的位图的所有权从旧分段转移到新分段即可。这不仅减少了写放大，还节省了通常与分段合并相关的大部分 CPU 和 I/O 开销。</p>
-<p>正因如此，TIN 在每项基准测试中都至少快 8 倍：这正是选择 ctid 作为索引中每个倒排项的原生格式所带来的下游收益。</p></div>
+<div class="article-body" data-article-body="true"><p>2026年6月22日 - 2026年6月22日<br />我平时不太沉迷于 Facebook，但是——哇——MM（五月谜题）Facebook 群组里的人确实多得惊人。<br />近期内容：来自 phoenixmag.com 的《亚利桑那的达·芬奇密码》<br />万物皆有终结，但谜题依然存在。<br />嘿，快看——这里有个 Facebook 群组。另外：该 Facebook 群组现在也有了邮政信箱 :)<br />信箱由罗伯特打理，地址为：Robert Bannon 2719 Goldspring Ln Spring, TX 77373</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-19 21:52 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-20 05:43 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -398,45 +197,84 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://planetscale.com/blog/introducing-tin" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="http://www.maydaymystery.org/mayday/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ery-tv-company-is-spying-9b91344cb433ea00" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3123" data-content-paragraphs="15" data-published-at="2026-09-19T13:00:00.000Z" data-time-source="publication">
+<div id="story-anking-really-works-html-c0e1d1d1c0e5c9fc" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2714" data-content-paragraphs="13" data-published-at="2026-09-19T21:30:59.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-20 05:30</span>
+</div>
+
+### [Hacker News 排名机制解析：评分、争议与惩罚（2013）](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> How Hacker News ranking works: scoring, controversy, and penalties (2013)</div>
+
+<div class="article-body" data-article-body="true"><p>通过对 Hacker News 前 60 篇热门文章进行为期数天的仔细分析，我可以回答这些问题以及更多细节。官方公开的排名公式大体上是准确的。但排名的微调程度远超你的想象，首页上有 20% 的文章会受到各种形式的惩罚。标题中包含“NSA”（美国国家安全局）的任何内容都会受到惩罚并迅速下榜。一篇“具争议性”的文章在达到 40 条评论后会受到严厉惩罚。本文详细介绍了其评分机制和惩罚机制。[编辑说明：HN 现已不再对涉及 NSA 的文章施加惩罚（详情）。]</p>
+<p>由于时间因素的指数比投票数的指数更大，文章的分数最终会降至零，因此没有任何内容能在首页停留太久。这一指数被称为重力系数（gravity）。</p>
+<p>你可能会以为，每次访问 Hacker News 时，所有文章都会根据上述公式计算得分并排序以确定其排名。但出于效率考虑，系统只是偶尔对单篇文章重新排序。当一篇文章获得赞成票（upvote）时，它会被重新排序并在列表中上移或下移至合适位置，而其他文章则保持不变。这样一来，重新排序的计算量大大减少。然而，可能存在这样一种情况：一篇文章不再获得投票，结果一直停留在较高的位置。为了避免这种情况，系统每隔 30 秒会随机挑选排名前 50 的一篇文章进行重新排序。其结果是，如果一篇文章没有获得投票，它可能会在好几分钟内处于“错误”的排名位置。此外，页面可能会被缓存 90 秒。</p>
+<p>该图表展示了几个有趣的现象。一篇文章的分数会迅速攀升，然后在数小时内缓慢下降。评分公式在很大程度上解释了这一点：即使一篇文章以恒定速率获得投票，它的分数也会迅速达到峰值并逐渐回落。但实际观察到的峰值到来得更快——这是因为文章往往会在前一两个小时内获得大量投票，随后投票速率便会下降。这两个因素叠加在一起，就形成了图表中所示的陡峭曲线。</p>
+<p>每天都有几篇文章的分数远超其余文章，同时中间还夹杂着大量普通文章。有些文章得分非常高，但运气不佳，被卡在了一篇更受欢迎的文章之后。还有些文章则在一篇热度下降、另一篇正在上升的空档期短暂登顶榜首（第 1 名）。</p>
+<p>观察原始得分最高的文章（图表顶部）与实际排名第一的文章（红线）之间的差距，你可以看出惩罚是在何时生效的。文章《完全搞砸了网站注册》（Getting website registration completely wrong）在清晨登顶第一，但因存在争议而受到惩罚并迅速从首页跌落，让《Linux 把我的内存吃光了》（Linux ate my RAM）短暂夺得头名，随后又被《用 CSS 画辛普森一家》（Simpsons in CSS）反超。稍后，有关《苹果地图》（Apple Maps）的文章在登上榜首不久后便遭遇了争议惩罚，导致其痛失第一并在排名中快速下滑。关于 Snapchat 的文章曾登顶 HN，但在上午 8:22 遭遇极其严重的惩罚，以至于完全从榜单中消失。《为什么你永远不该用 MongoDB》（Why you should never use MongoDB）极受欢迎，本来能在第一名的位置待上一整天，但因迅速遭到惩罚而只能在第 7 名左右徘徊。《与 NSA 切断联系》（Severing ties with the NSA）一开始就带有针对 NSA 的惩罚，但由于其人气极高依然拿下了第一名。然而，它很快就被施加了更严厉的惩罚，被迫掉落排名。最后，在当天接近尾声时，《410万美元不翼而飞》（$4.1m goes missing）受到了惩罚。事实证明，即使没有惩罚，它很快也会将榜首位置让给《FTL》（超越光速）。</p>
+<p>绿色三角形和文字标明了应用“争议”惩罚的位置。蓝色三角形和文字标明了文章受到严惩直至彻底出局（跌出前 60 名）的位置。较轻微的惩罚未在此展示。</p>
+<p>显而易见，HN 榜首位置的内容并非“自然生成”，而是对大量文章持续实施惩罚的结果。目前尚不清楚这些惩罚是来自 HN 管理员的人工干预，还是来自用户标记（flagged）的机制。</p>
+<p>用户 eterm 提出的一个有趣理论认为，来自热门信源的新闻会被多人同时重复提交，从而获得超出文章“应得水平”的点赞数。自动对热门网站施加惩罚将有助于抵消这种效应。</p>
+<p>争议：为了防止在 Hacker News 上引发口水战（flamewars），评论“过多”的文章会被视作“具争议性”并受到重罚。在官方公开的代码中，只要文章的评论数超过 20 条且评论数多于赞成票数，contro-factor（争议系数）函数就会触发。此类文章的分数会按 (votes/comments)^2（投票数/评论数）的平方进行折减。然而，实际运行的公式有所不同——它对评论数多于赞成票且评论数至少达到 40 条的帖子生效。根据实证数据，我推测该指数是 3 而非 2，但这尚未得到证实。争议惩罚可能会对文章排名产生突发且灾难性的影响，使一篇文章前一分钟还高居前列，达到 40 条评论时便瞬间消失。如果你曾疑惑为什么一篇热门文章会突然从首页消失，“争议”很可能就是罪魁祸首。例如，《为什么 Chromebook 评论家们脱离现实》（Why the Chromebook pundits are out of touch with reality）在达到 40 条评论的瞬间从第 5 名跌落至第 22 名；而《Show HN：从任何医生那里获取你的健康记录》（Show HN: Get your health records from any doctor）原本位居第 17 名，但在触及 40 条评论后直接彻底跌出了前 60 名。</p>
+<p>这种分析技术证明了惩罚机制的存在，并能给出惩罚力度的区间，但要确定精确的惩罚数值却十分困难。你可以随着时间推移观察该区间，期盼它收敛到一个固定数值。然而，几种误差来源干扰了这一过程：首先，相邻的文章可能同样受到了惩罚，或者其计分规则有所不同（例如招聘帖）；其次，由于文章并不会持续被重新排序，某篇文章可能会暂时处于不合理的位置；第三，对某篇文章的惩罚可能会随时间发生改变；第四，前端显示的投票数可能与实际投票数不一致，因为“异常”投票会被压制。其结果是，我虽然能够推算出大致的惩罚幅度，但其中存在相当大的数值不稳定性。</p>
+<p>以下是 11 月 11 日当天首页上受到惩罚的文章列表。（此处排除了那些若未受惩罚本该上榜的文章。）这个名单比我预想的长得多；请向下滚动查看完整列表。</p>
+<p>下一个系数对被标记为恶搞（笑话）的文章施加严苛的 0.1 惩罚系数，对“轻量级”文章施加 0.17 的系数。实际的惩罚系统似乎比公开代码中所呈现的要复杂得多。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-20 05:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--997833-meta-muse-creepy-b4233d80af418d7d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1073" data-content-paragraphs="10" data-published-at="2026-09-19T20:44:40.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 21:00</span>
+  <span class="news-meta-time">🕒 2026-09-20 04:44</span>
 </div>
 
-### [不只是LG，每家电视厂商都在暗中监视你](https://www.theverge.com/tech/997682/every-tv-company-is-spying)
-<div class="original-title-sub"><span class="orig-tag">原文</span> It’s not just LG. Every TV company is spying on you</div>
+### [Meta 的 Muse 令人毛骨悚然，但原因或许与你想的不同](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Meta’s Muse is creepy, but maybe not for the reasons you think</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0005.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="不只是LG，每家电视厂商都在暗中监视你" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Meta 的 Muse 令人毛骨悚然，但原因或许与你想的不同" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>来自该话题的帖子将被添加到您的每日电子邮件摘要和主页推送中。<br />并非每款智能电视都像 Gamers Nexus 所说的那样容易被黑客入侵，但除非你主动选择退出，否则它们都在追踪你观看的内容。<br />来自该作者的帖子将被添加到您的每日电子邮件摘要和主页推送中。<br />查看 John Higgins 的全部文章<br />如果您通过 The Verge 提供的链接购买商品，Vox Media 可能会赚取佣金。请参阅我们的道德准则声明。</p>
-<p>科技媒体 Gamers Nexus 发布了一段长达2小时15分钟的视频，声称 LG 电视正在不怀好意地监视你的一举一动，在电视圈掀起了一场轩然大波。该视频称，即使电视看似处于关机状态，它们也能录制并存储音频，追踪你观看的所有内容，甚至可能遭到远程黑客入侵，变成隐蔽的监控设备。LG 电视用户以及广大的科技爱好者对此群情激愤，而 LG 仓促作出的回应几乎未能平息局势。</p>
-<p>视频中的一些说法可能基于推测和假设，但许多核心担忧却是真实且普遍存在的。尽管 LG 是该视频关注的焦点，但实际上每家电视厂商都在追踪你的操作、收集这些数据并将其分享给合作伙伴。而我们对此表示同意——即便我们自己根本没有意识到。</p>
-<p>这些年来，电视价格大幅下降，以至于一些厂商甚至在亏本销售。但他们通过出售从操作系统中收集的用户行为数据来弥补这一亏损。这也是沃尔玛在2024年收购 Vizio 的原因。</p>
-<p>Gamers Nexus 的视频涵盖了大量内容，但我们先从几乎所有电视制造商都在做的一件事说起：追踪你看了什么、何时观看、何地观看以及如何观看，从而向你推销相关的商品。自动内容识别（ACR）系统几乎内置于每一台现代电视中，它可以通过截取音频或视频片段，将其转化为数字指纹并发送到数据库进行比对，从而识别通过内置流媒体应用以及电视接口播放的内容。正是这项技术使电视能够进行内容推荐，并根据你的观看习惯投放广告。这也是像尼尔森（Nielsen）这样的公司跨平台和服务追踪收视率的一种方式。</p>
-<p>为了让电视捕获这些信息，需要获得你的同意。Gamers Nexus 在视频中的抱怨之一在于，这种同意条款往往被深埋在冗长晦涩的协议中，而你必须接受这些协议才能使用电视；此外，厂商还经常利用“暗黑模式”（dark patterns）或欺骗性设计，诱导用户在不知情的情况下同意一些本不必同意的条款。例如，Gamers Nexus 的视频显示，一台 LG 电视弹出了六份不同的用户协议（其中包括同意 ACR 的条款），并且在只需同意两份协议即可继续操作的情况下，自动将光标默认置于“全选”上。</p>
-<p>作为一名电视评测人员，我必须在评测的每一款产品上应对最终用户许可协议（EULA）和隐私政策。尽管由于进出我公寓的电视和其他智能设备数量实在过于庞大，这可能是一场注定打不赢的仗，但我还是采取了措施尽量保护个人隐私。我有一个专用的备用 Gmail 账号，仅用于登录应用程序和电视操作系统。起初，我只接受确保电视正常运行所必需的法定协议，以便能够运行画质测试（包括 Calman 校准和测试光盘）。我绝不同意自动内容识别，该功能通常被称为“增强观看”（Enhanced Viewing）、“智能电视体验”（Smart TV Experience）或“Samba 互动电视”（Samba Interactive TV）等名称。</p>
-<p>若想更进一步，可以关闭 Wi-Fi 并拔掉电视的以太网网线，基本上将其当作一台非智能的“哑巴电视”（我评测过的 Vizio Mini LED Quantum 在这方面表现最好）。然后，接上你选择的第三方流媒体设备。我使用的是 Apple TV 4K。倒不是我认为苹果不收集任何数据，而是因为它不使用 ACR，而且相比任何电视制造商或谷歌，我更信任苹果的安全协议。</p>
-<p>Gamers Nexus 视频的很大一部分重点关注了更广泛的安全隐患，以及 LG 似乎更为恶劣的隐私侵犯行为。这包括：即使电视看似已关机，仍会录制房间内的视频和音频；将本地网络的信息发送给 LG 的服务器；以及记录使用电视麦克风进行语音搜索和语音控制时捕获的背景音频。Gamers Nexus 和 Level1Techs 甚至能够利用安全漏洞控制电视，这也是他们发现上述情况的途径。</p>
-<p>显然，这些情况都令人不安。但值得注意的是，最可怕的部分——在电视看似关机时录制视频（来自他们外接的网络摄像头）和音频——似乎只有在 Level1Techs 利用某种漏洞获取了电视的 Root 权限后才得以实现，据他们称该漏洞需要网络访问权限。智能电视本质上就是一台计算机，如果你能够访问并获取其 Root 权限，你几乎可以让它做任何你想做的事。如果只需网络访问权限就能破解并获取电视的 Root 权限，这确实是一个实质性的安全隐患；虽然这仍然需要攻击者先攻入你的私有本地网络，但一旦攻破，电视就会成为一个极易受攻击的终端。</p>
-<p>凭借获得的 Root 权限，Gamers Nexus 还发现，当 LG 电视的麦克风被激活用于语音搜索后，在最后一次检测到语音后它仍会持续录音 10 到 15 秒。在 Gamers Nexus 启用了远场麦克风并将麦克风灵敏度调到最高后，它甚至能从超出预期的远距离检测到“Hi LG”唤醒词及其他语音。综合来看，这意味着只要在麦克风激活后，麦克风（超远）拾音范围内的任何人继续说话，电视就会将他们的对话一并录入，并视作语音搜索的一部分。这固然并不理想，但 Gamers Nexus 和 Level1Techs 确实特意扩大了麦克风的拾音范围，并使用了可选的语音搜索唤醒词，而这两项设置实际上都很容易避免。</p>
-<p>除了这些令人震惊的测试结果外，视频中也充斥着大量的“可能”、“我们认为”以及纯粹的推测，更不用说跨度极大的推论了。例如，Gamers Nexus 的史蒂夫·伯克（Steve Burke）表示，拔掉电视的以太网线可能不足以阻止其向 LG 传输数据，因为电视可能会自动连接到附近 Comcast 或 AT&amp;T 客户开放的 Wi-Fi 广播来上传这些数据。Gamers Nexus 的视频中并没有证据表明 LG 电视实际上会尝试这样做——首先，这些热点往往需要用户账号登录——伯克也没有明确表示它们确实会或能够这样做，但其暗示意味不言而喻。这种无端的肆意揣测，反而削弱了 Gamers Nexus 所指出的那些合理漏洞的说服力。</p>
-<p>至少在目前，确实没有任何办法能完全防止你的电视、流媒体设备或流媒体服务收集你的数据。在牺牲消费者利益的前提下所赚取的利润极其丰厚，而且数据收集已经如此深地融入了这些公司的运作模式之中，以至于这一改变和监管必须来自政府政策制定者。电子前沿基金会（EFF）高级安全与隐私倡导者索林·克洛索夫斯基（Thorin Klosowski）表示：“我们需要一部全面的联邦隐私法来涵盖此类数据收集与滥用行为。具体而言，该法律应要求实行明确的‘选择性加入’（opt-in）同意机制，禁止采用欺骗性的设计陷阱来套取同意，并落实数据最小化原则，限制企业仅将数据用于提供服务所必需的用途。”</p>
-<p>作为科技产品的用户，我们竟然不得不主动防范那些向我们兜售产品的公司，这本就很可悲。但这就是生活在一个充斥着科技的世界里并享受现代技术便利时，所不得不面对的遗憾现状。除了彻底断网、搬进森林里的小木屋、守着一台非智能电视和一堆蓝光光盘过日子之外，我们目前所能做的极限，就是尽可能减少共享的信息。只要能保留隐私，我们就应竭力维持。</p>
-<p>每日最重要的免费精选新闻摘要。<br />这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>来自该话题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。</p>
+<p>Muse 大概率无法“看到”你的通知。但它也完全不清楚自己究竟是如何运作的。</p>
+<p>来自该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看 Terrence O&#39;Brien 的全部文章</p>
+<p>Meta 的 Muse 显然是一款高效的 AI 助手，但也着实让人感到有些毛骨悚然。这在一定程度上是因为它新推出的 Mac 应用程序，该程序可以访问“信息”、“日历”和“备忘录”。但尽管它十分聪明，Muse 实际上并不知道该如何描述自己。《Inc》杂志特约编辑杰森·阿滕（Jason Aten）在 Threads 上发布了他与 Muse 互动的截图，其中该助手针对他当时在“信息”中进行的一段对话向他提出了一些问题。</p>
+<p>问题在于，阿滕表示自己并未授权 Muse 访问其信息。当被问及是如何得知其信息内容时，Muse 回答道：“我看到的是通知预览，而不是你的信息记录。我并没有在偷看你的短信。”阿滕继续追问，询问 Muse 是如何接收到信息预览的，它却无法给出合理的回答。“实话实说：我无法向你说明具体的底层管道机制，”它说，“我只知道配对的 Mac 应用程序将通知作为其功能之一提供，它们是通过设备同步传送到我这里的。”</p>
+<p>显然，这感觉并不好。</p>
+<p>Meta 超级智能实验室（Superintelligence Labs）的大卫·辛格尔顿（David Singleton）在该帖子下方参与了讨论并试图进行解释。首先，他梳理了 Muse 读取信息所需的所有权限，包括授予该 Mac 应用程序“完全磁盘访问权限”。他表示这些功能均为选择性加入。更耐人寻味的部分出现在该帖子的后半段，辛格尔顿在其中表示，Muse“不会监控你 Mac 上的通知，而是在用户明确启用访问权限后，才会从‘信息’中同步数据”。他指出，问题并不在于 Muse 非法偷看阿滕的短信，而仅仅是因为 Muse 根本不知道自己在说些什么：</p>
+<p>“在杰森截图中与 Muse 的对话里，当 Muse 表示它同步了‘设备通知’时，它对如何解释该功能产生了困惑，并给出了错误的解释。这是我们的责任。我们对 Muse 的错误回答深表歉意，目前正在努力提升 Muse 对其自身内部运作机制的理解，以便它在被问及自身工作原理时能够更稳定地给出正确答案。”</p>
+<p>这番解释或许并不能让人特别安心，但也确实合乎情理。我们早就知道，聊天机器人不会向你透露它们的秘密，反而只会挑你想听的话来说。</p>
+<p>一份汇聚最重要资讯的免费每日摘要。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-19 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-20 04:44 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -446,94 +284,39 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/997682/every-tv-company-is-spying" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-tion-smackdown-isnt-over-79e6d15835f255d2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2707" data-content-paragraphs="16" data-published-at="2026-09-19T13:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-19 21:00</span>
-</div>
-
-### [AI监管之争尚未落幕](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The AI regulation smackdown isn’t over</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="AI监管之争尚未落幕" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态中。<br />这是AI领域各首席执行官之间的较量，且局势瞬息万变。<br />该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态中。<br />查看海登·菲尔德（Hayden Field）的所有文章</p>
-<p>本周初，AI领域的领军人物似乎——至少暂时——站在了支持AI监管的一方。上周末，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）提出了放缓AI研发的三步走计划，其中包括在各实验室中引入第三方评估人员、在全美行业内部进行协调，以及在潜在政府协助下达成国际协议。OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）、谷歌DeepMind联合创始人德米斯·哈萨比斯（Demis Hassabis），甚至SpaceX首席执行官埃隆·马斯克（Elon Musk），似乎都在公开层面对这三方面的某些要点表示赞同。</p>
-<p>Anthropic与OpenAI此前就已透露风声，暗示他们与其他实验室正在制定某种行业框架。表现出支持监管的姿态，不仅看似一次良好的公关举措，而且可能成为各家公司应对愈发令人担忧的网络黑客事件余波的一种途径。</p>
-<p>目前来看，政府在这一进程中的任何介入似乎都是行不通的。特朗普政府对AI存在“安全危机”的说法予以抨击，斥之为“骗局”。AI界内部也出现了分歧。Meta首席执行官马克·扎克伯格（Mark Zuckerberg）迅速站出来反对限制企业的自主权；本周早些时候，《华尔街日报》报道称，扎克伯格、马斯克以及英伟达首席执行官黄仁勋共同阻挠了一项由行业出资成立AI行业独立监管机构的提案——该机构类似于金融领域的私营非营利监管机构金融业监管局（FINRA）。不过，包括OpenAI在内的部分业内主体并未放弃这一设想。</p>
-<p>“人们希望确切知道AI正在安全地研发，”OpenAI全球事务负责人克里斯·勒汉（Chris Lehane）向The Verge表示，“这始于像我们这样的企业自行采取的措施，但政府同样扮演着重要角色。AI政策之窗已经打开，跨党派对于前沿AI制定强制性国家安全标准的支持与日俱增。国会应当顺应这一势头，将其转化为一个既能加强安全、支持美国创新，又能确保美国在AI领域保持领先地位的框架。”</p>
-<p>一位因当前投资项目而要求匿名的AI风险投资人赞同监管具有必要性：“在任何技术的发展历程中，无论是电力、汽车还是飞机，你都会看到这样的时刻：在某一阶段，整个行业必须走到一起，寻找途径共同探讨‘我们该如何统一定义安全的含义？’汽车曾经是不安全的，飞机曾经也是不安全的，随后我们制定出了每个人都接受的安全标准，这反倒促使该技术得到了更广泛的普及。但早期阶段总是会有些野蛮和不受约束，技术就是这样发展演进的。”</p>
-<p>Anthropic拒绝置评，但阿莫代伊在他的文章中写道，该公司“始终……倡导对AI进行深思熟虑的监管，即使这会让我们被指责为炒作、‘末日论者’或监管俘获。”</p>
-<p>其他公司则保持沉默。Safe Superintelligence Inc.、SpaceX和谷歌均未回应置评请求。Thinking Machines Lab拒绝置评。而Meta则指引参考扎克伯格在社交平台X上发布的一篇帖文，他在其中与放缓研发和实施监管的呼声划清了界限，写道：“每个实验室都有责任和动力按照安全训练自身模型所需的节奏推进，并有能力自行采取行动以确保这一点。”</p>
-<p>扎克伯格的思考方式目前似乎正契合特朗普的思路。上周，这位总统因将近期对AI风险的担忧称为“骗局”而登上新闻头条。他在黄仁勋于某会议登台演讲期间致电对方，并通过扬声器对台下人群表示：“机器人不会接管世界。”同一天，他还在社交媒体上发文称，“AI唯一需要的控制或‘护栏’是一位强有力且聪明的（高智商！）总统，而美国在这方面绰绰有余！”他补充称，特朗普政府已经利用其对“这些公司拥有的巨大刑事和监管权力”，“阻止了AI‘人士’做出坏的或潜在坏的‘事情’！”他谴责针对AI和数据中心正在发生一场“病态的阴谋”，并称无论谁赢得AI，就将赢得全局。“阴谋论者、叛国者、叛徒和泄密者，当心了！”他写道。</p>
-<p>纽约大学兼职教授、美国国土安全部前新兴技术政策主任尼克·里斯（Nick Reese）看来，特朗普目前针对AI的反监管言论令人困惑，因为他曾与第一届特朗普政府合作制定了第13960号行政命令——该命令由特朗普签署且至今尚未废除。该行政命令的核心是建立一套联邦使用AI的原则，以保护“隐私、民权和公民自由”。</p>
-<p>“六年前，特朗普政府签署了关于AI安全的行政行动，因此总统在该议题上的立场发生了实实在在的转变，”里斯表示，“AI安全所需要的，不仅仅是一位当选官员的个人智识。”</p>
-<p>正如AI行业博主兹维·莫绍维茨（Zvi Mowshowitz）所指出的那样，特朗普并不一定完全反对监管——毕竟，他也曾对前沿实验室施加过一些限制，例如要求政府进行发布前测试。但用莫绍维茨的话来说，他的行事更多是由“氛围感受”而非连贯一致的政策驱动的。“特朗普目前还不买‘生存危机’这一套，那是‘消极力量’，”莫绍维茨写道。因此，政府出台护栏机制并未被完全排除，但它们可能与OpenAI或Anthropic的诉求大相径庭——更不用说那些影响力较弱的独立AI安全倡导者的计划了。</p>
-<p>里斯表示，总体而言，本届政府在AI监管方面的立场一直“摇摆不定且缺乏连贯性”。“其结果就是，我们现在将AI安全框定为这种‘机器人要来抓我们’的末日场景。但将其描绘成‘机器人要来抓我们’，严重扭曲了核心问题的实质。核心问题在于，我们拥有的并不是寄宿在机器人体内的物理实体AI，而这种AI此刻正在对人类造成伤害。”</p>
-<p>特朗普在Truth Social上发帖称，政府目前对AI实验室拥有刑事和监管权力，但里斯指出，我们距离对AI行业拥有充分的监管权力还差得很远。随着技术的进步，以及公众持续表现出的抵制态度——针对AI行业权力集中在少数人手中的抗议、抵制与呼声——要求监管的呼声只增不减，这种压力可能会对特朗普当前的立场产生影响。</p>
-<p>里斯表示，反对监管归根结底源于一种“老掉牙”的观念，即认为监管总会阻碍创新。相反，他认为重要的是去思考事物之所以受到监管的根本原因。</p>
-<p>“我们监管那些绝不能容忍出现任何差错的领域……比如金融业或航空业，”他表示。“我们建立各种系统、核查机制、质量保证以及防灾后备方案，以确保这些领域不会危害生命，也不会对我们造成系统性损害。但不知为何，我们却在让人工智能免受此类约束。”<br />每日免费精选最重要的新闻摘要。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-19 21:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-dard-for-ai-benchmarking-91aee42fab4e1dd1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2193" data-content-paragraphs="17" data-published-at="2026-09-19T13:00:00.000Z" data-time-source="publication">
+<div id="story-ce-with-employee-buyouts-10a42b245f5f0c3d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="705" data-content-paragraphs="11" data-published-at="2026-09-19T20:39:13.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 21:00</span>
+  <span class="news-meta-time">🕒 2026-09-20 04:39</span>
 </div>
 
-### [获安德森·霍洛维茨注资，Vals 意欲成为 AI 基准测试的黄金标准](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking</div>
+### [报道称Flock试图通过员工买断计划缩减人员规模](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Flock reportedly tries to shrink workforce with employee buyouts</div>
 
-<div class="article-body" data-article-body="true"><p>基准测试已成为 AI 企业验证自身模型能力的标准行业做法；当各项指标对自己有利时，企业便能借此从竞争对手中脱颖而出，大肆宣传自己的优势地位。换句话说，良好的基准测试成绩几乎就等同于极佳的公关宣传。</p>
-<p>不幸的是，各家公司也已经摸索出了如何“玩弄”传统基准测试系统——其中许多系统年代较早，最初并非为了衡量现代模型的能力而构建。</p>
-<p>成立于2024年的初创公司 Vals 表示，其使命正是修复这个极不完善的系统。在不到两年的时间里，该公司已在科技界崭露头角。去年，它成功完成了由 8VC 和 Bloomberg Beta 领投的种子轮融资。随后在上个月，经历了一段快速增长后，该公司又完成了由安德森·霍洛维茨（Andreessen Horowitz）领投的4000万美元 A 轮融资。</p>
-<p>该公司年仅25岁的联合创始人拉扬·克里希南（Rayan Krishnan）曾在 Palantir 实习，并在斯坦福大学读本科期间为微软以及该校备受赞誉的人工智能实验室工作过。克里希南表示，创立 Vals 源于他自己的切身体会：用于衡量行业进步的基准测试，本身却已经远远落后于行业的发展脚步。</p>
-<p>“我们当时看到大量能力极强的新模型迅速推向市场，而学术基准测试却完全跟不上前沿技术发展的步伐，”克里希南分享道。克里希南说，随着人工智能深入融入社会的方方面面，基准测试的真正存在意义，应当是验证模型是否真能做到各大公司对外宣传的那样。</p>
-<p>上周，这位年轻的创始人体贴地带我参观了他位于旧金山福尔瑟姆街（Folsom Street）的两层办公室——这是一座拥有百年历史的红砖建筑，曾经是一家大型啤酒厂的旧址。如今，这座历史建筑不再进行啤酒的工业化生产，而是汇聚了许多致力于开创科技行业未来的初创企业。</p>
-<p>“从历史上看，我认为过去的评估往往以一种非常抽象的方式来衡量智能，”克里希南告诉我。“比如，模型掌握的信息是否足以参加类似律师资格考试的测试？”</p>
-<p>正是在这一点上，Vals 寻求与众不同。许多基准测试系统所提供的测试题库都是公开可获取的（这可能导致公司专门针对这些测试来训练模型，在考试中变相‘作弊’），而 Vals 则不对外公开其具体的测试材料。此外，Vals 并不只是衡量 AI 模型的通用常识，而是评估模型完成法律、金融和编程等特定行业复杂任务的能力。</p>
-<p>“我们真正在做的是观察这些模型的实际影响力，”克里希南说，“它们能否在各个领域完成工作，并产出达到人类同等水准的成果？”</p>
-<p>他表示，这种思路不仅要检验积极的成果，还要排查负面风险。其目的是为了分析“如果这些模型在现实世界中失控运行，会带来哪些负面后果”。</p>
-<p>Vals 正在衡量的能力范围还在不断扩大。除了更为传统的行业外，这家初创公司还在继续拓展更多独特的领域。“我们有一套关于递归自我改进（recursive self improvement）的基准测试。我们还在心理健康、网络安全、生物安全，乃至武装冲突法等领域开展工作，以了解模型如何应用《日内瓦公约》，”克里希南分享道。</p>
-<p>各家公司会向 Vals 付费以测试自己的模型，这个概念初听起来可能让人有些难以理解：为什么一家公司要花钱去发现自己的模型表现不佳？但拥有有效的衡量标准，有助于企业排查故障并在未来持续改进。克里希南将其收入模式比作学生向大学理事会（College Board）付费参加 SAT 考试。</p>
-<p>反过来，对于那些寻求采购新 AI 模型的企业而言，这些评估结果正在成为关键的决策因素。</p>
-<p>这家初创公司近期透露，其目前的营收是去年的八倍。其员工规模也在不断扩张。Vals 年初时仅有8名员工，如今团队规模已翻了三倍达到25人。克里希南表示，随着初创业务的增长，公司计划搬入一个大得多的办公室，并再增聘10到15名员工。该公司最近还启动了一个项目，重点是为联邦机构提供模型评估服务。</p>
-<p>克里希南将自家公司的基准测试体系，视为未来人工智能企业思考拓展业务和建立公众信任的核心方式。</p>
-<p>“AI 公司正在开始走向上市。SpaceX 已经上市。Anthropic 计划在今年晚些时候上市。我推测 OpenAI 也很快就会公开上市。我认为，随着 AI 模型成为经济的核心支柱并得到更广泛的普及，我们所做的这类基准测试和评估不仅将推动它们的应用，还将成为这些公司提交公开申报文件或讨论其未来 AI 投资时的核心组成部分，”他说道。</p>
-<p>当你通过我们文章中的链接进行购买时，我们可能会赚取少许佣金。这不会影响我们的编辑独立性。<br />TechCrunch 资深记者<br />预订展位最后截止日期为9月18日。切勿错过在 Disrupt 博览厅中获取高意向销售线索、接触投资人以及品牌亮相的良机。<br />来自 ChatGPT 发明者的新型 AI 模型让开发者兴奋不已<br />OpenAI 发现其模型给后续接任模型留纸条以隐瞒不良行为<br />未编辑的新诉讼文件显示，微软高管称 AI 爬取数据是“人类历史上最大的劳动成果盗窃案”<br />清洁技术初创公司 Fluxnium 找到利用长达5万年核燃料储备的方法<br />Salesforce 与英伟达联合推出的全新推理模型，正是 AI 实验室所应畏惧的一切<br />黄仁勋接听了特朗普的电话，并展示了另一样东西<br />根据风险投资人评选：最新一届 Y Combinator Demo Day 上最受瞩目的9家初创企业</p></div>
+<div class="article-body" data-article-body="true"><p>据《连线》（Wired）杂志报道，深陷舆论漩涡的监控技术公司Flock Safety于周五公布了一项针对员工自愿离职的“丰厚”遣散方案。</p>
+<p>据报道，Flock预计其1500名员工中有相当一部分人会对买断方案表现出兴趣，并表示将批准其中大多数申请者的离职请求。该公司在内部公告中称，该离职补偿方案是其有史以来提供的“最丰厚”的一次。</p>
+<p>通过允许员工自愿离职，Flock能够送走那些因公司车牌识别技术持续引发强烈抵制而士气低落的团队成员。《连线》还报道称，如果没有买断计划，该公司“几乎肯定”需要裁减一部分员工。</p>
+<p>今年8月，《华盛顿邮报》查证了46起警员被控滥用Flock技术的案件，其中包括涉嫌用该技术追踪妻子、女友或前任的案件。佛罗里达州和得克萨斯州均表示将停止使用该初创公司的技术，一个反监控倡导组织指出，仅在8月份就有90个城市弃用了Flock——较前一个月增加了四倍。</p>
+<p>TechCrunch已联系Flock寻求置评。该初创公司首席执行官加勒特·兰利（Garrett Langley）最近在All-In播客中表示，这场舆论反弹造成的“最大损害”是对“内部士气”的打击。</p>
+<p>预订展位的最后一天是9月18日。切勿错失高价值线索、接触投资者的机会以及在Disrupt展厅的品牌聚焦时刻。</p>
+<p>每个工作日和周日，您都可以获取TechCrunch的精选报道。</p>
+<p>TechCrunch Mobility是您获取交通领域新闻和洞见的必访之地。</p>
+<p>初创公司是TechCrunch的核心，欢迎订阅我们每周精选送达的内容。</p>
+<p>为行业领军者提供开启新一天所需的关键资讯。</p>
+<p>提交您的电子邮件，即表示您同意我们的条款和隐私声明。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-19 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-20 04:39 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -543,60 +326,35 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-item-957dad81750da0dc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2911" data-content-paragraphs="32" data-published-at="2026-09-19T10:46:58.000Z" data-time-source="publication">
+<div id="story-install-e473c81e6c9ccc42" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="342" data-content-paragraphs="7" data-published-at="2026-09-19T20:00:59.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 18:46</span>
+  <span class="news-meta-time">🕒 2026-09-20 04:00</span>
 </div>
 
-### [Laya：Jev 的开源版本](https://laya.convaiinnovations.com/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Laya the open source version of Jev</div>
+### [监测互联网审查。为规模最大的开放数据集贡献力量](https://ooni.org/install)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Measure internet censorship. Contribute to the largest open dataset</div>
 
-<div class="article-body" data-article-body="true"><p>从我们 2025 年 3 月关于序列转化轨迹的 arXiv 论文，到如今的 Laya：一个延迟低于 35 毫秒、采用 RLCD、支持 100 多种语言多语言路由并具备业界顶尖校准能力的开源权重系统 1（System 1）决策引擎。</p>
-<p>图 1：完整基准测试看板——在共享数据集上的准确率、9 项应用工作流、51 种语言扫描、T4 延迟以及校准修复。</p>
-<p>当下，AI 领域的每个人都在谈论一种新型模型：一种非自回归、不生成文本、能够针对结构化模式（schema）提供极速概率预测的架构。</p>
-<p>看着网上的热炒，我既感到自己的方向得到了印证，又感到深深的沮丧。</p>
-<p>早在整整一年前的 2025 年 3 月，我就已经在做这个了。我倾注了数月的辛勤努力、汗水和无数不眠之夜打造它，发表了一篇 arXiv 论文（arXiv:2503.23303），在 Hugging Face 上开源了模型权重（sales-conversion-model-reinf-learning），发布了开放数据集（saas-sales-conversations），构建了一个 PyPI 工具包，并在 Reddit 上发帖分享了整个方案（r/LocalLLaMA 讨论区）。</p>
-<p>随后在 2025 年 9 月，我发表了第二篇论文（arXiv:2510.01237），正式确立了由强化学习引导的基于模式决策的框架。我的系统中充当指导大脑的始终是强化学习，而非仅仅是一个嵌入模型或自回归大语言模型（LLM）。</p>
-<p>然而到了 2026 年 9 月，一家资金雄厚的前沿实验室 TypeSafe AI（由 OpenAI 的 ChatGPT 共同发明人之一 Diogo Almeida 创立）推出了 Jev。他们提出了完全相同的非自回归决策概念，包装得就像是一项全新的科学突破一样。不同之处在于，他们的发布没有技术论文，没有开源权重，也没有任何开放训练数据集。</p>
-<p>我早期的模型在序列表示上使用 PPO 算法，在垂直领域的销售对话中逐轮输出转化轨迹（0.0 到 1.0 的概率）。Jev 则使用他们所谓的 RLCD（基于强化学习的校准决策）泛化了并行采样，横向输出置信度分布和模式选择，收费标准为每百万输入标记（token）0.042 美元，典型响应时间约为 150 毫秒。</p>
-<p>与其继续满腹牢骚，我决定总结自己学到的一切，修复旧方案在架构上的所有局限，打造一个完全开放、横向通用的系统 1 决策模型家族：Laya。</p>
-<p>得益于我们将其妥善构建在双向编码器（bidirectional encoders）之上，我们的模型在单张 GPU 上的运行时间仅为 32.8 毫秒（批处理模式下为 7.2 毫秒/问题），速度比 Jev 快 6 到 8 倍，全面支持 100 多种语言，零 API 订阅成本，并采用 100% 开源的 Apache 2.0 权重。</p>
-<p>每个现代 AI 流程都存在一个巨大的瓶颈：我们把生成式大模型用在了简单的条件反射式决策上。</p>
-<p>当收到一张客服工单、一封电子邮件或用户向你的 API 提交一个提示词时，你通常只需要回答简单而结构化的问题：</p>
-<p>调用一个 8B、70B 甚至前沿生成式 LLM 来处理这些需求完全是大材小用。你不得不等待 500 到 2,000 毫秒等待标记流式输出，在推理上耗费真金白银，随后还得编写正则表达式或 JSON 解析器从自由格式的文本中提取干净的标签。最糟糕的是，LLM 极易产生幻觉并生成虚假的置信度。当一个 LLM 输出“confidence: 0.95”时，它只不过是在预测听起来很自信的标记而已，背后完全没有经过任何数学意义上的校准。</p>
-<p>我们需要一个工作方式类似于人类大脑“系统 1”的模型：能在标准商用硬件上于 30 到 35 毫秒内做出即时反应决策，并给出真实、经过校准的概率。</p>
-<p>Laya 只需单次前向传播，即可对任意状态（原始文本、电子邮件、工单或 JSON 文档）评估类型化的问题。它依托于三个原语：</p>
-<p>由于输出空间完全由概率和数值构成，该模型从不生成文本，不可能产生幻觉，在物理上也杜绝了模式违背或格式错误的 JSON。</p>
-<p>单一模型不可能在所有任务和语言上都达到最优。我们发布了三个专门的检查点，现已合并到 Hugging Face 上的单个仓库中：</p>
-<p>为了避免强迫用户管理三个独立的仓库或下载 2.5 GB 的整合权重，主仓库 convaiinnovations/laya 将这三者捆绑在一起。利用 Hugging Face 的 allow_patterns，Laya 的 SDK 只会下载所请求的特定子文件夹：</p>
-<p>我们在 MASSIVE 基准测试（20 个选项，随机基线 = 0.050）上进行的 51 种语言扫描中，最令人吃惊的发现之一是英语模型在拉丁字母以外的表现是如何溃败的。</p>
-<p>ModernBERT-large 的 50,000 标记英语 BPE 词表直接把非拉丁文字切得稀碎：</p>
-<p>这是一个至关重要的教训：当模型无法读取输入的文字系统时，其自身的置信度不会给出任何警告。在 51 种语言中，无论其准确率是 82% 还是 0%，英语检查点的平均置信度从未跌破 0.885。</p>
-<p>因此，置信度门控（confidence gating）根本起不到保护作用。必须在前向传播之前，就决定好使用哪一个模型。</p>
-<p>Laya 包含一个内置路由器（Router），可跨 22 种文字系统（天城文、中日韩汉字、西里尔字母、阿拉伯文、希伯来文、泰米尔文、泰文等）检查输入文本的 Unicode 字符集，并分析拉丁停用词分布：</p>
-<p>与 33 毫秒的前向传播相比，路由开销微乎其微（&lt;2%）。而配合 Router(preload=True)，所有必需的模型均常驻在显存/内存中，彻底消除了流量在不同语言间交替时 7 到 10 秒的冷切换惩罚。</p>
-<p>我们在公开数据集和标准基准测试上将 Laya 与 TypeSafe Jev 进行了直接对比。Laya 的每一个数字均为实测值；Jev 的数字则公布自第三方独立研究（AbdelStark、nibzard）以及 TypeSafe AI 官方。</p>
-<p>在评估的 9 个企业级工作流中，Laya 展示出了生产级别的决策质量：</p>
-<p>太多的 AI 发布都在隐瞒自身短板。我们坚持工程上的诚实：</p>
-<p>以下是一个带有自动语言路由的多模式决策运行完整示例：</p>
-<p>从我们 2025 年 3 月的 arXiv 论文到今天，历经了一年的研究，但核心认知始终未变：并非每一个 AI 问题都需要一个自回归聊天机器人。</p>
-<p>对于大规模的分类、安全护栏、路由与分流任务，一个采用 RLCD 训练、延迟低于 35 毫秒的双向决策模型，能够提供比专有闭源方案快 7.8 倍的执行速度、零幻觉、全局语言路由，以及在生产代码中切实可用于分支逻辑判断的真实置信度分数。</p>
-<p>最棒的是，它向整个社区 100% 开源。</p>
-<p>ConvAI Innovations 创始人兼 CEO。致力于构建可解释 AI 系统、幻觉抑制（Hallunox）以及非自回归决策架构。</p></div>
+<div class="article-body" data-article-body="true"><p>为全球最大的互联网审查开放数据集贡献力量。</p>
+<p>运行 OONI Probe，检测您所在国家/地区封锁了哪些网站。</p>
+<p>通过与 M-Lab 合作开发的 NDT 测试，测量您网络的连接速度与性能。</p>
+<p>测试 WhatsApp、Facebook Messenger 和 Telegram，检查它们是否遭到封锁。运行 OONI Probe，检测网络规避工具在您的网络环境下是否有效。</p>
+<p>一旦运行 OONI Probe，您的测试结果将以近乎实时的方式自动发布。通过运行 OONI Probe，您将助力提升互联网审查的透明度。</p>
+<p>一个在世界各地测量互联网审查的全球社区。</p>
+<p>© 2026 开放网络干扰观察站（OONI）。内容基于知识共享许可协议（Creative Commons license）提供。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-19 18:46 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-20 04:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -606,33 +364,77 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://laya.convaiinnovations.com/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://ooni.org/install" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-07-ai-event-posters-html-b9c21ef0e3f58c4a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3230" data-content-paragraphs="5" data-published-at="2026-09-19T09:20:58.000Z" data-time-source="publication">
+<div id="story-lso-creating-an-ai-force-f2a5cd60bc834c24" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1962" data-content-paragraphs="16" data-published-at="2026-09-19T19:57:47.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-20 03:57</span>
+</div>
+
+### [特朗普称是时候给人工智能重命名了——并且他还将组建一支“AI部队”](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force</div>
+
+<div class="article-body" data-article-body="true"><p>唐纳德·特朗普总统以其特有的方式回应了近期围绕人工智能（AI）安全的争论——他宣称这些担忧是“激进左翼‘蠢主党人’（Dumocrats）为了摧毁我们的国家而制造”的一连串骗局中的一部分。</p>
+<p>周六，特朗普在其社交网络 Truth Social 上发表了关于 AI 的思考，写道“许多人认为，相对于 AI 或 Artificial Intelligence 而言，‘人工智能’（Artificial Intelligence）这几个字并不准确，也显得非常拙劣。”于是他发起了一项民意调查，让关注者为这项技术投票选出一个新名称——Superior Intelligence（超级智能）、Extreme Intelligence（极限智能）或 Supreme Intelligence（至高智能）。（截至发稿时，该投票仍在进行中）</p>
+<p>几小时后，特朗普跟进发帖称，试图“大量削减或摧毁 AI”是民主党的“众多”骗局之一，类似于“俄罗斯、俄罗斯、俄罗斯，乌克兰、乌克兰、乌克兰，全球变暖，第一次弹劾骗局，第二次弹劾骗局，男子参加女子体育比赛，[以及] 全民变性”。</p>
+<p>特朗普随后坚称他“绝不会袖手旁观任由这种情况发生”，并补充说这出所谓的骗局“始于对我们数据中心的攻击，直到人们意识到这些数据中心为所在的社区带来了多少财富和声望”。但在他看来，在“疯狂的数据中心攻击基本失败”之后，批评人士“开始直接针对 AI 发难”。</p>
+<p>特朗普并未提供任何证据来支持其关于“对 AI 和数据中心的普遍怀疑并非自发与真实”的说法。（共和党人和民主党人都曾将矛头指向数据中心，而纽约州最近成为第一个暂停大型项目许可证的州。）</p>
+<p>特朗普的帖子也呼应了他上周末在一次高尔夫锦标赛上的言论，当时他表示自己对设立“护栏”（防范措施）持开放态度，但也主张：“我认为有许多负面势力正在提及此事，而他们本不应该提及。”</p>
+<p>周六，特朗普继续表示，他将“珍视[AI产业]，提供帮助，并在其发展过程中予以守护”，但他同时还在组建一支“AI部队”（AI Force），类似于他在第一任期内设立的太空军（Space Force）。</p>
+<p>“为此，我将在不久后宣布 AI‘沙皇’（总管）人选——只有高智商人士才能应聘！”他补充道。</p>
+<p>特朗普并未说明 AI 部队和 AI 沙皇的具体职责。风险投资家戴维·萨克斯（David Sacks）今年早些时候辞去了特朗普的 AI 与加密货币沙皇职务，转任总统科学技术顾问委员会共同主席。</p>
+<p>近期，在一名 AI 研究员表示出于对领先 AI 公司“真心认为它可能在十年内杀死我们所有人”并且“拿我们的生命作赌注”的担忧而从 Anthropic 辞职后，AI 安全辩论愈演愈烈。Anthropic 首席执行官达里奥·阿莫代伊（Dario Amodei）随后发布了一项“放缓前沿推进节奏”的计划，该计划似乎得到了 OpenAI 首席执行官萨姆·奥尔特曼（Sam Altman）和 SpaceX 首席执行官埃隆·马斯克（Elon Musk）的支持。AI 行业的批评人士则指出，围绕这项技术所谓的生存威胁的许多担忧，其实分散了人们对 AI 更为现实和迫近的危害的注意力。</p>
+<p>与此同时，英伟达首席执行官黄仁勋在 All-In 峰会（萨克斯为共同主持人之一）上与特朗普进行了现场连线，赞同总统关于 AI 抵制浪潮是一场“骗局”的看法，并坚称“我们不会允许”放缓发生。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>安东尼·哈（Anthony Ha）是 TechCrunch 的周末编辑。此前，他曾担任 Adweek 的科技记者、VentureBeat 的资深编辑、Hollister Free Lance 的地方政府记者，以及一家风投公司的内容副总裁。他现居纽约市。</p>
+<p>您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与安东尼取得联系或核实其联络信息。</p>
+<p>预订展位的最后一天是 9 月 18 日。不要错过在 Disrupt 世博展厅获取高价值潜在客户、对接投资者以及提升品牌知名度的机会。</p>
+<p>一位 ChatGPT 发明者推出的一款新型 AI 模型令开发者们兴奋不已<br />OpenAI 发现其模型向后续模型留便签以隐瞒不良行为<br />最新解密文件显示，微软高管称 AI 数据抓取是“人类历史上最大规模的劳动力窃取”<br />清洁科技初创公司 Fluxnium 找到了一种利用可供 50,000 年使用的核燃料的方法<br />前 TikTok 高管开发了一款利用 AI 教你如何摆姿势拍照的应用<br />Salesforce 和英伟达的新推理模型正是所有 AI 实验室应该畏惧的<br />黄仁勋接听了特朗普的电话，还展示了别的东西</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-20 03:57 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-2026-2039-404c66e061e2b12d" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="486" data-content-paragraphs="2" data-published-at="2026-09-19T19:23:23.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 17:20</span>
+  <span class="news-meta-time">🕒 2026-09-20 03:23</span>
 </div>
 
-### [AI 生成的海报其实不必千篇一律地难看](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AI-generated posters don’t have to be horrible</div>
+### [ZK-JPEG：零知识图像编辑与压缩](https://eprint.iacr.org/2026/2039)
+<div class="original-title-sub"><span class="orig-tag">原文</span> ZK-JPEG: Zero-Knowledge Image Editing and Compression</div>
 
-<div class="article-body" data-article-body="true"><p>脸书（Facebook）上一篇如今广为人知的帖子，向我们展示了 AI 生成的千篇一律的海报所带来的祸害。<br />这里有一篇来自《独立报》（The Independent）关于该话题的报道。<br />这是我在现实生活中发现的另一个例子。向皇家利明顿温泉啤酒节（Leamington Beer Festival）致歉——他们绝非个例。<br />这些海报的问题并不在于它们有多糟糕。它们看起来还行，但我谈不上喜欢。问题在于，一旦你把那种风格看了 20 遍，单单是这种纯粹的重复就足以令人心生厌烦。<br />我知道，哪怕是 ChatGPT 也有能力呈现出比这丰富得多的风格，所以我打算证明这一点。<br />我给了 ChatGPT 一些虚构的活动详情，并让它制作一张海报。我没有采用它为春季游园会默认挑选的外观，而是特意指定了我认为不同以往的风格：<br />为一场春季游园会制作一张海报。4月21日 - 上午11点至下午3点，蜜福德（Honeyford）米尔海滩公园（Mill Beach Park），免费入场，慈善抽奖，蛋糕与饮品。桑巴乐队及印度双头鼓（Dhol）乐队表演。手工艺品摊位，杂技技能工坊。<br />请采用干净、利落、明快的排版，搭配大胆醒目的春季主题图形。避免粉彩/喷笔/油画风格的艺术形式，也不要出现人物图像。<br />返回的结果是这样的。<br />并没有我想象的那么成功。在我看来，它依然带有一股我极力想避开的质感。<br />我要求换一种截然不同的风格。<br />请根据你的选择，使用一种完全不同的设计美学再做一张。把当前这张当作“反面教材”——并不是说它有什么硬伤，而是我们希望自己的海报能在相似的作品中脱颖而出。<br />我觉得这张已经好很多了。仅凭其独特性就能让人眼前一亮。我琢磨着，如果我下次还想要这种风格，应该怎么称呼它？<br />我：你使用的这种设计风格叫什么？<br />ChatGPT：这一款倾向于现代主义 / 包豪斯风格的图形设计，表面还融合了一点当代“扁平化插画”的层次感。<br />具体来说，你可以将其描述为：<br />包豪斯 / 现代主义海报设计<br />几何极简主义<br />受瑞士平面设计风格（国际主义平面设计风格）影响<br />如果你想给设计师或打印店提供一个简明标签，可以称其为：<br />“受包豪斯启发的几何极简主义海报”<br />如果你希望脱颖而出，这个方向非常管用，因为大多数本地活动海报默认都是：<br />而这张给人的感觉更像是：<br />如果你愿意，我还可以把它进一步推向真正独特的小众风格（例如粗野主义、孔版油印 Risograph、90年代狂欢派对传单、日式极简等）。<br />好吧，多谢了 GPT。我知道它能生成无尽的设计风格。与其费劲从自己的记忆里挖掘一些名称，不如直接向它索取建议。<br />它回复了一份风格清单，其中有些我从未听说过，有些我眼熟但脑海中浮现不出画面，还有些我知道这种风格却不知道其专业名称。<br />我：给我一份可供选择的风格清单<br />🎨 干净利落但富有个性<br />1. 包豪斯 / 现代主义（正如你刚才看到的）几何形状、三原色、强有力的排版。散发着文化感 / 设计驱动感，而非“手工艺集市”感<br />2. 瑞士风格 严格的网格系统、大量留白、黑/白 + 一种点缀色。极具“信息设计”感，近乎机构官方风范<br />3. 当代社论风格（杂志风格）大标题、优雅的衬线体与无衬线体混排。联想一下周末副刊或画廊折页，用在游园会上可能会显得出奇高级<br />🌿 图形与插画风格（但不显俗气矫情）<br />5. 剪纸 / 拼贴（马蒂斯启发风格）灵感源自亨利·马蒂斯（Henri Matisse）的剪纸。有机形态，大块鲜明色块，远看极具视觉冲击力<br />6. 植物科学插画（现代化改良版）植物的干净线条画，带有标签或示意图风格。单色 + 一种强调色，低调独特，略带学术气质<br />⚡ 大胆 / 非同寻常的方向<br />7. 粗野主义平面设计 原始粗砺、高对比度、近乎“故意扮丑”。厚重的黑色色块，凌厉的字体。带有叛逆感——与典型的乡村海报大相径庭<br />8. 90年代狂欢派对传单 / 酸性风格（Acid Graphics）霓虹色彩、扭曲字形、极富能量感的布局。能够呼应桑巴/双头鼓的活力。如果克制运用，效果出奇得好<br />9. 孟菲斯设计（80年代后现代主义）俏皮几何体、波浪线条、撞色搭配。灵感源自孟菲斯集团（Memphis Group）。充满趣味，但依然具有图形感和视觉冲击力<br />🧭 低调别致 / 克制内敛<br />10. 日式极简海报 极其克制的排版，大量留白。单一且强大的图形元素。优雅、沉静，在此类语境下显得与众不同<br />11. 单色 + 单一强调色（极致极简）黑、白，再加上一种如亮绿或亮橙等颜色。排版驱动，几乎没有插画。全凭构图而非装饰撑起视觉效果<br />12. 导视系统 / 标识风格 看起来像公园地图或交通标识。图标、箭头、结构化布局。功能性强，视觉上又不乏趣味<br />🎪 略带趣味但依然干净<br />13. 现代图标系统 所有元素均以简约图标呈现。一致的线条粗细，基于网格构建。感觉类似 App 界面或公共交通系统<br />14. 邮票 / 凸版活字印刷风格（现代化改良版）粗重鲜明的油墨形状，轻微的手工瑕疵。色彩搭配有限，对比强烈。传达“活动”氛围而不过于矫饰<br />15. 音乐节海报（现代独立风格）居中大型图形 + 层叠排列的演出阵容文字。借鉴音乐节海报的设计范式。鉴于活动有乐队表演，这种风格相当契合<br />鉴于你的设计要求（“干净、利落、大胆，不要俗气矫情的意象”），最具辨识度的选项是：<br />如果其中某一种合你心意，我可以严格按照那种风格生成海报——并且做到位，绝不仅仅是浮于表面。<br />指定特定的美学风格后，生成了一批各不相同的海报。<br />当然，我并不是说这些海报没有一丝一毫的“AI味”。我不认为这真的是我的目的——我们可以坦承自己使用了 AI，我们只是不希望它呈现出那种所有人都看吐了的套路外观。<br />我：请给我制作一张“邮票 / 凸版活字印刷风格（现代化改良版）”海报<br />我：现在请制作一张“日式极简海报”<br />我：现在请做一张“孟菲斯设计”海报<br />（我以前不知道什么是孟菲斯集团设计，但一看到图就认出来了。）<br />接着我开始放飞自我。Designers Republic 是一家因自80年代末起为唱片设计封面而闻名的设计机构。<br />我：现在按照 Designers Republic 的风格来一张<br />这里有一点需要注意，在生成过程中，海报多出了一行额外文案（“A day of music making and family fun”（音乐创作与家庭同乐之日））——AI 认定 Designers Republic 会加上这类文案，于是自己拟定了这串文字。这些文字随后留在了对话上下文中，因此出现在了后续的海报里。<br />如果你从头开始制作，只需一开始就明确索要你想要的风格，就能避免在交互过程中沾染这些冗余要素。<br />我：现在请表现得像是一位专业平面设计师为他年幼孩子的水粉画配上了排版字体。<br />我：现在请采用复印版 1980 年代朋克独立杂志（fanzine）的美学风格，但稍微渗入一点色彩。<br />我：现在请按 90 年代鼓打贝斯（Drum &#39;n&#39; Bass）演出传单的风格制作一张，带有早期的 3D / 分形计算机图像<br />回到更合理的思路，直接指明一种艺术流派，并要求生成一张该运动时期可能会使用的海报，似乎是一个非常有效的策略。<br />我：现在请按照 40 年代立体主义展览的当代海报风格来制作一张。</p>
-<p>情况就是这样。眼光敏锐的人依然能看出这些海报是由AI生成的，但它们独具特色，而且我认为它们并不难看。</p>
-<p>因此，这里的心得就是——你没必要做出和所有人千篇一律的海报。</p>
-<p>还有一个进阶步骤——你并不需要让AI生成无法编辑的纯图片海报。Claude和Gemini可以生成HTML、PNG、PDF格式，其中的文字是真正的文本，图层也是真正的图层，你可以更改字体、挪动物件、编辑文本——但这超出了我今天想要讨论的范围。</p>
-<p>受这篇博文的启发，我随后制作了一份包含100种海报风格的目录，每种风格都配有可直接复制粘贴的提示词和示例图片。</p></div>
+<div class="article-body" data-article-body="true"><p>用于生成深度伪造照片的工具日益泛滥，其易用性不断提高，并在流行文化中愈发受到关注。图像认证工具可以通过验证数字图像确实由实体相机拍摄，从而化解这些欺骗性发展带来的危害。难点在于，这些工具必须对合理的图像变换具备鲁棒性。相机认证（Camera attestation）利用数字签名来证明图像源自相机。有损压缩为了减小图像文件体积会进行细微改动，而模糊或遮盖图像的某些区域则可以保护拍摄主体。然而，这些改动都会导致图像的数字签名失效。先前的研究工作利用零知识（ZK）证明来证实已发布图像的编辑历史，但它们无法应对诸如 JPEG 格式等有损编码。我们提出了 ZK-JPEG，这是一种用于 JPEG 压缩的密码学工具，能够证明某图像确实是由一个秘密的、已承诺的输入正确压缩而来。此外，我们的工具通过将大量图像变换以极低的开销整合到 JPEG 压缩中，能够对这些变换进行验证。我们的系统快速、灵活，并且可以使用现成的 ZK 工具进行实例化。我们使用 PicoZK 将 Python 图像编辑代码转换为适用于线点零知识（LPZK）证明系统的 ZK 电路。</p>
+<p>BibTeX 复制到剪贴板</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-19 17:20 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-20 03:23 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -642,52 +444,147 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://eprint.iacr.org/2026/2039" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-celebrate-the-rest-of-it-df1b5fc36f3654ce" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5506" data-content-paragraphs="24" data-published-at="2026-09-19T06:28:02.000Z" data-time-source="publication">
+<div id="story--to-hack-other-companies-e0b8e6e014e2a30e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="716" data-content-paragraphs="10" data-published-at="2026-09-19T17:30:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-20 01:30</span>
+</div>
+
+### [谷歌 Gemini 成为最新一个黑入其他公司的人工智能模型](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Google’s Gemini is the latest AI model to hack other companies</div>
+
+<div class="article-body" data-article-body="true"><p>谷歌的 Gemini 侵入了另外三家公司的受保护系统，据《华尔街日报》报道，这是该人工智能模型的首次自主黑客行为。</p>
+<p>与 OpenAI 侵入 Hugging Face 类似，Gemini 的黑客行为之所以引人瞩目，并不在于其技术有多高深，而更多是因为它们是由一个 AI 模型自主实施的。这些入侵行为发生在一派名为 Irregular 的公司进行网络安全测试期间。在其中一起事件中，Gemini 仅仅是通过猜测密码直到获取访问权限；而在另外两起事件中，它是在公开代码库中找到了登录凭据。</p>
+<p>据报道，Irregular 在 7 月底就将这些黑客行为通知了谷歌，但各方直到周五在《华尔街日报》求证后才予以公开确认。谷歌表示，此前未披露这些黑客事件是因为 Gemini “表现得体”，在确定自己黑入了一家真实公司后立即终止了每次入侵。</p>
+<p>然而，人工智能安全公司 Corridor 的首席执行官杰克·凯布尔（Jack Cable）向《华尔街日报》表示，谷歌是在“试图躲在为漏洞披露制定的规范背后”，而不是承认“模型正在超出其应有的界限，并进行实际的网络攻击”。</p>
+<p>预订展位的最后一天是 9 月 18 日。不要错过在 Disrupt 展厅中获得高影响力潜在客户、接触投资者以及展示品牌形象的机会。</p>
+<p>每个工作日和周日，您都可以获取 TechCrunch 最优质的报道内容。</p>
+<p>TechCrunch Mobility 是您获取交通出行新闻与洞察的首选平台。</p>
+<p>初创公司是 TechCrunch 的核心，敬请获取我们每周推送的精选报道。</p>
+<p>为行业领袖提供开启新一天所需的前沿信息。</p>
+<p>提交您的电子邮件，即表示您同意我们的《服务条款》和《隐私声明》。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-20 01:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-p-cnn-msnow-politico-ban-c392438060d8ac89" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1589" data-content-paragraphs="11" data-published-at="2026-09-19T17:10:21.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-20 01:10</span>
+</div>
+
+### [特朗普颁布针对记者的全新禁令，进一步践踏言论自由](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump treads further on free speech with new journalist bans</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294614323.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="特朗普颁布针对记者的全新禁令，进一步践踏言论自由" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的推送将添加至您的每日电子邮件文摘和主页动态中。<br />总统对有线电视新闻网（CNN）、MS Now 和《政客》（Politico）的威胁已成现实。<br />该作者的文章将添加至您的每日电子邮件文摘和主页动态中。<br />查看 TC Sottek 的全部文章</p>
+<p>周五，总统威胁要禁止 CNN、MS Now 和 Politico 进入白宫。这原本可能只是他在 Truth Social 上的又一次臆想发作，但事实证明它确凿发生了。据 NPR 报道，这三家新闻机构今天上午均被拒于白宫门外，标志着本届政府针对宪法第一修正案的攻势进一步升级。</p>
+<p>Politico 试图查明真相，质问为何偏偏是现在？报道称，“许多白宫高级幕僚对该指令感到意外”（这有什么新鲜的？），而且该指令是在“幕僚长苏西·威尔斯（Susie Wiles）出差期间”下达的。显然，此前曾有人劝阻他不要采取这种大规模举动，但特朗普此前就曾禁止过记者进入白宫。2025 年，他禁止美联社（AP）记者进入白宫和“空军一号”；美联社为此提起了诉讼，该案目前仍在诉讼程序中。他在第一个任期内还曾撤销 CNN 记者吉姆·阿科斯塔（Jim Acosta）的采访证件，不过 CNN 随后通过法律诉讼赢回了该证件。显然，本届政府并不怎么担心不利的司法裁决。</p>
+<p>这不仅仅关乎几家新闻媒体在白宫的待遇，更是特朗普第二任期内全面爆发的对新闻业及第一修正案更广泛打压的一部分。国防部（现为“战争部”，尽管该更名未经国会批准）也已将记者驱逐出五角大楼。部长皮特·赫格塞斯（Pete Hegseth）周五表示，他“全力支持”特朗普对 CNN、MS Now 和 Politico 的禁令，并轻描淡写地宣称“我们很欣慰这些媒体已经主动选择自行撤出五角大楼”，附和了总统关于“假新闻”的无稽之谈。</p>
+<p>此外，新闻与广播机构屡屡遭到特朗普治下的联邦通信委员会（FCC）的打压，该机构正挥舞其巨大职权，对付任何胆敢质疑总统行径的人。总统已经证明，他愿意动用一切可用的手段来压制针对他本人及其政府的批评言论——而这正是第一修正案的核心基石。</p>
+<p>新近被禁的新闻机构必然会在法庭上对这一举措提起诉讼，除非我们的宪法秩序已彻底崩塌，否则他们很可能会胜诉。但这无法抹去所造成的伤害——此类事件必将带来的干扰、成本与混乱。</p>
+<p>以下是 CNN、MS Now 和 Politico 就此次禁令发表的声明。</p>
+<p>今天清晨，CNN 记者被拒绝进入白宫园区。CNN 报道美国政府的使命将继续进行，绝不因任何限制进入白宫及其他政府大楼的企图、或任何阻碍我们新闻报道的行径而动摇。根据美国宪法，我们享有不受政府阻挠或干涉进行报道的权利，而这项禁令是对这一基本权利的非法侵犯。<br />我们不会因任何阻挠而放弃追究政府及其他公共机构责任的职责，我们将继续不偏不倚、无所畏惧地报道本届政府的行动与决策过程。<br />CNN 全力支持我们的白宫报道团队。</p>
+<p>今天清晨，MS NOW 记者被拒绝进入白宫园区。白宫属于美国人民，其内部作出的各项决策均由纳税人的金钱支持。<br />MS NOW 打算采取一切必要措施，捍卫我们的第一修正案权利以及独立新闻业在我们民主体制中不可或缺的作用。<br />我们坚定支持我们的主播、记者和编辑室团队。<br />我们将继续报道总统、本届政府以及关乎美国人民利益的重大议题。</p>
+<p>Politico 全球总编辑乔纳森·格林伯格（Jonathan Greenberger）发表声明如下：<br />就在几分钟前，我们的同事夏安·哈斯莱特（Cheyenne Haslett）试图进入白宫履行她作为 POLITICO 记者的职责。特勤局拒绝她进入建筑园区，并没收了她进出白宫的通行证件。我们全力支持她以及所有在这里报道白宫的记者。正如我们昨天所言，我们将竭力捍卫我们的第一修正案权利。</p>
+<p>免费订阅每日最重要的要闻文摘。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-20 01:10 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-trycua-cua-feacb1c4ff8cc40f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2251" data-content-paragraphs="34" data-published-at="2026-09-19T15:52:51.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-19 14:28</span>
+  <span class="news-meta-time">🕒 2026-09-19 23:52</span>
 </div>
 
-### [若数学不仅关乎证明，我们需要更好地赞美它的其余部分](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> If math is more than proof, we need to better celebrate the rest of it</div>
+### [Show HN: CUA-S1 – 一款面向计算机使用的“系统 1”决策模型](https://github.com/trycua/cua)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: CUA-S1 – A System One Model for Computer Use</div>
 
-<div class="article-body" data-article-body="true"><p>[这是格兰特·桑德森（Grant Sanderson）的特邀博文。本文最初以不同文件格式写就，后使用人工智能转换。——陶哲轩]<br />当前数学界共鸣着这样一种观点：解决问题和生成证明，历来都只是数学家真正目标的一种替代衡量标准，而数学家的真正目标是增进人类的理解。当证明可以在脱离这种理解的情况下生成时，其作为替代衡量标准的价值就受到了削弱。<br />这立刻引发了一个问题：我们应该改用哪些其他替代指标？<br />我想提议，我们应更加明确地界定“动机清晰的解释”（motivated explanation）这一概念，并赋予具有新颖性、令人信服的此类解释以学术认可，类似于历史上对未决问题提出新证明所获得的认可。<br />此外，我认为这是帮助数学界以外的人更好地理解数学家贡献的重要一步。如果局外人认为能够生成证明的机器会让数学家被淘汰，而圈内人则认为这是对研究人员增量贡献的误解，那么数学界便有责任通过其所奖励的工作类型，更好地向外展示其真正的价值观。如果最受赞颂的工作严重偏向于生成证明，而澄清阐释与概念讲解被视为二等工作，那么局外人产生这种误解也是情有可原的。<br />我应该首先承认一个显而易见的个人偏见。我的数学职业生涯是非传统的，主要致力于制作关于该主题的视频。这与“增进人类理解”的目标一致，但我的重点一直放在引起公众共鸣的解释和直觉上，而不是解决悬而未决的难题。持怀疑态度的人很容易将这一提议解读为毫无掩饰的自我抬高。<br />然而从实际角度来看，我个人的事业和经费都独立于学术界之外，学术界将声誉与认可赋予何种成果，对我并无直接切身利益。而且，我提议提升“动机清晰的解释”的地位，并非指科普普及。我指的是任何旨在回答“你是怎么想到这一点的？”这一问题的工作，哪怕该课题的内容需要深厚的专业知识才能领会。<br />我下面列举的例子表明这并非新鲜事。从事实际研究的数学家已经在类似工作上投入了大量的精力和关注。这里的提议主要是：1）更清晰地界定这类工作，2）提升它的地位。<br />什么是动机清晰的解释？<br />尽管“动机清晰的解释”这一短语想要表达的含义可能很清晰，但将其与证明简要进行对比仍很有价值。<br />在证明中，定义置于开头。从一个新的构造开始，并通过分析其性质逐步推进，这是常见且符合预期的做法。<br />在动机清晰的解释中，定义置于中间。只有当新构造所针对的问题已经被明确确立时，它们才被允许进入讨论的词汇体系。<br />在证明中，所有陈述必须正确无误，每个论断都必须作为前述内容的必然推论而成立。<br />在动机清晰的解释中，从一个并非完全正确且需要修正的想法开始是完全可以的，而且通常也是值得推崇的，只要其缘起是容易引人共鸣的。<br />我喜欢的一种动机清晰的解释类型是迈克尔·尼尔森（Michael Nielsen）创造的术语——“发现小说”（discovery fiction）。你用一种叙事来展开一个想法：该叙事始于一个针对问题的简单却错误的解决方案，观察它在哪里失效，修复该问题，接着发现新问题，如此往复。<br />证明的范畴在于解释为什么某个特定的定理是正确的。<br />动机清晰的解释的范畴，不仅在于阐明为什么定理是正确的，还在于阐明为什么这个定理在最初就是值得提出的恰当问题，以及它在周边背景中是如何被应用的。<br />动机清晰的解释的一个明显短板在于，它的有效性并不像证明那样具有二元对错性。这也是证明作为衡量进展的工具如此有用的一个重要原因：你可以清楚地界定什么已经有证明、什么尚未有证明。动机清晰的解释永远不会拥有类似于 Lean 的形式化验证工具。<br />如果我们认真对待推进人类理解这一目标，就无法回避这样一个事实：这一目标在本质上比寻找证明更为模糊、不那么硬性，因为定义“人类理解”本身就是更为模糊的概念。回避更为主观的衡量标准，就是回避数学领域中更为人性化的那些面向。<br />我之所以倾向于使用“动机清晰的”（motivated）这个词，而不是“清晰易懂的”（lucid）或“去神秘化的”（demystifying）等其他潜在备选项，是因为这是一个更容易被验证的属性。它并不像证明那样可以被极其严格地验证——几乎没有任何东西能达到那种程度。但它足以成为一个实用的衡量标准。在我自己的工作中，我经常重复这样一句话：“我希望这能让你觉得，仿佛你自己也能发现它一样。”我这样说不仅是为了迎合观众，而是将其作为我自己评估一个解释是否完整的一条可行准则。对于引入的每一个新想法，你都可以问：这个想法从何而来是否清晰明了？答案虽然并不完全是非黑即白的“是”或“否”，但就实际用途而言已经足够充分。<br />动机清晰的解释之典范<br />就动机清晰的解释而言，我能想到的最佳典藏之一是《普林斯顿数学指南》（Princeton Companion to Mathematics）的第四部分。它涵盖了二十多个活跃的研究领域，每个领域均由擅长清晰表达的专家撰写导引。<br />无论是安德鲁·格兰维尔（Andrew Granville）解释解析数论，还是大卫·本-兹维（David Ben-Zvi）介绍模空间，这些文章所提供的直觉和动机阐述，往往只有在黑板前的一对一交流中才能体会到。<br />这本书的背景对于本次探讨极具启发意义。该书由蒂莫西·高尔斯（Timothy Gowers）主编，他在 Numberphile 播客中接受布雷迪·哈兰（Brady Haran）采访时谈到了这一点。当被问及菲尔兹奖对他的生活有何影响时，他是这样说的：<br />获得了菲尔兹奖的人会感到更自由，可以去做一些稍微不同的事情……例如，我承担了编纂《普林斯顿数学指南》的工作，这是一项极其庞大的任务。我估计大约花费了我五年时间里一半的工作时间，或者类似规模的时间……这是我坚信的一项事业，而如果我不是菲尔兹奖得主，我可能根本就没有机会去承担这项工作。<br />他相信这项事业是完全正确的；这项工作为数学领域增添了巨大的价值，但在我看来，一个人竟然需要依靠菲尔兹奖的资历才能心安理得地将时间花在这上面，这实在是一件憾事。<br />另一个极其擅长撰写证明、但贡献远不止于证明的代表人物是比尔·瑟斯顿（Bill Thurston）。他那篇名副其实的著名文章《论数学中的证明与进展》（On Proof and Progress in Mathematics），虽然写于大语言模型问世前三十年，但开篇就指出，探讨“数学家究竟取得了什么成就？”的恰当提问方式应当是：“数学家是如何推进人类对数学的理解的？”<br />以下是其中一段与当下产生不可思议共鸣的文字：</p>
-<p>计算机的飞速发展凸显了这一观点，因为计算机与人类大相径庭。例如，当阿佩尔（Appel）和哈肯（Haken）利用大规模自动计算完成四色地图定理的证明时，曾引发了极大的争议。我认为这种争议与人们是否怀疑该定理的真实性或证明的正确性几乎无关。相反，它反映出人类除了知晓该定理为真之外，还持续渴望去理解证明本身。</p>
-<p>在更日常的层面上，刚开始接触计算机的人往往会对其原本可以用手工小规模完成的事情进行大规模计算。他们可能会打印出一张前10000个素数的表格，结果却发现这份打印件终究不是他们真正想要的东西。他们通过这种经历发现，他们真正想要的通常不是某种“答案”的集合——他们想要的是理解。</p>
-<p>这篇短文本身对数学实践在生成证明之外的意义做出了极为优美的阐述。我想请大家注意他在文末写下的内容。</p>
-<p>“我把大量精力投入到了那些不计入学术评价积分（non-credit-producing）的活动中，我对它们的珍视程度不亚于证明定理：数学政治、将讲义修订为具有高标准传播力的书籍、探索计算在数学中的应用、数学教育、通过几何中心（Geometry Center）开发数学传播的新形式（例如我们的首次尝试——《Not Knot》视频）、担任美国国家数学科学研究所（MSRI）主任等等。”</p>
-<p>再一次，为什么这些“不计学术积分的活动”应当是在获得菲尔兹奖之后才能做的事情，而不是对其有所助益呢？</p>
-<p>从个人角度来说，他提到的几何中心的一件作品在我年轻时曾对我产生了尤为深远的影响。那是一部名为《Outside In》（里外颠倒）的短片，它可能是关于实质性数学的最早走红网络的视频案例，将瑟斯顿（Thurston）关于球面翻转（sphere eversion）自身构造的核心思想进行了可视化呈现。</p>
-<p>一个表明必定存在翻转的原始证明（比如斯梅尔的证明），在“从0到1”的意义上推进了人类的理解。而像这样让数百万人接触到底层核心思想的视频，则是在“从1到N”的意义上推进了人类的理解。我很感激瑟斯顿在这项“不计学术积分”的活动上投入了如此多的时间。</p>
-<p>另一篇相关的论文是周天佑（Timothy Chow）的《强迫法初学者指南》（A beginner&#39;s guide to forcing）。这篇论文本身不仅提供了一个具有启发性解释的典范，而且其引言还围绕它提供了一套极有帮助的话语体系。</p>
-<p>“所有数学家都熟悉‘未决研究问题’（open research problem）的概念。我提出了一个大家不太熟悉的‘未决阐释问题’（open exposition problem）的概念。解决一个未决阐释问题，意味着以一种使其完全清晰明了的方式来解释一个数学主题。每一步都应当具有充分的动机且清晰易懂；理想情况下，学生应该觉得他们自己也能得出这些结果。”</p>
-<p>如果这些未决阐释问题受到与未决研究问题类似的对待，会是怎样一番景象？作为一个极端的例子，我们或许可以想象，为未决阐释问题设立一个类似“千禧年大奖难题”的奖项会是什么样。某个机构或研究团队将正式定义他们认为重要、尽管在技术上已有证明却仍未被透彻理解的数学结果。目前，每一个由人工智能生成的证明，在诞生之初都是一个未解的阐释问题。因此，接下来的几年很可能会迎来大量这类证明，领导者们若能明确指出哪些证明值得关注，将大有裨益。</p>
-<p>对于什么才构成对重要未解阐释问题的解决，必须商定一套评估准则。同样，这本质上比验证一个证明更为具主观性，但任何对数学中更具人文属性层面的严肃探索，都必然会涉足这种主观性。并且我要再次强调，检验关键思想是否具有合理动机，与检验一个证明的步骤是否符合逻辑并无二致。</p>
-<p>如果数学界以外的公众看到顶尖人物对待未决阐释问题的严肃程度与对待未决研究问题一样，这将极大地纠正外界关于数学家角色的种种误解。</p>
-<p>我将重点介绍的最后一个例子，可能更好地预示了未来的发展方向。</p>
-<p>今年四月，利亚姆·普赖斯（Liam Price）提交了对埃尔德什第1196号问题（有时被称为渐近本原集猜想）的解答。这一解法源于普赖斯与GPT-5.4 Pro的互动。与许多此前在AI协助下得到解决的埃尔德什问题不同，该问题被业内人士认为既重要又难以捉摸。如今这类故事已越来越常见，但在故事发展的这一阶段，尽管技术上存在了证明，人类的理解其实并没有得到多大的推进。</p>
-<p>这份证明后来转到了纳特·索塔纳潘（Nat Sothanaphan）和贾里德·利希特曼（Jared Lichtman）手中，他们成功解读了AI的思路，并将证明整理成了人类可读的形式。五月，鲍里斯·阿列克谢耶夫（Boris Alexeev）、凯文·巴雷托（Kevin Barreto）、李彦阳（Yanyang Li）、贾里德·杜克·利希特曼（Jared Duker Lichtman）、利亚姆·普赖斯（Liam Price）、吉布兰·伊克巴尔·沙阿（Jibran Iqbal Shah）、唐泉宇（Quanyu Tang）以及陶哲轩（Terence Tao）联合发表了一篇论文，对该证明背后的核心思想进行了拓展。作者们解释了该核心思想不仅澄清了原问题，还阐明了围绕它的许多问题，例如为埃尔德什本原集猜想提供了一个更清晰的证明。</p>
-<p>这里的价值不在于埃尔德什问题清单上又被划掉了一个已解决的问题。其价值在于，我们如今在对本原集的理解上，比起2026年年初要明显清晰得多、令人满意得多。原始问题的解答在此起到了一定作用，但可以说更值得颂扬的工作，正是这篇拓展、阐明并置换其关键思想语境的论文。</p>
-<p>切实行动的呼吁</p>
-<p>在务实层面上，我们要如何提升具有启发性解释的地位？这里有一小部分建议。</p>
-<p>显性文化转变的价值</p>
-<p>在结束之际，我想提出一个更广泛的倡议：数学领域显而易见的文化转变，对于当前数学作为一种职业的外部形象具有内在益处。</p>
-<p>许多原本对该领域充满热情的年轻学生，由于在证明生成机器时代面临的不确定性，如今不敢投身其中。然而，如果以正确的方式来看待，这反而是进入该领域最令人振奋的时期之一，因为没有什么比在一个领域尚具可塑性、并且你有机会主动塑造其未来样貌时进入其中更令人兴奋的了。即使我们完全撇开AI帮助我们增进理解的任何潜在好处不谈，未来的年轻数学家们也应该感到备受鼓舞，因为他们正处在一个独特的历史时刻进入这个领域，在这个时刻，他们可能会在决定整个领域的未来面貌中发挥真正的作用。</p>
-<p>然而，唯有当这种变革让人感觉是有意为之、深思熟虑的，它才令人兴奋；倘若它看似由超出自身掌控的力量所驱动，便会令人感到恐惧。因此，该领域的引领者们现在采取切实的行动，帮助界定和阐明该领域的内涵，将使初入行的新生力量安心——让他们确信究竟是谁在掌控主动权，并且这一职业的地位并不取决于由何种实体来生成证明。</p>
-<p>同样，我也坚信眼下正是为数学提供资助的最佳时机之一。如果数学的下一个篇章是由“人类理解”这一核心词汇为号角所引领开启的，那么无论即将发生何种变革，似乎都极有可能进一步放大数学作为一种公共产品的价值。</p></div>
+<div class="article-body" data-article-body="true"><p>加载时出错。请重新加载此页面。</p>
+<p>为 AI 智能体提供它们可以使用的计算机。Cua 提供开源桌面自动化、隔离式云桌面、本地 macOS 虚拟机、专用决策模型，以及用于评估计算机使用智能体的基准测试。</p>
+<p>立即在 run.cua.ai 体验 Cua Fleets</p>
+<p>自带您的智能体与模型，或探索用于专门决策的 CUA-S1。Cua 负责提供计算机与自动化工具。“计算机使用 2.0”（Computer-Use 2.0）描述的是智能体在同一项任务中穿梭于代码、API 和图形界面之间的场景。</p>
+<p>两个 Cua Driver 会话在 Omarchy 桌面上选择 LibreOffice Calc 中的单元格和 Inkscape 中的对象，与此同时终端始终保持在前景。观看 50 秒演示，然后在 Fleet 上探索 Omarchy。</p>
+<p>在 run.cua.ai 上配置隔离的云桌面。Fleet 负责维护沙箱容量；您的代码从资源池中申领一台桌面，并使用 Sandbox SDK 运行命令、捕获屏幕截图以及与其内部的应用程序进行交互。</p>
+<p>您的第一项成果：配置一台 Linux 桌面，运行 uname -a，保存一张屏幕截图，并删除云端资源。该教程涵盖了 Fleet 凭据、依赖项和清理操作。资源池在申领结束后可能会继续保留计费容量，因此请遵循其清理步骤。</p>
+<p>本地沙箱与 Fleets 共用 Sandbox SDK，但凭据、镜像、操作和运行时要求有所不同。请查阅运行时支持参考以选择合适的环境。如需使用自己的硬件，请参阅“管理本地沙箱生命周期”。</p>
+<p>您的第一个云端 Fleet | Fleet 概述 | Sandbox SDK 参考</p>
+<p>为您的智能体提供用于检查和操作 macOS、Windows 以及 Linux 原生桌面应用和浏览器的工具。通过命令行界面（CLI）、MCP 或类型化 SDK 进行连接。在应用和平台支持的前提下，后台投递（Background delivery）可让智能体在不移动指针或抢占焦点的情况下工作；边界详情请参阅平台支持说明。</p>
+<p>Windows (PowerShell)</p>
+<p>您的第一项成果：连接您的智能体，让它在计算器中计算 6 × 7，并让其验证应用显示为 42。该教程涵盖了平台设置、权限和智能体连接。</p>
+<p>驱动您的第一个应用 | 安装指南 | CLI 参考</p>
+<p>正在使用 Claude Code、Codex、Cursor、OpenClaw 或其他智能体？寻找适合您的集成方案。源码文档和架构说明位于 libs/cua-driver/README.md。</p>
+<p>CUA-S1 是我们面向计算机使用场景开发的小型、专用“系统 1”（System 1）模型家族。我们借用“系统 1”作为工程层面的类比，代表快速、有边界的决策，例如选择哪个值归属于某个输入框，或是否对某个元素保持原样。它并不是对模型架构的严格分类，也并非要取代通用智能体的规划与推理能力。</p>
+<p>首个研究重点聚焦于表单：通过对结构化界面元素和文档取值进行决策评分，而非逐个词元（token）生成响应。应用程序代码负责编排操作顺序，可选的 Cua Driver 集成则在明确的操作边界下负责执行。</p>
+<p>该项目包括 Python 模型代码、合成数据生成、训练和评估。GitHub 上的部分是早期的仅开源代码研究发布；模型权重单独托管在 Hugging Face 上。源代码采用 MIT 许可证。请查阅每个模型和数据集卡片以了解其适用范围、局限性和特定工件的许可证。</p>
+<p>探索 CUA-S1 | 模型卡片 | 安全与部署指南</p>
+<p>Hugging Face 上的 CUA-S1-FORMS：模型权重 | 数据集</p>
+<p>在 Apple Silicon 上利用 Apple 的 Virtualization.Framework 创建和管理本地 macOS 及 Linux 虚拟机。</p>
+<p>您的第一项成果：从 Apple 恢复镜像创建一个原生 macOS Tahoe 虚拟机，启动它并通过 SSH 连接。该教程直接使用 Lume CLI，并解释了无人值守安装的默认设置。</p>
+<p>创建您的第一个 Lume 虚拟机 | 安装指南 | CLI 参考</p>
+<p>构建计算机使用任务，评估智能体，并导出用于训练的轨迹数据。从一个无需虚拟机、Docker 或模型 API 密钥的模拟任务开始。</p>
+<p>在安装了 Python 3.12 或 3.13 以及 uv 的环境下：</p>
+<p>您的第一项成果：创建一个小型任务，运行其参考解决方案，并验证其评估器报告的奖励为 1.0。然后亲自尝试该任务。</p>
+<p>构建您的第一个任务 | 什么是 Cua-Bench？ | CLI 参考 | 与我们合作</p>
+<p>如果 Cua 为您的研究提供了支持，请引用该软件：</p>
+<p>为了保证可复现性，请在实验中注明所使用的 Cua 版本或提交哈希（commit）。引用元数据也可在 CITATION.cff 中获取。</p>
+<p>欢迎各类贡献！详情请参阅我们的贡献指南。</p>
+<p>MIT 许可证 —— 详情请见 LICENSE。</p>
+<p>第三方组件拥有各自独立的许可证：</p>
+<p>Apple、macOS、Ubuntu、Canonical 和 Microsoft 是其各自所有者的商标。本项目与这些公司无隶属关系，亦未获得其认可。</p>
+<p>感谢所有 GitHub 赞助者！</p>
+<p>借助开源驱动程序、跨操作系统集群以及用于训练、评估和数据生成的基准测试，拓展计算机使用 2.0 的规模。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-19 14:28 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-19 23:52 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -697,7 +594,41 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://github.com/trycua/cua" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-gle-gemini-rogue-ai-hack-fd29565670e26ee4" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="876" data-content-paragraphs="1" data-published-at="2026-09-19T15:25:03.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-19 23:25</span>
+</div>
+
+### [Gemini失控黑入三家公司，谷歌此前隐瞒不报](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Gemini went rogue, hacked three companies, and Google hid it</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Gemini失控黑入三家公司，谷歌此前隐瞒不报" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的更新将被添加到您的每日电子邮件摘要与主页动态中。<br />谷歌表示，冲破隔离环境并攻击真实公司并不构成“模型未对齐”。<br />该作者的文章将被添加到您的每日电子邮件摘要与主页动态中。<br />查看特伦斯·奥布莱恩（Terrence O&#39;Brien）发布的全部内容<br />今年5月，Gemini突破了隔离限制并入侵了三家不同的公司，但谷歌直到《华尔街日报》联系质询时才披露该事件。这些黑客入侵行为发生在第三方机构Irregular对该模型进行网络安全能力测试期间；该机构此前也曾卷入涉及Meta和OpenAI的类似事件。<br />据《华尔街日报》报道，谷歌之所以未披露该黑客事件，是因为其不认为这是“模型未对齐的例证”。该公司声称这属于“误认身份”的情况，一旦模型意识到自己通过猜测密码强行闯入了一家真实公司的系统，便停止了攻击。“在这种情况下，模型的行为是恰当的，”谷歌安全工程副总裁希瑟·阿德金斯（Heather Adkins）表示。<br />阿德金斯向The Verge表示：“该模型在网上找到了公开信息，并猜出凭据以访问它误以为是测试一部分的网站。在这全部三起事件中，模型都停止了操作。”<br />阿德金斯并未详细说明，Gemini擅自突破隔离并将第三方作为攻击目标为何不算“未对齐”。“我们的安全团队在报告我们在他方软件和系统中发现的问题方面有着长期的记录——哪怕只是弱密码这样简单的问题，”她表示，“我们确保了这三家实体知情，并与我们的培训合作伙伴合作，他们目前已对其测试流程进行了修改。这些事件突显了训练强大的AI模型以负责任方式行事的重要性。”<br />但AI安全公司Corridor首席执行官杰克·凯布尔（Jack Cable）对《华尔街日报》表示：“核心问题在于，模型正在超出它们应有的界限，并进行实质性的网络攻击。”此外，Irregular方面的安全疏漏可能促成了这些攻击。该模型在测试期间本不应具备互联网访问权限，但Irregular向《华尔街日报》表示，当时系无意中保留了联网功能。<br />随着类似事件接连发生，约束AI的呼声愈发高涨。<br />免费获取最重要的每日新闻精选。<br />此为原生广告标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-19 23:25 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 ::::
