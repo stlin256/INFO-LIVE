@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-20 · 今日](/INFO-LIVE/archive-2026-09-20/)
+- [2026-09-21 · 今日](/INFO-LIVE/archive-2026-09-21/)
+- [2026-09-20 · 历史快照](/INFO-LIVE/archive-2026-09-20/)
 - [2026-09-19 · 历史快照](/INFO-LIVE/archive-2026-09-19/)
 - [2026-09-18 · 历史快照](/INFO-LIVE/archive-2026-09-18/)
 - [2026-09-17 · 历史快照](/INFO-LIVE/archive-2026-09-17/)
@@ -31,14 +32,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **55** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **56** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-20 21:08 (UTC+8)
+- **最新归档时间**：2026-09-21 06:34 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-21 06:34 (UTC+8)" title="全球要闻情报简报 · 06:34" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-21 06:32 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】乳晕纹身师对网络审查感到“沮丧”：一名医疗纹身师将针对乳房切除术患者乳头纹身的网络审查描述为“完全不公且具有歧视性”。；【undefined】TechCrunch Disrupt 2026 门票优惠仅剩 6 天，最高可立省 200 美元：最高可省 200 美元的优惠窗口即将关闭。当前门票优惠价格将于太平洋时间 9 月 25 日晚上 11:59 截止。届时门票价格将会上涨。；【undefined】确定性核心，非确定性外壳：十四年前，加里·伯恩哈特（Gary Bernhardt）提出了“函数式核心，命令式外壳”（Functional Core, Imperative Shell）这一概念。就像计算机领域大多数优秀思想一样，它并非全新之物，但他的构想极其清晰，为探讨现有系统中的测试与确定性打下了绝佳的基础。；【undefined】澳大利亚新闻直播：阿尔巴尼斯将向特朗普表达对人工智能的关切；前警官博·拉马尔-康登谋杀案庭审即将开始：追踪今日实时新闻 获取我们的突发新闻邮件、免费应用程序或每日新闻播客；【undefined】喷气机末节崩盘遭包装工逆转，加时告负错失2015年以来首次2胜0负开局：在周日下午的大部分时间里，纽约喷气机队看起来都胜券在握，有望迎来2015年以来的首次2胜0负开局。在大都会人寿体育场对阵绿湾包装工队的比赛中，喷气机队掌控了大部分时间的局势，但在最后关头犯下了几次致命错误，白白葬送了第四节10分的领先优势。；【undefined】爱国者获胜后弗拉贝尔因德雷克·梅耶状态挣扎怒斥记者：“你休想毁了我的周日”：新英格兰爱国者队在周日收获了本赛季的首场胜利，而主教练迈克·弗拉贝尔（Mike Vrabel）可不打算让几个针对其四分卫的完全合情合理的问题破坏庆祝气氛。；【undefined】纽约州750亿美元气候责任法案前途未卜：2024年，纽约州州长凯西·霍楚尔（Kathy Hochul）签署了一项法律，要求大型化石燃料污染企业支付高达750亿美元的赔偿金。然而两年后，一名联邦法官裁定该法律与联邦法律相抵触，无法继续推进。；【undefined】“太糟糕了”：关税、飙升的燃料成本和走高的利率如何挤压美国企业：航班减少且票价上涨。货运附加费层出不穷。制造商大举囤积库存。甚至走向破产。 对于规模各异的美国企业而言，唐纳德·特朗普总统贸易政策下征收的关税、伊朗战争引发的燃料价格飙升，以及如今不断上升的利率，三者叠加正迫使高管们做出艰难抉择。 艾伦·埃登（Allen Eden）一直在为其拥有25名员工的企业——位于爱荷华州布里特的Original Saw Co.——储备额外库存。该公司生产用于木工和金属加工的工业动力锯，目前他正在全力应对铝、钢材和
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260921/volodin-2119123289.html) <span class="news-meta-time">🕒 2026-09-21 06:30</span>
+- [Hacker News (科技前沿论坛)] [乳晕纹身师对网络审查感到“沮丧”](https://www.bbc.com/news/articles/cx2z7ejn891o) <span class="news-meta-time">🕒 2026-09-21 05:51</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-21 05:47</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board) <span class="news-meta-time">🕒 2026-09-21 05:53</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html) <span class="news-meta-time">🕒 2026-09-21 05:30</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260921/vybory-2119123188.html) <span class="news-meta-time">🕒 2026-09-21 06:30</span>
+:::
 :::timeline-item{start="2026-09-20 21:08 (UTC+8)" title="全球要闻情报简报 · 21:08" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-20 21:05 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -631,16 +645,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [ID 设计与主键](https://anchorsandlinks.com/posts/primary-keys/) <span class="news-meta-time">🕒 09-10 02:31</span>
 - [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
 - [France 24 (EN 官方英语原版)] [共和党孤注一掷豪赌美国中期选举：将特朗普推至舞台中心](https://www.france24.com/en/republicans-put-trump-center-stage-in-us-midterms-gamble) <span class="news-meta-time">🕒 09-10 03:04</span>
-:::
-:::timeline-item{start="2026-09-10 02:48 (UTC+8)" title="全球要闻情报简报 · 02:48" org="ARCHIVE"}
-**速报纪要：** 全球多源监控全景简报。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [越南国家主席苏林对俄罗斯的访问结束](https://ria.ru/20260909/kreml-2116684282.html) <span class="news-meta-time">🕒 09-10 02:46</span>
-- [The Verge (前沿数码科技)] [折叠屏手机 iPhone Duo 上手体验](https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions) <span class="news-meta-time">🕒 09-10 02:38</span>
-- [OilPrice (全球能源与原油大宗)] [俄罗斯燃油危机之际 白俄罗斯炼油厂利润创十年新高](https://oilprice.com/Latest-Energy-News/World-News/Belarus-Refineries-Post-Decade-High-Profits-Amid-Russias-Fuel-Crisis.html) <span class="news-meta-time">🕒 09-10 02:30</span>
-- [Lobste.rs (极客思想社区)] [更优秀的AI代码注释检测器](https://entropicthoughts.com/better-ai-comment-classifier) <span class="news-meta-time">🕒 09-10 02:27</span>
-- [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
-- [RIA Novosti (俄新社官方俄文)] [别尔哥罗德一名物流师因为恐怖主义辩护被判刑](https://ria.ru/20260909/sud-2116684404.html) <span class="news-meta-time">🕒 09-10 02:46</span>
 :::
 ::::

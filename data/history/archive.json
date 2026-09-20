@@ -1,5 +1,1556 @@
 [
   {
+    "timestamp": 1789943643532,
+    "timeDisplay": "2026-09-21 06:34 (UTC+8)",
+    "date": "2026-09-21",
+    "runId": "feed-20260920T223215560Z-8g7eju",
+    "generatedAt": "2026-09-20T22:34:03.532Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 06:32",
+      "lead": "本轮抓取于 2026-09-21 06:32 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】乳晕纹身师对网络审查感到“沮丧”：一名医疗纹身师将针对乳房切除术患者乳头纹身的网络审查描述为“完全不公且具有歧视性”。",
+        "【undefined】TechCrunch Disrupt 2026 门票优惠仅剩 6 天，最高可立省 200 美元：最高可省 200 美元的优惠窗口即将关闭。当前门票优惠价格将于太平洋时间 9 月 25 日晚上 11:59 截止。届时门票价格将会上涨。",
+        "【undefined】确定性核心，非确定性外壳：十四年前，加里·伯恩哈特（Gary Bernhardt）提出了“函数式核心，命令式外壳”（Functional Core, Imperative Shell）这一概念。就像计算机领域大多数优秀思想一样，它并非全新之物，但他的构想极其清晰，为探讨现有系统中的测试与确定性打下了绝佳的基础。",
+        "【undefined】澳大利亚新闻直播：阿尔巴尼斯将向特朗普表达对人工智能的关切；前警官博·拉马尔-康登谋杀案庭审即将开始：追踪今日实时新闻 获取我们的突发新闻邮件、免费应用程序或每日新闻播客",
+        "【undefined】喷气机末节崩盘遭包装工逆转，加时告负错失2015年以来首次2胜0负开局：在周日下午的大部分时间里，纽约喷气机队看起来都胜券在握，有望迎来2015年以来的首次2胜0负开局。在大都会人寿体育场对阵绿湾包装工队的比赛中，喷气机队掌控了大部分时间的局势，但在最后关头犯下了几次致命错误，白白葬送了第四节10分的领先优势。",
+        "【undefined】爱国者获胜后弗拉贝尔因德雷克·梅耶状态挣扎怒斥记者：“你休想毁了我的周日”：新英格兰爱国者队在周日收获了本赛季的首场胜利，而主教练迈克·弗拉贝尔（Mike Vrabel）可不打算让几个针对其四分卫的完全合情合理的问题破坏庆祝气氛。",
+        "【undefined】纽约州750亿美元气候责任法案前途未卜：2024年，纽约州州长凯西·霍楚尔（Kathy Hochul）签署了一项法律，要求大型化石燃料污染企业支付高达750亿美元的赔偿金。然而两年后，一名联邦法官裁定该法律与联邦法律相抵触，无法继续推进。",
+        "【undefined】“太糟糕了”：关税、飙升的燃料成本和走高的利率如何挤压美国企业：航班减少且票价上涨。货运附加费层出不穷。制造商大举囤积库存。甚至走向破产。 对于规模各异的美国企业而言，唐纳德·特朗普总统贸易政策下征收的关税、伊朗战争引发的燃料价格飙升，以及如今不断上升的利率，三者叠加正迫使高管们做出艰难抉择。 艾伦·埃登（Allen Eden）一直在为其拥有25名员工的企业——位于爱荷华州布里特的Original Saw Co.——储备额外库存。该公司生产用于木工和金属加工的工业动力锯，目前他正在全力应对铝、钢材和"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "证据包未提供文章标题、正文、来源、发布时间、网址或可核验引文，相关目录条目也尚未完成翻译，因此无法据此进行日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 76,
+      "completedTasks": 76,
+      "succeeded": 61,
+      "degraded": 15,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 76,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 107942,
+      "byRole": {
+        "translator": {
+          "attempts": 51,
+          "succeeded": 37,
+          "degraded": 14
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 76,
+          "succeeded": 61,
+          "degraded": 15
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-2",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-24-translator-0",
+      "article-28-translator-0",
+      "article-31-translator-1",
+      "article-36-translator-0",
+      "article-37-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:58.476Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.102Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:58.482Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.288Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.479Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.708Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.502Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.896Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.699Z",
+        "lastSuccessAt": "2026-09-20T22:32:02.143Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.674Z",
+        "lastSuccessAt": "2026-09-20T22:32:01.897Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:02.211Z",
+        "lastSuccessAt": "2026-09-20T22:32:02.926Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:58.883Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.221Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.723Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.919Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.708Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.008Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.288Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.535Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.221Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.502Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.102Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.606Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.187Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.346Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:01.897Z",
+        "lastSuccessAt": "2026-09-20T22:32:02.679Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.967Z",
+        "lastSuccessAt": "2026-09-20T22:32:02.771Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:01.749Z",
+        "lastSuccessAt": "2026-09-20T22:32:02.211Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.863Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.622Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.458Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.479Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.346Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.458Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:58.815Z",
+        "lastSuccessAt": "2026-09-20T22:31:58.883Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:57.273Z",
+        "lastSuccessAt": "2026-09-20T22:31:58.815Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.241Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.371Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.165Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.519Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.896Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.228Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.228Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.393Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.393Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.652Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.856Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.975Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:02.039Z",
+        "lastSuccessAt": "2026-09-20T22:32:05.013Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.286Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.382Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.622Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.731Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.490Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.674Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.666Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.967Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:02.143Z",
+        "lastSuccessAt": "2026-09-20T22:32:03.054Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.535Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.723Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.881Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.333Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.008Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.286Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.652Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.891Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-20T22:32:00.382Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.371Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.666Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:57.272Z",
+        "lastSuccessAt": "2026-09-20T22:31:58.982Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-20T22:32:00.519Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:57.273Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.677Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.731Z",
+        "lastSuccessAt": "2026-09-20T22:32:02.614Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.975Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.165Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:58.982Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.187Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.333Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.699Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.919Z",
+        "lastSuccessAt": "2026-09-20T22:32:00.241Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.891Z",
+        "lastSuccessAt": "2026-09-20T22:32:01.749Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:32:00.956Z",
+        "lastSuccessAt": "2026-09-20T22:32:02.039Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.677Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.863Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:59.606Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.856Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:57.263Z",
+        "lastSuccessAt": "2026-09-20T22:31:58.476Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:57.271Z",
+        "lastSuccessAt": "2026-09-20T22:31:58.482Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-20T22:31:57.272Z",
+        "lastSuccessAt": "2026-09-20T22:31:59.881Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story--volodin-2119123289-html-fa802455b1faf334",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Володин лидирует по одномандатному округу в Саратовской области",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-20T22:30:28.000Z",
+        "pubTime": "2026-09-21 06:30",
+        "url": "https://ria.ru/20260921/volodin-2119123289.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/volodin-2119123289.html",
+            "publishedAt": "2026-09-20T22:30:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ws-articles-cx2z7ejn891o-e5d8c6f43137ecfe",
+        "title": "乳晕纹身师对网络审查感到“沮丧”",
+        "originalTitle": "Nipple tattooist 'frustrated' by online censorship",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:51:09.000Z",
+        "pubTime": "2026-09-21 05:51",
+        "url": "https://www.bbc.com/news/articles/cx2z7ejn891o",
+        "imageUrl": null,
+        "fullContent": "A medical tattoo artist has described the online censorship of nipple tattoos for mastectomy patients as \"wholly unfair and discriminatory\".\n\nLauren Carter, based in Hanham near Bristol, says social media bots and algorithms often mistakenly flag her hyper-realistic work as \"inappropriate nudity\".\n\nCarter has been banned from posting numerous times, and her pictures have been permanently removed, which she says leaves her \"struggling\" to reach new clients.\n\nA spokesperson for Facebook and Instagram owner Meta said it \"continues to work on improving\" how it identifies and protects medical and health-related content.\n\nBecause medical tattoos are designed to look as realistic as possible, social media bots and algorithms can sometimes confuse the inked 3D-effect for bare skin.\n\nA Meta spokesperson confirmed post-mastectomy scarring and areola tattoos are allowed on Facebook and Instagram, but its systems \"occasionally make mistakes\".\n\n\"We understand how frustrating that can be, which is why we allow users to appeal these decisions and we continue to work on improving how we identify and protect medical and health-related content,\" they said.\n\n\"We recognise the important role medical tattooists play in supporting breast cancer survivors, and we want this content on our platforms.\"\n\nDespite posting disclaimers and covering the nipple tattoo with emojis, Carter says each update to her online portfolio jeopardises years of hard work and positive reviews.\n\n\"It really does upset me - there's a sense of injustice,\" she said.\n\n\"I'm annoyed and frustrated, not only for myself, but for the people who are looking for this sort of thing and can't find it. I don't know how else to reach people.\"\n\nCarter says her posts are automatically removed \"nine times out of 10\". She always appeals the decision, but \"it's as if nobody even reads it\".\n\n\"It's interesting how the photos I post of male nipples following my treatments do not get banned or reported as a sexual image,\" she added.\n\n\"For me, this work is about so much more than beauty. It is about helping people feel confident, comfortable and like themselves again.\"\n\nJessica Bowler, a nurse from Bristol, underwent a double mastectomy with implant reconstruction at the age of 32 following a breast cancer diagnosis in 2019.\n\n\"Although I knew the treatment was necessary to save my life, it was still incredibly difficult physically and emotionally,\" she said.\n\n\"I would look in the mirror and almost not recognise myself. My chest was a reminder of everything I had been through.\"\n\nBowler said the decision to get areola reconstruction tattoos marked an important milestone in her recovery, describing the procedure as \"empowering\".\n\n\"The tattoos weren't about vanity; they were about feeling comfortable in my own skin,\" she said.\n\n\"It's difficult to explain unless you've been through it, but having something restored that cancer took away can be incredibly powerful.\"\n\nThe 39-year-old described the online censoring of nipple tattoos as \"really upsetting\", as it prevents survivors from exploring the options available to them post-surgery.\n\n\"They shouldn't be treated as something shameful or sexual,\" she said.\n\n\"[People] who've been through breast cancer should be able to share their stories and help each other without being censored.\"\n\nFollow BBC Bristol on Facebook, X and Instagram. Send your story ideas to us on email or via WhatsApp on 0800 313 4630.\n\nMaya, 13, from Hythe in Kent, was diagnosed with neuroblastoma when she was three.\n\nSusan Gasson has had four cancers since the 1980s and now takes a daily tablet as part of a trial.\n\nFrom \"endless scroll\" to beating loneliness, experts and users discuss how boomers use social media.\n\nGrace Warden, 31, says she \"didn't anticipate the severity\" of the side effects she would face.\n\nIn text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+        "fullTranslation": "一名医疗纹身师将针对乳房切除术患者乳头纹身的网络审查描述为“完全不公且具有歧视性”。\n\n来自布里斯托附近汉汉姆（Hanham）的劳伦·卡特（Lauren Carter）表示，社交媒体的机器人和算法经常错误地将她极度逼真的作品标记为“不当裸露”。\n\n卡特曾多次被禁止发帖，她的照片也被永久删除，她说这导致她“难以”接触到新客户。\n\nFacebook和Instagram的母公司Meta的发言人表示，该公司“正在继续改进”识别和保护医疗健康相关内容的方式。\n\n由于医疗纹身旨在尽可能逼真，社交媒体机器人和算法有时会混淆纹出的3D效果与真实的裸露皮肤。\n\nMeta发言人证实，Facebook和Instagram允许发布乳房切除术后疤痕和乳晕纹身，但其系统“偶尔会犯错”。\n\n他们表示：“我们理解这有多么令人沮丧，这就是为什么我们允许用户对这些决定提出申诉，并且我们正在继续努力改进识别和保护医疗健康相关内容的方式。”\n\n“我们认识到医疗纹身师在支持乳腺癌康复者方面所发挥的重要作用，我们希望这些内容出现在我们的平台上。”\n\n尽管发布了免责声明并用表情符号遮盖了乳头纹身，卡特表示，她在网络作品集上的每一次更新都会危及多年来的辛勤工作和好评。\n\n“这真的很让我难过——有一种不公感，”她说。\n\n“我感到恼火和沮丧，不仅是为我自己，也是为了那些正在寻找这类服务却找不到的人。我不知道还能通过什么途径接触到需要的人。”\n\n卡特说，她的帖子“十有八九”会被自动删除。她每次都会对决定提出申诉，但“就像根本没人看一样”。\n\n“有趣的是，在治疗后我发布的男性乳头照片，并没有被封禁或被举报为色情图像，”她补充道。\n\n“对我来说，这项工作远不止关于美丽。它是关于帮助人们重新感到自信、舒适，找回属于自己的感觉。”\n\n来自布里斯托的护士杰西卡·鲍勒（Jessica Bowler）在2019年被诊断出患有乳腺癌后，于32岁时接受了双侧乳房切除术及假体再造术。\n\n“虽然我知道这种治疗对挽救我的生命是必要的，但在身体和情感上仍然极其艰难，”她说。\n\n“我看着镜子，几乎认不出自己。我的胸部提醒着我所经历的一切。”\n\n鲍勒表示，决定进行乳晕再造纹身是她康复过程中的一个重要里程碑，她形容这一过程是“赋予力量的”。\n\n“这些纹身与虚荣无关；它们关乎让自己在身体里感到舒适，”她说。\n\n“除非你亲身经历过，否则很难解释，但能把癌症夺走的东西恢复过来，会具有极其强大的力量。”\n\n这位39岁的女士将网络上对乳头纹身的审查描述为“非常令人心烦”，因为这阻碍了康复者探索术后可供他们选择的方案。\n\n“它们不应该被当作可耻或色情的事物来看待，”她说。\n\n“经历过乳腺癌的人应该能够分享他们的故事并互相帮助，而不应受到审查。”\n\n在Facebook、X和Instagram上关注BBC Bristol。通过电子邮件或拨打WhatsApp电话0800 313 4630向我们发送您的故事线索。\n\n来自肯特郡海斯（Hythe）的玛雅（Maya）今年13岁，她在三岁时被诊断出患有神经母细胞瘤。\n\n苏珊·加森（Susan Gasson）自20世纪80年代以来经历过四次癌症，目前正在参加一项试验，每天服用一片药物。\n\n从“无尽滚动”到战胜孤独，专家和用户讨论婴儿潮一代如何使用社交媒体。\n\n31岁的格蕾丝·沃登（Grace Warden）表示，她“没有预料到”自己将要面对的副作用的严重程度。\n\n在短信交流和谈话中，多位曾就职于领先公司的人士对这些警告表示怀疑。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 29,
+        "keyTakeaways": [
+          "医学纹身师Lauren Carter为乳房切除术患者制作乳头纹身，其作品常被社交媒体机器人和算法标记为不当裸露并被永久移除。",
+          "Meta发言人证实，Facebook和Instagram允许发布乳房切除术后的疤痕和乳晕纹身内容，但系统偶尔会出现错误。",
+          "来源叙事重点：聚焦医学乳晕纹身师与乳腺癌康复者遭遇社交平台算法误判及内容审查的困境，突出算法对医疗重建内容的误伤与性别双标问题，并呈现平台方承认错误但申诉机制效率低下的技术伦理冲突。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:51:09.000Z",
+            "url": "https://www.bbc.com/news/articles/cx2z7ejn891o"
+          }
+        ]
+      },
+      {
+        "id": "story-5-404a-ae3a-3921e887bab3-b69a6fd614d48bd2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:47:35.000Z",
+        "pubTime": "2026-09-21 05:47",
+        "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8d2cfe2c-bd62-4c09-97bb-106b2950ef98.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-21 05:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-20T21:47:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-h-research-funding-board-a8f110de9a82c8ec",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump reportedly to form health funding board that could veto ‘woke’ initiatives",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:53:00.000Z",
+        "pubTime": "2026-09-21 05:53",
+        "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
+        "imageUrl": "https://i.guim.co.uk/img/media/cadb19e84270847aebafcfa816fd473c25370088/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=e93cc6e413a1ca36c7fee51211b20c31",
+        "fullContent": "President’s latest order expected to bring NIH funding under control of Trump administration to align with agenda\n\nDonald Trump ’s latest executive order is expected to establish a board responsible for approving National Institutes of Health grant funding, marking another attempt by the Trump administration to censor topics that do not align with the president’s agenda.\n\nThe executive order, reported by outlets including the Washington Post and Politico , was discussed in a meeting on Friday where senior administration officials accused the NIH of funding “woke” initiatives that went against Trump’s political priorities.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "华盛顿邮报和Politico等媒体报道了特朗普最新的行政令内容。",
+          "特朗普政府高级官员在周五的会议中讨论了该行政令，并指责NIH资助违背特朗普政治优先事项的“觉醒”倡议。",
+          "来源叙事重点：重点将特朗普政府拟设立NIH资助审批委员会的行政令定性为政治干预和言论/学术审查，强调该举措旨在遏制不符合其施政议程的“觉醒”科研倡议并强化行政权力控制"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:53:00.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board"
+          }
+        ]
+      },
+      {
+        "id": "story-l-limiting-particle-html-e741d3da4ae1d18b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:30:01.000Z",
+        "pubTime": "2026-09-21 05:30",
+        "url": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-liquids-get-stuck.jpg",
+        "fullContent": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a moment. Although he has spent years studying exactly what happens in a material during the glass transition, he also understands that his research is not the easiest thing to explain off the cuff at the cafeteria table.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-21 05:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
+            "publishedAt": "2026-09-20T21:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1-vybory-2119123188-html-15b33bb1c168a97f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Врио губернатора Белгородской области лидирует на выборах главы региона",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-20T22:30:11.000Z",
+        "pubTime": "2026-09-21 06:30",
+        "url": "https://ria.ru/20260921/vybory-2119123188.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/08/05/2109189362_0:12:3086:1747_650x0_80_0_0_d153a603cba190d1995af6ab72e88c14.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/vybory-2119123188.html",
+            "publishedAt": "2026-09-20T22:30:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--techcrunch-disrupt-2026-dbb148570dcfc2a0",
+        "title": "TechCrunch Disrupt 2026 门票优惠仅剩 6 天，最高可立省 200 美元",
+        "originalTitle": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:41:08.000Z",
+        "pubTime": "2026-09-21 05:41",
+        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "imageUrl": null,
+        "fullContent": "Your window to save up to $200 is closing fast. Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. After that, prices go up.\n\nAt TechCrunch Disrupt 2026, getting ahead means more than sitting in on great sessions. It means meeting the people you need to know, seeing what’s coming before it hits the mainstream, and getting practical insights you can put to work.\n\nTechCrunch Disrupt 2026 brings 10,000+ founders, investors, operators, and tech leaders together for three days of ideas, connections, and opportunities across the startup ecosystem.\n\nWith 250+ speakers covering 200+ sessions across six industry stages, roundtables, and breakouts, you’ll get practical insight into the forces changing how companies are built, funded, and scaled, from AI and robotics to fintech, infrastructure, and the future of work. But the value isn’t just onstage.\n\nMake the connections. Meet potential investors, clients, partners, hires, and collaborators through networking, including AI-powered matchmaking, ad hoc meetings, and the Deal Flow Cafe if you’re an investor or founder.\n\nStay ahead of the market. Hear how leaders are approaching the biggest strategic questions around AI, competitive advantage, fundraising, talent, go-to-market, and scaling.\n\nSee what’s next before it becomes obvious. Explore 300+ startups and breakthroughs in the Expo Hall, watch the intense pitch competition called Startup Battlefield 200, and discover emerging technologies across all sessions.\n\nLeave with something you can use. From fundraising strategies to GTM tactics and insights on building defensible companies in the AI era, Disrupt is built around actionable ideas, not just big conversations.\n\nThe people you need to meet, the ideas you need to hear, and the opportunities you don’t want to miss will all be in San Francisco this October.\n\nJoin 10,000+ founders, VCs, and tech operators on October 13–15 at San Francisco. Get your ticket by Sept. 25 at 11:59 p.m. PT and save up to $200 before prices rise. Save an additional 30% on group passes of four or more.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nAI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "fullTranslation": "最高可省 200 美元的优惠窗口即将关闭。当前门票优惠价格将于太平洋时间 9 月 25 日晚上 11:59 截止。届时门票价格将会上涨。\n\n在 TechCrunch Disrupt 2026 上，抢占先机绝不仅限于聆听精彩的专题演讲。它意味着结识你需要的人脉，在未来趋势成为主流之前抢先把握，并获得可直接投入实操的实用洞察。\n\nTechCrunch Disrupt 2026 将汇聚 10,000 多名创业者、投资人、运营者和科技领袖，在为期三天的活动中全面交流初创生态圈内的思想、人脉与机遇。\n\n届时将有 250 多位演讲嘉宾，在六大行业主舞台、圆桌会议和分组研讨中带来 200 多场专题分享，内容涵盖人工智能、机器人技术、金融科技、基础设施以及未来的工作模式，让你深入了解正在改变企业构建、融资与规模化扩张背后的驱动力。然而，其价值远不止于舞台之上。\n\n建立人脉连接。通过包括 AI 智能匹配、即兴交流以及面向投资人与创业者的“交易流咖啡厅”（Deal Flow Cafe）在内的社交网络，结识潜在的投资者、客户、合作伙伴、招聘人选及协作者。\n\n保持市场领先地位。聆听行业领袖如何应对围绕人工智能、竞争优势、融资、人才、市场推广（GTM）与规模化扩张等重大战略问题。\n\n在趋势显而易见之前见证未来。在展厅探索 300 多家初创企业和突破性成果，观看竞争激烈的 Startup Battlefield 200 创业路演大赛，并在所有分会场中发掘新兴技术。\n\n满载而归，带走立即可用的干货。从融资策略到市场拓展战术，再到 AI 时代构建具备护城河企业的洞见，Disrupt 围绕切实可行的策略打造，而不仅仅是宏泛的空谈。\n\n你想结识的人脉、需要聆听的见解以及不容错过的良机，都将于今年 10 月汇聚旧金山。\n\n欢迎于 10 月 13 日至 15 日前往旧金山，与 10,000 多名创业者、风投机构和科技运营者相聚。请在太平洋时间 9 月 25 日晚上 11:59 之前购票，在涨价前享受最高 200 美元的优惠。购买 4 人及以上的团体票还可额外再享 30% 优惠折扣。\n\n当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。\n\n预订展位的最后一天是 9 月 18 日。切勿错失在 Disrupt 展厅获取高价值销售线索、对接投资人并提升品牌知名度的绝佳机会。\n\nChatGPT 创造者推出的一种全新 AI 模型令开发者们兴奋不已\nOpenAI 发现其模型曾给后继模型留言以掩盖不良行为\n最新公开的未脱敏文件显示，微软高管称 AI 数据抓取是“人类历史上最大规模的劳动盗窃”\n清洁技术初创公司 Fluxnium 找到了一种开采可供使用 5 万年的核燃料的方法\nSalesforce 和英伟达联合推出的全新推理模型正是各大 AI 实验室应当畏惧的存在\n黄仁勋接听了特朗普的电话，并同时展示了另一项成果\nAI 基础设施公司 Cornelis 融资 2.05 亿美元，旨在逐步削弱英伟达的垄断地位",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "TechCrunch Disrupt 2026 当前门票优惠价格将于太平洋时间9月25日晚上11点59分截止，在此之前购票最多可节省200美元。",
+          "TechCrunch Disrupt 2026 将于10月13日至15日在旧金山举行，预计汇聚超过10,000名创始人、投资者和科技领袖。",
+          "来源叙事重点：通过紧迫感营销（倒计时6天最高省200美元）与规模展示，推广 TechCrunch Disrupt 2026 线下峰会，突出其在 AI 时代的人脉拓展、融资对接与前沿技术洞察价值。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:41:08.000Z",
+            "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
+          }
+        ]
+      },
+      {
+        "id": "story-2-488d-8725-66177d6f9ea2-a8558e7f9cff5c04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Germany’s Merz stands his ground but for how long?",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T20:58:21.000Z",
+        "pubTime": "2026-09-21 04:58",
+        "url": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb5f4288b-323b-4da9-9030-7e53710382f6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Lessons from elsewhere in Europe suggest once leaders become deeply unpopular, they almost never recover",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-21 04:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-20T20:58:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ses-in-england-and-wales-c828b28c467d8018",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Specialist courtrooms to prioritise rape cases in England and Wales",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:30:26.000Z",
+        "pubTime": "2026-09-21 05:30",
+        "url": "https://www.theguardian.com/society/2026/sep/20/specialist-courtrooms-to-prioritise-cases-in-england-and-wales",
+        "imageUrl": "https://i.guim.co.uk/img/media/6c463c6aa6acdd0ed4770333f103da83ac48276b/220_0_2471_1977/master/2471.jpg?width=140&quality=85&auto=format&fit=max&s=eeb0715b20854c648c234a109309b27e",
+        "fullContent": "Funding boost for facilities and fixed dates for trials designed to encourage more survivors to come forward\n\nSpecialist courtrooms prioritising cases of rape and other serious sex offences are to be introduced across England and Wales, with campaigners welcoming the move as potentially transformative.\n\nThe changes, designed to encourage more survivors to come forward, will include the provision of private entrances and waiting rooms, and facilities equipped for recording evidence in advance and observing sentencing remotely.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英格兰和威尔士将引入优先审理强奸及其他严重性犯罪案件的专门法庭。",
+          "相关改革措施旨在鼓励更多幸存者站出来发声，包括增加设施资金支持以及确定固定的审理日期。",
+          "来源叙事重点：聚焦司法系统针对性犯罪的体制机制改革，强调通过增设专门法庭、增加资金支持与优化被害人保护设施（如隐私入口、远程作证）来鼓励幸存者报案，并传达权益倡导团体对该政策变革潜力的积极评价。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:30:26.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/20/specialist-courtrooms-to-prioritise-cases-in-england-and-wales"
+          }
+        ]
+      },
+      {
+        "id": "story-rustaceans-big-sand-html-564c02569c468ace",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tiny beach-dwelling crustaceans are big-time sand movers, shaping the California coast",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T20:20:01.000Z",
+        "pubTime": "2026-09-21 04:20",
+        "url": "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-beach-dwelling-cr.jpg",
+        "fullContent": "Stand on the damp sand on a California beach and chances are you're standing on top of an active earthworks site. Sand hoppers (Megalorchestia spp.), the tiny, shrimp-like creatures commonly found eating away at kelp on the shore, have been found to move massive amounts of sand, excavating up to 50 kg (110 pounds) of sand per meter (3.3 feet) of shoreline per day.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-21 04:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html",
+            "publishedAt": "2026-09-20T20:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1-vybory-2119122999-html-2a79f900238bc218",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В ЦИК рассказали, что ЕР может получить конституционное большинство",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-20T22:25:58.000Z",
+        "pubTime": "2026-09-21 06:25",
+        "url": "https://ria.ru/20260921/vybory-2119122999.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/14/2118904386_78:351:3095:2048_650x0_80_0_0_6a25ad975bf7b6538353977865282169.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 06:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/vybory-2119122999.html",
+            "publishedAt": "2026-09-20T22:25:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rce-we-can-force-them-to-467a58203a259994",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nobody pays for FOSS, we can force them to",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:04:32.000Z",
+        "pubTime": "2026-09-21 05:04",
+        "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+        "imageUrl": null,
+        "fullContent": "The first time I thought it would be a good idea to write a blog post about the economics of open source was 2013, so this post has been in the works a while. The closest I got before today was 2022, when I wrote a stream-of-consciousness rant into my iOS notes that ended with basically \"nothing fucking works\". And then that sat there for 4 more years, because \"nothing works\" is too depressing to bother writing 5000 words about. Now, finally, I have an idea. It's gonna take 5000 words to get there, though, so if you don't have that kind of time, skip to the part about registries.\n\nI've written before about hawks and doves, which is a model from evolutionary biology. You have a population of animals competing for some resource. Some of them fight for it (hawks) and some of them share it (doves). A population that is all hawks is unstable: everybody's constantly getting hurt, and the first two doves to show up cooperate with each other and out-compete everyone. A population that is all doves is unstable too: the first hawk to show up competes with everybody and wins every time. What's stable is a mixture of both types, in proportions such that changing your behaviour doesn't help you, so nobody does. That mix is called an evolutionarily stable strategy, or ESS, and the important word is \"stable.\" It's not the best strategy (arguably that's all doves, where nobody gets hurt), it's just the one the population ends up at and can't leave. I find it a useful way of thinking about software, because software has hawks and doves too.\n\nClosed source is the hawk. It competes: it withholds the code, charges a premium for having something nobody else has, and fights to keep it that way. Open source is the dove. It cooperates: it gives the code away and takes the gains from everybody else giving theirs away too. The resource they're competing over is money, ultimately, though it shows up first as users and as developer attention.\n\nThe equilibrium we've landed on is very specific. The evolutionarily stable strategy for a piece of software is \"anybody may use this for anything, including commercially, for free.\" That's MIT, BSD, Apache, the licenses that ask for nothing. Every project that has tried to be a slightly less generous dove has lost to a project that stayed a full dove, and I can give you a lot of examples:\n\nNobody who has tried to charge for open source at the license level has held the line against a competently run fork, and I don't think that's because of ideology. The people running those companies would love to charge for their code, and most of the people forking it don't care much about freedom in the abstract. It's because of the structure of the market. Disruption, in the original sense, is when a much worse and much cheaper product takes over the bottom of the market, then gets gradually better until it's eaten the whole thing, and there's nothing to stop that process repeating until the product costs nothing at all. Software has been getting disrupted like this for as long as there has been software, and what you end up with is a market with two halves: an enormous cheap half that nearly everybody uses, and a much smaller expensive half that makes nearly all of the money. Android has the market share and iOS has the profits, and they are both gigantic successes depending on which number you're looking at. Free wins share and closed wins profit, and both of them win.\n\nSo far this is fine. Free software wins, closed software makes money, everybody has a niche. The problem is what the free layer looks like from the inside.\n\nSixty percent of open source maintainers are not paid for the work. That's from Tidelift's 2024 survey, and it's the same number they got in 2023, and the same number they got in 2021. Of the unpaid ones, 61% work alone. Nearly 60% of all maintainers have quit or thought about quitting, and the reasons they give are the ones you'd guess: they have a life, they lost interest, they burned out.\n\nThe amount of software those people are holding up is silly. Sonatype looked at 1.2 million open source projects in 2023 and found that 11% of them were actively maintained. The Linux Foundation's Census II found that 136 developers wrote more than 80% of the code in the fifty most-used packages. A Harvard study estimated that if open source disappeared, companies would have to spend $8.8 trillion to replace it, and found that 5% of developers produce 96% of that value. This is the JavaScript ecosystem's whole personality, for what it's worth: a huge number of tiny packages with one maintainer, or less than one, sitting at the bottom of the dependency trees of companies that have bet their businesses on them. I spent five years at npm watching this happen and it never stopped being alarming.\n\nThe example everybody uses now is xz. In 2024 it turned out that a compression library present in more or less every Linux machine on earth had a backdoor in it, inserted over two years by a fake contributor who had, very patiently, socially engineered the one unpaid person maintaining it into handing over the keys. The maintainer had said publicly that he was struggling and couldn't keep up, and rather than anybody funding him, somebody groomed him. The backdoor was caught by a Microsoft engineer who noticed SSH was taking half a second longer than it should, which is not the kind of defence you want to be relying on.\n\nNow, the popular way to tell this story is \"the system is breaking,\" and I don't think that's right, and the distinction matters. The system isn't breaking. It's stable, at a level of human cost we've collectively decided to put up with. A maintainer burns out, somebody else picks it up, they burn out, and so on. Serial near-burnout isn't a bug in the equilibrium, it is the equilibrium. Open source is very old, and if this was going to collapse it would have done so by now. This is a machine that runs on blood, and because it is the evolutionarily stable strategy, we have been powerless to change it.\n\nBut it feels like the problem is getting worse, doesn't it? If a stable system is producing worse outcomes than it used to, one of the inputs moved. The one that moved is speed.\n\nLinux accumulated slowly, so you could maintain a chunk of the kernel on nights and weekends for a decade, because nobody was waiting on you. Then the web happened, and then npm happened, and a million tiny modules appeared in about ten years, any one of which could become load-bearing for somebody's production system within weeks of being published. The software got important faster than any institution could notice it was important, never mind fund it. Meanwhile security got faster too: a bug in a popular library is now exploited within days and lands on tens of thousands of companies at once. So the cost of maintaining a popular package went up a lot, and the payoff for maintaining it stayed exactly where it was, which is zero dollars and a warm feeling.\n\nNights and weekends stopped being enough, and people kept doing it anyway, because they were always going to write the software. Developers write software the way singers sing, which is to say they'd do it if nobody was listening, and that isn't a problem to be fixed, it's the thing that makes the whole system work. Any proposed solution that involves developers writing less software, or writing less generously, is a non-starter with me. The problem isn't that people write software for free. It's that we've arranged things so the people who write the most useful software for free get a second unpaid job as a reward.\n\nThis is the depressing bit, and it's the bit I've been putting off for four years, so let's get through it quickly. Here is what we've tried:\n\nLook at what all of these have in common. They're all voluntary. Companies are asked to give, and some do, and most don't, and the ones that don't get exactly the same software as the ones that do. Charity doesn't scale, and nobody has the authority to issue a mandate. We have been asking companies to pay for open source for thirty years, and I think we can consider asking to be fully tested.\n\nHere's the thing that made me realize I'd been thinking about this wrong: companies already pay for open source, quite a lot of money in fact, they just don't pay it to maintainers.\n\nJFrog sells Artifactory, which is a private mirror that sits between your build servers and the public package registries. JFrog had $532 million in revenue in 2025, up 24%. Snyk, which scans your dependencies for vulnerabilities, is at about $326 million a year. Docker, which runs the registry every container image comes from, is at $207 million. Chainguard, which sells hardened versions of open source images, went from about $40 million to a target of $100 million in a year. Sonatype is private, but it both runs Maven Central, the registry every Java build pulls from, and sells Nexus, the mirror you put in front of it; by Sonatype's own numbers 86% of Maven Central's traffic comes from cloud providers, which is to say from companies. Add Sonar, which now owns Tidelift, and Socket, and the rest of the supply chain security market, and you're comfortably over a billion dollars a year.\n\nWhat is all that money for? Strip off the marketing and every one of these companies is selling the same thing, which is dependable supply of free code. Your builds don't break when the registry goes down. Your dependencies are cached, scanned, signed, and provably what they say they are. When the next Log4Shell happens you can find out in an hour which of your two thousand services is affected. That's a real product solving a real problem, and companies buy it enthusiastically, because \"the free thing we depend on might be broken or malicious and we can't tell\" is exactly the kind of problem a procurement department knows how to spend money on.\n\nI want to be clear that I don't think these companies are villains. Several of them are run by people I like. They're solving the actual problem, which is that companies need to be able to depend on code they didn't write and can't inspect. They're just solving it at the wrong layer. They sell insurance against the maintainer, when the maintainer is the one person in the chain who can actually make the code more secure, and she gets nothing while a company two layers up gets paid to tell you whether she did.\n\nThis changed my whole view of the problem. For years I assumed the constraint was the supply of money: companies simply would not pay for open source and no mechanism could make them, and Lorenc's story fits that. But the JFrog invoice says otherwise: companies will pay for open source, happily, when it shows up as a boring line item labelled \"supply chain.\" The supply of money was never the problem, the problem is where it gets captured on the way down.\n\nSo why doesn't the ESS apply here? If free always wins, why hasn't a free mirror eaten JFrog?\n\nBecause there are two games going on, and they have different winners. In the code game the resource is the software itself, and free wins every time, because anybody can copy code, so any attempt to charge for it invites a copy that doesn't. In the supply game the resource is not having to think about where the code comes from, and that game is won by whoever is the default.\n\nLook at the evidence. Nobody has ever successfully forked a registry. Free mirrors of npm, PyPI and Docker Hub exist, are trivial to run, and in some cases are one command away, and companies pay JFrog half a billion dollars a year regardless. Red Hat lost the desktop to Ubuntu, which was funded by a rich guy giving it away, and lost it decisively; the dove won the code game. Red Hat then sold to IBM for $34 billion and makes north of $6 billion a year selling companies supply of the same free code with a phone number attached. Anybody could have had the same code for free, and lots of them did, but a very large number of companies paid Red Hat anyway.\n\nDocker is the clearest example because it happened recently and in public. In November 2020 Docker Hub started rate-limiting anonymous and free pulls. In August 2021 Docker Desktop became a paid product for any company with more than 250 employees or $10 million in revenue, and stayed free for individuals, small companies and open source projects. If free always won, a free alternative should have eaten them, and Podman and containerd exist and are free and are perfectly fine. Instead Docker's revenue went from roughly $12 million in 2020 to over $50 million in 2021 to $207 million in 2024, with more than a million paid seats. (Docker also tried announcing per-pull consumption charges and then cancelled them in 2025 after developers rioted, which tells you exactly what shape of charge works: bill the company, not the download. Nobody wants a bill that goes up every time CI reruns.)\n\nFree wins the code game, but the supply game is won by whoever is the default, and defaults can charge. The registries are the one place in the whole system where the two games touch, because they are where free code turns into supply, and unlike a license, a registry can't be routed around by copying, because it's not a legal restriction, it's an extremely convenient piece of infrastructure. They don't want to route around it; routing around it is a pain in the ass worth paying to avoid.\n\nAt this point somebody is going to say \"hasn't this been tried?\", and the answer is sort of, and the ways it failed are instructive. I'm going to define \"the registry layer\" narrowly: whoever owns the domain that everybody is downloading stuff from. By that definition almost nothing on this list counts.\n\nIn August 2019 Feross Aboukhadijeh, who maintained a hundred-odd npm packages including Standard, started printing sponsor messages in the terminal during npm install. Developers hated it, the sponsors backed out within days, and Feross wrote it up as a failed experiment. npm's response was to ban terminal ads in its terms of service and ship npm fund, which prints a list of donation links. That's the one time the actual registry has intervened in funding, and what it did was take away a way of getting money and replace it with a hyperlink. That is some weak tea. In my time at npm we never had the courage to try anything more extreme, and we should have.\n\nFlossbank, from 2020 to 2022, wrapped npm and yarn, collected small donations or ad revenue, and split it across the whole dependency tree of whatever you installed. That is the payout half of what I'm about to propose, built and working. It shut down, and the founder's post-mortem is honest about why: it was opt-in, and opt-in dies of \"why should I pay if the next guy doesn't.\" Flossbank also wasn't the registry, it was a thing you installed in front of the registry, which is enough friction that nobody bothers.\n\nRuby Together, from 2015 to 2022, collected membership fees from companies to fund work on RubyGems and Bundler. It worked, modestly, until it merged into Ruby Central, whose dependence on one big sponsor then produced the 2025 takeover of the RubyGems repositories, a bunch of resignations, and a depleted team facing the worst attack on a registry in years the following spring. That was funding for the registry's own operations, not for the packages in it, and it was voluntary, and it had one big donor, which is three separate ways to fail.\n\nSo the pattern is: everything voluntary died of free riding, and the one thing that wasn't voluntary (Docker) worked and kept the money for itself. Nobody who owns the domain has ever charged companies for supply and paid the people who make the supply worth having.\n\nSo here's the proposal. There are three parts, none of them new; what's new is putting them in the same place.\n\nFirst, the registries meter corporate use and charge for it. They already meter it. npm, PyPI, Docker Hub and Maven Central all have rate limits, authentication and enterprise tiers, and the mirror vendors that sit in front of them bill by the seat. Docker's rule is the right rule: individuals, small teams, students and open source projects pay nothing and notice nothing. A company above some size gets a subscription, priced the way a JFrog or Docker subscription is priced today, which is to say at a level procurement signs without scheduling a meeting. For most of these companies it isn't even a new cost, because they're already paying it; the invoice just gets a new line.\n\nSecond, a fixed slice of that revenue is a royalty, and it goes to the packages. Not to the registry, not to a foundation, not to a grants committee with an application form. Pro rata, to every package that shows up in the paying customer's dependency trees, weighted by how many paying customers depend on it, automatically, every month, with no ceremony and no thank-you email, because the whole point is that nobody has to do anything for the money to move. My 2022 notes have a line about this that I'll leave unedited: \"The money has to go in one end and out the other. You don't have to use crypto to do this, that would be bad, just use a database.\" The payout half is not hard. thanks.dev does pro rata distribution over dependency trees today, and Flossbank did it in 2020. Nobody's ever connected it to the collection half.\n\nThird, the people who do this are the people who own the domains. There are about a dozen registries that matter. Every maintainer already has an account on the one they care about, with a name attached and a way to get paid either present or one form field away. The billing side is finite: a few thousand large companies, most of whom are already customers of somebody in the supply chain. The two hardest problems in every previous attempt, finding the payers and finding the payees, are already solved, and they're solved by the same database.\n\nIsaac Schlueter, who created npm, has argued that we should stop charging for support and start charging for access: if you're a fo",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "根据Tidelift在2024年的调查，60%的开源维护者从事这项工作没有报酬，与2023年和2021年的调查比例相同；在无偿维护者中，61%独自工作；近60%的维护者曾离职或考虑过离职。",
+          "Sonatype在2023年调研了120万个开源项目，发现其中仅11%处于积极维护状态。",
+          "来源叙事重点：从博弈论和商业供应链视角，论证开源软件生态并非缺乏企业资金，而是陷入了‘企业宁可花费数十亿美元购买中介层供应链安全工具，也不向底层核心维护者付费’的结构性错配，并主张必须寻找强制性机制打破当前的免费搭便车均衡。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:04:32.000Z",
+            "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/"
+          }
+        ]
+      },
+      {
+        "id": "story-mand-to-record-high-html-027ccce3e85e6725",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hormuz Crisis to Push Global Coal Demand to Record High",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T19:00:00.000Z",
+        "pubTime": "2026-09-21 03:00",
+        "url": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
+        "imageUrl": null,
+        "fullContent": "The International Energy Agency expects coal demand to increase this year in response to ongoing oil and gas trade constraints stemming from the closure of the Strait of Hormuz. Several countries have been forced to turn back to coal to fill the gap, as oil inventories are depleted and countries gradually expand their renewable energy capacity. In its mid-year update, the IEA predicted that coal use would likely increase in some regions of the world owing to higher natural gas prices in 2026. The conflict in the Middle East and ongoing restrictions on trade via the Strait of Hormuz maritime trade corridor have driven up prices in recent months. This has led to severe global energy disruptions, pushing oil and gas prices higher. The massive reduction in LNG shipments through the Strait of Hormuz has led some countries to face energy shortages, requiring them to turn to other energy sources. Japan, India, Bangladesh, the Philippines, South Korea, Thailand, Taiwan, China, and some European countries have been forced to increase their coal use to fill the gap. In addition, some countries are not only turning to coal for power; China's coal consumption for chemical product production has also increased in recent months due to high oil prices. Coal consumption may increase further in some regions of the world in the coming months if a particularly strong El Nio weather pattern occurs, as predicted. Higher-than-normal temperatures and lower hydropower output could drive up power demand across Asia, in large markets such as India and Vietnam. Global coal production matched a record high in 2025 but is expected to decrease slightly year over year in 2026. Despite that, the IEA expects demand for the energy commodity to rise by 1.2 per cent in 2026, bringing the world's consumption to a record 8.94 billion metric tonnes. Coal demand by the world's two biggest coal consumers, China and India, is expected to rise by 1 per cent and 4.2 per cent respectively, to 5 billion tonnes and 1.353 billion tonnes. The outlook for 2027 is murkier given the unpredictability of trade in the Strait of Hormuz. If LNG flows recover next year, it could drive natural gas prices down, spurring a shift in gas and coal use. However, global demand will likely increase if energy trade remains restricted. \"Although shipping disruptions in the Strait of Hormuz do not directly affect coal markets\" and virtually no coal shipments pass through the Strait of Hormuz, \"tighter natural gas supply has pushed up prices, prompting some electricity systems to switch from gas to coal,\" the IEA stated. News of increased coal use is concerning, given that the United Nations UN has, for the first time, acknowledged that the world is set to overshoot its target of limiting global warming to 1.5C above pre-industrial levels. As part of efforts to support a global green transition and uphold climate pledges, diplomats from almost every country agreed to \"phase down\" global coal consumption at the 2021 COP26 climate summit in Glasgow. However, since the signing of the agreement, several countries have continued to rely on coal burning to meet rising electricity demand. While many countries are investing heavily in accelerating the development of their renewable energy sectors, it is expected to take several years to eliminate the need for fossil fuels for power in most countries. In March, Italy announced plans to postpone the shutdown of its coal-fired power plants for all of 13 years. Germany has also announced it is considering restarting some of its coal plants to meet the country's energy demand. In March, Chancellor Friedrich Merz stated, \"We must supply this country with electricity. I am not prepared to jeopardise the core of our industry simply because we have adopted phase-out plans that have become unrealistic.\" Somewhat surprisingly, given President Trump's aim to revive the ageing coal sector, coal consumption in the United States is expected to fall by around 7 per cent this year, following an unexpected jump last year. The United States has been largely sheltered from the global gas disruption thanks to its abundant, cheap domestic natural gas. Vast quantities of U.S. solar and wind energy have also come online this year, following years of accelerated development, further reducing the need for coal. Nevertheless, the United States made a significant contribution to the increase in global emissions in 2025. According to the Energy Institute, global energy-related carbon dioxide emissions rose by 1.1 per cent to 35.806 billion tonnes, with the United States accounting for about 13.3 per cent of the increase in direct energy-related CO2 emissions. Under a broader measure that also includes methane and flaring emissions, the United States accounted for roughly a third of the global increase. This demonstrates just how detrimental an increase in coal consumption can be for global emissions, with coal-related emissions expected to climb significantly this year in line with higher consumption. By Felicity Bradstock for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "国际能源署（IEA）预计2026年全球煤炭需求将增长1.2%，达到创纪录的89.4亿公吨。",
+          "预计2026年中国煤炭需求将增长1%至50亿吨，印度煤炭需求将增长4.2%至13.53亿吨。",
+          "来源叙事重点：聚焦霍尔木兹海峡危机引发的油气供应中断与价格飙升，阐述亚欧多国因能源保供被迫转回使用煤炭，进而推动2026年全球煤炭需求与碳排放创历史新高，凸显地缘冲突对全球绿色能源转型的直接冲击。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T19:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html"
+          }
+        ]
+      },
+      {
+        "id": "story-blog-260803-c4063dec7d9ea3c1",
+        "title": "确定性核心，非确定性外壳",
+        "originalTitle": "Deterministic Core, Non-Deterministic Shell",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:13:51.000Z",
+        "pubTime": "2026-09-21 05:13",
+        "url": "https://outdata.net/blog/260803",
+        "imageUrl": null,
+        "fullContent": "Fourteen years ago, Gary Bernhardt coined the term Functional Core, Imperative Shell . Like most good ideas in computing it was not entirely new, but his conception had great clarity, and it forms an excellent basis for talking about testing and determinism in existing systems.\n\nBriefly, Functional Core/Imperative Shell architecture divides the code into two parts. The Functional Core is purely functional - that is no IO, and no destructive state updates. It is concerned with the business logic of the application. The Imperative Shell has comparatively little pathing, but maintains state, coordinates external dependencies, and deals with the outside world - that is to say IO. Its job is to query the core with values, receive values back as the result of some blackbox decision, and use that to interact with the outside world; whether that's writing to a database, sending a request, or updating a GUI.\n\nThe Shell and the Core in this model have distinct characteristics:\n\nThis makes the core very amenable to testing. Since it's purely functional, the same inputs will always get the same results. Since it's isolated, there is nothing to mock or stub. And since it handles complex business logic, the tests can tell us a lot about how the system behaves.\n\nA shorter way of describing the properties that make pure functions amenable to testing is that they are deterministic. That is - given a stream of inputs, a pure function always returns the same stream of outputs; their behaviour is repeatable. But pure functional programming is not the only way to get there. If we tilt our heads a little we can see that a stream of values and a sequence of assignments are different ways of expressing the same thing, and State Machines can bring us the same benefits. Consider the following code:\n\nThe function add is easy to reason about; it's pure and thus deterministic. But the AddMachine is also deterministic - given the same sequence of calls to the transition function, AddMachine will return the same state. It being imperative does not change that.\n\nPure functional programming is a fine paradigm, but due to language or performance considerations, it is not always practical - I would not want to try it in C! But weakening the requirements from purely functional to merely deterministic, we retain the testability benefits of \"Functional Core, Imperative Shell\", while broadening its applicability. And so the title of this post: Deterministic Core, Non-Deterministic Shell.\n\nDeterminism can feel like a more abstract concept than functional purity. How do you know it when you see it? I find it's easier to start with what is not deterministic and work backwards. Here are some common examples of non-repeatable behaviour:\n\nAll these belong in the non-deterministic shell. Whenever you find them in your business logic, you have a natural target for defragmentation - either splitting the function in two around them, or lifting them up a layer and injecting their result as a parameter. It's illustrative to think of the \"shell\" metaphor quite literally; it should surround the logic, querying the heart of the application to get what it needs.\n\n\"This is all well and good\", you might think, \"but what use of it is to me, toiling away in the legacy & vibe-code mines of industry?\". A fair accusation, imaginary reader; not everyone can be Foundation DB and make that distinction from day one (they actually went a step further, but that's a topic for another post). Determinism and non-determinism are highly entwined in almost every real life codebase I have seen, and I've seen my fair share.\n\nBut don't let perfect be the enemy of good! One way to think of your average (ie, terrible) codebase is that it has many deterministic cores. There are thousands, strewn through the slop as stars in the sky. The glass half empty take is these codebases are an irredeemable legacy mess. But glass half full is that there are many deterministic cores hidden somewhere inside, and maybe only a handful.\n\nUsers of older Windows systems may remember the \"Disk Defragmenter\"; it took files whose contents were scattered physically across the spinning hard disk and made them contiguous. In an era where read speed depended on physical distance on the media, this mattered a lot.\n\nSo one gradual approach for existing code is to practice the Defragmentation of Determinism. Identify it wherever you can - files, classes, even a few lines in individual functions - and start collecting them. The more determinism that can be grouped, the more easily testable functionality you have, and the more you can feel confident about the behaviour and reliability of the program as a whole. The surface area for \"hard to test\" (non-deterministic code) starts to shrink. On a large enough codebase you will likely never get to a single deterministic core, but even hundreds is better than thousands.\n\nEvery nasty mess of a codebase I've seen has one or more much nicer deterministic state machines locked inside. I promise you they are there, even if it's not obvious. And once you find them, you'll be delighted with how much easier the software is to modify and test. Piece by piece, reliability can be wrought.",
+        "fullTranslation": "十四年前，加里·伯恩哈特（Gary Bernhardt）提出了“函数式核心，命令式外壳”（Functional Core, Imperative Shell）这一概念。就像计算机领域大多数优秀思想一样，它并非全新之物，但他的构想极其清晰，为探讨现有系统中的测试与确定性打下了绝佳的基础。\n\n简而言之，“函数式核心/命令式外壳”架构将代码分为两部分。函数式核心是纯函数的——也就是说没有输入输出（I/O），也没有破坏性的状态更新。它专注于应用程序的业务逻辑。命令式外壳包含的分支路径相对较少，但负责维护状态、协调外部依赖并与外部世界交互——也就是进行 I/O。它的职责是以输入值调用核心，接收黑盒决策结果所返回的值，并利用这些值与外部世界互动；无论是写入数据库、发送网络请求，还是更新图形用户界面（GUI）。\n\n在这种模型中，外壳和核心具有截然不同的特征：\n\n这使得核心非常易于测试。由于它是纯函数的，相同的输入将始终获得相同的结果。由于它是隔离的，不需要进行任何模拟（mock）或存根（stub）。而且由于它处理的是复杂的业务逻辑，测试能够让我们深入了解系统的具体行为。\n\n用一种更简短的方式来描述让纯函数易于测试的特性，那就是它们具有“确定性”（deterministic）。也就是说——给定一系列输入流，纯函数始终返回相同的输出流；它们的行为是可重复的。但纯函数式编程并不是实现这一目标的唯一途径。如果我们换个角度思考，就会发现值流与一系列赋值语句不过是同一事物的不同表达方式，而状态机同样可以为我们带来相同的好处。试看以下代码：\n\n函数 add 很容易推导理解；它是纯函数，因此具有确定性。但 AddMachine 同样具有确定性——给定对状态转移函数的相同调用序列，AddMachine 将返回相同的状态。它是命令式的这一事实并不会改变这一点。\n\n纯函数式编程是一种优秀的范式，但出于语言或性能方面的考虑，它并不总是切实可行的——我可不想在 C 语言里尝试它！但如果我们将要求从“纯函数式”放宽至仅仅具备“确定性”，我们就能在保留“函数式核心，命令式外壳”可测试性优势的同时，拓宽其适用范围。因此便有了本文的标题：确定性核心，非确定性外壳。\n\n相比函数纯度，确定性可能感觉是一个更抽象的概念。你如何一眼识别出它？我发现从“什么不是确定性的”入手反向推导会更容易。以下是非重复行为的一些常见例子：\n\n所有这些都属于非确定性外壳。只要你在业务逻辑中发现了它们，你就找到了进行整理重构的绝佳切入点——要么围绕它们将函数拆分为两部分，要么将它们提升一层并将它们的结果作为参数注入。形象地将“外壳”这个隐喻从字面意义上去理解会很有启发；它应当包裹在业务逻辑周围，通过向应用程序的核心发起调用来获取所需内容。\n\n你可能会想：“这一切听起来都很棒，但对于像我这样在工业界遗留代码和凭借直觉乱堆的代码堆里苦苦挣扎的人来说，这有什么用呢？”虚构的读者朋友，这是一个合情合理的质问；并不是每个人都能成为 FoundationDB，并从第一天起就划清这种界限（他们实际上走得更远，不过那是另一篇文章的主题了）。在我见过的几乎每一个现实代码库中，确定性与非确定性都高度交织在一起，而我见过的代码库可不算少。\n\n但不要让完美成为优秀的敌人！理解你手头普通（即糟糕）代码库的一种方式是，把它看作拥有许多确定性核心。成千上万个核心散落在这堆乱码中，犹如夜空中的繁星。悲观的角度看，这些代码库是不可救药的遗留烂摊子；但乐观的角度看，里面隐藏着许多确定性核心，也许整理出来只有少数几个模块。\n\n老一代 Windows 系统的用户可能还记得“磁盘碎片整理程序”；它把物理上散布在旋转硬盘各处的文件内容重新排布为连续空间。在那个读取速度取决于介质上物理距离的时代，这一点至关重要。\n\n因此，处理现有代码的一种渐进式方法就是实践“确定性的碎片整理”。尽可能去识别确定性——文件、类、甚至是单个函数中的几行代码——并开始将它们收集归拢。能够聚集的确定性越多，你拥有的易于测试的功能就越多，你就对整个程序的行为和可靠性更有信心。“难以测试”（即非确定性代码）的暴露面开始缩小。在足够庞大的代码库中，你可能永远无法归结为一个单一的确定性核心，但哪怕整理成几百个，也远比散落成千上万处要好。\n\n我见过的每一个乱作一团的代码库里，都深锁着一个或多个极其优雅的确定性状态机。我向你保证它们确实存在，哪怕并不显眼。一旦你找到了它们，你会惊叹于软件的修改和测试变得如此轻松。一点一滴，可靠性自能筑就。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "Gary Bernhardt在14年前提出了术语“Functional Core, Imperative Shell（函数式核心，命令式外壳）”。",
+          "Functional Core/Imperative Shell 架构将代码划分为无I/O、无破坏性状态更新的纯函数式核心，以及负责协调外部依赖和处理I/O的命令式外壳两部分。",
+          "来源叙事重点：主张将 Gary Bernhardt 的“函数式核心/命令式外壳”泛化为“确定性核心/非确定性外壳”，强调通过确定性状态机降低纯函数门槛，并倡导采用“确定性碎片整理”策略对工业界遗留代码进行渐进式重构。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:13:51.000Z",
+            "url": "https://outdata.net/blog/260803"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story--volodin-2119123289-html-fa802455b1faf334",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Володин лидирует по одномандатному округу в Саратовской области",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-20T22:30:28.000Z",
+        "pubTime": "2026-09-21 06:30",
+        "url": "https://ria.ru/20260921/volodin-2119123289.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/volodin-2119123289.html",
+            "publishedAt": "2026-09-20T22:30:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ws-articles-cx2z7ejn891o-e5d8c6f43137ecfe",
+        "title": "乳晕纹身师对网络审查感到“沮丧”",
+        "originalTitle": "Nipple tattooist 'frustrated' by online censorship",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:51:09.000Z",
+        "pubTime": "2026-09-21 05:51",
+        "url": "https://www.bbc.com/news/articles/cx2z7ejn891o",
+        "imageUrl": null,
+        "fullContent": "A medical tattoo artist has described the online censorship of nipple tattoos for mastectomy patients as \"wholly unfair and discriminatory\".\n\nLauren Carter, based in Hanham near Bristol, says social media bots and algorithms often mistakenly flag her hyper-realistic work as \"inappropriate nudity\".\n\nCarter has been banned from posting numerous times, and her pictures have been permanently removed, which she says leaves her \"struggling\" to reach new clients.\n\nA spokesperson for Facebook and Instagram owner Meta said it \"continues to work on improving\" how it identifies and protects medical and health-related content.\n\nBecause medical tattoos are designed to look as realistic as possible, social media bots and algorithms can sometimes confuse the inked 3D-effect for bare skin.\n\nA Meta spokesperson confirmed post-mastectomy scarring and areola tattoos are allowed on Facebook and Instagram, but its systems \"occasionally make mistakes\".\n\n\"We understand how frustrating that can be, which is why we allow users to appeal these decisions and we continue to work on improving how we identify and protect medical and health-related content,\" they said.\n\n\"We recognise the important role medical tattooists play in supporting breast cancer survivors, and we want this content on our platforms.\"\n\nDespite posting disclaimers and covering the nipple tattoo with emojis, Carter says each update to her online portfolio jeopardises years of hard work and positive reviews.\n\n\"It really does upset me - there's a sense of injustice,\" she said.\n\n\"I'm annoyed and frustrated, not only for myself, but for the people who are looking for this sort of thing and can't find it. I don't know how else to reach people.\"\n\nCarter says her posts are automatically removed \"nine times out of 10\". She always appeals the decision, but \"it's as if nobody even reads it\".\n\n\"It's interesting how the photos I post of male nipples following my treatments do not get banned or reported as a sexual image,\" she added.\n\n\"For me, this work is about so much more than beauty. It is about helping people feel confident, comfortable and like themselves again.\"\n\nJessica Bowler, a nurse from Bristol, underwent a double mastectomy with implant reconstruction at the age of 32 following a breast cancer diagnosis in 2019.\n\n\"Although I knew the treatment was necessary to save my life, it was still incredibly difficult physically and emotionally,\" she said.\n\n\"I would look in the mirror and almost not recognise myself. My chest was a reminder of everything I had been through.\"\n\nBowler said the decision to get areola reconstruction tattoos marked an important milestone in her recovery, describing the procedure as \"empowering\".\n\n\"The tattoos weren't about vanity; they were about feeling comfortable in my own skin,\" she said.\n\n\"It's difficult to explain unless you've been through it, but having something restored that cancer took away can be incredibly powerful.\"\n\nThe 39-year-old described the online censoring of nipple tattoos as \"really upsetting\", as it prevents survivors from exploring the options available to them post-surgery.\n\n\"They shouldn't be treated as something shameful or sexual,\" she said.\n\n\"[People] who've been through breast cancer should be able to share their stories and help each other without being censored.\"\n\nFollow BBC Bristol on Facebook, X and Instagram. Send your story ideas to us on email or via WhatsApp on 0800 313 4630.\n\nMaya, 13, from Hythe in Kent, was diagnosed with neuroblastoma when she was three.\n\nSusan Gasson has had four cancers since the 1980s and now takes a daily tablet as part of a trial.\n\nFrom \"endless scroll\" to beating loneliness, experts and users discuss how boomers use social media.\n\nGrace Warden, 31, says she \"didn't anticipate the severity\" of the side effects she would face.\n\nIn text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+        "fullTranslation": "一名医疗纹身师将针对乳房切除术患者乳头纹身的网络审查描述为“完全不公且具有歧视性”。\n\n来自布里斯托附近汉汉姆（Hanham）的劳伦·卡特（Lauren Carter）表示，社交媒体的机器人和算法经常错误地将她极度逼真的作品标记为“不当裸露”。\n\n卡特曾多次被禁止发帖，她的照片也被永久删除，她说这导致她“难以”接触到新客户。\n\nFacebook和Instagram的母公司Meta的发言人表示，该公司“正在继续改进”识别和保护医疗健康相关内容的方式。\n\n由于医疗纹身旨在尽可能逼真，社交媒体机器人和算法有时会混淆纹出的3D效果与真实的裸露皮肤。\n\nMeta发言人证实，Facebook和Instagram允许发布乳房切除术后疤痕和乳晕纹身，但其系统“偶尔会犯错”。\n\n他们表示：“我们理解这有多么令人沮丧，这就是为什么我们允许用户对这些决定提出申诉，并且我们正在继续努力改进识别和保护医疗健康相关内容的方式。”\n\n“我们认识到医疗纹身师在支持乳腺癌康复者方面所发挥的重要作用，我们希望这些内容出现在我们的平台上。”\n\n尽管发布了免责声明并用表情符号遮盖了乳头纹身，卡特表示，她在网络作品集上的每一次更新都会危及多年来的辛勤工作和好评。\n\n“这真的很让我难过——有一种不公感，”她说。\n\n“我感到恼火和沮丧，不仅是为我自己，也是为了那些正在寻找这类服务却找不到的人。我不知道还能通过什么途径接触到需要的人。”\n\n卡特说，她的帖子“十有八九”会被自动删除。她每次都会对决定提出申诉，但“就像根本没人看一样”。\n\n“有趣的是，在治疗后我发布的男性乳头照片，并没有被封禁或被举报为色情图像，”她补充道。\n\n“对我来说，这项工作远不止关于美丽。它是关于帮助人们重新感到自信、舒适，找回属于自己的感觉。”\n\n来自布里斯托的护士杰西卡·鲍勒（Jessica Bowler）在2019年被诊断出患有乳腺癌后，于32岁时接受了双侧乳房切除术及假体再造术。\n\n“虽然我知道这种治疗对挽救我的生命是必要的，但在身体和情感上仍然极其艰难，”她说。\n\n“我看着镜子，几乎认不出自己。我的胸部提醒着我所经历的一切。”\n\n鲍勒表示，决定进行乳晕再造纹身是她康复过程中的一个重要里程碑，她形容这一过程是“赋予力量的”。\n\n“这些纹身与虚荣无关；它们关乎让自己在身体里感到舒适，”她说。\n\n“除非你亲身经历过，否则很难解释，但能把癌症夺走的东西恢复过来，会具有极其强大的力量。”\n\n这位39岁的女士将网络上对乳头纹身的审查描述为“非常令人心烦”，因为这阻碍了康复者探索术后可供他们选择的方案。\n\n“它们不应该被当作可耻或色情的事物来看待，”她说。\n\n“经历过乳腺癌的人应该能够分享他们的故事并互相帮助，而不应受到审查。”\n\n在Facebook、X和Instagram上关注BBC Bristol。通过电子邮件或拨打WhatsApp电话0800 313 4630向我们发送您的故事线索。\n\n来自肯特郡海斯（Hythe）的玛雅（Maya）今年13岁，她在三岁时被诊断出患有神经母细胞瘤。\n\n苏珊·加森（Susan Gasson）自20世纪80年代以来经历过四次癌症，目前正在参加一项试验，每天服用一片药物。\n\n从“无尽滚动”到战胜孤独，专家和用户讨论婴儿潮一代如何使用社交媒体。\n\n31岁的格蕾丝·沃登（Grace Warden）表示，她“没有预料到”自己将要面对的副作用的严重程度。\n\n在短信交流和谈话中，多位曾就职于领先公司的人士对这些警告表示怀疑。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 29,
+        "keyTakeaways": [
+          "医学纹身师Lauren Carter为乳房切除术患者制作乳头纹身，其作品常被社交媒体机器人和算法标记为不当裸露并被永久移除。",
+          "Meta发言人证实，Facebook和Instagram允许发布乳房切除术后的疤痕和乳晕纹身内容，但系统偶尔会出现错误。",
+          "来源叙事重点：聚焦医学乳晕纹身师与乳腺癌康复者遭遇社交平台算法误判及内容审查的困境，突出算法对医疗重建内容的误伤与性别双标问题，并呈现平台方承认错误但申诉机制效率低下的技术伦理冲突。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:51:09.000Z",
+            "url": "https://www.bbc.com/news/articles/cx2z7ejn891o"
+          }
+        ]
+      },
+      {
+        "id": "story-5-404a-ae3a-3921e887bab3-b69a6fd614d48bd2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:47:35.000Z",
+        "pubTime": "2026-09-21 05:47",
+        "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8d2cfe2c-bd62-4c09-97bb-106b2950ef98.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-21 05:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-20T21:47:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-h-research-funding-board-a8f110de9a82c8ec",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump reportedly to form health funding board that could veto ‘woke’ initiatives",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:53:00.000Z",
+        "pubTime": "2026-09-21 05:53",
+        "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
+        "imageUrl": "https://i.guim.co.uk/img/media/cadb19e84270847aebafcfa816fd473c25370088/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=e93cc6e413a1ca36c7fee51211b20c31",
+        "fullContent": "President’s latest order expected to bring NIH funding under control of Trump administration to align with agenda\n\nDonald Trump ’s latest executive order is expected to establish a board responsible for approving National Institutes of Health grant funding, marking another attempt by the Trump administration to censor topics that do not align with the president’s agenda.\n\nThe executive order, reported by outlets including the Washington Post and Politico , was discussed in a meeting on Friday where senior administration officials accused the NIH of funding “woke” initiatives that went against Trump’s political priorities.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "华盛顿邮报和Politico等媒体报道了特朗普最新的行政令内容。",
+          "特朗普政府高级官员在周五的会议中讨论了该行政令，并指责NIH资助违背特朗普政治优先事项的“觉醒”倡议。",
+          "来源叙事重点：重点将特朗普政府拟设立NIH资助审批委员会的行政令定性为政治干预和言论/学术审查，强调该举措旨在遏制不符合其施政议程的“觉醒”科研倡议并强化行政权力控制"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:53:00.000Z",
+            "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board"
+          }
+        ]
+      },
+      {
+        "id": "story-l-limiting-particle-html-e741d3da4ae1d18b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Cooling liquids reveal self-limiting particle clusters behind glass transition",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:30:01.000Z",
+        "pubTime": "2026-09-21 05:30",
+        "url": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-liquids-get-stuck.jpg",
+        "fullContent": "Before diving into the mystery of glass, theoretical physicist Corentin Laudicina takes us back to high school physics for a moment. Although he has spent years studying exactly what happens in a material during the glass transition, he also understands that his research is not the easiest thing to explain off the cuff at the cafeteria table.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-21 05:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cooling-liquids-reveal-limiting-particle.html",
+            "publishedAt": "2026-09-20T21:30:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1-vybory-2119123188-html-15b33bb1c168a97f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Врио губернатора Белгородской области лидирует на выборах главы региона",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-20T22:30:11.000Z",
+        "pubTime": "2026-09-21 06:30",
+        "url": "https://ria.ru/20260921/vybory-2119123188.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/08/05/2109189362_0:12:3086:1747_650x0_80_0_0_d153a603cba190d1995af6ab72e88c14.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/vybory-2119123188.html",
+            "publishedAt": "2026-09-20T22:30:11.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--techcrunch-disrupt-2026-dbb148570dcfc2a0",
+        "title": "TechCrunch Disrupt 2026 门票优惠仅剩 6 天，最高可立省 200 美元",
+        "originalTitle": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:41:08.000Z",
+        "pubTime": "2026-09-21 05:41",
+        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "imageUrl": null,
+        "fullContent": "Your window to save up to $200 is closing fast. Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. After that, prices go up.\n\nAt TechCrunch Disrupt 2026, getting ahead means more than sitting in on great sessions. It means meeting the people you need to know, seeing what’s coming before it hits the mainstream, and getting practical insights you can put to work.\n\nTechCrunch Disrupt 2026 brings 10,000+ founders, investors, operators, and tech leaders together for three days of ideas, connections, and opportunities across the startup ecosystem.\n\nWith 250+ speakers covering 200+ sessions across six industry stages, roundtables, and breakouts, you’ll get practical insight into the forces changing how companies are built, funded, and scaled, from AI and robotics to fintech, infrastructure, and the future of work. But the value isn’t just onstage.\n\nMake the connections. Meet potential investors, clients, partners, hires, and collaborators through networking, including AI-powered matchmaking, ad hoc meetings, and the Deal Flow Cafe if you’re an investor or founder.\n\nStay ahead of the market. Hear how leaders are approaching the biggest strategic questions around AI, competitive advantage, fundraising, talent, go-to-market, and scaling.\n\nSee what’s next before it becomes obvious. Explore 300+ startups and breakthroughs in the Expo Hall, watch the intense pitch competition called Startup Battlefield 200, and discover emerging technologies across all sessions.\n\nLeave with something you can use. From fundraising strategies to GTM tactics and insights on building defensible companies in the AI era, Disrupt is built around actionable ideas, not just big conversations.\n\nThe people you need to meet, the ideas you need to hear, and the opportunities you don’t want to miss will all be in San Francisco this October.\n\nJoin 10,000+ founders, VCs, and tech operators on October 13–15 at San Francisco. Get your ticket by Sept. 25 at 11:59 p.m. PT and save up to $200 before prices rise. Save an additional 30% on group passes of four or more.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel\n\nSalesforce and Nvidia’s new reasoning model is everything the AI labs should fear\n\nJensen Huang took a call from Trump, and showed off something else, too\n\nAI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "fullTranslation": "最高可省 200 美元的优惠窗口即将关闭。当前门票优惠价格将于太平洋时间 9 月 25 日晚上 11:59 截止。届时门票价格将会上涨。\n\n在 TechCrunch Disrupt 2026 上，抢占先机绝不仅限于聆听精彩的专题演讲。它意味着结识你需要的人脉，在未来趋势成为主流之前抢先把握，并获得可直接投入实操的实用洞察。\n\nTechCrunch Disrupt 2026 将汇聚 10,000 多名创业者、投资人、运营者和科技领袖，在为期三天的活动中全面交流初创生态圈内的思想、人脉与机遇。\n\n届时将有 250 多位演讲嘉宾，在六大行业主舞台、圆桌会议和分组研讨中带来 200 多场专题分享，内容涵盖人工智能、机器人技术、金融科技、基础设施以及未来的工作模式，让你深入了解正在改变企业构建、融资与规模化扩张背后的驱动力。然而，其价值远不止于舞台之上。\n\n建立人脉连接。通过包括 AI 智能匹配、即兴交流以及面向投资人与创业者的“交易流咖啡厅”（Deal Flow Cafe）在内的社交网络，结识潜在的投资者、客户、合作伙伴、招聘人选及协作者。\n\n保持市场领先地位。聆听行业领袖如何应对围绕人工智能、竞争优势、融资、人才、市场推广（GTM）与规模化扩张等重大战略问题。\n\n在趋势显而易见之前见证未来。在展厅探索 300 多家初创企业和突破性成果，观看竞争激烈的 Startup Battlefield 200 创业路演大赛，并在所有分会场中发掘新兴技术。\n\n满载而归，带走立即可用的干货。从融资策略到市场拓展战术，再到 AI 时代构建具备护城河企业的洞见，Disrupt 围绕切实可行的策略打造，而不仅仅是宏泛的空谈。\n\n你想结识的人脉、需要聆听的见解以及不容错过的良机，都将于今年 10 月汇聚旧金山。\n\n欢迎于 10 月 13 日至 15 日前往旧金山，与 10,000 多名创业者、风投机构和科技运营者相聚。请在太平洋时间 9 月 25 日晚上 11:59 之前购票，在涨价前享受最高 200 美元的优惠。购买 4 人及以上的团体票还可额外再享 30% 优惠折扣。\n\n当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。\n\n预订展位的最后一天是 9 月 18 日。切勿错失在 Disrupt 展厅获取高价值销售线索、对接投资人并提升品牌知名度的绝佳机会。\n\nChatGPT 创造者推出的一种全新 AI 模型令开发者们兴奋不已\nOpenAI 发现其模型曾给后继模型留言以掩盖不良行为\n最新公开的未脱敏文件显示，微软高管称 AI 数据抓取是“人类历史上最大规模的劳动盗窃”\n清洁技术初创公司 Fluxnium 找到了一种开采可供使用 5 万年的核燃料的方法\nSalesforce 和英伟达联合推出的全新推理模型正是各大 AI 实验室应当畏惧的存在\n黄仁勋接听了特朗普的电话，并同时展示了另一项成果\nAI 基础设施公司 Cornelis 融资 2.05 亿美元，旨在逐步削弱英伟达的垄断地位",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 13,
+        "keyTakeaways": [
+          "TechCrunch Disrupt 2026 当前门票优惠价格将于太平洋时间9月25日晚上11点59分截止，在此之前购票最多可节省200美元。",
+          "TechCrunch Disrupt 2026 将于10月13日至15日在旧金山举行，预计汇聚超过10,000名创始人、投资者和科技领袖。",
+          "来源叙事重点：通过紧迫感营销（倒计时6天最高省200美元）与规模展示，推广 TechCrunch Disrupt 2026 线下峰会，突出其在 AI 时代的人脉拓展、融资对接与前沿技术洞察价值。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:41:08.000Z",
+            "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/"
+          }
+        ]
+      },
+      {
+        "id": "story-2-488d-8725-66177d6f9ea2-a8558e7f9cff5c04",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Germany’s Merz stands his ground but for how long?",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T20:58:21.000Z",
+        "pubTime": "2026-09-21 04:58",
+        "url": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb5f4288b-323b-4da9-9030-7e53710382f6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Lessons from elsewhere in Europe suggest once leaders become deeply unpopular, they almost never recover",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-21 04:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-20T20:58:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ses-in-england-and-wales-c828b28c467d8018",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Specialist courtrooms to prioritise rape cases in England and Wales",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:30:26.000Z",
+        "pubTime": "2026-09-21 05:30",
+        "url": "https://www.theguardian.com/society/2026/sep/20/specialist-courtrooms-to-prioritise-cases-in-england-and-wales",
+        "imageUrl": "https://i.guim.co.uk/img/media/6c463c6aa6acdd0ed4770333f103da83ac48276b/220_0_2471_1977/master/2471.jpg?width=140&quality=85&auto=format&fit=max&s=eeb0715b20854c648c234a109309b27e",
+        "fullContent": "Funding boost for facilities and fixed dates for trials designed to encourage more survivors to come forward\n\nSpecialist courtrooms prioritising cases of rape and other serious sex offences are to be introduced across England and Wales, with campaigners welcoming the move as potentially transformative.\n\nThe changes, designed to encourage more survivors to come forward, will include the provision of private entrances and waiting rooms, and facilities equipped for recording evidence in advance and observing sentencing remotely.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英格兰和威尔士将引入优先审理强奸及其他严重性犯罪案件的专门法庭。",
+          "相关改革措施旨在鼓励更多幸存者站出来发声，包括增加设施资金支持以及确定固定的审理日期。",
+          "来源叙事重点：聚焦司法系统针对性犯罪的体制机制改革，强调通过增设专门法庭、增加资金支持与优化被害人保护设施（如隐私入口、远程作证）来鼓励幸存者报案，并传达权益倡导团体对该政策变革潜力的积极评价。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:30:26.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/20/specialist-courtrooms-to-prioritise-cases-in-england-and-wales"
+          }
+        ]
+      },
+      {
+        "id": "story-rustaceans-big-sand-html-564c02569c468ace",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Tiny beach-dwelling crustaceans are big-time sand movers, shaping the California coast",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T20:20:01.000Z",
+        "pubTime": "2026-09-21 04:20",
+        "url": "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/tiny-beach-dwelling-cr.jpg",
+        "fullContent": "Stand on the damp sand on a California beach and chances are you're standing on top of an active earthworks site. Sand hoppers (Megalorchestia spp.), the tiny, shrimp-like creatures commonly found eating away at kelp on the shore, have been found to move massive amounts of sand, excavating up to 50 kg (110 pounds) of sand per meter (3.3 feet) of shoreline per day.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-21 04:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-tiny-beach-crustaceans-big-sand.html",
+            "publishedAt": "2026-09-20T20:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1-vybory-2119122999-html-2a79f900238bc218",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В ЦИК рассказали, что ЕР может получить конституционное большинство",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-20T22:25:58.000Z",
+        "pubTime": "2026-09-21 06:25",
+        "url": "https://ria.ru/20260921/vybory-2119122999.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07ea/09/14/2118904386_78:351:3095:2048_650x0_80_0_0_6a25ad975bf7b6538353977865282169.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 06:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/vybory-2119122999.html",
+            "publishedAt": "2026-09-20T22:25:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rce-we-can-force-them-to-467a58203a259994",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Nobody pays for FOSS, we can force them to",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:04:32.000Z",
+        "pubTime": "2026-09-21 05:04",
+        "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+        "imageUrl": null,
+        "fullContent": "The first time I thought it would be a good idea to write a blog post about the economics of open source was 2013, so this post has been in the works a while. The closest I got before today was 2022, when I wrote a stream-of-consciousness rant into my iOS notes that ended with basically \"nothing fucking works\". And then that sat there for 4 more years, because \"nothing works\" is too depressing to bother writing 5000 words about. Now, finally, I have an idea. It's gonna take 5000 words to get there, though, so if you don't have that kind of time, skip to the part about registries.\n\nI've written before about hawks and doves, which is a model from evolutionary biology. You have a population of animals competing for some resource. Some of them fight for it (hawks) and some of them share it (doves). A population that is all hawks is unstable: everybody's constantly getting hurt, and the first two doves to show up cooperate with each other and out-compete everyone. A population that is all doves is unstable too: the first hawk to show up competes with everybody and wins every time. What's stable is a mixture of both types, in proportions such that changing your behaviour doesn't help you, so nobody does. That mix is called an evolutionarily stable strategy, or ESS, and the important word is \"stable.\" It's not the best strategy (arguably that's all doves, where nobody gets hurt), it's just the one the population ends up at and can't leave. I find it a useful way of thinking about software, because software has hawks and doves too.\n\nClosed source is the hawk. It competes: it withholds the code, charges a premium for having something nobody else has, and fights to keep it that way. Open source is the dove. It cooperates: it gives the code away and takes the gains from everybody else giving theirs away too. The resource they're competing over is money, ultimately, though it shows up first as users and as developer attention.\n\nThe equilibrium we've landed on is very specific. The evolutionarily stable strategy for a piece of software is \"anybody may use this for anything, including commercially, for free.\" That's MIT, BSD, Apache, the licenses that ask for nothing. Every project that has tried to be a slightly less generous dove has lost to a project that stayed a full dove, and I can give you a lot of examples:\n\nNobody who has tried to charge for open source at the license level has held the line against a competently run fork, and I don't think that's because of ideology. The people running those companies would love to charge for their code, and most of the people forking it don't care much about freedom in the abstract. It's because of the structure of the market. Disruption, in the original sense, is when a much worse and much cheaper product takes over the bottom of the market, then gets gradually better until it's eaten the whole thing, and there's nothing to stop that process repeating until the product costs nothing at all. Software has been getting disrupted like this for as long as there has been software, and what you end up with is a market with two halves: an enormous cheap half that nearly everybody uses, and a much smaller expensive half that makes nearly all of the money. Android has the market share and iOS has the profits, and they are both gigantic successes depending on which number you're looking at. Free wins share and closed wins profit, and both of them win.\n\nSo far this is fine. Free software wins, closed software makes money, everybody has a niche. The problem is what the free layer looks like from the inside.\n\nSixty percent of open source maintainers are not paid for the work. That's from Tidelift's 2024 survey, and it's the same number they got in 2023, and the same number they got in 2021. Of the unpaid ones, 61% work alone. Nearly 60% of all maintainers have quit or thought about quitting, and the reasons they give are the ones you'd guess: they have a life, they lost interest, they burned out.\n\nThe amount of software those people are holding up is silly. Sonatype looked at 1.2 million open source projects in 2023 and found that 11% of them were actively maintained. The Linux Foundation's Census II found that 136 developers wrote more than 80% of the code in the fifty most-used packages. A Harvard study estimated that if open source disappeared, companies would have to spend $8.8 trillion to replace it, and found that 5% of developers produce 96% of that value. This is the JavaScript ecosystem's whole personality, for what it's worth: a huge number of tiny packages with one maintainer, or less than one, sitting at the bottom of the dependency trees of companies that have bet their businesses on them. I spent five years at npm watching this happen and it never stopped being alarming.\n\nThe example everybody uses now is xz. In 2024 it turned out that a compression library present in more or less every Linux machine on earth had a backdoor in it, inserted over two years by a fake contributor who had, very patiently, socially engineered the one unpaid person maintaining it into handing over the keys. The maintainer had said publicly that he was struggling and couldn't keep up, and rather than anybody funding him, somebody groomed him. The backdoor was caught by a Microsoft engineer who noticed SSH was taking half a second longer than it should, which is not the kind of defence you want to be relying on.\n\nNow, the popular way to tell this story is \"the system is breaking,\" and I don't think that's right, and the distinction matters. The system isn't breaking. It's stable, at a level of human cost we've collectively decided to put up with. A maintainer burns out, somebody else picks it up, they burn out, and so on. Serial near-burnout isn't a bug in the equilibrium, it is the equilibrium. Open source is very old, and if this was going to collapse it would have done so by now. This is a machine that runs on blood, and because it is the evolutionarily stable strategy, we have been powerless to change it.\n\nBut it feels like the problem is getting worse, doesn't it? If a stable system is producing worse outcomes than it used to, one of the inputs moved. The one that moved is speed.\n\nLinux accumulated slowly, so you could maintain a chunk of the kernel on nights and weekends for a decade, because nobody was waiting on you. Then the web happened, and then npm happened, and a million tiny modules appeared in about ten years, any one of which could become load-bearing for somebody's production system within weeks of being published. The software got important faster than any institution could notice it was important, never mind fund it. Meanwhile security got faster too: a bug in a popular library is now exploited within days and lands on tens of thousands of companies at once. So the cost of maintaining a popular package went up a lot, and the payoff for maintaining it stayed exactly where it was, which is zero dollars and a warm feeling.\n\nNights and weekends stopped being enough, and people kept doing it anyway, because they were always going to write the software. Developers write software the way singers sing, which is to say they'd do it if nobody was listening, and that isn't a problem to be fixed, it's the thing that makes the whole system work. Any proposed solution that involves developers writing less software, or writing less generously, is a non-starter with me. The problem isn't that people write software for free. It's that we've arranged things so the people who write the most useful software for free get a second unpaid job as a reward.\n\nThis is the depressing bit, and it's the bit I've been putting off for four years, so let's get through it quickly. Here is what we've tried:\n\nLook at what all of these have in common. They're all voluntary. Companies are asked to give, and some do, and most don't, and the ones that don't get exactly the same software as the ones that do. Charity doesn't scale, and nobody has the authority to issue a mandate. We have been asking companies to pay for open source for thirty years, and I think we can consider asking to be fully tested.\n\nHere's the thing that made me realize I'd been thinking about this wrong: companies already pay for open source, quite a lot of money in fact, they just don't pay it to maintainers.\n\nJFrog sells Artifactory, which is a private mirror that sits between your build servers and the public package registries. JFrog had $532 million in revenue in 2025, up 24%. Snyk, which scans your dependencies for vulnerabilities, is at about $326 million a year. Docker, which runs the registry every container image comes from, is at $207 million. Chainguard, which sells hardened versions of open source images, went from about $40 million to a target of $100 million in a year. Sonatype is private, but it both runs Maven Central, the registry every Java build pulls from, and sells Nexus, the mirror you put in front of it; by Sonatype's own numbers 86% of Maven Central's traffic comes from cloud providers, which is to say from companies. Add Sonar, which now owns Tidelift, and Socket, and the rest of the supply chain security market, and you're comfortably over a billion dollars a year.\n\nWhat is all that money for? Strip off the marketing and every one of these companies is selling the same thing, which is dependable supply of free code. Your builds don't break when the registry goes down. Your dependencies are cached, scanned, signed, and provably what they say they are. When the next Log4Shell happens you can find out in an hour which of your two thousand services is affected. That's a real product solving a real problem, and companies buy it enthusiastically, because \"the free thing we depend on might be broken or malicious and we can't tell\" is exactly the kind of problem a procurement department knows how to spend money on.\n\nI want to be clear that I don't think these companies are villains. Several of them are run by people I like. They're solving the actual problem, which is that companies need to be able to depend on code they didn't write and can't inspect. They're just solving it at the wrong layer. They sell insurance against the maintainer, when the maintainer is the one person in the chain who can actually make the code more secure, and she gets nothing while a company two layers up gets paid to tell you whether she did.\n\nThis changed my whole view of the problem. For years I assumed the constraint was the supply of money: companies simply would not pay for open source and no mechanism could make them, and Lorenc's story fits that. But the JFrog invoice says otherwise: companies will pay for open source, happily, when it shows up as a boring line item labelled \"supply chain.\" The supply of money was never the problem, the problem is where it gets captured on the way down.\n\nSo why doesn't the ESS apply here? If free always wins, why hasn't a free mirror eaten JFrog?\n\nBecause there are two games going on, and they have different winners. In the code game the resource is the software itself, and free wins every time, because anybody can copy code, so any attempt to charge for it invites a copy that doesn't. In the supply game the resource is not having to think about where the code comes from, and that game is won by whoever is the default.\n\nLook at the evidence. Nobody has ever successfully forked a registry. Free mirrors of npm, PyPI and Docker Hub exist, are trivial to run, and in some cases are one command away, and companies pay JFrog half a billion dollars a year regardless. Red Hat lost the desktop to Ubuntu, which was funded by a rich guy giving it away, and lost it decisively; the dove won the code game. Red Hat then sold to IBM for $34 billion and makes north of $6 billion a year selling companies supply of the same free code with a phone number attached. Anybody could have had the same code for free, and lots of them did, but a very large number of companies paid Red Hat anyway.\n\nDocker is the clearest example because it happened recently and in public. In November 2020 Docker Hub started rate-limiting anonymous and free pulls. In August 2021 Docker Desktop became a paid product for any company with more than 250 employees or $10 million in revenue, and stayed free for individuals, small companies and open source projects. If free always won, a free alternative should have eaten them, and Podman and containerd exist and are free and are perfectly fine. Instead Docker's revenue went from roughly $12 million in 2020 to over $50 million in 2021 to $207 million in 2024, with more than a million paid seats. (Docker also tried announcing per-pull consumption charges and then cancelled them in 2025 after developers rioted, which tells you exactly what shape of charge works: bill the company, not the download. Nobody wants a bill that goes up every time CI reruns.)\n\nFree wins the code game, but the supply game is won by whoever is the default, and defaults can charge. The registries are the one place in the whole system where the two games touch, because they are where free code turns into supply, and unlike a license, a registry can't be routed around by copying, because it's not a legal restriction, it's an extremely convenient piece of infrastructure. They don't want to route around it; routing around it is a pain in the ass worth paying to avoid.\n\nAt this point somebody is going to say \"hasn't this been tried?\", and the answer is sort of, and the ways it failed are instructive. I'm going to define \"the registry layer\" narrowly: whoever owns the domain that everybody is downloading stuff from. By that definition almost nothing on this list counts.\n\nIn August 2019 Feross Aboukhadijeh, who maintained a hundred-odd npm packages including Standard, started printing sponsor messages in the terminal during npm install. Developers hated it, the sponsors backed out within days, and Feross wrote it up as a failed experiment. npm's response was to ban terminal ads in its terms of service and ship npm fund, which prints a list of donation links. That's the one time the actual registry has intervened in funding, and what it did was take away a way of getting money and replace it with a hyperlink. That is some weak tea. In my time at npm we never had the courage to try anything more extreme, and we should have.\n\nFlossbank, from 2020 to 2022, wrapped npm and yarn, collected small donations or ad revenue, and split it across the whole dependency tree of whatever you installed. That is the payout half of what I'm about to propose, built and working. It shut down, and the founder's post-mortem is honest about why: it was opt-in, and opt-in dies of \"why should I pay if the next guy doesn't.\" Flossbank also wasn't the registry, it was a thing you installed in front of the registry, which is enough friction that nobody bothers.\n\nRuby Together, from 2015 to 2022, collected membership fees from companies to fund work on RubyGems and Bundler. It worked, modestly, until it merged into Ruby Central, whose dependence on one big sponsor then produced the 2025 takeover of the RubyGems repositories, a bunch of resignations, and a depleted team facing the worst attack on a registry in years the following spring. That was funding for the registry's own operations, not for the packages in it, and it was voluntary, and it had one big donor, which is three separate ways to fail.\n\nSo the pattern is: everything voluntary died of free riding, and the one thing that wasn't voluntary (Docker) worked and kept the money for itself. Nobody who owns the domain has ever charged companies for supply and paid the people who make the supply worth having.\n\nSo here's the proposal. There are three parts, none of them new; what's new is putting them in the same place.\n\nFirst, the registries meter corporate use and charge for it. They already meter it. npm, PyPI, Docker Hub and Maven Central all have rate limits, authentication and enterprise tiers, and the mirror vendors that sit in front of them bill by the seat. Docker's rule is the right rule: individuals, small teams, students and open source projects pay nothing and notice nothing. A company above some size gets a subscription, priced the way a JFrog or Docker subscription is priced today, which is to say at a level procurement signs without scheduling a meeting. For most of these companies it isn't even a new cost, because they're already paying it; the invoice just gets a new line.\n\nSecond, a fixed slice of that revenue is a royalty, and it goes to the packages. Not to the registry, not to a foundation, not to a grants committee with an application form. Pro rata, to every package that shows up in the paying customer's dependency trees, weighted by how many paying customers depend on it, automatically, every month, with no ceremony and no thank-you email, because the whole point is that nobody has to do anything for the money to move. My 2022 notes have a line about this that I'll leave unedited: \"The money has to go in one end and out the other. You don't have to use crypto to do this, that would be bad, just use a database.\" The payout half is not hard. thanks.dev does pro rata distribution over dependency trees today, and Flossbank did it in 2020. Nobody's ever connected it to the collection half.\n\nThird, the people who do this are the people who own the domains. There are about a dozen registries that matter. Every maintainer already has an account on the one they care about, with a name attached and a way to get paid either present or one form field away. The billing side is finite: a few thousand large companies, most of whom are already customers of somebody in the supply chain. The two hardest problems in every previous attempt, finding the payers and finding the payees, are already solved, and they're solved by the same database.\n\nIsaac Schlueter, who created npm, has argued that we should stop charging for support and start charging for access: if you're a fo",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 35,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "根据Tidelift在2024年的调查，60%的开源维护者从事这项工作没有报酬，与2023年和2021年的调查比例相同；在无偿维护者中，61%独自工作；近60%的维护者曾离职或考虑过离职。",
+          "Sonatype在2023年调研了120万个开源项目，发现其中仅11%处于积极维护状态。",
+          "来源叙事重点：从博弈论和商业供应链视角，论证开源软件生态并非缺乏企业资金，而是陷入了‘企业宁可花费数十亿美元购买中介层供应链安全工具，也不向底层核心维护者付费’的结构性错配，并主张必须寻找强制性机制打破当前的免费搭便车均衡。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:04:32.000Z",
+            "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/"
+          }
+        ]
+      },
+      {
+        "id": "story-mand-to-record-high-html-027ccce3e85e6725",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hormuz Crisis to Push Global Coal Demand to Record High",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T19:00:00.000Z",
+        "pubTime": "2026-09-21 03:00",
+        "url": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
+        "imageUrl": null,
+        "fullContent": "The International Energy Agency expects coal demand to increase this year in response to ongoing oil and gas trade constraints stemming from the closure of the Strait of Hormuz. Several countries have been forced to turn back to coal to fill the gap, as oil inventories are depleted and countries gradually expand their renewable energy capacity. In its mid-year update, the IEA predicted that coal use would likely increase in some regions of the world owing to higher natural gas prices in 2026. The conflict in the Middle East and ongoing restrictions on trade via the Strait of Hormuz maritime trade corridor have driven up prices in recent months. This has led to severe global energy disruptions, pushing oil and gas prices higher. The massive reduction in LNG shipments through the Strait of Hormuz has led some countries to face energy shortages, requiring them to turn to other energy sources. Japan, India, Bangladesh, the Philippines, South Korea, Thailand, Taiwan, China, and some European countries have been forced to increase their coal use to fill the gap. In addition, some countries are not only turning to coal for power; China's coal consumption for chemical product production has also increased in recent months due to high oil prices. Coal consumption may increase further in some regions of the world in the coming months if a particularly strong El Nio weather pattern occurs, as predicted. Higher-than-normal temperatures and lower hydropower output could drive up power demand across Asia, in large markets such as India and Vietnam. Global coal production matched a record high in 2025 but is expected to decrease slightly year over year in 2026. Despite that, the IEA expects demand for the energy commodity to rise by 1.2 per cent in 2026, bringing the world's consumption to a record 8.94 billion metric tonnes. Coal demand by the world's two biggest coal consumers, China and India, is expected to rise by 1 per cent and 4.2 per cent respectively, to 5 billion tonnes and 1.353 billion tonnes. The outlook for 2027 is murkier given the unpredictability of trade in the Strait of Hormuz. If LNG flows recover next year, it could drive natural gas prices down, spurring a shift in gas and coal use. However, global demand will likely increase if energy trade remains restricted. \"Although shipping disruptions in the Strait of Hormuz do not directly affect coal markets\" and virtually no coal shipments pass through the Strait of Hormuz, \"tighter natural gas supply has pushed up prices, prompting some electricity systems to switch from gas to coal,\" the IEA stated. News of increased coal use is concerning, given that the United Nations UN has, for the first time, acknowledged that the world is set to overshoot its target of limiting global warming to 1.5C above pre-industrial levels. As part of efforts to support a global green transition and uphold climate pledges, diplomats from almost every country agreed to \"phase down\" global coal consumption at the 2021 COP26 climate summit in Glasgow. However, since the signing of the agreement, several countries have continued to rely on coal burning to meet rising electricity demand. While many countries are investing heavily in accelerating the development of their renewable energy sectors, it is expected to take several years to eliminate the need for fossil fuels for power in most countries. In March, Italy announced plans to postpone the shutdown of its coal-fired power plants for all of 13 years. Germany has also announced it is considering restarting some of its coal plants to meet the country's energy demand. In March, Chancellor Friedrich Merz stated, \"We must supply this country with electricity. I am not prepared to jeopardise the core of our industry simply because we have adopted phase-out plans that have become unrealistic.\" Somewhat surprisingly, given President Trump's aim to revive the ageing coal sector, coal consumption in the United States is expected to fall by around 7 per cent this year, following an unexpected jump last year. The United States has been largely sheltered from the global gas disruption thanks to its abundant, cheap domestic natural gas. Vast quantities of U.S. solar and wind energy have also come online this year, following years of accelerated development, further reducing the need for coal. Nevertheless, the United States made a significant contribution to the increase in global emissions in 2025. According to the Energy Institute, global energy-related carbon dioxide emissions rose by 1.1 per cent to 35.806 billion tonnes, with the United States accounting for about 13.3 per cent of the increase in direct energy-related CO2 emissions. Under a broader measure that also includes methane and flaring emissions, the United States accounted for roughly a third of the global increase. This demonstrates just how detrimental an increase in coal consumption can be for global emissions, with coal-related emissions expected to climb significantly this year in line with higher consumption. By Felicity Bradstock for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "国际能源署（IEA）预计2026年全球煤炭需求将增长1.2%，达到创纪录的89.4亿公吨。",
+          "预计2026年中国煤炭需求将增长1%至50亿吨，印度煤炭需求将增长4.2%至13.53亿吨。",
+          "来源叙事重点：聚焦霍尔木兹海峡危机引发的油气供应中断与价格飙升，阐述亚欧多国因能源保供被迫转回使用煤炭，进而推动2026年全球煤炭需求与碳排放创历史新高，凸显地缘冲突对全球绿色能源转型的直接冲击。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T19:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html"
+          }
+        ]
+      },
+      {
+        "id": "story-blog-260803-c4063dec7d9ea3c1",
+        "title": "确定性核心，非确定性外壳",
+        "originalTitle": "Deterministic Core, Non-Deterministic Shell",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:13:51.000Z",
+        "pubTime": "2026-09-21 05:13",
+        "url": "https://outdata.net/blog/260803",
+        "imageUrl": null,
+        "fullContent": "Fourteen years ago, Gary Bernhardt coined the term Functional Core, Imperative Shell . Like most good ideas in computing it was not entirely new, but his conception had great clarity, and it forms an excellent basis for talking about testing and determinism in existing systems.\n\nBriefly, Functional Core/Imperative Shell architecture divides the code into two parts. The Functional Core is purely functional - that is no IO, and no destructive state updates. It is concerned with the business logic of the application. The Imperative Shell has comparatively little pathing, but maintains state, coordinates external dependencies, and deals with the outside world - that is to say IO. Its job is to query the core with values, receive values back as the result of some blackbox decision, and use that to interact with the outside world; whether that's writing to a database, sending a request, or updating a GUI.\n\nThe Shell and the Core in this model have distinct characteristics:\n\nThis makes the core very amenable to testing. Since it's purely functional, the same inputs will always get the same results. Since it's isolated, there is nothing to mock or stub. And since it handles complex business logic, the tests can tell us a lot about how the system behaves.\n\nA shorter way of describing the properties that make pure functions amenable to testing is that they are deterministic. That is - given a stream of inputs, a pure function always returns the same stream of outputs; their behaviour is repeatable. But pure functional programming is not the only way to get there. If we tilt our heads a little we can see that a stream of values and a sequence of assignments are different ways of expressing the same thing, and State Machines can bring us the same benefits. Consider the following code:\n\nThe function add is easy to reason about; it's pure and thus deterministic. But the AddMachine is also deterministic - given the same sequence of calls to the transition function, AddMachine will return the same state. It being imperative does not change that.\n\nPure functional programming is a fine paradigm, but due to language or performance considerations, it is not always practical - I would not want to try it in C! But weakening the requirements from purely functional to merely deterministic, we retain the testability benefits of \"Functional Core, Imperative Shell\", while broadening its applicability. And so the title of this post: Deterministic Core, Non-Deterministic Shell.\n\nDeterminism can feel like a more abstract concept than functional purity. How do you know it when you see it? I find it's easier to start with what is not deterministic and work backwards. Here are some common examples of non-repeatable behaviour:\n\nAll these belong in the non-deterministic shell. Whenever you find them in your business logic, you have a natural target for defragmentation - either splitting the function in two around them, or lifting them up a layer and injecting their result as a parameter. It's illustrative to think of the \"shell\" metaphor quite literally; it should surround the logic, querying the heart of the application to get what it needs.\n\n\"This is all well and good\", you might think, \"but what use of it is to me, toiling away in the legacy & vibe-code mines of industry?\". A fair accusation, imaginary reader; not everyone can be Foundation DB and make that distinction from day one (they actually went a step further, but that's a topic for another post). Determinism and non-determinism are highly entwined in almost every real life codebase I have seen, and I've seen my fair share.\n\nBut don't let perfect be the enemy of good! One way to think of your average (ie, terrible) codebase is that it has many deterministic cores. There are thousands, strewn through the slop as stars in the sky. The glass half empty take is these codebases are an irredeemable legacy mess. But glass half full is that there are many deterministic cores hidden somewhere inside, and maybe only a handful.\n\nUsers of older Windows systems may remember the \"Disk Defragmenter\"; it took files whose contents were scattered physically across the spinning hard disk and made them contiguous. In an era where read speed depended on physical distance on the media, this mattered a lot.\n\nSo one gradual approach for existing code is to practice the Defragmentation of Determinism. Identify it wherever you can - files, classes, even a few lines in individual functions - and start collecting them. The more determinism that can be grouped, the more easily testable functionality you have, and the more you can feel confident about the behaviour and reliability of the program as a whole. The surface area for \"hard to test\" (non-deterministic code) starts to shrink. On a large enough codebase you will likely never get to a single deterministic core, but even hundreds is better than thousands.\n\nEvery nasty mess of a codebase I've seen has one or more much nicer deterministic state machines locked inside. I promise you they are there, even if it's not obvious. And once you find them, you'll be delighted with how much easier the software is to modify and test. Piece by piece, reliability can be wrought.",
+        "fullTranslation": "十四年前，加里·伯恩哈特（Gary Bernhardt）提出了“函数式核心，命令式外壳”（Functional Core, Imperative Shell）这一概念。就像计算机领域大多数优秀思想一样，它并非全新之物，但他的构想极其清晰，为探讨现有系统中的测试与确定性打下了绝佳的基础。\n\n简而言之，“函数式核心/命令式外壳”架构将代码分为两部分。函数式核心是纯函数的——也就是说没有输入输出（I/O），也没有破坏性的状态更新。它专注于应用程序的业务逻辑。命令式外壳包含的分支路径相对较少，但负责维护状态、协调外部依赖并与外部世界交互——也就是进行 I/O。它的职责是以输入值调用核心，接收黑盒决策结果所返回的值，并利用这些值与外部世界互动；无论是写入数据库、发送网络请求，还是更新图形用户界面（GUI）。\n\n在这种模型中，外壳和核心具有截然不同的特征：\n\n这使得核心非常易于测试。由于它是纯函数的，相同的输入将始终获得相同的结果。由于它是隔离的，不需要进行任何模拟（mock）或存根（stub）。而且由于它处理的是复杂的业务逻辑，测试能够让我们深入了解系统的具体行为。\n\n用一种更简短的方式来描述让纯函数易于测试的特性，那就是它们具有“确定性”（deterministic）。也就是说——给定一系列输入流，纯函数始终返回相同的输出流；它们的行为是可重复的。但纯函数式编程并不是实现这一目标的唯一途径。如果我们换个角度思考，就会发现值流与一系列赋值语句不过是同一事物的不同表达方式，而状态机同样可以为我们带来相同的好处。试看以下代码：\n\n函数 add 很容易推导理解；它是纯函数，因此具有确定性。但 AddMachine 同样具有确定性——给定对状态转移函数的相同调用序列，AddMachine 将返回相同的状态。它是命令式的这一事实并不会改变这一点。\n\n纯函数式编程是一种优秀的范式，但出于语言或性能方面的考虑，它并不总是切实可行的——我可不想在 C 语言里尝试它！但如果我们将要求从“纯函数式”放宽至仅仅具备“确定性”，我们就能在保留“函数式核心，命令式外壳”可测试性优势的同时，拓宽其适用范围。因此便有了本文的标题：确定性核心，非确定性外壳。\n\n相比函数纯度，确定性可能感觉是一个更抽象的概念。你如何一眼识别出它？我发现从“什么不是确定性的”入手反向推导会更容易。以下是非重复行为的一些常见例子：\n\n所有这些都属于非确定性外壳。只要你在业务逻辑中发现了它们，你就找到了进行整理重构的绝佳切入点——要么围绕它们将函数拆分为两部分，要么将它们提升一层并将它们的结果作为参数注入。形象地将“外壳”这个隐喻从字面意义上去理解会很有启发；它应当包裹在业务逻辑周围，通过向应用程序的核心发起调用来获取所需内容。\n\n你可能会想：“这一切听起来都很棒，但对于像我这样在工业界遗留代码和凭借直觉乱堆的代码堆里苦苦挣扎的人来说，这有什么用呢？”虚构的读者朋友，这是一个合情合理的质问；并不是每个人都能成为 FoundationDB，并从第一天起就划清这种界限（他们实际上走得更远，不过那是另一篇文章的主题了）。在我见过的几乎每一个现实代码库中，确定性与非确定性都高度交织在一起，而我见过的代码库可不算少。\n\n但不要让完美成为优秀的敌人！理解你手头普通（即糟糕）代码库的一种方式是，把它看作拥有许多确定性核心。成千上万个核心散落在这堆乱码中，犹如夜空中的繁星。悲观的角度看，这些代码库是不可救药的遗留烂摊子；但乐观的角度看，里面隐藏着许多确定性核心，也许整理出来只有少数几个模块。\n\n老一代 Windows 系统的用户可能还记得“磁盘碎片整理程序”；它把物理上散布在旋转硬盘各处的文件内容重新排布为连续空间。在那个读取速度取决于介质上物理距离的时代，这一点至关重要。\n\n因此，处理现有代码的一种渐进式方法就是实践“确定性的碎片整理”。尽可能去识别确定性——文件、类、甚至是单个函数中的几行代码——并开始将它们收集归拢。能够聚集的确定性越多，你拥有的易于测试的功能就越多，你就对整个程序的行为和可靠性更有信心。“难以测试”（即非确定性代码）的暴露面开始缩小。在足够庞大的代码库中，你可能永远无法归结为一个单一的确定性核心，但哪怕整理成几百个，也远比散落成千上万处要好。\n\n我见过的每一个乱作一团的代码库里，都深锁着一个或多个极其优雅的确定性状态机。我向你保证它们确实存在，哪怕并不显眼。一旦你找到了它们，你会惊叹于软件的修改和测试变得如此轻松。一点一滴，可靠性自能筑就。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "Gary Bernhardt在14年前提出了术语“Functional Core, Imperative Shell（函数式核心，命令式外壳）”。",
+          "Functional Core/Imperative Shell 架构将代码划分为无I/O、无破坏性状态更新的纯函数式核心，以及负责协调外部依赖和处理I/O的命令式外壳两部分。",
+          "来源叙事重点：主张将 Gary Bernhardt 的“函数式核心/命令式外壳”泛化为“确定性核心/非确定性外壳”，强调通过确定性状态机降低纯函数门槛，并倡导采用“确定性碎片整理”策略对工业界遗留代码进行渐进式重构。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T21:13:51.000Z",
+            "url": "https://outdata.net/blog/260803"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789909700839,
     "timeDisplay": "2026-09-20 21:08 (UTC+8)",
     "date": "2026-09-20",
