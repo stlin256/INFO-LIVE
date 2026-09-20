@@ -31,14 +31,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **54** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **55** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-20 15:50 (UTC+8)
+- **最新归档时间**：2026-09-20 21:08 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-20 21:08 (UTC+8)" title="全球要闻情报简报 · 21:08" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-20 21:05 (UTC+8) 完成，共获得 34 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】A24的声誉因《SCP基金会》电影面临严峻考验：该话题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看所有娱乐内容 该公司正对一部必须在知识共享许可协议（Creative Commons license）下发行的电影主张“全球版权”。 来自该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看特伦斯·奥布莱恩（Terrence O'Brien）的所有文章；外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】每日天文一图：2026年9月20日 – 卡拉尼什巨石阵上空的日行迹：每日天文一图：2026年9月20日 –…… 每日天文一图（Astronomy Picture of the Day） 探索宇宙！每天都会展示一张反映我们迷人宇宙的不同影像或照片，并由专业天文学家撰写简短说明。；【undefined】“太糟糕了”：关税、燃料成本飙升与利率上升如何挤压美国企业：航班减少、票价上涨。货运附加费。制造商囤积库存。甚至是破产。 对大大小小的美国企业而言，唐纳德·特朗普总统贸易政策下征收的关税、伊朗战争引发的燃料价格飙升，以及如今不断上升的利率，三者交织在一起，正迫使高管们做出艰难抉择。 艾伦·埃登（Allen Eden）一直在为其位于艾奥瓦州布里特的25人企业“原力锯业公司”（Original Saw Co.）保留额外库存。该企业生产用于木工和金属加工的工业动力电锯，目前他正在应对铝、钢以及关键零部；【undefined】美国对狂犬病的担忧加剧——但目前尚不清楚这种致命疾病是否真正有所增加：北卡罗来纳州一家宠物动物园内患有狂犬病的山羊，以及马里兰州一只患病海狸袭击男孩的事件，让公众神经紧绷。；【undefined】达吉斯坦选举投票率超过80%：俄罗斯正迎来国家杜马选举的最后一天。；【undefined】FanDuel优惠码：小马对阵酋长赛前可获350美元红利投注金：想在周日橄榄球观赛之夜的尾声也参与一点博彩激情吗？FanDuel体育博彩（FanDuel Sportsbook）为新用户提供了一个机会：在小马队对阵酋长队的周日夜赛中下注，即有机会获得350美元的红利投注金。；【undefined】Caesars体育博彩促销代码FOXNEWSDYW为小马对阵酋长比赛提供10次投注奖金翻倍优惠：周日橄榄球之夜（Sunday Night Football）几乎总是整个赛程中最精彩的一场对决。对于黄金时段上演的小马对阵酋长这场较量，你或许并不算十分青睐，但你一定会喜欢Caesars Sportsbook推出的这项优惠：使用促销代码FOXNEWSDYW即可在10次投注中获得奖金翻倍。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/pamfilova-2118986525.html) <span class="news-meta-time">🕒 2026-09-20 21:04</span>
+- [The Verge (前沿数码科技)] [A24的声誉因《SCP基金会》电影面临严峻考验](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license) <span class="news-meta-time">🕒 2026-09-20 20:45</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-20 21:00</span>
+- [Lobste.rs (极客思想社区)] [Notion 如何借助 CRDT 处理并发编辑](https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts) <span class="news-meta-time">🕒 2026-09-20 20:06</span>
+- [NASA News (深空探索与航天)] [每日天文一图：2026年9月20日 – 卡拉尼什巨石阵上空的日行迹](https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/) <span class="news-meta-time">🕒 2026-09-20 12:05</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/reyndzhers-2118986398.html) <span class="news-meta-time">🕒 2026-09-20 21:03</span>
+:::
 :::timeline-item{start="2026-09-20 15:50 (UTC+8)" title="全球要闻情报简报 · 15:50" org="ARCHIVE"}
 **速报纪要：** 截至当前监控节点，抓取的外文信源正在进行转译与信息提取处理，暂无可供验证的实质事实细节更新。
 
@@ -629,11 +642,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [更优秀的AI代码注释检测器](https://entropicthoughts.com/better-ai-comment-classifier) <span class="news-meta-time">🕒 09-10 02:27</span>
 - [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
 - [RIA Novosti (俄新社官方俄文)] [别尔哥罗德一名物流师因为恐怖主义辩护被判刑](https://ria.ru/20260909/sud-2116684404.html) <span class="news-meta-time">🕒 09-10 02:46</span>
-:::
-:::timeline-item{start="实时" title="全球要闻情报简报 · 实时" org="ARCHIVE"}
-**速报纪要：** 本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。
-
-**关键信号：** 克宫与美方特使就阿布扎比三方会谈释放密集测试信号，欧洲因乌财政赤字危机陷入援助审计内讧；Anthropic核心资深研究人员公开请辞抗议超智能失控风险，AI治理与代理人安全从学术争议进入立法深水区；喀拉喀托之子火山强烈喷发重创东南亚跨国航线，极端气候与地质事件对全球供应链形成系统性倒逼
-
 :::
 ::::
