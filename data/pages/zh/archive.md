@@ -31,14 +31,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **53** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **54** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-20 09:22 (UTC+8)
+- **最新归档时间**：2026-09-20 15:50 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-20 15:50 (UTC+8)" title="全球要闻情报简报 · 15:50" org="ARCHIVE"}
+**速报纪要：** 截至当前监控节点，抓取的外文信源正在进行转译与信息提取处理，暂无可供验证的实质事实细节更新。
+
+**关键信号：** 信源数据正在排队处理中，内容详情暂缺；当前周期内未捕获到已完成核实的事实实体与引用论据
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/vybory-2118891815.html) <span class="news-meta-time">🕒 2026-09-20 15:46</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.dropbox.com/terms2026) <span class="news-meta-time">🕒 2026-09-20 14:42</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-20 15:00</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/20/thousands-of-pregnant-women-in-england-are-reporting-domestic-abuse-midwives-are-struggling-to-cope) <span class="news-meta-time">🕒 2026-09-20 14:00</span>
+- [NASA News (深空探索与航天)] [每日天文一图：2026年9月20日 – 卡拉尼什巨石阵上空的日行迹](https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/) <span class="news-meta-time">🕒 2026-09-20 12:05</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260920/pamfilova--2118891677.html) <span class="news-meta-time">🕒 2026-09-20 15:46</span>
+:::
 :::timeline-item{start="2026-09-20 09:22 (UTC+8)" title="全球要闻情报简报 · 09:22" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-20 09:18 (UTC+8) 完成，共获得 24 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -616,12 +629,6 @@ notice:
 - [Lobste.rs (极客思想社区)] [更优秀的AI代码注释检测器](https://entropicthoughts.com/better-ai-comment-classifier) <span class="news-meta-time">🕒 09-10 02:27</span>
 - [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
 - [RIA Novosti (俄新社官方俄文)] [别尔哥罗德一名物流师因为恐怖主义辩护被判刑](https://ria.ru/20260909/sud-2116684404.html) <span class="news-meta-time">🕒 09-10 02:46</span>
-:::
-:::timeline-item{start="实时" title="全球要闻情报简报 · 实时" org="ARCHIVE"}
-**速报纪要：** 本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。
-
-**关键信号：** 克宫与美方特使就阿布扎比三方会谈释放密集测试信号，欧洲因乌财政赤字危机陷入援助审计内讧；Anthropic核心资深研究人员公开请辞抗议超智能失控风险，AI治理与代理人安全从学术争议进入立法深水区；喀拉喀托之子火山强烈喷发重创东南亚跨国航线，极端气候与地质事件对全球供应链形成系统性倒逼
-
 :::
 :::timeline-item{start="实时" title="全球要闻情报简报 · 实时" org="ARCHIVE"}
 **速报纪要：** 本小时多源全景监控网络全速运转。大国高层秘密穿梭接触、前沿大模型安全失控风险、红海与波斯湾能源走廊外溢风险、以及东南亚重大地质灾害呈现高频共振态势。东西方及全球南方媒体在不同叙事定调下展开密集舆论攻防。
