@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-21 · 今日](/INFO-LIVE/archive-2026-09-21/)
+- [2026-09-22 · 今日](/INFO-LIVE/archive-2026-09-22/)
+- [2026-09-21 · 历史快照](/INFO-LIVE/archive-2026-09-21/)
 - [2026-09-20 · 历史快照](/INFO-LIVE/archive-2026-09-20/)
 - [2026-09-19 · 历史快照](/INFO-LIVE/archive-2026-09-19/)
 - [2026-09-18 · 历史快照](/INFO-LIVE/archive-2026-09-18/)
@@ -32,14 +33,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **57** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **58** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-21 09:15 (UTC+8)
+- **最新归档时间**：2026-09-22 07:28 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-22 07:28 (UTC+8)" title="全球要闻情报简报 · 07:28" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-22 07:22 (UTC+8) 完成，共获得 24 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】亚马逊欲助力科罗拉多河保护，但外界对其真实用水量仍所知甚少：该主题的相关文章将添加到您的每日电子邮件文摘和主页动态中。 随着数据中心对水资源需求激增，科罗拉多河正面临“前所未有”的干旱。 该作者发布的内容将添加到您的每日电子邮件文摘和主页动态中。 查看贾斯汀·卡尔马（Justine Calma）的所有文章；【undefined】清澈湖泊中发现的蓝藻毒性潜力微弱：文 / 毕格罗海洋科学实验室（Bigelow Laboratory for Ocean Sciences） 编辑 / 罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与准则完成审核。编辑在确保内容可信度的同时，重点强调了以下特征：；【undefined】是间谍标记，而非水印：用于监视用户的水印绝非普通的水印。 “水印”正在经历一种隐蔽的新演变，我们不妨称之为——间谍标记（spymark）。；【undefined】研究发现：世界杯观众每7秒就接触一次垃圾食品、酒精和博彩品牌营销：布里斯托大学供稿 编辑：萨迪·哈利（Sadie Harley），审校：安德鲁·齐宁（Andrew Zinin） 本文已根据 Science X 的编辑流程和方针进行审核。编辑在确保内容可信度的同时强调了以下属性：；【undefined】普卡·纳库阿正式缺席“周一橄榄球之夜”，公羊队进攻端遭遇重创：洛杉矶公羊队外接手普卡·纳库阿（Puka Nacua）正式确认缺席今晚在SoFi体育场对阵纽约巨人队的“周一橄榄球之夜”比赛。；【undefined】巴西：Quaest/Globo民调显示弗拉维奥·博索纳罗在决选中领先卢拉：在定于10月25日举行的巴西总统选举潜在第二轮决选中，自由党（PL）候选人弗拉维奥·博索纳罗（Flávio Bolsonaro）以42%对41%领先劳工党（PT）的路易斯·伊纳西奥·卢拉·达席尔瓦（Luiz Inácio Lula da Silva）一个百分点。这是今日发布的一项Quaest民调所显示的结果。该差距落在两个百分点的误差范围之内，因此属于技术性平局。在定于10月4日举行的第一轮投票中，卢拉支持率为37%，上升了一个百分点；；【undefined】受台风影响 日本关东地区发生山体滑坡已致2死4失联：中新网9月22日电 据日本共同社等日媒22日报道，今年第25号台风“杜鹃”逼近日本，日本关东地区21日遭遇强降雨，发生多起山体滑坡，已致2人死亡，4人失联。；【undefined】小号发生故障，小号手杰西·麦圭尔博士在大联盟难忘时刻高唱国歌：曾作为亚利桑那响尾蛇队2001年世界大赛夺冠征程中的“吉祥物”，小号手杰西·麦圭尔博士（Dr. Jesse McGuire）再次为这支美国职业棒球大联盟（MLB）球队演奏国歌，以纪念那次秋季经典赛夺冠25周年。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/britanija-2119400489.html) <span class="news-meta-time">🕒 2026-09-22 07:17</span>
+- [The Verge (前沿数码科技)] [亚马逊欲助力科罗拉多河保护，但外界对其真实用水量仍所知甚少](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river) <span class="news-meta-time">🕒 2026-09-22 07:15</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Crude-Oil/New-US-Sanctions-Law-Threatens-Indias-Huge-Russian-Oil-Trade.html) <span class="news-meta-time">🕒 2026-09-22 07:00</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/22/england-affluent-areas-young-people-adhd-autism-pip-claims) <span class="news-meta-time">🕒 2026-09-22 07:01</span>
+- [Phys.org (基础物理与技术前沿)] [清澈湖泊中发现的蓝藻毒性潜力微弱](https://phys.org/news/2026-09-cyanobacterium-lakes-toxic-potential.html) <span class="news-meta-time">🕒 2026-09-22 07:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/krivoy-rog-2119400334.html) <span class="news-meta-time">🕒 2026-09-22 07:15</span>
+:::
 :::timeline-item{start="2026-09-21 09:15 (UTC+8)" title="全球要闻情报简报 · 09:15" org="ARCHIVE"}
 **速报纪要：** 本小时内，全球外交、区域政治、地缘安全与金融市场出现多项动态。法国与加拿大领导人在圣皮埃尔和密克隆会晤，承诺加强双边联系以应对地缘局势及贸易摩擦；澳大利亚国内围绕燃油消费税削减与生活成本压力展开政党辩论；俄罗斯官方对乌克兰针对领空及无人机使用的言论作出回应；日本金融市场方面，日元兑美元跌破157关口，日经225指数上涨。
 
@@ -634,16 +648,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours) <span class="news-meta-time">🕒 2026-09-10 07:01</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-trapdoor-spiders-leg-science.html) <span class="news-meta-time">🕒 2026-09-10 09:20</span>
 - [FOX News Latest (美国FOX快讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.foxnews.com/outkick-sports/bryce-underwood-addresses-kyle-whittingham-comments-remaining-starting-qb-michigan) <span class="news-meta-time">🕒 2026-09-10 09:25</span>
-:::
-:::timeline-item{start="2026-09-10 04:20 (UTC+8)" title="全球要闻情报简报 · 04:20" org="ARCHIVE"}
-**速报纪要：** 全球多源监控全景简报。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [奔萨和萨拉托夫机场实施临时限制措施](https://ria.ru/20260909/ogranicheniya-2116693702.html) <span class="news-meta-time">🕒 09-10 04:18</span>
-- [TechCrunch (硅谷创业与资本)] [苹果秋季 iPhone 发布会汇总：从折叠屏 iPhone Duo 到全时监听 Apple Watch](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/) <span class="news-meta-time">🕒 09-10 04:03</span>
-- [OilPrice (全球能源与原油大宗)] [美国政府将目光投向委内瑞拉关键矿产](https://oilprice.com/Energy/Energy-General/US-Administration-Eyes-Venezuelas-Critical-Minerals.html) <span class="news-meta-time">🕒 09-10 04:00</span>
-- [Lobste.rs (极客思想社区)] [更优的 AI 代码注释检测器](https://entropicthoughts.com/better-ai-comment-classifier) <span class="news-meta-time">🕒 09-10 02:27</span>
-- [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
-- [RIA Novosti (俄新社官方俄文)] [多利娜就法院追缴1.14亿卢布的判决发表评论](https://ria.ru/20260909/dolina-2116693543.html) <span class="news-meta-time">🕒 09-10 04:16</span>
 :::
 ::::

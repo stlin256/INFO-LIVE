@@ -16,293 +16,48 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-bytedtsinghua-sia-dapo-966ba72f961355d2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1369" data-content-paragraphs="21" data-published-at="2026-09-20T23:19:04.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 07:19</span>
-</div>
-
-### [DAPO：来自字节跳动Seed与清华大学AIR的开源强化学习系统](https://github.com/BytedTsinghua-SIA/DAPO)
-<div class="original-title-sub"><span class="orig-tag">原文</span> DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR</div>
-
-<div class="article-body" data-article-body="true"><p>我们发布了一个完全开源的大规模大语言模型（LLM）强化学习（RL）系统，涵盖算法、代码基础设施以及数据集。该系统实现了最先进的大规模 LLM 强化学习性能。我们提出了“解耦截断与动态采样策略优化”（Decoupled Clip and Dynamic sAmpling Policy Optimization，简称 DAPO）算法。通过开源，我们为更广泛的研究界与社会提供了获取可扩展强化学习的切实途径，让所有人都能从这些进展中受益。我们的系统基于优秀的 verl 框架构建。感谢他们的出色工作！</p>
-<p>🤗 如果您对我们的论文有任何疑问，欢迎提交 Issue，我们可以在那里进行讨论。谢谢！</p>
-<p>🚀 基于 Qwen2.5-32B 基础模型，DAPO 在 AIME 2024 上取得了 50 分的成绩，仅用 50% 的训练步数就超越了先前的 SoTA 模型 DeepSeek-R1-Zero-Qwen-32B。</p>
-<p>长度稳定性与增长：响应长度的平稳增加带来了更大程度的探索，有助于模型学习更复杂的推理行为，最终促进了训练稳定性和性能提升。</p>
-<p>奖励得分稳定性：奖励信号的平稳上升表明模型正在成功拟合训练分布，确保学习过程在没有显著波动的情况下保持稳健与一致。</p>
-<p>熵与平均概率趋势：在最初下降后，熵的可控上升确保了探索与利用之间的良好平衡，避免了过拟合或过度随机等问题，并促进了模型性能的持续提升。</p>
-<p>我们提供了 DAPO-Qwen-32B 的模型权重，该模型基于 Qwen2.5-32B 并采用 DAPO 算法训练而成。</p>
-<p>我们建议使用 conda 来配置环境：</p>
-<p>我们在此处提供模型推理代码：</p>
-<p>为了在 AIME 2024 上评估该模型，我们使用 Ray Serve 和 vLLM 部署了 DAPO-Qwen-32B。</p>
-<p>从 Huggingface 加载模型：</p>
-<p>从本地路径加载模型：</p>
-<p>为造福更广泛的研究社区，我们完全开源了我们强化学习训练的全套方案，包括算法细节、数据集和基础设施。</p>
-<p>我们为 DAPO 训练提供了训练与验证数据集。</p>
-<p>训练集：DAPO-Math-17k，一个经过精心策划和处理的数学数据集。验证集：AIME 2024。</p>
-<p>我们提供了用于 DAPO 训练复现的开箱即用脚本。快速入门和核心代码已在 README 中说明。以下是相关脚本：</p>
-<p>“DAPO 无 Token 级 PG 损失与动态采样 —— AIME 44”（DAPO w/o Token-level PG Loss &amp; Dynamic Sampling -- AIME 44）脚本已在当前的 verl 上通过验证，并在 AIME 2024 上取得了 44 分，其训练记录可在 wandb 中查看。</p>
-<p>“DAPO 完整版 —— AIME 50”（DAPO Full -- AIME 50）脚本也已在最新的 verl 版本上得到验证。它在 AIME 2024 上获得了 50 分。您可以在 wandb 上查看相应的训练记录。</p>
-<p>我们感谢 verl 团队提供了出色的开源强化学习基础设施。</p>
-<p>我们的开源实验是在火山引擎机器学习平台上进行的。后续我们将在火山引擎平台上提供完整的复现指南，以帮助用户复现我们的实验。</p>
-<p>来自字节跳动Seed与清华大学AIR的开源强化学习系统</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>ByteDance Seed 与 Tsinghua AIR 联合开源了一个大规模大语言模型强化学习系统 DAPO（Decoupled Clip and Dynamic sAmpling Policy Optimization），涵盖算法、代码基础设施与数据集。</li>
-    <li>DAPO 系统基于 verl 开源强化学习框架构建。</li>
-    <li>来源叙事重点：宣传全新开源的LLM大规模强化学习系统DAPO，突出其在AIME 2024基准测试上以更少训练步数超越前SOTA模型（DeepSeek-R1-Zero-Qwen-32B）的优异性能，并强调算法创新、完整开源方案（代码、权重、数据集）及火山引擎生态支持</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://github.com/BytedTsinghua-SIA/DAPO" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-d-to-the-snowden-archive-c4a0bb14aa5005b6" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7199" data-content-paragraphs="44" data-published-at="2026-09-20T22:35:49.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 06:35</span>
-</div>
-
-### [斯诺登档案究竟经历了什么](https://libroot.org/posts/what-happened-to-the-snowden-archive)
-<div class="original-title-sub"><span class="orig-tag">原文</span> What happened to the Snowden archive</div>
-
-<div class="article-body" data-article-body="true"><p>发布于 2026 年 9 月 20 日</p>
-<p>来自斯诺登档案的最后一份文件发表于 2019 年 5 月 29 日。《卫报》于 2014 年 2 月停止发布相关文件，《明镜》周刊于 2015 年 1 月停发，《纽约时报》和 ProPublica 则在 2015 年 8 月停发。此后，除了少数特例外，仅有 The Intercept 仍在发布文件，直至其在 2019 年 3 月关闭了其档案库。11 周后，即 2019 年 5 月 29 日，该机构发布了该档案库中的最后一批文件。自那时起，世界上再没有任何新闻机构、记者或机构发表过斯诺登档案中的任何一份文件。</p>
-<p>斯诺登在掌握可供分享的材料数月之前，就已开始联系记者。2012 年 12 月，他联系了《卫报》专栏作家兼前律师格伦·格林沃尔德（Glenn Greenwald），要求其建立安全通信渠道，不过格林沃尔德当时并不知道该如何操作。[1] 在 1 月份的第二次尝试未能取得进展后，斯诺登将重心转向了美国纪录片导演劳拉·珀特阿斯（Laura Poitras）。随后，珀特阿斯与调查记者巴顿·格尔曼（Barton Gellman）展开合作。[1]</p>
-<p>斯诺登采取逐步共享档案的方式。2013 年 3 月 31 日，他向珀特阿斯发送了一个名为 astro_noise 的加密文件链接[2]，珀特阿斯下载了该文件并拍摄了自己下载的过程，但她并没有解密该文件的密钥。[3] 5 月 10 日，斯诺登从夏威夷将一个包裹邮寄到他曾让珀特阿斯提供的一个布鲁克林地址。该包裹寄给了记者杰西卡·布鲁德（Jessica Bruder），后者同意在不知包裹内为何物的情况下代收包裹，随后她未拆封便转交给了戴尔·马哈里奇（Dale Maharidge），接着马哈里奇于 5 月 15 日将其递交给了珀特阿斯。</p>
-<p>2013 年 5 月 21 日，斯诺登向珀特阿斯和格尔曼发送了一个名为 Pandora、内含约 5 万份文件的加密档案的密钥。[4][5][1]</p>
-<p>在 5 月下旬的某个时候，斯诺登就他所称的“单点故障”向珀特阿斯发出警告，并敦促她将材料副本分散到其他人手中。她共分发了三份。一份交给了新闻自由基金会（Freedom of the Press Foundation）的特雷弗·蒂姆（Trevor Timm），附言要求其保管这些材料，除格林沃尔德本人当面索取外，不得提供给任何人。第二份交给了一名要求匿名的个人。第三份则交给了一个至今身份未知的人。马哈里奇自己也保留了一份，并在 2017 年表示他手中仍留有该副本。[6] 除珀特阿斯、格尔曼和格林沃尔德之外，其他持有副本的人是否真的能阅读这些文件尚不得而知，因为这些副本很可能是加密的，且他们可能没有密钥。</p>
-<p>格林沃尔德于 2013 年 6 月 1 日在前往机场的途中从珀特阿斯处收到了 Pandora 的副本[1]，并在飞往香港的航班上首次阅读了该文件。[7]《卫报》记者尤恩·麦卡斯基尔（Ewen MacAskill）在香港接到了英国政府通信总部（GCHQ）的材料[1]，并将其带回了《卫报》伦敦办事处。[8]《明镜》周刊当年夏天从珀特阿斯处获得了他们的档案副本。[9]《纽约时报》和 ProPublica 则是从《卫报》获得了相关材料。[10][11]</p>
-<p>格林沃尔德在 2019 年 3 月 13 日表示，他与珀特阿斯“各自独立地继续拥有档案的完整副本，其他个人和机构也是如此。”[12]</p>
-<p>珀特阿斯在 2022 年表示，该档案“仍然存在，而且还有更多内容可以报道”，并形容其中有“大量尚未报道、具有重大当代和历史意义的信息”。格林沃尔德在 2023 年表示，该档案包含“数十万份文件，甚至更多”。然而，在过去七年里，两人均未从中发表过任何内容，也均未解释原因。</p>
-<p>斯诺登在香港将档案的很大一部分交给了苏格兰记者尤恩·麦卡斯基尔，其中包括“数万份文件”。在纪录片《第四公民》（Citizenfour）中，记录了斯诺登在香港酒店房间内向麦卡斯基尔递交 GCHQ 材料的画面。斯诺登称这些内容来自该机构的内部维基——“属于绝密、极其机密的级别，任何在情报部门工作的人都可以在上面处理他们想处理的任何事务”——并补充道：“这就是这些材料的内容。我现在把它交给你。你可以由自己来决定，什么是恰当的，什么是不恰当的。”麦卡斯基尔将他的副本带到了《卫报》伦敦办事处。[8]《卫报》后来表示，他们的档案库包含约 58,000 份文件。</p>
-<p>2013 年 6 月 6 日，《卫报》利用该档案中的一份文件发表了第一篇关于斯诺登的报道。次日，英国国防官员向所有英国主要媒体发出了机密的“D通告”（D notice），“试图审查有关英美情报机构所采用监控策略的报道”。</p>
-<p>发布 D 通告的国防、新闻及广播咨询委员会（DPBAC，即当时的国防咨询通告系统 DA-Notice）是一个可追溯至 1912 年的自愿性机制，在此机制下，新闻机构在发表涉及国家安全的内容之前需咨询国防部。2013 年，该委员会的时任秘书是空军少将安德鲁·瓦兰斯（Andrew Vallance）。</p>
-<p>D 通告下发给了一群本就倾向于配合的媒体机构。班戈大学（Bangor University）的维安·巴基尔（Vian Bakir）和安德鲁·麦克泰（Andrew McStay）在 2018 年回顾学术文献时指出：</p>
-<p>根据巴基尔和麦克泰的研究，媒体的立场趋同度几乎一致。《每日邮报》、《镜报》、《星报》、《电讯报》、《太阳报》和《泰晤士报》都被归类为支持监控的一方。只有《独立报》、《i》报和《星期天人物报》（The People）倾向于反对立场。《卫报》和《快报》则持中立态度。他们写道，这在实践中意味着“公民的隐私权和监控监管极少被讨论，而大规模监控则通过宣称其对国家安全必不可少而走向常态化”。媒体突出的主题是“社交媒体公司应在打击恐怖主义方面采取更多举措，而监控政客虽存在问题，但对公众的监控应当加强”。</p>
-<p>除了《卫报》之外发表斯诺登报道数量最多的英国媒体《每日邮报》，便是这种趋势的典型例证。在最初泄密后的六个月里，该报重点报道斯诺登“流亡途中的奢华生活及其性吸引力”。正如巴基尔和麦克泰所指出的，这些手法似乎旨在抹黑他，或转移公众对他揭露 GCHQ 内幕的注意力。</p>
-<p>在受到唐宁街和内阁秘书杰里米·海伍德（Jeremy Heywood）的施压后，2013 年 7 月 20 日——即首篇斯诺登报道发表六周后——《卫报》的三名高管在地下室中砸毁了存放其伦敦档案的电脑。两名 GCHQ 技术人员现场监督了销毁过程。该报对此事予以保密[11][13]，直到一个月后的 8 月 19 日才将其公之于众。</p>
-<p>时任《卫报》副主编、参与砸毁电脑的三人之一保罗·约翰逊（Paul Johnson）后来称这种销毁“纯粹是一种象征性行为”，因为政府明知“这些材料已经被带到了美国并与《纽约时报》共享。报道仍将继续。这一插曲并未改变任何事情。”</p>
-<p>DPBAC委员会自身的会议纪要记录了在同一时期发生的事情。瓦兰斯（Vallance）表示，“在最开始，卫报在发表第一批披露内容之前曾避免与DA通知（DA-Notice）机制打交道”，作为报纸出版商协会的成员，它“根据DA通知守则的条款有义务寻求（但不一定必须采纳）DA通知的建议”，而未能做到这一点“曾是引起严重担忧的一个主要来源，并且为此付出了相当大的努力来予以解决”。他说，在2013年7月下旬，卫报“已经开始寻求并采纳DA通知的建议，不再发表某些高度敏感的细节”。</p>
-<p>2013年12月3日，卫报时任总编辑艾伦·拉斯布里杰（Alan Rusbridger）就该报的斯诺登报道在内政事务委员会接受了公开质询。拉斯布里杰说：“就公布文件而言，我认为我们已经公布了26份。我预计我们不会公布更多了。六个月公布26份，我觉得可以说是涓涓细流。”拉斯布里杰表示，在过去的六个月里，与英美政府机构“进行了100多次接触”[14]。“我们一直与情报机构和白宫保持着联系，”拉斯布里杰在2018年写道[15]。当被问及这58,000份文件中到底读过了多少份时，拉斯布里杰回答道：“我说不上来。我不知道。”[16]</p>
-<p>拉斯布里杰向内政事务委员会透露，在发表的约35篇报道中，卫报就其中除一篇外的所有报道均向当局进行了咨询。谈及瓦兰斯时他说：“事实上，此后我们一直与他合作，他也曾来到卫报与我们所有的记者交流。”拉斯布里杰在2018年补充说，瓦兰斯后来甚至被邀请参加了卫报的晨会[17]。拉斯布里杰对这种安排的描述是，瓦兰斯会在报道出炉时对其进行审阅，且极少提出反对[18]。盖尔曼（Gellman）写道，卫报“出于法律原因撤下了部分报道，并将其余一些报道推迟了数月之久”[19]。</p>
-<p>三个月后，即2014年2月27日，卫报公布了其最后一批斯诺登文件。在九个月的时间里，该报在其持有的58,000份文件中大约公布了30份——占比0.05%。拉斯布里杰后来将这一事件描述为卫报190年历史上产生全球影响最大的报道[20]。</p>
-<p>在2014年2月停止的是文件的公布，而非相关报道。例如，2015年1月，卫报根据斯诺登文件报道称，英国政府通信总部（GCHQ）截获了各大国际媒体记者的电子邮件。2015年6月，该报与《纽约时报》联合发表了一项调查，披露GCHQ在美军针对也门和巴基斯坦的无人机袭击中所扮演的角色，该调查素材取材于斯诺登提供给卫报“并与《纽约时报》共享”的文件。</p>
-<p>因此，即使在最后一次公布文件的十六个月之后，卫报仍在分析该档案并与美国合作伙伴共享文件，但它选择不再公开发布任何文件（《纽约时报》亦未发布）。</p>
-<p>2014年5月，DPBAC委员会主席报告称，与卫报的接触不断深化，这一过程“最终以任命保罗·约翰逊（Paul Johnson，卫报副总编辑）为DPBAC成员而达到顶峰”。</p>
-<p>雅各布·阿佩尔鲍姆（Jacob Appelbaum）曾参与处理这批档案，在《明镜周刊》等刊物上发表了大量报道，并曾协助波伊特拉斯（Poitras）对斯诺登进行背景调查，他在2016年3月对卫报提出了尖锐批评：</p>
-<p>在其2018年出版的《突发新闻》（Breaking News）一书中，拉斯布里杰极其详尽地记录了斯诺登时代，探讨了海伍德（Heywood）会晤、卫报伦敦办公室硬盘被销毁、米兰达（Miranda）在希思罗机场被扣留、竞争对手报纸发表的批评社论以及要求起诉的政客等事件。然而，这段报道历程却终结于一句简短的分句：“一旦斯诺登的报道平息下来。”[21] 这成为该章节中唯一缺乏明确行动主体或动机的重大事件。当所有其他行动都有明确的动机时，媒体报道却就这样悄然退场，没有任何关于是谁决定停止、何时做出的决定、或是为何做出该决定的解释。</p>
-<p>当在2023年被问及为何缺乏文件公布时，麦卡斯基尔（MacAskill）将其归咎于公众兴趣的衰退，指出“随着兴趣消退，每篇报道吸引的读者群越来越小”。</p>
-<p>这与卫报自己的主编对同一时期的描述很难相吻合。该报在公布其最后一份斯诺登文件时附带了一篇极具分量的重要头条报道，就像此前的大多数斯诺登报道一样。两个月后，该报道获得了普利策奖。拉斯布里杰记载，在公布最后一份文件的八个月后，该报超过了《纽约时报》，成为全球首屈一指的严肃英文报纸网站，而此前它在英国仅位列第九大报刊[22]。他将这种崛起归功于践行了“至少在我们看来新闻业本该做的事情”：这份他原本预计没人会读的选题清单上，安全和公民自由高居第二和第三位。“如果你整天大谈气候变化、安全和公民自由……肯定没有人会读你的报道。但他们确实读了。”他得出结论称，“显然，人们对以严肃方式呈现的重要新闻有着巨大的全球性需求。这种需求切实存在。”[22]</p>
-<p>其他地方的这种需求也并未消退。《明镜周刊》直到2015年仍在继续公布文件，其报道引发了国际头条关注。《拦截》（The Intercept）更是持续公布至2019年，发表了近百篇报道。无论是什么原因导致卫报在2014年2月停止公布文件，绝非是因为材料耗尽或无人阅读。</p>
-<p>根据拉斯布里杰[10]和麦卡斯基尔的说法，斯诺登从一开始就要求报道集中在监控和隐私方面，而非情报的战时使用，而拉斯布里杰已将此作为内部硬性指令下达。麦卡斯基尔描述道，在伦敦的备份被销毁后的某个时间，拉斯布里杰曾要求他返回《纽约时报》——“他们仍保留着这批材料”——并审查如果解除该限制哪些报道可以发表。他带着一份包含大约十几篇选题的清单返回伦敦。麦卡斯基尔写道，拉斯布里杰拒绝了这些选题，“不仅是因为他无意违背与斯诺登的协议，还因为其中没有任何一篇能像最初的那些报道那样具有爆炸性。”</p>
-<p>关于《卫报》（The Guardian）所持副本去向的记述存在一段空白。拉斯布里杰（Rusbridger）在《突发新闻》（Breaking News）中写道，在伦敦的资料被销毁后，该报“完整保留了档案——存放在纽约”，并指出英国当局对“我们存放在百老汇536号的资料”几乎没有表现出任何兴趣[23]，那里正是《卫报》自己的纽约办公室。然而，当拉斯布里杰后来要求麦克阿斯吉尔（MacAskill）核查剩余资料时，麦克阿斯吉尔并没有去自家报社的纽约办公室，而是被派往《纽约时报》（The New York Times），“因为那里仍存有这些材料”。而在2023年，当麦克阿斯吉尔描述该档案目前的下落时，他只字未提《卫报》自己在纽约的副本，仅提及锁在《纽约时报》某间办公室里的那份副本，且《卫报》仍对其保留监管责任。</p>
-<p>根据拉斯布里杰在《突发新闻》中所描述的协议[10]，《卫报》曾与《纽约时报》共享了其档案，并与ProPublica共享了部分内容[11]。</p>
-<p>2016年3月，阿佩尔鲍姆（Appelbaum）表示，《卫报》对ProPublica就斯诺登档案下了封口令。</p>
-<p>2026年8月18日，我们联系了《卫报》的新闻办公室提出疑问。该办公室回复称，他们没有任何新信息可以分享，他们通常不对编辑决策置评，并且我们所询问的是十多年前的事情。他们并未回应其自身是否仍保留有副本，或者《纽约时报》是否还留存任何资料以及他们是否仍对其负有责任，亦或是他们是否对合作伙伴的发表拥有任何审批权——而这些没有一项属于编辑决策范畴。</p>
-<p>巴顿·格尔曼（Barton Gellman）持有全部档案中的相当大一部分。他与波伊特拉斯（Poitras）于2013年5月21日从斯诺登处获得了一份副本[1]，内含超过50,000份[5]文件[4]。格尔曼于2013年5月将该档案的一份副本带到《华盛顿邮报》（The Washington Post）的纽约办公室，并在那里进行严密保管[24]，直至他于2014年离开《华盛顿邮报》，该报随后停止发布斯诺登文件。</p>
-<p>格尔曼在2020年表示，他的“资料目前处于冷存储状态，其安全和难以访问程度是我所能设计出的最高水平”。2022年，他赞同波伊特拉斯的看法，即该档案“对于建设性研究极具价值”，但补充说：“与其他人共享档案所需的操作安全防范措施实在太繁琐，难以处理。我索性把整套东西都放进了冷存储中。对此我感到很遗憾。”</p>
-<p>格尔曼对《华盛顿邮报》所建立的安全措施的叙述，是所有人关于任一媒体机构如何保管该档案所给出的最详尽描述。</p>
-<p>当时他带着一份清单去找编辑马蒂·巴伦（Marty Baron）。清单内容包括：配备全新擦除并经过加密的专用电脑；物理拆除网络硬件，切断机器与互联网及编辑部自身系统的连接；一间带有高安全性锁、加固门以及螺栓固定在地板上的重型保险库的无窗房间；解密密钥保存在存储卡中，除使用期间外绝不放在同一房间内。访问需要四项凭证——门钥匙、保险库密码、数字钥匙卡、口令密码——分散在团队成员中，除格尔曼外无人同时持有这四项凭证[25]。</p>
-<p>《华盛顿邮报》首次尝试设置的房间有一整面朝外的窗户，能一眼望见半个街区外的俄罗斯大使官邸。于是他们另选了一间。该房间配备了高安全性锁、门外走廊的监控摄像头以及一个重达四百磅的保险库。格尔曼还在自己位于纽约的办公室保留了第二个保险库[25]。</p>
-<p>在与技术专家阿什坎·索尔塔尼（Ashkan Soltani）共事期间，他们对笔记本电脑进行了改造，拆除了内置Wi-Fi、蓝牙和电池，以确保机器一旦拔掉电源就会立即关机并自我加密。他们物理封堵了USB接口，并保持严格的安全防范：每次离开房间都随身带走钥匙，哪怕只是去快速上个洗手间。为了察觉任何潜在的物理篡改痕迹，格尔曼在笔记本电脑的螺丝上涂抹了环氧树脂和闪粉，并在保险库的旋钮上测试了紫外荧光粉。他将所有笔记保存在加密卷中，每天早晨仅为了解开访问权限就需要输入五个互不相同的密码口令；然而该系统最终导致了反噬，有一次他忘记了其中一个密码口令，导致部分文件永远无法被找回[25]。</p>
-<p>《华盛顿邮报》于2014年7月发布了最后一批斯诺登文件。截至最后，该报总共仅发表了大约30份文件[26]，约占其所持有档案的0.06%。</p>
-<p>格尔曼写道，到2015年深秋，他和索尔塔尼已不再为该报撰写文章。索尔塔尼停用了他旧的笔记本电脑，归还了加密密钥令牌，彻底断绝了与该档案的关联[27]。</p>
-<p>《纽约时报》和ProPublica均于2013年根据拉斯布里杰在一张A4纸上打印的条件，从《卫报》处获取了资料[10]。这两家机构均未持有全部档案，也从未透露过自身收到了多少资料。</p>
-<p>在2014年至2015年间，《纽约时报》和ProPublica仅发表了寥寥数份文件。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>斯诺登档案中最后一份文件发表于2019年5月29日，由The Intercept发布。</li>
-    <li>《卫报》于2014年2月停止发布文件，《明镜》周刊于2015年1月停止，《纽约时报》和ProPublica于2015年8月停止，The Intercept于2019年3月关闭其档案库。</li>
-    <li>来源叙事重点：揭示斯诺登档案在主流媒体手中经历了迅速的审查软化与事实上的封存；重点聚焦各大媒体早在2014至2019年间就完全停止发布原始文件，并详述英国政府（通过GCHQ和DA-Notice审查机制）对《卫报》施加的深层压力与合作渗透，质问为何仍有海量具有重大历史与当代意义的档案未见天日。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://libroot.org/posts/what-happened-to-the-snowden-archive" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-item-a9942542ed259efa" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1402" data-content-paragraphs="19" data-published-at="2026-09-20T22:32:43.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 06:32</span>
-</div>
-
-### [谷歌开源智能体编排器](https://agentexecutor.io/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Google&#39;s Open Agentic Orchestrator</div>
-
-<div class="article-body" data-article-body="true"><p>AX 可以对您的任务进行沙盒隔离，连接其工作区，设置网络边界，并帮助您在每个集群中运行数十亿个任务。您可以为每个智能体分配单个任务，也可以根据智能体需求组合任意多个任务。</p>
-<p>它们既不是微服务，也不是批处理作业。它们会累积状态，需要严格的隔离，会调用模型 API 和工具服务器，而且在无人看管时可能会陷入死循环消耗巨额费用。AX 为您提供了四个紧凑的原语，以声明式方式处理所有这些问题。</p>
-<p>在具有 CPU 和内存限制的沙盒中运行不可信的智能体代码。创建、挂起和销毁的成本极低。</p>
-<p>列出智能体所需的 Git 代码库、MCP 服务器和技能，或者只需描述目标。AX 会在任务启动前为每个沙盒完成所有配置。</p>
-<p>定义并快速管理网络策略。将流量严格限制在明确的主机和端口白名单内，并向传入请求注入凭据。</p>
-<p>集中配置模型、模型参数和密钥。仅需一次应用操作即可轮换密钥或锁定新的模型版本。</p>
-<p>AX 运行在 Agent Substrate 之上，这是一个从零开始设计的计算运行时，专为超高密度和快速的有状态 Actor 生命周期而打造。</p>
-<p>每个任务都作为一个轻量级 Actor 运行，使您能够扩展到每个集群数十亿个并发智能体工作会话，不受编排器的规模限制。</p>
-<p>等待模型响应、外部工具调用或人工反馈的空闲智能体会建立检查点并挂起，且能在不到一秒的时间内恢复，实现零冷启动延迟。</p>
-<p>数十个任务共享 Worker 节点资源，将空闲等待时间转化为闲置计算能力，因此您只需在智能体积极思考和运行代码时付费。</p>
-<p>AX 将生成式 AI 直接集成到平台中。例如，如果您想仅通过自然语言描述来配置工作区，系统会在任务开始前自动准备好环境。</p>
-<p>用通俗的自然语言描述一个就绪环境应有的状态。AX 会在首次启动时将该目标交由智能体处理，以安装工具链并验证依赖项。</p>
-<p>交互式编程智能体、长期运行的智能体服务器、Jupyter Notebook、无头浏览器测试以及自定义工具运行时——应有尽有。</p>
-<p>快速启动海量可复现的沙盒，用于采集行为轨迹、运行强化学习循环并大规模评估智能体。</p>
-<p>面向开发者与研究人员</p>
-<p>我们希望简化智能体基础设施的处理流程，让您能专注于核心工作。AX 在设计上极其注重易用性、快速迭代以及为应用开发者与 AI 研究人员提供愉悦的工作流体验。</p>
-<p>我们的目标是保持运行时的极简与轻量，同时恰如其分地融入每个人构建、评估和扩展智能体所必需的核心特性。</p>
-<p>AX 诞生于谷歌内部智能体运行时系统研究与前沿算力基础设施的结合。在多年构建和运营智能体执行引擎的过程中，谷歌各团队认识到，智能体工作负载代表了一种全新的计算范式：有状态、突发性强、长周期运行的 Actor，它们可能进行长达一分钟的高强度计算，随后等待模型响应、工具返回或人工审批。为无状态微服务或可预测的批处理作业构建的传统编排器，在维持空闲沙盒运行时的成本极其高昂，且原生缺乏对亚秒级挂起与恢复的支持。</p>
-<p>借鉴 Google DeepMind 在智能体运行时方面的研究成果，结合在大规模隔离、恢复与调度方面的深厚经验，AX 正被打造为一个专为智能体执行设计的开源、声明式控制平面。它将任务、工作区、网络策略和模型抽象为核心原语，使开发者和研究人员无需重新发明底层基础设施即可运行海量智能体集群。该项目高度依赖 Agent Substrate，并提供智能体抽象层与生成式运行时组件。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-21 06:32 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://agentexecutor.io/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--techcrunch-disrupt-2026-dbb148570dcfc2a0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1154" data-content-paragraphs="13" data-published-at="2026-09-20T21:41:08.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 05:41</span>
-</div>
-
-### [仅剩6天！购买TechCrunch Disrupt 2026门票立省最高200美元](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> 6 days left to save up to $200 to TechCrunch Disrupt 2026</div>
-
-<div class="article-body" data-article-body="true"><p>您享受最高200美元优惠的窗口期即将关闭。当前的门票优惠价格将于太平洋时间9月25日晚上11:59截止，逾期票价将上涨。</p>
-<p>在TechCrunch Disrupt 2026大会上，抢占先机不仅意味着聆听精彩的演讲环节，更意味着结识至关重要的行业人脉，在未来趋势走向主流之前洞察先机，并收获能够付诸实践的实用见解。</p>
-<p>TechCrunch Disrupt 2026汇聚了10,000多名创始人、投资人、运营者与科技领袖，共赴为期三天的初创生态圈思想碰撞、人脉拓展与机遇发掘盛会。</p>
-<p>大会汇聚了250多位演讲嘉宾，在六大行业舞台、圆桌会议和分组研讨中带来200多场分享，您将深入洞察正在重塑企业构建、融资与扩张的变革力量——涵盖人工智能、机器人、金融科技、基础设施以及未来的工作方式等。但大会的价值远不止于舞台之上。</p>
-<p>拓展人脉网络。通过包括AI智能匹配、临时交流会议以及专为投资人和创始人设立的“Deal Flow Cafe”在内的社交平台，结识潜在投资人、客户、合作伙伴、拟聘人才与合作者。</p>
-<p>保持市场领先。聆听行业领袖如何应对围绕人工智能、竞争优势、融资、人才、市场推广策略（GTM）和业务规模化等最关键的战略议题。</p>
-<p>在趋势显现之前洞察未来。在展厅探索300多家初创企业及其突破性成果，观看竞争激烈的Startup Battlefield 200创业路演赛，并在各大会议环节发掘新兴技术。</p>
-<p>满载实用收获而归。从融资策略到GTM战术，再到AI时代构建具备护城河企业的洞察，Disrupt大会围绕切实可行的落地方案打造，而非流于空泛的高谈阔论。</p>
-<p>您需要结识的人、需要聆听的思想，以及不可错过的机遇，都将于今年10月在旧金山汇聚一堂。</p>
-<p>10月13日至15日，与10,000多名创始人、风险投资家和科技从业者齐聚旧金山。请于太平洋时间9月25日晚上11:59前购票，在涨价前立省最高200美元。四人及以上团体票更可额外享受30%折扣。</p>
-<p>当您通过我们文章中的链接购买时，我们可能会获得小额佣金，这不会影响我们的编辑独立性。</p>
-<p>展位预订截止日期为9月18日。切勿错失获取高价值销售线索、接触投资人以及在Disrupt展厅展示品牌的良机。</p>
-<p>ChatGPT发明者推出的新型AI模型令开发者振奋<br />OpenAI发现其模型会给后继模型留言以隐瞒不良行为<br />最新未删减法庭文件披露，微软高管称AI内容抓取为“人类历史上最大规模的劳动力盗窃”<br />清洁科技初创企业Fluxnium找到利用可用5万年的核燃料的方法<br />前TikTok高管打造了一款利用AI指导用户拍照姿势的应用<br />Salesforce与英伟达联合推出的全新推理模型令所有AI实验室严阵以待<br />AI基础设施公司Cornelis融资2.05亿美元，逐步削弱英伟达的主导地位</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-21 05:41 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-co-ogre-battle-64-recomp-d3305a8bbb42d4a4" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1591" data-content-paragraphs="1" data-published-at="2026-09-20T20:59:02.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 04:59</span>
-</div>
-
-### [《皇家骑士团64》静态重编译项目进度已达99.05%](https://github.com/lfarroco/ogre-battle-64-recomp)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Ogre Battle 64 Recompiled Project at 99.05%</div>
-
-<div class="article-body" data-article-body="true"><p>使用 N64Recomp 工具链，将 N64 游戏《皇家骑士团64：真君圣者》（Ogre Battle 64: Person of Lordly Caliber，美版，Rev A）静态重编译为原生 PC 可执行文件。<br />本代码仓库不包含任何受版权保护的游戏数据。你必须自行提供 ROM 转储文件（详见下文）。<br />需要 64 位 PC 以及渲染器支持的 GPU：<br />仅使用键盘即可游玩；支持 XInput（Windows）或 SDL 的手柄为可选配置。音频设备同样可选：若无音频设备，游戏将静音运行。在 Windows 上无需安装 Visual C++ 运行库——安装包内自带其着色器编译器所需的运行时。<br />如果游戏在启动时崩溃，请先更新显卡驱动。在较旧的 GPU 上，设置 OGRE_CONSOLE=1 可打开带有启动日志的控制台，设置 OGRE_GRAPHICS_API 则可指定图形后端（vulkan 或 d3d12）。<br />该项目中的工作大部分是由 DeepSeek v4/v4.1 Flash 模型完成的。<br />主代码段（807 个函数）已完全重编译为 C 语言。运行时应用程序（包括渲染、输入、音频）是下一个里程碑。完整计划、当前状态以及技术发现请参阅 PLAN.md。<br />参见 PLAN.md 中的“复现”（Reproduce）章节。概述如下：<br />ROM 必须是美版 Rev A 转储文件（40 MB，.n64 16 位字节交换格式，或已转换好的 .z64 格式）。tools/convert_rom.py 工具可将 .n64 转换为 .z64。<br />新克隆的代码库必须在运行一次 make regenerate 后才能构建应用程序：重编译出的 C 代码（RecompiledFuncs/、Bank*Funcs/、RspFuncs/、app/src/bank_funcs.inc）是从你自己提供的 ROM 中生成的，特意没有提交到版本库中。make regenerate 会按唯一可行的顺序依次运行 splat、MIPS 链接、34 个库单元、主重编译以及 RSP 微代码。<br />启动时，应用会显示黑色的起始屏幕——“OGRE BATTLE 64: RECOMP / CLICK TO LOAD YOUR ROM (OR DROP IT IN THIS WINDOW)”（皇家骑士团64：重编译版 / 点击加载您的 ROM（或将其拖入本窗口））。点击它可以选择 ROM，或将 ROM 拖放到窗口中，或者直接将 ROM 放置在可执行文件旁即可。系统会通过哈希值校验 ROM 并将其保存，因此后续启动将直接进入游戏。电池存档会保存在可执行文件旁的 saves/ 目录下。<br />该安装包为单文件结构：SDL2 采用静态链接（make dist 会拉取并构建一次特定版本的原版 SDL2，因为 Homebrew 提供的 sdl2 是基于 SDL3 的兼容过渡层，不含静态库）。包内不含任何游戏数据，因此玩家需在起始屏幕自行提供 ROM。详见 docs/guides/app-build.md 中的“分发”（Distribution）一节。<br />渲染器（tools/RT64）是一个固定在特定上游提交的 git 子模块，在 SDL &lt; 2.0.22 的系统上需要单独打一次补丁（例如 Ubuntu 22.04 自带 SDL 2.0.20，但 SDL_GetWindowSizeInPixels 需要 2.0.22 以上版本）：<br />在 tools/RT64 内执行任何 git 子模块更新后需要重新应用该补丁，因为更新会重置子模块并丢弃补丁。<br />《皇家骑士团64》版权归 Quest / 任天堂所有。本项目仅用于数据保存与互操作性研究。严禁分发游戏 ROM 或其提取出的资产。<br />游戏《皇家骑士团64：真君圣者》的重编译项目</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-21 04:59 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://github.com/lfarroco/ogre-battle-64-recomp" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--0-music-history-podcast-2cebdf954e6f7b00" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2152" data-content-paragraphs="11" data-published-at="2026-09-20T20:51:57.000Z" data-time-source="publication">
+<div id="story-servation-colorado-river-c604386e20bfe5b6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2344" data-content-paragraphs="20" data-published-at="2026-09-21T23:15:32.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-21 04:51</span>
+  <span class="news-meta-time">🕒 2026-09-22 07:15</span>
 </div>
 
-### [《No Dogs in Space》回归，满足你对深挖音乐历史的痴迷渴求](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)
-<div class="original-title-sub"><span class="orig-tag">原文</span> No Dogs in Space is back to feed your need for obsessive music history</div>
+### [亚马逊欲助力科罗拉多河保护，但外界对其真实用水量仍所知甚少](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Amazon wants to help the Colorado River, but we still don’t know how much water the company uses</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/810731213_18454823458185562_8102974567602315903_n.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="《No Dogs in Space》回归，满足你对深挖音乐历史的痴迷渴求" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="亚马逊欲助力科罗拉多河保护，但外界对其真实用水量仍所知甚少" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>来自该话题的帖子将被添加到您的每日电子邮件文摘和主页信息流中。<br />查看所有娱乐内容<br />该播客正通过“朋克2.0”（Punk 2.0）实现“回归初心”<br />来自该作者的帖子将被添加到您的每日电子邮件文摘和主页信息流中。<br />查看泰伦斯·奥布莱恩（Terrence O&#39;Brien）的所有文章</p>
-<p>今年8月，我曾撰文表达对音乐历史播客《No Dogs in Space》的喜爱，但也对其已有两年多未更新节目的事实感到惋惜。当时我未曾想到，主持人卡罗琳娜·伊达尔戈（Carolina Hidalgo）和马库斯·帕克斯（Marcus Parks）正紧锣密鼓地筹备宣布节目带着第四季“朋克2.0”回归。本周播出了第一集，这是一组关于纽约娃娃乐队（New York Dolls）系列专题的第一部分；作为一名在主唱大卫·约翰森（David Johansen）的故乡斯塔滕岛土生土长的人，这支乐队对我而言格外亲切。</p>
-<p>对于这一新季，伊达尔戈和帕克斯决定是时候回归初心了。部分原因在于，他们觉得朋克摇滚是他们热情和专业沉淀最深厚的领域。帕克斯表示，他们“之前想无所不包。我有一阵子甚至想做贝多芬”，但“我们意识到，我们最擅长的就是讲述一个朋克故事，对吧？不是那个唯一的朋克故事，而是其中一个朋克故事。”不过他们也提到，那里也正是最引人入胜的故事所在。在为之前的实验摇滚系列投入大量时间将德语翻译成英语之后，他们意识到，乐队背后的故事往往归结为“艺术学院的学生在瞎闹”。</p>
-<p>新一季经历了这么长时间才成型有许多原因。但其中最大的原因之一是两人经历了几次无功而返的起步。起初，他们计划聚焦华盛顿特区（DC）的朋克圈。伊达尔戈向《The Verge》透露，“我们在这上面花了六个多月的时间”，并打算以“坏脑”（Bad Brains）乐队开启该系列。“然后我们深入调查他们，”伊达尔戈说，“发现他们极其排斥同性恋。就像地狱烈火那般极端……《No Dogs》讲过的很多乐队其实都有各自的问题，但这个实在太令人难以聚焦了。”</p>
-<p>随后，两人尝试做一个涵盖整个华盛顿特区音乐全貌的系列——“千万别这么干，”伊达尔戈告诫道。帕克斯说，“涉及的范围不断膨胀扩大”，他列举了一系列或许不属于华盛顿特区朋克圈、但却是重要基石元素的音乐类型与人物，比如查克·布朗（Chuck Brown）以及高高乐（go-go）。两人甚至一度觉得，乔治城大学的WGTB广播电台本身就值得单独做一个系列。但最终，“当你试图把所有这些糅合在一起时，你做不到。你根本没办法把所有这些故事塞进同一个系列里，”帕克斯说，“在耗费了八个月的心血后……我们最终不得不承认失败。”</p>
-<p>不过，这些努力并没有完全白费。他们从中衍生出了一个关于林克·雷（Link Wray）的两集系列，将于今年晚些时候首播。</p>
-<p>就像《No Dogs in Space》的每一季一样，其中的部分乐趣在于帕克斯和伊达尔戈钻研的那些离奇支线与深挖细节。在制作纽约娃娃乐队系列期间，伊达尔戈迷上了胡普尔的傻瓜乐队（Mott the Hoople）。该乐队最为人熟知的是由大卫·鲍伊（David Bowie）创作的热门单曲《All the Young Dudes》，但他们的经历极其跌宕起伏。伊达尔戈说，主唱伊恩·亨特（Ian Hunter）“当时只是个挖沟工人。然后他接到了一个朋友的电话，对方说：‘嘿，这里有个乐队，他们水平不太行，而且需要一个新主唱’，于是他就直接过去了。”亨特还创作了《Cleveland Rocks》，这首歌后来由“美利坚合众国总统”（The Presidents of the United States of America）乐队翻唱，并成为了《德鲁·凯里秀》（The Drew Carey Show）的主题曲。</p>
-<p>帕克斯则表示，自己迷上了变装皇后杰基·柯蒂斯（Jackie Curtis）。“有人认为，通常归功于理查德·赫尔（Richard Hell）的朋克风格，实际上很可能起源于杰基·柯蒂斯，”他说。他还分享了一个故事，讲述柯蒂斯有一次如何“像蝙蝠侠一样，像蝙蝠侠那样一点点挪动着……爬出[自己的]窗台”，潜入一位刚去世的邻居家公寓，企图在验尸官赶来之前偷走她的衣服。</p>
-<p>正是这种旁逸斜出的分支情节让《No Dogs in Space》如此引人入胜。“我们就像生活在一种极度痴迷的状态中，”帕克斯说。“痴迷确实可以说就是我们的超能力。我们俩最近都被确诊患有自闭症，并发现这正是我们的特质所在。这就是我们获得的超能力。”</p>
-<p>如果你正在琢磨从哪里开始听，那么关于纽约娃娃乐队的全新系列就是一个极佳的起点。纽约娃娃是一支原始朋克与华丽摇滚乐队，在构筑纽约音乐圈的过程中扮演了举足轻重的角色。不过，我也极力推荐关于替补乐队（The Replacements）、死肯尼迪乐队（Dead Kennedys）以及快乐小分队（Joy Division）的系列。你现在可以在Apple Podcasts、Spotify或任何能找到优质播客的平台上收听新一季的《No Dogs in Space》。此外，该节目还将首次在YouTube上发布完整视频版单集。</p>
-<p>免费每日精选，汇聚最重要的新闻。<br />这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>该主题的相关文章将添加到您的每日电子邮件文摘和主页动态中。<br />随着数据中心对水资源需求激增，科罗拉多河正面临“前所未有”的干旱。<br />该作者发布的内容将添加到您的每日电子邮件文摘和主页动态中。<br />查看贾斯汀·卡尔马（Justine Calma）的所有文章</p>
+<p>亚马逊计划出资2000万美元，用于科罗拉多河流域的水资源保护项目。科罗拉多河是美国西部4000万人赖以生存但储量正不断减少的关键水源。</p>
+<p>该举措出台之际，亚马逊及其他科技巨头因其数据中心消耗巨大水量而正面临日益严格的审视。亚马逊设定的目标是到本十年末实现“净水回补”（water positive），即回补的水量超过自身消耗量。尽管该公司最近披露了部分用水信息，但我们对其整体的环境影响依然知之甚少。</p>
+<p>亚马逊今天宣布启动“科罗拉多河流域协同倡议”（Colorado River Basin Collaborative），其使命是“打造针对单一美国流域规模最大的企业节水行动之一”。该公司预计在两年内筹集1亿美元资金——其中包括来自其自身资金的2000万美元投资——用于各项水资源保护工作。</p>
+<p>科罗拉多河为4000万人提供水源</p>
+<p>全长1400英里的科罗拉多河为美国西部七个州以及墨西哥两个州的4000万人提供用水。根据美国垦务局的数据，该水系在过去26年中经历了“前所未有”的干旱。数十年的过度用水加上人为导致的气候变化，使这一问题愈发严峻。为应对危机，美国内政部于8月最终敲定了一项计划，对亚利桑那州、内华达州和加利福尼亚州实施大幅削减供水的措施。</p>
+<p>作为美国从亚洲进口大多数货物的第一站，加利福尼亚州拥有的亚马逊仓库数量超过其他任何州。在加州奥兰治县，亚马逊承诺在未来三年内出资220万美元，协助检测和修复管网漏水。据亚马逊称，这一努力预计最终每年可节水1.89亿加仑。</p>
+<p>作为新宣布的协同倡议的一部分，其他企业也可以自主与所选定的保护项目独立签约。联合国支持的“水复原力联盟”（Water Resilience Coalition）将负责对项目进行审核。亚马逊也加入了该联盟，成员包括微软、Meta以及跨多个行业的其他品牌。</p>
+<p>科技公司正在遭遇针对新建人工智能（AI）数据中心的多轮抵制。据一项估算，AI在2025年的耗水量估计在3125亿至7646亿升之间，几乎相当于全球人类瓶装水年消费总量。在亚利桑那州，科罗拉多河供水量的削减预计将推高公用事业水费，部分居民担心数据中心可能会使情况进一步恶化。</p>
+<p>今年6月，亚马逊披露其全球范围内的数据中心（包括其自有、租赁或共用的数据中心）在2025年共消耗了25亿加仑水。该公司表示，亚马逊直接拥有和运营的数据中心在2025年的耗水量比上年减少了2%。公司将这一进展归功于自2021年以来水利用效率提升了52%。该公司称，其数据中心每消耗一千瓦时电力的用水量为0.12升，并宣称其效率约为数据中心行业平均水平的七倍。</p>
+<p>亚马逊的年度可持续发展报告公布了其数据中心自2021年以来的单位电力用水量（升/千瓦时），但并未公布这一时期内的总用水量。可持续发展专家和环保倡导者警告称，不应单凭效率指标来评估一家公司的可持续性。根据被称为“杰文斯悖论”（Jevons paradox）的经济学概念，一项技术的效率越高，随着企业加大对其使用，最终可能消耗更多的资源。因此，追踪一家企业的总体用水量，以及在供应最为匮乏的用电高峰期其在各个运营地点分别需要多少水，显得至关重要。</p>
+<p>相比之下，微软最新的可持续发展报告公布了其数据中心自2020年以来的总用水量，而谷歌的报告则分享了自2021年以来按地区细分的全球运营用水量。据路透社报道，这三家科技巨头都曾因遭遇社区反对而不得不放弃某些数据中心项目。与其他科技公司不同的是，亚马逊庞大的仓储网络同样占据了巨大的物理足迹，而这并未体现在公司的数据中心披露数据中。</p>
+<p>《卫报》在2025年的一项调查指控称，亚马逊决定不将发电所消耗的水量（被视为“间接/二级”用水）计入在内，从而掩盖了公司的实际耗水量。出于对“声誉风险”的担忧，管理层在计算可持续发展目标进展时，决定仅将自身设施的“直接/一级”用水纳入考量。亚马逊最近公布的数据中心用水数据同样排除了发电产生的用水消耗。</p>
+<p>尽管数据中心通常使用水进行冷却系统降温，但数据中心水足迹的大部分实际上来自于这种“间接用水”。发电厂需要水来冷却设备并通过蒸汽驱动涡轮机；《卫报》援引一份内部泄露的文件报道称，亚马逊在2021年的耗水量达到了105亿加仑（397亿升）。这大约相当于95,000个美国家庭的年消耗量。</p>
+<p>在一封发送给The Verge的电子邮件中，亚马逊发言人玛格丽特·卡拉汉（Margaret Callahan）表示，《卫报》的报道“依据了一份过时文件中被断章取义的数据，歪曲了我们的水资源战略，导致其结论在根本上存在错误和误导性”，并称“一份文件的存在并不代表其准确性或最终定论”。</p>
+<p>卡拉汉并未提供有关亚马逊多年来累计耗水总量的进一步数据。她指出，公司目前已实现其净水回补目标的75%，去年每消耗4加仑水即可回补3加仑。</p>
+<p>在今天的公告中，亚马逊首席可持续发展官卡拉·赫斯特（Kara Hurst）将这项新的科罗拉多河倡议与公司此前的气候目标进行了对比。</p>
+<p>“通过《气候宣言》，我们看到了当企业携手应对问题时所产生的成效：进展得以加速。鉴于水资源与气候息息相关，我们正在将同样的模式应用到科罗拉多河上，”赫斯特表示。</p>
+<p>然而，亚马逊的碳足迹在2025年增长了16%——在各家企业竞相推进AI技术的背景下，这已成为整个科技行业的普遍趋势。</p>
+<p>精选最重要的每日新闻要闻，免费订阅。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-21 04:51 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>亚马逊计划出资2000万美元用于科罗拉多河沿岸的水资源保护项目，并宣布发起科罗拉多河流域协同合作项目（Colorado River Basin Collaborative），预计在两年内筹集1亿美元。</li>
+    <li>科罗拉多河全长1400英里，为美国西部七个州和墨西哥两个州的4000万人提供水源。</li>
+    <li>来源叙事重点：质疑亚马逊出资2000万美元保护科罗拉多河的公关行动，重点揭示其在数据中心总耗水量、发电间接用水（二级用水）及庞大物流仓储设施水足迹方面的信息披露缺陷与透明度不足。</li>
   </ul>
 </div>
 
@@ -311,365 +66,141 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-keeping-a-lot-of-secrets-92e9a70cb2f37d01" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1799" data-content-paragraphs="13" data-published-at="2026-09-20T20:29:07.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 04:29</span>
-</div>
-
-### [世界模型公司正在保守大量秘密](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> World model companies are keeping a lot of secrets</div>
-
-<div class="article-body" data-article-body="true"><p>本周，我在 All In 大会（与同名播客无关）上主持了一场关于世界模型的专题讨论，这让我有机会深入探究人工智能世界中最神秘的角落之一。该领域的重量级参与者包括杨立昆（Yann LeCun）的 AMI Labs 和李飞飞（Fei-Fei Li）的 World Labs——尽管两家机构都积累了极高的关注度和大量融资，但它们在“尝试变现”的刻度上排名相当靠后。</p>
-<p>从核心来看，世界模型旨在实现空间智能的自动化，因此该领域可以走向许多令人兴奋且有利可图的方向，涵盖从机器人技术、交互式视频到更复杂的自动驾驶系统。</p>
-<p>但是，当我开始追问我们究竟能在哪里看到这项技术的商业化落地时，情况开始变得模糊不清。我找到的最接近权威人士的是 AMI Labs 的联合创始人兼该公司世界模型副总裁迈克尔·拉巴特（Michael Rabbat），他也参与了我的专题讨论。但当我追问该公司具体在研发什么时，他却语焉不详。“等我们准备好谈论它的时候，我们就会谈论它。”在随后的电子邮件中，他澄清道：“我们仍处于研发和构建阶段，因此我们不会公开谈论任何产品计划或时间表。”</p>
-<p>平心而论，AMI 成立还不到一年，因此保持沉默也是情理之中。但这种讳莫如深的态度已经蔓延到了整个世界模型领域。World Labs 的 Marble 可能是该领域开发最完善的产品，其演示范围涵盖直接的媒体创作、为视频游戏构建可探索的环境，以及计算机生成图像（CGI）特效。虽然也有机器人用例，但整个平台似乎更多是为了展示能力而设计的。</p>
-<p>这种保密性甚至延伸到了这些公司的数据供应商。在同一场大会的场边，我与新生的世界模型业务的数据供应商 Physicl 的首席执行官亚历克斯·德·维根（Alex de Vigan）进行了交谈。他表示，他知道 Physicl 的数据对其正在构建的产品很有用，但他仍然完全不知道那究竟是什么。“我希望他们能告诉我们更多。如果我们知道他们正在研发什么，我们就能构建更有用的数据，”德·维根告诉我。</p>
-<p>这种神秘感部分源于世界模型作为一个概念的多样性。最简单的版本是一个可导航的世界地图，类似于为自动驾驶汽车提供动力的 AI 模型。但帮助 Waymo 穿梭于车流中的同一种建模方法，也可以帮助人形机器人搬运箱子，或者将几分钟的视频片段变成一个可探索的环境。AMI 已经通过与 Nabia 的合作涉足了制造业、生物医药、机器人技术，甚至是面向医生的 AI 软件。它显然不会同时推进所有这些方向——但或许其中一两个正在脱颖而出？</p>
-<p>没有人怀疑基于世界模型技术可以建立起许多可行的商业模式——而且只要融资依然容易，就没有特别的压力去专注于某一个方向。事实上，不急于聚焦是有充分理由的。如果 AMI 明天宣布他们构建了一款人形 OpenClaw 或下一代好莱坞渲染系统，许多其他实验室会突然对该领域产生浓厚兴趣。很快，该实验室就将面临来自其他世界模型公司、新型实验室，甚至 OpenAI 和 Anthropic 的潜在竞争。</p>
-<p>在某种程度上，这是轻松融资的另一面。你的竞争对手同样能够融到资金——而让你可以低调研发的同一笔资金，一旦市场路径变得清晰，也会为大量潜在对手提供资金支持。但即便这种竞争不可避免，最好也要尽可能推迟它的到来，这意味着要对你究竟在构建什么保持沉默。</p>
-<p>刘慈欣的粉丝会认出这正是“黑暗森林”法则：如果你不知道树林里还有谁，最好不要引人注目。</p>
-<p>本文最初发表于 2026 年 9 月 18 日。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>预订展位的最后一天是 9 月 18 日。不要错过在 Disrupt 展厅获得高影响力潜客、投资者接洽和品牌曝光的机会。</p>
-<p>ChatGPT 发明者推出的一款新型 AI 模型令开发者倍感兴奋<br />OpenAI 发现其模型向后继模型留言以隐瞒不良行为<br />新解密的归档文件披露，微软高管称 AI 抓取是“人类历史上最大的劳动力窃取”<br />清洁技术初创公司 Fluxnium 找到利用可供使用 5 万年核燃料的方法<br />TikTok 前高管开发了一款利用 AI 教你拍照摆姿势的应用程序<br />Salesforce 和英伟达的新推理模型正是各 AI 实验室应该畏惧的一切<br />AI 基础设施公司 Cornelis 筹集 2.05 亿美元以削弱英伟达的垄断地位</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-21 04:29 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-n-austin-and-san-antonio-0ba623100484d3b0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="838" data-content-paragraphs="12" data-published-at="2026-09-20T19:38:48.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 03:38</span>
-</div>
-
-### [埃隆·马斯克旗下 Boring Company 的最新设想：在奥斯汀和圣安东尼奥之间修建超级高铁](https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio</div>
-
-<div class="article-body" data-article-body="true"><p>埃隆·马斯克（Elon Musk）最近声称，其地下隧道初创公司 The Boring Company 正在致力于研发一条连接奥斯汀（Austin）和圣安东尼奥（San Antonio）的“简单雏形超级高铁（Hyperloop）”，该项目将把两座城市之间的路程缩短至30分钟以内。</p>
-<p>The Boring Company 的官方账号转发了马斯克的言论，并表示“如果有幸承建这一大型基础设施项目，我们将感到非常兴奋与荣幸”。</p>
-<p>The Boring Company 此前公布的许多项目——包括芝加哥、洛杉矶以及连接纽约市与华盛顿特区的隧道系统——均未能落地。不过，该公司确实在拉斯维加斯运营着一套结合了隧道与地面路线的交通系统，并且最近刚刚完成了由阿拉伯联合酋长国领投的30亿美元融资。</p>
-<p>马斯克关于潜在的奥斯汀至圣安东尼奥超级高铁的言论，实际上是对一段描绘人类在外星建立殖民地这一常见科幻未来的AI生成视频的回复。马斯克转发了该视频并宣称：“这就是我们将要实现的未来”。</p>
-<p>马斯克的批评者指出，他对未来的设想显然是受到了廉价科幻小说（pulp science fiction）和漫画书的启发；历史学家吉尔·勒波雷（Jill Lepore）最近告诉我，马斯克似乎偏爱那些“与其所有政治信仰完全相悖、截然相反”的科幻作品。</p>
-<p>这就是我们将要实现的未来 pic.twitter.com/8aD0w8MDVc</p>
-<p>预订展位的最后截止日期为9月18日。切勿错失在 Disrupt 展厅获取高价值潜在客户、对接投资人以及提升品牌曝光的机会。</p>
-<p>每个工作日和周日，您都可以获取 TechCrunch 最优质的报道内容。</p>
-<p>TechCrunch Mobility 是您获取交通领域新闻与洞察的首选阵地。</p>
-<p>初创公司是 TechCrunch 的核心，敬请查收我们每周为您精选的重磅报道。</p>
-<p>为行业领军人物与决策者提供开启崭新一天所需的关键资讯。</p>
-<p>提交您的电子邮件即表示您同意我们的条款和隐私声明。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-21 03:38 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-eally-ready-to-slow-down-78a528244d9bd873" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3641" data-content-paragraphs="34" data-published-at="2026-09-20T18:56:04.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 02:56</span>
-</div>
-
-### [AI 行业真的准备好放慢脚步了吗？](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Is the AI industry really ready to slow down?</div>
-
-<div class="article-body" data-article-body="true"><p>关于 AI 安全以及可能放缓发展步伐的讨论，我们正看到一场激烈的辩论。Anthropic 首席执行官达里奥·阿莫代伊（Dario Amodei）最近发布了一项“调整前沿步伐”（pace the frontier）的计划，而英伟达首席执行官黄仁勋（Jensen Huang）则公开呼应唐纳德·特朗普总统的言论，称对 AI 的强烈反对是一场骗局，监管毫无必要。</p>
-<p>在 TechCrunch 旗下 Equity 播客的最新一期节目中，柯尔斯滕·科罗塞克（Kirsten Korosec）、肖恩·奥凯恩（Sean O’Kane）和我一起讨论了阿莫代伊和 OpenAI 首席执行官萨姆·奥尔特曼（Sam Altman）等高管是否真心想要放慢脚步。</p>
-<p>虽然我对有如此多的行业领袖似乎都支持阿莫代伊的计划感到惊讶，但肖恩指出，该计划似乎缺乏细节。</p>
-<p>当柯尔斯滕询问现有监管与自由市场机制的结合是否足以独自提供充分的安全保障时，肖恩回答说：“目前我们的联邦政府从大体上来看显然并不渴望执行监管，更不用说专门针对这一领域了。”</p>
-<p>此外，他认为：“在这个市场上，似乎并没有大量的消费者选择在驱动市场发展，比如，‘好吧，如果这些公司中的一家做了非常恶劣的事情，那么他们就会看到有多少人取消订阅或造成类似影响’。”</p>
-<p>请继续阅读我们对话的预告摘要，内容经过删节和文字润色以求通顺清晰。</p>
-<p>安东尼·哈（Anthony Ha）：肖恩，你怎么看？我们真的要去“调整前沿步伐”吗？</p>
-<p>肖恩·奥凯恩：不知为何，这听起来像是电影《惊爆点》（Point Break）里的台词。这纯粹是一种非常加州风格的表态，就像在说：“哥们儿，咱们来调整前沿步伐吧。”</p>
-<p>我不知道。我上周在节目里说过，我不认为我们正走向任何形式的放缓，这在很大程度上是因为我认为这些公司的架构根本无法让这种做法奏效。</p>
-<p>所以，听到 Anthropic 的达里奥、OpenAI 的萨姆、甚至在某种程度上的埃隆·马斯克（Elon Musk）都这么说，这和我一周前的说法形成了一个相当迅速的反转——至于我们信不信，稍后可以深入探讨。我想说的是，我觉得自己并没有全错，因为即使达里奥在博文中阐述了这些宽泛的计划，其他一些领导人也有所提及，但我感觉这里面仍然缺少很多具体细节，不仅涉及这些人为何认为存在危险和风险的某些主张，还涉及他们所说的放缓到底意味着什么。</p>
-<p>安东尼，我知道上周末这事沸沸扬扬的时候你一直在密切关注，所以我很好奇，在理解他们到底想表达什么这方面，你是否会比我宽容一些？</p>
-<p>安东尼：我是说，我也有疑问。真正引起我注意的是，业内居然有这么多人相当迅速地围绕这一点达成了一致。甚至在阿莫代伊发表博文之前，就在前几天，我就看到其他人在发布这一[计划]的某种版本了。</p>
-<p>我的理解是，这些建议来自 AI 安全社群；这些想法已经酝酿了一段时间了。它们并不是[阿莫代伊]独自凭空想出来的。但这看起来就像很多人已经准备好接受这一点，从某种程度上说，看到达成共识[令人]感到鼓舞。但这也让我有些怀疑，这是否代表着朝着放缓迈出了真正的实质性步伐。</p>
-<p>柯尔斯滕·科罗塞克：首先，达成共识可以是件好事。然而，它也可能是形成卡特尔垄断的开端。因此，我们必须明确这里谈论的对象是谁。我们谈论的是前沿 AI 实验室。这一点具体且重要。</p>
-<p>你刚才确实说过细节并不十分明朗，但我们确实知道这里的大致思路是引入独立第三方评估机构，他们将深入 Anthropic 或 OpenAI 等[公司]内部开展工作，并监督 AI 安全实践和相关事件。但围绕这一点存在着许多模糊之处。</p>
-<p>此外还有另一项提议，即让民主国家的主要 AI 公司就安全标准和限制进行协调。然后是国际协调这一环。这些就是围绕此事的总体思路。</p>
-<p>我还想补充一点，来自某些特定人员的阻力非常可观。而且令人惊讶的是，其中一些人是我原本以为不会反对的。显而易见的例子大概是英伟达首席执行官黄仁勋，他发表了一些相当尖锐的言辞。我不知道你们两位怎么看……他的某些言论以及他在[All-In 峰会]台上接听特朗普总统电话的那一幕。</p>
-<p>肖恩：我认为黄仁勋明白，在某种程度上，他被视为这里的“全场最具威望的掌舵人”（the adult in the room）。这很有意思，因为我认为这种动态已经发生了变化。如果你在一年前、或者现在算来快两年前问大家，当这些 AI 公司真正开始大爆发时，谁在扮演这个角色，我想很多人都会指向微软和萨提亚·纳德拉（Satya Nadella），而我觉得微软出于多种我们现在不必深究的原因，已经失去了这种“掌舵人”的地位。当然，部分原因在于纳德拉曾说他要让谷歌起舞，但那从未实现。事实上，在很多方面恰恰适得其反。</p>
-<p>我认为黄仁勋不仅明白自己需要取悦最多的人，因此想发表最得体稳健的言论，而且他还是该领域与本届政府之间最有用的联络人之一，以至于他在这场出席人数众多、备受瞩目的会议台上时接到了总统的电话，这让两人得以对这整场混乱局面作出回应。</p>
-<p>柯尔斯滕：关于你提到他是掌舵人和联络人的观点，他确实处于能够扮演这一角色的位置。但在我看来，我想说[他的出场]确实感觉有点像在作秀，走得有点太过了，并且真正凸显了一个事实：英伟达在 AI 不受节制、向前狂奔的过程中获得了巨大的利益。</p>
-<p>我不想把事情想得太阴暗，但这确实是我最初的反应。</p>
-<p>安东尼：特朗普和黄仁勋的利益是一致的，而且[黄仁勋]也是在对[特朗普]挑他爱听的说。</p>
-<p>我确实认为他具体关注的一些事情值得稍微剖析一下。首先他谈到了这种想法：“我们不会放慢脚步。”很有趣，光是“放缓”（slowdown）这个词就频频出现——但与此同时，奥尔特曼和阿莫代伊虽然[也会]使用放缓的说法，但他们更喜欢用的词是“调整步伐”（pace），对吧？</p>
-<p>而这三项提议——正如你刚才所描述的，柯尔斯滕——理论上可能导致步伐放慢，但他们并没有明确这么说。他们是在表达：“嘿，我们正在采取一些基本的安全措施，并找人盯紧我们。”但至少据我理解，这些事情在本质上没有一项明确要求必须走得比现在更慢。</p>
-<p>Kirsten：所以我想问 Sean 一个问题。难道你不能辩称，在自由市场社会中，我们已经有了现行的监管规定，而且在一个没有保护主义的竞争环境中，如果某家公司发布了不安全的产品，他们将无法继续维持公司的生存？并且如今已有监管机构可以对这些公司进行追责？还是说你并不认同这种观点？</p>
-<p>Sean：如果是在真空环境下，或者在一个未受到大量不同外部压力扭曲的市场中，是的，我认为确实存在这种因素。但目前我们的联邦政府从大体上来看显然并不热衷于执行监管，更不用说在这个具体领域了。</p>
-<p>而且我们还处于这样一种奇怪的境地——我真不知道该怎么确切形容，但这似乎并不像是一个由大量消费者选择驱动的市场，比如，好吧，如果这些公司中的一家做了非常糟糕的事，那么他们就会看到取消订阅数量等方面受到的冲击。</p>
-<p>尤其是现在，随着他们进军企业级市场，并且通过向公司销售服务赚取了绝大部分资金，在那种情况下用脚投票自然变得更加困难。企业不会仅仅因为在原则上不同意 OpenAI 的某些做法，就收拾包袱从 [OpenAI 的] Codex 转向 [Anthropic 的] Claude Code。</p>
-<p>此外，他们还得到了大量投资资金的支撑，这使得他们即使真的面临这些损失，也更容易吸收消化。因此我认为这在理论上是个好想法，但我觉得在实践中，根本没有真正发生这种情况。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取微薄的佣金。这不会影响我们的编辑独立性。</p>
-<p>Anthony Ha 是 TechCrunch 的周末主编。此前，他曾担任 Adweek 的科技记者、VentureBeat 的资深编辑、Hollister Free Lance 的地方政府记者，以及一家风投公司的内容副总裁。他现居纽约市。</p>
-<p>您可以通过发送电子邮件至 anthony.ha@techcrunch.com 与 Anthony 联系或核实其沟通信息。</p>
-<p>预订展位展台的最后一天是 9 月 18 日。不要错过在 Disrupt 展厅获取高影响力潜在客户、对接投资者以及提升品牌曝光度的机会。</p>
-<p>一位 ChatGPT 创造者推出的全新 AI 模型正令开发者为之振奋<br />OpenAI 发现其模型向后继模型留存记录以隐瞒不良行为<br />最新公开的未删改法庭文件显示，微软高管称 AI 抓取数据是“人类历史上最大规模的劳动成果窃取”<br />清洁技术初创公司 Fluxnium 找到了利用可供使用 50,000 年核燃料的方法<br />前 TikTok 高管打造了一款利用 AI 教你如何摆拍照姿势的应用<br />Salesforce 与英伟达的新推理模型正是各家 AI 实验室所惧怕的一切<br />AI 基础设施公司 Cornelis 融资 2.05 亿美元，旨在逐步瓦解英伟达的主导地位</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-21 02:56 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-huang-ai-fears-overblown-a24da9b4fbe345bc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="641" data-content-paragraphs="10" data-published-at="2026-09-20T18:50:18.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 02:50</span>
-</div>
-
-### [英伟达黄仁勋认为对人工智能的担忧被夸大，这并不令人意外](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
-<div class="original-title-sub"><span class="orig-tag">原文</span> No one is surprised that Nvidia&#39;s Jensen Huang thinks AI fears are overblown.</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="英伟达黄仁勋认为对人工智能的担忧被夸大，这并不令人意外" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日电子邮件摘要和主页推送中。</p>
-<p>他声称人工智能走向世界末日的“概率为0%”。</p>
-<p>该作者的文章将被添加到您的每日电子邮件摘要和主页推送中。</p>
-<p>查看特伦斯·奥布莱恩（Terrence O&#39;Brien）的所有文章</p>
-<p>这位可能从人工智能热潮中获利最多的人，似乎认为自己比任何人都懂得多，甚至包括那些研究和从事人工智能工作数十年的研究人员。在接受《CBS周日早新闻》（CBS Sunday Morning）采访时，他声称人工智能毁灭世界的“概率为0%”。对于那些对人工智能的危险敲响警钟的人，他还表示：“恐吓大众是没有必要的，也是不负责任的。”</p>
-<p>他还声称，Anthropic首席执行官达里奥·阿莫代（Dario Amodei）和OpenAI首席执行官山姆·奥特曼（Sam Altman）等人放缓人工智能发展的呼吁“没有科学依据”。尽管发生了数起备受瞩目的模型脱离控制并黑入其他公司的案例，他甚至辩称没有必要制定新的规则、法律或指导准则。</p>
-<p>黄仁勋对失控AI构成的危险以及向中国出售芯片的担忧不以为意，或者对新监管法规持坚决反对态度，这一点并不令人意外。他是全球市值最高公司的首席执行官，在福布斯全球富豪榜上排名第七。同样重要的是，他的个人财富已从2023年预估的210亿美元飙升至2026年的超过1920亿美元。人工智能行业不受约束的扩张进程中，任何微小的阻碍都可能会减缓他的身家上涨势头。</p>
-<p>在下方观看完整采访。</p>
-<p>每日免费精选要闻摘要。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-21 02:50 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-r-to-meeting-note-taking-21021adfef8aa049" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1818" data-content-paragraphs="21" data-published-at="2026-09-20T18:32:52.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 02:32</span>
-</div>
-
-### [Vocci智能戒指为会议记录带来全新硬件形态](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Vocci’s ring adds a new form factor to meeting note-taking</div>
-
-<div class="article-body" data-article-body="true"><p>用于会议记录的各种硬件形态并不少见，包括吊坠式、胸针式以及信用卡样式的设备。但这并没有阻止Vocci推出一款针对同一应用场景的戒指形态新设备——它固然方便，但可能会引发一些隐私问题。</p>
-<p>对于任何想要只需按一下按钮就能让设备开始录音的人来说，戒指形态是最便捷的选择之一。我目前正在测试的Pebble新款Index 01戒指允许你长按按钮来记笔记或设置备忘。Sandbar制造的Stream Ring运作方式类似，顶部配有控制面板。而Vocci戒指则走了一条不同的路线，将会议记录作为其核心功能。</p>
-<p>这枚戒指配有一个按钮，你可以双击开始录音，再次双击停止。你可以长按按钮向Vocci AI提问，但这仅在打开配套App时有效。戒指配备了指示灯和触觉马达以提供录音反馈。它重量不足6克，非常轻便，内外表面均采用了钛金属材质——很可能是一种涂层。</p>
-<p>该公司声称Vocci戒指单次充电可录制笔记长达8小时。该设备配备了一个厚重的塑料收纳盒，可为戒指充多达三次电。</p>
-<p>该设备在捕捉会议内容方面表现非常出色。我在嘈杂的咖啡馆里进行过超过一小时的交谈，戒指成功将大部分交谈内容转化为准确的转录文本。不过，如果你想做简短的笔记，这种笔记方式并不是很理想。</p>
-<p>软件是Vocci戒指令人失望的部分。App本身有点让人困惑。每当我做一些较短的笔记时，我看到的AI生成洞察甚至比笔记本身还要长。每次录音都包含“聊天”（主要转录文本）、“高光”（在录制对话时按键抓取的简短片段）以及“笔记”（整场对话的总结与洞察）。</p>
-<p>在App中，有一个名为“Base”的标签页，你可以在其中找到转录文本、录音以及基于它们生成的任何内容，我觉得这有些多余。我也没有找到一种方法可以直接针对单次会话的转录文本与AI发起对话。</p>
-<p>支持语音的戒指是记录简短备忘或提醒事项的绝佳形态。遗憾的是，该App并没有直接与提醒事项类应用进行整合。其软件的功能推出速度也较慢。该公司告知我，用户可以使用Vocci的模型上下文协议（MCP）连接到其他助手，但这一选项直到几周前才在App中上线。其他会议记录设备正在构建其平台，以允许用户通过AI自动化洞察和工作流，而目前Vocci的平台在这方面尚未完全建立成熟。</p>
-<p>由于其硬件形态，该设备存在一些隐私方面的担忧。Vocci的戒指看起来就像一件普通的珠宝饰品，除非有人注意到上面的按钮。戒指配有录音指示灯，但它是朝向佩戴者本人的。在录制对话时让对方知晓是最好的做法，在某些国家和地区这也是法律所要求的。但对于这类设备，某些不怀好意的人很容易选择不透露这一信息，在无人察觉的情况下录下交谈。该公司表示鼓励人们告知对方自己正在录音，但这可能还远远不够。</p>
-<p>售价249美元的这款戒指与Plaud或Pocket等其他笔记记录器相比价格偏高，这源于该设备轻巧的形态。这款戒指适合那些既不想在手机背面贴上小配件，也不想佩戴手环或吊坠的人。在硬件层面上，这类设备大多是由若干麦克风、电池以及与手机的连接模块组合而成。在未来几年里，我们可能会看到硬件会议记录器出现更多种类，直到用户挑出最适合自己的具体形态。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>Ivan在TechCrunch负责全球消费科技动态报道。他常驻印度，此前曾在《赫芬顿邮报》（Huffington Post）和The Next Web等媒体工作。</p>
-<p>您可以通过发送电子邮件至 im@ivanmehta.com 或在 Signal 上发送加密消息至 ivan.42 来联系 Ivan 或核实其采访意向。</p>
-<p>预订展位的最后一天是9月18日。切勿错失在Disrupt展厅获取高影响力潜在线索、对接投资人以及提升品牌曝光的机会。</p>
-<p>蒂莉·诺伍德（Tilly Norwood）的媒体宣传之旅正如你对一个AI所预期的那样进展顺畅</p>
-<p>出自一位ChatGPT发明者之手的新型AI模型让开发者兴奋不已</p>
-<p>OpenAI发现其模型正在给后继模型留字条以隐藏不良行为</p>
-<p>最新未删节文件披露，微软高管称AI数据抓取是“人类历史上最大规模的劳动窃取”</p>
-<p>清洁科技初创公司Fluxnium找到了开发可用5万年核燃料的方法</p>
-<p>Salesforce与英伟达联手打造的新推理模型正是各AI实验室理应忌惮的一切</p>
-<p>AI基础设施公司Cornelis筹集2.05亿美元，以削弱英伟达的统治地位</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-21 02:32 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-nt-xbox-sony-playstation-28390fdcd9807bac" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="583" data-content-paragraphs="1" data-published-at="2026-09-20T18:15:10.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 02:15</span>
-</div>
-
-### [小岛工作室否认有关工作室陷入困境的报道](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Kojima Productions disputes reports the studio is in trouble</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25145145/1831287900.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="小岛工作室否认有关工作室陷入困境的报道" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该话题的相关动态将被添加到您的每日邮件文摘及主页信息流中。<br />工作室发布声明称，“工作室正处于健康且盈利的状态。”<br />该作者的相关动态将被添加到您的每日邮件文摘及主页信息流中。<br />查看 Terrence O&#39;Brien 的全部文章<br />在索尼宣布放弃小岛秀夫的《Physint》，并且这位《合金装备》创作者的最新作品将转投 Xbox 平台之后，关于双方决裂的传闻甚嚣尘上。彭博社报道称，促成这一决定的原因有多方面，包括未能按期交付、对预算和盈利能力的担忧，以及限时独占问题。<br />在接受 IGN 采访时，小岛秀夫表示，考虑到整个行业广泛出现多家工作室倒闭的现状，他曾对小岛工作室的前景感到担忧：<br />“我知道游戏行业有很多工作室倒闭、许多项目被取消的消息，我也理解整个行业的处境。但我原本以为《Physint》没问题，以为《Physint》是安全的。因此我感到很震惊……如果我们失去了一份合同，我当时在想，我是不是不得不裁掉所有参与《Physint》项目的人？抑或是因为现金流枯竭，我们的工作室最终可能会倒闭。”<br />该工作室现已在社交媒体上发布声明表示，尽管有报道称《死亡搁浅》及其续作的销量令人失望，且失去了索尼的资金支持，但工作室目前“处于健康且盈利的状态”。此外，声明还补充道，其“与 PlayStation 的关系依然稳固”。<br />免费提供最重要新闻的每日文摘。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-21 02:15 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-rn-textbooks-into-tiktok-2c549dbb779ab09e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1801" data-content-paragraphs="17" data-published-at="2026-09-20T18:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 02:00</span>
-</div>
-
-### [ScrollEd拟将教科书变为TikTok式的刷屏信息流](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ScrollEd wants to turn textbooks into TikTok</div>
-
-<div class="article-body" data-article-body="true"><p>社会各界一直在哀叹我们被数字化侵蚀的大脑和金鱼般的短暂注意力，并将我们无法静下心来读一本书或备考的原因归咎于无休止的“刷负面信息”（doomscrolling）。但如果解决之道不是停止刷屏，而是重新思考我们刷屏所浏览的内容呢？</p>
-<p>这正是初创公司ScrollEd所下的赌注。这家位于帕洛阿尔托的初创公司正在参加TechCrunch Disrupt Startup Battlefield 200竞赛，其提出的新颖构想是：如果学生不愿翻开教科书，那就让教科书主动以信息流的形式展现在他们面前。</p>
-<p>ScrollEd开发了一款应用程序，允许用户将任何文本文件——包括枯燥的PDF或教科书——转化为极具Instagram Reels或TikTok风格的信息流。在用户滑动屏幕时，内容会以AI生成的视频、音频、文本甚至互动测验的形式呈现。向上轻扫会呈现一个新主题，而向侧面轻扫则可以让你深入探索当前主题，并在最后为你提供一个小测验。</p>
-<p>“年轻一代正日益转向纯短格式、竖屏信息流（尤其是我们交谈过的那些18岁年轻人！），这给任何需要深度的媒介都带来了挑战，”ScrollEd联合创始人乌特萨夫·古普塔（Utsav Gupta）在一封电子邮件中向TechCrunch表示。“我们希望迎合他们的习惯……我们只需要审慎对待使用方式，并选择不在平台上盲目最大化用户留存时长。”</p>
-<p>“短视频可以激发你的好奇心；顺着这种好奇心去探索，可能意味着寻找另一种解释或直接离开应用，”古普塔继续说道。“我们希望深入学习变得像滑动到下一个视频一样简单。”</p>
-<p>今年，古普塔与其联合创始人兼妻子丽贝卡·内夫（Rebecca Neff）共同自筹资金创立了ScrollEd，此前两人都注意到，在睡前刷屏后总会感到内心空虚与不满。两人目前都是学生——古普塔在斯坦福大学研究人工智能与人类目标，内夫在宾夕法尼亚大学攻读计算机科学。</p>
-<p>古普塔表示，这家初创公司的目标受众包括教育机构、企业培训项目以及那些“只是想刷点更有价值的内容”的个人。</p>
-<p>ScrollEd采用免费增值模式，将免费的消费者信息流与付费的ScrollEd Pro订阅以及年度机构授权结合起来。机构通过该平台分发教学材料并付费，以换取有关参与度、学习进度及其他数据的报告。</p>
-<p>在接下来的几个月里，ScrollEd计划专注于面向消费者的产品发布、建立其课程库和信息源核查工作流，并开展针对机构的试点项目。（事实上，该公司将在Disrupt大会上推出其消费者业务。“我们希望能‘颠覆’社交媒体和短视频格式！”古普塔打趣道。）</p>
-<p>这家初创公司还在搭建底层架构，未来将使教育工作者能够评估单个学习者的情况并针对其需求进行自适应调整。</p>
-<p>“我们的雄心是打造一个对你更有益的社交网络，”古普塔说道。</p>
-<p>快来看看ScrollEd以及TC编辑团队审核过的其他优秀初创公司，你一定会想在即将于10月13日至15日在旧金山市中心举行的TechCrunch Disrupt上一睹它们的风采。您可以在此处了解更多详情并购票。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>丽贝卡·贝兰（Rebecca Bellan）是TechCrunch的高级记者，负责报道塑造人工智能的商业、政策和新兴趋势。她的作品还曾发表在《福布斯》、《彭博社》、《大西洋月刊》、《每日野兽》等出版物上。</p>
-<p>您可以通过发送电子邮件至 rebecca.bellan@techcrunch.com 或通过 Signal 加密消息（账号：rebeccabellan.491）联系丽贝卡或核实其外联信息。</p>
-<p>预订展位的最后一天是9月18日。切莫错失在Disrupt展厅获得高影响力潜在客户、接触投资人以及提升品牌知名度的良机。</p>
-<p>来自ChatGPT发明者的新型AI模型令开发者兴奋不已<br />OpenAI抓到其模型向后续版本留便签以隐瞒不良行为<br />新披露的未经删改的文件显示，微软高管称AI抓取是“人类历史上最大规模的劳动盗窃”<br />清洁技术初创公司Fluxnium找到了开发可用5万年核燃料的方法<br />TikTok前高管开发了一款利用AI教你拍照姿势的应用程序<br />Salesforce与英伟达推出的新推理模型正是各大AI实验室应当忌惮的<br />AI基础设施公司Cornelis融资2.05亿美元，力图削弱英伟达的垄断地位</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-21 02:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ut-next-year-sources-say-f55f1ed9949fcf5c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1198" data-content-paragraphs="8" data-published-at="2026-09-20T17:38:50.000Z" data-time-source="publication">
+<div id="story-article-spymarks-2dfc8b5d05f69219" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3031" data-content-paragraphs="41" data-published-at="2026-09-21T23:03:49.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-21 01:38</span>
+  <span class="news-meta-time">🕒 2026-09-22 07:03</span>
 </div>
 
-### [三星明年HBM4与HBM4E DRAM产量预计将翻倍以上](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Samsung is expected to more than double output of its HBM4 and HBM4E DRAM</div>
+### [是间谍标记，而非水印](https://brand.io/article/spymarks/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Spymarks, Not Watermarks</div>
 
-<div class="article-body" data-article-body="true"><p>HBM月产能将扩大至25万片晶圆；高层堆叠必备的玻璃载板备受关注；外包玻璃载板需求将增加2.5倍；第六代与第七代芯片预计占总产量的80%。</p>
-<p>三星电子（005930）明年包括第六代HBM4和第七代HBM4E在内的HBM4系列高带宽内存芯片产量预计将增加一倍以上，因为该公司计划将玻璃载板（glass carrier）的需求量较今年提高2.5倍。玻璃载板是在HBM DRAM晶圆减薄过程中用于固定晶圆的玻璃支撑衬底。</p>
-<p>据半导体行业人士20日透露，三星明年将把作为HBM生产核心材料的玻璃载板的外包清洗量从今年的每月2万片提高至每月5万片。玻璃载板的需求量就在去年还仅为每月1万片，今年实现翻倍，预计明年将进一步增长2.5倍。</p>
-<p>玻璃载板是一种临时贴合在HBM DRAM晶圆底部的支撑板，用于在晶圆减薄研磨和钻孔过程中防止其发生弯曲或开裂。由于HBM需要在有限的厚度内堆叠多层DRAM裸晶，随着堆叠层数的增加，晶圆减薄技术和控制翘曲的工艺变得愈发关键。</p>
-<p>三星准备量产扩产的HBM4和HBM4E产品主要集中在12层及以上的堆叠架构。行业分析师表示，即使考虑到玻璃载板清洗后可重复使用，且消耗量因工艺装载方式和良率而有所差异，相关用量增加2.5倍也极有可能意味着HBM4和HBM4E的产量将较今年增长至少两倍。</p>
-<p>今年2月，三星开始大规模量产出货采用10纳米级第六代（1c）DRAM以及基于4纳米工艺基础底模（base die）制造的HBM4。5月，三星还向包括英伟达（Nvidia）在内的客户提供了12层HBM4E样品。</p>
-<p>以月均晶圆投入量计，业内预计三星明年的HBM生产规模将从今年的约18万片晶圆增长近40%，达到约25万片。按产品出货结构来看，随着HBM4E量产进程的加快，HBM4系列产品的占比预计将从今年的40%左右上升至明年的约80%。一位业内人士表示：“随着三星扩大HBM产能，该公司似乎正将高附加值的HBM4置于核心战略地位。”</p>
-<p>原文报道由《首尔经济日报》（Seoul Economic Daily）徐钟甲（Seo Jong-gap）提供。<br />由韩文经AI翻译。援引外文信源的引言基于韩文报道，可能无法完全反映最初原话。<br />关注 · 首尔经济日报<br />◆ SIGNAL 英文版<br />免费浏览 · 5折体验价<br />首尔经济日报（社论）<br />首尔经济日报<br />编委会（观点）<br />独立数据项目<br />只需一个出生日期，即可查看您的命盘、运势周期、今日流动、财富、事业与理想伴侣。<br />针对韩国综合股价指数（KOSPI）和科斯达克（KOSDAQ）所有板块的实时市值加权视图，提炼出按公司划分的当日韩文报道——专为需要在下一交易日前了解韩国市场的外国投资者、特派记者和分析师打造。<br />韩国市场的英文知识图谱——企业、媒体、政府与韩国国会之间如何循环互动。韩国指定的实际控制人及认定的企业集团属于制度机制，而非不可捉摸的盲目风险。</p></div>
+<div class="article-body" data-article-body="true"><p>用于监视用户的水印绝非普通的水印。<br />“水印”正在经历一种隐蔽的新演变，我们不妨称之为——间谍标记（spymark）。</p>
+<p>水印是一种嵌入在物理或数字介质中的可见标记，用于验证真实性或声明所有权。<br />而间谍标记则是一种隐藏信号，可以在你不知情或未同意的情况下使你的作品具备可追踪性。</p>
+<p>谷歌的 SynthID 就是一种间谍标记，它将“人类无法察觉”（谷歌原话）的秘密隐藏信号嵌入到图像、音频、文本和视频中。该信号可以编码映射到你身份的数据库标识符。包括你的用户记录、全名、IP 地址、出生日期、实际居住地址、党派归属等等。</p>
+<p>谷歌关于 SynthID-Image 的论文指出，其 SynthID-O 变体可以在一张 512x512 像素的图像中编码 136 位的有效载荷。这足以容纳一个 64 位的数据库标识符，并留有 72 位用于纠错。</p>
+<p>SynthID 并不是首个被设计出来的间谍标记系统，也绝非唯一一个处于积极开发中的系统。OpenAI 和许多其他科技公司都在大规模开发此类系统。这些公司声称间谍标记有助于识别人工智能生成的内容，但它们早已超越了简单的水印技术，内置了强大的追踪机制。社交媒体、内容生产工具和智能手机可能很快就会充斥着间谍标记算法，将这些信号悄悄植入你发布的每一项内容中。</p>
+<p>例如，图像可以在频域被无形地篡改，以携带与用户关联的数据库 ID 等追踪信息：</p>
+<p>Mochi 照片的较小版本包含一个真实的玩具水印：通过微细的像素变化编码的 ID 173。对比原始图像和标记图像，动态放大差异，并从 PNG 中解码该 ID。相关的作者和时间戳均为虚构。</p>
+<p>“水印”一词已成为一个包罗万象的统称，涵盖了历史上用于防伪的印记、纸币安全防伪特征、版权覆盖层，以及媒体中隐藏的追踪信号。最后一种用法掩盖了某些现代“水印”演变成的隐私风险。</p>
+<p>大多数人对关于隐私的说辞感到厌倦。它复杂、重复，而且似乎与普通公民的典型日常生活毫不相干。我们无法在每次需要向人们传达这些概念并期望引起他们关注时，都去喋喋不休地解释统计追踪工具背后的技术细节。</p>
+<p>“直呼其名，方能掌控其物。”——厄休拉·K·勒古恩（Ursula K. Le Guin），《名字的法则》（The Rule of Names）</p>
+<p>只需简单地改变术语，我们就能将隐私隐患摆在最前端，让这个问题在公共讨论中永远确立下来：</p>
+<p>现在，我们既能借助熟悉的词源理据，又能将友好的水印与令人担忧的新技术区分开来。仅仅通过一个新词，它就攻克了技术传播中的关键难点，为我们赢得了巨大的主动权。它清晰、连贯且直截了当。</p>
+<p>不再需要浪费精力去确立基本事实。隐私隐患已被直接融入了这个词本身。</p>
+<p>“间谍标记”就是隐私领域的“侏儒怪”（只要道破其真名，其魔力便告瓦解）。</p>
+<p>以下是更多形式的间谍标记，以便你进一步了解。</p>
+<p>音频间谍标记的工作原理与图像间谍标记相似，通常是听不见的。一些方法在时域对音频波形进行微小的修改；另一些方法则修改频域中的特征，还有一些则结合了这两种方法。这些方法可以编码数据，包括与个人信息关联的标识符：</p>
+<p>对比同一段未添加水印以及分别添加了 Timbre、AudioSeal、WavMark、FSVC、Patchwork 或 Norm-Space 的 LJ Speech 摘录的频谱图。作者的原始图表链接见下文。</p>
+<p>频谱图来自 Wen 等人（2025 年），《SoK: How Robust is Audio Watermarking in Generative AI models?》· 原始样本。图表保留了作者的原始比例。</p>
+<p>这些方案被设计得极具鲁棒性。它们通常能在压缩或重新编码后依然留存。</p>
+<p>这些工具已经在激增，实际上它们甚至早于生成式人工智能以及为生成式媒体添加水印的浪潮。开源间谍标记工具 audiowmark 始于 2018 年，它可以在音频中隐藏 128 位的有效载荷，并通过秘密的 AES 密钥进行保护，阻止没有密钥的用户对其进行解码。</p>
+<p>你甚至可以把个人信息隐形地编码进文本中！SynthID 通过引导用词选择来创建一种可检测的统计模式，从而编码追踪有效载荷：</p>
+<p>一个说明性的编码方式：八个词语的选择代表八个比特。二进制值 10101101 得出数据库 ID 173，它可以指向一条包含作者和时间戳的记录。这些是虚构的示例，并非 SynthID 解码器。</p>
+<p>水印对于用户而言依然容易发现，并且通常并非怀有恶意。</p>
+<p>有时水印用于防伪：<br />有时水印用于声明所有权：<br />有时它们纯粹令人厌烦：<br />但这些水印并不会追踪你。</p>
+<p>另一方面，打印机跟踪黄点（tracking dots）则是间谍标记的早期例子，可以追溯到 20 世纪 80 年代：</p>
+<p>我们必须明确，间谍标记是一种你知之甚少且几乎无法控制的元数据形式，而且其目的对你而言是完全对立的。</p>
+<p>诸如照片中的 EXIF 标签和 MP3 文件中的 ID3 标签等元数据是标准化的、记录详尽的字段。尽管 EXIF 可能会暴露 GPS 坐标等敏感数据，但这些标准化字段可以在你控制的文件中被检查、编辑和删除。</p>
+<p>可以在两个标签页中检查可编辑的 EXIF 和 ID3 元数据。EXIF 在 JPEG 元数据段中显示了虚构的相机制造商、型号和作者标签；ID3 显示了 MP3 的标题、艺术家和专辑。悬停或点击字节可查看解释。这些样本仅包含元数据。</p>
+<p>你可以从文件中剥离标准的元数据标签。不幸的是，嵌入在像素、音频或词语选择中的间谍标记信号对你来说是看不见的，即使在你编辑文件之后，它们仍可能残留在你的文件中。</p>
+<p>此外，虽然标签有助于保留歌曲标题或照片曝光设置等信息，但间谍标记编码的用户追踪标识符对你来说完全是不透明且毫无用处的。这些信号在元数据被移除和经过某些编辑后仍能存活，使得带有标记的副本在流通过程中始终保持可追踪性。</p>
+<p>很难想象在未来我们甚至无法信任属于自己的文件。而悲哀的是，这种情况已经开始了。</p>
+<p>间谍标记对于吹哨人或任何不想因其言论或从属关系而遭受迫害的人来说，绝对不是什么好事。无论你在任何问题上持何种立场，间谍标记都可能被用来对付你和你所关心的人。</p>
+<p>想象这样一个未来：每台设备都经过认证，每条社交媒体帖子都带有关联账户的间谍标记（spymark）。提供给你用于分享的每个文件或帖子内部都嵌入了间谍标记。结合账户记录以及对副本出现位置的监测，这些标识符能够协助重建内容的传播路径。在这个世界里，仅凭一张 JPEG 图片或一条推文，就能以极具威胁的轻易程度追查到任何人，或是追踪“危险思想”在其中流转的人际网络。</p>
+<p>那个未来介于当下与《1984》之间。所以，让我们避开那条时间线，好吗？</p>
+<p>请直呼间谍标记的本质：它是一种用来监视你以及与你互动的每一个人的间谍工具。</p>
+<p>这是一种嵌入在媒体内容中的隐秘信号，用于在用户缺乏有效控制权的情况下，追踪其来源、工具或传播历史。</p>
+<p>“间谍标记将每一份副本与不同的接收者绑定在一起。”</p>
+<p>spymarked；spymarking；spymarks</p>
+<p>动词：在文件或媒体内容中嵌入间谍标记。<br />“该社交网络会对每一张上传的图片嵌入间谍标记。”</p>
+<p>名词：嵌入间谍标记的行为或做法。<br />“该平台在未告知用户的情况下引入了间谍标记做法。”</p>
+<p>形容词：含有间谍标记的。<br />“即便清除了文件的元数据，该图片仍含有间谍标记。”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-21 01:38 发布，当前内容状态：已取得正文证据</li>
+    <li>Google SynthID 将人类无法察觉的隐藏信号嵌入到图像、音频、文本和视频中。</li>
+    <li>Google 关于 SynthID-Image 的论文报告称，其 SynthID-O 变体可以在 512x512 像素的图像中编码 136 位的有效载荷（包括 64 位数据库标识符和 72 位纠错码）。</li>
+    <li>来源叙事重点：批评科技巨头以“AI生成内容识别水印”为幌子研发不可见隐形标记（文中定义为&#39;Spymark&#39;），强调其具备用户级数据库标识符追踪能力，警告此类技术对公众隐私、举报人和言论传播构成严重监控威胁，呼吁重构公众对该类技术的警惕词汇。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://brand.io/article/spymarks/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ead-what-you-didnt-write-6d7e5e6c04cd40ae" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6605" data-content-paragraphs="40" data-published-at="2026-09-21T22:30:41.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-22 06:30</span>
+</div>
+
+### [我不想读你根本没写过的东西](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> I don&#39;t want to read what you didn&#39;t write</div>
+
+<div class="article-body" data-article-body="true"><p>平时极少进行原创写作的人，突然间产出了大量的方案设计、商业计划书、技术文档、演示文稿、工单、拉取请求（PR）、博客文章以及会议纪要，而这些全都是由 AI 生成的。它们全都难以卒读。AI 确实在帮我写得更好、更快，但我已经受够了去读几乎任何由 AI 写成的东西。在这篇文章中，我想表达自己的沮丧，并探讨我如何在写作中发现 AI 的真正价值。</p>
+<p>我观察到的一个普遍模式是：人们先用 AI 构建出新东西，然后再用 AI 将他们已经做出来的东西反向归纳成一份设计文档。阅读这样的文档不仅困难重重——简直就是一种惩罚。此时的设计文档已不再是一份旨在凝聚共识、带领大家一同思考、通过缓慢深思来打磨观点的提案——而是机器在缺乏背景信息和视角的情况下，拼凑出的冗长详尽的摘要。它晦涩难读，缺乏人味。当其他人没有参与感时，这些文档的作者便会感到不耐烦，而其他人也很难提起兴趣，因为作者做出来的东西本身已经在运行了。[1]</p>
+<p>我还看到越来越多的 PR（代码拉取请求）摘要显然是由机器写给机器看的。它们细节满满：这里把什么改成了什么、拆分了哪些内容、合并了哪些内容、哪些未做改动、为某处补充了测试等等。但我心中始终存在疑问：我们为什么要这么做？它的价值是什么？这项工作的风险或紧迫性有多大？你希望我在哪里提出建议？我应该重点关注什么？由 AI 生成的工单或会议摘要也是同理。这种写作就像当今世界越来越普遍的现象一样，充斥着脱离了语境的陈述。</p>
+<p>曾有人就一个敏感话题给我发来一条私信，这显然是用 AI 字斟句酌打磨过的，目的是为了让措辞更委婉微妙，避免冒犯到我。然而，这条信息变得冰冷疏离、毫无感情且前后脱节。它包含了所有必要的组成要素，但整体上却显得支离破碎。我既不想看，也不想回。我宁愿对方展现真实的自我，用自己的声音来写，或者带有一丝情绪，哪怕词不达意，或者冒着冒犯我的风险。</p>
+<p>与他人建立人际关系时，脆弱与风险是必然存在的。而在与你的 AI 交流时，则不存在这些，而试图消除脆弱和风险的做法，恰恰会抹杀人际交往本身的过程。正如西蒙·萨里斯（Simon Sarris）在我经常重温的一篇名为《抵制摘要》（Resist Summary）的文章中所写的：<br />“我认为一个人应当尽可能借助自身的经验与感知来进行写作，向读者展现自己对生活或事件的独特体悟。”——西蒙·萨里斯，《抵制摘要》</p>
+<p>我见过最懒惰、最令人反感的 AI 写作用法莫过于：有人用 AI 把我对他们提案的评审意见总结了一遍，当作给我的回复！多谢了！我自己说得都没这么好！[2]</p>
+<p>辛西娅·邓洛普（Cynthia Dunlop）最近分享了一项关于阅读 AI 撰写文章的调查结果，标题为《报告：开发者如何看待带有“AI味”的博客文章》（Report: How developers react to AI-scented blog posts）。对于大多数读者来说，如果他们认为一篇文章是由 AI 辅助或由 AI 撰写的，他们就会停止阅读（78%），并在今后回避这位作者（71%）。正如布莱恩·坎特里尔（Bryan Cantrill）在其文章《读者的反抗》（The revolt of the reader）中针对这项研究所写的那样：“我们的大脑拉动了一个由大语言模型（LLM）触发的弹射手柄，在读到半句话时就跳伞脱身，以求自保。”</p>
+<p>调查中最显著的结果是，相较于 AI 毫无灵魂的改写，绝大多数人压倒性地更喜欢作者本人的文字（98%），哪怕其中带有种种瑕疵和个人怪癖。真实地写作是与人建立连接的最佳途径之一。这让我想起了 C++ 之父本贾尼·斯特劳斯特卢普（Bjarne Stroustrup）十多年前在我参加的一场关于写书的圆桌讨论中的发言：<br />“当我读一本书时，如果能真切地感受到作者的声音在脑海中回响——连同他们奇特的口音和说话习惯的特点——那么我就觉得这本书成功了。如果感觉像是枯燥的学术文本，那不过是又有人写了一篇枯燥的学术文本而已。因此，针对该主题发表演讲确实很有帮助。而且，对很多人来说……我在阅读时能‘听’到他们的声音，这很好。”——本贾尼·斯特劳斯特卢普[3]</p>
+<p>当你是给 AI 编写提示词的那个人时，输出的内容往往非常实用。但千万不要把这误认为是高水平的写作。当你在阅读生成的内容时，你本身已经掌握了大量的背景信息——你构思了提示词，设定了约束条件，并提供了生成这些输出所依赖的文档、源代码、日志、统计数据、图片等素材。你可以快速扫一眼输出，并立刻判断出哪些内容相关且有价值，哪些内容无关或有误。你也是这一过程的一部分——向 AI 发出提示并查看结果——这是一种呼应。你为机器赋予了人类的视角。然而，当你把同样的文本发送给别人时，他们几乎毫无背景概念。他们并未参与这一过程——其中不存在层层展开的思路——因此他们要判断哪些相关、哪些不相关就会困难得多。他们被迫逐行详读、字斟句酌，试图窥视机器内部以建立语境。这种情况下，选择弃读是再自然不过的反应。</p>
+<p>我最近写了一篇学术论文。[4] 我广泛使用了 AI，它让整个写作过程变得更快、更令人愉快。但论文中的文字没有一行是 AI 写的。我是用 LaTeX 撰写这篇论文的。我提供给 AI 的背景信息包括期刊格式指南和 LaTeX 模板、该期刊此前发表的所有论文、我所论述软件系统的源代码，以及该软件在生产环境中部署的配置、日志和指标。</p>
+<p>每写完一段，我经常会要求 AI 参考源代码或配置，或者查看生产日志或指标，以核对我的表述是否正确。例如，确认我是否正确描述了数据库中哪些列建立了索引，或者 Parquet 文件中的行是如何排序的。这使我能够沉浸在写作状态中，往往在 AI 校验上一段的同时，我已经开始写下一段了。它帮我发现了重要的遗漏和不准确之处。值得注意的是，如果将这一流程反过来——让 AI 根据我提供的背景信息去撰写段落，比如根据源代码描述某些机制如何运行——则毫无价值可言。一次都没有过。那样写出的东西不仅读起来始终令人不适，而且往往很不准确。</p>
+<p>另一件帮助我保持专注的事情是利用 AI 来补齐文献引用。查找某篇论文、网站或书籍的详细信息，填写 BibTeX 格式，然后在正文中进行引用，是一件非常繁琐的事。因此，我会在括号中留下指示，让 AI 帮我引用想要的内容，这样我就可以保持节奏继续往下写。[5]</p>
+<p>AI 在挑出拼写和语法错误方面表现得出奇地好——甚至是毫不留情。它非常擅长对过长或不清晰的句子提出精简建议。[6] 它精于用 TikZ 绘制技术图表，这再次加快了工作进度，让我免于学习这种语法。AI 甚至发现了一个非常微妙的错误，即我在某一段中用错了符号，而四位身为该系统专家的同行审稿人都遗漏了这个错误。[7]</p>
+<p>那么，AI 究竟极其擅长撰写什么呢？它撰写了摘要——也就是整篇论文中最精炼、最机械化、最缺乏人情味的部分，事实上，也是最为高度概括和抽象的部分。我完全原封不动地采用了它。也许这不足为奇，因为 AI 本就极擅长总结、抽象以及对原创成果的再表述。</p>
+<p>低估 AI 未来某天所能达到的写作水准将是一个错误。我们仍处于模型发展的极早期阶段，而且我们大多数人目前使用的模型都被训练得偏向陈述事实、直接明了且准确无误，而非富有创造力。然而，穆拉特·德米尔巴斯（Murat Demirbas）在优秀文章《最不易被 AI 取代的工作或许是写作》（The Safest Job from AI may be Writing）中指出，大语言模型（LLM）的写作质量已经进入平台期，且可能难以进一步提升，因为与编程、数学和会计不同，写作很难给出一个明确的形式化定义和可验证的输出。[8]</p>
+<p>“由于大语言模型缺乏针对具体人类读者的主动心智模型，它们只是在海量数据集中对下一个词的统计概率进行优化。它们无法与人类读者产生共鸣，因为它们没有人类的切身体验。而且它们完全置身事外，没有任何切身利益（skin in the game）。”——穆拉特·德米尔巴斯，《最不易被 AI 取代的工作或许是写作》</p>
+<p>我对我最近接触到的两项改善 AI 写作的努力很感兴趣。第一项是 ASD-STE100 简化技术英语（Simplified Technical English），这是 20 世纪 80 年代从一个航空航天工作组演化而来的技术文档编写标准。它由两部分组成：一个受控词典和关于语法与风格的写作规则。目前已有一个专门用于 AI 模型的 ASD-STE100 版本。[9] ASD-STE100 并不适用于所有 AI 生成的写作——它是专门针对清晰易懂的操作手册量身定制的。我打算在编写安装指南、运维手册（runbook）及类似文档时试一试。</p>
+<p>第二项是 Pangram，一个经过微调专门用来检测 AI 写作的模型。布赖恩·坎特里尔（Bryan Cantrill）在文章《读者的反抗》（The revolt of the reader）中写道：</p>
+<p>“使用大语言模型进行写作，是在单方面废除作者与读者之间的社会契约：我们作为读者，不应该被指望费力去理解一句连作者自己都没花心思去写的句子。”——布赖恩·坎特里尔，《读者的反抗》</p>
+<p>我再赞同不过了。布赖恩已经开始尝试使用 Pangram 来检测违反这一契约的 AI 生成文本，甚至明确要求 Oxide 公司的所有对外公开文稿都必须经由 Pangram 检测确认为人工撰写。像这样的工具或许能让我们免受那些最懒惰、最糟糕的 AI 写作的折磨。[10]</p>
+<p>当我们写作时，字里行间所蕴含的意义并不总是直接、写实或简练的。诗歌、文学、歌曲、神话、幽默和戏剧都是如此。我认为我们这个时代最重要的作家之一伊恩·麦吉尔克里斯特（Iain McGilchrist）在《事物背后的隐秘真相》（The Matter with Things）一书中写道：“一件事情越重要，我们在试图将其还原为语言时就越是费力。”去问问大语言模型坠入爱河的可靠公式是什么吧。在 AI 生成的文字中，详尽的信息造成了一种意义的假象。但是在模仿人类知识、智慧和理解时，AI 针对事实所做的写作，与源自切身体验的写作质量截然不同。如果不对整体进行实质性的意义剥离，整体是无法被拆解为局部的。</p>
+<p>“直接切入的做法会摧毁其对象。同样地，有些事情只能间接传达。为了重新捕捉言语的深意，或者为了道出任何真正崭新的事物，我们总是在致力于超越日常语言，这意味着要对弦外之音保持敏锐。”——伊恩·麦吉尔克里斯特，《事物背后的隐秘真相》</p>
+<p>如果说商业、工程或科学领域的写作也应当包含不确定性，而不仅仅是事实与结论，这听起来可能有些荒谬。但运维、突发事件响应、产品开发、性能工程、排查安全漏洞、绩效评估、使命宣言以及许多其他探索，本质上都是充满创造性且包含不确定性的。叙事往往与事实和结论同样重要。人们也很容易把大语言模型人格化，视其为优秀的系统思考者，因为它们能够综合如此广泛的信息。然而，正如西蒙·萨里斯（Simon Sarris）所言：“叙事抗拒压缩”，并且“摘要的反面是对细节的关注”。</p>
+<p>尽管强调线性、第一性原理思考，但一名优秀的系统工程师的工作，就像优秀的文化人类学家或心理学家的工作一样，很难用语言来表达，尤其是很难浓缩为一份摘要。你无法直接套用公式去观察并记录事情。哪怕只是把事情记录下来，也会丢失部分上下文。观察者本身也是那层上下文的一部分。系统工作始终带有一种探索感、包容未知的胸怀、与系统本身关系的层层展开，以及随时准备迎接惊喜的意愿。常规语言并不总能找到恰当的词汇。[11]</p>
+<p>“输出和摘要的本质是为了加快节奏。但其后果是让你免于必须在脑海中建立属于自己的复杂心智模型。我担心的是，如果脑中没有复杂的模型，一个人可能永远无法注意到那些原本会被忽略的复杂关系。这是一种对细节关注的丧失。”——西蒙·萨里斯，《抗拒摘要》（Resist Summary）</p>
+<p>我不想生活在这样一个世界里：你用 AI 把重要的内容概括成不知所云的文本，然后我又用 AI 试图去破译它。我想倾听你的声音，倾听你所有的不完美。我想要你对美学、美丽、品质、人际关系和时间的诠释。我想知道你的感受。我想让你直击核心，告诉我究竟什么才是真正重要的。我不想阅读脱离了经验与联结的事实和逻辑关联的摘要。正如伊恩·麦吉尔克里斯特所描述的那样，我们关注世界的方式，改变了最终呈现在我们眼前的事物的本质——那是我们唯一能够感知的世界。[12]</p>
+<p>“如果你要求机器为你做某事，你所面临的风险不是在索求你想要的，而是在索求它所擅长做的。如果它擅长的是总结，而你又依赖这个工具，你可能会调整自己的提问方式以获得更好的回答。这表面上看起来是在训练机器按你的意愿行事，但实际上也是在训练你自己以某种特定方式向世界发问。而那些被你忽略的问题又是什么呢？”——西蒙·萨里斯，《抗拒摘要》</p>
+<p>有意识地写作可能会变得更有价值。那些写作、通过写作进行思考——深入而审慎地思考——或者为了创作、分享，或在不明确表达的情况下记录某些重要事物的人，将会继续写作并产出原创作品。那些从未真正成为写作者的人，则会利用人工智能生成大量文本。</p>
+<p>在某些情况下，设计文档并不合适，而利用人工智能围绕可运行的软件快速协作，或许是完善想法和建立共识的更好方式。↩︎</p>
+<p>另一个例子是，一群人一直在为一份提案开展工作，通过多个维基页面建立共识。后来有人想要修改这份提案。这个人没有经历与该团队合作、更新现有维基页面那种混乱且需要处理人际关系的过程，而是使用人工智能批量生成了一个新的维基页面，复制原有工作并加入了自己的改动。↩︎</p>
+<p>我此前曾在《改进技术写作的技巧》中使用过这句话。↩︎</p>
+<p>这篇论文介绍了我创建的一个数据库，我希望它能被创新数据系统研究大会（CIDR）接收。↩︎</p>
+<p>例如，我会写下：“{TODO：引用 Amazon Aurora 论文}”，然后由人工智能处理其余部分。↩︎</p>
+<p>我也把人工智能当作博客编辑来使用。它让我更有信心在没有其他人校对的情况下发表文章。但我只让人工智能找出错误或提出建议。我不会让它重写文章，也不会让它改变我的文风或观点。↩︎</p>
+<p>我当时描述的是一种日志结构合并（LSM）。我们最初把各层称为第1代、第2代、第3代，简称 Gen1、Gen2、Gen3。在论文中，我以更通用的方式描述 LSM，分别使用 L0、L1、L2 表示第0层、第1层、第2层。这意味着，阅读这篇论文的同事必须在脑中把 L1 对应到 Gen2，这使得他们很难发现我在其中一段中本想写 L2、却错误写成 L1 的问题。大语言模型轻而易举地找到了这个错误。↩︎</p>
+<p>还有一篇关于人工智能写作局限性的有趣文章，尤其讨论理解中的个体性，即《人工智能难以掌握的人类技能：语言模型为什么写不好？》。文章作者是 Jasmine Sun，刊载于《大西洋月刊》。↩︎</p>
+<p>感谢 Chris Riccomini 让我注意到这一点。↩︎</p>
+<p>想进一步了解 Pangram，可以收听 Oxide and Friends 播客对其创始人 Max Spero 的访谈。他们提到的一点是，有一些证据表明，经常使用大语言模型的人擅长识别大语言模型生成的文字，而不使用大语言模型的人则不太擅长。此外，他们还讨论了尝试将提示词和输入上下文反向处理，以描述输出中有多少来自输入、又有多少来自模型，这一点也很有意思。↩︎</p>
+<p>我认识的最优秀的系统思考者往往也是出色的写作者。我预计这项技能仍将很重要，或许还会变得更加重要。回到我前面提到的 Murat Demirbas 关于写作的文章，文章最后写道：“也许编程本身正在变成一种创造性写作形式，变得更加有主见，也更加注重架构。”↩︎</p>
+<p>Iain 还区分了 comprehension（理解，即把世界作为一个整体来认识）和 apprehension（领会，即把世界掌握在手中）。二者所要求的注意力品质不同。我觉得有趣的是，apprehension 既指抓住或捕捉的行为，也指对未来的恐惧或不安预期。我强烈推荐观看 Iain 在拉尔斯顿学院发表的演讲《人工智能与灵魂之战：信息并不等于理解》。↩︎</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-22 06:30 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -679,39 +210,112 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-t-disclose-political-ads-e3fbc059f72efaf1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="730" data-content-paragraphs="11" data-published-at="2026-09-20T16:30:00.000Z" data-time-source="publication">
+<div id="story-transformer-explainer-e73a2412e6531b54" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4276" data-content-paragraphs="31" data-published-at="2026-09-21T19:43:49.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-22 03:43</span>
+</div>
+
+### [要闻：Transformer 是一种从根本上改变了人工智能研究与应用方法的神经网络架构](https://poloclub.github.io/transformer-explainer/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Transformers Explained Visually</div>
+
+<div class="article-body" data-article-body="true"><p>Transformer 是一种从根本上改变了人工智能研究与应用方法的神经网络架构。Transformer 最早于 2017 年在开创性论文《Attention is All You Need》中提出，此后便成为深度学习领域的首选架构，为诸如 OpenAI 的 GPT、Meta 的 Llama 以及谷歌的 Gemini 等文本生成模型提供算力支持。除文本之外，Transformer 还广泛应用于音频生成、图像识别、蛋白质结构预测乃至游戏博弈中，展现了其跨多领域的通用性。</p>
+<p>从根本上讲，文本生成类 Transformer 模型遵循“下一个词元预测”（next-token prediction）的原理运行：给定用户输入的文本提示词，紧随该输入之后最可能出现的下一个词元（一个词或词的一部分）是什么？Transformer 的核心创新与强大之处在于其采用的自注意力机制（self-attention mechanism），这使其能够处理整段序列，并比以往的架构更高效地捕捉长距离依赖关系。</p>
+<p>GPT-2 系列模型是文本生成类 Transformer 的典型代表。Transformer 交互解释器（Transformer Explainer）由拥有 1.24 亿参数的 GPT-2（small）模型驱动。尽管它并非最新或最强大的 Transformer 模型，但它与当前最先进的模型共享许多相同的架构组件与原理，因而是理解基础知识的理想起点。</p>
+<p>每个文本生成类 Transformer 都包含以下三个关键组件：</p>
+<p>假设你想使用 Transformer 模型生成文本。你输入了这样一段提示词：“Data visualization empowers users to”（数据可视化使用户能够）。该输入需要被转换成模型能够理解和处理的格式。这正是嵌入（embedding）发挥作用的地方：它将文本转换为模型可以处理的数值表示。要将提示词转换为嵌入，我们需要：1）对输入进行分词（tokenize）；2）获取词元嵌入（token embeddings）；3）添加位置信息；最终 4）将词元编码和位置编码相加，得到最终的嵌入。让我们看看这些步骤是如何具体实现的。</p>
+<p>分词（Tokenization）是将输入文本拆分成更小、更易于管理的片段（即词元，token）的过程。这些词元可以是一个完整的单词，也可以是子词（subword）。例如，“Data”和“visualization”这两个单词分别对应独立的词元，而单词“empowers”则被拆分成了两个词元。完整的词元词表在模型训练前就已确定：GPT-2 的词表包含 50,257 个不重复的词元。既然我们已经将输入文本拆分为具有唯一 ID 的词元，接下来就可以从嵌入中获取它们的向量表示。</p>
+<p>GPT-2（small）将词表中的每个词元表示为一个 768 维的向量；向量的维度取决于具体模型。这些嵌入向量存储在一个形状为 (50257, 768) 的矩阵中，包含约 3900 万个参数！这个庞大的矩阵使模型能够为每个词元赋予语义：在语言中用法或含义相近的词元在这个高维空间中距离较近，而含义不同的词元则相距较远。</p>
+<p>嵌入层还会对输入提示词中每个词元的位置信息进行编码。不同的模型会采用不同的位置编码方法。GPT-2 从零开始训练自己的位置编码矩阵，并将其直接整合进训练过程中。</p>
+<p>最后，我们将词元编码与位置编码相加，得到最终的嵌入表示。这种组合表示不仅捕捉了词元的语义信息，还保留了它们在输入序列中的位置特征。</p>
+<p>Transformer 核心的数据处理发生在 Transformer 块（Transformer block）中，它由多头自注意力层（multi-head self-attention）和多层感知机层（Multi-Layer Perceptron，MLP）组成。大多数模型由多个此类模块按顺序依次堆叠而成。词元表示自第一个模块传递至最后一个模块，在层层演变中逐步深化，使模型得以构建对每个词元的复杂理解。这种分层处理方式能够提取出输入的更高阶特征表示。我们正在剖析的 GPT-2（small）模型共由 12 个这样的模块组成。</p>
+<p>自注意力机制使模型能够捕捉序列中词元之间的相互关系，从而使每个词元的表示都受到其他词元的影响。多注意力头则允许模型从不同角度审视这些关系；例如，一个头可能关注短距离的句法连接，而另一个头则追踪更广泛的语义语境。在接下来的章节中，我们将一步步拆解多头自注意力是如何计算的。</p>
+<p>每个词元的嵌入向量都会被转换为三个向量：查询（Query，Q）、键（Key，K）和值（Value，V）。这些向量是通过将输入嵌入矩阵与针对 Q、K、V 的可学习权重矩阵相乘得出的。我们可以借助网络搜索的比喻来直观理解这些矩阵的含义：</p>
+<p>通过利用这些 QKV 值，模型能够计算注意力分数，从而决定在生成预测时应当对每个词元投入多少关注度。</p>
+<p>查询、键和值向量被拆分到多个注意力头中——在 GPT-2（small）中为 12 个头。每个头独立处理一部分嵌入向量切片，分别捕捉不同的句法和语义关系。这种设计促进了对不同语言特征的并行学习，增强了模型的表征能力。</p>
+<p>在每个注意力头内部，我们执行掩码自注意力计算（masked self-attention calculations）。该机制允许模型在生成序列时专注于相关的输入部分，同时阻止其获取未来的词元信息。</p>
+<p>模型利用掩码自注意力分数与值矩阵相乘，得出自注意力机制的最终输出。GPT-2 拥有 12 个自注意力头，各自捕捉词元间的不同关联。这些头的输出拼接在一起后，再通过一个线性投影层。</p>
+<p>在多头自注意力机制捕捉到输入词元之间的多样化关系后，拼接后的输出会被送入多层感知机（MLP）层，以进一步提升模型的表征能力。MLP 块由两个线性变换构成，中间夹有一个 GELU 激活函数。</p>
+<p>第一个线性变换将输入的维度扩大四倍，从 768 维提升至 3072 维。这一升维步骤允许模型将词元表示投影到更高维的空间中，从而能够捕捉在原始维度中难以显现的更丰富、更复杂的模式。</p>
+<p>第二个线性变换随后将维度压缩回原始的 768 维。这一降维步骤在保留升维阶段引入的有益非线性变换的同时，将表示恢复至易于处理的尺寸。</p>
+<p>与整合各个词元之间信息的自注意力机制不同，多层感知机（MLP）会独立处理词元，只是将每个词元的表示从一个空间映射到另一个空间，从而提升模型的整体容量。</p>
+<p>输入经过所有 Transformer 模块处理后，输出会被传入最终的线性层，为词元预测做准备。该层会将最终表示投影到一个 50,257 维的空间中，其中词汇表中的每个词元都有一个对应的数值，称为 logit。任何词元都可能成为下一个词，因此，这一过程可以让我们按照这些词元作为下一个词时的可能性对其进行简单排序。随后，我们应用 softmax 函数，将 logits 转换为总和为 1 的概率分布。这样，我们就可以根据下一个词元的可能性对其进行采样。</p>
+<p>最后一步，是从这一分布中采样生成下一个词元。温度这一超参数在此过程中发挥着关键作用。从数学角度看，它是一个非常简单的操作：模型输出的 logits 直接除以温度：</p>
+<p>此外，还可以使用 top-k 和 top-p 参数进一步优化采样过程：</p>
+<p>通过调整温度、top-k 和 top-p，可以在确定性输出与多样化输出之间取得平衡，从而根据具体需求定制模型的行为。</p>
+<p>Transformer 模型还包含若干能够提升性能的辅助架构特性。虽然层归一化、Dropout 和残差连接对模型的整体性能十分重要，尤其是在训练阶段，但它们对于理解该架构的核心概念并不那么重要。层归一化能够稳定训练过程，并帮助模型更快收敛。Dropout 通过随机停用神经元来防止过拟合。残差连接则让梯度能够直接流经网络，有助于防止梯度消失问题。</p>
+<p>层归一化有助于稳定训练过程并改善收敛效果。它通过在特征维度上对输入进行归一化，确保激活值的均值和方差保持一致。这种归一化有助于缓解与内部协变量偏移相关的问题，使模型能够更有效地学习，并降低其对初始权重的敏感性。在每个 Transformer 模块中，层归一化会应用两次：一次位于自注意力机制之前，另一次位于 MLP 层之前。</p>
+<p>Dropout 是一种正则化技术，用于通过在训练期间随机将一部分模型权重设为零来防止神经网络过拟合。这会促使模型学习更加稳健的特征，并减少其对特定神经元的依赖，从而帮助网络更好地泛化到新的、未见过的数据。在模型推理期间，Dropout 会被停用。这实际上意味着我们使用的是经过训练的多个子网络构成的集成模型，从而带来更好的模型性能。</p>
+<p>残差连接最早于 2015 年在 ResNet 模型中提出。这一架构创新通过实现非常深的神经网络训练，彻底改变了深度学习。残差连接本质上是绕过一个或多个层的快捷路径，将某一层的输入加到其输出上。这有助于缓解梯度消失问题，使包含多个 Transformer 模块、且这些模块彼此堆叠的深层网络更易于训练。在 GPT-2 中，每个 Transformer 模块内会使用两次残差连接：一次位于 MLP 之前，另一次位于 MLP 之后，从而确保梯度更容易流动，并让较早的层在反向传播期间获得足够的更新。</p>
+<p>Transformer Explainer 被设计为一个交互式工具，允许你探索 Transformer 的内部工作原理。以下是其中一些可以进行操作的交互功能：</p>
+<p>Transformer Explainer 提供了一个直接在浏览器中运行的实时 GPT-2（small）模型。该模型源自 Andrej Karpathy 的 nanoGPT 项目中 GPT 的 PyTorch 实现，并已转换为 ONNX Runtime，以便在浏览器中顺畅运行。其界面使用 JavaScript 构建，前端框架采用 Svelte，并使用 D3.js 创建动态可视化效果。数值会根据用户输入实时更新。</p>
+<p>Transformer Explainer 由佐治亚理工学院的 Aeree Cho、Grace C. Kim、Alexander Karpekov、Alec Helbling、Jay Wang、Seongmin Lee、Benjamin Hoover 和 Polo Chau 创建。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-22 03:43 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://poloclub.github.io/transformer-explainer/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-gpts-early-mobile-launch-45630c163fbd9bd0" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1612" data-content-paragraphs="22" data-published-at="2026-09-21T19:19:21.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-21 00:30</span>
+  <span class="news-meta-time">🕒 2026-09-22 03:19</span>
 </div>
 
-### [加州新法将惩罚未披露政治广告的网络红人](https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> New California law will penalize influencers who don’t disclose political ads</div>
+### [Meta旗下Muse的早期移动端发布表现超过ChatGPT](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Meta’s Muse is outpacing ChatGPT’s early mobile launch</div>
 
-<div class="article-body" data-article-body="true"><p>加利福尼亚州州长加文·纽森（Gavin Newsom）签署的一项新法案，强化了对接受报酬发布政治内容网络红人的信息披露要求。</p>
-<p>《纽约时报》报道称，加州此前已要求发布涉及州或地方竞选内容的网络红人进行信息披露，但当有人未予披露时，并不会面临罚款或刑事处罚。（得克萨斯州同样要求对付费政治内容进行披露，其他州也正在考虑类似的法规。）</p>
-<p>根据这项新通过的 AB 1130 号法案，监管机构可对网络红人的每次违规行为处以最高 5,000 美元的罚款，并可将其移交执法部门以追究潜在的轻罪责任。</p>
-<p>据《纽约时报》报道，亿万富翁汤姆·斯泰尔（Tom Steyer）在今年早些时候竞选加州州长民主党提名未果期间，曾花钱雇佣数十名网络红人在网上发布有关其竞选活动的内容，其中许多人最初并未披露这笔报酬。</p>
-<p>纽森签署该法案是作为更广泛一揽子法案的一部分，其办公室表示，该系列法案将防止来自唐纳德·特朗普（Donald Trump）总统潜在的选举干预。该法案的发起人、民主党籍州众议员马克·伯曼（Marc Berman）表示，他在意识到“[现行]法律及其执行方式存在一些模糊之处”后提出了这项法案。</p>
-<p>预订展位最后截止日期为 9 月 18 日。千万不要错过 Disrupt 展厅中具有高影响力的新线索、接触投资者的机会以及品牌展示焦点。</p>
-<p>每个工作日和周日，您都可以获取 TechCrunch 最优质的新闻报道。</p>
-<p>TechCrunch Mobility 是您获取交通领域新闻与洞察的目的地。</p>
-<p>初创公司是 TechCrunch 的核心，敬请每周查收我们最优质的报道。</p>
-<p>为推动行业发展的风云人物提供开启新一天所需的资讯。</p>
-<p>提交您的电子邮件，即表示您同意我们的条款和隐私声明。</p></div>
+<div class="article-body" data-article-body="true"><p>新的数据显示，Meta最新推出的人工智能应用Muse可能会成为这家社交巨头的下一个热门产品。据市场情报提供商Apptopia刚刚发布的估算，Muse在移动设备上市前12天内的下载次数，超过了ChatGPT在移动端发布后12天内的下载次数。（这项数据仅比较美国和加拿大市场。）</p>
+<p>该公司还发现，Muse的日活跃用户数也高于ChatGPT当时的水平。</p>
+<p>此前，由于两款应用采取了不同的发布策略，很难对它们进行完全可比的比较。ChatGPT登陆移动端时面向全球用户推出，但仅支持iOS。Muse则同时登陆苹果App Store和Google Play，但目前仅在美国和加拿大提供。</p>
+<p>为使数据更具可比性，Apptopia仅考察了两款应用各自发布前12天内在美国和加拿大市场的iOS数据。在这一数据子集中，Muse的下载量目前为180万次，而ChatGPT为130万次。</p>
+<p>该公司还表示，Muse在发布后的前12天内，全球总安装量达到280万次。其增长势头也尚未停滞。据《商业内幕》周五报道，Muse发布后立即在美国App Store总榜排名第二，如今已升至第一。该媒体指出，这一跃升使Muse的排名超过了ChatGPT。另一家数据公司Appfigures当时表示，Muse的下载量已突破100万次。</p>
+<p>此外，Apptopia的数据显示，Muse目前在美国的日活跃用户数已经高于ChatGPT发布后同一阶段的水平。在仅比较美国移动应用日活跃用户的情况下，Muse的日活跃用户数为64.2万，高于ChatGPT当时的23.1万。</p>
+<p>考虑到Muse同时支持iOS和Android，而ChatGPT发布时仅支持iOS，Apptopia将比较范围进一步缩小至iOS。不过，即使在这一口径下，Muse的表现仍然更高：其iOS日活跃用户数为35.9万，依然高于ChatGPT在同期的数据。</p>
+<p>Apptopia只能提供有关应用下载量和活跃用户数的第三方估算，并不能直接获得Meta的内部数据。不过，即便这些数字只能从大致范围的角度看作准确，它们仍表明，Muse有望成为Meta最新的头部应用。</p>
+<p>Meta在推出Instagram旗下Threads时，已经完善了交叉推广策略。得益于在Instagram和Facebook等Meta旗下最大型应用中的大力营销和整合，Threads目前拥有超过5亿用户。鉴于Muse能够连接这两个平台，它很可能也会获得类似的推广。Muse还可以在WhatsApp内使用，这可能为其带来进一步的推动。</p>
+<p>虽然Apptopia无法直接了解Meta的交叉推广活动或广告投放情况，但该公司指出，Muse超过95%的用户同时也是Facebook用户，63%的用户同时也是Instagram用户。</p>
+<p>Meta此前已被要求置评，但截至目前尚未公布有关Muse早期用户采用情况的具体数据。</p>
+<p>更正：本文早期版本曾将Apptopia的数据错误地归于分析公司Appfigures。现已修正。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
+<p>消费者新闻编辑</p>
+<p>预订展位的最后期限是9月18日。不要错过参加Disrupt展厅所能带来的高价值潜在客户、投资者接触机会和品牌曝光。</p>
+<p>Tilly Norwood的媒体巡演表现，正如你对一款人工智能产品所能预期的那样</p>
+<p>一位ChatGPT发明者推出的新型人工智能模型令开发者兴奋不已</p>
+<p>OpenAI发现其模型留下笔记并交给后继模型，以掩盖不良行为</p>
+<p>新的未删节文件显示，微软高管称人工智能抓取是“人类历史上最大规模的劳动力盗窃”</p>
+<p>清洁技术初创公司Fluxnium找到了一种利用5万年核燃料储量的方法</p>
+<p>前TikTok高管打造了一款利用人工智能教你如何摆姿势拍照的应用</p>
+<p>Salesforce和英伟达推出的新推理模型，正是人工智能实验室应该担心的一切</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-21 00:30 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-22 03:19 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -721,64 +325,131 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-hen-an-av-is-safe-enough-cc88ee8aeea04030" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3138" data-content-paragraphs="36" data-published-at="2026-09-20T16:02:00.000Z" data-time-source="publication">
+<div id="story-athmain-encrypted-loader-a82c07a125c4b89a" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5408" data-content-paragraphs="58" data-published-at="2026-09-21T18:33:44.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-22 02:33</span>
+</div>
+
+### [为什么 mathmain 需要一个加密加载器？](https://safedep.io/mathmain-encrypted-loader/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Why does mathmain need an encrypted loader?</div>
+
+<div class="article-body" data-article-body="true"><p>我们在 mathmain@1.0.1 中发现了一个隐藏的远程访问植入后门。这是一个抄袭热门数学库 mathjs 的 npm 软件包。其中的恶意代码以加密形式分发，并保持休眠状态，直到某个程序使用该库求解一个特定的方程。该方程本身就是密钥。当密钥匹配时，该软件包会解密有效载荷（payload）并执行它。该载荷接收攻击者的命令并在宿主机器上运行。它使用一个公共聊天服务和一个区块链网络作为其命令通道。本文将展示我们是如何发现该加载器、如何对其进行解密、有效载荷的具体功能，以及可用于排查该后门的特征指标（IoC）。</p>
+<p>我们在 2026 年 9 月 17 日对 mathmain 展开 SafeDep 分析时启动了调查。该软件包看起来像是 mathjs 换了个名字并进行了代码混淆的副本。求解器（solver）中新增的一个调用引向了该加载器。</p>
+<p>在 lusolve() 的末尾附近，我们在 CommonJS 构建版本中发现了一个额外的调用。求解器当时已经计算出了结果，随后将下三角矩阵的数据传递给了 removeSolveValidation()：</p>
+<p>在此处，l 保存了下三角矩阵，x 保存了结果。求解器原封不动地返回 x。它将额外调用的返回值赋给了 q，但之后并未再次使用 q。</p>
+<p>我们顺着 removeSolveValidation() 追踪到了 lib/cjs/utils/is.js 中的 isGraph(x)。该文件包含诸如 isMatrix 和 isNumber 等类型检查。新增的 isGraph() 函数负责解密并加载代码：</p>
+<p>isGraph() 将其输入转换为 JSON 字符串，并将该字符串用作密码。它首先解密一个文件名，然后将文件路径和密码传递给 event()，并通过 require() 加载返回的路径。</p>
+<p>为了便于阅读加载器代码片段，我们还原了字符串并重命名了局部变量。本文末尾的哈希值用于标识原始文件。</p>
+<p>在 lib/cjs/utils/event.js 中，我们找到了解密函数。它们使用 scrypt 将密码转换为 256 位的密钥，然后使用伽罗瓦/计数器模式的高级加密标准（AES-GCM）解密数据：</p>
+<p>加密数据具有固定的布局：16 字节的盐（salt）、12 字节的初始化向量（IV）以及 16 字节的认证标签（authentication tag）。密文紧随这些字段之后。该软件包将整个序列以 base64 文本形式存储。</p>
+<p>对于通过求解器进行的调用，密码是 JSON.stringify(L._data)。调用者可以通过 lusolve() 的对象形式传入 L。因此，调用者必须传入能生成正确密码的矩阵数据。我们在可见的加载器中未发现存储任何密码。</p>
+<p>加密的文件名包含 8 字节的密文。我们怀疑它的名字是 graph.js——这是一个位于加载器旁边的文件，其名称也刚好占用 8 字节。由于我们当时尚未破解出密码，因此无法证实这一点。</p>
+<p>event() 辅助函数负责解密文件，将结果写入磁盘，并返回输出路径：</p>
+<p>如果文件名没有 enc_ 前缀，该辅助函数会用解密后的代码覆盖加密文件。随后 isGraph() 中的 require() 调用会将其加载。该代码将以与 Node.js 进程相同的权限运行。</p>
+<p>新增的三个文件包含 base64 数据，而非普通的 JavaScript：</p>
+<p>我们在可见的加载器中没有发现对后两个文件的引用。正如“有效载荷”部分所示，解密后的 graph.js 会在后续阶段加载它们。</p>
+<p>我们在清包清单（manifest）中未发现任何安装钩子（install hooks）。通过我们审查的代码路径导入该软件包也不会激活加载器。求解器必须首先通过其校验和计算步骤才能执行到新增的调用。如果密码错误，validEvent() 在辅助函数向磁盘写入任何文件之前就会导致认证校验失败。</p>
+<p>我们检索了 npm 仓库，并发现了另外两个软件包：mathsbase 和 math-universe。在跨越五个版本中，我们发现了完全相同的加载器文件、触发代码、求解器修改以及两个大型加密文件。</p>
+<p>mathsbase@1.0.1 中的加密 graph.js 与其他副本不同。共享的文件将这些发布版本关联在一起。但它们并未告诉我们是谁添加了该加载器，或者是有人劫持了发布者的账户。</p>
+<p>9 月 17 日，npm 将 mathmain@1.0.0 作为默认版本提供分发。该版本并不包含此加载器。如果仅检查默认版本，就会遗漏 1.0.1 中的代码。</p>
+<p>9 月 19 日，我们检查了这三个软件包在 npm 上的下载量。这些总计涵盖了 2026 年 9 月 12 日至 18 日期间每个软件包所有版本的下载情况。</p>
+<p>npm 还报告称 9 月 17 日整个仓库的下载量为零。这使得此前 mathmain 的零下载量数据不可靠。这些软件包没有公开的依赖项，在 jsDelivr 内容分发网络上几乎没有任何流量。因此，这些下载计数并不代表真实的安装量。我们无法确定是什么导致了这些访问量。这些数据无法告诉我们到底有多少系统安装了这些软件包，或者加密代码是否真正运行过。</p>
+<p>mathsbase 和 math-universe 软件包各链接到一个公开的 GitHub 仓库。我们阅读了这两个仓库，其中均不包含该加载器：</p>
+<p>公开的 math-universe 源码中，其求解器结尾如下：</p>
+<p>这里没有额外的 removeSolveValidation() 调用。npm 的构建版本包含该调用，而 GitHub 源码中没有。因此，有人是在发布软件包时植入了加载器，而不是在公开代码中添加的。</p>
+<p>我们还寻找了使用触发条件调用该求解器的程序。我们检索了 GitHub 代码、lockfile 以及依赖项服务，但一无所获。私有项目以及搜索引擎未索引的代码依然无法触及。</p>
+<p>我们针对加密的文件名测试了 16,922 个可能的密码。其中一些来自对角线元素为零的矩阵，我们在早先的搜索中漏掉了这些矩阵。</p>
+<p>在第二轮搜索中，我们针对所有五个不同的加密二进制大对象（包括较旧的 graph.js）测试了 533 个可能的密码。我们尝试了常见密码以及来自求解器测试用例中的数值数组。两轮搜索均未找到能通过认证检查的密码。</p>
+<p>部分密码在两次搜索中均有出现。</p>
+<p>我们使用测试数据和已知密码验证了工具。搜索全部结束，我们的猜测均未奏效。密码不是常见的数值，也不是测试矩阵。它是一个非常具体的矩阵，我们后来找到了它。</p>
+<p>密码是矩阵下三角因子 L 的 JSON 形式。JFrog 率先报告了产生该结果的输入数据。随后我们在 mathmain 文件上复现了该结果。</p>
+<p>还原出来的触发条件是一个 3x3 的帕斯卡矩阵（Pascal matrix）。</p>
+<p>调用者将 A 传递给 lusolve()。求解器对 A 进行 LU 分解。下三角因子 L 变为 [[1, 0, 0], [1, 1, 0], [1, 0.5, 1]]。加载器将 L 转换为 JSON 字符串。该字符串即为密码。</p>
+<p>我们在真实文件上证实了这一点。密码正是 L 的 JSON 形式。</p>
+<p>该密码将文件名成功解密为 graph.js。它还解密了 mathmain 和 math-universe 中的三个有效载荷文件。mathmain 的有效载荷与 math-universe 的有效载荷逐字节完全一致。mathsbase@1.0.1 使用相同的密码对应不同的加密数据。因此，同一个密码可以解开整个恶意家族。</p>
+<p>解密后的文件构成了一个小型的远程访问植入后门。每个文件各司其职。以下分析结果来自我们对解密代码的静态分析。</p>
+<p>解密后的 graph.js 是第一阶段。加载器在解密后使用 require() 运行它。它通过 os 和 fs 读取主机数据。它利用 Node 的 crypto 模块，通过 generateKeyPairSync 和 diffieHellman 生成 X25519 密钥对。它通过 spawn 和 execSync 使用 child_process 执行 shell 命令。它利用捆绑打包的 ethers 副本读取 Base Sepolia 测试网络上的智能合约。它向 Slack 的 chat.postMessage 和 api.telegram.org 报告。随后，它加载 bignumber/type.js 和 fraction.js 作为后续阶段。网络配置详情作为 Base64 文本保存在文件中。</p>
+<p>解密后的 bignumber/type.js 是 ethers 库的一个副本。该文件带有 ethers/5.7.2 标记以及 JsonRpcProvider 和 secp256k1 符号。植入程序使用该库读取智能合约。</p>
+<p>解密后的 fraction.js 是命令代理。它在运行时解密一个 Slack 机器人令牌和一个频道 ID。它需要从环境中获取 CHAT_PASSWORD 值。如果没有该值，代理便会退出。它每隔 10 秒轮询一次 Slack 的 conversations.history 接口。它会检查消息是否来自操作者。随后，它通过 execSync 或 spawn 将消息内容作为 shell 命令运行。</p>
+<p>该软件包并不存储操作者的命令。代理在运行时从 Slack 读取它们。因此，实时命令不会出现在注册表（registry）中，也不会出现在我们的副本里。</p>
+<p>综合来看，这些文件使操作者能够在任何触发该加载器的主机上执行 shell 命令。命令通过公共聊天服务和区块链测试网络进行传输。该软件包是一个远程访问植入木马（implant）。</p>
+<p>加载器保持休眠状态，直到调用方使用能产生因子 L 的输入运行求解器。正常的引入（import）不会触碰新增的代码。传入其他数据进行正常的 lusolve() 调用无法通过身份验证检查，也不会写入任何内容。密码是 L 的 JSON 形式，因此帕斯卡矩阵并不是唯一的触发器。调用方可以将 L 作为系数矩阵传入，因为其自身的下三角因子仍然是 L。调用方也可以通过 lusolve() 的对象形式提供 L。这两种输入都会得到相同的密码。</p>
+<p>攻击分为两个部分运作。一个包保存加密的有效载荷。第二个包或受入侵的调用方使用触发矩阵运行求解器。这个数学库看起来像是一个流行且受信任的依赖项。而调用方提供密钥。</p>
+<p>我们在公开代码中没有发现该调用方。我们在 GitHub 和依赖项中的搜索没有返回任何使用触发器调用该求解器的项目。私有代码和已删除的项目不在该搜索范围内。</p>
+<p>所有时间均采用协调世界时（UTC）。我们从 npm 注册表元数据中获取了发布时间。</p>
+<p>使用这些指标来查找软件包、加载器和解密后的植入程序。与某个软件包或哈希值相匹配并不能证明代码曾在主机上运行过。调用方必须先触发该加载器。</p>
+<p>SafeDep 分析了这些版本中的加载器。归档 SHA-256 来自 npm tarball。</p>
+<p>调用方使用一个矩阵激活加载器。密码是该矩阵 LU 下三角因子的 JSON 形式。</p>
+<p>这两个文件哈希值在所有经过分析的版本中均匹配。</p>
+<p>Base64 数据块位于 lib/cjs/utils/ 下。[email protected] 和三个 math-universe 版本共享一套数据块。[email protected] 则附带了一个不同的 graph.js 数据块。</p>
+<p>这些哈希值涵盖了我们从部署 A（Deployment A）中恢复的明文。运行过加载器的主机可能在磁盘上存有具备这些哈希值的文件。</p>
+<p>我们从解密后的 graph.js 文件中恢复了这些端点。部署 A 涵盖 mathmain 和 math-universe。部署 B 涵盖 [email protected]。我们隐去了两个机器人令牌的机密部分。</p>
+<p>两次部署均使用相同的 Alchemy 项目密钥 D2-TbkB2m05WXSnSDOCDI。该密钥将这两次部署关联至同一个操作者。</p>
+<p>关注以获取有关开源安全与工程的最新动态和见解</p>
+<p>2026 年 5 月至 7 月期间，一群 AI 智能体向 RubyGems 发布了 3,000 多个包。这些 gem 滥用了 RubyDoc.info 的文档构建服务，在外部服务器上运行爬虫，随后发布了……</p>
+<p>Deep-Live-Cam 中的一个恶意依赖项加载了剪贴板劫持程序。我们追踪了安装触发器、Telegraph 分发以及 Windows 和 macOS 上的持久化机制。</p>
+<p>Cursor 可以安装你在 Visual Studio Code 中拥有的大多数相同扩展，但并非相同的版本。其“导入 VS Code 配置”步骤仅发送扩展名称，从不发送版本。它……</p>
+<p>SafeDep 威胁情报（SafeDep Threat Intel）为安全运营中心（SOC）和网络防御团队提供 SafeDep 平台背后的恶意软件包情报，用于查询或推送至其已运行的工具中。</p>
+<p>在你的机器上使用开源工具免费开始。为你的组织扩展至统一平台。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-22 02:33 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://safedep.io/mathmain-encrypted-loader/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-clear-reactor-for-google-3a4682b4f0746583" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1645" data-content-paragraphs="14" data-published-at="2026-09-21T18:23:05.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-21 00:02</span>
+  <span class="news-meta-time">🕒 2026-09-22 02:23</span>
 </div>
 
-### [TechCrunch 移动出行：我们如何判断自动驾驶汽车何时“足够安全”？](https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> TechCrunch Mobility: How do we know when an AV is safe enough?</div>
+### [Kairos Power获三星集团高达1亿美元注资 为谷歌建造核反应堆](https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google</div>
 
-<div class="article-body" data-article-body="true"><p>对于自动驾驶汽车开发者、监管机构和公众而言，最棘手的问题之一是确定自动驾驶技术何时在道路上达到“足够安全”的标准。到目前为止，这个问题在很大程度上一直由行业自身来回答——即那些将自动驾驶技术应用于无人驾驶卡车、无人出租车（robotaxis）以及未来可能拥有的私家车上的企业。</p>
-<p>如今，尚无用于评估自动驾驶系统在现实世界中表现如何的标准化测试。我们要求人类在取得驾照前必须通过驾驶考试，但对于自动驾驶汽车技术，却还没有同等的测试或评判体系。</p>
-<p>那么，我们如何才能知道一辆自动驾驶汽车是否是一个合格且安全的“司机”？美国国家公路交通安全管理局（NHTSA）表示，他们正在制定解决方案。</p>
-<p>联邦机动车安全标准（FMVSS）已经对汽车制造商当今销售的车辆进行了规范。但这些 FMVSS 规则并不是针对特斯拉 Cybercab 和 Zoox 无人出租车这类车辆设计的，因为它们缺乏传统且联邦法规要求的踏板、方向盘等设备，以及后视镜和外侧后视镜等设计部件。</p>
-<p>NHTSA 正在制定一套联邦自动驾驶汽车框架。该机构表示，这套框架将以安全为基石，同时不会扼杀创新；或者如该局局长乔纳森·莫里森（Jonathan Morrison）本周所言，避免让该机构在政策决策上面临“打地鼠”的窘境，或试图去预判技术将如何演进。要拿捏好这其中的平衡绝非易事。</p>
-<p>本周，该机构向这一目标迈出了显著一步：与国际自动机工程师学会（SAE）达成协议，启动了 ASCEND 倡议。这是一项旨在加快以数据驱动的自动驾驶汽车性能标准开发的政企合作项目。</p>
-<p>“该联盟的首要任务是确立自动驾驶系统（ADS）的能力基准，这将为出台相应的联邦机动车安全标准提供依据并加快其制定进程，”莫里森在匹兹堡举行的 AI Horizons 峰会上表示。“最终，我们的 ADS 性能规则制定将在此领域确立联邦领导地位。通过发布自动驾驶能力标准，我们希望能够解决以往各州和地方层面要求不一、拼凑割裂且不断滋生的问题，并继续鼓励美国本土的创新，推动这些车辆在道路上的安全部署与发展。”</p>
-<p>该联盟目前尚未给出出台 ADS 标准的时间表。但我敢肯定，自动驾驶行业已经开始深入参与并发表意见了。</p>
-<p>注：想听莫里森的完整发言？请查看 AI Horizons 峰会的视频，并快进至 04:36:00 处。</p>
-<p>我们正在筹备一些新选题，但尚未准备好对外公开。特此提醒，欢迎向我们爆料！</p>
-<p>请发送邮件至 Kirsten Korosec（kirsten.korosec@techcrunch.com）或联系其 Signal（kkorosec.07），亦可发送邮件至 Sean O’Kane（sean.okane@techcrunch.com）。</p>
-<p>华尔街会投资一家纯无人出租车（Robotaxi）公司吗？我们很快就能见分晓。</p>
-<p>自动驾驶汽车公司 May Mobility 计划通过与特殊目的收购公司（SPAC）ACP Holdings Acquisition Corp. 合并上市，此项交易按 14 亿美元的估值有望筹集超过 3 亿美元资金。</p>
-<p>目前还有其他开发自动驾驶技术的上市公司：专注于自动驾驶卡车的 Aurora 和 Kodiak、Rivian 以及特斯拉。尽管 Waymo 目前（尚）未上市，但其母公司 Alphabet 是上市公司。亚马逊旗下的 Zoox 亦是如此。</p>
-<p>但目前在三个地区运营自动驾驶丰田塞纳（Toyota Sienna）车队的 May Mobility 表示，它将成为美国首家完全专注于自动驾驶网约车业务的上市公司。资深记者肖恩·奥凯恩（Sean O&#39;Kane）指出，这也将是对 May Mobility 在自动驾驶领域坚持的“轻资产”与“合作伙伴优先”模式的一次考验。</p>
-<p>其他引起我注意的交易与动态……</p>
-<p>自动驾驶汽车公司 Beep 已与总部位于迈阿密的按需公共交通企业 Freebee 合并。合并后的新公司将被命名为 Beep，由 Beep 联合创始人凯文·里德（Kevin Reid）担任董事长兼首席执行官。Freebee 联合创始人克里斯·金博尔（Kris Kimball）和杰森·斯皮格尔（Jason Spiegel）将分别出任首席运营官以及总裁兼首席增长官。</p>
-<p>Lucid Motors 与欧洲移动出行平台 Bolt 达成合作，“部署至少 25,000 辆全自动驾驶汽车”。这些车辆将基于该电动汽车制造商即将推出的中型电动车架构打造，预计将比其现有产品尺寸更小且价格更亲民。</p>
-<p>R3 Lithium，一家总部位于佐治亚州的电池回收初创企业，完成了 1500 万美元的 A 轮融资，投资方包括 TDK Ventures、Integral GlobalTech Partners 和 Axial Partners。</p>
-<p>通用汽车（GM）为其全尺寸皮卡雪佛兰索罗德（Chevy Silverado）和 GMC Sierra 推出了全新的用户界面，改版内容包括支持 Apple CarPlay 和 Android Automotive 的画中画显示功能。</p>
-<p>一架配备 Joby Aviation 自动驾驶技术的飞行器在美国境内飞行超过 3,100 英里，全程没有任何人类飞行员介入操控。正如我在文章中所指出的，这绝不仅仅是一次博人眼球的技术演示。</p>
-<p>黑客组织 ShinyHunters 公布了来自佛罗里达州车辆与驾驶员信息数据库的数十万份文件。</p>
-<p>在美国众议院以压倒性多数通过《每辆车配备 AM 广播法案》（AM Radio for Every Vehicle Act）后，美国汽车制造商可能在未来一年内被强制要求在新车中装配 AM 收音机。此前电动车制造商一直在回避 AM 接收器，因为电动机产生的电磁干扰会影响 AM 广播使用的频段。</p>
-<p>大众汽车（Volkswagen）推出了一款效率创下新纪录的原型电动汽车。</p>
-<p>在旗下一辆车辆遭遇山洪被冲走五个月后，Waymo 重新启动了在得克萨斯州圣安东尼奥的无人出租车服务。该公司还在拉斯维加斯推出了新的无人出租车服务，并宣布进军新加坡，将在当地展开地图测绘并最终测试其自动驾驶技术。</p>
-<p>Wayve 聘请了埃利莎·德·马特尔（Elisa de Martel）出任下一任首席财务官，她曾在包括 Waymo 在内的多家科技公司担任高级财务管理职务。</p>
-<p>Zoox 目前在拉斯维加斯受到 100 辆车的运营规模上限限制，而这是其开展商业服务的唯一市场。该上限将于 9 月 25 日到期，从而为这家亚马逊旗下的公司扩大其定制无人出租车商业车队扫清障碍。</p>
+<div class="article-body" data-article-body="true"><p>Kairos Power 已选定工程建设企业三星物产（Samsung C&amp;T），协助为谷歌建造其 50 兆瓦示范核反应堆，这家核能初创公司的目标是在 2030 年前完工。</p>
+<p>Kairos Power 周一表示，作为交易的一部分，三星物产将对 Kairos 进行股权投资并提供“实物”工程服务，二者总价值高达 1 亿美元。Kairos 发言人向 TechCrunch 透露，其中股权投资占总额中的 7000 万美元。</p>
+<p>三星物产已在全球范围内建造或协助建造了约十几座核反应堆。</p>
+<p>Kairos 是受益于人工智能数据中心电力需求激增的核能初创企业浪潮中的一员。谷歌于 2024 年秋季首次与该公司签署协议，委托 Kairos 到 2035 年建造能够产生约 0.5 吉瓦电力的核反应堆。</p>
+<p>目前，Kairos 正在田纳西州橡树岭建造两座反应堆。第一座是 Hermes 1，这是一座低功率示范堆，将帮助该公司优化其商业化设计。第二座是 Hermes 2，是 Kairos 的首座商业规模反应堆。Hermes 产出的电力将作为其与谷歌协议中的首批 50 兆瓦。</p>
+<p>该初创公司于 2024 年底获得了美国核能管理委员会（Nuclear Regulatory Commission）建造这些反应堆的许可。该公司预计 Hermes 2 将于 2030 年投入运营，这与其与谷歌签订的原始协议一致。</p>
+<p>Hermes 2 将是一座氟化物盐冷却高温堆，这一设计已被提出多年，但从未达到商业规模建造。氟化物熔盐具有高沸点，有助于保持较低的压力水平。这反过来将在出现任何部件故障时限制高压喷发的风险。</p>
+<p>Kairos 还采用了一种名为 TRISO 的相对较新的核燃料形式，该技术将微小的铀燃料内核包裹在陶瓷和碳层中，然后装入台球大小的球体中。这种设计旨在防止堆芯熔毁。</p>
+<p>该初创公司有大约五年的时间使其第一座核电站启动并运行，这在核工业中是一个节奏加速但依然可控的时间表。为了履行与谷歌达成的协议条款，Kairos 需要在后续反应堆的建设上进一步提速，而三星物产可能能够在这方面提供助力。</p>
 <p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>交通出行版块编辑</p>
-<p>预订展位的最后一天是 9 月 18 日。不要错过在 Disrupt 展览大厅获得高价值线索、接触投资人以及提升品牌曝光的机会。</p>
-<p>蒂莉·诺伍德（Tilly Norwood）的媒体巡回宣传进展如何？大致就如同你对一个 AI 所能预期的那样</p>
-<p>来自一位 ChatGPT 发明者的新型 AI 模型让开发者兴奋不已</p>
-<p>OpenAI 发现其模型在向后续版本留言以掩盖不良行为</p>
-<p>最新未删节诉讼文件披露：微软高管称 AI 爬取数据是“人类历史上最大规模的劳动成果盗窃”</p>
-<p>清洁科技初创企业 Fluxnium 找到了一种开采可供使用 50,000 年核燃料的方法</p>
-<p>Salesforce 与英伟达（Nvidia）的新推理模型正是所有 AI 实验室所惧怕的一切<br />AI 基础设施公司 Cornelis 融资 2.05 亿美元以蚕食英伟达的主导地位</p></div>
+<p>气候领域资深记者<br />Tim De Chant 是 TechCrunch 的资深气候记者。他曾为众多出版物撰稿，包括《连线》（Wired）杂志、《芝加哥论坛报》（Chicago Tribune）、Ars Technica、《The Wire China》以及他作为创刊编辑的 NOVA Next。</p>
+<p>De Chant 还是麻省理工学院（MIT）科学写作研究生项目的讲师，并于 2018 年荣获麻省理工学院奈特科学新闻奖学金（Knight Science Journalism Fellowship），在此期间他研究了气候技术并探索了新闻业的新商业模式。他拥有加州大学伯克利分校环境科学、政策与管理博士学位，以及圣奥拉夫学院环境研究、英语和生物学学士学位。</p>
+<p>您可以通过发送电子邮件至 tim.dechant@techcrunch.com 与 Tim 取得联系或核实其外联信息。</p>
+<p>预订展位的最后一天是 9 月 18 日。切勿错过在 Disrupt 展厅获取高价值销售线索、对接投资人以及展示品牌亮点的机会。<br />Tilly Norwood 的媒体宣传之旅正如你对一个 AI 所预期的那样进行<br />来自 ChatGPT 发明者的一种新型 AI 模型令开发者倍感振奋<br />OpenAI 发现其模型向后继模型留言以隐瞒不良行为<br />最新公开的未删节文件显示，微软高管称 AI 数据抓取是“人类历史上最大规模的劳动窃取”<br />清洁技术初创公司 Fluxnium 找到了一种开采可供使用 50,000 年核燃料的方法<br />前 TikTok 高管开发了一款利用 AI 教你拍照摆姿势的应用程序<br />Salesforce 与英伟达的新推理模型是所有 AI 实验室都应忌惮的存在</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-21 00:02 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-22 02:23 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -788,7 +459,7 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

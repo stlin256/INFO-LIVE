@@ -27,38 +27,73 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-blog-260803-c4063dec7d9ea3c1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1952" data-content-paragraphs="14" data-published-at="2026-09-20T21:13:51.000Z" data-time-source="publication">
+<div id="story-laywer-investigate-juror-7f5bd9bfeb253fd7" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="253" data-content-paragraphs="3" data-published-at="2026-09-21T21:52:35.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-22 05:52</span>
+</div>
+
+### [林赛·克兰西辩护律师请求法官调查唯一的异议陪审员](https://www.theguardian.com/us-news/2026/sep/21/lindsay-clancy-laywer-investigate-juror)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Lindsay Clancy’s defense lawyer asks judge to investigate lone juror</div>
+
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/eac70b09b14d325cdecc877301b9142e6f5f8666/272_0_2721_2177/master/2721.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0996b5cbe32b7ee5f4d8a9436b85b33d" alt="林赛·克兰西辩护律师请求法官调查唯一的异议陪审员" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>克兰西一案中坚持己见的陪审员迈克尔·德斯隆维尔（Michael Desronvil）站在检方一边，主张克兰西在杀害其三名幼子时清楚自己在做什么。</p>
+<p>林赛·克兰西（Lindsay Clancy）的律师已请求法官对唯一一名主张裁定这位马萨诸塞州母亲杀害三名子女谋杀罪名成立的陪审员的行为展开调查。</p>
+<p>在周五提交但于周一公开的一项动议中，克兰西的律师请求法庭对该陪审员进行质询，涉及其据称在陪审团审议期间使用手机的行为、他在审讯开始前潜在陪审员填写的问卷中的真实性，以及他在审讯结束前一天接受法官询问时的真实性。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-22 05:52 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theguardian.com/us-news/2026/sep/21/lindsay-clancy-laywer-investigate-juror" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-2026-09-21-attention-34d5f981fc022182" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1203" data-content-paragraphs="13" data-published-at="2026-09-21T19:06:21.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-21 05:13</span>
+  <span class="news-meta-time">🕒 2026-09-22 03:06</span>
 </div>
 
-### [确定性核心，非确定性外壳](https://outdata.net/blog/260803)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Deterministic Core, Non-Deterministic Shell</div>
+### [注意力是你唯一拥有的东西](https://alicegg.tech/2026/09/21/attention)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Attention is all you have</div>
 
-<div class="article-body" data-article-body="true"><p>十四年前，Gary Bernhardt 提出了“函数式核心，命令式外壳”（Functional Core, Imperative Shell）这一术语。如同计算机领域大多数优秀的理念一样，它并非完全崭新，但他的构想格外清晰，为探讨现有系统中的测试与确定性奠定了极佳的基础。</p>
-<p>简而言之，“函数式核心/命令式外壳”架构将代码划分为两个部分。函数式核心是纯函数式的——即没有 I/O 操作，也没有破坏性的状态更新。它关注的是应用程序的业务逻辑。命令式外壳的分支路径相对较少，但它负责维护状态、协调外部依赖并与外界交互——也就是处理 I/O。它的职责是以某些值向核心发起查询，接收作为某种黑盒决策结果返回的值，并利用这些值与外部世界交互；无论是写入数据库、发送请求，还是更新图形用户界面（GUI）。</p>
-<p>在这种模型中，外壳和核心具有截然不同的特征：</p>
-<p>这使得核心非常易于测试。由于它是纯函数式的，相同的输入将始终获得相同的结果。由于它是隔离的，因此无需进行任何模拟（mock）或桩（stub）。而且，由于它处理复杂的业务逻辑，测试可以向我们清晰揭示系统是如何运作的。</p>
-<p>要更简练地描述纯函数易于测试的特性，那就是它们具有“确定性”（deterministic）。也就是说——给定一串输入流，纯函数总是返回相同的一串输出流；它们的行为是可重复的。但纯函数式编程并不是达到这一目标的唯一途径。如果我们换个角度看，就会发现值流（stream of values）和赋值序列（sequence of assignments）只是表达同一件事的不同方式，而状态机（State Machines）同样能为我们带来相同的好处。请看以下代码：</p>
-<p>函数 add 很容易推导；它是纯函数，因此具有确定性。但是 AddMachine 同样具有确定性——给定对状态转移函数的相同调用序列，AddMachine 将返回相同的状态。它是命令式的这一事实并不会改变这一点。</p>
-<p>纯函数式编程是一种优秀的范式，但出于语言或性能方面的考量，它并不总是切合实际——我绝不想在 C 语言中尝试它！但如果将要求从“纯函数式”放宽至“仅仅具备确定性”，我们就能在保留“函数式核心，命令式外壳”的易测试性优势的同时，拓宽其适用范围。这正是本文标题的由来了：确定性核心，非确定性外壳。</p>
-<p>相比函数纯度，确定性可能感觉是一个更抽象的概念。你该如何识别它？我发现从“什么不是确定性的”入手并进行反向推导会更容易。以下是一些不可重复行为的常见例子：</p>
-<p>所有这些都属于非确定性外壳。每当你在业务逻辑中发现它们时，你就找到了进行碎片整理（defragmentation）的天然目标——要么围绕它们将函数拆分为两部分，要么将它们提升一层，并将其结果作为参数注入。将“外壳”这一比喻理解得更形象一些是很有启发的：它应当包围着逻辑，向应用程序的心脏发起查询以获取所需内容。</p>
-<p>你可能会想：“这听起来都很棒，但对我这种在工业界的遗留代码和玄学代码堆里苦苦挣扎的人来说，有什么用呢？”。虚拟的读者啊，这是一个合理的指责；并不是每个人都能成为 Foundation DB 并在第一天就做好这种区分（他们实际上走得更远，但这属于另一篇文章的话题了）。在我见过的几乎所有现实代码库中，确定性与非确定性都是高度交织在一起的，而我见过的代码库可不算少。</p>
-<p>但不要让完美成为优秀的敌人！看待你手头普通（即糟糕）代码库的一种方式是，将其视为拥有许多确定性核心。它们有成千上万个，像天空中的繁星一样散落在一堆垃圾代码之中。悲观的看法是这些代码库是无可救药的遗留烂摊子；但乐观的看法是，许多确定性核心正隐藏在内部的某个地方，也许只是一小撮。</p>
-<p>较老 Windows 系统的用户可能还记得“磁盘碎片整理程序”；它将物理上分散在机械硬盘各处的文件内容重新整理为连续存放。在读取速度取决于介质物理距离的时代，这至关重要。</p>
-<p>因此，对于现有代码的一种渐进式方法是践行“确定性的碎片整理”（Defragmentation of Determinism）。尽可能在任何地方识别它——无论是在文件、类，甚至是单个函数中的几行代码——并开始将它们收集在一起。能够归拢的确定性越多，你拥有的易测试功能就越多，你对程序整体的行为和可靠性也就越有信心。“难以测试”的受攻击面（非确定性代码）便开始缩小。在一个足够大的代码库中，你可能永远无法归结为一个单一的确定性核心，但哪怕缩减到数百个，也远比数千个要好。</p>
-<p>在我见过的每一个一团糟的代码库中，内部都锁着一个或多个好得多的确定性状态机。我向你保证它们确实存在，即使它们并不显眼。一旦你找到了它们，你会惊喜地发现软件的修改和测试变得多么容易。一点一滴，可靠性便能构筑而成。</p></div>
+<div class="article-body" data-article-body="true"><p>“俄罗斯方块效应”（Tetris effect）是心理学中最容易复现的实验之一。只需连续几周每天花一点时间玩这款同名游戏，过不了多久，你就会开始在云朵、建筑物和日常物品中辨认出熟悉的俄罗斯方块形状。当你准备入睡时，甚至可能会看到它们在眼前浮现。</p>
+<p>俄罗斯方块效应带给我们一个启示：无论你长期关注什么，它最终都会塑造你的思想。这可能是一件好事，因为我们正是通过这种方式学习新技能、发现新想法的。遗憾的是，我们出于自身意愿去集中的注意力越来越少。我们不再去自主选择想看的内容，而是任由他人来替我们决定什么才是“对我们好”的。</p>
+<p>想看视频？YouTube知道你喜欢烹饪和艺术类直播。但为什么不顺便推荐几个关于股市泡沫、全球变暖以及伊朗战争的视频片段呢？“末日刷屏”（Doomscrolling）会让你停留更久，多点几则广告。</p>
+<p>想听音乐？打开Spotify播放列表，让算法去琢磨你的喜好即可。至于他们在真正歌曲之间插入的那些AI垃圾内容（AI slop）——旨在避免向真正艺术家支付版税——请直接忽略就好。</p>
+<p>想了解同事们的近况？真遗憾，LinkedIn会把任何相关的职场动态淹没在纯路人的高见之中。那些陌生人碰巧都在大肆吹捧微软眼下正在投资的项目，这肯定纯属巧合。</p>
+<p>想看看陌生人对某款产品的评价？嗯，你想请教的那些Reddit网友，现在大概率只是一帮大语言模型在和一帮俄罗斯网络水军对话。希望你之前没有太看重他们的看法。</p>
+<p>如果你和我以及大多数人一样，一天中的大部分时间都在注视着设备，毫无疑问，这正在对你产生影响。而当你任由他人来决定你屏幕上出现什么时，就相当于把开启你大脑的钥匙交给了他们。</p>
+<p>互联网并不总是这个样子的。在推荐算法出现之前，你必须自己决定要在电脑前做什么。</p>
+<p>那时你并没有一个只要打开就能命令它取悦你的超级应用。相反，你的浏览器里存着几十个书签，每个都对应着一个明确的目的：一个看电子游戏新闻的网站、一个拥有大量教程的网站、一个更新频率不太高的动漫博客、一个关于90年代电视剧的Wiki……</p>
+<p>当然，网络上也曾存在糟糕可怕的东西。我们以前有Encyclopedia Dramatica和Rotten.com，但前提是你得自己花心思特意去找才行。没有人会在松饼食谱或猫咪视频之后，给你推荐死童照片和极右翼宣传内容。</p>
+<p>好消息是，这种由自主意图主导的互联网依然存在。它只是在一定程度上被埋藏在了大公司的商业网络之下，但要找到它并不难。毕竟你正在读这篇博客，所以你大概已经很清楚这一点了。</p>
+<p>过去与现在的核心区别在于你自己。当你想重新回归阅读博客、订阅RSS源、认真读完一篇教程，而不是沉迷于刷短视频时，你就必须适应一个更慢节奏的互联网——一个内容并非无限、也不会随着每次点击不断刷新的互联网。</p>
+<p>但就像所有习惯一样，你唯一需要做的就是坚持下去。只要你倾注足够的注意力，你的大脑中自会豁然开朗。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-21 05:13 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-22 03:06 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -68,77 +103,36 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://outdata.net/blog/260803" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://alicegg.tech/2026/09/21/attention" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-rial-examples-for-hashes-21fa80b3f51536dc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7947" data-content-paragraphs="49" data-published-at="2026-09-20T19:14:36.000Z" data-time-source="publication">
+<div id="story-acsandmann-rift-cb32497a059f6541" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="431" data-content-paragraphs="8" data-published-at="2026-09-21T18:02:53.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-21 03:14</span>
+  <span class="news-meta-time">🕒 2026-09-22 02:02</span>
 </div>
 
-### [快速哈希函数的对抗样本](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Adversarial examples for fast hash functions</div>
+### [rift：一款适用于 macOS 的平铺式窗口管理器](https://github.com/acsandmann/rift/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> rift - a tiling window manager for macos</div>
 
-<div class="article-body" data-article-body="true"><p>通过统计测试并不能告诉你攻击者精心挑选的输入发生碰撞的频率，即使攻击者永远无法得知你的种子也是如此。</p>
-<p>哈希函数将任意长度的数据映射为固定大小的值。其目标是确保不同的输入映射到不同的输出，除非哈希函数所使用的秘密密钥随机性带来了极小的碰撞概率。这一特性确保了我们可以构建快速的哈希表，而不会让所有数据点都碰撞到同一个桶中。1</p>
-<p>哈希计算需要速度快。xxHash号称能达到 60 GB/s，基本与读取内存的速度相当。这种大批量哈希对于文件同步或数据完整性校验非常有用。许多流行的哈希函数，如 komihash、a5hash、HighwayHash、SpookyHash、aHash 和 t1ha2，都愿意牺牲质量（至少在面对对抗性输入时），以换取更高的速度。</p>
-<p>这在过去并无大碍。哈希的许多用例风险较低，攻击者为了找到能让哈希碰撞频率远高于平均水平的输入而进行昂贵的密码分析并不值得。尽管如此，大多数哈希函数仍然试图具备一定的鲁棒性，以防止算法意外出现二次方级变慢以及拒绝服务（DoS）攻击。</p>
-<p>最好的哈希函数能够证明任意一对输入发生碰撞的概率都很低。在一个无人能够证明其绝对安全的密码学世界里，这一点显得尤为独特。假设一个哈希函数在长度为 L 的输入以至多 L · 2−b 的概率发生碰撞时是 b-bit 通用的（b-bit universal）。有时对 L 的依赖性会更差，但（可证明）绝不会更好。2 那么问题就变成了：对于某个期望的 b，最快的 b-bit 通用哈希能有多快？</p>
-<p>我利用 Claude Fable 分析了来自 SMhasher（一个通过经验测试哈希统计特性的庞大项目）的各种流行哈希。分析发现，大多数哈希都存在表现极差的输入——至少比预期低 20 位。少数哈希已经公开发表了证明，Fable 能够在其中发现错误，并在 Lean 中对其他证明进行了验证。点击图表中的任意圆点即可阅读完整的分析报告。</p>
-<p>碰撞得分界限与批量处理速度对比。速度采用对数坐标。得分采用平方根间距，以便为低分提供更多空间；刻度标签显示原始的比特值。实心青色圆圈代表已证明的下限保证；空心圆圈代表未解决的宣称。铁锈色菱形是见证上限；叉号标记了全种子对。标签标出了选定的基准；绘制的每个变体都可以在哈希选择器中选择。</p>
-<p>按 Tab 键切换到某个点，使用方向键、Home 或 End 键在各点之间移动。Enter 或空格键可打开其详情文件。Escape 键可关闭。在触摸屏上可轻触某一点或其标签。</p>
-<p>选择一个哈希，或轻触某个点或标签。</p>
-<p>图 1. 快速实现可能会有截然不同的碰撞保证。实心圆点显示证明所保证的内容；铁锈色标记显示由特定输入对暴露的极限。保证与速度测量可能采用了不同的密钥设置——打开详情文件可查看这些假设条件。</p>
-<p>完整数据表 · 数据与来源 · 计时重现 · 哈希详情文件</p>
-<p>在速度轴上，相等的距离代表相等的比率：从 1 移动到 2 字节/周期所占的空间与从 10 移动到 20 相同。纵轴采用平方根间距，以为低碰撞得分留出更多空间。零值保持可见，所有刻度标签和详情数值均显示原始比特得分。得分本身相对于碰撞界限是对数的；请参阅其定义。</p>
-<p>实心青色圆圈给出了已证明的最低得分。空心圆圈显示未经验证的宣称。铁锈色菱形通过一对发生碰撞的特定不同消息限制了得分上限；叉号标出了在每个种子下都会碰撞的消息对。星号表示该上限采用了抽样比率。未发现更糟糕的消息对并不能证明其不存在，因此这些上限并非安全性排名。叉号可能位于零值之上，因为该得分针对消息长度进行了调整。所有绘制的变体都可以在选择器中获取，包括四种 HalftimeHash 风格，每种均返回 64 位。</p>
-<p>单独的历史 32 字节输入对 A 在 wyhash、rapidhash v1、rapidhash v3 和 XXH3-64 中，每 230 个密钥分别产生了 9、12、11 和 11 次碰撞。选定的 XXH3-64 输入对具有不同的测量比率：每 2^36 个密钥中约有 527 次（抽样测试；共 527 次事件，汇总计算）。搜索力度并不对等；这些见证上限并不作为哈希优劣的排名。当前输入对及计数的来源。</p>
-<p>速度是在 256 KiB 消息上测量的，与发生碰撞的消息对长度无关。“B/cycle”表示报告的每个计时器周期所处理的字节数；数值越大代表速度越快。M2 和 Xeon 计时器使用不同的周期约定，因此请在同一台主机上对比哈希函数。单独的短输入测量使用 1–31 字节。Foldhash 使用了经过验证的移植版本并带有对照测量。GHASH 是通过 OpenSSL 的 GMAC 接口计时的，包含设置开销。基准测试方案记录了计时器、重复运行及校准细节。</p>
-<p>两个已发布的 UMASH 核心界限目前已通过不同途径得到证明：实现的 mod-8p 累加器以及 C 指纹的两个独立乘法器。实心圆点显示了 56.18 和 83.99 位（在 L ≤ 246 字时约为 84 位），适用于理想完整密钥、固定种子和完整 C 输出。密钥派生、每次调用的种子以及掩码输出均在这些定理之外；论文中的 162/q 投影步骤仍未经过验证。四种 64 位 HalftimeHash 风格在规定的执行假设和长度限制下具有修正后的 63 位界限。最初的高级 24 字节函数被推翻；其修复后的版本被单独绘制。ChainHash 在两台主机上均为同一个 64 位函数：Xeon 上为 28.31 B/cycle，M2 上为 26.26，具有由机器检验的来自 64 字节均匀随机密钥的 63.0 位保证。ChainHash-128 是 128 位函数，同样在两台主机上均为同一函数：Xeon 上为 14.43 B/cycle，M2 上为 10.26，具有来自 128 字节随机密钥的机器检验的 127 位保证。SipHash-1-3 和 SipHash-2-4 作为未解决的宣称绘制在其 64 位输出宽度处。本次审查既未对这些 SipHash 界限提供证明，也未提供反例。引用的 2014 年分析报告指出，SipHash-1-x 的碰撞特征为 2-167，SipHash-2-4 为 2-236.3（Dobraunig、Mendel 和 Schläffer，2014），而我们自己的搜索未发现每对高于 2-26.4 的情况。一些历史碰撞示例缺少相匹配的计时，因此未在图表中展示。区别请参见证明附注。</p>
-<p>在发表本篇博文之前，所有发现均已向上游维护者披露。你可以在 xxHash、komihash、MuseAir 和 foldhash 的讨论中阅读维护者的回复。共识在于，只有真正的多重碰撞攻击——即一大组输入均以极高概率发生碰撞——才值得修复。通用哈希能够防范这种情况，但在原则上，哈希函数即使不具备通用性，也可以对多重碰撞保持鲁棒性。</p>
-<p>这是一个合理的立场，尤其是考虑到更改哈希函数很难实现向后兼容。然而，在这篇博文中，我们专注于可证明的安全性保证，而且所发现的碰撞证明了这些启发式哈希函数并非只是“尚未被证明正确的通用哈希函数”。同时，我们确实也为许多哈希函数找到了洪泛级别（flooding-grade）的无密钥多重碰撞。3</p>
-<p>希望这项工作能激发对速度更快且可证明哈希函数的研究。许多“利用方式”都采用了在多种哈希族中反复出现的类似不良模式。希望大家的下意识反应不仅仅是将所有东西都切换为像 SHA 这样的“密码学安全”哈希函数，或是直接使用 AES 原生指令。正如我们所展示的，可证明安全的哈希函数数量充足且速度飞快。</p>
-<p>如果有人对上述陈述有异议，或者希望我添加/更新/移除任何特定的哈希函数，请在 Twitter 上与我联系。</p>
-<p>以下附录包含对每个哈希函数的深入分析。请注意，其中包含 AI 生成的粗糙内容（AI slop），我无法保证所有内容都完全正确。我只相信找到并经过测量的具体实例。</p>
-<p>附录包含了对各个哈希函数的具体分析、它们反复出现的碰撞模式，以及验证和重现结果的说明。</p>
-<p>下面的每个条目均以实际发现开头，随后给出确切的代码版本、消息字节和推导过程。模式标签链接到算术原理的共享解释。“Every seed（所有种子）”意味着改变种子无法区分该碰撞对；采样率则仅描述经测试的随机密钥实验。</p>
-<p>这些碰撞对大多利用了相同的少数几个恒等式。在信息丢失之后才加入密钥无法恢复信息；如果第二条通道（second lane）或更宽的输出仅仅重复相同的计算，也不会有所帮助。下方的分组描述了这些条目中的见证者（witnesses），而非每个哈希函数的每一条路径。一行可以属于多个分组。生成器示例与选定的评分对分开标记；“未分组（ungrouped）”意味着该条目没有建立这些机制之一，并不代表该哈希是安全的。</p>
-<p>设 B = 2⁶⁴ 且 F(a,b) = lo₆₄(ab) ⊕ hi₆₄(ab)。对一个消息字求反也会对其异或掩码后的操作数求反。精确的整数恒等式为：<br />(~a)(~b) = ab + (2⁶⁴−1)(2⁶⁴−1−a−b)<br />如果乘积的高低半部分别为 (lo, hi) 和 (lo′, hi′)，则当 lo ⊕ lo′ = hi ⊕ hi′ 时，折叠结果完全一致：进位和借位模式可以抵消这种变化。条目报告了几个碰撞对的概率约为 2⁻²⁷，这并不是适用于所有种子映射的通用定理或比率；无论操作数是由随附常量掩码还是由均匀分布的秘密字掩码，该比率都相同，因为差分从未用到掩码值。XXH3-64 的 32 字节 NAF 对 (2⁻¹⁰·⁴⁷) 需要默认秘密字，因此记录为附加说明，而非计分碰撞对。在 8 字节时，foldhash 将同一个字读入两个操作数，因此一个求反的字就足够了。XXH3-128 还通过选择 w₁ = ~w₀ 来保留原始和。对于记录在案的 XXH3-64 32/128 字节碰撞对，通用的尾部折叠会改变输出，但不会改变发生碰撞的种子集合；quality 变体的额外折叠同样保留了每次快速碰撞。</p>
-<p>适用行：wyhash、rapidhash v1、rapidhash v3、foldhash-fast、foldhash-quality、XXH3-64、XXH3-128。</p>
-<p>证明所需条件：在掩码的实际联合分布下（包括此处使用的零输出差分），带密钥折叠的异或全域性（XOR-universality）界。</p>
-<p>对于后置种子包装器（seed-last wrapper）Hₛ(m) = Gₛ(C(m))，无论 Gₛ 是否可逆，恒等式 C(m) = C(m′) ⇒ Hₛ(m) = Hₛ(m′) 对每一个种子都成立。CityHash、FarmHash、gxhash 和 pengyhash 在公开压缩阶段就丢失了区分度。MUM 和 mir 则将一个已经发生碰撞的公开乘积项异或到其带种子的状态中；它们的折叠操作是将乘积的高低两半相加。MuseAir 达到 head ⊕ P(tail) ⊕ Kₛ 的形式，因此在相同长度下，修改 head 可以抵消对 tail 的任意选定公开修改。在 mx3 中，h ← (h + g(w))C 在相同步数后会留下一个公共的种子系数，且 g 是公开可逆的。Fasthash 类似地允许通过逆向字混合来抵消长度项。MurmurHash3 的公开字双射允许攻击者设置并在随后消除 P7 中描述的最高位差分；种子虽然影响状态，但并不能掩盖该差分。</p>
-<p>适用行：CityHash64、FarmHash64、gxhash、pengyhash、MUM v3、mir、MuseAir、mx3、fasthash-32/64、MurmurHash3。</p>
-<p>证明所需条件：消息压缩本身的一个碰撞界，且密钥必须参与区分消息的算术运算；仅仅给外围状态或终结器（finalizer）加密钥无法提供此类界。</p>
-<p>该恒等式其实就是简单的 0 · x = 0 · x′ = 0。在 a5hash-128 中，对于每一个种子，都可以将一个公开操作数设为零。在 a5hash-64 中，第一个消息字与扩展状态的某个值匹配，在其精确计算的密度为 118 × 2⁻⁴⁵ 的种子纤维（seed fibre）上使操作数归零。在 HighwayHash 的 lo₃₂(v₁)·hi₃₂(v₀) 乘积中，半个字就足够了：固定 hi₃₂(key[0]) 会使 hi₃₂(v₀) 为零。该类别的密度为 2⁻³²，但要合并完整状态，还需要一个概率为 56165/2⁴⁰ 的进一步条件事件。HalftimeHash24 的等长 Encode3 见证在其整个 high₃₂(core_key[6]) = 0 类别中确实会发生碰撞，其密度同样为 2⁻³²；该编码只允许一个符号发生改变。这些都是不同的事件，而不是共享的碰撞率。</p>
-<p>wyhash 和 rapidhash v1/v3 中随附的常量也允许这种零操作数模式。此前的报告包括 wyhash 的 issue #15 以及 rapidhash 的 issue #10 和 #25。这些行是在随机秘密模型（random-secret model）下评分的，即种子和每个秘密字均均匀分布，这排除了这些随附常量碰撞对；每行的说明将其记录为默认秘密的附加警告。</p>
-<p>适用行：a5hash-128、a5hash-64、HighwayHash、HalftimeHash24（等长见证）。</p>
-<p>证明所需条件：使操作数归零的实际密钥纤维的界，以及剩余状态差分相互抵消的条件概率。</p>
-<p>在 komihash 中，第二条通道继承了一个公开的异或偏移：s₂ = s₁ ⊕ c。将其消息字选为 w₂ = w₁ ⊕ c 会得到 w₂ ⊕ s₂ = (w₁ ⊕ c) ⊕ (s₁ ⊕ c) = w₁ ⊕ s₁。补偿另一个操作数的公开偏移可使每条消息内两个通道的乘积相同。它们的低半部分在通道异或中抵消；所选的比特翻转留下的公共高位乘积变化最多为 1，这往往会在后续加法中消失或相互抵消。这就解释了在长度为 64 到 127 字节时测得的 0.9106 的碰撞率，在该长度区间折叠操作会紧随其后。该条目未将此结果推演到经过又一轮主体循环的情况。</p>
-<p>证明所需条件：独立的通道密钥，或者针对其真实依赖关系的联合差分界，以确保攻击者无法仅仅通过抵消公开偏移来使各通道的操作数相等。</p>
-<p>只有当长度字段能够区分已编码的输入时，它才会发挥作用。在 gxhash 的短路径中，Cₙ(m)ᵢ = (pad(m)ᵢ + n) mod 256；15 个零字节与 16 个 ff 字节都会变成 16 个 0f 字节。HalftimeHash 的原始高级核心省略了长度，因此空输入与单个零字节会重合。Fasthash 包含长度，但某个消息处理步骤允许攻击者求解 mix(w) = 7m ⊕ 8m，从而在公共乘法之前抵消 7 字节与 8 字节之间的差异。对于 mx3 的 1 字节/8 字节对，相应的方程为 g(w) = g(0) + C(g(2) − g(9))。两条路径具有相同的种子系数。这些属于编码或长度项别名；t1ha2 的跨长度对则仍需要 P7 中的进位事件。</p>
-<p>相关行：gxhash、HalftimeHash24（原始核心）、fasthash-32/64、mx3。</p>
-<p>证明所需要的条件：在压缩之前进行单射长度成帧，或者建立一个带密钥的跨长度碰撞界，该碰撞界需将消息字如何抵消长度项考虑在内。</p>
-<p>一种碰撞配方可以产生不止一对碰撞。MurmurHash3 辅助性的 32 字节结构对于输入状态 s 满足 T_A(s) = T_B(s)：它将差值重置为零，而不是将状态重置为某个固定常数。因此，在 n 个位置的每一个中选择 A 或 B，即可产生 2n 个等长的碰撞消息。另外，CityHash README 中的对 B 为选定的压缩值求解了一个公开的字置换；三个自由字即可产生 2192 个碰撞的 32 字节输入。MuseAir 的可逆头部编码给出了 head′ = head ⊕ P(T) ⊕ P(T′)，对于选定长度的每个尾部都存在一个配对项。这些属于已记录的生成器；所选的较短 CityHash 和 MurmurHash3 碰撞对则保留其原始评分。</p>
-<p>相关行：MurmurHash3（辅助双块对）· 生成器记录；CityHash64（辅助对 B）· 逆向记录；MuseAir · 头尾配方。</p>
-<p>证明所需要的条件：针对联合“消息到状态映射”的单射编码或带密钥碰撞界；单个公开输入字的可逆性使得这些补偿字易于求解，且不会使整个映射成为单射。</p>
-<p>在字长为 w 时，设 t = 2w−1。模 2w 下，x ⊕ t = x + t，且对于奇数 c 有 (x ⊕ t)c = (xc) ⊕ t。公开的循环移位和异或移位可以将差值置于最高位；后续的消息字则会将其抵消。MurmurHash3、fasthash 的辅助等长对以及 nmhash32x 都利用了这一确定性恒等式。nmhash32 工作在 16 位乘法通道中，并且额外约束了跨越第 13 位的加法和进位。更一般地，x ⊕ d = x + d − 2(x &amp; d)，因此固定的 XOR 改变可以转化为符号相反的加法改变。SpookyHash 的后期注入和尾部在符号有利时会发生抵消；精确的半种子平衡尚未得到证明。所选的 t1ha2 对则使用密度为 2−24 的种子类，在该类别内实测成功率约为 2−4.19。它的抵消依赖于进位，而非零操作数。</p>
-<p>相关行：MurmurHash3、fasthash-32/64（辅助等长对）、nmhash32、nmhash32x、SpookyHash V2、t1ha2。</p>
-<p>证明所需要的条件：贯穿实际字长和联合进位条件的差分界，而不是假设循环移位、奇数乘数或各个状态位表现为相互独立。</p>
-<p>我将 aHash 的 AES 路径保持未分组状态：其条目需要 AES 逆差分，以及在独立密钥下同时发生重排加法抵消，而上述恒等式并未证实这一点。证明条目和对比条目同样未被分配碰撞模式。无论是证明缺口还是共享的乘法指令，都不足以成为分配一行的依据。</p>
-<p>在带有编号的摘录中，我将所提供的实现专门针对选定的消息路径进行了特化。除非另有说明，字均为无符号 64 位值；+、- 和普通 * 均在模 264 下回绕，^ 表示异或，rotl 将 64 位字循环左移。mul128(a,b) → (lo,hi) 返回完整的无符号乘积，fold(a,b) = lo ^ hi。元组赋值中等号右侧使用旧值。read32le 在移位前将其结果零扩展至 64 位；read64le 在指定字节偏移处读取一个小端序字。words(lo,hi) 是一个 128 位块。AES 操作是单个 AES 指令轮次，其指定的第二个操作数在末尾进行异或；aesenclast 省略了列混淆。字节重排使用小端序内存顺序；pack_le(bytes, indices) 按所列顺序打包所选字节，最低有效字节在前。每个注释都标明了示例所使用的秘密输入、公开常数以及操作。</p>
-<p>这些消息在 CityHash 使用种子之前就已经发生了碰撞。一旦两个输入变成了相同的中间值，再加入相同的机密信息便无法将它们区分开来。</p>
-<p>代码：cityhash；SMHasher3 hashes/ci</p></div>
+<div class="article-body" data-article-body="true"><p>加载时出错。请重新加载此页面。</p>
+<p>Rift 是一款专为 macOS 设计的平铺式窗口管理器，专注于性能与易用性。</p>
+<p>通过文档快速上手：</p>
+<p>加入 #rift:matrix.org 参与讨论、获取支持并跟进开发进展。</p>
+<p>如果 rift 已成为你日常工作流的一部分，请考虑赞助其开发。</p>
+<p>Aerospace 对我来说效果不错，但我怀念动画效果，以及在一台显示器上全屏使用同时在另一台显示器上工作的能力。我也更倾向于利用私有/未公开的 API，因为它们往往更可靠（毕竟操作系统本身以及所有公开 API 都是构建在它们之上的）且性能更佳。有关 rift 存在的原因以及 rift 致力于实现的目标的更多信息，请参阅宣言。</p>
+<p>Rift 最初是 glide-wm 的一个分支（并按此获得许可），但此后已产生显著分化。它使用了经由 yabai 及其他项目逆向工程的私有 API。它与 glide-wm 或 yabai 均无从属关系。</p>
+<p>一款适用于 macOS 的平铺式窗口管理器</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-21 03:14 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-22 02:02 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -148,159 +142,239 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://thomasahle.com/blog/adversarial-examples-for-hashes/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://github.com/acsandmann/rift/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ebsites-via-ad-collector-7362b503eb6d7f07" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2016" data-content-paragraphs="17" data-published-at="2026-09-20T17:43:10.000Z" data-time-source="publication">
+<div id="story-elf-hosting-behind-cgnat-e81801dbc01f4857" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1200" data-content-paragraphs="12" data-published-at="2026-09-21T17:53:28.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-22 01:53</span>
+</div>
+
+### [在 CGNAT 限制下实现家庭自建托管](https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Self-Hosting Behind CGNAT</div>
+
+<div class="article-body" data-article-body="true"><p>没有什么比端到端地拥有自己使用的软件和硬件，而不必依赖滥用权力的云服务巨头更令人心满意足了。互联网属于我们，而不是他们。摆脱审查。学习如何在家里自建托管，获得真正的自由（libre）。</p>
+<p>在过去，自建托管更加容易。你只需在路由器上打开一个端口，并将其转发到家里的任意一台机器即可。1 [注1：每当你的网络运营商（ISP）轮换公网 IP 时，动态 DNS 服务都可以让你的域名始终指向正确的公网 IP。] 如今，由于 IPv4 地址短缺，同一个街区的多个路由器往往共享同一个 IP。请求通过运营商级 NAT（CGNAT）进行路由，这是运营商网络内部的第二层 NAT，其中你的路由器地址属于私有地址，并在出网时由运营商进行转换。公网地址归运营商所有，因此传统的端口转发已不再奏效。</p>
+<p>我的服务运行在位于西班牙北部我母亲地下室的一台配置中等的机器上，并通过位于法国数据中心的一台廉价 VPS 网桥暴露到互联网。</p>
+<p>一条双向 WireGuard 隧道2 [注2：WireGuard 是一种快速、现代且安全的 VPN 隧道，直接运行在 Linux 内核中。] 将所有端口上的全部数据包从网桥转发到家庭实验室主机，反之亦然。这种方案的巧妙之处在于，隧道是由家庭实验室端发起的，因此你不需要在家里拥有静态专用 IP。3 [注3：向运营商购买静态 IP 也是一种可行的替代方案，在西班牙大约需要每月 20 欧元。] 使用网桥带来的延迟代价是 39 毫秒的往返时间（RTT）。</p>
+<p>网桥的 wg0.conf 配置文件。4 [注4：有关我如何配置一台全新机器，请参阅《新服务器初体验》（First Steps on a New Server）。]</p>
+<p>PostUp 在内核级别设置 NAT 和转发规则。5 [注5：当隧道关闭时，PostDown 会将其清除。] 前两条规则排除了用于 SSH 的 2222 端口和用于 VPN 隧道本身的 51820 端口。后三条规则将所有端口上的所有流量转发到家庭实验室。目标地址被重写，但源地址不变，因此家庭实验室可以看到真实的客户端 IP。</p>
+<p>家庭实验室的 wg0.conf 配置文件。6 [注6：其完整配置保存在我的 homelab 代码仓库中。]</p>
+<p>来自家庭实验室的响应必须原路返回隧道。这正是该配置的作用：将这些响应通过网桥发送出去，同时让家庭实验室自身的普通流量继续走家庭路由器。7 [注7：从此，通过 22 端口连接到 ssh.alvarezrosa.com 的 SSH 会进入家庭实验室，而 2222 端口则进入网桥。]</p>
+<p>整个架构中有三个可能出现故障的环节。</p>
+<p>掌控你自己的服务。追求自由，尽情享受乐趣！</p>
+<p>我的邮件列表是免费且不定期发送的，涵盖各种主题。我绝不会出售或分享你的电子邮件地址。</p>
+<p>有反馈意见吗？欢迎给我发送邮件：david@alvarezrosa.com。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-22 01:53 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-blog-ra-ra-html-c3bbdd8407e23464" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1614" data-content-paragraphs="7" data-published-at="2026-09-21T17:01:35.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-22 01:01</span>
+</div>
+
+### [要闻：很多人会将 relation algebra 与 relational algebra 混为一谈，包括维基百科（](https://remy.wang/blog/ra-ra.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Relation algebra is not relational algebra</div>
+
+<div class="article-body" data-article-body="true"><p>很多人会将 relation algebra 与 relational algebra 混为一谈，包括维基百科（直到今天为止）以及我最喜欢的数据库领域技术博主之一 Jamie Brandon。我并不责怪他们，因为这两个名称在英文中仅相差两个字母，而且我相信就连特德·科德（Ted Codd）当时大概也不知道 relation algebra；否则我很怀疑他是否还会将自己的发明命名为“relational algebra”。</p>
+<p>如果你使用过数据库，大概率听说过 relational algebra（关系代数），毕竟它是关系型数据库的基石。科德在其 1970 年的里程碑式论文《大型共享数据库数据的关系模型》（A relational model of data for large shared data banks）中引入了这种代数，并在两年后将其定名为“relational algebra”。对于理论爱好者而言，他的开创性成果（现被称为科德定理，Codd&#39;s theorem）表明，relational algebra 等价于所谓域独立的关系演算（domain independent relational calculus），其本质上一阶逻辑查询中性质良好的一类片段。</p>
+<p>然而，在逻辑学与纯数学之外，知晓 relation algebra（二元关系代数）的人就少之又少了。在数学领域，它被公理系统抽象地定义为一种代数结构，其命名源于它能非常便捷地对二元关系上的具体代数进行建模。与科德定理相对应的一个有趣结论是，relation algebra 在表达能力上等价于 \text{FOL}^3（即将一阶逻辑限制为最多使用 3 个不同变量，但量词可任意深度嵌套）。不过，如果引入 fork 运算符，它便可进一步扩展，达到与完整一阶逻辑（FOL）相当的表达能力。</p>
+<p>那么，这是否意味着 relational algebra 是计算机科学专属，而 relation algebra 是数学领域专属呢？且慢！事实证明，relation algebra 同样已在计算机科学领域悄然落地。基于其构建的一个核心软件就是 Alloy 分析器，Alloy 将其称为“关系逻辑”（relational logic，直到我刚才修正前，维基百科上的该词条还被错误重定向到了 relational algebra 的页面……）。Alloy 则是已故大师让-雷蒙·阿布里亚尔（Jean-Raymond Abrial）开创的 Z 记号（Z notation）的衍生成果。</p>
+<p>我们再梳理一遍：难道 relational algebra 归数据库所有，而 relation algebra 则专供数学和形式化方法使用？依然不是。几十年来，以德克·范·古赫特（Dirk Van Gucht）为代表的一小群执着学者，始终在致力于将 relation algebra 的思想引入数据库理论与系统。我们在最近关于 Prela 查询语言的论文中提供了一些相关文献指引——这也引出了我的核心观点：Prela 似乎是自范·古赫特的 IUGQL 之后，首个基于 relation algebra 设计的查询语言。</p>
+<p>我认为 relation algebra 确实值得被更多人了解。正如塔斯基（Tarski）精辟的论断：“关系演算拥有一种内在的魅力与美感，对于每一位领略其精妙的人而言，它都是思想愉悦的源泉。”最后，为了避免未来的混淆，我已开始将其称作“塔斯基关系代数”（Tarski&#39;s Algebra of Relations，简称 TAR）。</p>
+<p>没错，塔斯基把 relation algebra 称为“关系演算”（the calculus of relations），但这与数据库理论中的“关系演算”（relational calculus）同样不是同一概念……↩︎</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-22 01:01 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://remy.wang/blog/ra-ra.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ng-a-game-for-gba-and-pc-426bc3e261f5c861" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2134" data-content-paragraphs="20" data-published-at="2026-09-21T16:02:54.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-22 00:02</span>
+</div>
+
+### [用同一套代码库同时开发 GBA 和 PC 游戏](https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Making a game for the GBA and PC from the same codebase</div>
+
+<div class="article-body" data-article-body="true"><p>为什么以及我如何为两个截然不同的平台开发同一款游戏。</p>
+<p>我现在已经开启了我的第三次 e-Reader 开发冒险之旅。不过这次我更加老练且富有经验，因此做事方式也有所不同。我正在制作的下一款 GBA/e-Reader 游戏同时也会推出 PC 版。以下是这么做的原因以及部分实现方式。</p>
+<p>在制作第一批 e-Reader 游戏时我非常幸运，只是当时我并没有意识到这一点。我当时设法找到了一家印刷厂，他们印制出的卡片质量优良，更重要的是，在 e-Reader 上的扫描识别率极高。</p>
+<p>由于这些卡片的扫描效果非常好，我以为自己已经解决了最大的难题，便兴致勃勃地投入到下一款 e-Reader 游戏《Pixel Pup》的开发中。我们已经完全完成了 e-Reader 版本的制作，甚至连卡片都印制好了，结果却不得不取消发布。与我合作的那家印刷厂更换了设备（包括硬件和软件），再也印不出能被正常扫描的卡片了。关于这件事还有很多细节，但大体情况就是如此。</p>
+<p>最终我们改为将《Pixel Pup》作为标准的 GBA 游戏发布，而对于今后如何继续开发新的 e-Reader 游戏，我一时陷入了迷茫。</p>
+<p>但是，我真的很喜欢 e-Reader。我仍然想为它做一款游戏，以任天堂从未尝试过的方式充分发挥这款独特设备的潜力。</p>
+<p>尽管面临这些问题，我最终还是决定着手开发这款雄心勃勃的 e-Reader 游戏。与此同时，我将继续探索卡片的制造方法。希望在游戏即将完成时，我能找到一个良好的卡片制作途径。但也可能找不到。坦白讲，大概率是找不到了。</p>
+<p>这款游戏名为《Eridin》。它是一款融入了一些新创意的奇幻回合制策略游戏。以下是一些非常早期的模型图和截图。随着开发的推进，这些内容会有很大变化……</p>
+<p>我决定将这款游戏同时开发为 GBA/e-Reader 游戏和 PC 游戏。在最坏的情况下，我直接只发布 PC 版即可。我需要在这款游戏上找到一个良好的平衡点，让它能够同时兼顾 e-Reader 和 PC 平台。换句话说，如果 PC 版仅仅因为 e-Reader 版有“刷卡”机制就也生搬硬套地加入“刷卡”，那就会显得像个噱头且令人厌烦（事实也确实如此）。我认为我已经找到了平衡两者的好方法，随着开发的推进，我会在后续分享更多相关内容。</p>
+<p>为了实现这一点，我使用 C 语言编写该游戏。GBA 端使用 DevKitPro 和 libtonc（就像我之前制作《Pixel Pup》时一样），PC 端则使用 SDL2。</p>
+<p>我首先提取了为《Pixel Pup》开发的引擎，并在此基础上构建了一个 API 层。这一层的灵感实际上来自于 e-Reader 本身，e-Reader 内置了面向游戏的 API。例如，为了加载精灵图（sprites），我在 `sprites.h` 头文件中定义了 API，以下是一个简单的使用示例。</p>
+<p>随后在实现方面，我分别编写了 `sprites.gba.c` 和 `sprites.sdl.c`。</p>
+<p>以上代码片段并非实际代码，经过了简化，但你能明白其核心思路。</p>
+<p>每个平台的 Makefile 会引入所有通用文件以及特定平台的文件。我尽力减少需要特定平台单独实现的频率。一旦搞定了精灵图、背景、字体和音频等基础模块，我发现绝大多数引擎代码都是跨平台通用的。目前游戏本身也有一些特定平台的文件，但总体上非常少。当然，现在还处于开发初期，后续可能还会发生变化 :)</p>
+<p>PC 版的分辨率仍将维持在 240x160，即 GBA 的原生分辨率。不过它会对该分辨率进行大幅缩放，以免在现代显示器上看起来像枚微小的邮票。PC 版在很大程度上会保持 GBA 游戏的“手感”，类似于最近发布的《Pipistrello and the Cursed Yoyo》，那同样是一款具有 GBA 审美风格的现代游戏。</p>
+<p>但是 PC 版会包含更多便利性改进和图形特效，整体体验会更加舒适。这让我想起了那些从经典《毁灭战士》（Doom）、《异教徒》（Heretic）等作品中汲取灵感的现代第一人称射击游戏，例如《REKKR》。《REKKR》比经典《毁灭战士》现代得多，它更像是利用现代技术进步来重塑我们记忆中滤镜加持下的经典《毁灭战士》，而不是完全照搬 30 多年前的原貌。</p>
+<p>举个简单的例子，PC 版使用了亚像素（subpixels）技术来让画面滚动平滑。</p>
+<p>GBA 版本的地图滚动显得十分笨拙生硬，而 PC 版本则要平滑得多。</p>
+<p>之所以能做到这一点，是因为 PC 版以高得多的分辨率进行渲染（在演示视频中为 1200x800，但缩放比例可以调节），因此能够利用“亚像素”来定位元素。同时它也不会像 GBA 版那样被限制在每秒 60 帧。PC 版可以按照设备性能所允许的任意帧率进行渲染，这带来了更流畅的动画效果，也让游戏的“触感”更好。我以后可能会专门写一篇博文来讨论这种帧率差异，因为这是两个平台之间最大的不同，而我非常欣慰自己能够将这种差异很好地封装屏蔽在日常开发工作之外。</p>
+<p>如果你读到了这里，非常感谢！我会继续埋头打磨《Eridin》。如果你感兴趣的话，我会在 Bluesky 上发布相关更新动态。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-22 00:02 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-optimal-trace-5d2a84cfa249aa52" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3231" data-content-paragraphs="33" data-published-at="2026-09-21T15:13:38.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-21 23:13</span>
+</div>
+
+### [跑出一条最优全迹路线](https://anishathalye.com/optimal-trace/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Running an Optimal Trace</div>
+
+<div class="article-body" data-article-body="true"><p>全迹追踪（tracing，历史上也称为 redlining，即红线标记）的目标是完整走完一个特定区域内的所有步道。这种玩法起源于新罕布什尔州的徒步社群，在当地，完成一次白山山脉（White Mountains）的全迹追踪需要覆盖超过 1450 英里的不重复步道。</p>
+<p>受一位朋友在该州立公园长跑的启发，我想通过单次跑步完成旧金山天使岛（Angel Island）的全迹追踪。面对岛上由 19.4 英里不重复道路/步道构成的密集网络，我很难手动规划出一条高效的路线。为了避免跑成超长距离超级马拉松，我编写了一些软件来规划和执行最优全迹路线。</p>
+<p>天使岛的最优全迹路线。红色：包含的步道。浅紫色：不重复路段。深紫色：重复路段。</p>
+<p>在挑战天使岛之前，我进行了三次本地测试跑，分别位于苏特罗山（Mount Sutro，Strava、JPG）、戴维森山（Mount Davidson，Strava、JPG）和格伦峡谷（Glen Canyon，Strava、JPG）。</p>
+<p>对于天使岛的跑步（规划路线，Strava、JPG），我的优化目标是最小化总距离；规划路线最终总长为 23.8 英里，其中包括 4.4 英里的折返重复步道。我们的实际跑步距离为 24.6 英里（包含一些绕路），用时约五小时完成。</p>
+<p>规划最优全迹路线的第一步是决定包含哪些步道。要称之为全迹追踪，就必须包含选定区域内的所有步道。但关键是要避开不存在或无法通行的步道。因为路线必须提前规划和优化，如果在跑步中途才发现某个路段无法通行，整条路线就会被破坏。在这种情况下，通常无法在不破坏最优性的前提下实时调整路线。</p>
+<p>作为基准，我使用 OpenStreetMap 来识别特定区域内的道路和步道。例如，这也是 Strava 使用的主要地图数据库。</p>
+<p>像 Strava 和 Garmin Connect 这样的服务提供了热度热力图，这有助于识别已关闭或不存在的步道。例如，热力图有力地证明了苏特罗山上的日落步道（Sunset Trail）已经关闭。</p>
+<p>使用热力图存在一些挑战。它汇总了较长时间跨度内的活动数据，因此无法反映最近关闭的步道。算法还会进行一些裁剪和归一化，因此不会显示非常冷门的步道。在一定程度上，这可以通过使用特定运动的热力图来克服。例如，将戴维森山的所有运动热力图与徒步专用热力图进行对比，会发现几条确实有人走过的额外步道。</p>
+<p>在戴维森山的测试跑中，我忽略了一条在热力图上没有高亮显示的步道，但在跑步过程中，我发现它确实是一条真实存在的步道。后来我意识到，我本可以通过查看卫星地图来发现这一点。</p>
+<p>当有近期的街景数据可用时，它可以作为确认步道封闭或无法通行区域的好方法。例如，苏特罗山的日落步道封闭情况就可以通过这种方式来确认。</p>
+<p>官方地图为无法通行的区域提供了最明确的指引。例如，天使岛公园地图标明了禁止游客进入的维护通道和海岸警卫队区域，尽管这些区域出现在了 Strava 热力图上。</p>
+<p>为了天使岛的跑步，我花了几个小时使用上述所有方法对该区域进行前期侦查。尽管我已经尽了最大努力，但在规划时还是在两个方向上犯了小错误：路线漏掉了岛西南部通往莱迪亚德炮台（Battery Ledyard）的往返路段，我们在跑步时看到了并将其加入；路线还在岛西北部环岛路（Perimeter Road）与日落步道连接处包含了一条虚构步道，在跑步时发现它并非真实步道后我们将其舍弃。值得庆幸的是，这些小错误最终没有对路线的最优性产生影响。</p>
+<p>我使用 Overpass API 获取了特定区域内的所有道路和步道。该 API 提供了一些基本的过滤功能，但我所有的跑步都需要对手动获取的数据进行编辑。</p>
+<p>获取到的数据中包含通过侦查确认无法通行的路段，或者包含一些噪点，例如建筑物的连接道、公交站的分岔道，或是与机动车道分开记录的人行道。在进行路径优化之前，我需要将这些内容删除。</p>
+<p>来自 OpenStreetMap 的原始数据即使在小区域内也是一个包含数千个节点的图（graph）。为了提供良好的编辑体验，我构建了一个界面，支持使用与 OpenStreetMap 原始数据对应的物理节点和边，或者使用仅包含步道交叉点的逻辑节点以及将交叉点之间的所有物理边聚合在一起的逻辑边。</p>
+<p>这种情况虽然少见，但 OpenStreetMap 数据偶尔也会遗漏一些可以通过其他方式（如卫星地图）确认存在的路径。出于这个原因，我需要能够在地图上添加边。</p>
+<p>最初，我只考虑针对距离进行优化。在戴维森山完成了一次多坡跑步后，我开始考虑最小化累计爬升或预估用时。对于爬升，我使用 USGS 3DEP API 获取精细的高程数据；起初，我的软件严重高估了累计爬升，后来通过设置最小阈值（2 米）来计入高程变化，修复了该问题。为了预估用时，我使用托伯勒徒步函数（Tobler&#39;s hiking function）来计算根据坡度调整后的配速；该计算使用移动平均线来平滑高程剖面图。</p>
+<p>距离和爬升的优化目标对应于一个著名的组合优化问题，称为中国邮递员问题（Chinese postman problem），即找到一条遍历图中每一条边且边权重之和最小的回路。幸运的是，该问题在实际中存在高效的多项式时间解法。作为额外优化，我在逻辑图上计算最优路径（其中逻辑边的权重是对应物理边权重的总和），然后将解映射回物理图。</p>
+<p>我发现距离优化目标和爬升优化目标得出的解决方案非常相似。例如，在戴维森山：</p>
+<p>不出所料，针对爬升进行优化时会重复走一些更长但更平缓的公路路段，而针对距离进行优化时则会重复走一些更短但更陡峭的步道路段。</p>
+<p>戴维森山不同优化目标下的最优全迹路线。浅紫色：不重复路段。深紫色：重复路段。</p>
+<p>针对时间进行优化则略有不同：在这种设定下，遍历一条边的成本取决于遍历该边的方向，因为上坡跑比下坡跑耗时更长。这个问题被称为风向邮递员问题（windy postman problem），属于 NP 难问题。我使用的基于整数线性规划的求解方案仅适用于小型图，因此在实际中我并没有采用。</p>
+<p>在我的跑步实践中，爬升所节省的体能消耗似乎并不值得以增加距离为代价，因此我始终选择最小化距离。</p>
+<p>为了摸索出一套在跑步时循迹路线的良好流程，我经历了几次迭代。最初的计划是导出一个最优轨迹的 GPX 文件，导入 Strava，然后用手机跟着路线跑。然而最终的流程要复杂得多。</p>
+<p>该软件的第一版导出的只是扁平的 GPX 文件，不包含任何高程数据。</p>
+<p>将其导入 Strava 会自动补全高程数据。遗憾的是，导入过程存在缺陷，明显错位或遗漏了某些节点。</p>
+<p>在其他软件中打开原始 GPX 文件时能显示正确路径，但有些软件不支持预览没有高程数据的路线。当我直接向导出的 GPX 中添加高程后，这些错误得到了解决；起初我依赖 Open-Meteo 的高程 API，它提供 90 米分辨率的 GLO-90 数据。后来我改用了 USGS 3DEP API，它能动态提供现有的最佳数据，最高可达 1 米分辨率的 S1M。</p>
+<p>这不仅解决了 Strava 导入问题，也解决了与其他软件的兼容性问题。</p>
+<p>这套方案有几个优势：在地图上显示当前位置、滑动进度条时拥有更好的分辨率，以及支持点击地图上的某一点以在规划路线中定位该点。</p>
+<p>在天使岛（Angel Island）之前，我的最长测试跑是 8.5 英里。在为长达 24 英里的天使岛跑步做准备时，我发现滑动进度条时的分辨率不足以在密集区域进行导航。</p>
+<p>这款最优轨迹规划软件完全在 Web 浏览器的客户端运行，并使用无需身份验证的公开 API。你可以在 optimal-trace.anish.io 体验该应用。请注意，该网页应用未针对移动设备进行优化。</p>
+<p>源代码可在 github.com/anishathalye/optimal-trace 获取。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-21 23:13 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://anishathalye.com/optimal-trace/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-he-rise-of-managerialism-cf674008195da284" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="450" data-content-paragraphs="3" data-published-at="2026-09-21T15:06:32.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-21 01:43</span>
+  <span class="news-meta-time">🕒 2026-09-21 23:06</span>
 </div>
 
-### [ChatGPT如今能通过广告数据收集器获知你在其他网站的浏览活动](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ChatGPT now knows what you do on other websites via ad collector</div>
+### [露西·莱特比、NHS与管理主义的抬头 | 读者来信](https://www.theguardian.com/uk-news/2026/sep/21/lucy-letby-the-nhs-and-the-rise-of-managerialism)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Lucy Letby, the NHS and the rise of managerialism | Letters</div>
 
-<div class="article-body" data-article-body="true"><p>任何在 ChatGPT 上投放广告的公司，都会在其自身网站上安装一段由 OpenAI 编写的小型代码，这与零售商早已安装 Meta 和谷歌追踪代码的做法完全相同。加载这段代码后，它会将 __obi 以及与你正在浏览的页面相关的数据一同发送给 OpenAI。这包括你搜索的商品、阅读的文章以及购买行为。</p>
-<p>归结起来，OpenAI 能够将你在那些网站上的行为与你的 ChatGPT 账户关联起来。</p>
-<p>我在自己的手机上完整复现了这一机制，通过两种独立的数据抓取方式进行了验证，并与覆盖 1,029 个主机名、包含 936 个不同广告主像素（pixel）的数月观测流量进行了交叉比对。</p>
-<p>第一步：ChatGPT 创建一个标识符并对其进行签名。<br />在 chatgpt.com 上，客户端会生成 16 个随机字节，并调用 POST /backend-api/bazaar/obi/sync-token（登出状态下则调用 /backend-anon/）。后端随后返回一个 RS256 JWT：<br />sub 代表账户。obi 是标识符。该令牌将两者绑定在一起，其作用域限定在收集器，且有效期为 60 秒。bzr 代表 bazaar（集市），这是 OpenAI 广告平台的内部代号；wadi 则是签发服务。</p>
-<p>客户端将 {&quot;token&quot;: &quot;«JWT»&quot;} 跨站 POST 请求发送至 bzr.openai.com/v1/obi/sync。响应结果为：</p>
-<p>第三步：广告主网站将其回传。<br />广告主页面向 OpenAI 的主机发送三类请求。在一台 Cookie 存储区存有 __obi 的手机上，所有这三类请求都携带了该标识符：</p>
-<p>同一个 SDK 还从广告主页面收集身份信息。上报的数据有效载荷区分了四种来源，均由 OpenAI 自身标注：in 代表广告主主动传递的值；fm、ht、js 则代表 SDK 分别从表单字段、渲染页面文本以及标签管理器总线（tag-manager bus）中爬取的值。在观测到的流量中，爬取到的身份信息数量超过了广告主主动提供的数量，比例为 685 次对 255 次事件。</p>
-<p>标签管理器总线是电子邮箱地址的最大来源。该 SDK 用其自有函数替换了 window.dataLayer.push，还会读取 adobeDataLayer，并通过解析 gtm.js 脚本标签中的 l= 参数来定位被重命名的 GTM 层。当前版本会从中获取电子邮件和电话号码。在 8 月 27 日范围缩减之前，0.1.31 版本甚至还会抓取姓名和地理位置信息。</p>
-<p>电子邮件、电话、名与姓在传输前会经过 SHA-256 哈希处理。国家、地区、城市和邮政编码则以明文发送。邮政编码是抓取最为频繁的表单字段，在 28 个网站上共发生 100 次事件。</p>
-<p>URL 在发送前会被缩减为源地址（origin）加路径（path）；在观测到的 23,929 条数据中，没有任何一条携带查询字符串（query string）。但路径保留了下来，送达收集器的路径包括某种医疗状况、债务解决方案漏斗以及诉讼受理登记表单。</p>
-<p>在已知设置的 881 个像素中，有 638 个启用了自动匹配功能，其中包括观测到的所有信贷和贷款广告主。该功能由 OpenAI 的广告管理后台（Ads Manager）控制。黑名单排除了密码、一次性验证码、卡号、社保账号（SSN）、出生日期、病史、诊断结果和法院字段。</p>
-<p>__obi 是 OpenAI 唯一一个被配置了 SameSite=None 属性的标识符。</p>
-<p>在我的设备上，同一个 __obi 值从 12 个商业网站下、以 13 个不同的像素 ID 发送至 OpenAI，其中包括 Chewy、Wayfair、ThriftBooks、Eventbrite、HelloFresh、Coursera 和 SeatGeek。每一个请求都被以 202 状态码接收。</p>
-<p>在更广泛的流量中，30 个不同的 __obi 值中有 12 个出现在多个广告主网站下，其中一个出现在多达十个广告主网站下。</p>
-<p>在解码的 932 个同步令牌中，有 736 个携带 subject_type: account_user，196 个携带 anonymous。匿名主体与账户主体一样稳定：每台设备一个，且至少能留存 27 天。</p>
-<p>OpenAI 将分析与营销设为两个独立的同意选项，即 oai_consent_analytics 和 oai_consent_marketing。而我解码的每一个同步令牌都带有 consent_decision: analytics_allowed。即便某人允许分析并拒绝营销，也会遇到这种情况。</p>
-<p>广告主对此并不知情。__obi 属于他们自有脚本无法读取的域名。他们仅仅安装了一个转化像素，根本无从得知其访客正被解析关联至具体的 ChatGPT 身份。</p></div>
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/5320c52626efa57fc9619ffb2138e644b0cf86b2/111_0_2581_2065/master/2581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=253051e1bfca3727cd3c556bea526a4c" alt="露西·莱特比、NHS与管理主义的抬头 | 读者来信" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>皮特·多里（Pete Dorey）认为大多数公共服务部门都存在严重的过度管理，迈克尔·巴雷特（Michael Barrett）表示举报人制度至关重要。此外还附有弗朗西斯·柯克汉姆（Frances Kirkham）和珍妮·韦伯（Jenny Webb）的来信。</p>
+<p>汤姆·多尔芬（Tom Dolphin）关于NHS管理层失职的精彩文章读来令人心情沉重（《莱特比案调查报告明确阐明了一点：NHS过多层级的管理水平差得令人震惊》，9月16日）。然而我认为，我们的大多数公共服务部门都存在严重的过度管理，一线专业人员既得不到机构上级的倾听，也得不到尊重；如果他们公开直言糟糕的决策、过重的工作负荷以及不可能实现的目标或“绩效指标”，还将面临危及自身职业生涯的风险。</p>
+<p>正如我们当前的诸多困境一样，管理主义的抬头可以追溯到20世纪80年代撒切尔政府时期的公共服务改革，以及“管理层享有管理权”这一口头禅。当时，专业人员被视作谋求私利的既得利益者，因此向管理者移交权力本意是为了提高效率，并增强对服务对象的响应能力。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-21 01:43 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-21 23:06 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-usergettingbored-vim-0a9bc09bd3a11c6d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="823" data-content-paragraphs="12" data-published-at="2026-09-20T17:18:49.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 01:18</span>
-</div>
-
-### [Vim 中名为 UserGettingBored 的恶搞自动命令](https://evanhahn.com/usergettingbored-vim/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Vim&#39;s UserGettingBored autocmd</div>
-
-<div class="article-body" data-article-body="true"><p>简而言之：Vim 中有一个名为 UserGettingBored 的恶搞自动命令（autocmd），它实际上没有任何功能。</p>
-<p>Vim 的自动命令功能（通常简写为“autocmd”）允许你在发生各种事件时运行代码。例如，你可以通过将 TextChanged 事件绑定到 :w 命令来实现自动保存功能。</p>
-<p>Vim 拥有 100 多个事件，涵盖从“创建缓冲区”到“文件已保存”。但其中有一个引起了我的注意：UserGettingBored。文档中是这样写的：</p>
-<p>UserGettingBored：当用户连续按同一个键 42 次时。开个玩笑！:-)</p>
-<p>看到这个时，我正忙着做别的事，结果注意力彻底被带偏了。我想：“我必须了解更多。”</p>
-<p>以下是我的发现：</p>
-<p>遗憾的是，它没有任何实际作用。它仅存在于文档（以及某些测试用例）中。如果你尝试使用类似 autocmd UserGettingBored ... 这样的命令，就会收到“no such group or event”（没有此类组或事件）的报错。</p>
-<p>它存在于 Vim、Neovim 和 Vim Classic 中。</p>
-<p>它最早由 Bram Moolenaar 于 2000 年 7 月添加，比 Vim 6.0 的发布早了一年多。最初的描述是：“当用户按下 CTRL-C 时。开个玩笑！”当时它就没有任何功能，因此我认为它从未真正实现过。</p>
-<p>2001 年 8 月，他在文档中加上了笑脸。内容随即变成了：“当用户按下 CTRL-C 时。开个玩笑！:-)”</p>
-<p>十二年后的 2013 年，描述被修改为了当前的版本：“当用户连续按同一个键 42 次时。开个玩笑！:-)”</p>
-<p>2022 年，开发者 Mike Smith 受这个恶搞自动命令的启发，开发了一个非官方插件。如果你在插入模式下连续按同一个键 42 次，就会弹出一张塞缪尔·L·杰克逊（Samuel L. Jackson）的照片。22 年之后，它终于成真了。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-21 01:18 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://evanhahn.com/usergettingbored-vim/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-tif-fork-actually-exists-95a07fa22228c694" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3285" data-content-paragraphs="30" data-published-at="2026-09-20T17:13:41.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-21 01:13</span>
-</div>
-
-### [一个得到积极维护和更新的 Motif 分支确实存在](https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> An actively maintained and updated Motif fork actually exists</div>
-
-<div class="article-body" data-article-body="true"><p>Motif 非常棒，我喜欢它的外观和质感，我希望它能得到积极的维护。我希望拥有一个健康的 Motif 应用程序生态系统，甚至是窗口管理器和桌面环境，这样我就能运行一个真正的 Motif 环境。遗憾的是，尽管 Motif 已经开源了一段时间，但该项目本身在多年前就停滞不前了，几乎没有任何参与者的活动。这种情况可能正在改变，因为一些开发者去年决定亲自采取行动。</p>
-<p>这个 Motif 分支源于让 Motif（以及其他 X11 技术）保持活力和良好状态的愿望。最初的上游 SourceForge 项目已经两年多没有任何活动了，没有一个项目管理员在至少这么长时间里处于活跃状态，官方缺陷跟踪系统也早已消失无踪；用户论坛早在 2017 年就关闭了。遗憾的是，原上游似乎已经放弃了这个项目。</p>
-<p>我整合了上游一些沉睡多年的修复，吸收了 Gentoo 的另外几项修复，并做出了一些我自己的改进。我打算维护这个分支，并借此倡导继续使用这个定义了一个时代、并影响了其后诸多用户界面的用户界面工具包。</p>
-<p>参与其中的一些人是我在网上认识的朋友，所以我对这个分支经受住时间考验抱有一点信心，但当然，管理像这样一个复杂的项目非常困难，因此谁知道热情能持续多久呢。不过，该分支自一年多前创建以来已经发布了五个版本，这看起来很有前景。在某些人看来对 Motif 情有独钟可能很奇怪，但我就是那种喜欢在运行 HP-UX 的 HP c8000 双 PA-RISC 工作站上，安装那些我自己都看不懂的古怪、过时的企业和工业软件的人，纯粹就是为了享受它们有时附带的 Motif 界面。我们每个人都有自己的小癖好。</p>
-<p>从我与网上网友交流的经验来看，我知道实际上有相当多的人和我一样，我希望在某个时刻，这个群体中的开发者能够达到足够的关键规模，利用现存的那些分散但积极维护的 Motif 项目（是的，它们仍然存在），构建出类似基础 Linux 发行版或桌面环境的东西。虽然希望渺茫，但在如今的计算格局下，越来越多的人对“现代”软件感到不适，我真的觉得像这样的东西是有生存空间的。</p>
-<p>当然，这绝对是一个极小的利基市场，但终究是一个利基市场。</p>
-<p>在 Mastodon 上关注我：@[email protected]</p>
-<p>Emwm 是一个增加了新功能的 Motif 分支。他还创建了一些 Motif 应用程序，例如 toolbox（一个类似 Irix 的启动器）、xmsm（一个会话管理器）、一个文件管理器和一个图像查看器。</p>
-<p>Emwm 是一个窗口管理器，而不是工具包。Emwm 使用了 Motif。它的名字里就写着：“Enhanced Motif Window Manager”（增强型 Motif 窗口管理器）。</p>
-<p>它是我在文章中提到的得到维护的 Motif 软件之一。</p>
-<p>“遗憾的是，原上游似乎已经放弃了这个项目。”完全不属实。作为同时参与 Motif 和 CDE 维护的人，它并没有被放弃。问题在于多年来没有人向该项目提交任何拉取请求（Pull Request），而且总共只有三名开发者。这个项目应该把他们的补丁发送给我们。</p>
-<p>“问题在于多年来没有人向该项目提交任何拉取请求”我刚刚查看了 SourceForge 上的代码仓库，上面有 11 个未关闭的 PR……？</p>
-<p>我对 Motif 继续存活并得到维护没有任何意见。只是对我来说回到那个时代太突兀了。30 年前我刚开始使用 ‘nix 时它看着就不太美观。那绝对是 90 年代的 ‘nix。NsCDE 是我在这方面能接受的极限了，它通过主题化来模拟 Motif。</p>
-<p>“我希望在某个时刻，这个群体中的开发者能够达到足够的关键规模，利用现存的那些分散但积极维护的 Motif 项目，构建出类似基础 Linux 发行版或桌面环境的东西……”<br />我愿意为这样的发行版付真金白银。例如我很喜欢 CDE，但如果能有一个现成整合好、开箱即用的基于 Motif 工具的系统，那就太棒了。</p>
-<p>Motif 和 CDE 都很棒。它们看起来不怎么起眼，但确实很棒。</p>
-<p>许多这类元素都存在于 Windows 95 中，但微软在 Windows 2000 前后就已经开始削弱它们了（工具栏是第一个遭殃的）。</p>
-<p>向同为 c8000 的爱好者致敬。</p>
-<p>我一定是极少数喜欢 CDE 中 Motif 外观的人之一。也许只是因为我在 Solaris 上用了它太久了？不太确定，但我宁愿选择它，也不愿意使用当今几乎任何主流的基于 Linux 或 UNIX 的 UI 工具包。</p>
-<p>唉，我真不理解怎么会有人把时间和精力投入到像 Motif 这样早已过时的死马上。</p>
-<p>熟悉感能减少认知阻力，怀旧情结会让陈旧的界面显得比它们实际过去或现在更加直观。</p>
-<p>但 Motif 不仅仅是外观难看。它在 Xt Intrinsics 之上也是一个臭名昭著的糟糕/笨重的编程工具包。它极其冗长且充斥着回调。糟糕的设计决策多得数不过来！我们现在许多习以为常的功能，在 Motif 上都需要好几层框架机制和间接配置。</p>
-<p>Motif 和早期几种 X 工具包长期以来被用作“如何不设计 GUI 框架”的反面教材，这是有原因的。</p>
-<p>唉，我猜总有人出于某些匪夷所思的原因喜欢它。</p>
-<p>这些去掉了真正显得笨拙的凸起 UI 部件。</p>
-<p>我大致同意你说的话，我从来不理解人们为什么总要给过去涂上玫瑰色的滤镜。然而，在超大屏幕上用基于 GTK4 的 LibreOffice 打开一个大型电子表格，试着只用鼠标指针和垂直滚动条（运气好的时候它大概有 2 毫米宽）向下滑动——简直就是可用性方面的噩梦。@Shiunbird 说得对：从用户的角度来看，MOTIF/CDE/GTK2 很容易理解，也很好用。</p>
-<p>然而，在超大屏幕上用基于 GTK4 的 LibreOffice 打开一个大型电子表格，试着只用鼠标指针和垂直滚动条（运气好的时候它大概有 2 毫米宽）向下滑动——简直就是可用性方面的噩梦。@Shiunbird 说得对：从用户的角度来看，MOTIF/CDE/GTK2 很容易理解，也很好用。</p>
-<p>应用程序的外观是非常主观的，每个人都有自己的喜好，然而许多现代 UI 设计师似乎完全忽视了可用性。这是大有问题的。即便你知道滚动条的工作原理，用起来也十分吃力。缺乏可发现性的界面，以及缺少视觉提示的控件……这些做法为了追求极简主义而弃可用性于不顾，我们似乎经历了一段大家在这方面争相攀比的时期。再次强调，视觉偏好是一回事，但客观而言，可用性和一致性一路走来确实退步了不少。我尤其反感的是，在屏幕分辨率如此之高、存在大量闲置留白的情况下，设计师依然觉得有必要把控件做得极小，让人难以操作……我之前出差时不得不比平时更频繁地使用 Android 系统。其复制/粘贴机制存在缺陷，既容易在错误的时间被触发，又常常在需要时毫无反应。这类问题在早期产品中尚可原谅，但随着技术的成熟，可用性始终没有受到重视、长期存在的问题一直被忽视，这让我感到非常失望。</p>
-<p>拿我父亲来说，他就欣然接受了语音交互，与触屏输入相比，这是一种更高效的操作模式。这确实是缓解糟糕触屏 UI 的一种办法，但显然会对身边的其他人带来打扰。</p>
-<p>纯粹出于历史情怀，我对 Motif 怀有好感，但作为一名开发者，我无法想象自己在 2026 年还会愿意选它作为 GUI 工具包。话虽如此，如果你用 Motif 做出一款优秀的应用，人们还是能用上的。毕竟 Xwayland 是切实存在的。</p>
-<p>不过，CDE 作为桌面环境处境要艰难得多，因为将 X 用作图形界面在未来会阻断访问仅支持 Wayland 的应用程序。目前确实存在 Wayland 专属应用，但数量还不算多。我遇到过 Foot 终端模拟器；此外，任何基于 Iced 或 Cosmoe 库构建的应用都仅支持 Wayland。目前影响还不算大。但一旦某款仅支持 Wayland 的 GUI 工具包流行起来，这就将成为一个大问题。GTK5 也许就会是第一个。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-21 01:13 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theguardian.com/uk-news/2026/sep/21/lucy-letby-the-nhs-and-the-rise-of-managerialism" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
 :::
 
 ::::
