@@ -32,14 +32,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **56** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **57** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-21 06:34 (UTC+8)
+- **最新归档时间**：2026-09-21 09:15 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-21 09:15 (UTC+8)" title="全球要闻情报简报 · 09:15" org="ARCHIVE"}
+**速报纪要：** 本小时内，全球外交、区域政治、地缘安全与金融市场出现多项动态。法国与加拿大领导人在圣皮埃尔和密克隆会晤，承诺加强双边联系以应对地缘局势及贸易摩擦；澳大利亚国内围绕燃油消费税削减与生活成本压力展开政党辩论；俄罗斯官方对乌克兰针对领空及无人机使用的言论作出回应；日本金融市场方面，日元兑美元跌破157关口，日经225指数上涨。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260921/paramount-2119134912.html) <span class="news-meta-time">🕒 2026-09-21 09:11</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://amigaux.org/) <span class="news-meta-time">🕒 2026-09-21 07:57</span>
+- [CNBC Economy (CNBC 宏观经济)] [为何日本央行加息后市场走势反转常规剧本](https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html) <span class="news-meta-time">🕒 2026-09-21 09:02</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wlx6jt/microsoft_patents_system_to_freeze_games_and/) <span class="news-meta-time">🕒 2026-09-21 08:05</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html) <span class="news-meta-time">🕒 2026-09-21 08:30</span>
+- [The Guardian (英国卫报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney) <span class="news-meta-time">🕒 2026-09-21 09:09</span>
+:::
 :::timeline-item{start="2026-09-21 06:34 (UTC+8)" title="全球要闻情报简报 · 06:34" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-21 06:32 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -634,16 +645,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [更优的 AI 代码注释检测器](https://entropicthoughts.com/better-ai-comment-classifier) <span class="news-meta-time">🕒 09-10 02:27</span>
 - [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
 - [RIA Novosti (俄新社官方俄文)] [多利娜就法院追缴1.14亿卢布的判决发表评论](https://ria.ru/20260909/dolina-2116693543.html) <span class="news-meta-time">🕒 09-10 04:16</span>
-:::
-:::timeline-item{start="2026-09-10 03:11 (UTC+8)" title="全球要闻情报简报 · 03:11" org="ARCHIVE"}
-**速报纪要：** 全球多源监控全景简报。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [在发现结节性皮肤病的安加拉河流域地区，已开始为牲畜接种疫苗](https://ria.ru/20260909/dermatit-2116686570.html) <span class="news-meta-time">🕒 09-10 03:06</span>
-- [TechCrunch (硅谷创业与资本)] [Apple Watch 新功能可倾听你的聊天并进行总结](https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/) <span class="news-meta-time">🕒 09-10 03:08</span>
-- [OilPrice (全球能源与原油大宗)] [英国若忽略绝大部分账单，放弃净零排放可省下500英镑](https://oilprice.com/Energy/Energy-General/Britain-Can-Save-500-by-Scrapping-Net-Zero-If-It-Ignores-Most-of-the-Bill.html) <span class="news-meta-time">🕒 09-10 03:00</span>
-- [Lobste.rs (极客思想社区)] [ID 设计与主键](https://anchorsandlinks.com/posts/primary-keys/) <span class="news-meta-time">🕒 09-10 02:31</span>
-- [WHO News (世界卫生组织官方英文)] [卢森堡与世卫组织签署两项战略协议](https://www.who.int/news/item/23-12-2024-luxembourg-and-who-sign-two-strategic-agreements) <span class="news-meta-time">🕒 12-24 00:44</span>
-- [France 24 (EN 官方英语原版)] [共和党孤注一掷豪赌美国中期选举：将特朗普推至舞台中心](https://www.france24.com/en/republicans-put-trump-center-stage-in-us-midterms-gamble) <span class="news-meta-time">🕒 09-10 03:04</span>
 :::
 ::::

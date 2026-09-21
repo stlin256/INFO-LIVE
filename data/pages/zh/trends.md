@@ -28,7 +28,7 @@ notice:
 ::::grid{cols=2}
 :::cell
 <div id="story-blog-260803-c4063dec7d9ea3c1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1876" data-content-paragraphs="14" data-published-at="2026-09-20T21:13:51.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1952" data-content-paragraphs="14" data-published-at="2026-09-20T21:13:51.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -40,27 +40,26 @@ notice:
 ### [确定性核心，非确定性外壳](https://outdata.net/blog/260803)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Deterministic Core, Non-Deterministic Shell</div>
 
-<div class="article-body" data-article-body="true"><p>十四年前，加里·伯恩哈特（Gary Bernhardt）提出了“函数式核心，命令式外壳”（Functional Core, Imperative Shell）这一概念。就像计算机领域大多数优秀思想一样，它并非全新之物，但他的构想极其清晰，为探讨现有系统中的测试与确定性打下了绝佳的基础。</p>
-<p>简而言之，“函数式核心/命令式外壳”架构将代码分为两部分。函数式核心是纯函数的——也就是说没有输入输出（I/O），也没有破坏性的状态更新。它专注于应用程序的业务逻辑。命令式外壳包含的分支路径相对较少，但负责维护状态、协调外部依赖并与外部世界交互——也就是进行 I/O。它的职责是以输入值调用核心，接收黑盒决策结果所返回的值，并利用这些值与外部世界互动；无论是写入数据库、发送网络请求，还是更新图形用户界面（GUI）。</p>
+<div class="article-body" data-article-body="true"><p>十四年前，Gary Bernhardt 提出了“函数式核心，命令式外壳”（Functional Core, Imperative Shell）这一术语。如同计算机领域大多数优秀的理念一样，它并非完全崭新，但他的构想格外清晰，为探讨现有系统中的测试与确定性奠定了极佳的基础。</p>
+<p>简而言之，“函数式核心/命令式外壳”架构将代码划分为两个部分。函数式核心是纯函数式的——即没有 I/O 操作，也没有破坏性的状态更新。它关注的是应用程序的业务逻辑。命令式外壳的分支路径相对较少，但它负责维护状态、协调外部依赖并与外界交互——也就是处理 I/O。它的职责是以某些值向核心发起查询，接收作为某种黑盒决策结果返回的值，并利用这些值与外部世界交互；无论是写入数据库、发送请求，还是更新图形用户界面（GUI）。</p>
 <p>在这种模型中，外壳和核心具有截然不同的特征：</p>
-<p>这使得核心非常易于测试。由于它是纯函数的，相同的输入将始终获得相同的结果。由于它是隔离的，不需要进行任何模拟（mock）或存根（stub）。而且由于它处理的是复杂的业务逻辑，测试能够让我们深入了解系统的具体行为。</p>
-<p>用一种更简短的方式来描述让纯函数易于测试的特性，那就是它们具有“确定性”（deterministic）。也就是说——给定一系列输入流，纯函数始终返回相同的输出流；它们的行为是可重复的。但纯函数式编程并不是实现这一目标的唯一途径。如果我们换个角度思考，就会发现值流与一系列赋值语句不过是同一事物的不同表达方式，而状态机同样可以为我们带来相同的好处。试看以下代码：</p>
-<p>函数 add 很容易推导理解；它是纯函数，因此具有确定性。但 AddMachine 同样具有确定性——给定对状态转移函数的相同调用序列，AddMachine 将返回相同的状态。它是命令式的这一事实并不会改变这一点。</p>
-<p>纯函数式编程是一种优秀的范式，但出于语言或性能方面的考虑，它并不总是切实可行的——我可不想在 C 语言里尝试它！但如果我们将要求从“纯函数式”放宽至仅仅具备“确定性”，我们就能在保留“函数式核心，命令式外壳”可测试性优势的同时，拓宽其适用范围。因此便有了本文的标题：确定性核心，非确定性外壳。</p>
-<p>相比函数纯度，确定性可能感觉是一个更抽象的概念。你如何一眼识别出它？我发现从“什么不是确定性的”入手反向推导会更容易。以下是非重复行为的一些常见例子：</p>
-<p>所有这些都属于非确定性外壳。只要你在业务逻辑中发现了它们，你就找到了进行整理重构的绝佳切入点——要么围绕它们将函数拆分为两部分，要么将它们提升一层并将它们的结果作为参数注入。形象地将“外壳”这个隐喻从字面意义上去理解会很有启发；它应当包裹在业务逻辑周围，通过向应用程序的核心发起调用来获取所需内容。</p>
-<p>你可能会想：“这一切听起来都很棒，但对于像我这样在工业界遗留代码和凭借直觉乱堆的代码堆里苦苦挣扎的人来说，这有什么用呢？”虚构的读者朋友，这是一个合情合理的质问；并不是每个人都能成为 FoundationDB，并从第一天起就划清这种界限（他们实际上走得更远，不过那是另一篇文章的主题了）。在我见过的几乎每一个现实代码库中，确定性与非确定性都高度交织在一起，而我见过的代码库可不算少。</p>
-<p>但不要让完美成为优秀的敌人！理解你手头普通（即糟糕）代码库的一种方式是，把它看作拥有许多确定性核心。成千上万个核心散落在这堆乱码中，犹如夜空中的繁星。悲观的角度看，这些代码库是不可救药的遗留烂摊子；但乐观的角度看，里面隐藏着许多确定性核心，也许整理出来只有少数几个模块。</p>
-<p>老一代 Windows 系统的用户可能还记得“磁盘碎片整理程序”；它把物理上散布在旋转硬盘各处的文件内容重新排布为连续空间。在那个读取速度取决于介质上物理距离的时代，这一点至关重要。</p>
-<p>因此，处理现有代码的一种渐进式方法就是实践“确定性的碎片整理”。尽可能去识别确定性——文件、类、甚至是单个函数中的几行代码——并开始将它们收集归拢。能够聚集的确定性越多，你拥有的易于测试的功能就越多，你就对整个程序的行为和可靠性更有信心。“难以测试”（即非确定性代码）的暴露面开始缩小。在足够庞大的代码库中，你可能永远无法归结为一个单一的确定性核心，但哪怕整理成几百个，也远比散落成千上万处要好。</p>
-<p>我见过的每一个乱作一团的代码库里，都深锁着一个或多个极其优雅的确定性状态机。我向你保证它们确实存在，哪怕并不显眼。一旦你找到了它们，你会惊叹于软件的修改和测试变得如此轻松。一点一滴，可靠性自能筑就。</p></div>
+<p>这使得核心非常易于测试。由于它是纯函数式的，相同的输入将始终获得相同的结果。由于它是隔离的，因此无需进行任何模拟（mock）或桩（stub）。而且，由于它处理复杂的业务逻辑，测试可以向我们清晰揭示系统是如何运作的。</p>
+<p>要更简练地描述纯函数易于测试的特性，那就是它们具有“确定性”（deterministic）。也就是说——给定一串输入流，纯函数总是返回相同的一串输出流；它们的行为是可重复的。但纯函数式编程并不是达到这一目标的唯一途径。如果我们换个角度看，就会发现值流（stream of values）和赋值序列（sequence of assignments）只是表达同一件事的不同方式，而状态机（State Machines）同样能为我们带来相同的好处。请看以下代码：</p>
+<p>函数 add 很容易推导；它是纯函数，因此具有确定性。但是 AddMachine 同样具有确定性——给定对状态转移函数的相同调用序列，AddMachine 将返回相同的状态。它是命令式的这一事实并不会改变这一点。</p>
+<p>纯函数式编程是一种优秀的范式，但出于语言或性能方面的考量，它并不总是切合实际——我绝不想在 C 语言中尝试它！但如果将要求从“纯函数式”放宽至“仅仅具备确定性”，我们就能在保留“函数式核心，命令式外壳”的易测试性优势的同时，拓宽其适用范围。这正是本文标题的由来了：确定性核心，非确定性外壳。</p>
+<p>相比函数纯度，确定性可能感觉是一个更抽象的概念。你该如何识别它？我发现从“什么不是确定性的”入手并进行反向推导会更容易。以下是一些不可重复行为的常见例子：</p>
+<p>所有这些都属于非确定性外壳。每当你在业务逻辑中发现它们时，你就找到了进行碎片整理（defragmentation）的天然目标——要么围绕它们将函数拆分为两部分，要么将它们提升一层，并将其结果作为参数注入。将“外壳”这一比喻理解得更形象一些是很有启发的：它应当包围着逻辑，向应用程序的心脏发起查询以获取所需内容。</p>
+<p>你可能会想：“这听起来都很棒，但对我这种在工业界的遗留代码和玄学代码堆里苦苦挣扎的人来说，有什么用呢？”。虚拟的读者啊，这是一个合理的指责；并不是每个人都能成为 Foundation DB 并在第一天就做好这种区分（他们实际上走得更远，但这属于另一篇文章的话题了）。在我见过的几乎所有现实代码库中，确定性与非确定性都是高度交织在一起的，而我见过的代码库可不算少。</p>
+<p>但不要让完美成为优秀的敌人！看待你手头普通（即糟糕）代码库的一种方式是，将其视为拥有许多确定性核心。它们有成千上万个，像天空中的繁星一样散落在一堆垃圾代码之中。悲观的看法是这些代码库是无可救药的遗留烂摊子；但乐观的看法是，许多确定性核心正隐藏在内部的某个地方，也许只是一小撮。</p>
+<p>较老 Windows 系统的用户可能还记得“磁盘碎片整理程序”；它将物理上分散在机械硬盘各处的文件内容重新整理为连续存放。在读取速度取决于介质物理距离的时代，这至关重要。</p>
+<p>因此，对于现有代码的一种渐进式方法是践行“确定性的碎片整理”（Defragmentation of Determinism）。尽可能在任何地方识别它——无论是在文件、类，甚至是单个函数中的几行代码——并开始将它们收集在一起。能够归拢的确定性越多，你拥有的易测试功能就越多，你对程序整体的行为和可靠性也就越有信心。“难以测试”的受攻击面（非确定性代码）便开始缩小。在一个足够大的代码库中，你可能永远无法归结为一个单一的确定性核心，但哪怕缩减到数百个，也远比数千个要好。</p>
+<p>在我见过的每一个一团糟的代码库中，内部都锁着一个或多个好得多的确定性状态机。我向你保证它们确实存在，即使它们并不显眼。一旦你找到了它们，你会惊喜地发现软件的修改和测试变得多么容易。一点一滴，可靠性便能构筑而成。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Gary Bernhardt在14年前提出了术语“Functional Core, Imperative Shell（函数式核心，命令式外壳）”。</li>
-    <li>Functional Core/Imperative Shell 架构将代码划分为无I/O、无破坏性状态更新的纯函数式核心，以及负责协调外部依赖和处理I/O的命令式外壳两部分。</li>
-    <li>来源叙事重点：主张将 Gary Bernhardt 的“函数式核心/命令式外壳”泛化为“确定性核心/非确定性外壳”，强调通过确定性状态机降低纯函数门槛，并倡导采用“确定性碎片整理”策略对工业界遗留代码进行渐进式重构。</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-21 05:13 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -73,8 +72,88 @@ notice:
 :::
 
 :::cell
+<div id="story-rial-examples-for-hashes-21fa80b3f51536dc" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7947" data-content-paragraphs="49" data-published-at="2026-09-20T19:14:36.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-21 03:14</span>
+</div>
+
+### [快速哈希函数的对抗样本](https://thomasahle.com/blog/adversarial-examples-for-hashes/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Adversarial examples for fast hash functions</div>
+
+<div class="article-body" data-article-body="true"><p>通过统计测试并不能告诉你攻击者精心挑选的输入发生碰撞的频率，即使攻击者永远无法得知你的种子也是如此。</p>
+<p>哈希函数将任意长度的数据映射为固定大小的值。其目标是确保不同的输入映射到不同的输出，除非哈希函数所使用的秘密密钥随机性带来了极小的碰撞概率。这一特性确保了我们可以构建快速的哈希表，而不会让所有数据点都碰撞到同一个桶中。1</p>
+<p>哈希计算需要速度快。xxHash号称能达到 60 GB/s，基本与读取内存的速度相当。这种大批量哈希对于文件同步或数据完整性校验非常有用。许多流行的哈希函数，如 komihash、a5hash、HighwayHash、SpookyHash、aHash 和 t1ha2，都愿意牺牲质量（至少在面对对抗性输入时），以换取更高的速度。</p>
+<p>这在过去并无大碍。哈希的许多用例风险较低，攻击者为了找到能让哈希碰撞频率远高于平均水平的输入而进行昂贵的密码分析并不值得。尽管如此，大多数哈希函数仍然试图具备一定的鲁棒性，以防止算法意外出现二次方级变慢以及拒绝服务（DoS）攻击。</p>
+<p>最好的哈希函数能够证明任意一对输入发生碰撞的概率都很低。在一个无人能够证明其绝对安全的密码学世界里，这一点显得尤为独特。假设一个哈希函数在长度为 L 的输入以至多 L · 2−b 的概率发生碰撞时是 b-bit 通用的（b-bit universal）。有时对 L 的依赖性会更差，但（可证明）绝不会更好。2 那么问题就变成了：对于某个期望的 b，最快的 b-bit 通用哈希能有多快？</p>
+<p>我利用 Claude Fable 分析了来自 SMhasher（一个通过经验测试哈希统计特性的庞大项目）的各种流行哈希。分析发现，大多数哈希都存在表现极差的输入——至少比预期低 20 位。少数哈希已经公开发表了证明，Fable 能够在其中发现错误，并在 Lean 中对其他证明进行了验证。点击图表中的任意圆点即可阅读完整的分析报告。</p>
+<p>碰撞得分界限与批量处理速度对比。速度采用对数坐标。得分采用平方根间距，以便为低分提供更多空间；刻度标签显示原始的比特值。实心青色圆圈代表已证明的下限保证；空心圆圈代表未解决的宣称。铁锈色菱形是见证上限；叉号标记了全种子对。标签标出了选定的基准；绘制的每个变体都可以在哈希选择器中选择。</p>
+<p>按 Tab 键切换到某个点，使用方向键、Home 或 End 键在各点之间移动。Enter 或空格键可打开其详情文件。Escape 键可关闭。在触摸屏上可轻触某一点或其标签。</p>
+<p>选择一个哈希，或轻触某个点或标签。</p>
+<p>图 1. 快速实现可能会有截然不同的碰撞保证。实心圆点显示证明所保证的内容；铁锈色标记显示由特定输入对暴露的极限。保证与速度测量可能采用了不同的密钥设置——打开详情文件可查看这些假设条件。</p>
+<p>完整数据表 · 数据与来源 · 计时重现 · 哈希详情文件</p>
+<p>在速度轴上，相等的距离代表相等的比率：从 1 移动到 2 字节/周期所占的空间与从 10 移动到 20 相同。纵轴采用平方根间距，以为低碰撞得分留出更多空间。零值保持可见，所有刻度标签和详情数值均显示原始比特得分。得分本身相对于碰撞界限是对数的；请参阅其定义。</p>
+<p>实心青色圆圈给出了已证明的最低得分。空心圆圈显示未经验证的宣称。铁锈色菱形通过一对发生碰撞的特定不同消息限制了得分上限；叉号标出了在每个种子下都会碰撞的消息对。星号表示该上限采用了抽样比率。未发现更糟糕的消息对并不能证明其不存在，因此这些上限并非安全性排名。叉号可能位于零值之上，因为该得分针对消息长度进行了调整。所有绘制的变体都可以在选择器中获取，包括四种 HalftimeHash 风格，每种均返回 64 位。</p>
+<p>单独的历史 32 字节输入对 A 在 wyhash、rapidhash v1、rapidhash v3 和 XXH3-64 中，每 230 个密钥分别产生了 9、12、11 和 11 次碰撞。选定的 XXH3-64 输入对具有不同的测量比率：每 2^36 个密钥中约有 527 次（抽样测试；共 527 次事件，汇总计算）。搜索力度并不对等；这些见证上限并不作为哈希优劣的排名。当前输入对及计数的来源。</p>
+<p>速度是在 256 KiB 消息上测量的，与发生碰撞的消息对长度无关。“B/cycle”表示报告的每个计时器周期所处理的字节数；数值越大代表速度越快。M2 和 Xeon 计时器使用不同的周期约定，因此请在同一台主机上对比哈希函数。单独的短输入测量使用 1–31 字节。Foldhash 使用了经过验证的移植版本并带有对照测量。GHASH 是通过 OpenSSL 的 GMAC 接口计时的，包含设置开销。基准测试方案记录了计时器、重复运行及校准细节。</p>
+<p>两个已发布的 UMASH 核心界限目前已通过不同途径得到证明：实现的 mod-8p 累加器以及 C 指纹的两个独立乘法器。实心圆点显示了 56.18 和 83.99 位（在 L ≤ 246 字时约为 84 位），适用于理想完整密钥、固定种子和完整 C 输出。密钥派生、每次调用的种子以及掩码输出均在这些定理之外；论文中的 162/q 投影步骤仍未经过验证。四种 64 位 HalftimeHash 风格在规定的执行假设和长度限制下具有修正后的 63 位界限。最初的高级 24 字节函数被推翻；其修复后的版本被单独绘制。ChainHash 在两台主机上均为同一个 64 位函数：Xeon 上为 28.31 B/cycle，M2 上为 26.26，具有由机器检验的来自 64 字节均匀随机密钥的 63.0 位保证。ChainHash-128 是 128 位函数，同样在两台主机上均为同一函数：Xeon 上为 14.43 B/cycle，M2 上为 10.26，具有来自 128 字节随机密钥的机器检验的 127 位保证。SipHash-1-3 和 SipHash-2-4 作为未解决的宣称绘制在其 64 位输出宽度处。本次审查既未对这些 SipHash 界限提供证明，也未提供反例。引用的 2014 年分析报告指出，SipHash-1-x 的碰撞特征为 2-167，SipHash-2-4 为 2-236.3（Dobraunig、Mendel 和 Schläffer，2014），而我们自己的搜索未发现每对高于 2-26.4 的情况。一些历史碰撞示例缺少相匹配的计时，因此未在图表中展示。区别请参见证明附注。</p>
+<p>在发表本篇博文之前，所有发现均已向上游维护者披露。你可以在 xxHash、komihash、MuseAir 和 foldhash 的讨论中阅读维护者的回复。共识在于，只有真正的多重碰撞攻击——即一大组输入均以极高概率发生碰撞——才值得修复。通用哈希能够防范这种情况，但在原则上，哈希函数即使不具备通用性，也可以对多重碰撞保持鲁棒性。</p>
+<p>这是一个合理的立场，尤其是考虑到更改哈希函数很难实现向后兼容。然而，在这篇博文中，我们专注于可证明的安全性保证，而且所发现的碰撞证明了这些启发式哈希函数并非只是“尚未被证明正确的通用哈希函数”。同时，我们确实也为许多哈希函数找到了洪泛级别（flooding-grade）的无密钥多重碰撞。3</p>
+<p>希望这项工作能激发对速度更快且可证明哈希函数的研究。许多“利用方式”都采用了在多种哈希族中反复出现的类似不良模式。希望大家的下意识反应不仅仅是将所有东西都切换为像 SHA 这样的“密码学安全”哈希函数，或是直接使用 AES 原生指令。正如我们所展示的，可证明安全的哈希函数数量充足且速度飞快。</p>
+<p>如果有人对上述陈述有异议，或者希望我添加/更新/移除任何特定的哈希函数，请在 Twitter 上与我联系。</p>
+<p>以下附录包含对每个哈希函数的深入分析。请注意，其中包含 AI 生成的粗糙内容（AI slop），我无法保证所有内容都完全正确。我只相信找到并经过测量的具体实例。</p>
+<p>附录包含了对各个哈希函数的具体分析、它们反复出现的碰撞模式，以及验证和重现结果的说明。</p>
+<p>下面的每个条目均以实际发现开头，随后给出确切的代码版本、消息字节和推导过程。模式标签链接到算术原理的共享解释。“Every seed（所有种子）”意味着改变种子无法区分该碰撞对；采样率则仅描述经测试的随机密钥实验。</p>
+<p>这些碰撞对大多利用了相同的少数几个恒等式。在信息丢失之后才加入密钥无法恢复信息；如果第二条通道（second lane）或更宽的输出仅仅重复相同的计算，也不会有所帮助。下方的分组描述了这些条目中的见证者（witnesses），而非每个哈希函数的每一条路径。一行可以属于多个分组。生成器示例与选定的评分对分开标记；“未分组（ungrouped）”意味着该条目没有建立这些机制之一，并不代表该哈希是安全的。</p>
+<p>设 B = 2⁶⁴ 且 F(a,b) = lo₆₄(ab) ⊕ hi₆₄(ab)。对一个消息字求反也会对其异或掩码后的操作数求反。精确的整数恒等式为：<br />(~a)(~b) = ab + (2⁶⁴−1)(2⁶⁴−1−a−b)<br />如果乘积的高低半部分别为 (lo, hi) 和 (lo′, hi′)，则当 lo ⊕ lo′ = hi ⊕ hi′ 时，折叠结果完全一致：进位和借位模式可以抵消这种变化。条目报告了几个碰撞对的概率约为 2⁻²⁷，这并不是适用于所有种子映射的通用定理或比率；无论操作数是由随附常量掩码还是由均匀分布的秘密字掩码，该比率都相同，因为差分从未用到掩码值。XXH3-64 的 32 字节 NAF 对 (2⁻¹⁰·⁴⁷) 需要默认秘密字，因此记录为附加说明，而非计分碰撞对。在 8 字节时，foldhash 将同一个字读入两个操作数，因此一个求反的字就足够了。XXH3-128 还通过选择 w₁ = ~w₀ 来保留原始和。对于记录在案的 XXH3-64 32/128 字节碰撞对，通用的尾部折叠会改变输出，但不会改变发生碰撞的种子集合；quality 变体的额外折叠同样保留了每次快速碰撞。</p>
+<p>适用行：wyhash、rapidhash v1、rapidhash v3、foldhash-fast、foldhash-quality、XXH3-64、XXH3-128。</p>
+<p>证明所需条件：在掩码的实际联合分布下（包括此处使用的零输出差分），带密钥折叠的异或全域性（XOR-universality）界。</p>
+<p>对于后置种子包装器（seed-last wrapper）Hₛ(m) = Gₛ(C(m))，无论 Gₛ 是否可逆，恒等式 C(m) = C(m′) ⇒ Hₛ(m) = Hₛ(m′) 对每一个种子都成立。CityHash、FarmHash、gxhash 和 pengyhash 在公开压缩阶段就丢失了区分度。MUM 和 mir 则将一个已经发生碰撞的公开乘积项异或到其带种子的状态中；它们的折叠操作是将乘积的高低两半相加。MuseAir 达到 head ⊕ P(tail) ⊕ Kₛ 的形式，因此在相同长度下，修改 head 可以抵消对 tail 的任意选定公开修改。在 mx3 中，h ← (h + g(w))C 在相同步数后会留下一个公共的种子系数，且 g 是公开可逆的。Fasthash 类似地允许通过逆向字混合来抵消长度项。MurmurHash3 的公开字双射允许攻击者设置并在随后消除 P7 中描述的最高位差分；种子虽然影响状态，但并不能掩盖该差分。</p>
+<p>适用行：CityHash64、FarmHash64、gxhash、pengyhash、MUM v3、mir、MuseAir、mx3、fasthash-32/64、MurmurHash3。</p>
+<p>证明所需条件：消息压缩本身的一个碰撞界，且密钥必须参与区分消息的算术运算；仅仅给外围状态或终结器（finalizer）加密钥无法提供此类界。</p>
+<p>该恒等式其实就是简单的 0 · x = 0 · x′ = 0。在 a5hash-128 中，对于每一个种子，都可以将一个公开操作数设为零。在 a5hash-64 中，第一个消息字与扩展状态的某个值匹配，在其精确计算的密度为 118 × 2⁻⁴⁵ 的种子纤维（seed fibre）上使操作数归零。在 HighwayHash 的 lo₃₂(v₁)·hi₃₂(v₀) 乘积中，半个字就足够了：固定 hi₃₂(key[0]) 会使 hi₃₂(v₀) 为零。该类别的密度为 2⁻³²，但要合并完整状态，还需要一个概率为 56165/2⁴⁰ 的进一步条件事件。HalftimeHash24 的等长 Encode3 见证在其整个 high₃₂(core_key[6]) = 0 类别中确实会发生碰撞，其密度同样为 2⁻³²；该编码只允许一个符号发生改变。这些都是不同的事件，而不是共享的碰撞率。</p>
+<p>wyhash 和 rapidhash v1/v3 中随附的常量也允许这种零操作数模式。此前的报告包括 wyhash 的 issue #15 以及 rapidhash 的 issue #10 和 #25。这些行是在随机秘密模型（random-secret model）下评分的，即种子和每个秘密字均均匀分布，这排除了这些随附常量碰撞对；每行的说明将其记录为默认秘密的附加警告。</p>
+<p>适用行：a5hash-128、a5hash-64、HighwayHash、HalftimeHash24（等长见证）。</p>
+<p>证明所需条件：使操作数归零的实际密钥纤维的界，以及剩余状态差分相互抵消的条件概率。</p>
+<p>在 komihash 中，第二条通道继承了一个公开的异或偏移：s₂ = s₁ ⊕ c。将其消息字选为 w₂ = w₁ ⊕ c 会得到 w₂ ⊕ s₂ = (w₁ ⊕ c) ⊕ (s₁ ⊕ c) = w₁ ⊕ s₁。补偿另一个操作数的公开偏移可使每条消息内两个通道的乘积相同。它们的低半部分在通道异或中抵消；所选的比特翻转留下的公共高位乘积变化最多为 1，这往往会在后续加法中消失或相互抵消。这就解释了在长度为 64 到 127 字节时测得的 0.9106 的碰撞率，在该长度区间折叠操作会紧随其后。该条目未将此结果推演到经过又一轮主体循环的情况。</p>
+<p>证明所需条件：独立的通道密钥，或者针对其真实依赖关系的联合差分界，以确保攻击者无法仅仅通过抵消公开偏移来使各通道的操作数相等。</p>
+<p>只有当长度字段能够区分已编码的输入时，它才会发挥作用。在 gxhash 的短路径中，Cₙ(m)ᵢ = (pad(m)ᵢ + n) mod 256；15 个零字节与 16 个 ff 字节都会变成 16 个 0f 字节。HalftimeHash 的原始高级核心省略了长度，因此空输入与单个零字节会重合。Fasthash 包含长度，但某个消息处理步骤允许攻击者求解 mix(w) = 7m ⊕ 8m，从而在公共乘法之前抵消 7 字节与 8 字节之间的差异。对于 mx3 的 1 字节/8 字节对，相应的方程为 g(w) = g(0) + C(g(2) − g(9))。两条路径具有相同的种子系数。这些属于编码或长度项别名；t1ha2 的跨长度对则仍需要 P7 中的进位事件。</p>
+<p>相关行：gxhash、HalftimeHash24（原始核心）、fasthash-32/64、mx3。</p>
+<p>证明所需要的条件：在压缩之前进行单射长度成帧，或者建立一个带密钥的跨长度碰撞界，该碰撞界需将消息字如何抵消长度项考虑在内。</p>
+<p>一种碰撞配方可以产生不止一对碰撞。MurmurHash3 辅助性的 32 字节结构对于输入状态 s 满足 T_A(s) = T_B(s)：它将差值重置为零，而不是将状态重置为某个固定常数。因此，在 n 个位置的每一个中选择 A 或 B，即可产生 2n 个等长的碰撞消息。另外，CityHash README 中的对 B 为选定的压缩值求解了一个公开的字置换；三个自由字即可产生 2192 个碰撞的 32 字节输入。MuseAir 的可逆头部编码给出了 head′ = head ⊕ P(T) ⊕ P(T′)，对于选定长度的每个尾部都存在一个配对项。这些属于已记录的生成器；所选的较短 CityHash 和 MurmurHash3 碰撞对则保留其原始评分。</p>
+<p>相关行：MurmurHash3（辅助双块对）· 生成器记录；CityHash64（辅助对 B）· 逆向记录；MuseAir · 头尾配方。</p>
+<p>证明所需要的条件：针对联合“消息到状态映射”的单射编码或带密钥碰撞界；单个公开输入字的可逆性使得这些补偿字易于求解，且不会使整个映射成为单射。</p>
+<p>在字长为 w 时，设 t = 2w−1。模 2w 下，x ⊕ t = x + t，且对于奇数 c 有 (x ⊕ t)c = (xc) ⊕ t。公开的循环移位和异或移位可以将差值置于最高位；后续的消息字则会将其抵消。MurmurHash3、fasthash 的辅助等长对以及 nmhash32x 都利用了这一确定性恒等式。nmhash32 工作在 16 位乘法通道中，并且额外约束了跨越第 13 位的加法和进位。更一般地，x ⊕ d = x + d − 2(x &amp; d)，因此固定的 XOR 改变可以转化为符号相反的加法改变。SpookyHash 的后期注入和尾部在符号有利时会发生抵消；精确的半种子平衡尚未得到证明。所选的 t1ha2 对则使用密度为 2−24 的种子类，在该类别内实测成功率约为 2−4.19。它的抵消依赖于进位，而非零操作数。</p>
+<p>相关行：MurmurHash3、fasthash-32/64（辅助等长对）、nmhash32、nmhash32x、SpookyHash V2、t1ha2。</p>
+<p>证明所需要的条件：贯穿实际字长和联合进位条件的差分界，而不是假设循环移位、奇数乘数或各个状态位表现为相互独立。</p>
+<p>我将 aHash 的 AES 路径保持未分组状态：其条目需要 AES 逆差分，以及在独立密钥下同时发生重排加法抵消，而上述恒等式并未证实这一点。证明条目和对比条目同样未被分配碰撞模式。无论是证明缺口还是共享的乘法指令，都不足以成为分配一行的依据。</p>
+<p>在带有编号的摘录中，我将所提供的实现专门针对选定的消息路径进行了特化。除非另有说明，字均为无符号 64 位值；+、- 和普通 * 均在模 264 下回绕，^ 表示异或，rotl 将 64 位字循环左移。mul128(a,b) → (lo,hi) 返回完整的无符号乘积，fold(a,b) = lo ^ hi。元组赋值中等号右侧使用旧值。read32le 在移位前将其结果零扩展至 64 位；read64le 在指定字节偏移处读取一个小端序字。words(lo,hi) 是一个 128 位块。AES 操作是单个 AES 指令轮次，其指定的第二个操作数在末尾进行异或；aesenclast 省略了列混淆。字节重排使用小端序内存顺序；pack_le(bytes, indices) 按所列顺序打包所选字节，最低有效字节在前。每个注释都标明了示例所使用的秘密输入、公开常数以及操作。</p>
+<p>这些消息在 CityHash 使用种子之前就已经发生了碰撞。一旦两个输入变成了相同的中间值，再加入相同的机密信息便无法将它们区分开来。</p>
+<p>代码：cityhash；SMHasher3 hashes/ci</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-21 03:14 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://thomasahle.com/blog/adversarial-examples-for-hashes/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-ebsites-via-ad-collector-7362b503eb6d7f07" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1853" data-content-paragraphs="16" data-published-at="2026-09-20T17:43:10.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2016" data-content-paragraphs="17" data-published-at="2026-09-20T17:43:10.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -83,25 +162,26 @@ notice:
   <span class="news-meta-time">🕒 2026-09-21 01:43</span>
 </div>
 
-### [ChatGPT如今通过广告收集器获知你在其他网站的浏览活动](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
+### [ChatGPT如今能通过广告数据收集器获知你在其他网站的浏览活动](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> ChatGPT now knows what you do on other websites via ad collector</div>
 
-<div class="article-body" data-article-body="true"><p>任何在ChatGPT上投放广告的公司都会在自己的网站上安装一小段OpenAI的代码，就像零售商如今安装Meta和谷歌的追踪代码一样。加载该代码后，便会将__obi连同你正在浏览的页面数据一同发送给OpenAI。这些数据包括你搜索的商品、阅读的文章以及购买行为。</p>
-<p>其核心事实在于，OpenAI可以将你在这些网站上的行为与其对应的ChatGPT账户关联起来。</p>
-<p>我在自己的手机上复现了完整的机制，通过两种独立的抓包方法进行了验证，并与跨越1,029个主机名、涉及936个独立广告主像素代码的数月监测流量进行了交叉核对。</p>
-<p>步骤1：ChatGPT创建一个标识符并进行签名。<br />在chatgpt.com上，客户端生成16个随机字节，并调用POST /backend-api/bazaar/obi/sync-token（登出状态下则调用/backend-anon/）。后端返回一个RS256格式的JWT：<br />sub代表账户，obi代表标识符。该令牌将二者绑定，作用域限定于收集器，并在60秒后过期。bzr代表bazaar，即OpenAI内部对广告平台的代称；wadi是签发服务。<br />客户端将{&quot;token&quot;: &quot;«JWT»&quot;}跨站POST提交至bzr.openai.com/v1/obi/sync。响应为：</p>
-<p>步骤3：广告主网站将其回传。<br />共有三类请求从广告主页面发送至OpenAI的主机。在Cookie罐中存有__obi的手机上，这三类请求均携带了该标识符：</p>
-<p>同款SDK还会从广告主页面收集身份信息。数据负载将这些信息区分为四种来源，且均由OpenAI自身标注：in代表广告主有意传递的数值，而fm、ht、js则代表SDK分别从表单字段、渲染页面文本以及标签管理器总线（tag-manager bus）中抓取的数值。在监测到的流量中，抓取到的身份信息数量超过了广告主主动提供的数量（685次事件对比255次）。</p>
-<p>标签管理器总线是电子邮件地址的最大来源。SDK用自身函数替换了window.dataLayer.push，同时读取adobeDataLayer，并通过解析gtm.js脚本标签中的l=参数来定位被重命名的GTM层。当前版本会从中提取电子邮件和电话号码。在8月27日缩小抓取范围之前，0.1.31版本还会提取姓名和地理位置。</p>
-<p>电子邮件、电话、名和姓在传输前会经过SHA-256哈希处理。国家、地区、城市和邮政编码则以明文形式发送。邮政编码是被收集最多的表单字段，在28个网站中累计出现100次事件。</p>
-<p>URL在发送前会被缩减为来源加上路径；在监测到的23,929条记录中，没有一条携带查询字符串。但路径被完整保留了下来，抵达收集器的路径中包括某种医疗状况、债务解决方案漏斗以及诉讼受理登记表。</p>
-<p>在具有已知配置的881个像素中，有638个启用了自动匹配功能，其中包括所有被监测到的信贷与借贷广告主。该功能由OpenAI的广告管理器（Ads Manager）控制。一份黑名单排除了密码、一次性验证码、卡号、社会安全号（SSN）、出生日期、病史、诊断以及法院相关字段。</p>
-<p>__obi是唯一一个被配置为SameSite=None的OpenAI标识符。</p>
-<p>在我的设备上，同一个__obi值从12个商业网站（涵盖13个不同的像素ID）发送给了OpenAI，其中包括Chewy、Wayfair、ThriftBooks、Eventbrite、HelloFresh、Coursera以及SeatGeek。每一次请求都得到了202状态码的接收确认。</p>
-<p>在更大范围的流量中，30个不同的__obi值中有12个出现在多个广告主网站上，其中一个甚至出现在十家广告主网站中。</p>
-<p>在解码的932个同步令牌中，736个携带了subject_type: account_user，196个携带了anonymous。匿名主体与账户主体一样稳定：每台设备一个，至少持续存在27天。</p>
-<p>OpenAI将分析与营销作为两项独立的授权选项运营（oai_consent_analytics与oai_consent_marketing），而我解码的每一个同步令牌都携带着consent_decision: analytics_allowed。只要用户允许了分析并拒绝了营销，就会触发这一行为。</p>
-<p>广告主对此无法察觉。__obi属于一个广告主脚本无法读取的域名。他们安装了转化追踪像素，却根本无从知晓其访客正被解析并关联至某一个具体的ChatGPT身份。</p></div>
+<div class="article-body" data-article-body="true"><p>任何在 ChatGPT 上投放广告的公司，都会在其自身网站上安装一段由 OpenAI 编写的小型代码，这与零售商早已安装 Meta 和谷歌追踪代码的做法完全相同。加载这段代码后，它会将 __obi 以及与你正在浏览的页面相关的数据一同发送给 OpenAI。这包括你搜索的商品、阅读的文章以及购买行为。</p>
+<p>归结起来，OpenAI 能够将你在那些网站上的行为与你的 ChatGPT 账户关联起来。</p>
+<p>我在自己的手机上完整复现了这一机制，通过两种独立的数据抓取方式进行了验证，并与覆盖 1,029 个主机名、包含 936 个不同广告主像素（pixel）的数月观测流量进行了交叉比对。</p>
+<p>第一步：ChatGPT 创建一个标识符并对其进行签名。<br />在 chatgpt.com 上，客户端会生成 16 个随机字节，并调用 POST /backend-api/bazaar/obi/sync-token（登出状态下则调用 /backend-anon/）。后端随后返回一个 RS256 JWT：<br />sub 代表账户。obi 是标识符。该令牌将两者绑定在一起，其作用域限定在收集器，且有效期为 60 秒。bzr 代表 bazaar（集市），这是 OpenAI 广告平台的内部代号；wadi 则是签发服务。</p>
+<p>客户端将 {&quot;token&quot;: &quot;«JWT»&quot;} 跨站 POST 请求发送至 bzr.openai.com/v1/obi/sync。响应结果为：</p>
+<p>第三步：广告主网站将其回传。<br />广告主页面向 OpenAI 的主机发送三类请求。在一台 Cookie 存储区存有 __obi 的手机上，所有这三类请求都携带了该标识符：</p>
+<p>同一个 SDK 还从广告主页面收集身份信息。上报的数据有效载荷区分了四种来源，均由 OpenAI 自身标注：in 代表广告主主动传递的值；fm、ht、js 则代表 SDK 分别从表单字段、渲染页面文本以及标签管理器总线（tag-manager bus）中爬取的值。在观测到的流量中，爬取到的身份信息数量超过了广告主主动提供的数量，比例为 685 次对 255 次事件。</p>
+<p>标签管理器总线是电子邮箱地址的最大来源。该 SDK 用其自有函数替换了 window.dataLayer.push，还会读取 adobeDataLayer，并通过解析 gtm.js 脚本标签中的 l= 参数来定位被重命名的 GTM 层。当前版本会从中获取电子邮件和电话号码。在 8 月 27 日范围缩减之前，0.1.31 版本甚至还会抓取姓名和地理位置信息。</p>
+<p>电子邮件、电话、名与姓在传输前会经过 SHA-256 哈希处理。国家、地区、城市和邮政编码则以明文发送。邮政编码是抓取最为频繁的表单字段，在 28 个网站上共发生 100 次事件。</p>
+<p>URL 在发送前会被缩减为源地址（origin）加路径（path）；在观测到的 23,929 条数据中，没有任何一条携带查询字符串（query string）。但路径保留了下来，送达收集器的路径包括某种医疗状况、债务解决方案漏斗以及诉讼受理登记表单。</p>
+<p>在已知设置的 881 个像素中，有 638 个启用了自动匹配功能，其中包括观测到的所有信贷和贷款广告主。该功能由 OpenAI 的广告管理后台（Ads Manager）控制。黑名单排除了密码、一次性验证码、卡号、社保账号（SSN）、出生日期、病史、诊断结果和法院字段。</p>
+<p>__obi 是 OpenAI 唯一一个被配置了 SameSite=None 属性的标识符。</p>
+<p>在我的设备上，同一个 __obi 值从 12 个商业网站下、以 13 个不同的像素 ID 发送至 OpenAI，其中包括 Chewy、Wayfair、ThriftBooks、Eventbrite、HelloFresh、Coursera 和 SeatGeek。每一个请求都被以 202 状态码接收。</p>
+<p>在更广泛的流量中，30 个不同的 __obi 值中有 12 个出现在多个广告主网站下，其中一个出现在多达十个广告主网站下。</p>
+<p>在解码的 932 个同步令牌中，有 736 个携带 subject_type: account_user，196 个携带 anonymous。匿名主体与账户主体一样稳定：每台设备一个，且至少能留存 27 天。</p>
+<p>OpenAI 将分析与营销设为两个独立的同意选项，即 oai_consent_analytics 和 oai_consent_marketing。而我解码的每一个同步令牌都带有 consent_decision: analytics_allowed。即便某人允许分析并拒绝营销，也会遇到这种情况。</p>
+<p>广告主对此并不知情。__obi 属于他们自有脚本无法读取的域名。他们仅仅安装了一个转化像素，根本无从得知其访客正被解析关联至具体的 ChatGPT 身份。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -121,7 +201,7 @@ notice:
 
 :::cell
 <div id="story-usergettingbored-vim-0a9bc09bd3a11c6d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="855" data-content-paragraphs="11" data-published-at="2026-09-20T17:18:49.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="823" data-content-paragraphs="12" data-published-at="2026-09-20T17:18:49.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -130,20 +210,21 @@ notice:
   <span class="news-meta-time">🕒 2026-09-21 01:18</span>
 </div>
 
-### [要闻：简而言之：Vim 有一个名为 UserGettingBored 的恶作剧自动命令（autocmd），它实际上不起](https://evanhahn.com/usergettingbored-vim/)
+### [Vim 中名为 UserGettingBored 的恶搞自动命令](https://evanhahn.com/usergettingbored-vim/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Vim&#39;s UserGettingBored autocmd</div>
 
-<div class="article-body" data-article-body="true"><p>简而言之：Vim 有一个名为 UserGettingBored 的恶作剧自动命令（autocmd），它实际上不起任何作用。</p>
-<p>Vim 的自动命令功能通常缩写为“autocmd”，它允许你在发生各种事件时运行代码。例如，你可以通过将 TextChanged 事件绑定到 :w 命令来实现自动保存功能。</p>
-<p>Vim 拥有 100 多个事件，从“缓冲区已创建”到“文件已保存”不一而足。但其中有一个事件引起了我的注意：UserGettingBored。官方文档中是这样描述的：<br />UserGettingBored：当用户连续按同一个键 42 次时触发。开个玩笑！:-)</p>
-<p>看到这个时，我原本正在忙别的事情，结果思路完全被带偏了。我想：“我必须了解更多关于它的事情。”</p>
+<div class="article-body" data-article-body="true"><p>简而言之：Vim 中有一个名为 UserGettingBored 的恶搞自动命令（autocmd），它实际上没有任何功能。</p>
+<p>Vim 的自动命令功能（通常简写为“autocmd”）允许你在发生各种事件时运行代码。例如，你可以通过将 TextChanged 事件绑定到 :w 命令来实现自动保存功能。</p>
+<p>Vim 拥有 100 多个事件，涵盖从“创建缓冲区”到“文件已保存”。但其中有一个引起了我的注意：UserGettingBored。文档中是这样写的：</p>
+<p>UserGettingBored：当用户连续按同一个键 42 次时。开个玩笑！:-)</p>
+<p>看到这个时，我正忙着做别的事，结果注意力彻底被带偏了。我想：“我必须了解更多。”</p>
 <p>以下是我的发现：</p>
-<p>遗憾的是，它没有任何实际功能。它只存在于文档中（以及一些测试代码中）。如果你尝试通过类似 autocmd UserGettingBored ... 的命令来使用它，就会收到“no such group or event”（无此分组或事件）的错误提示。</p>
-<p>它同时存在于 Vim、Neovim 以及 Vim Classic 中。</p>
-<p>它最初由 Bram Moolenaar 于 2000 年 7 月添加，当时距离 Vim 6.0 发布还有一年多。最初的描述是：“当用户按下 CTRL-C 时触发。开个玩笑！”而且当时它就没有任何功能，所以我觉得它从未真正起效过。</p>
-<p>2001 年 8 月，他在文档中添加了笑脸符号。描述随之变成了：“当用户按下 CTRL-C 时触发。开个玩笑！:-)”</p>
-<p>十二年后的 2013 年，该描述变更为当前的版本：“当用户连续按同一个键 42 次时触发。开个玩笑！:-)”</p>
-<p>2022 年，开发者 Mike Smith 受这个恶作剧自动命令的启发，制作了一个非官方插件。如果你在插入模式下连续按同一个键 42 次，就会出现一张塞缪尔·杰克逊（Samuel L. Jackson）的图片。22 年后，它终于成真了。</p></div>
+<p>遗憾的是，它没有任何实际作用。它仅存在于文档（以及某些测试用例）中。如果你尝试使用类似 autocmd UserGettingBored ... 这样的命令，就会收到“no such group or event”（没有此类组或事件）的报错。</p>
+<p>它存在于 Vim、Neovim 和 Vim Classic 中。</p>
+<p>它最早由 Bram Moolenaar 于 2000 年 7 月添加，比 Vim 6.0 的发布早了一年多。最初的描述是：“当用户按下 CTRL-C 时。开个玩笑！”当时它就没有任何功能，因此我认为它从未真正实现过。</p>
+<p>2001 年 8 月，他在文档中加上了笑脸。内容随即变成了：“当用户按下 CTRL-C 时。开个玩笑！:-)”</p>
+<p>十二年后的 2013 年，描述被修改为了当前的版本：“当用户连续按同一个键 42 次时。开个玩笑！:-)”</p>
+<p>2022 年，开发者 Mike Smith 受这个恶搞自动命令的启发，开发了一个非官方插件。如果你在插入模式下连续按同一个键 42 次，就会弹出一张塞缪尔·L·杰克逊（Samuel L. Jackson）的照片。22 年之后，它终于成真了。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -163,7 +244,7 @@ notice:
 
 :::cell
 <div id="story-tif-fork-actually-exists-95a07fa22228c694" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3362" data-content-paragraphs="31" data-published-at="2026-09-20T17:13:41.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3285" data-content-paragraphs="30" data-published-at="2026-09-20T17:13:41.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -172,40 +253,39 @@ notice:
   <span class="news-meta-time">🕒 2026-09-21 01:13</span>
 </div>
 
-### [一个处于积极维护与更新状态的 Motif 分支确实存在](https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/)
+### [一个得到积极维护和更新的 Motif 分支确实存在](https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> An actively maintained and updated Motif fork actually exists</div>
 
-<div class="article-body" data-article-body="true"><p>Motif 很棒，我喜欢它的外观和手感，也希望它能得到积极维护。我希望有一个由 Motif 应用程序、甚至窗口管理器和桌面环境构成的健康生态系统，这样我就能运行一个真正的 Motif 环境。遗憾的是，尽管 Motif 已经开源了一段时间，但该项目本身在多年前就已经停滞，参与其中的人几乎没有任何活动。这种情况可能正在发生改变，因为去年有许多开发者决定亲自接手推进。</p>
-<p>这个 Motif 分支诞生于保持 Motif（以及其他 X11 技术）生机与活力的愿望。Sourceforge 上的原始上游项目已有两年多没有任何活动，没有任何项目管理员至少在同等时间内保持活跃，官方问题追踪器已经彻底消失在虚无之中；用户论坛早在 2017 年就已关闭。遗憾的是，原始上游似乎已经放弃了该项目。</p>
-<p>我合并了上游搁置多年的部分修复补丁、Gentoo 的另外几个补丁，并进行了我自己的少许改进。我打算维护这个分支，并借此倡导继续使用这个定义了一个时代、并影响了其后诸多用户界面的用户界面工具包。</p>
-<p>参与其中的一部分人是我在网上认识的朋友，因此我对此分支能够经受住时间的考验抱有一些信心；但当然，管理这样一个复杂的项目是很困难的，所以谁知道这种热情能维持多久。不过，自一年多前创建以来，该分支已经发布了五个版本，这看起来很有希望。对某些人来说，对 Motif 抱有热爱可能显得很奇怪，但我就是那种会在运行 HP-UX 的 HP c8000 双 PA-RISC 工作站上安装自己不懂的古怪、过时的企业与工业软件，纯粹为了欣赏它们有时附带的 Motif 界面的人。我们每个人都有自己的怪癖。</p>
-<p>根据我与网友交流的经验，我知道其实有相当数量的人和我一样。我希望在这个群体中的开发者能在某个时刻积累足够的临界规模，利用现有的那些零散的、仍然处于积极维护中的 Motif 项目（是的，它们仍然存在），构建出类似基础 Linux 发行版或桌面环境的东西。虽然希望渺茫，但在当今越来越多的用户对“现代”软件感到不适的计算格局下，我真切觉得这样的东西确实有存在的利基市场。</p>
-<p>固然是一个非常小的利基市场，但终究是一个市场。</p>
+<div class="article-body" data-article-body="true"><p>Motif 非常棒，我喜欢它的外观和质感，我希望它能得到积极的维护。我希望拥有一个健康的 Motif 应用程序生态系统，甚至是窗口管理器和桌面环境，这样我就能运行一个真正的 Motif 环境。遗憾的是，尽管 Motif 已经开源了一段时间，但该项目本身在多年前就停滞不前了，几乎没有任何参与者的活动。这种情况可能正在改变，因为一些开发者去年决定亲自采取行动。</p>
+<p>这个 Motif 分支源于让 Motif（以及其他 X11 技术）保持活力和良好状态的愿望。最初的上游 SourceForge 项目已经两年多没有任何活动了，没有一个项目管理员在至少这么长时间里处于活跃状态，官方缺陷跟踪系统也早已消失无踪；用户论坛早在 2017 年就关闭了。遗憾的是，原上游似乎已经放弃了这个项目。</p>
+<p>我整合了上游一些沉睡多年的修复，吸收了 Gentoo 的另外几项修复，并做出了一些我自己的改进。我打算维护这个分支，并借此倡导继续使用这个定义了一个时代、并影响了其后诸多用户界面的用户界面工具包。</p>
+<p>参与其中的一些人是我在网上认识的朋友，所以我对这个分支经受住时间考验抱有一点信心，但当然，管理像这样一个复杂的项目非常困难，因此谁知道热情能持续多久呢。不过，该分支自一年多前创建以来已经发布了五个版本，这看起来很有前景。在某些人看来对 Motif 情有独钟可能很奇怪，但我就是那种喜欢在运行 HP-UX 的 HP c8000 双 PA-RISC 工作站上，安装那些我自己都看不懂的古怪、过时的企业和工业软件的人，纯粹就是为了享受它们有时附带的 Motif 界面。我们每个人都有自己的小癖好。</p>
+<p>从我与网上网友交流的经验来看，我知道实际上有相当多的人和我一样，我希望在某个时刻，这个群体中的开发者能够达到足够的关键规模，利用现存的那些分散但积极维护的 Motif 项目（是的，它们仍然存在），构建出类似基础 Linux 发行版或桌面环境的东西。虽然希望渺茫，但在如今的计算格局下，越来越多的人对“现代”软件感到不适，我真的觉得像这样的东西是有生存空间的。</p>
+<p>当然，这绝对是一个极小的利基市场，但终究是一个利基市场。</p>
 <p>在 Mastodon 上关注我：@[email protected]</p>
-<p>Emwm 是 Motif 的一个分支，添加了新功能。作者还创建了一些 Motif 应用程序，例如 toolbox（一个类似 Irix 的启动器）、xmsm（一个会话管理器）、一个文件管理器以及一个图像查看器。</p>
-<p>Emwm 是一个窗口管理器，而不是工具包。Emwm 使用了 Motif。它的名字中就写着：“Enhanced Motif Window Manager”（增强型 Motif 窗口管理器）。</p>
-<p>它就是我在文章中提到的那些仍在维护的 Motif 软件之一。</p>
-<p>“遗憾的是，原始上游似乎已经放弃了该项目。”完全不属实。作为一个同时协助维护 Motif 和 CDE 的人，它并没有被放弃。问题在于多年来没有人向该项目提交过任何拉取请求（PR），而且开发者总共只有三个人。这个项目应该把他们的补丁发送给我们。</p>
-<p>“问题在于多年来没有人向该项目提交过任何拉取请求”——我刚去 SourceForge 查看了代码仓库，上面有 11 个未处理的 PR……？</p>
-<p>我对 Motif 继续存活并得到维护没有任何意见。只是对我来说回到那个界面太刺眼了。30 年前我刚开始使用 ‘nix 时它就不好看。那是 90 年代的 ‘nix，这是肯定的。NsCDE 是我在这方面能接受的极限了，它通过主题化来模拟 Motif。</p>
-<p>“我希望在这个群体中的开发者能在某个时刻积累足够的临界规模，利用现有的那些零散的、仍然处于积极维护中的 Motif 项目，构建出类似基础 Linux 发行版或桌面环境的东西……”</p>
-<p>我愿意为这样的发行版真金白银地付钱。举个例子，我很喜欢 CDE，但如果能有一个已经很好地整合在一起、开箱即用的 Motif 工具集，那将是极好的。</p>
-<p>Motif 和 CDE 很棒。它们“看”起来不怎么样，但它们确实很棒。</p>
-<p>Windows 95 中包含了很多这类元素，但在 Windows 2000 前后，微软就已经开始削弱它们了（工具栏是最先开始受害的）。</p>
-<p>向同样喜爱 c8000 的同好致敬。</p>
-<p>我一定是极少数喜欢 CDE 中 Motif 外观的人之一。也许只是因为我在 Solaris 上用了它太久了？不太确定，但我更倾向于选择它，而不是当今使用的几乎任何主流 Linux 或基于 UNIX 的 UI 工具包。</p>
-<p>呃，我真搞不懂为什么有人会把时间和精力投入到像 Motif 这样死透了的无用之物上。</p>
-<p>熟悉感能减少认知摩擦，怀旧情结会让陈旧的界面让人觉得比它们实际过去或现在的样子更为直观。</p>
-<p>但 Motif 不仅仅是看起来糟糕。作为一个构建在 Xt Intrinsics 之上的编程工具包，它是出了名的差劲和繁琐。它极其啰嗦且重度依赖回调。糟糕的设计决策多到数不胜数！在 Motif 上，如今我们习以为常的许多功能都需要多层框架机制和间接配置。</p>
-<p>Motif 和一些早期的 X 工具包长期以来一直被用作“如何不设计 GUI 框架”的典型反面教材，这是有原因的。</p>
-<p>唉，我想总有人出于某种匪夷所思的原因喜欢它。</p>
-<p>这些去掉了那些看起来非常笨重的凸起 UI 控件。</p>
-<p>我同意你说的绝大部分观点，我也从不理解那些带着玫瑰色滤镜看待过去的人。然而，在超大屏幕上用基于 GTK4 的 LibreOffice 打开一个大型电子表格，试着仅用鼠标指针和垂直滚动条向下滚动（运气好的话，那滚动条大概有 2 毫米宽）——这简直是一场可用性噩梦。@Shiunbird 说得对：从用户的角度来看，MOTIF/CDE/GTK2 很容易理解和使用。</p>
-<p>然而，在超大屏幕上用基于 GTK4 的 LibreOffice 打开一个大型电子表格，试着仅用鼠标指针和垂直滚动条向下滚动（运气好的话，那滚动条大概有 2 毫米宽）——这简直是一场可用性噩梦。@Shiunbird 说得对：从用户的角度来看，MOTIF/CDE/GTK2 很容易理解和使用。</p>
-<p>应用程序的外观是非常主观的，每个人都有自己的偏好，然而许多现代 UI 设计师似乎完全忽视了可用性。这是存在问题的。即便你知道滚动条是如何工作的，它们用起来依然十分费劲。不可发现的 UI，以及缺乏视觉提示的控件……这些都为了极简主义而抛弃了可用性，而且我们似乎经历过一段大家在这方面竞相攀比的时期。再次强调，视觉偏好是一回事，但客观而言，可用性和一致性在此过程中确实变得糟糕了许多。我尤其讨厌明明屏幕分辨率如此之高、有着大量未被利用的留白，设计师们却依然觉得有必要把控件做得小到难以操作……我之前在旅行，被迫比平时更频繁地使用 Android 系统。其复制/粘贴机制存在缺陷，不仅会在不合适的时间被误触发，而且在真正需要时又呼不出来。诸如此类的事情在早期产品中尚可被原谅，但随着技术的日趋成熟，可用性始终没有成为关注焦点、长期存在的问题一直被忽视，这着实令我感到非常失望。</p>
-<p>就拿我父亲来说，他已经完全接纳了语音交互，与触摸屏输入相比，这是一种效率更高的操作模式。这是缓解糟糕的触摸屏 UI 的一种途径，但显而易见会对周围的其他人造成干扰。</p>
-<p>纯粹出于历史原因，我对 Motif 情有独钟，但作为一名开发者，我无法想象自己在 2026 年还会想要选择它作为我的图形界面（GUI）工具包。话虽如此，如果你用 Motif 开发出了一款出色的应用，人们依然能够使用它。毕竟 Xwayland 是切实存在的。</p>
-<p>不过，CDE 作为桌面环境所面临的困境就要大得多了，因为将 X 作为你的图形界面来运行，未来将无法访问仅支持 Wayland 的应用程序。目前虽已有仅支持 Wayland 的应用程序，但数量并不多。我碰到过 Foot 终端模拟器。此外，任何基于 Iced 或 Cosmoe 库构建的应用都仅支持 Wayland。目前影响还不算大。但只要有一个仅支持 Wayland 的 GUI 工具包流行起来，这就将成为一个更大的问题。GTK5 可能会是第一个。</p></div>
+<p>Emwm 是一个增加了新功能的 Motif 分支。他还创建了一些 Motif 应用程序，例如 toolbox（一个类似 Irix 的启动器）、xmsm（一个会话管理器）、一个文件管理器和一个图像查看器。</p>
+<p>Emwm 是一个窗口管理器，而不是工具包。Emwm 使用了 Motif。它的名字里就写着：“Enhanced Motif Window Manager”（增强型 Motif 窗口管理器）。</p>
+<p>它是我在文章中提到的得到维护的 Motif 软件之一。</p>
+<p>“遗憾的是，原上游似乎已经放弃了这个项目。”完全不属实。作为同时参与 Motif 和 CDE 维护的人，它并没有被放弃。问题在于多年来没有人向该项目提交任何拉取请求（Pull Request），而且总共只有三名开发者。这个项目应该把他们的补丁发送给我们。</p>
+<p>“问题在于多年来没有人向该项目提交任何拉取请求”我刚刚查看了 SourceForge 上的代码仓库，上面有 11 个未关闭的 PR……？</p>
+<p>我对 Motif 继续存活并得到维护没有任何意见。只是对我来说回到那个时代太突兀了。30 年前我刚开始使用 ‘nix 时它看着就不太美观。那绝对是 90 年代的 ‘nix。NsCDE 是我在这方面能接受的极限了，它通过主题化来模拟 Motif。</p>
+<p>“我希望在某个时刻，这个群体中的开发者能够达到足够的关键规模，利用现存的那些分散但积极维护的 Motif 项目，构建出类似基础 Linux 发行版或桌面环境的东西……”<br />我愿意为这样的发行版付真金白银。例如我很喜欢 CDE，但如果能有一个现成整合好、开箱即用的基于 Motif 工具的系统，那就太棒了。</p>
+<p>Motif 和 CDE 都很棒。它们看起来不怎么起眼，但确实很棒。</p>
+<p>许多这类元素都存在于 Windows 95 中，但微软在 Windows 2000 前后就已经开始削弱它们了（工具栏是第一个遭殃的）。</p>
+<p>向同为 c8000 的爱好者致敬。</p>
+<p>我一定是极少数喜欢 CDE 中 Motif 外观的人之一。也许只是因为我在 Solaris 上用了它太久了？不太确定，但我宁愿选择它，也不愿意使用当今几乎任何主流的基于 Linux 或 UNIX 的 UI 工具包。</p>
+<p>唉，我真不理解怎么会有人把时间和精力投入到像 Motif 这样早已过时的死马上。</p>
+<p>熟悉感能减少认知阻力，怀旧情结会让陈旧的界面显得比它们实际过去或现在更加直观。</p>
+<p>但 Motif 不仅仅是外观难看。它在 Xt Intrinsics 之上也是一个臭名昭著的糟糕/笨重的编程工具包。它极其冗长且充斥着回调。糟糕的设计决策多得数不过来！我们现在许多习以为常的功能，在 Motif 上都需要好几层框架机制和间接配置。</p>
+<p>Motif 和早期几种 X 工具包长期以来被用作“如何不设计 GUI 框架”的反面教材，这是有原因的。</p>
+<p>唉，我猜总有人出于某些匪夷所思的原因喜欢它。</p>
+<p>这些去掉了真正显得笨拙的凸起 UI 部件。</p>
+<p>我大致同意你说的话，我从来不理解人们为什么总要给过去涂上玫瑰色的滤镜。然而，在超大屏幕上用基于 GTK4 的 LibreOffice 打开一个大型电子表格，试着只用鼠标指针和垂直滚动条（运气好的时候它大概有 2 毫米宽）向下滑动——简直就是可用性方面的噩梦。@Shiunbird 说得对：从用户的角度来看，MOTIF/CDE/GTK2 很容易理解，也很好用。</p>
+<p>然而，在超大屏幕上用基于 GTK4 的 LibreOffice 打开一个大型电子表格，试着只用鼠标指针和垂直滚动条（运气好的时候它大概有 2 毫米宽）向下滑动——简直就是可用性方面的噩梦。@Shiunbird 说得对：从用户的角度来看，MOTIF/CDE/GTK2 很容易理解，也很好用。</p>
+<p>应用程序的外观是非常主观的，每个人都有自己的喜好，然而许多现代 UI 设计师似乎完全忽视了可用性。这是大有问题的。即便你知道滚动条的工作原理，用起来也十分吃力。缺乏可发现性的界面，以及缺少视觉提示的控件……这些做法为了追求极简主义而弃可用性于不顾，我们似乎经历了一段大家在这方面争相攀比的时期。再次强调，视觉偏好是一回事，但客观而言，可用性和一致性一路走来确实退步了不少。我尤其反感的是，在屏幕分辨率如此之高、存在大量闲置留白的情况下，设计师依然觉得有必要把控件做得极小，让人难以操作……我之前出差时不得不比平时更频繁地使用 Android 系统。其复制/粘贴机制存在缺陷，既容易在错误的时间被触发，又常常在需要时毫无反应。这类问题在早期产品中尚可原谅，但随着技术的成熟，可用性始终没有受到重视、长期存在的问题一直被忽视，这让我感到非常失望。</p>
+<p>拿我父亲来说，他就欣然接受了语音交互，与触屏输入相比，这是一种更高效的操作模式。这确实是缓解糟糕触屏 UI 的一种办法，但显然会对身边的其他人带来打扰。</p>
+<p>纯粹出于历史情怀，我对 Motif 怀有好感，但作为一名开发者，我无法想象自己在 2026 年还会愿意选它作为 GUI 工具包。话虽如此，如果你用 Motif 做出一款优秀的应用，人们还是能用上的。毕竟 Xwayland 是切实存在的。</p>
+<p>不过，CDE 作为桌面环境处境要艰难得多，因为将 X 用作图形界面在未来会阻断访问仅支持 Wayland 的应用程序。目前确实存在 Wayland 专属应用，但数量还不算多。我遇到过 Foot 终端模拟器；此外，任何基于 Iced 或 Cosmoe 库构建的应用都仅支持 Wayland。目前影响还不算大。但一旦某款仅支持 Wayland 的 GUI 工具包流行起来，这就将成为一个大问题。GTK5 也许就会是第一个。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -221,145 +301,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ay-mosques-opening-doors-098d56a8f318d604" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="327" data-content-paragraphs="3" data-published-at="2026-09-20T15:00:18.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-20 23:00</span>
-</div>
-
-### [“恐惧开始消退”：为何英国的清真寺正向公众敞开大门](https://www.theguardian.com/society/2026/sep/20/fears-begin-to-fall-away-mosques-opening-doors)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ‘The fears begin to fall away’: why Britain’s mosques are opening their doors to public</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/5b892d043e00b513ff3937ed760ed7ba82f5d1c6/838_243_6369_5095/master/6369.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27675b3f6ccf643ded961ed57db08d06" alt="“恐惧开始消退”：为何英国的清真寺正向公众敞开大门" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>随着针对穆斯林礼拜场所的袭击事件激增，本周末有100多座清真寺通过提供交流、美食与友谊，来打破并消除偏见。</p>
-<p>在伦敦北部的一座清真寺，一名妇女曾对礼拜者大喊，称应该有更多他们的孩子被杀，就像加沙的孩子一样。在另一起事件中，建筑物的燃气管道被从墙体上扯下并遭到改动，导致泄漏的燃气在室内积聚。</p>
-<p>这些只是伦敦伊斯兰文化协会（London Islamic Cultural Society）在过去三年中所遭遇的一系列事件中的一部分。然而，该清真寺不仅没有闭门退缩，反而将大门敞得更开。本周末，全英国有100多座清真寺邀请公众前来加深对伊斯兰教和英国穆斯林的了解，包括位于伦敦、伯明翰、谢菲尔德、曼彻斯特、格拉斯哥、绍森德和加的夫的寺庙，该清真寺正是其中之一。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-20 23:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/sep/20/fears-begin-to-fall-away-mosques-opening-doors" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-ftware-sandboxing-basics-0285d6725ea34976" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="7072" data-content-paragraphs="72" data-published-at="2026-09-20T14:13:11.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-20 22:13</span>
-</div>
-
-### [软件沙箱技术：基础篇（2025）](https://blog.emilua.org/2025/01/12/software-sandboxing-basics/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Software sandboxing: The basics (2025)</div>
-
-<div class="article-body" data-article-body="true"><p>涉足软件沙箱领域，就像是闯入一片大多未被探索的未知大陆。在软件中实现良好沙箱机制所需的零碎知识散落各处，先行者们尚未将足够的经验汇编成一张统一的世界地图（mappa mundi），来指引新水手走过那些已被充分理解的安全航线。在这篇博文中，我将分享自己在为 Emilua 开发沙箱支持时积累的经验。行文风格可能会略受影响，因为为了避免任何误解，我宁可显得有些过于絮叨和重复。</p>
-<p>首先，让我们先为沙箱给出一个非正式（但很实用）的定义，以确保大家理解一致。以下是 Julien Tinnes 和 Chris Evans 在 2009 年马来西亚 Hack In The Box 安全大会上所使用的定义：<br />限制进程特权的能力：<br />无需机器上的管理员权限；<br />自主特权降级（Discretionary privilege dropping）。</p>
-<p>这是一个非常适合展开讨论的极好定义。让我们快速逐项梳理，以便彻底厘清。不过请记住，我如今持有的观点与 J. Tinnes 和 C. Evans 在 2009 年演讲中的观点略有不同（尤其是在“是否可以调用超级用户 API？”这一点上），因此我的解释会稍有不同，并将引导你走向我认为更适合 2025 年的更佳实践。</p>
-<p>操作系统向用户和软件开发者暴露的接口有所不同。系统管理员传统上依赖文件系统权限来隔离各种服务（UNIX 守护进程）。如果我们允许第三方程序随意修改此类权限，那么系统管理员最初试图强制执行的策略就会被彻底架空。</p>
-<p>此外，第三方程序会抽象出属于自己的虚拟世界，而在大多数情况下，UNIX 文件系统权限并不适合用来为这些其他虚拟世界所需的安全策略建模。你会用 UNIX 权限模式来定义谁能查看你的 Twitter 动态或在 Identi.ca 上给你发私信吗？文件系统权限并不是系统管理员用来限制访问权限的唯一手段，但这里阐述的逻辑同样适用于这些其他控制旋钮。</p>
-<p>尽管如此，进程不可避免地运行在操作系统之上，并且进程会与内核暴露的资源（例如文件）进行交互。对于软件开发者而言，至关重要的正是这一层接口。像 Firefox 这样的网络浏览器会运行 DRM 插件，而我们希望在运行此类第三方插件的同时，不赋予它们访问 Firefox 所能访问的一切文件（通常是用户 HOME 目录下的所有文件）的完全权限。像 setuidgid 这样的传统工具在此无能为力，它们的作用局限于作为系统管理员所求助的接口。setuidgid 及类似工具并不是供软件开发者使用的接口。</p>
-<p>对于通过程序化方式进行特权降级，传统 UNIX 接口并不是个好选择，而在这一差距至关重要的操作系统上，通常会提供超越传统 UNIX 的扩展接口（例如 FreeBSD 的 Capsicum 和 Linux 的 Seccomp）。</p>
-<p>当缺乏良好的沙箱接口时，程序员无论如何也会想方设法去构建沙箱，手段则是滥用仅供超级用户使用的机制。这一类中最具代表性的技术就是一个用于配置 chroot jail 的辅助 suid 二进制程序。</p>
-<p>这些做法显而易见的问题在于，它们无法普遍适用于所有程序。允许任何程序安装 suid 二进制程序会彻底瓦解一切安全措施。Suid 二进制程序等同于将权限临时提升至对整个系统的完整管理权限。特权应当只减不增，绝不能增加（最小权限原则）。</p>
-<p>这里另一个相关的顾虑是：不要设计那些会因呈指数级增加内核攻击面而适得其反的 API。Docker 的爆发式流行让 Linux 命名空间（namespaces）作为一种低成本隔离服务的机制广为人知。然而在嵌套的用户命名空间（user namespace）内，进程是以超级用户身份运行的（在该命名空间内），而内核中那些通常只对超级用户开放的代码路径，现在却对所有用户开放了。我们有超过十年的内核代码在编写时从未考虑过这一前提。这种设计决策在过去引发了安全问题，而且未来注定还会再次发生。引用 Andy Lutomirski 的话：<br />“我认为，能够利用 CLONE_NEWUSER 在任何网络命名空间上获取 CAP_NET_ADMIN，进而访问网络配置 API，是一个巨大的风险。例如，非特权用户可以配置 iptables。如果这其中没有特权提权漏洞，我就把帽子吃下去。”</p>
-<p>只要你将此接口限制在可信的容器化工具（例如 Docker）中，允许使用用户命名空间是没有问题的。然而，Linux 命名空间对于软件沙箱来说却是一个极其糟糕的接口。Linux 中较新的沙箱接口（例如 Landlock）经过精心设计，不会呈指数级增加内核攻击面，从而避免我们在 Linux 用户命名空间中见过的那些灾难。此外，在 Linux 内部限制命名空间的新方法仍在开发中，长远来看，将其作为通用沙箱机制是一场糟糕的赌注。</p>
-<p>我最初在 Emilua 上投入软件沙箱研究的前几年，完全聚焦于 Linux 命名空间。经历无数挫败之后，重心转向了其他解决方案。如今 Emilua 仍然提供对 Linux 命名空间的支持，但现在预期的应用场景是构建容器化工具。要在 Emilua 内实现真正的沙箱隔离，你将使用 Linux 命名空间以外的机制。</p>
-<p>实际上，沙箱也可以定义为：<br />“一个受限且受控的执行环境，可防止潜在的恶意软件 […] 访问除软件已获授权之外的任何系统资源。”</p>
-<p>对于一段代码必须具备哪些特征才能被视作处于沙箱中，实际上并不存在共识，相关定义通常非常宽泛。这些定义并不要求我们迄今为止所讨论的那些特性。因此，使用一个截然不同的术语或许会更恰当。J. Tinnes 建议使用“自主特权降级”（discretionary privilege dropping）。这正是我们在本文中将要探讨的沙箱类型。</p>
-<p>自主特权降级并不能替代系统管理策略。相反，它们互为补充，应当协同采用。</p>
-<p>现在，希望我们的认知已经达成一致。对我们而言，“沙箱”意味着同样的事情：自主特权降级。那么在现有的现实操作系统中，我们如何从一个未受沙箱保护的程序过渡到一个受沙箱保护的程序呢？在当今所有的主流操作系统中，特权边界都位于进程级别。凭证是与每个进程相关联的，内核正是通过检查这些凭证来决定进程是否可以使用环境授权（ambient authority）来获取新资源。</p>
-<p>Linux 实际上有所不同，它在线程级别关联凭据（credentials），但立足于线程级别的设计根本行不通，这也是为什么即使内核对此处理得较为松散，glibc 也会额外去做跨线程同步凭据的工作。GNOME 开发者此前认为可以在线程级别工作，结果 CVE-2023-43641 的出现证明他们错了。</p>
-<p>Adam Langley 实际上描述过一种理论上可以在线程级别运作的机制，但实践中其开销在经济上过于高昂，而且我认为它永远不可能真正行得通：</p>
-<p>我们不要去空谈还有哪些替代设计可能可行了。就目前而言，进程就是我们拥有的工具。一旦我们将程序划分为独立的进程（隔离区），就可以进入后续步骤：</p>
-<p>为每个隔离区（即进程）分配不同的权限。</p>
-<p>处理隔离区之间的通信。</p>
-<p>来自 FreeBSD Capsicum 项目的研究人员早在十多年前就建立起了开发沙箱的正确思维模型：</p>
-<p>“隔离式应用程序开发本质上就是分布式应用程序开发，软件组件运行在不同的进程中，并通过消息传递进行通信。”</p>
-<p>在各个平台上放弃特权（降权）的手段各不相同，因此我们先跳过这点，稍后再回过头来讨论。首先让我们聚焦于分布式应用程序开发这一问题。</p>
-<p>Actor 模型是分布式系统开发中最著名的模式之一。Erlang 大概是其最具代表性的使用者。然而，Erlang 对 Actor 模型的关注点在于高可用性和容错能力。尽管如此，即便我们关心的既非高可用性也非容错能力，审视这些被广泛使用的模型依然很有帮助。</p>
-<p>许多对 Actor 模型的解释往往很快就会步入数学的领域（这无可厚非）。然而，其中许多解释迅速迷失在抽象世界中，完全抛开了计算机本身（这可就不太好了）。因此，我们仅对 Actor 模型中我们关心的要点做个总结：</p>
-<p>Actor 可以管理自己的内部状态。</p>
-<p>Actor 可以派生（spawn）其他 Actor。</p>
-<p>Actor 可以向其他 Actor 发送消息。</p>
-<p>Actor 可以在消息中包含其他 Actor 的地址。</p>
-<p>如果将 Actor 模型归纳为编程语言或框架内部的具体设计选择，我们关心的内容如下：</p>
-<p>存在一个用于创建 Actor 的函数。该函数返回新 Actor 的地址。</p>
-<p>Actor 的地址可用于发送消息。</p>
-<p>Actor 的地址本身也可以作为一条消息，或更复杂消息的一部分。</p>
-<p>存在一个用于接收消息的函数。该函数读取为调用方 Actor 排队等待的消息。</p>
-<p>可以获取当前 Actor 的地址。</p>
-<p>Actor 之间互不共享内存。</p>
-<p>一个 Actor 不会与自身并行运行。如果一个 Actor 当前正在线程 A 中运行，它就不能同时在线程 B 中运行。不过，Actor 从一个线程跳到另一个线程是完全可以的（就像在采用工作窃取算法的线程任务调度器中那样）。这与 Boost.Asio 中描述的 strand（串行执行机制）属性相同。</p>
-<p>对于 Emilua 来说，这种设计转化为了 3 个函数：</p>
-<p>只要学会这区区 3 个函数，你就能基于 Actor 模型进行编码。现在让我们看一些示例：</p>
-<p>如果我们决定将 Actor 模型用于沙箱化，那么每个进程就是一个 Actor。UNIX 域套接字（UNIX domain sockets）可用于 Actor 间的消息传递。派生出新的 Actor 时，我们会配置套接字继承，以便能与其进行通信。该套接字即为该 Actor 的地址。我们还需要能够在消息中包含其他 Actor 的地址，但这同样能够解决，因为通过 UNIX 域套接字发送文件描述符是可行的。收件箱（inbox）的文件描述符绝不会发送给其他 Actor（即我们拥有一个 MPSC / 多生产者单消费者通道）。</p>
-<p>Emilua 对 Actor 模型有多种实现，因此在派生新 Actor 时，我们必须显式指示其使用子进程：</p>
-<p>这种设计还解决了我们在沙箱方面关心的另一个问题：将资源移交给受限进程。“一切皆文件（描述符）”是 UNIX 文化中最广为人知的名言之一。如果我们能够发送文件描述符，那么沙箱化进程就能操作极其广泛的资源。仅举几例：</p>
-<p>设备节点（例如 /dev/random、GPU 通信等）。</p>
-<p>共享内存（memfd）。</p>
-<p>进程句柄 —— pidfd、procdesc。</p>
-<p>同步对象（例如 eventfd）。</p>
-<p>这些就是我们在沙箱化程序时所关心的资源。这些也是我们在开发安全模型时需要考量的资源。只要我们能证明自己没有向错误的 Actor 泄漏文件描述符，我们就可以使用 Actor 模型。幸运的是，有一个经过充分研究的模型为我们解决了这一问题：基于能力的安全（capability-based security）。甚至还有一种基于 Actor 模型和基于能力的安全的编程语言：Pony 编程语言。</p>
-<p>要将这两种模型结合起来，我们只需要填补一个小缺口：基于能力的安全假设令牌是不可伪造的，而 Actor 模型使用的是地址（地址是可伪造的）。在我们的场景中，通过使用通道（channel）代替地址，该问题已然迎刃而解。API 保持不变，使用者不会察觉到任何异样。现在我们可以利用“能力”来推导并思考如下问题：</p>
-<p>Actor A 是否有可能对资源 X 拥有有效访问权？</p>
-<p>我们该如何设计架构布局，从而使得任何沙箱化的 Actor 都不可能同时拥有对文件和套接字的访问权限？</p>
-<p>至于将文件描述符用作能力（capabilities），经验法则是尽量避免使用 ioctl，不过我们稍后会回到这个话题。</p>
-<p>Actor 模型使用起来很简单，但非常强大。能够在消息中包含其他 Actor 的地址意味着可以构建任意可变的拓扑结构。在我自己的大多数项目中，我通常只使用树状拓扑，但一旦树状结构不再适合我的项目，它也可以轻松被替换为其他拓扑。到目前为止，我还没碰到过任何无法用 Actor 建模的沙箱化应用程序。</p>
-<p>如果你需要关于如何利用 Actor 模型开发分布式应用程序的指导，你会受益于数十年来在这方面积累的大量研发成果。无论你偏好书籍、简短教程、面授课程、学习小组还是其他许多学习途径，你都很可能会找到有用的资料。</p>
-<p>既然我们已经通过 Actor 模型解决了通信问题，那么让我们再次回到沙箱化（安全模型）这一话题。一个对象要想被建模为“能力”（capability），还必须具备其他特性。能力不仅仅是对资源的引用，还包含关联的访问权限。拥有某项能力就等同于拥有执行相应操作的访问权限。明确了这一点，我们需要深入思考：</p>
-<p>文件描述符可以被建模为能力吗？</p>
-<p>将文件描述符用作能力时，我们必须采取哪些预防措施？</p>
-<p>通常情况下，UNIX 系统仅在创建新的文件描述符时执行权限检查以允许或拒绝访问，而在使用现有的文件描述符时则不检查。这种行为与基于权能（capabilities）的设计是兼容的。以下是一个示例程序的代码：</p>
-<p>以及当我以 root 身份运行该程序时的输出：</p>
-<p>以及当我以任何其他用户身份运行该程序时的输出：</p>
-<p>这正是前面提到的 UNIX 行为。现在让我们以 root 身份运行一些 shell 命令：</p>
-<p>以及以不同用户身份运行相同的命令：</p>
-<p>这里并没有什么令人意外的地方。完全是相同的行为模式。现在让我们以非特权用户身份运行 grep，但确保它继承了一个由 root 打开的文件描述符：</p>
-<p>正如前文所述，UNIX 系统在对现有文件描述符执行操作时通常不执行权限检查。这就是为什么在此示例中 grep 能够成功读取文件内容的原因。对于之前的示例（针对常规文件的 read 操作）确实如此，但这是否始终成立？我们可能会担心新版本的内核。它们随时可能引入打破这一约定的新系统调用。然而，在 UNIX 历史的早期就引入了 suid 二进制文件的概念，这一历史遗产将不断警示内核开发者，确保他们不打破这一约定。现在让我们来探究一下 suid 二进制文件。</p>
-<p>在上一个示例中，超级用户使用系统调用 setresuid 更改了进程凭据。现在我们将朝相反的方向进行：从非特权进程创建具有特权的子进程。这仅对 suid 二进制文件被允许，因此特权进程将始终只运行系统管理员信任的程序。su 就是其中一个这样的程序：</p>
-<p>该示例表明，我们可以通过简单的文件描述符（fd）继承，轻易诱骗 suid 二进制文件读取或写入我们拥有的任何文件描述符。在此示例中，它利用特权进程的凭据写入了字符串“Password: su: Authentication token manipulation error”。如果写入进程的凭据对系统安全有任何决定性影响，那么每个 UNIX 系统早就千疮百孔了。因此，新接口的设计始终遵循写入进程的凭据根本无关紧要的原则。</p>
-<p>再举一个近期的例子来进一步说明这一点：Linux 最近引入的某些系统调用与文件系统挂载有关。贡献的初始补丁集之所以被拒绝，是因为在操作中使用了系统调用 write，而该操作会利用调用进程的凭据进行权限检查。最终贡献者通过使用新的系统调用 fsconfig 更改了设计，补丁集才得以被接受。</p>
-<p>需要注意的是，无论我们的 Linux 发行版是否允许 suid 二进制文件，内核开发者都会遵守这一约定。即使我们在操作系统中完全阻止 suid 二进制文件，我们仍可以假定没有任何攻击者能够将我们的进程作为代理来执行危险的写入操作以获取新特权（攻击者本就可以直接写入该文件描述符，效果是完全一样的）。</p>
-<p>该规则的例外是 ioctl。对从不受信任的进程接收到的 fd 执行 ioctl 总是危险的。Emilua 依赖 Boost.Asio 进行异步 IO，而 Boost.Asio 过去曾错误地依赖 FIONBIO。在几封邮件交流后，我成功说服了 Christopher Kohlhoff 更改这一行为，现在只要你使用的 Boost 版本至少为 1.86，Boost.Asio 就会采取正确的处理方式。顺便提一句，即使是 isatty()——至少在 Linux 上——也是通过 ioctl 实现的，因此你确实需要对非标准操作保持谨慎。</p>
-<p>太棒了。我们确实可以将文件描述符建模为权能，但我们并不是最先得出这一结论的人。</p>
-<p>Capsicum 是一套用于更好地支持将文件描述符作为权能使用的接口，自 9.0 版本起成为 FreeBSD 的一部分。Capsicum 提供的设施之一是函数 cap_enter。cap_enter 通过完全禁用环境特权（ambient authority）来放弃进程权限。</p>
-<p>就是这样。只需一次函数调用，我们就放弃了权限。所有系统访问都必须通过打开的文件描述符进行。如果我们尚未拥有对某种资源的访问权限，现在获取它的唯一途径就是通过收件箱（inbox）。如果我们尝试打开文件，open 将会失败，因为环境特权已被禁用。如果我们尝试将套接字连接到某个端点，该操作将会失败</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-20 22:13 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://blog.emilua.org/2025/01/12/software-sandboxing-basics/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 ::::

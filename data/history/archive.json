@@ -1,5 +1,1579 @@
 [
   {
+    "timestamp": 1789953306685,
+    "timeDisplay": "2026-09-21 09:15 (UTC+8)",
+    "date": "2026-09-21",
+    "runId": "feed-20260921T011251433Z-yh7kio",
+    "generatedAt": "2026-09-21T01:15:06.685Z",
+    "hourlyBriefing": {
+      "title": "本小时全球动态简报",
+      "lead": "本小时内，全球外交、区域政治、地缘安全与金融市场出现多项动态。法国与加拿大领导人在圣皮埃尔和密克隆会晤，承诺加强双边联系以应对地缘局势及贸易摩擦；澳大利亚国内围绕燃油消费税削减与生活成本压力展开政党辩论；俄罗斯官方对乌克兰针对领空及无人机使用的言论作出回应；日本金融市场方面，日元兑美元跌破157关口，日经225指数上涨。",
+      "keySignals": [
+        {
+          "topic": "法加外交接触",
+          "signal": "法国与加拿大领导人在加拿大附近的大西洋法国领地圣皮埃尔和密克隆举行会晤，商讨加强与欧盟关系及应对美加贸易争端。",
+          "publishedAt": "2026-09-21T01:09:23.000Z"
+        },
+        {
+          "topic": "澳大利亚生活成本与能源政策辩论",
+          "signal": "澳大利亚影子能源部长Dan Tehan主张在高油价期间削减燃油消费税，并敦促阿尔巴尼斯政府正视民众面临的生活成本危机。",
+          "publishedAt": "2026-09-21T01:06:06.000Z"
+        },
+        {
+          "topic": "俄乌安全动态",
+          "signal": "俄罗斯外交部发言人扎哈罗娃就泽连斯基关于通过无人机行动影响俄领空安全的言论进行了回应。",
+          "publishedAt": "2026-09-21T01:03:16.000Z"
+        },
+        {
+          "topic": "日本金融资产异动",
+          "signal": "日元兑美元汇率跌破157，日本10年期国债收益率回落，日经225指数上涨1.5%。",
+          "publishedAt": "2026-09-21T01:02:25.000Z"
+        }
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-21",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】为何日本央行加息后市场走势反转常规剧本：周五，在日本央行将基准利率上调至31年来的最高水平后，日本市场的反应看似违背直觉。 加息通常会支撑一国货币、推高其债券收益率，并对其股市造成压力。然而，日本的货币、债券收益率和股票市场的表现却完全相反。 随着日本央行将政策利率上调至1.25%，日元兑美元跌破157关口，10年期日本国债收益率下滑，而日经225指数则上涨了1.5%。 此次加息使政策利率达到了1995年以来的最高水平，且距离上一次加息仅过去了三个月。 专家指出，日本央行审议；【undefined】DAPO：来自字节跳动Seed与清华大学AIR的开源强化学习系统：我们发布了一个完全开源的大规模大语言模型（LLM）强化学习（RL）系统，涵盖算法、代码基础设施以及数据集。该系统实现了最先进的大规模 LLM 强化学习性能。我们提出了“解耦截断与动态采样策略优化”（Decoupled Clip and Dynamic sAmpling Policy Optimization，简称 DAPO）算法。通过开源，我们为更广泛的研究界与社会提供了获取可扩展强化学习的切实途径，让所有人都能从这些进展中受益。我们的；【undefined】斯诺登档案究竟经历了什么：发布于 2026 年 9 月 20 日"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】帕特里克·克兰西亲述：悲痛父亲首次受访的核心要点：帕特里克·克兰西（Patrick Clancy）曾祈求哪怕只有一个孩子能活下来；他紧抱着小婴儿卡兰（Callan），看着他在自己怀中离世；他还透露了为什么在妻子琳赛（Lindsay）杀害了他们的三个孩子后，自己依然选择原谅她。；【undefined】古巴国家杜马选举投票结束：俄罗斯正在举行国家杜马选举的最后一天投票。 统一投票日（EDG）于9月18日启动，大部分投票站将于今日20:00结束投票。边境地区的部分投票站属例外情况——那里的投票时间有所缩短。 在这几天内，共举行了2200多场不同级别的竞选活动。俄罗斯人将选出2.07万名议员和行政长官。 在俄罗斯境内有超过1.11亿人拥有投票资格，在境外则有超过180万人。 观察员人数超过38万人，创下历史纪录。其中包括来自133个国家和13个国际组织的上千名外国；【undefined】德国两州举行州议会选举 现有执政联盟预计均失去多数：中新社柏林9月20日电 (记者 马秀秀)当地时间20日，德国梅克伦堡-前波美拉尼亚州(梅前州)和城市州柏林举行州议会选举。根据目前的议席推算，两州现有执政联盟均无法继续获得议会过半席位。"
+        },
+        {
+          "name": "🛡️ 军事防务安全",
+          "analysis": "【undefined】埃塞俄比亚武装组织结盟抗击政府：随着人们对埃塞俄比亚战事扩大的担忧日益加剧，曾经的死敌表示将消除分歧。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】确定性核心，非确定性外壳：十四年前，Gary Bernhardt 提出了“函数式核心，命令式外壳”（Functional Core, Imperative Shell）这一术语。如同计算机领域大多数优秀的理念一样，它并非完全崭新，但他的构想格外清晰，为探讨现有系统中的测试与确定性奠定了极佳的基础。；【undefined】快速哈希函数的对抗样本：通过统计测试并不能告诉你攻击者精心挑选的输入发生碰撞的频率，即使攻击者永远无法得知你的种子也是如此。；【undefined】Vim 中名为 UserGettingBored 的恶搞自动命令：简而言之：Vim 中有一个名为 UserGettingBored 的恶搞自动命令（autocmd），它实际上没有任何功能。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 78,
+      "completedTasks": 78,
+      "succeeded": 65,
+      "degraded": 13,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 78,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 135209,
+      "byRole": {
+        "translator": {
+          "attempts": 53,
+          "succeeded": 41,
+          "degraded": 12
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 78,
+          "succeeded": 65,
+          "degraded": 13
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-2-translator-0",
+      "article-4-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-17-translator-0",
+      "article-19-translator-2",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-40-translator-0",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.048Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.507Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.054Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.511Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.705Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.753Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.719Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.893Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.478Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.901Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.441Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.596Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:37.682Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.791Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.137Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.183Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.854Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.942Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.781Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.907Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.532Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.746Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.511Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.885Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.351Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.705Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.507Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.531Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:37.333Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.682Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.851Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.807Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:37.216Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.333Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.885Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.203Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.684Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.719Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.646Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.684Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.120Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.137Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:33.970Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.120Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.000Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.154Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.972Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.343Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.899Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.976Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.976Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.111Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.203Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.779Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.859Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.899Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:37.356Z",
+        "lastSuccessAt": "2026-09-21T01:12:38.944Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.044Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.122Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.304Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.397Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.245Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.274Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.397Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.851Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:37.596Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.738Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.738Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.781Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.893Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.441Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.955Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.044Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.343Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.647Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.154Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.478Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-21T01:12:36.122Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:33.968Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.646Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-21T01:12:36.274Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:33.969Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.972Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.539Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.797Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.942Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.000Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.183Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.351Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.111Z",
+        "lastSuccessAt": "2026-09-21T01:12:36.539Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.907Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.955Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.647Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.216Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:36.779Z",
+        "lastSuccessAt": "2026-09-21T01:12:37.356Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.753Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.859Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:35.746Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.854Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:33.957Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.048Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:33.967Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.054Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-21T01:12:33.967Z",
+        "lastSuccessAt": "2026-09-21T01:12:35.738Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-aramount-2119134912-html-be54499364104c74",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Paramount обяжут платить за не вышедшие в кинотеатрах фильмы, пишут СМИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-21T01:11:31.000Z",
+        "pubTime": "2026-09-21 09:11",
+        "url": "https://ria.ru/20260921/paramount-2119134912.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/02/08/1850551556_0:207:3076:1937_650x0_80_0_0_7c4d4cba1a80bec47effc3c698e53e38.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 09:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/paramount-2119134912.html",
+            "publishedAt": "2026-09-21T01:11:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-c0ee2b91947fae50",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amiga Unix, Again",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:57:10.000Z",
+        "pubTime": "2026-09-21 07:57",
+        "url": "https://amigaux.org/",
+        "imageUrl": null,
+        "fullContent": "Year of the Amiga Unix Desktop 2026\n\nAmiga Unix — Amix — was Commodore's System V Release 4 for the Amiga: shipped in 1990–92 for the A2500UX and A3000UX, then left where it stood. amigaux.org is an unofficial community project that picks it up again: Amix on 68040 and 68060 machines and on today's accelerator hardware, with a modern toolchain, a package manager, and drivers for cards that never had any. The work is done in the open, and written down as it happens in the grimoire.\n\nBy asokero, isoriano1968 and jusii.\n\nThe install medium boots from floppy and CD-ROM on real hardware — floppy image and ISO under emulation — and takes care of the whole installation, interactively or unattended. With supported hardware, getting Amix onto a machine comes down to following the prompts. The classic tape install follows later.\n\nFrom there the network takes over: apkg installs packages straight from pkg.amigaux.org — grep, gzip, less, patch and zlib to start with, and more GNU and BSD tools as they are built and tested.\n\nPart of this work is done with generative AI in the loop — models reading the old kernels in binary, as no source is available, and writing drivers and notes — with people setting direction, reviewing every change and testing on real hardware, where it either boots or it doesn't. Other parts are done the classic way. The grimoire records both, confidence-tagged, so you can see what is verified and what is still a guess.\n\nSat 19 Sep 2026, 17:00 · Amiga Unix 68040/68060 launch · Saku 2026, Oulun Tetra, Oulu, Finland\n\nFull launch — packages, source, instructions, manuals — after Saku.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Amiga Unix (Amix) 是 Commodore 为 Amiga 打造的 System V Release 4 系统，于 1990 至 1992 年间面向 A2500UX 和 A3000UX 发货。",
+          "amigaux.org 是一个非官方社区项目，旨在让 Amix 运行在 68040 和 68060 架构机器及现代加速卡硬件上，配备现代工具链、包管理器以及新驱动程序。",
+          "来源叙事重点：宣布非官方社区项目成功重启 1990 年代中断的 Amiga Unix (Amix)，重点展示其对现代加速卡与 68040/68060 硬件的适配、包管理器与自动化安装支持，并突显利用生成式 AI 逆向二进制内核辅助开发的技术路径"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T23:57:10.000Z",
+            "url": "https://amigaux.org/"
+          }
+        ]
+      },
+      {
+        "id": "story-ond-yields-yen-fall-html-5172953fd281c415",
+        "title": "为何日本央行加息后市场走势反转常规剧本",
+        "originalTitle": "Why Japan’s markets flipped the usual script after central bank rate hike",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-21T01:02:25.000Z",
+        "pubTime": "2026-09-21 09:02",
+        "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+        "imageUrl": null,
+        "fullContent": "Japanese markets reacted in a seemingly counterintuitive fashion on Friday after the country's central bank hiked benchmark interest rates to their highest in 31 years.\n\nInterest-rate increases ordinarily support a country's currency, push up its bond yields, and put pressure on its stock market. Japan's currency, bond yields, and stock market did exactly the opposite.\n\nThe yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5% as the BOJ raised its policy rate to 1.25%.\n\nThe hike brought the policy rate to its highest level since 1995, and came just three months after its previous increase.\n\nExperts pointed to the split decision by the BOJ's board, as the reason for the uncharacteristic market reaction, as it indicated that the bank might not take a too hawkish stance.\n\n\"The two dissenting votes in favor of keeping rates unchanged came as a surprise,\" said Hirofumi Suzuki, chief FX strategist at Japanese bank Sumitomo Mitsui Banking Corporation.\n\nThe decision to hike was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the verdict.\n\nAsada noted that as the core inflation rate was below 2%, the economic situation might not be strong, and advocated for holding rates steady. Core inflation for August in Japan stood at 1.7%, down from 1.8% in July.\n\nSato also said current economic and price developments did not appear to have substantially accelerated compared to before.\n\nThe reaction of the market also stems from the fact that this hike also took place without an updated outlook report, which limited the BOJ's ability to reinforce a hawkish message through revised forecasts, according to Masahiko Loo, senior fixed income strategist at State Street Investment Management.\n\nHis view was also echoed by Shigeto Nagai, head of Japan economics at Oxford Economics. Nagai told CNBC's \"Access Middle East\" that the two dissenters signaled that Prime Minister Sanae Takaichi was not convinced to accede to the U.S.' request for faster and more rate hikes.\n\nReuters reported Friday that U.S. Treasury Secretary Scott Bessent had stressed on the need for higher BOJ rates in his meeting with Japanese Finance Minister Satsuki Katayama in May.\n\n\"Secondly, if we look at the statement, all the phrases and the tone was almost similar to what we saw in the quarterly outlook report published in July, so the tone was less hawkish than financial markets had hoped for,\" he added.\n\nExperts believe that another hike, likely in December, is on the table.\n\nState Street's Loo said he expects BOJ Governor Kazuo Ueda to emphasize that every forthcoming meeting remains \"live.\"\n\n\"The debate is no longer whether the BOJ hikes, but how far rates ultimately go,\" he added.\n\nThe BOJ said it would continue raising rates as economic and price conditions develop. But it also acknowledged that growth was likely to decelerate due to high oil prices stemming from the Middle East conflict.\n\nSam Jochim, economist at EFG International, said rates could rise roughly once every three months as underlying inflation approaches 2%. He expects a terminal rate — expected peak level — between 1.75% and 2% in 2027.\n\nThe BOJ has not forecast a terminal rate, instead it has maintained that the bank will conduct monetary policy \"as appropriate\" to stabilize underlying inflation at around its 2% target.\n\nStefan Angrick, head of Asia-Pacific economics at Moody's Analytics, expects another increase around the turn of the year, but said weak demand-driven inflation and disappointing real-wage growth would limit subsequent moves.— CNBC's Lisa Kim contributed to this report\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "周五，在日本央行将基准利率上调至31年来的最高水平后，日本市场的反应看似违背直觉。\n加息通常会支撑一国货币、推高其债券收益率，并对其股市造成压力。然而，日本的货币、债券收益率和股票市场的表现却完全相反。\n随着日本央行将政策利率上调至1.25%，日元兑美元跌破157关口，10年期日本国债收益率下滑，而日经225指数则上涨了1.5%。\n此次加息使政策利率达到了1995年以来的最高水平，且距离上一次加息仅过去了三个月。\n专家指出，日本央行审议委员会的分歧决定是导致这一反常市场反应的原因，因为这表明央行可能不会采取过于鹰派的立场。\n三井住友银行（Sumitomo Mitsui Banking Corporation）首席外汇策略师铃木浩史（Hirofumi Suzuki）表示：“赞成维持利率不变的两张反对票出乎意料。”\n加息决定是以7比2的表决结果通过的，审议委员浅田统一郎（Toichiro Asada）和佐藤绫野（Ayano Sato）对该决定持有异议。\n浅田指出，由于核心通胀率低于2%，经济形势可能并不强劲，因此主张维持利率稳定。日本8月份的核心通胀率为1.7%，低于7月份的1.8%。\n佐藤也表示，与以往相比，当前的经济和物价发展态势似乎并没有显著加速。\n道富投资管理（State Street Investment Management）高级固定收益策略师卢正彦（Masahiko Loo）认为，市场的反应还源于此次加息是在没有发布更新版经济展望报告的情况下进行的，这限制了日本央行通过调整预测数据来强化鹰派信息的能力。\n牛津经济研究院（Oxford Economics）日本经济主管永井繁人（Shigeto Nagai）也表达了类似的看法。永井在接受CNBC《直通中东》（Access Middle East）节目采访时表示，两名反对者传递出的信号表明，首相高市早苗并未被说服去顺应美国关于加快和加大加息力度的要求。\n路透社周五报道称，美国财长斯科特·贝森特（Scott Bessent）在5月与日本财务大臣片山皋月（Satsuki Katayama）会晤时，曾强调日本央行提高利率的必要性。\n他补充道：“其次，如果我们审视这份声明，所有的表述和基调与我们在7月份发布的季度展望报告中看到的几乎一致，因此其鹰派程度不及金融市场的预期。”\n专家认为，另一次加息（可能在12月）已提上日程。\n道富银行的卢正彦表示，他预计日本央行行长植田和男（Kazuo Ueda）将强调未来的每一次会议都保持“实时评估”（live）。\n他补充称：“争论的焦点不再是日本央行是否加息，而是利率最终会达到多高。”\n日本央行表示，随着经济和物价状况的发展，将继续提高利率。但它同时也承认，由于中东冲突导致的高油价，经济增长可能会放缓。\n瑞士盈丰银行（EFG International）经济学家萨姆·乔希姆（Sam Jochim）表示，随着基础通胀率接近2%，利率可能大约每三个月上调一次。他预计到2027年终点利率（预期峰值水平）将在1.75%至2%之间。\n日本央行尚未对终点利率进行预测，而是坚称央行将“视情况适时”实施货币政策，以将基础通胀稳定在2%左右的目标水平。\n穆迪分析（Moody's Analytics）亚太区经济主管斯特凡·昂格里克（Stefan Angrick）预计年底前后将再次加息，但他表示，需求驱动型通胀疲软和实际工资增长令人失望将限制后续举措。——CNBC记者Lisa Kim对此报道亦有贡献。\n您有保密新闻线索吗？我们期待收到您的消息。\n将此内容订阅至您的收件箱，并获取有关我们产品和服务的更多信息。\n数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票行情以及市场数据与分析。\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "日本央行将政策利率上调至1.25%，创下自1995年以来的最高水平（31年来新高），距离上一次加息仅相隔三个月。",
+          "加息决议公布后，日元兑美元汇率跌破157，日本10年期国债收益率下滑，日经225指数上涨1.5%。",
+          "来源叙事重点：解释日本央行加息后金融市场出现日元贬值、债收益率下降、股市上涨的“反常反应”，重点聚焦日本央行内部投票分歧（7-2决议）以及基调不及预期鹰派，并引入美日政治互动与外部经济阻力进行成因剖析。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-21T01:02:25.000Z",
+            "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html"
+          }
+        ]
+      },
+      {
+        "id": "story-stem-to-freeze-games-and-9b92391d3a6fbc02",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft patents system to freeze games and inject ads during downtimes — watching commercials earns ad-free playtime credits",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-21T00:05:34.000Z",
+        "pubTime": "2026-09-21 08:05",
+        "url": "https://www.reddit.com/r/technology/comments/1wlx6jt/microsoft_patents_system_to_freeze_games_and/",
+        "imageUrl": "https://external-preview.redd.it/tMftvOg64NWncDBJQviRjyPoei0AFt4rhLWfJNvXstc.png?width=640&crop=smart&auto=webp&s=9e43eaa75de909c2187324bd7ffa5908026d0608",
+        "fullContent": "submitted by /u/CoreClock [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-21 08:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wlx6jt/microsoft_patents_system_to_freeze_games_and/",
+            "publishedAt": "2026-09-21T00:05:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-icultural-flavorful-html-a6798abc66cde70b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "British food was complex, multicultural and flavorful in the 18th century—despite what you might think",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-21T00:30:04.000Z",
+        "pubTime": "2026-09-21 08:30",
+        "url": "https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/painting-of-fruit-and.jpg",
+        "fullContent": "The stereotype of bland British food is notorious, and people mock the horrors of jellied eels and overcooked vegetables. Even roast beef and pudding are seen as uninspired compared with the cuisines of other nations. But British food is and has historically been complex, multicultural and flavorful.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-21 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html",
+            "publishedAt": "2026-09-21T00:30:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--eu-europe-macron-carney-a64709b6d51ba416",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-21T01:09:23.000Z",
+        "pubTime": "2026-09-21 09:09",
+        "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+        "imageUrl": "https://i.guim.co.uk/img/media/e17b0612a5744746012a384b1cea80afef14af1b/394_0_4938_3951/master/4938.jpg?width=140&quality=85&auto=format&fit=max&s=0c15df24dbba8dee534a90375fb86614",
+        "fullContent": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US\n\nThe leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate change and the erosion of democratic values, after ⁠they met in a ⁠French territory off Canada’s Atlantic coast.\n\nThe two leaders’ visit to Saint-Pierre ​and Miquelon – the first by a French president since 2014 and the first by a Canadian prime minister – came just weeks ⁠after Donald Trump posted an image showing the islands, as well as all of Canada and other countries in North America, covered by the US flag.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "法国和加拿大领导人在加拿大海岸附近的大西洋法国属地圣皮埃尔和密克隆举行会晤，承诺加强双边关系以应对地缘政治紧张局势、气候变化和民主价值观受损问题。",
+          "此次对圣皮埃尔和密克隆的访问是自2014年以来法国总统的首次访问，也是加拿大总理的首次访问。",
+          "来源叙事重点：聚焦法加两国领导人在大西洋法属岛屿罕见会晤，重点框定在特朗普地缘政治言行与美加贸易摩擦的背景下，两国通过深化双边及加欧合作来共同抵御地缘风险与捍卫民主价值观的战略意图。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-21T01:09:23.000Z",
+            "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
+          }
+        ]
+      },
+      {
+        "id": "story-bytedtsinghua-sia-dapo-966ba72f961355d2",
+        "title": "DAPO：来自字节跳动Seed与清华大学AIR的开源强化学习系统",
+        "originalTitle": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:19:04.000Z",
+        "pubTime": "2026-09-21 07:19",
+        "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+        "imageUrl": null,
+        "fullContent": "We release a fully open-sourced system for large-scale LLM RL, including algorithm, code infrastructure, and dataset. The system achieves state-of-the-art large-scale LLM RL performance. We propose the Decoupled Clip and Dynamic sAmpling Policy Optimization (DAPO) algorithm. Through open-sourcing, we provide the broader research community and society with practical access to scalable reinforcement learning, enabling all to benefit from these advancements. Our system is based on the awesome verl framework. Thanks for their great work!\n\n🤗 If you have any questions about our paper, issues are welcomed and we could discuss there. Thank you!\n\n🚀 DAPO achieves 50 points on AIME 2024 based on the Qwen2.5-32B base model, outperforming the previous SoTA DeepSeek-R1-Zero-Qwen-32B with 50% training steps.\n\nLength stability and growth: The steady increase in response length allows for greater exploration, facilitating the model’s ability to learn more complex reasoning behaviors, ultimately contributing to training stability and performance improvement.\n\nReward score stability: A stable increase in the reward signal indicates that the model is successfully fitting the training distribution, ensuring that the learning process remains robust and consistent without significant fluctuations.\n\nEntropy and mean probability trend: A controlled increase in entropy, after an initial decrease, ensures a healthy balance between exploration and exploitation, avoiding issues such as overfitting or excessive randomness, and promoting sustained model performance.\n\nWe provide the model weights of DAPO-Qwen-32B, which is trained based on Qwen2.5-32B using the DAPO algorithm.\n\nWe recommend using conda to setup the environment:\n\nWe provide the model inference code here:\n\nTo evaluate the model on AIME 2024, we deploy DAPO-Qwen-32B with Ray Serve and vLLM.\n\nTo load the model from Huggingface:\n\nTo load the model from local path:\n\nTo benefit the broader research community, we fully open-source the recipe of our RL training, including algorithm details, dataset, and infrastructures.\n\nWe provide training and validation datasets for DAPO training.\n\nTraining: DAPO-Math-17k, a carefully curated and processed math dataset. Validation: AIME 2024.\n\nWe provide the out-of-the-box script for DAPO training reproduction. Quickstart and core code are mentioned in README. These are scripts for:\n\nThe DAPO w/o Token-level PG Loss & Dynamic Sampling -- AIME 44 script has been verified on the current verl and achieves 44 points on AIME 2024, whose training record can be accessed in wandb.\n\nThe DAPO Full -- AIME 50 script has also been validated on the latest verl version. It scores 50 points on AIME 2024. You can view the corresponding training record on wandb.\n\nWe thank the verl for providing the awesome open-source RL infrastructure.\n\nOur open-sourced experiments were conducted on the Volcano Engine Machine Learning Platform. We will provide a full reproduction guideline later on the Volcano Engine platform to help users replicate our experiments.\n\nAn Open-source RL System from ByteDance Seed and Tsinghua AIR",
+        "fullTranslation": "我们发布了一个完全开源的大规模大语言模型（LLM）强化学习（RL）系统，涵盖算法、代码基础设施以及数据集。该系统实现了最先进的大规模 LLM 强化学习性能。我们提出了“解耦截断与动态采样策略优化”（Decoupled Clip and Dynamic sAmpling Policy Optimization，简称 DAPO）算法。通过开源，我们为更广泛的研究界与社会提供了获取可扩展强化学习的切实途径，让所有人都能从这些进展中受益。我们的系统基于优秀的 verl 框架构建。感谢他们的出色工作！\n\n🤗 如果您对我们的论文有任何疑问，欢迎提交 Issue，我们可以在那里进行讨论。谢谢！\n\n🚀 基于 Qwen2.5-32B 基础模型，DAPO 在 AIME 2024 上取得了 50 分的成绩，仅用 50% 的训练步数就超越了先前的 SoTA 模型 DeepSeek-R1-Zero-Qwen-32B。\n\n长度稳定性与增长：响应长度的平稳增加带来了更大程度的探索，有助于模型学习更复杂的推理行为，最终促进了训练稳定性和性能提升。\n\n奖励得分稳定性：奖励信号的平稳上升表明模型正在成功拟合训练分布，确保学习过程在没有显著波动的情况下保持稳健与一致。\n\n熵与平均概率趋势：在最初下降后，熵的可控上升确保了探索与利用之间的良好平衡，避免了过拟合或过度随机等问题，并促进了模型性能的持续提升。\n\n我们提供了 DAPO-Qwen-32B 的模型权重，该模型基于 Qwen2.5-32B 并采用 DAPO 算法训练而成。\n\n我们建议使用 conda 来配置环境：\n\n我们在此处提供模型推理代码：\n\n为了在 AIME 2024 上评估该模型，我们使用 Ray Serve 和 vLLM 部署了 DAPO-Qwen-32B。\n\n从 Huggingface 加载模型：\n\n从本地路径加载模型：\n\n为造福更广泛的研究社区，我们完全开源了我们强化学习训练的全套方案，包括算法细节、数据集和基础设施。\n\n我们为 DAPO 训练提供了训练与验证数据集。\n\n训练集：DAPO-Math-17k，一个经过精心策划和处理的数学数据集。验证集：AIME 2024。\n\n我们提供了用于 DAPO 训练复现的开箱即用脚本。快速入门和核心代码已在 README 中说明。以下是相关脚本：\n\n“DAPO 无 Token 级 PG 损失与动态采样 —— AIME 44”（DAPO w/o Token-level PG Loss & Dynamic Sampling -- AIME 44）脚本已在当前的 verl 上通过验证，并在 AIME 2024 上取得了 44 分，其训练记录可在 wandb 中查看。\n\n“DAPO 完整版 —— AIME 50”（DAPO Full -- AIME 50）脚本也已在最新的 verl 版本上得到验证。它在 AIME 2024 上获得了 50 分。您可以在 wandb 上查看相应的训练记录。\n\n我们感谢 verl 团队提供了出色的开源强化学习基础设施。\n\n我们的开源实验是在火山引擎机器学习平台上进行的。后续我们将在火山引擎平台上提供完整的复现指南，以帮助用户复现我们的实验。\n\n来自字节跳动Seed与清华大学AIR的开源强化学习系统",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "ByteDance Seed 与 Tsinghua AIR 联合开源了一个大规模大语言模型强化学习系统 DAPO（Decoupled Clip and Dynamic sAmpling Policy Optimization），涵盖算法、代码基础设施与数据集。",
+          "DAPO 系统基于 verl 开源强化学习框架构建。",
+          "来源叙事重点：宣传全新开源的LLM大规模强化学习系统DAPO，突出其在AIME 2024基准测试上以更少训练步数超越前SOTA模型（DeepSeek-R1-Zero-Qwen-32B）的优异性能，并强调算法创新、完整开源方案（代码、权重、数据集）及火山引擎生态支持"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T23:19:04.000Z",
+            "url": "https://github.com/BytedTsinghua-SIA/DAPO"
+          }
+        ]
+      },
+      {
+        "id": "story--deep-spending-cuts-html-04534d25ea98aea6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:00:00.000Z",
+        "pubTime": "2026-09-21 07:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html",
+        "imageUrl": null,
+        "fullContent": "Some of the world's largest oil and gas companies have adopted a new modus operandi ever since the historic oil price crash of 2020 devastated energy companies, prioritizing returning more cash to shareholders while expansion plans have been put on the back burner. Indeed, over the past five years, Exxon Mobil NYSEXOM, Chevron NYSECVX, British Petroleum NYSEBP, Shell NYSESHEL and TotalEnergies NYSETTE have collectively spent more than $100 billion annually in dividends and buybacks, good for nearly 80% of their earnings. Hardly surprisingly, these companies have little left over to spend, President Trump's \"Drill, baby, drill\" rallying cry notwithstanding EY has reported that capital expenditure capex by the United States' 30 largest publicly traded exploration and production E&P companies fell 49% Y/Y in 2025, with exploration spending falling 11% to $4.8 billion, good for a mere 3% of total capital expenditures across the group. The 30 companies represent 43% of total U.S. oil and gas production. Meanwhile, money spent on acquisitions fell 70% as the previous consolidation wave lost steam. But here's the kicker oil production by the group hit an all-time high in 2025 while revenue increased 7%, implying that spending less on drilling has hardly hurt their bottomlines. \"One of the clearest signals in this year's study is that oil production and reserve replacement are moving in different directions,\" said EY's Matt Melnar. \"Reserve replacement metrics alone no longer tell the full story. Producers are engaged in a balancing act between production goals, shareholder returns, and long-term portfolio resilience as they make investment decisions.\" Related Big Oil companies have successfully increased production volumes despite falling capex thanks to a combination of drilling efficiency gains, technological advancements as well as a strategic shift toward shorter-cycle, high-return assets. Historically, higher production required a linear increase in spending to drill new wells. However, shale oil companies are drilling longer, horizontal wells that sometimes extend three miles or more, allowing a single surface rig to tap more oil-bearing rock. Completing multiple wells simultaneously slashes execution times and service contract costs. Additionally, operators are increasingly deploying AI, machine learning and predictive analytics to maximize production efficiency, cut operating costs and extend the lifespan of oil and gas wells. Deep learning models process large 3D and 4D seismic datasets, combining them with historical drilling logs to map out high-permeability zones with higher precision. Predictive analytics evaluate past completion data to determine the volume of proppant required, fluid and pressure needed to fracture a specific sweet spot, ensuring maximum estimated ultimate recovery EUR. Meanwhile, AI-driven geosteering systems analyze real-time rock properties at the drill bit, automatically adjusting the trajectory to maximize yields. When drilling for natural gas, AI systems are used to continuously adjust gas injection rates through surface and downhole valves thus ensuring the optimal liquid-to-gas ratio is achieved. The U.S. shale boom broke the old model. For decades, oil production growth meant long, expensive offshore or mega field projects that took years to pay off. Shale flipped that wells get drilled, fracked, and pumping oil within months. With demand set to plateau and geopolitics this unstable, a 10-year infrastructure bet is a much riskier bet than a short one; operators would rather earn their money back fast than risk getting stuck with assets nobody wants once demand or policy shifts under them. However, Big Oil cannot continue cutting capex indefinitely. Some oil assets such as Exxon Mobil's deepwater projects in Guyana require heavy upfront investments but significantly less additional capital to keep going. Others have been leaning heavily on their inventories of Drilled but Uncompleted DUC wells to keep production up without spending more on new wells. Back in May, the U.S. Energy Information Administration EIA revealed that the total U.S. DUC inventory dipped to approximately 4,972 wells, marking the lowest level since the agency began tracking the metric in 2013. This also marked 14 consecutive months of decline in the DUC count. Faced with periods of weaker oil prices, producers chose to complete previously drilled wells rather than deploy new rigs, which makes economic sense since completing an existing DUC historically costs around $5 million to $6 million, compared to $8 million to $10 million required to drill and complete a new well from scratch. However, this has come at a cost EY reported that Big Oil's oil reserve additions from discoveries and extensions declined 11% year over year, failing to fully replace production volumes for the first time in five years. This implies that U.S. shale producers have less flexibility to quickly ramp up output during sudden global supply crunches or oil price spikes. Thankfully, American energy operators are still spending heavily on natural gas production natural gas reserves increased by 14% Y/Y while discoveries increased by 21%, surpassing production's 18% Y/Y growth clip with reserve revisions turning positive for the first time in five years. \"As energy security, industrial competitiveness and AI-related infrastructure investment continue to shape energy markets, US natural gas is increasingly positioned at the center of several of the industry's most significant demand trends,\" EY's Patrick Jelinek said. \"The strength we're seeing in gas reserves, discoveries and revisions suggests producers are recognizing the opportunity and positioning for a future where natural gas plays an increasingly strategic role in the energy system.\" By Alex Kimani for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "过去五年中，埃克森美孚、雪佛龙、英国石油、壳牌和道达尔能源每年在股息和股票回购上的总支出超过1000亿美元，占其收益的近80%。",
+          "安永（EY）报告显示，美国最大的30家上市油气勘探和生产公司2025年资本支出同比下降49%，其中勘探支出下降11%至48亿美元，仅占总资本支出的3%。",
+          "来源叙事重点：探讨国际油气巨头及美国页岩油企在大幅削减资本支出（Capex）和转向股东回报的背景下，如何通过技术创新（AI/水平钻井）与消耗DUC库存维持产量新高；同时揭示这种“少花钱、多产油”模式背后的隐忧，即储量替代率下滑与未来供应弹性下降，并强调天然气在AI基础设施与能源安全中的战略转向。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html"
+          }
+        ]
+      },
+      {
+        "id": "story--canceled-physint-over-a-457357d6f1e96af6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hideo Kojima Says Sony Canceled Physint Over A Zoom Call And Claims He Still Doesn’t Know The Reason Why",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:20:32.000Z",
+        "pubTime": "2026-09-21 07:20",
+        "url": "https://www.reddit.com/r/technology/comments/1wlw5jf/hideo_kojima_says_sony_canceled_physint_over_a/",
+        "imageUrl": "https://external-preview.redd.it/HiRY9hD7mO22ULRfLRM7k2hh-BBFnNBTSq88NfvGh7k.jpeg?width=640&crop=smart&auto=webp&s=1b7d0f74e2b99431fcb59d44d309429f7a6aec9a",
+        "fullContent": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-21 07:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wlw5jf/hideo_kojima_says_sony_canceled_physint_over_a/",
+            "publishedAt": "2026-09-20T23:20:32.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-aled-europe-largest-html-714a2f8b5e552033",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "'Rusty treasure' find revealed as Europe's largest assemblage of prehistoric iron bars",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:00:02.000Z",
+        "pubTime": "2026-09-21 07:00",
+        "url": "https://phys.org/news/2026-09-rusty-treasure-revealed-europe-largest.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-gravel-pit-in-dein.jpg",
+        "fullContent": "Analysis of a \"rusty treasure\" excavated during industrial gravel extraction at Deinham, Austria, reveals it is the largest mass find of prehistoric iron bars in Europe, pointing to iron production and trade during the Iron Age on an unprecedented scale.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-21 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-rusty-treasure-revealed-europe-largest.html",
+            "publishedAt": "2026-09-20T23:00:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1-snegir-2119134729-html-0c011be3ac7c98a9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Биолог рассказал, когда снегири прилетят в Москву",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-21T01:09:06.000Z",
+        "pubTime": "2026-09-21 09:09",
+        "url": "https://ria.ru/20260921/snegir-2119134729.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/01/0b/1844156099_0:203:2439:1575_650x0_80_0_0_6d00e80d00e2b41216fe9922fb8ee663.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 09:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/snegir-2119134729.html",
+            "publishedAt": "2026-09-21T01:09:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-to-the-snowden-archive-c4a0bb14aa5005b6",
+        "title": "斯诺登档案究竟经历了什么",
+        "originalTitle": "What happened to the Snowden archive",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T22:35:49.000Z",
+        "pubTime": "2026-09-21 06:35",
+        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "imageUrl": null,
+        "fullContent": "Published on 20 Sept 2026\n\nThe last document from the Snowden archive was published on 29 May 2019. The Guardian stopped publishing documents in February 2014, Der Spiegel in January 2015, and The New York Times and ProPublica in August 2015. After that, only The Intercept was still publishing documents, with only a few exceptions, until it closed its archive in March 2019. Eleven weeks later, on 29 May 2019, it released what would become the final batch of documents from the archive. Since then, no news outlet, journalist, or institution anywhere has published a single document from the Snowden archive.\n\nSnowden started reaching out to journalists months before having any material to share. In December 2012, he contacted Guardian columnist and former attorney Glenn Greenwald, requesting that he set up a secure communication channel, though Greenwald didn't know how to do so.[1] After a second attempt in January failed to make progress, Snowden shifted his focus to Laura Poitras, an American documentary filmmaker. Poitras then teamed up with an investigative journalist Barton Gellman.[1]\n\nSnowden shared the archive gradually. On 31 March 2013 he sent Poitras a link to an encrypted file called astro_noise,[2] which she downloaded and filmed herself doing so, but had no key to open it.[3] On 10 May Snowden posted a box from Hawaii to a Brooklyn address he had asked her to supply. It went to Jessica Bruder, a journalist who had agreed to receive a package without being told what it was, and who passed it unopened to Dale Maharidge, and then Maharidge handed it to Poitras on 15 May.\n\nOn 21 May 2013 Snowden sent Poitras and Gellman the keys to an encrypted archive called Pandora containing about 50,000 documents.[4][5][1]\n\nAt some point in late May, Snowden warned Poitras about what he called a \"single point of failure,\" and urged her to get copies of the material into other hands. She distributed three. One went to Trevor Timm of the Freedom of the Press Foundation, with a note asking him to hold the material and not to give it to anyone but Greenwald, and only if Greenwald asked in person. One went to a person who has asked not to be identified. The third went to someone who remains unknown. Maharidge kept a copy himself, saying in 2017 that he still had it.[6] Aside from Poitras, Gellman, and Greenwald, it's unclear whether the others holding copies can actually read the documents, since the copies are likely encrypted and they may not have the key.\n\nGreenwald received the Pandora copy from Poitras on 1 June 2013, on the way to the airport,[1] and read it for the first time on the flight to Hong Kong.[7] The Guardian journalist Ewen MacAskill was handed the GCHQ material in Hong Kong,[1] and brought it to the Guardian's London office.[8] Der Spiegel obtained their archive from Poitras in that summer.[9] The New York Times and ProPublica got theirs from the Guardian.[10][11]\n\nGreenwald said in 13 March 2019 that he and Poitras \"individually and independently, continue to possess full copies of the archive, as do other individuals and institutions.\"[12]\n\nPoitras said in 2022 that the archive \"still exists, and there is still more to report,\" describing \"a vast amount of information that hasn't been reported of enormous contemporary and historical significance.\" Greenwald said in 2023 that the archive runs to \"hundreds of thousands of documents, if not more.\" But neither has published anything from it in seven years, and neither has explained why.\n\nSnowden gave a large portion of the archive to the Scottish journalist Ewen MacAskill in Hong Kong, containing \"tens of thousands of documents.\" In Citizenfour, Snowden is filmed handing GCHQ material to MacAskill in the Hong Kong hotel room. Snowden describes it as coming from the agency's internal wiki — \"at the top secret, you know, super classified level, where anybody working intelligence can work on anything they want\" — and adds: \"That's what this is. I'm giving it to you. You can make the decision on that, what's appropriate, what's not.\" MacAskill brought his copy to the Guardian's London office.[8] The Guardian later stated that their archive contained around 58,000 documents.\n\nThe Guardian published its first Snowden story with a document from the archive on 6 June 2013. The following day, UK defence officials issued a confidential D notice to every major British media outlet \"in an attempt to censor coverage of surveillance tactics employed by intelligence agencies in the UK and US.\"\n\nThe DPBAC committee (the Defence, Press and Broadcasting Advisory Committee) issuing D notices runs what was then called the DA-Notice system, a voluntary arrangement dating to 1912, under which news organisations consult the Ministry of Defence before publishing material touching national security. In 2013, the serving secretary was Air Vice-Marshal Andrew Vallance.\n\nThe D Notice was issued to a press already inclined to cooperate. Reviewing the academic literature in 2018, Vian Bakir and Andrew McStay from Bangor University noted that:\n\nAccording to Bakir and McStay the alignment was close to uniform. The Daily Mail, Mirror, Star, Telegraph, Sun and Times were coded pro-surveillance. Only the Independent, the i and the People leaned the other way. The Guardian and the Express were balanced. What that meant in practice, they write, was that \"citizens' privacy rights and surveillance regulation were minimally discussed, while mass surveillance was normalised by suggesting that it is necessary for national security.\" Prominent press themes \"were that social media companies should do more to fight terrorism, and that while surveillance of politicians is problematic, surveillance of the public should be increased.\"\n\nThe Daily Mail – which published more articles on Snowden than any other British outlet besides the Guardian – is a prime example of this trend. In the six months following the initial leak, the outlet concentrated on Snowden's \"lavish lifestyle on the run and his sexual appeal.\" As Bakir and McStay note, these tactics appeared designed to discredit or draw attention away from the GCHQ revelations he exposed.\n\nFollowing pressure from Downing Street and Cabinet Secretary Jeremy Heywood, three Guardian executives destroyed the computers holding their London-based archive in a basement on 20 July 2013, six weeks after their first Snowden story. Two GCHQ technicians supervised the destruction. The paper kept the action secret[11][13], only making it public a month later on August 19.\n\nPaul Johnson, then deputy editor of the Guardian and one of the three who destroyed the computers, later called the destruction \"purely a symbolic act\", because the government knew \"that the material had been taken to the US to be shared with the New York Times. The reporting would go on. The episode hadn't changed anything.\"\n\nThe DPBAC committee's own minutes record something happening in the same weeks. Vallance told that \"at the outset the Guardian had avoided engaging with the DA-Notice system before publishing the first tranche\", that as a member of the Newspaper Publishers Association it \"was obliged to seek (but not necessarily to accept) DA Notice advice under the terms of the DA Notice code,\" and that this failure \"was a key source of concern and considerable efforts had been made to address it.\" Towards the end of July 2013, he said, the Guardian \"had begun to seek and accept DA Notice advice not to publish certain highly sensitive details.\"\n\nThe Guardian's then editor-in-chief Alan Rusbridger was publicly questioned on 3 December 2013, in the Home Affairs Committee, about the Guardian's Snowden reporting. \"In terms of publishing documents, I think we have published 26,\" Rusbridger said, \"I would not be expecting us to be publishing a huge amount more. With 26 over six months, I would say it has been a trickle.\" Rusbridger said that during the last six months \"there have been more than 100 contacts\" with UK and US government agencies.[14] \"We were in continuous contact with the intelligence agencies and the White House,\" Rusbridger writes in 2018.[15] When asked about how many of the 58,000 documents were read, Rusbridger replied \"I could not tell you. I don't know.\"[16]\n\nRusbridger told the Home Affairs Committee that of roughly 35 stories published, the Guardian had consulted the authorities on all but one. Of Vallance he said: \"We have, in fact, collaborated with him since and he has been at The Guardian to talk to all our reporters.\" Rusbridger added in 2018 that Vallance was in time invited into the Guardian's morning conference.[17] Rusbridger's account of the arrangement is that Vallance was reviewing stories as they came and rarely objecting.[18] Gellman wrote that the Guardian \"killed some of its stories for legal reasons and delayed others for months.\"[19]\n\nThree months later, on 27 February 2014, the Guardian published its last Snowden documents. Over nine months it had published around 30 of the 58,000 documents it held — 0.05%. Rusbridger would later describe the episode as the story with the biggest global impact in the Guardian's 190-year history.[20]\n\nWhat stopped in February 2014 was the publication of documents, not the reporting. For example on January 2015 the Guardian reported from the Snowden documents that GCHQ had captured the emails of journalists at major international outlets. And on June 2015 it published a joint investigation with The New York Times into GCHQ's role in American drone strikes in Yemen and Pakistan, drawn from the documents provided by Snowden to the Guardian \"and shared with The New York Times.\"\n\nSo even sixteen months after its last document publication, the Guardian was still analyzing the archive and sharing documents with its American partner, but it chose not to release any documents (nor did The New York Times).\n\nIn May in 2014, the DPBAC committee's chair reported that engagement with the Guardian had continued to strengthen and that the process \"had culminated by the appointment of Paul Johnson (Guardian deputy editor) as a DPBAC member.\"\n\nJacob Appelbaum – who worked on the archive, published extensive reporting in Der Spiegel and elsewhere, and helped Poitras vet Snowden — sharply criticized the Guardian in March 2016:\n\nIn his 2018 book Breaking News, Rusbridger covers the Snowden era in extensive detail, discussing the Heywood meetings, the destruction of the hard drives at the Guardian's London office, Miranda's detention at Heathrow, critical editorials from rival newspapers, and politicians demanding prosecutions. However, the reporting ends in a single clause: \"Once the Snowden coverage had died down.\"[21] This stands out as the only major event in the chapter lacking a clear actor or motivation. While all the other actions have clear motives, media coverage just fades away, with no explanation who decided to stop, when the choice was made, or why.\n\nWhen asked in 2023 about the lack of document publication, MacAskill blamed waning interest, noting that \"each story attracted smaller and smaller readerships, as interest dwindled.\"\n\nThat is hard to square with what the Guardian's own editor says about the same period. The paper published its last Snowden document accompynied with a story which was significant front-page news, as the most Snowden stories before it had been. Two months later it won a Pulitzer for the reporting. Eight months after the last document, Rusbridger records, the paper overtook The New York Times to become the leading serious English-language newspaper website in the world, having been the ninth-biggest paper in Britain.[22] He attributes the rise to doing \"the stuff that journalism was — at least in our reckoning — supposed to do\": a list of subjects he expected nobody to read, in which security and civil liberties come second and third. \"No one — surely — would read you if you banged on about climate change, security, civil liberties [...] But they did.\" He concluded that \"there was clearly a huge, and global, appetite for significant news presented seriously. There was a need for it.\"[22]\n\nNor had the appetite gone elsewhere. Der Spiegel went on publishing documents into 2015, with stories that made international headlines. The Intercept continued until 2019, across almost a hundred pieces. Whatever caused the Guardian to stop publishing documents in February 2014, it was not that there was nothing left or that nobody was reading.\n\nAccording to Rusbridger[10] and MacAskill, Snowden had asked from the start that the reporting stay on surveillance and privacy rather than the wartime use of intelligence, and that Rusbridger had issued that internally as an edict. MacAskill describes being asked by Rusbridger, at some point after the London copy was destroyed, to go back to The New York Times — \"which still had the material\" — and review it for stories that might become reportable if that restriction was lifted. He returned to London with a list of about a dozen. Rusbridger rejected them, MacAskill writes, \"not only because he had not intended to renege on the agreement with Snowden, but also because none of them was as explosive as the original stories.\"\n\nThere is a gap in the account of where the Guardian's copies went. Rusbridger writes in Breaking News that after the London destruction the paper was \"left with the dossier intact — in New York,\" noting that the UK authorities showed little interest in \"the material we held at 536 Broadway,\"[23] the Guardian's own New York office. But when Rusbridger later asked MacAskill to review what remained, MacAskill didn't go to his own paper's New York office, but instead he was sent to The New York Times, \"which still had the material.\" And in 2023, describing where the archive sits now, MacAskill mentions only the copy locked in an office at The New York Times, with the Guardian retaining responsibility for it. The Guardian's own New York copy is not mentioned.\n\nThe Guardian shared their archive with The New York Times and partly with ProPublica,[11] under an agreement Rusbridger describes in Breaking News.[10]\n\nIn March 2016, Appelbaum said that the Guardian holds ProPublica in a gag over the Snowden archive.\n\nOn 18 August 2026 we contacted the Guardian's press office with questions. The press office replied saying they had nothing new to share, that they don't routinely comment on editorial decision making, and that we were asking about issues from over a decade ago. They didn't address whether they still hold a copy or if any material remains at The New York Times and whether they retain any responsibility for it, or whether they hold any approval rights over publication by their partners – none of which are editorial decisions.\n\nBarton Gellman holds a significant portion of the full archive. He received a copy with Poitras from Snowden in 21 May 2013,[1] containing over 50,000[5] documents.[4] Gellman took a copy of his archive to The Washington Post's New York office in May 2013, where it was secured[24] until he left The Washington Post in 2014 and it stopped publishing Snowden documents.\n\nGellman said in 2020 that his \"material is now in cold storage, as secure and inaccessible as I could devise.\" In 2022 he agreed with Poitras that the archive would be \"really valuable for constructive research,\" but added that \"the opsec needed to share it with anyone else is too hard to deal with. I just put the whole thing in cold storage. I feel bad about that.\"\n\nGellman's account of what The Washington Post built is the fullest description anyone has given of how the archive was held in any outlet.\n\nHe went to the editor, Marty Baron, with a list. Dedicated computers with freshly wiped, encrypted drives. Networking hardware physically removed, cutting the machines off from the internet and the newsroom's own systems. A windowless room with a high-security lock, a reinforced door, and a heavy safe bolted to the floor. Decryption keys stored on memory cards and never kept in the same room except when in use. Access would require four credentials — door key, safe combination, digital key card, passphrases — divided among the team, with nobody but Gellman holding all four.[25]\n\nThe Washington Post's first attempt at the room had a wall full of windows, with a view of the Russian ambassador's residence half a block away. They found another. It got a high-security lock, a camera in the hall outside and a safe weighing four hundred pounds. Gellman kept a second safe at his own office in New York.[25]\n\nWorking alongside technologist Ashkan Soltani, they prepared their laptops by removing the internal Wi-Fi, Bluetooth, and batteries, ensuring the machines would instantly shutdown and encrypt themselves if unplugged. They physically sealed the USB ports and maintained strict security by taking their keys out of the room every time they left, even for a quick bathroom break. To catch any potential physical tampering, Gellman applied epoxy and glitter to the laptop screws and tested ultraviolet powder on the safe's dial. He stored all his notes on encrypted volumes that required five distinct passphrases just to open each morning, a system that backfired when he forgot one passphrase and lost access to some files forever.[25]\n\nThe Washington Post published its last Snowden documents in July 2014. At the end, it published around 30 documents in total,[26] or about 0.06% from the archive it had.\n\nGellman writes that by late autumn 2015, he and Soltani were no longer writing articles for the newspaper. Soltani stopped using his old laptop, gave back an encryption key fob, and cut his ties to the archive.[27]\n\nBoth The New York Times and ProPublica received material from the Guardian in 2013, under the conditions Rusbrdiger typed onto the sheet of A4.[10] Neither held the full archive, and neither has ever said how much it received.\n\nThe New York Times and ProPublica published a handful of documents between 2014 and 2015.",
+        "fullTranslation": "发布于 2026 年 9 月 20 日\n\n来自斯诺登档案的最后一份文件发表于 2019 年 5 月 29 日。《卫报》于 2014 年 2 月停止发布相关文件，《明镜》周刊于 2015 年 1 月停发，《纽约时报》和 ProPublica 则在 2015 年 8 月停发。此后，除了少数特例外，仅有 The Intercept 仍在发布文件，直至其在 2019 年 3 月关闭了其档案库。11 周后，即 2019 年 5 月 29 日，该机构发布了该档案库中的最后一批文件。自那时起，世界上再没有任何新闻机构、记者或机构发表过斯诺登档案中的任何一份文件。\n\n斯诺登在掌握可供分享的材料数月之前，就已开始联系记者。2012 年 12 月，他联系了《卫报》专栏作家兼前律师格伦·格林沃尔德（Glenn Greenwald），要求其建立安全通信渠道，不过格林沃尔德当时并不知道该如何操作。[1] 在 1 月份的第二次尝试未能取得进展后，斯诺登将重心转向了美国纪录片导演劳拉·珀特阿斯（Laura Poitras）。随后，珀特阿斯与调查记者巴顿·格尔曼（Barton Gellman）展开合作。[1]\n\n斯诺登采取逐步共享档案的方式。2013 年 3 月 31 日，他向珀特阿斯发送了一个名为 astro_noise 的加密文件链接[2]，珀特阿斯下载了该文件并拍摄了自己下载的过程，但她并没有解密该文件的密钥。[3] 5 月 10 日，斯诺登从夏威夷将一个包裹邮寄到他曾让珀特阿斯提供的一个布鲁克林地址。该包裹寄给了记者杰西卡·布鲁德（Jessica Bruder），后者同意在不知包裹内为何物的情况下代收包裹，随后她未拆封便转交给了戴尔·马哈里奇（Dale Maharidge），接着马哈里奇于 5 月 15 日将其递交给了珀特阿斯。\n\n2013 年 5 月 21 日，斯诺登向珀特阿斯和格尔曼发送了一个名为 Pandora、内含约 5 万份文件的加密档案的密钥。[4][5][1]\n\n在 5 月下旬的某个时候，斯诺登就他所称的“单点故障”向珀特阿斯发出警告，并敦促她将材料副本分散到其他人手中。她共分发了三份。一份交给了新闻自由基金会（Freedom of the Press Foundation）的特雷弗·蒂姆（Trevor Timm），附言要求其保管这些材料，除格林沃尔德本人当面索取外，不得提供给任何人。第二份交给了一名要求匿名的个人。第三份则交给了一个至今身份未知的人。马哈里奇自己也保留了一份，并在 2017 年表示他手中仍留有该副本。[6] 除珀特阿斯、格尔曼和格林沃尔德之外，其他持有副本的人是否真的能阅读这些文件尚不得而知，因为这些副本很可能是加密的，且他们可能没有密钥。\n\n格林沃尔德于 2013 年 6 月 1 日在前往机场的途中从珀特阿斯处收到了 Pandora 的副本[1]，并在飞往香港的航班上首次阅读了该文件。[7]《卫报》记者尤恩·麦卡斯基尔（Ewen MacAskill）在香港接到了英国政府通信总部（GCHQ）的材料[1]，并将其带回了《卫报》伦敦办事处。[8]《明镜》周刊当年夏天从珀特阿斯处获得了他们的档案副本。[9]《纽约时报》和 ProPublica 则是从《卫报》获得了相关材料。[10][11]\n\n格林沃尔德在 2019 年 3 月 13 日表示，他与珀特阿斯“各自独立地继续拥有档案的完整副本，其他个人和机构也是如此。”[12]\n\n珀特阿斯在 2022 年表示，该档案“仍然存在，而且还有更多内容可以报道”，并形容其中有“大量尚未报道、具有重大当代和历史意义的信息”。格林沃尔德在 2023 年表示，该档案包含“数十万份文件，甚至更多”。然而，在过去七年里，两人均未从中发表过任何内容，也均未解释原因。\n\n斯诺登在香港将档案的很大一部分交给了苏格兰记者尤恩·麦卡斯基尔，其中包括“数万份文件”。在纪录片《第四公民》（Citizenfour）中，记录了斯诺登在香港酒店房间内向麦卡斯基尔递交 GCHQ 材料的画面。斯诺登称这些内容来自该机构的内部维基——“属于绝密、极其机密的级别，任何在情报部门工作的人都可以在上面处理他们想处理的任何事务”——并补充道：“这就是这些材料的内容。我现在把它交给你。你可以由自己来决定，什么是恰当的，什么是不恰当的。”麦卡斯基尔将他的副本带到了《卫报》伦敦办事处。[8]《卫报》后来表示，他们的档案库包含约 58,000 份文件。\n\n2013 年 6 月 6 日，《卫报》利用该档案中的一份文件发表了第一篇关于斯诺登的报道。次日，英国国防官员向所有英国主要媒体发出了机密的“D通告”（D notice），“试图审查有关英美情报机构所采用监控策略的报道”。\n\n发布 D 通告的国防、新闻及广播咨询委员会（DPBAC，即当时的国防咨询通告系统 DA-Notice）是一个可追溯至 1912 年的自愿性机制，在此机制下，新闻机构在发表涉及国家安全的内容之前需咨询国防部。2013 年，该委员会的时任秘书是空军少将安德鲁·瓦兰斯（Andrew Vallance）。\n\nD 通告下发给了一群本就倾向于配合的媒体机构。班戈大学（Bangor University）的维安·巴基尔（Vian Bakir）和安德鲁·麦克泰（Andrew McStay）在 2018 年回顾学术文献时指出：\n\n根据巴基尔和麦克泰的研究，媒体的立场趋同度几乎一致。《每日邮报》、《镜报》、《星报》、《电讯报》、《太阳报》和《泰晤士报》都被归类为支持监控的一方。只有《独立报》、《i》报和《星期天人物报》（The People）倾向于反对立场。《卫报》和《快报》则持中立态度。他们写道，这在实践中意味着“公民的隐私权和监控监管极少被讨论，而大规模监控则通过宣称其对国家安全必不可少而走向常态化”。媒体突出的主题是“社交媒体公司应在打击恐怖主义方面采取更多举措，而监控政客虽存在问题，但对公众的监控应当加强”。\n\n除了《卫报》之外发表斯诺登报道数量最多的英国媒体《每日邮报》，便是这种趋势的典型例证。在最初泄密后的六个月里，该报重点报道斯诺登“流亡途中的奢华生活及其性吸引力”。正如巴基尔和麦克泰所指出的，这些手法似乎旨在抹黑他，或转移公众对他揭露 GCHQ 内幕的注意力。\n\n在受到唐宁街和内阁秘书杰里米·海伍德（Jeremy Heywood）的施压后，2013 年 7 月 20 日——即首篇斯诺登报道发表六周后——《卫报》的三名高管在地下室中砸毁了存放其伦敦档案的电脑。两名 GCHQ 技术人员现场监督了销毁过程。该报对此事予以保密[11][13]，直到一个月后的 8 月 19 日才将其公之于众。\n\n时任《卫报》副主编、参与砸毁电脑的三人之一保罗·约翰逊（Paul Johnson）后来称这种销毁“纯粹是一种象征性行为”，因为政府明知“这些材料已经被带到了美国并与《纽约时报》共享。报道仍将继续。这一插曲并未改变任何事情。”\n\nDPBAC委员会自身的会议纪要记录了在同一时期发生的事情。瓦兰斯（Vallance）表示，“在最开始，卫报在发表第一批披露内容之前曾避免与DA通知（DA-Notice）机制打交道”，作为报纸出版商协会的成员，它“根据DA通知守则的条款有义务寻求（但不一定必须采纳）DA通知的建议”，而未能做到这一点“曾是引起严重担忧的一个主要来源，并且为此付出了相当大的努力来予以解决”。他说，在2013年7月下旬，卫报“已经开始寻求并采纳DA通知的建议，不再发表某些高度敏感的细节”。\n\n2013年12月3日，卫报时任总编辑艾伦·拉斯布里杰（Alan Rusbridger）就该报的斯诺登报道在内政事务委员会接受了公开质询。拉斯布里杰说：“就公布文件而言，我认为我们已经公布了26份。我预计我们不会公布更多了。六个月公布26份，我觉得可以说是涓涓细流。”拉斯布里杰表示，在过去的六个月里，与英美政府机构“进行了100多次接触”[14]。“我们一直与情报机构和白宫保持着联系，”拉斯布里杰在2018年写道[15]。当被问及这58,000份文件中到底读过了多少份时，拉斯布里杰回答道：“我说不上来。我不知道。”[16]\n\n拉斯布里杰向内政事务委员会透露，在发表的约35篇报道中，卫报就其中除一篇外的所有报道均向当局进行了咨询。谈及瓦兰斯时他说：“事实上，此后我们一直与他合作，他也曾来到卫报与我们所有的记者交流。”拉斯布里杰在2018年补充说，瓦兰斯后来甚至被邀请参加了卫报的晨会[17]。拉斯布里杰对这种安排的描述是，瓦兰斯会在报道出炉时对其进行审阅，且极少提出反对[18]。盖尔曼（Gellman）写道，卫报“出于法律原因撤下了部分报道，并将其余一些报道推迟了数月之久”[19]。\n\n三个月后，即2014年2月27日，卫报公布了其最后一批斯诺登文件。在九个月的时间里，该报在其持有的58,000份文件中大约公布了30份——占比0.05%。拉斯布里杰后来将这一事件描述为卫报190年历史上产生全球影响最大的报道[20]。\n\n在2014年2月停止的是文件的公布，而非相关报道。例如，2015年1月，卫报根据斯诺登文件报道称，英国政府通信总部（GCHQ）截获了各大国际媒体记者的电子邮件。2015年6月，该报与《纽约时报》联合发表了一项调查，披露GCHQ在美军针对也门和巴基斯坦的无人机袭击中所扮演的角色，该调查素材取材于斯诺登提供给卫报“并与《纽约时报》共享”的文件。\n\n因此，即使在最后一次公布文件的十六个月之后，卫报仍在分析该档案并与美国合作伙伴共享文件，但它选择不再公开发布任何文件（《纽约时报》亦未发布）。\n\n2014年5月，DPBAC委员会主席报告称，与卫报的接触不断深化，这一过程“最终以任命保罗·约翰逊（Paul Johnson，卫报副总编辑）为DPBAC成员而达到顶峰”。\n\n雅各布·阿佩尔鲍姆（Jacob Appelbaum）曾参与处理这批档案，在《明镜周刊》等刊物上发表了大量报道，并曾协助波伊特拉斯（Poitras）对斯诺登进行背景调查，他在2016年3月对卫报提出了尖锐批评：\n\n在其2018年出版的《突发新闻》（Breaking News）一书中，拉斯布里杰极其详尽地记录了斯诺登时代，探讨了海伍德（Heywood）会晤、卫报伦敦办公室硬盘被销毁、米兰达（Miranda）在希思罗机场被扣留、竞争对手报纸发表的批评社论以及要求起诉的政客等事件。然而，这段报道历程却终结于一句简短的分句：“一旦斯诺登的报道平息下来。”[21] 这成为该章节中唯一缺乏明确行动主体或动机的重大事件。当所有其他行动都有明确的动机时，媒体报道却就这样悄然退场，没有任何关于是谁决定停止、何时做出的决定、或是为何做出该决定的解释。\n\n当在2023年被问及为何缺乏文件公布时，麦卡斯基尔（MacAskill）将其归咎于公众兴趣的衰退，指出“随着兴趣消退，每篇报道吸引的读者群越来越小”。\n\n这与卫报自己的主编对同一时期的描述很难相吻合。该报在公布其最后一份斯诺登文件时附带了一篇极具分量的重要头条报道，就像此前的大多数斯诺登报道一样。两个月后，该报道获得了普利策奖。拉斯布里杰记载，在公布最后一份文件的八个月后，该报超过了《纽约时报》，成为全球首屈一指的严肃英文报纸网站，而此前它在英国仅位列第九大报刊[22]。他将这种崛起归功于践行了“至少在我们看来新闻业本该做的事情”：这份他原本预计没人会读的选题清单上，安全和公民自由高居第二和第三位。“如果你整天大谈气候变化、安全和公民自由……肯定没有人会读你的报道。但他们确实读了。”他得出结论称，“显然，人们对以严肃方式呈现的重要新闻有着巨大的全球性需求。这种需求切实存在。”[22]\n\n其他地方的这种需求也并未消退。《明镜周刊》直到2015年仍在继续公布文件，其报道引发了国际头条关注。《拦截》（The Intercept）更是持续公布至2019年，发表了近百篇报道。无论是什么原因导致卫报在2014年2月停止公布文件，绝非是因为材料耗尽或无人阅读。\n\n根据拉斯布里杰[10]和麦卡斯基尔的说法，斯诺登从一开始就要求报道集中在监控和隐私方面，而非情报的战时使用，而拉斯布里杰已将此作为内部硬性指令下达。麦卡斯基尔描述道，在伦敦的备份被销毁后的某个时间，拉斯布里杰曾要求他返回《纽约时报》——“他们仍保留着这批材料”——并审查如果解除该限制哪些报道可以发表。他带着一份包含大约十几篇选题的清单返回伦敦。麦卡斯基尔写道，拉斯布里杰拒绝了这些选题，“不仅是因为他无意违背与斯诺登的协议，还因为其中没有任何一篇能像最初的那些报道那样具有爆炸性。”\n\n关于《卫报》（The Guardian）所持副本去向的记述存在一段空白。拉斯布里杰（Rusbridger）在《突发新闻》（Breaking News）中写道，在伦敦的资料被销毁后，该报“完整保留了档案——存放在纽约”，并指出英国当局对“我们存放在百老汇536号的资料”几乎没有表现出任何兴趣[23]，那里正是《卫报》自己的纽约办公室。然而，当拉斯布里杰后来要求麦克阿斯吉尔（MacAskill）核查剩余资料时，麦克阿斯吉尔并没有去自家报社的纽约办公室，而是被派往《纽约时报》（The New York Times），“因为那里仍存有这些材料”。而在2023年，当麦克阿斯吉尔描述该档案目前的下落时，他只字未提《卫报》自己在纽约的副本，仅提及锁在《纽约时报》某间办公室里的那份副本，且《卫报》仍对其保留监管责任。\n\n根据拉斯布里杰在《突发新闻》中所描述的协议[10]，《卫报》曾与《纽约时报》共享了其档案，并与ProPublica共享了部分内容[11]。\n\n2016年3月，阿佩尔鲍姆（Appelbaum）表示，《卫报》对ProPublica就斯诺登档案下了封口令。\n\n2026年8月18日，我们联系了《卫报》的新闻办公室提出疑问。该办公室回复称，他们没有任何新信息可以分享，他们通常不对编辑决策置评，并且我们所询问的是十多年前的事情。他们并未回应其自身是否仍保留有副本，或者《纽约时报》是否还留存任何资料以及他们是否仍对其负有责任，亦或是他们是否对合作伙伴的发表拥有任何审批权——而这些没有一项属于编辑决策范畴。\n\n巴顿·格尔曼（Barton Gellman）持有全部档案中的相当大一部分。他与波伊特拉斯（Poitras）于2013年5月21日从斯诺登处获得了一份副本[1]，内含超过50,000份[5]文件[4]。格尔曼于2013年5月将该档案的一份副本带到《华盛顿邮报》（The Washington Post）的纽约办公室，并在那里进行严密保管[24]，直至他于2014年离开《华盛顿邮报》，该报随后停止发布斯诺登文件。\n\n格尔曼在2020年表示，他的“资料目前处于冷存储状态，其安全和难以访问程度是我所能设计出的最高水平”。2022年，他赞同波伊特拉斯的看法，即该档案“对于建设性研究极具价值”，但补充说：“与其他人共享档案所需的操作安全防范措施实在太繁琐，难以处理。我索性把整套东西都放进了冷存储中。对此我感到很遗憾。”\n\n格尔曼对《华盛顿邮报》所建立的安全措施的叙述，是所有人关于任一媒体机构如何保管该档案所给出的最详尽描述。\n\n当时他带着一份清单去找编辑马蒂·巴伦（Marty Baron）。清单内容包括：配备全新擦除并经过加密的专用电脑；物理拆除网络硬件，切断机器与互联网及编辑部自身系统的连接；一间带有高安全性锁、加固门以及螺栓固定在地板上的重型保险库的无窗房间；解密密钥保存在存储卡中，除使用期间外绝不放在同一房间内。访问需要四项凭证——门钥匙、保险库密码、数字钥匙卡、口令密码——分散在团队成员中，除格尔曼外无人同时持有这四项凭证[25]。\n\n《华盛顿邮报》首次尝试设置的房间有一整面朝外的窗户，能一眼望见半个街区外的俄罗斯大使官邸。于是他们另选了一间。该房间配备了高安全性锁、门外走廊的监控摄像头以及一个重达四百磅的保险库。格尔曼还在自己位于纽约的办公室保留了第二个保险库[25]。\n\n在与技术专家阿什坎·索尔塔尼（Ashkan Soltani）共事期间，他们对笔记本电脑进行了改造，拆除了内置Wi-Fi、蓝牙和电池，以确保机器一旦拔掉电源就会立即关机并自我加密。他们物理封堵了USB接口，并保持严格的安全防范：每次离开房间都随身带走钥匙，哪怕只是去快速上个洗手间。为了察觉任何潜在的物理篡改痕迹，格尔曼在笔记本电脑的螺丝上涂抹了环氧树脂和闪粉，并在保险库的旋钮上测试了紫外荧光粉。他将所有笔记保存在加密卷中，每天早晨仅为了解开访问权限就需要输入五个互不相同的密码口令；然而该系统最终导致了反噬，有一次他忘记了其中一个密码口令，导致部分文件永远无法被找回[25]。\n\n《华盛顿邮报》于2014年7月发布了最后一批斯诺登文件。截至最后，该报总共仅发表了大约30份文件[26]，约占其所持有档案的0.06%。\n\n格尔曼写道，到2015年深秋，他和索尔塔尼已不再为该报撰写文章。索尔塔尼停用了他旧的笔记本电脑，归还了加密密钥令牌，彻底断绝了与该档案的关联[27]。\n\n《纽约时报》和ProPublica均于2013年根据拉斯布里杰在一张A4纸上打印的条件，从《卫报》处获取了资料[10]。这两家机构均未持有全部档案，也从未透露过自身收到了多少资料。\n\n在2014年至2015年间，《纽约时报》和ProPublica仅发表了寥寥数份文件。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 44,
+        "translationParagraphs": 44,
+        "keyTakeaways": [
+          "斯诺登档案中最后一份文件发表于2019年5月29日，由The Intercept发布。",
+          "《卫报》于2014年2月停止发布文件，《明镜》周刊于2015年1月停止，《纽约时报》和ProPublica于2015年8月停止，The Intercept于2019年3月关闭其档案库。",
+          "来源叙事重点：揭示斯诺登档案在主流媒体手中经历了迅速的审查软化与事实上的封存；重点聚焦各大媒体早在2014至2019年间就完全停止发布原始文件，并详述英国政府（通过GCHQ和DA-Notice审查机制）对《卫报》施加的深层压力与合作渗透，质问为何仍有海量具有重大历史与当代意义的档案未见天日。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T22:35:49.000Z",
+            "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive"
+          }
+        ]
+      },
+      {
+        "id": "story-5-404a-ae3a-3921e887bab3-b69a6fd614d48bd2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:47:35.000Z",
+        "pubTime": "2026-09-21 05:47",
+        "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8d2cfe2c-bd62-4c09-97bb-106b2950ef98.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-21 05:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-20T21:47:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--is-0-chance-ai-destroys-a8e6057d6d94b717",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:12:26.000Z",
+        "pubTime": "2026-09-21 07:12",
+        "url": "https://www.reddit.com/r/technology/comments/1wlvyua/jensen_huang_says_there_is_0_chance_ai_destroys/",
+        "imageUrl": "https://external-preview.redd.it/t5ytGCMnoHd0YExaDYcVertN-gXwqLkNjnOhmro3hGQ.jpeg?width=640&crop=smart&auto=webp&s=059db157121e317b815a55df24a0c4dcb0213676",
+        "fullContent": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-21 07:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wlvyua/jensen_huang_says_there_is_0_chance_ai_destroys/",
+            "publishedAt": "2026-09-20T23:12:26.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-aramount-2119134912-html-be54499364104c74",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Paramount обяжут платить за не вышедшие в кинотеатрах фильмы, пишут СМИ",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-21T01:11:31.000Z",
+        "pubTime": "2026-09-21 09:11",
+        "url": "https://ria.ru/20260921/paramount-2119134912.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/02/08/1850551556_0:207:3076:1937_650x0_80_0_0_7c4d4cba1a80bec47effc3c698e53e38.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 09:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/paramount-2119134912.html",
+            "publishedAt": "2026-09-21T01:11:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-c0ee2b91947fae50",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Amiga Unix, Again",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:57:10.000Z",
+        "pubTime": "2026-09-21 07:57",
+        "url": "https://amigaux.org/",
+        "imageUrl": null,
+        "fullContent": "Year of the Amiga Unix Desktop 2026\n\nAmiga Unix — Amix — was Commodore's System V Release 4 for the Amiga: shipped in 1990–92 for the A2500UX and A3000UX, then left where it stood. amigaux.org is an unofficial community project that picks it up again: Amix on 68040 and 68060 machines and on today's accelerator hardware, with a modern toolchain, a package manager, and drivers for cards that never had any. The work is done in the open, and written down as it happens in the grimoire.\n\nBy asokero, isoriano1968 and jusii.\n\nThe install medium boots from floppy and CD-ROM on real hardware — floppy image and ISO under emulation — and takes care of the whole installation, interactively or unattended. With supported hardware, getting Amix onto a machine comes down to following the prompts. The classic tape install follows later.\n\nFrom there the network takes over: apkg installs packages straight from pkg.amigaux.org — grep, gzip, less, patch and zlib to start with, and more GNU and BSD tools as they are built and tested.\n\nPart of this work is done with generative AI in the loop — models reading the old kernels in binary, as no source is available, and writing drivers and notes — with people setting direction, reviewing every change and testing on real hardware, where it either boots or it doesn't. Other parts are done the classic way. The grimoire records both, confidence-tagged, so you can see what is verified and what is still a guess.\n\nSat 19 Sep 2026, 17:00 · Amiga Unix 68040/68060 launch · Saku 2026, Oulun Tetra, Oulu, Finland\n\nFull launch — packages, source, instructions, manuals — after Saku.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Amiga Unix (Amix) 是 Commodore 为 Amiga 打造的 System V Release 4 系统，于 1990 至 1992 年间面向 A2500UX 和 A3000UX 发货。",
+          "amigaux.org 是一个非官方社区项目，旨在让 Amix 运行在 68040 和 68060 架构机器及现代加速卡硬件上，配备现代工具链、包管理器以及新驱动程序。",
+          "来源叙事重点：宣布非官方社区项目成功重启 1990 年代中断的 Amiga Unix (Amix)，重点展示其对现代加速卡与 68040/68060 硬件的适配、包管理器与自动化安装支持，并突显利用生成式 AI 逆向二进制内核辅助开发的技术路径"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T23:57:10.000Z",
+            "url": "https://amigaux.org/"
+          }
+        ]
+      },
+      {
+        "id": "story-ond-yields-yen-fall-html-5172953fd281c415",
+        "title": "为何日本央行加息后市场走势反转常规剧本",
+        "originalTitle": "Why Japan’s markets flipped the usual script after central bank rate hike",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-21T01:02:25.000Z",
+        "pubTime": "2026-09-21 09:02",
+        "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+        "imageUrl": null,
+        "fullContent": "Japanese markets reacted in a seemingly counterintuitive fashion on Friday after the country's central bank hiked benchmark interest rates to their highest in 31 years.\n\nInterest-rate increases ordinarily support a country's currency, push up its bond yields, and put pressure on its stock market. Japan's currency, bond yields, and stock market did exactly the opposite.\n\nThe yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5% as the BOJ raised its policy rate to 1.25%.\n\nThe hike brought the policy rate to its highest level since 1995, and came just three months after its previous increase.\n\nExperts pointed to the split decision by the BOJ's board, as the reason for the uncharacteristic market reaction, as it indicated that the bank might not take a too hawkish stance.\n\n\"The two dissenting votes in favor of keeping rates unchanged came as a surprise,\" said Hirofumi Suzuki, chief FX strategist at Japanese bank Sumitomo Mitsui Banking Corporation.\n\nThe decision to hike was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the verdict.\n\nAsada noted that as the core inflation rate was below 2%, the economic situation might not be strong, and advocated for holding rates steady. Core inflation for August in Japan stood at 1.7%, down from 1.8% in July.\n\nSato also said current economic and price developments did not appear to have substantially accelerated compared to before.\n\nThe reaction of the market also stems from the fact that this hike also took place without an updated outlook report, which limited the BOJ's ability to reinforce a hawkish message through revised forecasts, according to Masahiko Loo, senior fixed income strategist at State Street Investment Management.\n\nHis view was also echoed by Shigeto Nagai, head of Japan economics at Oxford Economics. Nagai told CNBC's \"Access Middle East\" that the two dissenters signaled that Prime Minister Sanae Takaichi was not convinced to accede to the U.S.' request for faster and more rate hikes.\n\nReuters reported Friday that U.S. Treasury Secretary Scott Bessent had stressed on the need for higher BOJ rates in his meeting with Japanese Finance Minister Satsuki Katayama in May.\n\n\"Secondly, if we look at the statement, all the phrases and the tone was almost similar to what we saw in the quarterly outlook report published in July, so the tone was less hawkish than financial markets had hoped for,\" he added.\n\nExperts believe that another hike, likely in December, is on the table.\n\nState Street's Loo said he expects BOJ Governor Kazuo Ueda to emphasize that every forthcoming meeting remains \"live.\"\n\n\"The debate is no longer whether the BOJ hikes, but how far rates ultimately go,\" he added.\n\nThe BOJ said it would continue raising rates as economic and price conditions develop. But it also acknowledged that growth was likely to decelerate due to high oil prices stemming from the Middle East conflict.\n\nSam Jochim, economist at EFG International, said rates could rise roughly once every three months as underlying inflation approaches 2%. He expects a terminal rate — expected peak level — between 1.75% and 2% in 2027.\n\nThe BOJ has not forecast a terminal rate, instead it has maintained that the bank will conduct monetary policy \"as appropriate\" to stabilize underlying inflation at around its 2% target.\n\nStefan Angrick, head of Asia-Pacific economics at Moody's Analytics, expects another increase around the turn of the year, but said weak demand-driven inflation and disappointing real-wage growth would limit subsequent moves.— CNBC's Lisa Kim contributed to this report\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "周五，在日本央行将基准利率上调至31年来的最高水平后，日本市场的反应看似违背直觉。\n加息通常会支撑一国货币、推高其债券收益率，并对其股市造成压力。然而，日本的货币、债券收益率和股票市场的表现却完全相反。\n随着日本央行将政策利率上调至1.25%，日元兑美元跌破157关口，10年期日本国债收益率下滑，而日经225指数则上涨了1.5%。\n此次加息使政策利率达到了1995年以来的最高水平，且距离上一次加息仅过去了三个月。\n专家指出，日本央行审议委员会的分歧决定是导致这一反常市场反应的原因，因为这表明央行可能不会采取过于鹰派的立场。\n三井住友银行（Sumitomo Mitsui Banking Corporation）首席外汇策略师铃木浩史（Hirofumi Suzuki）表示：“赞成维持利率不变的两张反对票出乎意料。”\n加息决定是以7比2的表决结果通过的，审议委员浅田统一郎（Toichiro Asada）和佐藤绫野（Ayano Sato）对该决定持有异议。\n浅田指出，由于核心通胀率低于2%，经济形势可能并不强劲，因此主张维持利率稳定。日本8月份的核心通胀率为1.7%，低于7月份的1.8%。\n佐藤也表示，与以往相比，当前的经济和物价发展态势似乎并没有显著加速。\n道富投资管理（State Street Investment Management）高级固定收益策略师卢正彦（Masahiko Loo）认为，市场的反应还源于此次加息是在没有发布更新版经济展望报告的情况下进行的，这限制了日本央行通过调整预测数据来强化鹰派信息的能力。\n牛津经济研究院（Oxford Economics）日本经济主管永井繁人（Shigeto Nagai）也表达了类似的看法。永井在接受CNBC《直通中东》（Access Middle East）节目采访时表示，两名反对者传递出的信号表明，首相高市早苗并未被说服去顺应美国关于加快和加大加息力度的要求。\n路透社周五报道称，美国财长斯科特·贝森特（Scott Bessent）在5月与日本财务大臣片山皋月（Satsuki Katayama）会晤时，曾强调日本央行提高利率的必要性。\n他补充道：“其次，如果我们审视这份声明，所有的表述和基调与我们在7月份发布的季度展望报告中看到的几乎一致，因此其鹰派程度不及金融市场的预期。”\n专家认为，另一次加息（可能在12月）已提上日程。\n道富银行的卢正彦表示，他预计日本央行行长植田和男（Kazuo Ueda）将强调未来的每一次会议都保持“实时评估”（live）。\n他补充称：“争论的焦点不再是日本央行是否加息，而是利率最终会达到多高。”\n日本央行表示，随着经济和物价状况的发展，将继续提高利率。但它同时也承认，由于中东冲突导致的高油价，经济增长可能会放缓。\n瑞士盈丰银行（EFG International）经济学家萨姆·乔希姆（Sam Jochim）表示，随着基础通胀率接近2%，利率可能大约每三个月上调一次。他预计到2027年终点利率（预期峰值水平）将在1.75%至2%之间。\n日本央行尚未对终点利率进行预测，而是坚称央行将“视情况适时”实施货币政策，以将基础通胀稳定在2%左右的目标水平。\n穆迪分析（Moody's Analytics）亚太区经济主管斯特凡·昂格里克（Stefan Angrick）预计年底前后将再次加息，但他表示，需求驱动型通胀疲软和实际工资增长令人失望将限制后续举措。——CNBC记者Lisa Kim对此报道亦有贡献。\n您有保密新闻线索吗？我们期待收到您的消息。\n将此内容订阅至您的收件箱，并获取有关我们产品和服务的更多信息。\n数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票行情以及市场数据与分析。\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "日本央行将政策利率上调至1.25%，创下自1995年以来的最高水平（31年来新高），距离上一次加息仅相隔三个月。",
+          "加息决议公布后，日元兑美元汇率跌破157，日本10年期国债收益率下滑，日经225指数上涨1.5%。",
+          "来源叙事重点：解释日本央行加息后金融市场出现日元贬值、债收益率下降、股市上涨的“反常反应”，重点聚焦日本央行内部投票分歧（7-2决议）以及基调不及预期鹰派，并引入美日政治互动与外部经济阻力进行成因剖析。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-21T01:02:25.000Z",
+            "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html"
+          }
+        ]
+      },
+      {
+        "id": "story-stem-to-freeze-games-and-9b92391d3a6fbc02",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft patents system to freeze games and inject ads during downtimes — watching commercials earns ad-free playtime credits",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-21T00:05:34.000Z",
+        "pubTime": "2026-09-21 08:05",
+        "url": "https://www.reddit.com/r/technology/comments/1wlx6jt/microsoft_patents_system_to_freeze_games_and/",
+        "imageUrl": "https://external-preview.redd.it/tMftvOg64NWncDBJQviRjyPoei0AFt4rhLWfJNvXstc.png?width=640&crop=smart&auto=webp&s=9e43eaa75de909c2187324bd7ffa5908026d0608",
+        "fullContent": "submitted by /u/CoreClock [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-21 08:05 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wlx6jt/microsoft_patents_system_to_freeze_games_and/",
+            "publishedAt": "2026-09-21T00:05:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-icultural-flavorful-html-a6798abc66cde70b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "British food was complex, multicultural and flavorful in the 18th century—despite what you might think",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-21T00:30:04.000Z",
+        "pubTime": "2026-09-21 08:30",
+        "url": "https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/painting-of-fruit-and.jpg",
+        "fullContent": "The stereotype of bland British food is notorious, and people mock the horrors of jellied eels and overcooked vegetables. Even roast beef and pudding are seen as uninspired compared with the cuisines of other nations. But British food is and has historically been complex, multicultural and flavorful.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-21 08:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html",
+            "publishedAt": "2026-09-21T00:30:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--eu-europe-macron-carney-a64709b6d51ba416",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-21T01:09:23.000Z",
+        "pubTime": "2026-09-21 09:09",
+        "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+        "imageUrl": "https://i.guim.co.uk/img/media/e17b0612a5744746012a384b1cea80afef14af1b/394_0_4938_3951/master/4938.jpg?width=140&quality=85&auto=format&fit=max&s=0c15df24dbba8dee534a90375fb86614",
+        "fullContent": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with US\n\nThe leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate change and the erosion of democratic values, after ⁠they met in a ⁠French territory off Canada’s Atlantic coast.\n\nThe two leaders’ visit to Saint-Pierre ​and Miquelon – the first by a French president since 2014 and the first by a Canadian prime minister – came just weeks ⁠after Donald Trump posted an image showing the islands, as well as all of Canada and other countries in North America, covered by the US flag.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "法国和加拿大领导人在加拿大海岸附近的大西洋法国属地圣皮埃尔和密克隆举行会晤，承诺加强双边关系以应对地缘政治紧张局势、气候变化和民主价值观受损问题。",
+          "此次对圣皮埃尔和密克隆的访问是自2014年以来法国总统的首次访问，也是加拿大总理的首次访问。",
+          "来源叙事重点：聚焦法加两国领导人在大西洋法属岛屿罕见会晤，重点框定在特朗普地缘政治言行与美加贸易摩擦的背景下，两国通过深化双边及加欧合作来共同抵御地缘风险与捍卫民主价值观的战略意图。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-21T01:09:23.000Z",
+            "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
+          }
+        ]
+      },
+      {
+        "id": "story-bytedtsinghua-sia-dapo-966ba72f961355d2",
+        "title": "DAPO：来自字节跳动Seed与清华大学AIR的开源强化学习系统",
+        "originalTitle": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:19:04.000Z",
+        "pubTime": "2026-09-21 07:19",
+        "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+        "imageUrl": null,
+        "fullContent": "We release a fully open-sourced system for large-scale LLM RL, including algorithm, code infrastructure, and dataset. The system achieves state-of-the-art large-scale LLM RL performance. We propose the Decoupled Clip and Dynamic sAmpling Policy Optimization (DAPO) algorithm. Through open-sourcing, we provide the broader research community and society with practical access to scalable reinforcement learning, enabling all to benefit from these advancements. Our system is based on the awesome verl framework. Thanks for their great work!\n\n🤗 If you have any questions about our paper, issues are welcomed and we could discuss there. Thank you!\n\n🚀 DAPO achieves 50 points on AIME 2024 based on the Qwen2.5-32B base model, outperforming the previous SoTA DeepSeek-R1-Zero-Qwen-32B with 50% training steps.\n\nLength stability and growth: The steady increase in response length allows for greater exploration, facilitating the model’s ability to learn more complex reasoning behaviors, ultimately contributing to training stability and performance improvement.\n\nReward score stability: A stable increase in the reward signal indicates that the model is successfully fitting the training distribution, ensuring that the learning process remains robust and consistent without significant fluctuations.\n\nEntropy and mean probability trend: A controlled increase in entropy, after an initial decrease, ensures a healthy balance between exploration and exploitation, avoiding issues such as overfitting or excessive randomness, and promoting sustained model performance.\n\nWe provide the model weights of DAPO-Qwen-32B, which is trained based on Qwen2.5-32B using the DAPO algorithm.\n\nWe recommend using conda to setup the environment:\n\nWe provide the model inference code here:\n\nTo evaluate the model on AIME 2024, we deploy DAPO-Qwen-32B with Ray Serve and vLLM.\n\nTo load the model from Huggingface:\n\nTo load the model from local path:\n\nTo benefit the broader research community, we fully open-source the recipe of our RL training, including algorithm details, dataset, and infrastructures.\n\nWe provide training and validation datasets for DAPO training.\n\nTraining: DAPO-Math-17k, a carefully curated and processed math dataset. Validation: AIME 2024.\n\nWe provide the out-of-the-box script for DAPO training reproduction. Quickstart and core code are mentioned in README. These are scripts for:\n\nThe DAPO w/o Token-level PG Loss & Dynamic Sampling -- AIME 44 script has been verified on the current verl and achieves 44 points on AIME 2024, whose training record can be accessed in wandb.\n\nThe DAPO Full -- AIME 50 script has also been validated on the latest verl version. It scores 50 points on AIME 2024. You can view the corresponding training record on wandb.\n\nWe thank the verl for providing the awesome open-source RL infrastructure.\n\nOur open-sourced experiments were conducted on the Volcano Engine Machine Learning Platform. We will provide a full reproduction guideline later on the Volcano Engine platform to help users replicate our experiments.\n\nAn Open-source RL System from ByteDance Seed and Tsinghua AIR",
+        "fullTranslation": "我们发布了一个完全开源的大规模大语言模型（LLM）强化学习（RL）系统，涵盖算法、代码基础设施以及数据集。该系统实现了最先进的大规模 LLM 强化学习性能。我们提出了“解耦截断与动态采样策略优化”（Decoupled Clip and Dynamic sAmpling Policy Optimization，简称 DAPO）算法。通过开源，我们为更广泛的研究界与社会提供了获取可扩展强化学习的切实途径，让所有人都能从这些进展中受益。我们的系统基于优秀的 verl 框架构建。感谢他们的出色工作！\n\n🤗 如果您对我们的论文有任何疑问，欢迎提交 Issue，我们可以在那里进行讨论。谢谢！\n\n🚀 基于 Qwen2.5-32B 基础模型，DAPO 在 AIME 2024 上取得了 50 分的成绩，仅用 50% 的训练步数就超越了先前的 SoTA 模型 DeepSeek-R1-Zero-Qwen-32B。\n\n长度稳定性与增长：响应长度的平稳增加带来了更大程度的探索，有助于模型学习更复杂的推理行为，最终促进了训练稳定性和性能提升。\n\n奖励得分稳定性：奖励信号的平稳上升表明模型正在成功拟合训练分布，确保学习过程在没有显著波动的情况下保持稳健与一致。\n\n熵与平均概率趋势：在最初下降后，熵的可控上升确保了探索与利用之间的良好平衡，避免了过拟合或过度随机等问题，并促进了模型性能的持续提升。\n\n我们提供了 DAPO-Qwen-32B 的模型权重，该模型基于 Qwen2.5-32B 并采用 DAPO 算法训练而成。\n\n我们建议使用 conda 来配置环境：\n\n我们在此处提供模型推理代码：\n\n为了在 AIME 2024 上评估该模型，我们使用 Ray Serve 和 vLLM 部署了 DAPO-Qwen-32B。\n\n从 Huggingface 加载模型：\n\n从本地路径加载模型：\n\n为造福更广泛的研究社区，我们完全开源了我们强化学习训练的全套方案，包括算法细节、数据集和基础设施。\n\n我们为 DAPO 训练提供了训练与验证数据集。\n\n训练集：DAPO-Math-17k，一个经过精心策划和处理的数学数据集。验证集：AIME 2024。\n\n我们提供了用于 DAPO 训练复现的开箱即用脚本。快速入门和核心代码已在 README 中说明。以下是相关脚本：\n\n“DAPO 无 Token 级 PG 损失与动态采样 —— AIME 44”（DAPO w/o Token-level PG Loss & Dynamic Sampling -- AIME 44）脚本已在当前的 verl 上通过验证，并在 AIME 2024 上取得了 44 分，其训练记录可在 wandb 中查看。\n\n“DAPO 完整版 —— AIME 50”（DAPO Full -- AIME 50）脚本也已在最新的 verl 版本上得到验证。它在 AIME 2024 上获得了 50 分。您可以在 wandb 上查看相应的训练记录。\n\n我们感谢 verl 团队提供了出色的开源强化学习基础设施。\n\n我们的开源实验是在火山引擎机器学习平台上进行的。后续我们将在火山引擎平台上提供完整的复现指南，以帮助用户复现我们的实验。\n\n来自字节跳动Seed与清华大学AIR的开源强化学习系统",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 21,
+        "keyTakeaways": [
+          "ByteDance Seed 与 Tsinghua AIR 联合开源了一个大规模大语言模型强化学习系统 DAPO（Decoupled Clip and Dynamic sAmpling Policy Optimization），涵盖算法、代码基础设施与数据集。",
+          "DAPO 系统基于 verl 开源强化学习框架构建。",
+          "来源叙事重点：宣传全新开源的LLM大规模强化学习系统DAPO，突出其在AIME 2024基准测试上以更少训练步数超越前SOTA模型（DeepSeek-R1-Zero-Qwen-32B）的优异性能，并强调算法创新、完整开源方案（代码、权重、数据集）及火山引擎生态支持"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T23:19:04.000Z",
+            "url": "https://github.com/BytedTsinghua-SIA/DAPO"
+          }
+        ]
+      },
+      {
+        "id": "story--deep-spending-cuts-html-04534d25ea98aea6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:00:00.000Z",
+        "pubTime": "2026-09-21 07:00",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html",
+        "imageUrl": null,
+        "fullContent": "Some of the world's largest oil and gas companies have adopted a new modus operandi ever since the historic oil price crash of 2020 devastated energy companies, prioritizing returning more cash to shareholders while expansion plans have been put on the back burner. Indeed, over the past five years, Exxon Mobil NYSEXOM, Chevron NYSECVX, British Petroleum NYSEBP, Shell NYSESHEL and TotalEnergies NYSETTE have collectively spent more than $100 billion annually in dividends and buybacks, good for nearly 80% of their earnings. Hardly surprisingly, these companies have little left over to spend, President Trump's \"Drill, baby, drill\" rallying cry notwithstanding EY has reported that capital expenditure capex by the United States' 30 largest publicly traded exploration and production E&P companies fell 49% Y/Y in 2025, with exploration spending falling 11% to $4.8 billion, good for a mere 3% of total capital expenditures across the group. The 30 companies represent 43% of total U.S. oil and gas production. Meanwhile, money spent on acquisitions fell 70% as the previous consolidation wave lost steam. But here's the kicker oil production by the group hit an all-time high in 2025 while revenue increased 7%, implying that spending less on drilling has hardly hurt their bottomlines. \"One of the clearest signals in this year's study is that oil production and reserve replacement are moving in different directions,\" said EY's Matt Melnar. \"Reserve replacement metrics alone no longer tell the full story. Producers are engaged in a balancing act between production goals, shareholder returns, and long-term portfolio resilience as they make investment decisions.\" Related Big Oil companies have successfully increased production volumes despite falling capex thanks to a combination of drilling efficiency gains, technological advancements as well as a strategic shift toward shorter-cycle, high-return assets. Historically, higher production required a linear increase in spending to drill new wells. However, shale oil companies are drilling longer, horizontal wells that sometimes extend three miles or more, allowing a single surface rig to tap more oil-bearing rock. Completing multiple wells simultaneously slashes execution times and service contract costs. Additionally, operators are increasingly deploying AI, machine learning and predictive analytics to maximize production efficiency, cut operating costs and extend the lifespan of oil and gas wells. Deep learning models process large 3D and 4D seismic datasets, combining them with historical drilling logs to map out high-permeability zones with higher precision. Predictive analytics evaluate past completion data to determine the volume of proppant required, fluid and pressure needed to fracture a specific sweet spot, ensuring maximum estimated ultimate recovery EUR. Meanwhile, AI-driven geosteering systems analyze real-time rock properties at the drill bit, automatically adjusting the trajectory to maximize yields. When drilling for natural gas, AI systems are used to continuously adjust gas injection rates through surface and downhole valves thus ensuring the optimal liquid-to-gas ratio is achieved. The U.S. shale boom broke the old model. For decades, oil production growth meant long, expensive offshore or mega field projects that took years to pay off. Shale flipped that wells get drilled, fracked, and pumping oil within months. With demand set to plateau and geopolitics this unstable, a 10-year infrastructure bet is a much riskier bet than a short one; operators would rather earn their money back fast than risk getting stuck with assets nobody wants once demand or policy shifts under them. However, Big Oil cannot continue cutting capex indefinitely. Some oil assets such as Exxon Mobil's deepwater projects in Guyana require heavy upfront investments but significantly less additional capital to keep going. Others have been leaning heavily on their inventories of Drilled but Uncompleted DUC wells to keep production up without spending more on new wells. Back in May, the U.S. Energy Information Administration EIA revealed that the total U.S. DUC inventory dipped to approximately 4,972 wells, marking the lowest level since the agency began tracking the metric in 2013. This also marked 14 consecutive months of decline in the DUC count. Faced with periods of weaker oil prices, producers chose to complete previously drilled wells rather than deploy new rigs, which makes economic sense since completing an existing DUC historically costs around $5 million to $6 million, compared to $8 million to $10 million required to drill and complete a new well from scratch. However, this has come at a cost EY reported that Big Oil's oil reserve additions from discoveries and extensions declined 11% year over year, failing to fully replace production volumes for the first time in five years. This implies that U.S. shale producers have less flexibility to quickly ramp up output during sudden global supply crunches or oil price spikes. Thankfully, American energy operators are still spending heavily on natural gas production natural gas reserves increased by 14% Y/Y while discoveries increased by 21%, surpassing production's 18% Y/Y growth clip with reserve revisions turning positive for the first time in five years. \"As energy security, industrial competitiveness and AI-related infrastructure investment continue to shape energy markets, US natural gas is increasingly positioned at the center of several of the industry's most significant demand trends,\" EY's Patrick Jelinek said. \"The strength we're seeing in gas reserves, discoveries and revisions suggests producers are recognizing the opportunity and positioning for a future where natural gas plays an increasingly strategic role in the energy system.\" By Alex Kimani for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "过去五年中，埃克森美孚、雪佛龙、英国石油、壳牌和道达尔能源每年在股息和股票回购上的总支出超过1000亿美元，占其收益的近80%。",
+          "安永（EY）报告显示，美国最大的30家上市油气勘探和生产公司2025年资本支出同比下降49%，其中勘探支出下降11%至48亿美元，仅占总资本支出的3%。",
+          "来源叙事重点：探讨国际油气巨头及美国页岩油企在大幅削减资本支出（Capex）和转向股东回报的背景下，如何通过技术创新（AI/水平钻井）与消耗DUC库存维持产量新高；同时揭示这种“少花钱、多产油”模式背后的隐忧，即储量替代率下滑与未来供应弹性下降，并强调天然气在AI基础设施与能源安全中的战略转向。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T23:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html"
+          }
+        ]
+      },
+      {
+        "id": "story--canceled-physint-over-a-457357d6f1e96af6",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hideo Kojima Says Sony Canceled Physint Over A Zoom Call And Claims He Still Doesn’t Know The Reason Why",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:20:32.000Z",
+        "pubTime": "2026-09-21 07:20",
+        "url": "https://www.reddit.com/r/technology/comments/1wlw5jf/hideo_kojima_says_sony_canceled_physint_over_a/",
+        "imageUrl": "https://external-preview.redd.it/HiRY9hD7mO22ULRfLRM7k2hh-BBFnNBTSq88NfvGh7k.jpeg?width=640&crop=smart&auto=webp&s=1b7d0f74e2b99431fcb59d44d309429f7a6aec9a",
+        "fullContent": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-21 07:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wlw5jf/hideo_kojima_says_sony_canceled_physint_over_a/",
+            "publishedAt": "2026-09-20T23:20:32.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-aled-europe-largest-html-714a2f8b5e552033",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "'Rusty treasure' find revealed as Europe's largest assemblage of prehistoric iron bars",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:00:02.000Z",
+        "pubTime": "2026-09-21 07:00",
+        "url": "https://phys.org/news/2026-09-rusty-treasure-revealed-europe-largest.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-gravel-pit-in-dein.jpg",
+        "fullContent": "Analysis of a \"rusty treasure\" excavated during industrial gravel extraction at Deinham, Austria, reveals it is the largest mass find of prehistoric iron bars in Europe, pointing to iron production and trade during the Iron Age on an unprecedented scale.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-21 07:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-rusty-treasure-revealed-europe-largest.html",
+            "publishedAt": "2026-09-20T23:00:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1-snegir-2119134729-html-0c011be3ac7c98a9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Биолог рассказал, когда снегири прилетят в Москву",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-21T01:09:06.000Z",
+        "pubTime": "2026-09-21 09:09",
+        "url": "https://ria.ru/20260921/snegir-2119134729.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e7/01/0b/1844156099_0:203:2439:1575_650x0_80_0_0_6d00e80d00e2b41216fe9922fb8ee663.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-21 09:09 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260921/snegir-2119134729.html",
+            "publishedAt": "2026-09-21T01:09:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-to-the-snowden-archive-c4a0bb14aa5005b6",
+        "title": "斯诺登档案究竟经历了什么",
+        "originalTitle": "What happened to the Snowden archive",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T22:35:49.000Z",
+        "pubTime": "2026-09-21 06:35",
+        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "imageUrl": null,
+        "fullContent": "Published on 20 Sept 2026\n\nThe last document from the Snowden archive was published on 29 May 2019. The Guardian stopped publishing documents in February 2014, Der Spiegel in January 2015, and The New York Times and ProPublica in August 2015. After that, only The Intercept was still publishing documents, with only a few exceptions, until it closed its archive in March 2019. Eleven weeks later, on 29 May 2019, it released what would become the final batch of documents from the archive. Since then, no news outlet, journalist, or institution anywhere has published a single document from the Snowden archive.\n\nSnowden started reaching out to journalists months before having any material to share. In December 2012, he contacted Guardian columnist and former attorney Glenn Greenwald, requesting that he set up a secure communication channel, though Greenwald didn't know how to do so.[1] After a second attempt in January failed to make progress, Snowden shifted his focus to Laura Poitras, an American documentary filmmaker. Poitras then teamed up with an investigative journalist Barton Gellman.[1]\n\nSnowden shared the archive gradually. On 31 March 2013 he sent Poitras a link to an encrypted file called astro_noise,[2] which she downloaded and filmed herself doing so, but had no key to open it.[3] On 10 May Snowden posted a box from Hawaii to a Brooklyn address he had asked her to supply. It went to Jessica Bruder, a journalist who had agreed to receive a package without being told what it was, and who passed it unopened to Dale Maharidge, and then Maharidge handed it to Poitras on 15 May.\n\nOn 21 May 2013 Snowden sent Poitras and Gellman the keys to an encrypted archive called Pandora containing about 50,000 documents.[4][5][1]\n\nAt some point in late May, Snowden warned Poitras about what he called a \"single point of failure,\" and urged her to get copies of the material into other hands. She distributed three. One went to Trevor Timm of the Freedom of the Press Foundation, with a note asking him to hold the material and not to give it to anyone but Greenwald, and only if Greenwald asked in person. One went to a person who has asked not to be identified. The third went to someone who remains unknown. Maharidge kept a copy himself, saying in 2017 that he still had it.[6] Aside from Poitras, Gellman, and Greenwald, it's unclear whether the others holding copies can actually read the documents, since the copies are likely encrypted and they may not have the key.\n\nGreenwald received the Pandora copy from Poitras on 1 June 2013, on the way to the airport,[1] and read it for the first time on the flight to Hong Kong.[7] The Guardian journalist Ewen MacAskill was handed the GCHQ material in Hong Kong,[1] and brought it to the Guardian's London office.[8] Der Spiegel obtained their archive from Poitras in that summer.[9] The New York Times and ProPublica got theirs from the Guardian.[10][11]\n\nGreenwald said in 13 March 2019 that he and Poitras \"individually and independently, continue to possess full copies of the archive, as do other individuals and institutions.\"[12]\n\nPoitras said in 2022 that the archive \"still exists, and there is still more to report,\" describing \"a vast amount of information that hasn't been reported of enormous contemporary and historical significance.\" Greenwald said in 2023 that the archive runs to \"hundreds of thousands of documents, if not more.\" But neither has published anything from it in seven years, and neither has explained why.\n\nSnowden gave a large portion of the archive to the Scottish journalist Ewen MacAskill in Hong Kong, containing \"tens of thousands of documents.\" In Citizenfour, Snowden is filmed handing GCHQ material to MacAskill in the Hong Kong hotel room. Snowden describes it as coming from the agency's internal wiki — \"at the top secret, you know, super classified level, where anybody working intelligence can work on anything they want\" — and adds: \"That's what this is. I'm giving it to you. You can make the decision on that, what's appropriate, what's not.\" MacAskill brought his copy to the Guardian's London office.[8] The Guardian later stated that their archive contained around 58,000 documents.\n\nThe Guardian published its first Snowden story with a document from the archive on 6 June 2013. The following day, UK defence officials issued a confidential D notice to every major British media outlet \"in an attempt to censor coverage of surveillance tactics employed by intelligence agencies in the UK and US.\"\n\nThe DPBAC committee (the Defence, Press and Broadcasting Advisory Committee) issuing D notices runs what was then called the DA-Notice system, a voluntary arrangement dating to 1912, under which news organisations consult the Ministry of Defence before publishing material touching national security. In 2013, the serving secretary was Air Vice-Marshal Andrew Vallance.\n\nThe D Notice was issued to a press already inclined to cooperate. Reviewing the academic literature in 2018, Vian Bakir and Andrew McStay from Bangor University noted that:\n\nAccording to Bakir and McStay the alignment was close to uniform. The Daily Mail, Mirror, Star, Telegraph, Sun and Times were coded pro-surveillance. Only the Independent, the i and the People leaned the other way. The Guardian and the Express were balanced. What that meant in practice, they write, was that \"citizens' privacy rights and surveillance regulation were minimally discussed, while mass surveillance was normalised by suggesting that it is necessary for national security.\" Prominent press themes \"were that social media companies should do more to fight terrorism, and that while surveillance of politicians is problematic, surveillance of the public should be increased.\"\n\nThe Daily Mail – which published more articles on Snowden than any other British outlet besides the Guardian – is a prime example of this trend. In the six months following the initial leak, the outlet concentrated on Snowden's \"lavish lifestyle on the run and his sexual appeal.\" As Bakir and McStay note, these tactics appeared designed to discredit or draw attention away from the GCHQ revelations he exposed.\n\nFollowing pressure from Downing Street and Cabinet Secretary Jeremy Heywood, three Guardian executives destroyed the computers holding their London-based archive in a basement on 20 July 2013, six weeks after their first Snowden story. Two GCHQ technicians supervised the destruction. The paper kept the action secret[11][13], only making it public a month later on August 19.\n\nPaul Johnson, then deputy editor of the Guardian and one of the three who destroyed the computers, later called the destruction \"purely a symbolic act\", because the government knew \"that the material had been taken to the US to be shared with the New York Times. The reporting would go on. The episode hadn't changed anything.\"\n\nThe DPBAC committee's own minutes record something happening in the same weeks. Vallance told that \"at the outset the Guardian had avoided engaging with the DA-Notice system before publishing the first tranche\", that as a member of the Newspaper Publishers Association it \"was obliged to seek (but not necessarily to accept) DA Notice advice under the terms of the DA Notice code,\" and that this failure \"was a key source of concern and considerable efforts had been made to address it.\" Towards the end of July 2013, he said, the Guardian \"had begun to seek and accept DA Notice advice not to publish certain highly sensitive details.\"\n\nThe Guardian's then editor-in-chief Alan Rusbridger was publicly questioned on 3 December 2013, in the Home Affairs Committee, about the Guardian's Snowden reporting. \"In terms of publishing documents, I think we have published 26,\" Rusbridger said, \"I would not be expecting us to be publishing a huge amount more. With 26 over six months, I would say it has been a trickle.\" Rusbridger said that during the last six months \"there have been more than 100 contacts\" with UK and US government agencies.[14] \"We were in continuous contact with the intelligence agencies and the White House,\" Rusbridger writes in 2018.[15] When asked about how many of the 58,000 documents were read, Rusbridger replied \"I could not tell you. I don't know.\"[16]\n\nRusbridger told the Home Affairs Committee that of roughly 35 stories published, the Guardian had consulted the authorities on all but one. Of Vallance he said: \"We have, in fact, collaborated with him since and he has been at The Guardian to talk to all our reporters.\" Rusbridger added in 2018 that Vallance was in time invited into the Guardian's morning conference.[17] Rusbridger's account of the arrangement is that Vallance was reviewing stories as they came and rarely objecting.[18] Gellman wrote that the Guardian \"killed some of its stories for legal reasons and delayed others for months.\"[19]\n\nThree months later, on 27 February 2014, the Guardian published its last Snowden documents. Over nine months it had published around 30 of the 58,000 documents it held — 0.05%. Rusbridger would later describe the episode as the story with the biggest global impact in the Guardian's 190-year history.[20]\n\nWhat stopped in February 2014 was the publication of documents, not the reporting. For example on January 2015 the Guardian reported from the Snowden documents that GCHQ had captured the emails of journalists at major international outlets. And on June 2015 it published a joint investigation with The New York Times into GCHQ's role in American drone strikes in Yemen and Pakistan, drawn from the documents provided by Snowden to the Guardian \"and shared with The New York Times.\"\n\nSo even sixteen months after its last document publication, the Guardian was still analyzing the archive and sharing documents with its American partner, but it chose not to release any documents (nor did The New York Times).\n\nIn May in 2014, the DPBAC committee's chair reported that engagement with the Guardian had continued to strengthen and that the process \"had culminated by the appointment of Paul Johnson (Guardian deputy editor) as a DPBAC member.\"\n\nJacob Appelbaum – who worked on the archive, published extensive reporting in Der Spiegel and elsewhere, and helped Poitras vet Snowden — sharply criticized the Guardian in March 2016:\n\nIn his 2018 book Breaking News, Rusbridger covers the Snowden era in extensive detail, discussing the Heywood meetings, the destruction of the hard drives at the Guardian's London office, Miranda's detention at Heathrow, critical editorials from rival newspapers, and politicians demanding prosecutions. However, the reporting ends in a single clause: \"Once the Snowden coverage had died down.\"[21] This stands out as the only major event in the chapter lacking a clear actor or motivation. While all the other actions have clear motives, media coverage just fades away, with no explanation who decided to stop, when the choice was made, or why.\n\nWhen asked in 2023 about the lack of document publication, MacAskill blamed waning interest, noting that \"each story attracted smaller and smaller readerships, as interest dwindled.\"\n\nThat is hard to square with what the Guardian's own editor says about the same period. The paper published its last Snowden document accompynied with a story which was significant front-page news, as the most Snowden stories before it had been. Two months later it won a Pulitzer for the reporting. Eight months after the last document, Rusbridger records, the paper overtook The New York Times to become the leading serious English-language newspaper website in the world, having been the ninth-biggest paper in Britain.[22] He attributes the rise to doing \"the stuff that journalism was — at least in our reckoning — supposed to do\": a list of subjects he expected nobody to read, in which security and civil liberties come second and third. \"No one — surely — would read you if you banged on about climate change, security, civil liberties [...] But they did.\" He concluded that \"there was clearly a huge, and global, appetite for significant news presented seriously. There was a need for it.\"[22]\n\nNor had the appetite gone elsewhere. Der Spiegel went on publishing documents into 2015, with stories that made international headlines. The Intercept continued until 2019, across almost a hundred pieces. Whatever caused the Guardian to stop publishing documents in February 2014, it was not that there was nothing left or that nobody was reading.\n\nAccording to Rusbridger[10] and MacAskill, Snowden had asked from the start that the reporting stay on surveillance and privacy rather than the wartime use of intelligence, and that Rusbridger had issued that internally as an edict. MacAskill describes being asked by Rusbridger, at some point after the London copy was destroyed, to go back to The New York Times — \"which still had the material\" — and review it for stories that might become reportable if that restriction was lifted. He returned to London with a list of about a dozen. Rusbridger rejected them, MacAskill writes, \"not only because he had not intended to renege on the agreement with Snowden, but also because none of them was as explosive as the original stories.\"\n\nThere is a gap in the account of where the Guardian's copies went. Rusbridger writes in Breaking News that after the London destruction the paper was \"left with the dossier intact — in New York,\" noting that the UK authorities showed little interest in \"the material we held at 536 Broadway,\"[23] the Guardian's own New York office. But when Rusbridger later asked MacAskill to review what remained, MacAskill didn't go to his own paper's New York office, but instead he was sent to The New York Times, \"which still had the material.\" And in 2023, describing where the archive sits now, MacAskill mentions only the copy locked in an office at The New York Times, with the Guardian retaining responsibility for it. The Guardian's own New York copy is not mentioned.\n\nThe Guardian shared their archive with The New York Times and partly with ProPublica,[11] under an agreement Rusbridger describes in Breaking News.[10]\n\nIn March 2016, Appelbaum said that the Guardian holds ProPublica in a gag over the Snowden archive.\n\nOn 18 August 2026 we contacted the Guardian's press office with questions. The press office replied saying they had nothing new to share, that they don't routinely comment on editorial decision making, and that we were asking about issues from over a decade ago. They didn't address whether they still hold a copy or if any material remains at The New York Times and whether they retain any responsibility for it, or whether they hold any approval rights over publication by their partners – none of which are editorial decisions.\n\nBarton Gellman holds a significant portion of the full archive. He received a copy with Poitras from Snowden in 21 May 2013,[1] containing over 50,000[5] documents.[4] Gellman took a copy of his archive to The Washington Post's New York office in May 2013, where it was secured[24] until he left The Washington Post in 2014 and it stopped publishing Snowden documents.\n\nGellman said in 2020 that his \"material is now in cold storage, as secure and inaccessible as I could devise.\" In 2022 he agreed with Poitras that the archive would be \"really valuable for constructive research,\" but added that \"the opsec needed to share it with anyone else is too hard to deal with. I just put the whole thing in cold storage. I feel bad about that.\"\n\nGellman's account of what The Washington Post built is the fullest description anyone has given of how the archive was held in any outlet.\n\nHe went to the editor, Marty Baron, with a list. Dedicated computers with freshly wiped, encrypted drives. Networking hardware physically removed, cutting the machines off from the internet and the newsroom's own systems. A windowless room with a high-security lock, a reinforced door, and a heavy safe bolted to the floor. Decryption keys stored on memory cards and never kept in the same room except when in use. Access would require four credentials — door key, safe combination, digital key card, passphrases — divided among the team, with nobody but Gellman holding all four.[25]\n\nThe Washington Post's first attempt at the room had a wall full of windows, with a view of the Russian ambassador's residence half a block away. They found another. It got a high-security lock, a camera in the hall outside and a safe weighing four hundred pounds. Gellman kept a second safe at his own office in New York.[25]\n\nWorking alongside technologist Ashkan Soltani, they prepared their laptops by removing the internal Wi-Fi, Bluetooth, and batteries, ensuring the machines would instantly shutdown and encrypt themselves if unplugged. They physically sealed the USB ports and maintained strict security by taking their keys out of the room every time they left, even for a quick bathroom break. To catch any potential physical tampering, Gellman applied epoxy and glitter to the laptop screws and tested ultraviolet powder on the safe's dial. He stored all his notes on encrypted volumes that required five distinct passphrases just to open each morning, a system that backfired when he forgot one passphrase and lost access to some files forever.[25]\n\nThe Washington Post published its last Snowden documents in July 2014. At the end, it published around 30 documents in total,[26] or about 0.06% from the archive it had.\n\nGellman writes that by late autumn 2015, he and Soltani were no longer writing articles for the newspaper. Soltani stopped using his old laptop, gave back an encryption key fob, and cut his ties to the archive.[27]\n\nBoth The New York Times and ProPublica received material from the Guardian in 2013, under the conditions Rusbrdiger typed onto the sheet of A4.[10] Neither held the full archive, and neither has ever said how much it received.\n\nThe New York Times and ProPublica published a handful of documents between 2014 and 2015.",
+        "fullTranslation": "发布于 2026 年 9 月 20 日\n\n来自斯诺登档案的最后一份文件发表于 2019 年 5 月 29 日。《卫报》于 2014 年 2 月停止发布相关文件，《明镜》周刊于 2015 年 1 月停发，《纽约时报》和 ProPublica 则在 2015 年 8 月停发。此后，除了少数特例外，仅有 The Intercept 仍在发布文件，直至其在 2019 年 3 月关闭了其档案库。11 周后，即 2019 年 5 月 29 日，该机构发布了该档案库中的最后一批文件。自那时起，世界上再没有任何新闻机构、记者或机构发表过斯诺登档案中的任何一份文件。\n\n斯诺登在掌握可供分享的材料数月之前，就已开始联系记者。2012 年 12 月，他联系了《卫报》专栏作家兼前律师格伦·格林沃尔德（Glenn Greenwald），要求其建立安全通信渠道，不过格林沃尔德当时并不知道该如何操作。[1] 在 1 月份的第二次尝试未能取得进展后，斯诺登将重心转向了美国纪录片导演劳拉·珀特阿斯（Laura Poitras）。随后，珀特阿斯与调查记者巴顿·格尔曼（Barton Gellman）展开合作。[1]\n\n斯诺登采取逐步共享档案的方式。2013 年 3 月 31 日，他向珀特阿斯发送了一个名为 astro_noise 的加密文件链接[2]，珀特阿斯下载了该文件并拍摄了自己下载的过程，但她并没有解密该文件的密钥。[3] 5 月 10 日，斯诺登从夏威夷将一个包裹邮寄到他曾让珀特阿斯提供的一个布鲁克林地址。该包裹寄给了记者杰西卡·布鲁德（Jessica Bruder），后者同意在不知包裹内为何物的情况下代收包裹，随后她未拆封便转交给了戴尔·马哈里奇（Dale Maharidge），接着马哈里奇于 5 月 15 日将其递交给了珀特阿斯。\n\n2013 年 5 月 21 日，斯诺登向珀特阿斯和格尔曼发送了一个名为 Pandora、内含约 5 万份文件的加密档案的密钥。[4][5][1]\n\n在 5 月下旬的某个时候，斯诺登就他所称的“单点故障”向珀特阿斯发出警告，并敦促她将材料副本分散到其他人手中。她共分发了三份。一份交给了新闻自由基金会（Freedom of the Press Foundation）的特雷弗·蒂姆（Trevor Timm），附言要求其保管这些材料，除格林沃尔德本人当面索取外，不得提供给任何人。第二份交给了一名要求匿名的个人。第三份则交给了一个至今身份未知的人。马哈里奇自己也保留了一份，并在 2017 年表示他手中仍留有该副本。[6] 除珀特阿斯、格尔曼和格林沃尔德之外，其他持有副本的人是否真的能阅读这些文件尚不得而知，因为这些副本很可能是加密的，且他们可能没有密钥。\n\n格林沃尔德于 2013 年 6 月 1 日在前往机场的途中从珀特阿斯处收到了 Pandora 的副本[1]，并在飞往香港的航班上首次阅读了该文件。[7]《卫报》记者尤恩·麦卡斯基尔（Ewen MacAskill）在香港接到了英国政府通信总部（GCHQ）的材料[1]，并将其带回了《卫报》伦敦办事处。[8]《明镜》周刊当年夏天从珀特阿斯处获得了他们的档案副本。[9]《纽约时报》和 ProPublica 则是从《卫报》获得了相关材料。[10][11]\n\n格林沃尔德在 2019 年 3 月 13 日表示，他与珀特阿斯“各自独立地继续拥有档案的完整副本，其他个人和机构也是如此。”[12]\n\n珀特阿斯在 2022 年表示，该档案“仍然存在，而且还有更多内容可以报道”，并形容其中有“大量尚未报道、具有重大当代和历史意义的信息”。格林沃尔德在 2023 年表示，该档案包含“数十万份文件，甚至更多”。然而，在过去七年里，两人均未从中发表过任何内容，也均未解释原因。\n\n斯诺登在香港将档案的很大一部分交给了苏格兰记者尤恩·麦卡斯基尔，其中包括“数万份文件”。在纪录片《第四公民》（Citizenfour）中，记录了斯诺登在香港酒店房间内向麦卡斯基尔递交 GCHQ 材料的画面。斯诺登称这些内容来自该机构的内部维基——“属于绝密、极其机密的级别，任何在情报部门工作的人都可以在上面处理他们想处理的任何事务”——并补充道：“这就是这些材料的内容。我现在把它交给你。你可以由自己来决定，什么是恰当的，什么是不恰当的。”麦卡斯基尔将他的副本带到了《卫报》伦敦办事处。[8]《卫报》后来表示，他们的档案库包含约 58,000 份文件。\n\n2013 年 6 月 6 日，《卫报》利用该档案中的一份文件发表了第一篇关于斯诺登的报道。次日，英国国防官员向所有英国主要媒体发出了机密的“D通告”（D notice），“试图审查有关英美情报机构所采用监控策略的报道”。\n\n发布 D 通告的国防、新闻及广播咨询委员会（DPBAC，即当时的国防咨询通告系统 DA-Notice）是一个可追溯至 1912 年的自愿性机制，在此机制下，新闻机构在发表涉及国家安全的内容之前需咨询国防部。2013 年，该委员会的时任秘书是空军少将安德鲁·瓦兰斯（Andrew Vallance）。\n\nD 通告下发给了一群本就倾向于配合的媒体机构。班戈大学（Bangor University）的维安·巴基尔（Vian Bakir）和安德鲁·麦克泰（Andrew McStay）在 2018 年回顾学术文献时指出：\n\n根据巴基尔和麦克泰的研究，媒体的立场趋同度几乎一致。《每日邮报》、《镜报》、《星报》、《电讯报》、《太阳报》和《泰晤士报》都被归类为支持监控的一方。只有《独立报》、《i》报和《星期天人物报》（The People）倾向于反对立场。《卫报》和《快报》则持中立态度。他们写道，这在实践中意味着“公民的隐私权和监控监管极少被讨论，而大规模监控则通过宣称其对国家安全必不可少而走向常态化”。媒体突出的主题是“社交媒体公司应在打击恐怖主义方面采取更多举措，而监控政客虽存在问题，但对公众的监控应当加强”。\n\n除了《卫报》之外发表斯诺登报道数量最多的英国媒体《每日邮报》，便是这种趋势的典型例证。在最初泄密后的六个月里，该报重点报道斯诺登“流亡途中的奢华生活及其性吸引力”。正如巴基尔和麦克泰所指出的，这些手法似乎旨在抹黑他，或转移公众对他揭露 GCHQ 内幕的注意力。\n\n在受到唐宁街和内阁秘书杰里米·海伍德（Jeremy Heywood）的施压后，2013 年 7 月 20 日——即首篇斯诺登报道发表六周后——《卫报》的三名高管在地下室中砸毁了存放其伦敦档案的电脑。两名 GCHQ 技术人员现场监督了销毁过程。该报对此事予以保密[11][13]，直到一个月后的 8 月 19 日才将其公之于众。\n\n时任《卫报》副主编、参与砸毁电脑的三人之一保罗·约翰逊（Paul Johnson）后来称这种销毁“纯粹是一种象征性行为”，因为政府明知“这些材料已经被带到了美国并与《纽约时报》共享。报道仍将继续。这一插曲并未改变任何事情。”\n\nDPBAC委员会自身的会议纪要记录了在同一时期发生的事情。瓦兰斯（Vallance）表示，“在最开始，卫报在发表第一批披露内容之前曾避免与DA通知（DA-Notice）机制打交道”，作为报纸出版商协会的成员，它“根据DA通知守则的条款有义务寻求（但不一定必须采纳）DA通知的建议”，而未能做到这一点“曾是引起严重担忧的一个主要来源，并且为此付出了相当大的努力来予以解决”。他说，在2013年7月下旬，卫报“已经开始寻求并采纳DA通知的建议，不再发表某些高度敏感的细节”。\n\n2013年12月3日，卫报时任总编辑艾伦·拉斯布里杰（Alan Rusbridger）就该报的斯诺登报道在内政事务委员会接受了公开质询。拉斯布里杰说：“就公布文件而言，我认为我们已经公布了26份。我预计我们不会公布更多了。六个月公布26份，我觉得可以说是涓涓细流。”拉斯布里杰表示，在过去的六个月里，与英美政府机构“进行了100多次接触”[14]。“我们一直与情报机构和白宫保持着联系，”拉斯布里杰在2018年写道[15]。当被问及这58,000份文件中到底读过了多少份时，拉斯布里杰回答道：“我说不上来。我不知道。”[16]\n\n拉斯布里杰向内政事务委员会透露，在发表的约35篇报道中，卫报就其中除一篇外的所有报道均向当局进行了咨询。谈及瓦兰斯时他说：“事实上，此后我们一直与他合作，他也曾来到卫报与我们所有的记者交流。”拉斯布里杰在2018年补充说，瓦兰斯后来甚至被邀请参加了卫报的晨会[17]。拉斯布里杰对这种安排的描述是，瓦兰斯会在报道出炉时对其进行审阅，且极少提出反对[18]。盖尔曼（Gellman）写道，卫报“出于法律原因撤下了部分报道，并将其余一些报道推迟了数月之久”[19]。\n\n三个月后，即2014年2月27日，卫报公布了其最后一批斯诺登文件。在九个月的时间里，该报在其持有的58,000份文件中大约公布了30份——占比0.05%。拉斯布里杰后来将这一事件描述为卫报190年历史上产生全球影响最大的报道[20]。\n\n在2014年2月停止的是文件的公布，而非相关报道。例如，2015年1月，卫报根据斯诺登文件报道称，英国政府通信总部（GCHQ）截获了各大国际媒体记者的电子邮件。2015年6月，该报与《纽约时报》联合发表了一项调查，披露GCHQ在美军针对也门和巴基斯坦的无人机袭击中所扮演的角色，该调查素材取材于斯诺登提供给卫报“并与《纽约时报》共享”的文件。\n\n因此，即使在最后一次公布文件的十六个月之后，卫报仍在分析该档案并与美国合作伙伴共享文件，但它选择不再公开发布任何文件（《纽约时报》亦未发布）。\n\n2014年5月，DPBAC委员会主席报告称，与卫报的接触不断深化，这一过程“最终以任命保罗·约翰逊（Paul Johnson，卫报副总编辑）为DPBAC成员而达到顶峰”。\n\n雅各布·阿佩尔鲍姆（Jacob Appelbaum）曾参与处理这批档案，在《明镜周刊》等刊物上发表了大量报道，并曾协助波伊特拉斯（Poitras）对斯诺登进行背景调查，他在2016年3月对卫报提出了尖锐批评：\n\n在其2018年出版的《突发新闻》（Breaking News）一书中，拉斯布里杰极其详尽地记录了斯诺登时代，探讨了海伍德（Heywood）会晤、卫报伦敦办公室硬盘被销毁、米兰达（Miranda）在希思罗机场被扣留、竞争对手报纸发表的批评社论以及要求起诉的政客等事件。然而，这段报道历程却终结于一句简短的分句：“一旦斯诺登的报道平息下来。”[21] 这成为该章节中唯一缺乏明确行动主体或动机的重大事件。当所有其他行动都有明确的动机时，媒体报道却就这样悄然退场，没有任何关于是谁决定停止、何时做出的决定、或是为何做出该决定的解释。\n\n当在2023年被问及为何缺乏文件公布时，麦卡斯基尔（MacAskill）将其归咎于公众兴趣的衰退，指出“随着兴趣消退，每篇报道吸引的读者群越来越小”。\n\n这与卫报自己的主编对同一时期的描述很难相吻合。该报在公布其最后一份斯诺登文件时附带了一篇极具分量的重要头条报道，就像此前的大多数斯诺登报道一样。两个月后，该报道获得了普利策奖。拉斯布里杰记载，在公布最后一份文件的八个月后，该报超过了《纽约时报》，成为全球首屈一指的严肃英文报纸网站，而此前它在英国仅位列第九大报刊[22]。他将这种崛起归功于践行了“至少在我们看来新闻业本该做的事情”：这份他原本预计没人会读的选题清单上，安全和公民自由高居第二和第三位。“如果你整天大谈气候变化、安全和公民自由……肯定没有人会读你的报道。但他们确实读了。”他得出结论称，“显然，人们对以严肃方式呈现的重要新闻有着巨大的全球性需求。这种需求切实存在。”[22]\n\n其他地方的这种需求也并未消退。《明镜周刊》直到2015年仍在继续公布文件，其报道引发了国际头条关注。《拦截》（The Intercept）更是持续公布至2019年，发表了近百篇报道。无论是什么原因导致卫报在2014年2月停止公布文件，绝非是因为材料耗尽或无人阅读。\n\n根据拉斯布里杰[10]和麦卡斯基尔的说法，斯诺登从一开始就要求报道集中在监控和隐私方面，而非情报的战时使用，而拉斯布里杰已将此作为内部硬性指令下达。麦卡斯基尔描述道，在伦敦的备份被销毁后的某个时间，拉斯布里杰曾要求他返回《纽约时报》——“他们仍保留着这批材料”——并审查如果解除该限制哪些报道可以发表。他带着一份包含大约十几篇选题的清单返回伦敦。麦卡斯基尔写道，拉斯布里杰拒绝了这些选题，“不仅是因为他无意违背与斯诺登的协议，还因为其中没有任何一篇能像最初的那些报道那样具有爆炸性。”\n\n关于《卫报》（The Guardian）所持副本去向的记述存在一段空白。拉斯布里杰（Rusbridger）在《突发新闻》（Breaking News）中写道，在伦敦的资料被销毁后，该报“完整保留了档案——存放在纽约”，并指出英国当局对“我们存放在百老汇536号的资料”几乎没有表现出任何兴趣[23]，那里正是《卫报》自己的纽约办公室。然而，当拉斯布里杰后来要求麦克阿斯吉尔（MacAskill）核查剩余资料时，麦克阿斯吉尔并没有去自家报社的纽约办公室，而是被派往《纽约时报》（The New York Times），“因为那里仍存有这些材料”。而在2023年，当麦克阿斯吉尔描述该档案目前的下落时，他只字未提《卫报》自己在纽约的副本，仅提及锁在《纽约时报》某间办公室里的那份副本，且《卫报》仍对其保留监管责任。\n\n根据拉斯布里杰在《突发新闻》中所描述的协议[10]，《卫报》曾与《纽约时报》共享了其档案，并与ProPublica共享了部分内容[11]。\n\n2016年3月，阿佩尔鲍姆（Appelbaum）表示，《卫报》对ProPublica就斯诺登档案下了封口令。\n\n2026年8月18日，我们联系了《卫报》的新闻办公室提出疑问。该办公室回复称，他们没有任何新信息可以分享，他们通常不对编辑决策置评，并且我们所询问的是十多年前的事情。他们并未回应其自身是否仍保留有副本，或者《纽约时报》是否还留存任何资料以及他们是否仍对其负有责任，亦或是他们是否对合作伙伴的发表拥有任何审批权——而这些没有一项属于编辑决策范畴。\n\n巴顿·格尔曼（Barton Gellman）持有全部档案中的相当大一部分。他与波伊特拉斯（Poitras）于2013年5月21日从斯诺登处获得了一份副本[1]，内含超过50,000份[5]文件[4]。格尔曼于2013年5月将该档案的一份副本带到《华盛顿邮报》（The Washington Post）的纽约办公室，并在那里进行严密保管[24]，直至他于2014年离开《华盛顿邮报》，该报随后停止发布斯诺登文件。\n\n格尔曼在2020年表示，他的“资料目前处于冷存储状态，其安全和难以访问程度是我所能设计出的最高水平”。2022年，他赞同波伊特拉斯的看法，即该档案“对于建设性研究极具价值”，但补充说：“与其他人共享档案所需的操作安全防范措施实在太繁琐，难以处理。我索性把整套东西都放进了冷存储中。对此我感到很遗憾。”\n\n格尔曼对《华盛顿邮报》所建立的安全措施的叙述，是所有人关于任一媒体机构如何保管该档案所给出的最详尽描述。\n\n当时他带着一份清单去找编辑马蒂·巴伦（Marty Baron）。清单内容包括：配备全新擦除并经过加密的专用电脑；物理拆除网络硬件，切断机器与互联网及编辑部自身系统的连接；一间带有高安全性锁、加固门以及螺栓固定在地板上的重型保险库的无窗房间；解密密钥保存在存储卡中，除使用期间外绝不放在同一房间内。访问需要四项凭证——门钥匙、保险库密码、数字钥匙卡、口令密码——分散在团队成员中，除格尔曼外无人同时持有这四项凭证[25]。\n\n《华盛顿邮报》首次尝试设置的房间有一整面朝外的窗户，能一眼望见半个街区外的俄罗斯大使官邸。于是他们另选了一间。该房间配备了高安全性锁、门外走廊的监控摄像头以及一个重达四百磅的保险库。格尔曼还在自己位于纽约的办公室保留了第二个保险库[25]。\n\n在与技术专家阿什坎·索尔塔尼（Ashkan Soltani）共事期间，他们对笔记本电脑进行了改造，拆除了内置Wi-Fi、蓝牙和电池，以确保机器一旦拔掉电源就会立即关机并自我加密。他们物理封堵了USB接口，并保持严格的安全防范：每次离开房间都随身带走钥匙，哪怕只是去快速上个洗手间。为了察觉任何潜在的物理篡改痕迹，格尔曼在笔记本电脑的螺丝上涂抹了环氧树脂和闪粉，并在保险库的旋钮上测试了紫外荧光粉。他将所有笔记保存在加密卷中，每天早晨仅为了解开访问权限就需要输入五个互不相同的密码口令；然而该系统最终导致了反噬，有一次他忘记了其中一个密码口令，导致部分文件永远无法被找回[25]。\n\n《华盛顿邮报》于2014年7月发布了最后一批斯诺登文件。截至最后，该报总共仅发表了大约30份文件[26]，约占其所持有档案的0.06%。\n\n格尔曼写道，到2015年深秋，他和索尔塔尼已不再为该报撰写文章。索尔塔尼停用了他旧的笔记本电脑，归还了加密密钥令牌，彻底断绝了与该档案的关联[27]。\n\n《纽约时报》和ProPublica均于2013年根据拉斯布里杰在一张A4纸上打印的条件，从《卫报》处获取了资料[10]。这两家机构均未持有全部档案，也从未透露过自身收到了多少资料。\n\n在2014年至2015年间，《纽约时报》和ProPublica仅发表了寥寥数份文件。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 44,
+        "translationParagraphs": 44,
+        "keyTakeaways": [
+          "斯诺登档案中最后一份文件发表于2019年5月29日，由The Intercept发布。",
+          "《卫报》于2014年2月停止发布文件，《明镜》周刊于2015年1月停止，《纽约时报》和ProPublica于2015年8月停止，The Intercept于2019年3月关闭其档案库。",
+          "来源叙事重点：揭示斯诺登档案在主流媒体手中经历了迅速的审查软化与事实上的封存；重点聚焦各大媒体早在2014至2019年间就完全停止发布原始文件，并详述英国政府（通过GCHQ和DA-Notice审查机制）对《卫报》施加的深层压力与合作渗透，质问为何仍有海量具有重大历史与当代意义的档案未见天日。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-20T22:35:49.000Z",
+            "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive"
+          }
+        ]
+      },
+      {
+        "id": "story-5-404a-ae3a-3921e887bab3-b69a6fd614d48bd2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T21:47:35.000Z",
+        "pubTime": "2026-09-21 05:47",
+        "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8d2cfe2c-bd62-4c09-97bb-106b2950ef98.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-21 05:47 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-20T21:47:35.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--is-0-chance-ai-destroys-a8e6057d6d94b717",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-20T23:12:26.000Z",
+        "pubTime": "2026-09-21 07:12",
+        "url": "https://www.reddit.com/r/technology/comments/1wlvyua/jensen_huang_says_there_is_0_chance_ai_destroys/",
+        "imageUrl": "https://external-preview.redd.it/t5ytGCMnoHd0YExaDYcVertN-gXwqLkNjnOhmro3hGQ.jpeg?width=640&crop=smart&auto=webp&s=059db157121e317b815a55df24a0c4dcb0213676",
+        "fullContent": "submitted by /u/Logical_Welder3467 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-21 07:12 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wlvyua/jensen_huang_says_there_is_0_chance_ai_destroys/",
+            "publishedAt": "2026-09-20T23:12:26.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1789943643532,
     "timeDisplay": "2026-09-21 06:34 (UTC+8)",
     "date": "2026-09-21",
