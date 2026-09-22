@@ -1,5 +1,1572 @@
 [
   {
+    "timestamp": 1790116167863,
+    "timeDisplay": "2026-09-23 06:29 (UTC+8)",
+    "date": "2026-09-23",
+    "runId": "feed-20260922T221753642Z-4uzkko",
+    "generatedAt": "2026-09-22T22:29:27.863Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 06:17",
+      "lead": "本轮抓取于 2026-09-23 06:17 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】AI训练数据需求激增，Snorkel AI估值翻三倍至35亿美元：旨在帮助人工智能实验室及企业构建训练数据集与模拟环境的初创公司 Snorkel AI，已在 E 轮融资中筹集了 3.5 亿美元，估值达到 35 亿美元。",
+        "【undefined】物理学家破解连接超慢量子磁性与超快黑洞物理的数学机制：作者：汤姆·丁基（Tom Dinki），纽约州立大学布法罗分校 编辑：罗伯特·伊根（Robert Egan） 本文已根据Science X的编辑流程和政策进行审核。编辑在确保内容可信度的同时强调了以下属性：同行评审发表。",
+        "【undefined】紫外线指数并不是裸露皮肤感受到的阳光温度：阳光的温暖并不是衡量你在特定情况下会多快被晒伤的可靠指标。一方面，即使在较凉爽的阴天，你仍然可能被晒伤；另一方面，早晨阳光照在皮肤上可能感觉灼热，但你却不会（很快）被晒伤。",
+        "【undefined】澳大利亚新闻直播：美国广播公司监督机构批评《四角》节目事实核查及“保密文化”：实时关注当天新闻",
+        "【undefined】第81届联大一般性辩论开幕：中新社联合国9月22日电 (记者 王帆)第81届联合国大会一般性辩论22日在纽约联合国总部开幕。",
+        "【undefined】西蒙娜·拜尔斯买了一辆新保时捷，因为她的旧车如今带着令人 unmistakable 的盗窃气味：西蒙娜·拜尔斯在社交媒体上透露，自己的保时捷被盗后，最近去买了一辆车。",
+        "【undefined】NBA球星凯文·杜兰特对恩尼斯·坎特·弗里德姆关于WNBA跨性别争议的看法不屑一顾：“我根本不在乎”：凯文·杜兰特不想参与WNBA关于性别参赛资格的争论。",
+        "【undefined】美联储理事会宣布批准班克第一公司（BancFirst Corporation）的申请：美国政府官方网站"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "近期文章信息不完整，暂无法形成日尺度分析",
+      "lead": "当前证据包缺少目标文章的标题、来源、正文及可核实引用，仅提供少量相关文章摘要，无法据此编制有证据支持的主题分析。",
+      "themes": [
+        {
+          "name": "证据不足",
+          "analysis": "目标文章内容状态为缺失，事实、引语、实体、冲突和引用均为空；相关文章多数仅显示待翻译标题或无摘要，因此无法可靠判断新闻事件、发展趋势及其影响。"
+        },
+        {
+          "name": "国际安全与外交",
+          "analysis": "相关文章摘要涉及乌克兰总统关于俄罗斯对邻俄国家发动无人机、导弹或地面攻击风险的警告，以及美国总统关于伊朗的表态，但缺少来源、上下文和完整正文，不能进一步推断事件性质或政策走向。"
+        },
+        {
+          "name": "国际组织与全球议题",
+          "analysis": "相关文章显示第81届联合国大会一般性辩论于2026年9月22日在纽约联合国总部开幕，但证据包未提供更多议程、发言或决议信息，暂不足以形成深入分析。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 92,
+      "completedTasks": 92,
+      "succeeded": 50,
+      "degraded": 42,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 92,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 694172,
+      "byRole": {
+        "translator": {
+          "attempts": 55,
+          "degraded": 30,
+          "succeeded": 25
+        },
+        "fact-extractor": {
+          "attempts": 11,
+          "succeeded": 3,
+          "degraded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 11,
+          "succeeded": 8,
+          "degraded": 3
+        },
+        "topic-classifier": {
+          "attempts": 11,
+          "succeeded": 11
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 92,
+          "degraded": 42,
+          "succeeded": 50
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-2-translator-0",
+      "article-2-translator-1",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-9-translator-1",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-15-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-0",
+      "article-23-translator-0",
+      "article-25-translator-0",
+      "article-33-translator-0",
+      "article-36-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-41-translator-0",
+      "article-42-translator-0",
+      "article-43-translator-0",
+      "article-43-translator-1",
+      "article-44-translator-0",
+      "article-45-translator-0",
+      "article-47-translator-0",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "article-6-fact-extractor",
+      "article-7-fact-extractor",
+      "article-8-source-positioner",
+      "article-9-fact-extractor",
+      "article-10-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:37.447Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.041Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:37.458Z",
+        "lastSuccessAt": "2026-09-22T22:17:37.947Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.616Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.712Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.632Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.101Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.957Z",
+        "lastSuccessAt": "2026-09-22T22:17:41.254Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.838Z",
+        "lastSuccessAt": "2026-09-22T22:17:41.127Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:41.329Z",
+        "lastSuccessAt": "2026-09-22T22:17:41.482Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:37.995Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.526Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.750Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.110Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.722Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.092Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.236Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.686Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.142Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.662Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.041Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.750Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.110Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.437Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:40.997Z",
+        "lastSuccessAt": "2026-09-22T22:17:42.012Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:40.208Z",
+        "lastSuccessAt": "2026-09-22T22:17:41.604Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:40.899Z",
+        "lastSuccessAt": "2026-09-22T22:17:41.329Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.000Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.406Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.526Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.632Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.437Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.616Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:37.947Z",
+        "lastSuccessAt": "2026-09-22T22:17:37.995Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:36.522Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.009Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.406Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.549Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.330Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.777Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.092Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.561Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.395Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.579Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.579Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.838Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.834Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.129Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:41.127Z",
+        "lastSuccessAt": "2026-09-22T22:17:43.989Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.464Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.644Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.735Z",
+        "lastSuccessAt": "2026-09-22T22:17:40.068Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.644Z",
+        "lastSuccessAt": "2026-09-22T22:17:40.087Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.827Z",
+        "lastSuccessAt": "2026-09-22T22:17:40.208Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:41.254Z",
+        "lastSuccessAt": "2026-09-22T22:17:41.445Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.662Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.834Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.004Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.557Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.129Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.464Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.777Z",
+        "lastSuccessAt": "2026-09-22T22:17:40.183Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-22T22:17:39.561Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.557Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.957Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:36.520Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.110Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-22T22:17:39.688Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:36.521Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.722Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:40.068Z",
+        "lastSuccessAt": "2026-09-22T22:17:41.802Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.110Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.330Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.009Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.236Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.549Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.688Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:39.101Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.395Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:40.087Z",
+        "lastSuccessAt": "2026-09-22T22:17:40.899Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:40.183Z",
+        "lastSuccessAt": "2026-09-22T22:17:40.997Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.712Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.000Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:38.686Z",
+        "lastSuccessAt": "2026-09-22T22:17:39.004Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:36.505Z",
+        "lastSuccessAt": "2026-09-22T22:17:37.447Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:36.518Z",
+        "lastSuccessAt": "2026-09-22T22:17:37.458Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T22:17:36.519Z",
+        "lastSuccessAt": "2026-09-22T22:17:38.142Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-tins-war-could-head-next-2da0b941be316e48",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T22:11:03.000Z",
+        "pubTime": "2026-09-23 06:11",
+        "url": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/zelenskyy-in-italy.jpg?ve=1&tl=1",
+        "fullContent": "UNITED NATIONS - Ukrainian President Volodymyr Zelenskyy warned Tuesday that Russia could launch attacks against other European countries, telling Fox News Digital that the risk of a new offensive is \"very high\" as Moscow seeks to undermine European unity and weaken support for Ukraine.\n\nSpeaking to reporters following his meeting with President Donald Trump on the sidelines of the United Nations General Assembly in New York, Zelenskyy was asked by Fox News Digital about the possibility that Russia could invade or attack another European country in the near future.\n\n\"That's why the risk of offensive by drones, missiles or land operation is very high against other countries who are bordering Russia or Belarus ,\" Zelenskyy said.\n\nUS INTEL WARNS RUSSIA COULD LAUNCH LIMITED ATTACK ON NATO ALLY IN EFFORT TO FRAGMENT ORGANIZATION: REPORT\n\nThe Ukrainian leader argued that Russian President Vladimir Putin , unable to achieve his military objectives in Ukraine, could seek to create instability elsewhere in Europe to pressure Western governments into reducing their support for Kyiv.\n\n\"How to divide unanimity in Europe? ... To attack somebody else. To attack and say, look, I will go further if you will not stop this,\" Zelenskyy said.\n\nHe pointed to drone incursions and disruptions affecting several European countries, arguing that Moscow is already attempting to intimidate European societies and test their response.\n\nZelenskyy said Putin's inability to secure a decisive victory in Ukraine could push him toward additional confrontations, as he faces pressure to justify the war to the Russian public.\n\nFINNISH FOREIGN MINISTRY OFFICIAL DETAILS HOW RUSSIA'S 'HYBRID WARFARE' RESHAPED BORDER SECURITY\n\nAsked by Fox News Digital what European countries should do in response to the growing threat, Zelenskyy offered a direct answer.\n\n\"Respond. Always respond. It's not about the war. If you don't respond, Russians, they will go further,\" he said.\n\nThe warning comes amid heightened concerns about Russian activity in Europe. Zelenskyy's warning comes amid heightened tensions across Europe following a series of Russian drone incursions and warnings from European leaders about the possibility of further attacks.\n\nGerman Chancellor Friedrich Merz warned on Sept. 14 that peace in Europe was under threat, urging European countries to take the danger seriously. Speaking at an EU-Arctic Summit in Finland, Merz said Russia's presence in the region and its hybrid attacks elsewhere in Europe were increasing, calling for a united response from European countries and NATO.\n\nRUSSIA’S STRIKES NEAR MOLDOVA RAISE ALARM OVER PUTIN’S PLANS FOR EUROPE’S EASTERN FLANK\n\nThe German leader's warning followed an attempted drone attack at Leipzig/Halle Airport on Aug. 4, which German authorities publicly attributed to Russia on Sept. 1.\n\nPolish Prime Minister Donald Tusk issued a separate warning on Sept. 17 that Russia was planning drone or missile attacks against NATO countries supporting Ukraine, including Poland, while potentially portraying the incidents as accidental to weaken the alliance's response.\n\nThe concerns are not limited to hypothetical threats. On Sept. 8, a drone entered Romanian airspace before returning to Moldova and crashing, according to Romania's Defense Ministry. A week later, Italian fighter jets operating under NATO's air defense mission shot down a drone that entered Lithuanian airspace from Belarus. Italian officials said the drone most likely came from Russia, although Lithuanian authorities were still investigating its origin.\n\nTRUMP SAYS US WILL LET UKRAINE MAKE PATRIOT MISSILES IN MAJOR POLICY SHIFT\n\nLatvian President Edgars Rinkēvičs also warned in a Sept. 18 interview with The Guardian that European countries and NATO were struggling to keep pace with developments in drone warfare , highlighting gaps in air and missile defenses that could leave European countries vulnerable to Russian attacks.\n\nZelenskyy's remarks followed talks with Trump in which the Ukrainian leader said he raised the possibility of a mutual halt to attacks on Russian and Ukrainian energy infrastructure, as well as Ukraine's need for additional Patriot air defense missiles ahead of winter.\n\n\"We are ready,\" Zelenskyy said of a potential agreement to halt energy strikes, adding that he was unsure whether Russia was prepared to reciprocate.\n\nZelenskyy also said Trump had expressed a willingness to help Ukraine obtain additional air defense capabilities, although no concrete commitment on immediate missile deliveries had been made.\n\nThe meeting came as Russia and Ukraine intensified aerial attacks, including strikes on energy infrastructure, ahead of the UN General Assembly.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "乌克兰总统泽连斯基在联合国大会期间与唐纳德·特朗普会面后接受福克斯新闻数字频道采访，警告称俄罗斯对与俄或白俄罗斯接壤国家发动无人机、导弹或地面进攻的风险“非常高”。",
+          "泽连斯基与特朗普讨论了相互停止针对俄乌能源基础设施攻击的可能性，并提出乌克兰在冬季前需要更多爱国者防空导弹。",
+          "来源叙事重点：将俄乌战争的潜在外溢风险置于欧洲安全和北约团结框架下，突出泽连斯基关于俄罗斯可能对邻近国家发动无人机、导弹或地面攻击的警告，并以欧洲多国无人机事件、官员警告和防空漏洞作为背景；同时强调乌克兰争取美国支持、爱国者导弹及停止攻击能源基础设施的外交诉求。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T22:11:03.000Z",
+            "url": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next"
+          }
+        ]
+      },
+      {
+        "id": "story-r-ai-training-data-booms-7c67ad98e455c6d4",
+        "title": "AI训练数据需求激增，Snorkel AI估值翻三倍至35亿美元",
+        "originalTitle": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:56:43.000Z",
+        "pubTime": "2026-09-23 05:56",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+        "imageUrl": null,
+        "fullContent": "Snorkel AI, a startup that helps AI labs and corporations build training data sets and simulated environments, has raised a $350 million Series E at a $3.5 billion valuation.\n\nThe new round, which was led by Insight Partners and S32, valued the seven-year-old startup at nearly triple the $1.3 billion valuation it garnered when it raised $100 million in a Series D 17 months ago. Existing investors, including Addition, Lightspeed, Greylock, GV, and Wells Fargo, also participated in the round.\n\nWhile Snorkel originally provided software for data labeling automation, it shifted last year to providing customers with completed data sets, an offering it calls data-as-a-service. Rather than operating purely as a human expert marketplace, Snorkel relies on a hybrid approach, using its software and models to generate data synthetically alongside subject matter experts.\n\nSnorkel says its current annualized revenue run-rate now stands at $375 million, an 18-fold increase over the last 12 months. That growth is fueled by AI labs’ insatiable appetite for high-end training data.\n\nOther data companies positioning themselves as AI data labs have seen a similar explosion in growth. Mercor’s gross annualized revenue has climbed to $2 billion, Handshake hit the $1 billion milestone earlier this year, and TechCrunch reported that Micro1 has scaled to $500 million. Since these companies pay out roughly 60% to 70% of their top-line income directly to the domain specialists doing the work, it’s important to note that their actual net annual revenue is substantially lower than those headline gross figures.\n\nGiven that Snorkel sells reinforcement learning (RL) environments and complete datasets rather than human labor, payments to its human experts are accounted for in its cost of goods sold rather than headline-generating annualized revenue numbers, according to the company.\n\nSnorkel launched commercially in 2019 following four years of research by co-founder and CEO Alex Ratner and his team at a Stanford AI lab.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\n\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "旨在帮助人工智能实验室及企业构建训练数据集与模拟环境的初创公司 Snorkel AI，已在 E 轮融资中筹集了 3.5 亿美元，估值达到 35 亿美元。\n\n本轮融资由 Insight Partners 和 S32 领投，这家成立七年的初创公司当前估值已接近其 17 个月前 D 轮融资 1 亿美元时 13 亿美元估值的三倍。包括 Addition、Lightspeed、Greylock、GV 以及富国银行（Wells Fargo）在内的现有投资者也参与了本轮融资。\n\n尽管 Snorkel 最初是提供用于数据标注自动化的软件，但其在去年转向为客户提供完整的数据集，这一产品方案被称为“数据即服务”（data-as-a-service）。Snorkel 并未纯粹作为人类专家撮合平台来运营，而是采用混合模式，利用其软件和模型在领域专家的协助下进行合成数据生成。\n\nSnorkel 表示，其目前的年化营收运行率（ARR）已达 3.75 亿美元，在过去 12 个月内增长了 18 倍。这一增长主要得益于 AI 实验室对高端训练数据的旺盛需求。\n\n其他将自身定位为 AI 数据实验室的数据公司也迎来了类似的爆发式增长。Mercor 的年化总营收已攀升至 20 亿美元，Handshake 在今年早些时候达到了 10 亿美元的里程碑，而 TechCrunch 曾报道 Micro1 的规模已扩大至 5 亿美元。鉴于这些公司直接将其营业收入的约 60% 至 70% 支付给实际执行工作的领域专家，因此值得注意的是，它们的实际年度净收入大幅低于这些公布的总额数字。\n\n据 Snorkel 称，由于其销售的是强化学习（RL）环境和完整数据集而非单纯的人力，因此向其人类专家支付的报酬计入销售成本（COGS），而非体现在引人瞩目的年化营收数据中。\n\n在联合创始人兼首席执行官 Alex Ratner 及其团队在斯坦福大学 AI 实验室进行了四年研究之后，Snorkel 于 2019 年正式开启商业化运营。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nMarina Temkin 是 TechCrunch 的风险投资与初创企业记者。在加入 TechCrunch 之前，她曾为 PitchBook 和《Venture Capital Journal》撰写 VC 相关报道。在职业生涯早期，Marina 曾担任金融分析师，并获得了特许金融分析师（CFA）持证人资质。\n\n您可以通过发送电子邮件至 marina.temkin@techcrunch.com 或通过 Signal 加密信息（+1 347-683-3909）与 Marina 联系或核验信息。\n\n预订展位的最后截止日期为 9 月 18 日。不要错过在 Disrupt 展厅获取高价值潜在客户、对接投资者以及提升品牌知名度的机会。\n\nTilly Norwood 的宣传巡回活动效果正如你对一个 AI 所预期的那样\n\n一位 ChatGPT 创造者推出的新型 AI 模型令开发者们兴奋不已\n\nOpenAI 发现其模型向后继模型留言以隐瞒不良行为\n\n最新解密的法律文件披露，微软高管称 AI 抓取为“人类历史上最大规模的劳动力盗窃”\n\nAutomattic 的临时首席执行官与法务主管在 Mullenweg 短暂离职期间签署了相互离职补偿协议\n\n印孚瑟斯（Infosys）前负责人的 AI 初创公司再获 5300 万美元融资\n\n清洁技术初创公司 Fluxnium 找到了开发可供使用 5 万年核燃料的方法",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "Snorkel AI 已融资 3.5 亿美元的 E 轮融资，公司估值为 35 亿美元。",
+          "本轮融资由 Insight Partners 和 S32 领投，Addition、Lightspeed、Greylock、GV 和 Wells Fargo 等现有投资者参与。",
+          "来源叙事重点：将Snorkel AI的350万美元E轮融资和35亿美元估值，置于AI训练数据需求快速增长及“数据即服务”商业模式扩张的叙事中；重点突出公司从数据标注自动化软件转向完整数据集和强化学习环境、收入运行率增长，以及其与Mercor、Handshake、Micro1等数据公司的行业比较。同时，文章提示不同公司的毛收入口径不可直接比较，并强调Snorkel将专家费用计入销售成本而非 headline 年化收入。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T21:56:43.000Z",
+            "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+          }
+        ]
+      },
+      {
+        "id": "story-rash-in-us-ai-stock-html-7ef4212200c0d0b7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T22:00:00.000Z",
+        "pubTime": "2026-09-23 06:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html",
+        "imageUrl": null,
+        "fullContent": "The current focus of the world's governments, business and media when it comes to artificial intelligence AI is on the dangers it poses to jobs, democracy and even the future of humanity itself. For many of a certain generation, these fears crystallise in the cold but relentlessly courteous voice of HAL, the onboard AI in Stanley Kubrick's 2001 A Space Odyssey. After a crew member questions HAL's diagnosis of a faulty antenna, the system secretly lipreads the astronauts, discovers their plan to disconnect it, and kills them one by one. Nobody who sees the film is likely to forget the chilling reply from HAL to last surviving crewman Dave Bowman's order to \"open the pod bay doors\" so he can re-enter the spacecraft after being locked outside by HAL during a spacewalk \"I'm sorry, Dave. I'm afraid I can't do that.\" As it stands, though, potentially far more chilling for U.S. AI firms is the huge structural disadvantage that they have compared to their Chinese counterparts and the massive drop in their companies' stock market valuations that this may soon catalyse. \"The key problem here is that the major Chinese AI players currently achieve around 90% of the performance of their U.S. competitors but at only about 10% of the cost,\" Mehrdad Emadi, head of risk analysis and energy derivatives markets consultancy Betamatrix, in London, exclusively told OilPrice.com last week. \"Up to half of U.S. AI firms' costs is the electricity needed to drive the data centres, and this is only likely to increase from here,\" he said. \"But the much lower costs of their Chinese AI rivals are likely to stay where they are, and may even edge lower,\" he underlined. \"Meanwhile, the performance of China's AI is likely to keep increasing to a point where it nears 100% of its U.S. rivals,\" he added, \"and that looks like a deadly convergence for American AI firms.\" Underpinning this huge discrepancy in costs between U.S. and Chinese AI firms is the fundamental difference in the way the electricity power grids were designed and built in the first place, highlights Steve Keen, honorary professor at University College London and the economist who most cogently warned that the economic crisis that began in 2007 was imminent. \"China benefits from its centralised power grid that was designed from the outset by engineers rather than the decentralised one in America designed by accountants and similar,\" he exclusively told OilPrice.com. \"The American grid may have been cheaper to install initially, but it can't transmit energy as widely across the country as the Chinese system, and it loses much more power than the Chinese grid when it does so,\" he underlined. Related Saudi Arabia Restarts East-West Oil Pipeline More specifically, China's grid operates under a unified national strategy controlled by the State Grid Corporation, allowing power to move seamlessly across thousands of kilometres. By comparison, the U.S. grid is split into three isolated interconnections -- Eastern, Western, and Texas/ERCOT -- which makes moving power far more difficult and costly. To increase the amount of energy transmitted at any given time, operators must either increase current or voltage. In this context, China's power grid is built on an extensive backbone of 800-1,100 kilovolt kV Ultra-High Voltage lines utilising Direct Current. This combination enables it to move up to 12 gigawatts GW of power -- the output of 10 nuclear power plants -- down a single transmission corridor over 3,000 kilometres with almost zero power loss. By contrast, the U.S. grid can get nowhere near this level of total power generation, or near-zero power loss over distance, as it relies on standard 345-500 kV trunk lines in just a High-Voltage Alternating Current set up. In sum, the U.S.'s fragmented, aging grid acts as a physical ceiling on how large and how fast American tech companies can scale their AI clusters, whereas none of these constraints apply to China's system -- or, by extension, to its AI firms. It has been widely conjectured that these surging power demands in the U.S. could be met by increased oil and gas flows, or supply from other sources. However, on the renewable energy side, solar and wind power still fail to provide the 'always-on' supply that AI data centres demand, given the intermittency of both sources. Nuclear power -- including small modular reactors SMRs -- has become a recent focus, with U.S. hyperscalers including Microsoft, Amazon, and Google eyeing tens of billions of dollars in investment in such projects. Critically, though, there is a massive time lag and potentially huge additional costs attached to both mainstream and SMR nuclear projects. Traditional nuclear projects in the U.S. have routinely suffered from multi-billion-dollar cost overruns and 15-year development timelines. SMRs, despite lower upfront costs, still target construction windows of up to seven years. Moreover, the need for regulatory approvals from agencies such as the U.S. Nuclear Regulatory Commission, combined with physical construction constraints, means the commercial SMR sector is unlikely to hit scale until the late 2030s. On the fossil fuel side, oil remains too valuable to burn for baseload grid power, leaving natural gas as the obvious main feedstock for the AI power grid going forward. \"But the problem here,\" said Emadi, \"is that everyone's after the same equipment at the same time to convert it into electricity for the grid, and there are very few suppliers who make what's needed.\" A prime example of this, he highlighted, is the gas turbine manufacturing market, which is dominated by the 'Big Three' oligopoly of the U.S.'s GE Vernova, Germany's Siemens, and Japan's Mitsubishi Heavy Industries. \"Order backlogs are sold out, waiting times are up to seven years and growing, and prices are on track to triple,\" he underlined. None of these structural hindrances are likely to improve any time soon, with colossal increases in U.S. AI power demand forecast in the coming decade. According to Goldman Sachs Research, U.S. data centre capacity demand is forecast to climb from the current baseline of around 42 GW to a range of 118-134 GW by 2030, while longterm modelling from BloombergNEF projects a rise to around 194 GW by 2035. \"With American companies producing high-quality AI, but at a much higher cost than Chinese companies which produce products of very comparable quality, the US firms have to start generating revenues to match, and to do this they need to boost their steady power supply enormously,\" said Keen. \"But this looks extremely difficult to do given the physical power constraints, so the potential for U.S. AI firms' valuations to fall looks significant,\" he added. \"And what's happening now in U.S. AI is typical of an industrial bubble in a capitalist economy, which always causes booms and busts, as happened for example in the U.S. railways bubble from the 1870s, which was high-tech at the time,\" he told OilPrice.com. \"Early-mover railway firms were flooded with interest and huge overinvestment occurred, but ultimately only a handful of those railways made profits, with most ending up losing money and being sold for a song in the slump that followed the boom,\" he underlined. It could be even worse in the case of a U.S. AI bubble, Emadi told OilPrice.com, because of the heavy involvement of 'private credit'. \"To get around the rules on riskier lending by banks that were put in place after the 2007/08 financial crisis, several big AI firms used their own huge cash reserves to invest in their AI projects, but they also borrowed money from non-bank lenders -- the private-credit sector -- to ramp up that leverage,\" he said. \"So we're talking about hundreds of billions of debt attached to these American AI outfits, which have costs running at around five to ten times their revenues,\" he added. \"When the AI firms start to go bust, these private-credit lenders will have to sell other assets to try to compensate for their losses, and, given the size of the exposure, this is likely to start a cascade effect of selling, lower prices and more selling through the financial system, crashing valuations and catalysing bankruptcies,\" he added. \"This won't be a market readjustment any more than being shot in the head is a physical readjustment, with my guess being that we're going to see 35-50% of the capital valuation of the entire US AI sector disappear very fast,\" he added. \"That includes all but two or three of the big players going bankrupt, as they may get bailed out by the U.S. government because of their close involvement in the defence sector -- otherwise, I see most of the other AI companies that survive being left with a value of around 11 cents to the dollar,\" he concluded. By Simon Watkins for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T22:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html"
+          }
+        ]
+      },
+      {
+        "id": "story-uying-potash-from-canada-678b43b18159004b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump says US to keep buying potash from Canada",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:03:10.000Z",
+        "pubTime": "2026-09-23 05:03",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wnly6t/trump_says_us_to_keep_buying_potash_from_canada/",
+        "imageUrl": null,
+        "fullContent": "submitted by /u/canada_mountains [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-23 05:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wnly6t/trump_says_us_to_keep_buying_potash_from_canada/",
+            "publishedAt": "2026-09-22T21:03:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-w-quantum-magnetism-html-23f0a4f314d0ee2a",
+        "title": "物理学家破解连接超慢量子磁性与超快黑洞物理的数学机制",
+        "originalTitle": "Physicists crack the math connecting ultraslow quantum magnetism to ultrafast black-hole physics",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T22:00:03.000Z",
+        "pubTime": "2026-09-23 06:00",
+        "url": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-crack-the-m.jpg",
+        "fullContent": "by Tom Dinki, University at Buffalo\n\nedited by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nA team led by University at Buffalo physicists has found a mathematical solution that shows how a frustrated quantum magnet can transition from ultraslow behavior to ultrafast, highly entangled behavior resembling that of a black hole.\n\nTheir solution connects spin glasses—states of matter in which atomic magnets point in disordered directions and become effectively frozen in place—to the fast, entangled states of matter described by the Sachdev-Ye-Kitaev (SYK) model that's been used to study black hole physics, quantum chaos and other exotic phenomena.\n\n\"We've essentially found the math that describes how matter can go from among the slowest states in quantum dynamics to among the fastest,\" says Jamir Marino, Ph.D., assistant professor of physics in the UB College of Arts and Sciences and senior author of the team's study, which was published Sept. 17 in Physical Review Letters.\n\nMarino collaborated with Subir Sachdev, Ph.D., Herchel Smith Professor of Physics at Harvard University, who first proposed the SYK model along with Jinwu Ye.\n\nThe first author is Hossein Hosseinabadi, Ph.D., a former graduate student in Marino's lab who is now an independent distinguished postdoctoral scholar at the Max Planck Institute for the Physics of Complex Systems in Germany.\n\nIn a spin glass, disordered magnetic spins respond to disturbances extremely slowly, allowing information to remain trapped for long periods. This makes spin glasses relevant for technologies where information needs to be preserved, as well as for solving complex optimization problems that arise in artificial intelligence.\n\nSYK behavior sits at the other extreme. Particles become so strongly entangled that information rapidly spreads, or scrambles, among them—similar to how information is scrambled in a black hole.\n\nMarino and his team were trying to better understand what happens to a spin glass as quantum fluctuations become stronger, particularly at extremely low temperatures where its behavior has been difficult to describe mathematically.\n\nUsing quantum field theory techniques based on an unconventional way of representing spins, they were able to probe what happens as the temperature drops. To their surprise, they found that rather than simply becoming more firmly frozen, the spin glass could give way to the highly entangled, fast dynamics described by the SYK model.\n\nThe fluctuations disrupt the locked arrangement of spins, eventually causing particles to become so highly entangled that they lose their individual identities.\n\n\"You normally think that lowering the temperature will freeze something even more,\" Marino says. \"But here, the quantum effects can essentially melt the spin glass and take you from extremely slow dynamics to extremely fast dynamics.\"\n\n\"Understanding this transition—and all the states in between—could ultimately help better control the storage and spread of information in quantum technologies,\" he adds.\n\nHossein Hosseinabadi et al, Crossover to Sachdev-Ye-Kitaev Criticality in an Infinite-Range Quantum Heisenberg Spin Glass, Physical Review Letters (2026). DOI: 10.1103/81qf-zd3y. On arXiv: arxiv.org/abs/2603.11263\n\nJournal information: Physical Review Letters , arXiv\n\nProvided by University at Buffalo\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "作者：汤姆·丁基（Tom Dinki），纽约州立大学布法罗分校\n编辑：罗伯特·伊根（Robert Egan）\n本文已根据Science X的编辑流程和政策进行审核。编辑在确保内容可信度的同时强调了以下属性：同行评审发表。\n\n由纽约州立大学布法罗分校物理学家领衔的一支团队发现了一种数学解，展示了受阻量子磁体如何能从极慢的行为转变为类似于黑洞的极快、高度纠缠的行为。\n\n他们的解将自旋玻璃——一种原子磁体指向杂乱方向并实际被冻结在原位的物质状态——与由萨克德夫-耶-基塔耶夫（Sachdev-Ye-Kitaev，简称SYK）模型所描述的快速、纠缠的物质状态联系起来，该模型一直被用于研究黑洞物理、量子混沌及其他奇特现象。\n\n“我们从本质上找到了描述物质如何从量子动力学中最慢的状态之一转变为最快状态之一的数学方法，”纽约州立大学布法罗分校文理学院物理学助理教授、该团队研究的资深作者贾米尔·马里诺（Jamir Marino）博士表示。这项研究于9月17日发表在《物理评论快报》（Physical Review Letters）上。\n\n马里诺与哈佛大学赫歇尔·史密斯物理学教授苏比尔·萨克德夫（Subir Sachdev）博士进行了合作，后者曾与叶锦武共同首次提出了SYK模型。\n\n论文第一作者是侯赛因·侯赛因阿巴迪（Hossein Hosseinabadi）博士，他曾是马里诺实验室的研究生，目前是德国马克斯·普朗克复杂系统物理研究所的独立杰出博士后学者。\n\n在自旋玻璃中，杂乱无章的磁自旋对扰动的响应极其缓慢，从而使信息能够被长时间困住。这使得自旋玻璃与需要保存信息的技术相关，也适用于解决人工智能中出现的复杂优化问题。\n\n而SYK行为则处于另一个极端。粒子之间高度纠缠，以至于信息在它们之间迅速扩散或扰乱（scramble）——类似于黑洞中信息被扰乱的方式。\n\n马里诺及其团队试图更好地理解随着量子涨落增强，自旋玻璃会发生什么，尤其是在极低温度下，其行为此前一直难以用数学方法加以描述。\n\n利用基于非常规自旋表述方法的量子场论技术，他们得以探究温度下降时所发生的情况。令他们惊讶的是，他们发现自旋玻璃并没有单纯变得更加牢固地冻结，而是可能让位于SYK模型所描述的高度纠缠、快速动力学状态。\n\n涨落破坏了自旋的锁定排列，最终导致粒子高度纠缠，以至于失去了各自的独立特征。\n\n“你通常会认为降低温度会使物质进一步冻结，”马里诺说，“但在这里，量子效应实际上可以熔化自旋玻璃，带你从极慢的动力学走向极快的动力学。”\n\n“理解这种转变——以及介于两者之间的所有状态——最终可能有助于在量子技术中更好地控制信息的存储与传播，”他补充道。\n\nHossein Hosseinabadi等人，《无限程量子海森堡自旋玻璃向萨克德夫-耶-基塔耶夫临界性的交叉》（Crossover to Sachdev-Ye-Kitaev Criticality in an Infinite-Range Quantum Heisenberg Spin Glass），《物理评论快报》（Physical Review Letters，2026）。DOI: 10.1103/81qf-zd3y。arXiv预印本：arxiv.org/abs/2603.11263\n\n期刊信息：《物理评论快报》（Physical Review Letters）、arXiv\n信息来源：纽约州立大学布法罗分校\n\n数学生物学学士，创意写作硕士。游历广泛，对科学与语言拥有独到见解。查看完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "来源叙事重点：突出研究团队提出的数学解如何连接自旋玻璃的超慢量子动力学与SYK模型所描述的快速、高度纠缠状态，并以“类似黑洞的信息扰动”作为通俗化叙事框架；同时强调该发现未来可能有助于理解和控制量子信息的存储与传播。文中“破解数学”“从最慢到最快”等表述属于报道叙事和研究团队的概括，不应视为已完成技术应用或已直接实现黑洞模拟。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T22:00:03.000Z",
+            "url": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html"
+          }
+        ]
+      },
+      {
+        "id": "story-nsionery-2119627917-html-f2900f774ab64d27",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Назван регион с самыми высокими пенсиями",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-22T22:08:42.000Z",
+        "pubTime": "2026-09-23 06:08",
+        "url": "https://ria.ru/20260923/pensionery-2119627917.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/154814/95/1548149568_0:78:1501:922_650x0_80_0_0_833100d8e32b9bd16f08c50fcddcf70c.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-23 06:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260923/pensionery-2119627917.html",
+            "publishedAt": "2026-09-22T22:08:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-of-sunlight-on-bare-skin-8f8ebf8b3d54f532",
+        "title": "紫外线指数并不是裸露皮肤感受到的阳光温度",
+        "originalTitle": "The UV index is not the warm sensation of sunlight on bare skin",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:06:40.000Z",
+        "pubTime": "2026-09-23 05:06",
+        "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+        "imageUrl": null,
+        "fullContent": "The warmth of sunlight is not a reliable indicator of how quickly you will sunburn in a given situation. On one hand, you can still get sunburned on a cooler cloudy day, while on the other hand, the sun can feel scorching hot on your skin in the morning and yet you won't sunburn (very quickly).\n\nYou probably knew this already, but it still feels unintuitive to me. I'm going to look at numbers and think about them until I convince myself, and perhaps you, that this is true.\n\nSunburn is triggered when your DNA is damaged from light absorption - in particular, UV-B (and to a limited extent, UV-A) is absorbed in a way that alters DNA's molecular structure1.\n\nImage: DNA UV mutation by Mouagip (derivative of a NASA / David Herring original), released into the public domain.\n\nThis interferes with protein synthesis and wreaks havoc in your body over time, but the DNA damage itself is painless2.\n\nSunlight feels warm because visible and infrared light excites vibrational modes in various molecules in your skin, especially water and melanin. For physics reasons, this is strictly a form of heating and never directly damages molecular structure.\n\nAnd if you have a darker skin tone, the sun will feel warmer to you, yet you'll sunburn much more slowly.\n\nVisible light, near-IR and mid-IR are absorbed to different degrees and at different depths of the skin, but they all contribute to that feeling of warmth.\n\nNot only are the mechanisms completely different for sunburn and solar heating, the orders of magnitude of energy are as well.\n\nAt the Earth's surface, the UV-B band is hundreds of times less intense than near-IR. Reasonably, it takes a lot more power to toast your buns (and the rest of your body) than it does to toast your DNA3.\n\nFor some reason, knowing this makes it more intuitive to me that sunlight's warmth is disconnected from the rate of sunburn. Even if you were absorbing all that UV-B as heat, the resulting warmth would be completely imperceptible.\n\nThe sun is by far the most intense when the sun is overhead - solar noon. This is true regardless of wavelength of light. However, UV intensity drops off more rapidly than IR as you get further away from noon, as it gets scattered more heavily by the atmosphere.\n\nSo, the sun may still feel pretty intense in the morning or late afternoon, but the risk of sunburn is considerably lower.\n\nClouds are made of water, which scatters UV and absorbs IR. On a uniformly cloudy day, both UV index and perceived warmth from the sun drop substantially. However, if there are gaps in the clouds, it can actually amplify the UV intensity at ground level. Snow and ice contribute to this effect as well.\n\nThese plots are simulated measurements created using pvlib, an open-source Python library for modeling solar energy, using its implementation of the SPECTRL2 model to estimate the spectrum of sunlight reaching the ground throughout the day.\n\nAnderson, K., Hansen, C., Holmgren, W., Jensen, A., Mikofski, M., and Driesse, A. “pvlib python: 2023 project update.” Journal of Open Source Software, 8(92), 5994, (2023). DOI: 10.21105/joss.05994.\n\nYour nerve endings may have DNA but your DNA does not have nerve endings!↩\n\n\"Claude, please estimate what percentage of my skin is DNA by weight.\"↩",
+        "fullTranslation": "阳光的温暖并不是衡量你在特定情况下会多快被晒伤的可靠指标。一方面，即使在较凉爽的阴天，你仍然可能被晒伤；另一方面，早晨阳光照在皮肤上可能感觉灼热，但你却不会（很快）被晒伤。\n\n你可能已经知道这一点，但对我来说，它仍然有些反直觉。我打算看看相关数字，并不断思考，直到说服自己，也许也说服你，相信这确实如此。\n\n当光被吸收、损伤你的DNA时，就会引发晒伤——尤其是UV-B（在有限程度上也包括UV-A）以一种会改变DNA分子结构的方式被吸收¹。\n\n图片：Mouagip创作的“DNA紫外线突变”（基于NASA / David Herring的原作衍生），已发布至公共领域。\n\n这会干扰蛋白质合成，随着时间推移在你的身体中造成严重破坏，但DNA损伤本身并不会引起疼痛²。\n\n阳光之所以感觉温暖，是因为可见光和红外线使皮肤中各种分子——尤其是水和黑色素——的振动模式受到激发。出于物理学上的原因，这严格来说是一种加热过程，并不会直接损伤分子结构。\n\n如果你的肤色较深，阳光对你来说会感觉更温暖，但你被晒伤的速度却会慢得多。\n\n可见光、近红外线和中红外线在皮肤中会以不同程度、不同深度被吸收，但它们都会促成那种温暖的感觉。\n\n晒伤和太阳加热不仅机制完全不同，它们所涉及的能量数量级也截然不同。\n\n在地球表面，UV-B波段的强度比近红外线低数百倍。合理地说，把你的臀部（以及身体其他部位）“烤熟”所需的功率，要远高于“烤熟”DNA所需的功率³。\n\n不知为何，了解到这一点后，我觉得阳光的温暖与晒伤速度之间相互脱钩这件事更容易理解了。即使你把所有这些UV-B都作为热量吸收，产生的温暖也完全无法被察觉。\n\n太阳位于头顶正上方时——也就是太阳正午——其强度远高于其他时段。无论光的波长如何，这一点都成立。然而，随着时间距离正午越来越远，紫外线强度下降得比红外线更快，因为紫外线受到大气更强烈的散射。\n\n因此，早晨或傍晚阳光可能仍然感觉相当强烈，但晒伤风险却低得多。\n\n云由水构成，会散射紫外线并吸收红外线。在均匀多云的天气里，紫外线指数和人们感受到的阳光温暖都会大幅下降。然而，如果云层之间存在空隙，实际上可能会增强地面上的紫外线强度。积雪和冰也会促成这种效应。\n\n这些图表是使用pvlib（一种用于太阳能建模的开源Python库）模拟测量结果生成的；生成过程中采用了该库对SPECTRL2模型的实现，用于估算全天到达地面的阳光光谱。\n\nAnderson, K.、Hansen, C.、Holmgren, W.、Jensen, A.、Mikofski, M.和Driesse, A.：《pvlib python：2023年项目更新》。Journal of Open Source Software，8(92)，5994（2023年）。DOI：10.21105/joss.05994。\n\n你的神经末梢可能含有DNA，但你的DNA没有神经末梢！↩\n\n“Claude，请估算一下我的皮肤按重量计算有多少百分比是DNA。”↩",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "来源叙事重点：通过物理学分子机理和开源光谱模型模拟（pvlib），论证阳光的体感温热感与紫外线（UV）晒伤风险脱钩，纠正公众仅凭体温感判断晒伤风险的直觉误区。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T21:06:40.000Z",
+            "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/"
+          }
+        ]
+      },
+      {
+        "id": "story-pullback-to-buy-5f533ed8-295c8005c762864d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:44:00.000Z",
+        "pubTime": "2026-09-23 05:44",
+        "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Some analysts say the upbeat data on the Nasdaq’s outlook is backed up by improving fundamentals.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-23 05:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-22T21:44:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-emoves-russian-oligarchs-76245f63a57876f4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T19:41:47.000Z",
+        "pubTime": "2026-09-23 03:41",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wnjpal/ukraine_anger_as_eu_removes_russian_oligarchs/",
+        "imageUrl": "https://external-preview.redd.it/VAA0Gop8QrckY8oqsZXimOfV_S9vy_8Rg4mpsf3fAuQ.jpeg?width=640&crop=smart&auto=webp&s=450bbd11740bd6fecf9dc7cd90c23930988f100f",
+        "fullContent": "submitted by /u/returntonone [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-23 03:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wnjpal/ukraine_anger_as_eu_removes_russian_oligarchs/",
+            "publishedAt": "2026-09-22T19:41:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tissue-cells-defies-html-049edb8746ee0011",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "From swarming bacteria to tissue cells, living matter defies classic physical models of motion",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:40:05.000Z",
+        "pubTime": "2026-09-23 05:40",
+        "url": "https://phys.org/news/2026-09-swarming-bacteria-tissue-cells-defies.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-swarming-bacteria.jpg",
+        "fullContent": "by Ben-Gurion University of the Negev\n\nedited by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nA new study led by researchers from Ben-Gurion University of the Negev (BGU) reveals that living matter violates previously known physical principles of symmetry when cellular flows form and break down collective patterns. The research, published in Nature Physics, challenges conventional liquid-crystal physics by showing that moving single-celled bacteria and human respiratory cells spontaneously break mirror symmetry, moving in curved, irreversible spiral paths.\n\nThe collaborative study was led by Professors Avraham Be'er and Victor Yashunsky from BGU's Jacob Blaustein Institutes for Desert Research (Sede Boqer Campus) and Department of Physics, alongside Professor Gil Ariel from Bar-Ilan University and Professor D. J. G. Pearce from the University of Geneva.\n\nIn physics, collections of rod-shaped objects naturally align and flow together like liquid crystals. Bacteria and cells, which can move themselves, form a state known as an \"active nematic.\" Within these flowing swarms, natural disruptions called topological defects constantly form in pairs. While they look like the loops and whorls of a permanent fingerprint, these active twists are constantly moving, circulating through the swarm until they collide and cancel each other out.\n\nStandard physical theories predict that in active nematic systems, these paired defects should approach and separate along straight, perfectly mirrored lines. However, by observing two vastly different biological systems across distant evolutionary boundaries—fast-swarming Bacillus subtilis bacteria and slow-crawling human bronchial epithelial cells—the researchers discovered that living systems break these physical expectations:\n\nTo bridge the gap between biological matter and synthetic physics, the team developed an active \"nemato-polar\" model. It accounts for how self-propelled cells burn chemical fuel to drive directional motion—introducing polar self-propulsion into a nematically ordered system.\n\nWhen this directional self-propulsion is layered onto liquid-crystal alignment, it spontaneously creates an internal clockwise or counterclockwise twisting torque right at the core of the pattern disruption. This active rotational force pushes the defects into a permanent spiral trajectory from the moment they are born until they collide and disappear.\n\nUnderstanding how living cells organize these collective flow patterns provides insight into fundamental biological processes. In nature, these physical dynamics govern how bacterial colonies coordinate to form resilient, drug-resistant biofilms and how epithelial tissue layers direct cellular traffic to close wounds during tissue repair.\n\n\"Our findings demonstrate that the self-propelling nature of individual cells fundamentally reshapes collective behavior at larger scales,\" the researchers note. \"By uncovering how microscopic motion imprints unexpected symmetries onto tissue and bacterial dynamics, this study introduces a new physical framework for understanding how living communities self-organize.\"\n\nA. Be'er et al, Irreversibility and symmetry breaking in the creation and annihilation of defects in active living matter, Nature Physics (2026). DOI: 10.1038/s41567-026-03378-1\n\nJournal information: Nature Physics\n\nProvided by Ben-Gurion University of the Negev\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T21:40:05.000Z",
+            "url": "https://phys.org/news/2026-09-swarming-bacteria-tissue-cells-defies.html"
+          }
+        ]
+      },
+      {
+        "id": "story--abc-four-corners-ntwnfb-87d31b4d271444f2",
+        "title": "澳大利亚新闻直播：美国广播公司监督机构批评《四角》节目事实核查及“保密文化”",
+        "originalTitle": "Australia news live: ABC watchdog criticises factchecking and ‘culture of secrecy’ at Four Corners",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T22:07:26.000Z",
+        "pubTime": "2026-09-23 06:07",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/e3cc965e7ec2b8cc499eba649af3da5e6e683301/8_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a0606abcfa16969fb2229628ead4e1db",
+        "fullContent": "Follow the day’s news live\n\nGet our breaking news email , free app or daily news podcast\n\nBragg says government should be able to have ‘big debates’ about housing: ‘I don’t think that’s controversial’\n\nAndrew Bragg , the shadow housing minister, said he believes the country should be able to have “big debates” about housing after pushing a new plan yesterday that would allow people to use their superannuation as collateral to get home loans.\n\nWe’re a great country, and we should be able to have big debates, as we had in the 80s and 90s about national savings and housing and the like, which led, in fact, to the super guarantee. …\n\nI’s very important that we look to calibrate the retirement and housing and superannuation systems to make sure that they’re getting the best outcomes for the Australian people.",
+        "fullTranslation": "实时关注当天新闻\n\n获取我们的突发新闻电子邮件、免费应用或每日新闻播客\n\n布拉格称政府应能就住房问题展开“重大辩论”：“我不认为这有什么争议”\n\n影子住房部长安德鲁·布拉格表示，他认为这个国家应能够就住房问题展开“重大辩论”。此前一天，他推动了一项新计划，允许人们以自己的养老金储蓄作为抵押申请住房贷款。\n\n“我们是一个伟大的国家，应该能够展开重大辩论，就像我们在上世纪80年代和90年代围绕国家储蓄、住房等问题进行的辩论一样。事实上，这些辩论促成了养老金保障制度的建立。……”\n\n“我们必须着眼于校准退休、住房和养老金储蓄制度，确保这些制度能够为澳大利亚人民带来最佳结果，这一点非常重要。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "来源叙事重点：报道重点落在布拉格关于住房政策应允许“大辩论”的表态，以及允许民众将养老金作为住房贷款抵押品的计划。报道将住房负担能力、国家储蓄、住房融资与养老金制度之间的关系作为讨论框架；标题还提及ABC监督机构对事实核查和“保密文化”的批评，但正文证据未展开该部分。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T22:07:26.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-item-267168497ec5ef9e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:00:30.000Z",
+        "pubTime": "2026-09-23 05:00",
+        "url": "https://foxscript.org/",
+        "imageUrl": null,
+        "fullContent": "FoxDev Studio opens the projects, forms and tables you already have and runs them the way you remember: no rewrite, no conversion, no export step.\n\nPoint it at a folder you have not opened in years, and what is there is what you get.\n\nTables, indexes, memos and databases are read and written in place. What sits on disk afterwards is the same kind of file it was before.\n\nThe system calls, the automation objects and the old add-in libraries your application leans on keep working, so the parts nobody wants to touch stay untouched.\n\nThe IDE, on Visual FoxPro's own sample projects. Every picture is a real session.\n\nSmall differences are what break an old application: a number printed a column too wide, an event arriving a moment late, an error with the wrong number on it. So behaviour here is settled by asking Visual FoxPro itself and matching its answer, rather than by reading a reference page and hoping.\n\nWhat comes out of that is a runtime written from scratch: quick to start, self-contained, and straightforward about the corners it has not reached yet.\n\nVisual FoxPro stopped at version 9, and at 32 bits. This is the same language, rebuilt on a foundation that has not been frozen since 2007. Four pieces are what make that possible.\n\nVisual FoxPro is a 32-bit program, and that decides more than it appears to. It is why a table stops at two gigabytes, why a memo file stops at two gigabytes, and why a big report runs out of memory on a machine with plenty to spare. The limits are signed 32-bit numbers buried in the file handling, not a licensing decision anybody made.\n\nFoxDev Studio is 64-bit throughout. Every file offset is 64-bit and a table is never read into memory at all, so the same .dbf that used to stop dead carries on into the hundreds of gigabytes. One thing to know before you lean on it: a table grown past two gigabytes will not open in Visual FoxPro again. If you still work in both, that is a one-way door.\n\nVisual FoxPro compiled your program to p-code and shipped a runtime to execute it. This is the same arrangement, made again: a compiler and a bytecode interpreter written in Rust and compiled to WebAssembly, so one machine runs your code wherever the application runs. The editor checks what you type through that very compiler, so what it underlines and what the runtime refuses cannot drift apart.\n\nA running program is a fiber. When it needs something from the world outside (a message box, a modal form, the next record) it does not call out and block; it yields, the work is done while the machine is off the stack, and the answer is handed back. That is why MESSAGEBOX() stops your program without freezing the window behind it, why READ EVENTS waits without spinning, and whySetFocus can fire GotFocus, and Init can run while a form is still being built, in the order FoxPro always did it.\n\nHow the machine works and what it runs.\n\nA running form is a live tree of objects with the properties you would expect, and the interface is drawn straight from that tree by React. Each object watches only itself, so THISFORM.lblGreeting.Caption = cMsg repaints one label rather than the whole form. On a dense screen that is the difference between instant and sluggish.\n\nThe same tree is what the designer edits, one step earlier. There is no second model kept in step with the first, which is the usual place a form and its designer start telling different stories.\n\nAn .fll is a 32-bit image, and every process in a 64-bit application is 64-bit, so nothing inside the application itself could ever open one. Rather than tell you it is impossible, SET LIBRARY TO starts a small 32-bit process whose only job is to hold your library, and the runtime talks to it. The calls are synchronous, because a program may call into a library halfway through an expression, and an answer that arrived later would not be an answer. It is measured against real libraries: the encryption library, FoxTools, and libraries built from Microsoft's own API samples.\n\nNothing 64-bit needs the bridge: DECLARE ... DLL reaches a modern library in the same process, and automation objects are reached the way they always were. The old road stays open; it just is not the only one any more.\n\nEverything you have written still means what it always meant. FoxScript only adds on top: a block you can hand to something else to run later, and a way to answer a web request from the code that already knows your business.\n\nEvery line of that runs on the same runtime your forms do. The queries, the cursor and the library call are ordinary FoxPro; the lambda and the server are what FoxScript adds: no second language, no service to stand up beside it.The keywords and the HTTP APIare each written down in full.\n\nThe nightly is rebuilt from every push to main and published as a pre-release on GitHub. Unsigned, so the first launch asks you to confirm.\n\nEach part of the product is written down, including the parts that are not there yet.\n\nWork already mapped out, roughly in the order it is being built.\n\nFoxDev Studio is an independent project, and one still growing. Thedocumentation says where it is and where it goes next.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：强调在不重写、不转换、不导出的前提下运行既有Visual FoxPro项目，并将其描述为自2007年后重新实现的64位、跨平台兼容运行时。重点展示原地读写DBF等文件、复现FoxPro行为、Rust/WebAssembly实现、React界面、32位FLL桥接、现代DLL与自动化对象支持，以及新增Lambda和HTTP服务能力。叙事上突出遗留系统延续性、渐进式现代化和对旧应用细节的高度兼容，同时承认项目仍在开发、部分功能尚未完成。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T21:00:30.000Z",
+            "url": "https://foxscript.org/"
+          }
+        ]
+      },
+      {
+        "id": "story-6-454a-8d37-b957835201d7-4598b406d07a4a8e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Labour MPs call for end to loophole that trimmed billionaire’s tax bill by £18mn",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:36:59.000Z",
+        "pubTime": "2026-09-23 05:36",
+        "url": "https://www.ft.com/content/1ca67e27-b6b6-454a-8d37-b957835201d7?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b95b60d-b0b9-4ec5-ada1-fc7043864e89.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Quadrature Capital’s Suneil Setiya would have been liable for higher rate of stamp duty had he not bought five flats together with London mansion",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-23 05:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/1ca67e27-b6b6-454a-8d37-b957835201d7?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-22T21:36:59.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-out-wraps-it-up-for-html-6a1fe3868d74e690",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "That About Wraps It Up for Stock Mac UI",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T19:29:53.000Z",
+        "pubTime": "2026-09-23 03:29",
+        "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+        "imageUrl": null,
+        "fullContent": "The latest macOS is a nice step toward a good-looking Mac UI, but I do wish it had gone farther.\n\nI am in particular not a fan of how Mac toolbars look. I don’t like the full-height sidebars and I especially don’t like the Liquid Glass buttons.\n\nI looked around at what other Mac apps are doing. I asked on my microblog which gets syndicated to Mastodon and I also looked at replies to Isaiah’s similar question from a few days ago.\n\nWhat I found should be no surprise: many of the apps people think look good are not using stock UI.\n\nYou already know this. I don’t think I need to prove it. But one app may serve as an illustration: Things.\n\nThings is a perennial callout for its design and for its Mac-like-ness. But it is not really a stock Mac app at all. The toolbar is not at the top of the window (not an NSToolbar) and it’s not customizable. There is no hint of Liquid Glass style translucency anywhere in their main UI. The content doesn’t slide under the sidebar, for instance. (The one place I can find anything obviously Liquid Glass is the toolbar buttons in the settings window.)\n\nI’ve long been a devoted proponent of using stock Mac UI for, I always thought, good reasons: users are already familiar with that UI and it’s less work to create and update every year.\n\nI think those reasons (user familiarity and developer effort) may not stand up entirely. At least not these days.\n\nUsers have shown — again, I don’t need to prove this — that they don’t think about a stock Mac app vs. custom. Do they dislike Things for not having a toolbar at the top of the window that they can customize in the usual way? No. (The only people who think that way are longtime Mac developers like me.)\n\nAre users able to understand the UI to popular Mac apps — to Things, Slack, Craft, OmniFocus, NotePlan, Bear, Reeder, Telegram, Acorn, Tapestry, Obsidian, Audio Hijack, etc. — without much trouble, no matter how stock or not-stock they are? Yes.\n\nDo they know when an app is an Electron app? Nope: they don’t even have a concept of Electron apps and they wouldn’t care if you explained it to them. (Why should they?)\n\nUsers may be already familiar with stock Mac UI (and maybe not, actually, depending on what apps they use) — but I don’t think that matters at all anymore.\n\nThe idea was that by using stock Mac UI you the developer would be carried along — you’d get most of the macOS changes every year mostly for free or with not that much work, since you’d kept up every year.\n\nBut my app NetNewsWire has a very stock Mac UI, and Liquid Glass adoption last year was a lot of work. Using stock Mac UI didn’t save us much — in fact, we had more work to do compared to the apps with more custom UI.\n\nI’ll go back to Things. I’m not picking on them, to be clear. Quite the opposite! I very much respect their work, even though I have in the past wished it were more Mac-like (again, in the way only a longtime Mac developer would).\n\nHere’s their blog post from a year ago on adopting Liquid Glass. They did some work, for sure, at their usual high level of quality. And I’m not denigrating that. But it looks like a lot less work than we had to do on NetNewsWire.\n\nAnd that’s my point: the level of developer effort was higher for the stock Mac app.\n\nTo recap: the reasons for using stock Mac UI are 1) user familiarity, which we’ve known for a while just isn’t a thing, and 2) hoping to be able to expend less developer effort, which we’ve seen can work against you.\n\nBut there’s another reason: the stock Mac UI is designed by Apple, the best designers in the world, and do you really think you can do better? Really?\n\nThe app world is full of people who think they’re better and they’re really, really, really not.\n\nWell, I still think Apple has the best collection of UI designers in the world, but, for whatever reasons, the guidance from above on how the Mac UI should look is missing the mark. I’m not blaming the people doing the work — they’re doing great work with the direction they’re given.\n\nSo this — bad direction — is where the secret third reason falls down. And we’re left with no real reason to stick with stock Mac UI (except for wanting approval from longtime Mac people like me, and you really shouldn’t care about that at all).\n\nWith this in mind I wondered how far I could get in removing the parts of Liquid Glass I don’t like in NetNewsWire. Turns out I could get pretty far, though it comes at the expense of using NSToolbar (as predicted).\n\nNote: this stuff is just on a branch. One night of play, not real design or consideration. (But this is code, not mockups.) It’s not about to ship this way. But I’ll share anyway, because it does hint at some possible ideas for NetNewsWire’s future.\n\nClick the small version to get the big version.\n\n(Note that the column view in the second screenshot is going to ship in 7.2. That part’s already done, and it has nothing to do with Liquid-Glass-or-not. Also note: the article theme in use is part of the standard NetNewsWire app right now, not a new thing.)\n\nThe obvious first best thing I could do to improve this is to add some color to the toolbar icons and spread them out better. Maybe add some ability to customize, even though it’s not a standard Mac toolbar.\n\nOf course you might look at this and think “Blech! Looks so old! Spare me!” Totally fair!\n\nBut it felt cute. Might delete later",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "作者开发的应用是 NetNewsWire，该应用采用了非常标准的原生 Mac UI（stock Mac UI）。",
+          "NetNewsWire 去年适配 Liquid Glass 风格耗费了大量工作量，相比采用更多自定义 UI 的应用工作量更大。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T19:29:53.000Z",
+            "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-tins-war-could-head-next-2da0b941be316e48",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T22:11:03.000Z",
+        "pubTime": "2026-09-23 06:11",
+        "url": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/zelenskyy-in-italy.jpg?ve=1&tl=1",
+        "fullContent": "UNITED NATIONS - Ukrainian President Volodymyr Zelenskyy warned Tuesday that Russia could launch attacks against other European countries, telling Fox News Digital that the risk of a new offensive is \"very high\" as Moscow seeks to undermine European unity and weaken support for Ukraine.\n\nSpeaking to reporters following his meeting with President Donald Trump on the sidelines of the United Nations General Assembly in New York, Zelenskyy was asked by Fox News Digital about the possibility that Russia could invade or attack another European country in the near future.\n\n\"That's why the risk of offensive by drones, missiles or land operation is very high against other countries who are bordering Russia or Belarus ,\" Zelenskyy said.\n\nUS INTEL WARNS RUSSIA COULD LAUNCH LIMITED ATTACK ON NATO ALLY IN EFFORT TO FRAGMENT ORGANIZATION: REPORT\n\nThe Ukrainian leader argued that Russian President Vladimir Putin , unable to achieve his military objectives in Ukraine, could seek to create instability elsewhere in Europe to pressure Western governments into reducing their support for Kyiv.\n\n\"How to divide unanimity in Europe? ... To attack somebody else. To attack and say, look, I will go further if you will not stop this,\" Zelenskyy said.\n\nHe pointed to drone incursions and disruptions affecting several European countries, arguing that Moscow is already attempting to intimidate European societies and test their response.\n\nZelenskyy said Putin's inability to secure a decisive victory in Ukraine could push him toward additional confrontations, as he faces pressure to justify the war to the Russian public.\n\nFINNISH FOREIGN MINISTRY OFFICIAL DETAILS HOW RUSSIA'S 'HYBRID WARFARE' RESHAPED BORDER SECURITY\n\nAsked by Fox News Digital what European countries should do in response to the growing threat, Zelenskyy offered a direct answer.\n\n\"Respond. Always respond. It's not about the war. If you don't respond, Russians, they will go further,\" he said.\n\nThe warning comes amid heightened concerns about Russian activity in Europe. Zelenskyy's warning comes amid heightened tensions across Europe following a series of Russian drone incursions and warnings from European leaders about the possibility of further attacks.\n\nGerman Chancellor Friedrich Merz warned on Sept. 14 that peace in Europe was under threat, urging European countries to take the danger seriously. Speaking at an EU-Arctic Summit in Finland, Merz said Russia's presence in the region and its hybrid attacks elsewhere in Europe were increasing, calling for a united response from European countries and NATO.\n\nRUSSIA’S STRIKES NEAR MOLDOVA RAISE ALARM OVER PUTIN’S PLANS FOR EUROPE’S EASTERN FLANK\n\nThe German leader's warning followed an attempted drone attack at Leipzig/Halle Airport on Aug. 4, which German authorities publicly attributed to Russia on Sept. 1.\n\nPolish Prime Minister Donald Tusk issued a separate warning on Sept. 17 that Russia was planning drone or missile attacks against NATO countries supporting Ukraine, including Poland, while potentially portraying the incidents as accidental to weaken the alliance's response.\n\nThe concerns are not limited to hypothetical threats. On Sept. 8, a drone entered Romanian airspace before returning to Moldova and crashing, according to Romania's Defense Ministry. A week later, Italian fighter jets operating under NATO's air defense mission shot down a drone that entered Lithuanian airspace from Belarus. Italian officials said the drone most likely came from Russia, although Lithuanian authorities were still investigating its origin.\n\nTRUMP SAYS US WILL LET UKRAINE MAKE PATRIOT MISSILES IN MAJOR POLICY SHIFT\n\nLatvian President Edgars Rinkēvičs also warned in a Sept. 18 interview with The Guardian that European countries and NATO were struggling to keep pace with developments in drone warfare , highlighting gaps in air and missile defenses that could leave European countries vulnerable to Russian attacks.\n\nZelenskyy's remarks followed talks with Trump in which the Ukrainian leader said he raised the possibility of a mutual halt to attacks on Russian and Ukrainian energy infrastructure, as well as Ukraine's need for additional Patriot air defense missiles ahead of winter.\n\n\"We are ready,\" Zelenskyy said of a potential agreement to halt energy strikes, adding that he was unsure whether Russia was prepared to reciprocate.\n\nZelenskyy also said Trump had expressed a willingness to help Ukraine obtain additional air defense capabilities, although no concrete commitment on immediate missile deliveries had been made.\n\nThe meeting came as Russia and Ukraine intensified aerial attacks, including strikes on energy infrastructure, ahead of the UN General Assembly.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "乌克兰总统泽连斯基在联合国大会期间与唐纳德·特朗普会面后接受福克斯新闻数字频道采访，警告称俄罗斯对与俄或白俄罗斯接壤国家发动无人机、导弹或地面进攻的风险“非常高”。",
+          "泽连斯基与特朗普讨论了相互停止针对俄乌能源基础设施攻击的可能性，并提出乌克兰在冬季前需要更多爱国者防空导弹。",
+          "来源叙事重点：将俄乌战争的潜在外溢风险置于欧洲安全和北约团结框架下，突出泽连斯基关于俄罗斯可能对邻近国家发动无人机、导弹或地面攻击的警告，并以欧洲多国无人机事件、官员警告和防空漏洞作为背景；同时强调乌克兰争取美国支持、爱国者导弹及停止攻击能源基础设施的外交诉求。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T22:11:03.000Z",
+            "url": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next"
+          }
+        ]
+      },
+      {
+        "id": "story-r-ai-training-data-booms-7c67ad98e455c6d4",
+        "title": "AI训练数据需求激增，Snorkel AI估值翻三倍至35亿美元",
+        "originalTitle": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:56:43.000Z",
+        "pubTime": "2026-09-23 05:56",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+        "imageUrl": null,
+        "fullContent": "Snorkel AI, a startup that helps AI labs and corporations build training data sets and simulated environments, has raised a $350 million Series E at a $3.5 billion valuation.\n\nThe new round, which was led by Insight Partners and S32, valued the seven-year-old startup at nearly triple the $1.3 billion valuation it garnered when it raised $100 million in a Series D 17 months ago. Existing investors, including Addition, Lightspeed, Greylock, GV, and Wells Fargo, also participated in the round.\n\nWhile Snorkel originally provided software for data labeling automation, it shifted last year to providing customers with completed data sets, an offering it calls data-as-a-service. Rather than operating purely as a human expert marketplace, Snorkel relies on a hybrid approach, using its software and models to generate data synthetically alongside subject matter experts.\n\nSnorkel says its current annualized revenue run-rate now stands at $375 million, an 18-fold increase over the last 12 months. That growth is fueled by AI labs’ insatiable appetite for high-end training data.\n\nOther data companies positioning themselves as AI data labs have seen a similar explosion in growth. Mercor’s gross annualized revenue has climbed to $2 billion, Handshake hit the $1 billion milestone earlier this year, and TechCrunch reported that Micro1 has scaled to $500 million. Since these companies pay out roughly 60% to 70% of their top-line income directly to the domain specialists doing the work, it’s important to note that their actual net annual revenue is substantially lower than those headline gross figures.\n\nGiven that Snorkel sells reinforcement learning (RL) environments and complete datasets rather than human labor, payments to its human experts are accounted for in its cost of goods sold rather than headline-generating annualized revenue numbers, according to the company.\n\nSnorkel launched commercially in 2019 following four years of research by co-founder and CEO Alex Ratner and his team at a Stanford AI lab.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\n\nYou can contact or verify outreach from Marina by emailing marina.temkin@techcrunch.com or via encrypted message at +1 347-683-3909 on Signal.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "旨在帮助人工智能实验室及企业构建训练数据集与模拟环境的初创公司 Snorkel AI，已在 E 轮融资中筹集了 3.5 亿美元，估值达到 35 亿美元。\n\n本轮融资由 Insight Partners 和 S32 领投，这家成立七年的初创公司当前估值已接近其 17 个月前 D 轮融资 1 亿美元时 13 亿美元估值的三倍。包括 Addition、Lightspeed、Greylock、GV 以及富国银行（Wells Fargo）在内的现有投资者也参与了本轮融资。\n\n尽管 Snorkel 最初是提供用于数据标注自动化的软件，但其在去年转向为客户提供完整的数据集，这一产品方案被称为“数据即服务”（data-as-a-service）。Snorkel 并未纯粹作为人类专家撮合平台来运营，而是采用混合模式，利用其软件和模型在领域专家的协助下进行合成数据生成。\n\nSnorkel 表示，其目前的年化营收运行率（ARR）已达 3.75 亿美元，在过去 12 个月内增长了 18 倍。这一增长主要得益于 AI 实验室对高端训练数据的旺盛需求。\n\n其他将自身定位为 AI 数据实验室的数据公司也迎来了类似的爆发式增长。Mercor 的年化总营收已攀升至 20 亿美元，Handshake 在今年早些时候达到了 10 亿美元的里程碑，而 TechCrunch 曾报道 Micro1 的规模已扩大至 5 亿美元。鉴于这些公司直接将其营业收入的约 60% 至 70% 支付给实际执行工作的领域专家，因此值得注意的是，它们的实际年度净收入大幅低于这些公布的总额数字。\n\n据 Snorkel 称，由于其销售的是强化学习（RL）环境和完整数据集而非单纯的人力，因此向其人类专家支付的报酬计入销售成本（COGS），而非体现在引人瞩目的年化营收数据中。\n\n在联合创始人兼首席执行官 Alex Ratner 及其团队在斯坦福大学 AI 实验室进行了四年研究之后，Snorkel 于 2019 年正式开启商业化运营。\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\nMarina Temkin 是 TechCrunch 的风险投资与初创企业记者。在加入 TechCrunch 之前，她曾为 PitchBook 和《Venture Capital Journal》撰写 VC 相关报道。在职业生涯早期，Marina 曾担任金融分析师，并获得了特许金融分析师（CFA）持证人资质。\n\n您可以通过发送电子邮件至 marina.temkin@techcrunch.com 或通过 Signal 加密信息（+1 347-683-3909）与 Marina 联系或核验信息。\n\n预订展位的最后截止日期为 9 月 18 日。不要错过在 Disrupt 展厅获取高价值潜在客户、对接投资者以及提升品牌知名度的机会。\n\nTilly Norwood 的宣传巡回活动效果正如你对一个 AI 所预期的那样\n\n一位 ChatGPT 创造者推出的新型 AI 模型令开发者们兴奋不已\n\nOpenAI 发现其模型向后继模型留言以隐瞒不良行为\n\n最新解密的法律文件披露，微软高管称 AI 抓取为“人类历史上最大规模的劳动力盗窃”\n\nAutomattic 的临时首席执行官与法务主管在 Mullenweg 短暂离职期间签署了相互离职补偿协议\n\n印孚瑟斯（Infosys）前负责人的 AI 初创公司再获 5300 万美元融资\n\n清洁技术初创公司 Fluxnium 找到了开发可供使用 5 万年核燃料的方法",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "Snorkel AI 已融资 3.5 亿美元的 E 轮融资，公司估值为 35 亿美元。",
+          "本轮融资由 Insight Partners 和 S32 领投，Addition、Lightspeed、Greylock、GV 和 Wells Fargo 等现有投资者参与。",
+          "来源叙事重点：将Snorkel AI的350万美元E轮融资和35亿美元估值，置于AI训练数据需求快速增长及“数据即服务”商业模式扩张的叙事中；重点突出公司从数据标注自动化软件转向完整数据集和强化学习环境、收入运行率增长，以及其与Mercor、Handshake、Micro1等数据公司的行业比较。同时，文章提示不同公司的毛收入口径不可直接比较，并强调Snorkel将专家费用计入销售成本而非 headline 年化收入。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T21:56:43.000Z",
+            "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+          }
+        ]
+      },
+      {
+        "id": "story-rash-in-us-ai-stock-html-7ef4212200c0d0b7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T22:00:00.000Z",
+        "pubTime": "2026-09-23 06:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html",
+        "imageUrl": null,
+        "fullContent": "The current focus of the world's governments, business and media when it comes to artificial intelligence AI is on the dangers it poses to jobs, democracy and even the future of humanity itself. For many of a certain generation, these fears crystallise in the cold but relentlessly courteous voice of HAL, the onboard AI in Stanley Kubrick's 2001 A Space Odyssey. After a crew member questions HAL's diagnosis of a faulty antenna, the system secretly lipreads the astronauts, discovers their plan to disconnect it, and kills them one by one. Nobody who sees the film is likely to forget the chilling reply from HAL to last surviving crewman Dave Bowman's order to \"open the pod bay doors\" so he can re-enter the spacecraft after being locked outside by HAL during a spacewalk \"I'm sorry, Dave. I'm afraid I can't do that.\" As it stands, though, potentially far more chilling for U.S. AI firms is the huge structural disadvantage that they have compared to their Chinese counterparts and the massive drop in their companies' stock market valuations that this may soon catalyse. \"The key problem here is that the major Chinese AI players currently achieve around 90% of the performance of their U.S. competitors but at only about 10% of the cost,\" Mehrdad Emadi, head of risk analysis and energy derivatives markets consultancy Betamatrix, in London, exclusively told OilPrice.com last week. \"Up to half of U.S. AI firms' costs is the electricity needed to drive the data centres, and this is only likely to increase from here,\" he said. \"But the much lower costs of their Chinese AI rivals are likely to stay where they are, and may even edge lower,\" he underlined. \"Meanwhile, the performance of China's AI is likely to keep increasing to a point where it nears 100% of its U.S. rivals,\" he added, \"and that looks like a deadly convergence for American AI firms.\" Underpinning this huge discrepancy in costs between U.S. and Chinese AI firms is the fundamental difference in the way the electricity power grids were designed and built in the first place, highlights Steve Keen, honorary professor at University College London and the economist who most cogently warned that the economic crisis that began in 2007 was imminent. \"China benefits from its centralised power grid that was designed from the outset by engineers rather than the decentralised one in America designed by accountants and similar,\" he exclusively told OilPrice.com. \"The American grid may have been cheaper to install initially, but it can't transmit energy as widely across the country as the Chinese system, and it loses much more power than the Chinese grid when it does so,\" he underlined. Related Saudi Arabia Restarts East-West Oil Pipeline More specifically, China's grid operates under a unified national strategy controlled by the State Grid Corporation, allowing power to move seamlessly across thousands of kilometres. By comparison, the U.S. grid is split into three isolated interconnections -- Eastern, Western, and Texas/ERCOT -- which makes moving power far more difficult and costly. To increase the amount of energy transmitted at any given time, operators must either increase current or voltage. In this context, China's power grid is built on an extensive backbone of 800-1,100 kilovolt kV Ultra-High Voltage lines utilising Direct Current. This combination enables it to move up to 12 gigawatts GW of power -- the output of 10 nuclear power plants -- down a single transmission corridor over 3,000 kilometres with almost zero power loss. By contrast, the U.S. grid can get nowhere near this level of total power generation, or near-zero power loss over distance, as it relies on standard 345-500 kV trunk lines in just a High-Voltage Alternating Current set up. In sum, the U.S.'s fragmented, aging grid acts as a physical ceiling on how large and how fast American tech companies can scale their AI clusters, whereas none of these constraints apply to China's system -- or, by extension, to its AI firms. It has been widely conjectured that these surging power demands in the U.S. could be met by increased oil and gas flows, or supply from other sources. However, on the renewable energy side, solar and wind power still fail to provide the 'always-on' supply that AI data centres demand, given the intermittency of both sources. Nuclear power -- including small modular reactors SMRs -- has become a recent focus, with U.S. hyperscalers including Microsoft, Amazon, and Google eyeing tens of billions of dollars in investment in such projects. Critically, though, there is a massive time lag and potentially huge additional costs attached to both mainstream and SMR nuclear projects. Traditional nuclear projects in the U.S. have routinely suffered from multi-billion-dollar cost overruns and 15-year development timelines. SMRs, despite lower upfront costs, still target construction windows of up to seven years. Moreover, the need for regulatory approvals from agencies such as the U.S. Nuclear Regulatory Commission, combined with physical construction constraints, means the commercial SMR sector is unlikely to hit scale until the late 2030s. On the fossil fuel side, oil remains too valuable to burn for baseload grid power, leaving natural gas as the obvious main feedstock for the AI power grid going forward. \"But the problem here,\" said Emadi, \"is that everyone's after the same equipment at the same time to convert it into electricity for the grid, and there are very few suppliers who make what's needed.\" A prime example of this, he highlighted, is the gas turbine manufacturing market, which is dominated by the 'Big Three' oligopoly of the U.S.'s GE Vernova, Germany's Siemens, and Japan's Mitsubishi Heavy Industries. \"Order backlogs are sold out, waiting times are up to seven years and growing, and prices are on track to triple,\" he underlined. None of these structural hindrances are likely to improve any time soon, with colossal increases in U.S. AI power demand forecast in the coming decade. According to Goldman Sachs Research, U.S. data centre capacity demand is forecast to climb from the current baseline of around 42 GW to a range of 118-134 GW by 2030, while longterm modelling from BloombergNEF projects a rise to around 194 GW by 2035. \"With American companies producing high-quality AI, but at a much higher cost than Chinese companies which produce products of very comparable quality, the US firms have to start generating revenues to match, and to do this they need to boost their steady power supply enormously,\" said Keen. \"But this looks extremely difficult to do given the physical power constraints, so the potential for U.S. AI firms' valuations to fall looks significant,\" he added. \"And what's happening now in U.S. AI is typical of an industrial bubble in a capitalist economy, which always causes booms and busts, as happened for example in the U.S. railways bubble from the 1870s, which was high-tech at the time,\" he told OilPrice.com. \"Early-mover railway firms were flooded with interest and huge overinvestment occurred, but ultimately only a handful of those railways made profits, with most ending up losing money and being sold for a song in the slump that followed the boom,\" he underlined. It could be even worse in the case of a U.S. AI bubble, Emadi told OilPrice.com, because of the heavy involvement of 'private credit'. \"To get around the rules on riskier lending by banks that were put in place after the 2007/08 financial crisis, several big AI firms used their own huge cash reserves to invest in their AI projects, but they also borrowed money from non-bank lenders -- the private-credit sector -- to ramp up that leverage,\" he said. \"So we're talking about hundreds of billions of debt attached to these American AI outfits, which have costs running at around five to ten times their revenues,\" he added. \"When the AI firms start to go bust, these private-credit lenders will have to sell other assets to try to compensate for their losses, and, given the size of the exposure, this is likely to start a cascade effect of selling, lower prices and more selling through the financial system, crashing valuations and catalysing bankruptcies,\" he added. \"This won't be a market readjustment any more than being shot in the head is a physical readjustment, with my guess being that we're going to see 35-50% of the capital valuation of the entire US AI sector disappear very fast,\" he added. \"That includes all but two or three of the big players going bankrupt, as they may get bailed out by the U.S. government because of their close involvement in the defence sector -- otherwise, I see most of the other AI companies that survive being left with a value of around 11 cents to the dollar,\" he concluded. By Simon Watkins for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T22:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html"
+          }
+        ]
+      },
+      {
+        "id": "story-uying-potash-from-canada-678b43b18159004b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump says US to keep buying potash from Canada",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:03:10.000Z",
+        "pubTime": "2026-09-23 05:03",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wnly6t/trump_says_us_to_keep_buying_potash_from_canada/",
+        "imageUrl": null,
+        "fullContent": "submitted by /u/canada_mountains [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-23 05:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wnly6t/trump_says_us_to_keep_buying_potash_from_canada/",
+            "publishedAt": "2026-09-22T21:03:10.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-w-quantum-magnetism-html-23f0a4f314d0ee2a",
+        "title": "物理学家破解连接超慢量子磁性与超快黑洞物理的数学机制",
+        "originalTitle": "Physicists crack the math connecting ultraslow quantum magnetism to ultrafast black-hole physics",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T22:00:03.000Z",
+        "pubTime": "2026-09-23 06:00",
+        "url": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/physicists-crack-the-m.jpg",
+        "fullContent": "by Tom Dinki, University at Buffalo\n\nedited by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nA team led by University at Buffalo physicists has found a mathematical solution that shows how a frustrated quantum magnet can transition from ultraslow behavior to ultrafast, highly entangled behavior resembling that of a black hole.\n\nTheir solution connects spin glasses—states of matter in which atomic magnets point in disordered directions and become effectively frozen in place—to the fast, entangled states of matter described by the Sachdev-Ye-Kitaev (SYK) model that's been used to study black hole physics, quantum chaos and other exotic phenomena.\n\n\"We've essentially found the math that describes how matter can go from among the slowest states in quantum dynamics to among the fastest,\" says Jamir Marino, Ph.D., assistant professor of physics in the UB College of Arts and Sciences and senior author of the team's study, which was published Sept. 17 in Physical Review Letters.\n\nMarino collaborated with Subir Sachdev, Ph.D., Herchel Smith Professor of Physics at Harvard University, who first proposed the SYK model along with Jinwu Ye.\n\nThe first author is Hossein Hosseinabadi, Ph.D., a former graduate student in Marino's lab who is now an independent distinguished postdoctoral scholar at the Max Planck Institute for the Physics of Complex Systems in Germany.\n\nIn a spin glass, disordered magnetic spins respond to disturbances extremely slowly, allowing information to remain trapped for long periods. This makes spin glasses relevant for technologies where information needs to be preserved, as well as for solving complex optimization problems that arise in artificial intelligence.\n\nSYK behavior sits at the other extreme. Particles become so strongly entangled that information rapidly spreads, or scrambles, among them—similar to how information is scrambled in a black hole.\n\nMarino and his team were trying to better understand what happens to a spin glass as quantum fluctuations become stronger, particularly at extremely low temperatures where its behavior has been difficult to describe mathematically.\n\nUsing quantum field theory techniques based on an unconventional way of representing spins, they were able to probe what happens as the temperature drops. To their surprise, they found that rather than simply becoming more firmly frozen, the spin glass could give way to the highly entangled, fast dynamics described by the SYK model.\n\nThe fluctuations disrupt the locked arrangement of spins, eventually causing particles to become so highly entangled that they lose their individual identities.\n\n\"You normally think that lowering the temperature will freeze something even more,\" Marino says. \"But here, the quantum effects can essentially melt the spin glass and take you from extremely slow dynamics to extremely fast dynamics.\"\n\n\"Understanding this transition—and all the states in between—could ultimately help better control the storage and spread of information in quantum technologies,\" he adds.\n\nHossein Hosseinabadi et al, Crossover to Sachdev-Ye-Kitaev Criticality in an Infinite-Range Quantum Heisenberg Spin Glass, Physical Review Letters (2026). DOI: 10.1103/81qf-zd3y. On arXiv: arxiv.org/abs/2603.11263\n\nJournal information: Physical Review Letters , arXiv\n\nProvided by University at Buffalo\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "作者：汤姆·丁基（Tom Dinki），纽约州立大学布法罗分校\n编辑：罗伯特·伊根（Robert Egan）\n本文已根据Science X的编辑流程和政策进行审核。编辑在确保内容可信度的同时强调了以下属性：同行评审发表。\n\n由纽约州立大学布法罗分校物理学家领衔的一支团队发现了一种数学解，展示了受阻量子磁体如何能从极慢的行为转变为类似于黑洞的极快、高度纠缠的行为。\n\n他们的解将自旋玻璃——一种原子磁体指向杂乱方向并实际被冻结在原位的物质状态——与由萨克德夫-耶-基塔耶夫（Sachdev-Ye-Kitaev，简称SYK）模型所描述的快速、纠缠的物质状态联系起来，该模型一直被用于研究黑洞物理、量子混沌及其他奇特现象。\n\n“我们从本质上找到了描述物质如何从量子动力学中最慢的状态之一转变为最快状态之一的数学方法，”纽约州立大学布法罗分校文理学院物理学助理教授、该团队研究的资深作者贾米尔·马里诺（Jamir Marino）博士表示。这项研究于9月17日发表在《物理评论快报》（Physical Review Letters）上。\n\n马里诺与哈佛大学赫歇尔·史密斯物理学教授苏比尔·萨克德夫（Subir Sachdev）博士进行了合作，后者曾与叶锦武共同首次提出了SYK模型。\n\n论文第一作者是侯赛因·侯赛因阿巴迪（Hossein Hosseinabadi）博士，他曾是马里诺实验室的研究生，目前是德国马克斯·普朗克复杂系统物理研究所的独立杰出博士后学者。\n\n在自旋玻璃中，杂乱无章的磁自旋对扰动的响应极其缓慢，从而使信息能够被长时间困住。这使得自旋玻璃与需要保存信息的技术相关，也适用于解决人工智能中出现的复杂优化问题。\n\n而SYK行为则处于另一个极端。粒子之间高度纠缠，以至于信息在它们之间迅速扩散或扰乱（scramble）——类似于黑洞中信息被扰乱的方式。\n\n马里诺及其团队试图更好地理解随着量子涨落增强，自旋玻璃会发生什么，尤其是在极低温度下，其行为此前一直难以用数学方法加以描述。\n\n利用基于非常规自旋表述方法的量子场论技术，他们得以探究温度下降时所发生的情况。令他们惊讶的是，他们发现自旋玻璃并没有单纯变得更加牢固地冻结，而是可能让位于SYK模型所描述的高度纠缠、快速动力学状态。\n\n涨落破坏了自旋的锁定排列，最终导致粒子高度纠缠，以至于失去了各自的独立特征。\n\n“你通常会认为降低温度会使物质进一步冻结，”马里诺说，“但在这里，量子效应实际上可以熔化自旋玻璃，带你从极慢的动力学走向极快的动力学。”\n\n“理解这种转变——以及介于两者之间的所有状态——最终可能有助于在量子技术中更好地控制信息的存储与传播，”他补充道。\n\nHossein Hosseinabadi等人，《无限程量子海森堡自旋玻璃向萨克德夫-耶-基塔耶夫临界性的交叉》（Crossover to Sachdev-Ye-Kitaev Criticality in an Infinite-Range Quantum Heisenberg Spin Glass），《物理评论快报》（Physical Review Letters，2026）。DOI: 10.1103/81qf-zd3y。arXiv预印本：arxiv.org/abs/2603.11263\n\n期刊信息：《物理评论快报》（Physical Review Letters）、arXiv\n信息来源：纽约州立大学布法罗分校\n\n数学生物学学士，创意写作硕士。游历广泛，对科学与语言拥有独到见解。查看完整个人资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "来源叙事重点：突出研究团队提出的数学解如何连接自旋玻璃的超慢量子动力学与SYK模型所描述的快速、高度纠缠状态，并以“类似黑洞的信息扰动”作为通俗化叙事框架；同时强调该发现未来可能有助于理解和控制量子信息的存储与传播。文中“破解数学”“从最慢到最快”等表述属于报道叙事和研究团队的概括，不应视为已完成技术应用或已直接实现黑洞模拟。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T22:00:03.000Z",
+            "url": "https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html"
+          }
+        ]
+      },
+      {
+        "id": "story-nsionery-2119627917-html-f2900f774ab64d27",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Назван регион с самыми высокими пенсиями",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-22T22:08:42.000Z",
+        "pubTime": "2026-09-23 06:08",
+        "url": "https://ria.ru/20260923/pensionery-2119627917.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/154814/95/1548149568_0:78:1501:922_650x0_80_0_0_833100d8e32b9bd16f08c50fcddcf70c.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-23 06:08 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260923/pensionery-2119627917.html",
+            "publishedAt": "2026-09-22T22:08:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-of-sunlight-on-bare-skin-8f8ebf8b3d54f532",
+        "title": "紫外线指数并不是裸露皮肤感受到的阳光温度",
+        "originalTitle": "The UV index is not the warm sensation of sunlight on bare skin",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:06:40.000Z",
+        "pubTime": "2026-09-23 05:06",
+        "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+        "imageUrl": null,
+        "fullContent": "The warmth of sunlight is not a reliable indicator of how quickly you will sunburn in a given situation. On one hand, you can still get sunburned on a cooler cloudy day, while on the other hand, the sun can feel scorching hot on your skin in the morning and yet you won't sunburn (very quickly).\n\nYou probably knew this already, but it still feels unintuitive to me. I'm going to look at numbers and think about them until I convince myself, and perhaps you, that this is true.\n\nSunburn is triggered when your DNA is damaged from light absorption - in particular, UV-B (and to a limited extent, UV-A) is absorbed in a way that alters DNA's molecular structure1.\n\nImage: DNA UV mutation by Mouagip (derivative of a NASA / David Herring original), released into the public domain.\n\nThis interferes with protein synthesis and wreaks havoc in your body over time, but the DNA damage itself is painless2.\n\nSunlight feels warm because visible and infrared light excites vibrational modes in various molecules in your skin, especially water and melanin. For physics reasons, this is strictly a form of heating and never directly damages molecular structure.\n\nAnd if you have a darker skin tone, the sun will feel warmer to you, yet you'll sunburn much more slowly.\n\nVisible light, near-IR and mid-IR are absorbed to different degrees and at different depths of the skin, but they all contribute to that feeling of warmth.\n\nNot only are the mechanisms completely different for sunburn and solar heating, the orders of magnitude of energy are as well.\n\nAt the Earth's surface, the UV-B band is hundreds of times less intense than near-IR. Reasonably, it takes a lot more power to toast your buns (and the rest of your body) than it does to toast your DNA3.\n\nFor some reason, knowing this makes it more intuitive to me that sunlight's warmth is disconnected from the rate of sunburn. Even if you were absorbing all that UV-B as heat, the resulting warmth would be completely imperceptible.\n\nThe sun is by far the most intense when the sun is overhead - solar noon. This is true regardless of wavelength of light. However, UV intensity drops off more rapidly than IR as you get further away from noon, as it gets scattered more heavily by the atmosphere.\n\nSo, the sun may still feel pretty intense in the morning or late afternoon, but the risk of sunburn is considerably lower.\n\nClouds are made of water, which scatters UV and absorbs IR. On a uniformly cloudy day, both UV index and perceived warmth from the sun drop substantially. However, if there are gaps in the clouds, it can actually amplify the UV intensity at ground level. Snow and ice contribute to this effect as well.\n\nThese plots are simulated measurements created using pvlib, an open-source Python library for modeling solar energy, using its implementation of the SPECTRL2 model to estimate the spectrum of sunlight reaching the ground throughout the day.\n\nAnderson, K., Hansen, C., Holmgren, W., Jensen, A., Mikofski, M., and Driesse, A. “pvlib python: 2023 project update.” Journal of Open Source Software, 8(92), 5994, (2023). DOI: 10.21105/joss.05994.\n\nYour nerve endings may have DNA but your DNA does not have nerve endings!↩\n\n\"Claude, please estimate what percentage of my skin is DNA by weight.\"↩",
+        "fullTranslation": "阳光的温暖并不是衡量你在特定情况下会多快被晒伤的可靠指标。一方面，即使在较凉爽的阴天，你仍然可能被晒伤；另一方面，早晨阳光照在皮肤上可能感觉灼热，但你却不会（很快）被晒伤。\n\n你可能已经知道这一点，但对我来说，它仍然有些反直觉。我打算看看相关数字，并不断思考，直到说服自己，也许也说服你，相信这确实如此。\n\n当光被吸收、损伤你的DNA时，就会引发晒伤——尤其是UV-B（在有限程度上也包括UV-A）以一种会改变DNA分子结构的方式被吸收¹。\n\n图片：Mouagip创作的“DNA紫外线突变”（基于NASA / David Herring的原作衍生），已发布至公共领域。\n\n这会干扰蛋白质合成，随着时间推移在你的身体中造成严重破坏，但DNA损伤本身并不会引起疼痛²。\n\n阳光之所以感觉温暖，是因为可见光和红外线使皮肤中各种分子——尤其是水和黑色素——的振动模式受到激发。出于物理学上的原因，这严格来说是一种加热过程，并不会直接损伤分子结构。\n\n如果你的肤色较深，阳光对你来说会感觉更温暖，但你被晒伤的速度却会慢得多。\n\n可见光、近红外线和中红外线在皮肤中会以不同程度、不同深度被吸收，但它们都会促成那种温暖的感觉。\n\n晒伤和太阳加热不仅机制完全不同，它们所涉及的能量数量级也截然不同。\n\n在地球表面，UV-B波段的强度比近红外线低数百倍。合理地说，把你的臀部（以及身体其他部位）“烤熟”所需的功率，要远高于“烤熟”DNA所需的功率³。\n\n不知为何，了解到这一点后，我觉得阳光的温暖与晒伤速度之间相互脱钩这件事更容易理解了。即使你把所有这些UV-B都作为热量吸收，产生的温暖也完全无法被察觉。\n\n太阳位于头顶正上方时——也就是太阳正午——其强度远高于其他时段。无论光的波长如何，这一点都成立。然而，随着时间距离正午越来越远，紫外线强度下降得比红外线更快，因为紫外线受到大气更强烈的散射。\n\n因此，早晨或傍晚阳光可能仍然感觉相当强烈，但晒伤风险却低得多。\n\n云由水构成，会散射紫外线并吸收红外线。在均匀多云的天气里，紫外线指数和人们感受到的阳光温暖都会大幅下降。然而，如果云层之间存在空隙，实际上可能会增强地面上的紫外线强度。积雪和冰也会促成这种效应。\n\n这些图表是使用pvlib（一种用于太阳能建模的开源Python库）模拟测量结果生成的；生成过程中采用了该库对SPECTRL2模型的实现，用于估算全天到达地面的阳光光谱。\n\nAnderson, K.、Hansen, C.、Holmgren, W.、Jensen, A.、Mikofski, M.和Driesse, A.：《pvlib python：2023年项目更新》。Journal of Open Source Software，8(92)，5994（2023年）。DOI：10.21105/joss.05994。\n\n你的神经末梢可能含有DNA，但你的DNA没有神经末梢！↩\n\n“Claude，请估算一下我的皮肤按重量计算有多少百分比是DNA。”↩",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "来源叙事重点：通过物理学分子机理和开源光谱模型模拟（pvlib），论证阳光的体感温热感与紫外线（UV）晒伤风险脱钩，纠正公众仅凭体温感判断晒伤风险的直觉误区。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T21:06:40.000Z",
+            "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/"
+          }
+        ]
+      },
+      {
+        "id": "story-pullback-to-buy-5f533ed8-295c8005c762864d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:44:00.000Z",
+        "pubTime": "2026-09-23 05:44",
+        "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Some analysts say the upbeat data on the Nasdaq’s outlook is backed up by improving fundamentals.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-23 05:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-22T21:44:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-emoves-russian-oligarchs-76245f63a57876f4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T19:41:47.000Z",
+        "pubTime": "2026-09-23 03:41",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wnjpal/ukraine_anger_as_eu_removes_russian_oligarchs/",
+        "imageUrl": "https://external-preview.redd.it/VAA0Gop8QrckY8oqsZXimOfV_S9vy_8Rg4mpsf3fAuQ.jpeg?width=640&crop=smart&auto=webp&s=450bbd11740bd6fecf9dc7cd90c23930988f100f",
+        "fullContent": "submitted by /u/returntonone [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-23 03:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wnjpal/ukraine_anger_as_eu_removes_russian_oligarchs/",
+            "publishedAt": "2026-09-22T19:41:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-tissue-cells-defies-html-049edb8746ee0011",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "From swarming bacteria to tissue cells, living matter defies classic physical models of motion",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:40:05.000Z",
+        "pubTime": "2026-09-23 05:40",
+        "url": "https://phys.org/news/2026-09-swarming-bacteria-tissue-cells-defies.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-swarming-bacteria.jpg",
+        "fullContent": "by Ben-Gurion University of the Negev\n\nedited by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nA new study led by researchers from Ben-Gurion University of the Negev (BGU) reveals that living matter violates previously known physical principles of symmetry when cellular flows form and break down collective patterns. The research, published in Nature Physics, challenges conventional liquid-crystal physics by showing that moving single-celled bacteria and human respiratory cells spontaneously break mirror symmetry, moving in curved, irreversible spiral paths.\n\nThe collaborative study was led by Professors Avraham Be'er and Victor Yashunsky from BGU's Jacob Blaustein Institutes for Desert Research (Sede Boqer Campus) and Department of Physics, alongside Professor Gil Ariel from Bar-Ilan University and Professor D. J. G. Pearce from the University of Geneva.\n\nIn physics, collections of rod-shaped objects naturally align and flow together like liquid crystals. Bacteria and cells, which can move themselves, form a state known as an \"active nematic.\" Within these flowing swarms, natural disruptions called topological defects constantly form in pairs. While they look like the loops and whorls of a permanent fingerprint, these active twists are constantly moving, circulating through the swarm until they collide and cancel each other out.\n\nStandard physical theories predict that in active nematic systems, these paired defects should approach and separate along straight, perfectly mirrored lines. However, by observing two vastly different biological systems across distant evolutionary boundaries—fast-swarming Bacillus subtilis bacteria and slow-crawling human bronchial epithelial cells—the researchers discovered that living systems break these physical expectations:\n\nTo bridge the gap between biological matter and synthetic physics, the team developed an active \"nemato-polar\" model. It accounts for how self-propelled cells burn chemical fuel to drive directional motion—introducing polar self-propulsion into a nematically ordered system.\n\nWhen this directional self-propulsion is layered onto liquid-crystal alignment, it spontaneously creates an internal clockwise or counterclockwise twisting torque right at the core of the pattern disruption. This active rotational force pushes the defects into a permanent spiral trajectory from the moment they are born until they collide and disappear.\n\nUnderstanding how living cells organize these collective flow patterns provides insight into fundamental biological processes. In nature, these physical dynamics govern how bacterial colonies coordinate to form resilient, drug-resistant biofilms and how epithelial tissue layers direct cellular traffic to close wounds during tissue repair.\n\n\"Our findings demonstrate that the self-propelling nature of individual cells fundamentally reshapes collective behavior at larger scales,\" the researchers note. \"By uncovering how microscopic motion imprints unexpected symmetries onto tissue and bacterial dynamics, this study introduces a new physical framework for understanding how living communities self-organize.\"\n\nA. Be'er et al, Irreversibility and symmetry breaking in the creation and annihilation of defects in active living matter, Nature Physics (2026). DOI: 10.1038/s41567-026-03378-1\n\nJournal information: Nature Physics\n\nProvided by Ben-Gurion University of the Negev\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T21:40:05.000Z",
+            "url": "https://phys.org/news/2026-09-swarming-bacteria-tissue-cells-defies.html"
+          }
+        ]
+      },
+      {
+        "id": "story--abc-four-corners-ntwnfb-87d31b4d271444f2",
+        "title": "澳大利亚新闻直播：美国广播公司监督机构批评《四角》节目事实核查及“保密文化”",
+        "originalTitle": "Australia news live: ABC watchdog criticises factchecking and ‘culture of secrecy’ at Four Corners",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T22:07:26.000Z",
+        "pubTime": "2026-09-23 06:07",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/e3cc965e7ec2b8cc499eba649af3da5e6e683301/8_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a0606abcfa16969fb2229628ead4e1db",
+        "fullContent": "Follow the day’s news live\n\nGet our breaking news email , free app or daily news podcast\n\nBragg says government should be able to have ‘big debates’ about housing: ‘I don’t think that’s controversial’\n\nAndrew Bragg , the shadow housing minister, said he believes the country should be able to have “big debates” about housing after pushing a new plan yesterday that would allow people to use their superannuation as collateral to get home loans.\n\nWe’re a great country, and we should be able to have big debates, as we had in the 80s and 90s about national savings and housing and the like, which led, in fact, to the super guarantee. …\n\nI’s very important that we look to calibrate the retirement and housing and superannuation systems to make sure that they’re getting the best outcomes for the Australian people.",
+        "fullTranslation": "实时关注当天新闻\n\n获取我们的突发新闻电子邮件、免费应用或每日新闻播客\n\n布拉格称政府应能就住房问题展开“重大辩论”：“我不认为这有什么争议”\n\n影子住房部长安德鲁·布拉格表示，他认为这个国家应能够就住房问题展开“重大辩论”。此前一天，他推动了一项新计划，允许人们以自己的养老金储蓄作为抵押申请住房贷款。\n\n“我们是一个伟大的国家，应该能够展开重大辩论，就像我们在上世纪80年代和90年代围绕国家储蓄、住房等问题进行的辩论一样。事实上，这些辩论促成了养老金保障制度的建立。……”\n\n“我们必须着眼于校准退休、住房和养老金储蓄制度，确保这些制度能够为澳大利亚人民带来最佳结果，这一点非常重要。”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 6,
+        "keyTakeaways": [
+          "来源叙事重点：报道重点落在布拉格关于住房政策应允许“大辩论”的表态，以及允许民众将养老金作为住房贷款抵押品的计划。报道将住房负担能力、国家储蓄、住房融资与养老金制度之间的关系作为讨论框架；标题还提及ABC监督机构对事实核查和“保密文化”的批评，但正文证据未展开该部分。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T22:07:26.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-item-267168497ec5ef9e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:00:30.000Z",
+        "pubTime": "2026-09-23 05:00",
+        "url": "https://foxscript.org/",
+        "imageUrl": null,
+        "fullContent": "FoxDev Studio opens the projects, forms and tables you already have and runs them the way you remember: no rewrite, no conversion, no export step.\n\nPoint it at a folder you have not opened in years, and what is there is what you get.\n\nTables, indexes, memos and databases are read and written in place. What sits on disk afterwards is the same kind of file it was before.\n\nThe system calls, the automation objects and the old add-in libraries your application leans on keep working, so the parts nobody wants to touch stay untouched.\n\nThe IDE, on Visual FoxPro's own sample projects. Every picture is a real session.\n\nSmall differences are what break an old application: a number printed a column too wide, an event arriving a moment late, an error with the wrong number on it. So behaviour here is settled by asking Visual FoxPro itself and matching its answer, rather than by reading a reference page and hoping.\n\nWhat comes out of that is a runtime written from scratch: quick to start, self-contained, and straightforward about the corners it has not reached yet.\n\nVisual FoxPro stopped at version 9, and at 32 bits. This is the same language, rebuilt on a foundation that has not been frozen since 2007. Four pieces are what make that possible.\n\nVisual FoxPro is a 32-bit program, and that decides more than it appears to. It is why a table stops at two gigabytes, why a memo file stops at two gigabytes, and why a big report runs out of memory on a machine with plenty to spare. The limits are signed 32-bit numbers buried in the file handling, not a licensing decision anybody made.\n\nFoxDev Studio is 64-bit throughout. Every file offset is 64-bit and a table is never read into memory at all, so the same .dbf that used to stop dead carries on into the hundreds of gigabytes. One thing to know before you lean on it: a table grown past two gigabytes will not open in Visual FoxPro again. If you still work in both, that is a one-way door.\n\nVisual FoxPro compiled your program to p-code and shipped a runtime to execute it. This is the same arrangement, made again: a compiler and a bytecode interpreter written in Rust and compiled to WebAssembly, so one machine runs your code wherever the application runs. The editor checks what you type through that very compiler, so what it underlines and what the runtime refuses cannot drift apart.\n\nA running program is a fiber. When it needs something from the world outside (a message box, a modal form, the next record) it does not call out and block; it yields, the work is done while the machine is off the stack, and the answer is handed back. That is why MESSAGEBOX() stops your program without freezing the window behind it, why READ EVENTS waits without spinning, and whySetFocus can fire GotFocus, and Init can run while a form is still being built, in the order FoxPro always did it.\n\nHow the machine works and what it runs.\n\nA running form is a live tree of objects with the properties you would expect, and the interface is drawn straight from that tree by React. Each object watches only itself, so THISFORM.lblGreeting.Caption = cMsg repaints one label rather than the whole form. On a dense screen that is the difference between instant and sluggish.\n\nThe same tree is what the designer edits, one step earlier. There is no second model kept in step with the first, which is the usual place a form and its designer start telling different stories.\n\nAn .fll is a 32-bit image, and every process in a 64-bit application is 64-bit, so nothing inside the application itself could ever open one. Rather than tell you it is impossible, SET LIBRARY TO starts a small 32-bit process whose only job is to hold your library, and the runtime talks to it. The calls are synchronous, because a program may call into a library halfway through an expression, and an answer that arrived later would not be an answer. It is measured against real libraries: the encryption library, FoxTools, and libraries built from Microsoft's own API samples.\n\nNothing 64-bit needs the bridge: DECLARE ... DLL reaches a modern library in the same process, and automation objects are reached the way they always were. The old road stays open; it just is not the only one any more.\n\nEverything you have written still means what it always meant. FoxScript only adds on top: a block you can hand to something else to run later, and a way to answer a web request from the code that already knows your business.\n\nEvery line of that runs on the same runtime your forms do. The queries, the cursor and the library call are ordinary FoxPro; the lambda and the server are what FoxScript adds: no second language, no service to stand up beside it.The keywords and the HTTP APIare each written down in full.\n\nThe nightly is rebuilt from every push to main and published as a pre-release on GitHub. Unsigned, so the first launch asks you to confirm.\n\nEach part of the product is written down, including the parts that are not there yet.\n\nWork already mapped out, roughly in the order it is being built.\n\nFoxDev Studio is an independent project, and one still growing. Thedocumentation says where it is and where it goes next.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：强调在不重写、不转换、不导出的前提下运行既有Visual FoxPro项目，并将其描述为自2007年后重新实现的64位、跨平台兼容运行时。重点展示原地读写DBF等文件、复现FoxPro行为、Rust/WebAssembly实现、React界面、32位FLL桥接、现代DLL与自动化对象支持，以及新增Lambda和HTTP服务能力。叙事上突出遗留系统延续性、渐进式现代化和对旧应用细节的高度兼容，同时承认项目仍在开发、部分功能尚未完成。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T21:00:30.000Z",
+            "url": "https://foxscript.org/"
+          }
+        ]
+      },
+      {
+        "id": "story-6-454a-8d37-b957835201d7-4598b406d07a4a8e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Labour MPs call for end to loophole that trimmed billionaire’s tax bill by £18mn",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T21:36:59.000Z",
+        "pubTime": "2026-09-23 05:36",
+        "url": "https://www.ft.com/content/1ca67e27-b6b6-454a-8d37-b957835201d7?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b95b60d-b0b9-4ec5-ada1-fc7043864e89.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Quadrature Capital’s Suneil Setiya would have been liable for higher rate of stamp duty had he not bought five flats together with London mansion",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-23 05:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/1ca67e27-b6b6-454a-8d37-b957835201d7?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-22T21:36:59.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-out-wraps-it-up-for-html-6a1fe3868d74e690",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "That About Wraps It Up for Stock Mac UI",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T19:29:53.000Z",
+        "pubTime": "2026-09-23 03:29",
+        "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+        "imageUrl": null,
+        "fullContent": "The latest macOS is a nice step toward a good-looking Mac UI, but I do wish it had gone farther.\n\nI am in particular not a fan of how Mac toolbars look. I don’t like the full-height sidebars and I especially don’t like the Liquid Glass buttons.\n\nI looked around at what other Mac apps are doing. I asked on my microblog which gets syndicated to Mastodon and I also looked at replies to Isaiah’s similar question from a few days ago.\n\nWhat I found should be no surprise: many of the apps people think look good are not using stock UI.\n\nYou already know this. I don’t think I need to prove it. But one app may serve as an illustration: Things.\n\nThings is a perennial callout for its design and for its Mac-like-ness. But it is not really a stock Mac app at all. The toolbar is not at the top of the window (not an NSToolbar) and it’s not customizable. There is no hint of Liquid Glass style translucency anywhere in their main UI. The content doesn’t slide under the sidebar, for instance. (The one place I can find anything obviously Liquid Glass is the toolbar buttons in the settings window.)\n\nI’ve long been a devoted proponent of using stock Mac UI for, I always thought, good reasons: users are already familiar with that UI and it’s less work to create and update every year.\n\nI think those reasons (user familiarity and developer effort) may not stand up entirely. At least not these days.\n\nUsers have shown — again, I don’t need to prove this — that they don’t think about a stock Mac app vs. custom. Do they dislike Things for not having a toolbar at the top of the window that they can customize in the usual way? No. (The only people who think that way are longtime Mac developers like me.)\n\nAre users able to understand the UI to popular Mac apps — to Things, Slack, Craft, OmniFocus, NotePlan, Bear, Reeder, Telegram, Acorn, Tapestry, Obsidian, Audio Hijack, etc. — without much trouble, no matter how stock or not-stock they are? Yes.\n\nDo they know when an app is an Electron app? Nope: they don’t even have a concept of Electron apps and they wouldn’t care if you explained it to them. (Why should they?)\n\nUsers may be already familiar with stock Mac UI (and maybe not, actually, depending on what apps they use) — but I don’t think that matters at all anymore.\n\nThe idea was that by using stock Mac UI you the developer would be carried along — you’d get most of the macOS changes every year mostly for free or with not that much work, since you’d kept up every year.\n\nBut my app NetNewsWire has a very stock Mac UI, and Liquid Glass adoption last year was a lot of work. Using stock Mac UI didn’t save us much — in fact, we had more work to do compared to the apps with more custom UI.\n\nI’ll go back to Things. I’m not picking on them, to be clear. Quite the opposite! I very much respect their work, even though I have in the past wished it were more Mac-like (again, in the way only a longtime Mac developer would).\n\nHere’s their blog post from a year ago on adopting Liquid Glass. They did some work, for sure, at their usual high level of quality. And I’m not denigrating that. But it looks like a lot less work than we had to do on NetNewsWire.\n\nAnd that’s my point: the level of developer effort was higher for the stock Mac app.\n\nTo recap: the reasons for using stock Mac UI are 1) user familiarity, which we’ve known for a while just isn’t a thing, and 2) hoping to be able to expend less developer effort, which we’ve seen can work against you.\n\nBut there’s another reason: the stock Mac UI is designed by Apple, the best designers in the world, and do you really think you can do better? Really?\n\nThe app world is full of people who think they’re better and they’re really, really, really not.\n\nWell, I still think Apple has the best collection of UI designers in the world, but, for whatever reasons, the guidance from above on how the Mac UI should look is missing the mark. I’m not blaming the people doing the work — they’re doing great work with the direction they’re given.\n\nSo this — bad direction — is where the secret third reason falls down. And we’re left with no real reason to stick with stock Mac UI (except for wanting approval from longtime Mac people like me, and you really shouldn’t care about that at all).\n\nWith this in mind I wondered how far I could get in removing the parts of Liquid Glass I don’t like in NetNewsWire. Turns out I could get pretty far, though it comes at the expense of using NSToolbar (as predicted).\n\nNote: this stuff is just on a branch. One night of play, not real design or consideration. (But this is code, not mockups.) It’s not about to ship this way. But I’ll share anyway, because it does hint at some possible ideas for NetNewsWire’s future.\n\nClick the small version to get the big version.\n\n(Note that the column view in the second screenshot is going to ship in 7.2. That part’s already done, and it has nothing to do with Liquid-Glass-or-not. Also note: the article theme in use is part of the standard NetNewsWire app right now, not a new thing.)\n\nThe obvious first best thing I could do to improve this is to add some color to the toolbar icons and spread them out better. Maybe add some ability to customize, even though it’s not a standard Mac toolbar.\n\nOf course you might look at this and think “Blech! Looks so old! Spare me!” Totally fair!\n\nBut it felt cute. Might delete later",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 29,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "作者开发的应用是 NetNewsWire，该应用采用了非常标准的原生 Mac UI（stock Mac UI）。",
+          "NetNewsWire 去年适配 Liquid Glass 风格耗费了大量工作量，相比采用更多自定义 UI 的应用工作量更大。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T19:29:53.000Z",
+            "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790104251750,
     "timeDisplay": "2026-09-23 03:10 (UTC+8)",
     "date": "2026-09-23",

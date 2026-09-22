@@ -34,14 +34,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **62** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **63** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-23 03:10 (UTC+8)
+- **最新归档时间**：2026-09-23 06:29 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-23 06:29 (UTC+8)" title="全球要闻情报简报 · 06:29" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-23 06:17 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】AI训练数据需求激增，Snorkel AI估值翻三倍至35亿美元：旨在帮助人工智能实验室及企业构建训练数据集与模拟环境的初创公司 Snorkel AI，已在 E 轮融资中筹集了 3.5 亿美元，估值达到 35 亿美元。；【undefined】物理学家破解连接超慢量子磁性与超快黑洞物理的数学机制：作者：汤姆·丁基（Tom Dinki），纽约州立大学布法罗分校 编辑：罗伯特·伊根（Robert Egan） 本文已根据Science X的编辑流程和政策进行审核。编辑在确保内容可信度的同时强调了以下属性：同行评审发表。；【undefined】紫外线指数并不是裸露皮肤感受到的阳光温度：阳光的温暖并不是衡量你在特定情况下会多快被晒伤的可靠指标。一方面，即使在较凉爽的阴天，你仍然可能被晒伤；另一方面，早晨阳光照在皮肤上可能感觉灼热，但你却不会（很快）被晒伤。；【undefined】澳大利亚新闻直播：美国广播公司监督机构批评《四角》节目事实核查及“保密文化”：实时关注当天新闻；【undefined】第81届联大一般性辩论开幕：中新社联合国9月22日电 (记者 王帆)第81届联合国大会一般性辩论22日在纽约联合国总部开幕。；【undefined】西蒙娜·拜尔斯买了一辆新保时捷，因为她的旧车如今带着令人 unmistakable 的盗窃气味：西蒙娜·拜尔斯在社交媒体上透露，自己的保时捷被盗后，最近去买了一辆车。；【undefined】NBA球星凯文·杜兰特对恩尼斯·坎特·弗里德姆关于WNBA跨性别争议的看法不屑一顾：“我根本不在乎”：凯文·杜兰特不想参与WNBA关于性别参赛资格的争论。；【undefined】美联储理事会宣布批准班克第一公司（BancFirst Corporation）的申请：美国政府官方网站
+
+**重点要闻索引：**
+- [FOX News Latest (美国FOX快讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next) <span class="news-meta-time">🕒 2026-09-23 06:11</span>
+- [TechCrunch (硅谷创业与资本)] [AI训练数据需求激增，Snorkel AI估值翻三倍至35亿美元](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/) <span class="news-meta-time">🕒 2026-09-23 05:56</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html) <span class="news-meta-time">🕒 2026-09-23 06:00</span>
+- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wnly6t/trump_says_us_to_keep_buying_potash_from_canada/) <span class="news-meta-time">🕒 2026-09-23 05:03</span>
+- [Phys.org (基础物理与技术前沿)] [物理学家破解连接超慢量子磁性与超快黑洞物理的数学机制](https://phys.org/news/2026-09-physicists-math-ultraslow-quantum-magnetism.html) <span class="news-meta-time">🕒 2026-09-23 06:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/pensionery-2119627917.html) <span class="news-meta-time">🕒 2026-09-23 06:08</span>
+:::
 :::timeline-item{start="2026-09-23 03:10 (UTC+8)" title="全球要闻情报简报 · 03:10" org="ARCHIVE"}
 **速报纪要：** 本时段重点聚焦国际多边外交交锋、区域天然气库存警报、武装冲突联盟组建以及校园暴力隐患等核心动态。
 
@@ -638,18 +651,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [Guix-Science 迎来首个版本发布](https://hpc.guix.info/blog/2026/09/guix-science-first-release/) <span class="news-meta-time">🕒 2026-09-10 19:45</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html) <span class="news-meta-time">🕒 2026-09-10 20:40</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/medved-2116849280.html) <span class="news-meta-time">🕒 2026-09-10 20:57</span>
-:::
-:::timeline-item{start="2026-09-10 16:16 (UTC+8)" title="全球要闻情报简报 · 16:16" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-10 16:14 (UTC+8) 完成，共获得 789 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/dnepropetrovsk-2116762733.html) <span class="news-meta-time">🕒 2026-09-10 16:13</span>
-- [The Verge (前沿数码科技)] [沃尔沃 XC40 PHEV 重磅回归：全新外观、更强传感器并搭载 Gemini AI](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini) <span class="news-meta-time">🕒 2026-09-10 15:00</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 15:29</span>
-- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/) <span class="news-meta-time">🕒 2026-09-10 10:09</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-coyote-density-higher-seattle-washington.html) <span class="news-meta-time">🕒 2026-09-10 16:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/svr-2116762641.html) <span class="news-meta-time">🕒 2026-09-10 16:12</span>
 :::
 ::::
