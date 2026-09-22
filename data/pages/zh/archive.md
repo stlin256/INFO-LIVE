@@ -33,14 +33,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **60** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **61** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-22 18:08 (UTC+8)
+- **最新归档时间**：2026-09-22 23:12 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-22 23:12 (UTC+8)" title="全球要闻情报简报 · 23:12" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-22 23:01 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】特朗普为美国在海外的干预辩护，称在就伊朗作出“重大决定”前“解决多年来未竟的事务”：美国总统唐纳德·特朗普周二严厉警告伊朗，要求其尽快达成协议，否则将因谋求核武器而面临严重后果。；【undefined】荷兰国际集团：尽管油价回落，供应端风险依然高企：荷兰国际集团（ING Bank）分析师周二表示，尽管由于沙特出口中断程度低于此前担忧导致近期原油价格下跌，但供应端风险依然居高不下，且不仅局限于中东地区。；【undefined】Xbox 已面目全非：该主题的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看所有娱乐内容 微软游戏部门的最新变动标志着其进一步背离 Xbox 品牌。 该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看安德鲁·韦伯斯特（Andrew Webster）的所有文章 Xbox 已经徒有其表——而且情况只会变得更糟。作为波及约 3,200 名员工的既定裁员计划的一部分，该公司今天宣布了更多将进一步稀释该品牌的变动。多家工作室正在被整合，其他一些工作；【undefined】苹果已在 iOS 中加入持续显示的“广告”，这让用户抓狂：苹果这是在降低用户体验的档次；【undefined】展位桌已增设：在 TechCrunch Disrupt 2026 展示你的初创公司的最后机会：展位预订重新开放，但仅持续至太平洋时间9月30日晚上11时59分。如果你错过了首个截止日期，这是让你的初创公司登上展厅的最后机会。；【undefined】Xbox正将其《极限竞速》开发团队合并为一家工作室：该主题的帖子将添加到你的每日电子邮件摘要和主页信息流中。；【undefined】微软裁撤268名Xbox员工，Ninja Theory工作室或面临关闭：该话题的内容将添加到您的每日电子邮件摘要和主页推送中。 出售Ninja Theory工作室的交易已于今年夏天破裂。 该作者的内容将添加到您的每日电子邮件摘要和主页推送中。 查看汤姆·沃伦（Tom Warren）的全部文章
+
+**重点要闻索引：**
+- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/politics/2191225) <span class="news-meta-time">🕒 2026-09-22 22:59</span>
+- [TechCrunch (硅谷创业与资本)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/) <span class="news-meta-time">🕒 2026-09-22 23:00</span>
+- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-22 22:36</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/22/hayden-panettiere-cause-death) <span class="news-meta-time">🕒 2026-09-22 22:43</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-hot-amoeba-tolerance-complex-life.html) <span class="news-meta-time">🕒 2026-09-22 23:00</span>
+- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2191227) <span class="news-meta-time">🕒 2026-09-22 22:59</span>
+:::
 :::timeline-item{start="2026-09-22 18:08 (UTC+8)" title="全球要闻情报简报 · 18:08" org="ARCHIVE"}
 **速报纪要：** 本时段国际动态涵盖俄乌局势表态、德国地方政局应对讨论、斯里兰卡恐袭历史回顾以及科技巨头Meta面临的安全指控与高层回应。
 
@@ -637,18 +650,5 @@ notice:
 - [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/) <span class="news-meta-time">🕒 2026-09-10 10:09</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-ai-torrential-frontier-weather.html) <span class="news-meta-time">🕒 2026-09-10 11:20</span>
 - [FOX News Latest (美国FOX快讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention) <span class="news-meta-time">🕒 2026-09-10 11:20</span>
-:::
-:::timeline-item{start="2026-09-10 10:49 (UTC+8)" title="全球要闻情报简报 · 10:49" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-10 10:37 (UTC+8) 完成，共获得 790 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/tramp-2116714220.html) <span class="news-meta-time">🕒 2026-09-10 10:35</span>
-- [GitHub Blog (工程技术博客)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://github.blog/news-insights/company-news/github-availability-report-august-2026/) <span class="news-meta-time">🕒 2026-09-10 10:05</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 10:04</span>
-- [The Guardian Society (卫报社会与民生)] [搬进护理院的年轻健康荷兰人——播客](https://www.theguardian.com/news/audio/2026/sep/10/the-young-and-healthy-dutchman-who-moved-into-a-care-home-podcast) <span class="news-meta-time">🕒 2026-09-10 10:00</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-interactions-geoscience-fieldwork-survey-path.html) <span class="news-meta-time">🕒 2026-09-10 10:20</span>
-- [ANSA Mondo (意大利安莎社官方意大利文)] [巴拿马评估聘用外国医生](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/panama-valuta-lassunzione-di-medici-stranieri_54c635f1-ad4a-443a-bffd-bd890bf20feb.html) <span class="news-meta-time">🕒 2026-09-10 10:31</span>
 :::
 ::::

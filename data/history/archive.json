@@ -1,5 +1,1570 @@
 [
   {
+    "timestamp": 1790089940139,
+    "timeDisplay": "2026-09-22 23:12 (UTC+8)",
+    "date": "2026-09-22",
+    "runId": "feed-20260922T150156192Z-ux5hab",
+    "generatedAt": "2026-09-22T15:12:20.139Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 23:01",
+      "lead": "本轮抓取于 2026-09-22 23:01 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】要闻：我在 2019 年的 NolaCon 上发布了 EvilVM 的 Alpha 版本：我在 2019 年的 NolaCon 上发布了 EvilVM 的 Alpha 版本。你可以在 YouTube 上观看 Irongeek 的视频录像，了解该项目的详细介绍和一些演示： 从 NolaCon 2019 演讲下载幻灯片：LibreOffice ODP 格式、PDF 格式。 在 https://github.com/jephthai/EvilVM/ 获取 EvilVM 的代码。 如需快速上手该系统，请按照《快速入门指南》（Quic",
+        "【undefined】特朗普为美国在海外的干预辩护，称在就伊朗作出“重大决定”前“解决多年来未竟的事务”：美国总统唐纳德·特朗普周二严厉警告伊朗，要求其尽快达成协议，否则将因谋求核武器而面临严重后果。",
+        "【undefined】荷兰国际集团：尽管油价回落，供应端风险依然高企：荷兰国际集团（ING Bank）分析师周二表示，尽管由于沙特出口中断程度低于此前担忧导致近期原油价格下跌，但供应端风险依然居高不下，且不仅局限于中东地区。",
+        "【undefined】Xbox 已面目全非：该主题的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看所有娱乐内容 微软游戏部门的最新变动标志着其进一步背离 Xbox 品牌。 该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看安德鲁·韦伯斯特（Andrew Webster）的所有文章 Xbox 已经徒有其表——而且情况只会变得更糟。作为波及约 3,200 名员工的既定裁员计划的一部分，该公司今天宣布了更多将进一步稀释该品牌的变动。多家工作室正在被整合，其他一些工作",
+        "【undefined】苹果已在 iOS 中加入持续显示的“广告”，这让用户抓狂：苹果这是在降低用户体验的档次",
+        "【undefined】展位桌已增设：在 TechCrunch Disrupt 2026 展示你的初创公司的最后机会：展位预订重新开放，但仅持续至太平洋时间9月30日晚上11时59分。如果你错过了首个截止日期，这是让你的初创公司登上展厅的最后机会。",
+        "【undefined】Xbox正将其《极限竞速》开发团队合并为一家工作室：该主题的帖子将添加到你的每日电子邮件摘要和主页信息流中。",
+        "【undefined】微软裁撤268名Xbox员工，Ninja Theory工作室或面临关闭：该话题的内容将添加到您的每日电子邮件摘要和主页推送中。 出售Ninja Theory工作室的交易已于今年夏天破裂。 该作者的内容将添加到您的每日电子邮件摘要和主页推送中。 查看汤姆·沃伦（Tom Warren）的全部文章"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-22",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】要闻：我在 2019 年的 NolaCon 上发布了 EvilVM 的 Alpha 版本：我在 2019 年的 NolaCon 上发布了 EvilVM 的 Alpha 版本。你可以在 YouTube 上观看 Irongeek 的视频录像，了解该项目的详细介绍和一些演示： 从 NolaCon 2019 演讲下载幻灯片：LibreOffice ODP 格式、PDF 格式。 在 https://github.com/jephthai/EvilVM/ 获取 EvilVM 的代码。 如需快速上手该系统，请按照《快速入门指南》（Quic；【undefined】人工智能没有智慧，你也不会有：2026年9月22日｜5分钟｜评论；【undefined】要闻：我刚刚发布了 Extralite 3.1.0 版本：我刚刚发布了 Extralite 3.1.0 版本。这一新版本实现了参数化查询的自动缓存，并将内置的 SQLite 升级至 3.53.4 版本。"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】特朗普为美国在海外的干预辩护，称在就伊朗作出“重大决定”前“解决多年来未竟的事务”：美国总统唐纳德·特朗普周二严厉警告伊朗，要求其尽快达成协议，否则将因谋求核武器而面临严重后果。"
+        },
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】荷兰国际集团：尽管油价回落，供应端风险依然高企：荷兰国际集团（ING Bank）分析师周二表示，尽管由于沙特出口中断程度低于此前担忧导致近期原油价格下跌，但供应端风险依然居高不下，且不仅局限于中东地区。；【undefined】Xbox 已面目全非：该主题的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看所有娱乐内容 微软游戏部门的最新变动标志着其进一步背离 Xbox 品牌。 该作者的文章将被添加到您的每日电子邮件文摘和主页推送中。 查看安德鲁·韦伯斯特（Andrew Webster）的所有文章 Xbox 已经徒有其表——而且情况只会变得更糟。作为波及约 3,200 名员工的既定裁员计划的一部分，该公司今天宣布了更多将进一步稀释该品牌的变动。多家工作室正在被整合，其他一些工作；【undefined】苹果已在 iOS 中加入持续显示的“广告”，这让用户抓狂：苹果这是在降低用户体验的档次"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 84,
+      "completedTasks": 84,
+      "succeeded": 36,
+      "degraded": 48,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 84,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 623888,
+      "byRole": {
+        "translator": {
+          "attempts": 53,
+          "degraded": 34,
+          "succeeded": 19
+        },
+        "fact-extractor": {
+          "attempts": 9,
+          "degraded": 7,
+          "succeeded": 2
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 9,
+          "degraded": 4,
+          "succeeded": 5
+        },
+        "topic-classifier": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 84,
+          "degraded": 48,
+          "succeeded": 36
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-21-translator-0",
+      "article-21-translator-1",
+      "article-22-translator-0",
+      "article-22-translator-1",
+      "article-24-translator-0",
+      "article-25-translator-0",
+      "article-29-translator-0",
+      "article-30-translator-0",
+      "article-30-translator-1",
+      "article-31-translator-0",
+      "article-33-translator-0",
+      "article-36-translator-0",
+      "article-38-translator-0",
+      "article-40-translator-0",
+      "article-43-translator-1",
+      "article-44-translator-0",
+      "article-45-translator-0",
+      "article-0-fact-extractor",
+      "article-0-source-positioner",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-4-fact-extractor",
+      "article-5-fact-extractor",
+      "article-6-source-positioner",
+      "article-7-fact-extractor",
+      "article-8-fact-extractor",
+      "hourly-editor",
+      "daily-analyst",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:33.469Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.320Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:33.479Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.318Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.557Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.657Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.591Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.811Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.488Z",
+        "lastSuccessAt": "2026-09-22T15:01:37.217Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.484Z",
+        "lastSuccessAt": "2026-09-22T15:01:37.036Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:37.217Z",
+        "lastSuccessAt": "2026-09-22T15:01:37.346Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.131Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.201Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.711Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.790Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.706Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.785Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.375Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.749Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.320Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.732Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.310Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.546Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.318Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.515Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:36.899Z",
+        "lastSuccessAt": "2026-09-22T15:01:37.514Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.654Z",
+        "lastSuccessAt": "2026-09-22T15:01:37.588Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:36.658Z",
+        "lastSuccessAt": "2026-09-22T15:01:37.051Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.749Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.312Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.546Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.591Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.515Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.608Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.018Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.131Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:32.850Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.018Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.901Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.072Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.866Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.366Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.785Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.874Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.874Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.017Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.190Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.626Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.732Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.780Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:37.036Z",
+        "lastSuccessAt": "2026-09-22T15:01:40.615Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.954Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.097Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.312Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.515Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.191Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.221Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.394Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.488Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:37.051Z",
+        "lastSuccessAt": "2026-09-22T15:01:37.284Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.608Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.633Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.780Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.394Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.848Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.954Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.366Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.484Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-22T15:01:35.097Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.072Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.499Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:32.848Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.375Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-22T15:01:35.221Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:32.849Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.866Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.499Z",
+        "lastSuccessAt": "2026-09-22T15:01:37.744Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.811Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.901Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.201Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.310Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.017Z",
+        "lastSuccessAt": "2026-09-22T15:01:35.190Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.790Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.848Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.515Z",
+        "lastSuccessAt": "2026-09-22T15:01:36.658Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:35.626Z",
+        "lastSuccessAt": "2026-09-22T15:01:36.899Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.657Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.711Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:34.633Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.706Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:32.832Z",
+        "lastSuccessAt": "2026-09-22T15:01:33.469Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:32.846Z",
+        "lastSuccessAt": "2026-09-22T15:01:33.479Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T15:01:32.847Z",
+        "lastSuccessAt": "2026-09-22T15:01:34.557Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-politics-2191225-216ebb9daf559090",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Kosovo Albanian militants to face punishment for their actions — Russian MFA",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:59:49.000Z",
+        "pubTime": "2026-09-22 22:59",
+        "url": "https://tass.com/politics/2191225",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 22. /TASS/. Kosovo Albanian militants must ultimately be held accountable for atrocities committed against the region’s Serb population, Russian Foreign Ministry Spokeswoman Maria Zakharova said in a commentary following guilty verdicts handed down by the Kosovo Specialist Chambers in The Hague in the case of former Kosovo Liberation Army (KLA) leaders.\n\n\"It is evident that futile attempts to cleanse the project of creating a Kosovo quasi-state of its bloody legacy will continue,\" Zakharova said.\n\n\"We proceed from the premise that Kosovo Albanian militants must ultimately face just punishment for their heinous acts, to the full extent of the law. Selectivity and the politicization of justice are unacceptable,\" she added.\n\nZakharova described the KLA as a \"classic armed gang,\" accusing its members of carrying out terrorist attacks against representatives of the Yugoslav authorities and committing atrocities against the region’s Serb population.\n\n\"Numerous civilians suffered at the hands of KLA militants, including many Albanians who did not demonstrate sufficient loyalty to the Kosovo independence project,\" she said.\n\nZakharova also noted that former Kosovo so-called President Hashim Thaci and his co-defendants had received prison sentences ranging from 13 to 25 years.\n\n\"It is worth recalling that support for Kosovo Albanian militants was precisely what the West used to try to justify NATO’s 1999 armed aggression against Yugoslavia,\" she said. \"Meanwhile, one can speak of the restoration of justice only with reservations. The verdict is clearly belated and raises a host of questions.\"\n\n\"After spending six years examining thousands of pieces of evidence and interviewing hundreds of witnesses, the Specialist Chambers failed to summon the courage and sense of responsibility to exercise the severity of justice so urgently required in this case,\" Zakharova continued.\n\nAccording to the Russian spokeswoman, the court’s findings did not establish the involvement of KLA leaders in crimes against humanity. She also pointed out that credible information concerning their organization of an illegal human-organ trade had been disregarded, while crimes committed against Serbs after June 1999 – including the March 2004 unrest – were not considered.\n\n\"The very nature of the KLA – criminal at its core – still awaits a proper legal assessment,\" Zakharova concluded.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:59:49.000Z",
+            "url": "https://tass.com/politics/2191225"
+          }
+        ]
+      },
+      {
+        "id": "story-ss-at-techcrunch-disrupt-b9a3f84878b679c2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:00.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+        "imageUrl": null,
+        "fullContent": "Plenty of people want to buy electric vehicles, but not everyone is prepared to shell out for an upgrade to their home’s electrical service just to add an EV charger. The worry is reasonable. One study found that upgrading things like electrical panels (that box in the garage or basement that delivers power throughout a home) can more than double charger installation costs.\n\nRather than rip out the old panel, Noble Carbon has developed circuit breakers that can take the headache out of installing an EV charger, or a heat pump or an induction stove for that matter.\n\nThe Pittsfield, Massachusetts, startup is one of 200 startups in this year’s TechCrunch Startup Battlefield, a pitch competition at TechCrunch Disrupt in San Francisco in October in which 20 finalists will present on the main stage.\n\nNoble Carbon’s breakers can adjust how much electricity they deliver to an EV charger in real time, allowing the chargers to squeeze into otherwise at-capacity panels.\n\nElectrical panels in people’s homes are typically designed to handle absolute peak usage, something that might happen only “a handful of hours per year,” Spencer Fields, Noble Carbon’s head of marketing, told TechCrunch.\n\nFor example, if someone is hosting family for a holiday, they might find themselves simultaneously using the water heater, air conditioning, oven, and several TVs, all while every light is on in the house. The rest of the time, the electrical panel has room to spare.\n\nIn that scenario, Noble Carbon’s smart breakers would turn down the power flowing to the devices they control, essentially guaranteeing that the entire house doesn’t draw more power than the panel can provide.\n\n“In order to avoid a main panel upgrade, you really only need control on your three to six largest loads [the biggest power-drawing appliances,” Fields said.\n\nCo-founder and CEO Jared Lebos was inspired to create the product after experiencing rolling blackouts in his home country of South Africa. He worked with Andrew Crane, the company’s co-founder and CTO, to turn it into reality.\n\nThe result is a breaker that fits into existing slots in a home’s electrical panel and, according to the company, takes less than five minutes to install. Some of the startup’s employees have been testing the breakers in their homes for more than a year, and the product is now undergoing evaluation for UL certification, a widely recognized electrical safety standard.\n\nNoble Carbon currently is partnering with the utility Eversource to install its breakers in up to 200 multifamily units in Massachusetts.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Climate\n\nTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.\n\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\n\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T15:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/"
+          }
+        ]
+      },
+      {
+        "id": "story-3-40c8-88d6-08c8ea684e83-062efc05fa849645",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oil falls as Saudi Arabia signals East-West pipeline reopening",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:36:04.000Z",
+        "pubTime": "2026-09-22 22:36",
+        "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Key route for Saudi crude to reach Red Sea has been closed for two weeks following drone strikes",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-22 22:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-22T14:36:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-n-panettiere-cause-death-dae5fa7fbeb1da68",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Actress Hayden Panettiere’s cause of death confirmed as fentanyl overdose",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:43:17.000Z",
+        "pubTime": "2026-09-22 22:43",
+        "url": "https://www.theguardian.com/society/2026/sep/22/hayden-panettiere-cause-death",
+        "imageUrl": "https://i.guim.co.uk/img/media/6c1d2f7d38d3d2dac134eba8f054d8ac1a396d86/238_0_3184_2547/master/3184.jpg?width=140&quality=85&auto=format&fit=max&s=ffba63ceeeb26fab254bbfc047a6ceb2",
+        "fullContent": "South Carolina medical examiner says ‘no signs of trauma’ and ‘the manner of death has been ruled accident’\n\nHayden Panettiere died from a fentanyl overdose, according to the Greenville county coroner’s office.\n\nMedical examiners in South Carolina confirmed the 36-year old actress’s cause of death on Tuesday, saying: “The cause of death has been ruled as toxic effects of fentanyl, 4-ANPP, Alprazolam, Methocarbamol and Quetiapine.”",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:43:17.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/22/hayden-panettiere-cause-death"
+          }
+        ]
+      },
+      {
+        "id": "story-erance-complex-life-html-94fb74992e267059",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hot spring amoeba breaks record for heat tolerance of complex life",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:09.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://phys.org/news/2026-09-hot-amoeba-tolerance-complex-life.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/hot-spring-organism-br.jpg",
+        "fullContent": "A tiny, single-celled organism can thrive at temperatures that would kill all other known complex life. In a study published in Cell, scientists describe a new species of amoeba that can eat and reproduce in hot spring water as warm as 63°C (145°F) in California's Lassen Volcanic National Park. The amoeba can protect itself at temperatures up to 70°C (158°F) by changing shape and forming a protective outer layer.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-22 23:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-hot-amoeba-tolerance-complex-life.html",
+            "publishedAt": "2026-09-22T15:00:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2191227-3113b3f913c79018",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "EU ambassadors agree on historic 3-year extension of Russia sanctions — Reuters",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:59:47.000Z",
+        "pubTime": "2026-09-22 22:59",
+        "url": "https://tass.com/world/2191227",
+        "imageUrl": null,
+        "fullContent": "THE HAGUE, September 22. /TASS/. EU ambassadors have agreed for the first time in history to extend individual sanctions against Russia for three years instead of the standard six months, Reuters reported on Tuesday, citing diplomatic sources.\n\nAccording to sources, the restrictions affect around 3,000 individuals. Additionally, under pressure from France and Luxembourg, EU permanent representatives agreed to lift sanctions on Russian businessmen Alisher Usmanov and Mikhail Fridman.\n\nEarlier Reuters reported that France joined Slovakia in September in pushing for Usmanov’s removal from the sanctions list. Subsequently, Luxembourg demanded that restrictions on Fridman also be lifted.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "欧盟大使据报道同意将针对俄罗斯的个人制裁延长三年，而不是通常的六个月。",
+          "据消息人士称，相关限制措施涉及约3000人。",
+          "来源叙事重点：报道将事件框定为欧盟可能首次把对俄个人制裁延长至三年，同时突出法国、卢森堡等成员国施压解除对乌斯马诺夫和弗里德曼制裁，强调欧盟制裁政策中的内部博弈与例外安排。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:59:47.000Z",
+            "url": "https://tass.com/world/2191227"
+          }
+        ]
+      },
+      {
+        "id": "story-unch-disrupt-2026-agenda-0c623a8be44336c4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:00.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+        "imageUrl": null,
+        "fullContent": "Would you trust an AI agent with access to your company’s systems? Put your employees in an autonomous vehicle? Deploy a robot that has to make sense of an unpredictable physical world?\n\nThese aren’t hypothetical questions for AI founders anymore. As AI moves out of demos and into businesses, vehicles, robots, and autonomous agents, safety and security become part of the product.\n\nAt TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage put those challenges front and center. From securing agents to getting enterprise AI into production, here’s where founders can dig into what it takes to build artificial intelligence (AI) people and enterprises will actually trust and use.\n\nBuilding the next generation of AI? Secure your pass to Disrupt and add these five AI safety sessions to your agenda. Save up to $200 on your pass before September 25, 11:59 p.m. PT. Get a second pass at 50% off.\n\nSome enterprises are getting measurable value from AI. Others are still running pilots 18 months later. Why?\n\nAnthropic Head of Applied AI Cat de Jong gets a close-up view. She works directly with enterprises putting Claude into critical workflows and sees where deployments succeed, where they stall, and what separates the two.\n\nIn “What Anthropic Sees When Enterprises Actually Deploy Claude,” de Jong will take the AI Stage to explore what happens when companies move from experimenting with AI to putting it into production. For founders trying to sell AI into the enterprise, her experience offers a firsthand look at why some deployments deliver real value while others remain stuck in pilot mode.\n\nAn AI agent that can take action can also create an entirely new set of security problems. What should it have access to? What should it be allowed to do? And what happens when application-level permissions aren’t enough?\n\nIn this AI Stage session, “The Agent Security Problem Nobody Is Talking About,” Okta President of Products and Technology Ric Smith and NanoCo Co-Founder and CEO Gavriel Cohen will tackle agent security at the infrastructure level, including weaknesses in application-level permission models and architectural decisions founders need to consider when deploying agentic AI.\n\nIf agents are on your product roadmap, security belongs there, too. Get your ticket today to save up to $200 and add this session to your Disrupt agenda.\n\nGetting an AI product through the enterprise door takes more than an impressive demo.\n\nSecurity, governance, and observability all become part of the conversation when companies consider putting AI into critical systems.\n\nIn this AI session, “Securing the AI Enterprise: Why the Cloud Just Got a Lot More Complicated,” AWS VP of Security Services Rudy Mitra, Luta Security CEO Katie Moussouris, and cybersecurity veteran Wendy Nather will examine the infrastructure enterprises need as AI takes on more autonomous roles.\n\nFor founders building enterprise AI, this is a chance to hear what happens when innovation meets the security requirements of the organizations you want as customers.\n\nBuilding AI for enterprise customers? Get closer to the security requirements that can stand between your product and deployment. Secure your pass to Disrupt before September 25 to save up to $200.\n\nAI that operates in the physical world raises the stakes. A mistake doesn’t stay on a screen; it can affect vehicles, aircraft, industrial systems, and critical missions.\n\nOn the Real World AI Stage, Shield AI Chief Technology Officer Nathan Michael, General Motors Director of Robotics Strategy Mikell Taylor, and Waabi Founder and CEO Raquel Urtasun will bring perspectives from defense and autonomous systems to one of the toughest questions hard-tech founders face: How do you know when an autonomous system is safe enough to deploy?\n\nThe conversation in “Building AI Systems When Failure Is Not an Option” will get into creating a safety culture, testing and validating AI, navigating regulatory hurdles, and building companies that can earn trust when the consequences of failure are physical.\n\nWhen failure isn’t an option, testing can’t be an afterthought. See how leaders in autonomy are approaching safety at Disrupt. Explore your ticket options, and save up to $200 on your pass before September 25.\n\nRobots have a data problem. They don’t have access to the massive pools of training data that helped accelerate advances in language models and self-driving vehicles.\n\nThat gap is one of the biggest obstacles to scaling physical AI. In this Real World AI session, “Robots Are Waiting for Their ChatGPT Moment. Here Is What Is Standing in the Way,” NVIDIA Inception Global Head of Physical AI Les Karpas will explore how data pipelines, simulation environments, and foundation models could help close it and what it will take to build, test, and deploy more capable and reliable robots.\n\nFor founders working in physical AI, the session tackles a big question: What will it take for robotics to reach its own ChatGPT moment and earn the trust needed to put those systems to work in the real world?\n\nCan people trust what you’re building? These five conversations are part of 200+ sessions across six industry stages, roundtables, and breakouts at Disrupt, October 13–15 at Moscone West in San Francisco. More than 10,000 founders, investors, operators, and tech leaders are expected, along with 250+ speakers, and 300+ exhibiting startups, and countless networking meetings.\n\nYou can build a smarter model, a more capable agent, or a robot that does something no one has done before. But getting customers to trust it enough to deploy it may be one of the hardest parts of bringing it to market.\n\nSecure your pass to Disrupt now and save up to $200 before September 25, 11:59 p.m. PT. Save 50% on a second ticket. Hear how AI leaders are tackling the safety, security, and reliability challenges that can stand between breakthrough technology and real-world adoption.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 34,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章将AI安全框定为AI产品商业化和现实部署的必要条件，重点突出五类议题：企业AI从试点走向生产、AI代理的权限与基础设施安全、云端AI企业的治理与可观测性、自动驾驶及其他物理世界AI的测试验证与监管、机器人发展所需的数据管线和仿真环境。文章通过Anthropic、Okta、AWS、Shield AI、通用汽车、Waabi和NVIDIA等企业及其演讲者来增强议题的行业权威感，并反复将安全、可靠性和用户信任与产品落地、客户获取及市场采用联系起来。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T15:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
+          }
+        ]
+      },
+      {
+        "id": "story-rmed-group-blockade-html-9efed94950b76b77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Libya’s Largest Oilfield Hit by New Armed Group Blockade",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:30:00.000Z",
+        "pubTime": "2026-09-22 22:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Largest-Oilfield-Hit-by-New-Armed-Group-Blockade.html",
+        "imageUrl": null,
+        "fullContent": "Crude oil production at Libya&rsquo;s largest oilfield, Sharara, has slumped over the past day after an armed military group closed a valve on the pipeline that carries crude oil from the field to the Zawiya port for exports, in yet another global supply scare amid ongoing disruptions in the Middle East. An armed group has closed Valve n.7 on the pipeline, Libya&rsquo;s National Oil Corporation NOC said, adding that the closure caused a pressure buildup within the crude oil pipeline, leading to a significant reduction in production at the Sharara field. The field is operated by Akakus Oil Operations, and its production is being shipped through the pipeline to the Zawiya port for exports. The Libyan state oil firm warned that &ldquo;the continued closure of Valve No. 7 will inevitably halt production, transportation, and export operations at the Sharara field.&rdquo; [GooglePreferredSource] If the shutdown continues, NOC said it may be compelled to declare force majeure on Sharara output and exports. &ldquo;This would directly harm the national economy by reducing state revenues, especially given rising global oil prices, and would expose the oil transport system and its facilities to technical and operational risks,&rdquo; NOC said. The Sharara oilfield is estimated to have produced about 340,000 barrels per day bpd of crude oil before the incident. Following the closure of the valve and the forced reduction of production, crude output at Sharara has now slumped to about 120,000 bpd, according to various estimates. Libya&rsquo;s fresh supply scare comes amid squeezed global oil supply as shipments through the Strait of Hormuz remain uneven and uncertain, and the Yanbu exports out of Saudi Arabia&rsquo;s Red Sea coast are still offline, following the drone attack on the East-West pipeline on September 10. Oil prices rose in Asian trade on Tuesday, following two days of declines, as the market weighs diplomacy hopes against supply-side risks. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将沙拉拉油田阀门被关闭及产量下降置于全球石油供应趋紧和中东运输风险背景下，突出事件可能造成的利比亚原油生产、运输、出口中断，以及对国家财政收入和国际油价的潜在影响。报道提到产量估计从约34万桶/日降至约12万桶/日，并强调NOC可能宣布不可抗力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Largest-Oilfield-Hit-by-New-Armed-Group-Blockade.html"
+          }
+        ]
+      },
+      {
+        "id": "story-124519-http-evilvm-ninja-d6fbcb6e2c40106e",
+        "title": "要闻：我在 2019 年的 NolaCon 上发布了 EvilVM 的 Alpha 版本",
+        "originalTitle": "EvilVM: Forth shellcode",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:10:07.000Z",
+        "pubTime": "2026-09-22 22:10",
+        "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
+        "imageUrl": null,
+        "fullContent": "I presented EvilVM’s Alpha release at NolaCon, 2019. You can see Irongeek’s video recording on YouTube, for a good intro to the project and some demos:\n\nDownload slides from NolaCon 2019 talk libreoffice ODP format, PDF format.\n\nFind the code for EvilVM at https://github.com/jephthai/EvilVM/.\n\nTo do a quick dive into the system, follow the instructions in the Quickstart Guide.\n\nThis site hosts documentation for EvilVM and its constituent tools. The project is built around a native code Forth compiler that is deployed as a position independent shellcode. It provides a platform for remote code execution, useful in information security contexts.\n\nThe primary use case for EvilVM is to deploy the agent on a remote system, and interact with it. The language’s outer interpreter is presented as an interactive shell or REPL, and the system provides the capability to deliver code to the agent, which is compiled, and added to the hyperstatic global environment.\n\nTechnology choices are made with the project’s goals in mind:\n\nPowered by Hugo. Theme by TechDoc. Designed by Thingsym.",
+        "fullTranslation": "我在 2019 年的 NolaCon 上发布了 EvilVM 的 Alpha 版本。你可以在 YouTube 上观看 Irongeek 的视频录像，了解该项目的详细介绍和一些演示：\n从 NolaCon 2019 演讲下载幻灯片：LibreOffice ODP 格式、PDF 格式。\n在 https://github.com/jephthai/EvilVM/ 获取 EvilVM 的代码。\n如需快速上手该系统，请按照《快速入门指南》（Quickstart Guide）中的说明操作。\n本网站提供 EvilVM 及其组成工具的文档。该项目围绕一个部署为位置无关 shellcode 的本地机器码 Forth 编译器构建。它提供了一个用于远程代码执行的平台，在信息安全场景中非常有用。\nEvilVM 的主要用例是将代理部署到远程系统上并与其交互。该语言的外部解释器呈现为交互式 shell 或 REPL，系统支持向代理下发代码，代码经编译后添加至超静态全局环境中。\n各项技术选型均紧密围绕该项目的目标而制定：\n由 Hugo 强力驱动。主题采用 TechDoc。由 Thingsym 设计。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "EvilVM 的 Alpha 版本于 2019 年在 NolaCon 会议上发布和展示。",
+          "EvilVM 开源项目的源代码托管于 GitHub（https://github.com/jephthai/EvilVM/）。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:10:07.000Z",
+            "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/"
+          }
+        ]
+      },
+      {
+        "id": "story-ers-faster-accurate-html-2c1a640a4d8f013b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New tool aims to deliver graziers a faster, more accurate read on exactly how much feed is in front of their cattle",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:02.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://phys.org/news/2026-09-tool-aims-graziers-faster-accurate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/putting-a-price-on-a-b.jpg",
+        "fullContent": "A drone lifts off over a paddock at Boorowa Agricultural Research Station, the breeze from its rotors setting the tall, uncut grass below rippling. At the controls, Stuart Brown, a senior research technician at CSIRO, keeps a careful eye on the attached LiDAR (Light Detection and Ranging) sensor as it fires an invisible lattice of laser pulses at the grass, building a three-dimensional map of the paddock, one small cube of space at a time.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-22 23:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-tool-aims-graziers-faster-accurate.html",
+            "publishedAt": "2026-09-22T15:00:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-22-tramp-2119577848-html-7584b9a96339124c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Трамп намерен задействовать закон о масштабных санкциях против России",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-22T14:59:30.000Z",
+        "pubTime": "2026-09-22 22:59",
+        "url": "https://ria.ru/20260922/tramp-2119577848.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-22 22:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260922/tramp-2119577848.html",
+            "publishedAt": "2026-09-22T14:59:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-of-its-next-spacecraft-caaf4b1f8cd66a72",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AstroForge is putting AI in command of its next spacecraft",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:00.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+        "imageUrl": null,
+        "fullContent": "Fly to an asteroid, land on it, make no mistakes: If only it were that easy.\n\nWhen NASA sends spacecraft to explore the solar system, they build in redundancy and automation. But much of the work is done by teams of flight controllers communicating with the vehicle from Earth. The Osiris-Rex mission, which rendezvoused with an asteroid in 2018, had 100 operators on each eight-hour shift.\n\nBut resources like that aren’t available to startups, so AstroForge, which is developing technology to mine asteroids, is turning to AI. The company has developed an autonomous control stack for its spacecraft called “Solo,” a transformer-based model made in-house.\n\nAstroForge plans to fly its first autonomous spacecraft in 2027 on the first rocket launched by Stock Space. That mission will be backed by NASA and is expected to gather scientific data about the Sun.\n\nThat would be an accomplishment: Most spacecraft autonomy depends on traditional control algorithms due to concerns about the unreliability of neural networks. The first use of a neural network to control a satellite’s positioning in orbit took place just last year.\n\nAstroForge, founded in 2022 and backed with $56 million in venture funding, has launched two prototype spacecraft, both of which suffered anomalies that prevented them from achieving most of their mission objectives. In 2025, its Odin spacecraft was launched into deep space, but the company had difficulty communicating with it. There are a limited number of antennas on Earth big enough to transmit to spacecraft hundreds of thousands of miles away, and the windows of time in which to do it are small.\n\nUltimately, AstroForge couldn’t gain control of Odin, but the experience spurred it to consider alternatives: Could it put sufficient intelligence onboard the spacecraft for it to solve its own problems?\n\n“Would that have been recoverable with all the data on the spacecraft? I don’t know, but I can tell you nothing onboard tried it, and I would love something onboard to try if the spacecraft is unrecoverable at launch,” Matthew Gialich, AstroForge’s co-founder and CEO, said.\n\n“The trade for me is: Do I go build my own ground network, which is going to cost [around] $200 million to put up five dishes around the world and then do operations on it, or do I try to remove it with a model?”\n\n“I’m not saying I’m going to make general spacecraft autonomy or general autonomy for the world,” Gialich said. “I’m making a constrained autonomy at a very low sensor input, following the basic training of a transformer model.”\n\nIn theory, the agent in control of the spacecraft will perform tasks like anomaly resolution. Awad imagines it realizing that it has lost track of its position in space, correlating a power anomaly to issues in its star tracker, and fixing the whole thing — “probably turning it on and off in this case.”\n\nThe company’s third vehicle, DeepSpace-2, is currently set to launch alongside Intuitive Machines’ third moon mission, expected to head for space by the end of 2026. Solo will be onboard that vehicle, flying in “shadow mode,” so AstroForge’s engineers can put it through its paces before the Autonomy-1 mission.\n\nWill this truly be an AI agent operating an independent spacecraft?“I don’t plan on flying radios that can receive from Earth on Autonomy-1,” Gialich said. “We have to go all in right now. The team’s probably going to talk me into it by the time we fly it. But right now, I’m telling them no radios.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道AstroForge为降低深空任务对地面操作团队和通信基础设施的依赖，正在开发名为“Solo”的小型、基于Transformer的自主控制模型，并计划将其用于后续航天器。文章同时强调了该方案的实验性：公司此前发射的两艘原型航天器均出现影响任务目标的异常，Solo将在DeepSpace-2任务中先以“影子模式”测试，之后可能在Autonomy-1任务中承担故障处理和航天器控制。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T15:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
+          }
+        ]
+      },
+      {
+        "id": "story-an-work-for-you-2260de1d-e6640b944954bee5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My plan to pay off $7,500 in credit-card debt can work for you",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:25:00.000Z",
+        "pubTime": "2026-09-22 22:25",
+        "url": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "I let my spending get away from me. Here’s how I’m getting back on track.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-22 22:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-22T14:25:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--with-an-injected-signal-7607e1f0ec342298",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Reviving TEMPEST Attacks With An Injected Signal",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T12:25:27.000Z",
+        "pubTime": "2026-09-22 20:25",
+        "url": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
+        "imageUrl": null,
+        "fullContent": "TEMPEST attacks are often the most effective way to break air-gapped security: rather than directly accessing a computer, the attacker records the system’s unintended radio emissions and uses them to reconstruct its internal operations. This kind of attack was much more effective in the days of noisy, high-voltage CRT displays, and has gradually become less effective as electronics migrate to quieter, less powerful components. A group of researchers, however, has found that even modern electronics can become effective TEMPEST transmitters when irradiated with an RF signal.\n\nThe RF a device emits depends on the unintentional antennas in its internal structure. These are difficult to eliminate, and it’s usually not worth the effort; they’re usually small enough that they only effectively radiate at much higher frequencies than the electronics carry. The researchers’ technique, called InjectEave, radiated these electronics with a radio frequency tuned to their internal antennas, injecting that frequency into the circuit. Nonlinear electronic components, such as amplifiers, then mix the injected frequency with the internal signal, creating RF sidebands. This mixed signal then radiates out of the device and can be picked up and demodulated to recover the device’s internal signal.\n\nIn principle, almost any semiconductor device will perform mixing to some extent; in testing, the researchers had success with an amplifier, analog-to-digital converter, power converter, and switching MOSFETs, but detected no significant emissions without an injected signal. For a portable setup, the researchers used a USRP B210 SDR for transmission and a spectrum analyzer to demodulate the received signal.\n\nThis was able to recover audio from wired headphones, wireless headphones, and a wireless landline, and detect the state of a smart lamp and a smart fan. All of this worked over short distances, even through walls, and with a power amplifier, the range increased to 30 meters. Even with multiple devices present, they could focus on one by tuning the injection frequency to resonate with its internal antennas. Perhaps most impressive (or concerning) was a demonstration with the VoIP phone: the researchers were able to listen in on the person speaking, clone that person’s voice, synthesize new speech in that voice, and remotely inject it onto the phone call, altering the call in real time.\n\nIf the history of these attacks is any guide, it won’t be too long before we see an open-source implementation of this technique; we’ve already seen a few approaches to traditional TEMPEST. This kind of unintended nonlinear mixing can also be used to find bugs or electronics.\n\nThe working principle sounds a lot like that of the Theremin Bug…\n\nEven better, the “bug” provides RF amplification.\n\nPlease be kind and respectful to help make the comments section excellent. (Comment Policy)\n\nThis site uses Akismet to reduce spam. Learn how your comment data is processed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道名为InjectEave的新型侧信道安全研究，详细解析其如何利用射频信号注入激发非线性电子元件混频（类比历史上的特雷门窃听器），从而复活原本在低功耗现代设备上渐趋失效的TEMPEST物理隔离旁路攻击，并警示其对智能设备及语音通信的现实威胁与开源扩散风险。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T12:25:27.000Z",
+            "url": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-politics-2191225-216ebb9daf559090",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Kosovo Albanian militants to face punishment for their actions — Russian MFA",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:59:49.000Z",
+        "pubTime": "2026-09-22 22:59",
+        "url": "https://tass.com/politics/2191225",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 22. /TASS/. Kosovo Albanian militants must ultimately be held accountable for atrocities committed against the region’s Serb population, Russian Foreign Ministry Spokeswoman Maria Zakharova said in a commentary following guilty verdicts handed down by the Kosovo Specialist Chambers in The Hague in the case of former Kosovo Liberation Army (KLA) leaders.\n\n\"It is evident that futile attempts to cleanse the project of creating a Kosovo quasi-state of its bloody legacy will continue,\" Zakharova said.\n\n\"We proceed from the premise that Kosovo Albanian militants must ultimately face just punishment for their heinous acts, to the full extent of the law. Selectivity and the politicization of justice are unacceptable,\" she added.\n\nZakharova described the KLA as a \"classic armed gang,\" accusing its members of carrying out terrorist attacks against representatives of the Yugoslav authorities and committing atrocities against the region’s Serb population.\n\n\"Numerous civilians suffered at the hands of KLA militants, including many Albanians who did not demonstrate sufficient loyalty to the Kosovo independence project,\" she said.\n\nZakharova also noted that former Kosovo so-called President Hashim Thaci and his co-defendants had received prison sentences ranging from 13 to 25 years.\n\n\"It is worth recalling that support for Kosovo Albanian militants was precisely what the West used to try to justify NATO’s 1999 armed aggression against Yugoslavia,\" she said. \"Meanwhile, one can speak of the restoration of justice only with reservations. The verdict is clearly belated and raises a host of questions.\"\n\n\"After spending six years examining thousands of pieces of evidence and interviewing hundreds of witnesses, the Specialist Chambers failed to summon the courage and sense of responsibility to exercise the severity of justice so urgently required in this case,\" Zakharova continued.\n\nAccording to the Russian spokeswoman, the court’s findings did not establish the involvement of KLA leaders in crimes against humanity. She also pointed out that credible information concerning their organization of an illegal human-organ trade had been disregarded, while crimes committed against Serbs after June 1999 – including the March 2004 unrest – were not considered.\n\n\"The very nature of the KLA – criminal at its core – still awaits a proper legal assessment,\" Zakharova concluded.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:59:49.000Z",
+            "url": "https://tass.com/politics/2191225"
+          }
+        ]
+      },
+      {
+        "id": "story-ss-at-techcrunch-disrupt-b9a3f84878b679c2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:00.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+        "imageUrl": null,
+        "fullContent": "Plenty of people want to buy electric vehicles, but not everyone is prepared to shell out for an upgrade to their home’s electrical service just to add an EV charger. The worry is reasonable. One study found that upgrading things like electrical panels (that box in the garage or basement that delivers power throughout a home) can more than double charger installation costs.\n\nRather than rip out the old panel, Noble Carbon has developed circuit breakers that can take the headache out of installing an EV charger, or a heat pump or an induction stove for that matter.\n\nThe Pittsfield, Massachusetts, startup is one of 200 startups in this year’s TechCrunch Startup Battlefield, a pitch competition at TechCrunch Disrupt in San Francisco in October in which 20 finalists will present on the main stage.\n\nNoble Carbon’s breakers can adjust how much electricity they deliver to an EV charger in real time, allowing the chargers to squeeze into otherwise at-capacity panels.\n\nElectrical panels in people’s homes are typically designed to handle absolute peak usage, something that might happen only “a handful of hours per year,” Spencer Fields, Noble Carbon’s head of marketing, told TechCrunch.\n\nFor example, if someone is hosting family for a holiday, they might find themselves simultaneously using the water heater, air conditioning, oven, and several TVs, all while every light is on in the house. The rest of the time, the electrical panel has room to spare.\n\nIn that scenario, Noble Carbon’s smart breakers would turn down the power flowing to the devices they control, essentially guaranteeing that the entire house doesn’t draw more power than the panel can provide.\n\n“In order to avoid a main panel upgrade, you really only need control on your three to six largest loads [the biggest power-drawing appliances,” Fields said.\n\nCo-founder and CEO Jared Lebos was inspired to create the product after experiencing rolling blackouts in his home country of South Africa. He worked with Andrew Crane, the company’s co-founder and CTO, to turn it into reality.\n\nThe result is a breaker that fits into existing slots in a home’s electrical panel and, according to the company, takes less than five minutes to install. Some of the startup’s employees have been testing the breakers in their homes for more than a year, and the product is now undergoing evaluation for UL certification, a widely recognized electrical safety standard.\n\nNoble Carbon currently is partnering with the utility Eversource to install its breakers in up to 200 multifamily units in Massachusetts.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Climate\n\nTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.\n\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\n\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 24,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T15:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/"
+          }
+        ]
+      },
+      {
+        "id": "story-3-40c8-88d6-08c8ea684e83-062efc05fa849645",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Oil falls as Saudi Arabia signals East-West pipeline reopening",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:36:04.000Z",
+        "pubTime": "2026-09-22 22:36",
+        "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Key route for Saudi crude to reach Red Sea has been closed for two weeks following drone strikes",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-22 22:36 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-22T14:36:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-n-panettiere-cause-death-dae5fa7fbeb1da68",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Actress Hayden Panettiere’s cause of death confirmed as fentanyl overdose",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:43:17.000Z",
+        "pubTime": "2026-09-22 22:43",
+        "url": "https://www.theguardian.com/society/2026/sep/22/hayden-panettiere-cause-death",
+        "imageUrl": "https://i.guim.co.uk/img/media/6c1d2f7d38d3d2dac134eba8f054d8ac1a396d86/238_0_3184_2547/master/3184.jpg?width=140&quality=85&auto=format&fit=max&s=ffba63ceeeb26fab254bbfc047a6ceb2",
+        "fullContent": "South Carolina medical examiner says ‘no signs of trauma’ and ‘the manner of death has been ruled accident’\n\nHayden Panettiere died from a fentanyl overdose, according to the Greenville county coroner’s office.\n\nMedical examiners in South Carolina confirmed the 36-year old actress’s cause of death on Tuesday, saying: “The cause of death has been ruled as toxic effects of fentanyl, 4-ANPP, Alprazolam, Methocarbamol and Quetiapine.”",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:43:17.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/22/hayden-panettiere-cause-death"
+          }
+        ]
+      },
+      {
+        "id": "story-erance-complex-life-html-94fb74992e267059",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Hot spring amoeba breaks record for heat tolerance of complex life",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:09.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://phys.org/news/2026-09-hot-amoeba-tolerance-complex-life.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/hot-spring-organism-br.jpg",
+        "fullContent": "A tiny, single-celled organism can thrive at temperatures that would kill all other known complex life. In a study published in Cell, scientists describe a new species of amoeba that can eat and reproduce in hot spring water as warm as 63°C (145°F) in California's Lassen Volcanic National Park. The amoeba can protect itself at temperatures up to 70°C (158°F) by changing shape and forming a protective outer layer.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-22 23:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-hot-amoeba-tolerance-complex-life.html",
+            "publishedAt": "2026-09-22T15:00:09.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2191227-3113b3f913c79018",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "EU ambassadors agree on historic 3-year extension of Russia sanctions — Reuters",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:59:47.000Z",
+        "pubTime": "2026-09-22 22:59",
+        "url": "https://tass.com/world/2191227",
+        "imageUrl": null,
+        "fullContent": "THE HAGUE, September 22. /TASS/. EU ambassadors have agreed for the first time in history to extend individual sanctions against Russia for three years instead of the standard six months, Reuters reported on Tuesday, citing diplomatic sources.\n\nAccording to sources, the restrictions affect around 3,000 individuals. Additionally, under pressure from France and Luxembourg, EU permanent representatives agreed to lift sanctions on Russian businessmen Alisher Usmanov and Mikhail Fridman.\n\nEarlier Reuters reported that France joined Slovakia in September in pushing for Usmanov’s removal from the sanctions list. Subsequently, Luxembourg demanded that restrictions on Fridman also be lifted.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "欧盟大使据报道同意将针对俄罗斯的个人制裁延长三年，而不是通常的六个月。",
+          "据消息人士称，相关限制措施涉及约3000人。",
+          "来源叙事重点：报道将事件框定为欧盟可能首次把对俄个人制裁延长至三年，同时突出法国、卢森堡等成员国施压解除对乌斯马诺夫和弗里德曼制裁，强调欧盟制裁政策中的内部博弈与例外安排。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:59:47.000Z",
+            "url": "https://tass.com/world/2191227"
+          }
+        ]
+      },
+      {
+        "id": "story-unch-disrupt-2026-agenda-0c623a8be44336c4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:00.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+        "imageUrl": null,
+        "fullContent": "Would you trust an AI agent with access to your company’s systems? Put your employees in an autonomous vehicle? Deploy a robot that has to make sense of an unpredictable physical world?\n\nThese aren’t hypothetical questions for AI founders anymore. As AI moves out of demos and into businesses, vehicles, robots, and autonomous agents, safety and security become part of the product.\n\nAt TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage put those challenges front and center. From securing agents to getting enterprise AI into production, here’s where founders can dig into what it takes to build artificial intelligence (AI) people and enterprises will actually trust and use.\n\nBuilding the next generation of AI? Secure your pass to Disrupt and add these five AI safety sessions to your agenda. Save up to $200 on your pass before September 25, 11:59 p.m. PT. Get a second pass at 50% off.\n\nSome enterprises are getting measurable value from AI. Others are still running pilots 18 months later. Why?\n\nAnthropic Head of Applied AI Cat de Jong gets a close-up view. She works directly with enterprises putting Claude into critical workflows and sees where deployments succeed, where they stall, and what separates the two.\n\nIn “What Anthropic Sees When Enterprises Actually Deploy Claude,” de Jong will take the AI Stage to explore what happens when companies move from experimenting with AI to putting it into production. For founders trying to sell AI into the enterprise, her experience offers a firsthand look at why some deployments deliver real value while others remain stuck in pilot mode.\n\nAn AI agent that can take action can also create an entirely new set of security problems. What should it have access to? What should it be allowed to do? And what happens when application-level permissions aren’t enough?\n\nIn this AI Stage session, “The Agent Security Problem Nobody Is Talking About,” Okta President of Products and Technology Ric Smith and NanoCo Co-Founder and CEO Gavriel Cohen will tackle agent security at the infrastructure level, including weaknesses in application-level permission models and architectural decisions founders need to consider when deploying agentic AI.\n\nIf agents are on your product roadmap, security belongs there, too. Get your ticket today to save up to $200 and add this session to your Disrupt agenda.\n\nGetting an AI product through the enterprise door takes more than an impressive demo.\n\nSecurity, governance, and observability all become part of the conversation when companies consider putting AI into critical systems.\n\nIn this AI session, “Securing the AI Enterprise: Why the Cloud Just Got a Lot More Complicated,” AWS VP of Security Services Rudy Mitra, Luta Security CEO Katie Moussouris, and cybersecurity veteran Wendy Nather will examine the infrastructure enterprises need as AI takes on more autonomous roles.\n\nFor founders building enterprise AI, this is a chance to hear what happens when innovation meets the security requirements of the organizations you want as customers.\n\nBuilding AI for enterprise customers? Get closer to the security requirements that can stand between your product and deployment. Secure your pass to Disrupt before September 25 to save up to $200.\n\nAI that operates in the physical world raises the stakes. A mistake doesn’t stay on a screen; it can affect vehicles, aircraft, industrial systems, and critical missions.\n\nOn the Real World AI Stage, Shield AI Chief Technology Officer Nathan Michael, General Motors Director of Robotics Strategy Mikell Taylor, and Waabi Founder and CEO Raquel Urtasun will bring perspectives from defense and autonomous systems to one of the toughest questions hard-tech founders face: How do you know when an autonomous system is safe enough to deploy?\n\nThe conversation in “Building AI Systems When Failure Is Not an Option” will get into creating a safety culture, testing and validating AI, navigating regulatory hurdles, and building companies that can earn trust when the consequences of failure are physical.\n\nWhen failure isn’t an option, testing can’t be an afterthought. See how leaders in autonomy are approaching safety at Disrupt. Explore your ticket options, and save up to $200 on your pass before September 25.\n\nRobots have a data problem. They don’t have access to the massive pools of training data that helped accelerate advances in language models and self-driving vehicles.\n\nThat gap is one of the biggest obstacles to scaling physical AI. In this Real World AI session, “Robots Are Waiting for Their ChatGPT Moment. Here Is What Is Standing in the Way,” NVIDIA Inception Global Head of Physical AI Les Karpas will explore how data pipelines, simulation environments, and foundation models could help close it and what it will take to build, test, and deploy more capable and reliable robots.\n\nFor founders working in physical AI, the session tackles a big question: What will it take for robotics to reach its own ChatGPT moment and earn the trust needed to put those systems to work in the real world?\n\nCan people trust what you’re building? These five conversations are part of 200+ sessions across six industry stages, roundtables, and breakouts at Disrupt, October 13–15 at Moscone West in San Francisco. More than 10,000 founders, investors, operators, and tech leaders are expected, along with 250+ speakers, and 300+ exhibiting startups, and countless networking meetings.\n\nYou can build a smarter model, a more capable agent, or a robot that does something no one has done before. But getting customers to trust it enough to deploy it may be one of the hardest parts of bringing it to market.\n\nSecure your pass to Disrupt now and save up to $200 before September 25, 11:59 p.m. PT. Save 50% on a second ticket. Hear how AI leaders are tackling the safety, security, and reliability challenges that can stand between breakthrough technology and real-world adoption.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 34,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章将AI安全框定为AI产品商业化和现实部署的必要条件，重点突出五类议题：企业AI从试点走向生产、AI代理的权限与基础设施安全、云端AI企业的治理与可观测性、自动驾驶及其他物理世界AI的测试验证与监管、机器人发展所需的数据管线和仿真环境。文章通过Anthropic、Okta、AWS、Shield AI、通用汽车、Waabi和NVIDIA等企业及其演讲者来增强议题的行业权威感，并反复将安全、可靠性和用户信任与产品落地、客户获取及市场采用联系起来。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T15:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
+          }
+        ]
+      },
+      {
+        "id": "story-rmed-group-blockade-html-9efed94950b76b77",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Libya’s Largest Oilfield Hit by New Armed Group Blockade",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:30:00.000Z",
+        "pubTime": "2026-09-22 22:30",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Largest-Oilfield-Hit-by-New-Armed-Group-Blockade.html",
+        "imageUrl": null,
+        "fullContent": "Crude oil production at Libya&rsquo;s largest oilfield, Sharara, has slumped over the past day after an armed military group closed a valve on the pipeline that carries crude oil from the field to the Zawiya port for exports, in yet another global supply scare amid ongoing disruptions in the Middle East. An armed group has closed Valve n.7 on the pipeline, Libya&rsquo;s National Oil Corporation NOC said, adding that the closure caused a pressure buildup within the crude oil pipeline, leading to a significant reduction in production at the Sharara field. The field is operated by Akakus Oil Operations, and its production is being shipped through the pipeline to the Zawiya port for exports. The Libyan state oil firm warned that &ldquo;the continued closure of Valve No. 7 will inevitably halt production, transportation, and export operations at the Sharara field.&rdquo; [GooglePreferredSource] If the shutdown continues, NOC said it may be compelled to declare force majeure on Sharara output and exports. &ldquo;This would directly harm the national economy by reducing state revenues, especially given rising global oil prices, and would expose the oil transport system and its facilities to technical and operational risks,&rdquo; NOC said. The Sharara oilfield is estimated to have produced about 340,000 barrels per day bpd of crude oil before the incident. Following the closure of the valve and the forced reduction of production, crude output at Sharara has now slumped to about 120,000 bpd, according to various estimates. Libya&rsquo;s fresh supply scare comes amid squeezed global oil supply as shipments through the Strait of Hormuz remain uneven and uncertain, and the Yanbu exports out of Saudi Arabia&rsquo;s Red Sea coast are still offline, following the drone attack on the East-West pipeline on September 10. Oil prices rose in Asian trade on Tuesday, following two days of declines, as the market weighs diplomacy hopes against supply-side risks. By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将沙拉拉油田阀门被关闭及产量下降置于全球石油供应趋紧和中东运输风险背景下，突出事件可能造成的利比亚原油生产、运输、出口中断，以及对国家财政收入和国际油价的潜在影响。报道提到产量估计从约34万桶/日降至约12万桶/日，并强调NOC可能宣布不可抗力。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:30:00.000Z",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Largest-Oilfield-Hit-by-New-Armed-Group-Blockade.html"
+          }
+        ]
+      },
+      {
+        "id": "story-124519-http-evilvm-ninja-d6fbcb6e2c40106e",
+        "title": "要闻：我在 2019 年的 NolaCon 上发布了 EvilVM 的 Alpha 版本",
+        "originalTitle": "EvilVM: Forth shellcode",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:10:07.000Z",
+        "pubTime": "2026-09-22 22:10",
+        "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
+        "imageUrl": null,
+        "fullContent": "I presented EvilVM’s Alpha release at NolaCon, 2019. You can see Irongeek’s video recording on YouTube, for a good intro to the project and some demos:\n\nDownload slides from NolaCon 2019 talk libreoffice ODP format, PDF format.\n\nFind the code for EvilVM at https://github.com/jephthai/EvilVM/.\n\nTo do a quick dive into the system, follow the instructions in the Quickstart Guide.\n\nThis site hosts documentation for EvilVM and its constituent tools. The project is built around a native code Forth compiler that is deployed as a position independent shellcode. It provides a platform for remote code execution, useful in information security contexts.\n\nThe primary use case for EvilVM is to deploy the agent on a remote system, and interact with it. The language’s outer interpreter is presented as an interactive shell or REPL, and the system provides the capability to deliver code to the agent, which is compiled, and added to the hyperstatic global environment.\n\nTechnology choices are made with the project’s goals in mind:\n\nPowered by Hugo. Theme by TechDoc. Designed by Thingsym.",
+        "fullTranslation": "我在 2019 年的 NolaCon 上发布了 EvilVM 的 Alpha 版本。你可以在 YouTube 上观看 Irongeek 的视频录像，了解该项目的详细介绍和一些演示：\n从 NolaCon 2019 演讲下载幻灯片：LibreOffice ODP 格式、PDF 格式。\n在 https://github.com/jephthai/EvilVM/ 获取 EvilVM 的代码。\n如需快速上手该系统，请按照《快速入门指南》（Quickstart Guide）中的说明操作。\n本网站提供 EvilVM 及其组成工具的文档。该项目围绕一个部署为位置无关 shellcode 的本地机器码 Forth 编译器构建。它提供了一个用于远程代码执行的平台，在信息安全场景中非常有用。\nEvilVM 的主要用例是将代理部署到远程系统上并与其交互。该语言的外部解释器呈现为交互式 shell 或 REPL，系统支持向代理下发代码，代码经编译后添加至超静态全局环境中。\n各项技术选型均紧密围绕该项目的目标而制定：\n由 Hugo 强力驱动。主题采用 TechDoc。由 Thingsym 设计。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "EvilVM 的 Alpha 版本于 2019 年在 NolaCon 会议上发布和展示。",
+          "EvilVM 开源项目的源代码托管于 GitHub（https://github.com/jephthai/EvilVM/）。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T14:10:07.000Z",
+            "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/"
+          }
+        ]
+      },
+      {
+        "id": "story-ers-faster-accurate-html-2c1a640a4d8f013b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New tool aims to deliver graziers a faster, more accurate read on exactly how much feed is in front of their cattle",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:02.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://phys.org/news/2026-09-tool-aims-graziers-faster-accurate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/putting-a-price-on-a-b.jpg",
+        "fullContent": "A drone lifts off over a paddock at Boorowa Agricultural Research Station, the breeze from its rotors setting the tall, uncut grass below rippling. At the controls, Stuart Brown, a senior research technician at CSIRO, keeps a careful eye on the attached LiDAR (Light Detection and Ranging) sensor as it fires an invisible lattice of laser pulses at the grass, building a three-dimensional map of the paddock, one small cube of space at a time.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-22 23:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-tool-aims-graziers-faster-accurate.html",
+            "publishedAt": "2026-09-22T15:00:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-22-tramp-2119577848-html-7584b9a96339124c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Трамп намерен задействовать закон о масштабных санкциях против России",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-22T14:59:30.000Z",
+        "pubTime": "2026-09-22 22:59",
+        "url": "https://ria.ru/20260922/tramp-2119577848.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-22 22:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260922/tramp-2119577848.html",
+            "publishedAt": "2026-09-22T14:59:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-d-of-its-next-spacecraft-caaf4b1f8cd66a72",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AstroForge is putting AI in command of its next spacecraft",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T15:00:00.000Z",
+        "pubTime": "2026-09-22 23:00",
+        "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+        "imageUrl": null,
+        "fullContent": "Fly to an asteroid, land on it, make no mistakes: If only it were that easy.\n\nWhen NASA sends spacecraft to explore the solar system, they build in redundancy and automation. But much of the work is done by teams of flight controllers communicating with the vehicle from Earth. The Osiris-Rex mission, which rendezvoused with an asteroid in 2018, had 100 operators on each eight-hour shift.\n\nBut resources like that aren’t available to startups, so AstroForge, which is developing technology to mine asteroids, is turning to AI. The company has developed an autonomous control stack for its spacecraft called “Solo,” a transformer-based model made in-house.\n\nAstroForge plans to fly its first autonomous spacecraft in 2027 on the first rocket launched by Stock Space. That mission will be backed by NASA and is expected to gather scientific data about the Sun.\n\nThat would be an accomplishment: Most spacecraft autonomy depends on traditional control algorithms due to concerns about the unreliability of neural networks. The first use of a neural network to control a satellite’s positioning in orbit took place just last year.\n\nAstroForge, founded in 2022 and backed with $56 million in venture funding, has launched two prototype spacecraft, both of which suffered anomalies that prevented them from achieving most of their mission objectives. In 2025, its Odin spacecraft was launched into deep space, but the company had difficulty communicating with it. There are a limited number of antennas on Earth big enough to transmit to spacecraft hundreds of thousands of miles away, and the windows of time in which to do it are small.\n\nUltimately, AstroForge couldn’t gain control of Odin, but the experience spurred it to consider alternatives: Could it put sufficient intelligence onboard the spacecraft for it to solve its own problems?\n\n“Would that have been recoverable with all the data on the spacecraft? I don’t know, but I can tell you nothing onboard tried it, and I would love something onboard to try if the spacecraft is unrecoverable at launch,” Matthew Gialich, AstroForge’s co-founder and CEO, said.\n\n“The trade for me is: Do I go build my own ground network, which is going to cost [around] $200 million to put up five dishes around the world and then do operations on it, or do I try to remove it with a model?”\n\n“I’m not saying I’m going to make general spacecraft autonomy or general autonomy for the world,” Gialich said. “I’m making a constrained autonomy at a very low sensor input, following the basic training of a transformer model.”\n\nIn theory, the agent in control of the spacecraft will perform tasks like anomaly resolution. Awad imagines it realizing that it has lost track of its position in space, correlating a power anomaly to issues in its star tracker, and fixing the whole thing — “probably turning it on and off in this case.”\n\nThe company’s third vehicle, DeepSpace-2, is currently set to launch alongside Intuitive Machines’ third moon mission, expected to head for space by the end of 2026. Solo will be onboard that vehicle, flying in “shadow mode,” so AstroForge’s engineers can put it through its paces before the Autonomy-1 mission.\n\nWill this truly be an AI agent operating an independent spacecraft?“I don’t plan on flying radios that can receive from Earth on Autonomy-1,” Gialich said. “We have to go all in right now. The team’s probably going to talk me into it by the time we fly it. But right now, I’m telling them no radios.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 22,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道AstroForge为降低深空任务对地面操作团队和通信基础设施的依赖，正在开发名为“Solo”的小型、基于Transformer的自主控制模型，并计划将其用于后续航天器。文章同时强调了该方案的实验性：公司此前发射的两艘原型航天器均出现影响任务目标的异常，Solo将在DeepSpace-2任务中先以“影子模式”测试，之后可能在Autonomy-1任务中承担故障处理和航天器控制。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T15:00:00.000Z",
+            "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
+          }
+        ]
+      },
+      {
+        "id": "story-an-work-for-you-2260de1d-e6640b944954bee5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My plan to pay off $7,500 in credit-card debt can work for you",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T14:25:00.000Z",
+        "pubTime": "2026-09-22 22:25",
+        "url": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "I let my spending get away from me. Here’s how I’m getting back on track.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-22 22:25 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-22T14:25:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--with-an-injected-signal-7607e1f0ec342298",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Reviving TEMPEST Attacks With An Injected Signal",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T12:25:27.000Z",
+        "pubTime": "2026-09-22 20:25",
+        "url": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
+        "imageUrl": null,
+        "fullContent": "TEMPEST attacks are often the most effective way to break air-gapped security: rather than directly accessing a computer, the attacker records the system’s unintended radio emissions and uses them to reconstruct its internal operations. This kind of attack was much more effective in the days of noisy, high-voltage CRT displays, and has gradually become less effective as electronics migrate to quieter, less powerful components. A group of researchers, however, has found that even modern electronics can become effective TEMPEST transmitters when irradiated with an RF signal.\n\nThe RF a device emits depends on the unintentional antennas in its internal structure. These are difficult to eliminate, and it’s usually not worth the effort; they’re usually small enough that they only effectively radiate at much higher frequencies than the electronics carry. The researchers’ technique, called InjectEave, radiated these electronics with a radio frequency tuned to their internal antennas, injecting that frequency into the circuit. Nonlinear electronic components, such as amplifiers, then mix the injected frequency with the internal signal, creating RF sidebands. This mixed signal then radiates out of the device and can be picked up and demodulated to recover the device’s internal signal.\n\nIn principle, almost any semiconductor device will perform mixing to some extent; in testing, the researchers had success with an amplifier, analog-to-digital converter, power converter, and switching MOSFETs, but detected no significant emissions without an injected signal. For a portable setup, the researchers used a USRP B210 SDR for transmission and a spectrum analyzer to demodulate the received signal.\n\nThis was able to recover audio from wired headphones, wireless headphones, and a wireless landline, and detect the state of a smart lamp and a smart fan. All of this worked over short distances, even through walls, and with a power amplifier, the range increased to 30 meters. Even with multiple devices present, they could focus on one by tuning the injection frequency to resonate with its internal antennas. Perhaps most impressive (or concerning) was a demonstration with the VoIP phone: the researchers were able to listen in on the person speaking, clone that person’s voice, synthesize new speech in that voice, and remotely inject it onto the phone call, altering the call in real time.\n\nIf the history of these attacks is any guide, it won’t be too long before we see an open-source implementation of this technique; we’ve already seen a few approaches to traditional TEMPEST. This kind of unintended nonlinear mixing can also be used to find bugs or electronics.\n\nThe working principle sounds a lot like that of the Theremin Bug…\n\nEven better, the “bug” provides RF amplification.\n\nPlease be kind and respectful to help make the comments section excellent. (Comment Policy)\n\nThis site uses Akismet to reduce spam. Learn how your comment data is processed.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：报道名为InjectEave的新型侧信道安全研究，详细解析其如何利用射频信号注入激发非线性电子元件混频（类比历史上的特雷门窃听器），从而复活原本在低功耗现代设备上渐趋失效的TEMPEST物理隔离旁路攻击，并警示其对智能设备及语音通信的现实威胁与开源扩散风险。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T12:25:27.000Z",
+            "url": "https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790071712345,
     "timeDisplay": "2026-09-22 18:08 (UTC+8)",
     "date": "2026-09-22",
