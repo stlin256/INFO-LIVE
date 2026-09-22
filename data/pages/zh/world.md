@@ -16,40 +16,76 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-ears-unfinished-business-1bdbf99a8753255c" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="259" data-content-paragraphs="4" data-published-at="2026-09-22T14:51:58.000Z" data-time-source="publication">
+<div id="story-owards-renewed-civil-war-973fd7d6c59327a9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="287" data-content-paragraphs="7" data-published-at="2026-09-22T18:51:53.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="16" height="16" /> <strong>Al Jazeera (半岛电视台官方英文)</strong></span>
+    <span class="stance-badge">全球南方与海湾枢纽</span>
+    <span class="dimension-pill">🛡️ 军事防务安全</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-22 22:51</span>
+  <span class="news-meta-time">🕒 2026-09-23 02:51</span>
 </div>
 
-### [特朗普为美国在海外的干预辩护，称在就伊朗作出“重大决定”前“解决多年来未竟的事务”](https://www.foxnews.com/politics/trump-defends-us-interventions-abroad-ahead-big-decision-iran-settling-years-unfinished-business)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump defends US interventions abroad ahead of &#39;big decision&#39; on Iran: &#39;Settling years of unfinished business&#39;</div>
+### [埃塞俄比亚是否正走向新一轮内战？](https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Is Ethiopia heading towards renewed civil war?</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/1200/675/trump-addresses-unga.jpg?ve=1&amp;tl=1" alt="特朗普为美国在海外的干预辩护，称在就伊朗作出“重大决定”前“解决多年来未竟的事务”" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>美国总统唐纳德·特朗普周二严厉警告伊朗，要求其尽快达成协议，否则将因谋求核武器而面临严重后果。</p>
-<p>特朗普在当天上午向联合国大会发表讲话时说：“我面临一个重大决定：伊朗是否会达成一项协议，让他们得以重建，建设一个比以往任何时候都强大得多的国家——也许成为中东乃至全世界最伟大的国家之一？”</p>
-<p>“还是说，我要摧毁伊斯兰共和国，而且迅速采取行动，永远不给他们再次杀害和摧毁人民及国家的机会？我要不要把他们打入地狱，让他们没有生存的机会，也没有实现未来伟大事业或延续后代的希望？”</p>
-<p>这是一则突发新闻更新。请继续关注后续报道。</p></div>
+<div class="article-body" data-article-body="true"><p>七个武装组织宣布结盟，旨在推翻政府。</p>
+<p>尽管数十年来不断达成和平协议并宣布停火，埃塞俄比亚的武装组织仍持续相互交战，也与军方发生冲突。如今，其中一些昔日的对手已经结成联盟，试图将亚的斯亚贝巴的政府赶下台。</p>
+<p>他们警告说，埃塞俄比亚正处于解体边缘，并将责任归咎于总理阿比·艾哈迈德。阿比表示，国家有能力自卫，但埃塞俄比亚人担心，他们可能正濒临又一场内战。</p>
+<p>那么，这些存在深刻政治和意识形态分歧的昔日对手，能否实现共同目标？</p>
+<p>塞缪尔·盖塔丘——专门研究埃塞俄比亚事务的政治评论员</p>
+<p>恩加拉·乔姆——非洲之角问题分析师</p>
+<p>凯蒂尔·特龙沃尔——奥斯陆新大学学院和平与冲突研究教授</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-22 22:51 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Al Jazeera (半岛电视台官方英文)】于 2026-09-23 02:51 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#军事防务安全</span>
+  <span class="news-tag-pill">#Al</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.aljazeera.com/video/inside-story/2026/9/22/is-ethiopia-heading-towards-renewed-civil-war" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Al Jazeera (半岛电视台官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-world-2191315-06a3143137028efb" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="289" data-content-paragraphs="4" data-published-at="2026-09-22T18:44:03.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-23 02:44</span>
+</div>
+
+### [特朗普认为他可能很快与普京会面，但不太可能在美国二十国集团峰会上举行](https://tass.com/world/2191315)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Trump thinks he, Putin may meet soon, but unlikely at US G20 summit</div>
+
+<div class="article-body" data-article-body="true"><p>联合国，9月22日。/塔斯社/——美国总统唐纳德·特朗普认为，他和俄罗斯领导人弗拉基米尔·普京可能很快再次举行面对面会晤，但此次会晤不太可能在即将在佛罗里达州迈阿密附近举行的二十国集团峰会上进行。</p>
+<p>记者询问特朗普有关在二十国集团峰会上与弗拉基米尔·泽连斯基举行三方会晤的前景。特朗普回答说：“嗯，我不知道。我知道他（普京）会会面，我们已经在阿拉斯加举行过一次会晤。我认为他会再举行一次。我不知道在迈阿密是否会会面。”</p>
+<p>他是在纽约出席联合国大会第81届会议期间，开始与泽连斯基举行会晤时对记者作出上述表示的。</p>
+<p>二十国集团峰会将于12月14日至15日在迈阿密附近的多拉尔举行。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-23 02:44 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#TASS</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/politics/trump-defends-us-interventions-abroad-ahead-big-decision-iran-settling-years-unfinished-business" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://tass.com/world/2191315" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::

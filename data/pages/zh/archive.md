@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-22 · 今日](/INFO-LIVE/archive-2026-09-22/)
+- [2026-09-23 · 今日](/INFO-LIVE/archive-2026-09-23/)
+- [2026-09-22 · 历史快照](/INFO-LIVE/archive-2026-09-22/)
 - [2026-09-21 · 历史快照](/INFO-LIVE/archive-2026-09-21/)
 - [2026-09-20 · 历史快照](/INFO-LIVE/archive-2026-09-20/)
 - [2026-09-19 · 历史快照](/INFO-LIVE/archive-2026-09-19/)
@@ -33,14 +34,25 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **61** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **62** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-22 23:12 (UTC+8)
+- **最新归档时间**：2026-09-23 03:10 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-23 03:10 (UTC+8)" title="全球要闻情报简报 · 03:10" org="ARCHIVE"}
+**速报纪要：** 本时段重点聚焦国际多边外交交锋、区域天然气库存警报、武装冲突联盟组建以及校园暴力隐患等核心动态。
+
+**重点要闻索引：**
+- [NY Times World (纽约时报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.nytimes.com/2026/09/22/world/europe/turkey-school-shooting-injured.html) <span class="news-meta-time">🕒 2026-09-23 02:59</span>
+- [TechCrunch (硅谷创业与资本)] [黑客组织ShinyHunters声称入侵美国联邦调查局，窃取特工及求职者数据](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/) <span class="news-meta-time">🕒 2026-09-23 02:40</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-23 02:33</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49) <span class="news-meta-time">🕒 2026-09-23 01:14</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-sheep-grazing-pose-greater-threat.html) <span class="news-meta-time">🕒 2026-09-23 02:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/gosduma-2119614785.html) <span class="news-meta-time">🕒 2026-09-23 02:58</span>
+:::
 :::timeline-item{start="2026-09-22 23:12 (UTC+8)" title="全球要闻情报简报 · 23:12" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-22 23:01 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -639,16 +651,5 @@ notice:
 - [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/) <span class="news-meta-time">🕒 2026-09-10 10:09</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-coyote-density-higher-seattle-washington.html) <span class="news-meta-time">🕒 2026-09-10 16:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/svr-2116762641.html) <span class="news-meta-time">🕒 2026-09-10 16:12</span>
-:::
-:::timeline-item{start="2026-09-10 11:33 (UTC+8)" title="全球要闻情报简报 · 11:33" org="ARCHIVE"}
-**速报纪要：** 全球多源监控全景简报。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/rumyniya-2116715892.html) <span class="news-meta-time">🕒 2026-09-10 11:25</span>
-- [GitHub Blog (工程技术博客)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://github.blog/news-insights/company-news/github-availability-report-august-2026/) <span class="news-meta-time">🕒 2026-09-10 10:05</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 11:00</span>
-- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1wc5r67/ukrainian_president_volodymyr_zelenskyy_visits/) <span class="news-meta-time">🕒 2026-09-10 10:09</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-ai-torrential-frontier-weather.html) <span class="news-meta-time">🕒 2026-09-10 11:20</span>
-- [FOX News Latest (美国FOX快讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention) <span class="news-meta-time">🕒 2026-09-10 11:20</span>
 :::
 ::::

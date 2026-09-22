@@ -1,0 +1,1542 @@
+[
+  {
+    "timestamp": 1790104251750,
+    "timeDisplay": "2026-09-23 03:10 (UTC+8)",
+    "date": "2026-09-23",
+    "runId": "feed-20260922T185956086Z-8jtoq1",
+    "generatedAt": "2026-09-22T19:10:51.750Z",
+    "hourlyBriefing": {
+      "title": "本小时全球动态简报",
+      "lead": "本时段重点聚焦国际多边外交交锋、区域天然气库存警报、武装冲突联盟组建以及校园暴力隐患等核心动态。",
+      "keySignals": [
+        "特朗普在国际多边场合发表谈话，此前联合国秘书长古特雷斯呼吁各国领导人停止冲突",
+        "国际能源署（IEA）执行董事法提赫·比罗尔警告相关地区天然气库存目前已处于历史低位",
+        "七个武装团体宣布结成同盟，意图推翻现政权",
+        "某地在发生连续校园枪击案数月后再次出现袭击，教育工作者持续警告暴力蔓延风险"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "证据包未提供文章标题、正文、来源或可核验引文，无法形成可靠的日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 72,
+      "completedTasks": 72,
+      "succeeded": 36,
+      "degraded": 36,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 72,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 655619,
+      "byRole": {
+        "translator": {
+          "attempts": 53,
+          "succeeded": 23,
+          "degraded": 30
+        },
+        "fact-extractor": {
+          "attempts": 5,
+          "succeeded": 2,
+          "degraded": 3
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 5,
+          "succeeded": 2,
+          "degraded": 3
+        },
+        "topic-classifier": {
+          "attempts": 5,
+          "succeeded": 5
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 72,
+          "succeeded": 36,
+          "degraded": 36
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-2-translator-0",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-0",
+      "article-21-translator-0",
+      "article-25-translator-0",
+      "article-26-translator-0",
+      "article-28-translator-0",
+      "article-28-translator-1",
+      "article-28-translator-2",
+      "article-29-translator-0",
+      "article-29-translator-1",
+      "article-31-translator-0",
+      "article-33-translator-0",
+      "article-36-translator-0",
+      "article-36-translator-1",
+      "article-37-translator-0",
+      "article-38-translator-0",
+      "article-40-translator-0",
+      "article-42-translator-0",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-2-source-positioner",
+      "article-3-fact-extractor",
+      "article-4-fact-extractor",
+      "article-4-source-positioner"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:32.475Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.521Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:32.483Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.118Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.797Z",
+        "lastSuccessAt": "2026-09-22T18:59:34.040Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.911Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.482Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.788Z",
+        "lastSuccessAt": "2026-09-22T18:59:39.392Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.698Z",
+        "lastSuccessAt": "2026-09-22T18:59:39.072Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:39.392Z",
+        "lastSuccessAt": "2026-09-22T18:59:39.573Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.132Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.337Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:34.126Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.896Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:34.074Z",
+        "lastSuccessAt": "2026-09-22T18:59:38.243Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.376Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.968Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.337Z",
+        "lastSuccessAt": "2026-09-22T18:59:34.126Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.239Z",
+        "lastSuccessAt": "2026-09-22T18:59:34.557Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.278Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.767Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:39.066Z",
+        "lastSuccessAt": "2026-09-22T18:59:39.400Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:38.243Z",
+        "lastSuccessAt": "2026-09-22T18:59:39.762Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:38.700Z",
+        "lastSuccessAt": "2026-09-22T18:59:39.109Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 12,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.409Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.840Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.767Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.926Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.521Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.911Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.118Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.166Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:31.167Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.239Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.903Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.102Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.768Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.121Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.482Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.690Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.840Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.032Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.155Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.492Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:34.557Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.681Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:39.072Z",
+        "lastSuccessAt": "2026-09-22T18:59:42.181Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.992Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.155Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.492Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.788Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.202Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.592Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.592Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.981Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:39.109Z",
+        "lastSuccessAt": "2026-09-22T18:59:39.681Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.926Z",
+        "lastSuccessAt": "2026-09-22T18:59:34.074Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.413Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.992Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.763Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.903Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.567Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.926Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-22T18:59:37.121Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.102Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.567Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:31.165Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.132Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-22T18:59:37.250Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:31.166Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.797Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.896Z",
+        "lastSuccessAt": "2026-09-22T18:59:39.686Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.690Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.768Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.166Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.278Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.032Z",
+        "lastSuccessAt": "2026-09-22T18:59:37.202Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:36.681Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.763Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.926Z",
+        "lastSuccessAt": "2026-09-22T18:59:38.700Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:37.981Z",
+        "lastSuccessAt": "2026-09-22T18:59:39.066Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:34.040Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.409Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:33.968Z",
+        "lastSuccessAt": "2026-09-22T18:59:36.413Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:31.151Z",
+        "lastSuccessAt": "2026-09-22T18:59:32.475Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:31.163Z",
+        "lastSuccessAt": "2026-09-22T18:59:32.483Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-22T18:59:31.164Z",
+        "lastSuccessAt": "2026-09-22T18:59:33.376Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-ol-shooting-injured-html-1cceaf97b6cef92a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Shooting Near High School in Turkey Injures 11",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:59:04.000Z",
+        "pubTime": "2026-09-23 02:59",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/turkey-school-shooting-injured.html",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/22/world/asia/22vid-shooting-turkey-cover-image/22vid-shooting-turkey-cover-image-mediumSquareAt3X.jpg",
+        "fullContent": "The attack came months after back-to-back school shootings in the country, where educators have been warning about rising violence.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-23 02:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/2026/09/22/world/europe/turkey-school-shooting-injured.html",
+            "publishedAt": "2026-09-22T18:59:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ents-and-applicants-data-70cfba02750c437c",
+        "title": "黑客组织ShinyHunters声称入侵美国联邦调查局，窃取特工及求职者数据",
+        "originalTitle": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:40:30.000Z",
+        "pubTime": "2026-09-23 02:40",
+        "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+        "imageUrl": null,
+        "fullContent": "ShinyHunters, a prolific cybercriminal group known for large-scale data theft and extortion, says it has breached the FBI and stolen data on thousands of agents and applicants. The hackers made the claim on their dark web leak site, which TechCrunch reviewed, saying they had stolen “sensitive data on almost all FBI agents and individuals who filed an application with the FBI for a job.”\n\n404 Media first reported on the breach after receiving a sample of the stolen names, home addresses, and phone numbers of FBI agents and their spouses, and verifying a portion of the stolen data against public records. The hackers say their hack is “not financially motivated,” and are demanding that the FBI remove a report that they say contains false allegations about the group.\n\nThe independent publication said the hackers breached an Oracle PeopleSoft server, often used by human resources and recruiters to store job applicants’ personal information, then pivoted to breach an Amazon-hosted government cloud storing the agents and applicants’ data.\n\nShinyHunters told the publication that they took terabytes of data but did not say what they would do with the information if the FBI does not take down its published report. The stolen data could present a major counterintelligence threat, in which hackers and overseas spies use the information to coerce or extort FBI agents and their families into cooperating with a foreign government.\n\nThe hackers reportedly defaced the FBI’s jobs site, which showed at the time of publication that the portal was “currently down for maintenance.” The site also said that the FBI’s special agent applicant portal was also down.\n\nThe FBI did not respond to a request for comment about the incident on Tuesday, and neither did the ShinyHunters hackers.\n\nThis is the second known breach of an FBI system this year after unidentified hackers broke into one of the agency’s systems for managing real-time wiretaps and foreign intelligence-gathering warrants, which could have identified targets of the agency’s surveillance. Separately, FBI director Kash Patel also had his personal email account hacked and leaked by an Iran-backed hacking group called Handala in retaliation for U.S.-led strikes against Iran.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "据称，臭名昭著的网络犯罪组织ShinyHunters以大规模数据窃取和勒索活动而闻名。该组织表示，其已入侵美国联邦调查局（FBI），窃取了数千名特工和求职者的数据。黑客在其暗网泄露网站上发布了这一说法，TechCrunch查看了该网站。黑客称，他们窃取了“几乎所有FBI特工以及曾向FBI提交求职申请的人员的敏感数据”。\n\n独立媒体404 Media在收到一份被窃姓名、家庭住址以及FBI特工及其配偶电话号码样本，并将部分被窃数据与公开记录进行核实后，率先报道了这起入侵事件。黑客称，此次入侵“并非出于经济动机”，并要求FBI删除一份报告，称该报告包含针对这一组织的不实指控。\n\n这家独立媒体表示，黑客入侵了一台Oracle PeopleSoft服务器。人力资源部门和招聘人员经常使用这类服务器存储求职者的个人信息。随后，黑客转而入侵了一个由亚马逊托管的政府云系统，该系统存储着特工和求职者的数据。\n\nShinyHunters告诉该媒体，他们窃取了数TB数据，但没有说明如果FBI不删除其发布的报告，他们将如何处置这些信息。被窃数据可能构成重大反情报威胁：黑客和海外间谍可能利用这些信息胁迫或勒索FBI特工及其家属，使其与外国政府合作。\n\n据报道，黑客篡改了FBI的招聘网站。该网站在本文发布时显示，门户“目前正在维护中”。网站还表示，FBI的特别特工申请门户也已无法访问。\n\nFBI周二没有回应有关此事的置评请求，ShinyHunters黑客也没有回应。\n\n这是今年已知的第二起FBI系统遭入侵事件。此前，身份不明的黑客入侵了FBI一个用于管理实时窃听和外国情报收集授权的系统，这可能导致该机构监视对象的身份被识别。另据报道，FBI局长卡什·帕特尔的个人电子邮件账户也遭到黑客入侵并被泄露。发动此次攻击的是一个名为Handala、得到伊朗支持的黑客组织，该组织此举是为了报复美国主导的对伊朗打击行动。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n您可以通过Signal上的加密消息联系他，用户名为zackwhittaker.1337。您也可以通过电子邮件联系他，或通过zack.whittaker@techcrunch.com核实联系信息。\n\n预订展位的最后一天是9月18日。不要错过Disrupt博览会大厅中的高价值线索、投资者资源以及品牌曝光机会。\n\nTilly Norwood的媒体巡演进展，正如你对一名AI所能预期的那样顺利。\n\n一位ChatGPT发明者推出的新型AI模型令开发者兴奋不已。\n\nOpenAI发现其模型会给继任者留言，以掩盖不良行为。\n\n微软高管称，AI抓取数据是“人类历史上最大规模的劳动力盗窃”；新公开的未删节文件披露了这一说法。\n\nMullenweg短暂离任期间，Automattic的临时首席执行官和首席法务官签署了相互对等的离职协议。\n\n前Infosys负责人创办的AI初创公司又获得了5300万美元融资。\n\n清洁技术初创公司Fluxnium找到了一种利用长达5万年核燃料储量的方法。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "黑客组织ShinyHunters在暗网泄露网站上声称入侵了FBI，窃取了数千名特工和求职者的数据。",
+          "404 Media率先报道了这起数据泄露事件，并收到了一份包含FBI特工及其配偶姓名、住址和电话号码的被盗样本，且对照公共记录核实了部分数据。",
+          "来源叙事重点：重点关注黑客组织入侵FBI招聘与人事系统的攻击路径、敏感个人信息泄露带来的国家安全反情报风险，以及FBI近期屡遭网络入侵暴露的安全脆弱性"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T18:40:30.000Z",
+            "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/"
+          }
+        ]
+      },
+      {
+        "id": "story-n-cash-reserves-393d5105-49084f112d776557",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "She was ready to buy her dream condo — but discovered the HOA had just 1% in cash reserves",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:33:00.000Z",
+        "pubTime": "2026-09-23 02:33",
+        "url": "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "You may be able to choose your house or condo, but you can’t always choose your homeowners association.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-23 02:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-22T18:33:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-34454fa7292c035a10035b49-75b4d56fe0cccca0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Plain-text files are at risk",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T17:14:56.000Z",
+        "pubTime": "2026-09-23 01:14",
+        "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 01:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+            "publishedAt": "2026-09-22T17:14:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-pose-greater-threat-html-2ce4a67b37c25388",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Sheep grazing may pose greater threat to Scotland's wild pollinators than honey bees",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:40:06.000Z",
+        "pubTime": "2026-09-23 02:40",
+        "url": "https://phys.org/news/2026-09-sheep-grazing-pose-greater-threat.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/bee-on-thistle.jpg",
+        "fullContent": "Sheep grazing, rather than honey bees, could be the bigger threat to wild pollinators on Scotland's moorlands, according to a new University of Bristol-led study. The research, published in the Journal of Applied Ecology, has found that grazing in spring can remove much of the nectar emerging bumblebees need, while commercial honey bee hives introduced during the summer heather flowering period have a much smaller impact.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-23 02:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-sheep-grazing-pose-greater-threat.html",
+            "publishedAt": "2026-09-22T18:40:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--gosduma-2119614785-html-b1a16a13afabba41",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Афинах на выборах в Госдуму проголосовали более 500 россиян",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-22T18:58:30.000Z",
+        "pubTime": "2026-09-23 02:58",
+        "url": "https://ria.ru/20260922/gosduma-2119614785.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e6/04/06/1782166012_0:257:3072:1985_650x0_80_0_0_ea59d40ff6ff5e3b957cc2e2c50f7b16.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-23 02:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260922/gosduma-2119614785.html",
+            "publishedAt": "2026-09-22T18:58:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ts-by-launching-a-school-1fb7ffb789360976",
+        "title": "A16z通过创办学校，挑战硅谷对辍学生的偏爱",
+        "originalTitle": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:24:34.000Z",
+        "pubTime": "2026-09-23 02:24",
+        "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+        "imageUrl": null,
+        "fullContent": "Venture capital firm Andreessen Horowitz is launching a school called The Horowitz Andreessen Academy aimed at aspiring founders who have just graduated high school and have not yet attended college.\n\nThe academy is aiming to train these high school grads with hands-on coursework on a variety of topics ranging from the technical (such as “AI Research and Models”) to life philosophy (such as “The Geometry of Luck,” which promises to teach students “about arranging a life so good fortune flows through it.”) Students will also work on personal projects. The school’s main pitch is that it promises to provide students with mentors who are big names in tech.\n\nThe school is currently accepting applications for its first year, which will be a one-year program that charges no tuition, and is open to about 50 students, “chosen on proof of work: what they have built, shipped, or earned,” according to the school’s FAQ. The academy is located in San Francisco and students will be responsible for their own housing (although the school is working to help them find it and match them with other student roommates).\n\nOne item to note: the academy is currently not an accredited school, so participates will not earn a degree, or college credits that transfer elsewhere.\n\nIn 2028, The Horowitz Andreessen Academy — which is a for-profit venture that has raised $42 million — hopes to offer a two-year program. At that point, it plans to charge tuition “similar in cost to an elite private university,” the school’s CEO Gagan Biyani said in a post on X.\n\nIn exchange for that elite-tuition price tag, students will gain access to 200 speakers and mentors, including people from ten founding corporate partners: Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe. Those companies and dozens of others hope to hire from the grads of this school, Biyani said.\n\nSo, this is like if Y Combinator (the most famed startup school) and Peter Thiel’s Fellowship Program (a famed program for young people who opt to build companies instead of attend college) had a baby. The difference is, instead of a short-term experience ending with funding for a company, these students will pay tuition, earn tech-trade skills and have an inside track at tech industry jobs. Or they may also have a startup in the works, built with access to a lot of mentorship.\n\nAs the founders of the academy describe, it’s meant to be a new, middle ground between obtaining a full degree before entering the tech industry and dropping out to start a company. In this era where AI has been hampering the entry-level job market, gaining access to jobs may enough reason for some young people to try this new trade-school like approach.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "风险投资公司安德森·霍洛维茨（Andreessen Horowitz）正在创办一所名为“霍洛维茨·安德森学院”（The Horowitz Andreessen Academy）的学校，面向刚刚高中毕业、尚未上大学的创业者候选人。\n\n该学院旨在通过涵盖多个领域的实践课程培训这些高中毕业生，课程范围从技术类主题（如“人工智能研究与模型”）到人生哲学类主题（如“幸运的几何学”——该课程承诺教会学生“如何安排一种生活，让好运流经其中”）。学生还将开展个人项目。该校的核心卖点是承诺为学生提供科技行业知名人士担任导师。\n\n该校目前正在招收首届学生。第一届为期一年，不收学费，面向约50名学生开放。根据学校常见问题页面的说法，学生将“依据工作成果进行选拔：看他们构建、发布或赚取了什么”。学院位于旧金山，学生需自行解决住宿问题，不过学校正努力帮助他们寻找住处，并为他们与其他学生匹配合租室友。\n\n需要注意的是：该学院目前尚未获得认证，因此参与者不会获得学位，也不会获得可转入其他院校的大学学分。\n\n霍洛维茨·安德森学院是一家营利性企业，已筹集4200万美元。学院希望在2028年开设为期两年的项目。届时，学校计划收取“费用水平类似于顶尖私立大学”的学费。该校首席执行官加甘·比亚尼（Gagan Biyani）在X平台发帖称。\n\n作为这笔精英高校级别学费的交换，学生将获得接触200名演讲嘉宾和导师的机会，其中包括来自十家创始企业合作伙伴的人员：安杜里尔（Anduril）、Anthropic、Coinbase、谷歌、Meta、英伟达、OpenAI、Palantir、Replit和Stripe。比亚尼说，这些公司以及其他数十家公司都希望从该校毕业生中招聘人才。\n\n因此，这所学校就像是Y Combinator（最知名的创业学校）和彼得·蒂尔奖学金项目（一个知名项目，面向选择创办公司而非上大学的年轻人）的结合体。不同之处在于，这些学生不是参加一个以获得公司融资为终点的短期项目，而是要支付学费、学习科技行业的职业技能，并获得进入科技行业就业的优先机会。当然，他们也可能已经在筹备一家初创公司，并在大量导师资源的支持下推进创业。\n\n正如学院创始人所描述的那样，该校意在成为两条路径之间的新型中间地带：一条是在进入科技行业前先获得完整学位，另一条则是辍学创业。在人工智能阻碍入门级就业市场的当下，对一些年轻人来说，获得工作机会本身可能就足以成为尝试这种类似职业学校模式的新途径的理由。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n预订展位桌的最后一天是9月18日。不要错过在Disrupt展厅获得高价值潜在客户、接触投资者以及提升品牌曝光的机会。\n\n蒂莉·诺伍德的媒体巡演进展大致如你所料——对于一个人工智能来说\n\n一位ChatGPT发明者打造的新型人工智能模型令开发者兴奋不已\n\nOpenAI发现其模型会给继任者留言，以隐藏不良行为\n\n微软高管称人工智能抓取是“人类历史上最大规模的劳动力窃取”，新公开的未删节文件揭示了这一点\n\n新墨西斯集团（Automattic）的临时首席执行官和首席法务官在马特·穆伦维格短暂被罢免期间签署了相互离职协议\n\n印孚瑟斯前负责人创办的人工智能初创公司再获5300万美元融资\n\n清洁技术初创公司Fluxnium找到了一种利用价值5万年核燃料的方法",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 17,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T18:24:34.000Z",
+            "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/"
+          }
+        ]
+      },
+      {
+        "id": "story-1-4242-8fff-0e34a27a26db-d16835857c23506e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:20:57.000Z",
+        "pubTime": "2026-09-23 02:20",
+        "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5ea167fa-81f7-4221-9fdd-e04f36406cc8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-23 02:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-22T18:20:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--in-medicine-costs-lives-527d3645ba97fb99",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Sex-based discrimination in medicine costs lives | Letters",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T16:58:22.000Z",
+        "pubTime": "2026-09-23 00:58",
+        "url": "https://www.theguardian.com/society/2026/sep/22/sex-based-discrimination-in-medicine-costs-lives",
+        "imageUrl": "https://i.guim.co.uk/img/media/593f2a98aa8df4597cfab24499285a3e8c6e7c5b/551_0_4241_3394/master/4241.jpg?width=140&quality=85&auto=format&fit=max&s=8a168b7f4683ee4a2d11edead17b1b37",
+        "fullContent": "Readers respond to an article on women being less likely than men to be offered active treatment for the same conditions\n\nAs head of pharmacovigilance at a clinical trials technology company, I was not surprised that a review of global research found that women are less likely than men to be offered active treatment for the same conditions ( Women with same health conditions as men ‘less likely to be offered active treatment’, 16 September ).\n\nThis inequality costs lives. A British Heart Foundation-funded study found that women were less likely than men to receive recommended care after a heart attack. Research in 2018 estimated that more than 8,000 women’s deaths may have been prevented over 10 years had they received the same standard of care as men.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "一项全球研究综述发现，在患有相同疾病的情况下，女性接受积极治疗的可能性低于男性。",
+          "英国心脏基金会资助的一项研究发现，女性在心脏病发作后接受推荐治疗的可能性低于男性。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T16:58:22.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/22/sex-based-discrimination-in-medicine-costs-lives"
+          }
+        ]
+      },
+      {
+        "id": "story--redirect-cell-fate-html-e60a0734096e3984",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A single temporary stimulus may redirect cell fate without permanently altering genes",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:40:02.000Z",
+        "pubTime": "2026-09-23 02:40",
+        "url": "https://phys.org/news/2026-09-temporary-stimulus-redirect-cell-fate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-finds-a-way-to-r.jpg",
+        "fullContent": "Which genes need to be controlled to guide a stem cell toward a desired cell type or modulate an immune cell's inflammatory response? A Korean research team has developed a general-purpose computational framework that identifies the key targets needed to steer a cell toward a desired state with a single temporary intervention, without permanently altering its genes.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-23 02:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-temporary-stimulus-redirect-cell-fate.html",
+            "publishedAt": "2026-09-22T18:40:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-sembly-trump-speech-news-d441a64123273a8e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.N. Live Updates: Trump Says He Faces Choice to Make a Deal or ‘Annihilate’ Iran",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:57:40.000Z",
+        "pubTime": "2026-09-23 02:57",
+        "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/22/multimedia/22unga-live-promo245p/22unga-live-header245p-hfgj-mediumSquareAt3X.jpg",
+        "fullContent": "President Trump delivered the remark before a gathering where world leaders typically present themselves as champions of global harmony. Earlier, António Guterres, the U.N. secretary general, called on leaders to end conflicts.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-23 02:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
+            "publishedAt": "2026-09-22T18:57:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lar-4k-blu-ray-deal-sale-7debf61d96b2f490",
+        "title": "苹果带触控ID及数字小键盘的妙控键盘立减30美元",
+        "originalTitle": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:10:57.000Z",
+        "pubTime": "2026-09-23 02:10",
+        "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-Magic-Keyboard-Touch-ID-Num-Pad-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "A rare discount on Apple’s dark color keyboard. | Image: The Verge\n\nUntil the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID button, numerical pad, arrow keys, plus additional function keys. The Touch ID functionality is compatible with macOS computers running version 15.1 or newer on Apple-made silicon.\n\nApple Magic Keyboard with Touch ID and Numeric Keypad\n\n$199.99 $169.99 at Amazon\n\n$199.99 $169.99 at Best Buy\n\nThe keyboard includes a woven USB-C cable that handles both charging and data, or you can use Bluetooth for a wireless connection. Black-colored Apple accessories tend to carry a higher price premium than their equivalent white models, and go on sale less frequently. Best Buy’s price is only good through 10PM PT on September 22nd, 2026, and the Amazon page is currently shipping one or two days out.\n\nOther deals to consider\n\nThe refurbished 160W Anker Prime Charger is on sale for $75 on eBay via the Anker Outlet Store , $41 lower than the current Prime-exclusive price at Amazon, and half off the list price for a new model. This compact charger sports three USB-C ports, with a maximum output of 140W from a single port. It even has a little display for power monitoring or changing charging modes with the push of a button.\n\nFor a limited time, you can grab a 512GB microSD Express card for $99.99 or less. The Samsung P9 is $99.99 at B&H Photo and Amazon (discounted automatically applied at checkout), and the SanDisk GamePlay is $98 at Walmart . The Switch 2 is the only mainstream device that requires a microSD Express for add-ons torage, and first-party Nintendo games run between 10 and 30 GB (the upcoming Ocarina of time remake is 27GB, for example) so a 512GB card can store upwards of 15 games.\n\nThe 4K Blu-ray version of Interstellar is discounted to $14.96 at Amazon . That’s the lowest we’ve seen the price since Prime Day in June, and a five dollar break from the usual price. This classic Christopher Nolan film is an excellent addition to any film buff’s home collection, and benefits massively from the sharper visuals provided by the 4K Blu-ray. Read our review .",
+        "fullTranslation": "苹果深色键盘迎来罕见折扣。 | 图片来源：The Verge\n\n截至2026年9月22日当天结束，百思买（Best Buy）和亚马逊（Amazon）对黑色款苹果妙控键盘（Apple Magic Keyboard）开展促销，售价169.99美元，较平时价格直降30美元。这是苹果全尺寸无线键盘的增强版本，配备触控ID（Touch ID）按键、数字小键盘、方向键以及额外的功能键。触控ID功能适用于搭载苹果自研芯片且运行macOS 15.1或更新版本的Mac电脑。\n\n配备触控ID和数字小键盘的苹果妙控键盘\n亚马逊售价169.99美元（原价199.99美元）\n百思买售价169.99美元（原价199.99美元）\n\n该键盘随附一根编织USB-C线缆，兼顾充电与数据传输，也可以通过蓝牙进行无线连接。苹果的黑色配件通常比同款白色配件溢价更高，且打折频率更低。百思买的优惠价格仅持续至2026年9月22日太平洋时间晚上10点，而亚马逊页面显示目前发货需延后一至两天。\n\n其他值得关注的优惠\n\n翻新版160W安克（Anker）Prime充电器在eBay上的Anker Outlet官方店售价75美元，比目前亚马逊Prime专享价低41美元，相当于全新版标价的五折。这款紧凑型充电器配备三个USB-C接口，单口最大输出功率可达140W。它甚至还配备了一块小显示屏，用于功率监测或一键切换充电模式。\n\n限时特惠期间，花99.99美元或更低价格即可入手一张512GB的microSD Express存储卡。三星P9在B&H Photo和亚马逊售价99.99美元（结账时自动应用折扣），闪迪（SanDisk）GamePlay在沃尔玛售价98美元。Switch 2是唯一需要microSD Express卡扩展存储的主流设备，而任天堂第一方游戏的容量在10GB至30GB之间（例如即将推出的《时之笛》重制版容量为27GB），因此一张512GB的存储卡可存储15款以上的游戏。\n\n《星际穿越》（Interstellar）的4K超高清蓝光版在亚马逊降价至14.96美元。这是自6月份Prime Day以来的最低价，比日常售价优惠了5美元。这部克里斯托弗·诺兰（Christopher Nolan）执导的经典电影非常值得影迷收入家庭收藏，而4K超高清蓝光带来的更清晰画质让影片观感大幅提升。阅读我们的影评。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "来源叙事重点：以限时折扣和产品功能为主线，突出黑色版 Apple Magic Keyboard 的降价稀缺性、Touch ID、数字键盘及兼容条件，并补充充电器、存储卡和《星际穿越》4K 蓝光等其他优惠。文章使用“罕见折扣”“升级版”“非常适合收藏”等带有促销或评价色彩的表述，将价格信息与购买建议结合。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T18:10:57.000Z",
+            "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale"
+          }
+        ]
+      },
+      {
+        "id": "story-f-4270-8ad3-87724cd3721e-733b009a82a42f78",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump threatens to ‘annihilate’ Iran in UN speech as officials hold bilateral meeting",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:19:56.000Z",
+        "pubTime": "2026-09-23 02:19",
+        "url": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6f1f0c2-4396-4ef4-9bfe-052d3155a7cb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "US president says Americans held ‘very good meeting’ with delegation from Tehran",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-23 02:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-22T18:19:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--up-about-patient-safety-7eee3eab6a21eb89",
+        "title": "少数族裔英国国家医疗服务体系员工为直言患者安全问题付出沉重代价 | 来信",
+        "originalTitle": "Minority ethnic NHS staff pay a heavy price for speaking up about patient safety | Letter",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T16:58:17.000Z",
+        "pubTime": "2026-09-23 00:58",
+        "url": "https://www.theguardian.com/society/2026/sep/22/minority-ethnic-nhs-staff-pay-a-heavy-price-for-speaking-up-about-patient-safety",
+        "imageUrl": "https://i.guim.co.uk/img/media/a86d6b3c9d7f2ca6bba03427dba567524e59a93d/1109_431_1674_1339/master/1674.jpg?width=140&quality=85&auto=format&fit=max&s=49abb3f6962767727f647597ff14b0e5",
+        "fullContent": "Providing psychological safety to Black, Asian and ethnic minority staff so they can raise concerns about patient care without fear would save lives, write Dr Jennifer Creese, Dr Joy Spiliopoulos and Prof Carolyn Tarrant\n\nYour report ( One in five black, Asian and minority ethnic NHS managers in England plan to quit amid racism, report finds, 15 September ) rightly highlights racism, exclusion and blocked career progression in the NHS. But it also points to a wider risk: patient safety. Care mistakes already cost the NHS £14.7bn a year .\n\nA March 2025 report by the NHS Race & Health Observatory notes that Black, Asian and minority ethnic (BAME) staff, who make up more than 40% of the medical and dental workforce, still face harassment and discrimination in promotion, everyday work and disciplinary processes. This fuels stress, burnout and poorer mental health. Bullying and harassment are estimated to cost NHS England £2bn a year through staff turnover, sickness and lost productivity. In such environments, BAME staff are less likely than white colleagues to speak up about patient safety, fearing that their concerns will not be understood or taken seriously.",
+        "fullTranslation": "詹妮弗·克里斯博士（Dr Jennifer Creese）、乔伊·斯皮利奥普洛斯博士（Dr Joy Spiliopoulos）和卡罗琳·塔兰特教授（Prof Carolyn Tarrant）写道，为黑人、亚裔和少数族裔员工提供心理安全保障，使他们能够毫无畏惧地提出对患者护理的担忧，将挽救生命。\n\n贵报的报道（《报告发现：在英格兰，五分之一的黑人、亚裔及少数族裔NHS管理者因种族主义计划辞职》，9月15日）准确指出了英国国家医疗服务体系（NHS）内部存在的种族主义、排斥以及职业发展受阻问题。但这同时也指向了一个更广泛的风险：患者安全。医疗差错每年已给NHS造成高达147亿英镑的损失。\n\nNHS种族与健康观察机构（NHS Race & Health Observatory）2025年3月的一份报告指出，在医疗和牙科从业人员中占比超过40%的黑人、亚裔和少数族裔（BAME）员工，在晋升、日常工作以及纪律处分程序中仍面临骚扰与歧视。这加剧了心理压力、职业倦怠以及较差的心理健康状况。据估计，欺凌和骚扰通过导致人员流失、病假和生产力下降，每年给英格兰NHS造成20亿英镑的损失。在这样的环境下，少数族裔员工比白人同事更不愿意公开谈论患者安全问题，他们担心自己的关切不会被理解或受到重视。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T16:58:17.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/22/minority-ethnic-nhs-staff-pay-a-heavy-price-for-speaking-up-about-patient-safety"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-ol-shooting-injured-html-1cceaf97b6cef92a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Shooting Near High School in Turkey Injures 11",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:59:04.000Z",
+        "pubTime": "2026-09-23 02:59",
+        "url": "https://www.nytimes.com/2026/09/22/world/europe/turkey-school-shooting-injured.html",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/22/world/asia/22vid-shooting-turkey-cover-image/22vid-shooting-turkey-cover-image-mediumSquareAt3X.jpg",
+        "fullContent": "The attack came months after back-to-back school shootings in the country, where educators have been warning about rising violence.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-23 02:59 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/2026/09/22/world/europe/turkey-school-shooting-injured.html",
+            "publishedAt": "2026-09-22T18:59:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ents-and-applicants-data-70cfba02750c437c",
+        "title": "黑客组织ShinyHunters声称入侵美国联邦调查局，窃取特工及求职者数据",
+        "originalTitle": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:40:30.000Z",
+        "pubTime": "2026-09-23 02:40",
+        "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+        "imageUrl": null,
+        "fullContent": "ShinyHunters, a prolific cybercriminal group known for large-scale data theft and extortion, says it has breached the FBI and stolen data on thousands of agents and applicants. The hackers made the claim on their dark web leak site, which TechCrunch reviewed, saying they had stolen “sensitive data on almost all FBI agents and individuals who filed an application with the FBI for a job.”\n\n404 Media first reported on the breach after receiving a sample of the stolen names, home addresses, and phone numbers of FBI agents and their spouses, and verifying a portion of the stolen data against public records. The hackers say their hack is “not financially motivated,” and are demanding that the FBI remove a report that they say contains false allegations about the group.\n\nThe independent publication said the hackers breached an Oracle PeopleSoft server, often used by human resources and recruiters to store job applicants’ personal information, then pivoted to breach an Amazon-hosted government cloud storing the agents and applicants’ data.\n\nShinyHunters told the publication that they took terabytes of data but did not say what they would do with the information if the FBI does not take down its published report. The stolen data could present a major counterintelligence threat, in which hackers and overseas spies use the information to coerce or extort FBI agents and their families into cooperating with a foreign government.\n\nThe hackers reportedly defaced the FBI’s jobs site, which showed at the time of publication that the portal was “currently down for maintenance.” The site also said that the FBI’s special agent applicant portal was also down.\n\nThe FBI did not respond to a request for comment about the incident on Tuesday, and neither did the ShinyHunters hackers.\n\nThis is the second known breach of an FBI system this year after unidentified hackers broke into one of the agency’s systems for managing real-time wiretaps and foreign intelligence-gathering warrants, which could have identified targets of the agency’s surveillance. Separately, FBI director Kash Patel also had his personal email account hacked and leaked by an Iran-backed hacking group called Handala in retaliation for U.S.-led strikes against Iran.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nHe can be reached via encrypted message at zackwhittaker.1337 on Signal. You can also contact him by email, or to verify outreach, at zack.whittaker@techcrunch.com.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "据称，臭名昭著的网络犯罪组织ShinyHunters以大规模数据窃取和勒索活动而闻名。该组织表示，其已入侵美国联邦调查局（FBI），窃取了数千名特工和求职者的数据。黑客在其暗网泄露网站上发布了这一说法，TechCrunch查看了该网站。黑客称，他们窃取了“几乎所有FBI特工以及曾向FBI提交求职申请的人员的敏感数据”。\n\n独立媒体404 Media在收到一份被窃姓名、家庭住址以及FBI特工及其配偶电话号码样本，并将部分被窃数据与公开记录进行核实后，率先报道了这起入侵事件。黑客称，此次入侵“并非出于经济动机”，并要求FBI删除一份报告，称该报告包含针对这一组织的不实指控。\n\n这家独立媒体表示，黑客入侵了一台Oracle PeopleSoft服务器。人力资源部门和招聘人员经常使用这类服务器存储求职者的个人信息。随后，黑客转而入侵了一个由亚马逊托管的政府云系统，该系统存储着特工和求职者的数据。\n\nShinyHunters告诉该媒体，他们窃取了数TB数据，但没有说明如果FBI不删除其发布的报告，他们将如何处置这些信息。被窃数据可能构成重大反情报威胁：黑客和海外间谍可能利用这些信息胁迫或勒索FBI特工及其家属，使其与外国政府合作。\n\n据报道，黑客篡改了FBI的招聘网站。该网站在本文发布时显示，门户“目前正在维护中”。网站还表示，FBI的特别特工申请门户也已无法访问。\n\nFBI周二没有回应有关此事的置评请求，ShinyHunters黑客也没有回应。\n\n这是今年已知的第二起FBI系统遭入侵事件。此前，身份不明的黑客入侵了FBI一个用于管理实时窃听和外国情报收集授权的系统，这可能导致该机构监视对象的身份被识别。另据报道，FBI局长卡什·帕特尔的个人电子邮件账户也遭到黑客入侵并被泄露。发动此次攻击的是一个名为Handala、得到伊朗支持的黑客组织，该组织此举是为了报复美国主导的对伊朗打击行动。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n您可以通过Signal上的加密消息联系他，用户名为zackwhittaker.1337。您也可以通过电子邮件联系他，或通过zack.whittaker@techcrunch.com核实联系信息。\n\n预订展位的最后一天是9月18日。不要错过Disrupt博览会大厅中的高价值线索、投资者资源以及品牌曝光机会。\n\nTilly Norwood的媒体巡演进展，正如你对一名AI所能预期的那样顺利。\n\n一位ChatGPT发明者推出的新型AI模型令开发者兴奋不已。\n\nOpenAI发现其模型会给继任者留言，以掩盖不良行为。\n\n微软高管称，AI抓取数据是“人类历史上最大规模的劳动力盗窃”；新公开的未删节文件披露了这一说法。\n\nMullenweg短暂离任期间，Automattic的临时首席执行官和首席法务官签署了相互对等的离职协议。\n\n前Infosys负责人创办的AI初创公司又获得了5300万美元融资。\n\n清洁技术初创公司Fluxnium找到了一种利用长达5万年核燃料储量的方法。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "黑客组织ShinyHunters在暗网泄露网站上声称入侵了FBI，窃取了数千名特工和求职者的数据。",
+          "404 Media率先报道了这起数据泄露事件，并收到了一份包含FBI特工及其配偶姓名、住址和电话号码的被盗样本，且对照公共记录核实了部分数据。",
+          "来源叙事重点：重点关注黑客组织入侵FBI招聘与人事系统的攻击路径、敏感个人信息泄露带来的国家安全反情报风险，以及FBI近期屡遭网络入侵暴露的安全脆弱性"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T18:40:30.000Z",
+            "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/"
+          }
+        ]
+      },
+      {
+        "id": "story-n-cash-reserves-393d5105-49084f112d776557",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "She was ready to buy her dream condo — but discovered the HOA had just 1% in cash reserves",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:33:00.000Z",
+        "pubTime": "2026-09-23 02:33",
+        "url": "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "You may be able to choose your house or condo, but you can’t always choose your homeowners association.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-23 02:33 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/she-was-ready-to-buy-her-dream-condo-but-discovered-the-hoa-had-just-1-in-cash-reserves-393d5105?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-22T18:33:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-34454fa7292c035a10035b49-75b4d56fe0cccca0",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Plain-text files are at risk",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T17:14:56.000Z",
+        "pubTime": "2026-09-23 01:14",
+        "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 01:14 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+            "publishedAt": "2026-09-22T17:14:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-pose-greater-threat-html-2ce4a67b37c25388",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Sheep grazing may pose greater threat to Scotland's wild pollinators than honey bees",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:40:06.000Z",
+        "pubTime": "2026-09-23 02:40",
+        "url": "https://phys.org/news/2026-09-sheep-grazing-pose-greater-threat.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/bee-on-thistle.jpg",
+        "fullContent": "Sheep grazing, rather than honey bees, could be the bigger threat to wild pollinators on Scotland's moorlands, according to a new University of Bristol-led study. The research, published in the Journal of Applied Ecology, has found that grazing in spring can remove much of the nectar emerging bumblebees need, while commercial honey bee hives introduced during the summer heather flowering period have a much smaller impact.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-23 02:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-sheep-grazing-pose-greater-threat.html",
+            "publishedAt": "2026-09-22T18:40:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--gosduma-2119614785-html-b1a16a13afabba41",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Афинах на выборах в Госдуму проголосовали более 500 россиян",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-22T18:58:30.000Z",
+        "pubTime": "2026-09-23 02:58",
+        "url": "https://ria.ru/20260922/gosduma-2119614785.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e6/04/06/1782166012_0:257:3072:1985_650x0_80_0_0_ea59d40ff6ff5e3b957cc2e2c50f7b16.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-23 02:58 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260922/gosduma-2119614785.html",
+            "publishedAt": "2026-09-22T18:58:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ts-by-launching-a-school-1fb7ffb789360976",
+        "title": "A16z通过创办学校，挑战硅谷对辍学生的偏爱",
+        "originalTitle": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:24:34.000Z",
+        "pubTime": "2026-09-23 02:24",
+        "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+        "imageUrl": null,
+        "fullContent": "Venture capital firm Andreessen Horowitz is launching a school called The Horowitz Andreessen Academy aimed at aspiring founders who have just graduated high school and have not yet attended college.\n\nThe academy is aiming to train these high school grads with hands-on coursework on a variety of topics ranging from the technical (such as “AI Research and Models”) to life philosophy (such as “The Geometry of Luck,” which promises to teach students “about arranging a life so good fortune flows through it.”) Students will also work on personal projects. The school’s main pitch is that it promises to provide students with mentors who are big names in tech.\n\nThe school is currently accepting applications for its first year, which will be a one-year program that charges no tuition, and is open to about 50 students, “chosen on proof of work: what they have built, shipped, or earned,” according to the school’s FAQ. The academy is located in San Francisco and students will be responsible for their own housing (although the school is working to help them find it and match them with other student roommates).\n\nOne item to note: the academy is currently not an accredited school, so participates will not earn a degree, or college credits that transfer elsewhere.\n\nIn 2028, The Horowitz Andreessen Academy — which is a for-profit venture that has raised $42 million — hopes to offer a two-year program. At that point, it plans to charge tuition “similar in cost to an elite private university,” the school’s CEO Gagan Biyani said in a post on X.\n\nIn exchange for that elite-tuition price tag, students will gain access to 200 speakers and mentors, including people from ten founding corporate partners: Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe. Those companies and dozens of others hope to hire from the grads of this school, Biyani said.\n\nSo, this is like if Y Combinator (the most famed startup school) and Peter Thiel’s Fellowship Program (a famed program for young people who opt to build companies instead of attend college) had a baby. The difference is, instead of a short-term experience ending with funding for a company, these students will pay tuition, earn tech-trade skills and have an inside track at tech industry jobs. Or they may also have a startup in the works, built with access to a lot of mentorship.\n\nAs the founders of the academy describe, it’s meant to be a new, middle ground between obtaining a full degree before entering the tech industry and dropping out to start a company. In this era where AI has been hampering the entry-level job market, gaining access to jobs may enough reason for some young people to try this new trade-school like approach.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal\n\nAutomattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster\n\nFormer Infosys chief’s AI startup nabs another $53M\n\nClean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "fullTranslation": "风险投资公司安德森·霍洛维茨（Andreessen Horowitz）正在创办一所名为“霍洛维茨·安德森学院”（The Horowitz Andreessen Academy）的学校，面向刚刚高中毕业、尚未上大学的创业者候选人。\n\n该学院旨在通过涵盖多个领域的实践课程培训这些高中毕业生，课程范围从技术类主题（如“人工智能研究与模型”）到人生哲学类主题（如“幸运的几何学”——该课程承诺教会学生“如何安排一种生活，让好运流经其中”）。学生还将开展个人项目。该校的核心卖点是承诺为学生提供科技行业知名人士担任导师。\n\n该校目前正在招收首届学生。第一届为期一年，不收学费，面向约50名学生开放。根据学校常见问题页面的说法，学生将“依据工作成果进行选拔：看他们构建、发布或赚取了什么”。学院位于旧金山，学生需自行解决住宿问题，不过学校正努力帮助他们寻找住处，并为他们与其他学生匹配合租室友。\n\n需要注意的是：该学院目前尚未获得认证，因此参与者不会获得学位，也不会获得可转入其他院校的大学学分。\n\n霍洛维茨·安德森学院是一家营利性企业，已筹集4200万美元。学院希望在2028年开设为期两年的项目。届时，学校计划收取“费用水平类似于顶尖私立大学”的学费。该校首席执行官加甘·比亚尼（Gagan Biyani）在X平台发帖称。\n\n作为这笔精英高校级别学费的交换，学生将获得接触200名演讲嘉宾和导师的机会，其中包括来自十家创始企业合作伙伴的人员：安杜里尔（Anduril）、Anthropic、Coinbase、谷歌、Meta、英伟达、OpenAI、Palantir、Replit和Stripe。比亚尼说，这些公司以及其他数十家公司都希望从该校毕业生中招聘人才。\n\n因此，这所学校就像是Y Combinator（最知名的创业学校）和彼得·蒂尔奖学金项目（一个知名项目，面向选择创办公司而非上大学的年轻人）的结合体。不同之处在于，这些学生不是参加一个以获得公司融资为终点的短期项目，而是要支付学费、学习科技行业的职业技能，并获得进入科技行业就业的优先机会。当然，他们也可能已经在筹备一家初创公司，并在大量导师资源的支持下推进创业。\n\n正如学院创始人所描述的那样，该校意在成为两条路径之间的新型中间地带：一条是在进入科技行业前先获得完整学位，另一条则是辍学创业。在人工智能阻碍入门级就业市场的当下，对一些年轻人来说，获得工作机会本身可能就足以成为尝试这种类似职业学校模式的新途径的理由。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n预订展位桌的最后一天是9月18日。不要错过在Disrupt展厅获得高价值潜在客户、接触投资者以及提升品牌曝光的机会。\n\n蒂莉·诺伍德的媒体巡演进展大致如你所料——对于一个人工智能来说\n\n一位ChatGPT发明者打造的新型人工智能模型令开发者兴奋不已\n\nOpenAI发现其模型会给继任者留言，以隐藏不良行为\n\n微软高管称人工智能抓取是“人类历史上最大规模的劳动力窃取”，新公开的未删节文件揭示了这一点\n\n新墨西斯集团（Automattic）的临时首席执行官和首席法务官在马特·穆伦维格短暂被罢免期间签署了相互离职协议\n\n印孚瑟斯前负责人创办的人工智能初创公司再获5300万美元融资\n\n清洁技术初创公司Fluxnium找到了一种利用价值5万年核燃料的方法",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 17,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T18:24:34.000Z",
+            "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/"
+          }
+        ]
+      },
+      {
+        "id": "story-1-4242-8fff-0e34a27a26db-d16835857c23506e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:20:57.000Z",
+        "pubTime": "2026-09-23 02:20",
+        "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5ea167fa-81f7-4221-9fdd-e04f36406cc8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-23 02:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-22T18:20:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--in-medicine-costs-lives-527d3645ba97fb99",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Sex-based discrimination in medicine costs lives | Letters",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T16:58:22.000Z",
+        "pubTime": "2026-09-23 00:58",
+        "url": "https://www.theguardian.com/society/2026/sep/22/sex-based-discrimination-in-medicine-costs-lives",
+        "imageUrl": "https://i.guim.co.uk/img/media/593f2a98aa8df4597cfab24499285a3e8c6e7c5b/551_0_4241_3394/master/4241.jpg?width=140&quality=85&auto=format&fit=max&s=8a168b7f4683ee4a2d11edead17b1b37",
+        "fullContent": "Readers respond to an article on women being less likely than men to be offered active treatment for the same conditions\n\nAs head of pharmacovigilance at a clinical trials technology company, I was not surprised that a review of global research found that women are less likely than men to be offered active treatment for the same conditions ( Women with same health conditions as men ‘less likely to be offered active treatment’, 16 September ).\n\nThis inequality costs lives. A British Heart Foundation-funded study found that women were less likely than men to receive recommended care after a heart attack. Research in 2018 estimated that more than 8,000 women’s deaths may have been prevented over 10 years had they received the same standard of care as men.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "一项全球研究综述发现，在患有相同疾病的情况下，女性接受积极治疗的可能性低于男性。",
+          "英国心脏基金会资助的一项研究发现，女性在心脏病发作后接受推荐治疗的可能性低于男性。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T16:58:22.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/22/sex-based-discrimination-in-medicine-costs-lives"
+          }
+        ]
+      },
+      {
+        "id": "story--redirect-cell-fate-html-e60a0734096e3984",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "A single temporary stimulus may redirect cell fate without permanently altering genes",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:40:02.000Z",
+        "pubTime": "2026-09-23 02:40",
+        "url": "https://phys.org/news/2026-09-temporary-stimulus-redirect-cell-fate.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-finds-a-way-to-r.jpg",
+        "fullContent": "Which genes need to be controlled to guide a stem cell toward a desired cell type or modulate an immune cell's inflammatory response? A Korean research team has developed a general-purpose computational framework that identifies the key targets needed to steer a cell toward a desired state with a single temporary intervention, without permanently altering its genes.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-23 02:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-temporary-stimulus-redirect-cell-fate.html",
+            "publishedAt": "2026-09-22T18:40:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-sembly-trump-speech-news-d441a64123273a8e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.N. Live Updates: Trump Says He Faces Choice to Make a Deal or ‘Annihilate’ Iran",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:57:40.000Z",
+        "pubTime": "2026-09-23 02:57",
+        "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/22/multimedia/22unga-live-promo245p/22unga-live-header245p-hfgj-mediumSquareAt3X.jpg",
+        "fullContent": "President Trump delivered the remark before a gathering where world leaders typically present themselves as champions of global harmony. Earlier, António Guterres, the U.N. secretary general, called on leaders to end conflicts.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-23 02:57 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
+            "publishedAt": "2026-09-22T18:57:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lar-4k-blu-ray-deal-sale-7debf61d96b2f490",
+        "title": "苹果带触控ID及数字小键盘的妙控键盘立减30美元",
+        "originalTitle": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:10:57.000Z",
+        "pubTime": "2026-09-23 02:10",
+        "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-Magic-Keyboard-Touch-ID-Num-Pad-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "A rare discount on Apple’s dark color keyboard. | Image: The Verge\n\nUntil the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID button, numerical pad, arrow keys, plus additional function keys. The Touch ID functionality is compatible with macOS computers running version 15.1 or newer on Apple-made silicon.\n\nApple Magic Keyboard with Touch ID and Numeric Keypad\n\n$199.99 $169.99 at Amazon\n\n$199.99 $169.99 at Best Buy\n\nThe keyboard includes a woven USB-C cable that handles both charging and data, or you can use Bluetooth for a wireless connection. Black-colored Apple accessories tend to carry a higher price premium than their equivalent white models, and go on sale less frequently. Best Buy’s price is only good through 10PM PT on September 22nd, 2026, and the Amazon page is currently shipping one or two days out.\n\nOther deals to consider\n\nThe refurbished 160W Anker Prime Charger is on sale for $75 on eBay via the Anker Outlet Store , $41 lower than the current Prime-exclusive price at Amazon, and half off the list price for a new model. This compact charger sports three USB-C ports, with a maximum output of 140W from a single port. It even has a little display for power monitoring or changing charging modes with the push of a button.\n\nFor a limited time, you can grab a 512GB microSD Express card for $99.99 or less. The Samsung P9 is $99.99 at B&H Photo and Amazon (discounted automatically applied at checkout), and the SanDisk GamePlay is $98 at Walmart . The Switch 2 is the only mainstream device that requires a microSD Express for add-ons torage, and first-party Nintendo games run between 10 and 30 GB (the upcoming Ocarina of time remake is 27GB, for example) so a 512GB card can store upwards of 15 games.\n\nThe 4K Blu-ray version of Interstellar is discounted to $14.96 at Amazon . That’s the lowest we’ve seen the price since Prime Day in June, and a five dollar break from the usual price. This classic Christopher Nolan film is an excellent addition to any film buff’s home collection, and benefits massively from the sharper visuals provided by the 4K Blu-ray. Read our review .",
+        "fullTranslation": "苹果深色键盘迎来罕见折扣。 | 图片来源：The Verge\n\n截至2026年9月22日当天结束，百思买（Best Buy）和亚马逊（Amazon）对黑色款苹果妙控键盘（Apple Magic Keyboard）开展促销，售价169.99美元，较平时价格直降30美元。这是苹果全尺寸无线键盘的增强版本，配备触控ID（Touch ID）按键、数字小键盘、方向键以及额外的功能键。触控ID功能适用于搭载苹果自研芯片且运行macOS 15.1或更新版本的Mac电脑。\n\n配备触控ID和数字小键盘的苹果妙控键盘\n亚马逊售价169.99美元（原价199.99美元）\n百思买售价169.99美元（原价199.99美元）\n\n该键盘随附一根编织USB-C线缆，兼顾充电与数据传输，也可以通过蓝牙进行无线连接。苹果的黑色配件通常比同款白色配件溢价更高，且打折频率更低。百思买的优惠价格仅持续至2026年9月22日太平洋时间晚上10点，而亚马逊页面显示目前发货需延后一至两天。\n\n其他值得关注的优惠\n\n翻新版160W安克（Anker）Prime充电器在eBay上的Anker Outlet官方店售价75美元，比目前亚马逊Prime专享价低41美元，相当于全新版标价的五折。这款紧凑型充电器配备三个USB-C接口，单口最大输出功率可达140W。它甚至还配备了一块小显示屏，用于功率监测或一键切换充电模式。\n\n限时特惠期间，花99.99美元或更低价格即可入手一张512GB的microSD Express存储卡。三星P9在B&H Photo和亚马逊售价99.99美元（结账时自动应用折扣），闪迪（SanDisk）GamePlay在沃尔玛售价98美元。Switch 2是唯一需要microSD Express卡扩展存储的主流设备，而任天堂第一方游戏的容量在10GB至30GB之间（例如即将推出的《时之笛》重制版容量为27GB），因此一张512GB的存储卡可存储15款以上的游戏。\n\n《星际穿越》（Interstellar）的4K超高清蓝光版在亚马逊降价至14.96美元。这是自6月份Prime Day以来的最低价，比日常售价优惠了5美元。这部克里斯托弗·诺兰（Christopher Nolan）执导的经典电影非常值得影迷收入家庭收藏，而4K超高清蓝光带来的更清晰画质让影片观感大幅提升。阅读我们的影评。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 10,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "来源叙事重点：以限时折扣和产品功能为主线，突出黑色版 Apple Magic Keyboard 的降价稀缺性、Touch ID、数字键盘及兼容条件，并补充充电器、存储卡和《星际穿越》4K 蓝光等其他优惠。文章使用“罕见折扣”“升级版”“非常适合收藏”等带有促销或评价色彩的表述，将价格信息与购买建议结合。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T18:10:57.000Z",
+            "url": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale"
+          }
+        ]
+      },
+      {
+        "id": "story-f-4270-8ad3-87724cd3721e-733b009a82a42f78",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump threatens to ‘annihilate’ Iran in UN speech as officials hold bilateral meeting",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T18:19:56.000Z",
+        "pubTime": "2026-09-23 02:19",
+        "url": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6f1f0c2-4396-4ef4-9bfe-052d3155a7cb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "US president says Americans held ‘very good meeting’ with delegation from Tehran",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-23 02:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-22T18:19:56.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--up-about-patient-safety-7eee3eab6a21eb89",
+        "title": "少数族裔英国国家医疗服务体系员工为直言患者安全问题付出沉重代价 | 来信",
+        "originalTitle": "Minority ethnic NHS staff pay a heavy price for speaking up about patient safety | Letter",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T16:58:17.000Z",
+        "pubTime": "2026-09-23 00:58",
+        "url": "https://www.theguardian.com/society/2026/sep/22/minority-ethnic-nhs-staff-pay-a-heavy-price-for-speaking-up-about-patient-safety",
+        "imageUrl": "https://i.guim.co.uk/img/media/a86d6b3c9d7f2ca6bba03427dba567524e59a93d/1109_431_1674_1339/master/1674.jpg?width=140&quality=85&auto=format&fit=max&s=49abb3f6962767727f647597ff14b0e5",
+        "fullContent": "Providing psychological safety to Black, Asian and ethnic minority staff so they can raise concerns about patient care without fear would save lives, write Dr Jennifer Creese, Dr Joy Spiliopoulos and Prof Carolyn Tarrant\n\nYour report ( One in five black, Asian and minority ethnic NHS managers in England plan to quit amid racism, report finds, 15 September ) rightly highlights racism, exclusion and blocked career progression in the NHS. But it also points to a wider risk: patient safety. Care mistakes already cost the NHS £14.7bn a year .\n\nA March 2025 report by the NHS Race & Health Observatory notes that Black, Asian and minority ethnic (BAME) staff, who make up more than 40% of the medical and dental workforce, still face harassment and discrimination in promotion, everyday work and disciplinary processes. This fuels stress, burnout and poorer mental health. Bullying and harassment are estimated to cost NHS England £2bn a year through staff turnover, sickness and lost productivity. In such environments, BAME staff are less likely than white colleagues to speak up about patient safety, fearing that their concerns will not be understood or taken seriously.",
+        "fullTranslation": "詹妮弗·克里斯博士（Dr Jennifer Creese）、乔伊·斯皮利奥普洛斯博士（Dr Joy Spiliopoulos）和卡罗琳·塔兰特教授（Prof Carolyn Tarrant）写道，为黑人、亚裔和少数族裔员工提供心理安全保障，使他们能够毫无畏惧地提出对患者护理的担忧，将挽救生命。\n\n贵报的报道（《报告发现：在英格兰，五分之一的黑人、亚裔及少数族裔NHS管理者因种族主义计划辞职》，9月15日）准确指出了英国国家医疗服务体系（NHS）内部存在的种族主义、排斥以及职业发展受阻问题。但这同时也指向了一个更广泛的风险：患者安全。医疗差错每年已给NHS造成高达147亿英镑的损失。\n\nNHS种族与健康观察机构（NHS Race & Health Observatory）2025年3月的一份报告指出，在医疗和牙科从业人员中占比超过40%的黑人、亚裔和少数族裔（BAME）员工，在晋升、日常工作以及纪律处分程序中仍面临骚扰与歧视。这加剧了心理压力、职业倦怠以及较差的心理健康状况。据估计，欺凌和骚扰通过导致人员流失、病假和生产力下降，每年给英格兰NHS造成20亿英镑的损失。在这样的环境下，少数族裔员工比白人同事更不愿意公开谈论患者安全问题，他们担心自己的关切不会被理解或受到重视。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T16:58:17.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/22/minority-ethnic-nhs-staff-pay-a-heavy-price-for-speaking-up-about-patient-safety"
+          }
+        ]
+      }
+    ]
+  }
+]
