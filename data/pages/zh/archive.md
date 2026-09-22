@@ -33,14 +33,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **58** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **59** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-22 07:28 (UTC+8)
+- **最新归档时间**：2026-09-22 13:20 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-22 13:20 (UTC+8)" title="全球要闻情报简报 · 13:20" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-22 13:08 (UTC+8) 完成，共获得 8 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】遭受家庭暴力出逃后被指控拐带子女的英国母亲迎来希望：对《海牙公约》的法律分析可能为逃离海外虐待伴侣的女性带来新的保护 英国母亲在逃离海外家庭暴力后带着子女返回英国，可能因此被指控拐带子女；她们或将获得更有力的法律保护和支持。 英国政府已同意审查家庭暴力在国际儿童诱拐案件中所涉及的情况，旨在为家庭暴力幸存者提供更多帮助，使她们能够应对伴侣要求将子女送返其原籍国的诉求。 在英国，请拨打全国反家庭暴力求助热线0808 2000 247，或访问Women’s Aid网站。在美国，可拨打全国反家庭；【undefined】“大牙刷”崛起：我们的口腔是如何变成一个利润丰厚的市场的？：英国人对口腔健康的关注前所未有——如今，你可以买到益生元牙膏和价格高达600英镑的牙刷。然而，我们仍处于一场严重的牙科危机之中。；【undefined】一根被切断的电缆导致美国各地数百个航班受影响：来自这一主题的帖子将被添加到您的每日新闻摘要和主页信息流中。 查看全部交通运输内容 线路已经修复，但延误仍在持续。 来自这位作者的帖子将被添加到您的每日新闻摘要和主页信息流中。 查看TC·索泰克撰写的全部内容 周一，新泽西州的施工人员意外切断了一根供空中交通管制使用的威瑞森光纤电缆，导致数百个航班被取消或延误。 美国联邦航空管理局局长布莱恩·贝德福德表示，一起电路故障导致人们发现了这根被切断的光纤电缆。据美国广播公司（ABC News）；【undefined】意大利设计：The Italian Lounge第四届活动在上海举行：The Italian Lounge第四届活动在上海落幕。该项目由Edimotion策划并组织，作为第58届中国国际家具展览会（Ciff）的一部分，于9月5日至8日举行。活动汇聚了14个意大利设计、家具、照明、表面材料、家用电器及家居用品品牌，旨在促进意大利与中国之间建立新的联系。参展品牌包括Arflex、Bialetti、Foscarini、Natuzzi Italia、Oluce、Seletti、Smeg、Tabu和Zafferan；【undefined】私人调查员监视自由党部长并向让·纳西夫提供录音设备，反腐委员会听证会获悉：沙恩·德·考威告诉反腐调查机构，他受Toplace律师沙朗甘·马赫斯瓦兰指示调查部长大卫·埃利奥特。；【undefined】OpenAI组建数学顾问组，其人工智能已解决100多个未决问题：周一，OpenAI宣布成立一个新的独立顾问组。该小组设在新泽西州普林斯顿的高等研究院，名为“数学与人工智能顾问组”，旨在让数学家更多地参与该公司以数学为导向的研究。；【undefined】探索未来：距离在TechCrunch Disrupt 2026门票上最高节省200美元仅剩5天：距离在TechCrunch Disrupt 2026门票上最高节省200美元仅剩5天。接下来每一天，我们都会列出一个理由，说明你为什么应该在10月13日至15日前往旧金山莫斯科尼西馆（Moscone West），与1万多名创始人、投资者和企业运营者相聚。；【undefined】macOS 的平铺式窗口管理器 rift：加载时出错。请重新加载此页面。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/bpla-2119419268.html) <span class="news-meta-time">🕒 2026-09-22 13:05</span>
+- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://status.claude.com/incidents/7g1qpkyz5gxh) <span class="news-meta-time">🕒 2026-09-22 09:05</span>
+- [European Central Bank (欧洲央行官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html) <span class="news-meta-time">🕒 2026-09-22 13:00</span>
+- [The Guardian Society (卫报社会与民生)] [遭受家庭暴力出逃后被指控拐带子女的英国母亲迎来希望](https://www.theguardian.com/society/2026/sep/22/uk-mothers-domestic-abuse-child-abduction) <span class="news-meta-time">🕒 2026-09-22 12:00</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-written-women-studios-money-male.html) <span class="news-meta-time">🕒 2026-09-22 12:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/punkty-2119419129.html) <span class="news-meta-time">🕒 2026-09-22 13:04</span>
+:::
 :::timeline-item{start="2026-09-22 07:28 (UTC+8)" title="全球要闻情报简报 · 07:28" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-22 07:22 (UTC+8) 完成，共获得 24 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -635,18 +648,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours) <span class="news-meta-time">🕒 2026-09-10 07:01</span>
 - [Phys.org (基础物理与技术前沿)] [运气还是功绩？并非所有不平等都同样可接受](https://phys.org/news/2026-09-luck-merit-inequality-equally.html) <span class="news-meta-time">🕒 2026-09-10 09:40</span>
 - [Deutsche Welle (EN 官方英语)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236) <span class="news-meta-time">🕒 2026-09-10 09:48</span>
-:::
-:::timeline-item{start="2026-09-10 09:40 (UTC+8)" title="全球要闻情报简报 · 09:40" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-10 09:31 (UTC+8) 完成，共获得 774 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/sakhar-2116711061.html) <span class="news-meta-time">🕒 2026-09-10 09:27</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from) <span class="news-meta-time">🕒 2026-09-10 09:02</span>
-- [CNBC Markets (CNBC 市场官方英文)] [蚂蚁国际与Visa、万事达卡合作开发人工智能支付](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) <span class="news-meta-time">🕒 2026-09-10 08:00</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours) <span class="news-meta-time">🕒 2026-09-10 07:01</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-trapdoor-spiders-leg-science.html) <span class="news-meta-time">🕒 2026-09-10 09:20</span>
-- [FOX News Latest (美国FOX快讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.foxnews.com/outkick-sports/bryce-underwood-addresses-kyle-whittingham-comments-remaining-starting-qb-michigan) <span class="news-meta-time">🕒 2026-09-10 09:25</span>
 :::
 ::::
