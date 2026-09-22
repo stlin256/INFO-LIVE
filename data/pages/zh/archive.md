@@ -33,14 +33,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **59** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **60** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-22 13:20 (UTC+8)
+- **最新归档时间**：2026-09-22 18:08 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-22 18:08 (UTC+8)" title="全球要闻情报简报 · 18:08" org="ARCHIVE"}
+**速报纪要：** 本时段国际动态涵盖俄乌局势表态、德国地方政局应对讨论、斯里兰卡恐袭历史回顾以及科技巨头Meta面临的安全指控与高层回应。
+
+**关键信号：** 克里姆林宫发言人就乌克兰实现持久和平所需做出的决定作出公开表态。；德国联邦政府就萨克森-安哈尔特州可能出现的极端政党执政前景讨论“联邦强制”手段。；针对有关危害儿童的举报指控，Meta首席执行官扎克伯格的历史反驳与回应立场受到持续关注。
+
+**重点要闻索引：**
+- [Sputnik Globe (官方国际英文电讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://sputnikglobe.com/20260922/ukraine-aware-of-what-decisions-it-must-make-for-sustainable-peace-in-ukraine---kremlin-1124771993.html) <span class="news-meta-time">🕒 2026-09-22 18:04</span>
+- [The Verge (前沿数码科技)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram) <span class="news-meta-time">🕒 2026-09-22 18:00</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-22 17:23</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/22/prisons-uk-organised-crime-good-lads-respectful-pia-sinha) <span class="news-meta-time">🕒 2026-09-22 17:00</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-el-nio-weather-pattern-territory.html) <span class="news-meta-time">🕒 2026-09-22 17:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260922/minoborony-2119483578.html) <span class="news-meta-time">🕒 2026-09-22 18:04</span>
+:::
 :::timeline-item{start="2026-09-22 13:20 (UTC+8)" title="全球要闻情报简报 · 13:20" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-22 13:08 (UTC+8) 完成，共获得 8 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -637,16 +650,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [搬进护理院的年轻健康荷兰人——播客](https://www.theguardian.com/news/audio/2026/sep/10/the-young-and-healthy-dutchman-who-moved-into-a-care-home-podcast) <span class="news-meta-time">🕒 2026-09-10 10:00</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-interactions-geoscience-fieldwork-survey-path.html) <span class="news-meta-time">🕒 2026-09-10 10:20</span>
 - [ANSA Mondo (意大利安莎社官方意大利文)] [巴拿马评估聘用外国医生](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/10/panama-valuta-lassunzione-di-medici-stranieri_54c635f1-ad4a-443a-bffd-bd890bf20feb.html) <span class="news-meta-time">🕒 2026-09-10 10:31</span>
-:::
-:::timeline-item{start="2026-09-10 10:09 (UTC+8)" title="全球要闻情报简报 · 10:09" org="ARCHIVE"}
-**速报纪要：** 全球多源监控全景简报。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/filippiny-2116711937.html) <span class="news-meta-time">🕒 2026-09-10 09:51</span>
-- [Hacker News (科技前沿论坛)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from) <span class="news-meta-time">🕒 2026-09-10 09:02</span>
-- [CNBC Markets (CNBC 市场官方英文)] [蚂蚁国际与Visa、万事达卡合作开发人工智能支付](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html) <span class="news-meta-time">🕒 2026-09-10 09:53</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours) <span class="news-meta-time">🕒 2026-09-10 07:01</span>
-- [Phys.org (基础物理与技术前沿)] [运气还是功绩？并非所有不平等都同样可接受](https://phys.org/news/2026-09-luck-merit-inequality-equally.html) <span class="news-meta-time">🕒 2026-09-10 09:40</span>
-- [Deutsche Welle (EN 官方英语)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236) <span class="news-meta-time">🕒 2026-09-10 09:48</span>
 :::
 ::::
