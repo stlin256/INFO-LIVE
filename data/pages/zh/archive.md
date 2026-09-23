@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-23 · 今日](/INFO-LIVE/archive-2026-09-23/)
+- [2026-09-24 · 今日](/INFO-LIVE/archive-2026-09-24/)
+- [2026-09-23 · 历史快照](/INFO-LIVE/archive-2026-09-23/)
 - [2026-09-22 · 历史快照](/INFO-LIVE/archive-2026-09-22/)
 - [2026-09-21 · 历史快照](/INFO-LIVE/archive-2026-09-21/)
 - [2026-09-20 · 历史快照](/INFO-LIVE/archive-2026-09-20/)
@@ -34,14 +35,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **65** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **66** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-23 15:52 (UTC+8)
+- **最新归档时间**：2026-09-24 06:25 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-24 06:25 (UTC+8)" title="全球要闻情报简报 · 06:25" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-24 06:22 (UTC+8) 完成，共获得 28 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】Anthropic称其生物实验室已取得重大发现：上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。；【undefined】Windows 滚动条快捷操作简史：在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。；【undefined】如果连亚马逊都不知道如何消除碳排放，那还有谁会知道？：亚马逊首席可持续发展官周二表示，该公司尚不知道将如何实现到2040年净零碳排放的目标。；【undefined】多莉·帕顿遗产之争愈演愈烈，经纪人申请对这位明星的侄子发出限制令：周二，关于多莉·帕顿（Dolly Parton）遗产的激烈争端发生了戏剧性转折，这位乡村音乐偶像的长期经纪人向法院申请针对其侄子的限制令。；【undefined】纽约岛人队本赛季将对毫不知情的球迷推出美食“大灾难”：我们大多数人从小就明白一个道理：仅仅因为你喜欢两样独立的事物，并不意味着把它们组合在一起就能变成一个绝妙的新事物。；【undefined】堪萨斯州民主党人恳求卡玛拉·哈里斯不要与其同台竞选：“请不要来我的州”：堪萨斯州民主党参议员候选人亚当·汉密尔顿牧师（Rev. Adam Hamilton）周三对MS NOW表示，前副总统卡玛拉·哈里斯（Kamala Harris）应该远离他在堪萨斯州的竞选活动。此前，哈里斯曾前往密歇根州为民主党参议员候选人阿卜杜勒·赛义德（Abdul El-Sayed）助选，而汉密尔顿目前正努力在这个偏向共和党的州争取跨党派选民的支持。；【undefined】柴油价格飙升突破6.50美元 白宫排除柴油出口禁令可能：白宫周三否认了政府正考虑出台美国柴油出口禁令的消息，对总统唐纳德·特朗普（Donald Trump）和财政部长斯科特·贝森特（Scott Bessent）前一天发表的言论进行了澄清。此前，随着全美平均柴油价格突破每加仑6.50美元，两人的言论似乎为施加限制保留了可能性。一名白宫官员否认了关于政府正在准备出台为期90天的柴油出口禁令的报道，同时能源部长克里斯·赖特（Chris Wright）表示，没有任何人在考虑全面禁止出口。赖特称，相反；【undefined】OpenAI侵入国民医疗保险系统，阿尔巴尼斯披露：更新于2026年9月24日 — 上午7:56，首次发布于上午6:25 您已达到保存条目的最大上限。 请从您的保存列表中移除条目以继续添加。 澳大利亚总理安东尼·阿尔巴尼斯（Anthony Albanese）披露，今年6月，一个人工智能智能体（AI agent）潜入了一处国民医疗保险（Medicare）网站，访问了公开与非公开文件，并将文件写入了一台内部服务器。 阿尔巴尼斯在纽约向记者表示，该事件涉及一个OpenAI的智能体未经授权访问了
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260924/sderzhivanie-2119892358.html) <span class="news-meta-time">🕒 2026-09-24 06:20</span>
+- [TechCrunch (硅谷创业与资本)] [Anthropic称其生物实验室已取得重大发现](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/) <span class="news-meta-time">🕒 2026-09-24 06:17</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-24 06:15</span>
+- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose) <span class="news-meta-time">🕒 2026-09-24 06:00</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-starch-based-sensor-moisture-food.html) <span class="news-meta-time">🕒 2026-09-24 06:20</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260924/figuranty-2119892171.html) <span class="news-meta-time">🕒 2026-09-24 06:19</span>
+:::
 :::timeline-item{start="2026-09-23 15:52 (UTC+8)" title="全球要闻情报简报 · 15:52" org="ARCHIVE"}
 **速报纪要：** 当地时间9月22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论发言时表示，韩国将积极创造条件，推动陷入停滞的朝美对话尽早重启，并推进朝鲜半岛和平机制建设。
 
@@ -640,18 +654,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [英朝野两派议员敦促下院勿冒“极大风险”强推辅助死亡法案](https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill) <span class="news-meta-time">🕒 2026-09-10 23:25</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-white-graphene-reshaped-atomic-scale.html) <span class="news-meta-time">🕒 2026-09-11 00:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/hashagov-2116902682.html) <span class="news-meta-time">🕒 2026-09-11 00:09</span>
-:::
-:::timeline-item{start="2026-09-10 23:53 (UTC+8)" title="全球要闻情报简报 · 23:53" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-10 23:50 (UTC+8) 完成，共获得 791 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/politsija-2116897367.html) <span class="news-meta-time">🕒 2026-09-10 23:48</span>
-- [TechCrunch (硅谷创业与资本)] [The Boring Company获阿联酋领投的30亿美元融资](https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/) <span class="news-meta-time">🕒 2026-09-10 23:07</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 23:34</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill) <span class="news-meta-time">🕒 2026-09-10 23:25</span>
-- [Phys.org (基础物理与技术前沿)] [太阳最大的太阳黑子或具备引发超级耀斑的潜能](https://phys.org/news/2026-09-sun-largest-sunspots-potential-trigger.html) <span class="news-meta-time">🕒 2026-09-10 23:40</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/putin-2116897195.html) <span class="news-meta-time">🕒 2026-09-10 23:47</span>
 :::
 ::::

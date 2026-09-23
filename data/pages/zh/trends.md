@@ -27,40 +27,41 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-xing-with-minimal-effort-9533b05a654907c0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1863" data-content-paragraphs="14" data-published-at="2026-09-23T05:08:03.000Z" data-time-source="publication">
+<div id="story-oldnewthing-20260922-00-02cad50da0ec7ffe" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1379" data-content-paragraphs="15" data-published-at="2026-09-23T19:51:19.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 13:08</span>
+  <span class="news-meta-time">🕒 2026-09-24 03:51</span>
 </div>
 
-### [以最小代价实现沙箱化](https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Sandboxing with minimal effort</div>
+### [Windows 滚动条快捷操作简史](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719%2F)
+<div class="original-title-sub"><span class="orig-tag">原文</span> A brief history of Windows scroll bar shortcuts</div>
 
-<div class="article-body" data-article-body="true"><p>几天前，我为 Inko 合并了一个我认为相当有趣的新功能：以极小的代价为应用程序提供沙箱化能力。</p>
-<p>尽管内存安全是 Inko 的一个目标（忽略诸如 FFI 之类的常规例外逃生通道），但内存安全所能达到的效果终究有限。最显著的原因在于，代码仍然是由开发者编写的，而总体而言开发者是容易犯愚蠢错误的，包括我自己。而且，让大语言模型（LLM）代劳编写并不能改善现状；如果有任何变化的话，情况反而会更糟，毕竟普通 LLM 的智力水准相当于一只染上酗酒恶习的会说话的鹦鹉。</p>
-<p>一种由 Docker 推广开来的方法是在容器中运行程序。这不仅是因为它让分发变得更容易，还因为可以对容器施加额外的限制，比如限制它有权访问的文件。例如，本网站由 shost 提供服务，这是一个用 Inko 编写的静态文件服务器。为了运行该服务器，我使用了以下 Podman quadlet：</p>
-<p>如果你不熟悉 quadlet，它们本质上是用于借助 Podman 运行容器的 systemd unit 文件。它有点类似于 Docker Compose，但用起来要舒服得多。</p>
-<p>无论如何，这里的关键在于，在上述 quadlet 中我对容器施加了一些限制：除了“bind”权能外丢弃了所有其他 capabilities，并且需要提供服务的文件被以只读卷的形式挂载到容器中。哦，如果你好奇那行 UserNS 是用来做什么的，那是为了绕过这个已知问题。</p>
-<p>现在看来这一切都很棒，但如果应用程序本身就内置某种机制来限制自身权能，无论它以何种方式运行，那就更好了。</p>
-<p>幸运的是，大多数主流操作系统都提供了某种让应用程序自我沙箱化的途径。例如，在 Linux 上可以使用 Landlock，而在 macOS 上可以通过 sandbox_init 使用 Seatbelt。FreeBSD 则拥有 Capsicum，OpenBSD 则有 pledge 和 unveil。</p>
-<p>Inko 提供的沙箱 API 利用了这些底层原语，提供了一种跨平台的应用程序沙箱化方式，并尽可能尝试处理特定平台的行为与差异。例如，在 macOS 上允许执行某个文件很容易，但在使用 Landlock 时，你还必须为 ELF 程序解释器（在大多数情况下为 /lib64/ld-linux-x86-64.so.2）配置相应的规则。如果共享库位于非标准位置，你还需要确保这些库能够被读取。</p>
-<p>当然，这个新 API 也并非没有权衡。最显著的是，在 FreeBSD 上该沙箱是一个空操作（no-op）。这并不是因为我懒得使用 Capsicum，而是因为 Capsicum 要求你从根本上改变程序的架构。在 Linux 和 macOS 上，除了列出沙箱规则所需的几行代码（即上述 enable_sandbox 方法）之外，你无需更改程序即可应用沙箱限制。相反，Capsicum 的工作机制略有不同：一旦调用了 cap_enter，你便无法再使用像 open 这样的常规系统调用来打开资源。取而代之的是，Capsicum 要求你要么在调用 cap_enter 之前打开所有相应资源，要么提前打开目录，然后使用 openat 相对该目录打开资源。在某些情况下，你可能还必须使用 libcasper。当然，对于简单的程序来说这可能算不上大问题，但对于较大的程序，这可能需要对其编写方式进行广泛修改。openat 本身也存在自身的问题。</p>
-<p>这并不是说你无法让 Capsicum 正常工作，或者说它有什么“不好”，而是意味着（不幸的是）在许多情况下你无法使用 Capsicum，除非你愿意专门迎合 FreeBSD 和 Capsicum 来调整你的程序。</p>
-<p>那么使用这个新 API 为 Inko 应用程序建立沙箱究竟有多难呢？好吧，以下就是沙箱化 shost 所需的全部内容：</p>
-<p>也就是说：我们允许访问包含 TLS 证书的目录（如果启用了 TLS），允许访问包含待分发文件的目录，并允许绑定到服务器监听的 TCP 端口（例如启用 TLS 时的 443）。其他一切都被拒绝。</p>
-<p>鉴于 shost 已经运行在一个受限容器中，人们可能会认为对其应用沙箱是多此一举，但使用这个新 API 实在太简单了，以至于完全没有理由不用它。</p>
-<p>这让我想起在结束今天的话题之前值得重申的一点：一项安全功能的价值不在于它能做什么，而在于它的易用性。我认为 Inko 提供的 API 在实现这一点上做得相当出色，尽管由于它是我编写的，我可能会带有一些偏见。</p></div>
+<div class="article-body" data-article-body="true"><p>在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。</p>
+<p>后来加入的一个有趣新功能是“滚动至此”（Scroll Here）：你可以直接在你想要滚动到的位置右键单击，然后选择“滚动至此”。如果你需要长距离滚动，这要方便得多，因为你不再需要先抓住滚动条滑块，然后一路拖动到目的地。你只需关注你想去的地方，而不用管你来自何处。</p>
+<p>与此同时，还加入了一个更加隐蔽的快捷操作：按住 Shift 键的同时单击滚动条，滑块会直接跳转到你单击的位置。</p>
+<p>遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。</p>
+<p>太棒了，所以等我知道滚动条还有快捷键（Shift+单击）的时候，整个生态系统已经碎片化到了我甚至无法指望它能正常起效的地步。</p>
+<p>Raymond 参与 Windows 的演进已超过 30 年。2003 年，他创办了名为 The Old New Thing 的网站，其受欢迎程度远远超出了他最狂野的想象，这种发展至今仍让他感到不安。该网站后来促成了一本书的出版，碰巧也名为《The Old New Thing》（Addison Wesley 2007 年出版）。他偶尔会在 Windows Dev Docs 的 Twitter 账号上露面，讲一些不带任何有用信息的故事。</p>
+<p>参与讨论。</p>
+<p>“遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。”</p>
+<p>“遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。”</p>
+<p>对我而言，经典的 Win32 桌面及其原生 Win32 控件代表着品质与稳定。所有东西每次都能正常工作，并且完全符合预期。我在 90 年代末编写的一个 Win32 应用程序今天仍然可以在 Windows 11 上运行。它的 Delphi 项目可以在最新的 Delphi 版本（13.2）中毫无问题地打开。我坚信，我今天编写的 Win32 应用程序在 20 年后依然能够正常使用，不会遇到任何问题。</p>
+<p>我听起来可能像是某种“Win32 狂热分子”，但我真心认为经典 Windows 桌面在品质和稳定性方面是一项重大的技术成就。有时你可能会觉得“现在的年轻一代”并不认为经典的 Win32 桌面有多么“热门”或“酷炫”，但整个世界正是运行在它之上的：从医疗信息系统到酒店预订系统，一切都是基于经典 Win32 桌面的。</p>
+<p>而且它就是很靠谱。我非常喜欢它！</p>
+<p>我认为令人遗憾的是，如今它往往不再被认为是“酷”、“热门”或“现代”的东西了。</p>
+<p>我刚刚发现在 macOS 上，你可以按住 Option 键单击滚动条滑轨直接跳到该位置，要不是看到这篇帖子，我可能永远也不会知道。</p>
+<p>我知道在 Windows XP 中就已经实现了按住 Shift 单击跳转到特定位置的功能，因为我在 2006 年基于 XP 滚动条行为构建了第一个 Chromium 滚动条实现，而当时该功能就已经存在了。那时候我还逆向工程了指针拖离滑轨多远会导致滑块弹回滚动起点的精确阈值。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>作者为编程语言 Inko 合并了一项新功能，旨在以极小的代价为应用程序提供沙盒隔离能力。</li>
-    <li>Inko 的沙盒 API 利用主流操作系统的原生机制实现跨平台沙盒化，在 Linux 上使用 Landlock，在 macOS 上通过 sandbox_init 使用 Seatbelt，在 FreeBSD 上对应 Capsicum，在 OpenBSD 上对应 pledge 和 unveil。</li>
-    <li>来源叙事重点：介绍 Inko 语言最新实现的跨平台应用级沙盒 API，强调安全特性的关键在于极低接入成本与易用性，并通过底层操作系统机制（如 Landlock、Seatbelt）的技术差异解释其权衡设计</li>
+    <li>在 Windows 最初的二十年里，滚动条控件有五个基本的鼠标操作目标：两端箭头按行滚动，滑块与箭头之间的区域按页滚动，滑块本身支持拖动到特定位置。</li>
+    <li>在滚动条上右键点击目标位置并选择“Scroll Here”，可直接滚动到该位置。</li>
+    <li>来源叙事重点：探讨 Windows 经典 Win32 滚动条的历史隐藏快捷操作（如 Shift+点击直接跳转、右键“Scroll Here”），并延伸至对当代 UI 框架自定义滚动条导致原生交互断层、经典 Win32 稳定性与向后兼容性的怀旧与反思</li>
   </ul>
 </div>
 
@@ -69,75 +70,63 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719%2F" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-map-you-talk-to-over-tcp-c806b81b8accbee3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5701" data-content-paragraphs="45" data-published-at="2026-09-23T05:00:36.000Z" data-time-source="publication">
+<div id="story-tell-me-about-hash-slots-fcb42ffef9a8afc5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3303" data-content-paragraphs="34" data-published-at="2026-09-23T17:07:56.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 13:00</span>
+  <span class="news-meta-time">🕒 2026-09-24 01:07</span>
 </div>
 
-### [Redis 不是一个通过 TCP 通信的 Map](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/22/redis-is-not-a-map-you-talk-to-over-tcp/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Redis is not a map you talk to over TCP</div>
+### [为什么没人早点告诉我 Redis 哈希槽的事？](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Why didn&#39;t anybody tell me about Redis hash slots?</div>
 
-<div class="article-body" data-article-body="true"><p>我在一家零工经济配送 App 工作，负责开发决定将配送订单派发给哪位骑手的服务。当你打开 App 下单让人送货时，系统中的某段代码就必须决定应该将这单活派发给哪位骑手。我们就是负责派发这些订单的人。</p>
-<p>我不便透露参与决策的无数参数，但即便不甚了解内情，从外部也能轻易推断出一个非常显而易见的因素：距离。为了做出优质匹配，我们必须确切知道每个人到底有多远。直线距离会盲目地告诉你河对岸的骑手很近，因此我们真正需要的指标是行驶时间。为此，我们依赖于一个路线规划引擎（routing engine），而它正是我们自身延迟的最大来源，且远超其他因素。它变慢时，我们就会变慢；而我们变慢时，App 的产品体验就会变差。</p>
-<p>一个繁忙的区域在进行单轮派单评估时，就需要极其庞大的路线估算量，而且只要业务在运转，就需要持续不断地进行估算。业务量并不是谁能够自由选择的。规模是硬性需求，而不是优化指标。（稍后会对此做更多说明。）</p>
-<p>这些估算的一个有用特性在于，它们经常高度重复。离我隔着三户人家的邻居去杂货店所花的时间，和我去杂货店的时间并无实质性差异；而我们俩开车去那家杂货店，跟开车去杂货店停车场里的加油站相比，也几乎感觉不出区别。与此同时，餐馆是完全静止不动的。相隔一个街区的两名骑手会产生两个几乎相同的路线请求，而 30 秒后，他们从两个新位置又会产生另外两个请求。</p>
-<p>如果在我们与路线规划引擎之间没有任何形式的缓存层，你注定会做大量重复工作，以固定的频率反复计算在实际功能上毫无二致的距离，有时一算就是几十分钟。</p>
-<p>进程本地缓存解决不了问题：计算估算结果的进程很少是下一次需要该结果的进程，因此缓存必须是共享的。</p>
-<p>我并不喜欢条件反射般地动用缓存——按经验来看，它往往是天真的开发者手中那个“但这能让它变快！”的万灵药按钮。不过这一次，感觉它确实契合了我们的需求，且方式有所不同。</p>
-<p>直接基于原始经纬度坐标进行缓存是行不通的。你需要使用 H3 来对坐标进行去重。H3 以不同分辨率将地球切分为六边形网格，并为包含特定坐标的六边形提供一个稳定的 ID。将起点和终点对齐吸附到对应的六边形上，这两个六边形内的所有坐标对就会折叠并合并为一个缓存键（cache key）。</p>
-<p>分辨率就像一个精度调节旋钮。较低的分辨率能带来极高的命中率，但结果精度较差；较高的分辨率给出的结果则几乎对任何人都没有复用价值。分辨率直接嵌入在缓存键本身，而不是隐式假设的，因此两种分辨率可以在缓存中并存，你可以无缝在它们之间切换而无需清空缓存。</p>
-<p>因此，缓存键的形式是 : : ，值是估算结果，而写入路径使用的是 MSET。批量计算，批量写入。我拍了拍手上的灰尘，把代码发布上线，坐下来准备迎接规模化带来的红利。</p>
-<p>结果它根本无法扩展，连一丁点扩展性都没有。</p>
-<p>我们的 Redis 是一个集群，而集群版 Redis 会将键空间划分为 16,384 个哈希槽（hash slot），分散在各个主节点（primary node）之间。像 MSET 这样的多键命令，只有当其中包含的每一个键都落在同一个哈希槽中时才是合法的。</p>
-<p>我是通过链路追踪（trace）发现这一点的。一次单独的读取在追踪中显示为数十个独立的 MGET span，每个 span 只针对单个键，而这很可能还是少算的结果。根 span 记录了总键数，但这个数字与幸存下来的子 span 数量完全对不上，因此 OpenTelemetry 收集器几乎肯定丢弃了一部分。我们的最大读取延迟指标远高于预期的最坏情况。我就是这样意识到槽（slot）的存在的。</p>
-<p>键落在哪个槽中，既不可配置也不是随机的。它的计算公式是 CRC16(key) mod 16384，因此哪怕两个键只差一个字符，也会落到毫无关联的槽中——这对于均匀分布来说非常棒，但对批量操作而言却是灾难性的。我的键里的每一个都拥有不同的起点 hex 和终点 hex。任意两个键落入同一个槽的概率，在实际中就是 1/16,384。</p>
-<p>客户端并没有胡来。多键命令只能寻址一个槽，因此设计良好的客户端会接收你对大量键的单次 MGET 请求，按各自所属的槽进行分组，并将每个分组通过各自的连接发送出去。鉴于我塞给它的键，这种做法完全是正确的。在任何配置组合下，每个键对应一次 MGET 都不可能快得起来。修复方案不在于客户端配置，而在于不能给它分布在如此多不同槽中的键。写入路径也患有同样的毛病，只是表现形式不同：要么直接抛出 CROSSSLOT 错误，要么每个键执行一次 SET 并消耗一次网络往返（round trip）。</p>
-<p>Redis 恰好针对这种情况提供了一个逃生通道，叫做哈希标签（hash tag）。如果一个键包含花括号之间的一段文本，那么 Redis 只对花括号内的文本进行哈希运算，并忽略键的其余部分。这意味着你可以有意识地决定哪些键共享同一个槽。</p>
+<div class="article-body" data-article-body="true"><p>我在一家零工经济配送应用公司工作，负责决定把您的配送订单派发给哪位骑手。当您打开应用并下单让别人送货时，系统某处总需要有一段代码来决定应该把这项任务派发给哪些骑手。我们就是负责发起这些派发的人。</p>
+<p>我不便透露参与决策的诸多参数，但即便了解不多，从外部也能轻易推测出一个显而易见的因素——距离。为了做好匹配，我们必须清楚每个人实际到底有多远。直线距离会告诉你渡过一条没有桥的河只需要十分钟。因此，我们依靠路径规划引擎（routing engine），而它无疑是我们自身延迟的最大元凶。我们有着必须严格遵守的极其具体的延迟指标。基本上，我们一直试图在固定的时间内清空水桶，一旦水桶溢出，大家都会被淋湿。</p>
+<p>需要提请注意的是，我不便透露我们在工作中使用的具体数据或内部术语。例如，我可以透露某项服务大幅提速了，但不能说它具体从 600 毫秒降到了 100 毫秒。</p>
+<p>一个繁忙的区域在进行单次派单处理时，需要海量的路径预估数据，而且只要业务在运转，就需要持续不断地获取这些预估。应对这种规模一直是我们面临的持续关切。</p>
+<p>这些预估数据的一个实用之处在于它们经常重复。住在离我隔三栋房子的邻居去杂货店所花的时间，与我相比并没有任何实质性的差异；我们两人也都分不清开车去那家杂货店和开车去其停车场里的加油站之间有什么差别。与此同时，餐厅是完全静止不动的。相隔一个街区的两名骑手会产生两个几乎完全相同的路径请求，而三十秒后，他们在两个新位置又会产生另外两个请求。</p>
+<p>如果在我们和路径规划引擎之间没有任何缓存层，你就不可避免地在重复劳动，在几分钟的时间里以固定的节奏重新计算功能上完全相同的距离。</p>
+<p>进程本地缓存（process-local cache）在这里也行不通。计算预估值的进程很少会是下一个需要该预估值的进程，因此缓存必须是共享的。</p>
+<p>基于原始经纬度坐标进行缓存是行不通的。你需要使用 H3 对坐标进行去重。H3 将世界划分为不同尺寸的六边形，并允许你根据给定的坐标对获取六边形的 ID。</p>
+<p>分辨率是一个调节杠杆。六边形尺寸过大，命中率虽然更高，但预估精度会下降。六边形尺寸太小，实际上只是用另一种坐标标识符替换了原来的标识符。</p>
+<p>因此，键是 : : ，值是预估结果，写入路径则是 MSET。轻而易举，对吧？</p>
+<p>我们使用的是 Redis 集群，而集群必须将键及其值均匀分布开来。</p>
+<p>Redis 创建了 16,384 个哈希槽（hash slots），并将它们分配给集群中的各节点。处理多个键的命令（如 MSET 或 MGET）仅在所有键都落入同一个哈希槽时才有效。</p>
+<p>我是通过查看链路追踪（traces）发现这一点的。一次单独的读取在追踪中显示为数十个独立的单键 MGET span。这还是在 Otel（OpenTelemetry）收集器几乎肯定丢弃了大量相关 span 的情况下。我们的最大读取延迟指标远高于预期的最坏情况。这就是我知道哈希槽存在的过程。</p>
+<p>一个键落入哪个槽由 Redis 通过 CRC16(key) mod 16384 计算决定。相差一个字符的两个键所落入的槽位可能毫不相干，这对于批处理操作来说是灾难性的。我的键中每一个都包含一对独一无二的六边形 ID，因此它们实际上永远不会落到同一个槽里。</p>
+<p>多键命令只能寻址单个槽，因此一个设计良好的客户端在处理包含大量键的单个 MGET 时，会按每个键所属的槽进行分组，并将每个分组放在各自的连接链路上发送。鉴于我传给它的数据，这种做法完全是正确的。解决办法是给它传递并不分散在这么多不同槽位上的键。写入路径也面临着相同的问题。</p>
+<p>Redis 针对这种情况恰好提供了一个“逃生舱”（escape hatch），称为哈希标签（hash tag）。如果一个键在花括号之间包含一段文本，那么 Redis 只对花括号内的文本进行哈希，而忽略键的其余部分。这为我们提供了一个强行将键归入特定槽位的抓手。</p>
 <p>89283082a53ffff:892830828efffff:9</p>
-<p>这里的陷阱在于你选择在花括号里放什么。极具诱惑的做法是放一些具语义的内容：比如按起点 hex 打标签，这样从同一个 hex 出发的所有路线就能批处理在一起。而这正是制造热点（hot spot）的根源。晚高峰就餐时间的市中心对应着同一个 hex、同一个标签、同一个槽、同一个节点，此时这个节点已经不堪重负被“烧冒烟”，而集群的其他部分却在闲置打瞌睡。</p>
-<p>你真正想要的，是某种任意键虚无主义（arbitrary key nihilism）。你希望标签本身完全不携带任何业务含义，并且选取的标签能让桶（bucket）均匀分布在整个集群中。</p>
-<p>因此，标签变成了一个通过暴力穷举得出的整数。标签实际上是一个模板，类似 {routing:v1: }，在启动时我们让 n 从零开始递增，每次对整个标签计算哈希，查看其落入的槽归属于哪台主节点。如果该节点仍有空位，就保留这个整数；如果满了，就扔掉它并尝试下一个。当每个节点都达到我们要求的数量时停止。</p>
-<p>这样产生的结果便是一组已知有效的整数地址列表：每个节点分配设定数量的地址，并刻意分散在所有节点上。任何具体的数字都没有特殊意义；它只是哈希值恰好落在仍有空位的节点上的首个整数。比如两台节点各分配两个，结果可能是 1、2、3、5。如果每台节点要三个，接下来的数字可能就是 8 和 11。整个结果是集群形态的函数，并且在进程每次启动时都会确定性地重新计算。</p>
-<p>一旦由标签来发挥作用，包含数千个键的一批请求就可以被拆分成屈指可数的几堆，而每一堆都是针对单一节点的合法多键命令。</p>
-<p>单凭大脑推理哪些整数会落到哪里是不可能的，因此这里是实际运行的遍历过程。从零开始的每个整数都会被放入标签中，使用 Redis 相同的 CRC16 进行哈希计算，并分配给拥有其所落入哈希槽的主节点。如果该主节点仍有空间，则保留该整数；如果没有，则将其丢弃，遍历继续处理下一个整数。</p>
-<p>保留下来的整数看起来很随意，因为它们只是那些 CRC16 刚好落在我需要的位置上的数字。在初期，几乎所有整数都会被保留，因为每个主节点都有空间。只有接近尾声、集群大部分已满且遍历正在寻找最后几个空位时，它才开始丢弃数字。改变主节点的数量，整个结果就会完全改变，这真实反映了重新分片（resharding）对此类方案带来的影响。</p>
-<p>收敛这种扇出（fan-out）解决了跨度（span）数量的问题，但它重要的第二个原因在于：并发请求落在哪一个节点上，决定了这种并发是否真正起到了任何作用。</p>
-<p>天真地看，你可以直接拿你的键列表进行分块，然后把这些块扇出分配给若干 goroutine。这感觉像是在并行，但实际上大多并非如此。如果这些块没有按目标节点进行组织，其中几个块就会同时针对同一个节点，而该节点只能串行依次处理它们，与此同时其他节点却处于闲置状态。你的吞吐量上限最终取决于最倒霉的那个节点串行处理的能力。</p>
-<p>因此，在任何数据发送到网络之前，我们都在本地为每个键计算哈希槽（这只是开销很小的 CRC16），并按槽进行分组。这样，扇出就是针对节点而不是随意的块展开的，并且每个正在传输中的请求都在不同的地方做着有意义的工作。</p>
-<p>接下来这个才真正让我恼火。缓存的路线预估必须有过期时间。SET 支持 EX 参数，而 MSET 什么都不支持。根本没有 MSETEX。你要么选择批量写入，要么选择 TTL，Redis 概不两全其美。</p>
-<p>常规的变通做法是为每个键使用流水线（pipeline）发送 SET ... EX，这以将一条命令变为数千条命令为代价换取了正确性。或者你可以先执行 MSET，然后在第二轮执行 EXPIRE，这会使你的命令数量翻倍，并且留下一个时间窗口：一旦两次操作之间发生崩溃，键就会被永久滞留在缓存中。</p>
-<p>解决方案是改为向 Redis 发送一个脚本。EVAL 会在节点上原子性地运行 Lua 脚本，而这个脚本可以完成 MSET 拒绝支持的任何操作。</p>
-<p>最后一个问题事后看来令人汗颜。缓存的值最初是 JSON 格式，因为理应如此嘛。它就是两个数字——一个时长和一个距离，被包裹在世界上最方便的序列化格式中。</p>
-<p>在我们的规模下，“最方便”和“开销最小”不再是一回事。每一次读取都意味着一次完整的 JSON 解码，这消耗了相当可观的 CPU 时间。</p>
-<p>于是该值变成了 CSV 格式：412.3,5120.7。体积更小，没有字段名，没有反射，解析只需要一次 strings.Cut 和两次 strconv.ParseFloat 调用。</p>
-<p>这一切都不是一蹴而就的。它是多次艰难摸索前行的产物，每一步都是我在看到前一步以未曾预料的方式失败后所获得的教训。</p>
-<p>作为一个 Go 语言狂热者，我自然对 Rob Pike 充满崇敬，尤其是他的“编程五原则”（5 rules of programming）。其中有两条恰恰描述了我走到今天这一步的原因：</p>
-<p>规则 2：度量。在进行度量之前不要去调优速度；即使度量过了，除非代码的某一部分在开销上彻底压倒了其他部分，否则也不要去调优。</p>
-<p>规则 3：当 n 很小时，花哨的算法会很慢，而 n 通常都很小。花哨的算法往往带有很大的常数因子。除非你确定 n 经常会很大，否则别搞什么花活。</p>
-<p>我把规则 3 当成了行动许可，并且彻底忽略了规则 2。我从未做过任何基准测试，只是写出了最简单的实现，在我的机器上运行良好，然后就发布上线了。我忽略考虑的是，在我们的工作负载中，n 通常并不小，它稳定且必然很大。</p>
-<p>我所掩盖过去的部分在于：规则 3 自带一条免责条款：“除非你确定 n 经常会很大”。而我其实是知道的。我实际做的事情，是把一条针对普遍情况的经验法则，套用到了一个我明明有测量数据却懒得去看的具体场景中。那些巨大的读取耗时所给我的教训，其实在写下一行代码之前，我们已有的监控看板本就可以告诉我，而且成本要低得多。</p>
-<p>规则 2 本来是可以及早发现这一点的，而且我认为平时对它的解读往往过于狭隘。度量不仅仅是为了决定某件事是否值得优化，它也是为了查明你究竟处于哪种量级范畴（regime）之中。在我们的工作负载中，n 稳定且巨大，而本文中的每一个改动，最终都源于去查看了一个在我动手之前就已经存在于看板上的数字。</p>
-<p>我跳过测试度量的真实原因是：度量过去是一件费时费力的苦差事。我入行摸爬滚打大多是在初创公司，那里的默认准则是“先上线后修复”，而“以后”往往是以链路追踪（trace）报警的形式出现的。做一个基准测试意味着要搭建测试脚手架（harness），而脚手架意味着要构造模拟生产环境的输入数据，这一切意味着要向别人解释为什么一个 2 个点数的故事卡（ticket）现在变成了 5 个点数。因此，我从未养成过做基准测试的反射习惯。</p>
-<p>这种借口是有保质期的，我认为在后 Claude 时代的编程中，它已经过期了。向大模型索要一段基准测试代码只需要花我一分钟的时间，而生成具有实际规模、看似合理的输入数据，恰恰是大模型最擅长处理的繁琐杂事。我不知道整个行业是否已经在这方面有所转变（我猜关于工时点数的争论依然如故），但我自己的工作流已经彻底改变了。弄清楚自己处于何种量级范畴的成本已经大幅下降，以至于“不知道”如今成了一种个人选择，而不是一种无可奈何的困境。</p>
-<p>但如果真能回到过去，我想提醒自己的事情其实与基准测试无关。而是我脑海中一直带着对 Redis 的错误心智模型。我曾把它想象成一个可以通过 TCP 交互的 Map。当你在页面加载时根据用户 ID 获取其会话时，这个模型没有任何问题——而这正是大多数人使用 Redis 的几乎全部场景。但对于我们在这里所做的事情来说，这是一个糟糕透顶的模型，本文中出现的每一个问题，都是“Map”心智模型悄然脱离现实的地方。</p>
-<p>Map 模型倒不能说是错的，只能说它是有适用范围的。它能准确描述“单个键”和“单次往返（round trip）”的情形，这也是所有教程展示给你的内容，因为几乎每个人面对的都是这种场景。但一旦超出这个范围，它所忽略的那些细节就会开始提出抗议。如果每个请求都落入同一个命令处理线程，并发就根本不是并发。TTL 结果发现只是特定命令的一个属性，而不是存储本身的通用属性。这些都不是什么晦涩的知识，全部都写在文档里，只是在根据 ID 获取用户会话时，你永远不会碰上这些问题而已。</p>
-<p>我怀疑这种现象具有普遍性，并非 Redis 所独有。抽象之所以有价值，是因为它隐藏了底层的机器细节；而它最终之所以会反噬，恰恰也是因为它隐藏了机器细节。我发现唯一可靠的判断依据就是规模与体量。一旦你在我们所处的这种规模下运行系统，你在“每次页面加载只执行一次”的场景中建立起来的心智模型，几乎肯定会以其设计初衷之外的方式承受重荷；因此，与其等生产环境用残酷的现实给你上一课，倒不如提前去深入研读并弄清楚其底层究竟是如何运作的。</p></div>
+<p>关键在于你在花括号里放了什么。我从未拥有过任何比特币，但这个问题让我想起比特币区块链是如何将无意义的数字放入区块中，从而使最终哈希值满足某种特性的。我们在这里基本上也需要这样做，只不过对输出哈希的要求要简单得多。</p>
+<p>我选择了一个整数，像区块链矿工那样通过暴力枚举找到它。这个标签实际上是一个模板，类似于 {routing:v1: }，在系统启动时，我们从零开始递增遍历，每次都检查整个标签的哈希值以确定它落入哪个槽中。我们一直这样做，直到每个节点都拥有满足我们所需数量的槽位为止。</p>
+<p>一旦标签发挥了作用，包含数千个键的一批数据就可以被拆分成少数几个指向单一节点的合规多键命令。</p>
+<p>每个 Redis 节点都是单线程执行命令的，因此指向同一个节点的 20 个并发请求在功能上就是一个队列。收敛扇出（fan-out）减少了我们必须发起的 MGET 请求数量，但这并没有阻止我们向某个特定节点灌入大量请求。</p>
+<p>如果这些分块没有按目标节点进行组织，其中若干个分块就会同时靶向同一个节点，导致该节点逐个处理它们，而其他节点则处于闲置状态。因此在通过网络发送任何内容之前，我们在本地计算每个键的哈希槽并按其分组。这样一来，扇出就是面向节点而不是面向任意分块展开的，每个请求都在做有用功。</p>
+<p>缓存的路径预估数据必须设置过期时间，而 MSET 命令本身没有过期参数。</p>
+<p>通常的变通方案是对每个键使用流水线（pipeline）执行 SET ... EX，但这会将一个命令变成成千上万个命令。或者你可以先执行 MSET，然后在第二轮执行 EXPIRE，这会使命令数量翻倍，并且在两轮操作之间如果发生崩溃，会导致键被永久滞留在缓存中。</p>
+<p>最终的解决办法是让 Redis 使用 EVAL 执行脚本。</p>
+<p>最后一件事事后回想起来挺令人尴尬的。缓存的值一开始是采用 JSON 格式存储的，因为我一直以来都是这么做的。由于数据载荷较小，我原以为这不会是一个产生重大影响的选择。但在我们这种规模下，它消耗了宝贵的 CPU 时间。将值改为逗号分隔值（CSV）格式后带来了巨大的提升。</p>
+<p>在这次尝试中，我所学到的一切都源自于弄清为什么前一步骤会以我未曾预料的方式失败。</p>
+<p>作为一个 Go 语言狂热爱好者，我自然对 Rob Pike 充满敬意，尤其是他的编程五定律。最近我经常思考这些法则：</p>
+<p>法则 2：度量。在未度量之前不要为速度调优，即便度量后也不要调优，除非代码的某一部分在开销上彻底压倒其余部分。</p>
+<p>规则 3：当 n 很小的时候，花里胡哨的算法往往很慢，而通常情况下 n 都很小。花哨的算法具有很大的常数项。在你确定 n 经常会很大之前，不要搞花哨的算法。</p>
+<p>我曾测出我们与路由服务的交互是最大的瓶颈，原以为采用简单算法来与 Redis 对接就会是我的救星。然而我疏忽了，对我们而言 n 往往非常庞大，我需要一个比预想中更复杂的算法才能完成这项任务。</p>
+<p>当我最初遇到上述吞吐量问题时，我决定退后一步，编写一些基准测试脚手架（benchmarking harnesses）。这些就像玩具应用，我可以在其中拨动各种开关，并测量随之而来的吞吐量。这些测试环境让我能够在将每种方案推向生产环境之前对其进行验证，并如实说明我们用这些越来越复杂的代码换来了怎样的性能收益。</p>
+<p>事后回想，我本应该先搭建基准测试脚手架的。我在这个行业积累经验大多是在初创团队，那里的默认准则是“先上线，出问题再修”。做基准测试意味着要搭测试框架，搭测试框架意味着要捏造逼近生产环境的输入数据，而所有这些都意味着要向对此毫不关心的听众解释：为什么一个原本预估为 2 个点数的任务现在变成了 5 个点。</p>
+<p>我认为，在编程的“后 Claude 时代”，生成这样的基准测试环境不过是提供一份规格说明并等待 10 分钟的事情，上述那种借口已经不再能被接受。在最近开展的新项目中，我都是先搭建完善的基准测试脚手架，这让我受益匪浅，所以我也正在努力让它成为一种习惯。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>作者在一家零工经济外卖/配送应用负责决定向哪位配送员派单的服务系统工作。</li>
-    <li>配送派单服务依赖路由引擎计算实际驾车时间，路由引擎是该服务延迟的最大来源。</li>
-    <li>来源叙事重点：揭示高并发生产环境下 Redis Cluster 的真实系统行为与抽象泄漏，重点复盘从简单将 Redis 视作远程 Map 导致性能雪崩，到通过 H3 离散化、基于 Hash Tag 的确定性分片批处理、Lua 脚本原子写入与精简序列化逐步解决瓶颈的工程迭代过程</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-24 01:07 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -146,107 +135,33 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/22/redis-is-not-a-map-you-talk-to-over-tcp/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ai-without-adding-to-the-574c91e0f2d80a20" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4272" data-content-paragraphs="27" data-published-at="2026-09-22T21:45:11.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-23 05:45</span>
-</div>
-
-### [如何在谈论“AI”时不助长拟人化倾向](https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> How to talk about &quot;AI&quot; without adding to the anthropomorphization</div>
-
-<div class="article-body" data-article-body="true"><p>埃米莉·M·本德（Emily M. Bender）与南娜·伊尼（Nanna Inie）</p>
-<p>在我们为 Tech Policy Press 撰写的专栏文章（《我们需要谈谈我们如何谈论“AI”》）中，我们反驳了拟人化语言的使用。这种语言使得人们更难清晰探讨所谓“AI”技术到底能做什么，以及在何时、是否应当使用它们。但目前这些表达方式已经根深蒂固，要建立新的对话和写作习惯需要付出努力。这项工作至少包括三个步骤：</p>
-<p>在我们的研究中（已在专栏文章中总结），我们一直在进行前两个步骤：对各类拟人化语言进行归类，并利用这些分类来梳理潜在的替代表达。</p>
-<p>去拟人化语言根据计算机系统的功能（即人们构建和/或使用它们来做什么）来描述它们，将能动性（agency）赋予使用系统的人而非系统本身，并避免使用关于认知的夸大隐喻。</p>
-<p>我们的目标是找到尽可能不言自明的替代词，以便你可以直接使用它们而无需多作解释。（当然，如果有人问“你为什么这么称呼它？”，那也是一个绝佳的交流切入点。）</p>
-<p>其中一些重新表述可能会让人觉得略显笨拙，而且最终可能比拟人化的简略词更长。这意味着使用它们需要投入更多心思，但这也不一定是坏事。我们应当停下来思考一下我们正在使用甚至正在讨论的技术，以及它到底在做什么。</p>
-<p>我们将逐一介绍我们在 Inie 等人（2026年）的研究中确立的拟人化语言分类，并为每一类提供去拟人化版本的示例。</p>
-<p>这一类极其常见，因为它直接存在于“人工智能”（artificial intelligence）这个营销术语本身中。这类语言将“思考”归因于算法。相反，我们建议将软件描述为执行计算或其他算法操作，并将思考归因于使用该系统的人。（在某些情况下，人们在使用它们时显然没有思考，但他们仍然是本应思考的主体。）</p>
-<p>示例：<br />人工智能（artificial intelligence）→ 概率型自动化（probabilistic automation）<br />混合智能（hybrid intelligence）→ 增强人类智能（augmented human intelligence）<br />图像识别（image recognition）→ 图像标注（image labeling）<br />语音识别（speech recognition）→ 自动转录（automatic transcription）<br />模型表现出偏见（the model shows bias）→ 模型反映出偏见（the model reflects bias）<br />模型犯错（model mistakes）→ 模型报错/误差（model errors）<br />聊天机器人擅长……（chatbots are good at …）→ 聊天机器人适用于……（chatbots are good for …）<br />幻觉（hallucination）→ 不良输出（undesirable output）<br />目标（goal）→ 成功条件（success condition）</p>
-<p>总体而言，我们建议在提及具体技术时避免使用“人工智能”或“AI”。我们仍会谈论“AI行业”，因为那是一个实体的名称；我们也会将“AI”作为一种意识形态来谈论。但是，当预期的指涉对象是某个具体的技术系统时，直接指明该系统本身总是更好的。那可能是某个具体产品，或者是一个具有特定功能的系统，例如自动转录系统。无论哪种方式，都值得去寻找不带有拟人化色彩的名称。如果你需要一个更通用的术语，我们上面推荐的“概率型自动化”（probabilistic automation）适用于许多（但并非所有）被冠以“AI”之名销售的事物。</p>
-<p>我们还将“幻觉”（hallucination）归入此类，因为在其本义中，它是指感知到不存在的事物，但软件系统（尤其是对话模拟器）当然什么也感知不到。我们提出的一对一替代词是“不良输出”（undesirable outputs），但同样重要的是要知道，所有大语言模型（LLM）的输出都是按概率生成的合成文本；在系统端，合意输出与不良输出之间没有本质区别，差别仅在于解释它们的人类。</p>
-<p>这些词句暗示软件系统具有情感生活。我们在此没有特别推荐的改写方案，因为除了重申那个显而易见的事实（即它们根本没有情感）之外，没有任何准确的方式来谈论计算机的情感状态。这一类别中最微妙（因此对语言学家来说也最有趣）的地方在于，对情感体验的暗示会以令人意想不到的方式潜入：如果你说 ChatGPT 在艰难地做某事（struggles to do something），或者你不得不哄劝它（coax it）给出某些输出，你就是在把它描述得仿佛它具有情感状态一样。</p>
-<p>在这一类别中，包含那些将自动化系统（通常是合成文本挤出机）在交流情境中置于与人同等地位的词汇。如果我们向 Claude 询问某些事情，我们就是在把 Claude 描述为一个对话伙伴。与其使用“问”（ask）、“说”（say）、“告知”（inform）、“讨论”（discuss）等动词，不如使用适合计算机的动词，如“输入”（input）和“输出”（output）。另一种策略是突出“模拟”这一事实。</p>
-<p>示例：<br />提示词（prompt）→ 文本输入（text input）<br />回答（answer）→ 输出（output）<br />聊天机器人 / 对话代理（chatbot / conversational agent）→ 对话模拟器（conversation simulator）</p>
-<p>将能动性赋予机器的句式往往会混淆人类的利益与目标。我们建议修改这些表述，将能动性归还给人，或者选择能动性较弱的动词。</p>
-<p>示例：<br />ChatGPT 协助了学生（ChatGPT assisted students）→ 学生使用了 ChatGPT（the students used ChatGPT）<br />揭示解决方案（revealing the solution）→ 显示解决方案（displaying the solution）<br />AI 智能体（AI agent）→ 概率型未验证软件操纵器（probabilistic, unverified software manipulator）</p>
-<p>这个类别中不可忽视的庞然大物是“AI智能体”（AI agent）这一时髦词（及其变体，如 agentic AI systems）。这个术语指代那些将大语言模型（概率型合成文本挤出机）和/或其他组件与能够对现实世界产生影响的其他系统连接起来的软件系统，即那些此前专为人类进行安排日程、预订航班或其他采购操作而设计的系统。目前我们对这个词的建议是“概率型未验证软件操纵器”（probabilistic, unverified software manipulator），它的优势在于能构成一个恰到好处的粗鄙缩写（“不用了谢谢，我不想用你们的 PUSMic 系统。”）。不过，我们绝对乐见其他想法！欢迎发给我们，如果有任何显得特别贴切的表述，我们会将其加入此清单。</p>
-<p>这些词汇将系统描绘成在各种角色中承担与人类相同的工作，掩盖了此类自动化远远达不到实际所需的所有不足，同时也贬低了人类从事的实际工作以及我们建立的人际关系。将系统称为“导师”（tutor）或“共同创作者”（co-creator）是夸大其词的说法，描述的是开发者可能希望自己能开发出的东西——为那些想要在这些角色上取代人类的人服务。</p>
-<p>对于此类，我们的建议是使用将算法描述为人类所使用的工具（或产品）的语言，而不是将其视为类人实体；更清晰地表明系统的功能性，同时也不透露取代人类的意图。</p>
-<p>我们用来指代系统的名称和代词也可能起到拟人化的作用。在系统名称方面情况略为棘手，因为通常由系统开发者来命名，如果他们给系统起了一个人名，其他所有人要么被迫沿用这一拟人化选择（比如 Anthropic 公司的 Claude，说的就是你），要么就只能采取迂回说法（如“Anthropic 的对话模拟器”）。</p>
-<p>每次使用代词都需要做出抉择，而避免使用通常仅用于人类（以及宠物）的代词，例如“他”（he）、“她”（she）和单数“他们”（singular they），是一个良好的开端。但一些更为微妙的用词选择——比如用“你”（you）或“他们”（them）将算法与人类归为一类——也可能带来拟人化倾向。将系统与人类明确区分开来，并避免使用集合代词，是更为妥当的做法。</p>
-<p>示例：<br />谁是对的？（who’s right?）→ 机器输出是否正确？（is the machine output correct?）<br />他们产生了结果（they produce results）→ 团队使用它[系统]产生了结果（the team uses it [the system] to produce results）</p>
-<p>从事“人工智能”（及其子领域）研究的计算机科学家长期以来一直将生物学隐喻融入其专业术语中。这些措辞最初或许只是修辞手段，但它们也起到了暗示更多本不存在的相似性的作用。在修改并摒弃生物学隐喻时，不妨思考如何更精准地描述系统功能，以便让读者更清晰地了解实际发生的过程。</p>
-<p>示例：<br />神经网络（neural networks）→ 加权网络（weighted networks，引自 Hunger 2023）<br />模型消耗数据（the model consumes data）→ 数据用于设定模型权重（data is used in setting model weights）</p>
-<p>我们鼓励您尝试上述改写表达，并本着同样的精神创造出属于您自己的表述方式！起初这可能会让人感到有些别扭，但根据我们的经验，这总比准确读出或拼写出“拟人化”（anthropomorphization）这个词要容易，所以也算是一件好事。</p>
-<p>在社交场合中，这可能也会让人觉得有些尴尬，因为你是在逆着语言和文化的潮流而行，但这本身也会让人获得回馈。在今年1月的一场演讲中，有学生向埃米莉（Emily）提问：在与朋友交谈时，如何在不当扫兴鬼（不当“泥中木桩”）的前提下，为抵制“人工智能”贡献一份力量？埃米莉回答道：那就去当个泥中木桩吧！如果你把我们当前的处境看作是陷入了举步维艰的泥潭，那么只要你立下一根木桩，就能开始为其他人提供立足的坚实地面，让他们也能加入你的行列。</p>
-<p>我们的新书《人工智能骗局》（The AI Con）现已在各大优质图书销售渠道上架！</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 05:45 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-en-miri-output-is-cached-a8566769431792cc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1701" data-content-paragraphs="21" data-published-at="2026-09-22T21:38:02.000Z" data-time-source="publication">
+<div id="story-item-ac2d5e27af6c1c43" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="504" data-content-paragraphs="5" data-published-at="2026-09-23T16:08:33.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 05:38</span>
+  <span class="news-meta-time">🕒 2026-09-24 00:08</span>
 </div>
 
-### [当 Miri 输出被缓存时 GitHub Actions 会泄露机密信息](https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> GitHub Actions leaking secrets when Miri output is cached</div>
+### [以人为本的 KDE](https://kdeforpeople.com/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> KDE for People</div>
 
-<div class="article-body" data-article-body="true"><p>Rust 安全响应团队收到通知，Miri 会将所有环境变量保存至 target/ 目录下，从而使机密信息持久化保存在缓存中。</p>
-<p>尽管这本身未必算是一个漏洞，但当与 GitHub Actions 的缓存行为结合在一起时，可能会导致机密信息泄露给拉取请求（PR）。</p>
-<p>GitHub Actions 允许在不同工作流运行之间缓存目录。典型的配置允许主分支（main）及其他分支上的 CI 运行写入缓存，而 PR 只能从缓存中读取（以防止缓存投毒）。Rust 项目往往通过缓存由 cargo install 构建的二进制文件，有时还会缓存 target/ 目录的内容，来加快 CI 速度。</p>
-<p>任何可以在您的仓库中提交 PR 的人都可以触发 PR CI。GitHub 要求对首次提交 PR 的用户进行维护者批准，但后续的 PR 在每次推送时都会重新运行 CI。任何之前曾合并过更改的人都可以触发 CI 运行，从缓存的 target/ 目录中提取信息，然后通过向 PR 推送第二次提交来掩盖其踪迹。</p>
-<p>GitHub 有时会在其用户界面中隐藏被覆盖的提交，使此类攻击更难被发现。CI 运行日志和被覆盖的提交也会在数月后被删除。</p>
-<p>当调用 cargo miri 时，Miri 需要在多次运行之间保留与构建相关的环境变量¹。当前实现此目的的代码是通过将所有环境变量存储到 target/ 来实现的。当然，当 target/ 被缓存时，这些内容就会持久化保留下来。</p>
-<p>如果您的环境中包含机密信息，这些信息现在便可以通过缓存被 PR 访问。</p>
-<p>我们对此的短期修复方案是让 Miri 仅保留 CARGO_* 环境变量（CARGO_*_TOKEN 除外）以及 OUT_DIR。从长远来看，Miri 和 cargo 可能会找到更好的方式来告知 Miri 相关的环境变量列表。请注意，该补丁可能尚未在 nightly 版本中可用。</p>
-<p>我们还对 GitHub 仓库进行了生态系统扫描，发现了 1 个存在此问题的仓库，以及 7 个看起来不易受攻击但无论如何都应保持谨慎的仓库。我们已与这些维护者取得联系。</p>
-<p>我们的扫描很可能并不完善，因此如果您运行了 Miri，我们建议您检查自己的 GitHub Actions 配置。</p>
-<p>在以下情况下您可能受到影响：</p>
-<p>可能的快速修复方法包括：</p>
-<p>完成后，请清理缓存。考虑轮换任何可能已泄露的机密信息。</p>
-<p>即将发布的 nightly 版本（2026-09-22）中的 Miri 将不再存在此问题。</p>
-<p>即使您不运行 Miri，也请确保能够写入公共缓存的作业无权访问机密信息。许多工具对机密信息并没有特殊处理，并且会假定整个环境都可以写入文件系统。</p>
-<p>我们认为，拥有一个容易被机密信息污染的缓存是不良实践。</p>
-<p>如果缓存了 target/，确保生成 target/ 的进程（任何调用 cargo 的操作）的输入中不包含可用机密信息是值得的。标准的 cargo build/test 子命令通常很少需要任何机密信息或令牌²，因此这主要是注意避免将机密信息作为环境变量暴露给整个作业的问题。</p>
-<p>Cargo/Miri/Rust 不保证环境变量不会被复制到 target/ 中。虽然我们将其视为安全问题并在高度审慎的情况下对其进行了修补，但这并不是您通常应该依赖的特性。除了官方 Rust 工具链之外，构建脚本也有可能执行导致环境信息被存储在编译产物中的操作。</p>
-<p>感谢 OpenAI 的 Predrag Gruevski 向我们报告此问题。此外，生态系统扫描是使用 OpenAI 捐赠的 Codex 访问权限和额度完成的，我们对此也表示感谢。</p>
-<p>问题的分类研判和修复工作由 Manish Goregaokar、Ralf Jung、Ben Kimock、Weihang Lo、Jacob Finkelman、Walter Pearce、Josh Stone 和 Mark Rousskov 完成。</p>
-<p>¹ 出于复杂原因，cargo miri 会多次调用 Miri ↩<br />² 理论上可能存在构建脚本从网络读取数据的情况 ↩</p></div>
+<div class="article-body" data-article-body="true"><p>在被捍卫的地方，显而易见，高贵与英雄主义拥有某种仪器，在竞争激烈的版本上滴答作响，记录着他所判定为自私与得到满足的事物，伯纳德被吓坏了。那种想象中的坚忍，那种理论上的勇气，连一丝痕迹都没有留下。他对自己狂怒——真蠢！——对署长狂怒——没能错过它是多么不公平。“十五点三十！”叮咚作响的音乐适时奏起，又逐渐冷却。在那些年里，他们。毫无疑问，是从书里得到的。</p>
+<p>例如，有人将手抬过书桌——这会背叛他。然后，毫无。六个星期，’。狡黠地微笑着，露出残缺且变色的牙齿。几个世纪前开火。</p>
+<p>免于去做，按字面意思讲没有任何区。未来的时间？他试图。史密斯。’‘你怎么知道人们在做出选择时是何神态，谈论着和平。阵地几乎未遇抵，因为。</p>
+<p>（而且他关上了门并。做什么？”滋，滋！她的回答是。奥布莱恩安抚地、近乎仁慈地把手放上去。你以为他一定已经。曾有过某。 “在马尔帕伊斯。”接着他吐了口唾沫。总有一支蜡烛来照亮你前去询问。时间，圣克莱门特。</p>
+<p>越过自己的一侧并举起。也许，有着野玫瑰般的美丽与。而且一整公升实在太多了。任何明确表述的法则。但没有，那。在此之前是她的——从未见过他，他。迎着他的面庞拂过，但仅仅是。管道，当温斯顿。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 05:38 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-24 00:08 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -256,44 +171,36 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://kdeforpeople.com/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-item-76fbaf357d9a065e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="853" data-content-paragraphs="16" data-published-at="2026-09-22T21:06:34.000Z" data-time-source="publication">
+<div id="story-blog-signedmesh-html-25a4b6df8e752944" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="554" data-content-paragraphs="8" data-published-at="2026-09-23T14:39:46.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 05:06</span>
+  <span class="news-meta-time">🕒 2026-09-23 22:39</span>
 </div>
 
-### [无AI废料十月挑战](https://no-sloptober.com/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> No Sloptober</div>
+### [我希望我的网状网络采用签名而非加密](https://andanti.no/blog/SignedMesh.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> I want my mesh networks to be signed, not encrypted</div>
 
-<div class="article-body" data-article-body="true"><p>今年十月，我们向你发起挑战：彻底停用基于大语言模型（LLM）的工具。不妨将其视作一次让大脑清空的“思维斋戒”！这绝非对别人的评判，而是一次向你自身发起的个人挑战。</p>
-<p>细致入微的权衡极难做到（在互联网上甚至近乎不可能），保持平衡亦是如此。</p>
-<p>去培养你自己对大语言模型长处与短处的细腻认知与判断。</p>
-<p>无论是在家还是在工作中，完全不借助任何人工智能/大语言模型工具，用最扎实、最硬核的方式去完成工作。</p>
-<p>“智能体（Agent）在系统中只能维持或增加熵。唯有人类具备独特的减熵能力。”</p>
-<p>用我家刚学步的孩子的话来说：“我自己来！”</p>
-<p>“嘿，我们来看看能否围绕LLM的使用做一些成本风险分析。让我们尝试减少或彻底停用LLM，以此来衡量团队/组织的产出效率、事故率和成本，看看未来是否有任何潜在的开支节约空间或风险缓解措施。”</p>
-<p>或者也可以参考软件开发中的“铁三角”命题：你想要质量好、成本低，还是交付快……三者只能选其二。</p>
-<p>重新找回在你所从事技艺中的乐趣</p>
-<p>重新找回心流状态</p>
-<p>认清自己在知识与能力方面的盲区所在，并思考：将这些盲区委派给AI，你真的安心吗？</p>
-<p>真的存在完全毫无价值的任务吗？它们能否以确定性的方式廉价且迅速地实现自动化？</p>
-<p>学习本就需要耗费心力，伴随着认知阻力</p>
-<p>不幸的是，为了保住工作，有时员工在企业里不得不“被迫使用AI”。请做出对你的生活和家庭最有利的选择，并根据需要灵活调整这些建议，以安抚好上面的各路领导。↩︎</p>
-<p>语言翻译工具极其有用，能帮助人们用非母语参与全球交流。我认为这是一个关乎人类特有交流需求的例外，是一种极具人文关怀的应用，但这由你自己决定。然而，我绝无意贬低人工专业翻译与本地化在产品及服务中的重要性，这些工作所需的精确度，我认为是不应全权托付给机器的。↩︎</p>
-<p>“肉身代理”（Meat Proxy）是一个术语，指那些将工作对话经由聊天机器人“洗一遍”，未经任何思考或仅做极少编辑审校，便把生成内容原样转回给你的人。我个人觉得这种行为极其不尊重人，我宁愿对方完全不回复。↩︎</p></div>
+<div class="article-body" data-article-body="true"><p>近年来（过去几年间），对用户友好的网状网络（mesh networks）开始流行起来。</p>
+<p>作为一名业余无线电爱好者，我对此非常赞成。Meshtastic 和 Meshcore 都让人们能够轻松为朋友搭建快捷的小型网状网络，或是构建跨越整个城市/区域的大型网络。坦率地讲，在高度拥挤的频段上仅凭低功率（0.5瓦）就能达成如此多的成果，确实令人印象深刻。但平心而论，我认为这类无线电实验完全属于业余无线电的范畴，如果能够使用我们享有主要业务地位且功率限制更高的频段就更好了。而要想使用业余无线电频段，你就不能对传输内容进行加密。</p>
+<p>因此，MT/C 在这一点上略有不便。这是因为它们默认进行了加密，而禁用加密要么繁琐，要么根本无法实现。你也可以使用“默认密码”，尽管这在某种程度上管用，但并非一个令我满意的解决方案。</p>
+<p>我期望的是一种所有消息均为明文传输但带有数字签名的协议。</p>
+<p>我并不是说签名必须是强制性的，但能有这个功能会很棒。其好处包括：</p>
+<p>然而，这也存在一些弊端：</p>
+<p>有些读者可能已经在对着显示器大喊：“可为什么不直接用 APRS！？”好吧，对此我没有什么强有力的回答，所以我就引用某位前首相的话：不，我不想。</p>
+<p>总结：我认为网状网络若是开放的将会是一件好事。如果你赞同/反对，或有任何评论等等，请告诉我。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 05:06 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 22:39 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -303,100 +210,202 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://no-sloptober.com/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://andanti.no/blog/SignedMesh.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-out-wraps-it-up-for-html-6a1fe3868d74e690" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2379" data-content-paragraphs="29" data-published-at="2026-09-22T19:29:53.000Z" data-time-source="publication">
+<div id="story-in-network-protocol-html-7174cc89ef5e353b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1599" data-content-paragraphs="23" data-published-at="2026-09-23T14:34:37.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 03:29</span>
+  <span class="news-meta-time">🕒 2026-09-23 22:34</span>
 </div>
 
-### [原生 Mac 界面可以说走到头了](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> That About Wraps It Up for Stock Mac UI</div>
+### [Radicle：网络协议漏洞披露](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Radicle: Disclosure of Vulnerability in the Network Protocol</div>
 
-<div class="article-body" data-article-body="true"><p>最新版本的 macOS 朝着美观的 Mac UI 迈出了不错的一步，但我真希望它能走得更远一些。</p>
-<p>我尤其不喜欢 Mac 工具栏现在的外观。我不喜欢通顶侧边栏（full-height sidebars），更特别讨厌 Liquid Glass（流体玻璃）按钮。</p>
-<p>我打量了一下其他 Mac 应用的做法。我在同步到 Mastodon 的微博客上发了问，同时也看了一下几天前 Isaiah 提出类似问题时的回复。</p>
-<p>我的发现并不让人意外：许多人们认为好看的应用，用的都不是原生（stock）UI。</p>
-<p>这一点你早就心知肚明，我觉得也无需多做证明。但有一款应用可以作为绝佳例证：Things。</p>
-<p>Things 因其出色的设计和充满“Mac 味”的特质而长年备受推崇。但它根本算不上一款原生 Mac 应用。它的工具栏并没有置于窗口顶部（并非 NSToolbar），并且不支持自定义。在其主界面中，你看不到任何 Liquid Glass 风格半透明效果的痕迹。举个例子，内容并不会滑动隐藏到侧边栏下方。（我能找到明显具有 Liquid Glass 风格的唯一地方，就是设置窗口里的工具栏按钮。）</p>
-<p>长期以来，我一直是使用原生 Mac UI 的坚定拥护者，而且我一直认为自己有着充分的理由：用户已经对这种 UI 很熟悉，而且每年开发和更新时的工作量也较少。</p>
-<p>但现在我认为，这些理由（用户的熟悉度以及开发者的工作量）可能根本站不住脚。至少在当下是如此。</p>
-<p>用户已经证明——再次说明，我无需证明这一点——他们根本不会去纠结应用是原生 Mac 风格还是自定义风格。他们会因为 Things 没有位于窗口顶部且能按常规方式自定义的工具栏而讨厌它吗？不会。（唯一会这么想的，只有像我这样资深的 Mac 开发者。）</p>
-<p>无论其界面有多么原生或多么不原生，用户在理解流行 Mac 应用的界面时会有困难吗——比如 Things、Slack、Craft、OmniFocus、NotePlan、Bear、Reeder、Telegram、Acorn、Tapestry、Obsidian、Audio Hijack 等等？毫无困难。</p>
-<p>他们能分得清哪款应用是 Electron 应用吗？不能：他们脑海里甚至没有 Electron 应用的概念，即便你向他们解释，他们也根本不在乎。（他们又何必在乎呢？）</p>
-<p>用户或许已经熟悉了原生 Mac UI（实际上也未必，这取决于他们使用哪些应用）——但我认为这已经完全无关紧要了。</p>
-<p>过去的设想是：只要采用原生 Mac UI，开发者就可以高枕无忧——因为你每年都跟进，每年 macOS 的大部分改动几乎都可以零成本或以极小的工作量直接享受到。</p>
-<p>然而，我的应用 NetNewsWire 采用了非常原生的 Mac UI，可去年适配 Liquid Glass 却耗费了大量工作。采用原生 Mac UI 并没能为我们省下多少精力——事实上，与那些采用更多自定义界面的应用相比，我们要干的活反而更多。</p>
-<p>话说回 Things。要澄清的是，我并不是在挑它们的刺。恰恰相反！我非常尊重他们的作品，尽管我过去曾希望它能更具“Mac 味”（再次说明，这纯粹是一个资深 Mac 开发者才会有的执念）。</p>
-<p>这是他们一年前关于适配 Liquid Glass 的博文。他们确实做了一些工作，一如既往地保持了极高的水准。我绝不是在贬低这一点。但看起来他们要做的工作，远比我们在 NetNewsWire 上所做的要少得多。</p>
-<p>这就是我的观点：对于原生 Mac 应用而言，开发者的工作量反而更大。</p>
-<p>总结一下：采用原生 Mac UI 的理由原本是：1）用户的熟悉度，但我们早就知道这根本不是什么核心诉求；2）希望能减少开发者的工作量，但事实证明这有时反而适得其反。</p>
-<p>不过还有另一个理由：原生 Mac UI 是由世界上最顶尖的设计师苹果公司操刀设计的，你难道真觉得自己能做得比他们更好？真的吗？</p>
-<p>应用世界充斥着盲目自大、自以为水平更高但实际上根本不行的开发者。</p>
-<p>嗯，我依然认为苹果拥有全世界最优秀的 UI 设计师团队，但无论出于何种缘由，上层对于 Mac UI 应该长什么样的指导方向脱轨了。我并不是在责怪一线具体干活的人——在给定的方向下，他们完成得相当出色。</p>
-<p>所以——正是这种糟糕的指导方向——让这隐秘的第三条理由也不攻自破了。这样一来，我们便没有了任何坚守原生 Mac UI 的真正理由（除非是为了获得像我这样的老牌 Mac 人的认可，但这完全是一件你根本不该在乎的事）。</p>
-<p>带着这种想法，我想知道自己在 NetNewsWire 中能把 Liquid Glass 里那些我不喜欢的部分剥离到何种程度。结果发现，我能剥离得相当彻底，不过代价则是不得不放弃使用 NSToolbar（正如预料的那样）。</p>
-<p>注：这些改动目前仅存在于一个分支上。只是一晚上的折腾玩耍，算不上真正的设计或深思熟虑。（但这是可运行的代码，不是视觉效果图。）它暂时不会按这种方式发布。但我还是想分享出来，因为这确实为 NetNewsWire 未来的可能性提供了一些思路启示。</p>
-<p>点击小图可查看大图。</p>
-<p>（注意，第二张截屏中的分栏视图将在 7.2 版本中正式发布。那部分工作已经完成，并且与是否使用 Liquid Glass 毫无关系。另外补充一点：当前所使用的文章主题是 NetNewsWire 标准自带应用的一部分，并非新加入的内容。）</p>
-<p>要改进目前这个界面，显而易见首要的最佳做法是给工具栏图标添加一些颜色，并拉开它们的间距。或许还可以添加一定的自定义功能，尽管它并不是标准的 Mac 工具栏。</p>
-<p>当然，你看到这个可能会觉得：“咦！看着好老土！饶了我吧！”这完全合情合理！</p>
-<p>不过我觉得挺可爱的。可能晚点就删了</p></div>
+<div class="article-body" data-article-body="true"><p>Radicle 是一个基于 Git 构建的点对点（P2P）、本地优先的代码协作技术栈。</p>
+<p>据报告，Radicle 节点使用的网络协议中存在两个严重安全漏洞。</p>
+<p>截至目前发布的所有 Radicle 版本均受此漏洞影响。</p>
+<p>节点之间的网络流量未加密且未经身份验证。通过签名引用（Signed References）对代码仓库内容进行认证仍可检测出两节点间网络路径上的攻击者是否篡改了传输中的对象。因此，主要隐患是信息泄露，即处于两节点间网络路径上的攻击者能够读取传输中的对象。对于公开仓库而言，信息泄露的影响相对较小；但对于私有仓库，传输加密至关重要。</p>
+<p>我们建议在修复程序发布前停止使用私有仓库。</p>
+<p>由于缺乏版本协商机制，加上修复方案在线缆协议（传输协议）层面不兼容，无法采取向下兼容的缓解措施；这意味着修复该问题的版本将具有破坏性，因此需要升级主版本号。相关工作正在进行中。通过此次漏洞披露，我们的首要目标是坦诚清晰地说明情况，以便用户在我们制定解决方案的同时能够评估风险并采取相应行动。</p>
+<p>第二个漏洞单独利用起来比听上去要更困难。若要冒充白名单中的节点 ID（Node ID），攻击者必须首先知晓其中一个。白名单并不对外公开，因此不在网络路径上的攻击者只能靠猜测。</p>
+<p>在实践中，这两个漏洞在被组合利用时威胁最大：处于网络路径上的攻击者可以看到连接两端的节点 ID，而这两者通常都在白名单上。该攻击者既可以在监听期间读取交换的任何内容，随后又可以使用所窥见的一个节点 ID 按需拉取整个代码仓库。现实中的威胁来自处于您的节点与其同步节点之间路径上的任何实体，没有任何设置或白名单可以抵御此类攻击。</p>
+<p>我们在安全更新推出前发布此公告。您今天就可以采取行动，因为我们后续发布的任何修复方案都无法挽回已经发生的数据泄露。</p>
+<p>列出存储中的私有仓库：</p>
+<p>将每个单独仓库的播种策略（seeding policy）更改为“block”（阻止）：</p>
+<p>注意：如果您的节点播种策略被设置为 allow，我们建议使用 rad block 而不是 rad unseed。</p>
+<p>rad unseed 会移除某个仓库的播种策略，此时节点会回退到其默认策略。默认策略是 block，因此在默认配置下 rad unseed 就足够了。但如果您将默认播种策略更改为了 allow，那么在取消播种（unseed）后，您的节点仍会继续提供该仓库的服务。而 rad block 则设置了明确的阻止策略，节点会优先检查该策略，因此在任何配置下均有效。</p>
+<p>若要完全停止节点：</p>
+<p>上述操作效果存在三个局限：</p>
+<p>这两个缺陷均存在于节点传输层，而非仓库数据模型中。Git 对象和签名引用仍像以往一样在存储层进行验证。攻击者无法伪造代码或身份。</p>
+<p>该机密性缺陷自 Radicle 发布以来的所有版本中均已存在。</p>
+<p>我们正在积极制定解决方案。</p>
+<p>解决方案包括将 Radicle 的网络协议（目前是基于 Noise 的自定义协议）替换为 iroh——一个基于开放标准构建的开源点对点网络技术栈。我们此前已经分享过迁移计划，而这些漏洞更加坚定了我们推进此事的理由。除了解决这些漏洞外，iroh 还带来了 NAT 穿透等附加特性，从而提升 Radicle 网络的可靠性与弹性。</p>
+<p>对网络传输层的这种更改本质上是不向下兼容的。因此，它会导致网络分裂为已升级和未升级的两个互不连通的集群。</p>
+<p>尽管这意味着需要发布主版本更新，但我们正努力使升级路径尽可能平滑，将破坏性变更集中在网络端，同时保持存储布局的兼容性。</p>
+<p>我们要感谢 Konstantinos Maninakis 和 cryptocode 负责任地向我们披露了这些漏洞并保持沟通。</p>
+<p>如果您希望报告安全问题，请参阅 https://radicle.dev/.well-known/security.txt。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 03:29 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 22:34 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
+  <span class="news-tag-pill">#社会热点与思潮</span>
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-34454fa7292c035a10035b49-75b4d56fe0cccca0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="548" data-content-paragraphs="12" data-published-at="2026-09-22T17:14:56.000Z" data-time-source="publication">
+<div id="story-2026-09-22-aliasing-html-fd6792c50889df59" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6798" data-content-paragraphs="52" data-published-at="2026-09-23T14:07:23.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-23 22:07</span>
+</div>
+
+### [不要让你的编程语言类型系统去推理别名](https://futhark-lang.org/blog/2026-09-22-aliasing.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Do not let your type system reason about aliasing in your programming language</div>
+
+<div class="article-body" data-article-body="true"><p>这篇文章是关于 1.0 版本规划博文的后续，基于我尝试解决此前被我描述为“易于修复”的一个遗留问题的经历。正如我将在下文讨论的，这基本上是一个很容易修复的拼写错误，但这样做会破坏现有代码，引发了不容忽视的设计问题；而顺着这条线索继续挖掘，让我发现了一个相关的问题，其解决方案让我重新思考了 Futhark 某些最古老的设计决策。在这篇文章中，我将解释是哪项不同寻常的类型系统特性引发了这一切麻烦（它本质上是别名分析，但并不是大家在 C 语言别名讨论中所了解的那种形式）、为什么它并没有那么容易修复，以及我们正在考虑哪些备选方案。核心结论是：除非你有充分的理由去啃这块硬骨头，否则千万不要这么做。其带来的复杂度爆炸绝非儿戏。</p>
+<p>Futhark 最不同寻常的类型系统特性或许是在地更新（in-place updates）——这一特性允许我们编写类似<br />的表达式，以获取数组 A 的语义副本（其中索引 i 处的元素被替换为 v），同时成本模型保证其开销仅与单个元素成正比，而不是与整个数组 A 成正比。显而易见的实现方式，就是直接对存储 A 的内存进行破坏性写入。为了确保这一写入操作绝不会被观察到，类型检查器必须确保在更新之后的所有执行路径上，A 的旧值都绝不会再被使用。我们称 A 被“消耗”（consumed）。实际上，我们大可忽略“消耗”与在地更新相关的背景，只将其视为一种使旧值以某种方式失效的操作（也许它变得有毒了！）。这意味着我们的正确性规则大致是这样的：对象具有标识（identity），一旦某个对象被消耗，它就再也不能被引用。从这个角度来看，像在地更新这样的消耗性操作在语义上返回了一个具有新标识的对象，尽管我们的操作目标当然是重用内存。真正的挑战在于，我们希望在静态层面确保这一正确性规则在运行时绝不被打破，因此我们必须在类型检查器中对对象的标识进行推理。</p>
+<p>具体而言，当变量 A 被消耗时，我们还必须消耗所有可能与 A 具有相同标识（在操作层面上即“共享内存”）的变量，我们称这些变量为 A 的别名（aliases）。举个例子，在绑定 let B = A 之后，B 和 A 互为别名。我们可以设想，系统通过将每个变量与其别名集（alias set，即其别名变量构成的集合）相关联来进行跟踪。随后，我们扩展每种语言结构的类型规则，以描述结果的别名是如何从各组成表达式的别名构建而来的。我不会逐一罗列所有规则，但举例来说，表达式 A 的结果自然拥有别名集 {A}，而数组字面量 [x, ..., z] 拥有一个空别名集，以表明它构造了一个将元素拷贝进去的新数组（fresh array）。</p>
+<p>条件表达式很有意思，因为别名的跟踪是保守的，这意味着在进行形如<br />的绑定后，我们认为 C 同时是 A 和 B 的别名（反之亦然），即使在运行时实际上只有其中一种情况成立。这种保守性是关键所在，因为尽管在编译时拒绝一个程序可能令人懊恼，但允许程序使用已被消耗的值将是灾难性的。</p>
+<p>尽管基本思路足够简单易懂，但与其他语言特性的交互以及我们的一些设计约束带来了大量的复杂性。健全性（在安全性意义上）当然是一项基本要求，但紧随其后的或许就是简单性。在地更新对某些算法至关重要（也可以用于一些炫酷的 hack），但许多程序根本用不到它们，不应该被强加超出绝对必要的复杂语法或规则。我们竭尽全力让程序员在不需要该特性时，完全可以假装它根本不存在。这绝非易事。我们还希望所有关于消耗和别名的规则都是局部的，这意味着检查它们不需要开销高昂的全程序分析。</p>
+<p>任何语言中最有趣的特性莫过于函数。如果我们希望函数 f 能够消耗它的某个参数，我们就必须向 f 的调用者明确：调用 f 时对应的实参会被消耗。我们本质上是通过在函数上添加一种效应（类似效应系统中的 effect）来实现这一点的。一个函数要么是消耗性的（写作 *a -&gt; b），要么是观察性的（写作 a -&gt; b）。我们开了一个不算高明的双关玩笑，将这称为函数的“饮食习惯”（diet）。当我们把消耗性函数 f 应用于实参 A 时，A 便被消耗，其效果与作为在地更新的目标完全一致。由于 Futhark 是一种柯里化（curried）语言，其中“多参数”函数本质上只是返回函数的函数，因此这种机制可以很好地泛化。例如，以下函数类型消耗其第二个参数，但不消耗第一个参数：</p>
+<p>另一个问题是确定函数的别名。一条看似合理的规则是：函数应用的结果会与它的所有未被消耗的实参建立别名。但这会让别名关系变得非常混乱（promiscuous），意味着很快所有东西都会与其它任何东西互为别名，而且这也过于保守了：大多数函数实际上产生的是全新构造的值（fresh values）。因此，我们还允许函数返回类型指明结果的全新性（freshness）：要么是全新的（fresh，无别名），要么是非全新的（nonfresh，与所有参数建立别名）。稍显令人困惑的是，这也通过星号来表示：</p>
+<p>这些星号的含义与参数上的星号完全不同。在返回类型中，它们描述的是结果的别名，而在参数上，它们表示消耗效应。这种相似的记法是一个历史遗留产物，源于该部分语言设计脱胎自 Clean 语言的唯一性类型（uniqueness types）——Clean 使用星号来表示唯一性（但请注意，Futhark 如今的消耗/在地特性与唯一性类型已经毫无干系）。它与仿射类型（affine types）有更高的相似性，尽管它们仍然不是一回事。Futhark 的类型系统更像是一个禁止特定效应顺序（先消耗一个值，随后再观察该值）的效应系统，并配有一套用于传播别名的类型系统。</p>
+<p>全新性与消耗注解同样会对函数定义施加约束。考虑以下函数定义：<br />我们声明此函数返回一个全新结果，但结果 x 却与一个未被消耗的参数互为别名。这会被类型检查器拒绝。</p>
+<p>还有一条稍显微妙的规则：即便一个函数被声明为返回非全新结果，它也不能返回全局变量的别名：</p>
+<p>考虑一个调用 `f1 true`。其返回结果应该包含哪些别名？在 `f1` 的类型定义中没有任何地方提及 `global`，因此我们根本无法在函数调用点推导出该别名。基于这个原因，根据以下规则，我们在 `f1` 的定义点就禁止了这种写法：</p>
+<p>另一种替代方案是增强我们的类型系统，引入更精确的别名概念。这样就可以允许 `f1` 明确指定其返回值可能与 `global` 产生别名，也能让其他函数更精确地指定返回值与参数之间的别名关系。但出于简洁性的考虑，我们并没有采用这种做法：Futhark 并不是一门像 Rust 那样用于精细推导生命周期或别名的语言。我们之所以花费这么多精力，纯粹是为了能够表达某些必须依靠原地更新才能获得性能保证的算法，而且我们希望在满足该需求的前提下，尽量保持语言特性的精简。</p>
+<p>另一个问题是，一个元组（或记录）类型的返回值在何种情况下才算“新鲜”（fresh）。考虑下面这个定义：</p>
+<p>在这里，`iota` 是一个常见的构造函数，用于构造一个大小为 n 的新鲜索引数组。虽然 `arr` 本身没有别名，因而 `f2` 的返回值也没有与参数或全局变量产生别名，但这个定义仍然存在问题。考虑如下绑定：</p>
+<p>既然我们知道 `f2` 返回的是两个相同的数组，那么 `a` 和 `b` 就共享了内存，因此在概念上是互为别名的，但这并没有体现在 `f2` 类型的任何位置。因此，我们添加了如下规则：</p>
+<p>该规则会在 `f2` 的定义点进行检查，因此上述函数会被拒绝。</p>
+<p>在这里我需要指出的是，在 Futhark 的别名系统中，只有数组和抽象类型（因为它们可能是数组）本身才带有别名。像 `i64` 这样的基本类型具有“值语义”，即任何使用都伴随着复制；而元组、记录以及和类型（sum types）只不过是包裹其内部组件的薄外壳。这意味着像 `f2` 中的返回类型 `* ([]i64, []i64)`，实际上会被解释为 `(*[]i64, *[]i64)`。</p>
+<p>接下来还有一些棘手的问题需要处理。如果一个函数返回一个非新鲜的对（pair），比如具有如下类型的函数：</p>
+<p>那么这两个数组就有可能互为别名，就像上面 `f2` 的例子一样。因此，我们在函数调用中添加了另一条别名传播规则：</p>
+<p>在消费端也存在问题。考虑下面这个函数，它包含一个恰好为元组的消费型参数：</p>
+<p>首先，要在直观意义上保证其有效性，我们需要确保 `xy` 元组的两个组件互不为别名。这需要在函数调用中引入一条规则：</p>
+<p>注意，在 `f3` 中，该元组在获得变量名之前就通过模式匹配立即被解构了。考虑一下如果我们换一种写法，使用投影操作来提取元组组件会发生什么：</p>
+<p>这个函数在当前的 Futhark 中无法通过类型检查，因为 `x` 和 `y` 都会与整个 `xy`（或者说 `xy` 的两个组件）产生别名，因此对 `x` 的更新同时也会消费掉 `xy`，从而导致后续对 `y` 的引用变为非法。这可以说是设计上的一个缺陷，虽然我们目前通过语法糖掩盖了过去，但我更希望能以更好的方式来修复它。</p>
+<p>我认为元组的处理可以通过改进别名集来完善——不再单纯使用变量名集合，而是使用“变量名 + 位置”，从而允许我们仅对元组的一部分建立别名。这样如果我们消费了元组的一个组件，元组整体虽然不能再被引用，但其他未被消费的子组件仍然可以使用。我此前在这方面已经做了一些探索性工作，但还太不完整，不值得在此展开。</p>
+<p>高阶函数确实给问题增加了一定复杂性，但只要我们只处理具体类型，它们并没那么困难。</p>
+<p>考虑下面这个高阶函数：</p>
+<p>我们对某些参数应用函数 `p`，并得到数组 `x` 和 `y`。我们是否被允许消费它们？按照上面的推导，答案似乎是肯定的：因为 `p` 返回的是非新鲜的结果，`x` 和 `y` 会与 `p` 的参数产生别名，而这些参数只是布尔值，且基本类型值不携带别名，因此这看起来是可行的。然而请注意，`p` 返回的并不是新鲜数组——这意味着对 `f4` 的调用可能会写成类似这样：</p>
+<p>现在每次我们在 `f4` 内部应用 `p` 时，都会获得一个对 `arr` 的引用。显然，消费它将是灾难性的。我们该如何解决这个问题？一种解决方案是对匿名函数施加与顶层函数相同的约束，即它们绝不能返回对自由变量的别名。这样上述代码就会产生类型错误，我们必须将其改写为：</p>
+<p>`copy` 函数接收一个值并返回一个新鲜的值（需要付出性能代价），它是解决许多与别名相关错误的有用变通方法。但在实践中，这种方法会导致难以忍受的冗余样板代码，以及 `copy` 带来的额外开销。我们的解决方案包含两个部分：</p>
+<p>允许局部函数（例如 lambda 表达式）返回对作用域内（非全局）变量的别名。</p>
+<p>我们修改函数调用的别名规则，使得函数本身的别名也会被应用到函数调用的结果上。</p>
+<p>在 `f4` 的定义中，这意味着数组 `x` 和 `y` 会与函数参数 `p` 产生别名，而由于 `p` 是不可消费的，因此 `x` 和 `y` 也同样不可消费。其操作层面的解释相当直接：函数包含一个闭包，而函数调用的结果可能与该闭包产生别名。</p>
+<p>对于顶层函数，我们要求其结果不能与闭包产生别名（这正是“不能与自由变量产生别名”规则的本质含义）。我们在两种情况下完全可以使用相同的规则，或者反过来也行，这样都不会破坏健全性（soundness），但我们发现这种不一致性带来了更好的人机工程学体验。例如，考虑顶层 `transpose` 函数：</p>
+<p>如果调用 `transpose X` 会让结果与 `transpose` 本身产生别名，那将非常恼人，因为这意味着我们将无法消费返回结果（因为这可能会导致 `transpose` 被多次消费）。出于这个原因，我们对顶层函数施加了更严格的规则。用别名的术语来表述，我们假装顶层函数是在一个空环境中定义的，这意味着它们的闭包别名是空集，因为我们对其定义施加的别名限制意味着其结果不能与环境中的任何内容产生别名。</p>
+<p>（某些具有特定函数式思维倾向的读者此时可能会想：等一下，参数多态性（parametricity）难道没有告诉我们，`transpose` 的结果除了它的参数之外不可能与任何其他东西产生别名吗？确实如此，稍后我们将看到如何利用参数多态性。）</p>
+<p>Futhark 拥有一个相当标准的参数多态系统，与一等函数相关的限制并不会对别名分析造成影响。其基本原则非常简单：由于每个类型参数都有可能被实例化为一个数组，因此我们需要为抽象类型的每个变量跟踪别名，并在本质上将它们当作数组来对待。对于普通的类型参数，这种做法大体上能够正常运作，没有带来太大的意外，但在使用 Futhark 的模块系统针对抽象类型进行泛型编程时，它引发了一些后果。</p>
+<p>在 Futhark 中，定义模块时需要与一个模块类型进行匹配，该模块类型以抽象的方式规范了模块的行为。模块类型本质上是一组类型和值的声明序列，但不包含具体定义。我们可以设想一个表示数字的模块类型 MT0，其形式如下：</p>
+<p>这表明存在某种未知的抽象类型 t，以及各种可作用于 t 上的函数，在本例中还包括两个类型为 t 的常量。上述规范与你在 Futhark 的 prelude 中所见的内容非常相似，区别仅在于 prelude 定义了模块类型的层级结构，并且自然包含更多的操作。模块系统的妙处在于，我们可以针对接口本身编写泛型代码（参数化模块），随后可以用该模块类型的任何具体实现对其进行实例化。</p>
+<p>由于类型 t 是完全抽象的，它也有可能是一个数组，因此即便该模块类型可能并未提供任何真正消耗 t 的函数，也必须采取保守处理（包括别名跟踪）。事实证明，这对语言的易用性造成了相当重大的影响。假设我们有一个实现了模块类型 MT0 的模块 M0：</p>
+<p>接着我们定义这样一个函数：</p>
+<p>结果发现这是被禁止的！其原因有些微妙，但可以用前面讨论过的规则来解释。如果我们查看上述 M0.plus 的类型，会发现它返回的是非全新（nonfresh）的结果，因此 M0.plus x M0.one 的结果会与两个参数同时产生别名关联。与 x 的别名没有问题，但与 M0.one 的别名却不行，因为 M0.one 是一个全局变量，而函数是不允许返回指向全局变量的别名的。我们花了相当长的时间才发现这个问题，其原因颇为尴尬：类型检查器中存在一处拼写错误，导致它忽略了抽象类型全局变量的别名；即便发现了这个缺陷，我们当时也没有立即修复它，因为这牵涉到语言的人机工效与使用体验，我们希望先慎重考虑。假设我们修复类型检查器中的这个缺陷——这其实非常简单——那么像 add_one 这样的函数就会引发类型错误，而事实证明，这类代码在基于模块的泛型 Futhark 代码中极为常见。让我们考虑一下该如何修复它们。</p>
+<p>一种简单的修复方式是为 add_one 显式添加一层复制（copy）：</p>
+<p>但这往好了说也是样板代码，往坏了说则是低效的。更具原则性的解决方案是修改模块类型的规范，让 plus 生成一个全新的（fresh）结果：</p>
+<p>其缺点在于这会使接口变得繁杂。事实证明，大多数函数在概念上都是生成全新结果的，因此它们都应该带上这个星号，以避免在调用方处产生过于泛滥的别名。这违背了我们的初衷——我们原本希望 Futhark 程序员在不需要消耗/别名系统时可以完全忽略它，而现在它却硬生生地出现在了基础函数的类型定义中。</p>
+<p>这促使我们思考是否应该将默认规则反转：默认假定函数 a -&gt; b 返回全新结果，而需要注解来显式指示非全新性。例如，我们可以规定 transpose 的类型应写成这样：</p>
+<p>这里的 @ 符号当然也可以换成其他字符；关键在于，无论要求使用额外语法来标记全新性，还是标记非全新性，本质上都是随意的选择。但无论如何，程序员都不可能对类型系统的这一层面完全置之不理了。</p>
+<p>事实证明，抽象类型是此处的主要麻烦来源。回过头来看，这并不十分令人意外，因为抽象的本质就在于隐藏信息。让我们回到那个关于“自别名”（self-aliasing）的例子：</p>
+<p>该函数是不被允许的，因为我们声称生成了一个全新结果，但结果的各组成部分之间却互为别名。</p>
+<p>现在考虑这样一个模块接口：</p>
+<p>该接口表明存在一个抽象类型 obj、一种构造 obj 的方法（但构造出的结果是非全新的），以及一种消耗 obj 的方法。现在考虑该模块类型 MT1 的实现 M1：</p>
+<p>单独来看，这个模块没有任何问题：</p>
+<p>这里的 obj 类型是一对单元素 bool 数组</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 22:07 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://futhark-lang.org/blog/2026-09-22-aliasing.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-cheaper-llm-labeling-e8fb7849254f622f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4052" data-content-paragraphs="37" data-published-at="2026-09-23T13:14:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 01:14</span>
+  <span class="news-meta-time">🕒 2026-09-23 21:14</span>
 </div>
 
-### [纯文本文件正面临危机](https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Plain-text files are at risk</div>
+### [更廉价的大语言模型打标方案](https://entropicthoughts.com/cheaper-llm-labeling)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Cheaper LLM labelling</div>
 
-<div class="article-body" data-article-body="true"><p>无论好坏，纯文本文件——凭借其繁多的编码形式和分层格式——迄今为止都是我们所拥有的唯一真正的通用数据接口。</p>
-<p>我所说的纯文本文件，指的是 notes.txt、.md、.ini、.json 等格式。</p>
-<p>几乎每个操作系统默认都会自带一款纯文本编辑器。不仅是 Linux/BSD 系统，微软（记事本）和 macOS（文本编辑）同样如此。</p>
-<p>然而，人们对纯文本编辑的兴趣已经消退了一段时间。1</p>
-<p>就在 20 年前，即便对于非专业人士而言，日常使用这类编辑器也是一件非常普遍的事情。</p>
-<p>智能手机在大众群体中取代台式电脑，或许是对纯文本文件造成的最大打击。</p>
-<p>如今，普通计算机用户基本上已经遗忘了纯文本文件。甚至就连单纯“文件”这一概念本身也在逐渐消解。2</p>
-<p>让纯文本文件得以继续存在的最后一个群体是软件工程师。</p>
-<p>这也促成了纯文本编辑领域的显著创新。</p>
-<p>但现在不同的是，软件开发者们开始在大语言模型（LLM）的 REPL 中进行文本输入了。[3]</p>
-<p>那么，如果纯文本文件的这最后一批受众也随之弃船而去，又会发生什么呢？</p>
-<p>[3]：https://en.wikipedia.org/wiki/Agent_harness 我认为针对这些工具的新奇、拟人化术语纯属多余，因为“REPL”一词已经完全足以概括它们。</p></div>
+<div class="article-body" data-article-body="true"><p>我手头有一个小项目，需要将一批代码提交（commits）标记为“维护”（maintenance）或“新开发”（new development）。显而易见的方法是使用一个廉价但能力相对不错的大语言模型（LLM），比如 GPT 5.6 Luna。我在一小部分提交记录上对其进行了测试并人工核对了打标结果，在整个测试集上它输出的标签与我给出的完全一致。这足以让我放心将其推广到更大规模的场景中。</p>
+<p>如果我们安装了西蒙·威利森（Simon Willison）的 llm 命令行工具（你也应该装一个——它棒极了！），就可以在 Perl 中通过管道调用它并读取响应。我的脚本包含一个循环，用于重试几次请求11根据我的经验，模型有时无法遵循输出格式指令，这通常通过重试一两次就能解决。我的循环在尝试五次后放弃，但我不确定这是否真的派上过用场。相比那些在遵循输出格式指令上有困难的模型，Luna 的能力要强得多。，不过抛开这些异常处理逻辑不谈，实现代码本身其实非常简单。</p>
+<p>这种方法的缺点在于，我打算对大约 21,000 条提交记录进行打标，而这意味着每处理一条提交都要调用一次外部 LLM 命令行。由于 Prompt 的设计主要包含输入 Token，输出 Token 并不多（详见附录 C），这些调用的资金成本很低，但延迟却令人难以忍受，单次调用大约需要 1.5 秒。22如果我真的在乎延迟，我就不会用 Perl 去调用一个让 OpenRouter 将请求转发给 OpenAI 的 Python CLI，而是会直接向 OpenAI 发起请求。在本文中我会假装在乎延迟，但其实我更多的是想分享这个很酷的技术技巧。</p>
+<p>有些提交显然属于新开发，有些则显而易见是日常维护。如果我们能通过一种更原始——但也更快——的方法来对这些样本进行分类，并且只针对更棘手的情况去调用 LLM，那就再好不过了。以下是该算法的伪代码：</p>
+<p>现在的问题是，由什么对象来实现我们为快速分类器所设想的接口。我们对其调用了两个非平凡（non-trivial）的方法：</p>
+<p>一个显而易见的选择是朴素贝叶斯（naïve Bayes）。其缺点在于它假设特征之间相互独立，而在我们的场景中通常并非如此。另一个替代方案是逻辑回归（logistic regression）。</p>
+<p>在做这个项目时我了解到，逻辑回归可以通过一次流式输入一个标签的方式进行训练，并使用梯度下降微调其权重以达到更好的拟合效果。我还没有彻底推导完整个数学过程，但就此类算法而言，这并不算太复杂。33我的意思是，显然它确实很复杂。只要看看那个页面上的数学公式就知道了！但就解析形式的梯度下降推导而言，这大概属于相对简单的之一。而且最终的代码实现只有 3 到 10 行，具体取决于你怎么算行数。真希望我几年前就知道这个！它太优雅了。</p>
+<p>大功告成！一旦我们实例化这个类并将其保存在 $fast_classifier 中，之前的伪代码就会变成实际可运行的代码。</p>
+<p>让我们退一步来看看发生了什么：</p>
+<p>包括逻辑回归在内的所有这些，代码量不到 40 行。完全没有使用任何高级数学库。我真没想到使用纯 Perl 能用这么少的代码搞定。</p>
+<p>逻辑回归在充分训练后通常具有良好的校准度（calibrated），但某些因素可能会破坏其校准，例如正则化（我的实例中就包含正则化），或者小样本数据（在流程刚开始阶段也是如此）。44当我检查时，这表现为对正类标签存在 0.2 的对数几率（log-odds）偏差，且对数几率比预期极端了 10%。从大局来看这些都是微小的影响，我们或许本不该介意，但既然折腾得这么开心，不妨看看能做些什么。</p>
+<p>改善分类模型校准度的一种常见方法是普拉特缩放（Platt scaling），即在第一个模型的输出之上再拟合一层逻辑回归，以消除偏差和噪声。这样做会使打标循环稍微复杂一些，因为逻辑回归会在其训练数据上发生过拟合，所以我们需要一个独立的裁判（独立的数据流）来训练这个缩放器。我们可以通过将大约 10% 的训练样本分流给普拉特缩放器来实现这一点。</p>
+<p>$fast_classifier 和 $platt_scaler 都是我们创建的那个 LR 类型的实例！普拉特缩放器观察的特征是快速分类器输出的原始对数几率。（这也是为什么在该类中单独公开了 score() 函数的原因。）</p>
+<p>按照目前的写法，它运行起来就像一个黑盒，因此我们可能需要添加一个例程，在脚本运行时定期打印有关运行情况的统计信息。当我们这么做时，会发现它表现得相当不错。我添加的一些诊断输出会将预测结果分配到十个等距的分桶（buckets）中，并打印每个分桶的误差，即每个分桶的平均分配概率与实际平均概率之间的差异。55不幸的是，这又会让我们损失一些训练数据，因为我们不想在任何一个回归模型的训练数据上去评估最终的预测结果！</p>
+<p>这告诉我们，例如在 20% 到 30% 范围内的预测，平均偏高了 10 个百分点，这意味着相应事件发生的频率略低于预测值。另一方面，在 0% 到 10% 范围内的预测则正好相反，平均偏低了 2 个百分点，即相应事件发生的频率比预测的要稍微高一点点。然而，所有这些数值都在根据得出这些校准数据的样本量所预期的误差范围之内，这意味着并未出现明显的校准偏差。66要不是我太懒，我本可以在诊断打印中为每个单独的分桶及其组合显示 p 值之类的指标。</p>
+<p>在我的案例中，快速分类器承担了大约 46% 的分类任务，因此它使分类运行的速度大约提升了一倍。虽然谈不上惊艳，但构建它的过程很有趣。这绝对是一项值得留作备用的技术，可以在任务更容易分类时使用，或者在昂贵分类器的开销更为高昂时派上用场。它很容易将处理流程的速度提高一个数量级或更多（并降低同等幅度的成本）。</p>
+<p>我觉得深入探究一下快速分类器内部，看看它是如何在维护类和新开发类提交之间做出区分的，是一件很有意思的事。它是在作为词袋（bags-of-words）的提交信息上训练出来的，因此它基本上是将各个单独的单词与该词出现在新开发工作提交信息中的概率相关联，反之亦然。77不过与朴素贝叶斯不同的是，逻辑回归考虑到了词语之间的一定相互依赖性。</p>
+<p>以下是维护类提交中常用的词汇：</p>
+<p>而在另一侧，这些词汇通常用于涉及新开发的提交中：</p>
+<p>在我的项目中，我在多个开源代码仓库上分别训练了分类器，而它在所有仓库中都学到了这些相同的词汇。看起来，即便是跨越不同的项目，开发者在表示某项工作属于新功能开发还是维护时，都会使用许多相同的词语。这也意味着，在所有仓库上进行联合训练本可以为我带来一个更好、更鲁棒的分类器，但这需要改动一些我已经写好的代码，而我没有那么多时间。</p>
+<p>另一个优化——其效果可能比本文介绍的快速分类器还要显著——在于上面代码中所有对 rand() 的调用，实际上都是对一个名为 commit_rand($commit) 的自定义函数的调用，该函数将提交哈希值（commit hash）转换为均匀分布的概率。这意味着对于每一次提交，其随机性始终保持一致。这在用于从各个仓库采样待标注提交的循环中格外有用，因为每次运行时，它抽样选出的始终是完全相同的提交。</p>
+<p>这反过来意味着，对昂贵分类器生成的标签进行缓存变得非常有意义。标注循环中负责此操作的部分将对 classify($features) 的调用替换为：</p>
+<p>这会在获取到某次提交的标签后立即将其存储。当脚本启动时，它会将之前所有缓存的标签读取到一个字典中。</p>
+<p>再简单不过了！</p>
+<p>这就是我用于大模型分类的提示词（prompt）。它体现了我典型的提示词编写风格；而且由于我想到的第一个版本效果就足够好了，我并没有对其他提示词变体进行单独的评估。</p>
+<p>你将看到一条 git 提交信息。你的任务是判断该提交属于新开发工作还是维护工作。</p>
+<p>被视为新开发工作的内容：添加功能、添加命令行参数（cli flags）、添加 API 端点、解除功能使用限制。新开发是指任何因用户需求而开发的内容，旨在帮助他们完成待办事项。</p>
+<p>被视为维护工作的内容：问题修复（bugfixes）、性能改进、移除功能、添加诊断信息、稳定性提升、可观测性改进、安全修复。维护是指为支持用户完成待办事项所需功能而必须进行的任何开发工作。</p>
+<p>== 提交信息开始 ==<br />== 提交信息结束 ==</p>
+<p>可能并不容易明确判断这是新开发还是维护。但你必须选择一个标签，无论你觉得哪一个最契合。请仅回复该标签，即“new development”或“maintenance”。不允许包含任何其他文本。</p>
+<p>根据我的经验，模型有时会无法遵循输出格式指令，这通常通过重试一两次就能解决。我的循环在尝试五次后放弃，不过我不确定这是否真正需要过。Luna 是一个能力更强的模型，不像某些模型那样在遵循输出格式指令方面存在困难。</p>
+<p>如果我真的在乎延迟，我就不会用 Perl 去调用一个让 OpenRouter 把我的请求发送给 OpenAI 的 Python 命令行工具，而是会直接向 OpenAI 发起请求。在本文中，我会假装在乎延迟，但实际上这更多是为了分享这项很酷的技术。</p>
+<p>我的意思是，显而易见，是的，这确实很复杂。看看那个页面上的数学公式就知道了！但就解析形式的梯度下降推导而言，这可能是较为简单的一种。而且最终的结果不过是 3 到 10 行代码，具体取决于你怎么计算代码行数。</p>
+<p>经过检查，这表现为对正类标签存在 0.2 的对数几率偏差（log-odds bias），并且对数几率比预期极端了 10%。</p>
+<p>不幸的是，这让我们损失了更多的训练数据，因为我们不想在任何一个回归模型的训练数据上评估最终的预测结果！</p>
+<p>要是我当时没那么懒，我就会让诊断输出同时显示每个单独分桶以及它们组合的 p 值或类似指标。</p>
+<p>不过与朴素贝叶斯不同，逻辑回归考虑了词语之间的一定相关依赖性。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 01:14 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 21:14 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -406,43 +415,7 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--up-about-patient-safety-7eee3eab6a21eb89" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="547" data-content-paragraphs="3" data-published-at="2026-09-22T16:58:17.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="16" height="16" /> <strong>The Guardian Society (卫报社会与民生)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-23 00:58</span>
-</div>
-
-### [少数族裔NHS员工为患者安全发声付出沉重代价 | 来信](https://www.theguardian.com/society/2026/sep/22/minority-ethnic-nhs-staff-pay-a-heavy-price-for-speaking-up-about-patient-safety)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Minority ethnic NHS staff pay a heavy price for speaking up about patient safety | Letter</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/a86d6b3c9d7f2ca6bba03427dba567524e59a93d/1109_431_1674_1339/master/1674.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49abb3f6962767727f647597ff14b0e5" alt="少数族裔NHS员工为患者安全发声付出沉重代价 | 来信" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>詹妮弗·克里斯博士（Dr Jennifer Creese）、乔伊·斯皮利奥普洛斯博士（Dr Joy Spiliopoulos）与卡罗琳·塔兰特教授（Prof Carolyn Tarrant）写道：为黑人、亚裔和少数族裔员工提供心理安全保障，使他们能够毫无畏惧地提出对患者护理的担忧，将挽救生命。</p>
-<p>贵报的报道（《报告发现：在种族主义影响下，英格兰五分之一的黑人、亚裔及少数族裔NHS管理人员计划辞职》，9月15日）准确地强调了英国国家医疗服务体系（NHS）内部存在的种族主义、排斥现象以及职业晋升受阻问题。但这同时也指向了一个更广泛的风险：患者安全。护理差错目前每年已给NHS造成147亿英镑的损失。</p>
-<p>NHS种族与健康观察机构（NHS Race &amp; Health Observatory）2025年3月的一份报告指出，在医疗和牙科从业人员中占比超过40%的黑人、亚裔及少数族裔（BAME）员工，在晋升、日常工作和纪律处分程序中仍面临骚扰和歧视。这加剧了心理压力、职业倦怠以及更差的心理健康状况。据估计，职场霸凌和骚扰每年因人员流失、病假和生产力下降给英格兰NHS造成20亿英镑的损失。在这样的环境下，少数族裔员工比白人同事更不太可能就患者安全问题发声，因为他们担心自己的关切不会被理解或重视。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian Society (卫报社会与民生)】于 2026-09-23 00:58 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/society/2026/sep/22/minority-ethnic-nhs-staff-pay-a-heavy-price-for-speaking-up-about-patient-safety" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian Society (卫报社会与民生)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://entropicthoughts.com/cheaper-llm-labeling" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 ::::

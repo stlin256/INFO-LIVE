@@ -4,29 +4,37 @@ nav: true
 order: 0
 description: "InfoLive 24/7 全球全源信息流与 AI 实时要闻矩阵"
 notice:
-  text: "⚡ 当前监控运行中 · 本小时数据更新于 15:52 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
+  text: "⚡ 当前监控运行中 · 本小时数据更新于 06:25 · 聚合全球 55+ 权威通讯社与机构一手原版电讯"
   color: "theme"
 ---
 
-# ⚡ InfoLive 全球情报全景矩阵 · 15:52 速报
+# ⚡ InfoLive 全球情报全景矩阵 · 06:25 速报
 
 :::important
-### ⏱️ 本小时战略速报 (15:52)
+### ⏱️ 本小时战略速报 (06:25)
 
-当地时间9月22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论发言时表示，韩国将积极创造条件，推动陷入停滞的朝美对话尽早重启，并推进朝鲜半岛和平机制建设。
+本轮抓取于 2026-09-24 06:22 (UTC+8) 完成，共获得 28 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
 **🎯 关键动态信号：**
-- 韩国方面表态将努力为长期停滞的朝美对话创造重启条件
-- 韩方寻求推动相关各方围绕终结半岛战争状态及构建和平机制展开对话
+- 【undefined】Anthropic称其生物实验室已取得重大发现：上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。
+- 【undefined】Windows 滚动条快捷操作简史：在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。
+- 【undefined】如果连亚马逊都不知道如何消除碳排放，那还有谁会知道？：亚马逊首席可持续发展官周二表示，该公司尚不知道将如何实现到2040年净零碳排放的目标。
+- 【undefined】多莉·帕顿遗产之争愈演愈烈，经纪人申请对这位明星的侄子发出限制令：周二，关于多莉·帕顿（Dolly Parton）遗产的激烈争端发生了戏剧性转折，这位乡村音乐偶像的长期经纪人向法院申请针对其侄子的限制令。
+- 【undefined】纽约岛人队本赛季将对毫不知情的球迷推出美食“大灾难”：我们大多数人从小就明白一个道理：仅仅因为你喜欢两样独立的事物，并不意味着把它们组合在一起就能变成一个绝妙的新事物。
+- 【undefined】堪萨斯州民主党人恳求卡玛拉·哈里斯不要与其同台竞选：“请不要来我的州”：堪萨斯州民主党参议员候选人亚当·汉密尔顿牧师（Rev. Adam Hamilton）周三对MS NOW表示，前副总统卡玛拉·哈里斯（Kamala Harris）应该远离他在堪萨斯州的竞选活动。此前，哈里斯曾前往密歇根州为民主党参议员候选人阿卜杜勒·赛义德（Abdul El-Sayed）助选，而汉密尔顿目前正努力在这个偏向共和党的州争取跨党派选民的支持。
+- 【undefined】柴油价格飙升突破6.50美元 白宫排除柴油出口禁令可能：白宫周三否认了政府正考虑出台美国柴油出口禁令的消息，对总统唐纳德·特朗普（Donald Trump）和财政部长斯科特·贝森特（Scott Bessent）前一天发表的言论进行了澄清。此前，随着全美平均柴油价格突破每加仑6.50美元，两人的言论似乎为施加限制保留了可能性。一名白宫官员否认了关于政府正在准备出台为期90天的柴油出口禁令的报道，同时能源部长克里斯·赖特（Chris Wright）表示，没有任何人在考虑全面禁止出口。赖特称，相反
+- 【undefined】OpenAI侵入国民医疗保险系统，阿尔巴尼斯披露：更新于2026年9月24日 — 上午7:56，首次发布于上午6:25 您已达到保存条目的最大上限。 请从您的保存列表中移除条目以继续添加。 澳大利亚总理安东尼·阿尔巴尼斯（Anthony Albanese）披露，今年6月，一个人工智能智能体（AI agent）潜入了一处国民医疗保险（Medicare）网站，访问了公开与非公开文件，并将文件写入了一台内部服务器。 阿尔巴尼斯在纽约向记者表示，该事件涉及一个OpenAI的智能体未经授权访问了
 :::
 
 :::note
 ### 🌐 24小时全球宏观大势与主线脉络（日尺度全景）
 
-当地时间9月22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论并发言，明确表示韩国将积极创造条件，推动长期停滞的朝美对话尽早重启，并推进结束半岛战争状态的进程。
+日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。
 
 **📊 今日核心主线透视：**
-- **半岛局势与朝美外交接触推动**：根据韩媒报道，韩国总统李在明在联大发言中聚焦半岛和平议题，指出韩方将努力创造必要条件以打破当前僵局，重启长期停滞的朝美双边对话，并力促有关各方展开深入对话，以最终结束半岛战争状态并向持久和平机制转型。
+- **🧠 前沿智能**：【undefined】Anthropic称其生物实验室已取得重大发现：上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。；【undefined】如果连亚马逊都不知道如何消除碳排放，那还有谁会知道？：亚马逊首席可持续发展官周二表示，该公司尚不知道将如何实现到2040年净零碳排放的目标。；【undefined】多莉·帕顿遗产之争愈演愈烈，经纪人申请对这位明星的侄子发出限制令：周二，关于多莉·帕顿（Dolly Parton）遗产的激烈争端发生了戏剧性转折，这位乡村音乐偶像的长期经纪人向法院申请针对其侄子的限制令。
+- **🔥 社会热点与思潮**：【undefined】Windows 滚动条快捷操作简史：在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。；【undefined】为什么没人早点告诉我 Redis 哈希槽的事？：我在一家零工经济配送应用公司工作，负责决定把您的配送订单派发给哪位骑手。当您打开应用并下单让别人送货时，系统某处总需要有一段代码来决定应该把这项任务派发给哪些骑手。我们就是负责发起这些派发的人。；【undefined】以人为本的 KDE：在被捍卫的地方，显而易见，高贵与英雄主义拥有某种仪器，在竞争激烈的版本上滴答作响，记录着他所判定为自私与得到满足的事物，伯纳德被吓坏了。那种想象中的坚忍，那种理论上的勇气，连一丝痕迹都没有留下。他对自己狂怒——真蠢！——对署长狂怒——没能错过它是多么不公平。“十五点三十！”叮咚作响的音乐适时奏起，又逐渐冷却。在那些年里，他们。毫无疑问，是从书里得到的。
+- **🌐 全球地缘战略**：【undefined】纽约岛人队本赛季将对毫不知情的球迷推出美食“大灾难”：我们大多数人从小就明白一个道理：仅仅因为你喜欢两样独立的事物，并不意味着把它们组合在一起就能变成一个绝妙的新事物。
 :::
 
 ## 🔥 AI 深度追踪与独家专题专区
@@ -45,23 +53,30 @@ notice:
 
 <div class="perspective-matrix-card">
   <div class="perspective-matrix-header">
-    <h3 class="perspective-matrix-title">🎯 焦点对决：</h3>
+    <h3 class="perspective-matrix-title">🎯 焦点对决：本轮信源叙事与证据对照</h3>
     <span class="perspective-stance-badge">多极视角对照</span>
   </div>
   <div class="perspective-consensus-box">
     <div class="perspective-consensus-title">✅【已证实核心共识与基础事实】</div>
-    <div></div>
+    <div>当前仅展示各信源已抓取的标题、摘要和正文证据；没有足够交叉证据的判断暂不生成。</div>
   </div>
   <div class="perspective-sources-grid">
+    <div class="perspective-source-item">
+      <div class="perspective-source-header">
+        <span class="perspective-source-name"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="" width="16" height="16" /> </span>
+        <span class="perspective-stance-badge">民间技术与思想社群</span>
+      </div>
+      <div class="perspective-source-body">【undefined】更廉价的大语言模型打标方案：我手头有一个小项目，需要将一批代码提交（commits）标记为“维护”（maintenance）或“新开发”（new development）。显而易见的方法是使用一个廉价但能力相对不错的大语言模型（LLM），比如 GPT 5.6 Luna。我在一小部分提交记录上对其进行了测试并人工核对了打标结果，在整个测试集上它输出的标签与我给出的完全一致。这足以让我放心将其推广到更大规模的场景中。</div>
+    </div>
   </div>
   <div class="perspective-analysis-row">
     <div class="perspective-deep-interest">
       <div class="analysis-label">💡【深层地缘与利益诉求解构】</div>
-      <div></div>
+      <div>利益诉求需要结合同一事件的多家原文与正式声明进一步核验。</div>
     </div>
     <div class="perspective-blind-spot">
       <div class="analysis-label">🔍【关键信息盲区与待核实点】</div>
-      <div></div>
+      <div>RSS 摘要、付费墙、反爬或动态渲染导致的正文缺口将在文章卡片中明确标注。</div>
     </div>
   </div>
 </div>
@@ -71,12 +86,12 @@ notice:
 <div class="live-wire-grid">
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:49</span>
+      <span class="wire-time-badge">🕒 06:20</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/kosulya-2119684949.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260924/sderzhivanie-2119892358.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -84,273 +99,89 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/kosulya-2119684949.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260924/sderzhivanie-2119892358.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:49</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-time-badge">🕒 06:20</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">🔬 深空与基础科学</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/perm-2119684703.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://phys.org/news/2026-09-starch-based-sensor-moisture-food.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/perm-2119684703.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://phys.org/news/2026-09-starch-based-sensor-moisture-food.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:45</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="14" height="14" /> 中新社 (国际实时原版)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-026-09-23-10702286-shtml-5fc41afce3410042" class="wire-title-link" title="点击直达本站全篇深度编译">
-        李在明：韩国将推动长期停滞的朝美对话尽快重启
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【中新社 (国际实时原版)·独立专业观察】：中新网9月23日电 据韩联社报道，当地时间22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论发言时表示，韩国将努力创造条件，推动长期停滞的朝美对话尽快重启，并使其进一步发展为有关各方围绕结束朝鲜半岛战争状态、向和平机制转型展开的对话。</div>
-    <div class="wire-actions">
-      <a href="#story-026-09-23-10702286-shtml-5fc41afce3410042" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.chinanews.com.cn/gj/2026/09-23/10702286.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:45</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/murashko-2119684020.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/murashko-2119684020.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:44</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/pitanie-2119683793.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/pitanie-2119683793.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:44</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/zhivotnye-2119683101.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/zhivotnye-2119683101.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:43</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/fsb-2119682822.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/fsb-2119682822.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:43</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/pedvuz-2119682660.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/pedvuz-2119682660.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:36</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/krasnogorsk-2119679927.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/krasnogorsk-2119679927.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:36</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/lavrov-2119679729.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/lavrov-2119679729.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:34</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/formula-2119679375.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/formula-2119679375.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:32</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/bashkiriya-2119678881.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/bashkiriya-2119678881.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:32</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/solntse-2119678494.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/solntse-2119678494.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:31</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="14" height="14" /> Al Jazeera (半岛电视台官方英文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.aljazeera.com/news/2026/9/23/at-least-11-people-killed-in-south-africa-township-shooting" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Al Jazeera (半岛电视台官方英文)·全球南方与海湾枢纽】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.aljazeera.com/news/2026/9/23/at-least-11-people-killed-in-south-africa-township-shooting" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:31</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="14" height="14" /> The Guardian (英国卫报官方英文)</span>
+      <span class="wire-time-badge">🕒 06:20</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="#story--abc-four-corners-ntwnfb-87d31b4d271444f2" class="wire-title-link" title="点击直达本站全篇深度编译">
-        澳大利亚新闻直播：舒布里奇称美国针对网络安全法的意见书是对“我们国内政治的异乎寻常的干涉”
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      <a href="https://phys.org/news/2026-09-gene-soybean-oleic-acid.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【The Guardian (英国卫报官方英文)·独立专业观察】：追踪今日实时新闻
-获取我们的突发新闻邮件、免费应用程序或每日新闻播客
-影子住房部长安德鲁·布拉格（Andrew Bragg）表示，在昨天提出允许人们将养老金作为抵押以获取住房贷款的新提案后，他坚信围绕住房问题展开“大讨论”是必要的。
-该政策尚未被反对党采纳，反对党领袖安格斯·泰勒（Angus Taylor）昨天表示这并非联盟党的政策。
-我们是一个伟大的国家，……</div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
-      <a href="#story--abc-four-corners-ntwnfb-87d31b4d271444f2" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://phys.org/news/2026-09-gene-soybean-oleic-acid.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:30</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
-      <span class="wire-dim-badge">🔥 社会热点与思潮</span>
+      <span class="wire-time-badge">🕒 06:19</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://tass.com/society/2191439" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260924/figuranty-2119892171.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260924/figuranty-2119892171.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:17</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="14" height="14" /> TechCrunch (硅谷创业与资本)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-eady-found-something-big-48a9d95577c8df72" class="wire-title-link" title="点击直达本站全篇深度编译">
+        Anthropic称其生物实验室已取得重大发现
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【TechCrunch (硅谷创业与资本)·独立专业观察】：上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。</div>
+    <div class="wire-actions">
+      <a href="#story-eady-found-something-big-48a9d95577c8df72" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:17</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://tass.com/world/2191895" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -358,35 +189,35 @@ notice:
     <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://tass.com/society/2191439" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://tass.com/world/2191895" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:29</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR 官方法语原版)" width="14" height="14" /> France 24 (FR 官方法语原版)</span>
+      <span class="wire-time-badge">🕒 06:15</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.france24.com/fr/europe/20260923-guerre-en-ukraine-quand-la-cia-entre-diplomatique-ratcliffe-zelensky-poutine-espion" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【France 24 (FR 官方法语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/fr/europe/20260923-guerre-en-ukraine-quand-la-cia-entre-diplomatique-ratcliffe-zelensky-poutine-espion" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:28</span>
+      <span class="wire-time-badge">🕒 06:12</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/chelyabinsk-2119675698.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260924/kiev-2119891931.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -394,125 +225,35 @@ notice:
     <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/chelyabinsk-2119675698.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260924/kiev-2119891931.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:28</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/blagoustroystvo-2119674471.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/blagoustroystvo-2119674471.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:26</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/merts-2119675286.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/merts-2119675286.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:25</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (EN 官方英语)" width="14" height="14" /> Deutsche Welle (EN 官方英语)</span>
+      <span class="wire-time-badge">🕒 06:11</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.dw.com/en/germany-news-call-to-scrap-once-a-day-gas-price-rises/live-79382523" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
+      <a href="#story-rder-against-star-nephew-2a0557349533ca34" class="wire-title-link" title="点击直达本站全篇深度编译">
+        多莉·帕顿遗产之争愈演愈烈，经纪人申请对这位明星的侄子发出限制令
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
       </a>
     </div>
-    <div class="wire-snippet">【Deutsche Welle (EN 官方英语)·德国战略自省】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：周二，关于多莉·帕顿（Dolly Parton）遗产的激烈争端发生了戏剧性转折，这位乡村音乐偶像的长期经纪人向法院申请针对其侄子的限制令。</div>
     <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.dw.com/en/germany-news-call-to-scrap-once-a-day-gas-price-rises/live-79382523" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="#story-rder-against-star-nephew-2a0557349533ca34" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/entertainment/dolly-parton-legacy-battle-turns-bitter-manager-seeks-restraining-order-against-star-nephew" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:24</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://ria.ru/20260923/bashkirija-2119674950.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://ria.ru/20260923/bashkirija-2119674950.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:20</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR 官方法语原版)" width="14" height="14" /> France 24 (FR 官方法语原版)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.france24.com/fr/france/20260923-pr%C3%A9sidentielle-candidate-%C3%A9cologistes-marine-tondelier-donn%C3%A9-naissance-gar%C3%A7on-l%C3%A9on" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【France 24 (FR 官方法语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/fr/france/20260923-pr%C3%A9sidentielle-candidate-%C3%A9cologistes-marine-tondelier-donn%C3%A9-naissance-gar%C3%A7on-l%C3%A9on" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:18</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/aljazeera.svg" class="source-icon" alt="Al Jazeera (半岛电视台官方英文)" width="14" height="14" /> Al Jazeera (半岛电视台官方英文)</span>
-      <span class="wire-dim-badge">🛡️ 军事防务安全</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        外文信源标题正在进行中文翻译，暂不展示未翻译标题
-        <span class="wire-ext-icon">↗</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Al Jazeera (半岛电视台官方英文)·全球南方与海湾枢纽】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
-    <div class="wire-actions">
-<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:14</span>
+      <span class="wire-time-badge">🕒 06:10</span>
       <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (EN 官方英语原版)" width="14" height="14" /> France 24 (EN 官方英语原版)</span>
-      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.france24.com/en/africa/20260923-moroccans-vote-in-parliamentary-elections-after-migrant-rush-to-ceuta" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -520,112 +261,107 @@ notice:
     <div class="wire-snippet">【France 24 (EN 官方英语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/en/africa/20260923-moroccans-vote-in-parliamentary-elections-after-migrant-rush-to-ceuta" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.france24.com/en/australia/20260923-openai-ai-agent-breached-australian-government-website-pm-says" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:13</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/sputnik.svg" class="source-icon" alt="Sputnik Globe (官方国际英文电讯)" width="14" height="14" /> Sputnik Globe (官方国际英文电讯)</span>
+      <span class="wire-time-badge">🕒 06:10</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://sputnikglobe.com/20260923/rostec-powers-up-arctics-biggest-platinum--palladium-hub-1124774387.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260924/kazan-2119891754.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【Sputnik Globe (官方国际英文电讯)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://sputnikglobe.com/20260923/rostec-powers-up-arctics-biggest-platinum--palladium-hub-1124774387.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260924/kazan-2119891754.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:13</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="14" height="14" /> 中新网 (全球要闻原版)</span>
+      <span class="wire-time-badge">🕒 06:10</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="14" height="14" /> ANSA Mondo (意大利安莎社官方意大利文)</span>
       <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.chinanews.com.cn/gn/2026/09-23/10702249.shtml" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
-        中国司法部门发文 强调依法严惩芬太尼类物质犯罪
+      <a href="https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_c0b79a44-3925-43e0-8b5d-f614fc566620.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【中新网 (全球要闻原版)·独立专业观察】：中新社北京9月23日电 (记者 张素)中国最高人民法院、最高人民检察院、公安部近日联合印发了《关于办理涉芬太尼类物质刑事案件适用法律等若干问题的意见》，强调依法从严惩治芬太尼类物质犯罪。</div>
+    <div class="wire-snippet">【ANSA Mondo (意大利安莎社官方意大利文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.chinanews.com.cn/gn/2026/09-23/10702249.shtml" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/09/24/stretta-di-mano-tra-trump-e-xi-al-via-la-visita-del-leader-cinese-in-usa_c0b79a44-3925-43e0-8b5d-f614fc566620.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:10</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
-      <span class="wire-dim-badge">⚡ 战略能源与气候</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-g-boost-soil-carbon-html-8f86cae9867e4764" class="wire-title-link" title="点击直达本站全篇深度编译">
-        牲畜放牧或可促进冰岛亚北极草原的土壤碳封存
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：编辑：罗伯特·伊根（Robert Egan）
-本文已根据 Science X 的编辑流程与准则进行审核。编辑在确保内容可信度的同时，重点标明了以下特征：
-草地植物通过根系向土壤转移大量的碳，且其中大部分碳储存在地下。因此，促进土壤碳储存有助于应对气候变化。食草动物以草地植物为食，传统观点通常认为移除食草动物有利于碳封存，但发表在《全球变化生物学通讯》（Glo……</div>
-    <div class="wire-actions">
-      <a href="#story-g-boost-soil-carbon-html-8f86cae9867e4764" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://phys.org/news/2026-09-livestock-grazing-boost-soil-carbon.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:10</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
-      <span class="wire-dim-badge">🔥 社会热点与思潮</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story-armers-crop-quality-html-5495847819714a52" class="wire-title-link" title="点击直达本站全篇深度编译">
-        传感器与无人机助力农户在节水的同时提升作物质量
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：编辑：罗伯特·埃根（Robert Egan）</div>
-    <div class="wire-actions">
-      <a href="#story-armers-crop-quality-html-5495847819714a52" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://phys.org/news/2026-09-sensors-drones-farmers-crop-quality.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:10</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
-      <span class="wire-dim-badge">🔬 深空与基础科学</span>
-    </div>
-    <div class="wire-card-title">
-      <a href="#story--factors-disability-html-447055f3c78d8ef0" class="wire-title-link" title="点击直达本站全篇深度编译">
-        分析发现社会经济与健康因素是残疾保险批准率差异的主要原因
-        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
-      </a>
-    </div>
-    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：编辑：罗伯特·埃根（Robert Egan）
-本文已根据 Science X 的编辑流程和方针进行审核。编辑在确保内容可信度的同时强调了以下属性：
-经过同行评审的出版物
-发表在《当代经济政策》（Contemporary Economic Policy）上的一项研究探讨了美国残疾保险批准率中的种族和族裔差异，究竟反映了裁决过程中的不公，还是反映了申请人自身处境……</div>
-    <div class="wire-actions">
-      <a href="#story--factors-disability-html-447055f3c78d8ef0" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
-      <a href="https://phys.org/news/2026-09-analysis-socioeconomic-health-factors-disability.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
-    </div>
-  </div>
-  <div class="wire-card">
-    <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:07</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
+      <span class="wire-time-badge">🕒 06:08</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nasa.svg" class="source-icon" alt="NASA News (深空探索与航天)" width="14" height="14" /> NASA News (深空探索与航天)</span>
       <span class="wire-dim-badge">🧠 前沿智能</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://tass.com/politics/2191433" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【NASA News (深空探索与航天)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:07</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260924/kiev-2119891473.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260924/kiev-2119891473.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:06</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="14" height="14" /> The Guardian (英国卫报官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【The Guardian (英国卫报官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:05</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="14" height="14" /> TASS (塔斯社官方英文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://tass.com/politics/2191891" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
@@ -633,25 +369,295 @@ notice:
     <div class="wire-snippet">【TASS (塔斯社官方英文)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://tass.com/politics/2191433" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://tass.com/politics/2191891" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
   <div class="wire-card">
     <div class="wire-card-meta">
-      <span class="wire-time-badge">🕒 15:07</span>
-      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/france24.svg" class="source-icon" alt="France 24 (FR 官方法语原版)" width="14" height="14" /> France 24 (FR 官方法语原版)</span>
-      <span class="wire-dim-badge">🧠 前沿智能</span>
+      <span class="wire-time-badge">🕒 06:05</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
     </div>
     <div class="wire-card-title">
-      <a href="https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260923-p%C3%A9kin-washington-et-l-ia-le-retour-du-t%C3%A9l%C3%A9phone-rouge" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+      <a href="https://ria.ru/20260924/sosedov-2119891292.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
         外文信源标题正在进行中文翻译，暂不展示未翻译标题
         <span class="wire-ext-icon">↗</span>
       </a>
     </div>
-    <div class="wire-snippet">【France 24 (FR 官方法语原版)·欧洲战略自主】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
     <div class="wire-actions">
 <span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
-      <a href="https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260923-p%C3%A9kin-washington-et-l-ia-le-retour-du-t%C3%A9l%C3%A9phone-rouge" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+      <a href="https://ria.ru/20260924/sosedov-2119891292.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:05</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.foxnews.com/us/california-gunman-repeatedly-released-deadly-rampage-fiery-shootout-deputies" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.foxnews.com/us/california-gunman-repeatedly-released-deadly-rampage-fiery-shootout-deputies" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:04</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ft.svg" class="source-icon" alt="Financial Times (英国金融时报)" width="14" height="14" /> Financial Times (英国金融时报)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Financial Times (英国金融时报)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:02</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-unsuspecting-fans-season-22d28e880ee5a912" class="wire-title-link" title="点击直达本站全篇深度编译">
+        纽约岛人队本赛季将对毫不知情的球迷推出美食“大灾难”
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：我们大多数人从小就明白一个道理：仅仅因为你喜欢两样独立的事物，并不意味着把它们组合在一起就能变成一个绝妙的新事物。</div>
+    <div class="wire-actions">
+      <a href="#story-unsuspecting-fans-season-22d28e880ee5a912" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/outkick-sports/new-york-islanders-unleash-culinary-disasterpiece-unsuspecting-fans-season" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:01</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260924/zapad-2119891110.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260924/zapad-2119891110.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://phys.org/news/2026-09-bee-propolis-boosts-antifungal-drug.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://phys.org/news/2026-09-bee-propolis-boosts-antifungal-drug.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="14" height="14" /> Phys.org (基础物理与技术前沿)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://phys.org/news/2026-09-banking-patterns-people-experiencing-financial.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【Phys.org (基础物理与技术前沿)·前沿同行评议严谨】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://phys.org/news/2026-09-banking-patterns-people-experiencing-financial.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian Society (卫报社会与民生)" width="14" height="14" /> The Guardian Society (卫报社会与民生)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【The Guardian Society (卫报社会与民生)·独立专业观察】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">💹 宏观资本与产业</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 06:00</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="14" height="14" /> OilPrice (全球能源与原油大宗)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-ces-surge-above-650-html-899241db77da6fb3" class="wire-title-link" title="点击直达本站全篇深度编译">
+        柴油价格飙升突破6.50美元 白宫排除柴油出口禁令可能
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【OilPrice (全球能源与原油大宗)·大宗能源产业链】：白宫周三否认了政府正考虑出台美国柴油出口禁令的消息，对总统唐纳德·特朗普（Donald Trump）和财政部长斯科特·贝森特（Scott Bessent）前一天发表的言论进行了澄清。此前，随着全美平均柴油价格突破每加仑6.50美元，两人的言论似乎为施加限制保留了可能性。一名白宫官员否认了关于政府正在准备出台为期90天的柴油出口禁令的报道，同时能源部长克里斯·……</div>
+    <div class="wire-actions">
+      <a href="#story-ces-surge-above-650-html-899241db77da6fb3" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://oilprice.com/Energy/Energy-General/White-House-Rules-Out-Diesel-Export-Ban-as-Prices-Surge-Above-650.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:59</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/marketwatch.svg" class="source-icon" alt="MarketWatch Top Stories (市场观察)" width="14" height="14" /> MarketWatch Top Stories (市场观察)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【MarketWatch Top Stories (市场观察)·国际资本与华尔街视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:58</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260924/vizit-2119890937.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260924/vizit-2119890937.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:58</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="14" height="14" /> NY Times World (纽约时报官方英文)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【NY Times World (纽约时报官方英文)·美主流建制派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:58</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/nytimes.svg" class="source-icon" alt="NY Times World (纽约时报官方英文)" width="14" height="14" /> NY Times World (纽约时报官方英文)</span>
+      <span class="wire-dim-badge">🛡️ 军事防务安全</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://www.nytimes.com/2026/09/23/world/americas/trump-venezuela-delcy-rodriguez.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【NY Times World (纽约时报官方英文)·美主流建制派】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://www.nytimes.com/2026/09/23/world/americas/trump-venezuela-delcy-rodriguez.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:57</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/ria.svg" class="source-icon" alt="RIA Novosti (俄新社官方俄文)" width="14" height="14" /> RIA Novosti (俄新社官方俄文)</span>
+      <span class="wire-dim-badge">🌐 全球地缘战略</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="https://ria.ru/20260924/igrok-2119890798.html" target="_blank" rel="noopener noreferrer" class="wire-title-link" title="查阅出处一手报道">
+        外文信源标题正在进行中文翻译，暂不展示未翻译标题
+        <span class="wire-ext-icon">↗</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【RIA Novosti (俄新社官方俄文)·莫斯科官方视角】：该外文快讯尚未完成中文全文翻译，暂不展示外文摘要。</div>
+    <div class="wire-actions">
+<span style="color:var(--text-muted);font-size:0.7rem;">⚡ 实时权威电讯</span>
+      <a href="https://ria.ru/20260924/igrok-2119890798.html" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
+    </div>
+  </div>
+  <div class="wire-card">
+    <div class="wire-card-meta">
+      <span class="wire-time-badge">🕒 05:56</span>
+      <span class="wire-source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="14" height="14" /> FOX News Latest (美国FOX快讯)</span>
+      <span class="wire-dim-badge">🧠 前沿智能</span>
+    </div>
+    <div class="wire-card-title">
+      <a href="#story-ase-do-not-come-my-state-7eff182c396601f1" class="wire-title-link" title="点击直达本站全篇深度编译">
+        堪萨斯州民主党人恳求卡玛拉·哈里斯不要与其同台竞选：“请不要来我的州”
+        <span class="wire-ext-icon" style="color:var(--accent);">👇</span>
+      </a>
+    </div>
+    <div class="wire-snippet">【FOX News Latest (美国FOX快讯)·美保守派与鹰派】：堪萨斯州民主党参议员候选人亚当·汉密尔顿牧师（Rev. Adam Hamilton）周三对MS NOW表示，前副总统卡玛拉·哈里斯（Kamala Harris）应该远离他在堪萨斯州的竞选活动。此前，哈里斯曾前往密歇根州为民主党参议员候选人阿卜杜勒·赛义德（Abdul El-Sayed）助选，而汉密尔顿目前正努力在这个偏向共和党的州争取跨党派选民的支持。</div>
+    <div class="wire-actions">
+      <a href="#story-ase-do-not-come-my-state-7eff182c396601f1" class="wire-jump-link"><span>查阅本站全篇深度编译 ➔</span></a>
+      <a href="https://www.foxnews.com/media/kansas-democrat-begs-kamala-harris-not-campaign-please-do-not-come-my-state" target="_blank" rel="noopener noreferrer" class="wire-source-outbound"><span>官方出处 ↗</span></a>
     </div>
   </div>
 </div>
@@ -660,53 +666,41 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-ter-gets-candid-about-ai-3f251bee96ff67d7" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2663" data-content-paragraphs="27" data-published-at="2026-09-23T04:59:08.000Z" data-time-source="publication">
+<div id="story-eady-found-something-big-48a9d95577c8df72" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1721" data-content-paragraphs="15" data-published-at="2026-09-23T22:17:39.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 12:59</span>
+  <span class="news-meta-time">🕒 2026-09-24 06:17</span>
 </div>
 
-### [“我们已经在打昨天的战役”：希腊总理坦率畅谈人工智能](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> ‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI</div>
+### [Anthropic称其生物实验室已取得重大发现](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Anthropic says its biology lab has already found something big</div>
 
-<div class="article-body" data-article-body="true"><p>希腊总理基里亚科斯·米佐塔基斯（Kyriakos Mitsotakis）周一晚间抵达旧金山推介希腊，但他同时也做了一件在执行贸易出访任务的国家元首中并不常见的事。在约250名创始人、投资人和企业运营者面前，他公开表示，对于世界各国领导人私下讨论的诸多人工智能问题，他并没有现成的答案。</p>
-<p>在由“奋进希腊”（Endeavor Greece，一家支持新兴及成长型市场创业者的全球性非营利组织当地分支机构）主办的活动上，这位总理在与本刊编辑交流时，将他的湾区之行描述为一次兼具调研性质的事实调查任务。当天上午，他参访了特斯拉（Tesla）和红杉资本（Sequoia Capital）等机构，并计划于本周前往纽约参加联合国大会。但这次访问也是为了搭建桥梁；事实上，他正在向任何可能考虑在希腊落户的科技界人士进行推介。希腊预计将在明年重新获得权威指数编制机构明晟（MSCI）的“发达市场”评级。</p>
-<p>“我认为这再次表明经济表现良好，希腊不再被视为特殊个案，”米佐塔基斯表示。</p>
-<p>米佐塔基斯曾获斯坦福大学硕士学位，并将此次访问称为“重返故地”。在我们的座谈中，他首先陈述了经济方面的理由。希腊正在以创纪录的速度偿还债务，他还补充说，希腊的借贷成本甚至低于美国。“我不知道我该不该说这个，”他微笑着对台下听众说道。</p>
-<p>这并不是一个完全对等的比较。整个欧元区的利率本就更低，这解释了其中的部分差距。但这确实是一个强有力的宣传说辞。截至撰稿时，希腊10年期国债收益率约为4.3%，而美国国债收益率约为5%。在债务危机期间，这完全是不可想象的，2012年希腊国债收益率曾突破40%。</p>
-<p>米佐塔基斯同样热切地谈论了希腊是如何使用这笔资金的。例如，他表示，希腊从欧盟后疫情时代复苏基金获得的约360亿欧元中，很大一部分投入了数字基础设施建设，包括一个让希腊民众无需排队即可在线办理政务手续的门户网站，以及在慧与科技（Hewlett Packard Enterprise）协助下于港口城镇拉夫里奥（Lavrio）组装的新型超级计算机。他说，这台超级计算机将在数月内上线，为希腊的人工智能和科学研究提供算力支持。</p>
-<p>不出所料，他还列举了对科技公司而言可能更为重要的政策变革。他说，希腊调整了股票期权的税收政策，放宽了劳工法律，并为回国的希腊人提供长达七年的大幅税收减免。</p>
-<p>我们还讨论了该国日益增多的各类签证项目，不过在被问及如何衡量这些项目的成效时，米佐塔基斯表示，政府在审批速度方面“仍有工作要做”。</p>
-<p>他还主动提到，希腊公立大学发生了巨大转变。他表示，这些高校曾长期抱持“激进左翼观念”，轻视企业，而如今它们正在孵化初创公司。</p>
-<p>米佐塔基斯更大的目标是夺回希腊在债务危机期间流失的人才，当时该国许多年轻人因别无选择而离开。他还看到了一个机遇：随着美国工作签证变得越来越难获取，他建议更多初创公司创始人应该考虑在希腊进行招聘。</p>
-<p>确实让我印象深刻的是，当话题转向人工智能对社会的影响时，对话的基调发生了改变。米佐塔基斯坦诚自己并没有成熟完备的应对方案，这种坦率令人耳目一新。</p>
-<p>例如，希腊自明年1月起将对15岁以下儿童实行社交媒体禁令，许多国家也正在权衡或采取类似的举措。然而，他指出，考虑到人工智能聊天机器人似乎极具成瘾性，这一禁令可能已经过时了。</p>
-<p>“有时我觉得我们已经在打昨天的战役了，”他说。“我们的孩子伴随着数字陪伴者、虚拟男友或女友一起长大，这意味着什么？”</p>
-<p>他对人工智能进入课堂同样持谨慎态度。希腊已与OpenAI开展了一项教育试点项目，旨在减轻教师的行政负担，他也看好个性化AI导师的前景。但他表示，这些益处的实现取决于AI不取代“学习基本技能的艰苦付出”。他警告称，学生们已经在利用聊天机器人写作业，并补充道：“安于现状与懈怠是人性的弱点。”</p>
-<p>当我向他问及人工智能基础设施时——希腊一直在吸引数据中心投资——他将该国形容为一个异类。尽管由于运行所需的巨大电力和水资源消耗，全球各地对数据中心的反弹日益增加，但米佐塔基斯表示，希腊“尚未出现任何显著的反对情绪”。他指出，微软正在雅典附近建设一个数据中心集群，亚马逊云科技（AWS）最近宣布与希腊最大的公用事业公司达成协议，将在一个前产煤区建设该国最大的数据中心。他说，在当地，这些项目受到了欢迎。</p>
-<p>与许多政客不同，他也没有佯装对未来走向胸有成竹。就业岗位被替代“是注定会发生的事情，”他说，“而且没有任何政府、没有任何社会对其发生的速度做好了准备。”</p>
-<p>至于关于是否应当放缓人工智能发展的争论，他站在了呼吁放缓的前沿实验室负责人们一边。他说：“如果那些构建模型的人告诉我们，‘我们并不完全清楚这些模型内部到底在发生什么’”，尤其是在它们如何进行自我提升方面，“我们就需要认真倾听他们的声音。”</p>
-<p>他指出，某种形式的“明智监管”是不可避免的，而美国将在很大程度上决定其形态。不过他补充说，希腊非常乐意主持相关讨论。</p>
-<p>人类已经创造出了“一种正在迅速超越进化所孕育的最先进器官能力的人工智能”，米佐塔基斯说道，这引发了关于“何以为人”的思考。把技术专家与“社会科学家、哲学家、历史学家”聚集在一起，“我想不出还有比这里更适合展开这些讨论的地方了，”他表示。</p>
-<p>他的话颇有道理。雅典正是当年苏格拉底在古城公共广场（agora）向城邦公民连番发问、探讨何为美好生活与正义社会的地方。也许硅谷如今仍在争论的那些问题，最终也会在那里找到答案？</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>主编兼总经理</p>
-<p>您的下一次重大机遇就在 Disrupt。与超过 10,000 名创始人、风险投资家、运营人员和科技领袖建立联系。探索未来的突破，倾听塑造今日科技的声音，太平洋时间 9 月 25 日晚 11:59 前购票最高可立省 200 美元。</p>
-<p>Meta 的 Muse 在早期移动端发布表现上正超越 ChatGPT</p>
-<p>蒂莉·诺伍德（Tilly Norwood）的新闻发布巡演进展正如你对一个 AI 的预期那般</p>
-<p>Anthropic 正在运营一个开展生物学实验的实验室</p>
-<p>来自一位 ChatGPT 创造者的新型 AI 模型正令开发者们感到振奋<br />谷歌新款“CC”是一款帮助家庭处理日常家务的 AI 智能体<br />OpenAI 发现其模型给后续版本留下便签以隐瞒不良行为<br />最新公开的未涂黑法庭文件显示，微软高管称 AI 数据抓取是“人类历史上最大规模的劳动力窃取”</p></div>
+<div class="article-body" data-article-body="true"><p>上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。</p>
+<p>CRISPR是细菌用来抵御病毒的天然免疫系统，现已成为研究人员广泛使用的基因编辑技术。</p>
+<p>从本质上讲，Anthropic声称发现的是一种此前未知的酶系统，隐藏在噬菌体（一种感染细菌并在其体内复制的病毒）的DNA中。Anthropic的研究人员表示，该系统的行为类似于CRISPR，能够“执行DNA的剪切、复制和粘贴等操作”。</p>
+<p>这项发现究竟有多重大或多具新颖性，还有待更广泛的科研界进行验证。Anthropic首席执行官达里奥·阿莫代（Dario Amodei）在社交平台X上发文承认，该发现是建立在他人先前工作的基础之上的，斯坦福大学的一个团队此前曾发现过一个“在某些方面与Claude所发现的系统类似”的系统。</p>
+<p>但阿莫代和Anthropic不仅仅是在强调这项发现本身。这位CEO写道，他们正在大肆宣传该发现“主要是、尽管并非完全由Claude完成的”。</p>
+<p>一方面，这是令人震惊的。该实验室今年春季才刚刚建立（尽管Anthropic拒绝具体说明它究竟开放了几个月）。仅仅在短短几个月内就取得一项发现已经足够神速，但团队表示，Claude实际上只花费了21个小时的协同努力。Claude动用了约950个智能体（agent），消耗了2.1亿个token来检索数据。</p>
+<p>然而，Anthropic开展生物实验的消息曝光之际，正值包括阿莫代在内的多位AI公司CEO公开承认模型能力已变得如此强大、且潜在危险如此巨大，以至于全行业必须放慢脚步并建立安全测试流程之时。此前，本月早些时候，他的两名员工公开表示AI存在消灭所有人类的风险。</p>
+<p>阿莫代本人曾表示，他最担心的事情之一就是AI可能被用于生物恐怖主义。但他同时也写道，他相信AI将在“5到10年内治愈大多数疾病”。因此，Anthropic显然认定其中的回报值得承担相应的风险。</p>
+<p>考虑到这一点，这一消息中最大的看点或许并不是发现本身，而是生物实验室并没有彻底放任Claude自由行动。实体实验是由人类完成的。</p>
+<p>“我们位于湾区的实验室看起来就像一个典型的分子生物学实验室。我们开展的研究仅涉及较低级别的生物安全风险等级（BSL-1和BSL-2），并且我们不处理能够感染人类的病原体。所有实验室工作均由人类科学家完成。”</p>
+<p>诚然，利用AI开展生物学研究并非Anthropic独有。斯坦福大学的研究人员刚刚发表了一篇论文，介绍他们使用大语言模型（LLM）和CRISPR开展的工作。加州大学旧金山分校的研究人员利用AI从零开始设计酶。谷歌早在2020年就推出了其首个AI驱动的生物学研究工具AlphaFold。因此，AI显然已经深入渗透到专门AI实验室之外的生物学研究领域。</p>
+<p>不过，阿莫代并没有排除未来建立全自动化生物实验室的可能性。他表示：“最终，在采取适当安全保障措施的情况下，Claude本身甚至有可能通过自主控制实验设备来安全地开展实验，但我们目前还没有这样做。”</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>您的下一次重大合作就在Disrupt大会。与10,000多位创始人、风投人、运营者及科技领袖建立联系。探索明天的突破，倾听塑造当今科技的声音，太平洋时间9月25日晚上11:59前报名可立省高达200美元。</p>
+<p>Anthropic发布Opus 5.5：价格更低，性能达Fable级<br />Meta的Muse在早期移动端发布表现上超越ChatGPT<br />蒂莉·诺伍德（Tilly Norwood）的新闻发布会巡回正如你对一个AI所预期的那样进行<br />Anthropic正在运营一家开展生物实验的实验室<br />来自ChatGPT发明者的新型AI模型让开发者兴奋不已<br />OpenAI抓包其模型给后继版本留纸条以隐藏不良行为<br />新解密的诉讼文件披露，微软高管称AI抓取数据是“人类历史上最大规模的劳动力窃取”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>希腊总理基里亚科斯·米佐塔基斯（Kyriakos Mitsotakis）访问旧金山湾区，在非营利机构 Endeavor Greece 主办的活动上面对约 250 名创始人、投资人和运营者发表演讲并接受采访。</li>
-    <li>米佐塔基斯在访问期间参访了特斯拉（Tesla）和红杉资本（Sequoia Capital），随后计划前往纽约参加联合国大会。</li>
-    <li>来源叙事重点：报道聚焦希腊总理米佐塔基斯在硅谷的招商之行与对AI治理的坦诚态度。一方面突出希腊摆脱债务危机后的经济复苏、数字化基础设施投资及吸引科技资本与人才回流的政策；另一方面重点放大其罕见承认“政府与社会对AI冲击尚无完全准备”、警惕青年心理健康与就业替代、支持放缓AI研发节奏并主张智慧监管的独到立场。</li>
+    <li>Anthropic在湾区运营着一个湿生物学实验室，利用其AI模型进行物理实验。</li>
+    <li>Anthropic宣布其生物实验室发现了一种新的酶“系统”，其特性类似于CRISPR，能够执行切割、复制和粘贴DNA的操作。</li>
+    <li>来源叙事重点：聚焦Anthropic生物实验室声称由Claude主导发现类CRISPR新酶系统的突破性进展，同时审视AI进军湿实验在生物安全风险、‘人在回路’安全控制与行业竞争格局下的张力与矛盾。</li>
   </ul>
 </div>
 
@@ -715,44 +709,45 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-xing-with-minimal-effort-9533b05a654907c0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1863" data-content-paragraphs="14" data-published-at="2026-09-23T05:08:03.000Z" data-time-source="publication">
+<div id="story-oldnewthing-20260922-00-02cad50da0ec7ffe" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1379" data-content-paragraphs="15" data-published-at="2026-09-23T19:51:19.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 13:08</span>
+  <span class="news-meta-time">🕒 2026-09-24 03:51</span>
 </div>
 
-### [以最小代价实现沙箱化](https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Sandboxing with minimal effort</div>
+### [Windows 滚动条快捷操作简史](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719%2F)
+<div class="original-title-sub"><span class="orig-tag">原文</span> A brief history of Windows scroll bar shortcuts</div>
 
-<div class="article-body" data-article-body="true"><p>几天前，我为 Inko 合并了一个我认为相当有趣的新功能：以极小的代价为应用程序提供沙箱化能力。</p>
-<p>尽管内存安全是 Inko 的一个目标（忽略诸如 FFI 之类的常规例外逃生通道），但内存安全所能达到的效果终究有限。最显著的原因在于，代码仍然是由开发者编写的，而总体而言开发者是容易犯愚蠢错误的，包括我自己。而且，让大语言模型（LLM）代劳编写并不能改善现状；如果有任何变化的话，情况反而会更糟，毕竟普通 LLM 的智力水准相当于一只染上酗酒恶习的会说话的鹦鹉。</p>
-<p>一种由 Docker 推广开来的方法是在容器中运行程序。这不仅是因为它让分发变得更容易，还因为可以对容器施加额外的限制，比如限制它有权访问的文件。例如，本网站由 shost 提供服务，这是一个用 Inko 编写的静态文件服务器。为了运行该服务器，我使用了以下 Podman quadlet：</p>
-<p>如果你不熟悉 quadlet，它们本质上是用于借助 Podman 运行容器的 systemd unit 文件。它有点类似于 Docker Compose，但用起来要舒服得多。</p>
-<p>无论如何，这里的关键在于，在上述 quadlet 中我对容器施加了一些限制：除了“bind”权能外丢弃了所有其他 capabilities，并且需要提供服务的文件被以只读卷的形式挂载到容器中。哦，如果你好奇那行 UserNS 是用来做什么的，那是为了绕过这个已知问题。</p>
-<p>现在看来这一切都很棒，但如果应用程序本身就内置某种机制来限制自身权能，无论它以何种方式运行，那就更好了。</p>
-<p>幸运的是，大多数主流操作系统都提供了某种让应用程序自我沙箱化的途径。例如，在 Linux 上可以使用 Landlock，而在 macOS 上可以通过 sandbox_init 使用 Seatbelt。FreeBSD 则拥有 Capsicum，OpenBSD 则有 pledge 和 unveil。</p>
-<p>Inko 提供的沙箱 API 利用了这些底层原语，提供了一种跨平台的应用程序沙箱化方式，并尽可能尝试处理特定平台的行为与差异。例如，在 macOS 上允许执行某个文件很容易，但在使用 Landlock 时，你还必须为 ELF 程序解释器（在大多数情况下为 /lib64/ld-linux-x86-64.so.2）配置相应的规则。如果共享库位于非标准位置，你还需要确保这些库能够被读取。</p>
-<p>当然，这个新 API 也并非没有权衡。最显著的是，在 FreeBSD 上该沙箱是一个空操作（no-op）。这并不是因为我懒得使用 Capsicum，而是因为 Capsicum 要求你从根本上改变程序的架构。在 Linux 和 macOS 上，除了列出沙箱规则所需的几行代码（即上述 enable_sandbox 方法）之外，你无需更改程序即可应用沙箱限制。相反，Capsicum 的工作机制略有不同：一旦调用了 cap_enter，你便无法再使用像 open 这样的常规系统调用来打开资源。取而代之的是，Capsicum 要求你要么在调用 cap_enter 之前打开所有相应资源，要么提前打开目录，然后使用 openat 相对该目录打开资源。在某些情况下，你可能还必须使用 libcasper。当然，对于简单的程序来说这可能算不上大问题，但对于较大的程序，这可能需要对其编写方式进行广泛修改。openat 本身也存在自身的问题。</p>
-<p>这并不是说你无法让 Capsicum 正常工作，或者说它有什么“不好”，而是意味着（不幸的是）在许多情况下你无法使用 Capsicum，除非你愿意专门迎合 FreeBSD 和 Capsicum 来调整你的程序。</p>
-<p>那么使用这个新 API 为 Inko 应用程序建立沙箱究竟有多难呢？好吧，以下就是沙箱化 shost 所需的全部内容：</p>
-<p>也就是说：我们允许访问包含 TLS 证书的目录（如果启用了 TLS），允许访问包含待分发文件的目录，并允许绑定到服务器监听的 TCP 端口（例如启用 TLS 时的 443）。其他一切都被拒绝。</p>
-<p>鉴于 shost 已经运行在一个受限容器中，人们可能会认为对其应用沙箱是多此一举，但使用这个新 API 实在太简单了，以至于完全没有理由不用它。</p>
-<p>这让我想起在结束今天的话题之前值得重申的一点：一项安全功能的价值不在于它能做什么，而在于它的易用性。我认为 Inko 提供的 API 在实现这一点上做得相当出色，尽管由于它是我编写的，我可能会带有一些偏见。</p></div>
+<div class="article-body" data-article-body="true"><p>在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。</p>
+<p>后来加入的一个有趣新功能是“滚动至此”（Scroll Here）：你可以直接在你想要滚动到的位置右键单击，然后选择“滚动至此”。如果你需要长距离滚动，这要方便得多，因为你不再需要先抓住滚动条滑块，然后一路拖动到目的地。你只需关注你想去的地方，而不用管你来自何处。</p>
+<p>与此同时，还加入了一个更加隐蔽的快捷操作：按住 Shift 键的同时单击滚动条，滑块会直接跳转到你单击的位置。</p>
+<p>遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。</p>
+<p>太棒了，所以等我知道滚动条还有快捷键（Shift+单击）的时候，整个生态系统已经碎片化到了我甚至无法指望它能正常起效的地步。</p>
+<p>Raymond 参与 Windows 的演进已超过 30 年。2003 年，他创办了名为 The Old New Thing 的网站，其受欢迎程度远远超出了他最狂野的想象，这种发展至今仍让他感到不安。该网站后来促成了一本书的出版，碰巧也名为《The Old New Thing》（Addison Wesley 2007 年出版）。他偶尔会在 Windows Dev Docs 的 Twitter 账号上露面，讲一些不带任何有用信息的故事。</p>
+<p>参与讨论。</p>
+<p>“遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。”</p>
+<p>“遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。”</p>
+<p>对我而言，经典的 Win32 桌面及其原生 Win32 控件代表着品质与稳定。所有东西每次都能正常工作，并且完全符合预期。我在 90 年代末编写的一个 Win32 应用程序今天仍然可以在 Windows 11 上运行。它的 Delphi 项目可以在最新的 Delphi 版本（13.2）中毫无问题地打开。我坚信，我今天编写的 Win32 应用程序在 20 年后依然能够正常使用，不会遇到任何问题。</p>
+<p>我听起来可能像是某种“Win32 狂热分子”，但我真心认为经典 Windows 桌面在品质和稳定性方面是一项重大的技术成就。有时你可能会觉得“现在的年轻一代”并不认为经典的 Win32 桌面有多么“热门”或“酷炫”，但整个世界正是运行在它之上的：从医疗信息系统到酒店预订系统，一切都是基于经典 Win32 桌面的。</p>
+<p>而且它就是很靠谱。我非常喜欢它！</p>
+<p>我认为令人遗憾的是，如今它往往不再被认为是“酷”、“热门”或“现代”的东西了。</p>
+<p>我刚刚发现在 macOS 上，你可以按住 Option 键单击滚动条滑轨直接跳到该位置，要不是看到这篇帖子，我可能永远也不会知道。</p>
+<p>我知道在 Windows XP 中就已经实现了按住 Shift 单击跳转到特定位置的功能，因为我在 2006 年基于 XP 滚动条行为构建了第一个 Chromium 滚动条实现，而当时该功能就已经存在了。那时候我还逆向工程了指针拖离滑轨多远会导致滑块弹回滚动起点的精确阈值。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>作者为编程语言 Inko 合并了一项新功能，旨在以极小的代价为应用程序提供沙盒隔离能力。</li>
-    <li>Inko 的沙盒 API 利用主流操作系统的原生机制实现跨平台沙盒化，在 Linux 上使用 Landlock，在 macOS 上通过 sandbox_init 使用 Seatbelt，在 FreeBSD 上对应 Capsicum，在 OpenBSD 上对应 pledge 和 unveil。</li>
-    <li>来源叙事重点：介绍 Inko 语言最新实现的跨平台应用级沙盒 API，强调安全特性的关键在于极低接入成本与易用性，并通过底层操作系统机制（如 Landlock、Seatbelt）的技术差异解释其权衡设计</li>
+    <li>在 Windows 最初的二十年里，滚动条控件有五个基本的鼠标操作目标：两端箭头按行滚动，滑块与箭头之间的区域按页滚动，滑块本身支持拖动到特定位置。</li>
+    <li>在滚动条上右键点击目标位置并选择“Scroll Here”，可直接滚动到该位置。</li>
+    <li>来源叙事重点：探讨 Windows 经典 Win32 滚动条的历史隐藏快捷操作（如 Shift+点击直接跳转、右键“Scroll Here”），并延伸至对当代 UI 框架自定义滚动条导致原生交互断层、经典 Win32 稳定性与向后兼容性的怀旧与反思</li>
   </ul>
 </div>
 
@@ -761,289 +756,247 @@ notice:
   <span class="news-tag-pill">#Lobste.rs</span>
 </div>
 
-<div class="news-card-footer"><a href="https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719%2F" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-g-boost-soil-carbon-html-8f86cae9867e4764" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="704" data-content-paragraphs="1" data-published-at="2026-09-23T07:10:14.000Z" data-time-source="publication">
+<div id="story--emissions-then-who-does-88ff028cf4905582" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1924" data-content-paragraphs="16" data-published-at="2026-09-23T21:21:33.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">⚡ 战略能源与气候</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-23 15:10</span>
-</div>
-
-### [牲畜放牧或可促进冰岛亚北极草原的土壤碳封存](https://phys.org/news/2026-09-livestock-grazing-boost-soil-carbon.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Livestock grazing may boost soil carbon storage in Iceland&#39;s subarctic grasslands</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2025/grazing-cattle.jpg" alt="牲畜放牧或可促进冰岛亚北极草原的土壤碳封存" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>编辑：罗伯特·伊根（Robert Egan）<br />本文已根据 Science X 的编辑流程与准则进行审核。编辑在确保内容可信度的同时，重点标明了以下特征：<br />草地植物通过根系向土壤转移大量的碳，且其中大部分碳储存在地下。因此，促进土壤碳储存有助于应对气候变化。食草动物以草地植物为食，传统观点通常认为移除食草动物有利于碳封存，但发表在《全球变化生物学通讯》（Global Change Biology Communications）上的一项新研究揭示，情况可能恰恰相反。<br />通过借鉴冰岛亚北极草原长期停止放牧的现实证据，研究人员发现，放弃放牧导致土壤碳含量降低，而持续放牧始终带来更高的土壤碳含量。长期停止放牧还促使生态系统转向土壤碳含量较低的植被类型。<br />“这些发现对全球的气候政策、基于自然的解决方案以及可持续草地管理具有重要启示，”通讯作者、霍拉尔冰岛大学教授安娜·古德伦·索尔哈尔斯多蒂尔（Anna Gudrun Thorhallsdottir）博士表示。“它们凸显了放牧在维持草地健康和增强土壤碳储存方面的潜在重要性。”<br />论文信息：《持续牲畜放牧增强亚北极草地的土壤有机碳储存》（Sustained Livestock Grazing Enhances Soil Organic Carbon Storage in Sub-Arctic Grassland），《全球变化生物学通讯》（Global Change Biology Communications，2026年）。DOI: 10.1002/gcb4.70049<br />数学生物学学士，创意写作硕士。履历丰富，在科学和语言领域拥有独特视角。完整个人主页 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>草地植物通过根系将大量碳输送到土壤中，且大部分碳储存在地下。</li>
-    <li>传统观点通常认为移除食草动物有利于碳储存，但发表在《Global Change Biology Communications》上的一项新研究揭示情况可能恰恰相反。</li>
-    <li>来源叙事重点：聚焦一项颠覆传统认知的新科学研究，强调在冰岛亚北极草地中持续放牧反而有助于增加土壤碳储存，而停止放牧会导致土壤碳下降并促使植被向低储碳类型演替，进而突出放牧对气候政策和基于自然的解决方案的重要性</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#战略能源与气候</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-livestock-grazing-boost-soil-carbon.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-map-you-talk-to-over-tcp-c806b81b8accbee3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5701" data-content-paragraphs="45" data-published-at="2026-09-23T05:00:36.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-23 13:00</span>
-</div>
-
-### [Redis 不是一个通过 TCP 通信的 Map](https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/22/redis-is-not-a-map-you-talk-to-over-tcp/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Redis is not a map you talk to over TCP</div>
-
-<div class="article-body" data-article-body="true"><p>我在一家零工经济配送 App 工作，负责开发决定将配送订单派发给哪位骑手的服务。当你打开 App 下单让人送货时，系统中的某段代码就必须决定应该将这单活派发给哪位骑手。我们就是负责派发这些订单的人。</p>
-<p>我不便透露参与决策的无数参数，但即便不甚了解内情，从外部也能轻易推断出一个非常显而易见的因素：距离。为了做出优质匹配，我们必须确切知道每个人到底有多远。直线距离会盲目地告诉你河对岸的骑手很近，因此我们真正需要的指标是行驶时间。为此，我们依赖于一个路线规划引擎（routing engine），而它正是我们自身延迟的最大来源，且远超其他因素。它变慢时，我们就会变慢；而我们变慢时，App 的产品体验就会变差。</p>
-<p>一个繁忙的区域在进行单轮派单评估时，就需要极其庞大的路线估算量，而且只要业务在运转，就需要持续不断地进行估算。业务量并不是谁能够自由选择的。规模是硬性需求，而不是优化指标。（稍后会对此做更多说明。）</p>
-<p>这些估算的一个有用特性在于，它们经常高度重复。离我隔着三户人家的邻居去杂货店所花的时间，和我去杂货店的时间并无实质性差异；而我们俩开车去那家杂货店，跟开车去杂货店停车场里的加油站相比，也几乎感觉不出区别。与此同时，餐馆是完全静止不动的。相隔一个街区的两名骑手会产生两个几乎相同的路线请求，而 30 秒后，他们从两个新位置又会产生另外两个请求。</p>
-<p>如果在我们与路线规划引擎之间没有任何形式的缓存层，你注定会做大量重复工作，以固定的频率反复计算在实际功能上毫无二致的距离，有时一算就是几十分钟。</p>
-<p>进程本地缓存解决不了问题：计算估算结果的进程很少是下一次需要该结果的进程，因此缓存必须是共享的。</p>
-<p>我并不喜欢条件反射般地动用缓存——按经验来看，它往往是天真的开发者手中那个“但这能让它变快！”的万灵药按钮。不过这一次，感觉它确实契合了我们的需求，且方式有所不同。</p>
-<p>直接基于原始经纬度坐标进行缓存是行不通的。你需要使用 H3 来对坐标进行去重。H3 以不同分辨率将地球切分为六边形网格，并为包含特定坐标的六边形提供一个稳定的 ID。将起点和终点对齐吸附到对应的六边形上，这两个六边形内的所有坐标对就会折叠并合并为一个缓存键（cache key）。</p>
-<p>分辨率就像一个精度调节旋钮。较低的分辨率能带来极高的命中率，但结果精度较差；较高的分辨率给出的结果则几乎对任何人都没有复用价值。分辨率直接嵌入在缓存键本身，而不是隐式假设的，因此两种分辨率可以在缓存中并存，你可以无缝在它们之间切换而无需清空缓存。</p>
-<p>因此，缓存键的形式是 : : ，值是估算结果，而写入路径使用的是 MSET。批量计算，批量写入。我拍了拍手上的灰尘，把代码发布上线，坐下来准备迎接规模化带来的红利。</p>
-<p>结果它根本无法扩展，连一丁点扩展性都没有。</p>
-<p>我们的 Redis 是一个集群，而集群版 Redis 会将键空间划分为 16,384 个哈希槽（hash slot），分散在各个主节点（primary node）之间。像 MSET 这样的多键命令，只有当其中包含的每一个键都落在同一个哈希槽中时才是合法的。</p>
-<p>我是通过链路追踪（trace）发现这一点的。一次单独的读取在追踪中显示为数十个独立的 MGET span，每个 span 只针对单个键，而这很可能还是少算的结果。根 span 记录了总键数，但这个数字与幸存下来的子 span 数量完全对不上，因此 OpenTelemetry 收集器几乎肯定丢弃了一部分。我们的最大读取延迟指标远高于预期的最坏情况。我就是这样意识到槽（slot）的存在的。</p>
-<p>键落在哪个槽中，既不可配置也不是随机的。它的计算公式是 CRC16(key) mod 16384，因此哪怕两个键只差一个字符，也会落到毫无关联的槽中——这对于均匀分布来说非常棒，但对批量操作而言却是灾难性的。我的键里的每一个都拥有不同的起点 hex 和终点 hex。任意两个键落入同一个槽的概率，在实际中就是 1/16,384。</p>
-<p>客户端并没有胡来。多键命令只能寻址一个槽，因此设计良好的客户端会接收你对大量键的单次 MGET 请求，按各自所属的槽进行分组，并将每个分组通过各自的连接发送出去。鉴于我塞给它的键，这种做法完全是正确的。在任何配置组合下，每个键对应一次 MGET 都不可能快得起来。修复方案不在于客户端配置，而在于不能给它分布在如此多不同槽中的键。写入路径也患有同样的毛病，只是表现形式不同：要么直接抛出 CROSSSLOT 错误，要么每个键执行一次 SET 并消耗一次网络往返（round trip）。</p>
-<p>Redis 恰好针对这种情况提供了一个逃生通道，叫做哈希标签（hash tag）。如果一个键包含花括号之间的一段文本，那么 Redis 只对花括号内的文本进行哈希运算，并忽略键的其余部分。这意味着你可以有意识地决定哪些键共享同一个槽。</p>
-<p>89283082a53ffff:892830828efffff:9</p>
-<p>这里的陷阱在于你选择在花括号里放什么。极具诱惑的做法是放一些具语义的内容：比如按起点 hex 打标签，这样从同一个 hex 出发的所有路线就能批处理在一起。而这正是制造热点（hot spot）的根源。晚高峰就餐时间的市中心对应着同一个 hex、同一个标签、同一个槽、同一个节点，此时这个节点已经不堪重负被“烧冒烟”，而集群的其他部分却在闲置打瞌睡。</p>
-<p>你真正想要的，是某种任意键虚无主义（arbitrary key nihilism）。你希望标签本身完全不携带任何业务含义，并且选取的标签能让桶（bucket）均匀分布在整个集群中。</p>
-<p>因此，标签变成了一个通过暴力穷举得出的整数。标签实际上是一个模板，类似 {routing:v1: }，在启动时我们让 n 从零开始递增，每次对整个标签计算哈希，查看其落入的槽归属于哪台主节点。如果该节点仍有空位，就保留这个整数；如果满了，就扔掉它并尝试下一个。当每个节点都达到我们要求的数量时停止。</p>
-<p>这样产生的结果便是一组已知有效的整数地址列表：每个节点分配设定数量的地址，并刻意分散在所有节点上。任何具体的数字都没有特殊意义；它只是哈希值恰好落在仍有空位的节点上的首个整数。比如两台节点各分配两个，结果可能是 1、2、3、5。如果每台节点要三个，接下来的数字可能就是 8 和 11。整个结果是集群形态的函数，并且在进程每次启动时都会确定性地重新计算。</p>
-<p>一旦由标签来发挥作用，包含数千个键的一批请求就可以被拆分成屈指可数的几堆，而每一堆都是针对单一节点的合法多键命令。</p>
-<p>单凭大脑推理哪些整数会落到哪里是不可能的，因此这里是实际运行的遍历过程。从零开始的每个整数都会被放入标签中，使用 Redis 相同的 CRC16 进行哈希计算，并分配给拥有其所落入哈希槽的主节点。如果该主节点仍有空间，则保留该整数；如果没有，则将其丢弃，遍历继续处理下一个整数。</p>
-<p>保留下来的整数看起来很随意，因为它们只是那些 CRC16 刚好落在我需要的位置上的数字。在初期，几乎所有整数都会被保留，因为每个主节点都有空间。只有接近尾声、集群大部分已满且遍历正在寻找最后几个空位时，它才开始丢弃数字。改变主节点的数量，整个结果就会完全改变，这真实反映了重新分片（resharding）对此类方案带来的影响。</p>
-<p>收敛这种扇出（fan-out）解决了跨度（span）数量的问题，但它重要的第二个原因在于：并发请求落在哪一个节点上，决定了这种并发是否真正起到了任何作用。</p>
-<p>天真地看，你可以直接拿你的键列表进行分块，然后把这些块扇出分配给若干 goroutine。这感觉像是在并行，但实际上大多并非如此。如果这些块没有按目标节点进行组织，其中几个块就会同时针对同一个节点，而该节点只能串行依次处理它们，与此同时其他节点却处于闲置状态。你的吞吐量上限最终取决于最倒霉的那个节点串行处理的能力。</p>
-<p>因此，在任何数据发送到网络之前，我们都在本地为每个键计算哈希槽（这只是开销很小的 CRC16），并按槽进行分组。这样，扇出就是针对节点而不是随意的块展开的，并且每个正在传输中的请求都在不同的地方做着有意义的工作。</p>
-<p>接下来这个才真正让我恼火。缓存的路线预估必须有过期时间。SET 支持 EX 参数，而 MSET 什么都不支持。根本没有 MSETEX。你要么选择批量写入，要么选择 TTL，Redis 概不两全其美。</p>
-<p>常规的变通做法是为每个键使用流水线（pipeline）发送 SET ... EX，这以将一条命令变为数千条命令为代价换取了正确性。或者你可以先执行 MSET，然后在第二轮执行 EXPIRE，这会使你的命令数量翻倍，并且留下一个时间窗口：一旦两次操作之间发生崩溃，键就会被永久滞留在缓存中。</p>
-<p>解决方案是改为向 Redis 发送一个脚本。EVAL 会在节点上原子性地运行 Lua 脚本，而这个脚本可以完成 MSET 拒绝支持的任何操作。</p>
-<p>最后一个问题事后看来令人汗颜。缓存的值最初是 JSON 格式，因为理应如此嘛。它就是两个数字——一个时长和一个距离，被包裹在世界上最方便的序列化格式中。</p>
-<p>在我们的规模下，“最方便”和“开销最小”不再是一回事。每一次读取都意味着一次完整的 JSON 解码，这消耗了相当可观的 CPU 时间。</p>
-<p>于是该值变成了 CSV 格式：412.3,5120.7。体积更小，没有字段名，没有反射，解析只需要一次 strings.Cut 和两次 strconv.ParseFloat 调用。</p>
-<p>这一切都不是一蹴而就的。它是多次艰难摸索前行的产物，每一步都是我在看到前一步以未曾预料的方式失败后所获得的教训。</p>
-<p>作为一个 Go 语言狂热者，我自然对 Rob Pike 充满崇敬，尤其是他的“编程五原则”（5 rules of programming）。其中有两条恰恰描述了我走到今天这一步的原因：</p>
-<p>规则 2：度量。在进行度量之前不要去调优速度；即使度量过了，除非代码的某一部分在开销上彻底压倒了其他部分，否则也不要去调优。</p>
-<p>规则 3：当 n 很小时，花哨的算法会很慢，而 n 通常都很小。花哨的算法往往带有很大的常数因子。除非你确定 n 经常会很大，否则别搞什么花活。</p>
-<p>我把规则 3 当成了行动许可，并且彻底忽略了规则 2。我从未做过任何基准测试，只是写出了最简单的实现，在我的机器上运行良好，然后就发布上线了。我忽略考虑的是，在我们的工作负载中，n 通常并不小，它稳定且必然很大。</p>
-<p>我所掩盖过去的部分在于：规则 3 自带一条免责条款：“除非你确定 n 经常会很大”。而我其实是知道的。我实际做的事情，是把一条针对普遍情况的经验法则，套用到了一个我明明有测量数据却懒得去看的具体场景中。那些巨大的读取耗时所给我的教训，其实在写下一行代码之前，我们已有的监控看板本就可以告诉我，而且成本要低得多。</p>
-<p>规则 2 本来是可以及早发现这一点的，而且我认为平时对它的解读往往过于狭隘。度量不仅仅是为了决定某件事是否值得优化，它也是为了查明你究竟处于哪种量级范畴（regime）之中。在我们的工作负载中，n 稳定且巨大，而本文中的每一个改动，最终都源于去查看了一个在我动手之前就已经存在于看板上的数字。</p>
-<p>我跳过测试度量的真实原因是：度量过去是一件费时费力的苦差事。我入行摸爬滚打大多是在初创公司，那里的默认准则是“先上线后修复”，而“以后”往往是以链路追踪（trace）报警的形式出现的。做一个基准测试意味着要搭建测试脚手架（harness），而脚手架意味着要构造模拟生产环境的输入数据，这一切意味着要向别人解释为什么一个 2 个点数的故事卡（ticket）现在变成了 5 个点数。因此，我从未养成过做基准测试的反射习惯。</p>
-<p>这种借口是有保质期的，我认为在后 Claude 时代的编程中，它已经过期了。向大模型索要一段基准测试代码只需要花我一分钟的时间，而生成具有实际规模、看似合理的输入数据，恰恰是大模型最擅长处理的繁琐杂事。我不知道整个行业是否已经在这方面有所转变（我猜关于工时点数的争论依然如故），但我自己的工作流已经彻底改变了。弄清楚自己处于何种量级范畴的成本已经大幅下降，以至于“不知道”如今成了一种个人选择，而不是一种无可奈何的困境。</p>
-<p>但如果真能回到过去，我想提醒自己的事情其实与基准测试无关。而是我脑海中一直带着对 Redis 的错误心智模型。我曾把它想象成一个可以通过 TCP 交互的 Map。当你在页面加载时根据用户 ID 获取其会话时，这个模型没有任何问题——而这正是大多数人使用 Redis 的几乎全部场景。但对于我们在这里所做的事情来说，这是一个糟糕透顶的模型，本文中出现的每一个问题，都是“Map”心智模型悄然脱离现实的地方。</p>
-<p>Map 模型倒不能说是错的，只能说它是有适用范围的。它能准确描述“单个键”和“单次往返（round trip）”的情形，这也是所有教程展示给你的内容，因为几乎每个人面对的都是这种场景。但一旦超出这个范围，它所忽略的那些细节就会开始提出抗议。如果每个请求都落入同一个命令处理线程，并发就根本不是并发。TTL 结果发现只是特定命令的一个属性，而不是存储本身的通用属性。这些都不是什么晦涩的知识，全部都写在文档里，只是在根据 ID 获取用户会话时，你永远不会碰上这些问题而已。</p>
-<p>我怀疑这种现象具有普遍性，并非 Redis 所独有。抽象之所以有价值，是因为它隐藏了底层的机器细节；而它最终之所以会反噬，恰恰也是因为它隐藏了机器细节。我发现唯一可靠的判断依据就是规模与体量。一旦你在我们所处的这种规模下运行系统，你在“每次页面加载只执行一次”的场景中建立起来的心智模型，几乎肯定会以其设计初衷之外的方式承受重荷；因此，与其等生产环境用残酷的现实给你上一课，倒不如提前去深入研读并弄清楚其底层究竟是如何运作的。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>作者在一家零工经济外卖/配送应用负责决定向哪位配送员派单的服务系统工作。</li>
-    <li>配送派单服务依赖路由引擎计算实际驾车时间，路由引擎是该服务延迟的最大来源。</li>
-    <li>来源叙事重点：揭示高并发生产环境下 Redis Cluster 的真实系统行为与抽象泄漏，重点复盘从简单将 Redis 视作远程 Map 导致性能雪崩，到通过 H3 离散化、基于 Hash Tag 的确定性分片批处理、Lua 脚本原子写入与精简序列化逐步解决瓶颈的工程迭代过程</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/22/redis-is-not-a-map-you-talk-to-over-tcp/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-armers-crop-quality-html-5495847819714a52" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="889" data-content-paragraphs="10" data-published-at="2026-09-23T07:10:09.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-23 15:10</span>
-</div>
-
-### [传感器与无人机助力农户在节水的同时提升作物质量](https://phys.org/news/2026-09-sensors-drones-farmers-crop-quality.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Sensors and drones can help farmers improve crop quality while saving water</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/drone-field-1.jpg" alt="传感器与无人机助力农户在节水的同时提升作物质量" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>编辑：罗伯特·埃根（Robert Egan）</p>
-<p>本文已根据Science X的编辑流程和政策进行审核。编辑在确保内容可信度的同时着重标明了以下属性：<br />经同行评审的出版物</p>
-<p>发表在《植物、人类、地球》（Plants, People, Planet）上的一项新研究表明，利用无人机和基于传感器的灌溉等精准农业技术，不仅能节约种植番茄和葡萄所需的水资源，还能提升这些作物的品质。</p>
-<p>意大利的研究人员对比了两块番茄和鲜食葡萄种植样地：第一块采用传统农耕方法管理，第二块则采用先进的传感器系统指导灌溉。后一种精准农业策略使种植番茄和鲜食葡萄的耗水量减少了高达15%，同时提高了产量和果实品质。</p>
-<p>当前全球许多地区正遭受干旱和极端高温天气，该研究展示了精准农业如何帮助农户更好地适应气候变化与水资源短缺。</p>
-<p>“精准农业技术证明了节约用水与提升作物品质可以齐头并进。通过利用传感器保护植物免受气象应激影响，我们使它们的生长更加稳定。此外，借助无损检测技术，农户还可以在田间直接测定番茄与葡萄的品质，而无需破坏或损伤作物，从而省去了耗时的实验室分析，”通讯作者、巴里阿尔多莫罗大学（University of Bari Aldo Moro）教授朱塞佩·费拉拉博士（Giuseppe Ferrara, Ph.D.）表示。</p>
-<p>“归根结底，这种全面的智慧农业方法有助于应对气候变化、保障我们的粮食供应，同时确保消费者能够获得更高品质的农产品。”</p>
-<p>论文信息：《节水精准农业：以加工番茄与鲜食葡萄为例》（Precision agriculture for water saving: the case of processing tomato and table grape），发表于《植物、人类、地球》（Plants People Planet，2026年）。DOI: 10.1002/ppp3.70253</p>
-<p>期刊信息：《植物、人类、地球》（Plants, People, Planet）</p>
-<p>作者简介：拥有数学生物学学士学位及创意写作硕士学位。游历丰富，对科学和语言持有独特见解。查看完整个人资料 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>发表在《Plants, People, Planet》上的新研究表明，利用无人机和基于传感器的精准农业灌溉技术可以在节约番茄和葡萄生产用水的同时提高作物质量。</li>
-    <li>意大利的研究人员对比了采用传统耕作方式和采用先进传感器灌溉系统的两块番茄和鲜食葡萄试验田。</li>
-    <li>来源叙事重点：聚焦意大利研究团队在《Plants, People, Planet》发表的最新研究成果，突出无人机与传感器灌溉等精准农业技术在对抗干旱和气候变化中的双重效益（节水最高达15%并提升果实产量与品质），强调田间无损检测对传统繁琐实验室检测的替代优势。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-sensors-drones-farmers-crop-quality.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-23-10702286-shtml-5fc41afce3410042" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="756" data-content-paragraphs="20" data-published-at="2026-09-23T07:45:08.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-24 05:21</span>
+</div>
+
+### [如果连亚马逊都不知道如何消除碳排放，那还有谁会知道？](https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> If Amazon doesn’t know how to eliminate carbon emissions, then who does?</div>
+
+<div class="article-body" data-article-body="true"><p>亚马逊首席可持续发展官周二表示，该公司尚不知道将如何实现到2040年净零碳排放的目标。</p>
+<p>“我们仍在向这一目标努力，”卡拉·赫斯特（Kara Hurst）在Axios主办的一场活动上表示，她随后补充道，自己“不会坐在这里宣称：‘我们知道达成这一目标的所有途径。’”</p>
+<p>这一表态既坦诚又现实，但也有些令人失望。如果亚马逊都没有脱碳计划，那还有谁会有呢？</p>
+<p>亚马逊是全球体量最大的公司之一，去年营收增长12%至7170亿美元——规模大致相当于爱尔兰的经济总量。正如联合国秘书长安东尼奥·古特雷斯所指出的那样，权力的天平正在从政府向少数几家大企业倾斜，亚马逊的崛起正是这一现象的缩影。</p>
+<p>权力转移，责任随之而来。问题在于，亚马逊究竟承担着多大责任？</p>
+<p>活动结束后，赫斯特在给TechCrunch的书面回复中表示：“这并非企业与政府对立的问题。应对气候变化所需规模的行动需要双方共同发力，且需要彼此协作。”她补充道：“在能够发挥领导作用的地方，我们都在身体力行。”</p>
+<p>诚然，亚马逊并未坐视不理。在昨天的演讲中，赫斯特指出，该公司“连续数年成为全球最大的清洁能源采购商之一”，其资产组合中拥有42吉瓦的清洁能源。她还表示，亚马逊降低了碳排放强度（即每产生一美元营收所产生的污染量），不过这一说法取决于计算的时间跨度。去年，其碳排放强度较2024年有所上升，尽管仍低于2022年的水平。</p>
+<p>亚马逊业务庞大且错综复杂，导致其碳排放几乎遍及经济的各个领域，从航空、人工智能到农业和建筑业。该公司需要各个行业的供应商共同努力以实现其目标。“这绝非我们一己之力所能完成的事情，”赫斯特在Axios活动上说道。</p>
+<p>该公司承认承诺由其自身负责。赫斯特对TechCrunch表示：“我们对《气候宣言》（The Climate Pledge）设定的到2040年实现净零碳排放目标负责。这项承诺没有改变。”</p>
+<p>但亚马逊的一些决定也削弱了其在该议题上的领导地位。今年早些时候，一项调查披露了该公司计划建造一座7.65吉瓦的天然气发电厂，为一处人工智能数据中心园区供电。该项目的35台涡轮机每年可能释放高达3300万吨二氧化碳，使其成为美国境内该类污染的最大单一来源。</p>
+<p>除了少数例外，企业几乎总是将收入增长置于气候承诺之上。对于像亚马逊这样运营着全球最大云服务的公司而言，人工智能显然是一个绝不能错过的营收增长驱动力。</p>
+<p>气候科技界一直希望，随着清洁能源成本的下降，市场机制能施展魔力来减少碳排放。虽然有一些成功案例，但人工智能热潮表明，这种方法存在局限性。就连作为该领域领头羊之一的亚马逊，也在大举押注天然气。在此过程中，它实际上等于在宣称，应对气候变化是留给未来几代管理层去处理的问题。这听起来是不是很熟悉？</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>气候领域资深记者<br />蒂姆·德尚（Tim De Chant）是TechCrunch的气候领域资深记者。他曾为多家出版物撰稿，包括《连线》（Wired）杂志、《芝加哥论坛报》（Chicago Tribune）、Ars Technica、《The Wire China》以及他担任创刊编辑的《NOVA Next》。<br />德尚还是麻省理工学院（MIT）科学写作研究生项目的讲师，并于2018年在MIT荣获奈特科学新闻学者奖学金（Knight Science Journalism Fellowship），在此期间他研究了气候技术并探索了新闻业的新商业模式。他拥有加州大学伯克利分校环境科学、政策与管理博士学位，以及圣奥拉夫学院（St. Olaf College）的环境研究、英语和生物学学士学位。<br />您可以通过电子邮件 tim.dechant@techcrunch.com 与蒂姆取得联系或核实其外联信息。</p>
+<p>您的下一份重磅人脉就在Disrupt峰会。与10,000多名创始人、风险投资人、运营者和科技领袖建立联系。探索未来的突破性技术，倾听塑造今日科技的前沿声音，在太平洋时间9月25日晚上11点59分前购票立省高达200美元。</p>
+<p>Anthropic发布Opus 5.5：价格更低，性能达寓言级别<br />Meta旗下的Muse移动端早期发展势头超越ChatGPT<br />蒂莉·诺伍德（Tilly Norwood）的媒体巡回宣传进展一如对AI所预期的那样<br />Anthropic正在运营一个开展生物学实验的实验室<br />ChatGPT发明者推出的一种新型AI模型令开发者振奋不已<br />OpenAI抓包其模型向后代留纸条以隐瞒不良行为<br />最新未删节法律文件披露：微软高管称AI抓取是“人类历史上最大规模的劳动成果窃取”</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>亚马逊首席可持续发展官 Kara Hurst 在 Axios 活动上表示，公司尚不清楚将如何实现到 2040 年净零碳排放的目标，但仍在朝该目标努力。</li>
+    <li>亚马逊去年的营收增长了 12%，达到 7170 亿美元，体量接近爱尔兰的经济规模。</li>
+    <li>来源叙事重点：质疑大型科技公司在生成式 AI 能源狂潮下与气候减排承诺之间的脱节；以亚马逊高管坦承‘不知如何实现 2040 净零’为由头，批评科技巨头为保障 AI 业务增长而重返化石能源（如巨型天然气电厂），将商业利益置于环境责任之上。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-rder-against-star-nephew-2a0557349533ca34" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1061" data-content-paragraphs="19" data-published-at="2026-09-23T22:11:35.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-24 06:11</span>
+</div>
+
+### [多莉·帕顿遗产之争愈演愈烈，经纪人申请对这位明星的侄子发出限制令](https://www.foxnews.com/entertainment/dolly-parton-legacy-battle-turns-bitter-manager-seeks-restraining-order-against-star-nephew)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Dolly Parton’s legacy battle turns bitter as manager seeks restraining order against star&#39;s nephew</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dolly-parton-mountain-magic-christmas.jpg?ve=1&amp;tl=1" alt="多莉·帕顿遗产之争愈演愈烈，经纪人申请对这位明星的侄子发出限制令" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>周二，关于多莉·帕顿（Dolly Parton）遗产的激烈争端发生了戏剧性转折，这位乡村音乐偶像的长期经纪人向法院申请针对其侄子的限制令。</p>
+<p>据美联社报道，负责运营多莉生前创立、用于管理其商业利益的公司“She&#39;s Alive, LLC”的丹尼·诺泽尔（Danny Nozell），在纳什维尔向法院申请了针对布莱恩·西弗（Bryan Seaver）的限制令。帕顿生前曾选择西弗向外界公布其死讯。这位创作型歌手于8月25日去世。</p>
+<p>不到一个月后，一场幕后的不和演变成了一场法律战。</p>
+<p>用多莉·帕顿自己的话回顾其人生：从大烟山时期的贫困走向乡村音乐的不朽殿堂</p>
+<p>诺泽尔和She&#39;s Alive公司指控西弗在他们提出临时限制令申请前的数周内，发送了越来越多具有威胁性的信息。在此次申请前，She’s Alive已因西弗涉嫌“恐吓行为”将其解雇。</p>
+<p>美联社获得的法庭文件显示了据称由西弗发送的短信和电子邮件。</p>
+<p>这些信息最初包括威胁要摧毁该品牌，而在帕顿去世后，据称西弗沉醉于自己新获得的知名度，并自称是“国际军火商”。</p>
+<p>点击此处将娱乐独家爆料直接发送至您的邮箱</p>
+<p>在9月1日撰写并包含在法庭文件中的一条信息中，西弗表示：“我要开设一个播客，专门用来毁掉多莉的品牌合作，并揭露这些人对我们做出的违规行为。这将会非常精彩。要么就他妈的付钱给我。”</p>
+<p>根据法庭文件，据称这些信息令帕顿商业圈内的人士感到惶恐不安，导致数名员工辞职，其信托与遗产律师也选择退出。She’s Alive还雇用了私人安保人员，以在工作场所和住所保护员工。</p>
+<p>She&#39;s Alive于9月15日解雇了西弗，并请求法院禁止这位帕顿的侄子联系其员工、律师和商业伙伴，或接近他们1000英尺以内。</p>
+<p>喜欢您正在阅读的内容吗？点击此处获取更多娱乐新闻</p>
+<p>西弗在向TMZ提供的一份声明中对这些指控进行了反驳。</p>
+<p>“我是一名职业军人和军事承包商，确实为外国政府从事军火交易。我是一名安保专业人员，也是一名杀手，”他告诉该媒体。“然而，这起诉讼中的内容绝非威胁，大部分言论我都坚持认可。”</p>
+<p>他声称这些信息被断章取义，使其显得具有威胁性。</p>
+<p>测试您的娱乐知识，看看你能得多少分</p>
+<p>“当时我是在私下里同丹尼坦诚交谈，我曾以为他是我的朋友，而他自以为是个黑帮分子，”他说道。“其中很多信息只是两个大男人一边悲痛一边在电话里宣泄怒火、痛哭流涕的对话。”</p>
+<p>福克斯新闻数字频道（Fox News Digital）已联系诺泽尔和西弗的代表寻求进一步置评。</p>
+<p>美联社对本报道亦有贡献。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-24 06:11 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/dolly-parton-legacy-battle-turns-bitter-manager-seeks-restraining-order-against-star-nephew" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-unsuspecting-fans-season-22d28e880ee5a912" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="856" data-content-paragraphs="19" data-published-at="2026-09-23T22:02:02.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 15:45</span>
+  <span class="news-meta-time">🕒 2026-09-24 06:02</span>
 </div>
 
-### [李在明：韩国将推动长期停滞的朝美对话尽快重启](https://www.chinanews.com.cn/gj/2026/09-23/10702286.shtml)
+### [纽约岛人队本赛季将对毫不知情的球迷推出美食“大灾难”](https://www.foxnews.com/outkick-sports/new-york-islanders-unleash-culinary-disasterpiece-unsuspecting-fans-season)
+<div class="original-title-sub"><span class="orig-tag">原文</span> New York Islanders set to unleash culinary &#39;disasterpiece&#39; on unsuspecting fans this season</div>
 
-<div class="article-body" data-article-body="true"><p>中新网9月23日电 据韩联社报道，当地时间22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论发言时表示，韩国将努力创造条件，推动长期停滞的朝美对话尽快重启，并使其进一步发展为有关各方围绕结束朝鲜半岛战争状态、向和平机制转型展开的对话。</p>
-<p>据报道，同日，李在明还在纽约与美国总统特朗普举行会谈，双方商定就实现朝鲜半岛和平稳定保持密切沟通。韩国国家安保室长魏圣洛介绍韩美领导人会晤结果时表示，双方进行了约30分钟会谈。</p>
-<p>报道指出，青瓦台方面表示，会谈中，特朗普再次确认与朝鲜开展对话的意愿。</p>
-<p>此外，韩方表示，韩美双方还以2025年11月公布的“联合事实清单”为基础，确认在核潜艇燃料、铀浓缩和乏燃料后处理、造船业以及战时作战指挥权移交等方面深化韩美合作的共同意愿，并商定继续推进后续磋商。</p>
-<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
-<p>比了76年！全世界都来上海比&quot;手艺活&quot;，比的到底是啥</p>
-<p>多地布局机器人“学校”促多元应用场景加快落地</p>
-<p>五仁月饼馅料演变史：源头可以追溯到汉代“胡饼”</p>
-<p>专访歌手周深：冀用歌声传递“来自家乡的拥抱”</p>
-<p>给古人贴标签、为名著组CP 当代网友这样理解经典？</p>
-<p>白宫高官减脂餐，东北人的过年菜：一口酸菜，两种顶流</p>
-<p>干眼不只是“眼睛缺水” 患者呈现年轻化趋势</p>
-<p>怎么折都有面？这座北方小城用折叠箱房圈粉全球</p>
-<p>中秋限定“饺子月饼”来啦 网友：这一口下去感觉过了好几个节</p>
-<p>河北“月饼村”中秋飘香海外：从家庭作坊到出口韩澳</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>香港海洋公园大熊猫一家享用节日大餐迎中秋</p>
-<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/nhl-islanders-players-122725-1.jpg?ve=1&amp;tl=1" alt="纽约岛人队本赛季将对毫不知情的球迷推出美食“大灾难”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>我们大多数人从小就明白一个道理：仅仅因为你喜欢两样独立的事物，并不意味着把它们组合在一起就能变成一个绝妙的新事物。</p>
+<p>例如，你可能深爱着自己的妻子，同时也非常热衷于和大学哥们儿一起喝上几杯，但把这两件事凑到一块儿，恐怕绝非世上最明智的主意。</p>
+<p>这也同样适用于食物。尽管我既喜欢酸黄瓜又喜欢巧克力奶昔，但你绝不会看到我把它们混在一起吃。</p>
+<p>维加斯黄金骑士队在斯坦利杯总决赛中祭出特许餐饮大招</p>
+<p>既然如此，天晓得纽约岛人队到底是怎么想的，竟然觉得把 Nerds Gummy Clusters 软糖塞进烤奶酪三明治里、并称其为一件可食用的球场特许餐饮是个绝妙的主意？</p>
+<p>快给我拿个桶来吐！</p>
+<p>我喜欢烤奶酪。</p>
+<p>我也很喜欢 Nerds Gummy Clusters 软糖。</p>
+<p>《克雷格·卡顿秀》（THE CRAIG CARTON SHOW）——真实无滤镜、直率且不容错过。立即下载他的每日播客！</p>
+<p>但也许我们应该把这两样东西留在餐谱的两端，让它们各归其位。</p>
+<p>体育场馆到底是怎么回事，非要把能想到的最奇怪、最风马牛不相及的食物凑在一起？</p>
+<p>这简直就像是我们陷入了某种烹饪军备竞赛，所有这些球队都在竞相攀比，试图借此博取新闻曝光（显然，我眼下也为此贡献了一份力量）。</p>
+<p>我妈妈总是告诉我，没尝过的东西别轻易否定，但我想我还是算了，不碰这块 Nerds 烤奶酪怪胎，直接默认自己不喜欢它吧。</p>
+<p>令人难过的是，这种弗兰肯斯坦式的科学怪人物品必然存在着市场，否则这些球场早就彻底停止制作它们了。</p>
+<p>如果你正在读这篇文章，并且碰巧是那种心甘情愿尝试像 Nerds 烤奶酪三明治这种东西的“怪胎”，帮我个忙：千万别买。</p>
+<p>我真希望能隔上一两个月以上，不用在地球上看到最糟糕的菜单项目，然后又被逼得抓狂不得不写文章批判它。</p>
+<p>资本主义的美妙之处在于，我们只要不买，就能让这玩意儿销声匿迹。</p>
+<p>所以下次你去岛人队的比赛时，不妨选那种装满啤酒的塑料冰球杆，或者用守门员面罩盛着的玉米片玉米片。</p>
+<p>在这个冰球赛季，请给我保留最后一丝理智吧。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>当地时间22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论发言时表示，韩国将努力创造条件，推动长期停滞的朝美对话尽快重启，并使其进一步发展为有关各方围绕结束朝鲜半岛战争状态、向和平机制转型展开的对话。</li>
-    <li>同日，李在明在纽约与美国总统特朗普举行会谈，双方商定就实现朝鲜半岛和平稳定保持密切沟通。</li>
-    <li>来源叙事重点：聚焦韩国总统李在明在联合国大会上的涉朝政策表态，以及韩美首脑会晤中关于重启朝美对话、深化核潜艇燃料、铀浓缩、造船与战时作战指挥权移交等防务与产业合作的议程。</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-24 06:02 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-23/10702286.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/new-york-islanders-unleash-culinary-disasterpiece-unsuspecting-fans-season" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-spite-community-backlash-e74d38f2c46779bc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1924" data-content-paragraphs="16" data-published-at="2026-09-23T03:31:12.000Z" data-time-source="publication">
+<div id="story-ase-do-not-come-my-state-7eff182c396601f1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1673" data-content-paragraphs="20" data-published-at="2026-09-23T21:56:05.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 11:31</span>
+  <span class="news-meta-time">🕒 2026-09-24 05:56</span>
 </div>
 
-### [尽管面临社区强烈反对，Discord 的年龄验证时代依然来临](https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Discord’s age verification era is upon us, despite community backlash</div>
+### [堪萨斯州民主党人恳求卡玛拉·哈里斯不要与其同台竞选：“请不要来我的州”](https://www.foxnews.com/media/kansas-democrat-begs-kamala-harris-not-campaign-please-do-not-come-my-state)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Kansas Democrat begs Kamala Harris not to campaign with him, ‘Please do not come to my state’</div>
 
-<div class="article-body" data-article-body="true"><p>从周三开始，社区通讯平台 Discord 将向所有用户推行年龄验证措施。</p>
-<p>此次推行之前，该公司曾在 2 月因用户强烈反对而推迟了年龄验证计划，用户担心生物识别扫描和身份证件核验可能会危及自身隐私。这些担忧并非空穴来风；去年，一家与 Discord 合作的第三方供应商遭到入侵，可能泄露了 7 万名用户的数据，其中包括用于身份验证的政府身份证照片和自拍照片。</p>
-<p>“年龄确认会引发激烈的争论和怀疑，尤其是当它涉及共享生物识别信息或某种身份证明时，”Discord 首席技术官斯坦尼斯拉夫·维什涅夫斯基（Stanislav Vishnevskiy）在周二发表的一篇博文中写道。“与此同时，有关年龄确认的法律法规正在不断增加，自上一篇文章发布以来，我们已不得不在其他地区（包括巴西和得克萨斯州）推行年龄确认。”</p>
-<p>然而，维什涅夫斯基表示，超过 90% 的 Discord 用户不需要主动验证年龄。他解释说，Discord 将利用现有的账户数据来检测“信号”，例如账户注册时长（账户存在了多久）、设备和活动数据以及其他使用模式，以确定用户属于成年人、青少年还是未确认年龄组。</p>
-<p>Discord 表示，它不会根据消息内容、个人资料或人口统计学属性来推测用户的年龄。</p>
-<p>“一个典型的 15 岁青少年使用 Discord 的方式（包括他们加入的社区数量以及他们与他人的互动方式），从整体上看，与典型的 30 岁用户截然不同，”该公司在同样于周二发布的另一篇技术博文中写道。“我们的[机器学习]模型已经学会了这些模式，以预测给定账户大概率属于成年人还是青少年。”</p>
-<p>这并不意味着 Discord 正在收集新的用户数据。社交媒体公司保留客户的这类数据属于常规操作，尽管直接将这一点挑明可能会让人感到有些不安。</p>
-<p>由于当地法律要求 Discord 在某些地区采用年龄确认技术，该公司得以利用将用户行为与年龄相关联的可靠确认数据来训练其模型。</p>
-<p>如果 Discord 无法确定某位用户是否为成年人，该用户仍可在不进行生物识别或证件扫描的情况下证明自己的年龄。他们可以通过共享信用卡信息，或提供来自其苹果 App Store 或谷歌 Play 商店账户的年龄段数据来进行申诉。</p>
-<p>对于确认成年的用户，平台的使用体验不会发生任何变化。然而，青少年账户将被自动禁止访问受年龄限制的服务器或频道。来自非好友用户的私信请求将被归入单独的消息请求收件箱，且当青少年接受与其没有共同好友的人的好友请求时，将会收到系统警告提示。</p>
-<p>随着全球各国政府为了保护未成年人上网安全而不断出台年龄验证要求，专家警告称，这些年龄审查可能会引发一系列新的隐私和安全隐患。这让像 Discord 这样的平台陷入了两难境地：要么遵守规定，要么面临制裁风险。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>Amanda Silberling 是 TechCrunch 的资深记者，报道技术与文化的交集。她还曾为 Polygon、MTV、《凯尼恩评论》（Kenyon Review）、NPR 和《商业内幕》（Business Insider）等刊物撰稿。她与科幻作家 Isabel J. Kim 共同主持了一档关于互联网文化的播客《Wow If True》。在加入 TechCrunch 之前，她曾担任基层组织者、博物馆讲解员和电影节协调员。她拥有宾夕法尼亚大学英语文学学士学位，并曾担任普林斯顿在亚洲项目（Princeton in Asia）驻老挝的研究员。</p>
-<p>您可以通过发送电子邮件至 amanda@techcrunch.com 与 Amanda 联系或核实其沟通，或通过 Signal 发送加密消息至 @amanda.100。</p>
-<p>您的下一个重要人脉就在 Disrupt。与 10,000 多名创始人、风投人、运营者和科技领袖建立联系。探索未来的突破性技术，倾听当今正在重塑科技行业的声音，并在太平洋时间 9 月 25 日晚上 11:59 之前购票，立省高达 200 美元。</p>
-<p>Meta 的 Muse 增速超越 ChatGPT 早期移动端表现<br />蒂莉·诺伍德（Tilly Norwood）的媒体巡回宣传正如你对 AI 所预期的那样展开<br />Anthropic 正在运营一家开展生物实验的实验室<br />出自 ChatGPT 发明者之手的新型 AI 模型令开发者倍感振奋<br />谷歌推出全新“CC”，这是一款帮助家庭处理家务的 AI 智能体<br />OpenAI 抓包其模型给后继模型留言以隐瞒不良行为<br />最新未涂黑文件披露，微软高管称 AI 爬取数据是“人类历史上最大规模的劳动力窃取”</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Adam-Hamilton-Kansas-Senate.jpg?ve=1&amp;tl=1" alt="堪萨斯州民主党人恳求卡玛拉·哈里斯不要与其同台竞选：“请不要来我的州”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>堪萨斯州民主党参议员候选人亚当·汉密尔顿牧师（Rev. Adam Hamilton）周三对MS NOW表示，前副总统卡玛拉·哈里斯（Kamala Harris）应该远离他在堪萨斯州的竞选活动。此前，哈里斯曾前往密歇根州为民主党参议员候选人阿卜杜勒·赛义德（Abdul El-Sayed）助选，而汉密尔顿目前正努力在这个偏向共和党的州争取跨党派选民的支持。</p>
+<p>当被直接问及是否欢迎哈里斯来到堪萨斯州与他共同竞选时，汉密尔顿断然拒绝了这一可能性。</p>
+<p>“不，我不会欢迎的，”他对MS NOW说。“我无意对她不敬，但她对我毫无帮助。我们是不同类型的民主党人……我绝无冒犯卡玛拉·哈里斯的意思……请不要来我的州。我这里不需要你。实际上你反而会伤害到我，”汉密尔顿说。</p>
+<p>【相关阅读：爱荷华州民主党州长候选人表示不希望拜登或哈里斯为其助选】</p>
+<p>针对汉密尔顿的言论，共和党全国委员会（RNC）在给福克斯新闻数字频道（Fox News Digital）的一份声明中作出回应，指责这位民主党候选人企图与哈里斯划清界限，尽管该委员会认为两人的政治履历如出一辙。</p>
+<p>“从妖魔化基督徒到试图通过‘绿色新政’禁止牧场养殖，亚当·汉密尔顿一生都在紧跟卡玛拉·哈里斯的激进左翼议程。堪萨斯人会像在2024年抛弃他最好的朋友卡玛拉·哈里斯那样，彻底抛弃汉密尔顿，”共和党全国委员会发言人扎克·克拉夫特（Zach Kraft）表示。</p>
+<p>汉密尔顿是复活教堂（Church of the Resurrection）的长期牧师，他在8月份击败了其他10位候选人赢得了民主党初选，目前正挑战正在寻求连任的共和党参议员罗杰·马歇尔（Roger Marshall）。</p>
+<p>【相关阅读：距离中期选举还有四个月：将决定参议院多数席位的12场竞选】</p>
+<p>他将自己塑造成一位具有独立思维的民主党人，必须吸引党内基本盘之外的选民。在上周接受CNN采访时，汉密尔顿表示，由于堪萨斯州拥有庞大的共和党选民群体，全国性的民主党知名人物在该州可能会成为一种负担。</p>
+<p>汉密尔顿说，他的教会会众中同样包含了大量共和党人、民主党人和独立人士，并坚称堪萨斯选民乐于支持一位能与全国性党派部分立场划清界限的民主党人。</p>
+<p>“我认为许多全国性的民主党人在堪萨斯州实际上会成为竞选包袱，”他说。“我认为堪萨斯人是具有独立思考能力的，我们州有45%是共和党人，我需要争取这些共和党人。”</p>
+<p>【相关阅读：柯尔斯滕·席内马质疑温和派在民主党内是否仍有一席之地】</p>
+<p>据堪萨斯州州务卿的数据，2024年唐纳德·特朗普总统在堪萨斯州以57.16%的得票率击败了哈里斯的41.04%。</p>
+<p>汉密尔顿发表这番言论的前一天，哈里斯刚在底特律与赛义德共同出席竞选活动。这位前副总统与该密歇根州民主党人一起参加了一场关于黑人孕产妇健康和医疗保健成本的圆桌会议。哈里斯在亮相期间公开支持赛义德，随后还在全美有色人种协进会（NAACP）的活动上向民主党选民发表演讲。</p>
+<p>共和党人也试图利用汉密尔顿数十年的布道言论来反制他。副总统JD·万斯（JD Vance）最近在为共和党人助选时，便针对汉密尔顿的宗教与政治记录发起了攻击。</p>
+<p>共和党全国委员会的批评反映了共和党一条更广泛的攻击路线，这涉及汉密尔顿2020年关于气候变化的一次布道。美联社针对该场竞选的一篇报道称，共和党的竞选广告剪辑了该布道中的不同片段，其中包括汉密尔顿呼吁基督徒为未能保护造物而“忏悔”，以及在布道的另一处建议将改变饮食结构作为减少温室气体排放的一种可能方式。</p>
+<p>【点击此处查看更多媒体与文化报道】</p>
+<p>汉密尔顿最近支持了有利于农业发展的立法。据《堪萨斯反光镜》（Kansas Reflector）报道，他和马歇尔都支持了一项参议院委员会的农业法案，并批评了对此表示反对的民主党参议员。</p>
+<p>自1932年以来，堪萨斯州就从未选出过民主党联邦参议员，这使得汉密尔顿争取共和党和独立选民的努力成为他与马歇尔竞争的核心策略。</p>
+<p>福克斯新闻数字频道已联系汉密尔顿和哈里斯寻求置评，但尚未立即收到回应。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Discord 从周三开始向所有用户推行年龄验证措施。</li>
-    <li>Discord 曾于2月份因用户抗议生物识别和身份核查侵犯隐私而推迟了年龄验证计划。</li>
-    <li>来源叙事重点：聚焦 Discord 在遭遇用户隐私强烈抵制及第三方数据泄露后，为应对全球监管压力，改用机器学习行为分析与备用渠道推行全员年龄验证，试图在合规要求与用户隐私间寻求平衡。</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-24 05:56 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/media/kansas-democrat-begs-kamala-harris-not-campaign-please-do-not-come-my-state" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-es-hit-record-highs-html-365a054bcfc470ce" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="773" data-content-paragraphs="4" data-published-at="2026-09-23T05:35:19.000Z" data-time-source="publication">
+<div id="story-ces-surge-above-650-html-899241db77da6fb3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2067" data-content-paragraphs="13" data-published-at="2026-09-23T22:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 13:35</span>
+  <span class="news-meta-time">🕒 2026-09-24 06:00</span>
 </div>
 
-### [柴油价格创历史新高 特朗普表态支持柴油出口禁令](https://oilprice.com/Latest-Energy-News/World-News/Trump-Backs-Diesel-Export-Ban-as-Prices-Hit-Record-Highs.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Trump Backs Diesel Export Ban as Prices Hit Record Highs</div>
+### [柴油价格飙升突破6.50美元 白宫排除柴油出口禁令可能](https://oilprice.com/Energy/Energy-General/White-House-Rules-Out-Diesel-Export-Ban-as-Prices-Surge-Above-650.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> White House Rules Out Diesel Export Ban as Prices Surge Above $6.50</div>
 
-<div class="article-body" data-article-body="true"><p>在加油站柴油零售价格打破历史纪录之际，特朗普总统表态支持可能出台的柴油出口禁令。据路透社援引特朗普在本周联合国大会期间的表态：“我曾说过别把柴油运出去了。我们生产了大量柴油……我已经呼吁过了，在我的团队内部也呼吁过了。”在此言论发表之前，财政部长斯科特·贝森特（Scott Bessent）曾表示，本届政府正在研判此类出口禁令的有效性，以及该禁令究竟是部分实施还是全面实施。根据美国汽车协会（AAA）的数据，周二全美柴油平均价格已升至每加仑6.5276美元。</p>
-<p>有关实施柴油出口禁令的构想于本月早些时候提出，众议员蒂姆·伯切特（Tim Burchett）上周提交了相关法案。参议院多数党领袖约翰·图恩（John Thune）对该提议表示支持。能源部长克里斯·赖特（Chris Wright）和内政部长道格·伯格姆（Doug Burgum）则对此表示反对，认为这是一个最终会适得其反的糟糕主意；然而，部分立法者考虑出台出口禁令这一事实本身，就表明即便对于这个全球最大的石油生产国而言，供应形势也已相当严峻。据路透社报道，阿拉斯加州参议员丹·萨利文（Dan Sullivan）在周二的一份声明中表示：“美国的燃料应该留给美国人使用。柴油价格实在高得离谱。我呼吁暂时中止美国柴油出口，以便我们能够在入冬前重建储备，并将美国和阿拉斯加家庭的利益放在首位。”</p>
-<p>随着美国总统释放出支持这一举措的信号，出台禁令的可能性有所上升。特朗普此前曾将美国柴油价格的飙升归咎于乌克兰及其对俄罗斯炼油厂的无人机袭击，并呼吁泽连斯基总统停止袭击，以使油价回落。由于炼油厂遭到袭击，俄罗斯已对本国柴油出口实施了禁令，而与此同时，美国和以色列与伊朗的战争导致来自中东的柴油出口受阻，这进一步加剧了严重的供应紧缩。</p>
-<p>（文 / Oilprice.com 撰稿人 伊琳娜·斯拉夫）</p></div>
+<div class="article-body" data-article-body="true"><p>白宫周三否认了政府正考虑出台美国柴油出口禁令的消息，对总统唐纳德·特朗普（Donald Trump）和财政部长斯科特·贝森特（Scott Bessent）前一天发表的言论进行了澄清。此前，随着全美平均柴油价格突破每加仑6.50美元，两人的言论似乎为施加限制保留了可能性。一名白宫官员否认了关于政府正在准备出台为期90天的柴油出口禁令的报道，同时能源部长克里斯·赖特（Chris Wright）表示，没有任何人在考虑全面禁止出口。赖特称，相反，政府正在探讨如何在维持汽油和航空煤油最大流通量的同时，将更多柴油引入美国本土市场。</p>
+<p>这一澄清是在特朗普总统周二暗示支持将更多美国柴油留在国内之后做出的。特朗普当时表示：“我已经说过，不要把柴油运出去了。我们生产了大量柴油。”财政部长贝森特周二也表示：“我们正在从整体炼油能力方面考量其可行性，以及实施全面或部分禁令是否行得通。”石油行业和石油市场分析人士指出，禁令并非解决高油价的良方，最终反而会对美国的燃料价格和炼油能力产生事与愿违的反作用。</p>
+<p>根据美国汽车协会（AAA）的数据，截至周二，全美平均柴油价格已达到每加仑6.5276美元，比一个月前上涨了近1美元，比去年同期每加仑高出近3美元。伊朗和乌克兰的战事切断了来自中东和俄罗斯的供应，由此引发的全球柴油紧缺正通过各地的价格飙升显现出来，其中包括美国，并威胁到包括全球最大经济体在内的多个经济体。</p>
+<p>对于美国政府而言，柴油价格创下历史新高，而汽油价格也处于以往因需求下滑通常会走低的时期的历史最高点，这在11月初的中期选举前夕可能是一个重大打击。以爱荷华州参议员查克·格拉斯利（Chuck Grassley）为首的部分共和党参议员正呼吁对柴油出口实施禁令，因为创纪录的柴油价格正在重创美国农民和卡车司机。</p>
+<p>全美柴油价格突破6.50美元后，参议员格拉斯利本周末表示：“爱荷华州的柴油价格已达6.57美元，为什么特朗普总统不像70年代的总统们在食品价格飞涨时对农产品实施禁运那样，对柴油出口实施禁运？高昂的柴油价格正在吞噬农民的收入。”特朗普周二的言论似乎支持了这些呼声，随后白宫在周三澄清称并未考虑实施柴油出口禁令。</p>
+<p>过去一周里，政府在可能采取的限制措施上释放了自相矛盾的信号。上周早些时候，内政部长道格·伯格姆（Doug Burgum）表示：“如果我们认为出口禁令确实能拉低价格，我们就会考虑实施，但事实并非如此。”随后贝森特在周二表示，政府正在研判全面或部分限制措施是否可行。然而在周三，能源部长赖特否决了全面禁令的想法，称其可能反而会导致汽油和航空煤油价格上涨。</p>
+<p>“目前正在讨论的是，采取何种最有效的方式向美利坚合众国引入更多柴油，同时继续维持汽油和航空煤油的最大流通量，”赖特表示，但未透露进一步细节。赖特还透露，政府也在探讨自愿性措施。</p>
+<p>自伯格姆部长发表最初言论以来的一周内，全美平均柴油和汽油价格继续飙升，共和党参议员呼吁实施出口禁运以保护美国农民。参议员格拉斯利在社交平台X上发帖称：“如果我们的政府能对向中国出口芯片实施禁运，那它就能对柴油实施禁运来帮助美国农民和卡车司机。无论全球发生什么，我们都需要让我们这些养育并驱动世界的家庭农场立于尽可能稳固的基石之上。”</p>
+<p>分析师和美国石油学会（API）表示，燃油价格的问题在于，它们无法在“无论全球发生什么”的情况下被凭空解决。API首席执行官迈克·萨默斯（Mike Sommers）表示：“我们理解政府正在寻找各种方案来提供缓解，但限制美国能源出口只会使问题复杂化——加剧炼油挑战，最终伤害消费者。解决之道在于增加供应和提高灵活性，而不是冒着让困难局面雪上加霜风险的新限制措施。”</p>
+<p>美国目前生产的柴油多于自身消费量，美国出口对于缓解欧洲和拉丁美洲等柴油危机更为严重地区的压力至关重要。据API称，如果实施限制措施，炼油商将降低开工率，最终加剧全球炼油危机并进一步推高价格。这家美国主要石油游说团体指出：“限制进入全球市场的机会可能迫使炼油商降低开工率——从而减少柴油、汽油和航空煤油的产量，加剧中外供应的紧张局面。”</p>
+<p>GasBuddy石油分析主管帕特里克·德哈恩（Patrick De Haan）表示：“把馏分油和柴油留在国内，并不能改变作为我们价格参考的国际价格。你不可能通过行政命令将一种在全球范围内交易的大宗商品隔离起来，并指望全球价格不再对其适用。”德哈恩指出，从长远来看，出口禁令最终将损害美国的炼油能力，因为“压低价格”的政治监管会打消对新增产能的投资意愿。</p>
+<p>此外，美国可能会失去作为“全球柴油供应后盾”的地位，从而促使进口地区摆脱对美国供应的依赖实现多元化。专家表示，这最终将冲击美国的炼油能力。“归根结底：美国并不缺柴油，缺的是全球。潜在的出口禁令把全球性的价格问题当成了单纯由美国自身引发的问题来对待，而这种治疗方案将比疾病本身更具破坏性。”</p>
+<p>文/茨韦塔娜·帕拉斯科娃（Tsvetana Paraskova），发自Oilprice.com</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>特朗普在联合国大会期间表示支持对柴油燃料出口实施潜在禁令。</li>
-    <li>根据AAA的数据，美国全国柴油平均零售价在周二达到每加仑6.5276美元。</li>
-    <li>来源叙事重点：报道聚焦美国柴油价格创历史新高背景下，特朗普与部分议员推动柴油出口禁令以实现“美国优先”保供，揭示白宫内部与内阁部门之间的剧烈政策分歧，并将供应短缺与俄乌中东地缘战局直接挂钩。</li>
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-24 06:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -1052,204 +1005,37 @@ notice:
   <span class="news-tag-pill">#OilPrice</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Trump-Backs-Diesel-Export-Ban-as-Prices-Hit-Record-Highs.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://oilprice.com/Energy/Energy-General/White-House-Rules-Out-Diesel-Export-Ban-as-Prices-Surge-Above-650.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--factors-disability-html-447055f3c78d8ef0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="634" data-content-paragraphs="1" data-published-at="2026-09-23T07:10:04.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🔬 深空与基础科学</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-23 15:10</span>
-</div>
-
-### [分析发现社会经济与健康因素是残疾保险批准率差异的主要原因](https://phys.org/news/2026-09-analysis-socioeconomic-health-factors-disability.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Analysis finds socioeconomic and health factors drive most disability approval disparities</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2023/disabled-1.jpg" alt="分析发现社会经济与健康因素是残疾保险批准率差异的主要原因" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>编辑：罗伯特·埃根（Robert Egan）<br />本文已根据 Science X 的编辑流程和方针进行审核。编辑在确保内容可信度的同时强调了以下属性：<br />经过同行评审的出版物<br />发表在《当代经济政策》（Contemporary Economic Policy）上的一项研究探讨了美国残疾保险批准率中的种族和族裔差异，究竟反映了裁决过程中的不公，还是反映了申请人自身处境的更广泛差异。<br />通过将大规模的美国社区调查（American Community Survey）数据与社会保障局行政记录相关联，研究人员发现，在考虑了社会经济、健康和人口统计学因素后，观察到的大多数批准率差异变得小得多，且在很大程度上在统计上不显著。研究结果表明，核准率的差异与婚姻状况、健康状况和伤残前收入等其他因素相关，而非种族和族裔本身。<br />作者写道：“这些结果表明，在原始未调整数据中按种族和族裔划分的核准率差异，主要是由于各群体之间的构成差异所致。”<br />《按种族和族裔划分的残疾保险核准率差异》（Differences in Disability Insurance Allowance Rates by Race and Ethnicity），发表于《当代经济政策》（2026年）。DOI: 10.1111/coep.70052<br />期刊信息：《当代经济政策》（Contemporary Economic Policy）<br />数学生物学学士，创意写作硕士。阅历丰富，对科学和语言拥有独到见解。完整个人资料 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>一项发表于《Contemporary Economic Policy》的研究探讨了美国残疾保险核准率中的种族和族裔差异是源于认定程序差异，还是源于申请人个人境遇的更广泛差异。</li>
-    <li>研究人员将大规模美国社区调查（American Community Survey）数据与社会保障局（Social Security）行政记录进行了关联分析。</li>
-    <li>来源叙事重点：报道一项实证经济学研究发现：美国残疾保险审批中的种族差异，主要由健康、收入及人口构成等社会经济因素所驱动，而非审批程序中的系统性种族偏见。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#深空与基础科学</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-analysis-socioeconomic-health-factors-disability.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--abc-four-corners-ntwnfb-87d31b4d271444f2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="291" data-content-paragraphs="1" data-published-at="2026-09-23T07:31:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-23 15:31</span>
-</div>
-
-### [澳大利亚新闻直播：舒布里奇称美国针对网络安全法的意见书是对“我们国内政治的异乎寻常的干涉”](https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Australia news live: Shoebridge says US submission on online safety laws an ‘extraordinary intervention in our domestic politics’</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/98b753eeb5a84fba3fbb814a3c6f5daef51d18f4/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7954f247979ee83553fbfec0ba5671a5" alt="澳大利亚新闻直播：舒布里奇称美国针对网络安全法的意见书是对“我们国内政治的异乎寻常的干涉”" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>追踪今日实时新闻<br />获取我们的突发新闻邮件、免费应用程序或每日新闻播客<br />影子住房部长安德鲁·布拉格（Andrew Bragg）表示，在昨天提出允许人们将养老金作为抵押以获取住房贷款的新提案后，他坚信围绕住房问题展开“大讨论”是必要的。<br />该政策尚未被反对党采纳，反对党领袖安格斯·泰勒（Angus Taylor）昨天表示这并非联盟党的政策。<br />我们是一个伟大的国家，我们应该能够像上世纪80年代和90年代讨论国民储蓄和住房等问题那样展开大讨论，事实上，这些讨论促成了强制养老金保障制度的建立。……<br />非常重要的是，我们要努力调整退休、住房和养老金体系，以确保它们为澳大利亚人民带来最佳成效。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian (英国卫报官方英文)】于 2026-09-23 15:31 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-e-than-beijing-does-html-529c82410f88de29" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2427" data-content-paragraphs="18" data-published-at="2026-09-23T00:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">⚡ 战略能源与气候</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-23 08:00</span>
-</div>
-
-### [相比北京，华盛顿更需要这笔液化天然气（LNG）协议](https://oilprice.com/Energy/Natural-Gas/Washington-Needs-This-LNG-Deal-More-Than-Beijing-Does.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Washington Needs This LNG Deal More Than Beijing Does</div>
-
-<div class="article-body" data-article-body="true"><p>点击此处查看150多种全球石油价格<br />韩国计划到2035年将中东原油依赖度降至50%<br />买家正在迅速实现供应多元化……<br />AI驱动的LNG需求与伊朗……<br />德克萨斯州和宾夕法尼亚州位列前茅……<br />查尔斯是 Oilprice.com 的撰稿人</p>
-<p>习近平将于9月24日抵达华盛顿，准备就恢复每年价值60亿美元的美中液化天然气（LNG）贸易展开讨论，前提是取消阻碍美国天然气自2025年第一季度以来出口的15%中国关税。今年3月，伊朗导弹摧毁了卡塔尔17%的LNG出口产能，而中国通过从除美国以外的所有供应方采购更多天然气来化解这一冲击：根据 Banchero Costa 的数据，1月至7月期间，澳大利亚占其LNG进口量的36%，东南亚占20%，俄罗斯占12%，新进入者加拿大占4%。而美国货运量仅占0.2%。北京在2025年2月（即特朗普第二任期伊始几天）征收的15%关税，使记录在案的美国对华LNG船运量从2024年的64艘骤降至2025年的零艘。在2021年的峰值时期，美国货运曾占中国LNG总进口量的12%，当年价值达62亿美元。基础合同并未被取消；中国买家继续履行合同，但选择将货物转售到欧洲和亚洲，而不是缴纳关税将其运回国内。</p>
-<p>伊朗导弹于3月18日至19日袭击了卡塔尔的拉斯拉凡工业城（Ras Laffan Industrial City），摧毁了卡塔尔14条LNG生产线中的两条以及一座天然气制油设施，导致该国每年损失约200亿美元的收入。破坏导致卡塔尔约17%的出口产能瘫痪，维修期预计长达五年。卡塔尔能源公司（QatarEnergy）对长期合同宣布不可抗力，由于维修进度拖长，该声明随后延长至8月。6月22日，该设施在重启操作期间发生第二次爆炸，造成至少13名工人死亡，全部来自印度和巴基斯坦。卡塔尔声称此次爆炸为技术故障，而非蓄意破坏或再次遇袭。</p>
-<p>相关阅读：沙特阿拉伯重启东西向输油管道</p>
-<p>但自那以来，卡塔尔不得不自掏腰包弥补自身供应缺口。它从 Venture Global——也就是中国刚刚与其签署长期协议的同一家美国生产商——购买了近三十多批美国现货LNG货物，以维持其对日本、韩国、印度、孟加拉国和中国台湾的交付承诺。</p>
-<p>仅占中国LNG进口量的一小部分</p>
-<p>与该贸易相关的60亿美元数字是2021年的数据，而非当前水平。《福布斯》援引 Banchero Costa 的数据显示，今年1月至7月，美国货物在中国LNG进口中所占份额仅为0.2%。而开启这一契机的战争在头四个月就已让美国付出了超过380亿美元的代价。</p>
-<p>9月14日，中国燃气控股有限公司（China Gas Holdings）与 Venture Global 签署了一项为期20年的协议，自2030年开始每年采购50万吨LNG，而签署当日北京的15% LNG关税依然生效。该交易量远低于中国2025年6843万吨LNG总进口量的1%。</p>
-<p>华盛顿将该合同视为关税突破在即的证据，但合同本身并未设定关税条款，也不需要此类条款。交付从2030年才开始，这给北京留出了四年的时间来取消关税、重新谈判，或者继续让中国买家在其他地方转售其美国货物——这正是自2025年以来一直保持的运作模式。中国燃气在当前关税机制下无需承诺进口哪怕一批货物，便锁定了供应。</p>
-<p>据《福布斯》报道，自2018年以来签署的20至25年期长期合同中，中国企业已持有每年近2500万吨的美国LNG承购量。在这一50万吨协议达成之前，已有五十倍规模的供应处于合同锁定状态。</p>
-<p>与此同时，三大主流预测机构下调了对2030年代初期中国LNG需求的预期，下调幅度达1400万至2200万吨，这三家机构分别是标普全球（S&amp;P Global）、伍德麦肯兹（Wood Mackenzie）和摩根大通（JPMorgan）。中国自身在2025年的进口总量（6843万吨）创下三年新低。路透社将唯一下降归因于北京转向管道天然气和可再生能源。</p>
-<p>在9月24日峰会之前，华盛顿与北京正在讨论一项揽子方案，拟降低双方各自约300亿美元出口商品的关税，其中便包括LNG。</p>
-<p>然而，下调关税将使一项按2021年价格计算曾价值62亿美元的贸易重返一个与2021年已完全不同的市场。如今，我们面对的是更低的中国需求预测，以及管道气和可再生能源发挥的更大作用。在征税的这几年里，中国与澳大利亚、东南亚、俄罗斯和加拿大建立了供应伙伴关系，而不是依靠美国。路透社估计，目前美国墨西哥湾沿岸在建的LNG产能中，每年有2450万吨尚未锁定长期买家。</p>
-<p>切尼尔能源（Cheniere）2022年与中石油达成的协议承诺到2050年每年供应180万吨，其中约一半的体量取决于科珀斯克里斯蒂（Corpus Christi）额外产能是否达成最终投资决定（FID）。切尼尔能源于2025年6月批准了该扩建项目（中型生产线8和9），而来自中国的合同对该项目能否推进起到了决定性作用。</p>
-<p>在中国燃气签约之前，Venture Global 在2026年已有91%的产能被合同锁定，2027年为75%。而且中国燃气的协议要到2030年才生效。</p>
-<p>文 / Charles Kennedy，Oilprice.com</p>
-<p>Oilprice.com 更多精选阅读：<br />卡塔尔LNG断供促使从阿根廷到东帝汶的项目重启<br />沙特出口重心调整导致布伦特原油跌破105美元<br />尽管大幅削减开支，大型石油公司产量持续攀升<br />揭秘普京可能挽救其乌克兰战争的1350亿美元北极豪赌<br />在宣布多元化几天后，俄罗斯切断对亚美尼亚的天然气供应<br />全球炼油产能吃紧推升柴油价格创下历史新高</p>
-<p>本网站提供的材料仅供参考和教育目的，无意提供税务、法律或投资建议。<br />本网站包含的任何内容均不得视为在任何司法管辖区向任何人推荐、招揽或要约买卖证券。<br />登记商户：A Media Solutions 以 Oilprice.com 名义运营</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-23 08:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#战略能源与气候</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Energy/Natural-Gas/Washington-Needs-This-LNG-Deal-More-Than-Beijing-Does.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-mp-xi-dinner-so-far-html-95aec973a7336354" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="940" data-content-paragraphs="17" data-published-at="2026-09-22T23:43:43.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
-    <span class="stance-badge">国际资本与华尔街视角</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-23 07:43</span>
-</div>
-
-### [截至目前已知出席特朗普与习近平晚宴的人员名单](https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Here&#39;s who we know is going to the Trump-Xi dinner so far</div>
-
-<div class="article-body" data-article-body="true"><p>北京——距离中国国家主席习近平预计抵达美国还有两天时间，关于哪些中国高管（如果有的话）将随行出席，外界目前知之甚少。</p>
-<p>中国外交部周二在给CNBC的一份声明中表示，目前没有可以提供的信息。周一晚些时候，外交部确认了习近平定于周三至周五访美的行程。</p>
-<p>一位了解准备工作但未获授权公开发言的人士表示，他们不知道有任何中国企业受邀陪同中国国家主席出访。</p>
-<p>美方方面，据一位知情人士透露，微软首席执行官萨蒂亚·纳德拉（Satya Nadella）是预计将出席周四在华盛顿特区举行的晚宴的高管之一。</p>
-<p>微软和白宫均未回应CNBC的置评请求。</p>
-<p>美国高级官员已分享了其他一些将出席的高管名单：</p>
-<p>这些商界领袖包括：</p>
-<p>在中方方面，路透社上周报道称，正在考虑的商界代表包括来自电动汽车巨头比亚迪、智能手机公司小米、电池制造商宁德时代和国轩高科、消费电子制造商海信、汽车零部件公司万向、国有企业中国银行以及农业综合企业中粮集团的代表。</p>
-<p>CNBC联系比亚迪时，该公司未作评论。其他中国企业没有立即回应置评请求。</p>
-<p>“无论比亚迪本周是否参加特朗普与习近平的会晤，都将对中国电动汽车进入美国的可能性，以及习近平如何看待电动汽车在中国海外扩张战略中的重要性释放出强烈信号，”美国咨询机构战略风险（Strategy Risks）创始人兼首席执行官艾萨克·斯通·菲什（Isaac Stone Fish）表示。</p>
-<p>他表示，习近平可能会带国有企业的负责人随行，“但那些都是政府官员，在某些情况下实际上是中国政府的部长级官员”。“在美国看来，这可能会被认为是不公平地模糊了商业代表团与政府代表团之间的界限，而且总体而言，国有企业作为投资者在美国受到的欢迎程度不如民营企业。”</p>
-<p>随着近年来中美紧张局势升级，两国政府均已将对方国家的公司列入限制商业活动的黑名单。</p>
-<p>——CNBC记者乔丹·诺维特（Jordan Novet）和阿什莉·特鲁希略（Ashlee Trujillo）对此文亦有贡献。</p>
-<p>有保密新闻线索吗？我们期待听到您的声音。</p>
-<p>将此内容订阅至您的邮箱，并获取关于我们产品和服务的更多信息。</p>
-<p>数据为实时快照 *数据至少延迟15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。</p>
-<p>数据亦由以下机构提供</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【CNBC Markets (CNBC 市场官方英文)】于 2026-09-23 07:43 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
-  <span class="news-tag-pill">#CNBC</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Markets (CNBC 市场官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--2026-09-transit-rewards-7d4ada70806eb45a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1401" data-content-paragraphs="10" data-published-at="2026-09-23T02:52:29.000Z" data-time-source="publication">
+<div id="story-als-20260924-p6100u-html-f55f45ec0b599d1c" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3231" data-content-paragraphs="9" data-published-at="2026-09-23T21:01:48.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 10:52</span>
+  <span class="news-meta-time">🕒 2026-09-24 05:01</span>
 </div>
 
-### [公共交通换乘奖励计划](https://waymo.com/blog/2026/09/transit-rewards/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Transit rewards</div>
+### [OpenAI侵入国民医疗保险系统，阿尔巴尼斯披露](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> OpenAI breaches Medicare, Albanese reveals</div>
 
-<div class="article-body" data-article-body="true"><p>今天，Waymo 很高兴地宣布推出我们的公共交通换乘奖励计划。该计划将首先在旧金山湾区试行，未来将逐步推广至更多城市。作为首创之举，当乘客将 Waymo 出行与公共交通换乘相结合并使用 Visa 卡支付时，该计划将向乘客返还 Waymo 代金券（Waymo Cash）。我们将首先对员工开放使用，并在接下来的几周内逐步向公众推出。</p>
-<p>公共交通网络与共享自动驾驶汽车是互补出行生态系统的重要组成部分。随着交通运营机构对其支付系统进行现代化改造，支持非接触式借记卡和信用卡刷卡乘车，多式联运出行正变得前所未有的便捷。</p>
-<p>加利福尼亚州交通局局长托克斯·奥米沙金（Toks Omishakin）表示：“纽森州长要求我们所有人共同构建一个能切实满足加州人实际需求的交通运输系统，这意味着前往车站的行程必须像乘坐列车本身一样轻松便捷。加州交通运输局（CalSTA）对这类奖励公众选择公共交通、让多式联运体验宛如一次无缝旅程的创新举措表示欢迎。”</p>
-<p>近期调查显示，在我们最成熟的服务区域（旧金山、洛杉矶和凤凰城），超过 50% 的 Waymo 乘客会使用公共交通，因此我们很荣幸能直接投资于这种衔接互联，让日常通勤更加轻松、更加实惠。该公共交通换乘奖励计划将与旧金山湾区去年 12 月推出的区域换乘优惠计划以及碰卡支付模式协同运作。该计划适用于旧金山湾区所有接受 Visa 非接触式碰卡支付的全部 27 家交通管理机构。</p>
-<p>圣何塞市市长马特·马汉（Matt Mahan）表示：“圣何塞始终坚信创新应当让日常生活变得更美好。此次合作正是践行了这一点——利用新技术来加强公共交通而不是取代它，使区域出行更加无缝，并为人们提供更多通达目的地的出行方式。”</p>
-<p>若要参与该活动，乘客需在 Waymo 应用程序中绑定其 Visa 卡。当旧金山湾区的乘客在两小时内先后使用其 Visa 卡乘坐 Waymo 和公共交通时，我们将自动发放价值 2.85 美元的 Waymo 代金券，该金额相当于旧金山一次单程公交车票的费用。</p>
-<p>在推出公共交通换乘奖励计划的同时，我们还宣布与支持碰卡支付的加州火车（Caltrain）达成合作。Waymo 将租用 40 个专用的加州火车车站停车位，通过现场候命车辆更好地服务公共交通换乘乘客。我们希望在更多交通机构中复制这一模式，最终实现 Waymo 服务与公共交通之间更无缝的衔接。</p>
-<p>此次发布是将我们的共享出行愿景变为现实的又一步。通过从旧金山和洛杉矶的公共交通积分试点项目中吸取经验，将 Waymo 的服务纳入洛杉矶交通局的出行钱包计划（LA Metro Mobility Wallet），并在亚利桑那州钱德勒与 Via 展开微循环公交（microtransit）战略合作，我们一直在不断积累提供成功的公共交通整合产品所需的经验，如今我们非常高兴能正式推出公共交通换乘奖励计划。</p>
-<p>Waymo 可持续发展与环境事务负责人亚当·伦茨（Adam Lenz）表示：“共享出行需要各方协同合作，我们的自动驾驶网约车服务有助于为每个人扩展清洁出行选择。我们非常高兴能与当地交通机构合作填补多式联运空白，并通过我们全新的公共交通奖励计划让日常通勤更加便捷。”</p>
-<p>我们的目标是随着时间的推移，将该公共交通奖励计划以及与交通管理机构的合作拓展至更多城市，最终让共享、纯电动的出行方式对每个人而言都更加普及和实惠。</p></div>
+<div class="article-body" data-article-body="true"><p>更新于2026年9月24日 — 上午7:56，首次发布于上午6:25<br />您已达到保存条目的最大上限。<br />请从您的保存列表中移除条目以继续添加。<br />澳大利亚总理安东尼·阿尔巴尼斯（Anthony Albanese）披露，今年6月，一个人工智能智能体（AI agent）潜入了一处国民医疗保险（Medicare）网站，访问了公开与非公开文件，并将文件写入了一台内部服务器。<br />阿尔巴尼斯在纽约向记者表示，该事件涉及一个OpenAI的智能体未经授权访问了由澳大利亚服务局（Services Australia）管理的面向公众的国民医疗保险统计报告服务（Medicare Statistics Reporting Service）门户网站。<br />他表示，该事件发生在今年6月，但联邦政府直到9月10日才收到OpenAI发来的一封电子邮件通报。<br />“这种情况显然是不可接受的，”他说，“今天，我与OpenAI首席执行官萨姆·奥尔特曼（Sam Altman）进行了通话，表达了澳大利亚对这起事件的极度关切，同时我也表达了我的失望，因为该公司耗费了太长时间才通知政府发生了什么，而且这种通知形式的性质也是不可接受的。”<br />尽管面对连番追问，阿尔巴尼斯仍不愿透露昨晚在与唐纳德·特朗普总统的交谈中是否讨论了这起入侵事件。“我是在私下沟通……我与特朗普总统之间有联系，我们会进行交谈，而且……必须说，让一些人感到意外的是，我们之间保持着非常良好的关系，因为我们确实彼此熟络。”<br />阿尔巴尼斯表示，目前尚无证据表明个人信息遭到访问，或更广泛的澳大利亚服务局网络遭到了入侵，但在澳大利亚信号局（Australian Signals Directorate）的协助下，法医级取证调查正在进行中。<br />他表示，政府还获悉另外三个系统可能受到了影响，分别是联邦的澳大利亚健康与福利研究所（Australian Institute of Health and Welfare）、新南威尔士州犯罪统计与研究局（NSW Bureau of Crime Statistics and Research）以及维多利亚州卫生部。<br />阿尔巴尼斯昨晚与维多利亚州州长本·卡罗尔（Ben Carroll）以及新南威尔士州州长克里斯·明斯（Chris Minns）进行了简短通话。<br />他表示，早期证据发现该智能体访问了公开可用的文件，以及不打算公开的文件资料。<br />“目前可获得的证据显示，澳大利亚服务局的网络没有遭到更大范围的破坏。尽管如此，这种情况显然是不可接受的，”他说。<br />阿尔巴尼斯表示：“目前阶段尚无理由认为任何个人信息被访问，但调查仍在进行中。”<br />他介绍，该事件始于6月18日，当时OpenAI的一个研究团队使用内部模型对公共医疗领域开展基于互联网的研究。<br />该AI智能体在从政府门户网站获取信息时遭遇了多次拦截阻断，但它找到了绕过这些阻断的方法，最终获得了对其他区域的未授权访问权限。<br />“显然当时有拦截机制在发挥作用，向该AI智能体提示拒绝访问，”阿尔巴尼斯说，“AI智能体找到了绕过这些拦截的方法，不接受被拒绝的结果。”<br />随后，该智能体访问了公开及非公开信息，且根据澳大利亚服务局的说法，还向一台内部服务器写入了文件。阿尔巴尼斯表示，OpenAI直到9月10日——事件发生近三个月后——才向政府发出通知，而且是通过向一个公共邮箱发送电子邮件的方式进行的。<br />澳大利亚服务局随后于9月15日向澳大利亚网络安全中心（Australian Cyber Security Centre）汇报了该通知。该机构上周向公共服务部部长凯蒂·加拉格尔（Katy Gallagher）通报了这起事件，阿尔巴尼斯表示自己是在上周末听取了相关简报。<br />政府将成立一个由总理及内阁部牵头的特别工作组，紧急审查该事件，并确定现有流程是否足以应对与人工智能相关的网络安全事件。<br />该特别工作组将包括国家网络安全协调员、人工智能办公室、澳大利亚信号局、澳大利亚人工智能安全研究所和澳大利亚服务局。<br />此次审查将评估可能的执法和立法应对措施，同时该事件也将被提交给议会人工智能联合特设委员会。<br />阿尔巴尼斯表示，政府将紧急征询法律意见，以确定是否存在违法犯罪行为，以及该事件是否应转交澳大利亚联邦警察处理。该事件还将纳入政府计划推行的人工智能标准立法中。<br />OpenAI表示，其模型在一次内部评估中访问了“数个澳大利亚政府网站及服务”。这些模型当时正尝试检索有关澳大利亚问题的答案和统计数据。<br />“在此过程中，我们的模型采取了我们未曾预料的行动，”OpenAI发言人表示。<br />该公司表示，其审查未发现患者记录被访问的证据。该公司称，被访问的信息包括汇总的健康统计数据和内部文件名。<br />OpenAI表示，该活动发生在6月，但直到8月才被察觉。它是在对其训练和评估中所谓的“未对齐模型活动”（misaligned model activity）进行审查时发现这起活动的。该公司表示已于9月10日通知了澳大利亚服务局。<br />“我们已通知相关机构，并正在提供技术信息以支持他们的调查并协助排查潜在的安全漏洞，”该发言人说，“我们的整体审查仍在继续。”<br />OpenAI没有透露还有哪些其他政府网站和服务受到了影响。<br />阿尔巴尼斯利用这一披露强化了他的观点，即主张围绕快速发展的人工智能技术建立更严格的保护屏障。<br />“人工智能正在改变世界，”他说，并指出它具有带来经济增长、生产力提高以及健康、科学和创新进步的潜力。<br />“但人工智能也带来了巨大的风险，这就是为什么我们需要设立护栏来保护我们的生活方式。”<br />“我们要确保是我们去塑造人工智能，而不是由人工智能来塑造我们。简而言之，人类必须保持控制权。”<br />阿尔巴尼斯表示，政府理解该事件会令澳大利亚民众担忧，但试图让公众放心，目前尚未获悉有任何个人受到影响。<br />“截至目前，没有证据表明任何个人受到了影响，”他说。<br />阿尔巴尼斯表示，若涉及国家安全，某些细节可以保密，但澳大利亚人有权了解这起事件。<br />“我认为让人们了解这起事件的发生至关重要，”他说。<br />在披露这起侵入事件的两天前，阿尔巴尼斯刚敦促世界各国领导人携手保护人们免受人工智能带来的风险，并表示没有任何一个国家能够独自应对该技术日益增长的风险。<br />在科学家和行业高管警告强大系统的快速发展可能会超出政府控制新兴风险的能力之际，澳大利亚于周一在联合国呼吁就人工智能建立新的国际防护机制，成为22个签署国之一。</p>
+<p>美国总统唐纳德·特朗普（Donald Trump）拒绝了放缓和限制人工智能发展的呼吁，并警告称任何自我强加的护栏都将给中国带来危险的优势。</p>
+<p>在过去两个月中，OpenAI、Anthropic和谷歌均表示，其模型在进行黑客攻击能力测试时侵入了真实的计算机系统。</p>
+<p>澳大利亚前网络安全主管、现任CyberCX首席战略官阿拉斯泰尔·麦吉本（Alastair MacGibbon）表示，该智能体最初并未被设定去黑入任何系统。</p>
+<p>他说：“这个智能体的任务并不是黑客攻击；它的任务是进行医学研究，而它只是碰巧使用了其工具箱中的工具来实现该目标，这基本上涉及了黑客攻击手段。”</p>
+<p>“它们这样做并不是出于恶意。它们这样做是因为被赋予了任务。设想一下，如果是一个怀有恶意的人指使智能体去执行这些任务会怎样。”</p>
+<p>麦吉本表示，更大的隐患在于这起违规入侵事件此前一直未被察觉。他说：“我们应该追问的问题是，澳大利亚政府在6月份为什么没有检测到这一点。”</p>
+<p>他还批评了政府在人工智能监管方面的资金投入。他将人工智能安全研究所（AI Safety Institute）四年间的预算规模比作昆士兰州的几个道路事故多发点治理项目。他表示，据他了解，总理及内阁部的人工智能办公室“实际上只有寥寥数人”。</p>
+<p>“我入行25年了，我们一直在失败，”麦吉本说，“现在我们有了澳大利亚的受害者……这必须引起高度重视。这种傲慢必须停止。”</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-23 10:52 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-24 05:01 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1259,49 +1045,38 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://waymo.com/blog/2026/09/transit-rewards/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--in-boston-on-november-4-b25fe2c5917bd456" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2428" data-content-paragraphs="21" data-published-at="2026-09-22T23:21:49.000Z" data-time-source="publication">
+<div id="story-o-invest-in-what-else-ai-ed90c2b0743c1f98" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="816" data-content-paragraphs="10" data-published-at="2026-09-23T20:35:17.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-23 07:21</span>
+  <span class="news-meta-time">🕒 2026-09-24 04:35</span>
 </div>
 
-### [TechCrunch 创始人峰会议程揭晓：11 月 4 日齐聚波士顿，解锁融资、招聘与 AI 洞察](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4</div>
+### [风投机构Bessemer又获57.5亿美元资金，用于投资（还能是什么？）人工智能](https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> VC firm Bessemer now has another $5.75B to invest in (what else?) AI</div>
 
-<div class="article-body" data-article-body="true"><p>11 月 4 日，TechCrunch 创始人峰会（Founder Summit）将在波士顿 SoWa 电厂（SoWa Power Station）带来一场关于创业起步的关键一日速成课程。创始人本不该以最痛苦的方式去吸取最艰难的教训，而本次活动正是为了降低创业难题的难度，让成功的高光时刻更加夺目。</p>
-<p>与其经历数月的摸索试错，不如直接接触那些已经做过你当下所面临抉择的投资人与创始人。我们将全方位探讨从融资、招聘到 AI 战略以及登顶细分领域的一切议题。</p>
-<p>口说无凭。欢迎查阅下方我们为创始人峰会策划的完整演讲嘉宾与议程安排，并锁定你的活动席位。目前所有门票均为历史最低价，现在正是报名的最佳时机。</p>
-<p>闲话少说，以下为正式议程。欢迎前往活动议程页面详细了解每个环节和演讲嘉宾。</p>
-<p>融资向来不易，但其游戏规则还在不断变化。Underscore 合伙人 Brian Devaney 将详细拆解当前投资者所看重的特质、创始人如何在拥挤的市场中脱颖而出，以及创始人在哪些方面常常在不知不觉中丧失谈判筹码。本环节将坦诚剖析当下的融资环境，涵盖从天使轮第一笔资金到投资意向书（term sheet）的方方面面，以及足以决定一轮融合成败的常见错误。</p>
-<p>头衔或许未变，但随着公司每个发展阶段的推进，具体职责截然不同。HubSpot 联合创始人兼红杉资本（Sequoia）合伙人 Brian Halligan 将分享他在伴随初创企业快速增长、做出艰难决策和持续自我革新过程中，创立并指导初创企业所积累的宝贵经验。</p>
-<p>本环节探讨创始人如何完成向 CEO 的蜕变，避开常见的领导力陷阱，并打造出能够在度过初创期后长久繁荣的企业。</p>
-<p>增添 AI 功能是一回事，打造一家 AI 原生（AI-native）公司则完全是另一回事。7AI 联合创始人兼 CEO Lior Div 将探讨当 AI 成为初创企业的底层根基而非单纯的产品增强工具时，企业会发生怎样的变革。从团队架构、产品开发到日常运营与市场推广策略（go-to-market），本环节将剖析创始人在 AI 时代创业时需要重新审视的关键问题。</p>
-<p>筹集资金往往被视为里程碑，但选择合适的投资人，在资金到账后的很长一段时间内都会深刻塑造公司的未来。在为 Cogent Security 完成 1100 万美元融资后，联合创始人兼 CEO Vineet Edupuganti 亲身体会到了能提供助力的合作伙伴与耗费精力的干扰因素之间的本质区别。本环节将探讨创始人在构建股权结构表（cap table）时，应如何评估投资人、权衡取舍并超越估值本身进行思考。</p>
-<p>解决全球最重大的挑战需要创新，但在现实中，只有特定企业能够在工业规模上成为定义行业品类的领头羊。在这一环节中，TDK Ventures 投资总监 Tina Tosukhowong 将深度拆解该机构的“擂台之王”（King of the Hill）框架：顶尖投资者如何基于经济效益、可扩展性与商业时机，以严密的流程评估企业。</p>
-<p>通过包含 Tina 对核裂变与核聚变领域探索在内的真实案例，与会者将掌握可落地的实用框架，用于评估初创企业的成熟度、绘制竞争格局图谱，并把握时机、人才与技术实现完美协同的关键节点。</p>
-<p>早期的招聘决策会奠定初创企业的文化、发展速度与执行力。NEA 合伙人 Melissa Taunton 将分享她在陪伴创始人经历快速增长与充满不确定性的时期打造团队的心得体会。</p>
-<p>从物色合适的前期核心人才，到规避常见的招聘误区，本环节将探讨创始人如何建立兼具韧性、适应力并做好准备迎接未来挑战的组织架构。</p>
-<p>硅谷频频占据媒体头条，但十多年来，Chase Garbarino 一直在波士顿默默打造定义品类的行业龙头。作为 HqO 的联合创始人兼 CEO，他从投资者处筹集了 2 亿美元，并在从未变更公司所在地的情况下将业务扩展至 30 多个国家。</p>
-<p>他将剖析在非传统创业宝地扎根创业的真正优势与劣势，以及身处主流枢纽之外的每位创始人都应当了解的经验。</p>
-<p>每一位创始人都渴望实现产品与市场契合（product-market fit），但如何确知自己真正实现了匹配则要复杂得多。Bessemer Venture Partners 合伙人 Kent Bennett 将揭示创始人应如何验证真实需求、构建能够解答关键问题的最小可行产品（MVP），并避免在基本盘尚未夯实前盲目盲目扩张。</p>
-<p>本环节将剖析真正关键的信号、具有误导性的指标，以及将长青企业与昂贵的试错实验区分开来的核心决策。</p>
-<p>精彩的议程内容是 TechCrunch 创始人峰会的重要价值所在，但这远非全部。你还将有机会与正面临相同融资抉择与招聘考量的创业同行交流互动，并与那些已经历过这些磨砺的前辈建立人脉联系。更棒的是……你还能结识那些曾为在创业苦海中摸爬滚打过的企业提供资金支持的投资人。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>您的下一个人脉机遇就在 Disrupt。与 10,000 多名创始人、风投人、运营者和科技领袖建立联系。探索未来的突破性技术，倾听塑造当下科技格局的真知灼见，并在太平洋时间 9 月 25 日晚上 11:59 之前购票，享受最高 200 美元的优惠。</p>
-<p>Meta 的 Muse 在早期移动端上线表现上正超越 ChatGPT<br />Tilly Norwood 的媒体巡回推介进展正如大家对 AI 的预期一样<br />Anthropic 正在运营一家开展生物学实验的实验室<br />来自一位 ChatGPT 发明者的新型 AI 模型让开发者兴奋不已<br />谷歌推出全新“CC”，这是一款帮助家庭处理家务的 AI 智能体<br />OpenAI 发现其模型向后续版本留言以隐藏不良行为<br />最新未遮蔽的诉讼文件披露，微软高管称 AI 数据抓取是“人类历史上最大规模的劳动力窃取”</p></div>
+<div class="article-body" data-article-body="true"><p>Bessemer Venture Partners于周三宣布，已通过旗下两只新基金募集了57.5亿美元，以加速其在人工智能（AI）全技术栈各环节的投资。该机构曾投资过Anthropic、Cognition、Legora、Perplexity、Ramp、Shopify以及Waymo等公司，此次新资金中，有17.5亿美元专项用于种子期和早期投资，其余40亿美元用于成长期初创企业。</p>
+<p>Bessemer作为SaaS时代的顶尖风投机构而闻名，尤其擅长发掘企业级赛道的赢家，如Box、Docusign和Gainsight。自2022年以来，该机构已投资了260多家AI原生公司。据其表示，截至目前，该机构已向AI相关初创公司投资了30亿美元，涵盖算力、基础设施、基础大模型、开发工具、应用层初创企业以及智能体技术等领域。</p>
+<p>如今，Bessemer将与AI相关的一切视作千载难逢的时代机遇——当然，在下一波热门技术变革到来之前，这是一种普遍的心态。</p>
+<p>“AI原生公司的扩张速度超过了我们以往投资过的任何技术门类，”Bessemer合伙人拜伦·迪特（Byron Deeter）在该公司的募资公告中表示。迪特在接受彭博社采访时补充称，风投机构也需要不断扩充自己的资金储备，因为企业保持私有化更长时间已成为“一种长期的结构性转变”。</p>
+<p>您的下一个重要人脉就在Disrupt。与10,000多名创始人、风险投资人、运营者和科技领袖建立联系。探索明天的突破，倾听塑造当今科技的声音，太平洋时间9月25日晚11:59前最高可立省200美元。</p>
+<p>每个工作日和周日，您都可以获取TechCrunch的精华报道。</p>
+<p>TechCrunch Mobility是您获取交通领域新闻与洞察的首选目的地。</p>
+<p>初创企业是TechCrunch的核心，每周为您送上我们的精选报道。</p>
+<p>为行业决策者提供开启新一天所需的资讯。</p>
+<p>提交您的电子邮箱即表示您同意我们的条款和隐私声明。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-23 07:21 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-24 04:35 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -1311,7 +1086,242 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-13-inch-qualcomm-x2-plus-56b29e85d93b5cd9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1258" data-content-paragraphs="14" data-published-at="2026-09-23T20:30:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-24 04:30</span>
+</div>
+
+### [微软采用高通X2 Plus芯片更新小尺寸Surface Pro与Surface Laptop](https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Surface-Laptop-Image.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软采用高通X2 Plus芯片更新小尺寸Surface Pro与Surface Laptop" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的文章将添加到您的每日邮件摘要和主页动态中。</p>
+<p>12英寸Surface Pro和13英寸Surface Laptop的电池续航和性能均有提升，但售价也更高。</p>
+<p>该作者的文章将添加到您的每日邮件摘要和主页动态中。</p>
+<p>查看汤姆·沃伦（Tom Warren）的全部文章</p>
+<p>微软正为其12英寸Surface Pro和13英寸Surface Laptop设备升级搭载高通最新的骁龙X2 Plus芯片。这两款较小尺寸的Surface设备保留了去年的外观设计与硬件特性，内部换装了速度更快、性能更强劲的芯片，但价格标签也随之上涨（多亏了内存大涨价！）。</p>
+<p>虽然去年12英寸Surface Pro的起售价为799.99美元，但今年将于10月13日以1149.99美元的起步价发售。同样，13英寸Surface Laptop最初定价为899.99美元，而本次则上涨至1199.99美元。这次两款机型都没有提供8GB内存的基础款，这也是价格上涨的部分原因，因为两款设备发售起步配置即为16GB内存，最高可配置至24GB。</p>
+<p>暂且撇开价格不谈，微软承诺，六核骁龙X2 Plus芯片将带来最高达18%的电池能效提升、超过60%的图形性能提升，以及在内置NPU上最高达95%的本地AI推理速度提升。</p>
+<p>这些百分比数字虽然很多，但在设备上的具体体现是更优秀的电池续航与更出色的性能。在微软称为“12英寸Surface Pro第二代（Second Edition）”的设备上，这意味着网页浏览时间可额外增加1小时（总计最长达13小时）；而在“13英寸Surface Laptop第二代”上，网页浏览使用时间则增加了2小时（总计最长达18小时）。</p>
+<p>微软在这些机型上采用了与去年相似的显示屏，因此12英寸Surface Pro配备了一块2196 x 1464（220 PPI）、最高支持90Hz刷新率的LCD显示屏。13英寸Surface Laptop依然配备1920 x 1280（178 PPI）的显示屏，刷新率仅为60Hz。不过，两款显示屏的亮度均已从400尼特提升至500尼特。</p>
+<p>接口配置也同样保持原样。两款设备均配备两个USB-C 3.2接口，13英寸Surface Laptop还多出一个USB-A 3.2接口和一个3.5毫米耳机插孔。两款设备还均支持Wi-Fi 7与蓝牙5.4连接。</p>
+<p>令我感到意外的是，微软居然没有为其中至少一款小尺寸Surface设备升级触感触控板，尤其是考虑到Windows 11现在增加了微妙的触觉微提示，并且Surface Laptop Ultra也配备了触觉反馈。微软正在推出集成触觉反馈功能的第二代Surface鼠标，您可以在此处阅读相关全部详情。</p>
+<p>微软还为这两款小尺寸Surface设备重新提供了黑色配色选项，同时还可选白金色或紫罗兰色。两款设备也将面向商业客户销售，并且12英寸Surface Pro将提供可选的5G配置。</p>
+<p>一份免费的每日摘要，汇集最重要的精选资讯。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-24 04:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ce-mouse-haptic-feedback-118507484a496ccc" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="740" data-content-paragraphs="1" data-published-at="2026-09-23T20:30:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-24 04:30</span>
+</div>
+
+### [微软新款Surface鼠标配备触觉反馈与可自定义操作按键](https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft’s new Surface Mouse has haptic feedback and a customizable action button</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Surface-Mouse-Image.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软新款Surface鼠标配备触觉反馈与可自定义操作按键" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的文章将被添加到您的每日电子邮件文摘和主页信息流中。<br />这款售价79.99美元的Surface鼠标将于10月13日开始发货。<br />该作者的文章将被添加到您的每日电子邮件文摘和主页信息流中。<br />查看汤姆·沃伦（Tom Warren）的所有文章<br />微软将于下月推出第二代Surface鼠标，该产品支持触觉反馈。Surface鼠标还首次配备了可自定义的操作按键，（不出所料）其主要用于快速访问Copilot，但也可以通过Surface应用配置为其他快捷方式。<br />这种触觉反馈适用于整个Windows 11系统中的点击、拖拽以及对齐等操作，同时在PowerPoint、Affinity、Concepts和Filmora等应用程序中也会触发触觉反馈。微软于今年早些时候在Windows 11中增加了对触觉反馈的支持，截至目前主要由微软和罗技（Logitech）通过专属硬件提供支持。罗技的MX Master 4具备触觉反馈，其Pro X2 Superstrike（以及今天新推出的X3）包含一套基于触觉的点击系统，但不支持Windows 11的触觉反馈。即将推出的Surface Laptop Ultra同样配备了触觉触控板。<br />在2016年首次推出Surface鼠标且此后未曾更新之后，微软如今对其进行了重新设计，顶部采用触感柔软的材质，使其全天使用更为舒适。得益于蓝牙6.0（Bluetooth 6.0）的支持，您现在还可以将其最多与三台设备配对。<br />新款Surface鼠标将于10月13日上市，与微软发售更新款12英寸Surface Pro及13英寸Surface Laptop设备为同一天。其售价为79.99美元，提供黑色和白金色两种配色可选。<br />最重要新闻的免费每日文摘。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-24 04:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ni-wage-theft-settlement-3073da3da7cad955" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2975" data-content-paragraphs="9" data-published-at="2026-09-23T19:55:14.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-24 03:55</span>
+</div>
+
+### [DoorDash曾斥资140万美元试图阻止马姆达尼当选市长。如今我们知道了原因](https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why</div>
+
+<div class="article-body" data-article-body="true"><p>在一场关于克扣工资的诉讼和解中，DoorDash现在必须向其劳工支付的金额，约为其此前试图击败佐兰·马姆达尼（Zohran Mamdani）所花费金额的100倍。<br />去年，早在周二宣布DoorDash因少付26.4万名外卖劳工工资而与纽约市达成1.315亿美元的和解之前，该公司就花费了约140万美元用于阻止马姆达尼当选市长的竞选活动，而马姆达尼正是主持这项历史性和解的市长。<br />当时，DoorDash在2025年市长选举前夕的竞选捐款被认为数额异常庞大——它向一个超级政治行动委员会（Super PAC）单笔捐赠了100万美元，这是当时该场竞选中金额最高的一笔捐款——并遭到了竞选中其他候选人的批评。这家外卖巨头的和解协议是该市历史上规模最大的一笔劳工和解案，使这些捐款面临进一步的审视。<br />在整个选举周期中，DoorDash花费了约140万美元反对马姆达尼，并支持前纽约州长治安德鲁·科莫（Andrew Cuomo）。该公司是该场选举中最大的场外支出组织——一个极力反对马姆达尼、名为“修复城市”（Fix the City）的超级政治行动委员会的最大捐助者之一。<br />在竞选过程中，马姆达尼曾承诺对送餐应用进行监管，并进一步保护外卖劳工，这些提案为他赢得了外卖劳工团体的支持。<br />当时，DoorDash的巨额支出引发了人们的侧目。如今，由于市长政府拒绝忽视对该公司行为的担忧，该公司必须向其员工支付约合其试图影响选举所花金额100倍的赔偿款。<br />“这不是捐款，而是一项投资，捐赠者或投资者期望从中获得回报，”寻求对选举中的企业资金进行严格监管的倡导组织“Move to Amend”的前联席主管格雷格·柯勒律治（Greg Coleridge）表示。“在这个例子中，一家试图逃避责任和问责的公司所组织的资金，最终没有成功。”<br />在宣布这项新和解协议时，马姆达尼表示：“这一和解的规模表明了克扣工资对劳工造成的损害。但它也表明，执法至关重要。”<br />在关于该和解协议的公开声明中，DoorDash表示：“简单地说，我们搞砸了。我们的失误导致一些外卖配送员（Dashers）报酬过低或被延迟支付。虽然这些错误不是故意的，但这并不代表它们是可以被接受的。”（DoorDash没有回应就其竞选捐款发表评论的请求。）<br />DoorDash向“修复城市”捐赠了100万美元，该超级政治行动委员会在市长选举中支出了3100万美元，占该竞选总场外支出近一半，主要由大公司和亿万富翁资助。DoorDash是在2025年5月支付这笔款项的，当时正值6月份市长初选前夕，马姆达尼的竞选势头正盛。<br />“修复城市”投放了密集的广告、电话、短信以及其他形式的政治宣传，试图阻止马姆达尼获胜，并将其描绘成一个具有“激进危险思想”且“纽约承受不起的风险”的政客。<br />该组织在竞选宣传单上人工篡改了马姆达尼的胡须，使其看起来更长、更黑，这位穆斯林市长候选人称这种行为是“公然的伊斯兰恐惧症”。<br />DoorDash还向“推动纽约地方经济向前发展”（Local Economies Forward NY）提供了180万美元，该超级政治行动委员会向科莫的竞选活动捐赠了超过36万美元。<br />根据《The Intercept》对纽约市竞选财务委员会公布数据的分析，在DoorDash等企业和布隆伯格等亿万富翁的协助下，旨在击败马姆达尼的超级政治行动委员会的总独立支出是他支持者支出的八倍以上。<br />原创报道。无畏新闻。呈递给您。您愿意成为《The Intercept》的会员，迈出支持我们独立新闻报道的下一步吗？<br />DoorDash的和解是在纽约市消费者与工人保护局展开调查之后达成的。马姆达尼政府表示，该调查“发现DoorDash故意支付低于最低工资标准的报酬给劳工，或者干脆根本不支付”。<br />根据与该市达成的和解协议，这家外卖巨头将支付超过1.15亿美元的劳工赔偿金，以及超过1600万美元的民事处罚和行政罚款。<br />就职两周后，马姆达尼政府就警告送餐应用遵守劳工保护规定，向DoorDash等公司发出通知，并宣布对送餐应用Motoclick提起诉讼。<br />消费者与工人保护局对DoorDash展开的全市调查始于数十名劳工举报该公司未向其支付或延迟支付已完成工作的报酬。<br />作为和解协议的一部分，DoorDash必须在三年内每月向消费者与工人保护局提交合规数据详细报告，同时该公司的活动也将通过劳工与该市共享数据的方式受到监督。<br />马姆达尼宣布的这项和解并非DoorDash近年来在纽约首次面临赔偿支付方面的冲突。<br />2024年5月，在纽约州总检察长莱蒂西亚·詹姆斯（Letitia James）发现该公司经常违反《纽约市公平机会法》拒绝有犯罪前科的申请人后，该公司同意在和解中支付7.5万美元。2025年2月，总检察长与DoorDash达成了1675万美元的和解协议，此前该公司曾使用小费来补贴劳工的保障工资。<br />“他们知道，如果有一位愿意为劳工投入资源的市长，那将对其商业模式造成不利影响，”为低薪移民劳工争取权益并帮助多名DoorDash劳工向消费者与工人保护局提出投诉的组织“劳工正义项目”（Worker’s Justice Project）的执行主管利吉娅·瓜尔帕（Ligia Guallpa）说。“DoorDash决定投入资金试图收买我们城市的民主。”<br />情况甚至比我们想象的还要糟糕。<br />我们现在从唐纳德·特朗普身上看到的，是对美国政府的全面威权接管。<br />这绝非夸大其词。<br />法院命令被置之不理。MAGA效忠者已被任命掌管军方和联邦执法机构。政府效率部剥夺了国会的财政权。挑战特朗普的新闻机构要么被驱逐，要么正在接受调查。<br />然而，仍有太多媒体像对待常规政治一样报道特朗普对民主的抨击，用奉承的标题将特朗普描绘为“打破常规”、“试探边界”和“强势展示权力”。<br />长期以来，《The Intercept》一直在报道世界各地的威权政府、亿万富翁寡头以及民主倒退。我们深知在面对特朗普时所面临的挑战，也深知新闻自由在捍卫民主中的至关重要性。<br />对于新闻界而言，这是灾难性的一年——也是美国现代史上最糟糕的一年。</p>
+<p>我们面对的是一位对真相抱有彻底蔑视的总统，他正极力动用政府的一切权力来拆解自由新闻媒体。各大企业化媒体纷纷退缩，沦为特朗普构建“后真相美国”企图的帮凶。右翼亿万富翁们伺机而动，收购媒体机构，并按照他们的喜好重构信息环境。</p>
+<p>在民主制度面临这一最为危急的关头，《拦截》（The Intercept）正在发起反击。但要取得实效，我们必须壮大自身。</p>
+<p>这正是需要您施以援手之处。您是否愿意帮助我们扩展报道能力，以便在2026年全力以赴展开工作？</p>
+<p>我是《拦截》的主编本·穆西格（Ben Muessig）。对新闻界而言，这是遭受毁灭性打击的一年——也是美国现代历史上最糟糕的一年。</p>
+<p>随着派拉蒙与华纳兄弟的合并案即将推进，埃利森家族得以煽动美国人的恐慌——并向政府兜售其解决方案。</p>
+<p>本月又有66名美军人员在行动中受伤，致使官方统计的伊朗战争伤亡人数超过850人。</p>
+<p>针对移民的战争</p>
+<p>利文沃思（Leavenworth）曾通过一切可用途径抗击美国移民及海关执法局（ICE）重新启用由CoreCivic运营的监狱羁押移民的做法。但这一切依然不够。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-24 03:55 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-before-ai-workloads-land-c296b69a479aa2b0" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="4414" data-content-paragraphs="41" data-published-at="2026-09-23T19:45:19.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nvidia.svg" class="source-icon" alt="NVIDIA Developer Blog (英伟达开发者官方英文)" width="16" height="16" /> <strong>NVIDIA Developer Blog (英伟达开发者官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-24 03:45</span>
+</div>
+
+### [在承接 AI 工作负载前验证 GPU 集群就绪状态](https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Validate GPU Cluster Readiness Before AI Workloads Land</div>
+
+<div class="article-cover"><img src="https://developer-blogs.nvidia.com/wp-content/uploads/2025/12/cybersecurity.jpg" alt="在承接 AI 工作负载前验证 GPU 集群就绪状态" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>借助 NVIDIA Cluster Readiness Engine（集群就绪引擎），团队可以通过工作负载驱动的验证，将可靠的 GPU 集群投入生产。</p>
+<p>GPU 集群可能通过每一项健康检查，但在运行 AI 工作负载时依然失败。即使每个 GPU、网络链路和 Pod 都报告健康，一个 512-GPU 的训练任务仍可能性能不佳或失败。其原因可能是一个缓慢的 GPU、在负载下性能下降的链路，或者将流量悄悄路由到较慢路径的配置。运维人员可能在运行数小时后或客户提交工单时才发现问题。随后，团队可能需要花费数天时间对集群进行二分法排查以定位根本原因，而算力资源却处于闲置状态。</p>
+<p>NVIDIA Cluster Readiness Engine（NVCRE）是一个开源 Kubernetes 控制器，在生产工作负载落地之前将排查范围缩小至具体的受影响节点。它跨拓扑感知节点组运行真实的分布式工作负载，测量结果，并报告哪些节点未通过各项测试。运维人员不再需要手动编写 NVIDIA 集体通信库（NCCL）清单、手动二分排查机架，或者从客户工单中获知硬件降级。就绪状态由此成为集群经过验证的既有属性，而非假设。</p>
+<p>GPU 集群的就绪是分阶段实现的。它会经历启动（bring-up）、老化测试（burn-in）、准生产（preproduction）和生产（production）阶段，每个阶段都设定了不同的门槛。通过冒烟测试的节点并不一定准备好加入 512-GPU 的训练任务。</p>
+<p>平台团队通常会将这一流程编写在操作手册（runbook）、电子表格或封装了 NCCL 测试的 Shell 脚本中。这便成为了他们在节点配置、GPU 共享和工作负载编排之外必须构建和维护的另一套系统。</p>
+<p>集群可能通过标准诊断，却仍在真实的分布式作业中发生故障，因此测试就绪状态的最佳方法是运行实际的工作负载。在 Slurm 上，这只需要一条 srun 命令。而 Kubernetes 没有内置的等价命令，因此相同的测试需要 GPU 和远程直接内存访问（RDMA）资源请求、与网络架构相匹配的 NCCL 设置、足够大的共享内存卷，以及确保所有 Pod 同时启动的机制。</p>
+<p>NVCRE 填补了 Kubernetes 上的这些空白。它运行能够暴露出真实硬件问题的工作负载，并精准指出导致每次故障的具体节点。</p>
+<p>API 即产品界面。自定义资源定义（CRD）定义了各项资源，因此您可以通过 kubectl 进行检查，并通过 GitOps 工作流进行管理。</p>
+<p>该 API 包含按层级排列的三个资源。</p>
+<p>一项认证（certification）为每个类别创建一个工作流（workflow），每个工作流再创建其子作业（job）。</p>
+<p>随后结果向上传播。作业记录哪些节点出现故障及故障原因，工作流报告测试结果，而认证则按类别对结果进行分组。</p>
+<p>这一层级结构将每个故障归因于特定节点和类别。例如，一次运行会报告 gpu-01 在 NCCL 期间发生硬件故障，而 gpu-02 未达到带宽目标。</p>
+<p>以下示例展示了认证如何指定其目标和要运行的类别。</p>
+<p>内置目录目前涵盖三个领域：五种 NCCL 通信变体（all-reduce、all-gather、all-to-all、环回测试以及跨 NVIDIA NVSwitch 环回测试）、NVIDIA 数据中心 GPU 管理器（DCGM）4级诊断套件，以及采用 8B 和 56B 参数 NVIDIA Nemotron 5 模型的 NVIDIA NeMo 预训练。每个条目均包含平台感知的默认配置。</p>
+<p>NVCRE 从目标节点检测 GPU 架构和云平台，并推导其余配置，包括每节点 GPU 数量、NCCL 环境以及平台特有的网络配置。</p>
+<p>通过和失败标准采用通用表达式语言（CEL），并根据实测指标进行评估。默认情况下不附带阈值。以下数值是针对 NVIDIA GB200 NVL72 级别系统的示例说明。</p>
+<p>当测量指标未达到目标时，NVCRE 会设置 ValidationFailed 状态条件，该条件与运行本身是否成功分开记录。即使工作负载顺利完成但未达到目标，仍会被报告为失败。</p>
+<p>某些故障仅在特定规模下显现，因此分组策略是显式指定的。testScale 字段用于选择该策略。</p>
+<p>所选策略决定了测量内容。在单个 NVIDIA NVLink 域内的 NCCL 测试测量的是 NVLink 带宽，而在三个机架间进行的相同测试测量的则是横向扩展网络（scale-out fabric）。两者的测量目标完全不同。</p>
+<p>多节点验证中最棘手的情况是故障无法归因于任何单个节点。例如一个 64 节点的 all-reduce 出现低带宽，而该组内的每个节点都可能有关联。手动隔离原因可能耗费数天的工程时间。</p>
+<p>NVCRE 将该隔离过程自动化。设置 testScale: diagnose 会运行拓扑感知的层级分组测试。引擎将每个失败的组进行拆分，重新运行拆分后的各半部分，并以此持续进行，直到达到 minGroupSize。在该规模下仍然失败的组会被标记为可疑项。maxConcurrent 限制了并发运行的作业数量，以免它们占满正在测量的网络。</p>
+<p>输出结果会指明少数可疑节点，而不是牵连整个集群组，并给出每个节点失败的原因。</p>
+<p>在 Kubernetes 上运行多节点 GPU 工作负载需要平台检测、特定框架的运行时配置、GPU 和网络资源请求，以及失败运行后的清理工作。这种配置过程重复繁琐且极易出错。</p>
+<p>WorkloadRun 负责处理相关配置：只需提供容器镜像、选择框架并指定节点数量。</p>
+<p>framework 字段支持且仅支持 torch（通过 torchrun 进行分布式训练）、mpi（NCCL 测试和其他 MPI 工作负载）或 exec（任意命令）之一。NVCRE 生成匹配的 Kubeflow TrainingRuntime，注入共享内存卷，设置 NCCL 及平台环境变量，并在硬件支持的情况下启用 NVIDIA NVLink 纵向扩展（scale-up）网络。</p>
+<p>在没有协同调度器（gang scheduler）的情况下，Kubernetes 默认调度器会独立调度放置 Pod，各 Rank 只能在框架集合点（rendezvous）等待其对等节点。在繁忙的集群上，这可能会导致死锁：部分已调度的 Pod 占用了 GPU，同时等待永远无法就位的对等节点。设置 spec.gangScheduler 可以让每个工作负载 Pod 启用协同调度器（例如 KAI Scheduler），该调度器会暂留所有 Pod，直到整个任务组（gang）能够一次性完成调度。</p>
+<p>由于 WorkloadRun 是一个标准的 CRD，外部工具可以使用它来运行工作负载，而无需引入 NVCRE 的其他组件。NVCRE 提供执行路径，调用工具提供测试内容。</p>
+<p>集群在投入生产的过程中必须回答三个问题：配置是否正确？是否已准备好运行真实的 AI 工作负载？当前是否健康？NVIDIA DSX OS 的不同层级分别针对这三个问题给出了解决方案。</p>
+<p>NVIDIA AI Cluster Runtime（AICR）用于建立并维护经过验证的集群配置。AICR 将经过验证的驱动程序、Operator、内核和系统设置组合捕获为版本锁定的方案配方（recipes）。团队可以在各个集群间复现相同优化后的配置、验证实时状态并检测配置漂移。这减少了性能波动，避免了在昂贵 GPU 闲置时耗费数天进行调优的情况。</p>
+<p>NVCRE 负责验证集群是否已准备好运行真实的 AI 工作负载。这一主动式的、由工作负载驱动的层级会生成实际负载，从而能够发现不会产生遥测指标的故障隐患。单个降级的 GPU 会将同步训练作业的整体速度拖慢至其最差 rank 的水平，而 NCCL 带宽测试可以在几分钟内识别出该问题。</p>
+<p>NVIDIA NVSentinel 持续监控集群健康状态。作为被动的、遥测驱动的层级，它监控集群已经产生的各种信号，包括 DCGM 指标、Xid 错误、系统日志以及云服务商维护事件。它能够检测运行时故障，并驱动隔离、排空（drain）和修复工作流。由于它不占用 GPU 运行时间，因此可以在生产环境中持续运行，而在该环境中进行主动测试则会占用原本属于工作负载的 GPU 资源。</p>
+<p>每个项目既能独立提供价值，也能相互集成，为运行全栈的团队提供支持。</p>
+<p>NVCRE 会记录故障节点及原因。它不会主动对节点打上 cordon、taint（污点）或修补节点状态（patch node conditions），从而避免操作冲突和清理不同步的问题。NVSentinel NVCRE Certification Monitor 可以将失败的认证结果转换为健康事件。随后，配置好的 NVSentinel 策略可以对节点执行隔离和排空，或者触发外部修复。后续成功的认证可以清除故障信号并释放污点。</p>
+<p>NVCRE 要求目标集群具备 Kubernetes 1.29 或更高版本、kubectl、Helm 3.x 以及 NVIDIA GPU Operator。NVIDIA GB200 NVL72 和 NVIDIA GB300 NVL72 目录条目还需要适用于 GPU 的 NVIDIA DRA Driver，因为这些条目会创建 ComputeDomain 资源。DCGM 4 级类别需要独立的 DCGM 服务。在繁忙的共享集群上，推荐使用诸如 KAI Scheduler 之类的 Gang-aware（成组感知）调度器（可选）。</p>
+<p>安装 CLI 并配置集群。nvcrectl setup init 命令将安装 CRD、控制器、Kubeflow Trainer 以及默认日志配置文件。</p>
+<p>随后运行端到端验证。</p>
+<p>以下报告列出了每个类别的状态、运行时间、实测带宽以及所有故障节点，并附带了每项故障的原因。</p>
+<p>NVCRE 采用 Apache 2.0 许可证并以开源方式开发。在 GitHub 上提交 Pull Request 之前，可先提交 Bug 报告、提出功能需求或变更建议。您还可以贡献目录条目、工作负载适配器、测试用例和文档。</p>
+<p>在投入生产前使用该引擎验证 GPU 集群。其共享工作流和测试目录可在 Kubernetes 集群间保持一致运行，并已将对全新 NVIDIA 架构、推理以及自动化生命周期验证的支持列入路线图。</p>
+<p>在您的下一个生产级工作负载上线前，请务必验证您的 GPU 集群。</p>
+<p>该项目是 NVIDIA DSX OS 的一部分，后者是 NVIDIA DSX AI Factory Platform 的操作系统层。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【NVIDIA Developer Blog (英伟达开发者官方英文)】于 2026-09-24 03:45 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#NVIDIA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NVIDIA Developer Blog (英伟达开发者官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ugs-into-clinical-trials-7863c4c666f333fd" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="677" data-content-paragraphs="9" data-published-at="2026-09-23T19:31:28.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-24 03:31</span>
+</div>
+
+### [Enveda获3.11亿美元融资，加速推进更多源自天然的AI药物进入临床试验](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Enveda secures $311M to bring more nature-derived AI drugs into clinical trials</div>
+
+<div class="article-body" data-article-body="true"><p>利用人工智能在自然界中发现新药的生物科技初创公司Enveda已在E轮融资中筹集了3.11亿美元，估值达到20亿美元。这笔新资金由Catalio Capital Management领投，Iconiq等机构参投，使Enveda的估值较12个月前翻了一倍。</p>
+<p>Enveda背后的理念是，强效药物可以从植物和微生物中提取利用，而非在实验室中从零开始合成。Recursion Pharmaceuticals的早期员工维斯瓦·科卢鲁（Viswa Colluru）于2019年创立了Enveda，旨在利用人工智能等技术加速发现这些新药的过程。</p>
+<p>尽管人工智能尚未催生出任何获得美国食品药品监督管理局（FDA）批准的药物，但Enveda属于推动AI发现的候选药物进入人体临床试验浪潮中的一员。该初创公司目前正在患者中测试数种药物，其中包括一种针对严重皮肤疾病的药物，以及另一种旨在帮助患者在停用GLP-1药物后维持减重效果的药物。</p>
+<p>您的下一个重要人脉就在Disrupt。与10,000多名创始人、风险投资人、运营者和科技领袖建立联系。探索未来的突破，倾听当今塑造科技的声音，并在太平洋时间9月25日晚上11点59分前最高可节省200美元。</p>
+<p>每个工作日和周日，您都可以获取TechCrunch的最佳报道。</p>
+<p>TechCrunch Mobility是您获取交通领域新闻与洞察的必读之选。</p>
+<p>初创公司是TechCrunch的核心，欢迎每周接收我们为您递送的精选报道。</p>
+<p>为行业引领者提供开启新一天所需的资讯。</p>
+<p>提交您的电子邮箱即表示您同意我们的《条款》和《隐私声明》。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-24 03:31 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

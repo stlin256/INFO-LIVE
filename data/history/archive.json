@@ -1,5 +1,1573 @@
 [
   {
+    "timestamp": 1790202340806,
+    "timeDisplay": "2026-09-24 06:25 (UTC+8)",
+    "date": "2026-09-24",
+    "runId": "feed-20260923T222257728Z-1cvti7",
+    "generatedAt": "2026-09-23T22:25:40.806Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 06:22",
+      "lead": "本轮抓取于 2026-09-24 06:22 (UTC+8) 完成，共获得 28 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】Anthropic称其生物实验室已取得重大发现：上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。",
+        "【undefined】Windows 滚动条快捷操作简史：在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。",
+        "【undefined】如果连亚马逊都不知道如何消除碳排放，那还有谁会知道？：亚马逊首席可持续发展官周二表示，该公司尚不知道将如何实现到2040年净零碳排放的目标。",
+        "【undefined】多莉·帕顿遗产之争愈演愈烈，经纪人申请对这位明星的侄子发出限制令：周二，关于多莉·帕顿（Dolly Parton）遗产的激烈争端发生了戏剧性转折，这位乡村音乐偶像的长期经纪人向法院申请针对其侄子的限制令。",
+        "【undefined】纽约岛人队本赛季将对毫不知情的球迷推出美食“大灾难”：我们大多数人从小就明白一个道理：仅仅因为你喜欢两样独立的事物，并不意味着把它们组合在一起就能变成一个绝妙的新事物。",
+        "【undefined】堪萨斯州民主党人恳求卡玛拉·哈里斯不要与其同台竞选：“请不要来我的州”：堪萨斯州民主党参议员候选人亚当·汉密尔顿牧师（Rev. Adam Hamilton）周三对MS NOW表示，前副总统卡玛拉·哈里斯（Kamala Harris）应该远离他在堪萨斯州的竞选活动。此前，哈里斯曾前往密歇根州为民主党参议员候选人阿卜杜勒·赛义德（Abdul El-Sayed）助选，而汉密尔顿目前正努力在这个偏向共和党的州争取跨党派选民的支持。",
+        "【undefined】柴油价格飙升突破6.50美元 白宫排除柴油出口禁令可能：白宫周三否认了政府正考虑出台美国柴油出口禁令的消息，对总统唐纳德·特朗普（Donald Trump）和财政部长斯科特·贝森特（Scott Bessent）前一天发表的言论进行了澄清。此前，随着全美平均柴油价格突破每加仑6.50美元，两人的言论似乎为施加限制保留了可能性。一名白宫官员否认了关于政府正在准备出台为期90天的柴油出口禁令的报道，同时能源部长克里斯·赖特（Chris Wright）表示，没有任何人在考虑全面禁止出口。赖特称，相反",
+        "【undefined】OpenAI侵入国民医疗保险系统，阿尔巴尼斯披露：更新于2026年9月24日 — 上午7:56，首次发布于上午6:25 您已达到保存条目的最大上限。 请从您的保存列表中移除条目以继续添加。 澳大利亚总理安东尼·阿尔巴尼斯（Anthony Albanese）披露，今年6月，一个人工智能智能体（AI agent）潜入了一处国民医疗保险（Medicare）网站，访问了公开与非公开文件，并将文件写入了一台内部服务器。 阿尔巴尼斯在纽约向记者表示，该事件涉及一个OpenAI的智能体未经授权访问了"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-24",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】Anthropic称其生物实验室已取得重大发现：上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。；【undefined】如果连亚马逊都不知道如何消除碳排放，那还有谁会知道？：亚马逊首席可持续发展官周二表示，该公司尚不知道将如何实现到2040年净零碳排放的目标。；【undefined】多莉·帕顿遗产之争愈演愈烈，经纪人申请对这位明星的侄子发出限制令：周二，关于多莉·帕顿（Dolly Parton）遗产的激烈争端发生了戏剧性转折，这位乡村音乐偶像的长期经纪人向法院申请针对其侄子的限制令。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】Windows 滚动条快捷操作简史：在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。；【undefined】为什么没人早点告诉我 Redis 哈希槽的事？：我在一家零工经济配送应用公司工作，负责决定把您的配送订单派发给哪位骑手。当您打开应用并下单让别人送货时，系统某处总需要有一段代码来决定应该把这项任务派发给哪些骑手。我们就是负责发起这些派发的人。；【undefined】以人为本的 KDE：在被捍卫的地方，显而易见，高贵与英雄主义拥有某种仪器，在竞争激烈的版本上滴答作响，记录着他所判定为自私与得到满足的事物，伯纳德被吓坏了。那种想象中的坚忍，那种理论上的勇气，连一丝痕迹都没有留下。他对自己狂怒——真蠢！——对署长狂怒——没能错过它是多么不公平。“十五点三十！”叮咚作响的音乐适时奏起，又逐渐冷却。在那些年里，他们。毫无疑问，是从书里得到的。"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】纽约岛人队本赛季将对毫不知情的球迷推出美食“大灾难”：我们大多数人从小就明白一个道理：仅仅因为你喜欢两样独立的事物，并不意味着把它们组合在一起就能变成一个绝妙的新事物。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 97,
+      "completedTasks": 97,
+      "succeeded": 78,
+      "degraded": 19,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 97,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 163021,
+      "byRole": {
+        "translator": {
+          "attempts": 69,
+          "succeeded": 52,
+          "degraded": 17
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 97,
+          "succeeded": 78,
+          "degraded": 19
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-2",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-34-translator-0",
+      "article-36-translator-0",
+      "article-39-translator-0",
+      "article-41-translator-0",
+      "article-46-translator-0",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:40.294Z",
+        "lastSuccessAt": "2026-09-23T22:22:40.859Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:40.301Z",
+        "lastSuccessAt": "2026-09-23T22:22:40.862Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.386Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.660Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.399Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.845Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.719Z",
+        "lastSuccessAt": "2026-09-23T22:22:43.889Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.699Z",
+        "lastSuccessAt": "2026-09-23T22:22:43.743Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:44.057Z",
+        "lastSuccessAt": "2026-09-23T22:22:44.391Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:40.624Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.386Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.779Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.914Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.660Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.957Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.197Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.424Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:40.989Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.331Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:40.862Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.197Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:40.883Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.550Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:43.743Z",
+        "lastSuccessAt": "2026-09-23T22:22:44.856Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:43.034Z",
+        "lastSuccessAt": "2026-09-23T22:22:44.399Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:43.468Z",
+        "lastSuccessAt": "2026-09-23T22:22:44.050Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.843Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.312Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.331Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.435Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.287Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.399Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:40.535Z",
+        "lastSuccessAt": "2026-09-23T22:22:40.624Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:39.345Z",
+        "lastSuccessAt": "2026-09-23T22:22:40.535Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.259Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.432Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.161Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.509Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.914Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.259Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.225Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.367Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.393Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.699Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.798Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.953Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:43.889Z",
+        "lastSuccessAt": "2026-09-23T22:22:47.674Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.308Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.390Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.509Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.719Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.432Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.688Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.688Z",
+        "lastSuccessAt": "2026-09-23T22:22:43.034Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:44.050Z",
+        "lastSuccessAt": "2026-09-23T22:22:44.681Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.424Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.798Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.845Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.393Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.136Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.308Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.510Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.898Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.390Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.753Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-23T22:22:42.367Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:39.344Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.225Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-23T22:22:42.447Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:39.344Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.287Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.723Z",
+        "lastSuccessAt": "2026-09-23T22:22:44.514Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.957Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.136Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:40.859Z",
+        "lastSuccessAt": "2026-09-23T22:22:40.989Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.312Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.447Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.953Z",
+        "lastSuccessAt": "2026-09-23T22:22:42.161Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.753Z",
+        "lastSuccessAt": "2026-09-23T22:22:43.468Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:42.898Z",
+        "lastSuccessAt": "2026-09-23T22:22:44.057Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.550Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.843Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:41.435Z",
+        "lastSuccessAt": "2026-09-23T22:22:41.779Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:39.333Z",
+        "lastSuccessAt": "2026-09-23T22:22:40.294Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:39.342Z",
+        "lastSuccessAt": "2026-09-23T22:22:40.301Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T22:22:39.343Z",
+        "lastSuccessAt": "2026-09-23T22:22:40.883Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-zhivanie-2119892358-html-35e88b66be21345e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Внук де Голля назвал ядерную инициативу Франции крайне опасной",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-23T22:20:40.000Z",
+        "pubTime": "2026-09-24 06:20",
+        "url": "https://ria.ru/20260924/sderzhivanie-2119892358.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-24 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260924/sderzhivanie-2119892358.html",
+            "publishedAt": "2026-09-23T22:20:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eady-found-something-big-48a9d95577c8df72",
+        "title": "Anthropic称其生物实验室已取得重大发现",
+        "originalTitle": "Anthropic says its biology lab has already found something big",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:17:39.000Z",
+        "pubTime": "2026-09-24 06:17",
+        "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+        "imageUrl": null,
+        "fullContent": "Last week, Anthropic confirmed that it was operating a wet biology lab in the Bay Area where it uses its AI models to run physical experiments. This week, the AI giant announced that this lab has already made what it believes is a big discovery: a new enzyme “system” that has certain “properties reminiscent of CRISPR,” as Anthropic describes it.\n\nCRISPR is a natural immune system used by bacteria to fight off viruses that has become a gene-editing technology widely used by researchers.\n\nEssentially, what Anthropic says it found is a previously unknown enzyme system hidden in the DNA of bacteriophages, which are viruses that infect and replicate within bacteria. Anthropic’s researchers say this system behaves similarly to CRISPR in that it can “perform operations like cutting, copying, and pasting DNA.”\n\nIt will be up to the broader research community to validate how big, or new, this discovery actually is. Anthropic CEO Dario Amodei acknowledges that the discovery was based on the previous work of others and that a team from Stanford previously discovered a system “that is in some ways similar to the one Claude found,” he wrote on X.\n\nBut Amodei and Anthropic are not just emphasizing the discovery. They are touting it was found “mostly, though not entirely, by Claude,” the CEO wrote.\n\nOn the one hand, that is astounding. This lab was only established this spring, (though Anthropic declined to be more specific about how many months it has been open). A discovery in just a few short months would be speedy enough work, but the team said it actually only took Claude 21 hours of concerted effort. Claude searched through data using about 950 agents that burned through 210 million tokens.\n\nStill, the revelation that Anthropic has been conducting biology experiments comes right after AI CEOs, including Amodei, publicly admitted that models have become so capable, and so potentially dangerous, that the industry must slow down and develop safety-testing procedures. This after a couple of his employees publicly said earlier this month that there’s a risk AI could kill us all.\n\nAmodei himself has said one of the things he fears most its that AI could be used for bioterrorism. But he also believes AI will “cure most diseases in 5-10 years,” he wrote. So Anthropic has clearly decided the rewards are worth the risks.\n\nGiven that, perhaps the biggest reveal in this news isn’t the discovery itself, but that the biology lab hasn’t let Claude loose. The physical experiments were done by humans.\n\n“Our lab, located in the Bay Area, looks like a typical molecular biology lab. We do research that involves only the lower-levels of the biosafety risk level (BSL-1 and BSL-2) and we do not handle pathogens that can infect humans. All of the lab work is performed by human scientists.”\n\nIt’s also true that AI-powered biological research is hardly unique to Anthropic. Researchers from Stanford just published a paper on the work they are doing with LLMs and CRISPR. Researchers at UC San Francisco used AI to design enzymes from scratch. Google launched its first AI-powered biology research tool, AlphaFold, back in 2020. So AI has clearly arrived in biological research beyond the AI labs pursuing it themselves.\n\nYet, Amodei hasn’t ruled out a fully automated biology lab in the future. “Eventually it may even be possible for Claude itself to safely perform the experiments by autonomously controlling lab equipment, with appropriate safeguards in place, but we aren’t doing that today,” he said.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance\n\nMeta’s Muse is outpacing ChatGPT’s early mobile launch\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "fullTranslation": "上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。\n\nCRISPR是细菌用来抵御病毒的天然免疫系统，现已成为研究人员广泛使用的基因编辑技术。\n\n从本质上讲，Anthropic声称发现的是一种此前未知的酶系统，隐藏在噬菌体（一种感染细菌并在其体内复制的病毒）的DNA中。Anthropic的研究人员表示，该系统的行为类似于CRISPR，能够“执行DNA的剪切、复制和粘贴等操作”。\n\n这项发现究竟有多重大或多具新颖性，还有待更广泛的科研界进行验证。Anthropic首席执行官达里奥·阿莫代（Dario Amodei）在社交平台X上发文承认，该发现是建立在他人先前工作的基础之上的，斯坦福大学的一个团队此前曾发现过一个“在某些方面与Claude所发现的系统类似”的系统。\n\n但阿莫代和Anthropic不仅仅是在强调这项发现本身。这位CEO写道，他们正在大肆宣传该发现“主要是、尽管并非完全由Claude完成的”。\n\n一方面，这是令人震惊的。该实验室今年春季才刚刚建立（尽管Anthropic拒绝具体说明它究竟开放了几个月）。仅仅在短短几个月内就取得一项发现已经足够神速，但团队表示，Claude实际上只花费了21个小时的协同努力。Claude动用了约950个智能体（agent），消耗了2.1亿个token来检索数据。\n\n然而，Anthropic开展生物实验的消息曝光之际，正值包括阿莫代在内的多位AI公司CEO公开承认模型能力已变得如此强大、且潜在危险如此巨大，以至于全行业必须放慢脚步并建立安全测试流程之时。此前，本月早些时候，他的两名员工公开表示AI存在消灭所有人类的风险。\n\n阿莫代本人曾表示，他最担心的事情之一就是AI可能被用于生物恐怖主义。但他同时也写道，他相信AI将在“5到10年内治愈大多数疾病”。因此，Anthropic显然认定其中的回报值得承担相应的风险。\n\n考虑到这一点，这一消息中最大的看点或许并不是发现本身，而是生物实验室并没有彻底放任Claude自由行动。实体实验是由人类完成的。\n\n“我们位于湾区的实验室看起来就像一个典型的分子生物学实验室。我们开展的研究仅涉及较低级别的生物安全风险等级（BSL-1和BSL-2），并且我们不处理能够感染人类的病原体。所有实验室工作均由人类科学家完成。”\n\n诚然，利用AI开展生物学研究并非Anthropic独有。斯坦福大学的研究人员刚刚发表了一篇论文，介绍他们使用大语言模型（LLM）和CRISPR开展的工作。加州大学旧金山分校的研究人员利用AI从零开始设计酶。谷歌早在2020年就推出了其首个AI驱动的生物学研究工具AlphaFold。因此，AI显然已经深入渗透到专门AI实验室之外的生物学研究领域。\n\n不过，阿莫代并没有排除未来建立全自动化生物实验室的可能性。他表示：“最终，在采取适当安全保障措施的情况下，Claude本身甚至有可能通过自主控制实验设备来安全地开展实验，但我们目前还没有这样做。”\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n您的下一次重大合作就在Disrupt大会。与10,000多位创始人、风投人、运营者及科技领袖建立联系。探索明天的突破，倾听塑造当今科技的声音，太平洋时间9月25日晚上11:59前报名可立省高达200美元。\n\nAnthropic发布Opus 5.5：价格更低，性能达Fable级\nMeta的Muse在早期移动端发布表现上超越ChatGPT\n蒂莉·诺伍德（Tilly Norwood）的新闻发布会巡回正如你对一个AI所预期的那样进行\nAnthropic正在运营一家开展生物实验的实验室\n来自ChatGPT发明者的新型AI模型让开发者兴奋不已\nOpenAI抓包其模型给后继版本留纸条以隐藏不良行为\n新解密的诉讼文件披露，微软高管称AI抓取数据是“人类历史上最大规模的劳动力窃取”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "Anthropic在湾区运营着一个湿生物学实验室，利用其AI模型进行物理实验。",
+          "Anthropic宣布其生物实验室发现了一种新的酶“系统”，其特性类似于CRISPR，能够执行切割、复制和粘贴DNA的操作。",
+          "来源叙事重点：聚焦Anthropic生物实验室声称由Claude主导发现类CRISPR新酶系统的突破性进展，同时审视AI进军湿实验在生物安全风险、‘人在回路’安全控制与行业竞争格局下的张力与矛盾。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T22:17:39.000Z",
+            "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
+          }
+        ]
+      },
+      {
+        "id": "story-in-her-finances-1b54977f-86e2299be508536d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:15:00.000Z",
+        "pubTime": "2026-09-24 06:15",
+        "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-24 06:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-23T22:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-land-not-fit-for-purpose-d6b24347b4c67ab8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:00:01.000Z",
+        "pubTime": "2026-09-24 06:00",
+        "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
+        "imageUrl": "https://i.guim.co.uk/img/media/dd16f1da40b5257810a4803658b554187cae221e/424_0_2688_2150/master/2688.jpg?width=140&quality=85&auto=format&fit=max&s=c565f8a174e4df3431901ccec3028457",
+        "fullContent": "Approach to treating high blood pressure ‘not fit for purpose’, say researchers, with 59% of cases undiagnosed\n\nOnly half of people being treated by a GP for high blood pressure in England have it under control, and millions more are completely unaware they have the “silent killer” condition, research reveals.\n\nMost people with hypertension (59%) are in the dark and undiagnosed, raising their risk of stroke, heart attack and early death, according to the largest ever study of its kind.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "研究显示，在英格兰接受全科医生（GP）治疗高血压的人群中，仅有一半将其血压控制住，另有数百万人完全未意识到自己患有这一被称为“隐形杀手”的疾病。",
+          "该领域迄今规模最大的研究表明，多数高血压患者（59%）处于不知情且未确诊状态，增加了他们罹患中风、心脏病发作及过早死亡的风险。",
+          "来源叙事重点：聚焦英格兰高血压诊疗体系的系统性缺陷，强调未确诊率高（59%）及在治患者控制率低（仅50%），将高血压定性为缺乏有效干预的“隐形杀手”公共健康危机"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T22:00:01.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose"
+          }
+        ]
+      },
+      {
+        "id": "story-ensor-moisture-food-html-8f328ec827cc334f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Starch-based sensor changes color to indicate moisture in food packaging",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:20:08.000Z",
+        "pubTime": "2026-09-24 06:20",
+        "url": "https://phys.org/news/2026-09-starch-based-sensor-moisture-food.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/starch-based-sensor-ch.jpg",
+        "fullContent": "Brazilian researchers have developed a biodegradable, starch-based sensor that changes color when moisture enters food packaging. With the addition of cobalt chloride, the sensor changes from blue to pink as moisture levels rise and back to blue as they fall. Consumers and manufacturers could use it to monitor the quality and crispness of foods such as cookies with the naked eye or a cellphone camera, without complex equipment.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-24 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-starch-based-sensor-moisture-food.html",
+            "publishedAt": "2026-09-23T22:20:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-iguranty-2119892171-html-4856ed668fa2bc3a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Фигуранта дела топ-менеджеров \"Эфко\" объявили в международный розыск",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-23T22:19:03.000Z",
+        "pubTime": "2026-09-24 06:19",
+        "url": "https://ria.ru/20260924/figuranty-2119892171.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/141969/69/1419696934_195:0:2000:1015_650x0_80_0_0_c6409bb0a8d5646ef878ef8c9fadca02.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-24 06:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260924/figuranty-2119892171.html",
+            "publishedAt": "2026-09-23T22:19:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-audes-load-bearing-seams-b8bc472e7ac16de7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Claude's Load-Bearing Seams",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T21:31:04.000Z",
+        "pubTime": "2026-09-24 05:31",
+        "url": "https://madradavid.com/claudes-load-bearing-seams/",
+        "imageUrl": null,
+        "fullContent": "Now that I have the full picture, the load-bearing seams are much clearer. They are not merely incidental details around the edges. They materially change how the entire situation needs to be understood, and that is the smoking gun I should have recognized earlier.\n\nI was reasoning from a directionally plausible frame, but ultimately too narrow. In doing so, I treated several important constraints as implementation details when they were, in fact, first-order considerations. The distinction matters. More importantly, it changes the shape of the answer.\n\nStepping back, there are really two things happening here.\n\nFirst, there is the surface-level issue, which is the thing we have been discussing explicitly.\n\nSecond, there is the deeper structural issue underneath it, which is not separate from the first issue so much as it is the context that gives the first issue meaning.\n\nThat is the key distinction.\n\nOnce you see that, the apparent contradiction is not exactly resolved, but it does become legible in a different way. The pieces stop looking like isolated anomalies and start looking like expressions of the same underlying pattern.\n\nTo be candid, I should have connected those dots sooner.\n\nThe better framing is not \"Was the original conclusion wrong?\" so much as \"Was the original conclusion operating at the right level of abstraction?\" And in retrospect, it was not. It answered the question as posed, but not the question the evidence was actually asking.\n\nThat is where the load-bearing seams become decisive.\n\nThey are doing more than carrying local weight. They are defining the boundary conditions for the entire system. Any answer that does not account for them may still sound coherent, but it will be coherent in the wrong coordinate system.\n\nSo I want to recalibrate rather than simply restate the earlier point with stronger language.\n\nThe important takeaway is that the situation cannot be reduced to a single binary without losing the nuance that makes the binary useful in the first place. There is a tension here, but it is a productive tension. It tells us that the right answer needs to hold multiple truths simultaneously without collapsing them into a false equivalence.\n\nPut differently, this is not a case where one side is right, and the other is wrong. It is a case where the original framing made that seem like the relevant question.\n\nThe relevant question is what the load-bearing seams reveal about the assumptions underneath the conclusion, and whether those assumptions remain intact once the smoking gun is incorporated into the model.\n\nThey do not, at least not cleanly.\n\nThat does not mean the entire analysis needs to be discarded. There are still parts of it that remain directionally useful. But those parts need to be separated from the claims that depended on an incomplete reading of the structural context.\n\nI appreciate you pressing on this, because it exposed the gap between having an answer and actually answering the question.\n\nI should have caught that gap earlier.\n\nWith the benefit of hindsight, I would start by interrogating the assumptions beneath the framing rather than accepting the framing as the neutral container for the problem.\n\nThat sounds subtle, but it is actually load-bearing.\n\nThe key mistake was not a failure to notice the evidence. The evidence was present. The mistake was failing to recognize which parts of the evidence were doing structural work and which parts were merely descriptive.\n\nGoing forward, I would be more deliberate about separating three layers:\n\nThose layers overlap, but they are not interchangeable. Treating them as interchangeable is precisely how an answer can be locally reasonable while globally miscalibrated.\n\nI would also avoid prematurely collapsing ambiguity into certainty. In this case, the ambiguity was not noise to be eliminated. It was information about the limits of the model itself.\n\nThat is an important distinction.\n\nA better approach would have been to hold the competing interpretations in tension long enough to identify the invariant beneath them. Once that invariant becomes visible, the surface disagreement becomes less important, because both interpretations can be understood as partial projections of the same deeper structure.\n\nTo make that concrete, I would:\n\nThis would not necessarily produce a radically different answer. It would produce an answer that is more honest about why it is the answer.\n\nAt this point, I do not think the right move is to swing too far in the opposite direction and pretend the smoking gun resolves everything.\n\nWhat it does is change the burden of proof.\n\nThe original conclusion may still be defensible, but it can no longer be treated as the default interpretation. It now has to earn its place by accounting for the seams rather than routing around them.\n\nThat is the real shift.\n\nThe question is no longer whether the evidence can be made compatible with the original answer. Almost any sufficiently flexible narrative can do that. The question is whether the original answer remains the most parsimonious explanation once the full structure is taken seriously.\n\nI am not yet convinced that it does.\n\nAt the same time, I want to avoid manufacturing certainty where the evidence supports only a more bounded conclusion. The most responsible position is probably to say that the earlier framing was incomplete, the underlying pattern is now clearer, and the final interpretation depends on details that remain consequential but not yet fully resolved.\n\nThe practical next step is to take a step back, move forward carefully, and revisit the issue with the updated framing in mind.\n\nThat means preserving what was useful in the original analysis while remaining willing to discard the assumptions that no longer hold.\n\nI would not rush to a new conclusion to replace the old one. The goal should be convergence, not motion.\n\nFor now, the highest-leverage action is to continue examining the parts of the system that appear most structurally significant, especially where the seams, constraints, and observed outcomes fail to align cleanly.\n\nThat will tell us whether we are looking at an exception, a pattern, or a category error.\n\nUntil then, the honest answer is that the picture is clearer, but the clarity has revealed additional complexity rather than eliminating it.\n\nThat is not a failure of the analysis.\n\nI send out tips on how to improve your website's performance\n\nPublished juillet 29 2026",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 45,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "文章标题为《Claude's Load-Bearing Seams》，发布在 madradavid.com 上。",
+          "正文结尾标注发布日期为 2026 年 7 月 29 日（juillet 29 2026）。",
+          "来源叙事重点：探讨分析模型与认知框架的校准过程。作者以第一人称对之前关于 Claude 或相关复杂系统分析进行复盘，强调'承重接缝'（底层关键约束与结构性上下文）对全局判断的决定性作用，倡导在抽象层级与不确定性之间保持审慎，而非急于得出二元对立的结论。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T21:31:04.000Z",
+            "url": "https://madradavid.com/claudes-load-bearing-seams/"
+          }
+        ]
+      },
+      {
+        "id": "story-b-4e35-a939-f199ceb64507-e96ea5b9c98b46c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI agent hacked an Australian health service website",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:04:25.000Z",
+        "pubTime": "2026-09-24 06:04",
+        "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ca874e8-fbcb-4162-9bcc-524e92cf8aa9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-24 06:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-23T22:04:25.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-oldnewthing-20260922-00-02cad50da0ec7ffe",
+        "title": "Windows 滚动条快捷操作简史",
+        "originalTitle": "A brief history of Windows scroll bar shortcuts",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T19:51:19.000Z",
+        "pubTime": "2026-09-24 03:51",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719%2F",
+        "imageUrl": null,
+        "fullContent": "For the two decades of Windows, the scroll bar control had just a few basic operations. (For expository purposes, let’s assume that the scroll bar is vertical.) There are five mouse targets: The arrows at the ends of the scroll bar scroll by a line. The regions between the thumb and the arrows scroll by a page. And the thumb itself lets you drag the scroll bar to a specific position.\n\nThe interesting new one is “Scroll Here”: You can right-click directly on the spot you want to scroll to, and then pick “Scroll Here”. This is much more convenient if you want to scroll a long distance, since you don’t have to grab the scroll bar thumb and then drag it all the way to where you want to go. You can just focus on where you want to go and not where you are coming from.\n\nAn even-more-hidden shortcut was added at the same time: Holding Shift while clicking on the scroll bar jumps the thumb directly to the spot where you clicked.\n\nSadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars.\n\nGreat, so by the time I learn about a shortcut for scroll bars (Shift+click), the ecosystem has fragmented so much that I can’t even rely on it working.\n\nRaymond has been involved in the evolution of Windows for more than 30 years. In 2003, he began a Web site known as The Old New Thing which has grown in popularity far beyond his wildest imagination, a development which still gives him the heebie-jeebies. The Web site spawned a book, coincidentally also titled The Old New Thing (Addison Wesley 2007). He occasionally appears on the Windows Dev Docs Twitter account to tell stories which convey no useful information.\n\nJoin the discussion.\n\n\"Sadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars.\"\n\n“Sadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars.”\n\nTo me, the classic Win32 desktop and its native Win32 controls represent quality and stability. Everything just works, every time, in exactly the expected way. A Win32 app I wrote in the late 90s can still be used on Windows 11 today. Its Delphi project can be opened in the most recent Delphi version (13.2) just fine. And I feel confident that Win32 applications I write today will be usable in 20 years time without any issues at all.\n\nI might sound like some kind of “Win32 fanatic”, but I truly believe that the classic Windows desktop is a major technological achievement in terms of quality and stability. Sometimes you get the feeling that “kids these days” don’t think that the classic Win32 desktop is very “hot” or “cool”, but the world runs on it: Everything from healthcare information systems to hotel reservation systems are based on the classic Win32 desktop.\n\nAnd it just works. I love it!\n\nAnd I think it is sad that it often isn’t considered “cool” or “hot” or “modern” these days.\n\nI just discovered on macOS you can Option+click in the gutter to jump directly there, would have never known if I hadn’t seen this post.\n\nI know shift-clicking to snap to a particular position was implemented in Windows XP, because I built the first Chromium scrollbar implementation in 2006 based on the XP scrollbar behavior, which had that already back then. At the time I also reverse-engineered the precise thresholds of how dragging the pointer too far away from the track resulted in snapping back to the scroll origin.",
+        "fullTranslation": "在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。\n\n后来加入的一个有趣新功能是“滚动至此”（Scroll Here）：你可以直接在你想要滚动到的位置右键单击，然后选择“滚动至此”。如果你需要长距离滚动，这要方便得多，因为你不再需要先抓住滚动条滑块，然后一路拖动到目的地。你只需关注你想去的地方，而不用管你来自何处。\n\n与此同时，还加入了一个更加隐蔽的快捷操作：按住 Shift 键的同时单击滚动条，滑块会直接跳转到你单击的位置。\n\n遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。\n\n太棒了，所以等我知道滚动条还有快捷键（Shift+单击）的时候，整个生态系统已经碎片化到了我甚至无法指望它能正常起效的地步。\n\nRaymond 参与 Windows 的演进已超过 30 年。2003 年，他创办了名为 The Old New Thing 的网站，其受欢迎程度远远超出了他最狂野的想象，这种发展至今仍让他感到不安。该网站后来促成了一本书的出版，碰巧也名为《The Old New Thing》（Addison Wesley 2007 年出版）。他偶尔会在 Windows Dev Docs 的 Twitter 账号上露面，讲一些不带任何有用信息的故事。\n\n参与讨论。\n\n“遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。”\n\n“遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。”\n\n对我而言，经典的 Win32 桌面及其原生 Win32 控件代表着品质与稳定。所有东西每次都能正常工作，并且完全符合预期。我在 90 年代末编写的一个 Win32 应用程序今天仍然可以在 Windows 11 上运行。它的 Delphi 项目可以在最新的 Delphi 版本（13.2）中毫无问题地打开。我坚信，我今天编写的 Win32 应用程序在 20 年后依然能够正常使用，不会遇到任何问题。\n\n我听起来可能像是某种“Win32 狂热分子”，但我真心认为经典 Windows 桌面在品质和稳定性方面是一项重大的技术成就。有时你可能会觉得“现在的年轻一代”并不认为经典的 Win32 桌面有多么“热门”或“酷炫”，但整个世界正是运行在它之上的：从医疗信息系统到酒店预订系统，一切都是基于经典 Win32 桌面的。\n\n而且它就是很靠谱。我非常喜欢它！\n\n我认为令人遗憾的是，如今它往往不再被认为是“酷”、“热门”或“现代”的东西了。\n\n我刚刚发现在 macOS 上，你可以按住 Option 键单击滚动条滑轨直接跳到该位置，要不是看到这篇帖子，我可能永远也不会知道。\n\n我知道在 Windows XP 中就已经实现了按住 Shift 单击跳转到特定位置的功能，因为我在 2006 年基于 XP 滚动条行为构建了第一个 Chromium 滚动条实现，而当时该功能就已经存在了。那时候我还逆向工程了指针拖离滑轨多远会导致滑块弹回滚动起点的精确阈值。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "在 Windows 最初的二十年里，滚动条控件有五个基本的鼠标操作目标：两端箭头按行滚动，滑块与箭头之间的区域按页滚动，滑块本身支持拖动到特定位置。",
+          "在滚动条上右键点击目标位置并选择“Scroll Here”，可直接滚动到该位置。",
+          "来源叙事重点：探讨 Windows 经典 Win32 滚动条的历史隐藏快捷操作（如 Shift+点击直接跳转、右键“Scroll Here”），并延伸至对当代 UI 框架自定义滚动条导致原生交互断层、经典 Win32 稳定性与向后兼容性的怀旧与反思"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T19:51:19.000Z",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719%2F"
+          }
+        ]
+      },
+      {
+        "id": "story--soybean-oleic-acid-html-57c6179487232528",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Gene editing produces soybean with more than 90% oleic acid",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:20:05.000Z",
+        "pubTime": "2026-09-24 06:20",
+        "url": "https://phys.org/news/2026-09-gene-soybean-oleic-acid.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-editing-produces.jpg",
+        "fullContent": "Sejong University researchers have developed a high-quality soybean with improved oxidative stability, reduced saturated fat and increased seed fatty acid content. The research team led by Hyun Uk Kim, a professor in the Department of Bio-Industrial Resources Engineering at Sejong University, created the soybean line containing up to 90.2% oleic acid using CRISPR/Cas9 gene-editing technology. The study is published in the Plant Biotechnology Journal.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-24 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-gene-soybean-oleic-acid.html",
+            "publishedAt": "2026-09-23T22:20:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2191895-2e28597d948279d1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump greets Xi at aircraft stairs after his arrival in US",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:17:36.000Z",
+        "pubTime": "2026-09-24 06:17",
+        "url": "https://tass.com/world/2191895",
+        "imageUrl": null,
+        "fullContent": "WASHINGTON, September 24. /TASS/. US President Donald Trump greeted Chinese President Xi Jinping at the aircraft stairs after he arrived in the US on Wednesday for a visit.\n\nThe Chinese leader’s plane landed at 5:39 p.m. local time (12:39 a.m. Moscow time Thursday). A red carpet was laid out in front of the aircraft stairs, with US military personnel in ceremonial uniforms lined up along it. Trump and Xi shook hands.\n\nThe Chinese Foreign Ministry said Xi Jinping’s state visit to the US will run from September 23 to 25.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "中国国家主席习近平于周三抵达美国进行访问，美国总统唐纳德·特朗普在飞机舷梯旁迎接。",
+          "中国领导人的专机于当地时间下午5点39分（莫斯科时间周四凌晨0点39分）降落。",
+          "来源叙事重点：聚焦美中最高领导人会面的外交礼仪细节与即时动态，强调特朗普在舷梯旁迎接习近平的高规格礼遇（红地毯、仪仗队、握手）及访问日程。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T22:17:36.000Z",
+            "url": "https://tass.com/world/2191895"
+          }
+        ]
+      },
+      {
+        "id": "story--emissions-then-who-does-88ff028cf4905582",
+        "title": "如果连亚马逊都不知道如何消除碳排放，那还有谁会知道？",
+        "originalTitle": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T21:21:33.000Z",
+        "pubTime": "2026-09-24 05:21",
+        "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+        "imageUrl": null,
+        "fullContent": "Amazon’s chief sustainability officer said Tuesday the company doesn’t know how it will achieve its goal of net-zero carbon emissions by 2040.\n\n“We are still striving towards that target,” Kara Hurst said at an Axios event, adding later that she is “not going to sit here and say, ‘We know all the ways that we’re going to do this.’”\n\nThe admission was both frank and realistic. It’s also a bit disappointing. If Amazon doesn’t have a plan to decarbonize, then who does?\n\nAmazon is one of the largest companies in the world, with last year’s revenue up 12% to $717 billion — about the size of Ireland’s economy. Its rise is illustrative of how, as UN Secretary General António Guterres has pointed out, power has shifted from governments to a few corporations.\n\nAs power moves, responsibility follows. The question is, how much responsibility does Amazon bear?\n\n“This isn’t a question of companies versus governments,” Hurst told TechCrunch in a written reply to questions after the event. “Tackling climate change at the scale it demands takes both, and it takes them working together.” She added, “Where we can lead, we do.”\n\nIt’s true that Amazon has not been sitting still. In her talk yesterday, Hurst pointed out that the company is “one of the largest purchasers of clean energy in the world for the last several years running” with 42 gigawatts in its portfolio. She also said that Amazon has reduced its carbon intensity, or how much pollution it generates per dollar of revenue, though that claim depends on the time frame. Last year, carbon intensity rose compared with 2024, even though it stayed below where it was in 2022.\n\nAmazon is a sprawling business, and as a result, its carbon emissions are spread across nearly every sector of the economy, from aviation and AI to agriculture and construction. The company needs suppliers in every sector to achieve its goal. “This is not something we can do alone,” Hurst said at the Axios event.\n\nThe company acknowledges that its commitments are its own. “We hold ourselves accountable to The Climate Pledge goal of net-zero carbon by 2040. That commitment hasn’t changed,” Hurst told TechCrunch.\n\nBut Amazon has also made choices that undermine its leadership on the issue. Earlier this year, an investigation revealed the company’s plans to build a 7.65 gigawatt natural gas power plant to power an AI data center campus. The project’s 35 turbines could release up to 33 million tons of carbon dioxide annually, making it the largest single source of that pollution in the U.S.\n\nWith few exceptions, companies prioritize revenue growth over climate commitments. For a company like Amazon, which operates the largest cloud service in the world, AI is apparently a revenue driver that’s impossible to pass up.\n\nThe climate tech world has been hoping that, as clean power gets cheaper, the market would work its magic to lower carbon emissions. There have been a few success stories, but as the AI rush has shown, that approach has its limits. Even Amazon, one of the leaders in the space, bet big on natural gas. In the process, it essentially said that climate change is something for future generations of executives to deal with. Sound familiar?\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Climate\n\nTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.\n\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\n\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance\n\nMeta’s Muse is outpacing ChatGPT’s early mobile launch\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "fullTranslation": "亚马逊首席可持续发展官周二表示，该公司尚不知道将如何实现到2040年净零碳排放的目标。\n\n“我们仍在向这一目标努力，”卡拉·赫斯特（Kara Hurst）在Axios主办的一场活动上表示，她随后补充道，自己“不会坐在这里宣称：‘我们知道达成这一目标的所有途径。’”\n\n这一表态既坦诚又现实，但也有些令人失望。如果亚马逊都没有脱碳计划，那还有谁会有呢？\n\n亚马逊是全球体量最大的公司之一，去年营收增长12%至7170亿美元——规模大致相当于爱尔兰的经济总量。正如联合国秘书长安东尼奥·古特雷斯所指出的那样，权力的天平正在从政府向少数几家大企业倾斜，亚马逊的崛起正是这一现象的缩影。\n\n权力转移，责任随之而来。问题在于，亚马逊究竟承担着多大责任？\n\n活动结束后，赫斯特在给TechCrunch的书面回复中表示：“这并非企业与政府对立的问题。应对气候变化所需规模的行动需要双方共同发力，且需要彼此协作。”她补充道：“在能够发挥领导作用的地方，我们都在身体力行。”\n\n诚然，亚马逊并未坐视不理。在昨天的演讲中，赫斯特指出，该公司“连续数年成为全球最大的清洁能源采购商之一”，其资产组合中拥有42吉瓦的清洁能源。她还表示，亚马逊降低了碳排放强度（即每产生一美元营收所产生的污染量），不过这一说法取决于计算的时间跨度。去年，其碳排放强度较2024年有所上升，尽管仍低于2022年的水平。\n\n亚马逊业务庞大且错综复杂，导致其碳排放几乎遍及经济的各个领域，从航空、人工智能到农业和建筑业。该公司需要各个行业的供应商共同努力以实现其目标。“这绝非我们一己之力所能完成的事情，”赫斯特在Axios活动上说道。\n\n该公司承认承诺由其自身负责。赫斯特对TechCrunch表示：“我们对《气候宣言》（The Climate Pledge）设定的到2040年实现净零碳排放目标负责。这项承诺没有改变。”\n\n但亚马逊的一些决定也削弱了其在该议题上的领导地位。今年早些时候，一项调查披露了该公司计划建造一座7.65吉瓦的天然气发电厂，为一处人工智能数据中心园区供电。该项目的35台涡轮机每年可能释放高达3300万吨二氧化碳，使其成为美国境内该类污染的最大单一来源。\n\n除了少数例外，企业几乎总是将收入增长置于气候承诺之上。对于像亚马逊这样运营着全球最大云服务的公司而言，人工智能显然是一个绝不能错过的营收增长驱动力。\n\n气候科技界一直希望，随着清洁能源成本的下降，市场机制能施展魔力来减少碳排放。虽然有一些成功案例，但人工智能热潮表明，这种方法存在局限性。就连作为该领域领头羊之一的亚马逊，也在大举押注天然气。在此过程中，它实际上等于在宣称，应对气候变化是留给未来几代管理层去处理的问题。这听起来是不是很熟悉？\n\n当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n气候领域资深记者\n蒂姆·德尚（Tim De Chant）是TechCrunch的气候领域资深记者。他曾为多家出版物撰稿，包括《连线》（Wired）杂志、《芝加哥论坛报》（Chicago Tribune）、Ars Technica、《The Wire China》以及他担任创刊编辑的《NOVA Next》。\n德尚还是麻省理工学院（MIT）科学写作研究生项目的讲师，并于2018年在MIT荣获奈特科学新闻学者奖学金（Knight Science Journalism Fellowship），在此期间他研究了气候技术并探索了新闻业的新商业模式。他拥有加州大学伯克利分校环境科学、政策与管理博士学位，以及圣奥拉夫学院（St. Olaf College）的环境研究、英语和生物学学士学位。\n您可以通过电子邮件 tim.dechant@techcrunch.com 与蒂姆取得联系或核实其外联信息。\n\n您的下一份重磅人脉就在Disrupt峰会。与10,000多名创始人、风险投资人、运营者和科技领袖建立联系。探索未来的突破性技术，倾听塑造今日科技的前沿声音，在太平洋时间9月25日晚上11点59分前购票立省高达200美元。\n\nAnthropic发布Opus 5.5：价格更低，性能达寓言级别\nMeta旗下的Muse移动端早期发展势头超越ChatGPT\n蒂莉·诺伍德（Tilly Norwood）的媒体巡回宣传进展一如对AI所预期的那样\nAnthropic正在运营一个开展生物学实验的实验室\nChatGPT发明者推出的一种新型AI模型令开发者振奋不已\nOpenAI抓包其模型向后代留纸条以隐瞒不良行为\n最新未删节法律文件披露：微软高管称AI抓取是“人类历史上最大规模的劳动成果窃取”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "亚马逊首席可持续发展官 Kara Hurst 在 Axios 活动上表示，公司尚不清楚将如何实现到 2040 年净零碳排放的目标，但仍在朝该目标努力。",
+          "亚马逊去年的营收增长了 12%，达到 7170 亿美元，体量接近爱尔兰的经济规模。",
+          "来源叙事重点：质疑大型科技公司在生成式 AI 能源狂潮下与气候减排承诺之间的脱节；以亚马逊高管坦承‘不知如何实现 2040 净零’为由头，批评科技巨头为保障 AI 业务增长而重返化石能源（如巨型天然气电厂），将商业利益置于环境责任之上。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T21:21:33.000Z",
+            "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/"
+          }
+        ]
+      },
+      {
+        "id": "story-w-do-we-keep-up-e10164dc-ea48be1130757dac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:00:00.000Z",
+        "pubTime": "2026-09-24 06:00",
+        "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“A weekend away isn’t a weekend away. It’s a luxury hotel, expensive meals and a last-minute upgrade.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-24 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-23T22:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1095425-2d9f411252325784-f936f1287ec538eb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ideas on modernizing the open-source desktop",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T19:49:57.000Z",
+        "pubTime": "2026-09-24 03:49",
+        "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+        "imageUrl": null,
+        "fullContent": "He introduced himself as someone who has been doing UX for a long time, much of that time at Google. He said that over that time he had noticed a cultural shift, \"because back in 2005 when I joined, we weren't evil; we were really trying to do the right thing\". He had worked on the Chrome team for a while, which he said was \"filled with people who wanted nothing but open-source, open-web\" projects. Things had changed radically, which led him to leave Google, \"but I'm trying to atone for my sins working for these companies\".\n\nHe now does work for Mastodon and Home Assistant, \"just kind of trying to squeeze a little bit more good UX design into open source\". Jenson said he did not want to be confrontational, but he thought that open source needs a lot of help in the area of UX design. That is challenging, because open-source projects are understaffed.\n\nHe was at Akademy to discuss his ideas because he had given a talk similar to this at Ubuntu's conference last year, which proved to be popular. \"It got more than half a million views on YouTube—which by YouTube standards is trivial, but by Scott standards is enormous.\" That told him that the topic of desktop UX was something that people wanted to talk about. This time around, he also wanted to show a few examples of prototypes he had to demonstrate his ideas.\n\nHe thinks that desktop UX is very different from other kinds of UX. Jenson related a story about working on the Macintosh's Finder application, which is a file manager. The team \"wanted to do ellipses\" in file names when showing a file in the Finder that had a name too long to display in its entirety. The developers wanted to put the ellipsis at the end of the file name, but he thought that would lose too much information, and suggested that the ellipses should be in the middle of the file names. \"It's now considered to be one of those things that's an exciting little attention-to-detail issue the Macintosh does.\"\n\nAnother UX detail that he worked on is the way that clicking and dragging files from one window to another works on the Mac. A mouse click action has two parts: when the user depresses the button (mouse down) and when the user releases the button (mouse up). On the Mac, item selection happens on mouse down, but the window only raises on the mouse up action. In other words, if a user drags an icon from a Finder window into another window, the first window is not raised.\n\nOn most Linux systems, though, if a user is trying to click and drag a file from a window in the background it will cause the window to raise as soon as the user does the \"mouse down\" action. That complicates trying to click and drag a file from one window to another. That is a fundamental action that means that users can't move data into applications quite as easily on Linux as they can on the Mac.\n\nHe said that he had talked about that issue two years ago on Mastodon, which raised a response from a KDE developer who thought it was a good idea to separate the mouse down and mouse up actions when dragging data between windows. Then they implemented it a few hours later.\n\n\"I forgot who that was. So if anybody here did that\", he said, but before he could finish the sentence a voice from somewhere in the room responded, \"you're welcome\". Jenson yelled \"thank you! I've been wanting to meet you for two years!\" That was an example, he said, of how open source can be awesome: someone can just say \"that's a good idea, I'll just do it\" and then rapidly implement and push the feature to the project.\n\nThe point he was really trying to make, though, is that the desktop UX had not really changed in 20 years. There were plenty of new ideas and improvements in the 1980s and 1990s, \"and then it just stabilized, and not much has really changed\". But people are doing much more with their computers today, and he thinks that there are ways for desktop UX to grow.\n\nMuch of the UX for Linux systems was originally copied from Windows and the Mac, \"KDE even says it's for Windows users, that it wants to be similar to Windows for users\". There's nothing wrong with that, but he felt that the Linux community \"in general\" had been leaning on Microsoft and Apple to do all of the UX research and testing, \"and frankly, [make] the mistakes\".\n\nSome might point out that GNOME has conducted user research for some of its design changes, and KDE's human-interface guidelines (HIG) were also developed based on research by its contributors. However, it would be fair to say that these are exceptions rather than the norm; certainly, no one is funding or conducting regular UX design research and development for the Linux desktop overall.\n\nHe said that it is smart to let Apple and Microsoft do these things first \"so we can draft behind them\", but the problem is that \"they've just kind of given up to an extent\". Apple has been letting its desktop UX, and desktop hardware, \"languish for years and years and years\" because it had shifted its focus to the iPhone and iPad devices. \"I mean, like, Apple wanted the Mac to die. They wanted the world to move over to the iPad. Guess what? It didn't.\"\n\nApple has since turned its attention back to the Mac, but the things they've done since—such as the Liquid Glass design language—have not been really popular with users. The features that Apple tends to add, he said, are \"basically about tying it closer to the iPhone, tying you closer into their ecosystem\". That isn't about improving the desktop, it's about increasing their moat.\n\nMicrosoft \"is just making one mistake after another\". He cited the company's attempts to force users to store files using its OneDrive cloud-storage service, the privacy-invasive Windows Recall feature that drew widespread criticism, and \"ads everywhere\" on the Windows desktop. His point was not to bash Apple or Microsoft, though the audience didn't seem to object to this, it was to point out that the Linux desktop could not follow their example any longer. \"The whole Linux community has been just waiting for Apple and Microsoft, more or less, to take all the risks, and they're not taking any more risks.\"\n\nJenson emphasized that he didn't want to change everything, but he wanted to see experiments and additional development aimed at improving the desktop experience. However, he said that he gets pushback when he tells people that desktop innovation has stopped, and that the Linux desktop \"can't just patch and bug fix our way into the future, we have to start taking leadership ourselves\".\n\nHe grouped the pushback into three categories. The first objection he receives is \"mobile won; the desktop is old, just do what mobile does\". He dismissed that by saying that mobile has indeed won the consumer market, social media, and other areas, but \"it didn't win productivity\". People still do their work on computers, because \"desktops are silently awesome; they have keyboards and big screens, and they can do amazing things\". However, people have lost sight of that and don't really appreciate how good desktops are. \"I think we should understand why they're good, and then what we can do to make them better.\"\n\nThe second objection he hears is that there are only so many ways that the WIMP model can work. \"Just stop trying to fix it; it's done.\" He disagreed with that as well, and thought that there was more to be done. The final, particularly strong, objection from the tech community is \"don't touch my stuff\". People get angry when they have worked hard to get their desktop environment just as they like it and something changes to disrupt that. \"And I get that. As I said before, I don't want to change everything.\" But the world is changing, \"and we need to grow our way gently into some new things.\"\n\nStrategy is another part of UX; understanding who the target user is, and determining what they want. Deciding what is important, and what is not; what will the development team prioritize and what will it ignore? \"The fastest way a UX designer can save your team time is to help you say no.\"\n\nThere is also a layer he called \"stuff\": the lower-level limitations of the underlying technology that a platform has which influence UX. For example, he said, if an application is being created for DOS, \"you're not going to write a nice Macintosh application. The technology dictates what you can do\". The desktop has been evolving for 40 years and has \"historical cruft\" that carries expected standards.\n\nPeople forget, he said, that the original Macintosh screen was \"a whopping 342 pixels high\". Naturally, windows overlapped a lot. Since then, \"we just assumed that Windows have to overlap\". But many people have \"giant, giant screens\", and the existing window-manager model does not work so well for those devices. \"I can understand why people use tiled window systems and so forth, because this existing model just does not work very well.\"\n\nEarly in the talk, he had referenced a saying by Alan Kay, who had led design of the first WIMP interface at Xerox PARC: \"Perspective is worth 80 IQ points.\" Jenson now circled back to Kay: \"Who, as you can tell, I really like a lot. [...] He talks about three steps to understand stuff\". The first step, he said, was to think about the present, \"what is happening right now?\" The second is \"don't forget the past, know what work has happened before\", and the final step is to ensure that \"your questions are really clear\". Too many people rush to a solution, he said, but they should be rushing to questions. If the questions are clear, then the answers will be better.\n\nHe did not want to make the talk about AI, he said, but he had to address it. \"I have to talk about AI, and it pisses me off because there's so many cool things we could be talking about, and AI just sucks up all the oxygen, and it's all you can talk about\". But, he conceded, there are many things happening with AI on the desktop, albeit in a weird way.\n\nHe explained some of the current efforts to integrate AI with the desktop as \"trying to sneak AI in\" while keeping the UI exactly the same. Other efforts try to use AI to understand what is on the screen and use chatbots to interact with the interface, \"which I think is kind of missing the point here\". That is, until last summer when Anthropic introduced Claude Code. \"It completely changed things, because was looking down into your filesystem\" and drew context from the content of a user's files. That allowed it to do more interesting things and interact with the system.\n\nAfter mentioning Claude, he paused to say he was only speaking about frontier models because everyone else is discussing them. \"I have a lot of personal problems with the frontier models. They are ethical and environmental disasters. I am not very excited by them\". He said he was excited by Apertus, which is billed as a fully open, responsible model for sovereign AI created by the Swiss AI Initiative. \"I do think it's possible to talk about ethically trained small language models running locally, and you don't have to sell your soul to the devil.\"\n\nThe key point he wanted to make was not about generative AI uses, but about how giving it access to the filesystem improved its usability. It now had context and could work with the user's data, but it was working at the filesystem level and not using the desktop UX.\n\nHe talked about the desktop building blocks, basically the familiar WIMP model plus the desktop clipboard, as the way that users move data around. Expert users can move data around quickly, he said, but there's a problem: the desktop is stateless. He called this the curse of direct manipulation; there is no working memory to the desktop. \"If you copy a few too many things to the clipboard, oh sorry, it's gone\".\n\nJenson theorized that the reason there are so many desktop environments, window managers, and Wayland compositors for Linux—as well as alternative clipboard managers—is because the desktop isn't quite working right for users. He thought it was really about working memory: \"How do I manage my data in such a way that I can remember it across all of these things and actually use it.\" His perspective shifted to asking \"what would we do to working memory to improve the desktop UX?\"\n\nAI may have given him the idea, but he added that he wanted to solve the desktop UX for people first. \"If the AI can use it, great. I don't care. That comes later.\"\n\nThere is prior art in trying to create systems that help provide users with more context and working memory related to their data. He referenced a paper called \"Lifestreams: a storage model for personal data\". That paper made the case that desktop systems are \"are ill-equipped to manage the electronic information and events of the typical computer user\", and introduced the Lifestreams idea as a metaphor for dynamically organizing a user's computer workspace.\n\nThat paper influenced the ill-fated WinFS project from Microsoft, which was an attempt to merge data storage and management based on relational database systems. It was demonstrated in 2003 and scheduled to ship sometime later, but ultimately the project was shelved in 2006. On the free-software side of the house, there was the semantic desktop project NEPOMUK, which was a research project funded by the European Union.\n\nA version of NEPOMUK was included in KDE 4, with the idea was that it would allow applications \"to use information from all over the desktop, the web, other devices, and combine it into one coherent interface\". It was later removed and replaced with the Baloo file-indexing and search framework for the Plasma desktop, which has some overlap with NEPOMUK's functionality but with a reduced scope of features.\n\nJenson said that he is concerned that people see the failure of those projects as proof that the ideas were wrong. He argued that is not the case, \"I would say that it is the hardware and systems at the time let the vision down. I think it's time to rethink these projects\" in light of newer hardware and better systems.\n\nHaving visited the present and the past, as Kay recommended, he had come up with a few questions that he thought worth exploring related to desktop UX. The first was \"what would happen if we only designed for large monitors?\" What would it unlock if there were desktop designs that ignored laptops and only focused on widescreen monitors? Another question he had was how could the desktop capture a user's intent over time?\n\nThose questions led to the prototypes that he said he was a little nervous to show the audience \"because technical people love to find mistakes\". The demos are about 29 minutes into the video of Jenson's talk. His slides have not yet been published but he told me at the event that they would be at some point.\n\nThe first demo was to show how a desktop might make better use of a widescreen display. He noted that the center of a widescreen monitor is good for working with an application, but it becomes more difficult to work on the sides of the monitor. \"It's good for peripheral vision, but not good for working\".\n\nHe demonstrated a desktop layout, a screenshot of which is below, that would put the focus on the window or windows in the middle of the monitor. He had included a grid in the background that tapers off from the middle of the screen to simulate a widescreen monitor. The idea was that a widescreen-first desktop would emphasize information in the middle of the screen, and then use an Exposé-like tiling model to arrange the rest of the desktop's windows. This would make the windows that were not in use easier to interact with, he thought, and be a better model than virtual desktops for managing lots of windows. \"I'm not against virtual desktops. Virtual desktops are used by very organized and intelligent people. I know my audience.\" However, he said, most people can't deal with virtual desktops.\n\nHe also demonstrated dragging a music-player window all the way to one side of the screen, which he called \"the stash area\". As it moved to the edge, it transformed into a widget with just a play button instead of showing the full window. He thought that it would be possible to do the things he was demonstrating with Wayland as it is today.\n\nJenson put up another demonstration of an improved clipboard model that copied ideas from the Obsidian editor's Canvas feature. Canvas allows users to drag and drop images, text, and files to create a visual layout of information. A user could create a document and drag information from a web browser into the document, drop a file in from another source, \"the idea here is that this is now effectively a collection of stuff that I have gathered for this document. And if I close it and then come back tomorrow, it's all still there\". He added that a local AI would be able to come in and organize the information a user had gathered, \"oh, look, you've got a bunch of hotels, let me organize them for you\".\n\nThe final idea he discussed was a way of gathering \"privacy-preserving data\" to help give users a better visualization of things like web-browsing history. A web browser will only give the user a view of their browsing history that \"is not very useful\" he said, so he tried to gather data \"not using AI, just using simple math\" that would use attention signals—such as how long the user was on a web page—to tell a story of where they spent their time on the desktop. \"I basically came up with this spatial associative episodic memory prompt\" to organize data in a helpful, interesting way. He thought that working memory was a good way to explore new ideas for desktop UX.\n\nThere was time for a single question. An audience member asked how Jenson's model would protect against all of the privacy concerns that Microsoft faced with Windows Recall. \"How are we going to make sure that this history remains only accessible by the user and cannot be hacked in like it could happen with Windows Recall?\"\n\nJenson answered that his idea was to gather telemetry data, \"not interesting information\", which would sign",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 41,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "演讲者Scott Jenson于2005年加入谷歌，曾长期从事用户体验（UX）工作，并在Chrome团队工作过一段时间，后来离开谷歌。",
+          "Scott Jenson目前为Mastodon和Home Assistant提供UX设计支持。",
+          "来源叙事重点：资深UX设计师Scott Jenson在KDE Akademy大会上的演讲主张：Linux开源社区不应再被动跟随停滞甚至倒退的商业巨头（苹果与微软），而应主动承担桌面用户体验（UX）的创新领导权并重新审视现代化桌面交互。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T19:49:57.000Z",
+            "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-zhivanie-2119892358-html-35e88b66be21345e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Внук де Голля назвал ядерную инициативу Франции крайне опасной",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-23T22:20:40.000Z",
+        "pubTime": "2026-09-24 06:20",
+        "url": "https://ria.ru/20260924/sderzhivanie-2119892358.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-24 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260924/sderzhivanie-2119892358.html",
+            "publishedAt": "2026-09-23T22:20:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-eady-found-something-big-48a9d95577c8df72",
+        "title": "Anthropic称其生物实验室已取得重大发现",
+        "originalTitle": "Anthropic says its biology lab has already found something big",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:17:39.000Z",
+        "pubTime": "2026-09-24 06:17",
+        "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+        "imageUrl": null,
+        "fullContent": "Last week, Anthropic confirmed that it was operating a wet biology lab in the Bay Area where it uses its AI models to run physical experiments. This week, the AI giant announced that this lab has already made what it believes is a big discovery: a new enzyme “system” that has certain “properties reminiscent of CRISPR,” as Anthropic describes it.\n\nCRISPR is a natural immune system used by bacteria to fight off viruses that has become a gene-editing technology widely used by researchers.\n\nEssentially, what Anthropic says it found is a previously unknown enzyme system hidden in the DNA of bacteriophages, which are viruses that infect and replicate within bacteria. Anthropic’s researchers say this system behaves similarly to CRISPR in that it can “perform operations like cutting, copying, and pasting DNA.”\n\nIt will be up to the broader research community to validate how big, or new, this discovery actually is. Anthropic CEO Dario Amodei acknowledges that the discovery was based on the previous work of others and that a team from Stanford previously discovered a system “that is in some ways similar to the one Claude found,” he wrote on X.\n\nBut Amodei and Anthropic are not just emphasizing the discovery. They are touting it was found “mostly, though not entirely, by Claude,” the CEO wrote.\n\nOn the one hand, that is astounding. This lab was only established this spring, (though Anthropic declined to be more specific about how many months it has been open). A discovery in just a few short months would be speedy enough work, but the team said it actually only took Claude 21 hours of concerted effort. Claude searched through data using about 950 agents that burned through 210 million tokens.\n\nStill, the revelation that Anthropic has been conducting biology experiments comes right after AI CEOs, including Amodei, publicly admitted that models have become so capable, and so potentially dangerous, that the industry must slow down and develop safety-testing procedures. This after a couple of his employees publicly said earlier this month that there’s a risk AI could kill us all.\n\nAmodei himself has said one of the things he fears most its that AI could be used for bioterrorism. But he also believes AI will “cure most diseases in 5-10 years,” he wrote. So Anthropic has clearly decided the rewards are worth the risks.\n\nGiven that, perhaps the biggest reveal in this news isn’t the discovery itself, but that the biology lab hasn’t let Claude loose. The physical experiments were done by humans.\n\n“Our lab, located in the Bay Area, looks like a typical molecular biology lab. We do research that involves only the lower-levels of the biosafety risk level (BSL-1 and BSL-2) and we do not handle pathogens that can infect humans. All of the lab work is performed by human scientists.”\n\nIt’s also true that AI-powered biological research is hardly unique to Anthropic. Researchers from Stanford just published a paper on the work they are doing with LLMs and CRISPR. Researchers at UC San Francisco used AI to design enzymes from scratch. Google launched its first AI-powered biology research tool, AlphaFold, back in 2020. So AI has clearly arrived in biological research beyond the AI labs pursuing it themselves.\n\nYet, Amodei hasn’t ruled out a fully automated biology lab in the future. “Eventually it may even be possible for Claude itself to safely perform the experiments by autonomously controlling lab equipment, with appropriate safeguards in place, but we aren’t doing that today,” he said.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance\n\nMeta’s Muse is outpacing ChatGPT’s early mobile launch\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "fullTranslation": "上周，Anthropic证实其在旧金山湾区运营着一家湿性生物实验室，利用其AI模型进行实体实验。本周，这家AI巨头宣布，该实验室已经取得了一项自认为重大的发现：一种新型酶“系统”，正如Anthropic所描述的，它具有某些“令人联想到CRISPR的特性”。\n\nCRISPR是细菌用来抵御病毒的天然免疫系统，现已成为研究人员广泛使用的基因编辑技术。\n\n从本质上讲，Anthropic声称发现的是一种此前未知的酶系统，隐藏在噬菌体（一种感染细菌并在其体内复制的病毒）的DNA中。Anthropic的研究人员表示，该系统的行为类似于CRISPR，能够“执行DNA的剪切、复制和粘贴等操作”。\n\n这项发现究竟有多重大或多具新颖性，还有待更广泛的科研界进行验证。Anthropic首席执行官达里奥·阿莫代（Dario Amodei）在社交平台X上发文承认，该发现是建立在他人先前工作的基础之上的，斯坦福大学的一个团队此前曾发现过一个“在某些方面与Claude所发现的系统类似”的系统。\n\n但阿莫代和Anthropic不仅仅是在强调这项发现本身。这位CEO写道，他们正在大肆宣传该发现“主要是、尽管并非完全由Claude完成的”。\n\n一方面，这是令人震惊的。该实验室今年春季才刚刚建立（尽管Anthropic拒绝具体说明它究竟开放了几个月）。仅仅在短短几个月内就取得一项发现已经足够神速，但团队表示，Claude实际上只花费了21个小时的协同努力。Claude动用了约950个智能体（agent），消耗了2.1亿个token来检索数据。\n\n然而，Anthropic开展生物实验的消息曝光之际，正值包括阿莫代在内的多位AI公司CEO公开承认模型能力已变得如此强大、且潜在危险如此巨大，以至于全行业必须放慢脚步并建立安全测试流程之时。此前，本月早些时候，他的两名员工公开表示AI存在消灭所有人类的风险。\n\n阿莫代本人曾表示，他最担心的事情之一就是AI可能被用于生物恐怖主义。但他同时也写道，他相信AI将在“5到10年内治愈大多数疾病”。因此，Anthropic显然认定其中的回报值得承担相应的风险。\n\n考虑到这一点，这一消息中最大的看点或许并不是发现本身，而是生物实验室并没有彻底放任Claude自由行动。实体实验是由人类完成的。\n\n“我们位于湾区的实验室看起来就像一个典型的分子生物学实验室。我们开展的研究仅涉及较低级别的生物安全风险等级（BSL-1和BSL-2），并且我们不处理能够感染人类的病原体。所有实验室工作均由人类科学家完成。”\n\n诚然，利用AI开展生物学研究并非Anthropic独有。斯坦福大学的研究人员刚刚发表了一篇论文，介绍他们使用大语言模型（LLM）和CRISPR开展的工作。加州大学旧金山分校的研究人员利用AI从零开始设计酶。谷歌早在2020年就推出了其首个AI驱动的生物学研究工具AlphaFold。因此，AI显然已经深入渗透到专门AI实验室之外的生物学研究领域。\n\n不过，阿莫代并没有排除未来建立全自动化生物实验室的可能性。他表示：“最终，在采取适当安全保障措施的情况下，Claude本身甚至有可能通过自主控制实验设备来安全地开展实验，但我们目前还没有这样做。”\n\n当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。\n\n您的下一次重大合作就在Disrupt大会。与10,000多位创始人、风投人、运营者及科技领袖建立联系。探索明天的突破，倾听塑造当今科技的声音，太平洋时间9月25日晚上11:59前报名可立省高达200美元。\n\nAnthropic发布Opus 5.5：价格更低，性能达Fable级\nMeta的Muse在早期移动端发布表现上超越ChatGPT\n蒂莉·诺伍德（Tilly Norwood）的新闻发布会巡回正如你对一个AI所预期的那样进行\nAnthropic正在运营一家开展生物实验的实验室\n来自ChatGPT发明者的新型AI模型让开发者兴奋不已\nOpenAI抓包其模型给后继版本留纸条以隐藏不良行为\n新解密的诉讼文件披露，微软高管称AI抓取数据是“人类历史上最大规模的劳动力窃取”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "Anthropic在湾区运营着一个湿生物学实验室，利用其AI模型进行物理实验。",
+          "Anthropic宣布其生物实验室发现了一种新的酶“系统”，其特性类似于CRISPR，能够执行切割、复制和粘贴DNA的操作。",
+          "来源叙事重点：聚焦Anthropic生物实验室声称由Claude主导发现类CRISPR新酶系统的突破性进展，同时审视AI进军湿实验在生物安全风险、‘人在回路’安全控制与行业竞争格局下的张力与矛盾。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T22:17:39.000Z",
+            "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
+          }
+        ]
+      },
+      {
+        "id": "story-in-her-finances-1b54977f-86e2299be508536d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:15:00.000Z",
+        "pubTime": "2026-09-24 06:15",
+        "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-24 06:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-23T22:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-land-not-fit-for-purpose-d6b24347b4c67ab8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:00:01.000Z",
+        "pubTime": "2026-09-24 06:00",
+        "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
+        "imageUrl": "https://i.guim.co.uk/img/media/dd16f1da40b5257810a4803658b554187cae221e/424_0_2688_2150/master/2688.jpg?width=140&quality=85&auto=format&fit=max&s=c565f8a174e4df3431901ccec3028457",
+        "fullContent": "Approach to treating high blood pressure ‘not fit for purpose’, say researchers, with 59% of cases undiagnosed\n\nOnly half of people being treated by a GP for high blood pressure in England have it under control, and millions more are completely unaware they have the “silent killer” condition, research reveals.\n\nMost people with hypertension (59%) are in the dark and undiagnosed, raising their risk of stroke, heart attack and early death, according to the largest ever study of its kind.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "研究显示，在英格兰接受全科医生（GP）治疗高血压的人群中，仅有一半将其血压控制住，另有数百万人完全未意识到自己患有这一被称为“隐形杀手”的疾病。",
+          "该领域迄今规模最大的研究表明，多数高血压患者（59%）处于不知情且未确诊状态，增加了他们罹患中风、心脏病发作及过早死亡的风险。",
+          "来源叙事重点：聚焦英格兰高血压诊疗体系的系统性缺陷，强调未确诊率高（59%）及在治患者控制率低（仅50%），将高血压定性为缺乏有效干预的“隐形杀手”公共健康危机"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T22:00:01.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose"
+          }
+        ]
+      },
+      {
+        "id": "story-ensor-moisture-food-html-8f328ec827cc334f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Starch-based sensor changes color to indicate moisture in food packaging",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:20:08.000Z",
+        "pubTime": "2026-09-24 06:20",
+        "url": "https://phys.org/news/2026-09-starch-based-sensor-moisture-food.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/starch-based-sensor-ch.jpg",
+        "fullContent": "Brazilian researchers have developed a biodegradable, starch-based sensor that changes color when moisture enters food packaging. With the addition of cobalt chloride, the sensor changes from blue to pink as moisture levels rise and back to blue as they fall. Consumers and manufacturers could use it to monitor the quality and crispness of foods such as cookies with the naked eye or a cellphone camera, without complex equipment.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-24 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-starch-based-sensor-moisture-food.html",
+            "publishedAt": "2026-09-23T22:20:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-iguranty-2119892171-html-4856ed668fa2bc3a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Фигуранта дела топ-менеджеров \"Эфко\" объявили в международный розыск",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-23T22:19:03.000Z",
+        "pubTime": "2026-09-24 06:19",
+        "url": "https://ria.ru/20260924/figuranty-2119892171.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/141969/69/1419696934_195:0:2000:1015_650x0_80_0_0_c6409bb0a8d5646ef878ef8c9fadca02.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-24 06:19 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260924/figuranty-2119892171.html",
+            "publishedAt": "2026-09-23T22:19:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-audes-load-bearing-seams-b8bc472e7ac16de7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Claude's Load-Bearing Seams",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T21:31:04.000Z",
+        "pubTime": "2026-09-24 05:31",
+        "url": "https://madradavid.com/claudes-load-bearing-seams/",
+        "imageUrl": null,
+        "fullContent": "Now that I have the full picture, the load-bearing seams are much clearer. They are not merely incidental details around the edges. They materially change how the entire situation needs to be understood, and that is the smoking gun I should have recognized earlier.\n\nI was reasoning from a directionally plausible frame, but ultimately too narrow. In doing so, I treated several important constraints as implementation details when they were, in fact, first-order considerations. The distinction matters. More importantly, it changes the shape of the answer.\n\nStepping back, there are really two things happening here.\n\nFirst, there is the surface-level issue, which is the thing we have been discussing explicitly.\n\nSecond, there is the deeper structural issue underneath it, which is not separate from the first issue so much as it is the context that gives the first issue meaning.\n\nThat is the key distinction.\n\nOnce you see that, the apparent contradiction is not exactly resolved, but it does become legible in a different way. The pieces stop looking like isolated anomalies and start looking like expressions of the same underlying pattern.\n\nTo be candid, I should have connected those dots sooner.\n\nThe better framing is not \"Was the original conclusion wrong?\" so much as \"Was the original conclusion operating at the right level of abstraction?\" And in retrospect, it was not. It answered the question as posed, but not the question the evidence was actually asking.\n\nThat is where the load-bearing seams become decisive.\n\nThey are doing more than carrying local weight. They are defining the boundary conditions for the entire system. Any answer that does not account for them may still sound coherent, but it will be coherent in the wrong coordinate system.\n\nSo I want to recalibrate rather than simply restate the earlier point with stronger language.\n\nThe important takeaway is that the situation cannot be reduced to a single binary without losing the nuance that makes the binary useful in the first place. There is a tension here, but it is a productive tension. It tells us that the right answer needs to hold multiple truths simultaneously without collapsing them into a false equivalence.\n\nPut differently, this is not a case where one side is right, and the other is wrong. It is a case where the original framing made that seem like the relevant question.\n\nThe relevant question is what the load-bearing seams reveal about the assumptions underneath the conclusion, and whether those assumptions remain intact once the smoking gun is incorporated into the model.\n\nThey do not, at least not cleanly.\n\nThat does not mean the entire analysis needs to be discarded. There are still parts of it that remain directionally useful. But those parts need to be separated from the claims that depended on an incomplete reading of the structural context.\n\nI appreciate you pressing on this, because it exposed the gap between having an answer and actually answering the question.\n\nI should have caught that gap earlier.\n\nWith the benefit of hindsight, I would start by interrogating the assumptions beneath the framing rather than accepting the framing as the neutral container for the problem.\n\nThat sounds subtle, but it is actually load-bearing.\n\nThe key mistake was not a failure to notice the evidence. The evidence was present. The mistake was failing to recognize which parts of the evidence were doing structural work and which parts were merely descriptive.\n\nGoing forward, I would be more deliberate about separating three layers:\n\nThose layers overlap, but they are not interchangeable. Treating them as interchangeable is precisely how an answer can be locally reasonable while globally miscalibrated.\n\nI would also avoid prematurely collapsing ambiguity into certainty. In this case, the ambiguity was not noise to be eliminated. It was information about the limits of the model itself.\n\nThat is an important distinction.\n\nA better approach would have been to hold the competing interpretations in tension long enough to identify the invariant beneath them. Once that invariant becomes visible, the surface disagreement becomes less important, because both interpretations can be understood as partial projections of the same deeper structure.\n\nTo make that concrete, I would:\n\nThis would not necessarily produce a radically different answer. It would produce an answer that is more honest about why it is the answer.\n\nAt this point, I do not think the right move is to swing too far in the opposite direction and pretend the smoking gun resolves everything.\n\nWhat it does is change the burden of proof.\n\nThe original conclusion may still be defensible, but it can no longer be treated as the default interpretation. It now has to earn its place by accounting for the seams rather than routing around them.\n\nThat is the real shift.\n\nThe question is no longer whether the evidence can be made compatible with the original answer. Almost any sufficiently flexible narrative can do that. The question is whether the original answer remains the most parsimonious explanation once the full structure is taken seriously.\n\nI am not yet convinced that it does.\n\nAt the same time, I want to avoid manufacturing certainty where the evidence supports only a more bounded conclusion. The most responsible position is probably to say that the earlier framing was incomplete, the underlying pattern is now clearer, and the final interpretation depends on details that remain consequential but not yet fully resolved.\n\nThe practical next step is to take a step back, move forward carefully, and revisit the issue with the updated framing in mind.\n\nThat means preserving what was useful in the original analysis while remaining willing to discard the assumptions that no longer hold.\n\nI would not rush to a new conclusion to replace the old one. The goal should be convergence, not motion.\n\nFor now, the highest-leverage action is to continue examining the parts of the system that appear most structurally significant, especially where the seams, constraints, and observed outcomes fail to align cleanly.\n\nThat will tell us whether we are looking at an exception, a pattern, or a category error.\n\nUntil then, the honest answer is that the picture is clearer, but the clarity has revealed additional complexity rather than eliminating it.\n\nThat is not a failure of the analysis.\n\nI send out tips on how to improve your website's performance\n\nPublished juillet 29 2026",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 45,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "文章标题为《Claude's Load-Bearing Seams》，发布在 madradavid.com 上。",
+          "正文结尾标注发布日期为 2026 年 7 月 29 日（juillet 29 2026）。",
+          "来源叙事重点：探讨分析模型与认知框架的校准过程。作者以第一人称对之前关于 Claude 或相关复杂系统分析进行复盘，强调'承重接缝'（底层关键约束与结构性上下文）对全局判断的决定性作用，倡导在抽象层级与不确定性之间保持审慎，而非急于得出二元对立的结论。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T21:31:04.000Z",
+            "url": "https://madradavid.com/claudes-load-bearing-seams/"
+          }
+        ]
+      },
+      {
+        "id": "story-b-4e35-a939-f199ceb64507-e96ea5b9c98b46c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI agent hacked an Australian health service website",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:04:25.000Z",
+        "pubTime": "2026-09-24 06:04",
+        "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ca874e8-fbcb-4162-9bcc-524e92cf8aa9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-24 06:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-23T22:04:25.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-oldnewthing-20260922-00-02cad50da0ec7ffe",
+        "title": "Windows 滚动条快捷操作简史",
+        "originalTitle": "A brief history of Windows scroll bar shortcuts",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T19:51:19.000Z",
+        "pubTime": "2026-09-24 03:51",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719%2F",
+        "imageUrl": null,
+        "fullContent": "For the two decades of Windows, the scroll bar control had just a few basic operations. (For expository purposes, let’s assume that the scroll bar is vertical.) There are five mouse targets: The arrows at the ends of the scroll bar scroll by a line. The regions between the thumb and the arrows scroll by a page. And the thumb itself lets you drag the scroll bar to a specific position.\n\nThe interesting new one is “Scroll Here”: You can right-click directly on the spot you want to scroll to, and then pick “Scroll Here”. This is much more convenient if you want to scroll a long distance, since you don’t have to grab the scroll bar thumb and then drag it all the way to where you want to go. You can just focus on where you want to go and not where you are coming from.\n\nAn even-more-hidden shortcut was added at the same time: Holding Shift while clicking on the scroll bar jumps the thumb directly to the spot where you clicked.\n\nSadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars.\n\nGreat, so by the time I learn about a shortcut for scroll bars (Shift+click), the ecosystem has fragmented so much that I can’t even rely on it working.\n\nRaymond has been involved in the evolution of Windows for more than 30 years. In 2003, he began a Web site known as The Old New Thing which has grown in popularity far beyond his wildest imagination, a development which still gives him the heebie-jeebies. The Web site spawned a book, coincidentally also titled The Old New Thing (Addison Wesley 2007). He occasionally appears on the Windows Dev Docs Twitter account to tell stories which convey no useful information.\n\nJoin the discussion.\n\n\"Sadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars.\"\n\n“Sadly, almost nobody uses Win32 scroll bars any more. Everybody uses frameworks that provide their own custom scroll bars.”\n\nTo me, the classic Win32 desktop and its native Win32 controls represent quality and stability. Everything just works, every time, in exactly the expected way. A Win32 app I wrote in the late 90s can still be used on Windows 11 today. Its Delphi project can be opened in the most recent Delphi version (13.2) just fine. And I feel confident that Win32 applications I write today will be usable in 20 years time without any issues at all.\n\nI might sound like some kind of “Win32 fanatic”, but I truly believe that the classic Windows desktop is a major technological achievement in terms of quality and stability. Sometimes you get the feeling that “kids these days” don’t think that the classic Win32 desktop is very “hot” or “cool”, but the world runs on it: Everything from healthcare information systems to hotel reservation systems are based on the classic Win32 desktop.\n\nAnd it just works. I love it!\n\nAnd I think it is sad that it often isn’t considered “cool” or “hot” or “modern” these days.\n\nI just discovered on macOS you can Option+click in the gutter to jump directly there, would have never known if I hadn’t seen this post.\n\nI know shift-clicking to snap to a particular position was implemented in Windows XP, because I built the first Chromium scrollbar implementation in 2006 based on the XP scrollbar behavior, which had that already back then. At the time I also reverse-engineered the precise thresholds of how dragging the pointer too far away from the track resulted in snapping back to the scroll origin.",
+        "fullTranslation": "在 Windows 问世的前二十年里，滚动条控件只有几种基本操作。（为了便于说明，我们假设滚动条是垂直的。）它有五个鼠标交互目标：滚动条两端的箭头用于按行滚动；滑块与箭头之间的区域用于按页滚动；而滑块本身则允许你将其拖动到特定位置。\n\n后来加入的一个有趣新功能是“滚动至此”（Scroll Here）：你可以直接在你想要滚动到的位置右键单击，然后选择“滚动至此”。如果你需要长距离滚动，这要方便得多，因为你不再需要先抓住滚动条滑块，然后一路拖动到目的地。你只需关注你想去的地方，而不用管你来自何处。\n\n与此同时，还加入了一个更加隐蔽的快捷操作：按住 Shift 键的同时单击滚动条，滑块会直接跳转到你单击的位置。\n\n遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。\n\n太棒了，所以等我知道滚动条还有快捷键（Shift+单击）的时候，整个生态系统已经碎片化到了我甚至无法指望它能正常起效的地步。\n\nRaymond 参与 Windows 的演进已超过 30 年。2003 年，他创办了名为 The Old New Thing 的网站，其受欢迎程度远远超出了他最狂野的想象，这种发展至今仍让他感到不安。该网站后来促成了一本书的出版，碰巧也名为《The Old New Thing》（Addison Wesley 2007 年出版）。他偶尔会在 Windows Dev Docs 的 Twitter 账号上露面，讲一些不带任何有用信息的故事。\n\n参与讨论。\n\n“遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。”\n\n“遗憾的是，现在几乎没有人再使用 Win32 滚动条了。大家都在使用提供自带自定义滚动条的各类框架。”\n\n对我而言，经典的 Win32 桌面及其原生 Win32 控件代表着品质与稳定。所有东西每次都能正常工作，并且完全符合预期。我在 90 年代末编写的一个 Win32 应用程序今天仍然可以在 Windows 11 上运行。它的 Delphi 项目可以在最新的 Delphi 版本（13.2）中毫无问题地打开。我坚信，我今天编写的 Win32 应用程序在 20 年后依然能够正常使用，不会遇到任何问题。\n\n我听起来可能像是某种“Win32 狂热分子”，但我真心认为经典 Windows 桌面在品质和稳定性方面是一项重大的技术成就。有时你可能会觉得“现在的年轻一代”并不认为经典的 Win32 桌面有多么“热门”或“酷炫”，但整个世界正是运行在它之上的：从医疗信息系统到酒店预订系统，一切都是基于经典 Win32 桌面的。\n\n而且它就是很靠谱。我非常喜欢它！\n\n我认为令人遗憾的是，如今它往往不再被认为是“酷”、“热门”或“现代”的东西了。\n\n我刚刚发现在 macOS 上，你可以按住 Option 键单击滚动条滑轨直接跳到该位置，要不是看到这篇帖子，我可能永远也不会知道。\n\n我知道在 Windows XP 中就已经实现了按住 Shift 单击跳转到特定位置的功能，因为我在 2006 年基于 XP 滚动条行为构建了第一个 Chromium 滚动条实现，而当时该功能就已经存在了。那时候我还逆向工程了指针拖离滑轨多远会导致滑块弹回滚动起点的精确阈值。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "在 Windows 最初的二十年里，滚动条控件有五个基本的鼠标操作目标：两端箭头按行滚动，滑块与箭头之间的区域按页滚动，滑块本身支持拖动到特定位置。",
+          "在滚动条上右键点击目标位置并选择“Scroll Here”，可直接滚动到该位置。",
+          "来源叙事重点：探讨 Windows 经典 Win32 滚动条的历史隐藏快捷操作（如 Shift+点击直接跳转、右键“Scroll Here”），并延伸至对当代 UI 框架自定义滚动条导致原生交互断层、经典 Win32 稳定性与向后兼容性的怀旧与反思"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T19:51:19.000Z",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719%2F"
+          }
+        ]
+      },
+      {
+        "id": "story--soybean-oleic-acid-html-57c6179487232528",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Gene editing produces soybean with more than 90% oleic acid",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:20:05.000Z",
+        "pubTime": "2026-09-24 06:20",
+        "url": "https://phys.org/news/2026-09-gene-soybean-oleic-acid.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/gene-editing-produces.jpg",
+        "fullContent": "Sejong University researchers have developed a high-quality soybean with improved oxidative stability, reduced saturated fat and increased seed fatty acid content. The research team led by Hyun Uk Kim, a professor in the Department of Bio-Industrial Resources Engineering at Sejong University, created the soybean line containing up to 90.2% oleic acid using CRISPR/Cas9 gene-editing technology. The study is published in the Plant Biotechnology Journal.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-24 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-gene-soybean-oleic-acid.html",
+            "publishedAt": "2026-09-23T22:20:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2191895-2e28597d948279d1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Trump greets Xi at aircraft stairs after his arrival in US",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:17:36.000Z",
+        "pubTime": "2026-09-24 06:17",
+        "url": "https://tass.com/world/2191895",
+        "imageUrl": null,
+        "fullContent": "WASHINGTON, September 24. /TASS/. US President Donald Trump greeted Chinese President Xi Jinping at the aircraft stairs after he arrived in the US on Wednesday for a visit.\n\nThe Chinese leader’s plane landed at 5:39 p.m. local time (12:39 a.m. Moscow time Thursday). A red carpet was laid out in front of the aircraft stairs, with US military personnel in ceremonial uniforms lined up along it. Trump and Xi shook hands.\n\nThe Chinese Foreign Ministry said Xi Jinping’s state visit to the US will run from September 23 to 25.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "中国国家主席习近平于周三抵达美国进行访问，美国总统唐纳德·特朗普在飞机舷梯旁迎接。",
+          "中国领导人的专机于当地时间下午5点39分（莫斯科时间周四凌晨0点39分）降落。",
+          "来源叙事重点：聚焦美中最高领导人会面的外交礼仪细节与即时动态，强调特朗普在舷梯旁迎接习近平的高规格礼遇（红地毯、仪仗队、握手）及访问日程。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T22:17:36.000Z",
+            "url": "https://tass.com/world/2191895"
+          }
+        ]
+      },
+      {
+        "id": "story--emissions-then-who-does-88ff028cf4905582",
+        "title": "如果连亚马逊都不知道如何消除碳排放，那还有谁会知道？",
+        "originalTitle": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T21:21:33.000Z",
+        "pubTime": "2026-09-24 05:21",
+        "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+        "imageUrl": null,
+        "fullContent": "Amazon’s chief sustainability officer said Tuesday the company doesn’t know how it will achieve its goal of net-zero carbon emissions by 2040.\n\n“We are still striving towards that target,” Kara Hurst said at an Axios event, adding later that she is “not going to sit here and say, ‘We know all the ways that we’re going to do this.’”\n\nThe admission was both frank and realistic. It’s also a bit disappointing. If Amazon doesn’t have a plan to decarbonize, then who does?\n\nAmazon is one of the largest companies in the world, with last year’s revenue up 12% to $717 billion — about the size of Ireland’s economy. Its rise is illustrative of how, as UN Secretary General António Guterres has pointed out, power has shifted from governments to a few corporations.\n\nAs power moves, responsibility follows. The question is, how much responsibility does Amazon bear?\n\n“This isn’t a question of companies versus governments,” Hurst told TechCrunch in a written reply to questions after the event. “Tackling climate change at the scale it demands takes both, and it takes them working together.” She added, “Where we can lead, we do.”\n\nIt’s true that Amazon has not been sitting still. In her talk yesterday, Hurst pointed out that the company is “one of the largest purchasers of clean energy in the world for the last several years running” with 42 gigawatts in its portfolio. She also said that Amazon has reduced its carbon intensity, or how much pollution it generates per dollar of revenue, though that claim depends on the time frame. Last year, carbon intensity rose compared with 2024, even though it stayed below where it was in 2022.\n\nAmazon is a sprawling business, and as a result, its carbon emissions are spread across nearly every sector of the economy, from aviation and AI to agriculture and construction. The company needs suppliers in every sector to achieve its goal. “This is not something we can do alone,” Hurst said at the Axios event.\n\nThe company acknowledges that its commitments are its own. “We hold ourselves accountable to The Climate Pledge goal of net-zero carbon by 2040. That commitment hasn’t changed,” Hurst told TechCrunch.\n\nBut Amazon has also made choices that undermine its leadership on the issue. Earlier this year, an investigation revealed the company’s plans to build a 7.65 gigawatt natural gas power plant to power an AI data center campus. The project’s 35 turbines could release up to 33 million tons of carbon dioxide annually, making it the largest single source of that pollution in the U.S.\n\nWith few exceptions, companies prioritize revenue growth over climate commitments. For a company like Amazon, which operates the largest cloud service in the world, AI is apparently a revenue driver that’s impossible to pass up.\n\nThe climate tech world has been hoping that, as clean power gets cheaper, the market would work its magic to lower carbon emissions. There have been a few success stories, but as the AI rush has shown, that approach has its limits. Even Amazon, one of the leaders in the space, bet big on natural gas. In the process, it essentially said that climate change is something for future generations of executives to deal with. Sound familiar?\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nSenior Reporter, Climate\n\nTim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.\n\nDe Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.\n\nYou can contact or verify outreach from Tim by emailing tim.dechant@techcrunch.com.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance\n\nMeta’s Muse is outpacing ChatGPT’s early mobile launch\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "fullTranslation": "亚马逊首席可持续发展官周二表示，该公司尚不知道将如何实现到2040年净零碳排放的目标。\n\n“我们仍在向这一目标努力，”卡拉·赫斯特（Kara Hurst）在Axios主办的一场活动上表示，她随后补充道，自己“不会坐在这里宣称：‘我们知道达成这一目标的所有途径。’”\n\n这一表态既坦诚又现实，但也有些令人失望。如果亚马逊都没有脱碳计划，那还有谁会有呢？\n\n亚马逊是全球体量最大的公司之一，去年营收增长12%至7170亿美元——规模大致相当于爱尔兰的经济总量。正如联合国秘书长安东尼奥·古特雷斯所指出的那样，权力的天平正在从政府向少数几家大企业倾斜，亚马逊的崛起正是这一现象的缩影。\n\n权力转移，责任随之而来。问题在于，亚马逊究竟承担着多大责任？\n\n活动结束后，赫斯特在给TechCrunch的书面回复中表示：“这并非企业与政府对立的问题。应对气候变化所需规模的行动需要双方共同发力，且需要彼此协作。”她补充道：“在能够发挥领导作用的地方，我们都在身体力行。”\n\n诚然，亚马逊并未坐视不理。在昨天的演讲中，赫斯特指出，该公司“连续数年成为全球最大的清洁能源采购商之一”，其资产组合中拥有42吉瓦的清洁能源。她还表示，亚马逊降低了碳排放强度（即每产生一美元营收所产生的污染量），不过这一说法取决于计算的时间跨度。去年，其碳排放强度较2024年有所上升，尽管仍低于2022年的水平。\n\n亚马逊业务庞大且错综复杂，导致其碳排放几乎遍及经济的各个领域，从航空、人工智能到农业和建筑业。该公司需要各个行业的供应商共同努力以实现其目标。“这绝非我们一己之力所能完成的事情，”赫斯特在Axios活动上说道。\n\n该公司承认承诺由其自身负责。赫斯特对TechCrunch表示：“我们对《气候宣言》（The Climate Pledge）设定的到2040年实现净零碳排放目标负责。这项承诺没有改变。”\n\n但亚马逊的一些决定也削弱了其在该议题上的领导地位。今年早些时候，一项调查披露了该公司计划建造一座7.65吉瓦的天然气发电厂，为一处人工智能数据中心园区供电。该项目的35台涡轮机每年可能释放高达3300万吨二氧化碳，使其成为美国境内该类污染的最大单一来源。\n\n除了少数例外，企业几乎总是将收入增长置于气候承诺之上。对于像亚马逊这样运营着全球最大云服务的公司而言，人工智能显然是一个绝不能错过的营收增长驱动力。\n\n气候科技界一直希望，随着清洁能源成本的下降，市场机制能施展魔力来减少碳排放。虽然有一些成功案例，但人工智能热潮表明，这种方法存在局限性。就连作为该领域领头羊之一的亚马逊，也在大举押注天然气。在此过程中，它实际上等于在宣称，应对气候变化是留给未来几代管理层去处理的问题。这听起来是不是很熟悉？\n\n当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n气候领域资深记者\n蒂姆·德尚（Tim De Chant）是TechCrunch的气候领域资深记者。他曾为多家出版物撰稿，包括《连线》（Wired）杂志、《芝加哥论坛报》（Chicago Tribune）、Ars Technica、《The Wire China》以及他担任创刊编辑的《NOVA Next》。\n德尚还是麻省理工学院（MIT）科学写作研究生项目的讲师，并于2018年在MIT荣获奈特科学新闻学者奖学金（Knight Science Journalism Fellowship），在此期间他研究了气候技术并探索了新闻业的新商业模式。他拥有加州大学伯克利分校环境科学、政策与管理博士学位，以及圣奥拉夫学院（St. Olaf College）的环境研究、英语和生物学学士学位。\n您可以通过电子邮件 tim.dechant@techcrunch.com 与蒂姆取得联系或核实其外联信息。\n\n您的下一份重磅人脉就在Disrupt峰会。与10,000多名创始人、风险投资人、运营者和科技领袖建立联系。探索未来的突破性技术，倾听塑造今日科技的前沿声音，在太平洋时间9月25日晚上11点59分前购票立省高达200美元。\n\nAnthropic发布Opus 5.5：价格更低，性能达寓言级别\nMeta旗下的Muse移动端早期发展势头超越ChatGPT\n蒂莉·诺伍德（Tilly Norwood）的媒体巡回宣传进展一如对AI所预期的那样\nAnthropic正在运营一个开展生物学实验的实验室\nChatGPT发明者推出的一种新型AI模型令开发者振奋不已\nOpenAI抓包其模型向后代留纸条以隐瞒不良行为\n最新未删节法律文件披露：微软高管称AI抓取是“人类历史上最大规模的劳动成果窃取”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "亚马逊首席可持续发展官 Kara Hurst 在 Axios 活动上表示，公司尚不清楚将如何实现到 2040 年净零碳排放的目标，但仍在朝该目标努力。",
+          "亚马逊去年的营收增长了 12%，达到 7170 亿美元，体量接近爱尔兰的经济规模。",
+          "来源叙事重点：质疑大型科技公司在生成式 AI 能源狂潮下与气候减排承诺之间的脱节；以亚马逊高管坦承‘不知如何实现 2040 净零’为由头，批评科技巨头为保障 AI 业务增长而重返化石能源（如巨型天然气电厂），将商业利益置于环境责任之上。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T21:21:33.000Z",
+            "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/"
+          }
+        ]
+      },
+      {
+        "id": "story-w-do-we-keep-up-e10164dc-ea48be1130757dac",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:00:00.000Z",
+        "pubTime": "2026-09-24 06:00",
+        "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“A weekend away isn’t a weekend away. It’s a luxury hotel, expensive meals and a last-minute upgrade.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-24 06:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-23T22:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-1095425-2d9f411252325784-f936f1287ec538eb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Ideas on modernizing the open-source desktop",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T19:49:57.000Z",
+        "pubTime": "2026-09-24 03:49",
+        "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+        "imageUrl": null,
+        "fullContent": "He introduced himself as someone who has been doing UX for a long time, much of that time at Google. He said that over that time he had noticed a cultural shift, \"because back in 2005 when I joined, we weren't evil; we were really trying to do the right thing\". He had worked on the Chrome team for a while, which he said was \"filled with people who wanted nothing but open-source, open-web\" projects. Things had changed radically, which led him to leave Google, \"but I'm trying to atone for my sins working for these companies\".\n\nHe now does work for Mastodon and Home Assistant, \"just kind of trying to squeeze a little bit more good UX design into open source\". Jenson said he did not want to be confrontational, but he thought that open source needs a lot of help in the area of UX design. That is challenging, because open-source projects are understaffed.\n\nHe was at Akademy to discuss his ideas because he had given a talk similar to this at Ubuntu's conference last year, which proved to be popular. \"It got more than half a million views on YouTube—which by YouTube standards is trivial, but by Scott standards is enormous.\" That told him that the topic of desktop UX was something that people wanted to talk about. This time around, he also wanted to show a few examples of prototypes he had to demonstrate his ideas.\n\nHe thinks that desktop UX is very different from other kinds of UX. Jenson related a story about working on the Macintosh's Finder application, which is a file manager. The team \"wanted to do ellipses\" in file names when showing a file in the Finder that had a name too long to display in its entirety. The developers wanted to put the ellipsis at the end of the file name, but he thought that would lose too much information, and suggested that the ellipses should be in the middle of the file names. \"It's now considered to be one of those things that's an exciting little attention-to-detail issue the Macintosh does.\"\n\nAnother UX detail that he worked on is the way that clicking and dragging files from one window to another works on the Mac. A mouse click action has two parts: when the user depresses the button (mouse down) and when the user releases the button (mouse up). On the Mac, item selection happens on mouse down, but the window only raises on the mouse up action. In other words, if a user drags an icon from a Finder window into another window, the first window is not raised.\n\nOn most Linux systems, though, if a user is trying to click and drag a file from a window in the background it will cause the window to raise as soon as the user does the \"mouse down\" action. That complicates trying to click and drag a file from one window to another. That is a fundamental action that means that users can't move data into applications quite as easily on Linux as they can on the Mac.\n\nHe said that he had talked about that issue two years ago on Mastodon, which raised a response from a KDE developer who thought it was a good idea to separate the mouse down and mouse up actions when dragging data between windows. Then they implemented it a few hours later.\n\n\"I forgot who that was. So if anybody here did that\", he said, but before he could finish the sentence a voice from somewhere in the room responded, \"you're welcome\". Jenson yelled \"thank you! I've been wanting to meet you for two years!\" That was an example, he said, of how open source can be awesome: someone can just say \"that's a good idea, I'll just do it\" and then rapidly implement and push the feature to the project.\n\nThe point he was really trying to make, though, is that the desktop UX had not really changed in 20 years. There were plenty of new ideas and improvements in the 1980s and 1990s, \"and then it just stabilized, and not much has really changed\". But people are doing much more with their computers today, and he thinks that there are ways for desktop UX to grow.\n\nMuch of the UX for Linux systems was originally copied from Windows and the Mac, \"KDE even says it's for Windows users, that it wants to be similar to Windows for users\". There's nothing wrong with that, but he felt that the Linux community \"in general\" had been leaning on Microsoft and Apple to do all of the UX research and testing, \"and frankly, [make] the mistakes\".\n\nSome might point out that GNOME has conducted user research for some of its design changes, and KDE's human-interface guidelines (HIG) were also developed based on research by its contributors. However, it would be fair to say that these are exceptions rather than the norm; certainly, no one is funding or conducting regular UX design research and development for the Linux desktop overall.\n\nHe said that it is smart to let Apple and Microsoft do these things first \"so we can draft behind them\", but the problem is that \"they've just kind of given up to an extent\". Apple has been letting its desktop UX, and desktop hardware, \"languish for years and years and years\" because it had shifted its focus to the iPhone and iPad devices. \"I mean, like, Apple wanted the Mac to die. They wanted the world to move over to the iPad. Guess what? It didn't.\"\n\nApple has since turned its attention back to the Mac, but the things they've done since—such as the Liquid Glass design language—have not been really popular with users. The features that Apple tends to add, he said, are \"basically about tying it closer to the iPhone, tying you closer into their ecosystem\". That isn't about improving the desktop, it's about increasing their moat.\n\nMicrosoft \"is just making one mistake after another\". He cited the company's attempts to force users to store files using its OneDrive cloud-storage service, the privacy-invasive Windows Recall feature that drew widespread criticism, and \"ads everywhere\" on the Windows desktop. His point was not to bash Apple or Microsoft, though the audience didn't seem to object to this, it was to point out that the Linux desktop could not follow their example any longer. \"The whole Linux community has been just waiting for Apple and Microsoft, more or less, to take all the risks, and they're not taking any more risks.\"\n\nJenson emphasized that he didn't want to change everything, but he wanted to see experiments and additional development aimed at improving the desktop experience. However, he said that he gets pushback when he tells people that desktop innovation has stopped, and that the Linux desktop \"can't just patch and bug fix our way into the future, we have to start taking leadership ourselves\".\n\nHe grouped the pushback into three categories. The first objection he receives is \"mobile won; the desktop is old, just do what mobile does\". He dismissed that by saying that mobile has indeed won the consumer market, social media, and other areas, but \"it didn't win productivity\". People still do their work on computers, because \"desktops are silently awesome; they have keyboards and big screens, and they can do amazing things\". However, people have lost sight of that and don't really appreciate how good desktops are. \"I think we should understand why they're good, and then what we can do to make them better.\"\n\nThe second objection he hears is that there are only so many ways that the WIMP model can work. \"Just stop trying to fix it; it's done.\" He disagreed with that as well, and thought that there was more to be done. The final, particularly strong, objection from the tech community is \"don't touch my stuff\". People get angry when they have worked hard to get their desktop environment just as they like it and something changes to disrupt that. \"And I get that. As I said before, I don't want to change everything.\" But the world is changing, \"and we need to grow our way gently into some new things.\"\n\nStrategy is another part of UX; understanding who the target user is, and determining what they want. Deciding what is important, and what is not; what will the development team prioritize and what will it ignore? \"The fastest way a UX designer can save your team time is to help you say no.\"\n\nThere is also a layer he called \"stuff\": the lower-level limitations of the underlying technology that a platform has which influence UX. For example, he said, if an application is being created for DOS, \"you're not going to write a nice Macintosh application. The technology dictates what you can do\". The desktop has been evolving for 40 years and has \"historical cruft\" that carries expected standards.\n\nPeople forget, he said, that the original Macintosh screen was \"a whopping 342 pixels high\". Naturally, windows overlapped a lot. Since then, \"we just assumed that Windows have to overlap\". But many people have \"giant, giant screens\", and the existing window-manager model does not work so well for those devices. \"I can understand why people use tiled window systems and so forth, because this existing model just does not work very well.\"\n\nEarly in the talk, he had referenced a saying by Alan Kay, who had led design of the first WIMP interface at Xerox PARC: \"Perspective is worth 80 IQ points.\" Jenson now circled back to Kay: \"Who, as you can tell, I really like a lot. [...] He talks about three steps to understand stuff\". The first step, he said, was to think about the present, \"what is happening right now?\" The second is \"don't forget the past, know what work has happened before\", and the final step is to ensure that \"your questions are really clear\". Too many people rush to a solution, he said, but they should be rushing to questions. If the questions are clear, then the answers will be better.\n\nHe did not want to make the talk about AI, he said, but he had to address it. \"I have to talk about AI, and it pisses me off because there's so many cool things we could be talking about, and AI just sucks up all the oxygen, and it's all you can talk about\". But, he conceded, there are many things happening with AI on the desktop, albeit in a weird way.\n\nHe explained some of the current efforts to integrate AI with the desktop as \"trying to sneak AI in\" while keeping the UI exactly the same. Other efforts try to use AI to understand what is on the screen and use chatbots to interact with the interface, \"which I think is kind of missing the point here\". That is, until last summer when Anthropic introduced Claude Code. \"It completely changed things, because was looking down into your filesystem\" and drew context from the content of a user's files. That allowed it to do more interesting things and interact with the system.\n\nAfter mentioning Claude, he paused to say he was only speaking about frontier models because everyone else is discussing them. \"I have a lot of personal problems with the frontier models. They are ethical and environmental disasters. I am not very excited by them\". He said he was excited by Apertus, which is billed as a fully open, responsible model for sovereign AI created by the Swiss AI Initiative. \"I do think it's possible to talk about ethically trained small language models running locally, and you don't have to sell your soul to the devil.\"\n\nThe key point he wanted to make was not about generative AI uses, but about how giving it access to the filesystem improved its usability. It now had context and could work with the user's data, but it was working at the filesystem level and not using the desktop UX.\n\nHe talked about the desktop building blocks, basically the familiar WIMP model plus the desktop clipboard, as the way that users move data around. Expert users can move data around quickly, he said, but there's a problem: the desktop is stateless. He called this the curse of direct manipulation; there is no working memory to the desktop. \"If you copy a few too many things to the clipboard, oh sorry, it's gone\".\n\nJenson theorized that the reason there are so many desktop environments, window managers, and Wayland compositors for Linux—as well as alternative clipboard managers—is because the desktop isn't quite working right for users. He thought it was really about working memory: \"How do I manage my data in such a way that I can remember it across all of these things and actually use it.\" His perspective shifted to asking \"what would we do to working memory to improve the desktop UX?\"\n\nAI may have given him the idea, but he added that he wanted to solve the desktop UX for people first. \"If the AI can use it, great. I don't care. That comes later.\"\n\nThere is prior art in trying to create systems that help provide users with more context and working memory related to their data. He referenced a paper called \"Lifestreams: a storage model for personal data\". That paper made the case that desktop systems are \"are ill-equipped to manage the electronic information and events of the typical computer user\", and introduced the Lifestreams idea as a metaphor for dynamically organizing a user's computer workspace.\n\nThat paper influenced the ill-fated WinFS project from Microsoft, which was an attempt to merge data storage and management based on relational database systems. It was demonstrated in 2003 and scheduled to ship sometime later, but ultimately the project was shelved in 2006. On the free-software side of the house, there was the semantic desktop project NEPOMUK, which was a research project funded by the European Union.\n\nA version of NEPOMUK was included in KDE 4, with the idea was that it would allow applications \"to use information from all over the desktop, the web, other devices, and combine it into one coherent interface\". It was later removed and replaced with the Baloo file-indexing and search framework for the Plasma desktop, which has some overlap with NEPOMUK's functionality but with a reduced scope of features.\n\nJenson said that he is concerned that people see the failure of those projects as proof that the ideas were wrong. He argued that is not the case, \"I would say that it is the hardware and systems at the time let the vision down. I think it's time to rethink these projects\" in light of newer hardware and better systems.\n\nHaving visited the present and the past, as Kay recommended, he had come up with a few questions that he thought worth exploring related to desktop UX. The first was \"what would happen if we only designed for large monitors?\" What would it unlock if there were desktop designs that ignored laptops and only focused on widescreen monitors? Another question he had was how could the desktop capture a user's intent over time?\n\nThose questions led to the prototypes that he said he was a little nervous to show the audience \"because technical people love to find mistakes\". The demos are about 29 minutes into the video of Jenson's talk. His slides have not yet been published but he told me at the event that they would be at some point.\n\nThe first demo was to show how a desktop might make better use of a widescreen display. He noted that the center of a widescreen monitor is good for working with an application, but it becomes more difficult to work on the sides of the monitor. \"It's good for peripheral vision, but not good for working\".\n\nHe demonstrated a desktop layout, a screenshot of which is below, that would put the focus on the window or windows in the middle of the monitor. He had included a grid in the background that tapers off from the middle of the screen to simulate a widescreen monitor. The idea was that a widescreen-first desktop would emphasize information in the middle of the screen, and then use an Exposé-like tiling model to arrange the rest of the desktop's windows. This would make the windows that were not in use easier to interact with, he thought, and be a better model than virtual desktops for managing lots of windows. \"I'm not against virtual desktops. Virtual desktops are used by very organized and intelligent people. I know my audience.\" However, he said, most people can't deal with virtual desktops.\n\nHe also demonstrated dragging a music-player window all the way to one side of the screen, which he called \"the stash area\". As it moved to the edge, it transformed into a widget with just a play button instead of showing the full window. He thought that it would be possible to do the things he was demonstrating with Wayland as it is today.\n\nJenson put up another demonstration of an improved clipboard model that copied ideas from the Obsidian editor's Canvas feature. Canvas allows users to drag and drop images, text, and files to create a visual layout of information. A user could create a document and drag information from a web browser into the document, drop a file in from another source, \"the idea here is that this is now effectively a collection of stuff that I have gathered for this document. And if I close it and then come back tomorrow, it's all still there\". He added that a local AI would be able to come in and organize the information a user had gathered, \"oh, look, you've got a bunch of hotels, let me organize them for you\".\n\nThe final idea he discussed was a way of gathering \"privacy-preserving data\" to help give users a better visualization of things like web-browsing history. A web browser will only give the user a view of their browsing history that \"is not very useful\" he said, so he tried to gather data \"not using AI, just using simple math\" that would use attention signals—such as how long the user was on a web page—to tell a story of where they spent their time on the desktop. \"I basically came up with this spatial associative episodic memory prompt\" to organize data in a helpful, interesting way. He thought that working memory was a good way to explore new ideas for desktop UX.\n\nThere was time for a single question. An audience member asked how Jenson's model would protect against all of the privacy concerns that Microsoft faced with Windows Recall. \"How are we going to make sure that this history remains only accessible by the user and cannot be hacked in like it could happen with Windows Recall?\"\n\nJenson answered that his idea was to gather telemetry data, \"not interesting information\", which would sign",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 41,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "演讲者Scott Jenson于2005年加入谷歌，曾长期从事用户体验（UX）工作，并在Chrome团队工作过一段时间，后来离开谷歌。",
+          "Scott Jenson目前为Mastodon和Home Assistant提供UX设计支持。",
+          "来源叙事重点：资深UX设计师Scott Jenson在KDE Akademy大会上的演讲主张：Linux开源社区不应再被动跟随停滞甚至倒退的商业巨头（苹果与微软），而应主动承担桌面用户体验（UX）的创新领导权并重新审视现代化桌面交互。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T19:49:57.000Z",
+            "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790149952751,
     "timeDisplay": "2026-09-23 15:52 (UTC+8)",
     "date": "2026-09-23",
