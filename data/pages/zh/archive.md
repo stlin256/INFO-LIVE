@@ -34,14 +34,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **64** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **65** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-23 09:42 (UTC+8)
+- **最新归档时间**：2026-09-23 15:52 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-23 15:52 (UTC+8)" title="全球要闻情报简报 · 15:52" org="ARCHIVE"}
+**速报纪要：** 当地时间9月22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论发言时表示，韩国将积极创造条件，推动陷入停滞的朝美对话尽早重启，并推进朝鲜半岛和平机制建设。
+
+**关键信号：** 韩国方面表态将努力为长期停滞的朝美对话创造重启条件；韩方寻求推动相关各方围绕终结半岛战争状态及构建和平机制展开对话
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/kosulya-2119684949.html) <span class="news-meta-time">🕒 2026-09-23 15:49</span>
+- [TechCrunch (硅谷创业与资本)] [“我们已经在打昨天的战役”：希腊总理坦率畅谈人工智能](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/) <span class="news-meta-time">🕒 2026-09-23 12:59</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Aims-to-Cut-Middle-East-Crude-Reliance-to-50-by-2035.html) <span class="news-meta-time">🕒 2026-09-23 14:29</span>
+- [Lobste.rs (极客思想社区)] [以最小代价实现沙箱化](https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/) <span class="news-meta-time">🕒 2026-09-23 13:08</span>
+- [Phys.org (基础物理与技术前沿)] [牲畜放牧或可促进冰岛亚北极草原的土壤碳封存](https://phys.org/news/2026-09-livestock-grazing-boost-soil-carbon.html) <span class="news-meta-time">🕒 2026-09-23 15:10</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/perm-2119684703.html) <span class="news-meta-time">🕒 2026-09-23 15:49</span>
+:::
 :::timeline-item{start="2026-09-23 09:42 (UTC+8)" title="全球要闻情报简报 · 09:42" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-23 09:33 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -640,18 +653,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill) <span class="news-meta-time">🕒 2026-09-10 23:25</span>
 - [Phys.org (基础物理与技术前沿)] [太阳最大的太阳黑子或具备引发超级耀斑的潜能](https://phys.org/news/2026-09-sun-largest-sunspots-potential-trigger.html) <span class="news-meta-time">🕒 2026-09-10 23:40</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/putin-2116897195.html) <span class="news-meta-time">🕒 2026-09-10 23:47</span>
-:::
-:::timeline-item{start="2026-09-10 22:10 (UTC+8)" title="全球要闻情报简报 · 22:10" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-10 22:08 (UTC+8) 完成，共获得 774 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；【中新社 (国际实时原版)】渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评：中新社罗马9月10日电 题：渔业可持续发展“中国方案”在联合国粮农组织总部获国际热评；【中新社 (国际实时原版)】阿尔及利亚宣布与阿联酋断交：中新社北京9月10日电 阿尔及尔消息：据阿尔及利亚国家电视台10日报道，阿尔及利亚外交部当天表示，阿尔及利亚决定即日起与阿联酋断绝外交关系。；【中新社 (国际实时原版)】泰国批准55个项目推动企业应用人工智能和自动化：中新社曼谷9月10日电 (记者 李映民)泰国总理府副发言人拉丽达10日向媒体透露，国家竞争力提升基金委员会已批准55个项目，以支持企业推进技术升级、数字化转型和技能人才培养，其中包括利用人工智能、自动化等技术提升企业生产效率。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/ryutte-2116869501.html) <span class="news-meta-time">🕒 2026-09-10 22:06</span>
-- [The Verge (前沿数码科技)] [iPhone Duo 与其他折叠屏手机对比表现如何](https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison) <span class="news-meta-time">🕒 2026-09-10 22:00</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 22:03</span>
-- [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/10/tell-us-has-your-medical-cannabis-prescription-come-from-a-private-health-provider) <span class="news-meta-time">🕒 2026-09-10 21:51</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html) <span class="news-meta-time">🕒 2026-09-10 22:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/kaliningrad-2116869192.html) <span class="news-meta-time">🕒 2026-09-10 22:06</span>
 :::
 ::::
