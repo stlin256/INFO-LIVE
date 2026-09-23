@@ -1,5 +1,1553 @@
 [
   {
+    "timestamp": 1790127770644,
+    "timeDisplay": "2026-09-23 09:42 (UTC+8)",
+    "date": "2026-09-23",
+    "runId": "feed-20260923T013311706Z-op6eru",
+    "generatedAt": "2026-09-23T01:42:50.644Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 09:33",
+      "lead": "本轮抓取于 2026-09-23 09:33 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】澳大利亚新闻直播：阿尔巴尼斯为应对白宫批评的社交媒体整顿措施辩护；威尔逊与乔伊斯唇枪舌剑：关注当天新闻的直播",
+        "【undefined】马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界：马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界 | 国际早察",
+        "【undefined】卡玛拉·哈里斯称“对多元、公平与包容的攻击就是对孕产妇护理的攻击”，与埃尔-赛义德共同出席活动：前副总统卡玛拉·哈里斯周二表示，对多元、公平与包容（DEI）的攻击就是对孕产妇护理的攻击。当天，她在底特律与民主党美国参议院候选人阿卜杜勒·埃尔-赛义德一同出席活动，为11月中期选举前争取支持。",
+        "【undefined】随着对人工智能训练数据的需求激增，Snorkel AI估值增至35亿美元：帮助人工智能实验室和企业构建训练数据集及模拟环境的初创公司Snorkel AI，已以35亿美元的估值完成3.5亿美元E轮融资。",
+        "【undefined】GPT-6 迎来更强大的提示词缓存机制：更高的缓存命中率与全新工具，助力持久型智能体运行更快、成本更低。",
+        "【undefined】Rabbit推出的新AI代理无需R1即可运行：有关该主题的文章将添加到你的每日电子邮件摘要和首页信息流中。 这家初创公司的AI代理可以在Windows、Mac和Linux设备上本地运行。 这位作者的文章将添加到你的每日电子邮件摘要和首页信息流中。 查看Emma Roth的全部文章 据Wired此前报道，推出了表现不佳的R1设备的Rabbit公司正在推出一款独立的AI代理，用户无需使用其硬件即可运行该代理。这家初创公司表示，其全新的OS3“代理型操作系统”运行在云端，但可以在Wind",
+        "【undefined】高通骁龙 8 Elite Gen 6 也推出 Extreme 版本：本主题的文章将添加到您的每日电子邮件摘要和首页信息流中。",
+        "【undefined】摩托罗拉这款外形狂野的 Signature 27 搭载高通全新 Extreme 芯片：摩托罗拉是首家宣布推出搭载高通顶级 Snapdragon 8 Elite Extreme Gen 6 芯片手机的公司。Signature 27 有望成为摩托罗拉数年来最先进的旗舰手机之一，不过我们仍在等待其完整规格、价格和发布日期。任何潜在买家首先都必须接受它的外观设计，而这一设计似乎注定会引发褒贬不一的评价。这款铝制手机机身纤薄，有黑色（抱歉，官方称其为“潘通煤烟黑”）和绿色（“潘通卡普莱特橄榄绿”）两种配色，其中一种采用编织战术纹理"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "证据包未提供可识别的文章标题、正文、来源、发布时间或引用证据，无法进行可靠的日尺度分析。",
+      "themes": []
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 74,
+      "completedTasks": 74,
+      "succeeded": 33,
+      "degraded": 41,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 74,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 578880,
+      "byRole": {
+        "translator": {
+          "attempts": 46,
+          "degraded": 28,
+          "succeeded": 18
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 2,
+          "degraded": 6
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 3,
+          "degraded": 5
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 7,
+          "degraded": 1
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 74,
+          "degraded": 41,
+          "succeeded": 33
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-0-translator-0",
+      "article-1-translator-0",
+      "article-2-translator-0",
+      "article-3-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-0",
+      "article-20-translator-1",
+      "article-22-translator-0",
+      "article-25-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-38-translator-0",
+      "article-39-translator-0",
+      "article-40-translator-0",
+      "article-1-fact-extractor",
+      "article-1-source-positioner",
+      "article-2-fact-extractor",
+      "article-2-source-positioner",
+      "article-2-topic-classifier",
+      "article-3-fact-extractor",
+      "article-4-source-positioner",
+      "article-5-fact-extractor",
+      "article-5-source-positioner",
+      "article-6-fact-extractor",
+      "article-6-source-positioner",
+      "article-7-fact-extractor",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:52.034Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.780Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:52.046Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.909Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.909Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.098Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.950Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.093Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.379Z",
+        "lastSuccessAt": "2026-09-23T01:32:56.976Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.370Z",
+        "lastSuccessAt": "2026-09-23T01:32:56.799Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:57.160Z",
+        "lastSuccessAt": "2026-09-23T01:32:57.351Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:52.888Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.107Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.228Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.454Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.098Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.622Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.589Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.269Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.286Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.246Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.244Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.228Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.257Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.842Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:56.932Z",
+        "lastSuccessAt": "2026-09-23T01:32:57.531Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.608Z",
+        "lastSuccessAt": "2026-09-23T01:32:57.465Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:56.799Z",
+        "lastSuccessAt": "2026-09-23T01:32:57.166Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.269Z",
+        "lastSuccessAt": "2026-09-23T01:32:55.083Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.842Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.986Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.780Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.950Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:52.736Z",
+        "lastSuccessAt": "2026-09-23T01:32:52.888Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:51.383Z",
+        "lastSuccessAt": "2026-09-23T01:32:52.736Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.702Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.960Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.582Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.972Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.360Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.582Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.622Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.857Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.972Z",
+        "lastSuccessAt": "2026-09-23T01:32:55.379Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.246Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.412Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:56.976Z",
+        "lastSuccessAt": "2026-09-23T01:32:58.677Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.710Z",
+        "lastSuccessAt": "2026-09-23T01:32:55.016Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.079Z",
+        "lastSuccessAt": "2026-09-23T01:32:55.458Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.016Z",
+        "lastSuccessAt": "2026-09-23T01:32:55.077Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.162Z",
+        "lastSuccessAt": "2026-09-23T01:32:55.471Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:57.013Z",
+        "lastSuccessAt": "2026-09-23T01:32:57.160Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.986Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.040Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.350Z",
+        "lastSuccessAt": "2026-09-23T01:32:55.162Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.570Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.702Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.083Z",
+        "lastSuccessAt": "2026-09-23T01:32:55.482Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-23T01:32:54.960Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.916Z",
+        "lastSuccessAt": "2026-09-23T01:32:55.370Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:51.381Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.257Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-23T01:32:55.077Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:51.382Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.589Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.458Z",
+        "lastSuccessAt": "2026-09-23T01:32:57.457Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.454Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.710Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:53.107Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.244Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.857Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.916Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.412Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.570Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.471Z",
+        "lastSuccessAt": "2026-09-23T01:32:57.013Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:55.482Z",
+        "lastSuccessAt": "2026-09-23T01:32:56.932Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.093Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.360Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:54.040Z",
+        "lastSuccessAt": "2026-09-23T01:32:54.350Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:51.366Z",
+        "lastSuccessAt": "2026-09-23T01:32:52.034Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:51.379Z",
+        "lastSuccessAt": "2026-09-23T01:32:52.046Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-23T01:32:51.380Z",
+        "lastSuccessAt": "2026-09-23T01:32:53.286Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-2-93de-1300749a858a-html-e18c57c5e15f4bc9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Teheran, 'pronti a infliggere ad aggressori colpi devastanti e imprevedibili'",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-23T01:29:38.000Z",
+        "pubTime": "2026-09-23 09:29",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/teheran-pronti-a-infliggere-ad-aggressori-colpi-devastanti-e-imprevedibili_9efaaf6e-8223-4532-93de-1300749a858a.html",
+        "imageUrl": null,
+        "fullContent": "Lo Stato Maggiore delle Forze Armate iraniane e il Quartier Generale Centrale Khatam al-Anbiya - la più alta unità di comando operativo della Repubblica Islamica - hanno avvertito che il Paese infliggerà agli aggressori colpi \"ancora più duri, devastanti e imprevedibili\", in risposta alle più recenti minacce del presidente statunitense Donald Trump. La notizia è riportata su Telegram dall'iraniana Press Tv.\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "伊朗武装部队总参谋部和哈塔姆·安比亚中央总部警告称，该国将对侵略者予以“更沉重、更具毁灭性且不可预测”的打击，以回应美国总统唐纳德·特朗普近期的威胁。",
+          "哈塔姆·安比亚中央总部是伊朗伊斯兰共和国的最高作战指挥机构。",
+          "来源叙事重点：聚焦伊朗武装部队总参谋部和哈塔姆·安比亚中央总部对美国总统特朗普近期威胁作出的强硬回应，突出伊朗可能实施“更沉重、更具毁灭性且不可预测”打击的警告。报道主要呈现伊朗方面的回应框架，未交代特朗普威胁的具体内容。"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-23T01:29:38.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/teheran-pronti-a-infliggere-ad-aggressori-colpi-devastanti-e-imprevedibili_9efaaf6e-8223-4532-93de-1300749a858a.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ite-mathematicians-panel-a86391fe9862bd89",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:17:17.000Z",
+        "pubTime": "2026-09-23 08:17",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\n‘The group will advise on the review and communication of emerging results.’\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Robert Hart\n\nAfter turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\n\nOn Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told The Verge the group is a good first step, but many said they were left with basic questions about what it will actually do, how much influence it will have, and whether OpenAI will actually listen to it, as well as concerns over whether such a small group of prominent researchers can represent the wider mathematical community.\n\nThe nine-member group is stacked with who researchers described to The Verge as celebrities in the field, drawn from institutions including Stanford, Harvard, Oxford, and Cambridge, with multiple Fields Medals and MacArthur “genius grants” among them. It will be hosted by Princeton, New Jersey’s Institute for Advanced Study (IAS), one of the world’s most revered centers of mathematical research and the former intellectual home of figures including Albert Einstein, John von Neumann, and J. Robert Oppenheimer.\n\n“The other fundamental fact is that our overarching aim is to represent as well as we possibly can the interests of the mathematical community.”\n\nOpenAI said the group, called the Advisory Group on Mathematics and Artificial Intelligence (AGMAI), will operate independently, with the freedom to offer advice the company has not requested, publicly comment on its impact on mathematics, and make its advice public, though it did not provide details on what this may entail. It appears that the group will be granted early access to OpenAI’s research in order to fulfill its task. Members will not be paid by OpenAI and the group can change its membership as it sees fit, OpenAI said. “Its value depends on its members being able to exercise their own judgement and challenge ours,” the company said. “The group will advise on the review and communication of emerging results: they will help OpenAI assess their significance, advise on how to coordinate their dissemination, and advise on academic and professional standards of mathematical research. It will also advise on how our tools can support mathematical research and learning.”\n\nFor all the emphasis on independence, it remains unclear how much influence the group will actually have or why it was formed in the first place. Simon Machado, a researcher at ETH Zurich in Switzerland, said the whole thing seemed “shrouded in mystery” and he questioned how the nine members were selected. The group’s bare-bones website says it “came together after OpenAI approached some of its members about establishing an external advisory board,” but that, following discussions with the company, the mathematicians decided to launch an independent group instead and invite others to join. It’s not clear which members were initially approached by OpenAI or how the remaining members were selected.\n\nIn a blog post published Tuesday, advisory group member Martin Hairer elaborated on the group’s origins and the thinking behind it, responding to what he called a “torrent of misinformation” surrounding its formation. “It is obvious that AI has already had a profound impact on mathematical research and raises numerous questions of correct attribution of ideas, priority, human understanding of ideas, etc.,” he wrote, adding that there is no sense in the community “taking a hard ‘ostrich’ approach of simply ignoring the AI labs and refusing to talk to them on principle.”\n\nWhile acknowledging that the group was formed in response to an approach from OpenAI, Hairer stressed that not all of its members had been contacted by the company and that the resulting organization is “genuinely independent of OpenAI and any other of the so-called ‘frontier’ AI labs.” Beyond “obvious confidentiality requirements,” he said members have not signed any restrictive agreements governing what they can say publicly, adding that they receive no financial compensation and are relying on the IAS for technical support.\n\n“The other fundamental fact is that our overarching aim is to represent as well as we possibly can the interests of the mathematical community,” wrote Hairer, a professor of mathematics at Imperial College London and the Swiss Federal Institute of Technology in Lausanne (EPFL). While noting that the group is hardly a representative sample of the community, he said he is “absolutely certain that all nine of us take this extremely seriously and are acting in good faith.”\n\nHowever the members were selected, the group currently comprises an elite cadre of academic mathematicians. The small size raises further questions about whether the group has the breadth of expertise required to evaluate everything coming its way, given the highly specialized skills and knowledge required to operate at the frontiers of mathematics.\n\nFrancesco Fournier-Facio, an incoming mathematics professor at Heriot-Watt University in Scotland, described himself as pretty “ambivalent” about the panel, saying that greater engagement with mathematicians “can only make things better.” But he questioned whether this group fully reflects the community whose work and livelihoods are being upended by OpenAI’s quest to rack up mathematical trophies. “It feels like an ivory tower,” he told The Verge.\n\nMachado similarly questioned whether the group’s members fully understand, or can speak to, the concerns of the broader mathematical community when it comes to AI. “They’re amazing mathematicians, but I don’t know if they are the people I want to represent me in more political questions,” he said. For mathematicians in their and similarly elite positions, Machado said, “I think that the reality they are facing is very different from the reality that most mathematicians are facing right now.”\n\nWhether the group can earn mathematicians’ trust will ultimately determine how effective it will be at containing the fallout from OpenAI’s recent parade of missteps in announcing results and, more importantly, soften the blow for whatever the company is planning to announce next. In his blog, Hairer said members would “be very naïve to believe that the AI labs won’t try to spin whatever we say in a way that suits their PR machine, which dwarfs anything we could possibly come up with.”\n\nNevertheless, Hairer argued it would be hypocritical not to engage now that OpenAI appears to be making an effort, particularly after so many criticized the company’s conduct and poor communications. The group has yet to settle on the advice it intends to provide, he said, but there is a clear problem it is responding to: “It is a fact that AI companies have in recent months been producing some high profile mathematical results and that their publication and dissemination has been falling far short of acceptable mathematical practice, whichever way that is defined.”\n\n“We are currently facing the very specific challenge of advising OpenAI on how to coordinate the release of a large number of significant results in mathematics that they report have been produced by their internal model.”\n\nFor now, Hairer said the group is gathering input through conversations with colleagues, a public feedback form, and discussion on Proofs and Prompts, a blog that has emerged as a key forum for mathematicians reckoning with AI’s impact on the field.\n\nBut the group’s biggest challenge likely lies ahead. When announcing the advisory group, OpenAI casually dropped the news that its new, unreleased model — the same that resolved the Navier-Stokes Millennium Prize problem — has now “resolved more than 100 long-standing open problems across most areas of mathematics.” It has previously said it is closing in on another Millennium Prize problem. On its website, the group said dealing with this logjam is its first priority: “We are currently facing the very specific challenge of advising OpenAI on how to coordinate the release of a large number of significant results in mathematics that they report have been produced by their internal model.”\n\nIn part, the new effort at engaging mathematicians is an acknowledgement of the monumental PR disaster its attempt was, in which the company found itself fending off accusations of scooping researchers, failing to credit the human work its models built upon, and even stealing from those using its models. Those controversies led many mathematicians to wonder if the company understood — or even respected — the discipline and community it had barreled into.\n\nAfter the last few months and with so much having been written about what mathematicians want, Kevin Buzzard, a mathematics professor at Imperial College London, wondered why OpenAI felt like it needed such an elite body to understand what the community wants. “It wasn’t proofs of hard theorems, it was better understanding of our subject,” he said. “It’s not entirely clear to me that you need a committee of brilliant people to hammer the point home.”\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T00:17:17.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+          }
+        ]
+      },
+      {
+        "id": "story-e-manipulation-risk-html-2847cbc176b9f60b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:58:16.000Z",
+        "pubTime": "2026-09-23 08:58",
+        "url": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
+        "imageUrl": null,
+        "fullContent": "The Commodity Futures Trading Commission advised some of its regulated entities on Tuesday that prediction markets' \"mentions\" contracts are at greater risk of manipulation.\n\nIn a press release announcing the letter it sent to designated contract market entities, the CFTC said that the contracts are more susceptible to exploitation \"because their settlement turns on the discrete conduct of a person that may be neither independently generated nor externally verifiable.\"\n\nThe letter noted that the agency was not creating new obligations that regulated exchanges need to follow, but rather advising entities on when mention markets may be listed consistent with the Commodity Exchange Act, the law that governs the assets that the CFTC regulates.\n\nMention markets — which are made up of contracts that ask traders what specific words will be used in a speech, a corporate earnings call or during a television broadcast — have come under scrutiny by the CFTC. CNBC reported in August that the agency was conducting an internal review into the contract type, and that platform Kalshi pulled its sports-related mention markets in response to the inquiry.\n\nKalshi is one of the few U.S. regulated platforms that features mention markets. Its chief rival, Polymarket, only features them on its international exchange, which is not regulated by the CFTC.\n\n\"We've addressed this guidance based on a prior discussion with the CFTC,\" Kalshi spokesperson Elisabeth Diana said in a statement.\n\nMention markets also generated headlines in July after news reports that a longtime teleprompter operator for President Donald Trump profited off of trades on Kalshi related to contracts on mention markets that were tied to the president's statements. Gabriel Perez, the teleprompter operator, settled with the CFTC in August and was forced to pay a $172,539 fine for insider trading on a prediction market.\n\nIn the letter, the CFTC advised that exchanges listing mention markets should consider four factors: what outside obligations the subject of the mention market may have; external pressure that could influence the subject's speech or conduct; whether the words or actions used for settlement are independently verifiable; and whether there are adequate oversight measures in place to detect manipulation on the contracts.\n\nThe CFTC added that it encourages exchanges to engage with the agency's division of market oversight while in the early phases of designing mention market contracts on how to mitigate manipulation risks.\n\nDisclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【CNBC Markets (CNBC 市场官方英文)】于 2026-09-23 08:58 发布，当前内容状态：已取得正文证据",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T00:58:16.000Z",
+            "url": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html"
+          }
+        ]
+      },
+      {
+        "id": "story-p-lang-lua-general-75426-33515a487c0c56e8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Re: Suggestions on implementing an efficient instruction set simulator in LuaJIT2 (2011)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:32:59.000Z",
+        "pubTime": "2026-09-23 08:32",
+        "url": "https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 08:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426",
+            "publishedAt": "2026-09-23T00:32:59.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ents-squabbles-kids-html-5c53020156016465",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How can parents handle squabbles between kids?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T01:00:03.000Z",
+        "pubTime": "2026-09-23 09:00",
+        "url": "https://phys.org/news/2026-09-parents-squabbles-kids.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/rohan-called-me-an-idi.jpg",
+        "fullContent": "School vacations inevitably mean more squabbles. Longer days together, less structure and more sharing (of toys, screens, space and parental attention) all lead to children demanding that you referee fights and arguments.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-23 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-parents-squabbles-kids.html",
+            "publishedAt": "2026-09-23T01:00:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-moskva-2119635738-html-d3c03fff1152834d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Москве рассказали, когда в столицу прилетят свиристели",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-23T01:27:53.000Z",
+        "pubTime": "2026-09-23 09:27",
+        "url": "https://ria.ru/20260923/moskva-2119635738.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e5/0b/1d/1761209569_0:237:2982:1915_650x0_80_0_0_fbf132e06b1849e8102f82edb454163a.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-23 09:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260923/moskva-2119635738.html",
+            "publishedAt": "2026-09-23T01:27:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-cc-expanding-to-groups-e78be4774342acdb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The new CC, an AI agent built for families",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T23:46:07.000Z",
+        "pubTime": "2026-09-23 07:46",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+        "imageUrl": null,
+        "fullContent": "Google Labs introduces a new experimental agent built for families, helping households spend less time on logistics and more time together.\n\nSenior Product Manager, Google Labs\n\nYour browser does not support the audio element.\n\nGoogle is launching an AI agent called CC to help families manage busy household schedules. You can invite up to six members to share information, allowing the agent to organize calendars, track tasks, and handle logistics like meal planning or registration forms. If you are in the U.S., look for an email to upgrade your account or join the waitlist to start using it today.\n\nWhen we launched CC, our goal was to build a personal agent that helps you get ahead of your day. It quickly became a daily habit for many early testers and in May we brought it to the Gemini App as Daily Brief.One of our top user requests was for CC to do more to help run a busy home. Between school schedules, sports practices, paying bills, and figuring out what’s for dinner, managing a household is often a shared responsibility with a lot of coordination, made even more challenging with information spread over multiple user accounts.Today, CC is becoming an agent for families and households. It has its own Google account that gives CC a distinct identity and clear permissions model, enabling up to six members to manage and collaborate with the agent. CC only sees what each member chooses to share, such as emails from your child’s school, the local swim center, or the vet. It automatically sorts through them and creates a shared daily brief and connects to Calendar and Tasks, helping families spend less time coordinating logistics and more time just being together.How CC can help families save timeWith shared context in one place, CC helps keep daily routines for groups such as families and households running smoothly:Start the morning aligned: Each morning, CC delivers a shared “Your Day Ahead” brief. Instead of family logistical information staying trapped in one person’s inbox or mental checklist, everyone gets a clear view of who needs to be where, what needs to be done, and what CC already completed yesterday.\n\nWhen we launched CC, our goal was to build a personal agent that helps you get ahead of your day. It quickly became a daily habit for many early testers and in May we brought it to the Gemini App as Daily Brief.\n\nOne of our top user requests was for CC to do more to help run a busy home. Between school schedules, sports practices, paying bills, and figuring out what’s for dinner, managing a household is often a shared responsibility with a lot of coordination, made even more challenging with information spread over multiple user accounts.\n\nToday, CC is becoming an agent for families and households. It has its own Google account that gives CC a distinct identity and clear permissions model, enabling up to six members to manage and collaborate with the agent. CC only sees what each member chooses to share, such as emails from your child’s school, the local swim center, or the vet. It automatically sorts through them and creates a shared daily brief and connects to Calendar and Tasks, helping families spend less time coordinating logistics and more time just being together.\n\nWith shared context in one place, CC helps keep daily routines for groups such as families and households running smoothly:\n\nAdd family members to your CC and pull in relevant information for Your Day Ahead brief, delivered right to your inbox.\n\nOffload event and task management: CC automatically tracks important dates and to-dos, pulling relevant shared information from across your group into a family Calendar or Task list, and helps keep them up to date even as things change.\n\nCC can automatically add calendar events based on what your family shares.\n\nHave CC handle it: CC can also help you complete time consuming logistical tasks involved in running a family, such as filling out permission slips or activity registration PDFs, creating school supply shopping lists, or crafting weekly meal plans. CC will ask for missing details and update its group memory so it can be even more helpful next time.\n\nCC can take action, like filling out forms, with your permission.\n\nHow CC works, while keeping you in controlCC now has its own verified Google Account: This is how CC will show up when it interacts with the group. It only responds to group members, and will not take action or share information outside the group without your permission.You choose what to share: Each member can easily choose what to share with CC and what to keep private, and can make changes at any time.Auto “cc” CC: Pick the email senders that you always want to share with CC going forward, like your kids’ school or travel bookings. Each week, you’ll also receive a private list of new email senders that you can choose to share with CC.Send it to CC: When a one-off email comes or you get a text message with information, you can offload it to CC. For example, you can send a picture of a birthday party invite or soccer practice schedule via email or Google Chat so CC can update the Calendar. You can also share a Drive folder or files with CC or add CC to a Calendar.\n\nEasily control what you share with CC.\n\nMeeting you where you are: CC connects with the Google tools you use every day, like Gmail, Chat, Docs, and Calendar. Behind the scenes, every CC runs on its own isolated cloud computer powered by Google’s agentic harness, Antigravity, and the latest Gemini models. This allows CC to handle tasks like pre-filling class registration PDF forms, checking live drive times from the Google Maps API between back-to-back activities, or creating shared Docs and Sheets.CC has a shared memory. As you use it, CC remembers what applies to the whole household (like your go-to grocery list or favorite family restaurants) versus what belongs to one person (like dietary preferences or local timezones).CC is an early experiment from Google Labs, available on web and mobile for people (18+) in the U.S with a personal Google account. Existing users will receive an email in the coming days to upgrade their account and new users can join the waitlist.\n\nCC is an early experiment from Google Labs, available on web and mobile for people (18+) in the U.S with a personal Google account. Existing users will receive an email in the coming days to upgrade their account and new users can join the waitlist.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将CC定位为帮助家庭和群体集中处理日程、任务及生活事务的AI代理，重点强调共享信息、自动生成每日简报、管理日历和任务、填写表格、制定购物清单与膳食计划等效率收益；同时通过独立Google账号、成员授权、可选择共享信息和仅在群组内行动等设计，强调用户控制与权限边界。产品被描述为Google Labs的早期实验，仅面向美国、18岁以上的个人Google账号用户，采用升级邀请或候补名单方式开放。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T23:46:07.000Z",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
+          }
+        ]
+      },
+      {
+        "id": "story-e-than-beijing-does-html-529c82410f88de29",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Washington Needs This LNG Deal More Than Beijing Does",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:00:00.000Z",
+        "pubTime": "2026-09-23 08:00",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Washington-Needs-This-LNG-Deal-More-Than-Beijing-Does.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nUS Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold\n\nA new Nebraska biogas plant…\n\nThe field’s location near Syria…\n\nBuyers are rapidly diversifying supply,…\n\nCharles is a writer for Oilprice.com\n\nXi Jinping arrives in Washington September 24, prepared to discuss reviving a $6 billion-a-year trade in US liquefied natural gas, contingent on lifting a 15% Chinese tariff that has blocked American gas since Q1 2025. Iranian missiles destroyed 17% of Qatar's LNG export capacity in March, and China absorbed that shock by buying more from everyone except the United States: Australia took 36% of its LNG imports from January through July, Southeast Asia 20%, Russia 12%, and Canada, a new entrant, 4%, according to Banchero Costa data. American cargoes made up 0.2%. Beijing's 15% tariff, imposed in February 2025, days into Trump's second term, cut recorded US LNG shipments to China from 64 vessels in 2024 to zero in 2025. At their 2021 peak, US cargoes made up 12% of China's total LNG imports, worth $6.2 billion that year. None of the underlying contracts were canceled. Chinese buyers kept honoring them, but then resold the cargoes into Europe and Asia rather than pay the tariff to deliver them home.\n\nIranian missiles struck Qatar's Ras Laffan Industrial City on March 18-19, destroying two of Qatar's 14 LNG production trains and a gas-to-liquids facility, costing the country an estimated $20 billion a year in lost revenue. The damage knocked out roughly 17% of Qatar's export capacity, with repairs estimated at up to five years. QatarEnergy declared force majeure on long-term contracts, an order later extended into August as repairs ran long. A second explosion hit the same complex on June 22 during restart operations, killing at least 13 workers, all from India and Pakistan. Qatar claimed the blast was a technical malfunction, not sabotage or a renewed attack.\n\nRelated: Saudi Arabia Restarts East-West Oil Pipeline\n\nBut since then, Qatar has had to buy its way around its own shortfall. It purchased nearly three dozen US spot LNG cargoes from Venture Global, the same U.S. producer China just signed a long-term deal with, to keep its own delivery commitments to Japan, South Korea, India, Bangladesh, and Taiwan.\n\nOnly a Fraction of China's LNG Imports\n\nThe $6 billion figure attached to this trade is a 2021 number, not a current one. American cargoes made up 0.2% of China's LNG imports between January and July this year, per Banchero Costa data cited by Forbes. The war that opened this opportunity has cost the U.S. $38 billion+ in its first four months alone.\n\nChina Gas Holdings signed a 20-year deal with Venture Global on September 14 for 500,000 metric tons of LNG a year, with deliveries starting in 2030, with Beijing's 15% LNG tariff still in force the day it was signed. That volume covers well under 1% of China's total 2025 LNG imports of 68.43 million tons.\n\nWashington is treating the contract as evidence a tariff breakthrough is close, but the contract itself sets no tariff terms and requires none. Deliveries begin in 2030, giving Beijing four years to remove the tariff, renegotiate it, or leave Chinese buyers reselling their US cargoes elsewhere, the arrangement that has held since 2025. China Gas secured supply without committing to import a single cargo under the current tariff regime.\n\nChinese companies already hold close to 25 million tonnes a year of US LNG offtake, signed since 2018 under 20 to 25 year contracts, according to Forbes. Fifty times more supply was already under contract before this 500,000 tonnes deal existed.\n\nIn the meantime, three major forecasters have cut China's LNG demand outlook by 14 to 22 million tons for the early 2030s: S&P Global, Wood Mackenzie, and JPMorgan. China's own 2025 total, 68.43 million tons, was a three-year low. Reuters attributes the decline to Beijing shifting toward piped gas and renewables.\n\nWashington and Beijing are discussing a package that would lower tariffs on roughly $30 billion of each side's exports, LNG among them, ahead of the September 24 summit.\n\nHowever, a tariff cut would restore a trade once worth $6.2 billion at 2021 prices into a market that no longer resembles 2021. Now, we’re looking at lower Chinese demand forecasts and a bigger role for piped gas and renewables. China spent the tariff years building supply relationships with Australia, Southeast Asia, Russia, and Canada instead of the U.S.Reuters estimates 24.5 million tonnes a year of Gulf Coast LNG capacity now under construction has no long-term buyer.\n\nCheniere's 2022 agreement with PetroChina committed 1.8 million tonnes a year through 2050, with roughly half that volume conditional on a positive FID for additional Corpus Christi capacity. Cheniere approved that expansion (Midscale Trains 8 and 9), in June 2025, and the Chinese contract helped determine whether the project moved forward or not.\n\nVenture Global was already at 91% contracted for 2026 and 75% for 2027 before China Gas signed anything. And the China Gas deal doesn’t apply until 2030.\n\nBy Charles Kennedy for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nQatar’s LNG Loss Revives Projects From Argentina to Timor-Leste\n\nSaudi Export Pivot Sends Brent Below $105\n\nBig Oil’s Production Keeps Soaring Despite Deep Spending Cuts\n\nInside Putin’s $135 Billion Arctic Gamble That Could Save His Ukraine War\n\nRussia Cuts Off Gas to Armenia Days After Diversification Announcement\n\nThe Oil Market’s Backup Plan Is Breaking Down\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "习近平定于9月24日抵达华盛顿，准备商讨恢复每年价值约60亿美元的美国液化天然气（LNG）贸易，前提是取消2025年第一季度起实施的15%中国关税。",
+          "伊朗导弹于2026年3月18日至19日袭击了卡塔尔拉斯拉凡工业城（Ras Laffan Industrial City），摧毁了14条LNG生产线中的2条及一座天然气制油设施，破坏了约17%的出口产能，估计损失年收入200亿美元，修复期估计长达五年。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Natural-Gas/Washington-Needs-This-LNG-Deal-More-Than-Beijing-Does.html"
+          }
+        ]
+      },
+      {
+        "id": "story-en-blog-2026-0813-16xy2v-5beabbd0a9bbd7ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Measuring Taiwan’s Mobile Slowdown with OONI in Taipei",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:29:07.000Z",
+        "pubTime": "2026-09-23 08:29",
+        "url": "https://mashbean.net/en/blog/2026/0813-16xy2v/",
+        "imageUrl": null,
+        "fullContent": "Published: 2026-08-13 · 9 min read\n\nTranslated from the Chinese original — read in 中文 →\n\nTaiwan’s announced throttling drill ended at 15:00. At this Taipei observation point, Taiwan Mobile 4G still measured only 55 kbit/s at 15:08 and the streaming test timed out at 15:10. A complete retest at 17:47 measured 30 Mbit/s and completed DASH, Tor, and Snowflake.\n\nTaiwan’s mobile-network throttling drill ended at 15:00 on 13 August 2026. At this Taiwan Mobile 4G observation point in Taipei, download still measured 55.2 kbit/s at 15:08, and the streaming test beginning at 15:10 timed out.\n\nA complete retest at 17:47 measured 30.1 Mbit/s down and completed the streaming, Tor, and Snowflake tests. The observation indicates that the slowdown persisted beyond the announced end and that usable transfer capacity returned later.\n\nThis report covers one SIM, one observation point, and several measurement times. It cannot represent all of Taipei or establish the exact recovery time.\n\nThe three NDT runs show a clear sequence. Throughput was high before the drill, downstream service remained extremely constrained eight minutes after the announced end, and the 17:47 retest returned to a functional transfer rate. The tests used different Measurement Lab (M-Lab) servers, and signal strength and serving-cell state were not independently recorded. The chart supports order-of-magnitude and usability comparisons, not a continuous cell-throughput curve.\n\nThe Executive Yuan described the exercise as a simulation of constrained communications during natural disasters, large-scale cyberattacks, or compound emergencies. The northern exercise covered Keelung, Taipei, New Taipei, Taoyuan, Hsinchu City, Hsinchu County, and Yilan. Voice, SMS, text transmission, 110/119 emergency calls, and cell broadcasts were expected to remain operational. Video streaming, video calls, mobile payments, and cloud synchronization could be affected.\n\nTaiwan’s Executive Yuan notice confirms the time and area. An Anoni.net community measurement guide records the published download ceiling as 256KB. The source notation does not clearly distinguish KB/s from kbit/s, so this report preserves it as written.\n\nBecause the time, geography, and participating operators were announced in advance, the exercise offered an unusual window for community measurement. This observation addressed three questions.\n\nOfficial information contained a schedule discrepancy. A few earlier local-government pages listed 13:30–14:00, while the 23 July Executive Yuan notice and newer local notices consistently listed 14:30–15:00. This report uses the later schedule.\n\nOONI stands for the Open Observatory of Network Interference, an open-source project for measuring internet performance and interference. NDT, the Network Diagnostic Test, measures download, upload, and latency. DASH, Dynamic Adaptive Streaming over HTTP, simulates adaptive video streaming.\n\nTor is an anonymity network that routes traffic through multiple relays. Snowflake is a Tor pluggable transport that connects through short-lived proxies run by volunteers. An ASN, or Autonomous System Number, identifies the network operator carrying a measurement.\n\nOONI’s Tor test checks reachability of directory authorities and obfs4 bridges. obfs4 is an obfuscation protocol designed to make Tor traffic harder to identify. The Snowflake test records bootstrap progress, meaning how far Tor has progressed in starting and connecting to its network. OONI’s data interpretation guidance recommends reading individual results together with network, time, and repeated-measurement context.\n\nNDT is operated by M-Lab. M-Lab stores the public IP address and time associated with a test in its public research dataset. Neither this report nor the downloadable safe dataset exposes that address. M-Lab NDT documentation\n\nThe NDT and DASH runs at 14:35 used a fixed-line exit and were excluded from the mobile analysis. The valid event-window mobile result is the 14:53 Tor measurement. Post-window tests ran from 15:08 to 15:23, followed by a complete retest from 17:47 to 17:49. The safe dataset retains scheduled time, actual time, status, and exclusion reason.\n\nAt 15:08, download was about 0.039% of the pre-drill result and upload was about 10.0%. Downstream impairment was far stronger. At 17:47, download measured 30.1 Mbit/s and upload measured 20.3 Mbit/s, with NDT completing in 25 seconds. Download had increased 546-fold and upload 14.5-fold from the first post-window result.\n\nThe 15:08 record reports both ping and average RTT as zero, conflicting with test runtime and the other fields. This report treats those values as missing. All three runs report zero retransmit rate; that field alone cannot explain the throughput difference.\n\nThe 17:47 DASH test completed successfully, with median bitrate at about 42% of the single pre-drill value. The OONI output used here does not expose a display unit that can be safely confirmed for this bitrate field, so the table preserves the raw values. Completion supports restored streaming-test functionality; server path and radio conditions still affect the numeric comparison.\n\nAll five valid Tor measurements reported directory reachability of 10/10, directory-authority OR-port reachability of 10/10, and obfs4 reachability of 4/14. Runtime rose from 69 seconds before the drill to 96 seconds near the end of the event and 124 seconds at 15:15, then fell to 78 seconds at 15:21 and 67 seconds at 17:48. Reachability counts remained stable while runtime increased around the event and returned close to the pre-drill value later.\n\nSnowflake reached 100% bootstrap in all three runs. Bootstrap time was 6.68 seconds before the drill, 17.29 seconds at 15:18, and 12.78 seconds at 17:49. Total runtime was 11, 25, and 16 seconds. These results establish that Tor over Snowflake could connect at those moments. They do not cover sustained browsing, calls, or large transfers.\n\nAt 17:47, download was far above the 55 kbit/s throttle-level result and DASH completed, supporting functional recovery. Download was 21% of the single pre-drill result and DASH median bitrate was about 42%. One vantage point, different servers, and unrecorded radio conditions prevent direct attribution of those ratios to residual throttling. Confirming full restoration would require a fixed device and position with at least two consecutive results near a defined baseline threshold.\n\nTor directory access and Snowflake bootstrap succeeded near the end of the event and afterward. The constrained network still allowed these tools to establish connections, while longer runtimes meant longer waits. Evaluating access to shelter information, message exchange, or practical use of an anonymous channel also requires small text-page success rates, time to first byte, full load time, and connection persistence.\n\nA stronger protocol should cover all three mobile operators, multiple locations, and independent SIMs. During the event, each site should use the same NDT, DASH, Tor, and Snowflake sequence. After the announced end, NDT and DASH should repeat every five minutes until two consecutive sets return to a defined share of baseline. Each result should include signal strength, radio band, and serving-cell changes. Local scheduling should continue through connectivity loss, and failed tests should remain in the dataset.\n\nOfficial technical guidance should use an unambiguous unit such as kbit/s or kB/s, state downlink and uplink targets separately, define a restoration deadline, and publish aggregated recovery statistics for all three operators. Communications resilience reporting should cover service continuity, degradation magnitude, and restoration time.\n\nThe safe CSV preserves municipality, scheduled and actual times, ASN, operator, test, status, traffic, and requested result fields. It contains no public IP address, OONI UID, or Measurement URL. OONI data are cited under the project’s CC BY-NC-SA 4.0 data licence.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T00:29:07.000Z",
+            "url": "https://mashbean.net/en/blog/2026/0813-16xy2v/"
+          }
+        ]
+      },
+      {
+        "id": "story-rebranded-addictive-html-4b75068de1e83035",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How the pro‑nicotine 'wellness' movement rebranded an addictive drug",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:00:01.000Z",
+        "pubTime": "2026-09-23 08:00",
+        "url": "https://phys.org/news/2026-09-pronicotine-wellness-movement-rebranded-addictive.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2024/nicotine-pouch.jpg",
+        "fullContent": "An ironic development emerging alongside the \"Make America Healthy Again\" movement is the portrayal of nicotine as a wellness and performance-enhancing product. Across social media, podcasts, wellness communities and tech startups, prominent wellness personalities and other influencers are portraying nicotine as a misunderstood compound whose potential benefits have been overshadowed by its negative association with cigarette smoking.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-23 08:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-pronicotine-wellness-movement-rebranded-addictive.html",
+            "publishedAt": "2026-09-23T00:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-medved-2119635596-html-e6dd61f8dbff1ede",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Власти предупредили о выходе медведя в Курильске",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-23T01:24:57.000Z",
+        "pubTime": "2026-09-23 09:24",
+        "url": "https://ria.ru/20260923/medved-2119635596.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/152187/58/1521875811_0:67:1280:787_650x0_80_0_0_2741aa1bdd3473ce974f718287c17c86.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-23 09:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260923/medved-2119635596.html",
+            "publishedAt": "2026-09-23T01:24:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--in-boston-on-november-4-b25fe2c5917bd456",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T23:21:49.000Z",
+        "pubTime": "2026-09-23 07:21",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "imageUrl": null,
+        "fullContent": "On November 4, TechCrunch’s Founder Summit will bring a vital one-day crash course on startup building to Boston’s SoWa Power Station. Founders shouldn’t have to learn the hardest lessons the hardest way, and this event is designed to make the challenges of starting a company easier and the highs that much greater.\n\nInstead of months of trial and error, you get direct access to the investors and founders who’ve already made the calls you’re now facing. We’re talking everything from fundraising and hiring to AI strategy, and topping your category.\n\nDon’t take our word for it. Explore the full agenda of speakers and sessions we have planned for Founder Summit below, and lock in your spot at the event. All tickets are available for the lowest prices you’ll see, so now’s the best time to act.\n\nWithout further ado, here’s the official agenda. Get to know each session and speaker on the event agenda page.\n\nFundraising has never been easy, but the playbook keeps changing. Brian Devaney, partner at Underscore, will break down what investors are looking for now, how founders can stand out in a crowded market, and where founders often lose leverage without realizing it. Expect a candid look at today’s fundraising environment, from first checks to term sheets, and the mistakes that can make or break a round.\n\nThe title may stay the same, but the job changes with each stage of a company’s growth. HubSpot co-founder and Sequoia partner Brian Halligan will share the lessons he’s learned from building and advising startups through rapid growth, tough decisions, and constant reinvention.\n\nThis session explores how founders can evolve as CEOs, avoid common leadership pitfalls, and build companies that can thrive well beyond the early days.\n\nAdding AI features is one thing. Building an AI-native company is something else entirely. Lior Div, co-founder and CEO of 7AI, will explore what changes when AI becomes the foundation of a startup rather than a product enhancement. From team structure and product development to operations and go-to-market strategy, this session examines what founders should rethink when building in the AI era.\n\nRaising capital is often framed as a milestone, but choosing the right investors can shape a company’s future long after the money arrives. After raising an $11 million round for Cogent Security, co-founder and CEO Vineet Edupuganti learned firsthand what separates helpful partners from costly distractions. This session explores how founders should evaluate investors, navigate trade-offs, and think beyond valuation when building their cap table.\n\nInnovation is needed to solve the world’s biggest challenges, but only certain companies can realistically become category-defining winners at industrial scale. In this session, TDK Ventures investment director Tina Tosukhowong unpacks the firm’s “King of the Hill” framework: the disciplined process that the best investors use to evaluate companies based on economics, scalability, and commercial timing.\n\nThrough real-world examples, including Tina’s exploration of fission and fusion, attendees will learn actionable frameworks for evaluating startup readiness, mapping competitive landscapes, and identifying when timing, talent, and technology align.\n\nEarly hiring decisions can define a startup’s culture, speed, and ability to execute. Melissa Taunton, partner at NEA, will share lessons from working with founders as they build teams through periods of rapid growth and uncertainty.\n\nFrom identifying the right early hires to avoiding common recruiting mistakes, this session explores how founders can build organizations that are resilient, adaptable, and prepared for what comes next.\n\nSilicon Valley gets the headlines, but Chase Garbarino has been quietly building category-defining companies from Boston for over a decade. As co-founder and CEO of HqO, he has raised $200 million from investors and scaled to 30+ countries without ever needing to change geographies.\n\nHe’ll break down the real advantages and disadvantages of building where the startup playbook wasn’t written, and what every founder outside a major hub should know.\n\nEvery founder wants product-market fit, but knowing when you’ve actually found it is far more complicated. Kent Bennett, partner at Bessemer Venture Partners, will unpack how founders can validate demand, build an MVP that answers the right questions, and avoid scaling before the fundamentals are in place.\n\nThis session explores the signals that matter, the metrics that mislead, and the decisions that separate enduring companies from expensive experiments.\n\nThe programming is a huge part of TechCrunch Founder Summit’s value, but it’s not the whole deal. You’ll also get the chance to mix and mingle with founders working through the same fundraising decisions and the same hiring calls as you, and then network with those who have already lived through those experiences. Or better yet … those who have funded those who have gone through the startup wringer.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nGoogle’s new ‘CC’ is an AI agent that helps families run their households\n\nPrismML hopes its tiny LLM will change how we all use AI\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T23:21:49.000Z",
+            "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+          }
+        ]
+      },
+      {
+        "id": "story-mp-xi-dinner-so-far-html-95aec973a7336354",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here's who we know is going to the Trump-Xi dinner so far",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T23:43:43.000Z",
+        "pubTime": "2026-09-23 07:43",
+        "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — With two days to go before Chinese President Xi Jinping is expected to land in the U.S., very little is known about which, if any, Chinese executives will join him.\n\nChina's Ministry of Foreign Affairs said in a statement to CNBC Tuesday it had no information to provide. Late on Monday, the ministry confirmed Xi's U.S. trip, planned for Wednesday to Friday.\n\nSomeone briefed about the preparations but who wasn't authorized to speak on the record said they weren't aware of any Chinese companies who have been invited to join the Chinese president on his trip.\n\nOn the U.S. side, Microsoft CEO Satya Nadella is one of the executives who will attend a dinner expected Thursday in Washington, D.C., according to a source familiar.\n\nMicrosoft and the White House did not respond to a CNBC request for comment.\n\nSenior U.S. officials have shared names of some other executives who will join:\n\nThose business leaders include:\n\nOn the Chinese side, Reuters reported last week that business representatives under consideration included those from electric car giant BYD, smartphone company Xiaomi, battery makers CATL and Gotion, consumer electronics manufacturer Hisense, automotive parts company Wanxiang, state-owned Bank of China and agricultural conglomerate COFCO Group.\n\nBYD had no comment when contacted by CNBC. The other Chinese companies did not immediately respond to requests for comment.\n\n\"Whether or not BYD participates in the Trump-Xi meetings this week will send a strong signal about the possibility of Chinese EVs in America, and how important Xi views EVs in China's overseas expansion strategy,\" said Isaac Stone Fish, founder and CEO of U.S.-based advisory Strategy Risks.\n\nXi could bring the heads of state-owned enterprises, \"but those are government officials, who in some cases are effectively ministers in the Chinese government,\" he said. \"That may seem to the US as unfairly blurring the lines between a business delegation and a government delegation, and SOEs are on the whole less welcome investors in the US than private companies.\"\n\nAs tensions between the U.S. and China have escalated in recent years, both governments have put companies from the other country on blacklists that restrict business activity.\n\n—CNBC's Jordan Novet and Ashlee Trujillo contributed to this report.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕习近平访美及其与特朗普预期晚宴，梳理可能出席的中美企业高管，突出中方参会信息有限、企业名单尚未确定，以及企业是否出席可能被解读为中美经贸关系和中国电动汽车进入美国市场意愿的信号。文中将国有企业负责人可能兼具政府官员身份这一问题作为中美商业代表团认知差异的背景。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T23:43:43.000Z",
+            "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-6a42bf98eb57c354",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Language Designers Panel - Bjarne Stroustrup, Guido van Rossum, Mads Torgersen & Emma Tracey",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T23:15:15.000Z",
+        "pubTime": "2026-09-23 07:15",
+        "url": "https://www.youtube.com/watch?v=HFcTjwfpHWQ",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 07:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://www.youtube.com/watch?v=HFcTjwfpHWQ",
+            "publishedAt": "2026-09-22T23:15:15.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-2-93de-1300749a858a-html-e18c57c5e15f4bc9",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Teheran, 'pronti a infliggere ad aggressori colpi devastanti e imprevedibili'",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-23T01:29:38.000Z",
+        "pubTime": "2026-09-23 09:29",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/teheran-pronti-a-infliggere-ad-aggressori-colpi-devastanti-e-imprevedibili_9efaaf6e-8223-4532-93de-1300749a858a.html",
+        "imageUrl": null,
+        "fullContent": "Lo Stato Maggiore delle Forze Armate iraniane e il Quartier Generale Centrale Khatam al-Anbiya - la più alta unità di comando operativo della Repubblica Islamica - hanno avvertito che il Paese infliggerà agli aggressori colpi \"ancora più duri, devastanti e imprevedibili\", in risposta alle più recenti minacce del presidente statunitense Donald Trump. La notizia è riportata su Telegram dall'iraniana Press Tv.\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "伊朗武装部队总参谋部和哈塔姆·安比亚中央总部警告称，该国将对侵略者予以“更沉重、更具毁灭性且不可预测”的打击，以回应美国总统唐纳德·特朗普近期的威胁。",
+          "哈塔姆·安比亚中央总部是伊朗伊斯兰共和国的最高作战指挥机构。",
+          "来源叙事重点：聚焦伊朗武装部队总参谋部和哈塔姆·安比亚中央总部对美国总统特朗普近期威胁作出的强硬回应，突出伊朗可能实施“更沉重、更具毁灭性且不可预测”打击的警告。报道主要呈现伊朗方面的回应框架，未交代特朗普威胁的具体内容。"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-23T01:29:38.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/teheran-pronti-a-infliggere-ad-aggressori-colpi-devastanti-e-imprevedibili_9efaaf6e-8223-4532-93de-1300749a858a.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ite-mathematicians-panel-a86391fe9862bd89",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:17:17.000Z",
+        "pubTime": "2026-09-23 08:17",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\n‘The group will advise on the review and communication of emerging results.’\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Robert Hart\n\nAfter turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward.\n\nOn Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told The Verge the group is a good first step, but many said they were left with basic questions about what it will actually do, how much influence it will have, and whether OpenAI will actually listen to it, as well as concerns over whether such a small group of prominent researchers can represent the wider mathematical community.\n\nThe nine-member group is stacked with who researchers described to The Verge as celebrities in the field, drawn from institutions including Stanford, Harvard, Oxford, and Cambridge, with multiple Fields Medals and MacArthur “genius grants” among them. It will be hosted by Princeton, New Jersey’s Institute for Advanced Study (IAS), one of the world’s most revered centers of mathematical research and the former intellectual home of figures including Albert Einstein, John von Neumann, and J. Robert Oppenheimer.\n\n“The other fundamental fact is that our overarching aim is to represent as well as we possibly can the interests of the mathematical community.”\n\nOpenAI said the group, called the Advisory Group on Mathematics and Artificial Intelligence (AGMAI), will operate independently, with the freedom to offer advice the company has not requested, publicly comment on its impact on mathematics, and make its advice public, though it did not provide details on what this may entail. It appears that the group will be granted early access to OpenAI’s research in order to fulfill its task. Members will not be paid by OpenAI and the group can change its membership as it sees fit, OpenAI said. “Its value depends on its members being able to exercise their own judgement and challenge ours,” the company said. “The group will advise on the review and communication of emerging results: they will help OpenAI assess their significance, advise on how to coordinate their dissemination, and advise on academic and professional standards of mathematical research. It will also advise on how our tools can support mathematical research and learning.”\n\nFor all the emphasis on independence, it remains unclear how much influence the group will actually have or why it was formed in the first place. Simon Machado, a researcher at ETH Zurich in Switzerland, said the whole thing seemed “shrouded in mystery” and he questioned how the nine members were selected. The group’s bare-bones website says it “came together after OpenAI approached some of its members about establishing an external advisory board,” but that, following discussions with the company, the mathematicians decided to launch an independent group instead and invite others to join. It’s not clear which members were initially approached by OpenAI or how the remaining members were selected.\n\nIn a blog post published Tuesday, advisory group member Martin Hairer elaborated on the group’s origins and the thinking behind it, responding to what he called a “torrent of misinformation” surrounding its formation. “It is obvious that AI has already had a profound impact on mathematical research and raises numerous questions of correct attribution of ideas, priority, human understanding of ideas, etc.,” he wrote, adding that there is no sense in the community “taking a hard ‘ostrich’ approach of simply ignoring the AI labs and refusing to talk to them on principle.”\n\nWhile acknowledging that the group was formed in response to an approach from OpenAI, Hairer stressed that not all of its members had been contacted by the company and that the resulting organization is “genuinely independent of OpenAI and any other of the so-called ‘frontier’ AI labs.” Beyond “obvious confidentiality requirements,” he said members have not signed any restrictive agreements governing what they can say publicly, adding that they receive no financial compensation and are relying on the IAS for technical support.\n\n“The other fundamental fact is that our overarching aim is to represent as well as we possibly can the interests of the mathematical community,” wrote Hairer, a professor of mathematics at Imperial College London and the Swiss Federal Institute of Technology in Lausanne (EPFL). While noting that the group is hardly a representative sample of the community, he said he is “absolutely certain that all nine of us take this extremely seriously and are acting in good faith.”\n\nHowever the members were selected, the group currently comprises an elite cadre of academic mathematicians. The small size raises further questions about whether the group has the breadth of expertise required to evaluate everything coming its way, given the highly specialized skills and knowledge required to operate at the frontiers of mathematics.\n\nFrancesco Fournier-Facio, an incoming mathematics professor at Heriot-Watt University in Scotland, described himself as pretty “ambivalent” about the panel, saying that greater engagement with mathematicians “can only make things better.” But he questioned whether this group fully reflects the community whose work and livelihoods are being upended by OpenAI’s quest to rack up mathematical trophies. “It feels like an ivory tower,” he told The Verge.\n\nMachado similarly questioned whether the group’s members fully understand, or can speak to, the concerns of the broader mathematical community when it comes to AI. “They’re amazing mathematicians, but I don’t know if they are the people I want to represent me in more political questions,” he said. For mathematicians in their and similarly elite positions, Machado said, “I think that the reality they are facing is very different from the reality that most mathematicians are facing right now.”\n\nWhether the group can earn mathematicians’ trust will ultimately determine how effective it will be at containing the fallout from OpenAI’s recent parade of missteps in announcing results and, more importantly, soften the blow for whatever the company is planning to announce next. In his blog, Hairer said members would “be very naïve to believe that the AI labs won’t try to spin whatever we say in a way that suits their PR machine, which dwarfs anything we could possibly come up with.”\n\nNevertheless, Hairer argued it would be hypocritical not to engage now that OpenAI appears to be making an effort, particularly after so many criticized the company’s conduct and poor communications. The group has yet to settle on the advice it intends to provide, he said, but there is a clear problem it is responding to: “It is a fact that AI companies have in recent months been producing some high profile mathematical results and that their publication and dissemination has been falling far short of acceptable mathematical practice, whichever way that is defined.”\n\n“We are currently facing the very specific challenge of advising OpenAI on how to coordinate the release of a large number of significant results in mathematics that they report have been produced by their internal model.”\n\nFor now, Hairer said the group is gathering input through conversations with colleagues, a public feedback form, and discussion on Proofs and Prompts, a blog that has emerged as a key forum for mathematicians reckoning with AI’s impact on the field.\n\nBut the group’s biggest challenge likely lies ahead. When announcing the advisory group, OpenAI casually dropped the news that its new, unreleased model — the same that resolved the Navier-Stokes Millennium Prize problem — has now “resolved more than 100 long-standing open problems across most areas of mathematics.” It has previously said it is closing in on another Millennium Prize problem. On its website, the group said dealing with this logjam is its first priority: “We are currently facing the very specific challenge of advising OpenAI on how to coordinate the release of a large number of significant results in mathematics that they report have been produced by their internal model.”\n\nIn part, the new effort at engaging mathematicians is an acknowledgement of the monumental PR disaster its attempt was, in which the company found itself fending off accusations of scooping researchers, failing to credit the human work its models built upon, and even stealing from those using its models. Those controversies led many mathematicians to wonder if the company understood — or even respected — the discipline and community it had barreled into.\n\nAfter the last few months and with so much having been written about what mathematicians want, Kevin Buzzard, a mathematics professor at Imperial College London, wondered why OpenAI felt like it needed such an elite body to understand what the community wants. “It wasn’t proofs of hard theorems, it was better understanding of our subject,” he said. “It’s not entirely clear to me that you need a committee of brilliant people to hammer the point home.”\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 25,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T00:17:17.000Z",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+          }
+        ]
+      },
+      {
+        "id": "story-e-manipulation-risk-html-2847cbc176b9f60b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:58:16.000Z",
+        "pubTime": "2026-09-23 08:58",
+        "url": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html",
+        "imageUrl": null,
+        "fullContent": "The Commodity Futures Trading Commission advised some of its regulated entities on Tuesday that prediction markets' \"mentions\" contracts are at greater risk of manipulation.\n\nIn a press release announcing the letter it sent to designated contract market entities, the CFTC said that the contracts are more susceptible to exploitation \"because their settlement turns on the discrete conduct of a person that may be neither independently generated nor externally verifiable.\"\n\nThe letter noted that the agency was not creating new obligations that regulated exchanges need to follow, but rather advising entities on when mention markets may be listed consistent with the Commodity Exchange Act, the law that governs the assets that the CFTC regulates.\n\nMention markets — which are made up of contracts that ask traders what specific words will be used in a speech, a corporate earnings call or during a television broadcast — have come under scrutiny by the CFTC. CNBC reported in August that the agency was conducting an internal review into the contract type, and that platform Kalshi pulled its sports-related mention markets in response to the inquiry.\n\nKalshi is one of the few U.S. regulated platforms that features mention markets. Its chief rival, Polymarket, only features them on its international exchange, which is not regulated by the CFTC.\n\n\"We've addressed this guidance based on a prior discussion with the CFTC,\" Kalshi spokesperson Elisabeth Diana said in a statement.\n\nMention markets also generated headlines in July after news reports that a longtime teleprompter operator for President Donald Trump profited off of trades on Kalshi related to contracts on mention markets that were tied to the president's statements. Gabriel Perez, the teleprompter operator, settled with the CFTC in August and was forced to pay a $172,539 fine for insider trading on a prediction market.\n\nIn the letter, the CFTC advised that exchanges listing mention markets should consider four factors: what outside obligations the subject of the mention market may have; external pressure that could influence the subject's speech or conduct; whether the words or actions used for settlement are independently verifiable; and whether there are adequate oversight measures in place to detect manipulation on the contracts.\n\nThe CFTC added that it encourages exchanges to engage with the agency's division of market oversight while in the early phases of designing mention market contracts on how to mitigate manipulation risks.\n\nDisclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 14,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【CNBC Markets (CNBC 市场官方英文)】于 2026-09-23 08:58 发布，当前内容状态：已取得正文证据",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T00:58:16.000Z",
+            "url": "https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html"
+          }
+        ]
+      },
+      {
+        "id": "story-p-lang-lua-general-75426-33515a487c0c56e8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Re: Suggestions on implementing an efficient instruction set simulator in LuaJIT2 (2011)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:32:59.000Z",
+        "pubTime": "2026-09-23 08:32",
+        "url": "https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 08:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426",
+            "publishedAt": "2026-09-23T00:32:59.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ents-squabbles-kids-html-5c53020156016465",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How can parents handle squabbles between kids?",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T01:00:03.000Z",
+        "pubTime": "2026-09-23 09:00",
+        "url": "https://phys.org/news/2026-09-parents-squabbles-kids.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/rohan-called-me-an-idi.jpg",
+        "fullContent": "School vacations inevitably mean more squabbles. Longer days together, less structure and more sharing (of toys, screens, space and parental attention) all lead to children demanding that you referee fights and arguments.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-23 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-parents-squabbles-kids.html",
+            "publishedAt": "2026-09-23T01:00:03.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-moskva-2119635738-html-d3c03fff1152834d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "В Москве рассказали, когда в столицу прилетят свиристели",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-23T01:27:53.000Z",
+        "pubTime": "2026-09-23 09:27",
+        "url": "https://ria.ru/20260923/moskva-2119635738.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/07e5/0b/1d/1761209569_0:237:2982:1915_650x0_80_0_0_fbf132e06b1849e8102f82edb454163a.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-23 09:27 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260923/moskva-2119635738.html",
+            "publishedAt": "2026-09-23T01:27:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-s-cc-expanding-to-groups-e78be4774342acdb",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The new CC, an AI agent built for families",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T23:46:07.000Z",
+        "pubTime": "2026-09-23 07:46",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+        "imageUrl": null,
+        "fullContent": "Google Labs introduces a new experimental agent built for families, helping households spend less time on logistics and more time together.\n\nSenior Product Manager, Google Labs\n\nYour browser does not support the audio element.\n\nGoogle is launching an AI agent called CC to help families manage busy household schedules. You can invite up to six members to share information, allowing the agent to organize calendars, track tasks, and handle logistics like meal planning or registration forms. If you are in the U.S., look for an email to upgrade your account or join the waitlist to start using it today.\n\nWhen we launched CC, our goal was to build a personal agent that helps you get ahead of your day. It quickly became a daily habit for many early testers and in May we brought it to the Gemini App as Daily Brief.One of our top user requests was for CC to do more to help run a busy home. Between school schedules, sports practices, paying bills, and figuring out what’s for dinner, managing a household is often a shared responsibility with a lot of coordination, made even more challenging with information spread over multiple user accounts.Today, CC is becoming an agent for families and households. It has its own Google account that gives CC a distinct identity and clear permissions model, enabling up to six members to manage and collaborate with the agent. CC only sees what each member chooses to share, such as emails from your child’s school, the local swim center, or the vet. It automatically sorts through them and creates a shared daily brief and connects to Calendar and Tasks, helping families spend less time coordinating logistics and more time just being together.How CC can help families save timeWith shared context in one place, CC helps keep daily routines for groups such as families and households running smoothly:Start the morning aligned: Each morning, CC delivers a shared “Your Day Ahead” brief. Instead of family logistical information staying trapped in one person’s inbox or mental checklist, everyone gets a clear view of who needs to be where, what needs to be done, and what CC already completed yesterday.\n\nWhen we launched CC, our goal was to build a personal agent that helps you get ahead of your day. It quickly became a daily habit for many early testers and in May we brought it to the Gemini App as Daily Brief.\n\nOne of our top user requests was for CC to do more to help run a busy home. Between school schedules, sports practices, paying bills, and figuring out what’s for dinner, managing a household is often a shared responsibility with a lot of coordination, made even more challenging with information spread over multiple user accounts.\n\nToday, CC is becoming an agent for families and households. It has its own Google account that gives CC a distinct identity and clear permissions model, enabling up to six members to manage and collaborate with the agent. CC only sees what each member chooses to share, such as emails from your child’s school, the local swim center, or the vet. It automatically sorts through them and creates a shared daily brief and connects to Calendar and Tasks, helping families spend less time coordinating logistics and more time just being together.\n\nWith shared context in one place, CC helps keep daily routines for groups such as families and households running smoothly:\n\nAdd family members to your CC and pull in relevant information for Your Day Ahead brief, delivered right to your inbox.\n\nOffload event and task management: CC automatically tracks important dates and to-dos, pulling relevant shared information from across your group into a family Calendar or Task list, and helps keep them up to date even as things change.\n\nCC can automatically add calendar events based on what your family shares.\n\nHave CC handle it: CC can also help you complete time consuming logistical tasks involved in running a family, such as filling out permission slips or activity registration PDFs, creating school supply shopping lists, or crafting weekly meal plans. CC will ask for missing details and update its group memory so it can be even more helpful next time.\n\nCC can take action, like filling out forms, with your permission.\n\nHow CC works, while keeping you in controlCC now has its own verified Google Account: This is how CC will show up when it interacts with the group. It only responds to group members, and will not take action or share information outside the group without your permission.You choose what to share: Each member can easily choose what to share with CC and what to keep private, and can make changes at any time.Auto “cc” CC: Pick the email senders that you always want to share with CC going forward, like your kids’ school or travel bookings. Each week, you’ll also receive a private list of new email senders that you can choose to share with CC.Send it to CC: When a one-off email comes or you get a text message with information, you can offload it to CC. For example, you can send a picture of a birthday party invite or soccer practice schedule via email or Google Chat so CC can update the Calendar. You can also share a Drive folder or files with CC or add CC to a Calendar.\n\nEasily control what you share with CC.\n\nMeeting you where you are: CC connects with the Google tools you use every day, like Gmail, Chat, Docs, and Calendar. Behind the scenes, every CC runs on its own isolated cloud computer powered by Google’s agentic harness, Antigravity, and the latest Gemini models. This allows CC to handle tasks like pre-filling class registration PDF forms, checking live drive times from the Google Maps API between back-to-back activities, or creating shared Docs and Sheets.CC has a shared memory. As you use it, CC remembers what applies to the whole household (like your go-to grocery list or favorite family restaurants) versus what belongs to one person (like dietary preferences or local timezones).CC is an early experiment from Google Labs, available on web and mobile for people (18+) in the U.S with a personal Google account. Existing users will receive an email in the coming days to upgrade their account and new users can join the waitlist.\n\nCC is an early experiment from Google Labs, available on web and mobile for people (18+) in the U.S with a personal Google account. Existing users will receive an email in the coming days to upgrade their account and new users can join the waitlist.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：将CC定位为帮助家庭和群体集中处理日程、任务及生活事务的AI代理，重点强调共享信息、自动生成每日简报、管理日历和任务、填写表格、制定购物清单与膳食计划等效率收益；同时通过独立Google账号、成员授权、可选择共享信息和仅在群组内行动等设计，强调用户控制与权限边界。产品被描述为Google Labs的早期实验，仅面向美国、18岁以上的个人Google账号用户，采用升级邀请或候补名单方式开放。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T23:46:07.000Z",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
+          }
+        ]
+      },
+      {
+        "id": "story-e-than-beijing-does-html-529c82410f88de29",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Washington Needs This LNG Deal More Than Beijing Does",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:00:00.000Z",
+        "pubTime": "2026-09-23 08:00",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Washington-Needs-This-LNG-Deal-More-Than-Beijing-Does.html",
+        "imageUrl": null,
+        "fullContent": "Click Here for 150+ Global Oil Prices\n\nUS Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold\n\nA new Nebraska biogas plant…\n\nThe field’s location near Syria…\n\nBuyers are rapidly diversifying supply,…\n\nCharles is a writer for Oilprice.com\n\nXi Jinping arrives in Washington September 24, prepared to discuss reviving a $6 billion-a-year trade in US liquefied natural gas, contingent on lifting a 15% Chinese tariff that has blocked American gas since Q1 2025. Iranian missiles destroyed 17% of Qatar's LNG export capacity in March, and China absorbed that shock by buying more from everyone except the United States: Australia took 36% of its LNG imports from January through July, Southeast Asia 20%, Russia 12%, and Canada, a new entrant, 4%, according to Banchero Costa data. American cargoes made up 0.2%. Beijing's 15% tariff, imposed in February 2025, days into Trump's second term, cut recorded US LNG shipments to China from 64 vessels in 2024 to zero in 2025. At their 2021 peak, US cargoes made up 12% of China's total LNG imports, worth $6.2 billion that year. None of the underlying contracts were canceled. Chinese buyers kept honoring them, but then resold the cargoes into Europe and Asia rather than pay the tariff to deliver them home.\n\nIranian missiles struck Qatar's Ras Laffan Industrial City on March 18-19, destroying two of Qatar's 14 LNG production trains and a gas-to-liquids facility, costing the country an estimated $20 billion a year in lost revenue. The damage knocked out roughly 17% of Qatar's export capacity, with repairs estimated at up to five years. QatarEnergy declared force majeure on long-term contracts, an order later extended into August as repairs ran long. A second explosion hit the same complex on June 22 during restart operations, killing at least 13 workers, all from India and Pakistan. Qatar claimed the blast was a technical malfunction, not sabotage or a renewed attack.\n\nRelated: Saudi Arabia Restarts East-West Oil Pipeline\n\nBut since then, Qatar has had to buy its way around its own shortfall. It purchased nearly three dozen US spot LNG cargoes from Venture Global, the same U.S. producer China just signed a long-term deal with, to keep its own delivery commitments to Japan, South Korea, India, Bangladesh, and Taiwan.\n\nOnly a Fraction of China's LNG Imports\n\nThe $6 billion figure attached to this trade is a 2021 number, not a current one. American cargoes made up 0.2% of China's LNG imports between January and July this year, per Banchero Costa data cited by Forbes. The war that opened this opportunity has cost the U.S. $38 billion+ in its first four months alone.\n\nChina Gas Holdings signed a 20-year deal with Venture Global on September 14 for 500,000 metric tons of LNG a year, with deliveries starting in 2030, with Beijing's 15% LNG tariff still in force the day it was signed. That volume covers well under 1% of China's total 2025 LNG imports of 68.43 million tons.\n\nWashington is treating the contract as evidence a tariff breakthrough is close, but the contract itself sets no tariff terms and requires none. Deliveries begin in 2030, giving Beijing four years to remove the tariff, renegotiate it, or leave Chinese buyers reselling their US cargoes elsewhere, the arrangement that has held since 2025. China Gas secured supply without committing to import a single cargo under the current tariff regime.\n\nChinese companies already hold close to 25 million tonnes a year of US LNG offtake, signed since 2018 under 20 to 25 year contracts, according to Forbes. Fifty times more supply was already under contract before this 500,000 tonnes deal existed.\n\nIn the meantime, three major forecasters have cut China's LNG demand outlook by 14 to 22 million tons for the early 2030s: S&P Global, Wood Mackenzie, and JPMorgan. China's own 2025 total, 68.43 million tons, was a three-year low. Reuters attributes the decline to Beijing shifting toward piped gas and renewables.\n\nWashington and Beijing are discussing a package that would lower tariffs on roughly $30 billion of each side's exports, LNG among them, ahead of the September 24 summit.\n\nHowever, a tariff cut would restore a trade once worth $6.2 billion at 2021 prices into a market that no longer resembles 2021. Now, we’re looking at lower Chinese demand forecasts and a bigger role for piped gas and renewables. China spent the tariff years building supply relationships with Australia, Southeast Asia, Russia, and Canada instead of the U.S.Reuters estimates 24.5 million tonnes a year of Gulf Coast LNG capacity now under construction has no long-term buyer.\n\nCheniere's 2022 agreement with PetroChina committed 1.8 million tonnes a year through 2050, with roughly half that volume conditional on a positive FID for additional Corpus Christi capacity. Cheniere approved that expansion (Midscale Trains 8 and 9), in June 2025, and the Chinese contract helped determine whether the project moved forward or not.\n\nVenture Global was already at 91% contracted for 2026 and 75% for 2027 before China Gas signed anything. And the China Gas deal doesn’t apply until 2030.\n\nBy Charles Kennedy for Oilprice.com\n\nMore Top Reads From Oilprice.com\n\nQatar’s LNG Loss Revives Projects From Argentina to Timor-Leste\n\nSaudi Export Pivot Sends Brent Below $105\n\nBig Oil’s Production Keeps Soaring Despite Deep Spending Cuts\n\nInside Putin’s $135 Billion Arctic Gamble That Could Save His Ukraine War\n\nRussia Cuts Off Gas to Armenia Days After Diversification Announcement\n\nThe Oil Market’s Backup Plan Is Breaking Down\n\nThe materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.\n\nNothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.\n\nMerchant of Record: A Media Solutions trading as Oilprice.com",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "习近平定于9月24日抵达华盛顿，准备商讨恢复每年价值约60亿美元的美国液化天然气（LNG）贸易，前提是取消2025年第一季度起实施的15%中国关税。",
+          "伊朗导弹于2026年3月18日至19日袭击了卡塔尔拉斯拉凡工业城（Ras Laffan Industrial City），摧毁了14条LNG生产线中的2条及一座天然气制油设施，破坏了约17%的出口产能，估计损失年收入200亿美元，修复期估计长达五年。"
+        ],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T00:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Natural-Gas/Washington-Needs-This-LNG-Deal-More-Than-Beijing-Does.html"
+          }
+        ]
+      },
+      {
+        "id": "story-en-blog-2026-0813-16xy2v-5beabbd0a9bbd7ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Measuring Taiwan’s Mobile Slowdown with OONI in Taipei",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:29:07.000Z",
+        "pubTime": "2026-09-23 08:29",
+        "url": "https://mashbean.net/en/blog/2026/0813-16xy2v/",
+        "imageUrl": null,
+        "fullContent": "Published: 2026-08-13 · 9 min read\n\nTranslated from the Chinese original — read in 中文 →\n\nTaiwan’s announced throttling drill ended at 15:00. At this Taipei observation point, Taiwan Mobile 4G still measured only 55 kbit/s at 15:08 and the streaming test timed out at 15:10. A complete retest at 17:47 measured 30 Mbit/s and completed DASH, Tor, and Snowflake.\n\nTaiwan’s mobile-network throttling drill ended at 15:00 on 13 August 2026. At this Taiwan Mobile 4G observation point in Taipei, download still measured 55.2 kbit/s at 15:08, and the streaming test beginning at 15:10 timed out.\n\nA complete retest at 17:47 measured 30.1 Mbit/s down and completed the streaming, Tor, and Snowflake tests. The observation indicates that the slowdown persisted beyond the announced end and that usable transfer capacity returned later.\n\nThis report covers one SIM, one observation point, and several measurement times. It cannot represent all of Taipei or establish the exact recovery time.\n\nThe three NDT runs show a clear sequence. Throughput was high before the drill, downstream service remained extremely constrained eight minutes after the announced end, and the 17:47 retest returned to a functional transfer rate. The tests used different Measurement Lab (M-Lab) servers, and signal strength and serving-cell state were not independently recorded. The chart supports order-of-magnitude and usability comparisons, not a continuous cell-throughput curve.\n\nThe Executive Yuan described the exercise as a simulation of constrained communications during natural disasters, large-scale cyberattacks, or compound emergencies. The northern exercise covered Keelung, Taipei, New Taipei, Taoyuan, Hsinchu City, Hsinchu County, and Yilan. Voice, SMS, text transmission, 110/119 emergency calls, and cell broadcasts were expected to remain operational. Video streaming, video calls, mobile payments, and cloud synchronization could be affected.\n\nTaiwan’s Executive Yuan notice confirms the time and area. An Anoni.net community measurement guide records the published download ceiling as 256KB. The source notation does not clearly distinguish KB/s from kbit/s, so this report preserves it as written.\n\nBecause the time, geography, and participating operators were announced in advance, the exercise offered an unusual window for community measurement. This observation addressed three questions.\n\nOfficial information contained a schedule discrepancy. A few earlier local-government pages listed 13:30–14:00, while the 23 July Executive Yuan notice and newer local notices consistently listed 14:30–15:00. This report uses the later schedule.\n\nOONI stands for the Open Observatory of Network Interference, an open-source project for measuring internet performance and interference. NDT, the Network Diagnostic Test, measures download, upload, and latency. DASH, Dynamic Adaptive Streaming over HTTP, simulates adaptive video streaming.\n\nTor is an anonymity network that routes traffic through multiple relays. Snowflake is a Tor pluggable transport that connects through short-lived proxies run by volunteers. An ASN, or Autonomous System Number, identifies the network operator carrying a measurement.\n\nOONI’s Tor test checks reachability of directory authorities and obfs4 bridges. obfs4 is an obfuscation protocol designed to make Tor traffic harder to identify. The Snowflake test records bootstrap progress, meaning how far Tor has progressed in starting and connecting to its network. OONI’s data interpretation guidance recommends reading individual results together with network, time, and repeated-measurement context.\n\nNDT is operated by M-Lab. M-Lab stores the public IP address and time associated with a test in its public research dataset. Neither this report nor the downloadable safe dataset exposes that address. M-Lab NDT documentation\n\nThe NDT and DASH runs at 14:35 used a fixed-line exit and were excluded from the mobile analysis. The valid event-window mobile result is the 14:53 Tor measurement. Post-window tests ran from 15:08 to 15:23, followed by a complete retest from 17:47 to 17:49. The safe dataset retains scheduled time, actual time, status, and exclusion reason.\n\nAt 15:08, download was about 0.039% of the pre-drill result and upload was about 10.0%. Downstream impairment was far stronger. At 17:47, download measured 30.1 Mbit/s and upload measured 20.3 Mbit/s, with NDT completing in 25 seconds. Download had increased 546-fold and upload 14.5-fold from the first post-window result.\n\nThe 15:08 record reports both ping and average RTT as zero, conflicting with test runtime and the other fields. This report treats those values as missing. All three runs report zero retransmit rate; that field alone cannot explain the throughput difference.\n\nThe 17:47 DASH test completed successfully, with median bitrate at about 42% of the single pre-drill value. The OONI output used here does not expose a display unit that can be safely confirmed for this bitrate field, so the table preserves the raw values. Completion supports restored streaming-test functionality; server path and radio conditions still affect the numeric comparison.\n\nAll five valid Tor measurements reported directory reachability of 10/10, directory-authority OR-port reachability of 10/10, and obfs4 reachability of 4/14. Runtime rose from 69 seconds before the drill to 96 seconds near the end of the event and 124 seconds at 15:15, then fell to 78 seconds at 15:21 and 67 seconds at 17:48. Reachability counts remained stable while runtime increased around the event and returned close to the pre-drill value later.\n\nSnowflake reached 100% bootstrap in all three runs. Bootstrap time was 6.68 seconds before the drill, 17.29 seconds at 15:18, and 12.78 seconds at 17:49. Total runtime was 11, 25, and 16 seconds. These results establish that Tor over Snowflake could connect at those moments. They do not cover sustained browsing, calls, or large transfers.\n\nAt 17:47, download was far above the 55 kbit/s throttle-level result and DASH completed, supporting functional recovery. Download was 21% of the single pre-drill result and DASH median bitrate was about 42%. One vantage point, different servers, and unrecorded radio conditions prevent direct attribution of those ratios to residual throttling. Confirming full restoration would require a fixed device and position with at least two consecutive results near a defined baseline threshold.\n\nTor directory access and Snowflake bootstrap succeeded near the end of the event and afterward. The constrained network still allowed these tools to establish connections, while longer runtimes meant longer waits. Evaluating access to shelter information, message exchange, or practical use of an anonymous channel also requires small text-page success rates, time to first byte, full load time, and connection persistence.\n\nA stronger protocol should cover all three mobile operators, multiple locations, and independent SIMs. During the event, each site should use the same NDT, DASH, Tor, and Snowflake sequence. After the announced end, NDT and DASH should repeat every five minutes until two consecutive sets return to a defined share of baseline. Each result should include signal strength, radio band, and serving-cell changes. Local scheduling should continue through connectivity loss, and failed tests should remain in the dataset.\n\nOfficial technical guidance should use an unambiguous unit such as kbit/s or kB/s, state downlink and uplink targets separately, define a restoration deadline, and publish aggregated recovery statistics for all three operators. Communications resilience reporting should cover service continuity, degradation magnitude, and restoration time.\n\nThe safe CSV preserves municipality, scheduled and actual times, ASN, operator, test, status, traffic, and requested result fields. It contains no public IP address, OONI UID, or Measurement URL. OONI data are cited under the project’s CC BY-NC-SA 4.0 data licence.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 26,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T00:29:07.000Z",
+            "url": "https://mashbean.net/en/blog/2026/0813-16xy2v/"
+          }
+        ]
+      },
+      {
+        "id": "story-rebranded-addictive-html-4b75068de1e83035",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "How the pro‑nicotine 'wellness' movement rebranded an addictive drug",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T00:00:01.000Z",
+        "pubTime": "2026-09-23 08:00",
+        "url": "https://phys.org/news/2026-09-pronicotine-wellness-movement-rebranded-addictive.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2024/nicotine-pouch.jpg",
+        "fullContent": "An ironic development emerging alongside the \"Make America Healthy Again\" movement is the portrayal of nicotine as a wellness and performance-enhancing product. Across social media, podcasts, wellness communities and tech startups, prominent wellness personalities and other influencers are portraying nicotine as a misunderstood compound whose potential benefits have been overshadowed by its negative association with cigarette smoking.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-23 08:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-pronicotine-wellness-movement-rebranded-addictive.html",
+            "publishedAt": "2026-09-23T00:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-medved-2119635596-html-e6dd61f8dbff1ede",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Власти предупредили о выходе медведя в Курильске",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-23T01:24:57.000Z",
+        "pubTime": "2026-09-23 09:24",
+        "url": "https://ria.ru/20260923/medved-2119635596.html",
+        "imageUrl": "https://cdnn21.img.ria.ru/images/152187/58/1521875811_0:67:1280:787_650x0_80_0_0_2741aa1bdd3473ce974f718287c17c86.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-23 09:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260923/medved-2119635596.html",
+            "publishedAt": "2026-09-23T01:24:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--in-boston-on-november-4-b25fe2c5917bd456",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T23:21:49.000Z",
+        "pubTime": "2026-09-23 07:21",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "imageUrl": null,
+        "fullContent": "On November 4, TechCrunch’s Founder Summit will bring a vital one-day crash course on startup building to Boston’s SoWa Power Station. Founders shouldn’t have to learn the hardest lessons the hardest way, and this event is designed to make the challenges of starting a company easier and the highs that much greater.\n\nInstead of months of trial and error, you get direct access to the investors and founders who’ve already made the calls you’re now facing. We’re talking everything from fundraising and hiring to AI strategy, and topping your category.\n\nDon’t take our word for it. Explore the full agenda of speakers and sessions we have planned for Founder Summit below, and lock in your spot at the event. All tickets are available for the lowest prices you’ll see, so now’s the best time to act.\n\nWithout further ado, here’s the official agenda. Get to know each session and speaker on the event agenda page.\n\nFundraising has never been easy, but the playbook keeps changing. Brian Devaney, partner at Underscore, will break down what investors are looking for now, how founders can stand out in a crowded market, and where founders often lose leverage without realizing it. Expect a candid look at today’s fundraising environment, from first checks to term sheets, and the mistakes that can make or break a round.\n\nThe title may stay the same, but the job changes with each stage of a company’s growth. HubSpot co-founder and Sequoia partner Brian Halligan will share the lessons he’s learned from building and advising startups through rapid growth, tough decisions, and constant reinvention.\n\nThis session explores how founders can evolve as CEOs, avoid common leadership pitfalls, and build companies that can thrive well beyond the early days.\n\nAdding AI features is one thing. Building an AI-native company is something else entirely. Lior Div, co-founder and CEO of 7AI, will explore what changes when AI becomes the foundation of a startup rather than a product enhancement. From team structure and product development to operations and go-to-market strategy, this session examines what founders should rethink when building in the AI era.\n\nRaising capital is often framed as a milestone, but choosing the right investors can shape a company’s future long after the money arrives. After raising an $11 million round for Cogent Security, co-founder and CEO Vineet Edupuganti learned firsthand what separates helpful partners from costly distractions. This session explores how founders should evaluate investors, navigate trade-offs, and think beyond valuation when building their cap table.\n\nInnovation is needed to solve the world’s biggest challenges, but only certain companies can realistically become category-defining winners at industrial scale. In this session, TDK Ventures investment director Tina Tosukhowong unpacks the firm’s “King of the Hill” framework: the disciplined process that the best investors use to evaluate companies based on economics, scalability, and commercial timing.\n\nThrough real-world examples, including Tina’s exploration of fission and fusion, attendees will learn actionable frameworks for evaluating startup readiness, mapping competitive landscapes, and identifying when timing, talent, and technology align.\n\nEarly hiring decisions can define a startup’s culture, speed, and ability to execute. Melissa Taunton, partner at NEA, will share lessons from working with founders as they build teams through periods of rapid growth and uncertainty.\n\nFrom identifying the right early hires to avoiding common recruiting mistakes, this session explores how founders can build organizations that are resilient, adaptable, and prepared for what comes next.\n\nSilicon Valley gets the headlines, but Chase Garbarino has been quietly building category-defining companies from Boston for over a decade. As co-founder and CEO of HqO, he has raised $200 million from investors and scaled to 30+ countries without ever needing to change geographies.\n\nHe’ll break down the real advantages and disadvantages of building where the startup playbook wasn’t written, and what every founder outside a major hub should know.\n\nEvery founder wants product-market fit, but knowing when you’ve actually found it is far more complicated. Kent Bennett, partner at Bessemer Venture Partners, will unpack how founders can validate demand, build an MVP that answers the right questions, and avoid scaling before the fundamentals are in place.\n\nThis session explores the signals that matter, the metrics that mislead, and the decisions that separate enduring companies from expensive experiments.\n\nThe programming is a huge part of TechCrunch Founder Summit’s value, but it’s not the whole deal. You’ll also get the chance to mix and mingle with founders working through the same fundraising decisions and the same hiring calls as you, and then network with those who have already lived through those experiences. Or better yet … those who have funded those who have gone through the startup wringer.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nLast day to book an exhibit table is September 18. Don’t miss out on high-impact leads, investor access, and a brand spotlight in Disrupt’s Expo Hall.\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nGoogle’s new ‘CC’ is an AI agent that helps families run their households\n\nPrismML hopes its tiny LLM will change how we all use AI\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 27,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T23:21:49.000Z",
+            "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/"
+          }
+        ]
+      },
+      {
+        "id": "story-mp-xi-dinner-so-far-html-95aec973a7336354",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here's who we know is going to the Trump-Xi dinner so far",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T23:43:43.000Z",
+        "pubTime": "2026-09-23 07:43",
+        "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — With two days to go before Chinese President Xi Jinping is expected to land in the U.S., very little is known about which, if any, Chinese executives will join him.\n\nChina's Ministry of Foreign Affairs said in a statement to CNBC Tuesday it had no information to provide. Late on Monday, the ministry confirmed Xi's U.S. trip, planned for Wednesday to Friday.\n\nSomeone briefed about the preparations but who wasn't authorized to speak on the record said they weren't aware of any Chinese companies who have been invited to join the Chinese president on his trip.\n\nOn the U.S. side, Microsoft CEO Satya Nadella is one of the executives who will attend a dinner expected Thursday in Washington, D.C., according to a source familiar.\n\nMicrosoft and the White House did not respond to a CNBC request for comment.\n\nSenior U.S. officials have shared names of some other executives who will join:\n\nThose business leaders include:\n\nOn the Chinese side, Reuters reported last week that business representatives under consideration included those from electric car giant BYD, smartphone company Xiaomi, battery makers CATL and Gotion, consumer electronics manufacturer Hisense, automotive parts company Wanxiang, state-owned Bank of China and agricultural conglomerate COFCO Group.\n\nBYD had no comment when contacted by CNBC. The other Chinese companies did not immediately respond to requests for comment.\n\n\"Whether or not BYD participates in the Trump-Xi meetings this week will send a strong signal about the possibility of Chinese EVs in America, and how important Xi views EVs in China's overseas expansion strategy,\" said Isaac Stone Fish, founder and CEO of U.S.-based advisory Strategy Risks.\n\nXi could bring the heads of state-owned enterprises, \"but those are government officials, who in some cases are effectively ministers in the Chinese government,\" he said. \"That may seem to the US as unfairly blurring the lines between a business delegation and a government delegation, and SOEs are on the whole less welcome investors in the US than private companies.\"\n\nAs tensions between the U.S. and China have escalated in recent years, both governments have put companies from the other country on blacklists that restrict business activity.\n\n—CNBC's Jordan Novet and Ashlee Trujillo contributed to this report.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：围绕习近平访美及其与特朗普预期晚宴，梳理可能出席的中美企业高管，突出中方参会信息有限、企业名单尚未确定，以及企业是否出席可能被解读为中美经贸关系和中国电动汽车进入美国市场意愿的信号。文中将国有企业负责人可能兼具政府官员身份这一问题作为中美商业代表团认知差异的背景。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-22T23:43:43.000Z",
+            "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html"
+          }
+        ]
+      },
+      {
+        "id": "story-watch-6a42bf98eb57c354",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Language Designers Panel - Bjarne Stroustrup, Guido van Rossum, Mads Torgersen & Emma Tracey",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-22T23:15:15.000Z",
+        "pubTime": "2026-09-23 07:15",
+        "url": "https://www.youtube.com/watch?v=HFcTjwfpHWQ",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-23 07:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://www.youtube.com/watch?v=HFcTjwfpHWQ",
+            "publishedAt": "2026-09-22T23:15:15.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790116167863,
     "timeDisplay": "2026-09-23 06:29 (UTC+8)",
     "date": "2026-09-23",

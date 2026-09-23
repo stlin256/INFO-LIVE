@@ -34,14 +34,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **63** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **64** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-23 06:29 (UTC+8)
+- **最新归档时间**：2026-09-23 09:42 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-23 09:42 (UTC+8)" title="全球要闻情报简报 · 09:42" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-23 09:33 (UTC+8) 完成，共获得 15 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】澳大利亚新闻直播：阿尔巴尼斯为应对白宫批评的社交媒体整顿措施辩护；威尔逊与乔伊斯唇枪舌剑：关注当天新闻的直播；【undefined】马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界：马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界 | 国际早察；【undefined】卡玛拉·哈里斯称“对多元、公平与包容的攻击就是对孕产妇护理的攻击”，与埃尔-赛义德共同出席活动：前副总统卡玛拉·哈里斯周二表示，对多元、公平与包容（DEI）的攻击就是对孕产妇护理的攻击。当天，她在底特律与民主党美国参议院候选人阿卜杜勒·埃尔-赛义德一同出席活动，为11月中期选举前争取支持。；【undefined】随着对人工智能训练数据的需求激增，Snorkel AI估值增至35亿美元：帮助人工智能实验室和企业构建训练数据集及模拟环境的初创公司Snorkel AI，已以35亿美元的估值完成3.5亿美元E轮融资。；【undefined】GPT-6 迎来更强大的提示词缓存机制：更高的缓存命中率与全新工具，助力持久型智能体运行更快、成本更低。；【undefined】Rabbit推出的新AI代理无需R1即可运行：有关该主题的文章将添加到你的每日电子邮件摘要和首页信息流中。 这家初创公司的AI代理可以在Windows、Mac和Linux设备上本地运行。 这位作者的文章将添加到你的每日电子邮件摘要和首页信息流中。 查看Emma Roth的全部文章 据Wired此前报道，推出了表现不佳的R1设备的Rabbit公司正在推出一款独立的AI代理，用户无需使用其硬件即可运行该代理。这家初创公司表示，其全新的OS3“代理型操作系统”运行在云端，但可以在Wind；【undefined】高通骁龙 8 Elite Gen 6 也推出 Extreme 版本：本主题的文章将添加到您的每日电子邮件摘要和首页信息流中。；【undefined】摩托罗拉这款外形狂野的 Signature 27 搭载高通全新 Extreme 芯片：摩托罗拉是首家宣布推出搭载高通顶级 Snapdragon 8 Elite Extreme Gen 6 芯片手机的公司。Signature 27 有望成为摩托罗拉数年来最先进的旗舰手机之一，不过我们仍在等待其完整规格、价格和发布日期。任何潜在买家首先都必须接受它的外观设计，而这一设计似乎注定会引发褒贬不一的评价。这款铝制手机机身纤薄，有黑色（抱歉，官方称其为“潘通煤烟黑”）和绿色（“潘通卡普莱特橄榄绿”）两种配色，其中一种采用编织战术纹理
+
+**重点要闻索引：**
+- [ANSA Mondo (意大利安莎社官方意大利文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/23/teheran-pronti-a-infliggere-ad-aggressori-colpi-devastanti-e-imprevedibili_9efaaf6e-8223-4532-93de-1300749a858a.html) <span class="news-meta-time">🕒 2026-09-23 09:29</span>
+- [The Verge (前沿数码科技)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel) <span class="news-meta-time">🕒 2026-09-23 08:17</span>
+- [CNBC Markets (CNBC 市场官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.cnbc.com/2026/09/22/cftc-prediction-markets-mentions-contracts-have-manipulation-risk.html) <span class="news-meta-time">🕒 2026-09-23 08:58</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426) <span class="news-meta-time">🕒 2026-09-23 08:32</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-parents-squabbles-kids.html) <span class="news-meta-time">🕒 2026-09-23 09:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260923/moskva-2119635738.html) <span class="news-meta-time">🕒 2026-09-23 09:27</span>
+:::
 :::timeline-item{start="2026-09-23 06:29 (UTC+8)" title="全球要闻情报简报 · 06:29" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-23 06:17 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -640,16 +653,5 @@ notice:
 - [The Guardian Society (卫报社会与民生)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/society/2026/sep/10/tell-us-has-your-medical-cannabis-prescription-come-from-a-private-health-provider) <span class="news-meta-time">🕒 2026-09-10 21:51</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-spinons-electrons-pair-stripes-superconductors.html) <span class="news-meta-time">🕒 2026-09-10 22:00</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/kaliningrad-2116869192.html) <span class="news-meta-time">🕒 2026-09-10 22:06</span>
-:::
-:::timeline-item{start="2026-09-10 21:00 (UTC+8)" title="全球要闻情报简报 · 21:00" org="ARCHIVE"}
-**速报纪要：** 全球多源监控全景简报。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/nedvizhimost-2116849441.html) <span class="news-meta-time">🕒 2026-09-10 20:57</span>
-- [TechCrunch (硅谷创业与资本)] [欧洲初创公司创始人与风投呼吁立法者“确保‘欧盟公司’机制落到实处”](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/) <span class="news-meta-time">🕒 2026-09-10 20:25</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-10 20:53</span>
-- [Lobste.rs (极客思想社区)] [Guix-Science 迎来首个版本发布](https://hpc.guix.info/blog/2026/09/guix-science-first-release/) <span class="news-meta-time">🕒 2026-09-10 19:45</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-satellites-hurricanes-el-nio.html) <span class="news-meta-time">🕒 2026-09-10 20:40</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/medved-2116849280.html) <span class="news-meta-time">🕒 2026-09-10 20:57</span>
 :::
 ::::
