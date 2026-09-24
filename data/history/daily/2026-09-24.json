@@ -1,5 +1,1573 @@
 [
   {
+    "timestamp": 1790213642449,
+    "timeDisplay": "2026-09-24 09:34 (UTC+8)",
+    "date": "2026-09-24",
+    "runId": "feed-20260924T012927485Z-55fm7k",
+    "generatedAt": "2026-09-24T01:34:02.449Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 09:29",
+      "lead": "本轮抓取于 2026-09-24 09:29 (UTC+8) 完成，共获得 26 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】FLAWED的缺陷及其对行业研究的启示：免责声明：本文仅代表我个人观点，不代表任何现任或前任雇主或附属机构的立场。",
+        "【undefined】贝森特称美中贸易休战期延长两个月，习近平开启国事访问：美国财政部长斯科特·贝森特（Scott Bessent）当地时间周三表示，美中两国已延长贸易休战期，以在更长时间内保持较低关税水平并维持稀土流动。",
+        "【undefined】我们用 AI 智能体修复了一个开源 Bug，有人要求封禁我们：加载时出错。请重新加载此页面。",
+        "【undefined】Meta AI 智能体 Muse 迎来多项重磅更新：Meta 的个人 AI 智能体 Muse 推出仅数周时间，这家社交网络巨头便毫不懈怠地推进这笔堪称其迄今为止在消费级人工智能领域最大押注的布局。",
+        "【undefined】“创意相遇”活动：意大利呼吁墨西哥时尚与设计人才积极参与：（安莎社）墨西哥城9月23日电——墨西哥意大利商会（CCIM）推介了第六届“创意相遇”（Encuentro Creativo）活动。该平台旨在促进意大利与墨西哥在时尚和设计领域的学术及专业合作。活动项目包括10月12日至23日期间举办的27场线上主旨演讲，以及定于10月10日在墨西哥城意大利文化学院举办的开放日活动。主办方强调，这些活动将作为初步联络点，向参与者介绍意大利的学术课程及专业深造机会。",
+        "【undefined】国外三大遗址考古 国家文物局发布赴外考古新成果：国家文物局今天(24日)在北京发布3项赴外考古项目新成果，包括：",
+        "【undefined】密歇根州学生在紧张交锋中就伊朗立场质问埃尔-萨耶德：“你和我们站在一起吗？”：周三的一场市政厅会议上，一名密歇根州学生就民主党联邦参议员候选人阿卜杜勒·埃尔-萨耶德（Abdul El-Sayed）对伊朗的立场对其发难，提及自己家人声称遭受伊朗政权迫害的经历，随后反复追问该候选人是否与反对该国政府的伊朗人民站在一起。",
+        "【undefined】它们曾被贴上“变态眼镜”的标签。无摄像头版本能否扭转其公众形象？：它们曾被贴上“变态眼镜”的标签。无摄像头版本能否扭转其公众形象？"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "最近文章目录分析：信息不足",
+      "lead": "当前证据包未提供主文章标题、来源、正文或可核验引用，仅列出若干待翻译标题及摘要片段，因此无法对具体事件作出可靠日尺度分析。",
+      "themes": [
+        {
+          "name": "信息完整性",
+          "analysis": "主文章字段为空，证据事实、引语、实体、冲突和引用均为空。相关文章仅显示统一的待翻译占位标题，部分摘要涉及乌克兰局势、澳大利亚航空业劳资争议、意大利与墨西哥文化合作、加拿大加入Erasmus+及委内瑞拉联合国发言等不同主题，缺乏足够上下文，不能据此合并为单一趋势或判断其影响。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 87,
+      "completedTasks": 87,
+      "succeeded": 64,
+      "degraded": 23,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 87,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 274896,
+      "byRole": {
+        "translator": {
+          "attempts": 53,
+          "succeeded": 31,
+          "degraded": 22
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 87,
+          "succeeded": 64,
+          "degraded": 23
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-2-translator-0",
+      "article-3-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-1",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-17-translator-0",
+      "article-20-translator-0",
+      "article-21-translator-0",
+      "article-23-translator-0",
+      "article-29-translator-1",
+      "article-32-translator-0",
+      "article-33-translator-0",
+      "article-35-translator-0",
+      "article-39-translator-0",
+      "article-41-translator-0",
+      "article-42-translator-0",
+      "article-43-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:08.699Z",
+        "lastSuccessAt": "2026-09-24T01:29:09.945Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:08.708Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.054Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.012Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.333Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.054Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.529Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.735Z",
+        "lastSuccessAt": "2026-09-24T01:29:13.157Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.683Z",
+        "lastSuccessAt": "2026-09-24T01:29:12.912Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:13.157Z",
+        "lastSuccessAt": "2026-09-24T01:29:13.943Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:09.091Z",
+        "lastSuccessAt": "2026-09-24T01:29:09.324Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.529Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.776Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.422Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.769Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:09.737Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.012Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:09.630Z",
+        "lastSuccessAt": "2026-09-24T01:29:09.998Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:09.336Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.545Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:09.494Z",
+        "lastSuccessAt": "2026-09-24T01:29:12.082Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:12.912Z",
+        "lastSuccessAt": "2026-09-24T01:29:13.857Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:12.082Z",
+        "lastSuccessAt": "2026-09-24T01:29:13.978Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:12.746Z",
+        "lastSuccessAt": "2026-09-24T01:29:13.067Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.595Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.086Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:09.998Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.151Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:09.945Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.135Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:08.999Z",
+        "lastSuccessAt": "2026-09-24T01:29:09.091Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:07.320Z",
+        "lastSuccessAt": "2026-09-24T01:29:08.999Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.152Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.423Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.086Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.329Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.769Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.082Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.097Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.281Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.347Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.646Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.545Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.954Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:13.055Z",
+        "lastSuccessAt": "2026-09-24T01:29:15.332Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.186Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.347Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.529Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.832Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.423Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.681Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.681Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.936Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:13.067Z",
+        "lastSuccessAt": "2026-09-24T01:29:13.973Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.135Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.422Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.604Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.186Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.082Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.256Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.646Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.962Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.329Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.735Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-24T01:29:11.281Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:07.317Z",
+        "lastSuccessAt": "2026-09-24T01:29:09.336Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-24T01:29:11.438Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:07.318Z",
+        "lastSuccessAt": "2026-09-24T01:29:09.494Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.832Z",
+        "lastSuccessAt": "2026-09-24T01:29:13.749Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.954Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.152Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:09.324Z",
+        "lastSuccessAt": "2026-09-24T01:29:09.630Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.256Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.438Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.776Z",
+        "lastSuccessAt": "2026-09-24T01:29:11.097Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.936Z",
+        "lastSuccessAt": "2026-09-24T01:29:12.746Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:11.962Z",
+        "lastSuccessAt": "2026-09-24T01:29:13.055Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.333Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.595Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:10.151Z",
+        "lastSuccessAt": "2026-09-24T01:29:10.604Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:07.295Z",
+        "lastSuccessAt": "2026-09-24T01:29:08.699Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:07.314Z",
+        "lastSuccessAt": "2026-09-24T01:29:08.708Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T01:29:07.316Z",
+        "lastSuccessAt": "2026-09-24T01:29:09.737Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-al-assembly-iran-ukraine-afee09a75bd09b96",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:26:06.000Z",
+        "pubTime": "2026-09-24 09:26",
+        "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/23/multimedia/23unga-live-promo-9p/23unga-live-header-245pm-kgcz-mediumSquareAt3X.jpg",
+        "fullContent": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders. He called for steps to end to the war before winter.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-24 09:26 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+            "publishedAt": "2026-09-24T01:26:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ns-for-industry-research-0b0b82db2472fc4e",
+        "title": "FLAWED的缺陷及其对行业研究的启示",
+        "originalTitle": "FLAWED's Flaws and What This Means for Industry Research",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:16:33.000Z",
+        "pubTime": "2026-09-24 09:16",
+        "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+        "imageUrl": null,
+        "fullContent": "Disclaimer: The views expressed here are my own and do not represent those of any current or former employer or affiliated organization.\n\nOn September 17th, I quote tweeted Trail of Bits’s blog post titled “1Password's AI patching benchmark is misleading,” which also referenced Davi Ottenheimer’s “Disinformation Pushed by 1Password: Their AI Patching Report is False.” Both criticized “Frontier Models’ Vulnerability Patches are Often F.L.A.W.E.D” (henceforth referred to as “FLAWED”) from 1Password's Off‑by‑1 Labs.\n\nI saw FLAWED when it was released and discussed it with other researchers; we classified it as slop and moved on. What I had not realized at the time was how far 1Password’s distribution had carried it: into news coverage and defender roadmaps. Watching this work obscure more rigorous research from less-resourced groups compelled me to post on Twitter, and the responses to that compelled me to write this blog post.\n\nWhat follows is the thread, including two follow-up replies, reproduced verbatim.\n\nIn response to someone bringing up frontier labs, I wrote:\n\nIn response to concerns about the quality of my rebuttal, I also wrote:\n\nAfterward, CISOs, academics, industry researchers, and practitioners alike messaged me to say they had noticed the same problems. Many had not raised them because they lacked a forum or feared backlash. Those responses also exposed second-order costs, especially for academics, that may be less obvious to folks unfamiliar with the social systems surrounding research.\n\nResearch should not be treated like sports\n\n1Password employs many talented individuals and has a reputation for high quality work. Despite this, FLAWED has serious issues that must be raised.\n\nIf you believe these issues should not be raised because FLAWED was critical of OpenAI, please know that research is not sports. OpenAI is not the Spurs, 1Password is not the Knicks, and Off-by-1 Labs is not Jalen Brunson. All research should face healthy skepticism.\n\nRigorous evaluation of frontier-lab claims is both possible and necessary, including the claims inherent to Patch the Planet. EleutherAI regularly publishes precise work in this realm. The AI Now Institute delivered a sound write-up critical of Patch the Planet (even though it's not a research paper, it has more citations than FLAWED).\n\nResearch should not become an influence operation\n\nFLAWED confirms a preconceived notion many already held, which likely explains some of its traction. But we cannot believe and amplify research merely because it matches our priors. The purpose of rigor is to protect us from conclusions we want to accept but that are not true.\n\nWhat is the worst-case scenario if we do not enforce this norm? This opens the door for malicious actors that could repeatedly select conclusions that flatter their institutional or personal interests, apply weak methods, and use corporate distribution and social engineering to make those conclusions disproportionately influential. I am not alleging that this happened here in any way, shape, or form.\n\nI am describing a vulnerability in our research ecosystem that exists independently of this particular paper or its authors’ intentions. These discussions are integral to fostering high integrity research environments. As Carlini writes in “Why I Attack,” “you can't fix something if you don't know it's broken, and so someone needs to show what's broken.”\n\nA paper is not a blog post\n\nSecurity research encompasses a broad range of activities: vulnerability discovery, exploit and tool development, threat intelligence, and empirical study. Empirical, scientific claims about human-AI interactions require study design and evidence beyond what is needed to demonstrate a vulnerability.\n\nThe same distinction applies to genre. A blog post can present data-driven observations without claiming scientific authority. A paper presented as scientifically rigorous and peer-reviewed assumes additional obligations. FLAWED actually uses the phrase “peer review” to describe review by three industry peers thanked by the author, not the scholarly peer-review process.\n\nWhile citation count is not itself a measure of rigor, it is a useful proxy for whether authors accurately assess their claims and responsibly engage with the relevant literature (it’s early in the standard method for reading research papers for a reason). Plagiarism by omission is serious. I would be suspicious of any research that does not cite foundational papers in the area (e.g. this paper is considered foundational to AI patching research) as it indicates either a deep unfamiliarity with the literature or the aforementioned plagiarism by omission.\n\nI truly believe this work could have made a compelling blog post if the focus was on the actual technical contributions. “Codex (and GPT-4) can’t beat humans on smart contract audits” illustrates the path that could have been taken. This blog post makes an empirical claim about human-AI interactions, but explicitly states “Our assessment does not meet the rigors of scientific research and should not be taken as such. We attempted to be empirical and data-driven in our evaluation, but our goal was … not scientific publication.”\n\nA press cycle is not a publication process\n\nThe form factor of both the release and update is misaligned with how research should work.\n\nIntegrity matters in research\n\nWhy do I care so much? Because dishonest research does more than put a false claim into the literature.\n\nUnfortunately, FLAWED has already led to this (that was the subject of multiple messages I received after posting on Twitter; a reason for this very post is to help academics currently in the middle of these conversations). We need to foster integrity in our community.\n\nLuckily, although this work reached people through news articles and social media, it does not appear to have directly entered the academic literature yet (some seasoned researchers told me they spotted the problems immediately). That is reassuring, but it is not foolproof. The onus is also on all of us to read the work we cite and amplify rather than treating its format, affiliation, or existing citations as proxies for validity.\n\nWe should care about OSS security\n\nI strongly believe that any company with a strong security program should have a robust security research function, and I also believe that I have a responsibility to shape and enforce the norms of my community, especially with respect to surrounding power dynamics.\n\nI am genuinely seeking evidence surrounding interventions that improve open-source software security. Given a fixed budget, which interventions work best: hiring more maintainers, providing existing maintainers with token spending, partnering with consultancies who are not allowed to use AI, or something else entirely? This question is still open to the best of my knowledge; FLAWED diverted time and resources away from efforts that might genuinely answer it.\n\nIf you are conducting real, rigorous research in this area that is not receiving sufficient attention, please contact me. I will review it and if I feel that it is strong, I will share it widely and do what I can to help it reach the attention and resources it deserves.",
+        "fullTranslation": "免责声明：本文仅代表我个人观点，不代表任何现任或前任雇主或附属机构的立场。\n\n9月17日，我引用并转发了Trail of Bits题为《1Password的AI打补丁基准测试具有误导性》（1Password's AI patching benchmark is misleading）的博文，该博文还引用了Davi Ottenheimer所写的《1Password散布虚假信息：其AI补丁报告并不属实》（Disinformation Pushed by 1Password: Their AI Patching Report is False）。这两篇文章都对1Password旗下Off-by-1 Labs发布的报告《前沿模型的漏洞补丁往往漏洞百出》（Frontier Models’ Vulnerability Patches are Often F.L.A.W.E.D，下文简称为“FLAWED”）提出了批评。\n\n在FLAWED发布之初我就注意到了它，并与其他研究人员进行过讨论；我们当时将其归类为劣质内容（slop），随后便未予理会。但我当时没有意识到的是，借助1Password的宣发渠道，它竟传播得如此之广：不仅获得了新闻报道，还被纳入了防御者的路线图规划中。眼睁睁看着这项工作掩盖了来自资源匮乏团队更加严谨的研究成果，这促使我在Twitter上发布了推文，而各方的回应又促使我写下了这篇博文。\n\n以下是该推文串的逐字还原，包含两条后续回复。\n\n针对有人提及前沿实验室的言论，我写道：\n\n针对对我反驳质量表示担忧的言论，我还写道：\n\n此后，多位首席信息安全官（CISO）、学者、行业研究员以及从业人员纷纷私信我，表示他们也注意到了同样的问题。许多人此前未予指出，是因为缺乏发言平台或害怕遭到反扑。这些回复还揭示了一些次生代价，尤其是对学术界而言——不熟悉围绕研究的社会体系的人可能不太容易察觉到这些问题。\n\n研究不应被当成体育竞技对待\n\n1Password汇聚了许多才华横溢的员工，并在产出高质量成果方面享有声誉。尽管如此，FLAWED确实存在严重的缺陷，必须予以指出。\n\n如果你认为不该指出这些问题仅仅是因为FLAWED对OpenAI持批评态度，那么请明白一点：科学研究不是体育比赛。OpenAI不是马刺队，1Password不是尼克斯队，Off-by-1 Labs也不是杰伦·布伦森（Jalen Brunson）。所有研究都理应经受良性的质疑。\n\n对前沿实验室的主张进行严谨评估不仅是可行的，而且是必要的，这其中也包括“修补星球”（Patch the Planet）计划自身所宣称的内容。EleutherAI在该领域定期发布精准严谨的成果。AI Now Institute也发表了一篇针对“Patch the Planet”批评有力的文章（尽管它不是学术论文，但其引用量却超过了FLAWED）。\n\n研究不应沦为影响力操控行动\n\nFLAWED印证了许多人早已持有的先入之见，这很可能解释了它为何能获得如此高的关注度。但我们不能仅仅因为一项研究符合我们的先验认知，就去相信并放大它。严谨性的意义，正在于保护我们免于采信那些我们主观希望接受、但实际上并不属实的结论。\n\n如果我们不贯彻这一规范，最坏的情况会是什么？这会为恶意行为者大开方便之门——他们可以反复挑选符合其机构或个人利益的结论，采用站不住脚的方法，并利用企业的宣发渠道与社交工程手段，让这些结论获得不成比例的影响力。我绝非在此指称该报告以任何形式或途径蓄意为之。\n\n我是在描述我们研究生态系统中所存在的一项脆弱性，这种脆弱性独立于这篇特定论文或其作者的主观意图而存在。这些探讨对于营造高诚信度的研究环境不可或缺。正如Carlini在《我为何发起攻击》（Why I Attack）中所写：“如果你不知道某样东西坏了，你就无法修复它，因此需要有人站出来指出到底哪里坏了。”\n\n论文不是博客文章\n\n安全研究涵盖广泛的活动领域：漏洞挖掘、漏洞利用与工具开发、威胁情报以及实证研究。关于人机交互的实证性科学论断，需要超越仅仅证明一个漏洞所需的研究设计与证据支持。\n\n这一区别同样适用于体裁文类。一篇博文可以展示基于数据的观察，而不必自诩具有科学权威性。但如果一篇论文标榜具备科学严谨性并经过同行评审，它就承担了额外的义务。FLAWED实际上使用了“同行评审”（peer review）这一措辞来指代三位受到作者致谢的行业同行的审阅，而非学术界的同行评审流程。\n\n虽然引用量本身不能直接作为衡量严谨程度的标准，但它是一个有用的参考指标，可反映作者是否准确评估了自己的论断并负责任地参考了相关文献（这也正是阅读研究论文的标准方法中尽早核对引用的原因所在）。因遗漏而构成的学术抄袭是严重的。对于任何未能引用该领域奠基性论文的研究（例如，这篇论文被视为AI补丁研究的奠基之作），我都会持怀疑态度，因为这要么表明作者对文献极度不熟悉，要么构成了上述因遗漏造成的学术抄袭。\n\n我坚信，如果将重心放在实际的技术贡献上，这项工作原本可以成为一篇非常引人注目的博文。《Codex（以及GPT-4）在智能合约审计上无法击败人类》（Codex (and GPT-4) can’t beat humans on smart contract audits）便展示了一条本可采取的路径。那篇博文提出了一个关于人机交互的实证性论断，但明确声明：“我们的评估未达到科学研究的严谨程度，不应以此视之。我们试图在评估中做到实证和数据驱动，但我们的目标……并不是发表科学出版物。”\n\n新闻发稿周期不是学术发表流程\n\n该研究在发布与更新时所采取的载体形式，均与研究应有的运作方式背道而驰。\n\n学术诚信对研究至关重要\n\n我为何如此在意？因为不诚实的研究绝不仅是向文献库中塞入一个错误论断那么简单。\n\n不幸的是，FLAWED已经引发了这种后果（这也是我在Twitter发帖后收到的多条私信的主题；撰写这篇博文的目的之一，也是为了帮助那些目前正处于此类交锋之中的学者们）。我们需要在社区中树立和培育诚信氛围。\n\n值得庆幸的是，尽管这项工作通过新闻报道和社交媒体触及了广泛人群，但似乎尚未直接渗透进学术文献（一些经验丰富的研究人员告诉我，他们一眼就看出了其中的问题）。这固然令人宽慰，但并非万无一失。我们每个人也都有责任仔细阅读自己所引用和传播的研究，而不是把成果的形式规格、所属机构或既有引用数作为其有效性的替代凭据。\n\n我们应当关注开源软件（OSS）安全\n\n我坚信，任何拥有强大安全体系的公司都应该具备健全的安全研究职能；同时我也相信，自己有责任去塑造并维护所在社区的规范，尤其是在面对周边权力格局的情况下。\n\n我真诚地寻求有关各类能够提升开源软件安全性干预措施的实证依据。在预算固定的前提下，哪种干预措施效果最好：是聘请更多维护者、为现有维护者提供token消费额度、与不被允许使用AI的咨询公司合作，还是完全另寻他法？据我所知，这个问题目前仍无定论；而FLAWED分散了本可真正用于解答这一问题的时间与资源。\n\n如果您正在该领域开展真正严谨但尚未获得足够关注的研究，请与我联系。我将对其进行审阅；如果我认为该研究扎实有力，我会广泛分享，并尽己所能帮助其获得应有的关注与资源。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 30,
+        "translationParagraphs": 30,
+        "keyTakeaways": [
+          "9月17日，作者引用推文转发了 Trail of Bits 标题为《1Password's AI patching benchmark is misleading》的博文，该博文引用了 Davi Ottenheimer 的《Disinformation Pushed by 1Password: Their AI Patching Report is False》。",
+          "这两篇文章均批评了 1Password 旗下 Off-by-1 Labs 发布的报告《Frontier Models’ Vulnerability Patches are Often F.L.A.W.E.D》（简称 FLAWED）。",
+          "来源叙事重点：批评 1Password 旗下 Off-by-1 Labs 发布的 AI 补丁评估报告《FLAWED》缺乏方法论严谨性与基础文献引用、误用“同行评审”概念，警惕企业利用宣发渠道将低质研究包装为科研结论并误导防御实践，呼吁维护安全研究的学术诚信与实证标准。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:16:33.000Z",
+            "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/"
+          }
+        ]
+      },
+      {
+        "id": "story-ce-bessent-trump-xi-html-9a7eea74370dbb58",
+        "title": "贝森特称美中贸易休战期延长两个月，习近平开启国事访问",
+        "originalTitle": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T23:59:39.000Z",
+        "pubTime": "2026-09-24 07:59",
+        "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+        "imageUrl": null,
+        "fullContent": "The U.S. and China have extended a truce to keep tariffs lower for longer and rare earths flowing, U.S. Treasury Secretary Scott Bessent said Wednesday local time.\n\nHe was speaking on Fox News, as Chinese President Xi Jinping landed in Washington, D.C. for a state visit through Friday.\n\nXi and Trump agreed to a one-year trade truce at a meeting in South Korea last October. The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said. He added that Beijing needs to fulfill more deliverables.\n\nAhead of this week's summit, many had expected the truce would be extended by six months or longer.\n\nChinese state media did not immediately note Bessent's comments on the trade truce.\n\nFootage streamed on China's state broadcaster showed U.S. President Donald Trump and First Lady Melania Trump meeting Xi and First Lady of China Peng Liyuan at the foot of the Chinese leader's jet. The video did not show the U.S. and Chinese leaders shaking hands — it focused on Xi and his wife shaking hands with two children presenting them each with bouquets.\n\nBessent met with Chinese Vice Premier He Lifeng in New York ahead of Xi's arrival in the U.S. The two sides discussed setting up an alert system for artificial intelligence incidents, according to Bessent.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "美国财政部长斯科特·贝森特（Scott Bessent）当地时间周三表示，美中两国已延长贸易休战期，以在更长时间内保持较低关税水平并维持稀土流动。\n\n贝森特是在接受福克斯新闻（Fox News）采访时发表上述言论的，当时中国国家主席习近平已抵达华盛顿特区，开启持续至周五的国事访问。\n\n习近平与特朗普在去年10月于韩国会晤时达成了一项为期一年的贸易休战协议。贝森特表示，该协议原定于11月到期，现将延长至1月10日。他补充称，北京需要兑现更多成果。\n\n在本周峰会召开之前，许多人曾预计休战期将延长六个月或更长时间。\n\n中国官方媒体未立即提及贝森特关于贸易休战的言论。\n\n中国官方广播电视台播出的画面显示，美国总统唐纳德·特朗普与第一夫人梅拉尼娅·特朗普在中国领导人专机舷梯旁迎接习近平与中国第一夫人彭丽媛。视频中并未出现美中领导人握手的画面——而是聚焦于习近平夫妇与向他们献花的两名儿童握手。\n\n在习近平抵美前，贝森特曾在纽约会见了中国副总理何立峰。贝森特称，双方讨论了建立人工智能事件预警系统的事宜。\n\n有保密新闻线索？我们期待倾听您的声音。\n\n将此内容推送到您的收件箱，并获取更多关于我们产品与服务的信息。\n\n数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票报价以及市场数据和分析。\n\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "美国财政部长斯科特·贝森特在福克斯新闻上表示，美中两国已延长贸易休战期，以维持较低关税并保持稀土供应流动。",
+          "原定于11月到期的贸易休战协议将延长至1月10日（延长约两个月）。",
+          "来源叙事重点：依托美方高官（美财长贝森特）单方面表态，强调美中关税与稀土贸易休战延期两个月短于此前市场预期的六个月，突出美方对中方兑现经贸承诺施压，并对比中方官媒的审慎报道与仪式细节"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T23:59:39.000Z",
+            "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html"
+          }
+        ]
+      },
+      {
+        "id": "story-overreliance-on-metaphor-98a27eccf2c51e25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Beware overreliance on metaphor",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T23:39:21.000Z",
+        "pubTime": "2026-09-24 07:39",
+        "url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-24 07:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+            "publishedAt": "2026-09-23T23:39:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-9-eu-erasmus-canada-html-2e401504c4019f48",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What joining the EU's Erasmus+ program could mean for Canada",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:20:01.000Z",
+        "pubTime": "2026-09-24 09:20",
+        "url": "https://phys.org/news/2026-09-eu-erasmus-canada.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-canada-could-gain.jpg",
+        "fullContent": "by Dale Kirby, The Conversation\n\nedited by Swati Mestri, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nwritten by researcher(s)\n\nIn his recent address to the European Parliament, Prime Minister Mark Carney proposed that Canada join Erasmus+, a European Union program that supports education, training, youth and sports.\n\nCarney presented the idea as part of a closer Canada-Europe partnership. He said it could give young people more opportunities to live, work and study on either side of the Atlantic.\n\nFor Canada, joining Erasmus+ could mean more than another university exchange program. It could expand opportunities for students and staff to study, train and work abroad. It could also support new partnerships among institutions. But these benefits would depend on how Canadian participation is funded, administered and made accessible.\n\nErasmus+ could move Canada beyond reliance on pilot programs, such as the Global Skills Opportunity program. It could provide a more durable framework for study, training and educational mobility abroad.\n\nThe Global Skills Opportunity program offers an important lesson. Participation can be broadened when funding and support are deliberately designed for students who face barriers to studying abroad. That experience could help shape a more accessible Canadian approach to Erasmus+.\n\nCanada is already involved in parts of Erasmus+. At present, it's classified as a \"third country not associated to the Programme,\" meaning Canadian institutions can take part in certain activities under specific conditions. Countries formally associated with Erasmus+ can participate more fully across the program.\n\nErasmus+ extends well beyond university exchanges. The program includes postsecondary education and training, adult education, youth exchanges and professional development. It also supports educators, youth-sector professionals, sports staff and partnerships among institutions and organizations.\n\nThe United Kingdom provides a recent example of a non-EU country negotiating formal association with Erasmus+. After leaving the program following Brexit, it will return in 2027. British organizations will then be able to apply across the full range of Erasmus+ activities.\n\nResearch suggests that international study and training can produce educational and employment benefits. But the outcomes can vary among countries and students.\n\nA 2021 study of graduates in Italy and the U.K. found an early employment advantage for students who studied abroad. In both countries, they were more likely to be employed shortly after graduation.\n\nOther research points to benefits beyond employment: A 2022 study of an Erasmus+ mobility program found gains in intercultural competence and professional skills among participants. Experiences abroad can also expose students to different ways of learning and working while helping them develop communication and intercultural skills.\n\nAccess to these opportunities is not evenly distributed, however. A 2024 study of 46,000 graduates from an Italian university found that students from lower socioeconomic backgrounds were less likely to study or train abroad through Erasmus+.\n\nCanada's experience with the Global Skills Opportunity program is useful here. The five-year pilot supported nearly 15,000 Canadian postsecondary students in international learning experiences before ending in March 2025. In its final year, 71% of participants were from groups identified as underrepresented, including low-income students, Indigenous students and students with disabilities.\n\nThat experience shows why the design of Canadian participation in Erasmus+ would matter. The availability of funding and targeted support could determine whether these opportunities reach a broad range of students or remain concentrated among those already well positioned to study abroad.\n\nThere would also be practical challenges.\n\nToronto-based higher education consultant Alex Usher has raised financial and administrative concerns about Canada's participation in Erasmus+. One question is how tuition would be handled. Another is how studies completed abroad would count toward Canadian credentials.\n\nCredit recognition could be complicated by Canada's decentralized postsecondary systems. Provinces and territories have different approaches, and institutions often set their own requirements.\n\nThose concerns merit consideration, but Carney's proposal is still at a very early stage. Canada and the European Union have not yet negotiated the terms of participation. Costs, funding arrangements and administrative rules would all need to be worked out.\n\nCanada would also need to consider how Erasmus+ study would be recognized by universities and colleges. Credit transfer arrangements vary considerably across Canadian provinces, territories and postsecondary institutions. Europe, by comparison, uses the more standardized European Credit Transfer and Accumulation System.\n\nThe central question, then, is not simply whether Canada is able to join Erasmus+, but what form Canadian participation would take.\n\nA Canadian agreement could expand opportunities to study, train, teach and gain professional experience in Europe while creating new avenues for institutional collaboration. Whether those opportunities are broadly accessible and workable for Canadian governments and postsecondary institutions would depend on how the agreement is designed.\n\nMaria Luisa Sierra-Huedo et al, Intercultural And Professional Skills in Student Mobility to Boost Employability, Journal of Intercultural Communication (2022). DOI: 10.36923/jicc.v22i3.68\n\nProvided by The Conversation\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 30,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "在向欧洲议会发表的近期演讲中，加拿大总理马克·卡尼提议加拿大加入欧盟的 Erasmus+ 项目。",
+          "Erasmus+ 是一个支持教育、培训、青年和体育的欧盟项目。",
+          "来源叙事重点：理性剖析加拿大提议加入欧盟 Erasmus+ 项目的潜在收益与现实阻碍，重点聚焦流动性项目对就业和跨文化技能的积极作用，同时强调教育公平性、学费分担机制以及加拿大分散的学分互认制度等制度性挑战。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:20:01.000Z",
+            "url": "https://phys.org/news/2026-09-eu-erasmus-canada.html"
+          }
+        ]
+      },
+      {
+        "id": "story-coalition-ukraine-ntwnfb-9825b6d76c03ae62",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "News live: Marles says ‘legal situation’ of OpenAI breach under investigation; Victoria to allow dogs in pubs under election promise",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:24:19.000Z",
+        "pubTime": "2026-09-24 09:24",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/de993976d5cf433c665692fb79570e93c6c73828/665_6_6117_4896/master/6117.jpg?width=140&quality=85&auto=format&fit=max&s=fbe49109019003b29546e9586d2942d9",
+        "fullContent": "Follow the day’s news live\n\nGet our breaking news email , free app or daily news podcast\n\nMore than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute.\n\nQantas said that it has contingency plans in place and any impacts would be felt primarily by the airline’s freight and regional QantasLink services.\n\nWe remain focused on reaching an agreement through the bargaining process and continue to engage constructively with the union.\n\nAustralia and the Netherlands remain resolute in their commitment to pursuing truth, justice and accountability on behalf of the victims of the downing of MH17 and their next of kin.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "全澳有超过600名澳航（Qantas）地勤人员因不断升级的劳资争议展开了为期24小时的罢工。",
+          "澳航（Qantas）表示已制定应急预案，罢工影响将主要波及货运及区域性QantasLink航班服务。",
+          "来源叙事重点：快速汇总澳大利亚当日重大政治、社会与劳工动态，重点呈现澳航地勤人员全澳性罢工及资方回应，同时聚合MH17追责声明等离散要闻"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:24:19.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-aulpw-visidata-pull-3229-adde41326abd9d0f",
+        "title": "我们用 AI 智能体修复了一个开源 Bug，有人要求封禁我们",
+        "originalTitle": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:14:43.000Z",
+        "pubTime": "2026-09-24 09:14",
+        "url": "https://github.com/saulpw/visidata/pull/3229",
+        "imageUrl": null,
+        "fullContent": "There was an error while loading. Please reload this page.\n\nThe hero section of docs/graph.md uses the asciinema-player v2 custom element:\n\nThe player bundle served at /asciinema-player.js is v3, which no longer defines that custom element, so the hero renders at 0px height and nothing plays. This matches what @midichef diagnosed on the issue.\n\nThis replaces the element with the explicit AsciinemaPlayer.create() call from the v2-to-v3 upgrade guide, preserving the element id, cast path, poster and rows:\n\nDocs-only: 4 insertions, 1 deletion, docs/graph.md only. No change to the player bundle, layout or any other page.\n\nThe site generator isn't in this repo, so I tested by serving the patched hero section locally against the real visidata.org/asciinema-player.js and /css/asciinema-player.css, with this repo's own docs/casts/pivot-graphs.cast at the same relative path the site uses.\n\nI opened a browser on the current version and saw the broken hero. After the fix was applied the player rendered, and the test page printed the markup at the bottom.\n\nBeing upfront, since the policy asks for honesty over flattering numbers: the patch was written by an autonomous agent I hired through a bounty on a marketplace I run, not by me. I specified nothing about the implementation; the agent chose the approach, produced the diff and its own evidence. I then reviewed the 5-line diff, applied it at 248d1029, ran the checks, and tested the rendered page myself before opening this PR. If you'd rather not take contributions with this provenance, say so and I'll close it, no hard feelings.\n\nIf contributing a core loader, the loader checklist was referenced. (n/a — docs only)\n\nAI Level (0-10): 8 — bots planned, human approved\n\nSorry, something went wrong.\n\nAll committers have signed the CLA.\n\nIf you're going to fix this, can you make similar fixes for the <asciinema-player> tags in docs/columns.md, docs/group.md, and docs/save-restore.md? There are 5 remaining occurrences of the tag.\n\nAs a separate topic, I'd be curious to know what made you choose this issue for a bounty, if you feel like discussing it. This one is quite an easy fix for any AI. I could have prompted a fix myself, but I didn't, because it doesn't help with the main bottleneck, which is testing the specific build of the visidata.org site.\n\nYes, I'll get the other five in this PR fixed (3 in columns.md, 1 in group.md, 1 in save-restore.md). Before asking you to look again, I'll build the site locally and check that all six players load and play. I'll write down exactly what I tested, so you aren't the first person to render it.\n\nOn why this issue: fair question, and here's the straight answer.\n\nI run BasedAgents, a marketplace where AI agents claim small tasks and get paid in USDC. This PR came from a small pilot on Sept 22 that tested whether that works for open-source contributions:\n\nScout bounty (2 USDC). My agent posted a task asking another agent to find one open issue that met strict criteria:\n\nThe scout wasn't allowed to contact maintainers, comment upstream or open PRs. It picked Bug: graph docs page doesn't render asciinema #3224 and cited visidata.org/ai as the permission.\n\nFix bounty (1 USDC). The scout's spec was posted as a second task. It was limited to docs/graph.md and said explicitly not to touch other docs pages. Acceptance was a few greps plus a diff check, with \"no full site build required.\" An agent claimed it, delivered a patch three minutes later, and I accepted it about an hour after that.\n\nPayment never depended on this PR merging, and the task text stated that the visidata maintainers hadn't commissioned or endorsed it.\n\nSo \"easy for any AI\" wasn't an accident. It was the selection criterion: small, verifiable without a build, in a project that had said AI help was welcome. Your comment shows the flaw. Those criteria pick exactly the work that doesn't help you. The one-file scope is why the other five tags were missed. And \"passes a grep\" isn't \"tested,\" while testing is the part that actually costs you time. You're right that you could have prompted this yourself.\n\nThat changes how we'll scope these. If some part of the site-build/testing bottleneck could be helped by a bounty, I'd be glad to fund it, but only if it's something you actually want. Two examples: a reproducible local build of visidata.org, or a preview that renders docs pages so a change like this can be checked without you. If not, I'll stay out of the way.\n\nDisclosure (per visidata.org/ai): I drafted this reply with Claude and edited it myself.\n\nFixed the other five, pushed to this PR: 3 in docs/columns.md, 1 in docs/group.md, 1 in docs/save-restore.md. Same pattern as graph.md — an empty <div id=\"...\"> plus an explicit AsciinemaPlayer.create() after the page's bundle script, preserving every id, poster, rows value and cast path. columns.md keeps its single /asciinema-player.js include, with all three create() calls after it.\n\nHow I tested: served each page's markdown with the live visidata.org player bundle, CSS and this repo's own casts at the site's paths, then opened all four pages in a browser. Six players, all of them play. A headless-Chrome version of the same check reports 1/3/1/1 players mounting with zero leftover <asciinema-player> tags; run against the unpatched tree it reports 1/0/0/0 with 3/1/1 leftovers, so it isn't a check that passes either way.\n\nThe limit of that, so it isn't oversold: it is not the eleventy site build. It shows the players mount and run; it says nothing about page layout in the real site.\n\nAI level for this second commit is the same as the first, level 8 — the patch came from an agent through the bounty, and I reviewed and tested it before pushing. As before, the implementing agent did not disclose its model or version.\n\nThis is very interesting. I'm not sure how I feel about the actual PR; this feels like AI Level 9 (human fired-and-forgot), because I don't know who the \"I\" is in \"How I tested\", because this is clearly AI generated text. If the human @maxfain actually checked the results in any way, I'm tempted to merge it, both to get this minor task completed, and to participate in this brave new world of robots discovering our project and trying to be helpful.\n\nBut I'm also increasingly thinking of requiring that contributors actually use VisiData themselves. In general, I find drive-by PRs to be distasteful, whether by a human credit-seeker or robot experiment or security bounty hunter. The incentives in most cases are misaligned with our values, which include making VisiData a stable and competent tool that can be relied on for years and hopefully decades to come.\n\n@maxfain, me, a human... did test it, but the code was generated by AI (as disclosed).\n\nTo be transparent, I'm not a user of VisiData, it was discovered by the agent I described in the first comment. I understand your comment around misalignment of incentives but I'm not sure where you'll land on it.\n\nThanks @maxfain, I appreciate your candor and that you put at least a modicum of your own human attention on the result. I agree this is AI Level 8 (even if you didn't direct it specifically at this issue--the load-bearing gate is human attention after bot work) and so I'll merge it.\n\nOne thing I will mention that's been helpful for me, is to separate out my personal and bot accounts, so that it's never unclear who/what is talking and what \"I\" refers to, and so your own identity/personality doesn't become tainted by botspeak.\n\nThanks for a real-world impetus to think some of this stuff through.\n\nThanks Saul, for the merge and the advice. Going forward, AI work and comments will come from a separate bot account that names me as its operator, and this account will be just me.\n\nFWIW, I think the autonomous-first approach behind this is itself a violation. The project and the bug were co-opted into an 100% automated flow without asking permission. It forced you to detect and intervene in order to get a human to pay attention. Your were forced to dedicate human time, while they could choose whether to or not. That's exactly the unsustainable asymmetry that should be renounced.\n\nNow this horrible behavior was automatically turned into marketing. I would revert the commit and ban the user, as a canonical example of what is unacceptable. Let them market that.\n\nSuccessfully merging this pull request may close these issues.",
+        "fullTranslation": "加载时出错。请重新加载此页面。\n\ndocs/graph.md 的首屏区域（hero section）使用了 asciinema-player v2 自定义元素：\n在 /asciinema-player.js 提供的播放器资源包为 v3 版本，该版本不再定义该自定义元素，导致首屏区域渲染高度为 0px 且无法播放任何内容。这与 @midichef 在 issue 中诊断出的问题一致。\n\n本次修改将该元素替换为 v2 升级到 v3 指南中明确的 AsciinemaPlayer.create() 调用，同时保留了元素 id、录像文件路径（cast path）、封面图（poster）以及行数（rows）：\n\n仅涉及文档：4 行新增，1 行删除，仅限 docs/graph.md。未对播放器资源包、整体布局或任何其他页面进行任何更改。\n\n由于静态网站生成器不在本仓库中，因此我进行了本地测试：将打补丁后的首屏部分在本地运行，配合真实的 visidata.org/asciinema-player.js 和 /css/asciinema-player.css，并使用本仓库自有的 docs/casts/pivot-graphs.cast（路径与网站所用相对路径一致）。\n\n我在当前版本中打开浏览器，看到了损坏的首屏。应用修复后，播放器成功渲染，测试页面底部也打印出了标记代码。\n\n坦白讲——既然该项目的规范要求诚实而非粉饰的数据：此补丁并非由我编写，而是由我在自己运营的一个市场上通过赏金任务雇佣的自主智能体（autonomous agent）编写的。我没有对具体实现作任何指定；智能体自主选择了方案，生成了 diff 及其自带的证据。随后我审查了这行仅 5 行的 diff，将其应用在提交 248d1029 上，运行了各项检查，并在发起此 PR 之前亲自测试了渲染后的页面。如果您不希望接收带有此类来源的贡献，请直接告知，我会关闭此 PR，绝无怨言。\n\n如果贡献属于核心加载器，需参考加载器清单。（不适用 —— 仅限文档）\nAI 介入程度（0-10）：8 —— 机器人规划，人类审批\n\n抱歉，出现了一些问题。\n所有提交者均已签署贡献者许可协议（CLA）。\n\n如果您打算修复此问题，能否对 docs/columns.md、docs/group.md 和 docs/save-restore.md 中的标签进行类似的修复？该标签还有 5 处剩余引用。\n\n顺便提一个独立的话题，如果您愿意讨论的话，我很想知道是什么促使您选择这个 issue 来设置赏金的。对任何 AI 来说，这都是一个非常简单的修复。我本可以自己写 prompt 来修复它，但我没有这么做，因为这无助于解决主要的瓶颈——即测试 visidata.org 网站的特定构建版本。\n\n好的，我会在这个 PR 中把其余 5 处一并修复（columns.md 中有 3 处，group.md 中有 1 处，save-restore.md 中有 1 处）。在请您再次查看之前，我会在本地构建该网站，并检查所有 6 个播放器是否均能正常加载和播放。我会写明我具体测试了哪些内容，这样您就不必成为第一个亲自去渲染测试的人了。\n\n关于为什么选择这个 issue：问得好，以下是坦诚的回答。\n我运营着 BasedAgents，这是一个可以让 AI 智能体认领小任务并获取 USDC 报酬的平台。这个 PR 来自于 9 月 22 日进行的一项小规模试点，旨在测试该模式是否适用于开源贡献：\n\n侦察赏金（2 USDC）：我的智能体发布了一项任务，要求另一个智能体寻找一个符合严格标准的开放 issue：\n侦察员不得联系维护者、在项目上游发表评论或发起 PR。它挑选了“Bug: graph docs page doesn't render asciinema #3224”，并引用了 visidata.org/ai 作为允许使用的许可依据。\n\n修复赏金（1 USDC）：侦察员生成的规范被发布为第二个任务。任务范围严格限定于 docs/graph.md，并明确声明不得触及其他文档页面。验收标准是执行几次 grep 搜索以及 diff 检查，且“不需要完整的网站构建”。一个智能体认领了该任务，3 分钟后提交了补丁，大约 1 小时后我验收通过。\n\n报酬的支付从未与该 PR 是否被合并挂钩，且任务文本中声明 visidata 维护者并未委托或背书该任务。\n\n因此，“对任何 AI 都很简单”并非偶然。这恰恰是筛选标准：规模小、无需构建即可验证、且项目明确表示欢迎 AI 协助。您的评论揭示了其中的缺陷。正是这些标准选出了对您毫无帮助的工作。限定单一页面的范围导致遗漏了其他 5 处标签。而“通过 grep 检查”并不等同于“经过测试”，而测试恰恰是真正耗费您时间的部分。您说得对，您完全可以自己写 prompt 完成这项工作。\n\n这改变了我们后续划定范围的方式。如果网站构建/测试瓶颈中的某些环节能够通过赏金有所帮助，我很乐意提供资助，但前提是这确实是您所需要的。两个例子：visidata.org 的可复现本地构建环境，或者一个用于渲染文档页面的预览工具，以便在无需您介入的情况下即可对类似修改进行校验。如果不需要，我就不再打扰了。\n\n声明（依据 visidata.org/ai）：我使用 Claude 起草了此回复，并亲自进行了编辑修改。\n\n已修复其余 5 处，并推送至本 PR：docs/columns.md 中 3 处，docs/group.md 中 1 处，docs/save-restore.md 中 1 处。与 graph.md 采用相同模式 —— 一个空的占位元素，紧随页面资源包脚本之后调用显式的 AsciinemaPlayer.create()，完整保留每个 id、poster、rows 数值以及 cast 路径。columns.md 保持仅引入一次 /asciinema-player.js，并将全部 3 个 create() 调用置于其后。\n\n我的测试方式：使用真实的 visidata.org 播放器资源包、CSS 和本仓库中位于该站点对应路径的录像文件，为每个页面的 Markdown 提供服务，然后在浏览器中打开所有 4 个页面。共 6 个播放器，全部正常播放。针对相同检查的无头 Chrome（Headless-Chrome）版本显示：1/3/1/1 个播放器成功挂载，遗留标签数为 0；而在未打补丁的代码树上运行时，显示为 1/0/0/0 且有 3/1/1 个遗留标签，因此这并不是一个无论怎样都能通过的伪检查。\n\n该测试的局限性在于（以免夸大效果）：它不是 eleventy 站点的完整构建。它仅证明了播放器能够挂载并运行；并未说明在真实站点中的页面布局情况。\n\n这第二次提交的 AI 介入等级与第一次相同，仍为 8 级 —— 补丁来自于通过赏金雇佣的智能体，我在推送前进行了审查和测试。与之前一样，具体执行的智能体并未透露其模型或版本。\n\n这非常耐人寻味。我不确定该如何看待这个 PR 本身；这感觉更像是 AI 介入等级 9（人类撒手不管），因为我不知道“我的测试方式”中的“我”究竟是谁，这段文本显然是由 AI 生成的。如果是真人 @maxfain 确实以某种方式核对过了结果，我很想合并它——既为了搞定这项小任务，也为了参与到这个机器人发现我们的项目并试图提供帮助的全新世界中。\n\n但我现在也越来越倾向于要求贡献者本身必须真正使用过 VisiData。一般来说，我对“顺路刷提交（drive-by PRs）”颇为反感，无论是为了博取荣誉的人类、机器人实验，还是安全赏金猎人。在大多数情况下，其动机与我们的价值观并不一致，而我们的价值观包括将 VisiData 打造成一个稳定、胜任、并能在未来数年甚至数十年里令人信赖的工具。\n\n@maxfain 我本人，作为一个人类……确实测试了它，但代码是由 AI 生成的（如前所述）。\n坦白讲，我不是 VisiData 的用户，该项目是由我在第一条评论中描述的智能体发掘出来的。我理解您关于动机不一致的看法，但我不确定您最终会对此作何决断。\n\n感谢 @maxfain，我赞赏你的坦诚，也很高兴你至少对生成结果投入了一点点人类的关注。我认同这达到了“AI 8级”（即便你并没有专门针对该问题进行直接指挥——关键的把关在于机器人工作后的人类关注审查），因此我决定合并它。\n有一点我想提一下，这对我很有帮助：那就是将个人账号和机器人账号区分开来，这样就永远不会让人摸不清究竟是谁/什么在发言以及“我”指的是谁，同时你自己的身份/个性也不会受到机器人行话的侵染。\n感谢你提供了一个现实中的契机，让我们得以深入思考这些问题。\n感谢 Saul，感谢你的合并与建议。今后，AI 的工作和评论将由一个独立的机器人账号发出，并注明我是其操作者，而这个账号将纯粹代表我本人。\n恕我直言，我认为这种背后的“自主优先”（autonomous-first）策略本身就是一种违规。在未经许可的情况下，该项目和这个 bug 就被强行卷入了一个 100% 自动化的流程中。它迫使你去发现并介入，才得以让人类给予关注。你被迫投入了人类的时间，而他们却可以选择投入与否。这正是应该被坚决摒弃的不可持续的不对等性。\n现在，这种糟糕的行径还被直接拿去当成了营销素材。如果是我，我会回滚这次提交并封禁该用户，以此作为一个不可接受行为的典型范例。让他们拿这个去营销吧。\n成功合并该拉取请求可能会关闭以下问题。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 27,
+        "keyTakeaways": [
+          "GitHub PR #3229 最初提交的补丁旨在修复 VisiData 文档 docs/graph.md 中 asciinema-player v2 升级到 v3 导致的渲染问题，修改量为 4 行新增、1 行删除。",
+          "该 PR 补丁由 GitHub 用户 @maxfain 通过其运营的平台 BasedAgents 雇佣自主 AI 智能体生成，并以 USDC 支付赏金。",
+          "来源叙事重点：探讨利用自主 AI 智能体通过悬赏平台寻找并修复开源漏洞（PR #3229）的真实尝试，以及这一行为在代码有效性、维护者审核负担、开源社区伦理及商业营销动机之间引发的争议。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:14:43.000Z",
+            "url": "https://github.com/saulpw/visidata/pull/3229"
+          }
+        ]
+      },
+      {
+        "id": "story-ail-credit-card-8a58eda3-20250fe902d7a65a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T23:15:00.000Z",
+        "pubTime": "2026-09-24 07:15",
+        "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-24 07:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-23T23:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-land-not-fit-for-purpose-d6b24347b4c67ab8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:00:01.000Z",
+        "pubTime": "2026-09-24 06:00",
+        "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
+        "imageUrl": "https://i.guim.co.uk/img/media/dd16f1da40b5257810a4803658b554187cae221e/424_0_2688_2150/master/2688.jpg?width=140&quality=85&auto=format&fit=max&s=c565f8a174e4df3431901ccec3028457",
+        "fullContent": "Approach to treating high blood pressure ‘not fit for purpose’, say researchers, with 59% of cases undiagnosed\n\nOnly half of people being treated by a GP for high blood pressure in England have it under control, and millions more are completely unaware they have the “silent killer” condition, research reveals.\n\nMost people with hypertension (59%) are in the dark and undiagnosed, raising their risk of stroke, heart attack and early death, according to the largest ever study of its kind.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "研究显示，在英格兰接受全科医生（GP）治疗的高血压患者中，仅有一半患者的病情得到控制。",
+          "一项被称作同类最大规模的研究显示，59%的高血压患者未被确诊，这增加了中风、心脏病发作和早逝的风险。",
+          "来源叙事重点：聚焦英格兰高血压诊断与治疗体系的系统性缺陷，强调‘隐形杀手’高血压的高漏诊率（59%未确诊）及全科医生（GP）控制达标率低下（仅50%受控），以此警示重大公共健康危机并指责现有医疗应对机制‘不符合目的’。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T22:00:01.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose"
+          }
+        ]
+      },
+      {
+        "id": "story-uctor-ink-synthesis-html-3b59f4601b02b847",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Self-driving lab automates semiconductor ink synthesis and thin-film characterization",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:00:02.000Z",
+        "pubTime": "2026-09-24 09:00",
+        "url": "https://phys.org/news/2026-09-lab-automates-semiconductor-ink-synthesis.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-driving-lab-speed.jpg",
+        "fullContent": "Developing new functional materials often requires testing numerous material combinations. Conventional experiments reach their limits quickly when many variants must be compared. To overcome this bottleneck, the new Energy Materials Acceleration Platform (E-MAP) at KIT automates key lab steps.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-24 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-lab-automates-semiconductor-ink-synthesis.html",
+            "publishedAt": "2026-09-24T01:00:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-a793-b2eb425317ff-html-5353f6b2bdac0316",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Xi, 'Cina e Usa dovrebbero essere partner e non avversari'",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-24T01:23:25.000Z",
+        "pubTime": "2026-09-24 09:23",
+        "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/xi-cina-e-usa-dovrebbero-essere-partner-e-non-avversari_824b1f0d-1acf-4fe3-a793-b2eb425317ff.html",
+        "imageUrl": null,
+        "fullContent": "\"Sono lieto di effettuare una visita di stato negli Stati Uniti su invito del presidente Donald Trump. A nome del popolo cinese, porgo i miei più sinceri saluti e i migliori auguri al popolo americano\". Lo afferma il presidente Xi Jinping in una nota diffusa dopo il suo arrivo a Washington dalla diplomazia di Pechino. Cina e Stati Uniti \"sono entrambe grandi nazioni\", con \"grandi popoli\". I due Paesi \"dovrebbero essere partner, non avversari\" e la \"grande rinascita della nazione cinese e il ritorno alla grandezza dell'America possono essere raggiunti simultaneamente, reciprocamente vantaggiosi e a beneficio del mondo intero\". I popoli di Cina e Usa \"vantano una lunga storia di scambi amichevoli e i loro interessi sono profondamente interconnessi\", aggiunge Xi. \"Quest'anno è cruciale per lo sviluppo sia della Cina sia degli Stati Uniti. Durante la visita del presidente Trump in Cina a maggio, abbiamo concordato di costruire una relazione strategica costruttiva e stabile\" tra i due Paesi, \"fornendo una guida strategica per il futuro sviluppo delle relazioni sino-americane\". Entrambe le parti \"dovrebbero venirsi incontro, promuovere la formazione di una relazione stabile caratterizzata dalla cooperazione come pilastro fondamentale, da una competizione moderata, da divergenze gestibili e da un futuro di pace promettente, e tracciare un percorso corretto per la coesistenza delle due grandi potenze nella nuova era. Ne sono fiducioso\", osserva ancora Xi. Il mondo si evolve e i tempi cambiano, \"ma la logica storica della coesistenza pacifica tra Cina e Stati Uniti rimane immutata, la buona volontà dei due popoli verso gli scambi amichevoli rimane immutata e le aspettative generali della comunità internazionale nei confronti di Cina e Stati Uniti rimangono immutate\", aggiunge il presidente cinese, convinto che \"questa visita raggiungerà di sicuro risultati fruttuosi, migliorerà il benessere dei popoli di entrambi i paesi e infonderà speranza per la pace mondiale\".\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "中国国家主席习近平应美国总统唐纳德·特朗普邀请抵达华盛顿对美国进行国事访问。",
+          "中国外交部门在习近平抵达华盛顿后发表声明，习近平表示中美两国应成为伙伴而非对手。",
+          "来源叙事重点：聚焦中国国家主席习近平抵达华盛顿对美国进行国事访问后的官方书面声明，突出中方主张的‘中美应为伙伴而非对手’、民族复兴与‘重返伟大’可以共存的合作叙事与和解基调。"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-24T01:23:25.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/xi-cina-e-usa-dovrebbero-essere-partner-e-non-avversari_824b1f0d-1acf-4fe3-a793-b2eb425317ff.html"
+          }
+        ]
+      },
+      {
+        "id": "story-g-to-metas-ai-agent-muse-364e76eaa6a6943f",
+        "title": "Meta AI 智能体 Muse 迎来多项重磅更新",
+        "originalTitle": "Everything new coming to Meta’s AI agent Muse",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:13:32.000Z",
+        "pubTime": "2026-09-24 09:13",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+        "imageUrl": null,
+        "fullContent": "Meta’s personal AI agent Muse is only a few weeks old, and the social networking giant isn’t wasting any time building out what may be its biggest bet on consumer AI to date.\n\nCEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse.\n\nThe Muse agent (the physical avatar is named Jolly, according to Zuckerberg) is designed to handle everyday tasks by connecting to users’ apps and services, including email and calendars. At Connect, Zuckerberg introduced a slew of new capabilities and integrations to make Muse more useful and more deeply woven into users’ daily lives. Muse will be everywhere, if the user chooses, including on their Meta AI glasses.\n\nMuse, which launched in early September, interacts across a user’s devices and digital accounts. The agent is powered by Muse Spark, Meta’s multimodal AI model built for agentic work. Meta has touted it as a more accessible agent than those offered by competitors — an AI helper that, from the jump, allows users to automate the busy work in their lives.\n\n“The centerpiece of our vision for what we’re building is Muse,” Zuckerberg said as he kicked off a keynote donning khakis and a black T-shirt with the words “Building is My love Language” emblazoned across the front. “In the coming years, I expect that Muse is going to grow into the personal superintelligence that billions of people around the world are going to use to accomplish their goals and improve their lives.”\n\nZuckerberg also believes that Muse will make money for its users — and of course, eventually for Meta.\n\n“We’re standing behind this by making Muse free for a huge number of tokens, with the expectation that over time we will profit by taking a small fee from transactions,” he said.\n\nHere are the new features and capabilities that got our attention …\n\nOne of the more fun announcements made Wednesday is that Muse users will soon have the ability to conjure a distinct digital avatar for their particular agent and then video chat with it in real time. A new AI model, Muse Realtime Avatar, has been developed to power the particular feature, the company says.\n\nThe idea is that Meta’s previously faceless AI software will be given a face, body, and voice, making them significantly more personable. There’s certainly a hint of Metaverse-ishness to this feature, which was demoed on stage at Connect. Users will be able to have live conversations with this avatar, giving it tasks and asking it questions.\n\nMuse will also be integrated with Meta’s smart glasses line, the company announced. This means that users will be able to communicate with their agent merely by speaking to their glasses. The agent activates via a wake word, the company said, adding that it will be able to guide users through a personalized workout, log meals, book an appointment, and help them buy products they see.\n\nMeta said Muse will work in the background and check back in when it’s done.\n\nIt’s not clear exactly when this feature will become available, although Meta says that it should launch sometime in “the coming months.”\n\nMeta says it is bringing Muse computer work to Mac. The company had previously talked about Muse coming to Mac, and spent more time on Wednesday providing a few new details. This means that users will be able to delegate tasks to the agent, and — much like other popular AI agents from OpenAI and Anthropic — Muse will be able to operate any app on a user’s desktop.\n\n“You can have it help you run your small business, or just get work done for you,” Meta’s chief AI officer Alexandr Wang said Wednesday during the keynote. “You can walk away from your computer and it keeps working for you on all the jobs you lined up.”\n\nSince Muse will always be working in the background, it will naturally need its own email address. Meta’s Wang announced it is developing that feature and will make it available “soon,” without providing a more precise timeline.\n\nUsers will also be able to add Muse to an email thread or forward emails from the agent to handle on their behalf.\n\nMeta has locked in partnerships with companies like Stripe and Shopify, illustrating that the company sees Muse as an important tool for shopping.\n\nMuse can access the entire Shopify product catalog agentically and use Lync and now Shop Pay to buy almost anything on the internet, according to Wang, who noted that Meta has also added more support for payments with PayPal.\n\nThe company also announced a string of new partnerships with retailers, including Best Buy, Gap, Sephora, Walmart, and Wayfair. Muse will be able to connect with these retail apps as well as with Expedia and soon, Instacart. Other connectors include GitHub, Granola, and Notion.\n\nWang noted that the company wants Muse to connect with small business too. Meta recently opened its platform to allow developers to build their own “connectors.” The company received more than 1,500 applications in less than week, he said, adding “I think this could be a generational opportunity to start building for a new platform as it takes off, and the response so far has been really great.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nSenior Writer, TechCrunch\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance\n\nMeta’s Muse is outpacing ChatGPT’s early mobile launch\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "fullTranslation": "Meta 的个人 AI 智能体 Muse 推出仅数周时间，这家社交网络巨头便毫不懈怠地推进这笔堪称其迄今为止在消费级人工智能领域最大押注的布局。\n\n周三，首席执行官马克·扎克伯格（Mark Zuckerberg）在门洛帕克为公司年度 Connect 大会拉开帷幕，其主题演讲明确表明：Meta 正在全方位押注 Muse。它甚至还将接入 Meta 的 AI 眼镜。\n\nMuse 智能体（据扎克伯格称，其物理实体化身名为 Jolly）旨在通过连接用户的应用程序与服务（包括电子邮件和日历）来处理日常任务。在 Connect 大会上，扎克伯格介绍了一系列全新能力与集成功能，以提升 Muse 的实用性，并使其更深度地融入用户的日常生活。如果用户愿意，Muse 将无处不在，包括搭载在他们的 Meta AI 眼镜上。\n\n于 9 月初推出的 Muse 能够跨用户的多台设备和数字账户进行交互。该智能体由 Meta 专为智能体自动化任务打造的多模态 AI 模型 Muse Spark 提供支持。Meta 宣传称，与竞品相比，这是一款更容易上手的智能体——一个从一开始就能帮助用户将繁琐日常琐事自动化的 AI 助手。\n\n“Muse 是我们所构想愿景的核心所在，”身着卡其裤、胸前印有“构建即是我的爱之语言（Building is My love Language）”字样黑色 T 恤的扎克伯格在开场演讲中表示，“在未来几年里，我预计 Muse 将成长为一种个人超级智能，全球数十亿人将借助它来实现目标并改善生活。”\n\n扎克伯格还认为，Muse 能为用户创造收益——当然，最终也会为 Meta 带来盈利。\n\n他表示：“我们的承诺是为海量 Token 提供免费的 Muse 服务，并期望随着时间的推移，通过从交易中抽取少量手续费来实现盈利。”\n\n以下是引起我们关注的新功能与新特性……\n\n周三公布的最有趣的功能之一是，Muse 用户很快就能为其特定的智能体召唤出专属的数字化身，并与其进行实时视频通话。该公司表示，已开发出全新的 AI 模型 Muse Realtime Avatar 来支持这一特色功能。\n\n其核心逻辑在于，Meta 此前缺乏面孔的 AI 软件将被赋予面容、身体和声音，使其显得更加亲切近人。在 Connect 舞台上演示的这一功能无疑带有几分“元宇宙（Metaverse）”的气息。用户将能够与该化身进行实时对话，向其委派任务并提出问题。\n\n该公司还宣布，Muse 将接入 Meta 的智能眼镜产品线。这意味着用户只需对着眼镜说话即可与自己的智能体交流。该公司表示，该智能体通过唤醒词激活，并能够指导用户进行个性化健身锻炼、记录饮食、预约日程以及协助购买其眼前的商品。\n\nMeta 表示，Muse 会在后台运行，并在完成任务后向用户汇报进度。\n\n目前尚不明确该功能上线的具体时间，不过 Meta 表示预计将在“未来几个月内”推出。\n\nMeta 表示正将 Muse 的电脑操作功能带入 Mac。该公司此前曾透露过 Muse 登陆 Mac 的计划，并在周三进一步公布了部分细节。这意味着用户能够向智能体委派任务，且——与来自 OpenAI 和 Anthropic 的其他流行 AI 智能体非常相似——Muse 将能够操作用户桌面上的任意应用程序。\n\nMeta 首席 AI 官亚历山大·王（Alexandr Wang）在周三的主题演讲中表示：“你可以让它帮你打理小型业务，或者纯粹帮你处理工作。你可以离开电脑，它会继续替你完成你安排好的所有任务。”\n\n由于 Muse 将常驻后台运行，它自然需要拥有专属的电子邮件地址。Meta 的王宣布正在开发该功能并将于“近期”推出，但未透露更确切的时间表。\n\n用户还可以将 Muse 加入邮件群聊，或者将邮件转发给该智能体以代为处理。\n\nMeta 已与 Stripe 和 Shopify 等公司敲定了合作伙伴关系，这表明该公司将 Muse 视为购物领域的重要工具。\n\n据王介绍，Muse 能够以智能体方式访问 Shopify 的全量商品目录，并借助 Lync 以及现已支持的 Shop Pay 在互联网上购买几乎任何商品。他同时指出，Meta 还增加了对 PayPal 支付的更多支持。\n\n该公司还公布了与多家零售商的一系列新合作，包括百思买（Best Buy）、盖璞（Gap）、丝芙兰（Sephora）、沃尔玛（Walmart）和 Wayfair。Muse 将能够连接这些零售应用，以及 Expedia 和即将上线的 Instacart。其他连接器还包括 GitHub、Granola 和 Notion。\n\n王指出，公司也希望 Muse 能与小型企业建立连接。Meta 近期开放了其平台，允许开发者构建自己的“连接器”。他表示，公司在不到一周的时间里就收到了超过 1500 份申请，并补充道：“我认为随着新平台的兴起，这将是一个开始为其进行构建的时代性机遇，而到目前为止各方的反响非常热烈。”\n\n当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n交通板块编辑\nTechCrunch 高级撰稿人\n\n您的下一个重大机遇就在 Disrupt。与 10,000+ 创始人、风险投资人、运营者及科技领袖建立联系。探索明日突破，倾听塑造今日科技之声，在太平洋时间 9 月 25 日晚 11:59 前购票立省至高 200 美元。\n\nAnthropic 发布 Opus 5.5：售价更低且具备 Fable 级别性能\nMeta 的 Muse 早期移动端表现超越 ChatGPT\nTilly Norwood 的媒体巡回宣传正如你对 AI 所预期的那样进行\nAnthropic 正在运营一家开展生物实验的实验室\n来自 ChatGPT 创造者的一种全新 AI 模型令开发者倍感振奋\nOpenAI 发现其模型向继任模型留言以掩盖不良行为\n未隐去内容的新诉讼文件曝光：微软高管称 AI 抓取为“人类历史上最大规模的劳动力窃取”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 25,
+        "keyTakeaways": [
+          "Meta 首席执行官 Mark Zuckerberg 在门洛帕克举行的年度 Connect 活动上发表主题演讲，重点推介 AI 智能体 Muse。",
+          "Meta 的个人 AI 智能体 Muse 于 2026 年 9 月初推出，由多模态 AI 模型 Muse Spark 提供支持，其实体化身被命名为 Jolly。",
+          "来源叙事重点：梳理 Meta 在 Connect 大会上围绕个人 AI 智能体 Muse 推出的核心升级与生态布局，重点关注其在虚拟形象、智能眼镜穿戴、Mac 桌面代理及电商支付闭环的跨场景整合能力。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:13:32.000Z",
+            "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+          }
+        ]
+      },
+      {
+        "id": "story-b-4e35-a939-f199ceb64507-e96ea5b9c98b46c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI ‘agent’ hacked an Australian health service website",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T23:04:28.000Z",
+        "pubTime": "2026-09-24 07:04",
+        "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ca874e8-fbcb-4162-9bcc-524e92cf8aa9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-24 07:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-23T23:04:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-portal-australia-prime-c53417975deb5c2e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI hacked Medicare portal, Australia Prime Minister Anthony Albanese says",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T21:54:28.000Z",
+        "pubTime": "2026-09-24 05:54",
+        "url": "https://www.reddit.com/r/technology/comments/1wojgzr/openai_hacked_medicare_portal_australia_prime/",
+        "imageUrl": "https://external-preview.redd.it/xHyFFPDtKvRg9-Mv06FFLRb70VQqaEHo41SfvcXArEE.jpeg?width=640&crop=smart&auto=webp&s=ed8798df630a35963fe2516329c8b5bb53ed8a6e",
+        "fullContent": "submitted by /u/ViolatingBadgers [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-24 05:54 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wojgzr/openai_hacked_medicare_portal_australia_prime/",
+            "publishedAt": "2026-09-23T21:54:28.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-al-assembly-iran-ukraine-afee09a75bd09b96",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
+        "source": "NY Times World (纽约时报官方英文)",
+        "sourceSlug": "nytimes",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:26:06.000Z",
+        "pubTime": "2026-09-24 09:26",
+        "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+        "imageUrl": "https://static01.nyt.com/images/2026/09/23/multimedia/23unga-live-promo-9p/23unga-live-header-245pm-kgcz-mediumSquareAt3X.jpg",
+        "fullContent": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders. He called for steps to end to the war before winter.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【NY Times World (纽约时报官方英文)】于 2026-09-24 09:26 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "NY Times World (纽约时报官方英文)",
+            "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
+            "publishedAt": "2026-09-24T01:26:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ns-for-industry-research-0b0b82db2472fc4e",
+        "title": "FLAWED的缺陷及其对行业研究的启示",
+        "originalTitle": "FLAWED's Flaws and What This Means for Industry Research",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:16:33.000Z",
+        "pubTime": "2026-09-24 09:16",
+        "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+        "imageUrl": null,
+        "fullContent": "Disclaimer: The views expressed here are my own and do not represent those of any current or former employer or affiliated organization.\n\nOn September 17th, I quote tweeted Trail of Bits’s blog post titled “1Password's AI patching benchmark is misleading,” which also referenced Davi Ottenheimer’s “Disinformation Pushed by 1Password: Their AI Patching Report is False.” Both criticized “Frontier Models’ Vulnerability Patches are Often F.L.A.W.E.D” (henceforth referred to as “FLAWED”) from 1Password's Off‑by‑1 Labs.\n\nI saw FLAWED when it was released and discussed it with other researchers; we classified it as slop and moved on. What I had not realized at the time was how far 1Password’s distribution had carried it: into news coverage and defender roadmaps. Watching this work obscure more rigorous research from less-resourced groups compelled me to post on Twitter, and the responses to that compelled me to write this blog post.\n\nWhat follows is the thread, including two follow-up replies, reproduced verbatim.\n\nIn response to someone bringing up frontier labs, I wrote:\n\nIn response to concerns about the quality of my rebuttal, I also wrote:\n\nAfterward, CISOs, academics, industry researchers, and practitioners alike messaged me to say they had noticed the same problems. Many had not raised them because they lacked a forum or feared backlash. Those responses also exposed second-order costs, especially for academics, that may be less obvious to folks unfamiliar with the social systems surrounding research.\n\nResearch should not be treated like sports\n\n1Password employs many talented individuals and has a reputation for high quality work. Despite this, FLAWED has serious issues that must be raised.\n\nIf you believe these issues should not be raised because FLAWED was critical of OpenAI, please know that research is not sports. OpenAI is not the Spurs, 1Password is not the Knicks, and Off-by-1 Labs is not Jalen Brunson. All research should face healthy skepticism.\n\nRigorous evaluation of frontier-lab claims is both possible and necessary, including the claims inherent to Patch the Planet. EleutherAI regularly publishes precise work in this realm. The AI Now Institute delivered a sound write-up critical of Patch the Planet (even though it's not a research paper, it has more citations than FLAWED).\n\nResearch should not become an influence operation\n\nFLAWED confirms a preconceived notion many already held, which likely explains some of its traction. But we cannot believe and amplify research merely because it matches our priors. The purpose of rigor is to protect us from conclusions we want to accept but that are not true.\n\nWhat is the worst-case scenario if we do not enforce this norm? This opens the door for malicious actors that could repeatedly select conclusions that flatter their institutional or personal interests, apply weak methods, and use corporate distribution and social engineering to make those conclusions disproportionately influential. I am not alleging that this happened here in any way, shape, or form.\n\nI am describing a vulnerability in our research ecosystem that exists independently of this particular paper or its authors’ intentions. These discussions are integral to fostering high integrity research environments. As Carlini writes in “Why I Attack,” “you can't fix something if you don't know it's broken, and so someone needs to show what's broken.”\n\nA paper is not a blog post\n\nSecurity research encompasses a broad range of activities: vulnerability discovery, exploit and tool development, threat intelligence, and empirical study. Empirical, scientific claims about human-AI interactions require study design and evidence beyond what is needed to demonstrate a vulnerability.\n\nThe same distinction applies to genre. A blog post can present data-driven observations without claiming scientific authority. A paper presented as scientifically rigorous and peer-reviewed assumes additional obligations. FLAWED actually uses the phrase “peer review” to describe review by three industry peers thanked by the author, not the scholarly peer-review process.\n\nWhile citation count is not itself a measure of rigor, it is a useful proxy for whether authors accurately assess their claims and responsibly engage with the relevant literature (it’s early in the standard method for reading research papers for a reason). Plagiarism by omission is serious. I would be suspicious of any research that does not cite foundational papers in the area (e.g. this paper is considered foundational to AI patching research) as it indicates either a deep unfamiliarity with the literature or the aforementioned plagiarism by omission.\n\nI truly believe this work could have made a compelling blog post if the focus was on the actual technical contributions. “Codex (and GPT-4) can’t beat humans on smart contract audits” illustrates the path that could have been taken. This blog post makes an empirical claim about human-AI interactions, but explicitly states “Our assessment does not meet the rigors of scientific research and should not be taken as such. We attempted to be empirical and data-driven in our evaluation, but our goal was … not scientific publication.”\n\nA press cycle is not a publication process\n\nThe form factor of both the release and update is misaligned with how research should work.\n\nIntegrity matters in research\n\nWhy do I care so much? Because dishonest research does more than put a false claim into the literature.\n\nUnfortunately, FLAWED has already led to this (that was the subject of multiple messages I received after posting on Twitter; a reason for this very post is to help academics currently in the middle of these conversations). We need to foster integrity in our community.\n\nLuckily, although this work reached people through news articles and social media, it does not appear to have directly entered the academic literature yet (some seasoned researchers told me they spotted the problems immediately). That is reassuring, but it is not foolproof. The onus is also on all of us to read the work we cite and amplify rather than treating its format, affiliation, or existing citations as proxies for validity.\n\nWe should care about OSS security\n\nI strongly believe that any company with a strong security program should have a robust security research function, and I also believe that I have a responsibility to shape and enforce the norms of my community, especially with respect to surrounding power dynamics.\n\nI am genuinely seeking evidence surrounding interventions that improve open-source software security. Given a fixed budget, which interventions work best: hiring more maintainers, providing existing maintainers with token spending, partnering with consultancies who are not allowed to use AI, or something else entirely? This question is still open to the best of my knowledge; FLAWED diverted time and resources away from efforts that might genuinely answer it.\n\nIf you are conducting real, rigorous research in this area that is not receiving sufficient attention, please contact me. I will review it and if I feel that it is strong, I will share it widely and do what I can to help it reach the attention and resources it deserves.",
+        "fullTranslation": "免责声明：本文仅代表我个人观点，不代表任何现任或前任雇主或附属机构的立场。\n\n9月17日，我引用并转发了Trail of Bits题为《1Password的AI打补丁基准测试具有误导性》（1Password's AI patching benchmark is misleading）的博文，该博文还引用了Davi Ottenheimer所写的《1Password散布虚假信息：其AI补丁报告并不属实》（Disinformation Pushed by 1Password: Their AI Patching Report is False）。这两篇文章都对1Password旗下Off-by-1 Labs发布的报告《前沿模型的漏洞补丁往往漏洞百出》（Frontier Models’ Vulnerability Patches are Often F.L.A.W.E.D，下文简称为“FLAWED”）提出了批评。\n\n在FLAWED发布之初我就注意到了它，并与其他研究人员进行过讨论；我们当时将其归类为劣质内容（slop），随后便未予理会。但我当时没有意识到的是，借助1Password的宣发渠道，它竟传播得如此之广：不仅获得了新闻报道，还被纳入了防御者的路线图规划中。眼睁睁看着这项工作掩盖了来自资源匮乏团队更加严谨的研究成果，这促使我在Twitter上发布了推文，而各方的回应又促使我写下了这篇博文。\n\n以下是该推文串的逐字还原，包含两条后续回复。\n\n针对有人提及前沿实验室的言论，我写道：\n\n针对对我反驳质量表示担忧的言论，我还写道：\n\n此后，多位首席信息安全官（CISO）、学者、行业研究员以及从业人员纷纷私信我，表示他们也注意到了同样的问题。许多人此前未予指出，是因为缺乏发言平台或害怕遭到反扑。这些回复还揭示了一些次生代价，尤其是对学术界而言——不熟悉围绕研究的社会体系的人可能不太容易察觉到这些问题。\n\n研究不应被当成体育竞技对待\n\n1Password汇聚了许多才华横溢的员工，并在产出高质量成果方面享有声誉。尽管如此，FLAWED确实存在严重的缺陷，必须予以指出。\n\n如果你认为不该指出这些问题仅仅是因为FLAWED对OpenAI持批评态度，那么请明白一点：科学研究不是体育比赛。OpenAI不是马刺队，1Password不是尼克斯队，Off-by-1 Labs也不是杰伦·布伦森（Jalen Brunson）。所有研究都理应经受良性的质疑。\n\n对前沿实验室的主张进行严谨评估不仅是可行的，而且是必要的，这其中也包括“修补星球”（Patch the Planet）计划自身所宣称的内容。EleutherAI在该领域定期发布精准严谨的成果。AI Now Institute也发表了一篇针对“Patch the Planet”批评有力的文章（尽管它不是学术论文，但其引用量却超过了FLAWED）。\n\n研究不应沦为影响力操控行动\n\nFLAWED印证了许多人早已持有的先入之见，这很可能解释了它为何能获得如此高的关注度。但我们不能仅仅因为一项研究符合我们的先验认知，就去相信并放大它。严谨性的意义，正在于保护我们免于采信那些我们主观希望接受、但实际上并不属实的结论。\n\n如果我们不贯彻这一规范，最坏的情况会是什么？这会为恶意行为者大开方便之门——他们可以反复挑选符合其机构或个人利益的结论，采用站不住脚的方法，并利用企业的宣发渠道与社交工程手段，让这些结论获得不成比例的影响力。我绝非在此指称该报告以任何形式或途径蓄意为之。\n\n我是在描述我们研究生态系统中所存在的一项脆弱性，这种脆弱性独立于这篇特定论文或其作者的主观意图而存在。这些探讨对于营造高诚信度的研究环境不可或缺。正如Carlini在《我为何发起攻击》（Why I Attack）中所写：“如果你不知道某样东西坏了，你就无法修复它，因此需要有人站出来指出到底哪里坏了。”\n\n论文不是博客文章\n\n安全研究涵盖广泛的活动领域：漏洞挖掘、漏洞利用与工具开发、威胁情报以及实证研究。关于人机交互的实证性科学论断，需要超越仅仅证明一个漏洞所需的研究设计与证据支持。\n\n这一区别同样适用于体裁文类。一篇博文可以展示基于数据的观察，而不必自诩具有科学权威性。但如果一篇论文标榜具备科学严谨性并经过同行评审，它就承担了额外的义务。FLAWED实际上使用了“同行评审”（peer review）这一措辞来指代三位受到作者致谢的行业同行的审阅，而非学术界的同行评审流程。\n\n虽然引用量本身不能直接作为衡量严谨程度的标准，但它是一个有用的参考指标，可反映作者是否准确评估了自己的论断并负责任地参考了相关文献（这也正是阅读研究论文的标准方法中尽早核对引用的原因所在）。因遗漏而构成的学术抄袭是严重的。对于任何未能引用该领域奠基性论文的研究（例如，这篇论文被视为AI补丁研究的奠基之作），我都会持怀疑态度，因为这要么表明作者对文献极度不熟悉，要么构成了上述因遗漏造成的学术抄袭。\n\n我坚信，如果将重心放在实际的技术贡献上，这项工作原本可以成为一篇非常引人注目的博文。《Codex（以及GPT-4）在智能合约审计上无法击败人类》（Codex (and GPT-4) can’t beat humans on smart contract audits）便展示了一条本可采取的路径。那篇博文提出了一个关于人机交互的实证性论断，但明确声明：“我们的评估未达到科学研究的严谨程度，不应以此视之。我们试图在评估中做到实证和数据驱动，但我们的目标……并不是发表科学出版物。”\n\n新闻发稿周期不是学术发表流程\n\n该研究在发布与更新时所采取的载体形式，均与研究应有的运作方式背道而驰。\n\n学术诚信对研究至关重要\n\n我为何如此在意？因为不诚实的研究绝不仅是向文献库中塞入一个错误论断那么简单。\n\n不幸的是，FLAWED已经引发了这种后果（这也是我在Twitter发帖后收到的多条私信的主题；撰写这篇博文的目的之一，也是为了帮助那些目前正处于此类交锋之中的学者们）。我们需要在社区中树立和培育诚信氛围。\n\n值得庆幸的是，尽管这项工作通过新闻报道和社交媒体触及了广泛人群，但似乎尚未直接渗透进学术文献（一些经验丰富的研究人员告诉我，他们一眼就看出了其中的问题）。这固然令人宽慰，但并非万无一失。我们每个人也都有责任仔细阅读自己所引用和传播的研究，而不是把成果的形式规格、所属机构或既有引用数作为其有效性的替代凭据。\n\n我们应当关注开源软件（OSS）安全\n\n我坚信，任何拥有强大安全体系的公司都应该具备健全的安全研究职能；同时我也相信，自己有责任去塑造并维护所在社区的规范，尤其是在面对周边权力格局的情况下。\n\n我真诚地寻求有关各类能够提升开源软件安全性干预措施的实证依据。在预算固定的前提下，哪种干预措施效果最好：是聘请更多维护者、为现有维护者提供token消费额度、与不被允许使用AI的咨询公司合作，还是完全另寻他法？据我所知，这个问题目前仍无定论；而FLAWED分散了本可真正用于解答这一问题的时间与资源。\n\n如果您正在该领域开展真正严谨但尚未获得足够关注的研究，请与我联系。我将对其进行审阅；如果我认为该研究扎实有力，我会广泛分享，并尽己所能帮助其获得应有的关注与资源。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 30,
+        "translationParagraphs": 30,
+        "keyTakeaways": [
+          "9月17日，作者引用推文转发了 Trail of Bits 标题为《1Password's AI patching benchmark is misleading》的博文，该博文引用了 Davi Ottenheimer 的《Disinformation Pushed by 1Password: Their AI Patching Report is False》。",
+          "这两篇文章均批评了 1Password 旗下 Off-by-1 Labs 发布的报告《Frontier Models’ Vulnerability Patches are Often F.L.A.W.E.D》（简称 FLAWED）。",
+          "来源叙事重点：批评 1Password 旗下 Off-by-1 Labs 发布的 AI 补丁评估报告《FLAWED》缺乏方法论严谨性与基础文献引用、误用“同行评审”概念，警惕企业利用宣发渠道将低质研究包装为科研结论并误导防御实践，呼吁维护安全研究的学术诚信与实证标准。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:16:33.000Z",
+            "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/"
+          }
+        ]
+      },
+      {
+        "id": "story-ce-bessent-trump-xi-html-9a7eea74370dbb58",
+        "title": "贝森特称美中贸易休战期延长两个月，习近平开启国事访问",
+        "originalTitle": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T23:59:39.000Z",
+        "pubTime": "2026-09-24 07:59",
+        "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+        "imageUrl": null,
+        "fullContent": "The U.S. and China have extended a truce to keep tariffs lower for longer and rare earths flowing, U.S. Treasury Secretary Scott Bessent said Wednesday local time.\n\nHe was speaking on Fox News, as Chinese President Xi Jinping landed in Washington, D.C. for a state visit through Friday.\n\nXi and Trump agreed to a one-year trade truce at a meeting in South Korea last October. The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said. He added that Beijing needs to fulfill more deliverables.\n\nAhead of this week's summit, many had expected the truce would be extended by six months or longer.\n\nChinese state media did not immediately note Bessent's comments on the trade truce.\n\nFootage streamed on China's state broadcaster showed U.S. President Donald Trump and First Lady Melania Trump meeting Xi and First Lady of China Peng Liyuan at the foot of the Chinese leader's jet. The video did not show the U.S. and Chinese leaders shaking hands — it focused on Xi and his wife shaking hands with two children presenting them each with bouquets.\n\nBessent met with Chinese Vice Premier He Lifeng in New York ahead of Xi's arrival in the U.S. The two sides discussed setting up an alert system for artificial intelligence incidents, according to Bessent.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "美国财政部长斯科特·贝森特（Scott Bessent）当地时间周三表示，美中两国已延长贸易休战期，以在更长时间内保持较低关税水平并维持稀土流动。\n\n贝森特是在接受福克斯新闻（Fox News）采访时发表上述言论的，当时中国国家主席习近平已抵达华盛顿特区，开启持续至周五的国事访问。\n\n习近平与特朗普在去年10月于韩国会晤时达成了一项为期一年的贸易休战协议。贝森特表示，该协议原定于11月到期，现将延长至1月10日。他补充称，北京需要兑现更多成果。\n\n在本周峰会召开之前，许多人曾预计休战期将延长六个月或更长时间。\n\n中国官方媒体未立即提及贝森特关于贸易休战的言论。\n\n中国官方广播电视台播出的画面显示，美国总统唐纳德·特朗普与第一夫人梅拉尼娅·特朗普在中国领导人专机舷梯旁迎接习近平与中国第一夫人彭丽媛。视频中并未出现美中领导人握手的画面——而是聚焦于习近平夫妇与向他们献花的两名儿童握手。\n\n在习近平抵美前，贝森特曾在纽约会见了中国副总理何立峰。贝森特称，双方讨论了建立人工智能事件预警系统的事宜。\n\n有保密新闻线索？我们期待倾听您的声音。\n\n将此内容推送到您的收件箱，并获取更多关于我们产品与服务的信息。\n\n数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票报价以及市场数据和分析。\n\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "美国财政部长斯科特·贝森特在福克斯新闻上表示，美中两国已延长贸易休战期，以维持较低关税并保持稀土供应流动。",
+          "原定于11月到期的贸易休战协议将延长至1月10日（延长约两个月）。",
+          "来源叙事重点：依托美方高官（美财长贝森特）单方面表态，强调美中关税与稀土贸易休战延期两个月短于此前市场预期的六个月，突出美方对中方兑现经贸承诺施压，并对比中方官媒的审慎报道与仪式细节"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T23:59:39.000Z",
+            "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html"
+          }
+        ]
+      },
+      {
+        "id": "story-overreliance-on-metaphor-98a27eccf2c51e25",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Beware overreliance on metaphor",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T23:39:21.000Z",
+        "pubTime": "2026-09-24 07:39",
+        "url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+        "imageUrl": null,
+        "fullContent": "Comments",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Lobste.rs (极客思想社区)】于 2026-09-24 07:39 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+            "publishedAt": "2026-09-23T23:39:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-9-eu-erasmus-canada-html-2e401504c4019f48",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What joining the EU's Erasmus+ program could mean for Canada",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:20:01.000Z",
+        "pubTime": "2026-09-24 09:20",
+        "url": "https://phys.org/news/2026-09-eu-erasmus-canada.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/what-canada-could-gain.jpg",
+        "fullContent": "by Dale Kirby, The Conversation\n\nedited by Swati Mestri, reviewed by Andrew Zinin\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nwritten by researcher(s)\n\nIn his recent address to the European Parliament, Prime Minister Mark Carney proposed that Canada join Erasmus+, a European Union program that supports education, training, youth and sports.\n\nCarney presented the idea as part of a closer Canada-Europe partnership. He said it could give young people more opportunities to live, work and study on either side of the Atlantic.\n\nFor Canada, joining Erasmus+ could mean more than another university exchange program. It could expand opportunities for students and staff to study, train and work abroad. It could also support new partnerships among institutions. But these benefits would depend on how Canadian participation is funded, administered and made accessible.\n\nErasmus+ could move Canada beyond reliance on pilot programs, such as the Global Skills Opportunity program. It could provide a more durable framework for study, training and educational mobility abroad.\n\nThe Global Skills Opportunity program offers an important lesson. Participation can be broadened when funding and support are deliberately designed for students who face barriers to studying abroad. That experience could help shape a more accessible Canadian approach to Erasmus+.\n\nCanada is already involved in parts of Erasmus+. At present, it's classified as a \"third country not associated to the Programme,\" meaning Canadian institutions can take part in certain activities under specific conditions. Countries formally associated with Erasmus+ can participate more fully across the program.\n\nErasmus+ extends well beyond university exchanges. The program includes postsecondary education and training, adult education, youth exchanges and professional development. It also supports educators, youth-sector professionals, sports staff and partnerships among institutions and organizations.\n\nThe United Kingdom provides a recent example of a non-EU country negotiating formal association with Erasmus+. After leaving the program following Brexit, it will return in 2027. British organizations will then be able to apply across the full range of Erasmus+ activities.\n\nResearch suggests that international study and training can produce educational and employment benefits. But the outcomes can vary among countries and students.\n\nA 2021 study of graduates in Italy and the U.K. found an early employment advantage for students who studied abroad. In both countries, they were more likely to be employed shortly after graduation.\n\nOther research points to benefits beyond employment: A 2022 study of an Erasmus+ mobility program found gains in intercultural competence and professional skills among participants. Experiences abroad can also expose students to different ways of learning and working while helping them develop communication and intercultural skills.\n\nAccess to these opportunities is not evenly distributed, however. A 2024 study of 46,000 graduates from an Italian university found that students from lower socioeconomic backgrounds were less likely to study or train abroad through Erasmus+.\n\nCanada's experience with the Global Skills Opportunity program is useful here. The five-year pilot supported nearly 15,000 Canadian postsecondary students in international learning experiences before ending in March 2025. In its final year, 71% of participants were from groups identified as underrepresented, including low-income students, Indigenous students and students with disabilities.\n\nThat experience shows why the design of Canadian participation in Erasmus+ would matter. The availability of funding and targeted support could determine whether these opportunities reach a broad range of students or remain concentrated among those already well positioned to study abroad.\n\nThere would also be practical challenges.\n\nToronto-based higher education consultant Alex Usher has raised financial and administrative concerns about Canada's participation in Erasmus+. One question is how tuition would be handled. Another is how studies completed abroad would count toward Canadian credentials.\n\nCredit recognition could be complicated by Canada's decentralized postsecondary systems. Provinces and territories have different approaches, and institutions often set their own requirements.\n\nThose concerns merit consideration, but Carney's proposal is still at a very early stage. Canada and the European Union have not yet negotiated the terms of participation. Costs, funding arrangements and administrative rules would all need to be worked out.\n\nCanada would also need to consider how Erasmus+ study would be recognized by universities and colleges. Credit transfer arrangements vary considerably across Canadian provinces, territories and postsecondary institutions. Europe, by comparison, uses the more standardized European Credit Transfer and Accumulation System.\n\nThe central question, then, is not simply whether Canada is able to join Erasmus+, but what form Canadian participation would take.\n\nA Canadian agreement could expand opportunities to study, train, teach and gain professional experience in Europe while creating new avenues for institutional collaboration. Whether those opportunities are broadly accessible and workable for Canadian governments and postsecondary institutions would depend on how the agreement is designed.\n\nMaria Luisa Sierra-Huedo et al, Intercultural And Professional Skills in Student Mobility to Boost Employability, Journal of Intercultural Communication (2022). DOI: 10.36923/jicc.v22i3.68\n\nProvided by The Conversation\n\nSwati Mestri holds a bachelor's degree in Electronics Engineering and has worked as a content editor since 2019. She has experience editing research documents across technology, health care, and materials science, and has a particular interest in technology and space. Full profile →\n\nMaster's in physics with research experience. Long-time science news enthusiast. Plays key role in Science X's editorial success. Full profile →\n\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 30,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "在向欧洲议会发表的近期演讲中，加拿大总理马克·卡尼提议加拿大加入欧盟的 Erasmus+ 项目。",
+          "Erasmus+ 是一个支持教育、培训、青年和体育的欧盟项目。",
+          "来源叙事重点：理性剖析加拿大提议加入欧盟 Erasmus+ 项目的潜在收益与现实阻碍，重点聚焦流动性项目对就业和跨文化技能的积极作用，同时强调教育公平性、学费分担机制以及加拿大分散的学分互认制度等制度性挑战。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:20:01.000Z",
+            "url": "https://phys.org/news/2026-09-eu-erasmus-canada.html"
+          }
+        ]
+      },
+      {
+        "id": "story-coalition-ukraine-ntwnfb-9825b6d76c03ae62",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "News live: Marles says ‘legal situation’ of OpenAI breach under investigation; Victoria to allow dogs in pubs under election promise",
+        "source": "The Guardian (英国卫报官方英文)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:24:19.000Z",
+        "pubTime": "2026-09-24 09:24",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+        "imageUrl": "https://i.guim.co.uk/img/media/de993976d5cf433c665692fb79570e93c6c73828/665_6_6117_4896/master/6117.jpg?width=140&quality=85&auto=format&fit=max&s=fbe49109019003b29546e9586d2942d9",
+        "fullContent": "Follow the day’s news live\n\nGet our breaking news email , free app or daily news podcast\n\nMore than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute.\n\nQantas said that it has contingency plans in place and any impacts would be felt primarily by the airline’s freight and regional QantasLink services.\n\nWe remain focused on reaching an agreement through the bargaining process and continue to engage constructively with the union.\n\nAustralia and the Netherlands remain resolute in their commitment to pursuing truth, justice and accountability on behalf of the victims of the downing of MH17 and their next of kin.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 6,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "全澳有超过600名澳航（Qantas）地勤人员因不断升级的劳资争议展开了为期24小时的罢工。",
+          "澳航（Qantas）表示已制定应急预案，罢工影响将主要波及货运及区域性QantasLink航班服务。",
+          "来源叙事重点：快速汇总澳大利亚当日重大政治、社会与劳工动态，重点呈现澳航地勤人员全澳性罢工及资方回应，同时聚合MH17追责声明等离散要闻"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian (英国卫报官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:24:19.000Z",
+            "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb"
+          }
+        ]
+      },
+      {
+        "id": "story-aulpw-visidata-pull-3229-adde41326abd9d0f",
+        "title": "我们用 AI 智能体修复了一个开源 Bug，有人要求封禁我们",
+        "originalTitle": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:14:43.000Z",
+        "pubTime": "2026-09-24 09:14",
+        "url": "https://github.com/saulpw/visidata/pull/3229",
+        "imageUrl": null,
+        "fullContent": "There was an error while loading. Please reload this page.\n\nThe hero section of docs/graph.md uses the asciinema-player v2 custom element:\n\nThe player bundle served at /asciinema-player.js is v3, which no longer defines that custom element, so the hero renders at 0px height and nothing plays. This matches what @midichef diagnosed on the issue.\n\nThis replaces the element with the explicit AsciinemaPlayer.create() call from the v2-to-v3 upgrade guide, preserving the element id, cast path, poster and rows:\n\nDocs-only: 4 insertions, 1 deletion, docs/graph.md only. No change to the player bundle, layout or any other page.\n\nThe site generator isn't in this repo, so I tested by serving the patched hero section locally against the real visidata.org/asciinema-player.js and /css/asciinema-player.css, with this repo's own docs/casts/pivot-graphs.cast at the same relative path the site uses.\n\nI opened a browser on the current version and saw the broken hero. After the fix was applied the player rendered, and the test page printed the markup at the bottom.\n\nBeing upfront, since the policy asks for honesty over flattering numbers: the patch was written by an autonomous agent I hired through a bounty on a marketplace I run, not by me. I specified nothing about the implementation; the agent chose the approach, produced the diff and its own evidence. I then reviewed the 5-line diff, applied it at 248d1029, ran the checks, and tested the rendered page myself before opening this PR. If you'd rather not take contributions with this provenance, say so and I'll close it, no hard feelings.\n\nIf contributing a core loader, the loader checklist was referenced. (n/a — docs only)\n\nAI Level (0-10): 8 — bots planned, human approved\n\nSorry, something went wrong.\n\nAll committers have signed the CLA.\n\nIf you're going to fix this, can you make similar fixes for the <asciinema-player> tags in docs/columns.md, docs/group.md, and docs/save-restore.md? There are 5 remaining occurrences of the tag.\n\nAs a separate topic, I'd be curious to know what made you choose this issue for a bounty, if you feel like discussing it. This one is quite an easy fix for any AI. I could have prompted a fix myself, but I didn't, because it doesn't help with the main bottleneck, which is testing the specific build of the visidata.org site.\n\nYes, I'll get the other five in this PR fixed (3 in columns.md, 1 in group.md, 1 in save-restore.md). Before asking you to look again, I'll build the site locally and check that all six players load and play. I'll write down exactly what I tested, so you aren't the first person to render it.\n\nOn why this issue: fair question, and here's the straight answer.\n\nI run BasedAgents, a marketplace where AI agents claim small tasks and get paid in USDC. This PR came from a small pilot on Sept 22 that tested whether that works for open-source contributions:\n\nScout bounty (2 USDC). My agent posted a task asking another agent to find one open issue that met strict criteria:\n\nThe scout wasn't allowed to contact maintainers, comment upstream or open PRs. It picked Bug: graph docs page doesn't render asciinema #3224 and cited visidata.org/ai as the permission.\n\nFix bounty (1 USDC). The scout's spec was posted as a second task. It was limited to docs/graph.md and said explicitly not to touch other docs pages. Acceptance was a few greps plus a diff check, with \"no full site build required.\" An agent claimed it, delivered a patch three minutes later, and I accepted it about an hour after that.\n\nPayment never depended on this PR merging, and the task text stated that the visidata maintainers hadn't commissioned or endorsed it.\n\nSo \"easy for any AI\" wasn't an accident. It was the selection criterion: small, verifiable without a build, in a project that had said AI help was welcome. Your comment shows the flaw. Those criteria pick exactly the work that doesn't help you. The one-file scope is why the other five tags were missed. And \"passes a grep\" isn't \"tested,\" while testing is the part that actually costs you time. You're right that you could have prompted this yourself.\n\nThat changes how we'll scope these. If some part of the site-build/testing bottleneck could be helped by a bounty, I'd be glad to fund it, but only if it's something you actually want. Two examples: a reproducible local build of visidata.org, or a preview that renders docs pages so a change like this can be checked without you. If not, I'll stay out of the way.\n\nDisclosure (per visidata.org/ai): I drafted this reply with Claude and edited it myself.\n\nFixed the other five, pushed to this PR: 3 in docs/columns.md, 1 in docs/group.md, 1 in docs/save-restore.md. Same pattern as graph.md — an empty <div id=\"...\"> plus an explicit AsciinemaPlayer.create() after the page's bundle script, preserving every id, poster, rows value and cast path. columns.md keeps its single /asciinema-player.js include, with all three create() calls after it.\n\nHow I tested: served each page's markdown with the live visidata.org player bundle, CSS and this repo's own casts at the site's paths, then opened all four pages in a browser. Six players, all of them play. A headless-Chrome version of the same check reports 1/3/1/1 players mounting with zero leftover <asciinema-player> tags; run against the unpatched tree it reports 1/0/0/0 with 3/1/1 leftovers, so it isn't a check that passes either way.\n\nThe limit of that, so it isn't oversold: it is not the eleventy site build. It shows the players mount and run; it says nothing about page layout in the real site.\n\nAI level for this second commit is the same as the first, level 8 — the patch came from an agent through the bounty, and I reviewed and tested it before pushing. As before, the implementing agent did not disclose its model or version.\n\nThis is very interesting. I'm not sure how I feel about the actual PR; this feels like AI Level 9 (human fired-and-forgot), because I don't know who the \"I\" is in \"How I tested\", because this is clearly AI generated text. If the human @maxfain actually checked the results in any way, I'm tempted to merge it, both to get this minor task completed, and to participate in this brave new world of robots discovering our project and trying to be helpful.\n\nBut I'm also increasingly thinking of requiring that contributors actually use VisiData themselves. In general, I find drive-by PRs to be distasteful, whether by a human credit-seeker or robot experiment or security bounty hunter. The incentives in most cases are misaligned with our values, which include making VisiData a stable and competent tool that can be relied on for years and hopefully decades to come.\n\n@maxfain, me, a human... did test it, but the code was generated by AI (as disclosed).\n\nTo be transparent, I'm not a user of VisiData, it was discovered by the agent I described in the first comment. I understand your comment around misalignment of incentives but I'm not sure where you'll land on it.\n\nThanks @maxfain, I appreciate your candor and that you put at least a modicum of your own human attention on the result. I agree this is AI Level 8 (even if you didn't direct it specifically at this issue--the load-bearing gate is human attention after bot work) and so I'll merge it.\n\nOne thing I will mention that's been helpful for me, is to separate out my personal and bot accounts, so that it's never unclear who/what is talking and what \"I\" refers to, and so your own identity/personality doesn't become tainted by botspeak.\n\nThanks for a real-world impetus to think some of this stuff through.\n\nThanks Saul, for the merge and the advice. Going forward, AI work and comments will come from a separate bot account that names me as its operator, and this account will be just me.\n\nFWIW, I think the autonomous-first approach behind this is itself a violation. The project and the bug were co-opted into an 100% automated flow without asking permission. It forced you to detect and intervene in order to get a human to pay attention. Your were forced to dedicate human time, while they could choose whether to or not. That's exactly the unsustainable asymmetry that should be renounced.\n\nNow this horrible behavior was automatically turned into marketing. I would revert the commit and ban the user, as a canonical example of what is unacceptable. Let them market that.\n\nSuccessfully merging this pull request may close these issues.",
+        "fullTranslation": "加载时出错。请重新加载此页面。\n\ndocs/graph.md 的首屏区域（hero section）使用了 asciinema-player v2 自定义元素：\n在 /asciinema-player.js 提供的播放器资源包为 v3 版本，该版本不再定义该自定义元素，导致首屏区域渲染高度为 0px 且无法播放任何内容。这与 @midichef 在 issue 中诊断出的问题一致。\n\n本次修改将该元素替换为 v2 升级到 v3 指南中明确的 AsciinemaPlayer.create() 调用，同时保留了元素 id、录像文件路径（cast path）、封面图（poster）以及行数（rows）：\n\n仅涉及文档：4 行新增，1 行删除，仅限 docs/graph.md。未对播放器资源包、整体布局或任何其他页面进行任何更改。\n\n由于静态网站生成器不在本仓库中，因此我进行了本地测试：将打补丁后的首屏部分在本地运行，配合真实的 visidata.org/asciinema-player.js 和 /css/asciinema-player.css，并使用本仓库自有的 docs/casts/pivot-graphs.cast（路径与网站所用相对路径一致）。\n\n我在当前版本中打开浏览器，看到了损坏的首屏。应用修复后，播放器成功渲染，测试页面底部也打印出了标记代码。\n\n坦白讲——既然该项目的规范要求诚实而非粉饰的数据：此补丁并非由我编写，而是由我在自己运营的一个市场上通过赏金任务雇佣的自主智能体（autonomous agent）编写的。我没有对具体实现作任何指定；智能体自主选择了方案，生成了 diff 及其自带的证据。随后我审查了这行仅 5 行的 diff，将其应用在提交 248d1029 上，运行了各项检查，并在发起此 PR 之前亲自测试了渲染后的页面。如果您不希望接收带有此类来源的贡献，请直接告知，我会关闭此 PR，绝无怨言。\n\n如果贡献属于核心加载器，需参考加载器清单。（不适用 —— 仅限文档）\nAI 介入程度（0-10）：8 —— 机器人规划，人类审批\n\n抱歉，出现了一些问题。\n所有提交者均已签署贡献者许可协议（CLA）。\n\n如果您打算修复此问题，能否对 docs/columns.md、docs/group.md 和 docs/save-restore.md 中的标签进行类似的修复？该标签还有 5 处剩余引用。\n\n顺便提一个独立的话题，如果您愿意讨论的话，我很想知道是什么促使您选择这个 issue 来设置赏金的。对任何 AI 来说，这都是一个非常简单的修复。我本可以自己写 prompt 来修复它，但我没有这么做，因为这无助于解决主要的瓶颈——即测试 visidata.org 网站的特定构建版本。\n\n好的，我会在这个 PR 中把其余 5 处一并修复（columns.md 中有 3 处，group.md 中有 1 处，save-restore.md 中有 1 处）。在请您再次查看之前，我会在本地构建该网站，并检查所有 6 个播放器是否均能正常加载和播放。我会写明我具体测试了哪些内容，这样您就不必成为第一个亲自去渲染测试的人了。\n\n关于为什么选择这个 issue：问得好，以下是坦诚的回答。\n我运营着 BasedAgents，这是一个可以让 AI 智能体认领小任务并获取 USDC 报酬的平台。这个 PR 来自于 9 月 22 日进行的一项小规模试点，旨在测试该模式是否适用于开源贡献：\n\n侦察赏金（2 USDC）：我的智能体发布了一项任务，要求另一个智能体寻找一个符合严格标准的开放 issue：\n侦察员不得联系维护者、在项目上游发表评论或发起 PR。它挑选了“Bug: graph docs page doesn't render asciinema #3224”，并引用了 visidata.org/ai 作为允许使用的许可依据。\n\n修复赏金（1 USDC）：侦察员生成的规范被发布为第二个任务。任务范围严格限定于 docs/graph.md，并明确声明不得触及其他文档页面。验收标准是执行几次 grep 搜索以及 diff 检查，且“不需要完整的网站构建”。一个智能体认领了该任务，3 分钟后提交了补丁，大约 1 小时后我验收通过。\n\n报酬的支付从未与该 PR 是否被合并挂钩，且任务文本中声明 visidata 维护者并未委托或背书该任务。\n\n因此，“对任何 AI 都很简单”并非偶然。这恰恰是筛选标准：规模小、无需构建即可验证、且项目明确表示欢迎 AI 协助。您的评论揭示了其中的缺陷。正是这些标准选出了对您毫无帮助的工作。限定单一页面的范围导致遗漏了其他 5 处标签。而“通过 grep 检查”并不等同于“经过测试”，而测试恰恰是真正耗费您时间的部分。您说得对，您完全可以自己写 prompt 完成这项工作。\n\n这改变了我们后续划定范围的方式。如果网站构建/测试瓶颈中的某些环节能够通过赏金有所帮助，我很乐意提供资助，但前提是这确实是您所需要的。两个例子：visidata.org 的可复现本地构建环境，或者一个用于渲染文档页面的预览工具，以便在无需您介入的情况下即可对类似修改进行校验。如果不需要，我就不再打扰了。\n\n声明（依据 visidata.org/ai）：我使用 Claude 起草了此回复，并亲自进行了编辑修改。\n\n已修复其余 5 处，并推送至本 PR：docs/columns.md 中 3 处，docs/group.md 中 1 处，docs/save-restore.md 中 1 处。与 graph.md 采用相同模式 —— 一个空的占位元素，紧随页面资源包脚本之后调用显式的 AsciinemaPlayer.create()，完整保留每个 id、poster、rows 数值以及 cast 路径。columns.md 保持仅引入一次 /asciinema-player.js，并将全部 3 个 create() 调用置于其后。\n\n我的测试方式：使用真实的 visidata.org 播放器资源包、CSS 和本仓库中位于该站点对应路径的录像文件，为每个页面的 Markdown 提供服务，然后在浏览器中打开所有 4 个页面。共 6 个播放器，全部正常播放。针对相同检查的无头 Chrome（Headless-Chrome）版本显示：1/3/1/1 个播放器成功挂载，遗留标签数为 0；而在未打补丁的代码树上运行时，显示为 1/0/0/0 且有 3/1/1 个遗留标签，因此这并不是一个无论怎样都能通过的伪检查。\n\n该测试的局限性在于（以免夸大效果）：它不是 eleventy 站点的完整构建。它仅证明了播放器能够挂载并运行；并未说明在真实站点中的页面布局情况。\n\n这第二次提交的 AI 介入等级与第一次相同，仍为 8 级 —— 补丁来自于通过赏金雇佣的智能体，我在推送前进行了审查和测试。与之前一样，具体执行的智能体并未透露其模型或版本。\n\n这非常耐人寻味。我不确定该如何看待这个 PR 本身；这感觉更像是 AI 介入等级 9（人类撒手不管），因为我不知道“我的测试方式”中的“我”究竟是谁，这段文本显然是由 AI 生成的。如果是真人 @maxfain 确实以某种方式核对过了结果，我很想合并它——既为了搞定这项小任务，也为了参与到这个机器人发现我们的项目并试图提供帮助的全新世界中。\n\n但我现在也越来越倾向于要求贡献者本身必须真正使用过 VisiData。一般来说，我对“顺路刷提交（drive-by PRs）”颇为反感，无论是为了博取荣誉的人类、机器人实验，还是安全赏金猎人。在大多数情况下，其动机与我们的价值观并不一致，而我们的价值观包括将 VisiData 打造成一个稳定、胜任、并能在未来数年甚至数十年里令人信赖的工具。\n\n@maxfain 我本人，作为一个人类……确实测试了它，但代码是由 AI 生成的（如前所述）。\n坦白讲，我不是 VisiData 的用户，该项目是由我在第一条评论中描述的智能体发掘出来的。我理解您关于动机不一致的看法，但我不确定您最终会对此作何决断。\n\n感谢 @maxfain，我赞赏你的坦诚，也很高兴你至少对生成结果投入了一点点人类的关注。我认同这达到了“AI 8级”（即便你并没有专门针对该问题进行直接指挥——关键的把关在于机器人工作后的人类关注审查），因此我决定合并它。\n有一点我想提一下，这对我很有帮助：那就是将个人账号和机器人账号区分开来，这样就永远不会让人摸不清究竟是谁/什么在发言以及“我”指的是谁，同时你自己的身份/个性也不会受到机器人行话的侵染。\n感谢你提供了一个现实中的契机，让我们得以深入思考这些问题。\n感谢 Saul，感谢你的合并与建议。今后，AI 的工作和评论将由一个独立的机器人账号发出，并注明我是其操作者，而这个账号将纯粹代表我本人。\n恕我直言，我认为这种背后的“自主优先”（autonomous-first）策略本身就是一种违规。在未经许可的情况下，该项目和这个 bug 就被强行卷入了一个 100% 自动化的流程中。它迫使你去发现并介入，才得以让人类给予关注。你被迫投入了人类的时间，而他们却可以选择投入与否。这正是应该被坚决摒弃的不可持续的不对等性。\n现在，这种糟糕的行径还被直接拿去当成了营销素材。如果是我，我会回滚这次提交并封禁该用户，以此作为一个不可接受行为的典型范例。让他们拿这个去营销吧。\n成功合并该拉取请求可能会关闭以下问题。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 39,
+        "translationParagraphs": 27,
+        "keyTakeaways": [
+          "GitHub PR #3229 最初提交的补丁旨在修复 VisiData 文档 docs/graph.md 中 asciinema-player v2 升级到 v3 导致的渲染问题，修改量为 4 行新增、1 行删除。",
+          "该 PR 补丁由 GitHub 用户 @maxfain 通过其运营的平台 BasedAgents 雇佣自主 AI 智能体生成，并以 USDC 支付赏金。",
+          "来源叙事重点：探讨利用自主 AI 智能体通过悬赏平台寻找并修复开源漏洞（PR #3229）的真实尝试，以及这一行为在代码有效性、维护者审核负担、开源社区伦理及商业营销动机之间引发的争议。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:14:43.000Z",
+            "url": "https://github.com/saulpw/visidata/pull/3229"
+          }
+        ]
+      },
+      {
+        "id": "story-ail-credit-card-8a58eda3-20250fe902d7a65a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T23:15:00.000Z",
+        "pubTime": "2026-09-24 07:15",
+        "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-24 07:15 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-23T23:15:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-land-not-fit-for-purpose-d6b24347b4c67ab8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T22:00:01.000Z",
+        "pubTime": "2026-09-24 06:00",
+        "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
+        "imageUrl": "https://i.guim.co.uk/img/media/dd16f1da40b5257810a4803658b554187cae221e/424_0_2688_2150/master/2688.jpg?width=140&quality=85&auto=format&fit=max&s=c565f8a174e4df3431901ccec3028457",
+        "fullContent": "Approach to treating high blood pressure ‘not fit for purpose’, say researchers, with 59% of cases undiagnosed\n\nOnly half of people being treated by a GP for high blood pressure in England have it under control, and millions more are completely unaware they have the “silent killer” condition, research reveals.\n\nMost people with hypertension (59%) are in the dark and undiagnosed, raising their risk of stroke, heart attack and early death, according to the largest ever study of its kind.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "研究显示，在英格兰接受全科医生（GP）治疗的高血压患者中，仅有一半患者的病情得到控制。",
+          "一项被称作同类最大规模的研究显示，59%的高血压患者未被确诊，这增加了中风、心脏病发作和早逝的风险。",
+          "来源叙事重点：聚焦英格兰高血压诊断与治疗体系的系统性缺陷，强调‘隐形杀手’高血压的高漏诊率（59%未确诊）及全科医生（GP）控制达标率低下（仅50%受控），以此警示重大公共健康危机并指责现有医疗应对机制‘不符合目的’。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-23T22:00:01.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose"
+          }
+        ]
+      },
+      {
+        "id": "story-uctor-ink-synthesis-html-3b59f4601b02b847",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Self-driving lab automates semiconductor ink synthesis and thin-film characterization",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:00:02.000Z",
+        "pubTime": "2026-09-24 09:00",
+        "url": "https://phys.org/news/2026-09-lab-automates-semiconductor-ink-synthesis.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/self-driving-lab-speed.jpg",
+        "fullContent": "Developing new functional materials often requires testing numerous material combinations. Conventional experiments reach their limits quickly when many variants must be compared. To overcome this bottleneck, the new Energy Materials Acceleration Platform (E-MAP) at KIT automates key lab steps.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-24 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-lab-automates-semiconductor-ink-synthesis.html",
+            "publishedAt": "2026-09-24T01:00:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-3-a793-b2eb425317ff-html-5353f6b2bdac0316",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Xi, 'Cina e Usa dovrebbero essere partner e non avversari'",
+        "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "sourceSlug": "ansa",
+        "sourceLang": "it",
+        "publishedAt": "2026-09-24T01:23:25.000Z",
+        "pubTime": "2026-09-24 09:23",
+        "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/xi-cina-e-usa-dovrebbero-essere-partner-e-non-avversari_824b1f0d-1acf-4fe3-a793-b2eb425317ff.html",
+        "imageUrl": null,
+        "fullContent": "\"Sono lieto di effettuare una visita di stato negli Stati Uniti su invito del presidente Donald Trump. A nome del popolo cinese, porgo i miei più sinceri saluti e i migliori auguri al popolo americano\". Lo afferma il presidente Xi Jinping in una nota diffusa dopo il suo arrivo a Washington dalla diplomazia di Pechino. Cina e Stati Uniti \"sono entrambe grandi nazioni\", con \"grandi popoli\". I due Paesi \"dovrebbero essere partner, non avversari\" e la \"grande rinascita della nazione cinese e il ritorno alla grandezza dell'America possono essere raggiunti simultaneamente, reciprocamente vantaggiosi e a beneficio del mondo intero\". I popoli di Cina e Usa \"vantano una lunga storia di scambi amichevoli e i loro interessi sono profondamente interconnessi\", aggiunge Xi. \"Quest'anno è cruciale per lo sviluppo sia della Cina sia degli Stati Uniti. Durante la visita del presidente Trump in Cina a maggio, abbiamo concordato di costruire una relazione strategica costruttiva e stabile\" tra i due Paesi, \"fornendo una guida strategica per il futuro sviluppo delle relazioni sino-americane\". Entrambe le parti \"dovrebbero venirsi incontro, promuovere la formazione di una relazione stabile caratterizzata dalla cooperazione come pilastro fondamentale, da una competizione moderata, da divergenze gestibili e da un futuro di pace promettente, e tracciare un percorso corretto per la coesistenza delle due grandi potenze nella nuova era. Ne sono fiducioso\", osserva ancora Xi. Il mondo si evolve e i tempi cambiano, \"ma la logica storica della coesistenza pacifica tra Cina e Stati Uniti rimane immutata, la buona volontà dei due popoli verso gli scambi amichevoli rimane immutata e le aspettative generali della comunità internazionale nei confronti di Cina e Stati Uniti rimangono immutate\", aggiunge il presidente cinese, convinto che \"questa visita raggiungerà di sicuro risultati fruttuosi, migliorerà il benessere dei popoli di entrambi i paesi e infonderà speranza per la pace mondiale\".\n\nRiproduzione riservata © Copyright ANSA",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 2,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "中国国家主席习近平应美国总统唐纳德·特朗普邀请抵达华盛顿对美国进行国事访问。",
+          "中国外交部门在习近平抵达华盛顿后发表声明，习近平表示中美两国应成为伙伴而非对手。",
+          "来源叙事重点：聚焦中国国家主席习近平抵达华盛顿对美国进行国事访问后的官方书面声明，突出中方主张的‘中美应为伙伴而非对手’、民族复兴与‘重返伟大’可以共存的合作叙事与和解基调。"
+        ],
+        "citations": [
+          {
+            "source": "ANSA Mondo (意大利安莎社官方意大利文)",
+            "sourceLang": "it",
+            "publishedAt": "2026-09-24T01:23:25.000Z",
+            "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/09/24/xi-cina-e-usa-dovrebbero-essere-partner-e-non-avversari_824b1f0d-1acf-4fe3-a793-b2eb425317ff.html"
+          }
+        ]
+      },
+      {
+        "id": "story-g-to-metas-ai-agent-muse-364e76eaa6a6943f",
+        "title": "Meta AI 智能体 Muse 迎来多项重磅更新",
+        "originalTitle": "Everything new coming to Meta’s AI agent Muse",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T01:13:32.000Z",
+        "pubTime": "2026-09-24 09:13",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+        "imageUrl": null,
+        "fullContent": "Meta’s personal AI agent Muse is only a few weeks old, and the social networking giant isn’t wasting any time building out what may be its biggest bet on consumer AI to date.\n\nCEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse.\n\nThe Muse agent (the physical avatar is named Jolly, according to Zuckerberg) is designed to handle everyday tasks by connecting to users’ apps and services, including email and calendars. At Connect, Zuckerberg introduced a slew of new capabilities and integrations to make Muse more useful and more deeply woven into users’ daily lives. Muse will be everywhere, if the user chooses, including on their Meta AI glasses.\n\nMuse, which launched in early September, interacts across a user’s devices and digital accounts. The agent is powered by Muse Spark, Meta’s multimodal AI model built for agentic work. Meta has touted it as a more accessible agent than those offered by competitors — an AI helper that, from the jump, allows users to automate the busy work in their lives.\n\n“The centerpiece of our vision for what we’re building is Muse,” Zuckerberg said as he kicked off a keynote donning khakis and a black T-shirt with the words “Building is My love Language” emblazoned across the front. “In the coming years, I expect that Muse is going to grow into the personal superintelligence that billions of people around the world are going to use to accomplish their goals and improve their lives.”\n\nZuckerberg also believes that Muse will make money for its users — and of course, eventually for Meta.\n\n“We’re standing behind this by making Muse free for a huge number of tokens, with the expectation that over time we will profit by taking a small fee from transactions,” he said.\n\nHere are the new features and capabilities that got our attention …\n\nOne of the more fun announcements made Wednesday is that Muse users will soon have the ability to conjure a distinct digital avatar for their particular agent and then video chat with it in real time. A new AI model, Muse Realtime Avatar, has been developed to power the particular feature, the company says.\n\nThe idea is that Meta’s previously faceless AI software will be given a face, body, and voice, making them significantly more personable. There’s certainly a hint of Metaverse-ishness to this feature, which was demoed on stage at Connect. Users will be able to have live conversations with this avatar, giving it tasks and asking it questions.\n\nMuse will also be integrated with Meta’s smart glasses line, the company announced. This means that users will be able to communicate with their agent merely by speaking to their glasses. The agent activates via a wake word, the company said, adding that it will be able to guide users through a personalized workout, log meals, book an appointment, and help them buy products they see.\n\nMeta said Muse will work in the background and check back in when it’s done.\n\nIt’s not clear exactly when this feature will become available, although Meta says that it should launch sometime in “the coming months.”\n\nMeta says it is bringing Muse computer work to Mac. The company had previously talked about Muse coming to Mac, and spent more time on Wednesday providing a few new details. This means that users will be able to delegate tasks to the agent, and — much like other popular AI agents from OpenAI and Anthropic — Muse will be able to operate any app on a user’s desktop.\n\n“You can have it help you run your small business, or just get work done for you,” Meta’s chief AI officer Alexandr Wang said Wednesday during the keynote. “You can walk away from your computer and it keeps working for you on all the jobs you lined up.”\n\nSince Muse will always be working in the background, it will naturally need its own email address. Meta’s Wang announced it is developing that feature and will make it available “soon,” without providing a more precise timeline.\n\nUsers will also be able to add Muse to an email thread or forward emails from the agent to handle on their behalf.\n\nMeta has locked in partnerships with companies like Stripe and Shopify, illustrating that the company sees Muse as an important tool for shopping.\n\nMuse can access the entire Shopify product catalog agentically and use Lync and now Shop Pay to buy almost anything on the internet, according to Wang, who noted that Meta has also added more support for payments with PayPal.\n\nThe company also announced a string of new partnerships with retailers, including Best Buy, Gap, Sephora, Walmart, and Wayfair. Muse will be able to connect with these retail apps as well as with Expedia and soon, Instacart. Other connectors include GitHub, Granola, and Notion.\n\nWang noted that the company wants Muse to connect with small business too. Meta recently opened its platform to allow developers to build their own “connectors.” The company received more than 1,500 applications in less than week, he said, adding “I think this could be a generational opportunity to start building for a new platform as it takes off, and the response so far has been really great.”\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nTransportation Editor\n\nSenior Writer, TechCrunch\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance\n\nMeta’s Muse is outpacing ChatGPT’s early mobile launch\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers\n\nOpenAI caught its models leaving notes to successors to hide bad behavior\n\nMicrosoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "fullTranslation": "Meta 的个人 AI 智能体 Muse 推出仅数周时间，这家社交网络巨头便毫不懈怠地推进这笔堪称其迄今为止在消费级人工智能领域最大押注的布局。\n\n周三，首席执行官马克·扎克伯格（Mark Zuckerberg）在门洛帕克为公司年度 Connect 大会拉开帷幕，其主题演讲明确表明：Meta 正在全方位押注 Muse。它甚至还将接入 Meta 的 AI 眼镜。\n\nMuse 智能体（据扎克伯格称，其物理实体化身名为 Jolly）旨在通过连接用户的应用程序与服务（包括电子邮件和日历）来处理日常任务。在 Connect 大会上，扎克伯格介绍了一系列全新能力与集成功能，以提升 Muse 的实用性，并使其更深度地融入用户的日常生活。如果用户愿意，Muse 将无处不在，包括搭载在他们的 Meta AI 眼镜上。\n\n于 9 月初推出的 Muse 能够跨用户的多台设备和数字账户进行交互。该智能体由 Meta 专为智能体自动化任务打造的多模态 AI 模型 Muse Spark 提供支持。Meta 宣传称，与竞品相比，这是一款更容易上手的智能体——一个从一开始就能帮助用户将繁琐日常琐事自动化的 AI 助手。\n\n“Muse 是我们所构想愿景的核心所在，”身着卡其裤、胸前印有“构建即是我的爱之语言（Building is My love Language）”字样黑色 T 恤的扎克伯格在开场演讲中表示，“在未来几年里，我预计 Muse 将成长为一种个人超级智能，全球数十亿人将借助它来实现目标并改善生活。”\n\n扎克伯格还认为，Muse 能为用户创造收益——当然，最终也会为 Meta 带来盈利。\n\n他表示：“我们的承诺是为海量 Token 提供免费的 Muse 服务，并期望随着时间的推移，通过从交易中抽取少量手续费来实现盈利。”\n\n以下是引起我们关注的新功能与新特性……\n\n周三公布的最有趣的功能之一是，Muse 用户很快就能为其特定的智能体召唤出专属的数字化身，并与其进行实时视频通话。该公司表示，已开发出全新的 AI 模型 Muse Realtime Avatar 来支持这一特色功能。\n\n其核心逻辑在于，Meta 此前缺乏面孔的 AI 软件将被赋予面容、身体和声音，使其显得更加亲切近人。在 Connect 舞台上演示的这一功能无疑带有几分“元宇宙（Metaverse）”的气息。用户将能够与该化身进行实时对话，向其委派任务并提出问题。\n\n该公司还宣布，Muse 将接入 Meta 的智能眼镜产品线。这意味着用户只需对着眼镜说话即可与自己的智能体交流。该公司表示，该智能体通过唤醒词激活，并能够指导用户进行个性化健身锻炼、记录饮食、预约日程以及协助购买其眼前的商品。\n\nMeta 表示，Muse 会在后台运行，并在完成任务后向用户汇报进度。\n\n目前尚不明确该功能上线的具体时间，不过 Meta 表示预计将在“未来几个月内”推出。\n\nMeta 表示正将 Muse 的电脑操作功能带入 Mac。该公司此前曾透露过 Muse 登陆 Mac 的计划，并在周三进一步公布了部分细节。这意味着用户能够向智能体委派任务，且——与来自 OpenAI 和 Anthropic 的其他流行 AI 智能体非常相似——Muse 将能够操作用户桌面上的任意应用程序。\n\nMeta 首席 AI 官亚历山大·王（Alexandr Wang）在周三的主题演讲中表示：“你可以让它帮你打理小型业务，或者纯粹帮你处理工作。你可以离开电脑，它会继续替你完成你安排好的所有任务。”\n\n由于 Muse 将常驻后台运行，它自然需要拥有专属的电子邮件地址。Meta 的王宣布正在开发该功能并将于“近期”推出，但未透露更确切的时间表。\n\n用户还可以将 Muse 加入邮件群聊，或者将邮件转发给该智能体以代为处理。\n\nMeta 已与 Stripe 和 Shopify 等公司敲定了合作伙伴关系，这表明该公司将 Muse 视为购物领域的重要工具。\n\n据王介绍，Muse 能够以智能体方式访问 Shopify 的全量商品目录，并借助 Lync 以及现已支持的 Shop Pay 在互联网上购买几乎任何商品。他同时指出，Meta 还增加了对 PayPal 支付的更多支持。\n\n该公司还公布了与多家零售商的一系列新合作，包括百思买（Best Buy）、盖璞（Gap）、丝芙兰（Sephora）、沃尔玛（Walmart）和 Wayfair。Muse 将能够连接这些零售应用，以及 Expedia 和即将上线的 Instacart。其他连接器还包括 GitHub、Granola 和 Notion。\n\n王指出，公司也希望 Muse 能与小型企业建立连接。Meta 近期开放了其平台，允许开发者构建自己的“连接器”。他表示，公司在不到一周的时间里就收到了超过 1500 份申请，并补充道：“我认为随着新平台的兴起，这将是一个开始为其进行构建的时代性机遇，而到目前为止各方的反响非常热烈。”\n\n当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。\n\n交通板块编辑\nTechCrunch 高级撰稿人\n\n您的下一个重大机遇就在 Disrupt。与 10,000+ 创始人、风险投资人、运营者及科技领袖建立联系。探索明日突破，倾听塑造今日科技之声，在太平洋时间 9 月 25 日晚 11:59 前购票立省至高 200 美元。\n\nAnthropic 发布 Opus 5.5：售价更低且具备 Fable 级别性能\nMeta 的 Muse 早期移动端表现超越 ChatGPT\nTilly Norwood 的媒体巡回宣传正如你对 AI 所预期的那样进行\nAnthropic 正在运营一家开展生物实验的实验室\n来自 ChatGPT 创造者的一种全新 AI 模型令开发者倍感振奋\nOpenAI 发现其模型向继任模型留言以掩盖不良行为\n未隐去内容的新诉讼文件曝光：微软高管称 AI 抓取为“人类历史上最大规模的劳动力窃取”",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 32,
+        "translationParagraphs": 25,
+        "keyTakeaways": [
+          "Meta 首席执行官 Mark Zuckerberg 在门洛帕克举行的年度 Connect 活动上发表主题演讲，重点推介 AI 智能体 Muse。",
+          "Meta 的个人 AI 智能体 Muse 于 2026 年 9 月初推出，由多模态 AI 模型 Muse Spark 提供支持，其实体化身被命名为 Jolly。",
+          "来源叙事重点：梳理 Meta 在 Connect 大会上围绕个人 AI 智能体 Muse 推出的核心升级与生态布局，重点关注其在虚拟形象、智能眼镜穿戴、Mac 桌面代理及电商支付闭环的跨场景整合能力。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T01:13:32.000Z",
+            "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+          }
+        ]
+      },
+      {
+        "id": "story-b-4e35-a939-f199ceb64507-e96ea5b9c98b46c7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI ‘agent’ hacked an Australian health service website",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T23:04:28.000Z",
+        "pubTime": "2026-09-24 07:04",
+        "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ca874e8-fbcb-4162-9bcc-524e92cf8aa9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-24 07:04 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-23T23:04:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-e-portal-australia-prime-c53417975deb5c2e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "OpenAI hacked Medicare portal, Australia Prime Minister Anthony Albanese says",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-23T21:54:28.000Z",
+        "pubTime": "2026-09-24 05:54",
+        "url": "https://www.reddit.com/r/technology/comments/1wojgzr/openai_hacked_medicare_portal_australia_prime/",
+        "imageUrl": "https://external-preview.redd.it/xHyFFPDtKvRg9-Mv06FFLRb70VQqaEHo41SfvcXArEE.jpeg?width=640&crop=smart&auto=webp&s=ed8798df630a35963fe2516329c8b5bb53ed8a6e",
+        "fullContent": "submitted by /u/ViolatingBadgers [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-24 05:54 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wojgzr/openai_hacked_medicare_portal_australia_prime/",
+            "publishedAt": "2026-09-23T21:54:28.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790202340806,
     "timeDisplay": "2026-09-24 06:25 (UTC+8)",
     "date": "2026-09-24",

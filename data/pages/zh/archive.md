@@ -35,14 +35,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **66** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **67** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-24 06:25 (UTC+8)
+- **最新归档时间**：2026-09-24 09:34 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-24 09:34 (UTC+8)" title="全球要闻情报简报 · 09:34" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-24 09:29 (UTC+8) 完成，共获得 26 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】FLAWED的缺陷及其对行业研究的启示：免责声明：本文仅代表我个人观点，不代表任何现任或前任雇主或附属机构的立场。；【undefined】贝森特称美中贸易休战期延长两个月，习近平开启国事访问：美国财政部长斯科特·贝森特（Scott Bessent）当地时间周三表示，美中两国已延长贸易休战期，以在更长时间内保持较低关税水平并维持稀土流动。；【undefined】我们用 AI 智能体修复了一个开源 Bug，有人要求封禁我们：加载时出错。请重新加载此页面。；【undefined】Meta AI 智能体 Muse 迎来多项重磅更新：Meta 的个人 AI 智能体 Muse 推出仅数周时间，这家社交网络巨头便毫不懈怠地推进这笔堪称其迄今为止在消费级人工智能领域最大押注的布局。；【undefined】“创意相遇”活动：意大利呼吁墨西哥时尚与设计人才积极参与：（安莎社）墨西哥城9月23日电——墨西哥意大利商会（CCIM）推介了第六届“创意相遇”（Encuentro Creativo）活动。该平台旨在促进意大利与墨西哥在时尚和设计领域的学术及专业合作。活动项目包括10月12日至23日期间举办的27场线上主旨演讲，以及定于10月10日在墨西哥城意大利文化学院举办的开放日活动。主办方强调，这些活动将作为初步联络点，向参与者介绍意大利的学术课程及专业深造机会。；【undefined】国外三大遗址考古 国家文物局发布赴外考古新成果：国家文物局今天(24日)在北京发布3项赴外考古项目新成果，包括：；【undefined】密歇根州学生在紧张交锋中就伊朗立场质问埃尔-萨耶德：“你和我们站在一起吗？”：周三的一场市政厅会议上，一名密歇根州学生就民主党联邦参议员候选人阿卜杜勒·埃尔-萨耶德（Abdul El-Sayed）对伊朗的立场对其发难，提及自己家人声称遭受伊朗政权迫害的经历，随后反复追问该候选人是否与反对该国政府的伊朗人民站在一起。；【undefined】它们曾被贴上“变态眼镜”的标签。无摄像头版本能否扭转其公众形象？：它们曾被贴上“变态眼镜”的标签。无摄像头版本能否扭转其公众形象？
+
+**重点要闻索引：**
+- [NY Times World (纽约时报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine) <span class="news-meta-time">🕒 2026-09-24 09:26</span>
+- [Hacker News (科技前沿论坛)] [FLAWED的缺陷及其对行业研究的启示](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/) <span class="news-meta-time">🕒 2026-09-24 09:16</span>
+- [CNBC Markets (CNBC 市场官方英文)] [贝森特称美中贸易休战期延长两个月，习近平开启国事访问](https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html) <span class="news-meta-time">🕒 2026-09-24 07:59</span>
+- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://evnm.substack.com/p/beware-overreliance-on-metaphor) <span class="news-meta-time">🕒 2026-09-24 07:39</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-eu-erasmus-canada.html) <span class="news-meta-time">🕒 2026-09-24 09:20</span>
+- [The Guardian (英国卫报官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb) <span class="news-meta-time">🕒 2026-09-24 09:24</span>
+:::
 :::timeline-item{start="2026-09-24 06:25 (UTC+8)" title="全球要闻情报简报 · 06:25" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-24 06:22 (UTC+8) 完成，共获得 28 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -641,18 +654,5 @@ notice:
 - [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wcraby/florida_woman_sues_over_wrongful_arrest_tied_to/) <span class="news-meta-time">🕒 2026-09-11 02:21</span>
 - [Phys.org (基础物理与技术前沿)] [2025年气候灾害导致全球逾1.71亿学生学业受阻](https://phys.org/news/2026-09-climate-hazards-disrupted-schooling-million.html) <span class="news-meta-time">🕒 2026-09-11 03:40</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/izrail-2116926099.html) <span class="news-meta-time">🕒 2026-09-11 03:42</span>
-:::
-:::timeline-item{start="2026-09-11 00:15 (UTC+8)" title="全球要闻情报简报 · 00:15" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-11 00:12 (UTC+8) 完成，共获得 791 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。；外文信号正在进行中文翻译，暂不展示未翻译内容。
-
-**重点要闻索引：**
-- [Sputnik Globe (官方国际英文电讯)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://sputnikglobe.com/20260910/us-spy-aircraft-flies-for-9-hours-along-russias-south-over-black-sea---flight-data-1124713156.html) <span class="news-meta-time">🕒 2026-09-11 00:09</span>
-- [AWS Machine Learning Blog (亚马逊云科技官方英文)] [使用 Amazon Quick Automate 构建端到端 RFI 调查问卷工作流](https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/) <span class="news-meta-time">🕒 2026-09-11 00:08</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/The-Environment/Global-Warming/The-Race-to-Cut-Methane-Emissions-Is-Exposing-a-Global-Divide.html) <span class="news-meta-time">🕒 2026-09-11 00:00</span>
-- [The Guardian Society (卫报社会与民生)] [英朝野两派议员敦促下院勿冒“极大风险”强推辅助死亡法案](https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill) <span class="news-meta-time">🕒 2026-09-10 23:25</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-white-graphene-reshaped-atomic-scale.html) <span class="news-meta-time">🕒 2026-09-11 00:00</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260910/hashagov-2116902682.html) <span class="news-meta-time">🕒 2026-09-11 00:09</span>
 :::
 ::::
