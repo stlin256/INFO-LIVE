@@ -1,5 +1,1560 @@
 [
   {
+    "timestamp": 1790274663711,
+    "timeDisplay": "2026-09-25 02:31 (UTC+8)",
+    "date": "2026-09-25",
+    "runId": "feed-20260924T182759778Z-6c0vvn",
+    "generatedAt": "2026-09-24T18:31:03.711Z",
+    "hourlyBriefing": {
+      "title": "本小时全球资讯简报",
+      "lead": "本小时内涉及国际地缘政治、网络安全与人工智能、宏观财政及体育等多个领域，多方动态持续推进。",
+      "signals": [
+        "联合国大会等国际外交场合持续呈现紧张局势，相关国家领导人发言引发不同阵营反应。",
+        "开源与AI驱动的自动化安全检测工具发展加速，代码模糊测试引入智能体工作流。",
+        "部分国家在预算制定中采用保守油价预估以对冲财政赤字风险。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "当前证据包缺少文章标题、正文、来源、发布时间、链接及可引用证据，相关目录标题也尚未完成中文翻译，因此无法进行可靠的日尺度分析。",
+      "themes": [
+        {
+          "name": "信息不足",
+          "analysis": "目标文章内容状态为缺失，证据事实、引语、实体、冲突和引用均为空。相关条目仅提供了少量未标注来源的摘要片段，无法据此确认事件背景、主体、时间线或影响。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 99,
+      "completedTasks": 99,
+      "succeeded": 89,
+      "degraded": 10,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 99,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 183862,
+      "byRole": {
+        "translator": {
+          "attempts": 65,
+          "succeeded": 56,
+          "degraded": 9
+        },
+        "fact-extractor": {
+          "attempts": 10,
+          "succeeded": 9,
+          "degraded": 1
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "topic-classifier": {
+          "attempts": 10,
+          "succeeded": 10
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 99,
+          "succeeded": 89,
+          "degraded": 10
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-3-translator-0",
+      "article-5-translator-0",
+      "article-7-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-12-translator-0",
+      "article-16-translator-0",
+      "article-19-translator-0",
+      "article-37-translator-0",
+      "article-9-fact-extractor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:43.838Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.616Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:43.849Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.621Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.953Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.194Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.970Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.367Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.979Z",
+        "lastSuccessAt": "2026-09-24T18:27:46.919Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.962Z",
+        "lastSuccessAt": "2026-09-24T18:27:46.834Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:46.919Z",
+        "lastSuccessAt": "2026-09-24T18:27:47.131Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.179Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.466Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.149Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.825Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.084Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.417Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.650Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.046Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.621Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.056Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.612Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.149Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.616Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.842Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:46.728Z",
+        "lastSuccessAt": "2026-09-24T18:27:47.176Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:46.253Z",
+        "lastSuccessAt": "2026-09-24T18:27:47.070Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:46.576Z",
+        "lastSuccessAt": "2026-09-24T18:27:46.880Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.356Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.677Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.842Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.970Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.736Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.953Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.141Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.179Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:42.864Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.141Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.677Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.810Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.664Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.819Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.368Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.672Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.672Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.761Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.810Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.962Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.194Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.394Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:46.834Z",
+        "lastSuccessAt": "2026-09-24T18:27:49.407Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.684Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.736Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.835Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.979Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.819Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.874Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.874Z",
+        "lastSuccessAt": "2026-09-24T18:27:46.253Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:46.880Z",
+        "lastSuccessAt": "2026-09-24T18:27:47.061Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.996Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.084Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.361Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.720Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.536Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.664Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.865Z",
+        "lastSuccessAt": "2026-09-24T18:27:46.187Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.761Z",
+        "lastSuccessAt": "2026-09-24T18:27:46.074Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-24T18:27:45.736Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:42.862Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.736Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-24T18:27:45.825Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:42.863Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.612Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:46.074Z",
+        "lastSuccessAt": "2026-09-24T18:27:47.317Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.417Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.684Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:44.466Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.650Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.720Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.835Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.394Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.536Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:46.139Z",
+        "lastSuccessAt": "2026-09-24T18:27:46.576Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:46.187Z",
+        "lastSuccessAt": "2026-09-24T18:27:46.728Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.056Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.356Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:45.046Z",
+        "lastSuccessAt": "2026-09-24T18:27:45.361Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:42.847Z",
+        "lastSuccessAt": "2026-09-24T18:27:43.849Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:42.860Z",
+        "lastSuccessAt": "2026-09-24T18:27:43.838Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T18:27:42.861Z",
+        "lastSuccessAt": "2026-09-24T18:27:44.996Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-24-novak-2120120545-html-1bf186750ea8909f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Новак и Кобзев обсудили ситуацию с топливом в Иркутской области",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-24T18:26:49.000Z",
+        "pubTime": "2026-09-25 02:26",
+        "url": "https://ria.ru/20260924/novak-2120120545.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e8/05/06/1944176013_0:0:960:540_650x0_80_0_0_24ce97192eafdb042661b84945ce8d09.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 02:26 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260924/novak-2120120545.html",
+            "publishedAt": "2026-09-24T18:26:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-urity-lab-taskflow-agent-4431c738b4b1e8a1",
+        "title": "要闻：如果你是模糊测试（fuzzing）的新手并希望先了解基础知识，可以查看我们在 gh.io/fuzzing101 ",
+        "originalTitle": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+        "source": "GitHub Blog (工程技术博客)",
+        "sourceSlug": "github",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:26:12.000Z",
+        "pubTime": "2026-09-25 02:26",
+        "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+        "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-09-23-at-3.16.38-PM.png?resize=1024%2C453",
+        "fullContent": "If you&rsquo;re new to fuzzing and want to learn the fundamentals first, check out our Fuzzing 101 course at gh.io/fuzzing101 .\n\nContinuous fuzzing is not a magic solution that solves all your problems . Even projects that have been enrolled in OSS-Fuzz for years can still hide critical bugs, and the reason is almost always the same: someone needs to keep an eye on coverage, write new harnesses for the code that nobody is reaching, and triage the crashes that come out the other end. In other words, fuzzing still needs a human in the loop.\n\nSo the natural question I kept asking myself was: how much of that human work can we actually hand over to an LLM agent?\n\nThat is what led me to build the Fuzzing Taskflow, an autonomous fuzzing pipeline for C/C++ projects. You only need to point it at a GitHub repository, and it does the rest: it identifies the suitable entrypoints, analyzes the build system, writes the harnesses, runs AFL++, reads the coverage reports, improves the harnesses, triages every crash, and writes a vulnerability report for each unique bug, all without a human babysitting it.\n\nThe Fuzzing Taskflow is built on top of the GitHub Security Lab Taskflow Agent , our framework for writing LLM-driven security automation, so the pipeline is expressed as a set of taskflows that an agent runs end to end.\n\nIn this post, I&rsquo;ll walk you through how it works and the design decisions behind it. Let&rsquo;s get going!\n\nThe simplest way to run it&rsquo;s just to go to https://github.com/GitHubSecurityLab/seclab-taskflows-fuzzing and start a codespace.\n\nThen, run the script like this:\n\n./scripts/fuzzing/run_fuzzing.sh PROJECT\n\n./scripts/fuzzing/run_fuzzing.sh tukaani-project/xz\n\nThat&rsquo;s it. The argument is just a GitHub owner/repo slug. Then, the agent, takes care of all the preliminary steps on its own:\n\nInstalling software such as AFL\n\nCloning the repository\n\nIdentifying the most relevant functions in the code\n\nCreating fuzz targets for those functions\n\nIf you just want a quick smoke test before committing to a long campaign, point it at something small:\n\n./scripts/fuzzing/run_fuzzing.sh DaveGamble/cJSON\n\nA word of warning before you run it: this taskflow runs afl-fuzz , clang , and arbitrary build commands chosen by the LLM directly on the host, with no container in between. A prompt-injected agent could, in principle, do anything your user can. So please run it only inside a disposable environment (e.g., a Codespace or a throwaway VM), without elevated privileges .\n\nSome frontier models impose security guardrails on their outputs. For the fuzzing task flow, we use Claude Sonnet 5 by default because it passed all of our internal tests without issues. You can choose a different model by modifying the following file: src/seclab_taskflows_fuzzing/configs/model_config.yaml .\n\nThe architecture in one minute\n\nBefore getting into the interesting parts, it helps to know how the pieces fit together. There are three layers:\n\nA shell driver ( run_fuzzing.sh) that chains the pipeline stages together.\n\nA set of taskflow YAMLs , one per stage, which are essentially the prompts that tell the LLM agent what to do at each step.\n\nA set of MCP tools that the agent calls to actually do the work: run AFL, compile a harness, store a crash, read a coverage report, and so on.\n\nThe design rule I cared about most is a clean separation of responsibility: the LLM agent owns the decisions, and the MCP tools own the execution . The agent decides what to fuzz, what harness to write, and what coverage gap to chase next. The tools just expose primitives like run_afl_for or compile_harness . The agent never calls AFL or clang directly; it composes the pipeline out of these building blocks. All the state lives in a SQLite database ( fuzz_context.db ), so the stages never hand data to each other in memory, only through the database.\n\nOne small but important detail: each harness is built twice. AFL&rsquo;s edge instrumentation is great for guiding the fuzzer but useless for human-readable coverage reports. So every harness becomes both a .afl binary (built with afl-clang-lto -fsanitize=address,undefined ) and a .cov binary (built with clang -fprofile-instr-generate -fcoverage-mapping ). The .afl binary does the fuzzing; the .cov binary replays AFL&rsquo;s queue afterwards to produce real source-line and branch coverage.\n\nThe coverage-feedback loop\n\nThis is the heart of the whole pipeline, and it&rsquo;s the part that most directly automates the manual workflow I described at the start.\n\nIf you have ever tried to improve fuzzing coverage by hand, you&rsquo;ll know that it&rsquo;s an iterative process that looks like this:\n\nThe &ldquo;check the coverage&rdquo; step used to be completed by me, manually reading an LCOV report looking for uncovered branches. The &ldquo;improve the coverage&rdquo; step was also completed by me, this time, writing a new harness or crafting a new input. The Fuzzing Taskflow hands both of those steps to the agent.\n\nEach iteration, for each harness, the agent runs AFL for a time budget, replays the queue against the .cov binary to get a real coverage report, and then reads the list of uncovered branches. Based on what it finds, it picks one of a handful of actions:\n\nAdd a new seed crafted to reach an uncovered branch\n\nEdit the harness source to call an additional API\n\nAuto-enrich the AFL dictionary with the magic constants a guard is comparing against\n\nSimply skip the gap if it&rsquo;s a cold error path or vendor code that isn&rsquo;t worth chasing\n\nThe time budgets double every iteration:\n\n30s &rarr; 60s &rarr; 120s &rarr; 240s &rarr; 480s &rarr; 960s (&asymp; 32 min/target)\n\nThe idea is to spend cheap, short rounds early (when there&rsquo;s lots of low-hanging coverage to grab) and longer rounds later (when the fuzzer needs more time to break through a hard guard).\n\nAnd just like in my manual workflow, I need an answer to the question: when do we stop? Here, the loop uses plateau detection : once two consecutive iterations each gain less than a configurable threshold (1% absolute line coverage by default), the loop decides it has hit diminishing returns and moves on. This keeps the agent from burning hours of compute squeezing out the last fraction of a percent.\n\nStructure-aware fuzzing\n\nAFL&rsquo;s default byte-level mutators (bit flips, arithmetic, block splicing) do a great job on binary formats but struggle with structured, text-based inputs. The classic solution is to hand-write custom mutators for each format, which is tedious work. This time I want the pipeline to do that work for me, so it ships four complementary mechanisms for producing structure-aware inputs.\n\n1. Per-format dictionaries and custom mutators . For targets whose input format is recognized (JSON, XML, regex, PNG, length-prefixed binary TLV), the taskflow ships pre-built AFL dictionaries and LLVMFuzzerCustomMutator C files. The JSON mutator does token splicing and balanced-bracket duplication; the XML one knows about tags, entities, and billion-laughs tokens; the regex one carries real ReDoS patterns. Each mutator delegates half of its mutations back to AFL&rsquo;s default byte mutator, so we keep the engine&rsquo;s randomization instead of fighting it.\n\n2. A source level dictionary. For formats the pipeline doesn&rsquo;t recognize, it generates a custom mutator on the fly by scanning the target&rsquo;s own .c/.h files. It extracts string literals and 32-bit numeric constants (from #define , case , and enum ), filters out the noise, and uses them as splice tokens. The intuition is simple: the most interesting magic values that a parser checks for are usually written down somewhere in its own source.\n\n3. A dynamically generated AFL dictionary with coverage-driven enrichment . The same source-token set is also emitted as an AFL classic dictionary before iteration 1 (numeric constants in both endiannesses, so the fuzzer can satisfy a memcmp against a 4-byte magic regardless of host byte order). Then, after every coverage step, the pipeline looks at the guards near the uncovered lines ( strncmp , memcmp , case 0xN , == &lsquo;X&rsquo; ) and appends any new tokens it finds. The dictionary literally grows toward the code the fuzzer can&rsquo;t yet reach.\n\n4. A corpus-splice operator . The smart mutator can also load files from a corpus directory and splice random sub-regions of them into the input, a recombination-style operator that AFL&rsquo;s stock havoc doesn&rsquo;t do well.\n\nOne of the things that quietly kills fuzzing efficiency is throwing away progress. If every run starts from the original seeds, you re-pay the cost of rediscovering the same paths over and over.\n\nTo avoid that, every harness gets a stable corpus directory that survives across iterations and across entire campaigns:\n\n<workspace>/corpus/harness_<id>/\n\nAt the end of each iteration, AFL&rsquo;s queue is merged into this directory and run through afl-cmin to keep its size bounded. The effect is that yesterday&rsquo;s interesting inputs carry into today&rsquo;s run, and the inputs you found in last week&rsquo;s campaign carry into this one. If you stop and restart a campaign, you lose nothing.\n\nTriage and vulnerability reports\n\nFinding a crash is only half the job. As anyone who has done root-cause analysis knows, triaging is often the most tedious part of the whole process. This is the other place where the agent shines.\n\nAfter the fuzzing loop finishes, three stages run automatically. First, every crash is minimized with afl-tmin , replayed under ASan to capture a stack trace, and deduplicated by a stack-top hash (the top normalized frames, with templates, inline namespaces, and LTO suffixes stripped so semantically identical crashes collapse together). Second, previously known crashes are replayed against the current binary to see whether an upstream fix has resolved them. Third, the agent reads the harness source and the crashing function, walks the call chain back from the public API, and writes a per-crash markdown report.\n\nEach report assigns one of the following verdicts:\n\nThe distinction between a real vulnerability (reachable and exploitable through a public API) and a mere harness_bug (the bug is in our own harness, not the library) is exactly the kind of judgment call that used to require me to sit down and trace the code by hand. Every report includes a root-cause analysis with file:line references, a reachability argument, an exploitability assessment, a suggested fix as a unified diff and a regression-test sketch.\n\nJust as clarification: the suggested patches are marked &ldquo;review required&rdquo; for a reason. The agent&rsquo;s analysis is limited by the model&rsquo;s understanding of the target code, and it does get things wrong. Treat the verdicts as a very well-prepared starting point for a human, not as final result.\n\nRunning an autonomous campaign and not being able to see what it&rsquo;s doing is uncomfortable, so the pipeline publishes everything to a live HTML dashboard. It auto-starts in the background as soon as you launch a campaign, on port 8765 . In a Codespace that port is auto-forwarded, so you can open it in any browser and watch the campaign progress in real time on the dashboard.\n\nThe page shows amongst others:\n\na per-harness &ldquo;running&rdquo; pulse\n\na coverage-trend table with inline sparklines\n\nan iteration timeline\n\nI started this project motivated by the limitations that any security researcher knows well: fuzzing works, but it doesn&rsquo;t scale without human attention, and that human attention is the bottleneck. The Fuzzing Taskflow is my attempt to push that bottleneck back by handing the repetitive parts (writing harnesses, reading coverage, chasing gaps, triaging crashes) to an LLM agent, while keeping a clean separation between the agent&rsquo;s judgment and the tools that do the real work.\n\nIf you&rsquo;re the maintainer of C/C++ project, then please give it a try . If your project has never been fuzzed before, then this tool will help you to get started quickly. Or if your project has been fuzzed before, then this tool might help to find new bugs by increasing your fuzzing coverage.\n\nThe source code is open source, so please create an issue if you encounter any bugs. Contributions are also welcome!\n\nThe post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
+        "fullTranslation": "如果你是模糊测试（fuzzing）的新手并希望先了解基础知识，可以查看我们在 gh.io/fuzzing101 提供的 Fuzzing 101 课程。\n持续模糊测试并不是解决所有问题的灵丹妙药。即使是加入 OSS-Fuzz 多年的项目，依然可能隐藏着严重漏洞，其原因几乎总是相同的：需要有人持续盯住代码覆盖率，为无人触及的代码编写新的测试桩（harness），并对另一端产生的崩溃进行分类排查。换言之，模糊测试仍然需要人工介入（human in the loop）。\n因此，我一直在思考的一个自然问题是：这其中究竟有多少人工工作可以真正移交给大语言模型（LLM）智能体？\n正是这一思考促使我构建了 Fuzzing Taskflow，这是一个面向 C/C++ 项目的自主模糊测试流水线。你只需将其指向一个 GitHub 仓库，其余工作均由它完成：识别合适的入口点、分析构建系统、编写测试桩、运行 AFL++、读取覆盖率报告、改进测试桩、对每次崩溃进行分类，并针对每个独立漏洞编写漏洞报告，整个过程无需人工看护。\nFuzzing Taskflow 构建于 GitHub Security Lab Taskflow Agent 之上，这是我们用于编写 LLM 驱动的安全自动化任务的框架，因此该流水线被表达为一组由智能体端到端运行的工作流（taskflows）。\n在这篇博文中，我将向你介绍它的工作原理及其背后的设计决策。让我们开始吧！\n最简单的运行方式就是直接访问 https://github.com/GitHubSecurityLab/seclab-taskflows-fuzzing 并启动一个 codespace。\n然后，像这样运行脚本：\n./scripts/fuzzing/run_fuzzing.sh PROJECT\n./scripts/fuzzing/run_fuzzing.sh tukaani-project/xz\n就这么简单。参数仅为一个 GitHub 所有者/仓库标识。随后，智能体会自行处理所有准备步骤：\n安装如 AFL 等软件\n克隆代码仓库\n识别代码中最相关的函数\n为这些函数创建模糊测试目标（fuzz targets）\n如果你只是想在投入长时间测试之前进行快速冒烟测试，可以将其指向较小的项目：\n./scripts/fuzzing/run_fuzzing.sh DaveGamble/cJSON\n在运行之前需要提出一点警告：该任务流会直接在宿主机上运行 afl-fuzz、clang 以及由 LLM 选择的任意构建命令，中间没有任何容器隔离。受到提示词注入攻击的智能体原则上可以执行你的用户权限所能执行的任何操作。因此，请务必仅在临时环境（例如 Codespace 或一次性虚拟机）中运行它，且不要赋予提权权限。\n一些前沿模型对其输出施加了安全护栏。对于模糊测试任务流，我们默认使用 Claude Sonnet 5，因为它毫无问题地通过了我们所有的内部测试。你可以通过修改以下文件来选择其他模型：src/seclab_taskflows_fuzzing/configs/model_config.yaml。\n一分钟了解其架构\n在深入有趣的部分之前，了解各组件是如何协同工作的会很有帮助。系统共有三层：\n一个用于串联流水线各个阶段的 Shell 驱动程序（run_fuzzing.sh）。\n一组任务流 YAML 文件，每个阶段一个，它们本质上是告知 LLM 智能体在每一步该做什么的提示词。\n一组模型上下文协议（MCP）工具，智能体调用它们来执行实际工作：运行 AFL、编译测试桩、存储崩溃、读取覆盖率报告等。\n我最看重的设计原则是职责的明确分离：LLM 智能体负责决策，MCP 工具负责执行。智能体决定对什么进行模糊测试、编写什么测试桩以及接下来追踪哪个覆盖率缺口。工具仅暴露诸如 run_afl_for 或 compile_harness 之类的原语。智能体从不直接调用 AFL 或 clang；它用这些积木搭建起整条流水线。所有状态都保存在 SQLite 数据库（fuzz_context.db）中，因此各阶段之间从不在内存中互相传递数据，仅通过数据库传递。\n一个微小但重要的细节：每个测试桩都会编译构建两次。AFL 的边插桩对于引导模糊测试器非常有效，但对于生成人类可读的覆盖率报告毫无用处。因此，每个测试桩都会生成一个 .afl 二进制文件（使用 afl-clang-lto -fsanitize=address,undefined 构建）和一个 .cov 二进制文件（使用 clang -fprofile-instr-generate -fcoverage-mapping 构建）。.afl 二进制文件执行模糊测试；.cov 二进制文件事后重放 AFL 的测试队列，以生成真实的源码行和分支覆盖率。\n覆盖率反馈循环\n这是整条流水线的核心，也是将我在开头所描述的人工工作流自动化得最彻底的部分。\n如果你曾尝试过手动提高模糊测试覆盖率，你就会知道这是一个如下所示的迭代过程：\n“检查覆盖率”这一步过去是由我完成的，手动阅读 LCOV 报告以寻找未覆盖的分支。“提高覆盖率”这一步同样由我完成，此时需要编写新的测试桩或构造新的输入。Fuzzing Taskflow 将这两个步骤都交给了智能体。\n在每次迭代中，针对每个测试桩，智能体会运行 AFL 达到设定的时间预算，对照 .cov 二进制文件重放队列以获取真实的覆盖率报告，然后读取未覆盖分支的列表。基于所发现的内容，它会选择以下几种操作之一：\n添加专门构造用于触及未覆盖分支的新种子\n修改测试桩源码以调用额外的 API\n自动利用防护条件进行比较的魔法常量来扩充 AFL 字典\n如果这属于冷门错误路径或不值得追踪的第三方供应商代码，则直接跳过该缺口\n时间预算在每次迭代中翻倍：\n30 秒 → 60 秒 → 120 秒 → 240 秒 → 480 秒 → 960 秒（每个目标约 32 分钟）\n这种设计的思路是在早期投入开销低、耗时短的轮次（此时有大量容易获取的覆盖率），并在后期投入耗时更长的轮次（此时模糊测试器需要更多时间来突破困难的防护条件）。\n正如我的手动工作流一样，我需要回答一个问题：我们何时停下来？在此处，循环采用了平台期检测（plateau detection）：一旦连续两次迭代各自获得的增益低于可配置的阈值（默认为绝对行覆盖率 1%），循环便判定已进入收益递减阶段并继续向下推进。这可以防止智能体为了榨出最后零点几个百分点的覆盖率而耗费数小时的算力。\n结构感知模糊测试\nAFL 默认的字节级变异器（位翻转、算术运算、块拼接）在二进制格式上表现出色，但在处理结构化的文本输入时却举步维艰。传统的解决方案是针对每种格式手写自定义变异器，这是一项繁琐的工作。这一次我希望流水线能为我完成这项工作，因此它提供了四种互补的机制来生成结构感知型输入。\n\n1. 针对特定格式的词典和自定义变异器。对于能识别输入格式的目标（如 JSON、XML、正则表达式、PNG、带长度前缀的二进制 TLV），该任务流提供了预构建的 AFL 词典和 LLVMFuzzerCustomMutator C 源码文件。JSON 变异器会执行词法单元拼接和平衡括号复制；XML 变异器理解标签、实体以及“十亿笑声”（billion-laughs）标记；正则变异器则携带真实的 ReDoS 模式。每个变异器都会将其半数变异委托回 AFL 的默认字节变异器，从而在不破坏引擎随机化机制的前提下加以利用。\n2. 源码级词典。对于流水线无法识别的格式，它会通过扫描目标自身的 .c/.h 文件来动态生成自定义变异器。它提取字符串字面量以及来自 #define、case 和 enum 的 32 位数值常量，过滤掉噪音，并将其用作拼接标记。其背后的逻辑很简单：解析器所校验的最关键的魔数，通常就写在它自己的源代码中。\n3. 具备覆盖率驱动富化机制的动态 AFL 词典。同一批源码标记集在第 1 轮迭代前也会被导出为经典的 AFL 词典（包含两种字节序的数值常量，以便模糊测试器无论在何种主机字节序下都能满足针对 4 字节魔数的 memcmp 比对）。随后，在每个覆盖率收集步骤之后，流水线会查看未覆盖代码行附近的守卫条件（如 strncmp、memcmp、case 0xN、== 'X'），并追加发现的所有新标记。词典实际上会朝着模糊测试器尚无法触及的代码方向自主扩充。\n4. 语料库拼接算子。智能变异器还可以从语料库目录中加载文件，并将它们的随机子区域拼接到输入中，这是一种 AFL 原生 havoc 变异模式无法很好实现的重组风格算子。\n悄然扼杀模糊测试效率的一大元凶就是丢失测试进度。如果每次运行都从原始种子开始，你就会反复承担重新发现相同路径的开销。\n为了避免这种情况，每个测试桩（harness）都会获得一个能在多次迭代和整个测试任务周期中持久保留的稳定语料库目录：\n/corpus/harness_ /\n在每次迭代结束时，AFL 的队列会被合并到该目录中，并通过 afl-cmin 进行精简以限制其规模。这样带来的效果是，昨天的有效输入可以延续到今天的运行中，而上周测试中发现的输入也可以带入本周的测试。即使你停止并重启测试任务，也不会丢失任何进展。\n\n分类筛选与漏洞报告\n发现崩溃（crash）仅仅完成了工作的一半。做过根本原因分析的人都知道，分类筛选往往是整个流程中最繁琐的部分。而这正是该 Agent 大显身手的另一个领域。\n模糊测试循环结束后，三个阶段将自动运行。首先，每一个崩溃都会通过 afl-tmin 进行最小化，在 ASan 环境下重放以捕获堆栈轨迹，并通过栈顶哈希（剥离了模板、内联命名空间和 LTO 后缀的标准栈顶帧，从而使语义相同的崩溃合并在一起）进行去重。其次，先前已知的崩溃会在当前二进制程序上重放，以检查上游修复是否已将其解决。第三，Agent 读取测试桩源码和发生崩溃的函数，从公共 API 向上逆向遍历调用链，并为每个崩溃生成一份 Markdown 报告。\n每份报告都会给出以下裁定之一：\n区分真正的漏洞（可通过公共 API 触达并利用）与单纯的测试桩错误（harness_bug，即错误存在于我们自己编写的测试桩中而非库本身），正是过去需要我坐下来人工跟踪代码的那类判断。每份报告都包含带有“文件:行号”引用的根本原因分析、可达性论证、可利用性评估、以统一 diff 形式提供的修复建议以及回归测试草案。\n在此需要澄清的是：建议的补丁被标记为“需要人工复核”是有原因的。Agent 的分析受限于模型对目标代码的理解能力，确实存在出错的可能。请将这些裁定视为为人工复核精心准备的高质量起点，而非最终定论。\n运行无人值守的自动化测试却无法看清其内部运作会让人感到心里没底，因此流水线会将所有运行状态发布到实时 HTML 仪表盘上。一旦你启动测试任务，仪表盘就会在后台自动启动并监听 8765 端口。在 Codespace 中，该端口会自动转发，你可以直接在任何浏览器中打开它，在仪表盘上实时观察测试任务的进展。\n该页面展示的内容包括但不限于：\n每个测试桩的“运行中”心跳状态\n带有内嵌走势图的覆盖率趋势表\n迭代时间线\n我启动这个项目的初衷，源于任何安全研究人员都深有体会的局限性：模糊测试虽然有效，但若缺乏人工干预就无法规模化，而人工精力正是瓶颈所在。模糊测试任务流（Fuzzing Taskflow）正是我试图打破这一瓶颈的尝试：将重复性工作（编写测试桩、分析覆盖率、追踪未覆盖分支、分类筛选崩溃）交由 LLM Agent 处理，同时在 Agent 的判断与真正执行工作的底层工具之间保持清晰的边界分离。\n如果你是 C/C++ 项目的维护者，欢迎尝试使用。如果你的项目此前从未进行过模糊测试，该工具能帮你快速起步；如果你的项目已经做过模糊测试，该工具也能通过提高测试覆盖率，帮助你发现新的漏洞。\n该项目源码现已开源，若遇到任何问题，欢迎提交 Issue。我们同样非常欢迎社区贡献！\n博文《借助 GitHub Security Lab Taskflow Agent 实现 AI 驱动的模糊测试》首发于 The GitHub Blog。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 64,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "GitHub Security Lab 推出了基于 Taskflow Agent AI 框架的 Fuzzing Taskflow，用于 C/C++ 项目的自主模糊测试流水线。",
+          "Fuzzing Taskflow 默认使用 Claude Sonnet 5 模型，因其通过了内部所有测试。",
+          "来源叙事重点：宣传并详细介绍其开源的 Fuzzing Taskflow 自动化框架，重点展示如何通过 LLM Agent 替代传统模糊测试中的繁重人工环节（如生成 harness、覆盖率反馈调优、崩溃分类），并强调其架构设计解耦与实操便捷性，同时披露沙箱隔离缺失的安全警示。"
+        ],
+        "citations": [
+          {
+            "source": "GitHub Blog (工程技术博客)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:26:12.000Z",
+            "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/"
+          }
+        ]
+      },
+      {
+        "id": "story-ad-of-panicking-717ff133-a6d39b946a39e675",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "It’s no secret that Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:24:00.000Z",
+        "pubTime": "2026-09-25 02:24",
+        "url": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "With midterm elections around the corner, voters are voicing concern about the future of these programs as rising costs imperil household finances",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 02:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-24T18:24:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-3286528cfb8b0d04",
+        "title": "2026年AI从业者调查",
+        "originalTitle": "AI Workers' Inquiry 2026",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T17:41:35.000Z",
+        "pubTime": "2026-09-25 01:41",
+        "url": "https://techworkersinquiry.org/ai/",
+        "imageUrl": null,
+        "fullContent": "The UTAW Tech Workers’ Inquiry outlines how generative AI is changing work across the tech sector, written with the perspectives and experiences of workers who build, deploy, manage, evaluate and use this technology.\n\nThis report can also be downloaded as a PDF:\n\nGet in touch at contact@utaw.tech\n\nAI is widely used to describe a disparate, and in many cases contradictory, set of technologies. While the term defies consensus, a clear picture of its impacts is emerging. Our participants described it as a largely negative force reorganising their work: increasing output expectations, changing skills requirements, expanding monitoring, degrading expertise, shifting accountability, and creating divisions between colleagues. AI applications rarely remove work; they redistribute and intensify it.\n\nWorkers stressed that positive uses depend on their ability to decide for themselves how to engage with AI.1 The central problem is not simply whether AI works well, but how it is introduced, controlled, measured and used by employers. Put simply, it is useful only when one gets to choose if and how to use them.\n\nThe problems identified are not derived from any technical limits of today’s models. Poor quality outputs, hallucinations and weak code do have an impact, but they are only part of the picture. This is because employers use AI to intensify work, rationalise redundancies, eliminate junior hiring, increase surveillance, deskill and downskill workers, shift risk onto employees and weaken their agency. Even as models improve, the underlying workplace issues will remain if workers do not gain enforceable rights over how AI is used, at work and in society at large.\n\nTech workers are deeply concerned over AI’s harmful impacts on the environment, in military and state surveillance contexts, and on mental health. This is why the Inquiry’s recommendations focus less on functionality and more on who controls and benefits from it.\n\nWorkers must be actively empowered to defend and extend their rights. This includes enforceable power over how AI is introduced, used, monitored and evaluated at work.\n\nWorkers must be given the final decision over how, or if, they use AI tools at work. There must not be a penalty for choosing not to use it.\n\nConsultation and transparency matter only if they lead to real accountability and effective action. Disclosure without consequence only whitewashes.\n\nThe emerging policy directions are:\n\nThese proposals expand upon the carried composite motion at TUC Congress 2026 titled Artificial Intelligence at work, moved by the CWU, seconded by Aegis and supported by: UNISON; National Education Union; USDAW.2\n\nWe need a regulatory framework with teeth to hold employers and technology companies accountable for their use of AI, along the following lines:\n\nSkills and development must be prioritised where AI is deployed to eliminate AI-induced deskilling and downskilling:\n\nWorkers must retain the right to refuse and be protected from retaliation in doing so:\n\nThe negative externalities of AI must be thoroughly assessed and disclosed:\n\nHealth and Safety legislation must be updated to take into account the new types of psychological harm that AI brings to the workplace:\n\nWorkers must be protected from disciplinary and performance processes which are based on how much they’re using (or not using) genAI tools to complete their work:3\n\nRedundancy protections must be strengthened, employers cannot use AI adoption as a convenient cover for offshoring and outsourcing:\n\nEmployers must be compelled to involve workers meaningfully in implementation decisions:\n\nThis report investigates AI from the point of view of tech workers who build, deploy, evaluate, manage and use these systems. It is a worker-led and worker-generated intervention into public debate on AI, based on the direct experience of tech workers across the tech workforce.\n\nUnhelpfully, the term AI does not refer to a single technology. It is an umbrella term encompassing different technologies marketed together. As our report will show, some of these technologies have beneficial use-cases and some do not. Some do not even exist and may never, despite forming a major part of public debate on AI.\n\nOur inquiry starts from a basic premise: tech workers are not only affected by AI, they also know how these systems are built, introduced, monitored and used in practice. Their experience is essential to any serious discussion about AI, work and regulation.\n\nWho has shaped what we think we know about AI? Almost invariably, it is non-technical media pundits and the tech entrepeneurs who own AI companies. Sometimes, the latter started off as software engineers and scientists; always, they are super-rich businesspeople standing to profit from AI proliferation.\n\nTo our knowledge, this report is the first systematic synthesis of the experience of AI from a broad swathe of the tech workforce. Our inquiry covers the UK tech sector supply chain, including customer support agents, research scientists, software developers, cybersecurity analysts, tech educators and more besides.\n\nOur worker inquiry leverages the technical expertise of employees throughout the supply chain. The approach is no-nonsense, focusing on concrete daily experiences, cross-pollinates insights from a diversity of workers, and interrogates underlying dynamics.\n\nAs a class, the workforce which develops and deploys AI is arguably the ultimate authority on the topic. As a group of unionised and unionising workers, the voices in this report speak in terms of progress, fairness, and defence of the vulnerable. Tech C-suites, representing capital’s avaricious vision for genAI technology, have always been clear: move fast and break things. There is a long line of “things” who have been broken by the barons of Silicon Valley, from teens like Molly Russell to war-ravaged people in the eastern Congo. Tech workers, the intellectual and manual labourers behind this new set of technologies, are concerned that AI is not compatible with people and planet.\n\nAI has been described as a “suitcase word”, so roomy you can put anything you like in it. Such imprecise language is unhelpful as, in practice, AI encompasses a range of very different technologies, with different risks, environmental impacts and benefits. To be specific, when one speaks about the dangers posed by AI to mental health, cybersecurity or job automation, one is speaking of LLMs and agents (LLM-based systems). These are the most energy intensive.\n\nWhen one speaks of AI breakthroughs and beneficial applications, for example the Nobel Prize-winning Alpha Fold or weather forecasting models, one is talking of a completely different technology. This tech is task-specific (i.e. narrow, well-defined tasks) and uses smaller models whose energy requirements are negligible.\n\nUsing the same word to refer to both technologies muddies discussion of their respective risks and benefits. The term generative AI (genAI) is a more accurate catch-all for LLMs, vision-language models (VLMs), and any other machine learning technology which synthesises output based on training data (including audio and video).4 In this report, we aim to be as precise as possible in our reference to AI.\n\nMost of the debate about AI centres on artificial general intelligence (AGI), an ill-defined theoretical technology that doesn’t exist.5 This debate encompasses many questions (e.g. how to define AGI, AI doomers vs AI accelerationists, whether to pursue AGI at all) which we will not deal with here as they are largely a distraction from the real-world applications of genAI. The lack of a definition for AGI pushes discussion of its risks to an indefinite future moment, ignoring the immediate and near-term risks posed by genAI and its increasing integration into the systems that underpin society.\n\nPerhaps of some relevance is the debate between AI optimists and pessimists. The former believe genAI (and by extension the elusive AGI) can solve the world’s greatest problems, the latter do not. While tech workers do not share a unified opinion here, their response to the bleeding edge of genAI implementations is generally pessimistic.\n\nGenAI in practice is a technology of automation, and as with all automating technologies of the past, the chief beneficiaries of efficiencies are typically the super-rich company owners. On the one hand, employees whose work is being transformed by genAI report a variety of harms to their well-being.6 On the other, the tech boom of the past 30 years and the AI bubble of the past decade have enriched an exceedingly small number of billionaires and turbo-charged their (decidedly far-right) political influence. Meanwhile the majority of working people have faced year-on-year income loss for several years running and inequality has drastically been worsening for decades.\n\nIt is fair to say, therefore, that genAI is a technology which benefits billionaires now far more than it promises to benefit (or wipe out, depending on which type of investment they are angling for) everyone else at some undefined point in the future, and that this reality is reflected in who is hyping AI and who is suffering from its deployment. Workers and small business owners are both facing the same enemy: the Big Tech owners of frontier models, at once forcing genAI onto the labour force and renting their models out at increasingly exorbitant prices.\n\nAdditionally, both supporters and critics speak of genAI as a technology that is here to stay. This inevitability framing benefits C-suites and their shareholders by transferring political agency from people to “the market”, aka the super-rich owners of the technology. Why should workers accept this narrative uncritically?\n\nGenAI is a force with social, economic and mechanical impacts that can be understood, reckoned with, regulated, and prohibited where necessary. Any particular genAI deployment, and its very existence as a widespread technology, should not be taken as a given.\n\nThere have been productivity gains widely touted by AI optimists. We prefer to call it what it is: work intensification. Some commentators have described this as the Jevons paradox.7 The more efficiency is gained, the more job creation is stimulated. This half truth (efficiency gains) is a great lie, to paraphrase Benjamin Franklin.\n\nCompanies are reducing headcounts and avoiding hiring, with the remaining work distributed to fewer workers under tighter deadlines. At first glance, companies are carrying out redundancies (both mass layoffs and small regular redundancy exercises) and claiming this is because “AI is replacing the need for workers.” Workers on the inside report that layoffs are more often to maintain revenue in the face of rising inflation, to increase company valuation by manipulating financial indices, or even to cover the cost of genAI platform subscriptions.\n\nThe element of work which the Jevons paradox actually applies to is text synthesis. If a worker’s only job is to write as much copy as possible with no regard to quality, their job could truly be automated. These so-called AI efficiencies are an excuse to obfuscate a reality where skilled staff are replaced with new tools that do not work well while workers who survive redundancy pick up the ever-intensifying slack.\n\nTaken together, genAI adoption means harder work on less enjoyable tasks, ironically the opposite of AI boosters’ promise that “AI will do the boring tasks and leave the fun ones for humans.”\n\nUltimately, the best-placed people to regulate genAI are the workers who build and use it, because they are the ones who most immediately enjoy any benefits and suffer any consequences. As ordinary working people, tech workers are also not insulated from the technology’s impacts on other parts of society - unlike the billionaires owners of the technology. We reject the debunked premise of “pro-worker AI” 8 and in this report have put forward proposals that are worker-centric.\n\nThe logical conclusion of this report is not a new one, and was eloquently put forward by Wendell Phillips over 150 years ago: labour is entitled to all it creates. If we continue to allow tech barons to arrogate to themselves the power and profit, we will continue to see the worst that genAI can do to exploit and dominate the majority. On the flip side, if we place power over AI technologies in the hands of the workers who create and deploy them, society will reap any rewards while avoiding the harms. Workers should be empowered to control AI at work. We reject the premise of “pro-worker AI” and in this report\n\n“I started enjoying my job again as soon as I stopped using AI to code.”\n\nWorkers described being moved away from intellectually stimulating tasks and into prompting, reviewing and correcting low quality output.\n\nEmployees who code are experiencing a qualitative transformation of their work from problem-solving to supervising LLMs. Many workers said they no longer feel “in the flow” of coding, instead supervising models and evaluating outputs. As often as not, so much reviewing and correction is required to avoid approving poor output that time is lost rather than saved.\n\n“The more you use a coding assistant, the worse you get at doing it yourself.”\n\nDownskilling was a major concern across the board. Workers reported having to look up how to do things they previously would not have needed to after prolonged genAI use. This was especially visible in coding work, but not limited to it.\n\nJunior workers and those without strong foundational skills are becoming overly reliant on tools such as agents and assistants. There is no incentive or time for juniors to learn the necessary technical and critical thinking skills; work intensification means they are increasingly being denied a sounding board to chat through problems. Lacking expertise, they are badly placed to judge LLM output quality.\n\nWhile some senior workers also report downskilling when pushed to use LLMs, some reported feeling more confident in using LLMs as a tool to support their coding, rather than a substitute for their own thinking. Due to their skills being built up before AI proliferation, they are more able to resist cognitive surrender 9. As with juniors however, they also recognised that their ability to review and write the code themselves was degrading with LLM use.\n\n“Because AI aggregates and distills information, often missing important details and nuance, there is no opportunity to learn through exposure and mistakes.”\n\nEmployers are using LLMs as a substitute for training their employees, obscuring gaps in subject-matter expertise and skills. Where LLM research assistants are being mandated, these replace the learning process, leading to unrealistic expectations that someone can become an expert in short order.\n\nThe long-term trajectory is a loss of expertise and skills across the sector. Additionally, proliferation of LLM output in open source libraries means that documentation volume is increasing while quality is degrading, a further obstacle to effective learning for all career levels.\n\n“AI is baked into our KPIs now. Remuneration and bonuses are contingent on AI use.”\n\n– Junior Software Engineer\n\nMonitoring of genAI tool usage by management is widespread, at times to the point of being described as surveillance, and takes diverse forms. Workers report being penalised for not using them enough and for using them too much, sometimes in the same company. Tokens have replaced output quality as a performance metric, linking career progression to tool use at the expense of actual competency. In some cases, work done using genAI is also monitored and evaluated by LLM-based evaluators whose inability to accurately understand human answers leads to unfair performance outcomes.\n\n“We were told to use as many tokens as possible, then my colleague was slapped on the wrist for using too many.”\n\n– Senior Data Engineer\n\nIn most cases, participants reported opaque data collection processes, with a lack of clarity over what usage data is being collected and how it is being analysed. This deepens the asymmetry between staff and managers in performance review and subsequent disciplinary processes, with workers shooting blindly at a bullseye they cannot see.\n\n“Even when it is good, it is not clear that it isn’t still bad overall.”\n\n– Software Developer\n\nParticipants repeatedly challenged the idea that what is good for business is good for society, and asserted that the environmental, psychological and political impacts of adoption must be included in company decisionmaking. Even where a particular tool’s adoption is rational and evidence-based, workers say that externalities are ignored.\n\nMany participants also reported feeling guilt over being mandated to use genAI at work when it contradicts their personal beliefs due to the harms caused by its development and maintenance.10 This cognitive dissonance causes stress that extends beyond the working day for many.\n\n“I want the AI I build to benefit humanity, not to facilitate a genocide.”\n\n– Research Scientist\n\nParticipants from frontier labs, who develop cutting edge models, report a deep anxiety over how their work is used in military settings. Despite multiple internal escalations, external whistleblowing and public protests, research scientists and engineers describe a senior leadership that persistently denies or wilfully ignores the existence and scale of this problem 11.\n\nWorkers raised concerns that the environmental impact of data centre compute (as opposed to human intelligence) is never considered. Workers questioned the underlying logic of burning more fossil fuels so that they can do more work faster and to a poorer standard.\n\n“Nobody was consulted. The new CEO at an all-hands announced 40% layoffs at the same time as announcing going full AI.”\n\nConsultation was absent in most adoptions (with some notable exceptions), both where usage is trivial and wher",
+        "fullTranslation": "UTAW科技工作者调查（UTAW Tech Workers’ Inquiry）概述了生成式人工智能（AI）如何正在重塑整个科技行业的工作形态。该报告由构建、部署、管理、评估及使用该技术的从业人员，结合其自身视角与亲身经历共同撰写。\n本报告亦可下载PDF版本：\n如需联系，请发送邮件至：contact@utaw.tech\n“人工智能”常被广泛用于指代一系列截然不同且在很多情况下相互矛盾的技术组合。尽管该术语缺乏统一共识，但其影响已初现端倪。受访员工将其描述为一股重塑工作的负面力量：推高了产出期望、改变了技能需求、扩大了监控范围、削弱了专业能力、转移了问责主体，并在同事之间制造了隔阂。人工智能应用极少能消除工作负荷；相反，它们在重新分配工作并加剧工作强度。\n工人们强调，正向的应用取决于他们是否具备自主决定如何使用人工智能的能力。核心问题并不单纯在于人工智能是否好用，而在于雇主如何引入、控制、衡量和使用它。简而言之，只有当人们能够自主选择是否以及如何使用它们时，它才具有实用价值。\n调查中指出的问题并非源于现有模型的技术局限。劣质产出、幻觉和低质量代码固然会产生影响，但这仅仅是冰山一角。这是因为雇主正在利用人工智能来加剧工作强度、合理化裁员理由、削减初级岗位招聘、加强监控、降低工人技能水平、将风险转嫁给雇员并削弱其自主权。即使模型不断优化，只要工人们未能在工作场所及整个社会中获得关于人工智能使用方式的法定可执行权利，工作场所中潜在的本质问题就依然存在。\n科技从业者对人工智能在环境、军事和国家监控场景中造成的有害影响，以及对心理健康造成的损害表示出深深的担忧。这正是本调查建议的核心——重点不在于功能本身，而在于谁在控制它、谁从中获益。\n必须切实赋予员工捍卫并拓展其权利的能力。这包括对工作场所中人工智能的引入、使用、监控和评估方式拥有具备强制执行力的权力。\n必须赋予工人在工作中是否或如何使用人工智能工具的最终决定权。选择不使用人工智能的员工绝不能因此受到惩罚。\n唯有能够带来实质问责和有效行动，磋商与透明度才具有意义。没有问责后果的信息披露纯属粉饰太平。\n正在形成的政策导向如下：\n这些提案是对2026年英国工会联合会（TUC）大会上通过的题为《工作场所中的人工智能》综合动议的深化。该动议由通信工人工会（CWU）提出，Aegis附议，并获得了UNISON、全国教育工会（NEU）及商业、零售与相关工人工会（USDAW）的支持。\n我们需要一个具备实质约束力的监管框架，从以下几个维度对雇主和科技公司的人工智能使用行为进行问责：\n在部署人工智能时必须优先考虑技能培训与职业发展，以消除人工智能导致的去技能化与降技能化现象：\n工人必须保留拒绝使用人工智能的权利，且拒绝时必须免受任何报复：\n必须对人工智能的负外部性进行彻底评估与公开披露：\n必须更新《健康与安全法》，将人工智能给工作场所带来的新型心理健康危害纳入考量：\n必须保护工人免受基于其使用（或未使用）生成式人工智能工具完成工作的情况而发起的违纪处分与绩效考核程序的惩罚：\n必须强化裁员保护机制，雇主不得将采用人工智能作为向离岸及外包转移岗位的便利遮羞布：\n必须强制要求雇主让工人实质性参与实施决策：\n本报告从构建、部署、评估、管理和使用这些系统的科技从业者的视角对人工智能展开调研。这是一场由科技行业广大一线员工基于直接经验发起并撰写的工人主导型行动，旨在介入关于人工智能的公众辩论。\n遗憾的是，“人工智能”这一术语并非指代单一技术。它是一个总括性术语，将共同进行商业营销的多种不同技术涵盖在内。正如我们的报告将指出的那样，其中一些技术具有良性的应用场景，而另一些则没有。某些在关于人工智能的公众辩论中占据核心位置的技术甚至根本不存在，并且可能永远不会存在。\n我们的调查基于一个基本前提：科技工作者不仅受到人工智能的影响，更深谙这些系统在实践中是如何构建、引入、监控与使用的。对于任何关于人工智能、劳动与监管的严肃讨论而言，他们的经验都是不可或缺的。\n究竟是谁在塑造我们自以为对人工智能的认知？几乎无一例外，是缺乏技术背景的媒体权威人士，以及拥有人工智能公司的科技企业家。这些企业家有时最初是软件工程师和科学家；但他们始终是极度富有的商业巨贾，坐享人工智能扩散所带来的利益。\n据我们所知，本报告是首个对来自科技行业广泛劳动群体的人工智能经验进行的系统性整合。我们的调查涵盖了英国科技行业的全产业链，包括客户支持人员、科研人员、软件开发人员、网络安全分析师、科技教育工作者等众多岗位。\n我们的工人调查充分依托全产业链员工的技术专长。调研方法务实求真，立足于具体的日常经验，融汇多元工作者的见解，并对底层驱动机制进行深入审视。\n作为一个阶层，负责开发和部署人工智能的劳工群体无疑在此议题上拥有最终的权威。作为一个由已成立工会及正在组建工会的工人组成的群体，本报告中的声音从进步、公平和捍卫弱势群体的立场出发。代表资本对生成式人工智能技术贪婪愿景的科技高管层向来意图清晰：快速行动，破除陈规。然而，被硅谷巨头们所粉碎的“事物”名单源远流长，从莫莉·拉塞尔（Molly Russell）这样的青少年，到刚果东部饱受战争蹂躏的人民皆在此列。作为这套新技术背后的脑力与体力劳动者，科技工作者深感忧虑：人工智能目前的发展并未与人类福祉及地球环境相契合。\n人工智能曾被称为一个“手提箱词汇（suitcase word）”，其包罗万象，几乎可以往里装下任何概念。这种含混不清的语言毫无助益，因为在实践中，人工智能涵盖了一系列截然不同的技术，具备不同的风险、环境影响和益处。具体而言，当人们谈及人工智能对心理健康、网络安全或工作自动化构成的威胁时，通常指的是大语言模型（LLM）和智能体（基于大语言模型的系统）。这些系统能耗最高。\n而当人们谈论人工智能的突破与有益应用时，例如荣获诺贝尔奖的AlphaFold或天气预报模型，所指的完全是另一种技术。这类技术针对特定任务（即狭窄、定义清晰的任务），采用规模较小的模型，其能耗需求微乎其微。\n\n用同一个词来指代这两种技术，会使有关它们各自风险与效益的讨论变得模糊不清。生成式人工智能（genAI）这一术语是一个更为准确的统称，涵盖了大语言模型（LLM）、视觉-语言模型（VLM）以及任何其他基于训练数据合成输出的机器学习技术（包括音频和视频）。4 在本报告中，我们在提及AI时力求做到尽可能精准。\n\n大多数关于AI的辩论都集中在通用人工智能（AGI）上，而这是一种定义模糊、目前并不存在的理论技术。5 这一辩论涵盖了许多问题（例如如何定义AGI、AI末日论者与AI加速主义者的争论、究竟是否应当追求AGI），我们在此不会探讨这些问题，因为它们在很大程度上分散了人们对生成式AI现实应用的注意力。由于缺乏对AGI的明确定义，对其风险的讨论被推迟到了遥遥无期的未来，从而忽视了生成式AI及其日益深入融入社会底层系统所带来的眼前与近期风险。\n\n也许与此有一定关联的是AI乐观派与悲观派之间的辩论。前者认为生成式AI（以及由此延伸出的虚无缥缈的AGI）能够解决世界上最重大的问题，而后者则持相反意见。尽管科技工作者在此问题上并未形成统一观点，但他们对生成式AI最前沿应用的反应普遍持悲观态度。\n\n在实践中，生成式AI本质上是一项自动化技术，正如过去所有的自动化技术一样，效率提升的主要受益者通常是超级富豪企业主。一方面，工作被生成式AI重塑的员工报告称其福祉受到了各种损害。6 另一方面，过去30年的科技繁荣和过去10年的AI泡沫使极少数亿万富翁腰缠万贯，并极大地助推了他们（明显带有极右翼倾向的）政治影响力。与此同时，大多数劳动群众已经连续数年面临年均收入下降的窘境，且数十年来不平等现象急剧恶化。\n\n因此，平心而论，生成式AI目前给亿万富翁带来的切实利益，远超过它许诺在未来某个不确定的时刻给其他人带来的利益（或彻底抹除，具体取决于他们追求的是哪种类型的投资）。这一现实在“谁在炒作AI”与“谁在其落地部署中受害”的对比中得到了生动体现。工人和小微企业主正面临着共同的敌人：前沿模型的大科技公司所有者，他们一边将生成式AI强加给劳动力，一边以日益高昂的离谱价格出租他们的模型。\n\n此外，支持者和批评者在谈论生成式AI时，都将其视作一项注定长期存在的技术。这种“不可避免性”的话语框架为高管层及其股东带来了利益，因为它将政治能动性从人民转移给了“市场”——亦即技术的超级富豪所有者。工人们为何要不加批判地接受这种叙事？\n\n生成式AI是一种具有社会、经济和技术机制影响的力量，这种影响是可以被理解、应对、监管并在必要时予以禁止的。任何特定的生成式AI部署，乃至其作为一项广泛存在的技术本身的合理性，都不应被视为理所当然。\n\nAI乐观主义者大肆吹嘘其带来的生产力提升。我们更愿意直呼其真实本质：劳动强化。一些评论员将其描述为杰文斯悖论（Jevons paradox）。7 效率提升越高，受刺激创造的就业岗位就越多。套用本杰明·富兰克林的名言，这种半真半假的表述（所谓的效率提升）本身就是一个巨大的谎言。\n\n企业正在缩减人员编制并避免招聘，剩余的工作在更加紧迫的截止日期下被分摊给更少的员工。初看起来，企业正在裁员（包括大规模裁员和定期的常规人员精简），并声称这是因为“AI正在取代对工人的需求”。内部员工透露，裁员往往更多是为了在通胀上升的背景下维持营收、通过操纵财务指标拉高公司估值，甚至是用于支付生成式AI平台的订阅费用。\n\n杰文斯悖论真正适用的工作领域是文本合成。如果一个工人的唯一职责是在不顾质量的前提下拼命码字撰写文案，那么他们的工作确实可以被自动化。这些所谓的AI效率不过是一种托词，旨在掩盖这样一个现实：熟练员工被运转不良的新工具所取代，而未被裁撤的幸存工人则不得不承担起日益加重的烂摊子。\n\n综合来看，采用生成式AI意味着在更乏味的任务上付出更加艰辛的劳动，这讽刺地走向了AI鼓吹者“AI将承担枯燥工作，把有趣的留给人类”这一承诺的反面。\n\n归根结底，监管生成式AI的最合适人选是构建和使用它的工人们，因为他们是直接承受其后果或享受其益处的一线人员。作为普通的劳动群众，科技工作者也无法独善其身、免受该技术对社会其他部分造成的冲击——这与坐拥该技术的亿万富翁截然不同。我们拒绝接受已被证伪的“支持工人的AI”前提8，并在本报告中提出了以工人为中心的主张。\n\n本报告的逻辑结论并非什么新鲜事物，早在150多年前温德尔·菲利普斯（Wendell Phillips）就曾做过雄辩的阐述：劳动有权享有其所创造的一切。如果我们继续放任科技寡头将权力和利润据为己有，我们将继续见证生成式AI在剥削和统治大多数人方面所能犯下的最大恶行。反过来说，如果我们把AI技术的掌控权交还给创造和部署它的工人手中，社会便能在规避其危害的同时坐享其红利。工人们应当被赋权在工作中掌控AI。我们拒绝接受“支持工人的AI”这一前提，并在本报告中——\n\n“一旦停止使用AI写代码，我就又开始享受自己的工作了。”\n\n工人们描述称，自己正被迫脱离具有智力启发性的任务，转而从事编写提示词、审核以及修改低质量产出等工作。\n\n从事编程的员工正在经历其工作性质的根本转变：从解决问题变成了监督大语言模型。许多工人表示，他们在写代码时不再能体会到“心流”，而是沦为监督模型和评估产出的看门人。往往由于必须进行大量的审核和修正以防通过劣质代码，时间不减反增。\n\n“你越依赖编程助手，你自己动手的水平就越退化。”\n\n技能退化（Downskilling）已成为普遍担忧的问题。工人们报告称，长期使用生成式AI后，他们不得不去查阅一些以前信手拈来的操作方法。这一现象在编程工作中尤为明显，但远不仅限于编程领域。\n\n初级员工以及缺乏扎实基本功的人员正变得过度依赖智能体（agents）和辅助助手等工具。初级员工既没有动力也没有时间去学习必要的技术和批判性思维技能；工作强度的加剧意味着他们越来越缺乏可以交流探讨问题的倾听对象。由于缺乏专业知识，他们很难对大语言模型（LLM）的输出质量做出准确判断。\n\n尽管一些资深员工也反映在被迫使用大语言模型时出现了技能退化，但也有人表示，他们更有底气将大语言模型作为支持编码的工具，而不是替代自己的思考。由于他们的专业技能建立在AI大范围普及之前，他们更能抵抗“认知屈服”（cognitive surrender）9。然而，与初级员工一样，他们也意识到，随着大语言模型的使用，自己审查和亲自编写代码的能力正在下降。\n\n“因为AI会汇总并提炼信息，往往会遗漏重要的细节和细微差别，让人没有机会通过直接接触和犯错来学习。”\n\n雇主正在用大语言模型替代员工培训，从而掩盖了专业领域知识和技能上的断层。在强制使用大语言模型研究助手的地方，这些工具取代了学习过程，导致了一种不切实际的期望，即认为某人可以在短时间内成为专家。\n\n长期的发展走向是整个行业专业知识与技能的流失。此外，开源库中大语言模型生成内容的泛滥，意味着文档数量虽在增加但质量却在下降，这进一步阻碍了各级别职业人员的有效学习。\n\n“AI现在已经写入了我们的KPI。薪酬和奖金都与AI的使用挂钩。”\n——初级软件工程师\n\n管理层对生成式AI工具使用情况的监控非常普遍，有时甚至被描述为监视，且形式多种多样。员工反映，他们会因为使用不足而受到惩罚，也会因为使用过多而受罚，有时这甚至发生在同一家公司。Token消耗量已经取代输出质量成为一项绩效指标，将职业晋升与工具使用挂钩，代价则是实际工作能力受损。在某些情况下，利用生成式AI完成的工作还会受到基于大语言模型的评估工具的监控和评估，而后者的无法准确理解人类答案往往导致不公正的绩效评价结果。\n\n“我们被要求尽量多用token，接着我的一位同事又因为用得太多而遭到了警告惩罚。”\n——资深数据工程师\n\n在大多数情况下，参与者反映数据收集过程很不透明，对于正在收集哪些使用数据以及这些数据如何被分析缺乏清晰说明。这加深了绩效评估及后续惩戒程序中员工与管理者之间的不对称，员工们宛如盲目地射向一个看不见的靶心。\n\n“即使在某些方面表现良好，也很难说整体上它就不是坏的。”\n——软件开发者\n\n参与者多次对“有利于企业就有利于社会”这一观念提出质疑，并坚持认为采用AI对环境、心理和政治层面的影响必须纳入公司决策考量。即使引入某项特定工具是合理且有事实依据的，员工们也表示外部效应被完全忽视了。\n\n许多参与者还表示，当被迫在工作中使用生成式AI时感到内疚，因为由于其开发和维护过程中造成的危害，这与其个人信念相违背。10 这种认知失调带来的压力对许多人来说已经延伸到了工作时间之外。\n\n“我希望我所构建的AI能够造福人类，而不是助长种族灭绝。”\n——研究科学家\n\n来自开发前沿模型的前沿实验室的参与者表示，他们对自己的工作被用于军事领域感到极度焦虑。尽管经历了多次内部向上反映、外部揭发和公开抗议，研究科学家和工程师们描述称，高管层始终否认或刻意忽视这一问题的存在及其规模 11。\n\n员工们提出担忧，数据中心计算（相对于人类智能而言）对环境的影响从未被考虑过。员工们对消耗更多化石燃料以便能以更低标准更快完成更多工作的底层逻辑提出了质疑。\n\n“没有人被征求过意见。新任CEO在全员大会上宣布全面转向AI的同时，宣布裁员40%。”\n\n在大多数AI技术的引入过程中都缺乏协商与沟通（除了少数值得注意的例外），无论是在使用程度微不足道还是在",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 68,
+        "translationParagraphs": 36,
+        "keyTakeaways": [
+          "UTAW发布了《科技劳动者调查》（Tech Workers’ Inquiry），探讨生成式AI对科技行业工作的影响，基于构建、部署、管理、评估和使用该技术的劳动者经验撰写。",
+          "TUC Congress 2026通过了题为《工作场所中的人工智能》（Artificial Intelligence at work）的综合提案，该提案由CWU提出，Aegis附议，并获得UNISON、全国教育联盟（National Education Union）和USDAW的支持。",
+          "来源叙事重点：从科技从业者基层视角批判生成式AI在工作场所的滥用，指出AI核心问题非技术缺陷而是资方的劳动控制；揭露AI导致工作强度加剧、技能贬值、监控升级及用作裁员/离岸外包借口，主张通过劳工立法赋予员工对AI工具的知情权、拒绝权和决策主导权。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T17:41:35.000Z",
+            "url": "https://techworkersinquiry.org/ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-neycomb-fibers-tiny-html-d85eeff184a90bf5",
+        "title": "短肽组装成蜂窝状纤维，在微小平行通道中锁住水分",
+        "originalTitle": "Short peptides assemble into honeycomb fibers that hold water in tiny parallel channels",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:20:17.000Z",
+        "pubTime": "2026-09-25 02:20",
+        "url": "https://phys.org/news/2026-09-short-peptides-honeycomb-fibers-tiny.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/short-peptide-sequence.jpg",
+        "fullContent": "by Max Planck Society\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nHoneycomb-shaped structures are familiar from beehives. Researchers have now designed molecules that self-assemble into a similar pattern on a scale far too small to see with the naked eye. These molecules are peptides: short chains of amino acids, the building blocks of proteins. Each peptide consists of only nine amino acids. Many identical copies assemble into tiny fibers with a honeycomb-like interior filled with water.\n\nThe Max Planck Institute for Polymer Research, the University of Ulm and Ulm University Hospital are involved in the work. The study, with co-first authors Jasmina Gačanin and Francesca Mazzotta, has been published in Nature.\n\n\"The molecules come with their own assembly instructions,\" says Tanja Weil, director at the Max Planck Institute for Polymer Research, who led the study with her colleague Katharina Landfester. \"The crucial step is to understand how such a short peptide sequence gives rise to a much larger, ordered structure.\"\n\nThe researchers designed a short peptide sequence of nine amino acids and studied it in several variants. They found that this amino acid sequence dictates how the peptides arrange themselves. Two peptides pair up, and three meet at each junction. This creates hexagonal rings that join side by side into a honeycomb and stack along the fiber. The resulting fibers have many parallel, continuous channels about five nanometers across.\n\nBy systematically substituting individual segments in the amino acid sequence, the researchers determined which segments are necessary for a honeycomb structure to form.\n\nTo do this, they used a special type of electron microscopy known as cryo-electron microscopy. In this technique, the sample is flash-frozen in a thin layer of ice and imaged in its natural, hydrated state. This allows scientists to determine exactly how neighboring peptides interlock. \"We see not only the resulting honeycomb-shaped pattern, but also the molecular contacts behind it,\" says Landfester.\n\nThe channels are not empty tubes. They are continuously filled with water, which behaves differently from ordinary water. Computer simulations suggest that the water inside is more tightly packed and less mobile than the water outside, and that its hydrogen bonds persist longer.\n\nExperiments support this picture. The researchers dried the fibers under controlled conditions and used infrared spectroscopy to follow how the water escapes. Loosely bound water disappears first, while the more strongly bound water in the channels is retained considerably longer. In a control peptide that forms fibers but no channels, by contrast, the water is lost uniformly. The honeycomb structure itself remains intact during drying.\n\nA single building block makes a difference. Exchanging the amino acid that lines the channel wall changes how tightly the water inside is bound: Depending on the building block, the water is bound either more strongly than ordinary water or to a similar degree. Crucially, the modified peptides continue to form the honeycomb pattern. This makes it possible to tailor the environment inside the channels without changing their hexagonal geometry.\n\nThe results provide a starting point for studying water in very small spaces and exploring potential applications in separating substances or in chemical reactions. Such applications have not yet been demonstrated. For now, the progress lies in a set of proven rules for constructing complex materials from very short molecular chains.\n\nJasmina Gačanin et al, Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils, Nature (2026). DOI: 10.1038/s41586-026-11016-2\n\nJournal information: Nature\n\nProvided by Max Planck Society\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "作者：马克斯·普朗克学会\n编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性：\n经同行评审的出版物\n\n人们对来自蜂巢的蜂窝状结构并不陌生。如今，研究人员设计出了一些分子，能够以肉眼完全无法察觉的微观尺度自组装成类似的图案。这些分子是肽：即构成蛋白质基石的短氨基酸链。每种肽仅由九个氨基酸组成。许多相同的肽分子组装成微小的纤维，其内部呈蜂窝状且充满水分。\n\n马克斯·普朗克高分子研究所、乌尔姆大学以及乌尔姆大学医院参与了这项工作。该研究以亚斯米娜·加查宁（Jasmina Gačanin）和弗朗西斯卡·马佐塔（Francesca Mazzotta）为共同第一作者，已发表在《自然》（Nature）期刊上。\n\n“这些分子自带‘组装说明书’，”马克斯·普朗克高分子研究所所长塔尼娅·韦尔（Tanja Weil）表示，她与同事卡塔琳娜·兰德费斯特（Katharina Landfester）共同领导了这项研究，“关键步骤在于理解如此短的肽序列是如何产生更大、更有序的结构的。”\n\n研究人员设计了一条由九个氨基酸组成的短肽序列，并对其多个变体进行了研究。他们发现，该氨基酸序列决定了肽自身的排列方式。两个肽分子配对，三个肽分子在每个连接点相遇。这就形成了六边形环状结构，它们并排拼接成蜂窝状，并沿着纤维方向堆叠。由此产生的纤维内部拥有许多平行的连续通道，孔径约为五纳米。\n\n通过系统性地替换氨基酸序列中的个别片段，研究人员确定了形成蜂窝状结构所必需的片段。\n\n为了实现这一目标，他们使用了一种被称为冷冻电子显微镜的特殊电子显微技术。该技术将样品速冻在一层薄冰中，并在其自然的含水状态下进行成像。这使科学家能够精确确定相邻肽之间是如何相互锁定的。“我们不仅看到了最终形成的蜂窝状图案，还看到了其背后的分子接触机制，”兰德费斯特说。\n\n这些通道并不是空心管道。它们被水持续填充，而这些水的物理行为与普通水截然不同。计算机模拟表明，通道内部的水分子比外部的水堆积得更紧密、流动性更弱，且其氢键维持的时间更长。\n\n实验印证了这一结论。研究人员在受控条件下干燥纤维，并利用红外光谱跟踪水分逸出的过程。结合松散的水最先消失，而在通道中结合得更紧密的水保留的时间则明显更长。相比之下，在能够形成纤维却无法形成通道的对照组肽中，水分流失得十分均匀。蜂窝状结构本身在干燥过程中保持完好。\n\n单个基石单元就能带来显著差异。更换构成通道壁的氨基酸，会改变其内部水分结合的紧密程度：取决于不同的构建基块，水分要么比普通水结合得更紧密，要么结合程度相近。至关重要的是，改性后的肽仍能继续形成蜂窝状图案。这使得在不改变其六边形几何构型的前提下，对通道内部的环境进行量身定制成为可能。\n\n这些研究结果为在极微小空间中研究水的行为，以及探索其在物质分离或化学反应中的潜在应用提供了一个起点。此类应用目前尚未得到实际验证。就目前而言，这一进展在于确立了一套经过验证的规则，用于利用极短的分子链来构建复杂材料。\n\nJasmina Gačanin 等，《多通道肽纳米原纤维中的序列编码六方点阵》（Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils），《自然》（2026）。DOI: 10.1038/s41586-026-11016-2\n期刊信息：《自然》（Nature）\n由马克斯·普朗克学会提供\n英语硕士，自2021年起担任文字编辑，在高等教育和健康内容领域经验丰富。致力于提供值得信赖的科学新闻。完整资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学与语言拥有独特见解。完整资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "研究人员设计了仅由9个氨基酸组成的短肽分子，可自组装成肉眼不可见的微小蜂窝状纤维结构，其内部通道充满水。",
+          "该研究由马克斯·普朗克高分子研究所、乌尔姆大学和乌尔姆大学医院参与完成，共同第一作者为 Jasmina Gačanin 和 Francesca Mazzotta，研究发表在《Nature》上。",
+          "来源叙事重点：报道聚焦于纳米超分子材料的基础科学突破，强调研究团队如何通过设计仅含9个氨基酸的短肽序列，利用分子自组装规则构筑出内部包含5纳米连续储水通道的蜂窝状纳米纤维，并展示了通过改变内壁氨基酸调控通道内水分子特性的机制与潜在应用前景。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:20:17.000Z",
+            "url": "https://phys.org/news/2026-09-short-peptides-honeycomb-fibers-tiny.html"
+          }
+        ]
+      },
+      {
+        "id": "story-economy-2192439-02e77a1e4632f6dc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russian Finance Ministry sets Hormuz opening scenario for $50/bbl oil price in budget",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:26:37.000Z",
+        "pubTime": "2026-09-25 02:26",
+        "url": "https://tass.com/economy/2192439",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 24. /TASS/. Setting the base oil price in the budget at $50 per barrel means that the Russian Ministry of Finance is already factoring an open Strait of Hormuz scenario into its forecast, Igor Yushkov, an expert from the Financial University and the National Energy Security Fund, told TASS.\n\n\"The Ministry of Finance has taken a very conservative approach to assessing future oil and gas revenues, making it a bet on stability,\" the expert noted. \"Essentially, the Ministry of Finance is now factoring in a Strait of Hormuz opening scenario to ensure it does not depend on this factor,\" he said.\n\nThe global oil market was highly volatile in 2026, Yushkov said. In January, the price of Russian Urals crude stood at $41 per barrel, but in March, following the closure of the Strait of Hormuz, it jumped to $77, after which prices fluctuated sharply amid Middle East instability.\n\nThe ministry in this connection is deliberately budgeting a rather low oil price to mitigate the risks of unexpected deficits and the need to revise the budget throughout the year, the expert added.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯财政部在预算中将基准石油价格设定为每桶50美元。",
+          "2026年1月，俄罗斯乌拉尔原油价格为每桶41美元。",
+          "来源叙事重点：强调俄罗斯财政部采取极为保守稳健的预算编制策略，主动以50美元/桶的偏低基准油价防范未来地缘政治与国际油价波动风险，并将这一设定解读为已提前计入霍尔木兹海峡重新开放的下行情景。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:26:37.000Z",
+            "url": "https://tass.com/economy/2192439"
+          }
+        ]
+      },
+      {
+        "id": "story-k-oled-monitor-deal-sale-9b5e89853cf3aec4",
+        "title": "令人无奈的是，这台售价 1549 美元的 RTX 5070 游戏整机确实很划算",
+        "originalTitle": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:19:23.000Z",
+        "pubTime": "2026-09-25 02:19",
+        "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/CyberPowerPC-Gaming-PC-Intel-Core-i7-14700KF-NVIDIA-GeForce-RTX-5070-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "CyberPowerPC’s RTX 5070-equipped prebuilt.\n\nWhile PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel Core i7-14700KF processor, and paired with 32GB of 6000MHz DDR5 memory and an Nvidia RTX 5070 Founders Edition with 12GB of VRAM. The case is a CyberPowerPC MA-O1 , an in-house design with extensive cooling options and three dedicated knobs for adjusting internal RGB lighting colors.\n\nCyberPowerPC (Core i7/RTX5070)\n\n$2139.99 $1549 at Walmart\n\nWhile it might not feel like it at first blush, this is a solid value for a gaming PC that’s ready to rock out of the box. The RTX 5070 in this machine is likely to run you upwards of $800 by itself at the moment ( it launched in 2025 for $549 ), and 32GB of fast memory can be $400 or more. For just a small premium, you get those components packed into a nice case with a panoramic glass panel and a 1TB PCIe 4.0 SSD inside. The whole kit is tested, with a one year warranty for parts and labor. It also includes a keyboard and mouse, so you can start gaming right away once it arrives.\n\nOther deals to consider\n\nIf you need a gaming monitor with spectacular colors and clarity to go with your new gaming PC, Newegg has the ASRock PGO27QSA-W discounted to $299.33, a significant discount from its original price of $476. This 27-inch screen supports 1440p resolution, a 240Hz refresh rate with FreeSync Premium for variable refresh rate, and an OLED panel for deep black levels.\n\nA two pack of Anker Zolo MagSafe wireless chargers is discounted to $25.99 at Amazon , where it would normally cost $39.99. Each charger is Qi2 certified, with support for up to 15W of charging power, and includes a five-foot cable for convenient positioning on your desk or nightstand. You’ll have to use your own wall charger, though.\n\nThe Nintendo Customer Appreciation sale is live until September 26th at 8:59 PM PT, and is a great time to pick up an extra set of controllers, among other game and accessory deals . The Switch Pro Controller is only $56 (usually around $70) at both Amazon and Best Buy , and a duo of Joy-Con are only $62.99 at Best Buy , although only the pastel purple and green combo are currently in stock. The controllers are compatible with both the original Switch and Switch 2, although owners of the newer console will need a separate charger , and they won’t wake the system from sleep.",
+        "fullTranslation": "CyberPowerPC 搭载 RTX 5070 的品牌整机。\n\n在 PC 硬件配件价格居高不下的当下，购买品牌整机可以为你节省不少开销。沃尔玛目前正在对一款配置出色的 CyberPowerPC 游戏主机进行促销，售价为 1,549 美元，比原价 2,139 美元便宜了近 600 美元。该主机搭载英特尔酷睿 i7-14700KF 处理器，配备 32GB 6000MHz DDR5 内存以及拥有 12GB 显存的英伟达 RTX 5070 Founders Edition 显卡。机箱采用 CyberPowerPC 自主设计的 MA-O1，具备丰富的散热方案，并配有三个用于调节内部 RGB 灯效颜色的专用旋钮。\n\nCyberPowerPC（酷睿 i7 / RTX 5070）\n沃尔玛售价：原价 2139.99 美元，现价 1549 美元\n\n尽管初看可能不觉得，但对于一台到手即用的游戏电脑而言，这确实物有所值。目前单买这款机器里的 RTX 5070 显卡可能就要花费超过 800 美元（该卡于 2025 年发售时定价为 549 美元），而 32GB 的高频内存售价可能也在 400 美元或更高。只需支付一点点额外溢价，你就能拥有装在配备全景玻璃侧透面板的精致机箱中的整套配件，并内置 1TB PCIe 4.0 SSD。整机经过出厂测试，享有涵盖零部件与人工的一年质保。此外还附赠键鼠套件，到货后即可直接开玩。\n\n其他值得关注的特惠\n\n如果你需要一台色彩出众且清晰度极佳的游戏显示器来搭配新电脑，新蛋网（Newegg）的华擎（ASRock）PGO27QSA-W 现已降至 299.33 美元，较其 476 美元的原价有大幅优惠。这款 27 英寸显示器支持 1440p 分辨率、具备 FreeSync Premium 可变刷新率技术的 240Hz 刷新率，并采用能够呈现深邃黑色表现的 OLED 面板。\n\n亚马逊上一套两件装的安克（Anker）Zolo MagSafe 磁吸无线充电器降价至 25.99 美元，原价通常为 39.99 美元。每个充电器均通过 Qi2 认证，最高支持 15W 充电功率，并附带一条 5 英尺长的线缆，方便放置在书桌或床头柜上。不过，你需要自备充电插头。\n\n任天堂客户答谢优惠活动将持续至太平洋时间 9 月 26 日晚上 8 点 59 分，除了游戏和配件特惠外，这也是增购手柄的绝佳时机。Switch Pro 手柄在亚马逊和百思买（Best Buy）的售价均降至 56 美元（平时约 70 美元），百思买上一对 Joy-Con 手柄售价仅为 62.99 美元，不过目前仅淡紫色加绿色组合有现货。这些手柄均兼容初代 Switch 和 Switch 2，但新主机的用户需要单独配备充电器，且这些手柄无法唤醒处于睡眠模式的系统。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "沃尔玛对配备 RTX 5070 的 CyberPowerPC 游戏主机促销，售价为 1,549 美元，较原价 2,139 美元（或标示的 2,139.99 美元）降价近 600 美元。",
+          "该 CyberPowerPC 游戏主机搭载英特尔酷睿 i7-14700KF 处理器、32GB 6000MHz DDR5 内存、配有 12GB 显存的英伟达 RTX 5070 Founders Edition 显卡、1TB PCIe 4.0 SSD，并采用配备全景玻璃面板与三个内部 RGB 调节旋钮的 CyberPowerPC MA-O1 机箱，附带键盘、鼠标以及一年零件与人工保修。",
+          "来源叙事重点：在当前独立硬件零售价格持续高企的背景下，对比自行组装的高昂溢价，论证整机预装电脑（如配备 RTX 5070 的 CyberPowerPC 主机）具有高性价比，并汇总其他数码产品特惠交易。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:19:23.000Z",
+            "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale"
+          }
+        ]
+      },
+      {
+        "id": "story--what-can-we-do-a9464325-6194f9b1c01f1560",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:17:00.000Z",
+        "pubTime": "2026-09-25 02:17",
+        "url": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“We are relying on our church for our current needs.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 02:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-24T18:17:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ars-for-autism-diagnosis-a865f7788037e062",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘Her mental health deteriorated’: family forced to wait years for autism diagnosis",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T17:39:17.000Z",
+        "pubTime": "2026-09-25 01:39",
+        "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis",
+        "imageUrl": "https://i.guim.co.uk/img/media/fd5bd10a43cee025a44ab3f576aed72b500058a0/213_0_3781_3024/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=8bd72041ca1f99999b83a7657d31bce9",
+        "fullContent": "A mother describes the frustration of endless waiting lists and difficulties getting appointments so her teenage daughter can get the help she requires\n\nFor Rosalyn, the battle for an official autism diagnosis for her 14-year-old daughter, Imogen, has been intense, deeply frustrating and has lasted five and a half years.\n\nThat Rosalyn has three other children who have autism diagnoses meant she was acutely aware of the signs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "母亲罗莎琳（Rosalyn）为其14岁的女儿伊莫金（Imogen）寻求官方自闭症诊断的过程持续了五年半。",
+          "罗莎琳另外还有三个孩子被诊断患有自闭症。",
+          "来源叙事重点：聚焦患儿家庭在公立医疗系统中面临的漫长等待名单和预约困境，通过母亲历时五年半为女儿争取自闭症诊断的个案，强调医疗诊断延误给青少年心理健康及家庭带来的重压与挫败感"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T17:39:17.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis"
+          }
+        ]
+      },
+      {
+        "id": "story--ice-annual-minimum-html-ea71bd4889b48978",
+        "title": "北极海冰达到2026年度最小覆盖范围",
+        "originalTitle": "Arctic Sea ice reaches 2026 annual minimum extent",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:20:14.000Z",
+        "pubTime": "2026-09-25 02:20",
+        "url": "https://phys.org/news/2026-09-arctic-sea-ice-annual-minimum.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/arctic-sea.jpg",
+        "fullContent": "by James Riordon, NASA\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nArctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010 and 2025 for the 10th-lowest minimum in the satellite record.\n\nThe 2026 minimum is consistent with patterns observed in the satellite record. The past 20 years, from 2007 through 2026, have produced the 20 lowest annual Arctic sea ice minimum extents observed since continuous satellite measurements began in late 1978.\n\nArctic sea ice grows during the dark, cold autumn and winter and retreats as temperatures rise during spring and summer, typically reaching its lowest extent in September. Weather conditions can cause substantial differences in the amount of ice that melts from one summer to another.\n\nOver the last decade, for example, increased cloud cover has prevented solar radiation from further accelerating the melt of sea ice, according to Linette Boisvert, a sea ice scientist at NASA's Goddard Space Flight Center in Greenbelt, Maryland.\n\nThat has contributed to relatively stable September sea ice extent in recent years. \"We've plateaued, but we're still low relative to the earlier part of the record,\" said Walt Meier, a senior research scientist at NSIDC.\n\nAt the opposite end of the planet, Antarctic sea ice is approaching its annual maximum following a fluctuation during August.\n\nSea ice around Antarctica declined by roughly 116,000 square miles (300,000 square kilometers) over a six-day period before resuming its seasonal growth. Meier said the decline appeared to be associated with weather conditions that pushed and compacted the thin, mobile ice near its outer edge.\n\n\"Those types of things happen all the time,\" Meier said. \"But the magnitude of it is certainly unusual.\"\n\nAntarctic sea ice varies more from year to year than Arctic sea ice because, in contrast to the Arctic, it is not surrounded by land and can respond more freely to changing wind and weather conditions. But Antarctic sea ice extent at its annual maximum has generally been lower in recent years. Because of this large year-to-year variability, Boisvert and Meier remain cautious about characterizing the change as a long-term trend.\n\nScientists have tracked polar sea ice from space for nearly five decades. During that time, NASA and the National Oceanic and Atmospheric Administration (NOAA) used a series of satellite instruments to maintain a continuous sea ice record, beginning with NASA's Nimbus-7 satellite, which began observations in October 1978.\n\nThe record continued with instruments aboard Defense Meteorological Satellite Program satellites beginning in 1987 and NASA's Aqua satellite from 2002 to 2011. Today, scientists continue the record using data from the Advanced Microwave Scanning Radiometer 2 (AMSR2), launched in 2012 aboard JAXA's (Japan Aerospace Exploration Agency) GCOM-W satellite.\n\nAntarctic sea ice typically reaches its annual maximum in late September or early October. NASA and NSIDC will announce the 2026 maximum after scientists confirm that seasonal ice growth has ended.\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "作者：詹姆斯·赖尔登（James Riordon），美国国家航空航天局（NASA）\n编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性：\n\n根据美国国家航空航天局（NASA）与科罗拉多大学博尔德分校的国家冰雪数据中心（NSIDC）的数据，北极海冰于9月12日达到了年度最小覆盖范围。海冰覆盖面积估计为178万平方英里（460万平方公里），与2008年、2010年和2025年并列为卫星记录中第10低的最小值。\n\n2026年的最小值与卫星记录中观察到的规律相吻合。从2007年到2026年的过去20年间，出现了自1978年底开始连续卫星测量以来所观测到的20个最低的北极海冰年度最小范围。\n\n北极海冰在黑暗寒冷的秋冬季增长，随着春夏季气温升高而消退，通常在9月份达到其最小范围。不同年份夏季之间的天气条件可能会导致海冰融化量出现显著差异。\n\n例如，马里兰州格林贝尔特的NASA戈达德太空飞行中心的海冰科学家利内特·博斯韦尔（Linette Boisvert）表示，在过去十年中，云层覆盖的增加阻止了太阳辐射进一步加速海冰融化。\n\n这促进了近年来9月份海冰覆盖范围的相对稳定。NSIDC高级研究科学家沃尔特·迈耶（Walt Meier）表示：“我们进入了平台期，但与有记录以来的早期相比仍然处于较低水平。”\n\n在地球的另一端，南极海冰在经历8月份的波动后，正在接近其年度最大覆盖范围。\n\n南极周边的海冰在六天内减少了约11.6万平方英里（30万平方公里），随后恢复了季节性增长。迈耶表示，这一下降似乎与天气条件有关，天气推动并压实了靠近外缘的较薄且易移动的浮冰。\n\n“这种情况经常发生，”迈耶说，“但其幅度确实不同寻常。”\n\n南极海冰的年际变化比北极海冰更大，因为与北极不同，南极并未被陆地包围，能够对变化的风和天气条件做出更自由的响应。但近年来，处于年度最大值时的南极海冰范围普遍较低。由于这种巨大的年际变化，博斯韦尔和迈耶在将这一变化定性为长期趋势时依然保持谨慎。\n\n科学家从太空追踪极地海冰已有近五十年。在此期间，NASA和美国国家海洋和大气管理局（NOAA）利用一系列卫星仪器维持了连续的海冰记录，始于NASA的“雨云-7号”（Nimbus-7）卫星，该卫星于1978年10月开始观测。\n\n该记录随后由自1987年开始的国防气象卫星计划（DMSP）搭载仪器以及2002年至2011年的NASA Aqua卫星继续延续。如今，科学家通过2012年搭载于日本宇宙航空研究开发机构（JAXA）GCOM-W卫星上发射的高级微波扫描辐射计2（AMSR2）的数据继续维持该记录。\n\n南极海冰通常在9月下旬或10月上旬达到年度最大值。NASA和NSIDC将在科学家确认季节性海冰增长停止后公布2026年的最大值。\n\n英语硕士，自2021年起担任文字编辑，在高等教育与健康领域内容方面拥有丰富经验。致力于提供可信赖的科学新闻。完整资料 →\n数学生物学学士，创意写作硕士。履历丰富，在科学和语言方面拥有独特见解。完整资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "2026年9月12日，北极海冰达到年度最小范围，预估覆盖面积为178万平方英里（460万平方公里）。",
+          "2026年北极海冰最小范围与2008年、2010年和2025年并列为卫星记录中第10低的最小值。",
+          "来源叙事重点：基于近50年连续卫星观测数据，报道2026年北极海冰达到年度最小范围（与历年并列历史第10低）及过去20年持续偏低的长期态势，同时对比观察南极海冰的异常短期波动与高变异性。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:20:14.000Z",
+            "url": "https://phys.org/news/2026-09-arctic-sea-ice-annual-minimum.html"
+          }
+        ]
+      },
+      {
+        "id": "story-sports-2192437-a719de69be7a9fa4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia’s Prozorova advances to Round 3 of 2026 WTA Singapore Open",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:25:15.000Z",
+        "pubTime": "2026-09-25 02:25",
+        "url": "https://tass.com/sports/2192437",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 24. /TASS/. /TASS/. Russia's Tatyana Prozorova has advanced to Round 3 of the 2026 Singapore Open Tennis tournament after defeating Alexandra Eala from the Philippines.\n\nThe unseeded Russian athlete, who is playing under a neutral status at the international tournaments, outplayed Eala 4-6; 7-5; 6-3. She is now to play in the next round against Xinyu Wang of China.\n\nProzorova, 22, is currently 180th in the Women Tennis Association (WTA) Rankings. She has not won any of the WTA titles and her best result at the Grand Slam tournaments series was to qualify for the 2023 US Open, where she failed to clear the opening round.\n\nThe 2026 Singapore Open is the WTA 500 class tournament played on hard courts of the OCBC Arena in Singapore on September 21-27 and it offers over $1.2 million in prize money.\n\nOn February 28, 2022, the International Olympic Committee (IOC) issued recommendations to international sports federations to exclude athletes from Russia and Belarus from taking part in international tournaments, citing Moscow's special military operation in Ukraine as the reason.\n\nFollowing the IOC's recommendations in late February 2022, the majority of global sports federations decided to exclude athletes from Russia and Belarus from all international sports tournaments.\n\nThe International Tennis Federation (ITF) ruled on March 1, 2022 to suspend the membership of the Russian and Belarusian national tennis federations while also scrapping all previously scheduled tennis tournaments in the two countries.\n\nOn March 14, 2022, the ITF also confirmed its prohibition on the Russian and Belarusian national tennis teams from taking part in the 2022 Davis Cup and 2022 Billie Jean King Cup.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯网球运动员塔季扬娜·普罗佐罗娃（Tatyana Prozorova）击败菲律宾选手亚历山德拉·埃亚拉（Alexandra Eala），晋级2026年新加坡网球公开赛第三轮。",
+          "普罗佐罗娃以中立身份参赛，以4-6、7-5、6-3的比分战胜埃亚拉，下一轮将对阵中国选手王欣瑜（Xinyu Wang）。",
+          "来源叙事重点：报道俄罗斯本土网球运动员在国际巡回赛中的竞技突破，同时例行化嵌入针对俄罗斯体育受国际制裁背景的固定官方叙事（强调中立身份背景及2022年起国际体育组织的制裁历史）"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:25:15.000Z",
+            "url": "https://tass.com/sports/2192437"
+          }
+        ]
+      },
+      {
+        "id": "story-ico-stargate-data-center-8e953b62eee23ddb",
+        "title": "甲骨文就其新墨西哥州“星际之门”数据中心发出不可抗力通知",
+        "originalTitle": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:11:44.000Z",
+        "pubTime": "2026-09-25 02:11",
+        "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "imageUrl": null,
+        "fullContent": "Oracle has sent a force majeure notice to the developer of Project Jupiter, a Stargate data center campus in New Mexico, Bloomberg first reported Thursday.\n\nForce majeure clauses, common in energy and commodities contracts, excuse a party from contractual obligations when events outside its control get in the way. Oracle is not seeking to exit as the campus’s main tenant, according to Bloomberg’s sources. Instead, the notice would allow the company to delay payments should the facility miss its 2028 target to come online.\n\nThe notice also comes as AI data center construction faces growing scrutiny nationally, and as developers take on steep costs to build capacity for customers like OpenAI.\n\nOracle maintains that it does not expect a delay. “Project Jupiter remains on our planned schedule,” Oracle said in a statement to CNBC. “We are fully committed to New Mexico and confident in our path forward.”\n\nBlue Owl Capital, whose unit received the notice, said in its own statement to CNBC that “this notice does not change the financial commitments to this multi-year project.”\n\nNeither Oracle nor Blue Owl immediately responded to TechCrunch’s requests for comment.\n\nStill, the notice follows a string of setbacks at the site, many of them tied to its energy supply. The campus, designed to handle 2.45 gigawatts, is meant to run on gas-powered fuel cells from Bloom Energy, which makes a reliable gas supply central to its timeline\n\nAn Energy Transfer pipeline intended to deliver gas to the site has also been delayed nearly six months, to Feb. 1, 2027, after regulators repeatedly denied permits for the line. In August, Bloomberg reported that the pipeline’s route had been changed following those rejections. A separate air quality permit for the fuel cell system that would power the campus is also pending. The state’s environment department faces a Nov. 23 deadline to decide.\n\nProject Jupiter is one of the flagship sites of Stargate, the AI infrastructure initiative Oracle, OpenAI and SoftBank announced with President Donald Trump early in his second term. The campus has drawn opposition from residents and environmental groups and has become a political flashpoint ahead of the midterm elections. Oracle has responded with a public outreach campaign in the state aimed at winning over the project’s critics, according to Bloomberg.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance\n\nMeta’s Muse is outpacing ChatGPT’s early mobile launch\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "fullTranslation": "据彭博社周四率先报道，甲骨文已向“木星项目”（Project Jupiter）的开发商发出不可抗力通知。该项目是位于新墨西哥州的一座“星际之门”（Stargate）数据中心园区。\n\n不可抗力条款常见于能源和大宗商品合同。当不受当事方控制的事件妨碍履行合同时，这类条款可使一方免于承担合同义务。据彭博社援引的消息人士称，甲骨文并不是要退出、放弃其作为该园区主要租户的身份。相反，如果该设施未能实现于2028年上线的目标，这份通知将允许甲骨文推迟付款。\n\n这份通知发出之际，美国各地对人工智能数据中心建设的审查日益加强；与此同时，开发商正承担高昂成本，为OpenAI等客户建设容量。\n\n甲骨文表示，公司预计不会出现延误。甲骨文在给美国消费者新闻与商业频道（CNBC）的一份声明中说：“木星项目仍按我们的计划推进。我们完全致力于新墨西哥州，并对未来的发展路径充满信心。”\n\n收到这份通知的蓝猫资本（Blue Owl Capital）旗下部门在给CNBC的另一份声明中表示：“这份通知不会改变我们对这一多年期项目所作的财务承诺。”\n\n甲骨文和蓝猫资本均未立即回应TechCrunch的置评请求。\n\n不过，这份通知是在该项目地点接连遭遇一系列挫折之后发出的，其中许多问题都与能源供应有关。该园区的设计容量为2.45吉瓦，计划使用Bloom Energy生产的燃气燃料电池供电，因此可靠的天然气供应对项目进度至关重要。\n\n一条原计划向该地点输送天然气的Energy Transfer管道也已延误近六个月，推迟至2027年2月1日。此前，监管机构多次拒绝为该管道颁发许可。今年8月，彭博社报道称，在许可遭拒后，该管道的路线已发生改变。为园区提供电力的燃料电池系统所需的另一项空气质量许可也仍在等待审批。该州环境部门须在11月23日前作出决定。\n\n木星项目是“星际之门”计划的旗舰项目之一。甲骨文、OpenAI和软银在美国总统唐纳德·特朗普第二任期初期宣布了这项人工智能基础设施计划。该园区遭到当地居民和环保组织的反对，并在中期选举前成为政治争议焦点。据彭博社报道，甲骨文已在该州开展公共沟通活动，旨在争取该项目批评者的支持。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n您下一次重要的交流机会就在Disrupt。与超过1万名创始人、风险投资人、企业运营者和科技领袖建立联系。探索未来的突破，了解当今正在塑造科技行业的力量，并在太平洋时间9月25日晚上11时59分前报名，最高可节省200美元。\n\nAnthropic称，其生物学实验室已经取得重大成果\n\nPitPro首台换胎机器人在加拿大投入使用\n\nAnthropic发布Opus 5.5：价格更低，性能达到Fable级别\n\nMeta的Muse在移动端上线初期的表现超过了ChatGPT\n\nTilly Norwood的媒体巡回宣传表现，正如你对一款人工智能产品所能预期的那样\n\nAnthropic正在运营一个开展生物学实验的实验室\n\n一名ChatGPT发明者开发的新型人工智能模型令开发者兴奋不已",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "甲骨文（Oracle）向位于新墨西哥州的 Stargate 数据中心园区“木星计划”（Project Jupiter）的开发商发出了不可抗力通知。",
+          "甲骨文并未寻求退出作为该园区主要租户的身份，该通知将允许甲骨文在该设施未能在2028年如期上线的情况下推迟付款。",
+          "来源叙事重点：聚焦甲骨文就新墨西哥州 Stargate AI 数据中心发出不可抗力通知的法律与商业防御动作，强调供应链（天然气管道延误）、环保审批障碍以及政治争议给大规模 AI 基础设施带来的实际交付风险与成本挑战。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:11:44.000Z",
+            "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
+          }
+        ]
+      },
+      {
+        "id": "story-market-beatdown-ec8fda43-d7d526301585203c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here are 3 alternatives for investors looking to dodge the bond-market beatdown",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:07:00.000Z",
+        "pubTime": "2026-09-25 02:07",
+        "url": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "U.S. stocks have kept chugging higher this year, but bonds haven’t been able to shake off a five-year slump. That has sent some investors interested in a diversified portfolio searching for alternatives.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 02:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-24T18:07:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-iction-market-polymarket-ebd87b80d64a80ed",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New York sues prediction market Polymarket, calling it an unlicensed gambling operation",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T17:17:13.000Z",
+        "pubTime": "2026-09-25 01:17",
+        "url": "https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/",
+        "imageUrl": "https://external-preview.redd.it/B-EsRAjWhcyep-cUfwUNStSuWH-CWUsE70tI50DIp9E.jpeg?width=640&crop=smart&auto=webp&s=3b01381d912029d0ffb78c7a5d1c539191d2da13",
+        "fullContent": "submitted by /u/Immediate-Link490 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-25 01:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/",
+            "publishedAt": "2026-09-24T17:17:13.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-24-novak-2120120545-html-1bf186750ea8909f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Новак и Кобзев обсудили ситуацию с топливом в Иркутской области",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-24T18:26:49.000Z",
+        "pubTime": "2026-09-25 02:26",
+        "url": "https://ria.ru/20260924/novak-2120120545.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e8/05/06/1944176013_0:0:960:540_650x0_80_0_0_24ce97192eafdb042661b84945ce8d09.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 02:26 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260924/novak-2120120545.html",
+            "publishedAt": "2026-09-24T18:26:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-urity-lab-taskflow-agent-4431c738b4b1e8a1",
+        "title": "要闻：如果你是模糊测试（fuzzing）的新手并希望先了解基础知识，可以查看我们在 gh.io/fuzzing101 ",
+        "originalTitle": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+        "source": "GitHub Blog (工程技术博客)",
+        "sourceSlug": "github",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:26:12.000Z",
+        "pubTime": "2026-09-25 02:26",
+        "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+        "imageUrl": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-09-23-at-3.16.38-PM.png?resize=1024%2C453",
+        "fullContent": "If you&rsquo;re new to fuzzing and want to learn the fundamentals first, check out our Fuzzing 101 course at gh.io/fuzzing101 .\n\nContinuous fuzzing is not a magic solution that solves all your problems . Even projects that have been enrolled in OSS-Fuzz for years can still hide critical bugs, and the reason is almost always the same: someone needs to keep an eye on coverage, write new harnesses for the code that nobody is reaching, and triage the crashes that come out the other end. In other words, fuzzing still needs a human in the loop.\n\nSo the natural question I kept asking myself was: how much of that human work can we actually hand over to an LLM agent?\n\nThat is what led me to build the Fuzzing Taskflow, an autonomous fuzzing pipeline for C/C++ projects. You only need to point it at a GitHub repository, and it does the rest: it identifies the suitable entrypoints, analyzes the build system, writes the harnesses, runs AFL++, reads the coverage reports, improves the harnesses, triages every crash, and writes a vulnerability report for each unique bug, all without a human babysitting it.\n\nThe Fuzzing Taskflow is built on top of the GitHub Security Lab Taskflow Agent , our framework for writing LLM-driven security automation, so the pipeline is expressed as a set of taskflows that an agent runs end to end.\n\nIn this post, I&rsquo;ll walk you through how it works and the design decisions behind it. Let&rsquo;s get going!\n\nThe simplest way to run it&rsquo;s just to go to https://github.com/GitHubSecurityLab/seclab-taskflows-fuzzing and start a codespace.\n\nThen, run the script like this:\n\n./scripts/fuzzing/run_fuzzing.sh PROJECT\n\n./scripts/fuzzing/run_fuzzing.sh tukaani-project/xz\n\nThat&rsquo;s it. The argument is just a GitHub owner/repo slug. Then, the agent, takes care of all the preliminary steps on its own:\n\nInstalling software such as AFL\n\nCloning the repository\n\nIdentifying the most relevant functions in the code\n\nCreating fuzz targets for those functions\n\nIf you just want a quick smoke test before committing to a long campaign, point it at something small:\n\n./scripts/fuzzing/run_fuzzing.sh DaveGamble/cJSON\n\nA word of warning before you run it: this taskflow runs afl-fuzz , clang , and arbitrary build commands chosen by the LLM directly on the host, with no container in between. A prompt-injected agent could, in principle, do anything your user can. So please run it only inside a disposable environment (e.g., a Codespace or a throwaway VM), without elevated privileges .\n\nSome frontier models impose security guardrails on their outputs. For the fuzzing task flow, we use Claude Sonnet 5 by default because it passed all of our internal tests without issues. You can choose a different model by modifying the following file: src/seclab_taskflows_fuzzing/configs/model_config.yaml .\n\nThe architecture in one minute\n\nBefore getting into the interesting parts, it helps to know how the pieces fit together. There are three layers:\n\nA shell driver ( run_fuzzing.sh) that chains the pipeline stages together.\n\nA set of taskflow YAMLs , one per stage, which are essentially the prompts that tell the LLM agent what to do at each step.\n\nA set of MCP tools that the agent calls to actually do the work: run AFL, compile a harness, store a crash, read a coverage report, and so on.\n\nThe design rule I cared about most is a clean separation of responsibility: the LLM agent owns the decisions, and the MCP tools own the execution . The agent decides what to fuzz, what harness to write, and what coverage gap to chase next. The tools just expose primitives like run_afl_for or compile_harness . The agent never calls AFL or clang directly; it composes the pipeline out of these building blocks. All the state lives in a SQLite database ( fuzz_context.db ), so the stages never hand data to each other in memory, only through the database.\n\nOne small but important detail: each harness is built twice. AFL&rsquo;s edge instrumentation is great for guiding the fuzzer but useless for human-readable coverage reports. So every harness becomes both a .afl binary (built with afl-clang-lto -fsanitize=address,undefined ) and a .cov binary (built with clang -fprofile-instr-generate -fcoverage-mapping ). The .afl binary does the fuzzing; the .cov binary replays AFL&rsquo;s queue afterwards to produce real source-line and branch coverage.\n\nThe coverage-feedback loop\n\nThis is the heart of the whole pipeline, and it&rsquo;s the part that most directly automates the manual workflow I described at the start.\n\nIf you have ever tried to improve fuzzing coverage by hand, you&rsquo;ll know that it&rsquo;s an iterative process that looks like this:\n\nThe &ldquo;check the coverage&rdquo; step used to be completed by me, manually reading an LCOV report looking for uncovered branches. The &ldquo;improve the coverage&rdquo; step was also completed by me, this time, writing a new harness or crafting a new input. The Fuzzing Taskflow hands both of those steps to the agent.\n\nEach iteration, for each harness, the agent runs AFL for a time budget, replays the queue against the .cov binary to get a real coverage report, and then reads the list of uncovered branches. Based on what it finds, it picks one of a handful of actions:\n\nAdd a new seed crafted to reach an uncovered branch\n\nEdit the harness source to call an additional API\n\nAuto-enrich the AFL dictionary with the magic constants a guard is comparing against\n\nSimply skip the gap if it&rsquo;s a cold error path or vendor code that isn&rsquo;t worth chasing\n\nThe time budgets double every iteration:\n\n30s &rarr; 60s &rarr; 120s &rarr; 240s &rarr; 480s &rarr; 960s (&asymp; 32 min/target)\n\nThe idea is to spend cheap, short rounds early (when there&rsquo;s lots of low-hanging coverage to grab) and longer rounds later (when the fuzzer needs more time to break through a hard guard).\n\nAnd just like in my manual workflow, I need an answer to the question: when do we stop? Here, the loop uses plateau detection : once two consecutive iterations each gain less than a configurable threshold (1% absolute line coverage by default), the loop decides it has hit diminishing returns and moves on. This keeps the agent from burning hours of compute squeezing out the last fraction of a percent.\n\nStructure-aware fuzzing\n\nAFL&rsquo;s default byte-level mutators (bit flips, arithmetic, block splicing) do a great job on binary formats but struggle with structured, text-based inputs. The classic solution is to hand-write custom mutators for each format, which is tedious work. This time I want the pipeline to do that work for me, so it ships four complementary mechanisms for producing structure-aware inputs.\n\n1. Per-format dictionaries and custom mutators . For targets whose input format is recognized (JSON, XML, regex, PNG, length-prefixed binary TLV), the taskflow ships pre-built AFL dictionaries and LLVMFuzzerCustomMutator C files. The JSON mutator does token splicing and balanced-bracket duplication; the XML one knows about tags, entities, and billion-laughs tokens; the regex one carries real ReDoS patterns. Each mutator delegates half of its mutations back to AFL&rsquo;s default byte mutator, so we keep the engine&rsquo;s randomization instead of fighting it.\n\n2. A source level dictionary. For formats the pipeline doesn&rsquo;t recognize, it generates a custom mutator on the fly by scanning the target&rsquo;s own .c/.h files. It extracts string literals and 32-bit numeric constants (from #define , case , and enum ), filters out the noise, and uses them as splice tokens. The intuition is simple: the most interesting magic values that a parser checks for are usually written down somewhere in its own source.\n\n3. A dynamically generated AFL dictionary with coverage-driven enrichment . The same source-token set is also emitted as an AFL classic dictionary before iteration 1 (numeric constants in both endiannesses, so the fuzzer can satisfy a memcmp against a 4-byte magic regardless of host byte order). Then, after every coverage step, the pipeline looks at the guards near the uncovered lines ( strncmp , memcmp , case 0xN , == &lsquo;X&rsquo; ) and appends any new tokens it finds. The dictionary literally grows toward the code the fuzzer can&rsquo;t yet reach.\n\n4. A corpus-splice operator . The smart mutator can also load files from a corpus directory and splice random sub-regions of them into the input, a recombination-style operator that AFL&rsquo;s stock havoc doesn&rsquo;t do well.\n\nOne of the things that quietly kills fuzzing efficiency is throwing away progress. If every run starts from the original seeds, you re-pay the cost of rediscovering the same paths over and over.\n\nTo avoid that, every harness gets a stable corpus directory that survives across iterations and across entire campaigns:\n\n<workspace>/corpus/harness_<id>/\n\nAt the end of each iteration, AFL&rsquo;s queue is merged into this directory and run through afl-cmin to keep its size bounded. The effect is that yesterday&rsquo;s interesting inputs carry into today&rsquo;s run, and the inputs you found in last week&rsquo;s campaign carry into this one. If you stop and restart a campaign, you lose nothing.\n\nTriage and vulnerability reports\n\nFinding a crash is only half the job. As anyone who has done root-cause analysis knows, triaging is often the most tedious part of the whole process. This is the other place where the agent shines.\n\nAfter the fuzzing loop finishes, three stages run automatically. First, every crash is minimized with afl-tmin , replayed under ASan to capture a stack trace, and deduplicated by a stack-top hash (the top normalized frames, with templates, inline namespaces, and LTO suffixes stripped so semantically identical crashes collapse together). Second, previously known crashes are replayed against the current binary to see whether an upstream fix has resolved them. Third, the agent reads the harness source and the crashing function, walks the call chain back from the public API, and writes a per-crash markdown report.\n\nEach report assigns one of the following verdicts:\n\nThe distinction between a real vulnerability (reachable and exploitable through a public API) and a mere harness_bug (the bug is in our own harness, not the library) is exactly the kind of judgment call that used to require me to sit down and trace the code by hand. Every report includes a root-cause analysis with file:line references, a reachability argument, an exploitability assessment, a suggested fix as a unified diff and a regression-test sketch.\n\nJust as clarification: the suggested patches are marked &ldquo;review required&rdquo; for a reason. The agent&rsquo;s analysis is limited by the model&rsquo;s understanding of the target code, and it does get things wrong. Treat the verdicts as a very well-prepared starting point for a human, not as final result.\n\nRunning an autonomous campaign and not being able to see what it&rsquo;s doing is uncomfortable, so the pipeline publishes everything to a live HTML dashboard. It auto-starts in the background as soon as you launch a campaign, on port 8765 . In a Codespace that port is auto-forwarded, so you can open it in any browser and watch the campaign progress in real time on the dashboard.\n\nThe page shows amongst others:\n\na per-harness &ldquo;running&rdquo; pulse\n\na coverage-trend table with inline sparklines\n\nan iteration timeline\n\nI started this project motivated by the limitations that any security researcher knows well: fuzzing works, but it doesn&rsquo;t scale without human attention, and that human attention is the bottleneck. The Fuzzing Taskflow is my attempt to push that bottleneck back by handing the repetitive parts (writing harnesses, reading coverage, chasing gaps, triaging crashes) to an LLM agent, while keeping a clean separation between the agent&rsquo;s judgment and the tools that do the real work.\n\nIf you&rsquo;re the maintainer of C/C++ project, then please give it a try . If your project has never been fuzzed before, then this tool will help you to get started quickly. Or if your project has been fuzzed before, then this tool might help to find new bugs by increasing your fuzzing coverage.\n\nThe source code is open source, so please create an issue if you encounter any bugs. Contributions are also welcome!\n\nThe post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
+        "fullTranslation": "如果你是模糊测试（fuzzing）的新手并希望先了解基础知识，可以查看我们在 gh.io/fuzzing101 提供的 Fuzzing 101 课程。\n持续模糊测试并不是解决所有问题的灵丹妙药。即使是加入 OSS-Fuzz 多年的项目，依然可能隐藏着严重漏洞，其原因几乎总是相同的：需要有人持续盯住代码覆盖率，为无人触及的代码编写新的测试桩（harness），并对另一端产生的崩溃进行分类排查。换言之，模糊测试仍然需要人工介入（human in the loop）。\n因此，我一直在思考的一个自然问题是：这其中究竟有多少人工工作可以真正移交给大语言模型（LLM）智能体？\n正是这一思考促使我构建了 Fuzzing Taskflow，这是一个面向 C/C++ 项目的自主模糊测试流水线。你只需将其指向一个 GitHub 仓库，其余工作均由它完成：识别合适的入口点、分析构建系统、编写测试桩、运行 AFL++、读取覆盖率报告、改进测试桩、对每次崩溃进行分类，并针对每个独立漏洞编写漏洞报告，整个过程无需人工看护。\nFuzzing Taskflow 构建于 GitHub Security Lab Taskflow Agent 之上，这是我们用于编写 LLM 驱动的安全自动化任务的框架，因此该流水线被表达为一组由智能体端到端运行的工作流（taskflows）。\n在这篇博文中，我将向你介绍它的工作原理及其背后的设计决策。让我们开始吧！\n最简单的运行方式就是直接访问 https://github.com/GitHubSecurityLab/seclab-taskflows-fuzzing 并启动一个 codespace。\n然后，像这样运行脚本：\n./scripts/fuzzing/run_fuzzing.sh PROJECT\n./scripts/fuzzing/run_fuzzing.sh tukaani-project/xz\n就这么简单。参数仅为一个 GitHub 所有者/仓库标识。随后，智能体会自行处理所有准备步骤：\n安装如 AFL 等软件\n克隆代码仓库\n识别代码中最相关的函数\n为这些函数创建模糊测试目标（fuzz targets）\n如果你只是想在投入长时间测试之前进行快速冒烟测试，可以将其指向较小的项目：\n./scripts/fuzzing/run_fuzzing.sh DaveGamble/cJSON\n在运行之前需要提出一点警告：该任务流会直接在宿主机上运行 afl-fuzz、clang 以及由 LLM 选择的任意构建命令，中间没有任何容器隔离。受到提示词注入攻击的智能体原则上可以执行你的用户权限所能执行的任何操作。因此，请务必仅在临时环境（例如 Codespace 或一次性虚拟机）中运行它，且不要赋予提权权限。\n一些前沿模型对其输出施加了安全护栏。对于模糊测试任务流，我们默认使用 Claude Sonnet 5，因为它毫无问题地通过了我们所有的内部测试。你可以通过修改以下文件来选择其他模型：src/seclab_taskflows_fuzzing/configs/model_config.yaml。\n一分钟了解其架构\n在深入有趣的部分之前，了解各组件是如何协同工作的会很有帮助。系统共有三层：\n一个用于串联流水线各个阶段的 Shell 驱动程序（run_fuzzing.sh）。\n一组任务流 YAML 文件，每个阶段一个，它们本质上是告知 LLM 智能体在每一步该做什么的提示词。\n一组模型上下文协议（MCP）工具，智能体调用它们来执行实际工作：运行 AFL、编译测试桩、存储崩溃、读取覆盖率报告等。\n我最看重的设计原则是职责的明确分离：LLM 智能体负责决策，MCP 工具负责执行。智能体决定对什么进行模糊测试、编写什么测试桩以及接下来追踪哪个覆盖率缺口。工具仅暴露诸如 run_afl_for 或 compile_harness 之类的原语。智能体从不直接调用 AFL 或 clang；它用这些积木搭建起整条流水线。所有状态都保存在 SQLite 数据库（fuzz_context.db）中，因此各阶段之间从不在内存中互相传递数据，仅通过数据库传递。\n一个微小但重要的细节：每个测试桩都会编译构建两次。AFL 的边插桩对于引导模糊测试器非常有效，但对于生成人类可读的覆盖率报告毫无用处。因此，每个测试桩都会生成一个 .afl 二进制文件（使用 afl-clang-lto -fsanitize=address,undefined 构建）和一个 .cov 二进制文件（使用 clang -fprofile-instr-generate -fcoverage-mapping 构建）。.afl 二进制文件执行模糊测试；.cov 二进制文件事后重放 AFL 的测试队列，以生成真实的源码行和分支覆盖率。\n覆盖率反馈循环\n这是整条流水线的核心，也是将我在开头所描述的人工工作流自动化得最彻底的部分。\n如果你曾尝试过手动提高模糊测试覆盖率，你就会知道这是一个如下所示的迭代过程：\n“检查覆盖率”这一步过去是由我完成的，手动阅读 LCOV 报告以寻找未覆盖的分支。“提高覆盖率”这一步同样由我完成，此时需要编写新的测试桩或构造新的输入。Fuzzing Taskflow 将这两个步骤都交给了智能体。\n在每次迭代中，针对每个测试桩，智能体会运行 AFL 达到设定的时间预算，对照 .cov 二进制文件重放队列以获取真实的覆盖率报告，然后读取未覆盖分支的列表。基于所发现的内容，它会选择以下几种操作之一：\n添加专门构造用于触及未覆盖分支的新种子\n修改测试桩源码以调用额外的 API\n自动利用防护条件进行比较的魔法常量来扩充 AFL 字典\n如果这属于冷门错误路径或不值得追踪的第三方供应商代码，则直接跳过该缺口\n时间预算在每次迭代中翻倍：\n30 秒 → 60 秒 → 120 秒 → 240 秒 → 480 秒 → 960 秒（每个目标约 32 分钟）\n这种设计的思路是在早期投入开销低、耗时短的轮次（此时有大量容易获取的覆盖率），并在后期投入耗时更长的轮次（此时模糊测试器需要更多时间来突破困难的防护条件）。\n正如我的手动工作流一样，我需要回答一个问题：我们何时停下来？在此处，循环采用了平台期检测（plateau detection）：一旦连续两次迭代各自获得的增益低于可配置的阈值（默认为绝对行覆盖率 1%），循环便判定已进入收益递减阶段并继续向下推进。这可以防止智能体为了榨出最后零点几个百分点的覆盖率而耗费数小时的算力。\n结构感知模糊测试\nAFL 默认的字节级变异器（位翻转、算术运算、块拼接）在二进制格式上表现出色，但在处理结构化的文本输入时却举步维艰。传统的解决方案是针对每种格式手写自定义变异器，这是一项繁琐的工作。这一次我希望流水线能为我完成这项工作，因此它提供了四种互补的机制来生成结构感知型输入。\n\n1. 针对特定格式的词典和自定义变异器。对于能识别输入格式的目标（如 JSON、XML、正则表达式、PNG、带长度前缀的二进制 TLV），该任务流提供了预构建的 AFL 词典和 LLVMFuzzerCustomMutator C 源码文件。JSON 变异器会执行词法单元拼接和平衡括号复制；XML 变异器理解标签、实体以及“十亿笑声”（billion-laughs）标记；正则变异器则携带真实的 ReDoS 模式。每个变异器都会将其半数变异委托回 AFL 的默认字节变异器，从而在不破坏引擎随机化机制的前提下加以利用。\n2. 源码级词典。对于流水线无法识别的格式，它会通过扫描目标自身的 .c/.h 文件来动态生成自定义变异器。它提取字符串字面量以及来自 #define、case 和 enum 的 32 位数值常量，过滤掉噪音，并将其用作拼接标记。其背后的逻辑很简单：解析器所校验的最关键的魔数，通常就写在它自己的源代码中。\n3. 具备覆盖率驱动富化机制的动态 AFL 词典。同一批源码标记集在第 1 轮迭代前也会被导出为经典的 AFL 词典（包含两种字节序的数值常量，以便模糊测试器无论在何种主机字节序下都能满足针对 4 字节魔数的 memcmp 比对）。随后，在每个覆盖率收集步骤之后，流水线会查看未覆盖代码行附近的守卫条件（如 strncmp、memcmp、case 0xN、== 'X'），并追加发现的所有新标记。词典实际上会朝着模糊测试器尚无法触及的代码方向自主扩充。\n4. 语料库拼接算子。智能变异器还可以从语料库目录中加载文件，并将它们的随机子区域拼接到输入中，这是一种 AFL 原生 havoc 变异模式无法很好实现的重组风格算子。\n悄然扼杀模糊测试效率的一大元凶就是丢失测试进度。如果每次运行都从原始种子开始，你就会反复承担重新发现相同路径的开销。\n为了避免这种情况，每个测试桩（harness）都会获得一个能在多次迭代和整个测试任务周期中持久保留的稳定语料库目录：\n/corpus/harness_ /\n在每次迭代结束时，AFL 的队列会被合并到该目录中，并通过 afl-cmin 进行精简以限制其规模。这样带来的效果是，昨天的有效输入可以延续到今天的运行中，而上周测试中发现的输入也可以带入本周的测试。即使你停止并重启测试任务，也不会丢失任何进展。\n\n分类筛选与漏洞报告\n发现崩溃（crash）仅仅完成了工作的一半。做过根本原因分析的人都知道，分类筛选往往是整个流程中最繁琐的部分。而这正是该 Agent 大显身手的另一个领域。\n模糊测试循环结束后，三个阶段将自动运行。首先，每一个崩溃都会通过 afl-tmin 进行最小化，在 ASan 环境下重放以捕获堆栈轨迹，并通过栈顶哈希（剥离了模板、内联命名空间和 LTO 后缀的标准栈顶帧，从而使语义相同的崩溃合并在一起）进行去重。其次，先前已知的崩溃会在当前二进制程序上重放，以检查上游修复是否已将其解决。第三，Agent 读取测试桩源码和发生崩溃的函数，从公共 API 向上逆向遍历调用链，并为每个崩溃生成一份 Markdown 报告。\n每份报告都会给出以下裁定之一：\n区分真正的漏洞（可通过公共 API 触达并利用）与单纯的测试桩错误（harness_bug，即错误存在于我们自己编写的测试桩中而非库本身），正是过去需要我坐下来人工跟踪代码的那类判断。每份报告都包含带有“文件:行号”引用的根本原因分析、可达性论证、可利用性评估、以统一 diff 形式提供的修复建议以及回归测试草案。\n在此需要澄清的是：建议的补丁被标记为“需要人工复核”是有原因的。Agent 的分析受限于模型对目标代码的理解能力，确实存在出错的可能。请将这些裁定视为为人工复核精心准备的高质量起点，而非最终定论。\n运行无人值守的自动化测试却无法看清其内部运作会让人感到心里没底，因此流水线会将所有运行状态发布到实时 HTML 仪表盘上。一旦你启动测试任务，仪表盘就会在后台自动启动并监听 8765 端口。在 Codespace 中，该端口会自动转发，你可以直接在任何浏览器中打开它，在仪表盘上实时观察测试任务的进展。\n该页面展示的内容包括但不限于：\n每个测试桩的“运行中”心跳状态\n带有内嵌走势图的覆盖率趋势表\n迭代时间线\n我启动这个项目的初衷，源于任何安全研究人员都深有体会的局限性：模糊测试虽然有效，但若缺乏人工干预就无法规模化，而人工精力正是瓶颈所在。模糊测试任务流（Fuzzing Taskflow）正是我试图打破这一瓶颈的尝试：将重复性工作（编写测试桩、分析覆盖率、追踪未覆盖分支、分类筛选崩溃）交由 LLM Agent 处理，同时在 Agent 的判断与真正执行工作的底层工具之间保持清晰的边界分离。\n如果你是 C/C++ 项目的维护者，欢迎尝试使用。如果你的项目此前从未进行过模糊测试，该工具能帮你快速起步；如果你的项目已经做过模糊测试，该工具也能通过提高测试覆盖率，帮助你发现新的漏洞。\n该项目源码现已开源，若遇到任何问题，欢迎提交 Issue。我们同样非常欢迎社区贡献！\n博文《借助 GitHub Security Lab Taskflow Agent 实现 AI 驱动的模糊测试》首发于 The GitHub Blog。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 64,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "GitHub Security Lab 推出了基于 Taskflow Agent AI 框架的 Fuzzing Taskflow，用于 C/C++ 项目的自主模糊测试流水线。",
+          "Fuzzing Taskflow 默认使用 Claude Sonnet 5 模型，因其通过了内部所有测试。",
+          "来源叙事重点：宣传并详细介绍其开源的 Fuzzing Taskflow 自动化框架，重点展示如何通过 LLM Agent 替代传统模糊测试中的繁重人工环节（如生成 harness、覆盖率反馈调优、崩溃分类），并强调其架构设计解耦与实操便捷性，同时披露沙箱隔离缺失的安全警示。"
+        ],
+        "citations": [
+          {
+            "source": "GitHub Blog (工程技术博客)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:26:12.000Z",
+            "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/"
+          }
+        ]
+      },
+      {
+        "id": "story-ad-of-panicking-717ff133-a6d39b946a39e675",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "It’s no secret that Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:24:00.000Z",
+        "pubTime": "2026-09-25 02:24",
+        "url": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "With midterm elections around the corner, voters are voicing concern about the future of these programs as rising costs imperil household finances",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 02:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-24T18:24:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-3286528cfb8b0d04",
+        "title": "2026年AI从业者调查",
+        "originalTitle": "AI Workers' Inquiry 2026",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T17:41:35.000Z",
+        "pubTime": "2026-09-25 01:41",
+        "url": "https://techworkersinquiry.org/ai/",
+        "imageUrl": null,
+        "fullContent": "The UTAW Tech Workers’ Inquiry outlines how generative AI is changing work across the tech sector, written with the perspectives and experiences of workers who build, deploy, manage, evaluate and use this technology.\n\nThis report can also be downloaded as a PDF:\n\nGet in touch at contact@utaw.tech\n\nAI is widely used to describe a disparate, and in many cases contradictory, set of technologies. While the term defies consensus, a clear picture of its impacts is emerging. Our participants described it as a largely negative force reorganising their work: increasing output expectations, changing skills requirements, expanding monitoring, degrading expertise, shifting accountability, and creating divisions between colleagues. AI applications rarely remove work; they redistribute and intensify it.\n\nWorkers stressed that positive uses depend on their ability to decide for themselves how to engage with AI.1 The central problem is not simply whether AI works well, but how it is introduced, controlled, measured and used by employers. Put simply, it is useful only when one gets to choose if and how to use them.\n\nThe problems identified are not derived from any technical limits of today’s models. Poor quality outputs, hallucinations and weak code do have an impact, but they are only part of the picture. This is because employers use AI to intensify work, rationalise redundancies, eliminate junior hiring, increase surveillance, deskill and downskill workers, shift risk onto employees and weaken their agency. Even as models improve, the underlying workplace issues will remain if workers do not gain enforceable rights over how AI is used, at work and in society at large.\n\nTech workers are deeply concerned over AI’s harmful impacts on the environment, in military and state surveillance contexts, and on mental health. This is why the Inquiry’s recommendations focus less on functionality and more on who controls and benefits from it.\n\nWorkers must be actively empowered to defend and extend their rights. This includes enforceable power over how AI is introduced, used, monitored and evaluated at work.\n\nWorkers must be given the final decision over how, or if, they use AI tools at work. There must not be a penalty for choosing not to use it.\n\nConsultation and transparency matter only if they lead to real accountability and effective action. Disclosure without consequence only whitewashes.\n\nThe emerging policy directions are:\n\nThese proposals expand upon the carried composite motion at TUC Congress 2026 titled Artificial Intelligence at work, moved by the CWU, seconded by Aegis and supported by: UNISON; National Education Union; USDAW.2\n\nWe need a regulatory framework with teeth to hold employers and technology companies accountable for their use of AI, along the following lines:\n\nSkills and development must be prioritised where AI is deployed to eliminate AI-induced deskilling and downskilling:\n\nWorkers must retain the right to refuse and be protected from retaliation in doing so:\n\nThe negative externalities of AI must be thoroughly assessed and disclosed:\n\nHealth and Safety legislation must be updated to take into account the new types of psychological harm that AI brings to the workplace:\n\nWorkers must be protected from disciplinary and performance processes which are based on how much they’re using (or not using) genAI tools to complete their work:3\n\nRedundancy protections must be strengthened, employers cannot use AI adoption as a convenient cover for offshoring and outsourcing:\n\nEmployers must be compelled to involve workers meaningfully in implementation decisions:\n\nThis report investigates AI from the point of view of tech workers who build, deploy, evaluate, manage and use these systems. It is a worker-led and worker-generated intervention into public debate on AI, based on the direct experience of tech workers across the tech workforce.\n\nUnhelpfully, the term AI does not refer to a single technology. It is an umbrella term encompassing different technologies marketed together. As our report will show, some of these technologies have beneficial use-cases and some do not. Some do not even exist and may never, despite forming a major part of public debate on AI.\n\nOur inquiry starts from a basic premise: tech workers are not only affected by AI, they also know how these systems are built, introduced, monitored and used in practice. Their experience is essential to any serious discussion about AI, work and regulation.\n\nWho has shaped what we think we know about AI? Almost invariably, it is non-technical media pundits and the tech entrepeneurs who own AI companies. Sometimes, the latter started off as software engineers and scientists; always, they are super-rich businesspeople standing to profit from AI proliferation.\n\nTo our knowledge, this report is the first systematic synthesis of the experience of AI from a broad swathe of the tech workforce. Our inquiry covers the UK tech sector supply chain, including customer support agents, research scientists, software developers, cybersecurity analysts, tech educators and more besides.\n\nOur worker inquiry leverages the technical expertise of employees throughout the supply chain. The approach is no-nonsense, focusing on concrete daily experiences, cross-pollinates insights from a diversity of workers, and interrogates underlying dynamics.\n\nAs a class, the workforce which develops and deploys AI is arguably the ultimate authority on the topic. As a group of unionised and unionising workers, the voices in this report speak in terms of progress, fairness, and defence of the vulnerable. Tech C-suites, representing capital’s avaricious vision for genAI technology, have always been clear: move fast and break things. There is a long line of “things” who have been broken by the barons of Silicon Valley, from teens like Molly Russell to war-ravaged people in the eastern Congo. Tech workers, the intellectual and manual labourers behind this new set of technologies, are concerned that AI is not compatible with people and planet.\n\nAI has been described as a “suitcase word”, so roomy you can put anything you like in it. Such imprecise language is unhelpful as, in practice, AI encompasses a range of very different technologies, with different risks, environmental impacts and benefits. To be specific, when one speaks about the dangers posed by AI to mental health, cybersecurity or job automation, one is speaking of LLMs and agents (LLM-based systems). These are the most energy intensive.\n\nWhen one speaks of AI breakthroughs and beneficial applications, for example the Nobel Prize-winning Alpha Fold or weather forecasting models, one is talking of a completely different technology. This tech is task-specific (i.e. narrow, well-defined tasks) and uses smaller models whose energy requirements are negligible.\n\nUsing the same word to refer to both technologies muddies discussion of their respective risks and benefits. The term generative AI (genAI) is a more accurate catch-all for LLMs, vision-language models (VLMs), and any other machine learning technology which synthesises output based on training data (including audio and video).4 In this report, we aim to be as precise as possible in our reference to AI.\n\nMost of the debate about AI centres on artificial general intelligence (AGI), an ill-defined theoretical technology that doesn’t exist.5 This debate encompasses many questions (e.g. how to define AGI, AI doomers vs AI accelerationists, whether to pursue AGI at all) which we will not deal with here as they are largely a distraction from the real-world applications of genAI. The lack of a definition for AGI pushes discussion of its risks to an indefinite future moment, ignoring the immediate and near-term risks posed by genAI and its increasing integration into the systems that underpin society.\n\nPerhaps of some relevance is the debate between AI optimists and pessimists. The former believe genAI (and by extension the elusive AGI) can solve the world’s greatest problems, the latter do not. While tech workers do not share a unified opinion here, their response to the bleeding edge of genAI implementations is generally pessimistic.\n\nGenAI in practice is a technology of automation, and as with all automating technologies of the past, the chief beneficiaries of efficiencies are typically the super-rich company owners. On the one hand, employees whose work is being transformed by genAI report a variety of harms to their well-being.6 On the other, the tech boom of the past 30 years and the AI bubble of the past decade have enriched an exceedingly small number of billionaires and turbo-charged their (decidedly far-right) political influence. Meanwhile the majority of working people have faced year-on-year income loss for several years running and inequality has drastically been worsening for decades.\n\nIt is fair to say, therefore, that genAI is a technology which benefits billionaires now far more than it promises to benefit (or wipe out, depending on which type of investment they are angling for) everyone else at some undefined point in the future, and that this reality is reflected in who is hyping AI and who is suffering from its deployment. Workers and small business owners are both facing the same enemy: the Big Tech owners of frontier models, at once forcing genAI onto the labour force and renting their models out at increasingly exorbitant prices.\n\nAdditionally, both supporters and critics speak of genAI as a technology that is here to stay. This inevitability framing benefits C-suites and their shareholders by transferring political agency from people to “the market”, aka the super-rich owners of the technology. Why should workers accept this narrative uncritically?\n\nGenAI is a force with social, economic and mechanical impacts that can be understood, reckoned with, regulated, and prohibited where necessary. Any particular genAI deployment, and its very existence as a widespread technology, should not be taken as a given.\n\nThere have been productivity gains widely touted by AI optimists. We prefer to call it what it is: work intensification. Some commentators have described this as the Jevons paradox.7 The more efficiency is gained, the more job creation is stimulated. This half truth (efficiency gains) is a great lie, to paraphrase Benjamin Franklin.\n\nCompanies are reducing headcounts and avoiding hiring, with the remaining work distributed to fewer workers under tighter deadlines. At first glance, companies are carrying out redundancies (both mass layoffs and small regular redundancy exercises) and claiming this is because “AI is replacing the need for workers.” Workers on the inside report that layoffs are more often to maintain revenue in the face of rising inflation, to increase company valuation by manipulating financial indices, or even to cover the cost of genAI platform subscriptions.\n\nThe element of work which the Jevons paradox actually applies to is text synthesis. If a worker’s only job is to write as much copy as possible with no regard to quality, their job could truly be automated. These so-called AI efficiencies are an excuse to obfuscate a reality where skilled staff are replaced with new tools that do not work well while workers who survive redundancy pick up the ever-intensifying slack.\n\nTaken together, genAI adoption means harder work on less enjoyable tasks, ironically the opposite of AI boosters’ promise that “AI will do the boring tasks and leave the fun ones for humans.”\n\nUltimately, the best-placed people to regulate genAI are the workers who build and use it, because they are the ones who most immediately enjoy any benefits and suffer any consequences. As ordinary working people, tech workers are also not insulated from the technology’s impacts on other parts of society - unlike the billionaires owners of the technology. We reject the debunked premise of “pro-worker AI” 8 and in this report have put forward proposals that are worker-centric.\n\nThe logical conclusion of this report is not a new one, and was eloquently put forward by Wendell Phillips over 150 years ago: labour is entitled to all it creates. If we continue to allow tech barons to arrogate to themselves the power and profit, we will continue to see the worst that genAI can do to exploit and dominate the majority. On the flip side, if we place power over AI technologies in the hands of the workers who create and deploy them, society will reap any rewards while avoiding the harms. Workers should be empowered to control AI at work. We reject the premise of “pro-worker AI” and in this report\n\n“I started enjoying my job again as soon as I stopped using AI to code.”\n\nWorkers described being moved away from intellectually stimulating tasks and into prompting, reviewing and correcting low quality output.\n\nEmployees who code are experiencing a qualitative transformation of their work from problem-solving to supervising LLMs. Many workers said they no longer feel “in the flow” of coding, instead supervising models and evaluating outputs. As often as not, so much reviewing and correction is required to avoid approving poor output that time is lost rather than saved.\n\n“The more you use a coding assistant, the worse you get at doing it yourself.”\n\nDownskilling was a major concern across the board. Workers reported having to look up how to do things they previously would not have needed to after prolonged genAI use. This was especially visible in coding work, but not limited to it.\n\nJunior workers and those without strong foundational skills are becoming overly reliant on tools such as agents and assistants. There is no incentive or time for juniors to learn the necessary technical and critical thinking skills; work intensification means they are increasingly being denied a sounding board to chat through problems. Lacking expertise, they are badly placed to judge LLM output quality.\n\nWhile some senior workers also report downskilling when pushed to use LLMs, some reported feeling more confident in using LLMs as a tool to support their coding, rather than a substitute for their own thinking. Due to their skills being built up before AI proliferation, they are more able to resist cognitive surrender 9. As with juniors however, they also recognised that their ability to review and write the code themselves was degrading with LLM use.\n\n“Because AI aggregates and distills information, often missing important details and nuance, there is no opportunity to learn through exposure and mistakes.”\n\nEmployers are using LLMs as a substitute for training their employees, obscuring gaps in subject-matter expertise and skills. Where LLM research assistants are being mandated, these replace the learning process, leading to unrealistic expectations that someone can become an expert in short order.\n\nThe long-term trajectory is a loss of expertise and skills across the sector. Additionally, proliferation of LLM output in open source libraries means that documentation volume is increasing while quality is degrading, a further obstacle to effective learning for all career levels.\n\n“AI is baked into our KPIs now. Remuneration and bonuses are contingent on AI use.”\n\n– Junior Software Engineer\n\nMonitoring of genAI tool usage by management is widespread, at times to the point of being described as surveillance, and takes diverse forms. Workers report being penalised for not using them enough and for using them too much, sometimes in the same company. Tokens have replaced output quality as a performance metric, linking career progression to tool use at the expense of actual competency. In some cases, work done using genAI is also monitored and evaluated by LLM-based evaluators whose inability to accurately understand human answers leads to unfair performance outcomes.\n\n“We were told to use as many tokens as possible, then my colleague was slapped on the wrist for using too many.”\n\n– Senior Data Engineer\n\nIn most cases, participants reported opaque data collection processes, with a lack of clarity over what usage data is being collected and how it is being analysed. This deepens the asymmetry between staff and managers in performance review and subsequent disciplinary processes, with workers shooting blindly at a bullseye they cannot see.\n\n“Even when it is good, it is not clear that it isn’t still bad overall.”\n\n– Software Developer\n\nParticipants repeatedly challenged the idea that what is good for business is good for society, and asserted that the environmental, psychological and political impacts of adoption must be included in company decisionmaking. Even where a particular tool’s adoption is rational and evidence-based, workers say that externalities are ignored.\n\nMany participants also reported feeling guilt over being mandated to use genAI at work when it contradicts their personal beliefs due to the harms caused by its development and maintenance.10 This cognitive dissonance causes stress that extends beyond the working day for many.\n\n“I want the AI I build to benefit humanity, not to facilitate a genocide.”\n\n– Research Scientist\n\nParticipants from frontier labs, who develop cutting edge models, report a deep anxiety over how their work is used in military settings. Despite multiple internal escalations, external whistleblowing and public protests, research scientists and engineers describe a senior leadership that persistently denies or wilfully ignores the existence and scale of this problem 11.\n\nWorkers raised concerns that the environmental impact of data centre compute (as opposed to human intelligence) is never considered. Workers questioned the underlying logic of burning more fossil fuels so that they can do more work faster and to a poorer standard.\n\n“Nobody was consulted. The new CEO at an all-hands announced 40% layoffs at the same time as announcing going full AI.”\n\nConsultation was absent in most adoptions (with some notable exceptions), both where usage is trivial and wher",
+        "fullTranslation": "UTAW科技工作者调查（UTAW Tech Workers’ Inquiry）概述了生成式人工智能（AI）如何正在重塑整个科技行业的工作形态。该报告由构建、部署、管理、评估及使用该技术的从业人员，结合其自身视角与亲身经历共同撰写。\n本报告亦可下载PDF版本：\n如需联系，请发送邮件至：contact@utaw.tech\n“人工智能”常被广泛用于指代一系列截然不同且在很多情况下相互矛盾的技术组合。尽管该术语缺乏统一共识，但其影响已初现端倪。受访员工将其描述为一股重塑工作的负面力量：推高了产出期望、改变了技能需求、扩大了监控范围、削弱了专业能力、转移了问责主体，并在同事之间制造了隔阂。人工智能应用极少能消除工作负荷；相反，它们在重新分配工作并加剧工作强度。\n工人们强调，正向的应用取决于他们是否具备自主决定如何使用人工智能的能力。核心问题并不单纯在于人工智能是否好用，而在于雇主如何引入、控制、衡量和使用它。简而言之，只有当人们能够自主选择是否以及如何使用它们时，它才具有实用价值。\n调查中指出的问题并非源于现有模型的技术局限。劣质产出、幻觉和低质量代码固然会产生影响，但这仅仅是冰山一角。这是因为雇主正在利用人工智能来加剧工作强度、合理化裁员理由、削减初级岗位招聘、加强监控、降低工人技能水平、将风险转嫁给雇员并削弱其自主权。即使模型不断优化，只要工人们未能在工作场所及整个社会中获得关于人工智能使用方式的法定可执行权利，工作场所中潜在的本质问题就依然存在。\n科技从业者对人工智能在环境、军事和国家监控场景中造成的有害影响，以及对心理健康造成的损害表示出深深的担忧。这正是本调查建议的核心——重点不在于功能本身，而在于谁在控制它、谁从中获益。\n必须切实赋予员工捍卫并拓展其权利的能力。这包括对工作场所中人工智能的引入、使用、监控和评估方式拥有具备强制执行力的权力。\n必须赋予工人在工作中是否或如何使用人工智能工具的最终决定权。选择不使用人工智能的员工绝不能因此受到惩罚。\n唯有能够带来实质问责和有效行动，磋商与透明度才具有意义。没有问责后果的信息披露纯属粉饰太平。\n正在形成的政策导向如下：\n这些提案是对2026年英国工会联合会（TUC）大会上通过的题为《工作场所中的人工智能》综合动议的深化。该动议由通信工人工会（CWU）提出，Aegis附议，并获得了UNISON、全国教育工会（NEU）及商业、零售与相关工人工会（USDAW）的支持。\n我们需要一个具备实质约束力的监管框架，从以下几个维度对雇主和科技公司的人工智能使用行为进行问责：\n在部署人工智能时必须优先考虑技能培训与职业发展，以消除人工智能导致的去技能化与降技能化现象：\n工人必须保留拒绝使用人工智能的权利，且拒绝时必须免受任何报复：\n必须对人工智能的负外部性进行彻底评估与公开披露：\n必须更新《健康与安全法》，将人工智能给工作场所带来的新型心理健康危害纳入考量：\n必须保护工人免受基于其使用（或未使用）生成式人工智能工具完成工作的情况而发起的违纪处分与绩效考核程序的惩罚：\n必须强化裁员保护机制，雇主不得将采用人工智能作为向离岸及外包转移岗位的便利遮羞布：\n必须强制要求雇主让工人实质性参与实施决策：\n本报告从构建、部署、评估、管理和使用这些系统的科技从业者的视角对人工智能展开调研。这是一场由科技行业广大一线员工基于直接经验发起并撰写的工人主导型行动，旨在介入关于人工智能的公众辩论。\n遗憾的是，“人工智能”这一术语并非指代单一技术。它是一个总括性术语，将共同进行商业营销的多种不同技术涵盖在内。正如我们的报告将指出的那样，其中一些技术具有良性的应用场景，而另一些则没有。某些在关于人工智能的公众辩论中占据核心位置的技术甚至根本不存在，并且可能永远不会存在。\n我们的调查基于一个基本前提：科技工作者不仅受到人工智能的影响，更深谙这些系统在实践中是如何构建、引入、监控与使用的。对于任何关于人工智能、劳动与监管的严肃讨论而言，他们的经验都是不可或缺的。\n究竟是谁在塑造我们自以为对人工智能的认知？几乎无一例外，是缺乏技术背景的媒体权威人士，以及拥有人工智能公司的科技企业家。这些企业家有时最初是软件工程师和科学家；但他们始终是极度富有的商业巨贾，坐享人工智能扩散所带来的利益。\n据我们所知，本报告是首个对来自科技行业广泛劳动群体的人工智能经验进行的系统性整合。我们的调查涵盖了英国科技行业的全产业链，包括客户支持人员、科研人员、软件开发人员、网络安全分析师、科技教育工作者等众多岗位。\n我们的工人调查充分依托全产业链员工的技术专长。调研方法务实求真，立足于具体的日常经验，融汇多元工作者的见解，并对底层驱动机制进行深入审视。\n作为一个阶层，负责开发和部署人工智能的劳工群体无疑在此议题上拥有最终的权威。作为一个由已成立工会及正在组建工会的工人组成的群体，本报告中的声音从进步、公平和捍卫弱势群体的立场出发。代表资本对生成式人工智能技术贪婪愿景的科技高管层向来意图清晰：快速行动，破除陈规。然而，被硅谷巨头们所粉碎的“事物”名单源远流长，从莫莉·拉塞尔（Molly Russell）这样的青少年，到刚果东部饱受战争蹂躏的人民皆在此列。作为这套新技术背后的脑力与体力劳动者，科技工作者深感忧虑：人工智能目前的发展并未与人类福祉及地球环境相契合。\n人工智能曾被称为一个“手提箱词汇（suitcase word）”，其包罗万象，几乎可以往里装下任何概念。这种含混不清的语言毫无助益，因为在实践中，人工智能涵盖了一系列截然不同的技术，具备不同的风险、环境影响和益处。具体而言，当人们谈及人工智能对心理健康、网络安全或工作自动化构成的威胁时，通常指的是大语言模型（LLM）和智能体（基于大语言模型的系统）。这些系统能耗最高。\n而当人们谈论人工智能的突破与有益应用时，例如荣获诺贝尔奖的AlphaFold或天气预报模型，所指的完全是另一种技术。这类技术针对特定任务（即狭窄、定义清晰的任务），采用规模较小的模型，其能耗需求微乎其微。\n\n用同一个词来指代这两种技术，会使有关它们各自风险与效益的讨论变得模糊不清。生成式人工智能（genAI）这一术语是一个更为准确的统称，涵盖了大语言模型（LLM）、视觉-语言模型（VLM）以及任何其他基于训练数据合成输出的机器学习技术（包括音频和视频）。4 在本报告中，我们在提及AI时力求做到尽可能精准。\n\n大多数关于AI的辩论都集中在通用人工智能（AGI）上，而这是一种定义模糊、目前并不存在的理论技术。5 这一辩论涵盖了许多问题（例如如何定义AGI、AI末日论者与AI加速主义者的争论、究竟是否应当追求AGI），我们在此不会探讨这些问题，因为它们在很大程度上分散了人们对生成式AI现实应用的注意力。由于缺乏对AGI的明确定义，对其风险的讨论被推迟到了遥遥无期的未来，从而忽视了生成式AI及其日益深入融入社会底层系统所带来的眼前与近期风险。\n\n也许与此有一定关联的是AI乐观派与悲观派之间的辩论。前者认为生成式AI（以及由此延伸出的虚无缥缈的AGI）能够解决世界上最重大的问题，而后者则持相反意见。尽管科技工作者在此问题上并未形成统一观点，但他们对生成式AI最前沿应用的反应普遍持悲观态度。\n\n在实践中，生成式AI本质上是一项自动化技术，正如过去所有的自动化技术一样，效率提升的主要受益者通常是超级富豪企业主。一方面，工作被生成式AI重塑的员工报告称其福祉受到了各种损害。6 另一方面，过去30年的科技繁荣和过去10年的AI泡沫使极少数亿万富翁腰缠万贯，并极大地助推了他们（明显带有极右翼倾向的）政治影响力。与此同时，大多数劳动群众已经连续数年面临年均收入下降的窘境，且数十年来不平等现象急剧恶化。\n\n因此，平心而论，生成式AI目前给亿万富翁带来的切实利益，远超过它许诺在未来某个不确定的时刻给其他人带来的利益（或彻底抹除，具体取决于他们追求的是哪种类型的投资）。这一现实在“谁在炒作AI”与“谁在其落地部署中受害”的对比中得到了生动体现。工人和小微企业主正面临着共同的敌人：前沿模型的大科技公司所有者，他们一边将生成式AI强加给劳动力，一边以日益高昂的离谱价格出租他们的模型。\n\n此外，支持者和批评者在谈论生成式AI时，都将其视作一项注定长期存在的技术。这种“不可避免性”的话语框架为高管层及其股东带来了利益，因为它将政治能动性从人民转移给了“市场”——亦即技术的超级富豪所有者。工人们为何要不加批判地接受这种叙事？\n\n生成式AI是一种具有社会、经济和技术机制影响的力量，这种影响是可以被理解、应对、监管并在必要时予以禁止的。任何特定的生成式AI部署，乃至其作为一项广泛存在的技术本身的合理性，都不应被视为理所当然。\n\nAI乐观主义者大肆吹嘘其带来的生产力提升。我们更愿意直呼其真实本质：劳动强化。一些评论员将其描述为杰文斯悖论（Jevons paradox）。7 效率提升越高，受刺激创造的就业岗位就越多。套用本杰明·富兰克林的名言，这种半真半假的表述（所谓的效率提升）本身就是一个巨大的谎言。\n\n企业正在缩减人员编制并避免招聘，剩余的工作在更加紧迫的截止日期下被分摊给更少的员工。初看起来，企业正在裁员（包括大规模裁员和定期的常规人员精简），并声称这是因为“AI正在取代对工人的需求”。内部员工透露，裁员往往更多是为了在通胀上升的背景下维持营收、通过操纵财务指标拉高公司估值，甚至是用于支付生成式AI平台的订阅费用。\n\n杰文斯悖论真正适用的工作领域是文本合成。如果一个工人的唯一职责是在不顾质量的前提下拼命码字撰写文案，那么他们的工作确实可以被自动化。这些所谓的AI效率不过是一种托词，旨在掩盖这样一个现实：熟练员工被运转不良的新工具所取代，而未被裁撤的幸存工人则不得不承担起日益加重的烂摊子。\n\n综合来看，采用生成式AI意味着在更乏味的任务上付出更加艰辛的劳动，这讽刺地走向了AI鼓吹者“AI将承担枯燥工作，把有趣的留给人类”这一承诺的反面。\n\n归根结底，监管生成式AI的最合适人选是构建和使用它的工人们，因为他们是直接承受其后果或享受其益处的一线人员。作为普通的劳动群众，科技工作者也无法独善其身、免受该技术对社会其他部分造成的冲击——这与坐拥该技术的亿万富翁截然不同。我们拒绝接受已被证伪的“支持工人的AI”前提8，并在本报告中提出了以工人为中心的主张。\n\n本报告的逻辑结论并非什么新鲜事物，早在150多年前温德尔·菲利普斯（Wendell Phillips）就曾做过雄辩的阐述：劳动有权享有其所创造的一切。如果我们继续放任科技寡头将权力和利润据为己有，我们将继续见证生成式AI在剥削和统治大多数人方面所能犯下的最大恶行。反过来说，如果我们把AI技术的掌控权交还给创造和部署它的工人手中，社会便能在规避其危害的同时坐享其红利。工人们应当被赋权在工作中掌控AI。我们拒绝接受“支持工人的AI”这一前提，并在本报告中——\n\n“一旦停止使用AI写代码，我就又开始享受自己的工作了。”\n\n工人们描述称，自己正被迫脱离具有智力启发性的任务，转而从事编写提示词、审核以及修改低质量产出等工作。\n\n从事编程的员工正在经历其工作性质的根本转变：从解决问题变成了监督大语言模型。许多工人表示，他们在写代码时不再能体会到“心流”，而是沦为监督模型和评估产出的看门人。往往由于必须进行大量的审核和修正以防通过劣质代码，时间不减反增。\n\n“你越依赖编程助手，你自己动手的水平就越退化。”\n\n技能退化（Downskilling）已成为普遍担忧的问题。工人们报告称，长期使用生成式AI后，他们不得不去查阅一些以前信手拈来的操作方法。这一现象在编程工作中尤为明显，但远不仅限于编程领域。\n\n初级员工以及缺乏扎实基本功的人员正变得过度依赖智能体（agents）和辅助助手等工具。初级员工既没有动力也没有时间去学习必要的技术和批判性思维技能；工作强度的加剧意味着他们越来越缺乏可以交流探讨问题的倾听对象。由于缺乏专业知识，他们很难对大语言模型（LLM）的输出质量做出准确判断。\n\n尽管一些资深员工也反映在被迫使用大语言模型时出现了技能退化，但也有人表示，他们更有底气将大语言模型作为支持编码的工具，而不是替代自己的思考。由于他们的专业技能建立在AI大范围普及之前，他们更能抵抗“认知屈服”（cognitive surrender）9。然而，与初级员工一样，他们也意识到，随着大语言模型的使用，自己审查和亲自编写代码的能力正在下降。\n\n“因为AI会汇总并提炼信息，往往会遗漏重要的细节和细微差别，让人没有机会通过直接接触和犯错来学习。”\n\n雇主正在用大语言模型替代员工培训，从而掩盖了专业领域知识和技能上的断层。在强制使用大语言模型研究助手的地方，这些工具取代了学习过程，导致了一种不切实际的期望，即认为某人可以在短时间内成为专家。\n\n长期的发展走向是整个行业专业知识与技能的流失。此外，开源库中大语言模型生成内容的泛滥，意味着文档数量虽在增加但质量却在下降，这进一步阻碍了各级别职业人员的有效学习。\n\n“AI现在已经写入了我们的KPI。薪酬和奖金都与AI的使用挂钩。”\n——初级软件工程师\n\n管理层对生成式AI工具使用情况的监控非常普遍，有时甚至被描述为监视，且形式多种多样。员工反映，他们会因为使用不足而受到惩罚，也会因为使用过多而受罚，有时这甚至发生在同一家公司。Token消耗量已经取代输出质量成为一项绩效指标，将职业晋升与工具使用挂钩，代价则是实际工作能力受损。在某些情况下，利用生成式AI完成的工作还会受到基于大语言模型的评估工具的监控和评估，而后者的无法准确理解人类答案往往导致不公正的绩效评价结果。\n\n“我们被要求尽量多用token，接着我的一位同事又因为用得太多而遭到了警告惩罚。”\n——资深数据工程师\n\n在大多数情况下，参与者反映数据收集过程很不透明，对于正在收集哪些使用数据以及这些数据如何被分析缺乏清晰说明。这加深了绩效评估及后续惩戒程序中员工与管理者之间的不对称，员工们宛如盲目地射向一个看不见的靶心。\n\n“即使在某些方面表现良好，也很难说整体上它就不是坏的。”\n——软件开发者\n\n参与者多次对“有利于企业就有利于社会”这一观念提出质疑，并坚持认为采用AI对环境、心理和政治层面的影响必须纳入公司决策考量。即使引入某项特定工具是合理且有事实依据的，员工们也表示外部效应被完全忽视了。\n\n许多参与者还表示，当被迫在工作中使用生成式AI时感到内疚，因为由于其开发和维护过程中造成的危害，这与其个人信念相违背。10 这种认知失调带来的压力对许多人来说已经延伸到了工作时间之外。\n\n“我希望我所构建的AI能够造福人类，而不是助长种族灭绝。”\n——研究科学家\n\n来自开发前沿模型的前沿实验室的参与者表示，他们对自己的工作被用于军事领域感到极度焦虑。尽管经历了多次内部向上反映、外部揭发和公开抗议，研究科学家和工程师们描述称，高管层始终否认或刻意忽视这一问题的存在及其规模 11。\n\n员工们提出担忧，数据中心计算（相对于人类智能而言）对环境的影响从未被考虑过。员工们对消耗更多化石燃料以便能以更低标准更快完成更多工作的底层逻辑提出了质疑。\n\n“没有人被征求过意见。新任CEO在全员大会上宣布全面转向AI的同时，宣布裁员40%。”\n\n在大多数AI技术的引入过程中都缺乏协商与沟通（除了少数值得注意的例外），无论是在使用程度微不足道还是在",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 68,
+        "translationParagraphs": 36,
+        "keyTakeaways": [
+          "UTAW发布了《科技劳动者调查》（Tech Workers’ Inquiry），探讨生成式AI对科技行业工作的影响，基于构建、部署、管理、评估和使用该技术的劳动者经验撰写。",
+          "TUC Congress 2026通过了题为《工作场所中的人工智能》（Artificial Intelligence at work）的综合提案，该提案由CWU提出，Aegis附议，并获得UNISON、全国教育联盟（National Education Union）和USDAW的支持。",
+          "来源叙事重点：从科技从业者基层视角批判生成式AI在工作场所的滥用，指出AI核心问题非技术缺陷而是资方的劳动控制；揭露AI导致工作强度加剧、技能贬值、监控升级及用作裁员/离岸外包借口，主张通过劳工立法赋予员工对AI工具的知情权、拒绝权和决策主导权。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T17:41:35.000Z",
+            "url": "https://techworkersinquiry.org/ai/"
+          }
+        ]
+      },
+      {
+        "id": "story-neycomb-fibers-tiny-html-d85eeff184a90bf5",
+        "title": "短肽组装成蜂窝状纤维，在微小平行通道中锁住水分",
+        "originalTitle": "Short peptides assemble into honeycomb fibers that hold water in tiny parallel channels",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:20:17.000Z",
+        "pubTime": "2026-09-25 02:20",
+        "url": "https://phys.org/news/2026-09-short-peptides-honeycomb-fibers-tiny.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/short-peptide-sequence.jpg",
+        "fullContent": "by Max Planck Society\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\npeer-reviewed publication\n\nHoneycomb-shaped structures are familiar from beehives. Researchers have now designed molecules that self-assemble into a similar pattern on a scale far too small to see with the naked eye. These molecules are peptides: short chains of amino acids, the building blocks of proteins. Each peptide consists of only nine amino acids. Many identical copies assemble into tiny fibers with a honeycomb-like interior filled with water.\n\nThe Max Planck Institute for Polymer Research, the University of Ulm and Ulm University Hospital are involved in the work. The study, with co-first authors Jasmina Gačanin and Francesca Mazzotta, has been published in Nature.\n\n\"The molecules come with their own assembly instructions,\" says Tanja Weil, director at the Max Planck Institute for Polymer Research, who led the study with her colleague Katharina Landfester. \"The crucial step is to understand how such a short peptide sequence gives rise to a much larger, ordered structure.\"\n\nThe researchers designed a short peptide sequence of nine amino acids and studied it in several variants. They found that this amino acid sequence dictates how the peptides arrange themselves. Two peptides pair up, and three meet at each junction. This creates hexagonal rings that join side by side into a honeycomb and stack along the fiber. The resulting fibers have many parallel, continuous channels about five nanometers across.\n\nBy systematically substituting individual segments in the amino acid sequence, the researchers determined which segments are necessary for a honeycomb structure to form.\n\nTo do this, they used a special type of electron microscopy known as cryo-electron microscopy. In this technique, the sample is flash-frozen in a thin layer of ice and imaged in its natural, hydrated state. This allows scientists to determine exactly how neighboring peptides interlock. \"We see not only the resulting honeycomb-shaped pattern, but also the molecular contacts behind it,\" says Landfester.\n\nThe channels are not empty tubes. They are continuously filled with water, which behaves differently from ordinary water. Computer simulations suggest that the water inside is more tightly packed and less mobile than the water outside, and that its hydrogen bonds persist longer.\n\nExperiments support this picture. The researchers dried the fibers under controlled conditions and used infrared spectroscopy to follow how the water escapes. Loosely bound water disappears first, while the more strongly bound water in the channels is retained considerably longer. In a control peptide that forms fibers but no channels, by contrast, the water is lost uniformly. The honeycomb structure itself remains intact during drying.\n\nA single building block makes a difference. Exchanging the amino acid that lines the channel wall changes how tightly the water inside is bound: Depending on the building block, the water is bound either more strongly than ordinary water or to a similar degree. Crucially, the modified peptides continue to form the honeycomb pattern. This makes it possible to tailor the environment inside the channels without changing their hexagonal geometry.\n\nThe results provide a starting point for studying water in very small spaces and exploring potential applications in separating substances or in chemical reactions. Such applications have not yet been demonstrated. For now, the progress lies in a set of proven rules for constructing complex materials from very short molecular chains.\n\nJasmina Gačanin et al, Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils, Nature (2026). DOI: 10.1038/s41586-026-11016-2\n\nJournal information: Nature\n\nProvided by Max Planck Society\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "作者：马克斯·普朗克学会\n编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性：\n经同行评审的出版物\n\n人们对来自蜂巢的蜂窝状结构并不陌生。如今，研究人员设计出了一些分子，能够以肉眼完全无法察觉的微观尺度自组装成类似的图案。这些分子是肽：即构成蛋白质基石的短氨基酸链。每种肽仅由九个氨基酸组成。许多相同的肽分子组装成微小的纤维，其内部呈蜂窝状且充满水分。\n\n马克斯·普朗克高分子研究所、乌尔姆大学以及乌尔姆大学医院参与了这项工作。该研究以亚斯米娜·加查宁（Jasmina Gačanin）和弗朗西斯卡·马佐塔（Francesca Mazzotta）为共同第一作者，已发表在《自然》（Nature）期刊上。\n\n“这些分子自带‘组装说明书’，”马克斯·普朗克高分子研究所所长塔尼娅·韦尔（Tanja Weil）表示，她与同事卡塔琳娜·兰德费斯特（Katharina Landfester）共同领导了这项研究，“关键步骤在于理解如此短的肽序列是如何产生更大、更有序的结构的。”\n\n研究人员设计了一条由九个氨基酸组成的短肽序列，并对其多个变体进行了研究。他们发现，该氨基酸序列决定了肽自身的排列方式。两个肽分子配对，三个肽分子在每个连接点相遇。这就形成了六边形环状结构，它们并排拼接成蜂窝状，并沿着纤维方向堆叠。由此产生的纤维内部拥有许多平行的连续通道，孔径约为五纳米。\n\n通过系统性地替换氨基酸序列中的个别片段，研究人员确定了形成蜂窝状结构所必需的片段。\n\n为了实现这一目标，他们使用了一种被称为冷冻电子显微镜的特殊电子显微技术。该技术将样品速冻在一层薄冰中，并在其自然的含水状态下进行成像。这使科学家能够精确确定相邻肽之间是如何相互锁定的。“我们不仅看到了最终形成的蜂窝状图案，还看到了其背后的分子接触机制，”兰德费斯特说。\n\n这些通道并不是空心管道。它们被水持续填充，而这些水的物理行为与普通水截然不同。计算机模拟表明，通道内部的水分子比外部的水堆积得更紧密、流动性更弱，且其氢键维持的时间更长。\n\n实验印证了这一结论。研究人员在受控条件下干燥纤维，并利用红外光谱跟踪水分逸出的过程。结合松散的水最先消失，而在通道中结合得更紧密的水保留的时间则明显更长。相比之下，在能够形成纤维却无法形成通道的对照组肽中，水分流失得十分均匀。蜂窝状结构本身在干燥过程中保持完好。\n\n单个基石单元就能带来显著差异。更换构成通道壁的氨基酸，会改变其内部水分结合的紧密程度：取决于不同的构建基块，水分要么比普通水结合得更紧密，要么结合程度相近。至关重要的是，改性后的肽仍能继续形成蜂窝状图案。这使得在不改变其六边形几何构型的前提下，对通道内部的环境进行量身定制成为可能。\n\n这些研究结果为在极微小空间中研究水的行为，以及探索其在物质分离或化学反应中的潜在应用提供了一个起点。此类应用目前尚未得到实际验证。就目前而言，这一进展在于确立了一套经过验证的规则，用于利用极短的分子链来构建复杂材料。\n\nJasmina Gačanin 等，《多通道肽纳米原纤维中的序列编码六方点阵》（Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils），《自然》（2026）。DOI: 10.1038/s41586-026-11016-2\n期刊信息：《自然》（Nature）\n由马克斯·普朗克学会提供\n英语硕士，自2021年起担任文字编辑，在高等教育和健康内容领域经验丰富。致力于提供值得信赖的科学新闻。完整资料 →\n数学生物学学士，创意写作硕士。履历丰富，对科学与语言拥有独特见解。完整资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 19,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "研究人员设计了仅由9个氨基酸组成的短肽分子，可自组装成肉眼不可见的微小蜂窝状纤维结构，其内部通道充满水。",
+          "该研究由马克斯·普朗克高分子研究所、乌尔姆大学和乌尔姆大学医院参与完成，共同第一作者为 Jasmina Gačanin 和 Francesca Mazzotta，研究发表在《Nature》上。",
+          "来源叙事重点：报道聚焦于纳米超分子材料的基础科学突破，强调研究团队如何通过设计仅含9个氨基酸的短肽序列，利用分子自组装规则构筑出内部包含5纳米连续储水通道的蜂窝状纳米纤维，并展示了通过改变内壁氨基酸调控通道内水分子特性的机制与潜在应用前景。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:20:17.000Z",
+            "url": "https://phys.org/news/2026-09-short-peptides-honeycomb-fibers-tiny.html"
+          }
+        ]
+      },
+      {
+        "id": "story-economy-2192439-02e77a1e4632f6dc",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russian Finance Ministry sets Hormuz opening scenario for $50/bbl oil price in budget",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:26:37.000Z",
+        "pubTime": "2026-09-25 02:26",
+        "url": "https://tass.com/economy/2192439",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 24. /TASS/. Setting the base oil price in the budget at $50 per barrel means that the Russian Ministry of Finance is already factoring an open Strait of Hormuz scenario into its forecast, Igor Yushkov, an expert from the Financial University and the National Energy Security Fund, told TASS.\n\n\"The Ministry of Finance has taken a very conservative approach to assessing future oil and gas revenues, making it a bet on stability,\" the expert noted. \"Essentially, the Ministry of Finance is now factoring in a Strait of Hormuz opening scenario to ensure it does not depend on this factor,\" he said.\n\nThe global oil market was highly volatile in 2026, Yushkov said. In January, the price of Russian Urals crude stood at $41 per barrel, but in March, following the closure of the Strait of Hormuz, it jumped to $77, after which prices fluctuated sharply amid Middle East instability.\n\nThe ministry in this connection is deliberately budgeting a rather low oil price to mitigate the risks of unexpected deficits and the need to revise the budget throughout the year, the expert added.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 4,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯财政部在预算中将基准石油价格设定为每桶50美元。",
+          "2026年1月，俄罗斯乌拉尔原油价格为每桶41美元。",
+          "来源叙事重点：强调俄罗斯财政部采取极为保守稳健的预算编制策略，主动以50美元/桶的偏低基准油价防范未来地缘政治与国际油价波动风险，并将这一设定解读为已提前计入霍尔木兹海峡重新开放的下行情景。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:26:37.000Z",
+            "url": "https://tass.com/economy/2192439"
+          }
+        ]
+      },
+      {
+        "id": "story-k-oled-monitor-deal-sale-9b5e89853cf3aec4",
+        "title": "令人无奈的是，这台售价 1549 美元的 RTX 5070 游戏整机确实很划算",
+        "originalTitle": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:19:23.000Z",
+        "pubTime": "2026-09-25 02:19",
+        "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/CyberPowerPC-Gaming-PC-Intel-Core-i7-14700KF-NVIDIA-GeForce-RTX-5070-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "CyberPowerPC’s RTX 5070-equipped prebuilt.\n\nWhile PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by an Intel Core i7-14700KF processor, and paired with 32GB of 6000MHz DDR5 memory and an Nvidia RTX 5070 Founders Edition with 12GB of VRAM. The case is a CyberPowerPC MA-O1 , an in-house design with extensive cooling options and three dedicated knobs for adjusting internal RGB lighting colors.\n\nCyberPowerPC (Core i7/RTX5070)\n\n$2139.99 $1549 at Walmart\n\nWhile it might not feel like it at first blush, this is a solid value for a gaming PC that’s ready to rock out of the box. The RTX 5070 in this machine is likely to run you upwards of $800 by itself at the moment ( it launched in 2025 for $549 ), and 32GB of fast memory can be $400 or more. For just a small premium, you get those components packed into a nice case with a panoramic glass panel and a 1TB PCIe 4.0 SSD inside. The whole kit is tested, with a one year warranty for parts and labor. It also includes a keyboard and mouse, so you can start gaming right away once it arrives.\n\nOther deals to consider\n\nIf you need a gaming monitor with spectacular colors and clarity to go with your new gaming PC, Newegg has the ASRock PGO27QSA-W discounted to $299.33, a significant discount from its original price of $476. This 27-inch screen supports 1440p resolution, a 240Hz refresh rate with FreeSync Premium for variable refresh rate, and an OLED panel for deep black levels.\n\nA two pack of Anker Zolo MagSafe wireless chargers is discounted to $25.99 at Amazon , where it would normally cost $39.99. Each charger is Qi2 certified, with support for up to 15W of charging power, and includes a five-foot cable for convenient positioning on your desk or nightstand. You’ll have to use your own wall charger, though.\n\nThe Nintendo Customer Appreciation sale is live until September 26th at 8:59 PM PT, and is a great time to pick up an extra set of controllers, among other game and accessory deals . The Switch Pro Controller is only $56 (usually around $70) at both Amazon and Best Buy , and a duo of Joy-Con are only $62.99 at Best Buy , although only the pastel purple and green combo are currently in stock. The controllers are compatible with both the original Switch and Switch 2, although owners of the newer console will need a separate charger , and they won’t wake the system from sleep.",
+        "fullTranslation": "CyberPowerPC 搭载 RTX 5070 的品牌整机。\n\n在 PC 硬件配件价格居高不下的当下，购买品牌整机可以为你节省不少开销。沃尔玛目前正在对一款配置出色的 CyberPowerPC 游戏主机进行促销，售价为 1,549 美元，比原价 2,139 美元便宜了近 600 美元。该主机搭载英特尔酷睿 i7-14700KF 处理器，配备 32GB 6000MHz DDR5 内存以及拥有 12GB 显存的英伟达 RTX 5070 Founders Edition 显卡。机箱采用 CyberPowerPC 自主设计的 MA-O1，具备丰富的散热方案，并配有三个用于调节内部 RGB 灯效颜色的专用旋钮。\n\nCyberPowerPC（酷睿 i7 / RTX 5070）\n沃尔玛售价：原价 2139.99 美元，现价 1549 美元\n\n尽管初看可能不觉得，但对于一台到手即用的游戏电脑而言，这确实物有所值。目前单买这款机器里的 RTX 5070 显卡可能就要花费超过 800 美元（该卡于 2025 年发售时定价为 549 美元），而 32GB 的高频内存售价可能也在 400 美元或更高。只需支付一点点额外溢价，你就能拥有装在配备全景玻璃侧透面板的精致机箱中的整套配件，并内置 1TB PCIe 4.0 SSD。整机经过出厂测试，享有涵盖零部件与人工的一年质保。此外还附赠键鼠套件，到货后即可直接开玩。\n\n其他值得关注的特惠\n\n如果你需要一台色彩出众且清晰度极佳的游戏显示器来搭配新电脑，新蛋网（Newegg）的华擎（ASRock）PGO27QSA-W 现已降至 299.33 美元，较其 476 美元的原价有大幅优惠。这款 27 英寸显示器支持 1440p 分辨率、具备 FreeSync Premium 可变刷新率技术的 240Hz 刷新率，并采用能够呈现深邃黑色表现的 OLED 面板。\n\n亚马逊上一套两件装的安克（Anker）Zolo MagSafe 磁吸无线充电器降价至 25.99 美元，原价通常为 39.99 美元。每个充电器均通过 Qi2 认证，最高支持 15W 充电功率，并附带一条 5 英尺长的线缆，方便放置在书桌或床头柜上。不过，你需要自备充电插头。\n\n任天堂客户答谢优惠活动将持续至太平洋时间 9 月 26 日晚上 8 点 59 分，除了游戏和配件特惠外，这也是增购手柄的绝佳时机。Switch Pro 手柄在亚马逊和百思买（Best Buy）的售价均降至 56 美元（平时约 70 美元），百思买上一对 Joy-Con 手柄售价仅为 62.99 美元，不过目前仅淡紫色加绿色组合有现货。这些手柄均兼容初代 Switch 和 Switch 2，但新主机的用户需要单独配备充电器，且这些手柄无法唤醒处于睡眠模式的系统。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 8,
+        "keyTakeaways": [
+          "沃尔玛对配备 RTX 5070 的 CyberPowerPC 游戏主机促销，售价为 1,549 美元，较原价 2,139 美元（或标示的 2,139.99 美元）降价近 600 美元。",
+          "该 CyberPowerPC 游戏主机搭载英特尔酷睿 i7-14700KF 处理器、32GB 6000MHz DDR5 内存、配有 12GB 显存的英伟达 RTX 5070 Founders Edition 显卡、1TB PCIe 4.0 SSD，并采用配备全景玻璃面板与三个内部 RGB 调节旋钮的 CyberPowerPC MA-O1 机箱，附带键盘、鼠标以及一年零件与人工保修。",
+          "来源叙事重点：在当前独立硬件零售价格持续高企的背景下，对比自行组装的高昂溢价，论证整机预装电脑（如配备 RTX 5070 的 CyberPowerPC 主机）具有高性价比，并汇总其他数码产品特惠交易。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:19:23.000Z",
+            "url": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale"
+          }
+        ]
+      },
+      {
+        "id": "story--what-can-we-do-a9464325-6194f9b1c01f1560",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:17:00.000Z",
+        "pubTime": "2026-09-25 02:17",
+        "url": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“We are relying on our church for our current needs.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 02:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-24T18:17:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ars-for-autism-diagnosis-a865f7788037e062",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘Her mental health deteriorated’: family forced to wait years for autism diagnosis",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T17:39:17.000Z",
+        "pubTime": "2026-09-25 01:39",
+        "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis",
+        "imageUrl": "https://i.guim.co.uk/img/media/fd5bd10a43cee025a44ab3f576aed72b500058a0/213_0_3781_3024/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=8bd72041ca1f99999b83a7657d31bce9",
+        "fullContent": "A mother describes the frustration of endless waiting lists and difficulties getting appointments so her teenage daughter can get the help she requires\n\nFor Rosalyn, the battle for an official autism diagnosis for her 14-year-old daughter, Imogen, has been intense, deeply frustrating and has lasted five and a half years.\n\nThat Rosalyn has three other children who have autism diagnoses meant she was acutely aware of the signs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "母亲罗莎琳（Rosalyn）为其14岁的女儿伊莫金（Imogen）寻求官方自闭症诊断的过程持续了五年半。",
+          "罗莎琳另外还有三个孩子被诊断患有自闭症。",
+          "来源叙事重点：聚焦患儿家庭在公立医疗系统中面临的漫长等待名单和预约困境，通过母亲历时五年半为女儿争取自闭症诊断的个案，强调医疗诊断延误给青少年心理健康及家庭带来的重压与挫败感"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T17:39:17.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis"
+          }
+        ]
+      },
+      {
+        "id": "story--ice-annual-minimum-html-ea71bd4889b48978",
+        "title": "北极海冰达到2026年度最小覆盖范围",
+        "originalTitle": "Arctic Sea ice reaches 2026 annual minimum extent",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:20:14.000Z",
+        "pubTime": "2026-09-25 02:20",
+        "url": "https://phys.org/news/2026-09-arctic-sea-ice-annual-minimum.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/arctic-sea.jpg",
+        "fullContent": "by James Riordon, NASA\n\nedited by Gaby Clark, reviewed by Robert Egan\n\nThis article has been reviewed according to Science X's editorial process and policies. Editors have highlighted the following attributes while ensuring the content's credibility:\n\nArctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010 and 2025 for the 10th-lowest minimum in the satellite record.\n\nThe 2026 minimum is consistent with patterns observed in the satellite record. The past 20 years, from 2007 through 2026, have produced the 20 lowest annual Arctic sea ice minimum extents observed since continuous satellite measurements began in late 1978.\n\nArctic sea ice grows during the dark, cold autumn and winter and retreats as temperatures rise during spring and summer, typically reaching its lowest extent in September. Weather conditions can cause substantial differences in the amount of ice that melts from one summer to another.\n\nOver the last decade, for example, increased cloud cover has prevented solar radiation from further accelerating the melt of sea ice, according to Linette Boisvert, a sea ice scientist at NASA's Goddard Space Flight Center in Greenbelt, Maryland.\n\nThat has contributed to relatively stable September sea ice extent in recent years. \"We've plateaued, but we're still low relative to the earlier part of the record,\" said Walt Meier, a senior research scientist at NSIDC.\n\nAt the opposite end of the planet, Antarctic sea ice is approaching its annual maximum following a fluctuation during August.\n\nSea ice around Antarctica declined by roughly 116,000 square miles (300,000 square kilometers) over a six-day period before resuming its seasonal growth. Meier said the decline appeared to be associated with weather conditions that pushed and compacted the thin, mobile ice near its outer edge.\n\n\"Those types of things happen all the time,\" Meier said. \"But the magnitude of it is certainly unusual.\"\n\nAntarctic sea ice varies more from year to year than Arctic sea ice because, in contrast to the Arctic, it is not surrounded by land and can respond more freely to changing wind and weather conditions. But Antarctic sea ice extent at its annual maximum has generally been lower in recent years. Because of this large year-to-year variability, Boisvert and Meier remain cautious about characterizing the change as a long-term trend.\n\nScientists have tracked polar sea ice from space for nearly five decades. During that time, NASA and the National Oceanic and Atmospheric Administration (NOAA) used a series of satellite instruments to maintain a continuous sea ice record, beginning with NASA's Nimbus-7 satellite, which began observations in October 1978.\n\nThe record continued with instruments aboard Defense Meteorological Satellite Program satellites beginning in 1987 and NASA's Aqua satellite from 2002 to 2011. Today, scientists continue the record using data from the Advanced Microwave Scanning Radiometer 2 (AMSR2), launched in 2012 aboard JAXA's (Japan Aerospace Exploration Agency) GCOM-W satellite.\n\nAntarctic sea ice typically reaches its annual maximum in late September or early October. NASA and NSIDC will announce the 2026 maximum after scientists confirm that seasonal ice growth has ended.\n\nMA in English, copy editor since 2021 with experience in higher education and health content. Dedicated to trustworthy science news. Full profile →\n\nBachelor's in mathematical biology, Master's in creative writing. Well-traveled with unique perspectives on science and language. Full profile →",
+        "fullTranslation": "作者：詹姆斯·赖尔登（James Riordon），美国国家航空航天局（NASA）\n编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）\n本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性：\n\n根据美国国家航空航天局（NASA）与科罗拉多大学博尔德分校的国家冰雪数据中心（NSIDC）的数据，北极海冰于9月12日达到了年度最小覆盖范围。海冰覆盖面积估计为178万平方英里（460万平方公里），与2008年、2010年和2025年并列为卫星记录中第10低的最小值。\n\n2026年的最小值与卫星记录中观察到的规律相吻合。从2007年到2026年的过去20年间，出现了自1978年底开始连续卫星测量以来所观测到的20个最低的北极海冰年度最小范围。\n\n北极海冰在黑暗寒冷的秋冬季增长，随着春夏季气温升高而消退，通常在9月份达到其最小范围。不同年份夏季之间的天气条件可能会导致海冰融化量出现显著差异。\n\n例如，马里兰州格林贝尔特的NASA戈达德太空飞行中心的海冰科学家利内特·博斯韦尔（Linette Boisvert）表示，在过去十年中，云层覆盖的增加阻止了太阳辐射进一步加速海冰融化。\n\n这促进了近年来9月份海冰覆盖范围的相对稳定。NSIDC高级研究科学家沃尔特·迈耶（Walt Meier）表示：“我们进入了平台期，但与有记录以来的早期相比仍然处于较低水平。”\n\n在地球的另一端，南极海冰在经历8月份的波动后，正在接近其年度最大覆盖范围。\n\n南极周边的海冰在六天内减少了约11.6万平方英里（30万平方公里），随后恢复了季节性增长。迈耶表示，这一下降似乎与天气条件有关，天气推动并压实了靠近外缘的较薄且易移动的浮冰。\n\n“这种情况经常发生，”迈耶说，“但其幅度确实不同寻常。”\n\n南极海冰的年际变化比北极海冰更大，因为与北极不同，南极并未被陆地包围，能够对变化的风和天气条件做出更自由的响应。但近年来，处于年度最大值时的南极海冰范围普遍较低。由于这种巨大的年际变化，博斯韦尔和迈耶在将这一变化定性为长期趋势时依然保持谨慎。\n\n科学家从太空追踪极地海冰已有近五十年。在此期间，NASA和美国国家海洋和大气管理局（NOAA）利用一系列卫星仪器维持了连续的海冰记录，始于NASA的“雨云-7号”（Nimbus-7）卫星，该卫星于1978年10月开始观测。\n\n该记录随后由自1987年开始的国防气象卫星计划（DMSP）搭载仪器以及2002年至2011年的NASA Aqua卫星继续延续。如今，科学家通过2012年搭载于日本宇宙航空研究开发机构（JAXA）GCOM-W卫星上发射的高级微波扫描辐射计2（AMSR2）的数据继续维持该记录。\n\n南极海冰通常在9月下旬或10月上旬达到年度最大值。NASA和NSIDC将在科学家确认季节性海冰增长停止后公布2026年的最大值。\n\n英语硕士，自2021年起担任文字编辑，在高等教育与健康领域内容方面拥有丰富经验。致力于提供可信赖的科学新闻。完整资料 →\n数学生物学学士，创意写作硕士。履历丰富，在科学和语言方面拥有独特见解。完整资料 →",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "2026年9月12日，北极海冰达到年度最小范围，预估覆盖面积为178万平方英里（460万平方公里）。",
+          "2026年北极海冰最小范围与2008年、2010年和2025年并列为卫星记录中第10低的最小值。",
+          "来源叙事重点：基于近50年连续卫星观测数据，报道2026年北极海冰达到年度最小范围（与历年并列历史第10低）及过去20年持续偏低的长期态势，同时对比观察南极海冰的异常短期波动与高变异性。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:20:14.000Z",
+            "url": "https://phys.org/news/2026-09-arctic-sea-ice-annual-minimum.html"
+          }
+        ]
+      },
+      {
+        "id": "story-sports-2192437-a719de69be7a9fa4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Russia’s Prozorova advances to Round 3 of 2026 WTA Singapore Open",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:25:15.000Z",
+        "pubTime": "2026-09-25 02:25",
+        "url": "https://tass.com/sports/2192437",
+        "imageUrl": null,
+        "fullContent": "MOSCOW, September 24. /TASS/. /TASS/. Russia's Tatyana Prozorova has advanced to Round 3 of the 2026 Singapore Open Tennis tournament after defeating Alexandra Eala from the Philippines.\n\nThe unseeded Russian athlete, who is playing under a neutral status at the international tournaments, outplayed Eala 4-6; 7-5; 6-3. She is now to play in the next round against Xinyu Wang of China.\n\nProzorova, 22, is currently 180th in the Women Tennis Association (WTA) Rankings. She has not won any of the WTA titles and her best result at the Grand Slam tournaments series was to qualify for the 2023 US Open, where she failed to clear the opening round.\n\nThe 2026 Singapore Open is the WTA 500 class tournament played on hard courts of the OCBC Arena in Singapore on September 21-27 and it offers over $1.2 million in prize money.\n\nOn February 28, 2022, the International Olympic Committee (IOC) issued recommendations to international sports federations to exclude athletes from Russia and Belarus from taking part in international tournaments, citing Moscow's special military operation in Ukraine as the reason.\n\nFollowing the IOC's recommendations in late February 2022, the majority of global sports federations decided to exclude athletes from Russia and Belarus from all international sports tournaments.\n\nThe International Tennis Federation (ITF) ruled on March 1, 2022 to suspend the membership of the Russian and Belarusian national tennis federations while also scrapping all previously scheduled tennis tournaments in the two countries.\n\nOn March 14, 2022, the ITF also confirmed its prohibition on the Russian and Belarusian national tennis teams from taking part in the 2022 Davis Cup and 2022 Billie Jean King Cup.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 8,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "俄罗斯网球运动员塔季扬娜·普罗佐罗娃（Tatyana Prozorova）击败菲律宾选手亚历山德拉·埃亚拉（Alexandra Eala），晋级2026年新加坡网球公开赛第三轮。",
+          "普罗佐罗娃以中立身份参赛，以4-6、7-5、6-3的比分战胜埃亚拉，下一轮将对阵中国选手王欣瑜（Xinyu Wang）。",
+          "来源叙事重点：报道俄罗斯本土网球运动员在国际巡回赛中的竞技突破，同时例行化嵌入针对俄罗斯体育受国际制裁背景的固定官方叙事（强调中立身份背景及2022年起国际体育组织的制裁历史）"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:25:15.000Z",
+            "url": "https://tass.com/sports/2192437"
+          }
+        ]
+      },
+      {
+        "id": "story-ico-stargate-data-center-8e953b62eee23ddb",
+        "title": "甲骨文就其新墨西哥州“星际之门”数据中心发出不可抗力通知",
+        "originalTitle": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:11:44.000Z",
+        "pubTime": "2026-09-25 02:11",
+        "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "imageUrl": null,
+        "fullContent": "Oracle has sent a force majeure notice to the developer of Project Jupiter, a Stargate data center campus in New Mexico, Bloomberg first reported Thursday.\n\nForce majeure clauses, common in energy and commodities contracts, excuse a party from contractual obligations when events outside its control get in the way. Oracle is not seeking to exit as the campus’s main tenant, according to Bloomberg’s sources. Instead, the notice would allow the company to delay payments should the facility miss its 2028 target to come online.\n\nThe notice also comes as AI data center construction faces growing scrutiny nationally, and as developers take on steep costs to build capacity for customers like OpenAI.\n\nOracle maintains that it does not expect a delay. “Project Jupiter remains on our planned schedule,” Oracle said in a statement to CNBC. “We are fully committed to New Mexico and confident in our path forward.”\n\nBlue Owl Capital, whose unit received the notice, said in its own statement to CNBC that “this notice does not change the financial commitments to this multi-year project.”\n\nNeither Oracle nor Blue Owl immediately responded to TechCrunch’s requests for comment.\n\nStill, the notice follows a string of setbacks at the site, many of them tied to its energy supply. The campus, designed to handle 2.45 gigawatts, is meant to run on gas-powered fuel cells from Bloom Energy, which makes a reliable gas supply central to its timeline\n\nAn Energy Transfer pipeline intended to deliver gas to the site has also been delayed nearly six months, to Feb. 1, 2027, after regulators repeatedly denied permits for the line. In August, Bloomberg reported that the pipeline’s route had been changed following those rejections. A separate air quality permit for the fuel cell system that would power the campus is also pending. The state’s environment department faces a Nov. 23 deadline to decide.\n\nProject Jupiter is one of the flagship sites of Stargate, the AI infrastructure initiative Oracle, OpenAI and SoftBank announced with President Donald Trump early in his second term. The campus has drawn opposition from residents and environmental groups and has become a political flashpoint ahead of the midterm elections. Oracle has responded with a public outreach campaign in the state aimed at winning over the project’s critics, according to Bloomberg.\n\nWhen you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nAnthropic says its biology lab has already found something big\n\nPitPro’s first tire-changing robot goes live in Canada\n\nAnthropic releases Opus 5.5 with lower prices and Fable-level performance\n\nMeta’s Muse is outpacing ChatGPT’s early mobile launch\n\nTilly Norwood’s press tour is going about as well as you’d expect for an AI\n\nAnthropic is operating a lab that conducts biology experiments\n\nA new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "fullTranslation": "据彭博社周四率先报道，甲骨文已向“木星项目”（Project Jupiter）的开发商发出不可抗力通知。该项目是位于新墨西哥州的一座“星际之门”（Stargate）数据中心园区。\n\n不可抗力条款常见于能源和大宗商品合同。当不受当事方控制的事件妨碍履行合同时，这类条款可使一方免于承担合同义务。据彭博社援引的消息人士称，甲骨文并不是要退出、放弃其作为该园区主要租户的身份。相反，如果该设施未能实现于2028年上线的目标，这份通知将允许甲骨文推迟付款。\n\n这份通知发出之际，美国各地对人工智能数据中心建设的审查日益加强；与此同时，开发商正承担高昂成本，为OpenAI等客户建设容量。\n\n甲骨文表示，公司预计不会出现延误。甲骨文在给美国消费者新闻与商业频道（CNBC）的一份声明中说：“木星项目仍按我们的计划推进。我们完全致力于新墨西哥州，并对未来的发展路径充满信心。”\n\n收到这份通知的蓝猫资本（Blue Owl Capital）旗下部门在给CNBC的另一份声明中表示：“这份通知不会改变我们对这一多年期项目所作的财务承诺。”\n\n甲骨文和蓝猫资本均未立即回应TechCrunch的置评请求。\n\n不过，这份通知是在该项目地点接连遭遇一系列挫折之后发出的，其中许多问题都与能源供应有关。该园区的设计容量为2.45吉瓦，计划使用Bloom Energy生产的燃气燃料电池供电，因此可靠的天然气供应对项目进度至关重要。\n\n一条原计划向该地点输送天然气的Energy Transfer管道也已延误近六个月，推迟至2027年2月1日。此前，监管机构多次拒绝为该管道颁发许可。今年8月，彭博社报道称，在许可遭拒后，该管道的路线已发生改变。为园区提供电力的燃料电池系统所需的另一项空气质量许可也仍在等待审批。该州环境部门须在11月23日前作出决定。\n\n木星项目是“星际之门”计划的旗舰项目之一。甲骨文、OpenAI和软银在美国总统唐纳德·特朗普第二任期初期宣布了这项人工智能基础设施计划。该园区遭到当地居民和环保组织的反对，并在中期选举前成为政治争议焦点。据彭博社报道，甲骨文已在该州开展公共沟通活动，旨在争取该项目批评者的支持。\n\n当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。\n\n您下一次重要的交流机会就在Disrupt。与超过1万名创始人、风险投资人、企业运营者和科技领袖建立联系。探索未来的突破，了解当今正在塑造科技行业的力量，并在太平洋时间9月25日晚上11时59分前报名，最高可节省200美元。\n\nAnthropic称，其生物学实验室已经取得重大成果\n\nPitPro首台换胎机器人在加拿大投入使用\n\nAnthropic发布Opus 5.5：价格更低，性能达到Fable级别\n\nMeta的Muse在移动端上线初期的表现超过了ChatGPT\n\nTilly Norwood的媒体巡回宣传表现，正如你对一款人工智能产品所能预期的那样\n\nAnthropic正在运营一个开展生物学实验的实验室\n\n一名ChatGPT发明者开发的新型人工智能模型令开发者兴奋不已",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 18,
+        "translationParagraphs": 18,
+        "keyTakeaways": [
+          "甲骨文（Oracle）向位于新墨西哥州的 Stargate 数据中心园区“木星计划”（Project Jupiter）的开发商发出了不可抗力通知。",
+          "甲骨文并未寻求退出作为该园区主要租户的身份，该通知将允许甲骨文在该设施未能在2028年如期上线的情况下推迟付款。",
+          "来源叙事重点：聚焦甲骨文就新墨西哥州 Stargate AI 数据中心发出不可抗力通知的法律与商业防御动作，强调供应链（天然气管道延误）、环保审批障碍以及政治争议给大规模 AI 基础设施带来的实际交付风险与成本挑战。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T18:11:44.000Z",
+            "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
+          }
+        ]
+      },
+      {
+        "id": "story-market-beatdown-ec8fda43-d7d526301585203c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here are 3 alternatives for investors looking to dodge the bond-market beatdown",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T18:07:00.000Z",
+        "pubTime": "2026-09-25 02:07",
+        "url": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "U.S. stocks have kept chugging higher this year, but bonds haven’t been able to shake off a five-year slump. That has sent some investors interested in a diversified portfolio searching for alternatives.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 02:07 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-24T18:07:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-iction-market-polymarket-ebd87b80d64a80ed",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New York sues prediction market Polymarket, calling it an unlicensed gambling operation",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T17:17:13.000Z",
+        "pubTime": "2026-09-25 01:17",
+        "url": "https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/",
+        "imageUrl": "https://external-preview.redd.it/B-EsRAjWhcyep-cUfwUNStSuWH-CWUsE70tI50DIp9E.jpeg?width=640&crop=smart&auto=webp&s=3b01381d912029d0ffb78c7a5d1c539191d2da13",
+        "fullContent": "submitted by /u/Immediate-Link490 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-25 01:17 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/",
+            "publishedAt": "2026-09-24T17:17:13.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790257164758,
     "timeDisplay": "2026-09-24 21:39 (UTC+8)",
     "date": "2026-09-24",
