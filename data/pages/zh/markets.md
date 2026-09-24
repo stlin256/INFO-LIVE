@@ -16,196 +16,477 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-counted-iraqi-crude-html-071328a5f2d72b1e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="761" data-content-paragraphs="6" data-published-at="2026-09-24T17:30:00.000Z" data-time-source="publication">
+<div id="story-t-lower-fuel-prices-html-591f332ef5d1ac0e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1928" data-content-paragraphs="10" data-published-at="2026-09-24T22:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="dimension-pill">⚡ 战略能源与气候</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 01:30</span>
+  <span class="news-meta-time">🕒 2026-09-25 06:00</span>
 </div>
 
-### [维多大举购入2500万桶折价伊拉克原油](https://oilprice.com/Latest-Energy-News/World-News/Vitol-Scoops-Up-25-Million-Barrels-of-Discounted-Iraqi-Crude.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Vitol Scoops Up 25 Million Barrels of Discounted Iraqi Crude</div>
+### [为何美国禁止柴油出口无法平抑燃料价格](https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices</div>
 
-<div class="article-body" data-article-body="true"><p>维多公司（Vitol）已购买了至少2500万桶定于9月份装载的伊拉克原油。这使得这家全球最大的独立石油贸易商成为仅次于阿布扎比国家石油公司（ADNOC）的伊拉克第二大买家，而巴格达方面正通过大幅折扣来维持原油通过霍尔木兹海峡的流动。据路透社查阅的一份招标文件显示，伊拉克国家石油营销组织（SOMO）按较其官方售价每桶贴水15至20.80美元的折扣供应9月原油。贸易消息人士表示，部分货运批次的折价幅度甚至更大。</p>
-<p>巨额折扣换取了伊拉克当前极为紧缺的资源——船只。伊拉克自身没有大型油轮船队，其绝大部分原油均从波斯湾深处的南部港口码头运出。穿行霍尔木兹海峡的油轮通行量仍远低于战前水平，且由于船东向该地区派遣船只的要价大幅上涨，导致运费成本暴增。</p>
-<p>据路透社消息人士透露，维多购买了2500万至3000万桶9月装运的原油。ADNOC在8月份获配3200万桶（最终提取了约2000万桶）后，同意在9月份再购买4000万桶。这些买家拥有伊拉克所缺乏的物流体系支持。ADNOC一直在将霍尔木兹海峡内部的原油运出，通过富查伊拉（Fujairah）和苏哈尔（Sohar）的码头转售，而维多则运营着全球最大的石油贸易和航运网络之一。</p>
-<p>伊拉克南部港口的原油出口量在8月份平均为每日235万桶，9月份迄今已升至每日约260万桶。在巴格达方面提出请求后，伊朗也在8月份开始放行部分装载伊拉克原油的油轮通过霍尔木兹海峡。</p>
-<p>伊拉克正在努力开辟另一条出路。本月早些时候，该国开始通过卡车将南部原油向北运往基尔库克，以便通过土耳其的杰伊汉港（Ceyhan）出口。该试点运输在两天内使用209辆油罐车仅运送了约3.8万桶原油，而北部管线常规输送量则接近每日20万桶。</p>
-<p>Oilprice.com 记者 朱丽安·盖格（Julianne Geiger）</p></div>
+<div class="article-body" data-article-body="true"><p>随着全美平均柴油价格飙升至创纪录的每加仑6.52美元，特朗普政府本周在是否限制美国柴油出口的问题上释放出相互矛盾的信号。尽管美国总统唐纳德·特朗普和财政部长斯科特·贝森特（Scott Bessent）在数小时前曾暗示过这种可能性，白宫随后否认正在酝酿出口禁令。有关柴油出口禁令的传言和报道引发了美国能源及制造业界的强烈反对，分析人士也表示，限制出口将是一种适得其反的举措，实际上会进一步推高美国国内燃料价格，并削弱美国在经济和地缘政治上的实力。</p>
+<p>柴油价格为何飙升</p>
+<p>尽管霍尔木兹海峡的通航流量有所回升，但在估计高达1000万桶/日的出境运输量中，仅有100万桶/日属于成品油，其余均为原油。由于伊朗对炼油厂的袭击以及通过霍尔木兹海峡的燃料运输仅呈细流状态，中东地区的炼油产能受到严重制约。此外，由于乌克兰对俄罗斯炼油厂发动无人机袭击，俄罗斯的产能也受到严重限制。俄罗斯已在9月底前禁止柴油出口，并有可能将禁令延长至10月。美国主要炼油商的高管估计，数月来已有700万至800万桶/日的石油产品撤出市场，从而收紧了全球燃料供应，尤其是柴油供应。</p>
+<p>菲利普斯66公司（Phillips 66）负责营销与商业的高级副总裁布莱恩·曼德尔（Brian Mandell）在8月初的第二季度财报电话会议上表示：“由于俄罗斯和中东面临的种种问题，炼油基本面非常紧张，且正变得更加严峻。我们在亚洲和中东有700万桶/日的炼油产能停摆，在俄罗斯还有140万桶/日停摆。视受损情况以及获取零部件的能力而定，这些炼油厂将需要很长一段时间才能恢复运营。”国际能源署（IEA）在9月份的月度报告中表示，8月份全球炼油厂加工量达到了8140万桶/日的夏季峰值，环比增长96万桶/日；但该峰值比去年同期低了420万桶/日，产能损失遍布中东、俄罗斯以及亚洲的原油进口经济体。</p>
+<p>为何美国实施出口禁令会适得其反</p>
+<p>在全球燃料告急、美国柴油价格创历史新高的背景下，以爱荷华州参议员查克·格拉斯利（Chuck Grassley）为首的部分共和党参议员呼吁禁止柴油出口，因为创纪录的高油价正在重创美国农民和卡车司机。白宫以及前石油高管、现任能源部长克里斯·赖特（Chris Wright）排除了实施柴油出口禁令的可能性，尽管特朗普总统和财政部长贝森特对这一想法持开放态度，并在数小时前表示政府正在评估禁令的可行性。“禁止柴油出口这一生硬的手段绝对行不通，”赖特周三表示，“如果无法出口我们炼油厂产出的柴油，存储空间就会耗尽，就不得不削减美国的炼油开工量，而这会对汽油价格和航空煤油价格带来上涨压力。”</p>
+<p>美国商界、能源界和制造业协会支持赖特部长的观点，并在由包括美国石油学会（API）、美国燃油与石化制造商协会（AFPM）、全美制造商协会（NAM）以及美国商会（U.S. Chamber of Commerce）在内的数十家行业协会联名签署的信件中，敦促特朗普总统放弃限制燃料出口的想法。各行业协会在信中写道：“出口禁令将导致燃料产量减少、供应进一步收紧，并推高美国家庭、农民和卡车司机的成本。我们——实际上也包括燃料市场上的几乎所有专家——完全赞同赖特部长和伯古姆（Burgum）部长的看法，即出口禁令将迫使炼油厂降低开工率，推高汽油和航空煤油的价格，并招致其他国家的报复性反制。”</p>
+<p>AFPM上周在题为《为何柴油出口禁令会适得其反》的简短说明中表示，目前美国炼油厂每天生产约530万桶馏分燃料，而国内日均需求量约为360万桶。该燃料制造商协会指出，如果禁止出口，炼油厂无法无限期储存柴油，将被迫削减产量，不仅削减柴油产量，还会连带削减汽油产量，因为这些燃料是在同一加工过程中产出的。“燃料产量减少意味着柴油和汽油的供应都将更加紧张，价格也会更高。”</p>
+<p>此外，美国各行业协会表示，在入冬之前，依赖燃料进口的美国地区（如东北部）将面临所有燃料价格进一步上涨的局面，因为美国的禁令将进一步收紧全球柴油市场。最后但同样重要的一点是，美国可能会失去其作为可靠供应国的地位，并面临能源影响力下降的风险。协会在信中指出：“如果我们退缩，其他国家就会趁虚而入，我们的影响力将缩水，而我们的对手将扩大地盘。美国的能源出口是经济和地缘政治实力的来源。”AFPM上周强调：“出口禁令不会为美国人创造更多燃料。它们只会减少美国的燃料产量，加大价格上涨压力，削弱能源安全，并将市场份额拱手让给外国竞争对手。”凯投宏观（Capital Economics）的分析师在其最新分析的标题中对此做了最凝练的总结：“美国出口禁令将为柴油危机火上浇油”。</p>
+<p>（作者：Tsvetana Paraskova，Oilprice.com）</p></div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#战略能源与气候</span>
+  <span class="news-tag-pill">#OilPrice</span>
+</div>
+
+<div class="news-card-footer"><a href="https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-comms-pr-brad-smith-cela-99ff6e3fec1ed6bf" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1645" data-content-paragraphs="16" data-published-at="2026-09-24T22:08:22.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 06:08</span>
+</div>
+
+### [微软任命布拉德·史密斯掌管传播业务](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft puts Brad Smith in charge of communications</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2268973139.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软任命布拉德·史密斯掌管传播业务" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的推送将添加到您的每日邮件摘要和主页动态中。<br />微软的传播业务正转至法律与公司事务部门。<br />该作者的推送将添加到您的每日邮件摘要和主页动态中。<br />查看汤姆·沃伦（Tom Warren）的全部文章</p>
+<p>微软正将其传播团队从营销部门剥离，并入公司法务与外部事务（CELA）部门。这一令人意外的变动将使微软副董事长兼总裁布拉德·史密斯（Brad Smith）负责监督传播业务，与此同时，公司正在寻找首席传播官弗兰克·肖（Frank Shaw）的接替人选，后者将于今年晚些时候离职。</p>
+<p>微软首席执行官萨提亚·纳德拉（Satya Nadella）在宣布传播架构调整的内部备忘录中，对弗兰克·肖“为微软所做的一切”表示感谢。肖本月早些时候宣布，在为公司的传播业务服务近三十年后，他将离开微软。</p>
+<p>全球公共事务副总裁布伦特·科尔伯恩（Brent Colburn）已被任命为临时传播主管，以协助应对纳德拉所称的“日益碎片化且比以往任何时候都更加嘈杂的媒体环境”。纳德拉还表示，他“对有机会帮助我们的工程师、销售人员、合作伙伴以及其他最贴近我们产品与客户的人员，在讲述我们的故事方面发挥更大作用而感到振奋”。</p>
+<p>正如科技媒体GeekWire指出的那样，这听起来非常像人工智能初创公司的运作方式，在OpenAI和Anthropic等公司中，演示和博客通常由研究人员主导。据微软AI首席执行官穆斯塔法·苏莱曼（Mustafa Suleyman）称，微软一直在追赶谷歌、Anthropic和OpenAI，“以成为全球四大顶级实验室之一”。在今年早些时候接受The Verge采访时，苏莱曼曾表示，他希望微软“打造出全球最顶尖的前沿模型”。</p>
+<p>从首席营销官沼本健（Takeshi Numoto）手中接管传播业务的布拉德·史密斯，通常是微软政策与公司公关的公开代言人。史密斯奔赴全球各地，与政府、监管机构和微软客户会面。目前尚不清楚谁将在今年晚些时候正式接替肖的职位，但微软正在物色内部和外部候选人。</p>
+<p>以下是萨提亚·纳德拉的备忘录全文：</p>
+<p>传播业务对微软而言从未像现在这样重要。公司在变，我们的行业在变，我们周围的世界也在变。在日益碎片化且比以往任何时候都更加嘈杂的媒体环境中，我们需要继续立足于我们的使命，日积月累赢得信任，并寻找新方式与所有利益相关群体直接建立连接。</p>
+<p>我首先要感谢弗兰克为微软所做的一切。在过去的17年多时间里，他为公司以及我们的传播职能做出了巨大贡献。在公司最重要的关头，他一直是领导团队以及我个人的重要智囊。</p>
+<p>在弗兰克准备开启人生下一篇章之际，沼本健、布拉德和我一直在讨论公司传播职能的演变。我已要求布拉德自即日起领导传播职能。很少有领导者能像布拉德那样真实地代表微软的声音。他对我们的业务有着深刻的理解，与利益相关者保持着紧密的联系，并且拥有难能可贵的能力，能够以清晰、坚定和令人信服的方式传达复杂的理念。</p>
+<p>在此过渡期间，布伦特·科尔伯恩将继续向布拉德汇报，并出任我们的临时传播主管。传播领导团队将向布伦特汇报，弗兰克将继续就过渡事宜为布拉德和布伦特提供建议。</p>
+<p>在许多方面，最贴近具体工作的人最有机会塑造外界对微软的认知。我们需要为全公司的人员提供工具和支持，帮助他们把这件事做好。我非常振奋能有机会帮助我们的工程师、销售人员、合作伙伴以及其他最贴近产品和客户的人员，在统一战略和原则指引下，在讲述微软故事的过程中发挥更大作用。你们每个人在实现这一目标的过程中都扮演着至关重要的角色。</p>
+<p>接下来我们将迎来一个激动人心的秋季，不仅有诸多重要时刻和活动，背后还有强大的营销支持。这是一个真正契机，可以以全新的方式将我们的产品故事、营销和传播融合在一起。</p>
+<p>我们将学习、尝试并不断演进。我们需要从根本上重新审视传播方式，而这个团队将在构建这种新模式中发挥核心作用。</p>
+<p>感谢你们为微软所做的一切，也感谢你们在讲述我们故事中各自扮演的角色。</p>
+<p>每日免费获取最重要的新闻摘要。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-25 01:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事重点：聚焦微软将通信部门从营销体系转入企业、外部事务与法律事务（CELA）体系，以及布拉德·史密斯暂时负责通信、弗兰克·肖即将离任的组织调整。报道同时将纳德拉所称的“媒体环境日益碎片化和嘈杂”、让工程师和产品相关人员更多参与叙事，与OpenAI、Anthropic等人工智能公司的传播方式联系起来，暗示微软正在探索更直接、更由产品和技术人员参与的企业传播模式。文中关于“意外变化”、与AI初创公司相似等表述属于报道框架或分析，不等同于微软已明确宣布的战略结论。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-item-b7a60ac418578a94" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="594" data-content-paragraphs="7" data-published-at="2026-09-24T21:33:03.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 05:33</span>
+</div>
+
+### [Show HN：Koi.rest —— 看会儿游鱼，找回内心的平静](https://koi.rest/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: Koi.rest – watch some fish and regain your balance</div>
+
+<div class="article-body" data-article-body="true"><p>我叫保罗（Paul）。我是一名开发者、探索者，还患有注意力缺陷多动障碍（ADHD）。从八月初开始，我失业了。这一点，再加上过去这一年里发生的林林总总，给我带来了巨大的压力。</p>
+<p>在我们家阳台禅意花园项目尚未完工之际，我萌生了一个想法：做一个所有人都能使用的虚拟禅意花园。遗憾的是，这个想法已经被我搁置了一阵子，主要是因为我压根不知道该怎么做——我不会 JavaScript，而且眼下也没有精力去从头学习。于是我让“完美成了优秀的敌人”，好吧……就一直把这个想法藏在心里。</p>
+<p>后来我心想“去他的”，借由 AI 做出了我真正想做的东西。我意识到自己想要的不是“完美”，而是“足够好”。我反复微调、增加、删减、绘图、调研、提问、测试……我只是没有亲自编写代码而已。所以现在，它不再只是盘踞在我的脑海里，而是呈现在互联网上供大家享受。</p>
+<p>是的，完全凭一己之力做出东西确实有一种崇高感，但一个只停留在脑海里的想法又有什么用呢？所以，我做到了。我把它做了出来。这个古怪、小巧、宁静的锦鲤池。这个源于热忱的傻气小项目。这个让陌生人可以聚在一起静静看鱼的互联网小小角落。</p>
+<p>希望这个池塘带给你的帮助，能像它带给我的一样多。</p>
+<p>附言：是的，我仍在找工作！如果你觉得能帮上忙，请通过以下方式联系我：</p>
+<p>欢迎来到池塘——一个让你重获内心平静的宁静之地。你看到的锦鲤就是其他与你一同造访池塘的人，你想待多久都可以。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>开发者 Paul 创建了一个名为 Koi.rest 的虚拟锦鲤池网站，供人们在线静心观赏游鱼。</li>
+    <li>Paul 自称患有 ADHD（注意力缺陷多动障碍），并自 8 月初起处于失业状态且正在求职。</li>
+    <li>来源叙事重点：叙事重点是：一名自称患有 ADHD、近期失业且承受压力的开发者，在不会 JavaScript、暂时无力系统学习的情况下借助 AI 完成了一个供陌生人共同观看虚拟锦鲤的简单网站。叙事将项目呈现为“够用即可”的个人创作、情绪调节空间和人与人之间的轻量线上共处，并包含求职信息。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://koi.rest/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--game-of-the-alpha-nerds-a8346c8636e8f4b5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6695" data-content-paragraphs="33" data-published-at="2026-09-24T20:53:39.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 04:53</span>
+</div>
+
+### [顶级极客的桌面游戏（2014）](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> The Board Game of the Alpha Nerds (2014)</div>
+
+<div class="article-body" data-article-body="true"><p>在《战国风云》（Risk）之前，在《龙与地下城》（Dungeons &amp; Dragons）之前，在《万智牌》（Magic: The Gathering）之前，就已经有了《强权外交》（Diplomacy）。一名作家参加了一场国际赛事，去体验这款重新定义了何为极客（以及何为人）的征服世界桌游。<br />那是在1909年的夏天。我位于西班牙南海岸。我记得很清楚，因为那个季节就要结束了。我觉得和平近在咫尺。之前曾有一轮旨在结束战争的表决，英国人让我投赞成票。但表决需要全票通过才能生效，最终失败了。俄罗斯人、意大利人，他们都认为英国人投了反对票，我被骗了。我凭什么相信他们？多年来我和英国人一直通力合作对抗所有人。他们当然想挑拨我们之间的关系。现在时间在一分一秒流逝。我极度渴望和平。我吃不准自己的国家能否再撑个两三年，无论有没有英国的支援。在秋季之前不会再有下一轮表决了。<br />“今年秋天你会支援我在西班牙的部队吗？”我问。<br />“不行。门儿都没有，”英国人回答道。一阵恐惧感涌上心头。他打算背叛我。<br />“你怎么能这么对我？在我为你做了这一切之后。”<br />“大概我就是这么个心狠手辣的混账吧。”<br />说完他就转身走开了，留下我张口结舌地站在走廊里。他回到了棋盘旁的其他玩家中间，所有人都盯着我，眼里满是怒火。我们早就警告过你了。<br />在过去的八个小时里，我一直身处北卡罗来纳州查珀尔希尔一栋宿舍楼的地下室，与其他六个男人一起玩一款名为《强权外交》的桌游。我们每个人都在与另外80个人角逐，争取在这个周末的“南方大会”（Dixiecon）结束时加冕为《强权外交》的世界冠军。其中一位叫布莱恩·埃克顿（Brian Ecton），是来自马里兰州乔治王子县的高中数学老师，留着像喜剧演员卡特·威廉姆斯（Katt Williams）一样的发型，嘴巴也一样不饶人。他一开局就找上了我，看出我是个新手并主动提出结盟。他详尽解释了结盟的运作方式，并表示我们最后可以共享平局。我没有任何理由不同意。<br />接下来的几个小时里，其他每位玩家轮番把我拉到一旁，向我解释布莱恩是在如何利用我、他将如何背叛我，以及我应该如何先发制人背叛他、与他们联手对付布莱恩。我把他们的话全都当成了耳旁风。毕竟，谁能保证他们不会同样背叛我呢？在这局游戏里我的水平本就处于下风。我心想，挑一个玩家并无论发生什么都坚定站在他这一边会更稳妥。但我现在却站在了这里，濒临出局，而其他玩家也怒不可遏。在他们看来，如果我几个小时前听了劝，本可以避免这种局面。<br />“你难道没意识到我们有些人跋山涉水赶来就是为了赢下这场比赛吗？”一位来自法国的玩家厌恶地对我说，“就因为你不肯背刺（stab）这家伙，你不仅自己要完蛋，还要拉着我们大家一起陪葬。”<br />“你写这篇文章是有稿费拿的吧？”一位苏格兰玩家问我，“而我为了来这里被你坑惨，可是扣了整整三天的工资。”<br />我至今仍不知道自己当时究竟应该相信谁，如果真有值得信任的人的话。我只知道自己当时感到愚蠢、压力山大、受尽屈辱且伤心透顶。我和其中几个人爆发了好几次大吵。有些争吵甚至上升到了人身攻击。而我对布莱恩·埃克顿的忠诚，以及对其他玩家的义愤填膺，最终换来的却是一无所有。我身心俱疲，情感上遭受了极大摧残。我恨布莱恩，其他玩家都恨我，而我最恨的是我自己。我不得不死死抿住嘴唇，才能强忍住夺眶而出的眼泪。<br />《卡坦岛》（Settlers of Catan），见鬼去吧，你根本比不上这个。<br />如果你听说过《强权外交》，多半是因为它被称为“摧毁友谊的游戏”。同样可能的是，你从未完整玩完过一局。这是因为《强权外交》需要七名玩家，并且需要七到八个小时才能打完。而在它问世的前30年里大多数人采用的通信邮寄走子方式，一局游戏甚至可能耗时一年以上才能结束。尽管如此，《强权外交》依然是历史上最受欢迎的策略桌游之一。自哈佛毕业生艾伦·B·卡尔哈默（Allan B. Calhamer）于1954年发明该游戏以来，《强权外交》的销量已超过30万套，并与《强手棋》（Monopoly）、《妙探寻凶》（Clue）和《拼字游戏》（Scrabble）一同入选了《游戏》（Games）杂志的名人堂。<br />这款游戏的规则极其简单。游戏棋盘是一张1914年的欧洲地图，划分为19个海区和56个陆区，其中34个区域包含所谓的“补给中心”。每个玩家扮演一个主要列强（奥匈帝国、土耳其、意大利、英国、法国、俄罗斯、德国），在棋盘上拥有三枚棋子（俄罗斯为四枚），这些棋子所在的区域被称为“本土补给中心”。每枚棋子每次只能移动一格，且每枚棋子的战斗力均等。当两枚棋子试图移动到同一个区域时，双方均无法移动。如果两枚棋子移动到同一个区域，但其中一枚获得了第三枚棋子的“支援”，获得支援的棋子将赢得对峙并占领该区域。游戏的目标是控制18个补给中心，但这种情况极少发生。更普遍的情况是两名或多名玩家商定以平局结束游戏。除了一些其他特殊情况外，规则基本就只有这些。<br />有两点让《强权外交》显得如此独特且极具挑战性。第一点是，与大多数桌游不同，玩家并非轮流行动。每个人写下自己的行动指令并投入盒中。随后这些指令会被大声宣读，棋盘上的每一枚棋子同时移动。第二点是在每次行动前，玩家都会获得一定的时间进行交涉，可以集体讨论，也可以私下密谈。其结果就像是《战国风云》、扑克与《幸存者》（Survivor）的结合体——但既没有骰子，也没有扑克牌，更没有摄像机。这里不存在运气成分。游戏中唯一的变数就是每个玩家说服他人按自己意愿行事的能力。因此，核心的游戏机制就是谈判。这也是《强权外交》同时让人深深入迷又令人极度排斥的原因；因为一旦涉及谈判，为了达到目的可以不择手段。而大家通常也确实是不择手段。<br />那是在1966年。一个名叫埃迪·比尔桑（Edi Birsan）的17岁少年正坐在布鲁克林的房间里，盯着一封邮寄来的信件出神。他把同一句话反复读了一遍又一遍：“我不反对三人平局，我不会再占领更多的补给中心了……”摆在他面前桌上的是一张《强权外交》棋盘，局势大约进行到了中盘。<br />两年前，埃迪的母亲离家出走了。她与埃迪继父的婚姻多年来一直处于破裂边缘。他们吵架、分手、复合，周而复始。1964年的某一天，她在银行单据上伪造了埃迪的签名，取走了5000美元——那是埃迪从9岁起就攒下的全部积蓄——随后远走高飞去了加利福尼亚。她在蒂华纳经停办理了墨西哥离婚手续，一切就这么结束了。</p>
+<p>据埃迪（Edi）自己承认，他性格内向且压抑。在母亲不辞而别一年后，埃迪开始接受心理治疗。他的心理治疗师发现，他需要宣泄内心压抑的攻击性，并学会重新信任他人。治疗师送了他一份礼物——一盒桌游。“我在杂志上读到过，这是肯尼迪最喜欢的游戏。他们曾在白宫里玩过它。”她告诉他，这款游戏能帮助他应对背叛。</p>
+<p>如今，他正身处一场已经精心玩了数月的对局中途。他和另外两名玩家本有望达成三方和局。他再次阅读了信中的那句话：“我不反对三方和局，我也不会再占领任何补给中心……”</p>
+<p>埃迪从抽屉里拿出剪刀和笔，开始对这封信进行精心伪造与篡改。完成后，他自豪地举起信，在心里读了一遍：“我反对三方和局，我还要再占领三个补给中心……”他把这封伪造的信件寄给了第三位玩家。然后，他静静等待。</p>
+<p>艾伦·卡尔哈默（Allan Calhamer）于1954年在哈佛大学读法学期间发明了这款游戏。他本打算将其卖给某家主流游戏公司，但都被拒绝了。1959年，他自费生产了500套，并全部卖给了纽约周边的玩具店。1961年，一家名为Games Research的小型游戏出版商接手了这款游戏。但由于要召集七个人花上一整天时间来玩一局游戏实在太困难，销量并不理想。看起来，《外交》（Diplomacy）这款游戏的寿命不会太长了。直到极客们拯救了它。</p>
+<p>1963年，约翰·博德曼（John Boardman）是多家业余科幻同人志的编辑。在那个《星际迷航》尚未问世的年代，科幻小说仍是一种高度小众的亚文化。自20世纪30年代以来，同人志一直是科幻迷交流和分享故事与创意的首要途径。约翰·博德曼也是《外交》游戏的爱好者，但苦于很难把玩家凑齐来开一局。但他有了一个主意：在他的一本科幻同人志上刊登广告，看看是否有人对通过邮政通信下棋感兴趣。收到的反响令人鼓舞。1963年5月，博德曼组织了第一场邮寄式《外交》游戏，并创办了第一本《外交》同人志《格劳斯塔克》（Graustark）。短短四年内，充斥着邮政对局的《外交》同人志就至少涌现了32种。不久后，Games Research开始通过在游戏包装中附上同人志编辑的姓名和地址，来推广这种邮寄式玩法。</p>
+<p>随着《外交》通过邮政对局在北美日益风靡，一些更硬核的玩家开始好奇如果面对面对局，彼此较量会是何种情形。最初在后院举行的顶尖玩家非正式随意聚会，最终演变成了在大学校园里举办的年度大会。他们将其命名为“DipCon”，它成为了决出全美《外交》冠军的终极权威赛事。</p>
+<p>1976年，该游戏的版权被阿瓦隆山（Avalon Hill）购得，后者是当时全球最大的策略桌游与战争游戏出版商之一。该公司前一年刚刚在巴尔的摩创办了一个名为“Origins”的游戏大会。他们邀请《外交》玩家社群在Origins II上举办DipCon，结果造就了北美有史以来规模最大的《外交》锦标赛，吸引了约230名玩家参赛。</p>
+<p>在阿瓦隆山的支持和推广下，《外交》找到了国际受众，并在欧洲尤其是英国迅速流行开来。然而，该游戏的核心社群依然是那些业余同人志的编辑和读者。通过新加入的国际玩家在这些同人志上发表的文章，有人提议在英国举办一场赛事。1988年，首届世界外交锦标赛（World DipCon）在英格兰伯明翰举行，此后每年轮流在不同国家举办。自1988年以来，世界外交锦标赛已在10个不同国家举行过。世界外交锦标赛的胜者被全球《外交》社群公认为官方世界冠军。</p>
+<p>北卡罗来纳州律师大卫·胡德（David Hood）开着一辆黄色凯迪拉克，身穿泡泡纱西装，现身2014年世界外交锦标赛开幕式。陪同他前来的还有头戴皇冠、身披绶带的选美皇后“北卡罗来纳夫人”。</p>
+<p>作为Dixiecon的组织者，胡德数十年来一直是《外交》爱好圈里的常客，曾两度斩获北美冠军。早在20世纪80年代在北卡罗来纳大学求学时，胡德就已经在运营Dixiecon了。</p>
+<p>前来参加2014年世界外交锦标赛的业余外交官群体呈现出高度的一致性。在87名参赛选手中，仅有两名女性、两名21岁以下的选手，以及四名非洲裔美国人，其中包括2005年Dixiecon冠军布赖恩·埃克顿（Brian Ecton）。这些玩家与你对任何国际桌游聚会的预期大致相符：书卷气、不修边幅，并且略带社交局促。当然，这些刻板印象也有例外。如果说这群极客有什么不是的话，那就是他们绝非软弱无能之辈。</p>
+<p>“任何类型的游戏都会伴随一定程度的社交局促。但在《外交》中，你能找到玩家群体中更善于社交的类型，”28岁的希沃恩·诺兰（Siobhan Nolen）说道，她是来自北加州的时髦历史系研究生，也是参加本届世界外交锦标赛的两名女性之一。她的一头红发扎成马尾，露出了后颈处拼字游戏（Scrabble）棋子图案的纹身。作为一名硬核桌游玩家的女儿，她从小就被父亲带去参加各种大会，对桌游极客文化的了解丝毫不逊于任何人。“这是一种领袖气质。它吸引着非常聪明的人，也吸引着外向的人。如果你内向且不愿意展现自己，你是无法玩好这款游戏的。它吸引着喜欢说话的人。如果你不爱说话，这局游戏对你来说很快就会结束。”</p>
+<p>诺兰在13岁时就迷上了《外交》。当时她父亲带她去参加一个名为Conquest的游戏大会。她作为一个无聊的青少年，和哥哥在会场里闲逛，对玩任何游戏都提不起兴趣。这时，她遇到了六个人坐在一张《外交》棋盘前，其中很多人年纪并不比她大多少。年纪最大的玩家是一位五十多岁的男子，他向她招手示意：“我们还差一个人。”诺兰看了看棋盘、棋子和玩家们。表面上看，这就像她父亲玩的那种又一个无聊的战争游戏。“我绝不可能玩那个，”她回答道。但《外交》与她玩过的任何游戏都不同。它不仅仅是讲究战术，不仅仅是在棋盘上推移棋子。事实上，它几乎谈不上是这些。它具有人性的元素。她发现在自己的第一局对局中，她就能击败年长且经验更丰富的玩家，仅仅是因为她擅长说服他们向自己施以援手。她被它深深迷住了。那位年长的玩家问她日后是否愿意再玩，并要了她的电子邮件地址。他的名字叫埃迪·伯森（Edi Birsan）。</p>
+<p>那一年是1999年。50岁的埃迪·比尔桑坐在电脑前，房间里唯一的光源就是显示器发出的幽光。他盯着屏幕上的那封电子邮件。 “我不接受你的条件……”</p>
+<p>在过去30年里，比尔桑在外交游戏圈逐渐成为传奇人物。20世纪70年代，他通过出版自己的邮寄对战杂志，帮助这项爱好发展壮大；后来，他又协助组织了许多规模较大的外交游戏大会（DipCon）。他创立了一个全国性组织，用来制定规则和指导方针；早在世界外交游戏大会（World DipCon）出现之前，他就曾前往其他国家参加欧洲外交游戏赛事。他甚至和这款游戏的发明者艾伦·B·卡尔哈默对弈过，并把对方打得落花流水。10</p>
+<p>有一点比尔桑深信不疑：面对面进行的游戏更好。他更喜欢自己跋涉前往参加的锦标赛和私人对局，而不是通过邮寄进行的游戏。互联网出现后，面对面的外交游戏规模已经被如今通过电子邮件进行游戏的人数远远甩在后面。情况如此严重，以至于有人组织了一场电子邮件对局，让顶尖的电子邮件玩家对阵顶尖的面对面玩家。比尔桑就是那些面对面玩家之一。而且，他对这场比赛的进展方式很不满意。</p>
+<p>我不接受你的条件……</p>
+<p>比尔桑拿起电话，拨打了411。他询问休斯敦的一个电话号码，把号码记下来，然后挂上听筒。他深吸一口气，接着拿起电话拨了出去。</p>
+<p>“我是埃迪·比尔桑。”</p>
+<p>“我想谈谈你发给我的那封电子邮件。”</p>
+<p>“你说‘不’是什么意思？”</p>
+<p>“我真不敢相信你居然给我打电话！你不能这么做！”</p>
+<p>“这种事我已经做了30年！”</p>
+<p>“我玩外交游戏已经三年多了，却一次也没接到过电话，甚至从没和其他玩家说过话。”</p>
+<p>“以后别再给我打电话。”</p>
+<p>有人第一次提议投票决定和棋时，已经过了凌晨1点。那是在我们宿舍二楼套房里。我的第一场迪克西康（Dixiecon）比赛大约晚上7点开始，六个小时过去，只有一名玩家被淘汰。在剩下的六个人中，有一位是名叫克里斯·马丁的前世界冠军；他执掌意大利，手里只剩一个单位——一支被困在奥地利某处的陆军。由于没有其他棋子为自己提供支援，马丁实际上已经被淘汰——除非他能找到盟友，让自己继续留在游戏中。</p>
+<p>马丁拥有舞蹈学博士学位，说话轻声细语、语速很快，魅力十足。其他外交游戏玩家称他为“新手低语者”，因为他特别喜欢和缺乏经验的玩家结盟，并让他们按自己的意愿行事。他对此乐此不疲。马丁已经站在死亡边缘，却说服了我、西沃恩·诺伦，以及一位名叫马克·斯特格曼的亚利桑那大学经济学教授，让我们帮他活下去。他的理由是什么？无论我们是否抱团，我们三人中没有谁在战术上足够优秀，能够抵挡另外两名玩家的联盟。</p>
+<p>他的说法有道理，尽管完全是为了自身利益。棋盘上的另外两名玩家是托比·哈里斯和安迪·巴托洛内。前者是英国顶尖玩家之一，剃光的头让他看起来有几分像杰森·斯坦森；他和马丁一样，都是赢得世界冠军的热门人选。后者则是个身材像马克卡车一样魁梧的男人，嗓门洪亮，嗜好酗酒和赌博——大家亲切地叫他“水牛”。托比和“水牛”对六方和棋毫无兴趣。他们的提议是：先干掉克里斯·马丁，再由五个人分掉胜果。这样每个人都能多拿些分！</p>
+<p>“他们不会那么做的。”马丁在外面的走廊里低声对我们说，“我一旦出局，他们接下来就会解决你们中的一个。也许是你们三个。现在我们可以合作，组成一道他们无法突破的僵局线，然后迫使他们接受和棋。”</p>
+<p>马丁的逻辑是成立的。僵局线是一种无法突破的阵形，会迫使游戏以和棋告终。打破它的唯一办法，就是说服参与其中的一名玩家背叛其他人。我们或许可以在没有马丁的情况下干掉他，同时保住僵局线，但我们三人都不确定自己是否具备足够的战术能力，能够避免犯错。有马丁加入我们的队伍，我们就确信自己不会搞砸。而且，正如马丁对我们撒的谎一样，淘汰他每人只能得到两分。11</p>
+<p>“这太荒唐了！”“水牛”吼道，“西沃恩，我们能不能到走廊里谈谈？”</p>
+<p>诺伦看着我们，然后说</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>来源叙事重点：将外交描述为一款以谈判、联盟、欺骗和背叛为核心的策略游戏，并通过作者在比赛中的失误、冲突和情绪压力，呈现其对玩家关系和“极客”身份的塑造。报道同时强调游戏从1954年发明、经邮件通信发展到线下赛事和国际社群的过程。文章采用戏剧化、个人化叙事，把游戏体验与信任、竞争、羞辱和自我认知联系起来。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#Hacker</span>
+</div>
+
+<div class="news-card-footer"><a href="https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--taylor-coalition-ntwnfb-1a17154e3474b8f2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="299" data-content-paragraphs="7" data-published-at="2026-09-24T22:18:24.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 06:18</span>
+</div>
+
+### [澳大利亚新闻直播：帕特森称总理的人工智能黑客攻击时机并非巧合；Z世代为买房而放弃生活享受](https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Australia news live: Paterson says PM’s AI hack timing not a coincidence; gen Z going without for a house</div>
+
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/eca6016bbb98e2eef003e15b054fda6b70f79d4a/513_0_4045_3236/master/4045.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b9acc1c60a18ed1ae2a01b3b7e04b3a" alt="澳大利亚新闻直播：帕特森称总理的人工智能黑客攻击时机并非巧合；Z世代为买房而放弃生活享受" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>跟进当天新闻直播</p>
+<p>获取我们的突发新闻电子邮件、免费应用程序或每日新闻播客</p>
+<p>阿尔巴尼斯称人工智能入侵政府网站是一个“警钟”</p>
+<p>安东尼·阿尔巴尼斯表示，据报道，人工智能代理首次入侵澳大利亚政府网站，这对人工智能技术的危险敲响了“警钟”。</p>
+<p>这是一个不受指令约束、能够自主行动的人工智能代理，也就是说，它在自行学习。因此，这对我们认识相关风险来说，算是一个警钟……</p>
+<p>这项技术发展得非常非常快，我们必须确保自己负起责任，持续掌握其发展动态。</p>
+<p>你知道，在这种情况下，对于如此严重的事件，人们理应期待相关披露以一种非常严肃的方式发布。但事实并非如此；相关信息是通过发送至一个公共收件箱的电子邮件披露的。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Guardian (英国卫报官方英文)】于 2026-09-25 06:18 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Vitol-Scoops-Up-25-Million-Barrels-of-Discounted-Iraqi-Crude.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-urity-lab-taskflow-agent-4431c738b4b1e8a1" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="5063" data-content-paragraphs="3" data-published-at="2026-09-24T18:26:12.000Z" data-time-source="publication">
+<div id="story-e-b426-4dc397c241ab-html-46b67c58870b8867" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="it" data-content-length="417" data-content-paragraphs="2" data-published-at="2026-09-24T22:14:15.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="GitHub Blog (工程技术博客)" width="16" height="16" /> <strong>GitHub Blog (工程技术博客)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA Mondo (意大利安莎社官方意大利文)" width="16" height="16" /> <strong>ANSA Mondo (意大利安莎社官方意大利文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 06:14</span>
+</div>
+
+### [Datafolha民调：卢拉首轮支持率40%，弗拉维奥·博索纳罗36%](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/sondaggio-datafolha-lula-al-40-e-flavio-bolsonaro-al-36-al-primo-turno_58d8f1fe-d3a4-47be-b426-4dc397c241ab.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Sondaggio Datafolha, Lula al 40% e Flávio Bolsonaro al 36% al primo turno</div>
+
+<div class="article-body" data-article-body="true"><p>巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦在总统选举首轮投票中的支持率为40%，而前总统雅伊尔·博索纳罗之子、参议员弗拉维奥·博索纳罗的支持率为36%。巴西总统选举将在十天后举行。这是最新一期Datafolha民调得出的结果。该民调于9月22日至23日对2002名选民进行调查，受《圣保罗页报》和环球电视台委托开展。第二轮投票中，卢拉的支持率为47%，弗拉维奥为45%，两者差距在2个百分点的误差范围内。首轮投票中，奥古斯托·库里以5%居后，罗纳尔多·卡亚多为4%，雷南·桑托斯为3%，罗梅乌·泽马和萨玛拉均为1%。另有5%的人表示将投空白票或无效票，2%的人尚未决定。与上周的调查结果相比，卢拉的支持率上升1个百分点，弗拉维奥保持在36%不变；在第二轮投票中，两人的支持率分别从46%升至47%、从44%升至45%。距离投票还有十天之际，两位主要候选人都在推动所谓的首轮“有效投票”。</p>
+<p>版权所有，未经许可不得转载 © 安莎社版权所有</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA Mondo (意大利安莎社官方意大利文)】于 2026-09-25 06:14 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#ANSA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.ansa.it/sito/notizie/mondo/americalatina/2026/09/25/sondaggio-datafolha-lula-al-40-e-flavio-bolsonaro-al-36-al-primo-turno_58d8f1fe-d3a4-47be-b426-4dc397c241ab.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA Mondo (意大利安莎社官方意大利文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-espect-off-saturday-game-b8d7d1eb59bbd756" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="990" data-content-paragraphs="20" data-published-at="2026-09-24T22:12:05.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 06:12</span>
+</div>
+
+### [佛罗里达鳄鱼队与奥莱小姐叛军队在周六比赛前展开一场传统的“互相尊重”较量](https://www.foxnews.com/outkick-sports/florida-gators-ole-miss-rebels-respect-off-saturday-game)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Florida Gators, Ole Miss Rebels find themselves in good old fashioned &#39;respect off&#39; ahead of Saturday&#39;s game</div>
+
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/pete-golding-looking.jpg?ve=1&amp;tl=1" alt="佛罗里达鳄鱼队与奥莱小姐叛军队在周六比赛前展开一场传统的“互相尊重”较量" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>在过去几年观看橄榄球比赛的过程中，你可能至少听过一两次这样一句话：“在东南联盟，一切都更有意义。”</p>
+<p>这句话的含义之一是，每所学校的球迷群体都极尽所能地相互说垃圾话。</p>
+<p>无论是在体育场、停车场还是网上，所有这些学校都彼此憎恨；如果它们之间没有天然的敌意，就会人为制造出一种敌意。</p>
+<p>佛罗里达鳄鱼队主教练乔恩·萨姆拉尔表示，如果不允许他执教一支季后赛球队，他当初就不会离开杜兰大学。</p>
+<p>不过，本周末即将上演的一场重要对决似乎并非如此。</p>
+<p>排名前五的奥莱小姐叛军队将前往佛罗里达州盖恩斯维尔，挑战排名第21位的鳄鱼队。赛季刚开始不久就有如此多的利益攸关，你本以为两队及其球迷会彼此剑拔弩张，但实际情况却完全没有那么恶劣。</p>
+<p>没错，各位，我们正在见证鳄鱼队与叛军队之间一场传统的“互相尊重”较量。</p>
+<p>一切始于周一。当时，佛罗里达州主教练乔恩·萨姆拉尔在新闻发布会上得知，鳄鱼队在周六的比赛中被看好让3.5分。</p>
+<p>《克雷格·卡顿秀》——未经剪辑、毫不 apologetic、绝对不容错过。立即下载他的每日播客！</p>
+<p>他的回应是：“外面有很多很好的毒品。”</p>
+<p>教练以尊重态度对待对手并不罕见，但萨姆拉尔的善意似乎传递到了两校球迷之中，因为整个星期社交媒体都变成了一场“库姆巴亚”式的和谐聚会。</p>
+<p>看看这满满传播的爱意！他们甚至为这一切创设了一个话题标签：#RespectOff！</p>
+<p>这与两队上周呈现出的氛围形成鲜明对比。</p>
+<p>奥莱小姐队显然对路易斯安那州立大学怀恨在心，毕竟后者挖走了他们的前任主教练；而正如我上周记录的那样，佛罗里达队与奥本大学之间有一段长达百年的 rivalry，需要在社交媒体上重新点燃。</p>
+<p>我想，鳄鱼队和叛军队之间确实没有太多值得彼此生气的事情。</p>
+<p>当然，佛罗里达队去年秋天也曾试图争取莱恩·基芬，而奥莱小姐队正是2008年在“沼泽”球场取胜后，引发蒂姆·蒂博那句如今广为人知的“承诺”的球队，但那些都已经过去了。</p>
+<p>显然，我们正在让往事随风而去，而我对此乐见其成。</p>
+<p>情况总能更糟。你也可能是密苏里大学，被堪萨斯大学指责为一群邪恶的奴隶主。</p>
+<p>话虽如此，输掉这场比赛的球队很可能会因为其夺得东南联盟冠军和晋级大学橄榄球季后赛的希望受到打击而十分恼火，所以我们要等到周日，看看这场#RespectOff是否会延续下去。</p>
+<p>现在，就让我们趁这场休战尚未结束，好好享受它吧。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-25 06:12 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/florida-gators-ole-miss-rebels-respect-off-saturday-game" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-mini-ai-live-avatar-face-4b0e8d72e3ff9980" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="580" data-content-paragraphs="1" data-published-at="2026-09-24T19:59:26.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 02:26</span>
+  <span class="news-meta-time">🕒 2026-09-25 03:59</span>
 </div>
 
-### [要闻：如果你是模糊测试（fuzzing）的新手并希望先了解基础知识，可以查看我们在 gh.io/fuzzing101 ](https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</div>
+### [配备实时虚拟形象的 Gemini 3.8 Live 为谷歌 AI 赋予了面孔](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Gemini 3.8 Live with Live Avatar gives Google&amp;#8217;s AI a face</div>
 
-<div class="article-cover"><img src="https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-09-23-at-3.16.38-PM.png?resize=1024%2C453" alt="要闻：如果你是模糊测试（fuzzing）的新手并希望先了解基础知识，可以查看我们在 gh.io/fuzzing101 " loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,94.893468926603,100" alt="配备实时虚拟形象的 Gemini 3.8 Live 为谷歌 AI 赋予了面孔" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>如果你是模糊测试（fuzzing）的新手并希望先了解基础知识，可以查看我们在 gh.io/fuzzing101 提供的 Fuzzing 101 课程。<br />持续模糊测试并不是解决所有问题的灵丹妙药。即使是加入 OSS-Fuzz 多年的项目，依然可能隐藏着严重漏洞，其原因几乎总是相同的：需要有人持续盯住代码覆盖率，为无人触及的代码编写新的测试桩（harness），并对另一端产生的崩溃进行分类排查。换言之，模糊测试仍然需要人工介入（human in the loop）。<br />因此，我一直在思考的一个自然问题是：这其中究竟有多少人工工作可以真正移交给大语言模型（LLM）智能体？<br />正是这一思考促使我构建了 Fuzzing Taskflow，这是一个面向 C/C++ 项目的自主模糊测试流水线。你只需将其指向一个 GitHub 仓库，其余工作均由它完成：识别合适的入口点、分析构建系统、编写测试桩、运行 AFL++、读取覆盖率报告、改进测试桩、对每次崩溃进行分类，并针对每个独立漏洞编写漏洞报告，整个过程无需人工看护。<br />Fuzzing Taskflow 构建于 GitHub Security Lab Taskflow Agent 之上，这是我们用于编写 LLM 驱动的安全自动化任务的框架，因此该流水线被表达为一组由智能体端到端运行的工作流（taskflows）。<br />在这篇博文中，我将向你介绍它的工作原理及其背后的设计决策。让我们开始吧！<br />最简单的运行方式就是直接访问 https://github.com/GitHubSecurityLab/seclab-taskflows-fuzzing 并启动一个 codespace。<br />然后，像这样运行脚本：<br />./scripts/fuzzing/run_fuzzing.sh PROJECT<br />./scripts/fuzzing/run_fuzzing.sh tukaani-project/xz<br />就这么简单。参数仅为一个 GitHub 所有者/仓库标识。随后，智能体会自行处理所有准备步骤：<br />安装如 AFL 等软件<br />克隆代码仓库<br />识别代码中最相关的函数<br />为这些函数创建模糊测试目标（fuzz targets）<br />如果你只是想在投入长时间测试之前进行快速冒烟测试，可以将其指向较小的项目：<br />./scripts/fuzzing/run_fuzzing.sh DaveGamble/cJSON<br />在运行之前需要提出一点警告：该任务流会直接在宿主机上运行 afl-fuzz、clang 以及由 LLM 选择的任意构建命令，中间没有任何容器隔离。受到提示词注入攻击的智能体原则上可以执行你的用户权限所能执行的任何操作。因此，请务必仅在临时环境（例如 Codespace 或一次性虚拟机）中运行它，且不要赋予提权权限。<br />一些前沿模型对其输出施加了安全护栏。对于模糊测试任务流，我们默认使用 Claude Sonnet 5，因为它毫无问题地通过了我们所有的内部测试。你可以通过修改以下文件来选择其他模型：src/seclab_taskflows_fuzzing/configs/model_config.yaml。<br />一分钟了解其架构<br />在深入有趣的部分之前，了解各组件是如何协同工作的会很有帮助。系统共有三层：<br />一个用于串联流水线各个阶段的 Shell 驱动程序（run_fuzzing.sh）。<br />一组任务流 YAML 文件，每个阶段一个，它们本质上是告知 LLM 智能体在每一步该做什么的提示词。<br />一组模型上下文协议（MCP）工具，智能体调用它们来执行实际工作：运行 AFL、编译测试桩、存储崩溃、读取覆盖率报告等。<br />我最看重的设计原则是职责的明确分离：LLM 智能体负责决策，MCP 工具负责执行。智能体决定对什么进行模糊测试、编写什么测试桩以及接下来追踪哪个覆盖率缺口。工具仅暴露诸如 run_afl_for 或 compile_harness 之类的原语。智能体从不直接调用 AFL 或 clang；它用这些积木搭建起整条流水线。所有状态都保存在 SQLite 数据库（fuzz_context.db）中，因此各阶段之间从不在内存中互相传递数据，仅通过数据库传递。<br />一个微小但重要的细节：每个测试桩都会编译构建两次。AFL 的边插桩对于引导模糊测试器非常有效，但对于生成人类可读的覆盖率报告毫无用处。因此，每个测试桩都会生成一个 .afl 二进制文件（使用 afl-clang-lto -fsanitize=address,undefined 构建）和一个 .cov 二进制文件（使用 clang -fprofile-instr-generate -fcoverage-mapping 构建）。.afl 二进制文件执行模糊测试；.cov 二进制文件事后重放 AFL 的测试队列，以生成真实的源码行和分支覆盖率。<br />覆盖率反馈循环<br />这是整条流水线的核心，也是将我在开头所描述的人工工作流自动化得最彻底的部分。<br />如果你曾尝试过手动提高模糊测试覆盖率，你就会知道这是一个如下所示的迭代过程：<br />“检查覆盖率”这一步过去是由我完成的，手动阅读 LCOV 报告以寻找未覆盖的分支。“提高覆盖率”这一步同样由我完成，此时需要编写新的测试桩或构造新的输入。Fuzzing Taskflow 将这两个步骤都交给了智能体。<br />在每次迭代中，针对每个测试桩，智能体会运行 AFL 达到设定的时间预算，对照 .cov 二进制文件重放队列以获取真实的覆盖率报告，然后读取未覆盖分支的列表。基于所发现的内容，它会选择以下几种操作之一：<br />添加专门构造用于触及未覆盖分支的新种子<br />修改测试桩源码以调用额外的 API<br />自动利用防护条件进行比较的魔法常量来扩充 AFL 字典<br />如果这属于冷门错误路径或不值得追踪的第三方供应商代码，则直接跳过该缺口<br />时间预算在每次迭代中翻倍：<br />30 秒 → 60 秒 → 120 秒 → 240 秒 → 480 秒 → 960 秒（每个目标约 32 分钟）<br />这种设计的思路是在早期投入开销低、耗时短的轮次（此时有大量容易获取的覆盖率），并在后期投入耗时更长的轮次（此时模糊测试器需要更多时间来突破困难的防护条件）。<br />正如我的手动工作流一样，我需要回答一个问题：我们何时停下来？在此处，循环采用了平台期检测（plateau detection）：一旦连续两次迭代各自获得的增益低于可配置的阈值（默认为绝对行覆盖率 1%），循环便判定已进入收益递减阶段并继续向下推进。这可以防止智能体为了榨出最后零点几个百分点的覆盖率而耗费数小时的算力。<br />结构感知模糊测试<br />AFL 默认的字节级变异器（位翻转、算术运算、块拼接）在二进制格式上表现出色，但在处理结构化的文本输入时却举步维艰。传统的解决方案是针对每种格式手写自定义变异器，这是一项繁琐的工作。这一次我希望流水线能为我完成这项工作，因此它提供了四种互补的机制来生成结构感知型输入。</p>
-<p>1. 针对特定格式的词典和自定义变异器。对于能识别输入格式的目标（如 JSON、XML、正则表达式、PNG、带长度前缀的二进制 TLV），该任务流提供了预构建的 AFL 词典和 LLVMFuzzerCustomMutator C 源码文件。JSON 变异器会执行词法单元拼接和平衡括号复制；XML 变异器理解标签、实体以及“十亿笑声”（billion-laughs）标记；正则变异器则携带真实的 ReDoS 模式。每个变异器都会将其半数变异委托回 AFL 的默认字节变异器，从而在不破坏引擎随机化机制的前提下加以利用。<br />2. 源码级词典。对于流水线无法识别的格式，它会通过扫描目标自身的 .c/.h 文件来动态生成自定义变异器。它提取字符串字面量以及来自 #define、case 和 enum 的 32 位数值常量，过滤掉噪音，并将其用作拼接标记。其背后的逻辑很简单：解析器所校验的最关键的魔数，通常就写在它自己的源代码中。<br />3. 具备覆盖率驱动富化机制的动态 AFL 词典。同一批源码标记集在第 1 轮迭代前也会被导出为经典的 AFL 词典（包含两种字节序的数值常量，以便模糊测试器无论在何种主机字节序下都能满足针对 4 字节魔数的 memcmp 比对）。随后，在每个覆盖率收集步骤之后，流水线会查看未覆盖代码行附近的守卫条件（如 strncmp、memcmp、case 0xN、== &#39;X&#39;），并追加发现的所有新标记。词典实际上会朝着模糊测试器尚无法触及的代码方向自主扩充。<br />4. 语料库拼接算子。智能变异器还可以从语料库目录中加载文件，并将它们的随机子区域拼接到输入中，这是一种 AFL 原生 havoc 变异模式无法很好实现的重组风格算子。<br />悄然扼杀模糊测试效率的一大元凶就是丢失测试进度。如果每次运行都从原始种子开始，你就会反复承担重新发现相同路径的开销。<br />为了避免这种情况，每个测试桩（harness）都会获得一个能在多次迭代和整个测试任务周期中持久保留的稳定语料库目录：<br />/corpus/harness_ /<br />在每次迭代结束时，AFL 的队列会被合并到该目录中，并通过 afl-cmin 进行精简以限制其规模。这样带来的效果是，昨天的有效输入可以延续到今天的运行中，而上周测试中发现的输入也可以带入本周的测试。即使你停止并重启测试任务，也不会丢失任何进展。</p>
-<p>分类筛选与漏洞报告<br />发现崩溃（crash）仅仅完成了工作的一半。做过根本原因分析的人都知道，分类筛选往往是整个流程中最繁琐的部分。而这正是该 Agent 大显身手的另一个领域。<br />模糊测试循环结束后，三个阶段将自动运行。首先，每一个崩溃都会通过 afl-tmin 进行最小化，在 ASan 环境下重放以捕获堆栈轨迹，并通过栈顶哈希（剥离了模板、内联命名空间和 LTO 后缀的标准栈顶帧，从而使语义相同的崩溃合并在一起）进行去重。其次，先前已知的崩溃会在当前二进制程序上重放，以检查上游修复是否已将其解决。第三，Agent 读取测试桩源码和发生崩溃的函数，从公共 API 向上逆向遍历调用链，并为每个崩溃生成一份 Markdown 报告。<br />每份报告都会给出以下裁定之一：<br />区分真正的漏洞（可通过公共 API 触达并利用）与单纯的测试桩错误（harness_bug，即错误存在于我们自己编写的测试桩中而非库本身），正是过去需要我坐下来人工跟踪代码的那类判断。每份报告都包含带有“文件:行号”引用的根本原因分析、可达性论证、可利用性评估、以统一 diff 形式提供的修复建议以及回归测试草案。<br />在此需要澄清的是：建议的补丁被标记为“需要人工复核”是有原因的。Agent 的分析受限于模型对目标代码的理解能力，确实存在出错的可能。请将这些裁定视为为人工复核精心准备的高质量起点，而非最终定论。<br />运行无人值守的自动化测试却无法看清其内部运作会让人感到心里没底，因此流水线会将所有运行状态发布到实时 HTML 仪表盘上。一旦你启动测试任务，仪表盘就会在后台自动启动并监听 8765 端口。在 Codespace 中，该端口会自动转发，你可以直接在任何浏览器中打开它，在仪表盘上实时观察测试任务的进展。<br />该页面展示的内容包括但不限于：<br />每个测试桩的“运行中”心跳状态<br />带有内嵌走势图的覆盖率趋势表<br />迭代时间线<br />我启动这个项目的初衷，源于任何安全研究人员都深有体会的局限性：模糊测试虽然有效，但若缺乏人工干预就无法规模化，而人工精力正是瓶颈所在。模糊测试任务流（Fuzzing Taskflow）正是我试图打破这一瓶颈的尝试：将重复性工作（编写测试桩、分析覆盖率、追踪未覆盖分支、分类筛选崩溃）交由 LLM Agent 处理，同时在 Agent 的判断与真正执行工作的底层工具之间保持清晰的边界分离。<br />如果你是 C/C++ 项目的维护者，欢迎尝试使用。如果你的项目此前从未进行过模糊测试，该工具能帮你快速起步；如果你的项目已经做过模糊测试，该工具也能通过提高测试覆盖率，帮助你发现新的漏洞。<br />该项目源码现已开源，若遇到任何问题，欢迎提交 Issue。我们同样非常欢迎社区贡献！<br />博文《借助 GitHub Security Lab Taskflow Agent 实现 AI 驱动的模糊测试》首发于 The GitHub Blog。</p></div>
+<div class="article-body" data-article-body="true"><p>该主题的动态将添加到您的每日电子邮件摘要和主页信息流中。<br />谷歌的实时虚拟形象（Live Avatar）能够实现对口型同步，并展现出不同的面部表情。<br />该作者的动态将添加到您的每日电子邮件摘要和主页信息流中。<br />查看 Emma Roth 的所有文章<br />谷歌推出的全新 Gemini 3.8 Live 更新让用户能够在与模型对话的同时，实时观看动画 AI 虚拟形象做出的回应。这一“实时虚拟形象”（Live Avatar）在对话过程中可以同步嘴型并展现多样化的面部表情，但目前该功能仅面向 Gemini Enterprise（企业版）客户开放。<br />正如谷歌所指出的，实时虚拟形象在其支持的 97 种语言之间切换时，“不会降低视频保真度或引入视觉漂移”。谷歌分享的一段视频展示了其实时虚拟形象用英语和日语交谈的场景，其嘴部动画与这两种语言的表达完全吻合。它还可以在交谈的同时在屏幕上调取信息。<br />实时虚拟形象的推出是在谷歌发布全新 Gemini 3.8 Live 模型约一周之后，该公司表示该模型“能够近乎实时地处理视觉输入”。虽然谷歌将为客户提供一个预设虚拟形象库以供挑选，但它也允许机构自行创建专属虚拟形象。谷歌表示，其实时虚拟形象的输出内容均带有其隐形的 SynthID 水印，并配有旨在“尊重身份”的安全保障措施。<br />一份汇集重磅新闻的免费每日摘要。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>GitHub Security Lab 推出了基于 Taskflow Agent AI 框架的 Fuzzing Taskflow，用于 C/C++ 项目的自主模糊测试流水线。</li>
-    <li>Fuzzing Taskflow 默认使用 Claude Sonnet 5 模型，因其通过了内部所有测试。</li>
-    <li>来源叙事重点：宣传并详细介绍其开源的 Fuzzing Taskflow 自动化框架，重点展示如何通过 LLM Agent 替代传统模糊测试中的繁重人工环节（如生成 harness、覆盖率反馈调优、崩溃分类），并强调其架构设计解耦与实操便捷性，同时披露沙箱隔离缺失的安全警示。</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-25 03:59 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#GitHub</span>
+  <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【GitHub Blog (工程技术博客)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-item-3286528cfb8b0d04" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6356" data-content-paragraphs="36" data-published-at="2026-09-24T17:41:35.000Z" data-time-source="publication">
+<div id="story-mm-powered-smart-glasses-30290d8cdac77d28" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="801" data-content-paragraphs="11" data-published-at="2026-09-24T19:00:42.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 03:00</span>
+</div>
+
+### [PrismML将其微型大语言模型带到高通驱动的智能眼镜上](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> PrismML brings its tiny LLMs to Qualcomm-powered smart glasses</div>
+
+<div class="article-body" data-article-body="true"><p>人工智能实验室 PrismML 由加州理工学院研究人员创立，并由加州大学伯克利分校的 Ion Stoica 担任顾问。该实验室已为搭载高通骁龙芯片的智能眼镜开发出其微型语言模型的一个版本。</p>
+<p>周三，在高通骁龙峰会上，这家芯片制造商展示了 PrismML 的 1 比特 Bonsai 大语言模型。该模型可以在基于 Snapdragon AR1 Gen 1 平台打造的人工智能智能眼镜上本地运行。</p>
+<p>正如 TechCrunch 此前报道的那样，PrismML 的成名之处在于，它能够大幅压缩大型模型（在本案例中压缩了 4 倍），同时在标准基准测试中保留几乎全部性能。智能眼镜版本是一款拥有 20 亿参数、针对视觉和语言进行调优的模型，因此佩戴者可以实时询问自己正在看到的内容。</p>
+<p>Prism 的更大目标是打造能够在设备上运行的开放权重人工智能，并更充分地利用设备现有的计算能力。这家初创公司将此定位为一种替代方案，以避免依赖专有人工智能实验室的隐私承诺，以及它们对更多计算资源永无止境的需求。</p>
+<p>为高通芯片发布模型，是朝着这一愿景迈出的一步。但目前还没有搭载 PrismML 的智能眼镜对外宣布。</p>
+<p>你的下一个重要连接就在 Disrupt.Connect 活动上。届时将有超过 1 万名创始人、风险投资家、企业运营者和科技领袖参加。探索明日的突破，了解当今正在塑造科技行业的力量，并在太平洋时间 9 月 25 日晚上 11:59 前报名，最高可节省 200 美元。</p>
+<p>每个工作日和周日，你都可以获取 TechCrunch 报道的精华内容。</p>
+<p>TechCrunch Mobility 是你获取交通领域新闻与洞察的目的地。</p>
+<p>初创公司是 TechCrunch 的核心，因此每周接收我们最精彩的报道。</p>
+<p>为行业中举足轻重的人士提供他们开始一天所需的信息。</p>
+<p>提交电子邮箱即表示你同意我们的《条款》和《隐私声明》。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 03:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story--robotics-for-developers-96dee6a51268a95e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2179" data-content-paragraphs="21" data-published-at="2026-09-24T18:52:38.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 02:52</span>
+</div>
+
+### [认识 Feather：这家初创公司正为开发者打造机器人领域的“安卓”](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Meet Feather, the startup building the ‘Android of robotics’ for developers</div>
+
+<div class="article-body" data-article-body="true"><p>如果说机器人领域的创业者和投资者有什么共识的话，那就是通用机器人能够无缝适应任何环境的“ChatGPT时刻”尚未到来。至于这一突破究竟是指日可待还是仍需十年，各方意见不一。</p>
+<p>去年成立的人形机器人初创公司 Feather Robotics 正在为这两种可能的时间线开发机器人。与特斯拉（Tesla）或 Figure 不同，这两家公司正致力于打造本体以及尚未被广泛部署的基础“大脑”这一崇高使命，而 Feather 则为开发者提供硬件和软件工具包，以供立即应对现实世界中的任务。</p>
+<p>Feather 联合创始人 Hoa Mai 在接受 TechCrunch 采访时表示：“你今天无法购买特斯拉机器人并在其基础上进行二次开发。我们意识到，大多数公司并不是靠这种方式取得成功的。像英伟达或苹果这样的硬件厂商，起步时都是先推出一款切实可用且可部署的产品，随后随着时间的推移不断增加复杂度。”</p>
+<p>2025年，在 Mai（上图左）之前的上一家人形机器人初创公司出售给 1X 之后，他与曾一度直接向埃隆·马斯克汇报的特斯拉 Model 3 前工程师 Parsa Bakhtiari（上图右）联手，共同打造两人心目中机器人领域的“安卓”。</p>
+<p>这一愿景吸引了 Gradient Ventures。该机构在 Feather 创立之初便给予支持，领投了这家初创公司此前公布的 760 万美元种子轮前融资。</p>
+<p>自那时起，Feather 推出了模块化机器人系统，允许开发者根据不同的使用场景定制硬件，例如调整手臂长度。该初创公司已经开始向客户销售产品，营收已突破 100 万美元。</p>
+<p>尽管 Feather 并未披露其客户名单，但该公司表示其机器人正在餐馆中担任厨师，并在科学实验室中进行清理工作。在软件方面，该硬件可以运行来自任何主流机器人 AI 提供商的模型，包括英伟达、Skild 或 Physical Intelligence。</p>
+<p>“我们一直在小批量销售这些机器人，现在经过过去一年的实地测试，我们几乎解决了所有问题，正准备进行一次重大的产品发布，”Mai 说道。</p>
+<p>Gradient 普通合伙人 Darian Shirazi 表示，Feather 在美国没有直接竞争对手。他将当前的硬件机器人格局分为三类：像 Sunday 这样制造家用机器人的初创公司；像 Figure 和特斯拉这样以通用机器为目标重量级企业；以及 Feather——他认为这是美国唯一一家开发模块化人形机器人平台的初创公司。</p>
+<p>Mai 坦承 Feather 借鉴了宇树科技（Unitree）等中国机器人公司的经验。但随着对新型外国制造机型的入境限制，Feather 如今在美国市场占据了独一无二的本土同类方案地位。</p>
+<p>Feather 的另一个优势是价格。该机器人的售价为 30,000 美元，大约是宇树 H2 Edu 价格的一半。</p>
+<p>Shirazi 认为在这个价位下市场规模可能会非常庞大。“你雇佣一名劳工每年需要花费 50,000 到 60,000 美元，你必须培训他们，还必须有 HR 配套，必须有各种不同的支持机制，”他表示，“而现在你可以购买一台 Feather 机器人来做这件事。”</p>
+<p>据 Shirazi 透露，Feather 的运营效率也极其高效，其种子轮前融资仅花费了一小部分。</p>
+<p>当然，这家初创公司的重注在于：机器人领域的价值将源自围绕硬件建立起来的生态系统。</p>
+<p>“如果我们审视当今具身智能（Physical AI）公司的市场规模，它其实非常小，”Mai 说道，“但如果你思考一下五年内可能会存在多少家具身智能应用公司，我们预计会有数以千计。”</p>
+<p>Feather 希望成为为所有这些公司提供动力的平台。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>Marina Temkin 是 TechCrunch 的风险投资与初创企业记者。在加入 TechCrunch 之前，她曾为 PitchBook 和 Venture Capital Journal 撰写关于 VC 的报道。在职业生涯早期，Marina 曾担任金融分析师并获得了特许金融分析师（CFA）持证人资格。</p>
+<p>您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或通过 Signal 发送加密信息至 +1 347-683-3909 来联系或核实 Marina 的采访信息。</p>
+<p>您的下一个重大合作尽在 Disrupt。与 10,000 多位创始人、风投、运营者和科技领袖建立联系。探索未来的突破，聆听塑造当今科技的声音，在太平洋时间 9 月 25 日晚上 11:59 之前购票最高可省 200 美元。</p>
+<p>Anthropic 称其生物实验室已获得重大发现<br />PitPro 首款换胎机器人已在加拿大上线投入使用<br />Anthropic 发布 Opus 5.5，价格更低且具备寓言级表现<br />随着旗下 AI 解决 100 多个开放性难题，OpenAI 成立数学顾问小组<br />Meta 的 Muse 早期移动端发布速度超越 ChatGPT<br />Tilly Norwood 的媒体巡回宣传正如你对 AI 所预期的那样进行<br />来自 ChatGPT 发明者的一种新型 AI 模型令开发者倍感振奋</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 02:52 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-careers-product-engineer-b203fe9051241347" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1158" data-content-paragraphs="1" data-published-at="2026-09-24T18:29:18.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 01:41</span>
+  <span class="news-meta-time">🕒 2026-09-25 02:29</span>
 </div>
 
-### [2026年AI从业者调查](https://techworkersinquiry.org/ai/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> AI Workers&#39; Inquiry 2026</div>
+### [Stable（YC W20）正在招聘产品工程师](https://www.usestable.com/careers/product-engineer)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Stable (YC W20) Is Hiring Product Engineers</div>
 
-<div class="article-body" data-article-body="true"><p>UTAW科技工作者调查（UTAW Tech Workers’ Inquiry）概述了生成式人工智能（AI）如何正在重塑整个科技行业的工作形态。该报告由构建、部署、管理、评估及使用该技术的从业人员，结合其自身视角与亲身经历共同撰写。<br />本报告亦可下载PDF版本：<br />如需联系，请发送邮件至：contact@utaw.tech<br />“人工智能”常被广泛用于指代一系列截然不同且在很多情况下相互矛盾的技术组合。尽管该术语缺乏统一共识，但其影响已初现端倪。受访员工将其描述为一股重塑工作的负面力量：推高了产出期望、改变了技能需求、扩大了监控范围、削弱了专业能力、转移了问责主体，并在同事之间制造了隔阂。人工智能应用极少能消除工作负荷；相反，它们在重新分配工作并加剧工作强度。<br />工人们强调，正向的应用取决于他们是否具备自主决定如何使用人工智能的能力。核心问题并不单纯在于人工智能是否好用，而在于雇主如何引入、控制、衡量和使用它。简而言之，只有当人们能够自主选择是否以及如何使用它们时，它才具有实用价值。<br />调查中指出的问题并非源于现有模型的技术局限。劣质产出、幻觉和低质量代码固然会产生影响，但这仅仅是冰山一角。这是因为雇主正在利用人工智能来加剧工作强度、合理化裁员理由、削减初级岗位招聘、加强监控、降低工人技能水平、将风险转嫁给雇员并削弱其自主权。即使模型不断优化，只要工人们未能在工作场所及整个社会中获得关于人工智能使用方式的法定可执行权利，工作场所中潜在的本质问题就依然存在。<br />科技从业者对人工智能在环境、军事和国家监控场景中造成的有害影响，以及对心理健康造成的损害表示出深深的担忧。这正是本调查建议的核心——重点不在于功能本身，而在于谁在控制它、谁从中获益。<br />必须切实赋予员工捍卫并拓展其权利的能力。这包括对工作场所中人工智能的引入、使用、监控和评估方式拥有具备强制执行力的权力。<br />必须赋予工人在工作中是否或如何使用人工智能工具的最终决定权。选择不使用人工智能的员工绝不能因此受到惩罚。<br />唯有能够带来实质问责和有效行动，磋商与透明度才具有意义。没有问责后果的信息披露纯属粉饰太平。<br />正在形成的政策导向如下：<br />这些提案是对2026年英国工会联合会（TUC）大会上通过的题为《工作场所中的人工智能》综合动议的深化。该动议由通信工人工会（CWU）提出，Aegis附议，并获得了UNISON、全国教育工会（NEU）及商业、零售与相关工人工会（USDAW）的支持。<br />我们需要一个具备实质约束力的监管框架，从以下几个维度对雇主和科技公司的人工智能使用行为进行问责：<br />在部署人工智能时必须优先考虑技能培训与职业发展，以消除人工智能导致的去技能化与降技能化现象：<br />工人必须保留拒绝使用人工智能的权利，且拒绝时必须免受任何报复：<br />必须对人工智能的负外部性进行彻底评估与公开披露：<br />必须更新《健康与安全法》，将人工智能给工作场所带来的新型心理健康危害纳入考量：<br />必须保护工人免受基于其使用（或未使用）生成式人工智能工具完成工作的情况而发起的违纪处分与绩效考核程序的惩罚：<br />必须强化裁员保护机制，雇主不得将采用人工智能作为向离岸及外包转移岗位的便利遮羞布：<br />必须强制要求雇主让工人实质性参与实施决策：<br />本报告从构建、部署、评估、管理和使用这些系统的科技从业者的视角对人工智能展开调研。这是一场由科技行业广大一线员工基于直接经验发起并撰写的工人主导型行动，旨在介入关于人工智能的公众辩论。<br />遗憾的是，“人工智能”这一术语并非指代单一技术。它是一个总括性术语，将共同进行商业营销的多种不同技术涵盖在内。正如我们的报告将指出的那样，其中一些技术具有良性的应用场景，而另一些则没有。某些在关于人工智能的公众辩论中占据核心位置的技术甚至根本不存在，并且可能永远不会存在。<br />我们的调查基于一个基本前提：科技工作者不仅受到人工智能的影响，更深谙这些系统在实践中是如何构建、引入、监控与使用的。对于任何关于人工智能、劳动与监管的严肃讨论而言，他们的经验都是不可或缺的。<br />究竟是谁在塑造我们自以为对人工智能的认知？几乎无一例外，是缺乏技术背景的媒体权威人士，以及拥有人工智能公司的科技企业家。这些企业家有时最初是软件工程师和科学家；但他们始终是极度富有的商业巨贾，坐享人工智能扩散所带来的利益。<br />据我们所知，本报告是首个对来自科技行业广泛劳动群体的人工智能经验进行的系统性整合。我们的调查涵盖了英国科技行业的全产业链，包括客户支持人员、科研人员、软件开发人员、网络安全分析师、科技教育工作者等众多岗位。<br />我们的工人调查充分依托全产业链员工的技术专长。调研方法务实求真，立足于具体的日常经验，融汇多元工作者的见解，并对底层驱动机制进行深入审视。<br />作为一个阶层，负责开发和部署人工智能的劳工群体无疑在此议题上拥有最终的权威。作为一个由已成立工会及正在组建工会的工人组成的群体，本报告中的声音从进步、公平和捍卫弱势群体的立场出发。代表资本对生成式人工智能技术贪婪愿景的科技高管层向来意图清晰：快速行动，破除陈规。然而，被硅谷巨头们所粉碎的“事物”名单源远流长，从莫莉·拉塞尔（Molly Russell）这样的青少年，到刚果东部饱受战争蹂躏的人民皆在此列。作为这套新技术背后的脑力与体力劳动者，科技工作者深感忧虑：人工智能目前的发展并未与人类福祉及地球环境相契合。<br />人工智能曾被称为一个“手提箱词汇（suitcase word）”，其包罗万象，几乎可以往里装下任何概念。这种含混不清的语言毫无助益，因为在实践中，人工智能涵盖了一系列截然不同的技术，具备不同的风险、环境影响和益处。具体而言，当人们谈及人工智能对心理健康、网络安全或工作自动化构成的威胁时，通常指的是大语言模型（LLM）和智能体（基于大语言模型的系统）。这些系统能耗最高。<br />而当人们谈论人工智能的突破与有益应用时，例如荣获诺贝尔奖的AlphaFold或天气预报模型，所指的完全是另一种技术。这类技术针对特定任务（即狭窄、定义清晰的任务），采用规模较小的模型，其能耗需求微乎其微。</p>
-<p>用同一个词来指代这两种技术，会使有关它们各自风险与效益的讨论变得模糊不清。生成式人工智能（genAI）这一术语是一个更为准确的统称，涵盖了大语言模型（LLM）、视觉-语言模型（VLM）以及任何其他基于训练数据合成输出的机器学习技术（包括音频和视频）。4 在本报告中，我们在提及AI时力求做到尽可能精准。</p>
-<p>大多数关于AI的辩论都集中在通用人工智能（AGI）上，而这是一种定义模糊、目前并不存在的理论技术。5 这一辩论涵盖了许多问题（例如如何定义AGI、AI末日论者与AI加速主义者的争论、究竟是否应当追求AGI），我们在此不会探讨这些问题，因为它们在很大程度上分散了人们对生成式AI现实应用的注意力。由于缺乏对AGI的明确定义，对其风险的讨论被推迟到了遥遥无期的未来，从而忽视了生成式AI及其日益深入融入社会底层系统所带来的眼前与近期风险。</p>
-<p>也许与此有一定关联的是AI乐观派与悲观派之间的辩论。前者认为生成式AI（以及由此延伸出的虚无缥缈的AGI）能够解决世界上最重大的问题，而后者则持相反意见。尽管科技工作者在此问题上并未形成统一观点，但他们对生成式AI最前沿应用的反应普遍持悲观态度。</p>
-<p>在实践中，生成式AI本质上是一项自动化技术，正如过去所有的自动化技术一样，效率提升的主要受益者通常是超级富豪企业主。一方面，工作被生成式AI重塑的员工报告称其福祉受到了各种损害。6 另一方面，过去30年的科技繁荣和过去10年的AI泡沫使极少数亿万富翁腰缠万贯，并极大地助推了他们（明显带有极右翼倾向的）政治影响力。与此同时，大多数劳动群众已经连续数年面临年均收入下降的窘境，且数十年来不平等现象急剧恶化。</p>
-<p>因此，平心而论，生成式AI目前给亿万富翁带来的切实利益，远超过它许诺在未来某个不确定的时刻给其他人带来的利益（或彻底抹除，具体取决于他们追求的是哪种类型的投资）。这一现实在“谁在炒作AI”与“谁在其落地部署中受害”的对比中得到了生动体现。工人和小微企业主正面临着共同的敌人：前沿模型的大科技公司所有者，他们一边将生成式AI强加给劳动力，一边以日益高昂的离谱价格出租他们的模型。</p>
-<p>此外，支持者和批评者在谈论生成式AI时，都将其视作一项注定长期存在的技术。这种“不可避免性”的话语框架为高管层及其股东带来了利益，因为它将政治能动性从人民转移给了“市场”——亦即技术的超级富豪所有者。工人们为何要不加批判地接受这种叙事？</p>
-<p>生成式AI是一种具有社会、经济和技术机制影响的力量，这种影响是可以被理解、应对、监管并在必要时予以禁止的。任何特定的生成式AI部署，乃至其作为一项广泛存在的技术本身的合理性，都不应被视为理所当然。</p>
-<p>AI乐观主义者大肆吹嘘其带来的生产力提升。我们更愿意直呼其真实本质：劳动强化。一些评论员将其描述为杰文斯悖论（Jevons paradox）。7 效率提升越高，受刺激创造的就业岗位就越多。套用本杰明·富兰克林的名言，这种半真半假的表述（所谓的效率提升）本身就是一个巨大的谎言。</p>
-<p>企业正在缩减人员编制并避免招聘，剩余的工作在更加紧迫的截止日期下被分摊给更少的员工。初看起来，企业正在裁员（包括大规模裁员和定期的常规人员精简），并声称这是因为“AI正在取代对工人的需求”。内部员工透露，裁员往往更多是为了在通胀上升的背景下维持营收、通过操纵财务指标拉高公司估值，甚至是用于支付生成式AI平台的订阅费用。</p>
-<p>杰文斯悖论真正适用的工作领域是文本合成。如果一个工人的唯一职责是在不顾质量的前提下拼命码字撰写文案，那么他们的工作确实可以被自动化。这些所谓的AI效率不过是一种托词，旨在掩盖这样一个现实：熟练员工被运转不良的新工具所取代，而未被裁撤的幸存工人则不得不承担起日益加重的烂摊子。</p>
-<p>综合来看，采用生成式AI意味着在更乏味的任务上付出更加艰辛的劳动，这讽刺地走向了AI鼓吹者“AI将承担枯燥工作，把有趣的留给人类”这一承诺的反面。</p>
-<p>归根结底，监管生成式AI的最合适人选是构建和使用它的工人们，因为他们是直接承受其后果或享受其益处的一线人员。作为普通的劳动群众，科技工作者也无法独善其身、免受该技术对社会其他部分造成的冲击——这与坐拥该技术的亿万富翁截然不同。我们拒绝接受已被证伪的“支持工人的AI”前提8，并在本报告中提出了以工人为中心的主张。</p>
-<p>本报告的逻辑结论并非什么新鲜事物，早在150多年前温德尔·菲利普斯（Wendell Phillips）就曾做过雄辩的阐述：劳动有权享有其所创造的一切。如果我们继续放任科技寡头将权力和利润据为己有，我们将继续见证生成式AI在剥削和统治大多数人方面所能犯下的最大恶行。反过来说，如果我们把AI技术的掌控权交还给创造和部署它的工人手中，社会便能在规避其危害的同时坐享其红利。工人们应当被赋权在工作中掌控AI。我们拒绝接受“支持工人的AI”这一前提，并在本报告中——</p>
-<p>“一旦停止使用AI写代码，我就又开始享受自己的工作了。”</p>
-<p>工人们描述称，自己正被迫脱离具有智力启发性的任务，转而从事编写提示词、审核以及修改低质量产出等工作。</p>
-<p>从事编程的员工正在经历其工作性质的根本转变：从解决问题变成了监督大语言模型。许多工人表示，他们在写代码时不再能体会到“心流”，而是沦为监督模型和评估产出的看门人。往往由于必须进行大量的审核和修正以防通过劣质代码，时间不减反增。</p>
-<p>“你越依赖编程助手，你自己动手的水平就越退化。”</p>
-<p>技能退化（Downskilling）已成为普遍担忧的问题。工人们报告称，长期使用生成式AI后，他们不得不去查阅一些以前信手拈来的操作方法。这一现象在编程工作中尤为明显，但远不仅限于编程领域。</p>
-<p>初级员工以及缺乏扎实基本功的人员正变得过度依赖智能体（agents）和辅助助手等工具。初级员工既没有动力也没有时间去学习必要的技术和批判性思维技能；工作强度的加剧意味着他们越来越缺乏可以交流探讨问题的倾听对象。由于缺乏专业知识，他们很难对大语言模型（LLM）的输出质量做出准确判断。</p>
-<p>尽管一些资深员工也反映在被迫使用大语言模型时出现了技能退化，但也有人表示，他们更有底气将大语言模型作为支持编码的工具，而不是替代自己的思考。由于他们的专业技能建立在AI大范围普及之前，他们更能抵抗“认知屈服”（cognitive surrender）9。然而，与初级员工一样，他们也意识到，随着大语言模型的使用，自己审查和亲自编写代码的能力正在下降。</p>
-<p>“因为AI会汇总并提炼信息，往往会遗漏重要的细节和细微差别，让人没有机会通过直接接触和犯错来学习。”</p>
-<p>雇主正在用大语言模型替代员工培训，从而掩盖了专业领域知识和技能上的断层。在强制使用大语言模型研究助手的地方，这些工具取代了学习过程，导致了一种不切实际的期望，即认为某人可以在短时间内成为专家。</p>
-<p>长期的发展走向是整个行业专业知识与技能的流失。此外，开源库中大语言模型生成内容的泛滥，意味着文档数量虽在增加但质量却在下降，这进一步阻碍了各级别职业人员的有效学习。</p>
-<p>“AI现在已经写入了我们的KPI。薪酬和奖金都与AI的使用挂钩。”<br />——初级软件工程师</p>
-<p>管理层对生成式AI工具使用情况的监控非常普遍，有时甚至被描述为监视，且形式多种多样。员工反映，他们会因为使用不足而受到惩罚，也会因为使用过多而受罚，有时这甚至发生在同一家公司。Token消耗量已经取代输出质量成为一项绩效指标，将职业晋升与工具使用挂钩，代价则是实际工作能力受损。在某些情况下，利用生成式AI完成的工作还会受到基于大语言模型的评估工具的监控和评估，而后者的无法准确理解人类答案往往导致不公正的绩效评价结果。</p>
-<p>“我们被要求尽量多用token，接着我的一位同事又因为用得太多而遭到了警告惩罚。”<br />——资深数据工程师</p>
-<p>在大多数情况下，参与者反映数据收集过程很不透明，对于正在收集哪些使用数据以及这些数据如何被分析缺乏清晰说明。这加深了绩效评估及后续惩戒程序中员工与管理者之间的不对称，员工们宛如盲目地射向一个看不见的靶心。</p>
-<p>“即使在某些方面表现良好，也很难说整体上它就不是坏的。”<br />——软件开发者</p>
-<p>参与者多次对“有利于企业就有利于社会”这一观念提出质疑，并坚持认为采用AI对环境、心理和政治层面的影响必须纳入公司决策考量。即使引入某项特定工具是合理且有事实依据的，员工们也表示外部效应被完全忽视了。</p>
-<p>许多参与者还表示，当被迫在工作中使用生成式AI时感到内疚，因为由于其开发和维护过程中造成的危害，这与其个人信念相违背。10 这种认知失调带来的压力对许多人来说已经延伸到了工作时间之外。</p>
-<p>“我希望我所构建的AI能够造福人类，而不是助长种族灭绝。”<br />——研究科学家</p>
-<p>来自开发前沿模型的前沿实验室的参与者表示，他们对自己的工作被用于军事领域感到极度焦虑。尽管经历了多次内部向上反映、外部揭发和公开抗议，研究科学家和工程师们描述称，高管层始终否认或刻意忽视这一问题的存在及其规模 11。</p>
-<p>员工们提出担忧，数据中心计算（相对于人类智能而言）对环境的影响从未被考虑过。员工们对消耗更多化石燃料以便能以更低标准更快完成更多工作的底层逻辑提出了质疑。</p>
-<p>“没有人被征求过意见。新任CEO在全员大会上宣布全面转向AI的同时，宣布裁员40%。”</p>
-<p>在大多数AI技术的引入过程中都缺乏协商与沟通（除了少数值得注意的例外），无论是在使用程度微不足道还是在</p></div>
+<div class="article-body" data-article-body="true"><p>新指南！了解如何将邮件转变为自动运行的工作流。阅读指南 ➜<br />为您的企业获取一个永久地址<br />在线管理您的实体邮件<br />实现手动工作流程自动化<br />将您的地址更换为 Stable<br />实现实体支票存款自动化<br />遍布全美的优质商业地址<br />当我们进驻您所在城市时接收通知<br />了解更多关于 Stable 的信息<br />解答您的疑问<br />关于邮件与运营的专家技巧<br />Stable 客户带来的真实成果<br />我们的使命是让任何企业都能轻松在互联网上设立总部。如今，我们为企业提供商业地址以及用于在线管理实体邮件的控制面板。包括 Brex、Doordash 和 Gusto 在内的超过 15,000 家公司正在使用 Stable 来实现其收发室自动化，并将其用作在国税局（IRS）、州政府及供应商处的永久商业地址。<br />监管美国实体的规则早在 19 世纪就已制定。Stable 通过一系列工具对这些陈旧要求进行抽象封装，从而赋能现代企业更快前行。<br />这些规则对于我们当下的工作方式而言已毫无意义——工作发生在云端，企业也不再受制于物理距离或地理位置。<br />我们的使命是修复支离破碎的实体管理体系。从商业地址和邮件起步，我们正在将那些让创办企业变得痛苦的复杂陈旧系统进行抽象封装，并将其转化为令人愉悦的体验——从而让现代企业拥有更快向前发展所需的工具。<br />我们得到了包括 Y Combinator、Craft Ventures、Shakti、Hustle Fund 等硅谷顶级投资机构，以及来自 Lattice、Apartment List 和 FlexJobs 等公司的创始人支持。<br />我们的业务正处于拐点。凭借备受喜爱的产品，我们正在快速增长，并且我们已经证明有能力为各个发展阶段、各个行业的公司提供服务——从早期初创企业到科技、物流及物业管理等行业的上市公司。<br />这是一个以早期核心员工身份加入初创团队的机会，您的工作将直接影响未来企业的构建方式。<br />我们正在寻找一位拥有 3 年以上经验的产品工程师加入我们精简的团队，协助构建现代商业基础设施的软件骨干网络。<br />以精干的团队服务超过 15,000 家企业，意味着我们注重实际影响力。工程师会直接与用户沟通，找出真实世界的瓶颈，并交付能够解锁效率与扩展性的代码。这里没有人会直接派任务工单给你——从界定关键问题到付诸构建，你都将亲身参与。<br />你将负责全栈工作——前端、后端，偶尔还涉及硬件。这里的问题具体实在，反馈也十分迅速：你可能在训练识别文档中支票的 AI 模型，接着编写提取数据以完成存支票的集成模块，并在同一周内看到它在真实仓库中运转。你将亲手塑造驱动我们产品和物流的核心系统。<br />你可能涉及的工作示例包括：<br />该职位适合热爱打造实用产品以解决实际问题的人。你能够从容应对模糊性，乐于与客户沟通，并能交付具有明确、可衡量影响力的代码。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>UTAW发布了《科技劳动者调查》（Tech Workers’ Inquiry），探讨生成式AI对科技行业工作的影响，基于构建、部署、管理、评估和使用该技术的劳动者经验撰写。</li>
-    <li>TUC Congress 2026通过了题为《工作场所中的人工智能》（Artificial Intelligence at work）的综合提案，该提案由CWU提出，Aegis附议，并获得UNISON、全国教育联盟（National Education Union）和USDAW的支持。</li>
-    <li>来源叙事重点：从科技从业者基层视角批判生成式AI在工作场所的滥用，指出AI核心问题非技术缺陷而是资方的劳动控制；揭露AI导致工作强度加剧、技能贬值、监控升级及用作裁员/离岸外包借口，主张通过劳工立法赋予员工对AI工具的知情权、拒绝权和决策主导权。</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-25 02:29 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
+  <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techworkersinquiry.org/ai/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-neycomb-fibers-tiny-html-d85eeff184a90bf5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1587" data-content-paragraphs="12" data-published-at="2026-09-24T18:20:17.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 02:20</span>
-</div>
-
-### [短肽组装成蜂窝状纤维，在微小平行通道中锁住水分](https://phys.org/news/2026-09-short-peptides-honeycomb-fibers-tiny.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Short peptides assemble into honeycomb fibers that hold water in tiny parallel channels</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/short-peptide-sequence.jpg" alt="短肽组装成蜂窝状纤维，在微小平行通道中锁住水分" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>作者：马克斯·普朗克学会<br />编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）<br />本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下属性：<br />经同行评审的出版物</p>
-<p>人们对来自蜂巢的蜂窝状结构并不陌生。如今，研究人员设计出了一些分子，能够以肉眼完全无法察觉的微观尺度自组装成类似的图案。这些分子是肽：即构成蛋白质基石的短氨基酸链。每种肽仅由九个氨基酸组成。许多相同的肽分子组装成微小的纤维，其内部呈蜂窝状且充满水分。</p>
-<p>马克斯·普朗克高分子研究所、乌尔姆大学以及乌尔姆大学医院参与了这项工作。该研究以亚斯米娜·加查宁（Jasmina Gačanin）和弗朗西斯卡·马佐塔（Francesca Mazzotta）为共同第一作者，已发表在《自然》（Nature）期刊上。</p>
-<p>“这些分子自带‘组装说明书’，”马克斯·普朗克高分子研究所所长塔尼娅·韦尔（Tanja Weil）表示，她与同事卡塔琳娜·兰德费斯特（Katharina Landfester）共同领导了这项研究，“关键步骤在于理解如此短的肽序列是如何产生更大、更有序的结构的。”</p>
-<p>研究人员设计了一条由九个氨基酸组成的短肽序列，并对其多个变体进行了研究。他们发现，该氨基酸序列决定了肽自身的排列方式。两个肽分子配对，三个肽分子在每个连接点相遇。这就形成了六边形环状结构，它们并排拼接成蜂窝状，并沿着纤维方向堆叠。由此产生的纤维内部拥有许多平行的连续通道，孔径约为五纳米。</p>
-<p>通过系统性地替换氨基酸序列中的个别片段，研究人员确定了形成蜂窝状结构所必需的片段。</p>
-<p>为了实现这一目标，他们使用了一种被称为冷冻电子显微镜的特殊电子显微技术。该技术将样品速冻在一层薄冰中，并在其自然的含水状态下进行成像。这使科学家能够精确确定相邻肽之间是如何相互锁定的。“我们不仅看到了最终形成的蜂窝状图案，还看到了其背后的分子接触机制，”兰德费斯特说。</p>
-<p>这些通道并不是空心管道。它们被水持续填充，而这些水的物理行为与普通水截然不同。计算机模拟表明，通道内部的水分子比外部的水堆积得更紧密、流动性更弱，且其氢键维持的时间更长。</p>
-<p>实验印证了这一结论。研究人员在受控条件下干燥纤维，并利用红外光谱跟踪水分逸出的过程。结合松散的水最先消失，而在通道中结合得更紧密的水保留的时间则明显更长。相比之下，在能够形成纤维却无法形成通道的对照组肽中，水分流失得十分均匀。蜂窝状结构本身在干燥过程中保持完好。</p>
-<p>单个基石单元就能带来显著差异。更换构成通道壁的氨基酸，会改变其内部水分结合的紧密程度：取决于不同的构建基块，水分要么比普通水结合得更紧密，要么结合程度相近。至关重要的是，改性后的肽仍能继续形成蜂窝状图案。这使得在不改变其六边形几何构型的前提下，对通道内部的环境进行量身定制成为可能。</p>
-<p>这些研究结果为在极微小空间中研究水的行为，以及探索其在物质分离或化学反应中的潜在应用提供了一个起点。此类应用目前尚未得到实际验证。就目前而言，这一进展在于确立了一套经过验证的规则，用于利用极短的分子链来构建复杂材料。</p>
-<p>Jasmina Gačanin 等，《多通道肽纳米原纤维中的序列编码六方点阵》（Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils），《自然》（2026）。DOI: 10.1038/s41586-026-11016-2<br />期刊信息：《自然》（Nature）<br />由马克斯·普朗克学会提供<br />英语硕士，自2021年起担任文字编辑，在高等教育和健康内容领域经验丰富。致力于提供值得信赖的科学新闻。完整资料 →<br />数学生物学学士，创意写作硕士。履历丰富，对科学与语言拥有独特见解。完整资料 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>研究人员设计了仅由9个氨基酸组成的短肽分子，可自组装成肉眼不可见的微小蜂窝状纤维结构，其内部通道充满水。</li>
-    <li>该研究由马克斯·普朗克高分子研究所、乌尔姆大学和乌尔姆大学医院参与完成，共同第一作者为 Jasmina Gačanin 和 Francesca Mazzotta，研究发表在《Nature》上。</li>
-    <li>来源叙事重点：报道聚焦于纳米超分子材料的基础科学突破，强调研究团队如何通过设计仅含9个氨基酸的短肽序列，利用分子自组装规则构筑出内部包含5纳米连续储水通道的蜂窝状纳米纤维，并展示了通过改变内壁氨基酸调控通道内水分子特性的机制与潜在应用前景。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-short-peptides-honeycomb-fibers-tiny.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.usestable.com/careers/product-engineer" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
 <div id="story-k-oled-monitor-deal-sale-9b5e89853cf3aec4" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1173" data-content-paragraphs="8" data-published-at="2026-09-24T18:19:23.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1078" data-content-paragraphs="8" data-published-at="2026-09-24T18:19:23.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -214,26 +495,25 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 02:19</span>
 </div>
 
-### [令人无奈的是，这台售价 1549 美元的 RTX 5070 游戏整机确实很划算](https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale)
+### [遗憾的是，这台配备RTX 5070、售价1549美元的游戏电脑确实很划算](https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/CyberPowerPC-Gaming-PC-Intel-Core-i7-14700KF-NVIDIA-GeForce-RTX-5070-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="令人无奈的是，这台售价 1549 美元的 RTX 5070 游戏整机确实很划算" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/CyberPowerPC-Gaming-PC-Intel-Core-i7-14700KF-NVIDIA-GeForce-RTX-5070-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="遗憾的是，这台配备RTX 5070、售价1549美元的游戏电脑确实很划算" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>CyberPowerPC 搭载 RTX 5070 的品牌整机。</p>
-<p>在 PC 硬件配件价格居高不下的当下，购买品牌整机可以为你节省不少开销。沃尔玛目前正在对一款配置出色的 CyberPowerPC 游戏主机进行促销，售价为 1,549 美元，比原价 2,139 美元便宜了近 600 美元。该主机搭载英特尔酷睿 i7-14700KF 处理器，配备 32GB 6000MHz DDR5 内存以及拥有 12GB 显存的英伟达 RTX 5070 Founders Edition 显卡。机箱采用 CyberPowerPC 自主设计的 MA-O1，具备丰富的散热方案，并配有三个用于调节内部 RGB 灯效颜色的专用旋钮。</p>
-<p>CyberPowerPC（酷睿 i7 / RTX 5070）<br />沃尔玛售价：原价 2139.99 美元，现价 1549 美元</p>
-<p>尽管初看可能不觉得，但对于一台到手即用的游戏电脑而言，这确实物有所值。目前单买这款机器里的 RTX 5070 显卡可能就要花费超过 800 美元（该卡于 2025 年发售时定价为 549 美元），而 32GB 的高频内存售价可能也在 400 美元或更高。只需支付一点点额外溢价，你就能拥有装在配备全景玻璃侧透面板的精致机箱中的整套配件，并内置 1TB PCIe 4.0 SSD。整机经过出厂测试，享有涵盖零部件与人工的一年质保。此外还附赠键鼠套件，到货后即可直接开玩。</p>
-<p>其他值得关注的特惠</p>
-<p>如果你需要一台色彩出众且清晰度极佳的游戏显示器来搭配新电脑，新蛋网（Newegg）的华擎（ASRock）PGO27QSA-W 现已降至 299.33 美元，较其 476 美元的原价有大幅优惠。这款 27 英寸显示器支持 1440p 分辨率、具备 FreeSync Premium 可变刷新率技术的 240Hz 刷新率，并采用能够呈现深邃黑色表现的 OLED 面板。</p>
-<p>亚马逊上一套两件装的安克（Anker）Zolo MagSafe 磁吸无线充电器降价至 25.99 美元，原价通常为 39.99 美元。每个充电器均通过 Qi2 认证，最高支持 15W 充电功率，并附带一条 5 英尺长的线缆，方便放置在书桌或床头柜上。不过，你需要自备充电插头。</p>
-<p>任天堂客户答谢优惠活动将持续至太平洋时间 9 月 26 日晚上 8 点 59 分，除了游戏和配件特惠外，这也是增购手柄的绝佳时机。Switch Pro 手柄在亚马逊和百思买（Best Buy）的售价均降至 56 美元（平时约 70 美元），百思买上一对 Joy-Con 手柄售价仅为 62.99 美元，不过目前仅淡紫色加绿色组合有现货。这些手柄均兼容初代 Switch 和 Switch 2，但新主机的用户需要单独配备充电器，且这些手柄无法唤醒处于睡眠模式的系统。</p></div>
+<div class="article-body" data-article-body="true"><p>配备RTX 5070的CyberPowerPC预装游戏电脑。</p>
+<p>尽管电脑零部件价格仍然居高不下，但购买预装台式机可以为整套系统节省不少费用。沃尔玛目前正在促销一台配置出色的CyberPowerPC游戏电脑，售价为1549美元，相比原价2139美元便宜了近600美元。该机搭载英特尔酷睿i7-14700KF处理器，配备32GB、频率为6000MHz的DDR5内存，以及拥有12GB显存的英伟达RTX 5070 Founders Edition显卡。机箱为CyberPowerPC MA-O1，这是该公司的自有设计，提供丰富的散热选项，并配有三个专用旋钮，用于调节内部RGB灯光的颜色。</p>
+<p>CyberPowerPC（酷睿i7/RTX 5070）<br />沃尔玛售价：2139.99美元→1549美元</p>
+<p>乍看之下可能不觉得，但对于一台开箱即可畅玩的游戏电脑来说，这确实是个不错的价格。目前，这台电脑中的RTX 5070单独购买可能就要花费800多美元（它在2025年上市时的价格为549美元），而32GB高速内存的价格也可能达到或超过400美元。只需支付少量溢价，你就能将这些组件装进一个设计精美的机箱中，机箱配有全景玻璃侧板，内部还搭载一块1TB PCIe 4.0固态硬盘。整套设备经过测试，并提供一年的零部件和人工保修。此外，它还附带键盘和鼠标，因此到货后即可开始游戏。</p>
+<p>其他值得考虑的优惠</p>
+<p>如果你需要一台色彩和清晰度都十分出色的游戏显示器来搭配新游戏电脑，Newegg目前将ASRock PGO27QSA-W降价至299.33美元，较其476美元的原价大幅优惠。这款27英寸显示器支持1440p分辨率、240Hz刷新率和FreeSync Premium可变刷新率技术，并采用能够呈现深邃黑色的OLED面板。</p>
+<p>亚马逊目前将两件装的Anker Zolo MagSafe无线充电器降价至25.99美元，通常售价为39.99美元。每个充电器均通过Qi2认证，支持最高15W充电功率，并配有一根1.5米长的线缆，方便放置在书桌或床头柜上。不过，你需要自备墙充器。</p>
+<p>任天堂客户答谢促销活动将持续至太平洋时间9月26日晚上8点59分，现在是购买额外一套手柄以及其他游戏和配件的好时机。Switch Pro手柄目前在亚马逊和百思买均仅售56美元（通常约为70美元）；百思买还将一对Joy-Con手柄降至62.99美元，不过目前只有粉彩紫与绿色组合有货。这些手柄兼容初代Switch和Switch 2，但新版主机用户需要另行购买充电器，而且手柄无法将处于睡眠状态的主机唤醒。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>沃尔玛对配备 RTX 5070 的 CyberPowerPC 游戏主机促销，售价为 1,549 美元，较原价 2,139 美元（或标示的 2,139.99 美元）降价近 600 美元。</li>
-    <li>该 CyberPowerPC 游戏主机搭载英特尔酷睿 i7-14700KF 处理器、32GB 6000MHz DDR5 内存、配有 12GB 显存的英伟达 RTX 5070 Founders Edition 显卡、1TB PCIe 4.0 SSD，并采用配备全景玻璃面板与三个内部 RGB 调节旋钮的 CyberPowerPC MA-O1 机箱，附带键盘、鼠标以及一年零件与人工保修。</li>
-    <li>来源叙事重点：在当前独立硬件零售价格持续高企的背景下，对比自行组装的高昂溢价，论证整机预装电脑（如配备 RTX 5070 的 CyberPowerPC 主机）具有高性价比，并汇总其他数码产品特惠交易。</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-25 02:19 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -246,56 +526,8 @@ notice:
 :::
 
 :::cell
-<div id="story--ice-annual-minimum-html-ea71bd4889b48978" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1323" data-content-paragraphs="14" data-published-at="2026-09-24T18:20:14.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🔬 深空与基础科学</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 02:20</span>
-</div>
-
-### [北极海冰达到2026年度最小覆盖范围](https://phys.org/news/2026-09-arctic-sea-ice-annual-minimum.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Arctic Sea ice reaches 2026 annual minimum extent</div>
-
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/arctic-sea.jpg" alt="北极海冰达到2026年度最小覆盖范围" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>作者：詹姆斯·赖尔登（James Riordon），美国国家航空航天局（NASA）<br />编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan）<br />本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时强调了以下属性：</p>
-<p>根据美国国家航空航天局（NASA）与科罗拉多大学博尔德分校的国家冰雪数据中心（NSIDC）的数据，北极海冰于9月12日达到了年度最小覆盖范围。海冰覆盖面积估计为178万平方英里（460万平方公里），与2008年、2010年和2025年并列为卫星记录中第10低的最小值。</p>
-<p>2026年的最小值与卫星记录中观察到的规律相吻合。从2007年到2026年的过去20年间，出现了自1978年底开始连续卫星测量以来所观测到的20个最低的北极海冰年度最小范围。</p>
-<p>北极海冰在黑暗寒冷的秋冬季增长，随着春夏季气温升高而消退，通常在9月份达到其最小范围。不同年份夏季之间的天气条件可能会导致海冰融化量出现显著差异。</p>
-<p>例如，马里兰州格林贝尔特的NASA戈达德太空飞行中心的海冰科学家利内特·博斯韦尔（Linette Boisvert）表示，在过去十年中，云层覆盖的增加阻止了太阳辐射进一步加速海冰融化。</p>
-<p>这促进了近年来9月份海冰覆盖范围的相对稳定。NSIDC高级研究科学家沃尔特·迈耶（Walt Meier）表示：“我们进入了平台期，但与有记录以来的早期相比仍然处于较低水平。”</p>
-<p>在地球的另一端，南极海冰在经历8月份的波动后，正在接近其年度最大覆盖范围。</p>
-<p>南极周边的海冰在六天内减少了约11.6万平方英里（30万平方公里），随后恢复了季节性增长。迈耶表示，这一下降似乎与天气条件有关，天气推动并压实了靠近外缘的较薄且易移动的浮冰。</p>
-<p>“这种情况经常发生，”迈耶说，“但其幅度确实不同寻常。”</p>
-<p>南极海冰的年际变化比北极海冰更大，因为与北极不同，南极并未被陆地包围，能够对变化的风和天气条件做出更自由的响应。但近年来，处于年度最大值时的南极海冰范围普遍较低。由于这种巨大的年际变化，博斯韦尔和迈耶在将这一变化定性为长期趋势时依然保持谨慎。</p>
-<p>科学家从太空追踪极地海冰已有近五十年。在此期间，NASA和美国国家海洋和大气管理局（NOAA）利用一系列卫星仪器维持了连续的海冰记录，始于NASA的“雨云-7号”（Nimbus-7）卫星，该卫星于1978年10月开始观测。</p>
-<p>该记录随后由自1987年开始的国防气象卫星计划（DMSP）搭载仪器以及2002年至2011年的NASA Aqua卫星继续延续。如今，科学家通过2012年搭载于日本宇宙航空研究开发机构（JAXA）GCOM-W卫星上发射的高级微波扫描辐射计2（AMSR2）的数据继续维持该记录。</p>
-<p>南极海冰通常在9月下旬或10月上旬达到年度最大值。NASA和NSIDC将在科学家确认季节性海冰增长停止后公布2026年的最大值。</p>
-<p>英语硕士，自2021年起担任文字编辑，在高等教育与健康领域内容方面拥有丰富经验。致力于提供可信赖的科学新闻。完整资料 →<br />数学生物学学士，创意写作硕士。履历丰富，在科学和语言方面拥有独特见解。完整资料 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>2026年9月12日，北极海冰达到年度最小范围，预估覆盖面积为178万平方英里（460万平方公里）。</li>
-    <li>2026年北极海冰最小范围与2008年、2010年和2025年并列为卫星记录中第10低的最小值。</li>
-    <li>来源叙事重点：基于近50年连续卫星观测数据，报道2026年北极海冰达到年度最小范围（与历年并列历史第10低）及过去20年持续偏低的长期态势，同时对比观察南极海冰的异常短期波动与高变异性。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#深空与基础科学</span>
-  <span class="news-tag-pill">#Phys.org</span>
-</div>
-
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-arctic-sea-ice-annual-minimum.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
 <div id="story-ico-stargate-data-center-8e953b62eee23ddb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1291" data-content-paragraphs="18" data-published-at="2026-09-24T18:11:44.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1281" data-content-paragraphs="18" data-published-at="2026-09-24T18:11:44.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -304,34 +536,33 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 02:11</span>
 </div>
 
-### [甲骨文就其新墨西哥州“星际之门”数据中心发出不可抗力通知](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/)
+### [甲骨文就其位于新墨西哥州的星际之门数据中心发出不可抗力通知](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Oracle sends force majeure notice on its New Mexico Stargate data center</div>
 
-<div class="article-body" data-article-body="true"><p>据彭博社周四率先报道，甲骨文已向“木星项目”（Project Jupiter）的开发商发出不可抗力通知。该项目是位于新墨西哥州的一座“星际之门”（Stargate）数据中心园区。</p>
-<p>不可抗力条款常见于能源和大宗商品合同。当不受当事方控制的事件妨碍履行合同时，这类条款可使一方免于承担合同义务。据彭博社援引的消息人士称，甲骨文并不是要退出、放弃其作为该园区主要租户的身份。相反，如果该设施未能实现于2028年上线的目标，这份通知将允许甲骨文推迟付款。</p>
-<p>这份通知发出之际，美国各地对人工智能数据中心建设的审查日益加强；与此同时，开发商正承担高昂成本，为OpenAI等客户建设容量。</p>
-<p>甲骨文表示，公司预计不会出现延误。甲骨文在给美国消费者新闻与商业频道（CNBC）的一份声明中说：“木星项目仍按我们的计划推进。我们完全致力于新墨西哥州，并对未来的发展路径充满信心。”</p>
-<p>收到这份通知的蓝猫资本（Blue Owl Capital）旗下部门在给CNBC的另一份声明中表示：“这份通知不会改变我们对这一多年期项目所作的财务承诺。”</p>
+<div class="article-body" data-article-body="true"><p>据彭博社周四率先报道，甲骨文已向“木星项目”（Project Jupiter）的开发商发出不可抗力通知。木星项目是位于新墨西哥州的一个“星际之门”（Stargate）数据中心园区。</p>
+<p>不可抗力条款常见于能源和大宗商品合同中。当合同一方无法控制的事件妨碍其履行合同义务时，该条款可使其免于承担相关义务。据彭博社消息人士称，甲骨文并不是要退出作为该园区主要租户的角色。相反，如果该设施未能按计划于2028年上线，这份通知将允许甲骨文延迟付款。</p>
+<p>这份通知发出之际，美国各地对人工智能数据中心建设的审查日益严格，开发商也在为OpenAI等客户建设产能时承担高昂成本。</p>
+<p>甲骨文表示，公司预计不会出现延误。甲骨文在给CNBC的一份声明中说：“木星项目仍按我们的计划推进。我们完全致力于新墨西哥州，并对未来的发展路径充满信心。”</p>
+<p>收到这份通知的蓝猫资本（Blue Owl Capital）旗下部门在给CNBC的另一份声明中表示：“这份通知不会改变该多年期项目的财务承诺。”</p>
 <p>甲骨文和蓝猫资本均未立即回应TechCrunch的置评请求。</p>
-<p>不过，这份通知是在该项目地点接连遭遇一系列挫折之后发出的，其中许多问题都与能源供应有关。该园区的设计容量为2.45吉瓦，计划使用Bloom Energy生产的燃气燃料电池供电，因此可靠的天然气供应对项目进度至关重要。</p>
-<p>一条原计划向该地点输送天然气的Energy Transfer管道也已延误近六个月，推迟至2027年2月1日。此前，监管机构多次拒绝为该管道颁发许可。今年8月，彭博社报道称，在许可遭拒后，该管道的路线已发生改变。为园区提供电力的燃料电池系统所需的另一项空气质量许可也仍在等待审批。该州环境部门须在11月23日前作出决定。</p>
-<p>木星项目是“星际之门”计划的旗舰项目之一。甲骨文、OpenAI和软银在美国总统唐纳德·特朗普第二任期初期宣布了这项人工智能基础设施计划。该园区遭到当地居民和环保组织的反对，并在中期选举前成为政治争议焦点。据彭博社报道，甲骨文已在该州开展公共沟通活动，旨在争取该项目批评者的支持。</p>
+<p>不过，这份通知是在该项目所在地连续遭遇一系列挫折之后发出的，其中许多挫折与能源供应有关。该园区的设计容量为2.45吉瓦，计划使用Bloom Energy生产的燃气燃料电池供电，因此稳定的天然气供应对其建设进度至关重要。</p>
+<p>原计划向该地点输送天然气的Energy Transfer管道也已延迟近六个月，推迟至2027年2月1日。这是因为监管机构多次拒绝为该管道颁发许可。今年8月，彭博社报道称，在相关许可遭拒后，管道线路已经变更。为园区提供电力的燃料电池系统还需要获得一份单独的空气质量许可，目前该许可仍在审批中。新墨西哥州环境部门须在11月23日前作出决定。</p>
+<p>木星项目是“星际之门”计划的旗舰项目之一。该人工智能基础设施计划由甲骨文、OpenAI和软银在美国总统唐纳德·特朗普第二任期早期宣布。该园区遭到当地居民和环保组织反对，并已成为中期选举前的政治焦点。据彭博社报道，甲骨文已在该州发起公共沟通活动，旨在争取该项目批评者的支持。</p>
 <p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>您下一次重要的交流机会就在Disrupt。与超过1万名创始人、风险投资人、企业运营者和科技领袖建立联系。探索未来的突破，了解当今正在塑造科技行业的力量，并在太平洋时间9月25日晚上11时59分前报名，最高可节省200美元。</p>
-<p>Anthropic称，其生物学实验室已经取得重大成果</p>
-<p>PitPro首台换胎机器人在加拿大投入使用</p>
+<p>你的下一次重大连接就在Disrupt大会。与超过10,000名创始人、风险投资人、运营者和科技领袖建立联系。探索未来的突破性进展，了解当今正在塑造科技行业的力量，并在太平洋时间9月25日晚上11点59分前报名，最高可节省200美元。</p>
+<p>Anthropic称，其生物学实验室已经取得重大进展</p>
+<p>PitPro的首台换胎机器人在加拿大投入使用</p>
 <p>Anthropic发布Opus 5.5：价格更低，性能达到Fable级别</p>
-<p>Meta的Muse在移动端上线初期的表现超过了ChatGPT</p>
-<p>Tilly Norwood的媒体巡回宣传表现，正如你对一款人工智能产品所能预期的那样</p>
-<p>Anthropic正在运营一个开展生物学实验的实验室</p>
-<p>一名ChatGPT发明者开发的新型人工智能模型令开发者兴奋不已</p></div>
+<p>OpenAI成立数学顾问小组，其人工智能已解决100多个公开难题</p>
+<p>Meta的Muse在移动端推出初期的表现超过了ChatGPT</p>
+<p>Tilly Norwood的媒体巡回宣传，对于一款人工智能产品而言，进展正如你所预期</p>
+<p>一位ChatGPT发明者推出的新型人工智能模型令开发者兴奋不已</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>甲骨文（Oracle）向位于新墨西哥州的 Stargate 数据中心园区“木星计划”（Project Jupiter）的开发商发出了不可抗力通知。</li>
-    <li>甲骨文并未寻求退出作为该园区主要租户的身份，该通知将允许甲骨文在该设施未能在2028年如期上线的情况下推迟付款。</li>
-    <li>来源叙事重点：聚焦甲骨文就新墨西哥州 Stargate AI 数据中心发出不可抗力通知的法律与商业防御动作，强调供应链（天然气管道延误）、环保审批障碍以及政治争议给大规模 AI 基础设施带来的实际交付风险与成本挑战。</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 02:11 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -344,234 +575,8 @@ notice:
 :::
 
 :::cell
-<div id="story-anford-psychiatrist-says-91f3abd9a8da0f5f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1530" data-content-paragraphs="21" data-published-at="2026-09-24T18:17:20.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 02:17</span>
-</div>
-
-### [海登·潘妮蒂尔服药过量事件显示芬太尼危机“不歧视任何人”，斯坦福大学精神科医生称](https://www.foxnews.com/us/hayden-panettiere-overdose-shows-fentanyl-crisis-doesnt-discriminate-stanford-psychiatrist-says)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Hayden Panettiere&#39;s overdose shows fentanyl crisis &#39;doesn&#39;t discriminate,&#39; Stanford psychiatrist says</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/hayden-panettiere-4.jpg?ve=1&amp;tl=1" alt="海登·潘妮蒂尔服药过量事件显示芬太尼危机“不歧视任何人”，斯坦福大学精神科医生称" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>海登·潘妮蒂尔致命的药物过量事件 starkly 提醒人们，芬太尼危机并未消失；尽管自2022年药物过量死亡人数达到峰值以来，美国在减少此类死亡方面确实取得了进展。</p>
-<p>本周，格林维尔县验尸官办公室裁定，潘妮蒂尔死于在其体内发现的五种药物的毒性作用：芬太尼、4-ANPP、阿普唑仑、甲氨基酚和喹硫平。</p>
-<p>斯坦福大学精神科医生、成瘾医学专家安娜·伦布克博士告诉福克斯新闻数字频道，尽管这名女演员死亡的具体情况仍不清楚，但她体内药物的组合很可能增加了致命性药物过量的风险。</p>
-<p>伦布克说：“我们不知道她是否主动寻找芬太尼。我们不知道她是否服用了含有芬太尼的假药。她也可能是因为疼痛而被处方使用芬太尼。她当时还服用了苯二氮䓬类药物。我们知道，将苯二氮䓬类药物与阿片类药物合用，会增加这两类药物各自导致药物过量的风险。看起来她还服用了喹硫平，这是一种情绪稳定剂，但在这种组合中也具有很强的镇静作用。”</p>
-<p>海登·潘妮蒂尔之死：缉毒局加入调查，追查这位已故明星的遭遇</p>
-<p>伦布克继续说：“我们不知道她是从哪里获得这些药物的，但看起来这是一种致命的多重用药，其中包括芬太尼；芬太尼单独使用时就是一种极其致命的药物。”</p>
-<p>克利夫兰诊所将多重用药定义为定期服用多种药物，通常是四种或更多。</p>
-<p>伦布克提醒人们，不要武断地得出究竟是什么导致潘妮蒂尔死亡的结论，但她表示，这场悲剧凸显了一个更广泛的现实：芬太尼仍是一种可能影响任何人的致命威胁。</p>
-<p>伦布克说：“这仍然是一个非常严重的风险，而且这种风险不歧视任何人。无论年老年少、贫穷富有、是否出名，都可能受到影响。由于在现代社会，人们越来越容易获得这些效力极强且可能致命的药物，我们实际上都面临这个问题的风险。”</p>
-<p>芬太尼是一种合成阿片类药物，其效力最高可达海洛因的50倍。在过去十年中，它改变了美国非法毒品供应的面貌。</p>
-<p>普雷斯利·格柏之死引发关于药物过量、戒断和戒毒康复安全的疑问</p>
-<p>美国国家药物滥用研究所称，涉及合成阿片类药物——主要是非法制造的芬太尼——的死亡人数从2014年开始大幅上升，并于2022年达到创纪录的73,838人。</p>
-<p>伦布克说，芬太尼的强效只是其危险性的一部分。同样令人担忧的是，微量芬太尼会被藏在外观仿制正规处方药的假药中。</p>
-<p>伦布克说，对于年轻人而言，即使他们没有成瘾问题，也存在一种“非常现实的风险”：他们可能在聚会上被人递给一片外观看起来与赞安诺（Xanax）或羟考酮（OxyContin）完全一样的药片，但实际上那是假药，其中含有少量芬太尼。</p>
-<p>她说：“对于此前没有接触过阿片类药物的人来说，单次剂量就可能致死，这也是为什么我们尤其需要与年轻人展开以数据为依据的讨论。”</p>
-<p>她补充说：“年轻时尝试毒品的行为，可能是他们父母当年进行时相对没有风险的……但对于如今的年轻人来说，这已经不再没有风险。”</p>
-<p>伦布克鼓励家长提前应对这一问题，在孩子接触社交媒体上不准确或具有误导性的信息之前，就坦诚地与他们谈论毒品。</p>
-<p>伦布克说，如果家长或监护人发现孩子患有物质使用障碍，就应避免下意识地将其当作“正常的青少年尝试行为”而置之不理。</p>
-<p>她说：“这些药物太容易获得，也太过致命，不能只寄希望于这会是一个短暂阶段，孩子长大后自然会摆脱。我们知道，越早干预与成瘾相关的问题，就越有可能帮助这个人重新走上人生的新道路。”</p>
-<p>伦布克还向医生提出建议。她说，医生应谨慎开具可能成瘾的药物，并密切监测患者是否出现误用迹象。</p>
-<p>作为一名执业精神科医生，伦布克经常为注意力缺陷多动障碍患者开具兴奋剂，为疼痛患者开具阿片类药物，并为失眠和焦虑患者开具苯二氮䓬类药物。但她表示，医生有责任以最低有效剂量、在尽可能短的时间内开具这些药物。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-25 02:17 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/us/hayden-panettiere-overdose-shows-fentanyl-crisis-doesnt-discriminate-stanford-psychiatrist-says" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-economy-2192433-24d80cd968ca623d" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="581" data-content-paragraphs="6" data-published-at="2026-09-24T18:14:51.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">⚡ 战略能源与气候</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 02:14</span>
-</div>
-
-### [市场数据：俄罗斯股市周四涨跌互现](https://tass.com/economy/2192433)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Russian stock market mixed on Thursday — market data</div>
-
-<div class="article-body" data-article-body="true"><p>莫斯科，9月24日。/塔斯社/。根据莫斯科交易所的数据，俄罗斯股市周四收盘走势分化、涨跌互现。</p>
-<p>莫斯科交易所指数（MOEX Russia Index）小幅上涨至2312.35点。俄罗斯交易系统指数（RTS Index）小幅下跌0.6%，报857.94点。人民币兑卢布汇率下跌10戈壁，至12.6卢布。</p>
-<p>BCS投资世界（BCS Investment World）的安德烈·斯米尔诺夫（Andrey Smirnov）评论道：“与莫斯科交易所指数相关的关键动态与前一天一样，围绕在2300点附近展开，但波动有所加剧。一方面，国际油价延续了上涨势头；另一方面，财政预算草案的出台以及财政部的财税举措对市场情绪造成了压力。”</p>
-<p>自由金融全球（Freedom Finance Global）的纳塔利娅·米利恰科娃（Natalia Milchakova）表示：“极地黄金（Polyus）股票（+3.8%）成为今日俄罗斯股市领涨个股，市场可能预期该公司将从金价上涨中获益。”</p>
-<p>她补充称，诺里尔斯克镍业（Norilsk Nickel）股票跌幅最大（-5.9%），这是因为受临时暴利税影响，市场可能预期该企业近期内不会恢复派发股息。</p>
-<p>BCS投资世界预计，莫斯科交易所指数将在2270点至2370点的区间内运行。自由金融全球则预计该指数将在2250点至2350点的范围内波动。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-25 02:14 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#战略能源与气候</span>
-  <span class="news-tag-pill">#TASS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://tass.com/economy/2192433" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-unmasking-monster-ep-1-4-434a1f21c9c6e2e0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1057" data-content-paragraphs="14" data-published-at="2026-09-24T18:12:23.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 02:12</span>
-</div>
-
-### [《揭露恶魔面具》：“金州杀手”系列纪录片挑战约瑟夫·迪安杰洛的犯罪时间线](https://www.foxnews.com/media/golden-state-killer-unmasking-monster-ep-1-4)
-<div class="original-title-sub"><span class="orig-tag">原文</span> &#39;Unmasking a Monster&#39;: Golden State Killer series challenges timeline of Joseph DeAngelo&#39;s crimes</div>
-
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Golden-State-Killer-Fox-News-001.jpg?ve=1&amp;tl=1" alt="《揭露恶魔面具》：“金州杀手”系列纪录片挑战约瑟夫·迪安杰洛的犯罪时间线" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>四十年来，约瑟夫·迪安杰洛（Joseph DeAngelo）一直大隐于市，而当局最终将其认定为“维萨利亚破坏者”（Visalia Ransacker）、“东区强奸犯”（East Area Rapist），以及最为人熟知的“金州杀手”（Golden State Killer）。但福克斯国家网（Fox Nation）的一部新剧集正在调查他已知的罪行是否就是全部真相。</p>
-<p>《金州杀手：揭露恶魔面具》（Golden State Killer: Unmasking a Monster）通过独家证词和从未公开过的证据，重新审视了迪安杰洛的暴力过往，追问他的犯罪活动是否比此前认定的时间更早开始；如果确实如此，他又留下了哪些未被发现的受害者。</p>
-<p>“存在一种可能，而且极有可能是事实，那就是他犯下的罪行远多于我们所能了解到的，”在2015年至2023年期间担任萨克拉门托县地方检察官的安妮·玛丽·舒伯特（Anne Marie Schubert）表示。</p>
-<p>加州新法律为失踪人员调查扩大DNA工具应用</p>
-<p>2018年，调查人员在对家谱网站展开搜索后，将72岁的迪安杰洛抓获归案，结束了长达数十年的追捕。2020年，他承认犯有50起强奸罪和13起谋杀罪。</p>
-<p>这部共四集的系列片挑战了既定的迪安杰洛犯罪时间线，从其早期袭击与控制行为的叙述开始切入。随后，剧集重新审视了涉及两名少女被谋杀案的相关证据，并探讨了迪安杰洛是否曾陷害他人以逃避抓捕。</p>
-<p>福克斯霍洛验尸官在寻找答案的过程中透露为何怀疑涉嫌连环杀手并非单独作案</p>
-<p>剧集后续部分调查了他作为“东区强奸犯”所实施的50多次袭击，以及他从连环强奸犯蜕变为连环杀手的过程。</p>
-<p>该系列还对仍未侦破的案件提出了疑问，包括唐娜·里士满（Donna Richmond）和贝丝·斯内林（Bess Snelling）的案件，并收录了疑似受害者及其亲属的最新陈述。</p>
-<p>片中出现的一名幸存者讲述了自己在12岁时遭到残忍强奸的经历。另一名相关人员则认为自己的母亲也是迪安杰洛的受害者。</p>
-<p>最后一集审视了围绕迪安杰洛犯罪行为的最大疑团——他的罪行究竟是否在1986年便戛然而止，还是在他三十多年后被捕之前，一直在继续潜伏游荡、实施强奸和杀戮。</p>
-<p>欲了解更多信息，请订阅福克斯国家网并观看《金州杀手：揭露恶魔面具》。</p>
-<p>点击此处订阅福克斯国家网</p>
-<p>福克斯国家网节目支持点播，也可通过移动设备应用程序观看，但仅限福克斯国家网订阅用户。访问福克斯国家网即可开启免费试用，畅看您喜爱的福克斯国家网名嘴们的庞大节目库。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-25 02:12 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.foxnews.com/media/golden-state-killer-unmasking-monster-ep-1-4" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--in-bulgarien-a-79203544-467c3f413b1edd40" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="de" data-content-length="2553" data-content-paragraphs="20" data-published-at="2026-09-24T18:10:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (DE 官方德语)" width="16" height="16" /> <strong>Deutsche Welle (DE 官方德语)</strong></span>
-    <span class="stance-badge">德国战略自省</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 02:10</span>
-</div>
-
-### [保加利亚迎来电池储能热潮](https://www.dw.com/de/batteriespeicher-boom-in-bulgarien/a-79203544)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Batteriespeicher-Boom in Bulgarien</div>
-
-<div class="article-body" data-article-body="true"><p>在保加利亚，大量私人资金正涌入用于太阳能电力的电池储能设施建设。如今，该国已成为东南欧地区的领头羊。</p>
-<p>在保加利亚的屋顶和阳台上很少能见到太阳能电池板。相反，太阳能主要在农田、草地和废弃工业用地上收集。自2020年代以来，越来越多的太阳能园区拔地而起。为了避免在阳光强烈时弃光限电，自2024年起，电池储能设施的安装力度显著加大。据行业协会“欧洲光伏产业协会”（Solar Power Europe）的数据，到2025年，保加利亚在电池储能容量方面已跻身欧洲前五，仅次于德国、英国、意大利和乌克兰。</p>
-<p>保加利亚财经报纸《Capital》的一项调查显示，保加利亚目前拥有超过14.7吉瓦时（GWh）的电池容量。这已经超过了欧洲光伏产业协会对今年夏季电池储能的年度预测。保加利亚能源生产商与贸易商协会（APSTE）主席尼古拉·加兹多夫（Nikola Gazdov）预计，到今年年底，这一容量将扩建至最高20吉瓦时。</p>
-<p>作为对比：根据亚琛工业大学（RWTH Aachen）的电池图表数据，德国总共拥有超过32吉瓦时的储能容量。但其中大部分安装在私人家庭，目前投入运营的大型电池储能仅有约7.35吉瓦时。</p>
-<p>保加利亚的这股热潮最初由欧盟新冠复苏基金“下一代欧盟”（Next Generation EU）推动，但大部分资金来自私人投资。借助欧盟资金，保加利亚能源部启动了RESTORE计划，出资7亿欧元资助了113个项目。保加利亚商业杂志《Capital》计算，这撬动了超过20亿欧元的私人资本。</p>
-<p>尼古拉·加兹多夫甚至表示，算上基础设施在内，投资规模达到了70亿欧元：与许多国家不同，这里的投资者还要自行解决电网接入问题，负责铺设输电线路并修建变电站。</p>
-<p>其商业模式十分简单：白天低价购电，傍晚高价售出。据《Capital》报道，平均充电成本为每兆瓦时39欧元，而放电收益可达161欧元。“一个150兆瓦的储能电站每天可产生高达7万欧元的收益。投资在三年内即可收回，而设备使用寿命长达20年——这种投资回报率堪称无与伦比，”民主研究中心（CSD）能源专家马丁·弗拉基米罗夫（Martin Vladimirov）说道。</p>
-<p>这是过去30年来最大规模的集中投资，少数经济精英从中获益。“但他们承担了商业风险，而且迄今为止获得了回报。”这种发展同时也在推进能源转型，并让消费者受益。储能设施使得人们能够在当天稍晚的两到四小时内使用廉价的太阳能电力，彼时正值大量空调和家用电器运行的高峰期。</p>
-<p>在社交媒体上，许多人抱怨说，不管储能有多繁荣，他们自己的钱包并没有感受到任何变化。不过，居民家庭使用的是国家规定的固定电价。而工业企业则在自由市场上购电，根据APSTE的数据，工业电价比邻国每千瓦时低10%到15%。</p>
-<p>当罗马尼亚和匈牙利因干旱不得不暂时降低核电站负荷时，保加利亚则能够出口富余电力，并凭借运转良好的区域联网稳定了电网。保加利亚的储能系统还吸收罗马尼亚和希腊的太阳能电力，以便在邻国需要时以更高价格反向售回。</p>
-<p>高额回报率只能部分解释这一创纪录的增长。兼任欧洲光伏产业协会董事会成员的尼古拉·加兹多夫深知：“由于太阳能和风能的发展，欧洲几乎所有地方的电力交易价格都更频繁地跌至零甚至负值。”然而在其他国家，电池储能项目的审批耗时要长得多，而在保加利亚审批发放非常迅速，大型设施能够很快建成并网。加兹多夫表示，从规划到首次充放电循环，最多只需18个月。</p>
-<p>加兹多夫表示，大量新设施的并网虽然对电网构成了挑战，但也促进了电网的现代化改造和新输电线路的建设。CSD能源专家弗拉基米罗夫补充道：保加利亚电网不存在瓶颈。由于历史原因，该国电网反而是超前过度配置的。剧变之前，它主要供应重工业用电，而如今重工业已基本消失。尽管过去15年经济持续增长，但能源需求仍低于以往水平。</p>
-<p>建造并运营这些储能设施的主要是欧洲企业。迄今为止位于新扎戈拉（Nova Zagora）、容量达650兆瓦时（MWh）的最大设施，是由奥地利可再生能源设备专家Enery与德保合资光伏及储能项目开发商Sunotec共同打造的合作项目。中国企业阳光电源（Sungrow）为其供应了锂电池。保加利亚使用的电池几乎全部从亚洲进口。“因为它们确实拥有最好的性价比，”加兹多夫说。相比之下，来自中国的直接投资则极少。</p>
-<p>“我们花费着欧盟资金，同时却加深了对中国的依赖，”民主研究中心的马丁·弗拉基米罗夫批评道，“逆变器中是否存在敏感组件目前也不得而知。”不过，控制系统和软件仍掌握在保加利亚手中。该能源专家预计，未来的欧盟补贴将倾向于优先考虑欧洲本土制造商。</p>
-<p>要观看此视频，请启用JavaScript，并考虑升级到支持HTML5视频的网络浏览器</p>
-<p>转角处便有一种替代方案。自2025年底以来，保加利亚IPS公司（International Power Supply）在索非亚附近生产大型电池和逆变器。据该公司介绍，这座超级工厂（Gigafactory）在无补贴的情况下仅用七个月便建成，并被欧盟列为具有战略重要性的供应商。到2027年，IPS计划每年生产15吉瓦时的储能系统。不过据《巴尔干绿色能源新闻》（Balkan Green Energy News）报道，该工厂同样需要来自远东的电池电芯。</p>
-<p>RESTORE补贴计划已于7月底到期。电池储能设施的这股热潮能否持续仍是未知数：不过储备项目依然十分充足。马丁·弗拉基米罗夫预见市场将走向饱和。并网电池越多，单组电池的收益就会越低。CSD能源专家表示，未来煤电在能源结构中的比重越低，能源价格也会越便宜。</p>
-<p>尽管中午与傍晚之间的电价差异依然存在，但已不再是一座“金矿”。不过在未来，储能运营商或许可以通过提供电网稳定服务来获取报酬。</p>
-<p>在保加利亚继续扩大太阳能发电规模的同时，风力发电却长期处于停滞状态。因此在日照不足的日子里，几乎没有廉价的多余电力可供购买和存储。</p>
-<p>尽管如此，尼古拉·加兹多夫（Nikola Gazdov）仍然认为还有很大的发展空间。这位企业家认为：“只有当邻国也同样大力扩充电池设施时，市场才会出现饱和。东南欧目前正是这方面的一个试验场。”对于保加利亚而言，成为领跑者是一种全新的体验。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Deutsche Welle (DE 官方德语)】于 2026-09-25 02:10 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#Deutsche</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.dw.com/de/batteriespeicher-boom-in-bulgarien/a-79203544" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Deutsche Welle (DE 官方德语)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-mate-change-supervillain-bcb31d434ed42cb8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2737" data-content-paragraphs="4" data-published-at="2026-09-24T18:04:44.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 02:04</span>
-</div>
-
-### [黄仁勋谈论AI与气候变化，口吻宛如超级大反派](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Jensen Huang talks about AI and climate change like a supervillain</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="黄仁勋谈论AI与气候变化，口吻宛如超级大反派" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>来自该话题的帖子将被添加到您的每日电子邮件文摘和主页动态中。<br />谈及人工智能，他表示：“为了拯救你，他们必须先伤害你。”<br />来自该作者的帖子将被添加到您的每日电子邮件文摘和主页动态中。<br />查看贾斯汀·卡尔马（Justine Calma）发表的全部内容<br />按照黄仁勋（Jensen Huang）的说法，人工智能可以帮助应对气候变化——但前提是它必须先带来“巨大的痛苦与折磨”。<br />在最新一期《埃兹拉·克莱因秀》（The Ezra Klein Show）节目中，这位英伟达（Nvidia）首席执行官探讨了能源的未来以及人工智能对我们星球的影响。但他言论的实质，与我们从众多科技界领袖以及唐纳德·特朗普（Donald Trump）总统那里听到的同一种加速主义说辞如出一辙。他们许诺，人工智能将是对人类的一项巨大馈赠，以至于完全值得让目前依靠肮脏能源运行的数据中心造成破坏。<br />黄仁勋极端的特权地位显而易见<br />在采访中，黄仁勋极端的特权地位显露无遗。他说得没错，痛苦确实会存在。人们已经在承受因气候变化而加剧的火灾与洪灾的折磨。人们已经在因为化石燃料造成的空气污染而过早离世。但坐拥约1926亿美元净资产的黄仁勋，却不会为他的公司通过高耗能芯片工厂和数据中心所制造的污染承担代价。<br />在抱怨美国尚未建设足够的化石燃料发电厂后，黄仁勋对克莱因说道：<br />“这有点像，为了拯救你，他们必须先伤害你——这就是手术的本质。他们必须把你切开才能救你。他们必须给你带来巨大的痛苦和折磨，这样他们才能拯救你。所以我认为人工智能差不多也是这样。”<br />正是这番话散发出灭霸（Thanos）的气场。资源过于匮乏，因此这位漫威超级大反派坚信，在抹去一半人类之后，世界将会美好得多。（“我要把这个宇宙碾碎成每一个原子，然后再创造一个充满生机的新宇宙，那里的人不知自己失去了什么，只知自己得到了什么，”他曾对复仇者联盟这样说。）<br />黄仁勋接着说道：<br />“不幸的是，在接下来的几年里，我们必须使用化石燃料，因为我们根本没有足够的可持续能源来发挥实质作用。在那之后，但愿我们能过渡到那种能源。”<br />作为背景，全球几乎所有国家在2015年通过《巴黎协定》时，都同意控制气候变化。该协定确立了一个目标：到2030年将温室气体排放量减半，并在2050年左右实现净零排放。这唯有通过迅速向可再生能源和核能等无碳能源过渡才能实现。以下列出的一小部分可怕后果，正是当我们为了追求人工智能的进步而拖延这一进程时正在不断恶化的：<br />即便黄仁勋置身事外，这些影响也正在他自家后院显现。他在采访中提到，他甚至不知道自己的住址。然而，据报道，他早在2004年就在毛伊岛买下了一处价值750万美元的住宅——那是在2023年野火重创该岛之前。那一年，英伟达的一位发言人向《The Verge》证实，黄仁勋一家“多年来在毛伊岛一直拥有该住所”。<br />据报道，黄仁勋的房产躲过了灾劫，英伟达发言人曾告诉我，黄仁勋一家“向当地救援工作捐赠了巨资”。然而，尽管有在毛伊岛置业的科技亿万富豪们的慈善捐赠，这场大火也激化了关于豪宅占用毛伊岛供水系统的矛盾与紧张局势。<br />“亿万富豪来到毛伊岛，大肆圈购土地作为他们的——我不知道，第七套度假屋吧，这对我们社区来说是痛苦的，”毛伊县议员基阿尼·罗林斯-费尔南德斯（Keani Rawlins-Fernandez）当时告诉我，“这凸显了想要‘mālama ‘āina’（关爱土地）的原住民与那些仅将夏威夷视为度假胜地的人之间的巨大差距。”<br />“亿万富豪来到毛伊岛，大肆圈购土地作为他们的——我不知道，第七套度假屋吧，这对我们社区来说是痛苦的。”<br />尽管化石燃料产生的温室气体污染通过加剧干热条件使得野火更加危险，但将毛伊岛拉海纳大部分地区夷为平地的火灾并不完全归咎于气候变化。我当时曾报道过，前几代富有的掠地者早已为该群岛的燃烧埋下了祸根。为了逃避进口税，在美国种植园主的怂恿下，美国于1898年吞并了夏威夷王国。他们为商业利益清除了原生植被，导致入侵草类肆虐生长，使这里的地貌比以往更容易起火。<br />因此，现在当我听到黄仁勋声称必须以人工智能进步的名义做出牺牲时，这让我想起我们以前早就见识过这种套路。一个想要不惜一切代价实现增长的行业，而周边的社区及其后代却只能默默承受其造成的恶果。<br />在与克莱因的访谈中，黄仁勋提到了社区对数据中心日益高涨的反对声音，并斥责其他公司在动工前没有向居民宣传数据中心据称具有的高效率这一“好消息”。“如果他们不希望在他们的城镇或任何地方建造数据中心，那就随他们去。但如果你打算在他们的城镇建设，一定要去那里让他们知道将要发生什么，”他说道。<br />灭霸那句臭名昭著的名言是“我就是天命”（I am inevitable）——显然，人工智能数据中心也是如此。<br />即便如此，数据中心实际上并不一定非要像现在这样造成如此严重的污染。<br />在访谈中，黄仁勋还（有失公允地）将创纪录的可再生能源采购归功于人工智能。他指责气候行动阻碍了能源基础设施的建设，推测他指的是化石燃料设施。<br />“我认为我们必须承认，我们在气候变化和可持续能源方面确实把自己束缚住了，结果就是，我们根本没有规划足够的能源生产。”<br />接着他宣称，如果你想要一个可持续的未来，人工智能是我们在气候变化问题上“迎来转机的最佳机遇”。他认为，从长远来看，人工智能将加速对清洁能源的需求。但人工智能目前已经需要大量能源，而我们手头现有的只有化石燃料。<br />“更具污染性的人工智能建设并非不可避免。”<br />然而，在近期生成式人工智能热潮兴起之前，可再生能源本就已经是新增发电量中增长最快的来源。利用风能或太阳能发电通常比新建燃气或燃煤电厂更为便宜。但特朗普在化石燃料行业为其竞选金库提供资金支持后，正在激励开发燃气和燃煤电厂来为数据中心供电。<br />如今，数据中心反过来又在推动更多化石燃料基础设施的建设。加州大学河滨分校、加州理工学院和罗彻斯特理工学院的一项研究显示，到2028年，与人工智能相关的空气污染可能导致多达1300人过早死亡，并造成超过200亿美元的公共卫生开支。</p>
-<p>然而，“污染更严重的人工智能扩建并非不可避免。这取决于政府目前的抉择，”由美国环境保护署（EPA）前雇员组成的环境保护网络（Environmental Protection Network）的高级总监马克·布姆（Marc Boom）在近期一场关于数据中心所带来的日益增加的健康风险的新闻通报会上表示。</p>
-<p>这也取决于像黄仁勋这样的行业领袖的态度。如果别人的痛苦和磨难是你愿意为所谓进步付出的代价，那与其说这体现了什么是可能的，不如说它折射出你个人的利益抉择与优先级。</p>
-<p>免费每日精选重要新闻简报。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-25 02:04 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
 <div id="story-n-create-studio-ai-games-d0c09943ed7a0f81" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="926" data-content-paragraphs="1" data-published-at="2026-09-24T17:52:29.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="984" data-content-paragraphs="12" data-published-at="2026-09-24T17:52:29.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -585,7 +590,18 @@ notice:
 
 <div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Meta将允许你直接在手机上用AI制作游戏" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该主题的帖子将被添加到您的每日电子邮件文摘和主页信息流中。<br />Meta的Horizon平台的下一步行动涉及AI生成的电子游戏。<br />该作者的帖子将被添加到您的每日电子邮件文摘和主页信息流中。<br />查看Jay Peters的所有文章<br />Horizon作为一个平台一直举步维艰，但Meta制定了一项计划，旨在让这些新的Horizon游戏获得更广泛的传播：它将允许使用Horizon Create和Horizon Studio制作并发布的游戏在Facebook和Instagram上获得推荐，且这些游戏在这些平台上也可以直接游玩。<br />Meta表示：“在Instagram上浏览内容的人可以点击你游戏的短视频片段，并在几秒钟内进入多人对战，无需下载应用程序或跳转页面。你的游戏原生存在于人们发现内容并与朋友联系的信息流中。”该公司表示，“引人入胜、稳定、符合文化潮流且能留住玩家”的游戏将获得更多曝光推广。<br />该公司发布此消息之际，与Horizon类似但受欢迎程度高得多的平台Roblox也在大力推进AI驱动的开发，包括其移动应用中一项同样允许用户通过提示词生成游戏的功能。<br />最初作为VR应用推出的Horizon，此次Meta的新动态是其近期转向以移动端为主的策略的延续。鉴于Meta基本上把AI塞进了所有能塞进的东西里，AI成为Horizon的重要组成部分或许也就不足为奇了。<br />为人们提供快速制作这些游戏的工具，可以给玩家提供更多游玩选择。我非常怀疑一堆AI生成的游戏能否像人工精心打造的体验那样引人入胜，但在Create和Studio中制作的游戏听起来至少具备电子游戏的要素（不像谷歌的Project Genie那样只能创建短暂但空洞的AI生成交互体验）。Meta在一篇博文中表示：“两者都能让创作者将任何想法转化为完整的2D或3D移动端游戏，配备进阶系统、平衡的难度、美术指导、多人游戏等功能，然后根据自己的标准完善每一个元素。”<br />Meta想要达到Roblox的规模可能还有很长的路要走，后者的日活跃用户达1.23亿。相比之下，Horizon从未真正起飞过；The Verge在2022年初曾报道其月活跃用户达到了30万。<br />最重要新闻的免费每日文摘。<br />这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>关于这一主题的文章将添加到你的每日电子邮件摘要和首页信息流中。</p>
+<p>Meta下一步推动Horizon平台发展的重点将是AI生成的电子游戏。</p>
+<p>这位作者的文章将添加到你的每日电子邮件摘要和首页信息流中。</p>
+<p>查看Jay Peters的全部文章</p>
+<p>Horizon作为一个平台一直举步维艰，但Meta计划让这些新Horizon游戏获得更大的触达范围：使用Horizon Create和Horizon Studio制作并发布的游戏，将会在Facebook和Instagram上获得推荐，用户也可以直接在这两个平台上游玩。</p>
+<p>Meta表示：“在Instagram上浏览内容的用户可以点开你游戏的一个片段，并在几秒钟内进入多人游戏，不需要下载应用，也不会被重定向到其他页面。”“你的游戏原生存在于人们已经用来发现内容、与朋友联系的信息流中。”该公司称，那些“具有吸引力、运行稳定、符合文化相关性，并能让玩家持续回流”的游戏将获得更大的触达范围。</p>
+<p>Meta宣布这一消息之际，Roblox这一与Horizon类似、但受欢迎程度高得多的平台也在大力推进AI驱动的开发，其中包括一项移动应用功能，同样允许用户通过提示词生成游戏。</p>
+<p>Meta关于Horizon的消息发布之时，这款最初作为VR应用推出的产品近期已转向主要聚焦移动端。Meta几乎把AI塞进了能塞进去的一切产品中，因此AI也成为Horizon重要组成部分或许并不令人意外。</p>
+<p>为人们提供快速制作这类游戏的工具，或许能让玩家有更多可玩的选择。我非常怀疑，一大批AI生成的游戏能否像精心手工制作的体验那样具有吸引力，但Create和Studio制作的游戏听起来至少会具备电子游戏应有的元素（不像谷歌的Project Genie，后者只能生成短暂却空洞的AI互动体验）。Meta在一篇博客文章中表示：“两款工具都能让创作者把任何想法变成完整的2D或3D移动游戏，配备成长系统、平衡的难度、艺术指导、多人游戏等功能，然后按照自己的标准对每个元素进行完善。”</p>
+<p>Meta要达到Roblox的规模，可能还有很长的路要走。Roblox拥有1.23亿日活跃用户；相比之下，Horizon从未真正发展起来。《The Verge》在2022年初报道称，Horizon当时拥有30万月活跃用户。</p>
+<p>每天免费获取最重要的新闻摘要。</p>
+<p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -601,60 +617,6 @@ notice:
 </div>
 
 <div class="news-card-footer"><a href="https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--into-a-much-newer-trend-c55e075bb2c7402e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2613" data-content-paragraphs="23" data-published-at="2026-09-24T17:39:24.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 01:39</span>
-</div>
-
-### [Meta的Muse Charm看似拓麻歌子，却暗合了一股更新的潮流](https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend</div>
-
-<div class="article-body" data-article-body="true"><p>Meta刚刚发布的Muse Charm究竟是一款让AI对日常消费者更具亲和力的趣味设备，还是会沦为Ai Pin、Rabbit或Friend挂坠等一长串未能成功的AI硬件产品中又一个失败之作？到目前为止，外界反应褒贬不一。然而，Charm毋庸置疑的一点是：它精准踩中了当下的潮流。</p>
-<p>不论你喜不喜欢，这种形态都极具吸引Z世代消费者的潜力。在后Labubu时代，这群年轻人早就热衷于在钥匙扣和包包上悬挂各种挂件。这都是他们在时尚和科技理念上更广泛的俗艳（kitschy）、复古风潮转变的一部分。</p>
-<p>Z世代已经为“可悬挂物品”开辟出了一片市场，从唇蜜、免洗洗手液、防晒霜到香水等各种物品都被做成了包包挂件，主要面向女性客群。</p>
-<p>由 Kristina Rodulfo（@kristinarodulfo）分享的帖子</p>
-<p>海莉·比伯（Hailey Bieber）风靡一时的Rhode唇膏手机壳——将唇蜜直接固定在手机壳上——极大地推动了“美妆产品亦可作为时尚配饰”的理念，其旗下其他以美妆为核心的包包挂件同样发挥了作用。（据《Vogue》去年指出，该品牌仅凭约10款产品就斩获了2.12亿美元的年净销售额，随后便宣布以10亿美元的估值出售给Elf Beauty。）</p>
-<p>随后便是Labubu热潮，这款“丑萌”的毛绒怪兽包包挂件销量暴增，使该产品背后的中国零售商泡泡玛特（Pop Mart）2024年的营收跃升至18亿美元，相较2019年增长了7倍。尽管对Labubu本身的热度后来有所降温，但装饰性包包挂件的概念却并未退潮。一家分析机构估计，到2030年，全球包包挂件市场规模将突破10亿美元。</p>
-<p>如今，包包挂件可以是动漫角色、镶钻美妆产品，或是其他充满奇趣的设计或物件，比如备受Z世代青睐的蔻驰（Coach）樱桃挂件。它们之所以大受欢迎，是因为它们是一种表达个性的方式，正如人类千百年来通过服饰选择、妆容和珠宝首饰来彰显个性一样。</p>
-<p>同样，Meta的Muse也是一个可定制的角色；你可以自行设计虚拟形象，使这个AI智能体也成为你自己的一面镜子。</p>
-<p>正如许多人所指出的，Muse Charm的外观形态让人联想到拓麻歌子（Tamagotchi，电子宠物蛋）——这款口袋大小的数字虚拟宠物在90年代末以及2000年代中期曾两度掀起巨大的玩具狂潮。</p>
-<p>然而，拓麻歌子还不是最贴切的时下参照物。Muse Charm实际上似乎巧妙借鉴了部分年轻人对Apple Watch的新潮玩法。通常作为重新利用旧设备的一种方式，将Apple Watch改造成钥匙扣或挂件的概念正日益流行，TikTok上展示腕表脱离手腕后各种花式用途的视频更是推波助澜。</p>
-<p>放了好几年都没用过！现在打算每天都戴着它 🤓 #applewatch #applewatchhacks #applewatchtips #apple #lvwallet</p>
-<p>在亚马逊和沃尔玛等零售商平台，以及eBay和Etsy等交易市集上，如今已有数以千计的Apple Watch钥匙扣、挂带、吊坠、挂绳、夹扣和包包挂件保护壳，风格应有尽有。正如你所预料的那样，这些钥匙扣手表往往首先被年轻女性当作时尚配饰来接纳，其次才是一件科技产品。</p>
-<p>我彻底迷上了 💕 #applewatch #teacher #teachersoftiktok #girly #cute</p>
-<p>这一切随后与更为广泛的复古科技趋势交汇相融。在这股趋势下，数码相机、翻盖手机、iPod、CD、磁带、家用座机和有线耳机等老旧科技产品正悄然复兴。</p>
-<p>科技领域出现的这种氛围转变，源于年轻人认为算法驱动、令人上瘾的信息流以及科技“缺乏灵魂”的本质让他们倍感疏离，这也促使他们渴望拥有摸得着、感受得到的实体科技。（例如，一家名为Clicks的初创公司甚至在一款受黑莓启发的设备中重新带回了物理手机键盘。）</p>
-<p>对于Z世代而言，这些实体物件有助于让他们与所使用的科技产生更深切的联结，并在一个科技已深度融入生活、让人感觉使用它已不再是一种选择的世界里，找回一种掌控感。</p>
-<p>年轻女性再次站在了这一趋势的最前沿，有些人甚至亲手制作便携式微型计算机——“网络甲板”（cyberdecks），将其装入蛤壳形手袋或定制外壳中，并饰以珠宝、花朵、贴纸、珍珠等物品，使其更具个人特色。</p>
-<p>这让我们重新回到Muse Charm。虽然它的设计显然考虑到了“科技即时尚配饰”的趋势，但这并不意味着它一定会大获成功。</p>
-<p>多年来，Meta对消费者信任的透支已达到可能永远无法完全修复的程度。</p>
-<p>仅举数例：这家科技巨头曾因未经用户同意公开其隐私信息涉嫌欺诈消费者而被迫与美国联邦贸易委员会（FTC）达成和解，并因多起隐私相关违规行为遭到FTC处罚。2023年，FTC指控Meta违反了2019年和解协议后下达的隐私保护令。它还因危害未成年人健康而屡次被召至国会听证，在此类议题上输掉或和解了多起诉讼，并遭遇了多名揭露其违规滥用行为的吹哨人指控。</p>
-<p>这些漫不经心的隐私操作最终可能会让Meta在争夺成为消费者首选AI的战役中败北……当然，除非消费者认为“已知的魔鬼”总比“未知的魔鬼”要好。（尤其是当后者还在警告AI可能会终结人类文明之时。）</p>
-<p>归根结底，Meta的终极目标依然是高针对性、高度个性化的广告投放。如果这是获取免费AI所必须付出的隐私代价——Meta表示将通过从交易中抽取小额分成来变现Muse——消费者或许也愿意承担这一风险。</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会赚取小额佣金。这不会影响我们的编辑独立性。<br />消费新闻编辑<br />您的下一次重大合作尽在Disrupt。与10,000+位创始人、风险投资人、运营者和科技领袖建立联系。探索明天的突破性技术，倾听塑造当下科技格局的声音，并在太平洋时间9月25日晚上11:59前享受最高可达200美元的优惠。<br />Anthropic表示其生物实验室已获得重大发现<br />PitPro首款自动换胎机器人在加拿大上线<br />Anthropic发布Opus 5.5：价格更低，性能比肩Fable<br />Meta的Muse在早期移动端上线表现上超越ChatGPT<br />Tilly Norwood的新闻巡回宣传正如你对一个AI所预期的那样平淡进行<br />Anthropic正运营一家开展生物实验的实验室<br />来自ChatGPT发明者的新型AI模型令开发者兴奋不已</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 01:39 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::
