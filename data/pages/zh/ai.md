@@ -16,8 +16,86 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-ey-client-privilege-hats-aa95f7861ac6e2e3" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="862" data-content-paragraphs="7" data-published-at="2026-09-24T23:50:55.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 07:50</span>
+</div>
+
+### [Meta员工在抗拒披露儿童安全信息期间订购印有“律师-委托人特权”字样的帽子](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Meta员工在抗拒披露儿童安全信息期间订购印有“律师-委托人特权”字样的帽子" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>来自该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。<br />起诉Meta的律师称这些帽子是其“滥用特权文化”的一个例证。<br />来自该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看Richard Lawler的所有文章</p>
+<p>在围绕涉嫌危害青少年安全及心理健康的一系列正在进行的诉讼中，Meta的律师辩称，基于律师-委托人保密特权（attorney-client privilege），某些证据应避免向公众公开。本周，起诉该公司的律师表示，该标签的使用范围过于宽泛，并指出一份近期解密的文件显示，负责在2024年推出Instagram“青少年账户”（Teen Accounts）的团队曾订购过一批棒球帽，帽子上直接印有“a/c priv”（律师-委托人特权缩写）。</p>
+<p>起诉Meta的律师辩称，“尼多项目”（Project Nido，即青少年账户团队的内部代号）的宣传周边是“Meta滥用特权文化”的一部分，其目的在于使公司内部开展的关于青少年危害的研究不被公众知晓；在2021年关于Instagram影响的内部数据泄露后，马克·扎克伯格（Mark Zuckerberg）曾讨论过这一问题。</p>
+<p>美国联邦地区法官伊冯·冈萨雷斯·罗杰斯（Yvonne Gonzalez Rogers）在上个月的一项命令中，已经称Meta的部分特权涂黑遮蔽“完全不妥当”。</p>
+<p>她指出了一项示例：Meta的律师试图将关于幻灯片以及是否公开某些数据的讨论，描绘成对律师法律建议的探讨；法官根据庭审证词认定，他们对公开发布的迟疑更像是一项旨在防止泄密的商业决策。</p>
+<p>在证据开示程序之后，Meta于2025年4月取消了大约65,000份此前扣留或涂黑文件的特权标记，原告称这为时已晚，使他们无法在证词录供中使用这些文件。目前，Meta已申请将时间延期至今年年底，以重新审查其所作的其他特权遮蔽，而原告律师则主张应指定一个中立第三方来主导审查，相关费用由Meta承担。</p>
+<p>查看所有社交媒体内容<br />一份涵盖最重要资讯的免费每日简报。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>在关于涉嫌危害青少年安全与心理健康的持续诉讼中，Meta 的律师辩称某些证据应基于律师-委托人特权（attorney-client privilege）对公众隐瞒。</li>
+    <li>起诉 Meta 的原告律师本周表示，特权标签被使用得过于宽泛，并指出一份近期解密的文件显示，负责在 2024 年推出 Instagram 青少年账户（Teen Accounts）的团队曾订购印有“a/c priv”字样的棒球帽。</li>
+    <li>来源叙事重点：聚焦原告律师曝光Meta青少年账户团队订购印有“a/c priv”字样的棒球帽这一细节，突出Meta涉嫌系统性泛化并滥用“律师-委托人特权”以掩盖青少年安全伤害研究的事实，并呈现法官对Meta不当涂黑文件的批评及双方在证据审查程序上的拉锯。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-r-the-wi-fi-earbud-dream-98250f9291e2c6ed" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1138" data-content-paragraphs="3" data-published-at="2026-09-24T23:42:39.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 07:42</span>
+</div>
+
+### [高通全新“Elite”音频芯片或终将实现Wi-Fi耳机的梦想](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h29m15s548.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="高通全新“Elite”音频芯片或终将实现Wi-Fi耳机的梦想" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>如果你的无线耳机——或者音频眼镜——能够流畅播放高质量的无损音频，而且即使你把手机落在床头充电器上或塞在沙发缝里也不会断连，会是怎样的体验？高通最新推出的Snapdragon Sound Elite Gen 2（第二代骁龙畅听Elite）是其首款直接将“微功率 Wi-Fi 6E”集成到芯片内部的产品，使其能够直接连接到你的家庭Wi-Fi网络，并由此直连云端。[图片：高通早期的白皮书显示，最初实现Wi-Fi耳机需要两颗芯片。如今，Wi-Fi已直接集成到主芯片中。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image-26.png?quality=90&amp;strip=all]</p>
+<p>如果这听起来像是一个似曾相识的承诺，那大概是因为高通早在2023年就凭借“S7 Pro音频平台”及其扩展个人局域网（XPAN）技术做过类似的许诺，当时声称Wi-Fi耳机可以实现单纯依靠蓝牙无法完成的事情——即蓝牙微薄的带宽所无法承载的24-bit 96kHz无损音频。但那个老款7系列平台需要一颗独立的Wi-Fi芯片才能打造Wi-Fi耳机，而对于制造极其微小设备的厂商而言，这显然不是一个能吸引他们采纳该技术的理想方案！事实上，我们至今只听说过一款相关产品：小米在2025年推出的小米Buds 5 Pro，且该产品并未在全球发售。[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1789673099_Snapdragon-Sound-Elite-Gen-2-Highlight-Image-Embargo-Sep-23-930am-HT-1230pm-PT.jpg?quality=90&amp;strip=all]</p>
+<p>现在，由于Wi-Fi不再需要额外的独立芯片，这一构想或许终于能够普及开来。高通表示，与上一代芯片相比，Elite芯片的尺寸缩小了30%，功耗降低了多达40%，同时AI处理能力提升了一倍，所有这些对设备制造商而言都无疑是极佳的利好消息。到目前为止，高通表示正在与惠普（HP）合作开发一款尚未命名的特定产品，同时“与Bose保持紧密合作”，并与Cleer“开创全新类别的智能可穿戴音频设备”（即内置摄像头的耳机）。[图片：带摄像头的耳机。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h35m50s149.png?quality=90&amp;strip=all]</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>高通发布全新的Snapdragon Sound Elite Gen 2芯片，是其首款将微功率Wi-Fi 6E（micro-power Wi-Fi 6E）直接集成到芯片内部的音频平台。</li>
+    <li>Snapdragon Sound Elite Gen 2能够让无线耳机直接连接家庭Wi-Fi网络并连接到云端。</li>
+    <li>来源叙事重点：高通第二代Snapdragon Sound Elite芯片首次单芯片集成微功率Wi-Fi 6E，相比此前需外挂芯片的S7 Pro方案大幅降低功耗与体积，有望实质性解决Wi-Fi无损音频耳机的工程落地与普及难题，并拓展至AI及带摄像头的智能可穿戴设备</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-comms-pr-brad-smith-cela-99ff6e3fec1ed6bf" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1645" data-content-paragraphs="16" data-published-at="2026-09-24T22:08:22.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1660" data-content-paragraphs="20" data-published-at="2026-09-24T22:08:22.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -26,32 +104,37 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 06:08</span>
 </div>
 
-### [微软任命布拉德·史密斯掌管传播业务](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)
+### [微软任命布拉德·史密斯负责传播事务](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft puts Brad Smith in charge of communications</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2268973139.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软任命布拉德·史密斯掌管传播业务" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2268973139.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软任命布拉德·史密斯负责传播事务" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该主题的推送将添加到您的每日邮件摘要和主页动态中。<br />微软的传播业务正转至法律与公司事务部门。<br />该作者的推送将添加到您的每日邮件摘要和主页动态中。<br />查看汤姆·沃伦（Tom Warren）的全部文章</p>
-<p>微软正将其传播团队从营销部门剥离，并入公司法务与外部事务（CELA）部门。这一令人意外的变动将使微软副董事长兼总裁布拉德·史密斯（Brad Smith）负责监督传播业务，与此同时，公司正在寻找首席传播官弗兰克·肖（Frank Shaw）的接替人选，后者将于今年晚些时候离职。</p>
-<p>微软首席执行官萨提亚·纳德拉（Satya Nadella）在宣布传播架构调整的内部备忘录中，对弗兰克·肖“为微软所做的一切”表示感谢。肖本月早些时候宣布，在为公司的传播业务服务近三十年后，他将离开微软。</p>
-<p>全球公共事务副总裁布伦特·科尔伯恩（Brent Colburn）已被任命为临时传播主管，以协助应对纳德拉所称的“日益碎片化且比以往任何时候都更加嘈杂的媒体环境”。纳德拉还表示，他“对有机会帮助我们的工程师、销售人员、合作伙伴以及其他最贴近我们产品与客户的人员，在讲述我们的故事方面发挥更大作用而感到振奋”。</p>
-<p>正如科技媒体GeekWire指出的那样，这听起来非常像人工智能初创公司的运作方式，在OpenAI和Anthropic等公司中，演示和博客通常由研究人员主导。据微软AI首席执行官穆斯塔法·苏莱曼（Mustafa Suleyman）称，微软一直在追赶谷歌、Anthropic和OpenAI，“以成为全球四大顶级实验室之一”。在今年早些时候接受The Verge采访时，苏莱曼曾表示，他希望微软“打造出全球最顶尖的前沿模型”。</p>
-<p>从首席营销官沼本健（Takeshi Numoto）手中接管传播业务的布拉德·史密斯，通常是微软政策与公司公关的公开代言人。史密斯奔赴全球各地，与政府、监管机构和微软客户会面。目前尚不清楚谁将在今年晚些时候正式接替肖的职位，但微软正在物色内部和外部候选人。</p>
-<p>以下是萨提亚·纳德拉的备忘录全文：</p>
-<p>传播业务对微软而言从未像现在这样重要。公司在变，我们的行业在变，我们周围的世界也在变。在日益碎片化且比以往任何时候都更加嘈杂的媒体环境中，我们需要继续立足于我们的使命，日积月累赢得信任，并寻找新方式与所有利益相关群体直接建立连接。</p>
-<p>我首先要感谢弗兰克为微软所做的一切。在过去的17年多时间里，他为公司以及我们的传播职能做出了巨大贡献。在公司最重要的关头，他一直是领导团队以及我个人的重要智囊。</p>
-<p>在弗兰克准备开启人生下一篇章之际，沼本健、布拉德和我一直在讨论公司传播职能的演变。我已要求布拉德自即日起领导传播职能。很少有领导者能像布拉德那样真实地代表微软的声音。他对我们的业务有着深刻的理解，与利益相关者保持着紧密的联系，并且拥有难能可贵的能力，能够以清晰、坚定和令人信服的方式传达复杂的理念。</p>
-<p>在此过渡期间，布伦特·科尔伯恩将继续向布拉德汇报，并出任我们的临时传播主管。传播领导团队将向布伦特汇报，弗兰克将继续就过渡事宜为布拉德和布伦特提供建议。</p>
-<p>在许多方面，最贴近具体工作的人最有机会塑造外界对微软的认知。我们需要为全公司的人员提供工具和支持，帮助他们把这件事做好。我非常振奋能有机会帮助我们的工程师、销售人员、合作伙伴以及其他最贴近产品和客户的人员，在统一战略和原则指引下，在讲述微软故事的过程中发挥更大作用。你们每个人在实现这一目标的过程中都扮演着至关重要的角色。</p>
-<p>接下来我们将迎来一个激动人心的秋季，不仅有诸多重要时刻和活动，背后还有强大的营销支持。这是一个真正契机，可以以全新的方式将我们的产品故事、营销和传播融合在一起。</p>
-<p>我们将学习、尝试并不断演进。我们需要从根本上重新审视传播方式，而这个团队将在构建这种新模式中发挥核心作用。</p>
-<p>感谢你们为微软所做的一切，也感谢你们在讲述我们故事中各自扮演的角色。</p>
-<p>每日免费获取最重要的新闻摘要。<br />这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>该话题的文章将添加到您的每日电子邮件文摘和主页动态中。</p>
+<p>微软的传播事务正在转移至法律与公司事务部门。</p>
+<p>该作者的文章将添加到您的每日电子邮件文摘和主页动态中。</p>
+<p>查看汤姆·沃伦（Tom Warren）的所有文章</p>
+<p>微软正在将其传播团队从市场营销部门移出，并入其企业、外部及法律事务（CELA）部门。这一出人意料的调整将由微软副董事长兼总裁布拉德·史密斯（Brad Smith）统管传播业务，与此同时，公司正在物色接替首席传播官弗兰克·肖（Frank Shaw）的人选，后者将于今年晚些时候离职。</p>
+<p>微软首席执行官萨蒂亚·纳德拉（Satya Nadella）在宣布传播架构调整的内部备忘录中感谢肖“为微软所做的一切”。肖本月早些时候宣布，在为微软的传播工作服务近三十年后，他即将离开微软。</p>
+<p>全球公共事务副总裁布伦特·科尔伯恩（Brent Colburn）已被任命为临时传播主管，以协助应对纳德拉所称的“一个日益碎片化且前所未有嘈杂的媒体环境”。纳德拉还表示，他“对有机会帮助我们的工程师、销售人员、合作伙伴以及其他最接近我们产品和客户的人员在讲述我们的故事方面发挥更大作用而感到兴奋”。</p>
+<p>正如GeekWire所指出的，这听起来非常类似于人工智能初创公司的运作方式——在OpenAI和Anthropic等公司，研究人员主导演示和博客文章。微软人工智能首席执行官穆斯塔法·苏莱曼（Mustafa Suleyman）表示，微软一直在紧随谷歌、Anthropic和OpenAI的步伐，以“成为全球四大顶级实验室之一”。今年早些时候在接受The Verge采访时，苏莱曼曾表示，他希望微软“构建全世界最顶尖的前沿模型”。</p>
+<p>从首席营销官沼本健（Takeshi Numoto）手中接管传播业务的布拉德·史密斯，通常是微软政策和公司传播的公开代言人。史密斯在全球各地奔走，与各国政府、监管机构和微软客户会面。目前尚不清楚今年晚些时候谁将永久接任肖的职位，但微软正在同时考察内部和外部候选人。</p>
+<p>以下是萨蒂亚·纳德拉的备忘录全文：</p>
+<p>对微软而言，传播从未像现在这般重要。公司在变，我们的行业在变，我们周围的世界也在变。在一个日益碎片化且前所未有嘈杂的媒体环境中，我们需要继续立足于我们的使命，每天赢得信任，并寻找新途径与我们所有的利益相关群体直接沟通。</p>
+<p>我首先要感谢弗兰克为微软所做的一切。在过去的17年多时间里，他为公司和我们的传播职能做出了巨大贡献。在公司经历各大关键时刻时，他都是我们领导团队以及我个人的重要顾问来源。</p>
+<p>随着弗兰克准备开启人生下一篇章，沼本健、布拉德和我一直在讨论公司传播职能的演进。我已经邀请布拉德今后领导传播部门。很少有领导者能像布拉德那样真实地代表微软的发声。他对我们的业务有着深刻的理解，与我们的利益相关方保持着紧密联系，并具备罕见的能力，能够以清晰、坚定且令人信服的方式传达复杂的思想。</p>
+<p>在此过渡期间，布伦特·科尔伯恩将继续向布拉德汇报，并自即日起担任我们的临时传播主管。传播领导团队将向布伦特汇报，而弗兰克将继续在过渡期间为布拉德和布伦特提供建议。</p>
+<p>在很多方面，最接近一线工作的人最有机会去塑造外界对微软的理解。我们需要为全公司的人员提供工具和支持，以做好这项工作。我非常期待能有机会帮助我们的工程师、销售人员、合作伙伴以及其他最接近我们产品和客户的人员，在共同的战略和准则凝聚下，在讲述我们自身故事中发挥更为重要的作用。你们每个人在实现这一目标的过程中都扮演着至关重要的角色。</p>
+<p>我们即将迎来一个令人兴奋的秋季，届时将有一系列重要节点与活动陆续展开，并有出色的市场营销作为后盾。这是一个以全新方式将我们的产品故事、市场营销与传播整合起来的绝佳契机。</p>
+<p>我们将不断学习、实验并演进。关于传播，有一种从根本上全新的思考方式，而这个团队将在构建这种方式中发挥核心作用。</p>
+<p>感谢大家为微软所做的一切，也感谢你们每个人在讲述我们的故事中所承担的角色。</p>
+<p>免费每日重要新闻文摘。</p>
+<p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>来源叙事重点：聚焦微软将通信部门从营销体系转入企业、外部事务与法律事务（CELA）体系，以及布拉德·史密斯暂时负责通信、弗兰克·肖即将离任的组织调整。报道同时将纳德拉所称的“媒体环境日益碎片化和嘈杂”、让工程师和产品相关人员更多参与叙事，与OpenAI、Anthropic等人工智能公司的传播方式联系起来，暗示微软正在探索更直接、更由产品和技术人员参与的企业传播模式。文中关于“意外变化”、与AI初创公司相似等表述属于报道框架或分析，不等同于微软已明确宣布的战略结论。</li>
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-25 06:08 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -65,7 +148,7 @@ notice:
 
 :::cell
 <div id="story-item-b7a60ac418578a94" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="594" data-content-paragraphs="7" data-published-at="2026-09-24T21:33:03.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="614" data-content-paragraphs="7" data-published-at="2026-09-24T21:33:03.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
@@ -74,23 +157,22 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 05:33</span>
 </div>
 
-### [Show HN：Koi.rest —— 看会儿游鱼，找回内心的平静](https://koi.rest/)
+### [Show HN: Koi.rest —— 来看会儿鱼，找回内心的平静](https://koi.rest/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: Koi.rest – watch some fish and regain your balance</div>
 
-<div class="article-body" data-article-body="true"><p>我叫保罗（Paul）。我是一名开发者、探索者，还患有注意力缺陷多动障碍（ADHD）。从八月初开始，我失业了。这一点，再加上过去这一年里发生的林林总总，给我带来了巨大的压力。</p>
-<p>在我们家阳台禅意花园项目尚未完工之际，我萌生了一个想法：做一个所有人都能使用的虚拟禅意花园。遗憾的是，这个想法已经被我搁置了一阵子，主要是因为我压根不知道该怎么做——我不会 JavaScript，而且眼下也没有精力去从头学习。于是我让“完美成了优秀的敌人”，好吧……就一直把这个想法藏在心里。</p>
-<p>后来我心想“去他的”，借由 AI 做出了我真正想做的东西。我意识到自己想要的不是“完美”，而是“足够好”。我反复微调、增加、删减、绘图、调研、提问、测试……我只是没有亲自编写代码而已。所以现在，它不再只是盘踞在我的脑海里，而是呈现在互联网上供大家享受。</p>
-<p>是的，完全凭一己之力做出东西确实有一种崇高感，但一个只停留在脑海里的想法又有什么用呢？所以，我做到了。我把它做了出来。这个古怪、小巧、宁静的锦鲤池。这个源于热忱的傻气小项目。这个让陌生人可以聚在一起静静看鱼的互联网小小角落。</p>
-<p>希望这个池塘带给你的帮助，能像它带给我的一样多。</p>
-<p>附言：是的，我仍在找工作！如果你觉得能帮上忙，请通过以下方式联系我：</p>
-<p>欢迎来到池塘——一个让你重获内心平静的宁静之地。你看到的锦鲤就是其他与你一同造访池塘的人，你想待多久都可以。</p></div>
+<div class="article-body" data-article-body="true"><p>我叫保罗（Paul）。我是一名开发者、探索者，同时也是一名注意力缺陷多动障碍（ADHD）患者。从八月初开始，我也加入了失业大军。失业这件事，加上过去一年里发生的所有其他事情，给我带来了巨大的压力。</p>
+<p>虽然我们阳台禅意花园的项目尚未完工，但我产生了一个想法：打造一个所有人都能使用的虚拟花园。遗憾的是，这个想法被我搁置了挺长一段时间，主要是因为我根本不知道该怎么做——我不会 JavaScript，眼下也没有精力去学。于是我陷入了“过分追求完美反而一事无成”的怪圈，好吧……就把这个想法一直憋在了心里。</p>
+<p>后来我想：“管他呢”，直接借助 AI 做出了我真正想做的东西。我意识到自己需要的不是“完美”，而是“足够好”。我反复微调、增加、删减、绘制、调研、提问、测试……我只是没有亲自编写代码而已。现在，它不再只是占据我的大脑，而是呈现在了互联网上，供大家欣赏体验。</p>
+<p>是的，完全凭一己之力做出某样东西确实有某种崇高的意味，但一个仅停留在脑海里的想法又能有什么用呢？所以，我来了。我做出了这个作品。这个奇特、小巧、静谧的锦鲤池。这个出于热爱的傻气小项目。互联网上一方能让陌生人安安静静一同观鱼的小角落。</p>
+<p>我希望这个小池塘带给你的帮助，能像带给我的那样多。</p>
+<p>又及：是的，我目前仍在找工作！如果你觉得能帮上忙，欢迎联系我：</p>
+<p>欢迎来到小池塘——一个找回内心平静的安宁之所。你看到的锦鲤就是和你一同造访池塘的其他人，你想停留多久都可以。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>开发者 Paul 创建了一个名为 Koi.rest 的虚拟锦鲤池网站，供人们在线静心观赏游鱼。</li>
-    <li>Paul 自称患有 ADHD（注意力缺陷多动障碍），并自 8 月初起处于失业状态且正在求职。</li>
-    <li>来源叙事重点：叙事重点是：一名自称患有 ADHD、近期失业且承受压力的开发者，在不会 JavaScript、暂时无力系统学习的情况下借助 AI 完成了一个供陌生人共同观看虚拟锦鲤的简单网站。叙事将项目呈现为“够用即可”的个人创作、情绪调节空间和人与人之间的轻量线上共处，并包含求职信息。</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-25 05:33 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -103,57 +185,92 @@ notice:
 :::
 
 :::cell
-<div id="story--game-of-the-alpha-nerds-a8346c8636e8f4b5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6695" data-content-paragraphs="33" data-published-at="2026-09-24T20:53:39.000Z" data-time-source="publication">
+<div id="story-rous-part-of-pipefitting-18f34bb3baddef91" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1785" data-content-paragraphs="16" data-published-at="2026-09-24T20:45:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 04:45</span>
+</div>
+
+### [Nexterity希望将管道装配中最艰难、最危险的环节实现自动化](https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Nexterity wants to automate the hard, dangerous part of pipefitting</div>
+
+<div class="article-body" data-article-body="true"><p>林赛·埃利奥特（Lindsey Elliott）对螺栓情有独钟。在去年的螺栓紧固研讨会（Bolting Symposium，第13届年会）上，她说最精彩的部分是与现场许多自称“扭矩极客”（torque dorks）的人一起玩“螺栓宾果”游戏。</p>
+<p>作为埃克森美孚的前工程师兼规划师，埃利奥特多年来一直在思考如何改进输送石油、天然气和石化产品的基础设施。她最终将目光锁定在了螺栓上。具体而言，是连接管道各部分的螺栓（专业术语称为“螺栓法兰连接”）。松动和紧固这些螺栓需要耗费大量体力，并且是许多管道工受伤的根源。与许多技术工种一样，该领域也面临着劳动力短缺。</p>
+<p>“当被要求连续三个月每天工作12个小时时，工人们会非常疲惫，”她告诉TechCrunch。“我曾与美国各地、加拿大各地的管道工交流过，反复听到有人说北美管道安装的生产率低得惊人。”</p>
+<p>埃利奥特在其初创公司Nexterity提出的解决方案，是一款可以处理这部分工作的遥控机器人；Nexterity也是入选TechCrunch Disrupt的“初创公司战场200强”（Startup Battlefield 200）之一。这种构想如果被广泛采用，可能会从根本上改变这一特定的蓝领工种，让工人们更安全、工作更高效。</p>
+<p>可以理解为：多一点极客智慧，少一点费力扭矩（more dork, less torque）。</p>
+<p>该机器人由安装在管道周围的两个主要部件组成。在电池供电下，机器人一旦固定好就可以沿着管道滑动，并能一次性快速松动或紧固四个螺栓。</p>
+<p>埃利奥特表示，Nexterity已经开发了几种不同配置的机器人以适配不同的标准管道尺寸，但它们都足够小巧，可以装入派力肯（Pelican）安全箱并由单名工人携带。这使得它们易于部署到新工地——这种灵活性对于Nexterity将机器人视同可租赁建筑设备的商业模式至关重要。</p>
+<p>埃利奥特说，她是在过去几年的交流探讨中得出这一特定设计的——不仅是在螺栓紧固研讨会上，还包括与美国机械工程师学会（ASME）压力容器与管道分会的成员探讨。</p>
+<p>“我从那些人，也就是所谓的‘扭矩极客’那里了解到，”她说，“我们80%的管道直径都在2到8英寸之间，也就是他们所说的NPS2到NPS8。因此，当你有如此高的重复性时，它就成为了实现自动化的绝佳对象。”</p>
+<p>这是一个相当直截了当的想法，但埃利奥特认为它具有巨大的上升潜力。</p>
+<p>“我认为这个市场规模之大可能会让很多人感到震惊，”她说。“我的意思是，在日常生活中，我们大多数人不会去想管道基础设施，但即使是自来水、废水处理、水处理、食品饮料、采矿、核能，以及任何类型的绿色和可持续制造设施——它们都在使用同一种管道。”</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>高级记者，交通领域<br />肖恩·奥凯恩（Sean O&#39;Kane）是一名记者，十年来一直报道交通行业快速发展的商业和技术动态，包括特斯拉以及追随埃隆·马斯克的众多初创公司。最近，他曾担任彭博新闻社（Bloomberg News）记者，协助报道了多起关于最臭名昭著的电动汽车SPAC惨败案的新闻。他此前曾在The Verge工作，在那里他还负责报道消费技术、主持了许多长短视频、从事产品和编辑摄影，并曾在红牛特技飞行锦标赛飞机上差点昏厥过去。</p>
+<p>您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过Signal加密信息（okane.01）联系肖恩或核实其外联信息。</p>
+<p>您的下一个重大机遇尽在Disrupt。与10,000多名创始人、风险投资人、运营者和技术领袖建立联系。探索明天的突破，了解今天塑造科技的动力，并在太平洋时间9月25日晚上11:59之前享受最高200美元的优惠。</p>
+<p>Meta为其Muse AI智能体制作了一款类似拓麻歌子的可穿戴设备<br />Anthropic称其生物实验室已获得重大发现<br />PitPro首款换胎机器人已在加拿大上线<br />Anthropic发布Opus 5.5：价格更低，具备Fable级性能<br />Meta的Muse早期移动端表现超越ChatGPT同期水平<br />蒂莉·诺伍德（Tilly Norwood）的媒体巡游正如人们对AI所预期的那样顺利<br />来自ChatGPT发明者的新型AI模型令开发者兴奋不已</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 04:45 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-a-is-chasing-wealth-that-d2fc3d06d40b68a8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2177" data-content-paragraphs="20" data-published-at="2026-09-24T20:34:32.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 04:53</span>
+  <span class="news-meta-time">🕒 2026-09-25 04:34</span>
 </div>
 
-### [顶级极客的桌面游戏（2014）](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The Board Game of the Alpha Nerds (2014)</div>
+### [加州正在追逐“长了脚”的财富](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
+<div class="original-title-sub"><span class="orig-tag">原文</span> California is chasing wealth that has feet</div>
 
-<div class="article-body" data-article-body="true"><p>在《战国风云》（Risk）之前，在《龙与地下城》（Dungeons &amp; Dragons）之前，在《万智牌》（Magic: The Gathering）之前，就已经有了《强权外交》（Diplomacy）。一名作家参加了一场国际赛事，去体验这款重新定义了何为极客（以及何为人）的征服世界桌游。<br />那是在1909年的夏天。我位于西班牙南海岸。我记得很清楚，因为那个季节就要结束了。我觉得和平近在咫尺。之前曾有一轮旨在结束战争的表决，英国人让我投赞成票。但表决需要全票通过才能生效，最终失败了。俄罗斯人、意大利人，他们都认为英国人投了反对票，我被骗了。我凭什么相信他们？多年来我和英国人一直通力合作对抗所有人。他们当然想挑拨我们之间的关系。现在时间在一分一秒流逝。我极度渴望和平。我吃不准自己的国家能否再撑个两三年，无论有没有英国的支援。在秋季之前不会再有下一轮表决了。<br />“今年秋天你会支援我在西班牙的部队吗？”我问。<br />“不行。门儿都没有，”英国人回答道。一阵恐惧感涌上心头。他打算背叛我。<br />“你怎么能这么对我？在我为你做了这一切之后。”<br />“大概我就是这么个心狠手辣的混账吧。”<br />说完他就转身走开了，留下我张口结舌地站在走廊里。他回到了棋盘旁的其他玩家中间，所有人都盯着我，眼里满是怒火。我们早就警告过你了。<br />在过去的八个小时里，我一直身处北卡罗来纳州查珀尔希尔一栋宿舍楼的地下室，与其他六个男人一起玩一款名为《强权外交》的桌游。我们每个人都在与另外80个人角逐，争取在这个周末的“南方大会”（Dixiecon）结束时加冕为《强权外交》的世界冠军。其中一位叫布莱恩·埃克顿（Brian Ecton），是来自马里兰州乔治王子县的高中数学老师，留着像喜剧演员卡特·威廉姆斯（Katt Williams）一样的发型，嘴巴也一样不饶人。他一开局就找上了我，看出我是个新手并主动提出结盟。他详尽解释了结盟的运作方式，并表示我们最后可以共享平局。我没有任何理由不同意。<br />接下来的几个小时里，其他每位玩家轮番把我拉到一旁，向我解释布莱恩是在如何利用我、他将如何背叛我，以及我应该如何先发制人背叛他、与他们联手对付布莱恩。我把他们的话全都当成了耳旁风。毕竟，谁能保证他们不会同样背叛我呢？在这局游戏里我的水平本就处于下风。我心想，挑一个玩家并无论发生什么都坚定站在他这一边会更稳妥。但我现在却站在了这里，濒临出局，而其他玩家也怒不可遏。在他们看来，如果我几个小时前听了劝，本可以避免这种局面。<br />“你难道没意识到我们有些人跋山涉水赶来就是为了赢下这场比赛吗？”一位来自法国的玩家厌恶地对我说，“就因为你不肯背刺（stab）这家伙，你不仅自己要完蛋，还要拉着我们大家一起陪葬。”<br />“你写这篇文章是有稿费拿的吧？”一位苏格兰玩家问我，“而我为了来这里被你坑惨，可是扣了整整三天的工资。”<br />我至今仍不知道自己当时究竟应该相信谁，如果真有值得信任的人的话。我只知道自己当时感到愚蠢、压力山大、受尽屈辱且伤心透顶。我和其中几个人爆发了好几次大吵。有些争吵甚至上升到了人身攻击。而我对布莱恩·埃克顿的忠诚，以及对其他玩家的义愤填膺，最终换来的却是一无所有。我身心俱疲，情感上遭受了极大摧残。我恨布莱恩，其他玩家都恨我，而我最恨的是我自己。我不得不死死抿住嘴唇，才能强忍住夺眶而出的眼泪。<br />《卡坦岛》（Settlers of Catan），见鬼去吧，你根本比不上这个。<br />如果你听说过《强权外交》，多半是因为它被称为“摧毁友谊的游戏”。同样可能的是，你从未完整玩完过一局。这是因为《强权外交》需要七名玩家，并且需要七到八个小时才能打完。而在它问世的前30年里大多数人采用的通信邮寄走子方式，一局游戏甚至可能耗时一年以上才能结束。尽管如此，《强权外交》依然是历史上最受欢迎的策略桌游之一。自哈佛毕业生艾伦·B·卡尔哈默（Allan B. Calhamer）于1954年发明该游戏以来，《强权外交》的销量已超过30万套，并与《强手棋》（Monopoly）、《妙探寻凶》（Clue）和《拼字游戏》（Scrabble）一同入选了《游戏》（Games）杂志的名人堂。<br />这款游戏的规则极其简单。游戏棋盘是一张1914年的欧洲地图，划分为19个海区和56个陆区，其中34个区域包含所谓的“补给中心”。每个玩家扮演一个主要列强（奥匈帝国、土耳其、意大利、英国、法国、俄罗斯、德国），在棋盘上拥有三枚棋子（俄罗斯为四枚），这些棋子所在的区域被称为“本土补给中心”。每枚棋子每次只能移动一格，且每枚棋子的战斗力均等。当两枚棋子试图移动到同一个区域时，双方均无法移动。如果两枚棋子移动到同一个区域，但其中一枚获得了第三枚棋子的“支援”，获得支援的棋子将赢得对峙并占领该区域。游戏的目标是控制18个补给中心，但这种情况极少发生。更普遍的情况是两名或多名玩家商定以平局结束游戏。除了一些其他特殊情况外，规则基本就只有这些。<br />有两点让《强权外交》显得如此独特且极具挑战性。第一点是，与大多数桌游不同，玩家并非轮流行动。每个人写下自己的行动指令并投入盒中。随后这些指令会被大声宣读，棋盘上的每一枚棋子同时移动。第二点是在每次行动前，玩家都会获得一定的时间进行交涉，可以集体讨论，也可以私下密谈。其结果就像是《战国风云》、扑克与《幸存者》（Survivor）的结合体——但既没有骰子，也没有扑克牌，更没有摄像机。这里不存在运气成分。游戏中唯一的变数就是每个玩家说服他人按自己意愿行事的能力。因此，核心的游戏机制就是谈判。这也是《强权外交》同时让人深深入迷又令人极度排斥的原因；因为一旦涉及谈判，为了达到目的可以不择手段。而大家通常也确实是不择手段。<br />那是在1966年。一个名叫埃迪·比尔桑（Edi Birsan）的17岁少年正坐在布鲁克林的房间里，盯着一封邮寄来的信件出神。他把同一句话反复读了一遍又一遍：“我不反对三人平局，我不会再占领更多的补给中心了……”摆在他面前桌上的是一张《强权外交》棋盘，局势大约进行到了中盘。<br />两年前，埃迪的母亲离家出走了。她与埃迪继父的婚姻多年来一直处于破裂边缘。他们吵架、分手、复合，周而复始。1964年的某一天，她在银行单据上伪造了埃迪的签名，取走了5000美元——那是埃迪从9岁起就攒下的全部积蓄——随后远走高飞去了加利福尼亚。她在蒂华纳经停办理了墨西哥离婚手续，一切就这么结束了。</p>
-<p>据埃迪（Edi）自己承认，他性格内向且压抑。在母亲不辞而别一年后，埃迪开始接受心理治疗。他的心理治疗师发现，他需要宣泄内心压抑的攻击性，并学会重新信任他人。治疗师送了他一份礼物——一盒桌游。“我在杂志上读到过，这是肯尼迪最喜欢的游戏。他们曾在白宫里玩过它。”她告诉他，这款游戏能帮助他应对背叛。</p>
-<p>如今，他正身处一场已经精心玩了数月的对局中途。他和另外两名玩家本有望达成三方和局。他再次阅读了信中的那句话：“我不反对三方和局，我也不会再占领任何补给中心……”</p>
-<p>埃迪从抽屉里拿出剪刀和笔，开始对这封信进行精心伪造与篡改。完成后，他自豪地举起信，在心里读了一遍：“我反对三方和局，我还要再占领三个补给中心……”他把这封伪造的信件寄给了第三位玩家。然后，他静静等待。</p>
-<p>艾伦·卡尔哈默（Allan Calhamer）于1954年在哈佛大学读法学期间发明了这款游戏。他本打算将其卖给某家主流游戏公司，但都被拒绝了。1959年，他自费生产了500套，并全部卖给了纽约周边的玩具店。1961年，一家名为Games Research的小型游戏出版商接手了这款游戏。但由于要召集七个人花上一整天时间来玩一局游戏实在太困难，销量并不理想。看起来，《外交》（Diplomacy）这款游戏的寿命不会太长了。直到极客们拯救了它。</p>
-<p>1963年，约翰·博德曼（John Boardman）是多家业余科幻同人志的编辑。在那个《星际迷航》尚未问世的年代，科幻小说仍是一种高度小众的亚文化。自20世纪30年代以来，同人志一直是科幻迷交流和分享故事与创意的首要途径。约翰·博德曼也是《外交》游戏的爱好者，但苦于很难把玩家凑齐来开一局。但他有了一个主意：在他的一本科幻同人志上刊登广告，看看是否有人对通过邮政通信下棋感兴趣。收到的反响令人鼓舞。1963年5月，博德曼组织了第一场邮寄式《外交》游戏，并创办了第一本《外交》同人志《格劳斯塔克》（Graustark）。短短四年内，充斥着邮政对局的《外交》同人志就至少涌现了32种。不久后，Games Research开始通过在游戏包装中附上同人志编辑的姓名和地址，来推广这种邮寄式玩法。</p>
-<p>随着《外交》通过邮政对局在北美日益风靡，一些更硬核的玩家开始好奇如果面对面对局，彼此较量会是何种情形。最初在后院举行的顶尖玩家非正式随意聚会，最终演变成了在大学校园里举办的年度大会。他们将其命名为“DipCon”，它成为了决出全美《外交》冠军的终极权威赛事。</p>
-<p>1976年，该游戏的版权被阿瓦隆山（Avalon Hill）购得，后者是当时全球最大的策略桌游与战争游戏出版商之一。该公司前一年刚刚在巴尔的摩创办了一个名为“Origins”的游戏大会。他们邀请《外交》玩家社群在Origins II上举办DipCon，结果造就了北美有史以来规模最大的《外交》锦标赛，吸引了约230名玩家参赛。</p>
-<p>在阿瓦隆山的支持和推广下，《外交》找到了国际受众，并在欧洲尤其是英国迅速流行开来。然而，该游戏的核心社群依然是那些业余同人志的编辑和读者。通过新加入的国际玩家在这些同人志上发表的文章，有人提议在英国举办一场赛事。1988年，首届世界外交锦标赛（World DipCon）在英格兰伯明翰举行，此后每年轮流在不同国家举办。自1988年以来，世界外交锦标赛已在10个不同国家举行过。世界外交锦标赛的胜者被全球《外交》社群公认为官方世界冠军。</p>
-<p>北卡罗来纳州律师大卫·胡德（David Hood）开着一辆黄色凯迪拉克，身穿泡泡纱西装，现身2014年世界外交锦标赛开幕式。陪同他前来的还有头戴皇冠、身披绶带的选美皇后“北卡罗来纳夫人”。</p>
-<p>作为Dixiecon的组织者，胡德数十年来一直是《外交》爱好圈里的常客，曾两度斩获北美冠军。早在20世纪80年代在北卡罗来纳大学求学时，胡德就已经在运营Dixiecon了。</p>
-<p>前来参加2014年世界外交锦标赛的业余外交官群体呈现出高度的一致性。在87名参赛选手中，仅有两名女性、两名21岁以下的选手，以及四名非洲裔美国人，其中包括2005年Dixiecon冠军布赖恩·埃克顿（Brian Ecton）。这些玩家与你对任何国际桌游聚会的预期大致相符：书卷气、不修边幅，并且略带社交局促。当然，这些刻板印象也有例外。如果说这群极客有什么不是的话，那就是他们绝非软弱无能之辈。</p>
-<p>“任何类型的游戏都会伴随一定程度的社交局促。但在《外交》中，你能找到玩家群体中更善于社交的类型，”28岁的希沃恩·诺兰（Siobhan Nolen）说道，她是来自北加州的时髦历史系研究生，也是参加本届世界外交锦标赛的两名女性之一。她的一头红发扎成马尾，露出了后颈处拼字游戏（Scrabble）棋子图案的纹身。作为一名硬核桌游玩家的女儿，她从小就被父亲带去参加各种大会，对桌游极客文化的了解丝毫不逊于任何人。“这是一种领袖气质。它吸引着非常聪明的人，也吸引着外向的人。如果你内向且不愿意展现自己，你是无法玩好这款游戏的。它吸引着喜欢说话的人。如果你不爱说话，这局游戏对你来说很快就会结束。”</p>
-<p>诺兰在13岁时就迷上了《外交》。当时她父亲带她去参加一个名为Conquest的游戏大会。她作为一个无聊的青少年，和哥哥在会场里闲逛，对玩任何游戏都提不起兴趣。这时，她遇到了六个人坐在一张《外交》棋盘前，其中很多人年纪并不比她大多少。年纪最大的玩家是一位五十多岁的男子，他向她招手示意：“我们还差一个人。”诺兰看了看棋盘、棋子和玩家们。表面上看，这就像她父亲玩的那种又一个无聊的战争游戏。“我绝不可能玩那个，”她回答道。但《外交》与她玩过的任何游戏都不同。它不仅仅是讲究战术，不仅仅是在棋盘上推移棋子。事实上，它几乎谈不上是这些。它具有人性的元素。她发现在自己的第一局对局中，她就能击败年长且经验更丰富的玩家，仅仅是因为她擅长说服他们向自己施以援手。她被它深深迷住了。那位年长的玩家问她日后是否愿意再玩，并要了她的电子邮件地址。他的名字叫埃迪·伯森（Edi Birsan）。</p>
-<p>那一年是1999年。50岁的埃迪·比尔桑坐在电脑前，房间里唯一的光源就是显示器发出的幽光。他盯着屏幕上的那封电子邮件。 “我不接受你的条件……”</p>
-<p>在过去30年里，比尔桑在外交游戏圈逐渐成为传奇人物。20世纪70年代，他通过出版自己的邮寄对战杂志，帮助这项爱好发展壮大；后来，他又协助组织了许多规模较大的外交游戏大会（DipCon）。他创立了一个全国性组织，用来制定规则和指导方针；早在世界外交游戏大会（World DipCon）出现之前，他就曾前往其他国家参加欧洲外交游戏赛事。他甚至和这款游戏的发明者艾伦·B·卡尔哈默对弈过，并把对方打得落花流水。10</p>
-<p>有一点比尔桑深信不疑：面对面进行的游戏更好。他更喜欢自己跋涉前往参加的锦标赛和私人对局，而不是通过邮寄进行的游戏。互联网出现后，面对面的外交游戏规模已经被如今通过电子邮件进行游戏的人数远远甩在后面。情况如此严重，以至于有人组织了一场电子邮件对局，让顶尖的电子邮件玩家对阵顶尖的面对面玩家。比尔桑就是那些面对面玩家之一。而且，他对这场比赛的进展方式很不满意。</p>
-<p>我不接受你的条件……</p>
-<p>比尔桑拿起电话，拨打了411。他询问休斯敦的一个电话号码，把号码记下来，然后挂上听筒。他深吸一口气，接着拿起电话拨了出去。</p>
-<p>“我是埃迪·比尔桑。”</p>
-<p>“我想谈谈你发给我的那封电子邮件。”</p>
-<p>“你说‘不’是什么意思？”</p>
-<p>“我真不敢相信你居然给我打电话！你不能这么做！”</p>
-<p>“这种事我已经做了30年！”</p>
-<p>“我玩外交游戏已经三年多了，却一次也没接到过电话，甚至从没和其他玩家说过话。”</p>
-<p>“以后别再给我打电话。”</p>
-<p>有人第一次提议投票决定和棋时，已经过了凌晨1点。那是在我们宿舍二楼套房里。我的第一场迪克西康（Dixiecon）比赛大约晚上7点开始，六个小时过去，只有一名玩家被淘汰。在剩下的六个人中，有一位是名叫克里斯·马丁的前世界冠军；他执掌意大利，手里只剩一个单位——一支被困在奥地利某处的陆军。由于没有其他棋子为自己提供支援，马丁实际上已经被淘汰——除非他能找到盟友，让自己继续留在游戏中。</p>
-<p>马丁拥有舞蹈学博士学位，说话轻声细语、语速很快，魅力十足。其他外交游戏玩家称他为“新手低语者”，因为他特别喜欢和缺乏经验的玩家结盟，并让他们按自己的意愿行事。他对此乐此不疲。马丁已经站在死亡边缘，却说服了我、西沃恩·诺伦，以及一位名叫马克·斯特格曼的亚利桑那大学经济学教授，让我们帮他活下去。他的理由是什么？无论我们是否抱团，我们三人中没有谁在战术上足够优秀，能够抵挡另外两名玩家的联盟。</p>
-<p>他的说法有道理，尽管完全是为了自身利益。棋盘上的另外两名玩家是托比·哈里斯和安迪·巴托洛内。前者是英国顶尖玩家之一，剃光的头让他看起来有几分像杰森·斯坦森；他和马丁一样，都是赢得世界冠军的热门人选。后者则是个身材像马克卡车一样魁梧的男人，嗓门洪亮，嗜好酗酒和赌博——大家亲切地叫他“水牛”。托比和“水牛”对六方和棋毫无兴趣。他们的提议是：先干掉克里斯·马丁，再由五个人分掉胜果。这样每个人都能多拿些分！</p>
-<p>“他们不会那么做的。”马丁在外面的走廊里低声对我们说，“我一旦出局，他们接下来就会解决你们中的一个。也许是你们三个。现在我们可以合作，组成一道他们无法突破的僵局线，然后迫使他们接受和棋。”</p>
-<p>马丁的逻辑是成立的。僵局线是一种无法突破的阵形，会迫使游戏以和棋告终。打破它的唯一办法，就是说服参与其中的一名玩家背叛其他人。我们或许可以在没有马丁的情况下干掉他，同时保住僵局线，但我们三人都不确定自己是否具备足够的战术能力，能够避免犯错。有马丁加入我们的队伍，我们就确信自己不会搞砸。而且，正如马丁对我们撒的谎一样，淘汰他每人只能得到两分。11</p>
-<p>“这太荒唐了！”“水牛”吼道，“西沃恩，我们能不能到走廊里谈谈？”</p>
-<p>诺伦看着我们，然后说</p></div>
+<div class="article-body" data-article-body="true"><p>土地经济学中心（Center for Land Economics）的完整报告可在此查看；我们针对同一论点的评论文章已于昨日发表在《旧金山纪事报》上。</p>
+<p>上周，加利福尼亚州正式批准将“亿万富翁财富税”列入11月的选民公决：针对该州的亿万富翁征收一次性5%的税款，分五年缴清，每年筹集约200亿美元，用于填补联邦资金削减后的医疗保健、食品援助和学校资金缺口。我们理解这种冲动。该州存在财政收入漏洞，而亿万富翁们也完全有能力出资填补。</p>
+<p>但这项税收无法实现其设立的初衷，原因很简单：与土地不同，亿万富翁是长了脚的。</p>
+<p>在土地经济学中心的一份新报告中，我们刚刚花费数月时间建立了实证模型，计算了加州土地的总价值。简而言之：土地是现存最大的财富池之一，加州拥有的土地财富比其他几乎任何资产都要多，而且它无法离开这个州。</p>
+<p>我们逐块地块累加，估算出加利福尼亚州的土地总价值：约为8.14万亿美元。我们还通过另外两种方式交叉验证了这一数字——对照联邦住房金融数据以及根据时间趋势调整的销售数据——三种方法得出的结果都在同一区间内。据我们所知，这是对加利福尼亚州土地实际价值所做的首个可靠的自下而上的估算。</p>
+<p>这个数字大约是该州目前仍能实际征税的亿万富翁财富总额的八倍。仅洛杉矶县的土地价值就超过了财富税所瞄准的全部亿万富翁资产基数。旧金山湾区紧随其后。</p>
+<p>而且土地是一种罕见的、只固定在原地不动的税基。亿万富翁可以搬去奥斯汀。虽然他们的投资组合可以在一个下午转移完毕，但他们的土地却搬不走。</p>
+<p>财富税方案自身的数学推算假设了一个2万亿美元的基数，但由于财富外流，这一预估被夸大了将近一倍。</p>
+<p>六位加州亿万富翁——拉里·佩奇（Larry Page）、谢尔盖·布林（Sergey Brin）、彼得·蒂尔（Peter Thiel）、唐·汉基（Don Hankey）、特拉维斯·卡兰尼克（Travis Kalanick）和史蒂文·斯皮尔伯格（Steven Spielberg），其身家合计约5400亿美元——在该提案设定的2026年1月1日截止日期之前，就已将税务居所迁出加州。马克·扎克伯格（Mark Zuckerberg，约2200亿美元）随后在2026年初效仿，且几乎肯定会在法庭上对该法案的追溯效力提起诉讼。再加上其他经济学家在该提案自身模型中指出的约2000亿美元的高估，原本设想的税基近半数已不复存在。</p>
+<p>要在剩余资产基数上仍然筹集到200亿美元，税率将不得不从1%攀升至1.6%甚至1.9%（取决于扎克伯格能否胜诉），而这只会给留下的亿万富翁提供又一个追随邻居搬离的理由。这就是向少数高流动性群体征税的陷阱：为了填补出逃者留下的空缺而提高税率，结果只会将留下来的人进一步推走。</p>
+<p>以下是一个应当重塑整场辩论的对比：</p>
+<p>仅仅征收0.25%的土地价值税，就能在比财富税大八倍的税基上筹集到其承诺的每年200亿美元；这个税基不仅不会外逃，反而会随着加州经济的发展而增长，而且它根本无法移动。（即便进一步扩大规模，这一推算依然成立：约1%的税率即可永久覆盖加州整个870亿美元的医疗与人类服务预算。）</p>
+<p>土地价值税只是一种做了一项改变的普通房产税：它仅对土地本身的价值征税，而不对土地上的建筑物征税。土地价值税无法通过迁居避开，也无法转嫁给租客。与此同时，它还能捕获公共投资本身所创造的溢价收益：当州政府修建一条公交轨道时，周边的土地价值上升，而这项税收会将其中一部分回报给为此出资的公众。</p>
+<p>由于土地价值极度集中，税负主要落在拥有财富最多者所持有的沿海黄金地段和市中心街区上，而对中央山谷（Central Valley）工薪家庭的房屋几乎毫发无损。它无需追逐富豪，即可精准触及他们的财富。</p>
+<p>这一切的核心其实并不是亿万富翁；加州之所以诉诸奇特的新税种，是因为其常规税制自1978年以来就已彻底损坏。</p>
+<p>13号提案（Proposition 13）为财产税设置了上限，并在房产出售前冻结了评估价值，导致长期业主为一套相同的房屋所缴纳的税款仅为隔壁年轻家庭的一小部分。我们估计，加州目前对房产的评估价值仅为其真实价值的44%至60%之间。换句话说，该州心照不宣地放弃了对自身大约一半的房地产税基进行征税。随着财产税收入下滑，所得税税率不断攀升以填补缺口，加州由此落得了全美最高的所得税税率，同时也造就了一个一旦受到挤压就会夺门而出的税基。财富税则是迄今为止最孤注一掷的挤压举措，而且丝毫无助于修复其底层的税基。</p>
+<p>同样的错误正在各地重演。土地价值税在经济学中可以说是最接近“免费午餐”的存在，但从佛罗里达州到加利福尼亚州，决策者都在对此视而不见。</p>
+<p>佛罗里达州正试图废除财产税；批评人士估计，损失的收入将不得不通过将州销售税提高约一倍来弥补，这是在用一种对工薪家庭每笔消费都征税的税种，去替换一种不会扭曲经济的税种。加州则走向了另一个极端，在已经千疮百孔的财产税之上，又叠加了一项针对具有高流动性的亿万富翁财富的新税种。两州都理应将目光投向正位于他们脚下的税基。</p>
+<p>加州真正能够征税的财富是土地本身：它稳定、庞大、由我们大家共同赋予价值，而且无法搬到迈阿密。</p>
+<p>格雷格·米勒（Greg Miller）和拉尔斯·杜塞特（Lars Doucet）是土地经济学中心的联合创始人。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>来源叙事重点：将外交描述为一款以谈判、联盟、欺骗和背叛为核心的策略游戏，并通过作者在比赛中的失误、冲突和情绪压力，呈现其对玩家关系和“极客”身份的塑造。报道同时强调游戏从1954年发明、经邮件通信发展到线下赛事和国际社群的过程。文章采用戏剧化、个人化叙事，把游戏体验与信任、竞争、羞辱和自我认知联系起来。</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-25 04:34 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
@@ -162,12 +279,46 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://blog.landeconomics.org/p/california-is-chasing-wealth-that" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-hen-chat-is-the-wrong-ui-3d14844898469c56" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2455" data-content-paragraphs="1" data-published-at="2026-09-24T20:00:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="GitHub Blog (工程技术博客)" width="16" height="16" /> <strong>GitHub Blog (工程技术博客)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 04:00</span>
+</div>
+
+### [当聊天框成为错误的交互界面](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> When chat is the wrong UI</div>
+
+<div class="article-cover"><img src="https://github.blog/wp-content/uploads/2026/09/validation.png?resize=1024%2C389" alt="当聊天框成为错误的交互界面" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>我们进入这场人工智能实验已经 176 年了。<br />等等……其实才过了三年？<br />有时我回想起去年发生的事，感觉却像隔了很久。那真的是发生在我身上的事吗，还是我小时候父亲经历过并讲给我听的故事？<br />不管怎样……我们进入这场 AI 实验已有三年，而我们与大语言模型（LLM）的主要交互界面依然是聊天框。我非常确信最早是在 HTML 规范中力推 textarea 组件的 @pmarca。我之所以如此确信，是因为我问过 AI 了。就在一个 textarea 里面。<br />但我向大家提出一个观点：也许，只是也许，聊天并不是合适的 UI。嗯，至少大多数时候不是。<br />学者史蒂芬·平克（Steven Pinker）曾这样评价：<br />“AI 的第一个大规模落地应用在某种程度上只是个噱头——一个第一人称聊天机器人，这多少有点令人遗憾。但如果 AI 以任务为导向，它将具有巨大的前景。”<br />——史蒂芬·平克，学者<br />既然学者都这么说了，而我又把它作为引言写进了博文里，那你就知道这绝对是真的。<br />聊天之所以成为与 AI 协作的主要方式，是因为它是最先让人们产生共鸣的形式。而且聊天作为一个通用解决方案效果极佳，原因很简单：我们并不知道人们到底打算用 AI 来做什么。<br />但作为用户，你自己清楚要用它做什么，而在这种情况下，聊天往往就成了错误的 UI。<br />亲爱的读者，你所需要的，是一种你可以凭空变出来的某种可定制 UI，以便按照最适合你当下任务的方式与 AI 协作（或者与它斗智斗勇——随你高兴）。<br />实现这一点有很多种方式，但在 GitHub Copilot 应用中，这被称为“画布”（canvas）。<br />画布是一个在 GitHub Copilot 应用内部运行的小型全栈应用，没有任何浏览器外框。智能体（agent）可以与该应用的服务端进行通信，服务端也可以反向通信。因此，你最终获得的是一个既能完成普通电脑程序所有功能，又能与 GitHub Copilot 智能体进行双向通信的交互界面。<br />这听起来可能有点抽象空洞，而且我用了“双向”（bi-directional）这个词，听着像是直接从 PowerPoint 幻灯片里搬出来的，所以让我们在实践中看看这个概念，瞧瞧我们能否用强大的画布来解决实际问题。<br />我们先从一个简单的例子开始：使用画布创建一个四子棋（Connect 4）游戏，在 GitHub Copilot 应用内与智能体对战。<br />看我如何在开启高推理状态下彻底击溃 GPT-5.6 Sol……<br />好吧。但我确实在零推理状态下击败了 GPT-5.6 Luna，所以……听着……四子棋这游戏真的很难！！<br />构建画布就像开口提需求一样简单……<br />“创建一个新的画布，使用四子棋游戏来演示用户与画布交互、画布与智能体对话以及智能体控制画布的能力”<br />GitHub Copilot 应用本身就理解什么是画布，因此我们无需做多余的解释。<br />现在，由于这些画布实际上是全栈应用而不仅仅是网页，它们不仅可以调用第三方 API，还可以在你的本地机器上执行代码。<br />例如，这里有一个专为 Winget 设计的 UI，它不仅可以浏览软件源中的软件包，还可以管理我本地的软件包，包括安装和卸载。<br />这里根本没有 AI 参与，但这正是重点所在。<br />当聊天框作为主要交互界面时，它会促使你把一切事务都交给智能体去处理。这往往纯粹是在浪费 token。让智能体去构建一个工具、使得未来的所有交互都变成免费的，这几乎永远好过把智能体本身当成工具来使唤。别再让 GPT-5.6 Sol Max 去执行“暂存并提交”（stage and commit）了。（我知道你干过。因为我也干过。别拿 token 羞辱我，我的自尊心很脆弱的。）<br />另一个极佳的例子是：与其在聊天框里让智能体对你的 SQLite 数据库进行各种操作，为什么不弹出一个画布，然后——你懂的——自己动手操作呢。<br />我是说，你甚至可以在这里拥有代码智能提示（intellisense）。为什么不呢？现在已经是 2026 年了，AI 是一个只要你想要就能无所不能的魔法盒子。<br />这不是很令人惬意吗？<br />偶尔写点 SQL 挺不错的。我说了是“偶尔”。放轻松。<br />或者，何必非要用纯 Markdown 来写 Jekyll 博客文章呢，你完全可以把 Windows Live Writer “复活”过来。<br />好的，这些都是有趣且稍微有点用处的示例，但当你将自定义 UI 用于自动化开发工作流时，它的价值就会变得清晰得多。<br />我不会对你的人生指手画脚，但我与智能体协作的流程大致是这样的……<br />这其实相当简单，但这其中的每一步都需要我坐在键盘前进行交互、查看原型、提供引导并在各个步骤之间推进流转。<br />但问题在于：在整个过程的大部分时间里，我其实完全不需要守在旁边。智能体完全有能力进行调研并生成原型，然后在准备好等待审查时再通知我。智能体协作的目标永远是尽可能让你自己脱离操作闭环。然而这并不容易做到，因为当你手里只有一块聊天框时，根本不清楚该如何脱身。<br />下面是一个完整的示例，展示了你如何利用画布实现自身工作流的自动化，随心所欲地让自己在流程中抽身或介入。<br />我并不是说你应该全盘照搬这个工作流，或者说这是与智能体协作的唯一完美范式。我的意思是，它可能是。大概率是的。让我们问问 AI 吧……<br />说正经的，我确实认为被禁锢在聊天 UI 之中，眼下可能正在对我们大家起到反作用。这让我们很难摸索出解决实际问题的方法，因为当你唯一的交互手段只有一个 textarea 时，接下来该做什么就变得一点也不直观了。<br />今天就去尝试一下画布吧。像 SQLite 画布这样的东西，你可以一次性直接生成搞定。而工作流画布则花了大半天时间才把设计和自动化调试完善。<br />但我相信你会发现，当你思考问题能够……准备好……跳出聊天框之外时，AI 能带你走得更远。<br />下载 GitHub Copilot 应用 &gt;<br />文章《当聊天框成为错误的交互界面》最初发布于 The GitHub Blog。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【GitHub Blog (工程技术博客)】于 2026-09-25 04:00 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#GitHub</span>
+</div>
+
+<div class="news-card-footer"><a href="https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【GitHub Blog (工程技术博客)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
 <div id="story-mini-ai-live-avatar-face-4b0e8d72e3ff9980" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="580" data-content-paragraphs="1" data-published-at="2026-09-24T19:59:26.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="591" data-content-paragraphs="1" data-published-at="2026-09-24T19:59:26.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -176,12 +327,12 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 03:59</span>
 </div>
 
-### [配备实时虚拟形象的 Gemini 3.8 Live 为谷歌 AI 赋予了面孔](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Gemini 3.8 Live with Live Avatar gives Google&amp;#8217;s AI a face</div>
+### [配备实时数字人（Live Avatar）的 Gemini 3.8 Live 让谷歌的人工智能拥有了具象面孔](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Gemini 3.8 Live with Live Avatar gives Google’s AI a face</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,94.893468926603,100" alt="配备实时虚拟形象的 Gemini 3.8 Live 为谷歌 AI 赋予了面孔" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,94.893468926603,100" alt="配备实时数字人（Live Avatar）的 Gemini 3.8 Live 让谷歌的人工智能拥有了具象面孔" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>该主题的动态将添加到您的每日电子邮件摘要和主页信息流中。<br />谷歌的实时虚拟形象（Live Avatar）能够实现对口型同步，并展现出不同的面部表情。<br />该作者的动态将添加到您的每日电子邮件摘要和主页信息流中。<br />查看 Emma Roth 的所有文章<br />谷歌推出的全新 Gemini 3.8 Live 更新让用户能够在与模型对话的同时，实时观看动画 AI 虚拟形象做出的回应。这一“实时虚拟形象”（Live Avatar）在对话过程中可以同步嘴型并展现多样化的面部表情，但目前该功能仅面向 Gemini Enterprise（企业版）客户开放。<br />正如谷歌所指出的，实时虚拟形象在其支持的 97 种语言之间切换时，“不会降低视频保真度或引入视觉漂移”。谷歌分享的一段视频展示了其实时虚拟形象用英语和日语交谈的场景，其嘴部动画与这两种语言的表达完全吻合。它还可以在交谈的同时在屏幕上调取信息。<br />实时虚拟形象的推出是在谷歌发布全新 Gemini 3.8 Live 模型约一周之后，该公司表示该模型“能够近乎实时地处理视觉输入”。虽然谷歌将为客户提供一个预设虚拟形象库以供挑选，但它也允许机构自行创建专属虚拟形象。谷歌表示，其实时虚拟形象的输出内容均带有其隐形的 SynthID 水印，并配有旨在“尊重身份”的安全保障措施。<br />一份汇集重磅新闻的免费每日摘要。<br />这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>该主题的相关文章将被添加到您的每日电子邮件文摘和主页动态中。<br />谷歌的 Live Avatar（实时数字人）支持对口型并展现不同的面部表情。<br />该作者的相关文章将被添加到您的每日电子邮件文摘和主页动态中。<br />查看 Emma Roth 的全部文章<br />谷歌最新推出的 Gemini 3.8 Live 更新允许用户在与该模型对话的同时，实时观看具象化的人工智能角色做出回应。这一“Live Avatar”在对话过程中能够实现唇音同步并展示多样的面部表情，但目前该功能仅向 Gemini 企业版客户开放。<br />正如谷歌所指出的，Live Avatar 可以在其支持的 97 种语言之间自如切换，“且不会降低视频保真度或引入画面漂移”。谷歌分享的一段视频展示了其 Live Avatar 用英语和日语进行交谈，其嘴型动画在两种语言下都能与所说内容完美契合。此外，它还可以在说话的同时调出屏幕信息展示。<br />Live Avatar 的发布距谷歌披露其全新 Gemini 3.8 Live 模型约有一周时间，该公司称该模型“能够近乎实时地处理视觉输入”。尽管谷歌将为客户提供一个预设数字人图库以供选择，但同时也允许机构自行创建数字人形象。谷歌表示，Live Avatar 生成的内容均带有其不可见的 SynthID 水印，并配有旨在“尊重身份”的安全防护措施。<br />免费获取最重要新闻的每日文摘。<br />这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -200,8 +351,62 @@ notice:
 :::
 
 :::cell
+<div id="story-crunch-disrupt-2026-pass-4317c9e267fddff2" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2327" data-content-paragraphs="23" data-published-at="2026-09-24T19:15:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 03:15</span>
+</div>
+
+### [带上联合创始人、合伙人或同事，享 TechCrunch Disrupt 2026 第二张门票半价优惠](https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass</div>
+
+<div class="article-body" data-article-body="true"><p>距离 TechCrunch Disrupt 2026 正式开幕只剩下最后几周了！为了帮助您人脉网络中的每一个人获取前沿科技洞察、发掘新兴技术并建立带来实质进展的重要联系，我们针对所有门票类型推出了第二张门票半价（50% 折扣）的优惠。</p>
+<p>这项“买一赠一折上折（第二件半价）”优惠将持续至太平洋时间 10 月 13 日上午 8 点 Disrupt 大门敞开为止。购买一张 Disrupt 2026 门票，同类型第二张门票即可享受五折优惠。</p>
+<p>这是携同伴一同前往——并在现场收获更多的难得窗口期。带上一位同事、一位联合创始人或一位合伙人。该优惠将在旧金山莫斯康展览中心西馆（Moscone West）于太平洋时间 10 月 13 日上午 8 点正式开放入场时截止。届时票价将会上涨，获得相同参会资格将需支付更高费用。立即锁定您的第二张门票五折优惠。</p>
+<p>一个人无法独自跑遍 Disrupt 的所有精彩内容。本次大会旨在让您带上联合创始人、合伙人、同事或朋友，共同分享大会期间激荡出的新洞察与新建立的人脉关系。</p>
+<p>10 月 13 日至 15 日在旧金山，300 多家参展初创企业与超过 10,000 名创始人、投资人和科技领袖将汇聚一堂，展开为期三天的活动，涵盖由 250 多位科技领袖在六大行业舞台、圆桌会议及分论坛上带来的 200 余场实操干货分享。无与伦比的 AI 驱动人脉匹配功能将促成高效沟通与连接，加速推动业务发展并改变发展轨迹。</p>
+<p>当您与同事、同行或合伙人一同出席时，不仅能体验到更多内容，还能更好地转化所见所闻与所结识的人脉。您可以：</p>
+<p>这只是一个小小的改变，却能彻底扭转参会成果。为您和您的搭档挑选匹配的门票，最高可节省 450 美元。</p>
+<p>Disrupt 汇聚了 10,000 名专注于当前如何创立与拓展业务的初创公司及风险投资领袖。如果您属于以下群体，Disrupt 正适合您：</p>
+<p>参会的价值在于与正在应对相同挑战的人们建立联系，并向已经走通这条路的前辈学习。浏览 Disrupt 活动页面，查看日程规划。</p>
+<p>该“买一享第二件半价”优惠适用于在太平洋时间 10 月 13 日上午 8 点之前购买两张同类型 Disrupt 门票，让您轻松携团队成员一同前往。</p>
+<p>购买一张投资人门票（Investor pass），第二张享五折优惠——最高可省 450 美元。直接对接创始人，获取专属人脉对接机会，并将时间花在促成交易流的核心场景中。带上另一位投资人或合伙人，有助于相互印证投资信号并加速决策。</p>
+<p>购买一张创始人门票（Founder pass），第二张享五折优惠——可省 425 美元。结识与您创业阶段相契合的投资人，碰撞思维火花，并从实际操盘手那里了解行之有效的经验。与联合创始人或团队成员一同出席，有助于分头行动、高效推进。</p>
+<p>购买一张普通参会者门票（Attendee pass），第二张享五折优惠——最高可省 412 美元。专为产品、工程、增长及市场拓展团队打造，该门票可让您通行各舞台、分论坛及交流环节，以优化从路线图到营收系统的全流程。</p>
+<p>购买一张非营利组织门票（Non-profit pass），第二张享五折优惠——可省 237 美元。与建设者和投资人建立联系，探索新兴技术如何应用于您的工作之中。带上一位同行，有助于将所学所得转化为实用成果。</p>
+<p>购买一张学生门票（Student pass），第二张享五折优惠——可省 175 美元。向创始人与投资人学习，尽早开始搭建自己的人脉网络。与同伴一同参加，有助于探索更多环节并建立更紧密的联系。</p>
+<p>购买一张展区进阶门票（Expo+ pass），第二张享五折优惠——可省 162 美元。深入颠覆性初创公司的幕后。利用展区物色人才、演示新兴技术，并在高增长企业中斩获下一个职位，同时与您的同伴共同覆盖更广泛的展会区域。</p>
+<p>这项限时折扣的价值远不止于省下一张 Disrupt 门票的费用。它关乎深化合作关系，以及最大化利用您在旧金山度过的宝贵时间。这正是“仅仅参加会议”与“将交流切实转化为交易、招聘和后续推进步骤”之间的区别所在。</p>
+<p>此项优惠仅开放五天。抓紧最后机会，购买一张门票即享第二张半价。一旦优惠截止，以此价格结伴同行的机会也将随之结束。</p>
+<p>购买一张门票，同类型第二张即享五折优惠。选定您的同行人选，并在太平洋时间 10 月 13 日上午 8 点会场开门前锁定您的两张门票。立即预订 Disrupt 门票，倍增您参会的收获与价值。</p>
+<p>如果您打算独自参会，请在明天（太平洋时间 9 月 25 日晚 11:59）门票涨价前完成购票，最高可省 200 美元。千万不要错过这些门票优惠，以及这场年度最受期待的科技盛会之一。</p>
+<p>当您通过我们文章中的链接购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
+<p>您的下一个重大合作机遇尽在 Disrupt。与 10,000 多名创始人、风投人、操盘手和科技领袖建立联系。探索未来突破，聆听塑造当今科技格局的声音，并在太平洋时间 9 月 25 日晚 11:59 前购票，最高立省 200 美元。</p>
+<p>Meta 为其 Muse AI 智能体打造类似拓麻歌子的可穿戴设备<br />Anthropic 表示其生物实验室已取得重大突破<br />PitPro 首款换胎机器人在加拿大投入使用<br />Anthropic 发布 Opus 5.5，价格更低且拥有 Fable 级性能<br />Meta 的 Muse 移动端早期推广势头超越早期的 ChatGPT<br />Tilly Norwood 的媒体巡回宣传反响如人们对 AI 的预期一样<br />ChatGPT 发明人推出新型 AI 模型，引发开发者狂热</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 03:15 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
+</div>
+
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-mm-powered-smart-glasses-30290d8cdac77d28" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="801" data-content-paragraphs="11" data-published-at="2026-09-24T19:00:42.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="759" data-content-paragraphs="11" data-published-at="2026-09-24T19:00:42.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -210,20 +415,20 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 03:00</span>
 </div>
 
-### [PrismML将其微型大语言模型带到高通驱动的智能眼镜上](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/)
+### [PrismML 将其微型大语言模型引入高通支持的智能眼镜](https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> PrismML brings its tiny LLMs to Qualcomm-powered smart glasses</div>
 
-<div class="article-body" data-article-body="true"><p>人工智能实验室 PrismML 由加州理工学院研究人员创立，并由加州大学伯克利分校的 Ion Stoica 担任顾问。该实验室已为搭载高通骁龙芯片的智能眼镜开发出其微型语言模型的一个版本。</p>
-<p>周三，在高通骁龙峰会上，这家芯片制造商展示了 PrismML 的 1 比特 Bonsai 大语言模型。该模型可以在基于 Snapdragon AR1 Gen 1 平台打造的人工智能智能眼镜上本地运行。</p>
-<p>正如 TechCrunch 此前报道的那样，PrismML 的成名之处在于，它能够大幅压缩大型模型（在本案例中压缩了 4 倍），同时在标准基准测试中保留几乎全部性能。智能眼镜版本是一款拥有 20 亿参数、针对视觉和语言进行调优的模型，因此佩戴者可以实时询问自己正在看到的内容。</p>
-<p>Prism 的更大目标是打造能够在设备上运行的开放权重人工智能，并更充分地利用设备现有的计算能力。这家初创公司将此定位为一种替代方案，以避免依赖专有人工智能实验室的隐私承诺，以及它们对更多计算资源永无止境的需求。</p>
-<p>为高通芯片发布模型，是朝着这一愿景迈出的一步。但目前还没有搭载 PrismML 的智能眼镜对外宣布。</p>
-<p>你的下一个重要连接就在 Disrupt.Connect 活动上。届时将有超过 1 万名创始人、风险投资家、企业运营者和科技领袖参加。探索明日的突破，了解当今正在塑造科技行业的力量，并在太平洋时间 9 月 25 日晚上 11:59 前报名，最高可节省 200 美元。</p>
-<p>每个工作日和周日，你都可以获取 TechCrunch 报道的精华内容。</p>
-<p>TechCrunch Mobility 是你获取交通领域新闻与洞察的目的地。</p>
-<p>初创公司是 TechCrunch 的核心，因此每周接收我们最精彩的报道。</p>
-<p>为行业中举足轻重的人士提供他们开始一天所需的信息。</p>
-<p>提交电子邮箱即表示你同意我们的《条款》和《隐私声明》。</p></div>
+<div class="article-body" data-article-body="true"><p>人工智能实验室 PrismML——由加州理工学院研究人员创立，并由加州大学伯克利分校的扬·斯托伊卡（Ion Stoica）担任顾问——为其微型语言模型开发了一个新版本，专用于搭载高通骁龙芯片的智能眼镜。</p>
+<p>周三，在高通骁龙峰会上，这家芯片制造商展示了 PrismML 的 1 比特 Bonsai 大语言模型，该模型可在基于第一代骁龙 AR1 平台打造的 AI 智能眼镜上本地运行。</p>
+<p>正如 TechCrunch 此前报道的那样，PrismML 的成名之处在于其大幅缩减了大型模型的体积（在此例中缩小了 4 倍），同时在标准基准测试中几乎保留了全部性能。这款智能眼镜版本是一个经过视觉和语言微调的 20 亿参数模型，佩戴者可以实时询问自己看到的内容。</p>
+<p>Prism 更宏大的目标是开发能够在设备端运行并充分利用现有计算能力的开放权重 AI。这家初创公司将其宣传为一种替代方案，以摆脱对专有人工智能实验室的隐私承诺及其对算力永不满足之需求的依赖。</p>
+<p>为高通芯片发布模型是迈向这一愿景的一步。但目前尚未有任何搭载 PrismML 的智能眼镜被正式发布。</p>
+<p>你的下一个重要人脉就在 Disrupt 大会。与 10,000 多名创始人、风险投资人、运营者和科技领袖建立连接。探索未来的突破，了解正在塑造当今科技的动态，并在太平洋时间 9 月 25 日晚上 11:59 前购票立省最高 200 美元。</p>
+<p>在每个工作日和周日，你都可以获取 TechCrunch 的精选报道。</p>
+<p>TechCrunch Mobility 是你获取交通出行新闻与洞见的首选之地。</p>
+<p>初创公司是 TechCrunch 的核心，获取我们每周精选的深度报道。</p>
+<p>为行业风云人物提供开启新一天所需的重要资讯。</p>
+<p>提交你的电子邮箱即表示你同意我们的条款和隐私声明。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -243,7 +448,7 @@ notice:
 
 :::cell
 <div id="story--robotics-for-developers-96dee6a51268a95e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2179" data-content-paragraphs="21" data-published-at="2026-09-24T18:52:38.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2078" data-content-paragraphs="21" data-published-at="2026-09-24T18:52:38.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -252,30 +457,30 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 02:52</span>
 </div>
 
-### [认识 Feather：这家初创公司正为开发者打造机器人领域的“安卓”](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)
+### [认识Feather：这家初创公司正在为开发者打造机器人领域的“安卓系统”](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Meet Feather, the startup building the ‘Android of robotics’ for developers</div>
 
-<div class="article-body" data-article-body="true"><p>如果说机器人领域的创业者和投资者有什么共识的话，那就是通用机器人能够无缝适应任何环境的“ChatGPT时刻”尚未到来。至于这一突破究竟是指日可待还是仍需十年，各方意见不一。</p>
-<p>去年成立的人形机器人初创公司 Feather Robotics 正在为这两种可能的时间线开发机器人。与特斯拉（Tesla）或 Figure 不同，这两家公司正致力于打造本体以及尚未被广泛部署的基础“大脑”这一崇高使命，而 Feather 则为开发者提供硬件和软件工具包，以供立即应对现实世界中的任务。</p>
-<p>Feather 联合创始人 Hoa Mai 在接受 TechCrunch 采访时表示：“你今天无法购买特斯拉机器人并在其基础上进行二次开发。我们意识到，大多数公司并不是靠这种方式取得成功的。像英伟达或苹果这样的硬件厂商，起步时都是先推出一款切实可用且可部署的产品，随后随着时间的推移不断增加复杂度。”</p>
-<p>2025年，在 Mai（上图左）之前的上一家人形机器人初创公司出售给 1X 之后，他与曾一度直接向埃隆·马斯克汇报的特斯拉 Model 3 前工程师 Parsa Bakhtiari（上图右）联手，共同打造两人心目中机器人领域的“安卓”。</p>
-<p>这一愿景吸引了 Gradient Ventures。该机构在 Feather 创立之初便给予支持，领投了这家初创公司此前公布的 760 万美元种子轮前融资。</p>
-<p>自那时起，Feather 推出了模块化机器人系统，允许开发者根据不同的使用场景定制硬件，例如调整手臂长度。该初创公司已经开始向客户销售产品，营收已突破 100 万美元。</p>
-<p>尽管 Feather 并未披露其客户名单，但该公司表示其机器人正在餐馆中担任厨师，并在科学实验室中进行清理工作。在软件方面，该硬件可以运行来自任何主流机器人 AI 提供商的模型，包括英伟达、Skild 或 Physical Intelligence。</p>
-<p>“我们一直在小批量销售这些机器人，现在经过过去一年的实地测试，我们几乎解决了所有问题，正准备进行一次重大的产品发布，”Mai 说道。</p>
-<p>Gradient 普通合伙人 Darian Shirazi 表示，Feather 在美国没有直接竞争对手。他将当前的硬件机器人格局分为三类：像 Sunday 这样制造家用机器人的初创公司；像 Figure 和特斯拉这样以通用机器为目标重量级企业；以及 Feather——他认为这是美国唯一一家开发模块化人形机器人平台的初创公司。</p>
-<p>Mai 坦承 Feather 借鉴了宇树科技（Unitree）等中国机器人公司的经验。但随着对新型外国制造机型的入境限制，Feather 如今在美国市场占据了独一无二的本土同类方案地位。</p>
-<p>Feather 的另一个优势是价格。该机器人的售价为 30,000 美元，大约是宇树 H2 Edu 价格的一半。</p>
-<p>Shirazi 认为在这个价位下市场规模可能会非常庞大。“你雇佣一名劳工每年需要花费 50,000 到 60,000 美元，你必须培训他们，还必须有 HR 配套，必须有各种不同的支持机制，”他表示，“而现在你可以购买一台 Feather 机器人来做这件事。”</p>
-<p>据 Shirazi 透露，Feather 的运营效率也极其高效，其种子轮前融资仅花费了一小部分。</p>
-<p>当然，这家初创公司的重注在于：机器人领域的价值将源自围绕硬件建立起来的生态系统。</p>
-<p>“如果我们审视当今具身智能（Physical AI）公司的市场规模，它其实非常小，”Mai 说道，“但如果你思考一下五年内可能会存在多少家具身智能应用公司，我们预计会有数以千计。”</p>
-<p>Feather 希望成为为所有这些公司提供动力的平台。</p>
+<div class="article-body" data-article-body="true"><p>如果说机器人初创公司创始人和投资人能在哪件事上达成共识，那就是通用机器人能无缝适应任何环境的“ChatGPT时刻”尚未到来。关于这项突破是近在咫尺还是十年之遥，各方意见不一。</p>
+<p>Feather Robotics是一家成立于去年的具身智能初创公司，正在针对这两种可能的时间线开发机器人。与特斯拉或Figure等致力于攻克兼顾本体与尚未广泛部署的基础“大脑”这一高远使命的公司不同，Feather为开发者提供软硬件工具包，以便即刻应对现实世界中的各项任务。</p>
+<p>“你今天没法买一台特斯拉机器人并在其基础上进行二次开发，”Feather联合创始人Hoa Mai告诉TechCrunch。“我们意识到，绝大多数公司并非通过这种路径取得成功的。像英伟达或苹果这样的硬件厂商，起步时都是先推出一款切实可用、能够部署的产品，然后随着时间的推移不断增加复杂度。”</p>
+<p>2025年，在上一家机器人初创公司出售给1X之后，Mai（上图左）与前特斯拉Model 3工程师Parsa Bakhtiari（上图右）联手——后者曾一度直接向埃隆·马斯克汇报——两人携手打造他们希望成为机器人领域“安卓”的产品。</p>
+<p>这一构想吸引了Gradient Ventures，该机构在Feather创立伊始便提供了支持，领投了这家初创公司此前公布的760万美元种子轮前融资。</p>
+<p>从那时起，Feather推出了一套模块化机器人系统，允许开发者针对不同的使用场景定制硬件，例如调整手臂长度。该初创公司已经开始向客户销售产品，营收已突破100万美元。</p>
+<p>尽管Feather未透露具体客户，但它表示其机器人已在餐厅充当厨师，以及在科学实验室进行清理工作。在软件方面，该硬件可以运行来自任何顶尖机器人AI提供商的模型，包括英伟达、Skild或Physical Intelligence。</p>
+<p>“我们一直在小批量销售这些机器人，如今在经过过去一年的现场测试并解决了几乎所有问题之后，我们正准备进行一次大规模的产品发布，”Mai说道。</p>
+<p>Gradient的普通合伙人Darian Shirazi表示，Feather在美国没有直接竞争对手。他将当前的硬件机器人格局分为三类：像Sunday这样打造家庭室内机器人的初创公司；像Figure和特斯拉这样致力于打造通用机器的重量级企业；以及Feather——他认为，这是美国唯一一家开发模块化人形机器人平台的初创公司。</p>
+<p>Mai承认，Feather借鉴了宇树科技等中国机器人公司的经验。但随着对新型外国制造机型进入美国市场的限制，Feather如今作为一个本土的同类选项，占据了独特的地位。</p>
+<p>Feather的另一大优势是价格。该机器人的售价为3万美元，大约只有宇树H2 Edu价格的一半。</p>
+<p>Shirazi认为，在这个价格水平下，市场规模可能会非常庞大。“如果你以每年5万到6万美元的薪资雇佣一名劳工，你还得对他们进行培训，必须配备人力资源部门，还得准备各种各样的支持机制，”他说。“而现在，你可以直接购买一台Feather机器人来做这些事情。”</p>
+<p>据Shirazi称，Feather的运营效率也极高，目前仅花费了种子轮前融资的一小部分资金。</p>
+<p>当然，这家初创公司的巨大赌注在于：机器人技术的价值将来自于围绕硬件所形成的生态系统。</p>
+<p>“如果我们审视当今具身智能（Physical AI）公司的市场规模，它其实非常小，”Mai说。“但如果你想想五年内可能会有多少家具身智能应用公司涌现，我们预计会有数千家。”</p>
+<p>Feather希望成为为所有这些公司提供底层动力的平台。</p>
 <p>当您通过我们文章中的链接进行购买时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>Marina Temkin 是 TechCrunch 的风险投资与初创企业记者。在加入 TechCrunch 之前，她曾为 PitchBook 和 Venture Capital Journal 撰写关于 VC 的报道。在职业生涯早期，Marina 曾担任金融分析师并获得了特许金融分析师（CFA）持证人资格。</p>
-<p>您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或通过 Signal 发送加密信息至 +1 347-683-3909 来联系或核实 Marina 的采访信息。</p>
-<p>您的下一个重大合作尽在 Disrupt。与 10,000 多位创始人、风投、运营者和科技领袖建立联系。探索未来的突破，聆听塑造当今科技的声音，在太平洋时间 9 月 25 日晚上 11:59 之前购票最高可省 200 美元。</p>
-<p>Anthropic 称其生物实验室已获得重大发现<br />PitPro 首款换胎机器人已在加拿大上线投入使用<br />Anthropic 发布 Opus 5.5，价格更低且具备寓言级表现<br />随着旗下 AI 解决 100 多个开放性难题，OpenAI 成立数学顾问小组<br />Meta 的 Muse 早期移动端发布速度超越 ChatGPT<br />Tilly Norwood 的媒体巡回宣传正如你对 AI 所预期的那样进行<br />来自 ChatGPT 发明者的一种新型 AI 模型令开发者倍感振奋</p></div>
+<p>Marina Temkin是TechCrunch的风投和初创公司报道记者。在加入TechCrunch之前，她曾为PitchBook和Venture Capital Journal撰写风投相关报道。在她职业生涯早期，Marina曾是一名金融分析师，并获得了CFA特许金融分析师认证。</p>
+<p>您可以通过发送电子邮件至 marina.temkin@techcrunch.com，或通过Signal发送加密信息至 +1 347-683-3909 来联系或核实Marina的联络。</p>
+<p>您的下一个重要机遇就在Disrupt。与10,000多名创始人、风投人、运营者和科技领袖建立联系。探索明天的突破，倾听塑造今日科技的声音，在太平洋时间9月25日晚上11:59前报名可立省高达200美元。</p>
+<p>Meta为其Muse AI智能体制作了一款类似拓麻歌子的可穿戴设备<br />Anthropic称其生物实验室已获得重大发现<br />PitPro首款自动换胎机器人在加拿大上线运行<br />Anthropic发布Opus 5.5，价格更低，具备媲美Fable的表现<br />Meta的Muse早期移动端势头超越ChatGPT初期表现<br />Tilly Norwood的新闻发布会巡回宣传表现与人们对AI的预期一致<br />由一位ChatGPT发明者打造的新型AI模型令开发者振奋不已</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -294,40 +499,84 @@ notice:
 :::
 
 :::cell
-<div id="story-careers-product-engineer-b203fe9051241347" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1158" data-content-paragraphs="1" data-published-at="2026-09-24T18:29:18.000Z" data-time-source="publication">
+<div id="story-urity-lab-taskflow-agent-4431c738b4b1e8a1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="5284" data-content-paragraphs="43" data-published-at="2026-09-24T18:26:12.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="GitHub Blog (工程技术博客)" width="16" height="16" /> <strong>GitHub Blog (工程技术博客)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 02:29</span>
+  <span class="news-meta-time">🕒 2026-09-25 02:26</span>
 </div>
 
-### [Stable（YC W20）正在招聘产品工程师](https://www.usestable.com/careers/product-engineer)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Stable (YC W20) Is Hiring Product Engineers</div>
+### [要闻：如果您刚接触模糊测试（fuzzing）并希望先学习基础知识，请在 gh.io/fuzzing101 查看我们的 ](https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</div>
 
-<div class="article-body" data-article-body="true"><p>新指南！了解如何将邮件转变为自动运行的工作流。阅读指南 ➜<br />为您的企业获取一个永久地址<br />在线管理您的实体邮件<br />实现手动工作流程自动化<br />将您的地址更换为 Stable<br />实现实体支票存款自动化<br />遍布全美的优质商业地址<br />当我们进驻您所在城市时接收通知<br />了解更多关于 Stable 的信息<br />解答您的疑问<br />关于邮件与运营的专家技巧<br />Stable 客户带来的真实成果<br />我们的使命是让任何企业都能轻松在互联网上设立总部。如今，我们为企业提供商业地址以及用于在线管理实体邮件的控制面板。包括 Brex、Doordash 和 Gusto 在内的超过 15,000 家公司正在使用 Stable 来实现其收发室自动化，并将其用作在国税局（IRS）、州政府及供应商处的永久商业地址。<br />监管美国实体的规则早在 19 世纪就已制定。Stable 通过一系列工具对这些陈旧要求进行抽象封装，从而赋能现代企业更快前行。<br />这些规则对于我们当下的工作方式而言已毫无意义——工作发生在云端，企业也不再受制于物理距离或地理位置。<br />我们的使命是修复支离破碎的实体管理体系。从商业地址和邮件起步，我们正在将那些让创办企业变得痛苦的复杂陈旧系统进行抽象封装，并将其转化为令人愉悦的体验——从而让现代企业拥有更快向前发展所需的工具。<br />我们得到了包括 Y Combinator、Craft Ventures、Shakti、Hustle Fund 等硅谷顶级投资机构，以及来自 Lattice、Apartment List 和 FlexJobs 等公司的创始人支持。<br />我们的业务正处于拐点。凭借备受喜爱的产品，我们正在快速增长，并且我们已经证明有能力为各个发展阶段、各个行业的公司提供服务——从早期初创企业到科技、物流及物业管理等行业的上市公司。<br />这是一个以早期核心员工身份加入初创团队的机会，您的工作将直接影响未来企业的构建方式。<br />我们正在寻找一位拥有 3 年以上经验的产品工程师加入我们精简的团队，协助构建现代商业基础设施的软件骨干网络。<br />以精干的团队服务超过 15,000 家企业，意味着我们注重实际影响力。工程师会直接与用户沟通，找出真实世界的瓶颈，并交付能够解锁效率与扩展性的代码。这里没有人会直接派任务工单给你——从界定关键问题到付诸构建，你都将亲身参与。<br />你将负责全栈工作——前端、后端，偶尔还涉及硬件。这里的问题具体实在，反馈也十分迅速：你可能在训练识别文档中支票的 AI 模型，接着编写提取数据以完成存支票的集成模块，并在同一周内看到它在真实仓库中运转。你将亲手塑造驱动我们产品和物流的核心系统。<br />你可能涉及的工作示例包括：<br />该职位适合热爱打造实用产品以解决实际问题的人。你能够从容应对模糊性，乐于与客户沟通，并能交付具有明确、可衡量影响力的代码。</p></div>
+<div class="article-cover"><img src="https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-09-23-at-3.16.38-PM.png?resize=1024%2C453" alt="要闻：如果您刚接触模糊测试（fuzzing）并希望先学习基础知识，请在 gh.io/fuzzing101 查看我们的 " loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>如果您刚接触模糊测试（fuzzing）并希望先学习基础知识，请在 gh.io/fuzzing101 查看我们的 Fuzzing 101 课程。</p>
+<p>持续模糊测试并不是解决所有问题的灵丹妙药。即便是加入 OSS-Fuzz 多年的项目，也仍可能潜藏着严重缺陷，其原因几乎总是相同的：必须有人持续关注代码覆盖率、为未覆盖到的代码编写新的测试载具（harness），并对最终出现的崩溃报告进行分流评估（triage）。换句话说，模糊测试仍然需要人工参与其中。</p>
+<p>因此，我不断问自己的一个很自然的问题是：我们究竟能将其中多少人工工作移交给大语言模型（LLM）智能体？</p>
+<p>正是这一思考促使我构建了 Fuzzing Taskflow——一个面向 C/C++ 项目的自主模糊测试流水线。你只需将它指向一个 GitHub 仓库，其余工作均由它自行完成：识别适宜的入口点、分析构建系统、编写测试载具、运行 AFL++、读取覆盖率报告、改进测试载具、分流每次崩溃，并为每个独立的缺陷生成漏洞报告，全程无需人工看护。</p>
+<p>Fuzzing Taskflow 构建于 GitHub Security Lab Taskflow Agent 之上，后者是我们用于编写大语言模型驱动的安全自动化框架，因此该流水线被定义为一套由智能体端到端执行的任务流（taskflow）。</p>
+<p>在本文中，我将带您深入了解其工作原理以及背后的设计考量。让我们开始吧！</p>
+<p>运行它最简单的方法就是访问 https://github.com/GitHubSecurityLab/seclab-taskflows-fuzzing 并启动一个 codespace。</p>
+<p>然后，像这样运行脚本：<br />./scripts/fuzzing/run_fuzzing.sh PROJECT<br />./scripts/fuzzing/run_fuzzing.sh tukaani-project/xz</p>
+<p>就这么简单。参数仅为一个 GitHub 的所有者/仓库名标识（owner/repo slug）。随后，智能体将自行处理所有前期准备步骤：<br />- 安装如 AFL 等相关软件<br />- 克隆仓库<br />- 识别代码中最相关的关键函数<br />- 针对这些函数创建模糊测试目标（fuzz target）</p>
+<p>如果您只想在投入长时间测试之前进行快速冒烟测试，可以将其指向某个小型项目：<br />./scripts/fuzzing/run_fuzzing.sh DaveGamble/cJSON</p>
+<p>在运行之前先作个警示提醒：该任务流直接在宿主机上运行 afl-fuzz、clang 以及由大语言模型选取的任意构建命令，中间没有任何容器隔离。受到提示词注入攻击（prompt injection）的智能体原则上可以执行您当前用户权限下的任何操作。因此，请务必仅在没有特权提升的一次性环境（例如 Codespace 或随用随弃的虚拟机）中运行它。</p>
+<p>一些前沿模型对其输出设有安全护栏（guardrails）。对于该模糊测试任务流，我们默认使用 Claude Sonnet 5，因为它顺利通过了我们所有的内部测试。您可以通过修改以下文件来选择其他模型：src/seclab_taskflows_fuzzing/configs/model_config.yaml。</p>
+<p>一分钟了解系统架构</p>
+<p>在深入探讨核心细节之前，先了解各组件如何协同运作大有裨益。系统分为三个层次：<br />1. 一个 Shell 驱动脚本（run_fuzzing.sh），用于串联流水线的各个阶段。<br />2. 一套任务流 YAML 文件，每个阶段对应一个文件，本质上是指示 LLM 智能体在每个步骤该做什么的提示词。<br />3. 一套 MCP 工具，智能体通过调用它们来实际执行具体工作：运行 AFL、编译测试载具、存储崩溃信息、读取覆盖率报告等。</p>
+<p>我最注重的设计原则是职责划分清晰：大语言模型智能体负责决策，MCP 工具负责执行。智能体决定对什么进行模糊测试、编写何种测试载具，以及下一步要攻关哪个覆盖率空白区域。工具仅暴露诸如 run_afl_for 或 compile_harness 等底层原语接口。智能体绝不直接调用 AFL 或 clang；它是利用这些积木式构件来组装流水线。所有状态均保存在一个 SQLite 数据库（fuzz_context.db）中，因此各阶段之间从不在内存中直接传递数据，而完全通过数据库进行中转。</p>
+<p>一个微小但至关重要的细节是：每个测试载具都会编译构建两次。AFL 的边插桩（edge instrumentation）非常适合指导模糊测试器，但在生成人类可读的覆盖率报告时却无能为力。因此，每个测试载具都会被编译为两种二进制文件：.afl 二进制文件（使用 afl-clang-lto -fsanitize=address,undefined 构建）和 .cov 二进制文件（使用 clang -fprofile-instr-generate -fcoverage-mapping 构建）。.afl 二进制文件用于执行模糊测试；而 .cov 二进制文件随后重放 AFL 的测试队列，以生成真实的源码行覆盖率和分支覆盖率。</p>
+<p>覆盖率反馈循环</p>
+<p>这是整个流水线的核心，也是将我在开头所描述的人工工作流进行最直接自动化实现的部分。</p>
+<p>如果您曾尝试过手动提高模糊测试覆盖率，就会知道这是一个如下所示的迭代过程：<br />以往，“检查覆盖率”这一步是由我手动阅读 LCOV 报告以寻找未覆盖分支来完成的；而“提高覆盖率”这一步也是由我来完成——编写新的测试载具或精心构造新的输入。Fuzzing Taskflow 则将这两个步骤全部移交给了智能体。</p>
+<p>在每次迭代中，针对每个测试载具，智能体会按照预设的时间预算运行 AFL，将队列输入在 .cov 二进制文件上重放以获取实际的覆盖率报告，随后读取未覆盖分支列表。根据分析结果，它会从以下几种操作中选择其一：<br />- 添加经过专门构造以触及未覆盖分支的新种子输入<br />- 修改测试载具源码以调用额外的 API<br />- 使用条件分支所比对的魔数常量（magic constants）自动丰富 AFL 字典<br />- 如果属于冷门错误路径或不值得深入追踪的第三方供应商代码，则直接跳过该缺口</p>
+<p>时间预算在每次迭代中都会翻倍：<br />30秒 → 60秒 → 120秒 → 240秒 → 480秒 → 960秒（每个目标约 32 分钟）<br />其核心思路是在前期投入低成本、短时长的轮次（此时有大量容易获取的“唾手可得”覆盖率），而在后期安排更长轮次（此时模糊测试器需要更多时间来攻破难度较高的防护判定）。</p>
+<p>正如在我的手动工作流中一样，我也必须回答一个问题：我们何时停止？在这里，循环采用了平台期检测（plateau detection）：一旦连续两次迭代各自获得的增益低于可配置的阈值（默认为 1% 的绝对行覆盖率），循环便判定已进入收益递减阶段并继续向下推进。这可以防止智能体为了压榨最后零点几个百分点的微小收益而耗费数小时的计算资源。</p>
+<p>结构感知模糊测试</p>
+<p>AFL 默认的字节级变异器（位翻转、算术运算、数据块拼接）在二进制格式上表现优异，但在处理结构化文本输入时却举步维艰。传统的解决方案是针对每种格式手写自定义变异器，而这是一项繁琐乏味的工作。这次我希望流水线替我完成这项工作，因此它提供了四种互补的机制来生成结构感知的输入数据。</p>
+<p>1. 针对特定格式的字典和自定义变异器。对于输入格式已被识别的目标（如 JSON、XML、正则表达式、PNG、带长度前缀的二进制 TLV），该任务流提供了预构建的 AFL 字典和 LLVMFuzzerCustomMutator C 文件。JSON 变异器可进行标记拼接和括号对称复制；XML 变异器了解标签、实体以及“十亿笑脸”（billion-laughs）攻击标记；正则表达式变异器则携带了真实的 ReDoS 模式。每个变异器都会将其半数变异委托回 AFL 的默认字节变异器，从而保留引擎的随机性，而不是与之冲突。</p>
+<p>2. 源码级字典。对于流程无法识别的格式，它会通过扫描目标自身的 .c/.h 文件来动态生成自定义变异器。它会提取字符串字面量以及 32 位数值常量（来自 #define、case 和 enum），滤除噪声，并将它们用作拼接标记。其直觉很简单：解析器所检查的最有趣的魔数，通常就写在它自己的源代码中某处。</p>
+<p>3. 结合覆盖率驱动丰富机制的动态生成 AFL 字典。在第 1 次迭代之前，相同的源码标记集也会作为 AFL 经典字典输出（包含两种字节序的数值常量，以便模糊测试器无论宿主字节序如何，都能满足针对 4 字节魔数的 memcmp 比较）。随后，在每一步覆盖率测试之后，流水线会检查未覆盖代码行附近的守卫条件（strncmp、memcmp、case 0xN、== &#39;X&#39;），并追加找到的任何新标记。字典实际上是在朝着模糊测试器尚无法触及的代码方向延伸扩展。</p>
+<p>4. 语料库拼接算子。智能变异器还可以从语料库目录加载文件，并将其中的随机子区域拼接到输入中，这是一种 AFL 原生 havoc 变异模式所不擅长的重组风格算子。</p>
+<p>在不知不觉中抹杀模糊测试效率的因素之一就是丢弃进度。如果每次运行都从原始种子开始，你就需要反复付出重新发现相同路径的代价。</p>
+<p>为了避免这种情况，每个测试桩（harness）都会获得一个稳定的语料库目录，该目录可以在多次迭代以及整个测试任务周期中保留：<br />/corpus/harness_ /</p>
+<p>在每次迭代结束时，AFL 的队列会被合并到该目录中，并通过 afl-cmin 运行以控制其体积。其效果是，昨天发现的有趣输入会被带入今天的运行中，而上周测试任务中找到的输入也会保留到当前任务中。即使你停止并重新启动测试任务，也不会丢失任何成果。</p>
+<p>分类排查与漏洞报告</p>
+<p>发现崩溃仅仅完成了工作的一半。任何做过根本原因分析的人都知道，分类排查（triage）往往是整个过程中最繁琐的部分。这正是该 Agent 大放异彩的另一个地方。</p>
+<p>模糊测试循环结束后，会自动运行三个阶段。首先，每个崩溃都会通过 afl-tmin 进行精简，在 ASan 下重放以捕获调用堆栈轨迹，并通过栈顶哈希进行去重（提取顶部的标准化栈帧，剥离模板、内联命名空间和 LTO 后缀，从而将语义上相同的崩溃合并归类）。其次，先前已知的崩溃会在当前二进制文件上重放，以检查上游修复是否已解决它们。第三，Agent 会读取测试桩源码和发生崩溃的函数，从公共 API 开始逆向回溯调用链，并为每个崩溃生成一份 Markdown 格式报告。</p>
+<p>每份报告都会给出以下裁定之一：</p>
+<p>区分真正的漏洞（可通过公共 API 触达且可利用）与单纯的测试桩错误（harness_bug，即错误存在于我们自己编写的测试桩中，而非库本身），正是过去需要我坐下来手动跟踪代码的那类判断决策。每份报告都包含带有“文件:行号”引用的根本原因分析、可达性论证、可利用性评估、以统一差异（unified diff）形式呈现的修复建议以及回归测试草案。</p>
+<p>需要说明的是：建议的补丁被标记为“需要人工审核”（review required）是有原因的。Agent 的分析受限于模型对目标代码的理解程度，它确实会犯错。请将这些裁定视为给人工专家准备得非常充分的起点，而非最终结论。</p>
+<p>运行自主测试任务却无法看到其实时操作会让人感到不放心，因此该流水线会将所有内容发布到一个实时 HTML 仪表板上。只要你启动任务，它就会在后台自动运行在 8765 端口上。在 Codespace 中，该端口会自动转发，因此你可以在任何浏览器中打开它，并在仪表板上实时观察任务进展。</p>
+<p>该页面展示的内容包括：<br />每个测试桩的“运行中”心跳状态<br />带有内联走势图（sparkline）的覆盖率趋势表<br />迭代时间线</p>
+<p>我发起这个项目的初衷，源于任何安全研究人员都深有体会的局限性：模糊测试很有效，但在缺乏人工关注的情况下无法扩展，而人工关注正是瓶颈所在。模糊测试任务流（Fuzzing Taskflow）是我试图打破这一瓶颈的尝试，它将重复性工作（编写测试桩、解读覆盖率、追踪覆盖缺口、分类排查崩溃）移交给 LLM Agent，同时在 Agent 的判断与执行实际工作的工具之间保持清晰的职责分离。</p>
+<p>如果你是 C/C++ 项目的维护者，请务必尝试一下。如果你的项目此前从未进行过模糊测试，该工具将帮助你快速上手。如果你的项目过去曾进行过模糊测试，该工具也可以通过提高模糊测试覆盖率来帮助发现新的漏洞。</p>
+<p>该项目源码完全开源，如果你遇到任何错误，请提交 issue。我们也非常欢迎社区贡献！</p>
+<p>本篇文章《借助 GitHub 安全实验室 Taskflow Agent 实现 AI 驱动的模糊测试》首发于 The GitHub Blog。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-25 02:29 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【GitHub Blog (工程技术博客)】于 2026-09-25 02:26 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
+  <span class="news-tag-pill">#GitHub</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.usestable.com/careers/product-engineer" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【GitHub Blog (工程技术博客)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
 <div id="story-k-oled-monitor-deal-sale-9b5e89853cf3aec4" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1078" data-content-paragraphs="8" data-published-at="2026-09-24T18:19:23.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1183" data-content-paragraphs="8" data-published-at="2026-09-24T18:19:23.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -336,19 +585,19 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 02:19</span>
 </div>
 
-### [遗憾的是，这台配备RTX 5070、售价1549美元的游戏电脑确实很划算](https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale)
+### [令人无奈的是，这台售价1549美元的RTX 5070游戏整机确实非常划算](https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/CyberPowerPC-Gaming-PC-Intel-Core-i7-14700KF-NVIDIA-GeForce-RTX-5070-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="遗憾的是，这台配备RTX 5070、售价1549美元的游戏电脑确实很划算" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/CyberPowerPC-Gaming-PC-Intel-Core-i7-14700KF-NVIDIA-GeForce-RTX-5070-roundup.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="令人无奈的是，这台售价1549美元的RTX 5070游戏整机确实非常划算" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>配备RTX 5070的CyberPowerPC预装游戏电脑。</p>
-<p>尽管电脑零部件价格仍然居高不下，但购买预装台式机可以为整套系统节省不少费用。沃尔玛目前正在促销一台配置出色的CyberPowerPC游戏电脑，售价为1549美元，相比原价2139美元便宜了近600美元。该机搭载英特尔酷睿i7-14700KF处理器，配备32GB、频率为6000MHz的DDR5内存，以及拥有12GB显存的英伟达RTX 5070 Founders Edition显卡。机箱为CyberPowerPC MA-O1，这是该公司的自有设计，提供丰富的散热选项，并配有三个专用旋钮，用于调节内部RGB灯光的颜色。</p>
-<p>CyberPowerPC（酷睿i7/RTX 5070）<br />沃尔玛售价：2139.99美元→1549美元</p>
-<p>乍看之下可能不觉得，但对于一台开箱即可畅玩的游戏电脑来说，这确实是个不错的价格。目前，这台电脑中的RTX 5070单独购买可能就要花费800多美元（它在2025年上市时的价格为549美元），而32GB高速内存的价格也可能达到或超过400美元。只需支付少量溢价，你就能将这些组件装进一个设计精美的机箱中，机箱配有全景玻璃侧板，内部还搭载一块1TB PCIe 4.0固态硬盘。整套设备经过测试，并提供一年的零部件和人工保修。此外，它还附带键盘和鼠标，因此到货后即可开始游戏。</p>
+<div class="article-body" data-article-body="true"><p>CyberPowerPC 推出的配备 RTX 5070 的预装整机。</p>
+<p>在电脑配件价格居高不下的当下，购买预装品牌整机可以为你省下一笔不小的开销。沃尔玛正在对一款配置优良的 CyberPowerPC 游戏主机进行促销，售价为 1549 美元，较其 2139 美元的原价直降近 600 美元。该机搭载了英特尔酷睿 i7-14700KF 处理器，配备 32GB 6000MHz DDR5 内存以及拥有 12GB 显存的英伟达 RTX 5070 Founders Edition 公版显卡。机箱采用了 CyberPowerPC MA-O1，这是一款自主设计的机箱，拥有丰富的散热扩展空间，并配有三个用于调节内部 RGB 灯光颜色的专用旋钮。</p>
+<p>CyberPowerPC（酷睿 i7/RTX 5070）<br />沃尔玛现售 1549 美元，原价 2139.99 美元</p>
+<p>尽管初看之下可能没有强烈感觉，但对于一台到手即用的游戏主机而言，这确实极具性价比。仅凭该机搭载的 RTX 5070 显卡，目前单独购买可能就需花费 800 美元以上（该卡于 2025 年发售，原定零售价为 549 美元），而 32GB 的高频内存售价也可能在 400 美元或更高。只需支付小额溢价，你就能将这些核心部件打包带走，并获得带有全景玻璃侧透的精美机箱以及内置的 1TB PCIe 4.0 SSD。整机均经过测试，并提供为期一年的零部件和人工保修。此外还附赠了键鼠套装，收到后即可立即开启游戏之旅。</p>
 <p>其他值得考虑的优惠</p>
-<p>如果你需要一台色彩和清晰度都十分出色的游戏显示器来搭配新游戏电脑，Newegg目前将ASRock PGO27QSA-W降价至299.33美元，较其476美元的原价大幅优惠。这款27英寸显示器支持1440p分辨率、240Hz刷新率和FreeSync Premium可变刷新率技术，并采用能够呈现深邃黑色的OLED面板。</p>
-<p>亚马逊目前将两件装的Anker Zolo MagSafe无线充电器降价至25.99美元，通常售价为39.99美元。每个充电器均通过Qi2认证，支持最高15W充电功率，并配有一根1.5米长的线缆，方便放置在书桌或床头柜上。不过，你需要自备墙充器。</p>
-<p>任天堂客户答谢促销活动将持续至太平洋时间9月26日晚上8点59分，现在是购买额外一套手柄以及其他游戏和配件的好时机。Switch Pro手柄目前在亚马逊和百思买均仅售56美元（通常约为70美元）；百思买还将一对Joy-Con手柄降至62.99美元，不过目前只有粉彩紫与绿色组合有货。这些手柄兼容初代Switch和Switch 2，但新版主机用户需要另行购买充电器，而且手柄无法将处于睡眠状态的主机唤醒。</p></div>
+<p>如果你需要一台色彩出色、画面清晰的游戏显示器来搭配新主机，Newegg 正在将华擎（ASRock）PGO27QSA-W 降价至 299.33 美元，相比 476 美元的原价折扣力度很大。这款 27 英寸显示屏支持 1440p 分辨率、具备 FreeSync Premium 可变刷新率技术的 240Hz 刷新率，并采用能够呈现深邃黑位的 OLED 面板。</p>
+<p>安克（Anker）Zolo MagSafe 磁吸无线充电器双装在亚马逊促销仅售 25.99 美元，平时售价为 39.99 美元。每个充电器均通过 Qi2 认证，支持最高 15W 充电功率，并附带一条 5 英尺长的线缆，方便摆放在桌面或床头柜上。不过，你需要自备充电头。</p>
+<p>任天堂玩家感谢特惠活动将持续至太平洋时间 9 月 26 日晚上 8:59，这是选购备用手柄以及其他游戏和配件优惠的好时机。Switch Pro 手柄在亚马逊和百思买（Best Buy）的售价均降至 56 美元（平时约 70 美元），百思买的双只装 Joy-Con 仅售 62.99 美元，不过目前仅有淡紫配淡绿版本有现货。这些手柄同时兼容原版 Switch 和 Switch 2，不过新一代主机用户需要配备单独的充电器，且手柄无法从休眠状态唤醒系统。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -368,7 +617,7 @@ notice:
 
 :::cell
 <div id="story-ico-stargate-data-center-8e953b62eee23ddb" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1281" data-content-paragraphs="18" data-published-at="2026-09-24T18:11:44.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1269" data-content-paragraphs="12" data-published-at="2026-09-24T18:11:44.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -377,27 +626,21 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 02:11</span>
 </div>
 
-### [甲骨文就其位于新墨西哥州的星际之门数据中心发出不可抗力通知](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/)
+### [甲骨文对其新墨西哥州“星际之门”数据中心发出不可抗力通知](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Oracle sends force majeure notice on its New Mexico Stargate data center</div>
 
-<div class="article-body" data-article-body="true"><p>据彭博社周四率先报道，甲骨文已向“木星项目”（Project Jupiter）的开发商发出不可抗力通知。木星项目是位于新墨西哥州的一个“星际之门”（Stargate）数据中心园区。</p>
-<p>不可抗力条款常见于能源和大宗商品合同中。当合同一方无法控制的事件妨碍其履行合同义务时，该条款可使其免于承担相关义务。据彭博社消息人士称，甲骨文并不是要退出作为该园区主要租户的角色。相反，如果该设施未能按计划于2028年上线，这份通知将允许甲骨文延迟付款。</p>
-<p>这份通知发出之际，美国各地对人工智能数据中心建设的审查日益严格，开发商也在为OpenAI等客户建设产能时承担高昂成本。</p>
-<p>甲骨文表示，公司预计不会出现延误。甲骨文在给CNBC的一份声明中说：“木星项目仍按我们的计划推进。我们完全致力于新墨西哥州，并对未来的发展路径充满信心。”</p>
-<p>收到这份通知的蓝猫资本（Blue Owl Capital）旗下部门在给CNBC的另一份声明中表示：“这份通知不会改变该多年期项目的财务承诺。”</p>
-<p>甲骨文和蓝猫资本均未立即回应TechCrunch的置评请求。</p>
-<p>不过，这份通知是在该项目所在地连续遭遇一系列挫折之后发出的，其中许多挫折与能源供应有关。该园区的设计容量为2.45吉瓦，计划使用Bloom Energy生产的燃气燃料电池供电，因此稳定的天然气供应对其建设进度至关重要。</p>
-<p>原计划向该地点输送天然气的Energy Transfer管道也已延迟近六个月，推迟至2027年2月1日。这是因为监管机构多次拒绝为该管道颁发许可。今年8月，彭博社报道称，在相关许可遭拒后，管道线路已经变更。为园区提供电力的燃料电池系统还需要获得一份单独的空气质量许可，目前该许可仍在审批中。新墨西哥州环境部门须在11月23日前作出决定。</p>
-<p>木星项目是“星际之门”计划的旗舰项目之一。该人工智能基础设施计划由甲骨文、OpenAI和软银在美国总统唐纳德·特朗普第二任期早期宣布。该园区遭到当地居民和环保组织反对，并已成为中期选举前的政治焦点。据彭博社报道，甲骨文已在该州发起公共沟通活动，旨在争取该项目批评者的支持。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会获得一小笔佣金。这不会影响我们的编辑独立性。</p>
-<p>你的下一次重大连接就在Disrupt大会。与超过10,000名创始人、风险投资人、运营者和科技领袖建立联系。探索未来的突破性进展，了解当今正在塑造科技行业的力量，并在太平洋时间9月25日晚上11点59分前报名，最高可节省200美元。</p>
-<p>Anthropic称，其生物学实验室已经取得重大进展</p>
-<p>PitPro的首台换胎机器人在加拿大投入使用</p>
-<p>Anthropic发布Opus 5.5：价格更低，性能达到Fable级别</p>
-<p>OpenAI成立数学顾问小组，其人工智能已解决100多个公开难题</p>
-<p>Meta的Muse在移动端推出初期的表现超过了ChatGPT</p>
-<p>Tilly Norwood的媒体巡回宣传，对于一款人工智能产品而言，进展正如你所预期</p>
-<p>一位ChatGPT发明者推出的新型人工智能模型令开发者兴奋不已</p></div>
+<div class="article-body" data-article-body="true"><p>彭博社周四率先报道，甲骨文（Oracle）已向位于新墨西哥州的“星际之门”（Stargate）数据中心园区“木星计划”（Project Jupiter）的开发商发出了不可抗力通知。</p>
+<p>不可抗力条款在能源和大宗商品合同中十分常见，当超出其控制范围的意外事件造成阻碍时，允许一方免除合同义务。据彭博社消息人士透露，甲骨文并非寻求退出作为该园区主要租户的身份。相反，若该设施未能实现2028年投入运行的既定目标，该通知将允许该公司推迟付款。</p>
+<p>该通知发出之际，全美范围内对AI数据中心建设的审查正日益收紧，同时开发商在为OpenAI等客户建设算力容量时也承担着高昂的成本。</p>
+<p>甲骨文坚称预计不会发生延期。“木星计划仍按我们的既定进度推进，”甲骨文在给CNBC的一份声明中表示，“我们完全致力于新墨西哥州项目，并对未来的推进路径充满信心。”</p>
+<p>旗下部门收到该通知的蓝猫头鹰资本（Blue Owl Capital）在致CNBC的一份独立声明中表示，“该通知不会改变对这一多年期项目的财务承诺。”</p>
+<p>甲骨文与蓝猫头鹰资本均未立即回应TechCrunch的置评请求。</p>
+<p>尽管如此，该通知是在该场地遭遇一系列挫折之后发出的，其中诸多问题与其能源供应挂钩。该园区设计电力负荷为2.45吉瓦（GW），计划采用Bloom Energy的燃气燃料电池供电，这使得可靠的天然气供应成为确保其工期时间表的核心关键。</p>
+<p>在监管机构多次拒绝为管线发放许可后，一条原定用于向该场地输送天然气的Energy Transfer管道也已推迟了近六个月，至2027年2月1日。8月，彭博社报道称，在遭拒之后，该管线的路线已被调整。此外，为该园区供电的燃料电池系统的一项单独空气质量许可仍悬而未决。该州环境部门面临着在11月23日截止日期前作出决定的压力。</p>
+<p>“木星计划”是“星际之门”旗舰基地之一，后者是甲骨文、OpenAI和软银在唐纳德·特朗普总统第二任期初期与其共同宣布的AI基础设施倡议。该园区遭到了当地居民和环保团体的反对，并已成为中期选举前的政治焦点。据彭博社报道，甲骨文已在该州开展公众宣传活动，旨在争取该项目批评者的支持。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得少许佣金。这不会影响我们的编辑独立性。</p>
+<p>您的下一次重大机遇就在Disrupt大会。与10,000多名创始人、风险投资人、运营者及科技领袖建立联系。探索明天的突破，聆听塑造当今科技潮流的声音，并在太平洋时间9月25日晚上11:59之前立省最高200美元。</p>
+<p>Meta为其Muse AI智能体打造了一款类似拓麻歌子的穿戴设备<br />Anthropic称其生物学实验室已发现重大成果<br />PitPro首台自动换胎机器人在加拿大正式上线<br />Anthropic发布Opus 5.5：价格更低且具备寓言级性能<br />Meta的Muse发展速度超越ChatGPT早期移动端发布表现<br />蒂莉·诺伍德（Tilly Norwood）的媒体巡回宣传完全符合你对AI的预期<br />ChatGPT创造者推出的一种新型AI模型令开发者兴奋不已</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -416,8 +659,46 @@ notice:
 :::
 
 :::cell
+<div id="story-mate-change-supervillain-bcb31d434ed42cb8" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2724" data-content-paragraphs="5" data-published-at="2026-09-24T18:04:44.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 02:04</span>
+</div>
+
+### [黄仁勋谈论AI与气候变化宛如超级反派](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Jensen Huang talks about AI and climate change like a supervillain</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="黄仁勋谈论AI与气候变化宛如超级反派" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的后续文章将被添加到您的每日电子邮件文摘和主页推送中。<br />他谈及人工智能时表示：“为了拯救你，他们必须先伤害你。”<br />该作者的后续文章将被添加到您的每日电子邮件文摘和主页推送中。<br />查看贾斯汀·卡尔马（Justine Calma）的所有文章<br />按照黄仁勋的说法，人工智能确实有助于应对气候变化——但前提是它必须先带来“巨大的痛苦与折磨”。<br />这位英伟达首席执行官在最新一期《埃兹拉·克莱恩秀》（The Ezra Klein Show）播客节目中探讨了能源的未来以及人工智能对地球的影响。但他的言论归结起来，与我们从众多科技界领袖以及唐纳德·特朗普总统那里听到的加速主义说辞如出一辙。他们许诺称，人工智能对人类而言将是一份无比珍贵的馈赠，以至于当下由消耗肮脏能源的数据中心所造成的破坏都是值得承受的。<br />黄仁勋身上显露的极端特权令人咋舌<br />在采访中，黄仁勋所处的极度特权阶层地位显露无遗。他说得没错，痛苦确实会存在。气候变化加剧带来的山火与洪灾，已经在让普通人苦不堪言。化石燃料造成的空气污染，也早已导致人们过早失去生命。然而，净资产约达1926亿美元的黄仁勋，却无须为他的公司通过高能耗芯片工厂和数据中心所造成的污染买单。<br />在抱怨美国尚未建设足够的化石燃料发电厂之后，黄仁勋对克莱恩说道：<br />“这有点像，为了拯救你，他们必须先伤害你——这就是手术的本质。他们必须把你切开才能救你。他们必须对你施加巨大的痛苦和折磨，才能将你治愈。所以我认为人工智能差不多也是这样。”<br />正是这段话散发出了漫威超级反派“灭霸”（Thanos）的气息。灭霸认为资源太有限，因此在抹去半数人类之后，世界就会变得美好得多。（“我要把这个宇宙碾碎成最微小的原子，然后再创造一个生机勃勃的新宇宙，那里的生命不知曾经失去过什么，只懂得感恩所得，”他曾这样对复仇者联盟说道。）<br />黄仁勋接着说道：<br />“在接下来的几年里，我们不得不使用化石燃料，因为我们现有的可持续能源根本不足以改变现状。在那之后，但愿我们能顺利过渡到可持续能源。”<br />作为背景，2015年通过《巴黎协定》时，地球上几乎所有国家都同意限制气候变化。该协定设定了到2030年将温室气体排放量减半，并在2050年左右实现净零排放的目标。而要实现这一目标，唯有迅速向可再生能源和核能等零碳能源转型。以下仅列出部分在我们为追求人工智能发展而拖延减排进程时，正在进一步恶化的糟糕状况：<br />即便黄仁勋本人未受波及，这些影响也已经出现在了他的后院。他在采访中提到，他甚至不知道自己的具体住址。然而据报道，他早在2004年就在毛伊岛买下了一处价值750万美元的豪宅——这发生在2023年野火摧毁该岛之前。那一年，英伟达的一位发言人向The Verge证实，黄仁勋一家“在毛伊岛拥有这处住宅已有多年”。<br />据报道，黄仁勋的房产躲过了火灾破坏，英伟达发言人当时告诉我，黄仁勋夫妇“向当地的救灾工作捐赠了大笔款项”。但是，尽管常驻毛伊岛的科技亿万富翁们展现了慈善之举，这场大火依然激化了人们对豪宅侵占毛伊岛有限供水系统的紧张矛盾。<br />毛伊县议员凯阿尼·罗林斯-费尔南德斯（Keani Rawlins-Fernandez）当时告诉我：“亿万富翁们涌入毛伊岛，大肆圈占大片土地，当作他们不知道第几处的度假屋，这对我们社区来说是痛苦的。这突显了想要‘mālama ‘āina’（原住民语，意为呵护这片土地）的原住民与那些仅将夏威夷视作度假胜地的人之间鲜明的反差。”<br />“亿万富翁们涌入毛伊岛，大肆圈占大片土地，当作他们不知道第几处的度假屋，这对我们社区来说是痛苦的。”<br />尽管化石燃料排放的温室气体加剧了高温干旱条件，让野火更具危险性，但将毛伊岛拉海纳大部分地区化为灰烬的大火并不能完全归咎于气候变化。我当时报道过，前几代富有的土地掠夺者早已为岛屿的燃烧埋下了隐患。1898年，在美国种植园主为逃避进口关税的怂恿下，美国吞并了夏威夷王国。他们为了自己的生意砍光了原生植被，致使入侵性草类在此扎根，使当地的地貌比以往任何时候都更加易燃。<br />因此，当我如今听到黄仁勋声称为了人工智能的进步必须做出牺牲时，这让我联想到我们早就见识过类似的戏码：一个不惜一切代价谋求增长的行业，而周边的社区及其后代却只能被迫承受这一切恶果。<br />黄仁勋在接受克莱恩采访时提到了社区对数据中心建设日益增长的反对之声，并指责其他公司在动工前没有向居民宣传数据中心据称有多么高效的好消息。“如果他们不希望在他们的城镇或任何地方建造数据中心，那就算了。但如果你打算在他们的城镇建造，一定要去那里让他们明白未来会发生什么，”他说。<br />灭霸曾有一句恶名远扬的话：“我是不可避免的”（I am inevitable）——显然，人工智能数据中心亦是如此。<br />即便如此，数据中心实际上并不必像现在这样造成如此严重的污染。<br />在采访中，黄仁勋还将创纪录的可再生能源采购（不公允地）归功于人工智能。他指责气候行动阻碍了能源基础设施的建设——这里大概指的是化石燃料设施。<br />“我认为我们必须承认，我们在气候变化和可持续能源方面把自己彻底困住了，结果导致我们没有规划足够的能源生产。”<br />接着他宣称，如果你希望拥有一个可持续的未来，人工智能就是我们在“扭转气候变化局面”上所拥有的“最佳机遇”。他认为，从长远来看人工智能将加速对清洁能源的需求。但人工智能在眼下就需要庞大的能源，而化石燃料正是我们现有的资源。<br />“更具污染性的人工智能建设并非不可避免。”<br />然而，在近期生成式人工智能热潮爆发之前，可再生能源本就已经是新增发电装机增长最快的来源。建设风电场或太阳能电站的发电成本，通常比新建燃气或燃煤电厂更低。但是，竞选金库被化石燃料行业塞满的特朗普，正在鼓励建设燃气和燃煤电厂来为数据中心供电。<br />而如今，数据中心反过来又在刺激更多化石燃料基础设施的建设。根据加州大学河滨分校、加州理工学院以及罗切斯特理工学院的一项研究，到2028年，与人工智能相关的空气污染可能导致多达1300人过早死亡，并产生超过200亿美元的公共卫生开支。</p>
+<p>然而，“污染更严重的人工智能扩建并非不可避免。这取决于政府目前做出的选择，”由前美国环境保护署官员组成的环境保护网络（Environmental Protection Network）的高级总监马克·布姆（Marc Boom）在最近一场关于数据中心带来的日益严重的健康风险的新闻简报会上表示。</p>
+<p>这也取决于像黄仁勋这样的行业领袖的态度。如果让其他人承受痛苦和折磨是你为了所谓进步而愿意付出的代价，那么这恰恰说明的不是何为可能，而是你个人的优先考量。</p>
+<p>为您免费提供每日最重要的新闻文摘。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-25 02:04 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-n-create-studio-ai-games-d0c09943ed7a0f81" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="984" data-content-paragraphs="12" data-published-at="2026-09-24T17:52:29.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="966" data-content-paragraphs="12" data-published-at="2026-09-24T17:52:29.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
     <span class="stance-badge">独立专业观察</span>
@@ -426,22 +707,22 @@ notice:
   <span class="news-meta-time">🕒 2026-09-25 01:52</span>
 </div>
 
-### [Meta将允许你直接在手机上用AI制作游戏](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games)
+### [Meta将允许你直接在手机上利用AI制作游戏](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games)
 <div class="original-title-sub"><span class="orig-tag">原文</span> Meta is going to let you build games with AI right on your phone</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Meta将允许你直接在手机上用AI制作游戏" loading="lazy" /></div>
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.56.53-AM.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Meta将允许你直接在手机上利用AI制作游戏" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>关于这一主题的文章将添加到你的每日电子邮件摘要和首页信息流中。</p>
-<p>Meta下一步推动Horizon平台发展的重点将是AI生成的电子游戏。</p>
-<p>这位作者的文章将添加到你的每日电子邮件摘要和首页信息流中。</p>
-<p>查看Jay Peters的全部文章</p>
-<p>Horizon作为一个平台一直举步维艰，但Meta计划让这些新Horizon游戏获得更大的触达范围：使用Horizon Create和Horizon Studio制作并发布的游戏，将会在Facebook和Instagram上获得推荐，用户也可以直接在这两个平台上游玩。</p>
-<p>Meta表示：“在Instagram上浏览内容的用户可以点开你游戏的一个片段，并在几秒钟内进入多人游戏，不需要下载应用，也不会被重定向到其他页面。”“你的游戏原生存在于人们已经用来发现内容、与朋友联系的信息流中。”该公司称，那些“具有吸引力、运行稳定、符合文化相关性，并能让玩家持续回流”的游戏将获得更大的触达范围。</p>
-<p>Meta宣布这一消息之际，Roblox这一与Horizon类似、但受欢迎程度高得多的平台也在大力推进AI驱动的开发，其中包括一项移动应用功能，同样允许用户通过提示词生成游戏。</p>
-<p>Meta关于Horizon的消息发布之时，这款最初作为VR应用推出的产品近期已转向主要聚焦移动端。Meta几乎把AI塞进了能塞进去的一切产品中，因此AI也成为Horizon重要组成部分或许并不令人意外。</p>
-<p>为人们提供快速制作这类游戏的工具，或许能让玩家有更多可玩的选择。我非常怀疑，一大批AI生成的游戏能否像精心手工制作的体验那样具有吸引力，但Create和Studio制作的游戏听起来至少会具备电子游戏应有的元素（不像谷歌的Project Genie，后者只能生成短暂却空洞的AI互动体验）。Meta在一篇博客文章中表示：“两款工具都能让创作者把任何想法变成完整的2D或3D移动游戏，配备成长系统、平衡的难度、艺术指导、多人游戏等功能，然后按照自己的标准对每个元素进行完善。”</p>
-<p>Meta要达到Roblox的规模，可能还有很长的路要走。Roblox拥有1.23亿日活跃用户；相比之下，Horizon从未真正发展起来。《The Verge》在2022年初报道称，Horizon当时拥有30万月活跃用户。</p>
-<p>每天免费获取最重要的新闻摘要。</p>
+<div class="article-body" data-article-body="true"><p>该话题的内容将添加到您的每日电子邮件摘要和主页动态中。</p>
+<p>Meta为其Horizon平台发起的下一轮攻势涉及AI生成的电子游戏。</p>
+<p>该作者的内容将添加到您的每日电子邮件摘要和主页动态中。</p>
+<p>查看Jay Peters的所有文章</p>
+<p>作为一个平台，Horizon一直步履维艰，但Meta制定了一项计划，旨在大幅提升这些新Horizon游戏的覆盖面：它将允许使用Horizon Create和Horizon Studio制作并发布的游戏在Facebook和Instagram上获得推荐，且这些游戏在上述平台上也可直接游玩。</p>
+<p>Meta表示：“在Instagram上浏览内容的用户只需点击你游戏的一个片段，几秒钟内即可加入多人游戏环节，无需下载应用或跳转页面。你的游戏直接原生嵌入到人们发现内容与联络好友的动态流中。”该公司表示，“引人入胜、稳定、契合文化潮流且能留住玩家”的游戏将获得更大的传播覆盖率。</p>
+<p>在Meta发布此消息之际，与Horizon类似但人气高得多的平台Roblox也在大力推进AI驱动的开发，包括在其移动应用中加入类似功能，允许用户通过提示词生成游戏。</p>
+<p>Horizon最初作为一款VR应用推出，而Meta关于Horizon的这项新动态，紧随其近期将主要重心转向移动端的调整。随着Meta几乎把AI塞进它能触及的所有产品中，AI成为Horizon的重要组成部分或许也就不足为奇了。</p>
+<p>向大众提供快速制作这些游戏的工具，可以为人们提供更多可玩内容的选择。我非常怀疑一大堆AI生成的游戏能否像手工打造的体验那样引人入胜，但在Create和Studio中制作的游戏听起来至少具备电子游戏的核心要素（不像谷歌的Project Genie，后者生成的虽然是AI交互体验，但往往简短而空洞）。Meta在一篇博文中表示：“两者都能让创作者将任何想法转变为完整的2D或3D移动端游戏，包含进度系统、平衡的难度、美术指导、多人联机等要素，并允许创作者按照自己的标准精细打磨每个细节。”</p>
+<p>Meta要想达到Roblox的规模可能还有很长的路要走，后者的日活跃用户达1.23亿。相比之下，Horizon从未真正起飞过；The Verge曾在2022年初报道称其月活跃用户达到了30万。</p>
+<p>一份汇聚最重要新闻的免费每日摘要。</p>
 <p>这是原生广告的标题</p></div>
 
 <div class="news-card-takeaways">
@@ -461,35 +742,58 @@ notice:
 :::
 
 :::cell
-<div id="story-devdotfast-whiteboard-70359c27b4e5e0d8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1993" data-content-paragraphs="1" data-published-at="2026-09-24T17:21:36.000Z" data-time-source="publication">
+<div id="story--into-a-much-newer-trend-c55e075bb2c7402e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2564" data-content-paragraphs="24" data-published-at="2026-09-24T17:39:24.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 01:21</span>
+  <span class="news-meta-time">🕒 2026-09-25 01:39</span>
 </div>
 
-### [展示 HN：Whiteboard（YC W26）——一款用于深思熟虑的软件设计的开源 IDE](https://github.com/devdotfast/whiteboard)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design</div>
+### [Meta推出的Muse Charm形似拓麻歌子，却踩中了一股更新的潮流](https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend</div>
 
-<div class="article-body" data-article-body="true"><p>一款用于深思熟虑的软件设计的开源画布<br />下载 macOS 版 · 下载 Fedora 版 · 网站 · Discord<br />Whiteboard 是一款开源桌面应用，让人类与智能体能够在一个共享工作区中共同设计软件架构。<br />Whiteboard 可接入你已经在使用的工具，例如 Claude Code、Codex 等，并为你的智能体提供 SDK，使其能够在应用内画布上绘图，以描述自己的工作。<br />这里有一段 1 分钟的演示视频，可进一步了解相关内容：https://www.youtube.com/watch?v=ChPn3ftULWE<br />根据我们的经验，Whiteboard 与 GPT-6 Sol 和 Claude Opus 5.5 这类模型配合时效果最佳，因为它们在智能水平、成本和速度之间实现了较好的平衡。<br />下面是一些有效使用 Whiteboard 的示例提示词。我们正在努力确保系统提示词默认就包含正确的选择——这也是该系统开源的原因之一！——但在此期间，你可以这样使用：<br />嘿，这组提交已经配置好了，因此我可以获得一个 [API] 来完成 [目标]<br />然后我们就可以深入实现细节，并解释事情是如何运作的。<br />你能向我解释一下最新 PostHog PR 中的遥测变更吗？https://github.com/devdotfast/whiteboard/commit/4837e107946e27ebad50c282eb0f2585210d2a35 ——我们在跟踪什么，如何据此构建好的仪表板或产品瀑布图？对于卡顿、错误、崩溃等情况，我们该怎么处理……使用 Whiteboard<br />如果你发现任何不喜欢的内容，可以在剪贴板中将其高亮，然后交给你的智能体；它就能在 Whiteboard 上重新绘制，以符合你的需求！<br />纯 HTML 工具并没有提供便捷的方式来将规范或图表与代码连接起来；这尤其棘手，因为很多权衡往往只有在第一次实现之后才会被发现。在 Whiteboard 中，当你点击序列图、实体关系图或智能体轨迹中的一段引文等可视化内容时，就可以直接跳转到底层代码。在浏览代码时，你可以直接使用 VSCode 开箱即用的键绑定和 LSP 支持。<br />原始差异视图可能会非常嘈杂，因此我们用 Rust 编写了一个支持语义分析且能感知 AST 的差异查看器，让你只查看与你相关的代码变更。我们设置了一些合理的默认值：较大的新增函数会被概括为伪代码，单元测试和文档变更等内容则会被折叠或隐藏。这些设置都可以通过基于 WASM 的插件系统进行自定义。<br />我们发现，很难推理智能体自主作出了一组怎样的决策，以及这些决策如何影响某项变更。因此，我们为智能体构建了工具，使其能够在 Whiteboard 上查询并关联自身的轨迹；这样你就可以将自己设定的需求可视化，了解这些需求是如何实现的，以及智能体自主作出了哪些决策。<br />Whiteboard 采用 MIT 许可证，并针对本地代码检出运行。我们计划推出面向团队的托管产品，但所有内容始终都将支持自行托管。<br />目前，你还不能在 Whiteboard 中编辑文件。如果你发现自己需要这一功能，请提交 issue！<br />目前，在一次审查中跨多个代码仓库处理和浏览文件的支持并不完善。<br />虽然你可以通过共享按钮在不同机器之间共享审查，但共享审查后所作的更新不会显示给其他人。你需要重新共享该审查。<br />欢迎贡献代码和反馈意见。<br />有关设置和拉取请求工作流程，请阅读 CONTRIBUTING.md，并遵守行为准则。请按照 SECURITY.md 中的说明报告漏洞。有问题？请在 Discord 上提问。<br />Whiteboard 针对本地代码检出运行。匿名遥测不包含你的代码、差异、Whiteboard 文本、提示词或模型输出。请阅读隐私概览，查看完整的遥测参考，或随时关闭遥测功能。<br />Whiteboard 依据 MIT 许可证提供。随附的 Code - OSS 分支保留了微软的 MIT 许可证及第三方声明；请参阅 apps/review-desktop/LICENSE 和 apps/review-desktop/UPSTREAM。<br />由于每个人都在使用专用的智能体 TUI 和桌面应用，我们现在只用文本编辑器逐行审查差异，因此我们想，为什么不做一款专门用于代码审查的文本编辑器呢？既然如此，不妨以目前最成功的开源编辑器作为基础开始开发。<br />与其他通过维护补丁来进行开发的分支不同，我们将 Code OSS 作为随附代码，因为编程智能体很难处理补丁，而且原版 VS Code 中有很多我们并不需要的内容（也就是说，如今代码库中大约 45% 是 Copilot 相关代码 😬）。<br />我们会定期监控上游 Code OSS，并在安全补丁或功能补丁推出后将其合并进来。<br />用于深思熟虑的软件设计的开源画布</p></div>
+<div class="article-body" data-article-body="true"><p>Meta刚刚发布的Muse Charm究竟是一款让日常消费者更容易接触AI的趣味设备，还是会成为像Ai Pin、Rabbit或Friend吊坠等众多未能走红的AI硬件产品中又一个折戟的案例？到目前为止，各方的反应褒贬不一。然而，Charm确实踩中了当前的潮流趋势。</p>
+<p>无论你喜欢与否，这种形态都极有可能吸引Z世代消费者。在这个“后Labubu时代”，他们早已热衷于在钥匙扣和包包上挂满各种悬挂饰品。这完全是他们在时尚与科技态度上向更具趣味、受复古启发的转变的一部分。</p>
+<p>Z世代早已开辟出了一个“悬挂物”市场，从唇釉、免洗洗手液、防晒霜到香水等各种物品都被做成了包袋挂件，主要面向女性消费者。</p>
+<p>克里斯蒂娜·罗杜尔福（@kristinarodulfo）分享的一条贴文</p>
+<p>海莉·比伯（Hailey Bieber）风靡一时的Rhode唇膏手机壳——将唇釉固定在手机壳上——极大地推动了“美妆产品亦可作为时尚配饰”的理念，其旗下其他专注于美妆的包挂产品亦是如此。（正如《Vogue》去年指出的那样，在该公司宣布以十亿美元身价出售给Elf Beauty时，该品牌仅凭大约10款产品就斩获了2.12亿美元的年净销售额。）</p>
+<p>随后便是Labubu狂潮，这个“丑萌丑萌”的毛绒怪兽包挂销量大爆发，推动该产品背后的中国零售商泡泡玛特（Pop Mart）在2024年的营收达到18亿美元，相比2019年暴增7倍。虽然对Labubu本身的热度后来有所降温，但装饰性包挂的概念却并未退潮。一家分析机构估计，到2030年，全球包挂市场规模将突破10亿美元。</p>
+<p>如今，包挂可以是IP角色、贴满水钻的美妆产品，或是其他别出心裁的设计与物件，比如备受Z世代追捧的蔻驰（Coach）樱桃挂件。它们之所以大受欢迎，是因为它们是表达个性的媒介，就像人类千百年来通过服装选择、化妆和珠宝所做的那样。</p>
+<p>类似地，Meta的Muse也是一个可定制的角色；你可以设计自己的虚拟形象，从而使这个AI智能体同样成为自我的一种投射。</p>
+<p>而且，正如许多人指出的那样，Muse Charm的形态让人想起了拓麻歌子（Tamagotchi）——这种袖珍型电子宠物在90年代末以及2000年代中期曾引发过巨大的玩具狂潮。</p>
+<p>不过，拓麻歌子并不是最应景的参照物。Muse Charm实际上似乎是对部分年轻人已经对Apple Watch所做尝试的一种改良。通常作为旧设备重新利用的一种方式，Apple Watch钥匙扣或挂件的概念日渐风靡，这得益于TikTok上展示非戴在手腕上时的各种使用手表的视频推动。</p>
+<p>好几年都没用过了！现在准备每天都用它 🤓 #applewatch #applewatchhacks #applewatchtips #apple #lvwallet</p>
+<p>在亚马逊（Amazon）和沃尔玛（Walmart）等零售平台，以及eBay和Etsy等交易市场上，如今有成千上万种几近涵盖所有你能想到的风格的Apple Watch钥匙扣、表带、吊坠、挂绳、挂夹和包挂保护套可供选购。不出所料，这些钥匙扣手表往往首先被年轻女性当作时尚配饰，其次才是一件科技产品。</p>
+<p>我彻底迷上了 💕 #applewatch #teacher #teachersoftiktok #girly #cute</p>
+<p>这一切随后又与更广泛的复古科技趋势交织在一起，数码相机、翻盖手机、iPod、CD、磁带、家用座机和有线耳机等老旧科技产品正在悄然复兴。</p>
+<p>科技氛围的这种转变正值年轻人表示，容易上瘾的算法推荐流和科技“冷酷缺乏灵魂”的本质让他们感到越发疏离，这反过来又促成了希望拥有可触可感科技的趋势。（例如，初创公司Clicks甚至在一款受黑莓启发的设备中重新带回了实体手机键盘。）</p>
+<p>对于Z世代来说，这些实体物件有助于让他们感觉与所使用的技术建立起更紧密的联系，并在一个科技已经深度融入生活、以至于使用它都不再像是一种自愿选择的世界里，提供一种掌控感。</p>
+<p>年轻女性再次站在了这一潮流的最前沿，有些人甚至亲手制作便携式迷你电脑“cyberdecks”，把它们装在贝壳形手拿包或定制外壳中，并镶嵌上宝石、花朵、贴纸、珍珠等物品，使其更具个性化色彩。</p>
+<p>这就又把我们带回了Muse Charm。尽管它显然是围绕着“科技即时尚配饰”的趋势而设计的，但这并不意味着它一定会大获成功。</p>
+<p>多年来，Meta对消费者信任的消耗达到了一种可能永远无法彻底恢复的程度。</p>
+<p>仅举几个例子：这家科技巨头曾因未经用户同意公开私人信息欺骗消费者而不得不与联邦贸易委员会（FTC）达成和解，并因多项隐私相关违规行为被FTC处罚。2023年，FTC指控Meta违反了2019年和解后提交的隐私法令。它还因对未成年人的危害多次被传唤至国会，在同类议题上面临多起败诉或和解诉讼，并且有多名举报人揭露了其滥用行为。</p>
+<p>这些草率对待隐私的做法最终可能导致Meta在争夺成为消费者首选AI的竞争中落败……当然，除非消费者认为“已知的魔鬼”胜过“未知的魔鬼”。（尤其是当后者正是那些警告AI可能导致人类毁灭的人士时。）</p>
+<p>归根结底，Meta的终局是高度定向、高度个性化的广告。如果这就是换取免费使用AI的隐私代价——Meta表示将通过从交易中抽取小额分成来对Muse变现——消费者或许会愿意承担这一风险。</p>
+<p>当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
+<p>消费新闻编辑<br />您的下一个重大合作契机就在Disrupt。与10,000多名创始人、投资人、运营者和科技领袖建立联系。探索未来的突破，了解当今塑造科技格局的力量，在太平洋时间9月25日晚上11:59前最高可立省200美元。<br />Meta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备<br />Anthropic表示其生物实验室已获得重大发现<br />PitPro首款换胎机器人已在加拿大上线<br />Anthropic发布Opus 5.5：价格更低，性能比肩Fable<br />Meta的Muse早期移动端表现超越早期ChatGPT<br />蒂莉·诺伍德（Tilly Norwood）的新闻发布巡演进展如同你对AI所预期的一样<br />ChatGPT发明者打造的新型AI模型让开发者兴奋不已</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-25 01:21 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 01:39 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
+  <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://github.com/devdotfast/whiteboard" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 ::::

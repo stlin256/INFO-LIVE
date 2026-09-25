@@ -1,5 +1,1560 @@
 [
   {
+    "timestamp": 1790300378427,
+    "timeDisplay": "2026-09-25 09:39 (UTC+8)",
+    "date": "2026-09-25",
+    "runId": "feed-20260925T013722119Z-bfkxs8",
+    "generatedAt": "2026-09-25T01:39:38.427Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 09:37",
+      "lead": "本轮抓取于 2026-09-25 09:37 (UTC+8) 完成，共获得 32 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】Meta员工在抗拒披露儿童安全信息期间订购印有“律师-委托人特权”字样的帽子：来自该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 起诉Meta的律师称这些帽子是其“滥用特权文化”的一个例证。 来自该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。 查看Richard Lawler的所有文章",
+        "【undefined】高通全新“Elite”音频芯片或终将实现Wi-Fi耳机的梦想：如果你的无线耳机——或者音频眼镜——能够流畅播放高质量的无损音频，而且即使你把手机落在床头充电器上或塞在沙发缝里也不会断连，会是怎样的体验？高通最新推出的Snapdragon Sound Elite Gen 2（第二代骁龙畅听Elite）是其首款直接将“微功率 Wi-Fi 6E”集成到芯片内部的产品，使其能够直接连接到你的家庭Wi-Fi网络，并由此直连云端。[图片：高通早期的白皮书显示，最初实现Wi-Fi耳机需要两颗芯片。如今，Wi-F",
+        "【undefined】以下是出席特朗普与习近平国宴的宾客名单：根据白宫发布的新闻稿，在周四出席国宴的100多人名单中，美国政府官员、商界领袖及其配偶占据了绝大多数。",
+        "【undefined】实时新闻：休姆称AI黑客事件表明澳大利亚需要更多AI；阿尔巴尼斯在特朗普争议后发布与希腊总理自拍照：关注今日实时新闻 获取我们的突发新闻邮件、免费应用程序或每日新闻播客",
+        "【undefined】驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会：中新网堪培拉9月25日电 (记者 薄雯雯)中国驻澳大利亚大使馆24日举行庆祝中华人民共和国成立77周年暨刘劲松大使到任招待会。澳大利亚总督官方秘书马丁、总理内阁部副秘书长韩家思、外交贸易部代理副秘书长高志磊、各界友人、驻澳使节及华侨华人、中资机构和留学生代表等400余人出席。",
+        "【undefined】比利时知名艺术品收藏家“尤伦斯夫人”遭枪杀案开审：中新网布鲁塞尔9月25日电 (记者 德永健)案发3年半后，比利时知名艺术品收藏家米莉亚姆·尤伦斯遭枪杀案24日开审，嫌疑人米莉亚姆·尤伦斯的继子尼古拉·尤伦斯将接受法庭审判。",
+        "【undefined】勒庞建议法国不要与俄罗斯卷入冲突：塔斯社布鲁塞尔9月25日电 法国国民联盟党总统候选人、国民议会党团领袖玛丽娜·勒庞警告巴黎方面，不要与依然是核大国的俄罗斯发生冲突。",
+        "【undefined】5只在伊朗战争旷日持久格局中占据优势的能源股：自伊朗战争爆发以来，摩根大通（JPMorgan）首次表示，对于石油市场如何摆脱这场危机，该行已不再持有明确的基准预测。此前，该行基于这样一种假设：不断上涨的油价及其造成的经济破坏最终将限制冲突扩大的程度。然而在战争持续六个月后，摩根大通表示，许多此前设想的门槛已被打破，却并未带来明确的退出通道。目前约有1000万桶/日的石油供应遭到中断，而该行将布伦特原油9月的公允价值定在每桶90美元左右，相比之下当前市场交易价格在106美元左右。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "当前证据包未提供文章标题、来源、正文、发布时间或可核验引文，无法形成可靠的日尺度分析。",
+      "themes": [
+        {
+          "name": "证据不足",
+          "analysis": "主文章内容状态为缺失，事实、引文、实体和引用均为空；相关目录中的条目标题尚未完成翻译且缺乏来源与正文，因此无法确认事件、主体或趋势。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 80,
+      "completedTasks": 80,
+      "succeeded": 66,
+      "degraded": 14,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 80,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 136254,
+      "byRole": {
+        "translator": {
+          "attempts": 55,
+          "succeeded": 43,
+          "degraded": 12
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 80,
+          "succeeded": 66,
+          "degraded": 14
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-4-translator-0",
+      "article-5-translator-0",
+      "article-6-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-1",
+      "article-17-translator-0",
+      "hourly-editor",
+      "social-trends"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:00.441Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.084Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:00.451Z",
+        "lastSuccessAt": "2026-09-25T01:37:00.986Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.355Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.535Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.436Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.800Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.704Z",
+        "lastSuccessAt": "2026-09-25T01:37:04.469Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.666Z",
+        "lastSuccessAt": "2026-09-25T01:37:04.300Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:04.469Z",
+        "lastSuccessAt": "2026-09-25T01:37:05.163Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:00.753Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.011Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.653Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.827Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.631Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.773Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.240Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.653Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.120Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.436Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.011Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.680Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.084Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.240Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:04.300Z",
+        "lastSuccessAt": "2026-09-25T01:37:04.959Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:03.150Z",
+        "lastSuccessAt": "2026-09-25T01:37:05.310Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:03.935Z",
+        "lastSuccessAt": "2026-09-25T01:37:04.388Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 11,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.708Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.103Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.334Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.355Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.255Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.334Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:00.709Z",
+        "lastSuccessAt": "2026-09-25T01:37:00.753Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:36:59.799Z",
+        "lastSuccessAt": "2026-09-25T01:37:00.709Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.054Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.313Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.958Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.335Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.773Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.987Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.987Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.253Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.313Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.708Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.680Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.791Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:04.388Z",
+        "lastSuccessAt": "2026-09-25T01:37:07.734Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.065Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.263Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.379Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.666Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.325Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.379Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.428Z",
+        "lastSuccessAt": "2026-09-25T01:37:03.149Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:04.402Z",
+        "lastSuccessAt": "2026-09-25T01:37:05.084Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.481Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.631Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.714Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.383Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.827Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.054Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.383Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.932Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.263Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.704Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-25T01:37:02.253Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:36:59.797Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.490Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-25T01:37:02.335Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:36:59.798Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.481Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.708Z",
+        "lastSuccessAt": "2026-09-25T01:37:05.000Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.800Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.065Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:00.986Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.120Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.103Z",
+        "lastSuccessAt": "2026-09-25T01:37:02.325Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.791Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.958Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.932Z",
+        "lastSuccessAt": "2026-09-25T01:37:03.935Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:02.983Z",
+        "lastSuccessAt": "2026-09-25T01:37:04.402Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.535Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.714Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:37:01.490Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.708Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:36:59.782Z",
+        "lastSuccessAt": "2026-09-25T01:37:00.441Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:36:59.795Z",
+        "lastSuccessAt": "2026-09-25T01:37:00.451Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T01:36:59.796Z",
+        "lastSuccessAt": "2026-09-25T01:37:01.255Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-5-lavrov-2120150952-html-f58d809c3619d82c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Лавров передал Гутеррешу доклад о провокации в Буче",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T01:35:15.000Z",
+        "pubTime": "2026-09-25 09:35",
+        "url": "https://ria.ru/20260925/lavrov-2120150952.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/05/0c/1732034674_0:0:2916:1641_650x0_80_0_0_e3e524210f8c579f339ed59fee438c9f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 09:35 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/lavrov-2120150952.html",
+            "publishedAt": "2026-09-25T01:35:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ey-client-privilege-hats-aa95f7861ac6e2e3",
+        "title": "Meta员工在抗拒披露儿童安全信息期间订购印有“律师-委托人特权”字样的帽子",
+        "originalTitle": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T23:50:55.000Z",
+        "pubTime": "2026-09-25 07:50",
+        "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nLawyers suing Meta called the hats an example of its ‘culture of privilege abuse.’\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Richard Lawler\n\nMeta’s lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens’ safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document showing that the team behind launching Instagram’s Teen Accounts in 2024 put in an order for baseball caps that simply said “a/c priv.”\n\nThe lawyers suing Meta argue the Project Nido (an internal name for the Teen Accounts team) swag is part of “culture of privilege abuse at Meta” aimed at keeping the research it’s conducted internally on teen harm out of the public eye, an issue that Mark Zuckerberg discussed after internal data on Instagram’s effects leaked in 2021.\n\nUS District Judge Yvonne Gonzalez Rogers already called some of Meta’s privilege redactions “entirely inappropriate” in an order last month.\n\nShe pointed out one example where Meta’s lawyers tried to cast a discussion about a slide deck and whether or not to publish certain data as a discussion of attorney legal advice, deciding that based on testimony from the trial, their reticence about publishing was more of a business decision focused on preventing leaks.\n\nMeta de-designated about 65,000 previously withheld or redacted documents in April 2025, after discovery, which the plaintiffs say came too late for them to use in depositions. Now Meta has requested time through the end of this year to re-review other privilege redactions it’s made, while the plaintiffs’ lawyers say a neutral party should be appointed to lead the review, paid for by Meta.\n\nSee All Social Media\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。\n起诉Meta的律师称这些帽子是其“滥用特权文化”的一个例证。\n来自该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。\n查看Richard Lawler的所有文章\n\n在围绕涉嫌危害青少年安全及心理健康的一系列正在进行的诉讼中，Meta的律师辩称，基于律师-委托人保密特权（attorney-client privilege），某些证据应避免向公众公开。本周，起诉该公司的律师表示，该标签的使用范围过于宽泛，并指出一份近期解密的文件显示，负责在2024年推出Instagram“青少年账户”（Teen Accounts）的团队曾订购过一批棒球帽，帽子上直接印有“a/c priv”（律师-委托人特权缩写）。\n\n起诉Meta的律师辩称，“尼多项目”（Project Nido，即青少年账户团队的内部代号）的宣传周边是“Meta滥用特权文化”的一部分，其目的在于使公司内部开展的关于青少年危害的研究不被公众知晓；在2021年关于Instagram影响的内部数据泄露后，马克·扎克伯格（Mark Zuckerberg）曾讨论过这一问题。\n\n美国联邦地区法官伊冯·冈萨雷斯·罗杰斯（Yvonne Gonzalez Rogers）在上个月的一项命令中，已经称Meta的部分特权涂黑遮蔽“完全不妥当”。\n\n她指出了一项示例：Meta的律师试图将关于幻灯片以及是否公开某些数据的讨论，描绘成对律师法律建议的探讨；法官根据庭审证词认定，他们对公开发布的迟疑更像是一项旨在防止泄密的商业决策。\n\n在证据开示程序之后，Meta于2025年4月取消了大约65,000份此前扣留或涂黑文件的特权标记，原告称这为时已晚，使他们无法在证词录供中使用这些文件。目前，Meta已申请将时间延期至今年年底，以重新审查其所作的其他特权遮蔽，而原告律师则主张应指定一个中立第三方来主导审查，相关费用由Meta承担。\n\n查看所有社交媒体内容\n一份涵盖最重要资讯的免费每日简报。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "在关于涉嫌危害青少年安全与心理健康的持续诉讼中，Meta 的律师辩称某些证据应基于律师-委托人特权（attorney-client privilege）对公众隐瞒。",
+          "起诉 Meta 的原告律师本周表示，特权标签被使用得过于宽泛，并指出一份近期解密的文件显示，负责在 2024 年推出 Instagram 青少年账户（Teen Accounts）的团队曾订购印有“a/c priv”字样的棒球帽。",
+          "来源叙事重点：聚焦原告律师曝光Meta青少年账户团队订购印有“a/c priv”字样的棒球帽这一细节，突出Meta涉嫌系统性泛化并滥用“律师-委托人特权”以掩盖青少年安全伤害研究的事实，并呈现法官对Meta不当涂黑文件的批评及双方在证据审查程序上的拉锯。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T23:50:55.000Z",
+            "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"
+          }
+        ]
+      },
+      {
+        "id": "story--to-cooperate-on-ai-html-eee3aa74380b03e4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China's Xi urges U.S. to cooperate on AI",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:22:17.000Z",
+        "pubTime": "2026-09-25 09:22",
+        "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — Chinese President Xi Jinping told U.S. President Donald Trump that there is more opportunity for cooperation than competition on artificial intelligence.\n\nThat's according to a state media readout of the two leaders' meeting in the White House Oval Office Thursday local time.\n\n\"The two sides can continue AI dialogue, exchange views on risks and benefits, and together guard against the misuse or malicious use of AI,\" Xi said in Chinese, according to a CNBC translation of the state media readout.\n\nHe noted AI is important to both the U.S. and China. \"Both sides have competition. Cooperation, even more so,\" he said.\n\nXi also emphasized that humans should maintain control of the technology, and that AI should support human progress.\n\nThe U.S. has restricted China's ability to access advanced semiconductors for training AI models, and criticized Chinese companies for allegedly taking part in illicit distillation of American AI capabilities.\n\nRecent incidents have raised fears that increasingly autonomous AI models could make attacks faster and harder to contain.\n\nFollowing a meeting with Chinese negotiators in New York, U.S. Treasury Secretary Scott Bessent said earlier this week the two sides had discussed setting up a \"U.S.-China AI Dialogue.\" He said the U.S. proposed introducing an alert system for AI incidents.\n\nChina's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国总统唐纳德·特朗普周四在白宫椭圆形办公室会见了中国国家主席习近平。",
+          "中国官方媒体通报称，习近平在会晤中表示中美在人工智能领域的合作机会多于竞争，建议双方继续开展AI对话，共同防范AI滥用或恶意使用，并强调人类应保持对该技术的控制。",
+          "来源叙事重点：聚焦中国领导人呼吁美中在人工智能领域加强合作、防范滥用风险，同时对照展现美方的具体安全关切（如技术出口管制、非法蒸馏指控、预警机制提议）与双边近期磋商进展"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T01:22:17.000Z",
+            "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html"
+          }
+        ]
+      },
+      {
+        "id": "story-edly-deletes-48000-files-0cbb29fc5119916b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Claude Code Agent Allegedly Deletes 48,000 Files in 103 Seconds",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T23:11:40.000Z",
+        "pubTime": "2026-09-25 07:11",
+        "url": "https://www.reddit.com/r/technology/comments/1wpgktp/claude_code_agent_allegedly_deletes_48000_files/",
+        "imageUrl": "https://external-preview.redd.it/bILRhxYFYLqdSvuOrQV1MMJUm83QTtxlgFWbPPmgLdo.jpeg?width=640&crop=smart&auto=webp&s=80ecab2216a0a893d2f78737fb40520c19c168e7",
+        "fullContent": "submitted by /u/Depressed_Cat_00 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-25 07:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wpgktp/claude_code_agent_allegedly_deletes_48000_files/",
+            "publishedAt": "2026-09-24T23:11:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-p-network-scientist-html-a52e3ba1c4bef5c5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Europe's lab-to-market gap draws proposals from network of more than 120 scientist-innovators",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:20:01.000Z",
+        "pubTime": "2026-09-25 09:20",
+        "url": "https://phys.org/news/2026-09-europe-lab-gap-network-scientist.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers.jpg",
+        "fullContent": "Europe could turn more of its scientific discoveries into new technologies, products and businesses by changing the way it funds innovation and supports researchers, according to a new Policy Forum published in Science.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 09:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-europe-lab-gap-network-scientist.html",
+            "publishedAt": "2026-09-25T01:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-dmitriev-2120150751-html-e4795e5e75797318",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Дмитриев обсудил с Уиткоффом и Кушнером Украину, утверждает CNN",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T01:32:47.000Z",
+        "pubTime": "2026-09-25 09:32",
+        "url": "https://ria.ru/20260925/dmitriev-2120150751.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 09:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/dmitriev-2120150751.html",
+            "publishedAt": "2026-09-25T01:32:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-the-wi-fi-earbud-dream-98250f9291e2c6ed",
+        "title": "高通全新“Elite”音频芯片或终将实现Wi-Fi耳机的梦想",
+        "originalTitle": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T23:42:39.000Z",
+        "pubTime": "2026-09-25 07:42",
+        "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h29m15s548.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "What if your wireless earbuds — or audio glasses — could stream high-quality lossless audio that doesn’t cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm’s new Snapdragon Sound Elite Gen 2 is its first to integrate “micro-power Wi-Fi 6E” right into the chip, so they can connect directly to your home Wi-Fi network, and from there to the cloud. [Image: Qualcomm’s old whitepaper shows that it originally required two chips for Wi-Fi earbuds. Now, Wi-Fi is integrated into the main chip. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image-26.png?quality=90&strip=all] If that sounds like a familiar promise, it’s probably because Qualcomm promised something similar back in 2023 with the “S7 Pro sound platform” and its Expanded Personal Area Network (XPAN) tech, saying that Wi-Fi earbuds can do what Bluetooth alone cannot. Namely, 24-bit 96kHz lossless audio that can’t fit into Bluetooth’s meager bandwidth. But that old 7-series platform required a separate Wi-Fi chip to give you Wi-Fi earbuds, and it seems that wasn’t a winning formula for getting makers of incredibly tiny devices to adopt the tech! In fact, we’ve only ever heard of one: Xiaomi’s 2025 Buds 5 Pro, which didn’t get a global release. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1789673099_Snapdragon-Sound-Elite-Gen-2-Highlight-Image-Embargo-Sep-23-930am-HT-1230pm-PT.jpg?quality=90&strip=all] Now that Wi-Fi no longer requires an extra chip, perhaps the idea can take off. Qualcomm says the Elite is also 30 percent smaller, consumes up to 40 percent less power, and has twice the AI processing capabilities of the previous gen chip, all of which should be music to device makers’ ears. So far, Qualcomm says it’s working with HP on one specific unnamed product, is “working closely with Bose,” and is “pioneering a new category of intelligent hearables” (read: earbuds with built-in cameras) with Cleer. [Image: The camera earbuds. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h35m50s149.png?quality=90&strip=all]",
+        "fullTranslation": "如果你的无线耳机——或者音频眼镜——能够流畅播放高质量的无损音频，而且即使你把手机落在床头充电器上或塞在沙发缝里也不会断连，会是怎样的体验？高通最新推出的Snapdragon Sound Elite Gen 2（第二代骁龙畅听Elite）是其首款直接将“微功率 Wi-Fi 6E”集成到芯片内部的产品，使其能够直接连接到你的家庭Wi-Fi网络，并由此直连云端。[图片：高通早期的白皮书显示，最初实现Wi-Fi耳机需要两颗芯片。如今，Wi-Fi已直接集成到主芯片中。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image-26.png?quality=90&strip=all]\n\n如果这听起来像是一个似曾相识的承诺，那大概是因为高通早在2023年就凭借“S7 Pro音频平台”及其扩展个人局域网（XPAN）技术做过类似的许诺，当时声称Wi-Fi耳机可以实现单纯依靠蓝牙无法完成的事情——即蓝牙微薄的带宽所无法承载的24-bit 96kHz无损音频。但那个老款7系列平台需要一颗独立的Wi-Fi芯片才能打造Wi-Fi耳机，而对于制造极其微小设备的厂商而言，这显然不是一个能吸引他们采纳该技术的理想方案！事实上，我们至今只听说过一款相关产品：小米在2025年推出的小米Buds 5 Pro，且该产品并未在全球发售。[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1789673099_Snapdragon-Sound-Elite-Gen-2-Highlight-Image-Embargo-Sep-23-930am-HT-1230pm-PT.jpg?quality=90&strip=all]\n\n现在，由于Wi-Fi不再需要额外的独立芯片，这一构想或许终于能够普及开来。高通表示，与上一代芯片相比，Elite芯片的尺寸缩小了30%，功耗降低了多达40%，同时AI处理能力提升了一倍，所有这些对设备制造商而言都无疑是极佳的利好消息。到目前为止，高通表示正在与惠普（HP）合作开发一款尚未命名的特定产品，同时“与Bose保持紧密合作”，并与Cleer“开创全新类别的智能可穿戴音频设备”（即内置摄像头的耳机）。[图片：带摄像头的耳机。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h35m50s149.png?quality=90&strip=all]",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "高通发布全新的Snapdragon Sound Elite Gen 2芯片，是其首款将微功率Wi-Fi 6E（micro-power Wi-Fi 6E）直接集成到芯片内部的音频平台。",
+          "Snapdragon Sound Elite Gen 2能够让无线耳机直接连接家庭Wi-Fi网络并连接到云端。",
+          "来源叙事重点：高通第二代Snapdragon Sound Elite芯片首次单芯片集成微功率Wi-Fi 6E，相比此前需外挂芯片的S7 Pro方案大幅降低功耗与体积，有望实质性解决Wi-Fi无损音频耳机的工程落地与普及难题，并拓展至AI及带摄像头的智能可穿戴设备"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T23:42:39.000Z",
+            "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream"
+          }
+        ]
+      },
+      {
+        "id": "story-ump-xi-state-dinner-html-9d11782bc346286e",
+        "title": "以下是出席特朗普与习近平国宴的宾客名单",
+        "originalTitle": "Here's who is attending the Trump-Xi state dinner",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:02:40.000Z",
+        "pubTime": "2026-09-25 09:02",
+        "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+        "imageUrl": null,
+        "fullContent": "U.S. government officials, business leaders and their spouses dominated a list of more than 100 people who will attend a state dinner Thursday, according to a White House press release.\n\nOn the Chinese side, the delegation consisted primarily of government officials, accompanying Chinese President Xi Jinping and U.S. President Donald Trump and their wives.\n\nTalks with Trump have \"added new substance\" to U.S.-China relations, Xi said in a toast, according to an official translation. Trump gave Xi a statue of a bald eagle.\n\nThe U.S. and Chinese presidential couples were seated with Apple's Tim Cook, Nvidia's Jensen Huang and his wife, Elon Musk and AMD's Lisa Su.\n\nMeta and OpenAI were among the other major U.S. tech companies represented. Anthropic was not on the list.\n\nOther attendees included members of Trump's extended family, including Melania's father Viktor Knavs.\n\nChinese business leaders were previously expected to attend the dinner. Earlier, CNBC reported that someone briefed about the preparations but who wasn't authorized to speak on the record said they weren't aware of any Chinese companies who have been invited to join Xi on his trip.\n\nXi is making his first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.\n\nHere's the full list:\n\n—CNBC's Hui Jie Lim, David Sucherman and Bria Cousins contributed to this report\n\nCorrection: This story has been updated to remove an incorrect reference to the number of Chinese officials present.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "根据白宫发布的新闻稿，在周四出席国宴的100多人名单中，美国政府官员、商界领袖及其配偶占据了绝大多数。\n\n中方代表团主要由政府官员组成，他们陪同中国国家主席习近平和美国总统唐纳德·特朗普及其夫人出席。\n\n据官方翻译，习近平在祝酒辞中表示，与特朗普的会谈为中美关系“增添了新内涵”。特朗普向习近平赠送了一尊白头海雕雕像。\n\n中美元首夫妇与苹果公司的蒂姆·库克（Tim Cook）、英伟达的黄仁勋（Jensen Huang）夫妇、埃隆·马斯克（Elon Musk）以及AMD的苏姿丰（Lisa Su）同桌就座。\n\nMeta和OpenAI等其他美国大型科技公司也有代表出席。Anthropic不在名单之列。\n\n其他出席者还包括特朗普家族的其他成员，包括梅拉尼娅的父亲维克多·克纳夫斯（Viktor Knavs）。\n\n此前外界曾预期中国商界领袖也会出席晚宴。早些时候，CNBC报道称，一位了解筹备情况但未获授权公开发言的人士表示，据其所知没有任何中国企业受邀陪同习近平出访。\n\n这是习近平自十多年前巴拉克·奥巴马担任总统以来首次对美国进行国事访问。他于周三抵达美国，计划于周五离开。\n\n以下是完整名单：\n\n——CNBC的林慧洁（Hui Jie Lim）、戴维·苏彻曼（David Sucherman）和布里亚·考辛斯（Bria Cousins）对本报道亦有贡献\n\n更正：本报道已更新，删除了关于出席的中国官员人数的一处不准确表述。\n\n有保密新闻线索？我们期待听到您的声音。\n\n将此内容发送到您的收件箱，并获取有关我们产品和服务的更多信息。\n\n数据为实时快照 *数据至少延迟15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。\n\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "根据白宫新闻稿，美国政府官员、商业领袖及其配偶在周四举行的国宴100多人出席名单中占主要比例。",
+          "中方代表团主要由政府官员组成，陪同中国国家主席习近平和美国总统唐纳德·特朗普及其夫人出席。",
+          "来源叙事重点：重点聚焦美中元首国宴的宾客名单与座次安排，突出美国顶级科技巨头高管在外交场合的显著地位，并对比中美代表团的构成差异及中国企业代表的缺席情况。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T01:02:40.000Z",
+            "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ars-for-autism-diagnosis-a865f7788037e062",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘Her mental health deteriorated’: family forced to wait years for autism diagnosis",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:08:52.000Z",
+        "pubTime": "2026-09-25 05:08",
+        "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis",
+        "imageUrl": "https://i.guim.co.uk/img/media/fd5bd10a43cee025a44ab3f576aed72b500058a0/213_0_3781_3024/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=8bd72041ca1f99999b83a7657d31bce9",
+        "fullContent": "A mother describes the frustration of endless waiting lists and difficulties getting appointments so her teenage daughter can get the help she requires\n\nFor Rosalyn, the battle for an official autism diagnosis for her 14-year-old daughter, Imogen, has been intense, deeply frustrating and has lasted five and a half years.\n\nThat Rosalyn has three other children who have autism diagnoses meant she was acutely aware of the signs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Rosalyn 为其 14 岁女儿 Imogen 争取自闭症官方确诊的过程已持续五年半。",
+          "Rosalyn 另外还有三个被确诊患有自闭症的孩子。",
+          "来源叙事重点：聚焦漫长等待自闭症确诊过程对青少年心理及家庭造成的长期消耗，以母亲长达五年半的维权与挂号波折为微观案例，突显公共医疗诊断资源挤兑。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:08:52.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis"
+          }
+        ]
+      },
+      {
+        "id": "story--landscapes-drought-html-fa7936f89cae5312",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Q&A: Grasslands in more diverse landscapes can suffer less from drought",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:00:01.000Z",
+        "pubTime": "2026-09-25 09:00",
+        "url": "https://phys.org/news/2026-09-qa-grasslands-diverse-landscapes-drought.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/do-grasslands-in-more.jpg",
+        "fullContent": "During the heat wave of 2018, meadows and pastures also suffered from drought. Are grasslands in diverse landscapes more resilient to yield losses than those in monotonous regions? Researchers at the University of Bonn, led by Marco Ferro and Dr. Jan Börner from the Institute for Food and Resource Economics (ILR), investigated the influence of landscape diversity on the drought tolerance of grasslands as part of Collaborative Research Center 1502 DETECT. The work is published in the American Jou",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-qa-grasslands-diverse-landscapes-drought.html",
+            "publishedAt": "2026-09-25T01:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2192501-b9d2dfac38807793",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Top Hungarian diplomat says ready for dialogue with Russia on bilateral relations",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:32:43.000Z",
+        "pubTime": "2026-09-25 09:32",
+        "url": "https://tass.com/world/2192501",
+        "imageUrl": null,
+        "fullContent": "BUDAPEST, September 25. /TASS/. Hungarian Foreign Minister Anita Orban said she is ready to meet with her Russian counterpart Sergey Lavrov to discuss bilateral relations, but the schedule of her participation in the High-Level Week of the 81st Session of the UN General Assembly does not include such an option.\n\nShe told the Index news portal that although she has not spoken to Lavrov yet, diplomatic relations between the two nations continue \"as normal.\"\n\nWhen asked whether she was ready to meet with the Russian minister, the top Hungarian diplomat replied: \"Of course.\"\n\nShe also emphasized that despite Hungary’s recent decision to expel ten Russian embassy staffers from the country, \"diplomatic relations continue.\"\n\nMoscow described the move as unfriendly, with Russian Presidential Press Secretary Dmitry Peskov saying that it will not be left unanswered. At the same time, he added that Russia was interested in preserving and developing its ties with Hungary.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "匈牙利外长安妮塔·奥尔班（Anita Orban）表示愿与俄罗斯外长谢尔盖·拉夫罗夫（Sergey Lavrov）会面讨论双边关系，但其第81届联合国大会高级别会议周的日程中并未列入该会面选项。",
+          "奥尔班向Index新闻门户网站表示，尽管尚未与拉夫罗夫通话，且匈牙利近期驱逐了10名俄罗斯使馆人员，两国间的外交关系依然“照常”维持。",
+          "来源叙事重点：重点突出匈牙利外长对维持双边关系及与俄外长对话的开放姿态，弱化驱逐使馆人员事件的外交冲击，强调俄匈关系的韧性与合作意愿"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T01:32:43.000Z",
+            "url": "https://tass.com/world/2192501"
+          }
+        ]
+      },
+      {
+        "id": "story-hat-the-fleet-data-shows-32f37a75309c7c75",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Waymo is scaling fast. Here’s what the fleet data shows.",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T23:24:33.000Z",
+        "pubTime": "2026-09-25 07:24",
+        "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+        "imageUrl": null,
+        "fullContent": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 07:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+            "publishedAt": "2026-09-24T23:24:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-5-4916-8300-ec3073027ff6-f5b98a13e8305364",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:01:20.000Z",
+        "pubTime": "2026-09-25 09:01",
+        "url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3c91371e-befb-417d-9ef0-bf8839ce13c6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "China’s president is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-25 09:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-25T01:01:20.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--adhd-autism-assessments-5f3edc09ab843459",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:00:30.000Z",
+        "pubTime": "2026-09-25 05:00",
+        "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
+        "imageUrl": "https://i.guim.co.uk/img/media/f8bf1d8867f33d6a507ea583a29ccb3ef2271128/659_79_3365_2693/master/3365.jpg?width=140&quality=85&auto=format&fit=max&s=f765cef514590fe349830d0244b4c471",
+        "fullContent": "Patient groups decry ‘scandalous’ delays as four integrated care boards take step due to soaring demand for diagnoses\n\nNHS bodies are forcing people with suspected attention deficit hyperactivity disorder and autism to wait at least two years before they can be assessed as they struggle to meet surging demand for diagnoses of neurodiversity.\n\nFour NHS integrated care boards (ICBs) covering large regions of England have adopted the approach because they cannot afford the cost of the number of assessments that people are seeking.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英格兰的NHS机构迫使疑似患有注意缺陷多动障碍（ADHD）和自闭症的人员等待至少两年才能接受评估。",
+          "覆盖英格兰大片地区的4个NHS整合护理委员会（ICB）采取了上述至少等待两年的做法，原因是无法承受人们所寻求的评估数量带来的成本。",
+          "来源叙事重点：聚焦英格兰国民医疗服务体系（NHS）多个整合护理委员会（ICBs）因财政承受能力不足，对ADHD和自闭症评估强制实施至少两年的等待期，并突出患者群体的强烈抗议与抨击。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:00:30.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-5-lavrov-2120150952-html-f58d809c3619d82c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Лавров передал Гутеррешу доклад о провокации в Буче",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T01:35:15.000Z",
+        "pubTime": "2026-09-25 09:35",
+        "url": "https://ria.ru/20260925/lavrov-2120150952.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/05/0c/1732034674_0:0:2916:1641_650x0_80_0_0_e3e524210f8c579f339ed59fee438c9f.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 09:35 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/lavrov-2120150952.html",
+            "publishedAt": "2026-09-25T01:35:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ey-client-privilege-hats-aa95f7861ac6e2e3",
+        "title": "Meta员工在抗拒披露儿童安全信息期间订购印有“律师-委托人特权”字样的帽子",
+        "originalTitle": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T23:50:55.000Z",
+        "pubTime": "2026-09-25 07:50",
+        "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nLawyers suing Meta called the hats an example of its ‘culture of privilege abuse.’\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Richard Lawler\n\nMeta’s lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens’ safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document showing that the team behind launching Instagram’s Teen Accounts in 2024 put in an order for baseball caps that simply said “a/c priv.”\n\nThe lawyers suing Meta argue the Project Nido (an internal name for the Teen Accounts team) swag is part of “culture of privilege abuse at Meta” aimed at keeping the research it’s conducted internally on teen harm out of the public eye, an issue that Mark Zuckerberg discussed after internal data on Instagram’s effects leaked in 2021.\n\nUS District Judge Yvonne Gonzalez Rogers already called some of Meta’s privilege redactions “entirely inappropriate” in an order last month.\n\nShe pointed out one example where Meta’s lawyers tried to cast a discussion about a slide deck and whether or not to publish certain data as a discussion of attorney legal advice, deciding that based on testimony from the trial, their reticence about publishing was more of a business decision focused on preventing leaks.\n\nMeta de-designated about 65,000 previously withheld or redacted documents in April 2025, after discovery, which the plaintiffs say came too late for them to use in depositions. Now Meta has requested time through the end of this year to re-review other privilege redactions it’s made, while the plaintiffs’ lawyers say a neutral party should be appointed to lead the review, paid for by Meta.\n\nSee All Social Media\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "来自该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。\n起诉Meta的律师称这些帽子是其“滥用特权文化”的一个例证。\n来自该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。\n查看Richard Lawler的所有文章\n\n在围绕涉嫌危害青少年安全及心理健康的一系列正在进行的诉讼中，Meta的律师辩称，基于律师-委托人保密特权（attorney-client privilege），某些证据应避免向公众公开。本周，起诉该公司的律师表示，该标签的使用范围过于宽泛，并指出一份近期解密的文件显示，负责在2024年推出Instagram“青少年账户”（Teen Accounts）的团队曾订购过一批棒球帽，帽子上直接印有“a/c priv”（律师-委托人特权缩写）。\n\n起诉Meta的律师辩称，“尼多项目”（Project Nido，即青少年账户团队的内部代号）的宣传周边是“Meta滥用特权文化”的一部分，其目的在于使公司内部开展的关于青少年危害的研究不被公众知晓；在2021年关于Instagram影响的内部数据泄露后，马克·扎克伯格（Mark Zuckerberg）曾讨论过这一问题。\n\n美国联邦地区法官伊冯·冈萨雷斯·罗杰斯（Yvonne Gonzalez Rogers）在上个月的一项命令中，已经称Meta的部分特权涂黑遮蔽“完全不妥当”。\n\n她指出了一项示例：Meta的律师试图将关于幻灯片以及是否公开某些数据的讨论，描绘成对律师法律建议的探讨；法官根据庭审证词认定，他们对公开发布的迟疑更像是一项旨在防止泄密的商业决策。\n\n在证据开示程序之后，Meta于2025年4月取消了大约65,000份此前扣留或涂黑文件的特权标记，原告称这为时已晚，使他们无法在证词录供中使用这些文件。目前，Meta已申请将时间延期至今年年底，以重新审查其所作的其他特权遮蔽，而原告律师则主张应指定一个中立第三方来主导审查，相关费用由Meta承担。\n\n查看所有社交媒体内容\n一份涵盖最重要资讯的免费每日简报。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 7,
+        "keyTakeaways": [
+          "在关于涉嫌危害青少年安全与心理健康的持续诉讼中，Meta 的律师辩称某些证据应基于律师-委托人特权（attorney-client privilege）对公众隐瞒。",
+          "起诉 Meta 的原告律师本周表示，特权标签被使用得过于宽泛，并指出一份近期解密的文件显示，负责在 2024 年推出 Instagram 青少年账户（Teen Accounts）的团队曾订购印有“a/c priv”字样的棒球帽。",
+          "来源叙事重点：聚焦原告律师曝光Meta青少年账户团队订购印有“a/c priv”字样的棒球帽这一细节，突出Meta涉嫌系统性泛化并滥用“律师-委托人特权”以掩盖青少年安全伤害研究的事实，并呈现法官对Meta不当涂黑文件的批评及双方在证据审查程序上的拉锯。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T23:50:55.000Z",
+            "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"
+          }
+        ]
+      },
+      {
+        "id": "story--to-cooperate-on-ai-html-eee3aa74380b03e4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China's Xi urges U.S. to cooperate on AI",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:22:17.000Z",
+        "pubTime": "2026-09-25 09:22",
+        "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+        "imageUrl": null,
+        "fullContent": "BEIJING — Chinese President Xi Jinping told U.S. President Donald Trump that there is more opportunity for cooperation than competition on artificial intelligence.\n\nThat's according to a state media readout of the two leaders' meeting in the White House Oval Office Thursday local time.\n\n\"The two sides can continue AI dialogue, exchange views on risks and benefits, and together guard against the misuse or malicious use of AI,\" Xi said in Chinese, according to a CNBC translation of the state media readout.\n\nHe noted AI is important to both the U.S. and China. \"Both sides have competition. Cooperation, even more so,\" he said.\n\nXi also emphasized that humans should maintain control of the technology, and that AI should support human progress.\n\nThe U.S. has restricted China's ability to access advanced semiconductors for training AI models, and criticized Chinese companies for allegedly taking part in illicit distillation of American AI capabilities.\n\nRecent incidents have raised fears that increasingly autonomous AI models could make attacks faster and harder to contain.\n\nFollowing a meeting with Chinese negotiators in New York, U.S. Treasury Secretary Scott Bessent said earlier this week the two sides had discussed setting up a \"U.S.-China AI Dialogue.\" He said the U.S. proposed introducing an alert system for AI incidents.\n\nChina's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 13,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国总统唐纳德·特朗普周四在白宫椭圆形办公室会见了中国国家主席习近平。",
+          "中国官方媒体通报称，习近平在会晤中表示中美在人工智能领域的合作机会多于竞争，建议双方继续开展AI对话，共同防范AI滥用或恶意使用，并强调人类应保持对该技术的控制。",
+          "来源叙事重点：聚焦中国领导人呼吁美中在人工智能领域加强合作、防范滥用风险，同时对照展现美方的具体安全关切（如技术出口管制、非法蒸馏指控、预警机制提议）与双边近期磋商进展"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T01:22:17.000Z",
+            "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html"
+          }
+        ]
+      },
+      {
+        "id": "story-edly-deletes-48000-files-0cbb29fc5119916b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Claude Code Agent Allegedly Deletes 48,000 Files in 103 Seconds",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T23:11:40.000Z",
+        "pubTime": "2026-09-25 07:11",
+        "url": "https://www.reddit.com/r/technology/comments/1wpgktp/claude_code_agent_allegedly_deletes_48000_files/",
+        "imageUrl": "https://external-preview.redd.it/bILRhxYFYLqdSvuOrQV1MMJUm83QTtxlgFWbPPmgLdo.jpeg?width=640&crop=smart&auto=webp&s=80ecab2216a0a893d2f78737fb40520c19c168e7",
+        "fullContent": "submitted by /u/Depressed_Cat_00 [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-25 07:11 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wpgktp/claude_code_agent_allegedly_deletes_48000_files/",
+            "publishedAt": "2026-09-24T23:11:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-p-network-scientist-html-a52e3ba1c4bef5c5",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Europe's lab-to-market gap draws proposals from network of more than 120 scientist-innovators",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:20:01.000Z",
+        "pubTime": "2026-09-25 09:20",
+        "url": "https://phys.org/news/2026-09-europe-lab-gap-network-scientist.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers.jpg",
+        "fullContent": "Europe could turn more of its scientific discoveries into new technologies, products and businesses by changing the way it funds innovation and supports researchers, according to a new Policy Forum published in Science.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 09:20 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-europe-lab-gap-network-scientist.html",
+            "publishedAt": "2026-09-25T01:20:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-dmitriev-2120150751-html-e4795e5e75797318",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Дмитриев обсудил с Уиткоффом и Кушнером Украину, утверждает CNN",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T01:32:47.000Z",
+        "pubTime": "2026-09-25 09:32",
+        "url": "https://ria.ru/20260925/dmitriev-2120150751.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 09:32 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/dmitriev-2120150751.html",
+            "publishedAt": "2026-09-25T01:32:47.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-r-the-wi-fi-earbud-dream-98250f9291e2c6ed",
+        "title": "高通全新“Elite”音频芯片或终将实现Wi-Fi耳机的梦想",
+        "originalTitle": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T23:42:39.000Z",
+        "pubTime": "2026-09-25 07:42",
+        "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h29m15s548.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "What if your wireless earbuds — or audio glasses — could stream high-quality lossless audio that doesn’t cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm’s new Snapdragon Sound Elite Gen 2 is its first to integrate “micro-power Wi-Fi 6E” right into the chip, so they can connect directly to your home Wi-Fi network, and from there to the cloud. [Image: Qualcomm’s old whitepaper shows that it originally required two chips for Wi-Fi earbuds. Now, Wi-Fi is integrated into the main chip. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image-26.png?quality=90&strip=all] If that sounds like a familiar promise, it’s probably because Qualcomm promised something similar back in 2023 with the “S7 Pro sound platform” and its Expanded Personal Area Network (XPAN) tech, saying that Wi-Fi earbuds can do what Bluetooth alone cannot. Namely, 24-bit 96kHz lossless audio that can’t fit into Bluetooth’s meager bandwidth. But that old 7-series platform required a separate Wi-Fi chip to give you Wi-Fi earbuds, and it seems that wasn’t a winning formula for getting makers of incredibly tiny devices to adopt the tech! In fact, we’ve only ever heard of one: Xiaomi’s 2025 Buds 5 Pro, which didn’t get a global release. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1789673099_Snapdragon-Sound-Elite-Gen-2-Highlight-Image-Embargo-Sep-23-930am-HT-1230pm-PT.jpg?quality=90&strip=all] Now that Wi-Fi no longer requires an extra chip, perhaps the idea can take off. Qualcomm says the Elite is also 30 percent smaller, consumes up to 40 percent less power, and has twice the AI processing capabilities of the previous gen chip, all of which should be music to device makers’ ears. So far, Qualcomm says it’s working with HP on one specific unnamed product, is “working closely with Bose,” and is “pioneering a new category of intelligent hearables” (read: earbuds with built-in cameras) with Cleer. [Image: The camera earbuds. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h35m50s149.png?quality=90&strip=all]",
+        "fullTranslation": "如果你的无线耳机——或者音频眼镜——能够流畅播放高质量的无损音频，而且即使你把手机落在床头充电器上或塞在沙发缝里也不会断连，会是怎样的体验？高通最新推出的Snapdragon Sound Elite Gen 2（第二代骁龙畅听Elite）是其首款直接将“微功率 Wi-Fi 6E”集成到芯片内部的产品，使其能够直接连接到你的家庭Wi-Fi网络，并由此直连云端。[图片：高通早期的白皮书显示，最初实现Wi-Fi耳机需要两颗芯片。如今，Wi-Fi已直接集成到主芯片中。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image-26.png?quality=90&strip=all]\n\n如果这听起来像是一个似曾相识的承诺，那大概是因为高通早在2023年就凭借“S7 Pro音频平台”及其扩展个人局域网（XPAN）技术做过类似的许诺，当时声称Wi-Fi耳机可以实现单纯依靠蓝牙无法完成的事情——即蓝牙微薄的带宽所无法承载的24-bit 96kHz无损音频。但那个老款7系列平台需要一颗独立的Wi-Fi芯片才能打造Wi-Fi耳机，而对于制造极其微小设备的厂商而言，这显然不是一个能吸引他们采纳该技术的理想方案！事实上，我们至今只听说过一款相关产品：小米在2025年推出的小米Buds 5 Pro，且该产品并未在全球发售。[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1789673099_Snapdragon-Sound-Elite-Gen-2-Highlight-Image-Embargo-Sep-23-930am-HT-1230pm-PT.jpg?quality=90&strip=all]\n\n现在，由于Wi-Fi不再需要额外的独立芯片，这一构想或许终于能够普及开来。高通表示，与上一代芯片相比，Elite芯片的尺寸缩小了30%，功耗降低了多达40%，同时AI处理能力提升了一倍，所有这些对设备制造商而言都无疑是极佳的利好消息。到目前为止，高通表示正在与惠普（HP）合作开发一款尚未命名的特定产品，同时“与Bose保持紧密合作”，并与Cleer“开创全新类别的智能可穿戴音频设备”（即内置摄像头的耳机）。[图片：带摄像头的耳机。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h35m50s149.png?quality=90&strip=all]",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "高通发布全新的Snapdragon Sound Elite Gen 2芯片，是其首款将微功率Wi-Fi 6E（micro-power Wi-Fi 6E）直接集成到芯片内部的音频平台。",
+          "Snapdragon Sound Elite Gen 2能够让无线耳机直接连接家庭Wi-Fi网络并连接到云端。",
+          "来源叙事重点：高通第二代Snapdragon Sound Elite芯片首次单芯片集成微功率Wi-Fi 6E，相比此前需外挂芯片的S7 Pro方案大幅降低功耗与体积，有望实质性解决Wi-Fi无损音频耳机的工程落地与普及难题，并拓展至AI及带摄像头的智能可穿戴设备"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T23:42:39.000Z",
+            "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream"
+          }
+        ]
+      },
+      {
+        "id": "story-ump-xi-state-dinner-html-9d11782bc346286e",
+        "title": "以下是出席特朗普与习近平国宴的宾客名单",
+        "originalTitle": "Here's who is attending the Trump-Xi state dinner",
+        "source": "CNBC Markets (CNBC 市场官方英文)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:02:40.000Z",
+        "pubTime": "2026-09-25 09:02",
+        "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+        "imageUrl": null,
+        "fullContent": "U.S. government officials, business leaders and their spouses dominated a list of more than 100 people who will attend a state dinner Thursday, according to a White House press release.\n\nOn the Chinese side, the delegation consisted primarily of government officials, accompanying Chinese President Xi Jinping and U.S. President Donald Trump and their wives.\n\nTalks with Trump have \"added new substance\" to U.S.-China relations, Xi said in a toast, according to an official translation. Trump gave Xi a statue of a bald eagle.\n\nThe U.S. and Chinese presidential couples were seated with Apple's Tim Cook, Nvidia's Jensen Huang and his wife, Elon Musk and AMD's Lisa Su.\n\nMeta and OpenAI were among the other major U.S. tech companies represented. Anthropic was not on the list.\n\nOther attendees included members of Trump's extended family, including Melania's father Viktor Knavs.\n\nChinese business leaders were previously expected to attend the dinner. Earlier, CNBC reported that someone briefed about the preparations but who wasn't authorized to speak on the record said they weren't aware of any Chinese companies who have been invited to join Xi on his trip.\n\nXi is making his first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.\n\nHere's the full list:\n\n—CNBC's Hui Jie Lim, David Sucherman and Bria Cousins contributed to this report\n\nCorrection: This story has been updated to remove an incorrect reference to the number of Chinese officials present.\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "根据白宫发布的新闻稿，在周四出席国宴的100多人名单中，美国政府官员、商界领袖及其配偶占据了绝大多数。\n\n中方代表团主要由政府官员组成，他们陪同中国国家主席习近平和美国总统唐纳德·特朗普及其夫人出席。\n\n据官方翻译，习近平在祝酒辞中表示，与特朗普的会谈为中美关系“增添了新内涵”。特朗普向习近平赠送了一尊白头海雕雕像。\n\n中美元首夫妇与苹果公司的蒂姆·库克（Tim Cook）、英伟达的黄仁勋（Jensen Huang）夫妇、埃隆·马斯克（Elon Musk）以及AMD的苏姿丰（Lisa Su）同桌就座。\n\nMeta和OpenAI等其他美国大型科技公司也有代表出席。Anthropic不在名单之列。\n\n其他出席者还包括特朗普家族的其他成员，包括梅拉尼娅的父亲维克多·克纳夫斯（Viktor Knavs）。\n\n此前外界曾预期中国商界领袖也会出席晚宴。早些时候，CNBC报道称，一位了解筹备情况但未获授权公开发言的人士表示，据其所知没有任何中国企业受邀陪同习近平出访。\n\n这是习近平自十多年前巴拉克·奥巴马担任总统以来首次对美国进行国事访问。他于周三抵达美国，计划于周五离开。\n\n以下是完整名单：\n\n——CNBC的林慧洁（Hui Jie Lim）、戴维·苏彻曼（David Sucherman）和布里亚·考辛斯（Bria Cousins）对本报道亦有贡献\n\n更正：本报道已更新，删除了关于出席的中国官员人数的一处不准确表述。\n\n有保密新闻线索？我们期待听到您的声音。\n\n将此内容发送到您的收件箱，并获取有关我们产品和服务的更多信息。\n\n数据为实时快照 *数据至少延迟15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。\n\n数据亦由以下机构提供",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "根据白宫新闻稿，美国政府官员、商业领袖及其配偶在周四举行的国宴100多人出席名单中占主要比例。",
+          "中方代表团主要由政府官员组成，陪同中国国家主席习近平和美国总统唐纳德·特朗普及其夫人出席。",
+          "来源叙事重点：重点聚焦美中元首国宴的宾客名单与座次安排，突出美国顶级科技巨头高管在外交场合的显著地位，并对比中美代表团的构成差异及中国企业代表的缺席情况。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Markets (CNBC 市场官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T01:02:40.000Z",
+            "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html"
+          }
+        ]
+      },
+      {
+        "id": "story-ars-for-autism-diagnosis-a865f7788037e062",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘Her mental health deteriorated’: family forced to wait years for autism diagnosis",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:08:52.000Z",
+        "pubTime": "2026-09-25 05:08",
+        "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis",
+        "imageUrl": "https://i.guim.co.uk/img/media/fd5bd10a43cee025a44ab3f576aed72b500058a0/213_0_3781_3024/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=8bd72041ca1f99999b83a7657d31bce9",
+        "fullContent": "A mother describes the frustration of endless waiting lists and difficulties getting appointments so her teenage daughter can get the help she requires\n\nFor Rosalyn, the battle for an official autism diagnosis for her 14-year-old daughter, Imogen, has been intense, deeply frustrating and has lasted five and a half years.\n\nThat Rosalyn has three other children who have autism diagnoses meant she was acutely aware of the signs.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "Rosalyn 为其 14 岁女儿 Imogen 争取自闭症官方确诊的过程已持续五年半。",
+          "Rosalyn 另外还有三个被确诊患有自闭症的孩子。",
+          "来源叙事重点：聚焦漫长等待自闭症确诊过程对青少年心理及家庭造成的长期消耗，以母亲长达五年半的维权与挂号波折为微观案例，突显公共医疗诊断资源挤兑。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:08:52.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis"
+          }
+        ]
+      },
+      {
+        "id": "story--landscapes-drought-html-fa7936f89cae5312",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Q&A: Grasslands in more diverse landscapes can suffer less from drought",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:00:01.000Z",
+        "pubTime": "2026-09-25 09:00",
+        "url": "https://phys.org/news/2026-09-qa-grasslands-diverse-landscapes-drought.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/do-grasslands-in-more.jpg",
+        "fullContent": "During the heat wave of 2018, meadows and pastures also suffered from drought. Are grasslands in diverse landscapes more resilient to yield losses than those in monotonous regions? Researchers at the University of Bonn, led by Marco Ferro and Dr. Jan Börner from the Institute for Food and Resource Economics (ILR), investigated the influence of landscape diversity on the drought tolerance of grasslands as part of Collaborative Research Center 1502 DETECT. The work is published in the American Jou",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 09:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-qa-grasslands-diverse-landscapes-drought.html",
+            "publishedAt": "2026-09-25T01:00:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2192501-b9d2dfac38807793",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Top Hungarian diplomat says ready for dialogue with Russia on bilateral relations",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:32:43.000Z",
+        "pubTime": "2026-09-25 09:32",
+        "url": "https://tass.com/world/2192501",
+        "imageUrl": null,
+        "fullContent": "BUDAPEST, September 25. /TASS/. Hungarian Foreign Minister Anita Orban said she is ready to meet with her Russian counterpart Sergey Lavrov to discuss bilateral relations, but the schedule of her participation in the High-Level Week of the 81st Session of the UN General Assembly does not include such an option.\n\nShe told the Index news portal that although she has not spoken to Lavrov yet, diplomatic relations between the two nations continue \"as normal.\"\n\nWhen asked whether she was ready to meet with the Russian minister, the top Hungarian diplomat replied: \"Of course.\"\n\nShe also emphasized that despite Hungary’s recent decision to expel ten Russian embassy staffers from the country, \"diplomatic relations continue.\"\n\nMoscow described the move as unfriendly, with Russian Presidential Press Secretary Dmitry Peskov saying that it will not be left unanswered. At the same time, he added that Russia was interested in preserving and developing its ties with Hungary.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 5,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "匈牙利外长安妮塔·奥尔班（Anita Orban）表示愿与俄罗斯外长谢尔盖·拉夫罗夫（Sergey Lavrov）会面讨论双边关系，但其第81届联合国大会高级别会议周的日程中并未列入该会面选项。",
+          "奥尔班向Index新闻门户网站表示，尽管尚未与拉夫罗夫通话，且匈牙利近期驱逐了10名俄罗斯使馆人员，两国间的外交关系依然“照常”维持。",
+          "来源叙事重点：重点突出匈牙利外长对维持双边关系及与俄外长对话的开放姿态，弱化驱逐使馆人员事件的外交冲击，强调俄匈关系的韧性与合作意愿"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T01:32:43.000Z",
+            "url": "https://tass.com/world/2192501"
+          }
+        ]
+      },
+      {
+        "id": "story-hat-the-fleet-data-shows-32f37a75309c7c75",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Waymo is scaling fast. Here’s what the fleet data shows.",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T23:24:33.000Z",
+        "pubTime": "2026-09-25 07:24",
+        "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+        "imageUrl": null,
+        "fullContent": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 07:24 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+            "publishedAt": "2026-09-24T23:24:33.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-5-4916-8300-ec3073027ff6-f5b98a13e8305364",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T01:01:20.000Z",
+        "pubTime": "2026-09-25 09:01",
+        "url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3c91371e-befb-417d-9ef0-bf8839ce13c6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "China’s president is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-25 09:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-25T01:01:20.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--adhd-autism-assessments-5f3edc09ab843459",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-24T21:00:30.000Z",
+        "pubTime": "2026-09-25 05:00",
+        "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
+        "imageUrl": "https://i.guim.co.uk/img/media/f8bf1d8867f33d6a507ea583a29ccb3ef2271128/659_79_3365_2693/master/3365.jpg?width=140&quality=85&auto=format&fit=max&s=f765cef514590fe349830d0244b4c471",
+        "fullContent": "Patient groups decry ‘scandalous’ delays as four integrated care boards take step due to soaring demand for diagnoses\n\nNHS bodies are forcing people with suspected attention deficit hyperactivity disorder and autism to wait at least two years before they can be assessed as they struggle to meet surging demand for diagnoses of neurodiversity.\n\nFour NHS integrated care boards (ICBs) covering large regions of England have adopted the approach because they cannot afford the cost of the number of assessments that people are seeking.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "英格兰的NHS机构迫使疑似患有注意缺陷多动障碍（ADHD）和自闭症的人员等待至少两年才能接受评估。",
+          "覆盖英格兰大片地区的4个NHS整合护理委员会（ICB）采取了上述至少等待两年的做法，原因是无法承受人们所寻求的评估数量带来的成本。",
+          "来源叙事重点：聚焦英格兰国民医疗服务体系（NHS）多个整合护理委员会（ICBs）因财政承受能力不足，对ADHD和自闭症评估强制实施至少两年的等待期，并突出患者群体的强烈抗议与抨击。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-24T21:00:30.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790289534666,
     "timeDisplay": "2026-09-25 06:38 (UTC+8)",
     "date": "2026-09-25",
