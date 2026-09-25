@@ -16,41 +16,80 @@ notice:
 
 ::::grid{cols=2}
 :::cell
+<div id="story-s-as-crisis-deepens-html-a62f8096bb76f9f1" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="746" data-content-paragraphs="7" data-published-at="2026-09-25T07:30:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 15:30</span>
+</div>
+
+### [危机加深之际霍尔木兹海峡油轮通行量骤降至个位数](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Transits-Crash-to-Single-Digits-as-Crisis-Deepens.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Hormuz Tanker Transits Crash to Single Digits as Crisis Deepens</div>
+
+<div class="article-body" data-article-body="true"><p>路透社在其关于该海峡油轮数量的最新定期报告中报道称，周四仅有9艘大宗商品运输船通过霍尔木兹海峡，其中8艘为驶出该水道。周四的总数是在此前已经低迷的数字基础上的进一步下滑，目前该数据已从两位数跌至个位数，10天平均值降至18艘。报道称，昨天通过霍尔木兹海峡的9艘油轮包括1艘超大型原油运输船（VLCC）、数艘巴拿马型（Panamax）和超灵便型（Supramax）散货船、中短程小型运输船，以及1艘压载航行的超大型液化气船（VLGC）。</p>
+<p>与此同时，海事智能机构Windward报告称，周三有5艘油轮进入霍尔木兹海峡，其中包括1艘原油运输船、两艘成品油轮和1艘液化天然气（LNG）运输船。</p>
+<p>随着本月敌对行动再次升级，包括针对油轮的袭击、红海地区与伊朗结盟的胡塞武装构成的威胁，以及沙特阿拉伯境内东西陆上管道的暂时关闭，船东和能源出口商在通航霍尔木兹海峡时变得愈发谨慎。</p>
+<p>这一局势加剧了今年早些时候由于船东不愿在霍尔木兹海峡冒险而出现的油轮短缺。据《劳氏日报》（Lloyd&#39;s List）报道，这种短缺反过来导致波斯湾的航运成本飙升，本周一波斯湾至中国航线的超大型原油运输船（VLCC）运费触及127万美元的历史新高，随后小幅回落至126万美元。</p>
+<p>《劳氏日报》该报告的作者格雷格·米勒（Greg Miller）指出：“原油油轮即期运费仍处于天文数字般的高位，这在霍尔木兹危机爆发前是难以想象的。”</p>
+<p>除此之外，沙特阿拉伯通过霍尔木兹海峡和阿曼湾增加石油出口，进一步加剧了油轮短缺。路透社今天早些时候报道称，由于来自沙特西部延布港（Yanbu）及其波斯湾东部港口的货流激增，波斯湾的船对船（STS）转运能力已达极限。</p>
+<p>文/伊琳娜·斯拉夫（Irina Slav）为Oilprice.com撰稿</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>周四仅有9艘大宗商品运输船通过霍尔木兹海峡，其中8艘为驶出该水道。</li>
+    <li>通过霍尔木兹海峡的油轮数量从两位数降至个位数，10天平均通过量为18艘。</li>
+    <li>来源叙事重点：霍尔木兹海峡地缘危机加剧导致通过油轮量暴跌至个位数，运力极度短缺推高波斯湾航线运费至历史高位，沙特转运物流承压至极限。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#OilPrice</span>
+</div>
+
+<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Transits-Crash-to-Single-Digits-as-Crisis-Deepens.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
 <div id="story-ump-xi-state-dinner-html-9d11782bc346286e" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="723" data-content-paragraphs="15" data-published-at="2026-09-25T01:02:40.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="708" data-content-paragraphs="15" data-published-at="2026-09-25T06:30:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
     <span class="stance-badge">国际资本与华尔街视角</span>
     <span class="dimension-pill">💹 宏观资本与产业</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 09:02</span>
+  <span class="news-meta-time">🕒 2026-09-25 14:30</span>
 </div>
 
-### [以下是出席特朗普与习近平国宴的宾客名单](https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Here&#39;s who is attending the Trump-Xi state dinner</div>
+### [以下是出席特习国宴的人员名单](https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Here&#39;s who attended the Trump-Xi state dinner</div>
 
-<div class="article-body" data-article-body="true"><p>根据白宫发布的新闻稿，在周四出席国宴的100多人名单中，美国政府官员、商界领袖及其配偶占据了绝大多数。</p>
-<p>中方代表团主要由政府官员组成，他们陪同中国国家主席习近平和美国总统唐纳德·特朗普及其夫人出席。</p>
-<p>据官方翻译，习近平在祝酒辞中表示，与特朗普的会谈为中美关系“增添了新内涵”。特朗普向习近平赠送了一尊白头海雕雕像。</p>
-<p>中美元首夫妇与苹果公司的蒂姆·库克（Tim Cook）、英伟达的黄仁勋（Jensen Huang）夫妇、埃隆·马斯克（Elon Musk）以及AMD的苏姿丰（Lisa Su）同桌就座。</p>
-<p>Meta和OpenAI等其他美国大型科技公司也有代表出席。Anthropic不在名单之列。</p>
-<p>其他出席者还包括特朗普家族的其他成员，包括梅拉尼娅的父亲维克多·克纳夫斯（Viktor Knavs）。</p>
-<p>此前外界曾预期中国商界领袖也会出席晚宴。早些时候，CNBC报道称，一位了解筹备情况但未获授权公开发言的人士表示，据其所知没有任何中国企业受邀陪同习近平出访。</p>
-<p>这是习近平自十多年前巴拉克·奥巴马担任总统以来首次对美国进行国事访问。他于周三抵达美国，计划于周五离开。</p>
+<div class="article-body" data-article-body="true"><p>根据白宫发布的新闻稿，在周四出席国宴的100多人名单中，美国政府官员、商业领袖及其配偶占据了主导地位。</p>
+<p>中方代表团主要由政府官员组成，他们陪同中国国家主席习近平与美国总统唐纳德·特朗普及其夫人出席。</p>
+<p>据官方翻译，习近平在祝酒词中表示，与特朗普的会谈为中美关系“增添了新的内涵”。特朗普向习近平赠送了一尊白头海雕雕像。</p>
+<p>中美两国元首夫妇与苹果公司的蒂姆·库克（Tim Cook）、英伟达的黄仁勋（Jensen Huang）及其妻子、埃隆·马斯克（Elon Musk）以及AMD的苏姿丰（Lisa Su）同桌就座。</p>
+<p>Meta和OpenAI也在出席的其他美国主要科技公司之列。Anthropic并未出现在名单上。</p>
+<p>其他出席者还包括特朗普大家庭的成员，包括梅拉尼娅的父亲维克托·克纳夫斯（Viktor Knavs）。</p>
+<p>此前外界曾预计中国商业领袖将出席晚宴。早些时候，CNBC曾报道称，一位了解筹备情况但未获授权公开发言的人士表示，他们并未听说有任何中国企业受邀随习近平一同出访。</p>
+<p>这是习近平自十多年前巴拉克·奥巴马执政以来首次对美国进行国事访问。他于周三抵达美国，按计划将于周五离开。</p>
 <p>以下是完整名单：</p>
-<p>——CNBC的林慧洁（Hui Jie Lim）、戴维·苏彻曼（David Sucherman）和布里亚·考辛斯（Bria Cousins）对本报道亦有贡献</p>
-<p>更正：本报道已更新，删除了关于出席的中国官员人数的一处不准确表述。</p>
-<p>有保密新闻线索？我们期待听到您的声音。</p>
-<p>将此内容发送到您的收件箱，并获取有关我们产品和服务的更多信息。</p>
+<p>—CNBC记者Hui Jie Lim、David Sucherman和Bria Cousins对本报道亦有贡献</p>
+<p>更正：本报道已更新，删除了关于出席的中国官员人数的一处错误表述。</p>
+<p>有保密新闻线索？我们期待倾听您的声音。</p>
+<p>将此内容订阅至您的收件箱，并获取有关我们产品和服务的更多信息。</p>
 <p>数据为实时快照 *数据至少延迟15分钟。全球商业与金融新闻、股票行情以及市场数据与分析。</p>
 <p>数据亦由以下机构提供</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>根据白宫新闻稿，美国政府官员、商业领袖及其配偶在周四举行的国宴100多人出席名单中占主要比例。</li>
-    <li>中方代表团主要由政府官员组成，陪同中国国家主席习近平和美国总统唐纳德·特朗普及其夫人出席。</li>
-    <li>来源叙事重点：重点聚焦美中元首国宴的宾客名单与座次安排，突出美国顶级科技巨头高管在外交场合的显著地位，并对比中美代表团的构成差异及中国企业代表的缺席情况。</li>
+    <li>美国总统唐纳德·特朗普于周四为中国国家主席习近平举办国宴。</li>
+    <li>根据白宫新闻稿，周四出席国宴的名单超过100人，主要由美国政府官员、商业领袖及其配偶组成。</li>
+    <li>来源叙事重点：聚焦特朗普与习近平国宴的出席人员构成，特别强调美国顶级科技领袖（如苹果、英伟达、AMD、特斯拉等公司高管）与中美领导人的同桌就座与高规格参与，同时对比指出中方代表团以政府官员为主、缺乏中国商业领袖随行</li>
   </ul>
 </div>
 
@@ -63,398 +102,197 @@ notice:
 :::
 
 :::cell
-<div id="story--prolonged-iran-war-html-afa4bee139c91cfd" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="5372" data-content-paragraphs="27" data-published-at="2026-09-25T00:00:00.000Z" data-time-source="publication">
+<div id="story--capacity-maxes-out-html-3ebad00b7bb8e50f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="688" data-content-paragraphs="5" data-published-at="2026-09-25T06:17:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
     <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">⚡ 战略能源与气候</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 08:00</span>
+  <span class="news-meta-time">🕒 2026-09-25 14:17</span>
 </div>
 
-### [5只在伊朗战争旷日持久格局中占据优势的能源股](https://oilprice.com/Energy/Crude-Oil/5-Energy-Stocks-Positioned-for-a-Prolonged-Iran-War.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> 5 Energy Stocks Positioned for a Prolonged Iran War</div>
+### [超大型油轮日运价创下127万美元历史新高](https://oilprice.com/Latest-Energy-News/World-News/VLCC-Rates-Hit-Record-127-Million-a-Day-as-Oman-Transfer-Capacity-Maxes-Out.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> VLCC Rates Hit Record $1.27 Million a Day</div>
 
-<div class="article-body" data-article-body="true"><p>自伊朗战争爆发以来，摩根大通（JPMorgan）首次表示，对于石油市场如何摆脱这场危机，该行已不再持有明确的基准预测。此前，该行基于这样一种假设：不断上涨的油价及其造成的经济破坏最终将限制冲突扩大的程度。然而在战争持续六个月后，摩根大通表示，许多此前设想的门槛已被打破，却并未带来明确的退出通道。目前约有1000万桶/日的石油供应遭到中断，而该行将布伦特原油9月的公允价值定在每桶90美元左右，相比之下当前市场交易价格在106美元左右。</p>
-<p>对油气公司而言，这场战争催生了多个不同的盈利渠道，从高油价、极高的炼油利润率，到卡塔尔液化天然气（LNG）供应短缺以及交易波动带来的机会。然而，考虑到各公司自身在中东的资产分布，大宗商品敞口最大的公司并不一定是获益最多的企业。如果生产商自身的大部分产能受到中断，那么即便油价冲上每桶100美元以上，它从中获益也甚微。而该地区以外的LNG出口商正受益于霍尔木兹海峡之外的供应短缺——伊朗的袭击破坏了卡塔尔17%的LNG产能，受损的两个LNG生产线预计需要长达三年时间才能修复。卡塔尔能源公司（QatarEnergy）目前正寻求到2031年前每年从外部供应商（包括美国生产商）采购200万至300万吨LNG，以履行其交付承诺。</p>
-<p>炼油商则从供应中断的另一个环节中获利。9月14日，美国柴油炼油利润率创下每桶118.62美元的历史新高，而美国馏分油库存降至1.079亿桶，创下1982年以来同期最低水平。来自中东和俄罗斯的燃料供应损失已十分严重，以至于交易员和分析师预计全球柴油短缺将持续到2027年。由于海湾产油国使用摆渡油轮将原油运送通过霍尔木兹海峡，然后在阿曼近海过驳至常规出口油轮，预计9月份在阿曼湾通过船对船转运装载的原油将达到约250万桶/日，高于8月份的140万桶/日。这种变通方案维持了更多石油的流动，但代价极其昂贵。截至周二的报道，从海湾到中国的超大型油轮（VLCC）运费已飙升至每桶30美元以上，而油轮运力依然受到严重制约。</p>
-<p>当然，地理区位的重要性前所未有地凸显出来。埃克森美孚（ExxonMobil）在卡塔尔和阿布扎比拥有庞大的上游业务敞口，其部分产能直接处于受战争干扰的区域内；相比之下，雪佛龙（Chevron）资产组合对中东生产的敞口则小得多。切尼尔能源（Cheniere）受益于竞争对手卡塔尔LNG供应的短缺，而马拉松原油（Marathon Petroleum）则受益于成品油短缺导致的炼油利润率激增。基于当前的运营状况、最新财报以及各大主流分析师的最新观点，在旷日持久的对峙僵局中，有五家公司值得重点关注：雪佛龙、康菲石油（ConocoPhillips）、切尼尔能源、壳牌（Shell）以及马拉松原油。</p>
-<p>1. 雪佛龙（Chevron，纽约证券交易所代码：CVX）<br />雪佛龙对当前石油危机的敞口形式截然不同。该公司正享受其原油的大幅溢价，而因战争损失的产量却相对较少。雪佛龙表示，中东冲突影响了沙特阿拉伯与科威特之间中立区（Partitioned Zone）的作业，但损失的产量仅占其第二季度总产量的约1%。路透社指出，雪佛龙在中东较小的生产布局使其能够在免受同行那样严重生产中断的同时，充分享受油价上涨红利。第二季度，雪佛龙调整后利润达120亿美元，创下至少六年来的最高单季利润，其中上游业务利润同比激增两倍至82亿美元。全球产量达到407万桶油当量/日，同比增长20%，其中美国本土产量创下208万桶油当量/日的历史新高。雪佛龙在美国的原油及凝析液实现价格从去年同期的每桶47.77美元跃升至70.80美元，国际实现价格则从58.88美元上涨至96.41美元。</p>
-<p>雪佛龙也在收获炼油业务带来的意外之财。随着全球燃料库存吃紧以及中东危机推高炼油利润率，其第二季度下游业务利润达49亿美元。雪佛龙的美国炼厂在该季度加工了创纪录的107万桶/日原油，原油装置开工率超过97%。在完成对赫斯（Hess）的收购后，雪佛龙的生产基本盘也大幅扩张。该交易使雪佛龙获得了圭亚那斯塔布鲁克区块（Stabroek Block）30%的权益，该区块目前的日产量已攀升至90万桶以上。雪佛龙还表示，对赫斯的收购以及在二叠纪盆地（Permian Basin）和美洲湾的增长，助推公司总产量同比增长20%。该公司已从赫斯并购案中实现了15亿美元的年化协同效益，远超最初目标，且比原计划提前了六个月。第二季度，雪佛龙通过分红（35亿美元）和股票回购（30亿美元）向股东回馈了65亿美元。该公司还在该季度创纪录地削减了84亿美元债务，并维持了全年100亿至200亿美元的股票回购区间。</p>
-<p>华尔街也上调了对该公司的预期。派杰投资（Piper Sandler）于9月3日将雪佛龙的目标价从207美元上调至243美元，并维持“增持”评级。蒙特利尔银行资本市场（BMO Capital）将其目标价从210美元上调至235美元，给予“跑赢大盘”评级；富国银行（Wells Fargo）将其目标价从226美元上调至230美元，并维持“增持”评级。高盛（Goldman Sachs）在9月16日将其目标价从225美元上调至240美元，维持“买入”评级，不过随后在9月22日将其目标价微调至228美元，仍维持“买入”。对于重点关注长期石油供应中断的投资者而言，雪佛龙的优势在于：在中东直接遭受的产能损失极为有限，同时对供应中断所催生的高油价享有可观的收益敞口。</p>
-<p>2. 康菲石油（ConocoPhillips，纽约证券交易所代码：COP）<br />相比综合性石油巨头，康菲石油为投资者提供了更直接的高油价敞口。该公司第二季度产量为224.8万桶油当量/日，其中147.9万桶油当量/日来自美国本土48州。仅特拉华盆地（Delaware Basin）的日产量就达到72万桶油当量，其次是鹰滩（Eagle Ford）的36.3万桶油当量/日、米德兰盆地（Midland Basin）的20.2万桶油当量/日以及巴肯（Bakken）的18.9万桶油当量/日。战争冲击了康菲石油在卡塔尔的产量，该资产在2025年的平均日产量约为8.2万桶油当量，占公司总产量的3.5%。由于无法确定实际可用产量，该公司今年早些时候在其第二季度产量指引中完全剔除了卡塔尔部分。到8月份，康菲石油表示，美国本土48州的产量增长已被中东冲突对卡塔尔业务的冲击以及加拿大苏尔蒙特（Surmont）油砂项目更高的特许权使用费所完全抵消。然而在财务方面，康菲石油的平均实现价格跃升了3</p>
-<p>在第二季度较上年同期上涨6%，达到每桶油当量62.33美元；该公司表示，价格上涨是季度收益从去年同期的20亿美元增至39亿美元的主要原因。营运现金流达到72亿美元。康菲石油（ConocoPhillips）在当季斥资20亿美元回购自身股票，并另拨出10亿美元用于股息分配。</p>
-<p>3. 切尼尔能源（Cheniere Energy，纽约证券交易所代码：LNG）<br />切尼尔能源迎来了一个直接的商业契机，源于卡塔尔需要弥补拉斯拉凡（Ras Laffan）损失的液化天然气（LNG）产能。卡塔尔能源公司（QatarEnergy）已不再局限于现货采购，目前正与切尼尔能源、维珍全球（Venture Global）以及伍德赛德（Woodside）洽谈多年期供应协议，这有望为切尼尔提供延伸至2031年的新合同需求来源。</p>
-<p>这一时机对切尼尔而言极具利好。该公司于8月28日完成了科珀斯克里斯蒂（Corpus Christi）三期工程建设，使其在科珀斯克里斯蒂和萨宾帕斯（Sabine Pass）两处的LNG年生产能力提升超过20%，达到约5600万吨。切尼尔还在科珀斯克里斯蒂建设8号和9号中型液化生产线，预计将增加约500万吨/年的产能。在萨宾帕斯，切尼尔正在推进另一项扩建项目的首期工程，预期年产能将超过600万吨，不过该项目仍有待最终投资决策（FID）及监管审批。</p>
-<p>在卡塔尔能源公司开始寻求美国长期供应之前，切尼尔就已上调了其2026年业绩预期。该公司在8月份将全年调整后EBITDA指引从72.5亿至77.5亿美元上调至79亿至84亿美元，并将预期的可分配现金流指引上调至53亿至58亿美元。它还将2026年LNG产量预测区间收窄至5300万至5400万吨。在第二季度，切尼尔实现营收57.3亿美元，调整后EBITDA为18亿美元，可分配现金流为11.7亿美元。</p>
-<p>对于投资者来说，就在切尼尔完成其运营产能重大扩张的当口，与卡塔尔能源公司的谈判又为其增添了一位潜在买家。由于切尼尔目前尚未公布正式合同，当前的投资逻辑建立在更高现有产能、正在开发的新项目以及来自卡塔尔能源公司潜在多年期需求三者的结合之上。</p>
-<p>4. 壳牌（Shell，纽约证券交易所代码：SHEL）<br />壳牌凭借能源价格上涨、炼油和大宗商品交易业务获得了丰厚利润，足以抵消其自身中东业务遭受的严重冲击。其第二季度调整后收益达到98亿美元，高于去年同期的43亿美元，创下该公司历史上第二高的季度利润。营运现金流达到214亿美元。而在战前，壳牌约有20%的油气产量敞口位于中东，其中约10%与卡塔尔挂钩。</p>
-<p>壳牌在卡塔尔拥有日产14万桶的“珍珠”（Pearl）天然气制油（GTL）设施，其中两条处理生产线之一受损。另一条生产线虽未受损，但只有在安全条件及产品出口能力允许的情况下才能重新启动。壳牌还持有卡塔尔能源液化天然气N4公司（QatarEnergy LNG N4）30%的股份，相当于每年240万吨的权益LNG产能。卡塔尔能源公司于3月份关闭了其所有LNG设施的生产并宣布遭遇不可抗力。</p>
-<p>尽管第二季度天然气产量较第一季度下降了31%，壳牌的综合天然气部门（Integrated Gas）在当季仍实现了27亿美元的收益，同比激增55%。更高的实际实现价格以及更强劲的LNG交易业务，帮助壳牌消化了卡塔尔供应量减少的影响。壳牌运营着全球最大的LNG交易业务，这使其在卡塔尔供应受阻、货船在各地区之间重新调配的市场中占据了举足轻重的地位。</p>
-<p>炼油业务带来的利润增幅更为显著。壳牌的化学品与产品部门在第二季度盈利29亿美元，而去年同期仅为1.18亿美元。由于燃料炼油利润率大幅飙升，其炼油厂开工率达到铭牌产能的102%，同时航空煤油产量较去年同期增长了约20%。</p>
-<p>即便如此，与雪佛龙或康菲石油相比，壳牌面临的直接海湾地区风险依然更大。除现有卡塔尔业务外，该公司还在卡塔尔北方气田东区（North Field East）和南区（North Field South）LNG扩建项目中持有权益。卡塔尔能源公司曾警告称，霍尔木兹海峡持续中断可能会延误北方气田扩建计划的部分进度。</p>
-<p>摩根士丹利于9月4日将壳牌评级从中性上调至超配，并将其美股目标价从81.60美元上调至101.30美元。摩根大通于9月8日维持对其积极评级，而高盛则于9月11日重申其“买入”评级。</p>
-<p>5. 马拉松原油（Marathon Petroleum，纽约证券交易所代码：MPC）<br />马拉松原油是押注长期供应中断行情的炼油标的。该公司运营着全美最大的炼油系统，拥有13座炼油厂，原油日加工能力约为300万桶。中东和俄罗斯炼油厂遭遇袭击导致全球燃料供应收紧，而美国燃料出口则攀升至历史最高水平。</p>
-<p>马拉松原油第二季度的炼油与营销利润率较去年同期的每桶17.58美元增加了一倍以上，达到每桶36.33美元。炼油与营销业务的调整后EBITDA从19亿美元跃升至67亿美元，全公司净利润从12亿美元增至51亿美元。马拉松原油在该季度日加工量为290万桶，其炼油厂开工率达到94%。</p>
-<p>当季，马拉松原油位于墨西哥湾沿岸的炼油厂实现100%满负荷运转；与此同时，该公司估计全球计划内和计划外的炼油厂停产规模已攀升至每天900万桶以上，比历史平均水平高出约400万桶/日。第二季度美国馏分油出口创下历史新高，6月份美国航空煤油需求亦创下纪录。</p>
-<p>自马拉松原油公布上述业绩以来，燃料市场供需进一步趋紧。美国能源信息署（EIA）的最新数据显示，在截至9月18日的一周内，美国馏分油库存再次下降40万桶，使库存水平比五年平均水平低12%。柴油价格已涨破每加仑6.50美元，因中东和俄罗斯损失的燃料供应导致全球炼油系统缺乏可替代资源。</p>
-<p>这种紧缩局面已严重到华盛顿方面本周就限制美国柴油出口展开讨论，随后白宫于周三排除了实施一律禁止出口的可能。</p>
-<p>马拉松原油正将这些炼油利润转化为给股东的现金回报。该公司在第二季度通过股票回购和分红派息返还了28亿美元，而去年同期为10亿美元。</p>
-<p>随着炼油利润率维持高位，华尔街投行纷纷上调预期。高盛本月将马拉松原油的目标价从376美元上调至472美元，并维持其“买入”评级。在9月份美国柴油炼油利润率创下历史新高之前，马拉松原油第二季度的炼油利润率就已经翻了一倍以上。其墨西哥湾沿岸炼油厂保持满负荷运转，美国燃料出口创历史新高，而全球炼油厂停产规模较历史水平高出约400万桶/日。</p>
-<p>文 / 亚历克斯·基马尼（Alex Kimani），Oilprice.com</p></div>
+<div class="article-body" data-article-body="true"><p>据路透社援引未具名贸易消息人士及分析师报道，在胡塞武装袭击导致沙特阿拉伯将原油流向从延布港改道后，阿曼沿海的原油船对船转运能力已达极限。报道称，沙特已售出约6000万桶原油，计划于本月和10月交付；这批原油将由小型油轮转运至超级油轮后，从阿曼湾启运。这使得本已紧张的超大型原油轮（VLCC）市场更加吃紧，并导致原油运输成本进一步上升。</p>
+<p>船对船转运路线包括在波斯湾沿岸装载原油，穿越霍尔木兹海峡，然后在更安全的阿曼湾将货物转驳至更大的油轮上。据大宗商品数据分析公司Kpler称，9月份迄今为止，每日转运量平均达360万桶。而在也门胡塞武装袭击东西向输油管道之前的8月份，这一数字仅为每日90万桶。Kpler分析师帕纳约蒂斯·克隆蒂拉斯（Panagiotis Krontiras）向媒体表示，如此庞大的原油量需要额外增加36至40艘超大型原油轮。</p>
+<p>路透社援引英国石油经纪公司（Oil Brokerage）全球航运研究主管阿努普·辛格（Anoop Singh）在一份报告中的观点称：“仅沙特原油流量增加的200万桶/日，单是穿梭航运就会产生额外15艘VLCC的需求。”该分析师解释称，由于船对船转运的缘故，8月份出口相同数量的原油需要24艘VLCC，而到了9月份则需要40艘超大型原油轮。</p>
+<p>更严峻的是，目前有20艘油轮滞留在红海，等待延布港恢复运营，使油轮供应状况雪上加霜。据路透社援引伦敦证券交易所集团（LSEG）的数据，由于油轮供应极度紧张，截至本周一，VLCC日租金已飙升至127万美元的历史新高。</p>
+<p>文/伊琳娜·斯拉夫（Irina Slav），Oilprice.com</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-25 08:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>受运力紧缺影响，VLCC（超大型油轮）日租金创下127万美元的历史新高。</li>
+    <li>在也门胡塞武装袭击后，沙特阿拉伯将原油流向从延布港（Yanbu）转移，阿曼沿海的船对船（STS）原油转运能力已达极限。</li>
+    <li>来源叙事重点：聚焦地缘政治袭击（胡塞武装袭击东西输油管道及延布港受阻）引发原油转运瓶颈，导致超大型油轮（VLCC）运力极度短缺与日租金突破历史极值（127万美元/天）。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#战略能源与气候</span>
+  <span class="news-tag-pill">#前沿智能</span>
   <span class="news-tag-pill">#OilPrice</span>
 </div>
 
-<div class="news-card-footer"><a href="https://oilprice.com/Energy/Crude-Oil/5-Energy-Stocks-Positioned-for-a-Prolonged-Iran-War.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/VLCC-Rates-Hit-Record-127-Million-a-Day-as-Oman-Transfer-Capacity-Maxes-Out.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-ey-client-privilege-hats-aa95f7861ac6e2e3" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="862" data-content-paragraphs="7" data-published-at="2026-09-24T23:50:55.000Z" data-time-source="publication">
+<div id="story-in-352-million-hack-html-7933bc60f53cdaae" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="956" data-content-paragraphs="15" data-published-at="2026-09-25T06:13:35.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
+    <span class="stance-badge">国际资本与华尔街视角</span>
+    <span class="dimension-pill">💹 宏观资本与产业</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 07:50</span>
+  <span class="news-meta-time">🕒 2026-09-25 14:13</span>
 </div>
 
-### [Meta员工在抗拒披露儿童安全信息期间订购印有“律师-委托人特权”字样的帽子](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures</div>
+### [加密货币平台Bitget怀疑朝鲜是3.52亿美元黑客攻击事件的幕后黑手](https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Crypto platform Bitget suspects North Korea is responsible for $352 million hack</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Meta员工在抗拒披露儿童安全信息期间订购印有“律师-委托人特权”字样的帽子" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>来自该主题的帖子将被添加到您的每日电子邮件摘要和主页信息流中。<br />起诉Meta的律师称这些帽子是其“滥用特权文化”的一个例证。<br />来自该作者的帖子将被添加到您的每日电子邮件摘要和主页信息流中。<br />查看Richard Lawler的所有文章</p>
-<p>在围绕涉嫌危害青少年安全及心理健康的一系列正在进行的诉讼中，Meta的律师辩称，基于律师-委托人保密特权（attorney-client privilege），某些证据应避免向公众公开。本周，起诉该公司的律师表示，该标签的使用范围过于宽泛，并指出一份近期解密的文件显示，负责在2024年推出Instagram“青少年账户”（Teen Accounts）的团队曾订购过一批棒球帽，帽子上直接印有“a/c priv”（律师-委托人特权缩写）。</p>
-<p>起诉Meta的律师辩称，“尼多项目”（Project Nido，即青少年账户团队的内部代号）的宣传周边是“Meta滥用特权文化”的一部分，其目的在于使公司内部开展的关于青少年危害的研究不被公众知晓；在2021年关于Instagram影响的内部数据泄露后，马克·扎克伯格（Mark Zuckerberg）曾讨论过这一问题。</p>
-<p>美国联邦地区法官伊冯·冈萨雷斯·罗杰斯（Yvonne Gonzalez Rogers）在上个月的一项命令中，已经称Meta的部分特权涂黑遮蔽“完全不妥当”。</p>
-<p>她指出了一项示例：Meta的律师试图将关于幻灯片以及是否公开某些数据的讨论，描绘成对律师法律建议的探讨；法官根据庭审证词认定，他们对公开发布的迟疑更像是一项旨在防止泄密的商业决策。</p>
-<p>在证据开示程序之后，Meta于2025年4月取消了大约65,000份此前扣留或涂黑文件的特权标记，原告称这为时已晚，使他们无法在证词录供中使用这些文件。目前，Meta已申请将时间延期至今年年底，以重新审查其所作的其他特权遮蔽，而原告律师则主张应指定一个中立第三方来主导审查，相关费用由Meta承担。</p>
-<p>查看所有社交媒体内容<br />一份涵盖最重要资讯的免费每日简报。<br />这是原生广告的标题</p></div>
+<div class="article-body" data-article-body="true"><p>加密货币交易所Bitget援引正在进行的调查所获得的初步证据，怀疑朝鲜黑客可能是导致约3.516亿美元数字资产受影响的安全漏洞事件的幕后黑手。</p>
+<p>Bitget首席执行官陈丽（Gracy Chen）表示，调查人员已确认了与此前某个朝鲜黑客组织使用过的VPN服务相关联的IP地址。她在今日早些时候于社交平台X上的直播中表示，此次攻击模式也与此前归咎于该国的行动相似。</p>
+<p>陈丽表示，入侵Bitget系统的具体攻击手段仍在进行技术调查。</p>
+<p>据陈丽介绍，Bitget于美国当地时间周四下午检测到部分钱包发生未经授权的转账，涉及其部分热钱包和温钱包基础设施的19笔转账，而冷钱包仍保持安全。</p>
+<p>受影响的资产包括分布在以太坊（Ethereum）、XRP Ledger、Avalanche、BNB智能链（BNB Smart Chain）和Arbitrum网络上的以太坊（Ether）、XRP、USDT、USDC、Avalanche以及BNB。早先链上数据估计流出金额约为1.83亿美元，但Bitget表示这些分析未能涵盖所有受影响区块链上的活动。</p>
+<p>该交易所的安全团队发现，攻击者攻破了一个关键的后端钱包系统，利用该系统伪造转账信息并触发了Bitget的授权签名流程。陈丽表示，该漏洞已被控制，阻止了进一步的未经授权资金流出。</p>
+<p>“私钥泄露已被排除，”她说。</p>
+<p>在技术团队修复并加固受影响系统的同时，提现仍处于暂停状态，但充值和交易继续正常进行。</p>
+<p>尽管陈丽拒绝给出明确的时间表，但她在攻击发生数小时后的X直播中表示，提现可能会在数小时或数天内恢复，但“不应需要数周时间”。</p>
+<p>该公司坚称客户资产余额准确无误，且损失完全由其规模超过4.64亿美元的用户保护基金承担。</p>
+<p>Bybit首席执行官周本（Ben Zhou）表示，其团队正待命协助Bitget；在2025年2月Bybit遭遇15亿美元黑客攻击后，Bitget曾对其施以援手。周本补充称，Bybit正在更新其LazarusBounty平台以协助追踪被盗资金。</p>
+<p>有保密新闻线索？我们期待您的反馈。</p>
+<p>订阅本内容至您的邮箱，并获取关于我们产品和服务的更多信息。</p>
+<p>数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票行情以及市场数据与分析。</p>
+<p>数据亦由以下机构提供</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>在关于涉嫌危害青少年安全与心理健康的持续诉讼中，Meta 的律师辩称某些证据应基于律师-委托人特权（attorney-client privilege）对公众隐瞒。</li>
-    <li>起诉 Meta 的原告律师本周表示，特权标签被使用得过于宽泛，并指出一份近期解密的文件显示，负责在 2024 年推出 Instagram 青少年账户（Teen Accounts）的团队曾订购印有“a/c priv”字样的棒球帽。</li>
-    <li>来源叙事重点：聚焦原告律师曝光Meta青少年账户团队订购印有“a/c priv”字样的棒球帽这一细节，突出Meta涉嫌系统性泛化并滥用“律师-委托人特权”以掩盖青少年安全伤害研究的事实，并呈现法官对Meta不当涂黑文件的批评及双方在证据审查程序上的拉锯。</li>
+    <li>权威信源【CNBC Markets (CNBC 市场官方英文)】于 2026-09-25 14:13 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
+  <span class="news-tag-pill">#宏观资本与产业</span>
+  <span class="news-tag-pill">#CNBC</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【CNBC Markets (CNBC 市场官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-r-the-wi-fi-earbud-dream-98250f9291e2c6ed" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1138" data-content-paragraphs="3" data-published-at="2026-09-24T23:42:39.000Z" data-time-source="publication">
+<div id="story-le-saudi-oil-supply-html-d5fc375c5e0d4d51" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="696" data-content-paragraphs="6" data-published-at="2026-09-25T05:04:32.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
+    <span class="stance-badge">大宗能源产业链</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 07:42</span>
+  <span class="news-meta-time">🕒 2026-09-25 13:04</span>
 </div>
 
-### [高通全新“Elite”音频芯片或终将实现Wi-Fi耳机的梦想](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream</div>
+### [胡塞武装袭击冲击沙特石油供应 布伦特原油料将录得单周上涨](https://oilprice.com/Latest-Energy-News/World-News/Brent-Set-for-Weekly-Gain-as-Houthi-Attacks-Rattle-Saudi-Oil-Supply.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply</div>
 
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h29m15s548.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="高通全新“Elite”音频芯片或终将实现Wi-Fi耳机的梦想" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>如果你的无线耳机——或者音频眼镜——能够流畅播放高质量的无损音频，而且即使你把手机落在床头充电器上或塞在沙发缝里也不会断连，会是怎样的体验？高通最新推出的Snapdragon Sound Elite Gen 2（第二代骁龙畅听Elite）是其首款直接将“微功率 Wi-Fi 6E”集成到芯片内部的产品，使其能够直接连接到你的家庭Wi-Fi网络，并由此直连云端。[图片：高通早期的白皮书显示，最初实现Wi-Fi耳机需要两颗芯片。如今，Wi-Fi已直接集成到主芯片中。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/image-26.png?quality=90&amp;strip=all]</p>
-<p>如果这听起来像是一个似曾相识的承诺，那大概是因为高通早在2023年就凭借“S7 Pro音频平台”及其扩展个人局域网（XPAN）技术做过类似的许诺，当时声称Wi-Fi耳机可以实现单纯依靠蓝牙无法完成的事情——即蓝牙微薄的带宽所无法承载的24-bit 96kHz无损音频。但那个老款7系列平台需要一颗独立的Wi-Fi芯片才能打造Wi-Fi耳机，而对于制造极其微小设备的厂商而言，这显然不是一个能吸引他们采纳该技术的理想方案！事实上，我们至今只听说过一款相关产品：小米在2025年推出的小米Buds 5 Pro，且该产品并未在全球发售。[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_09_1789673099_Snapdragon-Sound-Elite-Gen-2-Highlight-Image-Embargo-Sep-23-930am-HT-1230pm-PT.jpg?quality=90&amp;strip=all]</p>
-<p>现在，由于Wi-Fi不再需要额外的独立芯片，这一构想或许终于能够普及开来。高通表示，与上一代芯片相比，Elite芯片的尺寸缩小了30%，功耗降低了多达40%，同时AI处理能力提升了一倍，所有这些对设备制造商而言都无疑是极佳的利好消息。到目前为止，高通表示正在与惠普（HP）合作开发一款尚未命名的特定产品，同时“与Bose保持紧密合作”，并与Cleer“开创全新类别的智能可穿戴音频设备”（即内置摄像头的耳机）。[图片：带摄像头的耳机。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/vlcsnap-2026-09-24-16h35m50s149.png?quality=90&amp;strip=all]</p></div>
+<div class="article-body" data-article-body="true"><p>今日早些时候，原油价格较周四收盘价有所回落，但由于对中东供应安全的持续担忧，布伦特原油仍有望录得单周上涨。尽管有报道称美国与伊朗可能达成协议，且有对霍尔木兹海峡石油外流规模的估算，但这种担忧依然存在。截至发稿时，布伦特原油交易价格为每桶105.65美元，高于周一的每桶约102美元。另一方面，西得克萨斯中质原油（WTI）本周则以回落收尾，发稿时交易价格为每桶93.11美元，低于本周初的约98美元。</p>
+<p>也门胡塞武装对沙特阿拉伯的袭击在本周为油价提供了实质性支撑。袭击目前仍在持续升级，该组织周四表示，他们向沙特境内的多个目标发射了密集的导弹和无人机，其中包括红海沿岸的延布港（Yanbu port），该港已成为沙特阿拉伯的主要石油出口终端。</p>
+<p>与此同时，据报道，美国和伊朗正在讨论一项停火协议。根据该协议，伊朗将重新开放霍尔木兹海峡，以换取美国解除对其的海上封锁。路透社援引伊朗总统马苏德·佩泽希齐扬周四的话称：“必须由美国来选择是否想要结束这一切。”</p>
+<p>斯巴达大宗商品公司（Sparta Commodities）高级石油市场分析师琼·吴（June Goh）表示，按目前形势来看，油价很可能保持在每桶100美元以上。她在接受半岛电视台采访时表示：“在看不到明确解决方案的情况下，全球石油库存缺口正在进一步扩大。”</p>
+<p>KCM Trade首席市场分析师蒂姆·沃特勒（Tim Waterer）对该媒体表示：“联合国会议期间的外交努力起到了一定的制衡作用，但在出现更明确、持久的局势降温证据之前，油价的上行倾向依然存在。”</p>
+<p>文/伊琳娜·斯拉夫（Irina Slav），来自 Oilprice.com</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>高通发布全新的Snapdragon Sound Elite Gen 2芯片，是其首款将微功率Wi-Fi 6E（micro-power Wi-Fi 6E）直接集成到芯片内部的音频平台。</li>
-    <li>Snapdragon Sound Elite Gen 2能够让无线耳机直接连接家庭Wi-Fi网络并连接到云端。</li>
-    <li>来源叙事重点：高通第二代Snapdragon Sound Elite芯片首次单芯片集成微功率Wi-Fi 6E，相比此前需外挂芯片的S7 Pro方案大幅降低功耗与体积，有望实质性解决Wi-Fi无损音频耳机的工程落地与普及难题，并拓展至AI及带摄像头的智能可穿戴设备</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--taylor-coalition-ntwnfb-1a17154e3474b8f2" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="405" data-content-paragraphs="2" data-published-at="2026-09-25T01:24:26.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 09:24</span>
-</div>
-
-### [实时新闻：休姆称AI黑客事件表明澳大利亚需要更多AI；阿尔巴尼斯在特朗普争议后发布与希腊总理自拍照](https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb)
-<div class="original-title-sub"><span class="orig-tag">原文</span> News live: Hume says AI hack shows Australia needs more AI; Albanese posts selfie with Greek PM after Trump controversy</div>
-
-<div class="article-cover"><img src="https://i.guim.co.uk/img/media/713407574e90ae2d156edb10e223f2ccc6644940/503_0_2953_2362/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=795177e8df2069bcc5d438e86a0a4b1a" alt="实时新闻：休姆称AI黑客事件表明澳大利亚需要更多AI；阿尔巴尼斯在特朗普争议后发布与希腊总理自拍照" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>关注今日实时新闻<br />获取我们的突发新闻邮件、免费应用程序或每日新闻播客</p>
-<p>医保系统（Medicare）遭AI黑客攻击暴露出澳大利亚的脆弱性<br />技术专家警告称，人工智能代理入侵医保内部系统这一消息的曝光，不会是政府数据遭遇的唯一一次危险泄露，并呼吁澳大利亚加强防护以应对日益增长的风险。<br />前沿人工智能现在有能力以超出我们跟进和修复速度的效率暴露出这些漏洞。<br />如果这是一次没那么温和的入侵呢？如果这是一个怀有更大恶意的行为主体呢？让我们面对现实吧，显而易见，澳大利亚服务局（Services Australia）的网络安全防护严重不足。<br />我的意思是，这里的讽刺之处在于，你实际上需要人工智能来对抗人工智能。如果说这有什么启示的话，那就是应该加速我们在美国方面的调整，减少指责和与特朗普争锋相对的较劲，更多地接纳这些人工智能公司并将它们引入本土，从而让我们拥有前沿模型为澳大利亚提供主权能力。因为人工智能的发展势不可挡。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Guardian (英国卫报官方英文)】于 2026-09-25 09:24 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-25 13:04 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
+  <span class="news-tag-pill">#OilPrice</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://oilprice.com/Latest-Energy-News/World-News/Brent-Set-for-Weekly-Gain-as-Houthi-Attacks-Rattle-Saudi-Oil-Supply.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-026-09-25-10703575-shtml-45a4cbd8cfa0e138" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="993" data-content-paragraphs="22" data-published-at="2026-09-25T01:14:41.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 09:14</span>
-</div>
-
-### [驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会](https://www.chinanews.com.cn/gj/2026/09-25/10703575.shtml)
-
-<div class="article-body" data-article-body="true"><p>中新网堪培拉9月25日电 (记者 薄雯雯)中国驻澳大利亚大使馆24日举行庆祝中华人民共和国成立77周年暨刘劲松大使到任招待会。澳大利亚总督官方秘书马丁、总理内阁部副秘书长韩家思、外交贸易部代理副秘书长高志磊、各界友人、驻澳使节及华侨华人、中资机构和留学生代表等400余人出席。</p>
-<p>中国驻澳大利亚大使刘劲松在致辞中宣介中国发展成就，表示中国将继续坚持和平发展，坚定不移维护国家统一，推动高质量发展，扩大高水平对外开放。中国的发展进步，对澳方是红利和机遇。维护拓展深化中澳关系，需要“众人拾薪”，秉持建交初心、坚持正确相处之道；在务实合作中促进互利共赢；在传承友好中筑牢民意基础；在交流互鉴中实现共同发展。展望未来，中澳应本着平等相待、求同存异、互利合作精神，落实两国领导人共识，推动双边关系良性循环、稳中有进、向上发展。</p>
-<p>高志磊祝贺中华人民共和国成立77周年，欢迎刘劲松大使抵澳履新。他表示，持续构建稳定、建设性的双边关系符合澳中两国共同利益，阿尔巴尼斯总理期待出席在华举行的亚太经合组织第三十三次领导人非正式会议。高志磊并代表澳政府就中尼边境泥石流灾害表示慰问。</p>
-<p>现场气氛融洽友好，中澳艺术家联袂表演精彩的文艺节目。来宾们欢迎刘劲松大使履新，祝愿中澳关系健康发展。(完)</p>
-<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
-<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
-<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
-<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
-<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
-<p>比了76年！全世界都来上海比&quot;手艺活&quot;，比的到底是啥</p>
-<p>多地布局机器人“学校”促多元应用场景加快落地</p>
-<p>五仁月饼馅料演变史：源头可以追溯到汉代“胡饼”</p>
-<p>专访歌手周深：冀用歌声传递“来自家乡的拥抱”</p>
-<p>给古人贴标签、为名著组CP 当代网友这样理解经典？</p>
-<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
-<p>第48届世界技能大赛：“一赛两会”搭建全球技能交流平台</p>
-<p>融通全球创新资源 重庆借国际“智囊团”深化科技开放合作新局</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>名字里带“月” 的宝藏风景 你打卡过几个？</p>
-<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-25 09:14 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-25/10703575.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-026-09-25-10703567-shtml-bac3e2394c9ffbd6" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="1148" data-content-paragraphs="25" data-published-at="2026-09-25T01:13:35.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 09:13</span>
-</div>
-
-### [比利时知名艺术品收藏家“尤伦斯夫人”遭枪杀案开审](https://www.chinanews.com.cn/gj/2026/09-25/10703567.shtml)
-
-<div class="article-body" data-article-body="true"><p>中新网布鲁塞尔9月25日电 (记者 德永健)案发3年半后，比利时知名艺术品收藏家米莉亚姆·尤伦斯遭枪杀案24日开审，嫌疑人米莉亚姆·尤伦斯的继子尼古拉·尤伦斯将接受法庭审判。</p>
-<p>据比利时荷兰语国家广播电视台等媒体报道，当日在比利时首都布鲁塞尔郊外一家巡回法庭，案件正式开审。公诉人宣读了起诉书，由6名女性和6名男性组成的陪审团业已敲定。</p>
-<p>报道称，庭审将持续约两周时间，计划听取100多名证人及专家的证词。由于尼古拉·尤伦斯对枪杀米莉亚姆·尤伦斯供认不讳，庭审焦点将是其行为构成故意杀人罪还是过失杀人罪。</p>
-<p>米莉亚姆·尤伦斯生前是比利时亿万富翁盖伊·尤伦斯的妻子，尼古拉·尤伦斯是盖伊·尤伦斯与前妻所生之子，即米莉亚姆·尤伦斯的继子。2023年3月，尼古拉·尤伦斯来到尤伦斯夫妇家中，对米莉亚姆·尤伦斯连开数枪致其身亡，盖伊·尤伦斯幸免于难。</p>
-<p>事后尼古拉·尤伦斯向警方自首，声称“一时冲动”酿成命案。比利时媒体则援引知情人士的话称，案件或牵涉尤伦斯家族财产纠纷，尼古拉·尤伦斯认为米莉亚姆·尤伦斯创建的服装品牌及旗下时装公司经营不善，损失惨重，致使尤伦斯家族的财产大幅缩水。</p>
-<p>盖伊·尤伦斯为比利时知名富商，早年接管家族生意后积累数亿欧元财产。1999年他与米莉亚姆·尤伦斯结婚后，夫妇二人在艺术品收藏界十分活跃。2007年，尤伦斯夫妇在北京798艺术区创建尤伦斯当代艺术中心，一时在中国名声大噪。2017年，两人将尤伦斯当代艺术中心转手，该中心经改组后一直经营至今。</p>
-<p>2023年3月枪杀案发生后，为尤伦斯家族形象蒙上厚重阴影。2025年4月，盖伊·尤伦斯逝世，享年90岁。(完)</p>
-<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
-<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
-<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
-<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
-<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
-<p>比了76年！全世界都来上海比&quot;手艺活&quot;，比的到底是啥</p>
-<p>多地布局机器人“学校”促多元应用场景加快落地</p>
-<p>五仁月饼馅料演变史：源头可以追溯到汉代“胡饼”</p>
-<p>专访歌手周深：冀用歌声传递“来自家乡的拥抱”</p>
-<p>给古人贴标签、为名著组CP 当代网友这样理解经典？</p>
-<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
-<p>第48届世界技能大赛：“一赛两会”搭建全球技能交流平台</p>
-<p>融通全球创新资源 重庆借国际“智囊团”深化科技开放合作新局</p>
-<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
-<p>人体也能带电？物理老师现场演示静电飞花原理</p>
-<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
-<p>名字里带“月” 的宝藏风景 你打卡过几个？</p>
-<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【中新社 (国际实时原版)】于 2026-09-25 09:13 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#中新社</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-25/10703567.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-world-2192497-4a62594769674884" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="297" data-content-paragraphs="4" data-published-at="2026-09-25T01:04:27.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/tass.svg" class="source-icon" alt="TASS (塔斯社官方英文)" width="16" height="16" /> <strong>TASS (塔斯社官方英文)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 09:04</span>
-</div>
-
-### [勒庞建议法国不要与俄罗斯卷入冲突](https://tass.com/world/2192497)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Le Pen advises France against entering conflict with Russia</div>
-
-<div class="article-body" data-article-body="true"><p>塔斯社布鲁塞尔9月25日电 法国国民联盟党总统候选人、国民议会党团领袖玛丽娜·勒庞警告巴黎方面，不要与依然是核大国的俄罗斯发生冲突。</p>
-<p>“我想提醒大家，俄罗斯是一个核大国，”勒庞在接受《政客》（Politico）采访时表示，“我不希望法国与任何核大国开战。”</p>
-<p>她回顾了法国拿破仑时代政治家夏尔·塔列朗提出的警告，塔列朗曾表示：“我有一千种方法可以把俄罗斯熊引出它的洞穴，但我却找不到任何一种方法能让它退回去。”</p>
-<p>俄罗斯总统新闻秘书德米特里·佩斯科夫于9月21日表示，针对国民联盟党领导人玛丽娜·勒庞和若尔丹·巴尔代拉声称莫斯科正威胁巴黎以试图改变其政策的言论，俄罗斯表示强烈反对并予以驳斥。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【TASS (塔斯社官方英文)】于 2026-09-25 09:04 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TASS</span>
-</div>
-
-<div class="news-card-footer"><a href="https://tass.com/world/2192497" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TASS (塔斯社官方英文)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-comms-pr-brad-smith-cela-99ff6e3fec1ed6bf" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1660" data-content-paragraphs="20" data-published-at="2026-09-24T22:08:22.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 06:08</span>
-</div>
-
-### [微软任命布拉德·史密斯负责传播事务](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Microsoft puts Brad Smith in charge of communications</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2268973139.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="微软任命布拉德·史密斯负责传播事务" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该话题的文章将添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>微软的传播事务正在转移至法律与公司事务部门。</p>
-<p>该作者的文章将添加到您的每日电子邮件文摘和主页动态中。</p>
-<p>查看汤姆·沃伦（Tom Warren）的所有文章</p>
-<p>微软正在将其传播团队从市场营销部门移出，并入其企业、外部及法律事务（CELA）部门。这一出人意料的调整将由微软副董事长兼总裁布拉德·史密斯（Brad Smith）统管传播业务，与此同时，公司正在物色接替首席传播官弗兰克·肖（Frank Shaw）的人选，后者将于今年晚些时候离职。</p>
-<p>微软首席执行官萨蒂亚·纳德拉（Satya Nadella）在宣布传播架构调整的内部备忘录中感谢肖“为微软所做的一切”。肖本月早些时候宣布，在为微软的传播工作服务近三十年后，他即将离开微软。</p>
-<p>全球公共事务副总裁布伦特·科尔伯恩（Brent Colburn）已被任命为临时传播主管，以协助应对纳德拉所称的“一个日益碎片化且前所未有嘈杂的媒体环境”。纳德拉还表示，他“对有机会帮助我们的工程师、销售人员、合作伙伴以及其他最接近我们产品和客户的人员在讲述我们的故事方面发挥更大作用而感到兴奋”。</p>
-<p>正如GeekWire所指出的，这听起来非常类似于人工智能初创公司的运作方式——在OpenAI和Anthropic等公司，研究人员主导演示和博客文章。微软人工智能首席执行官穆斯塔法·苏莱曼（Mustafa Suleyman）表示，微软一直在紧随谷歌、Anthropic和OpenAI的步伐，以“成为全球四大顶级实验室之一”。今年早些时候在接受The Verge采访时，苏莱曼曾表示，他希望微软“构建全世界最顶尖的前沿模型”。</p>
-<p>从首席营销官沼本健（Takeshi Numoto）手中接管传播业务的布拉德·史密斯，通常是微软政策和公司传播的公开代言人。史密斯在全球各地奔走，与各国政府、监管机构和微软客户会面。目前尚不清楚今年晚些时候谁将永久接任肖的职位，但微软正在同时考察内部和外部候选人。</p>
-<p>以下是萨蒂亚·纳德拉的备忘录全文：</p>
-<p>对微软而言，传播从未像现在这般重要。公司在变，我们的行业在变，我们周围的世界也在变。在一个日益碎片化且前所未有嘈杂的媒体环境中，我们需要继续立足于我们的使命，每天赢得信任，并寻找新途径与我们所有的利益相关群体直接沟通。</p>
-<p>我首先要感谢弗兰克为微软所做的一切。在过去的17年多时间里，他为公司和我们的传播职能做出了巨大贡献。在公司经历各大关键时刻时，他都是我们领导团队以及我个人的重要顾问来源。</p>
-<p>随着弗兰克准备开启人生下一篇章，沼本健、布拉德和我一直在讨论公司传播职能的演进。我已经邀请布拉德今后领导传播部门。很少有领导者能像布拉德那样真实地代表微软的发声。他对我们的业务有着深刻的理解，与我们的利益相关方保持着紧密联系，并具备罕见的能力，能够以清晰、坚定且令人信服的方式传达复杂的思想。</p>
-<p>在此过渡期间，布伦特·科尔伯恩将继续向布拉德汇报，并自即日起担任我们的临时传播主管。传播领导团队将向布伦特汇报，而弗兰克将继续在过渡期间为布拉德和布伦特提供建议。</p>
-<p>在很多方面，最接近一线工作的人最有机会去塑造外界对微软的理解。我们需要为全公司的人员提供工具和支持，以做好这项工作。我非常期待能有机会帮助我们的工程师、销售人员、合作伙伴以及其他最接近我们产品和客户的人员，在共同的战略和准则凝聚下，在讲述我们自身故事中发挥更为重要的作用。你们每个人在实现这一目标的过程中都扮演着至关重要的角色。</p>
-<p>我们即将迎来一个令人兴奋的秋季，届时将有一系列重要节点与活动陆续展开，并有出色的市场营销作为后盾。这是一个以全新方式将我们的产品故事、市场营销与传播整合起来的绝佳契机。</p>
-<p>我们将不断学习、实验并演进。关于传播，有一种从根本上全新的思考方式，而这个团队将在构建这种方式中发挥核心作用。</p>
-<p>感谢大家为微软所做的一切，也感谢你们每个人在讲述我们的故事中所承担的角色。</p>
-<p>免费每日重要新闻文摘。</p>
-<p>这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-25 06:08 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-item-b7a60ac418578a94" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="614" data-content-paragraphs="7" data-published-at="2026-09-24T21:33:03.000Z" data-time-source="publication">
+<div id="story-antivirus-sandbox-part-2-5b99ba2e157ec4e5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6624" data-content-paragraphs="51" data-published-at="2026-09-25T07:03:46.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 05:33</span>
+  <span class="news-meta-time">🕒 2026-09-25 15:03</span>
 </div>
 
-### [Show HN: Koi.rest —— 来看会儿鱼，找回内心的平静](https://koi.rest/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: Koi.rest – watch some fish and regain your balance</div>
+### [CVE-2025-13032：进入并攻破 Avast 杀毒软件沙箱（第二部分）](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
+<div class="original-title-sub"><span class="orig-tag">原文</span> CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2</div>
 
-<div class="article-body" data-article-body="true"><p>我叫保罗（Paul）。我是一名开发者、探索者，同时也是一名注意力缺陷多动障碍（ADHD）患者。从八月初开始，我也加入了失业大军。失业这件事，加上过去一年里发生的所有其他事情，给我带来了巨大的压力。</p>
-<p>虽然我们阳台禅意花园的项目尚未完工，但我产生了一个想法：打造一个所有人都能使用的虚拟花园。遗憾的是，这个想法被我搁置了挺长一段时间，主要是因为我根本不知道该怎么做——我不会 JavaScript，眼下也没有精力去学。于是我陷入了“过分追求完美反而一事无成”的怪圈，好吧……就把这个想法一直憋在了心里。</p>
-<p>后来我想：“管他呢”，直接借助 AI 做出了我真正想做的东西。我意识到自己需要的不是“完美”，而是“足够好”。我反复微调、增加、删减、绘制、调研、提问、测试……我只是没有亲自编写代码而已。现在，它不再只是占据我的大脑，而是呈现在了互联网上，供大家欣赏体验。</p>
-<p>是的，完全凭一己之力做出某样东西确实有某种崇高的意味，但一个仅停留在脑海里的想法又能有什么用呢？所以，我来了。我做出了这个作品。这个奇特、小巧、静谧的锦鲤池。这个出于热爱的傻气小项目。互联网上一方能让陌生人安安静静一同观鱼的小角落。</p>
-<p>我希望这个小池塘带给你的帮助，能像带给我的那样多。</p>
-<p>又及：是的，我目前仍在找工作！如果你觉得能帮上忙，欢迎联系我：</p>
-<p>欢迎来到小池塘——一个找回内心平静的安宁之所。你看到的锦鲤就是和你一同造访池塘的其他人，你想停留多久都可以。</p></div>
+<div class="article-body" data-article-body="true"><p>本文是我们关于 Avast 杀毒软件研究的第二部分，也是最后一部分，详细介绍了在当时最新的 Windows 11 系统上针对 CVE-2025-13032 的完整利用过程。从第一部分介绍的“双重获取”（double-fetch）漏洞出发，我们将逐步演示如何通过破坏 IORing 对象的 RegBuffers 数组，将可控的分页池（paged pool）溢出转化为任意内核读/写原语。本文涵盖了堆喷射策略、通过 MDL 自省泄漏内核地址、避免在清理退出时发生蓝屏所需的修复措施，以及最终通过令牌窃取提权至 SYSTEM 权限的过程。</p>
+<p>这篇博文是我们 Avast 研究的第二部分，也是最后一部分，重点介绍 CVE-2025-13032 的漏洞利用，这是我们在 Avast 内核驱动程序中发现的一个双重获取漏洞。</p>
+<p>本文回顾了该缺陷，并逐步演示了我们在发现该漏洞时最新的 Windows 11 系统上是如何对其进行利用的。</p>
+<p>如果您错过了第一部分，欢迎阅读第一部分 → https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-1</p>
+<p>注意：在最新版本中，Windows 内核和驱动程序开始使用用户模式访问器（user-mode accessors，https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/user-mode-accessors）来验证内核对用户模式内存的每次访问，并在每次访问时确保用户缓冲区确实位于用户空间。这一缓解机制将阻止本篇分析中所描述的利用技术的生效，更多细节请参见 https://www.youtube.com/watch?v=ry4SNYe2f68。</p>
+<p>我们想要利用的缺陷是一个会导致内核池溢出的双重获取问题。</p>
+<p>下面展示的代码片段本应捕获用户提供的 `_UNICODE_STRING` 结构体，但用户输入的 `Length` 字段被多次获取，从而引发了双重获取问题。</p>
+<p>第一次获取用于分配用于复制字符串的缓冲区，第二次获取则用于根据检索到的数值执行 memcpy 操作；如果用户在这两次操作之间修改了该值，就会导致池溢出。</p>
+<p>为了利用这个双重获取漏洞，第二个线程在紧凑的循环中运行，不断在较小的安全值与较大的恶意值（例如 `0x1000`，大于已分配的缓冲区）之间来回切换共享 `_UNICODE_STRING` 的 `Length` 字段。主线程则循环调用存在漏洞的 IOCTL。当时间窗口契合时——即内核在调用 `ExAllocatePoolWithTag` 时读取到的 `Length` 较小，而在调用 `memmove` 时读取到的 `Length` 较大——复制的字节数就会超过已分配的字节数，从而产生池溢出。竞态窗口虽然狭窄，但在适度的迭代次数内即可稳定触发。</p>
+<p>我们的目标是利用这种池溢出来获取任意内核读/写原语，并实现本地权限提升。该缺陷为我们提供了良好的利用条件：溢出目标为 `PAGED_POOL`，分配大小和溢出大小均可控，溢出的内容同样可控。</p>
+<p>分页池是 Windows 内核内存的一个区域，用于存放内核或驱动程序所需、但可以被换出到磁盘的对象和数据。它用于存储无需由高优先级运行的关键代码访问的内存。分配器按大小类别（size class）对分配进行分组，这意味着相同大小的对象在内存中往往会紧邻存放——这一特性使得堆喷射成为可能。</p>
+<p>自 Windows 10 19H1 起，这部分由段堆（Segment Heap）处理，它使用两种后端：用于小分配的 LFH（它会在对应大小的桶内随机挑选空闲插槽），以及用于较大分配的 VS 分配器（它会提供相应大小的第一个可用内存块）——每种后端都需要不同的喷射策略。我们还可以注意到，大多数 Windows 对象都存储在分页池中，这为我们在选择破坏目标时提供了大量候选对象。在下一节中，我们将解释我们选择了哪个对象以及做出该选择背后的原因。</p>
+<p>有关 Windows 内存池工作原理的更多信息，可以参考 Synacktiv 的论文《Scoop the Windows 10 pool!》（https://www.sstic.org/media/SSTIC2020/SSTIC-actes/pool_overflow_exploitation_since_windows_10_19h1/SSTIC2020-Article-pool_overflow_exploitation_since_windows_10_19h1-bayet_fariello.pdf）。</p>
+<p>I/O 环对象（I/O Ring Object）是维护一个用于异步执行 I/O 操作的提交队列的对象。</p>
+<p>我们选择该对象作为破坏目标有几个原因。虽然 IORing 对象本身位于 `NON_PAGED_POOL`（非分页池）中，但其 `RegBuffers` 字段分配在 `PAGED_POOL`（分页池）中，这与发生溢出的内存池直接契合。</p>
+<p>第三，破坏该数组中的单个指针就足以获得完全的任意读/写原语——无需破坏更为复杂的结构体。</p>
+<p>最后，I/O 环对象此前已被公开用于实现完全相同的目标，这验证了该技术的可行性，并为我们的方法提供了坚实的参考依据。<br />（https://windows-internals.com/one-i-o-ring-to-rule-them-all-a-full-read-write-exploit-primitive-on-windows-11/）</p>
+<p>用户态提供了多个可用于操作该对象的 API，以下是其中的一部分：<br />- BuildIoRingReadFile<br />- BuildIoRingWriteFile</p>
+<p>`Build.*` API 用于构建需要通过 `SubmitIoRing` API 提交的条目。</p>
+<p>下面是 `_IORING_OBJECT` 和 `_IOP_MC_BUFFER_ENTRY` 结构体：</p>
+<p>下图展示了该结构体在内存中的布局：`RegBuffers` 是一个指针数组，其中每个 `RegBuffers[i]` 指向一个包含 `Address` 字段的 `_IOP_MC_BUFFER_ENTRY` 结构体，内核将该字段用作 I/O 操作的目标地址：</p>
+<p>我们的计划是重定向某个 `RegBuffers` 条目，使其指向我们在用户态完全受控的伪造 `_IOP_MC_BUFFER_ENTRY` 结构体。当内核使用该条目执行 I/O 操作时，它将直接解引用我们的伪造结构体——从用户态读取 `Address` 字段并将其用作读/写目标。这之所以能够实现，是因为 Windows 未启用 SMAP（管理模式访问预防，Supervisor Mode Access Prevention），否则该机制会阻止内核解引用指向用户态内存的指针。</p>
+<p>有了这个伪造的条目，两种 IORing 操作就成为了我们的读/写原语：<br />`IoRingReadFile` 从文件读取内容并写入 `RegBuffers[i].Address`——使其成为我们的任意内核写原语：<br />`IoRingWriteFile` 从 `RegBuffers[i].Address` 读取内容并写入文件——使其成为我们的任意内核读原语：</p>
+<p>具体而言：要对地址 X 执行任意内核写入，只需将伪造的 `BufferEntry` 的 `Address` 字段设置为 X，并提交一个 `IoRingReadFile` 操作——内核便会将读取的数据直接复制到地址 X 处的内存中。要从地址 Y 读取数据，只需将 `Address` 设置为 Y 并提交一个 `IoRingWriteFile` 操作——内核会从 Y 读取数据并写入输出文件，随后我们便可从用户态获取该数据。在这两种情况下，只需更新驻留在我们用户态的伪造条目中的 `Address` 字段，便足以重定向该操作。</p>
+<p>为了让我们的堆溢出恰好落在一个 `RegBuffers` 分配上，我们采用了以下喷射（spray）策略。所需设置极简：针对我们想要定位的每个 `RegBuffers` 结构，仅需要一个 IORing 对象。</p>
+<p>喷射本身非常简单：我们分配大量的 `RegBuffers` 结构，释放其中的一部分以制造合适大小的空洞（holes），然后触发漏洞，使我们发生溢出的分配落入其中一个空洞中，从而破坏相邻的条目。</p>
+<p>它在内存中的表现如下：<br />1. 分配大量的 `RegBuffers` 结构<br />2. 释放其中的一部分<br />3. 分配我们的 Unicode 字符串<br />4. 同时触发破坏</p>
+<p>自此，我们获得了一个被破坏的 `RegBuffers` 条目——堆溢出已经成功，并且我们的任意读写原语（primitive）也已就位。下一步是获取一个内核地址以作为读写目标。</p>
+<p>此时我们已经拥有了任意读写原语，但需要一个内核目标地址——具体来说是我们自己的 `_EPROCESS` 地址，我们将利用它来窃取 SYSTEM 进程令牌（token）。</p>
+<p>下图展示了破坏后各个结构的状态：</p>
+<p>由于我们破坏了 `RegBuffers[0]` 内部的指针——将其重定向到了位于我们自己进程内存中的伪造 `_IOP_MC_BUFFER_ENTRY`，因此我们只需从用户态对其进行写入，便可随时修改该伪造条目的 `Address` 字段。完全无需再次触发该漏洞。</p>
+<p>我们的任意读写原语已可正常运作，但它需要一个目标内核地址。由于内核地址是随机化的，无法从用户态直接预测，因此我们需要泄露一个内核地址——具体来说是我们自身 `_EPROCESS` 结构的地址，稍后我们将用它来篡改我们的进程令牌。</p>
+<p>（https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/using-mdls）<br />内存描述符列表（MDL）是一种内核结构，通过锁定其物理页面来描述一段虚拟内存范围。当内核需要安全地对用户态缓冲区进行操作时（例如对其执行 I/O），它会为该缓冲区创建一个 MDL，从而固定底层物理页面，使其在操作期间不会被换出（paged out）或重新映射。因为 MDL 描述的是用户态地址，所以内核需要跟踪是哪个进程拥有该内存，因此 MDL 会在其 Process 字段中存储一个指向所属进程 _EPROCESS 结构的指针：</p>
+<p>在我们的案例中，当被破坏的 BufferEntry 指向用户态地址并且我们触发 IORing 操作时，内核会创建并挂载一个 MDL 到我们的 BufferEntry 上以映射该地址。由于 BufferEntry 本身现在位于用户态（这是我们破坏的结果），我们可以直接从自己的进程中读取其 Mdl 字段。然后，我们使用任意读原语解引用该 MDL 指针并提取出 Process 字段——从而为我们提供了自身进程的有效 _EPROCESS 指针，这正是我们后续进行权限提升所需的全部内容。</p>
+<p>泄露过程分为四步：<br />(1) `RegBuffers[0]` 现在指向位于已知用户态地址的伪造 `_IOP_MC_BUFFER_ENTRY`。<br />(2) 我们触发一次 IORing 操作——内核为我们的用户态缓冲区创建一个 MDL，并将其指针写入我们伪造条目的 `Mdl` 字段。<br />(3) 由于伪造条目位于我们自己的进程内存中，我们无需任何内核原语即可直接从用户态读取该 `Mdl` 指针。<br />(4) 我们将伪造条目的 `Address` 字段设置为该 MDL 地址，触发另一次操作，并从 MDL 中读取 `Process` 字段——从而获得有效的 `_EPROCESS` 指针。</p>
+<p>此时，我们同时拥有了任意读/写原语以及内核地址泄露。然而，在进行权限提升之前，我们需要修复损坏的状态——若在不清理的情况下释放 IORing 对象，将导致系统崩溃。</p>
+<p>在溢出期间，我们破坏了池块头（pool chunk header）中的一个重要字段：`ProcessBilled` 字段，该字段存储了指向负责该分配的进程的指针。如果不加以修正，在释放该块时将会触发蓝屏。</p>
+<p>ProcessBilled 的值是一个经过混淆的 `EPROCESS` 指针，其计算方式如下：<br />`ChunkAddress` 是被损坏的池块头的地址，位于我们已知的 `RegBuffers` 指针前方已知的负偏移量处。</p>
+<p>然后，我们计算出损坏块的正确 `ProcessBilled`，并使用任意写原语将其写回。</p>
+<p>掌握了计算公式后，剩下的步骤是在内存中定位被破坏的 IORing 对象本身，以便我们能够应用修复。</p>
+<p>我们通过解析位于 `_EPROCESS` 结构中的自身进程句柄表来定位 IORing 对象，遵循与 `ExpLookupHandleTableEntry` 相同的逻辑来检索句柄表条目，然后使用与 `ExGetHandlePointer` 相同的公式将其转换为对象指针。</p>
+<p>当我们获得泄露时，一个指向位于用户态的缓冲区条目的引用会被存储在内核中，这将导致内核在拆卸清理（teardown）期间尝试处理它时发生崩溃。</p>
+<p>修复方法是释放 `RegBuffers` 注册项。这会导致内核在拆卸清理过程中清理关联的 MDL，从而解决该残留引用。直接释放 MDL 是不够的——MDL 的释放是释放 `RegBuffers` 条目带来的结果，而非独立的操作。然而，释放该注册项又会引发另一个问题，具体如下所述。</p>
+<p>由于我们破坏了一个缓冲区条目，内核在关闭对象时将尝试释放我们的用户态指针。</p>
+<p>解决该问题的方法很简单，只需增加我们伪造缓冲区条目的引用计数即可。</p>
+<p>这可以防止在 IORing 拆卸清理期间内核引用计数归零，从而永远不会针对我们的用户态指针调用相应的释放函数。</p>
+<p>为了提升权限，我们窃取 SYSTEM 进程的令牌。利用任意读原语，我们遍历 `EPROCESS` 双向链表以定位 SYSTEM 进程条目并读取其 `Token` 字段。然后，我们使用任意写原语将自身 `EPROCESS` 的 `Token` 字段覆盖为 SYSTEM 令牌值，从而赋予我们进程 SYSTEM 级别的权限。</p>
+<p>在这篇文章中，我们展示了针对最新 Windows 11 系统的完整本地提权漏洞利用，利用的是 CVE-2025-13032 —— Avast 内核驱动程序中的一个双重提取（double-fetch）漏洞。我们从 PAGED_POOL 中受控的堆池溢出开始，使用 IORing 对象的 RegBuffers 数组作为破坏目标，将单个被覆盖的指针转化为任意内核读/写原语。从那里，我们通过附加到已损坏 BufferEntry 的 MDL 泄露了 _EPROCESS 指针，修复了池分配标头以避免在销毁时崩溃，并通过窃取 SYSTEM 进程令牌完成了特权提升。</p>
+<p>CVE-2025-13032 此后已得到修补。我们建议所有用户确保其 Avast 安装已更新至最新版本。完整的披露时间线已在本研究的第一部分中详细说明。</p>
+<p>如果您错过了本研究的第一部分（涵盖了漏洞发现和沙箱逃逸），可以在这里找到：CVE-2025-13032 —— 进入并突破 Avast 杀毒软件沙箱（第一部分）。</p>
+<p>您可能还喜欢的更多内容<br />SAFA 在 Avast Antivirus 中发现了四个不同的内核堆溢出漏洞。我们的研究针对 aswSnx 内核驱动程序，首先需要进行有趣的沙箱操纵以触及攻击面。CVE-2025-13032 已分配给这些已修补的漏洞。第一篇博文介绍了这些漏洞以及自定义沙箱配置文件的挑战。后续博文将详细介绍如何利用该原语实现提权至 System 的本地提权。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-25 05:33 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>CVE-2025-13032 是 Avast 内核驱动程序中发现的一个 double-fetch（双重提取）漏洞。</li>
+    <li>研究人员在当时的最新 Windows 11 系统上成功利用了 CVE-2025-13032 漏洞。</li>
+    <li>来源叙事重点：详细解析 Avast 杀毒软件内核驱动中的 double-fetch 漏洞（CVE-2025-13032），展示如何结合 Windows 堆风水、IORing 对象破坏与 MDL 泄露实现稳定的内核任意读写及 SYSTEM 权限提升，并说明最新 Windows 防护机制对其有效性产生的影响</li>
   </ul>
 </div>
 
@@ -463,45 +301,146 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://koi.rest/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-rous-part-of-pipefitting-18f34bb3baddef91" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1785" data-content-paragraphs="16" data-published-at="2026-09-24T20:45:00.000Z" data-time-source="publication">
+<div id="story-cane-season-pacific-html-8dbe58d22822557e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1984" data-content-paragraphs="26" data-published-at="2026-09-25T07:42:22.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
+    <span class="stance-badge">前沿同行评议严谨</span>
+    <span class="dimension-pill">🔬 深空与基础科学</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 15:42</span>
+</div>
+
+### [太平洋飓风季异常猛烈且远未结束](https://phys.org/news/2026-09-intense-hurricane-season-pacific.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> It&#39;s been an intense hurricane season in the Pacific and there&#39;s still a long way to go</div>
+
+<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/its-been-an-intense-hu.jpg" alt="太平洋飓风季异常猛烈且远未结束" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>由安德鲁·齐宁（Andrew Zinin）编辑<br />本文已根据 Science X 的编辑流程与政策完成审核。编辑在确保内容可信度的同时强调了以下特征：<br />信誉良好的通讯社</p>
+<p>太平洋已经经历了一个异常猛烈的飓风季——而且距离本季结束还有相当长的一段路要走。</p>
+<p>最近几周，热带风暴如同流水线般接连生成。6月份显现的厄尔尼诺现象导致海水温度高于常年，在世界大部分地区引发了一连串异常天气。</p>
+<p>“它正逐渐演变为有记录以来最强烈的厄尔尼诺现象之一，”迈阿密大学飓风专家布赖恩·麦克诺尔迪（Brian McNoldy）表示。</p>
+<p>东太平洋的飓风数量已经超过了典型飓风季的水平。仅在本周，飓风“波洛”（Polo）在4级和5级强度之间徘徊时，就令墨西哥太平洋沿岸大雨倾盆。而在饱受风暴侵扰的夏威夷，不断增强的飓风“诺洛”（Nolo）有可能带来灾难性洪灾。</p>
+<p>在厄尔尼诺期间，横穿太平洋自东向西吹袭的低层地面风会减弱甚至出现逆转。这会导致急流发生偏移，并引发创纪录的全球高温、严重干旱、野火以及水资源短缺。</p>
+<p>厄尔尼诺的发生并不遵循固定的周期，平均每两到七年出现一次。有些相对温和，有些则威力十足。麦克诺尔迪预测，当前的厄尔尼诺将在即将到来的冬季达到顶峰，但其影响将持续至2027年。</p>
+<p>“它不会一下子就消失，”他说。</p>
+<p>尽管人们的注意力主要集中在太平洋风暴数量的增加上，但厄尔尼诺反过来又抑制了大西洋的飓风活动：今年大西洋的热带天气活动几乎是一片沉寂。</p>
+<p>美国国家海洋和大气管理局（NOAA）国家气象局首席飓风季预报员马修·罗森克兰斯（Matthew Rosencrans）表示，得益于厄尔尼诺现象，在飓风季还剩两个多月的情况下，截至目前东太平洋和中太平洋的热带风暴生成数量均比常年多出4个。</p>
+<p>从1991年至2020年，东太平洋每个飓风季平均有15个命名风暴，该飓风季从5月15日持续至11月30日。</p>
+<p>但在9月份就超过了全年平均水平？“那完全是另一回事了，”罗森克兰斯说。</p>
+<p>他还提到，在今年厄尔尼诺助推的风暴中，另一个独特之处在于已有3个太平洋飓风达到了5级强度，追平了2002年创下的纪录——当时同样处于厄尔尼诺时期。</p>
+<p>罗森克兰斯说，东太平洋有记录以来最活跃的飓风季是1992年，当时出现了25个命名风暴。而对于中太平洋而言，纪录出现在2015年，当时有14个。</p>
+<p>2015年东太平洋出现了9个3级或以上的强飓风，但未有人员伤亡报告。预报员表示，由于厄尔尼诺的影响，东太平洋风暴生成位置更偏西，移动路径也更偏西，在整个生命周期中都停留在开阔洋面上。</p>
+<p>在1997年另一次强烈的厄尔尼诺期间，飓风“保琳”（Pauline）席卷墨西哥太平洋沿岸，导致数百人死亡。同年，热带风暴“诺拉”（Nora）给内陆的亚利桑那州西南部带来罕见的透雨。12月南加利福尼亚州的一场风暴引发洪灾，不仅将汽车冲入排水渠，还促使部分活动房屋园区进行人员疏散。</p>
+<p>1998年，厄尔尼诺被指导致了中国发生洪灾，造成4,150人遇难，其中大部分集中在长江流域。</p>
+<p>夏威夷在过去一个月中遭受了两次飓风的肆虐。8月的“拉拉”（Lala）和9月初的“洛厄尔”（Lowell）共摧毁或损坏了510多栋房屋，并对公共基础设施造成了1.68亿美元的损失。“拉拉”还对38所学校造成了2,150万美元的破坏。</p>
+<p>周四夜间增强为飓风的“诺洛”预计将成为接踵而至的第三个飓风。预报员称，该风暴给夏威夷带来的降雨量可能会以英尺（而非英寸）来计量。</p>
+<p>最重要的是，3月份的暴雨引发了夏威夷二十年来最严重的洪灾。随后5月又发生了6.0级地震，促使州长乔希·格林（Josh Green）感慨道，今年“与我记忆中的任何一年都截然不同”。</p>
+<p>1957年，曾有两个飓风逼近至夏威夷200英里（320公里）范围内，但在随后的半个多世纪里再未发生过此类情况。随后在2014年、2016年和2018年均发生过这种情况，直至今年预计将迎来“三连击”。</p>
+<p>气象学家通常担心“防灾疲劳”——即社区为最终并未袭来或强度未达预期的风暴做好防备后所产生的倦怠。但气象局预警协调气象学家约翰·布拉文德（John Bravender）表示，2026年给夏威夷带来的是一种截然不同的疲惫感。</p>
+<p>“事实是，破坏性影响接二连三地发生，而当我们还在努力恢复时，又不得不为下一次事件做准备——这种新的情况极大地消耗了资源，并造成了一种普遍感受：对我们来说，这是一个极其繁忙的飓风季，”他说。</p>
+<p>居民们清楚相关风险，并且正越来越习惯于做好准备。</p>
+<p>“我认为社区居民已经意识到天气可能有多危险，认识到自给自足、储备食物和水以及照顾邻里是多么重要，”布拉文德说。</p>
+<p>物理学硕士并拥有科研经验。长期关注科学新闻的热衷者。在 Science X 的编辑成就中发挥关键作用。查看完整简介 →</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>厄尔尼诺现象于6月出现，导致海水温度高于正常水平，引发全球多地异常天气。</li>
+    <li>东太平洋的飓风数量已超过典型季度的水平；飓风波洛（Polo）在4级和5级之间波动，并浸湿了墨西哥太平洋沿岸。</li>
+    <li>来源叙事重点：聚焦2026年超强厄尔尼诺现象对太平洋极端飓风季的催化机制，重点展现夏威夷和墨西哥沿海面临的连锁自然灾害、历史性极端强度纪录及地方社区因连续受灾出现的防御疲劳</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#深空与基础科学</span>
+  <span class="news-tag-pill">#Phys.org</span>
+</div>
+
+<div class="news-card-footer"><a href="https://phys.org/news/2026-09-intense-hurricane-season-pacific.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-r-cluster-omega-centauri-89137d4be7927727" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="810" data-content-paragraphs="1" data-published-at="2026-09-25T04:05:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nasa.svg" class="source-icon" alt="NASA News (深空探索与航天)" width="16" height="16" /> <strong>NASA News (深空探索与航天)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🔬 深空与基础科学</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 12:05</span>
+</div>
+
+### [每日天文一图：2026年9月25日——球状星团半人马座欧米伽](https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> APOD: 2026 September 25 – Globular Star Cluster Omega Centauri</div>
+
+<div class="article-cover"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/NGC5139CadenasParra.jpg?w=2048&amp;#038;h=1542&amp;#038;fit=clip&amp;#038;crop=faces%2Cfocalpoint" alt="每日天文一图：2026年9月25日——球状星团半人马座欧米伽" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>每日天文一图：2026年9月25日——……<br />每日天文一图（Astronomy Picture of the Day）<br />探索宇宙！每天都会展示一张我们迷人宇宙的不同影像或照片，并配有专业天文学家撰写的简短说明。<br />球状星团半人马座欧米伽（Omega Centauri）<br />说明：球状星团半人马座欧米伽将约1000万颗远比太阳古老的恒星聚集在直径约150光年的空间内。它也被称为NGC 5139，距离地球15,000光年，是在我们银河系银晕中漫游的约200个已知球状星团中最大、最亮的一个。虽然大多数星团都是由年龄和成分相同的恒星组成，但神秘的半人马座欧米伽却展现出存在不同恒星族群的特征，具有不同的年龄跨度和化学丰度。事实上，半人马座欧米伽可能是一个与银河系发生合并的小星系残留的核心。在这幅清晰的望远镜视野中，半人马座欧米伽那些泛着微黄色调的红巨星很容易被分辨出来。利用哈勃太空望远镜对该致密星团长达二十年的探索，已经揭示了半人马座欧米伽中心附近存在大质量黑洞的证据。<br />每日天文一图（APOD）接收投稿的电子邮箱已变更。请参阅：APOD投稿页面。<br />每日天文一图的NASA主网站正在迁移：从 apod.nasa.gov 迁移至 science.nasa.gov/apod<br />明天的图片：星夜倒影<br />致谢与版权：<br />哈维尔·O·卡德纳斯·帕拉（Javier O. Cadenas Parra）<br />作者与编辑：<br />杰里·邦内尔（Jerry Bonnell）、塞西莉亚·奇伦蒂（Cecilia Chirenti）、罗伯特·内米罗夫（Robert Nemiroff）、凯斯利·罗克利夫（Keighley Rockcliffe）<br />NASA科学激活项目（NASA Science Activation）与密歇根理工大学（Michigan Tech. U.）<br />随机APOD生成器<br />昨日图像<br />APOD：2026年9月24日——五颗超新星的幽灵<br />明日图像</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>球状星团半人马座欧米伽（Omega Centauri，又称 NGC 5139）在直径约150光年的空间内聚集了约1000万颗年龄远大于太阳的恒星。</li>
+    <li>半人马座欧米伽距离地球约15000光年，是银河系银晕中已知约200个球状星团中最大且最明亮的一个。</li>
+    <li>来源叙事重点：通过高清晰度天文摄影展示半人马座欧米伽（Omega Centauri）球状星团的视觉特征，并科普其作为银河系最大星团的特殊天体物理属性（如多样化恒星族群、中心疑似存在大质量黑洞及其可能为矮星系并入银河系残核的假说）。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#深空与基础科学</span>
+  <span class="news-tag-pill">#NASA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NASA News (深空探索与航天)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-cusing-on-early-stage-ai-ff3979163f0a6a79" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1912" data-content-paragraphs="21" data-published-at="2026-09-25T05:00:00.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 04:45</span>
+  <span class="news-meta-time">🕒 2026-09-25 13:00</span>
 </div>
 
-### [Nexterity希望将管道装配中最艰难、最危险的环节实现自动化](https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Nexterity wants to automate the hard, dangerous part of pipefitting</div>
+### [光速创投拟为印度新基金募资2.5亿美元，重点押注早期AI领域](https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Lightspeed targets $250M for new India fund, focusing on early-stage AI</div>
 
-<div class="article-body" data-article-body="true"><p>林赛·埃利奥特（Lindsey Elliott）对螺栓情有独钟。在去年的螺栓紧固研讨会（Bolting Symposium，第13届年会）上，她说最精彩的部分是与现场许多自称“扭矩极客”（torque dorks）的人一起玩“螺栓宾果”游戏。</p>
-<p>作为埃克森美孚的前工程师兼规划师，埃利奥特多年来一直在思考如何改进输送石油、天然气和石化产品的基础设施。她最终将目光锁定在了螺栓上。具体而言，是连接管道各部分的螺栓（专业术语称为“螺栓法兰连接”）。松动和紧固这些螺栓需要耗费大量体力，并且是许多管道工受伤的根源。与许多技术工种一样，该领域也面临着劳动力短缺。</p>
-<p>“当被要求连续三个月每天工作12个小时时，工人们会非常疲惫，”她告诉TechCrunch。“我曾与美国各地、加拿大各地的管道工交流过，反复听到有人说北美管道安装的生产率低得惊人。”</p>
-<p>埃利奥特在其初创公司Nexterity提出的解决方案，是一款可以处理这部分工作的遥控机器人；Nexterity也是入选TechCrunch Disrupt的“初创公司战场200强”（Startup Battlefield 200）之一。这种构想如果被广泛采用，可能会从根本上改变这一特定的蓝领工种，让工人们更安全、工作更高效。</p>
-<p>可以理解为：多一点极客智慧，少一点费力扭矩（more dork, less torque）。</p>
-<p>该机器人由安装在管道周围的两个主要部件组成。在电池供电下，机器人一旦固定好就可以沿着管道滑动，并能一次性快速松动或紧固四个螺栓。</p>
-<p>埃利奥特表示，Nexterity已经开发了几种不同配置的机器人以适配不同的标准管道尺寸，但它们都足够小巧，可以装入派力肯（Pelican）安全箱并由单名工人携带。这使得它们易于部署到新工地——这种灵活性对于Nexterity将机器人视同可租赁建筑设备的商业模式至关重要。</p>
-<p>埃利奥特说，她是在过去几年的交流探讨中得出这一特定设计的——不仅是在螺栓紧固研讨会上，还包括与美国机械工程师学会（ASME）压力容器与管道分会的成员探讨。</p>
-<p>“我从那些人，也就是所谓的‘扭矩极客’那里了解到，”她说，“我们80%的管道直径都在2到8英寸之间，也就是他们所说的NPS2到NPS8。因此，当你有如此高的重复性时，它就成为了实现自动化的绝佳对象。”</p>
-<p>这是一个相当直截了当的想法，但埃利奥特认为它具有巨大的上升潜力。</p>
-<p>“我认为这个市场规模之大可能会让很多人感到震惊，”她说。“我的意思是，在日常生活中，我们大多数人不会去想管道基础设施，但即使是自来水、废水处理、水处理、食品饮料、采矿、核能，以及任何类型的绿色和可持续制造设施——它们都在使用同一种管道。”</p>
-<p>当您通过我们文章中的链接进行购买时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>高级记者，交通领域<br />肖恩·奥凯恩（Sean O&#39;Kane）是一名记者，十年来一直报道交通行业快速发展的商业和技术动态，包括特斯拉以及追随埃隆·马斯克的众多初创公司。最近，他曾担任彭博新闻社（Bloomberg News）记者，协助报道了多起关于最臭名昭著的电动汽车SPAC惨败案的新闻。他此前曾在The Verge工作，在那里他还负责报道消费技术、主持了许多长短视频、从事产品和编辑摄影，并曾在红牛特技飞行锦标赛飞机上差点昏厥过去。</p>
-<p>您可以通过发送电子邮件至 sean.okane@techcrunch.com 或通过Signal加密信息（okane.01）联系肖恩或核实其外联信息。</p>
-<p>您的下一个重大机遇尽在Disrupt。与10,000多名创始人、风险投资人、运营者和技术领袖建立联系。探索明天的突破，了解今天塑造科技的动力，并在太平洋时间9月25日晚上11:59之前享受最高200美元的优惠。</p>
-<p>Meta为其Muse AI智能体制作了一款类似拓麻歌子的可穿戴设备<br />Anthropic称其生物实验室已获得重大发现<br />PitPro首款换胎机器人已在加拿大上线<br />Anthropic发布Opus 5.5：价格更低，具备Fable级性能<br />Meta的Muse早期移动端表现超越ChatGPT同期水平<br />蒂莉·诺伍德（Tilly Norwood）的媒体巡游正如人们对AI所预期的那样顺利<br />来自ChatGPT发明者的新型AI模型令开发者兴奋不已</p></div>
+<div class="article-body" data-article-body="true"><p>光速创投（Lightspeed）正围绕人工智能（AI）收紧其印度战略，计划为一只新的早期基金筹集2.5亿美元。这家风投机构押注，在该全球最大市场之一中，AI技术将推动下一波初创企业的崛起。</p>
+<p>这家硅谷风投机构已经是Anthropic、xAI和Databricks等AI公司的重要投资者。在印度，它投资了该国领先的大语言模型开发商之一Sarvam AI，这家初创公司已被印度政府选中协助开发主权AI模型。</p>
+<p>这只名为Lightspeed India Partners V的新基金规模为其2022年募集的5亿美元前序基金的一半。根据TechCrunch查阅的周四致投资者的一封信，该基金已获得了2.5亿美元目标中80%的出资承诺。</p>
+<p>4月下旬，光速创投在提交给美国监管机构的文件中披露了这只新基金，但文件中并未指明目标规模。印度媒体此前曾报道称，该公司计划为该工具筹集3亿至3.5亿美元。</p>
+<p>信中表示，光速创投计划在两个月内开始从新基金开展投资，并围绕约两年半的投资期进行设计。在此之前，它将继续从现有基金进行最后的投资。</p>
+<p>光速创投的一位发言人拒绝置评。</p>
+<p>根据投资者信函，从这只新基金开始，光速创投还首次将其印度基金置于与其全球基金相同的募资周期中。这一变化使其近二十年前建立的区域业务与该机构其他部门的步伐更加一致。</p>
+<p>在此举之前，其竞争对手Accel也采取了类似的调整。Accel在8月为其最新的5.5亿美元印度基金完成了募资，同时完成募集的还有新的美国和欧洲基金以及一只全球成长型投资工具，作为协同筹集35亿美元资金的一部分。这也是Accel首次同时募集所有四只基金。</p>
+<p>信中称，这只2.5亿美元基金的规模旨在与其目前投资的速度以及较短的投资周期相匹配。光速创投向投资者表示，较小的规模使其能够更专注于单个交易而非基金规模本身，并能更快启动下一只基金的募集。</p>
+<p>新基金还标志着光速创投在该地区的早期投资战略对AI领域的聚焦更为明确。信中概述的投资逻辑预计，AI在印度创造的价值将超过互联网，该基金将在印度和东南亚全域寻找AI公司。</p>
+<p>印度尚未在全球舞台上诞生顶尖的前沿AI模型开发者，其吸引的AI投资也远少于美中两国。尽管如此，投资者越来越看好印度在应用层的机遇，这得益于该国庞大的软件开发者群体，及其数十年来作为软件和技术服务中心的底蕴。</p>
+<p>这只2.5亿美元的新印度投资工具仅占光速创投全球平台可用资金的一小部分。该公司在全球管理着超过650亿美元的资产，去年12月通过数只新基金筹集了90亿美元，创下其历史上最大规模的募资纪录。该总额中包含一只9.8亿美元的早期风投基金。</p>
+<p>投资者信函显示，光速创投设立的印度和东南亚专项基金仅占其投向该地区资本的一部分。这些基金已部署了约9亿美元，而光速创投的全球基金还额外投资了16亿美元，以支持其区域投资组合中的公司。</p>
+<p>决定将其最新的区域基金完全奉献给AI，也标志着光速创投在一个过去广泛进行跨领域投资的市场中，确立了更具针对性的主题重心。其在印度的投资组合横跨即时零售、消费互联网、软件和家庭服务等业务。</p>
+<p>光速创投在印度的投资标的包括即时零售初创企业Zepto、音频平台Pocket FM、家政服务初创企业Snabbit、屋顶太阳能初创企业SolarSquare以及一系列企业级软件公司。</p>
+<p>信中显示，掌舵光速创投前四只印度基金的原班团队将继续管理这只新基金。</p>
+<p>当您通过我们文章中的链接进行购买时，我们可能会获得小额佣金。这不会影响我们的编辑独立性。</p>
+<p>Jagmeet为TechCrunch报道来自印度的初创公司、技术政策相关动态以及所有其他以科技为核心的重大进展。他此前曾担任新德里电视台（NDTV）的首席记者。</p>
+<p>您可以通过发送邮件至 mail@journalistjagmeet.com 联系Jagmeet或核实其外联信息。</p>
+<p>您的下一个重大机遇尽在Disrupt大会。与超过10,000名创始人、投资人、运营者及科技领袖建立联系。探索未来突破，聆听塑造当今科技的声音，在太平洋时间9月25日晚上11:59前购票立省最高200美元。</p>
+<p>Meta为其Muse AI智能体打造了一款类似拓麻歌子的可穿戴设备<br />Anthropic称其生物实验室已获得重大发现<br />PitPro首款自动换胎机器人已在加拿大上线<br />Anthropic发布Opus 5.5，以更低价格提供Fable级性能<br />Meta的Muse早期移动端发布增速已超越ChatGPT<br />Tilly Norwood的新闻发布巡礼进展正如大家对AI所预期的那样<br />ChatGPT发明者推出的一款全新AI模型令开发者们倍感振奋</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-25 04:45 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+    <li>Lightspeed 计划为其新的早期基金 Lightspeed India Partners V 募集 2.5 亿美元，重点关注印度和东南亚的早期人工智能公司。</li>
+    <li>Lightspeed 在致投资者的信中表示，已为其 2.5 亿美元目标获得了 80% 的资金承诺。</li>
+    <li>来源叙事重点：报道聚焦于 Lightspeed（光速创投）在印度市场的战略转型：将新一期早期基金规摸缩减至 2.5 亿美元（前序基金的一半），全面聚焦早期 AI 投资，并将印度基金募资节奏首次与全球基金完全同步，反映出跨国风投在缩短投资周期、聚焦特定高增长技术赛道以及应对宏观创投环境变化上的协同策略。</li>
   </ul>
 </div>
 
@@ -510,48 +449,190 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-a-is-chasing-wealth-that-d2fc3d06d40b68a8" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2177" data-content-paragraphs="20" data-published-at="2026-09-24T20:34:32.000Z" data-time-source="publication">
+<div id="story-6-09-goodbye-google-html-aefc181709ea32c5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="3047" data-content-paragraphs="3" data-published-at="2026-09-25T05:51:12.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
+    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 13:51</span>
+</div>
+
+### [再见，谷歌](https://robert.ocallahan.org/2026/09/goodbye-google.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Goodbye Google</div>
+
+<div class="article-body" data-article-body="true"><p>罗伯特·奥卡拉汉（Robert O&#39;Callahan）。基督徒。新西兰人。软件工程师。除另有说明外，所有内容均为人工生成。<br />robert@ocallahan.org ... 在 X 上关注，在 Bluesky 上关注<br />2026年9月24日，星期四<br />今天我发出了以下这封电子邮件：<br />我今天正式从谷歌辞职。<br />这绝非一个容易的决定。我热爱我的同事和工作环境，而且能拿着丰厚的薪水去解决有趣的难题，体验一直棒极了。但我所在团队的最终目标是让人工智能变得更加廉价且延迟更低，而我认为这对当下的人类来说并不是一件好事：我坚信目前人工智能的进展速度实在太快了（我对最终的走向也存有疑虑）。对我而言，转岗去另一个不会加速人工智能发展的谷歌项目几乎是不可能的（部分原因是我与新西兰的羁绊，而谷歌更倾向于不在新西兰开展工程业务），因此我无能为力。<br />有成千上万的人正在推动人工智能的加速发展，我把脚从油门上挪开所产生的影响微乎其微……但并非毫无影响；我掌握的一些技能是相对稀缺的。我曾尝试在 GDM（谷歌 DeepMind）内部对事态施加积极影响，但这种效果似乎并不明显，而且在谷歌外部我也同样能够发挥影响力。对自身工作带来的影响视而不见固然很省心，但这绝非一个基督追随者该做的事。关于这些权衡取舍，我在自己的博客上写了更多内容。<br />我还不完全确定接下来要做什么。我会继续维护 Pernosco 和 rr，与此相关的是，我打算调研当今的人工智能是如何调试代码的，以及调试工具是否能以及如何提供帮助。我还有其他一些想做的项目点子，有些可能很赚钱，有些则不然。也许我会找到一个吸引人的现有项目加入。我十分明确的是，希望我未来的工作能毫不含糊地造福人类。<br />在 Hacker News 上的讨论帖<br />首先，向不了解我的人做个自我介绍：我在科技行业干了很长时间，在硅谷拥有广泛的人脉，但我定居在新西兰，所以生活在行业泡沫之外，也身处美国语境的泡沫之外。我是一名基督徒，实际上是奥克兰市中心奥克兰华人长老会（Auckland Chinese Presbyterian Church）英文堂的长老，偶尔也担任平信徒讲道人。也就是说，我既不是一个“科技狂人”（tech bro），也不属于那些自称“理性主义者社群”的圈子……但我确实认为他们的许多论点值得认真对待。<br />我对人工智能有很多思考，但并不打算在这篇博文中一一详述。总而言之，我认为许多人提出的人工智能存亡风险警告值得认真对待；“末日论者”（doomers）预测的许多现象已经变成了现实（例如：奖励黑客攻击、目标对齐失准、欺骗性模型、模型自省感知以及群体性疯狂）。然而，我并不认为人工超级智能（ASI）走向毁灭的概率是100%。相反，我认为风险是确凿存在但具有不确定性的——但这本身就已经非常令人担忧！我们在道德上有义务付出巨大努力去将此类风险降至最低，而且最可能的情况是，风险已经高到了在近期追求人工超级智能本身就是一种极其不负责任的行为。我也非常担忧其他与人工智能相关的问题：认知退让、人工智能诱发的精神紊乱与孤独、权力集中、经济动荡、网络安全、问责缺失等等。我认为人工智能的潜在益处目前相当不明确，如果非要押注的话，我押负面影响将超过收益……但这方面我也无法完全笃定。<br />以下是我深信不疑的几点：我深信人工智能实验室中那些发出警告的人大体上是真诚的。我曾与谷歌 DeepMind 的许多人就这些问题交谈过，几乎所有人都有着真诚而严肃的担忧，无论他们是否公开发声。我没有看到任何确凿证据表明人们是在通过炒作人工智能风险来推高公司股价或借监管扼杀竞争对手。（我认为极其迫切需要国家和国际层面的监管！）我看到过很多诸如“你不能相信那些人”的论调，也许确实如此，但正如拉塞尔·摩尔（Russell Moore）最近雄辩地解释的那样，这种不信任绝不是忽视他们警告的正当理由。<br />我深信，只要我们继续在这方面努力，人工智能的能力就会持续稳步提升。我希望能看到人工智能遭遇某种发展平台期，或者我们能发现一些人类核心认知能力是人工智能不经历范式转移就永远无法复制的，但我不指望这些愿望会成真。基准测试中的模型进展速度似乎一如既往地快，甚至更快，伴随而来的是质的新能力不断涌现。即使模型的研发进展在今天戛然而止，我们也能花上数年时间，通过新的提示词和测试框架有效地解锁新能力。许多著名的人工智能批评者（说的就是你们，齐特龙 Zitron 和多克托罗 Doctorow）似乎认为人工智能就是某种根本行不通的骗局。我认为它真的行得通。<br />我非常确信，即使人工智能存在通往更美好未来的路径，目前的变化速度也实在太快了。人工智能的发展速度已经超出了人类个体和群体所能理解和适应的范围。那些试图规划自己未来的人（比如刚进入大学、试图为几年后的世界做规划的年轻人），再也无法像前几代人那样从容了。我认为我们此前从未见过任何类似的情况，在我亲身经历的以往技术变革中（个人电脑、互联网、智能手机）绝对没有。即使在工业革命时期，不仅变革的推进要慢得多，而且人类活动的很大一部分领域并没有、也不可能直接受到新机器的冲击。而这种从容如今已不复存在。<br />为什么选择现在离开而不是更早？这与近期频繁出现的引发轰动的辞职潮或“人工智能减速”警告毫无关联；那纯属巧合。我考虑这个离职日期已经有一段时间了，因为我早就计划好从周一开始和朋友们去进行一次为期十天的徒步背包旅行（阿贝尔塔斯曼和万加佩卡步道），我想在出发前把这件事办妥。</p>
+<p>我并没有直接从事人工智能能力方面的研发，而是致力于改进用于硬件芯片设计的工具。我非常喜欢这份工作，而且有一段时间我也宽慰自己说这相对无害，但随着时间的推移，上帝促使我不得不面对这样一个现实：这些工具的主要影响将是加速新一代AI芯片的设计；如果取得成功，这将让AI变得更便宜、更快速——从而让AI更加无处不在，同时也更为强大，因为我们已经学会了通过消耗更多推理Token来提升模型能力。作为一名优秀员工的责任感意味着，我必须与我的隔级主管（skip manager）进行一次坦诚的沟通，并告诉他们，充其量我其实并不情愿看到他们的项目成功！即便在那之后，我也希望能对自己的决定深信不疑，因为在新西兰为谷歌工作所享有的优厚待遇，可能再也不会有了。（留在谷歌并转岗到另一个不加速AI发展的工程团队是不切实际的，因为谷歌在新西兰没有其他的工程团队。）我前面提到的对雇主的责任感，以及对同事们的尊重，也是我不希望走得太仓促、并努力以合理状态交接工作的原因之一。</p>
+<p>接下来做什么？我最确信的一点是，《圣经》中的耶稣是真实存在的，因此上帝对我们有一个美好的计划。我不知道那个计划是什么（也希望能知道），但尽管面对AI带来的混乱，它依然能让我夜夜安眠。我期望他的计划包括让我继续充分发挥自己的才能。即便计划是耶稣重返人世以拯救我们的愚行，当他归来时我们最好也还在辛勤忙碌！因此，只要上帝赐予我的天赋仍有价值，我就想继续工作。正如我前文提到的，我计划继续维护Pernosco和rr。在Pernosco的项目框架下，我计划研究AI智能体（AI agents）是如何调试代码的，以及是否有调试工具能让它们在这方面更有效率。我想利用AI智能体将自己的一些业余项目构想变为现实。我热切希望能享受AI带来的益处，但要保持审慎，以有益于人类并能让自己保持思维敏锐的方式行事。只要尽我所能，我就会继续在新西兰这里践行并倡导这一理念。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Robert O&#39;Callahan 宣布于 2026 年 9 月 24 日向 Google 发送邮件辞职。</li>
+    <li>Robert O&#39;Callahan 在 Google 工作时居住于新西兰，工作内容是开发用于硬件芯片设计的改进工具，该工具的主要影响是加速新型 AI 芯片的设计。</li>
+    <li>来源叙事重点：以个人基督教信仰与伦理良知为叙事核心，记录作者因不愿协助加速可能失控的 AI 硬件与芯片算力研发而决定从 Google 辞职的心路历程，反驳 AI 怀疑论，呼吁严肃对待 AI 超速发展带来的系统性与存在性风险。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#社会热点与思潮</span>
+  <span class="news-tag-pill">#Lobste.rs</span>
+</div>
+
+<div class="news-card-footer"><a href="https://robert.ocallahan.org/2026/09/goodbye-google.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ation-for-hurricane-polo-e110b41958fa83e9" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="3139" data-content-paragraphs="2" data-published-at="2026-09-25T04:01:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/nasa.svg" class="source-icon" alt="NASA News (深空探索与航天)" width="16" height="16" /> <strong>NASA News (深空探索与航天)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🔬 深空与基础科学</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 12:01</span>
+</div>
+
+### [飓风“波洛”经历爆发式增强](https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Explosive Intensification for Hurricane Polo</div>
+
+<div class="article-cover"><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg" alt="飓风“波洛”经历爆发式增强" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>爆发式增强……<br />热量与辐射<br />遥感技术<br />蓝色弹珠：下一代<br />NASA地球观测站/米夏拉·加里森（Michala Garrison）<br />NASA地球观测站/米夏拉·加里森<br />NASA地球观测站/米夏拉·加里森<br />NASA地球观测站/米夏拉·加里森<br />在经历快速增强后，飓风“波洛”（Polo）于2026年9月23日盘旋在墨西哥太平洋沿岸（左图），其下方为异常温暖的海水（右图）。NASA地球观测站图像由米夏拉·加里森制作，使用了来自NASA Aqua卫星上的中分辨率成像光谱仪（MODIS）数据以及多尺度超高分辨率海面温度（MUR SST）项目的数据。<br />2026年9月中旬，飓风“波洛”最初以墨西哥太平洋沿岸的热带扰动形式形成。到9月20日，其结构组织已足以被归类为热带低压，而次日便增强为热带风暴。<br />自此，“波洛”进入了一段快速增强期，气象学家甚至难以找到足够强烈的词汇来形容眼前发生的一切。有人将其增强速率和强度形容为“令人目瞪口呆”，有人称之为“令人震惊”，还有人称其为“彻底的疯狂”。<br />NASA戈达德太空飞行中心全球建模与同化办公室（GMAO）的大气科学家加里·帕蒂卡（Gary Partyka）在电子邮件中表示：“‘波洛’经历了一段只能被描述为爆发式快速增强的过程。这是极其、极其迅速的增强。”<br />帕蒂卡表示，该风暴处于一个“近乎完美”的增强环境中，其特征是风切变微弱、湿度极高、海洋温度较高以及高度的大气不稳定性。<br />数位观察人士将这种情况归为“极端快速增强”——这是一项专业分类，意味着风暴的风速在24小时内至少增加60节（每小时111公里或69英里）。到9月22日，该风暴的最大持续风速在24小时内跃升了90节（每小时167公里或104英里），达到了5级强度。美国国家飓风中心在其向来严谨克制的预报讨论中，将此次增强称为“真正非凡”。<br />当美国国家海洋和大气管理局（NOAA）的“飓风猎人”飞机于9月22日飞越该风暴上空时，研究人员估测其风速接近每小时285公里（180英里）。一些分析人士认为，这使它成为东太平洋有记录以来按最大持续风速衡量的第三强风暴，也是有记录以来从热带低压跃升为5级风暴速度最快的一次。<br />9月23日下午，当NASA Aqua卫星上的中分辨率成像光谱仪（MODIS）捕捉到该图像时（左图），“波洛”正在阿卡普尔科西南方向的格雷罗州沿海翻腾。在获取图像时，该风暴的最大持续风速为每小时230公里（145英里），处于4级强度，当时它刚经历了一次微弱削弱其强度的眼墙置换循环。<br />“‘波洛’的卫星图像非常引人瞩目，具有巨大且清晰的风眼以及大范围的流出形态，”纽约州立大学奥尔巴尼分校的大气科学家克里斯汀·科尔博西耶罗（Kristen Corbosiero）表示。她目前正参与一项利用卫星数据研究热带气旋通风效应的NASA项目。“系统上方的微弱风力以及系统顶部良好的流出通道，也是促成‘波洛’快速增强的原因。”<br />随着“波洛”的发展，它移动到了海表温度高达32摄氏度（90华氏度）的海域——比9月23日的常年水温高出2至3摄氏度。该地区大部分海域的表层水温均高于27.8℃（82°F），这是通常维持和增强飓风所必需的温度。<br />上图（右图）基于NASA喷气推进实验室的多尺度超高分辨率海面温度（MUR SST）项目数据，该项目将来自NASA、NOAA和国际任务的卫星测量结果与船只及浮标的观测数据结合起来。该地图显示的是距平值（即相对异常程度），而非绝对温度——展示了2026年9月23日海表温度相比该项目2003至2014年同期平均水平偏高或偏低的幅度。<br />科尔博西耶罗补充道，虽然上述地图呈现的是海水表面的温度，但更深水层中温暖海水的存在可能有助于该风暴保持持久威力。飓风有时会搅动深水层的冷水上涌，从而减缓风暴的增强，但在此次情况下，风暴后方的冷水尾流似乎极小，且测量与模型显示在相当深度仍具有较高的海洋热含量。<br />帕蒂卡和科尔博西耶罗都告诫不要将“波洛”的快速增强直接归因于厄尔尼诺现象在太平洋中部和东部造成的异常温暖表层水温。科尔博西耶罗指出，过去在拉尼娜现象和中性条件下，该地区的若干飓风也曾经历过快速增强，包括2023年的飓风“奥蒂斯”（Otis）和2015年的飓风“帕特里夏”（Patricia），两者均为5级风暴。<br />然而，由于大尺度海洋与大气环流模式的改变，东太平洋热带气旋活动的总体频次在厄尔尼诺期间确实通常会上升，而这正是2026年迄今所发生的。根据科罗拉多州立大学的数据，截至9月24日，该区域的累积气旋能量几乎是常年水平的两倍。<br />关注海表温度距平或风暴其他方面的公众，可以使用NASA的Worldview浏览器、来自短期预测研究与过渡（SPoRT）项目的近实时数据查看器，以及GMAO的FLUID工具。预报员预计“波洛”将停留在太平洋上空直到下周，届时它可能会向东北方向偏转并靠近下加利福尼亚半岛。<br />NASA地球观测站图像由米夏拉·加里森制作，使用了来自多尺度超高分辨率（MUR）项目的海表温度数据、来自NASA EOSDIS LANCE和GIBS/Worldview的MODIS数据，以及来自NOAA国家飓风中心的风暴路径数据。文字报道：亚当·沃兰德（Adam Voiland）。<br />2026年9月23日：MODIS真彩色图像<br />2026年9月23日：MUR海表温度<br />参考文献与资源<br />科罗拉多州立大学（2026年9月23日）《2026年东北太平洋各风暴实时统计数据》。访问于2026年9月24日。<br />大气合作研究研究所（2026年）《波洛》。访问于2026年9月24日。<br />Eye on the Tropics（2026年9月23日）《波洛在东太平洋大展身手》。访问于2026年9月24日。<br />《福布斯》（2026年9月22日）《爆发式飓风“波洛”可能维持5级强度数日》。访问于2026年9月24日。<br />NASA Earthdata《热带气旋》。访问于2026年9月25日。<br />国家飓风中心（2026年）《飓风“波洛”警报档案》。访问于2026年9月24日。</p>
+<p>斯特恩（Stern, D.）等人（2026）《区分热带气旋极端快速增强与普通快速增强》（Distinguishing Tropical Cyclone Extreme Rapid Intensification from Ordinary Rapid Intensification）。《每月天气评论》（Monthly Weather Review），154(10), 2133-2149。<br />《华盛顿邮报》（2026年9月22日）《飓风“波洛”在不到一天内增强为5级飓风》。2026年9月24日访问。<br />耶鲁气候连线（Yale Climate Connections）（2026年9月23日）《随着太平洋热带地区爆发活跃，强力飓风“波洛”以暴雨威胁墨西哥》。2026年9月24日访问。<br />您可能还感兴趣的内容：<br />在我们探索宇宙并更多地发现我们母星的过程中，随时了解来自NASA的最新内容。<br />这场强烈的风暴给该州带来了极端强降雨和破坏性强风，经过夏威夷岛时强度为……<br />热带风暴“亚瑟”（Tropical Storm Arthur）<br />2026年大西洋飓风季首个命名的风暴带来了强降雨以及发生山洪的威胁……<br />这场范围庞大的风暴预计将给日本南部大片地区带来倾盆暴雨。<br />探索更多来自NASA地球科学的内容<br />地球观测站每日一图（Earth Observatory Image of the Day）<br />NASA地球观测站每天通过深度报道和震撼图像，为您呈现地球的方方面面。<br />探索地球科学<br />开放获取NASA地球科学数据档案库</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>飓风“波洛”（Hurricane Polo）于2026年9月中旬在墨西哥太平洋沿岸形成为热带扰动，9月20日达到热带低压标准，次日增强为热带风暴。</li>
+    <li>截至9月22日，波洛在24小时内最大持续风速增加了90节（167公里/小时或104英里/小时），达到5级飓风强度。</li>
+    <li>来源叙事重点：聚焦飓风“波洛”（Hurricane Polo）爆发性极速增强的科学成因、历史极端性以及遥感观测数据，重点从海表温度异常、垂直风切变、深层海洋热含量和高空气流外流等气象要素解析其形成机制，同时推广NASA相关对地观测工具与数据源。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#深空与基础科学</span>
+  <span class="news-tag-pill">#NASA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【NASA News (深空探索与航天)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ct-escalation-a-79424191-15879d4d7c53add0" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="735" data-content-paragraphs="15" data-published-at="2026-09-25T07:44:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (EN 官方英语)" width="16" height="16" /> <strong>Deutsche Welle (EN 官方英语)</strong></span>
+    <span class="stance-badge">德国战略自省</span>
+    <span class="dimension-pill">💹 宏观资本与产业</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 15:44</span>
+</div>
+
+### [埃塞俄比亚：冲突升级之际提格雷地区互联网中断](https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Ethiopia: Internet disrupted in Tigray amid conflict escalation</div>
+
+<div class="article-body" data-article-body="true"><p>一家网络监测机构报告称，随着提格雷人民解放阵线（TPLF）与联邦政府之间战火重燃，埃塞俄比亚北部地区的互联网出现中断。</p>
+<p>网络监测机构NetBlocks于周五报告称，埃塞俄比亚北部提格雷地区的互联网访问遭到中断。</p>
+<p>该地区本周爆发了新一轮敌对行动，打破了埃塞俄比亚政府与提格雷人民解放阵线（TPLF）民兵武装于2022年达成的和平协议。</p>
+<p>在2020年至2022年的提格雷战争期间，该地区在很大程度上与外界隔绝，数十万人陷入了类似饥荒的境地。</p>
+<p>“已证实：网络数据表明埃塞俄比亚北部发生了地方性网络中断，这与有关提格雷地区电信中断的报道相吻合，”NetBlocks表示。</p>
+<p>中断的原因目前尚不明确。</p>
+<p>路透社援引提格雷当地居民的话称，恐慌性抢购已导致商店货架被扫荡一空。</p>
+<p>“人们深感恐惧，担心银行、电信网络、电力和基本物资可能会再次被切断，”一名当地居民告诉法新社，并补充称“社区内一片恐慌”。</p>
+<p>要观看此视频，请启用JavaScript，并考虑升级到支持HTML5视频的网络浏览器</p>
+<p>TPLF本周早些时候控制了提格雷境内的区域机场，并在邻近的阿法尔州和阿姆哈拉州与政府军发生冲突。该民兵组织表示，目前已与亚的斯亚贝巴方面陷入“全面战争”。</p>
+<p>该组织还与阿姆哈拉的“法诺”（Fano）民兵组织以及其他五个武装组织结成了反政府联盟。</p>
+<p>在2022年至2023年的冲突中，法诺民兵曾与联邦政府并肩作战对抗提格雷叛军。</p>
+<p>TPLF曾于1991年至2018年统治埃塞俄比亚，后随着总理阿比·艾哈迈德的崛起而被边缘化。</p>
+<p>如果您依靠我们的团队获取值得信赖的报道，请花一点时间在谷歌上将我们选为您的首选信息源，以便您始终第一时间看到我们核实的新闻。</p>
+<p>编辑：Sean Sinico</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【Deutsche Welle (EN 官方英语)】于 2026-09-25 15:44 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#宏观资本与产业</span>
+  <span class="news-tag-pill">#Deutsche</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Deutsche Welle (EN 官方英语)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-9-aa0d-7002f26adca6-html-6a5e1ef4def52aff" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="788" data-content-paragraphs="5" data-published-at="2026-09-25T07:41:16.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-25 15:41</span>
+</div>
+
+### [马泰计划：伦巴第大区代表团赴肯尼亚开展农业伙伴合作](https://www.ansa.it/english/news/news_from_embassies/2026/09/25/mattei-plan-lombardy-in-kenya-for-an-agricultural-partnership_789dd527-3200-4f09-aa0d-7002f26adca6.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Mattei Plan: Lombardy in Kenya for an Agricultural Partnership</div>
+
+<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/25/bf18f877a19d6b98f7455c0589124d50.jpg" alt="马泰计划：伦巴第大区代表团赴肯尼亚开展农业伙伴合作" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>（安莎社）- 内罗毕，9月25日 - 由国际与欧洲关系副秘书长拉法埃莱·卡塔内奥（Raffaele Cattaneo）率领、意大利驻肯尼亚大使温琴佐·德尔莫纳科（Vincenzo Del Monaco）陪同的意大利伦巴第大区代表团在内罗毕举行了一系列高级别会谈，探讨并分享合作项目，重点涉及旨在构建具韧性、包容性及循环性农食价值链的“伦巴第-肯尼亚伙伴关系倡议”（Agripact），契合意大利政府面向非洲的“马泰计划”（Mattei Plan）的愿景与精神。</p>
+<p>代表团与肯尼亚合作社部副部长帕特里克·基莱米（Patrick Kilemi）就Agripact项目的细节进行了讨论。该项目预算为1020万欧元，获得意大利发展合作署（AICS）的资助，将在纳库鲁郡（Nakuru County）和沿海的基利菲郡（Kilifi）落地实施，重点聚焦乳制品行业与园艺种植业。预计Agripact将直接使约20,800人受益，涵盖小农户和畜牧养殖户、合作社及生产者组织、农产品食品领域的小微及中型企业（MSME），以及青年农业服务提供者。</p>
+<p>基莱米副部长指出，肯尼亚非常欢迎借鉴伦巴第大区在合作社企业建设、制造业和农产品加工方面的经验，Agripact为进一步深化肯尼亚与意大利的合作提供了宝贵平台。</p>
+<p>随后，代表团会见了总统经济秘书处负责人奥古斯丁·切鲁伊约特（Augustin Cheruiyot），深入探讨了面向农民及合作社的技能培训以及农业科研等议题——在这些领域，肯尼亚与伦巴第大区的经验交流被认为极具实用价值。</p>
+<p>最后，伦巴第大区代表团受到了肯尼亚农业部的接见。各方再次肯定了农业合作社对该国经济发展的重要价值，并对面向青年农户的培训项目展现出浓厚兴趣。在技术层面上，各方还强调了收获后处理技术与农业集约化整合中心的重要性，这两项关键内容均属于Agripact项目的组成部分。</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-25 15:41 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#ANSA</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.ansa.it/english/news/news_from_embassies/2026/09/25/mattei-plan-lombardy-in-kenya-for-an-agricultural-partnership_789dd527-3200-4f09-aa0d-7002f26adca6.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-gma-ai-jev-code-reviewer-bdd983cc385555b5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="608" data-content-paragraphs="7" data-published-at="2026-09-25T04:49:23.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
     <span class="stance-badge">民间技术与思想社群</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 04:34</span>
+  <span class="news-meta-time">🕒 2026-09-25 12:49</span>
 </div>
 
-### [加州正在追逐“长了脚”的财富](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
-<div class="original-title-sub"><span class="orig-tag">原文</span> California is chasing wealth that has feet</div>
+### [基于 Jev 的代码审查](https://github.com/egma-ai/jev-code-reviewer)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Jev Based Code Review</div>
 
-<div class="article-body" data-article-body="true"><p>土地经济学中心（Center for Land Economics）的完整报告可在此查看；我们针对同一论点的评论文章已于昨日发表在《旧金山纪事报》上。</p>
-<p>上周，加利福尼亚州正式批准将“亿万富翁财富税”列入11月的选民公决：针对该州的亿万富翁征收一次性5%的税款，分五年缴清，每年筹集约200亿美元，用于填补联邦资金削减后的医疗保健、食品援助和学校资金缺口。我们理解这种冲动。该州存在财政收入漏洞，而亿万富翁们也完全有能力出资填补。</p>
-<p>但这项税收无法实现其设立的初衷，原因很简单：与土地不同，亿万富翁是长了脚的。</p>
-<p>在土地经济学中心的一份新报告中，我们刚刚花费数月时间建立了实证模型，计算了加州土地的总价值。简而言之：土地是现存最大的财富池之一，加州拥有的土地财富比其他几乎任何资产都要多，而且它无法离开这个州。</p>
-<p>我们逐块地块累加，估算出加利福尼亚州的土地总价值：约为8.14万亿美元。我们还通过另外两种方式交叉验证了这一数字——对照联邦住房金融数据以及根据时间趋势调整的销售数据——三种方法得出的结果都在同一区间内。据我们所知，这是对加利福尼亚州土地实际价值所做的首个可靠的自下而上的估算。</p>
-<p>这个数字大约是该州目前仍能实际征税的亿万富翁财富总额的八倍。仅洛杉矶县的土地价值就超过了财富税所瞄准的全部亿万富翁资产基数。旧金山湾区紧随其后。</p>
-<p>而且土地是一种罕见的、只固定在原地不动的税基。亿万富翁可以搬去奥斯汀。虽然他们的投资组合可以在一个下午转移完毕，但他们的土地却搬不走。</p>
-<p>财富税方案自身的数学推算假设了一个2万亿美元的基数，但由于财富外流，这一预估被夸大了将近一倍。</p>
-<p>六位加州亿万富翁——拉里·佩奇（Larry Page）、谢尔盖·布林（Sergey Brin）、彼得·蒂尔（Peter Thiel）、唐·汉基（Don Hankey）、特拉维斯·卡兰尼克（Travis Kalanick）和史蒂文·斯皮尔伯格（Steven Spielberg），其身家合计约5400亿美元——在该提案设定的2026年1月1日截止日期之前，就已将税务居所迁出加州。马克·扎克伯格（Mark Zuckerberg，约2200亿美元）随后在2026年初效仿，且几乎肯定会在法庭上对该法案的追溯效力提起诉讼。再加上其他经济学家在该提案自身模型中指出的约2000亿美元的高估，原本设想的税基近半数已不复存在。</p>
-<p>要在剩余资产基数上仍然筹集到200亿美元，税率将不得不从1%攀升至1.6%甚至1.9%（取决于扎克伯格能否胜诉），而这只会给留下的亿万富翁提供又一个追随邻居搬离的理由。这就是向少数高流动性群体征税的陷阱：为了填补出逃者留下的空缺而提高税率，结果只会将留下来的人进一步推走。</p>
-<p>以下是一个应当重塑整场辩论的对比：</p>
-<p>仅仅征收0.25%的土地价值税，就能在比财富税大八倍的税基上筹集到其承诺的每年200亿美元；这个税基不仅不会外逃，反而会随着加州经济的发展而增长，而且它根本无法移动。（即便进一步扩大规模，这一推算依然成立：约1%的税率即可永久覆盖加州整个870亿美元的医疗与人类服务预算。）</p>
-<p>土地价值税只是一种做了一项改变的普通房产税：它仅对土地本身的价值征税，而不对土地上的建筑物征税。土地价值税无法通过迁居避开，也无法转嫁给租客。与此同时，它还能捕获公共投资本身所创造的溢价收益：当州政府修建一条公交轨道时，周边的土地价值上升，而这项税收会将其中一部分回报给为此出资的公众。</p>
-<p>由于土地价值极度集中，税负主要落在拥有财富最多者所持有的沿海黄金地段和市中心街区上，而对中央山谷（Central Valley）工薪家庭的房屋几乎毫发无损。它无需追逐富豪，即可精准触及他们的财富。</p>
-<p>这一切的核心其实并不是亿万富翁；加州之所以诉诸奇特的新税种，是因为其常规税制自1978年以来就已彻底损坏。</p>
-<p>13号提案（Proposition 13）为财产税设置了上限，并在房产出售前冻结了评估价值，导致长期业主为一套相同的房屋所缴纳的税款仅为隔壁年轻家庭的一小部分。我们估计，加州目前对房产的评估价值仅为其真实价值的44%至60%之间。换句话说，该州心照不宣地放弃了对自身大约一半的房地产税基进行征税。随着财产税收入下滑，所得税税率不断攀升以填补缺口，加州由此落得了全美最高的所得税税率，同时也造就了一个一旦受到挤压就会夺门而出的税基。财富税则是迄今为止最孤注一掷的挤压举措，而且丝毫无助于修复其底层的税基。</p>
-<p>同样的错误正在各地重演。土地价值税在经济学中可以说是最接近“免费午餐”的存在，但从佛罗里达州到加利福尼亚州，决策者都在对此视而不见。</p>
-<p>佛罗里达州正试图废除财产税；批评人士估计，损失的收入将不得不通过将州销售税提高约一倍来弥补，这是在用一种对工薪家庭每笔消费都征税的税种，去替换一种不会扭曲经济的税种。加州则走向了另一个极端，在已经千疮百孔的财产税之上，又叠加了一项针对具有高流动性的亿万富翁财富的新税种。两州都理应将目光投向正位于他们脚下的税基。</p>
-<p>加州真正能够征税的财富是土地本身：它稳定、庞大、由我们大家共同赋予价值，而且无法搬到迈阿密。</p>
-<p>格雷格·米勒（Greg Miller）和拉尔斯·杜塞特（Lars Doucet）是土地经济学中心的联合创始人。</p></div>
+<div class="article-body" data-article-body="true"><p>当前大多数由智能体（Agent）生成的 PR 最终都被随手直接合并（YOLO merge），因为当智能体突然提交包含 230 个文件的变动时，人类的大脑往往难以完全理解。该项目试图通过将审查中的每项改动归类为 P0、P1、P2 来减轻心智负担。默认情况下仅显示 P0 级别内容，优先级支持自定义配置。代码差异（diff）也采用自然语言进行展示，只需一键切换即可查看原始代码。</p>
+<p>它在你的本地计算机上运行，专门用于审查你自己的编程智能体提交的 PR，且不会向 GitHub 发送任何内容。</p>
+<p>观看演示录屏 · 打开示例 PR。附带的录屏使用了真实的 Jev 分类以及带有标注且准备就绪的解释文案（出处记录）。</p>
+<p>打开 http://127.0.0.1:4731/demo 进行回放（此操作不会调用任何供应商接口），或者加载下方的扩展程序并打开示例 PR 的“Files changed”（已更改文件）页面。</p>
+<p>可选：运行 `uv tool install graphifyy` 可添加本地代码图以获取更好的上下文。要让你的编程智能体在创建 PR 后自动运行分析，请安装该智能体技能（agent skill）。</p>
+<p>查看架构设计、演示指南和扩展程序详情。</p>
+<p>审查运行行为，而不仅是代码差异。Jev 协助优化人类注意力的优先级分配；OpenAI 负责对改动进行解释。本地 CLI + 智能体技能 + GitHub 扩展程序。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-25 04:34 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-25 12:49 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -561,75 +642,7 @@ notice:
   <span class="news-tag-pill">#Hacker</span>
 </div>
 
-<div class="news-card-footer"><a href="https://blog.landeconomics.org/p/california-is-chasing-wealth-that" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-hen-chat-is-the-wrong-ui-3d14844898469c56" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="2455" data-content-paragraphs="1" data-published-at="2026-09-24T20:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/github.svg" class="source-icon" alt="GitHub Blog (工程技术博客)" width="16" height="16" /> <strong>GitHub Blog (工程技术博客)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 04:00</span>
-</div>
-
-### [当聊天框成为错误的交互界面](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> When chat is the wrong UI</div>
-
-<div class="article-cover"><img src="https://github.blog/wp-content/uploads/2026/09/validation.png?resize=1024%2C389" alt="当聊天框成为错误的交互界面" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>我们进入这场人工智能实验已经 176 年了。<br />等等……其实才过了三年？<br />有时我回想起去年发生的事，感觉却像隔了很久。那真的是发生在我身上的事吗，还是我小时候父亲经历过并讲给我听的故事？<br />不管怎样……我们进入这场 AI 实验已有三年，而我们与大语言模型（LLM）的主要交互界面依然是聊天框。我非常确信最早是在 HTML 规范中力推 textarea 组件的 @pmarca。我之所以如此确信，是因为我问过 AI 了。就在一个 textarea 里面。<br />但我向大家提出一个观点：也许，只是也许，聊天并不是合适的 UI。嗯，至少大多数时候不是。<br />学者史蒂芬·平克（Steven Pinker）曾这样评价：<br />“AI 的第一个大规模落地应用在某种程度上只是个噱头——一个第一人称聊天机器人，这多少有点令人遗憾。但如果 AI 以任务为导向，它将具有巨大的前景。”<br />——史蒂芬·平克，学者<br />既然学者都这么说了，而我又把它作为引言写进了博文里，那你就知道这绝对是真的。<br />聊天之所以成为与 AI 协作的主要方式，是因为它是最先让人们产生共鸣的形式。而且聊天作为一个通用解决方案效果极佳，原因很简单：我们并不知道人们到底打算用 AI 来做什么。<br />但作为用户，你自己清楚要用它做什么，而在这种情况下，聊天往往就成了错误的 UI。<br />亲爱的读者，你所需要的，是一种你可以凭空变出来的某种可定制 UI，以便按照最适合你当下任务的方式与 AI 协作（或者与它斗智斗勇——随你高兴）。<br />实现这一点有很多种方式，但在 GitHub Copilot 应用中，这被称为“画布”（canvas）。<br />画布是一个在 GitHub Copilot 应用内部运行的小型全栈应用，没有任何浏览器外框。智能体（agent）可以与该应用的服务端进行通信，服务端也可以反向通信。因此，你最终获得的是一个既能完成普通电脑程序所有功能，又能与 GitHub Copilot 智能体进行双向通信的交互界面。<br />这听起来可能有点抽象空洞，而且我用了“双向”（bi-directional）这个词，听着像是直接从 PowerPoint 幻灯片里搬出来的，所以让我们在实践中看看这个概念，瞧瞧我们能否用强大的画布来解决实际问题。<br />我们先从一个简单的例子开始：使用画布创建一个四子棋（Connect 4）游戏，在 GitHub Copilot 应用内与智能体对战。<br />看我如何在开启高推理状态下彻底击溃 GPT-5.6 Sol……<br />好吧。但我确实在零推理状态下击败了 GPT-5.6 Luna，所以……听着……四子棋这游戏真的很难！！<br />构建画布就像开口提需求一样简单……<br />“创建一个新的画布，使用四子棋游戏来演示用户与画布交互、画布与智能体对话以及智能体控制画布的能力”<br />GitHub Copilot 应用本身就理解什么是画布，因此我们无需做多余的解释。<br />现在，由于这些画布实际上是全栈应用而不仅仅是网页，它们不仅可以调用第三方 API，还可以在你的本地机器上执行代码。<br />例如，这里有一个专为 Winget 设计的 UI，它不仅可以浏览软件源中的软件包，还可以管理我本地的软件包，包括安装和卸载。<br />这里根本没有 AI 参与，但这正是重点所在。<br />当聊天框作为主要交互界面时，它会促使你把一切事务都交给智能体去处理。这往往纯粹是在浪费 token。让智能体去构建一个工具、使得未来的所有交互都变成免费的，这几乎永远好过把智能体本身当成工具来使唤。别再让 GPT-5.6 Sol Max 去执行“暂存并提交”（stage and commit）了。（我知道你干过。因为我也干过。别拿 token 羞辱我，我的自尊心很脆弱的。）<br />另一个极佳的例子是：与其在聊天框里让智能体对你的 SQLite 数据库进行各种操作，为什么不弹出一个画布，然后——你懂的——自己动手操作呢。<br />我是说，你甚至可以在这里拥有代码智能提示（intellisense）。为什么不呢？现在已经是 2026 年了，AI 是一个只要你想要就能无所不能的魔法盒子。<br />这不是很令人惬意吗？<br />偶尔写点 SQL 挺不错的。我说了是“偶尔”。放轻松。<br />或者，何必非要用纯 Markdown 来写 Jekyll 博客文章呢，你完全可以把 Windows Live Writer “复活”过来。<br />好的，这些都是有趣且稍微有点用处的示例，但当你将自定义 UI 用于自动化开发工作流时，它的价值就会变得清晰得多。<br />我不会对你的人生指手画脚，但我与智能体协作的流程大致是这样的……<br />这其实相当简单，但这其中的每一步都需要我坐在键盘前进行交互、查看原型、提供引导并在各个步骤之间推进流转。<br />但问题在于：在整个过程的大部分时间里，我其实完全不需要守在旁边。智能体完全有能力进行调研并生成原型，然后在准备好等待审查时再通知我。智能体协作的目标永远是尽可能让你自己脱离操作闭环。然而这并不容易做到，因为当你手里只有一块聊天框时，根本不清楚该如何脱身。<br />下面是一个完整的示例，展示了你如何利用画布实现自身工作流的自动化，随心所欲地让自己在流程中抽身或介入。<br />我并不是说你应该全盘照搬这个工作流，或者说这是与智能体协作的唯一完美范式。我的意思是，它可能是。大概率是的。让我们问问 AI 吧……<br />说正经的，我确实认为被禁锢在聊天 UI 之中，眼下可能正在对我们大家起到反作用。这让我们很难摸索出解决实际问题的方法，因为当你唯一的交互手段只有一个 textarea 时，接下来该做什么就变得一点也不直观了。<br />今天就去尝试一下画布吧。像 SQLite 画布这样的东西，你可以一次性直接生成搞定。而工作流画布则花了大半天时间才把设计和自动化调试完善。<br />但我相信你会发现，当你思考问题能够……准备好……跳出聊天框之外时，AI 能带你走得更远。<br />下载 GitHub Copilot 应用 &gt;<br />文章《当聊天框成为错误的交互界面》最初发布于 The GitHub Blog。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【GitHub Blog (工程技术博客)】于 2026-09-25 04:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#GitHub</span>
-</div>
-
-<div class="news-card-footer"><a href="https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【GitHub Blog (工程技术博客)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-mini-ai-live-avatar-face-4b0e8d72e3ff9980" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="591" data-content-paragraphs="1" data-published-at="2026-09-24T19:59:26.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-25 03:59</span>
-</div>
-
-### [配备实时数字人（Live Avatar）的 Gemini 3.8 Live 让谷歌的人工智能拥有了具象面孔](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Gemini 3.8 Live with Live Avatar gives Google’s AI a face</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,94.893468926603,100" alt="配备实时数字人（Live Avatar）的 Gemini 3.8 Live 让谷歌的人工智能拥有了具象面孔" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>该主题的相关文章将被添加到您的每日电子邮件文摘和主页动态中。<br />谷歌的 Live Avatar（实时数字人）支持对口型并展现不同的面部表情。<br />该作者的相关文章将被添加到您的每日电子邮件文摘和主页动态中。<br />查看 Emma Roth 的全部文章<br />谷歌最新推出的 Gemini 3.8 Live 更新允许用户在与该模型对话的同时，实时观看具象化的人工智能角色做出回应。这一“Live Avatar”在对话过程中能够实现唇音同步并展示多样的面部表情，但目前该功能仅向 Gemini 企业版客户开放。<br />正如谷歌所指出的，Live Avatar 可以在其支持的 97 种语言之间自如切换，“且不会降低视频保真度或引入画面漂移”。谷歌分享的一段视频展示了其 Live Avatar 用英语和日语进行交谈，其嘴型动画在两种语言下都能与所说内容完美契合。此外，它还可以在说话的同时调出屏幕信息展示。<br />Live Avatar 的发布距谷歌披露其全新 Gemini 3.8 Live 模型约有一周时间，该公司称该模型“能够近乎实时地处理视觉输入”。尽管谷歌将为客户提供一个预设数字人图库以供选择，但同时也允许机构自行创建数字人形象。谷歌表示，Live Avatar 生成的内容均带有其不可见的 SynthID 水印，并配有旨在“尊重身份”的安全防护措施。<br />免费获取最重要新闻的每日文摘。<br />这是原生广告的标题</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-25 03:59 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#The</span>
-</div>
-
-<div class="news-card-footer"><a href="https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://github.com/egma-ai/jev-code-reviewer" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
 :::
 
 ::::
