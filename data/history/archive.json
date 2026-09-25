@@ -1,5 +1,1569 @@
 [
   {
+    "timestamp": 1790344766004,
+    "timeDisplay": "2026-09-25 21:59 (UTC+8)",
+    "date": "2026-09-25",
+    "runId": "feed-20260925T135548536Z-yxh8qe",
+    "generatedAt": "2026-09-25T13:59:26.004Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 21:55",
+      "lead": "本轮抓取于 2026-09-25 21:55 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】朝鲜黑客涉嫌盗窃3.51亿美元加密货币，为今年迄今最大盗窃案：朝鲜黑客涉嫌在周四的一次网络攻击中，从加密货币交易所Bitget的服务器中窃取了超过3.51亿美元。",
+        "【undefined】Amiga 屏幕机制入门指南：datagubbe.se » Amiga 屏幕机制入门指南",
+        "【undefined】Apple Home 的 AI 摄像头功能能否胜过亚马逊与谷歌？我做了一番实测：几年前，我参加了一场海滩复活节寻彩蛋活动，看着孩子们穿梭在沙丘间寻找甜点。我的手机在口袋里震动了一下；我没理会。片刻之后，它又震动了一次。我掏出手机低头一看，看到安防摄像头发来的一条“检测到活动”通知。“大概只是我的狗在院子里，”我想着，便没当回事。随着篮子里的彩蛋越堆越多，我的手机还在不断震动。我无奈地再次拿出手机，又看到了好几条“检测到活动”的提醒。我试图加载一段视频片段，但它只是一直在缓冲。回到家时，我发现养的四只宠物鸡都死了，全",
+        "【undefined】LLM 政策：不惜一切代价的“进步”：GNOME 和 KDE 已经开始考虑大语言模型（LLM）相关政策，我们应当认真探讨这背后的实质到底是什么。",
+        "【undefined】没人想要一台“螃蟹椅”：在我们上一期“好心办坏事：当无障碍工程师走偏时”的专栏中，我们重点介绍了一款尤为离谱的瑞士轮椅设计，上面居然配备了毫无必要的无人机。所幸的是，并非所有拿到空头支票来设计无障碍解决方案的工程师都如此脱离现实。更常见的情况是，大企业充裕资金带来的无拘无束，往往催生出极具诱惑力、充满未来感的酷炫设计，但不知怎的，这些设计留给我的空虚感却远多于兴奋感。",
+        "【undefined】再续跨国友谊 美国友人“赛考斯”送上中秋祝福：中秋佳节，美国友人“赛考斯”再次感谢中国人民的善意，通过视频送上节日祝福，祝大家度过美好的中秋佳节。",
+        "【undefined】“意大利银幕”展映拉开帷幕：8部意大利电影将在索非亚及保加利亚其他城市放映：（安莎社）- 罗马，9月25日 - 意大利驻保加利亚大使马塞洛·阿皮切拉（Marcello Apicella）出席了第22届“电影与文学”（Cinelibri）国际电影节的新闻发布会。该电影节由出版人雅克琳·瓦根施泰因（Jacqueline Wagenstein）发起，发布会于9月24日在保加利亚首都的军事俱乐部举行。负责文化和旅游事务的索非亚副市长伊琳娜·达科娃（Irina Dakova）也出席了新闻发布会。阿皮切拉大使在致辞中指出，",
+        "【undefined】霍尔木兹海峡重开希望与柴油短缺博弈，WTI原油剧烈震荡：点击此处查看150多种全球石油价格 欧盟施压英国跟随对中国制造汽车加征关税 标普全球表示需求激增…… 公用事业公司目前可能正在赚取…… 英国正着手开展一项……"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "暂无可分析文章",
+      "lead": "当前证据包未提供有效文章标题、正文、来源或可核验引文，无法进行日尺度分析。",
+      "themes": [
+        {
+          "name": "证据缺失",
+          "analysis": "目标文章字段为空，正文内容状态为缺失，事实、引文、实体和引用均为空，因此无法确认文章主题或提出有证据支持的判断。"
+        },
+        {
+          "name": "相关信息有限",
+          "analysis": "相关条目大多仍显示为待翻译标题，且缺少来源、链接和完整摘要；现有片段仅涉及亚太经合组织峰会筹备、中秋祝福、俄塞天然气协议及欧洲足球治理改革，无法据此合并为可靠主题。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 94,
+      "completedTasks": 94,
+      "succeeded": 75,
+      "degraded": 19,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 94,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 217404,
+      "byRole": {
+        "translator": {
+          "attempts": 66,
+          "succeeded": 48,
+          "degraded": 18
+        },
+        "fact-extractor": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "topic-classifier": {
+          "attempts": 8,
+          "succeeded": 8
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 94,
+          "succeeded": 75,
+          "degraded": 19
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-1-translator-0",
+      "article-6-translator-0",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-10-translator-0",
+      "article-11-translator-0",
+      "article-14-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-1",
+      "article-30-translator-0",
+      "article-32-translator-0",
+      "article-35-translator-0",
+      "article-39-translator-0",
+      "article-42-translator-0",
+      "article-43-translator-0",
+      "article-45-translator-0",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:25.791Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.054Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:25.798Z",
+        "lastSuccessAt": "2026-09-25T13:55:26.695Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.197Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.286Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.208Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.547Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:28.284Z",
+        "lastSuccessAt": "2026-09-25T13:55:30.010Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:28.239Z",
+        "lastSuccessAt": "2026-09-25T13:55:29.826Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:30.398Z",
+        "lastSuccessAt": "2026-09-25T13:55:30.582Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:26.200Z",
+        "lastSuccessAt": "2026-09-25T13:55:26.393Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.459Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.595Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.432Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.590Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:26.787Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.470Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:26.695Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.459Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:26.615Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.846Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:26.670Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.485Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:29.997Z",
+        "lastSuccessAt": "2026-09-25T13:55:30.590Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:28.870Z",
+        "lastSuccessAt": "2026-09-25T13:55:30.482Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:29.826Z",
+        "lastSuccessAt": "2026-09-25T13:55:30.148Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.485Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.870Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.054Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.208Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:26.867Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.197Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:26.173Z",
+        "lastSuccessAt": "2026-09-25T13:55:26.200Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:24.628Z",
+        "lastSuccessAt": "2026-09-25T13:55:26.173Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.743Z",
+        "lastSuccessAt": "2026-09-25T13:55:28.065Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.633Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.814Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.553Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.610Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.658Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.804Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.878Z",
+        "lastSuccessAt": "2026-09-25T13:55:28.207Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.470Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.553Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:30.010Z",
+        "lastSuccessAt": "2026-09-25T13:55:34.008Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.804Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.878Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:28.161Z",
+        "lastSuccessAt": "2026-09-25T13:55:28.302Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.985Z",
+        "lastSuccessAt": "2026-09-25T13:55:28.231Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:28.231Z",
+        "lastSuccessAt": "2026-09-25T13:55:28.870Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:30.148Z",
+        "lastSuccessAt": "2026-09-25T13:55:30.725Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.286Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.387Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.547Z",
+        "lastSuccessAt": "2026-09-25T13:55:28.161Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.610Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.743Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:28.207Z",
+        "lastSuccessAt": "2026-09-25T13:55:28.639Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-25T13:55:27.870Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.846Z",
+        "lastSuccessAt": "2026-09-25T13:55:28.284Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:24.626Z",
+        "lastSuccessAt": "2026-09-25T13:55:26.867Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-25T13:55:28.065Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:24.627Z",
+        "lastSuccessAt": "2026-09-25T13:55:26.787Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:28.302Z",
+        "lastSuccessAt": "2026-09-25T13:55:30.540Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.595Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.658Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:26.393Z",
+        "lastSuccessAt": "2026-09-25T13:55:26.670Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.814Z",
+        "lastSuccessAt": "2026-09-25T13:55:28.239Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.590Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.633Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:28.621Z",
+        "lastSuccessAt": "2026-09-25T13:55:30.398Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:28.639Z",
+        "lastSuccessAt": "2026-09-25T13:55:29.997Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.425Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.432Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:27.387Z",
+        "lastSuccessAt": "2026-09-25T13:55:27.425Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:24.615Z",
+        "lastSuccessAt": "2026-09-25T13:55:25.798Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:24.625Z",
+        "lastSuccessAt": "2026-09-25T13:55:25.791Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-25T13:55:24.625Z",
+        "lastSuccessAt": "2026-09-25T13:55:26.615Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-sinoptik-2120291892-html-51aa1915896e9d11",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Синоптик рассказал, какая погода ждет москвичей в начале октября",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T13:54:28.000Z",
+        "pubTime": "2026-09-25 21:54",
+        "url": "https://ria.ru/20260925/sinoptik-2120291892.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/0a/11/2048866815_0:311:3088:2048_650x0_80_0_0_4f0dc63273edbf659f1a246c9519edbe.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 21:54 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/sinoptik-2120291892.html",
+            "publishedAt": "2026-09-25T13:54:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-largest-so-far-this-year-a0bf224e120dd218",
+        "title": "朝鲜黑客涉嫌盗窃3.51亿美元加密货币，为今年迄今最大盗窃案",
+        "originalTitle": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:24:34.000Z",
+        "pubTime": "2026-09-25 21:24",
+        "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+        "imageUrl": null,
+        "fullContent": "North Korean hackers are suspected of stealing more than $351 million from the servers of cryptocurrency exchange Bitget during a cyberattack on Thursday.\n\nThe cyberattack is the latest in an ongoing spate of high profile hacks targeting the crypto sector. It’s also the largest known heist of digital currency this year, eclipsing a $340 million hack in September that saw the hacker returning all but $47 million of the stolen funds.\n\nIn a series of posts on X on Thursday and Friday, Bitget said the breach involved the unauthorized transfer of crypto from its hot wallets, which are connected to the internet and designed to be used for active trading. Bitget has since suspended crypto withdrawals on its network. The company said it has $464 million in its user protection fund, which should cover the costs of the theft.\n\nBitget chief executive Gracy Chen said the breach and heist was “highly consistent with known patterns of North Korean hacker organizations.” Such collectives have been linked to crypto thefts and have been suspected of targeting open-source software to mass-hack victims with the aim of funding the country’s nuclear weapons program.\n\nAccording to blockchain intelligence firm TRM Labs, North Korea is behind around three-quarters of all crypto thefts during 2026 to date.\n\nChen did not say when Bitget’s withdrawals would open again.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "朝鲜黑客涉嫌在周四的一次网络攻击中，从加密货币交易所Bitget的服务器中窃取了超过3.51亿美元。\n\n这起网络攻击是针对加密货币领域持续发生的一系列引人注目的黑客攻击事件中的最新一起。这也是今年已知最大的一起数字货币盗窃案，超过了9月份发生的一起涉案金额达3.4亿美元的黑客攻击事件（在那起事件中，黑客归还了除4700万美元以外的全部被盗资金）。\n\n在周四和周五于X平台发布的一系列帖子中，Bitget表示此次安全漏洞涉及从其热钱包中未经授权转移加密货币，这些热钱包连接至互联网，旨在用于活跃交易。Bitget此后已暂停其网络上的加密货币提现。该公司表示其用户保护基金拥有4.64亿美元，应能弥补盗窃造成的损失。\n\nBitget首席执行官陈茜（Gracy Chen）表示，此次漏洞和盗窃案“与已知的朝鲜黑客组织行为模式高度吻合”。此类组织与多起加密货币盗窃案存在关联，并被怀疑以开源软件为目标，对受害者进行大规模网络攻击，以资助该国的核武器计划。\n\n根据区块链情报公司TRM Labs的数据，截至目前，朝鲜在2026年所有加密货币盗窃案中约占四分之三。\n\n陈茜并未透露Bitget何时会重新开放提现。\n\n你的下一个重要人脉就在Disrupt。与10,000多位创始人、风投、运营者和技术领袖建立联系。探索明天的突破，倾听塑造当今科技的声音，并在太平洋时间9月25日晚上11:59之前立省高达200美元。\n\n每周工作日和周日，你都可以获取TechCrunch的最佳报道。\n\nTechCrunch Mobility是你获取交通领域新闻与见解的首选之地。\n\n初创公司是TechCrunch的核心，欢迎订阅我们每周精选的最佳报道。\n\n为行业领袖和决策者提供开启新一天所需的信息。\n\n提交您的电子邮件，即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "加密货币交易所Bitget在周四遭到网络攻击，黑客从其服务器盗取了超过3.51亿美元。",
+          "此次事件是今年已知最大规模的数字货币盗窃案，超过了9月份一起3.4亿美元的黑客攻击事件。",
+          "来源叙事重点：聚焦加密货币交易所Bitget遭遇2026年最大规模黑客盗窃案（3.51亿美元），将事件置于针对加密行业的高频攻击背景下，并重点突出攻击模式指向朝鲜黑客组织及其对地缘政治（如核武融资）的潜在关联"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T13:24:34.000Z",
+            "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/"
+          }
+        ]
+      },
+      {
+        "id": "story-reasury-yields-soar-html-a4e16521f6d8d2fa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here's what happens to the economy when Treasury yields soar like they are now",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:48:19.000Z",
+        "pubTime": "2026-09-25 21:48",
+        "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+        "imageUrl": null,
+        "fullContent": "Soaring Treasury yields aren't just bad for the government and its $40 trillion debt. They also threaten to raise borrowing costs, hitting everyone from homeowners to credit card users, while providing limited help to savers and potential benefits to banks.\n\nGovernment debt costs leaped higher this week, the product of multiple factors including a fresh report revealing heightened inflation pressures, surging expectations for a Federal Reserve rate hike in October and an auction for 5-year notes showing that Treasury demand was weak. Competition from hyperscaler debt issuance also is seen as an aggravating factor.\n\nYields responded by jumping more than they have in nearly a year and a half, dating back to April 2025 when President Donald Trump first announced so-called reciprocal tariffs against U.S. trading partners. Recent market liquidity efforts pushed by Treasury Secretary Scott Bessent have had no impact so far, with rates surging higher despite intensified buyback efforts on longer-dated debt.\n\nThe 10-year note, a benchmark for mortgages and other longer-term borrowing, saw its yield hit 5.19%, a level not seen since before the global financial crisis. Similarly, the 2-year note, which typically responds to Fed rate expectations and signals rates for home equity, auto loans and other debt, climbed more than 13 basis points past 4.9% as traders priced in a strong possibility that the central bank would follow its hike last week with another in October.\n\nOne basis point equals 0.01% and yields move opposite prices.\n\nSuch moves generally portend higher borrowing rates that hit the U.S. economy where it hurts the most — consumers, who drive almost 70% of all economic activity and hold nearly $19 trillion in total debt.\n\nWhile savers will benefit with incrementally higher rates on their bank savings accounts, it's unlikely to offset the pain they'll feel elsewhere, said Dan North, senior economist with Allianz Trade North America.\n\n\"The consumer's the most important part of the economy,\" North said. \"They're going from little tiny yields on savings to ever slightly bigger tiny yields on savings. So I don't think that really yet helps the consumer that much. But it sure does crush housing, and it [impacts] on all those personal consumer loans, the credit cards and so forth.\"\n\nIndeed, the interest rate on plain-vanilla savings accounts is around 0.37% and has been on a modest decline since the Fed enacted three quarter-point cuts late in 2025, according to Federal Deposit Insurance Corp. data.\n\nMortgage rates, though, have been on an entirely different trajectory and are likely to continue rising. A typical 30-year mortgage is now at 7.26%, up more than a quarter percentage point in just the past couple of weeks and nearly a full point over the past year, according to Mortgage News Daily.\n\nCredit card interest rates have been fairly steady over the past few years, but also are unlikely to stay that way if current trends hold up.\n\nWhen the Fed hikes, it feeds directly into the prime rate, which is used as a baseline for adjustable-rate credit and most recently was at 7%, after rising a quarter point off last week's Fed move.\n\nTaken together, the factors make it more expensive for consumers to borrow and less likely that they'll seek the loans and credit that fuel a lot of the activity in the $32 trillion U.S. economy.\n\n\"You raise the fed funds rate, rates in the short term and effectively all along the curve go up,\" North said. \"If it makes it harder for somebody to buy a car, then there's less demand for cars and there's less demand for auto workers, and the economy slows down. That's sort of basic economics, but that's how it works.\"\n\nThere are some positives from the higher rates.\n\nAside from whatever gains savers get, banks can benefit. The industry's model is based on a variety of factors that can benefit in times of higher rates. This includes what banks charge their borrowers and the margin these institutions earn, as well as the interest they pay to depositors.\n\nHowever, even bank stocks were mostly lower Wednesday as dramatically higher yields could slow loan demand and broader economic activity, which otherwise has been solid. The Atlanta Fed is tracking GDP growth of 5.1% for the third quarter, another element that could be factoring into higher yields.\n\nPersistently higher yields, though, pose dangers to that growth picture.\n\n\"Smaller and medium enterprises are going to be suffering the worst because they have less ability to borrow,\" North said. \"Less availability of credit makes it more difficult.\"\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国政府债务规模达到40万亿美元。",
+          "基准10年期美债收益率升至5.19%，创全球金融危机前以来的最高水平。",
+          "来源叙事重点：聚焦美债收益率与政府借贷成本飙升对终端消费者（房贷、车贷、信用卡）及中小企业的挤压，强调高利率对作为经济主引擎的消费支出的抑制风险，对财政部干预措施的有效性持怀疑态度。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T13:48:19.000Z",
+            "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html"
+          }
+        ]
+      },
+      {
+        "id": "story-amscr-3c9e2f07427bc008",
+        "title": "Amiga 屏幕机制入门指南",
+        "originalTitle": "Amiga screens: a primer",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:01:42.000Z",
+        "pubTime": "2026-09-25 21:01",
+        "url": "https://www.datagubbe.se/amscr/",
+        "imageUrl": null,
+        "fullContent": "datagubbe.se » amiga screens: a primer\n\nOne of the unwritten rules of the Internet seems to be that whenever something Amiga-related is mentioned, at least one Amiga fan (myself included) must show up and try to explain the concept of screens. Amiga screens can have different resolutions, we'll tell you, and one can drag them, we'll say, and other Amiga users rally in agreement, while non-Amiga users probably still don't get what's so great about screens. Until now, when this text has been written, in the hope of converting unsuspecting normies into full-blown Amiga screen lovers.\n\nFor practical purposes, this text will focus on the original Amiga graphics hardware, called OCS (Original ChipSet). Some hardware limitations were removed in the subsequent ECS (Enhanced ChipSet) and AGA (Advanced Graphics Architecture) upgrades, but the same basic principles and user experience still apply.\n\nA typical Amiga screen, showing a Workbench desktop with a shell window open.\n\nThe specific meaning of screen on the Amiga comes from the operating system, which uses this term to refer to a particular type of display area because it is, well, a screen. Amiga games and demo programmers aren't as bothered by this concept; the Amiga Hardware Reference Manual, for example, refers to a display area as a \"playfield\", and a demo coder might talk about raster splits, but for simplicity, let's stick to screen.\n\nHence, a screen on the Amiga is, basically, an area onto which graphics is drawn. Amiga screens can have different resolutions and colour depths, and a program can open any number of different-resolution screens to display graphics.\n\nToday, we mostly use a single, fixed-resolution display area, which is a combined effect of how modern operating systems and flatscreen monitors work. In the heydays of CRT monitors, however, opening different-resolution displays was commonplace. An image viewer running on a VGA-capable MS-DOS machine, for example, might use a 16-colour, 720x400 pixel text mode resolution for browsing files, and then open a new 256-colour 320x200 display when viewing an image.\n\nThese variations in resolution and colour depth existed on basically all home computers, and were hardware-enforced tradeoffs to achieve reasonable speed and memory consumption for different use cases. Memory was very expensive at the time (Oh, how history repeats itself!) and the Amiga, which in its stock hardware configuration relied on a relatively small amount of RAM being shared between the CPU, video and audio hardware, offered a high level of control over these screen resolutions and colour depths.\n\nTo manipulate the colour value of individual pixels, planar graphics is used, which means that the colour depth of a screen is increased by adding more bitplanes (bpl for short). Each bitplane is stored separately in memory, and in order to change the colour index of a pixel, a bit must be toggled in each plane.\n\nThus, a one-bitplane screen gives two colour indices, two bitplanes gives four and so on, up to five bitplanes and 32 colours on the original Amiga hardware (or 8 bpl and 256 colours on AGA).\n\nAn illustration of how bitplanes are combined together to represent per-pixel colour indices. (From the Amiga Hardware Reference Manual)\n\nOn OCS and ECS, the maximum number of bitplanes per screen is determined by its display resolution, and these are designed to make sense on a PAL or NTSC television set. An OCS Amiga offers low-res and high-res. On PAL, low-res is 320x256 pixels (320x512 with interlace) in up to 32 colours (5 bpl). High-res is 640x256 (640x512 with interlace) in up to 16 colours (4 bpl). These base resolutions can be increased slightly by using overscan, which in high-res can be up to 724x283, but isn't guaranteed to be fully visible on all monitor types or television sets.\n\nIn low-res, a sixth bitplane can be used for HAM (Hold-And-Modify), allowing free use of all of the OCS Amiga's 4096 colours simultaneously (with some caveats), or EHB (Extra Half-Brite) which duplicates a 32 colour palette into 32 additional copies of the original colours, but with half the original brightness value.\n\nDeluxe Paint editing an EHB image. Note the colour selector in the bottom right of the screen: The two rightmost columns are \"half-brite\" copies of the colours in the first two columns. The half-brightness isn't always perfect, since it's limited by the 12-bit colour space.\n\nUnlike most of its contemporary competitors, the Amiga has true, preemptive multitasking, for which planar graphics offers convenient resource frugality. A text editor might work just fine on a 2-colour screen, saving memory that can be used for simultaneously running a graphics program on a 32-colour screen. It's also memory-saving in the sense that only the exactly required number of bits are needed to store a single pixel while keeping memory addressing sane, instead of, say, allocating one byte per pixel and wasting the unused bits. In addition, a screen can be arbitrarily dimensioned and positioned, such as displaying a 320x50 pixel low-res screen at the bottom of the physical display area. Not using more pixels than necessary per screen will also help save memory.\n\nThe Amiga was originally designed as a games machine, which means it's got lots of hardware features for working with graphics. Repositioning a screen is instant, and scrolling an entire screen is extremely fast, to the point that even the operating system allows the user to configure a desktop screen that's larger than the visible area, and scroll around it using the mouse.\n\nIt's also easy to change the display resolution and colour depth at arbitrary points in the redraw cycle. This means that several screens can be combined at once, even overlapping, while maintaining a uniform display experience for the end user. Consider the following example:\n\nSimultaneous display of two screens with different resolutions and colour depths.\n\nThe above example has been created using the BASIC dialect AMOS, which has its own take on the screen concept and provides simple abstractions for working with the Amiga's graphics hardware. Any type of graphics operation can still be performed individually on any of the screens, such as drawing, scrolling, repositioning the screen and changing the palette.\n\nThis is an ordinary 4-colour Workbench screen. The background gradient is created using the copper, by changing the value of colour index 0 at regular intervals during video rendering.\n\nCombining screens with different resolutions and colour depths has a multitude of use cases. Even if the maximum number of colours per screen is 32, these 32 colours can be different on each screen. Thus, a game might display 64 or more colours simultaneously by using 32 colours for the main game area and 32 different colours for the user interface and/or status display. This can then be combined with copper gradients to further boost the colour count.\n\nApart from games, this swift graphics handling is also convenient when running multitasking productivity software, which (at last!) brings us to screen dragging.\n\nBecause of the low display resolutions offered by home computers and early PCs, most applications ran in full-screen mode, taking over the entire display area to show as much information (and user interface) as possible. When multitasking on the Amiga, the user can quickly switch between entire screens using either a button in the top right of the screen, or a system-wide keyboard shortcut. However, screens can also be dragged by clicking and, well, dragging the screen title bar downwards using the mouse. This will reveal another running program's screen behind it, as illustrated below.\n\nAn illustration of how screen dragging might look on a user's monitor.\n\nI must confess that even though many of us Amiga fans go on about it, the actual usefulness of screen dragging is limited, at least in my personal workflows. However, the effect must have been rather stunning in 1985, when multitasking and colour graphics were rarely seen in combination other than on very expensive Unix workstations. One use case suggestion is that you can drag down your chat program screen just a bit to check on a file download progressing on the web browser screen behind it, but full-screen switching on the Amiga is so effortless that dragging usually feels a bit cumbersome.\n\nIn order to show just how snappy this screen handling is, I've prepared a short movie clip. It's filmed off a flatscreen monitor connected to an Amiga 600, which is a 7 MHz (that's 0.007 GHz) machine based around essentially the same hardware as the original Amiga 1000 in 1985. Here it's playing some music while also running a text editor and the graphics program Deluxe Paint, and of course performing screen switching and dragging:\n\nClick above to watch the movie.\n\nThe Amiga is also capable of something called dual playfields, which means that for two overlapping screens, colour index 0 on the frontmost screen becomes transparent and will display the contents of the screen below it. The other colour indices remain intact, and all the usual stuff can still be performed individually on each screen: scrolling, painting graphics, palette changes and so on.\n\nAn illustration of Dual Playfields from the Amiga Hardware Reference Manual.\n\nThe screenshot below shows dual playfields in combination with sprites. The burgundy background and pink stars are painted on the background playfield, which is a 4-colour screen. The green and purple bars are sprites, with the sprite drawing priority set to position them between the two playfields. Everything else is drawn on the foreground playfield, which is an 8-colour screen. The Amiga hardware ensures that each layer can be smoothly animated even on a 7 MHz machine.\n\nCurious readers can download or watch this little Amiga intro through Demozoo.\n\nOn modern machines, I typically prefer to run programs as individual, stacking windows. Partly because there's enough screen real estate to go around these days, and partly because many modern programs are designed for this type of behavior. I do like to run some applications maximized to cover the entire screen, such as Visual Studio Code. Thanks to virtual desktops in my window manager, I can then swiftly switch to another working area, just as instantly as I do on my Amiga.\n\nSome programs, however, look silly when maximized on a high-resolution widescreen display. I prefer reading man pages in an 80-column terminal window, and I find that orthodox file managers feel much more reasonable in squarish aspect ratios such as 5:4. The upside of running many windowed applications on the same screen is that they can all be visible at the same time, allowing for fast context switching. The downside is that certain mouse workflows are only really applicable to full-screen applications.\n\nTake Directory Opus, for example. It's one of the best orthodox file managers I know of, and when running in full screen on my Amiga, I can do nifty things like slamming my mouse pointer to either edge of the screen and single-click, which will bring me to the parent of whatever directory is currently displayed in the corresponding lister.\n\nClicking the edge of a Directory Opus file lister.\n\nThe exact same feature can of course be implemented in a more window-focused environment, but it would be pointless: Without the edge of the screen creating a boundary for the mouse pointer, the thin clickable area would be annoyingly hard to target.\n\nA simpler pleasure, but one that's hard to replicate properly on a modern widescreen monitor, is that of editing code - or running just about any terminal-based application - in an 80x24 character full screen text mode. There's something about those proportions that just feels right.\n\nThis text only scrapes the surface of screens and the Amiga graphics hardware. Planar graphics, for example, allows for a lot of interesting trickery and effects by manipulating only some of the bitplanes making up a pixel's colour value. And we haven't even mentioned the Amiga's blitter hardware yet, which allows for blazingly fast graphics memory copying with various modes for combining or masking out bitplanes - exceptionally useful for high-octane arcade action.\n\nSprites have been mentioned only briefly, without discussing how they can be used to add extra colour to low-bitplane screens or be multiplexed together to add more sprite colours. If you'd like to know more about that, I recommend Codetapper's Amiga Site which examines the graphics aspect of Amiga games programming in great detail. I highly recommend the article on Shadow of the Beast, which uses the Amiga's graphics hardware very creatively, resulting in a visually stunning game with several layers of smooth parallax scrolling.\n\nAmiga screens have many interesting properties:\n\nAmiga software, including the operating system, makes good use of these features. This allows for productive multitasking workflows despite the machine's limited hardware resources and relatively low display resolution.\n\nNow, since I've mentioned the Amiga online, I just have to wait for some Amiga fan to send me a mail trying to explain what's so great about screens. In the meantime, take care and happy hacking!",
+        "fullTranslation": "datagubbe.se » Amiga 屏幕机制入门指南\n\n互联网上似乎有一条不成文的规律：只要有人提起与 Amiga 相关的事情，就必然会至少有一个 Amiga 粉丝（包括我自己）现身，试图向大家解释“屏幕（screens）”这一概念。我们会告诉你，Amiga 的屏幕可以拥有不同的分辨率；我们会说，你还可以拖动它们；其他 Amiga 用户也会齐声附和，而没有接触过 Amiga 的用户大概仍然搞不懂屏幕到底有什么了不起。直到现在，我写下了这篇文章，希望能将毫无防备的普通用户彻底转变为 Amiga 屏幕的狂热爱好者。\n\n出于实用考虑，本文将重点探讨最初的 Amiga 图形硬件，即 OCS（原始芯片组，Original ChipSet）。虽然在后来的 ECS（增强芯片组，Enhanced ChipSet）和 AGA（先进图形架构，Advanced Graphics Architecture）升级中解除了一些硬件限制，但相同的基本原理和用户体验依然适用。\n\n一个典型的 Amiga 屏幕，展示了打开 Shell 窗口的 Workbench 桌面。\n\n“屏幕”在 Amiga 上的特定含义源于操作系统，系统用这个术语来指代一种特定类型的显示区域，因为本质上它确实就是一个“屏幕”。Amiga 游戏和 Demo（演示程序）程序员并没有被这个概念所拘束；例如，《Amiga 硬件参考手册》将显示区域称为“活动场（playfield）”，而 Demo 程序员可能会谈论光栅分割（raster splits），但为了简单起见，我们还是沿用“屏幕”这一称呼。\n\n因此，Amiga 上的屏幕基本上就是一个用于绘制图形的区域。Amiga 屏幕可以拥有不同的分辨率和色彩深度，一个程序可以打开任意数量具有不同分辨率的屏幕来显示图形。\n\n如今，我们大多使用单一且固定分辨率的显示区域，这是现代操作系统与平板显示器协同工作的结果。然而，在 CRT 显示器的全盛时期，打开不同分辨率的显示界面是极为寻常的事。例如，在支持 VGA 的 MS-DOS 计算机上运行的图像查看器，在浏览文件时可能会使用 16 色、720×400 像素的文本模式分辨率，而在查看图片时则会打开一个全新的 256 色、320×200 像素的显示界面。\n\n这种分辨率和色彩深度的变化基本上存在于当时所有的家用电脑中，是硬件为了在不同使用场景下兼顾合理运行速度与内存开销而做出的权衡。当时的内存非常昂贵（历史总是何其相似！），而 Amiga 在其原厂硬件配置中，依赖的是 CPU、视频和音频硬件共享的相对较小的 RAM 空间，因此它提供了对这些屏幕分辨率和色彩深度的高度控制权。\n\n为了操作单个像素的颜色值，Amiga 采用了平面图形（planar graphics）技术，这意味着屏幕的色彩深度是通过增加更多位平面（bitplane，简称 bpl）来实现的。每个位平面在内存中单独存储，要改变某个像素的颜色索引，必须在各个平面中切换对应的比特位。\n\n因此，单一位平面屏幕可提供 2 个颜色索引，两个位平面可提供 4 个颜色，依此类推，在最初的 Amiga 硬件上最多支持 5 个位平面和 32 种颜色（在 AGA 硬件上可达 8 个位平面和 256 种颜色）。\n\n展示位平面如何组合在一起表示每个像素颜色索引的示意图。（出自《Amiga 硬件参考手册》）\n\n在 OCS 和 ECS 上，每个屏幕支持的最大位平面数取决于其显示分辨率，这些分辨率设计旨在与 PAL 制式或 NTSC 制式的电视机相契合。配备 OCS 的 Amiga 提供低清（low-res）和高清（high-res）模式。在 PAL 制式下，低清模式为 320×256 像素（隔行扫描下为 320×512 像素），最多支持 32 种颜色（5 个位平面）。高清模式为 640×256 像素（隔行扫描下为 640×512 像素），最多支持 16 种颜色（4 个位平面）。这些基础分辨率可以通过使用过扫描（overscan）略微增加，在高清模式下最高可达 724×283 像素，但并不能保证在所有类型的监视器或电视机上都能完全显示。\n\n在低清模式下，可以使用第六个位平面来实现 HAM（保持与修改，Hold-And-Modify）模式，从而允许在存在某些限制的情况下，同时自由使用 OCS Amiga 全部 4096 种颜色；或者使用 EHB（额外半亮度，Extra Half-Brite）模式，它将 32 色的调色板复制为原本颜色的额外 32 份副本，但亮度值仅为原色的一半。\n\nDeluxe Paint 正在编辑一张 EHB 图像。请注意屏幕右下角的颜色选择器：最右侧的两列正是前两列颜色的“半亮度”副本。由于受到 12 位色彩空间的限制，半亮度的呈现并不总是完美的。\n\n与当时的大多数竞争对手不同，Amiga 拥有真正的抢占式多任务处理能力，而平面图形技术为此提供了极为便利的资源节省手段。文本编辑器在 2 色屏幕上可能就能很好地运行，从而省下内存供同时在 32 色屏幕上运行的图形软件使用。它节约内存的另一层体现在于：存储单个像素只需要绝对必要数量的比特位，同时又能保持内存寻址的合理性，而不是像每个像素分配一个字节那样白白浪费掉未使用的位。此外，屏幕的尺寸和位置可以任意设定，例如可以在物理显示区域的底部显示一个 320×50 像素的低清屏幕。每个屏幕不使用超过实际所需的像素，也有助于节省内存。\n\nAmiga 最初是作为游戏机设计的，这意味着它具备大量用于图形处理的硬件特性。重新定位屏幕是瞬间完成的，整屏滚动的速度也极快，甚至连操作系统都允许用户配置一个比可见区域更大的桌面屏幕，并通过鼠标在其周围滚动浏览。\n\n此外，在重绘周期的任意时间点更改显示分辨率和色彩深度也是轻而易举的事。这意味着可以同时组合多个屏幕，甚至让它们重叠，同时仍为最终用户维持一致的显示体验。请看下面这个例子：\n\n同时显示两个分辨率和色彩深度均不相同的屏幕。\n\n上面的示例是使用 BASIC 方言 AMOS 创建的，AMOS 对屏幕概念有自己的理解，并为操作 Amiga 的图形硬件提供了简单的抽象。在任何一个屏幕上，仍然可以单独执行任何类型的图形操作，例如绘图、滚动、重新定位屏幕以及更改调色板。\n\n这是一个普通的 4 色 Workbench 屏幕。背景渐变是通过 Copper 协处理器实现的，它在视频渲染期间定期改变颜色索引 0 的数值。\n\n将具有不同分辨率和色彩深度的屏幕进行组合，有着非常多的应用场景。即使每个屏幕的最大颜色数是 32 种，这 32 种颜色在各个屏幕之间也可以互不相同。因此，一款游戏可以通过在主游戏区域使用 32 种颜色，而在用户界面和/或状态显示栏使用另外 32 种不同的颜色，从而同时显示 64 种或更多颜色。这还可以进一步结合 Copper 渐变，以此进一步大幅增加同屏显示的色彩数量。\n\n除了游戏之外，这种迅捷的图形处理能力在运行多任务生产力软件时也极为便利，这（终于！）把我们引向了“屏幕拖动”（screen dragging）。\n\n由于早期家用电脑和 PC 提供的显示分辨率较低，大多数应用程序都在全屏模式下运行，占据整个显示区域以显示尽可能多的信息（和用户界面）。在 Amiga 上进行多任务处理时，用户可以通过屏幕右上角的按钮或系统全局键盘快捷键在各个完整的屏幕之间快速切换。然而，屏幕也可以通过鼠标点击并——没错——向下拖动屏幕标题栏来进行拖曳。这样就会露出位于其后方运行的另一个程序的屏幕，如下所示。\n\n[图片说明：屏幕拖动在用户显示器上可能呈现的效果图。]\n\n我必须坦白，尽管我们许多 Amiga 粉丝对此津津乐道，但屏幕拖动的实际实用价值有限，至少在我的个人工作流中是这样。然而，在 1985 年，当多任务处理和彩色图形的结合在除了极其昂贵的 Unix 工作站之外罕见一见时，这种效果想必相当令人惊叹。一个建议的使用场景是，你可以将聊天程序屏幕稍稍向下拖动一点，以查看位于其后方的网页浏览器屏幕上的文件下载进度，但 Amiga 上的全屏切换是如此轻松顺畅，以至于拖动操作通常让人觉得有些繁琐。\n\n为了展示这种屏幕处理有多么利落迅捷，我准备了一段简短的视频剪辑。它是用连接在 Amiga 600 上的平板显示器拍摄的，该机器运行主频为 7 MHz（也就是 0.007 GHz），其底层硬件与 1985 年的原始 Amiga 1000 基本相同。在这里，它一边播放音乐，一边同时运行一个文本编辑器和绘图程序 Deluxe Paint，当然还在执行屏幕切换和拖动：\n\n[点击上方观看视频。]\n\nAmiga 还具备一种名为“双游戏场地”（dual playfields）的特性，这意味着对于两个重叠的屏幕，最前面屏幕的颜色索引 0 会变成透明，从而显示出其下方屏幕的内容。其他颜色索引保持不变，并且通常的所有操作仍可以在各个屏幕上独立执行：滚动、绘制图形、调色板更改等等。\n\n[图片说明：《Amiga 硬件参考手册》中关于双游戏场地（Dual Playfields）的插图。]\n\n下方的截图展示了双游戏场地与精灵（sprites）的结合使用。酒红色的背景和粉色星星绘制在背景游戏场地（这是一个 4 色屏幕）上。绿色和紫色的条形物是精灵，精灵的绘制优先级被设置为置于两个游戏场地之间。其余所有内容均绘制在前景游戏场地（一个 8 色屏幕）上。Amiga 硬件确保即使在 7 MHz 的机器上，每一层也能流畅动画化。\n\n好奇的读者可以通过 Demozoo 下载或观看这个 Amiga 小片头程序（intro）。\n\n在现代机器上，我通常更喜欢将程序作为独立、层叠的窗口运行。部分原因在于如今屏幕空间足够充裕，另一部分原因在于许多现代程序本身就是为这种交互方式而设计的。我确实喜欢把某些应用程序最大化以铺满整个屏幕，比如 Visual Studio Code。多亏了窗口管理器中的虚拟桌面，我可以随后快速切换到另一个工作区，就像在我的 Amiga 上一样即时。\n\n然而，某些程序在高分辨率宽屏显示器上最大化时看起来会很滑稽。我更喜欢在 80 列的终端窗口中阅读 man 手册页，而且我发现正统文件管理器在类似 5:4 这样的接近正方形的高宽比下感觉合理得多。在同一屏幕上运行多个窗口化应用程序的优点在于它们可以同时可见，从而实现快速的上下文切换。缺点则是某些鼠标工作流实际上只适用于全屏应用程序。\n\n以 Directory Opus 为例。它是我所知道最好的正统文件管理器之一，当在我的 Amiga 上全屏运行时，我可以做一些巧妙的操作，比如直接将鼠标指针猛推到屏幕边缘并单击，这会带我进入对应文件列表当前所显示目录的父目录。\n\n[图片说明：点击 Directory Opus 文件列表的边缘。]\n\n完全相同的功能当然也可以在更以窗口为中心的环境中实现，但这毫无意义：如果没有屏幕边缘为鼠标指针提供边界屏障，那个狭窄的可点击区域将很难对准，令人抓狂。\n\n还有一种更单纯的乐趣——但在现代宽屏显示器上很难完全重现——那就是在 80x24 字符的全屏文本模式下编辑代码，或者运行几乎任何基于终端的应用程序。那种比例总有一种让人感觉恰到好处的质感。\n\n本文仅触及了屏幕机制和 Amiga 图形硬件的皮毛。例如，平面图形（planar graphics）允许通过仅操纵构成像素颜色值的部分位平面（bitplanes）来实现许多有趣的技巧和特效。我们甚至还没提到 Amiga 的位块传输器（blitter）硬件，它允许以惊人的速度进行图形内存复制，并具有用于组合或遮罩位平面的各种模式——这对于节奏激烈的街机类动作游戏来说极其有用。\n\n精灵只是被简要提及，并没有讨论如何利用它们为低位平面屏幕添加额外的颜色，或者如何将它们复用叠加以增加更多精灵颜色。如果你想了解更多，我推荐 Codetapper 的 Amiga 网站，该网站非常详细地剖析了 Amiga 游戏编程的图形方面。我强烈推荐关于《野兽之影》（Shadow of the Beast）的文章，该游戏极具创造性地运用了 Amiga 的图形硬件，从而造就了一款拥有多层平滑视差滚动的惊艳游戏。\n\nAmiga 屏幕具有许多有趣的特性：\n\n包括操作系统在内的 Amiga 软件充分利用了这些功能。尽管机器的硬件资源有限且显示分辨率相对较低，这仍旧实现了高效的多任务工作流程。\n\n现在，既然我已经在网上提到了 Amiga，我只需静候某些 Amiga 粉丝给我发邮件，向我解释屏幕机制到底有多么伟大了。在此期间，保重身体，祝黑客编程愉快！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 42,
+        "translationParagraphs": 42,
+        "keyTakeaways": [
+          "在Amiga操作系统中，“screen”（屏幕）指代绘制图形的特定显示区域，不同屏幕可具有不同的分辨率和色彩深度。",
+          "原始Amiga图形硬件被称为OCS（Original ChipSet），随后的升级版本包括ECS（Enhanced ChipSet）和AGA（Advanced Graphics Architecture）。",
+          "来源叙事重点：深度科普经典计算机平台 Amiga 独特的“屏幕（Screens）”概念与图形硬件底层机制（如位平面、OCS架构、双播放区等），阐述其在极度受限的内存与硬件条件下实现抢占式多任务与多分辨率混显的工程智慧，并反思“屏幕拖动”等标志性功能的实际实用性与现代窗口界面的对比。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T13:01:42.000Z",
+            "url": "https://www.datagubbe.se/amscr/"
+          }
+        ]
+      },
+      {
+        "id": "story--09-pupil-responses-html-deb2720fe955305a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What we evaluate, not just what we see, shapes pupil responses",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:40:08.000Z",
+        "pubTime": "2026-09-25 21:40",
+        "url": "https://phys.org/news/2026-09-pupil-responses.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/pupils-respond-not-onl.jpg",
+        "fullContent": "Our pupils become smaller under brighter conditions and larger under darker conditions. In addition to responding to changes in light, pupil size is influenced by attention, emotion and how visual objects are perceived.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 21:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-pupil-responses.html",
+            "publishedAt": "2026-09-25T13:40:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0925-gid-2120291757-html-e07aaa7bf7d700c8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Первый гастрономический гид презентовали в Саратовской области",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T13:54:04.000Z",
+        "pubTime": "2026-09-25 21:54",
+        "url": "https://ria.ru/20260925/gid-2120291757.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/152843/65/1528436573_0:188:1500:1032_650x0_80_0_0_d2705a426dfd734df46353d35c6aa0c8.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 21:54 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/gid-2120291757.html",
+            "publishedAt": "2026-09-25T13:54:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--nest-gemini-home-review-c58ed3cc3208b882",
+        "title": "Apple Home 的 AI 摄像头功能能否胜过亚马逊与谷歌？我做了一番实测",
+        "originalTitle": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:00:00.000Z",
+        "pubTime": "2026-09-25 21:00",
+        "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a “motion detected” notification from my security camera. “Just my dog in the yard,” I thought, dismissing it. As the colorful eggs piled up in the baskets, my phone kept buzzing. Reluctantly, I pulled it out again and saw several more “motion detected” alerts. I tried to load a video clip, but it just buffered endlessly. When I returned home, I found my four pet chickens dead, killed by my small border terrier. Looking back over the camera footage, I saw that they had pushed open their coop door, which I, in a rush to get to the Easter festivities, hadn’t properly secured. If instead of “motion detected,” that first notification had read “small dog chasing a chicken,” I would have raced back home and maybe saved them.  Today, that type of notification is possible. With AI-generated text descriptions, a short message describing what the camera saw can arrive almost instantly, well before a video feed loads, painting the whole scene in a sentence.  Most major security camera companies now offer text descriptions, which combine traditional motion triggers with Vision Language Models, including Ring, Google Nest, Blink, Wyze, and Arlo. This month, with iOS 27, Apple finally brought the capability to its HomeKit Secure Video service with the launch of Apple Intelligence for Home.  The surprise is that Apple is charging up to three times as much as its competition for the feature. Is it worth it? And are security cameras getting better at telling us about what actually matters? [Image: You’d think no one can get past my door without me knowing about it. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5904.jpeg?quality=90&strip=all] I’ve been testing Apple Intelligence for Home since it launched in beta this summer, alongside Amazon Ring’s and Google Nest’s AI camera features introduced last year. I installed several cameras for each, but for this piece, I focused mainly on video doorbells — which I set up when iOS 27 officially arrived on September 14th. I tested a Ring Wired Doorbell Pro ($249.99), Google Nest Doorbell 2K ($199.99), and for Apple, the HomeKit Secure Video-compatible Aqara Doorbell Camera G400 ($99). I focused on how quickly each service sent the AI-powered notifications, how accurate and useful the descriptions were at telling me what happened, and how reliably it captured and notified me about activity. I also tested other AI-powered features each platform offers, including Apple’s ability to search and stitch together activity across multiple cameras, Ring’s Unusual Event that distinguished normal activity from out-of-the-ordinary events, and Google’s ability to trigger automations based on what a camera sees. The AI features on all three platforms are a significant improvement over their basic smart alerts. It’s now easier to understand what’s happening at a glance and decide whether to react, and security cameras feel more useful and less annoying overall. Ultimately, the real value of AI in cameras isn’t in describing what they see, but in using that knowledge to figure out what you actually need to know, and eventually what your home should do about it.  What Apple Intelligence provides, at what price --- How to use Apple Intelligence for Home You need an iCloud Plus plan, a HomeKit Secure Video-compatible camera, an Apple Home Hub running HomePod/tvOS 27, and an AI-capable iPhone running iOS 27. Three iCloud Plus tiers support Apple Intelligence on one or more cameras: * 2TB plan: $9.99 a month (or Apple One / $39.95 a month) for one camera * 6TB plan: $29.99 a month for two cameras * 12TB plan: $59.99 a month for up to five cameras * No tier supports more than five cameras. Note: standard HomeKit Secure Video recording also requires an iCloud Plus plan, starting at $0.99 for one camera (50GB plan), $2.99 for five (200GB), and $9.99 for unlimited (2TB). All tiers that include Apple Intelligence support basic HKSV features on unlimited cameras. Apple Intelligence is on by default for Reduce Notifications and off by default for Summarize Videos. To adjust, go to Settings in the Home app, scroll down to Apple Intelligence, toggle on Summarize Video, and select participating cameras. --- With Apple Intelligence, a compatible camera connected to Apple’s HomeKit Secure Video service can send you text descriptions through the Apple Home app: “A dog sat on the floor,” “a cat played in the room,” “someone delivered a package.” It also enables natural-language video search, surfaces “noteworthy” events, stitches relevant clips together, and adds a reduce notifications feature that combines related events into a single alert that updates. This is in addition to the existing smart alerts, facial recognition, and 10 days of video storage available with HomeKit Secure Video. Pricing is where it gets tricky. Apple Intelligence for Home is bundled into iCloud Plus: $10 a month covers one camera, $30 covers two, and $60 up to five (see sidebar). No tier supports more than five cameras. By comparison, Google Home’s Nest cameras offer Gemini-powered text descriptions, video search, facial recognition, and a daily Home Brief digest — which summarizes the day’s activity in a short paragraph (sometimes with a fictional slant) — for $20 a month, covering unlimited cameras and 24/7 recording on wired models. Amazon’s Ring also charges $20 a month for its AI text descriptions, video search, facial recognition, unusual events alerts, and clip recording on unlimited cameras, with 24/7 costing an extra $3 per camera on wired models. Ring has its own reduced notification option that rolls similar events from the same camera into one notification, such as “Brian is mowing the lawn.” Apple says the least Text descriptions are a game changer for security cameras. For me, getting an alert that says “A FedEx delivery person is walking on the lawn” rather than “person detected at front door” is the difference between getting up and going downstairs or carrying on working. But quality and accuracy vary wildly, even within a single provider. Sometimes I get useful details, other times a few words that tell me almost nothing. Then there were the times when the descriptions were detailed, but laughably wrong: “A tennis serve simulator is rolling on the walkway,” “A gray hoverboard is driving on the pathway” — both misidentifications of a robot lawn mower. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9867.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9865.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.39.46-PM.png?quality=90&strip=all] In my testing, text alerts from Google and Ring provided the most context and specificity, and Apple often didn’t try, saying “someone” rather than providing any detail. For example, it would say “someone is walking in the yard,” whereas Ring and Google provided more context: a delivery person is walking in the yard, a person in uniform, someone carrying a bag, and so on. Apple was also the briefest. For example, when my cat was on the front porch, Apple said, “A cat sat on the porch.” Ring went with “A cat is standing on the pathway outside the porch.” Google Home told me which cat: “A black and white cat walks across the porch.” All three identified delivery trucks, correctly flagging UPS and FedEx vehicles driving past, as well as delivery people approaching the door. Apple was the only one to ID the USPS van pulling up to my mailbox, although not consistently. Google was the most descriptive with vehicles — “a light-colored car drives by on the street” or “a white van,” “a dark-colored SUV” — Apple and Ring mostly said “a vehicle drove by,” sometimes with a type (van, car, truck).  [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9856.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9883.png?quality=90&strip=all] Apple’s descriptions were the hardest to digest at a glance, particularly the combined ones through reduce notifications. For example, “Someone seen. Someone carried a box” is clunky. Ring and Google merge the events more fluidly into “a person carried a box up the driveway.”  In fairness, Apple Intelligence in Home only officially launched this month, so I expect this to improve, but as things stand, Ring’s and Google’s are more useful and cost less.  Finicky facial recognition and alerts For a doorbell camera, the real advantage of AI descriptions is knowing who’s there right away. All three offer facial recognition alongside the ability to spot a UPS driver or similar. Ring was the most consistently accurate, identifying me every time I approached the door. Apple hedged its bets, sometimes identifying me, sometimes saying “Someone who may be Jennifer Pattison Tuohy,” and other times just “Someone.” Google got it right about half the time; the other half it thought I was my daughter’s best mate (a change from the UPS driver it pegged me as for most of last year). [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9875.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9897.png?quality=90&strip=all] Text descriptions are more useful if they show up, and quickly. But on the doorbell camera I was testing, Apple’s often didn’t. Apple Home reliably alerted me when someone pressed the doorbell, and it recorded every event, but notifications about other motion events were inconsistent. A potential issue here is that, unlike its competition, Apple doesn’t control the whole experience. HomeKit Secure Video only works with third-party hardware — there are no Apple cameras yet. I was using the G400, Aqara’s latest wired doorbell camera. When I first set it up, alerts arrived in Apple Home with no issues, but at some point they stopped, and no amount of troubleshooting brought them back. However, alerts kept coming through in the Aqara app. I also still got doorbell ring alerts in the Home app, and notifications from other Aqara cameras continued to work. The Google Nest doorbell captured everything and was consistently first to notify me of an event. Ring was also fast and mostly reliable; its notifications showed up just after Google’s, though I’d occasionally get “This video is unavailable” when trying to play back footage.  Reliability is Apple’s biggest fix, plus some innovation The good news is that recording in HomeKit Secure Video has improved significantly with iOS 27. Apple said it completely rearchitected the system, which addresses a long-standing problem with missing clips. I’ve noticed that cameras load faster, are more stable, and no longer miss recordings. An Eve outdoor camera that was almost always offline has been stable since the upgrade, and the Aqara Camera Hub G5 outdoor camera and G350 indoor camera have also been solid. The G400 doorbell camera has been the only problem child, with missing notifications, but it records consistently.  [Video: Apple Intelligence in Home testing] All the other HomeKit cameras I tested reliably sent alerts; only the Aqara doorbell camera had the issue, but even when I didn’t get alerts, I could use video search to find events. Typing “When did the USPS truck come” in the Apple Home app pulled up every instance the Aqara doorbell spotted the mail delivery. In comparison, while the Nest Cam didn’t identify the USPS truck as often, its video search results contained more specifics, including an event where the mail person dropped off an Amazon package. Of the three, Google’s video search was the most useful, followed by Ring’s, then Apple’s, which directly correlates with the amount of detail each provides in the text descriptions.  Apple has two features Ring and Google don’t offer. The first is clip stitching, where Apple Intelligence identifies someone or something on one camera, recognizes it again on another, understands these are related, and plays the sequence as a single video in the Home app. I haven’t found a real use for this so far, but it’s been fun for tracking my dog around the house when I’m out. The second feature is bringing events that Apple judges important to the top of the search box. In the last two weeks, it’s only highlighted the trash pickup ━ I guess my life just isn’t that noteworthy.  Here’s where Ring wins One of the biggest problems with security cameras is filtering out the important info from the sheer volume of everything they see. Even with AI notifications turned on, I still get a stream of alerts from Apple Home and Google Home. Some are more useful than they used to be, but overload is still an issue. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7752.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9858.png?quality=90&strip=all] While Apple’s noteworthy events feature shows promise, Ring’s Unusual Event feature is the best solution I’ve seen. It learns what normal traffic looks like for each camera, then notifies you only when something isn’t normal. This summer, I cut my Ring notifications down from around 40 a day to just two or three.  Instead of getting an alert every time my cat is on my porch, I only get one when a raccoon or possum walks by. It doesn’t send alerts when my son comes home from school, but it does when he comes home at 2AM. The camera by my chicken coop no longer sends a series of notifications when someone is feeding them or collecting eggs — but it does alert me when I am out there at midnight with a flashlight to wrestle a snake. What’s next: cameras that can act [Image: The cats were a big fan of Google Home’s inability to tell them apart, as it meant more kibble. (This is not Smokey). https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7979.png?quality=90&strip=all] The natural progression here is automations triggered by the camera understanding what it sees. Turn on the sprinklers if there’s a raccoon in the backyard, but not if it’s just my dog. A cat at the back door broadcasts an alert through my smart speakers so someone can let them in. The trash truck rolling past without stopping sends an urgent notification to put the bins out before it comes back the other way. This is where cameras move beyond being simply security devices to become intelligent smart-home sensors that can understand what’s happening and potentially act on it. Google Home recently added the ability to trigger automations from camera alerts, although in my early testing, it’s not reliable enough. I tried it with my three cats and a pet feeder using Google’s new Pet Memory feature. But instead of only dispensing food for one specific cat as I asked, it triggered every time it saw a cat. At least the cats were happy.  The problem is accuracy. When AI can’t reliably identify the subject, the automations can’t respond reliably. So, my earlier example of Apple accurately recognizing the USPS van half the time would mean any automation I set up to alert me the mail is here would only work half the time. Today, Apple doesn’t have this capability, but if the rumors that the company is developing its own video doorbell and security camera are true, I would expect to see a feature like this come to Apple Home.  The privacy tradeoff The smarter cameras become, the more they need to know about your home. For a system to understand what’s normal, it needs to learn who lives there, when they come and go, which pets are around, and which vehicles belong. This raises very real concerns around privacy and surveillance. Ring has faced particular scrutiny over its cloud-based architecture and partnerships with law enforcement. Where Google and Apple can start with local processing, Ring processes all footage in the cloud by default. Last month, Ring announced an overhaul to that model, introducing a new default encryption system called TAKE. This rotates encryption keys for cloud-stored video and deletes Ring’s copy after 24 hours. Among other privacy protections, including no admin access, Ring says this means it can no longer hand over decrypted footage to the police. However, it can still be compelled to provide encrypted files. With Apple’s standard HomeKit Secure Video, your home hub processes footage locally and encrypts it end-to-end before sending it to the cloud for storage. But adding Apple Intelligence changes that: Video summaries are now processed in the cloud using Apple’s Private Cloud Compute (PCC), where they are unencrypted for processing. According to Apple, PCC writes the captions, sends them back, and then “permanently deletes the data from PCC.” Apple support docs also state that there is no admin access, and nothing identifies who the footage belongs to. Google takes a similar approach to Apple, but without end-to-end encryption; footage is encrypted in transit and at rest. Gemini for Home-enabled Nest cameras can use some on-device processing, but the heavy work is done in the Gemini cloud, in line with Google Home’s privacy practices.  A big question for me is whether all this intelligence has to live on someone else’s computers. There’s real benefit in a system knowing everything about my home — I’d just prefer to be the only one who knows it. For privacy, security, and potentially speed, local AI processing and storage feels like the right answer. Manufacturers including Anker Eufy, Reolink, Ubiquiti UniFi, and UGreen already have or have announced products that do this. With a new Apple TV, HomePod, and a possible smart display all rumored to be imminent, App",
+        "fullTranslation": "几年前，我参加了一场海滩复活节寻彩蛋活动，看着孩子们穿梭在沙丘间寻找甜点。我的手机在口袋里震动了一下；我没理会。片刻之后，它又震动了一次。我掏出手机低头一看，看到安防摄像头发来的一条“检测到活动”通知。“大概只是我的狗在院子里，”我想着，便没当回事。随着篮子里的彩蛋越堆越多，我的手机还在不断震动。我无奈地再次拿出手机，又看到了好几条“检测到活动”的提醒。我试图加载一段视频片段，但它只是一直在缓冲。回到家时，我发现养的四只宠物鸡都死了，全是被我家那只小边境㹴咬死的。回头查看监控录像，我发现它们推开了鸡舍门，而我当时急着赶去参加复活节庆祝活动，没有把门关严实。如果当时第一条通知写的不是“检测到活动”，而是“小狗在追逐一只鸡”，我就会立刻飞奔回家，也许还能救下它们。\n\n如今，这种类型的通知已成为现实。借助 AI 生成的文字描述，一条描述摄像头所见内容的简短消息几乎可以即时送达，甚至远早于视频画面的加载，用一句话就能勾勒出整个场景。目前大多数主流安防摄像头公司都提供了这种结合传统运动触发器与视觉语言模型（Vision Language Models）的文字描述功能，包括 Ring、Google Nest、Blink、Wyze 和 Arlo。\n\n本月，随着 iOS 27 的发布，苹果终于通过推出适用于家庭的 Apple Intelligence（Apple Intelligence for Home），为其 HomeKit 安防视频（HomeKit Secure Video）服务引入了这项能力。令人惊讶的是，苹果对该功能的收费最高达到了竞争对手的三倍。这到底值不值？安防摄像头在向我们告知真正重要的事情方面，是否变得越来越好用了？\n\n[图片：你大概会以为，任何人都休想在我不察觉的情况下从我的门前溜过去。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5904.jpeg?quality=90&strip=all]\n\n自今年夏天开启测试版以来，我就一直在测试适用于家庭的 Apple Intelligence，同时也在测试亚马逊 Ring 和谷歌 Nest 去年推出的 AI 摄像头功能。我为每个平台安装了多台摄像头，但在这篇评测中，我主要聚焦于可视门铃——这些门铃是在 9 月 14 日 iOS 27 正式发布时安装就绪的。我测试了 Ring Wired Doorbell Pro（售价 249.99 美元）、Google Nest Doorbell 2K（售价 199.99 美元），以及支持苹果 HomeKit 安防视频的 Aqara 门铃摄像头 G400（售价 99 美元）。\n\n我重点关注了各家服务发送 AI 驱动通知的速度、文字描述在告知发生了何事方面的准确性与实用性，以及捕捉动态和向我发送提醒的可靠程度。我还测试了各平台提供的其他 AI 功能，包括苹果跨多台摄像头搜索并拼接动态的能力、Ring 区分日常活动与异常事件的“异常事件（Unusual Event）”功能，以及谷歌根据摄像头所见内容触发自动化的能力。\n\n这三大平台的 AI 功能相比其原有的基础智能提醒均有显著提升。现在，用户只需瞥一眼就能更轻松地了解发生了什么并决定是否需要应对，整体上安防摄像头感觉更加实用，也没那么烦人了。归根结底，AI 在摄像头中的真正价值并不在于描述它们看到了什么，而在于利用这些信息判断你真正需要了解什么，并最终让你的智能家居采取相应行动。\n\nApple Intelligence 提供了什么，价格几何\n---\n如何使用适用于家庭的 Apple Intelligence\n你需要一个 iCloud+ 方案、一台兼容 HomeKit 安防视频的摄像头、一台运行 HomePod/tvOS 27 的 Apple 家庭中枢，以及一台支持 AI 且运行 iOS 27 的 iPhone。\n共有三档 iCloud+ 方案支持在一台或多台摄像头上使用 Apple Intelligence：\n* 2TB 方案：每月 9.99 美元（或 Apple One 方案每月 39.95 美元），支持 1 台摄像头\n* 6TB 方案：每月 29.99 美元，支持 2 台摄像头\n* 12TB 方案：每月 59.99 美元，最多支持 5 台摄像头\n* 没有任何方案支持 5 台以上的摄像头。\n注：标准的 HomeKit 安防视频录制同样需要 iCloud+ 方案，起售价为 1 台摄像头每月 0.99 美元（50GB 方案）、5 台每月 2.99 美元（200GB），以及不限台数每月 9.99 美元（2TB）。所有包含 Apple Intelligence 的档位均支持在不限数量的摄像头上使用基础的 HKSV 功能。\nApple Intelligence 在“减少通知（Reduce Notifications）”上默认开启，在“摘要视频（Summarize Videos）”上默认关闭。若要调整，请打开“家庭”App 中的“设置”，向下滚动至 Apple Intelligence，开启“摘要视频”开关，并选择适用的摄像头。\n---\n借助 Apple Intelligence，连接到苹果 HomeKit 安防视频服务的兼容摄像头可以通过 Apple 家庭 App 向你发送文字描述：“一只狗坐在地板上”、“一只猫在房间里玩耍”、“有人送来了一个包裹”。它还支持自然语言视频搜索、凸显“值得注意的”事件、将相关片段拼接在一起，并增加了“减少通知”功能，将相关事件合并为一条可持续更新的提醒。这些都是在 HomeKit 安防视频现有的智能提醒、面部识别以及 10 天视频存储基础之上新增的功能。\n\n定价则变得复杂起来。家庭版 Apple Intelligence 捆绑在 iCloud+ 中：每月 10 美元覆盖 1 台摄像头，30 美元覆盖 2 台，60 美元最多覆盖 5 台（见边栏）。没有任何方案支持 5 台以上的摄像头。相比之下，Google Home 的 Nest 摄像头提供由 Gemini 驱动的文字描述、视频搜索、面部识别以及每日家庭简报（Home Brief）——用简短的一段话总结一天的动态（有时还带有虚构色彩）——每月 20 美元，覆盖不限数量的摄像头以及有线型号的 24/7 全天候录制。亚马逊 Ring 的 AI 文字描述、视频搜索、面部识别、异常事件警报以及不限数量摄像头的片段录制同样每月收费 20 美元，有线型号的 24/7 录制每台摄像头需额外支付 3 美元。Ring 也拥有自己的减少通知选项，可将来自同一摄像头的类似事件合并为一条通知，例如“布莱恩正在修剪草坪”。\n\n苹果言简意赅\n文字描述对安防摄像头而言是一个颠覆性的变革。对我来说，收到一条写着“联邦快递送货员正走在草坪上”的提醒，而不是“前门检测到有人”，决定了我究竟是该起身下楼还是继续埋头工作。\n\n然而，文字描述的质量和准确性差异极大，甚至在同一家供应商的产品中也是如此。有时我能收到有用的细节，有时却只有几个几乎说明不了任何问题的词。更有甚者，有些描述虽然很详尽，却错得离谱：“一台网球发球模拟器正在人行道上滚动”、“一块灰色悬浮滑板正在小径上行驶”——两者其实都是对割草机器人的误认。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9867.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9865.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.39.46-PM.png?quality=90&strip=all]\n\n在我的测试中，文字提醒来\n\n……谷歌和 Ring 提供了最丰富的背景信息和细节，而苹果通常根本不予细究，只说“有人”，不提供任何具体细节。例如，苹果会提示“有人在院子里走动”，而 Ring 和谷歌则能提供更多背景信息：一名快递员正在院子里走动、一个穿制服的人、有人拿着一个包等等。苹果的描述也是最简短的。比如，当我的猫在前廊上时，苹果提示：“一只猫坐在门廊上。”Ring 的表述是：“一只猫正站在门廊外的走道上。”Google Home 甚至告诉我具体是哪只猫：“一只黑白相间的猫穿过门廊。”三者都能识别送货卡车，准确标记驶过的 UPS 和联邦快递（FedEx）车辆，以及走近门口的快递员。苹果是唯一识别出驶近我家邮箱的美国邮政（USPS）货车的设备，尽管并非每次都能成功。谷歌对车辆的描述最为详尽——“一辆浅色汽车在街上驶过”或“一辆白色货车”、“一辆深色 SUV”——而苹果和 Ring 大多只说“一辆车辆驶过”，偶尔会注明车型（货车、汽车、卡车）。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9856.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9883.png?quality=90&strip=all]\n\n苹果的描述在一瞥之下最难消化，尤其是通过“减少通知”功能合并后的描述。例如，“看到有人。有人搬着一个箱子”显得非常生硬。Ring 和谷歌则能更流畅地将这些事件融合成一句话：“一个人搬着箱子走上车道。”平心而论，Home 中的 Apple Intelligence 本月才刚正式推出，因此我预计后续会有所改进，但就现状而言，Ring 和谷歌的功能更实用，且花费更少。\n\n挑剔的面部识别与警报\n\n对于门铃摄像头来说，AI 描述的真正优势在于能够立即知道门外是谁。这三款产品都具备面部识别功能，并能识别 UPS 司机等人员。Ring 的表现最始终如一地准确，每次我走向门口时它都能识别出我。苹果则留有余地，有时能识别出我，有时提示“疑似 Jennifer Pattison Tuohy 的人”，还有时干脆只显示“有人”。谷歌的大致准确率约为一半；而另一半时间它把我想象成了我女儿最好的朋友（相比去年大部分时间它都把我当成 UPS 司机而言，这算是个变化）。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9875.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9897.png?quality=90&strip=all]\n\n文字描述如果能及时且迅速地弹出，会更加实用。但在我测试的门铃摄像头上，苹果往往做不到这一点。Apple Home 在有人按下门铃时能可靠地发出提醒，并记录下每一个事件，但关于其他移动事件的通知却断断续续。这里的一个潜在问题在于，与竞争对手不同，苹果并未掌控端到端的整套体验。HomeKit 安全视频（HomeKit Secure Video）目前仅支持第三方硬件——目前还没有苹果自研的摄像头。我使用的是 G400，这是 Aqara 最新的有线门铃摄像头。刚设置好时，Apple Home 中的警报一切正常，但不知从何时起警报就停止了，无论如何排查问题都无法恢复。然而，Aqara 应用内的警报却始终能正常接收。我依然能在“家庭”应用中收到按门铃的提示，其他 Aqara 摄像头的通知也能正常工作。Google Nest 门铃则记录下了所有动态，并且始终是第一个向我发送事件通知的。Ring 同样反应敏捷且基本可靠；它的通知紧随谷歌之后弹出，尽管在尝试回放视频时偶尔会提示“此视频不可用”。\n\n可靠性是苹果最大的改进点，此外还有一些创新\n\n好消息是，随着 iOS 27 的推出，HomeKit 安全视频的录制功能得到了显著提升。苹果表示已对底层架构进行了全面重构，解决了长期存在的录像丢失问题。我注意到摄像头的加载速度更快、更稳定，也不再遗漏录像。一台过去几乎总是离线的 Eve 室外摄像头在升级后一直保持稳定，Aqara 摄像机网关 G5 室外机以及 G350 室内摄像机也表现稳健。只有 G400 门铃摄像头成了唯一的“问题儿童”，存在通知漏报的问题，但它的录像记录依然稳定。\n\n[视频：Apple Intelligence in Home testing]\n\n我测试的所有其他 HomeKit 摄像头都能可靠地发送警报，唯独 Aqara 门铃摄像头出现了这个问题；不过即使没有收到警报，我也能通过视频搜索来查找事件。在 Apple Home 应用中输入“USPS 货车什么时候来的”，就能检索出 Aqara 门铃拍到邮政投递的所有画面。相比之下，虽然 Nest Cam 识别出 USPS 货车的频率没那么高，但它的视频搜索结果包含了更多具体细节，包括一次邮递员放下亚马逊包裹的事件。在这三者中，谷歌的视频搜索最为实用，Ring 次之，苹果排在最后，这与其文字描述中提供的细节丰富程度直接相关。\n\n苹果拥有两项 Ring 和谷歌都不具备的功能。第一项是“视频片段拼接”（clip stitching），即 Apple Intelligence 在一台摄像头上识别出某人或某物后，在另一台摄像头上再次识别出来，理解这两者互相关联，并在“家庭”应用中将其作为一段连续的视频播放。到目前为止我还没发现这项功能的实际用途，但在我外出时用它来追踪小狗在家里的动向还挺有趣的。第二项功能是将苹果判定为重要的事件置顶显示在搜索框顶部。在过去的两个星期里，它只置顶提示过垃圾清运——我想大概是我的生活确实没那么多值得关注的大事吧。\n\nRing 的胜出之处\n\n安防摄像头最大的问题之一，就是如何从海量监控内容中筛选出重要信息。即使开启了 AI 通知，我依然会收到来自 Apple Home 和 Google Home 的连绵不断的警报轰炸。有些通知确实比以前更有用了，但信息过载依然是个困扰。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7752.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9858.png?quality=90&strip=all]\n\n虽然苹果的“重点事件”功能颇具前景，但 Ring 的“异常事件”（Unusual Event）功能是我见过最好的解决方案。它会学习每台摄像头的日常活动规律，随后仅在发生异常情况时才向你发送通知。今年夏天，我将 Ring 的每日通知量从大约 40 条缩减到了仅有两三条。它不再在我的猫每次走过门廊时都发通知，而只在浣熊或负鼠经过时提醒我。当我儿子放学回家时它不会发警报，但如果他凌晨两点回家，它就会发送警报。我鸡舍旁的摄像头在有人喂鸡或捡鸡蛋时不再发送连串的通知——但当我在半夜打着手电筒出去抓蛇搏斗时，它确实会向我发出警报。\n\n下一步趋势\n\n：能够付诸行动的摄像头\n\n[图片说明：猫咪们非常喜欢 Google Home 无法区分它们这一特点，因为这意味着有更多的猫粮。（这只不是 Smokey）。图片链接：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7979.png?quality=90&strip=all]\n\n顺理成章的下一步发展，是基于摄像头理解所见画面来触发自动化场景。例如：如果后院有浣熊，就打开喷淋装置，但如果是我的狗就不要开。后门有一只猫时，通过智能音箱发出提醒，以便有人能放它进来。垃圾车径直驶过而没有停下时，发送紧急通知提醒在它折返前把垃圾桶推出去。正是从这里开始，摄像头超越了单纯的安防设备，演进为能够理解正在发生的事情并可能采取行动的智能家居传感器。\n\nGoogle Home 最近新增了通过摄像头警报触发自动化的功能，不过在我的早期测试中，它还不够可靠。我利用谷歌新的“宠物记忆”（Pet Memory）功能，搭配我的三只猫和一个宠物喂食器进行了测试。但它并没有像我要求的那样只针对某一只特定的猫投放食物，而是只要看到猫就会触发。至少猫咪们对此挺高兴的。\n\n问题在于准确性。当人工智能无法可靠地识别目标主体时，自动化就无法可靠地作出反应。因此，我之前提到的苹果只有一半时间能准确识别出美国邮政（USPS）货车的例子，就意味着我设置的任何提醒我邮件已送达的自动化操作，都只有一半的几率能正常工作。目前，苹果还不具备这种能力，但如果关于该公司正在开发自己的可视门铃和安防摄像头的传言属实，我预计这项功能会出现在 Apple Home 中。\n\n隐私的权衡取舍\n\n摄像头变得越聪明，它们就需要了解你家里的更多信息。为了让系统理解什么是正常状态，它需要学习谁住在这里、他们何时进出、周围有哪些宠物，以及哪些车辆属于这里。这就引发了人们对隐私和监视非常现实的担忧。\n\nRing 因其基于云的架构以及与执法部门的合作而受到了尤为严苛的审视。谷歌和苹果可以从本地处理开始，而 Ring 默认在云端处理所有视频片段。上个月，Ring 宣布对其模式进行彻底改革，推出了一种名为 TAKE 的新默认加密系统。该系统会对云存储视频的加密密钥进行轮换，并在 24 小时后删除 Ring 端的副本。除了包括无管理员访问权限在内的其他隐私保护措施外，Ring 表示这意味着它不再能够向警方移交解密后的视频片段。然而，它仍然可能被迫提供加密文件。\n\n在苹果标准的 HomeKit 安全视频（HomeKit Secure Video）中，你的家庭枢纽会在本地处理视频片段，并在发送到云端存储之前进行端到端加密。但加入 Apple Intelligence 改变了这一点：视频摘要现在通过苹果的私有云计算（Private Cloud Compute，简称 PCC）在云端处理，在处理过程中视频处于解密状态。苹果表示，PCC 会生成描述字幕，将其发回，然后“永久从 PCC 中删除数据”。苹果的支持文档还说明，系统不设管理员访问权限，也没有任何内容可以识别视频属于谁。\n\n谷歌采取了与苹果类似的做法，但没有采用端到端加密；视频在传输和静态存储时进行加密。支持 Gemini for Home 的 Nest 摄像头可以使用一些设备端处理，但繁重的计算任务是在 Gemini 云端完成的，这符合 Google Home 的隐私规范。\n\n对我来说，一个很大的疑问是，所有这些智能处理是否必须存在于别人的电脑上。系统了解我家的一切确实能带来切实的便利——我只是更希望自己是唯一知晓这些信息的人。出于隐私、安全以及潜在的处理速度考量，本地 AI 处理和存储感觉才是正确的答案。包括 Anker Eufy、Reolink、Ubiquiti UniFi 和 UGreen 在内的制造商已经推出或宣布了具备此功能的产品。随着传言中新款 Apple TV、HomePod 以及可能推出的智能显示屏都即将问世，App",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 41,
+        "keyTakeaways": [
+          "苹果在发布iOS 27时为HomeKit Secure Video服务推出了Apple Intelligence for Home功能。",
+          "iOS 27于9月14日正式发布。",
+          "来源叙事重点：通过将苹果最新推出的 Apple Intelligence for Home 与亚马逊 Ring、谷歌 Nest 进行横向评测，重点聚焦其 AI 文本描述的准确度、通知聚合表现及订阅定价策略，指出苹果当前 AI 描述过于简略、硬件与云存储订阅门槛过高（最高达竞品 3 倍且限制最多 5 台），在性价比和实用性上不及竞争对手。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T13:00:00.000Z",
+            "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"
+          }
+        ]
+      },
+      {
+        "id": "story-bout-oil-prices-a8812210-3adf7ae3f902508d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The options market is sending a contrarian signal about oil prices",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:43:00.000Z",
+        "pubTime": "2026-09-25 21:43",
+        "url": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Also: How to use options around earnings to trade Nike’s stock, which has been down in the dumps for years.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 21:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-25T13:43:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-es-progress-at-all-costs-1764305d9a4451d5",
+        "title": "LLM 政策：不惜一切代价的“进步”",
+        "originalTitle": "LLM Policies: Progress At All Costs",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T12:30:36.000Z",
+        "pubTime": "2026-09-25 20:30",
+        "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+        "imageUrl": null,
+        "fullContent": "GNOME and KDE have started to consider LLM policies, and we should talk about what this is really about.\n\nKDE caught everyone's attention first by igniting a flame war with an LLM-friendly draft that ended up being deleted, causing a few bans, and having a bunch of people go full \"Some of you may die, but that is a sacrifice I am willing to make\". GNOME has not proposed anything official, but some teams (gnome-calendar, loupe, libadwaita, gnome-software, Circle, among others) already have strong policies in place, and there is now an informal draft to ban all LLM contributions to GNOME projects and infrastructure.\n\nHowever I believe these discussions are not about nitpicking workflows but rather about the raison d'être, the reason to be, of FLOSS projects.\n\nMy take is that there are currently two ways of thinking about why FLOSS exists, or should exist. So far, both sides have coexisted but the growing acceptance of LLMs into some developer workflows has disrupted the balance.\n\nWe can call one of these sides \"collectivism\". This frames FLOSS to be about accomplishing things together, enjoying the journey and bonds that big goals tend to create. The fun is the collective effort and challenge. Overcoming language and social barriers is part of the reward. \"The journey is the destination\", \"FLOSS is the friends we made along the way\", etc.\n\nOn the other side there is \"completionism\", where FLOSS is \"just a product\" and its only goal is to always be better, faster, safer. Any fun to be had is in individually solving technical problems and requirements. Social bonds may happen, but colleagues are more coworkers than community. This is a \"100% allglitches alltricks\" TAS speedrun. The \"we are apolitical\", \"we only care about the code\" view.\n\nMy assessment is that the collectivist framing finds FLOSS primarily a social exercise that rewards you with experiences, bonds, and ideas outside of your niche interests. Some times you even get good software as a bonus! The second framing sees FLOSS as a tool to scale the complexity of your individual computer interest, like graphics or security. FLOSS is a convenience compared to manually rebasing patches and forks all the time.\n\nThe problem we are facing is that LLMs have given the second group a lever to stop giving the collectivist framing any room. When the LLM can get you 80% of the way to your goal, there is no need to \"waste\" time in mentoring, discussion, or convincing others. The temptation compounds if you are considered an expert in your field. You can surely fill in the last 20%, right? Is anyone going to challenge not only the machine, but also the expert?\n\nSince LLMs present themselves as neutral, and dispassionate, opposition to their output becomes opposition to objective progress: bug fixes, security hypotheticals, features. Progress is whatever the LLM, under my own careful eyes, says it is. Interactions with others become formalities, since the LLM is simply boosting my own, already expert and close to infallible, output. Right?\n\nUnfortunately this \"expert slop\", where expert is a self-perceived title, carries a corporate framing that damages interactions. Others become, at best, fungible coworkers, and, at worst, annoying speed bumps in the race to 100% completion of any software interest the expert has. No more mentoring, debating, flame wars. \"Progress\" is the only goal. The line must go up.\n\nThere is more to say about how this machiavellian framing causes far more important harms and externalities, in the name of LLMs themselves, or apparent LLM-assisted progress. Think of any group and you will find out they have been handed part of the bill for these externalities:\n\nThese are the real costs in the \"Progress At All Costs\" that LLMs bring into FLOSS. These are the people who will pay the bill, behind the scenes and far from our screens, so that some big brain engineers can avoid reading documentation, writing boilerplate, learning unfamiliar code, or, worse, working with others.\n\nAlmost ten years ago Allan Day described GNOME as Principled Software because of its commitment to always doing the right thing, in code or design, because it was the right thing and not because of ease, pressure, or hype. I believe this is why so many other FLOSS projects have always looked at GNOME for guidance on what good FLOSS should be. This discussion is just another opportunity to continue to meet this expectation.\n\nRecent discussions have shared similar sentiments like reminding us that we do book clubs because we want to read and enjoy books, not to just discuss over summaries because it is \"more productive\". That when pressed to accelerate FLOSS, to make the line go up, we have to ask for whom do we want to be more productive, efficient, faster?. And that every decision is political and affect other people around you.\n\nWe already know that LLM productivity is not real, just a self perception, that LLMs are just a fairy tale to maintain tech stocks hypergrowth, by farming engineers for engagement, and the latest in a series of attacks to commoditize tech workers. Knowing all this, are we still going to play along with big tech's lies and exploitation? Or, are we going to make another principled stand?\n\nGNOME did not need LLMs to produce 30 years of creative engineering, design, localization, inclusion, and collaboration that has been shared with people around the world. It does not need to throw away this incredible legacy simply because LLMs happen to farm our worst individualist impulses.\n\nWe came this far without compromising our principles, let's not start now.",
+        "fullTranslation": "GNOME 和 KDE 已经开始考虑大语言模型（LLM）相关政策，我们应当认真探讨这背后的实质到底是什么。\n\nKDE 最先引发了众人的关注——他们提出了一份对 LLM 友好的政策草案，随即点燃了一场论战，最终该草案被删除，部分成员被封禁，还有许多人完全摆出了一种“你们当中有些人可能会牺牲，但这是我愿意付出的代价”的姿态。GNOME 尚未提出任何官方政策，但部分团队（包括 gnome-calendar、loupe、libadwaita、gnome-software、Circle 等）已经落实了严格的规定，目前还有一份非正式草案，旨在全面禁止向 GNOME 项目及基础设施提交任何由 LLM 生成的贡献。\n\n然而我认为，这些讨论并非关于在工作流层面的吹毛求疵，而是关乎自由与开源软件（FLOSS）项目的“存在理由”（raison d'être）。\n\n我的看法是，关于 FLOSS 为何存在、或为何应当存在，目前存在两种思考方式。到目前为止，这两种观点一直在共存，但 LLM 逐渐被纳入某些开发者的工作流中，打破了这种平衡。\n\n我们可以将其中一方称为“集体主义”。这种视角将 FLOSS 定义为共同成就事业、享受重大目标往往能带来的历程与羁绊。乐趣就在于集体努力与面对挑战。克服语言和社交障碍本身就是回报的一部分。“过程即目的地”，“FLOSS 就是我们一路走来结识的朋友”，诸如此类。\n\n而在另一方则是“全成就主义”（completionism），在他们眼中，FLOSS“只是一款产品”，其唯一目标就是始终保持更好、更快、更安全。其中能获得的任何乐趣，都在于个人解决技术难题和满足需求。社交羁绊或许会产生，但同行更多只是普通同事，而非社区。这就像是一场“全Bug、全技巧运用”的工具辅助速通（TAS speedrun）。也就是那种“我们不谈政治”、“我们只在乎代码”的视角。\n\n我的评估是，“集体主义”视角认为 FLOSS 本质上是一项社会实践，能带给你个人小众兴趣之外的经验、羁绊和思想。有时，你甚至能附带收获优秀的软件！而第二种视角则将 FLOSS 视作一种工具，用来扩大你在图形或安全等个人计算机兴趣领域的复杂度上限。相比于整天手动变基补丁和维护分支，FLOSS 只是一种便利手段。\n\n我们面临的问题在于，LLM 为第二组人群提供了一个杠杆，让他们不再给集体主义视角留出任何空间。当 LLM 可以帮你完成实现目标的 80% 路径时，就没有必要在指导新手、讨论或说服他人上“浪费”时间了。如果你在自己的领域被视为专家，这种诱惑还会成倍放大。剩下的 20% 你肯定能补全，对吧？又有谁会去质疑机器的同时，还敢去质疑专家呢？\n\n由于 LLM 表现出一副中立、冷静的面孔，反对它的产出便等同于反对客观的进步——比如漏洞修复、安全假设验证、新功能等。在我的严密审视下，LLM 说什么是进步，那就是进步。与他人的互动变成了走过场，因为 LLM 只是在为我那本就专业且近乎无懈可击的产出添砖加瓦。不是吗？\n\n不幸的是，这种“专家级泔水”（这里的“专家”只是一种自封的头衔）带有一种企业化的话语框架，破坏了人际互动。在专家追求 100% 完成其任何软件兴趣的竞速中，其他人充其量变成了可替代的打工人，往坏了说则是令人讨厌的减速带。不再有指导、辩论和观点交锋。“进步”成了唯一的目标。指标曲线必须往上走。\n\n关于这种马基雅维利式的思维方式如何以 LLM 本身或所谓 LLM 辅助的进步之名，造成更多重大伤害与负面外部性，还有很多话要说。随便想一个群体，你都会发现他们已经被迫为这些外部性承担了部分账单：\n\n这些才是 LLM 带入 FLOSS 领域的“不惜一切代价追求进步”背后的真正代价。这些人将在幕后、远离我们屏幕的地方买单，好让某些自诩高明的工程师省去阅读文档、编写样板代码、学习陌生地带代码的功夫，甚至更糟的是，省去与他人合作的麻烦。\n\n将近十年前，Allan Day 曾将 GNOME 形容为“有原则的软件”，因为它致力于在代码或设计上始终做正确的事——只因为那是正确的，而不是出于省事、压力或炒作。我相信，这就是为什么如此多的其他 FLOSS 项目一直将 GNOME 视为优秀 FLOSS 应有模样的指引灯塔。眼下的这场讨论，正是在继续践行这一期望的又一次契机。\n\n最近的讨论中也表达了类似的情感，例如提醒我们：我们组织读书会是因为想读书、享受书本，而不是为了追求“更高效率”去对着内容摘要泛泛而谈。当被催促着给 FLOSS 提速、让指标曲线往上走时，我们必须问一问：我们究竟是想为了谁而变得更高效、更敏捷、更迅速？而且，每一个决定都带有政治性，都会影响到你身边的其他人。\n\n我们早就清楚，LLM 带来的生产力提升并非真实存在，不过是一种自我幻觉；LLM 只是用来维持科技股超高速增长的童话，通过收割工程师的参与度来维系，并且是一系列将技术工人商品化（耗材化）攻击中的最新一环。明知这一切，我们还要继续陪着大型科技公司的谎言与剥削演戏吗？还是说，我们要再次表明坚守原则的立场？\n\nGNOME 并不需要借助 LLM，就创造了长达 30 年的富有创造力的工程、设计、本地化、包容性与协作成果，并分享给了全世界的人们。它完全没有必要仅仅因为 LLM 恰好助长了我们最恶劣的个人主义冲动，就将这份无比珍贵的遗产抛弃。\n\n我们一路走到今天，从未在原则问题上妥协过；现在，也绝不要开这个头。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "GNOME和KDE已开始考虑制定针对大语言模型（LLM）的相关政策。",
+          "KDE曾起草一份对LLM友好的草案，引发了争论并导致少数封禁，该草案最终被删除。",
+          "来源叙事重点：文章将开源社区中关于大语言模型（LLM）的争论提升至“本体论（存在意义）”的意识形态冲突，批评盲目追求效率的“技术完美主义/速通主义”，呼吁 GNOME 等开源项目坚守以人为本、注重协作与原则的“集体主义”传统，全面抵制由大科技公司驱动的 LLM 贡献及外溢成本。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T12:30:36.000Z",
+            "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/"
+          }
+        ]
+      },
+      {
+        "id": "story-human-gene-poxvirus-html-1e819d742d3c339f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New type of human 'jumping gene' found in a poxvirus",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:40:01.000Z",
+        "pubTime": "2026-09-25 21:40",
+        "url": "https://phys.org/news/2026-09-human-gene-poxvirus.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-type-of-human-jump.jpg",
+        "fullContent": "Scientists at Cornell University have found a human genetic element in a poxvirus and discovered that it is both an important gene for brain function and a jumping gene capable of moving and inserting itself into genomes. A study published in Science reports that the gene, called BC200, combines characteristics never before seen together.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 21:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-human-gene-poxvirus.html",
+            "publishedAt": "2026-09-25T13:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-925-nkhl-2120291600-html-1465a93928cfa43e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "СМИ: потолок зарплат в НХЛ может составить 127,5 миллионов долларов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T13:53:58.000Z",
+        "pubTime": "2026-09-25 21:53",
+        "url": "https://ria.ru/20260925/nkhl-2120291600.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 21:53 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/nkhl-2120291600.html",
+            "publishedAt": "2026-09-25T13:53:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-asked-for-a-crab-chair-81c3a37fb361f117",
+        "title": "没人想要一台“螃蟹椅”",
+        "originalTitle": "Nobody Asked for a Crab Chair",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T12:48:00.000Z",
+        "pubTime": "2026-09-25 20:48",
+        "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
+        "imageUrl": null,
+        "fullContent": "In our last installment of “Good Intentions Gone Wrong: When Disability Engineers Go Bad,” we highlighted a particularly egregious Swiss wheelchair design featuring superfluous drones. Thankfully, not all engineers who receive blank checks to design disability solutions are that out of touch. More commonly, the lack of constraints that comes with deep corporate pockets results in sexy, future-forward designs with tantalizing possibilities that somehow leave me feeling more empty than excited.\n\nToyota’s new-ish “Walk me” prototype could be the poster chair for what I’m talking about. The “Walk me” replaces wheels with four articulating legs that bend and move independently. Picture a four-legged crab with light-up legs carefully balancing an uncomfortable-looking seat.\n\nUsing LiDAR, collision radars, and internal weight sensors, the crabchair can transport its user over uneven terrain or up and down stairs. With an aesthetically-pleasing pastel color palette and a chic, future-minimalist vibe, it’s easy to see why the crabchair was a hit when Toyota unveiled it last fall at the Japan Mobility Show.\n\nLet’s be clear: if I could have a free crabchair tomorrow, I’d be out the door, in the line to pick up my new robot legs before I knew where to go.\n\nBut these kinds of prototypes are built to inspire and show what is possible, not to be mass produced for actual users. In short, don’t get your hopes up you’ll ever see a crabchair clawing its way down the street.\n\nThey’re over-designed, cost prohibitive and generally out of touch with the realities facing most would-be users. They’re engineering inspiration porn. They make headlines (yes, I’m guilty), and make people feel like they’re helping an underserved community and making the world a better place. Unfortunately, they very rarely translate into real world benefits for people like us.\n\nThat alone would be disappointing, but probably closer to a “no harm, no foul” situation: rich people and companies building expensive toys and patting themselves on the back. It has been going on forever and likely will into the future.\n\nMy concern, and the thing that saps any enthusiasm the sleek design might inspire in me, is that much like more traditional inspiration porn harms the disabled community by propagating false narratives and not doing justice to real experiences of disabled people, this engineering version of inspiration porn neglects to address the design problems most critical to our community while pulling away obviously-talented designers and chair-loads of cash that could have been focused on solving them.\n\nThese kinds of prototypes are built to inspire and show what is possible, not to be mass produced for actual users.\n\nI would give at least a few of my quad fingers for a high quality, lightweight, low-profile indoor/outdoor power chair with the customizable seating and back options I rely on. Same for a stable shower chair that could safely navigate step-in showers. I’m not talking about reinventing the wheel(chair), but tweaking and refining the designs we have to optimize independence and function for users.\n\nLike I wrote in the previous article in this series, there are brilliant designers working on these and other similar issues but we need more! More minds, more money, more eyeballs focused on improving what we have and doing so in affordable ways.\n\nI genuinely appreciate the designers behind the “Walk me” (even if I wholeheartedly question whomever decided the name should sound like wheelchair users are the crabchair’s pets). I hope their experience designing the crabchair got them excited about disability-related design and that they continue to pursue it.\n\nAll I ask is that instead of sitting in their corporate labs, bouncing ideas off each other, they get out into the real world. They should dedicate themselves to engaging and listening to the disability community about what problems need solving and what does and doesn’t work. We know. We get it.\n\nLord knows we don’t need any more designs like this…\n\nWait! Before you wander off to other parts of the internet, please consider supporting New Mobility. For more than three decades, New Mobility has published groundbreaking content for active wheelchair users. We share practical advice from wheelchair users across the country, review life-changing technology and demand equity in healthcare, travel and all facets of life. But none of this is cheap, easy or profitable. Your support helps us give wheelchair users the resources to build a fulfilling life.",
+        "fullTranslation": "在我们上一期“好心办坏事：当无障碍工程师走偏时”的专栏中，我们重点介绍了一款尤为离谱的瑞士轮椅设计，上面居然配备了毫无必要的无人机。所幸的是，并非所有拿到空头支票来设计无障碍解决方案的工程师都如此脱离现实。更常见的情况是，大企业充裕资金带来的无拘无束，往往催生出极具诱惑力、充满未来感的酷炫设计，但不知怎的，这些设计留给我的空虚感却远多于兴奋感。\n\n丰田不算太新的“Walk me”原型产品可以说是这种现象的典型代表。“Walk me”去掉了轮子，取而代之的是四条能够独立弯曲和移动的铰接腿。你可以把它想象成一只长着发光节肢、小心翼翼地平衡着一张看起来并不舒服的座椅的四脚螃蟹。\n\n借助激光雷达（LiDAR）、防碰撞雷达和内置重量传感器，这台“螃蟹椅”可以载着使用者跨越不平整地形或上下楼梯。凭借赏心悦目的柔和色调和时尚的未来极简风，丰田去年秋天在日本移动出行展（Japan Mobility Show）上亮相这款螃蟹椅时为何会引起轰动，也就显而易见了。\n\n坦白讲：如果明天能免费送我一台螃蟹椅，我绝对会立刻冲出家门去排队领我的新机器腿，哪怕还不知道该往哪儿走。\n\n但这类原型的打造初衷是为了激发灵感、展示技术可能性，而不是为了实际用户进行大规模量产。简而言之，别指望有朝一日真能看到一台螃蟹椅在大街上横行漫步。\n\n它们过度设计、成本高得令人望而却步，而且通常脱离了大多数潜在用户所面临的现实。它们是工程界的“励志色情”（inspiration porn）。它们赚足了新闻头条（没错，我也难辞其咎），让人们觉得自己正在帮助弱势群体、让世界变得更美好。不幸的是，它们极少能为像我们这样的人群转化为切实的现实益处。\n\n如果仅仅是这样，固然令人失望，但也基本算得上“无伤大雅”：无非是有钱人和企业造了昂贵的玩具，然后自我感觉良好地互相吹捧罢了。这种情况自古皆有，未来也很可能继续上演。\n\n我的担忧——也是彻底扑灭这些光鲜设计带给我的任何热情的原因——在于，正如传统的“励志色情”通过传播虚假叙事、无视残疾人的真实经历而伤害残疾人群体一样，这种工程版的“励志色情”同样忽略了去解决对我们群体最至关重要的设计难题，同时还抽走了本可以专注于解决这些难题的杰出设计师和巨额资金。\n\n这类原型的打造初衷是为了激发灵感、展示技术可能性，而不是为了实际用户进行大规模量产。\n\n如果能换来一台高质量、轻量化、低轮廓、兼具室内外使用功能，并且拥有我所依赖的定制化座椅与靠背选项的电动轮椅，我宁愿献出我这瘫痪双手的几根手指。对于一款能够安全进出无障碍步入式淋浴间的稳固淋浴椅，我也同样如此期盼。我并不是要求重新发明轮子（或轮椅），而是希望在我们现有的设计上进行微调与打磨，以最大限度地提升使用者的独立性和日常功能。\n\n正如我在本系列上一篇文章中所写的那样，已有杰出的设计师正在致力于解决这些以及其他类似问题，但我们需要更多！需要更多的智慧、更多的资金、更多的关注投向以实惠的方式改进我们现有的设备。\n\n我真心感谢“Walk me”背后的设计团队（即便我由衷地质疑究竟是谁决定把名字起得好像轮椅使用者是螃蟹椅的宠物一样）。我希望他们设计这款螃蟹椅的经历能让他们对无障碍相关设计产生热情，并希望他们继续深耕下去。\n\n我唯一的请求是，希望他们不要只是坐在公司的实验室里互相头脑风暴，而是走进现实世界。他们应该全身心地去接触并倾听残疾人群体的心声，了解到底哪些问题需要解决，哪些方案可行，哪些根本行不通。我们清楚，我们深有体会。\n\n天知道我们再也不需要更多类似这样的设计了……\n\n等等！在您浏览其他网页之前，请考虑支持《New Mobility》。三十多年来，《New Mobility》一直为活跃的轮椅使用者提供开创性的内容。我们分享来自全美轮椅使用者的实用建议，评测改变生活的科技，并在医疗、出行及生活的方方面面呼吁平等。但这一切既不廉价、不易，也无甚盈利。您的支持将帮助我们为轮椅使用者提供创造充实生活所需的资源。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "丰田展示了名为“Walk me”的原型设备，用四条可独立弯曲和移动的关节腿取代了轮子。",
+          "丰田的“Walk me”原型设备配备了激光雷达（LiDAR）、防撞雷达和内部重量传感器，能够在不平坦地面移动或上下楼梯。",
+          "来源叙事重点：抨击科技巨头开发炫目但脱离实际的“工程励志噱头”（如丰田Walk me四足概念椅），呼吁将研发资源和资金从不切实际的高端原型转移到轮椅使用者真正亟需的实用、平价日常辅具改进上。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T12:48:00.000Z",
+            "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/"
+          }
+        ]
+      },
+      {
+        "id": "story--it-expects-now-7826fb96-81d231173ab476f7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:30:00.000Z",
+        "pubTime": "2026-09-25 21:30",
+        "url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Rising bond yields and expected Fed rate hikes have wrecked the bank’s forecast for the buck",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 21:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-25T13:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--parkinsons-lawsuits-epa-ce1487bc59f41fc7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T12:00:50.000Z",
+        "pubTime": "2026-09-25 20:00",
+        "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
+        "imageUrl": "https://i.guim.co.uk/img/media/8babc0a76f1cfedb00b7cb532a2e210a6f2586e9/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=57b225cb6e054ac7fa4a6f36e222e53f",
+        "fullContent": "Syngenta denies keeping relevant data from the EPA as paraquat stays in the US market despite global bans\n\nSweden started ringing the alarm bell more than 20 years ago, calling for a ban on the weedkilling chemical paraquat in 2004. One by one, dozens of other countries did the same as evidence of paraquat risks to human health mounted. Even the Chinese government, which owns the longtime paraquat maker Syngenta , halted domestic use of the pesticide a decade ago after conducting its own studies on paraquat safety and finding troubling results.\n\nIn the US, two states – Vermont and California – have recently also banned paraquat, citing risks that include an association between paraquat and Parkinson’s disease shown in years of scientific research. And California regulators announced in August that paraquat makers voluntarily agreed to stop selling the chemical after the state identified health concerns in connection with its use in new research. Several federal lawmakers have pushed for a nationwide ban.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "瑞典在2004年呼吁禁止除草剂化学品百草枯（paraquat）。",
+          "中国政府在对其安全性展开研究并发现令人不安的结果后，于十年前停止了百草枯在国内的使用。",
+          "来源叙事重点：聚焦除草剂百草枯（paraquat）与帕金森病的潜在关联风险，重点揭示生产商先正达（Syngenta）在面临诉讼与全球广泛禁令的背景下，涉嫌未向美国环保署（EPA）披露安全数据，并强调美国联邦层面监管滞后于各州及国际标准的矛盾。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T12:00:50.000Z",
+            "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-sinoptik-2120291892-html-51aa1915896e9d11",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Синоптик рассказал, какая погода ждет москвичей в начале октября",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T13:54:28.000Z",
+        "pubTime": "2026-09-25 21:54",
+        "url": "https://ria.ru/20260925/sinoptik-2120291892.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e9/0a/11/2048866815_0:311:3088:2048_650x0_80_0_0_4f0dc63273edbf659f1a246c9519edbe.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 21:54 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/sinoptik-2120291892.html",
+            "publishedAt": "2026-09-25T13:54:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-largest-so-far-this-year-a0bf224e120dd218",
+        "title": "朝鲜黑客涉嫌盗窃3.51亿美元加密货币，为今年迄今最大盗窃案",
+        "originalTitle": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:24:34.000Z",
+        "pubTime": "2026-09-25 21:24",
+        "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+        "imageUrl": null,
+        "fullContent": "North Korean hackers are suspected of stealing more than $351 million from the servers of cryptocurrency exchange Bitget during a cyberattack on Thursday.\n\nThe cyberattack is the latest in an ongoing spate of high profile hacks targeting the crypto sector. It’s also the largest known heist of digital currency this year, eclipsing a $340 million hack in September that saw the hacker returning all but $47 million of the stolen funds.\n\nIn a series of posts on X on Thursday and Friday, Bitget said the breach involved the unauthorized transfer of crypto from its hot wallets, which are connected to the internet and designed to be used for active trading. Bitget has since suspended crypto withdrawals on its network. The company said it has $464 million in its user protection fund, which should cover the costs of the theft.\n\nBitget chief executive Gracy Chen said the breach and heist was “highly consistent with known patterns of North Korean hacker organizations.” Such collectives have been linked to crypto thefts and have been suspected of targeting open-source software to mass-hack victims with the aim of funding the country’s nuclear weapons program.\n\nAccording to blockchain intelligence firm TRM Labs, North Korea is behind around three-quarters of all crypto thefts during 2026 to date.\n\nChen did not say when Bitget’s withdrawals would open again.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "朝鲜黑客涉嫌在周四的一次网络攻击中，从加密货币交易所Bitget的服务器中窃取了超过3.51亿美元。\n\n这起网络攻击是针对加密货币领域持续发生的一系列引人注目的黑客攻击事件中的最新一起。这也是今年已知最大的一起数字货币盗窃案，超过了9月份发生的一起涉案金额达3.4亿美元的黑客攻击事件（在那起事件中，黑客归还了除4700万美元以外的全部被盗资金）。\n\n在周四和周五于X平台发布的一系列帖子中，Bitget表示此次安全漏洞涉及从其热钱包中未经授权转移加密货币，这些热钱包连接至互联网，旨在用于活跃交易。Bitget此后已暂停其网络上的加密货币提现。该公司表示其用户保护基金拥有4.64亿美元，应能弥补盗窃造成的损失。\n\nBitget首席执行官陈茜（Gracy Chen）表示，此次漏洞和盗窃案“与已知的朝鲜黑客组织行为模式高度吻合”。此类组织与多起加密货币盗窃案存在关联，并被怀疑以开源软件为目标，对受害者进行大规模网络攻击，以资助该国的核武器计划。\n\n根据区块链情报公司TRM Labs的数据，截至目前，朝鲜在2026年所有加密货币盗窃案中约占四分之三。\n\n陈茜并未透露Bitget何时会重新开放提现。\n\n你的下一个重要人脉就在Disrupt。与10,000多位创始人、风投、运营者和技术领袖建立联系。探索明天的突破，倾听塑造当今科技的声音，并在太平洋时间9月25日晚上11:59之前立省高达200美元。\n\n每周工作日和周日，你都可以获取TechCrunch的最佳报道。\n\nTechCrunch Mobility是你获取交通领域新闻与见解的首选之地。\n\n初创公司是TechCrunch的核心，欢迎订阅我们每周精选的最佳报道。\n\n为行业领袖和决策者提供开启新一天所需的信息。\n\n提交您的电子邮件，即表示您同意我们的条款和隐私声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 12,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "加密货币交易所Bitget在周四遭到网络攻击，黑客从其服务器盗取了超过3.51亿美元。",
+          "此次事件是今年已知最大规模的数字货币盗窃案，超过了9月份一起3.4亿美元的黑客攻击事件。",
+          "来源叙事重点：聚焦加密货币交易所Bitget遭遇2026年最大规模黑客盗窃案（3.51亿美元），将事件置于针对加密行业的高频攻击背景下，并重点突出攻击模式指向朝鲜黑客组织及其对地缘政治（如核武融资）的潜在关联"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T13:24:34.000Z",
+            "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/"
+          }
+        ]
+      },
+      {
+        "id": "story-reasury-yields-soar-html-a4e16521f6d8d2fa",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Here's what happens to the economy when Treasury yields soar like they are now",
+        "source": "CNBC Economy (CNBC 宏观经济)",
+        "sourceSlug": "cnbc",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:48:19.000Z",
+        "pubTime": "2026-09-25 21:48",
+        "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+        "imageUrl": null,
+        "fullContent": "Soaring Treasury yields aren't just bad for the government and its $40 trillion debt. They also threaten to raise borrowing costs, hitting everyone from homeowners to credit card users, while providing limited help to savers and potential benefits to banks.\n\nGovernment debt costs leaped higher this week, the product of multiple factors including a fresh report revealing heightened inflation pressures, surging expectations for a Federal Reserve rate hike in October and an auction for 5-year notes showing that Treasury demand was weak. Competition from hyperscaler debt issuance also is seen as an aggravating factor.\n\nYields responded by jumping more than they have in nearly a year and a half, dating back to April 2025 when President Donald Trump first announced so-called reciprocal tariffs against U.S. trading partners. Recent market liquidity efforts pushed by Treasury Secretary Scott Bessent have had no impact so far, with rates surging higher despite intensified buyback efforts on longer-dated debt.\n\nThe 10-year note, a benchmark for mortgages and other longer-term borrowing, saw its yield hit 5.19%, a level not seen since before the global financial crisis. Similarly, the 2-year note, which typically responds to Fed rate expectations and signals rates for home equity, auto loans and other debt, climbed more than 13 basis points past 4.9% as traders priced in a strong possibility that the central bank would follow its hike last week with another in October.\n\nOne basis point equals 0.01% and yields move opposite prices.\n\nSuch moves generally portend higher borrowing rates that hit the U.S. economy where it hurts the most — consumers, who drive almost 70% of all economic activity and hold nearly $19 trillion in total debt.\n\nWhile savers will benefit with incrementally higher rates on their bank savings accounts, it's unlikely to offset the pain they'll feel elsewhere, said Dan North, senior economist with Allianz Trade North America.\n\n\"The consumer's the most important part of the economy,\" North said. \"They're going from little tiny yields on savings to ever slightly bigger tiny yields on savings. So I don't think that really yet helps the consumer that much. But it sure does crush housing, and it [impacts] on all those personal consumer loans, the credit cards and so forth.\"\n\nIndeed, the interest rate on plain-vanilla savings accounts is around 0.37% and has been on a modest decline since the Fed enacted three quarter-point cuts late in 2025, according to Federal Deposit Insurance Corp. data.\n\nMortgage rates, though, have been on an entirely different trajectory and are likely to continue rising. A typical 30-year mortgage is now at 7.26%, up more than a quarter percentage point in just the past couple of weeks and nearly a full point over the past year, according to Mortgage News Daily.\n\nCredit card interest rates have been fairly steady over the past few years, but also are unlikely to stay that way if current trends hold up.\n\nWhen the Fed hikes, it feeds directly into the prime rate, which is used as a baseline for adjustable-rate credit and most recently was at 7%, after rising a quarter point off last week's Fed move.\n\nTaken together, the factors make it more expensive for consumers to borrow and less likely that they'll seek the loans and credit that fuel a lot of the activity in the $32 trillion U.S. economy.\n\n\"You raise the fed funds rate, rates in the short term and effectively all along the curve go up,\" North said. \"If it makes it harder for somebody to buy a car, then there's less demand for cars and there's less demand for auto workers, and the economy slows down. That's sort of basic economics, but that's how it works.\"\n\nThere are some positives from the higher rates.\n\nAside from whatever gains savers get, banks can benefit. The industry's model is based on a variety of factors that can benefit in times of higher rates. This includes what banks charge their borrowers and the margin these institutions earn, as well as the interest they pay to depositors.\n\nHowever, even bank stocks were mostly lower Wednesday as dramatically higher yields could slow loan demand and broader economic activity, which otherwise has been solid. The Atlanta Fed is tracking GDP growth of 5.1% for the third quarter, another element that could be factoring into higher yields.\n\nPersistently higher yields, though, pose dangers to that growth picture.\n\n\"Smaller and medium enterprises are going to be suffering the worst because they have less ability to borrow,\" North said. \"Less availability of credit makes it more difficult.\"\n\nGot a confidential news tip? We want to hear from you.\n\nGet this delivered to your inbox, and more info about our products and services.\n\nData is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.\n\nData also provided by",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国政府债务规模达到40万亿美元。",
+          "基准10年期美债收益率升至5.19%，创全球金融危机前以来的最高水平。",
+          "来源叙事重点：聚焦美债收益率与政府借贷成本飙升对终端消费者（房贷、车贷、信用卡）及中小企业的挤压，强调高利率对作为经济主引擎的消费支出的抑制风险，对财政部干预措施的有效性持怀疑态度。"
+        ],
+        "citations": [
+          {
+            "source": "CNBC Economy (CNBC 宏观经济)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T13:48:19.000Z",
+            "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html"
+          }
+        ]
+      },
+      {
+        "id": "story-amscr-3c9e2f07427bc008",
+        "title": "Amiga 屏幕机制入门指南",
+        "originalTitle": "Amiga screens: a primer",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:01:42.000Z",
+        "pubTime": "2026-09-25 21:01",
+        "url": "https://www.datagubbe.se/amscr/",
+        "imageUrl": null,
+        "fullContent": "datagubbe.se » amiga screens: a primer\n\nOne of the unwritten rules of the Internet seems to be that whenever something Amiga-related is mentioned, at least one Amiga fan (myself included) must show up and try to explain the concept of screens. Amiga screens can have different resolutions, we'll tell you, and one can drag them, we'll say, and other Amiga users rally in agreement, while non-Amiga users probably still don't get what's so great about screens. Until now, when this text has been written, in the hope of converting unsuspecting normies into full-blown Amiga screen lovers.\n\nFor practical purposes, this text will focus on the original Amiga graphics hardware, called OCS (Original ChipSet). Some hardware limitations were removed in the subsequent ECS (Enhanced ChipSet) and AGA (Advanced Graphics Architecture) upgrades, but the same basic principles and user experience still apply.\n\nA typical Amiga screen, showing a Workbench desktop with a shell window open.\n\nThe specific meaning of screen on the Amiga comes from the operating system, which uses this term to refer to a particular type of display area because it is, well, a screen. Amiga games and demo programmers aren't as bothered by this concept; the Amiga Hardware Reference Manual, for example, refers to a display area as a \"playfield\", and a demo coder might talk about raster splits, but for simplicity, let's stick to screen.\n\nHence, a screen on the Amiga is, basically, an area onto which graphics is drawn. Amiga screens can have different resolutions and colour depths, and a program can open any number of different-resolution screens to display graphics.\n\nToday, we mostly use a single, fixed-resolution display area, which is a combined effect of how modern operating systems and flatscreen monitors work. In the heydays of CRT monitors, however, opening different-resolution displays was commonplace. An image viewer running on a VGA-capable MS-DOS machine, for example, might use a 16-colour, 720x400 pixel text mode resolution for browsing files, and then open a new 256-colour 320x200 display when viewing an image.\n\nThese variations in resolution and colour depth existed on basically all home computers, and were hardware-enforced tradeoffs to achieve reasonable speed and memory consumption for different use cases. Memory was very expensive at the time (Oh, how history repeats itself!) and the Amiga, which in its stock hardware configuration relied on a relatively small amount of RAM being shared between the CPU, video and audio hardware, offered a high level of control over these screen resolutions and colour depths.\n\nTo manipulate the colour value of individual pixels, planar graphics is used, which means that the colour depth of a screen is increased by adding more bitplanes (bpl for short). Each bitplane is stored separately in memory, and in order to change the colour index of a pixel, a bit must be toggled in each plane.\n\nThus, a one-bitplane screen gives two colour indices, two bitplanes gives four and so on, up to five bitplanes and 32 colours on the original Amiga hardware (or 8 bpl and 256 colours on AGA).\n\nAn illustration of how bitplanes are combined together to represent per-pixel colour indices. (From the Amiga Hardware Reference Manual)\n\nOn OCS and ECS, the maximum number of bitplanes per screen is determined by its display resolution, and these are designed to make sense on a PAL or NTSC television set. An OCS Amiga offers low-res and high-res. On PAL, low-res is 320x256 pixels (320x512 with interlace) in up to 32 colours (5 bpl). High-res is 640x256 (640x512 with interlace) in up to 16 colours (4 bpl). These base resolutions can be increased slightly by using overscan, which in high-res can be up to 724x283, but isn't guaranteed to be fully visible on all monitor types or television sets.\n\nIn low-res, a sixth bitplane can be used for HAM (Hold-And-Modify), allowing free use of all of the OCS Amiga's 4096 colours simultaneously (with some caveats), or EHB (Extra Half-Brite) which duplicates a 32 colour palette into 32 additional copies of the original colours, but with half the original brightness value.\n\nDeluxe Paint editing an EHB image. Note the colour selector in the bottom right of the screen: The two rightmost columns are \"half-brite\" copies of the colours in the first two columns. The half-brightness isn't always perfect, since it's limited by the 12-bit colour space.\n\nUnlike most of its contemporary competitors, the Amiga has true, preemptive multitasking, for which planar graphics offers convenient resource frugality. A text editor might work just fine on a 2-colour screen, saving memory that can be used for simultaneously running a graphics program on a 32-colour screen. It's also memory-saving in the sense that only the exactly required number of bits are needed to store a single pixel while keeping memory addressing sane, instead of, say, allocating one byte per pixel and wasting the unused bits. In addition, a screen can be arbitrarily dimensioned and positioned, such as displaying a 320x50 pixel low-res screen at the bottom of the physical display area. Not using more pixels than necessary per screen will also help save memory.\n\nThe Amiga was originally designed as a games machine, which means it's got lots of hardware features for working with graphics. Repositioning a screen is instant, and scrolling an entire screen is extremely fast, to the point that even the operating system allows the user to configure a desktop screen that's larger than the visible area, and scroll around it using the mouse.\n\nIt's also easy to change the display resolution and colour depth at arbitrary points in the redraw cycle. This means that several screens can be combined at once, even overlapping, while maintaining a uniform display experience for the end user. Consider the following example:\n\nSimultaneous display of two screens with different resolutions and colour depths.\n\nThe above example has been created using the BASIC dialect AMOS, which has its own take on the screen concept and provides simple abstractions for working with the Amiga's graphics hardware. Any type of graphics operation can still be performed individually on any of the screens, such as drawing, scrolling, repositioning the screen and changing the palette.\n\nThis is an ordinary 4-colour Workbench screen. The background gradient is created using the copper, by changing the value of colour index 0 at regular intervals during video rendering.\n\nCombining screens with different resolutions and colour depths has a multitude of use cases. Even if the maximum number of colours per screen is 32, these 32 colours can be different on each screen. Thus, a game might display 64 or more colours simultaneously by using 32 colours for the main game area and 32 different colours for the user interface and/or status display. This can then be combined with copper gradients to further boost the colour count.\n\nApart from games, this swift graphics handling is also convenient when running multitasking productivity software, which (at last!) brings us to screen dragging.\n\nBecause of the low display resolutions offered by home computers and early PCs, most applications ran in full-screen mode, taking over the entire display area to show as much information (and user interface) as possible. When multitasking on the Amiga, the user can quickly switch between entire screens using either a button in the top right of the screen, or a system-wide keyboard shortcut. However, screens can also be dragged by clicking and, well, dragging the screen title bar downwards using the mouse. This will reveal another running program's screen behind it, as illustrated below.\n\nAn illustration of how screen dragging might look on a user's monitor.\n\nI must confess that even though many of us Amiga fans go on about it, the actual usefulness of screen dragging is limited, at least in my personal workflows. However, the effect must have been rather stunning in 1985, when multitasking and colour graphics were rarely seen in combination other than on very expensive Unix workstations. One use case suggestion is that you can drag down your chat program screen just a bit to check on a file download progressing on the web browser screen behind it, but full-screen switching on the Amiga is so effortless that dragging usually feels a bit cumbersome.\n\nIn order to show just how snappy this screen handling is, I've prepared a short movie clip. It's filmed off a flatscreen monitor connected to an Amiga 600, which is a 7 MHz (that's 0.007 GHz) machine based around essentially the same hardware as the original Amiga 1000 in 1985. Here it's playing some music while also running a text editor and the graphics program Deluxe Paint, and of course performing screen switching and dragging:\n\nClick above to watch the movie.\n\nThe Amiga is also capable of something called dual playfields, which means that for two overlapping screens, colour index 0 on the frontmost screen becomes transparent and will display the contents of the screen below it. The other colour indices remain intact, and all the usual stuff can still be performed individually on each screen: scrolling, painting graphics, palette changes and so on.\n\nAn illustration of Dual Playfields from the Amiga Hardware Reference Manual.\n\nThe screenshot below shows dual playfields in combination with sprites. The burgundy background and pink stars are painted on the background playfield, which is a 4-colour screen. The green and purple bars are sprites, with the sprite drawing priority set to position them between the two playfields. Everything else is drawn on the foreground playfield, which is an 8-colour screen. The Amiga hardware ensures that each layer can be smoothly animated even on a 7 MHz machine.\n\nCurious readers can download or watch this little Amiga intro through Demozoo.\n\nOn modern machines, I typically prefer to run programs as individual, stacking windows. Partly because there's enough screen real estate to go around these days, and partly because many modern programs are designed for this type of behavior. I do like to run some applications maximized to cover the entire screen, such as Visual Studio Code. Thanks to virtual desktops in my window manager, I can then swiftly switch to another working area, just as instantly as I do on my Amiga.\n\nSome programs, however, look silly when maximized on a high-resolution widescreen display. I prefer reading man pages in an 80-column terminal window, and I find that orthodox file managers feel much more reasonable in squarish aspect ratios such as 5:4. The upside of running many windowed applications on the same screen is that they can all be visible at the same time, allowing for fast context switching. The downside is that certain mouse workflows are only really applicable to full-screen applications.\n\nTake Directory Opus, for example. It's one of the best orthodox file managers I know of, and when running in full screen on my Amiga, I can do nifty things like slamming my mouse pointer to either edge of the screen and single-click, which will bring me to the parent of whatever directory is currently displayed in the corresponding lister.\n\nClicking the edge of a Directory Opus file lister.\n\nThe exact same feature can of course be implemented in a more window-focused environment, but it would be pointless: Without the edge of the screen creating a boundary for the mouse pointer, the thin clickable area would be annoyingly hard to target.\n\nA simpler pleasure, but one that's hard to replicate properly on a modern widescreen monitor, is that of editing code - or running just about any terminal-based application - in an 80x24 character full screen text mode. There's something about those proportions that just feels right.\n\nThis text only scrapes the surface of screens and the Amiga graphics hardware. Planar graphics, for example, allows for a lot of interesting trickery and effects by manipulating only some of the bitplanes making up a pixel's colour value. And we haven't even mentioned the Amiga's blitter hardware yet, which allows for blazingly fast graphics memory copying with various modes for combining or masking out bitplanes - exceptionally useful for high-octane arcade action.\n\nSprites have been mentioned only briefly, without discussing how they can be used to add extra colour to low-bitplane screens or be multiplexed together to add more sprite colours. If you'd like to know more about that, I recommend Codetapper's Amiga Site which examines the graphics aspect of Amiga games programming in great detail. I highly recommend the article on Shadow of the Beast, which uses the Amiga's graphics hardware very creatively, resulting in a visually stunning game with several layers of smooth parallax scrolling.\n\nAmiga screens have many interesting properties:\n\nAmiga software, including the operating system, makes good use of these features. This allows for productive multitasking workflows despite the machine's limited hardware resources and relatively low display resolution.\n\nNow, since I've mentioned the Amiga online, I just have to wait for some Amiga fan to send me a mail trying to explain what's so great about screens. In the meantime, take care and happy hacking!",
+        "fullTranslation": "datagubbe.se » Amiga 屏幕机制入门指南\n\n互联网上似乎有一条不成文的规律：只要有人提起与 Amiga 相关的事情，就必然会至少有一个 Amiga 粉丝（包括我自己）现身，试图向大家解释“屏幕（screens）”这一概念。我们会告诉你，Amiga 的屏幕可以拥有不同的分辨率；我们会说，你还可以拖动它们；其他 Amiga 用户也会齐声附和，而没有接触过 Amiga 的用户大概仍然搞不懂屏幕到底有什么了不起。直到现在，我写下了这篇文章，希望能将毫无防备的普通用户彻底转变为 Amiga 屏幕的狂热爱好者。\n\n出于实用考虑，本文将重点探讨最初的 Amiga 图形硬件，即 OCS（原始芯片组，Original ChipSet）。虽然在后来的 ECS（增强芯片组，Enhanced ChipSet）和 AGA（先进图形架构，Advanced Graphics Architecture）升级中解除了一些硬件限制，但相同的基本原理和用户体验依然适用。\n\n一个典型的 Amiga 屏幕，展示了打开 Shell 窗口的 Workbench 桌面。\n\n“屏幕”在 Amiga 上的特定含义源于操作系统，系统用这个术语来指代一种特定类型的显示区域，因为本质上它确实就是一个“屏幕”。Amiga 游戏和 Demo（演示程序）程序员并没有被这个概念所拘束；例如，《Amiga 硬件参考手册》将显示区域称为“活动场（playfield）”，而 Demo 程序员可能会谈论光栅分割（raster splits），但为了简单起见，我们还是沿用“屏幕”这一称呼。\n\n因此，Amiga 上的屏幕基本上就是一个用于绘制图形的区域。Amiga 屏幕可以拥有不同的分辨率和色彩深度，一个程序可以打开任意数量具有不同分辨率的屏幕来显示图形。\n\n如今，我们大多使用单一且固定分辨率的显示区域，这是现代操作系统与平板显示器协同工作的结果。然而，在 CRT 显示器的全盛时期，打开不同分辨率的显示界面是极为寻常的事。例如，在支持 VGA 的 MS-DOS 计算机上运行的图像查看器，在浏览文件时可能会使用 16 色、720×400 像素的文本模式分辨率，而在查看图片时则会打开一个全新的 256 色、320×200 像素的显示界面。\n\n这种分辨率和色彩深度的变化基本上存在于当时所有的家用电脑中，是硬件为了在不同使用场景下兼顾合理运行速度与内存开销而做出的权衡。当时的内存非常昂贵（历史总是何其相似！），而 Amiga 在其原厂硬件配置中，依赖的是 CPU、视频和音频硬件共享的相对较小的 RAM 空间，因此它提供了对这些屏幕分辨率和色彩深度的高度控制权。\n\n为了操作单个像素的颜色值，Amiga 采用了平面图形（planar graphics）技术，这意味着屏幕的色彩深度是通过增加更多位平面（bitplane，简称 bpl）来实现的。每个位平面在内存中单独存储，要改变某个像素的颜色索引，必须在各个平面中切换对应的比特位。\n\n因此，单一位平面屏幕可提供 2 个颜色索引，两个位平面可提供 4 个颜色，依此类推，在最初的 Amiga 硬件上最多支持 5 个位平面和 32 种颜色（在 AGA 硬件上可达 8 个位平面和 256 种颜色）。\n\n展示位平面如何组合在一起表示每个像素颜色索引的示意图。（出自《Amiga 硬件参考手册》）\n\n在 OCS 和 ECS 上，每个屏幕支持的最大位平面数取决于其显示分辨率，这些分辨率设计旨在与 PAL 制式或 NTSC 制式的电视机相契合。配备 OCS 的 Amiga 提供低清（low-res）和高清（high-res）模式。在 PAL 制式下，低清模式为 320×256 像素（隔行扫描下为 320×512 像素），最多支持 32 种颜色（5 个位平面）。高清模式为 640×256 像素（隔行扫描下为 640×512 像素），最多支持 16 种颜色（4 个位平面）。这些基础分辨率可以通过使用过扫描（overscan）略微增加，在高清模式下最高可达 724×283 像素，但并不能保证在所有类型的监视器或电视机上都能完全显示。\n\n在低清模式下，可以使用第六个位平面来实现 HAM（保持与修改，Hold-And-Modify）模式，从而允许在存在某些限制的情况下，同时自由使用 OCS Amiga 全部 4096 种颜色；或者使用 EHB（额外半亮度，Extra Half-Brite）模式，它将 32 色的调色板复制为原本颜色的额外 32 份副本，但亮度值仅为原色的一半。\n\nDeluxe Paint 正在编辑一张 EHB 图像。请注意屏幕右下角的颜色选择器：最右侧的两列正是前两列颜色的“半亮度”副本。由于受到 12 位色彩空间的限制，半亮度的呈现并不总是完美的。\n\n与当时的大多数竞争对手不同，Amiga 拥有真正的抢占式多任务处理能力，而平面图形技术为此提供了极为便利的资源节省手段。文本编辑器在 2 色屏幕上可能就能很好地运行，从而省下内存供同时在 32 色屏幕上运行的图形软件使用。它节约内存的另一层体现在于：存储单个像素只需要绝对必要数量的比特位，同时又能保持内存寻址的合理性，而不是像每个像素分配一个字节那样白白浪费掉未使用的位。此外，屏幕的尺寸和位置可以任意设定，例如可以在物理显示区域的底部显示一个 320×50 像素的低清屏幕。每个屏幕不使用超过实际所需的像素，也有助于节省内存。\n\nAmiga 最初是作为游戏机设计的，这意味着它具备大量用于图形处理的硬件特性。重新定位屏幕是瞬间完成的，整屏滚动的速度也极快，甚至连操作系统都允许用户配置一个比可见区域更大的桌面屏幕，并通过鼠标在其周围滚动浏览。\n\n此外，在重绘周期的任意时间点更改显示分辨率和色彩深度也是轻而易举的事。这意味着可以同时组合多个屏幕，甚至让它们重叠，同时仍为最终用户维持一致的显示体验。请看下面这个例子：\n\n同时显示两个分辨率和色彩深度均不相同的屏幕。\n\n上面的示例是使用 BASIC 方言 AMOS 创建的，AMOS 对屏幕概念有自己的理解，并为操作 Amiga 的图形硬件提供了简单的抽象。在任何一个屏幕上，仍然可以单独执行任何类型的图形操作，例如绘图、滚动、重新定位屏幕以及更改调色板。\n\n这是一个普通的 4 色 Workbench 屏幕。背景渐变是通过 Copper 协处理器实现的，它在视频渲染期间定期改变颜色索引 0 的数值。\n\n将具有不同分辨率和色彩深度的屏幕进行组合，有着非常多的应用场景。即使每个屏幕的最大颜色数是 32 种，这 32 种颜色在各个屏幕之间也可以互不相同。因此，一款游戏可以通过在主游戏区域使用 32 种颜色，而在用户界面和/或状态显示栏使用另外 32 种不同的颜色，从而同时显示 64 种或更多颜色。这还可以进一步结合 Copper 渐变，以此进一步大幅增加同屏显示的色彩数量。\n\n除了游戏之外，这种迅捷的图形处理能力在运行多任务生产力软件时也极为便利，这（终于！）把我们引向了“屏幕拖动”（screen dragging）。\n\n由于早期家用电脑和 PC 提供的显示分辨率较低，大多数应用程序都在全屏模式下运行，占据整个显示区域以显示尽可能多的信息（和用户界面）。在 Amiga 上进行多任务处理时，用户可以通过屏幕右上角的按钮或系统全局键盘快捷键在各个完整的屏幕之间快速切换。然而，屏幕也可以通过鼠标点击并——没错——向下拖动屏幕标题栏来进行拖曳。这样就会露出位于其后方运行的另一个程序的屏幕，如下所示。\n\n[图片说明：屏幕拖动在用户显示器上可能呈现的效果图。]\n\n我必须坦白，尽管我们许多 Amiga 粉丝对此津津乐道，但屏幕拖动的实际实用价值有限，至少在我的个人工作流中是这样。然而，在 1985 年，当多任务处理和彩色图形的结合在除了极其昂贵的 Unix 工作站之外罕见一见时，这种效果想必相当令人惊叹。一个建议的使用场景是，你可以将聊天程序屏幕稍稍向下拖动一点，以查看位于其后方的网页浏览器屏幕上的文件下载进度，但 Amiga 上的全屏切换是如此轻松顺畅，以至于拖动操作通常让人觉得有些繁琐。\n\n为了展示这种屏幕处理有多么利落迅捷，我准备了一段简短的视频剪辑。它是用连接在 Amiga 600 上的平板显示器拍摄的，该机器运行主频为 7 MHz（也就是 0.007 GHz），其底层硬件与 1985 年的原始 Amiga 1000 基本相同。在这里，它一边播放音乐，一边同时运行一个文本编辑器和绘图程序 Deluxe Paint，当然还在执行屏幕切换和拖动：\n\n[点击上方观看视频。]\n\nAmiga 还具备一种名为“双游戏场地”（dual playfields）的特性，这意味着对于两个重叠的屏幕，最前面屏幕的颜色索引 0 会变成透明，从而显示出其下方屏幕的内容。其他颜色索引保持不变，并且通常的所有操作仍可以在各个屏幕上独立执行：滚动、绘制图形、调色板更改等等。\n\n[图片说明：《Amiga 硬件参考手册》中关于双游戏场地（Dual Playfields）的插图。]\n\n下方的截图展示了双游戏场地与精灵（sprites）的结合使用。酒红色的背景和粉色星星绘制在背景游戏场地（这是一个 4 色屏幕）上。绿色和紫色的条形物是精灵，精灵的绘制优先级被设置为置于两个游戏场地之间。其余所有内容均绘制在前景游戏场地（一个 8 色屏幕）上。Amiga 硬件确保即使在 7 MHz 的机器上，每一层也能流畅动画化。\n\n好奇的读者可以通过 Demozoo 下载或观看这个 Amiga 小片头程序（intro）。\n\n在现代机器上，我通常更喜欢将程序作为独立、层叠的窗口运行。部分原因在于如今屏幕空间足够充裕，另一部分原因在于许多现代程序本身就是为这种交互方式而设计的。我确实喜欢把某些应用程序最大化以铺满整个屏幕，比如 Visual Studio Code。多亏了窗口管理器中的虚拟桌面，我可以随后快速切换到另一个工作区，就像在我的 Amiga 上一样即时。\n\n然而，某些程序在高分辨率宽屏显示器上最大化时看起来会很滑稽。我更喜欢在 80 列的终端窗口中阅读 man 手册页，而且我发现正统文件管理器在类似 5:4 这样的接近正方形的高宽比下感觉合理得多。在同一屏幕上运行多个窗口化应用程序的优点在于它们可以同时可见，从而实现快速的上下文切换。缺点则是某些鼠标工作流实际上只适用于全屏应用程序。\n\n以 Directory Opus 为例。它是我所知道最好的正统文件管理器之一，当在我的 Amiga 上全屏运行时，我可以做一些巧妙的操作，比如直接将鼠标指针猛推到屏幕边缘并单击，这会带我进入对应文件列表当前所显示目录的父目录。\n\n[图片说明：点击 Directory Opus 文件列表的边缘。]\n\n完全相同的功能当然也可以在更以窗口为中心的环境中实现，但这毫无意义：如果没有屏幕边缘为鼠标指针提供边界屏障，那个狭窄的可点击区域将很难对准，令人抓狂。\n\n还有一种更单纯的乐趣——但在现代宽屏显示器上很难完全重现——那就是在 80x24 字符的全屏文本模式下编辑代码，或者运行几乎任何基于终端的应用程序。那种比例总有一种让人感觉恰到好处的质感。\n\n本文仅触及了屏幕机制和 Amiga 图形硬件的皮毛。例如，平面图形（planar graphics）允许通过仅操纵构成像素颜色值的部分位平面（bitplanes）来实现许多有趣的技巧和特效。我们甚至还没提到 Amiga 的位块传输器（blitter）硬件，它允许以惊人的速度进行图形内存复制，并具有用于组合或遮罩位平面的各种模式——这对于节奏激烈的街机类动作游戏来说极其有用。\n\n精灵只是被简要提及，并没有讨论如何利用它们为低位平面屏幕添加额外的颜色，或者如何将它们复用叠加以增加更多精灵颜色。如果你想了解更多，我推荐 Codetapper 的 Amiga 网站，该网站非常详细地剖析了 Amiga 游戏编程的图形方面。我强烈推荐关于《野兽之影》（Shadow of the Beast）的文章，该游戏极具创造性地运用了 Amiga 的图形硬件，从而造就了一款拥有多层平滑视差滚动的惊艳游戏。\n\nAmiga 屏幕具有许多有趣的特性：\n\n包括操作系统在内的 Amiga 软件充分利用了这些功能。尽管机器的硬件资源有限且显示分辨率相对较低，这仍旧实现了高效的多任务工作流程。\n\n现在，既然我已经在网上提到了 Amiga，我只需静候某些 Amiga 粉丝给我发邮件，向我解释屏幕机制到底有多么伟大了。在此期间，保重身体，祝黑客编程愉快！",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 42,
+        "translationParagraphs": 42,
+        "keyTakeaways": [
+          "在Amiga操作系统中，“screen”（屏幕）指代绘制图形的特定显示区域，不同屏幕可具有不同的分辨率和色彩深度。",
+          "原始Amiga图形硬件被称为OCS（Original ChipSet），随后的升级版本包括ECS（Enhanced ChipSet）和AGA（Advanced Graphics Architecture）。",
+          "来源叙事重点：深度科普经典计算机平台 Amiga 独特的“屏幕（Screens）”概念与图形硬件底层机制（如位平面、OCS架构、双播放区等），阐述其在极度受限的内存与硬件条件下实现抢占式多任务与多分辨率混显的工程智慧，并反思“屏幕拖动”等标志性功能的实际实用性与现代窗口界面的对比。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T13:01:42.000Z",
+            "url": "https://www.datagubbe.se/amscr/"
+          }
+        ]
+      },
+      {
+        "id": "story--09-pupil-responses-html-deb2720fe955305a",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "What we evaluate, not just what we see, shapes pupil responses",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:40:08.000Z",
+        "pubTime": "2026-09-25 21:40",
+        "url": "https://phys.org/news/2026-09-pupil-responses.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/pupils-respond-not-onl.jpg",
+        "fullContent": "Our pupils become smaller under brighter conditions and larger under darker conditions. In addition to responding to changes in light, pupil size is influenced by attention, emotion and how visual objects are perceived.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 21:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-pupil-responses.html",
+            "publishedAt": "2026-09-25T13:40:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-0925-gid-2120291757-html-e07aaa7bf7d700c8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Первый гастрономический гид презентовали в Саратовской области",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T13:54:04.000Z",
+        "pubTime": "2026-09-25 21:54",
+        "url": "https://ria.ru/20260925/gid-2120291757.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/152843/65/1528436573_0:188:1500:1032_650x0_80_0_0_d2705a426dfd734df46353d35c6aa0c8.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 21:54 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/gid-2120291757.html",
+            "publishedAt": "2026-09-25T13:54:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--nest-gemini-home-review-c58ed3cc3208b882",
+        "title": "Apple Home 的 AI 摄像头功能能否胜过亚马逊与谷歌？我做了一番实测",
+        "originalTitle": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:00:00.000Z",
+        "pubTime": "2026-09-25 21:00",
+        "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a “motion detected” notification from my security camera. “Just my dog in the yard,” I thought, dismissing it. As the colorful eggs piled up in the baskets, my phone kept buzzing. Reluctantly, I pulled it out again and saw several more “motion detected” alerts. I tried to load a video clip, but it just buffered endlessly. When I returned home, I found my four pet chickens dead, killed by my small border terrier. Looking back over the camera footage, I saw that they had pushed open their coop door, which I, in a rush to get to the Easter festivities, hadn’t properly secured. If instead of “motion detected,” that first notification had read “small dog chasing a chicken,” I would have raced back home and maybe saved them.  Today, that type of notification is possible. With AI-generated text descriptions, a short message describing what the camera saw can arrive almost instantly, well before a video feed loads, painting the whole scene in a sentence.  Most major security camera companies now offer text descriptions, which combine traditional motion triggers with Vision Language Models, including Ring, Google Nest, Blink, Wyze, and Arlo. This month, with iOS 27, Apple finally brought the capability to its HomeKit Secure Video service with the launch of Apple Intelligence for Home.  The surprise is that Apple is charging up to three times as much as its competition for the feature. Is it worth it? And are security cameras getting better at telling us about what actually matters? [Image: You’d think no one can get past my door without me knowing about it. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5904.jpeg?quality=90&strip=all] I’ve been testing Apple Intelligence for Home since it launched in beta this summer, alongside Amazon Ring’s and Google Nest’s AI camera features introduced last year. I installed several cameras for each, but for this piece, I focused mainly on video doorbells — which I set up when iOS 27 officially arrived on September 14th. I tested a Ring Wired Doorbell Pro ($249.99), Google Nest Doorbell 2K ($199.99), and for Apple, the HomeKit Secure Video-compatible Aqara Doorbell Camera G400 ($99). I focused on how quickly each service sent the AI-powered notifications, how accurate and useful the descriptions were at telling me what happened, and how reliably it captured and notified me about activity. I also tested other AI-powered features each platform offers, including Apple’s ability to search and stitch together activity across multiple cameras, Ring’s Unusual Event that distinguished normal activity from out-of-the-ordinary events, and Google’s ability to trigger automations based on what a camera sees. The AI features on all three platforms are a significant improvement over their basic smart alerts. It’s now easier to understand what’s happening at a glance and decide whether to react, and security cameras feel more useful and less annoying overall. Ultimately, the real value of AI in cameras isn’t in describing what they see, but in using that knowledge to figure out what you actually need to know, and eventually what your home should do about it.  What Apple Intelligence provides, at what price --- How to use Apple Intelligence for Home You need an iCloud Plus plan, a HomeKit Secure Video-compatible camera, an Apple Home Hub running HomePod/tvOS 27, and an AI-capable iPhone running iOS 27. Three iCloud Plus tiers support Apple Intelligence on one or more cameras: * 2TB plan: $9.99 a month (or Apple One / $39.95 a month) for one camera * 6TB plan: $29.99 a month for two cameras * 12TB plan: $59.99 a month for up to five cameras * No tier supports more than five cameras. Note: standard HomeKit Secure Video recording also requires an iCloud Plus plan, starting at $0.99 for one camera (50GB plan), $2.99 for five (200GB), and $9.99 for unlimited (2TB). All tiers that include Apple Intelligence support basic HKSV features on unlimited cameras. Apple Intelligence is on by default for Reduce Notifications and off by default for Summarize Videos. To adjust, go to Settings in the Home app, scroll down to Apple Intelligence, toggle on Summarize Video, and select participating cameras. --- With Apple Intelligence, a compatible camera connected to Apple’s HomeKit Secure Video service can send you text descriptions through the Apple Home app: “A dog sat on the floor,” “a cat played in the room,” “someone delivered a package.” It also enables natural-language video search, surfaces “noteworthy” events, stitches relevant clips together, and adds a reduce notifications feature that combines related events into a single alert that updates. This is in addition to the existing smart alerts, facial recognition, and 10 days of video storage available with HomeKit Secure Video. Pricing is where it gets tricky. Apple Intelligence for Home is bundled into iCloud Plus: $10 a month covers one camera, $30 covers two, and $60 up to five (see sidebar). No tier supports more than five cameras. By comparison, Google Home’s Nest cameras offer Gemini-powered text descriptions, video search, facial recognition, and a daily Home Brief digest — which summarizes the day’s activity in a short paragraph (sometimes with a fictional slant) — for $20 a month, covering unlimited cameras and 24/7 recording on wired models. Amazon’s Ring also charges $20 a month for its AI text descriptions, video search, facial recognition, unusual events alerts, and clip recording on unlimited cameras, with 24/7 costing an extra $3 per camera on wired models. Ring has its own reduced notification option that rolls similar events from the same camera into one notification, such as “Brian is mowing the lawn.” Apple says the least Text descriptions are a game changer for security cameras. For me, getting an alert that says “A FedEx delivery person is walking on the lawn” rather than “person detected at front door” is the difference between getting up and going downstairs or carrying on working. But quality and accuracy vary wildly, even within a single provider. Sometimes I get useful details, other times a few words that tell me almost nothing. Then there were the times when the descriptions were detailed, but laughably wrong: “A tennis serve simulator is rolling on the walkway,” “A gray hoverboard is driving on the pathway” — both misidentifications of a robot lawn mower. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9867.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9865.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.39.46-PM.png?quality=90&strip=all] In my testing, text alerts from Google and Ring provided the most context and specificity, and Apple often didn’t try, saying “someone” rather than providing any detail. For example, it would say “someone is walking in the yard,” whereas Ring and Google provided more context: a delivery person is walking in the yard, a person in uniform, someone carrying a bag, and so on. Apple was also the briefest. For example, when my cat was on the front porch, Apple said, “A cat sat on the porch.” Ring went with “A cat is standing on the pathway outside the porch.” Google Home told me which cat: “A black and white cat walks across the porch.” All three identified delivery trucks, correctly flagging UPS and FedEx vehicles driving past, as well as delivery people approaching the door. Apple was the only one to ID the USPS van pulling up to my mailbox, although not consistently. Google was the most descriptive with vehicles — “a light-colored car drives by on the street” or “a white van,” “a dark-colored SUV” — Apple and Ring mostly said “a vehicle drove by,” sometimes with a type (van, car, truck).  [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9856.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9883.png?quality=90&strip=all] Apple’s descriptions were the hardest to digest at a glance, particularly the combined ones through reduce notifications. For example, “Someone seen. Someone carried a box” is clunky. Ring and Google merge the events more fluidly into “a person carried a box up the driveway.”  In fairness, Apple Intelligence in Home only officially launched this month, so I expect this to improve, but as things stand, Ring’s and Google’s are more useful and cost less.  Finicky facial recognition and alerts For a doorbell camera, the real advantage of AI descriptions is knowing who’s there right away. All three offer facial recognition alongside the ability to spot a UPS driver or similar. Ring was the most consistently accurate, identifying me every time I approached the door. Apple hedged its bets, sometimes identifying me, sometimes saying “Someone who may be Jennifer Pattison Tuohy,” and other times just “Someone.” Google got it right about half the time; the other half it thought I was my daughter’s best mate (a change from the UPS driver it pegged me as for most of last year). [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9875.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9897.png?quality=90&strip=all] Text descriptions are more useful if they show up, and quickly. But on the doorbell camera I was testing, Apple’s often didn’t. Apple Home reliably alerted me when someone pressed the doorbell, and it recorded every event, but notifications about other motion events were inconsistent. A potential issue here is that, unlike its competition, Apple doesn’t control the whole experience. HomeKit Secure Video only works with third-party hardware — there are no Apple cameras yet. I was using the G400, Aqara’s latest wired doorbell camera. When I first set it up, alerts arrived in Apple Home with no issues, but at some point they stopped, and no amount of troubleshooting brought them back. However, alerts kept coming through in the Aqara app. I also still got doorbell ring alerts in the Home app, and notifications from other Aqara cameras continued to work. The Google Nest doorbell captured everything and was consistently first to notify me of an event. Ring was also fast and mostly reliable; its notifications showed up just after Google’s, though I’d occasionally get “This video is unavailable” when trying to play back footage.  Reliability is Apple’s biggest fix, plus some innovation The good news is that recording in HomeKit Secure Video has improved significantly with iOS 27. Apple said it completely rearchitected the system, which addresses a long-standing problem with missing clips. I’ve noticed that cameras load faster, are more stable, and no longer miss recordings. An Eve outdoor camera that was almost always offline has been stable since the upgrade, and the Aqara Camera Hub G5 outdoor camera and G350 indoor camera have also been solid. The G400 doorbell camera has been the only problem child, with missing notifications, but it records consistently.  [Video: Apple Intelligence in Home testing] All the other HomeKit cameras I tested reliably sent alerts; only the Aqara doorbell camera had the issue, but even when I didn’t get alerts, I could use video search to find events. Typing “When did the USPS truck come” in the Apple Home app pulled up every instance the Aqara doorbell spotted the mail delivery. In comparison, while the Nest Cam didn’t identify the USPS truck as often, its video search results contained more specifics, including an event where the mail person dropped off an Amazon package. Of the three, Google’s video search was the most useful, followed by Ring’s, then Apple’s, which directly correlates with the amount of detail each provides in the text descriptions.  Apple has two features Ring and Google don’t offer. The first is clip stitching, where Apple Intelligence identifies someone or something on one camera, recognizes it again on another, understands these are related, and plays the sequence as a single video in the Home app. I haven’t found a real use for this so far, but it’s been fun for tracking my dog around the house when I’m out. The second feature is bringing events that Apple judges important to the top of the search box. In the last two weeks, it’s only highlighted the trash pickup ━ I guess my life just isn’t that noteworthy.  Here’s where Ring wins One of the biggest problems with security cameras is filtering out the important info from the sheer volume of everything they see. Even with AI notifications turned on, I still get a stream of alerts from Apple Home and Google Home. Some are more useful than they used to be, but overload is still an issue. [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7752.png?quality=90&strip=all] [Image: https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9858.png?quality=90&strip=all] While Apple’s noteworthy events feature shows promise, Ring’s Unusual Event feature is the best solution I’ve seen. It learns what normal traffic looks like for each camera, then notifies you only when something isn’t normal. This summer, I cut my Ring notifications down from around 40 a day to just two or three.  Instead of getting an alert every time my cat is on my porch, I only get one when a raccoon or possum walks by. It doesn’t send alerts when my son comes home from school, but it does when he comes home at 2AM. The camera by my chicken coop no longer sends a series of notifications when someone is feeding them or collecting eggs — but it does alert me when I am out there at midnight with a flashlight to wrestle a snake. What’s next: cameras that can act [Image: The cats were a big fan of Google Home’s inability to tell them apart, as it meant more kibble. (This is not Smokey). https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7979.png?quality=90&strip=all] The natural progression here is automations triggered by the camera understanding what it sees. Turn on the sprinklers if there’s a raccoon in the backyard, but not if it’s just my dog. A cat at the back door broadcasts an alert through my smart speakers so someone can let them in. The trash truck rolling past without stopping sends an urgent notification to put the bins out before it comes back the other way. This is where cameras move beyond being simply security devices to become intelligent smart-home sensors that can understand what’s happening and potentially act on it. Google Home recently added the ability to trigger automations from camera alerts, although in my early testing, it’s not reliable enough. I tried it with my three cats and a pet feeder using Google’s new Pet Memory feature. But instead of only dispensing food for one specific cat as I asked, it triggered every time it saw a cat. At least the cats were happy.  The problem is accuracy. When AI can’t reliably identify the subject, the automations can’t respond reliably. So, my earlier example of Apple accurately recognizing the USPS van half the time would mean any automation I set up to alert me the mail is here would only work half the time. Today, Apple doesn’t have this capability, but if the rumors that the company is developing its own video doorbell and security camera are true, I would expect to see a feature like this come to Apple Home.  The privacy tradeoff The smarter cameras become, the more they need to know about your home. For a system to understand what’s normal, it needs to learn who lives there, when they come and go, which pets are around, and which vehicles belong. This raises very real concerns around privacy and surveillance. Ring has faced particular scrutiny over its cloud-based architecture and partnerships with law enforcement. Where Google and Apple can start with local processing, Ring processes all footage in the cloud by default. Last month, Ring announced an overhaul to that model, introducing a new default encryption system called TAKE. This rotates encryption keys for cloud-stored video and deletes Ring’s copy after 24 hours. Among other privacy protections, including no admin access, Ring says this means it can no longer hand over decrypted footage to the police. However, it can still be compelled to provide encrypted files. With Apple’s standard HomeKit Secure Video, your home hub processes footage locally and encrypts it end-to-end before sending it to the cloud for storage. But adding Apple Intelligence changes that: Video summaries are now processed in the cloud using Apple’s Private Cloud Compute (PCC), where they are unencrypted for processing. According to Apple, PCC writes the captions, sends them back, and then “permanently deletes the data from PCC.” Apple support docs also state that there is no admin access, and nothing identifies who the footage belongs to. Google takes a similar approach to Apple, but without end-to-end encryption; footage is encrypted in transit and at rest. Gemini for Home-enabled Nest cameras can use some on-device processing, but the heavy work is done in the Gemini cloud, in line with Google Home’s privacy practices.  A big question for me is whether all this intelligence has to live on someone else’s computers. There’s real benefit in a system knowing everything about my home — I’d just prefer to be the only one who knows it. For privacy, security, and potentially speed, local AI processing and storage feels like the right answer. Manufacturers including Anker Eufy, Reolink, Ubiquiti UniFi, and UGreen already have or have announced products that do this. With a new Apple TV, HomePod, and a possible smart display all rumored to be imminent, App",
+        "fullTranslation": "几年前，我参加了一场海滩复活节寻彩蛋活动，看着孩子们穿梭在沙丘间寻找甜点。我的手机在口袋里震动了一下；我没理会。片刻之后，它又震动了一次。我掏出手机低头一看，看到安防摄像头发来的一条“检测到活动”通知。“大概只是我的狗在院子里，”我想着，便没当回事。随着篮子里的彩蛋越堆越多，我的手机还在不断震动。我无奈地再次拿出手机，又看到了好几条“检测到活动”的提醒。我试图加载一段视频片段，但它只是一直在缓冲。回到家时，我发现养的四只宠物鸡都死了，全是被我家那只小边境㹴咬死的。回头查看监控录像，我发现它们推开了鸡舍门，而我当时急着赶去参加复活节庆祝活动，没有把门关严实。如果当时第一条通知写的不是“检测到活动”，而是“小狗在追逐一只鸡”，我就会立刻飞奔回家，也许还能救下它们。\n\n如今，这种类型的通知已成为现实。借助 AI 生成的文字描述，一条描述摄像头所见内容的简短消息几乎可以即时送达，甚至远早于视频画面的加载，用一句话就能勾勒出整个场景。目前大多数主流安防摄像头公司都提供了这种结合传统运动触发器与视觉语言模型（Vision Language Models）的文字描述功能，包括 Ring、Google Nest、Blink、Wyze 和 Arlo。\n\n本月，随着 iOS 27 的发布，苹果终于通过推出适用于家庭的 Apple Intelligence（Apple Intelligence for Home），为其 HomeKit 安防视频（HomeKit Secure Video）服务引入了这项能力。令人惊讶的是，苹果对该功能的收费最高达到了竞争对手的三倍。这到底值不值？安防摄像头在向我们告知真正重要的事情方面，是否变得越来越好用了？\n\n[图片：你大概会以为，任何人都休想在我不察觉的情况下从我的门前溜过去。https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5904.jpeg?quality=90&strip=all]\n\n自今年夏天开启测试版以来，我就一直在测试适用于家庭的 Apple Intelligence，同时也在测试亚马逊 Ring 和谷歌 Nest 去年推出的 AI 摄像头功能。我为每个平台安装了多台摄像头，但在这篇评测中，我主要聚焦于可视门铃——这些门铃是在 9 月 14 日 iOS 27 正式发布时安装就绪的。我测试了 Ring Wired Doorbell Pro（售价 249.99 美元）、Google Nest Doorbell 2K（售价 199.99 美元），以及支持苹果 HomeKit 安防视频的 Aqara 门铃摄像头 G400（售价 99 美元）。\n\n我重点关注了各家服务发送 AI 驱动通知的速度、文字描述在告知发生了何事方面的准确性与实用性，以及捕捉动态和向我发送提醒的可靠程度。我还测试了各平台提供的其他 AI 功能，包括苹果跨多台摄像头搜索并拼接动态的能力、Ring 区分日常活动与异常事件的“异常事件（Unusual Event）”功能，以及谷歌根据摄像头所见内容触发自动化的能力。\n\n这三大平台的 AI 功能相比其原有的基础智能提醒均有显著提升。现在，用户只需瞥一眼就能更轻松地了解发生了什么并决定是否需要应对，整体上安防摄像头感觉更加实用，也没那么烦人了。归根结底，AI 在摄像头中的真正价值并不在于描述它们看到了什么，而在于利用这些信息判断你真正需要了解什么，并最终让你的智能家居采取相应行动。\n\nApple Intelligence 提供了什么，价格几何\n---\n如何使用适用于家庭的 Apple Intelligence\n你需要一个 iCloud+ 方案、一台兼容 HomeKit 安防视频的摄像头、一台运行 HomePod/tvOS 27 的 Apple 家庭中枢，以及一台支持 AI 且运行 iOS 27 的 iPhone。\n共有三档 iCloud+ 方案支持在一台或多台摄像头上使用 Apple Intelligence：\n* 2TB 方案：每月 9.99 美元（或 Apple One 方案每月 39.95 美元），支持 1 台摄像头\n* 6TB 方案：每月 29.99 美元，支持 2 台摄像头\n* 12TB 方案：每月 59.99 美元，最多支持 5 台摄像头\n* 没有任何方案支持 5 台以上的摄像头。\n注：标准的 HomeKit 安防视频录制同样需要 iCloud+ 方案，起售价为 1 台摄像头每月 0.99 美元（50GB 方案）、5 台每月 2.99 美元（200GB），以及不限台数每月 9.99 美元（2TB）。所有包含 Apple Intelligence 的档位均支持在不限数量的摄像头上使用基础的 HKSV 功能。\nApple Intelligence 在“减少通知（Reduce Notifications）”上默认开启，在“摘要视频（Summarize Videos）”上默认关闭。若要调整，请打开“家庭”App 中的“设置”，向下滚动至 Apple Intelligence，开启“摘要视频”开关，并选择适用的摄像头。\n---\n借助 Apple Intelligence，连接到苹果 HomeKit 安防视频服务的兼容摄像头可以通过 Apple 家庭 App 向你发送文字描述：“一只狗坐在地板上”、“一只猫在房间里玩耍”、“有人送来了一个包裹”。它还支持自然语言视频搜索、凸显“值得注意的”事件、将相关片段拼接在一起，并增加了“减少通知”功能，将相关事件合并为一条可持续更新的提醒。这些都是在 HomeKit 安防视频现有的智能提醒、面部识别以及 10 天视频存储基础之上新增的功能。\n\n定价则变得复杂起来。家庭版 Apple Intelligence 捆绑在 iCloud+ 中：每月 10 美元覆盖 1 台摄像头，30 美元覆盖 2 台，60 美元最多覆盖 5 台（见边栏）。没有任何方案支持 5 台以上的摄像头。相比之下，Google Home 的 Nest 摄像头提供由 Gemini 驱动的文字描述、视频搜索、面部识别以及每日家庭简报（Home Brief）——用简短的一段话总结一天的动态（有时还带有虚构色彩）——每月 20 美元，覆盖不限数量的摄像头以及有线型号的 24/7 全天候录制。亚马逊 Ring 的 AI 文字描述、视频搜索、面部识别、异常事件警报以及不限数量摄像头的片段录制同样每月收费 20 美元，有线型号的 24/7 录制每台摄像头需额外支付 3 美元。Ring 也拥有自己的减少通知选项，可将来自同一摄像头的类似事件合并为一条通知，例如“布莱恩正在修剪草坪”。\n\n苹果言简意赅\n文字描述对安防摄像头而言是一个颠覆性的变革。对我来说，收到一条写着“联邦快递送货员正走在草坪上”的提醒，而不是“前门检测到有人”，决定了我究竟是该起身下楼还是继续埋头工作。\n\n然而，文字描述的质量和准确性差异极大，甚至在同一家供应商的产品中也是如此。有时我能收到有用的细节，有时却只有几个几乎说明不了任何问题的词。更有甚者，有些描述虽然很详尽，却错得离谱：“一台网球发球模拟器正在人行道上滚动”、“一块灰色悬浮滑板正在小径上行驶”——两者其实都是对割草机器人的误认。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9867.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9865.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-6.39.46-PM.png?quality=90&strip=all]\n\n在我的测试中，文字提醒来\n\n……谷歌和 Ring 提供了最丰富的背景信息和细节，而苹果通常根本不予细究，只说“有人”，不提供任何具体细节。例如，苹果会提示“有人在院子里走动”，而 Ring 和谷歌则能提供更多背景信息：一名快递员正在院子里走动、一个穿制服的人、有人拿着一个包等等。苹果的描述也是最简短的。比如，当我的猫在前廊上时，苹果提示：“一只猫坐在门廊上。”Ring 的表述是：“一只猫正站在门廊外的走道上。”Google Home 甚至告诉我具体是哪只猫：“一只黑白相间的猫穿过门廊。”三者都能识别送货卡车，准确标记驶过的 UPS 和联邦快递（FedEx）车辆，以及走近门口的快递员。苹果是唯一识别出驶近我家邮箱的美国邮政（USPS）货车的设备，尽管并非每次都能成功。谷歌对车辆的描述最为详尽——“一辆浅色汽车在街上驶过”或“一辆白色货车”、“一辆深色 SUV”——而苹果和 Ring 大多只说“一辆车辆驶过”，偶尔会注明车型（货车、汽车、卡车）。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9856.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9883.png?quality=90&strip=all]\n\n苹果的描述在一瞥之下最难消化，尤其是通过“减少通知”功能合并后的描述。例如，“看到有人。有人搬着一个箱子”显得非常生硬。Ring 和谷歌则能更流畅地将这些事件融合成一句话：“一个人搬着箱子走上车道。”平心而论，Home 中的 Apple Intelligence 本月才刚正式推出，因此我预计后续会有所改进，但就现状而言，Ring 和谷歌的功能更实用，且花费更少。\n\n挑剔的面部识别与警报\n\n对于门铃摄像头来说，AI 描述的真正优势在于能够立即知道门外是谁。这三款产品都具备面部识别功能，并能识别 UPS 司机等人员。Ring 的表现最始终如一地准确，每次我走向门口时它都能识别出我。苹果则留有余地，有时能识别出我，有时提示“疑似 Jennifer Pattison Tuohy 的人”，还有时干脆只显示“有人”。谷歌的大致准确率约为一半；而另一半时间它把我想象成了我女儿最好的朋友（相比去年大部分时间它都把我当成 UPS 司机而言，这算是个变化）。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9875.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9897.png?quality=90&strip=all]\n\n文字描述如果能及时且迅速地弹出，会更加实用。但在我测试的门铃摄像头上，苹果往往做不到这一点。Apple Home 在有人按下门铃时能可靠地发出提醒，并记录下每一个事件，但关于其他移动事件的通知却断断续续。这里的一个潜在问题在于，与竞争对手不同，苹果并未掌控端到端的整套体验。HomeKit 安全视频（HomeKit Secure Video）目前仅支持第三方硬件——目前还没有苹果自研的摄像头。我使用的是 G400，这是 Aqara 最新的有线门铃摄像头。刚设置好时，Apple Home 中的警报一切正常，但不知从何时起警报就停止了，无论如何排查问题都无法恢复。然而，Aqara 应用内的警报却始终能正常接收。我依然能在“家庭”应用中收到按门铃的提示，其他 Aqara 摄像头的通知也能正常工作。Google Nest 门铃则记录下了所有动态，并且始终是第一个向我发送事件通知的。Ring 同样反应敏捷且基本可靠；它的通知紧随谷歌之后弹出，尽管在尝试回放视频时偶尔会提示“此视频不可用”。\n\n可靠性是苹果最大的改进点，此外还有一些创新\n\n好消息是，随着 iOS 27 的推出，HomeKit 安全视频的录制功能得到了显著提升。苹果表示已对底层架构进行了全面重构，解决了长期存在的录像丢失问题。我注意到摄像头的加载速度更快、更稳定，也不再遗漏录像。一台过去几乎总是离线的 Eve 室外摄像头在升级后一直保持稳定，Aqara 摄像机网关 G5 室外机以及 G350 室内摄像机也表现稳健。只有 G400 门铃摄像头成了唯一的“问题儿童”，存在通知漏报的问题，但它的录像记录依然稳定。\n\n[视频：Apple Intelligence in Home testing]\n\n我测试的所有其他 HomeKit 摄像头都能可靠地发送警报，唯独 Aqara 门铃摄像头出现了这个问题；不过即使没有收到警报，我也能通过视频搜索来查找事件。在 Apple Home 应用中输入“USPS 货车什么时候来的”，就能检索出 Aqara 门铃拍到邮政投递的所有画面。相比之下，虽然 Nest Cam 识别出 USPS 货车的频率没那么高，但它的视频搜索结果包含了更多具体细节，包括一次邮递员放下亚马逊包裹的事件。在这三者中，谷歌的视频搜索最为实用，Ring 次之，苹果排在最后，这与其文字描述中提供的细节丰富程度直接相关。\n\n苹果拥有两项 Ring 和谷歌都不具备的功能。第一项是“视频片段拼接”（clip stitching），即 Apple Intelligence 在一台摄像头上识别出某人或某物后，在另一台摄像头上再次识别出来，理解这两者互相关联，并在“家庭”应用中将其作为一段连续的视频播放。到目前为止我还没发现这项功能的实际用途，但在我外出时用它来追踪小狗在家里的动向还挺有趣的。第二项功能是将苹果判定为重要的事件置顶显示在搜索框顶部。在过去的两个星期里，它只置顶提示过垃圾清运——我想大概是我的生活确实没那么多值得关注的大事吧。\n\nRing 的胜出之处\n\n安防摄像头最大的问题之一，就是如何从海量监控内容中筛选出重要信息。即使开启了 AI 通知，我依然会收到来自 Apple Home 和 Google Home 的连绵不断的警报轰炸。有些通知确实比以前更有用了，但信息过载依然是个困扰。\n\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7752.png?quality=90&strip=all]\n[图片：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_9858.png?quality=90&strip=all]\n\n虽然苹果的“重点事件”功能颇具前景，但 Ring 的“异常事件”（Unusual Event）功能是我见过最好的解决方案。它会学习每台摄像头的日常活动规律，随后仅在发生异常情况时才向你发送通知。今年夏天，我将 Ring 的每日通知量从大约 40 条缩减到了仅有两三条。它不再在我的猫每次走过门廊时都发通知，而只在浣熊或负鼠经过时提醒我。当我儿子放学回家时它不会发警报，但如果他凌晨两点回家，它就会发送警报。我鸡舍旁的摄像头在有人喂鸡或捡鸡蛋时不再发送连串的通知——但当我在半夜打着手电筒出去抓蛇搏斗时，它确实会向我发出警报。\n\n下一步趋势\n\n：能够付诸行动的摄像头\n\n[图片说明：猫咪们非常喜欢 Google Home 无法区分它们这一特点，因为这意味着有更多的猫粮。（这只不是 Smokey）。图片链接：https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_7979.png?quality=90&strip=all]\n\n顺理成章的下一步发展，是基于摄像头理解所见画面来触发自动化场景。例如：如果后院有浣熊，就打开喷淋装置，但如果是我的狗就不要开。后门有一只猫时，通过智能音箱发出提醒，以便有人能放它进来。垃圾车径直驶过而没有停下时，发送紧急通知提醒在它折返前把垃圾桶推出去。正是从这里开始，摄像头超越了单纯的安防设备，演进为能够理解正在发生的事情并可能采取行动的智能家居传感器。\n\nGoogle Home 最近新增了通过摄像头警报触发自动化的功能，不过在我的早期测试中，它还不够可靠。我利用谷歌新的“宠物记忆”（Pet Memory）功能，搭配我的三只猫和一个宠物喂食器进行了测试。但它并没有像我要求的那样只针对某一只特定的猫投放食物，而是只要看到猫就会触发。至少猫咪们对此挺高兴的。\n\n问题在于准确性。当人工智能无法可靠地识别目标主体时，自动化就无法可靠地作出反应。因此，我之前提到的苹果只有一半时间能准确识别出美国邮政（USPS）货车的例子，就意味着我设置的任何提醒我邮件已送达的自动化操作，都只有一半的几率能正常工作。目前，苹果还不具备这种能力，但如果关于该公司正在开发自己的可视门铃和安防摄像头的传言属实，我预计这项功能会出现在 Apple Home 中。\n\n隐私的权衡取舍\n\n摄像头变得越聪明，它们就需要了解你家里的更多信息。为了让系统理解什么是正常状态，它需要学习谁住在这里、他们何时进出、周围有哪些宠物，以及哪些车辆属于这里。这就引发了人们对隐私和监视非常现实的担忧。\n\nRing 因其基于云的架构以及与执法部门的合作而受到了尤为严苛的审视。谷歌和苹果可以从本地处理开始，而 Ring 默认在云端处理所有视频片段。上个月，Ring 宣布对其模式进行彻底改革，推出了一种名为 TAKE 的新默认加密系统。该系统会对云存储视频的加密密钥进行轮换，并在 24 小时后删除 Ring 端的副本。除了包括无管理员访问权限在内的其他隐私保护措施外，Ring 表示这意味着它不再能够向警方移交解密后的视频片段。然而，它仍然可能被迫提供加密文件。\n\n在苹果标准的 HomeKit 安全视频（HomeKit Secure Video）中，你的家庭枢纽会在本地处理视频片段，并在发送到云端存储之前进行端到端加密。但加入 Apple Intelligence 改变了这一点：视频摘要现在通过苹果的私有云计算（Private Cloud Compute，简称 PCC）在云端处理，在处理过程中视频处于解密状态。苹果表示，PCC 会生成描述字幕，将其发回，然后“永久从 PCC 中删除数据”。苹果的支持文档还说明，系统不设管理员访问权限，也没有任何内容可以识别视频属于谁。\n\n谷歌采取了与苹果类似的做法，但没有采用端到端加密；视频在传输和静态存储时进行加密。支持 Gemini for Home 的 Nest 摄像头可以使用一些设备端处理，但繁重的计算任务是在 Gemini 云端完成的，这符合 Google Home 的隐私规范。\n\n对我来说，一个很大的疑问是，所有这些智能处理是否必须存在于别人的电脑上。系统了解我家的一切确实能带来切实的便利——我只是更希望自己是唯一知晓这些信息的人。出于隐私、安全以及潜在的处理速度考量，本地 AI 处理和存储感觉才是正确的答案。包括 Anker Eufy、Reolink、Ubiquiti UniFi 和 UGreen 在内的制造商已经推出或宣布了具备此功能的产品。随着传言中新款 Apple TV、HomePod 以及可能推出的智能显示屏都即将问世，App",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 41,
+        "keyTakeaways": [
+          "苹果在发布iOS 27时为HomeKit Secure Video服务推出了Apple Intelligence for Home功能。",
+          "iOS 27于9月14日正式发布。",
+          "来源叙事重点：通过将苹果最新推出的 Apple Intelligence for Home 与亚马逊 Ring、谷歌 Nest 进行横向评测，重点聚焦其 AI 文本描述的准确度、通知聚合表现及订阅定价策略，指出苹果当前 AI 描述过于简略、硬件与云存储订阅门槛过高（最高达竞品 3 倍且限制最多 5 台），在性价比和实用性上不及竞争对手。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T13:00:00.000Z",
+            "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review"
+          }
+        ]
+      },
+      {
+        "id": "story-bout-oil-prices-a8812210-3adf7ae3f902508d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "The options market is sending a contrarian signal about oil prices",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:43:00.000Z",
+        "pubTime": "2026-09-25 21:43",
+        "url": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Also: How to use options around earnings to trade Nike’s stock, which has been down in the dumps for years.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 21:43 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-25T13:43:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-es-progress-at-all-costs-1764305d9a4451d5",
+        "title": "LLM 政策：不惜一切代价的“进步”",
+        "originalTitle": "LLM Policies: Progress At All Costs",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T12:30:36.000Z",
+        "pubTime": "2026-09-25 20:30",
+        "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+        "imageUrl": null,
+        "fullContent": "GNOME and KDE have started to consider LLM policies, and we should talk about what this is really about.\n\nKDE caught everyone's attention first by igniting a flame war with an LLM-friendly draft that ended up being deleted, causing a few bans, and having a bunch of people go full \"Some of you may die, but that is a sacrifice I am willing to make\". GNOME has not proposed anything official, but some teams (gnome-calendar, loupe, libadwaita, gnome-software, Circle, among others) already have strong policies in place, and there is now an informal draft to ban all LLM contributions to GNOME projects and infrastructure.\n\nHowever I believe these discussions are not about nitpicking workflows but rather about the raison d'être, the reason to be, of FLOSS projects.\n\nMy take is that there are currently two ways of thinking about why FLOSS exists, or should exist. So far, both sides have coexisted but the growing acceptance of LLMs into some developer workflows has disrupted the balance.\n\nWe can call one of these sides \"collectivism\". This frames FLOSS to be about accomplishing things together, enjoying the journey and bonds that big goals tend to create. The fun is the collective effort and challenge. Overcoming language and social barriers is part of the reward. \"The journey is the destination\", \"FLOSS is the friends we made along the way\", etc.\n\nOn the other side there is \"completionism\", where FLOSS is \"just a product\" and its only goal is to always be better, faster, safer. Any fun to be had is in individually solving technical problems and requirements. Social bonds may happen, but colleagues are more coworkers than community. This is a \"100% allglitches alltricks\" TAS speedrun. The \"we are apolitical\", \"we only care about the code\" view.\n\nMy assessment is that the collectivist framing finds FLOSS primarily a social exercise that rewards you with experiences, bonds, and ideas outside of your niche interests. Some times you even get good software as a bonus! The second framing sees FLOSS as a tool to scale the complexity of your individual computer interest, like graphics or security. FLOSS is a convenience compared to manually rebasing patches and forks all the time.\n\nThe problem we are facing is that LLMs have given the second group a lever to stop giving the collectivist framing any room. When the LLM can get you 80% of the way to your goal, there is no need to \"waste\" time in mentoring, discussion, or convincing others. The temptation compounds if you are considered an expert in your field. You can surely fill in the last 20%, right? Is anyone going to challenge not only the machine, but also the expert?\n\nSince LLMs present themselves as neutral, and dispassionate, opposition to their output becomes opposition to objective progress: bug fixes, security hypotheticals, features. Progress is whatever the LLM, under my own careful eyes, says it is. Interactions with others become formalities, since the LLM is simply boosting my own, already expert and close to infallible, output. Right?\n\nUnfortunately this \"expert slop\", where expert is a self-perceived title, carries a corporate framing that damages interactions. Others become, at best, fungible coworkers, and, at worst, annoying speed bumps in the race to 100% completion of any software interest the expert has. No more mentoring, debating, flame wars. \"Progress\" is the only goal. The line must go up.\n\nThere is more to say about how this machiavellian framing causes far more important harms and externalities, in the name of LLMs themselves, or apparent LLM-assisted progress. Think of any group and you will find out they have been handed part of the bill for these externalities:\n\nThese are the real costs in the \"Progress At All Costs\" that LLMs bring into FLOSS. These are the people who will pay the bill, behind the scenes and far from our screens, so that some big brain engineers can avoid reading documentation, writing boilerplate, learning unfamiliar code, or, worse, working with others.\n\nAlmost ten years ago Allan Day described GNOME as Principled Software because of its commitment to always doing the right thing, in code or design, because it was the right thing and not because of ease, pressure, or hype. I believe this is why so many other FLOSS projects have always looked at GNOME for guidance on what good FLOSS should be. This discussion is just another opportunity to continue to meet this expectation.\n\nRecent discussions have shared similar sentiments like reminding us that we do book clubs because we want to read and enjoy books, not to just discuss over summaries because it is \"more productive\". That when pressed to accelerate FLOSS, to make the line go up, we have to ask for whom do we want to be more productive, efficient, faster?. And that every decision is political and affect other people around you.\n\nWe already know that LLM productivity is not real, just a self perception, that LLMs are just a fairy tale to maintain tech stocks hypergrowth, by farming engineers for engagement, and the latest in a series of attacks to commoditize tech workers. Knowing all this, are we still going to play along with big tech's lies and exploitation? Or, are we going to make another principled stand?\n\nGNOME did not need LLMs to produce 30 years of creative engineering, design, localization, inclusion, and collaboration that has been shared with people around the world. It does not need to throw away this incredible legacy simply because LLMs happen to farm our worst individualist impulses.\n\nWe came this far without compromising our principles, let's not start now.",
+        "fullTranslation": "GNOME 和 KDE 已经开始考虑大语言模型（LLM）相关政策，我们应当认真探讨这背后的实质到底是什么。\n\nKDE 最先引发了众人的关注——他们提出了一份对 LLM 友好的政策草案，随即点燃了一场论战，最终该草案被删除，部分成员被封禁，还有许多人完全摆出了一种“你们当中有些人可能会牺牲，但这是我愿意付出的代价”的姿态。GNOME 尚未提出任何官方政策，但部分团队（包括 gnome-calendar、loupe、libadwaita、gnome-software、Circle 等）已经落实了严格的规定，目前还有一份非正式草案，旨在全面禁止向 GNOME 项目及基础设施提交任何由 LLM 生成的贡献。\n\n然而我认为，这些讨论并非关于在工作流层面的吹毛求疵，而是关乎自由与开源软件（FLOSS）项目的“存在理由”（raison d'être）。\n\n我的看法是，关于 FLOSS 为何存在、或为何应当存在，目前存在两种思考方式。到目前为止，这两种观点一直在共存，但 LLM 逐渐被纳入某些开发者的工作流中，打破了这种平衡。\n\n我们可以将其中一方称为“集体主义”。这种视角将 FLOSS 定义为共同成就事业、享受重大目标往往能带来的历程与羁绊。乐趣就在于集体努力与面对挑战。克服语言和社交障碍本身就是回报的一部分。“过程即目的地”，“FLOSS 就是我们一路走来结识的朋友”，诸如此类。\n\n而在另一方则是“全成就主义”（completionism），在他们眼中，FLOSS“只是一款产品”，其唯一目标就是始终保持更好、更快、更安全。其中能获得的任何乐趣，都在于个人解决技术难题和满足需求。社交羁绊或许会产生，但同行更多只是普通同事，而非社区。这就像是一场“全Bug、全技巧运用”的工具辅助速通（TAS speedrun）。也就是那种“我们不谈政治”、“我们只在乎代码”的视角。\n\n我的评估是，“集体主义”视角认为 FLOSS 本质上是一项社会实践，能带给你个人小众兴趣之外的经验、羁绊和思想。有时，你甚至能附带收获优秀的软件！而第二种视角则将 FLOSS 视作一种工具，用来扩大你在图形或安全等个人计算机兴趣领域的复杂度上限。相比于整天手动变基补丁和维护分支，FLOSS 只是一种便利手段。\n\n我们面临的问题在于，LLM 为第二组人群提供了一个杠杆，让他们不再给集体主义视角留出任何空间。当 LLM 可以帮你完成实现目标的 80% 路径时，就没有必要在指导新手、讨论或说服他人上“浪费”时间了。如果你在自己的领域被视为专家，这种诱惑还会成倍放大。剩下的 20% 你肯定能补全，对吧？又有谁会去质疑机器的同时，还敢去质疑专家呢？\n\n由于 LLM 表现出一副中立、冷静的面孔，反对它的产出便等同于反对客观的进步——比如漏洞修复、安全假设验证、新功能等。在我的严密审视下，LLM 说什么是进步，那就是进步。与他人的互动变成了走过场，因为 LLM 只是在为我那本就专业且近乎无懈可击的产出添砖加瓦。不是吗？\n\n不幸的是，这种“专家级泔水”（这里的“专家”只是一种自封的头衔）带有一种企业化的话语框架，破坏了人际互动。在专家追求 100% 完成其任何软件兴趣的竞速中，其他人充其量变成了可替代的打工人，往坏了说则是令人讨厌的减速带。不再有指导、辩论和观点交锋。“进步”成了唯一的目标。指标曲线必须往上走。\n\n关于这种马基雅维利式的思维方式如何以 LLM 本身或所谓 LLM 辅助的进步之名，造成更多重大伤害与负面外部性，还有很多话要说。随便想一个群体，你都会发现他们已经被迫为这些外部性承担了部分账单：\n\n这些才是 LLM 带入 FLOSS 领域的“不惜一切代价追求进步”背后的真正代价。这些人将在幕后、远离我们屏幕的地方买单，好让某些自诩高明的工程师省去阅读文档、编写样板代码、学习陌生地带代码的功夫，甚至更糟的是，省去与他人合作的麻烦。\n\n将近十年前，Allan Day 曾将 GNOME 形容为“有原则的软件”，因为它致力于在代码或设计上始终做正确的事——只因为那是正确的，而不是出于省事、压力或炒作。我相信，这就是为什么如此多的其他 FLOSS 项目一直将 GNOME 视为优秀 FLOSS 应有模样的指引灯塔。眼下的这场讨论，正是在继续践行这一期望的又一次契机。\n\n最近的讨论中也表达了类似的情感，例如提醒我们：我们组织读书会是因为想读书、享受书本，而不是为了追求“更高效率”去对着内容摘要泛泛而谈。当被催促着给 FLOSS 提速、让指标曲线往上走时，我们必须问一问：我们究竟是想为了谁而变得更高效、更敏捷、更迅速？而且，每一个决定都带有政治性，都会影响到你身边的其他人。\n\n我们早就清楚，LLM 带来的生产力提升并非真实存在，不过是一种自我幻觉；LLM 只是用来维持科技股超高速增长的童话，通过收割工程师的参与度来维系，并且是一系列将技术工人商品化（耗材化）攻击中的最新一环。明知这一切，我们还要继续陪着大型科技公司的谎言与剥削演戏吗？还是说，我们要再次表明坚守原则的立场？\n\nGNOME 并不需要借助 LLM，就创造了长达 30 年的富有创造力的工程、设计、本地化、包容性与协作成果，并分享给了全世界的人们。它完全没有必要仅仅因为 LLM 恰好助长了我们最恶劣的个人主义冲动，就将这份无比珍贵的遗产抛弃。\n\n我们一路走到今天，从未在原则问题上妥协过；现在，也绝不要开这个头。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 17,
+        "translationParagraphs": 17,
+        "keyTakeaways": [
+          "GNOME和KDE已开始考虑制定针对大语言模型（LLM）的相关政策。",
+          "KDE曾起草一份对LLM友好的草案，引发了争论并导致少数封禁，该草案最终被删除。",
+          "来源叙事重点：文章将开源社区中关于大语言模型（LLM）的争论提升至“本体论（存在意义）”的意识形态冲突，批评盲目追求效率的“技术完美主义/速通主义”，呼吁 GNOME 等开源项目坚守以人为本、注重协作与原则的“集体主义”传统，全面抵制由大科技公司驱动的 LLM 贡献及外溢成本。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T12:30:36.000Z",
+            "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/"
+          }
+        ]
+      },
+      {
+        "id": "story-human-gene-poxvirus-html-1e819d742d3c339f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "New type of human 'jumping gene' found in a poxvirus",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:40:01.000Z",
+        "pubTime": "2026-09-25 21:40",
+        "url": "https://phys.org/news/2026-09-human-gene-poxvirus.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-type-of-human-jump.jpg",
+        "fullContent": "Scientists at Cornell University have found a human genetic element in a poxvirus and discovered that it is both an important gene for brain function and a jumping gene capable of moving and inserting itself into genomes. A study published in Science reports that the gene, called BC200, combines characteristics never before seen together.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-25 21:40 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-human-gene-poxvirus.html",
+            "publishedAt": "2026-09-25T13:40:01.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-925-nkhl-2120291600-html-1465a93928cfa43e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "СМИ: потолок зарплат в НХЛ может составить 127,5 миллионов долларов",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-25T13:53:58.000Z",
+        "pubTime": "2026-09-25 21:53",
+        "url": "https://ria.ru/20260925/nkhl-2120291600.html",
+        "imageUrl": null,
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-25 21:53 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260925/nkhl-2120291600.html",
+            "publishedAt": "2026-09-25T13:53:58.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-y-asked-for-a-crab-chair-81c3a37fb361f117",
+        "title": "没人想要一台“螃蟹椅”",
+        "originalTitle": "Nobody Asked for a Crab Chair",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T12:48:00.000Z",
+        "pubTime": "2026-09-25 20:48",
+        "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/",
+        "imageUrl": null,
+        "fullContent": "In our last installment of “Good Intentions Gone Wrong: When Disability Engineers Go Bad,” we highlighted a particularly egregious Swiss wheelchair design featuring superfluous drones. Thankfully, not all engineers who receive blank checks to design disability solutions are that out of touch. More commonly, the lack of constraints that comes with deep corporate pockets results in sexy, future-forward designs with tantalizing possibilities that somehow leave me feeling more empty than excited.\n\nToyota’s new-ish “Walk me” prototype could be the poster chair for what I’m talking about. The “Walk me” replaces wheels with four articulating legs that bend and move independently. Picture a four-legged crab with light-up legs carefully balancing an uncomfortable-looking seat.\n\nUsing LiDAR, collision radars, and internal weight sensors, the crabchair can transport its user over uneven terrain or up and down stairs. With an aesthetically-pleasing pastel color palette and a chic, future-minimalist vibe, it’s easy to see why the crabchair was a hit when Toyota unveiled it last fall at the Japan Mobility Show.\n\nLet’s be clear: if I could have a free crabchair tomorrow, I’d be out the door, in the line to pick up my new robot legs before I knew where to go.\n\nBut these kinds of prototypes are built to inspire and show what is possible, not to be mass produced for actual users. In short, don’t get your hopes up you’ll ever see a crabchair clawing its way down the street.\n\nThey’re over-designed, cost prohibitive and generally out of touch with the realities facing most would-be users. They’re engineering inspiration porn. They make headlines (yes, I’m guilty), and make people feel like they’re helping an underserved community and making the world a better place. Unfortunately, they very rarely translate into real world benefits for people like us.\n\nThat alone would be disappointing, but probably closer to a “no harm, no foul” situation: rich people and companies building expensive toys and patting themselves on the back. It has been going on forever and likely will into the future.\n\nMy concern, and the thing that saps any enthusiasm the sleek design might inspire in me, is that much like more traditional inspiration porn harms the disabled community by propagating false narratives and not doing justice to real experiences of disabled people, this engineering version of inspiration porn neglects to address the design problems most critical to our community while pulling away obviously-talented designers and chair-loads of cash that could have been focused on solving them.\n\nThese kinds of prototypes are built to inspire and show what is possible, not to be mass produced for actual users.\n\nI would give at least a few of my quad fingers for a high quality, lightweight, low-profile indoor/outdoor power chair with the customizable seating and back options I rely on. Same for a stable shower chair that could safely navigate step-in showers. I’m not talking about reinventing the wheel(chair), but tweaking and refining the designs we have to optimize independence and function for users.\n\nLike I wrote in the previous article in this series, there are brilliant designers working on these and other similar issues but we need more! More minds, more money, more eyeballs focused on improving what we have and doing so in affordable ways.\n\nI genuinely appreciate the designers behind the “Walk me” (even if I wholeheartedly question whomever decided the name should sound like wheelchair users are the crabchair’s pets). I hope their experience designing the crabchair got them excited about disability-related design and that they continue to pursue it.\n\nAll I ask is that instead of sitting in their corporate labs, bouncing ideas off each other, they get out into the real world. They should dedicate themselves to engaging and listening to the disability community about what problems need solving and what does and doesn’t work. We know. We get it.\n\nLord knows we don’t need any more designs like this…\n\nWait! Before you wander off to other parts of the internet, please consider supporting New Mobility. For more than three decades, New Mobility has published groundbreaking content for active wheelchair users. We share practical advice from wheelchair users across the country, review life-changing technology and demand equity in healthcare, travel and all facets of life. But none of this is cheap, easy or profitable. Your support helps us give wheelchair users the resources to build a fulfilling life.",
+        "fullTranslation": "在我们上一期“好心办坏事：当无障碍工程师走偏时”的专栏中，我们重点介绍了一款尤为离谱的瑞士轮椅设计，上面居然配备了毫无必要的无人机。所幸的是，并非所有拿到空头支票来设计无障碍解决方案的工程师都如此脱离现实。更常见的情况是，大企业充裕资金带来的无拘无束，往往催生出极具诱惑力、充满未来感的酷炫设计，但不知怎的，这些设计留给我的空虚感却远多于兴奋感。\n\n丰田不算太新的“Walk me”原型产品可以说是这种现象的典型代表。“Walk me”去掉了轮子，取而代之的是四条能够独立弯曲和移动的铰接腿。你可以把它想象成一只长着发光节肢、小心翼翼地平衡着一张看起来并不舒服的座椅的四脚螃蟹。\n\n借助激光雷达（LiDAR）、防碰撞雷达和内置重量传感器，这台“螃蟹椅”可以载着使用者跨越不平整地形或上下楼梯。凭借赏心悦目的柔和色调和时尚的未来极简风，丰田去年秋天在日本移动出行展（Japan Mobility Show）上亮相这款螃蟹椅时为何会引起轰动，也就显而易见了。\n\n坦白讲：如果明天能免费送我一台螃蟹椅，我绝对会立刻冲出家门去排队领我的新机器腿，哪怕还不知道该往哪儿走。\n\n但这类原型的打造初衷是为了激发灵感、展示技术可能性，而不是为了实际用户进行大规模量产。简而言之，别指望有朝一日真能看到一台螃蟹椅在大街上横行漫步。\n\n它们过度设计、成本高得令人望而却步，而且通常脱离了大多数潜在用户所面临的现实。它们是工程界的“励志色情”（inspiration porn）。它们赚足了新闻头条（没错，我也难辞其咎），让人们觉得自己正在帮助弱势群体、让世界变得更美好。不幸的是，它们极少能为像我们这样的人群转化为切实的现实益处。\n\n如果仅仅是这样，固然令人失望，但也基本算得上“无伤大雅”：无非是有钱人和企业造了昂贵的玩具，然后自我感觉良好地互相吹捧罢了。这种情况自古皆有，未来也很可能继续上演。\n\n我的担忧——也是彻底扑灭这些光鲜设计带给我的任何热情的原因——在于，正如传统的“励志色情”通过传播虚假叙事、无视残疾人的真实经历而伤害残疾人群体一样，这种工程版的“励志色情”同样忽略了去解决对我们群体最至关重要的设计难题，同时还抽走了本可以专注于解决这些难题的杰出设计师和巨额资金。\n\n这类原型的打造初衷是为了激发灵感、展示技术可能性，而不是为了实际用户进行大规模量产。\n\n如果能换来一台高质量、轻量化、低轮廓、兼具室内外使用功能，并且拥有我所依赖的定制化座椅与靠背选项的电动轮椅，我宁愿献出我这瘫痪双手的几根手指。对于一款能够安全进出无障碍步入式淋浴间的稳固淋浴椅，我也同样如此期盼。我并不是要求重新发明轮子（或轮椅），而是希望在我们现有的设计上进行微调与打磨，以最大限度地提升使用者的独立性和日常功能。\n\n正如我在本系列上一篇文章中所写的那样，已有杰出的设计师正在致力于解决这些以及其他类似问题，但我们需要更多！需要更多的智慧、更多的资金、更多的关注投向以实惠的方式改进我们现有的设备。\n\n我真心感谢“Walk me”背后的设计团队（即便我由衷地质疑究竟是谁决定把名字起得好像轮椅使用者是螃蟹椅的宠物一样）。我希望他们设计这款螃蟹椅的经历能让他们对无障碍相关设计产生热情，并希望他们继续深耕下去。\n\n我唯一的请求是，希望他们不要只是坐在公司的实验室里互相头脑风暴，而是走进现实世界。他们应该全身心地去接触并倾听残疾人群体的心声，了解到底哪些问题需要解决，哪些方案可行，哪些根本行不通。我们清楚，我们深有体会。\n\n天知道我们再也不需要更多类似这样的设计了……\n\n等等！在您浏览其他网页之前，请考虑支持《New Mobility》。三十多年来，《New Mobility》一直为活跃的轮椅使用者提供开创性的内容。我们分享来自全美轮椅使用者的实用建议，评测改变生活的科技，并在医疗、出行及生活的方方面面呼吁平等。但这一切既不廉价、不易，也无甚盈利。您的支持将帮助我们为轮椅使用者提供创造充实生活所需的资源。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 15,
+        "translationParagraphs": 15,
+        "keyTakeaways": [
+          "丰田展示了名为“Walk me”的原型设备，用四条可独立弯曲和移动的关节腿取代了轮子。",
+          "丰田的“Walk me”原型设备配备了激光雷达（LiDAR）、防撞雷达和内部重量传感器，能够在不平坦地面移动或上下楼梯。",
+          "来源叙事重点：抨击科技巨头开发炫目但脱离实际的“工程励志噱头”（如丰田Walk me四足概念椅），呼吁将研发资源和资金从不切实际的高端原型转移到轮椅使用者真正亟需的实用、平价日常辅具改进上。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T12:48:00.000Z",
+            "url": "https://newmobility.com/nobody-asked-for-a-crab-chair/"
+          }
+        ]
+      },
+      {
+        "id": "story--it-expects-now-7826fb96-81d231173ab476f7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T13:30:00.000Z",
+        "pubTime": "2026-09-25 21:30",
+        "url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Rising bond yields and expected Fed rate hikes have wrecked the bank’s forecast for the buck",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-25 21:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-25T13:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--parkinsons-lawsuits-epa-ce1487bc59f41fc7",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-25T12:00:50.000Z",
+        "pubTime": "2026-09-25 20:00",
+        "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
+        "imageUrl": "https://i.guim.co.uk/img/media/8babc0a76f1cfedb00b7cb532a2e210a6f2586e9/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=57b225cb6e054ac7fa4a6f36e222e53f",
+        "fullContent": "Syngenta denies keeping relevant data from the EPA as paraquat stays in the US market despite global bans\n\nSweden started ringing the alarm bell more than 20 years ago, calling for a ban on the weedkilling chemical paraquat in 2004. One by one, dozens of other countries did the same as evidence of paraquat risks to human health mounted. Even the Chinese government, which owns the longtime paraquat maker Syngenta , halted domestic use of the pesticide a decade ago after conducting its own studies on paraquat safety and finding troubling results.\n\nIn the US, two states – Vermont and California – have recently also banned paraquat, citing risks that include an association between paraquat and Parkinson’s disease shown in years of scientific research. And California regulators announced in August that paraquat makers voluntarily agreed to stop selling the chemical after the state identified health concerns in connection with its use in new research. Several federal lawmakers have pushed for a nationwide ban.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "瑞典在2004年呼吁禁止除草剂化学品百草枯（paraquat）。",
+          "中国政府在对其安全性展开研究并发现令人不安的结果后，于十年前停止了百草枯在国内的使用。",
+          "来源叙事重点：聚焦除草剂百草枯（paraquat）与帕金森病的潜在关联风险，重点揭示生产商先正达（Syngenta）在面临诉讼与全球广泛禁令的背景下，涉嫌未向美国环保署（EPA）披露安全数据，并强调美国联邦层面监管滞后于各州及国际标准的矛盾。"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-25T12:00:50.000Z",
+            "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790323218203,
     "timeDisplay": "2026-09-25 16:00 (UTC+8)",
     "date": "2026-09-25",

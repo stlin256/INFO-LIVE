@@ -16,87 +16,94 @@ notice:
 
 ::::grid{cols=2}
 :::cell
-<div id="story-ct-escalation-a-79424191-15879d4d7c53add0" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="735" data-content-paragraphs="15" data-published-at="2026-09-25T07:44:00.000Z" data-time-source="publication">
+<div id="story-026-09-25-10703919-shtml-a2c81106ed6f5e12" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="831" data-content-paragraphs="24" data-published-at="2026-09-25T13:53:04.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/dw.svg" class="source-icon" alt="Deutsche Welle (EN 官方英语)" width="16" height="16" /> <strong>Deutsche Welle (EN 官方英语)</strong></span>
-    <span class="stance-badge">德国战略自省</span>
-    <span class="dimension-pill">💹 宏观资本与产业</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 15:44</span>
+  <span class="news-meta-time">🕒 2026-09-25 21:53</span>
 </div>
 
-### [埃塞俄比亚：冲突升级之际提格雷地区互联网中断](https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Ethiopia: Internet disrupted in Tigray amid conflict escalation</div>
+### [再续跨国友谊 美国友人“赛考斯”送上中秋祝福](https://www.chinanews.com.cn/gj/2026/09-25/10703919.shtml)
 
-<div class="article-body" data-article-body="true"><p>一家网络监测机构报告称，随着提格雷人民解放阵线（TPLF）与联邦政府之间战火重燃，埃塞俄比亚北部地区的互联网出现中断。</p>
-<p>网络监测机构NetBlocks于周五报告称，埃塞俄比亚北部提格雷地区的互联网访问遭到中断。</p>
-<p>该地区本周爆发了新一轮敌对行动，打破了埃塞俄比亚政府与提格雷人民解放阵线（TPLF）民兵武装于2022年达成的和平协议。</p>
-<p>在2020年至2022年的提格雷战争期间，该地区在很大程度上与外界隔绝，数十万人陷入了类似饥荒的境地。</p>
-<p>“已证实：网络数据表明埃塞俄比亚北部发生了地方性网络中断，这与有关提格雷地区电信中断的报道相吻合，”NetBlocks表示。</p>
-<p>中断的原因目前尚不明确。</p>
-<p>路透社援引提格雷当地居民的话称，恐慌性抢购已导致商店货架被扫荡一空。</p>
-<p>“人们深感恐惧，担心银行、电信网络、电力和基本物资可能会再次被切断，”一名当地居民告诉法新社，并补充称“社区内一片恐慌”。</p>
-<p>要观看此视频，请启用JavaScript，并考虑升级到支持HTML5视频的网络浏览器</p>
-<p>TPLF本周早些时候控制了提格雷境内的区域机场，并在邻近的阿法尔州和阿姆哈拉州与政府军发生冲突。该民兵组织表示，目前已与亚的斯亚贝巴方面陷入“全面战争”。</p>
-<p>该组织还与阿姆哈拉的“法诺”（Fano）民兵组织以及其他五个武装组织结成了反政府联盟。</p>
-<p>在2022年至2023年的冲突中，法诺民兵曾与联邦政府并肩作战对抗提格雷叛军。</p>
-<p>TPLF曾于1991年至2018年统治埃塞俄比亚，后随着总理阿比·艾哈迈德的崛起而被边缘化。</p>
-<p>如果您依靠我们的团队获取值得信赖的报道，请花一点时间在谷歌上将我们选为您的首选信息源，以便您始终第一时间看到我们核实的新闻。</p>
-<p>编辑：Sean Sinico</p></div>
+<div class="article-body" data-article-body="true"><p>中秋佳节，美国友人“赛考斯”再次感谢中国人民的善意，通过视频送上节日祝福，祝大家度过美好的中秋佳节。</p>
+<p>“赛考斯”本名罗纳德·萨科尔斯基，是一名美国退休教师。1999年，殷玉珍扎根毛乌素沙地治沙造林的故事，深深打动了正在河南洛阳外国语学校担任外教的赛考斯。他随即奔走联系多家美国机构，向殷玉珍捐资5000美元，支持她治沙。</p>
+<p>2000年，赛考斯亲自来毛乌素看望殷玉珍，并和她一起种下一棵树，当时他觉得树苗难以存活，说“不可能，不可能”，但殷玉珍用二十余年，硬是将“不可能”变成了“可能”。</p>
+<p>2026年5月，殷玉珍发起了全网寻人，邀请赛考斯回来看看。视频发出26小时后，殷玉珍与大洋彼岸的赛考斯线上视频重逢。</p>
+<p>3个月后，赛考斯从美国启程来到中国，实现了这场跨越26年岁月时光与万里山海的重逢。</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
+<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
+<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
+<p>比了76年！全世界都来上海比&quot;手艺活&quot;，比的到底是啥</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>第48届世界技能大赛：“一赛两会”搭建全球技能交流平台</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>名字里带“月” 的宝藏风景 你打卡过几个？</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Deutsche Welle (EN 官方英语)】于 2026-09-25 15:44 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【中新社 (国际实时原版)】于 2026-09-25 21:53 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#宏观资本与产业</span>
-  <span class="news-tag-pill">#Deutsche</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Deutsche Welle (EN 官方英语)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-25/10703919.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-9-aa0d-7002f26adca6-html-6a5e1ef4def52aff" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="788" data-content-paragraphs="5" data-published-at="2026-09-25T07:41:16.000Z" data-time-source="publication">
+<div id="story-4-b3c8-b5a0ee7bcc8c-html-c3501e6990bb96ce" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1343" data-content-paragraphs="4" data-published-at="2026-09-25T13:42:33.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/ansa.svg" class="source-icon" alt="ANSA English (安莎社官方英文)" width="16" height="16" /> <strong>ANSA English (安莎社官方英文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
+    <span class="dimension-pill">🔥 社会热点与思潮</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-25 15:41</span>
+  <span class="news-meta-time">🕒 2026-09-25 21:42</span>
 </div>
 
-### [马泰计划：伦巴第大区代表团赴肯尼亚开展农业伙伴合作](https://www.ansa.it/english/news/news_from_embassies/2026/09/25/mattei-plan-lombardy-in-kenya-for-an-agricultural-partnership_789dd527-3200-4f09-aa0d-7002f26adca6.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Mattei Plan: Lombardy in Kenya for an Agricultural Partnership</div>
+### [“意大利银幕”展映拉开帷幕：8部意大利电影将在索非亚及保加利亚其他城市放映](https://www.ansa.it/english/news/news_from_embassies/2026/09/25/italian-screens-kicks-off-8-italian-films-in-sofia-and-other-bulgarian_b044b185-5cc8-42e4-b3c8-b5a0ee7bcc8c.html)
+<div class="original-title-sub"><span class="orig-tag">原文</span> &#39;Italian Screens&#39; Kicks Off: 8 Italian Films in Sofia and Other Bulgarian Cities</div>
 
-<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/25/bf18f877a19d6b98f7455c0589124d50.jpg" alt="马泰计划：伦巴第大区代表团赴肯尼亚开展农业伙伴合作" loading="lazy" /></div>
+<div class="article-cover"><img src="https://www.ansa.it/webimages/img_457x/2026/9/25/592a00f9ce95806adf0e5c664ec5da58.jpg" alt="“意大利银幕”展映拉开帷幕：8部意大利电影将在索非亚及保加利亚其他城市放映" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>（安莎社）- 内罗毕，9月25日 - 由国际与欧洲关系副秘书长拉法埃莱·卡塔内奥（Raffaele Cattaneo）率领、意大利驻肯尼亚大使温琴佐·德尔莫纳科（Vincenzo Del Monaco）陪同的意大利伦巴第大区代表团在内罗毕举行了一系列高级别会谈，探讨并分享合作项目，重点涉及旨在构建具韧性、包容性及循环性农食价值链的“伦巴第-肯尼亚伙伴关系倡议”（Agripact），契合意大利政府面向非洲的“马泰计划”（Mattei Plan）的愿景与精神。</p>
-<p>代表团与肯尼亚合作社部副部长帕特里克·基莱米（Patrick Kilemi）就Agripact项目的细节进行了讨论。该项目预算为1020万欧元，获得意大利发展合作署（AICS）的资助，将在纳库鲁郡（Nakuru County）和沿海的基利菲郡（Kilifi）落地实施，重点聚焦乳制品行业与园艺种植业。预计Agripact将直接使约20,800人受益，涵盖小农户和畜牧养殖户、合作社及生产者组织、农产品食品领域的小微及中型企业（MSME），以及青年农业服务提供者。</p>
-<p>基莱米副部长指出，肯尼亚非常欢迎借鉴伦巴第大区在合作社企业建设、制造业和农产品加工方面的经验，Agripact为进一步深化肯尼亚与意大利的合作提供了宝贵平台。</p>
-<p>随后，代表团会见了总统经济秘书处负责人奥古斯丁·切鲁伊约特（Augustin Cheruiyot），深入探讨了面向农民及合作社的技能培训以及农业科研等议题——在这些领域，肯尼亚与伦巴第大区的经验交流被认为极具实用价值。</p>
-<p>最后，伦巴第大区代表团受到了肯尼亚农业部的接见。各方再次肯定了农业合作社对该国经济发展的重要价值，并对面向青年农户的培训项目展现出浓厚兴趣。在技术层面上，各方还强调了收获后处理技术与农业集约化整合中心的重要性，这两项关键内容均属于Agripact项目的组成部分。</p></div>
+<div class="article-body" data-article-body="true"><p>（安莎社）- 罗马，9月25日 - 意大利驻保加利亚大使马塞洛·阿皮切拉（Marcello Apicella）出席了第22届“电影与文学”（Cinelibri）国际电影节的新闻发布会。该电影节由出版人雅克琳·瓦根施泰因（Jacqueline Wagenstein）发起，发布会于9月24日在保加利亚首都的军事俱乐部举行。负责文化和旅游事务的索非亚副市长伊琳娜·达科娃（Irina Dakova）也出席了新闻发布会。阿皮切拉大使在致辞中指出，意大利电影如何向世界展示了意大利，并提升了国家在全球的形象。他随后强调了意大利电影在讲述蕴含普世价值观的质朴故事方面的卓越能力——即其将特殊性与普遍性相融合的能力。</p>
+<p>作为致力于在海外推广意大利电影的重要国际举措之一，“意大利银幕”（Italian Screens）由意大利外交与国际合作部、文化部和奇尼奇塔（Cinecittà）共同支持。本次举办的第三届活动将展映8部于2024年至2026年间发行的意大利电影，题材丰富多样。入选影片包括：探索翁布里亚企业家布鲁内洛·库奇内利（Brunello Cucinelli）生活与哲学的《布鲁内洛：温和的远见者》（Brunello, the Gentle Visionary）；生动刻画在西班牙内战中牺牲的年轻摄影师兼记者格尔达·塔罗（Gerda Taro）的《拿徕卡的女孩》（The Girl with the Leica）；讲述意大利法官弗朗西斯卡·莫尔维洛（Francesca Morvillo）与乔瓦尼·法尔科内（Giovanni Falcone）生平的《弗朗西斯卡与乔瓦尼——关于爱与黑手党的故事》（Francesca and Giovanni – A Story of Love and the Mafia），影片强调在意大利历史的重大篇章背后，存在着真实的人、情感、选择与勇气；反思身份认同与改变之艰难的《一个故事》（A Story）；讲述智利与意大利两国国家历史交织交叠沧桑变迁的《智利人》（The Chilean）；致敬20世纪西西里民谣标志性人物罗莎·巴利斯特里（Rosa Balistreri）的《我的爱》（L’amore che ho）；以及反思岁月流逝和“曾经的我们”与“现在的我们”之间复杂关系的《小恶作剧》（Scherzetto）。</p>
+<p>第三届“意大利银幕”的意大利盛大之夜活动将于10月17日在卢米埃尔影院（Cinema Lumière）举行，届时将以放映南尼·莫莱蒂（Nanni Moretti）执导的影片《今夜将发生》（Succederà questa notte）拉开帷幕。该片改编自以色列作家埃什科尔·内沃（Eshkol Nevo）的短篇小说集，曾在威尼斯电影节首映，是一部关于人际关系、爱情以及在我们最意想不到时改变现状的可能性的群像喜剧。</p>
+<p>电影节总监雅克琳·瓦根施泰因强调，观众将有机会与展映影片的部分导演和主演面对面交流。该电影节将于10月15日至11月8日在索非亚及保加利亚其他七座城市举行，包括普罗夫迪夫、瓦尔纳、布尔加斯、大特尔诺沃、加布罗沃、旧扎戈拉和佩尔尼克。该展映项目将在索非亚市政府、保加利亚国家电影中心以及各相关城市市政府的支持下组织开展。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-25 15:41 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【ANSA English (安莎社官方英文)】于 2026-09-25 21:42 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#社会热点与思潮</span>
   <span class="news-tag-pill">#ANSA</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.ansa.it/english/news/news_from_embassies/2026/09/25/mattei-plan-lombardy-in-kenya-for-an-agricultural-partnership_789dd527-3200-4f09-aa0d-7002f26adca6.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.ansa.it/english/news/news_from_embassies/2026/09/25/italian-screens-kicks-off-8-italian-films-in-sofia-and-other-bulgarian_b044b185-5cc8-42e4-b3c8-b5a0ee7bcc8c.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【ANSA English (安莎社官方英文)】官方出处原文 ↗</a></div>
 :::
 
 ::::

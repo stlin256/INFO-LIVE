@@ -36,14 +36,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **72** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **73** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-25 16:00 (UTC+8)
+- **最新归档时间**：2026-09-25 21:59 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-25 21:59 (UTC+8)" title="全球要闻情报简报 · 21:59" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-25 21:55 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】朝鲜黑客涉嫌盗窃3.51亿美元加密货币，为今年迄今最大盗窃案：朝鲜黑客涉嫌在周四的一次网络攻击中，从加密货币交易所Bitget的服务器中窃取了超过3.51亿美元。；外文信号正在进行中文翻译，暂不展示未翻译内容。；【undefined】Apple Home 的 AI 摄像头功能能否胜过亚马逊与谷歌？我做了一番实测：几年前，我参加了一场海滩复活节寻彩蛋活动，看着孩子们穿梭在沙丘间寻找甜点。我的手机在口袋里震动了一下；我没理会。片刻之后，它又震动了一次。我掏出手机低头一看，看到安防摄像头发来的一条“检测到活动”通知。“大概只是我的狗在院子里，”我想着，便没当回事。随着篮子里的彩蛋越堆越多，我的手机还在不断震动。我无奈地再次拿出手机，又看到了好几条“检测到活动”的提醒。我试图加载一段视频片段，但它只是一直在缓冲。回到家时，我发现养的四只宠物鸡都死了，全；【undefined】LLM 政策：不惜一切代价的“进步”：GNOME 和 KDE 已经开始考虑大语言模型（LLM）相关政策，我们应当认真探讨这背后的实质到底是什么。；【undefined】没人想要一台“螃蟹椅”：在我们上一期“好心办坏事：当无障碍工程师走偏时”的专栏中，我们重点介绍了一款尤为离谱的瑞士轮椅设计，上面居然配备了毫无必要的无人机。所幸的是，并非所有拿到空头支票来设计无障碍解决方案的工程师都如此脱离现实。更常见的情况是，大企业充裕资金带来的无拘无束，往往催生出极具诱惑力、充满未来感的酷炫设计，但不知怎的，这些设计留给我的空虚感却远多于兴奋感。；【undefined】再续跨国友谊 美国友人“赛考斯”送上中秋祝福：中秋佳节，美国友人“赛考斯”再次感谢中国人民的善意，通过视频送上节日祝福，祝大家度过美好的中秋佳节。；【undefined】“意大利银幕”展映拉开帷幕：8部意大利电影将在索非亚及保加利亚其他城市放映：（安莎社）- 罗马，9月25日 - 意大利驻保加利亚大使马塞洛·阿皮切拉（Marcello Apicella）出席了第22届“电影与文学”（Cinelibri）国际电影节的新闻发布会。该电影节由出版人雅克琳·瓦根施泰因（Jacqueline Wagenstein）发起，发布会于9月24日在保加利亚首都的军事俱乐部举行。负责文化和旅游事务的索非亚副市长伊琳娜·达科娃（Irina Dakova）也出席了新闻发布会。阿皮切拉大使在致辞中指出，；【undefined】霍尔木兹海峡重开希望与柴油短缺博弈，WTI原油剧烈震荡：点击此处查看150多种全球石油价格 欧盟施压英国跟随对中国制造汽车加征关税 标普全球表示需求激增…… 公用事业公司目前可能正在赚取…… 英国正着手开展一项……
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/sinoptik-2120291892.html) <span class="news-meta-time">🕒 2026-09-25 21:54</span>
+- [TechCrunch (硅谷创业与资本)] [朝鲜黑客涉嫌盗窃3.51亿美元加密货币，为今年迄今最大盗窃案](https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/) <span class="news-meta-time">🕒 2026-09-25 21:24</span>
+- [CNBC Economy (CNBC 宏观经济)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html) <span class="news-meta-time">🕒 2026-09-25 21:48</span>
+- [Lobste.rs (极客思想社区)] [Amiga 屏幕机制入门指南](https://www.datagubbe.se/amscr/) <span class="news-meta-time">🕒 2026-09-25 21:01</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-pupil-responses.html) <span class="news-meta-time">🕒 2026-09-25 21:40</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260925/gid-2120291757.html) <span class="news-meta-time">🕒 2026-09-25 21:54</span>
+:::
 :::timeline-item{start="2026-09-25 16:00 (UTC+8)" title="全球要闻情报简报 · 16:00" org="ARCHIVE"}
 **速报纪要：** 根据最新报道，教皇利奥十四世于周五抵达法国展开为期四天的访问。这是其去年就任教皇以来的第五次宗座访问。在法期间，他计划在性侵丑闻后修复天主教教会声誉，同时就人工智能监管需求及欧洲未来愿景发表意见。
 
@@ -640,18 +653,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://hachyderm.io/@simontatham/117201594980991062) <span class="news-meta-time">🕒 2026-09-12 20:38</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-physicists-classical-quantum-machine.html) <span class="news-meta-time">🕒 2026-09-12 22:00</span>
 - [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2186753) <span class="news-meta-time">🕒 2026-09-12 22:11</span>
-:::
-:::timeline-item{start="2026-09-12 13:57 (UTC+8)" title="全球要闻情报简报 · 13:57" org="ARCHIVE"}
-**速报纪要：** 本小时重点关注金砖国家峰会期间的外交互动、乌克兰局势最新言论，以及人工智能前沿工具在实际生产中的部署进展。
-
-**关键信号：** 乌克兰总统泽连斯基在接受DW采访时表示乌方在谈判中处于有利地位，并提议与普京在迈阿密会面。；金砖国家新德里峰会期间，印度总理莫迪向俄罗斯总统普京赠送俄文版古印度哲学典籍《蒂鲁古拉尔》（Thirukkural）。；Perplexity正使用Astra编写通信、修改软件并监控生产系统，人工介入频率明显降低。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/edinoborstva-2117235177.html) <span class="news-meta-time">🕒 2026-09-12 13:49</span>
-- [OpenAI News (官方动态)] [Perplexity 依托 GPT-6 Astra 运行端到端系统](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
-- [Financial Times (英国金融时报)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1) <span class="news-meta-time">🕒 2026-09-12 12:00</span>
-- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1we1qmx/acting_navy_secretary_says_iran_blew_the_hell_out/) <span class="news-meta-time">🕒 2026-09-12 11:44</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html) <span class="news-meta-time">🕒 2026-09-12 10:40</span>
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/posolstvo-2117235018.html) <span class="news-meta-time">🕒 2026-09-12 13:48</span>
 :::
 ::::
