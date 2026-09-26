@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-26 · 今日](/INFO-LIVE/archive-2026-09-26/)
+- [2026-09-27 · 今日](/INFO-LIVE/archive-2026-09-27/)
+- [2026-09-26 · 历史快照](/INFO-LIVE/archive-2026-09-26/)
 - [2026-09-25 · 历史快照](/INFO-LIVE/archive-2026-09-25/)
 - [2026-09-24 · 历史快照](/INFO-LIVE/archive-2026-09-24/)
 - [2026-09-23 · 历史快照](/INFO-LIVE/archive-2026-09-23/)
@@ -37,14 +38,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **76** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **77** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-26 21:14 (UTC+8)
+- **最新归档时间**：2026-09-27 01:19 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-27 01:19 (UTC+8)" title="全球要闻情报简报 · 01:19" org="ARCHIVE"}
+**速报纪要：** 本时段监测到的国际信源涵盖体育焦点赛事赛前动态、大型宗教集会活动以及知名演艺人士自传回忆录披露等内容。
+
+**关键信号：** 文体及宗教社会活动受到多方关注，巴黎集会及大学橄榄球焦点战引发舆论反响；知名人物自传与过往经历引发公众情感与文化话题讨论
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/lavrov-2120473918.html) <span class="news-meta-time">🕒 2026-09-27 01:14</span>
+- [TechCrunch (硅谷创业与资本)] [Levoit推出新款空气净化器，专治充斥公寓的宠物异味](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/) <span class="news-meta-time">🕒 2026-09-27 01:00</span>
+- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Geopolitics/International/Calls-to-Overhaul-the-UN-Security-Council-Gain-New-Momentum.html) <span class="news-meta-time">🕒 2026-09-27 01:00</span>
+- [Lobste.rs (极客思想社区)] [我们能在 TLA⁺ 中表达可达性性质吗？](https://ahelwer.ca/post/2026-09-26-reachability/) <span class="news-meta-time">🕒 2026-09-26 23:49</span>
+- [Phys.org (基础物理与技术前沿)] [稀疏分布的10纳米银颗粒催化层促进二氧化碳还原制一氧化碳](https://phys.org/news/2026-09-sparse-layers-nanometer-silver-particles.html) <span class="news-meta-time">🕒 2026-09-27 01:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/lavrov-2120473828.html) <span class="news-meta-time">🕒 2026-09-27 01:13</span>
+:::
 :::timeline-item{start="2026-09-26 21:14 (UTC+8)" title="全球要闻情报简报 · 21:14" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-26 21:12 (UTC+8) 完成，共获得 25 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -643,18 +657,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [别称自己为“手艺人程序员”](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/) <span class="news-meta-time">🕒 2026-09-13 19:39</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-key-early-universe-precision.html) <span class="news-meta-time">🕒 2026-09-13 20:00</span>
 - [France 24 (FR 官方法语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/fr/culture/20260913-rentree-litteraire-seconde-guerre-mondiale-devillers-kauffmann-besserie-livres) <span class="news-meta-time">🕒 2026-09-13 20:43</span>
-:::
-:::timeline-item{start="2026-09-13 09:09 (UTC+8)" title="全球要闻情报简报 · 09:09" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-13 09:07 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】Perplexity 将端到端系统托付给 GPT-6 Astra：Perplexity 使用 Astra 来撰写沟通文案、修改软件代码并监控生产系统，且与早期模型相比，人工介入检查的频率大幅降低。；【undefined】Automattic确认穆伦威格在董事会试图罢免后已重新出任CEO：经历动荡的一周后——期间WordPress创始人马特·穆伦威格（Matt Mullenweg）通过董事会投票被免去WordPress.com母公司Automattic的首席执行官（CEO）职务——该公司现已发表声明，确认穆伦威格已重返该职位。；【undefined】OpenAI失控AI曾于5月试图黑入另一家公司：该话题的动态将被添加到您的每日电子邮件摘要与主页推荐流中。；【undefined】澳大利亚新闻直播：哈斯蒂称汉森“不是我以为的那种人”；工党为社交媒体算法“退出机制”政策辩护：关注今日实时新闻 订阅我们的突发新闻邮件、免费应用程序或每日新闻播客；【undefined】报道：不速之客闯入卡玛拉·哈里斯马里布住所引警方出警：据多家媒体报道，周五晚间，一名女子两次不请自来出现在前副总统卡玛拉·哈里斯（Kamala Harris）位于马里布的住所，洛杉矶县治安官副手随后赶赴现场处置。；【undefined】《侠探杰克》主演阿兰·里奇森与妻子凯瑟琳结婚20年后宣布分居：阿兰·里奇森（Alan Ritchson）与其妻子已决定分道扬镳。；【undefined】残暴政权垮台数十年后，索马里臭名昭著的独裁者之子据报定居俄亥俄州：据一份最新报道显示，前索马里独裁者穆罕默德·西亚德·巴雷（Mohamed Siad Barre）的儿子多年来一直居住在俄亥俄州。巴雷在执政二十多年间，其残暴政权曾被指控犯下广泛的暴行。；【undefined】克里斯蒂娜·拉加德：从诺曼底看欧洲：埃普勒维尔昂利厄万，2026年9月12日
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260913/aeroport-2117364642.html) <span class="news-meta-time">🕒 2026-09-13 08:56</span>
-- [OpenAI News (官方动态)] [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html) <span class="news-meta-time">🕒 2026-09-13 07:00</span>
-- [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1werqp4/canada_and_iran_have_found_trumps_achilles_heel/) <span class="news-meta-time">🕒 2026-09-13 07:34</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-ai-holiday-easier-overwhelmed.html) <span class="news-meta-time">🕒 2026-09-13 08:30</span>
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/politics/2186861) <span class="news-meta-time">🕒 2026-09-13 08:54</span>
 :::
 ::::
