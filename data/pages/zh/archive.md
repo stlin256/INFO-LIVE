@@ -16,7 +16,8 @@ notice:
 
 ## 📅 按日期查询完整历史
 
-- [2026-09-25 · 今日](/INFO-LIVE/archive-2026-09-25/)
+- [2026-09-26 · 今日](/INFO-LIVE/archive-2026-09-26/)
+- [2026-09-25 · 历史快照](/INFO-LIVE/archive-2026-09-25/)
 - [2026-09-24 · 历史快照](/INFO-LIVE/archive-2026-09-24/)
 - [2026-09-23 · 历史快照](/INFO-LIVE/archive-2026-09-23/)
 - [2026-09-22 · 历史快照](/INFO-LIVE/archive-2026-09-22/)
@@ -36,14 +37,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **73** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **74** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-25 21:59 (UTC+8)
+- **最新归档时间**：2026-09-26 09:49 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-26 09:49 (UTC+8)" title="全球要闻情报简报 · 09:49" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-26 09:39 (UTC+8) 完成，共获得 22 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】美国国家航空航天局与波音公司将通报“星际客机”研制进展：将美国国家航空航天局（NASA）载人飞行测试宇航员布奇·威尔莫尔（Butch Wilmore）和苏尼·威廉姆斯（Suni Williams）送往国际空间站的波音“星际客机”（Starliner）飞船，画面中停靠在“和谐号”节点舱前向端口。；【undefined】OpenAI正调查“数十起”智能体不当行为事件：OpenAI已成为外界对不受控AI行为新担忧的焦点。；【undefined】Crusoe放弃在AI数据中心使用Boom燃气轮机的12.5亿美元计划：总部位于丹佛、近期刚刚筹集了39亿美元的AI数据中心初创公司Crusoe，已终止使用同在丹佛的Boom Supersonic公司开发的一系列新型固定式发电站的计划。；【undefined】破门而入：寄生虫如何为入侵宿主细胞做好准备：作者：怀特黑德生物医学研究所（Whitehead Institute for Biomedical Research）爱丽丝·麦卡锡（Alice McCarthy） 编辑：加比·克拉克（Gaby Clark），审校：罗伯特·伊根（Robert Egan） 本文已根据 Science X 的编辑流程与政策进行审核。编辑在确保内容可信度的同时着重指出了以下属性： 同行评审出版物；【undefined】警方表示：在树上发现上吊身亡的黑人女性在尸体被“伪造现场”前已死亡：警告：本文包含可能引起不适的细节内容；【undefined】媒体：埃及情报部门曾在10月7日之前警告以色列：埃及情报局局长阿巴斯·卡梅尔（Abbas Kamel）曾在10月7日之前就哈马斯可能发动的袭击向以色列发出警告。《大西洋月刊》（The Atlantic）援引以色列、埃及、美国、阿拉伯及欧洲消息人士的话报道了这一情况。据这些消息人士透露，2023年9月26日，卡梅尔飞抵特拉维夫，并就哈马斯似乎正在进行动员一事发出警告。避免袭击发生的时间窗口正在不断缩紧，卡梅尔曾建议以色列官员向哈马斯提供经济方面的优惠措施以避免冲突。卡梅尔当时并未提供袭；【undefined】富尔顿·希恩曾凭借布道信仰、道德与发出警示轰动电视界，迈克尔·诺尔斯称其言论至今仍具共鸣：大主教富尔顿·希恩（Fulton Sheen）几乎仅凭一块黑板、一件斗篷以及关于基督教、道德和共产主义威胁的信息，就吸引了数千万美国人守在电视机前。；外文信号正在进行中文翻译，暂不展示未翻译内容。
+
+**重点要闻索引：**
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/pensii-2120382999.html) <span class="news-meta-time">🕒 2026-09-26 09:28</span>
+- [TechCrunch (硅谷创业与资本)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/) <span class="news-meta-time">🕒 2026-09-26 09:08</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-26 08:00</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wqaiob/americans_are_panicked_over_ai_and_affordability/) <span class="news-meta-time">🕒 2026-09-26 06:57</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-climate-crisis-affecting-children-nutrition.html) <span class="news-meta-time">🕒 2026-09-26 08:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/nikolaev-2120382851.html) <span class="news-meta-time">🕒 2026-09-26 09:25</span>
+:::
 :::timeline-item{start="2026-09-25 21:59 (UTC+8)" title="全球要闻情报简报 · 21:59" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-25 21:55 (UTC+8) 完成，共获得 30 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -640,18 +654,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [除了写代码，AI智能体还能做哪些实用的事](https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code) <span class="news-meta-time">🕒 2026-09-12 23:56</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-salivary-glands-hidden-cell-stress.html) <span class="news-meta-time">🕒 2026-09-13 00:30</span>
 - [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd) <span class="news-meta-time">🕒 2026-09-13 01:12</span>
-:::
-:::timeline-item{start="2026-09-12 22:16 (UTC+8)" title="全球要闻情报简报 · 22:16" org="ARCHIVE"}
-**速报纪要：** 本小时内，金砖国家及国际多边合作持续受到关注，涉及金砖领导人对古巴局势与单边封锁的表态、中国宣布主办下一届峰会以及多边合作项目的推进；俄方外交高层亦提及对乌对话立场与善意姿态。科技领域方面，Perplexity正在内部运维与开发中引入Astra模型以提升自动化水平。
-
-**关键信号：** 金砖国家领导人对古巴面临的单边封锁加剧局势表达关切，多边合作议程同步推进。；中国国家主席习近平宣布中国将主办下一届金砖国家峰会。；俄罗斯外交高层就对话禁令与俄方善意表态发声，提及多边重要项目正在酝酿。；人工智能公司Perplexity运用Astra模型执行通信撰写、软件变更及生产系统监控。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/gosduma-2117317053.html) <span class="news-meta-time">🕒 2026-09-12 22:12</span>
-- [OpenAI News (官方动态)] [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-12 22:01</span>
-- [Lobste.rs (极客思想社区)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://hachyderm.io/@simontatham/117201594980991062) <span class="news-meta-time">🕒 2026-09-12 20:38</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-physicists-classical-quantum-machine.html) <span class="news-meta-time">🕒 2026-09-12 22:00</span>
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/world/2186753) <span class="news-meta-time">🕒 2026-09-12 22:11</span>
 :::
 ::::
