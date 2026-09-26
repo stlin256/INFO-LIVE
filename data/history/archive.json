@@ -1,5 +1,1568 @@
 [
   {
+    "timestamp": 1790428498568,
+    "timeDisplay": "2026-09-26 21:14 (UTC+8)",
+    "date": "2026-09-26",
+    "runId": "feed-20260926T131252314Z-gilws9",
+    "generatedAt": "2026-09-26T13:14:58.568Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 21:12",
+      "lead": "本轮抓取于 2026-09-26 21:12 (UTC+8) 完成，共获得 25 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】《控制：共振》是一款出色的游戏——当你读完所有文档时，它会变得更加精彩：在《控制：共振》（Control Resonant）中，整个世界危在旦夕。但这并没有阻止联邦控制局（FBC）勤勉的员工们提交堆积如山的文书，也没有阻止我把能找到的所有资料一网打尽。在《共振》中，阅读通常是可选项，但这正是发现游戏中一些最精彩的细节——甚至是爱情故事！——的地方。",
+        "【undefined】研究发现：年轻美国人减少饮酒，而X世代饮酒量却在增加：在年轻一代饮酒量减少的同时，50至64岁的成年人饮酒量却在增加，这一转变正在重塑美国的酒吧消费格局。",
+        "【undefined】调优服务器以进行基准测试：优化代码始于对其进行测量，而测量只有在具备可重复性时才有意义：在 5% 的噪声干扰下，2% 的提升是根本看不出来的。然而在未调优的机器上，相同的二进制程序在多次运行之间很容易出现几个百分点的速度浮动。在本文中，我们采用一个微型基准测试，一步步对机器进行调优，并在每次更改后重新测量，直到运行结果变得具备确定性。1 1 请注意，针对基准测试的调优与针对性能的调优不同：基准测试要求机器具备可重复性，即使以牺牲部分峰值速度为代价。然而，生产环境",
+        "【undefined】经济学家痛批美国社会主义精英：抨击资本主义反而让他们发了大财：经济学家斯蒂芬·摩尔（Stephen Moore）表示，社会主义和进步派人物发现了一条通过抨击资本主义来牟利的捷径，他们恰恰是在自己想要彻底改革的自由市场体系中发家致富的。",
+        "【undefined】与 Google Play 分道扬镳：为何 Conversations 现已免费：Conversations 是我为 Android 开发的联邦式即时通讯客户端。它的开端与许多传统开源项目如出一辙：源于解决我自己的痛点（scratch my own itch）。开发工作始于 2014 年 1 月我的学生宿舍里，几周之内，我就开始进行“自产自用”（dogfooding），并将其作为与朋友交流的主要方式。然而，当 2014 年 3 月 24 日——正好是十二年半前的今天——向公众发布该应用时，我立刻明确了一点：我至少要尝",
+        "【undefined】信仰能帮助患者康复吗？资深医生揭示其亲眼所见：医生兼福克斯新闻高级医疗分析师马克·西格尔（Marc Siegel）博士在其新书《我们身边的天使》（The Angels Among Us）中，探讨了精神信仰、临床治疗与无法解释的医学康复之间的交集。",
+        "【undefined】俱乐部前主席称曼城或面临“严厉”制裁：据了解，曼城已准备好对任何有罪裁决提出上诉，但前主席表示俱乐部可能面临“严厉处罚”。",
+        "【undefined】露天弥撒前夕 巴黎大批民众聚集迎候教皇：在巴黎市中心举行盛大露天弥撒前夕，数十万人迎候教皇利奥十四世（Pope Leo XIV）。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "24小时全球信号汇总 · 2026-09-26",
+      "lead": "日尺度板块按信源与主题整理本轮可验证记录；完整事实以每篇文章的官方原文与译文为准。",
+      "themes": [
+        {
+          "name": "🧠 前沿智能",
+          "analysis": "【undefined】《控制：共振》是一款出色的游戏——当你读完所有文档时，它会变得更加精彩：在《控制：共振》（Control Resonant）中，整个世界危在旦夕。但这并没有阻止联邦控制局（FBC）勤勉的员工们提交堆积如山的文书，也没有阻止我把能找到的所有资料一网打尽。在《共振》中，阅读通常是可选项，但这正是发现游戏中一些最精彩的细节——甚至是爱情故事！——的地方。；【undefined】与 Google Play 分道扬镳：为何 Conversations 现已免费：Conversations 是我为 Android 开发的联邦式即时通讯客户端。它的开端与许多传统开源项目如出一辙：源于解决我自己的痛点（scratch my own itch）。开发工作始于 2014 年 1 月我的学生宿舍里，几周之内，我就开始进行“自产自用”（dogfooding），并将其作为与朋友交流的主要方式。然而，当 2014 年 3 月 24 日——正好是十二年半前的今天——向公众发布该应用时，我立刻明确了一点：我至少要尝；【undefined】俱乐部前主席称曼城或面临“严厉”制裁：据了解，曼城已准备好对任何有罪裁决提出上诉，但前主席表示俱乐部可能面临“严厉处罚”。"
+        },
+        {
+          "name": "🔥 社会热点与思潮",
+          "analysis": "【undefined】研究发现：年轻美国人减少饮酒，而X世代饮酒量却在增加：在年轻一代饮酒量减少的同时，50至64岁的成年人饮酒量却在增加，这一转变正在重塑美国的酒吧消费格局。；【undefined】调优服务器以进行基准测试：优化代码始于对其进行测量，而测量只有在具备可重复性时才有意义：在 5% 的噪声干扰下，2% 的提升是根本看不出来的。然而在未调优的机器上，相同的二进制程序在多次运行之间很容易出现几个百分点的速度浮动。在本文中，我们采用一个微型基准测试，一步步对机器进行调优，并在每次更改后重新测量，直到运行结果变得具备确定性。1 1 请注意，针对基准测试的调优与针对性能的调优不同：基准测试要求机器具备可重复性，即使以牺牲部分峰值速度为代价。然而，生产环境；【undefined】如果我们不再停下脚步互相帮助，我们又会变成什么？：昨天，我收到了针对《你无法凭感觉编码出爱》（You Can't Vibe Code Love）一文的这封回复邮件。这段话发人深省、掷地有声，因此在征得对方同意后，我隐去了个人信息，将全文完整分享在此："
+        },
+        {
+          "name": "🛡️ 军事防务安全",
+          "analysis": "【undefined】经济学家痛批美国社会主义精英：抨击资本主义反而让他们发了大财：经济学家斯蒂芬·摩尔（Stephen Moore）表示，社会主义和进步派人物发现了一条通过抨击资本主义来牟利的捷径，他们恰恰是在自己想要彻底改革的自由市场体系中发家致富的。"
+        },
+        {
+          "name": "🌐 全球地缘战略",
+          "analysis": "【undefined】信仰能帮助患者康复吗？资深医生揭示其亲眼所见：医生兼福克斯新闻高级医疗分析师马克·西格尔（Marc Siegel）博士在其新书《我们身边的天使》（The Angels Among Us）中，探讨了精神信仰、临床治疗与无法解释的医学康复之间的交集。；【undefined】露天弥撒前夕 巴黎大批民众聚集迎候教皇：在巴黎市中心举行盛大露天弥撒前夕，数十万人迎候教皇利奥十四世（Pope Leo XIV）。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 75,
+      "completedTasks": 75,
+      "succeeded": 61,
+      "degraded": 14,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 75,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 126187,
+      "byRole": {
+        "translator": {
+          "attempts": 50,
+          "succeeded": 38,
+          "degraded": 12
+        },
+        "fact-extractor": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "topic-classifier": {
+          "attempts": 7,
+          "succeeded": 7
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 75,
+          "succeeded": 61,
+          "degraded": 14
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-2-translator-0",
+      "article-7-translator-0",
+      "article-11-translator-0",
+      "article-12-translator-0",
+      "article-13-translator-0",
+      "article-14-translator-0",
+      "article-20-translator-0",
+      "article-31-translator-0",
+      "article-34-translator-0",
+      "article-35-translator-0",
+      "article-36-translator-0",
+      "article-38-translator-2",
+      "hourly-editor",
+      "daily-analyst"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:33.942Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.443Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.080Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.486Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.739Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.786Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.786Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.941Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.549Z",
+        "lastSuccessAt": "2026-09-26T13:12:36.990Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.543Z",
+        "lastSuccessAt": "2026-09-26T13:12:36.677Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:36.882Z",
+        "lastSuccessAt": "2026-09-26T13:12:37.052Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.472Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.545Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.927Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.980Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.865Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.018Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.628Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.837Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.576Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.846Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.486Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.070Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.545Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.576Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:36.497Z",
+        "lastSuccessAt": "2026-09-26T13:12:37.520Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.780Z",
+        "lastSuccessAt": "2026-09-26T13:12:37.063Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:36.301Z",
+        "lastSuccessAt": "2026-09-26T13:12:36.629Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 12,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.941Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.244Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.714Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.739Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.653Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.714Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.443Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.480Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:33.243Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.472Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.142Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.443Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.070Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.222Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.973Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.232Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.090Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.276Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.289Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.713Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.936Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.962Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:36.629Z",
+        "lastSuccessAt": "2026-09-26T13:12:39.497Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.222Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.289Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.420Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.543Z"
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.376Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.406Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.491Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.780Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:36.677Z",
+        "lastSuccessAt": "2026-09-26T13:12:36.882Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.822Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.865Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.962Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.554Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.035Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.142Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.443Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.549Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-26T13:12:35.276Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.244Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.731Z"
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:33.240Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.628Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-26T13:12:35.406Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:33.242Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.973Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.554Z",
+        "lastSuccessAt": "2026-09-26T13:12:37.382Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.018Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.090Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.480Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.653Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.232Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.420Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.980Z",
+        "lastSuccessAt": "2026-09-26T13:12:35.035Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.713Z",
+        "lastSuccessAt": "2026-09-26T13:12:36.301Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:35.731Z",
+        "lastSuccessAt": "2026-09-26T13:12:36.497Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.846Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.936Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:34.837Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.927Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:33.224Z",
+        "lastSuccessAt": "2026-09-26T13:12:33.942Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:33.238Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.080Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T13:12:33.240Z",
+        "lastSuccessAt": "2026-09-26T13:12:34.822Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-escend-les-champs-lys-es-4a25cd9b9d6c167f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Replay - Le pape Léon XIV descend les Champs-Élysées",
+        "source": "France 24 (FR 官方法语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "fr",
+        "publishedAt": "2026-09-26T13:03:53.000Z",
+        "pubTime": "2026-09-26 21:03",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260926-replay-le-pape-l%C3%A9on-xiv-descend-les-champs-%C3%A9lys%C3%A9es",
+        "imageUrl": "https://s.france24.com/media/display/8e3b35e0-b9aa-11f1-8bbd-852b23529bb9/w:1024/p:16x9/000-C9F82H9.jpg",
+        "fullContent": "Revivez la descente des Champs-Élysées par le pape Léon XIV, avant la messe géante célébrée place de la Concorde devant près de 600 000 fidèles inscrits avec notre journaliste Anne Corpet et notre invitée en plateau, Constance Colonna Cesari, journaliste spécialiste de la papauté.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (FR 官方法语原版)】于 2026-09-26 21:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (FR 官方法语原版)",
+            "url": "https://www.france24.com/fr/vid%C3%A9o/20260926-replay-le-pape-l%C3%A9on-xiv-descend-les-champs-%C3%A9lys%C3%A9es",
+            "publishedAt": "2026-09-26T13:03:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lectibles-documents-logs-4dd83f4a38c69318",
+        "title": "《控制：共振》是一款出色的游戏——当你读完所有文档时，它会变得更加精彩",
+        "originalTitle": "Control Resonant is a great game — it’s even better when you read everything",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T13:00:00.000Z",
+        "pubTime": "2026-09-26 21:00",
+        "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Story_04.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "In Control Resonant, the entire world is at stake. But that didn’t stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn’t stop me from reading everything I could find, either. Reading is often optional in Resonant, but it’s where some of the game’s best details — and even love stories! — can be found. In the world of Control Resonant and its predecessor, 2019’s Control, the FBC deals with mysterious, otherworldly objects and entities that defy explanation. But the FBC itself is still an old-school bureaucratic agency, and that means tons of (often heavily redacted) reports and memos and miscellaneous bits of paper to sort through. I like reading, and I especially like reading Remedy’s clever and often funny writing, but I was overwhelmed at first by the sheer amount of text. Initially I skipped documents that seemed optional: the enemy logs, which are compiled in a separate tab and unlocked automatically after fighting each enemy type for the first time. I was kind of busy just learning how to get around — I’m not the best at spatial reasoning in general, and gravity doesn’t always matter in Resonant’s M.C. Escher-ified version of Manhattan. I was also too busy beating down the game’s many Hiss and mold enemies to read about them.  [Image: The game’s best documents contain valuable info about the world as well as the personalities of the people in it. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4473.jpg?quality=90&strip=all] But I was having enough trouble with combat early on that I eventually decided to read through the enemy logs I’d unlocked to see if they’d be any help. (There’s an assist mode so you can tweak the combat difficulty, but I was feeling too stubborn to use it. Remedy has since deployed a hotfix to address criticisms of the combat balance.) The logs, compiled by the FBC’s “Threat Assessment Team,” did actually help; they detail each enemy’s attack patterns and weaknesses, which aren’t always easy to figure out when they come at you in large groups. But I was delighted to find that the enemy logs also hide a workplace romantic comedy. The Threat Assessment Team consists of Rick Patel, who documents the Hiss, and Lydia M.B. McPierce, who documents the mold and some later-game enemies. Rick is pretty serious and straightforward, whereas Lydia finds lots of time to talk shit about the mold in between her regular notes. Opposites attract, though. Across dozens of logs, I saw their individual personalities unfold — as well as the beginning of their love story. One of the enemies, the Hiss Transporter, is a city bus that’s been corrupted by the Hiss and sends out drones to attack on its behalf. In his log about it, Rick describes the dynamic between the bus and its drones — which are seemingly once-human Hiss entities fused to bus seats — as “motherly.” Lydia calls him out on this in a separate document about a mold enemy called the Spore Mother. “(For the record, I was not the one who named this one ‘mother,’ that was Rick. I went to therapy and did the work precisely so I wouldn’t feel the urge to do that),” she writes in an aside at the bottom. In another document, Lydia teases Rick, who she’s calling “Ricky” at this point, about beating him at chess and challenges him to a rematch. [Image: Lydia is sassing Rick a little, but she obviously likes how much he cares! https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4465.jpg?quality=90&strip=all] Lydia is one of the best examples in Resonant of how funny Remedy’s writing can be, while Rick is much drier. But he’s also sweet and references Lydia often; in one log, he says that had he realized Lydia had emetophobia, he would’ve offered to trade some responsibilities with her so she could avoid the vomit-like attacks of the mold. (I have emetophobia myself, so I found this especially charming. Good on Ricky.) Then, in a document about a particularly dangerous Hiss variant that he came too close to during his observations, Rick finally lays it all bare: > I could have died. Another close call like that and it might just be the end for me. I don’t want to go without taking a chance on us, Lydia. Remember how we laughed at our ideal dates being the exact opposites of each other, how chaotic a pair we’d make? It doesn’t have to be just a joke. I think we could have something real together, you and I. What do you think? (Don’t worry, you can tell me over coffee what a coward I am for not doing this in person.) I’m not sure if Lydia has actually seen this note, because I’m still missing one singular enemy log. But I know she likes him back. In a late-game document, as the world is really looking doomed, Lydia adds an aside at the bottom: “(Hey Ricky, this is out of left field, but if we actually survive this, wanna grab a coffee sometime?)” Remedy seeds little stories and fun details like these throughout the world of Resonant, not just in written documents. But reading, it turns out, was integral to my experience. I learned how to fight the game’s enemies a little better, and in the process, I was endeared to two characters I never actually met. There’s also a lot more to discover than just office romance — everything from an influencer’s view of Manhattan’s “inception ahh streets” to the FBC’s serious ethics violations — and so much of it enriches Remedy’s fantastically weird world. I’m now determined to track down and kill that last enemy type so I can read Lydia’s final log, and I’m sure I’ll stumble upon some other documents I missed along the way. I can’t wait to see what I find.",
+        "fullTranslation": "在《控制：共振》（Control Resonant）中，整个世界危在旦夕。但这并没有阻止联邦控制局（FBC）勤勉的员工们提交堆积如山的文书，也没有阻止我把能找到的所有资料一网打尽。在《共振》中，阅读通常是可选项，但这正是发现游戏中一些最精彩的细节——甚至是爱情故事！——的地方。\n\n在《控制：共振》及其前作（2019年的《控制》）的世界观里，FBC负责处理那些违背常理解释的神秘超自然物体与实体。但FBC本身仍然是一个老派的官僚机构，这意味着有海量（且往往被大面积涂黑涂抹）的报告、备忘录和零星纸片等待梳理。我本身就喜欢阅读，尤其喜欢读Remedy充满智慧且时常令人捧腹的文字，但起初我还是被这庞大的文本量震慑住了。\n\n起初，我跳过了那些看似可选的文档：也就是敌人日志。这些日志被归档在一个单独的标签页中，每当你首次与某种敌人交手后便会自动解锁。那时我正忙于摸索如何认路——总体而言我的空间思维能力并不算好，而且在《共振》中那个酷似埃舍尔画作般的曼哈顿里，重力并不总是管用。此外，我也太忙于痛击游戏中形形色色的嘶鸣（Hiss）与霉菌（mold）敌人，无暇去阅读关于它们的文字。\n\n[图片说明：游戏中最好的文档既包含关于世界的宝贵信息，也刻画了身处其中之人的个性。]\n\n但在游戏初期，我在战斗中吃尽了苦头，以至于最终下定决心去翻看已解锁的敌人日志，想看看它们是否能有所帮助。（游戏中提供了辅助模式，方便玩家调整战斗难度，但我当时脾气太倔不想用。Remedy后来也发布了热修复补丁来解决玩家对战斗平衡性的批评。）由FBC“威胁评估小组”整理的这些日志确实派上了用场；它们详细记录了每种敌人的攻击模式和弱点，而当敌人成群结队向你扑来时，这些细节通常很难当场看清。\n\n但我惊喜地发现，这些敌人日志里竟然还隐藏着一部职场浪漫喜剧。\n\n威胁评估小组由里克·帕特尔（Rick Patel）和莉迪亚·M·B·麦克皮尔斯（Lydia M.B. McPierce）组成。里克负责记录嘶鸣，而莉迪亚则负责记录霉菌以及一些游戏后期出现的敌人。里克为人相当严肃且直率，而莉迪亚在常规记录之余，则找了大把时间对霉菌大肆吐槽。然而，异性相吸。通过几十篇日志，我见证了他们鲜明个性的展现——以及他们爱情故事的开端。\n\n其中一种敌人名叫“嘶鸣运输车”（Hiss Transporter），那是一辆被嘶鸣腐蚀的城市公交车，它会释放无人机代其进行攻击。在相关的日志中，里克将这辆公交车与无人机（看起来似乎是与车座融为一体的曾经人类的嘶鸣实体）之间的动态关系描述为“母性般的”。莉迪亚在另一份关于名为“孢子之母”的霉菌敌人的文档中当面挑出了这一点。“（郑重声明，给这家伙起名带‘母亲’的不是我，是里克。我做过心理治疗并为此付出了努力，正是为了克制自己产生这种冲动），”她在底部的旁注中写道。在另一份文档中，莉迪亚则拿下棋击败里克的事情打趣他（此时她已经开始称呼他为“小里克”），并向他发起了重赛挑战。\n\n[图片说明：莉迪亚虽然对里克有些出言调侃，但显然很喜欢他对自己的在乎！]\n\n莉迪亚是《共振》中展现Remedy幽默文笔的最佳典范之一，而里克则严肃得多。但他同样温柔体贴，经常提及莉迪亚；在某篇日志中他提到，如果早知道莉迪亚有呕吐恐惧症，他原本会主动要求和她调换一部分工作职责，好让她避开霉菌那些类似呕吐物的攻击。（我自己也有呕吐恐惧症，因此觉得这处细节格外迷人。干得漂亮，小里克。）\n\n随后，在一份关于某种极其危险的嘶鸣变种的文档中（他在观察时靠得太近了），里克终于敞开了心扉：\n\n> 我差点就没命了。要是再来一次这样的险境，我可能就真交代在这儿了。莉迪亚，在还没为你我之间的可能放手一搏之前，我不想就这么死去。还记得我们曾笑谈彼此理想的约会方式完全南辕北辙、凑在一起会是一对多么混乱的组合吗？这未见得只能是个玩笑。我觉得我们两个人之间可以有货真价实的情感。你觉得呢？（别担心，喝咖啡的时候你可以当面骂我是个连这都不敢当面说的懦夫。）\n\n我不知道莉迪亚是否真的看到了这张便条，因为我目前还缺一份特定的敌人日志。但我知道她对他同样怀有好感。在游戏后期的一份文档中，当整个世界眼看真的在劫难逃时，莉迪亚在底部加上了一条旁注：“（嘿，小里克，这可能有点突兀，但如果我们真能挺过这一劫，有空一起喝杯咖啡吗？）”\n\nRemedy在《共振》的世界各处播下了许多像这样的小故事和有趣细节，并不局限于书面文档。但事实证明，阅读构成了我游戏体验不可或缺的一部分。我不仅学会了如何更好地应对游戏中的敌人，在此过程中，我还深深喜欢上了两个从未谋面的角色。除了办公室恋情，这里还有海量的内容等待挖掘——从网红眼中曼哈顿那犹如《盗梦空间》般的怪诞街道，到FBC触目惊心的伦理道德违规行为——所有这一切都极大丰富了Remedy那个奇妙而光怪陆离的世界。我现在下定决心一定要找出并消灭最后一种敌人，这样就能读到莉迪亚的最后一篇日志了，而且我敢肯定在路上还会偶遇其他遗漏的文档。我迫不及待想看看还能发现什么了。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "《Control Resonant》的前作是2019年发售的《Control》。",
+          "游戏开发商Remedy已发布热修复补丁以解决关于战斗平衡的批评意见。",
+          "来源叙事重点：通过个人游玩体验，阐述《Control Resonant》中收集品与文档（尤其是敌人威胁日志）对丰富世界观、战斗策略辅助以及隐藏职场浪漫叙事的巨大价值，强调Remedy巧妙且富有幽默感的文本叙事功底。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T13:00:00.000Z",
+            "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs"
+          }
+        ]
+      },
+      {
+        "id": "story-n-capital-gains-8568aada-0e795952b98b9d1d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T13:00:00.000Z",
+        "pubTime": "2026-09-26 21:00",
+        "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-26 21:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T13:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--z-drinking-habits-study-f2b1d23ca26ba639",
+        "title": "研究发现：年轻美国人减少饮酒，而X世代饮酒量却在增加",
+        "originalTitle": "Gen X is drinking more as younger Americans cut back on alcohol, study finds",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:00:35.000Z",
+        "pubTime": "2026-09-26 20:00",
+        "url": "https://www.theguardian.com/society/2026/sep/26/gen-x-z-drinking-habits-study",
+        "imageUrl": "https://i.guim.co.uk/img/media/119efa376e78efffe84d8cc1244179a92ac12a8e/466_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=544a72d5ac047fb06c940ffc159f4eeb",
+        "fullContent": "While younger generations are drinking less, adults aged 50 to 64 are drinking more, causing a shift reshaping the US bar scene\n\nAlcohol consumption has decreased across the United States in recent years, particularly among adults under age 40, but there is one older demographic in which more people are drinking than before the Covid-19 pandemic – and more are doing so heavily, according to a new study.\n\nFor the first time since before the pandemic, the percentage of US adults who drink any alcohol decreased between 2022 and 2024, according to the report in the journal Annals of Internal Medicine. People from 50 to 64, which roughly corresponds with gen X, were the only age group in which drinking continued to increase.",
+        "fullTranslation": "在年轻一代饮酒量减少的同时，50至64岁的成年人饮酒量却在增加，这一转变正在重塑美国的酒吧消费格局。\n\n一项新研究显示，近年来全美范围内的酒精消费量普遍下降，尤其是在40岁以下的成年人中；然而，有一个较年长的群体饮酒人数比新冠疫情前还要多，并且重度饮酒的人数也在增加。\n\n根据发表在《内科学年鉴》（Annals of Internal Medicine）期刊上的报告，自疫情暴发前以来，2022年至2024年间，有饮酒习惯的美国成年人比例首次出现下降。而大致对应于X世代的50至64岁人群，是唯一一个饮酒率仍在持续上升的年龄段。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "近年来全美酒精消费量整体下降，尤其是40岁以下成年人群体。",
+          "在2022年至2024年间，饮用任何酒精饮品的美国成年人比例自新冠疫情前以来首次出现下降。",
+          "来源叙事重点：聚焦代际饮酒行为分化，强调年轻群体减少饮酒的同时，50至64岁（X世代）人群饮酒及重度饮酒反常增加，并将其延伸为可能正在重塑美国酒吧业态的社会趋势"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T12:00:35.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/26/gen-x-z-drinking-habits-study"
+          }
+        ]
+      },
+      {
+        "id": "story-ssed-cells-survival-html-987fe411481f864e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Molecular 'self-destruct' switch discovered: How stressed cells decide between survival and death",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:00:07.000Z",
+        "pubTime": "2026-09-26 20:00",
+        "url": "https://phys.org/news/2026-09-molecular-destruct-stressed-cells-survival.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-self-destruc.jpg",
+        "fullContent": "A new study from Ben-Gurion University of the Negev (BGU) has identified a molecular switch that controls whether stressed human cells activate a survival mechanism or trigger programmed cell death (apoptosis). The findings, published in Redox Biology, provide insights that could help overcome chemotherapy resistance in aggressive tumors.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-26 20:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-molecular-destruct-stressed-cells-survival.html",
+            "publishedAt": "2026-09-26T12:00:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-odrostki-2120441500-html-dac264fcff3a1c9f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Суд на Урале поместил под домашний арест подростков, избивших прохожего",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-26T13:03:16.000Z",
+        "pubTime": "2026-09-26 21:03",
+        "url": "https://ria.ru/20260926/podrostki-2120441500.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/09/0f/1750138064_0:320:3072:2048_650x0_80_0_0_ab1e6b8ccec3e51db740ba452ab744e3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-26 21:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260926/podrostki-2120441500.html",
+            "publishedAt": "2026-09-26T13:03:16.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ation-scalping-resellers-84dd219b9dbd645c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pokémon card resellers have turned collecting into an online blood sport",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:00:00.000Z",
+        "pubTime": "2026-09-26 20:00",
+        "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268781_Pokemon_PARKIN_v3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not to be mad. But they were; other creators claimed that cards Roush had purchased were stolen from the manufacturer and mocked her for trying to sell them at exorbitant prices. The Roush situation was a high-profile example of the way Pokémon card collecting culture has been upended by the influencer economy and people trying to profit off the hobby. Though Roush has been relatively quiet in the days since the blowup, Pokémon collectors have been up in arms over a different — but very much related — problem. When the Pokémon Trading Card Game’s long-awaited 30th Celebration set finally released last week, collectors across the country lined up outside of stores in hopes of getting their hands on some shiny pieces of cardboard. The anniversary set has unusually strong pull rates — the rate at which you’re likely to find rare “chase” cards in a given set — giving more fans the cards they’ve always dreamed of, and potentially upsetting the aftermarket Poké-conomy. Some diehard Poké-fans even camped out overnight because a resurgence in popularity has made the cards much more difficult to find and buy in person. But another group of Pokémon card hunters was able to secure the highly sought-after set without having to travel to physical retailers or navigate the online Pokémon Center.  [Media: https://www.youtube.com/watch?v=05w9UVH6zoQ] Those people — resellers who often use automated bots to buy dozens of boxes of cards as soon as they’re available for preorder online — might not have had any intention of collecting the 30th Celebration set for themselves. But they have been trying to offload their spoils at marked-up prices to fans who haven’t had a chance to buy cards for themselves. Most retailers can’t keep cards on shelves, but there are plenty of videos online of resellers showing off piles of product they were able to obtain either by placing orders with bots or using inventory checking programs that alert them when brick-and-mortar stores receive stock. It’s also easy to find footage of resellers getting into altercations over cards, and in one recent instance, a 72-year-old man was arrested and charged with a first-degree misdemeanor for tracking a Pokémon delivery worker’s location with a device secretly planted in her car. Though flipping trading cards is nothing new, the Pokémon reselling economy has gotten much bigger in recent years as people have taken note of how durable the franchise’s popularity is. Many resellers like BotterBoyNova started off with other kinds of valuable merchandise before realizing that Pokémon products can be sold for far beyond the manufacturer’s suggested retail price, or MSRP. When I spoke with Nova recently, he told me that — like many millennials — he’s been a Pokémon fan since the mid-’90s. Nova was originally a content creator whose videos were mostly focused on reselling sneakers, but seeing how easy it was to profit from reselling Pokémon products convinced him that he needed to get in on the action. “Resellers in what’s described as the ‘Sneaker Twitter’ space are tapped in with practically every category of collectible that can resell for a profit,” Nova explained to me via Discord. “It’s not a situation where I’m singling out the Pokémon card market. It just so happens that it’s highly profitable and difficult to purchase for MSRP, and those are the conditions that our community specializes in.” [Media: https://www.youtube.com/watch?v=qFZptvE-tv0] Rather than operating independently, Nova works with Polar Chefs — a “cook group” community that sells monthly subscriptions to a variety of reseller tools and services. Subscriptions range from $660 per year to $75 per month, and they come with access to Polar Chefs’ private Discord server, restock alerts, and a selection of bots that can be used to buy cards. These bots make it easy for people to create multiple accounts on retailers’ websites that are attached to virtual credit cards, while the buyer’s IP address is spoofed with proxies. Technically, this kind of process isn’t illegal — at least not yet; Congress outlawed concert ticket-focused bots in 2016 and lawmakers have proposed doing the same for retail bots. But it does violate most retailers’ terms of service, which is why some resellers’ orders are canceled. Using Polar Chefs’ tools, Nova has been able to purchase massive amounts of Pokémon cards at MSRP from various retailers without being blocked by websites’ anti-bot security measures. Nova described his process of securing cards with bots as being “almost completely hands free,” and explained that the real work doesn’t begin until he has to sort and sell his inventory to a couple of bulk buyers. “During most weeks, I spend less than 3-5 hours a week on the reselling side of things (setting up bots, buying inventory, selling and fulfilling inventory),” Nova said, noting that he’s commonly asleep while pre-programmed bots make purchases for him. “I wait for notifications to come in from Polar Chefs which inform me of releases, bot adjustments I need to make, etc.” Though it is difficult to pinpoint exactly when Pokémon reselling really exploded in the past few years, the rise of groups like Polar Chefs feels reflective of the way that the creator economy evolved during the covid-19 pandemic. Resellers like Nova are influencers whose videos are designed to sell people on the idea that they could also be making money by flipping cards at scale. And monetized cook groups are prime examples of how online hustle culture has become more focused on the sale of how-to guides and courses for practices that can be seen as morally suspect. [Image: PASADENA, CALIFORNIA – SEPTEMBER 16: Pokémon card collectors wait in line outside a Best Buy store for a chance to purchase the new 30th Celebration set on September 16, 2026 in Pasadena, California. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295635860.jpg?quality=90&strip=all] There’s an argument to be made that the scarcity created by resellers is part of what has driven the popularity of platforms like Whatnot — an online marketplace where people can pay for things like sealed Pokémon products, which are then opened on livestreams by the seller before they’re sent to the buyer. Many Whatnot streamers present themselves as entrepreneurs who are providing their audiences with a helpful service while also entertaining them. But the platform has been accused of operating more like an illegal gambling operation, and there is an entire ecosystem of creators whose content documents Whatnot streamers scamming their customers. But with the 30th Celebration packs flooding the market with rare cards, the scammers could be out of luck. Over the past week, X and Reddit have been inundated with screenshots from unnamed Discord servers where people claiming to be resellers appear to be melting down over not being able to sell their overpriced cards. One of the more widely circulated images features a person insisting that resellers are “the people that actually ensure [The Pokémon Company] makes money,” while complaining that “there’s literally no value in these sets because everyone can pull the rare bullshit.” In another, a reseller says they are filing a class action lawsuit against The Pokémon Company “for independent vendors who suffered severe financial asset devaluation due to artificial market saturation.” [Media: https://www.youtube.com/watch?v=9S-w9kQ4vI8] The absurdity of these posts suggests that they might have been written by people making fun of actual resellers, as does the fact that while searching Discord I found some posts that use the exact same wording. Those posters might have just been looking for attention, but the state of the larger reselling economy does seem to be having a negative impact on Pokémon cards’ availability. Even though The Pokémon Company is printing more cards than ever, almost everything about the modern aftermarket economy has made it harder for ordinary people — especially children — to participate in the hobby. Nova told me that he thinks casual collectors who just want to pull cool cards for themselves are completely justified in feeling that resellers are making Pokémon less accessible. He also believes that collectors whose interest in the cards is “incentivized by monetary gain” are hypocrites for taking issue with resellers. Aside from actually playing with them, the real fun of Pokémon cards is in the hunt and delight when you’re able to find a pack that shocks you with its contents. It’s an experience everyone’s supposed to be able to enjoy, but it’s being ruined by hustlers.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "宝可梦卡牌创作者 Natalie Roush 在其 YouTube 和 Instagram 发布视频展示两盒未正式发售的高级卡牌包，引发社区愤怒后删除了该视频。",
+          "宝可梦集换式卡牌游戏（Pokémon Trading Card Game）的“30th Celebration”系列卡牌正式发售，其出卡率（pull rates）异常高。",
+          "来源叙事重点：探讨宝可梦卡牌转售（黄牛）产业链的专业化与自动化，揭示‘cook group’与自动化抢购机器人如何破坏普通玩家与儿童的集卡体验，并剖析新发售高出卡率卡牌对转售溢价市场的潜在冲击与社区反响。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T12:00:00.000Z",
+            "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers"
+          }
+        ]
+      },
+      {
+        "id": "story-e-40b5-8a7a-ef33f302e652-8cde79f9b0790c60",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Manchester City verdict poses fresh test to UK-UAE relations",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:34:15.000Z",
+        "pubTime": "2026-09-26 20:34",
+        "url": "https://www.ft.com/content/36fd2644-9d0e-40b5-8a7a-ef33f302e652?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43d10fa1-1ddf-41df-97d7-2c1c4f0fe719.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Successive British governments have sought to shore up diplomatic ties with Abu Dhabi in a bid to lure investment",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-26 20:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/36fd2644-9d0e-40b5-8a7a-ef33f302e652?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-26T12:34:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--server-for-benchmarking-dae3d53b7cb6ad39",
+        "title": "调优服务器以进行基准测试",
+        "originalTitle": "Tuning a Server for Benchmarking",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T11:48:40.000Z",
+        "pubTime": "2026-09-26 19:48",
+        "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+        "imageUrl": null,
+        "fullContent": "Optimizing code starts with measuring it, and a measurement is only useful if it is repeatable: a 2% improvement is invisible under 5% of noise. Yet on an untuned machine the same binary can easily run several percent faster or slower between runs. In this post we take a tiny benchmark and tune the machine step by step, re-measuring after every change, until runs become deterministic.1 1 Note that tuning for benchmarking is not the same as tuning for performance: a benchmark wants the machine repeatable, even at the cost of some peak speed. A production box, however, wants every last bit of speed.\n\nOur running example sums an array of doubles, in short bursts. Real services rarely hammer the CPU continuously: they handle a request, sit idle, and wake up for the next one. Each timed iteration here runs a burst of 256 sums after a 2 ms idle gap, with the gap excluded from the measurement2 2 PauseTiming / ResumeTiming keep the sleep out of the measured time, and DoNotOptimize keeps the result alive past the optimizer; without it the compiler deletes the entire loop.\n\nCompile it in release with all optimizations, -O3, and -march=native -mtune=native -flto -ffast-math. Then run ten repetitions and aggregate them\n\nThe interesting line is cv, the coefficient of variation: standard deviation divided by mean. Almost 3% of run-to-run noise—any optimization smaller than that is invisible. Let’s bring it down.\n\nBefore turning any knob, look at what you are tuning. lstopo draws the whole machine in one picture: caches, cores, SMT pairs, and the PCIe devices hanging off them. Start with my laptop\n\nFigure 1: My laptop (Intel Core Ultra 5 135U). Three kinds of cores: two P-cores with two hardware threads each (dotted), eight E-cores in clusters of four sharing an L2, and two low-power E-cores (bottom left) sitting outside the L3 entirely.\n\nHere the choice of core changes what you measure: land on CPU 4 and you get an E-core at lower clocks; on CPU 12 you lose the L3 too. Now compare that against my homelab server\n\nFigure 2: My homelab server (AMD Ryzen 7 PRO 8700GE). Eight identical cores with identical caches; the NVMe drives and the NIC hang off PCIe on the right.\n\nOn the server every core is as good as any other: homogeneous machines make better benchmarking boxes. The PCIe side matters once a benchmark touches I/O: it shows which NVMe or NIC you are exercising and, on multi-socket machines, which NUMA node it hangs off.\n\nThe scheduler is free to migrate the benchmark between cores, and every migration throws away warm caches. On hybrid CPUs it’s worse: performance and efficiency cores run the same code at very different speeds, so results turn bimodal depending on where the process lands. Pin the benchmark to a single core (on hybrid parts, a P-core)\n\nThe mean falls to 55.3 µs and the CV better than halves, to 1.06%. The win is bigger than migration costs alone would suggest: every burst now wakes the same core, so that core’s clock never has time to sag between bursts.3 3 Pinning puts the benchmark onto the core but does not keep other tasks off it. On a busy box, go further and reserve the core for the benchmark alone, either on the kernel command line (isolcpus=2 nohz_full=2 rcu_nocbs=2) or at runtime with a cpuset cgroup.\n\nBy default Linux scales the CPU frequency with load, so the benchmark starts on a cold, slow clock and finishes on a hot, fast one. Switch the frequency governor to performance to keep clocks locked high\n\nand verify it took effect\n\nRe-measuring gives a mean of 54.9 µs and a CV of 0.79%. The increment looks modest only because pinning already kept our core’s clock warm: on its own, the performance governor takes the unpinned baseline from 99.6 µs straight to 54.5 µs. Either way, no burst ever wakes up on a cold clock again.\n\nCPU still shares its execution units and L1/L2 caches with its SMT sibling: anything the scheduler places there perturbs our measurement. Disable SMT entirely\n\nThe CV drops to 0.26%, three times better: the core now has its execution units and caches all to itself.\n\nEven with the performance governor, turbo frequencies vary with temperature and power budget: the same run on a warm machine clocks lower than on a cool one. Disable turbo for stable clocks\n\nOn this machine nothing changes, since our short bursts never gave the silicon time to boost anyway. On a machine where turbo does engage, expect the mean to climb instead: you are giving up peak performance. That trade is fine, since when optimizing we care about relative numbers, and those are now comparable across runs.4 4 Low-latency production tuning makes the opposite call and keeps turbo on: there, every nanosecond counts. The most latency-sensitive trading shops go further and run overclocked servers, locked at a fixed all-core frequency above stock—speed and stable clocks, bought with better cooling.\n\nHere is the whole journey in one table, each row adding one change on top of all the previous ones. We went from almost 3% of noise down to 0.26%, and got 1.8x faster along the way; differences of half a percent are now real, measurable signal.5 5 Feel free to reproduce on your machine using the benchmark from my CppPlayground repository.\n\nOn busier machines there is a longer tail of knobs worth trying: disabling address space layout randomization, the NMI watchdog, or transparent huge pages. The bench-remote.sh script applies all. None of it survives a reboot, which is exactly what you want: tune, measure, and reboot back to a normal machine.\n\nLong live reproducible benchmarks!\n\nMy mailing list is free, occasional, and covers a variety of topics. I will never sell or share your email address.\n\nHave feedback? Email me at david@alvarezrosa.com.",
+        "fullTranslation": "优化代码始于对其进行测量，而测量只有在具备可重复性时才有意义：在 5% 的噪声干扰下，2% 的提升是根本看不出来的。然而在未调优的机器上，相同的二进制程序在多次运行之间很容易出现几个百分点的速度浮动。在本文中，我们采用一个微型基准测试，一步步对机器进行调优，并在每次更改后重新测量，直到运行结果变得具备确定性。1 1 请注意，针对基准测试的调优与针对性能的调优不同：基准测试要求机器具备可重复性，即使以牺牲部分峰值速度为代价。然而，生产环境机器则追求榨干每一分极致速度。\n\n我们的示例以短突发方式对双精度浮点数数组求和。实际服务很少会持续压满 CPU：它们处理一个请求，进入空闲，然后再被唤醒处理下一个。这里的每个计时迭代都在 2 毫秒的空闲间隔后执行一次 256 次求和的突发操作，该空闲间隔不计入测量时间2 2 PauseTiming / ResumeTiming 用于将休眠排除在测量时间之外，而 DoNotOptimize 用于防止优化器消除结果；如果没有它，编译器会删掉整个循环。\n\n在发布模式下使用全部优化编译它：-O3，以及 -march=native -mtune=native -flto -ffast-math。然后运行十次重复并汇总结果。\n\n最值得关注的一行是 cv（变异系数）：标准差除以均值。接近 3% 的批次间噪声——任何小于该幅度的优化都将无法察觉。让我们把它降下来。\n\n在调整任何参数之前，先看看你在调优什么。lstopo 可以将整台机器呈现在一张图中：缓存、核心、SMT 配对，以及挂载在它们之上的 PCIe 设备。先从我的笔记本电脑看起：\n\n图 1：我的笔记本电脑（Intel Core Ultra 5 135U）。三种核心：两个性能核（P-core），各带两个硬件线程（点状虚线）；八个能效核（E-core），以四个一组共享 L2 缓存；以及两个低功耗能效核（左下角），完全位于 L3 缓存之外。\n\n在这里，核心的选择会直接改变你的测量结果：落在 CPU 4 上，你会得到一个时钟频率较低的能效核；落在 CPU 12 上，你甚至还会失去 L3 缓存。现在将其与我的家庭实验室服务器进行对比：\n\n图 2：我的家庭实验室服务器（AMD Ryzen 7 PRO 8700GE）。八个完全相同的核心，配备完全相同的缓存；NVMe 硬盘和网卡（NIC）挂载在右侧的 PCIe 上。\n\n在服务器上，每个核心都完全一致：同构机器是更好的基准测试平台。一旦基准测试涉及 I/O，PCIe 侧就变得至关重要：它展示了你正在使用哪个 NVMe 或网卡，以及在多插槽机器上它挂载在哪个 NUMA 节点下。\n\n调度器可以自由地在核心之间迁移基准测试任务，而每一次迁移都会丢弃预热好的缓存。在混合架构 CPU 上情况更糟：性能核与能效核运行相同代码的速度大相径庭，因此结果会因进程落点的不同而呈现双峰分布。将基准测试绑定到单个核心（在混合架构上绑定到性能核）：\n\n均值下降到 55.3 µs，变异系数（CV）降幅超过一半，来到 1.06%。这一收益比单纯的迁移成本所体现的还要大：现在每次突发都会唤醒同一个核心，因此该核心的时钟频率在各次突发之间根本没有时间回落。3 3 核心绑定将基准测试固定在核心上，但并未阻止其他任务使用该核心。在繁忙的机器上，可以更进一步，仅为基准测试保留该核心，可以通过内核命令行（isolcpus=2 nohz_full=2 rcu_nocbs=2），也可以在运行时通过 cpuset cgroup 来实现。\n\n默认情况下，Linux 会随负载动态调节 CPU 频率，因此基准测试会在较冷的低频状态下启动，而在较热的高频状态下结束。将频率调节器（frequency governor）切换为 performance 模式以将频率锁定在高位：\n\n并验证其是否生效：\n\n重新测量得出的均值为 54.9 µs，CV 为 0.79%。这一增益看似不大，只是因为核心绑定已经让我们的核心时钟保持在温热状态：单独使用 performance 调节器，就能将未绑定的基线从 99.6 µs 直接拉升到 54.5 µs。无论哪种方式，突发都不会再在冷时钟下被唤醒。\n\nCPU 仍然与其 SMT 同胞核心共享执行单元和 L1/L2 缓存：调度器放置在那里的任何任务都会干扰我们的测量。完全禁用 SMT：\n\nCV 降至 0.26%，改善了三倍：该核心现在完全独占其执行单元和缓存。\n\n即使使用了 performance 调节器，睿频频率也会随温度和功率预算而波动：同一程序在温热机器上的运行频率要低于冷机器。禁用睿频以获得稳定的时钟频率：\n\n在这台机器上没有任何变化，因为我们的短突发本来就没有给芯片足够的时间来提升睿频。在睿频确实生效的机器上，均值反而预计会上升：你放弃了峰值性能。这种权衡完全可以接受，因为在进行优化时我们关注的是相对数值，而这些数值现在在多次运行之间具备了可比性。4 4 低延迟生产环境调优则做出截然相反的抉择并保持睿频开启：在那里，每一纳秒都至关重要。对延迟最敏感的量化交易机构甚至更进一步，运行超频服务器，锁定在高于出厂规格的固定全核频率上——通过更强的散热来换取速度与稳定的时钟。\n\n以下表格展示了整个过程，每一行都在之前所有更改的基础上增加一项变动。我们把噪声从接近 3% 降低到了 0.26%，同时整体速度提升了 1.8 倍；半个百分点的差异现在变成了真实、可测量的有效信号。5 5 欢迎使用我 CppPlayground 仓库中的基准测试在你的机器上进行复现。\n\n在更繁忙的机器上，还有一系列长尾参数值得尝试：禁用地址空间布局随机化（ASLR）、不可屏蔽中断看门狗（NMI watchdog）或透明大页（transparent huge pages）。bench-remote.sh 脚本应用了所有这些设置。重启后没有任何配置会被保留，但这正是你想要的：调优、测量，然后重启恢复成一台普通机器。\n\n可重复的基准测试万岁！\n\n我的邮件列表完全免费，不定期发送，涵盖多种主题。我绝不会出售或分享你的邮箱地址。\n\n有反馈建议？请发送邮件至 david@alvarezrosa.com。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 23,
+        "keyTakeaways": [
+          "在未调优的机器上，相同的二进制程序在多次运行之间运行速度容易出现百分之几的波动，初始测试中运行间噪声（变异系数 CV）接近 3%。",
+          "作者的笔记本电脑搭载 Intel Core Ultra 5 135U 处理器，包含三种核心：2 个性能核（带双硬件线程）、8 个能效核（每 4 个一组共享 L2 缓存）、2 个完全位于 L3 缓存外部的低功耗能效核。",
+          "来源叙事重点：通过逐步调优硬件拓扑与 Linux 内核配置（核心绑定、锁定 performance 调频器、禁用 SMT 及 Turbo 睿频），消除系统运行噪音，将变异系数从近 3% 压低至 0.26%，以实现高可复现性（deterministic）的基准测试环境。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T11:48:40.000Z",
+            "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/"
+          }
+        ]
+      },
+      {
+        "id": "story-ntly-boost-students-html-a8c553c5560fa5d1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Digital textbooks significantly boost students' intrinsic learning motivation",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:00:05.000Z",
+        "pubTime": "2026-09-26 20:00",
+        "url": "https://phys.org/news/2026-09-digital-textbooks-significantly-boost-students.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/online-college-student.jpg",
+        "fullContent": "A research team from The Education University of Hong Kong (EdUHK) and East China Normal University (ECNU) has published a meta-analysis demonstrating the impact of digital textbooks (DTs) on student motivation. Synthesizing 27 experimental and quasi-experimental studies conducted between 2000 and 2024 with 3,590 participants, the study confirms that DTs significantly enhance students' intrinsic learning motivation compared with traditional paper textbooks.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-26 20:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-digital-textbooks-significantly-boost-students.html",
+            "publishedAt": "2026-09-26T12:00:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rich-bashing-capitalism-640e83687d44e754",
+        "title": "经济学家痛批美国社会主义精英：抨击资本主义反而让他们发了大财",
+        "originalTitle": "Economist calls out America’s socialist elite, says they got rich bashing capitalism",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T13:00:45.000Z",
+        "pubTime": "2026-09-26 21:00",
+        "url": "https://www.foxnews.com/media/economist-calls-out-americas-socialist-elite-says-they-got-rich-bashing-capitalism",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/hasan-piker-feb-3-2026.jpg?ve=1&tl=1",
+        "fullContent": "Socialist and progressive figures have found a lucrative platform attacking capitalism, according to economist Stephen Moore, who says they have grown wealthy inside the free-market system they want to overhaul.\n\nMoore, a former senior economic adviser to President Trump, told Fox News Digital in an interview that the United States is uniquely positioned to reward people who criticize capitalism.\n\nHe said public figures, including Sen. Bernie Sanders and online political commentator Hasan Piker , have benefited from the wealth and opportunities created by the American economy while advocating socialist policies.\n\nDSA-BACKED CANDIDATES ARE WINNING PRIMARIES AND THEIR VISION FOR AMERICA IS VERY DIFFERENT\n\n\"There's no country in the world where you can get rich off of attacking free market capitalism better than in the United States,\" Moore told Fox Digital. \"And so you have dozens of these prominent voices in the socialist movement on the Democratic side who actually are rich, millionaires or more, and they attack the very system that made them rich in the first place.\"\n\nMoore said a recent USA Today opinion piece made a similar argument. The story was titled \"Hasan Piker's luxury lifestyle isn't what Marx had in mind.\"\n\nSOCIALIST BIGWIG BLASTS THE WEALTHY WHILE LIVING IN $1.4M BROOKLYN BROWNSTONE WITH EYEBROW-RAISING BACKSTORY\n\nIt read in part, \"America's loudest democratic socialists have a problem: Many of them are too rich. Hasan Piker, Sen. Bernie Sanders, I-Vermont, Sen. Elizabeth Warren , D-Massachusetts, and an entire class of young socialist influencers are all extremely wealthy. Yet even though their wealth was acquired through a capitalist system they see as immoral, they give very little of it away.\"\n\n\"It is remarkable how many of these leading, so-called advocates of socialism have come from rich families or have gotten rich on capitalism themselves,\" Moore said. \"So even people like Bernie Sanders are wondering whether there's a degree of hypocrisy here. I mean, there's a reason why just about everybody in the world wants to come to the United States. It's not because we have socialism, it's because we have free market capitalism.\"\n\nTHE DSA’S DANGEROUS FINE PRINT. THEY'RE COMING FOR MILLIONAIRES (AND YOU)\n\nMoore also questioned whether wealthy advocates of wealth redistribution should voluntarily give up more of their own assets and challenged progressive leaders to explain why they continue to benefit from capitalism while criticizing it.\n\n\"I think the capital H is for hypocrisy here, and if these people really believed and share the wealth policies that they keep espousing, maybe they could start with themselves,\" Moore said. \"Maybe they could sell some of these assets and give the money to the poor, but it turns out, by the way, that liberal socialists tend to be the least generous in terms of charitable giving. There was a very famous book on this. So it turns out that free market capitalists tend to be very generous in sharing their wealth, but not so much so democratic socialists.\"\n\nDEPROGRAMMED: FORMER DSA INSIDER REVEALS ‘FRIGHTENING’ SOCIALIST AGENDA DROVE HIM FROM ‘EXTREME’ IDEOLOGY\n\nThe economist said some socialists try to conceal their wealth to appeal more to the public.\n\n\"They try to hide their wealth from Americans so they can pretend like they are working-class people,\" Moore said. \"But if you look at the people who are really at the head of the democratic socialist movement and the people who are spending a lot of money, those tend to be very rich people themselves. This is, as I said before, this is the only country where you can get rich off of attacking the free market capitalism system, which really creates the wealth in the United States in the first place. It's the reason why so many people come to this country from socialist countries and they get here and they say they don't understand why anyone would want to have more socialism in America when they've seen it fail in their own country.\"\n\nFox News Digital reached out to Piker, Sanders and Sen. Elizabeth Warren for comment.",
+        "fullTranslation": "经济学家斯蒂芬·摩尔（Stephen Moore）表示，社会主义和进步派人物发现了一条通过抨击资本主义来牟利的捷径，他们恰恰是在自己想要彻底改革的自由市场体系中发家致富的。\n\n摩尔曾担任特朗普总统的高级经济顾问，他在接受福克斯新闻数字频道（Fox News Digital）采访时表示，美国处于一种独特的境地，能够为批评资本主义的人带来丰厚回报。\n\n他指出，包括参议员伯尼·桑德斯（Bernie Sanders）和网络政治评论员哈桑·派克（Hasan Piker）在内的公众人物，一边倡导社会主义政策，一边从美国经济创造的财富和机遇中获益。\n\n【相关阅读：美国民主社会主义者支持的候选人正在赢得初选，他们对美国的愿景大相径庭】\n\n“世界上没有哪个国家能像美国这样，通过抨击自由市场资本主义而发家致富，”摩尔对福克斯数字频道表示，“因此，民主党阵营内部的社会主义运动中涌现出了数十位知名代表，他们实际上本身就是富豪、百万富翁甚至更富有的人，他们一边攻击这个体系，一边却正是依靠这个体系才发了大财。”\n\n摩尔提到，《今日美国》（USA Today）最近发表的一篇评论文章也提出了类似的观点。该文章的标题是《哈桑·派克的奢华生活方式绝非马克思所设想的那样》。\n\n【相关阅读：社会主义要员抨击富人，自己却住在一栋价值140万美元且背景引人遐想的布鲁克林赤褐色联排别墅中】\n\n该文部分写道：“美国声量最大的民主社会主义者面临一个问题：他们中许多人太富有了。哈桑·派克、佛蒙特州独立参议员伯尼·桑德斯、马萨诸塞州民主党参议员伊丽莎白·沃伦（Elizabeth Warren），以及整整一代年轻的社会主义网红，全都极其富有。然而，尽管他们的财富是通过他们认为‘不道德’的资本主义体系获得的，他们却几乎没有捐赠出多少财富。”\n\n“令人瞩目的是，这些所谓的社会主义领军倡导者中，竟有如此多的人要么出身于富裕家庭，要么依靠资本主义让自己致富，”摩尔说，“因此，连伯尼·桑德斯这样的人也会引人怀疑这里面是否存在某种程度的虚伪。我的意思是，全世界几乎所有人都想来到美国是有原因的。这不是因为我们搞社会主义，而是因为我们拥有自由市场资本主义。”\n\n【相关阅读：美国民主社会主义者的危险细则：他们盯上了百万富翁（还有你）】\n\n摩尔还质疑这些腰缠万贯的财富再分配倡导者是否应该自愿捐出更多自己的资产，并要求进步派领导人解释为什么他们一边批评资本主义，一边又继续从中获益。\n\n“我认为这里的核心就是大写的‘虚伪’（Hypocrisy），如果这些人真的相信并认同他们一直在宣扬的‘共享财富’政策，也许他们可以先从自己做起，”摩尔说，“也许他们可以卖掉其中一些资产并把钱分给穷人。但顺便说一句，事实证明，自由派社会主义者在慈善捐赠方面往往是最不慷慨的。曾有一本非常著名的书专门阐述过这一点。事实证明，自由市场资本家在分享财富方面往往非常慷慨，而民主社会主义者却远非如此。”\n\n【相关阅读：思想转变：前美国民主社会主义者内部人士揭露‘令人恐惧’的社会主义议程如何促使他脱离‘极端’意识形态】\n\n这位经济学家表示，一些社会主义者试图隐瞒自己的财富，以对公众更具吸引力。\n\n“他们试图向美国人隐瞒自己的财富，以便伪装成工人阶级的一员，”摩尔说，“但如果你去看看那些真正领导民主社会主义运动的人，以及那些大肆挥霍资金的人，他们自己往往都非常富有。正如我之前所说，这是唯一一个你可以通过抨击自由市场资本主义体系而致富的国家，而这个体系从一开始就正是美国财富的真正创造者。这就是为什么有这么多人从社会主义国家来到这里，他们到达这里后会说，他们无法理解为什么会有人想在美国推行更多社会主义，因为他们已经在自己的祖国亲眼目睹了社会主义的失败。”\n\n福克斯新闻数字频道已联系派克、桑德斯和参议员伊丽莎白·沃伦置评。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "经济学家斯蒂芬·摩尔在接受福克斯新闻数字频道采访时批评社会主义及进步派人士，称其在资本主义制度下致富却抨击该制度。",
+          "斯蒂芬·摩尔曾担任特朗普总统的高级经济顾问。",
+          "来源叙事重点：聚焦保守派经济学家斯蒂芬·摩尔对民主社会主义与进步派代表人物（如桑德斯、沃伦、哈桑·皮克）的指责，构建‘社会主义精英伪善’的叙事框架，强调他们依靠资本主义制度和反资本主义言论致富、过着奢华生活却不愿主动分担财富。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T13:00:45.000Z",
+            "url": "https://www.foxnews.com/media/economist-calls-out-americas-socialist-elite-says-they-got-rich-bashing-capitalism"
+          }
+        ]
+      },
+      {
+        "id": "story-king-up-with-google-play-fef3d86a310799ac",
+        "title": "与 Google Play 分道扬镳：为何 Conversations 现已免费",
+        "originalTitle": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T10:55:56.000Z",
+        "pubTime": "2026-09-26 18:55",
+        "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "imageUrl": null,
+        "fullContent": "Conversations, my federated instant messaging client for Android, started out as many traditional open-source projects do: as an attempt to scratch my own itch. Development started in January 2014 in my student dormitory, and within weeks I started dogfooding and using the client as the primary means of communicating with my friends. However, when it came to releasing the app to the public on March 24, 2014—exactly twelve and a half years ago today—it was immediately clear to me that I would at least try to turn my open-source project into a business. While I didn’t invent the business model of making the source code publicly available but charging for the convenience of a compiled binary, it was certainly unusual in 2014.\n\nFast forward a decade, and I did manage to turn Conversations into a sustainable business. Ever since March 2014, Conversations—or other related activities—have been my primary source of income. Admittedly, sustaining life as a student in a tiny dormitory doesn’t take much, but luckily revenue has steadily increased as I grew older.\n\nThe exact sources of income have shifted over the years. In the beginning, it was a lot of paid development for companies that wanted to use Conversations. Some paid for features that made it into mainline Conversations; others wanted custom features so specific to their workflow that they never made sense to merge upstream. This was occasionally supplemented with providing server setup or even some consulting on instant messaging and security-related topics. Later on, grants and funding opportunities played a more and more important role.\n\nOne surprisingly steady source of income, however, has always been the Play Store revenue. I used to say that it pays my rent. Every freelancer knows the feeling of uncertainty that comes with only being able to send out invoices every few months or receiving payment for funded projects only at the end of the funding period. Any form of regular income—especially in the early stages, when you have not yet built up any savings—is a blessing.\n\nGross revenue of Conversations 2014-2026 (before Google’s fee and sales tax)\n\nMy relationship with Google was never good. App updates have been rejected more times than I can count for incomprehensible reasons. Conversations has been removed twice from the Play Store. Once, Google just randomly accused me of uploading users’ contacts1—which simply wasn’t true and was also not triggered by a specific update. Countless times I wished I could just talk to an actual human for five minutes. So many misunderstandings could have been cleared up in no time if I wasn’t going up against AIs and click workers. At the time of writing this blog post, I’ve been waiting 14 days for Google to review an app update. Review times were never good or anything close to what I would deem acceptable, but they have been getting a lot worse over the last year or so. One can imagine that part of the problem is an avalanche of AI-generated slop apps—something Google played no small part in creating in the first place. But Google should have the responsibility to prioritize long-standing, non-AI-generated apps with infrequent updates. Waiting a little longer for new features might not sound like a big deal to some, but Google makes no distinction between feature updates and security updates. Delaying security updates by days or weeks is outright dangerous.\n\nAt this point, I should add some context. Google takes a 15% cut on my app sales. This effectively means I’m paying Google more than 1000 Euro per year for their services. 1000 Euro per year is 1.5x what I’m paying for my internet access. It’s roughly what I’m paying for my notebook per year if you assume I use it for three to four years. When my internet breaks, someone drives to my house and fixes it. When my notebook breaks, someone drives to my house and fixes it. When Google fucks up, there is absolutely nothing I can do. Apparently that amount of money doesn’t give me the privilege to talk to a fucking human for five minutes once per year.\n\nFor years I’ve felt like I was in a toxic relationship with Google, and the only reason I stayed was economic dependency.\n\nOver time, the source of my income has shifted more and more towards grants. Sometimes via NLnet234, sometimes more directly from the European Commission5. I have secure funding via various grants until the end of 2029 and I’m fairly confident that other funding opportunities will come up for the time after that.\n\nConversations was always available on F-Droid, but in the beginning, I didn’t advertise the option of downloading it for free. Initially, the F-Droid package maintainers asked for my permission, knowing that Conversations was a paid app on Google Play. I didn’t refuse, but I also didn’t link to F-Droid from the official website because I wanted to steer users towards the paid version. Over time, as my sentiment toward Google shifted from bad to worse, I did start linking to F-Droid. Now F-Droid has become the primary method of distributing the app. The APK distributed over F-Droid is now built reproducibly and signed with my personal signing key.\n\nFortunately, I’m no longer economically dependent on Google Play Store revenue. Google doesn’t deserve me and my money anymore. I’m done. Fuck the gatekeepers.\n\nhttps://gultsch.social/@daniel/111929074071688694 ↩︎\n\nhttps://nlnet.nl/project/Conversations/ ↩︎\n\nhttps://nlnet.nl/project/Conversations-3.0/ ↩︎\n\nhttps://nlnet.nl/project/Conversations-OpenPGP-refresh/ ↩︎\n\nhttps://mobifree.org ↩︎",
+        "fullTranslation": "Conversations 是我为 Android 开发的联邦式即时通讯客户端。它的开端与许多传统开源项目如出一辙：源于解决我自己的痛点（scratch my own itch）。开发工作始于 2014 年 1 月我的学生宿舍里，几周之内，我就开始进行“自产自用”（dogfooding），并将其作为与朋友交流的主要方式。然而，当 2014 年 3 月 24 日——正好是十二年半前的今天——向公众发布该应用时，我立刻明确了一点：我至少要尝试将我的开源项目转变成一门生意。虽然公开源代码却对编译后的二进制文件收费这种商业模式并非由我首创，但在 2014 年这确实相当少见。\n\n时光飞逝十年，我确实成功将 Conversations 运营成了一项可持续的业务。自 2014 年 3 月以来，Conversations 及其相关业务一直是我主要的收入来源。诚然，作为一名住在狭小宿舍里的学生，生活开销并不大，但幸运的是，随着我年龄的增长，收入也在稳步提升。\n\n这些年来，具体的收入来源发生了变化。起初，很大一部分收入来自于为希望使用 Conversations 的企业提供付费开发。有些企业出资开发的功能最终合并进了 Conversations 主线；有些企业则需要针对其工作流程定制专属功能，这些功能过于特殊，完全不适合合并至上游分支。偶尔，这还会伴随提供服务器配置，甚至是一些关于即时通讯和安全相关主题的咨询服务。再后来，无偿拨款与资助机会发挥了越来越重要的作用。\n\n然而，一个令人意想不到且稳定的收入来源一直是来自 Play 商店的收益。我过去常说，是它帮我付了房租。每位自由职业者都深知这种不确定感的滋味：每隔几个月才能开具一次发票，或者必须等到资助周期结束时才能拿到受资助项目的款项。任何形式的固定收入——特别是在早期你还没有任何积蓄的时候——都是一种莫大的恩赐。\n\nConversations 2014–2026 年的总收入（扣除 Google 抽成及销售税前）\n\n我与 Google 的关系从来没好过。应用更新因各种令人费解的原因被拒审的次数，多得我已经数不清了。Conversations 曾两度被从 Play 商店下架。有一次，Google 甚至莫名其妙地指责我上传用户的联系人数据¹——这根本不是事实，而且也不是由某次特定的更新所引发的。无数次，我都巴不得能和一个真正的大活人谈上五分钟。如果我面对的不是人工智能和点击工（click workers），许多误解本可以在短时间内化解。在撰写这篇博文时，我已经等待 Google 审核一个应用更新等了 14 天。审核时长从来都不理想，甚至连我认为可以接受的底线都谈不上，但在过去大约一年时间里，情况变得更加糟糕了。可以想象，部分问题在于铺天盖地由 AI 生成的垃圾应用（AI-generated slop apps）——而 Google 在制造这股浪潮上本就难辞其咎。然而，Google 理应承担起责任，优先审核那些历史悠久、非 AI 生成且更新频率不高的应用。对某些人来说，为了新功能多等一阵子可能不算什么大不了的事，但 Google 对功能更新和安全更新却一视同仁、不作区分。将安全更新推迟数天甚至数周，完全是在制造危险。\n\n说到这里，我应该补充一些背景背景。Google 会从我的应用销售额中抽取 15% 的佣金。这实际上意味着我每年要向 Google 支付超过 1000 欧元的服务费。每年 1000 欧元是我宽带网络费用的 1.5 倍；如果你假设我的笔记本电脑能用三到四年，这笔钱差不多相当于我每年在笔记本上的花费。当我的网络坏了，会有人开车上门维修；当我的笔记本电脑坏了，也会有人开车上门维修。而当 Google 把事情搞砸时，我却完全无能为力。显然，每年这笔钱甚至都没能让我换来每年一次和一个真正的人类交谈五分钟的特权。\n\n多年来，我一直感觉自己与 Google 处在一场有毒的关系中，而我之所以没有离开，仅仅是因为经济上的依赖。\n\n随着时间的推移，我的收入来源越来越向各类资助基金倾斜。有时来自 NLnet²³⁴，有时更直接地来自欧盟委员会⁵。通过各项资助，我已获得了直到 2029 年底的稳定资金保障，并且我有相当的信心，在期满之后还会有其他的资助机会出现。\n\nConversations 一直可以在 F-Droid 上获取，但在初期，我并没有宣传过可以免费下载该应用的途径。最初，F-Droid 的软件包维护者在得知 Conversations 在 Google Play 上是付费应用后，还特意征求了我的许可。我没有拒绝，但我也没有在官方网站上提供指向 F-Droid 的链接，因为我想引导用户购买付费版本。后来，随着我对 Google 的态度由差变得更差，我开始放上 F-Droid 的链接。如今，F-Droid 已成为分发该应用的主要渠道。在 F-Droid 上分发的 APK 现在完全通过可复现构建（reproducible build）生成，并由我的个人密钥签名。\n\n幸运的是，我不再在经济上依赖 Google Play 商店的收入了。Google 不配再得到我和我的钱。我受够了。去他的守门人。\n\n¹ https://gultsch.social/@daniel/111929074071688694 ↩︎\n² https://nlnet.nl/project/Conversations/ ↩︎\n³ https://nlnet.nl/project/Conversations-3.0/ ↩︎\n⁴ https://nlnet.nl/project/Conversations-OpenPGP-refresh/ ↩︎\n⁵ https://mobifree.org ↩︎",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "Conversations 是一款面向 Android 平台的联邦即时通讯客户端，开发始于 2014 年 1 月，并于 2014 年 3 月 24 日公开发布。",
+          "自 2014 年 3 月起，Conversations 采用开源源代码但对编译好的二进制安装包收费的商业模式，成为开发者的主要收入来源。",
+          "来源叙事重点：痛陈应用商店守门人（Google Play）苛刻且不透明的审核机制、低效的人工客服缺位及15%抽成的不合理性，宣告因获得公共基金长期资助而摆脱经济依赖，全面转向开源分发渠道 F-Droid 并实行免费分发。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T10:55:56.000Z",
+            "url": "https://gultsch.de/posts/breaking-up-with-google-play/"
+          }
+        ]
+      },
+      {
+        "id": "story--it-comes-to-ai-c48791cd-01ded5a4b700fb1b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China is playing a different game when it comes to AI",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:30:00.000Z",
+        "pubTime": "2026-09-26 20:30",
+        "url": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Experts say the U.S. and China aren’t in an AI race because they aren’t targeting the same goals.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-26 20:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T12:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nt-to-canada-with-excess-b27d761fa0b6973b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Millions of US berries sent to Canada with excess chemical levels",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T11:41:36.000Z",
+        "pubTime": "2026-09-26 19:41",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wqoelz/millions_of_us_berries_sent_to_canada_with_excess/",
+        "imageUrl": "https://external-preview.redd.it/445IKFJjraL7glTSGEpYExObBvihv6z3qLLL-JdB0ic.jpeg?width=320&crop=smart&auto=webp&s=70ad191a7648790d005fa93c3be6ec055707d577",
+        "fullContent": "submitted by /u/holymolt [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-26 19:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wqoelz/millions_of_us_berries_sent_to_canada_with_excess/",
+            "publishedAt": "2026-09-26T11:41:36.000Z"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-escend-les-champs-lys-es-4a25cd9b9d6c167f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Replay - Le pape Léon XIV descend les Champs-Élysées",
+        "source": "France 24 (FR 官方法语原版)",
+        "sourceSlug": "france24",
+        "sourceLang": "fr",
+        "publishedAt": "2026-09-26T13:03:53.000Z",
+        "pubTime": "2026-09-26 21:03",
+        "url": "https://www.france24.com/fr/vid%C3%A9o/20260926-replay-le-pape-l%C3%A9on-xiv-descend-les-champs-%C3%A9lys%C3%A9es",
+        "imageUrl": "https://s.france24.com/media/display/8e3b35e0-b9aa-11f1-8bbd-852b23529bb9/w:1024/p:16x9/000-C9F82H9.jpg",
+        "fullContent": "Revivez la descente des Champs-Élysées par le pape Léon XIV, avant la messe géante célébrée place de la Concorde devant près de 600 000 fidèles inscrits avec notre journaliste Anne Corpet et notre invitée en plateau, Constance Colonna Cesari, journaliste spécialiste de la papauté.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【France 24 (FR 官方法语原版)】于 2026-09-26 21:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "France 24 (FR 官方法语原版)",
+            "url": "https://www.france24.com/fr/vid%C3%A9o/20260926-replay-le-pape-l%C3%A9on-xiv-descend-les-champs-%C3%A9lys%C3%A9es",
+            "publishedAt": "2026-09-26T13:03:53.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-lectibles-documents-logs-4dd83f4a38c69318",
+        "title": "《控制：共振》是一款出色的游戏——当你读完所有文档时，它会变得更加精彩",
+        "originalTitle": "Control Resonant is a great game — it’s even better when you read everything",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T13:00:00.000Z",
+        "pubTime": "2026-09-26 21:00",
+        "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Story_04.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "In Control Resonant, the entire world is at stake. But that didn’t stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn’t stop me from reading everything I could find, either. Reading is often optional in Resonant, but it’s where some of the game’s best details — and even love stories! — can be found. In the world of Control Resonant and its predecessor, 2019’s Control, the FBC deals with mysterious, otherworldly objects and entities that defy explanation. But the FBC itself is still an old-school bureaucratic agency, and that means tons of (often heavily redacted) reports and memos and miscellaneous bits of paper to sort through. I like reading, and I especially like reading Remedy’s clever and often funny writing, but I was overwhelmed at first by the sheer amount of text. Initially I skipped documents that seemed optional: the enemy logs, which are compiled in a separate tab and unlocked automatically after fighting each enemy type for the first time. I was kind of busy just learning how to get around — I’m not the best at spatial reasoning in general, and gravity doesn’t always matter in Resonant’s M.C. Escher-ified version of Manhattan. I was also too busy beating down the game’s many Hiss and mold enemies to read about them.  [Image: The game’s best documents contain valuable info about the world as well as the personalities of the people in it. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4473.jpg?quality=90&strip=all] But I was having enough trouble with combat early on that I eventually decided to read through the enemy logs I’d unlocked to see if they’d be any help. (There’s an assist mode so you can tweak the combat difficulty, but I was feeling too stubborn to use it. Remedy has since deployed a hotfix to address criticisms of the combat balance.) The logs, compiled by the FBC’s “Threat Assessment Team,” did actually help; they detail each enemy’s attack patterns and weaknesses, which aren’t always easy to figure out when they come at you in large groups. But I was delighted to find that the enemy logs also hide a workplace romantic comedy. The Threat Assessment Team consists of Rick Patel, who documents the Hiss, and Lydia M.B. McPierce, who documents the mold and some later-game enemies. Rick is pretty serious and straightforward, whereas Lydia finds lots of time to talk shit about the mold in between her regular notes. Opposites attract, though. Across dozens of logs, I saw their individual personalities unfold — as well as the beginning of their love story. One of the enemies, the Hiss Transporter, is a city bus that’s been corrupted by the Hiss and sends out drones to attack on its behalf. In his log about it, Rick describes the dynamic between the bus and its drones — which are seemingly once-human Hiss entities fused to bus seats — as “motherly.” Lydia calls him out on this in a separate document about a mold enemy called the Spore Mother. “(For the record, I was not the one who named this one ‘mother,’ that was Rick. I went to therapy and did the work precisely so I wouldn’t feel the urge to do that),” she writes in an aside at the bottom. In another document, Lydia teases Rick, who she’s calling “Ricky” at this point, about beating him at chess and challenges him to a rematch. [Image: Lydia is sassing Rick a little, but she obviously likes how much he cares! https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4465.jpg?quality=90&strip=all] Lydia is one of the best examples in Resonant of how funny Remedy’s writing can be, while Rick is much drier. But he’s also sweet and references Lydia often; in one log, he says that had he realized Lydia had emetophobia, he would’ve offered to trade some responsibilities with her so she could avoid the vomit-like attacks of the mold. (I have emetophobia myself, so I found this especially charming. Good on Ricky.) Then, in a document about a particularly dangerous Hiss variant that he came too close to during his observations, Rick finally lays it all bare: > I could have died. Another close call like that and it might just be the end for me. I don’t want to go without taking a chance on us, Lydia. Remember how we laughed at our ideal dates being the exact opposites of each other, how chaotic a pair we’d make? It doesn’t have to be just a joke. I think we could have something real together, you and I. What do you think? (Don’t worry, you can tell me over coffee what a coward I am for not doing this in person.) I’m not sure if Lydia has actually seen this note, because I’m still missing one singular enemy log. But I know she likes him back. In a late-game document, as the world is really looking doomed, Lydia adds an aside at the bottom: “(Hey Ricky, this is out of left field, but if we actually survive this, wanna grab a coffee sometime?)” Remedy seeds little stories and fun details like these throughout the world of Resonant, not just in written documents. But reading, it turns out, was integral to my experience. I learned how to fight the game’s enemies a little better, and in the process, I was endeared to two characters I never actually met. There’s also a lot more to discover than just office romance — everything from an influencer’s view of Manhattan’s “inception ahh streets” to the FBC’s serious ethics violations — and so much of it enriches Remedy’s fantastically weird world. I’m now determined to track down and kill that last enemy type so I can read Lydia’s final log, and I’m sure I’ll stumble upon some other documents I missed along the way. I can’t wait to see what I find.",
+        "fullTranslation": "在《控制：共振》（Control Resonant）中，整个世界危在旦夕。但这并没有阻止联邦控制局（FBC）勤勉的员工们提交堆积如山的文书，也没有阻止我把能找到的所有资料一网打尽。在《共振》中，阅读通常是可选项，但这正是发现游戏中一些最精彩的细节——甚至是爱情故事！——的地方。\n\n在《控制：共振》及其前作（2019年的《控制》）的世界观里，FBC负责处理那些违背常理解释的神秘超自然物体与实体。但FBC本身仍然是一个老派的官僚机构，这意味着有海量（且往往被大面积涂黑涂抹）的报告、备忘录和零星纸片等待梳理。我本身就喜欢阅读，尤其喜欢读Remedy充满智慧且时常令人捧腹的文字，但起初我还是被这庞大的文本量震慑住了。\n\n起初，我跳过了那些看似可选的文档：也就是敌人日志。这些日志被归档在一个单独的标签页中，每当你首次与某种敌人交手后便会自动解锁。那时我正忙于摸索如何认路——总体而言我的空间思维能力并不算好，而且在《共振》中那个酷似埃舍尔画作般的曼哈顿里，重力并不总是管用。此外，我也太忙于痛击游戏中形形色色的嘶鸣（Hiss）与霉菌（mold）敌人，无暇去阅读关于它们的文字。\n\n[图片说明：游戏中最好的文档既包含关于世界的宝贵信息，也刻画了身处其中之人的个性。]\n\n但在游戏初期，我在战斗中吃尽了苦头，以至于最终下定决心去翻看已解锁的敌人日志，想看看它们是否能有所帮助。（游戏中提供了辅助模式，方便玩家调整战斗难度，但我当时脾气太倔不想用。Remedy后来也发布了热修复补丁来解决玩家对战斗平衡性的批评。）由FBC“威胁评估小组”整理的这些日志确实派上了用场；它们详细记录了每种敌人的攻击模式和弱点，而当敌人成群结队向你扑来时，这些细节通常很难当场看清。\n\n但我惊喜地发现，这些敌人日志里竟然还隐藏着一部职场浪漫喜剧。\n\n威胁评估小组由里克·帕特尔（Rick Patel）和莉迪亚·M·B·麦克皮尔斯（Lydia M.B. McPierce）组成。里克负责记录嘶鸣，而莉迪亚则负责记录霉菌以及一些游戏后期出现的敌人。里克为人相当严肃且直率，而莉迪亚在常规记录之余，则找了大把时间对霉菌大肆吐槽。然而，异性相吸。通过几十篇日志，我见证了他们鲜明个性的展现——以及他们爱情故事的开端。\n\n其中一种敌人名叫“嘶鸣运输车”（Hiss Transporter），那是一辆被嘶鸣腐蚀的城市公交车，它会释放无人机代其进行攻击。在相关的日志中，里克将这辆公交车与无人机（看起来似乎是与车座融为一体的曾经人类的嘶鸣实体）之间的动态关系描述为“母性般的”。莉迪亚在另一份关于名为“孢子之母”的霉菌敌人的文档中当面挑出了这一点。“（郑重声明，给这家伙起名带‘母亲’的不是我，是里克。我做过心理治疗并为此付出了努力，正是为了克制自己产生这种冲动），”她在底部的旁注中写道。在另一份文档中，莉迪亚则拿下棋击败里克的事情打趣他（此时她已经开始称呼他为“小里克”），并向他发起了重赛挑战。\n\n[图片说明：莉迪亚虽然对里克有些出言调侃，但显然很喜欢他对自己的在乎！]\n\n莉迪亚是《共振》中展现Remedy幽默文笔的最佳典范之一，而里克则严肃得多。但他同样温柔体贴，经常提及莉迪亚；在某篇日志中他提到，如果早知道莉迪亚有呕吐恐惧症，他原本会主动要求和她调换一部分工作职责，好让她避开霉菌那些类似呕吐物的攻击。（我自己也有呕吐恐惧症，因此觉得这处细节格外迷人。干得漂亮，小里克。）\n\n随后，在一份关于某种极其危险的嘶鸣变种的文档中（他在观察时靠得太近了），里克终于敞开了心扉：\n\n> 我差点就没命了。要是再来一次这样的险境，我可能就真交代在这儿了。莉迪亚，在还没为你我之间的可能放手一搏之前，我不想就这么死去。还记得我们曾笑谈彼此理想的约会方式完全南辕北辙、凑在一起会是一对多么混乱的组合吗？这未见得只能是个玩笑。我觉得我们两个人之间可以有货真价实的情感。你觉得呢？（别担心，喝咖啡的时候你可以当面骂我是个连这都不敢当面说的懦夫。）\n\n我不知道莉迪亚是否真的看到了这张便条，因为我目前还缺一份特定的敌人日志。但我知道她对他同样怀有好感。在游戏后期的一份文档中，当整个世界眼看真的在劫难逃时，莉迪亚在底部加上了一条旁注：“（嘿，小里克，这可能有点突兀，但如果我们真能挺过这一劫，有空一起喝杯咖啡吗？）”\n\nRemedy在《共振》的世界各处播下了许多像这样的小故事和有趣细节，并不局限于书面文档。但事实证明，阅读构成了我游戏体验不可或缺的一部分。我不仅学会了如何更好地应对游戏中的敌人，在此过程中，我还深深喜欢上了两个从未谋面的角色。除了办公室恋情，这里还有海量的内容等待挖掘——从网红眼中曼哈顿那犹如《盗梦空间》般的怪诞街道，到FBC触目惊心的伦理道德违规行为——所有这一切都极大丰富了Remedy那个奇妙而光怪陆离的世界。我现在下定决心一定要找出并消灭最后一种敌人，这样就能读到莉迪亚的最后一篇日志了，而且我敢肯定在路上还会偶遇其他遗漏的文档。我迫不及待想看看还能发现什么了。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 14,
+        "keyTakeaways": [
+          "《Control Resonant》的前作是2019年发售的《Control》。",
+          "游戏开发商Remedy已发布热修复补丁以解决关于战斗平衡的批评意见。",
+          "来源叙事重点：通过个人游玩体验，阐述《Control Resonant》中收集品与文档（尤其是敌人威胁日志）对丰富世界观、战斗策略辅助以及隐藏职场浪漫叙事的巨大价值，强调Remedy巧妙且富有幽默感的文本叙事功底。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T13:00:00.000Z",
+            "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs"
+          }
+        ]
+      },
+      {
+        "id": "story-n-capital-gains-8568aada-0e795952b98b9d1d",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T13:00:00.000Z",
+        "pubTime": "2026-09-26 21:00",
+        "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-26 21:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T13:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--z-drinking-habits-study-f2b1d23ca26ba639",
+        "title": "研究发现：年轻美国人减少饮酒，而X世代饮酒量却在增加",
+        "originalTitle": "Gen X is drinking more as younger Americans cut back on alcohol, study finds",
+        "source": "The Guardian Society (卫报社会与民生)",
+        "sourceSlug": "guardian",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:00:35.000Z",
+        "pubTime": "2026-09-26 20:00",
+        "url": "https://www.theguardian.com/society/2026/sep/26/gen-x-z-drinking-habits-study",
+        "imageUrl": "https://i.guim.co.uk/img/media/119efa376e78efffe84d8cc1244179a92ac12a8e/466_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=544a72d5ac047fb06c940ffc159f4eeb",
+        "fullContent": "While younger generations are drinking less, adults aged 50 to 64 are drinking more, causing a shift reshaping the US bar scene\n\nAlcohol consumption has decreased across the United States in recent years, particularly among adults under age 40, but there is one older demographic in which more people are drinking than before the Covid-19 pandemic – and more are doing so heavily, according to a new study.\n\nFor the first time since before the pandemic, the percentage of US adults who drink any alcohol decreased between 2022 and 2024, according to the report in the journal Annals of Internal Medicine. People from 50 to 64, which roughly corresponds with gen X, were the only age group in which drinking continued to increase.",
+        "fullTranslation": "在年轻一代饮酒量减少的同时，50至64岁的成年人饮酒量却在增加，这一转变正在重塑美国的酒吧消费格局。\n\n一项新研究显示，近年来全美范围内的酒精消费量普遍下降，尤其是在40岁以下的成年人中；然而，有一个较年长的群体饮酒人数比新冠疫情前还要多，并且重度饮酒的人数也在增加。\n\n根据发表在《内科学年鉴》（Annals of Internal Medicine）期刊上的报告，自疫情暴发前以来，2022年至2024年间，有饮酒习惯的美国成年人比例首次出现下降。而大致对应于X世代的50至64岁人群，是唯一一个饮酒率仍在持续上升的年龄段。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 3,
+        "keyTakeaways": [
+          "近年来全美酒精消费量整体下降，尤其是40岁以下成年人群体。",
+          "在2022年至2024年间，饮用任何酒精饮品的美国成年人比例自新冠疫情前以来首次出现下降。",
+          "来源叙事重点：聚焦代际饮酒行为分化，强调年轻群体减少饮酒的同时，50至64岁（X世代）人群饮酒及重度饮酒反常增加，并将其延伸为可能正在重塑美国酒吧业态的社会趋势"
+        ],
+        "citations": [
+          {
+            "source": "The Guardian Society (卫报社会与民生)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T12:00:35.000Z",
+            "url": "https://www.theguardian.com/society/2026/sep/26/gen-x-z-drinking-habits-study"
+          }
+        ]
+      },
+      {
+        "id": "story-ssed-cells-survival-html-987fe411481f864e",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Molecular 'self-destruct' switch discovered: How stressed cells decide between survival and death",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:00:07.000Z",
+        "pubTime": "2026-09-26 20:00",
+        "url": "https://phys.org/news/2026-09-molecular-destruct-stressed-cells-survival.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-self-destruc.jpg",
+        "fullContent": "A new study from Ben-Gurion University of the Negev (BGU) has identified a molecular switch that controls whether stressed human cells activate a survival mechanism or trigger programmed cell death (apoptosis). The findings, published in Redox Biology, provide insights that could help overcome chemotherapy resistance in aggressive tumors.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-26 20:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-molecular-destruct-stressed-cells-survival.html",
+            "publishedAt": "2026-09-26T12:00:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-odrostki-2120441500-html-dac264fcff3a1c9f",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Суд на Урале поместил под домашний арест подростков, избивших прохожего",
+        "source": "RIA Novosti (俄新社官方俄文)",
+        "sourceSlug": "ria",
+        "sourceLang": "ru",
+        "publishedAt": "2026-09-26T13:03:16.000Z",
+        "pubTime": "2026-09-26 21:03",
+        "url": "https://ria.ru/20260926/podrostki-2120441500.html",
+        "imageUrl": "https://cdnn21.imgria.ru/images/07e5/09/0f/1750138064_0:320:3072:2048_650x0_80_0_0_ab1e6b8ccec3e51db740ba452ab744e3.jpg",
+        "fullContent": "",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "missing",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 0,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【RIA Novosti (俄新社官方俄文)】于 2026-09-26 21:03 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "RIA Novosti (俄新社官方俄文)",
+            "url": "https://ria.ru/20260926/podrostki-2120441500.html",
+            "publishedAt": "2026-09-26T13:03:16.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ation-scalping-resellers-84dd219b9dbd645c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Pokémon card resellers have turned collecting into an online blood sport",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:00:00.000Z",
+        "pubTime": "2026-09-26 20:00",
+        "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268781_Pokemon_PARKIN_v3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not to be mad. But they were; other creators claimed that cards Roush had purchased were stolen from the manufacturer and mocked her for trying to sell them at exorbitant prices. The Roush situation was a high-profile example of the way Pokémon card collecting culture has been upended by the influencer economy and people trying to profit off the hobby. Though Roush has been relatively quiet in the days since the blowup, Pokémon collectors have been up in arms over a different — but very much related — problem. When the Pokémon Trading Card Game’s long-awaited 30th Celebration set finally released last week, collectors across the country lined up outside of stores in hopes of getting their hands on some shiny pieces of cardboard. The anniversary set has unusually strong pull rates — the rate at which you’re likely to find rare “chase” cards in a given set — giving more fans the cards they’ve always dreamed of, and potentially upsetting the aftermarket Poké-conomy. Some diehard Poké-fans even camped out overnight because a resurgence in popularity has made the cards much more difficult to find and buy in person. But another group of Pokémon card hunters was able to secure the highly sought-after set without having to travel to physical retailers or navigate the online Pokémon Center.  [Media: https://www.youtube.com/watch?v=05w9UVH6zoQ] Those people — resellers who often use automated bots to buy dozens of boxes of cards as soon as they’re available for preorder online — might not have had any intention of collecting the 30th Celebration set for themselves. But they have been trying to offload their spoils at marked-up prices to fans who haven’t had a chance to buy cards for themselves. Most retailers can’t keep cards on shelves, but there are plenty of videos online of resellers showing off piles of product they were able to obtain either by placing orders with bots or using inventory checking programs that alert them when brick-and-mortar stores receive stock. It’s also easy to find footage of resellers getting into altercations over cards, and in one recent instance, a 72-year-old man was arrested and charged with a first-degree misdemeanor for tracking a Pokémon delivery worker’s location with a device secretly planted in her car. Though flipping trading cards is nothing new, the Pokémon reselling economy has gotten much bigger in recent years as people have taken note of how durable the franchise’s popularity is. Many resellers like BotterBoyNova started off with other kinds of valuable merchandise before realizing that Pokémon products can be sold for far beyond the manufacturer’s suggested retail price, or MSRP. When I spoke with Nova recently, he told me that — like many millennials — he’s been a Pokémon fan since the mid-’90s. Nova was originally a content creator whose videos were mostly focused on reselling sneakers, but seeing how easy it was to profit from reselling Pokémon products convinced him that he needed to get in on the action. “Resellers in what’s described as the ‘Sneaker Twitter’ space are tapped in with practically every category of collectible that can resell for a profit,” Nova explained to me via Discord. “It’s not a situation where I’m singling out the Pokémon card market. It just so happens that it’s highly profitable and difficult to purchase for MSRP, and those are the conditions that our community specializes in.” [Media: https://www.youtube.com/watch?v=qFZptvE-tv0] Rather than operating independently, Nova works with Polar Chefs — a “cook group” community that sells monthly subscriptions to a variety of reseller tools and services. Subscriptions range from $660 per year to $75 per month, and they come with access to Polar Chefs’ private Discord server, restock alerts, and a selection of bots that can be used to buy cards. These bots make it easy for people to create multiple accounts on retailers’ websites that are attached to virtual credit cards, while the buyer’s IP address is spoofed with proxies. Technically, this kind of process isn’t illegal — at least not yet; Congress outlawed concert ticket-focused bots in 2016 and lawmakers have proposed doing the same for retail bots. But it does violate most retailers’ terms of service, which is why some resellers’ orders are canceled. Using Polar Chefs’ tools, Nova has been able to purchase massive amounts of Pokémon cards at MSRP from various retailers without being blocked by websites’ anti-bot security measures. Nova described his process of securing cards with bots as being “almost completely hands free,” and explained that the real work doesn’t begin until he has to sort and sell his inventory to a couple of bulk buyers. “During most weeks, I spend less than 3-5 hours a week on the reselling side of things (setting up bots, buying inventory, selling and fulfilling inventory),” Nova said, noting that he’s commonly asleep while pre-programmed bots make purchases for him. “I wait for notifications to come in from Polar Chefs which inform me of releases, bot adjustments I need to make, etc.” Though it is difficult to pinpoint exactly when Pokémon reselling really exploded in the past few years, the rise of groups like Polar Chefs feels reflective of the way that the creator economy evolved during the covid-19 pandemic. Resellers like Nova are influencers whose videos are designed to sell people on the idea that they could also be making money by flipping cards at scale. And monetized cook groups are prime examples of how online hustle culture has become more focused on the sale of how-to guides and courses for practices that can be seen as morally suspect. [Image: PASADENA, CALIFORNIA – SEPTEMBER 16: Pokémon card collectors wait in line outside a Best Buy store for a chance to purchase the new 30th Celebration set on September 16, 2026 in Pasadena, California. https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295635860.jpg?quality=90&strip=all] There’s an argument to be made that the scarcity created by resellers is part of what has driven the popularity of platforms like Whatnot — an online marketplace where people can pay for things like sealed Pokémon products, which are then opened on livestreams by the seller before they’re sent to the buyer. Many Whatnot streamers present themselves as entrepreneurs who are providing their audiences with a helpful service while also entertaining them. But the platform has been accused of operating more like an illegal gambling operation, and there is an entire ecosystem of creators whose content documents Whatnot streamers scamming their customers. But with the 30th Celebration packs flooding the market with rare cards, the scammers could be out of luck. Over the past week, X and Reddit have been inundated with screenshots from unnamed Discord servers where people claiming to be resellers appear to be melting down over not being able to sell their overpriced cards. One of the more widely circulated images features a person insisting that resellers are “the people that actually ensure [The Pokémon Company] makes money,” while complaining that “there’s literally no value in these sets because everyone can pull the rare bullshit.” In another, a reseller says they are filing a class action lawsuit against The Pokémon Company “for independent vendors who suffered severe financial asset devaluation due to artificial market saturation.” [Media: https://www.youtube.com/watch?v=9S-w9kQ4vI8] The absurdity of these posts suggests that they might have been written by people making fun of actual resellers, as does the fact that while searching Discord I found some posts that use the exact same wording. Those posters might have just been looking for attention, but the state of the larger reselling economy does seem to be having a negative impact on Pokémon cards’ availability. Even though The Pokémon Company is printing more cards than ever, almost everything about the modern aftermarket economy has made it harder for ordinary people — especially children — to participate in the hobby. Nova told me that he thinks casual collectors who just want to pull cool cards for themselves are completely justified in feeling that resellers are making Pokémon less accessible. He also believes that collectors whose interest in the cards is “incentivized by monetary gain” are hypocrites for taking issue with resellers. Aside from actually playing with them, the real fun of Pokémon cards is in the hunt and delight when you’re able to find a pack that shocks you with its contents. It’s an experience everyone’s supposed to be able to enjoy, but it’s being ruined by hustlers.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "宝可梦卡牌创作者 Natalie Roush 在其 YouTube 和 Instagram 发布视频展示两盒未正式发售的高级卡牌包，引发社区愤怒后删除了该视频。",
+          "宝可梦集换式卡牌游戏（Pokémon Trading Card Game）的“30th Celebration”系列卡牌正式发售，其出卡率（pull rates）异常高。",
+          "来源叙事重点：探讨宝可梦卡牌转售（黄牛）产业链的专业化与自动化，揭示‘cook group’与自动化抢购机器人如何破坏普通玩家与儿童的集卡体验，并剖析新发售高出卡率卡牌对转售溢价市场的潜在冲击与社区反响。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T12:00:00.000Z",
+            "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers"
+          }
+        ]
+      },
+      {
+        "id": "story-e-40b5-8a7a-ef33f302e652-8cde79f9b0790c60",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Manchester City verdict poses fresh test to UK-UAE relations",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:34:15.000Z",
+        "pubTime": "2026-09-26 20:34",
+        "url": "https://www.ft.com/content/36fd2644-9d0e-40b5-8a7a-ef33f302e652?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43d10fa1-1ddf-41df-97d7-2c1c4f0fe719.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Successive British governments have sought to shore up diplomatic ties with Abu Dhabi in a bid to lure investment",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-26 20:34 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/36fd2644-9d0e-40b5-8a7a-ef33f302e652?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-26T12:34:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--server-for-benchmarking-dae3d53b7cb6ad39",
+        "title": "调优服务器以进行基准测试",
+        "originalTitle": "Tuning a Server for Benchmarking",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T11:48:40.000Z",
+        "pubTime": "2026-09-26 19:48",
+        "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+        "imageUrl": null,
+        "fullContent": "Optimizing code starts with measuring it, and a measurement is only useful if it is repeatable: a 2% improvement is invisible under 5% of noise. Yet on an untuned machine the same binary can easily run several percent faster or slower between runs. In this post we take a tiny benchmark and tune the machine step by step, re-measuring after every change, until runs become deterministic.1 1 Note that tuning for benchmarking is not the same as tuning for performance: a benchmark wants the machine repeatable, even at the cost of some peak speed. A production box, however, wants every last bit of speed.\n\nOur running example sums an array of doubles, in short bursts. Real services rarely hammer the CPU continuously: they handle a request, sit idle, and wake up for the next one. Each timed iteration here runs a burst of 256 sums after a 2 ms idle gap, with the gap excluded from the measurement2 2 PauseTiming / ResumeTiming keep the sleep out of the measured time, and DoNotOptimize keeps the result alive past the optimizer; without it the compiler deletes the entire loop.\n\nCompile it in release with all optimizations, -O3, and -march=native -mtune=native -flto -ffast-math. Then run ten repetitions and aggregate them\n\nThe interesting line is cv, the coefficient of variation: standard deviation divided by mean. Almost 3% of run-to-run noise—any optimization smaller than that is invisible. Let’s bring it down.\n\nBefore turning any knob, look at what you are tuning. lstopo draws the whole machine in one picture: caches, cores, SMT pairs, and the PCIe devices hanging off them. Start with my laptop\n\nFigure 1: My laptop (Intel Core Ultra 5 135U). Three kinds of cores: two P-cores with two hardware threads each (dotted), eight E-cores in clusters of four sharing an L2, and two low-power E-cores (bottom left) sitting outside the L3 entirely.\n\nHere the choice of core changes what you measure: land on CPU 4 and you get an E-core at lower clocks; on CPU 12 you lose the L3 too. Now compare that against my homelab server\n\nFigure 2: My homelab server (AMD Ryzen 7 PRO 8700GE). Eight identical cores with identical caches; the NVMe drives and the NIC hang off PCIe on the right.\n\nOn the server every core is as good as any other: homogeneous machines make better benchmarking boxes. The PCIe side matters once a benchmark touches I/O: it shows which NVMe or NIC you are exercising and, on multi-socket machines, which NUMA node it hangs off.\n\nThe scheduler is free to migrate the benchmark between cores, and every migration throws away warm caches. On hybrid CPUs it’s worse: performance and efficiency cores run the same code at very different speeds, so results turn bimodal depending on where the process lands. Pin the benchmark to a single core (on hybrid parts, a P-core)\n\nThe mean falls to 55.3 µs and the CV better than halves, to 1.06%. The win is bigger than migration costs alone would suggest: every burst now wakes the same core, so that core’s clock never has time to sag between bursts.3 3 Pinning puts the benchmark onto the core but does not keep other tasks off it. On a busy box, go further and reserve the core for the benchmark alone, either on the kernel command line (isolcpus=2 nohz_full=2 rcu_nocbs=2) or at runtime with a cpuset cgroup.\n\nBy default Linux scales the CPU frequency with load, so the benchmark starts on a cold, slow clock and finishes on a hot, fast one. Switch the frequency governor to performance to keep clocks locked high\n\nand verify it took effect\n\nRe-measuring gives a mean of 54.9 µs and a CV of 0.79%. The increment looks modest only because pinning already kept our core’s clock warm: on its own, the performance governor takes the unpinned baseline from 99.6 µs straight to 54.5 µs. Either way, no burst ever wakes up on a cold clock again.\n\nCPU still shares its execution units and L1/L2 caches with its SMT sibling: anything the scheduler places there perturbs our measurement. Disable SMT entirely\n\nThe CV drops to 0.26%, three times better: the core now has its execution units and caches all to itself.\n\nEven with the performance governor, turbo frequencies vary with temperature and power budget: the same run on a warm machine clocks lower than on a cool one. Disable turbo for stable clocks\n\nOn this machine nothing changes, since our short bursts never gave the silicon time to boost anyway. On a machine where turbo does engage, expect the mean to climb instead: you are giving up peak performance. That trade is fine, since when optimizing we care about relative numbers, and those are now comparable across runs.4 4 Low-latency production tuning makes the opposite call and keeps turbo on: there, every nanosecond counts. The most latency-sensitive trading shops go further and run overclocked servers, locked at a fixed all-core frequency above stock—speed and stable clocks, bought with better cooling.\n\nHere is the whole journey in one table, each row adding one change on top of all the previous ones. We went from almost 3% of noise down to 0.26%, and got 1.8x faster along the way; differences of half a percent are now real, measurable signal.5 5 Feel free to reproduce on your machine using the benchmark from my CppPlayground repository.\n\nOn busier machines there is a longer tail of knobs worth trying: disabling address space layout randomization, the NMI watchdog, or transparent huge pages. The bench-remote.sh script applies all. None of it survives a reboot, which is exactly what you want: tune, measure, and reboot back to a normal machine.\n\nLong live reproducible benchmarks!\n\nMy mailing list is free, occasional, and covers a variety of topics. I will never sell or share your email address.\n\nHave feedback? Email me at david@alvarezrosa.com.",
+        "fullTranslation": "优化代码始于对其进行测量，而测量只有在具备可重复性时才有意义：在 5% 的噪声干扰下，2% 的提升是根本看不出来的。然而在未调优的机器上，相同的二进制程序在多次运行之间很容易出现几个百分点的速度浮动。在本文中，我们采用一个微型基准测试，一步步对机器进行调优，并在每次更改后重新测量，直到运行结果变得具备确定性。1 1 请注意，针对基准测试的调优与针对性能的调优不同：基准测试要求机器具备可重复性，即使以牺牲部分峰值速度为代价。然而，生产环境机器则追求榨干每一分极致速度。\n\n我们的示例以短突发方式对双精度浮点数数组求和。实际服务很少会持续压满 CPU：它们处理一个请求，进入空闲，然后再被唤醒处理下一个。这里的每个计时迭代都在 2 毫秒的空闲间隔后执行一次 256 次求和的突发操作，该空闲间隔不计入测量时间2 2 PauseTiming / ResumeTiming 用于将休眠排除在测量时间之外，而 DoNotOptimize 用于防止优化器消除结果；如果没有它，编译器会删掉整个循环。\n\n在发布模式下使用全部优化编译它：-O3，以及 -march=native -mtune=native -flto -ffast-math。然后运行十次重复并汇总结果。\n\n最值得关注的一行是 cv（变异系数）：标准差除以均值。接近 3% 的批次间噪声——任何小于该幅度的优化都将无法察觉。让我们把它降下来。\n\n在调整任何参数之前，先看看你在调优什么。lstopo 可以将整台机器呈现在一张图中：缓存、核心、SMT 配对，以及挂载在它们之上的 PCIe 设备。先从我的笔记本电脑看起：\n\n图 1：我的笔记本电脑（Intel Core Ultra 5 135U）。三种核心：两个性能核（P-core），各带两个硬件线程（点状虚线）；八个能效核（E-core），以四个一组共享 L2 缓存；以及两个低功耗能效核（左下角），完全位于 L3 缓存之外。\n\n在这里，核心的选择会直接改变你的测量结果：落在 CPU 4 上，你会得到一个时钟频率较低的能效核；落在 CPU 12 上，你甚至还会失去 L3 缓存。现在将其与我的家庭实验室服务器进行对比：\n\n图 2：我的家庭实验室服务器（AMD Ryzen 7 PRO 8700GE）。八个完全相同的核心，配备完全相同的缓存；NVMe 硬盘和网卡（NIC）挂载在右侧的 PCIe 上。\n\n在服务器上，每个核心都完全一致：同构机器是更好的基准测试平台。一旦基准测试涉及 I/O，PCIe 侧就变得至关重要：它展示了你正在使用哪个 NVMe 或网卡，以及在多插槽机器上它挂载在哪个 NUMA 节点下。\n\n调度器可以自由地在核心之间迁移基准测试任务，而每一次迁移都会丢弃预热好的缓存。在混合架构 CPU 上情况更糟：性能核与能效核运行相同代码的速度大相径庭，因此结果会因进程落点的不同而呈现双峰分布。将基准测试绑定到单个核心（在混合架构上绑定到性能核）：\n\n均值下降到 55.3 µs，变异系数（CV）降幅超过一半，来到 1.06%。这一收益比单纯的迁移成本所体现的还要大：现在每次突发都会唤醒同一个核心，因此该核心的时钟频率在各次突发之间根本没有时间回落。3 3 核心绑定将基准测试固定在核心上，但并未阻止其他任务使用该核心。在繁忙的机器上，可以更进一步，仅为基准测试保留该核心，可以通过内核命令行（isolcpus=2 nohz_full=2 rcu_nocbs=2），也可以在运行时通过 cpuset cgroup 来实现。\n\n默认情况下，Linux 会随负载动态调节 CPU 频率，因此基准测试会在较冷的低频状态下启动，而在较热的高频状态下结束。将频率调节器（frequency governor）切换为 performance 模式以将频率锁定在高位：\n\n并验证其是否生效：\n\n重新测量得出的均值为 54.9 µs，CV 为 0.79%。这一增益看似不大，只是因为核心绑定已经让我们的核心时钟保持在温热状态：单独使用 performance 调节器，就能将未绑定的基线从 99.6 µs 直接拉升到 54.5 µs。无论哪种方式，突发都不会再在冷时钟下被唤醒。\n\nCPU 仍然与其 SMT 同胞核心共享执行单元和 L1/L2 缓存：调度器放置在那里的任何任务都会干扰我们的测量。完全禁用 SMT：\n\nCV 降至 0.26%，改善了三倍：该核心现在完全独占其执行单元和缓存。\n\n即使使用了 performance 调节器，睿频频率也会随温度和功率预算而波动：同一程序在温热机器上的运行频率要低于冷机器。禁用睿频以获得稳定的时钟频率：\n\n在这台机器上没有任何变化，因为我们的短突发本来就没有给芯片足够的时间来提升睿频。在睿频确实生效的机器上，均值反而预计会上升：你放弃了峰值性能。这种权衡完全可以接受，因为在进行优化时我们关注的是相对数值，而这些数值现在在多次运行之间具备了可比性。4 4 低延迟生产环境调优则做出截然相反的抉择并保持睿频开启：在那里，每一纳秒都至关重要。对延迟最敏感的量化交易机构甚至更进一步，运行超频服务器，锁定在高于出厂规格的固定全核频率上——通过更强的散热来换取速度与稳定的时钟。\n\n以下表格展示了整个过程，每一行都在之前所有更改的基础上增加一项变动。我们把噪声从接近 3% 降低到了 0.26%，同时整体速度提升了 1.8 倍；半个百分点的差异现在变成了真实、可测量的有效信号。5 5 欢迎使用我 CppPlayground 仓库中的基准测试在你的机器上进行复现。\n\n在更繁忙的机器上，还有一系列长尾参数值得尝试：禁用地址空间布局随机化（ASLR）、不可屏蔽中断看门狗（NMI watchdog）或透明大页（transparent huge pages）。bench-remote.sh 脚本应用了所有这些设置。重启后没有任何配置会被保留，但这正是你想要的：调优、测量，然后重启恢复成一台普通机器。\n\n可重复的基准测试万岁！\n\n我的邮件列表完全免费，不定期发送，涵盖多种主题。我绝不会出售或分享你的邮箱地址。\n\n有反馈建议？请发送邮件至 david@alvarezrosa.com。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 23,
+        "translationParagraphs": 23,
+        "keyTakeaways": [
+          "在未调优的机器上，相同的二进制程序在多次运行之间运行速度容易出现百分之几的波动，初始测试中运行间噪声（变异系数 CV）接近 3%。",
+          "作者的笔记本电脑搭载 Intel Core Ultra 5 135U 处理器，包含三种核心：2 个性能核（带双硬件线程）、8 个能效核（每 4 个一组共享 L2 缓存）、2 个完全位于 L3 缓存外部的低功耗能效核。",
+          "来源叙事重点：通过逐步调优硬件拓扑与 Linux 内核配置（核心绑定、锁定 performance 调频器、禁用 SMT 及 Turbo 睿频），消除系统运行噪音，将变异系数从近 3% 压低至 0.26%，以实现高可复现性（deterministic）的基准测试环境。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T11:48:40.000Z",
+            "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/"
+          }
+        ]
+      },
+      {
+        "id": "story-ntly-boost-students-html-a8c553c5560fa5d1",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Digital textbooks significantly boost students' intrinsic learning motivation",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:00:05.000Z",
+        "pubTime": "2026-09-26 20:00",
+        "url": "https://phys.org/news/2026-09-digital-textbooks-significantly-boost-students.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2025/online-college-student.jpg",
+        "fullContent": "A research team from The Education University of Hong Kong (EdUHK) and East China Normal University (ECNU) has published a meta-analysis demonstrating the impact of digital textbooks (DTs) on student motivation. Synthesizing 27 experimental and quasi-experimental studies conducted between 2000 and 2024 with 3,590 participants, the study confirms that DTs significantly enhance students' intrinsic learning motivation compared with traditional paper textbooks.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-26 20:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-digital-textbooks-significantly-boost-students.html",
+            "publishedAt": "2026-09-26T12:00:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story--rich-bashing-capitalism-640e83687d44e754",
+        "title": "经济学家痛批美国社会主义精英：抨击资本主义反而让他们发了大财",
+        "originalTitle": "Economist calls out America’s socialist elite, says they got rich bashing capitalism",
+        "source": "FOX News Latest (美国FOX快讯)",
+        "sourceSlug": "fox",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T13:00:45.000Z",
+        "pubTime": "2026-09-26 21:00",
+        "url": "https://www.foxnews.com/media/economist-calls-out-americas-socialist-elite-says-they-got-rich-bashing-capitalism",
+        "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/hasan-piker-feb-3-2026.jpg?ve=1&tl=1",
+        "fullContent": "Socialist and progressive figures have found a lucrative platform attacking capitalism, according to economist Stephen Moore, who says they have grown wealthy inside the free-market system they want to overhaul.\n\nMoore, a former senior economic adviser to President Trump, told Fox News Digital in an interview that the United States is uniquely positioned to reward people who criticize capitalism.\n\nHe said public figures, including Sen. Bernie Sanders and online political commentator Hasan Piker , have benefited from the wealth and opportunities created by the American economy while advocating socialist policies.\n\nDSA-BACKED CANDIDATES ARE WINNING PRIMARIES AND THEIR VISION FOR AMERICA IS VERY DIFFERENT\n\n\"There's no country in the world where you can get rich off of attacking free market capitalism better than in the United States,\" Moore told Fox Digital. \"And so you have dozens of these prominent voices in the socialist movement on the Democratic side who actually are rich, millionaires or more, and they attack the very system that made them rich in the first place.\"\n\nMoore said a recent USA Today opinion piece made a similar argument. The story was titled \"Hasan Piker's luxury lifestyle isn't what Marx had in mind.\"\n\nSOCIALIST BIGWIG BLASTS THE WEALTHY WHILE LIVING IN $1.4M BROOKLYN BROWNSTONE WITH EYEBROW-RAISING BACKSTORY\n\nIt read in part, \"America's loudest democratic socialists have a problem: Many of them are too rich. Hasan Piker, Sen. Bernie Sanders, I-Vermont, Sen. Elizabeth Warren , D-Massachusetts, and an entire class of young socialist influencers are all extremely wealthy. Yet even though their wealth was acquired through a capitalist system they see as immoral, they give very little of it away.\"\n\n\"It is remarkable how many of these leading, so-called advocates of socialism have come from rich families or have gotten rich on capitalism themselves,\" Moore said. \"So even people like Bernie Sanders are wondering whether there's a degree of hypocrisy here. I mean, there's a reason why just about everybody in the world wants to come to the United States. It's not because we have socialism, it's because we have free market capitalism.\"\n\nTHE DSA’S DANGEROUS FINE PRINT. THEY'RE COMING FOR MILLIONAIRES (AND YOU)\n\nMoore also questioned whether wealthy advocates of wealth redistribution should voluntarily give up more of their own assets and challenged progressive leaders to explain why they continue to benefit from capitalism while criticizing it.\n\n\"I think the capital H is for hypocrisy here, and if these people really believed and share the wealth policies that they keep espousing, maybe they could start with themselves,\" Moore said. \"Maybe they could sell some of these assets and give the money to the poor, but it turns out, by the way, that liberal socialists tend to be the least generous in terms of charitable giving. There was a very famous book on this. So it turns out that free market capitalists tend to be very generous in sharing their wealth, but not so much so democratic socialists.\"\n\nDEPROGRAMMED: FORMER DSA INSIDER REVEALS ‘FRIGHTENING’ SOCIALIST AGENDA DROVE HIM FROM ‘EXTREME’ IDEOLOGY\n\nThe economist said some socialists try to conceal their wealth to appeal more to the public.\n\n\"They try to hide their wealth from Americans so they can pretend like they are working-class people,\" Moore said. \"But if you look at the people who are really at the head of the democratic socialist movement and the people who are spending a lot of money, those tend to be very rich people themselves. This is, as I said before, this is the only country where you can get rich off of attacking the free market capitalism system, which really creates the wealth in the United States in the first place. It's the reason why so many people come to this country from socialist countries and they get here and they say they don't understand why anyone would want to have more socialism in America when they've seen it fail in their own country.\"\n\nFox News Digital reached out to Piker, Sanders and Sen. Elizabeth Warren for comment.",
+        "fullTranslation": "经济学家斯蒂芬·摩尔（Stephen Moore）表示，社会主义和进步派人物发现了一条通过抨击资本主义来牟利的捷径，他们恰恰是在自己想要彻底改革的自由市场体系中发家致富的。\n\n摩尔曾担任特朗普总统的高级经济顾问，他在接受福克斯新闻数字频道（Fox News Digital）采访时表示，美国处于一种独特的境地，能够为批评资本主义的人带来丰厚回报。\n\n他指出，包括参议员伯尼·桑德斯（Bernie Sanders）和网络政治评论员哈桑·派克（Hasan Piker）在内的公众人物，一边倡导社会主义政策，一边从美国经济创造的财富和机遇中获益。\n\n【相关阅读：美国民主社会主义者支持的候选人正在赢得初选，他们对美国的愿景大相径庭】\n\n“世界上没有哪个国家能像美国这样，通过抨击自由市场资本主义而发家致富，”摩尔对福克斯数字频道表示，“因此，民主党阵营内部的社会主义运动中涌现出了数十位知名代表，他们实际上本身就是富豪、百万富翁甚至更富有的人，他们一边攻击这个体系，一边却正是依靠这个体系才发了大财。”\n\n摩尔提到，《今日美国》（USA Today）最近发表的一篇评论文章也提出了类似的观点。该文章的标题是《哈桑·派克的奢华生活方式绝非马克思所设想的那样》。\n\n【相关阅读：社会主义要员抨击富人，自己却住在一栋价值140万美元且背景引人遐想的布鲁克林赤褐色联排别墅中】\n\n该文部分写道：“美国声量最大的民主社会主义者面临一个问题：他们中许多人太富有了。哈桑·派克、佛蒙特州独立参议员伯尼·桑德斯、马萨诸塞州民主党参议员伊丽莎白·沃伦（Elizabeth Warren），以及整整一代年轻的社会主义网红，全都极其富有。然而，尽管他们的财富是通过他们认为‘不道德’的资本主义体系获得的，他们却几乎没有捐赠出多少财富。”\n\n“令人瞩目的是，这些所谓的社会主义领军倡导者中，竟有如此多的人要么出身于富裕家庭，要么依靠资本主义让自己致富，”摩尔说，“因此，连伯尼·桑德斯这样的人也会引人怀疑这里面是否存在某种程度的虚伪。我的意思是，全世界几乎所有人都想来到美国是有原因的。这不是因为我们搞社会主义，而是因为我们拥有自由市场资本主义。”\n\n【相关阅读：美国民主社会主义者的危险细则：他们盯上了百万富翁（还有你）】\n\n摩尔还质疑这些腰缠万贯的财富再分配倡导者是否应该自愿捐出更多自己的资产，并要求进步派领导人解释为什么他们一边批评资本主义，一边又继续从中获益。\n\n“我认为这里的核心就是大写的‘虚伪’（Hypocrisy），如果这些人真的相信并认同他们一直在宣扬的‘共享财富’政策，也许他们可以先从自己做起，”摩尔说，“也许他们可以卖掉其中一些资产并把钱分给穷人。但顺便说一句，事实证明，自由派社会主义者在慈善捐赠方面往往是最不慷慨的。曾有一本非常著名的书专门阐述过这一点。事实证明，自由市场资本家在分享财富方面往往非常慷慨，而民主社会主义者却远非如此。”\n\n【相关阅读：思想转变：前美国民主社会主义者内部人士揭露‘令人恐惧’的社会主义议程如何促使他脱离‘极端’意识形态】\n\n这位经济学家表示，一些社会主义者试图隐瞒自己的财富，以对公众更具吸引力。\n\n“他们试图向美国人隐瞒自己的财富，以便伪装成工人阶级的一员，”摩尔说，“但如果你去看看那些真正领导民主社会主义运动的人，以及那些大肆挥霍资金的人，他们自己往往都非常富有。正如我之前所说，这是唯一一个你可以通过抨击自由市场资本主义体系而致富的国家，而这个体系从一开始就正是美国财富的真正创造者。这就是为什么有这么多人从社会主义国家来到这里，他们到达这里后会说，他们无法理解为什么会有人想在美国推行更多社会主义，因为他们已经在自己的祖国亲眼目睹了社会主义的失败。”\n\n福克斯新闻数字频道已联系派克、桑德斯和参议员伊丽莎白·沃伦置评。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 16,
+        "keyTakeaways": [
+          "经济学家斯蒂芬·摩尔在接受福克斯新闻数字频道采访时批评社会主义及进步派人士，称其在资本主义制度下致富却抨击该制度。",
+          "斯蒂芬·摩尔曾担任特朗普总统的高级经济顾问。",
+          "来源叙事重点：聚焦保守派经济学家斯蒂芬·摩尔对民主社会主义与进步派代表人物（如桑德斯、沃伦、哈桑·皮克）的指责，构建‘社会主义精英伪善’的叙事框架，强调他们依靠资本主义制度和反资本主义言论致富、过着奢华生活却不愿主动分担财富。"
+        ],
+        "citations": [
+          {
+            "source": "FOX News Latest (美国FOX快讯)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T13:00:45.000Z",
+            "url": "https://www.foxnews.com/media/economist-calls-out-americas-socialist-elite-says-they-got-rich-bashing-capitalism"
+          }
+        ]
+      },
+      {
+        "id": "story-king-up-with-google-play-fef3d86a310799ac",
+        "title": "与 Google Play 分道扬镳：为何 Conversations 现已免费",
+        "originalTitle": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "source": "Hacker News (科技前沿论坛)",
+        "sourceSlug": "hackernews",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T10:55:56.000Z",
+        "pubTime": "2026-09-26 18:55",
+        "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "imageUrl": null,
+        "fullContent": "Conversations, my federated instant messaging client for Android, started out as many traditional open-source projects do: as an attempt to scratch my own itch. Development started in January 2014 in my student dormitory, and within weeks I started dogfooding and using the client as the primary means of communicating with my friends. However, when it came to releasing the app to the public on March 24, 2014—exactly twelve and a half years ago today—it was immediately clear to me that I would at least try to turn my open-source project into a business. While I didn’t invent the business model of making the source code publicly available but charging for the convenience of a compiled binary, it was certainly unusual in 2014.\n\nFast forward a decade, and I did manage to turn Conversations into a sustainable business. Ever since March 2014, Conversations—or other related activities—have been my primary source of income. Admittedly, sustaining life as a student in a tiny dormitory doesn’t take much, but luckily revenue has steadily increased as I grew older.\n\nThe exact sources of income have shifted over the years. In the beginning, it was a lot of paid development for companies that wanted to use Conversations. Some paid for features that made it into mainline Conversations; others wanted custom features so specific to their workflow that they never made sense to merge upstream. This was occasionally supplemented with providing server setup or even some consulting on instant messaging and security-related topics. Later on, grants and funding opportunities played a more and more important role.\n\nOne surprisingly steady source of income, however, has always been the Play Store revenue. I used to say that it pays my rent. Every freelancer knows the feeling of uncertainty that comes with only being able to send out invoices every few months or receiving payment for funded projects only at the end of the funding period. Any form of regular income—especially in the early stages, when you have not yet built up any savings—is a blessing.\n\nGross revenue of Conversations 2014-2026 (before Google’s fee and sales tax)\n\nMy relationship with Google was never good. App updates have been rejected more times than I can count for incomprehensible reasons. Conversations has been removed twice from the Play Store. Once, Google just randomly accused me of uploading users’ contacts1—which simply wasn’t true and was also not triggered by a specific update. Countless times I wished I could just talk to an actual human for five minutes. So many misunderstandings could have been cleared up in no time if I wasn’t going up against AIs and click workers. At the time of writing this blog post, I’ve been waiting 14 days for Google to review an app update. Review times were never good or anything close to what I would deem acceptable, but they have been getting a lot worse over the last year or so. One can imagine that part of the problem is an avalanche of AI-generated slop apps—something Google played no small part in creating in the first place. But Google should have the responsibility to prioritize long-standing, non-AI-generated apps with infrequent updates. Waiting a little longer for new features might not sound like a big deal to some, but Google makes no distinction between feature updates and security updates. Delaying security updates by days or weeks is outright dangerous.\n\nAt this point, I should add some context. Google takes a 15% cut on my app sales. This effectively means I’m paying Google more than 1000 Euro per year for their services. 1000 Euro per year is 1.5x what I’m paying for my internet access. It’s roughly what I’m paying for my notebook per year if you assume I use it for three to four years. When my internet breaks, someone drives to my house and fixes it. When my notebook breaks, someone drives to my house and fixes it. When Google fucks up, there is absolutely nothing I can do. Apparently that amount of money doesn’t give me the privilege to talk to a fucking human for five minutes once per year.\n\nFor years I’ve felt like I was in a toxic relationship with Google, and the only reason I stayed was economic dependency.\n\nOver time, the source of my income has shifted more and more towards grants. Sometimes via NLnet234, sometimes more directly from the European Commission5. I have secure funding via various grants until the end of 2029 and I’m fairly confident that other funding opportunities will come up for the time after that.\n\nConversations was always available on F-Droid, but in the beginning, I didn’t advertise the option of downloading it for free. Initially, the F-Droid package maintainers asked for my permission, knowing that Conversations was a paid app on Google Play. I didn’t refuse, but I also didn’t link to F-Droid from the official website because I wanted to steer users towards the paid version. Over time, as my sentiment toward Google shifted from bad to worse, I did start linking to F-Droid. Now F-Droid has become the primary method of distributing the app. The APK distributed over F-Droid is now built reproducibly and signed with my personal signing key.\n\nFortunately, I’m no longer economically dependent on Google Play Store revenue. Google doesn’t deserve me and my money anymore. I’m done. Fuck the gatekeepers.\n\nhttps://gultsch.social/@daniel/111929074071688694 ↩︎\n\nhttps://nlnet.nl/project/Conversations/ ↩︎\n\nhttps://nlnet.nl/project/Conversations-3.0/ ↩︎\n\nhttps://nlnet.nl/project/Conversations-OpenPGP-refresh/ ↩︎\n\nhttps://mobifree.org ↩︎",
+        "fullTranslation": "Conversations 是我为 Android 开发的联邦式即时通讯客户端。它的开端与许多传统开源项目如出一辙：源于解决我自己的痛点（scratch my own itch）。开发工作始于 2014 年 1 月我的学生宿舍里，几周之内，我就开始进行“自产自用”（dogfooding），并将其作为与朋友交流的主要方式。然而，当 2014 年 3 月 24 日——正好是十二年半前的今天——向公众发布该应用时，我立刻明确了一点：我至少要尝试将我的开源项目转变成一门生意。虽然公开源代码却对编译后的二进制文件收费这种商业模式并非由我首创，但在 2014 年这确实相当少见。\n\n时光飞逝十年，我确实成功将 Conversations 运营成了一项可持续的业务。自 2014 年 3 月以来，Conversations 及其相关业务一直是我主要的收入来源。诚然，作为一名住在狭小宿舍里的学生，生活开销并不大，但幸运的是，随着我年龄的增长，收入也在稳步提升。\n\n这些年来，具体的收入来源发生了变化。起初，很大一部分收入来自于为希望使用 Conversations 的企业提供付费开发。有些企业出资开发的功能最终合并进了 Conversations 主线；有些企业则需要针对其工作流程定制专属功能，这些功能过于特殊，完全不适合合并至上游分支。偶尔，这还会伴随提供服务器配置，甚至是一些关于即时通讯和安全相关主题的咨询服务。再后来，无偿拨款与资助机会发挥了越来越重要的作用。\n\n然而，一个令人意想不到且稳定的收入来源一直是来自 Play 商店的收益。我过去常说，是它帮我付了房租。每位自由职业者都深知这种不确定感的滋味：每隔几个月才能开具一次发票，或者必须等到资助周期结束时才能拿到受资助项目的款项。任何形式的固定收入——特别是在早期你还没有任何积蓄的时候——都是一种莫大的恩赐。\n\nConversations 2014–2026 年的总收入（扣除 Google 抽成及销售税前）\n\n我与 Google 的关系从来没好过。应用更新因各种令人费解的原因被拒审的次数，多得我已经数不清了。Conversations 曾两度被从 Play 商店下架。有一次，Google 甚至莫名其妙地指责我上传用户的联系人数据¹——这根本不是事实，而且也不是由某次特定的更新所引发的。无数次，我都巴不得能和一个真正的大活人谈上五分钟。如果我面对的不是人工智能和点击工（click workers），许多误解本可以在短时间内化解。在撰写这篇博文时，我已经等待 Google 审核一个应用更新等了 14 天。审核时长从来都不理想，甚至连我认为可以接受的底线都谈不上，但在过去大约一年时间里，情况变得更加糟糕了。可以想象，部分问题在于铺天盖地由 AI 生成的垃圾应用（AI-generated slop apps）——而 Google 在制造这股浪潮上本就难辞其咎。然而，Google 理应承担起责任，优先审核那些历史悠久、非 AI 生成且更新频率不高的应用。对某些人来说，为了新功能多等一阵子可能不算什么大不了的事，但 Google 对功能更新和安全更新却一视同仁、不作区分。将安全更新推迟数天甚至数周，完全是在制造危险。\n\n说到这里，我应该补充一些背景背景。Google 会从我的应用销售额中抽取 15% 的佣金。这实际上意味着我每年要向 Google 支付超过 1000 欧元的服务费。每年 1000 欧元是我宽带网络费用的 1.5 倍；如果你假设我的笔记本电脑能用三到四年，这笔钱差不多相当于我每年在笔记本上的花费。当我的网络坏了，会有人开车上门维修；当我的笔记本电脑坏了，也会有人开车上门维修。而当 Google 把事情搞砸时，我却完全无能为力。显然，每年这笔钱甚至都没能让我换来每年一次和一个真正的人类交谈五分钟的特权。\n\n多年来，我一直感觉自己与 Google 处在一场有毒的关系中，而我之所以没有离开，仅仅是因为经济上的依赖。\n\n随着时间的推移，我的收入来源越来越向各类资助基金倾斜。有时来自 NLnet²³⁴，有时更直接地来自欧盟委员会⁵。通过各项资助，我已获得了直到 2029 年底的稳定资金保障，并且我有相当的信心，在期满之后还会有其他的资助机会出现。\n\nConversations 一直可以在 F-Droid 上获取，但在初期，我并没有宣传过可以免费下载该应用的途径。最初，F-Droid 的软件包维护者在得知 Conversations 在 Google Play 上是付费应用后，还特意征求了我的许可。我没有拒绝，但我也没有在官方网站上提供指向 F-Droid 的链接，因为我想引导用户购买付费版本。后来，随着我对 Google 的态度由差变得更差，我开始放上 F-Droid 的链接。如今，F-Droid 已成为分发该应用的主要渠道。在 F-Droid 上分发的 APK 现在完全通过可复现构建（reproducible build）生成，并由我的个人密钥签名。\n\n幸运的是，我不再在经济上依赖 Google Play 商店的收入了。Google 不配再得到我和我的钱。我受够了。去他的守门人。\n\n¹ https://gultsch.social/@daniel/111929074071688694 ↩︎\n² https://nlnet.nl/project/Conversations/ ↩︎\n³ https://nlnet.nl/project/Conversations-3.0/ ↩︎\n⁴ https://nlnet.nl/project/Conversations-OpenPGP-refresh/ ↩︎\n⁵ https://mobifree.org ↩︎",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 16,
+        "translationParagraphs": 12,
+        "keyTakeaways": [
+          "Conversations 是一款面向 Android 平台的联邦即时通讯客户端，开发始于 2014 年 1 月，并于 2014 年 3 月 24 日公开发布。",
+          "自 2014 年 3 月起，Conversations 采用开源源代码但对编译好的二进制安装包收费的商业模式，成为开发者的主要收入来源。",
+          "来源叙事重点：痛陈应用商店守门人（Google Play）苛刻且不透明的审核机制、低效的人工客服缺位及15%抽成的不合理性，宣告因获得公共基金长期资助而摆脱经济依赖，全面转向开源分发渠道 F-Droid 并实行免费分发。"
+        ],
+        "citations": [
+          {
+            "source": "Hacker News (科技前沿论坛)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T10:55:56.000Z",
+            "url": "https://gultsch.de/posts/breaking-up-with-google-play/"
+          }
+        ]
+      },
+      {
+        "id": "story--it-comes-to-ai-c48791cd-01ded5a4b700fb1b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "China is playing a different game when it comes to AI",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T12:30:00.000Z",
+        "pubTime": "2026-09-26 20:30",
+        "url": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "Experts say the U.S. and China aren’t in an AI race because they aren’t targeting the same goals.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-26 20:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T12:30:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-nt-to-canada-with-excess-b27d761fa0b6973b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Millions of US berries sent to Canada with excess chemical levels",
+        "source": "Reddit r/worldnews (国际公众热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T11:41:36.000Z",
+        "pubTime": "2026-09-26 19:41",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wqoelz/millions_of_us_berries_sent_to_canada_with_excess/",
+        "imageUrl": "https://external-preview.redd.it/445IKFJjraL7glTSGEpYExObBvihv6z3qLLL-JdB0ic.jpeg?width=320&crop=smart&auto=webp&s=70ad191a7648790d005fa93c3be6ec055707d577",
+        "fullContent": "submitted by /u/holymolt [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/worldnews (国际公众热议)】于 2026-09-26 19:41 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/worldnews (国际公众热议)",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wqoelz/millions_of_us_berries_sent_to_canada_with_excess/",
+            "publishedAt": "2026-09-26T11:41:36.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790409194829,
     "timeDisplay": "2026-09-26 15:53 (UTC+8)",
     "date": "2026-09-26",

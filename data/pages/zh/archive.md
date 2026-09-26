@@ -37,14 +37,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **75** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **76** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-26 15:53 (UTC+8)
+- **最新归档时间**：2026-09-26 21:14 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-26 21:14 (UTC+8)" title="全球要闻情报简报 · 21:14" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-26 21:12 (UTC+8) 完成，共获得 25 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】《控制：共振》是一款出色的游戏——当你读完所有文档时，它会变得更加精彩：在《控制：共振》（Control Resonant）中，整个世界危在旦夕。但这并没有阻止联邦控制局（FBC）勤勉的员工们提交堆积如山的文书，也没有阻止我把能找到的所有资料一网打尽。在《共振》中，阅读通常是可选项，但这正是发现游戏中一些最精彩的细节——甚至是爱情故事！——的地方。；【undefined】研究发现：年轻美国人减少饮酒，而X世代饮酒量却在增加：在年轻一代饮酒量减少的同时，50至64岁的成年人饮酒量却在增加，这一转变正在重塑美国的酒吧消费格局。；【undefined】调优服务器以进行基准测试：优化代码始于对其进行测量，而测量只有在具备可重复性时才有意义：在 5% 的噪声干扰下，2% 的提升是根本看不出来的。然而在未调优的机器上，相同的二进制程序在多次运行之间很容易出现几个百分点的速度浮动。在本文中，我们采用一个微型基准测试，一步步对机器进行调优，并在每次更改后重新测量，直到运行结果变得具备确定性。1 1 请注意，针对基准测试的调优与针对性能的调优不同：基准测试要求机器具备可重复性，即使以牺牲部分峰值速度为代价。然而，生产环境；【undefined】经济学家痛批美国社会主义精英：抨击资本主义反而让他们发了大财：经济学家斯蒂芬·摩尔（Stephen Moore）表示，社会主义和进步派人物发现了一条通过抨击资本主义来牟利的捷径，他们恰恰是在自己想要彻底改革的自由市场体系中发家致富的。；【undefined】与 Google Play 分道扬镳：为何 Conversations 现已免费：Conversations 是我为 Android 开发的联邦式即时通讯客户端。它的开端与许多传统开源项目如出一辙：源于解决我自己的痛点（scratch my own itch）。开发工作始于 2014 年 1 月我的学生宿舍里，几周之内，我就开始进行“自产自用”（dogfooding），并将其作为与朋友交流的主要方式。然而，当 2014 年 3 月 24 日——正好是十二年半前的今天——向公众发布该应用时，我立刻明确了一点：我至少要尝；【undefined】信仰能帮助患者康复吗？资深医生揭示其亲眼所见：医生兼福克斯新闻高级医疗分析师马克·西格尔（Marc Siegel）博士在其新书《我们身边的天使》（The Angels Among Us）中，探讨了精神信仰、临床治疗与无法解释的医学康复之间的交集。；【undefined】俱乐部前主席称曼城或面临“严厉”制裁：据了解，曼城已准备好对任何有罪裁决提出上诉，但前主席表示俱乐部可能面临“严厉处罚”。；【undefined】露天弥撒前夕 巴黎大批民众聚集迎候教皇：在巴黎市中心举行盛大露天弥撒前夕，数十万人迎候教皇利奥十四世（Pope Leo XIV）。
+
+**重点要闻索引：**
+- [France 24 (FR 官方法语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/fr/vid%C3%A9o/20260926-replay-le-pape-l%C3%A9on-xiv-descend-les-champs-%C3%A9lys%C3%A9es) <span class="news-meta-time">🕒 2026-09-26 21:03</span>
+- [The Verge (前沿数码科技)] [《控制：共振》是一款出色的游戏——当你读完所有文档时，它会变得更加精彩](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs) <span class="news-meta-time">🕒 2026-09-26 21:00</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-26 21:00</span>
+- [The Guardian Society (卫报社会与民生)] [研究发现：年轻美国人减少饮酒，而X世代饮酒量却在增加](https://www.theguardian.com/society/2026/sep/26/gen-x-z-drinking-habits-study) <span class="news-meta-time">🕒 2026-09-26 20:00</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-molecular-destruct-stressed-cells-survival.html) <span class="news-meta-time">🕒 2026-09-26 20:00</span>
+- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260926/podrostki-2120441500.html) <span class="news-meta-time">🕒 2026-09-26 21:03</span>
+:::
 :::timeline-item{start="2026-09-26 15:53 (UTC+8)" title="全球要闻情报简报 · 15:53" org="ARCHIVE"}
 **速报纪要：** 本轮抓取于 2026-09-26 15:50 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
 
@@ -643,16 +656,5 @@ notice:
 - [Reddit r/worldnews (国际公众热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/worldnews/comments/1werqp4/canada_and_iran_have_found_trumps_achilles_heel/) <span class="news-meta-time">🕒 2026-09-13 07:34</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-ai-holiday-easier-overwhelmed.html) <span class="news-meta-time">🕒 2026-09-13 08:30</span>
 - [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/politics/2186861) <span class="news-meta-time">🕒 2026-09-13 08:54</span>
-:::
-:::timeline-item{start="2026-09-13 03:31 (UTC+8)" title="全球要闻情报简报 · 03:31" org="ARCHIVE"}
-**速报纪要：** 本小时内，技术与地缘政治领域均有关键信息更新：Perplexity 正在生产系统与软件维护中深度采用 Astra 模型；俄罗斯总统新闻秘书重申会面选址立场；美国新墨西哥州发生个人直播拆除监控摄像头事件；此外特斯拉跑车项目持续受到关注。
-
-**重点要闻索引：**
-- [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260912/nikolaev-2117349364.html) <span class="news-meta-time">🕒 2026-09-13 03:22</span>
-- [OpenAI News (官方动态)] [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
-- [OilPrice (全球能源与原油大宗)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html) <span class="news-meta-time">🕒 2026-09-13 03:00</span>
-- [Lobste.rs (极客思想社区)] [gpg.fail事件的余波：论负责任披露、GPG以及2026年的安全现状 [32:37]](https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026) <span class="news-meta-time">🕒 2026-09-13 01:24</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-silicon-nanosphere-coatings-glossy-nonfading.html) <span class="news-meta-time">🕒 2026-09-13 03:00</span>
-- [TASS (塔斯社官方英文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://tass.com/politics/2186819) <span class="news-meta-time">🕒 2026-09-13 03:21</span>
 :::
 ::::
