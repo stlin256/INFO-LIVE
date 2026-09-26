@@ -1,5 +1,1571 @@
 [
   {
+    "timestamp": 1790464011284,
+    "timeDisplay": "2026-09-27 07:06 (UTC+8)",
+    "date": "2026-09-27",
+    "runId": "feed-20260926T225824191Z-q5p8vl",
+    "generatedAt": "2026-09-26T23:06:51.284Z",
+    "hourlyBriefing": {
+      "title": "本小时全球信号速报 · 06:58",
+      "lead": "本轮抓取于 2026-09-27 06:58 (UTC+8) 完成，共获得 29 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。",
+      "signals": [
+        "【undefined】特朗普称美国和古巴会达成协议：美国总统特朗普26日称，他认为美国和古巴会达成协议，美方“不需要动用军队”。",
+        "【undefined】因触觉反馈专利侵权，苹果被判赔偿57亿美元：该主题的推送将添加到您的每日电子邮件摘要和主页信息流中。 苹果的 Taptic Engine 被认定侵犯了 Taction 的两项专利。 该作者的推送将添加到您的每日电子邮件摘要和主页信息流中。 查看 Terrence O'Brien 的全部文章 触觉技术公司 Taction 于 2021 年起诉苹果公司，指控其侵犯了两项专利。如今，圣迭戈的一个联邦陪审团裁定判给 Taction 超过 57 亿美元的赔偿金。据 CNBC 报道，“这起诉",
+        "【undefined】AI时代，为啥还要拼技能？世赛现场即答案：国家会展中心(上海)，第48届世界技能大赛64个赛项激烈角逐。对全球技能青年来说，这是一生只能参与一次的比赛。",
+        "【undefined】保险机构称人工智能已在推高医疗成本：根据美国蓝十字蓝盾协会（Blue Cross Blue Shield Association，简称 BCBSA）的一项分析，医院在提交保险理赔时使用人工智能工具，在两年时间内导致医疗支出额外增加了 9.42 亿美元。",
+        "【undefined】TikTok同意支付至少1亿美元以达成阿拉巴马州和解协议：TikTok将向阿拉巴马州支付至少1亿美元，以解决有关这家短视频平台误导用户有关安全问题、并被设计成让儿童上瘾的指控。该案原定于周一开庭审理。",
+        "【undefined】“请3休13”，一些职场人“拼假游”“拼”出新体验：有的自驾游三个城市，有的边玩边学做木工，还有的游玩三个欧洲国家",
+        "【undefined】得州队对阵田纳西队时的一些庆祝动作，离谱得令人咋舌：正如预期，周六的大学橄榄球赛程中没有哪场比赛能与这场相比：得克萨斯长角牛队前往诺克斯维尔，迎战田纳西志愿者队。双方情绪注定会十分高涨，而高涨的情绪往往也会带来一些夸张的庆祝动作。",
+        "【undefined】4条高铁将同日开通 多地迈入高铁时代：本报北京9月26日电(记者刘静)记者今天从中国国家铁路集团有限公司获悉，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁将于9月28日集中开通运营。4条线路横跨南北、纵贯东西，覆盖华北、东北、西北、华中四大区域，以350公里、250公里不同时速等级的钢铁动脉，打破地域时空壁垒，让多地正式迈入高铁时代。"
+      ]
+    },
+    "dailyBriefing": {
+      "title": "每日综合动态与时事观察",
+      "lead": "本期资讯涵盖国内基础设施建设重大进展、社会文化出行趋势，以及国际地缘冲突与外交表态。中国4条高铁干线即将于9月28日集中开通运营；国际方面，美国领导人就美古关系作出表态，同时中东加沙地带与黎巴嫩多处目标持续面临军事打击。",
+      "themes": [
+        {
+          "name": "国内基础设施与社会生活动态",
+          "analysis": "中国国家铁路集团有限公司发布消息，京港高铁雄商段、西渝高铁西康段、宜兴高铁和哈伊高铁4条线路将于9月28日同日开通运营，覆盖华北、东北、西北和华中地区，助力多地跨入高铁时代。此外，职场人兴起“请3休13”等拼假长途旅游新模式，折射出假日消费新需求；世界技能大赛现场引发对人工智能时代下青年专业技能重要性的关注。"
+        },
+        {
+          "name": "国际外交表态与地缘安全局势",
+          "analysis": "国际外交领域，美国总统特朗普公开表示认为美古两国将达成协议，且美方不需要采取军事手段。安全局势方面，中东地区冲突持续发酵，加沙地带谢赫拉德万社区及努赛赖特难民营持续遭遇以军猛烈火力袭击导致伤亡，同时以军空袭了黎巴嫩真主党位于多处高地山区的地下掩体与指挥所；此外，加勒比海岛国圣文森特和格林纳丁斯首都金斯敦附近发生致死伤袭击事件。"
+        }
+      ]
+    },
+    "storiesCount": 16,
+    "taskMetrics": {
+      "totalTasks": 105,
+      "completedTasks": 105,
+      "succeeded": 74,
+      "degraded": 31,
+      "failed": 0,
+      "skipped": 0,
+      "totalAttempts": 105,
+      "timeouts": 0,
+      "maxConcurrency": 8,
+      "peakConcurrency": 8,
+      "durationMs": 507041,
+      "byRole": {
+        "translator": {
+          "attempts": 74,
+          "succeeded": 50,
+          "degraded": 24
+        },
+        "fact-extractor": {
+          "attempts": 9,
+          "succeeded": 5,
+          "degraded": 4
+        },
+        "hourly-editor": {
+          "attempts": 1,
+          "degraded": 1
+        },
+        "daily-analyst": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "social-trends": {
+          "attempts": 1,
+          "succeeded": 1
+        },
+        "source-positioner": {
+          "attempts": 9,
+          "succeeded": 7,
+          "degraded": 2
+        },
+        "topic-classifier": {
+          "attempts": 9,
+          "succeeded": 9
+        },
+        "evidence-merger": {
+          "attempts": 1,
+          "succeeded": 1
+        }
+      },
+      "byModel": {
+        "gemini-3.8-flash": {
+          "attempts": 105,
+          "succeeded": 74,
+          "degraded": 31
+        }
+      }
+    },
+    "degradedRoles": [
+      "article-2-translator-0",
+      "article-3-translator-0",
+      "article-5-translator-0",
+      "article-5-translator-1",
+      "article-7-translator-0",
+      "article-8-translator-0",
+      "article-9-translator-0",
+      "article-12-translator-0",
+      "article-14-translator-0",
+      "article-15-translator-0",
+      "article-16-translator-0",
+      "article-17-translator-0",
+      "article-18-translator-0",
+      "article-20-translator-0",
+      "article-22-translator-0",
+      "article-22-translator-1",
+      "article-24-translator-0",
+      "article-25-translator-0",
+      "article-26-translator-0",
+      "article-28-translator-0",
+      "article-28-translator-1",
+      "article-30-translator-0",
+      "article-34-translator-0",
+      "article-41-translator-0",
+      "article-2-fact-extractor",
+      "article-4-fact-extractor",
+      "article-7-fact-extractor",
+      "article-7-source-positioner",
+      "article-8-fact-extractor",
+      "article-8-source-positioner",
+      "hourly-editor"
+    ],
+    "sourceHealth": [
+      {
+        "sourceId": "afp",
+        "name": "AFP Actualités (官方法文原版)",
+        "url": "https://www.afp.com/fr/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:07.496Z",
+        "lastSuccessAt": "2026-09-26T22:58:08.315Z"
+      },
+      {
+        "sourceId": "afp",
+        "name": "AFP News (官方英文原版)",
+        "url": "https://www.afp.com/en/actus/afp_communique/all/feed",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:07.883Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.120Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方英文)",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.105Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.219Z"
+      },
+      {
+        "sourceId": "aljazeera",
+        "name": "Al Jazeera (半岛电视台官方阿拉伯文)",
+        "url": "https://www.aljazeera.net/aljazeerarss/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.120Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.314Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA English (安莎社官方英文)",
+        "url": "https://www.ansa.it/english/news/english_nr_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:10.138Z",
+        "lastSuccessAt": "2026-09-26T22:58:11.585Z"
+      },
+      {
+        "sourceId": "ansa",
+        "name": "ANSA Mondo (意大利安莎社官方意大利文)",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:10.110Z",
+        "lastSuccessAt": "2026-09-26T22:58:11.442Z"
+      },
+      {
+        "sourceId": "aws",
+        "name": "AWS Machine Learning Blog (亚马逊云科技官方英文)",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:11.815Z",
+        "lastSuccessAt": "2026-09-26T22:58:12.050Z"
+      },
+      {
+        "sourceId": "bbc",
+        "name": "BBC World (英国BBC官方英文)",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:08.066Z",
+        "lastSuccessAt": "2026-09-26T22:58:08.239Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Economy (CNBC 宏观经济)",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.265Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.322Z"
+      },
+      {
+        "sourceId": "cnbc",
+        "name": "CNBC Markets (CNBC 市场官方英文)",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.250Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.425Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN Top Stories (美国CNN要闻)",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:08.824Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.105Z"
+      },
+      {
+        "sourceId": "cnn",
+        "name": "CNN World (美国CNN官方英文)",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:08.464Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.044Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (DE 官方德语)",
+        "url": "https://rss.dw.com/rdf/rss-de-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:08.315Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.175Z"
+      },
+      {
+        "sourceId": "dw",
+        "name": "Deutsche Welle (EN 官方英语)",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:08.447Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.438Z"
+      },
+      {
+        "sourceId": "esa",
+        "name": "ESA Space News (欧洲航天局官方英文)",
+        "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:11.442Z",
+        "lastSuccessAt": "2026-09-26T22:58:12.209Z"
+      },
+      {
+        "sourceId": "ecb",
+        "name": "European Central Bank (欧洲央行官方英文)",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:10.856Z",
+        "lastSuccessAt": "2026-09-26T22:58:12.243Z"
+      },
+      {
+        "sourceId": "fed",
+        "name": "Federal Reserve (美国联邦储备委员会官方英文)",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:11.250Z",
+        "lastSuccessAt": "2026-09-26T22:58:11.806Z"
+      },
+      {
+        "sourceId": "ft",
+        "name": "Financial Times (英国金融时报)",
+        "url": "https://www.ft.com/rss/home/uk",
+        "ok": true,
+        "itemCount": 9,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.314Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.691Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News Latest (美国FOX快讯)",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.097Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.139Z"
+      },
+      {
+        "sourceId": "fox",
+        "name": "FOX News World (美国FOX官方英文)",
+        "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.044Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.097Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (EN 官方英语原版)",
+        "url": "https://www.france24.com/en/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:08.039Z",
+        "lastSuccessAt": "2026-09-26T22:58:08.066Z"
+      },
+      {
+        "sourceId": "france24",
+        "name": "France 24 (FR 官方法语原版)",
+        "url": "https://www.france24.com/fr/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:06.639Z",
+        "lastSuccessAt": "2026-09-26T22:58:08.039Z"
+      },
+      {
+        "sourceId": "github",
+        "name": "GitHub Blog (工程技术博客)",
+        "url": "https://github.blog/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.633Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.726Z"
+      },
+      {
+        "sourceId": "deepmind",
+        "name": "Google DeepMind (AI前沿研究)",
+        "url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.522Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.839Z"
+      },
+      {
+        "sourceId": "hackernews",
+        "name": "Hacker News (科技前沿论坛)",
+        "url": "https://news.ycombinator.com/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.322Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.442Z"
+      },
+      {
+        "sourceId": "huggingface",
+        "name": "Hugging Face (开源模型社区)",
+        "url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.582Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.747Z"
+      },
+      {
+        "sourceId": "lobsters",
+        "name": "Lobste.rs (极客思想社区)",
+        "url": "https://lobste.rs/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.762Z",
+        "lastSuccessAt": "2026-09-26T22:58:10.137Z"
+      },
+      {
+        "sourceId": "marketwatch",
+        "name": "MarketWatch Top Stories (市场观察)",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.277Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.317Z"
+      },
+      {
+        "sourceId": "microsoft",
+        "name": "Microsoft Research (微软研究院官方英文)",
+        "url": "https://www.microsoft.com/en-us/research/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:11.585Z",
+        "lastSuccessAt": "2026-09-26T22:58:13.524Z"
+      },
+      {
+        "sourceId": "mit",
+        "name": "MIT Tech Review (麻省理工科技评论)",
+        "url": "https://www.technologyreview.com/feed/",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.691Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.801Z"
+      },
+      {
+        "sourceId": "nasa",
+        "name": "NASA News (深空探索与航天)",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-26T22:58:09.863Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "nature",
+        "name": "Nature News (自然科学顶级期刊)",
+        "url": "https://www.nature.com/nature.rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.801Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.863Z"
+      },
+      {
+        "sourceId": "npr",
+        "name": "NPR World (美国国家公共电台官方英文)",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:10.042Z",
+        "lastSuccessAt": "2026-09-26T22:58:10.294Z"
+      },
+      {
+        "sourceId": "nvidia",
+        "name": "NVIDIA Developer Blog (英伟达开发者官方英文)",
+        "url": "https://developer.nvidia.com/blog/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:11.806Z",
+        "lastSuccessAt": "2026-09-26T22:58:12.160Z"
+      },
+      {
+        "sourceId": "nytimes",
+        "name": "NY Times World (纽约时报官方英文)",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.139Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.250Z"
+      },
+      {
+        "sourceId": "oilprice",
+        "name": "OilPrice (全球能源与原油大宗)",
+        "url": "https://oilprice.com/rss/main",
+        "ok": true,
+        "itemCount": 15,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.317Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.751Z"
+      },
+      {
+        "sourceId": "openai",
+        "name": "OpenAI News (官方动态)",
+        "url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.442Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.633Z"
+      },
+      {
+        "sourceId": "science",
+        "name": "Phys.org (基础物理与技术前沿)",
+        "url": "https://phys.org/rss-feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.875Z",
+        "lastSuccessAt": "2026-09-26T22:58:10.110Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/technology (科技伦理热议)",
+        "url": "https://www.reddit.com/r/technology/top/.rss?t=day",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.751Z",
+        "lastSuccessAt": "2026-09-26T22:58:10.142Z"
+      },
+      {
+        "sourceId": "reddit",
+        "name": "Reddit r/worldnews (国际公众热议)",
+        "url": "https://www.reddit.com/r/worldnews/top/.rss?t=day",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 429",
+        "checkedAt": "2026-09-26T22:58:09.747Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "ria",
+        "name": "RIA Novosti (俄新社官方俄文)",
+        "url": "https://ria.ru/export/rss2/archive/index.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 503",
+        "checkedAt": "2026-09-26T22:58:06.638Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "science",
+        "name": "Science Magazine (科学杂志)",
+        "url": "https://www.science.org/rss/news_current.xml",
+        "ok": false,
+        "itemCount": 0,
+        "error": "HTTP 403",
+        "checkedAt": "2026-09-26T22:58:09.839Z",
+        "lastSuccessAt": null
+      },
+      {
+        "sourceId": "sputnik",
+        "name": "Sputnik Globe (官方国际英文电讯)",
+        "url": "https://sputnikglobe.com/export/rss2/archive/index.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:06.639Z",
+        "lastSuccessAt": "2026-09-26T22:58:08.824Z"
+      },
+      {
+        "sourceId": "tass",
+        "name": "TASS (塔斯社官方英文)",
+        "url": "https://tass.com/rss/v2.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:10.142Z",
+        "lastSuccessAt": "2026-09-26T22:58:12.077Z"
+      },
+      {
+        "sourceId": "techcrunch",
+        "name": "TechCrunch (硅谷创业与资本)",
+        "url": "https://techcrunch.com/feed/",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.438Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.522Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian (英国卫报官方英文)",
+        "url": "https://www.theguardian.com/world/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:08.239Z",
+        "lastSuccessAt": "2026-09-26T22:58:08.447Z"
+      },
+      {
+        "sourceId": "guardian",
+        "name": "The Guardian Society (卫报社会与民生)",
+        "url": "https://www.theguardian.com/society/rss",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.726Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.762Z"
+      },
+      {
+        "sourceId": "theverge",
+        "name": "The Verge (前沿数码科技)",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "ok": true,
+        "itemCount": 10,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.425Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.582Z"
+      },
+      {
+        "sourceId": "un",
+        "name": "UN News (联合国官方英文)",
+        "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:10.247Z",
+        "lastSuccessAt": "2026-09-26T22:58:11.250Z"
+      },
+      {
+        "sourceId": "who",
+        "name": "WHO News (世界卫生组织官方英文)",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:10.294Z",
+        "lastSuccessAt": "2026-09-26T22:58:11.815Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Business (华尔街日报商业)",
+        "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.219Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.265Z"
+      },
+      {
+        "sourceId": "wsj",
+        "name": "WSJ Markets (华尔街日报市场)",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:09.175Z",
+        "lastSuccessAt": "2026-09-26T22:58:09.277Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新社 (国际实时原版)",
+        "url": "https://www.chinanews.com.cn/rss/world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:06.626Z",
+        "lastSuccessAt": "2026-09-26T22:58:07.496Z"
+      },
+      {
+        "sourceId": "chinanews",
+        "name": "中新网 (全球要闻原版)",
+        "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:06.636Z",
+        "lastSuccessAt": "2026-09-26T22:58:07.883Z"
+      },
+      {
+        "sourceId": "xinhua",
+        "name": "新华国际 (官方中文原版)",
+        "url": "http://www.news.cn/world/news_world.xml",
+        "ok": true,
+        "itemCount": 16,
+        "error": null,
+        "checkedAt": "2026-09-26T22:58:06.637Z",
+        "lastSuccessAt": "2026-09-26T22:58:08.464Z"
+      }
+    ],
+    "topStories": [
+      {
+        "id": "story-026-09-27-10704313-shtml-e13aa636598667c0",
+        "title": "特朗普称美国和古巴会达成协议",
+        "originalTitle": "特朗普称美国和古巴会达成协议",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-26T22:53:59.000Z",
+        "pubTime": "2026-09-27 06:53",
+        "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml",
+        "imageUrl": null,
+        "fullContent": "美国总统特朗普26日称，他认为美国和古巴会达成协议，美方“不需要动用军队”。\n\n特朗普当天在白宫南草坪前往田纳西州前作上述表示。\n\n古巴外长罗德里格斯当天在联合国大会一般性辩论发言中说，美国对古巴的封锁是“一种集体惩罚行为”，目的是在古巴引发一场人道主义危机。他同时表示，古巴对美国不构成威胁，并随时准备在主权平等和尊重国际法的基础上与美国进行对话。\n\n美国长期对古巴实施经济、金融封锁和贸易禁运。继今年相继对委内瑞拉、伊朗发起军事行动后，美方又对古巴发出威胁，并进一步加大对古巴施压，实行石油封锁，扩大对古制裁。据美国方面此前消息，特朗普政府对古巴的战略正日益侧重于加大经济制裁和施压力度，而非部署军事力量。\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "美国总统特朗普26日称，他认为美国和古巴会达成协议，美方“不需要动用军队”。\n\n特朗普当天在白宫南草坪前往田纳西州前作上述表示。\n\n古巴外长罗德里格斯当天在联合国大会一般性辩论发言中说，美国对古巴的封锁是“一种集体惩罚行为”，目的是在古巴引发一场人道主义危机。他同时表示，古巴对美国不构成威胁，并随时准备在主权平等和尊重国际法的基础上与美国进行对话。\n\n美国长期对古巴实施经济、金融封锁和贸易禁运。继今年相继对委内瑞拉、伊朗发起军事行动后，美方又对古巴发出威胁，并进一步加大对古巴施压，实行石油封锁，扩大对古制裁。据美国方面此前消息，特朗普政府对古巴的战略正日益侧重于加大经济制裁和施压力度，而非部署军事力量。\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国总统特朗普于26日在白宫南草坪前往田纳西州前表示，他认为美国和古巴会达成协议，美方不需要动用军队。",
+          "古巴外长罗德里格斯在联合国大会一般性辩论发言中称，美国对古巴的封锁是“一种集体惩罚行为”，目的是引发人道主义危机，并表示古巴对美不构成威胁且愿在主权平等和尊重国际法基础上对话。",
+          "来源叙事重点：突出特朗普关于美古将达成协议且不需要动用军队的表态，同时以古巴方面对美国封锁的批评、对话意愿以及美国持续制裁和施压作为背景，形成“存在谈判可能但伴随高压政策”的叙事框架。"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-26T22:53:59.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-ages-over-haptic-patents-10792b6727af1abd",
+        "title": "因触觉反馈专利侵权，苹果被判赔偿57亿美元",
+        "originalTitle": "Apple hit with $5.7 billion in damages over haptic patents",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:30:01.000Z",
+        "pubTime": "2026-09-27 05:30",
+        "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nApple’s Taptic Engine was found to infringe on two of Taction’s patents.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nHaptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, “The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input.”\n\nTaction argued that Apple’s Taptic Engine in its Apple Watches and iPhones used technology that it had developed without a proper license, and the jury agreed. It found that Apple had infringed on two claims in one patent and one in the other. However, the jury did not find that Apple willfully infringed. Taction had accused Apple of reverse-engineering the tech from two Kannon gaming headsets.\n\nApple has said that it intends to appeal the decision. We’ve reached out for additional comment and will update the story if and when we hear back.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的推送将添加到您的每日电子邮件摘要和主页信息流中。\n苹果的 Taptic Engine 被认定侵犯了 Taction 的两项专利。\n该作者的推送将添加到您的每日电子邮件摘要和主页信息流中。\n查看 Terrence O'Brien 的全部文章\n触觉技术公司 Taction 于 2021 年起诉苹果公司，指控其侵犯了两项专利。如今，圣迭戈的一个联邦陪审团裁定判给 Taction 超过 57 亿美元的赔偿金。据 CNBC 报道，“这起诉讼围绕美国专利号 10,659,885 和 10,820,117 展开，两项专利均涉及基于振动的触觉换能器技术，该技术可帮助用户感受到设备对其输入的反馈。”\nTaction 主张，苹果在其 Apple Watch 和 iPhone 中使用的 Taptic Engine 未经适当许可便使用了其开发的技术，陪审团对此表示赞同。陪审团认定苹果侵犯了一项专利中的两项权利要求以及另一项专利中的一项权利要求。然而，陪审团并未认定苹果属于故意侵权。Taction 此前曾指控苹果通过逆向工程抄袭了两款 Kannon 游戏耳机的技术。\n苹果公司已表示打算对该裁决提出上诉。我们已联系对方征求进一步置评，如有答复将及时更新报道。\n最重要的焦点新闻免费每日摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Taction于2021年起诉苹果，指控苹果侵犯其两项专利。",
+          "圣迭戈的一家联邦陪审团裁定向Taction赔偿超过57亿美元。",
+          "来源叙事重点：突出苹果的Taptic Engine被陪审团认定侵犯Taction两项专利，以及超过57亿美元赔偿这一重大商业和法律后果；同时提及陪审团未认定故意侵权和苹果拟上诉。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T21:30:01.000Z",
+            "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
+          }
+        ]
+      },
+      {
+        "id": "story-d-i-do-the-same-8ab5cba3-3c71c105259e7aa4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T20:00:00.000Z",
+        "pubTime": "2026-09-27 04:00",
+        "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“She currently has about 15 sitters, all independent contractors.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-27 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T20:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ainst-kalshi-says-states-0410d365e165a39b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US appeals court rules against Kalshi, says states can regulate prediction markets",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:44:54.000Z",
+        "pubTime": "2026-09-27 05:44",
+        "url": "https://www.reddit.com/r/technology/comments/1wr2jba/us_appeals_court_rules_against_kalshi_says_states/",
+        "imageUrl": "https://external-preview.redd.it/0qIrhlE6v2g4hKrxxlwABUWrEM36R9sIIUSD3jcpH00.jpeg?width=640&crop=smart&auto=webp&s=979bc7c6d8597b4807886fa3ce2a8587a0eccdf8",
+        "fullContent": "submitted by /u/mepper [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-27 05:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wr2jba/us_appeals_court_rules_against_kalshi_says_states/",
+            "publishedAt": "2026-09-26T21:44:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ally-impaired-young-html-1deb87c976d142c8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "NEET with a disability: What's holding back visually impaired young people who want to work",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T22:30:02.000Z",
+        "pubTime": "2026-09-27 06:30",
+        "url": "https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/visually-impaired.jpg",
+        "fullContent": "I have been fortunate in my research to follow 80 young people with vision impairment over 11 years. I tracked their journeys from school into adulthood, speaking with them at regular intervals to learn what had happened since we last spoke, what had gone well and what could have been improved.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html",
+            "publishedAt": "2026-09-26T22:30:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-27-10704312-shtml-2a7afd2ec154ee85",
+        "title": "AI时代，为啥还要拼技能？世赛现场即答案",
+        "originalTitle": "AI时代，为啥还要拼技能？世赛现场即答案",
+        "source": "中新网 (全球要闻原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-26T22:51:35.000Z",
+        "pubTime": "2026-09-27 06:51",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml",
+        "imageUrl": null,
+        "fullContent": "国家会展中心(上海)，第48届世界技能大赛64个赛项激烈角逐。对全球技能青年来说，这是一生只能参与一次的比赛。\n\n这里有工业力量的硬核比拼，调试代码、排查故障，在工业机械的毫厘之间追求极致精度；有数字世界的无声攻防，在代码的迷宫中捕捉每一个隐藏的缺陷；有创意与美学的灵感绽放，选手将面料化为流动的艺术，让每一件作品尽显技法之美；也有烟火人间的温暖呈现，烹饪的香味与美发的芬芳飘散赛场……\n\n有人问：人工智能(AI)时代，为啥还要比拼技能？世赛现场即答案。\n\n试想这样的场景：一位老年人，坐在床边，不肯吃饭。\n\n你劝了10分钟，他还是把头扭开。这时候，光有耐心够吗？可能不够。你需要判断：是老人吞咽功能出了问题，还是情绪低落，药物副作用？不同的原因，决定了不同的照护方式。\n\n这就是世界技能大赛健康和社会照护项目比赛中考核参赛者的重要内容。这项比赛，不只是在工位上完成一道操作，而是把真实的照护现场搬进赛场。选手要面对由真人扮演的“标准化病人”，全程用英语沟通，并在规定时间里完成一整套照护流程。\n\n用中国专家的话说，这个项目要看选手“脑中有没有判断”“手上有没有技术”，更要看“心中有没有人”。\n\n毫无疑问，科技正在改变照护：智能餐具可以调温、发声；毫米波感应器能无接触监测生命体征……但人的判断和温情依旧珍贵。再如，高危喷漆作业有望被机器人替代，但个性化家装仍依赖人工经验；精密测量工具提升了精度，但在仿古建筑、修缮建造祠堂等特定场景，手工砌筑技艺依旧“吃香”。\n\n“不能把AI的工具能力、属性，和人的职业技能完全对立起来，预设了AI能干，就不需要人精炼技能，这个前提本身是站不住脚的。”世界技能大赛中国(上海)研究中心主任、上海工程技术大学教授王迪说，目前看，AI还不是独立的决策者与负责任的落地执行者，无法自主判断需求真伪、校验工程安全、处理现场突发故障，不能对最终成果承担责任。“技能大赛比拼的，恰恰是人驾驭工具、甄别错误、解决非标复杂问题、把控质量的能力。”王迪说。\n\n高铁列车飞驰，旅客感受到的平稳与安静背后，是检修人员的“反复问诊”“手到病除”。\n\n第48届世界技能大赛新增的轨道车辆技术赛项，就重点考查对列车故障的排查与维保调试，需要机械、电气、控制、数据等多个领域的复合能力。换句话说：看选手能不能在多个技术领域的交叉点上，做出准确判断。\n\n这正是世赛赛项设置所反映的产业趋势。本届世赛新增7个项目：轨道车辆技术、无人机系统、智慧安防技术、软件测试、数字交互媒体设计等，集中体现数字化、智能化对职业技能的重塑。\n\nAI时代，对“技能”的理解本身也在不断拓展。“如果说传统工匠比拼的是一技之长，现在工匠比拼的则是‘一专多能’。”世界技能大赛中国(天津)研究中心、天津职业技术师范大学工程实训中心副主任张瑞说。比如，工业4.0项目，模拟的是一座智能工厂的完整运行过程，涉及机械装配、电气接线、数据采集与分析、生产调度优化等多个技术领域；新增的无人机系统赛项，则要求选手同时扮演工程师、程序员、飞手三重角色。\n\n今天，青年工程师写代码、调算法，用软件定义机器、用数据驱动生产，这本身就是“技能”最好的注解。而那些10年前还闻所未闻的新职业，今天也已成为一批青年安身立命的事业。“新增赛项清晰映照出全球产业变革的浪潮，也生动展现了新时代中国青年正在投身的新事业、新行业、新职业。”张瑞认为，未来的技能人才不再是重复单一工序的操作者，而是能够驾驭数字化工具、具备跨领域解决问题能力的复合型工匠。\n\n当前，新一轮科技革命和产业变革加速突破，全球对技能的重视程度也持续提升，技能发展已成为各国政府优先事项。\n\n一组数据很有代表性：世界技能组织成立于1950年，目前有90个国家和地区成员，覆盖全球2/3人口；中国于2010年加入世界技能组织，是其第53个成员。也就是说，最近10多年来，该组织增加了30多个新成员，这反映出世界技能组织在全球的影响力日益扩大，也从侧面反映出越来越多国家和地区认识到提高劳动者职业技能水平的重要性。\n\n世界技能组织主席弗朗西斯·乌汉认为，各国正持续应对技术革新与各类全球难题，而破解这些难题的核心力量，正是千千万万技能从业者。“赛场上每一项技能展示的背后，那份沉稳精湛的实力，皆源于长年累月的专注与磨砺，值得被全世界看见与赞颂。”乌汉说。\n\n本届世赛，有80个国家和地区注册参与，68个国家和地区派出1385名选手参赛——这正是今天技能重要性最直白的写照。\n\n“如切如磋，如琢如磨”，世界技能博览会专门设立中国馆，观众既能看到运载火箭、深海探测船等大国重器，也能体验拓印、古籍修复等传统文化技艺。步入馆内，一行醒目的大字映入眼帘：“大国工匠是我们中华民族大厦的基石、栋梁。”\n\n同各方加强交流合作，推动世界技能运动发展，更好服务全球经济增长和民生福祉改善——这也是中国通过第48届世界技能大赛向世界传递的强劲信号。\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "国家会展中心(上海)，第48届世界技能大赛64个赛项激烈角逐。对全球技能青年来说，这是一生只能参与一次的比赛。\n\n这里有工业力量的硬核比拼，调试代码、排查故障，在工业机械的毫厘之间追求极致精度；有数字世界的无声攻防，在代码的迷宫中捕捉每一个隐藏的缺陷；有创意与美学的灵感绽放，选手将面料化为流动的艺术，让每一件作品尽显技法之美；也有烟火人间的温暖呈现，烹饪的香味与美发的芬芳飘散赛场……\n\n有人问：人工智能(AI)时代，为啥还要比拼技能？世赛现场即答案。\n\n试想这样的场景：一位老年人，坐在床边，不肯吃饭。\n\n你劝了10分钟，他还是把头扭开。这时候，光有耐心够吗？可能不够。你需要判断：是老人吞咽功能出了问题，还是情绪低落，药物副作用？不同的原因，决定了不同的照护方式。\n\n这就是世界技能大赛健康和社会照护项目比赛中考核参赛者的重要内容。这项比赛，不只是在工位上完成一道操作，而是把真实的照护现场搬进赛场。选手要面对由真人扮演的“标准化病人”，全程用英语沟通，并在规定时间里完成一整套照护流程。\n\n用中国专家的话说，这个项目要看选手“脑中有没有判断”“手上有没有技术”，更要看“心中有没有人”。\n\n毫无疑问，科技正在改变照护：智能餐具可以调温、发声；毫米波感应器能无接触监测生命体征……但人的判断和温情依旧珍贵。再如，高危喷漆作业有望被机器人替代，但个性化家装仍依赖人工经验；精密测量工具提升了精度，但在仿古建筑、修缮建造祠堂等特定场景，手工砌筑技艺依旧“吃香”。\n\n“不能把AI的工具能力、属性，和人的职业技能完全对立起来，预设了AI能干，就不需要人精炼技能，这个前提本身是站不住脚的。”世界技能大赛中国(上海)研究中心主任、上海工程技术大学教授王迪说，目前看，AI还不是独立的决策者与负责任的落地执行者，无法自主判断需求真伪、校验工程安全、处理现场突发故障，不能对最终成果承担责任。“技能大赛比拼的，恰恰是人驾驭工具、甄别错误、解决非标复杂问题、把控质量的能力。”王迪说。\n\n高铁列车飞驰，旅客感受到的平稳与安静背后，是检修人员的“反复问诊”“手到病除”。\n\n第48届世界技能大赛新增的轨道车辆技术赛项，就重点考查对列车故障的排查与维保调试，需要机械、电气、控制、数据等多个领域的复合能力。换句话说：看选手能不能在多个技术领域的交叉点上，做出准确判断。\n\n这正是世赛赛项设置所反映的产业趋势。本届世赛新增7个项目：轨道车辆技术、无人机系统、智慧安防技术、软件测试、数字交互媒体设计等，集中体现数字化、智能化对职业技能的重塑。\n\nAI时代，对“技能”的理解本身也在不断拓展。“如果说传统工匠比拼的是一技之长，现在工匠比拼的则是‘一专多能’。”世界技能大赛中国(天津)研究中心、天津职业技术师范大学工程实训中心副主任张瑞说。比如，工业4.0项目，模拟的是一座智能工厂的完整运行过程，涉及机械装配、电气接线、数据采集与分析、生产调度优化等多个技术领域；新增的无人机系统赛项，则要求选手同时扮演工程师、程序员、飞手三重角色。\n\n今天，青年工程师写代码、调算法，用软件定义机器、用数据驱动生产，这本身就是“技能”最好的注解。而那些10年前还闻所未闻的新职业，今天也已成为一批青年安身立命的事业。“新增赛项清晰映照出全球产业变革的浪潮，也生动展现了新时代中国青年正在投身的新事业、新行业、新职业。”张瑞认为，未来的技能人才不再是重复单一工序的操作者，而是能够驾驭数字化工具、具备跨领域解决问题能力的复合型工匠。\n\n当前，新一轮科技革命和产业变革加速突破，全球对技能的重视程度也持续提升，技能发展已成为各国政府优先事项。\n\n一组数据很有代表性：世界技能组织成立于1950年，目前有90个国家和地区成员，覆盖全球2/3人口；中国于2010年加入世界技能组织，是其第53个成员。也就是说，最近10多年来，该组织增加了30多个新成员，这反映出世界技能组织在全球的影响力日益扩大，也从侧面反映出越来越多国家和地区认识到提高劳动者职业技能水平的重要性。\n\n世界技能组织主席弗朗西斯·乌汉认为，各国正持续应对技术革新与各类全球难题，而破解这些难题的核心力量，正是千千万万技能从业者。“赛场上每一项技能展示的背后，那份沉稳精湛的实力，皆源于长年累月的专注与磨砺，值得被全世界看见与赞颂。”乌汉说。\n\n本届世赛，有80个国家和地区注册参与，68个国家和地区派出1385名选手参赛——这正是今天技能重要性最直白的写照。\n\n“如切如磋，如琢如磨”，世界技能博览会专门设立中国馆，观众既能看到运载火箭、深海探测船等大国重器，也能体验拓印、古籍修复等传统文化技艺。步入馆内，一行醒目的大字映入眼帘：“大国工匠是我们中华民族大厦的基石、栋梁。”\n\n同各方加强交流合作，推动世界技能运动发展，更好服务全球经济增长和民生福祉改善——这也是中国通过第48届世界技能大赛向世界传递的强劲信号。\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章围绕“AI时代为何仍需技能”展开，强调人工智能能够增强工具能力，但暂不能替代人的判断、责任承担、现场应变、质量控制和情感照护；报道通过健康和社会照护、轨道车辆技术、工业4.0、无人机系统等赛项，论证技能正从单一手工操作转向数字化、跨领域和人机协作能力，并将中国参与世赛、中国馆展示及技能人才培养与全球产业变革联系起来。"
+        ],
+        "citations": [
+          {
+            "source": "中新网 (全球要闻原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-26T22:51:35.000Z",
+            "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-reasing-healthcare-costs-3eda5db8c05960eb",
+        "title": "保险机构称人工智能已在推高医疗成本",
+        "originalTitle": "Insurers claim AI is already increasing healthcare costs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:02:06.000Z",
+        "pubTime": "2026-09-27 05:02",
+        "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+        "imageUrl": null,
+        "fullContent": "Hospitals’ use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cross Blue Shield Association.\n\nThe BCBSA analysis found “a sharp increase in patients being documented as having complex conditions,” but argued there is a “clear disconnect between [medical] coding and treatment,” as there’s “no evidence of corresponding change in care delivered.”\n\nThe New York Times pointed the analysis as just the latest sign that AI is contributing to an increase in healthcare costs. While battles between hospitals and insurers over treatments and payments are nothing new, the NYT said the use of AI on both sides seems to be making it worse.\n\nDr. Shiv Rao, founder of AI startup Abridge, acknowledged that the use of AI could lead to “a horrible dystopic future nobody wants to live in,” with “bots fighting bots, agents fighting agents.” But Rao said it might also reduce tensions and cut costs.\n\nAnd the BCBSA’s senior vice president Luke Chalker resisted characterizing the situation as a battle, claiming, “It’s not a war. It’s a completely one-sided blood bath,” with insurers on the losing side.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "根据美国蓝十字蓝盾协会（Blue Cross Blue Shield Association，简称 BCBSA）的一项分析，医院在提交保险理赔时使用人工智能工具，在两年时间内导致医疗支出额外增加了 9.42 亿美元。\n\nBCBSA 的分析发现，“被记录为患有复杂病症的患者人数急剧增加”，但指出“[医疗]编码与实际治疗之间存在明显的脱节”，因为“没有证据表明所提供的护理服务发生了相应变化”。\n\n《纽约时报》指出，这项分析只是表明人工智能正在推高医疗成本的最新迹象。尽管医院与保险机构围绕治疗方案和费用支付的博弈早已司空见惯，但《纽约时报》表示，双方对人工智能的使用似乎正在使情况进一步恶化。\n\n人工智能初创公司 Abridge 创始人希夫·拉奥（Shiv Rao）博士承认，使用人工智能可能会导致“没有人愿意生活在其中的可怕反乌托邦未来”，即“机器人对抗机器人、智能体对抗智能体”。但拉奥也表示，它同样可能缓解紧张局势并降低成本。\n\nBCBSA 高级副总裁卢克·乔尔克（Luke Chalker）则不愿将这种局面定性为一场战役，他声称：“这不是一场战争。这是一场彻底一边倒的屠杀”，而保险公司正处于输家一方。\n\n您的下一个重大合作契机就在 Disrupt。与超过 10,000 名创始人、风投机构、运营人员及科技领袖建立联系。探索未来的突破性技术，倾听塑造当下科技格局的声音，并在太平洋时间 9 月 25 日晚 11:59 之前报名，立省高达 200 美元。\n\n每个工作日和周日，您都可以获取 TechCrunch 的精选报道。\n\nTechCrunch Mobility 是您获取交通出行领域新闻与洞察的目的地。\n\n初创公司是 TechCrunch 的核心，欢迎每周查收我们的优质报道。\n\n为行业领袖和决策者提供开启崭新一天所需的信息资讯。\n\n提交您的电子邮箱即表示您同意我们的条款和隐私政策声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "据蓝十字蓝盾协会（BCBSA）的一项分析，医院在提交保险理赔时使用人工智能工具，在两年期间导致医疗支出额外增加9.42亿美元。",
+          "BCBSA的分析发现，被记录为患有复杂疾病的患者数量大幅增加。",
+          "来源叙事重点：报道围绕BCBSA所称的两年内额外增加9.42亿美元医疗支出展开，突出“复杂疾病记录增加”与医疗编码、实际治疗之间可能存在脱节，并将其置于医院与保险公司长期支付博弈及双方使用AI可能加剧冲突的框架中。同时保留Abridge创始人关于AI可能导致自动化对抗、也可能降低成本的双重判断。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T21:02:06.000Z",
+            "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+          }
+        ]
+      },
+      {
+        "id": "story-7-410e-8ade-ab09add476a7-c3714dc6f047217b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "German and Russian foreign ministers meet for first time in over four years",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T19:01:46.000Z",
+        "pubTime": "2026-09-27 03:01",
+        "url": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1a6d5602-03cd-4c89-9314-0e6cb212fda0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-27 03:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-26T19:01:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-abs-2608-23642-740fe06183518f78",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI Agents Push Humans Out of the Loop",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T19:21:56.000Z",
+        "pubTime": "2026-09-27 03:21",
+        "url": "https://arxiv.org/abs/2608.23642",
+        "imageUrl": null,
+        "fullContent": "Abstract: AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a ''human in the loop'', but this is not a simple solution: Not only do current approaches to AI agent design impede effective human oversight, but the cognitive capacities required for it are also themselves degraded by extended use of AI systems. This position paper argues that current approaches to the development and deployment of AI agent systems do not support effective human oversight -- they contribute to its degradation. To address this, a top priority in the advancement of AI agents should be supporting the situated goals and cognitive requirements of effective human oversight, treating the human needs of overseers at the same level of importance as AI agent capability. To put this idea into practice, we connect work on automation and human-computer interaction to AI agent processes, outlining design-level affordances and organizational protocols that (1) support overseers in exercising critical judgement and (2) counteract the skill atrophy that arises from extended use of automation. We urge developers and deployers to adopt these or similar approaches. Without explicit support for the cognitive demands of effective human-agent interaction, AI agent systems will continue to passively incentivize the degradation of the very human skills they rely on.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：质疑传统“人在回路（Human in the loop）”作为AI自主性安全保障的有效性，强调现有AI Agent设计不仅阻碍有效监督，还会导致人类认知退化与技能萎缩；主张应将人类监督者的认知需求和情境目标提升至与AI自身能力同等的战略高度。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T19:21:56.000Z",
+            "url": "https://arxiv.org/abs/2608.23642"
+          }
+        ]
+      },
+      {
+        "id": "story-ealth-instagram-ads-html-0282ee79c968db19",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Looking for #womenshealth information on Instagram? 4 out of 10 posts are ads",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:00:07.000Z",
+        "pubTime": "2026-09-27 05:00",
+        "url": "https://phys.org/news/2026-09-womenshealth-instagram-ads.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/looking-for-womensheal.jpg",
+        "fullContent": "A woman in her 40s scrolls through Instagram. Between photos of friends, recipes and vacation photos, she comes across a video about perimenopause. The woman on screen explains that perimenopause is to blame for feeling tired, having trouble remembering things, struggling to sleep or gaining weight.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 05:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-womenshealth-instagram-ads.html",
+            "publishedAt": "2026-09-26T21:00:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2193499-c0a3107e530901ea",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Seven Palestinians killed in Gaza Strip during Israeli attacks — Health Ministry",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T22:50:00.000Z",
+        "pubTime": "2026-09-27 06:50",
+        "url": "https://tass.com/world/2193499",
+        "imageUrl": null,
+        "fullContent": "BEIRUT, September 27. /TASS/. The death toll from Israeli army strikes on the Gaza Strip over the past 48 hours has reached seven, with another 38 people wounded, according to a report by the Palestinian enclave's Health Ministry posted on the X social media platform.\n\nAccording to the ministry, the bodies of seven killed residents were brought to Gaza hospitals, and medical aid was provided to 38 wounded individuals, including women and children. Most of the victims were brought from the Sheikh Radwan neighborhood and the Nuseirat refugee camp, where Israeli forces had been conducting intense fire.\n\nSince the start of the truce on October 11, 2025, 1,415 people have been killed and another 4,953 wounded during Israeli airstrikes and artillery shelling, the ministry said. The total death toll from the escalation of the conflict in Gaza since October 2023 has risen to 74,016, with the number of injured reaching 175,068, the ministry added.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "巴勒斯坦加沙地带卫生部称，过去48小时内以色列军队对加沙地带发动的袭击造成7人死亡、38人受伤。",
+          "巴勒斯坦加沙地带卫生部称，7名死者的遗体被送往加沙医院，38名伤者获得医疗救助，其中包括妇女和儿童。",
+          "来源叙事重点：聚焦以色列军队在加沙的空袭和炮击所造成的人员伤亡，突出谢赫·拉德万社区和努塞拉特难民营等地点，并列出停火以来及2023年10月冲突升级以来的累计伤亡数字。相关归因和数字均明确或实质上依赖加沙卫生部的叙述，不能仅据此视为已独立证实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T22:50:00.000Z",
+            "url": "https://tass.com/world/2193499"
+          }
+        ]
+      },
+      {
+        "id": "story-0m-in-alabama-settlement-56e787e129aad1a6",
+        "title": "TikTok同意支付至少1亿美元以达成阿拉巴马州和解协议",
+        "originalTitle": "TikTok agrees to pay at least $100M in Alabama settlement",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T20:24:45.000Z",
+        "pubTime": "2026-09-27 04:24",
+        "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+        "imageUrl": null,
+        "fullContent": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children. The case was scheduled to go to trial on Monday.\n\nAccording to the Alabama attorney general’s office, TikTok could end up paying the state a total of $300 million, depending on “certain conditions.” The company also agreed to introduce a two-hour daily time limit for underage users, with additional parental controls, as well as restrictions on overnight usage and cosmetic filters.\n\nIn a statement, Alabama Attorney General Steve Marshall said that parents in his state can now “rest easier knowing real protections are in place to shield their children from the dangers of social media addiction.”\n\nTikTok also released a statement saying that the settlement “builds on our commitment and core objective to continually enhance our robust safety tools to protect teens.”\n\nIn August, TikTok reached a $400 million settlement with the Department of Justice over allegations that the platform violated child privacy laws.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "TikTok将向阿拉巴马州支付至少1亿美元，以解决有关这家短视频平台误导用户有关安全问题、并被设计成让儿童上瘾的指控。该案原定于周一开庭审理。\n\n据阿拉巴马州总检察长办公室称，TikTok最终可能向该州支付总计3亿美元，具体取决于“某些条件”。该公司还同意为未成年用户引入每日两小时的使用时限，并增加家长控制功能，同时限制夜间使用和美颜滤镜的使用。\n\n阿拉巴马州总检察长史蒂夫·马歇尔在一份声明中表示，如今，该州家长可以“更加安心，因为已有切实的保护措施到位，能够保护孩子免受社交媒体成瘾的危害”。\n\nTikTok也发表声明称，这项和解协议“建立在我们不断强化强大安全工具、保护青少年这一承诺和核心目标之上”。\n\n今年8月，TikTok就有关该平台违反儿童隐私法律的指控，与美国司法部达成了4亿美元的和解协议。\n\n你与下一位重要合作伙伴的连接就在Disrupt。届时将有逾1万名创始人、风险投资人、运营者和科技领袖参加。探索明日的突破，了解当今正在塑造科技行业的力量，并在美国太平洋时间9月25日晚上11时59分前报名，最高可节省200美元。\n\n每个工作日和周日，你都可以获得TechCrunch最精彩的报道。\n\nTechCrunch Mobility是你获取交通运输新闻和洞察的目的地。\n\n初创企业是TechCrunch报道的核心，因此请每周接收我们最优质的报道。\n\n为行业推动者和重要人物提供开启一天所需的信息。\n\n提交电子邮件即表示你同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "TikTok同意就阿拉巴马州一宗和解支付至少1亿美元。",
+          "该和解涉及对TikTok误导用户有关安全问题、并被设计成使儿童上瘾的指控。",
+          "来源叙事重点：将事件框架为TikTok因涉嫌误导用户、促成儿童成瘾和违反儿童隐私保护而承担财务与产品治理责任；同时呈现阿拉巴马州方面关于保护儿童的正面表述，以及TikTok关于持续改进青少年安全工具的自我表述。文章强调至少1亿美元的确定金额、最高可能达到3亿美元的条件性金额，以及每日两小时限制、家长控制、夜间使用限制和美颜滤镜限制等措施。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T20:24:45.000Z",
+            "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
+          }
+        ]
+      },
+      {
+        "id": "story-ell-people-that-6b9f231e-775e5c50c12a111c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T19:00:00.000Z",
+        "pubTime": "2026-09-27 03:00",
+        "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“As a country, we have grown dangerously comfortable.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-27 03:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T19:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-8087-tangent-cordic-html-e8ec240f9c9229ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T19:01:50.000Z",
+        "pubTime": "2026-09-27 03:01",
+        "url": "http://www.righto.com/2026/09/8087-tangent-cordic.html",
+        "imageUrl": null,
+        "fullContent": "I hope you're not tired of the 8087, because I have another article about Intel's floating-point chip.1 In 1980, Intel introduced the 8087, making floating-point operations much faster in the IBM PC and other systems. In this article, I look at the algorithm behind the chip's tangent instruction. One popular approach for trigonometric functions is an algorithm called CORDIC. Another approach is a polynomial approximation. The 8087 combined the two to obtain both high accuracy and high performance. The 8087 provided an enormous speedup over the 8086 microprocessor, computing a tangent in 90 microseconds rather than 13,000 microseconds.2\n\nBy examining the circuitry and microcode of the 8087, I can explain the algorithm behind the tangent instruction, called FPTAN. To explore the 8087's circuitry, I popped the lid off a chip with a chisel and created a high-resolution image with a microscope. The microcode ROM is the large rectangular region in the center of the die, holding the 1648 micro-instructions that control the chip. The bottom half of the chip (red box) is the datapath, the circuitry that performs floating-point calculations on 80-bit values.3\n\nJack Volder came up with a fast way to calculate trigonometric functions with simple hardware. He called the algorithm—and the computer that implemented it—CORDIC: \"COordinate Rotation DIgital Computer\". CORDIC converts an angle to a vector, where the vector's coordinates provide the necessary trig functions. The trick is to break down the angle into a sequence of special angles, angles that make vector rotation easy. These special angles are precomputed and stored in a table, so the CORDIC calculation can be performed quickly, even on 1950s hardware. Each CORDIC iteration provides an additional bit of accuracy, so the algorithm converges rapidly. CORDIC became popular, including in scientific calculators, which used decimal CORDIC instead of binary.\n\nI'll try to keep the math to a minimum, but in this section I'll give a quick explanation of how CORDIC works. The diagram below reviews how trig functions are related to the coordinates of a point. Suppose you have an angle θ; it specifies a point (X, Y) on the unit circle. The basic formulas are X=cos θ, Y=sin θ, and Y/X = tan θ. Thus, if you can determine the coordinate (X, Y), then you can determine the value of the trig functions. If the point is not on the unit circle, e.g. (X', Y'), then you can still easily determine tan θ. (Spoiler: this is what the 8087 does.) However, sin θ and cos θ become messy.4\n\nIf you've done any computer graphics, you've probably seen how a rotation matrix can rotate a point by an angle. (If you're not familiar with rotation matrices, you can read about them here or just trust that it works.) Multiplying a point (X, Y) by the rotation matrix yields the new point (X', Y') as shown below.\n\nUnfortunately, since the rotation matrix (1, below) requires sin and cos, it doesn't seem like it helps solve our problem. However, we can divide the matrix by cos θ; this seems even less helpful since now the matrix (2) needs tan, which is what we want to evaluate. (Moreover, the vector's length will grow.) But the key to CORDIC is to use special angles, αn = arctan(2-n). When we substitute one of these special angles into the matrix, we get matrix (3), which is easy to evaluate in hardware: multiplying by a power of 2 can be done by shifting the bits.\n\nApplying matrix (3) to the point (X,Y) gives the equations (4). These are key equations for the CORDIC process. The important thing is that these equations are fast and easy to compute in machine language or hardware, as the only operations are addition, subtraction, and binary shifting.\n\nWith that background, we can see how CORDIC works. First, we break down the desired input angle into a combination of special angles that adds up to the desired angle.5 Then we apply the rotation formula above for each special angle, starting with the unit vector (1, 0). The result is a point (X, Y) at the desired angle, and then the desired tangent is simply Y/X.6 Since the table of special angles is precomputed, the arctan operations don't slow down the process. As an aside, after the first few terms, the special angles approach 2-n, so they shrink by roughly a factor of 2 at each step.\n\nTo summarize, the CORDIC algorithm consists of looping through a table of stored angles. If the stored angle is less than the desired angle, the stored angle is subtracted from the desired angle to yield a new desired angle and the equations above (shifts, add, and subtract) are applied to yield a new vector. At the end, the tangent of the original angle is given by Y/X.\n\nThe accuracy of CORDIC depends on the number of terms that are used. With 16 terms, the accuracy is approximately 2-16, or 16 bits of accuracy. To get 64 bits of accuracy would require calculating 64 terms (and a table of 64 special angles). To get an answer faster, the 8087 uses 16 bits of CORDIC and uses another algorithm for the remaining angle. (The remaining angle is the gap between the sum of special CORDIC angles and the desired angle, so it is very small, around 2-16.)\n\nFor the remaining angle, the 8087 uses a Padé approximant, which is the ratio of two polynomials. There's a whole family of Padé approximations, depending on the order of the polynomials. The 8087 uses a simple formula: 3x/(3-x2).8 Although this approximation is simple, it is very accurate for small values; its error is proportional to x4. Since x<2-16, the error will be less than 2-64, meeting the 64-bit accuracy requirement for the 8087. Moreover, the 8087 doesn't need to perform the division in the rational polynomial since FPTAN returns a separate numerator and denominator. Thus, the division is \"free\".\n\nIf you've studied calculus, you might think that a Taylor series polynomial is the way to go, but the ratio of two polynomials is better. (One reason is that tangent blows up to infinity at π/2. A polynomial won't blow up, but the ratio of polynomials can, so it fits the tangent function better.) The graph above compares the tangent function (red), the rational approximation (blue), and the third-order Taylor series (green).\n\nThe 8087's tangent algorithm has three parts: determining the CORDIC decision bits (called pseudo-division), computing the rational approximation, and applying the rotation equations based on the CORDIC decision bits (called pseudo-multiplication).9\n\nIn more detail, the first step determines which special angles to add to approximate the input angle. Each special angle is compared to the remaining input angle and subtracted if it is smaller. If the angle is subtracted, a 1 is recorded; otherwise, a 0 is recorded. Since this process is similar to how long division subtracts (or doesn't subtract) successive shifted versions of the divisor, generating 1s or 0s for the quotient, the process is known as pseudo-division. Note that the rotations are not applied in this step. Instead, this step decides which rotations to apply later.\n\nThe diagram below shows this process applied to the input angle 0.95 radians.10 The process generates the sequence of bits [1,0,0,1,0,1,0,1,0,0,1,0,0,1,1,1], where the leftmost bit indicates arctan(20) and so forth. The angle is reduced by roughly a factor of 2 at each step, so the residual angle is very small.\n\nNext, the tangent of the remaining angle is calculated with the rational approximation function, 3x/(3-x2). The result is used as the initial vector for the next step. The division is not performed here; instead, the numerator becomes Y in the initial vector and the denominator becomes X. Thus, the expensive division step is avoided, since it happens implicitly in the answer. Multiplying by 3 is easy (shift left and add), so the only expensive operation at this step is squaring the angle, which requires a full 64-bit multiplication.\n\nThe diagram above shows the process applied to the input 0.95. The initial vector (green) comes from the rational approximation function; it is very close to (3, 0), but slightly rotated due to the tiny residual angle. Each rotation step generates a new vector that matches the angle from the corresponding step in the first part; I show two of the rotation matrices. Note that the vectors diverge from the circle—a consequence of dividing each matrix by cos θ—but this doesn't affect the tangent.\n\nThe FPTAN instruction is somewhat peculiar as it doesn't return the tangent directly. Instead, it returns the Partial Tangent: the two coordinate values (X and Y) that can be divided to produce the tangent. One might wonder why the chip didn't do the division automatically. The motivation was that division was slow back then, and omitting the division allowed for optimizations in some cases.\n\nIn this section, I'll explain some features of the 8087 that are important for the microcode implementation of FPTAN.\n\nThe 8087 supports a variety of data types, but internally, everything is stored as an 80-bit floating-point number called a \"temporary real\". A number has three parts: a sign bit, a 15-bit exponent, and a 64-bit significand (the fractional part), In most cases, a floating-point number is represented by sign × significand × 2exponent. The advantage of floating-point numbers is that the exponent allows them to cover a huge range, from very small to very large. The significand is a 64-bit binary number of the form 1.bbb…: a leading 1, followed by the binary point (the binary equivalent of the decimal point) and the rest of the bits.11 One important detail is that the exponent is stored with a \"bias\" of 16383 added to it. Thus, the stored exponent is always positive, even if the real exponent is negative. For instance, an exponent of 1 is stored as 0x4000, and an exponent of -16 is stored as 0x3fef.\n\nIn this section, I'll discuss some highlights of the tangent microcode. The listing below shows the 8087's microcode, along with my comments. Each line indicates a 16-bit micro-instruction. The control flow is a bit complicated, so I've put a flowchart in the footnotes.12\n\nOne peculiar feature of the 8087 is that it flags a result with a \"precision\" exception if the result is not exact. (This happens very frequently, even for, say, 1/10.) The only tangent that the 8087 can compute precisely is tan(0), so all other inputs result in a precision exception (#1044).\n\nNext, the argument's exponent is tested, splitting the execution into three paths. If the exponent is -64 or less, the argument is so small that the tangent equals the argument, within the accuracy of the system.13 In this case (#1057), the original argument is returned unchanged (with the denominator 1 pushed), and the code ends. The second case is if the argument's exponent is -17 or less. In this case, the CORDIC step is skipped, and the routine jumps directly to the rational approximation (#1082).\n\nThe most interesting case is the CORDIC path (#1061), taken if the exponent is between -1 and -16. Conceptually, the code performs 16 CORDIC steps, using 16 stored angles. However, the code is optimized, skipping the large angles for smaller inputs. Specifically, the loop counter is initialized based on the exponent of the input angle (#1062). The CORDIC pseudo-division loop (#1061-#1080) tests the angles, subtracting ones that aren't too big.14\n\nThe code is optimized to use 64-bit integer arithmetic rather than floating-point arithmetic. This makes it tricky to understand the code since values must be viewed more as fixed-point numbers with implicit exponents. These exponents are not stored anywhere, but can be determined by analyzing the algorithm. Even the angle constants in the ROM do not have explicit exponents.15 Moreover, the implicit exponents change for each step through the loop to preserve accuracy. Roughly speaking, each cycle of the loop reduces the values by a factor of 2, and the angle constants shrink accordingly. If the values had a fixed exponent, they would end up with 16 leading zeros, wasting precision. But by scaling the values each cycle (with a left shift), the numbers continue to use the full 64 bits. In other words, the hardware is performing fast integer arithmetic, but mathematically you can think of it as fixed-point with exponents that don't physically exist in the chip. See the table in the footnotes16 for details on how the implicit exponents change through the loop.\n\nAfter the CORDIC pseudo-division loop, the microcode calculates the rational polynomial approximation (#1082). The small-angle path rejoins the execution flow here. The microcode to calculate the polynomial approximation has a few interesting features. The most time-consuming part is the SQUARE routine, which multiplies a fixed-point number by itself. Multiplication is complicated, so I'll give the details in a later post. But in brief, the 8087 uses Booth's Algorithm to multiply by two bits at a time (radix 4), so it is twice as fast as regular binary multiplication. The loop to perform the shifts and adds is implemented in hardware, rather than microcode. That is, one microcode instruction performs 32 additions: the hardware tests the bits, does the appropriate add or subtract, updates the loop counter, and loops. For performance, the shifting is done with specialized shifters, not the 8087's general-purpose shifter.\n\nExcept for the square, the polynomials are calculated with additions rather than multiplications. The constant 3 doesn't come from the constant ROM, but from special-purpose transistors that set the top two bits of the significand; this is usually used to supply an NaN. (If the implicit exponent is 1, this corresponds to 3.) Subtracting the square yields the numerator. For the denominator, the angle is shifted right (i.e. divided by 2) and added to itself. This performs a multiplication by 3 (technically by 1.5, but increasing the implicit exponent to 1 turns this into 3). It would be expensive to divide the numerator by the denominator; instead, the numerator and denominator are used as the initial Y and X values for the following CORDIC steps.\n\nAfter the CORDIC loop, the final part of the code (#1118) normalizes the X and Y values, creating the floating-point values that are returned from the instruction. Recall that these aren't \"real\" floating-point values at this point, so they may need adjustment. Specifically, if X doesn't have a leading 1, it is shifted left one position, while if Y has two leading digits, it is shifted right one position. In either case, the exponent is adjusted accordingly. The X and Y values are put on the stack (#1132) to complete the instruction.\n\nThe FPTAN instruction is fairly slow as 8087 instructions go, due to its complexity. The documentation says that it takes typically 450 clock cycles. (The time has a large range; depending on the value, it can take 30 to 540 clock cycles.) For the value I examined (0.95), 33% of the time is in the CORDIC pseudo-division, 15% in the rational polynomial (mostly the squaring operation), 47% in the CORDIC pseudo-multiplication, and 5% overhead.\n\nCORDIC is a popular way to compute trig functions, but there are alternatives such as polynomials. The 8087 is unusual because it combines CORDIC and a rational polynomial. For the Pentium, Intel moved from CORDIC to polynomial approximations; the Pentium's fast multiplication circuitry made polynomials practical. Nowadays, Intel has libraries such as MKL (Math Kernel Library) and Short Vector Math Library (SVML) that provide highly optimized implementations tailored to Intel hardware. These libraries are said to use polynomial approximations, using parallel instructions (SIMD) for performance, rather than specialized hardware. With these libraries, x87 operations and 80-bit floats are mostly obsolete. Nonetheless, I hope you've enjoyed this look at an original 8087 algorithm.\n\nI plan to continue reverse-engineering the 8087 microcode; for updates, follow me on Bluesky (@righto.com), Mastodon (@[email protected]), or RSS. I've been working on this with the members of the \"Opcode Collective\", especially Smartest Blob and Gloriouscow, who converted the ROM images to microcode data and extensively analyzed the contents. See the 8087 repository on GitHub for more. AI statement: Despite the presence of the em dash, no AI was used in the writing of this article (details). The Opcode Collective used an ML algorithm to classify each ROM cell to extract the microcode.\n\nIntel's documentation provides a performance comparison of the 8087 versus floating-point operations emulated on the 8086. The speedup varies depending on the instruction, but is typically almost a factor of 100. This speedup made the 8087 chip highly desirable for numerical applications such as CAD and spreadsheets. ↩\n\nInternally, the 8087 uses 80 bits to hold floating-point values: one bit for the sign, 15 bits for the exponent, and 64 bits for the significand. However, the 8087 uses three extra low-order bits for rounding, called Guard, Round, and Sticky. These bits ensure that a value is always rounded in the right direction. Some parts of the datapath have additional bits for sign or overflow: the shifter is 68 bits wide, and the adder is 69 bits wide. For the most part, I'll ignore these extra bits and refer to the datapath as 64 bits wide. ↩\n\nTo compute sin θ from the 8087's X and Y values, the typical formula is sin θ = Y/sqrt(X2+Y2); cos θ is similar. ↩\n\nThe special angles (in degrees) are approximately 45°, 26.6°, 14°, 7.1°, 3.6°, 1.8°, 0.9°, … You might wonder if adding up the special angles will always converge to the desired angle θ. A proof can be found here. Note that arctan(2-n) rapidly approaches 2-n (in radians), so it's kind of like a binary fraction expression, cutting the gap approximately in half each time. ↩\n\nThe CORDIC implementation in the 8087 is somewhat different from the typical use of CORDIC, which finds sin and cos. In this approach, all the speci",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 36,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T19:01:50.000Z",
+            "url": "http://www.righto.com/2026/09/8087-tangent-cordic.html"
+          }
+        ]
+      }
+    ],
+    "articleSnapshots": [
+      {
+        "id": "story-026-09-27-10704313-shtml-e13aa636598667c0",
+        "title": "特朗普称美国和古巴会达成协议",
+        "originalTitle": "特朗普称美国和古巴会达成协议",
+        "source": "中新社 (国际实时原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-26T22:53:59.000Z",
+        "pubTime": "2026-09-27 06:53",
+        "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml",
+        "imageUrl": null,
+        "fullContent": "美国总统特朗普26日称，他认为美国和古巴会达成协议，美方“不需要动用军队”。\n\n特朗普当天在白宫南草坪前往田纳西州前作上述表示。\n\n古巴外长罗德里格斯当天在联合国大会一般性辩论发言中说，美国对古巴的封锁是“一种集体惩罚行为”，目的是在古巴引发一场人道主义危机。他同时表示，古巴对美国不构成威胁，并随时准备在主权平等和尊重国际法的基础上与美国进行对话。\n\n美国长期对古巴实施经济、金融封锁和贸易禁运。继今年相继对委内瑞拉、伊朗发起军事行动后，美方又对古巴发出威胁，并进一步加大对古巴施压，实行石油封锁，扩大对古制裁。据美国方面此前消息，特朗普政府对古巴的战略正日益侧重于加大经济制裁和施压力度，而非部署军事力量。\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "美国总统特朗普26日称，他认为美国和古巴会达成协议，美方“不需要动用军队”。\n\n特朗普当天在白宫南草坪前往田纳西州前作上述表示。\n\n古巴外长罗德里格斯当天在联合国大会一般性辩论发言中说，美国对古巴的封锁是“一种集体惩罚行为”，目的是在古巴引发一场人道主义危机。他同时表示，古巴对美国不构成威胁，并随时准备在主权平等和尊重国际法的基础上与美国进行对话。\n\n美国长期对古巴实施经济、金融封锁和贸易禁运。继今年相继对委内瑞拉、伊朗发起军事行动后，美方又对古巴发出威胁，并进一步加大对古巴施压，实行石油封锁，扩大对古制裁。据美国方面此前消息，特朗普政府对古巴的战略正日益侧重于加大经济制裁和施压力度，而非部署军事力量。\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 21,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "美国总统特朗普于26日在白宫南草坪前往田纳西州前表示，他认为美国和古巴会达成协议，美方不需要动用军队。",
+          "古巴外长罗德里格斯在联合国大会一般性辩论发言中称，美国对古巴的封锁是“一种集体惩罚行为”，目的是引发人道主义危机，并表示古巴对美不构成威胁且愿在主权平等和尊重国际法基础上对话。",
+          "来源叙事重点：突出特朗普关于美古将达成协议且不需要动用军队的表态，同时以古巴方面对美国封锁的批评、对话意愿以及美国持续制裁和施压作为背景，形成“存在谈判可能但伴随高压政策”的叙事框架。"
+        ],
+        "citations": [
+          {
+            "source": "中新社 (国际实时原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-26T22:53:59.000Z",
+            "url": "https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-ages-over-haptic-patents-10792b6727af1abd",
+        "title": "因触觉反馈专利侵权，苹果被判赔偿57亿美元",
+        "originalTitle": "Apple hit with $5.7 billion in damages over haptic patents",
+        "source": "The Verge (前沿数码科技)",
+        "sourceSlug": "theverge",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:30:01.000Z",
+        "pubTime": "2026-09-27 05:30",
+        "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+        "fullContent": "Posts from this topic will be added to your daily email digest and your homepage feed.\n\nApple’s Taptic Engine was found to infringe on two of Taction’s patents.\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nSee All by Terrence O'Brien\n\nHaptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, “The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input.”\n\nTaction argued that Apple’s Taptic Engine in its Apple Watches and iPhones used technology that it had developed without a proper license, and the jury agreed. It found that Apple had infringed on two claims in one patent and one in the other. However, the jury did not find that Apple willfully infringed. Taction had accused Apple of reverse-engineering the tech from two Kannon gaming headsets.\n\nApple has said that it intends to appeal the decision. We’ve reached out for additional comment and will update the story if and when we hear back.\n\nA free daily digest of the news that matters most.\n\nThis is the title for the native ad",
+        "fullTranslation": "该主题的推送将添加到您的每日电子邮件摘要和主页信息流中。\n苹果的 Taptic Engine 被认定侵犯了 Taction 的两项专利。\n该作者的推送将添加到您的每日电子邮件摘要和主页信息流中。\n查看 Terrence O'Brien 的全部文章\n触觉技术公司 Taction 于 2021 年起诉苹果公司，指控其侵犯了两项专利。如今，圣迭戈的一个联邦陪审团裁定判给 Taction 超过 57 亿美元的赔偿金。据 CNBC 报道，“这起诉讼围绕美国专利号 10,659,885 和 10,820,117 展开，两项专利均涉及基于振动的触觉换能器技术，该技术可帮助用户感受到设备对其输入的反馈。”\nTaction 主张，苹果在其 Apple Watch 和 iPhone 中使用的 Taptic Engine 未经适当许可便使用了其开发的技术，陪审团对此表示赞同。陪审团认定苹果侵犯了一项专利中的两项权利要求以及另一项专利中的一项权利要求。然而，陪审团并未认定苹果属于故意侵权。Taction 此前曾指控苹果通过逆向工程抄袭了两款 Kannon 游戏耳机的技术。\n苹果公司已表示打算对该裁决提出上诉。我们已联系对方征求进一步置评，如有答复将及时更新报道。\n最重要的焦点新闻免费每日摘要。\n这是原生广告的标题",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 9,
+        "translationParagraphs": 1,
+        "keyTakeaways": [
+          "Taction于2021年起诉苹果，指控苹果侵犯其两项专利。",
+          "圣迭戈的一家联邦陪审团裁定向Taction赔偿超过57亿美元。",
+          "来源叙事重点：突出苹果的Taptic Engine被陪审团认定侵犯Taction两项专利，以及超过57亿美元赔偿这一重大商业和法律后果；同时提及陪审团未认定故意侵权和苹果拟上诉。"
+        ],
+        "citations": [
+          {
+            "source": "The Verge (前沿数码科技)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T21:30:01.000Z",
+            "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
+          }
+        ]
+      },
+      {
+        "id": "story-d-i-do-the-same-8ab5cba3-3c71c105259e7aa4",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T20:00:00.000Z",
+        "pubTime": "2026-09-27 04:00",
+        "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“She currently has about 15 sitters, all independent contractors.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-27 04:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T20:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ainst-kalshi-says-states-0410d365e165a39b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "US appeals court rules against Kalshi, says states can regulate prediction markets",
+        "source": "Reddit r/technology (科技伦理热议)",
+        "sourceSlug": "reddit",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:44:54.000Z",
+        "pubTime": "2026-09-27 05:44",
+        "url": "https://www.reddit.com/r/technology/comments/1wr2jba/us_appeals_court_rules_against_kalshi_says_states/",
+        "imageUrl": "https://external-preview.redd.it/0qIrhlE6v2g4hKrxxlwABUWrEM36R9sIIUSD3jcpH00.jpeg?width=640&crop=smart&auto=webp&s=979bc7c6d8597b4807886fa3ce2a8587a0eccdf8",
+        "fullContent": "submitted by /u/mepper [link] [comments]",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Reddit r/technology (科技伦理热议)】于 2026-09-27 05:44 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Reddit r/technology (科技伦理热议)",
+            "url": "https://www.reddit.com/r/technology/comments/1wr2jba/us_appeals_court_rules_against_kalshi_says_states/",
+            "publishedAt": "2026-09-26T21:44:54.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-ally-impaired-young-html-1deb87c976d142c8",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "NEET with a disability: What's holding back visually impaired young people who want to work",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T22:30:02.000Z",
+        "pubTime": "2026-09-27 06:30",
+        "url": "https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/visually-impaired.jpg",
+        "fullContent": "I have been fortunate in my research to follow 80 young people with vision impairment over 11 years. I tracked their journeys from school into adulthood, speaking with them at regular intervals to learn what had happened since we last spoke, what had gone well and what could have been improved.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 06:30 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html",
+            "publishedAt": "2026-09-26T22:30:02.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-026-09-27-10704312-shtml-2a7afd2ec154ee85",
+        "title": "AI时代，为啥还要拼技能？世赛现场即答案",
+        "originalTitle": "AI时代，为啥还要拼技能？世赛现场即答案",
+        "source": "中新网 (全球要闻原版)",
+        "sourceSlug": "chinanews",
+        "sourceLang": "zh",
+        "publishedAt": "2026-09-26T22:51:35.000Z",
+        "pubTime": "2026-09-27 06:51",
+        "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml",
+        "imageUrl": null,
+        "fullContent": "国家会展中心(上海)，第48届世界技能大赛64个赛项激烈角逐。对全球技能青年来说，这是一生只能参与一次的比赛。\n\n这里有工业力量的硬核比拼，调试代码、排查故障，在工业机械的毫厘之间追求极致精度；有数字世界的无声攻防，在代码的迷宫中捕捉每一个隐藏的缺陷；有创意与美学的灵感绽放，选手将面料化为流动的艺术，让每一件作品尽显技法之美；也有烟火人间的温暖呈现，烹饪的香味与美发的芬芳飘散赛场……\n\n有人问：人工智能(AI)时代，为啥还要比拼技能？世赛现场即答案。\n\n试想这样的场景：一位老年人，坐在床边，不肯吃饭。\n\n你劝了10分钟，他还是把头扭开。这时候，光有耐心够吗？可能不够。你需要判断：是老人吞咽功能出了问题，还是情绪低落，药物副作用？不同的原因，决定了不同的照护方式。\n\n这就是世界技能大赛健康和社会照护项目比赛中考核参赛者的重要内容。这项比赛，不只是在工位上完成一道操作，而是把真实的照护现场搬进赛场。选手要面对由真人扮演的“标准化病人”，全程用英语沟通，并在规定时间里完成一整套照护流程。\n\n用中国专家的话说，这个项目要看选手“脑中有没有判断”“手上有没有技术”，更要看“心中有没有人”。\n\n毫无疑问，科技正在改变照护：智能餐具可以调温、发声；毫米波感应器能无接触监测生命体征……但人的判断和温情依旧珍贵。再如，高危喷漆作业有望被机器人替代，但个性化家装仍依赖人工经验；精密测量工具提升了精度，但在仿古建筑、修缮建造祠堂等特定场景，手工砌筑技艺依旧“吃香”。\n\n“不能把AI的工具能力、属性，和人的职业技能完全对立起来，预设了AI能干，就不需要人精炼技能，这个前提本身是站不住脚的。”世界技能大赛中国(上海)研究中心主任、上海工程技术大学教授王迪说，目前看，AI还不是独立的决策者与负责任的落地执行者，无法自主判断需求真伪、校验工程安全、处理现场突发故障，不能对最终成果承担责任。“技能大赛比拼的，恰恰是人驾驭工具、甄别错误、解决非标复杂问题、把控质量的能力。”王迪说。\n\n高铁列车飞驰，旅客感受到的平稳与安静背后，是检修人员的“反复问诊”“手到病除”。\n\n第48届世界技能大赛新增的轨道车辆技术赛项，就重点考查对列车故障的排查与维保调试，需要机械、电气、控制、数据等多个领域的复合能力。换句话说：看选手能不能在多个技术领域的交叉点上，做出准确判断。\n\n这正是世赛赛项设置所反映的产业趋势。本届世赛新增7个项目：轨道车辆技术、无人机系统、智慧安防技术、软件测试、数字交互媒体设计等，集中体现数字化、智能化对职业技能的重塑。\n\nAI时代，对“技能”的理解本身也在不断拓展。“如果说传统工匠比拼的是一技之长，现在工匠比拼的则是‘一专多能’。”世界技能大赛中国(天津)研究中心、天津职业技术师范大学工程实训中心副主任张瑞说。比如，工业4.0项目，模拟的是一座智能工厂的完整运行过程，涉及机械装配、电气接线、数据采集与分析、生产调度优化等多个技术领域；新增的无人机系统赛项，则要求选手同时扮演工程师、程序员、飞手三重角色。\n\n今天，青年工程师写代码、调算法，用软件定义机器、用数据驱动生产，这本身就是“技能”最好的注解。而那些10年前还闻所未闻的新职业，今天也已成为一批青年安身立命的事业。“新增赛项清晰映照出全球产业变革的浪潮，也生动展现了新时代中国青年正在投身的新事业、新行业、新职业。”张瑞认为，未来的技能人才不再是重复单一工序的操作者，而是能够驾驭数字化工具、具备跨领域解决问题能力的复合型工匠。\n\n当前，新一轮科技革命和产业变革加速突破，全球对技能的重视程度也持续提升，技能发展已成为各国政府优先事项。\n\n一组数据很有代表性：世界技能组织成立于1950年，目前有90个国家和地区成员，覆盖全球2/3人口；中国于2010年加入世界技能组织，是其第53个成员。也就是说，最近10多年来，该组织增加了30多个新成员，这反映出世界技能组织在全球的影响力日益扩大，也从侧面反映出越来越多国家和地区认识到提高劳动者职业技能水平的重要性。\n\n世界技能组织主席弗朗西斯·乌汉认为，各国正持续应对技术革新与各类全球难题，而破解这些难题的核心力量，正是千千万万技能从业者。“赛场上每一项技能展示的背后，那份沉稳精湛的实力，皆源于长年累月的专注与磨砺，值得被全世界看见与赞颂。”乌汉说。\n\n本届世赛，有80个国家和地区注册参与，68个国家和地区派出1385名选手参赛——这正是今天技能重要性最直白的写照。\n\n“如切如磋，如琢如磨”，世界技能博览会专门设立中国馆，观众既能看到运载火箭、深海探测船等大国重器，也能体验拓印、古籍修复等传统文化技艺。步入馆内，一行醒目的大字映入眼帘：“大国工匠是我们中华民族大厦的基石、栋梁。”\n\n同各方加强交流合作，推动世界技能运动发展，更好服务全球经济增长和民生福祉改善——这也是中国通过第48届世界技能大赛向世界传递的强劲信号。\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "fullTranslation": "国家会展中心(上海)，第48届世界技能大赛64个赛项激烈角逐。对全球技能青年来说，这是一生只能参与一次的比赛。\n\n这里有工业力量的硬核比拼，调试代码、排查故障，在工业机械的毫厘之间追求极致精度；有数字世界的无声攻防，在代码的迷宫中捕捉每一个隐藏的缺陷；有创意与美学的灵感绽放，选手将面料化为流动的艺术，让每一件作品尽显技法之美；也有烟火人间的温暖呈现，烹饪的香味与美发的芬芳飘散赛场……\n\n有人问：人工智能(AI)时代，为啥还要比拼技能？世赛现场即答案。\n\n试想这样的场景：一位老年人，坐在床边，不肯吃饭。\n\n你劝了10分钟，他还是把头扭开。这时候，光有耐心够吗？可能不够。你需要判断：是老人吞咽功能出了问题，还是情绪低落，药物副作用？不同的原因，决定了不同的照护方式。\n\n这就是世界技能大赛健康和社会照护项目比赛中考核参赛者的重要内容。这项比赛，不只是在工位上完成一道操作，而是把真实的照护现场搬进赛场。选手要面对由真人扮演的“标准化病人”，全程用英语沟通，并在规定时间里完成一整套照护流程。\n\n用中国专家的话说，这个项目要看选手“脑中有没有判断”“手上有没有技术”，更要看“心中有没有人”。\n\n毫无疑问，科技正在改变照护：智能餐具可以调温、发声；毫米波感应器能无接触监测生命体征……但人的判断和温情依旧珍贵。再如，高危喷漆作业有望被机器人替代，但个性化家装仍依赖人工经验；精密测量工具提升了精度，但在仿古建筑、修缮建造祠堂等特定场景，手工砌筑技艺依旧“吃香”。\n\n“不能把AI的工具能力、属性，和人的职业技能完全对立起来，预设了AI能干，就不需要人精炼技能，这个前提本身是站不住脚的。”世界技能大赛中国(上海)研究中心主任、上海工程技术大学教授王迪说，目前看，AI还不是独立的决策者与负责任的落地执行者，无法自主判断需求真伪、校验工程安全、处理现场突发故障，不能对最终成果承担责任。“技能大赛比拼的，恰恰是人驾驭工具、甄别错误、解决非标复杂问题、把控质量的能力。”王迪说。\n\n高铁列车飞驰，旅客感受到的平稳与安静背后，是检修人员的“反复问诊”“手到病除”。\n\n第48届世界技能大赛新增的轨道车辆技术赛项，就重点考查对列车故障的排查与维保调试，需要机械、电气、控制、数据等多个领域的复合能力。换句话说：看选手能不能在多个技术领域的交叉点上，做出准确判断。\n\n这正是世赛赛项设置所反映的产业趋势。本届世赛新增7个项目：轨道车辆技术、无人机系统、智慧安防技术、软件测试、数字交互媒体设计等，集中体现数字化、智能化对职业技能的重塑。\n\nAI时代，对“技能”的理解本身也在不断拓展。“如果说传统工匠比拼的是一技之长，现在工匠比拼的则是‘一专多能’。”世界技能大赛中国(天津)研究中心、天津职业技术师范大学工程实训中心副主任张瑞说。比如，工业4.0项目，模拟的是一座智能工厂的完整运行过程，涉及机械装配、电气接线、数据采集与分析、生产调度优化等多个技术领域；新增的无人机系统赛项，则要求选手同时扮演工程师、程序员、飞手三重角色。\n\n今天，青年工程师写代码、调算法，用软件定义机器、用数据驱动生产，这本身就是“技能”最好的注解。而那些10年前还闻所未闻的新职业，今天也已成为一批青年安身立命的事业。“新增赛项清晰映照出全球产业变革的浪潮，也生动展现了新时代中国青年正在投身的新事业、新行业、新职业。”张瑞认为，未来的技能人才不再是重复单一工序的操作者，而是能够驾驭数字化工具、具备跨领域解决问题能力的复合型工匠。\n\n当前，新一轮科技革命和产业变革加速突破，全球对技能的重视程度也持续提升，技能发展已成为各国政府优先事项。\n\n一组数据很有代表性：世界技能组织成立于1950年，目前有90个国家和地区成员，覆盖全球2/3人口；中国于2010年加入世界技能组织，是其第53个成员。也就是说，最近10多年来，该组织增加了30多个新成员，这反映出世界技能组织在全球的影响力日益扩大，也从侧面反映出越来越多国家和地区认识到提高劳动者职业技能水平的重要性。\n\n世界技能组织主席弗朗西斯·乌汉认为，各国正持续应对技术革新与各类全球难题，而破解这些难题的核心力量，正是千千万万技能从业者。“赛场上每一项技能展示的背后，那份沉稳精湛的实力，皆源于长年累月的专注与磨砺，值得被全世界看见与赞颂。”乌汉说。\n\n本届世赛，有80个国家和地区注册参与，68个国家和地区派出1385名选手参赛——这正是今天技能重要性最直白的写照。\n\n“如切如磋，如琢如磨”，世界技能博览会专门设立中国馆，观众既能看到运载火箭、深海探测船等大国重器，也能体验拓印、古籍修复等传统文化技艺。步入馆内，一行醒目的大字映入眼帘：“大国工匠是我们中华民族大厦的基石、栋梁。”\n\n同各方加强交流合作，推动世界技能运动发展，更好服务全球经济增长和民生福祉改善——这也是中国通过第48届世界技能大赛向世界传递的强劲信号。\n\n欢迎习近平到访白宫，特朗普专门提到一个中文词语\n\n当AI重新定义“一技之长” 人机协作路在何方？\n\n不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？\n\n从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海\n\n许绍理：美国青年为何纷纷赴华觅飞虎队情缘？\n\n古人如何过中秋？唐代赏月成为文人风雅时尚\n\n美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解\n\n李子柒：传统文化在烟火里生长，向全世界流淌\n\n新疆这座小城，6万峰骆驼“驮”出22亿元产值\n\n“西城大妈”里怎么会有一位美国“大爷”？\n\n11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠\n\n品美食、赏民俗 成都川菜博物馆里的“川味”中秋\n\n江苏南京：沉浸式非遗雅集活化金陵琴派文脉\n\n当户外茶会遇上消防演习，网友：意不意外 刺不刺激\n\n人体也能带电？物理老师现场演示静电飞花原理\n\n开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿\n\n重庆涪陵：沿着“503”，去趟“地心”？",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 37,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：文章围绕“AI时代为何仍需技能”展开，强调人工智能能够增强工具能力，但暂不能替代人的判断、责任承担、现场应变、质量控制和情感照护；报道通过健康和社会照护、轨道车辆技术、工业4.0、无人机系统等赛项，论证技能正从单一手工操作转向数字化、跨领域和人机协作能力，并将中国参与世赛、中国馆展示及技能人才培养与全球产业变革联系起来。"
+        ],
+        "citations": [
+          {
+            "source": "中新网 (全球要闻原版)",
+            "sourceLang": "zh",
+            "publishedAt": "2026-09-26T22:51:35.000Z",
+            "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml"
+          }
+        ]
+      },
+      {
+        "id": "story-reasing-healthcare-costs-3eda5db8c05960eb",
+        "title": "保险机构称人工智能已在推高医疗成本",
+        "originalTitle": "Insurers claim AI is already increasing healthcare costs",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:02:06.000Z",
+        "pubTime": "2026-09-27 05:02",
+        "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+        "imageUrl": null,
+        "fullContent": "Hospitals’ use of artificial intelligence tools as they submit insurance claims led to an additional $942 million in healthcare spending over a two-year period, according to an analysis by the Blue Cross Blue Shield Association.\n\nThe BCBSA analysis found “a sharp increase in patients being documented as having complex conditions,” but argued there is a “clear disconnect between [medical] coding and treatment,” as there’s “no evidence of corresponding change in care delivered.”\n\nThe New York Times pointed the analysis as just the latest sign that AI is contributing to an increase in healthcare costs. While battles between hospitals and insurers over treatments and payments are nothing new, the NYT said the use of AI on both sides seems to be making it worse.\n\nDr. Shiv Rao, founder of AI startup Abridge, acknowledged that the use of AI could lead to “a horrible dystopic future nobody wants to live in,” with “bots fighting bots, agents fighting agents.” But Rao said it might also reduce tensions and cut costs.\n\nAnd the BCBSA’s senior vice president Luke Chalker resisted characterizing the situation as a battle, claiming, “It’s not a war. It’s a completely one-sided blood bath,” with insurers on the losing side.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "根据美国蓝十字蓝盾协会（Blue Cross Blue Shield Association，简称 BCBSA）的一项分析，医院在提交保险理赔时使用人工智能工具，在两年时间内导致医疗支出额外增加了 9.42 亿美元。\n\nBCBSA 的分析发现，“被记录为患有复杂病症的患者人数急剧增加”，但指出“[医疗]编码与实际治疗之间存在明显的脱节”，因为“没有证据表明所提供的护理服务发生了相应变化”。\n\n《纽约时报》指出，这项分析只是表明人工智能正在推高医疗成本的最新迹象。尽管医院与保险机构围绕治疗方案和费用支付的博弈早已司空见惯，但《纽约时报》表示，双方对人工智能的使用似乎正在使情况进一步恶化。\n\n人工智能初创公司 Abridge 创始人希夫·拉奥（Shiv Rao）博士承认，使用人工智能可能会导致“没有人愿意生活在其中的可怕反乌托邦未来”，即“机器人对抗机器人、智能体对抗智能体”。但拉奥也表示，它同样可能缓解紧张局势并降低成本。\n\nBCBSA 高级副总裁卢克·乔尔克（Luke Chalker）则不愿将这种局面定性为一场战役，他声称：“这不是一场战争。这是一场彻底一边倒的屠杀”，而保险公司正处于输家一方。\n\n您的下一个重大合作契机就在 Disrupt。与超过 10,000 名创始人、风投机构、运营人员及科技领袖建立联系。探索未来的突破性技术，倾听塑造当下科技格局的声音，并在太平洋时间 9 月 25 日晚 11:59 之前报名，立省高达 200 美元。\n\n每个工作日和周日，您都可以获取 TechCrunch 的精选报道。\n\nTechCrunch Mobility 是您获取交通出行领域新闻与洞察的目的地。\n\n初创公司是 TechCrunch 的核心，欢迎每周查收我们的优质报道。\n\n为行业领袖和决策者提供开启崭新一天所需的信息资讯。\n\n提交您的电子邮箱即表示您同意我们的条款和隐私政策声明。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "据蓝十字蓝盾协会（BCBSA）的一项分析，医院在提交保险理赔时使用人工智能工具，在两年期间导致医疗支出额外增加9.42亿美元。",
+          "BCBSA的分析发现，被记录为患有复杂疾病的患者数量大幅增加。",
+          "来源叙事重点：报道围绕BCBSA所称的两年内额外增加9.42亿美元医疗支出展开，突出“复杂疾病记录增加”与医疗编码、实际治疗之间可能存在脱节，并将其置于医院与保险公司长期支付博弈及双方使用AI可能加剧冲突的框架中。同时保留Abridge创始人关于AI可能导致自动化对抗、也可能降低成本的双重判断。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T21:02:06.000Z",
+            "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+          }
+        ]
+      },
+      {
+        "id": "story-7-410e-8ade-ab09add476a7-c3714dc6f047217b",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "German and Russian foreign ministers meet for first time in over four years",
+        "source": "Financial Times (英国金融时报)",
+        "sourceSlug": "ft",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T19:01:46.000Z",
+        "pubTime": "2026-09-27 03:01",
+        "url": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
+        "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1a6d5602-03cd-4c89-9314-0e6cb212fda0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "fullContent": "Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Financial Times (英国金融时报)】于 2026-09-27 03:01 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Financial Times (英国金融时报)",
+            "url": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-26T19:01:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-abs-2608-23642-740fe06183518f78",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "AI Agents Push Humans Out of the Loop",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T19:21:56.000Z",
+        "pubTime": "2026-09-27 03:21",
+        "url": "https://arxiv.org/abs/2608.23642",
+        "imageUrl": null,
+        "fullContent": "Abstract: AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a ''human in the loop'', but this is not a simple solution: Not only do current approaches to AI agent design impede effective human oversight, but the cognitive capacities required for it are also themselves degraded by extended use of AI systems. This position paper argues that current approaches to the development and deployment of AI agent systems do not support effective human oversight -- they contribute to its degradation. To address this, a top priority in the advancement of AI agents should be supporting the situated goals and cognitive requirements of effective human oversight, treating the human needs of overseers at the same level of importance as AI agent capability. To put this idea into practice, we connect work on automation and human-computer interaction to AI agent processes, outlining design-level affordances and organizational protocols that (1) support overseers in exercising critical judgement and (2) counteract the skill atrophy that arises from extended use of automation. We urge developers and deployers to adopt these or similar approaches. Without explicit support for the cognitive demands of effective human-agent interaction, AI agent systems will continue to passively incentivize the degradation of the very human skills they rely on.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-body",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "来源叙事重点：质疑传统“人在回路（Human in the loop）”作为AI自主性安全保障的有效性，强调现有AI Agent设计不仅阻碍有效监督，还会导致人类认知退化与技能萎缩；主张应将人类监督者的认知需求和情境目标提升至与AI自身能力同等的战略高度。"
+        ],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T19:21:56.000Z",
+            "url": "https://arxiv.org/abs/2608.23642"
+          }
+        ]
+      },
+      {
+        "id": "story-ealth-instagram-ads-html-0282ee79c968db19",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Looking for #womenshealth information on Instagram? 4 out of 10 posts are ads",
+        "source": "Phys.org (基础物理与技术前沿)",
+        "sourceSlug": "science",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T21:00:07.000Z",
+        "pubTime": "2026-09-27 05:00",
+        "url": "https://phys.org/news/2026-09-womenshealth-instagram-ads.html",
+        "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/looking-for-womensheal.jpg",
+        "fullContent": "A woman in her 40s scrolls through Instagram. Between photos of friends, recipes and vacation photos, she comes across a video about perimenopause. The woman on screen explains that perimenopause is to blame for feeling tired, having trouble remembering things, struggling to sleep or gaining weight.",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【Phys.org (基础物理与技术前沿)】于 2026-09-27 05:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "Phys.org (基础物理与技术前沿)",
+            "url": "https://phys.org/news/2026-09-womenshealth-instagram-ads.html",
+            "publishedAt": "2026-09-26T21:00:07.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-world-2193499-c0a3107e530901ea",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Seven Palestinians killed in Gaza Strip during Israeli attacks — Health Ministry",
+        "source": "TASS (塔斯社官方英文)",
+        "sourceSlug": "tass",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T22:50:00.000Z",
+        "pubTime": "2026-09-27 06:50",
+        "url": "https://tass.com/world/2193499",
+        "imageUrl": null,
+        "fullContent": "BEIRUT, September 27. /TASS/. The death toll from Israeli army strikes on the Gaza Strip over the past 48 hours has reached seven, with another 38 people wounded, according to a report by the Palestinian enclave's Health Ministry posted on the X social media platform.\n\nAccording to the ministry, the bodies of seven killed residents were brought to Gaza hospitals, and medical aid was provided to 38 wounded individuals, including women and children. Most of the victims were brought from the Sheikh Radwan neighborhood and the Nuseirat refugee camp, where Israeli forces had been conducting intense fire.\n\nSince the start of the truce on October 11, 2025, 1,415 people have been killed and another 4,953 wounded during Israeli airstrikes and artillery shelling, the ministry said. The total death toll from the escalation of the conflict in Gaza since October 2023 has risen to 74,016, with the number of injured reaching 175,068, the ministry added.",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 3,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "巴勒斯坦加沙地带卫生部称，过去48小时内以色列军队对加沙地带发动的袭击造成7人死亡、38人受伤。",
+          "巴勒斯坦加沙地带卫生部称，7名死者的遗体被送往加沙医院，38名伤者获得医疗救助，其中包括妇女和儿童。",
+          "来源叙事重点：聚焦以色列军队在加沙的空袭和炮击所造成的人员伤亡，突出谢赫·拉德万社区和努塞拉特难民营等地点，并列出停火以来及2023年10月冲突升级以来的累计伤亡数字。相关归因和数字均明确或实质上依赖加沙卫生部的叙述，不能仅据此视为已独立证实的事实。"
+        ],
+        "citations": [
+          {
+            "source": "TASS (塔斯社官方英文)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T22:50:00.000Z",
+            "url": "https://tass.com/world/2193499"
+          }
+        ]
+      },
+      {
+        "id": "story-0m-in-alabama-settlement-56e787e129aad1a6",
+        "title": "TikTok同意支付至少1亿美元以达成阿拉巴马州和解协议",
+        "originalTitle": "TikTok agrees to pay at least $100M in Alabama settlement",
+        "source": "TechCrunch (硅谷创业与资本)",
+        "sourceSlug": "techcrunch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T20:24:45.000Z",
+        "pubTime": "2026-09-27 04:24",
+        "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+        "imageUrl": null,
+        "fullContent": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children. The case was scheduled to go to trial on Monday.\n\nAccording to the Alabama attorney general’s office, TikTok could end up paying the state a total of $300 million, depending on “certain conditions.” The company also agreed to introduce a two-hour daily time limit for underage users, with additional parental controls, as well as restrictions on overnight usage and cosmetic filters.\n\nIn a statement, Alabama Attorney General Steve Marshall said that parents in his state can now “rest easier knowing real protections are in place to shield their children from the dangers of social media addiction.”\n\nTikTok also released a statement saying that the settlement “builds on our commitment and core objective to continually enhance our robust safety tools to protect teens.”\n\nIn August, TikTok reached a $400 million settlement with the Department of Justice over allegations that the platform violated child privacy laws.\n\nYour next big connection is at Disrupt.Connect with 10,000+ founders, VCs, operators, and tech leaders. Explore tomorrow’s breakthroughs, hear what’s shaping tech today, and save up to $200 by Sept. 25 at 11:59 p.m. PT.\n\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\n\nTechCrunch Mobility is your destination for transportation news and insight.\n\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\n\nProvides movers and shakers with the info they need to start their day.\n\nBy submitting your email, you agree to our Terms and Privacy Notice.",
+        "fullTranslation": "TikTok将向阿拉巴马州支付至少1亿美元，以解决有关这家短视频平台误导用户有关安全问题、并被设计成让儿童上瘾的指控。该案原定于周一开庭审理。\n\n据阿拉巴马州总检察长办公室称，TikTok最终可能向该州支付总计3亿美元，具体取决于“某些条件”。该公司还同意为未成年用户引入每日两小时的使用时限，并增加家长控制功能，同时限制夜间使用和美颜滤镜的使用。\n\n阿拉巴马州总检察长史蒂夫·马歇尔在一份声明中表示，如今，该州家长可以“更加安心，因为已有切实的保护措施到位，能够保护孩子免受社交媒体成瘾的危害”。\n\nTikTok也发表声明称，这项和解协议“建立在我们不断强化强大安全工具、保护青少年这一承诺和核心目标之上”。\n\n今年8月，TikTok就有关该平台违反儿童隐私法律的指控，与美国司法部达成了4亿美元的和解协议。\n\n你与下一位重要合作伙伴的连接就在Disrupt。届时将有逾1万名创始人、风险投资人、运营者和科技领袖参加。探索明日的突破，了解当今正在塑造科技行业的力量，并在美国太平洋时间9月25日晚上11时59分前报名，最高可节省200美元。\n\n每个工作日和周日，你都可以获得TechCrunch最精彩的报道。\n\nTechCrunch Mobility是你获取交通运输新闻和洞察的目的地。\n\n初创企业是TechCrunch报道的核心，因此请每周接收我们最优质的报道。\n\n为行业推动者和重要人物提供开启一天所需的信息。\n\n提交电子邮件即表示你同意我们的《条款》和《隐私声明》。",
+        "contentStatus": "full",
+        "translationStatus": "full",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 11,
+        "translationParagraphs": 11,
+        "keyTakeaways": [
+          "TikTok同意就阿拉巴马州一宗和解支付至少1亿美元。",
+          "该和解涉及对TikTok误导用户有关安全问题、并被设计成使儿童上瘾的指控。",
+          "来源叙事重点：将事件框架为TikTok因涉嫌误导用户、促成儿童成瘾和违反儿童隐私保护而承担财务与产品治理责任；同时呈现阿拉巴马州方面关于保护儿童的正面表述，以及TikTok关于持续改进青少年安全工具的自我表述。文章强调至少1亿美元的确定金额、最高可能达到3亿美元的条件性金额，以及每日两小时限制、家长控制、夜间使用限制和美颜滤镜限制等措施。"
+        ],
+        "citations": [
+          {
+            "source": "TechCrunch (硅谷创业与资本)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T20:24:45.000Z",
+            "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
+          }
+        ]
+      },
+      {
+        "id": "story-ell-people-that-6b9f231e-775e5c50c12a111c",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+        "source": "MarketWatch Top Stories (市场观察)",
+        "sourceSlug": "marketwatch",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T19:00:00.000Z",
+        "pubTime": "2026-09-27 03:00",
+        "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "imageUrl": null,
+        "fullContent": "“As a country, we have grown dangerously comfortable.”",
+        "fullTranslation": "【官方仅提供短讯或摘要，中文全文翻译尚未完成；暂不展示外文摘要。】",
+        "contentStatus": "short-source",
+        "translationStatus": "source-only",
+        "contentSource": "rss",
+        "contentKind": "rss-summary",
+        "contentParagraphs": 1,
+        "translationParagraphs": 0,
+        "keyTakeaways": [
+          "权威信源【MarketWatch Top Stories (市场观察)】于 2026-09-27 03:00 发布，当前内容状态：仅有短讯/摘要",
+          "来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。"
+        ],
+        "citations": [
+          {
+            "source": "MarketWatch Top Stories (市场观察)",
+            "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+            "publishedAt": "2026-09-26T19:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "story-8087-tangent-cordic-html-e8ec240f9c9229ff",
+        "title": "外文信源标题正在进行中文翻译，暂不展示未翻译标题",
+        "originalTitle": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
+        "source": "Lobste.rs (极客思想社区)",
+        "sourceSlug": "lobsters",
+        "sourceLang": "en",
+        "publishedAt": "2026-09-26T19:01:50.000Z",
+        "pubTime": "2026-09-27 03:01",
+        "url": "http://www.righto.com/2026/09/8087-tangent-cordic.html",
+        "imageUrl": null,
+        "fullContent": "I hope you're not tired of the 8087, because I have another article about Intel's floating-point chip.1 In 1980, Intel introduced the 8087, making floating-point operations much faster in the IBM PC and other systems. In this article, I look at the algorithm behind the chip's tangent instruction. One popular approach for trigonometric functions is an algorithm called CORDIC. Another approach is a polynomial approximation. The 8087 combined the two to obtain both high accuracy and high performance. The 8087 provided an enormous speedup over the 8086 microprocessor, computing a tangent in 90 microseconds rather than 13,000 microseconds.2\n\nBy examining the circuitry and microcode of the 8087, I can explain the algorithm behind the tangent instruction, called FPTAN. To explore the 8087's circuitry, I popped the lid off a chip with a chisel and created a high-resolution image with a microscope. The microcode ROM is the large rectangular region in the center of the die, holding the 1648 micro-instructions that control the chip. The bottom half of the chip (red box) is the datapath, the circuitry that performs floating-point calculations on 80-bit values.3\n\nJack Volder came up with a fast way to calculate trigonometric functions with simple hardware. He called the algorithm—and the computer that implemented it—CORDIC: \"COordinate Rotation DIgital Computer\". CORDIC converts an angle to a vector, where the vector's coordinates provide the necessary trig functions. The trick is to break down the angle into a sequence of special angles, angles that make vector rotation easy. These special angles are precomputed and stored in a table, so the CORDIC calculation can be performed quickly, even on 1950s hardware. Each CORDIC iteration provides an additional bit of accuracy, so the algorithm converges rapidly. CORDIC became popular, including in scientific calculators, which used decimal CORDIC instead of binary.\n\nI'll try to keep the math to a minimum, but in this section I'll give a quick explanation of how CORDIC works. The diagram below reviews how trig functions are related to the coordinates of a point. Suppose you have an angle θ; it specifies a point (X, Y) on the unit circle. The basic formulas are X=cos θ, Y=sin θ, and Y/X = tan θ. Thus, if you can determine the coordinate (X, Y), then you can determine the value of the trig functions. If the point is not on the unit circle, e.g. (X', Y'), then you can still easily determine tan θ. (Spoiler: this is what the 8087 does.) However, sin θ and cos θ become messy.4\n\nIf you've done any computer graphics, you've probably seen how a rotation matrix can rotate a point by an angle. (If you're not familiar with rotation matrices, you can read about them here or just trust that it works.) Multiplying a point (X, Y) by the rotation matrix yields the new point (X', Y') as shown below.\n\nUnfortunately, since the rotation matrix (1, below) requires sin and cos, it doesn't seem like it helps solve our problem. However, we can divide the matrix by cos θ; this seems even less helpful since now the matrix (2) needs tan, which is what we want to evaluate. (Moreover, the vector's length will grow.) But the key to CORDIC is to use special angles, αn = arctan(2-n). When we substitute one of these special angles into the matrix, we get matrix (3), which is easy to evaluate in hardware: multiplying by a power of 2 can be done by shifting the bits.\n\nApplying matrix (3) to the point (X,Y) gives the equations (4). These are key equations for the CORDIC process. The important thing is that these equations are fast and easy to compute in machine language or hardware, as the only operations are addition, subtraction, and binary shifting.\n\nWith that background, we can see how CORDIC works. First, we break down the desired input angle into a combination of special angles that adds up to the desired angle.5 Then we apply the rotation formula above for each special angle, starting with the unit vector (1, 0). The result is a point (X, Y) at the desired angle, and then the desired tangent is simply Y/X.6 Since the table of special angles is precomputed, the arctan operations don't slow down the process. As an aside, after the first few terms, the special angles approach 2-n, so they shrink by roughly a factor of 2 at each step.\n\nTo summarize, the CORDIC algorithm consists of looping through a table of stored angles. If the stored angle is less than the desired angle, the stored angle is subtracted from the desired angle to yield a new desired angle and the equations above (shifts, add, and subtract) are applied to yield a new vector. At the end, the tangent of the original angle is given by Y/X.\n\nThe accuracy of CORDIC depends on the number of terms that are used. With 16 terms, the accuracy is approximately 2-16, or 16 bits of accuracy. To get 64 bits of accuracy would require calculating 64 terms (and a table of 64 special angles). To get an answer faster, the 8087 uses 16 bits of CORDIC and uses another algorithm for the remaining angle. (The remaining angle is the gap between the sum of special CORDIC angles and the desired angle, so it is very small, around 2-16.)\n\nFor the remaining angle, the 8087 uses a Padé approximant, which is the ratio of two polynomials. There's a whole family of Padé approximations, depending on the order of the polynomials. The 8087 uses a simple formula: 3x/(3-x2).8 Although this approximation is simple, it is very accurate for small values; its error is proportional to x4. Since x<2-16, the error will be less than 2-64, meeting the 64-bit accuracy requirement for the 8087. Moreover, the 8087 doesn't need to perform the division in the rational polynomial since FPTAN returns a separate numerator and denominator. Thus, the division is \"free\".\n\nIf you've studied calculus, you might think that a Taylor series polynomial is the way to go, but the ratio of two polynomials is better. (One reason is that tangent blows up to infinity at π/2. A polynomial won't blow up, but the ratio of polynomials can, so it fits the tangent function better.) The graph above compares the tangent function (red), the rational approximation (blue), and the third-order Taylor series (green).\n\nThe 8087's tangent algorithm has three parts: determining the CORDIC decision bits (called pseudo-division), computing the rational approximation, and applying the rotation equations based on the CORDIC decision bits (called pseudo-multiplication).9\n\nIn more detail, the first step determines which special angles to add to approximate the input angle. Each special angle is compared to the remaining input angle and subtracted if it is smaller. If the angle is subtracted, a 1 is recorded; otherwise, a 0 is recorded. Since this process is similar to how long division subtracts (or doesn't subtract) successive shifted versions of the divisor, generating 1s or 0s for the quotient, the process is known as pseudo-division. Note that the rotations are not applied in this step. Instead, this step decides which rotations to apply later.\n\nThe diagram below shows this process applied to the input angle 0.95 radians.10 The process generates the sequence of bits [1,0,0,1,0,1,0,1,0,0,1,0,0,1,1,1], where the leftmost bit indicates arctan(20) and so forth. The angle is reduced by roughly a factor of 2 at each step, so the residual angle is very small.\n\nNext, the tangent of the remaining angle is calculated with the rational approximation function, 3x/(3-x2). The result is used as the initial vector for the next step. The division is not performed here; instead, the numerator becomes Y in the initial vector and the denominator becomes X. Thus, the expensive division step is avoided, since it happens implicitly in the answer. Multiplying by 3 is easy (shift left and add), so the only expensive operation at this step is squaring the angle, which requires a full 64-bit multiplication.\n\nThe diagram above shows the process applied to the input 0.95. The initial vector (green) comes from the rational approximation function; it is very close to (3, 0), but slightly rotated due to the tiny residual angle. Each rotation step generates a new vector that matches the angle from the corresponding step in the first part; I show two of the rotation matrices. Note that the vectors diverge from the circle—a consequence of dividing each matrix by cos θ—but this doesn't affect the tangent.\n\nThe FPTAN instruction is somewhat peculiar as it doesn't return the tangent directly. Instead, it returns the Partial Tangent: the two coordinate values (X and Y) that can be divided to produce the tangent. One might wonder why the chip didn't do the division automatically. The motivation was that division was slow back then, and omitting the division allowed for optimizations in some cases.\n\nIn this section, I'll explain some features of the 8087 that are important for the microcode implementation of FPTAN.\n\nThe 8087 supports a variety of data types, but internally, everything is stored as an 80-bit floating-point number called a \"temporary real\". A number has three parts: a sign bit, a 15-bit exponent, and a 64-bit significand (the fractional part), In most cases, a floating-point number is represented by sign × significand × 2exponent. The advantage of floating-point numbers is that the exponent allows them to cover a huge range, from very small to very large. The significand is a 64-bit binary number of the form 1.bbb…: a leading 1, followed by the binary point (the binary equivalent of the decimal point) and the rest of the bits.11 One important detail is that the exponent is stored with a \"bias\" of 16383 added to it. Thus, the stored exponent is always positive, even if the real exponent is negative. For instance, an exponent of 1 is stored as 0x4000, and an exponent of -16 is stored as 0x3fef.\n\nIn this section, I'll discuss some highlights of the tangent microcode. The listing below shows the 8087's microcode, along with my comments. Each line indicates a 16-bit micro-instruction. The control flow is a bit complicated, so I've put a flowchart in the footnotes.12\n\nOne peculiar feature of the 8087 is that it flags a result with a \"precision\" exception if the result is not exact. (This happens very frequently, even for, say, 1/10.) The only tangent that the 8087 can compute precisely is tan(0), so all other inputs result in a precision exception (#1044).\n\nNext, the argument's exponent is tested, splitting the execution into three paths. If the exponent is -64 or less, the argument is so small that the tangent equals the argument, within the accuracy of the system.13 In this case (#1057), the original argument is returned unchanged (with the denominator 1 pushed), and the code ends. The second case is if the argument's exponent is -17 or less. In this case, the CORDIC step is skipped, and the routine jumps directly to the rational approximation (#1082).\n\nThe most interesting case is the CORDIC path (#1061), taken if the exponent is between -1 and -16. Conceptually, the code performs 16 CORDIC steps, using 16 stored angles. However, the code is optimized, skipping the large angles for smaller inputs. Specifically, the loop counter is initialized based on the exponent of the input angle (#1062). The CORDIC pseudo-division loop (#1061-#1080) tests the angles, subtracting ones that aren't too big.14\n\nThe code is optimized to use 64-bit integer arithmetic rather than floating-point arithmetic. This makes it tricky to understand the code since values must be viewed more as fixed-point numbers with implicit exponents. These exponents are not stored anywhere, but can be determined by analyzing the algorithm. Even the angle constants in the ROM do not have explicit exponents.15 Moreover, the implicit exponents change for each step through the loop to preserve accuracy. Roughly speaking, each cycle of the loop reduces the values by a factor of 2, and the angle constants shrink accordingly. If the values had a fixed exponent, they would end up with 16 leading zeros, wasting precision. But by scaling the values each cycle (with a left shift), the numbers continue to use the full 64 bits. In other words, the hardware is performing fast integer arithmetic, but mathematically you can think of it as fixed-point with exponents that don't physically exist in the chip. See the table in the footnotes16 for details on how the implicit exponents change through the loop.\n\nAfter the CORDIC pseudo-division loop, the microcode calculates the rational polynomial approximation (#1082). The small-angle path rejoins the execution flow here. The microcode to calculate the polynomial approximation has a few interesting features. The most time-consuming part is the SQUARE routine, which multiplies a fixed-point number by itself. Multiplication is complicated, so I'll give the details in a later post. But in brief, the 8087 uses Booth's Algorithm to multiply by two bits at a time (radix 4), so it is twice as fast as regular binary multiplication. The loop to perform the shifts and adds is implemented in hardware, rather than microcode. That is, one microcode instruction performs 32 additions: the hardware tests the bits, does the appropriate add or subtract, updates the loop counter, and loops. For performance, the shifting is done with specialized shifters, not the 8087's general-purpose shifter.\n\nExcept for the square, the polynomials are calculated with additions rather than multiplications. The constant 3 doesn't come from the constant ROM, but from special-purpose transistors that set the top two bits of the significand; this is usually used to supply an NaN. (If the implicit exponent is 1, this corresponds to 3.) Subtracting the square yields the numerator. For the denominator, the angle is shifted right (i.e. divided by 2) and added to itself. This performs a multiplication by 3 (technically by 1.5, but increasing the implicit exponent to 1 turns this into 3). It would be expensive to divide the numerator by the denominator; instead, the numerator and denominator are used as the initial Y and X values for the following CORDIC steps.\n\nAfter the CORDIC loop, the final part of the code (#1118) normalizes the X and Y values, creating the floating-point values that are returned from the instruction. Recall that these aren't \"real\" floating-point values at this point, so they may need adjustment. Specifically, if X doesn't have a leading 1, it is shifted left one position, while if Y has two leading digits, it is shifted right one position. In either case, the exponent is adjusted accordingly. The X and Y values are put on the stack (#1132) to complete the instruction.\n\nThe FPTAN instruction is fairly slow as 8087 instructions go, due to its complexity. The documentation says that it takes typically 450 clock cycles. (The time has a large range; depending on the value, it can take 30 to 540 clock cycles.) For the value I examined (0.95), 33% of the time is in the CORDIC pseudo-division, 15% in the rational polynomial (mostly the squaring operation), 47% in the CORDIC pseudo-multiplication, and 5% overhead.\n\nCORDIC is a popular way to compute trig functions, but there are alternatives such as polynomials. The 8087 is unusual because it combines CORDIC and a rational polynomial. For the Pentium, Intel moved from CORDIC to polynomial approximations; the Pentium's fast multiplication circuitry made polynomials practical. Nowadays, Intel has libraries such as MKL (Math Kernel Library) and Short Vector Math Library (SVML) that provide highly optimized implementations tailored to Intel hardware. These libraries are said to use polynomial approximations, using parallel instructions (SIMD) for performance, rather than specialized hardware. With these libraries, x87 operations and 80-bit floats are mostly obsolete. Nonetheless, I hope you've enjoyed this look at an original 8087 algorithm.\n\nI plan to continue reverse-engineering the 8087 microcode; for updates, follow me on Bluesky (@righto.com), Mastodon (@[email protected]), or RSS. I've been working on this with the members of the \"Opcode Collective\", especially Smartest Blob and Gloriouscow, who converted the ROM images to microcode data and extensively analyzed the contents. See the 8087 repository on GitHub for more. AI statement: Despite the presence of the em dash, no AI was used in the writing of this article (details). The Opcode Collective used an ML algorithm to classify each ROM cell to extract the microcode.\n\nIntel's documentation provides a performance comparison of the 8087 versus floating-point operations emulated on the 8086. The speedup varies depending on the instruction, but is typically almost a factor of 100. This speedup made the 8087 chip highly desirable for numerical applications such as CAD and spreadsheets. ↩\n\nInternally, the 8087 uses 80 bits to hold floating-point values: one bit for the sign, 15 bits for the exponent, and 64 bits for the significand. However, the 8087 uses three extra low-order bits for rounding, called Guard, Round, and Sticky. These bits ensure that a value is always rounded in the right direction. Some parts of the datapath have additional bits for sign or overflow: the shifter is 68 bits wide, and the adder is 69 bits wide. For the most part, I'll ignore these extra bits and refer to the datapath as 64 bits wide. ↩\n\nTo compute sin θ from the 8087's X and Y values, the typical formula is sin θ = Y/sqrt(X2+Y2); cos θ is similar. ↩\n\nThe special angles (in degrees) are approximately 45°, 26.6°, 14°, 7.1°, 3.6°, 1.8°, 0.9°, … You might wonder if adding up the special angles will always converge to the desired angle θ. A proof can be found here. Note that arctan(2-n) rapidly approaches 2-n (in radians), so it's kind of like a binary fraction expression, cutting the gap approximately in half each time. ↩\n\nThe CORDIC implementation in the 8087 is somewhat different from the typical use of CORDIC, which finds sin and cos. In this approach, all the speci",
+        "fullTranslation": "【官方正文已获取，中文全文翻译尚未完成；暂不展示外文正文。】",
+        "contentStatus": "full",
+        "translationStatus": "source-only",
+        "contentSource": "official-page",
+        "contentKind": "official-page-body",
+        "contentParagraphs": 36,
+        "translationParagraphs": 0,
+        "keyTakeaways": [],
+        "citations": [
+          {
+            "source": "Lobste.rs (极客思想社区)",
+            "sourceLang": "en",
+            "publishedAt": "2026-09-26T19:01:50.000Z",
+            "url": "http://www.righto.com/2026/09/8087-tangent-cordic.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": 1790443172536,
     "timeDisplay": "2026-09-27 01:19 (UTC+8)",
     "date": "2026-09-27",

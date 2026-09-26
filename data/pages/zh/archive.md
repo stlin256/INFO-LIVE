@@ -38,14 +38,27 @@ notice:
 
 ## 📊 历史数据概览
 
-- **归档快照总数**：当前已永久存盘 **77** 个时间节点快照
+- **归档快照总数**：当前已永久存盘 **78** 个时间节点快照
 - **数据持久化策略**：永久追加留存，不设删除上限；同时按日持久化存储在 `data/history/daily/` 目录下
 - **首条归档时间**：2026-09-09 22:08 (UTC+8)
-- **最新归档时间**：2026-09-27 01:19 (UTC+8)
+- **最新归档时间**：2026-09-27 07:06 (UTC+8)
 
 ## 📅 逐小时情报快照历史时间轴
 
 ::::timeline{title="历史简报时间轴"}
+:::timeline-item{start="2026-09-27 07:06 (UTC+8)" title="全球要闻情报简报 · 07:06" org="ARCHIVE"}
+**速报纪要：** 本轮抓取于 2026-09-27 06:58 (UTC+8) 完成，共获得 29 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
+
+**关键信号：** 【undefined】特朗普称美国和古巴会达成协议：美国总统特朗普26日称，他认为美国和古巴会达成协议，美方“不需要动用军队”。；【undefined】因触觉反馈专利侵权，苹果被判赔偿57亿美元：该主题的推送将添加到您的每日电子邮件摘要和主页信息流中。 苹果的 Taptic Engine 被认定侵犯了 Taction 的两项专利。 该作者的推送将添加到您的每日电子邮件摘要和主页信息流中。 查看 Terrence O'Brien 的全部文章 触觉技术公司 Taction 于 2021 年起诉苹果公司，指控其侵犯了两项专利。如今，圣迭戈的一个联邦陪审团裁定判给 Taction 超过 57 亿美元的赔偿金。据 CNBC 报道，“这起诉；【undefined】AI时代，为啥还要拼技能？世赛现场即答案：国家会展中心(上海)，第48届世界技能大赛64个赛项激烈角逐。对全球技能青年来说，这是一生只能参与一次的比赛。；【undefined】保险机构称人工智能已在推高医疗成本：根据美国蓝十字蓝盾协会（Blue Cross Blue Shield Association，简称 BCBSA）的一项分析，医院在提交保险理赔时使用人工智能工具，在两年时间内导致医疗支出额外增加了 9.42 亿美元。；【undefined】TikTok同意支付至少1亿美元以达成阿拉巴马州和解协议：TikTok将向阿拉巴马州支付至少1亿美元，以解决有关这家短视频平台误导用户有关安全问题、并被设计成让儿童上瘾的指控。该案原定于周一开庭审理。；【undefined】“请3休13”，一些职场人“拼假游”“拼”出新体验：有的自驾游三个城市，有的边玩边学做木工，还有的游玩三个欧洲国家；【undefined】得州队对阵田纳西队时的一些庆祝动作，离谱得令人咋舌：正如预期，周六的大学橄榄球赛程中没有哪场比赛能与这场相比：得克萨斯长角牛队前往诺克斯维尔，迎战田纳西志愿者队。双方情绪注定会十分高涨，而高涨的情绪往往也会带来一些夸张的庆祝动作。；【undefined】4条高铁将同日开通 多地迈入高铁时代：本报北京9月26日电(记者刘静)记者今天从中国国家铁路集团有限公司获悉，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁将于9月28日集中开通运营。4条线路横跨南北、纵贯东西，覆盖华北、东北、西北、华中四大区域，以350公里、250公里不同时速等级的钢铁动脉，打破地域时空壁垒，让多地正式迈入高铁时代。
+
+**重点要闻索引：**
+- [中新社 (国际实时原版)] [特朗普称美国和古巴会达成协议](https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml) <span class="news-meta-time">🕒 2026-09-27 06:53</span>
+- [The Verge (前沿数码科技)] [因触觉反馈专利侵权，苹果被判赔偿57亿美元](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents) <span class="news-meta-time">🕒 2026-09-27 05:30</span>
+- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-27 04:00</span>
+- [Reddit r/technology (科技伦理热议)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.reddit.com/r/technology/comments/1wr2jba/us_appeals_court_rules_against_kalshi_says_states/) <span class="news-meta-time">🕒 2026-09-27 05:44</span>
+- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-neet-disability-visually-impaired-young.html) <span class="news-meta-time">🕒 2026-09-27 06:30</span>
+- [中新网 (全球要闻原版)] [AI时代，为啥还要拼技能？世赛现场即答案](https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml) <span class="news-meta-time">🕒 2026-09-27 06:51</span>
+:::
 :::timeline-item{start="2026-09-27 01:19 (UTC+8)" title="全球要闻情报简报 · 01:19" org="ARCHIVE"}
 **速报纪要：** 本时段监测到的国际信源涵盖体育焦点赛事赛前动态、大型宗教集会活动以及知名演艺人士自传回忆录披露等内容。
 
@@ -644,18 +657,5 @@ notice:
 - [Lobste.rs (极客思想社区)] [如果我的 Git 托管平台是一个静态网站生成器会怎样？](https://char.lt/blog/2026/09/sorcery-repo-viewer/) <span class="news-meta-time">🕒 2026-09-14 00:10</span>
 - [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-luminescence-dating-age-south-dakota.html) <span class="news-meta-time">🕒 2026-09-14 00:40</span>
 - [RIA Novosti (俄新社官方俄文)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://ria.ru/20260913/maksim-2117465521.html) <span class="news-meta-time">🕒 2026-09-14 00:56</span>
-:::
-:::timeline-item{start="2026-09-13 20:48 (UTC+8)" title="全球要闻情报简报 · 20:48" org="ARCHIVE"}
-**速报纪要：** 本轮抓取于 2026-09-13 20:46 (UTC+8) 完成，共获得 23 条可用信源记录。以下仅列出已采集标题、摘要与官方页面证据，不对缺失正文作推断。
-
-**关键信号：** 【undefined】Perplexity 将端到端系统托付给 GPT-6 Astra：Perplexity 正在使用 Astra 撰写沟通文案、修改软件并监控生产系统，且人工介入检查的频率远低于先前的模型。；【undefined】别称自己为“手艺人程序员”：我本来一直想写点别的内容，却陷入了这个怪圈之中，现在我甚至有点害怕，担心自己是否成了某种奏效的宣传话术的受害者。；【undefined】NFL赛季与中期选举交汇，预测市场迎来关键秋季周期：过去两年凭借政治与体育事件跃升至新高度的预测市场，正押注于今年秋季这两大领域的交汇，以推动用户采纳率的进一步提升。；【undefined】你的汽车正在倒卖你的数据：该主题的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看所有交通资讯 许多汽车收集关于您的数据量——并将其出售给第三方——令人咋舌。 该作者的相关文章将被添加到您的每日电子邮件摘要与主页动态流中。 查看安德鲁·霍金斯（Andrew Hawkins）的所有文章 今年早些时候，美国联邦贸易委员会（FTC）对通用汽车（General Motors）开出了一项史无前例的罚单：禁止其在五年内向消费者报告机构及第三方数据经纪商出售客户数；【undefined】APOD：2026年9月13日——升起在亚得里亚海上空的NEOWISE彗星：APOD：2026年9月13日——…… 每日天文一图（Astronomy Picture of the Day） 探索宇宙！每天都会展示一张反映我们迷人宇宙的不同图像或照片，并由专业天文学家撰写简要说明。 若要观看此视频，请启用 JavaScript，并考虑升级至支持该功能的网页浏览器 升起在亚得里亚海上空的NEOWISE彗星 说明：这样的景象值得早起守候。就在四年多前，C/2020 F3（NEOWISE）彗星在黎明前升起，让早起守候的；【undefined】NFL首周马利克·威利斯与柯克·考辛斯正面交锋，突袭者主场让3分迎战迈阿密海豚：真希望我也能有一句像Red Zone节目主持人斯科特·汉森（Scott Hanson）那样让人过目难忘的开场白。无论我写出什么，都无法带来“连续7小时无广告橄榄球直播”那种令人血脉贲张的兴奋感。不过，这也正是等待着我们的盛宴。我们将迎来数小时不间断的橄榄球赛事，以及新赛季的首个完整赛程。这个周末我关注的第一场对决，正是迈阿密海豚对阵拉斯维加斯突袭者。；【undefined】theScore Bet 优惠码：在2026赛季NFL首个周日比赛前获取1000美元投注重置金：西雅图海鹰队捧起超级碗隆巴迪奖杯的场景仿佛就在昨天。如今，我们迎来了NFL新赛季第一周的全面开战，theScore Bet正通过其优惠码为新用户提供价值1000美元的投注重置金（Bet Reset），以迎接周日的揭幕战。；【undefined】Fanatics优惠码FOXNEWS350：首个NFL超级星期日，特定州可享1000美元奖金或投注20美元获350美元：2026年NFL赛季第一周，将在周日迎来十三场精彩对决。早场和下午场都有大量值得收看的比赛，而Fanatics则为你关注赛季开幕周末提供了一个绝佳的理由。
-
-**重点要闻索引：**
-- [France 24 (EN 官方英语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor) <span class="news-meta-time">🕒 2026-09-13 20:44</span>
-- [OpenAI News (官方动态)] [Perplexity 将端到端系统托付给 GPT-6 Astra](https://openai.com/index/perplexity-improving-accuracy-with-astra) <span class="news-meta-time">🕒 2026-09-14 08:00</span>
-- [MarketWatch Top Stories (市场观察)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories) <span class="news-meta-time">🕒 2026-09-13 20:40</span>
-- [Lobste.rs (极客思想社区)] [别称自己为“手艺人程序员”](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/) <span class="news-meta-time">🕒 2026-09-13 19:39</span>
-- [Phys.org (基础物理与技术前沿)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://phys.org/news/2026-09-key-early-universe-precision.html) <span class="news-meta-time">🕒 2026-09-13 20:00</span>
-- [France 24 (FR 官方法语原版)] [外文信源标题正在进行中文翻译，暂不展示未翻译标题](https://www.france24.com/fr/culture/20260913-rentree-litteraire-seconde-guerre-mondiale-devillers-kauffmann-besserie-livres) <span class="news-meta-time">🕒 2026-09-13 20:43</span>
 :::
 ::::

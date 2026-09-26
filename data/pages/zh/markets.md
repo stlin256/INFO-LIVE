@@ -17,7 +17,7 @@ notice:
 ::::grid{cols=2}
 :::cell
 <div id="story-b-the-biggest-gains-html-ba7976e1f9d5bdda" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1067" data-content-paragraphs="13" data-published-at="2026-09-26T15:00:01.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="965" data-content-paragraphs="16" data-published-at="2026-09-26T15:00:01.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
     <span class="stance-badge">国际资本与华尔街视角</span>
@@ -26,22 +26,25 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 23:00</span>
 </div>
 
-### [这可能是寻求增加人工智能投资敞口的投资者所‘缺失的一环’](https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html)
+### [这可能是寻求增加人工智能敞口的投资者所缺少的“关键一环”](https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html)
 <div class="original-title-sub"><span class="orig-tag">原文</span> This may be the ‘missing piece’ for investors looking to boost AI exposure</div>
 
-<div class="article-body" data-article-body="true"><p>铭基亚洲（Matthews Asia）投资组合经理安德鲁·马托克（Andrew Mattock）表示，希望增加人工智能投资敞口的投资者应当将目光投向中国。</p>
-<p>他表示，投资者需要采取更具针对性的投资策略，因为宽基新兴市场策略的效果并不会那么显著。</p>
-<p>“投资者需要意识到，当他们购买新兴市场基金或普通的MSCI指数产品时……他们其实并没有获得多少这方面的敞口，”马托克本周在CNBC的《ETF Edge》节目中表示，“你所错失的重要组成部分……就是中国这一块。”</p>
-<p>他指出，来自韩国和中国台湾的公司几乎占据了安硕MSCI新兴市场ETF（iShares MSCI Emerging Markets ETF，代码EEM）近一半的权重，而安硕MSCI中国ETF（iShares MSCI China ETF，代码MCHI）则缺乏对人工智能概念股的集中配置。</p>
-<p>马托克掌管着铭基中国基金（Matthews China Fund，代码MCHFX）。该机构官网显示，该基金将其净资产的至少80%投资于位于中国的公司的普通股和优先股。</p>
-<p>截至周五收盘，该基金今年迄今下跌了4%。其主要重仓股包括腾讯和阿里巴巴。</p>
-<p>对中国的投资似乎正在迎来意义重大的转变。</p>
-<p>阿帕卢萨管理公司（Appaloosa Management）创始人、亿万富翁对冲基金经理大卫·泰珀（David Tepper）再次发现这个世界第二大经济体颇具吸引力——他在2024年9月对CNBC表示，他买入了更多与中国相关的“一切资产”。</p>
-<p>然而，金瑞基金（KraneShares）的布伦丹·埃亨（Brendan Ahern）建议，投资者应考虑能够防范中国市场剧烈波动的策略。</p>
-<p>“我赞同围绕其中一些ETF使用期权策略的想法……比如针对KWEB（金瑞中证海外中国互联网ETF，KraneShares CSI China Internet ETF），”该机构首席投资官在同场采访中表示。</p>
-<p>“为什么一些对冲基金会青睐这些ETF？因为他们可以通过卖出看涨期权来在很大程度上保护自己，”他补充道，“为自己提供一定的下行保护。”</p>
-<p>根据FactSet的数据，金瑞中证海外中国互联网ETF与铭基中国基金的前两大重仓股相同，均为腾讯和阿里巴巴。但截至周五收盘，该基金今年迄今已下跌超过27%。</p>
-<p>有独家新闻线索？我们期待倾听您的声音。<br />订阅本内容直达您的收件箱，并获取有关我们产品与服务的更多信息。<br />数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票报价以及市场数据和分析。<br />数据同时由提供</p></div>
+<div class="article-body" data-article-body="true"><p>据Matthews Asia投资组合经理Andrew Mattock称，希望增加人工智能敞口的投资者应将目光投向中国。</p>
+<p>他说，投资者需要采取更有针对性的策略，因为广泛的新兴市场策略不会特别有效。</p>
+<p>Mattock本周在接受CNBC《ETF Edge》节目采访时表示：“投资者需要意识到，当他们买入一只新兴市场基金，或者买入一只普通的MSCI产品……他们并没有获得很多人工智能敞口。你所缺少的关键一大块……就是中国这一块。”</p>
+<p>他指出，韩国和台湾的公司合计占iShares MSCI新兴市场ETF（EEM）近一半，而iShares MSCI中国ETF（MCHI）并未重点投资人工智能股票。</p>
+<p>Mattock负责管理Matthews China Fund（MCHFX）。据该公司网站介绍，该基金至少将其净资产的80%投资于位于中国的公司的普通股和优先股。</p>
+<p>截至周五收盘，该基金今年以来下跌了4%。其最大持仓包括腾讯和阿里巴巴。</p>
+<p>看来，投资中国正出现明显转变。</p>
+<p>亿万富翁对冲基金经理、Appaloosa Management创始人David Tepper再次发现全球第二大经济体具有吸引力——他在2024年9月告诉CNBC，自己买入了更多与中国有关的“一切”资产。</p>
+<p>不过，KraneShares的Brendan Ahern建议，投资者应考虑能够帮助其免受中国市场剧烈波动影响的策略。</p>
+<p>该公司首席投资官在同一次采访中表示：“我喜欢利用围绕某些ETF的期权这一想法……比如KWEB（KraneShares CSI China Internet ETF）。”</p>
+<p>他补充说：“为什么一些对冲基金会倾向于这些ETF？因为它们能够卖出看涨期权，从而在很大程度上保护自己。让自己能够承受一定的下行风险。”</p>
+<p>据FactSet数据，KraneShares CSI China Internet ETF与Matthews China Fund的前两大持仓相同，均为腾讯和阿里巴巴。但截至周五收盘，该基金今年以来跌幅已超过27%。</p>
+<p>有机密新闻线索吗？我们希望听到您的消息。</p>
+<p>请将这些内容以及更多关于我们产品和服务的信息发送到您的收件箱。</p>
+<p>数据为实时快照。*数据至少延迟15分钟。全球商业与财经新闻、股票报价以及市场数据和分析。</p>
+<p>数据还由</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -60,54 +63,8 @@ notice:
 :::
 
 :::cell
-<div id="story-rgy-gas-power-plant-html-13625434ffaf8c31" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2324" data-content-paragraphs="15" data-published-at="2026-09-26T15:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/oilprice.svg" class="source-icon" alt="OilPrice (全球能源与原油大宗)" width="16" height="16" /> <strong>OilPrice (全球能源与原油大宗)</strong></span>
-    <span class="stance-badge">大宗能源产业链</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-26 23:00</span>
-</div>
-
-### [北卡罗来纳州监管机构否决杜克能源天然气发电厂项目](https://oilprice.com/Energy/Energy-General/North-Carolina-Regulators-Reject-Duke-Energy-Gas-Power-Plant.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> North Carolina Regulators Reject Duke Energy Gas Power Plant</div>
-
-<div class="article-body" data-article-body="true"><p>点击此处查看 150 多个全球原油价格<br />为何创纪录高温未能推高美国天然气价格<br />石油市场动荡的原因在于……<br />潜在的美国柴油出口……<br />这两类押注均反映出一种转变……<br />费利西蒂·布拉德斯托克（Felicity Bradstock）是常驻墨西哥城的作家兼记者。她为能源网站撰稿，报道多个其他行业，同时还撰写……</p>
-<p>随着美国加紧生产，并试图填补因霍尔木兹海峡能源贸易受限而造成的供应缺口，预计 2026 年和 2027 年美国天然气产量将创下历史新高。然而，正当美国在天然气雄心上加码押注之际，一名法官裁定北卡罗来纳州的一座天然气发电厂不应继续推进。</p>
-<p>根据美国能源信息署（EIA）的数据，今年和明年美国天然气的供应与需求均预计将升至历史新高。EIA 数据显示，干气产量预计将从 2025 年创纪录的每日 1076 亿立方英尺（bcfd）增至 2026 年的 1117 亿立方英尺，并在 2027 年达到 1159 亿立方英尺。与此同时，国内天然气消费量预计将从 2025 年创纪录的每日 919 亿立方英尺增至 2026 年的 922 亿立方英尺和 2027 年的 943 亿立方英尺。</p>
-<p>与 8 月份预计产量达 1112 亿立方英尺、需求总量为 920 亿立方英尺相比，EIA 在 9 月份上调了对全年的预测。EIA 目前预计，美国液化天然气（LNG）平均出口量将从 2025 年创纪录的每日 151 亿立方英尺增至 2026 年的 174 亿立方英尺和 2027 年的 186 亿立方英尺。</p>
-<p>尽管中国在若干能源领域占据主导地位，但美国已树立起作为全球主导性天然气大国的声誉。根据全球能源监测组织（Global Energy Monitor，简称 GEM）的一份报告，几十年来中国在天然气开发速度上一直领先于美国；然而，由于美国国内争相为人工智能构建数据中心，这一局面正在发生改变。</p>
-<p>在今年上半年在建项目激增 76% 之后，美国目前在建的燃气发电装机容量约为中国的两倍，超过全球任何其他国家。报告发现，自 1 月份以来，处于任意开发阶段的美国燃气发电装机容量已从 252 吉瓦跃升 50% 至 378 吉瓦，占全球总量的三分之一。若所有这些项目均告竣工，美国将在逾 6470 亿美元的资本支出下，将其燃气发电规模扩大约三分之二。</p>
-<p>正在开发的新增装机容量中，约有一半与全美各地数据中心的快速建设直接相关。许多运营商选择使用天然气而非可再生能源为 AI 数据中心供电，这一转变预计将在未来十年大幅增加美国的碳排放量。根据国际能源署（IEA）的数据，美国在燃气与燃煤电厂上的支出预计将出现几十年来首次超越中国的情况。</p>
-<p>全球能源监测组织项目经理珍妮·马托斯（Jenny Martos）解释道：“过去一年里，依靠天然气供电的数据中心规划方案呈爆发式增长，其对气候的影响极其巨大。为 AI 建设所有这些燃气设施将把数十年的污染固化下来，并且还会锁定对波动性燃料成本的依赖，而这些成本最终将转嫁给普通电力消费者。”</p>
-<p>科技公司已大举投资采购用于新建燃气电厂的最高效燃气轮机，从而造成该技术的供应积压，并迫使若干科技公司转而投资更小、效率更低、污染更严重的涡轮机。近几个月来，由于环保人士和居民呼吁对该行业实施更严格的监管，针对数据中心环境影响的批评声日益增多。然而，特朗普政府力挺新建数据中心，并在中期选举前夕取消了环境审查，以帮助加速施工建设。</p>
-<p>尽管如此，9 月份，由共和党控制的北卡罗来纳州公用事业委员会援引唐纳德·特朗普总统签署的《纳税人保护承诺》（Ratepayer Protection Pledge），否决了该州最大公用事业公司杜克能源（Duke Energy）耗资 5 亿美元、装机容量为 250 兆瓦的天然气项目。杜克能源原计划建设一座燃气电厂，为夏洛特附近正在建设的一处拥有 21 栋建筑的亚马逊设施供电。</p>
-<p>然而，委员们认为杜克能源未能充分证明将如何保护消费者免受建设成本转嫁的影响——这一要求载于《纳税人保护承诺》中，该承诺是由白宫推出的一项自愿协议，签署企业同意保护美国消费者免受因数据中心能源和基础设施需求所驱动的电价上涨之害。委员们表示，如果杜克能源打算重新申请施工许可，则必须提供符合该自愿协议的成本回收机制。</p>
-<p>此次否决正值人们对与数据中心开发相关的消费者能源成本上涨日益担忧之际。根据美国银行最近的一份报告，自特朗普上台以来，美国消费者的公用事业账单显著增加，夏季数月内的上涨速度快于通胀率。</p>
-<p>美国近几个月公布了一项创纪录的天然气管道项目，预计将使其成为全球主导性的天然气生产国和供应国。这其中很大一部分开发与全美各地数据中心的快速建设息息相关。然而，杜克能源提议的燃气电厂近期遭拒表明，一些美国地方当局感受到了来自消费者的压力，不得不对缺乏明确成本回收保障的开发项目施加限制。</p>
-<p>文 / 费利西蒂·布拉德斯托克 为 Oilprice.com 撰稿</p>
-<p>Oilprice.com 更多热门阅读：<br />尼日利亚加入国际能源署 原油产量创六年新高<br />尽管大幅削减支出 大型石油公司产量仍持续飙升<br />价格飙升突破 6.50 美元 白宫排除柴油出口禁令<br />沙特输油管道重启 未能终结石油市场供应紧张<br />为何 WTI 突然较布伦特原油低 12 美元进行交易<br />全球炼油运力紧张推高柴油价格创历史新高<br />本网站提供的材料仅用于提供信息和教育目的，无意提供税务、法律或投资建议。<br />本网站包含的任何内容均不得视为向任何司法管辖区内的任何人推荐、招揽或要约购买或出售证券。<br />记录商户：A Media Solutions 以 Oilprice.com 名义运营</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【OilPrice (全球能源与原油大宗)】于 2026-09-26 23:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#OilPrice</span>
-</div>
-
-<div class="news-card-footer"><a href="https://oilprice.com/Energy/Energy-General/North-Carolina-Regulators-Reject-Duke-Energy-Gas-Power-Plant.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【OilPrice (全球能源与原油大宗)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
 <div id="story-ars-how-we-got-here-html-466312de5a8fabef" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1110" data-content-paragraphs="16" data-published-at="2026-09-26T13:30:06.000Z" data-time-source="publication">
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1166" data-content-paragraphs="19" data-published-at="2026-09-26T13:30:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/cnbc.svg" class="source-icon" alt="CNBC Markets (CNBC 市场官方英文)" width="16" height="16" /> <strong>CNBC Markets (CNBC 市场官方英文)</strong></span>
     <span class="stance-badge">国际资本与华尔街视角</span>
@@ -116,25 +73,28 @@ notice:
   <span class="news-meta-time">🕒 2026-09-26 21:30</span>
 </div>
 
-### [10年期美债收益率创近二十年新高：我们是如何走到这一步的](https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html)
+### [10年期美债收益率创近二十年来新高：这背后是如何形成的](https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html)
 <div class="original-title-sub"><span class="orig-tag">原文</span> The 10-year Treasury yield is at its highest in nearly two decades. How we got here</div>
 
-<div class="article-body" data-article-body="true"><p>本周，基准10年期美国国债收益率飙升至2007年以来的最高水平，令投资者感到不安，但具有黏性的通胀只是推动这轮最新飙升的因素之一。</p>
-<p>影响抵押贷款利率的关键10年期美债收益率周五跃升至5.23%，创下2007年以来的最高水平。这是该基准收益率的最新一轮走高，而在本月早些时候，其交易水平还略低于4.8%。债券收益率与价格呈反向变动。</p>
-<p>10年期美债收益率迅速突破5%，表明面对顽固的通胀，投资者对美联储进一步紧缩的预期转变之快。芝加哥商品交易所（CME）的FedWatch工具显示，联邦基金利率期货交易表明10月份加息的可能性为64%。</p>
-<p>事实上，密歇根大学的消费者信心指数显示，9月份未来一年的通胀预期跃升至4.6%，高于8月份的4%，创下自6月以来的最高读数。</p>
-<p>麦格理集团（Macquarie Group）全球外汇与利率策略师蒂埃里·威兹曼（Thierry Wizman）表示，谈及收益率的攀升，顽固的通胀以及市场对更多加息日益增强的预期只能解释部分原因。</p>
-<p>“我认为今年这更多与债券发行有关，而非通胀问题，”他告诉CNBC。</p>
-<p>威兹曼表示，处于这些水平的收益率本身并不反常，尤其是因为它们并未伴随着极端的通胀预期或美联储的激进紧缩。</p>
-<p>“我们现在没有一个激进紧缩的美联储，所以很多事情看起来都很正常。反常的是，我们正处于一个非常强劲的投资周期之中，”他说。</p>
-<p>联邦政府正在通过发债来填补巨额赤字，而企业则在大量借贷以资助人工智能基础设施建设。</p>
-<p>威兹曼指出，正是这种双重因素显著增加了债券供应，足以对收益率构成上行压力。</p>
-<p>人工智能投资热潮正在增加另一个债券供应源，与美国国债争夺资金。</p>
-<p>先锋领航（Vanguard）估计，截至7月，Alphabet、亚马逊、Meta Platforms、微软和甲骨文累计发行了约1320亿美元的债务，较2020年至2024年间约350亿美元的年均水平大幅增加。随着数据中心、半导体和公用事业生态系统中的企业通过借贷为扩建筹措资金，今年更广泛的AI相关债务发行规模可能达到3000亿至5700亿美元。</p>
-<p>与此同时，更高的收益率会通过提高企业的借贷成本，并使债券对寻求固定收益的投资者更具吸引力，从而对股市构成压制。</p>
-<p>威兹曼表示，超大规模云服务商及其供应商的资本支出计划可能会让债券发行规模在今年乃至明年都维持在高位。</p>
-<p>“因此，这些收益率可能会进一步走高，”他说。</p>
-<p>有保密新闻线索？我们期待您的反馈。<br />订阅本内容至您的收件箱，并获取有关我们产品和服务的更多信息。<br />数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票行情以及市场数据与分析。<br />数据亦由以下机构提供</p></div>
+<div class="article-body" data-article-body="true"><p>本周，基准10年期美国国债收益率飙升至2007年以来的最高水平，令投资者感到不安，但粘性通胀只是推动这轮最新飙升的因素之一。</p>
+<p>对房贷利率有重要影响的关键10年期美债收益率周五跃升至5.23%，创下2007年以来的最高纪录。这是该基准收益率的最新一波走高，而本月早些时候其交易水平还略低于4.8%。债券收益率与价格走势相反。</p>
+<p>10年期美债收益率迅速突破5%，表明鉴于顽固的通胀，投资者对美联储进一步收紧货币政策的预期转变有多么迅速。根据芝商所（CME）的美联储观察工具（FedWatch），联邦基金利率期货交易显示10月份加息的概率为64%。</p>
+<p>事实上，密歇根大学的消费者信心指数显示，9月份一年期通胀预期从8月份的4%跃升至4.6%，创下自6月份以来的最高读数。</p>
+<p>麦格理集团（Macquarie Group）全球外汇及利率策略师蒂埃里·威兹曼（Thierry Wizman）表示，就收益率的大幅上升而言，顽固的通胀以及市场对更多加息日益升温的预期只是原因的一部分。</p>
+<p>“我认为今年这与债券发行量的关系，要大于通胀因素，”他告诉CNBC。</p>
+<p>威兹曼表示，处于这些水平的收益率本身并不反常，尤其是考虑到目前并没有伴随极端的通胀预期或美联储的大幅激进紧缩。</p>
+<p>“我们并没有面对一个激进紧缩的美联储，因此很多情况看起来相当正常。反常的地方在于，我们正处在一个非常强劲的投资周期之中，”他说道。</p>
+<p>联邦政府正在发债以填补庞大的赤字，而企业则大量举债为人工智能基础设施建设提供资金。</p>
+<p>威兹曼表示，正是这两者的结合增加了债券供给，足以对收益率带来上行压力。</p>
+<p>人工智能领域的支出热潮增添了另一个与美国国债竞争的债券供给来源。</p>
+<p>先锋领航（Vanguard）估计，Alphabet、亚马逊（Amazon）、Meta Platforms、微软（Microsoft）和甲骨文（Oracle）截至7月份发行了约1320亿美元的债券，远高于2020年至2024年间约350亿美元的年均水平。随着数据中心、半导体和公用事业生态系统中的企业通过借贷为扩建筹集资金，今年更广泛的AI相关债务发行规模可能达到3000亿至5700亿美元。</p>
+<p>与此同时，更高的收益率推高了企业的借贷成本，并让债券对寻求收益的投资者更具吸引力，从而可能对股市造成打压。</p>
+<p>威兹曼表示，超大规模云服务商（hyperscalers）及其供应商的资本支出计划，很可能使债券发行量在今年乃至明年都保持在较高水平。</p>
+<p>“因此，这些收益率可能会进一步走高，”他表示。</p>
+<p>有保密新闻线索？我们期待您的爆料。</p>
+<p>订阅此内容直接发送至您的邮箱，并获取更多关于我们产品和服务的信息。</p>
+<p>数据为实时快照 *数据至少延迟15分钟。全球商业与财经新闻、股票行情以及市场数据与分析。</p>
+<p>数据亦由以下机构提供</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
@@ -153,45 +113,190 @@ notice:
 :::
 
 :::cell
-<div id="story-aken-over-your-apartment-e17c589e30bf9959" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1729" data-content-paragraphs="19" data-published-at="2026-09-26T17:00:00.000Z" data-time-source="publication">
+<div id="story-026-09-27-10704313-shtml-e13aa636598667c0" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="738" data-content-paragraphs="21" data-published-at="2026-09-26T22:53:59.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新社 (国际实时原版)" width="16" height="16" /> <strong>中新社 (国际实时原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-27 06:53</span>
+</div>
+
+### [特朗普称美国和古巴会达成协议](https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml)
+
+<div class="article-body" data-article-body="true"><p>美国总统特朗普26日称，他认为美国和古巴会达成协议，美方“不需要动用军队”。</p>
+<p>特朗普当天在白宫南草坪前往田纳西州前作上述表示。</p>
+<p>古巴外长罗德里格斯当天在联合国大会一般性辩论发言中说，美国对古巴的封锁是“一种集体惩罚行为”，目的是在古巴引发一场人道主义危机。他同时表示，古巴对美国不构成威胁，并随时准备在主权平等和尊重国际法的基础上与美国进行对话。</p>
+<p>美国长期对古巴实施经济、金融封锁和贸易禁运。继今年相继对委内瑞拉、伊朗发起军事行动后，美方又对古巴发出威胁，并进一步加大对古巴施压，实行石油封锁，扩大对古制裁。据美国方面此前消息，特朗普政府对古巴的战略正日益侧重于加大经济制裁和施压力度，而非部署军事力量。</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
+<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
+<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>美国总统特朗普于26日在白宫南草坪前往田纳西州前表示，他认为美国和古巴会达成协议，美方不需要动用军队。</li>
+    <li>古巴外长罗德里格斯在联合国大会一般性辩论发言中称，美国对古巴的封锁是“一种集体惩罚行为”，目的是引发人道主义危机，并表示古巴对美不构成威胁且愿在主权平等和尊重国际法基础上对话。</li>
+    <li>来源叙事重点：突出特朗普关于美古将达成协议且不需要动用军队的表态，同时以古巴方面对美国封锁的批评、对话意愿以及美国持续制裁和施压作为背景，形成“存在谈判可能但伴随高压政策”的叙事框架。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新社</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/gj/2026/09-27/10704313.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新社 (国际实时原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ages-over-haptic-patents-10792b6727af1abd" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="553" data-content-paragraphs="1" data-published-at="2026-09-26T21:30:01.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-27 05:30</span>
+</div>
+
+### [因触觉反馈专利侵权，苹果被判赔偿57亿美元](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Apple hit with $5.7 billion in damages over haptic patents</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0277.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="因触觉反馈专利侵权，苹果被判赔偿57亿美元" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的推送将添加到您的每日电子邮件摘要和主页信息流中。<br />苹果的 Taptic Engine 被认定侵犯了 Taction 的两项专利。<br />该作者的推送将添加到您的每日电子邮件摘要和主页信息流中。<br />查看 Terrence O&#39;Brien 的全部文章<br />触觉技术公司 Taction 于 2021 年起诉苹果公司，指控其侵犯了两项专利。如今，圣迭戈的一个联邦陪审团裁定判给 Taction 超过 57 亿美元的赔偿金。据 CNBC 报道，“这起诉讼围绕美国专利号 10,659,885 和 10,820,117 展开，两项专利均涉及基于振动的触觉换能器技术，该技术可帮助用户感受到设备对其输入的反馈。”<br />Taction 主张，苹果在其 Apple Watch 和 iPhone 中使用的 Taptic Engine 未经适当许可便使用了其开发的技术，陪审团对此表示赞同。陪审团认定苹果侵犯了一项专利中的两项权利要求以及另一项专利中的一项权利要求。然而，陪审团并未认定苹果属于故意侵权。Taction 此前曾指控苹果通过逆向工程抄袭了两款 Kannon 游戏耳机的技术。<br />苹果公司已表示打算对该裁决提出上诉。我们已联系对方征求进一步置评，如有答复将及时更新报道。<br />最重要的焦点新闻免费每日摘要。<br />这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>Taction于2021年起诉苹果，指控苹果侵犯其两项专利。</li>
+    <li>圣迭戈的一家联邦陪审团裁定向Taction赔偿超过57亿美元。</li>
+    <li>来源叙事重点：突出苹果的Taptic Engine被陪审团认定侵犯Taction两项专利，以及超过57亿美元赔偿这一重大商业和法律后果；同时提及陪审团未认定故意侵权和苹果拟上诉。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-27-10704312-shtml-2a7afd2ec154ee85" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="2457" data-content-paragraphs="37" data-published-at="2026-09-26T22:51:35.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-27 06:51</span>
+</div>
+
+### [AI时代，为啥还要拼技能？世赛现场即答案](https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml)
+
+<div class="article-body" data-article-body="true"><p>国家会展中心(上海)，第48届世界技能大赛64个赛项激烈角逐。对全球技能青年来说，这是一生只能参与一次的比赛。</p>
+<p>这里有工业力量的硬核比拼，调试代码、排查故障，在工业机械的毫厘之间追求极致精度；有数字世界的无声攻防，在代码的迷宫中捕捉每一个隐藏的缺陷；有创意与美学的灵感绽放，选手将面料化为流动的艺术，让每一件作品尽显技法之美；也有烟火人间的温暖呈现，烹饪的香味与美发的芬芳飘散赛场……</p>
+<p>有人问：人工智能(AI)时代，为啥还要比拼技能？世赛现场即答案。</p>
+<p>试想这样的场景：一位老年人，坐在床边，不肯吃饭。</p>
+<p>你劝了10分钟，他还是把头扭开。这时候，光有耐心够吗？可能不够。你需要判断：是老人吞咽功能出了问题，还是情绪低落，药物副作用？不同的原因，决定了不同的照护方式。</p>
+<p>这就是世界技能大赛健康和社会照护项目比赛中考核参赛者的重要内容。这项比赛，不只是在工位上完成一道操作，而是把真实的照护现场搬进赛场。选手要面对由真人扮演的“标准化病人”，全程用英语沟通，并在规定时间里完成一整套照护流程。</p>
+<p>用中国专家的话说，这个项目要看选手“脑中有没有判断”“手上有没有技术”，更要看“心中有没有人”。</p>
+<p>毫无疑问，科技正在改变照护：智能餐具可以调温、发声；毫米波感应器能无接触监测生命体征……但人的判断和温情依旧珍贵。再如，高危喷漆作业有望被机器人替代，但个性化家装仍依赖人工经验；精密测量工具提升了精度，但在仿古建筑、修缮建造祠堂等特定场景，手工砌筑技艺依旧“吃香”。</p>
+<p>“不能把AI的工具能力、属性，和人的职业技能完全对立起来，预设了AI能干，就不需要人精炼技能，这个前提本身是站不住脚的。”世界技能大赛中国(上海)研究中心主任、上海工程技术大学教授王迪说，目前看，AI还不是独立的决策者与负责任的落地执行者，无法自主判断需求真伪、校验工程安全、处理现场突发故障，不能对最终成果承担责任。“技能大赛比拼的，恰恰是人驾驭工具、甄别错误、解决非标复杂问题、把控质量的能力。”王迪说。</p>
+<p>高铁列车飞驰，旅客感受到的平稳与安静背后，是检修人员的“反复问诊”“手到病除”。</p>
+<p>第48届世界技能大赛新增的轨道车辆技术赛项，就重点考查对列车故障的排查与维保调试，需要机械、电气、控制、数据等多个领域的复合能力。换句话说：看选手能不能在多个技术领域的交叉点上，做出准确判断。</p>
+<p>这正是世赛赛项设置所反映的产业趋势。本届世赛新增7个项目：轨道车辆技术、无人机系统、智慧安防技术、软件测试、数字交互媒体设计等，集中体现数字化、智能化对职业技能的重塑。</p>
+<p>AI时代，对“技能”的理解本身也在不断拓展。“如果说传统工匠比拼的是一技之长，现在工匠比拼的则是‘一专多能’。”世界技能大赛中国(天津)研究中心、天津职业技术师范大学工程实训中心副主任张瑞说。比如，工业4.0项目，模拟的是一座智能工厂的完整运行过程，涉及机械装配、电气接线、数据采集与分析、生产调度优化等多个技术领域；新增的无人机系统赛项，则要求选手同时扮演工程师、程序员、飞手三重角色。</p>
+<p>今天，青年工程师写代码、调算法，用软件定义机器、用数据驱动生产，这本身就是“技能”最好的注解。而那些10年前还闻所未闻的新职业，今天也已成为一批青年安身立命的事业。“新增赛项清晰映照出全球产业变革的浪潮，也生动展现了新时代中国青年正在投身的新事业、新行业、新职业。”张瑞认为，未来的技能人才不再是重复单一工序的操作者，而是能够驾驭数字化工具、具备跨领域解决问题能力的复合型工匠。</p>
+<p>当前，新一轮科技革命和产业变革加速突破，全球对技能的重视程度也持续提升，技能发展已成为各国政府优先事项。</p>
+<p>一组数据很有代表性：世界技能组织成立于1950年，目前有90个国家和地区成员，覆盖全球2/3人口；中国于2010年加入世界技能组织，是其第53个成员。也就是说，最近10多年来，该组织增加了30多个新成员，这反映出世界技能组织在全球的影响力日益扩大，也从侧面反映出越来越多国家和地区认识到提高劳动者职业技能水平的重要性。</p>
+<p>世界技能组织主席弗朗西斯·乌汉认为，各国正持续应对技术革新与各类全球难题，而破解这些难题的核心力量，正是千千万万技能从业者。“赛场上每一项技能展示的背后，那份沉稳精湛的实力，皆源于长年累月的专注与磨砺，值得被全世界看见与赞颂。”乌汉说。</p>
+<p>本届世赛，有80个国家和地区注册参与，68个国家和地区派出1385名选手参赛——这正是今天技能重要性最直白的写照。</p>
+<p>“如切如磋，如琢如磨”，世界技能博览会专门设立中国馆，观众既能看到运载火箭、深海探测船等大国重器，也能体验拓印、古籍修复等传统文化技艺。步入馆内，一行醒目的大字映入眼帘：“大国工匠是我们中华民族大厦的基石、栋梁。”</p>
+<p>同各方加强交流合作，推动世界技能运动发展，更好服务全球经济增长和民生福祉改善——这也是中国通过第48届世界技能大赛向世界传递的强劲信号。</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
+<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
+<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>来源叙事重点：文章围绕“AI时代为何仍需技能”展开，强调人工智能能够增强工具能力，但暂不能替代人的判断、责任承担、现场应变、质量控制和情感照护；报道通过健康和社会照护、轨道车辆技术、工业4.0、无人机系统等赛项，论证技能正从单一手工操作转向数字化、跨领域和人机协作能力，并将中国参与世赛、中国馆展示及技能人才培养与全球产业变革联系起来。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#中新网</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/cj/2026/09-27/10704312.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-reasing-healthcare-costs-3eda5db8c05960eb" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="800" data-content-paragraphs="11" data-published-at="2026-09-26T21:02:06.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-27 01:00</span>
+  <span class="news-meta-time">🕒 2026-09-27 05:02</span>
 </div>
 
-### [Levoit推出新款空气净化器，专治充斥公寓的宠物异味](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Levoit’s new air purifier is for the pet odors that have taken over your apartment</div>
+### [保险机构称人工智能已在推高医疗成本](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Insurers claim AI is already increasing healthcare costs</div>
 
-<div class="article-body" data-article-body="true"><p>最近有人不得不让我坐下来，握着我的手，对我说了一句所有养宠人士都不想听到的话：我的公寓闻起来有一股湿狗味。简直太可怕了。</p>
-<p>由于无论怎样到处都会不停地出现毛发和皮屑，这种善意的提醒大概确实很有必要。因此，当 Levoit 推出其 Vital Pet Pro 空气净化器时，我很好奇它是否真的能带来明显改善。</p>
-<p>这款专为养宠家庭设计的机器售价为189.99美元，相比传统空气净化器采取了更具针对性的策略，将三级过滤系统与专为解决宠物主人面临的最大难题之一——无处不在的毛发（以及偶尔出现的“湿狗”味）而设计的各项功能结合在一起。</p>
-<p>该三级过滤系统由可清洗的前置滤网、主滤网以及活性炭滤网组成。前置滤网用于捕获宠物毛发等较大碎屑，主滤网则针对较小的颗粒物和皮屑。碳滤网旨在解决异味问题，其中填充了140克活性炭。</p>
-<p>该净化器的另一项关键设计特性是其U型进气口，Levoit 表示该设计旨在捕捉空气中的宠物毛发和颗粒物，同时改善气流并有助于防止滤网堵塞。</p>
-<p>在对净化器进行了一周多的测试后，我发现它在收集毛发以及拦截那些通常会飘散在公寓四周或落在家具上的碎屑方面效果显著。</p>
-<p>在解决宠物异味方面，Levoit 称 Vital Pet Pro 可以在一小时内去除高达70%的异味。我无法进行具体测试来验证这一数据，但变化确实显而易见。净化器运行之后，房间里的空气闻起来明显清新了许多。</p>
-<p>我也很欣赏它的自动清洁技术，该技术可清除前置滤网上积聚的毛发和碎屑，并将其收集到可拆卸托盘中。这是一项非常实用的功能，特别是如果替代方案是必须不断拆开净化器去清理一层毛发的话。</p>
-<p>此外，配套的应用程序提供了不同的模式，旨在让净化器的使用更加省心。Auto Plus 模式可监测空气质量的变化并实时调整净化器的运行性能。</p>
-<p>宠物模式（Pet Mode）则是专门针对宠物相关颗粒物在一天之中的积聚规律而设计的。它会在以最高风速运行15分钟（以捕获前置滤网中的颗粒物）和切换至低速运行60分钟之间交替进行，以在降低噪音和能耗的同时维持空气质量。</p>
-<p>另外，Vital Pet Pro 没有采用数字式的空气质量读数，而是使用了简单的色彩系统。红色表示空气质量差，橙色表示中等，绿色表示良好，青色表示极佳。我其实更喜欢这种设计，因为你只需瞥一眼净化器，就能立刻知道空气是否在改善，而无需去解读一个具体的数字。</p>
-<p>我还要指出的是，Vital Pet Pro 的体积比我预期的要稍大一些，因此在把它买回家之前，请确保你有足够的地面空间。</p>
-<p>噪音是另一个需要考虑的因素。在最高档位下，风扇的声音确实很明显。然而，一旦净化器转入较低档位，它就会变得非常安静，足以通宵运行而不会打扰我的睡眠。对于浅睡者，睡眠模式能让净化器的运行更为安静。</p>
-<p>该空气净化器可通过 Levoit 官网、亚马逊、Chewy 以及其他零售商处购买。</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会赚取少量佣金。这不会影响我们的编辑独立性。</p>
-<p>Lauren 在 TechCrunch 负责媒体、流媒体、应用和平台领域的报道。</p>
-<p>您可以通过发送电子邮件至 laurenf.techcrunch@gmail.com 或在 Signal 上发送加密消息至 laurenforris22.25 与 Lauren 取得联系或核实联络。</p>
-<p>您的下一个重大机遇就在 Disrupt。与 10,000 多名创始人、风投、运营者和科技领袖建立联系。探索未来的突破性成果，聆听塑造当今科技的声音，在太平洋时间 9 月 25 日晚上 11:59 之前购票可节省最高 200 美元。</p>
-<p>Meta 旗下 AI 智能体 Muse 即将迎来的一切新特性<br />Meta 为其 Muse AI 智能体打造了一款类似拓麻歌子的可穿戴设备<br />Vogue 让机器人在 Vogue World 的T台上走秀，但人们对此并不感冒<br />Anthropic 表示其生物实验室已经有了重大发现<br />PitPro 首款换胎机器人在加拿大投入使用<br />Anthropic 发布 Opus 5.5，价格更低且拥有 Fable 级性能<br />Meta 的 Muse 早期移动端发布速度超越了 ChatGPT</p></div>
+<div class="article-body" data-article-body="true"><p>根据美国蓝十字蓝盾协会（Blue Cross Blue Shield Association，简称 BCBSA）的一项分析，医院在提交保险理赔时使用人工智能工具，在两年时间内导致医疗支出额外增加了 9.42 亿美元。</p>
+<p>BCBSA 的分析发现，“被记录为患有复杂病症的患者人数急剧增加”，但指出“[医疗]编码与实际治疗之间存在明显的脱节”，因为“没有证据表明所提供的护理服务发生了相应变化”。</p>
+<p>《纽约时报》指出，这项分析只是表明人工智能正在推高医疗成本的最新迹象。尽管医院与保险机构围绕治疗方案和费用支付的博弈早已司空见惯，但《纽约时报》表示，双方对人工智能的使用似乎正在使情况进一步恶化。</p>
+<p>人工智能初创公司 Abridge 创始人希夫·拉奥（Shiv Rao）博士承认，使用人工智能可能会导致“没有人愿意生活在其中的可怕反乌托邦未来”，即“机器人对抗机器人、智能体对抗智能体”。但拉奥也表示，它同样可能缓解紧张局势并降低成本。</p>
+<p>BCBSA 高级副总裁卢克·乔尔克（Luke Chalker）则不愿将这种局面定性为一场战役，他声称：“这不是一场战争。这是一场彻底一边倒的屠杀”，而保险公司正处于输家一方。</p>
+<p>您的下一个重大合作契机就在 Disrupt。与超过 10,000 名创始人、风投机构、运营人员及科技领袖建立联系。探索未来的突破性技术，倾听塑造当下科技格局的声音，并在太平洋时间 9 月 25 日晚 11:59 之前报名，立省高达 200 美元。</p>
+<p>每个工作日和周日，您都可以获取 TechCrunch 的精选报道。</p>
+<p>TechCrunch Mobility 是您获取交通出行领域新闻与洞察的目的地。</p>
+<p>初创公司是 TechCrunch 的核心，欢迎每周查收我们的优质报道。</p>
+<p>为行业领袖和决策者提供开启崭新一天所需的信息资讯。</p>
+<p>提交您的电子邮箱即表示您同意我们的条款和隐私政策声明。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Levoit推出了Vital Pet Pro空气净化器，售价为189.99美元。</li>
-    <li>该净化器采用三级过滤系统，包括可水洗初效滤网、主滤网和含有140克活性炭的活性炭滤网。</li>
-    <li>来源叙事重点：围绕养宠家庭痛点（宠物毛发、皮屑与异味），通过一手体验评估Levoit Vital Pet Pro空气净化器的实际功能、过滤系统与性价比，突出其自动化清洁和专属宠物模式的便利性，同时指明体积偏大和高档位噪音等实际使用局限。</li>
+    <li>据蓝十字蓝盾协会（BCBSA）的一项分析，医院在提交保险理赔时使用人工智能工具，在两年期间导致医疗支出额外增加9.42亿美元。</li>
+    <li>BCBSA的分析发现，被记录为患有复杂疾病的患者数量大幅增加。</li>
+    <li>来源叙事重点：报道围绕BCBSA所称的两年内额外增加9.42亿美元医疗支出展开，突出“复杂疾病记录增加”与医疗编码、实际治疗之间可能存在脱节，并将其置于医院与保险公司长期支付博弈及双方使用AI可能加剧冲突的框架中。同时保留Abridge创始人关于AI可能导致自动化对抗、也可能降低成本的双重判断。</li>
   </ul>
 </div>
 
@@ -200,409 +305,299 @@ notice:
   <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story--2026-09-26-reachability-9f62655e606a7f5a" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="6862" data-content-paragraphs="25" data-published-at="2026-09-26T15:49:22.000Z" data-time-source="publication">
+<div id="story-0m-in-alabama-settlement-56e787e129aad1a6" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="637" data-content-paragraphs="11" data-published-at="2026-09-26T20:24:45.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-26 23:49</span>
+  <span class="news-meta-time">🕒 2026-09-27 04:24</span>
 </div>
 
-### [我们能在 TLA⁺ 中表达可达性性质吗？](https://ahelwer.ca/post/2026-09-26-reachability/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Can we have reachability properties in TLA⁺?</div>
+### [TikTok同意支付至少1亿美元以达成阿拉巴马州和解协议](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/)
+<div class="original-title-sub"><span class="orig-tag">原文</span> TikTok agrees to pay at least $100M in Alabama settlement</div>
 
-<div class="article-body" data-article-body="true"><p>我之前在读 Hillel Wayne 的新文章《TLA+ 并不能解决一切》（TLA+ Won’t Solve Everything），并特别关注到了他提到的 TLA⁺ 中无法表达的一件事：<br />可能性与可达性性质：即始终有可能使 P 为真，即使你实际上并没有决定这样做。比如“我总是可以关闭电脑”或“用户总是可以更改他们的密码”。这些不能用 &lt;&gt;P 来表达，因为后者的含义是“对于所有行为，P 至少发生一次”，而我们实际想要的是“对于所有行为前缀，至少存在一种使得 P 至少发生一次的行为”。<br />这引发了我的思考。不久前我正在阅读 Lamport 的新书《并发程序科学》（A Science of Concurrent Programs），进展原本相当顺利，直到在第 5.1 节“可能性与准确性”（Possibility and Accuracy）处彻底卡壳。该节探讨的恰恰就是这个主题——在 TLA⁺ 中表达可能性/可达性性质。当时我完全无法理解，甚至一度以为书中存在重大错误。Hillel 的文章促使我重新审视了它1，现在我很欣慰地表示自己基本搞懂了，并尝试以一种我觉得说得通的方式来解释它。如果你更希望直接听 Lamport 的解释，可以阅读上述教材的第 5.1 节，或者 Lamport 于 1998 年 10 月发表的论文《证明可能性性质》（Proving Possibility Properties）。<br />我们将探讨两个问题：<br />TLA⁺ 中较为突出（且怪异2）的算符之一是 ENABLED。在给定状态下，如果可以执行动作 A，则 ENABLED A 计算为真。它最常见的应用是检查 []ENABLED Next。这仅仅表示系统总是可能迈出下一步非停滞（non-stuttering）步骤。如果该表达式变为假，则说明你的系统陷入了死锁！这是一个非常有用的性质，以至于 TLC 会默认对其进行检查。3<br />ENABLED 还允许你编写最基本的可达性性质，即询问是否可能在单步内到达某个状态。性质 [](ENABLED Next /\ P&#39;) 会检查你是否总能在单步之内到达状态 P。TLC 目前就可以检查这一点。然而，这并不是特别有用。我们通常想知道的是 P 是否可以在多步之内到达。Lamport 定义了另一个算符，他用上标加号 ⁺ 来表示它。4 任何熟悉正则表达式的人都会对其含义感到熟悉：它表示一个或多个动作可以连接在一起。Lamport 从而将完整的可达性性质表达为 [](ENABLED [Next]_v^+ /\ P&#39;)，意味着可以通过执行一个或多个 Next 步骤（或停滞）来到达 P，而不仅仅是一步。用 ASCII 写出来是一个相当难看的公式；精装排版后如下所示：<br />$$ \Box\text{E}([Next]_v^+ \land P^{\prime}) $$<br />TLC 目前无法检查此性质；它仅仅存在于 Lamport 的构想之中。它看起来还非常像分支时间逻辑。简直是异端！稍后会对此进行更多讨论。<br />除了 ENABLED 之外，TLC 最近增加了对基础可达性性质的支持。这些仍处于测试阶段，因此你必须在模型文件中将其声明为 _POSSIBLE P。这并不会检查从每一个系统状态出发的可达性；相反，它检查的是从某个初始状态开始的任何行为中，P 是否可能得到满足。你可以在这里阅读其动机，它主要用作规范的“单元测试”5。在 TLC 的常规广度优先搜索中检查 _POSSIBLE 非常直观：如果在状态探索终止时从未触及 P，则报告失败。最近还发现 _POSSIBLE 提供了一种更符合人体工学的追踪验证表达方式，因此它似乎很可能会留在该语言中。<br />那么完整的可能性/可达性性质呢？我们能否检查 P 是否可从每一个系统状态到达？TLC 当然可以检查这些，但需要做更多工作。所幸这项工作表现为在模型检查中增加一个独立的轮次，而不是与现有的机制纠缠在一起，因此在破坏现有功能的风险有限的情况下实现它是可行的。要使用的算法称为后向可达性（backward reachability）。在完整状态图探索完毕后，编写一个在状态图上进行逆向广度优先搜索的遍历阶段，从满足 P 的每个状态开始，并遍历每个能够转换到这些状态的状态。如果在最后有任何未探索的状态剩余，你就知道 P 无法从这些状态到达，从而报告违例。这些剩余的状态甚至能提供一个良好的反例用于着手调试！<br />这是否会在 TLC 中实现尚不可知，但这看起来确实是一个不错的想法。<br />在这里，我将尽最大努力解释 Lamport 想出的技巧：如何将看起来像分支时间推理的东西引入线性时间逻辑。事先提醒一下，这一节将比其他部分更加硬核偏技术性。TLA⁺ 的语义从根本上将规范定义为一组无限的线性行为。这组行为本身通常也是无限的6。那么，在这个无限的无限线性行为集合中，我们所说的 REACHABLE P 究竟可能意味着什么？按照惯例，TLA⁺ 公式必须适用于该集合中的每一种行为。但我们感兴趣的并不是每一种行为是否实际上都到达了 P；我们想知道的是每一种行为是否原本有可能到达 P！这种推测未来的推理方式在分支时间逻辑中完全如鱼得水，但对于线性时间逻辑来说却是异类。<br />最根本的技巧就是滥用公平性假设（fairness assumptions）。公平性假设是一个可用于过滤行为集合的谓词。举一个常见用法的例子：一个只是呆坐着什么都不做（永远停滞）的系统，在常规 TLA⁺ 规范中完全属于合法的行为，但它并没有什么价值。因此，很多规范如果想要检查诸如“系统最终到达目标状态”之类的活性性质（liveness properties），就会通过诸如“如果一个动作持续处于启用状态，它最终必须被执行”这样的公平性假设来排除那些无价值的行为。通俗地说，我喜欢把公平性假设看作是给你的规范添加洋流，从大体上推动它向期望的状态前进。你的系统仍然可以在整个状态空间中穿梭，但它不能在没有洋流推动它朝更有成效的行为前进的情况下永远被困在某处。公平性假设通常是你为系统的“理想路径”（happy path）进行编码的方式，例如发送网络消息最终成功等这类情况。</p>
-<p>如果一个公平性假设不会阻止系统拒绝有限行为，而只拒绝无限行为——例如拒绝那种永远停留在那里结巴（stuttering）且什么都不做的行为⁷，那么它就是机器封闭的（machine-closed）。更形式化地表述，如果你的公平性假设是机器封闭的，那么系统的每一个有限行为前缀，都必须能够以某种满足该公平性假设的方式进行扩展。通俗来说，这意味着在某个行为的任意时刻，它都可以突然惊醒并意识到：“糟糕，我忘了我需要满足公平性假设！”，然后它可以通过采取一系列动作来达成这一点。该行为永远不会在经历了有限步数后，陷入无可挽回的境地。你可能已经注意到，这种“有限前缀必须能够以满足某条件的方式进行扩展”的措辞，听起来有点像在讨论推测性的未来执行！而这正是解决所有问题的关键。</p>
-<p>假设你想验证状态 \(P\) 是否能从所有可能的系统状态中到达。如果这是真的，那么系统行为的某个子集必定会包含状态 \(P\)。事实上，其子集将无限次包含 \(P\)。用 TLA⁺ 的术语来说，它们满足公式 \(\Box \Diamond P\)⁸。那么，如果你能写出一个机器封闭的公平性假设 \(F\)，该假设仅接纳一套受到严格限制的系统轨迹，且所有这些轨迹都满足 \(\Box \Diamond P\)，会怎么样呢？那么根据机器封闭性的定义，规约的每一个有限前缀都可以被扩展以满足 \(\Box \Diamond P\)⁹。因此，规约所接纳的每一个有限前缀都能到达 \(P\)！这就是 TLA⁺ 中语义合法的可达性属性！记作：<br />$$ (Spec \space \land \space F) \Rarr \Box \Diamond P $$</p>
-<p>因此，我们已将陈述“所有状态是否都能到达 \(P\)”的问题，规约为寻找一个合适的公平性假设。持怀疑态度的读者完全有理由认为我在这个细节中夹带了不少私货。比如，诚然如果天上掉下来某个神奇的公平性假设，它既 1. 机器封闭，又 2. 能以某种方式唯独挑选出满足 \(\Box \Diamond P\) 的轨迹，那我承认这确实行得通。但我们有什么理由相信这样的公平性假设一定存在呢？在现实中对于任意规约，我们又该如何实际推导出它呢？</p>
-<p>首先，我们应该给读者一个在此退出的机会。如果你关心的只是对有限状态系统进行可达性模型检测，我们已经证明了可达性属性在线性时间逻辑中是可行的！讨论可达性在 TLA⁺ 语义上并非什么不可弥合的断裂。你可以直接去向 TLA⁺ 邮件列表建言，要求给 TLC 添加可达性检测功能。本节的其余部分只会吸引那些想要对无限状态系统进行形式化证明的极客怪人。</p>
-<p>重申一下，如果你想证明某个规约满足可达性属性 \(P\)，只需推导出一个机器封闭的公平性假设 \(F\)，满足：<br />在兰伯特（Lamport）的《Proving Possibility Properties》中给出了关于 \(F\) 的通用存在性构造方法，因此如果 \(P\) 实际上是可达的，那么合适的公平性假设必然存在；但并没有一种机械化的方式可以推导出易于在证明中进行推导的 \(F\)；这需要创造力！</p>
-<p>让我们来看一个例子。考虑一个由单个变量 \(x\) 组成的规约，它作为一个既可递增也可递减的计数器：<br />$$ Up ≜ x^{\prime} = x + 1 $$ $$ Down ≜ (x &gt; 0) \land x^{\prime} = x - 1 $$ $$ Next ≜ Up \lor Down $$ $$ Spec ≜ (x = 1) \land \Box[Next]_x $$</p>
-<p>假设我们想证明 \(x = 0\) 始终是可达的，而事实显然如此。我们能构想出什么既满足机器封闭性、又能确保 \(\Box \Diamond (x = 0)\) 的公平性假设 \(F\) 呢？</p>
-<p>我们的第一次尝试可能是选择稳妥且熟悉的 \(F = SF_x(Down)\)。任何由 \(Next\) 的子动作的弱公平性或强公平性构成的合取式，都始终是机器封闭的。然而，这并不充分。每走一步 \(Down\) 就走两步 \(Up\) 的行为满足这个 \(F\)，但它永远无法到达 \(x = 0\)：<br />$$ 1 \rightarrow 2 \rightarrow 3 \rightarrow 2 \rightarrow 3 \rightarrow 4 \rightarrow 3 \rightarrow 4 \rightarrow 5 \rightarrow \ldots $$</p>
-<p>我们必须接受：我们不得不放弃构造机器封闭公平性假设的常规安全手段，并相信我们自己证明某个潜在公式是否机器封闭的能力。沿着这一新思路的良好二次尝试是 \(F = \Diamond \Box [Down]_x\)：在某一特定时刻，该行为决定不顾一切，此后只执行递减。这很有希望！如果它之后只进行递减，那么它将单调地趋向 \(x = 0\)！它也是机器封闭的，因为任何行为都可以在任意时刻停下来并开始执行递减。遗憾的是，这依然失败了，因为它允许永久停滞/结巴（perpetual stuttering）：<br />$$ 1 \rightarrow 1 \rightarrow 1 \rightarrow 1 \rightarrow 1 \rightarrow \ldots $$</p>
-<p>解决办法既简单又熟悉：将其与 \(Down\) 的弱公平性进行合取：<br />$$ F = \Diamond \Box [Down]_x \land WF_x(Down) $$</p>
-<p>这同样是机器封闭的，并且它完全能确保 \(\Box \Diamond (x = 0)\)。至此大功告成！我们可以使用常规的活性（liveness）证明技术¹⁰来证明 \(x = 0\) 在任意状态下都是可达的。</p>
-<p>实际上，我们的例子暗示了一种更广泛的范式。对于任意规约定义 \(F\)，一个不错的起点形式为：<br />$$ F = \Diamond \Box [A]_v \land SF_v(A) $$<br />其中 \(A\) 是一个动作（不一定是 \(Next\) 的严格子动作），它能使系统中的每个状态都更接近 \(P\)。因此，任何行为都可以在任意时刻放下手头的一切，直接朝 \(P\) 前进。当然，具体细节将取决于你的规约。</p>
-<p>在之前的一篇文章中，我曾编写过一个最终一致性系统（一种无冲突复制数据类型，CRDT）的模型。最终一致性系统具有这样的特性：每个副本彼此之间始终会略微不同步，但如果事务停止流入，则保证所有副本最终都会收敛到系统的相同视图。我当时并未意识到，但这正是一个可达性属性！我们希望系统始终能够收敛，而不是它必然总在收敛！我当时通过引入一个人工布尔标志位，以一种笨拙的方式表达了这一点——该标志位可以在任意时刻触发以停止新事务，随后检查当标志位为真时系统是否最终收敛。如今有了在 TLA⁺ 中表达可达性属性的上述知识，那个标志位本可以被一个公平性假设所替代！当时其实就有人提出了类似的建议，只是我那时还没能理解。</p>
-<p>因此，实际上 TLC 现在确实支持检查可达性性质，只要用户将其表述为 \((Spec \space \land \space F) \Rarr \Box \Diamond P\) 形式！这要求相当高，因为即便拥有十多年的 TLA⁺ 经验，直到写这篇博文之前我都没能理解这种方法。若能在 TLC 中将可达性检查作为独立功能并通过反向可达性遍历（backward reachability pass）来实现，将大幅提升其易用性。</p>
-<p>坦白讲，我是通过向 GPT-6 Astra 询问有关该部分的许多问题并消化其答案才做到这一点的。不过，这篇博文完全是由我自己撰写的，结合了我由此建立的理解。写下这些既是向我自己、也是向他人进行阐释的一种方式。↩︎</p>
-<p>这本身就值得单独写一篇文章，但可以阅读《并发程序科学》（A Science of Concurrent Programs）第 6.4.4.3 节“Enabled 的困扰”（The Trouble with Enabled），以了解有关该算子有多古怪的更多信息；它破坏了逻辑代换规则！↩︎</p>
-<p>你可以通过传入命令行参数 -deadlock 让 TLC 跳过死锁检查。没错，这名字起得很烂。你来想个更好的试试！↩︎</p>
-<p>就像 TLA⁺ 本身的设计风格化名称一样！↩︎</p>
-<p>在几个月前的那段“旧时光”里，这些单元测试是通过故意编写一个你预期会失败的不变量来完成的，只为了让 TLC 吐出一条违规轨迹，从而确认状态空间的某些部分确实是可达的。↩︎</p>
-<p>你可以通过转换到 \(N\) 个初始状态之一然后永远静止（stuttering），来使你的行为集合具有任意有限基数 \(N \in \natnums\)，但任何在其 \(Next\) 定义中允许动作改变变量的规范都必须具有无限数量的行为。↩︎</p>
-<p>我觉得将这种性质称为“无先见的”（non-prescient）比称为“机器闭包的”（machine-closed）更有趣。在一个无先见/机器闭包的公平性假设下，你的系统可以自然演化，而无需预先知道涉足状态空间的某些部分会导致其无法到达目标状态——从而先验地避免涉足该部分。因此，通常你会希望你的公平性假设是无先见/机器闭包的，因为计算机目前还不能像《沙丘》中的宇航公会领航员那样运作，以那种方式对其进行规范是毫无意义的。William Schultz 写过一篇非常出色的文章，通过图解生动阐述了这种“先见”概念。↩︎</p>
-<p>即使 \(P\) 是一个吸收态（例如永久关闭计算机），这也同样成立，因为状态 \(P\) 下的静止步（stuttering step）满足 \(\Diamond P\) 和 \(\Box \Diamond P\)。↩︎</p>
-<p>为什么不直接用 \(\Diamond P\) 呢？因为那样你可能会得到一个已经访问过 \(P\) 的有限前缀，该前缀可以通过字面上的任意行为进行扩展以满足你的公平性假设，但该前缀的最后一个状态可能再也无法回到 \(P\)。我们想要捕捉的是这样一种可能性：在到达 \(P\) 一次之后，\(P\) 之后可达的状态自身无法再回到 \(P\)。↩︎</p>
-<p>参见《并发程序科学》（A Science of Concurrent Programs）第 4.2.4 节，题为“时态逻辑推理”（Temporal Logic Reasoning）及后续章节。↩︎</p></div>
+<div class="article-body" data-article-body="true"><p>TikTok将向阿拉巴马州支付至少1亿美元，以解决有关这家短视频平台误导用户有关安全问题、并被设计成让儿童上瘾的指控。该案原定于周一开庭审理。</p>
+<p>据阿拉巴马州总检察长办公室称，TikTok最终可能向该州支付总计3亿美元，具体取决于“某些条件”。该公司还同意为未成年用户引入每日两小时的使用时限，并增加家长控制功能，同时限制夜间使用和美颜滤镜的使用。</p>
+<p>阿拉巴马州总检察长史蒂夫·马歇尔在一份声明中表示，如今，该州家长可以“更加安心，因为已有切实的保护措施到位，能够保护孩子免受社交媒体成瘾的危害”。</p>
+<p>TikTok也发表声明称，这项和解协议“建立在我们不断强化强大安全工具、保护青少年这一承诺和核心目标之上”。</p>
+<p>今年8月，TikTok就有关该平台违反儿童隐私法律的指控，与美国司法部达成了4亿美元的和解协议。</p>
+<p>你与下一位重要合作伙伴的连接就在Disrupt。届时将有逾1万名创始人、风险投资人、运营者和科技领袖参加。探索明日的突破，了解当今正在塑造科技行业的力量，并在美国太平洋时间9月25日晚上11时59分前报名，最高可节省200美元。</p>
+<p>每个工作日和周日，你都可以获得TechCrunch最精彩的报道。</p>
+<p>TechCrunch Mobility是你获取交通运输新闻和洞察的目的地。</p>
+<p>初创企业是TechCrunch报道的核心，因此请每周接收我们最优质的报道。</p>
+<p>为行业推动者和重要人物提供开启一天所需的信息。</p>
+<p>提交电子邮件即表示你同意我们的《条款》和《隐私声明》。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>Hillel Wayne 在其文章中认为可能性与可达性属性无法在 TLA⁺ 中表达。</li>
-    <li>Leslie Lamport 在其著作《A Science of Concurrent Programs》第 5.1 节以及 1998 年 10 月的论文《Proving Possibility Properties》中讨论了在 TLA⁺ 中表达可能性和可达性属性的问题。</li>
-    <li>来源叙事重点：解构形式化方法领域关于‘TLA⁺ 无法表达可达性/可能性属性’的流行观点，论证在理论层面如何利用机器闭包公平性假设在现存线性时间逻辑中表达分支时间推理，并在工程层面探讨 TLC 模型检验器对可达性验证的现状及反向遍历扩展可行性</li>
+    <li>TikTok同意就阿拉巴马州一宗和解支付至少1亿美元。</li>
+    <li>该和解涉及对TikTok误导用户有关安全问题、并被设计成使儿童上瘾的指控。</li>
+    <li>来源叙事重点：将事件框架为TikTok因涉嫌误导用户、促成儿童成瘾和违反儿童隐私保护而承担财务与产品治理责任；同时呈现阿拉巴马州方面关于保护儿童的正面表述，以及TikTok关于持续改进青少年安全工具的自我表述。文章强调至少1亿美元的确定金额、最高可能达到3亿美元的条件性金额，以及每日两小时限制、家长控制、夜间使用限制和美颜滤镜限制等措施。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#TechCrunch</span>
 </div>
 
-<div class="news-card-footer"><a href="https://ahelwer.ca/post/2026-09-26-reachability/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-er-silver-particles-html-ec816bf66ee8fbb4" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1756" data-content-paragraphs="14" data-published-at="2026-09-26T17:00:01.000Z" data-time-source="publication">
+<div id="story-026-09-27-10704310-shtml-b1c91fb9d5ec9f78" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="2493" data-content-paragraphs="40" data-published-at="2026-09-26T22:45:19.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/science.svg" class="source-icon" alt="Phys.org (基础物理与技术前沿)" width="16" height="16" /> <strong>Phys.org (基础物理与技术前沿)</strong></span>
-    <span class="stance-badge">前沿同行评议严谨</span>
-    <span class="dimension-pill">🔬 深空与基础科学</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-27 01:00</span>
+  <span class="news-meta-time">🕒 2026-09-27 06:45</span>
 </div>
 
-### [稀疏分布的10纳米银颗粒催化层促进二氧化碳还原制一氧化碳](https://phys.org/news/2026-09-sparse-layers-nanometer-silver-particles.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Sparse layers of 10-nanometer silver particles boost CO production from CO₂</div>
+### [“请3休13”，一些职场人“拼假游”“拼”出新体验](https://www.chinanews.com.cn/sh/2026/09-27/10704310.shtml)
 
-<div class="article-cover"><img src="https://scx1.b-cdn.net/csz/news/tmb/2026/nanosilver-as-an-elect-1.jpg" alt="稀疏分布的10纳米银颗粒催化层促进二氧化碳还原制一氧化碳" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>来自德国亥姆霍兹研究中心联合会<br />编辑：加比·克拉克（Gaby Clark），审核：罗伯特·伊根（Robert Egan）<br />本文已按照 Science X 的编辑流程与规范进行审核。编辑在确保内容可信度的同时强调了以下属性：<br />同行评审发表</p>
-<p>电解可以将二氧化碳（CO2）还原为一氧化碳（CO），后者是合成燃料等化学产品的原材料。在 GreenQUEST 项目框架内，由柏林亥姆霍兹材料与能源中心（HZB）化学家普拉尚特·梅内塞斯（Prashanth Menezes）领导的国际团队，系统地研究了由银纳米颗粒构成的催化层，调整了颗粒的尺寸和密度。</p>
-<p>在发表于《先进功能材料》（Advanced Functional Materials）期刊的这项工作中，直径约10纳米且呈稀疏分布的纳米颗粒获得了最佳产率。该团队还展示了如何通过在阳极引入化学反应来提高电化学电池的经济效益，从而在单个装置中同时生产甲酸、氢气和一氧化碳。</p>
-<p>温室气体 CO2 可以利用电能通过电解还原为一氧化碳（CO）。在随后的步骤中，通过电化学过程生成的 CO 和 H₂ 会形成合成气，随后转化为二甲醚（DME），然后经催化转化为主要由丙烷（C₃H₈）和丁烷（C₄H₁₀）构成的“绿色液化燃气”（green-LFG）。如果用于电解的电能来自太阳能或风能，那么由于 CO2 得到了循环利用，该技术可被视为碳中和技术。</p>
-<p>在 GreenQUEST 项目下，来自 HZB 的团队正与南非的合作机构围绕这一技术展开合作。他们的目标是开发一种经济实惠且可持续的“绿色”烹饪燃料（gLFG），作为传统生物质烹饪方式的更清洁替代品，特别是在木柴仍是重要家庭能源来源的南非农村地区。</p>
-<p>HZB 的梅内塞斯领导的团队现已展示了一种提高电解 CO2 制备 CO 的效率和成本效益的方法。他们系统地研究了由银纳米颗粒构成的催化层，调整了覆盖在碳电极上的碳粉材料上的颗粒尺寸及其分布密度。</p>
-<p>“我们已经知道，过小的纳米颗粒会促进析氢反应，从而降低一氧化碳的产率。反之，过大的纳米颗粒催化活性又较低。我们希望找到确切的最佳平衡点，”该研究共同作者尼克拉斯·豪斯曼（Niklas Hausmann）博士表示。研究表明，最佳产率来自于直径约10纳米、松散分布在碳材料上的纳米颗粒（电极每平方厘米负载0.2毫克）。</p>
-<p>第二步研究带来了进一步的改进。在阴极将二氧化碳还原为一氧化碳的同时，阳极通常会发生析氧反应。这一反应消耗大量必须由电能供应的能量，且仅产生没有经济价值的氧气。</p>
-<p>该团队现已证明，在电解液中添加醛类物质可以用醛氧化反应取代析氧反应。这将整个工艺的能耗降低了30%以上。此外，反应不再产生氧气，而是生成有用的氢气以及诸如甲酸等高价值羧酸。</p>
-<p>基于银纳米颗粒的优化催化剂在连续运行100小时内对 CO 的法拉第效率接近100%。利用X射线光电子能谱（XPS）进行的研究证实，活性银颗粒的电子和化学结构在运行过程中保持了高度稳定。</p>
-<p>“如果我们将 CO 的生产与产氢以及同时生成甲酸等其他高附加值化学品结合起来，就能提升该电化学过程的整体综合价值。CO 和氢气可以作为后续生产可持续燃料和化学品的基础原料，”梅内塞斯表示。</p>
-<p>Venkata S. R. K. Tandava 等人，《解耦银纳米颗粒的尺寸与负载效应以实现高效二氧化碳与甲醛成对电解》（Decoupling the Size and Loading Effects in Silver Nanoparticles for Efficient Paired Carbon Dioxide and Formaldehyde Electrolysis），《先进功能材料》（Advanced Functional Materials, 2026）。DOI: 10.1002/adfm.78365</p>
-<p>期刊信息：Advanced Functional Materials<br />信息提供：德国亥姆霍兹研究中心联合会</p>
-<p>英语文学硕士，自2021年起担任文案编辑，在高等教育与健康领域内容方面经验丰富。致力于提供值得信赖的科学新闻。完整简介 →<br />数学生物学学士，创意写作硕士。阅历丰富，在科学与语言方面拥有独特见解。完整简介 →</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>在 GreenQUEST 项目中，由德国柏林亥姆霍兹中心（HZB）化学家 Prashanth Menezes 领导的国际团队系统研究了银纳米颗粒催化层在电解还原二氧化碳制一氧化碳中的表现，相关论文发表在《Advanced Functional Materials》上。</li>
-    <li>研究显示，直径约 10 纳米且松散分布于碳材料表面（电极每平方厘米 0.2 毫克）的银纳米颗粒具有最佳产率。</li>
-    <li>来源叙事重点：聚焦科研成果的技术突破与应用前景，强调通过优化10纳米银催化层并结合阳极醛氧化反应，在降低能耗超过30%的同时联产高价值化学品，为南非等发展中地区提供可持续的绿色清洁燃料解决方案。</li>
-  </ul>
-</div>
+<div class="article-body" data-article-body="true"><p>有的自驾游三个城市，有的边玩边学做木工，还有的游玩三个欧洲国家</p>
+<p>“请3休13”，一些职场人“拼假游”“拼”出新体验</p>
+<p>“拼假游”意在主动提升假期时间质量，无论是寻访历史、学习手艺，还是吃美食，都是在用更长的时间段，换取更深度的体验。</p>
+<p>今年中秋、国庆假期相邻，不少上班族通过调休、请年假等方式实现“请3休13”，来一场长途旅行。“9月24日使用调休，9月28日至30日使用3天年假，其余时间为法定假日及周末。”北京的丰先生拼出14天假期，计划去三个欧洲国家旅行。</p>
+<p>近日，在线旅行平台发布的报告显示，部分游客通过拼假将假期利用率拉满。有平台发布的最新预订数据表明，10月1日至7日国庆团期出游用户中，超35%的用户选择在假期前出发，还有不少用户选择在假期前“抢跑错峰”，以避开中秋节首波出游高峰。</p>
+<p>丰先生直言，此次出行成本是第一位的考量。中秋、国庆当天机票价格高企，而提前一天出发的航班价格比临近日期便宜至少几百元。“省的钱够在景区附近吃好几顿饭了。”</p>
+<p>丰先生的目的地是塞尔维亚、波黑和黑山这3个巴尔干半岛的国家。塞尔维亚是此行的起点，他计划在贝尔格莱德停留3天，再去诺维萨德感受多民族融合的历史文化。</p>
+<p>“航班时刻也是限制条件——北京前往贝尔格莱德的航班仅在周二和周四执飞，9月24日恰好是周四，完美契合。”丰先生说，时长需求是第三个驱动力：十一假期单独出行，前后不过七八天，对于一次跨国旅行来说实在有些紧张，“拼假之后，整个行程从容多了。”</p>
+<p>与丰先生的精密计算不同，袁悠的拼假计划来得较早。“今年初翻日历时，发现可以“搭桥”形成13天假期，当时想的是一定要好好利用这个时间来一场深度游。”</p>
+<p>袁悠在互联网公司工作，请假氛围相对宽松，“整个组基本都请假了，不过假期不能‘失联’，有工作仍然要做，可能会在九寨沟开会。”袁悠笑称。</p>
+<p>在杭州工作的王女士选择了“1天年假+2天事假”的组合。“跟公司说了会带着电脑，有紧急任务可以及时处理。”她的假期安排更为随性：2天泉州、2天潮汕、5天青岛，全程自驾游。“主要是去吃美食和看海，回母校怀旧。”</p>
+<p>不同的“拼假”策略，却指向同一个逻辑：想拥有一段完整的、不被打断的旅行体验。</p>
+<p>丰先生此行的第二站是从塞尔维亚向南，乘车进入黑山，目的地是科托尔古城。“目前黑山‌对中国实行有条件免签，政策窗口期很宝贵”。最后一站是波黑，“准备去萨拉热窝，那里有着特殊的历史教育意义。”丰先生的整个行程总计11天，剩余时间用于休息和倒时差。</p>
+<p>丰先生称自己是“特种兵式”旅游，“偏向高强度打卡，但并非完全走马观花。有些景点，比如诺维萨德河畔，会留出足够时间慢慢逛，喝杯咖啡。”他算了一笔账：往返机票约1.52万元，住宿方面贝尔格莱德3天约500元，黑山稍贵，800多元，波黑500～600元。当地公共交通免费，整体预算控制在两万元左右。</p>
+<p>袁悠的13天假期被拆成了两段：先在九寨沟玩3天，剩余时间在成都学木工。“因为时间很长，纯休息或纯玩都会感觉疲劳，所以选择了一种混合模式。”</p>
+<p>对袁悠来说，这个想法并非一时兴起。“一直打算哪天不工作了，找个小镇学一个月的手艺，拥有一段专注自我、没有压力的时间。”此次她预订了一个7天的课程，“花2000多元，包双人寝、不包餐，最后在老师指导下做一把木椅子。”</p>
+<p>“边玩边学木工，整个假期内容丰富，节奏也轻松。”袁悠对自己的安排很满意。</p>
+<p>王女士的选择则充满了烟火气。她计划先去泉州回母校看看，再去潮汕吃美食，最后去青岛看海——3座城市，一条自驾路线，没有紧凑的打卡清单，也没有必须完成的“任务”。</p>
+<p>不同的度假方式，却共享同一个特征：追求“体验密度”，而非“景点数量”。无论是寻访历史、学习手艺，还是吃美食，都是在用更长的时间段，换取更深度的体验。</p>
+<p>中国传媒大学文化产业管理学院副研究员卜希霆认为，这一现象背后是旅游消费逻辑的根本转变。传统的“特种兵旅游”是时间稀缺下的高效率补偿，旨在追求景点数量；City Walk则是利用碎片化时间进行城市微体验。而“拼假游”是主动提升假期时间质量，让旅游消费从“时间效率导向”转向“体验密度导向”。</p>
+<p>据在线旅行平台发布的《2026中秋国庆出游趋势预测》，出境游市场同样呈现重深度、重体验的需求特征。土耳其、美国、新西兰等10天以上行程的纯玩团，成为出境长线游用户的优选。其中，9月24日至26日出发，行程覆盖国庆假期的出境长线跟团游产品尤为抢手，部分热门线路提前一个多月售罄。</p>
+<p>面对这样的新假期模式，卜希霆指出，国内文旅产品仍多按传统7天黄金周设计，“多为景点串联、短时停留的打卡式行程，缺乏深度体验内容。自发的拼假行为为法定假期加带薪休假的组合模式提供了新的市场反馈。”</p>
+<p>卜希霆建议，供给侧应重视打造分层级深度产品，从单纯观光向人文沉浸、自然探索延伸；推进跨区域联动，建立“一票多景”、专线交通串联模式。此外，构建全时长产品矩阵，设计覆盖7天、10天、20天等不同时长的产品，摆脱对黄金周的单一依赖。</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
+<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
+<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
 
 <div class="news-card-tags">
-  <span class="news-tag-pill">#深空与基础科学</span>
-  <span class="news-tag-pill">#Phys.org</span>
+  <span class="news-tag-pill">#全球地缘战略</span>
+  <span class="news-tag-pill">#中新网</span>
 </div>
 
-<div class="news-card-footer"><a href="https://phys.org/news/2026-09-sparse-layers-nanometer-silver-particles.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Phys.org (基础物理与技术前沿)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/sh/2026/09-27/10704310.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-blog-2026-09-pun-html-faec2247cd7c39ef" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1607" data-content-paragraphs="1" data-published-at="2026-09-26T15:37:12.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/lobsters.svg" class="source-icon" alt="Lobste.rs (极客思想社区)" width="16" height="16" /> <strong>Lobste.rs (极客思想社区)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🔥 社会热点与思潮</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-26 23:37</span>
-</div>
-
-### [JavaScript 中的双关妙趣：标签模板字面量](https://shukla.io/blog/2026-09/pun.html)
-<div class="original-title-sub"><span class="orig-tag">原文</span> The JavaScript Pun: tagged template literal</div>
-
-<div class="article-body" data-article-body="true"><p>莎士比亚的作品中充满了双关语，这无疑是他对文字的精通与热爱的体现。<br />你很难仅仅通过调换两个词就组成一个在语法上正确的句子，但他却能像魔术师一样玩转文字。<br />“宁做一个聪明的傻子，也不做个愚蠢的聪明人。”（Better a witty fool than a foolish wit.）<br />在上面的例子中，名词“fool”（傻子）变成了形容词“foolish”（愚蠢的），而形容词“witty”（机智的）则变成了名词“wit”（才智之人）。最简单的双关语就是利用语法规则来改变词义。<br />此外，还有一些双关语是通过对短语的运用，借助语法之外的语境来改变含义。这是我最喜欢的例子之一：<br />“熄灭这灯火，然后熄灭生命的灯火。”（Put out the light, and then put out the light.）<br />前半句字面上指的是吹灭蜡烛，而后半句则是一个隐喻，意指杀死某人（在此处指的是苔丝狄蒙娜）。<br />词典中关于双关语的正式定义通常会提到“幽默”的效果。<br />《牛津英语词典》<br />现在，我深信幽默完全取决于人的主观感受。我觉得有趣的，你未必觉得有趣。但我很想向你介绍我所发现的最精妙的双关语。它并非源自英语。自然语言与编程语言有一个共同的属性：语法（grammar）。你已经见识过双关语能用语法玩出什么花样了。<br />首先，快速介绍一下相关的语法背景。在 JavaScript 中，有一种叫做“标签模板字面量”（tagged template literal）的特性，它能让你执行强大的字符串操作，例如这样：<br />在这段代码中，dedent 是标签函数（tag function），用于处理模板字面量以去除多余的缩进。标签函数分别接收模板字面量的纯文本片段以及求值后的 ${...} 表达式值作为独立参数，因此它可以随心所欲地对每一部分进行处理。<br />大多数模板语言都允许你以最终产物的同一媒介来编写模板：即留有变量占位空洞的文本。每当你的控制逻辑与其所控制的系统处于同一体系时，事情就会变得耐人寻味。这里其实还有一个值得探索的“哥德尔不完备性”分支课题。不过扯远了。下面是一个简单的模板示例：<br />这种 {{ }} 语法非常普遍。事实上，以下模板语言都在使用它：<br />瞧瞧这个：我们可以定义一个名为 prompt 的标签函数，看起来就像是在接收 {{ }} 模板一样。<br />它看起来很眼熟、很顺眼，对吧？而在幕后，它实际上生成了一个字符串，该字符串会被一个可观测性工具（Helicone）处理，用于辅助分析提示词。<br />在我看来，最妙的地方在于，这种表面上的 {{ }} 模板语法在我们的 JavaScript 代码中是纯属巧合地浮现出来的：${...} 会对其内部的任何内容求值，而 JavaScript 的 { name } 对象字面量简写等价于 { name: name }。至此，标签函数 prompt 就获得了正确标注该字符串所需的一切信息。<br />JavaScript 看到的是一回事，而你看到的又是另一回事。那种 {{ url }} 语法其实只存在于你的脑海里。<br />好吧，也许我把这个双关语吹得有点过了，但我对此感到非常自豪。早在 2024 年，我就与来自 Helicone 的 Justin 合作过这个项目。这原本是我在内部一直在使用的一个构想，随后 Justin 将其正式引入了 SDK（Justin 的 PR、我的 PR）。我觉得这个“双关”很有趣，Justin 也乐于将其纳入。<br />双关语本质上就是一个字符串对应两种解析方式。在《文法模型卷土重来了，宝贝！》（Grammar models are back, baby!）一文中，我严肃对待了这一点，并返回了一个针对它们的概率分布。而在《空间语言》（Spatial languages）中，我把事情搞得更复杂，给解析器加入了第二个维度。<br />Nishant Shukla 2026-09-26</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>JavaScript 中存在名为标签模板字面量（tagged template literal）的特性，允许进行字符串操作。</li>
-    <li>标签函数接收模板字面量的文本片段和求值后的 ${...} 变量值作为独立参数。</li>
-    <li>来源叙事重点：借莎士比亚文学双关语类比编程语法，展示如何巧妙利用 JavaScript 标签模板字面量和对象简写语法，实现视觉上类似 `{{ var }}` 模板的 Prompt 标注技巧及其在 Helicone SDK 中的工程落地</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#社会热点与思潮</span>
-  <span class="news-tag-pill">#Lobste.rs</span>
-</div>
-
-<div class="news-card-footer"><a href="https://shukla.io/blog/2026-09/pun.html" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Lobste.rs (极客思想社区)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--viral-postgame-incident-bed7c3a41dfbd1bc" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="854" data-content-paragraphs="11" data-published-at="2026-09-26T17:08:54.000Z" data-time-source="publication">
+<div id="story-tions-tennessee-unhinged-5aae5b40429608e5" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1088" data-content-paragraphs="24" data-published-at="2026-09-26T22:43:58.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
     <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
     <span class="stance-badge">美保守派与鹰派</span>
-    <span class="dimension-pill">🌐 全球地缘战略</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-27 01:08</span>
+  <span class="news-meta-time">🕒 2026-09-27 06:43</span>
 </div>
 
-### [赛后网络热传事件后，德克萨斯大学主帅史蒂夫·萨基西安与霍莉·罗的首次采访顺利进行](https://www.foxnews.com/outkick-sports/texas-steve-sarkisian-first-interview-holly-rowe-goes-off-without-hitch-after-viral-postgame-incident)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Texas&#39; Steve Sarkisan&#39;s first interview with Holly Rowe goes off without a hitch after viral postgame incident</div>
+### [得州队对阵田纳西队时的一些庆祝动作，离谱得令人咋舌](https://www.foxnews.com/outkick-sports/texas-dropped-celebrations-tennessee-unhinged)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Texas dropped some celebrations against Tennessee that were about as unhinged as they come</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/steve-sarkisian-texas-longhorns-utsa-fox-news_.jpg?ve=1&amp;tl=1" alt="赛后网络热传事件后，德克萨斯大学主帅史蒂夫·萨基西安与霍莉·罗的首次采访顺利进行" loading="lazy" /></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/texas-tennessee-touchdown.jpg?ve=1&amp;tl=1" alt="得州队对阵田纳西队时的一些庆祝动作，离谱得令人咋舌" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>霍莉·罗（Holly Rowe）与德克萨斯大学主教练史蒂夫·萨基西安（Steve Sarkisian）在周六进行的采访，与他们上一次的碰面截然不同。</p>
-<p>在德克萨斯大学以24比23惊险逆转取胜之后，当罗试图对他进行采访时，萨基西安却转身跑开，让这位ESPN记者显得明显措手不及与沮丧。而在周六，在内兰体育场（Neyland Stadium）举行的全美排名第1的德克萨斯大学对阵排名第14的田纳西大学这场备受瞩目的对决前，罗在开球前对萨基西安进行了采访，整个过程十分顺畅，毫无波折。</p>
-<p>罗提到了阿奇·曼宁（Arch Manning）入选名人堂的叔叔佩顿·曼宁（Peyton Manning），以及曼宁家族成员在内兰体育场的出色战绩，随后询问萨基西安是如何叮嘱阿奇打出属于他自己的比赛的。</p>
-<p>点击此处获取更多OUTKICK体育报道</p>
-<p>“这是属于他的时刻。我希望他能走上场，和队友们一起享受比赛，对吧？这支球队整个赛季都表现出色。他们会继续打出高水平，但他们需要作为一个整体并肩作战。这不仅仅关乎阿奇，而是关乎整支球队，”萨基西安向ESPN表示。</p>
-<p>“非常感谢，教练。很感激你，”罗回应道。</p>
-<p>《克雷格·卡顿秀》（THE CRAIG CARTON SHOW）——原汁原味、直言不讳、不容错过。立即下载他的每日播客！</p>
-<p>“也感激你，”萨基西安一边回应，一边走回自己的边线区。</p>
-<p>对阵俄亥俄州立大学比赛后的赛后采访此前在网络上疯传，但外界的关注并未就此止步。在德克萨斯大学逆转获胜后，曼宁被问及这些走红视频时，提到了一个描绘萨基西安掌掴罗的AI生成视频，引得现场众人发笑。</p>
-<p>曼宁随后为自己的言论道歉，而萨基西安解释称ESPN当时面临直播延迟问题，并表示自己当时急于与球队一同庆祝。这位德克萨斯大学主帅表示，他与罗之间有着“极好的关系”，这可以追溯到他在杨百翰大学（BYU）打球的时期。</p>
-<p>萨基西安希望德克萨斯长角牛队在周六获胜后，罗能在球场上对他进行第二次采访。截至发稿时，德克萨斯大学在第一节以7比3领先田纳西大学。</p></div>
+<div class="article-body" data-article-body="true"><p>正如预期，周六的大学橄榄球赛程中没有哪场比赛能与这场相比：得克萨斯长角牛队前往诺克斯维尔，迎战田纳西志愿者队。双方情绪注定会十分高涨，而高涨的情绪往往也会带来一些夸张的庆祝动作。</p>
+<p>话虽如此，没人料到长角牛队有些球员竟然把这样的东西藏在袖子里……以及裤子里。</p>
+<p>当然，过度夸张的庆祝动作并不是什么新鲜事，但我们还是来看看长角牛队周六究竟搞出了什么名堂。</p>
+<p>排名第一的得州队在特朗普总统现场观战时惊险击败田纳西队，赢得激动人心的东南联盟胜利</p>
+<p>先说说三年级边锋科林·西蒙斯。他在本方半场深处擒抱了正在持球跑动、试图寻找突破机会的法伊松·布兰登，造成了一个关键的、16码的损失。</p>
+<p>嘿，这是一次精彩的大 play。大个子，尽管庆祝一下吧。</p>
+<p>……好吧，也许还是别做那个动作了。</p>
+<p>这种庆祝动作，适合在感恩节当天，和几个朋友在后院打野球、喝了几罐Michelob Ultra之后拿出来逗大家笑。但在一场备受瞩目的排名对决中，可不适合这样做。</p>
+<p>凯尔·尤什奇克回应啤酒罚款，详细解释自己的庆祝动作与绰号“果汁”有关</p>
+<p>这次庆祝动作伤害了球队，而且不只是损害声誉那么简单——西蒙斯因“模拟使用洗手间”而被判罚，结果这次擒杀造成的损失从16码变成了仅仅1码。</p>
+<p>当然，社交媒体彻底炸锅了。</p>
+<p>而且，仿佛这一切还不够疯狂似的，2021年OutKick“觉醒全明星挑战赛”冠军杰梅尔·希尔写了一些话，逗得我笑了起来——而且笑的原因正是她原本想达到的效果。</p>
+<p>在这里，该归功于谁，我们就会把功劳归给谁。</p>
+<p>当然，西蒙斯道歉了，但考虑到当时的情形，他使用的措辞可能是最糟糕的那种。</p>
+<p>我们明白他的意思……</p>
+<p>田纳西与得州对决前，东南联盟球迷用巨大欢呼声迎接特朗普</p>
+<p>至少，周六长角牛队的“腰部以下”庆祝动作到这里就结束了。总不至于有人在取得制胜达阵后，把腿像“摩根船长”那样抬起来，用手从胯部划过，假装闻了闻，然后直接昏倒吧。那可就太疯狂了。</p>
+<p>……等等，跑卫拉里克·布朗真的这么做了？</p>
+<p>如果他们在数千名观众面前的体育场里都这么庆祝，那他们在别的地方会做出什么样的庆祝动作？！</p>
+<p>《克雷格·卡顿秀》——未经剪辑、不加道歉、不容错过。立即下载他的每日播客！</p>
+<p>这一幕发生后，DUDE Wipes在X平台的账号管理员立即行动起来，去做他们宣誓要做的事。</p>
+<p>我真是无法相信，这两件事竟然发生在同一场比赛里。你会以为，在第一起事件发生后，总该有人提醒一句：“嘿，伙计们，咱们还是避开那些可能涉及胯部区域的庆祝动作吧。”</p>
+<p>伙计，麦康纳希得找球队好好谈谈这件事了。</p>
+<p>这可不太“妥”……好吧，好吧，好吧。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-27 01:08 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-27 06:43 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#FOX</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/texas-dropped-celebrations-tennessee-unhinged" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-026-09-27-10704309-shtml-3dea84175b8a6e2e" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="zh" data-content-length="841" data-content-paragraphs="20" data-published-at="2026-09-26T22:41:54.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/chinanews.svg" class="source-icon" alt="中新网 (全球要闻原版)" width="16" height="16" /> <strong>中新网 (全球要闻原版)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🌐 全球地缘战略</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-27 06:41</span>
+</div>
+
+### [4条高铁将同日开通 多地迈入高铁时代](https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml)
+
+<div class="article-body" data-article-body="true"><p>本报北京9月26日电(记者刘静)记者今天从中国国家铁路集团有限公司获悉，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁将于9月28日集中开通运营。4条线路横跨南北、纵贯东西，覆盖华北、东北、西北、华中四大区域，以350公里、250公里不同时速等级的钢铁动脉，打破地域时空壁垒，让多地正式迈入高铁时代。</p>
+<p>4条高铁即将同日开通，不只是路网里程的增加，更是区域地理空间格局的再塑。从华北平原到祖国北端，从秦岭深处到鄂西山区，高铁正以更快的速度连接城市与县域、枢纽与腹地，推动区域发展从“点轴”走向“网络”，为区域协调发展和中国式现代化提供有力交通支撑。</p>
+<p>此次4条高铁新线集中投运，是我国高铁路网持续完善、交通基建提质升级的生动缩影。从南北主干线补链强网，到东北边疆路网扩容，从秦岭内外互联互通，到长江流域通道优化，4条新线各司其职、互为支撑，构建起多区域、多层次、高效率的现代化高铁网络。</p>
+<p>欢迎习近平到访白宫，特朗普专门提到一个中文词语</p>
+<p>当AI重新定义“一技之长” 人机协作路在何方？</p>
+<p>不是中国的四大发明，为什么“它”在这届世赛站上了“C”位？</p>
+<p>从北美红杉到“赛考斯林”，中美友谊之树积木为林、汇林成海</p>
+<p>许绍理：美国青年为何纷纷赴华觅飞虎队情缘？</p>
+<p>古人如何过中秋？唐代赏月成为文人风雅时尚</p>
+<p>美国地名的汉译大有讲究，折射中美文化相遇、认识和彼此理解</p>
+<p>李子柒：传统文化在烟火里生长，向全世界流淌</p>
+<p>新疆这座小城，6万峰骆驼“驮”出22亿元产值</p>
+<p>“西城大妈”里怎么会有一位美国“大爷”？</p>
+<p>11秒06！亚洲女飞人诞生 17岁“小孩姐”陈妤颉夺冠</p>
+<p>品美食、赏民俗 成都川菜博物馆里的“川味”中秋</p>
+<p>江苏南京：沉浸式非遗雅集活化金陵琴派文脉</p>
+<p>当户外茶会遇上消防演习，网友：意不意外 刺不刺激</p>
+<p>人体也能带电？物理老师现场演示静电飞花原理</p>
+<p>开学第一天完美诠释一喜一悲！网友：得瑟的爹 生无可恋的女儿</p>
+<p>重庆涪陵：沿着“503”，去趟“地心”？</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【中新网 (全球要闻原版)】于 2026-09-27 06:41 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#全球地缘战略</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#中新网</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/outkick-sports/texas-steve-sarkisian-first-interview-holly-rowe-goes-off-without-hitch-after-viral-postgame-incident" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【中新网 (全球要闻原版)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-etails-abusive-childhood-ba5a05121d40974b" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1568" data-content-paragraphs="31" data-published-at="2026-09-26T17:05:48.000Z" data-time-source="publication">
+<div id="story-s-articles-ck1wxxzn5jndo-c40a3dfae780cf5b" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1062" data-content-paragraphs="21" data-published-at="2026-09-26T22:04:26.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
-    <span class="stance-badge">美保守派与鹰派</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/bbc.svg" class="source-icon" alt="BBC World (英国BBC官方英文)" width="16" height="16" /> <strong>BBC World (英国BBC官方英文)</strong></span>
+    <span class="stance-badge">英伦主流建制</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-27 01:05</span>
+  <span class="news-meta-time">🕒 2026-09-27 06:04</span>
 </div>
 
-### [西尔维斯特·史泰龙披露遭受虐待童年的惊人新细节](https://www.foxnews.com/entertainment/sylvester-stallone-shares-harrowing-new-details-abusive-childhood)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Sylvester Stallone shares harrowing new details about abusive childhood</div>
+### [东北风暴引发洪水，纽约与新泽西宣布进入紧急状态](https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Nor&#39;easter brings flooding as New York and New Jersey declare emergency</div>
 
-<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/931/523/Sylvester_Stallone.jpg?ve=1&amp;tl=1" alt="西尔维斯特·史泰龙披露遭受虐待童年的惊人新细节" loading="lazy" /></div>
+<div class="article-cover"><img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg" alt="东北风暴引发洪水，纽约与新泽西宣布进入紧急状态" loading="lazy" /></div>
 
-<div class="article-body" data-article-body="true"><p>西尔维斯特·史泰龙（Sylvester Stallone）并不是为了博取同情。</p>
-<p>这位动作巨星在最新采访中敞开心扉，谈到了充斥着遗弃、暴力和几乎完全缺失关爱的童年经历。他向《纽约时报》透露，自己故意将一些最灰暗的往事排除在书外，因为他不想让读者同情他。</p>
-<p>“我没有在书里写太多这方面的事，因为我不想搞‘卖惨大会’……但那段经历真的很疯狂，”他坦言。</p>
-<p>西尔维斯特·史泰龙透露在意外获任好莱坞大使后对特朗普说了什么</p>
-<p>父母离婚后，史泰龙曾和父亲在马里兰州生活过一段时间。他形容父亲脾气暴躁，而且有暴力虐待倾向。</p>
-<p>“接下来的事你懂的——砰！他的手非常大。你只能学会稍微躲着点。”</p>
-<p>有一段记忆对史泰龙来说格外深刻。</p>
-<p>这位好莱坞巨星表示，去教堂前父亲让他去店里买面包。他路上遇到了朋友，结果买回了坚果面包。</p>
-<p>“然后他踹了我的肚子，动手打我，把我打倒在地，随后上了车，去教堂了。”</p>
-<p>史泰龙说他当时被丢在街上，他说：“真的，这太令人难以置信了。简直不可思议。”</p>
-<p>多年后，史泰龙当面质问了父亲。在他40多岁时，史泰龙对他说：“我真希望你和我能有三分钟是同龄的。”当父亲问他为什么时，他说：“因为我想让你尝尝你自己的手段，让你知道被人揍得屁滚尿流是什么滋味。”</p>
-<p>史泰龙说父亲当时竟向他发起打架挑战，他解释说：“他当时68岁了，还准备跟我干一架。”</p>
-<p>这位《洛奇》主演将那种凶悍与他最为人熟知的角色之一联系在了一起。</p>
-<p>“所以，当人们问，‘你演兰博时那种凶狠劲儿是从哪来的？’遗传的，”他说。</p>
-<p>史泰龙还回忆说，母亲也从未向他表露过关爱。</p>
-<p>西尔维斯特·史泰龙《塔尔萨之王》第四季预告片引发粉丝狂欢：“王者归来！”</p>
-<p>“我母亲从来没有——我弟弟可以作证——拥抱过我。从来没有，一次都没有，”史泰龙分享道。</p>
-<p>他的父亲也极少表露关爱。但在史泰龙大约9岁时，他说自己在父亲的马匹旁干完活后在车里睡着了。父亲把史泰龙的头放在自己的膝盖上，并把手搭在他的头上。</p>
-<p>“我至今都忘不了那一刻，”他承认道。</p>
-<p>喜欢您正在阅读的内容吗？点击此处获取更多娱乐新闻</p>
-<p>在采访的前半部分，史泰龙讲述了自己年纪很小时就被送到寄宿公寓生活，父母每个月只去看他一次。</p>
-<p>“我就是在寄宿公寓里由陌生人养大的。那成了一种自然的环境。而我的父母其实从未真正抚育过我，所以相比于我之前住的地方，这其实算是一种优待了。”</p>
-<p>史泰龙承认，这种情感上的匮乏塑造了后来的他。</p>
-<p>当被问及这是否让他变得坚强时，他回答说：“从错误的方向上来说，是的。它确实让我变得非常强硬。”</p>
-<p>但这种强硬也付出了代价。史泰龙表示，直到大约70岁时，他才体会到了自己认为是“真真正正、真真切切的真爱”，当时他是与妻子和孩子们一同感受到的，他说：“这真是个巨大的遗憾。确实如此。”</p>
-<p>点击此处，直接通过电子邮件获取娱乐独家新闻</p>
-<p>此后，史泰龙打造了好莱坞最具辨识度的职业生涯之一，他编剧并主演了洛奇·巴尔博亚（Rocky Balboa），随后又饰演了约翰·兰博（John Rambo）。原版《洛奇》获得了10项奥斯卡提名，并斩获包括最佳影片在内的三项学院奖。</p>
-<p>在银幕之外，史泰龙在三段婚姻中的两段育有五个子女。</p>
-<p>测试您的娱乐知识，看看你能得多少分</p>
-<p>史泰龙于1974年与第一任妻子萨莎·扎克（Sasha Czack）结婚。两人于1985年离婚，育有两个儿子萨奇（Sage）和希尔乔（Seargeoh）。1985年晚些时候，史泰龙与《洛奇4》的联合主演布里吉特·尼尔森（Brigitte Nielsen）结婚，两人于1987年离婚。</p>
-<p>史泰龙于1997年与詹妮弗·弗拉文（Jennifer Flavin）结婚。他们育有三个女儿：索菲亚（Sophia）、西斯汀（Sistine）和斯嘉丽（Scarlet）。</p></div>
+<div class="article-body" data-article-body="true"><p>新泽西州冲浪城（Surf City）是遭遇洪涝的沿海社区之一。</p>
+<p>美国东北部数千万人正处于一场强风暴的路径上，该风暴带来了沿海洪水、停电、交通混乱以及体育场馆赛事的取消。</p>
+<p>美国国家气象局（NWS）表示，这场所谓的“东北风暴”（nor&#39;easter）周六给包括纽约市和波士顿在内的地区带来了“危险的沿海洪水和海滩状况、强风及暴雨”。</p>
+<p>纽约州和新泽西州已宣布进入紧急状态，两州部分地区均遭遇沿海洪水的侵袭。从弗吉尼亚州到缅因州均预报有降雨和强风。</p>
+<p>艾德·希兰（Ed Sheeran）备受期待的波士顿演唱会也是因天气原因被取消的活动之一。</p>
+<p>居民在新泽西州海文西滩（Beach Haven West）社区划皮划艇出行。</p>
+<p>东北风暴造成了大范围停电。据停电追踪网站 PowerOutage 称，已有超过10万户家庭断电，几乎全部位于美国东北部。</p>
+<p>美国联邦航空管理局建议航空旅客向航空公司查询航班动态。据 FlightAware 统计，已有超过2400架次航班延误，另有1199架次航班停飞。</p>
+<p>周六的满月预计将加剧沿海洪水。周六，新泽西州沿海社区冲浪城和马纳斯宽（Manasquan）的街道和房屋被洪水淹没。</p>
+<p>“我敦促所有新泽西人认真对待这场风暴，保持警惕并遵循当地指引，”州长米基·谢里尔（Mikie Sherrill）表示。</p>
+<p>新泽西州沿海地区的街道和房屋被洪水淹没。</p>
+<p>航班因风暴延误或取消。</p>
+<p>美国国家气象局在警报中表示：“请立即针对沿海低洼地区的严重水浸做好准备，包括道路积水以及对房屋和商业设施的影响。”</p>
+<p>在纽约，官员警告整个周末阵风时速最高可达55英里（86公里/小时），可能导致树木被吹倒和电线杆倒塌。</p>
+<p>“如果非必要，请不要出行，”纽约市长佐兰·马姆达尼（Zohran Mamdani）在视频讲话中对市民表示，“不要开车或步行穿过积水区。”</p>
+<p>在波士顿地区，红袜队将与芝加哥小熊队系列赛的最后一场比赛改期至周日下午在佛罗里达州举行。</p>
+<p>海浪拍打着马萨诸塞州的海岸。</p>
+<p>纽约红牛队与圣路易斯城足球俱乐部之间的一场职业足球比赛也被取消。</p>
+<p>原定在纽约市中央公园举行、由劳伦·希尔（Lauryn Hill）、怀克里夫·让（Wyclef Jean）和约翰·传奇（John Legend）领衔的“全球公民音乐节”（Global Citizen Festival）演唱会同样未能如期举行。</p>
+<p>场馆方面表示，出于安全原因，希兰在波士顿地区吉列体育场的演唱会已取消。</p>
+<p>由于风暴预警，艾德·希兰接下来的美国演唱会取消。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-27 01:05 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【BBC World (英国BBC官方英文)】于 2026-09-27 06:04 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#FOX</span>
+  <span class="news-tag-pill">#BBC</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.foxnews.com/entertainment/sylvester-stallone-shares-harrowing-new-details-abusive-childhood" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【BBC World (英国BBC官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-nndegat-tngl-sh-drawgent-b716be8129cd3d8f" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1344" data-content-paragraphs="1" data-published-at="2026-09-26T15:56:34.000Z" data-time-source="publication">
+<div id="story-alia-datacentre-backlash-4d101d0e27a5d87f" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="255" data-content-paragraphs="3" data-published-at="2026-09-26T22:00:47.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-26 23:56</span>
-</div>
-
-### [让 Claude 成为你在 Excalidraw 中的助手](https://tangled.org/yanndegat.tngl.sh/drawgent)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Make Claude your assistant in excalidraw</div>
-
-<div class="article-body" data-article-body="true"><p>选择你想在动态中包含的活动类型。<br />对于自建的 knot，克隆 URL 可能会因你的具体配置而有所不同。<br />前提条件：需安装并登录 claude、codex 或 opencode 中的一种。Claude 和 Codex 桥接还需要 Node.js ≥ 18 (npm)。<br />一次性检查所有项目，若有缺失则会给出精确的修复建议，并写入 ~/.config/drawgent/config.toml：<br />Agent 命令行工具（CLI）。环境变量 PATH 中需包含你的 claude / codex / opencode。<br />用于已附加会话的画布工具。只有 Codex 需要进行更改：运行 codex mcp add drawgent -- drawgent mcp。Claude 和 opencode 会在附加时自动获取工具。<br />用于渲染器的无头 Chrome（Headless Chrome）。安装配置（Setup）若发现已有 Chrome/Chromium 则直接使用，否则会建议：<br />非交互模式：--chrome download | system | /path/to/chrome。<br />如果该 agent 的 setup 未成功，或者 setup 记录的内容发生丢失，drawgent up 将拒绝启动。<br />在当前目录（工作区）中运行：<br />场景保存在 .drawgent/scene.json 中，该文件会被自动加入 git-ignore。<br />将画布连接到你已在运行的会话。若未提供 ID，它将列出找到的会话（优先显示当前目录）并供你选择：<br />docker compose up --build 会运行一个画布服务器（包含 drawgent + Chromium，不含 agent），例如用于在服务器上托管共享画布或房间桥接。Agent 从不捆绑打包：它们始终使用你自己的环境配置运行。<br />get_scene、get_screenshot（视觉能力；通过 element_ids 缩放）、add_elements（Excalidraw 骨架元素；箭头通过 ID 绑定并实现端到端布线）、add_mermaid（自动布局）、update_elements（标签跟随形状移动，绑定的箭头重新布线）、delete_elements、clear_canvas、list_instructions、resolve_instruction、set_status。<br />GET /api/health · GET /api/scene · GET /api/screenshot?ids=&amp;padding=&amp;max= · POST|PATCH|DELETE /api/elements · POST /api/mermaid · POST /api/clear · GET /api/instructions · POST /api/instructions/{id}/resolve · POST /api/status · POST /api/chat {agent?, text} · WS /ws（浏览器同步与聊天事件）<br />web/：编辑器（main.jsx、chat.jsx）以及渲染页面（render.jsx）。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-26 23:56 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://tangled.org/yanndegat.tngl.sh/drawgent" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story--chess-postmortem-skills-4b894348badcd9a5" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1994" data-content-paragraphs="1" data-published-at="2026-09-26T15:34:53.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-26 23:34</span>
-</div>
-
-### [Show HN：用于复盘分析国际象棋对局的 Claude Code 技能](https://github.com/brumar/chess-postmortem-skills)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Show HN: A Claude Code skill to analyze your chess games</div>
-
-<div class="article-body" data-article-body="true"><p>一套 Claude Code 技能，可将你的一盘国际象棋对局转化为真正易于理解的复盘总结：用通俗易懂的语言解释你犯下的错误，经由 Stockfish 引擎核对校验，并生成整盘棋的配音解说视频。<br />视频时长 6分49秒，英文解说，带字幕。<br />这是我自己实战的一盘对局：lichess 上的一场 15+10 快棋（5KmlrdyT），我执白，对阵纳依道夫防御的开放西西里防御，积分约 1700 分。在下棋过程中，我在棋盘旁放置了一个普通的录音笔，用法语边下边大声说出自己的思考过程。对局结束后，我给 Claude 提供了两样东西：lichess 的对局链接以及这段 mp3 录音。<br />Claude 使用 whisper.cpp 在本地转录了音频，然后根据 PGN 棋谱中的用时信息，将每句话与我当时决定走的那步棋进行时间匹配。因此，当视频中提到“在第八步时，你曾自问象究竟该放在 c4 还是 e2”时，那确实是我自己的疑问，并得到了引擎的解答。视频中展示的一切内容（转录文本、Stockfish 完整扫描、带注释的 PGN、故事板分镜）都存放在 examples/game-010/ 目录中。<br />Stockfish 的分析给出的都是冰冷的数据和变着。读起来不仅毫无乐趣，而且往往不告诉你背后的原因：比如你走完这步棋后评分变为 -1.8，并给出一串你在棋盘前绝不可能找到的 12 步变着。<br />我意识到 Claude 可以自己操控 Stockfish。它会向引擎提出人类会问的问题（“为什么不走我下的这步？”、“如果黑方直接吃子会怎样？”），不断追问直到答案合乎情理，然后用通俗的人类语言记录下来。而且，既然它知道我在对局中的真实思考，它就能针对我实际的推理过程进行反驳，而不是依靠猜测。分析完成后，我还可以针对任何局面继续提出自己的疑问，它会在回答前先向引擎求证核对。<br />如果你只是想快速看一眼超快棋（blitz）对局，这套工具大概不适合。Lichess 或 chess.com 的分析几秒钟就能搞定。<br />这需要时间。完整运行一遍（扫描、推演、生成注释、生成视频）需要约一个小时的处理时间。请把它用在你花时间深入思考的慢棋对局上，而不是你随手下的每一盘棋。<br />提供你的思考过程。我强烈建议传入你的手写笔记或覆盖整盘棋的录音。如果没有这些，你也能得到不错的引擎分析；但如果有了它们，你将获得对自己思维过程的全面复盘：哪些顾虑是有依据的，哪些计划是合理的，你自问了哪些问题，以及答案究竟是什么。<br />模型幻觉问题。AI 依然可能会出错。每项断言都会对照 Stockfish 进行核验，并且会有一个校验步骤对结果进行二次通读，因此根据我的经验，错误非常少见。如果发现某些地方看起来不对劲，可以让 Claude 配合引擎核对该局面。<br />这些技能是专门写给 Claude 读取的，因此 SKILL.md 文件同时充当文档。可以从 skills/chess-analysis/SKILL.md 开始阅读。<br />将技能文件夹复制（或建立软链接）到你项目的 .claude/skills/ 目录中，或者放入全局的 ~/.claude/skills/ 目录以供所有项目使用：<br />然后向 Claude 发出类似这样的指令：“analyze this game: &lt;lichess-url&gt;”或“make a video of game 010”。<br />你不需要手动配置这些。Claude Code 很可能可以替你安装：让它“install the dependencies for the chess skills”（安装国际象棋技能的依赖项），它就会读取下方的列表以及各 SKILL.md 文件。<br />对局文件保存在运行 Claude 的项目根目录下的 chess-games/ 文件夹中（games/、boards/、video/）。<br />每条评注都会根据读者的水平量身定制（annotations.json 中的 audience.level）。对于你自己的对局，向 Claude 说明一次你的棋力水平并将其固定下来，例如写在你的 CLAUDE.md 中：<br />如果不做配置，该技能会使用 PGN 棋谱中受评方的 Elo 等级分；若等级分缺失或为临时分，则会主动向你询问。<br />如需重新生成视频，请将 piper 语音包下载至 examples/game-010/video/voices/，并在故事板上运行 make_video.py。<br />采用 MIT 开源许可证，但外部引入的 chess.js（BSD 2-Clause 许可）和 cburnett 棋子素材包（CC BY-SA / GFDL 许可）除外。详见 LICENSE。<br />用于国际象棋复盘的 Claude Code 技能：基于 Stockfish 的带注释 PGN、HTML 查看器、配音解说视频</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-26 23:34 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
-</div>
-
-<div class="news-card-footer"><a href="https://github.com/brumar/chess-postmortem-skills" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-f-and-you-can-talk-to-it-feac97c0d0c1b334" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2994" data-content-paragraphs="25" data-published-at="2026-09-26T14:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/techcrunch.svg" class="source-icon" alt="TechCrunch (硅谷创业与资本)" width="16" height="16" /> <strong>TechCrunch (硅谷创业与资本)</strong></span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/guardian.svg" class="source-icon" alt="The Guardian (英国卫报官方英文)" width="16" height="16" /> <strong>The Guardian (英国卫报官方英文)</strong></span>
     <span class="stance-badge">独立专业观察</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-26 22:00</span>
+  <span class="news-meta-time">🕒 2026-09-27 06:00</span>
 </div>
 
-### [我为自己创建了一个交互式数字分身——你现在可以和它对话了](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> I created an interactive digital avatar of myself — and you can talk to it</div>
+### [官员称，澳大利亚对数据中心的反弹是美国舶来品：“我们不是美国”](https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’</div>
 
-<div class="article-body" data-article-body="true"><p>今年夏天，当视频生成初创公司 Synthesia 的企业事务负责人亚历山德鲁·沃伊卡（Alexandru Voica）给我发来一个链接，展示他们公关团队的最新成员时，我感到十分惊讶。那是他的一个交互式虚拟数字分身，经过专门训练，用来回答媒体关于 Synthesia 的常见问题，比如公司是做什么的以及它是如何运作的。就在前一天，我还参加了一场研讨会，会上公关人员问我是否介意推介信中使用 AI 生成的文本。但亚历山德鲁的分身已经远超那一阶段——在我看来，这简直就是 AI 在公关领域应用的“终极 Boss”。</p>
-<p>今年 9 月，Synthesia 邀请我参观了他们位于纽约的新办公空间。Synthesia 最初成立于英国，是当前炙手可热的数字分身初创公司之一，与其并列的还有 D-ID、HeyGen 和 Colossyan 等。该公司今年早些时候估值达到 40 亿美元，并在去年表示其年度经常性收入（ARR）已突破 1 亿美元。</p>
-<p>Synthesia 允许企业利用 AI 分身制作交互式培训视频，并且最近推出了一款名为“角色扮演环节”（Roleplay Sessions）的产品，让员工可以例如与一个能做出回应并为员工回答打分的交互式 AI 分身一起练习销售推介。</p>
-<p>当我参加新办公室启用仪式、他们询问我是否想拥有自己的 AI 分身时，我毫不犹豫地答应了。我当然想要一个属于自己的数字孪生。那天我的着装很得体，发型也打理得很不错。</p>
-<p>在见到我的数字孪生之前，我对虚拟分身一直持无所谓的态度，但我感觉它们不可避免地会成为日常网络生活的一部分。我听说 Instagram 上有人按照自己的模样创建分身来帮助制作社交内容。我觉得这一切都非常有趣，这或许也是为什么我现在毫无顾虑地向大家展示我的数字孪生。这是 Synthesia 首次为记者制作数字分身（或者说除沃伊卡之外的任何人）。它是基于我写的一篇关于“为什么风投支持的初创公司比非风投支持的初创公司造假更多”的报道进行训练的，并且只会回答有关该报道的问题。</p>
-<p>在下方，只需点击“在新窗口中启动”（start in a new window）即可开始。</p>
-<p>你可以向它提问以下这类问题：</p>
-<p>为了制作这个分身，我走进了隐匿在 Synthesia 办公室内部的一个迷你摄影棚，在那里他们给我拍了许多照片，并录制了我两分钟的声音素材。我必须签署同意书允许制作这些分身，接着，数字化 Dom 就诞生了。他们为我创建了一个个人分身（只读我给它的任何脚本）——分为戴眼镜和不戴眼镜两个版本；他们还为我制作了两个交互式分身（能与我互动交谈并倾听我的声音），同样分为戴眼镜和不戴眼镜两个版本。</p>
-<p>我们挑选了一篇文章用来训练这个交互式分身，随后其中一个团队搭建了我的交互式分身，它由语音转文本、视频、语言和文本转语音模型的组合提供支持。我分身的技术栈包括 Synthesia 自研的视频和语音模型，不过该公司也允许客户选择来自 Cartesia、ElevenLabs、谷歌或 OpenAI 等其他实验室的替代方案。企业还可以选择将它们的分身托管在自己想要的任何云端，或者付费由 Synthesia 进行托管。</p>
-<p>语音转文本模型将人们所说的话转化为文字，具备代理能力的语言模型理解文本含义并能据此采取行动，文本转语音模型将回复转化为音频，最后由 Synthesia 构建的视频模型在分身说话时生成动态面部和动作画面。</p>
-<p>总体而言，Synthesia 打造了三类产品——带有经典分身的视频创作与分发平台，用户输入脚本，分身进行复述；一个名为 Sessions 的代理平台，人们可以在调查问卷或角色扮演中与分身进行互动；以及一个 API 平台，人们可以提取 Synthesia 的视频和语音模型，并将它们与其他技术服务相结合，以构建交互式分身或其他类型的产品。</p>
-<p>Synthesia 团队花了两三天时间来制作我的分身。我首先试用了个人分身，输入了一段相当平常的脚本，来看看我的 AI 声音听起来如何。我让它讲述纽约秋天的到来，那是我一年中最喜欢的季节。声音相当准确，我很庆幸它丝毫没有带出我录制音频样本时的沙哑声。</p>
-<p>我把它展示给了一些不懂科技的朋友，他们觉得这既有趣又让人有点毛骨悚然。</p>
-<p>随后我向他们展示了我的交互式分身，它是确定性的，意味着它只会说那些经过训练去回答的内容。在这个案例中，就是关于我的风投欺诈报道。我问了它一些问题，比如在加入 TechCrunch 之前我在哪里工作、我住在纽约哪个区域，但每一次它都把话题引回那篇报道。</p>
-<p>我的朋友们觉得这个声音不太像我，且神态相似度不如个人分身，但尽管如此，它已经足够逼真，令人有些不寒而栗。我妈妈称其“不可思议”，这对她来说是极高的评价了。她和我父亲一直试图问它“只有他们才知道”的关于我的事情——但模型没有回答，每一次都将他们引回到那篇风投欺诈的报道上。</p>
-<p>“我可不记得生了你们两个，”她在测试完模型后开玩笑道。</p>
-<p>这次经历让我开始思考新闻业的未来会是怎样。如果打开新闻，发现是由一个虚拟分身在播报，人们能接受吗？一位投资者斩钉截铁地对我说不。当然，如今人们对侵入社交媒体和其他新闻分享平台的“AI 垃圾内容”（AI slop）充满了抵制。但我问过的其他人却没有那么肯定。分身能否增强——甚至取代——记者？CEO 们会愿意与记者的 AI 分身交谈而不是与真人交谈吗？</p>
-<p>我热爱自己职业的原因在于与人建立联系、撰写报道以及研究新课题。但新闻业最重要的基石是信任。这一点似乎永远不可能外包给 AI。</p>
-<p>在新闻业之外，我确信克隆自己的想法可能会很有吸引力。在假期或休假结束后无需再忙着赶工作进度，因为总有一个版本的你随时待命，替你回答问题。</p>
-<p>我们还需要拭目以待虚拟分身的应用在全美企业界将如何发展。但既然现在我自己也有了一个，我的心情很复杂。在最初的新鲜感过去后，每当我的分身停止说话时，我都会仔细端详它并等待着——至于在等什么，我也说不准。也许我在等它眨眼。或者等它说点新东西、等它微笑，或者只是等它让我知道它其实心里明白。</p>
-<p>由于我的数字孪生是确定性的，它们永远不会那样做。但我能预见，如果面对的是一个非确定性的分身——也就是由一个可以自由发表高见的聊天机器人驱动的分身，人们是多么容易陷入一丝“AI 精神病”般的恍惚之中。</p>
-<p>我告诉一位投资者，无论数字孪生的未来如何，我预测我们这代人（Z 世代）很可能不会习惯它们。它们感觉很科幻：我们在电影里看到的一切现在都变成了现实。但我必须说，我觉得数字分身比人形机器人没那么刺眼。至少面对分身，如果事情变得诡异起来，我随时可以退出登录。</p>
-<p>不过在那之前，先来看看我的个人分身吧，它将为你快速盘点本周我们网站上的所有热门报道！</p>
-<p>当您通过我们文章中的链接购买商品时，我们可能会获得少量佣金。这不会影响我们的编辑独立性。</p>
-<p>风险投资高级记者<br />多米尼克-马多里·戴维斯（Dominic-Madori Davis）是 TechCrunch 的风险投资与初创公司高级记者，常驻纽约市。<br />您可以通过发送电子邮件至 dominic.davis@techcrunch.com，或通过 Signal 发送加密信息至 +1 646 831-7565 与多米尼克取得联系或核实联络信息。</p></div>
+<div class="article-cover"><img src="https://i.guim.co.uk/img/media/9c9ec69d76f8fe3ecc5633e32f9280cf5f31c95d/596_0_5955_4764/master/5955.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01353e0ddc0fc03ae707aafb4d165549" alt="官员称，澳大利亚对数据中心的反弹是美国舶来品：“我们不是美国”" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>支持数据中心的官员称，澳大利亚的数据中心建设规模较小、监管更严，对环境和社会造成的损害也低于美国</p>
+<p>澳大利亚政界人士和商界领袖表示，该国民众对人工智能数据中心日益增长的不满，是从美国输入的一种不真实现象。</p>
+<p>与美国一样，随着大型人工智能数据中心建设激增，澳大利亚社区的不满情绪也在上升。不过，支持数据中心的官员和高管认为，澳大利亚的数据中心建设规模较美国小，监管也更严格，因此造成的损害较小。他们表示，日益高涨的负面反应，正受到一场激烈的美国争论的影响并被其煽动，而这场争论已通过社交媒体信息流传到了澳大利亚。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【TechCrunch (硅谷创业与资本)】于 2026-09-26 22:00 发布，当前内容状态：已取得正文证据</li>
-    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
-  </ul>
-</div>
-
-<div class="news-card-tags">
-  <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#TechCrunch</span>
-</div>
-
-<div class="news-card-footer"><a href="https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【TechCrunch (硅谷创业与资本)】官方出处原文 ↗</a></div>
-:::
-
-:::cell
-<div id="story-lectibles-documents-logs-4dd83f4a38c69318" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2335" data-content-paragraphs="13" data-published-at="2026-09-26T13:00:00.000Z" data-time-source="publication">
-  <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
-    <span class="stance-badge">独立专业观察</span>
-    <span class="dimension-pill">🧠 前沿智能</span>
-  </div>
-  <span class="news-meta-time">🕒 2026-09-26 21:00</span>
-</div>
-
-### [《控制：共鸣》是一款佳作——当你读完所有文档时，它会更上一层楼](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Control Resonant is a great game — it’s even better when you read everything</div>
-
-<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Story_04.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="《控制：共鸣》是一款佳作——当你读完所有文档时，它会更上一层楼" loading="lazy" /></div>
-
-<div class="article-body" data-article-body="true"><p>在《控制：共鸣》（Control Resonant）中，整个世界危在旦夕。但这并没有阻止联邦控制局（FBC）勤勉的员工们归档一摞摞繁杂的文件，也没有阻止我去通读我能找到的一切。在《共鸣》中阅读往往是可选的，但游戏中一些最精彩的细节——甚至包括爱情故事！——恰恰藏在其中。</p>
-<p>在《控制：共鸣》及其前作（2019年的《控制》）的世界观里，FBC负责处理那些违背常理、神秘莫测的超自然物体与实体。但FBC本身仍然是一个老派的官僚机构，这意味着有海量的报告、备忘录（通常经过大量涂黑隐去关键信息）以及各类纸质散碎文件需要梳理。我本就喜欢阅读，尤其喜欢读开发商Remedy那机智且时常诙谐的文笔，但一开始面对庞大的文本量，我还是感到不知所措。</p>
-<p>起初，我跳过了那些看起来属于可选的文档：即敌人日志，它们被整合在一个单独的分页标签下，在首次击败每种敌人类型后会自动解锁。那时我光是摸索怎么找路就忙得不可开交——总体来说我不太擅长空间推理，而在《共鸣》中那犹如埃舍尔（M.C. Escher）画作般扭曲翻折的曼哈顿里，重力并不总是按常理出牌。此外，我还要忙着痛击游戏中众多被称为“希斯”（Hiss）和“霉菌”（mold）的敌人，根本无暇去阅读关于它们的文字。</p>
-<p>[图片：游戏中最好的文档不仅包含了关于世界的重要背景信息，还展现了身处其中的人物性格。 https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4473.jpg?quality=90&amp;strip=all]</p>
-<p>但在游戏初期，我在战斗中吃尽了苦头，以至于我最终决定通读已解锁的敌人日志，看看是否有任何帮助。（游戏中设有辅助模式以便调整战斗难度，但我当时脾气倔，不愿开启。Remedy后来推出了热修复补丁以解决关于战斗平衡性的批评意见。）这些由FBC“威胁评估小组”编纂的日志确实派上了用场；它们详细记录了每种敌人的攻击模式和弱点，而当敌群蜂拥而上时，这些信息并不容易摸清。</p>
-<p>但我惊喜地发现，敌人日志中竟然还隐藏着一部职场爱情喜剧。“威胁评估小组”由负责记录希斯实体的里克·帕特尔（Rick Patel）和负责记录霉菌及部分后期敌人的莉迪亚·M·B·麦克皮尔斯（Lydia M.B. McPierce）组成。里克性格相当严肃、直来直去，而莉迪亚则总在正经记录的间隙，挤出大量篇幅疯狂吐槽霉菌。然而，性格截然相反的人往往互相吸引。在数十篇日志中，我见证了他们各自个性的展露——以及他们爱情故事的开端。</p>
-<p>其中一种敌人叫做“希斯运输车”（Hiss Transporter），那是一辆被希斯腐化的城市公交车，它会释放无人机代为发起攻击。在关于它的日志中，里克将这辆公交车与无人机——看似是曾为人类的希斯实体融合在公交座椅上——之间的互动关系描述为“母性般的”。莉迪亚在另一份关于名为“孢子之母”（Spore Mother）的霉菌敌人的文档中对他进行了回怼。“（郑重声明，给这个东西起名叫‘母亲’的不是我，而是里克。我专程去看了心理医生并调整了心态，正是为了克制自己不去产生那种冲动），”她在底部的旁注中写道。在另一份文档中，莉迪亚打趣里克（此时她已经叫他“小里克/瑞奇”了），炫耀自己在国际象棋上下赢了他，并向他下战书要求重赛。</p>
-<p>[图片：莉迪亚虽然对里克有些调侃戏谑，但她显然很喜欢他那份认真的关切！ https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4465.jpg?quality=90&amp;strip=all]</p>
-<p>莉迪亚是《共鸣》中展现Remedy风趣文笔的最佳代表之一，而里克的笔触则要枯燥得多。但他同样很温柔，并且经常提及莉迪亚；在一篇日志中，他说要是早知道莉迪亚患有呕吐恐惧症（emetophobia），他就会主动提出与她调换部分职责，好让她避开霉菌那些类似呕吐物的攻击。（我自己也患有呕吐恐惧症，所以觉得这一幕尤为暖心。干得好，瑞奇。）</p>
-<p>随后，在一份关于某种极其危险的希斯变种实体的文档中——他在近距离观察时险些丧命——里克终于袒露了心声：</p>
-<p>&gt; 我差点就死了。要是再来一次这样的险境，我可能就真交代了。我不想在没有给我们的感情一个机会之前就这样离去，莉迪亚。还记得我们曾嘲笑彼此理想约会方式完全南辕北辙、笑话我们要是成了会是多么鸡飞狗跳的一对吗？那不一定只能是个玩笑。我觉得我们之间是有可能擦出真挚火花的，你和我。你觉得呢？（别担心，你可以在喝咖啡时当面数落我连当面表白的勇气都没有是个懦夫。）</p>
-<p>我不知道莉迪亚是否真的看到了这张便条，因为我还差最后一篇单独的敌人日志没有拿到。但我知道她对他同样怀有好感。在游戏后期的一份文档中，面对看似真正走向末日的世界，莉迪亚在底部附了一段旁注：“（嘿，瑞奇，虽然有点突兀，但如果我们真能活过这场危机，找时间一起喝杯咖啡怎么样？）”</p>
-<p>不仅在纸质文档中，Remedy在《共鸣》的世界各处都埋下了诸如此类的微型故事和趣味细节。事实证明，阅读成为了我游戏体验中不可或缺的一部分。我不仅学会了如何更好地应对游戏中的敌人，在此过程中，我还深深喜欢上了两个从未谋面的角色。除了办公室恋情，这里还有太多值得发掘的内容——从网红博主眼中的曼哈顿“盗梦空间般的错乱街道”，到FBC极其严重的伦理违规行为——所有这些都极大丰富了Remedy笔下那个荒诞离奇的奇妙世界。我现在下定决心一定要找出并消灭最后一种敌人类型，以便能读到莉迪亚的最终日志，而且我相信在沿途中我还会偶然发现其他遗漏的文档。我迫不及待地想看看还能发现什么了。</p></div>
-
-<div class="news-card-takeaways">
-  <div class="takeaways-header">💡 核心研判与各方动向</div>
-  <ul class="takeaways-list">
-    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-26 21:00 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【The Guardian (英国卫报官方英文)】于 2026-09-27 06:00 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
@@ -612,50 +607,127 @@ notice:
   <span class="news-tag-pill">#The</span>
 </div>
 
-<div class="news-card-footer"><a href="https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Guardian (英国卫报官方英文)】官方出处原文 ↗</a></div>
 :::
 
 :::cell
-<div id="story-king-up-with-google-play-fef3d86a310799ac" class="story-anchor"></div>
-<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="2280" data-content-paragraphs="12" data-published-at="2026-09-26T10:55:56.000Z" data-time-source="publication">
+<div id="story-d-groceries-5-perks-know-8ba8c9d50ed8f755" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="rss" data-content-kind="rss-body" data-source-lang="en" data-content-length="1285" data-content-paragraphs="21" data-published-at="2026-09-26T21:45:44.000Z" data-time-source="publication">
   <div class="news-card-meta-left">
-    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/hackernews.svg" class="source-icon" alt="Hacker News (科技前沿论坛)" width="16" height="16" /> <strong>Hacker News (科技前沿论坛)</strong></span>
-    <span class="stance-badge">民间技术与思想社群</span>
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/fox.svg" class="source-icon" alt="FOX News Latest (美国FOX快讯)" width="16" height="16" /> <strong>FOX News Latest (美国FOX快讯)</strong></span>
+    <span class="stance-badge">美保守派与鹰派</span>
     <span class="dimension-pill">🧠 前沿智能</span>
   </div>
-  <span class="news-meta-time">🕒 2026-09-26 18:55</span>
+  <span class="news-meta-time">🕒 2026-09-27 05:45</span>
 </div>
 
-### [与 Google Play 分道扬镳：为何 Conversations 现在完全免费](https://gultsch.de/posts/breaking-up-with-google-play/)
-<div class="original-title-sub"><span class="orig-tag">原文</span> Breaking Up with Google Play: Why Conversations Is Now Free</div>
+### [Costco会员资格除了杂货之外还提供隐藏优惠：五项值得了解的福利](https://www.foxnews.com/food-drink/costco-membership-offers-hidden-savings-beyond-groceries-5-perks-know)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Costco membership offers hidden savings beyond groceries: 5 perks to know</div>
 
-<div class="article-body" data-article-body="true"><p>Conversations 是我为 Android 开发的联合式即时通讯客户端，它的起步与许多传统的开源项目如出一辙：源自于“解决自己的痛点”。开发工作始于 2014 年 1 月我的学生宿舍里，几周之内，我就开始进行内部试用（dogfooding），并将其作为与朋友交流的主要工具。然而，当到了 2014 年 3 月 24 日——距今整整十二年半之前——要向公众公开发布这款应用时，我立刻明确了一点：我至少要尝试将这个开源项目变成一门生意。虽然公开源代码但对编译好的二进制安装包收费这种商业模式并非我首创，但在 2014 年，这无疑还是相当不寻常的。</p>
-<p>时光飞逝十年过去，我确实成功地将 Conversations 变成了一门可持续的生意。自 2014 年 3 月以来，Conversations 以及相关的活动一直是我最主要的收入来源。不可否认，作为一名住在狭小宿舍里的学生，维持生活并不需要太多开销，但幸运的是，随着我年龄的增长，收入也在稳步提升。</p>
-<p>多年来，具体的收入来源发生过转变。刚开始时，大部分收入来自那些想要使用 Conversations 的公司所支付的定制开发费用。有些公司付费开发的功能最终合并进了 Conversations 的主线版本；而另一些公司则需要针对其工作流高度定制的功能，这些功能根本没有必要合并回上游代码。偶尔，我也会通过提供服务器搭建服务，甚至是就即时通讯和安全相关主题提供咨询来补充收入。后来，资助项目和科研基金发挥了越来越重要的作用。</p>
-<p>然而，有一项令人意想不到且极其稳定的收入来源，始终是 Play 商店的销售收入。我过去常说，是它替我付了房租。每一位自由职业者都深知那种只能每隔几个月开一次发票、或者只有在资助期结束时才能拿到项目款所带来的不确定感。任何形式的固定收入——尤其是在早期你尚未积累起任何积蓄的阶段——都是一种莫大的恩赐。</p>
-<p>Conversations 2014年至2026年的总收入（扣除谷歌分成及销售税前）</p>
-<p>我和谷歌的关系从来没有好过。应用更新因为各种匪夷所思的理由被驳回的次数，我已经数不清了。Conversations 曾两度被从 Play 商店直接下架。有一次，谷歌毫无征兆地指控我上传了用户的通讯录1——这纯属子虚乌有，而且也并不是由某次特定的更新所引发的。无数次，我都希望能哪怕和一个真正的活人沟通五分钟。如果我不是在与人工智能和点击众包工人打交道，许多误解本可以在短时间内冰释前嫌。在撰写这篇博文时，我已经等待了整整 14 天让谷歌审核一次应用更新。审核速度从来就没快过，也从未达到过我认为可以接受的水平，但在过去一年左右的时间里，情况变得更加糟糕了。可以想见，部分问题源于海量由 AI 生成的垃圾应用——而谷歌本身在促成这一局面中就起到了推波助澜的作用。然而，谷歌理应有责任优先处理那些历史悠久、非 AI 生成且更新频率不高的应用。对某些人来说，为新功能多等上一阵子或许不算什么大不了的事，但谷歌在功能更新与安全补丁之间根本不做区分。将安全更新推迟数天甚至数周，完全是在制造安全隐患。</p>
-<p>在此，我需要补充一些背景信息。谷歌从我的应用销售额中抽取 15% 的提成。这实际上意味着我每年要为他们的服务向谷歌支付超过 1000 欧元。每年 1000 欧元是我宽带网络费用的 1.5 倍。如果你按一台笔记本电脑使用三到四年折算，这大致相当于我每年花在笔记本电脑上的费用。当我的宽带出现故障时，会有人开车上门帮我修好。当我的笔记本电脑坏了时，也会有人上门帮我修好。而当谷歌把事情搞砸时，我却完全无能为力。显然，每年付给他们这笔钱，甚至都不配让我享有哪怕每年一次、和一个真正的人类交谈五分钟的特权。</p>
-<p>多年来，我一直觉得自己与谷歌处在一段病态且有害的关系中，而我之所以忍气吞声留下来的唯一原因就是经济上的依赖。</p>
-<p>随着时间的推移，我的收入来源越来越向各类资助基金倾斜。有时是通过 NLnet234，有时则是更直接地来自欧盟委员会5。通过各项资助基金，我的资金链已经稳固保障到了 2029 年底，而且我相当有信心在此之后还会出现其他的资助机会。</p>
-<p>Conversations 一直都在 F-Droid 上提供，但在初期，我并没有宣传可以免费下载该版本。起初，F-Droid 的软件包维护者在得知 Conversations 在 Google Play 上是付费应用后，还特地征求了我的许可。我并没有拒绝，但我也没有在官方网站上提供指向 F-Droid 的链接，因为我想引导用户去购买付费版本。后来，随着我对谷歌的印象每况愈下，我开始在官网上链接到 F-Droid。如今，F-Droid 已经成为该应用最主要的分发渠道。通过 F-Droid 分发的 APK 现在实现了可重现构建，并由我的个人签名密钥进行签名。</p>
-<p>幸运的是，我在经济上已经不再依赖 Google Play 商店的收入了。谷歌不再配得上我和我的金钱。我不伺候了。去他的平台守门人。</p>
-<p>https://gultsch.social/@daniel/111929074071688694 ↩︎<br />https://nlnet.nl/project/Conversations/ ↩︎<br />https://nlnet.nl/project/Conversations-3.0/ ↩︎<br />https://nlnet.nl/project/Conversations-OpenPGP-refresh/ ↩︎<br />https://mobifree.org ↩︎</p></div>
+<div class="article-cover"><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/costco-checkout.jpg?ve=1&amp;tl=1" alt="Costco会员资格除了杂货之外还提供隐藏优惠：五项值得了解的福利" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>Costco会员资格最为人熟知的是大宗杂货、1.50美元的热狗套餐，以及成摞的大包装纸制品，但一些最大的节省其实可能发生在蜿蜒的结账队伍之外。</p>
+<p>据该公司网站和新闻报道，Costco会员可以享受从旅游、汽油到礼品卡、眼科服务和保修保障等一系列折扣和服务。</p>
+<p>以下是消费者在仓储店货架之外充分利用Costco会员资格的五种鲜为人知的方式。</p>
+<p>调查发现：富裕美国人选择的杂货连锁店与竞争对手不同</p>
+<p>据《Money Talks News》报道，购买Costco汽油可以帮助家庭抵消费年费。其价格通常低于竞争对手，但据该媒体报道，实际节省金额因所在地和驾驶习惯而异。</p>
+<p>此外，Costco会员还可以在前往加油站之前，通过Costco应用查看当地油价和加油站营业时间。</p>
+<p>加油站还有另一个鲜为人知的便利之处：仓储店的加油管线较长，因此驾驶者可以从车辆任意一侧加油。Costco网站写道：“无论你的油箱位于汽车左侧还是右侧，你都可以选择排队人数最少的队伍。”</p>
+<p>Costco美食广场的这款食品蛋白质含量超过菜单上的任何其他食品，但有一个条件</p>
+<p>将Costco每年65美元的会员资格升级为130美元的Executive会员资格，可在部分符合条件的消费上获得年度2%的奖励，最高可达1,250美元。</p>
+<p>由于升级费用比Gold Star会员资格高出65美元，消费者每年需要进行约3,250美元的符合条件的消费，才能抵消费用差额。</p>
+<p>Costco多年后重新推出深受粉丝喜爱的美食广场食品</p>
+<p>Executive会员还可提前进入仓储店，许多门店从上午9点开始营业；此外，会员还可在部分Costco服务项目上享受额外折扣。</p>
+<p>Costco Travel允许会员通过Costco预订度假套餐、邮轮、酒店和租车服务。Executive会员还可以在符合条件的旅游消费上获得2%的年度奖励，但这笔奖励会在旅行结束后入账。</p>
+<p>点击这里查看更多生活方式新闻</p>
+<p>《Money Talk News》报道称，一名预订哥斯达黎加之旅的会员表示，返程后获得了一张200美元的Costco购物卡，抵得上三年多的会员费。</p>
+<p>点击这里订阅我们的生活方式新闻简报</p>
+<p>据Costco网站，该公司以折扣价销售多种活动的礼品卡，包括主题公园门票和城市探索通票。</p>
+<p>Seniors Life Insurance Finder创始人兼首席执行官琳达·查韦斯告诉《Real Simple》：“Costco提供的优惠包括两张面值50美元的礼品卡售价79.99美元，或四张面值15美元的礼品卡售价44.99美元。”“这些优惠让消费者轻松囤积礼品卡，用于圣诞节或生日送礼，”她补充说，“电影院、主题公园、演出、活动等的礼品卡也可以买到。”</p>
+<p>用我们最新的生活方式测验测试一下自己</p>
+<p>据《Money Talks News》报道，在Costco轮胎中心购买轮胎的消费者，在这些轮胎的使用期限内可以免费享受轮胎换位、动平衡、胎压检查和补胎服务。</p>
+<p>该网站指出，这些服务的价值会随着时间推移逐渐增加，但消费者在购买前应比较当地的轮胎价格和可提供的服务。</p></div>
 
 <div class="news-card-takeaways">
   <div class="takeaways-header">💡 核心研判与各方动向</div>
   <ul class="takeaways-list">
-    <li>权威信源【Hacker News (科技前沿论坛)】于 2026-09-26 18:55 发布，当前内容状态：已取得正文证据</li>
+    <li>权威信源【FOX News Latest (美国FOX快讯)】于 2026-09-27 05:45 发布，当前内容状态：已取得正文证据</li>
     <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
   </ul>
 </div>
 
 <div class="news-card-tags">
   <span class="news-tag-pill">#前沿智能</span>
-  <span class="news-tag-pill">#Hacker</span>
+  <span class="news-tag-pill">#FOX</span>
 </div>
 
-<div class="news-card-footer"><a href="https://gultsch.de/posts/breaking-up-with-google-play/" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【Hacker News (科技前沿论坛)】官方出处原文 ↗</a></div>
+<div class="news-card-footer"><a href="https://www.foxnews.com/food-drink/costco-membership-offers-hidden-savings-beyond-groceries-5-perks-know" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【FOX News Latest (美国FOX快讯)】官方出处原文 ↗</a></div>
+:::
+
+:::cell
+<div id="story-ums-that-knock-interview-24b3978581e64006" class="story-anchor"></div>
+<div class="news-card-header" data-content-status="full" data-translation-status="full" data-content-source="official-page" data-content-kind="official-page-body" data-source-lang="en" data-content-length="1690" data-content-paragraphs="33" data-published-at="2026-09-26T19:30:00.000Z" data-time-source="publication">
+  <div class="news-card-meta-left">
+    <span class="source-badge"><img src="/INFO-LIVE/assets/sources/theverge.svg" class="source-icon" alt="The Verge (前沿数码科技)" width="16" height="16" /> <strong>The Verge (前沿数码科技)</strong></span>
+    <span class="stance-badge">独立专业观察</span>
+    <span class="dimension-pill">🧠 前沿智能</span>
+  </div>
+  <span class="news-meta-time">🕒 2026-09-27 03:30</span>
+</div>
+
+### [Decap是你最喜欢歌曲背后鼓声的幕后人物](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
+<div class="original-title-sub"><span class="orig-tag">原文</span> Decap is the man behind the drums behind your favorite song</div>
+
+<div class="article-cover"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="Decap是你最喜欢歌曲背后鼓声的幕后人物" loading="lazy" /></div>
+
+<div class="article-body" data-article-body="true"><p>该主题的文章将添加到你的每日电子邮件摘要和主页信息流中。<br />查看所有娱乐内容</p>
+<p>制作人兼声音设计师Decap的“Drums That Knock”鼓组，遍布过去10年间一些最热门的歌曲。</p>
+<p>该作者的文章将添加到你的每日电子邮件摘要和主页信息流中。<br />查看Terrence O&#39;Brien的所有文章</p>
+<p>我想，指出Decap的知名度不及Kendrick Lamar、Olivia Rodrigo或Charli XCX，并不会伤害任何人的感情。但他的指纹遍布这些艺人的歌曲，也出现在许多其他艺术家的作品中，包括Freddie Gibbs、Bad Bunny、Mac Miller、BTS，甚至还有Ludwig Göransson为《奥本海默》创作的配乐。</p>
+<p>Nicholas Piantedosi更广为人知的名字是Decap。他是一名唱片制作人，但或许更重要的是，他是“Drums That Knock”背后的人。这是一系列采样包，已经被不同音乐类型的无数唱片采用。该系列非常成功，自2016年首次推出以来，如今已经发行到第11辑。Kenneth Blume曾以Kenny Beats之名活动，是Denzel Curry、Vince Staples、Rico Nasty、Idles和FKA Twigs等艺人热门作品的制作人。他说，Decap“仅凭一记军鼓就改变了数百万人的生活”。</p>
+<p>对于一个如此痴迷低频的人来说，他毫不掩饰自己对手机扬声器的不满。即便在自己选择的数字音频工作站Ableton Live中拥有各种现代工具，他仍然无法放弃那台值得信赖的1998年Boss SP-202 Dr. Sample。</p>
+<p>你最不可或缺的工具是什么？</p>
+<p>Ableton Live。我的想法就是通过它表达出来的。</p>
+<p>哪一样最被低估？</p>
+<p>削波器。软削波器可以让你的鼓声拥有温暖的模拟音色，也可以让鼓声听起来冲击力十足。它是改变了我的音乐的工具。</p>
+<p>关于手机，有一件什么事是你希望能够改变的？</p>
+<p>扬声器。我希望能在手机上听到浑厚的808鼓声。未经处理的原始808，在手机扬声器上基本听不见。所以很多人整天用手机听音乐，却始终无法真正感受到低频。如果我能让自己的鼓声在手机上依然产生震撼效果，那就说明我做对了什么。</p>
+<p>你曾经拥有过的最喜欢的设备是什么？</p>
+<p>我的Boss SP-202采样器。这是我拥有的第一台采样器，是在初中时我刚开始制作节拍的时候买的。我用它切割了自己的第一批采样，而这也成为我如今所做一切的起点。</p>
+<p>你希望哪一种科技趋势消失？</p>
+<p>对设备的设门槛。有人认为，除非使用硬件，或者除非使用某个数字音频工作站，否则就不算真正的制作人。这不是真的。只要你有一台电脑，就已经拥有了所需的一切。最厉害的制作人可能是北非某个戴着Skullcandy耳机的孩子。我唯一在乎的是你到底厉害不厉害。</p>
+<p>有一件什么东西是你希望自己创造出来的？</p>
+<p>老实说，没有。我很乐意制作对我而言有意义、能够表达自我的音乐。我不需要创作别人的音乐。</p>
+<p>你最引以为傲的创作是什么？</p>
+<p>创造出我喜欢的、极具冲击力的声音，并看着它跨越不同音乐类型传播开来。</p>
+<p>你收到过的最好建议是什么？</p>
+<p>我父亲给我的建议：无论如何，都要作出决定，并把立场坚定地钉在地上。但要记住，地桩是什么样的。你随时都可以把它拔出来，换个地方重新插下。</p>
+<p>需要集中注意力时，你会做什么？</p>
+<p>我会冥想。它能让我的思想和身体保持一致；当两者对齐时，我就能清晰得多地集中注意力。如果头脑状态不对，一切总会有些偏差。</p>
+<p>感到卡住、没有进展时，你会做什么？</p>
+<p>“3M”方法：做出来、混音导出、继续前进。它不必完美。关键是保持在创作行动之中，因为魔力就发生在那里。</p>
+<p>你认为哪些东西值得花大价钱？</p>
+<p>真正美味的食物。住在洛杉矶，就不缺令人难以置信的餐厅，而我也喜欢出去吃一顿精致的晚餐。</p>
+<p>如果要为你的传记电影写一句宣传语，会是什么？</p>
+<p>“这一切都始于我不想找一份正经工作。”</p>
+<p>你最近使用的GIF或表情包是什么？</p>
+<p>一份免费每日摘要，带来最重要的新闻。</p>
+<p>这是原生广告的标题</p></div>
+
+<div class="news-card-takeaways">
+  <div class="takeaways-header">💡 核心研判与各方动向</div>
+  <ul class="takeaways-list">
+    <li>权威信源【The Verge (前沿数码科技)】于 2026-09-27 03:30 发布，当前内容状态：已取得正文证据</li>
+    <li>来源叙事与事实证据分开记录；若官方页面未公开完整正文，不以模板化内容替代。</li>
+  </ul>
+</div>
+
+<div class="news-card-tags">
+  <span class="news-tag-pill">#前沿智能</span>
+  <span class="news-tag-pill">#The</span>
+</div>
+
+<div class="news-card-footer"><a href="https://www.theverge.com/report/1000994/decap-drums-that-knock-interview" target="_blank" rel="noopener noreferrer" class="news-source-link">查阅【The Verge (前沿数码科技)】官方出处原文 ↗</a></div>
 :::
 
 ::::
